@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Limiter Feed</title>
+    <link>https://yourname.github.io/rss-limiter-feed/limited.xml</link>
+    <description>Rate-limited RSS aggregation feed</description>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 02 Jul 2026 04:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>[TechCrunch] Example startup raises Series A</title>
+      <link>https://example.com/articles/startup-series-a</link>
+      <guid>example-techcrunch-2026-07-02-1</guid>
+      <pubDate>Thu, 02 Jul 2026 01:00:00 GMT</pubDate>
+      <description>Example Author | This is a sample item for the limited RSS output. Replace this file with the real generated feed after running feed_limiter.py.</description>
+    </item>
+
+    <item>
+      <title>[Reuters World] Example central bank policy update</title>
+      <link>https://example.com/articles/central-bank-update</link>
+      <guid>example-reuters-2026-07-02-1</guid>
+      <pubDate>Thu, 02 Jul 2026 02:00:00 GMT</pubDate>
+      <description>Reuters Staff | This is another sample item so Feedly and GitHub Pages can verify the feed structure before your real pipeline is live.</description>
+    </item>
+  </channel>
+</rss>
