@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 03 Jul 2026 01:49:54 GMT</lastBuildDate><item><title>[华尔街见闻] “AI鬼故事”不断！“老牌PE”黑石意外退出“全球最大数据中心园区”</title><link>https://wallstreetcn.com/articles/3776118</link><guid>41b09e47830dae32b8b3c9ef18e9db36ac05c3b100b6ac00f4827ac16f2b8e29</guid><pubDate>Fri, 03 Jul 2026 01:09:15 GMT</pubDate><description><![CDATA[<p>全球最大数据中心园区项目正走向终结。随着黑石集团旗下QTS Realty Trust宣布放弃建设计划，弗吉尼亚州"数字门户"项目在失去最后一位开发商后，实际上已名存实亡。</p>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><ns0:link href="https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml" rel="self" type="application/rss+xml" /><lastBuildDate>Fri, 03 Jul 2026 02:09:53 GMT</lastBuildDate><item><title>[华尔街见闻] “AI鬼故事”不断！“老牌PE”黑石意外退出“全球最大数据中心园区”</title><link>https://wallstreetcn.com/articles/3776118</link><guid isPermaLink="false">41b09e47830dae32b8b3c9ef18e9db36ac05c3b100b6ac00f4827ac16f2b8e29</guid><pubDate>Fri, 03 Jul 2026 01:09:15 GMT</pubDate><description><![CDATA[<p>全球最大数据中心园区项目正走向终结。随着黑石集团旗下QTS Realty Trust宣布放弃建设计划，弗吉尼亚州"数字门户"项目在失去最后一位开发商后，实际上已名存实亡。</p>
 <p>据彭博援引知情人士消息，QTS高管近日决定放弃在法院继续推进该项目，其律师最快将于本周通知法院。</p>
 <p>此前，另一合作开发商、Brookfield支持的Compass Datacenters已于今年5月率先撤出，QTS由此成为该项目的唯一剩余方。</p>
 <p>黑石本周的动作连番出击，在刚刚完成以35亿美元出售北弗吉尼亚州三处数据中心资产后，不到两天便再次宣布从新项目中撤退。<strong>此番QTS退出意味着，这一原本规划投资逾1000亿美元、有望打造全球最大科技走廊的宏图，就此戛然而止。</strong></p>
@@ -50,38 +50,88 @@ AI基础设施扩张的双重阻力，民意与监管
 <p><strong>监管层面同样在收紧。</strong>弗吉尼亚州近期通过预算，对数据中心征收能源消耗税；多个州正在考虑对新数据中心建设实施暂停令。</p>
 <p>数据中心的成本与收益分配问题，已成为美国中期选举前的重要议题之一。</p>
 <p><strong>对投资者而言，更直接的压力来自供应链和能源侧。</strong>项目延期与取消正在累积，电网容量、建材供应与施工人员短缺等瓶颈制约AI基础设施落地节奏，而社区抵制与法律挑战又进一步拉长了项目周期。</p>
-<p><strong>这些因素叠加，使得以债务融资驱动的数据中心资本开支，其回报时间表变得愈发难以预测。</strong></p><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[华尔街见闻] Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期</title><link>https://wallstreetcn.com/articles/3776098</link><guid>6b93e0c503c97c5aece86a76b77a06468ba6194cf70975f4751df5c776e39ff2</guid><pubDate>Thu, 02 Jul 2026 22:09:12 GMT</pubDate><description><![CDATA[<p>周四Meta首席执行官马克·扎克伯格在一场内部全员大会上承认，AI智能体的开发过去四个月"没有像预期的那样加速"，触发公司股价收跌4.9%。</p>
-<p>据路透社报道，扎克伯格向员工直言公司AI推进节奏低于预期，言辞精准击中了市场最脆弱的预期支点：Meta今年资本开支指引高达1250亿至1450亿美元，较去年近乎翻倍，而变现路径的可靠性本就是市场最大的疑虑所在。</p>
-<p>这一表态恰好落在两条重磅消息交汇的节点。就在前一天，媒体报道Meta内部正推进对外出售富余AI算力的计划，推动股价单日大涨8.8%。但扎克伯格的本次表态令前一日涨幅大幅回吐，两条消息叠加，市场对Meta整体AI变现路径的信心出现动摇。</p>
+<p><strong>这些因素叠加，使得以债务融资驱动的数据中心资本开支，其回报时间表变得愈发难以预测。</strong></p><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[华尔街见闻] SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”</title><link>https://wallstreetcn.com/articles/3776123</link><guid isPermaLink="false">6067e626e0d7f03b2b83ab57e85707f0968efcd3eb4ba2434165b179e1c07b35</guid><pubDate>Fri, 03 Jul 2026 02:01:08 GMT</pubDate><description><![CDATA[<p><a href="https://wallstreetcn.com/articles/3776029?keyword=meta">一则Meta“卖算力”的消息重挫AI硬件板块</a>，CoreWeave单日跌13%、Nebius跌15%，“算力过剩”的叙事迅速蔓延。</p>
+<p>但知名半导体研究机构SemiAnalysis认为，市场对Meta“出租算力=削减开支”的解读，是错的。7月3日，该机构发布解读报告称<strong>：</strong></p>
+<blockquote>
+<p><strong>“我们认为，这两种解读都是错误的，Meta的数据中心和算力采购会加速，而不是放缓。2027年的资本开支会高得惊人。”</strong></p>
+</blockquote>
+<p></p>
+<p>为佐证这一判断，SemiAnalysis给出了一组具体数字：仅2026年上半年，Meta就已签约超过5GW的数据中心容量，涵盖云租赁和托管机房，这还不包括自建项目的全部进度。</p>
+<p>Meta目前在建规模最大的两座数据中心园区的卫星/航拍图——<strong>这两处园区合计在建容量就达2.5GW。</strong></p>
+<p>报告还顺带反驳了另一个流传甚广的市场叙事——“美国一半数据中心项目推迟、全国仅5GW在建”。SemiAnalysis表示：光是Meta的两座园区，就已经等于这个数字的一半，“这些标题完全是错的”。</p>
 <p></p>
 
-"四个月"对应的是一场代价高昂的重组
+四条出路：Meta为何可以持续押注算力
 
-<p>往回推算四个月，正是今年3月前后——Meta宣布裁员约8000人（约占员工总数10%），同时将约7000名员工转岗至AI相关业务，将资源集中押注AI智能体的起点。</p>
-<p>在今年4月的上一次全员大会上，扎克伯格曾向员工解释裁员逻辑：公司有两大成本中心——算力基础设施和人，"如果我们在一个领域投入更多，就意味着能分配给另一个领域的资本减少"。裁员的隐含承诺是以人力成本换取AI智能体开发的加速。</p>
-<p>四个月后，CEO亲口告诉员工，加速没有发生。为这场付出了8000个岗位代价的重组打上了一个阶段性的问号。</p>
+<p>SemiAnalysis认为，市场之所以误判，<strong>是因为只看到了“卖算力”这个动作，没看到Meta为何有底气持续扩张。</strong></p>
+<p>报告梳理出四大高价值变现方向，每一条都与普通Neocloud的“裸金属IaaS”模式有本质区别。</p>
+<p><strong>第一，前沿AI模型（MSL）仍是核心。</strong></p>
+<p>SemiAnalysis明确表示，Meta并没有放弃训练前沿模型。Meta超级智能实验室（Meta Superintelligence Labs，MSL）仍是增量算力的最大去向。报告称，团队目前对自身进展“感到兴奋”，后续将专门发布深度报告，评估MSL追赶Anthropic和OpenAI的胜算。</p>
+<p><strong>第二，广告推荐系统（RecSys）：10倍扩容空间。</strong></p>
+<p>SemiAnalysis认为，<strong>Meta相信可以将广告推荐系统的复杂度扩大超过10倍，以此加速营收增长。这需要同时投入推理与训练算力。更大、更贵的RecSys模型</strong>，已经在驱动广告主支付更高价格的同时保持强劲的广告回报率（ROAS），也让用户在Meta系应用上花更多时间，扩大了可变现的广告展示面。</p>
+<p></p>
+<p><strong>第三，类Bedrock的模型API服务。</strong></p>
+<p>SemiAnalysis独家披露，<strong>SemiAnalysis称Meta正处于与Anthropic签署协议的最终谈判阶段，将获得Claude的私有化部署权限，类似于Amazon通过Bedrock获得Claude的方式，</strong>区别在于是在Meta自己的数据中心内运行。这意味着Meta未来不只卖自己的模型，还能把Claude打包进自己的算力和平台里对外提供服务。</p>
+<p>SemiAnalysis列出了三条变现路径：</p>
+<ul>
+<li><strong>内部使用：</strong>Meta自身需要Claude的token，而Anthropic的供给跟不上需求；私有实例还能提供更强的安全与隐私保障。</li>
+<li><strong>对外售卖Claude服务：</strong>类似Bedrock的模式，Meta掌控从CPU到GPU到网络的完整技术栈，安全性高；但作为新进入者，建立企业客户关系是挑战。</li>
+<li><strong>垂直整合，打造应用层：</strong>Meta是全球最大广告平台之一，有路径构建销售与营销领域的AI Agent产品，深度整合前沿模型。</li>
+</ul>
+<p>SemiAnalysis还指出，向免费社交媒体用户及Meta硬件生态（如智能眼镜）分发模型，也是潜在选项，且对OpenAI和Anthropic而言具有高度战略价值，“他们很可能愿意做出让步，以换取进入这一分发渠道的机会”。</p>
+<p><strong>第三、“SpaceX式”大宗算力租赁。马斯克造了个新市场，Meta要进来分一杯羹。</strong></p>
+<p>这是报告中最具冲击力的一个判断。</p>
+<p>SpaceX与Google签下的算力租赁协议让整个AI基础设施圈震惊——<strong>其定价是行业同类产品的4倍，与Anthropic的协议定价也是同行的3倍。</strong></p>
+<p>SemiAnalysis的AI Cloud TCO团队每年追踪数百个GPU云交易，掌握全球最完整的GPU定价数据库。他们的结论是：“我们从未见过如此规模、如此短期的协议。这份合同名义上是三年期，但双方均可在90天内取消——实际上就是一份自动续期的3个月合同。”</p>
+<p></p>
+<p>为什么以前没人这么干？因为能这么干的公司极少。普通Neocloud需要多年期合同来覆盖融资成本，根本没有条件提供90天取消选项。三大超大规模云厂商（微软、亚马逊、谷歌）技术上有能力做，但各自有更高价值的长期绑定策略——微软拿了OpenAI的股权和IP，亚马逊专注推广Bedrock和Trainium，谷歌做TPU和Vertex。</p>
+<p><strong>结果就是，真正能复制SpaceX模式的公司，只剩两个：甲骨文和Meta。</strong></p>
+<p>SemiAnalysis对甲骨文的评价不客气：“这对甲骨文是一个重大打击。他们本可以把手里的几个GW算力变现得更好。”报告用甲骨文与SpaceX的估值走势对比来说明这种分化有多显著。</p>
+<p></p>
+<p><strong>Meta的优势在哪里？算力多、构建快、可以随时取消合同。</strong></p>
+<blockquote>
+<p>按每GW年收入500亿美元的定价，仅分配200MW给外部客户，就能带来每年超过100亿美元的收入，且利润率极高。而90天取消条款意味着，如果Meta超级智能实验室需要更多算力，随时可以收回来。</p>
+</blockquote>
+<p>报告还点到了Meta的"帐篷式"超快速数据中心建造策略——SemiAnalysis去年率先追踪到这一设计，目前这类设施正在美国各地快速落地。快速上线、快速变现，与SpaceX模式高度契合。</p>
+<p>SemiAnalysis预计：<strong>Meta近期将宣布类似SpaceX的大客户算力租赁协议，最大可能的对象是Anthropic。</strong></p>
+<p></p>
+<strong>“CFO的梦想”：高可选性让Meta越买越安心</strong>
+<p>这是SemiAnalysis整篇报告最核心的逻辑之一。</p>
+<p>四条变现路径同时存在，意味着Meta的每一GW算力都有多个高价值出口。这不是“买多了要亏”，而是“买多了有得选”。</p>
+<p>报告原话是：<strong>“这基本上是CFO的梦想，让All-in算力变得非常容易。我们敢打赌，Susan（Meta CFO Susan Li）看到SpaceX算力协议的定价后，直接来了个180度转变！”</strong></p>
+<p>逻辑很直接：<strong>如果Meta超级智能实验室成功，算力全部自用，ROI最高；如果Meta超级智能实验室阶段性遇挫，可以拿出一部分算力走SpaceX模式或Bedrock模式，立刻产生高毛利收入；如果RecSys扩容低于预期，同样有其他出口消化。</strong></p>
+<p>这种高可选性还带来另一个效应：<strong>Meta完全可以继续向CoreWeave、Nebius等第三方Neocloud采购算力</strong>，因为即便把这些算力再“转包”出去，利润空间依然足够覆盖成本。</p>
+<p>SemiAnalysis在这里给了Neocloud投资者一颗定心丸——“Meta不会做毛利率只有30%的裸金属IaaS供应商，它所有的变现选项都是高价值的。这让它有足够的利润空间，在向外部客户提供算力的同时，继续向Neocloud采购容量来加速扩张。”</p>
+<p>换句话说，<strong>Meta更有可能是CoreWeave等公司RPO增长的重要来源，而不是竞争对手。</strong></p>
+<strong>RecSys：最容易被忽视的算力变现引擎</strong>
+<p>还有一个维度，是广告推荐系统。</p>
+<p>2022年末到2023年初，市场普遍认为Meta进入了增长成熟期。但随后几年，Meta的营收增长大幅提速。SemiAnalysis的判断是：GPU投入是关键触发因素。</p>
+<p>逻辑链条是：<strong>更大、更贵的RecSys模型 → 广告投放更精准 → 广告主愿意付更高价格 → 广告主ROAS（广告支出回报率）依然强劲 → 形成正向循环。</strong></p>
+<p></p>
+<p>同时，内容推荐系统的升级带动了用户在Meta系应用上的停留时长，进一步扩大了广告库存。</p>
+<p>那么，RecSys的AI扩容还能走多远？SemiAnalysis认为，Meta自己相信可以把模型复杂度再提升10倍以上。</p>
+<p>SemiAnalysis的核心结论清晰：Meta出租算力，不是因为算力买多了，而是因为算力多到可以同时支撑多个高价值战略，且每一个选项都足够有利可图。</p>
+<p>2027年的资本开支，将比市场预期高出很多。</p>
+<p>对投资者而言，这篇报告实际上在说：<strong>那波杀跌，可能是误判。</strong>但SemiAnalysis也留了一个重要的注脚：<strong>MSL能否真正追上Anthropic和OpenAI，仍是最大的不确定变量。</strong></p><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[华尔街见闻] 科技股抛售趋缓，日韩股市反弹，美股期货走高</title><link>https://wallstreetcn.com/articles/3776124</link><guid isPermaLink="false">fd29a64f60790e4a7b66a89f5f5905ef2a0222916f82e7348385feb47b823680</guid><pubDate>Fri, 03 Jul 2026 01:46:51 GMT</pubDate><description><![CDATA[<p>周五亚市早盘，此前遭受重压的科技股跌势明显收窄，市场情绪趋于稳定。</p>
+<p>韩国首尔综指盘中一度下跌逾3%后强势反弹，涨幅扩大至超过1%。日本铠侠股价亦从盘中最深12%的跌幅中大幅收复，转为接近持平。</p>
+<p></p>
+<p>与此同时，美股期货普遍走高，纳斯达克100指数期货一度上涨0.4%，显示市场对前一日科技股大规模抛售的消化进程加快。</p>
+<p></p>
+<p>此轮抛售由美国半导体股连续下跌引发，并迅速蔓延至亚洲市场。周四美股收盘，VanEck半导体ETF（SMH）单日重挫4.5%，Teradyne下跌13.6%，KLA下跌11.5%，纳斯达克指数随之下滑0.8%。亚太科技板块在周五早盘集体承压，但随后跌幅普遍收窄。</p>
 
-巨额资本开支之下，变现焦虑早已存在
+亚太科技板块承压，跌幅分化
 
-<p>Meta今年资本开支指引上限为1450亿美元，在大型科技公司超过7000亿美元AI基础设施总支出中占据相当比重。</p>
-<p>市场对这笔天文数字投入的容忍，建立在一个前提之上：AI智能体——包括商业代理、Meta AI助手等——将成为回收投资的核心引擎。</p>
-<p>这一担忧此前已有迹象。瑞银在近期报告中指出，出售云算力"在理论上比等待Meta Business Agents和Meta AI聊天机器人规模化更快产生近期收入"。</p>
-<p>言辞透露市场已在顾虑智能体变现节奏过慢。去年Meta营收增长30%，势头仍在加快，但大量自由现金流持续流入数据中心建设，使得回报周期的不确定性始终悬而未决。</p>
+<p>亚洲科技股在周五早盘延续颓势，但各市场表现存在明显分化。日本市场中，芯片设备制造商Lasertec下跌5.8%，瑞萨电子（Renesas Electronics）下跌6.7%，东京电子跌近4%，科技巨头软银集团亦下挫5.2%。</p>
+<p>韩国方面，芯片巨头SK海力士下滑1.9%，随后反弹涨近2%，SK Square一度下跌5.4%，三星SDI重挫逾8%，LG电子跌幅超过6%，随后跌幅收窄。</p>
+<p></p>
+<p>不过三星电子逆势走强，涨近4%，此前有报道称AI初创公司Anthropic正与三星就定制AI芯片生产进行洽谈。</p>
 
-"卖算力"消息的两种解读
+美股信号分化，道指创历史新高
 
-<p>此前报道Meta内部正推进代号"Meta Compute"的云业务计划，拟对外出售富余AI算力并开放模型API，当天股价大涨8.8%。</p>
-<p>市场乐观解读是，巨额资本开支终于出现了直接变现的通道。悲观解读是，对外出售算力，意味Meta大模型落地不及预期、内部变现渠道不足。D.A. Davidson分析师Gil Luria甚至直言，Meta可能正在"放弃前沿AI"。</p>
-<p>扎克伯格次日的表态，相当于为悲观版解读提供了来自最高层的佐证。两条消息叠加，市场担忧：Meta的AI变现路径——无论依托智能体还是模型——均出现不确定性，卖算力更像退守而非进攻。</p>
-
-内部摩擦与模型落地的双重压力
-
-<p>这句话并非在真空中说出。今年以来，Meta围绕AI转型的内部摩擦持续浮出水面。被并入规模约6500人的Applied AI部门的工程师，因从事为AI智能体生成训练数据的工作，私下将该部门称为"劳改营"；公司在员工电脑上部署追踪操作行为的软件用于训练智能体，引发大量内部批评。</p>
-<p>扎克伯格在此次全员大会上也承认，公司此次组织架构调整"并没有达到他们希望看到的那种干净利落的效果"。</p>
-<p>模型端同样承压。一年多前，扎克伯格斥资约140亿美元引入Scale AI及其创始人Alexandr Wang，由后者主导大语言模型研发。</p>
-<p>今年4月推出的首款模型表现不及预期，一改此前Llama系列的开源传统，仅向少数合作伙伴封闭测试，面向开发者的API多次推迟。这一系列事件构成了"智能体不及预期"的完整背景。</p>
-<p>对于投资者而言，目前需要关注7月底二季度财报中，管理层将如何向投资者描述智能体进展与路线图；对外出售算力业务是否正式官宣、是否能被高价抢购证明算力依然稀缺。</p>
- <p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[华尔街见闻] “掌控”美联储，特朗普一直没放弃</title><link>https://wallstreetcn.com/articles/3776111</link><guid>d54d0dd661487f2b4f4d623510fec48caf6409c5f77b0ece0d6724d9db0d2027</guid><pubDate>Fri, 03 Jul 2026 00:34:40 GMT</pubDate><description><![CDATA[<p>美联储的独立性仍持续面临白宫的施压。</p>
+<p>美股前一日收盘呈现明显分化格局，盘后美股期货出现反弹。</p>
+<p>美股三大指数期货上涨，道指期货涨幅0.33%，道指隔夜以52,900.07点创下历史收盘新高，盘中最高触及52,903.85点；标普500指数期货涨0.2%，纳斯达克指数期货涨0.4%，隔夜纳指下跌0.8%</p>
+<p>道指走强的动力来自于低于预期的6月非农报告，数据提振了市场对美联储降息的预期。然而半导体板块连续第二日下挫，拖累以科技股为主的纳斯达克和标普500指数。英伟达股价回落1.4%，美光科技下跌5.5%。受美国独立日假期影响，美股周五全天休市。</p>
+<p>持续更新中</p><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[华尔街见闻] “掌控”美联储，特朗普一直没放弃</title><link>https://wallstreetcn.com/articles/3776111</link><guid isPermaLink="false">d54d0dd661487f2b4f4d623510fec48caf6409c5f77b0ece0d6724d9db0d2027</guid><pubDate>Fri, 03 Jul 2026 00:34:40 GMT</pubDate><description><![CDATA[<p>美联储的独立性仍持续面临白宫的施压。</p>
 <p><a href="https://wallstreetcn.com/articles/3775773">华尔街见闻提及</a>，本周美国最高法院暂时阻止特朗普解雇美联储理事丽莎·库克（Lisa Cook）。但这一裁决不仅未能浇灭白宫的行动意愿，反而令特朗普阵营看到了新的程序突破口，并迅速加码对美联储的全面渗透布局。</p>
 <p>最高法院以"程序瑕疵"为由裁定Cook暂时留任后，特朗普周四在接受CNBC采访时表示，政府将启动新一轮罢免程序。特朗普表示：</p>
 <blockquote>
@@ -130,156 +180,6 @@ AI基础设施扩张的双重阻力，民意与监管
 <p>根据美联储6月发布的预测，约半数官员认为今年或有必要加息，通胀前景已令多位地区联储行长感到忧虑。</p>
 <p>白宫发言人Kush Desai未就报道所涉具体内容置评，但表示特朗普政府"供给侧政策正在冷却通胀，为降息铺路"，并强调政府上下对现任主席沃什充满信心。</p>
 <p>沃什在提名前期曾公开表态支持降低利率，与特朗普立场契合。</p>
-<p><strong>然而，通胀压力的重新抬头，令外界对白宫借人事布局左右货币政策的意图与实际效果，打上了更大的问号。</strong></p><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[動區動趨-最具影響力的區塊鏈新聞媒體] 比特幣衝6.2萬鎂、以太坊暴衝6%軋爆空軍，單日爆倉4.58億美元，空頭成最慘輸家</title><link>https://www.blocktempo.com/ethereum-surges-6-percent-bitcoin-reclaims-61k-short-squeeze-liquidations</link><guid>af8e10faef9d49cbbbed2cd028f2b28dd0b5e0dfb35d2603637b4b3dc0296b9b</guid><pubDate>Fri, 03 Jul 2026 01:24:20 GMT</pubDate><description><![CDATA[<p><strong>0xJigglypuff</strong></p><p>7月3日早晨，加密市場全面反彈。以太坊從24小時低點$1,605一路拉昇至$1,725，現報$1,706，單日 […]</p>
-〈<a href="https://www.blocktempo.com/ethereum-surges-6-percent-bitcoin-reclaims-61k-short-squeeze-liquidations/">比特幣衝6.2萬鎂、以太坊暴衝6%軋爆空軍，單日爆倉4.58億美元，空頭成最慘輸家</a>〉這篇文章最早發佈於動區BlockTempo《<a href="https://www.blocktempo.com">動區動趨-最具影響力的區塊鏈新聞媒體</a>》。]]></description></item><item><title>[华尔街见闻] 非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨</title><link>https://wallstreetcn.com/articles/3776024</link><guid>ae523ec9aa6084285d263b84300b28c43d596459445c1453c46337e42e188fda</guid><pubDate>Thu, 02 Jul 2026 22:40:08 GMT</pubDate><description><![CDATA[<p>美国6月非农就业数据大幅低于预期，令市场对美联储加息的担忧骤然降温，推动美元下跌、短端美债收益率走低、黄金走高。</p>
-<p>然而，宏观"利好"未能覆盖科技板块的深度调整。芯片股连续两日下挫，令纳指独自承压，拖累标普500收盘几乎持平，而道指则因资金轮动流入传统板块而触及历史新高。</p>
-<p></p>
-<p><a href="https://wallstreetcn.com/articles/3776083">华尔街见闻提及</a>，6月非农新增就业仅5.7万人，叠加前两个月数据下修，显著低于市场预期。</p>
-<p><strong>互换市场交易员随即下调对美联储未来数月内加息的押注</strong>，2年期美债收益率下行4个基点至4.14%，美元指数单日跌幅创两个月最大，美元兑日元跌至161.10。这一组合信号清晰传递出市场对货币政策路径的重新定价。</p>
-<p></p>
-<p><strong>就业增速放缓与AI基础设施支出的可持续性疑虑叠加，押注动能交易的资金遭遇双向打击</strong>——AI芯片股与存储股两日内跌幅均超过18%，动能因子创下2020年11月以来最差两日表现，对冲基金年初至今收益大幅缩水。</p>
-
-加息预期降温，宏观层面带来喘息空间
-
-<p>6月非农就业新增5.7万人，远低于市场预期，且前两个月数据合计下修。失业率虽降至4.2%，但主要原因是劳动力人口减少，25至34岁劳动参与人数单月骤降70万。</p>
-<p><strong>数据公布后，市场对美联储下一步动作的预期明显转向"观望"。</strong></p>
-<p>eToro的Bret Kenwell表示，这份报告并非明确的经济衰退信号，但<strong>足以令美联储的政策讨论重回"双重使命"框架，而非单纯聚焦通胀压力</strong>。UBS首席投资办公室的Andrew Dubinsky则指出：</p>
-<blockquote>
-<p>一个仍在扩张但不再过热的就业市场，允许美联储在评估价格压力时保持耐心。</p>
-</blockquote>
-<p>美联储主席沃什本周早些时候表示通胀风险已有所下降，但重申了将通胀推回2%目标的决心。</p>
-<p>Annex财富管理的Brian Jacobsen评价称，就业不过热、通胀预期趋于温和，意味着美联储整个夏天都不必行动。</p>
-<p>彭博宏观策略师Edward Harrison则补充指出，市场正逐渐形成一种判断：<strong>沃什领导的美联储与鲍威尔时代并无根本差异，若核心通胀仍高于3%，结果可能是长期按兵不动而非加息</strong>。</p>
-
-芯片股连续重挫，动能交易遭遇历史级别清仓
-
-<p>宏观层面的喘息并未惠及科技板块。</p>
-<p>周四，美股标普500收盘几乎持平，道指涨1.1%创历史新高，纳指跌0.8%。费城半导体指数连续两日累跌11%，AI芯片股与存储股均遭遇大规模抛售。</p>
-<p></p>
-<p>高盛数据显示，存储股两日跌幅超18%，为至少12年来最大。</p>
-<p></p>
-<p>AI芯片股两日跌幅则堪比去年所谓"对等关税"前后的剧烈震荡。</p>
-<p></p>
-<p>高盛"AI受益股对受冲击股"配对组合两日累跌16%，创有记录以来最差表现。</p>
-<p></p>
-<p>这场杀跌的直接导火索，是市场对AI基础设施支出合理性的持续质疑。Meta此前关于"过剩算力"的表态进一步加剧了投资者的分歧，令原本已高度拥挤的动能交易头寸承压。</p>
-<p>动能因子整体两日跌幅超18%，令对冲基金年初至今收益遭到显著侵蚀，其VIP多头对冲组合年内回报回落至-21%，同期标普500年内仍涨约9%。</p>
-<p></p>
-<p>值得注意的是，韩国股市随存储芯片股崩跌而大幅下挫，成为这轮全球动能清仓中受波及最深的海外市场之一。</p>
-
-资金轮动：道指创新高，黄金与比特币同步走强
-
-<p>资金从高估值成长股撤出，并未在市场整体层面造成溃败，而是推动了明显的板块轮动。</p>
-<p>道指在金融与消费类股带动下上涨1.1%，触及历史新高；医疗保健板块领涨标普500各行业，而科技与能源板块双双收红盘线以下。</p>
-<p></p>
-<p>从周度来看，标普500与道指均录得周度正回报，掩盖了板块层面的剧烈分化。纳指在周内大幅震荡后小幅收涨。</p>
-<p>更值得关注的是本轮动能交易的清仓力度。<strong>高盛数据显示，这是2020年11月辉瑞疫苗消息公布以来动能因子最差的两日表现，而当时的市场背景是高成长科技股崩跌、金融与能源股大幅反弹。</strong></p>
-<p>历史的相似性令本轮轮动是否预示更深层的结构性转变，成为投资者需要持续追踪的核心问题。</p>
-<p><strong>下一个关键时间窗口，将是下周美国通胀数据的公布。若CPI延续降温趋势，将进一步巩固美联储"整个夏天按兵不动"的市场预期</strong>。</p>
-<p>反之，若通胀再度超预期，则当前因弱就业数据建立起的加息预期降温逻辑将面临考验。<strong>美国市场周五因独立日休市，投资者将有一个额外的冷却期消化本周信号。</strong></p>
-<p><strong>美元</strong>走弱为非美资产提供了支撑。</p>
-<p></p>
-<p><strong>现货黄金</strong>单日上涨2.2%至4120.36美元/盎司，重返4100美元上方。</p>
-<p></p>
-<p><strong>比特币</strong>上涨2.2%至61392美元，过去两日累计涨幅超5%，为今年2月以来最佳两日表现——部分资金流入与韩国股市剧烈震荡后的避险轮动有关。</p>
-<p></p>
-<p><strong>原油</strong>则走势独立于风险资产。WTI原油微跌0.1%至68.48美元/桶，全周继续承压。</p>
-<p></p>
-<p>霍尔木兹海峡重开后波斯湾原油出口量快速反弹。据彭博数据，7月1日单日流量即达1400万桶——叠加沙特经由延布港、阿联酋经由富查伊拉港的绕行出口，供给侧压力持续积累。</p>
-<p>摩根大通大宗商品研究主管Natasha Kaneva表示：</p>
-<blockquote>
-<p>一波原油即将涌入市场，而当前市场恰恰并不需要它。</p>
-</blockquote>
-<p>原油期货曲线的升水结构已扩大至2022年12月以来最大，显示市场对近期供过于求的定价愈发清晰。</p>
-<p></p>
-<p><strong>美国非农就业报告发布当天，标普500指数收涨0.01点，本周迄今累计上涨1.76%。</strong><strong>半导体指数再度遭抛售，芯片股两日累跌11%，令纳指当日跌0.8%。</strong></p>
-<blockquote>
-<p><strong>美股基准股指：</strong></p>
-<ul>
-<li>
-<p>标普500指数收涨0.01点，涨幅0.00%，报7483.24点，本周迄今累计上涨1.76%。</p>
-</li>
-<li>
-<p>道琼斯工业平均指数收涨594.83点，涨幅1.14%，报52900.07点，突破6月30日所创收盘历史最高位52319.20点，本周累涨1.76%，周五将休市。</p>
-</li>
-<li>
-<p>纳指收跌207.36点，跌幅0.80%，报25832.672点，本周累涨1.97%。</p>
-</li>
-<li>纳斯达克100指数收跌479.92点，跌幅1.61%，连续两个交易日回撤，报29329.213点，本周累涨0.72%，整体冲高回落。</li>
-<li>
-<p>罗素2000指数收跌0.55%，报2996.11点，本周累跌0.46%。</p>
-</li>
-<li>
-<p>恐慌指数VIX收跌2.71%，报16.14，本周累跌12.33%，整体持续走低。</p>
-</li>
-</ul>
-<p><strong>美股行业ETF：</strong></p>
-<ul>
-<li>
-<p>美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%</p>
-</li>
-</ul>
-<p>（7月2日 美股各行业板块ETF）</p>
-<p><strong>芯片股：</strong></p>
-<ul>
-<li>
-<p>费城半导体指数收跌727.058点，跌幅5.45%，连续两天回撤（期间累跌11.38%），报12626.221点，本周累跌4.37%。</p>
-</li>
-<li>
-<p>芯片设计与算力链集体重挫，Marvell 收跌 9.84%、Arm 下跌6.58%、美光下跌 5.49%、AMD跌 4.26%、博通下跌 2.41%，英伟达相对抗跌但仍收跌 1.39%，台积电ADR跌 2.27%。</p>
-</li>
-<li>
-<p>半导体设备股跌幅更深，Teradyne 重挫约 13.6%、科磊下跌约 11.5%。</p>
-</li>
-<li>
-<p>存储厂商闪迪暴跌超14%，自阶段高点已回落约27%。</p>
-</li>
-</ul>
-<p><strong>中概股：</strong></p>
-<ul>
-<li>
-<p>纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。</p>
-</li>
-<li>热门中概股里，百度收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。</li>
-</ul>
-<p><strong>其他个股：</strong></p>
-<ul>
-<li>
-<p>Circle涨4.35%。</p>
-</li>
-</ul>
-</blockquote>
-<p><strong>欧洲股市创收盘历史新高，拜耳涨8.9%领跑。德国股市涨超2.1%，1月中旬以来再次创收盘历史新高，意大利银行板块、西班牙股指也创历史新高。</strong></p>
-<blockquote>
-<p><strong>泛欧股指：</strong></p>
-<ul>
-<li>
-<p>欧洲STOXX 600指数收涨1.41%，报648.35点，突破6月30日所创收盘历史最高位641.73点。</p>
-</li>
-<li>
-<p>欧元区STOXX 50指数收涨1.24%，报6360.47点，时隔一天再创收盘历史新高。</p>
-</li>
-</ul>
-<p><strong>各国股指：</strong></p>
-<ul>
-<li>
-<p>德国DAX 30指数收涨2.16%，报25580.88点。</p>
-</li>
-<li>
-<p>法国CAC 40指数收涨1.65%，报8474.86点。</p>
-</li>
-<li>
-<p>英国富时100指数收涨1.67%，报10652.87点。</p>
-<p>（7月2日 欧美主要股指表现）</p>
-</li>
-</ul>
-<p><strong>板块和个股：</strong></p>
-<ul>
-<li>
-<p>欧元区蓝筹股中，德国拜耳收涨8.90%，德国莱茵金属RHM涨6.13%，德意志银行涨5.31%，德国大众汽车涨4.80%，裕信银行涨4.07%表现第五。</p>
-</li>
-<li>
-<p>欧洲STOXX 600指数的所有成分股中，蒂森克虏伯收涨8.86%，Abivax涨8.77%，萨博公司涨8.60%，与拜耳领跑，Prosus跌幅第十四大，阿斯麦表现倒数第九。</p>
-</li>
-</ul>
-</blockquote><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item></channel></rss>
+<p><strong>然而，通胀压力的重新抬头，令外界对白宫借人事布局左右货币政策的意图与实际效果，打上了更大的问号。</strong></p><p>本文来自华尔街见闻，欢迎下载APP查看更多</p>]]></description></item><item><title>[動區動趨-最具影響力的區塊鏈新聞媒體] 比特幣衝6.2萬鎂、以太坊暴衝6%軋爆空軍，單日爆倉4.58億美元，空頭成最慘輸家</title><link>https://www.blocktempo.com/ethereum-surges-6-percent-bitcoin-reclaims-61k-short-squeeze-liquidations</link><guid isPermaLink="false">af8e10faef9d49cbbbed2cd028f2b28dd0b5e0dfb35d2603637b4b3dc0296b9b</guid><pubDate>Fri, 03 Jul 2026 01:24:20 GMT</pubDate><description><![CDATA[<p><strong>0xJigglypuff</strong></p><p>7月3日早晨，加密市場全面反彈。以太坊從24小時低點$1,605一路拉昇至$1,725，現報$1,706，單日 […]</p>
+〈<a href="https://www.blocktempo.com/ethereum-surges-6-percent-bitcoin-reclaims-61k-short-squeeze-liquidations/">比特幣衝6.2萬鎂、以太坊暴衝6%軋爆空軍，單日爆倉4.58億美元，空頭成最慘輸家</a>〉這篇文章最早發佈於動區BlockTempo《<a href="https://www.blocktempo.com">動區動趨-最具影響力的區塊鏈新聞媒體</a>》。]]></description></item><item><title>[動區動趨-最具影響力的區塊鏈新聞媒體] 渣打再次喊單 Uniswap：UNI 單日飆漲 13%，看好 DeFi 與傳統金融合作</title><link>https://www.blocktempo.com/standard-chartered-bullish-uniswap-uni-pumps-13-defi-tradfi-collaboration-wave</link><guid isPermaLink="false">73728062c6719d93b7869fc392820b3bb826a225fd2985ff662c271e49081d89</guid><pubDate>Fri, 03 Jul 2026 01:56:20 GMT</pubDate><description><![CDATA[<p><strong>flip</strong></p><p>渣打數位資產研究主管 Geoffrey Kendrick 指出市場嚴重低估 Uniswap 等 DeFi 協議 […]</p>
+〈<a href="https://www.blocktempo.com/standard-chartered-bullish-uniswap-uni-pumps-13-defi-tradfi-collaboration-wave/">渣打再次喊單 Uniswap：UNI 單日飆漲 13%，看好 DeFi 與傳統金融合作</a>〉這篇文章最早發佈於動區BlockTempo《<a href="https://www.blocktempo.com">動區動趨-最具影響力的區塊鏈新聞媒體</a>》。]]></description></item></channel></rss>
