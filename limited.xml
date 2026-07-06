@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 13:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 14:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
 &lt;p&gt;7月6日，沪指全天探底回升，创业板指走势较弱，早盘一度跌超2%，午盘一度收窄至0.5%，午后进一步扩大跌幅，科创50全日振幅高达5.52%，早盘高开后急挫逾3%，触底后V型反转，最终收涨1.04%。算力硬件、芯片半导体跌幅居前，CPO、电路板、覆铜板等显著下跌，创新药、CRO再度爆发，超硬材料、培育钻石等拉升。“老登”股煤炭、银行等逆势拉升。&lt;/p&gt;
 &lt;p&gt;港股三大指数全线反弹，恒指、恒科指双双上涨，恒科指盘中涨超1%，科网股悉数走高，腾讯控股涨近5%，芯片股、AI大模型股承压，生物医药板块延续强势表现。债市方面，国债期货集体上涨，商品方面，国内商品期货普遍上涨，金属期货涨幅居前。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -324,7 +324,22 @@ Anthropic、OpenAI等大客户需求旺盛
 &lt;p&gt;Gemini 3.5 Pro的延迟发布，是当前AI军备竞赛烈度的一个缩影。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;OpenAI的GPT-5.6预计于7月7日至9日发布，在速度、可靠性与输出精度上均有显著提升，并与美国政府合作强化了合规与伦理框架，进一步巩固其行业标杆地位。&lt;/strong&gt;Anthropic的Fable 5则在重工程任务上持续保持领先。&lt;/p&gt;
 &lt;p&gt;过去半年，AI圈的风头几乎被OpenAI和Anthropic轮流占据，谷歌相对沉寂。但此次Gemini 3.5 Pro若能如期于7月17日亮相，且前端能力表现与泄露信息相符，将是谷歌在这场竞赛中重新争夺话语权的关键一步。&lt;/p&gt;
-&lt;p&gt;Gemini 3.5 Pro能否如期到来，以及能否在大模型的大乱斗中胜出，市场正在等待谷歌给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Pro能否如期到来，以及能否在大模型的大乱斗中胜出，市场正在等待谷歌给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点</title><link>https://wallstreetcn.com/articles/3776312</link><guid>b969d7263ce930b704555d20838eb3d7e54b40b0b98c764ce00ba7485b807b56</guid><pubDate>Mon, 06 Jul 2026 14:18:22 GMT</pubDate><description>&lt;p&gt;美国服务业扩张步伐在6月略有放缓，但企业招聘活动明显回暖，显示在成本压力缓解和需求保持韧性的背景下，美国服务业整体仍具备较强韧性。&lt;/p&gt;
+&lt;p&gt;周一，美国供应管理协会（ISM）公布数据显示，&lt;strong&gt;6月ISM服务业PMI从5月的54.5降至54.0，略低于市场预期54.2&lt;/strong&gt;，连续保持在50荣枯线以上，意味着服务业仍处于扩张区间，但扩张速度有所放缓。&lt;/p&gt;
+&lt;p&gt;尽管商业活动和新订单增长有所降温，但就业指标大幅改善，而&lt;strong&gt;支付价格指数则回落至四个月低点，反映企业面临的成本压力正在缓解。&lt;/strong&gt;&lt;/p&gt;
+服务业扩张放缓，但需求依然稳健
+&lt;p&gt;分项指标显示，&lt;strong&gt;6月商业活动指数和新订单指数均较前月有所回落，不过仍维持在扩张区间&lt;/strong&gt;，表明美国服务业需求虽略有降温，但整体仍保持较为稳健的增长态势。&lt;/p&gt;
+&lt;p&gt;与此同时，库存指标出现明显回落。此前5月曾大幅攀升的库存指数在6月显著下降，而积压订单指数则重新上升，意味着企业手中待完成订单有所增加。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体来看，美国服务业增长动能较5月有所放缓，但尚未出现明显转弱迹象&lt;/strong&gt;。&lt;/p&gt;
+就业指数创2024年以来最大升幅
+&lt;p&gt;相比整体PMI的小幅回落，就业成为本次报告最大的亮点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISM服务业就业指数录得2024年以来最大单月升幅，并自今年2月以来首次重新进入扩张区间&lt;/strong&gt;，意味着越来越多服务业企业开始增加员工数量。这表明，在需求仍具韧性的情况下，企业招聘意愿有所恢复。&lt;/p&gt;
+&lt;p&gt;不过，这一调查结果与上周公布的美国6月非农就业数据形成一定反差。官方数据显示，美国6月新增就业较此前连续三个月的强劲增长有所放缓，显示不同调查口径下，美国就业市场仍呈现分化特征。&lt;/p&gt;
+成本压力缓解，为企业招聘腾出空间
+&lt;p&gt;价格方面，&lt;strong&gt;ISM支付价格指数降至67.7，为四个月以来最低水平，企业成本上涨速度有所放缓。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;近期国际油价和汽油价格明显回落，是推动成本压力缓解的重要因素之一。此前受中东局势影响，能源价格一度大幅攀升，而随着美伊达成临时协议，油价近期明显降温。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在能源成本回落、消费需求保持韧性的共同作用下，企业利润空间有所改善，也为扩大招聘提供了更充足的条件。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;整体来看，6月ISM服务业数据显示，美国占经济主体的服务业仍保持扩张，尽管增长节奏有所放缓，但就业改善和价格压力下降，为美国经济软着陆提供了新的积极信号。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
 &lt;p&gt;英特尔发言人在声明中将此次调价归因于&amp;quot;当前市场动态&amp;quot;，包括供应链成本上涨以及Core Ultra 200S Plus系列处理器的强劲需求。&lt;/p&gt;
 &lt;p&gt;据Tom&amp;#x27;s Hardware近日报道，&lt;strong&gt;英特尔消费级旗舰产品涨幅相对温和，在30至50美元之间；而数据中心级产品的价格涨幅则达到数百乃至逾千美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次涨价波及英特尔消费级Arrow Lake系列与服务器级Xeon产品线，部分Xeon 8000系列&amp;quot;Emerald Rapids&amp;quot;处理器的建议零售价甚至高于2023年发布时的初始定价。英特尔是近期半导体行业涨价潮中的最新一员，多家供应商均以成本上升与供需失衡为由相继调整产品售价。&lt;/p&gt;
@@ -402,34 +417,4 @@ HBM4拉动4nm利用率，良率改善降低单位成本
 
 &lt;p&gt;月度盈利的回归，与晶圆代工订单结构的改善同步发生。三星电子晶圆代工去年赢得特斯拉AI6芯片订单，近期又承接了由英伟达公布的基于Groq架构的AI推理芯片生产业务。此外，Meta与Anthropic也被业内提及为三星潜在的自研AI芯片代工合作方，市场对三星晶圆代工复苏的预期进一步升温。&lt;/p&gt;
 &lt;p&gt;随着AI训练与推理需求同步高速增长，台积电先进工艺及先进封装产能已高度饱和。有意降低英伟达依赖度的大型科技公司在扩大自研AI芯片布局的同时，也开始寻求突破台积电单一供应商依赖格局。在这一背景下，三星凭借2nm先进工艺布局、HBM Base Die产能以及美国本土生产基地建设，正逐步成为备受关注的替代供应链选项。&lt;/p&gt;
-&lt;p&gt;尽管基本面出现改善信号，三星晶圆代工与台积电之间的差距仍然悬殊。据市场研究机构集邦科技（TrendForce）数据，&lt;strong&gt;2025年一季度全球晶圆代工市场份额中，台积电以72.3%高居首位，三星以6.5%位列第二。&lt;/strong&gt;与上年同期相比，台积电份额由67.6%上升4.7个百分点，三星则由7.7%下滑1.2个百分点至6.5%，两者之间的差距由59.9个百分点进一步扩大至65.8个百分点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI能赚多少，取决于公司裁多少?</title><link>https://wallstreetcn.com/articles/3776289</link><guid>40cf0eeced4c96d2961eb4685a2140defa0ffe61205c2d1503e6460b2a51997d</guid><pubDate>Mon, 06 Jul 2026 10:10:59 GMT</pubDate><description>&lt;p&gt;AI商业化正迈入“收入兑现”期，最直接的信号是：岗位替代正在被量化。&lt;/p&gt;
-&lt;p&gt;据国金证券最新报告援引Anthropic实际观测数据，在美国，AI目前已影响约1.45万亿美元薪资规模及1835万个岗位；若按OpenAI的理论暴露口径，对应数字则高达5.68万亿美元薪资与6828万个岗位。&lt;/p&gt;
-&lt;p&gt;对比来看，美国总薪资盘约为10.83万亿美元，总就业约1.55亿人。换算后，&lt;strong&gt;AI所能替代或重塑的岗位，占比少则一成，多则四成。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着AI Coding、企业级Agent及B端应用的加速落地，AI正在从“提效工具”进化为“成本变量”——节省的开支开始实实在在转化为企业利润，资本回报逻辑日趋坚实。&lt;/p&gt;
-&lt;p&gt;但与此同时，结构性矛盾也愈发突出：&lt;strong&gt;企业端成本下降、利润上升，员工端岗位压缩、职能被替。AI越深入，资本收益越明显，就业挤压也越强烈。&lt;/strong&gt;二者犹如跷跷板，一端上升，另一端必然下沉。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-技术性裁员已从理论走向现实
-&lt;p&gt;数据显示，美国科技行业已重新进入高裁员周期。大型科技公司的单轮裁员比例普遍落在5%至10%之间，部分软件、SaaS及云服务企业甚至逼近20%。&lt;strong&gt;但值得警惕的，不只是裁员规模本身，而是资本市场正在明确“奖励”这一行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在当下的估值逻辑中，“AI降本+裁员”被市场解读为效率提升与利润改善的积极信号。企业通过AI替代人力，不仅压缩了运营成本，更在财报和股价上获得了直接回报。这种正向反馈，正在将AI替代就业从一个技术选择，转变为一种资本驱动的战略惯性。&lt;/p&gt;
-&lt;p&gt;换言之，技术性裁员不再仅仅是效率工具的附带结果，而是被市场机制主动推入正反馈循环——&lt;strong&gt;裁员越多，利润越好看，股价越坚挺，企业越有动力继续裁员。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果这一激励机制不发生变化，AI对就业的替代效应将不是一次性的冲击，而是一个持续扩散、自我强化的长期过程。&lt;/p&gt;
-高技能岗位未必安全，低技能岗位冲击同样巨大
-&lt;p&gt;国金证券基于美国劳工统计局（BLS）755个职业的分析显示，&lt;strong&gt;AI对就业市场的冲击并非简单遵循“低技能优先”的线性逻辑，而是呈现出双重分化态势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从实际暴露的绝对人数来看，低技能职业约883万人，高技能职业约709万人，中技能职业约244万人。但若按就业占比计算，高技能岗位受影响比例高达19.5%，显著高于低技能岗位的10.8%和中技能岗位的8.3%。&lt;/p&gt;
-&lt;p&gt;这表明，&lt;strong&gt;高技能职业同样承受着不容忽视的巨大压力，并非市场原先预期的“安全区”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，在“实际暴露/理论暴露”这一反映现实推进速度的维度上，低技能岗位反而走在前列。低技能职业的暴露进度达31.2%，高于高技能职业的27.9%和中技能职业的20.4%。&lt;/p&gt;
-&lt;p&gt;这意味着，&lt;strong&gt;低技能岗位正在率先遭受AI落地的现实冲击，而高技能岗位则更多面临长期预期层面的重构压力&lt;/strong&gt;，二者所处的风险阶段存在明显错位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-是否面对客户，并不能决定岗位是否安全
-&lt;p&gt;面对客户，并不构成岗位安全的天然屏障。报告进一步指出，&lt;strong&gt;真正决定AI冲击强度的，并非“是否前台”，而是任务是否可被标准化与数字化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从工作对象划分，岗位可被粗略分为三类：前台岗位直接面向客户，如零售销售、客服、收银；后台岗位以研发、数据处理与行政运维为主，如软件工程师；中台岗位则承担协调与管理职能，如人力资源与供应链管理。&lt;/p&gt;
-&lt;p&gt;但这一传统分类正在失效。分析显示&lt;strong&gt;，前台属性并不等同于“就业保护”。在低技能岗位中，前台反而意味着更高的AI暴露度&lt;/strong&gt;，销售岗位尤为典型，标准话术、流程化沟通与决策路径，正快速被模型能力覆盖。&lt;/p&gt;
-&lt;p&gt;与直觉相反的是，&lt;strong&gt;高技能岗位中的“前台属性”反而在形成某种缓冲&lt;/strong&gt;。例如教师、医生、律师等依赖高频人际互动与复杂情境判断的职业，在短期内更难被完全替代，从而在一定程度上延缓了AI冲击的直接传导。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI真正考验的，或许不是效率，而是分配
-&lt;p&gt;国金证券认为，目前AI带来的生产率提升，更多来自资本深化，也就是劳动工具改善，而并非真正意义上的全要素生产率提升。数据显示，自2024年以来，美国劳动生产率与全要素生产率已经出现背离。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;比效率更值得关注的问题，是技术红利如何分配。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国居民部门本身已经面临劳动收入份额下降、政府转移支付占收入比重提高以及实际收入增长偏弱等多重压力。&lt;strong&gt;如果AI红利进一步向资本和少数顶尖人才集中，就业压力和收入分配压力可能同步加剧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告提到，海外关于全民基本收入（UBI）的讨论未来或重新升温，但其前提是政府能够分享AI创造的收益。报告表示，美国目前给出的思路，是政府直接入股科技企业，从而参与AI红利分配，这可能成为缓解社会收入压力的一种方式。&lt;/p&gt;
-&lt;p&gt;对于资本市场而言，&lt;strong&gt;这意味着AI故事已经不仅仅是算力、模型和收入增长，更将逐渐进入就业、分配以及社会治理的新阶段&lt;/strong&gt;。AI能够创造多少利润，最终很可能取决于它能够多大程度替代人类劳动；而AI投资能否持续获得资本市场认可，也将越来越取决于社会是否能够承受这一过程所带来的代价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;尽管基本面出现改善信号，三星晶圆代工与台积电之间的差距仍然悬殊。据市场研究机构集邦科技（TrendForce）数据，&lt;strong&gt;2025年一季度全球晶圆代工市场份额中，台积电以72.3%高居首位，三星以6.5%位列第二。&lt;/strong&gt;与上年同期相比，台积电份额由67.6%上升4.7个百分点，三星则由7.7%下滑1.2个百分点至6.5%，两者之间的差距由59.9个百分点进一步扩大至65.8个百分点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
