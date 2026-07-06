@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 14:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 14:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
 &lt;p&gt;7月6日，沪指全天探底回升，创业板指走势较弱，早盘一度跌超2%，午盘一度收窄至0.5%，午后进一步扩大跌幅，科创50全日振幅高达5.52%，早盘高开后急挫逾3%，触底后V型反转，最终收涨1.04%。算力硬件、芯片半导体跌幅居前，CPO、电路板、覆铜板等显著下跌，创新药、CRO再度爆发，超硬材料、培育钻石等拉升。“老登”股煤炭、银行等逆势拉升。&lt;/p&gt;
 &lt;p&gt;港股三大指数全线反弹，恒指、恒科指双双上涨，恒科指盘中涨超1%，科网股悉数走高，腾讯控股涨近5%，芯片股、AI大模型股承压，生物医药板块延续强势表现。债市方面，国债期货集体上涨，商品方面，国内商品期货普遍上涨，金属期货涨幅居前。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -324,22 +324,25 @@ Anthropic、OpenAI等大客户需求旺盛
 &lt;p&gt;Gemini 3.5 Pro的延迟发布，是当前AI军备竞赛烈度的一个缩影。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;OpenAI的GPT-5.6预计于7月7日至9日发布，在速度、可靠性与输出精度上均有显著提升，并与美国政府合作强化了合规与伦理框架，进一步巩固其行业标杆地位。&lt;/strong&gt;Anthropic的Fable 5则在重工程任务上持续保持领先。&lt;/p&gt;
 &lt;p&gt;过去半年，AI圈的风头几乎被OpenAI和Anthropic轮流占据，谷歌相对沉寂。但此次Gemini 3.5 Pro若能如期于7月17日亮相，且前端能力表现与泄露信息相符，将是谷歌在这场竞赛中重新争夺话语权的关键一步。&lt;/p&gt;
-&lt;p&gt;Gemini 3.5 Pro能否如期到来，以及能否在大模型的大乱斗中胜出，市场正在等待谷歌给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点</title><link>https://wallstreetcn.com/articles/3776312</link><guid>b969d7263ce930b704555d20838eb3d7e54b40b0b98c764ce00ba7485b807b56</guid><pubDate>Mon, 06 Jul 2026 14:18:22 GMT</pubDate><description>&lt;p&gt;美国服务业扩张步伐在6月略有放缓，但企业招聘活动明显回暖，显示在成本压力缓解和需求保持韧性的背景下，美国服务业整体仍具备较强韧性。&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Pro能否如期到来，以及能否在大模型的大乱斗中胜出，市场正在等待谷歌给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点</title><link>https://wallstreetcn.com/articles/3776312</link><guid>b969d7263ce930b704555d20838eb3d7e54b40b0b98c764ce00ba7485b807b56</guid><pubDate>Mon, 06 Jul 2026 14:44:08 GMT</pubDate><description>&lt;p&gt;美国服务业扩张步伐在6月略有放缓，但企业招聘活动明显回暖，显示在成本压力缓解和需求保持韧性的背景下，美国服务业整体仍具备较强韧性。&lt;/p&gt;
 &lt;p&gt;周一，美国供应管理协会（ISM）公布数据显示，&lt;strong&gt;6月ISM服务业PMI从5月的54.5降至54.0，略低于市场预期54.2&lt;/strong&gt;，连续保持在50荣枯线以上，意味着服务业仍处于扩张区间，但扩张速度有所放缓。&lt;/p&gt;
-&lt;p&gt;尽管商业活动和新订单增长有所降温，但就业指标大幅改善，而&lt;strong&gt;支付价格指数则回落至四个月低点，反映企业面临的成本压力正在缓解。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管商业活动和新订单增长有所降温，但就业指标大幅改善，而&lt;strong&gt;支付价格指数则回落至四个月低点，反映企业面临的成本压力正在缓解。&lt;/strong&gt;不过，企业对未来一年的经营前景仍较为谨慎，不少受访企业表示，经济和地缘政治前景仍存在较大不确定性。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 服务业扩张放缓，但需求依然稳健
 &lt;p&gt;分项指标显示，&lt;strong&gt;6月商业活动指数和新订单指数均较前月有所回落，不过仍维持在扩张区间&lt;/strong&gt;，表明美国服务业需求虽略有降温，但整体仍保持较为稳健的增长态势。&lt;/p&gt;
 &lt;p&gt;与此同时，库存指标出现明显回落。此前5月曾大幅攀升的库存指数在6月显著下降，而积压订单指数则重新上升，意味着企业手中待完成订单有所增加。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;整体来看，美国服务业增长动能较5月有所放缓，但尚未出现明显转弱迹象&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体来看，美国服务业增长动能较5月有所放缓，但尚未出现明显转弱迹象&lt;/strong&gt;。S&amp;amp;P Global调查同样显示，企业对未来业务增长的预期较5月有所改善，但仍低于中东冲突爆发前水平，反映企业在投资和扩张方面依然保持谨慎。&lt;/p&gt;
 就业指数创2024年以来最大升幅
 &lt;p&gt;相比整体PMI的小幅回落，就业成为本次报告最大的亮点。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ISM服务业就业指数录得2024年以来最大单月升幅，并自今年2月以来首次重新进入扩张区间&lt;/strong&gt;，意味着越来越多服务业企业开始增加员工数量。这表明，在需求仍具韧性的情况下，企业招聘意愿有所恢复。&lt;/p&gt;
 &lt;p&gt;不过，这一调查结果与上周公布的美国6月非农就业数据形成一定反差。官方数据显示，美国6月新增就业较此前连续三个月的强劲增长有所放缓，显示不同调查口径下，美国就业市场仍呈现分化特征。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;企业反馈也印证了就业市场的韧性。&lt;/strong&gt;例如，医疗保健行业受访企业表示，患者需求和业务活动依然强劲，公司继续增加全职员工；零售企业则称，目前业务表现好于季节性水平，价格保持稳定，就业规模已达到理想状态。&lt;/p&gt;
 成本压力缓解，为企业招聘腾出空间
 &lt;p&gt;价格方面，&lt;strong&gt;ISM支付价格指数降至67.7，为四个月以来最低水平，企业成本上涨速度有所放缓。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;近期国际油价和汽油价格明显回落，是推动成本压力缓解的重要因素之一。此前受中东局势影响，能源价格一度大幅攀升，而随着美伊达成临时协议，油价近期明显降温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在能源成本回落、消费需求保持韧性的共同作用下，企业利润空间有所改善，也为扩大招聘提供了更充足的条件。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;整体来看，6月ISM服务业数据显示，美国占经济主体的服务业仍保持扩张，尽管增长节奏有所放缓，但就业改善和价格压力下降，为美国经济软着陆提供了新的积极信号。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
+&lt;p&gt;整体来看，6月ISM服务业数据显示，美国占经济主体的服务业仍保持扩张，尽管增长节奏有所放缓，但就业改善和价格压力下降，为美国经济软着陆提供了新的积极信号。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
 &lt;p&gt;英特尔发言人在声明中将此次调价归因于&amp;quot;当前市场动态&amp;quot;，包括供应链成本上涨以及Core Ultra 200S Plus系列处理器的强劲需求。&lt;/p&gt;
 &lt;p&gt;据Tom&amp;#x27;s Hardware近日报道，&lt;strong&gt;英特尔消费级旗舰产品涨幅相对温和，在30至50美元之间；而数据中心级产品的价格涨幅则达到数百乃至逾千美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次涨价波及英特尔消费级Arrow Lake系列与服务器级Xeon产品线，部分Xeon 8000系列&amp;quot;Emerald Rapids&amp;quot;处理器的建议零售价甚至高于2023年发布时的初始定价。英特尔是近期半导体行业涨价潮中的最新一员，多家供应商均以成本上升与供需失衡为由相继调整产品售价。&lt;/p&gt;
