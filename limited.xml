@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 11:29:31 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”</title><link>https://wallstreetcn.com/articles/3776238</link><guid>d030cfbffd7c42bcb952949a5e5f38773b869f4f04deee6a14992ebe7ffa0e0e</guid><pubDate>Mon, 06 Jul 2026 00:13:08 GMT</pubDate><description>&lt;p&gt;7月6日上午，半导体行业研究机构SemiAnalysis在X平台（原推特）发布六条连续推文，披露英伟达Kyber NVL144机架架构遭遇重大延迟及多项取消决定。消息在盘前引发市场关注。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 11:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”</title><link>https://wallstreetcn.com/articles/3776238</link><guid>d030cfbffd7c42bcb952949a5e5f38773b869f4f04deee6a14992ebe7ffa0e0e</guid><pubDate>Mon, 06 Jul 2026 00:13:08 GMT</pubDate><description>&lt;p&gt;7月6日上午，半导体行业研究机构SemiAnalysis在X平台（原推特）发布六条连续推文，披露英伟达Kyber NVL144机架架构遭遇重大延迟及多项取消决定。消息在盘前引发市场关注。&lt;/p&gt;
 &lt;p&gt;SemiAnalysis直言：“重大延迟：就在黄仁勋于GTC&lt;strong&gt;展示Kyber NVL144仅三个月后，该产品遭遇重大挫折，延迟超过12个月，推迟至2028年。&lt;/strong&gt;”&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 PCB中板：卡住Kyber的那块板子
@@ -294,7 +294,39 @@ Anthropic、OpenAI等大客户需求旺盛
 &lt;p&gt;2025年8月，京东完成对香港本地连锁商超“佳宝食品超级市场”的收购，直接切入本地生鲜零售网络；同年9月，京东与华润隆地达成战略合作，宣布京东MALL香港首店落户湾仔，该项目已于今年6·18期间正式开业。同时，京东物流近年来也在持续加密香港岛及九龙等地的自营快递运营中心。&lt;/p&gt;
 &lt;p&gt;综合来看，京东在香港的业务策略已明显区别于早期的纯线上电商渗透，正在形成“核心地产+本地零售商超+自营物流节点”的重资产嵌套模式。&lt;/p&gt;
 &lt;p&gt;此次收购油麻地学生宿舍物业，进一步将京东的本地资产版图从核心区写字楼延伸至具备稳定现金流预期的经营性民生地产。这类综合性的重资产投入，通常是企业为长期深耕区域市场、降低供应链综合履约成本而做的财务与业务的双重铺垫。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌要放大招? Gemini 3.5 Pro传7月17日发布，前端碾压Fable 5</title><link>https://wallstreetcn.com/articles/3776301</link><guid>4b6492ed9f49691b38e8d58a70d615934677243a13847261e505d2dba0a96058</guid><pubDate>Mon, 06 Jul 2026 11:46:38 GMT</pubDate><description>&lt;p&gt;谷歌在大模型竞赛中憋出一张重磅底牌。&lt;/p&gt;
+&lt;p&gt;据泄露信息，Gemini 3.5 Pro将于7月17日正式发布，其前端与视觉代码生成能力据称出现跨越式跃升，在多项测试中压制Anthropic的Fable 5，但在硬核推理与复杂工程任务上仍落后于对手。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这款姗姗来迟的旗舰模型背后，是一次更为彻底的技术重构。&lt;/p&gt;
+&lt;p&gt;据科技媒体Geeky Gadgets报道，&lt;strong&gt;谷歌DeepMind放弃了原有的2.5 Pro基座，转而对Gemini 3.5 Pro进行全新预训练，发布时间也因此从原定的2026年6月推迟至7月17日。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一决策被外界解读为谷歌在质量与速度之间主动选择前者，以应对OpenAI GPT-5.6和Anthropic Fable 5的双重压力。&lt;/p&gt;
+&lt;p&gt;对市场而言，这场发布的意义不止于一款新模型的上线。谷歌同时被曝正基于这套新底座开发图像模型Nano Banana Pro，剑指OpenAI的GPT-Image 2，意味着谷歌试图在文本代码与图像生成两条战线同步发力，进一步加剧AI行业的竞争烈度。&lt;/p&gt;
+为何推迟两个月？换底重建
+&lt;p&gt;Gemini 3.5 Pro的延迟，并非常规的调参优化，而是一次更底层的重构。&lt;/p&gt;
+&lt;p&gt;据泄露信息，谷歌额外消耗的时间用于重新执行预训练流程，彻底放弃了沿用旧基座的方案。这意味着Gemini 3.5 Pro并非Gemini 3.5 Flash的简单放大版，而是在全新地基上重新搭建。&lt;/p&gt;
+&lt;p&gt;谷歌DeepMind此前在I/O大会上一口气发布了Gemini 3.5系列，但当天实际上线的仅有轻量版Gemini 3.5 Flash，旗舰版Pro被留在后台。谷歌CEO Sundar Pichai当时承诺&amp;quot;再给一个月&amp;quot;，但六月过去，Pro未至，官方口径随后改为&amp;quot;七月&amp;quot;，却始终未给出具体日期。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Geeky Gadgets援引Universe of AI的信息指出，此次重训旨在弥补关键性能短板，重点提升数学推理能力、SVG场景生成精度以及图像生成质量，以增强对GPT-5.6和Fable 5的竞争力。&lt;/p&gt;
+前端称霸：SVG生成成最大亮点
+&lt;p&gt;从泄露信息拼出的Gemini 3.5 Pro画像，呈现出鲜明的&amp;quot;偏科&amp;quot;特征——前端与视觉代码生成是其最突出的能力跃升点。&lt;/p&gt;
+&lt;p&gt;综合多位开发者在X平台上的测试反馈，泄露版本在以下维度表现显著：界面生成的设计品味更接近专业设计师水准，配色与层次感明显提升；SVG生成能力大幅增强，复杂矢量图形可一次生成且精度更高；前端页面完成度高，一句提示词即可生成结构清晰的完整页面。&lt;/p&gt;
+&lt;p&gt;开发者QASIM-livelifewithai在测试中发现，Gemini 3.5 Pro竟能生成一幅与Gemini负责人Logan Kilpatrick高度相似的SVG图像，引发广泛关注。在开发者圈子里，&amp;quot;mogging&amp;quot;（彻底压制）一词开始流行，专门用来形容Gemini 3.5 Pro在前端任务上对竞品的碾压表现。&lt;/p&gt;
+&lt;p&gt;在LM Arena的匿名测试中，Gemini 3.5 Pro在前端与视觉类任务上确实压制了多款竞品，与Fable 5的对比测试中，在意境与氛围感方面略胜一筹。&lt;/p&gt;
+硬核短板：推理与工程任务仍落后
+&lt;p&gt;前端领域的优势，并不意味着全面超越。&lt;/p&gt;
+&lt;p&gt;在最硬核的Agent任务、仓库级软件工程以及长链路任务上，Gemini 3.5 Pro依然无法撼动Fable 5和GPT-5.6的地位。据泄露者直言，即便换用了新底座，Gemini 3.5 Pro&amp;quot;在最难的智能体和长链路任务上，依然打不过Fable 5或GPT-5.6&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Fable 5在仓库级代码调试、深度架构改造等重工程任务上表现强劲，在SWE-Bench Pro等基准测试中得分突出；GPT-5.6则在多步推理任务上稳居前列。更早流出的一份基准测试泄露数据显示，Gemini 3.5 Pro在推理、编码和长期任务执行上的短板明显，综合排名落后于上述两款竞品。&lt;/p&gt;
+&lt;p&gt;这一&amp;quot;偏科&amp;quot;格局，也在一定程度上解释了谷歌的市场定位逻辑——以前端与视觉代码生成的差异化优势，在竞争激烈的市场中切割特定用户群体。&lt;/p&gt;
+双线布局：一套底座，两个战场
+&lt;p&gt;Gemini 3.5 Pro的战略意义，不止于模型本身。&lt;/p&gt;
+&lt;p&gt;泄露信息显示，谷歌正基于Gemini 3.5 Pro这套新底座，同步开发一款名为Nano Banana Pro的图像生成模型，目标直接对标OpenAI的GPT-Image 2。这意味着谷歌试图以一次预训练投入，同时撬动文本代码生成与图像生成两条产品线。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;谷歌还在推进Gemini 4 Flash的开发，定位于速度优先的轻量化任务场景&lt;/strong&gt;。多条产品线并行推进，折射出DeepMind在差异化布局上的整体思路——以不同模型覆盖不同市场需求，而非押注单一旗舰。&lt;/p&gt;
+&lt;p&gt;在定价策略上，Geeky Gadgets指出，&lt;strong&gt;谷歌倾向于将Gemini 3.5 Pro定位为更具性价比的选择，以吸引对成本敏感的企业用户，在OpenAI和Anthropic主导的高端市场之外寻求差异化立足点。&lt;/strong&gt;&lt;/p&gt;
+竞争格局：诸神之战没有终点
+&lt;p&gt;Gemini 3.5 Pro的延迟发布，是当前AI军备竞赛烈度的一个缩影。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI的GPT-5.6预计于7月7日至9日发布，在速度、可靠性与输出精度上均有显著提升，并与美国政府合作强化了合规与伦理框架，进一步巩固其行业标杆地位。&lt;/strong&gt;Anthropic的Fable 5则在重工程任务上持续保持领先。&lt;/p&gt;
+&lt;p&gt;过去半年，AI圈的风头几乎被OpenAI和Anthropic轮流占据，谷歌相对沉寂。但此次Gemini 3.5 Pro若能如期于7月17日亮相，且前端能力表现与泄露信息相符，将是谷歌在这场竞赛中重新争夺话语权的关键一步。&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Pro能否如期到来，以及能否在大模型的大乱斗中胜出，市场正在等待谷歌给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
 &lt;p&gt;英特尔发言人在声明中将此次调价归因于&amp;quot;当前市场动态&amp;quot;，包括供应链成本上涨以及Core Ultra 200S Plus系列处理器的强劲需求。&lt;/p&gt;
 &lt;p&gt;据Tom&amp;#x27;s Hardware近日报道，&lt;strong&gt;英特尔消费级旗舰产品涨幅相对温和，在30至50美元之间；而数据中心级产品的价格涨幅则达到数百乃至逾千美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次涨价波及英特尔消费级Arrow Lake系列与服务器级Xeon产品线，部分Xeon 8000系列&amp;quot;Emerald Rapids&amp;quot;处理器的建议零售价甚至高于2023年发布时的初始定价。英特尔是近期半导体行业涨价潮中的最新一员，多家供应商均以成本上升与供需失衡为由相继调整产品售价。&lt;/p&gt;
@@ -401,24 +433,4 @@ AI真正考验的，或许不是效率，而是分配
 &lt;p&gt;美国居民部门本身已经面临劳动收入份额下降、政府转移支付占收入比重提高以及实际收入增长偏弱等多重压力。&lt;strong&gt;如果AI红利进一步向资本和少数顶尖人才集中，就业压力和收入分配压力可能同步加剧。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报告提到，海外关于全民基本收入（UBI）的讨论未来或重新升温，但其前提是政府能够分享AI创造的收益。报告表示，美国目前给出的思路，是政府直接入股科技企业，从而参与AI红利分配，这可能成为缓解社会收入压力的一种方式。&lt;/p&gt;
 &lt;p&gt;对于资本市场而言，&lt;strong&gt;这意味着AI故事已经不仅仅是算力、模型和收入增长，更将逐渐进入就业、分配以及社会治理的新阶段&lt;/strong&gt;。AI能够创造多少利润，最终很可能取决于它能够多大程度替代人类劳动；而AI投资能否持续获得资本市场认可，也将越来越取决于社会是否能够承受这一过程所带来的代价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长安海外销量顶起半边天</title><link>https://wallstreetcn.com/articles/3776294</link><guid>9b5c7a08d4d28c6eb399bf75b7ec06838952a646b45a4bae3373e406a2bc2922</guid><pubDate>Mon, 06 Jul 2026 10:08:27 GMT</pubDate><description>&lt;p&gt;作者 | 周智宇&lt;/p&gt;
-&lt;p&gt;海外市场已然成为车企的兵家必争之地。&lt;/p&gt;
-&lt;p&gt;长安汽车7月6日披露的产销快报显示，其6月销售201976辆，同比下降14.09%；上半年累计销量1118894辆，同比下降17.44%。&lt;/p&gt;
-&lt;p&gt;放在今年的国内车市，这并不算意外。价格战还在继续，燃油车基本盘承压，新能源也不再是只要转型就能自然增长的安全牌。&lt;/p&gt;
-&lt;p&gt;但同一个月，长安海外销量达到91065辆，占总销量约45.1%。&lt;/p&gt;
-&lt;p&gt;这意味着，长安每卖出两辆车，就有接近一辆来自海外市场。这个比例已经不只是出口表现不错，而是海外开始成为长安销量表里最稳的一块。&lt;/p&gt;
-&lt;p&gt;这个变化来得很关键。6月，长安新能源汽车销量92465辆，同比下降8.28%；上半年新能源汽车累计销量414201辆，同比下降8.30%。海外销量几乎追平新能源销量，但一个在快速放大，一个仍在承压。长安这张月报真正留下的，不只是同比下滑，而是集团增长重心正在重新排序。&lt;/p&gt;
-&lt;p&gt;长安内部也在把海外往前推。&lt;/p&gt;
-&lt;p&gt;7月3日，长安汽车召开2026年三季度全球高职级人员暨职工代表大会，会议主题里，“力拓海外”“打造爆款”“提质增效”都被放在了显眼位置。&lt;/p&gt;
-&lt;p&gt;过去，海外更多是自主车企的外延市场。现在不一样了。国内10万—20万元主流价格带挤满了比亚迪、吉利银河、零跑、奇瑞、长安启源、深蓝等品牌，价格、配置、能耗被拉到同一张表里比较。车企在国内多卖一辆车，往往要付出更高的营销费用和更低的利润空间。&lt;/p&gt;
-&lt;p&gt;海外给长安打开了另一条路。它能消化产能，减轻国内价格战对集团销量的冲击，也能让深蓝、启源、阿维塔这些品牌提前进入更大的市场。&lt;/p&gt;
-&lt;p&gt;长安2025年年报提到，全球化“海纳百川”计划全面加速，销售网络已经拓展到一百多个国家和地区；泰国罗勇工厂正式投产，深蓝S05投产首月产量破千，首批500台深蓝S05装船发往英国。到2026年，第四代逸动、长安启源全新Q05、深蓝S09、阿维塔06等车型还将在海外多个区域上市。&lt;/p&gt;
-&lt;p&gt;所以，6月9.1万辆海外销量不是孤立数字。它背后是长安过去几年全球化投入开始进入兑现期。&lt;/p&gt;
-&lt;p&gt;但海外顶上来之后，国内新能源的问题也更清楚了。&lt;/p&gt;
-&lt;p&gt;长安不缺新能源品牌。启源、深蓝、阿维塔，加上主品牌里的新能源车型，已经覆盖了从主流家用到高端智能的多个价格带。启源冲家庭市场，深蓝往家庭SUV、大六座和海外延展，阿维塔负责高端智能化形象。分工都说得通，但销量表最终看的不是分工，而是哪款车能真正打穿市场。&lt;/p&gt;
-&lt;p&gt;这也是朱华荣此前表态的价值所在。4月21日，在中国长安汽车集团全球战略发布会暨伙伴大会上，朱华荣宣布，长安将把现有63款产品谱系精简到36款。&lt;/p&gt;
-&lt;p&gt;过去几年，车企习惯用多品牌、多车型去抢细分市场。但价格战打到今天，车型越多不一定越安全，反而可能摊薄研发、营销和渠道资源。长安现在要做的，不是继续把产品线铺开，而是把资源收回来，压到更少、更能打的车型上。&lt;/p&gt;
-&lt;p&gt;6月月报里的矛盾也在这里。&lt;/p&gt;
-&lt;p&gt;海外销量已经顶起半边天，给长安争取了时间；但国内新能源还没有跑出足够强的主牌。启源需要一个能在主流家庭市场站稳的爆款，深蓝需要证明大车和海外不是短期增量，阿维塔需要把华为、宁德时代这些标签转成稳定订单。&lt;/p&gt;
-&lt;p&gt;长安的计划，是要未来五年，集中资源打造出一款年销50万辆级的大爆款，以及五款车达到年销30万辆。眼下，长安汽车离这个目标，还有一段路要走。&lt;/p&gt;
-&lt;p&gt;长安接下来真正要看的，不是海外还能不能继续增长，而是海外争取来的时间，能不能换来国内新能源产品线的效率提升。长安必须证明，少一些车，反而能卖得更准。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
