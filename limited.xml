@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 18:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 18:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
 &lt;p&gt;7月6日，沪指全天探底回升，创业板指走势较弱，早盘一度跌超2%，午盘一度收窄至0.5%，午后进一步扩大跌幅，科创50全日振幅高达5.52%，早盘高开后急挫逾3%，触底后V型反转，最终收涨1.04%。算力硬件、芯片半导体跌幅居前，CPO、电路板、覆铜板等显著下跌，创新药、CRO再度爆发，超硬材料、培育钻石等拉升。“老登”股煤炭、银行等逆势拉升。&lt;/p&gt;
 &lt;p&gt;港股三大指数全线反弹，恒指、恒科指双双上涨，恒科指盘中涨超1%，科网股悉数走高，腾讯控股涨近5%，芯片股、AI大模型股承压，生物医药板块延续强势表现。债市方面，国债期货集体上涨，商品方面，国内商品期货普遍上涨，金属期货涨幅居前。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -160,23 +160,7 @@ AI交易进入“验证期”：从预期驱动到现实约束
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 1190亿美债长端拍卖直面"假期大考"，沃什"去前瞻指引"底牌如何重定价收益率曲线？</title><link>https://wallstreetcn.com/articles/3776261</link><guid>2d8ad3917fe8100c224b383db5ebc9eee77f358699c5c168f525c3b78d358ba1</guid><pubDate>Mon, 06 Jul 2026 06:54:15 GMT</pubDate><description>&lt;p&gt;本周，美国国债市场将迎来独立日假期后的关键压力测试。&lt;/p&gt;
-&lt;p&gt;美国财政部将在本周完成1190亿美元的国债发行计划，其中周二拍卖3年期国债开场，周三和周四分别跟进10年期和30年期标志性长债。市场普遍关注的是，假期归来后的投资者需求能否承接长端供给——Mischler Financial Group董事总经理Tom di Galoma警告称，&amp;quot;每逢大规模供给周前后遭遇节假日，多场拍卖出现&amp;#x27;尾部&amp;#x27;（tail）的概率相当高。&amp;quot;&lt;strong&gt;与此同时，本周中段将公布的美联储6月会议纪要料将成为债券市场另一焦点，投资者将从中研判新任主席Kevin Warsh主导下委员会内部的政策分歧程度。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在宏观背景上，长端美债近期持续承压。伊朗冲突引发的能源价格上涨加剧通胀担忧，财政压力持续累积，共同压制了长端表现。不过，周一布伦特原油跌约0.6%至每桶71.70美元，能源通胀顾虑有所缓解，令国债价格获得短暂支撑，10年期美债收益率下行约2个基点至4.46%。&lt;/p&gt;
-
-假期效应叠加长端供给，拍卖需求存隐忧
-
-&lt;p&gt;本周国债拍卖规模总计1190亿美元，长端品种是市场考量的核心。&lt;strong&gt;据彭博报道，长期国债自伊朗冲突爆发以来持续抛售，背后是能源价格攀升引发的通胀预期升温，以及不断积累的财政压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tom di Galoma对需求前景表示谨慎。他指出，节假日前后往往造成市场参与者缺席，在大供给周叠加假期效应的情形下，多场拍卖同时出现&amp;quot;尾部&amp;quot;——即实际中标利率高于预发行收益率——的风险不可忽视。这一情形若成真，将直接推高长端收益率，对持仓较重的投资者构成压力。&lt;/p&gt;
-&lt;p&gt;与此同时，周一公布的ISM服务业数据也值得关注。此前6月就业报告大幅低于预期，促使债券交易员下调了对今年加息幅度的预期，如果ISM数据进一步走软，将为本周的拍卖提供一定支撑。&lt;/p&gt;
-
-沃什&amp;quot;去前瞻指引&amp;quot;路线，市场解读6月会议纪要
-
-&lt;p&gt;本周中段发布的美联储6月会议纪要，&lt;strong&gt;将为市场提供解读Warsh新领导风格的重要窗口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TD Securities美国利率策略师Molly Brooks指出，此次纪要的看点不仅在于委员会内部的意见分歧程度，还在于文件本身的篇幅与措辞结构。&amp;quot;鉴于Warsh主席有意削减前瞻指引，纪要的构成和长度本身也将被市场用于判断这一转变是否已经发生。&amp;quot;&lt;/p&gt;
-&lt;p&gt;前瞻指引的弱化意味着市场对未来政策路径的能见度将系统性下降，投资者将不得不更多依赖高频数据而非央行信号来校准利率预期。这一变化对收益率曲线的定价逻辑具有深远影响——若市场无法锚定政策终点，长端溢价料将趋于扩大，曲线陡峭化压力可能持续。&lt;/p&gt;
- 
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加速押注自研AI芯片！AWS三季度ASIC服务器出货目标上调至多30%</title><link>https://wallstreetcn.com/articles/3776278</link><guid>55ad5329b182618a2438e02fba2bc715dbce9ccfeb070e1fbd417ec66654c3f4</guid><pubDate>Mon, 06 Jul 2026 07:45:59 GMT</pubDate><description>&lt;p&gt;亚马逊AWS正在加速押注自研芯片战略。供应链消息显示，AWS已通知相关供应商，&lt;strong&gt;将第三季度ASIC服务器出货量较原计划上调20%至30%&lt;/strong&gt;，显示其对Trainium 3芯片的市场前景持高度乐观态度。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加速押注自研AI芯片！AWS三季度ASIC服务器出货目标上调至多30%</title><link>https://wallstreetcn.com/articles/3776278</link><guid>55ad5329b182618a2438e02fba2bc715dbce9ccfeb070e1fbd417ec66654c3f4</guid><pubDate>Mon, 06 Jul 2026 07:45:59 GMT</pubDate><description>&lt;p&gt;亚马逊AWS正在加速押注自研芯片战略。供应链消息显示，AWS已通知相关供应商，&lt;strong&gt;将第三季度ASIC服务器出货量较原计划上调20%至30%&lt;/strong&gt;，显示其对Trainium 3芯片的市场前景持高度乐观态度。&lt;/p&gt;
 &lt;p&gt;周一，据digitimes援引中国台湾供应链人士消息，搭载Trainium 3芯片的服务器主板级组件已于5月开始出货，目前处于逐月爬坡阶段。&lt;strong&gt;AWS此次上调出货计划，被供应链业者解读为提前拉单、抢占市场的信号，而非仅是常规需求上修。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;多名供应链人士指出，Anthropic是此次AWS加速拉货的重要驱动力之一——这家AI公司已表示以10倍增长为基准规划的算力仍不敷使用，需尽快补足缺口。&lt;/p&gt;
 &lt;p&gt;受此消息提振，AWS Trainium 3服务器供应链中的多家中国台湾厂商有望受益，下半年营运表现存在上调空间。与此同时，业界亦开始关注AWS是否会因强劲市场势头而提前推出下一代Trainium 4，进一步强化在ASIC市场的竞争力。&lt;/p&gt;
@@ -208,6 +192,42 @@ Anthropic、OpenAI等大客户需求旺盛
 &lt;p&gt;2025年8月，京东完成对香港本地连锁商超“佳宝食品超级市场”的收购，直接切入本地生鲜零售网络；同年9月，京东与华润隆地达成战略合作，宣布京东MALL香港首店落户湾仔，该项目已于今年6·18期间正式开业。同时，京东物流近年来也在持续加密香港岛及九龙等地的自营快递运营中心。&lt;/p&gt;
 &lt;p&gt;综合来看，京东在香港的业务策略已明显区别于早期的纯线上电商渗透，正在形成“核心地产+本地零售商超+自营物流节点”的重资产嵌套模式。&lt;/p&gt;
 &lt;p&gt;此次收购油麻地学生宿舍物业，进一步将京东的本地资产版图从核心区写字楼延伸至具备稳定现金流预期的经营性民生地产。这类综合性的重资产投入，通常是企业为长期深耕区域市场、降低供应链综合履约成本而做的财务与业务的双重铺垫。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 和沃什唱反调？美联储理事沃勒：前瞻指引“有价值”，但要灵活</title><link>https://wallstreetcn.com/articles/3776320</link><guid>3ced4893efbe6170f1a5d3d4608cec713fdcc1f7c33605aa73ceda448d9a18d0</guid><pubDate>Mon, 06 Jul 2026 18:48:37 GMT</pubDate><description>&lt;p&gt;美联储内部围绕货币政策沟通方式的分歧正在浮出水面。&lt;/p&gt;
+&lt;p&gt;美联储理事沃勒（Christopher Waller）于6日周一在意大利央行于罗马举办的央行论坛上表示，前瞻指引仍是一项有价值的政策工具，但需要灵活运用。此番表态与新任美联储主席沃什（Kevin Warsh）刻意淡化前瞻指引的立场形成明显对比。&lt;/p&gt;
+&lt;p&gt;本周一的讲话显示，沃勒承认前瞻指引并非在所有情境下都适用，但不愿将其完全放弃。沃勒的讲话对市场的直接含义在于：虽然美联储决议声明删除了前瞻指引，但美联储决策层内部并非铁板一块。在当前通胀与就业风险交织、政策走向高度不确定的环境下，美联储如何与市场沟通，将直接影响利率预期与金融条件的走向。&lt;/p&gt;
+&lt;p&gt;与此同时，当前美联储官员在通胀与就业风险的权衡上仍存在分歧。沃勒表示，劳动力市场正出现企稳迹象，政策重心得以向通胀倾斜，并指出“风险已完全翻转”，这将影响政策取向的判断。&lt;/p&gt;
+
+
+沃什主导转向，沃勒表明立场
+
+&lt;p&gt;沃什上任以来，已明确表达对前瞻指引的抵触。&lt;/p&gt;
+&lt;p&gt;上月举行了沃什上任后主持的首次美联储货币政策委员会FOMC会议，会后公布的决议声明中删除了有关未来利率调整方向的前瞻指引表述。会后举行的新闻发布会上，沃什也拒绝提供利率预测，理由正是他不认同前瞻指引。&lt;/p&gt;
+&lt;p&gt;上周，沃什还在葡萄牙举行的欧洲央行年度央行论坛上表示，金融市场和实体经济在自行判断形势时运作最佳，美联储官员过去有“喂给”市场信号的倾向，这在危机时期或许合理，“但对于当前所处的环境而言并不适合”。&lt;/p&gt;
+&lt;p&gt;沃勒则明确表示不愿放弃利率指引这一工具。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我始终相信，前瞻指引是一项有价值的工具，它在某些时候显著强化了政策效果，未来也将继续发挥作用。但前瞻指引更多是一门艺术，而非科学，它有时阻碍了政策制定，而非有所助益。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+有效时机：疫情通胀周期的经验 失效时机：被“捆住手脚”的教训
+
+&lt;p&gt;沃勒以2021年秋季为例，论证前瞻指引在特定条件下能够显著加快政策传导。彼时FOMC向市场释放将收紧政策的信号，即便联储直至2022年3月才正式加息，但从2021年9月至2022年2月中旬，两年期美国国债收益率已累计上行近200个基点。&lt;/p&gt;
+&lt;p&gt;据报道，沃勒指出，这一涨幅相当于将正常情况下12至24个月的政策传导滞后期缩短了约6个月。&amp;quot;前瞻指引奏效时，能比单纯调整政策利率更快地改变经济条件，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;然而，沃勒同样承认前瞻指引存在明显局限。2020年至2021年，联储发出利率将在一段时间内维持不变的信号，但随后通胀快速攀升。这一表态在事后看来反而束缚了FOMC的行动，导致加息被不必要地推迟。沃勒直言，此前过于僵化的前瞻指引“最终在2021年捆住了FOMC的手脚”。&lt;/p&gt;
+&lt;p&gt;他还指出，当多种经济情景出现概率相近、政策路径难以判断时，前瞻指引同样难以发挥作用。&lt;/p&gt;
+&lt;p&gt;沃勒将这种处境比作驾车驶近路口时遭遇黄灯——司机要么停车等待，要么加速通过，却不可能以&amp;quot;停在路口中间&amp;quot;作为基准方案。&amp;quot;无法简单地对各种情景取加权平均值，以此作为给出前瞻指引的&amp;#x27;基准预测&amp;#x27;，&amp;quot;他说。&lt;/p&gt;
+
+前瞻指引与反应函数：两个不同的概念
+
+&lt;p&gt;沃勒在演讲中着重区分了前瞻指引与反应函数的概念差异，这一区分也为当前的政策沟通争议提供了分析框架。&lt;/p&gt;
+&lt;p&gt;他将反应函数定义为向市场传达政策制定者将如何响应经济冲击的框架——&amp;quot;给我数据，代入进去，我来告诉你我会怎么做&amp;quot;；而前瞻指引则是在实际获得数据之前，就向公众和市场宣示政策将会或可能走向何方。&amp;quot;这是两种截然不同的操作，&amp;quot;沃勒说。&lt;/p&gt;
+&lt;p&gt;他表示，只要一家央行的反应函数清晰且被市场充分理解，政策官员其实无需过多发言。&amp;quot;如果你的反应函数定义不清晰，市场也不理解，那你就需要开口说话。&amp;quot;他强调，向市场清楚传达政策目标和对数据的响应方式，是减少不确定性的有效手段。&lt;/p&gt;
+
+劳动力市场稳定，风险格局生变
+
+&lt;p&gt;在宏观判断上，沃勒认为当前政策环境正在发生关键变化。他此前曾支持2025年降息以提振就业，但本周一表示，美国的劳动力市场已出现企稳迹象，这使美联储的政策重心得以转向通胀。&lt;/p&gt;
+&lt;p&gt;&amp;quot;风险已经完全翻转，&amp;quot;沃勒说，&amp;quot;这会改变你思考政策方向的方式。&amp;quot;&lt;/p&gt;
+&lt;p&gt;值得注意的是，美联储官员上月维持利率不变，但在通胀升至2023年以来最高水平后，加息预期有所升温。&lt;/p&gt;
+&lt;p&gt;上月FOMC会后公布的点阵图显示，18位提供利率预期的美联储官员中，有九人、占半数预计今年联储将至少加息一次。在这一背景下，沃勒与沃什在政策沟通上的微妙分歧，或将对市场解读美联储下一步行动产生实质影响。&lt;/p&gt;
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌要放大招? Gemini 3.5 Pro传7月17日发布，前端碾压Fable 5</title><link>https://wallstreetcn.com/articles/3776301</link><guid>4b6492ed9f49691b38e8d58a70d615934677243a13847261e505d2dba0a96058</guid><pubDate>Mon, 06 Jul 2026 11:46:38 GMT</pubDate><description>&lt;p&gt;谷歌在大模型竞赛中憋出一张重磅底牌。&lt;/p&gt;
 &lt;p&gt;据泄露信息，Gemini 3.5 Pro将于7月17日正式发布，其前端与视觉代码生成能力据称出现跨越式跃升，在多项测试中压制Anthropic的Fable 5，但在硬核推理与复杂工程任务上仍落后于对手。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -258,18 +278,7 @@ Anthropic、OpenAI等大客户需求旺盛
 &lt;p&gt;近期国际油价和汽油价格明显回落，是推动成本压力缓解的重要因素之一。此前受中东局势影响，能源价格一度大幅攀升，而随着美伊达成临时协议，油价近期明显降温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在能源成本回落、消费需求保持韧性的共同作用下，企业利润空间有所改善，也为扩大招聘提供了更充足的条件。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;整体来看，6月ISM服务业数据显示，美国占经济主体的服务业仍保持扩张，尽管增长节奏有所放缓，但就业改善和价格压力下降，为美国经济软着陆提供了新的积极信号。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔上调多款CPU价格，服务器芯片最高涨超1300美元</title><link>https://wallstreetcn.com/articles/3776265</link><guid>65e60cb7be7bedb294bc4c62602b4c67947e9ace6c5de92b2f70a93b669e747b</guid><pubDate>Mon, 06 Jul 2026 06:58:32 GMT</pubDate><description>&lt;p&gt;英特尔正式确认对旗下部分消费级与服务器级处理器（CPU）上调官方建议价格，涨幅从数十美元到逾千美元不等，折射出当前半导体供应链成本上升与特定产品需求旺盛的双重压力。&lt;/p&gt;
-&lt;p&gt;英特尔发言人在声明中将此次调价归因于&amp;quot;当前市场动态&amp;quot;，包括供应链成本上涨以及Core Ultra 200S Plus系列处理器的强劲需求。&lt;/p&gt;
-&lt;p&gt;据Tom&amp;#x27;s Hardware近日报道，&lt;strong&gt;英特尔消费级旗舰产品涨幅相对温和，在30至50美元之间；而数据中心级产品的价格涨幅则达到数百乃至逾千美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次涨价波及英特尔消费级Arrow Lake系列与服务器级Xeon产品线，部分Xeon 8000系列&amp;quot;Emerald Rapids&amp;quot;处理器的建议零售价甚至高于2023年发布时的初始定价。英特尔是近期半导体行业涨价潮中的最新一员，多家供应商均以成本上升与供需失衡为由相继调整产品售价。&lt;/p&gt;
-消费级涨价集中于特定SKU，并非全线上调
-&lt;p&gt;英特尔悄然上调了最新一代桌面端Core Ultra 200系列Plus处理器的建议客户价格（RCP），涉及Core Ultra 7 270K Plus与Core Ultra 7 250K Plus两款产品，涨幅分别为30至50美元。&lt;/p&gt;
-&lt;p&gt;值得注意的是，此次调价并未覆盖整个Arrow Lake家族。原有&amp;quot;非Plus&amp;quot;版Core Ultra 200系列处理器的建议零售价保持不变——旗舰型号Core Ultra 9 285K仍维持599美元的定价，与其2024年第二季度上市时一致。入门级产品Core Ultra 5 225的RCP区间为183至236美元，甚至略低于241美元的发布价。&lt;/p&gt;
-&lt;p&gt;上述选择性调价表明，此次涨价并非单纯的成本转嫁，&lt;strong&gt;而更多反映出特定SKU的需求超预期强劲&lt;/strong&gt;——这些产品的目标消费者已表现出在建议价以上购买的意愿。&lt;/p&gt;
-数据中心芯片涨幅更为显著
-&lt;p&gt;服务器级产品的价格变动幅度远超消费级。&lt;strong&gt;部分高端Xeon 6&amp;quot;Granite Rapids&amp;quot;处理器虽较2024年发布时的初始定价有所下调，但在英特尔于2025年削减建议价后又明显回升，与2025年年中的零售价相比，部分型号价格已翻倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更引人关注的是Xeon 8000系列&amp;quot;Emerald Rapids&amp;quot;处理器的走势——该系列于2023年底发布，而部分型号当前的建议零售价已高于发布时的定价水平，最高涨幅超过1300美元。&lt;/p&gt;
-&lt;p&gt;英特尔在声明中将此次调价定性为&amp;quot;与其他英特尔产品系列近期基于类似因素所做价格调整一致&amp;quot;，英特尔并非唯一采取涨价行动的供应商。Tom&amp;#x27;s Hardware指出，多家供应商近期均以成本上升及需求超出供给能力为由上调产品价格。对于数据中心买家而言，服务器级芯片价格的大幅波动将直接影响基础设施采购成本，尤其在AI算力需求持续扩张的背景下，相关支出压力或进一步加剧。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 13:36:03 GMT</pubDate><description>&lt;p&gt;芯片制造商股价反弹提振美股，逢低买盘涌入，市场对人工智能交易仍有上涨空间的预期升温。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 13:36:03 GMT</pubDate><description>&lt;p&gt;芯片制造商股价反弹提振美股，逢低买盘涌入，市场对人工智能交易仍有上涨空间的预期升温。&lt;/p&gt;
 &lt;p&gt;周一，美股三大股指集体高开，道指涨0.11%，标普500指数涨0.32%，纳指涨0.78%。博通涨3.5%，公司宣布与苹果合作协议延长至2031年。存储概念股集体走高，西部数据涨超5%，闪迪涨超4%，希捷科技涨超4%，美光科技涨超3%。&lt;/p&gt;
 &lt;p&gt;与此同时，日本10年期国债收益率上行至2.815%，创1996年以来最高水平；20年期收益率升至3.785%，同样为1996年以来最高；30年期收益率亦升3个基点至4.055%。美元走强，彭博美元指数对G10货币全线上涨。&lt;/p&gt;
 &lt;p&gt;Singular Bank策略主管Roberto Scholtes表示：“半导体及其他热门科技主题中的投机性仓位，很可能会继续被削减。关键问题在于，这是否会触发资金轮动流向落后的板块，还是引发更广泛的市场回调。”&lt;/p&gt;
@@ -306,4 +315,17 @@ Anthropic、OpenAI等大客户需求旺盛
 &lt;p&gt;在外汇市场，美元持续走强，高盛已将一年期美元兑日元汇率预测从155上调至165，并表示倾向于做多利差交易（carry trade）。日元早盘在161.54附近交投。日本国债收益率的持续上行与日元的走弱之间形成一定反差，折射出市场对日本货币政策路径的复杂预期。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;黄金价格基本持平，此前连涨三个交易日，目前在每盎司4158美元附近交投。市场普遍预期美联储短期内不会加息，为金价提供了一定支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩点评铠侠BiCS-10量产：AI存储升级的关键一步</title><link>https://wallstreetcn.com/articles/3776314</link><guid>ecbf4eb976743bc219a139bd28b6b869eaa205b54f7206231f3803da0ae3945c</guid><pubDate>Mon, 06 Jul 2026 15:57:17 GMT</pubDate><description>&lt;p&gt;铠侠开启下一代NAND闪存技术的量产周期，为其争夺AI时代数据中心存储市场奠定关键技术基础。7月3日，铠侠与闪迪联合宣布，已在北上工厂K2晶圆厂正式启动BiCS-10 NAND闪存量产，并向客户提供基于该技术的1Tb TLC产品样品。&lt;/p&gt;
+&lt;p&gt;摩根士丹利随后发布研报，维持铠侠&amp;quot;增持&amp;quot;评级及11万日元目标价。分析师认为，&lt;strong&gt;BiCS-10的正式量产意味着公司下一代企业级SSD产品进入商业化阶段，有望进一步增强其在AI数据中心和企业级存储市场的竞争力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，大摩同时指出，未来一年左右，公司业绩增长仍主要依赖上一代BiCS-8产品。&lt;strong&gt;BiCS-10的真正价值更多体现在中长期——其商业化进展将决定铠侠能否顺利提升数据中心及企业级业务占比，实现产品结构升级。&lt;/strong&gt;&lt;/p&gt;
+BiCS-10性能全面升级，为AI时代SSD而生
+&lt;p&gt;相比上一代BiCS-8，BiCS-10在性能、容量和能效方面均实现显著提升。&lt;/p&gt;
+&lt;p&gt;其中，接口速度由3.6Gbps提升至4.8Gbps，提升约33%；单位面积比特密度提高59%；写入能效提升18%，读取能效提升30%。&lt;strong&gt;更重要的是，BiCS-10从设计之初便瞄准下一代AI服务器需求&lt;/strong&gt;，可支持PCIe Gen6及Gen7 SSD，为大模型训练和AI推理所需的高带宽、高吞吐存储提供支持。&lt;/p&gt;
+&lt;p&gt;铠侠表示，首批量产的1Tb TLC产品将首先应用于高性能企业级SSD，包括CM系列产品。该系列主要面向数据中心市场，具备高吞吐、低延迟特性，可支持KV Cache（键值缓存）架构，在AI内存层级体系中承担高速缓存存储功能。&lt;/p&gt;
+&lt;p&gt;承担量产任务的K2晶圆厂于2025年9月投产，此前主要生产BiCS-8产品。随着BiCS-10导入，铠侠与闪迪计划进一步扩大该工厂产能。&lt;/p&gt;
+短期增长仍靠BiCS-8，BiCS-10决定中长期竞争力
+&lt;p&gt;摩根士丹利认为，市场不应将BiCS-10视为短期业绩驱动力。&lt;/p&gt;
+&lt;p&gt;报告预计，&lt;strong&gt;到2027年3月底，BiCS-8产品将占铠侠整体GB出货量约80%。&lt;/strong&gt;凭借更先进的平面微缩工艺、CMOS Direct Bonded to Array（CBA）技术以及更高堆叠层数，BiCS-8仍将是未来一年多公司收入增长和单位成本下降的主要来源。&lt;/p&gt;
+&lt;p&gt;相比之下，BiCS-10承担的是中长期产品升级任务。&lt;/p&gt;
+&lt;p&gt;目前，数据中心及企业级产品约占铠侠收入的30%至40%。公司目标是将这一比例提升至60%以上，而摩根士丹利认为，&lt;strong&gt;这一战略目标能否实现，很大程度上取决于BiCS-10能否顺利完成客户认证、实现规模出货，并推动高端SSD产品持续放量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
