@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 11:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”</title><link>https://wallstreetcn.com/articles/3776238</link><guid>d030cfbffd7c42bcb952949a5e5f38773b869f4f04deee6a14992ebe7ffa0e0e</guid><pubDate>Mon, 06 Jul 2026 00:13:08 GMT</pubDate><description>&lt;p&gt;7月6日上午，半导体行业研究机构SemiAnalysis在X平台（原推特）发布六条连续推文，披露英伟达Kyber NVL144机架架构遭遇重大延迟及多项取消决定。消息在盘前引发市场关注。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis直言：“重大延迟：就在黄仁勋于GTC&lt;strong&gt;展示Kyber NVL144仅三个月后，该产品遭遇重大挫折，延迟超过12个月，推迟至2028年。&lt;/strong&gt;”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-PCB中板：卡住Kyber的那块板子
-&lt;p&gt;SemiAnalysis分析，Kyber NVL144延迟的直接原因，指向一块关键硬件——PCB中板（Midplane），英伟达官方也称其为&amp;quot;正交背板&amp;quot;（Orthogonal Backplane）。&lt;/p&gt;
-&lt;p&gt;该机构说道：“&lt;strong&gt;Kyber NVL144机架架构已延迟至2028年，因为PCB中板在制造工艺上仍面临重大挑战。&lt;/strong&gt;NVL576 通过 CPO 在 NVSwitches 之间连接 8x Oberon 机架，也很可能因当前 CPO 挑战而推迟或限制在小批量生产。”&lt;/p&gt;
-&lt;p&gt;黄仁勋在今年3月GTC大会上展示的那块灰色板子，正是Rubin Ultra（Kyber架构）机柜的正交背板。它的作用是实现计算托盘与交换托盘之间的90°垂直互联——计算托盘垂直插入，通过这块中板与后部交换托盘实现板对板直连，彻底消除传统线缆丛林。&lt;/p&gt;
-&lt;p&gt;这块板子的制造难度极高。据上述技术分析，该背板采用M9级覆铜板+石英布（Q布）+PTFE混合材料，层数达78层（由3块26层板压合而成），线宽线距≤25μm，以满足448G+ SerDes速率下的超高速信号完整性要求。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;为什么非用这块板不可？据技术分析，Rubin Ultra NVL144机架需在单域内连接144颗GPU，若沿用铜缆方案，需要超过2万根线缆，重量增加30%以上且信号衰减严重。正交背板是在当前技术条件下少有的可行方案。&lt;/p&gt;
-替代方案NVL72x2也已取消
-&lt;p&gt;面对Kyber的制造困境，英伟达曾尝试开发一个过渡方案——NVL72x2背靠背机架架构。&lt;/p&gt;
-&lt;p&gt;据SemiAnalysis，该方案的设计思路是将两个Oberon机架背靠背放置，通过纯铜NVLink扩展规模域，以此绕开Kyber中板的制造难题。&lt;/p&gt;
-&lt;p&gt;然而，这一方案最终也未能落地。SemiAnalysis称，NVL72x2&lt;strong&gt;“因云服务商和超大规模数据中心运营商对其奇特设计和繁重运维负担的强烈反对而被取消”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两条路都走不通，英伟达在Rubin Ultra的规模扩展上陷入阶段性空白。&lt;/p&gt;
-NVL576同样承压，CPO挑战不容忽视
-&lt;p&gt;延迟的不只是Kyber NVL144。SemiAnalysis同时指出，NVL576——通过CPO（共封装光学，Co-Packaged Optics）连接8个Oberon机架的更大规模系统——“鉴于CPO当前面临的挑战，也可能延迟或仅限于小批量出货”。&lt;/p&gt;
-&lt;p&gt;CPO是英伟达在Rubin Ultra阶段首次引入规模扩展网络的光学互联技术。据SemiAnalysis此前于2026年3月发布的研报，NVL576的设计方案是：机架内部保持铜缆扩展，机架之间通过CPO连接NVSwitch，形成两层全互联网络。&lt;/p&gt;
-&lt;p&gt;但CPO本身的量产成熟度仍是变量。SemiAnalysis在研报中明确指出，CPO NVSwitch要到Feynman一代才会正式就绪。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Rubin Ultra本体也缩水：4芯片版被取消
-&lt;p&gt;与上述延迟消息同步披露的，还有一项产品层面的重要变化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SemiAnalysis称，4计算芯片版Rubin Ultra已被取消，“仅保留规模较小的2计算芯片版Rubin Ultra，其实际性能约为4芯片版的一半”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，即便Kyber机架最终如期交付，单机架的算力天花板也已大幅下调。&lt;/p&gt;
-&lt;p&gt;对此，SemiAnalysis表示，&lt;strong&gt;英伟达将通过“大幅增加Oberon Rubin机架和Oberon Rubin Ultra机架的销售”来弥补这一缺口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-竞争窗口：AMD和谷歌或受益
-&lt;p&gt;规模扩展域的空白，直接影响英伟达在大规模训练场景下的竞争地位。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis指出：&amp;quot;英伟达目前没有经过验证的解决方案来扩展Rubin Ultra的规模扩展域，这为AMD MI500X或TPUv8i Broadfly等竞争对手在规模扩展能力上超越Rubin Ultra留下了空间。&amp;quot;&lt;/p&gt;
-&lt;p&gt;按照英伟达现有路线图，CPO NVSwitch要到下一代Feynman平台才会出现。在此之前，Rubin Ultra的规模扩展上限受到约束。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis在推文末尾提示，上述延迟和取消决定对内存、PCB及ODM供应链均有影响。&lt;/p&gt;
-&lt;p&gt;Kyber中板的制造难题，直接指向高端PCB供应商的技术瓶颈。该中板所需的78层超高密度PCB、M9级覆铜板及PTFE混合材料，代表了当前PCB制造工艺的极限水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 12:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
 &lt;p&gt;7月6日，沪指全天探底回升，创业板指走势较弱，早盘一度跌超2%，午盘一度收窄至0.5%，午后进一步扩大跌幅，科创50全日振幅高达5.52%，早盘高开后急挫逾3%，触底后V型反转，最终收涨1.04%。算力硬件、芯片半导体跌幅居前，CPO、电路板、覆铜板等显著下跌，创新药、CRO再度爆发，超硬材料、培育钻石等拉升。“老登”股煤炭、银行等逆势拉升。&lt;/p&gt;
 &lt;p&gt;港股三大指数全线反弹，恒指、恒科指双双上涨，恒科指盘中涨超1%，科网股悉数走高，腾讯控股涨近5%，芯片股、AI大模型股承压，生物医药板块延续强势表现。债市方面，国债期货集体上涨，商品方面，国内商品期货普遍上涨，金属期货涨幅居前。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -433,4 +401,24 @@ AI真正考验的，或许不是效率，而是分配
 &lt;p&gt;美国居民部门本身已经面临劳动收入份额下降、政府转移支付占收入比重提高以及实际收入增长偏弱等多重压力。&lt;strong&gt;如果AI红利进一步向资本和少数顶尖人才集中，就业压力和收入分配压力可能同步加剧。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报告提到，海外关于全民基本收入（UBI）的讨论未来或重新升温，但其前提是政府能够分享AI创造的收益。报告表示，美国目前给出的思路，是政府直接入股科技企业，从而参与AI红利分配，这可能成为缓解社会收入压力的一种方式。&lt;/p&gt;
 &lt;p&gt;对于资本市场而言，&lt;strong&gt;这意味着AI故事已经不仅仅是算力、模型和收入增长，更将逐渐进入就业、分配以及社会治理的新阶段&lt;/strong&gt;。AI能够创造多少利润，最终很可能取决于它能够多大程度替代人类劳动；而AI投资能否持续获得资本市场认可，也将越来越取决于社会是否能够承受这一过程所带来的代价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长安海外销量顶起半边天</title><link>https://wallstreetcn.com/articles/3776294</link><guid>9b5c7a08d4d28c6eb399bf75b7ec06838952a646b45a4bae3373e406a2bc2922</guid><pubDate>Mon, 06 Jul 2026 10:08:27 GMT</pubDate><description>&lt;p&gt;作者 | 周智宇&lt;/p&gt;
+&lt;p&gt;海外市场已然成为车企的兵家必争之地。&lt;/p&gt;
+&lt;p&gt;长安汽车7月6日披露的产销快报显示，其6月销售201976辆，同比下降14.09%；上半年累计销量1118894辆，同比下降17.44%。&lt;/p&gt;
+&lt;p&gt;放在今年的国内车市，这并不算意外。价格战还在继续，燃油车基本盘承压，新能源也不再是只要转型就能自然增长的安全牌。&lt;/p&gt;
+&lt;p&gt;但同一个月，长安海外销量达到91065辆，占总销量约45.1%。&lt;/p&gt;
+&lt;p&gt;这意味着，长安每卖出两辆车，就有接近一辆来自海外市场。这个比例已经不只是出口表现不错，而是海外开始成为长安销量表里最稳的一块。&lt;/p&gt;
+&lt;p&gt;这个变化来得很关键。6月，长安新能源汽车销量92465辆，同比下降8.28%；上半年新能源汽车累计销量414201辆，同比下降8.30%。海外销量几乎追平新能源销量，但一个在快速放大，一个仍在承压。长安这张月报真正留下的，不只是同比下滑，而是集团增长重心正在重新排序。&lt;/p&gt;
+&lt;p&gt;长安内部也在把海外往前推。&lt;/p&gt;
+&lt;p&gt;7月3日，长安汽车召开2026年三季度全球高职级人员暨职工代表大会，会议主题里，“力拓海外”“打造爆款”“提质增效”都被放在了显眼位置。&lt;/p&gt;
+&lt;p&gt;过去，海外更多是自主车企的外延市场。现在不一样了。国内10万—20万元主流价格带挤满了比亚迪、吉利银河、零跑、奇瑞、长安启源、深蓝等品牌，价格、配置、能耗被拉到同一张表里比较。车企在国内多卖一辆车，往往要付出更高的营销费用和更低的利润空间。&lt;/p&gt;
+&lt;p&gt;海外给长安打开了另一条路。它能消化产能，减轻国内价格战对集团销量的冲击，也能让深蓝、启源、阿维塔这些品牌提前进入更大的市场。&lt;/p&gt;
+&lt;p&gt;长安2025年年报提到，全球化“海纳百川”计划全面加速，销售网络已经拓展到一百多个国家和地区；泰国罗勇工厂正式投产，深蓝S05投产首月产量破千，首批500台深蓝S05装船发往英国。到2026年，第四代逸动、长安启源全新Q05、深蓝S09、阿维塔06等车型还将在海外多个区域上市。&lt;/p&gt;
+&lt;p&gt;所以，6月9.1万辆海外销量不是孤立数字。它背后是长安过去几年全球化投入开始进入兑现期。&lt;/p&gt;
+&lt;p&gt;但海外顶上来之后，国内新能源的问题也更清楚了。&lt;/p&gt;
+&lt;p&gt;长安不缺新能源品牌。启源、深蓝、阿维塔，加上主品牌里的新能源车型，已经覆盖了从主流家用到高端智能的多个价格带。启源冲家庭市场，深蓝往家庭SUV、大六座和海外延展，阿维塔负责高端智能化形象。分工都说得通，但销量表最终看的不是分工，而是哪款车能真正打穿市场。&lt;/p&gt;
+&lt;p&gt;这也是朱华荣此前表态的价值所在。4月21日，在中国长安汽车集团全球战略发布会暨伙伴大会上，朱华荣宣布，长安将把现有63款产品谱系精简到36款。&lt;/p&gt;
+&lt;p&gt;过去几年，车企习惯用多品牌、多车型去抢细分市场。但价格战打到今天，车型越多不一定越安全，反而可能摊薄研发、营销和渠道资源。长安现在要做的，不是继续把产品线铺开，而是把资源收回来，压到更少、更能打的车型上。&lt;/p&gt;
+&lt;p&gt;6月月报里的矛盾也在这里。&lt;/p&gt;
+&lt;p&gt;海外销量已经顶起半边天，给长安争取了时间；但国内新能源还没有跑出足够强的主牌。启源需要一个能在主流家庭市场站稳的爆款，深蓝需要证明大车和海外不是短期增量，阿维塔需要把华为、宁德时代这些标签转成稳定订单。&lt;/p&gt;
+&lt;p&gt;长安的计划，是要未来五年，集中资源打造出一款年销50万辆级的大爆款，以及五款车达到年销30万辆。眼下，长安汽车离这个目标，还有一段路要走。&lt;/p&gt;
+&lt;p&gt;长安接下来真正要看的，不是海外还能不能继续增长，而是海外争取来的时间，能不能换来国内新能源产品线的效率提升。长安必须证明，少一些车，反而能卖得更准。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
