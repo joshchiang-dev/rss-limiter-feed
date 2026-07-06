@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 21:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 22:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
 &lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
 &lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
 &lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
@@ -369,54 +369,76 @@ BiCS-10性能全面升级，为AI时代SSD而生
 &lt;p&gt;报告预计，&lt;strong&gt;到2027年3月底，BiCS-8产品将占铠侠整体GB出货量约80%。&lt;/strong&gt;凭借更先进的平面微缩工艺、CMOS Direct Bonded to Array（CBA）技术以及更高堆叠层数，BiCS-8仍将是未来一年多公司收入增长和单位成本下降的主要来源。&lt;/p&gt;
 &lt;p&gt;相比之下，BiCS-10承担的是中长期产品升级任务。&lt;/p&gt;
 &lt;p&gt;目前，数据中心及企业级产品约占铠侠收入的30%至40%。公司目标是将这一比例提升至60%以上，而摩根士丹利认为，&lt;strong&gt;这一战略目标能否实现，很大程度上取决于BiCS-10能否顺利完成客户认证、实现规模出货，并推动高端SSD产品持续放量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI能赚多少，取决于公司裁多少?</title><link>https://wallstreetcn.com/articles/3776289</link><guid>40cf0eeced4c96d2961eb4685a2140defa0ffe61205c2d1503e6460b2a51997d</guid><pubDate>Mon, 06 Jul 2026 10:10:59 GMT</pubDate><description>&lt;p&gt;AI商业化正迈入“收入兑现”期，最直接的信号是：岗位替代正在被量化。&lt;/p&gt;
-&lt;p&gt;据国金证券最新报告援引Anthropic实际观测数据，在美国，AI目前已影响约1.45万亿美元薪资规模及1835万个岗位；若按OpenAI的理论暴露口径，对应数字则高达5.68万亿美元薪资与6828万个岗位。&lt;/p&gt;
-&lt;p&gt;对比来看，美国总薪资盘约为10.83万亿美元，总就业约1.55亿人。换算后，&lt;strong&gt;AI所能替代或重塑的岗位，占比少则一成，多则四成。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着AI Coding、企业级Agent及B端应用的加速落地，AI正在从“提效工具”进化为“成本变量”——节省的开支开始实实在在转化为企业利润，资本回报逻辑日趋坚实。&lt;/p&gt;
-&lt;p&gt;但与此同时，结构性矛盾也愈发突出：&lt;strong&gt;企业端成本下降、利润上升，员工端岗位压缩、职能被替。AI越深入，资本收益越明显，就业挤压也越强烈。&lt;/strong&gt;二者犹如跷跷板，一端上升，另一端必然下沉。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-技术性裁员已从理论走向现实
-&lt;p&gt;数据显示，美国科技行业已重新进入高裁员周期。大型科技公司的单轮裁员比例普遍落在5%至10%之间，部分软件、SaaS及云服务企业甚至逼近20%。&lt;strong&gt;但值得警惕的，不只是裁员规模本身，而是资本市场正在明确“奖励”这一行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在当下的估值逻辑中，“AI降本+裁员”被市场解读为效率提升与利润改善的积极信号。企业通过AI替代人力，不仅压缩了运营成本，更在财报和股价上获得了直接回报。这种正向反馈，正在将AI替代就业从一个技术选择，转变为一种资本驱动的战略惯性。&lt;/p&gt;
-&lt;p&gt;换言之，技术性裁员不再仅仅是效率工具的附带结果，而是被市场机制主动推入正反馈循环——&lt;strong&gt;裁员越多，利润越好看，股价越坚挺，企业越有动力继续裁员。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果这一激励机制不发生变化，AI对就业的替代效应将不是一次性的冲击，而是一个持续扩散、自我强化的长期过程。&lt;/p&gt;
-高技能岗位未必安全，低技能岗位冲击同样巨大
-&lt;p&gt;国金证券基于美国劳工统计局（BLS）755个职业的分析显示，&lt;strong&gt;AI对就业市场的冲击并非简单遵循“低技能优先”的线性逻辑，而是呈现出双重分化态势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从实际暴露的绝对人数来看，低技能职业约883万人，高技能职业约709万人，中技能职业约244万人。但若按就业占比计算，高技能岗位受影响比例高达19.5%，显著高于低技能岗位的10.8%和中技能岗位的8.3%。&lt;/p&gt;
-&lt;p&gt;这表明，&lt;strong&gt;高技能职业同样承受着不容忽视的巨大压力，并非市场原先预期的“安全区”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，在“实际暴露/理论暴露”这一反映现实推进速度的维度上，低技能岗位反而走在前列。低技能职业的暴露进度达31.2%，高于高技能职业的27.9%和中技能职业的20.4%。&lt;/p&gt;
-&lt;p&gt;这意味着，&lt;strong&gt;低技能岗位正在率先遭受AI落地的现实冲击，而高技能岗位则更多面临长期预期层面的重构压力&lt;/strong&gt;，二者所处的风险阶段存在明显错位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-是否面对客户，并不能决定岗位是否安全
-&lt;p&gt;面对客户，并不构成岗位安全的天然屏障。报告进一步指出，&lt;strong&gt;真正决定AI冲击强度的，并非“是否前台”，而是任务是否可被标准化与数字化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从工作对象划分，岗位可被粗略分为三类：前台岗位直接面向客户，如零售销售、客服、收银；后台岗位以研发、数据处理与行政运维为主，如软件工程师；中台岗位则承担协调与管理职能，如人力资源与供应链管理。&lt;/p&gt;
-&lt;p&gt;但这一传统分类正在失效。分析显示&lt;strong&gt;，前台属性并不等同于“就业保护”。在低技能岗位中，前台反而意味着更高的AI暴露度&lt;/strong&gt;，销售岗位尤为典型，标准话术、流程化沟通与决策路径，正快速被模型能力覆盖。&lt;/p&gt;
-&lt;p&gt;与直觉相反的是，&lt;strong&gt;高技能岗位中的“前台属性”反而在形成某种缓冲&lt;/strong&gt;。例如教师、医生、律师等依赖高频人际互动与复杂情境判断的职业，在短期内更难被完全替代，从而在一定程度上延缓了AI冲击的直接传导。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI真正考验的，或许不是效率，而是分配
-&lt;p&gt;国金证券认为，目前AI带来的生产率提升，更多来自资本深化，也就是劳动工具改善，而并非真正意义上的全要素生产率提升。数据显示，自2024年以来，美国劳动生产率与全要素生产率已经出现背离。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;比效率更值得关注的问题，是技术红利如何分配。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国居民部门本身已经面临劳动收入份额下降、政府转移支付占收入比重提高以及实际收入增长偏弱等多重压力。&lt;strong&gt;如果AI红利进一步向资本和少数顶尖人才集中，就业压力和收入分配压力可能同步加剧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告提到，海外关于全民基本收入（UBI）的讨论未来或重新升温，但其前提是政府能够分享AI创造的收益。报告表示，美国目前给出的思路，是政府直接入股科技企业，从而参与AI红利分配，这可能成为缓解社会收入压力的一种方式。&lt;/p&gt;
-&lt;p&gt;对于资本市场而言，&lt;strong&gt;这意味着AI故事已经不仅仅是算力、模型和收入增长，更将逐渐进入就业、分配以及社会治理的新阶段&lt;/strong&gt;。AI能够创造多少利润，最终很可能取决于它能够多大程度替代人类劳动；而AI投资能否持续获得资本市场认可，也将越来越取决于社会是否能够承受这一过程所带来的代价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长安海外销量顶起半边天</title><link>https://wallstreetcn.com/articles/3776294</link><guid>9b5c7a08d4d28c6eb399bf75b7ec06838952a646b45a4bae3373e406a2bc2922</guid><pubDate>Mon, 06 Jul 2026 10:08:27 GMT</pubDate><description>&lt;p&gt;作者 | 周智宇&lt;/p&gt;
-&lt;p&gt;海外市场已然成为车企的兵家必争之地。&lt;/p&gt;
-&lt;p&gt;长安汽车7月6日披露的产销快报显示，其6月销售201976辆，同比下降14.09%；上半年累计销量1118894辆，同比下降17.44%。&lt;/p&gt;
-&lt;p&gt;放在今年的国内车市，这并不算意外。价格战还在继续，燃油车基本盘承压，新能源也不再是只要转型就能自然增长的安全牌。&lt;/p&gt;
-&lt;p&gt;但同一个月，长安海外销量达到91065辆，占总销量约45.1%。&lt;/p&gt;
-&lt;p&gt;这意味着，长安每卖出两辆车，就有接近一辆来自海外市场。这个比例已经不只是出口表现不错，而是海外开始成为长安销量表里最稳的一块。&lt;/p&gt;
-&lt;p&gt;这个变化来得很关键。6月，长安新能源汽车销量92465辆，同比下降8.28%；上半年新能源汽车累计销量414201辆，同比下降8.30%。海外销量几乎追平新能源销量，但一个在快速放大，一个仍在承压。长安这张月报真正留下的，不只是同比下滑，而是集团增长重心正在重新排序。&lt;/p&gt;
-&lt;p&gt;长安内部也在把海外往前推。&lt;/p&gt;
-&lt;p&gt;7月3日，长安汽车召开2026年三季度全球高职级人员暨职工代表大会，会议主题里，“力拓海外”“打造爆款”“提质增效”都被放在了显眼位置。&lt;/p&gt;
-&lt;p&gt;过去，海外更多是自主车企的外延市场。现在不一样了。国内10万—20万元主流价格带挤满了比亚迪、吉利银河、零跑、奇瑞、长安启源、深蓝等品牌，价格、配置、能耗被拉到同一张表里比较。车企在国内多卖一辆车，往往要付出更高的营销费用和更低的利润空间。&lt;/p&gt;
-&lt;p&gt;海外给长安打开了另一条路。它能消化产能，减轻国内价格战对集团销量的冲击，也能让深蓝、启源、阿维塔这些品牌提前进入更大的市场。&lt;/p&gt;
-&lt;p&gt;长安2025年年报提到，全球化“海纳百川”计划全面加速，销售网络已经拓展到一百多个国家和地区；泰国罗勇工厂正式投产，深蓝S05投产首月产量破千，首批500台深蓝S05装船发往英国。到2026年，第四代逸动、长安启源全新Q05、深蓝S09、阿维塔06等车型还将在海外多个区域上市。&lt;/p&gt;
-&lt;p&gt;所以，6月9.1万辆海外销量不是孤立数字。它背后是长安过去几年全球化投入开始进入兑现期。&lt;/p&gt;
-&lt;p&gt;但海外顶上来之后，国内新能源的问题也更清楚了。&lt;/p&gt;
-&lt;p&gt;长安不缺新能源品牌。启源、深蓝、阿维塔，加上主品牌里的新能源车型，已经覆盖了从主流家用到高端智能的多个价格带。启源冲家庭市场，深蓝往家庭SUV、大六座和海外延展，阿维塔负责高端智能化形象。分工都说得通，但销量表最终看的不是分工，而是哪款车能真正打穿市场。&lt;/p&gt;
-&lt;p&gt;这也是朱华荣此前表态的价值所在。4月21日，在中国长安汽车集团全球战略发布会暨伙伴大会上，朱华荣宣布，长安将把现有63款产品谱系精简到36款。&lt;/p&gt;
-&lt;p&gt;过去几年，车企习惯用多品牌、多车型去抢细分市场。但价格战打到今天，车型越多不一定越安全，反而可能摊薄研发、营销和渠道资源。长安现在要做的，不是继续把产品线铺开，而是把资源收回来，压到更少、更能打的车型上。&lt;/p&gt;
-&lt;p&gt;6月月报里的矛盾也在这里。&lt;/p&gt;
-&lt;p&gt;海外销量已经顶起半边天，给长安争取了时间；但国内新能源还没有跑出足够强的主牌。启源需要一个能在主流家庭市场站稳的爆款，深蓝需要证明大车和海外不是短期增量，阿维塔需要把华为、宁德时代这些标签转成稳定订单。&lt;/p&gt;
-&lt;p&gt;长安的计划，是要未来五年，集中资源打造出一款年销50万辆级的大爆款，以及五款车达到年销30万辆。眼下，长安汽车离这个目标，还有一段路要走。&lt;/p&gt;
-&lt;p&gt;长安接下来真正要看的，不是海外还能不能继续增长，而是海外争取来的时间，能不能换来国内新能源产品线的效率提升。长安必须证明，少一些车，反而能卖得更准。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta算力租赁首落印度：168兆瓦数据中心破局数据主权，加剧富豪基建暗战</title><link>https://wallstreetcn.com/articles/3776325</link><guid>9cbf819f0af7a5522089cfc0c3d240c417f44963c483b6d8f3241dddc9dd396a</guid><pubDate>Mon, 06 Jul 2026 21:57:00 GMT</pubDate><description>&lt;p&gt;Meta正将旗下闲置算力转化为新收入来源，一场围绕印度AI基础设施的商业格局重组正在悄然展开。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775980"&gt;华尔街见闻提及&lt;/a&gt;，Meta正筹备一项名为&amp;quot;Meta Compute&amp;quot;的内部计划，拟向企业客户出租其过剩算力，将原本拖累资本支出的基础设施转型为收入引擎。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马克扎克伯格的这一布局，正在深刻改变印度两大富豪，穆克什·安巴尼（Mukesh Ambani）与高塔姆·阿达尼（Gautam Adani）之间的竞争态势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上月，安巴尼家族的信实工业宣布与Meta达成合作协议，在古吉拉特邦贾姆讷格尔联合建设一座168兆瓦数据中心，此举为企业客户提供了将敏感数据留存于印度境内的可能，直接冲击现有云计算格局。&lt;/p&gt;
+&lt;p&gt;对于印度银行、保险、医疗等高度监管行业而言，数据主权历来是采用公有云的核心障碍。&lt;/p&gt;
+&lt;p&gt;Meta与信实工业的合作有望让本土企业在不将数据跨境传输的前提下，完成AI模型的本地化部署与精调，为市场提供此前亚马逊AWS、微软Azure及谷歌云均无法充分满足的合规解决方案。&lt;/p&gt;
+
+阿达尼抢先布局，AI基础设施竞赛升温
+
+&lt;p&gt;在此次安巴尼联手Meta之前，&lt;strong&gt;阿达尼一度在印度AI基础设施赛道上占据明显优势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;凭借在港口、机场和电网领域的深厚积累，阿达尼集团大举扩张超大规模数据中心，并与谷歌达成战略合作，负责为其提供基础设施支持。&lt;/p&gt;
+&lt;p&gt;能源成本是这场竞争的核心变量。&lt;strong&gt;阿达尼在古吉拉特邦建设了全球单一地点规模最大的清洁能源项目，作为其1000亿美元AI算力布局的重要组成部分。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安巴尼则以更大手笔回应，一座占地55万英亩、面积约为新加坡三倍的能源设施正在推进，信实集团称其建成后将成为全球成本最低的全天候绿色电力来源之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得关注的背景是，生成式AI的崛起已从根本上重塑了印度经济的比较优势逻辑。&lt;/p&gt;
+&lt;p&gt;廉价的英语技术劳动力曾是印度软件外包产业的核心竞争力，而当下，利用太阳能和风能低成本生产AI算力，正成为新的制高点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正因如此，安巴尼与阿达尼，两人均无软件外包业务根基反而可以轻装上阵，直接角逐这一新兴赛道。&lt;/strong&gt;&lt;/p&gt;
+
+Meta-信实联盟的数据主权价值
+
+&lt;p&gt;此次Meta与信实的合作，表面上是一笔标准的基础设施租赁交易，但其深层价值在于为印度企业构建了一条合规的AI应用路径。&lt;/p&gt;
+&lt;p&gt;以银行业为例，一家孟买的银行理论上可以在贾姆讷格尔的服务器上精调开源模型，实现信贷核保自动化，而无需将任何个人金融数据传输出境。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一方案在AWS、Azure或谷歌云主导的现有格局下难以实现，因为将敏感客户信息存储于以美国为中心的公有云基础设施，往往面临严格的监管审查。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta在印度的商业野心不止于此。&lt;/p&gt;
+&lt;p&gt;扎克伯格近期聘用了一位印度金融科技领域高管执掌WhatsApp全球业务，意在将其在印度社交媒体的优势延伸至电商和支付领域。&lt;/p&gt;
+&lt;p&gt;Meta专为会话式商务打造的AI引擎Muse Spark，也被视为本土企业运营数字店面的潜在工具。&lt;/p&gt;
+&lt;p&gt;此外，Meta早在2020年便以9.99%的持股比例入股Jio Platforms，安巴尼旗下这一成立10年的电信和媒体平台，正谋求以科技公司定位推进上市。&lt;/p&gt;
+
+双雄格局：各守优势，各有隐忧
+
+&lt;p&gt;两位富豪的共同选择，清晰揭示了印度资本在全球AI分工中的战略定位：他们更愿意建造&amp;quot;发射台&amp;quot;，而非自研&amp;quot;火箭&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安巴尼（69岁）和小他五岁的阿达尼，均无意在从零构建基础AI大模型这类高风险、高资本消耗的赛道上押注。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于扎克伯格而言，印度是验证Meta能否在企业云市场立足的理想试验场。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于安巴尼而言&lt;/strong&gt;，与Meta的联手则再度印证了他在印度商业版图中独特的价值：将联盟经营的艺术，转化为持久的竞争壁垒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;阿达尼的竞争实力依然不容小觑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谷歌的战略支持，加之其在核电领域的布局，印度国家核电垄断近期向私营资本开放，或将为其提供另一条降低算力成本的路径，以支撑AI查询所需的持续基础负载电力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK海力士美股定价在即，顶级AI基金抢筹，瑞银料长期“吸金”150亿</title><link>https://wallstreetcn.com/articles/3776321</link><guid>e537a9aa4bb8ec78b3fe11e4707e55bdd280b053d13bc0edac4ef13bf19b5949</guid><pubDate>Mon, 06 Jul 2026 19:11:39 GMT</pubDate><description>&lt;p&gt;SK海力士赴美发行存托凭证（ADR）进入关键定价期，顶级AI基金的集中抢筹与巨量被动资金流入预期，正重塑这家存储芯片巨头的估值逻辑，并催生出复杂的跨市场套利交易。&lt;/p&gt;
+&lt;p&gt;最新披露的Base offering认购名单显示，BG、Coatue及Situational Awareness等知名AI基金悉数入局。资金面的增量预期更为庞大。据瑞银测算，长期来看，SK海力士ADR纳入核心半导体指数将引流高达150亿美元被动资金。在资金涌入预期下，做多ADR、做空韩国正股的跨市场套利策略开始涌现。&lt;/p&gt;
+&lt;p&gt;这一系列资本运作不仅印证了机构对AI半导体赛道高景气度的共识，也意味着随着跨市场转换额度的逐步消耗，SK海力士在美股市场的定价权与溢价空间将迎来实质性重估。&lt;/p&gt;
+顶级AI基金集结，定价时间表明确
+&lt;p&gt;SK海力士ADR发行的机构认购细节揭示了华尔街对AI算力底座的配置热情。Base offering认购机构名单中，汇集了BG、Coatue以及由OpenAI前员工创立的Situational Awareness等知名AI基金，显示出头部科技投资机构对AI半导体赛道的高度一致性看好。&lt;/p&gt;
+&lt;p&gt;在定价节奏方面，时间表已完全明确。最终发行价将于7月9日确定，7月10日在韩交所发行新股，T+1日资金到账。&lt;/p&gt;
+&lt;p&gt;受近期股价波动及机构博弈影响，当前的发行建议价格较前期有所下修。这一调整既是对近期二级市场股价回调的客观反映，也在客观上为参与此次offering的机构提供了更优的安全边际与定价福利。&lt;/p&gt;
+指数纳入预期：短期35亿与长期150亿美元的资金盛宴
+&lt;p&gt;ADR发行对SK海力士最直接的流动性提振，来自于被动资金的强制配置。瑞银在最新研报中详细测算了ADR纳入各类指数后的资金流入规模。&lt;/p&gt;
+&lt;p&gt;从指数资金视角来看，SK海力士上市后约9600亿美元的流通市值有望纳入MVIS美国半导体25指数。受指数个股权重上限规则限制，SK海力士在该指数的最高权重可达5%。仅追踪这一指数的SMH半导体ETF，就将迎来约35亿美元的被动资金流入。相比之下，若纳入SOXX指数，其权重仅为0.5%，对应资金流入约2亿美元。&lt;/p&gt;
+&lt;p&gt;长期来看，随着ADR流通盘的逐步扩大，SK海力士有机会被纳入纳斯达克100指数。UBS预计，长期合计将带来约150亿美元的被动资金流入。不过，短期内公司较难立刻纳入标普科技精选指数。&lt;/p&gt;
+跨市场套利涌现：押注转换额度耗尽与ADR溢价
+&lt;p&gt;随着ADR发行的推进，韩股与美股之间的跨市场转换额度成为套利资金博弈的核心变量。市场预估，韩股转美股ADR的可转换额度上限为15%或20%，对应可转换股票总市值接近2000亿美元。&lt;/p&gt;
+&lt;p&gt;当前，市场已开始构建做多美股ADR、做空韩国正股的跨市场套利交易。该策略的核心逻辑在于押注转换额度耗尽后，海外资金只能直接在美股抢购ADR，从而长期形成美股存托凭证相对韩股的溢价。作为参考，台积电ADR相对台股在2026年6月的平均溢价高达16%。&lt;/p&gt;
+&lt;p&gt;虽然多数观点认为额度消耗将是一个漫长的过程，但市场预期的预期差正在形成。&lt;/p&gt;
+&lt;p&gt;在存储芯片行业高度景气的背景下，海外资金入场速度可能远超预期。未来存量股票的跨市场转换规模将直接改变SK海力士在美股ETF中的权重，额度用尽的节奏及溢价显现的时间点，或将比市场预想来得更快。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Xbox宣布裁员20%涉及3200人，微软高管预警：更多业务部门的变革已在路上</title><link>https://wallstreetcn.com/articles/3776313</link><guid>b1f9b8ad1e89ff62ba723d052aa4b6f9d350c900ee9e73f4277b0a9def0f2f65</guid><pubDate>Mon, 06 Jul 2026 14:49:22 GMT</pubDate><description>&lt;p&gt;微软游戏业务正经历近年来最大规模的一次战略调整。&lt;/p&gt;
+&lt;p&gt;据彭博7月6日报道，&lt;strong&gt;微软旗下Xbox宣布启动战略重组，拟裁员约3200人，占其员工总数的20%&lt;/strong&gt;，并同步剥离五家游戏开发工作室。此次调整旨在压缩成本，将资源集中至核心业务。Xbox首席执行官Asha Sharma坦言：“我们的业务目前并不健康。”&lt;/p&gt;
+&lt;p&gt;这一调整也是微软整体降本增效行动的重要一环。除Xbox外，销售等部门也将裁撤约3200个岗位，两部门合计裁员约6400人，占微软全球22.8万名员工总数的不到3%。与此同时，微软高层释放出更明确的信号：&lt;strong&gt;随着AI领域投资持续扩大，未来将有更多业务部门面临类似重组。&lt;/strong&gt;&lt;/p&gt;
+Xbox盈利能力远逊同行，裁员重组启动
+&lt;p&gt;今年2月履新Xbox CEO的Asha Sharma，接手的是一个增长放缓、盈利承压的业务。&lt;/p&gt;
+&lt;p&gt;她周一致员工信中表示，&lt;strong&gt;Xbox目前的利润率较同行低3至10倍，公司必须重新调整资源配置，将资金集中投入更具规模效应的产品&lt;/strong&gt;，最终目标是推动Xbox日活跃玩家规模达到10亿。&lt;/p&gt;
+&lt;p&gt;Sharma此前曾在内部备忘录中透露，Xbox内部用于衡量盈利能力的&amp;quot;问责利润率&amp;quot;已降至仅3%，收入也出现明显下滑。&amp;quot;这种状况不能再持续下去。&amp;quot;&lt;/p&gt;
+&lt;p&gt;尽管微软近年来持续加码游戏业务，包括2023年斥资690亿美元收购动视暴雪，但Xbox始终未能建立稳定的爆款游戏产出能力，主机硬件销量持续疲软，Game Pass订阅增长也逐渐放缓。按照Sharma披露的数据，Xbox在典型年份每投入1美元，就会亏损64美分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次裁员将分阶段推进，其中约1600人于本周立即离职，其余岗位将在未来12个月内陆续裁撤，涉及Xbox几乎所有业务部门。&lt;/strong&gt;&lt;/p&gt;
+五家工作室被剥离，Xbox回归核心IP战略
+&lt;p&gt;&lt;strong&gt;除了裁员，微软还将对游戏工作室体系进行大幅调整。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中，Ninja Theory（《Hellblade》）和Undead Labs（《State of Decay》）将被出售，具体买家尚未公布，但双方仍将继续合作完成《Senua》和《State of Decay 3》等已启动项目。&lt;/p&gt;
+&lt;p&gt;Double Fine（《Psychonauts》）和Compulsion Games（《South of Midnight》）则将回归创始团队控制。微软将提供过渡期资金支持，并保留两家公司现有知识产权及游戏版权资产。&lt;/p&gt;
+&lt;p&gt;位于法国里昂的Arkane Studios（《Blade》）则将启动战略评估，研究出售或其他剥离方案。由于法国劳动法规要求，相关程序预计耗时将明显长于其他工作室。&lt;/p&gt;
+&lt;p&gt;上述五家工作室均是在前Xbox负责人Phil Spencer任内完成收购。当时微软希望借助持续扩充第一方内容阵容，推动Game Pass订阅增长，但这一战略最终未能达到预期。&lt;/p&gt;
+&lt;p&gt;与此同时，ZeniMax也将进行内部重组，未来资源将集中投入《辐射》《上古卷轴》《毁灭战士》《雷神之锤》和《德军总部》等核心IP。&lt;/p&gt;
+AI资本开支持续扩张，微软预告更多部门将调整
+&lt;p&gt;&lt;strong&gt;Xbox重组背后，更大的背景是微软持续向AI投入资源。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为全球最大的软件公司之一，微软近年来持续扩大AI基础设施投资，大规模建设数据中心，资本支出不断攀升，也促使公司持续压缩非核心业务成本。&lt;strong&gt;去年，微软已连续两轮裁员，累计影响约1.5万个岗位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微软首席人力官Amy Coleman在内部备忘录中表示，本轮调整源于产品开发方式和客户需求正在发生根本变化，而当前的组织调整仍只是开始。她称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;我们仍处于这场变革的早期阶段，未来还会有更多变化，公司其他业务部门也需要进行类似调整。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sharma则强调，本轮重组不会取消任何已经公开宣布的游戏项目，微软仍将继续加码《我的世界》等旗舰产品，同时进一步压缩管理层级，提升工作室管理效率。她表示，此次调整并非意味着Xbox收缩，而是为了让业务重新回到可持续增长轨道，&amp;quot;这些变化是为了Xbox更大的未来，而不是更小的未来。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
