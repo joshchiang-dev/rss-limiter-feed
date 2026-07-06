@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 23:29:31 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 23:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
 &lt;p&gt;黄金因ETF持续流出而小幅走低；比特币则在特朗普公开表态力挺加密货币后强势反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数周一上涨1.3%，标普500指数涨0.7%，道琼斯工业平均指数上涨0.3%，盘中突破53000点整数关口。英伟达确认服务器路线图未受影响，博通宣布与苹果芯片合作延伸至2031年，提振市场对AI基础设施投资持续性的信心。&lt;/p&gt;
@@ -306,39 +306,7 @@ AI交易进入“验证期”：从预期驱动到现实约束
 &lt;p&gt;&amp;quot;风险已经完全翻转，&amp;quot;沃勒说，&amp;quot;这会改变你思考政策方向的方式。&amp;quot;&lt;/p&gt;
 &lt;p&gt;值得注意的是，美联储官员上月维持利率不变，但在通胀升至2023年以来最高水平后，加息预期有所升温。&lt;/p&gt;
 &lt;p&gt;上月FOMC会后公布的点阵图显示，18位提供利率预期的美联储官员中，有九人、占半数预计今年联储将至少加息一次。在这一背景下，沃勒与沃什在政策沟通上的微妙分歧，或将对市场解读美联储下一步行动产生实质影响。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌要放大招? Gemini 3.5 Pro传7月17日发布，前端碾压Fable 5</title><link>https://wallstreetcn.com/articles/3776301</link><guid>4b6492ed9f49691b38e8d58a70d615934677243a13847261e505d2dba0a96058</guid><pubDate>Mon, 06 Jul 2026 11:46:38 GMT</pubDate><description>&lt;p&gt;谷歌在大模型竞赛中憋出一张重磅底牌。&lt;/p&gt;
-&lt;p&gt;据泄露信息，Gemini 3.5 Pro将于7月17日正式发布，其前端与视觉代码生成能力据称出现跨越式跃升，在多项测试中压制Anthropic的Fable 5，但在硬核推理与复杂工程任务上仍落后于对手。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这款姗姗来迟的旗舰模型背后，是一次更为彻底的技术重构。&lt;/p&gt;
-&lt;p&gt;据科技媒体Geeky Gadgets报道，&lt;strong&gt;谷歌DeepMind放弃了原有的2.5 Pro基座，转而对Gemini 3.5 Pro进行全新预训练，发布时间也因此从原定的2026年6月推迟至7月17日。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一决策被外界解读为谷歌在质量与速度之间主动选择前者，以应对OpenAI GPT-5.6和Anthropic Fable 5的双重压力。&lt;/p&gt;
-&lt;p&gt;对市场而言，这场发布的意义不止于一款新模型的上线。谷歌同时被曝正基于这套新底座开发图像模型Nano Banana Pro，剑指OpenAI的GPT-Image 2，意味着谷歌试图在文本代码与图像生成两条战线同步发力，进一步加剧AI行业的竞争烈度。&lt;/p&gt;
-为何推迟两个月？换底重建
-&lt;p&gt;Gemini 3.5 Pro的延迟，并非常规的调参优化，而是一次更底层的重构。&lt;/p&gt;
-&lt;p&gt;据泄露信息，谷歌额外消耗的时间用于重新执行预训练流程，彻底放弃了沿用旧基座的方案。这意味着Gemini 3.5 Pro并非Gemini 3.5 Flash的简单放大版，而是在全新地基上重新搭建。&lt;/p&gt;
-&lt;p&gt;谷歌DeepMind此前在I/O大会上一口气发布了Gemini 3.5系列，但当天实际上线的仅有轻量版Gemini 3.5 Flash，旗舰版Pro被留在后台。谷歌CEO Sundar Pichai当时承诺&amp;quot;再给一个月&amp;quot;，但六月过去，Pro未至，官方口径随后改为&amp;quot;七月&amp;quot;，却始终未给出具体日期。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Geeky Gadgets援引Universe of AI的信息指出，此次重训旨在弥补关键性能短板，重点提升数学推理能力、SVG场景生成精度以及图像生成质量，以增强对GPT-5.6和Fable 5的竞争力。&lt;/p&gt;
-前端称霸：SVG生成成最大亮点
-&lt;p&gt;从泄露信息拼出的Gemini 3.5 Pro画像，呈现出鲜明的&amp;quot;偏科&amp;quot;特征——前端与视觉代码生成是其最突出的能力跃升点。&lt;/p&gt;
-&lt;p&gt;综合多位开发者在X平台上的测试反馈，泄露版本在以下维度表现显著：界面生成的设计品味更接近专业设计师水准，配色与层次感明显提升；SVG生成能力大幅增强，复杂矢量图形可一次生成且精度更高；前端页面完成度高，一句提示词即可生成结构清晰的完整页面。&lt;/p&gt;
-&lt;p&gt;开发者QASIM-livelifewithai在测试中发现，Gemini 3.5 Pro竟能生成一幅与Gemini负责人Logan Kilpatrick高度相似的SVG图像，引发广泛关注。在开发者圈子里，&amp;quot;mogging&amp;quot;（彻底压制）一词开始流行，专门用来形容Gemini 3.5 Pro在前端任务上对竞品的碾压表现。&lt;/p&gt;
-&lt;p&gt;在LM Arena的匿名测试中，Gemini 3.5 Pro在前端与视觉类任务上确实压制了多款竞品，与Fable 5的对比测试中，在意境与氛围感方面略胜一筹。&lt;/p&gt;
-硬核短板：推理与工程任务仍落后
-&lt;p&gt;前端领域的优势，并不意味着全面超越。&lt;/p&gt;
-&lt;p&gt;在最硬核的Agent任务、仓库级软件工程以及长链路任务上，Gemini 3.5 Pro依然无法撼动Fable 5和GPT-5.6的地位。据泄露者直言，即便换用了新底座，Gemini 3.5 Pro&amp;quot;在最难的智能体和长链路任务上，依然打不过Fable 5或GPT-5.6&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Fable 5在仓库级代码调试、深度架构改造等重工程任务上表现强劲，在SWE-Bench Pro等基准测试中得分突出；GPT-5.6则在多步推理任务上稳居前列。更早流出的一份基准测试泄露数据显示，Gemini 3.5 Pro在推理、编码和长期任务执行上的短板明显，综合排名落后于上述两款竞品。&lt;/p&gt;
-&lt;p&gt;这一&amp;quot;偏科&amp;quot;格局，也在一定程度上解释了谷歌的市场定位逻辑——以前端与视觉代码生成的差异化优势，在竞争激烈的市场中切割特定用户群体。&lt;/p&gt;
-双线布局：一套底座，两个战场
-&lt;p&gt;Gemini 3.5 Pro的战略意义，不止于模型本身。&lt;/p&gt;
-&lt;p&gt;泄露信息显示，谷歌正基于Gemini 3.5 Pro这套新底座，同步开发一款名为Nano Banana Pro的图像生成模型，目标直接对标OpenAI的GPT-Image 2。这意味着谷歌试图以一次预训练投入，同时撬动文本代码生成与图像生成两条产品线。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;谷歌还在推进Gemini 4 Flash的开发，定位于速度优先的轻量化任务场景&lt;/strong&gt;。多条产品线并行推进，折射出DeepMind在差异化布局上的整体思路——以不同模型覆盖不同市场需求，而非押注单一旗舰。&lt;/p&gt;
-&lt;p&gt;在定价策略上，Geeky Gadgets指出，&lt;strong&gt;谷歌倾向于将Gemini 3.5 Pro定位为更具性价比的选择，以吸引对成本敏感的企业用户，在OpenAI和Anthropic主导的高端市场之外寻求差异化立足点。&lt;/strong&gt;&lt;/p&gt;
-竞争格局：诸神之战没有终点
-&lt;p&gt;Gemini 3.5 Pro的延迟发布，是当前AI军备竞赛烈度的一个缩影。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI的GPT-5.6预计于7月7日至9日发布，在速度、可靠性与输出精度上均有显著提升，并与美国政府合作强化了合规与伦理框架，进一步巩固其行业标杆地位。&lt;/strong&gt;Anthropic的Fable 5则在重工程任务上持续保持领先。&lt;/p&gt;
-&lt;p&gt;过去半年，AI圈的风头几乎被OpenAI和Anthropic轮流占据，谷歌相对沉寂。但此次Gemini 3.5 Pro若能如期于7月17日亮相，且前端能力表现与泄露信息相符，将是谷歌在这场竞赛中重新争夺话语权的关键一步。&lt;/p&gt;
-&lt;p&gt;Gemini 3.5 Pro能否如期到来，以及能否在大模型的大乱斗中胜出，市场正在等待谷歌给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点</title><link>https://wallstreetcn.com/articles/3776312</link><guid>b969d7263ce930b704555d20838eb3d7e54b40b0b98c764ce00ba7485b807b56</guid><pubDate>Mon, 06 Jul 2026 14:44:08 GMT</pubDate><description>&lt;p&gt;美国服务业扩张步伐在6月略有放缓，但企业招聘活动明显回暖，显示在成本压力缓解和需求保持韧性的背景下，美国服务业整体仍具备较强韧性。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点</title><link>https://wallstreetcn.com/articles/3776312</link><guid>b969d7263ce930b704555d20838eb3d7e54b40b0b98c764ce00ba7485b807b56</guid><pubDate>Mon, 06 Jul 2026 14:44:08 GMT</pubDate><description>&lt;p&gt;美国服务业扩张步伐在6月略有放缓，但企业招聘活动明显回暖，显示在成本压力缓解和需求保持韧性的背景下，美国服务业整体仍具备较强韧性。&lt;/p&gt;
 &lt;p&gt;周一，美国供应管理协会（ISM）公布数据显示，&lt;strong&gt;6月ISM服务业PMI从5月的54.5降至54.0，略低于市场预期54.2&lt;/strong&gt;，连续保持在50荣枯线以上，意味着服务业仍处于扩张区间，但扩张速度有所放缓。&lt;/p&gt;
 &lt;p&gt;尽管商业活动和新订单增长有所降温，但就业指标大幅改善，而&lt;strong&gt;支付价格指数则回落至四个月低点，反映企业面临的成本压力正在缓解。&lt;/strong&gt;不过，企业对未来一年的经营前景仍较为谨慎，不少受访企业表示，经济和地缘政治前景仍存在较大不确定性。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -408,7 +376,40 @@ BiCS-10性能全面升级，为AI时代SSD而生
 &lt;p&gt;报告预计，&lt;strong&gt;到2027年3月底，BiCS-8产品将占铠侠整体GB出货量约80%。&lt;/strong&gt;凭借更先进的平面微缩工艺、CMOS Direct Bonded to Array（CBA）技术以及更高堆叠层数，BiCS-8仍将是未来一年多公司收入增长和单位成本下降的主要来源。&lt;/p&gt;
 &lt;p&gt;相比之下，BiCS-10承担的是中长期产品升级任务。&lt;/p&gt;
 &lt;p&gt;目前，数据中心及企业级产品约占铠侠收入的30%至40%。公司目标是将这一比例提升至60%以上，而摩根士丹利认为，&lt;strong&gt;这一战略目标能否实现，很大程度上取决于BiCS-10能否顺利完成客户认证、实现规模出货，并推动高端SSD产品持续放量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta算力租赁首落印度：168兆瓦数据中心破局数据主权，加剧富豪基建暗战</title><link>https://wallstreetcn.com/articles/3776325</link><guid>9cbf819f0af7a5522089cfc0c3d240c417f44963c483b6d8f3241dddc9dd396a</guid><pubDate>Mon, 06 Jul 2026 21:57:00 GMT</pubDate><description>&lt;p&gt;Meta正将旗下闲置算力转化为新收入来源，一场围绕印度AI基础设施的商业格局重组正在悄然展开。&lt;/p&gt;
+&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”</title><link>https://wallstreetcn.com/articles/3776327</link><guid>4b0204f90d96354cff92fe2284d89267ba894e20f8bc63693fe8174df7de2ff0</guid><pubDate>Mon, 06 Jul 2026 23:45:32 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三星电子二季度营业利润较一年前飙升约19倍&lt;/strong&gt;，大幅超越市场预期，预计其季度营业利润将位居全球最高。&lt;/p&gt;
+&lt;p&gt;北京时间周二，三星在初步业绩报告中披露，&lt;strong&gt;今年4至6月营业利润预计达89.4万亿韩元（约合584亿美元），刷新季度历史记录，较上季度环比增长56%，分析师此前的平均预测为84.2万亿韩元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同期营收预计达171万亿韩元，超出市场预估的169.2万亿韩元，并较上年同期增长约129%。&lt;/strong&gt;公司计划于&lt;strong&gt;7月30日公布完整财报&lt;/strong&gt;，届时将披露净利润及各业务部门分类数据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三星电子的季度营业利润，已超过英伟达上季度535.36亿美元（约合82万亿韩元）的营业利润，使其成为全球季度营业利润最高的公司。继第一季度位列全球前三之后，三星如今已跃居榜首。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一业绩有望在一定程度上缓解市场对AI算力投资可持续性的疑虑。全球半导体板块今年早些时候曾涨至历史高位，但近期因担忧竞争加剧、潜在产能过剩及巨额投资回报前景不明而承压震荡。&lt;/p&gt;
+
+代工与逻辑芯片业务构成拖累
+
+&lt;p&gt;&lt;strong&gt;尽管存储业务表现亮眼，三星整体业绩仍面临内部结构性压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师预计，公司代工及逻辑芯片（LSI）业务的亏损在本季度可能有所扩大，部分原因在于奖金费用按比例计入半导体部门整体成本。&lt;/p&gt;
+&lt;p&gt;今年5月，三星与芯片部门员工达成薪酬协议，将绩效奖金与营业利润挂钩，并规定在满足特定盈利指标的前提下，拨出半导体部门全年营业利润的10.5%用于特别奖金。&lt;/p&gt;
+&lt;p&gt;部分分析师表示，若未计提这笔拨备，三星的营业利润将进一步超出市场预期。&lt;/p&gt;
+
+芯片价格大幅上涨，短缺延伸至传统存储
+
+&lt;p&gt;推动三星业绩的核心逻辑在于存储芯片供应的持续紧张。&lt;/p&gt;
+&lt;p&gt;AI数据中心对高带宽存储（HBM）的旺盛需求促使制造商将产能向高端产品倾斜，由此引发传统DRAM和NAND存储芯片供给不足，推动价格全面上行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据汇丰银行数据，今年4至6月，DRAM平均售价环比涨幅超过40%，NAND价格涨幅则超过50%。花旗研究的数据与此接近，显示同期DRAM和NAND均价分别环比上涨44%和53%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师还指出，客户正越来越多地寻求签订较长期的供货协议，这进一步强化了市场对存储价格将维持高位的预期，并有利于三星等具备大规模产能的厂商。&lt;/p&gt;
+&lt;p&gt;英伟达CEO黄仁勋及OpenAI首席运营官Brad Lightcap等高管均曾公开表示，存储芯片供给不足正制约AI基础设施扩张的步伐。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析师预计，这一短缺局面至少将持续至2027年，这为三星及竞争对手SK海力士和美光科技提供了相当可观的定价能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，HBM产能的快速扩张带来了&amp;quot;替代效应&amp;quot;。传统存储芯片的供应随之收紧，不仅影响智能手机、个人电脑等消费电子产品的生产成本，也令企业服务器市场承压。&lt;/p&gt;
+
+
+三星与SK海力士主导韩国芯片扩张布局
+
+
+&lt;p&gt;在股价表现上，三星今年以来累计涨幅约165%，但跑输竞争对手SK海力士约260%的涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;两者差距主要源于产品结构差异。&lt;strong&gt;SK海力士的业务更集中于面向AI计算需求的高端存储芯片，而三星的产品组合则更为多元，横跨芯片与消费电子领域。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从国家战略层面来看，韩国政府将两家公司视为争夺全球AI领导地位的核心支柱。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775739"&gt;华尔街见闻提及&lt;/a&gt;，三星集团与SK集团计划各在韩国西南部兴建两座芯片工厂，合计投资规模达800万亿韩元，以快速扩充产能。&lt;/p&gt;
+&lt;p&gt;韩国目标在五年内将存储芯片产能翻倍。三星已宣布2026年将投入逾700亿美元用于产能扩张与研发。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta算力租赁首落印度：168兆瓦数据中心破局数据主权，加剧富豪基建暗战</title><link>https://wallstreetcn.com/articles/3776325</link><guid>9cbf819f0af7a5522089cfc0c3d240c417f44963c483b6d8f3241dddc9dd396a</guid><pubDate>Mon, 06 Jul 2026 21:57:00 GMT</pubDate><description>&lt;p&gt;Meta正将旗下闲置算力转化为新收入来源，一场围绕印度AI基础设施的商业格局重组正在悄然展开。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775980"&gt;华尔街见闻提及&lt;/a&gt;，Meta正筹备一项名为&amp;quot;Meta Compute&amp;quot;的内部计划，拟向企业客户出租其过剩算力，将原本拖累资本支出的基础设施转型为收入引擎。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;马克扎克伯格的这一布局，正在深刻改变印度两大富豪，穆克什·安巴尼（Mukesh Ambani）与高塔姆·阿达尼（Gautam Adani）之间的竞争态势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上月，安巴尼家族的信实工业宣布与Meta达成合作协议，在古吉拉特邦贾姆讷格尔联合建设一座168兆瓦数据中心，此举为企业客户提供了将敏感数据留存于印度境内的可能，直接冲击现有云计算格局。&lt;/p&gt;
