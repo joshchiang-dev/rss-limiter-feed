@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 22:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
-&lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
-&lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
-&lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
-一则爆料引发连锁反应：Kyber NVL144延期疑云
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;SemiAnalysis在社交平台发布的分析内容&lt;/a&gt;，英伟达代号Kyber NVL144的AI服务器机架系统在高端PCB（印刷电路板）制造环节遭遇技术瓶颈，导致项目交付时间可能推迟超过12个月，甚至延后至2028年前后。&lt;/p&gt;
-&lt;p&gt;该机构同时提到，该架构是在英伟达此前GTC展示后的关键升级路径之一，原本被视为其AI算力“scale-out”路线的重要节点。&lt;/p&gt;
-&lt;p&gt;不过，据美东时间6日周一美股午盘之初的媒体报道，英伟达的一位发言人通过邮件声明称：“我们的路线图保持不变（Our road map is intact）。”&lt;/p&gt;
-&lt;p&gt;英伟达未披露Kyber NVL144项目的进度细节，也未证实任何延期情况。&lt;/p&gt;
-&lt;p&gt;市场人士指出，在AI基础设施高投入周期中，即便是非官方、未经验证的供应链传闻，也可能对情绪产生放大效应。&lt;/p&gt;
-亚洲算力供应链遭遇抛售：PCB与封装环节首当其冲
-&lt;p&gt;受SemiAnalysis的传闻冲击，亚洲AI硬件供应链在本周一交易中普遍承压，尤其集中在PCB及高端材料领域。&lt;/p&gt;
-&lt;p&gt;日本PCB制造商Ibiden一度跌约10%，市场将其视为英伟达核心供应链之一。与此同时，香港上市的Kingboard Laminates Holdings一度重挫约18%，台湾上市的Elite Material Co.收跌约10%，韩国三星旗下零部件公司Samsung Electro-Mechanics盘中曾跌超10%。&lt;/p&gt;
-&lt;p&gt;从更广泛的板块来看，MSCI相关半导体及科技指数在近期已连续回调，部分机构统计显示，两周内累计跌幅已接近一成，显示AI交易拥挤度正在被重新定价。&lt;/p&gt;
-&lt;p&gt;市场评论普遍认为，此轮下跌并非单一事件驱动，而是“高位敏感结构”下的典型反应。&lt;/p&gt;
-市场解读：从“增长叙事”转向“交付与节奏风险”
-&lt;p&gt;针对Kyber NVL144传闻，部分机构认为，即便存在延迟，也未必意味着AI资本开支周期见顶。&lt;/p&gt;
-&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan指出，项目延期“更可能意味着英伟达最激进的新一代系统架构需要更长时间部署”，但并不必然削弱整体AI基础设施需求。&lt;/p&gt;
-&lt;p&gt;不过他同时强调，当前市场对AI交易已高度敏感，任何与供应链、交付节奏相关的不确定性，都可能触发阶段性获利了结与板块轮动。&lt;/p&gt;
-&lt;p&gt;韩国券商NH Investment &amp;amp; Securities亦表示，此次抛售体现出“区域科技板块的广泛走弱”，Kyber NVL144相关传闻叠加其他AI供给侧担忧，正在放大投资者对下一代算力平台不确定性的定价。&lt;/p&gt;
-&lt;p&gt;此外，市场还在关注本周多个关键催化剂，包括三星电子的财报，以及存储巨头SK海力士美股IPO与行业指引，这些都可能进一步影响AI链条情绪。&lt;/p&gt;
-AI交易进入“验证期”：从预期驱动到现实约束
-&lt;p&gt;过去两年，AI行情的核心驱动力是算力需求的持续上修与供应链扩张预期，而当前阶段市场正在逐步进入“执行验证期”：&lt;/p&gt;
-&lt;p&gt;一方面，超大规模云厂商资本开支仍在高位运行，需求端未出现明显拐点；另一方面，复杂机架系统、先进PCB与封装工艺的瓶颈，使得交付节奏本身成为新的不确定变量。&lt;/p&gt;
-&lt;p&gt;因此，即便英伟达强调“路线图未变”，市场的反应更多集中在“节奏风险”而非“需求崩塌”。这也解释了为何相关供应链股价波动明显放大——在高估值背景下，市场对任何“延迟叙事”都高度敏感。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 21:29:27 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 23:29:31 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
 &lt;p&gt;黄金因ETF持续流出而小幅走低；比特币则在特朗普公开表态力挺加密货币后强势反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数周一上涨1.3%，标普500指数涨0.7%，道琼斯工业平均指数上涨0.3%，盘中突破53000点整数关口。英伟达确认服务器路线图未受影响，博通宣布与苹果芯片合作延伸至2031年，提振市场对AI基础设施投资持续性的信心。&lt;/p&gt;
@@ -188,7 +164,31 @@ AI交易重燃，但芯片股表现分化
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，BE半导体实业公司收跌5.49%，马士基B类股跌5.45%，康士伯海事股份跌4.79%跌幅第三大。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 边投AI边减持？腾讯被曝拟套现超百亿港元后，快手确认大股东出售2.7亿股</title><link>https://wallstreetcn.com/articles/3776318</link><guid>cffdf4a0f49e3300618f6e89f235c18a5d1e0ade86862ea6796cc159cb1a1570</guid><pubDate>Mon, 06 Jul 2026 17:44:26 GMT</pubDate><description>&lt;p&gt;腾讯和快手本月一再联手上新闻，快手刚官宣腾讯加码AI投资才过几天，就确认了腾讯减持股份的消息。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
+&lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
+&lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
+&lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
+一则爆料引发连锁反应：Kyber NVL144延期疑云
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;SemiAnalysis在社交平台发布的分析内容&lt;/a&gt;，英伟达代号Kyber NVL144的AI服务器机架系统在高端PCB（印刷电路板）制造环节遭遇技术瓶颈，导致项目交付时间可能推迟超过12个月，甚至延后至2028年前后。&lt;/p&gt;
+&lt;p&gt;该机构同时提到，该架构是在英伟达此前GTC展示后的关键升级路径之一，原本被视为其AI算力“scale-out”路线的重要节点。&lt;/p&gt;
+&lt;p&gt;不过，据美东时间6日周一美股午盘之初的媒体报道，英伟达的一位发言人通过邮件声明称：“我们的路线图保持不变（Our road map is intact）。”&lt;/p&gt;
+&lt;p&gt;英伟达未披露Kyber NVL144项目的进度细节，也未证实任何延期情况。&lt;/p&gt;
+&lt;p&gt;市场人士指出，在AI基础设施高投入周期中，即便是非官方、未经验证的供应链传闻，也可能对情绪产生放大效应。&lt;/p&gt;
+亚洲算力供应链遭遇抛售：PCB与封装环节首当其冲
+&lt;p&gt;受SemiAnalysis的传闻冲击，亚洲AI硬件供应链在本周一交易中普遍承压，尤其集中在PCB及高端材料领域。&lt;/p&gt;
+&lt;p&gt;日本PCB制造商Ibiden一度跌约10%，市场将其视为英伟达核心供应链之一。与此同时，香港上市的Kingboard Laminates Holdings一度重挫约18%，台湾上市的Elite Material Co.收跌约10%，韩国三星旗下零部件公司Samsung Electro-Mechanics盘中曾跌超10%。&lt;/p&gt;
+&lt;p&gt;从更广泛的板块来看，MSCI相关半导体及科技指数在近期已连续回调，部分机构统计显示，两周内累计跌幅已接近一成，显示AI交易拥挤度正在被重新定价。&lt;/p&gt;
+&lt;p&gt;市场评论普遍认为，此轮下跌并非单一事件驱动，而是“高位敏感结构”下的典型反应。&lt;/p&gt;
+市场解读：从“增长叙事”转向“交付与节奏风险”
+&lt;p&gt;针对Kyber NVL144传闻，部分机构认为，即便存在延迟，也未必意味着AI资本开支周期见顶。&lt;/p&gt;
+&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan指出，项目延期“更可能意味着英伟达最激进的新一代系统架构需要更长时间部署”，但并不必然削弱整体AI基础设施需求。&lt;/p&gt;
+&lt;p&gt;不过他同时强调，当前市场对AI交易已高度敏感，任何与供应链、交付节奏相关的不确定性，都可能触发阶段性获利了结与板块轮动。&lt;/p&gt;
+&lt;p&gt;韩国券商NH Investment &amp;amp; Securities亦表示，此次抛售体现出“区域科技板块的广泛走弱”，Kyber NVL144相关传闻叠加其他AI供给侧担忧，正在放大投资者对下一代算力平台不确定性的定价。&lt;/p&gt;
+&lt;p&gt;此外，市场还在关注本周多个关键催化剂，包括三星电子的财报，以及存储巨头SK海力士美股IPO与行业指引，这些都可能进一步影响AI链条情绪。&lt;/p&gt;
+AI交易进入“验证期”：从预期驱动到现实约束
+&lt;p&gt;过去两年，AI行情的核心驱动力是算力需求的持续上修与供应链扩张预期，而当前阶段市场正在逐步进入“执行验证期”：&lt;/p&gt;
+&lt;p&gt;一方面，超大规模云厂商资本开支仍在高位运行，需求端未出现明显拐点；另一方面，复杂机架系统、先进PCB与封装工艺的瓶颈，使得交付节奏本身成为新的不确定变量。&lt;/p&gt;
+&lt;p&gt;因此，即便英伟达强调“路线图未变”，市场的反应更多集中在“节奏风险”而非“需求崩塌”。这也解释了为何相关供应链股价波动明显放大——在高估值背景下，市场对任何“延迟叙事”都高度敏感。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 边投AI边减持？腾讯被曝拟套现超百亿港元后，快手确认大股东出售2.7亿股</title><link>https://wallstreetcn.com/articles/3776318</link><guid>cffdf4a0f49e3300618f6e89f235c18a5d1e0ade86862ea6796cc159cb1a1570</guid><pubDate>Mon, 06 Jul 2026 17:44:26 GMT</pubDate><description>&lt;p&gt;腾讯和快手本月一再联手上新闻，快手刚官宣腾讯加码AI投资才过几天，就确认了腾讯减持股份的消息。&lt;/p&gt;
 &lt;p&gt;北京时间7月6日周一晚间，快手科技发布港交所公告称，公司获悉，腾讯控股有限公司已于当天合计出售超2.7亿股快手B类股，公告并未披露本次部分售价区间或具体交易规模，而是称，售股完成后，腾讯将不再是快手主要股东，同时指出，腾讯对快手前景有信心，双方战略合作将延续。&lt;/p&gt;
 &lt;p&gt;周一稍早，两家媒体援引相关销售文件的内容称，腾讯计划通过出售约2.73亿股快手股份募资，占快手已发行股本约7.5%，售价相当于较快手港股周一收盘折价最多6.2%。按销售文件披露的价格区间计算，本次交易规模最高约122亿港元、约15.5亿美元。&lt;/p&gt;
 &lt;p&gt;而就在7月2日上周四，快手才发布有关旗下AI业务可灵AI（Kling AI）引入外部融资的公告，宣布预计将完成近30亿美元融资，引入包括腾讯在内的战略投资者。两次相隔才四天的公告让人发现，腾讯押注快手AI与股权减持几乎同步发生。&lt;/p&gt;
