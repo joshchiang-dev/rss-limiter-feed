@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 19:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 06 Jul 2026 19:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨</title><link>https://wallstreetcn.com/articles/3776252</link><guid>b6bc5da76ff73d218275c7d4f9595a55f33fb92c37add21000ed575fb4c42db4</guid><pubDate>Mon, 06 Jul 2026 08:42:23 GMT</pubDate><description>&lt;p&gt;A股芯片、算力硬件内部分化严重后果，PCB、CPO等方向大跌，然而GPU、先进封装逆势拉升，市场并非科技股全面退潮，而是高位品种的资金在科技主线内部剧烈换手。创新药再度爆发，机构认为，近期中国企业在细胞治疗、AI制药等前沿领域逐步取得突破：体内CAR-T持续验证技术可行性。&lt;/p&gt;
 &lt;p&gt;7月6日，沪指全天探底回升，创业板指走势较弱，早盘一度跌超2%，午盘一度收窄至0.5%，午后进一步扩大跌幅，科创50全日振幅高达5.52%，早盘高开后急挫逾3%，触底后V型反转，最终收涨1.04%。算力硬件、芯片半导体跌幅居前，CPO、电路板、覆铜板等显著下跌，创新药、CRO再度爆发，超硬材料、培育钻石等拉升。“老登”股煤炭、银行等逆势拉升。&lt;/p&gt;
 &lt;p&gt;港股三大指数全线反弹，恒指、恒科指双双上涨，恒科指盘中涨超1%，科网股悉数走高，腾讯控股涨近5%，芯片股、AI大模型股承压，生物医药板块延续强势表现。债市方面，国债期货集体上涨，商品方面，国内商品期货普遍上涨，金属期货涨幅居前。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -160,27 +160,7 @@ AI交易进入“验证期”：从预期驱动到现实约束
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加速押注自研AI芯片！AWS三季度ASIC服务器出货目标上调至多30%</title><link>https://wallstreetcn.com/articles/3776278</link><guid>55ad5329b182618a2438e02fba2bc715dbce9ccfeb070e1fbd417ec66654c3f4</guid><pubDate>Mon, 06 Jul 2026 07:45:59 GMT</pubDate><description>&lt;p&gt;亚马逊AWS正在加速押注自研芯片战略。供应链消息显示，AWS已通知相关供应商，&lt;strong&gt;将第三季度ASIC服务器出货量较原计划上调20%至30%&lt;/strong&gt;，显示其对Trainium 3芯片的市场前景持高度乐观态度。&lt;/p&gt;
-&lt;p&gt;周一，据digitimes援引中国台湾供应链人士消息，搭载Trainium 3芯片的服务器主板级组件已于5月开始出货，目前处于逐月爬坡阶段。&lt;strong&gt;AWS此次上调出货计划，被供应链业者解读为提前拉单、抢占市场的信号，而非仅是常规需求上修。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多名供应链人士指出，Anthropic是此次AWS加速拉货的重要驱动力之一——这家AI公司已表示以10倍增长为基准规划的算力仍不敷使用，需尽快补足缺口。&lt;/p&gt;
-&lt;p&gt;受此消息提振，AWS Trainium 3服务器供应链中的多家中国台湾厂商有望受益，下半年营运表现存在上调空间。与此同时，业界亦开始关注AWS是否会因强劲市场势头而提前推出下一代Trainium 4，进一步强化在ASIC市场的竞争力。&lt;/p&gt;
-
-供应链全面进入量产爬坡期
-
-&lt;p&gt;AWS Trainium 3服务器的台湾供应链已形成较为完整的生态体系。散热领域涉及奇宏、迈科及迅凯国际，滑轨厂商包括川湖与南俊国际，机壳厂商有奇宏与勤诚，L6主板级组装厂为智邦。&lt;/p&gt;
-&lt;p&gt;出货节奏方面，主板级L6相关零组件已自5月起开始出货，逐月增量；机柜级L11订单及滑轨等组件将于7月进入量产，目前整体仍处出货爬坡阶段，预期第三季度放量。此次AWS上调拉货力度后，相关厂商的出货增幅将高于此前预估，下半年营运表现亦存在进一步上修空间。&lt;/p&gt;
-
-Anthropic、OpenAI等大客户需求旺盛
-
-&lt;p&gt;&lt;strong&gt;供应链人士认为，Anthropic是AWS此番提前拉货的主要驱动力之一。&lt;/strong&gt;AWS母公司亚马逊是Anthropic的重要投资方，双方于2026年4月再度加码合作，签署10年合作协议，Anthropic承诺扩大采购AWS算力。Anthropic方面已公开表示，目前以10倍增长为基准所规划的算力仍存在明显缺口，需要尽快填补。&lt;/p&gt;
-&lt;p&gt;除Anthropic外，OpenAI与Uber也是AWS Trainium的重要客户。亚马逊面向企业客户推出的生成式AI托管平台Bedrock目前已拥有12.5万家客户，其推理工作负载主要依托Trainium提供服务，企业侧需求持续扩张亦构成重要支撑。&lt;/p&gt;
-&lt;p&gt;亚马逊CEO Andy Jassy在近期财报电话会上表示，Trainium 2已售罄，Trainium 3几乎已被全数预订，部分客户已开始预订下一代Trainium 4，公司同步启动了Trainium 5的开发流程。&lt;/p&gt;
-
-竞争格局趋紧，AWS急需强化ASIC规模
-
-&lt;p&gt;云计算市场的竞争压力正促使AWS加快行动。AWS目前仍为公有云市场龙头，微软与谷歌紧随其后。在ASIC芯片领域，谷歌TPU出货量位居市场首位，对AWS构成直接压力，迫使其加速提升Trainium的战力与规模。&lt;/p&gt;
-&lt;p&gt;此外，Meta近期宣布计划将自有AI算力对外开放，允许企业与开发者付费使用其AI模型，或直接租用裸机GPU算力，公开与AWS、微软及谷歌争夺企业客户，进一步加剧市场竞争态势，也令AWS的扩张紧迫感上升。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;DIGITIMES Research分析预测，2026年高阶AI服务器芯片中，GPU服务器出货量年增幅约为43.8%，ASIC服务器出货量年增幅将更为显著，预计达到64.2%。&lt;/strong&gt;随着AWS Trainium与谷歌TPU服务器均于2026年下半年进入放量阶段，整体ASIC服务器市场有望迎来加速扩张。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 京东7.5亿港元收购远东发展油麻地物业</title><link>https://wallstreetcn.com/articles/3776285</link><guid>6537ce7c305371f5bfa2bf21f5b53e8a97bf201e55cdbf61938a941afec066f1</guid><pubDate>Mon, 06 Jul 2026 08:32:12 GMT</pubDate><description>&lt;p&gt;7月6日，远东发展（00035.HK）发布公告称，拟将其间接全资附属公司持有的Charter Joy Limited（捷彩有限公司）全部已发行股份，以初步购买价7.5亿港元出售给京东集团旗下公司JD Fabulous Development XI Limited。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 京东7.5亿港元收购远东发展油麻地物业</title><link>https://wallstreetcn.com/articles/3776285</link><guid>6537ce7c305371f5bfa2bf21f5b53e8a97bf201e55cdbf61938a941afec066f1</guid><pubDate>Mon, 06 Jul 2026 08:32:12 GMT</pubDate><description>&lt;p&gt;7月6日，远东发展（00035.HK）发布公告称，拟将其间接全资附属公司持有的Charter Joy Limited（捷彩有限公司）全部已发行股份，以初步购买价7.5亿港元出售给京东集团旗下公司JD Fabulous Development XI Limited。&lt;/p&gt;
 &lt;p&gt;据披露，本次交易的核心资产是一处位于香港九龙油麻地上海街268号的物业，其前身为香港海景丝丽酒店。目前，该物业正处于资产改造阶段，原有的酒店客房正被改建为学生宿舍单位，预期将于2026年下半年完成全面改造。&lt;/p&gt;
 &lt;p&gt;从交易结构看，该项目在交割后将保持运营上的延续性。买卖协议显示，交易完成后，远东发展旗下的DHI Hotel Management HK Limited将继续为该物业提供为期三年的管理与运营服务。&lt;/p&gt;
 &lt;p&gt;这一安排表明，京东现阶段更多是以资产持有者的身份介入以获取稳定收益或作为战略储备，而远东发展则通过“售后代管”模式保留了物业的实际运营权。&lt;/p&gt;
@@ -328,4 +308,15 @@ BiCS-10性能全面升级，为AI时代SSD而生
 &lt;p&gt;报告预计，&lt;strong&gt;到2027年3月底，BiCS-8产品将占铠侠整体GB出货量约80%。&lt;/strong&gt;凭借更先进的平面微缩工艺、CMOS Direct Bonded to Array（CBA）技术以及更高堆叠层数，BiCS-8仍将是未来一年多公司收入增长和单位成本下降的主要来源。&lt;/p&gt;
 &lt;p&gt;相比之下，BiCS-10承担的是中长期产品升级任务。&lt;/p&gt;
 &lt;p&gt;目前，数据中心及企业级产品约占铠侠收入的30%至40%。公司目标是将这一比例提升至60%以上，而摩根士丹利认为，&lt;strong&gt;这一战略目标能否实现，很大程度上取决于BiCS-10能否顺利完成客户认证、实现规模出货，并推动高端SSD产品持续放量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大型公募业绩“反超”，多名基金经理踩准本轮科技行情</title><link>https://wallstreetcn.com/articles/3776297</link><guid>be7efb2e3a776ab6e1bb471d53ee371d5b28931a12e049095e49eba48dbcd524</guid><pubDate>Mon, 06 Jul 2026 09:59:32 GMT</pubDate><description>&lt;p&gt;不知不觉间，大型基金公司的权益基金经理们在这轮科技股行情里，批量表现出强劲势头。&lt;/p&gt;
+&lt;p&gt;来自国泰海通证券发布的基金公司业绩排行榜显示，过去五年和十年的维度，大型基金公司的整体收益率出现批量正收益。其中，业内规模最大的易方达基金权益类产品近五年、近十年平均收益率分别达到52.43%、256.30%，在“大型公司”中均排名第一（截至6月30日）。&lt;/p&gt;
+&lt;p&gt;此外，十年期大型基金公司中，中欧基金以229.53%收益和大成基金以215.81%收益率分列第二、第三名；兴证全球基金、景顺长城基金、工银瑞信基金、富国基金紧随其后。&lt;/p&gt;
+&lt;p&gt;大型基金公司的业绩上涨与内部投研流程理顺、旗下基金经理业绩表现突出颇有关联。以易方达基金公司为例，旗下由武阳管理的易方达瑞享I以521.6%的收益率在近5年近3000只可比基金中高居榜首，是仅有的两只“5倍基”之一（截至6月30日）。&lt;/p&gt;
+&lt;p&gt;类似的，同样是5年周期内，易方达远见成长、易方达科融也分别以337.53%、310.18%的收益率，在919只同类产品中分列第2、第3位，郑希管理的两只科技行业主题基金——易方达信息产业、易方达信息行业精选近五年在同类产品中均位居前3。&lt;/p&gt;
+&lt;p&gt;分析人士认为，大型公司的主动投资业绩崛起或和过去五年间，全球产业链发生巨大革新，A股市场内部分上市公司业绩暴增有关。&lt;/p&gt;
+&lt;p&gt;当这些由基本面推动的行业大趋势的出现，与大型公司成体系的基本面研究相适合，也因此部分大型基金公司整体的业绩出现了突出表现。&lt;/p&gt;
+&lt;p&gt;另外，过去5年间，A股市场经历了一轮较为完整的牛熊周期，从2021年核心资产调整后的震荡下跌，到中间的价值股行情，再到2024年9月以后的“科技牛”，市场环境复杂多变。大部分坚定个人风格，同时又有相当选股宽度的基金经理都有机会表现。而大型基金公司在风格化、流程化上做得较为坚定，也支撑了业绩表现。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] Meta“卖算力”不是需求见顶，而是资源优化的必然一跃</title><link>http://xueqiu.com/3196557688/398589991</link><guid>95593e50dd3d71c62be2db473a954ea637c9923ed0a801f2bfab1ea57cb3175a</guid><pubDate>Mon, 06 Jul 2026 10:35:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;夸父逐日丶胤迹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;野村在《Global Memory》研报中旗帜鲜明地指出：&lt;strong&gt;Meta对外出售多余的算力，绝非AI需求见顶的预警信号，而是资源效率跃升的开端。&lt;/strong&gt; 市场反应向来敏感。Meta刚一宣布，市场迅速将其解读为是“CSP资本开支踩刹车”的先兆。野村则认为，这种联想过于仓促，忽略了数据中心运营的基本现实——&lt;strong&gt;峰值配置决定了非高峰时段必然存在大量闲置算力&lt;/strong&gt;，这并非需求疲软，而是行业固有特征。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技退潮后，少数具备三季度利润弹性和事件催化共振的方向</title><link>http://xueqiu.com/1701766657/398481972</link><guid>b5ee2e07bdf9a3440c117aadc5812a2eba56b06d7eb1a032d83ddfe072dfb5b7</guid><pubDate>Mon, 06 Jul 2026 10:36:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;油运的优势是：&lt;b&gt;逻辑不虚，价格能验证。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈油运业的合理估值</title><link>http://xueqiu.com/2979842247/398656253</link><guid>1f746be28db9cac405df9474a3508e31fa88cf402d2c647bf9c66090e1d68fc0</guid><pubDate>Mon, 06 Jul 2026 10:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;风卷红旗过大关&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有色和航运属于周期股的范畴，但是在周期性行业中，某些优秀的巨头会呈现出弱周期成长性的特征……&lt;/p&gt;</description></item></channel></rss>
