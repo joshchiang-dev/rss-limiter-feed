@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 19:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 沪指年内“四失”4000点，半导体产业链逆势活跃，四大行尾盘拉升，快手下挫12%领跌科网股</title><link>https://wallstreetcn.com/articles/3776344</link><guid>d29ed262db45af463a957311562949df9776e9931e9b23f4173367735d3c6314</guid><pubDate>Tue, 07 Jul 2026 08:21:36 GMT</pubDate><description>&lt;p&gt;A股和港股存储芯片承压，江波龙、佰维存储、兆易创新等纷纷下跌，此前韩国芯片巨头三星电子股价大幅跳水，一度暴跌超8%，拖累韩国KOSPI指数一度熔断。消息面，三星电子初步业绩报告显示，2026年第二季度营收预计为171万亿韩元，略超市场预期；营业利润预计为89.4万亿韩元，同比大幅增长1810%，高于市场预期。&lt;/p&gt;
-&lt;p&gt;7月7日，A股全天震荡调整，三大股指集体下跌，沪指、深成指跌超1%，沪指年内“四失”4000点，创业板冲高之后持续下跌，盘中一度跌超1%。半导体产业链逆势反弹，半导体硅片、半导体设备、先进封装、GPU等概念股大幅拉升，培育钻石、网络游戏等概念股活跃，煤炭、石油化工、医药等板块陷入调整。存储芯片、光模块、电路板等齐跌。&lt;/p&gt;
-&lt;p&gt;港股冲高回落，恒指、恒科指盘初双双上涨，恒科指一度涨超2%，随后恒指、恒科指均转跌，午后延续震荡下跌势头，科网股多数下跌，快手大跌超12%。存储芯片回落，兆易创新跌超10%。债市方面，国债期货多数下跌。商品方面，国内商品期货分化，沪银等金属期货承压。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指跌1.26%，深成指跌1.24%，创业板指跌0.94%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股呈现普跌态势，沪深京三市超4800股飘绿，今日成交2.6万亿，沪深两市成交额2.58万亿，较上一个交易日缩量5100亿。板块方面，石化、发电设备、生物医药、海运、贵金属板块跌幅居前，半导体产业链逆势走强，半导体硅片、半导体设备、GPU、先进封装方向领涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，港股冲高回落，恒生指数收跌0.51%，恒生科技指数跌0.75%，盘中一度涨超2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，资源股、消费股跌幅居前；医药股显著回调，荣昌生物、三生制药跌超6%。科网股承压，快手跌超10%，7月6日晚腾讯通过场外大宗交易减持2.73亿股快手B类股份，持股比例从15.68%降至9.37%，退出主要股东行列，套现约120亿港元。另外，存储半导体相关品种跟随三星暴跌，南方两倍做多三星电子、南方两倍做多海力士均跌超19%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货多数下跌，截至收盘，30年期主力合约持平，10年期主力合约跌0.01%，5年期主力合约持平，2年期主力合约跌0.01%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至收盘，能源品涨幅居前，LPG涨2.14%；油脂油料多数上涨，菜油涨1.86%；黑色系多数上涨，不锈钢涨1.83%；化工品多数上涨，苯乙烯涨1.47%；航运期货跌幅居前，集运指数(欧线)跌5.03%；农副产品多数下跌，红枣跌2.38%；贵金属全部下跌，沪银跌2.30%；新能源材料全部下跌，碳酸锂跌2.22%；非金属建材全部下跌，玻璃跌2.05%；基本金属多数下跌，氧化铝跌0.44%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-半导体产业链逆势活跃
-&lt;p&gt;硅片方向全面爆发，有研硅20cm涨停——公司同日公告通过公开摘牌收购安徽晶隆半导体60%股权，形成衬底到外延一站式方案。上海合晶涨超10%，TCL中环涨停，沪硅产业涨近8%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，全球三大硅片龙头信越化学、SUMCO、环球晶圆此前已启动涨价，叠加国产替代逻辑，硅片赛道成为资金在半导体内部高低切换的首选方向。&lt;/p&gt;
-&lt;p&gt;供给端层面，信越化学、环球晶圆等海外龙头近年扩产计划均聚焦先进制程硅片领域，成熟制程硅片供给增量有限，进一步支撑行业价格上行。&lt;/p&gt;
-&lt;p&gt;财通证券认为，&lt;strong&gt;当前全球12英寸硅片行业呈现寡头垄断格局，全球市场前五厂商均为海外老牌企业，国内硅片自给缺口显著。在行业量价齐升、国产替代加速推进的双重红利加持下，国内硅片企业有望充分受益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;先进封装方向同步走强，华天科技、华微电子、东微半导、瑞芯微涨停，沐曦股份涨超15%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;华为半导体负责人何庭波上周发布&amp;quot;韬定律&amp;quot;V2版本，明确了逻辑折叠、混合键合等五大落地技术，持续催化先进封装产业链。&lt;/p&gt;
-&lt;p&gt;另一端，高位PCB和算力租赁方向遭到集中抛售。深南电路午后触及跌停，中国巨石、兴森科技跟跌。算力租赁概念利通电子、中科金财双双跌停。科技股内部的高低切换已进入白热化阶段。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，今天午后，部分PCB概念股异动，市值4000亿元的东山精密直线拉升，盘中涨幅一度超过7%；世名科技、泰金新能、木林森、 金安国纪、四创电子、天津普林等纷纷冲高。&lt;/p&gt;
-&lt;p&gt;此外，深南电路跌幅一度收窄至5%以内，此前10%跌停。而在早盘，威尔高已封死20%涨停，光华科技盘中也一度触板。&lt;/p&gt;
-&lt;p&gt;消息面，&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;华尔街见闻文章&lt;/a&gt;写道，知名供应链研究机构SemiAnalysis称，因专用电路板制造问题，英伟达下一代Kyber AI服务器系统可能将推迟一年发布。该消息昨日曾引发全球PCB概念股重挫。&lt;/p&gt;
-&lt;p&gt;据最新消息，AI芯片巨头英伟达否认下一代AI服务器架构延迟传闻，称路线图保持不变。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s/MfnhwjsPh7VFLgUSLo7M0g"&gt;券商中国&lt;/a&gt;称，有分析指出，此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。Allspring Global Investments投资组合经理Gary Tan指出，当前市场对AI交易已高度敏感，任何与供应链、交付节奏相关的不确定性，都可能触发阶段性获利了结与板块轮动。&lt;/p&gt;
-存储芯片陷入调整
-&lt;p&gt;A股港股的存储芯片集体陷入调整，其中德明利、北京君正跌超8%，江波龙、佰维存储、兆易创新等跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;港股方面，兆易创新、澜起科技均跌超10%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，在三星电子交出了一份堪称“炸裂”的季度成绩单后，全球存储市场却应声崩盘。韩国综合指数收盘跌近5%，三星电子绩后跌近7%，SK海力士跌逾6%。日经225指数收跌2.12%，铠侠跌逾11%。&lt;/p&gt;
-&lt;p&gt;三星电子公布的第二季度业绩预告显示，第二季度公司实现销售额171万亿韩元，同比增长129.3%；第二季度营业利润为89.4万亿韩元，同比增长1810.2%，创下公司历史新高，这一单季盈利超过了2023年至2025年三年的利润总和。同时单季盈利超越英伟达登顶全球，但盘中最大跌幅接近9%，南方两倍做多三星电子盘中跌超19%。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776372"&gt;华尔街见闻文章&lt;/a&gt;写道，三星二季度利润暴增19倍创纪录，股价却单日重挫。原因在于市场已提前定价“完美”，上演“买预期卖事实”。高估值下，微小的营收缺口、代工亏损隐忧及对AI资本开支见顶的担忧被放大。市场逻辑已从看利润增速转向看现金流与股东回报，最终触发资金获利了结。&lt;/p&gt;
-&lt;p&gt;摩根士丹利首席股票策略师Michael Wilson在最新报告中指出，近期半导体板块动能衰竭，费城半导体指数较高点已跌近12%，资金正转向微软、亚马逊、Meta等AI超算巨头及消费、生物科技等板块。&lt;/p&gt;
-游戏板块爆发行情、四大行尾盘逆势拉升
-&lt;p&gt;游戏板块今日意外爆发，申万游戏行业指数涨超4%。星辉娱乐一度20cm涨停，最终涨超10%；巨人网络一度封板，封单超13亿元；冰川网络、完美世界、世纪华通、昆仑万维跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，国家新闻出版署公布的6月游戏审批信息显示，当月合计171款游戏获批（国产163款、进口8款），较上月显著增加，叠加腾讯新一代大模型发布，游戏作为AI应用落地的核心场景获得资金重新定价。&lt;/p&gt;
-&lt;p&gt;尾盘阶段，四大行突然放量拉升。中国银行涨超3%，建设银行、工商银行、农业银行均涨超1.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;数据显示，截至7月6日已有33家银行敲定2025年度分红时间，本周将进入银行股分红密集窗口。在全市场近4800只个股下跌的背景下，四大行的逆势表现进一步确认了资金从高位成长向低估值高股息防御板块迁移的趋势。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伯恩斯坦点评腾讯Hy3模型：AI能力稳步提升，代理商业化路径逐渐清晰</title><link>https://wallstreetcn.com/articles/3776401</link><guid>f81dd185f52727e2d7e60d1c935ef10b229ff4bbe7001427bf5fababbcf8e9e6</guid><pubDate>Tue, 07 Jul 2026 15:30:07 GMT</pubDate><description>&lt;p&gt;腾讯AI大模型Hy3正式版于7月6日发布，距离预览版上线仅约10周。伯恩斯坦随即发布报告，维持腾讯“跑赢大盘”评级，认为Hy3虽非前沿模型，但其性能已足以支撑微信生态内的Agent应用落地，市场对Token成本和资本开支的担忧可能被放大。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 20:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 伯恩斯坦点评腾讯Hy3模型：AI能力稳步提升，代理商业化路径逐渐清晰</title><link>https://wallstreetcn.com/articles/3776401</link><guid>f81dd185f52727e2d7e60d1c935ef10b229ff4bbe7001427bf5fababbcf8e9e6</guid><pubDate>Tue, 07 Jul 2026 15:30:07 GMT</pubDate><description>&lt;p&gt;腾讯AI大模型Hy3正式版于7月6日发布，距离预览版上线仅约10周。伯恩斯坦随即发布报告，维持腾讯“跑赢大盘”评级，认为Hy3虽非前沿模型，但其性能已足以支撑微信生态内的Agent应用落地，市场对Token成本和资本开支的担忧可能被放大。&lt;/p&gt;
 &lt;p&gt;Hy3延续2950亿总参数、210亿激活参数的架构，&lt;strong&gt;但在关键能力上显著优化：工具调用稳定性提升，幻觉率从12.5%降至5.4%，多轮对话记忆增强，整体推理能力达到GLM-5.1同级水平&lt;/strong&gt;。不过，其在重度编程和通用推理上仍有取舍，GQA架构未来可通过MLA、DSA等KV Cache压缩技术进一步迭代。&lt;/p&gt;
 &lt;p&gt;伯恩斯坦指出，Hy3是腾讯新AI团队首个完整成果，其性能提升验证了模型预训练、强化学习与评测体系已步入正轨。公开基准测试显示，Hy3整体表现已明显领先MiniMax M3。下一代模型预计最快于2026年底或2027年初推出，并可能引入全新预训练架构。&lt;/p&gt;
 &lt;p&gt;分析师认为，&lt;strong&gt;腾讯AI战略正从模型研发转向商业落地，未来衡量投入回报的核心指标将是Agent交易规模，而非聊天机器人使用量。围绕微信生态构建的Agent服务路径逐渐清晰，这也是腾讯AI长期价值的关键所在。&lt;/strong&gt;&lt;/p&gt;
@@ -232,22 +183,68 @@ Copilot用户增长加速，但与竞争对手差距仍大
 &lt;p&gt;Copilot的商业化进展在近期出现改观。微软今年1月披露付费用户数为1500万，至4月已增长33%至2000万，该产品起步定价为每位员工每月30美元。微软管理层表示，Copilot已帮助Office业务的营收增速在近几个季度有所提升。&lt;/p&gt;
 &lt;p&gt;然而，与主要竞争对手相比，差距仍然悬殊。ChatGPT目前付费订阅用户超过5000万；在月活跃用户层面，据Sensor Tower估算，Copilot约为3850万，而ChatGPT约为10亿。&lt;/p&gt;
 &lt;p&gt;Andreou在备忘录中坦承，Copilot功能的过度扩张已造成用户困惑，并&amp;quot;在内部成为一个令人尴尬的问题&amp;quot;。他表示，企业客户当前对AI投资回报率的审视日趋严格，&amp;quot;整个企业软件领域的门槛都在提高&amp;quot;。Andreou同时强调，Copilot应聚焦于&amp;quot;真实工作&amp;quot;，注重&amp;quot;以结果为导向&amp;quot;，而非&amp;quot;为了追求智能而追求智能&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Andreou于去年春季加入微软，今年年初得到CEO Satya Nadella晋升，主导Copilot改革，负责范围扩展至消费者与企业端两条产品线，以及Bing、MSN和Edge浏览器业务，麾下员工规模超过1.1万人。Nadella对其考核指标包括Copilot整体增长、用户留存率及客户满意度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“编排”走红，微软的机会来了？</title><link>https://wallstreetcn.com/articles/3776335</link><guid>ee25072a08e60e78383545b66100bdad04e6e35b16a6869b1e3f4b0012523849</guid><pubDate>Tue, 07 Jul 2026 08:15:42 GMT</pubDate><description>&lt;p&gt;随着企业对AI预算愈发审慎，一个新的行业关键词正在浮出水面——“编排”（Orchestration）。分析师认为，&lt;strong&gt;微软有望凭借其横跨云端、平台与终端的产品矩阵，成为企业AI工作流的核心&amp;quot;编排层&amp;quot;，在这场成本控制浪潮中占据有利位置。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;编排&amp;quot;的核心逻辑在于：&lt;strong&gt;企业在使用多个AI模型时，需要一套统一机制来协调任务分配、数据流转与输出整合，&lt;/strong&gt;从而在不同模型之间灵活切换，并将每项任务路由至成本最低的模型。&lt;/p&gt;
-&lt;p&gt;D.A. Davidson分析师Gil Luria在近期研究报告中写道：&amp;quot;解决方案正变得清晰——企业希望构建一种方式，在不影响业务运营的前提下切换AI模型，同时通过将每个查询和任务路由至最廉价的模型来管理成本。&amp;quot;&lt;/p&gt;
-&lt;p&gt;这一趋势对微软构成直接利好。Melius Research分析师Ben Reitzes在周一的研究报告中指出，微软已将自身定位为企业访问AI算力的&amp;quot;安全、模型无关的通道&amp;quot;。与此同时，微软股价今年已累计下跌约20%，跌幅主要集中在第一季度，如何向投资者证明基于消费量的编排合同能够弥补传统按用户收费软件模式的潜在放缓，将是更为迫切的挑战。&lt;/p&gt;
-企业AI预算趋紧，&amp;quot;编排&amp;quot;需求应运而生
-&lt;p&gt;AI热潮催生了大量新词汇，继&amp;quot;推理&amp;quot;、&amp;quot;智能体&amp;quot;、&amp;quot;边缘计算&amp;quot;之后，&amp;quot;编排&amp;quot;正成为下一个核心概念。其背景是企业对AI投入回报的不满情绪日益升温。&lt;/p&gt;
-&lt;p&gt;Palantir Technologies首席执行官Alex Karp上周在接受CNBC采访时表示，Palantir接触的&amp;quot;每一家企业&amp;quot;都对从前沿AI实验室获得的算力回报感到不满。尽管Karp有时措辞夸张，但这一判断指向了真实的市场变化：部分企业正转向来自中国的低成本替代方案，这些模型以开源或开放权重形式提供，允许企业在自有服务器或私有云上部署AI算力。&lt;/p&gt;
-&lt;p&gt;AI基础设施平台Vercel上月发布的数据显示，自4月下旬起，中国开发商DeepSeek的低成本模型处理的算力量出现激增，尽管Anthropic和OpenAI在美元支出方面仍占据主导。多模型并用的现实，正是编排需求的直接来源。&lt;/p&gt;
-微软的&amp;quot;编排层&amp;quot;布局
-&lt;p&gt;微软的产品矩阵恰好覆盖了编排逻辑的多个层次。&lt;strong&gt;Reitzes指出，若前沿模型主导AI消费，微软的Azure云业务可承载其运行；若开源模型普及，微软的Foundry AI平台可对其进行编排，Windows也可在本地运行这些模型。目前，Foundry目录已收录逾11,000个可用模型。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在面向企业用户的产品层面，微软AI助手Copilot可根据用户所需的算力强度，将任务分流至不同AI模型，Luria对此予以肯定。Reitzes则将微软定位为企业访问AI算力的&amp;quot;安全、模型无关的通道&amp;quot;。&lt;/p&gt;
-&lt;p&gt;不过，这一赛道并非没有竞争压力。巴克莱银行上月的研究报告预测，许多大型互联网公司将自行构建内部编排层。对于中小型企业而言，AI成本不透明、复杂流程在缺乏监管的情况下大量消耗算力，是普遍痛点，而这正是微软切入的市场空间。&lt;/p&gt;
-股价承压，商业模式转型待验证
-&lt;p&gt;尽管编排叙事为微软提供了新的增长逻辑，但投资者目前仍面临不确定性。微软股价今年已下跌约20%，跌幅主要集中于第一季度，与其他软件股走势一致。&lt;/p&gt;
-&lt;p&gt;Reitzes指出，对微软而言，或许更为紧迫的挑战在于向投资者证明，以消费量为基础、聚焦编排的合同模式，能够切实抵消传统按用户订阅软件业务可能出现的增速放缓。&lt;/p&gt;
-&lt;p&gt;此外，微软首席人力官Amy Coleman周二宣布，公司将裁员4800人，约占全球员工总数的2.1%，这一消息也为其近期基本面增添了新的变量。编排层的战略布局能否转化为可量化的财务回报，仍有待市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 最长四十年期！亚马逊拟发行至少250亿美元债券，加码AI基础设施投资</title><link>https://wallstreetcn.com/articles/3776394</link><guid>cd558af40e78eeecb299adca6a4f091913a6b5dcbad76ed7210bfcc6f122da02</guid><pubDate>Tue, 07 Jul 2026 12:04:01 GMT</pubDate><description>&lt;p&gt;亚马逊正筹备一笔规模至少250亿美元的美元债券，成为超大规模云计算企业近期密集融资浪潮中的最新一例，凸显科技巨头在人工智能基础设施上的投入力度持续升温。&lt;/p&gt;
+&lt;p&gt;Andreou于去年春季加入微软，今年年初得到CEO Satya Nadella晋升，主导Copilot改革，负责范围扩展至消费者与企业端两条产品线，以及Bing、MSN和Edge浏览器业务，麾下员工规模超过1.1万人。Nadella对其考核指标包括Copilot整体增长、用户留存率及客户满意度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] EIA猛砍今明年油价预期，料霍尔木兹到年底基本恢复正常、AI热潮推动美国用电量连年新高</title><link>https://wallstreetcn.com/articles/3776406</link><guid>95106a6ad8d996d45b9b8af17a88a4e6ddf996c977e1ac20e68fa0c7293989da</guid><pubDate>Tue, 07 Jul 2026 20:07:07 GMT</pubDate><description>&lt;p&gt;美国官方能源展望报告释放多个重磅信号：霍尔木兹海峡石油运输预计将在今年年底前基本恢复正常，随着供应风险溢价持续消退，今明两年的国内外原油价格将较此前预期大幅下降；同时，在AI数据中心扩张推动下，美国的电力需求将在今明两年连续刷新年度最高纪录。&lt;/p&gt;
+&lt;p&gt;美东时间7日周二，美国能源信息署（EIA）发布《短期能源展望》（STEO）显示，在霍尔木兹海峡运输逐步恢复、OPEC+持续增产以及全球供应增长快于需求增长的背景下，国际油价未来两年面临明显下行压力，本次发布的7月7日油价预期相比6月9日的上次预期价猛砍至少10%以上。&lt;/p&gt;
+&lt;p&gt;报告显示，EIA将&lt;strong&gt;2026年的布伦特原油预期均价&lt;/strong&gt;由95美元/桶大幅下调至&lt;strong&gt;82美元/桶&lt;/strong&gt;，&lt;strong&gt;下调&lt;/strong&gt;幅度&lt;strong&gt;约13.7%&lt;/strong&gt;；2027年预测由79美元/桶降至&lt;strong&gt;65美元&lt;/strong&gt;/桶，&lt;strong&gt;下调约17.7%&lt;/strong&gt;；美国&lt;strong&gt;WTI原油的2026年预期均价&lt;/strong&gt;由88.32美元/桶降至&lt;strong&gt;76.26美元/桶&lt;/strong&gt;，&lt;strong&gt;下调约13.7%&lt;/strong&gt;，&lt;strong&gt;2027年预期价&lt;/strong&gt;由74.39美元/桶降至&lt;strong&gt;60.76美元/桶&lt;/strong&gt;，&lt;strong&gt;下调约18.3%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，EIA上调了今年美国原油产量预期，预计2026年美国原油日产量将达到1380万桶，略高于此前预期。不过，由于预计未来油价回落将抑制页岩油投资，EIA将2027年美国原油产量预测略为下调至1400万桶/日。&lt;/p&gt;
+霍尔木兹运输预计年底基本恢复正常，油市风险溢价继续消退
+&lt;p&gt;此次STEO最大的变化之一，是EIA对中东供应风险的重新评估。&lt;/p&gt;
+&lt;p&gt;报告指出，今年6月中东局势一度扰乱霍尔木兹海峡航运，推高国际油价并加剧市场对全球能源供应的担忧。但随着地区局势趋于缓和、航运逐步恢复，&lt;strong&gt;EIA预计，到2026年底，通过霍尔木兹海峡的石油运输量将接近恢复至正常水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一判断意味着，过去几个月支撑国际油价的地缘政治风险溢价正在快速消退。&lt;/p&gt;
+&lt;p&gt;与此同时，OPEC+继续推进增产计划，美国、加拿大、巴西和圭亚那等非OPEC产油国供应保持增长，进一步改善全球原油供给。&lt;/p&gt;
+&lt;p&gt;EIA预计，未来两年全球石油供应增速将持续快于需求增速，全球商业原油库存将重新进入累积阶段，这也是此次大幅下调国际油价预测的重要原因。&lt;/p&gt;
+全球需求小幅下修，供应预测明显上调
+&lt;p&gt;相比需求端，EIA此次更明显地调整了供应预测。&lt;/p&gt;
+&lt;p&gt;具体来看：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年全球原油需求&lt;/strong&gt;预计为&lt;strong&gt;1.028亿桶/日&lt;/strong&gt;，此前预测为1.029亿桶/日；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年需求&lt;/strong&gt;预计为&lt;strong&gt;1.048亿桶/日&lt;/strong&gt;，此前预测为1.053亿桶/日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;与此同时，全球供应预测明显上修：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年全球原油产量&lt;/strong&gt;预计达到&lt;strong&gt;1.019亿桶/日&lt;/strong&gt;，高于此前预测的9900万桶/日；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年全球产量&lt;/strong&gt;预计达到&lt;strong&gt;1.098亿桶/日&lt;/strong&gt;，高于此前预测的1.093亿桶/日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EIA认为，供应持续增长、库存不断累积，将使未来国际油价维持承压。&lt;/p&gt;
+美国原油产量继续增长，页岩油扩张料放缓
+&lt;p&gt;对于美国市场，EIA预计，美国石油产量仍将在今年创下新高。&lt;/p&gt;
+&lt;p&gt;报告预计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年美国原油产量&lt;/strong&gt;1380万桶/日，高于此前预测的1370万桶/日；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年产量&lt;/strong&gt;1400万桶/日，低于此前预计的1420万桶/日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EIA表示，今年较高的油价水平以及前期投资项目仍将支撑美国原油产量增长，但随着国际油价下行，2027年页岩油企业资本开支预计趋于谨慎，因此下调了远期产量预测。&lt;/p&gt;
+&lt;p&gt;美国石油消费变化则相对有限：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年需求&lt;/strong&gt;维持2070万桶/日不变；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年需求&lt;/strong&gt;小幅上调至2080万桶/日。&lt;/li&gt;
+&lt;/ul&gt;
+AI数据中心持续扩张 今年商业用户用电需求将史上超过住宅用户
+&lt;p&gt;除了石油市场，EIA此次还上调了美国电力需求预测，预计全年电力消费量将在&lt;strong&gt;2026年和2027年连续创历史新高&lt;/strong&gt;，主要受AI数据中心快速扩张、电气化进程推进以及商业和居民用电增长带动。&lt;/p&gt;
+&lt;p&gt;EIA预计，2026年，美国的全年电力需求将从2025年创纪录的4.195万亿千瓦时（kWh）升至4.269万亿千瓦时，2027年进一步升至4.399万亿千瓦时。&lt;/p&gt;
+&lt;p&gt;报告特别指出，AI应用快速普及推动大型科技企业持续扩建数据中心，算力基础设施已成为美国新增电力需求最重要的来源之一，也将继续支撑天然气发电需求。电力需求的增长主要由商业部门推动，&lt;strong&gt;预计2026年商业部门的用电需求将有史以来首次超过住宅部门&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;EIA预测，2026年，住宅用户的售电量将略降至1.508万亿千瓦时，而商业用户和工业用户的售电量将分别升至1.55万亿千瓦时和1.065万亿千瓦时。&lt;/p&gt;
+&lt;p&gt;相比之下，住宅用户和商业用户的历史最高用电量均出现在2025年，分别为1.515万亿千瓦时和1.493万亿千瓦时），而工业用户的历史最高用电量则出现在2000年，当时全年用电1.064万亿千瓦时。&lt;/p&gt;
+LNG出口继续增长，美国天然气供需双双走强
+&lt;p&gt;天然气方面，EIA继续上调美国供给预期。&lt;/p&gt;
+&lt;p&gt;报告预计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年美国天然气产量&lt;/strong&gt;1112亿立方英尺/日，高于此前预测1110亿立方英尺/日；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年产量&lt;/strong&gt;1153亿立方英尺/日，高于此前预测1136亿立方英尺/日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;需求方面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年天然气消费&lt;/strong&gt;维持921亿立方英尺/日不变；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年消费&lt;/strong&gt;维持950亿立方英尺/日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;出口方面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026年美国LNG出口&lt;/strong&gt;预计达到174亿立方英尺/日，高于此前预测172亿立方英尺/日；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2027年&lt;/strong&gt;维持186亿立方英尺/日不变。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EIA预计，随着更多液化天然气出口项目陆续投产，美国LNG出口规模未来仍将保持增长态势。&lt;/p&gt;
+&lt;p&gt;根据EIA安排，下一份《短期能源展望》（STEO）将于&lt;strong&gt;8月11日&lt;/strong&gt;发布。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 最长四十年期！亚马逊拟发行至少250亿美元债券，加码AI基础设施投资</title><link>https://wallstreetcn.com/articles/3776394</link><guid>cd558af40e78eeecb299adca6a4f091913a6b5dcbad76ed7210bfcc6f122da02</guid><pubDate>Tue, 07 Jul 2026 12:04:01 GMT</pubDate><description>&lt;p&gt;亚马逊正筹备一笔规模至少250亿美元的美元债券，成为超大规模云计算企业近期密集融资浪潮中的最新一例，凸显科技巨头在人工智能基础设施上的投入力度持续升温。&lt;/p&gt;
 
 &lt;p&gt;周二，彭博社援引知情人士透露，本次发行规模可能随投资者需求进一步扩大，最终方案尚未确定。&lt;strong&gt;债券将分为多达八个期限档次，期限跨度从3年延伸至40年&lt;/strong&gt;，承销行为巴克莱、高盛、摩根大通及摩根士丹利。&lt;/p&gt;
 &lt;p&gt;此次融资所得将用于一般公司用途，包括偿还债务、并购及资本支出。目前投资者对同类超大规模企业发债需求旺盛，近期多笔发行均获数倍超额认购。&lt;/p&gt;
@@ -328,4 +325,28 @@ SpaceX入指进一步放大波动
 &lt;p&gt;波动率持续攀升背后，是AI交易拥挤度不断提高。&lt;/p&gt;
 &lt;p&gt;彭博汇编数据显示，过去一个月纳斯达克100成分股之间的已实现相关性已高于标普500，&lt;strong&gt;意味着资金正更加集中流向少数AI和科技龙头，市场结构趋于单一。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Grinacoff指出，&lt;strong&gt;包括对冲基金、系统性策略基金以及传统共同基金在内，多类机构投资者都在持续追涨AI板块。&lt;/strong&gt;&amp;quot;传统共同基金基本需要追赶自身基准。&amp;quot;这意味着，一旦AI交易出现松动，机构能够继续加仓承接抛压的空间将越来越有限，市场或更多依赖散户资金托底。&lt;/p&gt;
-&lt;p&gt;与此同时，UBS预测VIX走势的模型已升至10个月高位，仅略低于预示VIX进一步上行的关键阈值，显示机构正不断提高对未来市场波动的预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 沙特史诗级降价解读，油运进入真供需阶段</title><link>http://xueqiu.com/1701766657/398730868</link><guid>d5279dfbcc87d83f56d05489c666fec0e04524959c52d67322b1dadd5a295155</guid><pubDate>Tue, 07 Jul 2026 09:23:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;沙特阿美将8月销往亚洲的阿拉伯轻质原油官方售价（OSP）大幅下调，创下26年来最大降幅。&lt;/p&gt;</description></item><item><title>[今日雪球] 证金持股在招行中的演变</title><link>http://xueqiu.com/1821992043/398739584</link><guid>30aa194dc7988c1cd272c8886611ed85bf8903abecfdfe5037cba61ba6d6d14d</guid><pubDate>Tue, 07 Jul 2026 09:22:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ice_招行谷子地&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近，关于国家队上半年快速减持手头宽基指数和部分蓝筹股的讨论较多。但是，绝大多数都是输出情绪，有的甚至不乏胡说八道。今天，群里有人转发了一篇贴子，大概是说证金一季度清仓式减持，说证金2024年低位无声无息的在招行踩点建仓，2026年高位派发，赚得盆满钵满，如下图1所示：&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;与此同时，UBS预测VIX走势的模型已升至10个月高位，仅略低于预示VIX进一步上行的关键阈值，显示机构正不断提高对未来市场波动的预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 法债收益率飙升！上诉法院大幅缩短参选禁令，勒庞宣布2027竞选法国总统</title><link>https://wallstreetcn.com/articles/3776404</link><guid>c32fa18b862402fbf4caf8fac7d04656e58049530b149e58fea598b09a594efb</guid><pubDate>Tue, 07 Jul 2026 18:19:38 GMT</pubDate><description>&lt;p&gt;法国政坛迎来重大转折。当地时间周二，&lt;strong&gt;法国上诉法院裁定，将极右翼领导人勒庞的参选禁令大幅缩短至其已服满的15个月，为其重返2027年法国总统大选扫清了最大法律障碍。&lt;/strong&gt;裁决公布后，法国国债收益率明显走高，市场开始重新评估未来法国政治格局及财政政策走向。&lt;/p&gt;
+&lt;p&gt;巴黎上诉法院主审法官Michèle Agi维持了勒庞挪用欧洲议会资金的有罪判决，但将一审判处的五年参选禁令大幅缩减。法院认为，自2025年3月31日起执行的禁令，已经&amp;quot;在符合公民基本权利保障的范围内弥补了对诚信原则的损害&amp;quot;，若继续执行，将过度限制候选资格自由这一民主选举的基本原则。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;法院还将勒庞原判两年监禁缩减至一年，并预计以佩戴电子脚镣的方式执行，而非实际入狱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;裁决公布后，法国国债价格跌幅扩大、收益率加速上行。到周二欧市尾盘，法国10年期国债收益率报3.792%，处于5月下旬以来高位，日内升5.8个基点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此后，美东时间7日周二午盘时段，勒庞对法国媒体表示，她将参加2027年法国总统选举，并计划对上诉法院的判决提起上诉。勒庞说：“既然我有权向最高法院提出上诉……且该上诉具有中止裁决执行效力的作用，因此我将不佩戴电子脚镣进行竞选活动。”&lt;/p&gt;
+最大法律障碍解除
+&lt;p&gt;此次裁决意味着，&lt;strong&gt;勒庞重新获得参加2027年总统大选的资格。不过，其竞选前景仍存在现实障碍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;勒庞此前曾公开表示，如果竞选期间必须佩戴电子脚镣，她可能放弃参选。离开法庭时，她未向媒体发表评论，并计划于当地时间晚间接受电视专访，外界预计她将正式表态是否继续角逐总统职位。&lt;/p&gt;
+&lt;p&gt;据彭博，裁决公布后，预测市场对勒庞胜选概率有所上调，但Jordan Bardella目前仍是市场最看好的国民联盟总统候选人。&lt;/p&gt;
+定罪维持，法院解释为何缩短禁令
+&lt;p&gt;法院认定，勒庞及National Rally多名成员长期挪用欧洲议会专项资金支付党内工作人员薪酬，相关行为持续逾11年，涉案金额超过280万欧元。&lt;/p&gt;
+&lt;p&gt;其中，勒庞被认定在2009年至2016年担任欧洲议会议员期间，违规挪用约47.4万欧元雇佣助理，并鼓励其他党内议员采取类似做法，以减轻国民联盟的财政负担。&lt;/p&gt;
+&lt;p&gt;案件争议焦点在于，这些助理虽然名义上受聘于欧洲议会，但实际主要从事法国国内党务工作，而非履行欧洲议会议员助理职责。一审中，共有25名个人及国民联盟党被判有罪，不过并非所有被告均提出上诉。&lt;/p&gt;
+&lt;p&gt;对于缩短参选禁令，法院指出，案发时法国法律并未要求必须施加长期竞选禁令，同时案件虽令国民联盟整体受益，但不存在勒庞个人借机牟取私利或中饱私囊的情形。&lt;/p&gt;
+竞选之路仍面临现实挑战
+&lt;p&gt;&lt;strong&gt;尽管法律障碍基本解除，勒庞真正投入全国竞选仍面临不少实际困难。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法国政治史学家、国民联盟问题专家Jean-Yves Camus表示，佩戴电子脚环通常意味着当事人夜间必须留在住所，这将极大限制总统候选人高密度巡回竞选的安排。&lt;/p&gt;
+&lt;p&gt;他认为，勒庞若决定参选，将不得不频繁申请特别许可，以协调竞选活动与司法监管要求，整个竞选过程&amp;quot;从后勤层面将异常复杂&amp;quot;。勒庞律师Rodolphe Bosselut则表示，团队欢迎法院大幅缩短参选禁令，但仍需研究完整判决内容，再决定是否采取进一步法律行动。&lt;/p&gt;
+&lt;p&gt;另一方面，代表欧洲议会的律师Patrick Maisonneuve表示，若勒庞最终放弃向最高法院提起上诉，本案将正式成为终局判决，也意味着她接受有罪裁决。&lt;/p&gt;
+2027年总统大选提前升温
+&lt;p&gt;此次裁决实际上提前点燃了2027年法国总统大选。&lt;/p&gt;
+&lt;p&gt;作为国民联盟主席，Jordan Bardella此前一直被视为勒庞无法参选情况下的接班人。这位30岁的年轻政治人物拥有不同于勒庞的政治形象，而后者则经过三次总统大选积累了广泛的选民基础。&lt;/p&gt;
+&lt;p&gt;最新民调显示，无论最终由勒庞还是Bardella代表国民联盟出战，两人均有望在总统选举首轮投票中位居前列。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于市场而言，勒庞重新获得参选资格意味着法国未来财政、欧盟政策及政治风险的不确定性重新升温，也成为法国国债收益率在裁决公布后走高的重要催化因素。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 沙特史诗级降价解读，油运进入真供需阶段</title><link>http://xueqiu.com/1701766657/398730868</link><guid>d5279dfbcc87d83f56d05489c666fec0e04524959c52d67322b1dadd5a295155</guid><pubDate>Tue, 07 Jul 2026 09:23:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;沙特阿美将8月销往亚洲的阿拉伯轻质原油官方售价（OSP）大幅下调，创下26年来最大降幅。&lt;/p&gt;</description></item><item><title>[今日雪球] 证金持股在招行中的演变</title><link>http://xueqiu.com/1821992043/398739584</link><guid>30aa194dc7988c1cd272c8886611ed85bf8903abecfdfe5037cba61ba6d6d14d</guid><pubDate>Tue, 07 Jul 2026 09:22:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ice_招行谷子地&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近，关于国家队上半年快速减持手头宽基指数和部分蓝筹股的讨论较多。但是，绝大多数都是输出情绪，有的甚至不乏胡说八道。今天，群里有人转发了一篇贴子，大概是说证金一季度清仓式减持，说证金2024年低位无声无息的在招行踩点建仓，2026年高位派发，赚得盆满钵满，如下图1所示：&lt;/p&gt;</description></item></channel></rss>
