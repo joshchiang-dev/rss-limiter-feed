@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 17:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] “我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球</title><link>https://wallstreetcn.com/articles/3776368</link><guid>ad4365d4667bad2ff6e0ecc480bdc40358f573547d002a5b6b54e9b6f3a321a5</guid><pubDate>Tue, 07 Jul 2026 07:31:50 GMT</pubDate><description>&lt;p&gt;7月6日，知名半导体研究机构SemiAnalysis在X平台连发六条推文，&lt;a href="https://wallstreetcn.com/articles/3776238?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;爆料英伟达Kyber NVL144机架因PCB中板制造难题延迟超12个月&lt;/a&gt;。亚洲AI硬件供应链应声大跌。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 17:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] “我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球</title><link>https://wallstreetcn.com/articles/3776368</link><guid>ad4365d4667bad2ff6e0ecc480bdc40358f573547d002a5b6b54e9b6f3a321a5</guid><pubDate>Tue, 07 Jul 2026 07:31:50 GMT</pubDate><description>&lt;p&gt;7月6日，知名半导体研究机构SemiAnalysis在X平台连发六条推文，&lt;a href="https://wallstreetcn.com/articles/3776238?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;爆料英伟达Kyber NVL144机架因PCB中板制造难题延迟超12个月&lt;/a&gt;。亚洲AI硬件供应链应声大跌。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776319?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;英伟达随后回应称“路线图未变”&lt;/a&gt;，但未披露具体进度细节。&lt;/p&gt;
 &lt;p&gt;争议未平。7月7日，SemiAnalysis又甩出一份付费长文，将“矛头”对准英伟达。但这一次他不再扮演“看空者”角色。&lt;/p&gt;
 &lt;p&gt;SemiAnalysi预计：&lt;strong&gt;到2029年，全球AI债务融资规模将突破7万亿美元。7万亿美元是什么概念？它将仅次于美国住房抵押贷款市场（约13万亿美元），&lt;/strong&gt;成为全球第二大资产支持债务市场。&lt;/p&gt;
@@ -132,31 +132,7 @@ Token成本担忧或被市场夸大
 微信Agent仍面临内部协同挑战
 &lt;p&gt;不过，伯恩斯坦也指出，腾讯AI战略仍存在一项尚未解决的重要问题。&lt;/p&gt;
 &lt;p&gt;报告称，目前腾讯重组后的AI团队已经在模型训练基础设施方面取得明显进展，但据了解，该团队似乎尚未获得微信数据的使用权限；与此同时，即将推出的微信AI Agent则主要由微信团队独立开发。&lt;/p&gt;
-&lt;p&gt;分析师认为，&lt;strong&gt;这种组织架构带来的割裂状态最终大概率会通过管理层协调解决，但为何双方目前仍未实现更深入协同，也将成为未来投资者关注腾讯AI战略执行的重要观察点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 被曝Copilot“瘦身”后微软又传“自力更生”降本：用自研AI替换OpenAI和Anthropic模型</title><link>https://wallstreetcn.com/articles/3776405</link><guid>508b999be3494691bc199ba7acdb90c511c748bcea244373b0272c800998c154</guid><pubDate>Tue, 07 Jul 2026 16:58:51 GMT</pubDate><description>&lt;p&gt;新近消息显示，除了对自家AI助手Copilot展开大规模重组，微软还走“自力更生”的道路：在多个核心产品中以自研模型取代第三方AI供应商，双管齐下压缩成本、重建市场竞争力。&lt;/p&gt;
-&lt;p&gt;据美东时间7日周二的美媒报道，微软已开始在Excel和Outlook等主力办公App中以内部自研的MAI模型替代OpenAI和Anthropic的模型，每周通过MAI模型处理的AI提示词已达数万条量级。&lt;/p&gt;
-&lt;p&gt;几天前，另有美媒获悉，微软执行副总裁Jacob Andreou向内部团队发出备忘录，宣布将整合消费者版和企业版Copilot的App，裁撤低效功能，目标是在客户眼中&amp;quot;赢得存在的权利&amp;quot;。&lt;/p&gt;
-&lt;p&gt;上述举措折射出微软当前面临的双重压力：一方面，对外部AI模型的依赖带来高昂的采购成本；另一方面，Copilot在市场上的表现持续承压，微软股价今年以来累计下跌近20%，在“科技七巨头”（Mag 7）中表现垫底，部分大股东已陆续减持。&lt;/p&gt;
-
-自研模型加速渗透，剑指降本目标
-
-&lt;p&gt;本周二，彭博社援引一名匿名知情者的消息称，Excel和Outlook如今每周已有数万条AI提示词由MAI模型完成处理，而此前这两款应用更多依赖OpenAI和Anthropic的模型。微软发言人对此消息拒绝置评。&lt;/p&gt;
-&lt;p&gt;MAI模型在微软办公产品中的渗透规模此前从未被公开披露。尽管相较于整体AI使用量，MAI模型目前仍只占其中一小部分，但这一进展表明，微软正在低成本自研AI路线上取得实质突破。&lt;/p&gt;
-&lt;p&gt;微软AI模型业务负责人Mustafa Suleiman今年6月曾公开表态，公司&amp;quot;支付给Anthropic大量资金，目标是减少并最终消除这一成本&amp;quot;。微软在6月开发者大会上发布了七款新AI模型，其中一款据称能以更低成本实现与Anthropic热门模型Opus 4.6相当的代码生成能力。&lt;/p&gt;
-&lt;p&gt;微软在AI计算上消耗巨量tokens。目前凭借与OpenAI的长期合作协议，微软仍能以折扣价获取大量技术支持，但该安排并非没有期限。Suleiman团队正竭力构建自有能力，以规避未来被动接受外部定价的风险。&lt;/p&gt;
-&lt;p&gt;除Excel和Outlook外，MAI模型已可在代码辅助服务GitHub Copilot中调用，Suleiman亦表示，微软自研的语音转录模型将于未来数月内部署至Teams视频会议应用及其他产品。&lt;/p&gt;
-
-Copilot大整合：砍掉无效功能，押注“超级应用”
-
-&lt;p&gt;据The Information本月2日上周四的报道，Jacob Andreou在一份约1200字的内部备忘录中宣布，微软将把消费者版与企业版Copilot合并为统一App，同时整合AI编程工具和名为AutoPilot的新一代AI智能体。这些AutoPilot智能体定位为“全天候在线”，代替用户执行日常事务性任务，其中一款名为Scout的智能体可管理日程并自动整理收件箱邮件摘要。&lt;/p&gt;
-&lt;p&gt;重组计划同步推进功能瘦身。报道提到，知情人士透露，可根据用户上传内容自动生成播客的Copilot Podcasts以及面向开发者的实验性功能平台Copilot Labs均将被关闭，两者均未能获得用户广泛认可。此外，Andreou此前还下令移除部分出现在Windows应用中的Copilot入口按钮——数据显示，大多数用户点击这些按钮纯属误操作，随即关闭。&lt;/p&gt;
-&lt;p&gt;整合后的新版Copilot计划于今年8月推出。除基础功能外，AI编程工具、AutoPilot智能体及Copilot Cowork等高级功能将作为付费附加模块提供。微软同时宣布设立规模25亿美元的AI咨询部门Microsoft Frontier Company，将派驻6000名行业与工程专家协助客户落地AI系统。&lt;/p&gt;
-
-Copilot用户增长加速，但与竞争对手差距仍大
-
-&lt;p&gt;Copilot的商业化进展在近期出现改观。微软今年1月披露付费用户数为1500万，至4月已增长33%至2000万，该产品起步定价为每位员工每月30美元。微软管理层表示，Copilot已帮助Office业务的营收增速在近几个季度有所提升。&lt;/p&gt;
-&lt;p&gt;然而，与主要竞争对手相比，差距仍然悬殊。ChatGPT目前付费订阅用户超过5000万；在月活跃用户层面，据Sensor Tower估算，Copilot约为3850万，而ChatGPT约为10亿。&lt;/p&gt;
-&lt;p&gt;Andreou在备忘录中坦承，Copilot功能的过度扩张已造成用户困惑，并&amp;quot;在内部成为一个令人尴尬的问题&amp;quot;。他表示，企业客户当前对AI投资回报率的审视日趋严格，&amp;quot;整个企业软件领域的门槛都在提高&amp;quot;。Andreou同时强调，Copilot应聚焦于&amp;quot;真实工作&amp;quot;，注重&amp;quot;以结果为导向&amp;quot;，而非&amp;quot;为了追求智能而追求智能&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Andreou于去年春季加入微软，今年年初得到CEO Satya Nadella晋升，主导Copilot改革，负责范围扩展至消费者与企业端两条产品线，以及Bing、MSN和Edge浏览器业务，麾下员工规模超过1.1万人。Nadella对其考核指标包括Copilot整体增长、用户留存率及客户满意度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊局势叠加三星财报扰动，纳斯达克100跌幅扩大至2%，存储股下挫，闪迪跌超11%，油价涨2%</title><link>https://wallstreetcn.com/articles/3776355</link><guid>d37126634896497bb622b526b55bc8a55028903d164e829b77c9c4d933201203</guid><pubDate>Tue, 07 Jul 2026 14:28:54 GMT</pubDate><description>&lt;p&gt;美股科技板块周二遭遇重挫，芯片股领跌，市场情绪明显承压。尽管三星公布的季度业绩超出预期，但投资者反而选择“卖事实”兑现收益，半导体板块遭遇集中抛售，估值压力加剧，市场对AI基础设施长期投入的可持续性也再起疑虑。&lt;/p&gt;
+&lt;p&gt;分析师认为，&lt;strong&gt;这种组织架构带来的割裂状态最终大概率会通过管理层协调解决，但为何双方目前仍未实现更深入协同，也将成为未来投资者关注腾讯AI战略执行的重要观察点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊局势叠加三星财报扰动，纳斯达克100跌幅扩大至2%，存储股下挫，闪迪跌超11%，油价涨2%</title><link>https://wallstreetcn.com/articles/3776355</link><guid>d37126634896497bb622b526b55bc8a55028903d164e829b77c9c4d933201203</guid><pubDate>Tue, 07 Jul 2026 14:28:54 GMT</pubDate><description>&lt;p&gt;美股科技板块周二遭遇重挫，芯片股领跌，市场情绪明显承压。尽管三星公布的季度业绩超出预期，但投资者反而选择“卖事实”兑现收益，半导体板块遭遇集中抛售，估值压力加剧，市场对AI基础设施长期投入的可持续性也再起疑虑。&lt;/p&gt;
 &lt;p&gt;三大指数开盘涨跌互现，道指小幅上涨0.09%，标普500指数下跌0.22%，以科技股为主的纳指跌幅达0.6%。盘中，纳指100指数跌幅迅速扩大至2%，标普500指数亦转为下跌约0.6%。&lt;/p&gt;
 &lt;p&gt;芯片股持续走低，闪迪跌超11%，西部数据跌近10%，美光科技、希捷科技跌超7%。半导体指数整体下挫6.1%，成分股中Astera Labs跌超11%，泰瑞达跌逾11%。龙头股英伟达也下跌1.3%，进一步拖累大盘。其他个股方面，电动汽车制造商Rivian因计划增发股票融资，股价大跌超12%。欧洲市场同样受到波及，STOXX 600指数跌幅扩大至0.5%。&lt;/p&gt;
 &lt;p&gt;地缘层面，据央视新闻，当地时间7日，据伊朗方面消息，伊朗伊斯兰革命卫队当天在霍尔木兹海峡阿曼一侧水域对一艘油轮采取行动。消息称，根据卫星监测数据，在该油轮遭拦截时，美军空中力量正在相关海域进行空中掩护。消息后，原油价格上涨至盘中高点，WTI原油价格接近每桶70美元。&lt;/p&gt;
@@ -357,7 +333,31 @@ AI行情是否切换，华尔街仍存分歧
 &lt;p&gt;只是，过去那种“先抢位置、再补细节”的打法，风险正在变高。&lt;/p&gt;
 &lt;p&gt;中国新能源产业链海外建厂的故事，正在从投资额竞争，转向运营能力竞争。&lt;/p&gt;
 &lt;p&gt;工厂建起来，只是第一关。能让它在欧洲长期转下去，才是真正的考题。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浪潮信息：预计上半年净利润26亿-31亿元，同比增长226%-288% | 财报见闻</title><link>https://wallstreetcn.com/articles/3776400</link><guid>b26d5bc76ce5508fd756d7dcef7b6bbf4d14a427c3156fb6f55573d569bb7994</guid><pubDate>Tue, 07 Jul 2026 13:26:21 GMT</pubDate><description>&lt;p&gt;国内服务器龙头企业浪潮信息发布业绩预告，上半年盈利能力大幅跃升，折射出国内AI基础设施投资热潮对相关硬件厂商的强劲拉动效应。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 被曝Copilot“瘦身”后微软又传“自力更生”降本：用自研AI替换OpenAI和Anthropic模型</title><link>https://wallstreetcn.com/articles/3776405</link><guid>508b999be3494691bc199ba7acdb90c511c748bcea244373b0272c800998c154</guid><pubDate>Tue, 07 Jul 2026 16:58:51 GMT</pubDate><description>&lt;p&gt;新近消息显示，除了对自家AI助手Copilot展开大规模重组，微软还走“自力更生”的道路：在多个核心产品中以自研模型取代第三方AI供应商，双管齐下压缩成本、重建市场竞争力。&lt;/p&gt;
+&lt;p&gt;据美东时间7日周二的美媒报道，微软已开始在Excel和Outlook等主力办公App中以内部自研的MAI模型替代OpenAI和Anthropic的模型，每周通过MAI模型处理的AI提示词已达数万条量级。&lt;/p&gt;
+&lt;p&gt;几天前，另有美媒获悉，微软执行副总裁Jacob Andreou向内部团队发出备忘录，宣布将整合消费者版和企业版Copilot的App，裁撤低效功能，目标是在客户眼中&amp;quot;赢得存在的权利&amp;quot;。&lt;/p&gt;
+&lt;p&gt;上述举措折射出微软当前面临的双重压力：一方面，对外部AI模型的依赖带来高昂的采购成本；另一方面，Copilot在市场上的表现持续承压，微软股价今年以来累计下跌近20%，在“科技七巨头”（Mag 7）中表现垫底，部分大股东已陆续减持。&lt;/p&gt;
+
+自研模型加速渗透，剑指降本目标
+
+&lt;p&gt;本周二，彭博社援引一名匿名知情者的消息称，Excel和Outlook如今每周已有数万条AI提示词由MAI模型完成处理，而此前这两款应用更多依赖OpenAI和Anthropic的模型。微软发言人对此消息拒绝置评。&lt;/p&gt;
+&lt;p&gt;MAI模型在微软办公产品中的渗透规模此前从未被公开披露。尽管相较于整体AI使用量，MAI模型目前仍只占其中一小部分，但这一进展表明，微软正在低成本自研AI路线上取得实质突破。&lt;/p&gt;
+&lt;p&gt;微软AI模型业务负责人Mustafa Suleiman今年6月曾公开表态，公司&amp;quot;支付给Anthropic大量资金，目标是减少并最终消除这一成本&amp;quot;。微软在6月开发者大会上发布了七款新AI模型，其中一款据称能以更低成本实现与Anthropic热门模型Opus 4.6相当的代码生成能力。&lt;/p&gt;
+&lt;p&gt;微软在AI计算上消耗巨量tokens。目前凭借与OpenAI的长期合作协议，微软仍能以折扣价获取大量技术支持，但该安排并非没有期限。Suleiman团队正竭力构建自有能力，以规避未来被动接受外部定价的风险。&lt;/p&gt;
+&lt;p&gt;除Excel和Outlook外，MAI模型已可在代码辅助服务GitHub Copilot中调用，Suleiman亦表示，微软自研的语音转录模型将于未来数月内部署至Teams视频会议应用及其他产品。&lt;/p&gt;
+
+Copilot大整合：砍掉无效功能，押注“超级应用”
+
+&lt;p&gt;据The Information本月2日上周四的报道，Jacob Andreou在一份约1200字的内部备忘录中宣布，微软将把消费者版与企业版Copilot合并为统一App，同时整合AI编程工具和名为AutoPilot的新一代AI智能体。这些AutoPilot智能体定位为“全天候在线”，代替用户执行日常事务性任务，其中一款名为Scout的智能体可管理日程并自动整理收件箱邮件摘要。&lt;/p&gt;
+&lt;p&gt;重组计划同步推进功能瘦身。报道提到，知情人士透露，可根据用户上传内容自动生成播客的Copilot Podcasts以及面向开发者的实验性功能平台Copilot Labs均将被关闭，两者均未能获得用户广泛认可。此外，Andreou此前还下令移除部分出现在Windows应用中的Copilot入口按钮——数据显示，大多数用户点击这些按钮纯属误操作，随即关闭。&lt;/p&gt;
+&lt;p&gt;整合后的新版Copilot计划于今年8月推出。除基础功能外，AI编程工具、AutoPilot智能体及Copilot Cowork等高级功能将作为付费附加模块提供。微软同时宣布设立规模25亿美元的AI咨询部门Microsoft Frontier Company，将派驻6000名行业与工程专家协助客户落地AI系统。&lt;/p&gt;
+
+Copilot用户增长加速，但与竞争对手差距仍大
+
+&lt;p&gt;Copilot的商业化进展在近期出现改观。微软今年1月披露付费用户数为1500万，至4月已增长33%至2000万，该产品起步定价为每位员工每月30美元。微软管理层表示，Copilot已帮助Office业务的营收增速在近几个季度有所提升。&lt;/p&gt;
+&lt;p&gt;然而，与主要竞争对手相比，差距仍然悬殊。ChatGPT目前付费订阅用户超过5000万；在月活跃用户层面，据Sensor Tower估算，Copilot约为3850万，而ChatGPT约为10亿。&lt;/p&gt;
+&lt;p&gt;Andreou在备忘录中坦承，Copilot功能的过度扩张已造成用户困惑，并&amp;quot;在内部成为一个令人尴尬的问题&amp;quot;。他表示，企业客户当前对AI投资回报率的审视日趋严格，&amp;quot;整个企业软件领域的门槛都在提高&amp;quot;。Andreou同时强调，Copilot应聚焦于&amp;quot;真实工作&amp;quot;，注重&amp;quot;以结果为导向&amp;quot;，而非&amp;quot;为了追求智能而追求智能&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Andreou于去年春季加入微软，今年年初得到CEO Satya Nadella晋升，主导Copilot改革，负责范围扩展至消费者与企业端两条产品线，以及Bing、MSN和Edge浏览器业务，麾下员工规模超过1.1万人。Nadella对其考核指标包括Copilot整体增长、用户留存率及客户满意度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浪潮信息：预计上半年净利润26亿-31亿元，同比增长226%-288% | 财报见闻</title><link>https://wallstreetcn.com/articles/3776400</link><guid>b26d5bc76ce5508fd756d7dcef7b6bbf4d14a427c3156fb6f55573d569bb7994</guid><pubDate>Tue, 07 Jul 2026 13:26:21 GMT</pubDate><description>&lt;p&gt;国内服务器龙头企业浪潮信息发布业绩预告，上半年盈利能力大幅跃升，折射出国内AI基础设施投资热潮对相关硬件厂商的强劲拉动效应。&lt;/p&gt;
 &lt;p&gt;浪潮信息周二公告显示，&lt;strong&gt;预计2026年上半年归属于上市公司股东的净利润为26亿元至31亿元，同比增长226%至288%；扣除非经常性损益后的净利润为20.55亿元至25.55亿元，同比增长206%至280%。上年同期净利润约为7.99亿元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;公司将业绩大幅增长归因于紧抓行业上行机遇，持续推进产品技术创新，完善产品线布局，提升产品附加值并增强供应保障能力。&lt;strong&gt;基本每股收益预计达1.77元至2.11元，较上年同期的0.54元显著提升。&lt;/strong&gt;&lt;/p&gt;
 盈利规模大幅扩张
@@ -365,23 +365,7 @@ AI行情是否切换，华尔街仍存分歧
 &lt;p&gt;上述数据尚未经会计师事务所预审计，公司表示具体财务数据将在2026年半年度报告中予以详细披露，并提示投资者注意相关投资风险。&lt;/p&gt;
 行业上行周期驱动增长
 &lt;p&gt;浪潮信息在公告中将业绩增长的核心驱动力归结为&amp;quot;行业上行机遇&amp;quot;。公司表示，报告期内坚持以市场为导向，通过产品技术创新和提升客户满意度，推动经营业绩大幅增长。&lt;/p&gt;
-&lt;p&gt;公司同时强调持续完善产品线布局、提升产品附加值以及增强供应保障能力，显示其在应对市场需求扩张的同时，亦着力夯实供应链韧性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街分析师警告：美股正形成"双重泡沫"，一旦破裂或引发30%-50%暴跌</title><link>https://wallstreetcn.com/articles/3776359</link><guid>e5e1226eb98ebaf620ced56c864ba374827438183254f534fe216051f2da8e36</guid><pubDate>Tue, 07 Jul 2026 05:50:45 GMT</pubDate><description>&lt;p&gt;美股在人工智能热潮推动下屡创新高，但华尔街分析师正发出罕见警告——当前市场面临的风险，远不止股价虚高那么简单。&lt;/p&gt;
-&lt;p&gt;Panmure Liberum分析师Joachim Klement和Francisca Reis在最新报告中指出，美股当前正同时酝酿&amp;quot;价格泡沫&amp;quot;与&amp;quot;盈利泡沫&amp;quot;，两者叠加形成&amp;quot;双重泡沫&amp;quot;结构。&lt;/p&gt;
-&lt;p&gt;若以经周期调整的席勒市盈率（Shiller CAPE）为基准，&lt;strong&gt;并将企业盈利修正至长期正常增速，当前标普500的估值将高达67.6倍，超越美国历史上所有资产泡沫的峰值。&lt;/strong&gt;BCA Research首席策略师Peter Berezin警告称，一旦泡沫破裂，美股可能下跌30%至50%。&lt;/p&gt;
-&lt;p&gt;尽管如此，美股近期仍维持强势。截至本周一收盘，标普500距历史高点不足1%，道琼斯工业平均指数突破53,000点创历史新高，纳斯达克综合指数上涨逾1%，半导体板块再度领涨。&lt;/p&gt;
-前瞻市盈率&amp;quot;失真&amp;quot;：盈利预期增速远超历史趋势
-&lt;p&gt;在多头阵营中，前瞻市盈率（Forward P/E）常被援引为股市估值尚属合理的依据。据道琼斯市场数据，标普500的前瞻市盈率已从一年前的22.4倍降至20.51倍，即便期间指数累计上涨约20%。这一现象的背后，是华尔街盈利预期的增速超过了股价涨幅本身。&lt;/p&gt;
-&lt;p&gt;据FactSet数据，分析师目前预计标普500成分股第二季度盈利增速将超过23%，这将是连续第七个季度实现两位数盈利增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，Klement和Reis指出，这种盈利增速与长期趋势存在显著背离。&lt;/strong&gt;当前标普500每股盈利的增速已高于长期趋势1.8个标准差，属于&amp;quot;超常态&amp;quot;水平。他们认为，若将盈利增速调整回正常轨道，席勒CAPE比率将从当前约41倍骤升至67.6倍，偏离长期趋势达4.6个标准差，超越美国历史上每一次资产泡沫的峰值。&lt;/p&gt;
-超大型科技公司转型，盈利增速正常化压力渐显
-&lt;p&gt;分析师将当前盈利泡沫的核心风险指向以微软、Alphabet、亚马逊、Meta Platforms和甲骨文为代表的&amp;quot;超大规模云计算企业&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Klement在英国《金融时报》的专栏文章中警告，&amp;quot;超常态&amp;quot;利润不可能永久持续。&lt;strong&gt;随着上述科技巨头持续大规模投入AI数据中心建设，其商业模式正从轻资产向重资产转型，&lt;/strong&gt;这一结构性变化将对盈利增速形成压制，使其逐步向正常水平回归。&lt;/p&gt;
-&lt;p&gt;Klement同时承认，这类盈利高增长周期往往比投资者预期的持续时间更长，当前盈利增势仍有可能延续数年。&lt;/p&gt;
-历史先例：低市盈率曾掩盖盈利泡沫
-&lt;p&gt;BCA Research的Peter Berezin援引历史案例，进一步阐释盈利泡沫的危险性。他指出，2007至2008年全球金融危机爆发前，银行和房屋建筑商同样经历了盈利的非理性繁荣，彼时偏低的市盈率掩盖了利润的不可持续性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;更普遍地说，盈利泡沫在具有繁荣-萧条周期特征的行业中十分常见，包括自然资源、航空、航运，以及在当前环境下尤为值得关注的半导体行业，&amp;quot;&lt;/strong&gt;Berezin在5月底的报告中写道。他在上周发布的三季度展望中进一步指出，华尔街分析师在判断盈利泡沫顶点方面表现极差，而一旦泡沫破裂，股市可能下跌30%至50%。&lt;/p&gt;
-&lt;p&gt;对盈利预期过于乐观的担忧并非孤例。Damped Spring Advisors首席执行官Andy Costan在5月的&amp;quot;Monetary Matters&amp;quot;节目中表示，美国经济的增长速度不足以支撑华尔街分析师所预设的盈利水平。华尔街资深人士Jim Paulsen近期也在公开发文中表示，他认为当前市场对盈利的过度乐观情绪已构成风险。&lt;/p&gt;
-&lt;p&gt;与此同时，美股在6月出现震荡，并延续至7月初，以半导体股为核心的强势动量交易一度遭遇阻力。不过，半导体板块本周一重拾升势，带动纳斯达克综合指数上涨1.1%，市场情绪暂时回稳。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“编排”走红，微软的机会来了？</title><link>https://wallstreetcn.com/articles/3776335</link><guid>ee25072a08e60e78383545b66100bdad04e6e35b16a6869b1e3f4b0012523849</guid><pubDate>Tue, 07 Jul 2026 08:15:42 GMT</pubDate><description>&lt;p&gt;随着企业对AI预算愈发审慎，一个新的行业关键词正在浮出水面——“编排”（Orchestration）。分析师认为，&lt;strong&gt;微软有望凭借其横跨云端、平台与终端的产品矩阵，成为企业AI工作流的核心&amp;quot;编排层&amp;quot;，在这场成本控制浪潮中占据有利位置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司同时强调持续完善产品线布局、提升产品附加值以及增强供应保障能力，显示其在应对市场需求扩张的同时，亦着力夯实供应链韧性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“编排”走红，微软的机会来了？</title><link>https://wallstreetcn.com/articles/3776335</link><guid>ee25072a08e60e78383545b66100bdad04e6e35b16a6869b1e3f4b0012523849</guid><pubDate>Tue, 07 Jul 2026 08:15:42 GMT</pubDate><description>&lt;p&gt;随着企业对AI预算愈发审慎，一个新的行业关键词正在浮出水面——“编排”（Orchestration）。分析师认为，&lt;strong&gt;微软有望凭借其横跨云端、平台与终端的产品矩阵，成为企业AI工作流的核心&amp;quot;编排层&amp;quot;，在这场成本控制浪潮中占据有利位置。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;quot;编排&amp;quot;的核心逻辑在于：&lt;strong&gt;企业在使用多个AI模型时，需要一套统一机制来协调任务分配、数据流转与输出整合，&lt;/strong&gt;从而在不同模型之间灵活切换，并将每项任务路由至成本最低的模型。&lt;/p&gt;
 &lt;p&gt;D.A. Davidson分析师Gil Luria在近期研究报告中写道：&amp;quot;解决方案正变得清晰——企业希望构建一种方式，在不影响业务运营的前提下切换AI模型，同时通过将每个查询和任务路由至最廉价的模型来管理成本。&amp;quot;&lt;/p&gt;
 &lt;p&gt;这一趋势对微软构成直接利好。Melius Research分析师Ben Reitzes在周一的研究报告中指出，微软已将自身定位为企业访问AI算力的&amp;quot;安全、模型无关的通道&amp;quot;。与此同时，微软股价今年已累计下跌约20%，跌幅主要集中在第一季度，如何向投资者证明基于消费量的编排合同能够弥补传统按用户收费软件模式的潜在放缓，将是更为迫切的挑战。&lt;/p&gt;
@@ -396,19 +380,32 @@ AI行情是否切换，华尔街仍存分歧
 股价承压，商业模式转型待验证
 &lt;p&gt;尽管编排叙事为微软提供了新的增长逻辑，但投资者目前仍面临不确定性。微软股价今年已下跌约20%，跌幅主要集中于第一季度，与其他软件股走势一致。&lt;/p&gt;
 &lt;p&gt;Reitzes指出，对微软而言，或许更为紧迫的挑战在于向投资者证明，以消费量为基础、聚焦编排的合同模式，能够切实抵消传统按用户订阅软件业务可能出现的增速放缓。&lt;/p&gt;
-&lt;p&gt;此外，微软首席人力官Amy Coleman周二宣布，公司将裁员4800人，约占全球员工总数的2.1%，这一消息也为其近期基本面增添了新的变量。编排层的战略布局能否转化为可量化的财务回报，仍有待市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本名义工资再次上涨3%，创1992年以来最长期连续增长记录</title><link>https://wallstreetcn.com/articles/3776345</link><guid>2477f16c08fbd91a347534e7a9135dfd34ce9d4327c16f57a9d71e60134e44a3</guid><pubDate>Tue, 07 Jul 2026 05:43:15 GMT</pubDate><description>&lt;p&gt;日本宏观经济正呈现出显著的结构性撕裂。名义工资创下三十年来最长连增纪录，却未能有效转化为消费动能，内需疲软与中小企业生存困境相互交织，勾勒出经济复苏进程中的复杂图景。&lt;/p&gt;
-&lt;p&gt;周二，日本最新数据显示，&lt;strong&gt;5月名义工资同比上涨3.2%，实际工资增长1.4%，双双延续强劲增势。然而，家庭支出却同比下降0.4%，连续第六个月下滑，&lt;/strong&gt;凸显出工资增长未能抵消通胀侵蚀与消费信心不足的深层矛盾。&lt;/p&gt;
-&lt;p&gt;尽管消费端表现疲软，但工资上涨的底层逻辑依然稳固。市场不仅没有削弱对日本央行收紧政策的押注，&lt;strong&gt;反而将12月前加息的概率推高至88%，定价央行将继续推进货币正常化进程。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一“工资-消费”背离现象与中小企业破产潮的叠加，不仅考验着日本经济的内生韧性，也为日本央行在复杂内外环境下的政策抉择提供了关键的数据锚点。&lt;/p&gt;
-工资与消费的结构性背离
-&lt;p&gt;日本5月名义工资同比上涨3.2%（4月数据被上修至3.6%），虽略低于经济学家预期，但标志着自1992年以来首次连续四个月增幅超过3%。经通胀调整后的实际工资上涨1.4%，实现连续第五个月增长。&lt;/p&gt;
-&lt;p&gt;这一数据延续了今年工资谈判的强劲势头，日本最大工会联合会成员连续第三年获得超5%的加薪，创下1989年至1991年以来的首次。&lt;/p&gt;
-&lt;p&gt;然而，工资账面的繁荣并未转化为实质性的消费扩张。5月家庭支出同比下降0.4%，连续第六个月陷入萎缩。这种背离的根源在于，尽管名义工资上涨，但持续的生活成本压力仍在侵蚀居民的实际购买力。消费者在面对不确定性时倾向于增加储蓄而非支出，导致内需复苏动能持续受限。&lt;/p&gt;
-劳动力短缺反噬中小企业
-&lt;p&gt;在大型企业通过加薪留住人才的同时，中小企业正面临严峻的生存考验。今年上半年，日本因劳动力短缺而破产的企业数量达到237家，创下历史新高。&lt;/p&gt;
-&lt;p&gt;这一数据反映出劳动力市场极度紧绷对微观经济主体的挤压。在劳动力成本上升和招工困难的双重夹击下，缺乏定价权和成本转嫁能力的中小企业首当其冲。&lt;/p&gt;
-&lt;p&gt;企业破产数量的攀升不仅拖累了整体经济复苏的步伐，也暴露出日本经济在结构性转型期所面临的阵痛。若中小企业大面积退出市场，将进一步削弱经济活力，并对长期的工资增长形成反噬。&lt;/p&gt;
-日本央行或进一步加息
-&lt;p&gt;尽管内需疲软和中小企业困境构成了经济复苏的逆风，但日本央行年内继续加息的预期却愈发强烈。市场目前定价12月前再次加息的概率高达88%，部分原因正是工资数据的持续强劲强化了“工资-物价”良性循环的逻辑。&lt;/p&gt;
-&lt;p&gt;SMBC Nikko Securities经济学家Naoto Sekiguchi指出，&lt;strong&gt;随着原油价格趋稳，若当前工资水平得以维持，实际工资将继续保持正增长，预计日本央行将维持加息路径。&lt;/strong&gt;Taro Kimura也认为，雇主在紧张的劳动力市场中为保持竞争力而持续加薪，为央行削减刺激措施提供了充分理由。&lt;/p&gt;
-&lt;p&gt;不过，央行的决策并非毫无掣肘。在4月的政策会议上，委员会内部在是否尽早加息的问题上已显现出明显分歧。行长植田和男近期的表态也转向谨慎，强调需密切关注中东局势及油价上涨对经济物价的潜在冲击。在工资上涨的底层支撑与外部地缘风险、内需结构性矛盾的博弈中，日本央行的政策正常化之路仍需在数据验证中谨慎前行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 藏格矿业上半年业绩预告分析</title><link>http://xueqiu.com/1674052027/398717491</link><guid>71532a8c9459fffb08b6c8be385028dd391f7e58f1dcb30787a8e4a40aa6c3d7</guid><pubDate>Tue, 07 Jul 2026 09:22:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;金哥777&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;我个人认为这业绩预告是有一点点超预期的，二季度铜均价和一季度差不多，金银均价同比一季度少了不少，但伴生矿钼价是涨了不少，特别是现在的价格更高了。假设每吨净利润是7.1万，参考一季度巨龙铜矿42.7亿净利润，销售6.05万吨，吨铜净利润7.1万，藏格投资收益13.14亿，这业绩预告上半年投资收益是28亿，二季度投资收益14.9亿左右，假设吨铜净利润差不多，二季度销售铜6.85万吨，比一季度只是多了0.8万吨，上半年总的产铜12.9万吨，今年根据藏格矿业的产能指引，产铜可能会到31万吨，下半年产铜有可能到18万吨，假设还是上半年的铜，钼，银，金均价，藏格全年巨龙铜矿投资收益67.7亿。&lt;/p&gt;</description></item><item><title>[今日雪球] 沙特史诗级降价解读，油运进入真供需阶段</title><link>http://xueqiu.com/1701766657/398730868</link><guid>d5279dfbcc87d83f56d05489c666fec0e04524959c52d67322b1dadd5a295155</guid><pubDate>Tue, 07 Jul 2026 09:23:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;沙特阿美将8月销往亚洲的阿拉伯轻质原油官方售价（OSP）大幅下调，创下26年来最大降幅。&lt;/p&gt;</description></item><item><title>[今日雪球] 证金持股在招行中的演变</title><link>http://xueqiu.com/1821992043/398739584</link><guid>30aa194dc7988c1cd272c8886611ed85bf8903abecfdfe5037cba61ba6d6d14d</guid><pubDate>Tue, 07 Jul 2026 09:22:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ice_招行谷子地&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近，关于国家队上半年快速减持手头宽基指数和部分蓝筹股的讨论较多。但是，绝大多数都是输出情绪，有的甚至不乏胡说八道。今天，群里有人转发了一篇贴子，大概是说证金一季度清仓式减持，说证金2024年低位无声无息的在招行踩点建仓，2026年高位派发，赚得盆满钵满，如下图1所示：&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此外，微软首席人力官Amy Coleman周二宣布，公司将裁员4800人，约占全球员工总数的2.1%，这一消息也为其近期基本面增添了新的变量。编排层的战略布局能否转化为可量化的财务回报，仍有待市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国消费者通胀预期再度升温！纽约联储调查：一年期升至2023年9月以来最高，医疗和房租成最大担忧</title><link>https://wallstreetcn.com/articles/3776403</link><guid>2bc0357a8c05c9014ad0e33b48d311cd3941f86fcf336cfdaeed898d75df9252</guid><pubDate>Tue, 07 Jul 2026 15:34:21 GMT</pubDate><description>&lt;p&gt;美国消费者的短期和中期通胀预期在6月显著升温。&lt;/p&gt;
+&lt;p&gt;根据纽约联储周二发布的消费者预期调查，&lt;strong&gt;6月一年期通胀预期升至3.7%，为2023年9月以来最高，高于5月的3.5%；三年期预期则升至3.3%，创下2022年6月以来新高。&lt;/strong&gt;相比之下，五年期预期维持在3.0%不变，显示长期通胀锚定仍相对稳定。&lt;/p&gt;
+&lt;p&gt;不过，与通胀预期走高形成对比的是，美国家庭对自身财务状况、就业市场以及未来股市表现的信心有所改善，显示消费者仍认为经济整体保持韧性。&lt;/p&gt;
+通胀预期明显分化：汽油降温，医疗与房租成上涨主力
+&lt;p&gt;从细分项目来看，各类价格预期出现明显分化。汽油价格未来一年预计仅上涨1.5%，为2022年中以来的最低水平；食品价格预期上涨5.0%，较此前略有改善。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;医疗费用和房租的上涨预期显著走高，分别预计上涨9.4%和8.3%，成为推动整体通胀预期上升的主要因素。&lt;/strong&gt;此外，大学教育费用预期上涨5.7%，同样维持在较高水平。&lt;/p&gt;
+&lt;p&gt;纽约联储指出，&lt;strong&gt;医疗成本和房租上涨预期的明显增强，是近、中期通胀预期走高的核心驱动力。&lt;/strong&gt;这两项支出在美国家庭预算中占比较大，其预期的持续攀升可能对消费者实际生活成本形成长期压力，也使得通胀回落的前景更加复杂。&lt;/p&gt;
+劳动力市场信心改善，但跳槽意愿降至近三年低位
+&lt;p&gt;调查亦显示，&lt;strong&gt;消费者对就业市场的整体判断趋于乐观。&lt;/strong&gt;受访者对未来失业概率的预期有所下降，同时在失业后三个月内重新找到工作的可能性也出现上升，反映出就业安全感有所增强。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;消费者主动辞职意愿却持续走低，降至2023年7月以来的最低水平。&lt;/strong&gt;该指标通常被视为衡量劳动力市场信心的关键参考，其下降说明尽管就业环境仍保持稳健，但员工主动流动意愿明显减弱，市场活力有所收敛。&lt;/p&gt;
+&lt;p&gt;这一趋势与此前公布的美国6月非农就业数据相吻合。数据显示，失业率降至4.2%，但新增就业人数较前期有所放缓，表明就业市场仍具韧性，同时也在逐步降温，整体处于温和调整之中。&lt;/p&gt;
+家庭财务信心回暖，股市乐观情绪升至多年高位
+&lt;p&gt;与此同时，美国家庭对自身财务状况的乐观情绪有所提升。认为当前财务状况好于一年前的家庭比例上升，对未来一年财务状况的预期也进一步改善。消费者对收入增长的预期升至2.8%，创下2025年3月以来最高水平。&lt;/p&gt;
+&lt;p&gt;此外，消费者对美国股市的乐观情绪持续升温，预计未来一年股价上涨的平均概率升至2021年4月以来最高，显示出居民风险偏好仍维持在较高水平，对经济前景的信心尚未明显减弱。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 最长四十年期！亚马逊拟发行至少250亿美元债券，加码AI基础设施投资</title><link>https://wallstreetcn.com/articles/3776394</link><guid>cd558af40e78eeecb299adca6a4f091913a6b5dcbad76ed7210bfcc6f122da02</guid><pubDate>Tue, 07 Jul 2026 12:04:01 GMT</pubDate><description>&lt;p&gt;亚马逊正筹备一笔规模至少250亿美元的美元债券，成为超大规模云计算企业近期密集融资浪潮中的最新一例，凸显科技巨头在人工智能基础设施上的投入力度持续升温。&lt;/p&gt;
+
+&lt;p&gt;周二，彭博社援引知情人士透露，本次发行规模可能随投资者需求进一步扩大，最终方案尚未确定。&lt;strong&gt;债券将分为多达八个期限档次，期限跨度从3年延伸至40年&lt;/strong&gt;，承销行为巴克莱、高盛、摩根大通及摩根士丹利。&lt;/p&gt;
+&lt;p&gt;此次融资所得将用于一般公司用途，包括偿还债务、并购及资本支出。目前投资者对同类超大规模企业发债需求旺盛，近期多笔发行均获数倍超额认购。&lt;/p&gt;
+
+八档期限覆盖短中长期，最长期限溢价约145基点
+
+&lt;p&gt;据知情人士透露，&lt;strong&gt;本次债券分为最多八个期限，覆盖3年至40年，发行方要求对方不具名，因相关细节尚未公开。&lt;/strong&gt;其中最长期限为2066年到期债券，初始价格指引为较美国国债利率溢价约145基点。&lt;/p&gt;
+&lt;p&gt;巴克莱、高盛、摩根大通及摩根士丹利担任本次债券发行的承销管理行。摩根大通代表拒绝置评，亚马逊及其他承销行代表未立即回应置评请求。&lt;/p&gt;
+&lt;p&gt;募集资金将用于一般公司用途，可能涵盖偿还债务、企业收购及资本支出等方向。&lt;/p&gt;
+
+超大规模云计算企业密集发债，AI基础设施投资驱动融资需求
+
+&lt;p&gt;本次发债是超大规模云计算企业近期一系列大规模债券发行的最新案例。上述企业正将数千亿美元投入人工智能基础设施建设，由此催生庞大的融资需求。&lt;/p&gt;
+&lt;p&gt;据彭博报道，市场投资者迄今表现出强劲买盘意愿，近期多笔同类发行均获得数倍于发行规模的认购订单，显示固定收益市场对该类别信用资产需求持续旺盛。&lt;/p&gt;
+&lt;p&gt;亚马逊此次融资规模之大，进一步表明超大规模云计算企业在AI军备竞赛中的资本支出预期仍在上修，债券市场正持续承接这一融资浪潮。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 藏格矿业上半年业绩预告分析</title><link>http://xueqiu.com/1674052027/398717491</link><guid>71532a8c9459fffb08b6c8be385028dd391f7e58f1dcb30787a8e4a40aa6c3d7</guid><pubDate>Tue, 07 Jul 2026 09:22:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;金哥777&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;我个人认为这业绩预告是有一点点超预期的，二季度铜均价和一季度差不多，金银均价同比一季度少了不少，但伴生矿钼价是涨了不少，特别是现在的价格更高了。假设每吨净利润是7.1万，参考一季度巨龙铜矿42.7亿净利润，销售6.05万吨，吨铜净利润7.1万，藏格投资收益13.14亿，这业绩预告上半年投资收益是28亿，二季度投资收益14.9亿左右，假设吨铜净利润差不多，二季度销售铜6.85万吨，比一季度只是多了0.8万吨，上半年总的产铜12.9万吨，今年根据藏格矿业的产能指引，产铜可能会到31万吨，下半年产铜有可能到18万吨，假设还是上半年的铜，钼，银，金均价，藏格全年巨龙铜矿投资收益67.7亿。&lt;/p&gt;</description></item><item><title>[今日雪球] 沙特史诗级降价解读，油运进入真供需阶段</title><link>http://xueqiu.com/1701766657/398730868</link><guid>d5279dfbcc87d83f56d05489c666fec0e04524959c52d67322b1dadd5a295155</guid><pubDate>Tue, 07 Jul 2026 09:23:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;沙特阿美将8月销往亚洲的阿拉伯轻质原油官方售价（OSP）大幅下调，创下26年来最大降幅。&lt;/p&gt;</description></item><item><title>[今日雪球] 证金持股在招行中的演变</title><link>http://xueqiu.com/1821992043/398739584</link><guid>30aa194dc7988c1cd272c8886611ed85bf8903abecfdfe5037cba61ba6d6d14d</guid><pubDate>Tue, 07 Jul 2026 09:22:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ice_招行谷子地&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近，关于国家队上半年快速减持手头宽基指数和部分蓝筹股的讨论较多。但是，绝大多数都是输出情绪，有的甚至不乏胡说八道。今天，群里有人转发了一篇贴子，大概是说证金一季度清仓式减持，说证金2024年低位无声无息的在招行踩点建仓，2026年高位派发，赚得盆满钵满，如下图1所示：&lt;/p&gt;</description></item></channel></rss>
