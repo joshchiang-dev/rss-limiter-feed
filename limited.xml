@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 01:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 存储“涨到头”了吗？</title><link>https://wallstreetcn.com/articles/3776336</link><guid>b0c83d76fbaed2f1387a1d9892ed2ca35f91257a1c89075d60ca063f4828890c</guid><pubDate>Tue, 07 Jul 2026 01:46:40 GMT</pubDate><description>&lt;p&gt;摩根士丹利亚太区科技团队认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 02:29:43 GMT</lastBuildDate><item><title>[华尔街见闻] 存储“涨到头”了吗？</title><link>https://wallstreetcn.com/articles/3776336</link><guid>b0c83d76fbaed2f1387a1d9892ed2ca35f91257a1c89075d60ca063f4828890c</guid><pubDate>Tue, 07 Jul 2026 01:46:40 GMT</pubDate><description>&lt;p&gt;摩根士丹利亚太区科技团队认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，摩根士丹利亚太区科技分析师Shawn Kim及Ryan Kim等人在7月6日研报中称，当前存储芯片市场最核心的三大争议：&lt;strong&gt;涨价周期是否见顶、长期协议（LTA）为何未能推动估值重估、以及这究竟是周期顶部还是牛市中继调整&lt;/strong&gt;。研报的核心结论可以用一句话概括：&lt;strong&gt;涨价的变化速率（rate of change）正在触顶，但周期本身尚未终结。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;大摩认为，随着最大的AI算力买家据传开始出售闲置算力，以及企业端对“代币最小化”（Token minimization）的诉求加剧，存储板块的上涨动能正在衰退。&lt;/p&gt;
 &lt;p&gt;值得注意的是，&lt;a href="https://wallstreetcn.com/articles/3776333"&gt;大摩首席美股策略师Michael Wilson&lt;/a&gt;在最新一期周度报告中向客户发出明确信号：&lt;strong&gt;减持半导体，转向超大规模云计算商。&lt;/strong&gt;Michael Wilson将&lt;strong&gt;半导体股票走势类比白银&lt;/strong&gt;，二者均经历抛物线式上涨，均具有大宗商品属性，&lt;strong&gt;当前调整或仍未结束，存储芯片（Memory）首当其冲。&lt;/strong&gt;虽然大摩亚太区科技团队也认为，存储板块的上涨动能正在衰退，但是大摩两个团队的逻辑却并不一样。&lt;/p&gt;
@@ -43,7 +43,31 @@
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
+&lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
+&lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
+&lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
+一则爆料引发连锁反应：Kyber NVL144延期疑云
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;SemiAnalysis在社交平台发布的分析内容&lt;/a&gt;，英伟达代号Kyber NVL144的AI服务器机架系统在高端PCB（印刷电路板）制造环节遭遇技术瓶颈，导致项目交付时间可能推迟超过12个月，甚至延后至2028年前后。&lt;/p&gt;
+&lt;p&gt;该机构同时提到，该架构是在英伟达此前GTC展示后的关键升级路径之一，原本被视为其AI算力“scale-out”路线的重要节点。&lt;/p&gt;
+&lt;p&gt;不过，据美东时间6日周一美股午盘之初的媒体报道，英伟达的一位发言人通过邮件声明称：“我们的路线图保持不变（Our road map is intact）。”&lt;/p&gt;
+&lt;p&gt;英伟达未披露Kyber NVL144项目的进度细节，也未证实任何延期情况。&lt;/p&gt;
+&lt;p&gt;市场人士指出，在AI基础设施高投入周期中，即便是非官方、未经验证的供应链传闻，也可能对情绪产生放大效应。&lt;/p&gt;
+亚洲算力供应链遭遇抛售：PCB与封装环节首当其冲
+&lt;p&gt;受SemiAnalysis的传闻冲击，亚洲AI硬件供应链在本周一交易中普遍承压，尤其集中在PCB及高端材料领域。&lt;/p&gt;
+&lt;p&gt;日本PCB制造商Ibiden一度跌约10%，市场将其视为英伟达核心供应链之一。与此同时，香港上市的Kingboard Laminates Holdings一度重挫约18%，台湾上市的Elite Material Co.收跌约10%，韩国三星旗下零部件公司Samsung Electro-Mechanics盘中曾跌超10%。&lt;/p&gt;
+&lt;p&gt;从更广泛的板块来看，MSCI相关半导体及科技指数在近期已连续回调，部分机构统计显示，两周内累计跌幅已接近一成，显示AI交易拥挤度正在被重新定价。&lt;/p&gt;
+&lt;p&gt;市场评论普遍认为，此轮下跌并非单一事件驱动，而是“高位敏感结构”下的典型反应。&lt;/p&gt;
+市场解读：从“增长叙事”转向“交付与节奏风险”
+&lt;p&gt;针对Kyber NVL144传闻，部分机构认为，即便存在延迟，也未必意味着AI资本开支周期见顶。&lt;/p&gt;
+&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan指出，项目延期“更可能意味着英伟达最激进的新一代系统架构需要更长时间部署”，但并不必然削弱整体AI基础设施需求。&lt;/p&gt;
+&lt;p&gt;不过他同时强调，当前市场对AI交易已高度敏感，任何与供应链、交付节奏相关的不确定性，都可能触发阶段性获利了结与板块轮动。&lt;/p&gt;
+&lt;p&gt;韩国券商NH Investment &amp;amp; Securities亦表示，此次抛售体现出“区域科技板块的广泛走弱”，Kyber NVL144相关传闻叠加其他AI供给侧担忧，正在放大投资者对下一代算力平台不确定性的定价。&lt;/p&gt;
+&lt;p&gt;此外，市场还在关注本周多个关键催化剂，包括三星电子的财报，以及存储巨头SK海力士美股IPO与行业指引，这些都可能进一步影响AI链条情绪。&lt;/p&gt;
+AI交易进入“验证期”：从预期驱动到现实约束
+&lt;p&gt;过去两年，AI行情的核心驱动力是算力需求的持续上修与供应链扩张预期，而当前阶段市场正在逐步进入“执行验证期”：&lt;/p&gt;
+&lt;p&gt;一方面，超大规模云厂商资本开支仍在高位运行，需求端未出现明显拐点；另一方面，复杂机架系统、先进PCB与封装工艺的瓶颈，使得交付节奏本身成为新的不确定变量。&lt;/p&gt;
+&lt;p&gt;因此，即便英伟达强调“路线图未变”，市场的反应更多集中在“节奏风险”而非“需求崩塌”。这也解释了为何相关供应链股价波动明显放大——在高估值背景下，市场对任何“延迟叙事”都高度敏感。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
 &lt;p&gt;黄金因ETF持续流出而小幅走低；比特币则在特朗普公开表态力挺加密货币后强势反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数周一上涨1.3%，标普500指数涨0.7%，道琼斯工业平均指数上涨0.3%，盘中突破53000点整数关口。英伟达确认服务器路线图未受影响，博通宣布与苹果芯片合作延伸至2031年，提振市场对AI基础设施投资持续性的信心。&lt;/p&gt;
@@ -208,31 +232,7 @@ AI交易重燃，但芯片股表现分化
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，BE半导体实业公司收跌5.49%，马士基B类股跌5.45%，康士伯海事股份跌4.79%跌幅第三大。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
-&lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
-&lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
-&lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
-一则爆料引发连锁反应：Kyber NVL144延期疑云
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;SemiAnalysis在社交平台发布的分析内容&lt;/a&gt;，英伟达代号Kyber NVL144的AI服务器机架系统在高端PCB（印刷电路板）制造环节遭遇技术瓶颈，导致项目交付时间可能推迟超过12个月，甚至延后至2028年前后。&lt;/p&gt;
-&lt;p&gt;该机构同时提到，该架构是在英伟达此前GTC展示后的关键升级路径之一，原本被视为其AI算力“scale-out”路线的重要节点。&lt;/p&gt;
-&lt;p&gt;不过，据美东时间6日周一美股午盘之初的媒体报道，英伟达的一位发言人通过邮件声明称：“我们的路线图保持不变（Our road map is intact）。”&lt;/p&gt;
-&lt;p&gt;英伟达未披露Kyber NVL144项目的进度细节，也未证实任何延期情况。&lt;/p&gt;
-&lt;p&gt;市场人士指出，在AI基础设施高投入周期中，即便是非官方、未经验证的供应链传闻，也可能对情绪产生放大效应。&lt;/p&gt;
-亚洲算力供应链遭遇抛售：PCB与封装环节首当其冲
-&lt;p&gt;受SemiAnalysis的传闻冲击，亚洲AI硬件供应链在本周一交易中普遍承压，尤其集中在PCB及高端材料领域。&lt;/p&gt;
-&lt;p&gt;日本PCB制造商Ibiden一度跌约10%，市场将其视为英伟达核心供应链之一。与此同时，香港上市的Kingboard Laminates Holdings一度重挫约18%，台湾上市的Elite Material Co.收跌约10%，韩国三星旗下零部件公司Samsung Electro-Mechanics盘中曾跌超10%。&lt;/p&gt;
-&lt;p&gt;从更广泛的板块来看，MSCI相关半导体及科技指数在近期已连续回调，部分机构统计显示，两周内累计跌幅已接近一成，显示AI交易拥挤度正在被重新定价。&lt;/p&gt;
-&lt;p&gt;市场评论普遍认为，此轮下跌并非单一事件驱动，而是“高位敏感结构”下的典型反应。&lt;/p&gt;
-市场解读：从“增长叙事”转向“交付与节奏风险”
-&lt;p&gt;针对Kyber NVL144传闻，部分机构认为，即便存在延迟，也未必意味着AI资本开支周期见顶。&lt;/p&gt;
-&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan指出，项目延期“更可能意味着英伟达最激进的新一代系统架构需要更长时间部署”，但并不必然削弱整体AI基础设施需求。&lt;/p&gt;
-&lt;p&gt;不过他同时强调，当前市场对AI交易已高度敏感，任何与供应链、交付节奏相关的不确定性，都可能触发阶段性获利了结与板块轮动。&lt;/p&gt;
-&lt;p&gt;韩国券商NH Investment &amp;amp; Securities亦表示，此次抛售体现出“区域科技板块的广泛走弱”，Kyber NVL144相关传闻叠加其他AI供给侧担忧，正在放大投资者对下一代算力平台不确定性的定价。&lt;/p&gt;
-&lt;p&gt;此外，市场还在关注本周多个关键催化剂，包括三星电子的财报，以及存储巨头SK海力士美股IPO与行业指引，这些都可能进一步影响AI链条情绪。&lt;/p&gt;
-AI交易进入“验证期”：从预期驱动到现实约束
-&lt;p&gt;过去两年，AI行情的核心驱动力是算力需求的持续上修与供应链扩张预期，而当前阶段市场正在逐步进入“执行验证期”：&lt;/p&gt;
-&lt;p&gt;一方面，超大规模云厂商资本开支仍在高位运行，需求端未出现明显拐点；另一方面，复杂机架系统、先进PCB与封装工艺的瓶颈，使得交付节奏本身成为新的不确定变量。&lt;/p&gt;
-&lt;p&gt;因此，即便英伟达强调“路线图未变”，市场的反应更多集中在“节奏风险”而非“需求崩塌”。这也解释了为何相关供应链股价波动明显放大——在高估值背景下，市场对任何“延迟叙事”都高度敏感。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶</title><link>https://wallstreetcn.com/articles/3776333</link><guid>c7f9f958fcde8a6a550884c6c44169b05e6085256b058ce9ef44064b53a09632</guid><pubDate>Tue, 07 Jul 2026 00:37:19 GMT</pubDate><description>&lt;p&gt;摩根士丹利说，AI没有结束，但该轮到超大规模云厂商（Hyperscalers）领涨了。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶</title><link>https://wallstreetcn.com/articles/3776333</link><guid>c7f9f958fcde8a6a550884c6c44169b05e6085256b058ce9ef44064b53a09632</guid><pubDate>Tue, 07 Jul 2026 00:37:19 GMT</pubDate><description>&lt;p&gt;摩根士丹利说，AI没有结束，但该轮到超大规模云厂商（Hyperscalers）领涨了。&lt;/p&gt;
 &lt;p&gt;摩根士丹利首席美股策略师Michael Wilson在最新一期周度报告中向客户发出明确信号：&lt;strong&gt;减持半导体，转向超大规模云计算商。&lt;/strong&gt;这不是看空AI，而是一次轮动——AI投资周期内已发生过三次类似调整，Wilson认为，这是第四次。&lt;/p&gt;
 &lt;p&gt;芯片股在经历了自3月底以来的历史性涨幅后，近期出现明显降温。高贝塔动量股组合&lt;strong&gt;（即存储与芯片股）&lt;/strong&gt;录得新冠疫情以来最大两日跌幅。Wilson判断，这种回调&lt;strong&gt;“可能还有进一步空间”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;这一判断并非临时起意——Wilson早在2025年11月的年度展望中就提出了“市场扩散”交易（broadening trade）的框架，核心逻辑是：美国经济在2025年4月完成滚动式衰退后进入新一轮扩张周期，盈利增长将好于预期，&lt;strong&gt;市场领涨力量理应从AI资本开支受益者向更广泛板块扩散。&lt;/strong&gt;&lt;/p&gt;
@@ -340,26 +340,7 @@ Meta的那句话，点燃了导火索
 &lt;p&gt;腾讯可灵AI次轮融资的重要参与方，计划通过两主体合计出资约13.63亿元人民币，持股比例约为1.12%。 &lt;/p&gt;
 &lt;p&gt;这一前一后的资本动作，看似矛盾，实则印证了腾讯投资逻辑正在发生变化。相比继续大量持有成熟互联网平台股权，腾讯更倾向于把资金配置到具有更高成长性的AI业务本身。&lt;/p&gt;
 &lt;p&gt;从这一角度来看，腾讯本次减持更像是一场“资本再配置”——将成熟投资收益，转向下一轮技术周期。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银：芯片股“夏季回调、秋季反弹”，存储“估值偏低，应该扩张”</title><link>https://wallstreetcn.com/articles/3776339</link><guid>de49118a0d644bb1de57daded2e88703708ecee7b87073f8eaeb09dffe30be2e</guid><pubDate>Tue, 07 Jul 2026 01:28:59 GMT</pubDate><description>&lt;p&gt;美国银行证券最新报告认为，半导体行业当前调整属于健康重置而非结构性转变，并对存储芯片的长期投资价值给出明确背书。&lt;/p&gt;
-&lt;p&gt;据追风交易台，美国银行分析师Vivek Arya在7月6日的报告指出，费城半导体指数在第二季度大涨88%后，第三季度已回调11%，与历史上季节性最弱时段的规律高度吻合，&lt;strong&gt;其将此次回调定性为&amp;quot;夏季重置&amp;quot;，并预判秋季有望迎来反弹&lt;/strong&gt;。&lt;strong&gt;在存储领域，报告重申对美光科技的买入评级，目标价1550美元，称其为首选标的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述判断对当前市场情绪具有直接参考意义。在中国开源模型快速崛起、市场对AI资本开支可持续性存在疑虑的背景下，该报告为半导体行业的需求逻辑提供了系统性辩护，并对存储芯片的估值修复路径作出明确预判。&lt;/p&gt;
-季节性回调不改趋势，AI周期根基稳固
-&lt;p&gt;美银认为，SOX指数第三季度的11%回调符合历史季节性规律，不应被解读为AI需求的结构性恶化。报告指出，整固期过后往往伴随动能的重新积聚，驱动力来自投资者对下一轮盈利增长和资本开支周期信心的恢复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;全球云计算与AI基础设施资本开支到2027年将接近1.5万亿美元，较当前水平再增长40%至50%，支撑因素包括算力需求持续扩张、AI智能体加速落地以及供给端的结构性约束。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告强调，超大规模云厂商的战略重心仍在于最大化利用率与业务增长，而非优化折旧摊销，这意味着资本开支的刚性较强。随着2027年云端资本开支的能见度在2026年下半年逐步提升，预计存储（MU）、计算（AMD、INTC）、半导体设备（AMAT、LRCX、KLAC、TER）、光学（MTSI）及网络（CRDO、MRVL）等细分方向将重新获得市场领导地位。&lt;/p&gt;
-中国开源模型冲击软件利润，对半导体需求是利好
-&lt;p&gt;报告正面回应了市场对中国AI模型的担忧。GLM、Kimi、DeepSeek、Qwen等中国开放权重模型已迅速缩小与美国顶尖前沿实验室的差距，并以大幅更低的推理成本参与竞争。截至7月4日的最新第三方基准排名显示，美国Anthropic和OpenAI的前沿模型仍保持领先，但中国模型已占据前16名中的8席，其中排名最高的是智谱（Z.ai）发布的GLM 5.2——一个拥有7500亿参数、百万上下文窗口的开放权重模型。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;中国模型的崛起对AI软件利润率构成真实压力，但对半导体需求而言反而是利好。&lt;/strong&gt;低成本智能化将扩大使用场景、拓宽部署范围，最终推升对算力、存储、网络及电力基础设施的整体需求。报告明确表示，更大的风险在于模型经济学，而非半导体需求本身。&lt;/p&gt;
-&lt;p&gt;此外，报告指出英伟达正积极参与开源社区建设，此举不仅有助于改善其硬件生态，也有助于将中小规模AI采用者纳入其生态体系——这类客户往往缺乏直接对接前沿实验室的资源。&lt;/p&gt;
-存储估值严重低估，多重因素支撑倍数扩张
-&lt;p&gt;对存储芯片的判断是本次报告中立场最为鲜明的部分。报告指出，&lt;strong&gt;存储目前约占云端AI资本开支的35%至40%，是历史水平的2至3倍，但存储股的估值仅在10倍远期市盈率附近徘徊，明显偏低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场低估了行业向长期协议和更可预测定价模式转型的进程。投资者对定价持续性、新增供给和客户集中度的担忧，导致估值长期受压，但这一判断存在偏差。随着存储从周期性大宗商品向AI战略性基础设施演进，估值倍数理应获得修复。&lt;/p&gt;
-&lt;p&gt;基于上述逻辑，美银重申对美光科技的买入评级，目标价1550美元，将其列为半导体板块首选标的。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 终于结束9连跌！甲骨文过去22个交易日跌了18天</title><link>https://wallstreetcn.com/articles/3776328</link><guid>f1f5bbd0bae0f9e1a109211770f418f65e67872b84961eeef256f8149222dd2c</guid><pubDate>Tue, 07 Jul 2026 00:11:38 GMT</pubDate><description>&lt;p&gt;甲骨文股价在经历自2021年以来最长连跌后终于止血，但这场跌势的深度与持续性仍令市场侧目。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 终于结束9连跌！甲骨文过去22个交易日跌了18天</title><link>https://wallstreetcn.com/articles/3776328</link><guid>f1f5bbd0bae0f9e1a109211770f418f65e67872b84961eeef256f8149222dd2c</guid><pubDate>Tue, 07 Jul 2026 00:11:38 GMT</pubDate><description>&lt;p&gt;甲骨文股价在经历自2021年以来最长连跌后终于止血，但这场跌势的深度与持续性仍令市场侧目。&lt;/p&gt;
 &lt;p&gt;隔夜甲骨文股价收涨2.49%，报143.76美元，终结此前长达9个交易日的连续下跌，创下自6月15日以来单日最大涨幅。盘中股价一度触及145.62美元，较前收盘价高出3.8%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;然而，这次反弹难以掩盖更深层的颓势。自6月1日触及2026年收盘高点248.15美元以来，甲骨文在过去22个交易日中有18天录得下跌，累计跌幅达26.2%。&lt;/p&gt;
@@ -451,4 +432,23 @@ HBM霸主地位奠定估值基础
 &lt;p&gt;随着ADR发行的推进，韩股与美股之间的跨市场转换额度成为套利资金博弈的核心变量。市场预估，韩股转美股ADR的可转换额度上限为15%或20%，对应可转换股票总市值接近2000亿美元。&lt;/p&gt;
 &lt;p&gt;当前，市场已开始构建做多美股ADR、做空韩国正股的跨市场套利交易。该策略的核心逻辑在于押注转换额度耗尽后，海外资金只能直接在美股抢购ADR，从而长期形成美股存托凭证相对韩股的溢价。作为参考，台积电ADR相对台股在2026年6月的平均溢价高达16%。&lt;/p&gt;
 &lt;p&gt;虽然多数观点认为额度消耗将是一个漫长的过程，但市场预期的预期差正在形成。&lt;/p&gt;
-&lt;p&gt;在存储芯片行业高度景气的背景下，海外资金入场速度可能远超预期。未来存量股票的跨市场转换规模将直接改变SK海力士在美股ETF中的权重，额度用尽的节奏及溢价显现的时间点，或将比市场预想来得更快。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在存储芯片行业高度景气的背景下，海外资金入场速度可能远超预期。未来存量股票的跨市场转换规模将直接改变SK海力士在美股ETF中的权重，额度用尽的节奏及溢价显现的时间点，或将比市场预想来得更快。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银：芯片股“夏季回调、秋季反弹”，存储“估值偏低，应该扩张”</title><link>https://wallstreetcn.com/articles/3776339</link><guid>de49118a0d644bb1de57daded2e88703708ecee7b87073f8eaeb09dffe30be2e</guid><pubDate>Tue, 07 Jul 2026 01:28:59 GMT</pubDate><description>&lt;p&gt;美国银行证券最新报告认为，半导体行业当前调整属于健康重置而非结构性转变，并对存储芯片的长期投资价值给出明确背书。&lt;/p&gt;
+&lt;p&gt;据追风交易台，美国银行分析师Vivek Arya在7月6日的报告指出，费城半导体指数在第二季度大涨88%后，第三季度已回调11%，与历史上季节性最弱时段的规律高度吻合，&lt;strong&gt;其将此次回调定性为&amp;quot;夏季重置&amp;quot;，并预判秋季有望迎来反弹&lt;/strong&gt;。&lt;strong&gt;在存储领域，报告重申对美光科技的买入评级，目标价1550美元，称其为首选标的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述判断对当前市场情绪具有直接参考意义。在中国开源模型快速崛起、市场对AI资本开支可持续性存在疑虑的背景下，该报告为半导体行业的需求逻辑提供了系统性辩护，并对存储芯片的估值修复路径作出明确预判。&lt;/p&gt;
+季节性回调不改趋势，AI周期根基稳固
+&lt;p&gt;美银认为，SOX指数第三季度的11%回调符合历史季节性规律，不应被解读为AI需求的结构性恶化。报告指出，整固期过后往往伴随动能的重新积聚，驱动力来自投资者对下一轮盈利增长和资本开支周期信心的恢复。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全球云计算与AI基础设施资本开支到2027年将接近1.5万亿美元，较当前水平再增长40%至50%，支撑因素包括算力需求持续扩张、AI智能体加速落地以及供给端的结构性约束。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告强调，超大规模云厂商的战略重心仍在于最大化利用率与业务增长，而非优化折旧摊销，这意味着资本开支的刚性较强。随着2027年云端资本开支的能见度在2026年下半年逐步提升，预计存储（MU）、计算（AMD、INTC）、半导体设备（AMAT、LRCX、KLAC、TER）、光学（MTSI）及网络（CRDO、MRVL）等细分方向将重新获得市场领导地位。&lt;/p&gt;
+中国开源模型冲击软件利润，对半导体需求是利好
+&lt;p&gt;报告正面回应了市场对中国AI模型的担忧。GLM、Kimi、DeepSeek、Qwen等中国开放权重模型已迅速缩小与美国顶尖前沿实验室的差距，并以大幅更低的推理成本参与竞争。截至7月4日的最新第三方基准排名显示，美国Anthropic和OpenAI的前沿模型仍保持领先，但中国模型已占据前16名中的8席，其中排名最高的是智谱（Z.ai）发布的GLM 5.2——一个拥有7500亿参数、百万上下文窗口的开放权重模型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中国模型的崛起对AI软件利润率构成真实压力，但对半导体需求而言反而是利好。&lt;/strong&gt;低成本智能化将扩大使用场景、拓宽部署范围，最终推升对算力、存储、网络及电力基础设施的整体需求。报告明确表示，更大的风险在于模型经济学，而非半导体需求本身。&lt;/p&gt;
+&lt;p&gt;此外，报告指出英伟达正积极参与开源社区建设，此举不仅有助于改善其硬件生态，也有助于将中小规模AI采用者纳入其生态体系——这类客户往往缺乏直接对接前沿实验室的资源。&lt;/p&gt;
+存储估值严重低估，多重因素支撑倍数扩张
+&lt;p&gt;对存储芯片的判断是本次报告中立场最为鲜明的部分。报告指出，&lt;strong&gt;存储目前约占云端AI资本开支的35%至40%，是历史水平的2至3倍，但存储股的估值仅在10倍远期市盈率附近徘徊，明显偏低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场低估了行业向长期协议和更可预测定价模式转型的进程。投资者对定价持续性、新增供给和客户集中度的担忧，导致估值长期受压，但这一判断存在偏差。随着存储从周期性大宗商品向AI战略性基础设施演进，估值倍数理应获得修复。&lt;/p&gt;
+&lt;p&gt;基于上述逻辑，美银重申对美光科技的买入评级，目标价1550美元，将其列为半导体板块首选标的。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
