@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 06:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 07:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升</title><link>https://wallstreetcn.com/articles/3776262</link><guid>818725965a4f50f0bb1b28a27abb7ec7c0e7d191043dc280e7027143af11059b</guid><pubDate>Mon, 06 Jul 2026 23:06:56 GMT</pubDate><description>&lt;p&gt;美股周一全线上扬，科技股领跑，打断了上周连续下跌的颓势。与此同时，沙特大幅下调原油售价加剧供应过剩忧虑，国际油价承压。&lt;/p&gt;
 &lt;p&gt;黄金因ETF持续流出而小幅走低；比特币则在特朗普公开表态力挺加密货币后强势反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数周一上涨1.3%，标普500指数涨0.7%，道琼斯工业平均指数上涨0.3%，盘中突破53000点整数关口。英伟达确认服务器路线图未受影响，博通宣布与苹果芯片合作延伸至2031年，提振市场对AI基础设施投资持续性的信心。&lt;/p&gt;
@@ -366,28 +366,7 @@ Q玻璃基M9将跑赢PTFE，各子板块抗跌顺序有别
 &lt;p&gt;BCA Research的Peter Berezin援引历史案例，进一步阐释盈利泡沫的危险性。他指出，2007至2008年全球金融危机爆发前，银行和房屋建筑商同样经历了盈利的非理性繁荣，彼时偏低的市盈率掩盖了利润的不可持续性。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;更普遍地说，盈利泡沫在具有繁荣-萧条周期特征的行业中十分常见，包括自然资源、航空、航运，以及在当前环境下尤为值得关注的半导体行业，&amp;quot;&lt;/strong&gt;Berezin在5月底的报告中写道。他在上周发布的三季度展望中进一步指出，华尔街分析师在判断盈利泡沫顶点方面表现极差，而一旦泡沫破裂，股市可能下跌30%至50%。&lt;/p&gt;
 &lt;p&gt;对盈利预期过于乐观的担忧并非孤例。Damped Spring Advisors首席执行官Andy Costan在5月的&amp;quot;Monetary Matters&amp;quot;节目中表示，美国经济的增长速度不足以支撑华尔街分析师所预设的盈利水平。华尔街资深人士Jim Paulsen近期也在公开发文中表示，他认为当前市场对盈利的过度乐观情绪已构成风险。&lt;/p&gt;
-&lt;p&gt;与此同时，美股在6月出现震荡，并延续至7月初，以半导体股为核心的强势动量交易一度遭遇阻力。不过，半导体板块本周一重拾升势，带动纳斯达克综合指数上涨1.1%，市场情绪暂时回稳。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 便宜又能打！美国企业越来越爱用中国AI，OpenRouter平台占比一度达到46%</title><link>https://wallstreetcn.com/articles/3776361</link><guid>e27bc5afa93adb93e233bf1a6be9d8075ab43f322ef9348edea560da20069f79</guid><pubDate>Tue, 07 Jul 2026 06:23:47 GMT</pubDate><description>&lt;p&gt;中国AI模型凭借大幅低于美国同类产品的价格，正在快速渗透美国企业市场。性价比优势叠加性能持续追近，正推动越来越多的美国开发者和企业将工作负载切换至中国模型。&lt;/p&gt;
-&lt;p&gt;在开发者平台OpenRouter上，美国企业使用中国AI模型的token占比自2月8日以来每周均维持在30%以上，峰值一度攀升至46%。而此前12个月的均值仅为11%，2025年上半年更低至4.5%。这一骤变发生在OpenAI、Anthropic等美国顶尖AI实验室持续提高旗舰模型定价的背景下，让成本敏感度日益上升的企业加速转向。&lt;/p&gt;
-
-成本压力驱动切换
-
-&lt;p&gt;价格是此轮迁移潮的核心驱动力。据OpenRouter数据与分析团队的Justin Summerville透露，中国开源模型的使用成本比Anthropic和OpenAI的领先模型&amp;quot;便宜60%至90%&amp;quot;。&lt;/p&gt;
-&lt;p&gt;AI创业公司Lindy是这一趋势的典型案例。&lt;strong&gt;该公司在2026年6月将全部流量从Anthropic的Claude模型切换至DeepSeek。&amp;quot;你能看到那条成本曲线直接崩落到地板上，&amp;quot;Lindy CEO Flo Crivello对CNBC表示。他预计这一决定将在数月内为公司节省数百万美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;布鲁金斯学会John L. Thornton中国研究中心研究员Kyle Chan指出：&amp;quot;随着AI成本飙升，中国AI模型对美国企业的吸引力显著增强。此前美国企业在AI采用上不计较模型来源，现在他们的成本意识越来越强。&amp;quot;&lt;/p&gt;
-
-性能快速追近前沿
-
-&lt;p&gt;价格优势之外，中国模型的性能表现同样令市场侧目。&lt;/p&gt;
-&lt;p&gt;智谱于6月发布的GLM 5.2在一项受到广泛关注的智能体基准测试中，成绩与Anthropic的Opus 4.8相差不足一个百分点，而成本仅为后者的约五分之一。部分研究人员表示，GLM 5.2在某些网络安全基准测试上的表现已可与美国顶尖实验室比肩。&lt;/p&gt;
-&lt;p&gt;Vercel旗下智能体基础设施负责人Harpreet Arora表示，GLM 5.2创下了Vercel在2026年追踪记录中最快的模型采用速度——&amp;quot;上线后第一个完整周内，日均token量增长约27倍，使用客户数量增长约80倍。&amp;quot;&lt;/p&gt;
-&lt;p&gt;据Vercel数据，DeepSeek的网关token占比亦在5月至6月间持续攀升。&lt;/p&gt;
-&lt;p&gt;Summerville表示，新一批开源模型&amp;quot;表现出色，除最复杂的大语言模型任务外均已证明具备实用能力&amp;quot;。Chan估计，中国顶尖模型目前落后美国前沿产品&amp;quot;约六到九个月&amp;quot;，但已在许多主流场景中具备足够竞争力。&lt;/p&gt;
-
-企业采用范围扩大
-
-&lt;p&gt;中国模型的渗透正从初创公司向更广泛的企业群体延伸。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在面向受监管行业的AI智能体平台LaunchLemonade上，Claude和ChatGPT仍占据使用量榜首，但GLM 5.2已跻身平台前五。&lt;/strong&gt;LaunchLemonade创始人兼CEO Cien Solon表示：&amp;quot;智谱和阿里巴巴的Qwen等中国模型正成为企业的可选项，在特定工作负载上提供了性能与成本的理想组合。AI策略更为成熟的企业，越来越愿意在技术或商业逻辑成立的场景下使用它们。&amp;quot;&lt;/p&gt;
-&lt;p&gt;Hugging Face机器学习负责人Yacine Jernite则点明了更深层的结构性趋势：&amp;quot;我们看到企业越来越希望转向成本更低、自身可掌控和定制的AI栈，而鉴于当前开源和开放权重模型的现状，这往往意味着借助中国模型。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本名义工资再次上涨3%，创1992年以来最长期连续增长记录</title><link>https://wallstreetcn.com/articles/3776345</link><guid>2477f16c08fbd91a347534e7a9135dfd34ce9d4327c16f57a9d71e60134e44a3</guid><pubDate>Tue, 07 Jul 2026 05:43:15 GMT</pubDate><description>&lt;p&gt;日本宏观经济正呈现出显著的结构性撕裂。名义工资创下三十年来最长连增纪录，却未能有效转化为消费动能，内需疲软与中小企业生存困境相互交织，勾勒出经济复苏进程中的复杂图景。&lt;/p&gt;
+&lt;p&gt;与此同时，美股在6月出现震荡，并延续至7月初，以半导体股为核心的强势动量交易一度遭遇阻力。不过，半导体板块本周一重拾升势，带动纳斯达克综合指数上涨1.1%，市场情绪暂时回稳。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本名义工资再次上涨3%，创1992年以来最长期连续增长记录</title><link>https://wallstreetcn.com/articles/3776345</link><guid>2477f16c08fbd91a347534e7a9135dfd34ce9d4327c16f57a9d71e60134e44a3</guid><pubDate>Tue, 07 Jul 2026 05:43:15 GMT</pubDate><description>&lt;p&gt;日本宏观经济正呈现出显著的结构性撕裂。名义工资创下三十年来最长连增纪录，却未能有效转化为消费动能，内需疲软与中小企业生存困境相互交织，勾勒出经济复苏进程中的复杂图景。&lt;/p&gt;
 &lt;p&gt;周二，日本最新数据显示，&lt;strong&gt;5月名义工资同比上涨3.2%，实际工资增长1.4%，双双延续强劲增势。然而，家庭支出却同比下降0.4%，连续第六个月下滑，&lt;/strong&gt;凸显出工资增长未能抵消通胀侵蚀与消费信心不足的深层矛盾。&lt;/p&gt;
 &lt;p&gt;尽管消费端表现疲软，但工资上涨的底层逻辑依然稳固。市场不仅没有削弱对日本央行收紧政策的押注，&lt;strong&gt;反而将12月前加息的概率推高至88%，定价央行将继续推进货币正常化进程。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一“工资-消费”背离现象与中小企业破产潮的叠加，不仅考验着日本经济的内生韧性，也为日本央行在复杂内外环境下的政策抉择提供了关键的数据锚点。&lt;/p&gt;
@@ -422,73 +401,28 @@ SK海力士跑赢三星说明了什么
 机构在看什么
 &lt;p&gt;Causeway Capital Management的Brian Cho说得直接：市场真正想看的，是自由现金流改善能否形成可持续的阶梯式变化，以及管理层怎么对待股东回报。定价逻辑已经从&amp;quot;利润增速有多快&amp;quot;转向&amp;quot;这些利润能不能变成真实的现金，分配给股东&amp;quot;。&lt;/p&gt;
 &lt;p&gt;高盛维持对韩股的看涨立场，预计KOSPI未来12个月升至12000点，韩国上市企业今年利润增幅预测320%。&lt;/p&gt;
-&lt;p&gt;三星完整财报将于本月底发布。各业务部门的拆分数据，会告诉市场这轮AI资本开支究竟转化了多少真实价值。那个数字，是下一阶段AI硬件投资逻辑的重要参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指跌超1%失守4000点，半导体产业链逆势活跃，恒指、恒科指冲高回落均转跌，芯片股大跌</title><link>https://wallstreetcn.com/articles/3776344</link><guid>d29ed262db45af463a957311562949df9776e9931e9b23f4173367735d3c6314</guid><pubDate>Tue, 07 Jul 2026 04:13:12 GMT</pubDate><description>&lt;p&gt;A股和港股存储芯片承压，江波龙、佰维存储、兆易创新等纷纷下跌，此前韩国芯片巨头三星电子股价大幅跳水，一度暴跌超6%，拖累韩国KOSPI指数一度跌超4%。消息面，三星电子初步业绩报告显示，2026年第二季度营收预计为171万亿韩元，略超市场预期；营业利润预计为89.4万亿韩元，同比大幅增长1810%，高于市场预期。&lt;/p&gt;
-&lt;p&gt;7月7日，A股震荡调整，三大股指全线下跌，沪指跌超1%失守4000点，创业板盘初冲高翻红之后再度转跌，盘中一度跌超1%，半导体产业链反弹，半导体硅片、ASIC芯片、半导体产业等方向大幅拉升，培育钻石、网络游戏等概念股活跃，煤炭、石油化工、医药等板块陷入调整。&lt;/p&gt;
-&lt;p&gt;港股冲高回落，恒指、恒科指盘初双双上涨，恒科指一度涨超2%，随后恒指、恒科指均转跌，科网股分化，快手跌超7%。存储芯片回落，兆易创新跌超8%。债市方面，国债期货多数下跌。商品方面，国内商品期货分化，沪银等金属期货承压。核心市场走势：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌1.04%，深成指跌1.02%，创业板指跌0.78%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.42%，恒科指跌0.28%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货多数下跌，截至发稿，30年期主力合约持平，10年期主力合约跌0.01%，5年期主力合约持平，2年期主力合约跌0.01%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至发稿，能源品涨幅居前，LPG涨2.14%；油脂油料多数上涨，菜油涨1.86%；黑色系多数上涨，不锈钢涨1.83%；化工品多数上涨，苯乙烯涨1.47%；航运期货跌幅居前，集运指数(欧线)跌5.03%；农副产品多数下跌，红枣跌2.38%；贵金属全部下跌，沪银跌2.30%；新能源材料全部下跌，碳酸锂跌2.22%；非金属建材全部下跌，玻璃跌2.05%；基本金属多数下跌，氧化铝跌0.44%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;12:04&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，连续反弹的权重科技股走势分化，腾讯寻求出售公司股份，快手大跌超9%，京东、百度走低，美团、腾讯相对强势；三星利润暴增难掩隐忧，存储半导体股大幅下挫，南方两倍做多三星电子、南方两倍做多海力士暴跌，PCB概念股、黄金股、光伏股等齐跌。另外，手游股、AI应用概念股逆势活跃。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利首席股票策略师Michael Wilson在最新报告中指出，近期半导体板块动能衰竭，费城半导体指数较高点已跌近12%，资金正转向微软、亚马逊、Meta等AI超算巨头及消费、生物科技等板块。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11:58&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股呈现普跌态势，沪深京三市超4700股飘绿，上午半天成交1.64万亿。沪深两市半日成交额1.63万亿，较上个交易日缩量5757亿。板块方面，石油化工、海运、医药、餐饮旅游板块跌幅居前，半导体硅片、半导体设备、GPU概念逆势走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;具体来看，半导体产业链逆势活跃，有研硅、东微半导、瑞芯微等涨停，沐曦股份涨超15%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;半导体设备概念股方面，有研硅20CM涨停。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;游戏股盘中拉升，星辉娱乐涨超10%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;下跌方面，创新药概念下挫，海南海药跌停；ST板块集体走低，ST麦趣等多股封跌停板。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10:34&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上证指数跌幅扩大至1%，创业板指跌0.9%。石化、海运、医药、贵金属板块跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10:15&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生科技指数日内涨超2%，美团涨超7%，腾讯涨超5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:59&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;半导体硅片概念持续走强，有研硅触及20cm涨停，上海合晶涨近10%，沪硅产业、TCL中环、立昂微、中晶科技跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，财通证券研报指出，今年5月中上旬，全球硅片龙头信越化学、SUMCO、环球晶圆开启年内第二轮提价，其中12英寸常规硅片涨价5%至8%，适配AI/HPC场景的高端专用硅片涨幅达18%至22%，年内两轮提价累计涨幅超15%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:51&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;培育钻石概念震荡拉升，惠丰钻石涨超10%，夜光明涨超25%，黄河旋风、沃尔德、四方达、力量钻石跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，东吴证券认为，AI算力需求爆发叠加英伟达Rubin架构催化，金刚石材料有望迎来加速渗透期。金刚石材料凭借超高热导率和低热膨胀特性，有望成为下一代高端AI芯片先进散热方案的重要技术路径。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:46&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早盘算力芯片概念震荡拉升，沐曦股份涨超10%，万通发展、芯原股份、海光信息、寒武纪、摩尔线程、龙芯中科跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面上，英特尔对CPU进行调涨。此次涨价主要针对部分消费级Core Ultra处理器以及Xeon服务器处理器。其中，高端Xeon服务器产品整体涨幅达到7%至12%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:42&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早盘PCB概念震荡反弹，光华科技、天海电子、威尔高、诺德股份涨停，金安国纪、山东玻纤、鼎泰高科、圣泉集团跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面上，7月6日，覆铜板龙头建滔积层板再发布涨价函：近期由于市场需求持续攀升，带动上游玻璃布、铜等核心主材供应日趋紧缺、价格大幅上涨，公司对所有FR-4、PP提价15%，CEM-1/22F提价10%，铜箔加工费1.5oz以下+5元/KG，2oz 以上+8 元/KG。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:40&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早盘端侧AI概念震荡走强，瑞芯微涨停，传音控股、全志科技、品茗科技、乐鑫科技、芯原股份、恒玄科技跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面上，博通宣布与苹果扩大战略合作，定制 ASIC 芯片合同延长至 2031 年，将为 iPhone、Mac、Vision Pro 多代产品开发供应定制 AI 加速芯片，强化终端侧 AI 算力布局。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:35&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生科技指数日内涨超1%，美团涨超4%，腾讯、小米、联想、理想汽车涨超3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:28&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;贵金属概念集体低开，招金黄金一度跌停，晓程科技、赤峰黄金、兴业银锡、湖南白银集体低开。消息面上，现货白银失守61美元/盎司，日内跌1.73%。现货黄金失守4140美元/盎司，日内跌0.61%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上证指数低开0.54%，创业板指跌0.44%。半导体、芯片股领跌，内存、先进封装方向跌幅居前，建材、贵金属板块低迷；工程机械板块走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生指数开盘跌0.2%，恒生科技指数跌0.37%。资源股领跌，医药股回调。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 必和必拓旗下全球最大铜矿扩建获批，总投资规模最高达147亿美元</title><link>https://wallstreetcn.com/articles/3776362</link><guid>ca4c0a625b5ae21fe79141314137801aedb391338849f17977682e79a091c82f</guid><pubDate>Tue, 07 Jul 2026 06:39:02 GMT</pubDate><description>&lt;p&gt;必和必拓（BHP）集团旗下全球最大铜矿埃斯孔迪达（Escondida）的扩建计划迈出关键一步，标志着这家矿业巨头押注铜需求长期增长的战略正加速落地。&lt;/p&gt;
+&lt;p&gt;三星完整财报将于本月底发布。各业务部门的拆分数据，会告诉市场这轮AI资本开支究竟转化了多少真实价值。那个数字，是下一阶段AI硬件投资逻辑的重要参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 便宜又能打！美国企业越来越爱用中国AI，OpenRouter平台占比一度达到46%</title><link>https://wallstreetcn.com/articles/3776361</link><guid>e27bc5afa93adb93e233bf1a6be9d8075ab43f322ef9348edea560da20069f79</guid><pubDate>Tue, 07 Jul 2026 06:23:47 GMT</pubDate><description>&lt;p&gt;中国AI模型凭借大幅低于美国同类产品的价格，正在快速渗透美国企业市场。性价比优势叠加性能持续追近，正推动越来越多的美国开发者和企业将工作负载切换至中国模型。&lt;/p&gt;
+&lt;p&gt;在开发者平台OpenRouter上，美国企业使用中国AI模型的token占比自2月8日以来每周均维持在30%以上，峰值一度攀升至46%。而此前12个月的均值仅为11%，2025年上半年更低至4.5%。这一骤变发生在OpenAI、Anthropic等美国顶尖AI实验室持续提高旗舰模型定价的背景下，让成本敏感度日益上升的企业加速转向。&lt;/p&gt;
+
+成本压力驱动切换
+
+&lt;p&gt;价格是此轮迁移潮的核心驱动力。据OpenRouter数据与分析团队的Justin Summerville透露，中国开源模型的使用成本比Anthropic和OpenAI的领先模型&amp;quot;便宜60%至90%&amp;quot;。&lt;/p&gt;
+&lt;p&gt;AI创业公司Lindy是这一趋势的典型案例。&lt;strong&gt;该公司在2026年6月将全部流量从Anthropic的Claude模型切换至DeepSeek。&amp;quot;你能看到那条成本曲线直接崩落到地板上，&amp;quot;Lindy CEO Flo Crivello对CNBC表示。他预计这一决定将在数月内为公司节省数百万美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;布鲁金斯学会John L. Thornton中国研究中心研究员Kyle Chan指出：&amp;quot;随着AI成本飙升，中国AI模型对美国企业的吸引力显著增强。此前美国企业在AI采用上不计较模型来源，现在他们的成本意识越来越强。&amp;quot;&lt;/p&gt;
+
+性能快速追近前沿
+
+&lt;p&gt;价格优势之外，中国模型的性能表现同样令市场侧目。&lt;/p&gt;
+&lt;p&gt;智谱于6月发布的GLM 5.2在一项受到广泛关注的智能体基准测试中，成绩与Anthropic的Opus 4.8相差不足一个百分点，而成本仅为后者的约五分之一。部分研究人员表示，GLM 5.2在某些网络安全基准测试上的表现已可与美国顶尖实验室比肩。&lt;/p&gt;
+&lt;p&gt;Vercel旗下智能体基础设施负责人Harpreet Arora表示，GLM 5.2创下了Vercel在2026年追踪记录中最快的模型采用速度——&amp;quot;上线后第一个完整周内，日均token量增长约27倍，使用客户数量增长约80倍。&amp;quot;&lt;/p&gt;
+&lt;p&gt;据Vercel数据，DeepSeek的网关token占比亦在5月至6月间持续攀升。&lt;/p&gt;
+&lt;p&gt;Summerville表示，新一批开源模型&amp;quot;表现出色，除最复杂的大语言模型任务外均已证明具备实用能力&amp;quot;。Chan估计，中国顶尖模型目前落后美国前沿产品&amp;quot;约六到九个月&amp;quot;，但已在许多主流场景中具备足够竞争力。&lt;/p&gt;
+
+企业采用范围扩大
+
+&lt;p&gt;中国模型的渗透正从初创公司向更广泛的企业群体延伸。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在面向受监管行业的AI智能体平台LaunchLemonade上，Claude和ChatGPT仍占据使用量榜首，但GLM 5.2已跻身平台前五。&lt;/strong&gt;LaunchLemonade创始人兼CEO Cien Solon表示：&amp;quot;智谱和阿里巴巴的Qwen等中国模型正成为企业的可选项，在特定工作负载上提供了性能与成本的理想组合。AI策略更为成熟的企业，越来越愿意在技术或商业逻辑成立的场景下使用它们。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Hugging Face机器学习负责人Yacine Jernite则点明了更深层的结构性趋势：&amp;quot;我们看到企业越来越希望转向成本更低、自身可掌控和定制的AI栈，而鉴于当前开源和开放权重模型的现状，这往往意味着借助中国模型。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 必和必拓旗下全球最大铜矿扩建获批，总投资规模最高达147亿美元</title><link>https://wallstreetcn.com/articles/3776362</link><guid>ca4c0a625b5ae21fe79141314137801aedb391338849f17977682e79a091c82f</guid><pubDate>Tue, 07 Jul 2026 06:39:02 GMT</pubDate><description>&lt;p&gt;必和必拓（BHP）集团旗下全球最大铜矿埃斯孔迪达（Escondida）的扩建计划迈出关键一步，标志着这家矿业巨头押注铜需求长期增长的战略正加速落地。&lt;/p&gt;
 &lt;p&gt;智利安托法加斯塔环境评估委员会已批准埃斯孔迪达矿的前期扩建工程，涵盖硫化物浸出及电力设施升级，&lt;strong&gt;初期投资约13亿美元。&lt;/strong&gt;BHP一位发言人周二证实了上述消息。这一审批为后续更大规模的矿山及加工设施升级扫清了监管障碍，&lt;strong&gt;整个智利扩建计划的总投资规模预计在107亿至147亿美元之间。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;BHP计划到2030年代中期将全球铜年产量翻番至逾200万吨，智利业务的成败对这一目标至关重要。铜是清洁能源转型与数据中心建设的核心金属，市场对其长期需求前景普遍看好。&lt;/p&gt;
 
@@ -502,4 +436,19 @@ SK海力士跑赢三星说明了什么
 
 &lt;p&gt;驱动上述大规模投资的核心挑战在于矿石品位持续下降。埃斯孔迪达等智利矿山正面临品位衰减的长期压力，为维持现有产量水平，BHP不得不持续加大资本投入。&lt;/p&gt;
 &lt;p&gt;BHP目前是全球最大铜矿开采商。铜在去碳化进程和数据中心扩张中扮演不可或缺的角色，这支撑了公司对长期需求的乐观判断。公司计划到2030年代中期将全球铜年产量从目前水平大幅提升至逾200万吨，而这一目标的实现高度依赖智利业务的持续扩产。&lt;/p&gt;
-&lt;p&gt;对投资者而言，智利监管层的首个重大环境审批落地，降低了该扩建计划的执行不确定性，但后续各阶段工程仍需逐一通过环评程序。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对投资者而言，智利监管层的首个重大环境审批落地，降低了该扩建计划的执行不确定性，但后续各阶段工程仍需逐一通过环评程序。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 量子计算企业玻色量子冲击A股IPO</title><link>https://wallstreetcn.com/articles/3776370</link><guid>4a5295135e3f18ccb3bdcdf65707ac2f1b16cfb0883309433cc9c05318ab4215</guid><pubDate>Tue, 07 Jul 2026 06:53:51 GMT</pubDate><description>&lt;p&gt;7月6日，证监会官网披露，北京玻色量子科技股份有限公司（以下简称“玻色量子”）已于北京证监局办理辅导备案登记，正式启动首次公开发行股票并上市辅导。&lt;/p&gt;
+&lt;p&gt;辅导备案报告显示，公司所属行业为计算机、通信和其他电子设备制造业，注册资本3.6亿元，法定代表人及控股股东文凯持股21.51%。辅导机构为国泰海通证券。&lt;/p&gt;
+&lt;p&gt;据了解，成立于2020年11月的玻色量子，是国内量子计算赛道资本化竞速的核心标的之一。&lt;/p&gt;
+&lt;p&gt;目前全球量子计算产业面临“通用”与“专用”两条路线的抉择。相较于追求算力普适性但技术壁垒极高、落地遥遥无期的通用量子计算机，玻色量子的差异化策略在于聚焦相干光量子技术和专用量子计算机。&lt;/p&gt;
+&lt;p&gt;从技术实现看，专用量子计算机牺牲了通用性，专门针对组合优化等特定数学模型进行加速求解。2026年5月，玻色量子发布了新一代机型“驭量·山海1000”。公开数据显示，该设备在标准模式下支持1000计算量子比特，在超频模式下最高支持3000计算量子比特。&lt;/p&gt;
+&lt;p&gt;在商业落地层面，玻色量子当前主要通过对外开放软件开发工具包（SDK）输出算力。据公司披露，其SDK累计调用量已破亿次，合作企业包括晶泰科技、深圳地铁以及平安集团等。部分测试数据显示，其在特定求解场景下的耗时得到显著缩短。&lt;/p&gt;
+&lt;p&gt;伴随辅导备案的披露，玻色量子的资本图谱也浮出水面。&lt;/p&gt;
+&lt;p&gt;自成立至今不足六年时间，该公司已累计完成10轮融资。仅在2026年上半年，玻色量子便完成了两笔大额融资：3月份由多方参与的10亿元B轮融资，以及近期由杭州产投、福州国资等地方国资和产业资本联合投资的数亿元Pre-IPO轮融资。&lt;/p&gt;
+&lt;p&gt;资本密集的加持，一方面源于“十五五”规划中明确提出“研制可扩展的专用量子计算机”，为该细分赛道提供了顶层政策背书；另一方面，这也折射出一级市场对硬科技投资逻辑的转变。&lt;/p&gt;
+&lt;p&gt;经过前几年对技术原型的押注，当前资金更倾向于向具备规模化制造能力和明确应用场景的企业集中。相比通用路线，专用量子路线因距离实际产业应用和现金流更近，获得了实质性的估值溢价。&lt;/p&gt;
+&lt;p&gt;随着玻色量子、本源量子等头部企业纷纷进入Pre-IPO或辅导阶段，国内量子计算板块的资本化大幕已经拉开。但从客观的产业视角来看，行业整体仍处于商业试水阶段。&lt;/p&gt;
+&lt;p&gt;当前，玻色量子与各行业头部企业的合作，多数仍停留在联合研发、概念验证或共建算力平台的层面。&lt;/p&gt;
+&lt;p&gt;破亿次的SDK调用量，能在多大程度上转化为真实的软件授权费、算力订阅费或整机销售收入？公司当前的客单价、毛利率以及硬件规模化量产的良品率究竟如何？这些反映企业实际“造血”能力的核心财务指标，仍有待其招股说明书的详尽披露。&lt;/p&gt;
+&lt;p&gt;面对经典算力不断通过架构演进提升性能的现状，企业端客户是否具备足够的动力为专用的量子算力支付高昂的采购与业务系统迁移成本，仍需市场长期检验。&lt;/p&gt;
+&lt;p&gt;对于冲刺资本市场的玻色量子而言，技术参数的迭代固然重要，但能否在报表中兑现持续、健康的商业营收，才是其面临的核心考验。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
