@@ -1,74 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 19:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] “我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球</title><link>https://wallstreetcn.com/articles/3776368</link><guid>ad4365d4667bad2ff6e0ecc480bdc40358f573547d002a5b6b54e9b6f3a321a5</guid><pubDate>Tue, 07 Jul 2026 07:31:50 GMT</pubDate><description>&lt;p&gt;7月6日，知名半导体研究机构SemiAnalysis在X平台连发六条推文，&lt;a href="https://wallstreetcn.com/articles/3776238?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;爆料英伟达Kyber NVL144机架因PCB中板制造难题延迟超12个月&lt;/a&gt;。亚洲AI硬件供应链应声大跌。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776319?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;英伟达随后回应称“路线图未变”&lt;/a&gt;，但未披露具体进度细节。&lt;/p&gt;
-&lt;p&gt;争议未平。7月7日，SemiAnalysis又甩出一份付费长文，将“矛头”对准英伟达。但这一次他不再扮演“看空者”角色。&lt;/p&gt;
-&lt;p&gt;SemiAnalysi预计：&lt;strong&gt;到2029年，全球AI债务融资规模将突破7万亿美元。7万亿美元是什么概念？它将仅次于美国住房抵押贷款市场（约13万亿美元），&lt;/strong&gt;成为全球第二大资产支持债务市场。&lt;/p&gt;
-&lt;p&gt;英伟达在其中的角色是什么？SemiAnalysis披露了英伟达一项战略布局——&lt;strong&gt;“后盾计划”（backstop）。英伟达正用自己的AA/Aa2投资级信用评级，为AI算力租赁商提供最低收入保证，以此撬动银行放贷。换句话说，英伟达正在充当整个AI生态的最终贷款人和保险商，把大量销售记在账上同时把下游需求不足的风险部分扛在自己身上。&lt;/strong&gt;SemiAnalysis将英伟达比作 &lt;strong&gt;“AI领域的中央银行” 。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于X平台上围绕SemiAnalysis是否“看空英伟达”的讨论。该机构说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;自己没有发布关于英伟达股票的正面或负面观点，只是在准确捕捉供应链和技术细节，市场可以自行交易。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
-
-AI债务雪球：2029年破7万亿，直逼美国房贷市场
-
-&lt;p&gt;SemiAnalysis认为，AI基础设施建设正在形成一个数万亿美元级别的信贷市场。到2029年，AI相关未偿债务可能达到约7.1万亿美元，规模将超过除美国按揭融资市场之外的其他美国资产支持债务市场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这部分债务主要来自两类资本开支。一类是AI IT资本开支，包括GPU、网络、存储和配套CPU；另一类是AI数据中心资本开支，包括承载这些GPU所需的机房、电力和制冷等基础设施。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;过去，Google、Amazon、Meta、Microsoft、Oracle等云巨头主要依靠自身现金流建设AI集群。但过去一年，Oracle、Meta，甚至Google开始更多使用债务。随着项目规模继续扩大，市场约束不再只是能否拿到GPU，也不是单纯能否找到机房，而是能否借到足够便宜、足够长期的钱。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis给出的结论是，AI资本开支的融资方式正在改变。云巨头资产负债表并非无限，如果所有AI集群都依赖少数投资级云厂商背书，新增项目迟早会遇到信用瓶颈。&lt;/p&gt;
-
-“三位一体”困局：资本、客户和数据中心缺一不可
-
-&lt;p&gt;SemiAnalysis将AI项目融资拆解为“三位一体”：资本、包销合同和数据中心。&lt;/p&gt;
-&lt;p&gt;第一是资本。贷款人通常需要看到投资级云厂商的长期take-or-pay合同，或类似信用担保，才愿意放款。换言之，贷款人真正看重的不是Neocloud本身信用，而是背后客户的信用。&lt;/p&gt;
-&lt;p&gt;第二是包销。Neocloud要拿到客户，往往需要先证明自己能够支付GPU订金并锁定设备。但要拿到股权资金，又需要先证明自己有客户和贷款。这使项目在早期很容易陷入循环。&lt;/p&gt;
-&lt;p&gt;第三是数据中心。Neocloud要么拿着客户合同和融资去说服数据中心运营商出租容量，要么自己建设数据中心。后者资金压力更大，周期也更长。&lt;/p&gt;
-&lt;p&gt;这套模式使市场被锁在“5年期、云巨头背书”的模板里。问题是，&lt;strong&gt;许多VC支持的AI初创公司和推理服务商需要的是短周期、大规模算力，而不是5年长期合同。推理服务商尤其不愿承担长期价格和需求风险，很多情况下宁愿放弃算力，也不愿签超过1年的租约。&lt;/strong&gt;&lt;/p&gt;
-
-“AI央行”英伟达：用AA级信用撬动整个市场
-
-&lt;p&gt;&lt;strong&gt;英伟达提出“后盾计划”，切入这个融资缺口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据SemiAnalysis，英伟达向Neocloud提供GPU租赁收入兜底。如果第三方客户需求不足，英伟达承诺按预设价格购买算力；如果Neocloud以更高价格出租算力，英伟达则分享一部分超额收入。&lt;/p&gt;
-&lt;p&gt;这类安排通常为6年期，按事先约定的价格曲线，对底层GPU容量提供最低收入保证。Neocloud仍可把算力租给任何客户，也可以提供更灵活的租期。只有当市场需求不足、无法按市场价格出租时，才会触发英伟达兜底。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这就是“AI央行”比喻的来源。英伟达并非真的发行货币，而是在AI算力信用体系中扮演类似最后买方和信用背书人的角色。贷款人可以基于英伟达AA/Aa2级别信用来评估项目最差情景，从而更愿意放款。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对英伟达而言，这有助于扩大GPU买方基础。如果市场只能依赖少数超大云厂商签5年包销合同，GPU需求很快会撞上融资约束；而这些云厂商还在用自研芯片对冲英伟达系统。扶持Neocloud和更多企业客户，等于为GPU需求打开新的融资通道。&lt;/p&gt;
-
-“兜底计划”结构拆解：英伟达赚多少，NeoCloud赚多少
-
-&lt;p&gt;SemiAnalysis强调，Neocloud不是免费使用英伟达信用。兜底结构下，&lt;strong&gt;Neocloud要牺牲一部分上行收益，以换取项目可融资性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在一个示例价格曲线中，6年平均兜底价格为每GPU每小时2.36美元。假设GB300第一年1年期租赁价格为每小时6.75美元，第一年兜底价为每小时3.68美元，客户价格与兜底价之间的差额为3.07美元。若英伟达拿走超出兜底价部分的40%，英伟达获得1.23美元，Neocloud获得1.84美元，Neocloud第一年实际收入为每小时5.52美元，低于无兜底时的6.75美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;六年下来，在这一情景中，英伟达平均抽成约18%。Neocloud的项目IRR也会下降。有英伟达兜底且以1年期短租为主的情景下，项目IRR为25.4%；如果没有兜底但仍能顺利融资并出租，IRR可达40.7%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;关键在最差情景。如果需求不足，Neocloud只能把算力租给英伟达，项目回报可能接近零，甚至略为负数。贷款人并不要求最差情况下项目赚钱，只要求最差情况下仍能还债。也正因此，债务能否成立，最终越来越取决于英伟达兜底是否可靠。&lt;/p&gt;
-&lt;p&gt;这也是投资者应关注的核心：英伟达的安排短期有助于推动GPU销售和Neocloud扩张，但如果算力需求低于预期，收入缺口将由英伟达承接。债务未必直接记在英伟达账上，但融资模型的安全垫正在向英伟达信用集中。&lt;/p&gt;
-
-GPU融资定价，本质上看谁在背书
-
-&lt;p&gt;SemiAnalysis称，目前GPU融资市场的定价，主要不是看Neocloud自身信用，而是看谁签了长期包销合同。&lt;/p&gt;
-&lt;p&gt;CoreWeave是一个参照。其5年期无担保债券收益率约10%；但由Meta背书的85亿美元DDTL 4.0延迟提款定期贷款中，固定利率部分成本约5.9%，只比Meta 5年期债券收益率约5.0%高90个基点。这个90个基点，大致体现了市场给CoreWeave执行风险的定价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;如果Neocloud脱离长期云厂商包销，融资成本会明显升高。对头部Neocloud来说，无担保融资可能需要支付约10%的利率，比有背书融资高约4个百分点。在70%至80%的贷款价值比下，融资成本从5.62%升至10%，税前利润率会从14.8%降至5.4%。&lt;/p&gt;
-&lt;p&gt;英伟达兜底会把定价放在两者之间：高于当前云厂商背书交易约5.9%的总收益率，低于CoreWeave无担保债券约10%的收益率。银行最看重的是偿债覆盖率DSCR。对于有英伟达兜底的项目，贷款规模通常按兜底被触发的情景测算，前几年DSCR至少要达到1.3倍，对应贷款价值比通常为70%至80%。&lt;/p&gt;
-
-公开项目在亚太放大，兜底模式开始落地
-
-&lt;p&gt;目前已公开的英伟达兜底项目集中在亚太。&lt;/p&gt;
-&lt;p&gt;第一个是澳大利亚SharonAI的72MW AI工厂。该项目于2026年6月公布，计划在6年期兜底下扩展至最多4万颗GB300。SharonAI披露的总兜底价值为48.8亿美元，折算六年平均底价约为每GPU每小时2.33美元。&lt;/p&gt;
-&lt;p&gt;另一个是Firmus在印尼巴淡岛的360MW AI集群，可能位于DayOne在Kabil Industrial Tech Park的设施中。该项目于2026年6月29日公布，显示英伟达兜底正在进入更大规模。&lt;/p&gt;
-&lt;p&gt;Firmus预计该项目六年客户收入为250亿至300亿美元，目标客户包括AI原生公司、企业客户和推理服务商，并提供不同租期。不过，在部署GPU前，Firmus仍需确定数据中心提供方，或继续自建。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis还指出，英伟达并非唯一使用兜底安排的GPU厂商。AMD去年已经向AWS、OCI、DigitalOcean、Vultr、Tensorwave、Crusoe等客户提供过类似安排：客户购买更多AMD GPU，如果Neocloud无法完全出售容量，AMD愿意以长期合同形式租回一部分，用于内部软件开发。&lt;/p&gt;
-
-SemiAnalysis否认看空，但市场对其信号更加敏感
-
-&lt;p&gt;这篇文章发布之际，SemiAnalysis本身也处在争议中。&lt;/p&gt;
-&lt;p&gt;7月6日上午，SemiAnalysis曾在X平台发布连续推文，称英伟达Kyber NVL144机架架构遭遇重大延迟，推迟超过12个月至2028年。该消息在盘前引发关注，并导致日本、韩国及中国台湾地区多只AI硬件供应链股票下跌。英伟达随后回应称，其产品路线图并未改变，否认核心进度受影响。&lt;/p&gt;
-&lt;p&gt;这使SemiAnalysis的后续文章更容易被市场解读为看空或看多英伟达。对此，SemiAnalysis在X回应称，&lt;strong&gt;自己没有发布关于英伟达股票的正面或负面观点，只是分享公司供应链和技术细节。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Crackerjack Finance则反驳了“看空”解读，称SemiAnalysis图表显示下半年实际数据比市场预期高20%，并据此推导出下一年每股收益约15美元，股价应在300至400美元。THE Grand Poobah则评论称，“三方循环融资似乎已经不够了”，指向市场对融资结构复杂化的担忧。&lt;/p&gt;
-&lt;p&gt;问题在于，AI相关资产已历经多年上涨，估值与预期均处高位。任何供应链风险信号或融资结构变化，都会被迅速放大。SemiAnalysis的澄清可以说明其并未直接给出股票观点，但在Kyber NVL144风波之后，其供应链爆料的市场影响力与公信力争议将继续并存。&lt;/p&gt;
-&lt;p&gt;对投资者而言，这次“长文”的真正含义是：AI竞争已经不只是“谁有GPU”，而是“谁能把GPU、债务、客户合同和数据中心同时拼起来”。&lt;strong&gt;英伟达的兜底机制可能继续放大GPU需求，也可能让AI债务周期的尾部压力更多集中到英伟达自身信用上。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指年内“四失”4000点，半导体产业链逆势活跃，四大行尾盘拉升，快手下挫12%领跌科网股</title><link>https://wallstreetcn.com/articles/3776344</link><guid>d29ed262db45af463a957311562949df9776e9931e9b23f4173367735d3c6314</guid><pubDate>Tue, 07 Jul 2026 08:21:36 GMT</pubDate><description>&lt;p&gt;A股和港股存储芯片承压，江波龙、佰维存储、兆易创新等纷纷下跌，此前韩国芯片巨头三星电子股价大幅跳水，一度暴跌超8%，拖累韩国KOSPI指数一度熔断。消息面，三星电子初步业绩报告显示，2026年第二季度营收预计为171万亿韩元，略超市场预期；营业利润预计为89.4万亿韩元，同比大幅增长1810%，高于市场预期。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 19:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 沪指年内“四失”4000点，半导体产业链逆势活跃，四大行尾盘拉升，快手下挫12%领跌科网股</title><link>https://wallstreetcn.com/articles/3776344</link><guid>d29ed262db45af463a957311562949df9776e9931e9b23f4173367735d3c6314</guid><pubDate>Tue, 07 Jul 2026 08:21:36 GMT</pubDate><description>&lt;p&gt;A股和港股存储芯片承压，江波龙、佰维存储、兆易创新等纷纷下跌，此前韩国芯片巨头三星电子股价大幅跳水，一度暴跌超8%，拖累韩国KOSPI指数一度熔断。消息面，三星电子初步业绩报告显示，2026年第二季度营收预计为171万亿韩元，略超市场预期；营业利润预计为89.4万亿韩元，同比大幅增长1810%，高于市场预期。&lt;/p&gt;
 &lt;p&gt;7月7日，A股全天震荡调整，三大股指集体下跌，沪指、深成指跌超1%，沪指年内“四失”4000点，创业板冲高之后持续下跌，盘中一度跌超1%。半导体产业链逆势反弹，半导体硅片、半导体设备、先进封装、GPU等概念股大幅拉升，培育钻石、网络游戏等概念股活跃，煤炭、石油化工、医药等板块陷入调整。存储芯片、光模块、电路板等齐跌。&lt;/p&gt;
 &lt;p&gt;港股冲高回落，恒指、恒科指盘初双双上涨，恒科指一度涨超2%，随后恒指、恒科指均转跌，午后延续震荡下跌势头，科网股多数下跌，快手大跌超12%。存储芯片回落，兆易创新跌超10%。债市方面，国债期货多数下跌。商品方面，国内商品期货分化，沪银等金属期货承压。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -269,7 +200,15 @@ AI行情是否切换，华尔街仍存分歧
 &lt;p&gt;只是，过去那种“先抢位置、再补细节”的打法，风险正在变高。&lt;/p&gt;
 &lt;p&gt;中国新能源产业链海外建厂的故事，正在从投资额竞争，转向运营能力竞争。&lt;/p&gt;
 &lt;p&gt;工厂建起来，只是第一关。能让它在欧洲长期转下去，才是真正的考题。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 被曝Copilot“瘦身”后微软又传“自力更生”降本：用自研AI替换OpenAI和Anthropic模型</title><link>https://wallstreetcn.com/articles/3776405</link><guid>508b999be3494691bc199ba7acdb90c511c748bcea244373b0272c800998c154</guid><pubDate>Tue, 07 Jul 2026 16:58:51 GMT</pubDate><description>&lt;p&gt;新近消息显示，除了对自家AI助手Copilot展开大规模重组，微软还走“自力更生”的道路：在多个核心产品中以自研模型取代第三方AI供应商，双管齐下压缩成本、重建市场竞争力。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浪潮信息：预计上半年净利润26亿-31亿元，同比增长226%-288% | 财报见闻</title><link>https://wallstreetcn.com/articles/3776400</link><guid>b26d5bc76ce5508fd756d7dcef7b6bbf4d14a427c3156fb6f55573d569bb7994</guid><pubDate>Tue, 07 Jul 2026 13:26:21 GMT</pubDate><description>&lt;p&gt;国内服务器龙头企业浪潮信息发布业绩预告，上半年盈利能力大幅跃升，折射出国内AI基础设施投资热潮对相关硬件厂商的强劲拉动效应。&lt;/p&gt;
+&lt;p&gt;浪潮信息周二公告显示，&lt;strong&gt;预计2026年上半年归属于上市公司股东的净利润为26亿元至31亿元，同比增长226%至288%；扣除非经常性损益后的净利润为20.55亿元至25.55亿元，同比增长206%至280%。上年同期净利润约为7.99亿元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司将业绩大幅增长归因于紧抓行业上行机遇，持续推进产品技术创新，完善产品线布局，提升产品附加值并增强供应保障能力。&lt;strong&gt;基本每股收益预计达1.77元至2.11元，较上年同期的0.54元显著提升。&lt;/strong&gt;&lt;/p&gt;
+盈利规模大幅扩张
+&lt;p&gt;从绝对数值来看，浪潮信息此次预告的净利润区间中值约为28.5亿元，较上年同期约7.99亿元的净利润增加逾20亿元。扣非净利润区间中值约为23亿元，较上年同期约6.72亿元同样实现大幅跃升。&lt;/p&gt;
+&lt;p&gt;上述数据尚未经会计师事务所预审计，公司表示具体财务数据将在2026年半年度报告中予以详细披露，并提示投资者注意相关投资风险。&lt;/p&gt;
+行业上行周期驱动增长
+&lt;p&gt;浪潮信息在公告中将业绩增长的核心驱动力归结为&amp;quot;行业上行机遇&amp;quot;。公司表示，报告期内坚持以市场为导向，通过产品技术创新和提升客户满意度，推动经营业绩大幅增长。&lt;/p&gt;
+&lt;p&gt;公司同时强调持续完善产品线布局、提升产品附加值以及增强供应保障能力，显示其在应对市场需求扩张的同时，亦着力夯实供应链韧性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 被曝Copilot“瘦身”后微软又传“自力更生”降本：用自研AI替换OpenAI和Anthropic模型</title><link>https://wallstreetcn.com/articles/3776405</link><guid>508b999be3494691bc199ba7acdb90c511c748bcea244373b0272c800998c154</guid><pubDate>Tue, 07 Jul 2026 16:58:51 GMT</pubDate><description>&lt;p&gt;新近消息显示，除了对自家AI助手Copilot展开大规模重组，微软还走“自力更生”的道路：在多个核心产品中以自研模型取代第三方AI供应商，双管齐下压缩成本、重建市场竞争力。&lt;/p&gt;
 &lt;p&gt;据美东时间7日周二的美媒报道，微软已开始在Excel和Outlook等主力办公App中以内部自研的MAI模型替代OpenAI和Anthropic的模型，每周通过MAI模型处理的AI提示词已达数万条量级。&lt;/p&gt;
 &lt;p&gt;几天前，另有美媒获悉，微软执行副总裁Jacob Andreou向内部团队发出备忘录，宣布将整合消费者版和企业版Copilot的App，裁撤低效功能，目标是在客户眼中&amp;quot;赢得存在的权利&amp;quot;。&lt;/p&gt;
 &lt;p&gt;上述举措折射出微软当前面临的双重压力：一方面，对外部AI模型的依赖带来高昂的采购成本；另一方面，Copilot在市场上的表现持续承压，微软股价今年以来累计下跌近20%，在“科技七巨头”（Mag 7）中表现垫底，部分大股东已陆续减持。&lt;/p&gt;
@@ -293,15 +232,7 @@ Copilot用户增长加速，但与竞争对手差距仍大
 &lt;p&gt;Copilot的商业化进展在近期出现改观。微软今年1月披露付费用户数为1500万，至4月已增长33%至2000万，该产品起步定价为每位员工每月30美元。微软管理层表示，Copilot已帮助Office业务的营收增速在近几个季度有所提升。&lt;/p&gt;
 &lt;p&gt;然而，与主要竞争对手相比，差距仍然悬殊。ChatGPT目前付费订阅用户超过5000万；在月活跃用户层面，据Sensor Tower估算，Copilot约为3850万，而ChatGPT约为10亿。&lt;/p&gt;
 &lt;p&gt;Andreou在备忘录中坦承，Copilot功能的过度扩张已造成用户困惑，并&amp;quot;在内部成为一个令人尴尬的问题&amp;quot;。他表示，企业客户当前对AI投资回报率的审视日趋严格，&amp;quot;整个企业软件领域的门槛都在提高&amp;quot;。Andreou同时强调，Copilot应聚焦于&amp;quot;真实工作&amp;quot;，注重&amp;quot;以结果为导向&amp;quot;，而非&amp;quot;为了追求智能而追求智能&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Andreou于去年春季加入微软，今年年初得到CEO Satya Nadella晋升，主导Copilot改革，负责范围扩展至消费者与企业端两条产品线，以及Bing、MSN和Edge浏览器业务，麾下员工规模超过1.1万人。Nadella对其考核指标包括Copilot整体增长、用户留存率及客户满意度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浪潮信息：预计上半年净利润26亿-31亿元，同比增长226%-288% | 财报见闻</title><link>https://wallstreetcn.com/articles/3776400</link><guid>b26d5bc76ce5508fd756d7dcef7b6bbf4d14a427c3156fb6f55573d569bb7994</guid><pubDate>Tue, 07 Jul 2026 13:26:21 GMT</pubDate><description>&lt;p&gt;国内服务器龙头企业浪潮信息发布业绩预告，上半年盈利能力大幅跃升，折射出国内AI基础设施投资热潮对相关硬件厂商的强劲拉动效应。&lt;/p&gt;
-&lt;p&gt;浪潮信息周二公告显示，&lt;strong&gt;预计2026年上半年归属于上市公司股东的净利润为26亿元至31亿元，同比增长226%至288%；扣除非经常性损益后的净利润为20.55亿元至25.55亿元，同比增长206%至280%。上年同期净利润约为7.99亿元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司将业绩大幅增长归因于紧抓行业上行机遇，持续推进产品技术创新，完善产品线布局，提升产品附加值并增强供应保障能力。&lt;strong&gt;基本每股收益预计达1.77元至2.11元，较上年同期的0.54元显著提升。&lt;/strong&gt;&lt;/p&gt;
-盈利规模大幅扩张
-&lt;p&gt;从绝对数值来看，浪潮信息此次预告的净利润区间中值约为28.5亿元，较上年同期约7.99亿元的净利润增加逾20亿元。扣非净利润区间中值约为23亿元，较上年同期约6.72亿元同样实现大幅跃升。&lt;/p&gt;
-&lt;p&gt;上述数据尚未经会计师事务所预审计，公司表示具体财务数据将在2026年半年度报告中予以详细披露，并提示投资者注意相关投资风险。&lt;/p&gt;
-行业上行周期驱动增长
-&lt;p&gt;浪潮信息在公告中将业绩增长的核心驱动力归结为&amp;quot;行业上行机遇&amp;quot;。公司表示，报告期内坚持以市场为导向，通过产品技术创新和提升客户满意度，推动经营业绩大幅增长。&lt;/p&gt;
-&lt;p&gt;公司同时强调持续完善产品线布局、提升产品附加值以及增强供应保障能力，显示其在应对市场需求扩张的同时，亦着力夯实供应链韧性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“编排”走红，微软的机会来了？</title><link>https://wallstreetcn.com/articles/3776335</link><guid>ee25072a08e60e78383545b66100bdad04e6e35b16a6869b1e3f4b0012523849</guid><pubDate>Tue, 07 Jul 2026 08:15:42 GMT</pubDate><description>&lt;p&gt;随着企业对AI预算愈发审慎，一个新的行业关键词正在浮出水面——“编排”（Orchestration）。分析师认为，&lt;strong&gt;微软有望凭借其横跨云端、平台与终端的产品矩阵，成为企业AI工作流的核心&amp;quot;编排层&amp;quot;，在这场成本控制浪潮中占据有利位置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Andreou于去年春季加入微软，今年年初得到CEO Satya Nadella晋升，主导Copilot改革，负责范围扩展至消费者与企业端两条产品线，以及Bing、MSN和Edge浏览器业务，麾下员工规模超过1.1万人。Nadella对其考核指标包括Copilot整体增长、用户留存率及客户满意度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“编排”走红，微软的机会来了？</title><link>https://wallstreetcn.com/articles/3776335</link><guid>ee25072a08e60e78383545b66100bdad04e6e35b16a6869b1e3f4b0012523849</guid><pubDate>Tue, 07 Jul 2026 08:15:42 GMT</pubDate><description>&lt;p&gt;随着企业对AI预算愈发审慎，一个新的行业关键词正在浮出水面——“编排”（Orchestration）。分析师认为，&lt;strong&gt;微软有望凭借其横跨云端、平台与终端的产品矩阵，成为企业AI工作流的核心&amp;quot;编排层&amp;quot;，在这场成本控制浪潮中占据有利位置。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;quot;编排&amp;quot;的核心逻辑在于：&lt;strong&gt;企业在使用多个AI模型时，需要一套统一机制来协调任务分配、数据流转与输出整合，&lt;/strong&gt;从而在不同模型之间灵活切换，并将每项任务路由至成本最低的模型。&lt;/p&gt;
 &lt;p&gt;D.A. Davidson分析师Gil Luria在近期研究报告中写道：&amp;quot;解决方案正变得清晰——企业希望构建一种方式，在不影响业务运营的前提下切换AI模型，同时通过将每个查询和任务路由至最廉价的模型来管理成本。&amp;quot;&lt;/p&gt;
 &lt;p&gt;这一趋势对微软构成直接利好。Melius Research分析师Ben Reitzes在周一的研究报告中指出，微软已将自身定位为企业访问AI算力的&amp;quot;安全、模型无关的通道&amp;quot;。与此同时，微软股价今年已累计下跌约20%，跌幅主要集中在第一季度，如何向投资者证明基于消费量的编排合同能够弥补传统按用户收费软件模式的潜在放缓，将是更为迫切的挑战。&lt;/p&gt;
@@ -381,4 +312,20 @@ AI：从地面算力到轨道数据中心
 &lt;p&gt;这一趋势与此前公布的美国6月非农就业数据相吻合。数据显示，失业率降至4.2%，但新增就业人数较前期有所放缓，表明就业市场仍具韧性，同时也在逐步降温，整体处于温和调整之中。&lt;/p&gt;
 家庭财务信心回暖，股市乐观情绪升至多年高位
 &lt;p&gt;与此同时，美国家庭对自身财务状况的乐观情绪有所提升。认为当前财务状况好于一年前的家庭比例上升，对未来一年财务状况的预期也进一步改善。消费者对收入增长的预期升至2.8%，创下2025年3月以来最高水平。&lt;/p&gt;
-&lt;p&gt;此外，消费者对美国股市的乐观情绪持续升温，预计未来一年股价上涨的平均概率升至2021年4月以来最高，显示出居民风险偏好仍维持在较高水平，对经济前景的信心尚未明显减弱。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 沙特史诗级降价解读，油运进入真供需阶段</title><link>http://xueqiu.com/1701766657/398730868</link><guid>d5279dfbcc87d83f56d05489c666fec0e04524959c52d67322b1dadd5a295155</guid><pubDate>Tue, 07 Jul 2026 09:23:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;沙特阿美将8月销往亚洲的阿拉伯轻质原油官方售价（OSP）大幅下调，创下26年来最大降幅。&lt;/p&gt;</description></item><item><title>[今日雪球] 证金持股在招行中的演变</title><link>http://xueqiu.com/1821992043/398739584</link><guid>30aa194dc7988c1cd272c8886611ed85bf8903abecfdfe5037cba61ba6d6d14d</guid><pubDate>Tue, 07 Jul 2026 09:22:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ice_招行谷子地&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近，关于国家队上半年快速减持手头宽基指数和部分蓝筹股的讨论较多。但是，绝大多数都是输出情绪，有的甚至不乏胡说八道。今天，群里有人转发了一篇贴子，大概是说证金一季度清仓式减持，说证金2024年低位无声无息的在招行踩点建仓，2026年高位派发，赚得盆满钵满，如下图1所示：&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此外，消费者对美国股市的乐观情绪持续升温，预计未来一年股价上涨的平均概率升至2021年4月以来最高，显示出居民风险偏好仍维持在较高水平，对经济前景的信心尚未明显减弱。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI狂热推高科技股波动率，纳指风险溢价创互联网泡沫以来新高</title><link>https://wallstreetcn.com/articles/3776398</link><guid>a8786092366d1a7753e8d037760bbc2c42d01ff9ac0dffa31f5bcb57f9de4c8f</guid><pubDate>Tue, 07 Jul 2026 13:17:01 GMT</pubDate><description>&lt;p&gt;AI交易持续火热之际，科技股与大盘之间的风险定价正出现互联网泡沫以来最极端的背离。&lt;/p&gt;
+&lt;p&gt;据彭博，&lt;strong&gt;衡量纳斯达克100指数期权成本的Cboe NDX波动率指数相对于标普500波动率指数VIX的比值，已升至2002年以来最高水平，意味着投资者如今愿意为科技股支付的风险溢价达到互联网泡沫破裂以来最高水平。&lt;/strong&gt;尽管纳斯达克100指数自3月底以来累计上涨约30%，但剧烈波动并未随涨势消退，反而持续放大。&lt;/p&gt;
+&lt;p&gt;周二盘前，纳斯达克100期货一度下跌1.1%，同期标普500期货仅跌0.2%，科技股明显跑输大盘。同日，SpaceX正式纳入纳斯达克100指数，被市场视为进一步推升科技股波动率的催化剂。与此同时，&lt;strong&gt;瑞银用于预测未来一个月VIX走势的模型升至10个月高位，逼近预示波动率进一步上行的关键阈值，机构避险情绪持续升温。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+AI交易推高科技股&amp;quot;风险溢价&amp;quot;
+&lt;p&gt;Cboe NDX波动率指数目前徘徊在27附近，而纳斯达克100指数30日已实现波动率已升至29.7，为特朗普去年关税冲击余波以来最高水平。&lt;/p&gt;
+&lt;p&gt;更值得关注的是，Cboe NDX波动率指数相对于VIX的比值，目前已达到24年来最高水平。这意味着，&lt;strong&gt;相比整体市场，投资者愿意为科技股支付更高的期权溢价，以对冲潜在风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;瑞银美国股票衍生品研究主管Maxwell Grinacoff表示，这一现象&amp;quot;相当惊人&amp;quot;。他指出，自去年底判断纳斯达克100波动率将持续高于标普500以来，这一逻辑至今仍在兑现。此外，&lt;strong&gt;美国及亚洲市场杠杆ETF持续放大AI及半导体股票的价格波动，也使股价振幅越来越偏离基本面。&lt;/strong&gt;&lt;/p&gt;
+SpaceX入指进一步放大波动
+&lt;p&gt;市场普遍认为，SpaceX纳入纳斯达克100指数将进一步推高指数整体波动率。&lt;/p&gt;
+&lt;p&gt;RBC Capital Markets衍生品策略主管Amy Wu Silverman表示，&lt;strong&gt;新上市公司通常具有更高的内在波动性，而以SpaceX目前的体量和市场影响力来看，在其未来被纳入标普500之前，纳斯达克100与标普500之间的波动率差距大概率仍将维持高位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;彭博报道称，上周已有投资者提前布局SpaceX入指行情，斥资约200万美元买入可按330美元行权价购买100万股SpaceX股票的期权合约，押注其股价进一步上涨。&lt;/p&gt;
+持仓愈发拥挤，机构开始增强防御
+&lt;p&gt;波动率持续攀升背后，是AI交易拥挤度不断提高。&lt;/p&gt;
+&lt;p&gt;彭博汇编数据显示，过去一个月纳斯达克100成分股之间的已实现相关性已高于标普500，&lt;strong&gt;意味着资金正更加集中流向少数AI和科技龙头，市场结构趋于单一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Grinacoff指出，&lt;strong&gt;包括对冲基金、系统性策略基金以及传统共同基金在内，多类机构投资者都在持续追涨AI板块。&lt;/strong&gt;&amp;quot;传统共同基金基本需要追赶自身基准。&amp;quot;这意味着，一旦AI交易出现松动，机构能够继续加仓承接抛压的空间将越来越有限，市场或更多依赖散户资金托底。&lt;/p&gt;
+&lt;p&gt;与此同时，UBS预测VIX走势的模型已升至10个月高位，仅略低于预示VIX进一步上行的关键阈值，显示机构正不断提高对未来市场波动的预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 沙特史诗级降价解读，油运进入真供需阶段</title><link>http://xueqiu.com/1701766657/398730868</link><guid>d5279dfbcc87d83f56d05489c666fec0e04524959c52d67322b1dadd5a295155</guid><pubDate>Tue, 07 Jul 2026 09:23:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大国产业逻辑Paul哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;沙特阿美将8月销往亚洲的阿拉伯轻质原油官方售价（OSP）大幅下调，创下26年来最大降幅。&lt;/p&gt;</description></item><item><title>[今日雪球] 证金持股在招行中的演变</title><link>http://xueqiu.com/1821992043/398739584</link><guid>30aa194dc7988c1cd272c8886611ed85bf8903abecfdfe5037cba61ba6d6d14d</guid><pubDate>Tue, 07 Jul 2026 09:22:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ice_招行谷子地&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近，关于国家队上半年快速减持手头宽基指数和部分蓝筹股的讨论较多。但是，绝大多数都是输出情绪，有的甚至不乏胡说八道。今天，群里有人转发了一篇贴子，大概是说证金一季度清仓式减持，说证金2024年低位无声无息的在招行踩点建仓，2026年高位派发，赚得盆满钵满，如下图1所示：&lt;/p&gt;</description></item></channel></rss>
