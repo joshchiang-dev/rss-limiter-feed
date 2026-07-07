@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 03:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 03:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
 &lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
 &lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
 &lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
@@ -188,34 +188,7 @@ AI交易重燃，但芯片股表现分化
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，BE半导体实业公司收跌5.49%，马士基B类股跌5.45%，康士伯海事股份跌4.79%跌幅第三大。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银回应“英伟达Kyber机架延迟”：担忧合理，但PCB/CCL/基板需求强劲，视调整为买点</title><link>https://wallstreetcn.com/articles/3776342</link><guid>6721e62f3ca5a76435dd6970fd3199405a8d9244b77c9bcace96884f86c0c046</guid><pubDate>Tue, 07 Jul 2026 02:55:38 GMT</pubDate><description>&lt;p&gt;7月6日盘前，半导体行业研究机构SemiAnalysis在X平台连发六条推文，&lt;a href="https://wallstreetcn.com/articles/3776238?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;直接点名英伟达Kyber NVL144机架遭遇“重大延迟”&lt;/a&gt;，同时Rubin Ultra由4计算芯片版缩减为2芯片版，CPO（共封装光学）采用时间表也面临不确定性。消息迅速发酵，当日中国台湾CCL（覆铜板）、PCB（印制电路板）、基板及测试接口相关板块股价平均下跌8-9%。&lt;/p&gt;
-&lt;p&gt;美银证券台湾科技团队（分析师Mike Yang等）随即发布研报称：&lt;strong&gt;技术层面的担忧是合理的，但股价下跌恰恰是入场的时机。&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;担忧合理，但逻辑框架不同：需求缩量≠需求消失&lt;/strong&gt;
-&lt;p&gt;分析师认为，CCL/PCB/基板领域的潜在延迟或取消，本质上是“&lt;strong&gt;在供应约束下的需求缩量&lt;/strong&gt;（demand scale-down in response to supply constraint）”，而非需求趋势的逆转。并将其类比为此前市场对Vera CPU中DRAM需求的类似担忧——那一次，担忧同样引发了股价波动，但需求趋势并未因此改变。&lt;/p&gt;
-&lt;p&gt;为什么这次跌幅可能反应过度？分析师给出了一个关键逻辑：&lt;strong&gt;CCL/PCB/基板在AI服务器整体BOM（物料清单）中的成本占比较低，仅为低至中个位数百分比（low/mid single-digit %）。&lt;/strong&gt;成本占比低，意味着价格弹性更低——客户砍单或延迟采购时，首先压缩的往往是高价值、高占比的零部件（如内存），而非这类基础材料。&lt;/p&gt;
-&lt;p&gt;这一逻辑有供给端支撑。分析师表示，高端CCL（M8级及以上）和ABF基板预计至少到2027年底仍将持续供不应求，根本原因是设备交货周期漫长，而服务器CPU和加速器驱动的需求增长具有结构性。换言之，即便短期需求节奏因Kyber延迟而有所扰动，供给端的扩产速度也难以在短期内追上需求。&lt;/p&gt;
-&lt;p&gt;因此，美银将此次股价下跌定性为“买入时机增强”（enhanced entry point），维持相关板块买入评级。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-Q玻璃基M9将跑赢PTFE，各子板块抗跌顺序有别
-
-&lt;p&gt;Kyber机架的PCB中板制造难题，直接指向高端CCL材料的技术路线之争。该背板涉及M9级CCL，目前业界有两条路线：&lt;strong&gt;基于石英布（Q-glass，以下简称Q玻璃）和基于PTFE（聚四氟乙烯）的方案，两者均能提升介电常数（Dk）和损耗因数（Df），但制造瓶颈的位置不同。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析师指出，两种方案的生产难点&amp;quot;位于不同环节&amp;quot;——PTFE方案的难点在CCL本身的生产侧，而Q玻璃方案的难点在PCB加工侧（良率提升）。正是这一差异，使美银判断Q玻璃基M9级CCL将在AI服务器中更快渗透。&lt;/p&gt;
-&lt;p&gt;如果Q玻璃方案的PCB端良率改善进度温和，&lt;strong&gt;高端CCL的需求上行空间（即供需缺口）反而会更大。&lt;/strong&gt;这一逻辑对CCL供应商构成潜在利好——良率爬坡越慢，有效需求越难被满足，稀缺溢价越高。&lt;/p&gt;
-&lt;p&gt;但并非所有子板块都同等暴露于Kyber延迟的冲击。分析师给出了明确的抗周期能力排序：&lt;strong&gt;测试接口/基板 &amp;gt; CCL &amp;gt; PCB&lt;/strong&gt;，原因是越靠近芯片端的解决方案，受平台规格变化的推动越直接，与AI服务器上行周期的绑定越深。&lt;/p&gt;
-&lt;p&gt;CCL方面，区分了TUC和EMC的差异化优势：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;TUC：短中期内在市占率扩张和定价方面有更大上行空间&lt;/li&gt;
-&lt;li&gt;EMC：长期具备基板材料和M9-Q技术壁垒带来的稀缺性优势&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;基板与测试接口方面，美银认为“2芯片方案”对单颗基板内容量的负面影响，可以被整体出货量的增加所抵消。此外，报告特别指出，&lt;strong&gt;市场担忧内存客户压低基板价格的逻辑“并不成立”（unwarranted）——理由是BT基板（双马来酰亚胺三嗪基板）供给持续收缩，玻璃布成本高企，而内存需求仍然强劲&lt;/strong&gt;，这三重因素共同支撑基板的定价韧性。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储“涨到头”了吗？</title><link>https://wallstreetcn.com/articles/3776336</link><guid>b0c83d76fbaed2f1387a1d9892ed2ca35f91257a1c89075d60ca063f4828890c</guid><pubDate>Tue, 07 Jul 2026 01:46:40 GMT</pubDate><description>&lt;p&gt;摩根士丹利亚太区科技团队认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储“涨到头”了吗？</title><link>https://wallstreetcn.com/articles/3776336</link><guid>b0c83d76fbaed2f1387a1d9892ed2ca35f91257a1c89075d60ca063f4828890c</guid><pubDate>Tue, 07 Jul 2026 01:46:40 GMT</pubDate><description>&lt;p&gt;摩根士丹利亚太区科技团队认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，摩根士丹利亚太区科技分析师Shawn Kim及Ryan Kim等人在7月6日研报中称，当前存储芯片市场最核心的三大争议：&lt;strong&gt;涨价周期是否见顶、长期协议（LTA）为何未能推动估值重估、以及这究竟是周期顶部还是牛市中继调整&lt;/strong&gt;。研报的核心结论可以用一句话概括：&lt;strong&gt;涨价的变化速率（rate of change）正在触顶，但周期本身尚未终结。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;大摩认为，随着最大的AI算力买家据传开始出售闲置算力，以及企业端对“代币最小化”（Token minimization）的诉求加剧，存储板块的上涨动能正在衰退。&lt;/p&gt;
 &lt;p&gt;值得注意的是，&lt;a href="https://wallstreetcn.com/articles/3776333"&gt;大摩首席美股策略师Michael Wilson&lt;/a&gt;在最新一期周度报告中向客户发出明确信号：&lt;strong&gt;减持半导体，转向超大规模云计算商。&lt;/strong&gt;Michael Wilson将&lt;strong&gt;半导体股票走势类比白银&lt;/strong&gt;，二者均经历抛物线式上涨，均具有大宗商品属性，&lt;strong&gt;当前调整或仍未结束，存储芯片（Memory）首当其冲。&lt;/strong&gt;虽然大摩亚太区科技团队也认为，存储板块的上涨动能正在衰退，但是大摩两个团队的逻辑却并不一样。&lt;/p&gt;
@@ -315,7 +288,34 @@ Meta的那句话，点燃了导火索
 &lt;p&gt;&lt;strong&gt;“这只是下一次轮动——从半导体到超大规模云厂商，以及上述其他扩散行情标的。”&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Micron财报发布后半导体股的相对跑输，让市场意识到&amp;quot;修正速率见顶&amp;quot;已成为市场关注的核心议题。Meta出售多余算力的意外公告，则将这一预期坐实。高资本开支/销售比因子的整固，可能进一步促使其他云厂商下调资本开支指引预期。&lt;/p&gt;
-&lt;p&gt;这一切，都在为扩散行情提供燃料。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 腾讯大幅减持快手股票至9.37%，不再是主要股东</title><link>https://wallstreetcn.com/articles/3776318</link><guid>cffdf4a0f49e3300618f6e89f235c18a5d1e0ade86862ea6796cc159cb1a1570</guid><pubDate>Mon, 06 Jul 2026 17:44:26 GMT</pubDate><description>&lt;p&gt;腾讯和快手本月一再联手上新闻，快手刚官宣腾讯加码AI投资才过几天，就确认了腾讯减持股份的消息。&lt;/p&gt;
+&lt;p&gt;这一切，都在为扩散行情提供燃料。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银回应“英伟达Kyber机架延迟”：担忧合理，但PCB/CCL/基板需求强劲，视调整为买点</title><link>https://wallstreetcn.com/articles/3776342</link><guid>6721e62f3ca5a76435dd6970fd3199405a8d9244b77c9bcace96884f86c0c046</guid><pubDate>Tue, 07 Jul 2026 02:55:38 GMT</pubDate><description>&lt;p&gt;7月6日盘前，半导体行业研究机构SemiAnalysis在X平台连发六条推文，&lt;a href="https://wallstreetcn.com/articles/3776238?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;直接点名英伟达Kyber NVL144机架遭遇“重大延迟”&lt;/a&gt;，同时Rubin Ultra由4计算芯片版缩减为2芯片版，CPO（共封装光学）采用时间表也面临不确定性。消息迅速发酵，当日中国台湾CCL（覆铜板）、PCB（印制电路板）、基板及测试接口相关板块股价平均下跌8-9%。&lt;/p&gt;
+&lt;p&gt;美银证券台湾科技团队（分析师Mike Yang等）随即发布研报称：&lt;strong&gt;技术层面的担忧是合理的，但股价下跌恰恰是入场的时机。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;担忧合理，但逻辑框架不同：需求缩量≠需求消失&lt;/strong&gt;
+&lt;p&gt;分析师认为，CCL/PCB/基板领域的潜在延迟或取消，本质上是“&lt;strong&gt;在供应约束下的需求缩量&lt;/strong&gt;（demand scale-down in response to supply constraint）”，而非需求趋势的逆转。并将其类比为此前市场对Vera CPU中DRAM需求的类似担忧——那一次，担忧同样引发了股价波动，但需求趋势并未因此改变。&lt;/p&gt;
+&lt;p&gt;为什么这次跌幅可能反应过度？分析师给出了一个关键逻辑：&lt;strong&gt;CCL/PCB/基板在AI服务器整体BOM（物料清单）中的成本占比较低，仅为低至中个位数百分比（low/mid single-digit %）。&lt;/strong&gt;成本占比低，意味着价格弹性更低——客户砍单或延迟采购时，首先压缩的往往是高价值、高占比的零部件（如内存），而非这类基础材料。&lt;/p&gt;
+&lt;p&gt;这一逻辑有供给端支撑。分析师表示，高端CCL（M8级及以上）和ABF基板预计至少到2027年底仍将持续供不应求，根本原因是设备交货周期漫长，而服务器CPU和加速器驱动的需求增长具有结构性。换言之，即便短期需求节奏因Kyber延迟而有所扰动，供给端的扩产速度也难以在短期内追上需求。&lt;/p&gt;
+&lt;p&gt;因此，美银将此次股价下跌定性为“买入时机增强”（enhanced entry point），维持相关板块买入评级。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+Q玻璃基M9将跑赢PTFE，各子板块抗跌顺序有别
+
+&lt;p&gt;Kyber机架的PCB中板制造难题，直接指向高端CCL材料的技术路线之争。该背板涉及M9级CCL，目前业界有两条路线：&lt;strong&gt;基于石英布（Q-glass，以下简称Q玻璃）和基于PTFE（聚四氟乙烯）的方案，两者均能提升介电常数（Dk）和损耗因数（Df），但制造瓶颈的位置不同。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师指出，两种方案的生产难点&amp;quot;位于不同环节&amp;quot;——PTFE方案的难点在CCL本身的生产侧，而Q玻璃方案的难点在PCB加工侧（良率提升）。正是这一差异，使美银判断Q玻璃基M9级CCL将在AI服务器中更快渗透。&lt;/p&gt;
+&lt;p&gt;如果Q玻璃方案的PCB端良率改善进度温和，&lt;strong&gt;高端CCL的需求上行空间（即供需缺口）反而会更大。&lt;/strong&gt;这一逻辑对CCL供应商构成潜在利好——良率爬坡越慢，有效需求越难被满足，稀缺溢价越高。&lt;/p&gt;
+&lt;p&gt;但并非所有子板块都同等暴露于Kyber延迟的冲击。分析师给出了明确的抗周期能力排序：&lt;strong&gt;测试接口/基板 &amp;gt; CCL &amp;gt; PCB&lt;/strong&gt;，原因是越靠近芯片端的解决方案，受平台规格变化的推动越直接，与AI服务器上行周期的绑定越深。&lt;/p&gt;
+&lt;p&gt;CCL方面，区分了TUC和EMC的差异化优势：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TUC：短中期内在市占率扩张和定价方面有更大上行空间&lt;/li&gt;
+&lt;li&gt;EMC：长期具备基板材料和M9-Q技术壁垒带来的稀缺性优势&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;基板与测试接口方面，美银认为“2芯片方案”对单颗基板内容量的负面影响，可以被整体出货量的增加所抵消。此外，报告特别指出，&lt;strong&gt;市场担忧内存客户压低基板价格的逻辑“并不成立”（unwarranted）——理由是BT基板（双马来酰亚胺三嗪基板）供给持续收缩，玻璃布成本高企，而内存需求仍然强劲&lt;/strong&gt;，这三重因素共同支撑基板的定价韧性。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 腾讯大幅减持快手股票至9.37%，不再是主要股东</title><link>https://wallstreetcn.com/articles/3776318</link><guid>cffdf4a0f49e3300618f6e89f235c18a5d1e0ade86862ea6796cc159cb1a1570</guid><pubDate>Mon, 06 Jul 2026 17:44:26 GMT</pubDate><description>&lt;p&gt;腾讯和快手本月一再联手上新闻，快手刚官宣腾讯加码AI投资才过几天，就确认了腾讯减持股份的消息。&lt;/p&gt;
 &lt;p&gt;北京时间7月6日周一晚间，快手科技发布港交所公告称，公司获悉，腾讯控股有限公司已于当天合计出售超2.7亿股快手B类股，公告并未披露本次部分售价区间或具体交易规模，而是称，售股完成后，腾讯将不再是快手主要股东，同时指出，腾讯对快手前景有信心，双方战略合作将延续。&lt;/p&gt;
 &lt;p&gt;周一稍早，两家媒体援引相关销售文件的内容称，腾讯计划通过出售约2.73亿股快手股份募资，占快手已发行股本约7.5%，售价相当于较快手港股周一收盘折价最多6.2%。按销售文件披露的价格区间计算，本次交易规模最高约122亿港元、约15.5亿美元。&lt;/p&gt;
 &lt;p&gt;而就在7月2日上周四，快手才发布有关旗下AI业务可灵AI（Kling AI）引入外部融资的公告，宣布预计将完成近30亿美元融资，引入包括腾讯在内的战略投资者。两次相隔才四天的公告让人发现，腾讯押注快手AI与股权减持几乎同步发生。&lt;/p&gt;
