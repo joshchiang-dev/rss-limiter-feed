@@ -1,49 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 02:29:43 GMT</lastBuildDate><item><title>[华尔街见闻] 存储“涨到头”了吗？</title><link>https://wallstreetcn.com/articles/3776336</link><guid>b0c83d76fbaed2f1387a1d9892ed2ca35f91257a1c89075d60ca063f4828890c</guid><pubDate>Tue, 07 Jul 2026 01:46:40 GMT</pubDate><description>&lt;p&gt;摩根士丹利亚太区科技团队认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根士丹利亚太区科技分析师Shawn Kim及Ryan Kim等人在7月6日研报中称，当前存储芯片市场最核心的三大争议：&lt;strong&gt;涨价周期是否见顶、长期协议（LTA）为何未能推动估值重估、以及这究竟是周期顶部还是牛市中继调整&lt;/strong&gt;。研报的核心结论可以用一句话概括：&lt;strong&gt;涨价的变化速率（rate of change）正在触顶，但周期本身尚未终结。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大摩认为，随着最大的AI算力买家据传开始出售闲置算力，以及企业端对“代币最小化”（Token minimization）的诉求加剧，存储板块的上涨动能正在衰退。&lt;/p&gt;
-&lt;p&gt;值得注意的是，&lt;a href="https://wallstreetcn.com/articles/3776333"&gt;大摩首席美股策略师Michael Wilson&lt;/a&gt;在最新一期周度报告中向客户发出明确信号：&lt;strong&gt;减持半导体，转向超大规模云计算商。&lt;/strong&gt;Michael Wilson将&lt;strong&gt;半导体股票走势类比白银&lt;/strong&gt;，二者均经历抛物线式上涨，均具有大宗商品属性，&lt;strong&gt;当前调整或仍未结束，存储芯片（Memory）首当其冲。&lt;/strong&gt;虽然大摩亚太区科技团队也认为，存储板块的上涨动能正在衰退，但是大摩两个团队的逻辑却并不一样。&lt;/p&gt;
-&lt;p&gt;分析指出，这意味着在即将到来的财报季前，相关股票将面临短期的价格疲软和极高的波动性。此外，大摩亚太区别科技团队强调，当前市场极度拥挤，&lt;strong&gt;资金正准备向滞涨板块轮动&lt;/strong&gt;。该团队的底线建议是：&lt;strong&gt;长期依然看涨（预计2027年盈利将增长35-40%），但短期需警惕回调。&lt;/strong&gt;&lt;/p&gt;
-三大核心争议：市场正在辩论什么？
-&lt;p&gt;摩根士丹利指出，过去一周投资者对话中反复出现三个核心争议，这也是理解当前存储板块走势的关键框架。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;争议一：算力是否真的过剩？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场上流传着一则未经证实的消息——AI领域最大的资本支出方之一据称拥有多余的算力可供出售。空头的解读是：如果超大规模云厂商（hyperscaler）算力过剩，整个AI基础设施建设可能供过于求。但摩根士丹利提供了另一种解读：这不过是企业在优化资本回报、将闲置基础设施货币化，与真正意义上的算力过剩并不等同。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;真正的验证时刻将是2026年二季度财报季&lt;/strong&gt;——如果超大规模云厂商维持或上调资本支出指引，将是存储股的良好买入时机；如果下调，则过剩叙事将持续发酵。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;争议二：Token消耗的&amp;quot;极大化&amp;quot;与&amp;quot;极小化&amp;quot;之争&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI应用落地过程中出现了一个新现象：许多企业曾鼓励员工尽可能多地使用AI生成token（&amp;quot;token maxing&amp;quot;），但这导致IT预算超支，企业开始寻求更廉价的替代方案。&lt;/p&gt;
-&lt;p&gt;具体表现为：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;企业越来越多地采用开源大模型（其中来自中国的开源LLM表现突出）处理基础查询；&lt;/li&gt;
-&lt;li&gt;在前沿模型之上叠加&amp;quot;编排层&amp;quot;，将简单任务分流至开源模型，复杂任务才调用前沿模型；&lt;/li&gt;
-&lt;li&gt;市场关注焦点转向：token提供商在财报中将如何呈现这一趋势，以及对2026年下半年的指引。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;该行的结论是：2026年二季度（6月季度）对AI供应链而言问题不大，但市场担忧的重心已转向更廉价token对下半年指引的冲击。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;争议三：为何LTA签订后股价未能重估？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;长期采购协议（LTA）的签订本应是存储股估值重估的催化剂，但市场反应平淡。摩根士丹利的解释是：&lt;strong&gt;市场记忆犹新——过去的LTA要么被重新谈判，要么最终迫使客户接收了并不需要的库存（类比COVID期间模拟半导体公司的经历）。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当然，也有观点认为当前存储LTA具有结构性意义（而非周期性），前提是AI需求保持强劲。但&lt;strong&gt;盈利预期能否持续上修，仍是投资者面临的最大不确定性&lt;/strong&gt;——尤其是存储价格何时、以何种幅度继续超预期，进而推动2028年EPS上移，时间线极不明朗。&lt;/p&gt;
-变化速率触顶：三个维度同步见顶
-&lt;p&gt;摩根士丹利明确指出，存储行业正在接近&amp;quot;变化速率峰值&amp;quot;（peak rate of change），体现在三个维度：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;价格同比增速（YoY pricing）&lt;/strong&gt;：DRAM价格同比涨幅已从1季度的高位显著回落，预计后续季度涨幅将持续收窄；&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;库存变化&lt;/strong&gt;：库存周期的改善幅度趋于平稳；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EPS修正广度&lt;/strong&gt;：DRAM板块的盈利预期修正广度已触及历史高位（当前约89%），进一步上修空间有限。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;这一&amp;quot;变化速率见顶&amp;quot;的信号，是存储股需要阶段性休整的核心原因。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，自2022年11月生成式AI浪潮兴起以来，存储板块已经历过三次周期性回调（分别对应美伊冲突-15%、急涨后获利了结-32%、所谓“对等关税日&amp;quot;-20%，以及当前约-17%的回调）。摩根士丹利将这些回调定性为&lt;strong&gt;结构性牛市中的正常修正&lt;/strong&gt;，而非熊市开端。&lt;/p&gt;
-&lt;p&gt;与此同时，摩根士丹利指出，当前存储板块面临的最直接压力来自&lt;strong&gt;仓位层面&lt;/strong&gt;，而非基本面崩塌。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;存储股是市场上持仓最为集中的板块之一。&lt;/strong&gt;近期波动率上升，使得维持历史高位的净敞口变得愈发困难——即便在&amp;quot;现货价格上涨、波动率同步上升&amp;quot;的背景下，这一动态也愈发明显。过去一周，多位投资者在与摩根士丹利的交流中表达了对这一动态的高度敏感，并对拓展&amp;quot;滞涨板块&amp;quot;机会（broadening laggard opportunities）表现出浓厚兴趣。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;超大规模云厂商股票的近期走弱，可能是存储股（作为AI支出的核心受益者）即将跑输大盘的领先信号。&lt;/strong&gt; 从季节性规律看，当前时间窗口对市场整体而言也是相对困难的阶段。&lt;/p&gt;
-&lt;p&gt;最后，摩根士丹利明确表示，&lt;strong&gt;在当前阶段，超大规模云厂商的财报表态，比存储公司自身的管理层评论更能左右股价走势&lt;/strong&gt;——因为存储公司在周期这个位置大概率会维持偏乐观的表态。&lt;/p&gt;
-&lt;p&gt;对于AI支出方而言，&amp;quot;token极大化&amp;quot;效应有望支撑2Q26业绩，但&lt;strong&gt;3Q26指引是否低于市场预期，将是下一个重要争议点&lt;/strong&gt;——token使用优化、低成本开源LLM竞争、以及&amp;quot;芯片通胀&amp;quot;（chipflation）对利润率的冲击，都是潜在的下行风险。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 07 Jul 2026 02:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变</title><link>https://wallstreetcn.com/articles/3776319</link><guid>fd50a2fc125c500f91213cd82b0633226a9eb95bc62914cc097977517f81941e</guid><pubDate>Mon, 06 Jul 2026 17:44:35 GMT</pubDate><description>&lt;p&gt;英伟达下一代机架级AI 服务器系统Kyber NVL144延期发布的传闻引发市场剧烈反应。&lt;/p&gt;
 &lt;p&gt;美东时间7月6日周一，英伟达回应传闻称，其产品路线图并未改变，否认核心进度受影响，但当天市场情绪已明显承压。美东时间上周日爆出这一传闻后，日本、韩国及中国台湾地区多只AI硬件供应链股票周一大跌，凸显投资者对AI资本开支周期任何“边际扰动”的高度敏感。&lt;/p&gt;
 &lt;p&gt;此次波动发生前，AI相关资产已历经多年上涨，估值与预期均处高位，使得任何未经证实的供应链风险信号都可能被放大解读。&lt;/p&gt;
 &lt;p&gt;Kyber NVL144的“延期争议”尚未被官方证实，但其已充分暴露当前AI交易的一个关键特征：预期高度前置、现实交付成为新锚点。在这一框架下，英伟达的回应或许短期能稳定叙事，但供应链的剧烈波动表明，市场已经开始对“下一代算力周期”的执行风险进行重新定价。&lt;/p&gt;
@@ -232,7 +188,51 @@ AI交易重燃，但芯片股表现分化
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，BE半导体实业公司收跌5.49%，马士基B类股跌5.45%，康士伯海事股份跌4.79%跌幅第三大。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶</title><link>https://wallstreetcn.com/articles/3776333</link><guid>c7f9f958fcde8a6a550884c6c44169b05e6085256b058ce9ef44064b53a09632</guid><pubDate>Tue, 07 Jul 2026 00:37:19 GMT</pubDate><description>&lt;p&gt;摩根士丹利说，AI没有结束，但该轮到超大规模云厂商（Hyperscalers）领涨了。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储“涨到头”了吗？</title><link>https://wallstreetcn.com/articles/3776336</link><guid>b0c83d76fbaed2f1387a1d9892ed2ca35f91257a1c89075d60ca063f4828890c</guid><pubDate>Tue, 07 Jul 2026 01:46:40 GMT</pubDate><description>&lt;p&gt;摩根士丹利亚太区科技团队认为，全球存储芯片行业正逼近“变化率的顶峰”（Peak rate of change），但这并不意味着周期的终结。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，摩根士丹利亚太区科技分析师Shawn Kim及Ryan Kim等人在7月6日研报中称，当前存储芯片市场最核心的三大争议：&lt;strong&gt;涨价周期是否见顶、长期协议（LTA）为何未能推动估值重估、以及这究竟是周期顶部还是牛市中继调整&lt;/strong&gt;。研报的核心结论可以用一句话概括：&lt;strong&gt;涨价的变化速率（rate of change）正在触顶，但周期本身尚未终结。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大摩认为，随着最大的AI算力买家据传开始出售闲置算力，以及企业端对“代币最小化”（Token minimization）的诉求加剧，存储板块的上涨动能正在衰退。&lt;/p&gt;
+&lt;p&gt;值得注意的是，&lt;a href="https://wallstreetcn.com/articles/3776333"&gt;大摩首席美股策略师Michael Wilson&lt;/a&gt;在最新一期周度报告中向客户发出明确信号：&lt;strong&gt;减持半导体，转向超大规模云计算商。&lt;/strong&gt;Michael Wilson将&lt;strong&gt;半导体股票走势类比白银&lt;/strong&gt;，二者均经历抛物线式上涨，均具有大宗商品属性，&lt;strong&gt;当前调整或仍未结束，存储芯片（Memory）首当其冲。&lt;/strong&gt;虽然大摩亚太区科技团队也认为，存储板块的上涨动能正在衰退，但是大摩两个团队的逻辑却并不一样。&lt;/p&gt;
+&lt;p&gt;分析指出，这意味着在即将到来的财报季前，相关股票将面临短期的价格疲软和极高的波动性。此外，大摩亚太区科技团队强调，当前市场极度拥挤，&lt;strong&gt;资金正准备向滞涨板块轮动&lt;/strong&gt;。该团队的底线建议是：&lt;strong&gt;长期依然看涨（预计2027年盈利将增长35-40%），但短期需警惕回调。&lt;/strong&gt;&lt;/p&gt;
+三大核心争议：市场正在辩论什么？
+&lt;p&gt;摩根士丹利指出，过去一周投资者对话中反复出现三个核心争议，这也是理解当前存储板块走势的关键框架。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;争议一：算力是否真的过剩？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场上流传着一则未经证实的消息——AI领域最大的资本支出方之一据称拥有多余的算力可供出售。空头的解读是：如果超大规模云厂商（hyperscaler）算力过剩，整个AI基础设施建设可能供过于求。但摩根士丹利提供了另一种解读：这不过是企业在优化资本回报、将闲置基础设施货币化，与真正意义上的算力过剩并不等同。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正的验证时刻将是2026年二季度财报季&lt;/strong&gt;——如果超大规模云厂商维持或上调资本支出指引，将是存储股的良好买入时机；如果下调，则过剩叙事将持续发酵。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;争议二：Token消耗的&amp;quot;极大化&amp;quot;与&amp;quot;极小化&amp;quot;之争&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI应用落地过程中出现了一个新现象：许多企业曾鼓励员工尽可能多地使用AI生成token（&amp;quot;token maxing&amp;quot;），但这导致IT预算超支，企业开始寻求更廉价的替代方案。&lt;/p&gt;
+&lt;p&gt;具体表现为：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;企业越来越多地采用开源大模型（其中来自中国的开源LLM表现突出）处理基础查询；&lt;/li&gt;
+&lt;li&gt;在前沿模型之上叠加&amp;quot;编排层&amp;quot;，将简单任务分流至开源模型，复杂任务才调用前沿模型；&lt;/li&gt;
+&lt;li&gt;市场关注焦点转向：token提供商在财报中将如何呈现这一趋势，以及对2026年下半年的指引。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;该行的结论是：2026年二季度（6月季度）对AI供应链而言问题不大，但市场担忧的重心已转向更廉价token对下半年指引的冲击。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;争议三：为何LTA签订后股价未能重估？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;长期采购协议（LTA）的签订本应是存储股估值重估的催化剂，但市场反应平淡。摩根士丹利的解释是：&lt;strong&gt;市场记忆犹新——过去的LTA要么被重新谈判，要么最终迫使客户接收了并不需要的库存（类比COVID期间模拟半导体公司的经历）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当然，也有观点认为当前存储LTA具有结构性意义（而非周期性），前提是AI需求保持强劲。但&lt;strong&gt;盈利预期能否持续上修，仍是投资者面临的最大不确定性&lt;/strong&gt;——尤其是存储价格何时、以何种幅度继续超预期，进而推动2028年EPS上移，时间线极不明朗。&lt;/p&gt;
+变化速率触顶：三个维度同步见顶
+&lt;p&gt;摩根士丹利明确指出，存储行业正在接近&amp;quot;变化速率峰值&amp;quot;（peak rate of change），体现在三个维度：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;价格同比增速（YoY pricing）&lt;/strong&gt;：DRAM价格同比涨幅已从1季度的高位显著回落，预计后续季度涨幅将持续收窄；&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;库存变化&lt;/strong&gt;：库存周期的改善幅度趋于平稳；&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EPS修正广度&lt;/strong&gt;：DRAM板块的盈利预期修正广度已触及历史高位（当前约89%），进一步上修空间有限。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这一&amp;quot;变化速率见顶&amp;quot;的信号，是存储股需要阶段性休整的核心原因。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，自2022年11月生成式AI浪潮兴起以来，存储板块已经历过三次周期性回调（分别对应美伊冲突-15%、急涨后获利了结-32%、所谓“对等关税日&amp;quot;-20%，以及当前约-17%的回调）。摩根士丹利将这些回调定性为&lt;strong&gt;结构性牛市中的正常修正&lt;/strong&gt;，而非熊市开端。&lt;/p&gt;
+&lt;p&gt;与此同时，摩根士丹利指出，当前存储板块面临的最直接压力来自&lt;strong&gt;仓位层面&lt;/strong&gt;，而非基本面崩塌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;存储股是市场上持仓最为集中的板块之一。&lt;/strong&gt;近期波动率上升，使得维持历史高位的净敞口变得愈发困难——即便在&amp;quot;现货价格上涨、波动率同步上升&amp;quot;的背景下，这一动态也愈发明显。过去一周，多位投资者在与摩根士丹利的交流中表达了对这一动态的高度敏感，并对拓展&amp;quot;滞涨板块&amp;quot;机会（broadening laggard opportunities）表现出浓厚兴趣。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;超大规模云厂商股票的近期走弱，可能是存储股（作为AI支出的核心受益者）即将跑输大盘的领先信号。&lt;/strong&gt; 从季节性规律看，当前时间窗口对市场整体而言也是相对困难的阶段。&lt;/p&gt;
+&lt;p&gt;最后，摩根士丹利明确表示，&lt;strong&gt;在当前阶段，超大规模云厂商的财报表态，比存储公司自身的管理层评论更能左右股价走势&lt;/strong&gt;——因为存储公司在周期这个位置大概率会维持偏乐观的表态。&lt;/p&gt;
+&lt;p&gt;对于AI支出方而言，&amp;quot;token极大化&amp;quot;效应有望支撑2Q26业绩，但&lt;strong&gt;3Q26指引是否低于市场预期，将是下一个重要争议点&lt;/strong&gt;——token使用优化、低成本开源LLM竞争、以及&amp;quot;芯片通胀&amp;quot;（chipflation）对利润率的冲击，都是潜在的下行风险。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶</title><link>https://wallstreetcn.com/articles/3776333</link><guid>c7f9f958fcde8a6a550884c6c44169b05e6085256b058ce9ef44064b53a09632</guid><pubDate>Tue, 07 Jul 2026 00:37:19 GMT</pubDate><description>&lt;p&gt;摩根士丹利说，AI没有结束，但该轮到超大规模云厂商（Hyperscalers）领涨了。&lt;/p&gt;
 &lt;p&gt;摩根士丹利首席美股策略师Michael Wilson在最新一期周度报告中向客户发出明确信号：&lt;strong&gt;减持半导体，转向超大规模云计算商。&lt;/strong&gt;这不是看空AI，而是一次轮动——AI投资周期内已发生过三次类似调整，Wilson认为，这是第四次。&lt;/p&gt;
 &lt;p&gt;芯片股在经历了自3月底以来的历史性涨幅后，近期出现明显降温。高贝塔动量股组合&lt;strong&gt;（即存储与芯片股）&lt;/strong&gt;录得新冠疫情以来最大两日跌幅。Wilson判断，这种回调&lt;strong&gt;“可能还有进一步空间”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;这一判断并非临时起意——Wilson早在2025年11月的年度展望中就提出了“市场扩散”交易（broadening trade）的框架，核心逻辑是：美国经济在2025年4月完成滚动式衰退后进入新一轮扩张周期，盈利增长将好于预期，&lt;strong&gt;市场领涨力量理应从AI资本开支受益者向更广泛板块扩散。&lt;/strong&gt;&lt;/p&gt;
@@ -340,7 +340,56 @@ Meta的那句话，点燃了导火索
 &lt;p&gt;腾讯可灵AI次轮融资的重要参与方，计划通过两主体合计出资约13.63亿元人民币，持股比例约为1.12%。 &lt;/p&gt;
 &lt;p&gt;这一前一后的资本动作，看似矛盾，实则印证了腾讯投资逻辑正在发生变化。相比继续大量持有成熟互联网平台股权，腾讯更倾向于把资金配置到具有更高成长性的AI业务本身。&lt;/p&gt;
 &lt;p&gt;从这一角度来看，腾讯本次减持更像是一场“资本再配置”——将成熟投资收益，转向下一轮技术周期。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 终于结束9连跌！甲骨文过去22个交易日跌了18天</title><link>https://wallstreetcn.com/articles/3776328</link><guid>f1f5bbd0bae0f9e1a109211770f418f65e67872b84961eeef256f8149222dd2c</guid><pubDate>Tue, 07 Jul 2026 00:11:38 GMT</pubDate><description>&lt;p&gt;甲骨文股价在经历自2021年以来最长连跌后终于止血，但这场跌势的深度与持续性仍令市场侧目。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指齐跌，科创50逆势涨超1%，半导体再度拉升，恒科指涨超2%，科网股反弹</title><link>https://wallstreetcn.com/articles/3776344</link><guid>d29ed262db45af463a957311562949df9776e9931e9b23f4173367735d3c6314</guid><pubDate>Tue, 07 Jul 2026 02:34:47 GMT</pubDate><description>&lt;p&gt;7月7日，A股震荡走低，三大股指早盘下跌，沪指逼近4000点，创业板盘初冲高翻红之后再度转跌，半导体产业链反弹，半导体硅片、ASIC芯片、半导体产业等方向大幅拉升，培育钻石、网络游戏等概念股活跃，煤炭、石油化工、医药等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股低开高走，恒指、恒科指双双上涨，恒科指涨超2%，科网股多数走高，美团涨超6%，腾讯涨超4%。存储芯片回落，兆易创新跌近6%。债市方面，国债期货多数下跌。商品方面，国内商品期货分化，沪银等金属期货承压。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.89%，深成指跌0.70%，创业板指跌0.60%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.46%，恒科指涨1.69%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货多数下跌，截至发稿，30年期主力合约涨0.08%，10年期主力合约持平，5年期主力合约跌0.01%，2年期主力合约跌0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货分化，截至发稿，不锈钢、鸡蛋、豆粕涨超1%，锰硅、沪镍、沪铝、铁矿石、工业硅、焦炭、橡胶、热轧卷板、沪锡、螺纹钢、原油等走高，多晶硅、沪铜、焦煤、集运指数、钯金、氧化铝、菜籽、燃油、碳酸锂、纸浆、沪金等下跌，烧碱、沥青、玻璃、白银跌超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;10:34&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数跌幅扩大至1%，创业板指跌0.9%。石化、海运、医药、贵金属板块跌幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:15&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生科技指数日内涨超2%，美团涨超7%，腾讯涨超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:59&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;半导体硅片概念持续走强，有研硅触及20cm涨停，上海合晶涨近10%，沪硅产业、TCL中环、立昂微、中晶科技跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，财通证券研报指出，今年5月中上旬，全球硅片龙头信越化学、SUMCO、环球晶圆开启年内第二轮提价，其中12英寸常规硅片涨价5%至8%，适配AI/HPC场景的高端专用硅片涨幅达18%至22%，年内两轮提价累计涨幅超15%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:51&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;培育钻石概念震荡拉升，惠丰钻石涨超10%，夜光明涨超25%，黄河旋风、沃尔德、四方达、力量钻石跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，东吴证券认为，AI算力需求爆发叠加英伟达Rubin架构催化，金刚石材料有望迎来加速渗透期。金刚石材料凭借超高热导率和低热膨胀特性，有望成为下一代高端AI芯片先进散热方案的重要技术路径。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:46&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘算力芯片概念震荡拉升，沐曦股份涨超10%，万通发展、芯原股份、海光信息、寒武纪、摩尔线程、龙芯中科跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，英特尔对CPU进行调涨。此次涨价主要针对部分消费级Core Ultra处理器以及Xeon服务器处理器。其中，高端Xeon服务器产品整体涨幅达到7%至12%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:42&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘PCB概念震荡反弹，光华科技、天海电子、威尔高、诺德股份涨停，金安国纪、山东玻纤、鼎泰高科、圣泉集团跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，7月6日，覆铜板龙头建滔积层板再发布涨价函：近期由于市场需求持续攀升，带动上游玻璃布、铜等核心主材供应日趋紧缺、价格大幅上涨，公司对所有FR-4、PP提价15%，CEM-1/22F提价10%，铜箔加工费1.5oz以下+5元/KG，2oz 以上+8 元/KG。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:40&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘端侧AI概念震荡走强，瑞芯微涨停，传音控股、全志科技、品茗科技、乐鑫科技、芯原股份、恒玄科技跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，博通宣布与苹果扩大战略合作，定制 ASIC 芯片合同延长至 2031 年，将为 iPhone、Mac、Vision Pro 多代产品开发供应定制 AI 加速芯片，强化终端侧 AI 算力布局。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:35&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生科技指数日内涨超1%，美团涨超4%，腾讯、小米、联想、理想汽车涨超3%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:28&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;贵金属概念集体低开，招金黄金一度跌停，晓程科技、赤峰黄金、兴业银锡、湖南白银集体低开。消息面上，现货白银失守61美元/盎司，日内跌1.73%。现货黄金失守4140美元/盎司，日内跌0.61%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.54%，创业板指跌0.44%。半导体、芯片股领跌，内存、先进封装方向跌幅居前，建材、贵金属板块低迷；工程机械板块走强。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数开盘跌0.2%，恒生科技指数跌0.37%。资源股领跌，医药股回调。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 终于结束9连跌！甲骨文过去22个交易日跌了18天</title><link>https://wallstreetcn.com/articles/3776328</link><guid>f1f5bbd0bae0f9e1a109211770f418f65e67872b84961eeef256f8149222dd2c</guid><pubDate>Tue, 07 Jul 2026 00:11:38 GMT</pubDate><description>&lt;p&gt;甲骨文股价在经历自2021年以来最长连跌后终于止血，但这场跌势的深度与持续性仍令市场侧目。&lt;/p&gt;
 &lt;p&gt;隔夜甲骨文股价收涨2.49%，报143.76美元，终结此前长达9个交易日的连续下跌，创下自6月15日以来单日最大涨幅。盘中股价一度触及145.62美元，较前收盘价高出3.8%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;然而，这次反弹难以掩盖更深层的颓势。自6月1日触及2026年收盘高点248.15美元以来，甲骨文在过去22个交易日中有18天录得下跌，累计跌幅达26.2%。&lt;/p&gt;
@@ -391,48 +440,7 @@ Meta的那句话，点燃了导火索
 &lt;p&gt;&amp;quot;风险已经完全翻转，&amp;quot;沃勒说，&amp;quot;这会改变你思考政策方向的方式。&amp;quot;&lt;/p&gt;
 &lt;p&gt;值得注意的是，美联储官员上月维持利率不变，但在通胀升至2023年以来最高水平后，加息预期有所升温。&lt;/p&gt;
 &lt;p&gt;上月FOMC会后公布的点阵图显示，18位提供利率预期的美联储官员中，有九人、占半数预计今年联储将至少加息一次。在这一背景下，沃勒与沃什在政策沟通上的微妙分歧，或将对市场解读美联储下一步行动产生实质影响。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点</title><link>https://wallstreetcn.com/articles/3776312</link><guid>b969d7263ce930b704555d20838eb3d7e54b40b0b98c764ce00ba7485b807b56</guid><pubDate>Mon, 06 Jul 2026 14:44:08 GMT</pubDate><description>&lt;p&gt;美国服务业扩张步伐在6月略有放缓，但企业招聘活动明显回暖，显示在成本压力缓解和需求保持韧性的背景下，美国服务业整体仍具备较强韧性。&lt;/p&gt;
-&lt;p&gt;周一，美国供应管理协会（ISM）公布数据显示，&lt;strong&gt;6月ISM服务业PMI从5月的54.5降至54.0，略低于市场预期54.2&lt;/strong&gt;，连续保持在50荣枯线以上，意味着服务业仍处于扩张区间，但扩张速度有所放缓。&lt;/p&gt;
-&lt;p&gt;尽管商业活动和新订单增长有所降温，但就业指标大幅改善，而&lt;strong&gt;支付价格指数则回落至四个月低点，反映企业面临的成本压力正在缓解。&lt;/strong&gt;不过，企业对未来一年的经营前景仍较为谨慎，不少受访企业表示，经济和地缘政治前景仍存在较大不确定性。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-服务业扩张放缓，但需求依然稳健
-&lt;p&gt;分项指标显示，&lt;strong&gt;6月商业活动指数和新订单指数均较前月有所回落，不过仍维持在扩张区间&lt;/strong&gt;，表明美国服务业需求虽略有降温，但整体仍保持较为稳健的增长态势。&lt;/p&gt;
-&lt;p&gt;与此同时，库存指标出现明显回落。此前5月曾大幅攀升的库存指数在6月显著下降，而积压订单指数则重新上升，意味着企业手中待完成订单有所增加。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;整体来看，美国服务业增长动能较5月有所放缓，但尚未出现明显转弱迹象&lt;/strong&gt;。S&amp;amp;P Global调查同样显示，企业对未来业务增长的预期较5月有所改善，但仍低于中东冲突爆发前水平，反映企业在投资和扩张方面依然保持谨慎。&lt;/p&gt;
-就业指数创2024年以来最大升幅
-&lt;p&gt;相比整体PMI的小幅回落，就业成为本次报告最大的亮点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ISM服务业就业指数录得2024年以来最大单月升幅，并自今年2月以来首次重新进入扩张区间&lt;/strong&gt;，意味着越来越多服务业企业开始增加员工数量。这表明，在需求仍具韧性的情况下，企业招聘意愿有所恢复。&lt;/p&gt;
-&lt;p&gt;不过，这一调查结果与上周公布的美国6月非农就业数据形成一定反差。官方数据显示，美国6月新增就业较此前连续三个月的强劲增长有所放缓，显示不同调查口径下，美国就业市场仍呈现分化特征。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;企业反馈也印证了就业市场的韧性。&lt;/strong&gt;例如，医疗保健行业受访企业表示，患者需求和业务活动依然强劲，公司继续增加全职员工；零售企业则称，目前业务表现好于季节性水平，价格保持稳定，就业规模已达到理想状态。&lt;/p&gt;
-成本压力缓解，为企业招聘腾出空间
-&lt;p&gt;价格方面，&lt;strong&gt;ISM支付价格指数降至67.7，为四个月以来最低水平，企业成本上涨速度有所放缓。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;近期国际油价和汽油价格明显回落，是推动成本压力缓解的重要因素之一。此前受中东局势影响，能源价格一度大幅攀升，而随着美伊达成临时协议，油价近期明显降温。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在能源成本回落、消费需求保持韧性的共同作用下，企业利润空间有所改善，也为扩大招聘提供了更充足的条件。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;整体来看，6月ISM服务业数据显示，美国占经济主体的服务业仍保持扩张，尽管增长节奏有所放缓，但就业改善和价格压力下降，为美国经济软着陆提供了新的积极信号。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 海力士美股首发在即，顶级AI基金抢筹，瑞银料长期“吸金”150亿</title><link>https://wallstreetcn.com/articles/3776321</link><guid>e537a9aa4bb8ec78b3fe11e4707e55bdd280b053d13bc0edac4ef13bf19b5949</guid><pubDate>Mon, 06 Jul 2026 23:54:43 GMT</pubDate><description>&lt;p&gt;SK海力士赴美发行存托凭证（ADR）进入关键定价期，顶级AI基金的集中抢筹与巨量被动资金流入预期，正重塑这家存储芯片巨头的估值逻辑，并催生出复杂的跨市场套利交易。&lt;/p&gt;
-&lt;p&gt;最新披露的Base offering认购名单显示，Situational Awareness、Baillie Gifford（BG）及Coatue三家机构悉数入局，据英国《金融时报》报道，三家合计拟认购规模高达70亿美元。资金面的增量预期更为庞大。据瑞银测算，长期来看，SK海力士ADR纳入核心半导体指数将引流高达150亿美元被动资金。在资金涌入预期下，做多ADR、做空韩国正股的跨市场套利策略开始涌现。&lt;/p&gt;
-&lt;p&gt;这一系列资本运作不仅印证了机构对AI半导体赛道高景气度的共识，也意味着随着跨市场转换额度的逐步消耗，SK海力士在美股市场的定价权与溢价空间将迎来实质性重估。&lt;/p&gt;
-顶级AI基金集结，定价时间表明确
-&lt;p&gt;SK海力士ADS发行的机构认购细节揭示了华尔街对AI算力底座的配置热情。Base offering认购机构名单中，汇集了Baillie Gifford（BG）、Coatue以及由OpenAI前员工创立的Situational Awareness等知名AI基金，显示出头部科技投资机构对AI半导体赛道的高度一致性看好。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其中，Situational Awareness由前OpenAI研究员Leopold Aschenbrenner创立，该基金凭借对AI相关股票的一系列精准押注，在散户投资者中积累了大量追随者；Baillie Gifford则是以重仓成长股著称的英国老牌资管巨头。上述三家机构合计表示愿意认购最多70亿美元的SK海力士ADS。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从基本面来看，AI需求的爆发正深刻改写SK海力士的财务版图。2025年全年，SK海力士营收同比增长47%至97.1万亿韩元（约630亿美元），净利润更是翻逾一倍至42.9万亿韩元（约280亿美元）。今年一季度，营收同比近乎翻三倍，达52.6万亿韩元（约345亿美元）。受此提振，SK海力士在首尔韩交所的股价过去一年累计涨幅逾750%，总市值已达1663万亿韩元（约1.1万亿美元）。&lt;/p&gt;
-&lt;p&gt;此次SK海力士计划在纳斯达克增发1779万股新股，约占总股本的2.5%，募资规模达280亿美元，有望成为亚洲企业在纽约有史以来规模最大的上市交易之一。募集资金将主要用于扩大韩国本土晶圆制造产能，并购置荷兰ASML生产的EUV光刻机——这是生产尖端存储芯片不可或缺的核心设备。&lt;/p&gt;
-&lt;p&gt;在定价节奏方面，时间表已完全明确。最终发行价将于7月9日确定，美股ADS预计于7月11日（周五）在纽约正式开始交易，7月10日在韩交所发行新股，T+1日资金到账。&lt;/p&gt;
-&lt;p&gt;ADS定价将参照韩交所股价，以7月3日收盘价折算，每份ADS约合158美元。承销商阵容豪华，包括美国银行、摩根大通、高盛和花旗集团。&lt;/p&gt;
-&lt;p&gt;受近期股价波动及机构博弈影响，当前的发行建议价格较前期有所下修。这一调整既是对近期二级市场股价回调的客观反映，也在客观上为参与此次offering的机构提供了更优的安全边际与定价福利。&lt;/p&gt;
-HBM霸主地位奠定估值基础
-&lt;p&gt;SK海力士此次赴美上市，背后是其在高带宽内存（HBM）赛道确立的技术领先优势。SK海力士率先研发出HBM3，迅速成为搭配AI加速器运行前沿AI模型的首选存储技术，并由此跃升为英伟达的核心供应商，掌控全球HBM市场约半壁江山。&lt;/p&gt;
-&lt;p&gt;AI数据中心建设驱动的HBM需求激增，引发全球存储芯片供应告急，推动SK海力士、三星和美光三大巨头股价齐创新高——三家公司今年均已突破万亿美元市值。上周，SK海力士与三星联合宣布在韩国大规模扩产，合计投资规模高达6000亿美元，以应对客户日益迫切的产能需求。&lt;/p&gt;
-&lt;p&gt;此次ADS发行规模经过精心设计，以确保控股股东SK集团旗下SK Square持股比例维持在20%以上。&lt;/p&gt;
-指数纳入预期：短期35亿与长期150亿美元的资金盛宴
-&lt;p&gt;ADR发行对SK海力士最直接的流动性提振，来自于被动资金的强制配置。瑞银在最新研报中详细测算了ADR纳入各类指数后的资金流入规模。&lt;/p&gt;
-&lt;p&gt;从指数资金视角来看，SK海力士上市后约9600亿美元的流通市值有望纳入MVIS美国半导体25指数。受指数个股权重上限规则限制，SK海力士在该指数的最高权重可达5%。仅追踪这一指数的SMH半导体ETF，就将迎来约35亿美元的被动资金流入。相比之下，若纳入SOXX指数，其权重仅为0.5%，对应资金流入约2亿美元。&lt;/p&gt;
-&lt;p&gt;长期来看，随着ADR流通盘的逐步扩大，SK海力士有机会被纳入纳斯达克100指数。UBS预计，长期合计将带来约150亿美元的被动资金流入。不过，短期内公司较难立刻纳入标普科技精选指数。&lt;/p&gt;
-跨市场套利涌现：押注转换额度耗尽与ADR溢价
-&lt;p&gt;随着ADR发行的推进，韩股与美股之间的跨市场转换额度成为套利资金博弈的核心变量。市场预估，韩股转美股ADR的可转换额度上限为15%或20%，对应可转换股票总市值接近2000亿美元。&lt;/p&gt;
-&lt;p&gt;当前，市场已开始构建做多美股ADR、做空韩国正股的跨市场套利交易。该策略的核心逻辑在于押注转换额度耗尽后，海外资金只能直接在美股抢购ADR，从而长期形成美股存托凭证相对韩股的溢价。作为参考，台积电ADR相对台股在2026年6月的平均溢价高达16%。&lt;/p&gt;
-&lt;p&gt;虽然多数观点认为额度消耗将是一个漫长的过程，但市场预期的预期差正在形成。&lt;/p&gt;
-&lt;p&gt;在存储芯片行业高度景气的背景下，海外资金入场速度可能远超预期。未来存量股票的跨市场转换规模将直接改变SK海力士在美股ETF中的权重，额度用尽的节奏及溢价显现的时间点，或将比市场预想来得更快。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银：芯片股“夏季回调、秋季反弹”，存储“估值偏低，应该扩张”</title><link>https://wallstreetcn.com/articles/3776339</link><guid>de49118a0d644bb1de57daded2e88703708ecee7b87073f8eaeb09dffe30be2e</guid><pubDate>Tue, 07 Jul 2026 01:28:59 GMT</pubDate><description>&lt;p&gt;美国银行证券最新报告认为，半导体行业当前调整属于健康重置而非结构性转变，并对存储芯片的长期投资价值给出明确背书。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银：芯片股“夏季回调、秋季反弹”，存储“估值偏低，应该扩张”</title><link>https://wallstreetcn.com/articles/3776339</link><guid>de49118a0d644bb1de57daded2e88703708ecee7b87073f8eaeb09dffe30be2e</guid><pubDate>Tue, 07 Jul 2026 01:28:59 GMT</pubDate><description>&lt;p&gt;美国银行证券最新报告认为，半导体行业当前调整属于健康重置而非结构性转变，并对存储芯片的长期投资价值给出明确背书。&lt;/p&gt;
 &lt;p&gt;据追风交易台，美国银行分析师Vivek Arya在7月6日的报告指出，费城半导体指数在第二季度大涨88%后，第三季度已回调11%，与历史上季节性最弱时段的规律高度吻合，&lt;strong&gt;其将此次回调定性为&amp;quot;夏季重置&amp;quot;，并预判秋季有望迎来反弹&lt;/strong&gt;。&lt;strong&gt;在存储领域，报告重申对美光科技的买入评级，目标价1550美元，称其为首选标的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上述判断对当前市场情绪具有直接参考意义。在中国开源模型快速崛起、市场对AI资本开支可持续性存在疑虑的背景下，该报告为半导体行业的需求逻辑提供了系统性辩护，并对存储芯片的估值修复路径作出明确预判。&lt;/p&gt;
 季节性回调不改趋势，AI周期根基稳固
@@ -451,4 +459,17 @@ HBM霸主地位奠定估值基础
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩点评铠侠BiCS-10量产：AI存储升级的关键一步</title><link>https://wallstreetcn.com/articles/3776314</link><guid>ecbf4eb976743bc219a139bd28b6b869eaa205b54f7206231f3803da0ae3945c</guid><pubDate>Mon, 06 Jul 2026 15:57:17 GMT</pubDate><description>&lt;p&gt;铠侠开启下一代NAND闪存技术的量产周期，为其争夺AI时代数据中心存储市场奠定关键技术基础。7月3日，铠侠与闪迪联合宣布，已在北上工厂K2晶圆厂正式启动BiCS-10 NAND闪存量产，并向客户提供基于该技术的1Tb TLC产品样品。&lt;/p&gt;
+&lt;p&gt;摩根士丹利随后发布研报，维持铠侠&amp;quot;增持&amp;quot;评级及11万日元目标价。分析师认为，&lt;strong&gt;BiCS-10的正式量产意味着公司下一代企业级SSD产品进入商业化阶段，有望进一步增强其在AI数据中心和企业级存储市场的竞争力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，大摩同时指出，未来一年左右，公司业绩增长仍主要依赖上一代BiCS-8产品。&lt;strong&gt;BiCS-10的真正价值更多体现在中长期——其商业化进展将决定铠侠能否顺利提升数据中心及企业级业务占比，实现产品结构升级。&lt;/strong&gt;&lt;/p&gt;
+BiCS-10性能全面升级，为AI时代SSD而生
+&lt;p&gt;相比上一代BiCS-8，BiCS-10在性能、容量和能效方面均实现显著提升。&lt;/p&gt;
+&lt;p&gt;其中，接口速度由3.6Gbps提升至4.8Gbps，提升约33%；单位面积比特密度提高59%；写入能效提升18%，读取能效提升30%。&lt;strong&gt;更重要的是，BiCS-10从设计之初便瞄准下一代AI服务器需求&lt;/strong&gt;，可支持PCIe Gen6及Gen7 SSD，为大模型训练和AI推理所需的高带宽、高吞吐存储提供支持。&lt;/p&gt;
+&lt;p&gt;铠侠表示，首批量产的1Tb TLC产品将首先应用于高性能企业级SSD，包括CM系列产品。该系列主要面向数据中心市场，具备高吞吐、低延迟特性，可支持KV Cache（键值缓存）架构，在AI内存层级体系中承担高速缓存存储功能。&lt;/p&gt;
+&lt;p&gt;承担量产任务的K2晶圆厂于2025年9月投产，此前主要生产BiCS-8产品。随着BiCS-10导入，铠侠与闪迪计划进一步扩大该工厂产能。&lt;/p&gt;
+短期增长仍靠BiCS-8，BiCS-10决定中长期竞争力
+&lt;p&gt;摩根士丹利认为，市场不应将BiCS-10视为短期业绩驱动力。&lt;/p&gt;
+&lt;p&gt;报告预计，&lt;strong&gt;到2027年3月底，BiCS-8产品将占铠侠整体GB出货量约80%。&lt;/strong&gt;凭借更先进的平面微缩工艺、CMOS Direct Bonded to Array（CBA）技术以及更高堆叠层数，BiCS-8仍将是未来一年多公司收入增长和单位成本下降的主要来源。&lt;/p&gt;
+&lt;p&gt;相比之下，BiCS-10承担的是中长期产品升级任务。&lt;/p&gt;
+&lt;p&gt;目前，数据中心及企业级产品约占铠侠收入的30%至40%。公司目标是将这一比例提升至60%以上，而摩根士丹利认为，&lt;strong&gt;这一战略目标能否实现，很大程度上取决于BiCS-10能否顺利完成客户认证、实现规模出货，并推动高端SSD产品持续放量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，未来市场关注的重点，将集中在BiCS-10客户验证进度以及K2晶圆厂扩产节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
