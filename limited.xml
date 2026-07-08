@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 13:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 14:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
 &lt;p&gt;摩根大通据此对两家中国AI公司作出分化评级。报告将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，理由是GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断；同时将MiniMax目标价从400港元下调至300港元，维持&amp;quot;中性&amp;quot;评级，因M3尚未展示出足够的模型驱动定价权。&lt;/p&gt;
 &lt;p&gt;摩根大通指出，&lt;strong&gt;开放权重扩大了模型分发范围，但变现能力仍高度依赖模型质量、迭代速度与端点可靠性。对于能力领先的模型，开放权重可借助云服务商（CSP）、推理平台与私有化部署等外部GPU算力扩大使用规模，同时通过官方API、授权许可、平台SaaS及收入分成等多路径实现商业变现；对于差异化不足的模型，更广泛的访问权限反而加速了比价与流量替换。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -218,28 +218,7 @@ AI催化剂密集落地
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;由于三星电子与SK海力士合计占KOSPI市值逾半，杠杆ETF的对冲与每日再平衡交易对正股形成额外抛压，进一步放大了大盘跌幅，并最终触发程序化卖单暂停（sidecar）及熔断机制（circuit breaker）。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;市场动荡迅速引发政界强烈反弹。&lt;/strong&gt;韩国人民力量党议员Ahn Cheol-soo公开抨击这批产品是&amp;quot;彻底的政策失败&amp;quot;，并呼吁包括强制退市在内的大力度监管干预，称&amp;quot;KOSPI已沦为赌场&amp;quot;。韩国副总理兼企划财政部长官Koo Yoon-chul表示，政府充分了解杠杆ETF加剧市场波动的担忧，相关部门正在讨论如何将波动性降至最低。执政党共同民主党政策委员长Rep. Han Jeoung-ae也表示将评估是否需要出台额外监管措施。&lt;/p&gt;
-&lt;p&gt;不过，&lt;strong&gt;市场参与者普遍认为强制退市的可能性极低。&lt;/strong&gt;韩国金融监督院官员表示，监管层正在评估包括收紧产品交易要求在内的替代方案，但尚未得出结论，&amp;quot;任何监管调整都需要综合考量对更广泛市场的影响&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI繁荣背后的结构性分化加剧：59%标普科技股已跌入熊市区间</title><link>https://wallstreetcn.com/articles/3776488</link><guid>b4a1be2914816019b4bdde59f888bce367961e6e0bec2acf33c0a6453d735fc5</guid><pubDate>Wed, 08 Jul 2026 13:19:20 GMT</pubDate><description>&lt;p&gt;人工智能交易的内部裂痕正在扩大。表面上被华尔街定性为&amp;quot;动量因子平仓&amp;quot;的市场波动，本质上是一场AI板块的隐性修正——而这场修正的烈度与速度，已创下新冠疫情以来之最。&lt;/p&gt;
-&lt;p&gt;据高盛数据，其动量配对组合自6月22日峰值以来已下跌27%，五日跌幅之大、速度之快为疫情以来所未见。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，标普500指数科技股中，已有59%较过去252个交易日高点回落逾20%，按通行定义已进入熊市区间。这一数字揭示出一个关键现实：AI行情的繁荣高度集中于少数头部标的，大量科技股早已被抛在身后。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;半导体股亦出现技术面警示信号——费城半导体指数成分股跌破50日均线，为今年4月以来首次。瑞银交易台将当前走势定性为&amp;quot;可控去风险&amp;quot;而非恐慌性抛售，认为此轮调整主要由系统性因子流动主导，投资者在失望的催化剂出现后、关键供给事件来临前，主动压缩高贝塔、高共识多头头寸。&lt;/p&gt;
-动量即AI：一场被误读的板块修正
-&lt;p&gt;华尔街将近期波动归因于动量因子平仓，但这一解读遮蔽了更深层的结构性问题。据高盛Marquee平台数据，动量因子与AI交易的相关性已超过95%，二者几乎可以画等号。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，动量因子的剧烈波动，实质上反映的是AI持仓的集中暴露——做多AI赢家、做空被视为AI输家的软件股，构成了当前市场最主流的因子结构。高盛Prime数据显示，动量因子敞口已从峰值显著回落，目前处于过去一年的第60百分位。&lt;/p&gt;
-&lt;p&gt;摩根士丹利量化与衍生品策略团队的历史数据显示，此次动量回撤在过去十年中排名第七大，但以14天达到该回撤幅度的速度而言，则是史上最快。&lt;/p&gt;
-AI波动率飙升，与大盘走势明显背离
-&lt;p&gt;高盛数据显示，动量因子（即AI交易）的波动率已升至疫情以来最高水平，而标普500指数整体波动率依然温和。这一背离表明，当前的压力高度集中于AI相关持仓，尚未向更广泛的市场蔓延。&lt;/p&gt;
-&lt;p&gt;瑞银交易台的判断印证了这一观察。该机构指出，此轮抛售呈现出&amp;quot;可控去风险&amp;quot;特征，主要由系统性及因子流动驱动，核心压力集中于拥挤的AI、半导体及存储器敞口，并非全面的市场恐慌。&lt;/p&gt;
-&lt;p&gt;不过，瑞银亦保留了警惕措辞——&amp;quot;暂时无需恐慌&amp;quot;的表述，隐含着对后续走势的不确定性。&lt;/p&gt;
-内部人士逆势买入，历史信号值得关注
-&lt;p&gt;在机构投资者加速去风险的同时，科技公司内部人士正在逆势增持。据市场数据，企业内部人士的买入行为近期明显升温。&lt;/p&gt;
-&lt;p&gt;历史经验表明，内部人士的积极买入鲜少与市场重要顶部同步出现，尽管其择时能力并不总是精准。对于寻找底部信号的投资者而言，这一动向或具有一定的参考价值。&lt;/p&gt;
-超大规模云厂商与半导体：AI内部的新轮动逻辑
-&lt;p&gt;当前市场讨论的焦点，已从&amp;quot;是否继续持有AI&amp;quot;转向&amp;quot;如何在AI内部进行结构调整&amp;quot;。据悉，&amp;quot;做多超大规模云计算厂商、做空半导体&amp;quot;正迅速成为华尔街今夏最受关注的交易策略。&lt;/p&gt;
-&lt;p&gt;这一轮动逻辑的背后，是投资者对AI价值链分配的重新评估——在算力投入边际效益受到质疑的背景下，直接受益于AI应用落地的云基础设施运营商，被认为比上游芯片制造商具备更强的盈利确定性。&lt;/p&gt;
-&lt;p&gt;59%的标普科技股已跌入熊市区间，这一数字本身便是AI行情高度集中化的注脚。对于投资者而言，当前的市场环境考验的不仅是对AI长期叙事的信念，更是在板块内部分化加剧背景下的结构性选股能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万亿境外人民币告别“无锚时代”，首套离岸人民币债券估值与指数发布</title><link>https://wallstreetcn.com/articles/3776478</link><guid>b120bbb0cfde0cbd7a91d7e056c736474e7578e9356c968a38bb56d1f569172a</guid><pubDate>Wed, 08 Jul 2026 12:05:01 GMT</pubDate><description>&lt;p&gt;全球超过一万亿境外人民币，或许迎来了更贴心的“度量衡”。&lt;/p&gt;
+&lt;p&gt;不过，&lt;strong&gt;市场参与者普遍认为强制退市的可能性极低。&lt;/strong&gt;韩国金融监督院官员表示，监管层正在评估包括收紧产品交易要求在内的替代方案，但尚未得出结论，&amp;quot;任何监管调整都需要综合考量对更广泛市场的影响&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万亿境外人民币告别“无锚时代”，首套离岸人民币债券估值与指数发布</title><link>https://wallstreetcn.com/articles/3776478</link><guid>b120bbb0cfde0cbd7a91d7e056c736474e7578e9356c968a38bb56d1f569172a</guid><pubDate>Wed, 08 Jul 2026 12:05:01 GMT</pubDate><description>&lt;p&gt;全球超过一万亿境外人民币，或许迎来了更贴心的“度量衡”。&lt;/p&gt;
 &lt;p&gt;7月上旬，&lt;a&gt;&lt;/a&gt;&lt;a href="https://stockpage.10jqka.com.cn/601658"&gt;邮储银行&lt;/a&gt;、&lt;a href="https://stockpage.10jqka.com.cn/601998"&gt;中信银行&lt;/a&gt;、中诚信指数联合发布离岸人民币债券估值与指数产品。这是境内机构首次推出的境外人民币债券基准产品，为离岸人民币债券市场提供了更加透明、量化的定价参考。&lt;/p&gt;
 &lt;p&gt;这是首次由商业银行联合第三方评级机构共同推出离岸人民币债券估值产品，覆盖了超 90%的存量债券。同时，相关机构也推出了按信用维度分层的离岸人民币债券指数。&lt;/p&gt;
 &lt;strong&gt;度量衡&lt;/strong&gt;&lt;strong&gt;长什么样&lt;/strong&gt;&lt;strong&gt;？&lt;/strong&gt;
@@ -304,4 +283,57 @@ AI板块遭遇连锁冲击，动量因子5日跌幅超20%
 &lt;p&gt;在机构普遍撤退之际，&lt;strong&gt;散户投资者的逆势买入成为本轮市场最显著的结构性特征。&lt;/strong&gt;高盛数据显示，散户盘中转为净买入，并持续加码，最终收盘时净流入规模达到近三年回溯的第90百分位，是当日市场最重要的支撑力量之一。&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;市场内部结构并未全面崩溃。&lt;/strong&gt;标普500指数中有283只成分股当日收涨，显示出一定的广度支撑，与摩根士丹利策略师Michael Wilson此前提出的&amp;quot;市场持续扩散&amp;quot;主题相互呼应。&lt;/p&gt;
 &lt;p&gt;面对当前局面，高盛交易员Guillaume Soria态度趋于谨慎，认为将20%的5日跌幅定性为&amp;quot;健康回调&amp;quot;过于牵强，但指出经历上半年57%的强劲表现后，动量因子的极端仓位已有所重置——从一个月前的历史高位回落至1年回溯的第60百分位，整体业绩仍保持强劲。&lt;/p&gt;
-&lt;p&gt;Soria认为，&lt;strong&gt;当前可能处于本轮调整的&amp;quot;后期阶段&amp;quot;，但若负面消息将裂缝扩大为鸿沟、市场领导力发生切换，则可能演变为更深度的回调。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Soria认为，&lt;strong&gt;当前可能处于本轮调整的&amp;quot;后期阶段&amp;quot;，但若负面消息将裂缝扩大为鸿沟、市场领导力发生切换，则可能演变为更深度的回调。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发</title><link>https://wallstreetcn.com/articles/3776428</link><guid>c5fbecb76c117a2ec04baf08c3324f9b24a9fcefd20e72228d0d379cdb984f8b</guid><pubDate>Wed, 08 Jul 2026 08:52:22 GMT</pubDate><description>&lt;p&gt;港股上演绝地反击，科网股午后强势爆发，阿里暴涨超12%，受到围绕阿里巴巴业绩的乐观情绪提振，此外AI大模型股双雄智谱、MINIMAX双双大涨超10%，智谱大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有。&lt;/p&gt;
+&lt;p&gt;7月8日，A股冲高回落，三大指数午后回落，集体收跌，深成指、创业板均跌超1.5%，科创50独自飘红，盘中曾一度涨超3%。算力租赁、AI服务器板块表现活跃，浪潮信息一字涨停，机器人概念、新能源电池产业链等跌幅居前。&lt;/p&gt;
+&lt;p&gt;港股高开高走，恒指、恒科指双双拉升，恒科指暴涨超5%，科网股爆发，阿里涨超12%，创下2025年9月以来最大涨幅，AI大模型股爆发，智谱盘中飙升19%。债市方面，国债期货全线反弹。商品方面，国内商品期货多数上涨，原油、燃油涨超6%，因中东地缘局势升温。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指跌0.49%，深成指跌1.87%，创业板指跌1.70%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股跌多涨少，沪深京三市约3800股飘绿，今日成交2.58万亿。沪深两市成交额2.56万亿，较上一个交易日缩量不足200亿。板块方面，锂电池产业链、超硬材料、人形机器人概念跌幅居前，精细化工、基本金属、汽车零部件板块低迷；算力产业链爆发，油气、煤炭股活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，恒指涨2.99%，恒科指涨4.97%。南向资金净买入142亿港元。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;盘面上，科网股爆发，阿里巴巴涨超12%领涨蓝筹，小米集团涨超9%；石油股、内银股涨幅居前。医药股延续调整态势，恒生生物科技指数跌超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货悉数反弹，截至收盘，30年期主力合约涨0.29%，10年期主力合约涨0.10%，5年期主力合约涨0.06%，2年期主力合约涨0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至收盘，能源品涨幅居前，原油涨6.24%；化工品多数上涨，苯乙烯涨4.57%；航运期货全部上涨，集运指数(欧线)涨2.62%；基本金属涨跌参半，沪铅涨1.10%；农副产品多数上涨，原木涨1.10%；黑色系多数上涨，焦煤涨0.98%；非金属建材全部上涨，PVC涨0.92%；油脂油料多数上涨，豆二涨0.66%；新能源材料跌幅居前，碳酸锂跌2.90%；贵金属多数下跌，沪银跌0.67%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+阿里巴巴大涨12%、AI大模型双雄爆发
+&lt;p&gt;恒科指午后继续进一步爆发，截至收盘大涨近5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;个股方面，阿里巴巴涨超12%，为2025年9月以来盘中最大涨幅。有预测认为，阿里财报业绩有望超预期。此外，快手涨超8%，商汤涨超10%，小米集团涨超9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，7月7日，中国人民银行行长潘功胜在“香港固定收益及货币峰会暨债券通论坛”上发表讲话，他表示：“去年，我提到将提高国家外汇储备在香港的资产配置比例。一年多来，国家外汇储备持续在港开展资产配置和投资交易，未来国家外汇储备将继续提高在港的资产配置比例，为香港资本市场的发展注入更多动能。”&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s/9IJO-t9avL7LMHiz4pvoNw"&gt;中国基金报&lt;/a&gt;，围绕阿里巴巴业绩的乐观情绪，提振了科技股的人气。分析师指出，Lazada与Meta的合作，是阿里巴巴长期盈利前景的积极信号。&lt;/p&gt;
+&lt;p&gt;更值得关注的是，AI大模型双雄智谱、MINIMAX双双爆发，其中，市值超8000亿港元的智谱一度涨超19%，收涨13.35%。MINIMAX盘中涨超18%，收涨11.98%&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;7月7日晚，北京金融控股集团有限公司旗下的国际投资基金JSC International Investment Fund SPC表示，基于对智谱未来发展态势的长期看好，愿意继续持有公司股票。投资机构WT Asset Management、Optimas Capital Limited，以及智谱早期股东及基石投资人凌云光技术股份有限公司也相继表达长期持有意愿。另外，摩根大通近日将智谱目标价由1800港元/股上调至2000港元/股，并维持“增持”评级。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s/zN4i1rn1flmQ4Y4gvmJmHg"&gt;21世纪经济报道&lt;/a&gt;，就在解禁前夜，多家机构投资者明确表态长期看好并将继续持有智谱。这批同步表态的机构合计持股占本次解禁基石股数的近七成，涵盖国家级战略资本、地方政府产业引导基金、大型国企产业基金及市场化专业投资机构。&lt;/p&gt;
+&lt;p&gt;智谱作为国内独立大模型第一股，其在国产算力生态方面已完成华为昇腾、寒武纪、摩尔线程等8家平台适配，是国产大模型自主可控的重要一环，这些都使得产业资本有更长的耐心来持有。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776458"&gt;华尔街见闻文章&lt;/a&gt;写道，7月第一周，MiniMax同时获得高盛、美银、花旗三家国际金融机构给出“买入”评级。三份报告均提到MiniMax战略股东在解禁期到来之际的表态。6月下旬，MiniMax两个最大投资人及战略股东——阿里巴巴和米哈游明确表示长期看好MiniMax的发展前景，将持续陪伴公司成长。&lt;/p&gt;
+&lt;p&gt;最后，据&lt;a href="https://mp.weixin.qq.com/s/9IJO-t9avL7LMHiz4pvoNw"&gt;中国基金报&lt;/a&gt;，有东亚银行高级投资策略师Jason Chan表示：“香港股票的跑赢，是由全球资金解除配对交易推动的。资金正从聚焦AI基础设施的市场，转向估值更低、价值属性更强的市场。”&lt;/p&gt;
+&lt;p&gt;而进一步助推港股上涨的是，报道称，DeepSeek正在开发自己的芯片，以支持AI系统运行；另据The Information报道，智谱也在考虑设计自己的AI芯片。&lt;/p&gt;
+&lt;p&gt;分析师表示：“这是一个明确的催化因素。DeepSeek如果要做这件事，就必须与本土芯片制造商合作。”&lt;/p&gt;
+算力产业链：GPT-5.6 Sol点燃独立行情
+&lt;p&gt;在三大指数集体下挫的背景下，算力产业链走出了一条完全独立的上行曲线。&lt;/p&gt;
+&lt;p&gt;浪潮信息开盘一字涨停。&lt;strong&gt;催化来自两个方向：&lt;/strong&gt;公司此前发布的2026年半年度业绩预告显示净利润大幅增长，市场在开盘前对其重新定价；同时，OpenAI宣布GPT-5.6的Sol、Terra和Luna三大版本将于本周四（7月9日）公开发布，为全球AI算力需求再添一把火。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;浪潮信息预计上半年实现归属于上市公司股东的净利润26亿元—31亿元，同比增长226%—288%；扣除非经常性损益后的净利润预计为20.55亿元—25.55亿元，同比增长206%—280%；基本每股收益1.77元—2.11元。&lt;/p&gt;
+&lt;p&gt;东莞证券研报数据印证了公司盈利能力的修复，一季度公司销售毛利率达6.64%，同比提升3.19个百分点；销售净利率1.71%，同比提升0.72个百分点，盈利水平稳步抬升。&lt;/p&gt;
+&lt;p&gt;随着二季度订单集中交付，公司业绩实现爆发式增长。结合预告数据测算，二季度公司归母净利润预计达19.95亿元—24.95亿元，相较一季度环比增长229.75%—312.40%。&lt;/p&gt;
+&lt;p&gt;算力租赁板块出现涨停潮。云赛智联、数据港、网宿科技、恒为科技、南兴股份、二六三先后封板，深信服、飞利信双双涨超14%。半导体设备方向午后也有所回暖，联动科技涨超10%，芯源微、复旦微电等涨幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，据&lt;a href="https://mp.weixin.qq.com/s/yPyQzVJTkS3_6StR5xUkSQ"&gt;上证报&lt;/a&gt;，政策方面，宏观政策持续释放积极信号。“十五五”规划为中国制定了清晰的多维度的发展施工图，财政政策、货币政策的可预期性增强。此前陆家嘴论坛推出的一系列政策举措，落地效果值得期待。&lt;/p&gt;
+&lt;p&gt;产业层面，中国制造业体系完整，能源、关键矿产资源等供应链稳定可靠，半导体等关键领域自主可控进程加快，产业升级和科技创新正在推动经济增长动能转换。与此同时，国内大市场纵深充足，为企业成长和产业发展提供广阔空间。&lt;/p&gt;
+&lt;p&gt;业内人士表示，&lt;strong&gt;在利率中枢下行、“资产荒”背景下，具备良好盈利能力和成长空间的权益资产吸引力正在提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析认为，算力这波反弹发生在周一美股费城半导体指数再度暴跌4.65%的背景下——7月1日和2日SOX已两日累跌超11%，独立日假期后周一续跌4.65%。A股算力的逆势走强，短期内更多是GPT-5.6发布的主题催化和A股科技内部高低切换的延续，而非对美股半导体跟随关系的逆转。&lt;/p&gt;
+锂矿掀跌停潮
+&lt;p&gt;与算力的火热形成鲜明对比，锂矿板块今日成为全市场杀伤力最大的方向。&lt;/p&gt;
+&lt;p&gt;碳酸锂主力期货合约早盘短线下挫，价格回落至16万元/吨附近。5月盘中曾一度触及20.99万元/吨的高点，此后持续阴跌，近两日跌势加速。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;商品期货端的疲弱直接传导至股票市场——天齐锂业、融捷股份、盛新锂能全线跌停，永杉锂业、赣锋锂业、永兴材料等跌幅超过6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;锂矿股的集体崩跌背后，是市场对碳酸锂供需格局预期的持续恶化。7月排产数据显示行业仍有望去库，但市场显然更关注中期需求的不确定性——全球电动车销量增速放缓和储能装机节奏的扰动，正在动摇此前&amp;quot;锂价底部已现&amp;quot;的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
