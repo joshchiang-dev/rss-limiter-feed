@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 17:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 18:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
 &lt;p&gt;摩根大通据此对两家中国AI公司作出分化评级。报告将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，理由是GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断；同时将MiniMax目标价从400港元下调至300港元，维持&amp;quot;中性&amp;quot;评级，因M3尚未展示出足够的模型驱动定价权。&lt;/p&gt;
 &lt;p&gt;摩根大通指出，&lt;strong&gt;开放权重扩大了模型分发范围，但变现能力仍高度依赖模型质量、迭代速度与端点可靠性。对于能力领先的模型，开放权重可借助云服务商（CSP）、推理平台与私有化部署等外部GPU算力扩大使用规模，同时通过官方API、授权许可、平台SaaS及收入分成等多路径实现商业变现；对于差异化不足的模型，更广泛的访问权限反而加速了比价与流量替换。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -57,37 +57,7 @@ Sol 本周正式登场，价格瞄准Anthropic
 &lt;p&gt;在MiniMax方面，&lt;strong&gt;高盛、美银、花旗三家国际金融机构在同一时段给出&amp;quot;买入&amp;quot;评级&lt;/strong&gt;，在当前AI板块分化加剧的市场环境中并不多见。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;高盛&lt;/strong&gt;给出目标价每股860港元，报告重点关注中国AI行业定价环境的变化。高盛指出，DeepSeek V4即将引入高峰时段差异化定价，高峰时段API价格为非高峰的2倍，这是自2026年4月底以来行业激进价格战走向理性化的早期信号。在此背景下，MiniMax M3模型凭借更高比例的自建优化算力和更小激活参数的高效架构，毛利率显著高于同行。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美银&lt;/strong&gt;目标价为每股500港元，报告披露了MiniMax收入结构的重要转变：公司收入已从去年消费端产品占比约70%，转向企业端与云API业务占比提升，企业/云API被列为更高战略优先级。在盈利层面，前一代模型M2.7最终实现了超过40%的推理利润率，美银预计通过持续提升基础设施效率，长期利润率将保持稳定。在算力获取方面，MiniMax通过与全球云服务商和新型云厂商合作，以海外本地算力服务海外用户，目前仍可稳定获取算力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;花旗&lt;/strong&gt;给出目标价每股533港元，指出当前股价对应53.8%的预期上行空间，并预计MiniMax收入增速将维持高位，即将发布的新一代视频模型有望成为扭转市场情绪的关键催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Anthropic三季度利润将突破10亿美元</title><link>https://wallstreetcn.com/articles/3776446</link><guid>6132afd237c516c06ef97193e6d5900c100ba0ae0d7dba0ba4d6e7dbfc9469e3</guid><pubDate>Wed, 08 Jul 2026 06:19:42 GMT</pubDate><description>&lt;p&gt;研究机构SemiAnalysis的最新分析揭示，Anthropic正以远超竞争对手的盈利能力和增长速度重塑AI商业化格局。凭借以API为核心的高毛利商业模式，Anthropic已成为B2B AI市场的领跑者。&lt;/p&gt;
-&lt;p&gt;据SemiAnalysis发布的深度报告，&lt;strong&gt;Anthropic预计将于2026年三季度实现10亿美元的GAAP息税前利润，对应约6%的利润率。与此同时，其年度经常性收入（ARR）已从2025年底的90亿美元飙升至目前逾600亿美元。&lt;/strong&gt;该机构预测，若Anthropic维持每月约150亿美元的净新增ARR（NNARR）节奏，&lt;strong&gt;其2027年末ARR有望触及3000亿美元，对应6万亿美元企业价值，使其成为全球市值最高的公司。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic已于6月1日秘密提交IPO申请。SemiAnalysis认为，此时上市具有战略紧迫性——Alphabet已完成847.5亿美元的股权融资，Meta亦传出数百亿美元的融资计划，资本市场窗口正在收窄。报告指出，Anthropic更优的财务数据和商业模式意味着其应抢在OpenAI之前上市，以掌握资本竞争的主动权。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-Claude Code引爆B2B市场，ARR单季增长逾两倍
-
-&lt;p&gt;Anthropic的业绩拐点源于Claude Code的爆发式普及。&lt;strong&gt;SemiAnalysis数据显示，Claude Code目前占GitHub全部代码提交量的逾7%，直接推动公司ARR在一季度单月新增从1月的30亿美元跃升至3月的110亿美元。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在收入结构上，Anthropic与OpenAI呈现显著分化。Anthropic约75%至85%的ARR来自基于用量计费的API业务，消费端订阅仅占总ARR的5%。相比之下，OpenAI在2026年一季度仍有逾65%的收入来自订阅模式，消费端ARR占比约40%。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis指出，&lt;strong&gt;API模式的核心优势在于无单用户收入上限——随着同一客户采用更多智能体工作流（Agentic Workflow），其token消耗量与对应收入将持续增长，无需新增客户即可实现扩张。&lt;/strong&gt;Anthropic首席财务官Krishna Rao今年5月在播客中披露，公司净收入留存率（NRR）高达500%，即在一季度贡献300亿美元ARR的客户中，一年前这批客户仅贡献了20亿美元。&lt;/p&gt;
-
-毛利率优势构成复利飞轮，OpenAI差距明显
-
-&lt;p&gt;商业模式的差异直接体现在毛利率上。SemiAnalysis估算，Anthropic当前综合毛利率已升至60%中段区间，而2024年这一数字为负94%。其中，API业务毛利率超过80%。&lt;/p&gt;
-&lt;p&gt;毛利率大幅改善的核心驱动力是推理效率的提升。以每兆瓦算力对应的ARR衡量，Anthropic该指标将于今年晚些时候达到6000万美元，而九个月前仅为1600万美元。由于推理算力成本基本固定，当单位算力处理的token量或token定价提升时，边际利润率接近100%。&lt;/p&gt;
-&lt;p&gt;报告测算，&lt;strong&gt;若Anthropic与OpenAI均达到1000亿美元ARR，OpenAI因需支持逾9亿免费用户（SemiAnalysis估算每月服务成本约0.70美元/人），毛利润将较Anthropic少约250亿美元。这一差距将直接影响双方在新一代模型训练上的再投入能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SemiAnalysis引入&amp;quot;训练前息税利润&amp;quot;（EBTIT）作为衡量实验室再投入能力的核心指标，Anthropic在2026年二季度的EBTIT利润率达36%。报告预测，2028年前Anthropic累计EBTIT将较OpenAI高出2500亿美元。&lt;/p&gt;
-
-编程之外，网络安全或成下一增长引擎
-
-&lt;p&gt;SemiAnalysis估算，目前实验室ARR中逾65%来自编程相关用例，Cursor、Cognition、Loveable、Replit等编程工具初创公司合计贡献约60亿美元ARR。Meta是Anthropic最大的单一客户，但其占比仍在3%至5%之间。&lt;/p&gt;
-&lt;p&gt;报告认为，&lt;strong&gt;网络安全将是继编程之后的下一个爆发性垂直领域，并预计Fable新模型的发布将进一步提升token定价并拓展应用场景&lt;/strong&gt;，推动月度NNARR在2026年下半年超越当前每月100亿美元的水平。医疗健康、金融、生物科技等垂直领域亦被列为潜在的重大TAM扩张方向。&lt;/p&gt;
-&lt;p&gt;在分销渠道上，通过AWS Bedrock、Azure Foundry等超大规模云平台间接销售的&amp;quot;Token即服务&amp;quot;（TaaS）模式正快速增长，目前已占Anthropic ARR的15%至20%，而一个季度前这一比例仅为5%至10%。SemiAnalysis认为，向超大规模云平台支付20%至30%的收入分成，从企业客件的触达效率和合规便利性角度看仍具经济合理性。&lt;/p&gt;
-
-算力瓶颈是最大变量，IPO为融资提供通道
-
-&lt;p&gt;Anthropic的增长前景面临的核心制约来自算力供给。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis预测，到2030年，Anthropic与OpenAI合计无约束算力需求将超过100吉瓦（GW），而2025年和2026年的净新增算力分别仅为2.5GW和5GW，目前两家公司合计可用算力仅逾6GW。&lt;/p&gt;
-&lt;p&gt;正是这一供需缺口赋予IPO明确的战略意义。报告指出，上市所募资金将主要用于填补推理运营与新模型训练之间持续扩大的算力需求缺口，并以更优惠的融资成本提前锁定算力资源。报告还提及Meta正考虑向外部方出租算力（消息来源于2026年7月1日的市场传言），并预计Anthropic将从此类受信任供应商处采购增量算力。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis同时列出主要风险因素，包括：OpenAI传出的降价计划、谷歌DeepMind和Meta在编程模型上的竞争压力、政府对前沿模型发布的潜在监管限制，以及TaaS收入占比上升对综合毛利率造成的摊薄效应。报告明确指出，&lt;strong&gt;若监管制度阻碍模型发布并使开源模型与前沿专有模型的能力差距缩窄，将从根本上削弱Anthropic的商业护城河。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”</title><link>https://wallstreetcn.com/articles/3776459</link><guid>505af84281b85298191abbcb71a8c069a4eb3d4f3af369fac103b11fe9cc46d5</guid><pubDate>Wed, 08 Jul 2026 09:09:15 GMT</pubDate><description>&lt;p&gt;美伊之间脆弱的停火协议宣告瓦解，地缘冲突风险重返市场视野，大宗商品与金融资产同步剧烈震荡。据&lt;a href="https://baijiahao.baidu.com/s?id=1870134275902212660"&gt;新华社&lt;/a&gt;，7月8日，&lt;strong&gt;美国总统特朗普8日在北约峰会上说，他认为美伊谅解备忘录“已终结”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;花旗&lt;/strong&gt;给出目标价每股533港元，指出当前股价对应53.8%的预期上行空间，并预计MiniMax收入增速将维持高位，即将发布的新一代视频模型有望成为扭转市场情绪的关键催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”</title><link>https://wallstreetcn.com/articles/3776459</link><guid>505af84281b85298191abbcb71a8c069a4eb3d4f3af369fac103b11fe9cc46d5</guid><pubDate>Wed, 08 Jul 2026 09:09:15 GMT</pubDate><description>&lt;p&gt;美伊之间脆弱的停火协议宣告瓦解，地缘冲突风险重返市场视野，大宗商品与金融资产同步剧烈震荡。据&lt;a href="https://baijiahao.baidu.com/s?id=1870134275902212660"&gt;新华社&lt;/a&gt;，7月8日，&lt;strong&gt;美国总统特朗普8日在北约峰会上说，他认为美伊谅解备忘录“已终结”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;特朗普周三在安卡拉出席北约年度峰会期间，与北约秘书长马克·吕特并肩而坐时对媒体表示：“对我来说，我认为这件事已经结束了。在我看来，这不过是在浪费时间。”&lt;/p&gt;
 &lt;p&gt;他称：“我不想跟他们打交道，他们就是人渣。他们是一群病态的人，由病态的人领导，凶残且好斗；如果他们拥有核武器，一定会动用。”&lt;/p&gt;
 &lt;p&gt;此番言论后，美股三大股指期货跳水，纳指期货日内跌0.42%，美国国债收益率直线拉升，布伦特原油日内涨幅达5.88%，报78.52美元/桶。现货黄金短线走低，报4091.57美元/盎司。美元指数短线拉升近20点，现报101.10。&lt;/p&gt;
@@ -294,4 +264,57 @@ DeepSeek V4：峰谷定价落地，推理提速并行
 &lt;p&gt;这种向跨国制造业的重资产转型，意味着企业将面临巨额的前期资本开支。在未来的竞争周期中，海外业务的贡献率将不再单纯取决于销量数字，而是取决于企业在复杂的属地化劳工合规管理、长周期产线调试以及全球资本调度水平上的综合治理能力。&lt;/p&gt;
 &lt;p&gt;综合来看，2026年上半年的车市半年考是汽车工业深度盘整期的真实截面。大面积不及预期的目标完成率客观上向全行业发出了警报。价格上的竞争不再奏效，它也很难继续成为一家车企的核心竞争力。&lt;/p&gt;
 &lt;p&gt;下半年的胜负不会只写在交付榜上。能从海外带回利润的，才有余力继续在国内竞争；而只能靠降价换量的，年底销量再高，也很难把这张半年考卷补回来。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发</title><link>https://wallstreetcn.com/articles/3776428</link><guid>c5fbecb76c117a2ec04baf08c3324f9b24a9fcefd20e72228d0d379cdb984f8b</guid><pubDate>Wed, 08 Jul 2026 08:52:22 GMT</pubDate><description>&lt;p&gt;港股上演绝地反击，科网股午后强势爆发，阿里暴涨超12%，受到围绕阿里巴巴业绩的乐观情绪提振，此外AI大模型股双雄智谱、MINIMAX双双大涨超10%，智谱大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有。&lt;/p&gt;
+&lt;p&gt;7月8日，A股冲高回落，三大指数午后回落，集体收跌，深成指、创业板均跌超1.5%，科创50独自飘红，盘中曾一度涨超3%。算力租赁、AI服务器板块表现活跃，浪潮信息一字涨停，机器人概念、新能源电池产业链等跌幅居前。&lt;/p&gt;
+&lt;p&gt;港股高开高走，恒指、恒科指双双拉升，恒科指暴涨超5%，科网股爆发，阿里涨超12%，创下2025年9月以来最大涨幅，AI大模型股爆发，智谱盘中飙升19%。债市方面，国债期货全线反弹。商品方面，国内商品期货多数上涨，原油、燃油涨超6%，因中东地缘局势升温。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指跌0.49%，深成指跌1.87%，创业板指跌1.70%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股跌多涨少，沪深京三市约3800股飘绿，今日成交2.58万亿。沪深两市成交额2.56万亿，较上一个交易日缩量不足200亿。板块方面，锂电池产业链、超硬材料、人形机器人概念跌幅居前，精细化工、基本金属、汽车零部件板块低迷；算力产业链爆发，油气、煤炭股活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，恒指涨2.99%，恒科指涨4.97%。南向资金净买入142亿港元。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;盘面上，科网股爆发，阿里巴巴涨超12%领涨蓝筹，小米集团涨超9%；石油股、内银股涨幅居前。医药股延续调整态势，恒生生物科技指数跌超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货悉数反弹，截至收盘，30年期主力合约涨0.29%，10年期主力合约涨0.10%，5年期主力合约涨0.06%，2年期主力合约涨0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至收盘，能源品涨幅居前，原油涨6.24%；化工品多数上涨，苯乙烯涨4.57%；航运期货全部上涨，集运指数(欧线)涨2.62%；基本金属涨跌参半，沪铅涨1.10%；农副产品多数上涨，原木涨1.10%；黑色系多数上涨，焦煤涨0.98%；非金属建材全部上涨，PVC涨0.92%；油脂油料多数上涨，豆二涨0.66%；新能源材料跌幅居前，碳酸锂跌2.90%；贵金属多数下跌，沪银跌0.67%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+阿里巴巴大涨12%、AI大模型双雄爆发
+&lt;p&gt;恒科指午后继续进一步爆发，截至收盘大涨近5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;个股方面，阿里巴巴涨超12%，为2025年9月以来盘中最大涨幅。有预测认为，阿里财报业绩有望超预期。此外，快手涨超8%，商汤涨超10%，小米集团涨超9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，7月7日，中国人民银行行长潘功胜在“香港固定收益及货币峰会暨债券通论坛”上发表讲话，他表示：“去年，我提到将提高国家外汇储备在香港的资产配置比例。一年多来，国家外汇储备持续在港开展资产配置和投资交易，未来国家外汇储备将继续提高在港的资产配置比例，为香港资本市场的发展注入更多动能。”&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s/9IJO-t9avL7LMHiz4pvoNw"&gt;中国基金报&lt;/a&gt;，围绕阿里巴巴业绩的乐观情绪，提振了科技股的人气。分析师指出，Lazada与Meta的合作，是阿里巴巴长期盈利前景的积极信号。&lt;/p&gt;
+&lt;p&gt;更值得关注的是，AI大模型双雄智谱、MINIMAX双双爆发，其中，市值超8000亿港元的智谱一度涨超19%，收涨13.35%。MINIMAX盘中涨超18%，收涨11.98%&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;7月7日晚，北京金融控股集团有限公司旗下的国际投资基金JSC International Investment Fund SPC表示，基于对智谱未来发展态势的长期看好，愿意继续持有公司股票。投资机构WT Asset Management、Optimas Capital Limited，以及智谱早期股东及基石投资人凌云光技术股份有限公司也相继表达长期持有意愿。另外，摩根大通近日将智谱目标价由1800港元/股上调至2000港元/股，并维持“增持”评级。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s/zN4i1rn1flmQ4Y4gvmJmHg"&gt;21世纪经济报道&lt;/a&gt;，就在解禁前夜，多家机构投资者明确表态长期看好并将继续持有智谱。这批同步表态的机构合计持股占本次解禁基石股数的近七成，涵盖国家级战略资本、地方政府产业引导基金、大型国企产业基金及市场化专业投资机构。&lt;/p&gt;
+&lt;p&gt;智谱作为国内独立大模型第一股，其在国产算力生态方面已完成华为昇腾、寒武纪、摩尔线程等8家平台适配，是国产大模型自主可控的重要一环，这些都使得产业资本有更长的耐心来持有。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776458"&gt;华尔街见闻文章&lt;/a&gt;写道，7月第一周，MiniMax同时获得高盛、美银、花旗三家国际金融机构给出“买入”评级。三份报告均提到MiniMax战略股东在解禁期到来之际的表态。6月下旬，MiniMax两个最大投资人及战略股东——阿里巴巴和米哈游明确表示长期看好MiniMax的发展前景，将持续陪伴公司成长。&lt;/p&gt;
+&lt;p&gt;最后，据&lt;a href="https://mp.weixin.qq.com/s/9IJO-t9avL7LMHiz4pvoNw"&gt;中国基金报&lt;/a&gt;，有东亚银行高级投资策略师Jason Chan表示：“香港股票的跑赢，是由全球资金解除配对交易推动的。资金正从聚焦AI基础设施的市场，转向估值更低、价值属性更强的市场。”&lt;/p&gt;
+&lt;p&gt;而进一步助推港股上涨的是，报道称，DeepSeek正在开发自己的芯片，以支持AI系统运行；另据The Information报道，智谱也在考虑设计自己的AI芯片。&lt;/p&gt;
+&lt;p&gt;分析师表示：“这是一个明确的催化因素。DeepSeek如果要做这件事，就必须与本土芯片制造商合作。”&lt;/p&gt;
+算力产业链：GPT-5.6 Sol点燃独立行情
+&lt;p&gt;在三大指数集体下挫的背景下，算力产业链走出了一条完全独立的上行曲线。&lt;/p&gt;
+&lt;p&gt;浪潮信息开盘一字涨停。&lt;strong&gt;催化来自两个方向：&lt;/strong&gt;公司此前发布的2026年半年度业绩预告显示净利润大幅增长，市场在开盘前对其重新定价；同时，OpenAI宣布GPT-5.6的Sol、Terra和Luna三大版本将于本周四（7月9日）公开发布，为全球AI算力需求再添一把火。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;浪潮信息预计上半年实现归属于上市公司股东的净利润26亿元—31亿元，同比增长226%—288%；扣除非经常性损益后的净利润预计为20.55亿元—25.55亿元，同比增长206%—280%；基本每股收益1.77元—2.11元。&lt;/p&gt;
+&lt;p&gt;东莞证券研报数据印证了公司盈利能力的修复，一季度公司销售毛利率达6.64%，同比提升3.19个百分点；销售净利率1.71%，同比提升0.72个百分点，盈利水平稳步抬升。&lt;/p&gt;
+&lt;p&gt;随着二季度订单集中交付，公司业绩实现爆发式增长。结合预告数据测算，二季度公司归母净利润预计达19.95亿元—24.95亿元，相较一季度环比增长229.75%—312.40%。&lt;/p&gt;
+&lt;p&gt;算力租赁板块出现涨停潮。云赛智联、数据港、网宿科技、恒为科技、南兴股份、二六三先后封板，深信服、飞利信双双涨超14%。半导体设备方向午后也有所回暖，联动科技涨超10%，芯源微、复旦微电等涨幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，据&lt;a href="https://mp.weixin.qq.com/s/yPyQzVJTkS3_6StR5xUkSQ"&gt;上证报&lt;/a&gt;，政策方面，宏观政策持续释放积极信号。“十五五”规划为中国制定了清晰的多维度的发展施工图，财政政策、货币政策的可预期性增强。此前陆家嘴论坛推出的一系列政策举措，落地效果值得期待。&lt;/p&gt;
+&lt;p&gt;产业层面，中国制造业体系完整，能源、关键矿产资源等供应链稳定可靠，半导体等关键领域自主可控进程加快，产业升级和科技创新正在推动经济增长动能转换。与此同时，国内大市场纵深充足，为企业成长和产业发展提供广阔空间。&lt;/p&gt;
+&lt;p&gt;业内人士表示，&lt;strong&gt;在利率中枢下行、“资产荒”背景下，具备良好盈利能力和成长空间的权益资产吸引力正在提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析认为，算力这波反弹发生在周一美股费城半导体指数再度暴跌4.65%的背景下——7月1日和2日SOX已两日累跌超11%，独立日假期后周一续跌4.65%。A股算力的逆势走强，短期内更多是GPT-5.6发布的主题催化和A股科技内部高低切换的延续，而非对美股半导体跟随关系的逆转。&lt;/p&gt;
+锂矿掀跌停潮
+&lt;p&gt;与算力的火热形成鲜明对比，锂矿板块今日成为全市场杀伤力最大的方向。&lt;/p&gt;
+&lt;p&gt;碳酸锂主力期货合约早盘短线下挫，价格回落至16万元/吨附近。5月盘中曾一度触及20.99万元/吨的高点，此后持续阴跌，近两日跌势加速。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;商品期货端的疲弱直接传导至股票市场——天齐锂业、融捷股份、盛新锂能全线跌停，永杉锂业、赣锋锂业、永兴材料等跌幅超过6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;锂矿股的集体崩跌背后，是市场对碳酸锂供需格局预期的持续恶化。7月排产数据显示行业仍有望去库，但市场显然更关注中期需求的不确定性——全球电动车销量增速放缓和储能装机节奏的扰动，正在动摇此前&amp;quot;锂价底部已现&amp;quot;的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
