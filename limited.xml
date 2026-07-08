@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 08:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 08:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
 &lt;p&gt;摩根大通据此对两家中国AI公司作出分化评级。报告将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，理由是GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断；同时将MiniMax目标价从400港元下调至300港元，维持&amp;quot;中性&amp;quot;评级，因M3尚未展示出足够的模型驱动定价权。&lt;/p&gt;
 &lt;p&gt;摩根大通指出，&lt;strong&gt;开放权重扩大了模型分发范围，但变现能力仍高度依赖模型质量、迭代速度与端点可靠性。对于能力领先的模型，开放权重可借助云服务商（CSP）、推理平台与私有化部署等外部GPU算力扩大使用规模，同时通过官方API、授权许可、平台SaaS及收入分成等多路径实现商业变现；对于差异化不足的模型，更广泛的访问权限反而加速了比价与流量替换。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -24,7 +24,57 @@ MiniMax：定价权缺失，开放权重压力放大下行风险
 &lt;p&gt;报告认为，M3永久性的50%折扣是一个重要信号，表明该模型尚未在面对国内领先模型时获得能力溢价。折扣可能支撑短期使用量，但降低了市场对模型驱动型变现的信心。在开放权重扩大访问的背景下，差异化不足的模型面临更快的比价与更容易的流量改道——更广泛的分发在此情境下反而放大了风险而非创造上行空间。&lt;/p&gt;
 &lt;p&gt;摩根大通同时指出MiniMax的相对优势：&lt;strong&gt;公司在多模态AI、海外使用与智能体工作流方面仍具相关性，M3通过100万token上下文、原生多模态与MiniMax Code改善了产品叙事，OpenRouter平台的调用量也表明开发者对其模型的采用已达相当规模。然而，工作流变现需要更强的模型拉力——编码或智能体产品需对任务完成产生足够大的改善才能改变用户习惯，而非仅提供另一条访问广泛可得模型的路径。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根大通同时提示，两家公司均处于资本密集型阶段，融资需求构成潜在风险。&lt;/p&gt;
-&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恒科指暴涨5%，阿里狂飙超10%，A股震荡收跌，创业板跌近2%，芯片、AI服务器爆发</title><link>https://wallstreetcn.com/articles/3776428</link><guid>c5fbecb76c117a2ec04baf08c3324f9b24a9fcefd20e72228d0d379cdb984f8b</guid><pubDate>Wed, 08 Jul 2026 07:42:55 GMT</pubDate><description>&lt;p&gt;港股AI大模型股智谱强势拉升，飙涨18%，有报道称，智谱解禁之际，获近七成基石投资者表态将长期持有。&lt;/p&gt;
+&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
+&lt;p&gt;智谱迎来上市后首次限售股解禁，市场惯常的&amp;quot;逢解禁必跌&amp;quot;逻辑在此彻底失效——当日股价一度飙涨逾19%，MiniMax同步大涨约17%。分析指出，大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有，华尔街主流资本对中国AI模型公司的系统性认可正在形成。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3776443"&gt;华尔街见闻文章&lt;/a&gt;写道，&lt;strong&gt;摩根大通将智谱目标价从1800港元上调至2000港元&lt;/strong&gt;，维持&amp;quot;增持&amp;quot;评级；高盛、美银、花旗三家国际投行在同一时段对MiniMax给出&amp;quot;买入&amp;quot;评级。&lt;/p&gt;
+&lt;p&gt;大模型双雄的强势表现，是港股科技板块整体爆发的缩影。今天，恒科指全天高开高走，大涨近5%，阿里巴巴涨超12%，华虹宏力涨超10%，联想集团涨超9%，中芯国际、快手涨超8%，腾讯控股一度飙涨超4%。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&amp;amp;mid=2652272164&amp;amp;idx=1&amp;amp;sn=555c661a0ebbcf7b72e74bb661b432d1&amp;amp;chksm=85cd278065dcfaa8d8e8b870ff37dc782f2bd0835d27f09d2f634115811e2d99cf090d229046&amp;amp;scene=126&amp;amp;sessionid=1783491067"&gt;券商中国&lt;/a&gt;，分析人士认为，港股此轮强势有两方面驱动：&lt;strong&gt;一是港股估值偏低，具备吸引力；二是全球存储芯片板块持续遭遇重挫，从这些板块流出的资金流向了港股。&lt;/strong&gt;与此同时，中国人民银行行长潘功胜在&amp;quot;香港固定收益及货币峰会暨债券通论坛&amp;quot;上发表讲话，围绕深化金融市场互联互通、支持香港资本市场繁荣、巩固离岸人民币枢纽地位、维护香港金融稳定四个方向作出部署，亦为市场情绪提供了政策层面的支撑。&lt;/p&gt;
+解禁魔咒失效：机构集体表态，市场完成价值重估
+&lt;p&gt;智谱此次解禁的市场表现，打破了A股及港股市场长期存在的&amp;quot;解禁必跌&amp;quot;预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本次智谱解禁限售股总量为2568.16万股。&lt;/strong&gt;北京金融控股集团旗下国际投资基金JSC International Investment Fund SPC、投资机构WT Asset Management、Optimas Capital Limited，以及早期股东及基石投资人凌云光技术股份有限公司均相继表达长期持有意愿。&lt;/p&gt;
+&lt;p&gt;MiniMax方面，最大战略股东阿里巴巴与米哈游亦于6月下旬明确表示长期看好，MiniMax创始团队更自愿设定12个月禁售期，超出行业通行的6个月安排，首次解禁不涉及创始团队和员工持股。&lt;/p&gt;
+&lt;p&gt;从盘面来看，当日大涨并非单纯的短期交易情绪驱动，而是市场对公司长期价值重估与资本态度明确后的集中释放。&lt;strong&gt;多家核心机构投资者在解禁前后相继公开表态，选择继续持有而非减持套现，有效消解了市场对流动性踩踏的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根大通的评级上调为此次行情提供了重要的基本面支撑。&lt;/strong&gt;&lt;a href="https://wallstreetcn.com/articles/3776443"&gt;华尔街见闻文章&lt;/a&gt;写道，摩根大通将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，核心逻辑在于GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断。&lt;/p&gt;
+&lt;p&gt;摩根大通同时指出，基于当前估值，市场已基本消化智谱年底10亿美元ARR指引，剩余上行空间取决于强大的开放权重模型能否通过外部基础设施和分发渠道实现规模化。&lt;/p&gt;
+&lt;p&gt;在MiniMax方面，&lt;strong&gt;高盛、美银、花旗三家国际金融机构在同一时段给出&amp;quot;买入&amp;quot;评级&lt;/strong&gt;，在当前AI板块分化加剧的市场环境中并不多见。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛&lt;/strong&gt;给出目标价每股860港元，报告重点关注中国AI行业定价环境的变化。高盛指出，DeepSeek V4即将引入高峰时段差异化定价，高峰时段API价格为非高峰的2倍，这是自2026年4月底以来行业激进价格战走向理性化的早期信号。在此背景下，MiniMax M3模型凭借更高比例的自建优化算力和更小激活参数的高效架构，毛利率显著高于同行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美银&lt;/strong&gt;目标价为每股500港元，报告披露了MiniMax收入结构的重要转变：公司收入已从去年消费端产品占比约70%，转向企业端与云API业务占比提升，企业/云API被列为更高战略优先级。在盈利层面，前一代模型M2.7最终实现了超过40%的推理利润率，美银预计通过持续提升基础设施效率，长期利润率将保持稳定。在算力获取方面，MiniMax通过与全球云服务商和新型云厂商合作，以海外本地算力服务海外用户，目前仍可稳定获取算力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;花旗&lt;/strong&gt;给出目标价每股533港元，指出当前股价对应53.8%的预期上行空间，并预计MiniMax收入增速将维持高位，即将发布的新一代视频模型有望成为扭转市场情绪的关键催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片板块重挫5%，但英伟达逆势收涨、期权市场现看涨信号</title><link>https://wallstreetcn.com/articles/3776413</link><guid>bdb7fa3e4f079c05702b842253c2c19d9364f8ca3c3194f4a07b1124e89e38a4</guid><pubDate>Tue, 07 Jul 2026 22:12:36 GMT</pubDate><description>&lt;p&gt;英伟达股价逆势走稳，期权市场中看涨押注显著升温，交易员正在下注这家AI芯片巨头即将迎来一轮反弹。&lt;/p&gt;
+&lt;p&gt;周二，费城半导体ETF下跌超5%，但英伟达股价顽强收涨，展现出明显的相对强势。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，期权市场数据显示，当日英伟达看涨期权成交量逾150万张，与不足69万张的看跌期权相比，买入看涨期权的数量是买入看跌期权的两倍以上。&lt;/p&gt;
+&lt;p&gt;上述多头押注发生在英伟达股价承压、投资者情绪分化的敏感节点，或对市场走向具有重要指引意义。当前英伟达股价在200美元附近徘徊，较5月高点下跌约17%，年内涨幅收窄至约4%。&lt;/p&gt;
+
+消极报告引发争议，股价仍守住关键关口
+
+&lt;p&gt;此轮期权异动的导火索，是研究机构SemiAnalysis发布的一份报告。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;华尔街见闻提及&lt;/a&gt;，半导体行业研究机构SemiAnalysis在X平台发布六条连续推文，披露英伟达Kyber NVL144机架架构遭遇重大延迟及多项取消决定。&lt;/p&gt;
+&lt;p&gt;该报告称英伟达下一代服务器机架产品的量产进度至少落后一年，但&lt;a href="https://wallstreetcn.com/articles/3776319"&gt;英伟达方面&lt;/a&gt;已对报告内容提出异议。&lt;/p&gt;
+&lt;p&gt;尽管这一消息对市场情绪造成一定冲击，英伟达股价自上月底以来始终未能有效突破200美元。部分投资者的关注重心已转向其他AI相关板块，尤其是内存芯片制造商等细分赛道。&lt;/p&gt;
+&lt;p&gt;然而，200美元附近的价位在过去数日显示出较强的支撑迹象，股价始终受200日均线支撑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+机构级别大额押注引发关注
+
+
+&lt;p&gt;&lt;strong&gt;据ThinkorSwim数据，周一期权市场同样出现类似的看涨偏向。当日英伟达期权总权利金约达6亿美元，其中约三分之二与看涨期权相关，看涨期权买入量几乎是看跌期权的三倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中一组交易尤为引人注目。看起来由单一交易员发起的系列操作累计买入350万美元、行权价为200美元、7月底到期的看涨期权合约。按成交时的约7美元单价计算，这批合约需要英伟达股价在月底前再涨约5.5%方能盈利。&lt;/p&gt;
+&lt;p&gt;相比之下，半导体ETF SMH的期权结构呈现出截然相反的面貌。看跌期权成交量以近4比1的比例压倒看涨期权，交易员买入约3.3万张看跌期权，而看涨期权买入量仅约7300张，反映出市场对芯片板块整体走势依然审慎。&lt;/p&gt;
+
+短期到期合约揭示交易员押注方向
+
+&lt;p&gt;据SpotGamma数据，截至发稿，英伟达期权成交量排名前五的合约清一色为周三到期的看涨期权，显示交易员正押注股价在极短时间窗口内走高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其中最活跃的是行权价200美元的看涨期权，成交近17万张，总权利金规模达约1100万美元。&lt;/strong&gt;这一集中于近月、深度押注200美元关口的期权布局，表明部分交易员预期英伟达近两日的企稳走势将演变为一波更明确的上涨行情。&lt;/p&gt;
+&lt;p&gt;值得注意的是，当前英伟达股价仍低于其5月历史高点约17%，年内涨幅表现明显落后于此前市场预期。&lt;strong&gt;期权市场的多头信号能否最终兑现为股价的实质性突破，仍有待市场检验。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光、闪迪领跌、整个板块全线重挫，市场焦点：存储见顶了吗？</title><link>https://wallstreetcn.com/articles/3776420</link><guid>9c7a6fa0df15f23c6fa0641f7c9c2d801048d05dc56acbd5cf38cd3e8fb9b0e4</guid><pubDate>Wed, 08 Jul 2026 00:37:45 GMT</pubDate><description>&lt;p&gt;存储芯片股周二遭遇大规模抛售，市场对周期顶部的担忧盖过了三星靓丽的初步业绩。&lt;/p&gt; &lt;p&gt;周二，三星发布高于预期的初步二季度营业利润后，三星在韩国上市的股票收跌7%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;美股存储板块全线承压下挫，美存储芯片指数跌幅6.8%。美光科技跌4.7%，闪迪跌7.3%，西部数据跌7.9%，希捷科技跌4.7%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;市场情绪显示，投资者的注意力已从业绩本身转向一个更根本的问题：&lt;strong&gt;存储超级周期是否已临近拐点？&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Baird董事总经理Ted Mortonson在接受采访时指出，此次抛售反映出华尔街对存储市场进入新阶段的忧虑。&lt;strong&gt;持续的供需失衡推高了内存与存储芯片价格，需求弹性正受到&amp;quot;大规模零部件通胀&amp;quot;的压制，冲击正逐步蔓延至消费端和企业端市场。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776336"&gt;华尔街见闻提及&lt;/a&gt;，大摩亚太区科技团队同样认为，存储芯片行业正逼近&amp;quot;变化速率顶峰&amp;quot;，DRAM价格同比涨幅收窄、库存改善趋平、EPS修正广度触顶。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;短期&lt;/strong&gt;面临仓位集中、波动加剧、资金轮动压力，股价或阶段性承压；&lt;strong&gt;长期&lt;/strong&gt;仍看涨，预计2027年盈利增长35-40%。&lt;strong&gt;关键验证节点在于超大规模云厂商能否维持资本支出指引。&lt;/strong&gt;&lt;/p&gt; 
+三星业绩超预期，市场却选择卖出  &lt;p&gt;三星周二发布初步业绩，二季度营业利润达89.4万亿韩元（约合585亿美元），高于FactSet市场一致预期的87万亿韩元。初步营收171万亿韩元则与预期基本持平。与去年同期相比，营业利润增长约19倍。&lt;/p&gt; &lt;p&gt;然而，这份数据并未能打动市场。研究机构Radio Free Mobile创始人Richard Windsor表示，三星的业绩&amp;quot;仅仅略超预期&amp;quot;，而非此前美光那样大幅超越市场预期的表现。&lt;/p&gt; &lt;p&gt;他在周二的研报中写道：&lt;/p&gt; &lt;blockquote&gt;
+&lt;p&gt;因此，市场正在质疑我们是否已触及顶部。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Jefferies股票交易分析师Jeffrey Favuzza也在研报中指出，多数投资者的反馈持续指向&amp;quot;对AI行情的谨慎情绪、过高的预期门槛&amp;quot;，而三星初步业绩未能按业务部门拆分披露，令市场难以判断具体表现，相关细节需等待本月晚些时候的完整报告。&lt;/p&gt; 
+需求弹性受压，超大规模云厂商成关键变量  &lt;p&gt;Ted Mortonson将此轮抛售的深层逻辑指向超大规模云服务商（hyperscalers）的资本支出逻辑。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;他表示，当芯片价格上涨侵蚀投资回报，云厂商无法向下游客户转嫁成本时，存储周期可能就此暂停，直至供给与需求重新达到均衡。&lt;/strong&gt;他补充称，这一平衡预计要到2028年或2029年才能实现。&lt;/p&gt; &lt;p&gt;苹果公司已在今年6月表示，随着内存芯片成本持续攀升，计划上调iPhone售价，这一动向印证了成本压力正向终端市场传导。&lt;/p&gt; &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776333"&gt;华尔街见闻提及&lt;/a&gt;，摩根士丹利说，AI没有结束，但该轮到超大规模云厂商领涨了。&lt;/p&gt; &lt;p&gt;摩根士丹利策略师Michael将半导体股票走势类比白银，二者均经历抛物线式上涨，均具有大宗商品属性，当前调整或仍未结束，存储芯片首当其冲。&lt;/p&gt; &lt;p&gt;他同时看好消费可选、区域银行、交通运输和生物科技，认为市场领涨力量理应从AI资本开支受益者向更广泛板块扩散。&lt;/p&gt; 
+&amp;quot;资金做空&amp;quot;隐忧，存储会步英伟达后尘吗？  &lt;p&gt;市场对存储板块的矛盾心态，已在分析人士中引发更深层的讨论。&lt;/p&gt; &lt;p&gt;Citrini Research半导体分析师Jukan在社交平台X上发帖描述了当前投资者的两难处境。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;无论业绩超预期还是不及预期，市场都倾向于悲观解读。超预期意味着&amp;quot;这是顶部，利润不可持续&amp;quot;；不及预期则意味着&amp;quot;存储周期结束，逢高出货&amp;quot;。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;Jukan对此表达了一种更深的隐忧：&lt;/p&gt; &lt;blockquote&gt;
+&lt;p&gt;我担心存储股可能会变成类似英伟达股价走势，&lt;strong&gt;公司基本面持续创下历史新高，但股价却横盘不动。&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;他随即抛出一个市场正在热议的问题：存储股的走势，最终会否复制英伟达的那条路？&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Richard Windsor则给出了相对明确的判断框架：答案将取决于AI模型处理和词元（token）的需求是否能持续大幅超过供给。&lt;/strong&gt;他写道：&lt;/p&gt; &lt;blockquote&gt;
+&lt;p&gt;只要需求继续大幅超过供给，我们就没有问题，存储公司股价将继续上涨，算力提供商也将持续盈利。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;这场关于&amp;quot;顶部&amp;quot;的争论，预计将在美光等公司发布完整季度报告后进一步发酵。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恒科指暴涨5%，阿里狂飙超10%，A股震荡收跌，创业板跌近2%，芯片、AI服务器爆发</title><link>https://wallstreetcn.com/articles/3776428</link><guid>c5fbecb76c117a2ec04baf08c3324f9b24a9fcefd20e72228d0d379cdb984f8b</guid><pubDate>Wed, 08 Jul 2026 07:42:55 GMT</pubDate><description>&lt;p&gt;港股AI大模型股智谱强势拉升，飙涨18%，有报道称，智谱解禁之际，获近七成基石投资者表态将长期持有。&lt;/p&gt;
 &lt;p&gt;7月8日，A股震荡走低，三大指数午后回落，深成指转跌，创业板跌近1%，科创50涨近3%。半导体产业链亦探底回升，半导体硅片、半导体设备等走强，算力租赁、AI服务器大爆发，浪潮信息强势涨停，机器人概念、新能源电池产业链等跌幅居前。&lt;/p&gt;
 &lt;p&gt;港股高开高走，恒指、恒科指双双拉升，恒科指暴涨超5%，科网股爆发，阿里涨超13%，创下2025年9月以来最大，芯片股拉升，华虹宏力大涨8%，AI大模型股爆发，智谱飙升18%。债市方面，国债期货全线下跌。商品方面，国内商品期货多数上涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -103,57 +153,7 @@ MiniMax：定价权缺失，开放权重压力放大下行风险
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.19%，恒生科技指数涨0.42%。石油股涨幅居前，中海油涨超2%；资源股表现低迷。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
-&lt;p&gt;智谱迎来上市后首次限售股解禁，市场惯常的&amp;quot;逢解禁必跌&amp;quot;逻辑在此彻底失效——当日股价一度飙涨逾19%，MiniMax同步大涨约17%。分析指出，大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有，华尔街主流资本对中国AI模型公司的系统性认可正在形成。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3776443"&gt;华尔街见闻文章&lt;/a&gt;写道，&lt;strong&gt;摩根大通将智谱目标价从1800港元上调至2000港元&lt;/strong&gt;，维持&amp;quot;增持&amp;quot;评级；高盛、美银、花旗三家国际投行在同一时段对MiniMax给出&amp;quot;买入&amp;quot;评级。&lt;/p&gt;
-&lt;p&gt;大模型双雄的强势表现，是港股科技板块整体爆发的缩影。今天，恒科指全天高开高走，大涨近5%，阿里巴巴涨超12%，华虹宏力涨超10%，联想集团涨超9%，中芯国际、快手涨超8%，腾讯控股一度飙涨超4%。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&amp;amp;mid=2652272164&amp;amp;idx=1&amp;amp;sn=555c661a0ebbcf7b72e74bb661b432d1&amp;amp;chksm=85cd278065dcfaa8d8e8b870ff37dc782f2bd0835d27f09d2f634115811e2d99cf090d229046&amp;amp;scene=126&amp;amp;sessionid=1783491067"&gt;券商中国&lt;/a&gt;，分析人士认为，港股此轮强势有两方面驱动：&lt;strong&gt;一是港股估值偏低，具备吸引力；二是全球存储芯片板块持续遭遇重挫，从这些板块流出的资金流向了港股。&lt;/strong&gt;与此同时，中国人民银行行长潘功胜在&amp;quot;香港固定收益及货币峰会暨债券通论坛&amp;quot;上发表讲话，围绕深化金融市场互联互通、支持香港资本市场繁荣、巩固离岸人民币枢纽地位、维护香港金融稳定四个方向作出部署，亦为市场情绪提供了政策层面的支撑。&lt;/p&gt;
-解禁魔咒失效：机构集体表态，市场完成价值重估
-&lt;p&gt;智谱此次解禁的市场表现，打破了A股及港股市场长期存在的&amp;quot;解禁必跌&amp;quot;预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;本次智谱解禁限售股总量为2568.16万股。&lt;/strong&gt;北京金融控股集团旗下国际投资基金JSC International Investment Fund SPC、投资机构WT Asset Management、Optimas Capital Limited，以及早期股东及基石投资人凌云光技术股份有限公司均相继表达长期持有意愿。&lt;/p&gt;
-&lt;p&gt;MiniMax方面，最大战略股东阿里巴巴与米哈游亦于6月下旬明确表示长期看好，MiniMax创始团队更自愿设定12个月禁售期，超出行业通行的6个月安排，首次解禁不涉及创始团队和员工持股。&lt;/p&gt;
-&lt;p&gt;从盘面来看，当日大涨并非单纯的短期交易情绪驱动，而是市场对公司长期价值重估与资本态度明确后的集中释放。&lt;strong&gt;多家核心机构投资者在解禁前后相继公开表态，选择继续持有而非减持套现，有效消解了市场对流动性踩踏的担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摩根大通的评级上调为此次行情提供了重要的基本面支撑。&lt;/strong&gt;&lt;a href="https://wallstreetcn.com/articles/3776443"&gt;华尔街见闻文章&lt;/a&gt;写道，摩根大通将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，核心逻辑在于GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断。&lt;/p&gt;
-&lt;p&gt;摩根大通同时指出，基于当前估值，市场已基本消化智谱年底10亿美元ARR指引，剩余上行空间取决于强大的开放权重模型能否通过外部基础设施和分发渠道实现规模化。&lt;/p&gt;
-&lt;p&gt;在MiniMax方面，&lt;strong&gt;高盛、美银、花旗三家国际金融机构在同一时段给出&amp;quot;买入&amp;quot;评级&lt;/strong&gt;，在当前AI板块分化加剧的市场环境中并不多见。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛&lt;/strong&gt;给出目标价每股860港元，报告重点关注中国AI行业定价环境的变化。高盛指出，DeepSeek V4即将引入高峰时段差异化定价，高峰时段API价格为非高峰的2倍，这是自2026年4月底以来行业激进价格战走向理性化的早期信号。在此背景下，MiniMax M3模型凭借更高比例的自建优化算力和更小激活参数的高效架构，毛利率显著高于同行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美银&lt;/strong&gt;目标价为每股500港元，报告披露了MiniMax收入结构的重要转变：公司收入已从去年消费端产品占比约70%，转向企业端与云API业务占比提升，企业/云API被列为更高战略优先级。在盈利层面，前一代模型M2.7最终实现了超过40%的推理利润率，美银预计通过持续提升基础设施效率，长期利润率将保持稳定。在算力获取方面，MiniMax通过与全球云服务商和新型云厂商合作，以海外本地算力服务海外用户，目前仍可稳定获取算力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;花旗&lt;/strong&gt;给出目标价每股533港元，指出当前股价对应53.8%的预期上行空间，并预计MiniMax收入增速将维持高位，即将发布的新一代视频模型有望成为扭转市场情绪的关键催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片板块重挫5%，但英伟达逆势收涨、期权市场现看涨信号</title><link>https://wallstreetcn.com/articles/3776413</link><guid>bdb7fa3e4f079c05702b842253c2c19d9364f8ca3c3194f4a07b1124e89e38a4</guid><pubDate>Tue, 07 Jul 2026 22:12:36 GMT</pubDate><description>&lt;p&gt;英伟达股价逆势走稳，期权市场中看涨押注显著升温，交易员正在下注这家AI芯片巨头即将迎来一轮反弹。&lt;/p&gt;
-&lt;p&gt;周二，费城半导体ETF下跌超5%，但英伟达股价顽强收涨，展现出明显的相对强势。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，期权市场数据显示，当日英伟达看涨期权成交量逾150万张，与不足69万张的看跌期权相比，买入看涨期权的数量是买入看跌期权的两倍以上。&lt;/p&gt;
-&lt;p&gt;上述多头押注发生在英伟达股价承压、投资者情绪分化的敏感节点，或对市场走向具有重要指引意义。当前英伟达股价在200美元附近徘徊，较5月高点下跌约17%，年内涨幅收窄至约4%。&lt;/p&gt;
-
-消极报告引发争议，股价仍守住关键关口
-
-&lt;p&gt;此轮期权异动的导火索，是研究机构SemiAnalysis发布的一份报告。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776238"&gt;华尔街见闻提及&lt;/a&gt;，半导体行业研究机构SemiAnalysis在X平台发布六条连续推文，披露英伟达Kyber NVL144机架架构遭遇重大延迟及多项取消决定。&lt;/p&gt;
-&lt;p&gt;该报告称英伟达下一代服务器机架产品的量产进度至少落后一年，但&lt;a href="https://wallstreetcn.com/articles/3776319"&gt;英伟达方面&lt;/a&gt;已对报告内容提出异议。&lt;/p&gt;
-&lt;p&gt;尽管这一消息对市场情绪造成一定冲击，英伟达股价自上月底以来始终未能有效突破200美元。部分投资者的关注重心已转向其他AI相关板块，尤其是内存芯片制造商等细分赛道。&lt;/p&gt;
-&lt;p&gt;然而，200美元附近的价位在过去数日显示出较强的支撑迹象，股价始终受200日均线支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-
-机构级别大额押注引发关注
-
-
-&lt;p&gt;&lt;strong&gt;据ThinkorSwim数据，周一期权市场同样出现类似的看涨偏向。当日英伟达期权总权利金约达6亿美元，其中约三分之二与看涨期权相关，看涨期权买入量几乎是看跌期权的三倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其中一组交易尤为引人注目。看起来由单一交易员发起的系列操作累计买入350万美元、行权价为200美元、7月底到期的看涨期权合约。按成交时的约7美元单价计算，这批合约需要英伟达股价在月底前再涨约5.5%方能盈利。&lt;/p&gt;
-&lt;p&gt;相比之下，半导体ETF SMH的期权结构呈现出截然相反的面貌。看跌期权成交量以近4比1的比例压倒看涨期权，交易员买入约3.3万张看跌期权，而看涨期权买入量仅约7300张，反映出市场对芯片板块整体走势依然审慎。&lt;/p&gt;
-
-短期到期合约揭示交易员押注方向
-
-&lt;p&gt;据SpotGamma数据，截至发稿，英伟达期权成交量排名前五的合约清一色为周三到期的看涨期权，显示交易员正押注股价在极短时间窗口内走高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其中最活跃的是行权价200美元的看涨期权，成交近17万张，总权利金规模达约1100万美元。&lt;/strong&gt;这一集中于近月、深度押注200美元关口的期权布局，表明部分交易员预期英伟达近两日的企稳走势将演变为一波更明确的上涨行情。&lt;/p&gt;
-&lt;p&gt;值得注意的是，当前英伟达股价仍低于其5月历史高点约17%，年内涨幅表现明显落后于此前市场预期。&lt;strong&gt;期权市场的多头信号能否最终兑现为股价的实质性突破，仍有待市场检验。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光、闪迪领跌、整个板块全线重挫，市场焦点：存储见顶了吗？</title><link>https://wallstreetcn.com/articles/3776420</link><guid>9c7a6fa0df15f23c6fa0641f7c9c2d801048d05dc56acbd5cf38cd3e8fb9b0e4</guid><pubDate>Wed, 08 Jul 2026 00:37:45 GMT</pubDate><description>&lt;p&gt;存储芯片股周二遭遇大规模抛售，市场对周期顶部的担忧盖过了三星靓丽的初步业绩。&lt;/p&gt; &lt;p&gt;周二，三星发布高于预期的初步二季度营业利润后，三星在韩国上市的股票收跌7%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;美股存储板块全线承压下挫，美存储芯片指数跌幅6.8%。美光科技跌4.7%，闪迪跌7.3%，西部数据跌7.9%，希捷科技跌4.7%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;市场情绪显示，投资者的注意力已从业绩本身转向一个更根本的问题：&lt;strong&gt;存储超级周期是否已临近拐点？&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Baird董事总经理Ted Mortonson在接受采访时指出，此次抛售反映出华尔街对存储市场进入新阶段的忧虑。&lt;strong&gt;持续的供需失衡推高了内存与存储芯片价格，需求弹性正受到&amp;quot;大规模零部件通胀&amp;quot;的压制，冲击正逐步蔓延至消费端和企业端市场。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776336"&gt;华尔街见闻提及&lt;/a&gt;，大摩亚太区科技团队同样认为，存储芯片行业正逼近&amp;quot;变化速率顶峰&amp;quot;，DRAM价格同比涨幅收窄、库存改善趋平、EPS修正广度触顶。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;短期&lt;/strong&gt;面临仓位集中、波动加剧、资金轮动压力，股价或阶段性承压；&lt;strong&gt;长期&lt;/strong&gt;仍看涨，预计2027年盈利增长35-40%。&lt;strong&gt;关键验证节点在于超大规模云厂商能否维持资本支出指引。&lt;/strong&gt;&lt;/p&gt; 
-三星业绩超预期，市场却选择卖出  &lt;p&gt;三星周二发布初步业绩，二季度营业利润达89.4万亿韩元（约合585亿美元），高于FactSet市场一致预期的87万亿韩元。初步营收171万亿韩元则与预期基本持平。与去年同期相比，营业利润增长约19倍。&lt;/p&gt; &lt;p&gt;然而，这份数据并未能打动市场。研究机构Radio Free Mobile创始人Richard Windsor表示，三星的业绩&amp;quot;仅仅略超预期&amp;quot;，而非此前美光那样大幅超越市场预期的表现。&lt;/p&gt; &lt;p&gt;他在周二的研报中写道：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;因此，市场正在质疑我们是否已触及顶部。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Jefferies股票交易分析师Jeffrey Favuzza也在研报中指出，多数投资者的反馈持续指向&amp;quot;对AI行情的谨慎情绪、过高的预期门槛&amp;quot;，而三星初步业绩未能按业务部门拆分披露，令市场难以判断具体表现，相关细节需等待本月晚些时候的完整报告。&lt;/p&gt; 
-需求弹性受压，超大规模云厂商成关键变量  &lt;p&gt;Ted Mortonson将此轮抛售的深层逻辑指向超大规模云服务商（hyperscalers）的资本支出逻辑。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;他表示，当芯片价格上涨侵蚀投资回报，云厂商无法向下游客户转嫁成本时，存储周期可能就此暂停，直至供给与需求重新达到均衡。&lt;/strong&gt;他补充称，这一平衡预计要到2028年或2029年才能实现。&lt;/p&gt; &lt;p&gt;苹果公司已在今年6月表示，随着内存芯片成本持续攀升，计划上调iPhone售价，这一动向印证了成本压力正向终端市场传导。&lt;/p&gt; &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776333"&gt;华尔街见闻提及&lt;/a&gt;，摩根士丹利说，AI没有结束，但该轮到超大规模云厂商领涨了。&lt;/p&gt; &lt;p&gt;摩根士丹利策略师Michael将半导体股票走势类比白银，二者均经历抛物线式上涨，均具有大宗商品属性，当前调整或仍未结束，存储芯片首当其冲。&lt;/p&gt; &lt;p&gt;他同时看好消费可选、区域银行、交通运输和生物科技，认为市场领涨力量理应从AI资本开支受益者向更广泛板块扩散。&lt;/p&gt; 
-&amp;quot;资金做空&amp;quot;隐忧，存储会步英伟达后尘吗？  &lt;p&gt;市场对存储板块的矛盾心态，已在分析人士中引发更深层的讨论。&lt;/p&gt; &lt;p&gt;Citrini Research半导体分析师Jukan在社交平台X上发帖描述了当前投资者的两难处境。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;无论业绩超预期还是不及预期，市场都倾向于悲观解读。超预期意味着&amp;quot;这是顶部，利润不可持续&amp;quot;；不及预期则意味着&amp;quot;存储周期结束，逢高出货&amp;quot;。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;Jukan对此表达了一种更深的隐忧：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;我担心存储股可能会变成类似英伟达股价走势，&lt;strong&gt;公司基本面持续创下历史新高，但股价却横盘不动。&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;他随即抛出一个市场正在热议的问题：存储股的走势，最终会否复制英伟达的那条路？&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Richard Windsor则给出了相对明确的判断框架：答案将取决于AI模型处理和词元（token）的需求是否能持续大幅超过供给。&lt;/strong&gt;他写道：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;只要需求继续大幅超过供给，我们就没有问题，存储公司股价将继续上涨，算力提供商也将持续盈利。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;这场关于&amp;quot;顶部&amp;quot;的争论，预计将在美光等公司发布完整季度报告后进一步发酵。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Anthropic三季度利润将突破10亿美元</title><link>https://wallstreetcn.com/articles/3776446</link><guid>6132afd237c516c06ef97193e6d5900c100ba0ae0d7dba0ba4d6e7dbfc9469e3</guid><pubDate>Wed, 08 Jul 2026 06:19:42 GMT</pubDate><description>&lt;p&gt;研究机构SemiAnalysis的最新分析揭示，Anthropic正以远超竞争对手的盈利能力和增长速度重塑AI商业化格局。凭借以API为核心的高毛利商业模式，Anthropic已成为B2B AI市场的领跑者。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Anthropic三季度利润将突破10亿美元</title><link>https://wallstreetcn.com/articles/3776446</link><guid>6132afd237c516c06ef97193e6d5900c100ba0ae0d7dba0ba4d6e7dbfc9469e3</guid><pubDate>Wed, 08 Jul 2026 06:19:42 GMT</pubDate><description>&lt;p&gt;研究机构SemiAnalysis的最新分析揭示，Anthropic正以远超竞争对手的盈利能力和增长速度重塑AI商业化格局。凭借以API为核心的高毛利商业模式，Anthropic已成为B2B AI市场的领跑者。&lt;/p&gt;
 &lt;p&gt;据SemiAnalysis发布的深度报告，&lt;strong&gt;Anthropic预计将于2026年三季度实现10亿美元的GAAP息税前利润，对应约6%的利润率。与此同时，其年度经常性收入（ARR）已从2025年底的90亿美元飙升至目前逾600亿美元。&lt;/strong&gt;该机构预测，若Anthropic维持每月约150亿美元的净新增ARR（NNARR）节奏，&lt;strong&gt;其2027年末ARR有望触及3000亿美元，对应6万亿美元企业价值，使其成为全球市值最高的公司。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic已于6月1日秘密提交IPO申请。SemiAnalysis认为，此时上市具有战略紧迫性——Alphabet已完成847.5亿美元的股权融资，Meta亦传出数百亿美元的融资计划，资本市场窗口正在收窄。报告指出，Anthropic更优的财务数据和商业模式意味着其应抢在OpenAI之前上市，以掌握资本竞争的主动权。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -215,29 +215,7 @@ Claude Code引爆B2B市场，ARR单季增长逾两倍
 &lt;p&gt;如果伊朗出口受到实质性限制，同时更多油轮因安全风险暂停经过霍尔木兹海峡，全球原油供应风险溢价可能继续扩大。&lt;/p&gt;
 &lt;p&gt;但如果地区紧张局势得到控制，航运逐步恢复，油价涨幅可能受到限制。&lt;/p&gt;
 &lt;p&gt;对于市场而言，此次事件的重要变化在于，交易逻辑已经从此前的“伊朗供应回归”重新转向“中东供应是否再次受到威胁”。&lt;/p&gt;
-&lt;p&gt;霍尔木兹海峡的新一轮安全风险，叠加美国重新收紧伊朗石油制裁，使全球能源市场再次进入地缘政治主导的交易阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“无底洞”！亚马逊再发债250亿美元，AI概念债券遭全线抛售</title><link>https://wallstreetcn.com/articles/3776419</link><guid>87fa9e6c6a6f4503d36b1b53a1861f5378064e55e99da3f6a5023420d1c0d620</guid><pubDate>Wed, 08 Jul 2026 00:14:58 GMT</pubDate><description>&lt;p&gt;AI基础设施军备竞赛正在将科技巨头的资产负债表推向历史极限，债券市场的警报随之拉响。&lt;/p&gt; &lt;p&gt;亚马逊周二启动新一轮250亿美元美元债发行，消息一出，AI相关债券遭遇大规模抛售，Meta、亚马逊等超大规模云计算商旗下债券利差单日大幅走阔，跌幅远超投资级市场日常波动区间。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;据彭博数据，此次发行若顺利完成，将把今年全球AI相关债券销售额推升至创纪录的3350亿美元，较2025年全年规模翻逾一倍。与此同时，高盛已在上周末向客户发出预警，建议主动对冲超大规模云计算商债务泡沫风险。&lt;/p&gt; &lt;p&gt;市场担忧的核心在于：&lt;strong&gt;AI资本开支的&amp;quot;无底洞&amp;quot;属性正在以前所未有的速度侵蚀科技巨头的信用质量&lt;/strong&gt;。据摩根士丹利数据，超大规模云计算商的整体杠杆率已从2025年第三季度的0.9倍飙升至目前的1.8倍，仅用两个季度便实现翻倍，且已超越整个能源行业的杠杆水平，增速约为每季度0.3倍。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;Janus Henderson全球多元信贷主管John Lloyd指出，&lt;strong&gt;投资组合对超大规模云计算商的持仓已相当集中，新债发行必须提供足够的价格让步，才能吸引投资者继续增持。&lt;/strong&gt;&lt;/p&gt; 亚马逊再度&amp;quot;扫货&amp;quot;债市，单笔规模创年内新高 &lt;p&gt;亚马逊此次债券发行分为最多八个期限档次，涵盖3年至40年，最长期限为2066年到期债券，初始价格指引为较美国国债溢价约145个基点。承销行为巴克莱、高盛、摩根大通和摩根士丹利，募集资金将用于一般企业用途，包括偿还债务、并购及资本支出。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;这已是亚马逊今年以来的又一次巨额融资。&lt;/strong&gt;今年3月，该公司曾发行370亿美元美元债，创下美国企业债史上第四大单笔发行纪录，同期还发行了145亿欧元欧元债，此后又相继在瑞士法郎和加拿大元市场完成发行。据彭博数据，自去年以来，&lt;strong&gt;亚马逊已通过多币种高评级债券累计融资约820亿美元，而该公司今年预计资本开支接近2000亿美元，融资缺口依然庞大。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;此次发行将完成亚马逊2026年的美元融资计划，此后任何美元债发行均属机会性操作。不过，分析人士普遍认为，&lt;strong&gt;这并不意味着亚马逊的整体债券发行就此告一段落。&lt;/strong&gt;&lt;/p&gt; AI债券利差单日骤扩，市场抛压集中爆发 &lt;p&gt;亚马逊新债发行消息落地后，AI相关债券二级市场随即承压。&lt;/p&gt; &lt;p&gt;据MarketAxess数据，Meta 2056年到期、票息6.3%的债券利差单日走阔约8个基点；亚马逊2066年到期、票息5.95%的债券利差走阔约14个基点。相比之下，高评级企业债在正常交易日的利差波动通常仅为数个基点。&lt;/p&gt; &lt;p&gt;John Lloyd对此表示，超大规模云计算商债券当日的普遍走弱，&lt;strong&gt;主要反映投资者腾挪资金以参与亚马逊新债认购，而非信用基本面发生实质变化。&lt;/strong&gt;但他同时指出，&lt;strong&gt;投资者正越来越多地质疑，该行业未来数年为AI基础设施融资还需要举借多少额外债务。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;SpaceX于6月完成的250亿美元债券发行同样未能幸免，相关债券也被卷入此轮抛售。据BondCliQ统计，亚马逊、微软、Alphabet、Meta、甲骨文和英伟达六家AI竞赛主要参与者近年来已累计发行逾4600亿美元债券，其中约1000亿美元于今年发行。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;与债券市场的波动相呼应，信用违约互换（CDS）市场同样出现明显异动。&lt;/strong&gt;甲骨文CDS利差正在快速走阔，Coreweave和SpaceX的CDS亦出现类似走势，信用市场开始重新审视AI相关名称的风险定价。&lt;/p&gt; &lt;p&gt;甲骨文股价已较6月2日高点下跌近50%，回落至2026年以来的最低水平，被视为高杠杆AI概念股承压的典型案例。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;摩根士丹利的数据显示，&lt;strong&gt;超大规模云计算商整体杠杆率的上升速度令市场警觉——从0.9倍到1.8倍仅历时两个季度，且增速并无放缓迹象。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;这一趋势与2025年底及2026年3月两度出现的信贷收紧情形高度相似，彼时科技名称CDS大幅飙升，一度令债务驱动的资本开支浪潮陷入停滞。&lt;/p&gt; 高盛发出预警，建议客户主动对冲泡沫风险 &lt;p&gt;面对上述风险积聚，高盛交易员Adam Crook上周末向客户发布报告，建议主动布局对冲策略，以应对超大规模云计算商债务持续扩张可能引发的市场冲击。&lt;/p&gt; &lt;p&gt;Crook在报告中指出，存在一种情景：&lt;strong&gt;股票市场继续创出历史新高，而信用市场却难以从历史性偏紧的估值水平进一步上涨&lt;/strong&gt;——大规模供给压力将持续压制信用利差，而较高的利率水平也对现有发行人、尤其是低评级发行人的再融资构成阻力。&lt;/p&gt; &lt;p&gt;Crook强调，&lt;strong&gt;若出现宏观冲击——例如挑战AI牛市逻辑或资本开支计划的重大新信息——上述处于历史极低利差水平的信用市场部分，将为宏观或多资产组合提供具有不对称收益和凸性特征的风险对冲。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;值得注意的是，公开债务市场的数据或许仅是AI资本开支浪潮的冰山一角。据ZeroHedge援引分析，&lt;strong&gt;在已披露的资本开支和公开债务之外，还存在规模高达1.8万亿美元的表外敞口，构成潜在的系统性风险隐患。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;目前，AI相关债券的利差已持续数月宽于美国整体投资级企业债市场。随着超大规模云计算商融资需求不断刷新上限，债券投资者对于如何为这场&amp;quot;无底洞&amp;quot;式的AI军备竞赛定价，正面临越来越大的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7月AI大乱斗：国外GPT-5.6、Grok4.5、Gemini 3 Pro轮流登场，国内DeepSeek V4正式版也来了！</title><link>https://wallstreetcn.com/articles/3776450</link><guid>da7afc859f4eb4ab092cbeed5b80448e3e9ea6203ca9e76ab4bfd819ac4c1c9f</guid><pubDate>Wed, 08 Jul 2026 07:29:34 GMT</pubDate><description>&lt;p&gt;7月全球AI大模型竞赛进入密集发布窗口期，国内外头部玩家几乎同步亮出新牌。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI旗舰模型GPT-5.6 Sol定于本周四正式发布，马斯克旗下SpaceX AI宣布Grok 4.5也将于明日向公众开放，谷歌Gemini 3.5 Pro据悉将于7月17日上线，国内DeepSeek V4正式版同样锁定7月中旬。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;短短数周内，多款顶级大模型密集落地，直接加剧了AI行业的竞争烈度，并对相关企业的商业化路径与定价策略产生深远影响。&lt;/p&gt;
-&lt;p&gt;对市场而言，此轮集中发布不仅是技术能力的比拼，更是各方在API定价、推理效率与生态整合上的全面角力。投资者需关注的核心问题在于：谁能在性能与成本之间找到最优解，并率先将技术优势转化为商业壁垒。&lt;/p&gt;
-GPT-5.6 Sol：旗舰定位，分阶段开放
-&lt;p&gt;OpenAI首席执行官Sam Altman周三在社交媒体宣布，GPT-5.6 Sol将于本周四正式发布。&lt;strong&gt;这是GPT-5.6系列中的旗舰产品，搭载全新ultra多智能体模式与max推理强度，在编码、生物学和网络安全等核心基准测试中均刷新最佳纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;定价方面，Sol采用每百万Token输入5美元、输出30美元的收费标准，位居GPT-5.6系列三款产品的最高端。OpenAI同时宣布，将于7月在Cerebras硬件上推出Sol，推理速度最高可达每秒750个Token。&lt;/p&gt;
-&lt;p&gt;发布策略上，OpenAI采取分阶段推进路线，初期仅向部分可信合作伙伴开放API和Codex访问权限，计划在未来数周内向更广泛用户普及GPT-5.6全系列。这一策略在控制服务压力的同时，也为竞争对手留出了一定的响应窗口。&lt;/p&gt;
-Grok 4.5：马斯克加速整合AI版图
-&lt;p&gt;马斯克在社交媒体上宣布，基于beta测试阶段客户的强烈正面反馈，SpaceX AI将于明日向公众开放Grok 4.5。马斯克称，该模型属于Opus级别，但速度更快、Token效率更高、成本更低。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据此前披露的信息，Grok 4.5基于1.5万亿参数的V9基础模型打造，并在补充训练中特别加入了AI编程工具Cursor的数据。早期评测结果显示，该模型性能已接近甚至可能超越Anthropic旗舰模型Claude Opus，强化学习仍在持续优化该模型。&lt;/p&gt;
-&lt;p&gt;值得关注的是，SpaceX AI还与编程工具公司Cursor计划联合发布首款共同研发的AI模型，直接向Anthropic和OpenAI发起挑战。据The Information获得的一份内部备忘录，该模型此前曾因两家公司希望进一步提升运行效率而推迟发布，预计在某些指标上可与Anthropic的Opus 4.8及OpenAI的GPT-5.5相抗衡。&lt;/p&gt;
-&lt;p&gt;上述进展发生在SpaceX以600亿美元全股票收购Cursor的交易推进之际，标志着马斯克旗下AI版图的加速整合。&lt;strong&gt;马斯克还表示，SpaceX在今年接下来的时间里，每月都将发布完全从头开始训练的新模型。&lt;/strong&gt;&lt;/p&gt;
-Gemini 3.5 Pro：重构底座，押注质量优先
-&lt;p&gt;谷歌方面，据泄露信息，Gemini 3.5 Pro将于7月17日正式发布。据科技媒体Geeky Gadgets报道，谷歌DeepMind放弃了原有的2.5 Pro基座，转而对Gemini 3.5 Pro进行全新预训练，发布时间也因此从原定的2026年6月推迟至7月17日。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从能力表现来看，Gemini 3.5 Pro的前端与视觉代码生成能力据称出现跨越式跃升，在多项测试中压制Anthropic的Fable 5，但在硬核推理与复杂工程任务上仍落后于对手。&lt;/strong&gt;这一决策被外界解读为谷歌在质量与速度之间主动选择前者，以应对OpenAI GPT-5.6和Anthropic Fable 5的双重压力。&lt;/p&gt;
-&lt;p&gt;此外，谷歌同时被曝正基于这套新底座开发图像模型Nano Banana Pro，剑指OpenAI的GPT-Image 2，意味着谷歌试图在文本代码与图像生成两条战线同步发力。&lt;/p&gt;
-DeepSeek V4：峰谷定价落地，推理提速并行
-&lt;p&gt;&lt;strong&gt;国内方面，DeepSeek团队于6月29日宣布，V4正式版计划于7月中旬上线，并同步引入峰谷定价策略。&lt;/strong&gt;根据公布的价格表，高峰时段API价格为平时价格的两倍，平时价格与现行V4 API定价持平。高峰时段界定为每日上午9时至12时及下午2时至6时，官方表示此举旨在更合理地配置资源、提升服务稳定性。&lt;/p&gt;
-&lt;p&gt;技术层面，DeepSeek于6月27日联合北京大学发布推理加速框架DSpark，并同步开源全栈推测性解码工具链DeepSpec，论文由公司创始人梁文锋本人署名。实测显示，DSpark部署后V4-Flash单用户生成速度提升60%至85%，V4-Pro提升57%至78%，效果已在线上服务全量验证。这也是DeepSeek完成500亿元融资后首次对外发布的开源技术成果。&lt;/p&gt;
-&lt;p&gt;对API用户而言，峰谷定价将直接推高工作时段使用成本；对开发者而言，推理速度的显著提升或可在高并发场景下部分抵消成本压力，并进一步降低推理优化的落地门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东战火再燃，韩股跌入技术性熊市，美股期货齐跌，中概股盘前普涨、阿里涨11%，油价大涨超5%</title><link>https://wallstreetcn.com/articles/3776425</link><guid>ac7d2eb13d01942e6399349924ea3325f0471463e4e29d52c31db5e02cd22ec7</guid><pubDate>Wed, 08 Jul 2026 08:27:26 GMT</pubDate><description>&lt;p&gt;美国对伊朗发动新一轮空袭，叠加人工智能需求前景的持续不确定性，亚太市场遭遇双重冲击：韩国股市跌入技术性熊市区间，成为当日全球市场最受关注的焦点。美股期货承压，此外，原油价格大幅跳涨。&lt;/p&gt;
+&lt;p&gt;霍尔木兹海峡的新一轮安全风险，叠加美国重新收紧伊朗石油制裁，使全球能源市场再次进入地缘政治主导的交易阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“无底洞”！亚马逊再发债250亿美元，AI概念债券遭全线抛售</title><link>https://wallstreetcn.com/articles/3776419</link><guid>87fa9e6c6a6f4503d36b1b53a1861f5378064e55e99da3f6a5023420d1c0d620</guid><pubDate>Wed, 08 Jul 2026 00:14:58 GMT</pubDate><description>&lt;p&gt;AI基础设施军备竞赛正在将科技巨头的资产负债表推向历史极限，债券市场的警报随之拉响。&lt;/p&gt; &lt;p&gt;亚马逊周二启动新一轮250亿美元美元债发行，消息一出，AI相关债券遭遇大规模抛售，Meta、亚马逊等超大规模云计算商旗下债券利差单日大幅走阔，跌幅远超投资级市场日常波动区间。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;据彭博数据，此次发行若顺利完成，将把今年全球AI相关债券销售额推升至创纪录的3350亿美元，较2025年全年规模翻逾一倍。与此同时，高盛已在上周末向客户发出预警，建议主动对冲超大规模云计算商债务泡沫风险。&lt;/p&gt; &lt;p&gt;市场担忧的核心在于：&lt;strong&gt;AI资本开支的&amp;quot;无底洞&amp;quot;属性正在以前所未有的速度侵蚀科技巨头的信用质量&lt;/strong&gt;。据摩根士丹利数据，超大规模云计算商的整体杠杆率已从2025年第三季度的0.9倍飙升至目前的1.8倍，仅用两个季度便实现翻倍，且已超越整个能源行业的杠杆水平，增速约为每季度0.3倍。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;Janus Henderson全球多元信贷主管John Lloyd指出，&lt;strong&gt;投资组合对超大规模云计算商的持仓已相当集中，新债发行必须提供足够的价格让步，才能吸引投资者继续增持。&lt;/strong&gt;&lt;/p&gt; 亚马逊再度&amp;quot;扫货&amp;quot;债市，单笔规模创年内新高 &lt;p&gt;亚马逊此次债券发行分为最多八个期限档次，涵盖3年至40年，最长期限为2066年到期债券，初始价格指引为较美国国债溢价约145个基点。承销行为巴克莱、高盛、摩根大通和摩根士丹利，募集资金将用于一般企业用途，包括偿还债务、并购及资本支出。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;这已是亚马逊今年以来的又一次巨额融资。&lt;/strong&gt;今年3月，该公司曾发行370亿美元美元债，创下美国企业债史上第四大单笔发行纪录，同期还发行了145亿欧元欧元债，此后又相继在瑞士法郎和加拿大元市场完成发行。据彭博数据，自去年以来，&lt;strong&gt;亚马逊已通过多币种高评级债券累计融资约820亿美元，而该公司今年预计资本开支接近2000亿美元，融资缺口依然庞大。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;此次发行将完成亚马逊2026年的美元融资计划，此后任何美元债发行均属机会性操作。不过，分析人士普遍认为，&lt;strong&gt;这并不意味着亚马逊的整体债券发行就此告一段落。&lt;/strong&gt;&lt;/p&gt; AI债券利差单日骤扩，市场抛压集中爆发 &lt;p&gt;亚马逊新债发行消息落地后，AI相关债券二级市场随即承压。&lt;/p&gt; &lt;p&gt;据MarketAxess数据，Meta 2056年到期、票息6.3%的债券利差单日走阔约8个基点；亚马逊2066年到期、票息5.95%的债券利差走阔约14个基点。相比之下，高评级企业债在正常交易日的利差波动通常仅为数个基点。&lt;/p&gt; &lt;p&gt;John Lloyd对此表示，超大规模云计算商债券当日的普遍走弱，&lt;strong&gt;主要反映投资者腾挪资金以参与亚马逊新债认购，而非信用基本面发生实质变化。&lt;/strong&gt;但他同时指出，&lt;strong&gt;投资者正越来越多地质疑，该行业未来数年为AI基础设施融资还需要举借多少额外债务。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;SpaceX于6月完成的250亿美元债券发行同样未能幸免，相关债券也被卷入此轮抛售。据BondCliQ统计，亚马逊、微软、Alphabet、Meta、甲骨文和英伟达六家AI竞赛主要参与者近年来已累计发行逾4600亿美元债券，其中约1000亿美元于今年发行。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;与债券市场的波动相呼应，信用违约互换（CDS）市场同样出现明显异动。&lt;/strong&gt;甲骨文CDS利差正在快速走阔，Coreweave和SpaceX的CDS亦出现类似走势，信用市场开始重新审视AI相关名称的风险定价。&lt;/p&gt; &lt;p&gt;甲骨文股价已较6月2日高点下跌近50%，回落至2026年以来的最低水平，被视为高杠杆AI概念股承压的典型案例。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;摩根士丹利的数据显示，&lt;strong&gt;超大规模云计算商整体杠杆率的上升速度令市场警觉——从0.9倍到1.8倍仅历时两个季度，且增速并无放缓迹象。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;这一趋势与2025年底及2026年3月两度出现的信贷收紧情形高度相似，彼时科技名称CDS大幅飙升，一度令债务驱动的资本开支浪潮陷入停滞。&lt;/p&gt; 高盛发出预警，建议客户主动对冲泡沫风险 &lt;p&gt;面对上述风险积聚，高盛交易员Adam Crook上周末向客户发布报告，建议主动布局对冲策略，以应对超大规模云计算商债务持续扩张可能引发的市场冲击。&lt;/p&gt; &lt;p&gt;Crook在报告中指出，存在一种情景：&lt;strong&gt;股票市场继续创出历史新高，而信用市场却难以从历史性偏紧的估值水平进一步上涨&lt;/strong&gt;——大规模供给压力将持续压制信用利差，而较高的利率水平也对现有发行人、尤其是低评级发行人的再融资构成阻力。&lt;/p&gt; &lt;p&gt;Crook强调，&lt;strong&gt;若出现宏观冲击——例如挑战AI牛市逻辑或资本开支计划的重大新信息——上述处于历史极低利差水平的信用市场部分，将为宏观或多资产组合提供具有不对称收益和凸性特征的风险对冲。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;值得注意的是，公开债务市场的数据或许仅是AI资本开支浪潮的冰山一角。据ZeroHedge援引分析，&lt;strong&gt;在已披露的资本开支和公开债务之外，还存在规模高达1.8万亿美元的表外敞口，构成潜在的系统性风险隐患。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;目前，AI相关债券的利差已持续数月宽于美国整体投资级企业债市场。随着超大规模云计算商融资需求不断刷新上限，债券投资者对于如何为这场&amp;quot;无底洞&amp;quot;式的AI军备竞赛定价，正面临越来越大的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东战火再燃，韩股跌入技术性熊市，美股期货齐跌，中概股盘前普涨、阿里涨11%，油价大涨超5%</title><link>https://wallstreetcn.com/articles/3776425</link><guid>ac7d2eb13d01942e6399349924ea3325f0471463e4e29d52c31db5e02cd22ec7</guid><pubDate>Wed, 08 Jul 2026 08:27:26 GMT</pubDate><description>&lt;p&gt;美国对伊朗发动新一轮空袭，叠加人工智能需求前景的持续不确定性，亚太市场遭遇双重冲击：韩国股市跌入技术性熊市区间，成为当日全球市场最受关注的焦点。美股期货承压，此外，原油价格大幅跳涨。&lt;/p&gt;
 &lt;p&gt;周三（7月8日），韩国KOSPI指数收盘下跌超5%，&lt;strong&gt;创5月20日来最低收盘位，较6月20日创下的纪录收盘价下跌超过20%，仅仅10余个交易日就跌入了技术性熊市&lt;/strong&gt;。三星电子与SK海力士的同步重挫，以及追踪两只芯片股的单股杠杆ETF的剧烈波动，进一步放大了市场跌幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;今天，欧股开盘集体下跌，欧洲斯托克50指数跌0.53%，英国富时100指数跌0.38%，法国CAC40指数跌0.58%，德国DAX指数跌0.76%。&lt;/p&gt;
@@ -279,7 +257,45 @@ DeepSeek V4：峰谷定价落地，推理提速并行
 &lt;p&gt;债券方面，美国10年期国债收益率基本持平，报4.55%；日本10年期国债收益率上行2个基点至2.865%；澳大利亚10年期国债收益率上行6个基点至4.88%；新西兰央行如期加息，新西兰国债收益率亦随之上行。&lt;/p&gt;
 &lt;p&gt;黄金现货报每盎司4124.87美元，涨0.5%，整体维持在4100美元上方高位。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;加密货币方面，比特币跌约1.6%至62656.24美元，以太坊跌约1.8%至1751.48美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 明天，GPT-5.6最强旗舰Sol将亮相！全新Ultra模式开启多智能体时代</title><link>https://wallstreetcn.com/articles/3776445</link><guid>93b4e274e8b2a1a5bbffabc00ed2d549024a2e1602a64d30dd24346dc4e495b0</guid><pubDate>Wed, 08 Jul 2026 07:21:46 GMT</pubDate><description>&lt;p&gt;OpenAI即将推出其最新旗舰模型，标志着AI能力与商业化部署进入新阶段。&lt;/p&gt;
+&lt;p&gt;加密货币方面，比特币跌约1.6%至62656.24美元，以太坊跌约1.8%至1751.48美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战火重燃！特朗普称谅解备忘录“已终结”，油价应声暴涨6%</title><link>https://wallstreetcn.com/articles/3776459</link><guid>505af84281b85298191abbcb71a8c069a4eb3d4f3af369fac103b11fe9cc46d5</guid><pubDate>Wed, 08 Jul 2026 08:43:26 GMT</pubDate><description>&lt;p&gt;美伊之间脆弱的停火协议宣告瓦解，地缘冲突风险重返市场视野，大宗商品与金融资产同步剧烈震荡。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://baijiahao.baidu.com/s?id=1870134275902212660"&gt;新华社&lt;/a&gt;，7月8日，美国总统特朗普8日在北约峰会上说，他认为美伊谅解备忘录“已终结”。&lt;/p&gt;
+&lt;p&gt;消息后，美股三大股指期货跳水，纳指期货日内跌0.42%，美国国债收益率直线拉升，布伦特原油日内涨幅达5.88%，报78.52美元/桶。现货黄金短线走低，报4091.57美元/盎司。美元指数短线拉升近20点，现报101.10。&lt;/p&gt;
+&lt;p&gt;另据央视新闻，8日当天，伊朗伊斯兰革命卫队发表声明称，美军当天凌晨对伊朗霍尔木兹甘省沿海地区和马赫沙赫尔的部分沿海基地及非军事设施发动空袭，违反停火协议，并违反《伊斯兰堡谅解备忘录》。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+美军称主动出击，打击逾80个目标
+&lt;p&gt;据CCTV国际时讯，美军中央司令部最新发声明及视频称，美军对伊朗发动新一轮进攻性打击，“动用精确制导弹药命中80余个目标”，以此“直接回应伊朗近期对在霍尔木兹海峡航行的商船发起的袭击”。&lt;/p&gt;
+&lt;p&gt;美军表示，打击对象包括伊朗防空系统、指挥控制网络、沿岸雷达站点及反舰导弹设施，并在霍尔木兹海峡及周边海域摧毁60余艘伊朗伊斯兰革命卫队小型舰艇。&lt;/p&gt;
+&lt;p&gt;美方还列举了行动依据，称伊朗先后袭击三艘途经霍尔木兹海峡的商船，包括马绍尔群岛籍&amp;quot;阿尔·雷卡亚特&amp;quot;号油轮、沙特籍&amp;quot;韦迪安&amp;quot;号油轮和利比里亚籍&amp;quot;塞浦路斯繁荣&amp;quot;号油轮，并警告称，若伊朗违反协议，美方将&amp;quot;随时追究其责任&amp;quot;。&lt;/p&gt;
+&lt;p&gt;事实上，据新华社，美国总统特朗普7月7日在社交媒体上发布“美军打击伊朗”视频。视频中，有地面设施被击中，在夜色中升腾起火焰和浓烟。特朗普没有对视频做任何文字说明，但随后自己又转发了该视频并附上一则网友帖文。帖文写道：“突发新闻：针对伊朗的大规模袭击。”&lt;/p&gt;
+伊朗强硬回应，称击落美军无人机
+&lt;p&gt;伊朗方面迅速作出回应。据新华社援引伊朗媒体报道，伊朗伊斯兰革命卫队在该国南部击落一架美军MQ-9&amp;quot;死神&amp;quot;无人机。&lt;/p&gt;
+&lt;p&gt;据央视新闻，伊朗伊斯兰议会议长卡利巴夫8日在社交媒体上发文，强烈谴责美国“严重违反”伊美谅解备忘录。卡利巴夫说，美国违反伊美谅解备忘录的行为共有五项，分别是：破坏伊朗在霍尔木兹海峡的调整安排；持续威胁对伊朗发动进一步打击；恢复石油制裁；对伊朗南部发动袭击；以色列持续侵略黎巴嫩。卡利巴夫写道：“霸凌与敲诈的时代已经结束。这条路走不通。我们不会屈服。”&lt;/p&gt;
+&lt;p&gt;伊朗武装部队哈塔姆安比亚中央总部也发表声明，重申任何情况下都不会允许美方干涉霍尔木兹海峡管理，并强调伊朗划定的航道是油轮和商船通过该海峡的&amp;quot;唯一安全航线&amp;quot;。这一表态再次引发市场对全球能源运输安全的担忧。&lt;/p&gt;
+贸易摩擦升温，多重风险叠加
+&lt;p&gt;中东局势升级之际，贸易摩擦也同步发酵。据CCTV国际时讯援引路透报道，美国总统特朗普要求财长贝森特切断所有与西班牙的贸易往来。该表态进一步推升市场避险情绪。&lt;/p&gt;
+&lt;p&gt;多重风险交织下，市场定价逻辑再度转向地缘风险。霍尔木兹海峡承担着全球约五分之一原油出口运输，任何航运受阻预期都会迅速推升能源风险溢价。随着停火破裂，投资者关注焦点已转向冲突是否进一步升级，以及霍尔木兹海峡运输能否保持畅通。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7月AI大乱斗：国外GPT-5.6、Grok4.5、Gemini 3 Pro轮流登场，国内DeepSeek V4正式版也来了！</title><link>https://wallstreetcn.com/articles/3776450</link><guid>da7afc859f4eb4ab092cbeed5b80448e3e9ea6203ca9e76ab4bfd819ac4c1c9f</guid><pubDate>Wed, 08 Jul 2026 07:29:34 GMT</pubDate><description>&lt;p&gt;7月全球AI大模型竞赛进入密集发布窗口期，国内外头部玩家几乎同步亮出新牌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI旗舰模型GPT-5.6 Sol定于本周四正式发布，马斯克旗下SpaceX AI宣布Grok 4.5也将于明日向公众开放，谷歌Gemini 3.5 Pro据悉将于7月17日上线，国内DeepSeek V4正式版同样锁定7月中旬。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;短短数周内，多款顶级大模型密集落地，直接加剧了AI行业的竞争烈度，并对相关企业的商业化路径与定价策略产生深远影响。&lt;/p&gt;
+&lt;p&gt;对市场而言，此轮集中发布不仅是技术能力的比拼，更是各方在API定价、推理效率与生态整合上的全面角力。投资者需关注的核心问题在于：谁能在性能与成本之间找到最优解，并率先将技术优势转化为商业壁垒。&lt;/p&gt;
+GPT-5.6 Sol：旗舰定位，分阶段开放
+&lt;p&gt;OpenAI首席执行官Sam Altman周三在社交媒体宣布，GPT-5.6 Sol将于本周四正式发布。&lt;strong&gt;这是GPT-5.6系列中的旗舰产品，搭载全新ultra多智能体模式与max推理强度，在编码、生物学和网络安全等核心基准测试中均刷新最佳纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;定价方面，Sol采用每百万Token输入5美元、输出30美元的收费标准，位居GPT-5.6系列三款产品的最高端。OpenAI同时宣布，将于7月在Cerebras硬件上推出Sol，推理速度最高可达每秒750个Token。&lt;/p&gt;
+&lt;p&gt;发布策略上，OpenAI采取分阶段推进路线，初期仅向部分可信合作伙伴开放API和Codex访问权限，计划在未来数周内向更广泛用户普及GPT-5.6全系列。这一策略在控制服务压力的同时，也为竞争对手留出了一定的响应窗口。&lt;/p&gt;
+Grok 4.5：马斯克加速整合AI版图
+&lt;p&gt;马斯克在社交媒体上宣布，基于beta测试阶段客户的强烈正面反馈，SpaceX AI将于明日向公众开放Grok 4.5。马斯克称，该模型属于Opus级别，但速度更快、Token效率更高、成本更低。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据此前披露的信息，Grok 4.5基于1.5万亿参数的V9基础模型打造，并在补充训练中特别加入了AI编程工具Cursor的数据。早期评测结果显示，该模型性能已接近甚至可能超越Anthropic旗舰模型Claude Opus，强化学习仍在持续优化该模型。&lt;/p&gt;
+&lt;p&gt;值得关注的是，SpaceX AI还与编程工具公司Cursor计划联合发布首款共同研发的AI模型，直接向Anthropic和OpenAI发起挑战。据The Information获得的一份内部备忘录，该模型此前曾因两家公司希望进一步提升运行效率而推迟发布，预计在某些指标上可与Anthropic的Opus 4.8及OpenAI的GPT-5.5相抗衡。&lt;/p&gt;
+&lt;p&gt;上述进展发生在SpaceX以600亿美元全股票收购Cursor的交易推进之际，标志着马斯克旗下AI版图的加速整合。&lt;strong&gt;马斯克还表示，SpaceX在今年接下来的时间里，每月都将发布完全从头开始训练的新模型。&lt;/strong&gt;&lt;/p&gt;
+Gemini 3.5 Pro：重构底座，押注质量优先
+&lt;p&gt;谷歌方面，据泄露信息，Gemini 3.5 Pro将于7月17日正式发布。据科技媒体Geeky Gadgets报道，谷歌DeepMind放弃了原有的2.5 Pro基座，转而对Gemini 3.5 Pro进行全新预训练，发布时间也因此从原定的2026年6月推迟至7月17日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从能力表现来看，Gemini 3.5 Pro的前端与视觉代码生成能力据称出现跨越式跃升，在多项测试中压制Anthropic的Fable 5，但在硬核推理与复杂工程任务上仍落后于对手。&lt;/strong&gt;这一决策被外界解读为谷歌在质量与速度之间主动选择前者，以应对OpenAI GPT-5.6和Anthropic Fable 5的双重压力。&lt;/p&gt;
+&lt;p&gt;此外，谷歌同时被曝正基于这套新底座开发图像模型Nano Banana Pro，剑指OpenAI的GPT-Image 2，意味着谷歌试图在文本代码与图像生成两条战线同步发力。&lt;/p&gt;
+DeepSeek V4：峰谷定价落地，推理提速并行
+&lt;p&gt;&lt;strong&gt;国内方面，DeepSeek团队于6月29日宣布，V4正式版计划于7月中旬上线，并同步引入峰谷定价策略。&lt;/strong&gt;根据公布的价格表，高峰时段API价格为平时价格的两倍，平时价格与现行V4 API定价持平。高峰时段界定为每日上午9时至12时及下午2时至6时，官方表示此举旨在更合理地配置资源、提升服务稳定性。&lt;/p&gt;
+&lt;p&gt;技术层面，DeepSeek于6月27日联合北京大学发布推理加速框架DSpark，并同步开源全栈推测性解码工具链DeepSpec，论文由公司创始人梁文锋本人署名。实测显示，DSpark部署后V4-Flash单用户生成速度提升60%至85%，V4-Pro提升57%至78%，效果已在线上服务全量验证。这也是DeepSeek完成500亿元融资后首次对外发布的开源技术成果。&lt;/p&gt;
+&lt;p&gt;对API用户而言，峰谷定价将直接推高工作时段使用成本；对开发者而言，推理速度的显著提升或可在高并发场景下部分抵消成本压力，并进一步降低推理优化的落地门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 明天，GPT-5.6最强旗舰Sol将亮相！全新Ultra模式开启多智能体时代</title><link>https://wallstreetcn.com/articles/3776445</link><guid>93b4e274e8b2a1a5bbffabc00ed2d549024a2e1602a64d30dd24346dc4e495b0</guid><pubDate>Wed, 08 Jul 2026 07:21:46 GMT</pubDate><description>&lt;p&gt;OpenAI即将推出其最新旗舰模型，标志着AI能力与商业化部署进入新阶段。&lt;/p&gt;
 &lt;p&gt;OpenAI首席执行官Sam Altman周三在社交媒体上宣布，GPT-5.6 Sol将于本周四正式发布。这是GPT-5.6系列中的旗舰模型，搭载全新ultra多智能体模式与max推理强度，在编码、生物学和网络安全等核心基准测试中均刷新最佳纪录。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;在定价方面，Sol定价为每百万Token输入5美元、输出30美元，位居GPT-5.6系列三款产品的最高端。OpenAI同时宣布，将于7月在Cerebras硬件上推出Sol，推理速度最高可达每秒750个Token。&lt;/p&gt;
@@ -307,22 +323,4 @@ DeepSeek V4：峰谷定价落地，推理提速并行
 &lt;p&gt;防护体系采用多层架构，包括训练层面的模型级拒绝机制、生成过程中的实时网络安全与生物学滥用分类器、账号级行为审查，以及差异化访问控制。对于高风险请求，系统可在生成过程中暂停输出，由更大的推理模型审查上下文，并在内容到达用户前予以拦截。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在压力测试方面，OpenAI投入超过70万个A100等效GPU小时用于自动化红队测试，专注于发现可跨多种提示和上下文生效的通用越狱攻击，并辅以第三方人类专家红队测试。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;根据OpenAI的准备框架，GPT-5.6 Sol未跨越网络安全&amp;quot;危急&amp;quot;阈值。在涉及Chromium和Firefox的评估中，Sol识别出了漏洞和利用原语，但在测试条件下未能自主生成可用的完整攻击链漏洞利用。&lt;/p&gt;
-&lt;p&gt;OpenAI表示，此次先行向可信合作伙伴开放的有限预览，是与美国政府持续沟通的一部分，但同时明确表示&amp;quot;不认为这种政府访问流程应成为长期默认做法&amp;quot;，并将与政府合作制定面向未来模型发布的可重复流程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国AI牛市大赢家！国民年金二季度暴赚189万亿韩元，三星、SK海力士贡献近八成</title><link>https://wallstreetcn.com/articles/3776448</link><guid>19b8b06e8070029a0148046390dee599a06af85fe53303dc4560430cc0e2e87b</guid><pubDate>Wed, 08 Jul 2026 06:52:56 GMT</pubDate><description>&lt;p&gt;受AI驱动的半导体牛市席卷韩国股市，韩国国民年金成为这轮行情最大的机构赢家之一。&lt;strong&gt;二季度单季浮盈近190万亿韩元，创下季度历史最高纪录，而三星电子与SK海力士两只半导体巨头几乎独揽了这份收益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据韩联社周三报道，随着KOSPI指数二季度历史上首次突破9000点并持续高位运行，国民年金持有的国内上市股票估值在三个月内暴增189.5684万亿韩元（折合人民币约8500亿元），季度收益率高达63.9%。这一增幅较一季度高出逾100万亿韩元，刷新季度历史纪录。&lt;/p&gt;
-&lt;p&gt;其中，三星电子与SK海力士两家公司的持仓估值合计增加151万亿韩元（折合人民币约6770亿元），占整体增幅的79.8%。值得注意的是，SK海力士本季度的贡献首次超越三星电子，成为国民年金最大的单一收益来源。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;随着国民年金国内股票再平衡暂缓措施于6月底到期，市场目前高度关注该基金7月起可能释放的抛售规模，&lt;/strong&gt;这一不确定性或对韩国股市形成短期压力。&lt;/p&gt;
-SK海力士领跑，半导体双雄撑起八成涨幅
-&lt;p&gt;金融信息机构FnGuide数据显示，以7月6日为基准，国民年金持股5%以上并公示的270家上市企业股票估值总额达486.0118万亿韩元（折合人民币约2.18万亿元），较3月底的296.4433万亿韩元大幅跃升。&lt;/p&gt;
-&lt;p&gt;SK海力士是本季度最耀眼的贡献者。国民年金持有SK海力士的股权比例维持在7.50%不变，但其持仓估值从3月底的43.156万亿韩元飙升至125.2968万亿韩元，单季增加82.1407万亿韩元（折合人民币约3683亿元），增幅高达190.3%。&lt;/p&gt;
-&lt;p&gt;三星电子方面，国民年金持股比例从7.75%小幅提升至7.84%，持仓估值从76.6842万亿韩元增至145.8467万亿韩元，增加69.1626万亿韩元（折合人民币约3101亿元），增幅90.1%。&lt;/p&gt;
-&lt;p&gt;两家公司合计在国民年金国内股票持仓中的占比，已从3月底的40.4%大幅攀升至55.7%，集中度显著提高。&lt;/p&gt;
-半导体产业链全面受益，SK Square、三星电机跻身前列
-&lt;p&gt;半导体产业链的整体上涨带动了更广泛的持仓增值。SK Square持仓估值增加11.9953万亿韩元（折合人民币约538亿元），增量排名第三。三星电机尽管持股比例从10.46%下调至9.95%，持仓估值仍增加10.4072万亿韩元（折合人民币约467亿元），位列第四。&lt;/p&gt;
-&lt;p&gt;此外，三星物产增加2.7278万亿韩元，三星生命增加2.5137万亿韩元，SK增加2.0577万亿韩元，均录得可观涨幅。&lt;/p&gt;
-&lt;p&gt;二季度新纳入5%以上持股公示的标的共19只，包括Simtech、SK Eternix等；同期跌出5%门槛的标的为21只，包括LX Semicon、韩国旅游等。增持幅度最大的标的为BH（持股比例从7.47%升至13.35%）和DL E&amp;amp;C（从8.06%升至11.44%）。&lt;/p&gt;
-部分持仓大幅缩水，科技与新能源板块承压
-&lt;p&gt;并非所有持仓均录得正收益。一季度表现亮眼的未来资产证券二季度估值减少1.0717万亿韩元（折合人民币约48亿元），成为损失最大的单一标的。&lt;/p&gt;
-&lt;p&gt;LG能源解决方案估值缩水5737亿韩元，韩华系统减少4510亿韩元，Kakao与Naver分别下滑4470亿韩元和4153亿韩元，互联网与新能源板块整体表现落后于半导体。&lt;/p&gt;
-&lt;p&gt;国民年金同期减持了LG、SK Chemicals、大主电子材料、Vinatech等多只标的，持股10%以上的标的数量也从上季度末的34只小幅降至32只。&lt;/p&gt;
-&lt;p&gt;尽管二季度收益亮眼，国民年金的下一步动向已引发市场警惕。此前为支持国内股市，当局对国民年金国内股票配置的再平衡操作实施了暂缓措施，该措施已于6月底正式到期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;随着半导体双雄的持仓占比大幅提升，国民年金若启动再平衡以恢复既定的资产配置比例，可能需要减持部分国内股票头寸。市场人士正密切关注7月起潜在抛售规模的大小，以评估其对韩国股市的实际冲击。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;OpenAI表示，此次先行向可信合作伙伴开放的有限预览，是与美国政府持续沟通的一部分，但同时明确表示&amp;quot;不认为这种政府访问流程应成为长期默认做法&amp;quot;，并将与政府合作制定面向未来模型发布的可重复流程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
