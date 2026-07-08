@@ -1,30 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 19:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
-&lt;p&gt;摩根大通据此对两家中国AI公司作出分化评级。报告将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，理由是GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断；同时将MiniMax目标价从400港元下调至300港元，维持&amp;quot;中性&amp;quot;评级，因M3尚未展示出足够的模型驱动定价权。&lt;/p&gt;
-&lt;p&gt;摩根大通指出，&lt;strong&gt;开放权重扩大了模型分发范围，但变现能力仍高度依赖模型质量、迭代速度与端点可靠性。对于能力领先的模型，开放权重可借助云服务商（CSP）、推理平台与私有化部署等外部GPU算力扩大使用规模，同时通过官方API、授权许可、平台SaaS及收入分成等多路径实现商业变现；对于差异化不足的模型，更广泛的访问权限反而加速了比价与流量替换。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-开放权重：变现逻辑的结构性转变
-
-&lt;p&gt;摩根大通认为，市场普遍将开放权重发布解读为变现漏损，这一判断方向正确，但并不完整。更关键的问题在于，&lt;strong&gt;LLM提供商能否将弱化的访问控制转化为更广的分发与付费转化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，开放权重并不使所有API端点趋同。官方API在模型时效性、缓存策略、吞吐量、延迟、功能支持与服务可靠性等维度上仍具系统性优势。&lt;/p&gt;
-&lt;p&gt;开放权重发布通常是一个已发布的检查点，而官方API是持续演进的产品——发布后，模型提供商可基于实时流量持续优化指令遵循、工具调用、长上下文稳定性与推理效率，而这些优化通常不会完全同步更新至开放权重包。因此，同一模型名称下，官方端点与第三方部署的实际用户体验可能随时间拉开差距。&lt;/p&gt;
-&lt;p&gt;摩根大通以两个案例佐证上述框架。&lt;strong&gt;在DeepSeek V4 Pro案例中，据OpenRouter数据，官方路径凭借更低标价与更高缓存命中率（93.5%），在月度工作负载中的估算成本约为24至41美元，而部分第三方路径高达85至196美元，价差约6至12倍。在MiniMax M3案例中，各提供商名义输出定价相近，但官方路径在缓存命中率、实际输入成本与响应速度方面均具优势，据Artificial Analysis数据，MiniMax是M3提供商中速度最快之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-智谱：GLM-5.2巩固前沿定位，目标价上调至2000港元
-
-&lt;p&gt;摩根大通对智谱维持&amp;quot;增持&amp;quot;评级，并将目标价上调至2000港元，核心逻辑在于GLM-5.2提升了开放权重变现潜力。&lt;/p&gt;
-&lt;p&gt;报告认为，智谱的开放权重策略更为从容：以宽松访问扩大使用规模，同时将官方路径与更高服务版本（如GLM-Turbo系列）定位于满足质量敏感型需求。GLM-5.2采用MIT许可证，在全球云平台及推理提供商中的分发覆盖面持续扩大——在AWS平台，GLM-5.2已通过AWS市场以智谱官方SaaS API产品形式上架；在Azure平台，微软Foundry通过Fireworks AI分发GLM-5.2。&lt;/p&gt;
-&lt;p&gt;摩根大通指出，基于当前估值，市场已基本消化智谱年底10亿美元ARR指引。剩余上行空间取决于强大的开放权重模型能否通过外部基础设施和分发渠道实现规模化，而非仅依赖智谱自身GPU算力栈。这属于选择权价值而非确定的近期收入，且仅在智谱维持模型领先地位的情况下才能规模化，关键观察点包括GLM-5.5/6、Kimi K3与DeepSeek V4.1的对比表现。&lt;/p&gt;
-
-MiniMax：定价权缺失，开放权重压力放大下行风险
-
-&lt;p&gt;摩根大通对MiniMax维持&amp;quot;中性&amp;quot;评级，目标价从400港元下调至300港元，核心原因是开放权重商业化正成为&amp;quot;赢家多吃&amp;quot;框架，而M3尚未展示出模型驱动定价权的足够证据。&lt;/p&gt;
-&lt;p&gt;报告认为，M3永久性的50%折扣是一个重要信号，表明该模型尚未在面对国内领先模型时获得能力溢价。折扣可能支撑短期使用量，但降低了市场对模型驱动型变现的信心。在开放权重扩大访问的背景下，差异化不足的模型面临更快的比价与更容易的流量改道——更广泛的分发在此情境下反而放大了风险而非创造上行空间。&lt;/p&gt;
-&lt;p&gt;摩根大通同时指出MiniMax的相对优势：&lt;strong&gt;公司在多模态AI、海外使用与智能体工作流方面仍具相关性，M3通过100万token上下文、原生多模态与MiniMax Code改善了产品叙事，OpenRouter平台的调用量也表明开发者对其模型的采用已达相当规模。然而，工作流变现需要更强的模型拉力——编码或智能体产品需对任务完成产生足够大的改善才能改变用户习惯，而非仅提供另一条访问广泛可得模型的路径。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通同时提示，两家公司均处于资本密集型阶段，融资需求构成潜在风险。&lt;/p&gt;
-&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 监管松绑GPT-5.6：OpenAI获准全面部署，前沿AI审批制暂告段落</title><link>https://wallstreetcn.com/articles/3776496</link><guid>5de6ab77a57e24e3d416424eead4a6777b171074d2c546352a26ff07ee194806</guid><pubDate>Wed, 08 Jul 2026 15:40:36 GMT</pubDate><description>&lt;p&gt;OpenAI 为旗舰模型GPT-5.6 拿下关键监管通行证。这不仅意味着公司距离全面商业化再进一步，也标志着美国政府针对前沿AI模型实施的&amp;quot;逐案审批&amp;quot;机制首次出现实质性松动。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 20:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 监管松绑GPT-5.6：OpenAI获准全面部署，前沿AI审批制暂告段落</title><link>https://wallstreetcn.com/articles/3776496</link><guid>5de6ab77a57e24e3d416424eead4a6777b171074d2c546352a26ff07ee194806</guid><pubDate>Wed, 08 Jul 2026 15:40:36 GMT</pubDate><description>&lt;p&gt;OpenAI 为旗舰模型GPT-5.6 拿下关键监管通行证。这不仅意味着公司距离全面商业化再进一步，也标志着美国政府针对前沿AI模型实施的&amp;quot;逐案审批&amp;quot;机制首次出现实质性松动。&lt;/p&gt;
 &lt;p&gt;7月8日，据Axios、CNBC报道，&lt;strong&gt;OpenAI已获得美国监管部门对 GPT-5.6 推出计划的正式批准。&lt;/strong&gt;这意味着GPT-5.6 将从此前仅限少数合作伙伴使用的受限发布阶段，转向更广泛的商业化部署，成为该系列全面落地的重要里程碑。&lt;/p&gt;
 &lt;p&gt;就在两周前，GPT-5.6系列仍处于严格监管之下。6月27日，OpenAI首次发布 GPT-5.6 Sol、Terra 和 Luna 三款模型时，美国政府要求仅向约 20 家&amp;quot;可信合作伙伴&amp;quot;开放有限预览。&lt;strong&gt;OpenAI 当时罕见在官方公告中公开表达不满，称政府介入访问流程&amp;quot;不应成为长期默认模式&amp;quot;，并指出这一安排限制了开发者、企业以及网络安全机构获取前沿AI能力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次监管放行，意味着OpenAI与美国政府围绕GPT-5.6部署范围的博弈取得阶段性突破，也使其成为美国新一轮前沿AI审查框架下首个完成&amp;quot;受限发布—全面放行&amp;quot;全过程的案例。&lt;/p&gt;
@@ -110,24 +85,7 @@ GPT-Live-1两版本测评性能明显优于Advanced Voice Mode
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
-&lt;p&gt;智谱迎来上市后首次限售股解禁，市场惯常的&amp;quot;逢解禁必跌&amp;quot;逻辑在此彻底失效——当日股价一度飙涨逾19%，MiniMax同步大涨约17%。分析指出，大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有，华尔街主流资本对中国AI模型公司的系统性认可正在形成。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3776443"&gt;华尔街见闻文章&lt;/a&gt;写道，&lt;strong&gt;摩根大通将智谱目标价从1800港元上调至2000港元&lt;/strong&gt;，维持&amp;quot;增持&amp;quot;评级；高盛、美银、花旗三家国际投行在同一时段对MiniMax给出&amp;quot;买入&amp;quot;评级。&lt;/p&gt;
-&lt;p&gt;大模型双雄的强势表现，是港股科技板块整体爆发的缩影。今天，恒科指全天高开高走，大涨近5%，阿里巴巴涨超12%，华虹宏力涨超10%，联想集团涨超9%，中芯国际、快手涨超8%，腾讯控股一度飙涨超4%。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&amp;amp;mid=2652272164&amp;amp;idx=1&amp;amp;sn=555c661a0ebbcf7b72e74bb661b432d1&amp;amp;chksm=85cd278065dcfaa8d8e8b870ff37dc782f2bd0835d27f09d2f634115811e2d99cf090d229046&amp;amp;scene=126&amp;amp;sessionid=1783491067"&gt;券商中国&lt;/a&gt;，分析人士认为，港股此轮强势有两方面驱动：&lt;strong&gt;一是港股估值偏低，具备吸引力；二是全球存储芯片板块持续遭遇重挫，从这些板块流出的资金流向了港股。&lt;/strong&gt;与此同时，中国人民银行行长潘功胜在&amp;quot;香港固定收益及货币峰会暨债券通论坛&amp;quot;上发表讲话，围绕深化金融市场互联互通、支持香港资本市场繁荣、巩固离岸人民币枢纽地位、维护香港金融稳定四个方向作出部署，亦为市场情绪提供了政策层面的支撑。&lt;/p&gt;
-解禁魔咒失效：机构集体表态，市场完成价值重估
-&lt;p&gt;智谱此次解禁的市场表现，打破了A股及港股市场长期存在的&amp;quot;解禁必跌&amp;quot;预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;本次智谱解禁限售股总量为2568.16万股。&lt;/strong&gt;北京金融控股集团旗下国际投资基金JSC International Investment Fund SPC、投资机构WT Asset Management、Optimas Capital Limited，以及早期股东及基石投资人凌云光技术股份有限公司均相继表达长期持有意愿。&lt;/p&gt;
-&lt;p&gt;MiniMax方面，最大战略股东阿里巴巴与米哈游亦于6月下旬明确表示长期看好，MiniMax创始团队更自愿设定12个月禁售期，超出行业通行的6个月安排，首次解禁不涉及创始团队和员工持股。&lt;/p&gt;
-&lt;p&gt;从盘面来看，当日大涨并非单纯的短期交易情绪驱动，而是市场对公司长期价值重估与资本态度明确后的集中释放。&lt;strong&gt;多家核心机构投资者在解禁前后相继公开表态，选择继续持有而非减持套现，有效消解了市场对流动性踩踏的担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摩根大通的评级上调为此次行情提供了重要的基本面支撑。&lt;/strong&gt;&lt;a href="https://wallstreetcn.com/articles/3776443"&gt;华尔街见闻文章&lt;/a&gt;写道，摩根大通将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，核心逻辑在于GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断。&lt;/p&gt;
-&lt;p&gt;摩根大通同时指出，基于当前估值，市场已基本消化智谱年底10亿美元ARR指引，剩余上行空间取决于强大的开放权重模型能否通过外部基础设施和分发渠道实现规模化。&lt;/p&gt;
-&lt;p&gt;在MiniMax方面，&lt;strong&gt;高盛、美银、花旗三家国际金融机构在同一时段给出&amp;quot;买入&amp;quot;评级&lt;/strong&gt;，在当前AI板块分化加剧的市场环境中并不多见。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛&lt;/strong&gt;给出目标价每股860港元，报告重点关注中国AI行业定价环境的变化。高盛指出，DeepSeek V4即将引入高峰时段差异化定价，高峰时段API价格为非高峰的2倍，这是自2026年4月底以来行业激进价格战走向理性化的早期信号。在此背景下，MiniMax M3模型凭借更高比例的自建优化算力和更小激活参数的高效架构，毛利率显著高于同行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美银&lt;/strong&gt;目标价为每股500港元，报告披露了MiniMax收入结构的重要转变：公司收入已从去年消费端产品占比约70%，转向企业端与云API业务占比提升，企业/云API被列为更高战略优先级。在盈利层面，前一代模型M2.7最终实现了超过40%的推理利润率，美银预计通过持续提升基础设施效率，长期利润率将保持稳定。在算力获取方面，MiniMax通过与全球云服务商和新型云厂商合作，以海外本地算力服务海外用户，目前仍可稳定获取算力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;花旗&lt;/strong&gt;给出目标价每股533港元，指出当前股价对应53.8%的预期上行空间，并预计MiniMax收入增速将维持高位，即将发布的新一代视频模型有望成为扭转市场情绪的关键催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”</title><link>https://wallstreetcn.com/articles/3776459</link><guid>505af84281b85298191abbcb71a8c069a4eb3d4f3af369fac103b11fe9cc46d5</guid><pubDate>Wed, 08 Jul 2026 09:09:15 GMT</pubDate><description>&lt;p&gt;美伊之间脆弱的停火协议宣告瓦解，地缘冲突风险重返市场视野，大宗商品与金融资产同步剧烈震荡。据&lt;a href="https://baijiahao.baidu.com/s?id=1870134275902212660"&gt;新华社&lt;/a&gt;，7月8日，&lt;strong&gt;美国总统特朗普8日在北约峰会上说，他认为美伊谅解备忘录“已终结”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”</title><link>https://wallstreetcn.com/articles/3776459</link><guid>505af84281b85298191abbcb71a8c069a4eb3d4f3af369fac103b11fe9cc46d5</guid><pubDate>Wed, 08 Jul 2026 09:09:15 GMT</pubDate><description>&lt;p&gt;美伊之间脆弱的停火协议宣告瓦解，地缘冲突风险重返市场视野，大宗商品与金融资产同步剧烈震荡。据&lt;a href="https://baijiahao.baidu.com/s?id=1870134275902212660"&gt;新华社&lt;/a&gt;，7月8日，&lt;strong&gt;美国总统特朗普8日在北约峰会上说，他认为美伊谅解备忘录“已终结”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;特朗普周三在安卡拉出席北约年度峰会期间，与北约秘书长马克·吕特并肩而坐时对媒体表示：“对我来说，我认为这件事已经结束了。在我看来，这不过是在浪费时间。”&lt;/p&gt;
 &lt;p&gt;他称：“我不想跟他们打交道，他们就是人渣。他们是一群病态的人，由病态的人领导，凶残且好斗；如果他们拥有核武器，一定会动用。”&lt;/p&gt;
 &lt;p&gt;此番言论后，美股三大股指期货跳水，纳指期货日内跌0.42%，美国国债收益率直线拉升，布伦特原油日内涨幅达5.88%，报78.52美元/桶。现货黄金短线走低，报4091.57美元/盎司。美元指数短线拉升近20点，现报101.10。&lt;/p&gt;
@@ -330,4 +288,45 @@ AI催化剂密集落地
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;商品期货端的疲弱直接传导至股票市场——天齐锂业、融捷股份、盛新锂能全线跌停，永杉锂业、赣锋锂业、永兴材料等跌幅超过6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;锂矿股的集体崩跌背后，是市场对碳酸锂供需格局预期的持续恶化。7月排产数据显示行业仍有望去库，但市场显然更关注中期需求的不确定性——全球电动车销量增速放缓和储能装机节奏的扰动，正在动摇此前&amp;quot;锂价底部已现&amp;quot;的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;锂矿股的集体崩跌背后，是市场对碳酸锂供需格局预期的持续恶化。7月排产数据显示行业仍有望去库，但市场显然更关注中期需求的不确定性——全球电动车销量增速放缓和储能装机节奏的扰动，正在动摇此前&amp;quot;锂价底部已现&amp;quot;的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 顺丰拿下香港专属自保牌照，物流巨头缘何赴港定制“内部保险”？</title><link>https://wallstreetcn.com/articles/3776467</link><guid>7d5eacc7a8e1039e1c032af51658e08ed9e76549ebe2601bcfe0d90a45267922</guid><pubDate>Wed, 08 Jul 2026 09:40:05 GMT</pubDate><description>&lt;p&gt;物流巨头顺丰控股在金融板块再落一子。&lt;/p&gt;
+&lt;p&gt;7月8日，香港保险业监管局宣布，已向顺丰控股股份有限公司设立的“顺丰保险有限公司”发出授权。顺丰控股总部位于深圳，是全球大型物流服务商。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;至此，在香港成立的专属自保保险公司总数增至9家。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自保保险公司通常由大型企业集团发起，专注于管理集团内部各类风险，而非对外承保盈利。其核心价值在于通过内部风险的统筹管理，平滑财务波动、降低整体保险成本。&lt;/p&gt;
+&lt;p&gt;在欧美市场，自保公司已有数十年发展历史，机制成熟，是跨国企业治理结构的常见配置。而亚洲自保市场尚处起步阶段，无论机构数量还是保费规模均有较大增长空间。&lt;/p&gt;
+&lt;p&gt;香港正积极把握这一机遇，着力打造亚洲自保中心，以期带动会计、精算、法律等专业服务需求，并吸引全球再保险资源。&lt;/p&gt;
+&lt;p&gt;对大型企业而言，在香港设立自保公司具有现实优势。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;香港保监局近期表示，企业可在较低行政成本与合规门槛下，全面识别、监控、转移和化解集团面临的各类风险&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同时，自保公司还能与企业已在港设立的财资中心、资产管理部门形成协同效应，提升资金效率和经营韧性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从行业特性看，顺丰控股业务链条长、重资产比例高，涵盖航空机队、运输车辆、仓储设施及大量人员与货物运转，面临货损、雇员责任、财产安全和自然灾害等多维风险。传统商业保险模式下，保费易受市场周期和行业赔付率波动影响。&lt;/p&gt;
+&lt;p&gt;设立专属自保公司后，顺丰可根据自身实际风险数据进行精算定价，在跨国扩张中更有效地控制风险成本。&lt;/p&gt;
+&lt;p&gt;值得一提的是，这是首家由内地民营企业赴港设立的专属自保公司。&lt;/p&gt;
+&lt;p&gt;继2025年汇丰集团、上汽集团先后在港设立自保公司后，香港自保市场正迎来新一轮扩容潮。&lt;/p&gt;
+&lt;p&gt;2026年至今，香港保监局已新授权3家专属自保公司。除顺丰保险外，今年2月，该局向中国核工业集团旗下的中核保险有限公司发出授权，后者已于6月30日正式揭牌。&lt;/p&gt;
+&lt;p&gt;中核保险表示，将依托香港法治环境与绿色金融体系，开发核能主题绿色保险及碳金融配套产品，服务全球能源低碳转型。同期获批的还有香港上海大酒店有限公司设立的HSH Captive Limited，成为香港首家由酒店行业发起的专属自保公司。&lt;/p&gt;
+&lt;p&gt;回望历史，内地大型企业赴港设立自保公司始于2000年，中海石油保险有限公司率先注册；&lt;/p&gt;
+&lt;p&gt;此后，中石化保险、中广核保险、上海电气保险等相继落地。从早期能源、电力等国资背景企业，到近年汽车制造、金融集团，再到如今的民营物流龙头顺丰，赴港设立自保公司的企业图谱日趋多元。&lt;/p&gt;
+&lt;p&gt;这一趋势折射出不同行业在全球竞争中强化内部风险管理的共同诉求。&lt;/p&gt;
+&lt;p&gt;香港保监局行政总监张云正指出，新增专属自保公司印证了香港成功落实聚焦本地跨国企业、内地国企与民企的发展策略。通过吸引更多不同所有制、不同行业背景的大型企业，香港正稳步迈向领先风险管理中心的目标。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 离任不等于免责，长乐农商行首任董事长卸任四年后被终身禁业</title><link>https://wallstreetcn.com/articles/3776472</link><guid>4fb15c50e1478cc239c0703f2b5721603250c9a7fc8f12d8f758c1b3c08c76f1</guid><pubDate>Wed, 08 Jul 2026 10:16:44 GMT</pubDate><description>&lt;p&gt;从基层信用社的出纳员，一路做到银行董事长，苏良涛在金融圈里干了22年。而现在，等待他的是一纸终身禁业的罚单。&lt;/p&gt;
+&lt;p&gt;7月7日，国家金融监督管理总局福建监管局公布一则处罚信息，因违法发放个人经营性贷款，长乐农商银行被罚款60万元，多名责任人同步被追责。其中，该行原董事长苏良涛被处以终身禁止从事银行业工作。&lt;/p&gt;
+&lt;p&gt;此时苏良涛已卸任董事长四年，这种力度的追责在农商行系统中并不多见。&lt;/p&gt;
+&lt;p&gt;这已是长乐农商行近四年收到的第三张监管罚单，这家当地规模最大的地方法人银行，合规底线为何再次失守。&lt;/p&gt;
+&lt;strong&gt;掌舵九年&lt;/strong&gt;&lt;strong&gt;的董事长&lt;/strong&gt;
+&lt;p&gt;苏良涛，1974年生人，福建永泰人，研究生学历。1996年9月参加工作，从基层信用社出纳、会计、信贷员做起，历任福州市仓山农村信用合作社主任、闽侯农村信用合作联社副主任、长乐市农村信用合作联社主任、省联社业务处处长助理兼副处长。&lt;/p&gt;
+&lt;p&gt;22年金融从业经历，从基层一步步走到掌舵人，苏良涛在农信系统内算典型的“实干派”。&lt;/p&gt;
+&lt;p&gt;2013年，苏良涛出任长乐市农村信用合作联社理事长。2015年10月，长乐农商银行在原信用联社基础上改制成立，苏良涛成为该行首任董事长，在这个位置上坐了将近9年。&lt;/p&gt;
+&lt;p&gt;但就在其掌舵期间，长乐农商行的合规问题已经开始暴露&lt;/p&gt;
+&lt;strong&gt;四年三张罚单&lt;/strong&gt;
+&lt;p&gt;2022年1月，原福建银保监局就曾对该行开出150万元罚单。并曝光五项违规事项：个人周转贷贷前调查不尽职、普惠金融卡贷后管理不到位、向未竣工验收的商业用房发放按揭贷款、违规发放个人经营性贷款、流动资金贷款管理失职。&lt;/p&gt;
+&lt;p&gt;长乐农商行当时的回应是，违规主要由于个别工作人员操作不当导致，已按信贷制度对相关人员进行了处罚。&lt;/p&gt;
+&lt;p&gt;两年后，更重的罚单落下。中国人民银行福建省分行因反洗钱等五项违法行为，对长乐农商行处以341万元罚款，这是该行成立以来收到的最大一张罚单。&lt;/p&gt;
+&lt;p&gt;违规事项包括违反金融统计管理规定、违反信用信息采集提供查询规定、未按规定履行客户身份识别义务、未按规定报送大额交易报告或可疑交易报告、与身份不明的客户进行交易。&lt;/p&gt;
+&lt;p&gt;时任行长、业务拓展兼风险合规部总经理、数字金融部总经理同步被罚，罚金从3.1万元到7.3万元不等。&lt;/p&gt;
+&lt;strong&gt;离职不等于免责&lt;/strong&gt;
+&lt;p&gt;事实上，“离职不等于免责”已成为近两年金融监管的常态化操作。2025年，全行业超过100名银行从业人员被终身禁业，且追责的范围和力度仍在继续扩大。&lt;/p&gt;
+&lt;p&gt;今年5月，建设银行广东省分行原副行长席荣贵被查。其于2018年9月离开建行，加入合生创展出任执行董事及行政总裁，后于2020年辞任，从银行离职已近八年。&lt;/p&gt;
+&lt;p&gt;同一时间，江西南昌农商银行因信贷违规被罚360万元，现任行长和离任行长同时被追责，授信审批部前总经理也被点名处罚。监管对银行高管的合规约束，已经从“当期业绩”延伸到“全周期合规”。&lt;/p&gt;
+&lt;strong&gt;农商行改制的&lt;/strong&gt;&lt;strong&gt;“&lt;/strong&gt;&lt;strong&gt;欠账&lt;/strong&gt;&lt;strong&gt;”&lt;/strong&gt;
+&lt;p&gt;长乐农商行下辖40个营业网点、是当地网点最多、服务群体最广的地方金融机构。而其存在的问题，在农商行群体中也并非个例&lt;/p&gt;
+&lt;p&gt;近年来，农商行系统的监管力度持续加码，全国大量农商行是由原农信社改制而来，改制带来了更规范的公司治理架构，但并不意味着历史遗留的风险会被自动清理。改制前的人情贷款、指令性放贷等问题，往往被打包带入新体制。&lt;/p&gt;
+&lt;p&gt;如今，监管正在用实际行动倒逼银行高管审慎经营，杜绝短期规模冲动，完善内部风控制衡机制。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
