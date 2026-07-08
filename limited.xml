@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 16:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 监管松绑GPT-5.6：OpenAI获准全面部署，前沿AI审批制暂告段落</title><link>https://wallstreetcn.com/articles/3776496</link><guid>5de6ab77a57e24e3d416424eead4a6777b171074d2c546352a26ff07ee194806</guid><pubDate>Wed, 08 Jul 2026 15:40:36 GMT</pubDate><description>&lt;p&gt;OpenAI 为旗舰模型GPT-5.6 拿下关键监管通行证。这不仅意味着公司距离全面商业化再进一步，也标志着美国政府针对前沿AI模型实施的&amp;quot;逐案审批&amp;quot;机制首次出现实质性松动。&lt;/p&gt;
-&lt;p&gt;7月8日，据Axios、CNBC报道，&lt;strong&gt;OpenAI已获得美国监管部门对 GPT-5.6 推出计划的正式批准。&lt;/strong&gt;这意味着GPT-5.6 将从此前仅限少数合作伙伴使用的受限发布阶段，转向更广泛的商业化部署，成为该系列全面落地的重要里程碑。&lt;/p&gt;
-&lt;p&gt;就在两周前，GPT-5.6系列仍处于严格监管之下。6月27日，OpenAI首次发布 GPT-5.6 Sol、Terra 和 Luna 三款模型时，美国政府要求仅向约 20 家&amp;quot;可信合作伙伴&amp;quot;开放有限预览。&lt;strong&gt;OpenAI 当时罕见在官方公告中公开表达不满，称政府介入访问流程&amp;quot;不应成为长期默认模式&amp;quot;，并指出这一安排限制了开发者、企业以及网络安全机构获取前沿AI能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次监管放行，意味着OpenAI与美国政府围绕GPT-5.6部署范围的博弈取得阶段性突破，也使其成为美国新一轮前沿AI审查框架下首个完成&amp;quot;受限发布—全面放行&amp;quot;全过程的案例。&lt;/p&gt;
-从&amp;quot;受限发布&amp;quot;到全面放行
-&lt;p&gt;本轮监管收紧始于6月中旬。Anthropic发布Mythos级模型Fable 5 后仅72小时，便在国会压力下被要求撤回。原因是其在闭门演示中展示了包括清空银行账户等具有潜在危险性的能力，引发美国政界对前沿AI安全风险的高度关注。随后，美国众议员Andrew Garbarino 呼吁建立针对最先进AI模型的统一监管审查机制。&lt;/p&gt;
-&lt;p&gt;在这一背景下，GPT-5.6 成为该监管框架下的首个实践案例。&lt;strong&gt;与Anthropic被动下架不同，OpenAI采取了更加积极的配合策略，包括提前向监管部门展示模型能力、接受分阶段发布安排，并承诺在受限预览期间持续开展安全测试、与合作伙伴共同完善风险评估。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如今监管批准正式落地，OpenAI 不仅率先完成了从限制发布到全面开放的监管流程，也在商业化节奏上抢占先机。&lt;/p&gt;
-Sol 本周正式登场，价格瞄准Anthropic
-&lt;p&gt;GPT-5.6 系列旗舰模型Sol将于本周四正式上线。&lt;/p&gt;
-&lt;p&gt;OpenAI CEO奥特曼此前透露，Sol将提供全新的Ultra多智能体模式和 Max 推理强度版本，&lt;strong&gt;API定价为输入每百万Token5美元、输出每百万Token 30美元。这一价格约为Anthropic Claude Fable 5 的一半。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;性能方面，在Terminal-Bench 2.1 编码基准测试中，Sol Ultra 得分达到 91.9%，Sol标准版为 88.8%，均高于 Claude Mythos 5 的 88.0%。更低的价格配合接近甚至更优的性能，使Sol有望直接冲击 Anthropic 在企业级API市场的定价体系。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;OpenAI计划于本月将Sol部署至Cerebras硬件平台，推理速度预计可达到每秒750个Token，进一步提升其在高吞吐企业场景下的竞争力。&lt;/strong&gt;&lt;/p&gt;
-美国AI监管进入新阶段
-&lt;p&gt;GPT-5.6 获批并不意味着美国前沿AI监管已经定型，而更像是新监管体系迈出的第一步。&lt;/p&gt;
-&lt;p&gt;OpenAI 在此前公告中曾呼吁，美国政府应建立一套&lt;strong&gt;可重复、可预测、标准化&lt;/strong&gt;的审批机制，而不是针对每款模型逐案审批。此次GPT-5.6顺利获批，是否意味着美国正在形成一套相对固定的前沿AI审查流程，以及未来GPT-6、Anthropic 新模型、Google Gemini 等产品是否将遵循同一机制，仍有待观察。&lt;/p&gt;
-&lt;p&gt;在Anthropic仍为 Fable 5 的重新发布寻求监管批准之际，OpenAI 凭借更积极的监管沟通策略率先完成商业化放行，不仅赢得了产品上市时间窗口，也有望重新塑造市场对两家公司商业化执行能力及监管风险管理能力的估值预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 16:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
 &lt;p&gt;摩根大通据此对两家中国AI公司作出分化评级。报告将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，理由是GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断；同时将MiniMax目标价从400港元下调至300港元，维持&amp;quot;中性&amp;quot;评级，因M3尚未展示出足够的模型驱动定价权。&lt;/p&gt;
 &lt;p&gt;摩根大通指出，&lt;strong&gt;开放权重扩大了模型分发范围，但变现能力仍高度依赖模型质量、迭代速度与端点可靠性。对于能力领先的模型，开放权重可借助云服务商（CSP）、推理平台与私有化部署等外部GPU算力扩大使用规模，同时通过官方API、授权许可、平台SaaS及收入分成等多路径实现商业变现；对于差异化不足的模型，更广泛的访问权限反而加速了比价与流量替换。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -40,7 +24,23 @@ MiniMax：定价权缺失，开放权重压力放大下行风险
 &lt;p&gt;报告认为，M3永久性的50%折扣是一个重要信号，表明该模型尚未在面对国内领先模型时获得能力溢价。折扣可能支撑短期使用量，但降低了市场对模型驱动型变现的信心。在开放权重扩大访问的背景下，差异化不足的模型面临更快的比价与更容易的流量改道——更广泛的分发在此情境下反而放大了风险而非创造上行空间。&lt;/p&gt;
 &lt;p&gt;摩根大通同时指出MiniMax的相对优势：&lt;strong&gt;公司在多模态AI、海外使用与智能体工作流方面仍具相关性，M3通过100万token上下文、原生多模态与MiniMax Code改善了产品叙事，OpenRouter平台的调用量也表明开发者对其模型的采用已达相当规模。然而，工作流变现需要更强的模型拉力——编码或智能体产品需对任务完成产生足够大的改善才能改变用户习惯，而非仅提供另一条访问广泛可得模型的路径。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根大通同时提示，两家公司均处于资本密集型阶段，融资需求构成潜在风险。&lt;/p&gt;
-&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
+&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 监管松绑GPT-5.6：OpenAI获准全面部署，前沿AI审批制暂告段落</title><link>https://wallstreetcn.com/articles/3776496</link><guid>5de6ab77a57e24e3d416424eead4a6777b171074d2c546352a26ff07ee194806</guid><pubDate>Wed, 08 Jul 2026 15:40:36 GMT</pubDate><description>&lt;p&gt;OpenAI 为旗舰模型GPT-5.6 拿下关键监管通行证。这不仅意味着公司距离全面商业化再进一步，也标志着美国政府针对前沿AI模型实施的&amp;quot;逐案审批&amp;quot;机制首次出现实质性松动。&lt;/p&gt;
+&lt;p&gt;7月8日，据Axios、CNBC报道，&lt;strong&gt;OpenAI已获得美国监管部门对 GPT-5.6 推出计划的正式批准。&lt;/strong&gt;这意味着GPT-5.6 将从此前仅限少数合作伙伴使用的受限发布阶段，转向更广泛的商业化部署，成为该系列全面落地的重要里程碑。&lt;/p&gt;
+&lt;p&gt;就在两周前，GPT-5.6系列仍处于严格监管之下。6月27日，OpenAI首次发布 GPT-5.6 Sol、Terra 和 Luna 三款模型时，美国政府要求仅向约 20 家&amp;quot;可信合作伙伴&amp;quot;开放有限预览。&lt;strong&gt;OpenAI 当时罕见在官方公告中公开表达不满，称政府介入访问流程&amp;quot;不应成为长期默认模式&amp;quot;，并指出这一安排限制了开发者、企业以及网络安全机构获取前沿AI能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次监管放行，意味着OpenAI与美国政府围绕GPT-5.6部署范围的博弈取得阶段性突破，也使其成为美国新一轮前沿AI审查框架下首个完成&amp;quot;受限发布—全面放行&amp;quot;全过程的案例。&lt;/p&gt;
+从&amp;quot;受限发布&amp;quot;到全面放行
+&lt;p&gt;本轮监管收紧始于6月中旬。Anthropic发布Mythos级模型Fable 5 后仅72小时，便在国会压力下被要求撤回。原因是其在闭门演示中展示了包括清空银行账户等具有潜在危险性的能力，引发美国政界对前沿AI安全风险的高度关注。随后，美国众议员Andrew Garbarino 呼吁建立针对最先进AI模型的统一监管审查机制。&lt;/p&gt;
+&lt;p&gt;在这一背景下，GPT-5.6 成为该监管框架下的首个实践案例。&lt;strong&gt;与Anthropic被动下架不同，OpenAI采取了更加积极的配合策略，包括提前向监管部门展示模型能力、接受分阶段发布安排，并承诺在受限预览期间持续开展安全测试、与合作伙伴共同完善风险评估。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如今监管批准正式落地，OpenAI 不仅率先完成了从限制发布到全面开放的监管流程，也在商业化节奏上抢占先机。&lt;/p&gt;
+Sol 本周正式登场，价格瞄准Anthropic
+&lt;p&gt;GPT-5.6 系列旗舰模型Sol将于本周四正式上线。&lt;/p&gt;
+&lt;p&gt;OpenAI CEO奥特曼此前透露，Sol将提供全新的Ultra多智能体模式和 Max 推理强度版本，&lt;strong&gt;API定价为输入每百万Token5美元、输出每百万Token 30美元。这一价格约为Anthropic Claude Fable 5 的一半。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;性能方面，在Terminal-Bench 2.1 编码基准测试中，Sol Ultra 得分达到 91.9%，Sol标准版为 88.8%，均高于 Claude Mythos 5 的 88.0%。更低的价格配合接近甚至更优的性能，使Sol有望直接冲击 Anthropic 在企业级API市场的定价体系。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;OpenAI计划于本月将Sol部署至Cerebras硬件平台，推理速度预计可达到每秒750个Token，进一步提升其在高吞吐企业场景下的竞争力。&lt;/strong&gt;&lt;/p&gt;
+美国AI监管进入新阶段
+&lt;p&gt;GPT-5.6 获批并不意味着美国前沿AI监管已经定型，而更像是新监管体系迈出的第一步。&lt;/p&gt;
+&lt;p&gt;OpenAI 在此前公告中曾呼吁，美国政府应建立一套&lt;strong&gt;可重复、可预测、标准化&lt;/strong&gt;的审批机制，而不是针对每款模型逐案审批。此次GPT-5.6顺利获批，是否意味着美国正在形成一套相对固定的前沿AI审查流程，以及未来GPT-6、Anthropic 新模型、Google Gemini 等产品是否将遵循同一机制，仍有待观察。&lt;/p&gt;
+&lt;p&gt;在Anthropic仍为 Fable 5 的重新发布寻求监管批准之际，OpenAI 凭借更积极的监管沟通策略率先完成商业化放行，不仅赢得了产品上市时间窗口，也有望重新塑造市场对两家公司商业化执行能力及监管风险管理能力的估值预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
 &lt;p&gt;智谱迎来上市后首次限售股解禁，市场惯常的&amp;quot;逢解禁必跌&amp;quot;逻辑在此彻底失效——当日股价一度飙涨逾19%，MiniMax同步大涨约17%。分析指出，大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有，华尔街主流资本对中国AI模型公司的系统性认可正在形成。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -214,44 +214,7 @@ AI催化剂密集落地
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;由于三星电子与SK海力士合计占KOSPI市值逾半，杠杆ETF的对冲与每日再平衡交易对正股形成额外抛压，进一步放大了大盘跌幅，并最终触发程序化卖单暂停（sidecar）及熔断机制（circuit breaker）。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;市场动荡迅速引发政界强烈反弹。&lt;/strong&gt;韩国人民力量党议员Ahn Cheol-soo公开抨击这批产品是&amp;quot;彻底的政策失败&amp;quot;，并呼吁包括强制退市在内的大力度监管干预，称&amp;quot;KOSPI已沦为赌场&amp;quot;。韩国副总理兼企划财政部长官Koo Yoon-chul表示，政府充分了解杠杆ETF加剧市场波动的担忧，相关部门正在讨论如何将波动性降至最低。执政党共同民主党政策委员长Rep. Han Jeoung-ae也表示将评估是否需要出台额外监管措施。&lt;/p&gt;
-&lt;p&gt;不过，&lt;strong&gt;市场参与者普遍认为强制退市的可能性极低。&lt;/strong&gt;韩国金融监督院官员表示，监管层正在评估包括收紧产品交易要求在内的替代方案，但尚未得出结论，&amp;quot;任何监管调整都需要综合考量对更广泛市场的影响&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国车企的半年考，没人轻松过关</title><link>https://wallstreetcn.com/articles/3776489</link><guid>e961b7c0d72be3c1eddb94e46f1595ce58a600d424c768d256ebe2f9035b4c49</guid><pubDate>Wed, 08 Jul 2026 13:33:40 GMT</pubDate><description>&lt;p&gt;2026年上半年，中国车企没有人真正“半程过关”。&lt;/p&gt;
-&lt;p&gt;随着主流车企陆续公布年中成绩单，结合年初各家年度销量目标来看，今年上半年的“期中考试”，大面积承压。据华尔街见闻不完全统计，在主流车企中，绝大多数企业的年中目标完成率仅徘徊在30%至40%的区间内，大都没有达到“时间过半、任务过半”及格线。&lt;/p&gt;
-&lt;p&gt;整体市场的体量虽然庞大，但内部的结构性分化正在加速，排位战出现了新的洗牌与重构。&lt;/p&gt;
-&lt;p&gt;同时，半年度交付数据背后，折射出国内车市持续胶着的价格博弈，以及日益明显的消费结构分化。中汽协与乘联会等渠道的数据显示，今年国内汽车产销总量出现微降，但新能源汽车渗透率却在不断冲高，6月份更是达到了惊人的63%。&lt;/p&gt;
-&lt;p&gt;在燃油车基本盘被持续压缩的宏观背景下，传统合资品牌首当其冲，市场份额不断缩水；自主品牌与新势力阵营则在智能化技术迭代和规模化产能释放之间艰难寻找平衡点。&lt;/p&gt;
-&lt;p&gt;与此同时，一个不可忽视的变量是，出海业务已经实质性地成为拉动多家主流车企销量的关键变量。部分企业的海外销量占比大幅跃升，海外业务带来的相对高利润，在财务报表上有效对冲了国内内卷造成的利润流失。&lt;/p&gt;
-出海成了缓冲垫
-&lt;p&gt;基于各车企官方产销数据及年初披露的年度目标，华尔街见闻整理了多家车企的目标完成情况：&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;纵观2026年上半年代表性车企的年中答卷，大面积未达预期是整个行业的基本现状。&lt;/p&gt;
-&lt;p&gt;在统计的头部汽车集团与造车新势力中，绝大多数企业的年度目标完成率都在50%以下。在这场年中测试中，车企抵抗国内存量价格战风险的能力，一定程度上取决于其海外销量的含金量。&lt;/p&gt;
-&lt;p&gt;随着海外放量在很大程度上对冲了国内基本盘的增长乏力，出海规模的大小开始影响车企销量目标的完成进度。与此同时，国内纯电市场红利的阶段性偏移，也倒逼整个新势力阵营在国内内卷与出海战略上迎来残酷的位次重构，原有梯队格局彻底分化。&lt;/p&gt;
-&lt;p&gt;传统自主阵营中，奇瑞和吉利的完成率排在前两位，分别为42.4%和44.5%。奇瑞上半年销售135.75万辆，其中出口94.38万辆，居国内车企首位，占总销量近七成。吉利销售142.3万辆，出口47.42万辆，同比增长158%，新能源车型海外出口增速更是达到了585%。&lt;/p&gt;
-&lt;p&gt;上汽以204.54万辆的绝对体量居中国车企集团销量榜首，但500万辆的年度目标意味着完成率仅40.9%，下半年月均需接近50万辆。其海外销量73.5万辆，同比增长48.7%，MG品牌等自主产品在欧洲市场的走量，是平抑国内合资板块下滑的核心支撑。&lt;/p&gt;
-&lt;p&gt;比亚迪上半年销售180.85万辆，按500万至550万辆的年度目标测算，完成率约32.9%至36.2%。6月单月比亚迪销量突破40万辆，其中海外销售17.53万辆，同比增长95%，四成以上的海外占比有效缓冲了国内价格竞争的压力。&lt;/p&gt;
-&lt;p&gt;长安和长城的完成率分别为36.2%和32.4%。长安上半年销售119.56万辆，其中海外出口40.2万辆，增长了35.1%，但国内燃油车销量的收缩幅度更大。长城上半年销售58.39万辆，出口29.14万辆，增长了44.5%，出口占比接近一半，是稳住完成率的主要因素。两家车企的新能源产品线增量尚不足以完全补齐燃油车下降的缺口。&lt;/p&gt;
-&lt;p&gt;广汽上半年销售77.31万辆，同比增长2.35%，完成率38.6%。广汽丰田与本田仍占55%的销量主体，但自主板块表现出更强的弹性，埃安与传祺合计销售34.60万辆，增长35.69%，自主品牌出口12.15万辆，同比增长132%，已接近去年全年水平。&lt;/p&gt;
-&lt;p&gt;新势力阵营则在国内内卷与出海战略的双重变革之下，销量排名上也在进一步变化。&lt;/p&gt;
-&lt;p&gt;零跑汽车凭借清晰的成本控制，上半年交付35.65万辆，暂居新势力首位，完成率达到35.7%，6月交付9.34万辆中海外占22%，开拓出新出海路径。蔚来汽车交付19.11万辆，按照其最低目标，完成率达到41.9%，这得益于多品牌矩阵发力，不过其当前海外拓展相对缓慢。&lt;/p&gt;
-&lt;p&gt;理想汽车上半年交付19.35万辆，同比下降5.1%，完成率39.7%，是头部中少有的负增长品牌，主要是受纯电车型受阻的影响，不过其销量全部依赖国内增程基本盘。&lt;/p&gt;
-&lt;p&gt;小鹏汽车上半年交付16.60万辆，按照其最低目标销量的完成率为30.2%，但其出海步伐较快，海外销量已占两成且客单价高，这可能是下半年逆袭的核心筹码。小米汽车累计交付超18万辆，目标完成率在30%左右，不过，其目前的瓶颈仍在于产线扩能与国内订单消化。&lt;/p&gt;
-单一路线失效
-&lt;p&gt;将视线从各车企的数据起伏上移，上半年产销结构的变动也展现了一场行业层面的整体换轨。当前中国车市正在由“以价换量”的内卷，过渡到由多动力技术博弈、智驾算法工程化，以及跨国产业布局共同定义的深水区。&lt;/p&gt;
-&lt;p&gt;技术路线的博弈已从理念之争转向生存主义的融合，多动力矩阵成为行业防御性扩张的标配。&lt;/p&gt;
-&lt;p&gt;上半年，新能源乘用车整体零售渗透率连续攻破60%大关，但其内部的动力红利发生了显著的结构性偏移。在向非一线城市及高寒地域下沉的过程中，纯电动车受制于补能网络建设的滞后和物理特性的限制，整体增速放缓。&lt;/p&gt;
-&lt;p&gt;相反，插电式混动与增程车型凭借兼顾低成本通勤与长途无忧的实用属性，成为拉动行业增长的核心动力。&lt;/p&gt;
-&lt;p&gt;这种全行业的需求变奏，迫使原本固守单一路线的车企集体换轨。传统大厂正通过将燃油技术资产盘活为新型插混平台来巩固基盘，而原本主攻纯电的新势力也相继开启增程产品线开发。&lt;/p&gt;
-&lt;p&gt;一位汽车行业资深分析人士表示，多动力并行的实质并不是技术倒退，而是车企在微利时代为了分摊研发开支、扩大销量边界、适应更多市场的必然手段。&lt;/p&gt;
-&lt;p&gt;同时，中国汽车工业的全球化拓展正在经历从“贸易输出”向“属地化资本输出”的质变。&lt;/p&gt;
-&lt;p&gt;上半年的产销数据清晰表明，海外市场的高毛利和稳健增长，已经成为多家上市车企维持健康现金流、反哺国内研发流失的绝对财务屏障。一位资深汽车经销商人士对华尔街见闻表示，也因为出海当前是机会窗口，相对利润丰厚，出口也成了不少经销商转型的方向。&lt;/p&gt;
-&lt;p&gt;兴业证券的分析师董晓彬在研报中认为，国内整车历经过去几年技术快速迭代积淀以及产业链降本增效，当前国内整车海外竞争优势突出，出口国际化成为整车确定性主线。&lt;/p&gt;
-&lt;p&gt;不过，依赖整车海运出口的路径正面临外部贸易政策变化等挑战。&lt;/p&gt;
-&lt;p&gt;随着主要经济体针对电动汽车保护性关税政策的实质性落地，此前国内供应链积累的制造成本红利在部分海外终端被直接抹平。&lt;/p&gt;
-&lt;p&gt;为了保住全球市场准入资格与海外利润池，头部企业在海外的战略重点已全面转向在当地建设CKD工厂、全产业链独立产线以及属地化供应链重组。&lt;/p&gt;
-&lt;p&gt;这种向跨国制造业的重资产转型，意味着企业将面临巨额的前期资本开支。在未来的竞争周期中，海外业务的贡献率将不再单纯取决于销量数字，而是取决于企业在复杂的属地化劳工合规管理、长周期产线调试以及全球资本调度水平上的综合治理能力。&lt;/p&gt;
-&lt;p&gt;综合来看，2026年上半年的车市半年考是汽车工业深度盘整期的真实截面。大面积不及预期的目标完成率客观上向全行业发出了警报。价格上的竞争不再奏效，它也很难继续成为一家车企的核心竞争力。&lt;/p&gt;
-&lt;p&gt;下半年的胜负不会只写在交付榜上。能从海外带回利润的，才有余力继续在国内竞争；而只能靠降价换量的，年底销量再高，也很难把这张半年考卷补回来。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热潮抵消战争冲击，IMF：今年全球经济增长3.0%，上调中国经济增长预期</title><link>https://wallstreetcn.com/articles/3776491</link><guid>f3ca2bff79d9d6d75ca1192f5f62f241c9ec82357d1bfb2b76c6a693c1403c10</guid><pubDate>Wed, 08 Jul 2026 14:53:33 GMT</pubDate><description>&lt;p&gt;国际货币基金组织（IMF）维持对今年全球经济增长的基本判断，认为人工智能热潮在一定程度上对冲了中东战争带来的负面冲击，但同时警告风险仍偏向下行。&lt;/p&gt;
+&lt;p&gt;不过，&lt;strong&gt;市场参与者普遍认为强制退市的可能性极低。&lt;/strong&gt;韩国金融监督院官员表示，监管层正在评估包括收紧产品交易要求在内的替代方案，但尚未得出结论，&amp;quot;任何监管调整都需要综合考量对更广泛市场的影响&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热潮抵消战争冲击，IMF：今年全球经济增长3.0%，上调中国经济增长预期</title><link>https://wallstreetcn.com/articles/3776491</link><guid>f3ca2bff79d9d6d75ca1192f5f62f241c9ec82357d1bfb2b76c6a693c1403c10</guid><pubDate>Wed, 08 Jul 2026 14:53:33 GMT</pubDate><description>&lt;p&gt;国际货币基金组织（IMF）维持对今年全球经济增长的基本判断，认为人工智能热潮在一定程度上对冲了中东战争带来的负面冲击，但同时警告风险仍偏向下行。&lt;/p&gt;
 &lt;p&gt;IMF周三发布《世界经济展望》更新报告，预计2026年全球经济增长率为3.0%，较4月预测微降0.1个百分点，低于过去两年3.5%的平均增速；同时将2027年增速预期上调至3.4%。在通胀方面，IMF将今年全球消费者价格涨幅预测从4.4%上调至4.7%，并指出通胀降温进程已出现停滞。&lt;/p&gt;
 &lt;p&gt;同时，IMF将中国2026年增速预期上调0.2个百分点至4.6%，将2027年上调0.1个百分点至4.1%，理由是今年一季度中国经济表现快于预期，前置的基础设施投资、高技术制造业增长及出口增加均提供了支撑。&lt;/p&gt;
 &lt;p&gt;IMF将当前全球经济形势的核心逻辑概括为两股方向相反、影响不对称的力量的角力：中东战争带来的能源和供应链冲击，与以AI为代表的技术周期上行相互交织，然而IMF同时强调，AI驱动预期可能落空，同样构成不可忽视的下行风险。IMF在报告中表示：&lt;/p&gt;
@@ -294,4 +257,25 @@ Gemini 3.5 Pro：重构底座，押注质量优先
 DeepSeek V4：峰谷定价落地，推理提速并行
 &lt;p&gt;&lt;strong&gt;国内方面，DeepSeek团队于6月29日宣布，V4正式版计划于7月中旬上线，并同步引入峰谷定价策略。&lt;/strong&gt;根据公布的价格表，高峰时段API价格为平时价格的两倍，平时价格与现行V4 API定价持平。高峰时段界定为每日上午9时至12时及下午2时至6时，官方表示此举旨在更合理地配置资源、提升服务稳定性。&lt;/p&gt;
 &lt;p&gt;技术层面，DeepSeek于6月27日联合北京大学发布推理加速框架DSpark，并同步开源全栈推测性解码工具链DeepSpec，论文由公司创始人梁文锋本人署名。实测显示，DSpark部署后V4-Flash单用户生成速度提升60%至85%，V4-Pro提升57%至78%，效果已在线上服务全量验证。这也是DeepSeek完成500亿元融资后首次对外发布的开源技术成果。&lt;/p&gt;
-&lt;p&gt;对API用户而言，峰谷定价将直接推高工作时段使用成本；对开发者而言，推理速度的显著提升或可在高并发场景下部分抵消成本压力，并进一步降低推理优化的落地门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对API用户而言，峰谷定价将直接推高工作时段使用成本；对开发者而言，推理速度的显著提升或可在高并发场景下部分抵消成本压力，并进一步降低推理优化的落地门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万亿境外人民币告别“无锚时代”，首套离岸人民币债券估值与指数发布</title><link>https://wallstreetcn.com/articles/3776478</link><guid>b120bbb0cfde0cbd7a91d7e056c736474e7578e9356c968a38bb56d1f569172a</guid><pubDate>Wed, 08 Jul 2026 12:05:01 GMT</pubDate><description>&lt;p&gt;全球超过一万亿境外人民币，或许迎来了更贴心的“度量衡”。&lt;/p&gt;
+&lt;p&gt;7月上旬，&lt;a&gt;&lt;/a&gt;&lt;a href="https://stockpage.10jqka.com.cn/601658"&gt;邮储银行&lt;/a&gt;、&lt;a href="https://stockpage.10jqka.com.cn/601998"&gt;中信银行&lt;/a&gt;、中诚信指数联合发布离岸人民币债券估值与指数产品。这是境内机构首次推出的境外人民币债券基准产品，为离岸人民币债券市场提供了更加透明、量化的定价参考。&lt;/p&gt;
+&lt;p&gt;这是首次由商业银行联合第三方评级机构共同推出离岸人民币债券估值产品，覆盖了超 90%的存量债券。同时，相关机构也推出了按信用维度分层的离岸人民币债券指数。&lt;/p&gt;
+&lt;strong&gt;度量衡&lt;/strong&gt;&lt;strong&gt;长什么样&lt;/strong&gt;&lt;strong&gt;？&lt;/strong&gt;
+&lt;p&gt;所谓“离岸人民币债券”，指的是中国大陆以外发行的、以人民币计价的债券。其中，最常见的是在香港发行的“点心债”。&lt;/p&gt;
+&lt;p&gt;在此之前，离岸人民币债券并没有一个官方定价，不同中介的报价结果可能相差不少。&lt;/p&gt;
+&lt;p&gt;此次邮储银行、中信银行、中诚信指数携手发布的离岸人民币债券估值，是融合市场成交价、实时报价等多源数据计算得出，一定程度上可为市场提供公允的定价依据，完善离岸人民币债券市场。&lt;/p&gt;
+&lt;p&gt;相关机构还同步推出离岸人民币债券指数产品，既方便投资者有了了解市场盈亏水平的尺度；也便利投资者对照其细分指数比如政府债、金融债、公司债等板块，并创新推出投资级债券、投资级优选债券等领域，投资者可以根据自己的风险偏好，各取所需。&lt;/p&gt;
+&lt;strong&gt;“&lt;/strong&gt;&lt;strong&gt;跑太快&lt;/strong&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;strong&gt;的&lt;/strong&gt;&lt;strong&gt;境外&lt;/strong&gt;&lt;strong&gt;市场&lt;/strong&gt;
+&lt;p&gt;近两年，随着人民币资产吸引力增强、离岸人民币流动性改善，叠加中美利率分化带来的融资成本优势，离岸人民币市场几乎是爆发式增长。&lt;/p&gt;
+&lt;p&gt;一项截至2026年4月底的统计，仅香港地区流通的离岸人民币债券存量就突破了2万亿元；2026年以来，离岸人民币债的发行规模已经超过8000亿元，同比增长超50%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关市场上，对债券和债券指数的需求较为迫切。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;配合“南向通”扩容&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;此外，“南向通”扩容亦是此次创新的背后图景。&lt;/p&gt;
+&lt;p&gt;“南向通”，即中国&lt;a href="https://baike.baidu.com/item/%E9%A6%99%E6%B8%AF/128775?fromModule=lemma_inlink"&gt;香港&lt;/a&gt;与内地债券市场互联互通南向合作，是内地机构经由内地与香港基础设施连接、投资香港债券市场的机制。简单来说就是境内机构投资香港债市的一条通道。&lt;/p&gt;
+&lt;p&gt;自2025年7月，中国人民银行宣布扩大“南向通”投资者范围，2026年6月，中国人寿、平安人寿、太保寿险等六家头部保险公司正式获准通过南向通投资点心债，并完成首笔交易后。“南向通”的活跃程度令外界艳羡。&lt;/p&gt;
+&lt;p&gt;中诚信国际信用评级董事长闫衍，在离岸人民币债券估值与指数产品发布会上表示：“&lt;strong&gt;伴随离岸人民币债券市场快速扩容，市场对多层次、精细化的价格发现、风险管理和资产配置工具提出了更高、更迫切的要求&lt;/strong&gt;。”&lt;/p&gt;
+&lt;strong&gt;不断完善、规范发展&lt;/strong&gt;
+&lt;p&gt;一个金融市场的成熟度，很大程度上取决于定价基础设施的完善程度。&lt;/p&gt;
+&lt;p&gt;随着更多机构投资者入场、人民币汇率走向双向波动，投资者开始把美元债的标准条款摆上谈判桌。此次对离岸人民币债券的行业规范，更为人民币国际化助了一臂之力。&lt;/p&gt;
+&lt;p&gt;而这显然也有助目前的点心债市场的成熟。&lt;/p&gt;
+&lt;p&gt;类似的进步还有很多，比如早年点心债市场在发行文件中往往会强调：“适用于债券的违约事件仅限于不支付本金或利息（在宽限期内）以及发行人清算。债券将不享有消极质押或交叉违约条款的利益。”而现在这个情况正在完善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI赛道年中总结，下半年展望</title><link>http://xueqiu.com/5672579962/398872262</link><guid>c71b255388f26cad9414006e5470e150aa02eb57e8bcc4882fba05b030205459</guid><pubDate>Wed, 08 Jul 2026 10:21:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;闷得而蜜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;行情轮动顺序从存储率先启动，随后传导至光纤，再到光通信磷化铟激光器；MLCC 电容、铜箔、电子布等与 AI 硬件配套的上游原材料、零部件，轮番迎来一轮乃至多轮涨价行情。&lt;/p&gt;</description></item><item><title>[今日雪球] 【干货】为什么坚定看好AI，大白话分析</title><link>http://xueqiu.com/4184484807/398933386</link><guid>38e654e74a32226c0a47bf90b2f5f70bb9dfc2f1dc7ea85edf786f5701878b3b</guid><pubDate>Wed, 08 Jul 2026 10:22:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;专注做AI华仔&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI是第四次工业革命，行情远远没有结束，这是基本常识，如果你的认知里，AI行情已经结束，那本帖不用看了，对牛弹琴没有意义。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利与现金流大跌：别只怪科技 “吸血”，数据背后藏着更本质的真相</title><link>http://xueqiu.com/2356382715/398994584</link><guid>88369e8949eeaeab09d61c1080384302aa168d6644fcaad4156c5c09a6af08b7</guid><pubDate>Wed, 08 Jul 2026 10:21:28 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近和一些基民聊天，大家都在吐槽手里的“老登资产”。&lt;/p&gt;</description></item></channel></rss>
