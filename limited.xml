@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 18:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 08 Jul 2026 19:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：开源潮下中国AI进入“赢家多吃”时代，上调智谱目标价至2000港元</title><link>https://wallstreetcn.com/articles/3776443</link><guid>ef31bc00c0787b13581fdc7c7f57ebf93b73631b43b30b7f8d1feb331a55d856</guid><pubDate>Wed, 08 Jul 2026 08:09:49 GMT</pubDate><description>&lt;p&gt;开放权重浪潮正在重塑中国大语言模型（LLM）市场的竞争格局。摩根大通最新研究报告指出，开源策略正演变为一种&amp;quot;赢家多吃&amp;quot;的商业模式——模型能力越强，越能将开放分发转化为付费变现；模型差异化不足者，则面临更快的比价竞争与流量改道风险。&lt;/p&gt;
 &lt;p&gt;摩根大通据此对两家中国AI公司作出分化评级。报告将智谱截至2026年12月的目标价从1800港元上调至2000港元，维持&amp;quot;增持&amp;quot;评级，理由是GLM-5.2强化了&amp;quot;开放权重商业化可为领先模型提供商创造可观选择权价值&amp;quot;的论断；同时将MiniMax目标价从400港元下调至300港元，维持&amp;quot;中性&amp;quot;评级，因M3尚未展示出足够的模型驱动定价权。&lt;/p&gt;
 &lt;p&gt;摩根大通指出，&lt;strong&gt;开放权重扩大了模型分发范围，但变现能力仍高度依赖模型质量、迭代速度与端点可靠性。对于能力领先的模型，开放权重可借助云服务商（CSP）、推理平台与私有化部署等外部GPU算力扩大使用规模，同时通过官方API、授权许可、平台SaaS及收入分成等多路径实现商业变现；对于差异化不足的模型，更广泛的访问权限反而加速了比价与流量替换。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -24,7 +24,23 @@ MiniMax：定价权缺失，开放权重压力放大下行风险
 &lt;p&gt;报告认为，M3永久性的50%折扣是一个重要信号，表明该模型尚未在面对国内领先模型时获得能力溢价。折扣可能支撑短期使用量，但降低了市场对模型驱动型变现的信心。在开放权重扩大访问的背景下，差异化不足的模型面临更快的比价与更容易的流量改道——更广泛的分发在此情境下反而放大了风险而非创造上行空间。&lt;/p&gt;
 &lt;p&gt;摩根大通同时指出MiniMax的相对优势：&lt;strong&gt;公司在多模态AI、海外使用与智能体工作流方面仍具相关性，M3通过100万token上下文、原生多模态与MiniMax Code改善了产品叙事，OpenRouter平台的调用量也表明开发者对其模型的采用已达相当规模。然而，工作流变现需要更强的模型拉力——编码或智能体产品需对任务完成产生足够大的改善才能改变用户习惯，而非仅提供另一条访问广泛可得模型的路径。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根大通同时提示，两家公司均处于资本密集型阶段，融资需求构成潜在风险。&lt;/p&gt;
-&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 押注语音即AI入口！OpenAI发布新模型GPT-Live，ChatGPT迈入实时对话时代</title><link>https://wallstreetcn.com/articles/3776498</link><guid>6b5c201c2da489714ecb238a2c0452746fd43c32409317056e970890ce73c5ef</guid><pubDate>Wed, 08 Jul 2026 18:14:54 GMT</pubDate><description>&lt;p&gt;OpenAI正进一步押注语音交互。&lt;/p&gt;
+&lt;p&gt;分析师预计两家公司在2026年和2027年将分别再进行两轮融资。虽然当前现金余额在基本情景下足以支持运营，但加速模型迭代、更大规模的海外部署或高于预期的推理成本，可能促使两家公司从外部获取更多资金。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 监管松绑GPT-5.6：OpenAI获准全面部署，前沿AI审批制暂告段落</title><link>https://wallstreetcn.com/articles/3776496</link><guid>5de6ab77a57e24e3d416424eead4a6777b171074d2c546352a26ff07ee194806</guid><pubDate>Wed, 08 Jul 2026 15:40:36 GMT</pubDate><description>&lt;p&gt;OpenAI 为旗舰模型GPT-5.6 拿下关键监管通行证。这不仅意味着公司距离全面商业化再进一步，也标志着美国政府针对前沿AI模型实施的&amp;quot;逐案审批&amp;quot;机制首次出现实质性松动。&lt;/p&gt;
+&lt;p&gt;7月8日，据Axios、CNBC报道，&lt;strong&gt;OpenAI已获得美国监管部门对 GPT-5.6 推出计划的正式批准。&lt;/strong&gt;这意味着GPT-5.6 将从此前仅限少数合作伙伴使用的受限发布阶段，转向更广泛的商业化部署，成为该系列全面落地的重要里程碑。&lt;/p&gt;
+&lt;p&gt;就在两周前，GPT-5.6系列仍处于严格监管之下。6月27日，OpenAI首次发布 GPT-5.6 Sol、Terra 和 Luna 三款模型时，美国政府要求仅向约 20 家&amp;quot;可信合作伙伴&amp;quot;开放有限预览。&lt;strong&gt;OpenAI 当时罕见在官方公告中公开表达不满，称政府介入访问流程&amp;quot;不应成为长期默认模式&amp;quot;，并指出这一安排限制了开发者、企业以及网络安全机构获取前沿AI能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次监管放行，意味着OpenAI与美国政府围绕GPT-5.6部署范围的博弈取得阶段性突破，也使其成为美国新一轮前沿AI审查框架下首个完成&amp;quot;受限发布—全面放行&amp;quot;全过程的案例。&lt;/p&gt;
+从&amp;quot;受限发布&amp;quot;到全面放行
+&lt;p&gt;本轮监管收紧始于6月中旬。Anthropic发布Mythos级模型Fable 5 后仅72小时，便在国会压力下被要求撤回。原因是其在闭门演示中展示了包括清空银行账户等具有潜在危险性的能力，引发美国政界对前沿AI安全风险的高度关注。随后，美国众议员Andrew Garbarino 呼吁建立针对最先进AI模型的统一监管审查机制。&lt;/p&gt;
+&lt;p&gt;在这一背景下，GPT-5.6 成为该监管框架下的首个实践案例。&lt;strong&gt;与Anthropic被动下架不同，OpenAI采取了更加积极的配合策略，包括提前向监管部门展示模型能力、接受分阶段发布安排，并承诺在受限预览期间持续开展安全测试、与合作伙伴共同完善风险评估。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如今监管批准正式落地，OpenAI 不仅率先完成了从限制发布到全面开放的监管流程，也在商业化节奏上抢占先机。&lt;/p&gt;
+Sol 本周正式登场，价格瞄准Anthropic
+&lt;p&gt;GPT-5.6 系列旗舰模型Sol将于本周四正式上线。&lt;/p&gt;
+&lt;p&gt;OpenAI CEO奥特曼此前透露，Sol将提供全新的Ultra多智能体模式和 Max 推理强度版本，&lt;strong&gt;API定价为输入每百万Token5美元、输出每百万Token 30美元。这一价格约为Anthropic Claude Fable 5 的一半。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;性能方面，在Terminal-Bench 2.1 编码基准测试中，Sol Ultra 得分达到 91.9%，Sol标准版为 88.8%，均高于 Claude Mythos 5 的 88.0%。更低的价格配合接近甚至更优的性能，使Sol有望直接冲击 Anthropic 在企业级API市场的定价体系。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;OpenAI计划于本月将Sol部署至Cerebras硬件平台，推理速度预计可达到每秒750个Token，进一步提升其在高吞吐企业场景下的竞争力。&lt;/strong&gt;&lt;/p&gt;
+美国AI监管进入新阶段
+&lt;p&gt;GPT-5.6 获批并不意味着美国前沿AI监管已经定型，而更像是新监管体系迈出的第一步。&lt;/p&gt;
+&lt;p&gt;OpenAI 在此前公告中曾呼吁，美国政府应建立一套&lt;strong&gt;可重复、可预测、标准化&lt;/strong&gt;的审批机制，而不是针对每款模型逐案审批。此次GPT-5.6顺利获批，是否意味着美国正在形成一套相对固定的前沿AI审查流程，以及未来GPT-6、Anthropic 新模型、Google Gemini 等产品是否将遵循同一机制，仍有待观察。&lt;/p&gt;
+&lt;p&gt;在Anthropic仍为 Fable 5 的重新发布寻求监管批准之际，OpenAI 凭借更积极的监管沟通策略率先完成商业化放行，不仅赢得了产品上市时间窗口，也有望重新塑造市场对两家公司商业化执行能力及监管风险管理能力的估值预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 押注语音即AI入口！OpenAI发布新模型GPT-Live，ChatGPT迈入实时对话时代</title><link>https://wallstreetcn.com/articles/3776498</link><guid>6b5c201c2da489714ecb238a2c0452746fd43c32409317056e970890ce73c5ef</guid><pubDate>Wed, 08 Jul 2026 18:14:54 GMT</pubDate><description>&lt;p&gt;OpenAI正进一步押注语音交互。&lt;/p&gt;
 &lt;p&gt;美东时间8日周三，OpenAI发布全新的语音模型&lt;strong&gt;GPT-Live&lt;/strong&gt;，同步升级ChatGPT语音模式（ChatGPT Voice）。新模型采用原生实时架构，可实现人类与AI之间更加自然的双向语音交流，不仅支持打断、停顿理解、实时翻译、听写等能力，还能够在后台无缝调用GPT-5.5等模型完成复杂推理和联网搜索，将语音打造为ChatGPT新的统一交互入口。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI公告称，GPT-Live包括&lt;strong&gt;GPT-Live-1&lt;/strong&gt;和&lt;strong&gt;GPT-Live-1 mini&lt;/strong&gt;两个版本，目前已开始向全球ChatGPT用户陆续开放，覆盖网页、iOS和安卓平台，并计划未来数周向API开放，开发者和企业用户可提前登记获取通知。&lt;/p&gt;
@@ -94,23 +110,7 @@ GPT-Live-1两版本测评性能明显优于Advanced Voice Mode
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 监管松绑GPT-5.6：OpenAI获准全面部署，前沿AI审批制暂告段落</title><link>https://wallstreetcn.com/articles/3776496</link><guid>5de6ab77a57e24e3d416424eead4a6777b171074d2c546352a26ff07ee194806</guid><pubDate>Wed, 08 Jul 2026 15:40:36 GMT</pubDate><description>&lt;p&gt;OpenAI 为旗舰模型GPT-5.6 拿下关键监管通行证。这不仅意味着公司距离全面商业化再进一步，也标志着美国政府针对前沿AI模型实施的&amp;quot;逐案审批&amp;quot;机制首次出现实质性松动。&lt;/p&gt;
-&lt;p&gt;7月8日，据Axios、CNBC报道，&lt;strong&gt;OpenAI已获得美国监管部门对 GPT-5.6 推出计划的正式批准。&lt;/strong&gt;这意味着GPT-5.6 将从此前仅限少数合作伙伴使用的受限发布阶段，转向更广泛的商业化部署，成为该系列全面落地的重要里程碑。&lt;/p&gt;
-&lt;p&gt;就在两周前，GPT-5.6系列仍处于严格监管之下。6月27日，OpenAI首次发布 GPT-5.6 Sol、Terra 和 Luna 三款模型时，美国政府要求仅向约 20 家&amp;quot;可信合作伙伴&amp;quot;开放有限预览。&lt;strong&gt;OpenAI 当时罕见在官方公告中公开表达不满，称政府介入访问流程&amp;quot;不应成为长期默认模式&amp;quot;，并指出这一安排限制了开发者、企业以及网络安全机构获取前沿AI能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次监管放行，意味着OpenAI与美国政府围绕GPT-5.6部署范围的博弈取得阶段性突破，也使其成为美国新一轮前沿AI审查框架下首个完成&amp;quot;受限发布—全面放行&amp;quot;全过程的案例。&lt;/p&gt;
-从&amp;quot;受限发布&amp;quot;到全面放行
-&lt;p&gt;本轮监管收紧始于6月中旬。Anthropic发布Mythos级模型Fable 5 后仅72小时，便在国会压力下被要求撤回。原因是其在闭门演示中展示了包括清空银行账户等具有潜在危险性的能力，引发美国政界对前沿AI安全风险的高度关注。随后，美国众议员Andrew Garbarino 呼吁建立针对最先进AI模型的统一监管审查机制。&lt;/p&gt;
-&lt;p&gt;在这一背景下，GPT-5.6 成为该监管框架下的首个实践案例。&lt;strong&gt;与Anthropic被动下架不同，OpenAI采取了更加积极的配合策略，包括提前向监管部门展示模型能力、接受分阶段发布安排，并承诺在受限预览期间持续开展安全测试、与合作伙伴共同完善风险评估。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如今监管批准正式落地，OpenAI 不仅率先完成了从限制发布到全面开放的监管流程，也在商业化节奏上抢占先机。&lt;/p&gt;
-Sol 本周正式登场，价格瞄准Anthropic
-&lt;p&gt;GPT-5.6 系列旗舰模型Sol将于本周四正式上线。&lt;/p&gt;
-&lt;p&gt;OpenAI CEO奥特曼此前透露，Sol将提供全新的Ultra多智能体模式和 Max 推理强度版本，&lt;strong&gt;API定价为输入每百万Token5美元、输出每百万Token 30美元。这一价格约为Anthropic Claude Fable 5 的一半。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;性能方面，在Terminal-Bench 2.1 编码基准测试中，Sol Ultra 得分达到 91.9%，Sol标准版为 88.8%，均高于 Claude Mythos 5 的 88.0%。更低的价格配合接近甚至更优的性能，使Sol有望直接冲击 Anthropic 在企业级API市场的定价体系。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;OpenAI计划于本月将Sol部署至Cerebras硬件平台，推理速度预计可达到每秒750个Token，进一步提升其在高吞吐企业场景下的竞争力。&lt;/strong&gt;&lt;/p&gt;
-美国AI监管进入新阶段
-&lt;p&gt;GPT-5.6 获批并不意味着美国前沿AI监管已经定型，而更像是新监管体系迈出的第一步。&lt;/p&gt;
-&lt;p&gt;OpenAI 在此前公告中曾呼吁，美国政府应建立一套&lt;strong&gt;可重复、可预测、标准化&lt;/strong&gt;的审批机制，而不是针对每款模型逐案审批。此次GPT-5.6顺利获批，是否意味着美国正在形成一套相对固定的前沿AI审查流程，以及未来GPT-6、Anthropic 新模型、Google Gemini 等产品是否将遵循同一机制，仍有待观察。&lt;/p&gt;
-&lt;p&gt;在Anthropic仍为 Fable 5 的重新发布寻求监管批准之际，OpenAI 凭借更积极的监管沟通策略率先完成商业化放行，不仅赢得了产品上市时间窗口，也有望重新塑造市场对两家公司商业化执行能力及监管风险管理能力的估值预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “解禁必跌魔咒”失效？大模型双雄狂飙、智谱涨19%，华尔街投行继续看好</title><link>https://wallstreetcn.com/articles/3776458</link><guid>05638d5f012f6d8bc7216649612b4259dc1266c86a8f58cb9bd1d859d699911f</guid><pubDate>Wed, 08 Jul 2026 08:21:41 GMT</pubDate><description>&lt;p&gt;中国AI大模型板块在港股市场上演了一场逆势爆发行情。&lt;/p&gt;
 &lt;p&gt;智谱迎来上市后首次限售股解禁，市场惯常的&amp;quot;逢解禁必跌&amp;quot;逻辑在此彻底失效——当日股价一度飙涨逾19%，MiniMax同步大涨约17%。分析指出，大额解禁未见流动性踩踏，核心机构投资者集体表态长期持有，华尔街主流资本对中国AI模型公司的系统性认可正在形成。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -208,29 +208,18 @@ AI催化剂密集落地
 &lt;p&gt;AI逻辑在于将刷题、诊断、讲解等环节标准化规模化，以降低对名师的依赖和边际成本。&lt;/p&gt;
 &lt;p&gt;但目前AI课程定价显著低于传统大班课，虽拉动销售单量，却拉低了平均售价，抵消部分收入增长。&lt;/p&gt;
 &lt;p&gt;短期看，它更像是拉新和稳规模的工具，还需证明能向可持续复购、高利润率产品矩阵升级。&lt;/p&gt;
-&lt;p&gt;张小龙退场后，粉笔亟需回答：战略能否持续，能否在低价竞争中守住品牌溢价，AI能否真正成为新增长引擎。盛海燕接手的，是一家必须重新证明增长能力的粉笔。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7月AI大乱斗：国外GPT-5.6、Grok4.5、Gemini 3 Pro轮流登场，国内DeepSeek V4正式版也来了！</title><link>https://wallstreetcn.com/articles/3776450</link><guid>da7afc859f4eb4ab092cbeed5b80448e3e9ea6203ca9e76ab4bfd819ac4c1c9f</guid><pubDate>Wed, 08 Jul 2026 07:29:34 GMT</pubDate><description>&lt;p&gt;7月全球AI大模型竞赛进入密集发布窗口期，国内外头部玩家几乎同步亮出新牌。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI旗舰模型GPT-5.6 Sol定于本周四正式发布，马斯克旗下SpaceX AI宣布Grok 4.5也将于明日向公众开放，谷歌Gemini 3.5 Pro据悉将于7月17日上线，国内DeepSeek V4正式版同样锁定7月中旬。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;短短数周内，多款顶级大模型密集落地，直接加剧了AI行业的竞争烈度，并对相关企业的商业化路径与定价策略产生深远影响。&lt;/p&gt;
-&lt;p&gt;对市场而言，此轮集中发布不仅是技术能力的比拼，更是各方在API定价、推理效率与生态整合上的全面角力。投资者需关注的核心问题在于：谁能在性能与成本之间找到最优解，并率先将技术优势转化为商业壁垒。&lt;/p&gt;
-GPT-5.6 Sol：旗舰定位，分阶段开放
-&lt;p&gt;OpenAI首席执行官Sam Altman周三在社交媒体宣布，GPT-5.6 Sol将于本周四正式发布。&lt;strong&gt;这是GPT-5.6系列中的旗舰产品，搭载全新ultra多智能体模式与max推理强度，在编码、生物学和网络安全等核心基准测试中均刷新最佳纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;定价方面，Sol采用每百万Token输入5美元、输出30美元的收费标准，位居GPT-5.6系列三款产品的最高端。OpenAI同时宣布，将于7月在Cerebras硬件上推出Sol，推理速度最高可达每秒750个Token。&lt;/p&gt;
-&lt;p&gt;发布策略上，OpenAI采取分阶段推进路线，初期仅向部分可信合作伙伴开放API和Codex访问权限，计划在未来数周内向更广泛用户普及GPT-5.6全系列。这一策略在控制服务压力的同时，也为竞争对手留出了一定的响应窗口。&lt;/p&gt;
-Grok 4.5：马斯克加速整合AI版图
-&lt;p&gt;马斯克在社交媒体上宣布，基于beta测试阶段客户的强烈正面反馈，SpaceX AI将于明日向公众开放Grok 4.5。马斯克称，该模型属于Opus级别，但速度更快、Token效率更高、成本更低。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据此前披露的信息，Grok 4.5基于1.5万亿参数的V9基础模型打造，并在补充训练中特别加入了AI编程工具Cursor的数据。早期评测结果显示，该模型性能已接近甚至可能超越Anthropic旗舰模型Claude Opus，强化学习仍在持续优化该模型。&lt;/p&gt;
-&lt;p&gt;值得关注的是，SpaceX AI还与编程工具公司Cursor计划联合发布首款共同研发的AI模型，直接向Anthropic和OpenAI发起挑战。据The Information获得的一份内部备忘录，该模型此前曾因两家公司希望进一步提升运行效率而推迟发布，预计在某些指标上可与Anthropic的Opus 4.8及OpenAI的GPT-5.5相抗衡。&lt;/p&gt;
-&lt;p&gt;上述进展发生在SpaceX以600亿美元全股票收购Cursor的交易推进之际，标志着马斯克旗下AI版图的加速整合。&lt;strong&gt;马斯克还表示，SpaceX在今年接下来的时间里，每月都将发布完全从头开始训练的新模型。&lt;/strong&gt;&lt;/p&gt;
-Gemini 3.5 Pro：重构底座，押注质量优先
-&lt;p&gt;谷歌方面，据泄露信息，Gemini 3.5 Pro将于7月17日正式发布。据科技媒体Geeky Gadgets报道，谷歌DeepMind放弃了原有的2.5 Pro基座，转而对Gemini 3.5 Pro进行全新预训练，发布时间也因此从原定的2026年6月推迟至7月17日。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从能力表现来看，Gemini 3.5 Pro的前端与视觉代码生成能力据称出现跨越式跃升，在多项测试中压制Anthropic的Fable 5，但在硬核推理与复杂工程任务上仍落后于对手。&lt;/strong&gt;这一决策被外界解读为谷歌在质量与速度之间主动选择前者，以应对OpenAI GPT-5.6和Anthropic Fable 5的双重压力。&lt;/p&gt;
-&lt;p&gt;此外，谷歌同时被曝正基于这套新底座开发图像模型Nano Banana Pro，剑指OpenAI的GPT-Image 2，意味着谷歌试图在文本代码与图像生成两条战线同步发力。&lt;/p&gt;
-DeepSeek V4：峰谷定价落地，推理提速并行
-&lt;p&gt;&lt;strong&gt;国内方面，DeepSeek团队于6月29日宣布，V4正式版计划于7月中旬上线，并同步引入峰谷定价策略。&lt;/strong&gt;根据公布的价格表，高峰时段API价格为平时价格的两倍，平时价格与现行V4 API定价持平。高峰时段界定为每日上午9时至12时及下午2时至6时，官方表示此举旨在更合理地配置资源、提升服务稳定性。&lt;/p&gt;
-&lt;p&gt;技术层面，DeepSeek于6月27日联合北京大学发布推理加速框架DSpark，并同步开源全栈推测性解码工具链DeepSpec，论文由公司创始人梁文锋本人署名。实测显示，DSpark部署后V4-Flash单用户生成速度提升60%至85%，V4-Pro提升57%至78%，效果已在线上服务全量验证。这也是DeepSeek完成500亿元融资后首次对外发布的开源技术成果。&lt;/p&gt;
-&lt;p&gt;对API用户而言，峰谷定价将直接推高工作时段使用成本；对开发者而言，推理速度的显著提升或可在高并发场景下部分抵消成本压力，并进一步降低推理优化的落地门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万亿境外人民币告别“无锚时代”，首套离岸人民币债券估值与指数发布</title><link>https://wallstreetcn.com/articles/3776478</link><guid>b120bbb0cfde0cbd7a91d7e056c736474e7578e9356c968a38bb56d1f569172a</guid><pubDate>Wed, 08 Jul 2026 12:05:01 GMT</pubDate><description>&lt;p&gt;全球超过一万亿境外人民币，或许迎来了更贴心的“度量衡”。&lt;/p&gt;
+&lt;p&gt;张小龙退场后，粉笔亟需回答：战略能否持续，能否在低价竞争中守住品牌溢价，AI能否真正成为新增长引擎。盛海燕接手的，是一家必须重新证明增长能力的粉笔。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX发力大模型竞争！联手Cursor发布Grok 4.5，进军金融、法律等企业级AI市场</title><link>https://wallstreetcn.com/articles/3776499</link><guid>f991dce94f60c25f766d864a6129fea7b0e240d0073b57dd389602447078a206</guid><pubDate>Wed, 08 Jul 2026 19:14:47 GMT</pubDate><description>&lt;p&gt;SpaceXAI发布了一款与AI编程初创公司Cursor联合开发的新型人工智能模型Grok 4.5，旨在提升其在金融、法律及编程等任务上的能力。这是马斯克旗下公司追赶Anthropic和OpenAI等竞争对手的最新举措。&lt;/p&gt;
+&lt;p&gt;Grok 4.5于周三正式亮相，距SpaceX宣布以600亿美元估值收购Cursor仅数周。这款模型针对软件工程、法律服务及金融服务等场景设计，可处理&amp;quot;复杂的、长周期任务&amp;quot;，同时新增了网络安全功能。&lt;/p&gt;
+&lt;p&gt;SpaceXAI正积极寻求在华尔街开拓客户，此次推出针对金融业的专项能力，与该战略方向高度吻合。&lt;/p&gt;
+&lt;p&gt;新模型的发布也恰逢美国政府加强对新AI模型审查的敏感时期。Cursor在博文中表示，已采取措施&amp;quot;识别并拦截恶意行为者&amp;quot;，其目标是&amp;quot;保障合法的安全工作，包括发现和修补漏洞，同时限制最可能造成危害的使用方式&amp;quot;。&lt;/p&gt;
+
+编程起家，向法律金融拓展
+
+&lt;p&gt;Grok 4.5是SpaceXAI与Cursor通过共享数据和算力资源合作开发的成果。与Cursor此前专注于编程的模型不同，Grok 4.5定位更为宽泛，明确将法律和金融服务纳入目标应用场景。&lt;/p&gt;
+&lt;p&gt;SpaceXAI今年5月才推出首款编程智能体，入场时间晚于Anthropic等竞争对手。&lt;/p&gt;
+&lt;p&gt;马斯克本人此前承认，其AI业务在编程领域存在差距，并为此推动了一轮人员调整。此次与Cursor的合作，正是SpaceXAI补足短板、吸引企业客户的关键一步。&lt;/p&gt;
+&lt;p&gt;SpaceX在IPO前夕宣布收购Cursor，后者被视为&amp;quot;vibe coding&amp;quot;浪潮中成长最快的初创公司之一。双方随后开始在新模型上展开合作。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万亿境外人民币告别“无锚时代”，首套离岸人民币债券估值与指数发布</title><link>https://wallstreetcn.com/articles/3776478</link><guid>b120bbb0cfde0cbd7a91d7e056c736474e7578e9356c968a38bb56d1f569172a</guid><pubDate>Wed, 08 Jul 2026 12:05:01 GMT</pubDate><description>&lt;p&gt;全球超过一万亿境外人民币，或许迎来了更贴心的“度量衡”。&lt;/p&gt;
 &lt;p&gt;7月上旬，&lt;a&gt;&lt;/a&gt;&lt;a href="https://stockpage.10jqka.com.cn/601658"&gt;邮储银行&lt;/a&gt;、&lt;a href="https://stockpage.10jqka.com.cn/601998"&gt;中信银行&lt;/a&gt;、中诚信指数联合发布离岸人民币债券估值与指数产品。这是境内机构首次推出的境外人民币债券基准产品，为离岸人民币债券市场提供了更加透明、量化的定价参考。&lt;/p&gt;
 &lt;p&gt;这是首次由商业银行联合第三方评级机构共同推出离岸人民币债券估值产品，覆盖了超 90%的存量债券。同时，相关机构也推出了按信用维度分层的离岸人民币债券指数。&lt;/p&gt;
 &lt;strong&gt;度量衡&lt;/strong&gt;&lt;strong&gt;长什么样&lt;/strong&gt;&lt;strong&gt;？&lt;/strong&gt;
