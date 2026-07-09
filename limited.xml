@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 09 Jul 2026 10:29:31 GMT</lastBuildDate><item><title>[华尔街见闻] 午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%</title><link>https://wallstreetcn.com/articles/3776526</link><guid>a7351db477929b0fcdad6b7f226585d0c96c50c6d7bb7547ae4bc0049675a490</guid><pubDate>Thu, 09 Jul 2026 09:30:41 GMT</pubDate><description>&lt;p&gt;算力硬件、芯片半导体午后爆发，科创50指数狂飙8%，创下历史新高。中芯国际涨超13%，4500亿存储龙头兆易创新涨停，此前消息称，存储芯片巨头长鑫科技7月16日打新。港股AI大模型双雄显著分化，智谱涨11%，MINIMAX跳水大跌20%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 09 Jul 2026 10:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 兆易创新上半年净利润预增1099%，存储业务化身“印钞机” | 财报见闻</title><link>https://wallstreetcn.com/articles/3776572</link><guid>123c0afb8e3fc461d64cc982b6259594e632d1b1eef28095016bcd149dfcfaea</guid><pubDate>Thu, 09 Jul 2026 10:06:03 GMT</pubDate><description>&lt;p&gt;兆易创新这份业绩预告太炸裂了。&lt;/p&gt;
+&lt;p&gt;7月9日晚间，兆易创新公布2026年上半年业绩预告：&lt;strong&gt;营收约115亿元，同比增长177%；归母净利润约69亿元，同比暴增1099%；扣非净利润约48.5亿元，同比增长791%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;几个对比感受一下。半年营收115亿，超过2025年全年92亿。半年净利润69亿，是2022年行业高点20.53亿的3倍多，是2025年全年16.48亿的4.2倍。&lt;/p&gt;
+&lt;p&gt;拆开来看，69亿净利润背后藏着三层完全不同的驱动力，含金量各不相同。&lt;/p&gt;
+存储芯片才是真正的&amp;quot;印钞机&amp;quot;
+&lt;p&gt;业绩爆发的第一层驱动力，&lt;strong&gt;来自存储芯片的量价齐升&lt;/strong&gt;——这也是最核心、最可持续的一层。&lt;/p&gt;
+&lt;p&gt;兆易创新的基本盘是NOR Flash和SLC NAND。&lt;/p&gt;
+&lt;p&gt;根据TrendForce的数据，2026年上半年，这两类存储芯片的合约价累计涨幅均突破了100%。背后的逻辑是：全球存储大厂将产能持续向HBM、高层数3D NAND等高附加值产品倾斜，挤压了NOR Flash和SLC NAND依赖的成熟制程产能；而需求端，消费电子复苏叠加AI端侧应用的快速成长，对存量产能形成了进一步争夺。&lt;/p&gt;
+&lt;p&gt;供需失衡的结果是：NOR Flash率先出现交期延长和配货现象，价格从2025年下半年的温和上涨，演变为2026年上半年的加速暴涨。&lt;/p&gt;
+&lt;p&gt;兆易创新作为国内NOR Flash龙头，在这一轮涨价周期中吃到了最大的红利。&lt;/p&gt;
+&lt;p&gt;2025年公司存储芯片收入65.66亿元，占总营收的71.3%。如果按H1营收115亿倒推，仅半年时间存储业务的收入规模就已接近甚至超越2025年全年——量价齐升叠加规模效应，利润弹性远大于收入弹性，这是净利润从5.75亿跃升至69亿的核心机理。&lt;/p&gt;
+MCU的增长不是&amp;quot;搭便车&amp;quot;
+&lt;p&gt;第二层驱动力来自微控制器（MCU）业务。公告明确提到，&lt;strong&gt;MCU产品受益于工业、消费及汽车等领域的需求拉动，出货规模实现较好增长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这不是一句套话。兆易创新的GD32系列MCU是国内32位MCU出货量最大的产品线，累计出货已超过15亿颗，2025年MCU收入19.1亿元，占总营收的20.8%。&lt;/p&gt;
+&lt;p&gt;在工业控制领域，其MCU覆盖自动化、数字能源等场景；在汽车电子领域，车规级GD32A5系列已通过最高等级的ASIL-D功能安全认证，正在向域控和电池管理系统渗透。&lt;/p&gt;
+&lt;p&gt;MCU增长的意义不在量级——它当前对利润的贡献远不及存储——而在于结构。&lt;/p&gt;
+&lt;p&gt;存储芯片是强周期业务，价格波动剧烈。而MCU的弱周期属性决定了它是&amp;quot;稳定器&amp;quot;：即便存储周期逆转，MCU业务的持续增长也能为公司的收入和利润提供底部支撑。&lt;/p&gt;
+&lt;p&gt;这份业绩预告中MCU的出货增长，证明兆易创新的&amp;quot;存储+MCU&amp;quot;双轮驱动格局正在从战略构想转为可量化的财务事实。&lt;/p&gt;
+20亿元差距里的&amp;quot;浮盈&amp;quot;与隐忧
+&lt;p&gt;第三层驱动力，也是最需要被单独拎出来讨论的一层，是证券投资公允价值上升带来的非经常性收益。&lt;/p&gt;
+&lt;p&gt;归母净利润69亿与扣非净利润48.5亿之间存在约20亿元的差距。&lt;strong&gt;公告对此的表述是&amp;quot;公司持有的非流动金融资产公允价值大幅上升&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这笔浮盈的核心来源，是兆易创新持有的长鑫科技1.80%股权。&lt;/strong&gt;长鑫科技继5月成功过会后，目前正处于科创板IPO进程中，市场对其市值预期在2万亿元左右——这意味着兆易创新持有的这1.80%股权的公允价值面临大幅重估。&lt;/p&gt;
+&lt;p&gt;但这里有一个关键细节：兆易创新在5月的澄清公告中明确表示，长鑫科技投资计入&amp;quot;其他权益工具投资&amp;quot;科目，公允价值变动并不直接计入当期净利润。所以这20亿元的非经常性收益，可能更多来自公司持有的其他证券投资和政府补助等项目的综合贡献。&lt;/p&gt;
+&lt;p&gt;无论如何，这笔20亿的差异是一个清晰的信号：净利润的暴增中有相当一部分是一次性的、不可持续的。&lt;/p&gt;
+&lt;p&gt;公司的澄清公告也专门提示了风险——证券投资公允价值随市场波动而变化，&amp;quot;未来可能出现反向波动&amp;quot;。&lt;/p&gt;
+H2需要盯什么
+&lt;p&gt;同一天，兆易创新A股以涨停板收盘，报663.49元。至此，该股年内累计涨幅已达210.77%，近20个交易日涨幅为37.99%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;展望下半年的表现，关键不是这份已经落地的业绩预告，而是三个更前瞻的变量：&lt;/p&gt;
+&lt;p&gt;第一，存储涨价斜率。 H1合约价涨了100%+，H2能否维持这一斜率？TrendForce的判断是&amp;quot;结构性缺货延续&amp;quot;，但下游客户对持续涨价的承受能力总有边界。一旦涨价斜率放缓甚至回调，当前估值所依赖的利润预期就需要重新校准。&lt;/p&gt;
+&lt;p&gt;第二，MCU的放量速度。 如果MCU出货增速能维持在20%以上，它在收入结构中的占比将持续提升，为公司提供更强的周期缓冲。&lt;/p&gt;
+&lt;p&gt;第三，减持信号。 实控人朱一明已累计套现约32亿元，基金在Q2减仓2.45%。内部人和机构资金的行为，往往更诚实。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 李维斯第二财季净利达8730万美元，DTC业务占比首超五成</title><link>https://wallstreetcn.com/articles/3776530</link><guid>a29fdf9e38b6443db8bdfe550cd9f1d973cd23e4df75c99329db45913e4a3707</guid><pubDate>Thu, 09 Jul 2026 02:40:19 GMT</pubDate><description>&lt;p&gt;7月8日，服装制造商李维斯（Levi Strauss &amp;amp; Co.）发布截至5月31日的2026财年第二财季报告。期内公司实现营收15.6亿美元，较上年同期的14.5亿美元增长约8%；净利润为8730万美元，上年同期为6700万美元。&lt;/p&gt;
+&lt;p&gt;基于二季度财务表现，李维斯调整了全年业绩指引：全年销售额增长预期由5.5%-6.5%上调至7%-7.5%；调整后每股收益预期区间上调至1.46美元至1.52美元。&lt;/p&gt;
+&lt;p&gt;直营业务的扩张是影响本季度营收结构的核心变量。&lt;/p&gt;
+&lt;p&gt;二季度，李维斯DTC渠道净收入同比增长11%，在总营收中的占比达到51%，首次超过传统批发业务。其中，电商业务净收入同比增长19%。传统的批发渠道净收入增幅为5%。&lt;/p&gt;
+&lt;p&gt;增长驱动力方面，二季度营收增量中约50%源于产品提价，另外50%来自实际单位销量的增长。&lt;/p&gt;
+&lt;p&gt;从区域表现来看，国际市场提供了主要增量，亚洲市场二季度有机收入实现12%的增长，领跑各区域。&lt;/p&gt;
+&lt;p&gt;在与中国市场密切相关的供应链环节，公司管理层披露，当前的财务预期已将美国对中国进口商品维持30%关税的假设纳入考量。为对冲这一压力，李维斯正在调整采购基地，将部分产能从中国等地转移以分散关税风险。&lt;/p&gt;
+&lt;p&gt;利润率方面，本季度公司毛利率微升10个基点至62.7%。产品线成本下降及定价策略的落实贡献了毛利空间，但部分被汇率波动及前述的关税成本抵消。&lt;/p&gt;
+&lt;p&gt;不过，从业务结构看，李维斯品牌仍是公司的核心收入来源。&lt;/p&gt;
+&lt;p&gt;近年来，公司尝试拓展女装、上衣等非牛仔品类，并通过收购瑜伽服品牌Beyond Yoga拓宽业务范围。但目前来看，相关业务规模仍相对有限，尚未改变公司主要依赖牛仔服饰业务的格局。&lt;/p&gt;
+&lt;p&gt;市场目前关注的一个重点，是李维斯能否保持增长势头。&lt;/p&gt;
+&lt;p&gt;在服装行业整体需求恢复缓慢的情况下，品牌需要持续吸引年轻消费者，并通过新品开发、渠道优化等方式提升销售表现。与此同时，直营渠道占比提升虽然有助于改善盈利结构，但也意味着更高的运营投入，公司需要平衡规模增长与成本控制。&lt;/p&gt;
+&lt;p&gt;此外，公司近年来逐步调整业务组合，减少对部分非核心业务的投入，将更多资源集中于李维斯品牌。这一策略有助于提升经营效率，但也意味着未来增长更多依赖核心品牌自身的市场表现。&lt;/p&gt;
+&lt;p&gt;整体来看，李维斯第二季度财报显示，公司营收和利润均实现增长，直营渠道继续提供支撑，部分区域市场表现改善。但在服饰消费环境仍存在不确定性的情况下，公司未来增长仍需观察核心品牌竞争力、消费者需求变化以及渠道调整效果。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%</title><link>https://wallstreetcn.com/articles/3776526</link><guid>a7351db477929b0fcdad6b7f226585d0c96c50c6d7bb7547ae4bc0049675a490</guid><pubDate>Thu, 09 Jul 2026 09:30:41 GMT</pubDate><description>&lt;p&gt;算力硬件、芯片半导体午后爆发，科创50指数狂飙8%，创下历史新高。中芯国际涨超13%，4500亿存储龙头兆易创新涨停，此前消息称，存储芯片巨头长鑫科技7月16日打新。港股AI大模型双雄显著分化，智谱涨11%，MINIMAX跳水大跌20%。&lt;/p&gt;
 &lt;p&gt;7月9日，A股午后强势拉升，三大指数大幅走高，沪指涨超1%，重返4000点关口上方，创业板暴涨超4%，科创50狂飙超8%。算力硬件、芯片半导体全线拉升，GPU、半导体硅片、长鑫存储、晶圆产业、先进封装等概念股集体上涨。AI服务器再度大涨，龙头浪潮信息涨停。稀土永磁、锂矿、培育钻石等概念股陷入调整。&lt;/p&gt;
 &lt;p&gt;分析人士认为，除了近期有重磅会议召开预期之外，资金在亚太市场的切换可能是一个重要原因。高盛主题研究团队发布报告，建议客户将仓位从韩国AI交易切换至“中国AI价值链”。所以，今天在韩国股市表现乏力的背景之下，中国AI链尤其强劲。另外，有大行据传将微软资本开支上调，美股期指全线走强。&lt;/p&gt;
 &lt;p&gt;港股冲高回落，恒指、恒科指盘初双双上涨，恒科指一度涨超2%，随后震荡回落，恒指跌近1%，恒科指微幅下跌，科网股普遍下跌，AI大模型股分化，智谱涨超11%，此前一度涨20%，MINIMAX跳水大跌20%，芯片股活跃，中芯国际、华虹宏力领涨。&lt;/p&gt;
@@ -62,51 +106,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;消息面，华尔街见闻文章写道，7月8日，智谱约2568万股基石投资者限售股正式解禁，解禁市值逾400亿港元。面对巨量抛压，股价不跌反涨，盘中一度涨近19%，最终收涨超13%，总市值升至8137亿港元。&lt;/p&gt;
 &lt;p&gt;借助这一强势表现，智谱随即推进配售计划，拟以每股1588至1698港元的价格配售1980万股H股，较当日收市价折让约7%至13%，筹资规模约314.4亿至336.2亿港元。&lt;/p&gt;
-&lt;p&gt;公司披露，所得款项将用于三个方向：一是研发投入，包括人才培育、运算资源部署及相关技术服务采购；二是加速业务扩张，以及推进战略投资与并购；三是优化资本结构与营运资金管理。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 兆易创新上半年净利润预增1099%，存储业务化身“印钞机” | 财报见闻</title><link>https://wallstreetcn.com/articles/3776572</link><guid>123c0afb8e3fc461d64cc982b6259594e632d1b1eef28095016bcd149dfcfaea</guid><pubDate>Thu, 09 Jul 2026 10:06:03 GMT</pubDate><description>&lt;p&gt;兆易创新这份业绩预告太炸裂了。&lt;/p&gt;
-&lt;p&gt;7月9日晚间，兆易创新公布2026年上半年业绩预告：&lt;strong&gt;营收约115亿元，同比增长177%；归母净利润约69亿元，同比暴增1099%；扣非净利润约48.5亿元，同比增长791%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;几个对比感受一下。半年营收115亿，超过2025年全年92亿。半年净利润69亿，是2022年行业高点20.53亿的3倍多，是2025年全年16.48亿的4.2倍。&lt;/p&gt;
-&lt;p&gt;拆开来看，69亿净利润背后藏着三层完全不同的驱动力，含金量各不相同。&lt;/p&gt;
-存储芯片才是真正的&amp;quot;印钞机&amp;quot;
-&lt;p&gt;业绩爆发的第一层驱动力，&lt;strong&gt;来自存储芯片的量价齐升&lt;/strong&gt;——这也是最核心、最可持续的一层。&lt;/p&gt;
-&lt;p&gt;兆易创新的基本盘是NOR Flash和SLC NAND。&lt;/p&gt;
-&lt;p&gt;根据TrendForce的数据，2026年上半年，这两类存储芯片的合约价累计涨幅均突破了100%。背后的逻辑是：全球存储大厂将产能持续向HBM、高层数3D NAND等高附加值产品倾斜，挤压了NOR Flash和SLC NAND依赖的成熟制程产能；而需求端，消费电子复苏叠加AI端侧应用的快速成长，对存量产能形成了进一步争夺。&lt;/p&gt;
-&lt;p&gt;供需失衡的结果是：NOR Flash率先出现交期延长和配货现象，价格从2025年下半年的温和上涨，演变为2026年上半年的加速暴涨。&lt;/p&gt;
-&lt;p&gt;兆易创新作为国内NOR Flash龙头，在这一轮涨价周期中吃到了最大的红利。&lt;/p&gt;
-&lt;p&gt;2025年公司存储芯片收入65.66亿元，占总营收的71.3%。如果按H1营收115亿倒推，仅半年时间存储业务的收入规模就已接近甚至超越2025年全年——量价齐升叠加规模效应，利润弹性远大于收入弹性，这是净利润从5.75亿跃升至69亿的核心机理。&lt;/p&gt;
-MCU的增长不是&amp;quot;搭便车&amp;quot;
-&lt;p&gt;第二层驱动力来自微控制器（MCU）业务。公告明确提到，&lt;strong&gt;MCU产品受益于工业、消费及汽车等领域的需求拉动，出货规模实现较好增长。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这不是一句套话。兆易创新的GD32系列MCU是国内32位MCU出货量最大的产品线，累计出货已超过15亿颗，2025年MCU收入19.1亿元，占总营收的20.8%。&lt;/p&gt;
-&lt;p&gt;在工业控制领域，其MCU覆盖自动化、数字能源等场景；在汽车电子领域，车规级GD32A5系列已通过最高等级的ASIL-D功能安全认证，正在向域控和电池管理系统渗透。&lt;/p&gt;
-&lt;p&gt;MCU增长的意义不在量级——它当前对利润的贡献远不及存储——而在于结构。&lt;/p&gt;
-&lt;p&gt;存储芯片是强周期业务，价格波动剧烈。而MCU的弱周期属性决定了它是&amp;quot;稳定器&amp;quot;：即便存储周期逆转，MCU业务的持续增长也能为公司的收入和利润提供底部支撑。&lt;/p&gt;
-&lt;p&gt;这份业绩预告中MCU的出货增长，证明兆易创新的&amp;quot;存储+MCU&amp;quot;双轮驱动格局正在从战略构想转为可量化的财务事实。&lt;/p&gt;
-20亿元差距里的&amp;quot;浮盈&amp;quot;与隐忧
-&lt;p&gt;第三层驱动力，也是最需要被单独拎出来讨论的一层，是证券投资公允价值上升带来的非经常性收益。&lt;/p&gt;
-&lt;p&gt;归母净利润69亿与扣非净利润48.5亿之间存在约20亿元的差距。&lt;strong&gt;公告对此的表述是&amp;quot;公司持有的非流动金融资产公允价值大幅上升&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这笔浮盈的核心来源，是兆易创新持有的长鑫科技1.80%股权。&lt;/strong&gt;长鑫科技继5月成功过会后，目前正处于科创板IPO进程中，市场对其市值预期在2万亿元左右——这意味着兆易创新持有的这1.80%股权的公允价值面临大幅重估。&lt;/p&gt;
-&lt;p&gt;但这里有一个关键细节：兆易创新在5月的澄清公告中明确表示，长鑫科技投资计入&amp;quot;其他权益工具投资&amp;quot;科目，公允价值变动并不直接计入当期净利润。所以这20亿元的非经常性收益，可能更多来自公司持有的其他证券投资和政府补助等项目的综合贡献。&lt;/p&gt;
-&lt;p&gt;无论如何，这笔20亿的差异是一个清晰的信号：净利润的暴增中有相当一部分是一次性的、不可持续的。&lt;/p&gt;
-&lt;p&gt;公司的澄清公告也专门提示了风险——证券投资公允价值随市场波动而变化，&amp;quot;未来可能出现反向波动&amp;quot;。&lt;/p&gt;
-H2需要盯什么
-&lt;p&gt;同一天，兆易创新A股以涨停板收盘，报663.49元。至此，该股年内累计涨幅已达210.77%，近20个交易日涨幅为37.99%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;展望下半年的表现，关键不是这份已经落地的业绩预告，而是三个更前瞻的变量：&lt;/p&gt;
-&lt;p&gt;第一，存储涨价斜率。 H1合约价涨了100%+，H2能否维持这一斜率？TrendForce的判断是&amp;quot;结构性缺货延续&amp;quot;，但下游客户对持续涨价的承受能力总有边界。一旦涨价斜率放缓甚至回调，当前估值所依赖的利润预期就需要重新校准。&lt;/p&gt;
-&lt;p&gt;第二，MCU的放量速度。 如果MCU出货增速能维持在20%以上，它在收入结构中的占比将持续提升，为公司提供更强的周期缓冲。&lt;/p&gt;
-&lt;p&gt;第三，减持信号。 实控人朱一明已累计套现约32亿元，基金在Q2减仓2.45%。内部人和机构资金的行为，往往更诚实。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 李维斯第二财季净利达8730万美元，DTC业务占比首超五成</title><link>https://wallstreetcn.com/articles/3776530</link><guid>a29fdf9e38b6443db8bdfe550cd9f1d973cd23e4df75c99329db45913e4a3707</guid><pubDate>Thu, 09 Jul 2026 02:40:19 GMT</pubDate><description>&lt;p&gt;7月8日，服装制造商李维斯（Levi Strauss &amp;amp; Co.）发布截至5月31日的2026财年第二财季报告。期内公司实现营收15.6亿美元，较上年同期的14.5亿美元增长约8%；净利润为8730万美元，上年同期为6700万美元。&lt;/p&gt;
-&lt;p&gt;基于二季度财务表现，李维斯调整了全年业绩指引：全年销售额增长预期由5.5%-6.5%上调至7%-7.5%；调整后每股收益预期区间上调至1.46美元至1.52美元。&lt;/p&gt;
-&lt;p&gt;直营业务的扩张是影响本季度营收结构的核心变量。&lt;/p&gt;
-&lt;p&gt;二季度，李维斯DTC渠道净收入同比增长11%，在总营收中的占比达到51%，首次超过传统批发业务。其中，电商业务净收入同比增长19%。传统的批发渠道净收入增幅为5%。&lt;/p&gt;
-&lt;p&gt;增长驱动力方面，二季度营收增量中约50%源于产品提价，另外50%来自实际单位销量的增长。&lt;/p&gt;
-&lt;p&gt;从区域表现来看，国际市场提供了主要增量，亚洲市场二季度有机收入实现12%的增长，领跑各区域。&lt;/p&gt;
-&lt;p&gt;在与中国市场密切相关的供应链环节，公司管理层披露，当前的财务预期已将美国对中国进口商品维持30%关税的假设纳入考量。为对冲这一压力，李维斯正在调整采购基地，将部分产能从中国等地转移以分散关税风险。&lt;/p&gt;
-&lt;p&gt;利润率方面，本季度公司毛利率微升10个基点至62.7%。产品线成本下降及定价策略的落实贡献了毛利空间，但部分被汇率波动及前述的关税成本抵消。&lt;/p&gt;
-&lt;p&gt;不过，从业务结构看，李维斯品牌仍是公司的核心收入来源。&lt;/p&gt;
-&lt;p&gt;近年来，公司尝试拓展女装、上衣等非牛仔品类，并通过收购瑜伽服品牌Beyond Yoga拓宽业务范围。但目前来看，相关业务规模仍相对有限，尚未改变公司主要依赖牛仔服饰业务的格局。&lt;/p&gt;
-&lt;p&gt;市场目前关注的一个重点，是李维斯能否保持增长势头。&lt;/p&gt;
-&lt;p&gt;在服装行业整体需求恢复缓慢的情况下，品牌需要持续吸引年轻消费者，并通过新品开发、渠道优化等方式提升销售表现。与此同时，直营渠道占比提升虽然有助于改善盈利结构，但也意味着更高的运营投入，公司需要平衡规模增长与成本控制。&lt;/p&gt;
-&lt;p&gt;此外，公司近年来逐步调整业务组合，减少对部分非核心业务的投入，将更多资源集中于李维斯品牌。这一策略有助于提升经营效率，但也意味着未来增长更多依赖核心品牌自身的市场表现。&lt;/p&gt;
-&lt;p&gt;整体来看，李维斯第二季度财报显示，公司营收和利润均实现增长，直营渠道继续提供支撑，部分区域市场表现改善。但在服饰消费环境仍存在不确定性的情况下，公司未来增长仍需观察核心品牌竞争力、消费者需求变化以及渠道调整效果。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工业富联上半年净利预增最高翻倍，AI服务器营收同比增超230%｜财报见闻</title><link>https://wallstreetcn.com/articles/3776576</link><guid>814461abf047f28948fe3406f79b9290d5b9cca4f976d03aada0736b7646b088</guid><pubDate>Thu, 09 Jul 2026 10:15:29 GMT</pubDate><description>&lt;p&gt;在AI基础设施需求持续扩张的带动下，工业富联2026年上半年业绩大幅预增，净利润接近翻倍，AI服务器收入同比飙升超230%，下一代产品亦将于下半年量产。&lt;/p&gt;
+&lt;p&gt;公司披露，所得款项将用于三个方向：一是研发投入，包括人才培育、运算资源部署及相关技术服务采购；二是加速业务扩张，以及推进战略投资与并购；三是优化资本结构与营运资金管理。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工业富联上半年净利预增最高翻倍，AI服务器营收同比增超230%｜财报见闻</title><link>https://wallstreetcn.com/articles/3776576</link><guid>814461abf047f28948fe3406f79b9290d5b9cca4f976d03aada0736b7646b088</guid><pubDate>Thu, 09 Jul 2026 10:15:29 GMT</pubDate><description>&lt;p&gt;在AI基础设施需求持续扩张的带动下，工业富联2026年上半年业绩大幅预增，净利润接近翻倍，AI服务器收入同比飙升超230%，下一代产品亦将于下半年量产。&lt;/p&gt;
 &lt;p&gt;7月9日，工业富联发布业绩预增公告。数据显示，&lt;strong&gt;公司预计2026年上半年归属于上市公司股东的净利润达234亿元至244亿元，同比增长93%至101%&lt;/strong&gt;；扣除非经常性损益后的净利润预计为227亿元至237亿元，同比增长94%至103%。归母净利润与扣非净利润增幅均逼近翻倍，表明&lt;strong&gt;本轮业绩增长主要由主营业务实质性改善驱动&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;公司指出，业绩大幅增长主要受益于AI相关业务的快速发展。其中，&lt;strong&gt;云服务商AI服务器营业收入同比增长超过230%，AI产品已成为推动公司主营业务增长的核心引擎。&lt;/strong&gt;此外，公司下一代AI服务器产品按计划将于下半年进入量产阶段，有望进一步拓宽增长空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -216,19 +216,7 @@ AI服务器领跑，网络设备跟涨，双引擎驱动业绩倍增
 &lt;p&gt;Jukan认为，xAI收购Cursor的核心价值正在于此：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Cursor很可能拥有比OpenAI Codex更大的真实用户群体与代码数据集，如果xAI能有效训练并利用这些数据，超越Codex或许只是时间问题。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储主席沃什定于7月14-15日出席国会货币政策听证会</title><link>https://wallstreetcn.com/articles/3776505</link><guid>47b22974710e90570fff258cab516f9cf65cea59f1104eddf3372ffaf6b55ad3</guid><pubDate>Wed, 08 Jul 2026 22:51:55 GMT</pubDate><description>&lt;p&gt;美联储主席凯文·沃什将于7月14日至15日分别出席众议院金融服务委员会和参议院银行委员会听证会，就半年度货币政策报告向国会作证。&lt;/p&gt;
-&lt;p&gt;据参议院银行委员会官网公告，&lt;strong&gt;沃什将于美国东部时间7月15日上午10时出席参议院银行委员会听证会，听证围绕美联储提交国会的半年度货币政策报告展开，并将进行网络直播。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此前，众议院金融服务委员会已于6月22日发布通知，确认沃什将于7月14日上午10时（美东时间）在众议院出席同一主题听证。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次听证对市场而言具有重要参考价值。作为美联储主席首次公开就货币政策向国会作证，沃什的措辞与立场将为外界研判美联储政策路径提供关键线索。&lt;/p&gt;
-
-前任听证风波成背景
-
-&lt;p&gt;根据法律规定，美联储主席必须在每年的2月和7月两次就货币政策向国会作证。在7月的场次中，惯例上需要同时出席众议院金融服务委员会与参议院银行委员会。&lt;/p&gt;
-&lt;p&gt;新任主席凯文·沃什此次首度亮相国会，正值美联储独立性备受市场关注的特殊时期。其前任杰罗姆·鲍威尔此前曲折的国会作证经历，构成了本次听证的重要背景。&lt;/p&gt;
-&lt;p&gt;美国司法部曾在2025年底对鲍威尔在当年7月参议院听证中的相关陈述启动刑事调查。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;受到该事件影响，众议院金融服务委员会主席French Hill始终未予安排鲍威尔今年2月的例行听证。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随后，一名联邦法官裁定该刑事调查属于不当行为，实际意在向鲍威尔施压并迫使其降息或辞职，因此相关调查已被暂停。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在此背景下，沃什作为新主席的首次国会作证，其关于货币政策独立性与利率前景的表述，将成为市场和分析人士解读的焦点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达补齐AI软件栈拼图：联手LangChain发布Agent蓝图，推理成本骤降10倍</title><link>https://wallstreetcn.com/articles/3776554</link><guid>d4726c201061d3c3e035d3571056d7ac0b84fcdbfbcb3b4efc93eee401519bc6</guid><pubDate>Thu, 09 Jul 2026 07:48:56 GMT</pubDate><description>&lt;p&gt;在AI算力基础设施建立领先优势后，英伟达正将竞争重心进一步推向软件生态。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中概互联大涨近6%：估值弹簧再一次显威（07.09）</title><link>http://xueqiu.com/9391624441/399178406</link><guid>cc495566025a4bdb43cab05ed21b13edf45120d7f2f5ff564b496d1e76e67f41</guid><pubDate>Thu, 09 Jul 2026 10:13:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;两周前，61在《极致割裂》一文中曾提到：中概互联PS跌至1.68，百分位0.50%、PB跌至1.98，百分位0.53%，指数温度跌至0.5°，接近历史极值。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达补齐AI软件栈拼图：联手LangChain发布Agent蓝图，推理成本骤降10倍</title><link>https://wallstreetcn.com/articles/3776554</link><guid>d4726c201061d3c3e035d3571056d7ac0b84fcdbfbcb3b4efc93eee401519bc6</guid><pubDate>Thu, 09 Jul 2026 07:48:56 GMT</pubDate><description>&lt;p&gt;在AI算力基础设施建立领先优势后，英伟达正将竞争重心进一步推向软件生态。&lt;/p&gt;
 &lt;p&gt;7月8日，英伟达与AI开发框架LangChain联合发布NVIDIA NeMoClaw Deep Agents蓝图。&lt;strong&gt;该蓝图为企业提供一套开放、可定制、且具备治理能力的AI智能体参考架构，旨在破解企业在智能体部署中面临的可控性、治理与持续演进等核心难题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;相比单纯提升模型能力，这一蓝图更强调企业级Agent的软件工程能力。官方数据显示，&lt;strong&gt;该方案不仅在多项基准测试中取得领先表现，还可将Agent推理成本降低超过10倍&lt;/strong&gt;，与Blackwell推理平台形成软硬件协同，进一步压缩AI应用部署成本。&lt;/p&gt;
 &lt;p&gt;对于市场而言，这意味着英伟达正进一步补齐NeMo软件生态最后一块拼图，从AI算力供应商向定义企业级Agent开发标准的生态平台延伸，为软件业务打开新的增长空间。&lt;/p&gt;
@@ -248,7 +236,17 @@ AI服务器领跑，网络设备跟涨，双引擎驱动业绩倍增
 &lt;p&gt;从产品布局看，NeMoClaw Deep Agents蓝图&lt;strong&gt;补齐了NeMo体系在Agent开发层的短板，使英伟达软件生态更趋完整&lt;/strong&gt;。近年来，英伟达围绕CUDA、TensorRT、NIM、NeMo持续构建AI软件栈，目标不仅是销售GPU，更希望成为模型训练、推理部署和企业应用开发的全链路平台。&lt;/p&gt;
 &lt;p&gt;随着Agent成为AI应用的重要载体，开发框架正成为新的生态入口。与LangChain的合作，&lt;strong&gt;表明英伟达正借助主流框架将自身能力嵌入企业AI流程，在基础设施之外争夺Agent时代的话语权。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;对资本市场而言，这同样具有战略意义。AI基础设施竞争日趋成熟，单靠GPU销售难以持续支撑估值扩张，而软件和平台服务毛利率更高、黏性更强。&lt;/p&gt;
-&lt;p&gt;通过完善NeMo生态并向Agent标准延伸，&lt;strong&gt;英伟达正从基础设施提供商向全栈AI生态平台演进&lt;/strong&gt;，为在AI应用爆发周期中获取更多软件收入和生态溢价奠定基础。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中概互联大涨近6%：估值弹簧再一次显威（07.09）</title><link>http://xueqiu.com/9391624441/399178406</link><guid>cc495566025a4bdb43cab05ed21b13edf45120d7f2f5ff564b496d1e76e67f41</guid><pubDate>Thu, 09 Jul 2026 10:13:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;两周前，61在《极致割裂》一文中曾提到：中概互联PS跌至1.68，百分位0.50%、PB跌至1.98，百分位0.53%，指数温度跌至0.5°，接近历史极值。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想309 AI硬件：全球共此凉热，量化亦难独善</title><link>http://xueqiu.com/1438190065/399162878</link><guid>7047ec61d265ca0fccf3e2c4afb91b161b7d20c21d8edcb5ac73d956a5b512b8</guid><pubDate>Thu, 09 Jul 2026 10:14:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨天上午大盘在AI硬件的带领下一度是走强的，观察的芯片etf一度从-3%修复至+4%；后来是因为日韩股市的走弱，尤其是三星电子、SK海力士等风向股的跳水，午后又开始走弱，收盘etf微涨。AI硬件，真是全球“共此凉热”。&lt;/p&gt;</description></item><item><title>[华尔街见闻] Seedream 5.0 Pro来了：AI生图开始学会“返工</title><link>https://wallstreetcn.com/articles/3776567</link><guid>19a2997874a604d9ddaeb49ba9f8ed1ed969412053b15cbadc67035375743a40</guid><pubDate>Thu, 09 Jul 2026 08:47:07 GMT</pubDate><description>&lt;p&gt;7月8日晚，字节跳动 Seed 团队正式发布多模态图像创作模型 Seedream 5.0 Pro。&lt;/p&gt;
+&lt;p&gt;通过完善NeMo生态并向Agent标准延伸，&lt;strong&gt;英伟达正从基础设施提供商向全栈AI生态平台演进&lt;/strong&gt;，为在AI应用爆发周期中获取更多软件收入和生态溢价奠定基础。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想309 AI硬件：全球共此凉热，量化亦难独善</title><link>http://xueqiu.com/1438190065/399162878</link><guid>7047ec61d265ca0fccf3e2c4afb91b161b7d20c21d8edcb5ac73d956a5b512b8</guid><pubDate>Thu, 09 Jul 2026 10:14:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨天上午大盘在AI硬件的带领下一度是走强的，观察的芯片etf一度从-3%修复至+4%；后来是因为日韩股市的走弱，尤其是三星电子、SK海力士等风向股的跳水，午后又开始走弱，收盘etf微涨。AI硬件，真是全球“共此凉热”。&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK海力士ADR挂牌在即，掌门崔泰源同期寻求会见英伟达、特斯拉高管</title><link>https://wallstreetcn.com/articles/3776578</link><guid>160c3218b12385f71167b0fdadd8c9db5661eaafe3689a2bdd4a817b4c3c2d14</guid><pubDate>Thu, 09 Jul 2026 10:47:01 GMT</pubDate><description>&lt;p&gt;SK海力士正式登陆纳斯达克在即，将AI内存领导地位的叙事直接带入全球资本市场。&lt;/p&gt;
+&lt;p&gt;据报道，美东时间7月10日，SK集团会长崔泰源将亲赴纽约，出席SK海力士美国存托凭证（ADR）在纳斯达克上市仪式，并与SK海力士总裁兼首席执行官郭鲁正（Kwak Noh-jung）等高管共同参与开市敲钟。&lt;strong&gt;此次ADR发行规模最终确定为1779万股，约占公司已发行股份的2.5%，预计募资约43万亿韩元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SK海力士表示，此次上市旨在提升公司在全球资本市场的知名度，争取更合理的市场估值。公司认为，尽管已在AI内存市场确立领先地位，但当前估值仍低于美光。募集资金将全部用于扩大半导体产能及先进封装能力建设。&lt;/p&gt;
+崔泰源赴纽约，强化AI内存战略叙事
+&lt;p&gt;据报道援引行业消息人士，崔泰源此行的重要任务之一，是向全球投资者阐述SK海力士在AI内存领域的长期增长战略，并就深化与全球科技巨头合作展开交流。&lt;/p&gt;
+&lt;p&gt;外界普遍认为，崔泰源亲自出席上市仪式，不仅体现了集团对ADR上市的重视，也是在全球资本市场进一步强化SK海力士AI内存领导者形象、释放长期增长信心的重要举措。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在美期间，崔泰源预计还将寻求与英伟达及特斯拉高管会面。&lt;/strong&gt;今年2月，他曾赴硅谷与英伟达管理层讨论高带宽内存（HBM）、下一代服务器内存模组SOCAMM、NAND闪存以及AI数据中心等合作议题。今年6月，英伟达首席执行官黄仁勋访韩期间，双方再次会晤，并重申长期战略合作伙伴关系。&lt;/p&gt;
+募资聚焦产能扩张与先进封装
+&lt;p&gt;根据SK海力士向美国证券监管机构提交的注册声明，此次ADR最终发行价格于美东时间7月9日确定，并于7月10日在纳斯达克正式开始交易。&lt;/p&gt;
+&lt;p&gt;公司表示，&lt;strong&gt;募集资金将重点投向龙仁半导体集群首座晶圆厂建设、清州P&amp;amp;T7园区先进封装设施扩建，以及美国印第安纳州AI内存封装工厂建设。&lt;/strong&gt;同时，公司还将采购极紫外（EUV）光刻设备，进一步提升先进制程制造能力。&lt;/p&gt;
+&lt;p&gt;整体来看，此次募资投向高度聚焦于HBM、先进封装及高端制造产能扩张，与SK海力士持续巩固AI芯片供应链竞争优势、满足快速增长的AI内存需求的长期战略保持一致。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Seedream 5.0 Pro来了：AI生图开始学会“返工</title><link>https://wallstreetcn.com/articles/3776567</link><guid>19a2997874a604d9ddaeb49ba9f8ed1ed969412053b15cbadc67035375743a40</guid><pubDate>Thu, 09 Jul 2026 08:47:07 GMT</pubDate><description>&lt;p&gt;7月8日晚，字节跳动 Seed 团队正式发布多模态图像创作模型 Seedream 5.0 Pro。&lt;/p&gt;
 &lt;p&gt;相比此前版本，Seedream 5.0 Pro在图文匹配、结构合理性、文字渲染和画面美感等基础能力上进一步升级，并将复杂信息可视化、交互式精准编辑、真实影像与人像质感、多语种输入与生成作为核心能力突破方向。&lt;/p&gt;
 &lt;p&gt;价格方面，Seedream 5.0 Pro API采用按输入图与输出图计费的方式：输出图不超过236万像素时，首张输入图免费，后续输入图0.02元/张，输出图0.3元/张；输出图超过236万像素时，首张输入图免费，后续输入图0.02元/张，输出图0.6元/张。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相较前代模型，&lt;/strong&gt;&lt;strong&gt;Seedream 5.0 Pro&lt;/strong&gt;&lt;strong&gt;最直观的升级体现在中文文字渲染稳定性上。&lt;/strong&gt;&lt;/p&gt;
