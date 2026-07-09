@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 09 Jul 2026 13:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 李维斯第二财季净利达8730万美元，DTC业务占比首超五成</title><link>https://wallstreetcn.com/articles/3776530</link><guid>a29fdf9e38b6443db8bdfe550cd9f1d973cd23e4df75c99329db45913e4a3707</guid><pubDate>Thu, 09 Jul 2026 02:40:19 GMT</pubDate><description>&lt;p&gt;7月8日，服装制造商李维斯（Levi Strauss &amp;amp; Co.）发布截至5月31日的2026财年第二财季报告。期内公司实现营收15.6亿美元，较上年同期的14.5亿美元增长约8%；净利润为8730万美元，上年同期为6700万美元。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 09 Jul 2026 14:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 李维斯第二财季净利达8730万美元，DTC业务占比首超五成</title><link>https://wallstreetcn.com/articles/3776530</link><guid>a29fdf9e38b6443db8bdfe550cd9f1d973cd23e4df75c99329db45913e4a3707</guid><pubDate>Thu, 09 Jul 2026 02:40:19 GMT</pubDate><description>&lt;p&gt;7月8日，服装制造商李维斯（Levi Strauss &amp;amp; Co.）发布截至5月31日的2026财年第二财季报告。期内公司实现营收15.6亿美元，较上年同期的14.5亿美元增长约8%；净利润为8730万美元，上年同期为6700万美元。&lt;/p&gt;
 &lt;p&gt;基于二季度财务表现，李维斯调整了全年业绩指引：全年销售额增长预期由5.5%-6.5%上调至7%-7.5%；调整后每股收益预期区间上调至1.46美元至1.52美元。&lt;/p&gt;
 &lt;p&gt;直营业务的扩张是影响本季度营收结构的核心变量。&lt;/p&gt;
 &lt;p&gt;二季度，李维斯DTC渠道净收入同比增长11%，在总营收中的占比达到51%，首次超过传统批发业务。其中，电商业务净收入同比增长19%。传统的批发渠道净收入增幅为5%。&lt;/p&gt;
@@ -290,29 +290,7 @@ AI服务器领跑，网络设备跟涨，双引擎驱动业绩倍增
 混合架构派提出挑战
 &lt;p&gt;并非所有业内人士都认同纯设备端AI的路线。初创公司Argmax等采用混合架构，将语音和图像等处理任务在设备端完成，再将信息上传至云端进行更复杂的推理。&lt;/p&gt;
 &lt;p&gt;混合架构的支持者指出，云端大模型目前仍在以每周更新的速度快速迭代，完全运行在设备端的AI模型将难以享受到最新、最先进云端模型带来的性能红利。这一挑战也是PrismML在商业化路径上需要持续应对的核心问题之一。&lt;/p&gt;
-&lt;p&gt;PrismML表示，公司计划继续将更大规模的模型——包括万亿参数级别的模型——压缩至设备端运行，届时将进入与OpenAI GPT及Anthropic Claude同台竞技的领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源</title><link>https://wallstreetcn.com/articles/3776590</link><guid>dae67470249154adba7cb8f643ef4a7804daa39c8cc210860d673c4d24594a87</guid><pubDate>Thu, 09 Jul 2026 13:00:17 GMT</pubDate><description>&lt;p&gt;美国股市估值泡沫警报升级，部分顶级基金经理已开始将资金转向被市场忽视的低估值资产。&lt;/p&gt;
-&lt;p&gt;Panmure Gordon分析师Joachim Klement最新研究显示，&lt;strong&gt;标普500指数的周期调整市盈率（CAPE）经盈利趋势修正后已升至68倍，超越历史上任何时期，意味着美股正同时面临&amp;quot;价格泡沫&amp;quot;与&amp;quot;盈利泡沫&amp;quot;的双重叠加。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，韩国Kospi指数7月9日单日暴跌5.4%，从历史高点累计回撤约20%，正式进入技术性熊市，资金加速从韩国芯片股撤出，转向港股科技板块，恒生中国企业指数单日最高涨幅达4.5%，阿里巴巴港股单日涨逾13%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;面对高度集中的美国AI交易和日益上升的崩盘风险，英国资产管理公司Ruffer LLP基金经理Alexander Chartres和Crossing Point Investment Management首席投资官Tomiko Evans等人建议投资者通过布局中国科技股、英国高股息股票及全球能源板块来实现有效分散，而非简单转为现金。&lt;/p&gt;
-美股估值创历史极值，AI集中度风险高企
-&lt;p&gt;美国股市的高估值问题已持续多年，但当前局面或已进入新的极端区间。&lt;/p&gt;
-&lt;p&gt;Klement指出，&lt;strong&gt;标普500指数当前CAPE比率接近2000年互联网泡沫高峰时的44倍水平。&lt;/strong&gt;然而，若进一步修正当前企业盈利同样远高于长期趋势这一事实，&lt;strong&gt;实际CAPE比率将升至68倍，超越有记录以来的任何历史水平&lt;/strong&gt;。换言之，市场不仅在为高价格买单，还在为高于正常水平的盈利买单。&lt;/p&gt;
-&lt;p&gt;推动这一局面的核心驱动力是人工智能。少数科技巨头主导了主要指数的权重，各大企业竞相加码AI基础设施投资，令市场集中度达到历史罕见水平。Fidelity International投资组合经理Ian Samson指出，AI驱动的半导体需求虽然真实且规模庞大，但&amp;quot;背后其实只是由少数几家大型科技公司控制的约1万亿美元资本开支在支撑&amp;quot;，一旦这笔支出放缓，下行风险将迅速显现。&lt;/p&gt;
-&lt;p&gt;泡沫难以精准预判破裂时机，但投资者可以通过充分分散来降低单边暴露风险。&lt;/p&gt;
-转战中国科技：估值洼地叠加AI期权价值
-&lt;p&gt;Chartres认为，美国AI交易吸走大量市场资金，反而令其他板块的相对价值凸显，中国大型科技股便是其中之一。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;如果你想想谁在全球提供云计算服务，基本上就是美国和中国，两个国家各有少数几个名字，&lt;/strong&gt;&amp;quot;Chartres说。&lt;/p&gt;
-&lt;p&gt;他指出，&lt;strong&gt;中国科技公司具备扎实的基本面，收入增长稳健，在AI领域同样拥有充分的&amp;quot;期权价值&amp;quot;，只是受政治风险和国内经济疲软情绪拖累，估值被压制在远低于美国同行的水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一逻辑正在获得市场验证。&lt;/p&gt;
-&lt;p&gt;高盛主题研究团队此前发布报告，&lt;strong&gt;建议客户将仓位从韩国AI交易切换至&amp;quot;中国AI价值链&amp;quot;&lt;/strong&gt;。资金随即加速流入港股科技板块，阿里巴巴港股单日涨幅超过13%。&lt;/p&gt;
-英国高股息股票：远离科技的另一条路
-&lt;p&gt;对于希望彻底回避科技板块的投资者，英国股票提供了一个截然不同的选择。&lt;/p&gt;
-&lt;p&gt;Tomiko Evans在与英国投资公司协会的交流中表示，英国市场的板块构成与全球股票指数差异显著，金融、能源、医疗健康和必需消费品等现金流充裕的行业占比更高，是科技持仓过重的投资组合的良好对冲工具。&lt;/p&gt;
-能源板块：通胀时代的新型对冲工具
-&lt;p&gt;在寻找真正意义上的组合对冲资产时，Chartres指出，通胀波动加剧的环境令债券的对冲功能大打折扣，能源板块则填补了这一空缺。&lt;/p&gt;
-&lt;p&gt;他表示，近期海湾地区局势提醒市场，能源价格飙升往往会同时拖累股票和债券，而化石燃料板块在这种情境下反而受益。&lt;/p&gt;
-&lt;p&gt;他进一步指出，受益范围不仅限于石油巨头，油田服务公司同样可能在各国加大能源基础设施投资的背景下长期受益。&amp;quot;当然，油市可能在相当长时间内保持疲软，&amp;quot;他说，&amp;quot;但这正是分散投资的意义所在。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] PE倍数创本轮AI牛市以来最低！美银称英伟达“估值不合理”</title><link>https://wallstreetcn.com/articles/3776518</link><guid>54bb936aa4bf08db638684806c8c2c3d40e7b75fec2565f9a827bb975bdd5ec4</guid><pubDate>Thu, 09 Jul 2026 03:01:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;市场正在错误定价，英伟达的不合理“折价”正是黄金买点&lt;/strong&gt;！尽管在人工智能领域占据绝对统治地位，英伟达今年迄今的股价仅上涨了3%，远远落后于暴涨82%的费城半导体指数。美银认为，这种巨大的背离揭示了一个极具吸引力的买入机会。&lt;/p&gt;
+&lt;p&gt;PrismML表示，公司计划继续将更大规模的模型——包括万亿参数级别的模型——压缩至设备端运行，届时将进入与OpenAI GPT及Anthropic Claude同台竞技的领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] PE倍数创本轮AI牛市以来最低！美银称英伟达“估值不合理”</title><link>https://wallstreetcn.com/articles/3776518</link><guid>54bb936aa4bf08db638684806c8c2c3d40e7b75fec2565f9a827bb975bdd5ec4</guid><pubDate>Thu, 09 Jul 2026 03:01:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;市场正在错误定价，英伟达的不合理“折价”正是黄金买点&lt;/strong&gt;！尽管在人工智能领域占据绝对统治地位，英伟达今年迄今的股价仅上涨了3%，远远落后于暴涨82%的费城半导体指数。美银认为，这种巨大的背离揭示了一个极具吸引力的买入机会。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美银（BofA Securities）7月7日研报的核心逻辑清晰：&lt;strong&gt;英伟达当前的估值折价，源于市场对内存成本、ASIC竞争和持仓集中度的过度定价，而非基本面的真实恶化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;该行认为，市场当前对英伟达的估值隐含了对其2027/2028年每股收益（EPS）高达30-35%的“不合理折价”，导致其远期市盈率跌至7年来的最低点（18倍）。换言之，&lt;strong&gt;市场在为一个并不存在的风险买单。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;值得注意的是，@StockMKTNewz在社交平台X上发帖称，&lt;strong&gt;英伟达的估值现已成为人工智能热潮期间的最低水平，英伟达目前的市盈率低于20，自2019年初以来处于最低水平。&lt;/strong&gt;&lt;/p&gt;
@@ -398,4 +376,23 @@ AI市场空间：2030年1.7万亿美元的盛宴
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中概互联大涨近6%：估值弹簧再一次显威（07.09）</title><link>http://xueqiu.com/9391624441/399178406</link><guid>cc495566025a4bdb43cab05ed21b13edf45120d7f2f5ff564b496d1e76e67f41</guid><pubDate>Thu, 09 Jul 2026 10:13:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;两周前，61在《极致割裂》一文中曾提到：中概互联PS跌至1.68，百分位0.50%、PB跌至1.98，百分位0.53%，指数温度跌至0.5°，接近历史极值。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想309 AI硬件：全球共此凉热，量化亦难独善</title><link>http://xueqiu.com/1438190065/399162878</link><guid>7047ec61d265ca0fccf3e2c4afb91b161b7d20c21d8edcb5ac73d956a5b512b8</guid><pubDate>Thu, 09 Jul 2026 10:14:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨天上午大盘在AI硬件的带领下一度是走强的，观察的芯片etf一度从-3%修复至+4%；后来是因为日韩股市的走弱，尤其是三星电子、SK海力士等风向股的跳水，午后又开始走弱，收盘etf微涨。AI硬件，真是全球“共此凉热”。&lt;/p&gt;</description></item><item><title>[今日雪球] 7.8光通信行业信息更新</title><link>http://xueqiu.com/8141527616/399127695</link><guid>7954bd3e55596fdbd3a3ae9e00d295830ed07d07350754688ec39b9b88e88f20</guid><pubDate>Thu, 09 Jul 2026 10:13:41 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;杨爽511&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;明天要去西部光电大会学习学习了，后面停更几天。对于我来说股票回撤是很正常的，我们需要关注的是内在基本面是否发生质的变化，所以今天给大家继续更新一下行业信息。同时记住，我也是会判断错误的，大家做投资决策的时候要结合自己的实际情况独立思考，切忌生搬硬套。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 金价越跌，央行越买！人行连续20个月增持黄金</title><link>https://wallstreetcn.com/articles/3776575</link><guid>3317ea316a6526f48cbdcbc00be6177b772204bef831667cd62c29c19187c698</guid><pubDate>Thu, 09 Jul 2026 10:34:35 GMT</pubDate><description>&lt;p&gt;全球央行对黄金的态度历来受到关注，而我国的人民银行在这方面也态度积极。&lt;/p&gt;
+&lt;p&gt;根据，央行公布的相关信息显示，截至2026年6月，我国官方储备资产持有的黄金达到7544万盎司，相比上个月增加48万盎司。&lt;/p&gt;
+&lt;p&gt;这是自2024年11月以来，我国外汇储备连续第20个月增持黄金，而且不论短期金价上涨或下跌，这个增持的态度都相当坚决。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;19个月累计加仓近250万盎司黄金&lt;/strong&gt;
+&lt;p&gt;根据央行公布的数据，2024年11月，官方储备持有黄金7296万盎司，而最新的持有数已经上涨到7544万盎司，19个月内黄金持仓累计加仓248万盎司。&lt;/p&gt;
+&lt;p&gt;与此同时，央行持有的黄金资产价值也从1934.31亿美元，增加到3037.24亿美元，增加1100亿美元以上，其中增值大部分来自国际金价的提升。&lt;/p&gt;
+&lt;p&gt;考虑到同期，我国外汇储备则从3.27万亿美元增加到3.42万亿美元，大约增加1500亿美元。这意味着，我国外汇储备新增主要来自于对黄金的持有。&lt;/p&gt;
+&lt;strong&gt;主动择时，而非被动配置&lt;/strong&gt;
+&lt;p&gt;尽管态度如一，但我国增持黄金的步伐还是颇为有序的。&lt;/p&gt;
+&lt;p&gt;仅就过去20个月而言，2024年11月到2025年2月为坚定建仓期，央行月均增持16万盎司；&lt;/p&gt;
+&lt;p&gt;2025年3月至2026年2月，国际金价自2600美元冲高至5300美元上方，央行主动放缓购金节奏，月度增持降至9万盎司以内，部分月份仅加仓3万盎司，规避高位追涨风险。&lt;/p&gt;
+&lt;p&gt;2026年3月市场迎来拐点，金价持续走弱。在此背景下央行逐月加码，2026年3至5月增持量分别为16、26、32万盎司。&lt;/p&gt;
+&lt;p&gt;6月更是在低位翻倍加仓，精准把握住底部，当月现货黄金最低下探3942美元，较年内高点5405美元回落近27%，央行当月增持48万盎司，创下近16个月新高。&lt;/p&gt;
+&lt;p&gt;有研究报告测算称，2022年11月-2023年9月央行购金规模与国际金价负相关系数达-0.751，印证央行逢低买入、不追高位的逆向配置思路。&lt;/p&gt;
+&lt;strong&gt;全球&lt;/strong&gt;&lt;strong&gt;央行&lt;/strong&gt;&lt;strong&gt;共识&lt;/strong&gt;&lt;strong&gt;增加黄金&lt;/strong&gt;
+&lt;p&gt;截至2026年6月末，我国黄金储备占官方储备资产约9%，依然低于全球27%的平均水平。&lt;/p&gt;
+&lt;p&gt;而与之相比，美国、德国、法国的黄金储备占比都较高，均大幅超50%，印度也已达到17%。&lt;/p&gt;
+&lt;p&gt;另外，世界黄金协会数据，2026年一季度全球央行净购金244吨，环比提升17%；5月净购金41吨，创阶段性新高。&lt;/p&gt;
+&lt;p&gt;该协会调研显示，45%受访央行计划未来一年增持黄金。黄金具备危机避险、长期保值、分散投资风险的多重价值，已从传统历史存量资产，转变为各国主动布局的核心战略储备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中概互联大涨近6%：估值弹簧再一次显威（07.09）</title><link>http://xueqiu.com/9391624441/399178406</link><guid>cc495566025a4bdb43cab05ed21b13edf45120d7f2f5ff564b496d1e76e67f41</guid><pubDate>Thu, 09 Jul 2026 10:13:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;两周前，61在《极致割裂》一文中曾提到：中概互联PS跌至1.68，百分位0.50%、PB跌至1.98，百分位0.53%，指数温度跌至0.5°，接近历史极值。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想309 AI硬件：全球共此凉热，量化亦难独善</title><link>http://xueqiu.com/1438190065/399162878</link><guid>7047ec61d265ca0fccf3e2c4afb91b161b7d20c21d8edcb5ac73d956a5b512b8</guid><pubDate>Thu, 09 Jul 2026 10:14:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨天上午大盘在AI硬件的带领下一度是走强的，观察的芯片etf一度从-3%修复至+4%；后来是因为日韩股市的走弱，尤其是三星电子、SK海力士等风向股的跳水，午后又开始走弱，收盘etf微涨。AI硬件，真是全球“共此凉热”。&lt;/p&gt;</description></item><item><title>[今日雪球] 7.8光通信行业信息更新</title><link>http://xueqiu.com/8141527616/399127695</link><guid>7954bd3e55596fdbd3a3ae9e00d295830ed07d07350754688ec39b9b88e88f20</guid><pubDate>Thu, 09 Jul 2026 10:13:41 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;杨爽511&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;明天要去西部光电大会学习学习了，后面停更几天。对于我来说股票回撤是很正常的，我们需要关注的是内在基本面是否发生质的变化，所以今天给大家继续更新一下行业信息。同时记住，我也是会判断错误的，大家做投资决策的时候要结合自己的实际情况独立思考，切忌生搬硬套。&lt;/p&gt;</description></item></channel></rss>
