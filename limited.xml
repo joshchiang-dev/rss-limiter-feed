@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 09 Jul 2026 22:59:31 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹</title><link>https://wallstreetcn.com/articles/3776523</link><guid>e539a20207a12858754fa21fd40dc24fd098c44d5ca03e34fe7e38ba52065df4</guid><pubDate>Thu, 09 Jul 2026 21:48:30 GMT</pubDate><description>&lt;p&gt;尽管美伊爆发军事冲突，但市场将其视为短期的可控升级，认为经济足以吸收冲击。叠加原油价格下跌缓解了通胀与利率担忧，推动美债收益率与美元双双回落。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 09 Jul 2026 23:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹</title><link>https://wallstreetcn.com/articles/3776523</link><guid>e539a20207a12858754fa21fd40dc24fd098c44d5ca03e34fe7e38ba52065df4</guid><pubDate>Thu, 09 Jul 2026 21:48:30 GMT</pubDate><description>&lt;p&gt;尽管美伊爆发军事冲突，但市场将其视为短期的可控升级，认为经济足以吸收冲击。叠加原油价格下跌缓解了通胀与利率担忧，推动美债收益率与美元双双回落。&lt;/p&gt;
 &lt;p&gt;在宏观压力减轻的背景下，风险偏好显著回升，资金重返“AI剧本”并大举逢低买入，市场焦点从地缘政治转向即将到来的财报季，从而带动以芯片和科技股为首的全球股市、黄金及加密货币集体反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;费城半导体指数单日大涨逾3%，美光宣布将在美国投资逾2500亿美元新建产能，SK海力士美国上市认购倍数超过7倍，双重利好提振整个AI产业链。纳斯达克100指数收涨1.6%，标普500指数涨0.8%至7543.66点，道琼斯工业平均指数涨0.3%。&lt;/p&gt;
@@ -382,19 +382,26 @@ AI实验室重组，战略转向闭源收费模式
 混合架构派提出挑战
 &lt;p&gt;并非所有业内人士都认同纯设备端AI的路线。初创公司Argmax等采用混合架构，将语音和图像等处理任务在设备端完成，再将信息上传至云端进行更复杂的推理。&lt;/p&gt;
 &lt;p&gt;混合架构的支持者指出，云端大模型目前仍在以每周更新的速度快速迭代，完全运行在设备端的AI模型将难以享受到最新、最先进云端模型带来的性能红利。这一挑战也是PrismML在商业化路径上需要持续应对的核心问题之一。&lt;/p&gt;
-&lt;p&gt;PrismML表示，公司计划继续将更大规模的模型——包括万亿参数级别的模型——压缩至设备端运行，届时将进入与OpenAI GPT及Anthropic Claude同台竞技的领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 可可价格较3月暴涨100%！杰富瑞：暴雨过后或迎来厄尔尼诺，西非减产危机加剧</title><link>https://wallstreetcn.com/articles/3776579</link><guid>df2876cf7b4ff9e7cdc5c2e52f470bf8a41e9ff32dd6855c405455bbfe323282</guid><pubDate>Thu, 09 Jul 2026 11:10:56 GMT</pubDate><description>&lt;p&gt;可可市场刚刚看到供需修复的曙光，供应端却再度亮起红灯。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;纽约可可期货自3月初以来价格已翻倍，重新逼近每吨6000美元关口。&lt;/strong&gt;杰富瑞（Jefferies）最新研报警告，全球两大可可主产国科特迪瓦和加纳正遭遇一轮异常天气冲击，新产季作物长势明显弱于正常水平。如果天气持续恶化，全球可可市场可能再次从短暂盈余重回供应紧张。&lt;/p&gt;
-&lt;p&gt;市场担忧并非空穴来风。国际可可组织（ICCO）最新数据显示，2024/25年度全球可可市场预计仍将录得约4.8万吨盈余，但较此前预计的7.5万吨明显缩水；与此同时，全球库存消费比虽较上一年度有所修复，却依然低于历史均值，意味着&lt;strong&gt;市场抵御供应冲击的缓冲空间仍十分有限。&lt;/strong&gt;&lt;/p&gt;
-西非产区遭遇&amp;quot;完美风暴&amp;quot;
-&lt;p&gt;杰富瑞分析师Scott Marks指出，&lt;strong&gt;当前西非产区正在经历一轮极不寻常的天气组合。&lt;/strong&gt;自今年3月以来，科特迪瓦和加纳平均气温持续低于过去五年均值约2华氏度，而&lt;strong&gt;进入6月后降雨却大幅超标&lt;/strong&gt;：科特迪瓦降雨量较历史均值高出约46%，加纳则高出约52%。&lt;/p&gt;
-&lt;p&gt;持续阴凉潮湿的天气虽然缓解了高温压力，却为黑果病（Black Pod Disease）和褐腐病（Brown Rot）等真菌病害创造了理想环境。这两类病害是影响可可单产最主要的因素之一，可能导致大量未成熟豆荚腐烂脱落。&lt;/p&gt;
-&lt;p&gt;更令市场担忧的是，新产季已经出现减产迹象。杰富瑞援引行业初步调查称，&lt;strong&gt;科特迪瓦2026/27年度可可作物的花果形成率和豆荚发育均低于正常水平，目前业内已将新季产量预估下调至170万至180万吨，较2025/26年度约220万吨的产量下降约18%。&lt;/strong&gt;&lt;/p&gt;
-全球供需修复仍十分脆弱
-&lt;p&gt;经历连续两年的严重供应短缺后，全球可可市场原本正逐步恢复平衡。&lt;/p&gt;
-&lt;p&gt;ICCO今年5月发布的最新报告预计，2024/25年度全球可可市场将实现约4.8万吨盈余。不过，相较此前预计的7.5万吨盈余，这一数字已明显缩水，显示供应恢复力度不及预期。&lt;/p&gt;
-&lt;p&gt;与此同时，全球可可库存与研磨量之比虽然较2023/24年度有所改善，但仍明显低于历史平均水平。这意味着，&lt;strong&gt;下游库存依旧偏低，一旦主产区出现新的减产，价格仍容易出现剧烈波动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PrismML表示，公司计划继续将更大规模的模型——包括万亿参数级别的模型——压缩至设备端运行，届时将进入与OpenAI GPT及Anthropic Claude同台竞技的领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源</title><link>https://wallstreetcn.com/articles/3776590</link><guid>dae67470249154adba7cb8f643ef4a7804daa39c8cc210860d673c4d24594a87</guid><pubDate>Thu, 09 Jul 2026 13:00:17 GMT</pubDate><description>&lt;p&gt;美国股市估值泡沫警报升级，部分顶级基金经理已开始将资金转向被市场忽视的低估值资产。&lt;/p&gt;
+&lt;p&gt;Panmure Gordon分析师Joachim Klement最新研究显示，&lt;strong&gt;标普500指数的周期调整市盈率（CAPE）经盈利趋势修正后已升至68倍，超越历史上任何时期，意味着美股正同时面临&amp;quot;价格泡沫&amp;quot;与&amp;quot;盈利泡沫&amp;quot;的双重叠加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，韩国Kospi指数7月9日单日暴跌5.4%，从历史高点累计回撤约20%，正式进入技术性熊市，资金加速从韩国芯片股撤出，转向港股科技板块，恒生中国企业指数单日最高涨幅达4.5%，阿里巴巴港股单日涨逾13%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-厄尔尼诺或成为下一重风险
-&lt;p&gt;&lt;strong&gt;除了眼前的强降雨，市场已经开始关注另一项潜在威胁。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;杰富瑞指出，今年晚些时候厄尔尼诺形成的可能性正受到交易员密切关注。&lt;strong&gt;如果厄尔尼诺发展，将可能给西非带来炎热、干燥天气，与当前的湿润环境形成快速切换，对可可树开花、坐果及豆荚成熟造成进一步冲击。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，即使当前由过量降雨引发的病害风险有所缓解，随后到来的干旱天气仍可能削弱新季产量，使全球可可供应再度陷入紧张，并继续支撑可可价格维持高位。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;面对高度集中的美国AI交易和日益上升的崩盘风险，英国资产管理公司Ruffer LLP基金经理Alexander Chartres和Crossing Point Investment Management首席投资官Tomiko Evans等人建议投资者通过布局中国科技股、英国高股息股票及全球能源板块来实现有效分散，而非简单转为现金。&lt;/p&gt;
+美股估值创历史极值，AI集中度风险高企
+&lt;p&gt;美国股市的高估值问题已持续多年，但当前局面或已进入新的极端区间。&lt;/p&gt;
+&lt;p&gt;Klement指出，&lt;strong&gt;标普500指数当前CAPE比率接近2000年互联网泡沫高峰时的44倍水平。&lt;/strong&gt;然而，若进一步修正当前企业盈利同样远高于长期趋势这一事实，&lt;strong&gt;实际CAPE比率将升至68倍，超越有记录以来的任何历史水平&lt;/strong&gt;。换言之，市场不仅在为高价格买单，还在为高于正常水平的盈利买单。&lt;/p&gt;
+&lt;p&gt;推动这一局面的核心驱动力是人工智能。少数科技巨头主导了主要指数的权重，各大企业竞相加码AI基础设施投资，令市场集中度达到历史罕见水平。Fidelity International投资组合经理Ian Samson指出，AI驱动的半导体需求虽然真实且规模庞大，但&amp;quot;背后其实只是由少数几家大型科技公司控制的约1万亿美元资本开支在支撑&amp;quot;，一旦这笔支出放缓，下行风险将迅速显现。&lt;/p&gt;
+&lt;p&gt;泡沫难以精准预判破裂时机，但投资者可以通过充分分散来降低单边暴露风险。&lt;/p&gt;
+转战中国科技：估值洼地叠加AI期权价值
+&lt;p&gt;Chartres认为，美国AI交易吸走大量市场资金，反而令其他板块的相对价值凸显，中国大型科技股便是其中之一。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;如果你想想谁在全球提供云计算服务，基本上就是美国和中国，两个国家各有少数几个名字，&lt;/strong&gt;&amp;quot;Chartres说。&lt;/p&gt;
+&lt;p&gt;他指出，&lt;strong&gt;中国科技公司具备扎实的基本面，收入增长稳健，在AI领域同样拥有充分的&amp;quot;期权价值&amp;quot;，只是受政治风险和国内经济疲软情绪拖累，估值被压制在远低于美国同行的水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一逻辑正在获得市场验证。&lt;/p&gt;
+&lt;p&gt;高盛主题研究团队此前发布报告，&lt;strong&gt;建议客户将仓位从韩国AI交易切换至&amp;quot;中国AI价值链&amp;quot;&lt;/strong&gt;。资金随即加速流入港股科技板块，阿里巴巴港股单日涨幅超过13%。&lt;/p&gt;
+英国高股息股票：远离科技的另一条路
+&lt;p&gt;对于希望彻底回避科技板块的投资者，英国股票提供了一个截然不同的选择。&lt;/p&gt;
+&lt;p&gt;Tomiko Evans在与英国投资公司协会的交流中表示，英国市场的板块构成与全球股票指数差异显著，金融、能源、医疗健康和必需消费品等现金流充裕的行业占比更高，是科技持仓过重的投资组合的良好对冲工具。&lt;/p&gt;
+能源板块：通胀时代的新型对冲工具
+&lt;p&gt;在寻找真正意义上的组合对冲资产时，Chartres指出，通胀波动加剧的环境令债券的对冲功能大打折扣，能源板块则填补了这一空缺。&lt;/p&gt;
+&lt;p&gt;他表示，近期海湾地区局势提醒市场，能源价格飙升往往会同时拖累股票和债券，而化石燃料板块在这种情境下反而受益。&lt;/p&gt;
+&lt;p&gt;他进一步指出，受益范围不仅限于石油巨头，油田服务公司同样可能在各国加大能源基础设施投资的背景下长期受益。&amp;quot;当然，油市可能在相当长时间内保持疲软，&amp;quot;他说，&amp;quot;但这正是分散投资的意义所在。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
