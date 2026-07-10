@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 14:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 15:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
 &lt;p&gt;针对市场对AI投资回报率（ROI）的普遍质疑，Dylan透露，Anthropic已于今年第二季度实现自由现金流转正，年化经常性收入突破500亿美元，&lt;strong&gt;毛利率超过70%&lt;/strong&gt;。在企业端，最新AI模型带来的生产力跃升远超算力成本的增加，促使企业削减其他软件开支以维持爆炸性增长的AI预算。&lt;/p&gt;
 &lt;p&gt;在硬件演进层面，向推理模型的范式转换正在重构市场需求。Dylan强调，&lt;strong&gt;存储面临长达数年的结构性短缺，仍有2至3倍上行空间；&lt;/strong&gt;与此同时，尽管智能体和强化学习推高了CPU需求，但卖方市场对此定价过高，CPU的增长主要来自历史“补账”，其在AI服务器中的绝对价值仍远不及GPU。&lt;/p&gt;
 &lt;p&gt;Dylan认为，备受市场期待的共封装光学（CPO）大规模落地时间，&lt;strong&gt;则被明确推迟至2028年底至2029年，&lt;/strong&gt;意外延长了铜缆连接器的红利期。而电网输配电的受限，正迫使数据中心转向“表后电源”（自建电源），在传统的芯片投资之外，催生出庞大的工业能源和电力转换供应链投资机会。&lt;/p&gt;
@@ -149,7 +149,24 @@ CPU仅是“补账”行情，长期主导仍是AI芯片
 &lt;p&gt;除了发电和输出电，还有转换阶段——如何把电力从生成或传输时的形态转换成芯片真正需要的形态，这背后也是一条整条供应链，涉及IGBT、碳化硅、各种类型的MOSFET、氮化镓（GaN）MOSFET等等，还涉及从12伏到54伏、再到800伏伏直流电的转换路径，以及这背后的转换供应链。固态变压器技术的创新演进会带来什么变化？ 不间断电源（UPS）（UPS，Uninterruptible Power）供应）方面还有什么变化？电池备份、超级电容等各种平滑电力波动的技术方案——如何把那样的“脏电”（剧烈性增大的原始电力）转换成相邻芯片所需要的那种“超净化”，但同时用电需求本身也不稳定的电力？如何匹配这中间存在的差异？整个转换过程中的供应链非常令人期待。&lt;/p&gt;
 &lt;p&gt;我们还专门就 800 伏直流电这个话题写了一篇博客。另外，最近我们也向订阅客户介绍了英伟达在这方面出现的一些延期情况——比如上周 Rubin Ultra 的 Kyber 平台不再支持 800 伏直流方案了。那么这对供应链意味着什么？意味着相关细节会往后推迟一些。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt;Dylan，非常感谢今天的分享，从模型、GPU、CPU、内存、网络，一路讲到数据中心和能源，涉及栈的每一层，而且每一层都在时刻变化。这绝对不是第一次，也一定不是最后一次邀请你来。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 静待SK海力士IPO，美股指开盘涨跌互现，存储股走低，Meta涨5%，布油企稳</title><link>https://wallstreetcn.com/articles/3776623</link><guid>2fc8c6cdc556843a454d060b2002ecba40de825575779ebb591e3b18e870f66b</guid><pubDate>Fri, 10 Jul 2026 13:35:25 GMT</pubDate><description>&lt;p&gt;周末前夕，避险情绪主导市场。当前市场关注点正逐步从地缘政治风险，转向即将到来的下季度财报季，而AI相关资本开支周期能否持续支撑当前高估值，已成为核心叙事。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 花旗：财报季进入“双向大屠杀”，美股财报日波动超10%个股数量飙升</title><link>https://wallstreetcn.com/articles/3776675</link><guid>49bf366c4b4bdeacb3fd178735eecf3a37435d5fd92ac295f0d0f6c6d02dce88</guid><pubDate>Fri, 10 Jul 2026 15:21:47 GMT</pubDate><description>&lt;p&gt;随着美股估值持续处于高位，财报季正演变成一场真正的“双向大屠杀”——业绩超预期不再意味着股价上涨，稍有瑕疵则可能遭遇重罚，市场对企业盈利的容错率已降至低点。&lt;/p&gt;
+&lt;p&gt;花旗数据显示，自2024年以来，&lt;strong&gt;标普500成分股中财报发布当日股价波动超过10%的公司数量显著攀升，多个季度达到30至40家，今年一季度更一度突破60家，远高于过去十年每季度通常仅10至20家的水平&lt;/strong&gt;。这意味着，财报日的大幅波动正逐渐成为美股新常态。&lt;/p&gt;
+&lt;p&gt;更严峻的是，&lt;strong&gt;本轮财报季的盈利门槛也在不断抬升&lt;/strong&gt;。分析师不仅没有像往年一样持续下调盈利预期，反而在整个二季度不断上修预测，使企业几乎失去了传统意义上的&amp;quot;安全垫&amp;quot;。在这样的背景下，仅仅交出一份&amp;quot;超预期&amp;quot;的成绩单，已经不足以说服市场。&lt;/p&gt;
+超预期也可能下跌
+&lt;p&gt;三星电子二季度营业利润同比增长约19倍并超过市场预期，股价却单日大跌7%；百事可乐季度营收高于预期，但股价仍收跌3.3%。与之形成鲜明对比的是，美光科技6月25日公布超预期业绩及指引后，股价单日暴涨逾16%，创下公司历史最佳财报日表现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同样是&amp;quot;超预期&amp;quot;，市场给出的反馈却截然不同，反映出投资者如今更关注业绩质量、未来指引以及估值是否足以支撑股价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据花旗统计，标普500成分股财报日股价波动超过10%的公司数量近年来持续攀升。Nationwide首席市场策略师Mark Hackett表示，过去近两年，这种&lt;strong&gt;财报季高波动几乎持续存在，一个重要原因就是当前市场整体估值较高&lt;/strong&gt;。他表示，只有等财报公布之后，市场才能判断此前的估值是否合理。&lt;/p&gt;
+盈利预期反常上修，企业失去&amp;quot;安全垫&amp;quot;
+&lt;p&gt;相比往年，本轮财报季最大的变化在于盈利预期并未下调。&lt;/p&gt;
+&lt;p&gt;按照惯例，分析师通常会在季度进行过程中逐步下调盈利预测，为企业创造更容易超预期的比较基数。但FactSet数据显示，今年3月31日至6月30日期间，标普500指数自下而上的每股盈利预期反而上调了3.4%；相比之下，过去五年同期平均下调2%，过去十年平均下调2.7%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;也就是说，企业面对的是一个不断抬高的考核标准。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ameriprise首席市场策略师Anthony Saglimbene表示，与上一季度类似，本轮财报季几乎不存在传统意义上的盈利预期缓冲。他认为，&lt;strong&gt;市场如今更看重企业是否能够兑现全年指引、维持利润率，以及管理层对未来的展望，而不仅仅是单季度盈利是否超预期。&lt;/strong&gt;&lt;/p&gt;
+&amp;quot;超预期&amp;quot;已经不是终点
+&lt;p&gt;分析师预计，标普500指数二季度每股盈利同比增长23.3%，高于3月底预计的18.8%；营收预计增长12.2%。&lt;strong&gt;如果最终兑现，这将是标普500连续第二个季度实现超过20%的盈利增长，同时也是2022年二季度以来最快的营收增速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，在如此高的市场预期下，仅仅实现盈利超预期已经越来越难推动股价上涨。&lt;/p&gt;
+&lt;p&gt;Saglimbene认为，&lt;strong&gt;企业需要同时证明利润率依然稳健、全年业绩指引没有恶化，同时盈利增长正在从少数AI和科技龙头扩散至更广泛行业，市场才会愿意给予更高估值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hackett则指出，&lt;strong&gt;即使身处同一行业，不同公司的股价表现也可能出现巨大分化，而这正是当前财报季最大的特点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，他也表示，与此前部分财报季开始前市场已经连续大涨不同，本轮财报季前标普500指数自5月中旬以来整体维持区间震荡，这意味着市场并未提前透支过多乐观预期，也为后续财报行情留下了一定空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 静待SK海力士IPO，美股指开盘涨跌互现，存储股走低，Meta涨5%，布油企稳</title><link>https://wallstreetcn.com/articles/3776623</link><guid>2fc8c6cdc556843a454d060b2002ecba40de825575779ebb591e3b18e870f66b</guid><pubDate>Fri, 10 Jul 2026 13:35:25 GMT</pubDate><description>&lt;p&gt;周末前夕，避险情绪主导市场。当前市场关注点正逐步从地缘政治风险，转向即将到来的下季度财报季，而AI相关资本开支周期能否持续支撑当前高估值，已成为核心叙事。&lt;/p&gt;
 &lt;p&gt;周五，美股三大股指开盘涨跌不一，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。闪迪跌超4%，美光科技跌超3%；Meta涨4.9%；加密货币概念股Circle涨超11%，公司已获美国货币监理署（OCC）批准，可设立国家信托银行。沃达丰大涨12%，尼尔溢价收购阿联酋电信股权。&lt;/p&gt;
 &lt;p&gt;中东局势方面，美伊冲突升级的风险趋于缓和，布伦特原油企稳于每桶76.4美元附近，市场对能源供应大规模中断的担忧已明显消退。现货黄金跌近1%至4090美元。&lt;/p&gt;
 &lt;p&gt;Ameriprise的Anthony Saglimbene认为，未来一个月市场走向将取决于财报季表现。他表示：&amp;quot;企业不能只是超出预期，还需要证明利润率维持在高位，业绩指引稳固甚至优于分析师预期，以及科技股盈利增长仍有足够广度来支撑市场估值。&amp;quot;&lt;/p&gt;
@@ -229,7 +246,14 @@ CPU仅是“补账”行情，长期主导仍是AI芯片
 &lt;p&gt;半导体设备方向，华亚智能跌停，正帆科技、臻宝科技等跌幅超10%。半导体制造端，晶合集成跌超10%，华虹宏力收跌7.65%。北方华创、寒武纪收盘跌幅均超8%，中微公司收跌7.86%，中芯国际收跌5.77%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;光模块龙头同步回落，中际旭创、新易盛收盘分别跌超8%、超4%。AI芯片、动力电池等高权重方向的明显承压，放大了创业板指回落幅度。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Meta AI有望半年内超越谷歌，与OpenAI、Anthropic形成三足鼎立</title><link>https://wallstreetcn.com/articles/3776663</link><guid>5722e96ba1b2569288da42cd0b1971193b8ad945d86a6e2fb627aa62f8399fd7</guid><pubDate>Fri, 10 Jul 2026 11:49:22 GMT</pubDate><description>&lt;p&gt;全球前沿AI竞争格局正在经历一次深刻重塑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普500被“抛弃”！美股散户净流入跌至疫情后新低：不买大盘，只赌热点</title><link>https://wallstreetcn.com/articles/3776673</link><guid>d5b32145781c4386aae32d9d996fcb68ffc9dc0d688b1cc1ab9e4f387a6b2b51</guid><pubDate>Fri, 10 Jul 2026 15:21:36 GMT</pubDate><description>&lt;p&gt;散户投资者正在从美股市场的坚定支持者转变为谨慎的主题猎手，其对大盘的整体押注意愿降至疫情以来最低水平。&lt;/p&gt;
+&lt;p&gt;据Vanda Research数据，&lt;strong&gt;过去四周散户资金净流入美股仅剩130亿美元，为疫情以来的最低值。&lt;/strong&gt;这一数字背后，是散户买入与卖出行为趋于均衡——他们以几乎同等的力度买进又卖出，而非像过去几年那样持续净增仓。&lt;/p&gt;
+&lt;p&gt;这一转变对市场情绪具有重要指示意义。散户群体曾是本十年美股上涨的重要推手，其信心的消退意味着支撑大盘的一股关键力量正在弱化。不过，分析人士指出，&lt;strong&gt;这并不必然预示美股整体下行，而更多反映出散户正从&amp;quot;买大盘&amp;quot;转向&amp;quot;追主题&amp;quot;的行为模式切换。&lt;/strong&gt;&lt;/p&gt;
+散户热情降温，主题轮动中等待回调入场
+&lt;p&gt;Vanda Research全球宏观策略师Viraj Patel表示，&amp;quot;一个更具选择性的散户投资者，正在加入同样高度选择性的机构投资者行列——&lt;strong&gt;2026年真正成了选股者的天下&lt;/strong&gt;。&amp;quot;&lt;/p&gt;
+&lt;p&gt;今年以来，&lt;strong&gt;散户的资金轨迹清晰呈现出主题轮动特征&lt;/strong&gt;：先是能源股和白银相关公司因工业需求激增与供应短缺而受到追捧，随后软件板块短暂成为焦点，之后又被半导体取代。6月SpaceX上市后，散户迅速涌入马斯克旗下这家集火箭、卫星与人工智能业务于一体的公司，以及其他航天概念股。&lt;/p&gt;
+&lt;p&gt;美国个人投资者协会（AAII）的情绪调查数据印证了上述判断。&lt;strong&gt;自2月中旬以来，看空者在绝大多数周内均多于看多者，仅有四周例外。&lt;/strong&gt;截至7月8日当周，37%的受访者表示未来六个月对股市持悲观态度，而持乐观态度的比例为36%。&lt;/p&gt;
+&lt;p&gt;eToro美国投资分析师Bret Kenwell认为，&lt;strong&gt;散户参与意愿的潜在降温，既源于对大盘整体走势的担忧，也与科技股在今年大幅上涨后估值偏高有关。&lt;/strong&gt;&amp;quot;芯片股在二季度大涨后正处于整固阶段，散户可能不愿在他们认为短期已被高估的板块追加新资金，&amp;quot;他说，&amp;quot;如果投资者确实在观望，他们或许只是在等待当前的回调或整固阶段结束后再重新入场。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Meta AI有望半年内超越谷歌，与OpenAI、Anthropic形成三足鼎立</title><link>https://wallstreetcn.com/articles/3776663</link><guid>5722e96ba1b2569288da42cd0b1971193b8ad945d86a6e2fb627aa62f8399fd7</guid><pubDate>Fri, 10 Jul 2026 11:49:22 GMT</pubDate><description>&lt;p&gt;全球前沿AI竞争格局正在经历一次深刻重塑。&lt;/p&gt;
 &lt;p&gt;研究机构SemiAnalysis最新报告指出，&lt;strong&gt;经过一年的激进资本投入与架构重组，Meta旗下的Meta Superintelligence（MSL）有望在未来六个月内在前沿AI能力排名上超越谷歌。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，Anthropic凭借Claude Code在企业市场的爆发式增长，已确立起盈利能力与增速的双重领先优势，并于6月秘密提交IPO申请。&lt;strong&gt;AI行业的权力格局，正从谷歌与OpenAI的双雄对峙，向Meta、OpenAI、Anthropic三足鼎立的新秩序演进。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在市场层面，上述动态已引发即时反应。Meta股价当日上涨约4%，而Alphabet股价下跌约1%，折射出市场对谷歌在AI竞赛中地位的日益担忧。与此同时，马斯克在社交平台X上公开表示，Anthropic&amp;quot;显然&amp;quot;是当前AI领域的领跑者，为这场竞争格局的讨论再添变量。&lt;/p&gt;
@@ -391,60 +415,7 @@ PCE统计方法悄然调整，高盛瑞银警示通胀读数将被压低
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;从时间线来看，而工作组的落地，似乎印证了这一叙事的内在逻辑——人事布局已然完成，框架调整和通胀数据的重新诠释正在同步推进。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;通胀框架工作组将重新审视美联储分析通胀的方法论，经济数据工作组将研究如何提升指标质量，生产率与就业工作组则将为供给侧新框架提供学术支撑。三者合力，构成了为降息铺路的完整闭环。&lt;/p&gt;
-&lt;p&gt;沃什表示，美国经济&amp;quot;在过去一代人的时间里发生了巨大变化，而且当下的变化速度前所未有&amp;quot;，美联储有必要重新检视自身的政策工具和分析方法。各工作组将于年底前提交研究报告，届时政策框架调整的轮廓将进一步清晰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中远海控2026年半年度归母净利润预测与全年展望！</title><link>http://xueqiu.com/5742821612/399404145</link><guid>1d8a31ea0e6bf4433b85bda83e63f84af5fa6afdd70a221ffca04d65101481cf</guid><pubDate>Fri, 10 Jul 2026 10:03:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;养叔的猫&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;看到很多企业都发布了半年报预增公告，几乎都是大增的行情，尤其科技版块，几百上千甚至过万的百分比。猫叔重仓中远海控，不由得有些羡慕。距离海控半年报还有一个多月，二季度已经结束，就来一版猫叔的中远海控2026年半年报的预增吧。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 看好太空数据中心，高盛大幅上调低轨卫星装机预测：2031年暴增至30万颗，乐观情景冲到40万</title><link>https://wallstreetcn.com/articles/3776671</link><guid>835e3ddbc554c214c8323c2f1d7425607b73085322c92e3aabfe498a1cb9d2aa</guid><pubDate>Fri, 10 Jul 2026 14:03:59 GMT</pubDate><description>&lt;p&gt;从火箭制造、卫星硬件到地面终端设备——正站在一个历史性规模扩张的拐点上。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛周二发布最新全球科技研报，&lt;strong&gt;将2031年低地球轨道（LEO）卫星基准装机量预测从4.2万颗大幅上调至30.5万颗，涨幅逾634%。这一罕见幅度的预测修正，标志着华尔街对LEO卫星产业规模的重新定价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;推动上调的核心逻辑并非卫星互联网需求的线性延伸，而是一个全新应用场景的纳入：太空数据中心。&lt;/p&gt;
-&lt;p&gt;高盛预计，&lt;strong&gt;2029年后太空数据中心将取代卫星互联网，成为全球LEO装机量增长的主引擎，届时其占比将从零跃升至63%，并在2031年进一步升至79%。与&lt;/strong&gt;此同时，中国卫星运营商的大规模入场也被列为不可忽视的结构性变量。&lt;/p&gt;
-
-预测大幅上调：2029年后装机量呈指数级跃升
-
-&lt;p&gt;高盛于2025年2月首次发布LEO卫星行业预测。&lt;/p&gt;
-&lt;p&gt;此次报告显示，2025年底全球LEO卫星实际装机量约为9,982颗，略高于此前9,700颗的预测，发射进度已超出初始预期。&lt;/p&gt;
-&lt;p&gt;新旧预测的分歧在近期并不显著，但随时间推移急剧扩大。&lt;/p&gt;
-&lt;p&gt;2026年新预测为13,088颗，仅较旧预测12,000颗高出约9%；2028年新预测为23,796颗，较旧预测19,000颗高出约25%。&lt;strong&gt;真正的断层出现在2029年——新预测骤升至90,042颗，同比增幅达278%，2030年进一步升至164,244颗，2031年则达到305,293颗，较旧预测的42,000颗高出整整634%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛明确指出，新旧预测之间的巨大差距，&lt;strong&gt;核心来源是将太空数据中心纳入了卫星应用场景的预测体系&lt;/strong&gt;。这一新增维度从根本上改变了行业装机量的增长曲线形态。&lt;/p&gt;
-
-太空数据中心：2029年后的最大增量引擎
-
-&lt;p&gt;按应用场景拆分，高盛的预测揭示了一个关键的结构性转变。&lt;/p&gt;
-&lt;p&gt;2025年至2028年，全球LEO装机量增量100%来自卫星互联网；进入2029年，太空数据中心的占比骤升至63%，卫星互联网降至37%；到2031年，太空数据中心占比进一步升至79%，基准情景装机量达241,486颗，而卫星互联网装机量仅为63,807颗。&lt;/p&gt;
-&lt;p&gt;高盛在报告中阐述了太空数据中心的核心吸引力：可无限获取低成本太阳能供电，并具备边缘计算能力，可直接处理卫星数据。&lt;/p&gt;
-&lt;p&gt;不过，高盛也承认，太空数据中心的技术可行性仍有待验证。这意味着，2029年后装机量预测能否兑现，在相当程度上取决于这一全新商业模式能否完成从概念到规模化落地的跨越，构成整份预测最大的不确定因素。&lt;/p&gt;
-
-蓝天情景：中国星座若如期推进，2031年可达39.6万颗
-
-&lt;p&gt;高盛同步提出了乐观的&amp;quot;蓝天情景&amp;quot;，核心假设包括：火箭运力好于预期、卫星通信商业化提速，以及中国厂商提交的20万颗LEO星座计划得以长期实现。&lt;/p&gt;
-&lt;p&gt;蓝天情景下，2031年全球LEO装机量可达395,624颗，较基准情景305,293颗高出约30%。&lt;/p&gt;
-&lt;p&gt;两种情景之间最大的差异来源于中国：&lt;strong&gt;基准情景下，中国2031年装机量为23,750颗，占全球8%；蓝天情景下，这一数字跃升至101,148颗，占全球26%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至2025年底，中国卫星运营商实际在轨运营卫星仅有253颗，但其已集体向国际电信联盟（ITU）提交逾20万颗中低轨卫星的申请。&lt;/p&gt;
-&lt;p&gt;高盛将此解读为抢占频谱和轨道资源的战略性举措，而非短期内必然实现的发射计划。&lt;/p&gt;
-
-火箭技术：装机量能否兑现的核心变量
-
-&lt;p&gt;高盛将火箭技术进步列为整个预测能否落地的关键约束条件，并从发射频率、运力提升和可复用技术三个维度展开分析。&lt;/p&gt;
-&lt;p&gt;在发射频率方面，领先运营商Starlink在2025年已实现平均每三天发射一次的节奏；2026年4月，SpaceX更创下19小时内连续发射两枚火箭的纪录，表明效率仍有进一步提升空间。&lt;/p&gt;
-&lt;p&gt;在运力方面，当前主流可复用火箭的LEO载荷约为17,500公斤，下一代火箭载荷将达100至150吨，运力提升幅度约6至9倍。&lt;/p&gt;
-&lt;p&gt;对中国而言，国产可复用火箭的突破是LEO卫星加速扩张的关键里程碑。目前进展包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;长征十号（LM-10）&lt;/strong&gt;：2026年2月成功完成一级软着陆海上溅落测试，7月10号完成一级火箭网系回收；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;朱雀三号（Zhuque-3）&lt;/strong&gt;：2025年12月测试飞行部分成功，2026年第二季度将进行回收测试飞行；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;双曲线三号（Hyperbola-3）&lt;/strong&gt;：计划于2026年底前完成首次发射；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PALLAS-1&lt;/strong&gt;：银河航天可复用火箭，计划2026年完成首次发射。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克曝光SpaceX最新蓝图：明年发射首批AI卫星、五年登陆火星、十年送上万人上月球</title><link>https://wallstreetcn.com/articles/3776668</link><guid>267737c24fb89735b027f326dc85abd5fd6fa1481c6d010c1fb823fe72b40030</guid><pubDate>Fri, 10 Jul 2026 13:42:58 GMT</pubDate><description>&lt;p&gt;马斯克在最新访谈中向市场描绘了SpaceX未来十年的商业想象空间：不&lt;strong&gt;仅计划在两年内部署“太空AI数据中心”以打破地球算力瓶颈，更立下了最快三年内登月、五年内登陆火星的激进时间表。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;沃什表示，美国经济&amp;quot;在过去一代人的时间里发生了巨大变化，而且当下的变化速度前所未有&amp;quot;，美联储有必要重新检视自身的政策工具和分析方法。各工作组将于年底前提交研究报告，届时政策框架调整的轮廓将进一步清晰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中远海控2026年半年度归母净利润预测与全年展望！</title><link>http://xueqiu.com/5742821612/399404145</link><guid>1d8a31ea0e6bf4433b85bda83e63f84af5fa6afdd70a221ffca04d65101481cf</guid><pubDate>Fri, 10 Jul 2026 10:03:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;养叔的猫&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;看到很多企业都发布了半年报预增公告，几乎都是大增的行情，尤其科技版块，几百上千甚至过万的百分比。猫叔重仓中远海控，不由得有些羡慕。距离海控半年报还有一个多月，二季度已经结束，就来一版猫叔的中远海控2026年半年报的预增吧。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克曝光SpaceX最新蓝图：明年发射首批AI卫星、五年登陆火星、十年送上万人上月球</title><link>https://wallstreetcn.com/articles/3776668</link><guid>267737c24fb89735b027f326dc85abd5fd6fa1481c6d010c1fb823fe72b40030</guid><pubDate>Fri, 10 Jul 2026 13:42:58 GMT</pubDate><description>&lt;p&gt;马斯克在最新访谈中向市场描绘了SpaceX未来十年的商业想象空间：不&lt;strong&gt;仅计划在两年内部署“太空AI数据中心”以打破地球算力瓶颈，更立下了最快三年内登月、五年内登陆火星的激进时间表。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;近日，在一档由得克萨斯州州长格雷格·阿博特（Greg Abbott）客串主持的《肖恩·汉尼提秀》（Sean Hannity Show）访谈节目中，SpaceX创始人埃隆·马斯克详尽披露了公司的最新运营数据、商业布局以及未来十年的深空探索愿景。&lt;/p&gt;
 &lt;p&gt;作为目前全球估值最高的非上市公司之一，SpaceX的实际业务规模一直是市场关注的焦点。马斯克在访谈开场便用一组绝对数据亮出了SpaceX的行业垄断地位。&lt;strong&gt;“目前，SpaceX将地球上约85%的载荷送入轨道。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;除了为全球提供高带宽、低延迟的星链（Starlink）网络，以及作为NASA唯一认证的美国商业载人航天供应商，马斯克向投资者展示了一个比传统卫星发射更为宏大且具颠覆性的商业故事。&lt;/p&gt;
@@ -464,13 +435,4 @@ PCE统计方法悄然调整，高盛瑞银警示通胀读数将被压低
 &lt;p&gt;“如果一切顺利，我们可能会在2到3年内把第一批宇航员送上月球，然后从那里开始迅速扩张。&lt;strong&gt;大概10年后，月球上就会有成千上万的人&lt;/strong&gt;。”&lt;/p&gt;
 &lt;p&gt;他的愿景并非建立一个简单的科考站，而是一座功能完备的城市：“最终我们要把成千上万吨的物资运到月球，实际上就是在月球上建一座城市。人们不仅可以永久定居，甚至可以去度假。想象一下，‘亲爱的，今年我们别去新加坡了，我们去月球吧！’这将是一趟绝佳的蜜月之旅。”&lt;/p&gt;
 &lt;p&gt;对于难度远超月球的火星殖民，&lt;strong&gt;马斯克坦言由于地球和火星每26个月才会有一次合适的发射窗口，且单程需要6个月，这极大地增加了挑战。&lt;/strong&gt;但SpaceX依然设定了紧凑的时间线。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破两年沉寂！分析师连续10周上调欧股盈利预测，创2024年以来最快速度</title><link>https://wallstreetcn.com/articles/3776669</link><guid>be7593792bad488efc7241f1982d9c047c167c8d1f89f887859a1258b1dcbd5c</guid><pubDate>Fri, 10 Jul 2026 14:03:51 GMT</pubDate><description>&lt;p&gt;欧洲股市上涨正迎来新的基本面支撑。&lt;/p&gt;
-&lt;p&gt;在经历近两年的盈利预期持续下修后，欧洲企业盈利展望出现明显改善。花旗集团追踪的盈利预期修正指标显示，&lt;strong&gt;分析师上调欧洲企业盈利预测的次数已连续第十周超过下调，为近两年来最长的一轮净上修。&lt;/strong&gt;与此同时，彭博智库预计，&lt;strong&gt;欧洲企业今年二季度盈利同比增长12%，将创三年多来最快增速。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;盈利预期改善也促使机构进一步上调目标。摩根士丹利将MSCI欧洲指数2026年盈利增速预测上调至12.5%，并预计该指数未来12个月仍有约10%的上涨空间。资金面同样出现回暖，截至7月8日当周，&lt;strong&gt;欧洲股票基金录得约4亿美元净流入，显示全球资金正重新关注欧洲资产。&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;盈利预期连升十周，欧洲股市反弹根基待考&lt;/strong&gt;
-&lt;p&gt;在经历近两年几乎不间断的下调后，欧洲企业盈利预期的修正方向出现实质性逆转。据花旗基于彭博数据的统计，欧洲盈利预期已连续十周获净上调，创2024年中以来最长连升纪录。&lt;/p&gt;
-&lt;p&gt;不过，彭博同时提醒，两年前类似的上调曾在财报季启动前数周戛然而止，并迅速转为下行，这一先例令市场对当前趋势的可持续性存疑。&lt;/p&gt;
-&lt;p&gt;更为关键的是，预期本身正成为风险源。&lt;strong&gt;当前市场对盈利增速的计价已处于高位，一旦实际财报表现不及预期，股价回调压力将随之放大。&lt;/strong&gt;从行业结构看，能源板块受益于油价维持相对高位，利润端有望获得支撑；银行业则被视作欧洲AI应用浪潮的早期受益方向，预计盈利韧性将继续显现。&lt;/p&gt;
-&lt;p&gt;资管机构Natalia Milovets基金经理Marina Zavolock认为，市场对欧洲企业盈利存在系统性误判。&lt;strong&gt;“通胀环境、AI渗透以及全球收入多元化布局，正共同构成欧洲企业盈利的结构性支撑，”她表示，“这些因素尚未被充分定价，为欧洲股市进一步上行留有空间。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场表现层面，自今年3月以来持续跑输美股后，欧洲斯托克600指数于上月实现反超，跑赢标普500指数。背后催化因素之一，是美伊临时和平协议一度缓和了地缘风险溢价；尽管近期地缘风险再度升温，但当前油价水平仍显著低于冲突高峰时期。&lt;/p&gt;
-&lt;p&gt;贝莱德基本面股票国际首席投资官Helen Jewell指出：&lt;strong&gt;“欧洲当前更适合作为组合中的分散化工具。AI主题持仓已高度集中，而欧洲市场的行业广度可有效对冲此类拥挤风险。从盈利趋势和企业韧性来看，欧洲并不处于劣势。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF申赎统计2026-07-10</title><link>http://xueqiu.com/3559889031/399386770</link><guid>f4174c5eac47d70577140ae64b2165c1ab3fe77d45b1a1e694825861a6e95008</guid><pubDate>Fri, 10 Jul 2026 10:02:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;即使周四如此大涨，宽基ETF还是净流入。不一样，真是不一样了。&lt;/p&gt;</description></item><item><title>[今日雪球] 以股息为锚</title><link>http://xueqiu.com/7913104177/399392312</link><guid>b12eff1d0b8bb3608961cecde7868a99fa8a4acca666e6901bb65a73cdc7c428</guid><pubDate>Fri, 10 Jul 2026 10:02:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;         语文可以瞎编，英语可以运气，数学不会就是不会。下跌害怕就是害怕，不害怕就是不害怕。下跌是检验认知企业最好的试金石，也是对自己投资体系的压力测试。价值投资是勉强不来的，我说对多数人低买高卖才是最匹配的投资方式。不是说这样做更容易赚钱，而是这样赔钱后更容易接受。七亏二平一赢，结局早就注定。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF申赎统计2026-07-10</title><link>http://xueqiu.com/3559889031/399386770</link><guid>f4174c5eac47d70577140ae64b2165c1ab3fe77d45b1a1e694825861a6e95008</guid><pubDate>Fri, 10 Jul 2026 10:02:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;即使周四如此大涨，宽基ETF还是净流入。不一样，真是不一样了。&lt;/p&gt;</description></item><item><title>[今日雪球] 以股息为锚</title><link>http://xueqiu.com/7913104177/399392312</link><guid>b12eff1d0b8bb3608961cecde7868a99fa8a4acca666e6901bb65a73cdc7c428</guid><pubDate>Fri, 10 Jul 2026 10:02:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;         语文可以瞎编，英语可以运气，数学不会就是不会。下跌害怕就是害怕，不害怕就是不害怕。下跌是检验认知企业最好的试金石，也是对自己投资体系的压力测试。价值投资是勉强不来的，我说对多数人低买高卖才是最匹配的投资方式。不是说这样做更容易赚钱，而是这样赔钱后更容易接受。七亏二平一赢，结局早就注定。&lt;/p&gt;</description></item></channel></rss>
