@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 18:29:31 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 18:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
 &lt;p&gt;针对市场对AI投资回报率（ROI）的普遍质疑，Dylan透露，Anthropic已于今年第二季度实现自由现金流转正，年化经常性收入突破500亿美元，&lt;strong&gt;毛利率超过70%&lt;/strong&gt;。在企业端，最新AI模型带来的生产力跃升远超算力成本的增加，促使企业削减其他软件开支以维持爆炸性增长的AI预算。&lt;/p&gt;
 &lt;p&gt;在硬件演进层面，向推理模型的范式转换正在重构市场需求。Dylan强调，&lt;strong&gt;存储面临长达数年的结构性短缺，仍有2至3倍上行空间；&lt;/strong&gt;与此同时，尽管智能体和强化学习推高了CPU需求，但卖方市场对此定价过高，CPU的增长主要来自历史“补账”，其在AI服务器中的绝对价值仍远不及GPU。&lt;/p&gt;
 &lt;p&gt;Dylan认为，备受市场期待的共封装光学（CPO）大规模落地时间，&lt;strong&gt;则被明确推迟至2028年底至2029年，&lt;/strong&gt;意外延长了铜缆连接器的红利期。而电网输配电的受限，正迫使数据中心转向“表后电源”（自建电源），在传统的芯片投资之外，催生出庞大的工业能源和电力转换供应链投资机会。&lt;/p&gt;
@@ -368,7 +368,62 @@ AI服务器推高存储消耗，供需缺口扩大
 &lt;p&gt;Vanda Research全球宏观策略师Viraj Patel表示，&amp;quot;一个更具选择性的散户投资者，正在加入同样高度选择性的机构投资者行列——&lt;strong&gt;2026年真正成了选股者的天下&lt;/strong&gt;。&amp;quot;&lt;/p&gt;
 &lt;p&gt;今年以来，&lt;strong&gt;散户的资金轨迹清晰呈现出主题轮动特征&lt;/strong&gt;：先是能源股和白银相关公司因工业需求激增与供应短缺而受到追捧，随后软件板块短暂成为焦点，之后又被半导体取代。6月SpaceX上市后，散户迅速涌入马斯克旗下这家集火箭、卫星与人工智能业务于一体的公司，以及其他航天概念股。&lt;/p&gt;
 &lt;p&gt;美国个人投资者协会（AAII）的情绪调查数据印证了上述判断。&lt;strong&gt;自2月中旬以来，看空者在绝大多数周内均多于看多者，仅有四周例外。&lt;/strong&gt;截至7月8日当周，37%的受访者表示未来六个月对股市持悲观态度，而持乐观态度的比例为36%。&lt;/p&gt;
-&lt;p&gt;eToro美国投资分析师Bret Kenwell认为，&lt;strong&gt;散户参与意愿的潜在降温，既源于对大盘整体走势的担忧，也与科技股在今年大幅上涨后估值偏高有关。&lt;/strong&gt;&amp;quot;芯片股在二季度大涨后正处于整固阶段，散户可能不愿在他们认为短期已被高估的板块追加新资金，&amp;quot;他说，&amp;quot;如果投资者确实在观望，他们或许只是在等待当前的回调或整固阶段结束后再重新入场。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta内部备忘录曝光：与闪迪、三星、住友电工签长期供货协议，2027年算力翻倍</title><link>https://wallstreetcn.com/articles/3776647</link><guid>b0c0c9d4467c9aff6d2f72c57892f200e5707c25810cc33a9cd0fd7e12c23e6e</guid><pubDate>Fri, 10 Jul 2026 07:26:24 GMT</pubDate><description>&lt;p&gt;一份流出的Meta内部备忘录，将这家科技巨头的AI基础设施扩张计划完整呈现在市场面前，并在周四引发供应链相关个股的大幅波动。&lt;/p&gt;
+&lt;p&gt;eToro美国投资分析师Bret Kenwell认为，&lt;strong&gt;散户参与意愿的潜在降温，既源于对大盘整体走势的担忧，也与科技股在今年大幅上涨后估值偏高有关。&lt;/strong&gt;&amp;quot;芯片股在二季度大涨后正处于整固阶段，散户可能不愿在他们认为短期已被高估的板块追加新资金，&amp;quot;他说，&amp;quot;如果投资者确实在观望，他们或许只是在等待当前的回调或整固阶段结束后再重新入场。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出"内存即服务"新模式</title><link>https://wallstreetcn.com/articles/3776682</link><guid>662859dc56917ae1bc5c66497d011fd493dac5d199cb6c77744d8d43331616a0</guid><pubDate>Fri, 10 Jul 2026 18:34:19 GMT</pubDate><description>&lt;p&gt;SK海力士本周完成了外资企业在美最大规模首次公开发行，募资265亿美元，并已超越阿里巴巴跻身史上第三大IPO。&lt;/p&gt;
+&lt;p&gt;SK集团董事长崔泰源（Chey Tae-won）在接受彭博电视采访时表示，若回报表现良好、股价保持稳定，SK海力士有意发行更多美国存托凭证（ADR）。他还透露，SK集团在美投资规模将远超目前已公布的350亿美元，并将&amp;quot;大得多、大得多&amp;quot;。&lt;/p&gt;
+&lt;p&gt;崔泰源还提出了&amp;quot;内存即服务&amp;quot;的新商业模式构想，即允许客户租用内存芯片使用权，而非直接购买实体半导体，以此突破内存容量瓶颈。这一模式若落地，或将重塑芯片企业的商业逻辑。&lt;/p&gt;
+&lt;p&gt;同日SK海力士CEO郭鲁正（Kwak Noh-Jung）在接受采访时表示，存储芯片供应短缺可能会持续至2030年之后。&lt;/p&gt;
+&lt;p&gt;SK海力士的ADR在首日开盘较发行价高出约14%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+美国投资布局超越350亿美元，规模远不止于此
+
+&lt;p&gt;在融资完成之际，崔泰源进一步透露了SK集团更宏大的美国投资计划。&lt;/p&gt;
+&lt;p&gt;他表示，SK集团目前已在美投入逾350亿美元，涵盖电池业务和印第安纳州的半导体新厂，但这仅是起点。&amp;quot;我的计划规模要大得多，远远大于350亿美元，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;此次大规模融资被外界视为SK海力士双重战略意图的体现：一方面补充资本金以支撑扩产，另一方面提升在全球投资者中的知名度与吸引力。崔泰源表示，若回报持续改善、股价保持稳健，公司在长期仍存在进一步扩大ADR发行的可能。&lt;/p&gt;
+
+&amp;quot;内存即服务&amp;quot;：新商业模式浮出水面
+
+&lt;p&gt;崔泰源在本次采访中提出了一种新的商业模式构想——&amp;quot;内存即服务&amp;quot;（Memory as a Service）。他表示，SK海力士有可能转型为&amp;quot;内存服务商&amp;quot;，客户未来或可通过支付使用费租用内存资源，而非购买实体芯片。&lt;/p&gt;
+&lt;p&gt;崔泰源并未详述该模式的具体实施路径，但指出需要新的软件支撑。这一构想与科技行业已验证的&amp;quot;软件即服务&amp;quot;（SaaS）及云计算付费模式存在逻辑相通之处。&lt;/p&gt;
+&lt;p&gt;他表示，推出此类服务的核心目标在于解决内存容量的瓶颈问题，&amp;quot;我们必须解决它&amp;quot;。&lt;/p&gt;
+
+AI浪潮推高需求，内存短缺蔓延至消费端
+
+&lt;p&gt;崔泰源在采访中直言：&amp;quot;这是AI的时代，AI时代大幅推高了对内存的需求。&amp;quot;超大规模数据中心运营商对内存芯片的集中采购，已导致面向智能手机、消费电子及电动汽车的芯片价格显著攀升。&lt;/p&gt;
+&lt;p&gt;苹果上月以内存成本飙升为由，对全线Mac、iPad、家用设备及Vision Pro头显产品进行了提价。&lt;/p&gt;
+&lt;p&gt;为赶上需求增速，三家头部内存芯片企业均在加快产能投入。SK海力士与三星上周联合宣布，将合计投入800万亿韩元（约合5310亿美元）新建芯片工厂，作为韩国计划在五年内将内存产能翻番的整体方案的一部分。&lt;/p&gt;
+&lt;strong&gt;3%溢价释放何种信号？市场人士看法分歧&lt;/strong&gt;
+&lt;p&gt;据媒体报道，本次发行吸引约7倍超额认购，最终以较韩国本地股周四收盘价约3%的溢价定价，主承销商被迫对包括主要机构在内的大量投资者削减配售份额。&lt;/p&gt;
+&lt;p&gt;围绕3%的定价溢价，市场各方解读不一，但整体偏向积极。&lt;/p&gt;
+&lt;p&gt;Fibonacci Asset Management首席执行官Jung In Yun表示，3%溢价释放了建设性信号，说明全球投资者仍愿意为直接获取美国市场敞口支付溢价，即便近期韩国股市波动加剧。&lt;/p&gt;
+&lt;p&gt;Clepsydra Capital创始人Sanghyun Park则指出，该溢价反映出全球基金愿意为绕开本地指数限制与汇率摩擦、直接获取SK海力士HBM主导地位而付出代价。他认为，3%仅是初始底部，由于流通盘受到严格限制，&amp;quot;一旦美股开盘，溢价差距很可能会走得更高&amp;quot;。&lt;/p&gt;
+&lt;p&gt;独立特殊情境分析师、Smartkarma撰稿人Travis Lundy则持更为克制的态度。他指出，考虑到持有SK海力士本地股的当前掉期利率，3%&amp;quot;并不算太高，完全合理&amp;quot;。他还补充称，若溢价空间扩大，将缓解承销行通过掉期融资本地仓位的压力，进而带动掉期利率下行，最终小幅压缩ADR溢价。&lt;/p&gt;
+&lt;p&gt;Pepperstone Group策略师Dilin Wu表示，3%溢价是路演需求强劲的首个具体证明，真正的考验在于未来两周能否在财报公布前持续高于韩国股份的美元等值价格——若能做到，将确认美国投资者愿为可及性支付溢价，并有望带动韩国本地股跟涨。&lt;/p&gt;
+&lt;p&gt;她还指出，SK海力士ADR有望于12月纳入纳斯达克100指数，一旦纳入，来自Invesco QQQ等被动工具的资金流入将成为机械性买入力量。&lt;/p&gt;
+&lt;p&gt;Rex Financial亚洲业务拓展负责人Francis Oh则提示，&amp;quot;目前3%的溢价不宜在此早期阶段过度解读&amp;quot;，并以台积电ADR高达18%的溢价为参照——&amp;quot;台积电的溢价反映的是多年积累的结构性摩擦，而非上市后立即形成的水平&amp;quot;，SK海力士ADR向类似水平的收敛或扩散，更可能是一个渐进过程。&lt;/p&gt;
+&lt;strong&gt;杠杆ETF浪潮蓄势待发，波动或进一步放大&lt;/strong&gt;
+&lt;p&gt;SK海力士ADR的美股上市预计将催生新一波与其挂钩的杠杆ETF产品，ProShares、Leverage Shares及Rex Shares等机构正筹备推出提供2倍每日收益的相关产品。&lt;/p&gt;
+&lt;p&gt;新增杠杆型美国上市ETP将意味着每日再平衡流量进一步扩大，可能加剧本已高企的市场波动。&lt;/p&gt;
+&lt;p&gt;与此同时，此类杠杆产品规模越大，实现每日双倍收益承诺的难度越高，追踪误差问题亦不容忽视。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财相"点名"1.8万亿GPIF引发日元脉冲跳涨，高盛泼冷水：不过是"过度反应"</title><link>https://wallstreetcn.com/articles/3776683</link><guid>ab33c652bfb2bc1a982dd519f053f1da03b572579b759b2f021aedad67b7686c</guid><pubDate>Fri, 10 Jul 2026 18:54:53 GMT</pubDate><description>&lt;p&gt;日本财务大臣Satsuki Katayama周五在例行记者会上明确呼吁，包括全球最大养老基金之一GPIF在内的养老金机构应增加对日本国内金融资产的投资。这一提前准备的发言令市场措手不及，日元兑美元短线急涨至161.29，日本国债收益率曲线整体下行约10个基点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Katayama的发言事先有所准备——据彭博社引述知情人士称，其关于GPIF的评论是提前准备好的。目前尚无法确认该表态是否属于一种变相的口头干预，但从即时效果来看，其对日元汇率的冲击力超过了日本央行近期的加息以及持续的汇率口头引导。&lt;/p&gt;
+&lt;p&gt;GPIF管理的资产高达293.6万亿日元（约合1.81万亿美元），约半数资产配置于海外。任何实质性增持国内资产的转向，都意味着抛售外币、买入日元，从而在交易层面直接推升日元需求。然而，华尔街大行的冷静分析正在迅速给市场的乐观情绪降温。&lt;/p&gt;
+一场事先准备的&amp;quot;喊话&amp;quot;
+&lt;p&gt;Katayama的表态是在回应记者关于政府投资计划的提问时作出的。她表示：&amp;quot;当务之急是鼓励家庭以及包括GPIF在内的养老基金增加对日本金融资产的投资。我们打算推行支持这一目标的政策。&amp;quot;&lt;/p&gt;
+&lt;p&gt;该发言的背景是，日本首相高市早苗上月公布了一项长达14年、总额370万亿日元的经济投资计划，其中超过四分之一专项用于人工智能和芯片领域。Katayama强调，政府希望&amp;quot;确保公众能直接从日本经济增长中受益&amp;quot;。&lt;/p&gt;
+&lt;p&gt;值得注意的是，高市政府以支持宽松货币政策著称。其经济政策纲领早期草案曾引发市场对政府试图影响日本央行独立性的担忧，随后进行了多处修改以平息疑虑。Katayama周五也明确表示，货币政策应由日本央行独立处理。&lt;/p&gt;
+日元急涨后：高盛与道富齐声质疑持续性
+&lt;p&gt;日元在Katayama发言后一度升至161.29，随后回吐部分涨幅。日本国债则全线反弹，曲线中段以上收益率下行5至11.5个基点。&lt;/p&gt;
+&lt;p&gt;然而，高盛在发给客户的报告中直言，这一债市反弹是&amp;quot;过度反应&amp;quot;。该行指出，财务大臣使用了&amp;quot;日本金融资产&amp;quot;这一宽泛表述，并未明确承诺GPIF将大举增持日本国债。高盛维持对超长期日本国债的结构性看空立场，认为此次反弹并非趋势逆转。&lt;/p&gt;
+&lt;p&gt;在外汇方面，高盛分析师Karen Reichgott Fishman写道，这些评论&amp;quot;并不意味着政府政策的实际转向&amp;quot;。过去一年中投资者对日本资本回流抱有的期待已多次升温（如提前大选之后），但始终未能兑现。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我们长期以来对在没有更有利的利差环境下出现显著的日元利好回流流动持怀疑态度，尤其是GPIF还有需要实现的回报目标。&amp;quot;不过其也承认，任何实质性回流都将是日元纠正严重低估的&amp;quot;更可信路径之一&amp;quot;。&lt;/p&gt;
+&lt;p&gt;道富银行东京分行外汇销售主管Kazushige Kaida同样态度冷淡：&amp;quot;宏观经济背景并未改变，因此难以看到日元长期走强。如果最新表态只是表明政府在寻求缓解再通胀政策的阵痛、而非放弃该政策，那么日元走弱的大叙事仍将维持不变。&amp;quot;&lt;/p&gt;
+GPIF：五年调一次的巨轮，短期难以转向
+&lt;p&gt;GPIF由厚生劳动省监管，而非财务省。其资产配置参数每五年调整一次。2025年3月，该基金决定维持现有框架：国内股票、国内债券、外国股票、外国债券各占25%，并将各资产类别的最大偏离幅度从此前的6-8个百分点收窄至5-6个百分点。&lt;/p&gt;
+&lt;p&gt;日本四家公共养老基金合计管理约332万亿日元资产，以GPIF为首。在截至3月31日的财年中，GPIF录得历史上第三高的年度回报率。&lt;/p&gt;
+&lt;p&gt;大和证券首席策略师Yugo Tsuboi指出，考虑到GPIF的资管规模，潜在的配置变化&amp;quot;不容忽视&amp;quot;。Katayama的发言&amp;quot;可能有助于维持日本市场债券、日元和股票的&amp;#x27;三重上涨&amp;#x27;格局&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Aizawa Securities高级策略师Yukihiro Kawanishi则认为，向日本金融资产的转向&amp;quot;对日本股市是利好，也可能鼓励已先行布局的海外投资者进一步加仓&amp;quot;。&lt;/p&gt;
+&lt;p&gt;不过，从制度流程来看，GPIF的任何投资策略调整都需经过既定程序，实施周期较长。在财务省&amp;quot;喊话&amp;quot;与实际资产配置变动之间，横亘着一整套需要时间的制度安排——而这正是高盛与道富所押注的现实。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta内部备忘录曝光：与闪迪、三星、住友电工签长期供货协议，2027年算力翻倍</title><link>https://wallstreetcn.com/articles/3776647</link><guid>b0c0c9d4467c9aff6d2f72c57892f200e5707c25810cc33a9cd0fd7e12c23e6e</guid><pubDate>Fri, 10 Jul 2026 07:26:24 GMT</pubDate><description>&lt;p&gt;一份流出的Meta内部备忘录，将这家科技巨头的AI基础设施扩张计划完整呈现在市场面前，并在周四引发供应链相关个股的大幅波动。&lt;/p&gt;
 &lt;p&gt;周五，据路透社援引该备忘录内容，Meta已与闪迪、三星电子及住友电工分别签署长期供货协议，涵盖闪存、内存芯片及光纤设备，以支撑其大规模AI算力建设。备忘录显示，Meta计划2026年部署7吉瓦算力基础设施，并于2027年将这一规模翻倍至14吉瓦，全年资本支出预计高达1450亿美元。&lt;/p&gt;
 &lt;p&gt;消息公开后，闪迪股价盘中一度涨逾6.8%，报1844.96美元，住友电工美国存托凭证上涨约4.7%，三星电子韩国上市股票涨幅约2.5%。与此同时，Meta自身股价则下跌约2.2%，市场对其庞大支出计划的成本压力表达了明显担忧。&lt;/p&gt;
 备忘录核心：算力蓝图与自研芯片进展
@@ -382,77 +437,4 @@ AI服务器推高存储消耗，供需缺口扩大
 巨额支出引发市场分歧，&amp;quot;芯片通胀&amp;quot;成新变量
 &lt;p&gt;尽管供应商股价普涨，Meta自身股价的下跌揭示了市场对其支出规模的复杂态度。Meta预计2026年AI基础设施支出高达1450亿美元，在大型科技公司逾7000亿美元的预计集体支出中占据相当比重。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据摩根士丹利分析师指出，内存与芯片价格的快速上涨已使&amp;quot;芯片通胀&amp;quot;成为一个宏观层面的关注议题&lt;/strong&gt;——这一趋势对闪迪等供应商构成利好，却同时加大了Meta等采购方的成本压力，市场对这一矛盾的权衡正在股价走势中得到直接体现。&lt;/p&gt;
-&lt;p&gt;此外，SK海力士计划于7月10日为其美国纳斯达克IPO定价，这将成为机构投资者对AI内存领域风险偏好的实时检验，并可能对整个板块的资金流向产生进一步影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克曝光SpaceX最新蓝图：明年发射首批AI卫星、五年登陆火星、十年送上万人上月球</title><link>https://wallstreetcn.com/articles/3776668</link><guid>267737c24fb89735b027f326dc85abd5fd6fa1481c6d010c1fb823fe72b40030</guid><pubDate>Fri, 10 Jul 2026 13:42:58 GMT</pubDate><description>&lt;p&gt;马斯克在最新访谈中向市场描绘了SpaceX未来十年的商业想象空间：不&lt;strong&gt;仅计划在两年内部署“太空AI数据中心”以打破地球算力瓶颈，更立下了最快三年内登月、五年内登陆火星的激进时间表。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;近日，在一档由得克萨斯州州长格雷格·阿博特（Greg Abbott）客串主持的《肖恩·汉尼提秀》（Sean Hannity Show）访谈节目中，SpaceX创始人埃隆·马斯克详尽披露了公司的最新运营数据、商业布局以及未来十年的深空探索愿景。&lt;/p&gt;
-&lt;p&gt;作为目前全球估值最高的非上市公司之一，SpaceX的实际业务规模一直是市场关注的焦点。马斯克在访谈开场便用一组绝对数据亮出了SpaceX的行业垄断地位。&lt;strong&gt;“目前，SpaceX将地球上约85%的载荷送入轨道。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;除了为全球提供高带宽、低延迟的星链（Starlink）网络，以及作为NASA唯一认证的美国商业载人航天供应商，马斯克向投资者展示了一个比传统卫星发射更为宏大且具颠覆性的商业故事。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-太空算力：明年发射首批AI卫星，摆脱地球能源限制
-&lt;p&gt;随着全球人工智能军备竞赛的加剧，土地、电力和水资源正在成为制约数据中心扩张的物理瓶颈，而马斯克将目光投向了外太空。这是本次访谈中最具市场增量信息的一环。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;我认为扩展计算能力的真正出路在太空。太空中有着极大的空间&lt;/strong&gt;。”马斯克在解释这一商业逻辑时表示，“如果你看看地球相对于太阳或太阳系的体积，你就会意识到地球有多么微小。我们只能接收到太阳能量的十亿分之五。你可以把地球看作是巨大黑暗中的一粒微小尘埃。”&lt;/p&gt;
-&lt;p&gt;对于太空数据中心的具体落地节点，马斯克给出了明确的指引：“为了在不耗尽地球土地的前提下扩展计算能力，我们需要在太空中进行。这样你就无需消耗地球上的空间、电力和水。所以，我们大概会在明年发射第一批AI卫星，然后在大约两年内实现大规模部署。”&lt;/p&gt;
-全员持股：数千名流水线工人已成百万富翁
-&lt;p&gt;在公司高速扩张的背后，SpaceX的股权激励机制同样引发了市场关注。&lt;/p&gt;
-&lt;p&gt;此前外界盛传一位时薪28美元的电焊工因持有公司股票而暴富，马斯克在节目中不仅证实了此事，还透露了更为庞大的造富规模。&lt;/p&gt;
-&lt;p&gt;“我从第一天起就秉持这样一个理念：&lt;strong&gt;公司的每位员工都应该获得公司股票，这样他们才能分享公司上涨的收益。&lt;/strong&gt;”马斯克说，“当公司繁荣时，公司的员工也会随之繁荣。这非常有利于统一目标。”&lt;/p&gt;
-&lt;p&gt;他进一步向市场展现了这家公司的造富能力：“这不仅仅是一个电焊工的故事。我们有几千名在生产线上工作的员工成为了百万富翁。如果他们加入公司的时间相对较早，那么到目前为止，他们的股票价值可能已经超过了一百万美元。”&lt;/p&gt;
-星际殖民：“把科幻小说变成现实”
-&lt;p&gt;对于市场最为关注的登月和火星计划，虽然马斯克以往的时间表屡有推迟，但他在此次访谈中再次给出了极为笃定且激进的业绩指引。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;针对月球基地建设，马斯克预计最快两三年内将首批宇航员送上月球。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;“如果一切顺利，我们可能会在2到3年内把第一批宇航员送上月球，然后从那里开始迅速扩张。&lt;strong&gt;大概10年后，月球上就会有成千上万的人&lt;/strong&gt;。”&lt;/p&gt;
-&lt;p&gt;他的愿景并非建立一个简单的科考站，而是一座功能完备的城市：“最终我们要把成千上万吨的物资运到月球，实际上就是在月球上建一座城市。人们不仅可以永久定居，甚至可以去度假。想象一下，‘亲爱的，今年我们别去新加坡了，我们去月球吧！’这将是一趟绝佳的蜜月之旅。”&lt;/p&gt;
-&lt;p&gt;对于难度远超月球的火星殖民，&lt;strong&gt;马斯克坦言由于地球和火星每26个月才会有一次合适的发射窗口，且单程需要6个月，这极大地增加了挑战。&lt;/strong&gt;但SpaceX依然设定了紧凑的时间线。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 看好太空数据中心，高盛大幅上调低轨卫星装机预测：2031年暴增至30万颗，乐观情景冲到40万</title><link>https://wallstreetcn.com/articles/3776671</link><guid>835e3ddbc554c214c8323c2f1d7425607b73085322c92e3aabfe498a1cb9d2aa</guid><pubDate>Fri, 10 Jul 2026 14:03:59 GMT</pubDate><description>&lt;p&gt;从火箭制造、卫星硬件到地面终端设备——正站在一个历史性规模扩张的拐点上。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛周二发布最新全球科技研报，&lt;strong&gt;将2031年低地球轨道（LEO）卫星基准装机量预测从4.2万颗大幅上调至30.5万颗，涨幅逾634%。这一罕见幅度的预测修正，标志着华尔街对LEO卫星产业规模的重新定价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;推动上调的核心逻辑并非卫星互联网需求的线性延伸，而是一个全新应用场景的纳入：太空数据中心。&lt;/p&gt;
-&lt;p&gt;高盛预计，&lt;strong&gt;2029年后太空数据中心将取代卫星互联网，成为全球LEO装机量增长的主引擎，届时其占比将从零跃升至63%，并在2031年进一步升至79%。与&lt;/strong&gt;此同时，中国卫星运营商的大规模入场也被列为不可忽视的结构性变量。&lt;/p&gt;
-
-预测大幅上调：2029年后装机量呈指数级跃升
-
-&lt;p&gt;高盛于2025年2月首次发布LEO卫星行业预测。&lt;/p&gt;
-&lt;p&gt;此次报告显示，2025年底全球LEO卫星实际装机量约为9,982颗，略高于此前9,700颗的预测，发射进度已超出初始预期。&lt;/p&gt;
-&lt;p&gt;新旧预测的分歧在近期并不显著，但随时间推移急剧扩大。&lt;/p&gt;
-&lt;p&gt;2026年新预测为13,088颗，仅较旧预测12,000颗高出约9%；2028年新预测为23,796颗，较旧预测19,000颗高出约25%。&lt;strong&gt;真正的断层出现在2029年——新预测骤升至90,042颗，同比增幅达278%，2030年进一步升至164,244颗，2031年则达到305,293颗，较旧预测的42,000颗高出整整634%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛明确指出，新旧预测之间的巨大差距，&lt;strong&gt;核心来源是将太空数据中心纳入了卫星应用场景的预测体系&lt;/strong&gt;。这一新增维度从根本上改变了行业装机量的增长曲线形态。&lt;/p&gt;
-
-太空数据中心：2029年后的最大增量引擎
-
-&lt;p&gt;按应用场景拆分，高盛的预测揭示了一个关键的结构性转变。&lt;/p&gt;
-&lt;p&gt;2025年至2028年，全球LEO装机量增量100%来自卫星互联网；进入2029年，太空数据中心的占比骤升至63%，卫星互联网降至37%；到2031年，太空数据中心占比进一步升至79%，基准情景装机量达241,486颗，而卫星互联网装机量仅为63,807颗。&lt;/p&gt;
-&lt;p&gt;高盛在报告中阐述了太空数据中心的核心吸引力：可无限获取低成本太阳能供电，并具备边缘计算能力，可直接处理卫星数据。&lt;/p&gt;
-&lt;p&gt;不过，高盛也承认，太空数据中心的技术可行性仍有待验证。这意味着，2029年后装机量预测能否兑现，在相当程度上取决于这一全新商业模式能否完成从概念到规模化落地的跨越，构成整份预测最大的不确定因素。&lt;/p&gt;
-
-蓝天情景：中国星座若如期推进，2031年可达39.6万颗
-
-&lt;p&gt;高盛同步提出了乐观的&amp;quot;蓝天情景&amp;quot;，核心假设包括：火箭运力好于预期、卫星通信商业化提速，以及中国厂商提交的20万颗LEO星座计划得以长期实现。&lt;/p&gt;
-&lt;p&gt;蓝天情景下，2031年全球LEO装机量可达395,624颗，较基准情景305,293颗高出约30%。&lt;/p&gt;
-&lt;p&gt;两种情景之间最大的差异来源于中国：&lt;strong&gt;基准情景下，中国2031年装机量为23,750颗，占全球8%；蓝天情景下，这一数字跃升至101,148颗，占全球26%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至2025年底，中国卫星运营商实际在轨运营卫星仅有253颗，但其已集体向国际电信联盟（ITU）提交逾20万颗中低轨卫星的申请。&lt;/p&gt;
-&lt;p&gt;高盛将此解读为抢占频谱和轨道资源的战略性举措，而非短期内必然实现的发射计划。&lt;/p&gt;
-
-火箭技术：装机量能否兑现的核心变量
-
-&lt;p&gt;高盛将火箭技术进步列为整个预测能否落地的关键约束条件，并从发射频率、运力提升和可复用技术三个维度展开分析。&lt;/p&gt;
-&lt;p&gt;在发射频率方面，领先运营商Starlink在2025年已实现平均每三天发射一次的节奏；2026年4月，SpaceX更创下19小时内连续发射两枚火箭的纪录，表明效率仍有进一步提升空间。&lt;/p&gt;
-&lt;p&gt;在运力方面，当前主流可复用火箭的LEO载荷约为17,500公斤，下一代火箭载荷将达100至150吨，运力提升幅度约6至9倍。&lt;/p&gt;
-&lt;p&gt;对中国而言，国产可复用火箭的突破是LEO卫星加速扩张的关键里程碑。目前进展包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;长征十号（LM-10）&lt;/strong&gt;：2026年2月成功完成一级软着陆海上溅落测试，7月10号完成一级火箭网系回收；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;朱雀三号（Zhuque-3）&lt;/strong&gt;：2025年12月测试飞行部分成功，2026年第二季度将进行回收测试飞行；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;双曲线三号（Hyperbola-3）&lt;/strong&gt;：计划于2026年底前完成首次发射；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PALLAS-1&lt;/strong&gt;：银河航天可复用火箭，计划2026年完成首次发射。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF申赎统计2026-07-10</title><link>http://xueqiu.com/3559889031/399386770</link><guid>f4174c5eac47d70577140ae64b2165c1ab3fe77d45b1a1e694825861a6e95008</guid><pubDate>Fri, 10 Jul 2026 10:02:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;即使周四如此大涨，宽基ETF还是净流入。不一样，真是不一样了。&lt;/p&gt;</description></item><item><title>[今日雪球] 以股息为锚</title><link>http://xueqiu.com/7913104177/399392312</link><guid>b12eff1d0b8bb3608961cecde7868a99fa8a4acca666e6901bb65a73cdc7c428</guid><pubDate>Fri, 10 Jul 2026 10:02:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;         语文可以瞎编，英语可以运气，数学不会就是不会。下跌害怕就是害怕，不害怕就是不害怕。下跌是检验认知企业最好的试金石，也是对自己投资体系的压力测试。价值投资是勉强不来的，我说对多数人低买高卖才是最匹配的投资方式。不是说这样做更容易赚钱，而是这样赔钱后更容易接受。七亏二平一赢，结局早就注定。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此外，SK海力士计划于7月10日为其美国纳斯达克IPO定价，这将成为机构投资者对AI内存领域风险偏好的实时检验，并可能对整个板块的资金流向产生进一步影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF申赎统计2026-07-10</title><link>http://xueqiu.com/3559889031/399386770</link><guid>f4174c5eac47d70577140ae64b2165c1ab3fe77d45b1a1e694825861a6e95008</guid><pubDate>Fri, 10 Jul 2026 10:02:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;即使周四如此大涨，宽基ETF还是净流入。不一样，真是不一样了。&lt;/p&gt;</description></item><item><title>[今日雪球] 以股息为锚</title><link>http://xueqiu.com/7913104177/399392312</link><guid>b12eff1d0b8bb3608961cecde7868a99fa8a4acca666e6901bb65a73cdc7c428</guid><pubDate>Fri, 10 Jul 2026 10:02:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;         语文可以瞎编，英语可以运气，数学不会就是不会。下跌害怕就是害怕，不害怕就是不害怕。下跌是检验认知企业最好的试金石，也是对自己投资体系的压力测试。价值投资是勉强不来的，我说对多数人低买高卖才是最匹配的投资方式。不是说这样做更容易赚钱，而是这样赔钱后更容易接受。七亏二平一赢，结局早就注定。&lt;/p&gt;</description></item></channel></rss>
