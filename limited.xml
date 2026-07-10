@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 14:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 14:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
 &lt;p&gt;针对市场对AI投资回报率（ROI）的普遍质疑，Dylan透露，Anthropic已于今年第二季度实现自由现金流转正，年化经常性收入突破500亿美元，&lt;strong&gt;毛利率超过70%&lt;/strong&gt;。在企业端，最新AI模型带来的生产力跃升远超算力成本的增加，促使企业削减其他软件开支以维持爆炸性增长的AI预算。&lt;/p&gt;
 &lt;p&gt;在硬件演进层面，向推理模型的范式转换正在重构市场需求。Dylan强调，&lt;strong&gt;存储面临长达数年的结构性短缺，仍有2至3倍上行空间；&lt;/strong&gt;与此同时，尽管智能体和强化学习推高了CPU需求，但卖方市场对此定价过高，CPU的增长主要来自历史“补账”，其在AI服务器中的绝对价值仍远不及GPU。&lt;/p&gt;
 &lt;p&gt;Dylan认为，备受市场期待的共封装光学（CPO）大规模落地时间，&lt;strong&gt;则被明确推迟至2028年底至2029年，&lt;/strong&gt;意外延长了铜缆连接器的红利期。而电网输配电的受限，正迫使数据中心转向“表后电源”（自建电源），在传统的芯片投资之外，催生出庞大的工业能源和电力转换供应链投资机会。&lt;/p&gt;
@@ -184,27 +184,7 @@ CPU仅是“补账”行情，长期主导仍是AI芯片
 &lt;p&gt;日本方面，日本财务大臣片山皋月表示，不对具体的债券收益率水平发表评论，强调具体货币政策工具由日本央行决定，并称无论政府怎么说，日本央行都可以自行调整货币政策；此前已预测利率会逐步上升，将确保财政可持续性以赢得市场信任。受此影响，日本国债收益率普遍下行：10年期国债收益率下行4.5个基点至2.830%，20年期收益率下行7个基点至3.795%，40年期收益率下行7个基点至3.965%。&lt;/p&gt;
 &lt;p&gt;其他市场动态方面，货币市场整体平静。彭博美元现货指数基本持平，欧元报1.1434美元，&lt;strong&gt;日元走强，一度涨至162.09兑1美元&lt;/strong&gt;，离岸人民币报6.7950兑1美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Meta AI有望半年内超越谷歌，与OpenAI、Anthropic形成三足鼎立</title><link>https://wallstreetcn.com/articles/3776663</link><guid>5722e96ba1b2569288da42cd0b1971193b8ad945d86a6e2fb627aa62f8399fd7</guid><pubDate>Fri, 10 Jul 2026 11:49:22 GMT</pubDate><description>&lt;p&gt;全球前沿AI竞争格局正在经历一次深刻重塑。&lt;/p&gt;
-&lt;p&gt;研究机构SemiAnalysis最新报告指出，&lt;strong&gt;经过一年的激进资本投入与架构重组，Meta旗下的Meta Superintelligence（MSL）有望在未来六个月内在前沿AI能力排名上超越谷歌。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Anthropic凭借Claude Code在企业市场的爆发式增长，已确立起盈利能力与增速的双重领先优势，并于6月秘密提交IPO申请。&lt;strong&gt;AI行业的权力格局，正从谷歌与OpenAI的双雄对峙，向Meta、OpenAI、Anthropic三足鼎立的新秩序演进。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在市场层面，上述动态已引发即时反应。Meta股价当日上涨约4%，而Alphabet股价下跌约1%，折射出市场对谷歌在AI竞赛中地位的日益担忧。与此同时，马斯克在社交平台X上公开表示，Anthropic&amp;quot;显然&amp;quot;是当前AI领域的领跑者，为这场竞争格局的讨论再添变量。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis稍早前发布的Anthropic IPO财务深度分析显示，&lt;strong&gt;该公司预计将于2026年第三季度实现超过10亿美元的GAAP EBIT利润，而OpenAI的EBIT利润率仍为负100%。&lt;/strong&gt;SemiAnalysis据此给出Anthropic基准估值为6万亿美元，并认为Anthropic应抢先OpenAI完成上市，以资本优势进一步巩固其在前沿模型领域的领先地位。&lt;/p&gt;
-Meta：算力、数据、人才三线并进
-&lt;p&gt;SemiAnalysis报告的核心判断是：Meta在算力规模上的扩张速度，将使其在年底前超越OpenAI与Anthropic的总AI算力。&lt;/p&gt;
-&lt;p&gt;据路透社援引一份内部备忘录报道，Meta计划今年在AI基础设施上投入最高1450亿美元，2026年部署7吉瓦算力，并于2027年将这一数字翻倍至14吉瓦。支撑这一目标的，是Meta同步建设的五座吉瓦级&amp;quot;titan&amp;quot;超大规模数据中心集群，以及自研的&amp;quot;AI-Backbone&amp;quot;网络架构——后者允许Meta跨越数千公里的地理距离，异步扩展复杂训练任务。&lt;/p&gt;
-&lt;p&gt;在芯片层面，据路透社报道，&lt;strong&gt;Meta将于9月启动代号&amp;quot;Iris&amp;quot;的自研AI芯片量产，该芯片由Broadcom联合设计、台积电制造，仅用六周便完成了漏洞测试，并已与三星、SanDisk及住友电工签署多年供应协议。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在数据与人才方面，Meta将3000名工程师重新分配至内部强化学习（RL）环境工厂，构建起商业数据供应商无法复制的专有数据管道。与此同时，Meta斥资143亿美元投资Scale AI，并借此从OpenAI、Anthropic等机构大规模挖角顶尖研究人员。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis认为，&lt;strong&gt;评估MSL当前的基准测试表现是&amp;quot;只见树木不见森林&amp;quot;，真正重要的是&amp;quot;斜率而非截距&amp;quot;——若扎克伯格维持当前的资本投入力度，谷歌有可能被永久排出全球AI超大规模玩家的第一梯队。&lt;/strong&gt;&lt;/p&gt;
-Anthropic：B2B盈利模式确立领先优势
-&lt;p&gt;如果说Meta的优势在于算力与基础设施，Anthropic的护城河则建立在商业模式与财务质量之上。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis数据显示，Claude Code目前占GitHub全部代码提交量的7%以上，正是这一产品推动Anthropic的ARR从2025年底的90亿美元，在2026年第一季度单季跃升至300亿美元——1月增加30亿，2月增加70亿，3月增加110亿。截至目前，Anthropic ARR已超过600亿美元，净新增ARR已达每月100亿美元以上的规模。&lt;/p&gt;
-&lt;p&gt;Anthropic的财务结构与OpenAI形成鲜明对比。Anthropic约75%至85%的收入来自基于用量的API业务，而OpenAI在2026年第一季度仍有超过65%的收入来自订阅模式，其中消费者订阅占比约40%。SemiAnalysis估算，OpenAI需为超过9亿免费用户提供服务，每月每用户成本约0.70美元，这对其整体毛利率造成20%至30%的拖累。&lt;/p&gt;
-&lt;p&gt;在盈利能力上，SemiAnalysis预计Anthropic将于2026年第三季度实现超过10亿美元的GAAP EBIT（利润率约6%），而OpenAI的EBIT利润率仍为负100%。Anthropic CFO Krishna Rao此前披露，公司净美元留存率（NDR）高达500%，意味着一年前贡献20亿ARR的老客户，如今已贡献120亿ARR。SemiAnalysis据此预测，若Anthropic能将每月净新增ARR提速至150亿美元，其2027年底ARR有望达到3000亿美元，对应企业价值6万亿美元。&lt;/p&gt;
-谷歌：从领跑者到被追赶者
-&lt;p&gt;在这场三方角力中，谷歌的处境最为微妙。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis在报告中直言，&lt;strong&gt;谷歌在前沿AI竞争中已&amp;quot;大幅退步&amp;quot;，并预测Meta将在六个月内完成对谷歌的超越。&lt;/strong&gt;马斯克点名Anthropic为当前AI领域&amp;quot;显然&amp;quot;的领跑者，亦未将谷歌纳入第一梯队的讨论。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis的分析框架显示，前沿AI竞争的决定性变量已从单一的模型能力，转向算力规模、商业模式与资本获取能力的综合较量。&lt;/p&gt;
-&lt;p&gt;在这三个维度上，Meta正在快速追赶，Anthropic已建立领先，而谷歌则面临被双向挤压的压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌</title><link>https://wallstreetcn.com/articles/3776629</link><guid>6ece1f834e365648340823ff5057e053c00e5ff98a6d3236d13f207b348afa8d</guid><pubDate>Fri, 10 Jul 2026 09:51:20 GMT</pubDate><description>&lt;p&gt;商业航天午后掀起涨停潮，因长征十号乙运载火箭成功实现一子级可控回收。算力硬件、芯片半导体午后集体大跌，拖累创业板、科创50指数，存储龙头兆易创新跌超7%，光模块龙头中际旭创跌8%。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌</title><link>https://wallstreetcn.com/articles/3776629</link><guid>6ece1f834e365648340823ff5057e053c00e5ff98a6d3236d13f207b348afa8d</guid><pubDate>Fri, 10 Jul 2026 09:51:20 GMT</pubDate><description>&lt;p&gt;商业航天午后掀起涨停潮，因长征十号乙运载火箭成功实现一子级可控回收。算力硬件、芯片半导体午后集体大跌，拖累创业板、科创50指数，存储龙头兆易创新跌超7%，光模块龙头中际旭创跌8%。&lt;/p&gt;
 &lt;p&gt;7月10日，A股全天冲高回落，三大指数集体下挫，科创50尾盘跌超5%，创业板跌超4%，但个股层面近七成收涨。半导体、锂矿、储能等前期强势板块集体翻车。但另一边，午后长征十号乙火箭可回收成功的消息引爆航天板块，十余股涨停；医药CRO延续强势。&lt;/p&gt;
 &lt;p&gt;港股冲高回落，恒指、恒科指盘中双双大涨，午后先后回落，恒科指更是转跌，盘中涨超2%，科网股多数上涨，小米、京东、阿里、快手均涨超3%，芯片半导体杀跌，中芯国际、华虹宏力齐跌，兆易创新暴跌超21%。AI大模型股重挫，智谱狂泻近20%、MINIMAX跌近10%。恒生生物科技指数涨超3%，医药股大涨。&lt;/p&gt;
 &lt;p&gt;债市方面，国债期货震荡上涨。商品方面，国内商品期货多数走高，沪金、沪银等涨幅居前。核心市场走势：&lt;/p&gt;
@@ -249,7 +229,27 @@ Anthropic：B2B盈利模式确立领先优势
 &lt;p&gt;半导体设备方向，华亚智能跌停，正帆科技、臻宝科技等跌幅超10%。半导体制造端，晶合集成跌超10%，华虹宏力收跌7.65%。北方华创、寒武纪收盘跌幅均超8%，中微公司收跌7.86%，中芯国际收跌5.77%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;光模块龙头同步回落，中际旭创、新易盛收盘分别跌超8%、超4%。AI芯片、动力电池等高权重方向的明显承压，放大了创业板指回落幅度。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] NAND单季涨70%后，SK海力士重启大连二期，与三星西安竞赛提速</title><link>https://wallstreetcn.com/articles/3776637</link><guid>7490f0ff36e80e13abf6928c8fe4b0defb9b6ed14633fef08db741873d86147b</guid><pubDate>Fri, 10 Jul 2026 05:07:22 GMT</pubDate><description>&lt;p&gt;据TrendForce报道，SK海力士计划于2026年下半年重启此前搁置的大连工厂二期扩建项目，新增V8（238层）NAND产线。该项目此前因NAND市场低迷和美国出口管制而暂停，重启标志着公司将NAND价格的历史性复苏转化为实际产能布局。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：Meta AI有望半年内超越谷歌，与OpenAI、Anthropic形成三足鼎立</title><link>https://wallstreetcn.com/articles/3776663</link><guid>5722e96ba1b2569288da42cd0b1971193b8ad945d86a6e2fb627aa62f8399fd7</guid><pubDate>Fri, 10 Jul 2026 11:49:22 GMT</pubDate><description>&lt;p&gt;全球前沿AI竞争格局正在经历一次深刻重塑。&lt;/p&gt;
+&lt;p&gt;研究机构SemiAnalysis最新报告指出，&lt;strong&gt;经过一年的激进资本投入与架构重组，Meta旗下的Meta Superintelligence（MSL）有望在未来六个月内在前沿AI能力排名上超越谷歌。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，Anthropic凭借Claude Code在企业市场的爆发式增长，已确立起盈利能力与增速的双重领先优势，并于6月秘密提交IPO申请。&lt;strong&gt;AI行业的权力格局，正从谷歌与OpenAI的双雄对峙，向Meta、OpenAI、Anthropic三足鼎立的新秩序演进。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在市场层面，上述动态已引发即时反应。Meta股价当日上涨约4%，而Alphabet股价下跌约1%，折射出市场对谷歌在AI竞赛中地位的日益担忧。与此同时，马斯克在社交平台X上公开表示，Anthropic&amp;quot;显然&amp;quot;是当前AI领域的领跑者，为这场竞争格局的讨论再添变量。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis稍早前发布的Anthropic IPO财务深度分析显示，&lt;strong&gt;该公司预计将于2026年第三季度实现超过10亿美元的GAAP EBIT利润，而OpenAI的EBIT利润率仍为负100%。&lt;/strong&gt;SemiAnalysis据此给出Anthropic基准估值为6万亿美元，并认为Anthropic应抢先OpenAI完成上市，以资本优势进一步巩固其在前沿模型领域的领先地位。&lt;/p&gt;
+Meta：算力、数据、人才三线并进
+&lt;p&gt;SemiAnalysis报告的核心判断是：Meta在算力规模上的扩张速度，将使其在年底前超越OpenAI与Anthropic的总AI算力。&lt;/p&gt;
+&lt;p&gt;据路透社援引一份内部备忘录报道，Meta计划今年在AI基础设施上投入最高1450亿美元，2026年部署7吉瓦算力，并于2027年将这一数字翻倍至14吉瓦。支撑这一目标的，是Meta同步建设的五座吉瓦级&amp;quot;titan&amp;quot;超大规模数据中心集群，以及自研的&amp;quot;AI-Backbone&amp;quot;网络架构——后者允许Meta跨越数千公里的地理距离，异步扩展复杂训练任务。&lt;/p&gt;
+&lt;p&gt;在芯片层面，据路透社报道，&lt;strong&gt;Meta将于9月启动代号&amp;quot;Iris&amp;quot;的自研AI芯片量产，该芯片由Broadcom联合设计、台积电制造，仅用六周便完成了漏洞测试，并已与三星、SanDisk及住友电工签署多年供应协议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在数据与人才方面，Meta将3000名工程师重新分配至内部强化学习（RL）环境工厂，构建起商业数据供应商无法复制的专有数据管道。与此同时，Meta斥资143亿美元投资Scale AI，并借此从OpenAI、Anthropic等机构大规模挖角顶尖研究人员。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis认为，&lt;strong&gt;评估MSL当前的基准测试表现是&amp;quot;只见树木不见森林&amp;quot;，真正重要的是&amp;quot;斜率而非截距&amp;quot;——若扎克伯格维持当前的资本投入力度，谷歌有可能被永久排出全球AI超大规模玩家的第一梯队。&lt;/strong&gt;&lt;/p&gt;
+Anthropic：B2B盈利模式确立领先优势
+&lt;p&gt;如果说Meta的优势在于算力与基础设施，Anthropic的护城河则建立在商业模式与财务质量之上。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis数据显示，Claude Code目前占GitHub全部代码提交量的7%以上，正是这一产品推动Anthropic的ARR从2025年底的90亿美元，在2026年第一季度单季跃升至300亿美元——1月增加30亿，2月增加70亿，3月增加110亿。截至目前，Anthropic ARR已超过600亿美元，净新增ARR已达每月100亿美元以上的规模。&lt;/p&gt;
+&lt;p&gt;Anthropic的财务结构与OpenAI形成鲜明对比。Anthropic约75%至85%的收入来自基于用量的API业务，而OpenAI在2026年第一季度仍有超过65%的收入来自订阅模式，其中消费者订阅占比约40%。SemiAnalysis估算，OpenAI需为超过9亿免费用户提供服务，每月每用户成本约0.70美元，这对其整体毛利率造成20%至30%的拖累。&lt;/p&gt;
+&lt;p&gt;在盈利能力上，SemiAnalysis预计Anthropic将于2026年第三季度实现超过10亿美元的GAAP EBIT（利润率约6%），而OpenAI的EBIT利润率仍为负100%。Anthropic CFO Krishna Rao此前披露，公司净美元留存率（NDR）高达500%，意味着一年前贡献20亿ARR的老客户，如今已贡献120亿ARR。SemiAnalysis据此预测，若Anthropic能将每月净新增ARR提速至150亿美元，其2027年底ARR有望达到3000亿美元，对应企业价值6万亿美元。&lt;/p&gt;
+谷歌：从领跑者到被追赶者
+&lt;p&gt;在这场三方角力中，谷歌的处境最为微妙。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis在报告中直言，&lt;strong&gt;谷歌在前沿AI竞争中已&amp;quot;大幅退步&amp;quot;，并预测Meta将在六个月内完成对谷歌的超越。&lt;/strong&gt;马斯克点名Anthropic为当前AI领域&amp;quot;显然&amp;quot;的领跑者，亦未将谷歌纳入第一梯队的讨论。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis的分析框架显示，前沿AI竞争的决定性变量已从单一的模型能力，转向算力规模、商业模式与资本获取能力的综合较量。&lt;/p&gt;
+&lt;p&gt;在这三个维度上，Meta正在快速追赶，Anthropic已建立领先，而谷歌则面临被双向挤压的压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] NAND单季涨70%后，SK海力士重启大连二期，与三星西安竞赛提速</title><link>https://wallstreetcn.com/articles/3776637</link><guid>7490f0ff36e80e13abf6928c8fe4b0defb9b6ed14633fef08db741873d86147b</guid><pubDate>Fri, 10 Jul 2026 05:07:22 GMT</pubDate><description>&lt;p&gt;据TrendForce报道，SK海力士计划于2026年下半年重启此前搁置的大连工厂二期扩建项目，新增V8（238层）NAND产线。该项目此前因NAND市场低迷和美国出口管制而暂停，重启标志着公司将NAND价格的历史性复苏转化为实际产能布局。&lt;/p&gt;
 &lt;p&gt;根据News Tomato的报道&lt;strong&gt;，SK海力士将在今年下半年开始向大连二期工厂安装生产设备，分阶段在2027年上半年完成设施建设。&lt;/strong&gt;国内合作伙伴已开始将闲置NAND设备转移至大连，海外供应商据称已收到设备交付的初步采购订单。&lt;/p&gt;
 &lt;p&gt;Sisa Journal进一步披露了产能细节：大连二期将新增一条V8产线（238层），月产能目标为3万至5万片晶圆。大连一期工厂则正在将产线深度转换至192层NAND，并更换老化设备。&lt;/p&gt;
 搁置背后的转折：从出口管制到年度审批
@@ -391,27 +391,7 @@ PCE统计方法悄然调整，高盛瑞银警示通胀读数将被压低
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;从时间线来看，而工作组的落地，似乎印证了这一叙事的内在逻辑——人事布局已然完成，框架调整和通胀数据的重新诠释正在同步推进。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;通胀框架工作组将重新审视美联储分析通胀的方法论，经济数据工作组将研究如何提升指标质量，生产率与就业工作组则将为供给侧新框架提供学术支撑。三者合力，构成了为降息铺路的完整闭环。&lt;/p&gt;
-&lt;p&gt;沃什表示，美国经济&amp;quot;在过去一代人的时间里发生了巨大变化，而且当下的变化速度前所未有&amp;quot;，美联储有必要重新检视自身的政策工具和分析方法。各工作组将于年底前提交研究报告，届时政策框架调整的轮廓将进一步清晰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中远海控2026年半年度归母净利润预测与全年展望！</title><link>http://xueqiu.com/5742821612/399404145</link><guid>1d8a31ea0e6bf4433b85bda83e63f84af5fa6afdd70a221ffca04d65101481cf</guid><pubDate>Fri, 10 Jul 2026 10:03:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;养叔的猫&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;看到很多企业都发布了半年报预增公告，几乎都是大增的行情，尤其科技版块，几百上千甚至过万的百分比。猫叔重仓中远海控，不由得有些羡慕。距离海控半年报还有一个多月，二季度已经结束，就来一版猫叔的中远海控2026年半年报的预增吧。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克曝光SpaceX最新蓝图：明年发射首批AI卫星、五年登陆火星、十年送上万人上月球</title><link>https://wallstreetcn.com/articles/3776668</link><guid>267737c24fb89735b027f326dc85abd5fd6fa1481c6d010c1fb823fe72b40030</guid><pubDate>Fri, 10 Jul 2026 13:42:58 GMT</pubDate><description>&lt;p&gt;马斯克在最新访谈中向市场描绘了SpaceX未来十年的商业想象空间：不&lt;strong&gt;仅计划在两年内部署“太空AI数据中心”以打破地球算力瓶颈，更立下了最快三年内登月、五年内登陆火星的激进时间表。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;近日，在一档由得克萨斯州州长格雷格·阿博特（Greg Abbott）客串主持的《肖恩·汉尼提秀》（Sean Hannity Show）访谈节目中，SpaceX创始人埃隆·马斯克详尽披露了公司的最新运营数据、商业布局以及未来十年的深空探索愿景。&lt;/p&gt;
-&lt;p&gt;作为目前全球估值最高的非上市公司之一，SpaceX的实际业务规模一直是市场关注的焦点。马斯克在访谈开场便用一组绝对数据亮出了SpaceX的行业垄断地位。&lt;strong&gt;“目前，SpaceX将地球上约85%的载荷送入轨道。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;除了为全球提供高带宽、低延迟的星链（Starlink）网络，以及作为NASA唯一认证的美国商业载人航天供应商，马斯克向投资者展示了一个比传统卫星发射更为宏大且具颠覆性的商业故事。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-太空算力：明年发射首批AI卫星，摆脱地球能源限制
-&lt;p&gt;随着全球人工智能军备竞赛的加剧，土地、电力和水资源正在成为制约数据中心扩张的物理瓶颈，而马斯克将目光投向了外太空。这是本次访谈中最具市场增量信息的一环。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;我认为扩展计算能力的真正出路在太空。太空中有着极大的空间&lt;/strong&gt;。”马斯克在解释这一商业逻辑时表示，“如果你看看地球相对于太阳或太阳系的体积，你就会意识到地球有多么微小。我们只能接收到太阳能量的十亿分之五。你可以把地球看作是巨大黑暗中的一粒微小尘埃。”&lt;/p&gt;
-&lt;p&gt;对于太空数据中心的具体落地节点，马斯克给出了明确的指引：“为了在不耗尽地球土地的前提下扩展计算能力，我们需要在太空中进行。这样你就无需消耗地球上的空间、电力和水。所以，我们大概会在明年发射第一批AI卫星，然后在大约两年内实现大规模部署。”&lt;/p&gt;
-全员持股：数千名流水线工人已成百万富翁
-&lt;p&gt;在公司高速扩张的背后，SpaceX的股权激励机制同样引发了市场关注。&lt;/p&gt;
-&lt;p&gt;此前外界盛传一位时薪28美元的电焊工因持有公司股票而暴富，马斯克在节目中不仅证实了此事，还透露了更为庞大的造富规模。&lt;/p&gt;
-&lt;p&gt;“我从第一天起就秉持这样一个理念：&lt;strong&gt;公司的每位员工都应该获得公司股票，这样他们才能分享公司上涨的收益。&lt;/strong&gt;”马斯克说，“当公司繁荣时，公司的员工也会随之繁荣。这非常有利于统一目标。”&lt;/p&gt;
-&lt;p&gt;他进一步向市场展现了这家公司的造富能力：“这不仅仅是一个电焊工的故事。我们有几千名在生产线上工作的员工成为了百万富翁。如果他们加入公司的时间相对较早，那么到目前为止，他们的股票价值可能已经超过了一百万美元。”&lt;/p&gt;
-星际殖民：“把科幻小说变成现实”
-&lt;p&gt;对于市场最为关注的登月和火星计划，虽然马斯克以往的时间表屡有推迟，但他在此次访谈中再次给出了极为笃定且激进的业绩指引。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;针对月球基地建设，马斯克预计最快两三年内将首批宇航员送上月球。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;“如果一切顺利，我们可能会在2到3年内把第一批宇航员送上月球，然后从那里开始迅速扩张。&lt;strong&gt;大概10年后，月球上就会有成千上万的人&lt;/strong&gt;。”&lt;/p&gt;
-&lt;p&gt;他的愿景并非建立一个简单的科考站，而是一座功能完备的城市：“最终我们要把成千上万吨的物资运到月球，实际上就是在月球上建一座城市。人们不仅可以永久定居，甚至可以去度假。想象一下，‘亲爱的，今年我们别去新加坡了，我们去月球吧！’这将是一趟绝佳的蜜月之旅。”&lt;/p&gt;
-&lt;p&gt;对于难度远超月球的火星殖民，&lt;strong&gt;马斯克坦言由于地球和火星每26个月才会有一次合适的发射窗口，且单程需要6个月，这极大地增加了挑战。&lt;/strong&gt;但SpaceX依然设定了紧凑的时间线。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 看好太空数据中心，高盛大幅上调低轨卫星装机预测：2031年暴增至30万颗，乐观情景冲到40万</title><link>https://wallstreetcn.com/articles/3776671</link><guid>835e3ddbc554c214c8323c2f1d7425607b73085322c92e3aabfe498a1cb9d2aa</guid><pubDate>Fri, 10 Jul 2026 14:03:59 GMT</pubDate><description>&lt;p&gt;从火箭制造、卫星硬件到地面终端设备——正站在一个历史性规模扩张的拐点上。&lt;/p&gt;
+&lt;p&gt;沃什表示，美国经济&amp;quot;在过去一代人的时间里发生了巨大变化，而且当下的变化速度前所未有&amp;quot;，美联储有必要重新检视自身的政策工具和分析方法。各工作组将于年底前提交研究报告，届时政策框架调整的轮廓将进一步清晰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中远海控2026年半年度归母净利润预测与全年展望！</title><link>http://xueqiu.com/5742821612/399404145</link><guid>1d8a31ea0e6bf4433b85bda83e63f84af5fa6afdd70a221ffca04d65101481cf</guid><pubDate>Fri, 10 Jul 2026 10:03:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;养叔的猫&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;看到很多企业都发布了半年报预增公告，几乎都是大增的行情，尤其科技版块，几百上千甚至过万的百分比。猫叔重仓中远海控，不由得有些羡慕。距离海控半年报还有一个多月，二季度已经结束，就来一版猫叔的中远海控2026年半年报的预增吧。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 看好太空数据中心，高盛大幅上调低轨卫星装机预测：2031年暴增至30万颗，乐观情景冲到40万</title><link>https://wallstreetcn.com/articles/3776671</link><guid>835e3ddbc554c214c8323c2f1d7425607b73085322c92e3aabfe498a1cb9d2aa</guid><pubDate>Fri, 10 Jul 2026 14:03:59 GMT</pubDate><description>&lt;p&gt;从火箭制造、卫星硬件到地面终端设备——正站在一个历史性规模扩张的拐点上。&lt;/p&gt;
 &lt;p&gt;据追风交易台，高盛周二发布最新全球科技研报，&lt;strong&gt;将2031年低地球轨道（LEO）卫星基准装机量预测从4.2万颗大幅上调至30.5万颗，涨幅逾634%。这一罕见幅度的预测修正，标志着华尔街对LEO卫星产业规模的重新定价。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;推动上调的核心逻辑并非卫星互联网需求的线性延伸，而是一个全新应用场景的纳入：太空数据中心。&lt;/p&gt;
 &lt;p&gt;高盛预计，&lt;strong&gt;2029年后太空数据中心将取代卫星互联网，成为全球LEO装机量增长的主引擎，届时其占比将从零跃升至63%，并在2031年进一步升至79%。与&lt;/strong&gt;此同时，中国卫星运营商的大规模入场也被列为不可忽视的结构性变量。&lt;/p&gt;
@@ -464,7 +444,27 @@ PCE统计方法悄然调整，高盛瑞银警示通胀读数将被压低
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破两年沉寂！分析师连续10周上调欧股盈利预测，创2024年以来最快速度</title><link>https://wallstreetcn.com/articles/3776669</link><guid>be7593792bad488efc7241f1982d9c047c167c8d1f89f887859a1258b1dcbd5c</guid><pubDate>Fri, 10 Jul 2026 14:03:51 GMT</pubDate><description>&lt;p&gt;欧洲股市上涨正迎来新的基本面支撑。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克曝光SpaceX最新蓝图：明年发射首批AI卫星、五年登陆火星、十年送上万人上月球</title><link>https://wallstreetcn.com/articles/3776668</link><guid>267737c24fb89735b027f326dc85abd5fd6fa1481c6d010c1fb823fe72b40030</guid><pubDate>Fri, 10 Jul 2026 13:42:58 GMT</pubDate><description>&lt;p&gt;马斯克在最新访谈中向市场描绘了SpaceX未来十年的商业想象空间：不&lt;strong&gt;仅计划在两年内部署“太空AI数据中心”以打破地球算力瓶颈，更立下了最快三年内登月、五年内登陆火星的激进时间表。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;近日，在一档由得克萨斯州州长格雷格·阿博特（Greg Abbott）客串主持的《肖恩·汉尼提秀》（Sean Hannity Show）访谈节目中，SpaceX创始人埃隆·马斯克详尽披露了公司的最新运营数据、商业布局以及未来十年的深空探索愿景。&lt;/p&gt;
+&lt;p&gt;作为目前全球估值最高的非上市公司之一，SpaceX的实际业务规模一直是市场关注的焦点。马斯克在访谈开场便用一组绝对数据亮出了SpaceX的行业垄断地位。&lt;strong&gt;“目前，SpaceX将地球上约85%的载荷送入轨道。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;除了为全球提供高带宽、低延迟的星链（Starlink）网络，以及作为NASA唯一认证的美国商业载人航天供应商，马斯克向投资者展示了一个比传统卫星发射更为宏大且具颠覆性的商业故事。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+太空算力：明年发射首批AI卫星，摆脱地球能源限制
+&lt;p&gt;随着全球人工智能军备竞赛的加剧，土地、电力和水资源正在成为制约数据中心扩张的物理瓶颈，而马斯克将目光投向了外太空。这是本次访谈中最具市场增量信息的一环。&lt;/p&gt;
+&lt;p&gt;“&lt;strong&gt;我认为扩展计算能力的真正出路在太空。太空中有着极大的空间&lt;/strong&gt;。”马斯克在解释这一商业逻辑时表示，“如果你看看地球相对于太阳或太阳系的体积，你就会意识到地球有多么微小。我们只能接收到太阳能量的十亿分之五。你可以把地球看作是巨大黑暗中的一粒微小尘埃。”&lt;/p&gt;
+&lt;p&gt;对于太空数据中心的具体落地节点，马斯克给出了明确的指引：“为了在不耗尽地球土地的前提下扩展计算能力，我们需要在太空中进行。这样你就无需消耗地球上的空间、电力和水。所以，我们大概会在明年发射第一批AI卫星，然后在大约两年内实现大规模部署。”&lt;/p&gt;
+全员持股：数千名流水线工人已成百万富翁
+&lt;p&gt;在公司高速扩张的背后，SpaceX的股权激励机制同样引发了市场关注。&lt;/p&gt;
+&lt;p&gt;此前外界盛传一位时薪28美元的电焊工因持有公司股票而暴富，马斯克在节目中不仅证实了此事，还透露了更为庞大的造富规模。&lt;/p&gt;
+&lt;p&gt;“我从第一天起就秉持这样一个理念：&lt;strong&gt;公司的每位员工都应该获得公司股票，这样他们才能分享公司上涨的收益。&lt;/strong&gt;”马斯克说，“当公司繁荣时，公司的员工也会随之繁荣。这非常有利于统一目标。”&lt;/p&gt;
+&lt;p&gt;他进一步向市场展现了这家公司的造富能力：“这不仅仅是一个电焊工的故事。我们有几千名在生产线上工作的员工成为了百万富翁。如果他们加入公司的时间相对较早，那么到目前为止，他们的股票价值可能已经超过了一百万美元。”&lt;/p&gt;
+星际殖民：“把科幻小说变成现实”
+&lt;p&gt;对于市场最为关注的登月和火星计划，虽然马斯克以往的时间表屡有推迟，但他在此次访谈中再次给出了极为笃定且激进的业绩指引。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;针对月球基地建设，马斯克预计最快两三年内将首批宇航员送上月球。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“如果一切顺利，我们可能会在2到3年内把第一批宇航员送上月球，然后从那里开始迅速扩张。&lt;strong&gt;大概10年后，月球上就会有成千上万的人&lt;/strong&gt;。”&lt;/p&gt;
+&lt;p&gt;他的愿景并非建立一个简单的科考站，而是一座功能完备的城市：“最终我们要把成千上万吨的物资运到月球，实际上就是在月球上建一座城市。人们不仅可以永久定居，甚至可以去度假。想象一下，‘亲爱的，今年我们别去新加坡了，我们去月球吧！’这将是一趟绝佳的蜜月之旅。”&lt;/p&gt;
+&lt;p&gt;对于难度远超月球的火星殖民，&lt;strong&gt;马斯克坦言由于地球和火星每26个月才会有一次合适的发射窗口，且单程需要6个月，这极大地增加了挑战。&lt;/strong&gt;但SpaceX依然设定了紧凑的时间线。&lt;/p&gt;
+&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破两年沉寂！分析师连续10周上调欧股盈利预测，创2024年以来最快速度</title><link>https://wallstreetcn.com/articles/3776669</link><guid>be7593792bad488efc7241f1982d9c047c167c8d1f89f887859a1258b1dcbd5c</guid><pubDate>Fri, 10 Jul 2026 14:03:51 GMT</pubDate><description>&lt;p&gt;欧洲股市上涨正迎来新的基本面支撑。&lt;/p&gt;
 &lt;p&gt;在经历近两年的盈利预期持续下修后，欧洲企业盈利展望出现明显改善。花旗集团追踪的盈利预期修正指标显示，&lt;strong&gt;分析师上调欧洲企业盈利预测的次数已连续第十周超过下调，为近两年来最长的一轮净上修。&lt;/strong&gt;与此同时，彭博智库预计，&lt;strong&gt;欧洲企业今年二季度盈利同比增长12%，将创三年多来最快增速。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;盈利预期改善也促使机构进一步上调目标。摩根士丹利将MSCI欧洲指数2026年盈利增速预测上调至12.5%，并预计该指数未来12个月仍有约10%的上涨空间。资金面同样出现回暖，截至7月8日当周，&lt;strong&gt;欧洲股票基金录得约4亿美元净流入，显示全球资金正重新关注欧洲资产。&lt;/strong&gt;&lt;/p&gt;
 &lt;strong&gt;盈利预期连升十周，欧洲股市反弹根基待考&lt;/strong&gt;
