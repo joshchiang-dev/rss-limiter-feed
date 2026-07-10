@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 13:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 10 Jul 2026 14:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年</title><link>https://wallstreetcn.com/articles/3776641</link><guid>1c5c0c6fc1f8c56e4d5008054c02ee9f06fb863a11ac32c049db80185eb82d46</guid><pubDate>Fri, 10 Jul 2026 07:32:16 GMT</pubDate><description>&lt;p&gt;AI基础设施的每一层正在同步承压，而机会与误判并存。SemiAnalysis创始人Dylan Patel近日接受播客专访，系统梳理了当前AI基础设施栈的核心动态与投资逻辑。他的判断涵盖模型经济学、内存超级周期、CPU的重新定价、CPO的时间线风险，以及数据中心能源供给的结构性机遇。&lt;/p&gt;
 &lt;p&gt;针对市场对AI投资回报率（ROI）的普遍质疑，Dylan透露，Anthropic已于今年第二季度实现自由现金流转正，年化经常性收入突破500亿美元，&lt;strong&gt;毛利率超过70%&lt;/strong&gt;。在企业端，最新AI模型带来的生产力跃升远超算力成本的增加，促使企业削减其他软件开支以维持爆炸性增长的AI预算。&lt;/p&gt;
 &lt;p&gt;在硬件演进层面，向推理模型的范式转换正在重构市场需求。Dylan强调，&lt;strong&gt;存储面临长达数年的结构性短缺，仍有2至3倍上行空间；&lt;/strong&gt;与此同时，尽管智能体和强化学习推高了CPU需求，但卖方市场对此定价过高，CPU的增长主要来自历史“补账”，其在AI服务器中的绝对价值仍远不及GPU。&lt;/p&gt;
 &lt;p&gt;Dylan认为，备受市场期待的共封装光学（CPO）大规模落地时间，&lt;strong&gt;则被明确推迟至2028年底至2029年，&lt;/strong&gt;意外延长了铜缆连接器的红利期。而电网输配电的受限，正迫使数据中心转向“表后电源”（自建电源），在传统的芯片投资之外，催生出庞大的工业能源和电力转换供应链投资机会。&lt;/p&gt;
@@ -411,63 +411,66 @@ PCE统计方法悄然调整，高盛瑞银警示通胀读数将被压低
 &lt;p&gt;“如果一切顺利，我们可能会在2到3年内把第一批宇航员送上月球，然后从那里开始迅速扩张。&lt;strong&gt;大概10年后，月球上就会有成千上万的人&lt;/strong&gt;。”&lt;/p&gt;
 &lt;p&gt;他的愿景并非建立一个简单的科考站，而是一座功能完备的城市：“最终我们要把成千上万吨的物资运到月球，实际上就是在月球上建一座城市。人们不仅可以永久定居，甚至可以去度假。想象一下，‘亲爱的，今年我们别去新加坡了，我们去月球吧！’这将是一趟绝佳的蜜月之旅。”&lt;/p&gt;
 &lt;p&gt;对于难度远超月球的火星殖民，&lt;strong&gt;马斯克坦言由于地球和火星每26个月才会有一次合适的发射窗口，且单程需要6个月，这极大地增加了挑战。&lt;/strong&gt;但SpaceX依然设定了紧凑的时间线。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛深度报告：谁将成为中国AI大模型行业的长期赢家？</title><link>https://wallstreetcn.com/articles/3776665</link><guid>1aae37af8aa99c5479b67b45cd2b089e6b6cb27cdd260e165e20bbe04ce34511</guid><pubDate>Fri, 10 Jul 2026 13:14:38 GMT</pubDate><description>&lt;p&gt;中国AI大模型正站在一个历史性拐点上。高盛认为，中国开源/开放权重大模型的智能性能已逼近全球顶尖专有模型，国内企业及全球中小企业的采用规模正在快速扩张，由此形成的数据飞轮效应将进一步推动模型迭代升级。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛最新报告指出，&lt;strong&gt;这一演进轨迹可概括为&amp;quot;从DeepSeek去年的成本效率时刻，到智谱GLM今年的模型智能时刻&amp;quot;。&lt;/strong&gt;高盛分析师Ronald Keung领衔的团队在这份50页的报告中，围绕中国AI模型如何以低成本实现高性能、为何选择开源路线及如何变现、核心可寻址市场在哪里，以及谁将成为长期赢家等四大核心问题展开系统评估。&lt;/p&gt;
-&lt;p&gt;在竞争格局判断上，高盛推出了一套基于定价能力、成本优势与财务实力的&amp;quot;竞争定位框架&amp;quot;，并据此认定，在基础文本模型领域，&lt;strong&gt;智谱（首次覆盖）与DeepSeek（未上市）定位最为强势；在多模态领域，字节跳动（未上市）领跑。高盛同时维持对MiniMax和快手的买入评级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-以小博大，效率制胜
-&lt;p&gt;中国大模型能够以远低于美国同类产品的成本实现接近的性能，核心在于架构创新与参数效率的双重突破。&lt;/p&gt;
-&lt;p&gt;高盛报告指出，中国开源模型的参数规模普遍在2000亿至1.6万亿之间，&lt;strong&gt;仅为全球顶尖模型的2%至10%&lt;/strong&gt;，这主要源于高端算力获取受限。与此同时，混合专家架构（MoE）、稀疏注意力机制等创新使得实际激活参数占总参数的比例仅为3%至5%，大幅压低了训练与推理成本。&lt;/p&gt;
-&lt;p&gt;在具体模型层面，DeepSeek V4 Pro参数量为1.6万亿，智谱GLM5.2为0.7万亿，MiniMax M3为0.4万亿。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛将中国模型在编程能力上的近期跃升归因于数据筛选、强化学习后训练等因素的协同作用。&lt;/strong&gt;6月27日，DeepSeek推出推测解码框架DSpark，已在V4-Flash和V4 Pro的在线服务中部署，在不改变模型权重或输出质量的前提下，将每用户生成速度提升60%至85%（V4-Flash）和57%至78%（V4 Pro）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美团于6月30日发布的LongCat 2.0被高盛视为中国AI基础设施自主化的重要里程碑&lt;/strong&gt;——这是中国首个完全基于5万张国产算力卡训练和部署的1.6万亿参数开源MoE模型。高盛认为，这证明了在计算密集型预训练阶段，本土化硬件栈的可行性，对中国AI模型摆脱对外国高端芯片的依赖具有深远意义。&lt;/p&gt;
-市场两极分化，强者愈强
-&lt;p&gt;高盛将中国AI模型市场描述为正在形成的&amp;quot;双层结构&amp;quot;，并识别出两个ARR最大化象限。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在高端市场，以智谱GLM5.2和阿里巴巴Qwen3.7 Max为代表的顶尖模型定价约为每百万token 1美元，是低端模型的5倍，推理毛利率约为10%至20%（高盛估算）。&lt;/strong&gt;相比之下，美国顶尖模型定价为每百万token 4至8美元，中国高端模型仅为其10%至25%，但凭借更低的参数激活比，仍能维持正毛利。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在低端市场，面向智能体任务的模型定价低至每百万token 0.06至0.2美元，正在开拓对价格敏感的全球中小企业和个人用户市场。&lt;/strong&gt;MiniMax有60%至70%的收入来自海外。值得关注的是，DeepSeek已宣布自7月中旬起对V4系列引入峰谷定价机制，峰时费率为非峰时的2倍，混合定价约为每百万token 0.35美元（V4 Pro）和0.12美元（V4 Flash）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛预测，中国AI模型的API及订阅收入将从2026年估算的350亿元人民币增长至2030年的8790亿元人民币，对应每日token消耗量从350万亿增至4600万亿，增幅约25倍。&lt;/strong&gt;&lt;/p&gt;
-开源策略：广泛渗透，变现路径待升级
-&lt;p&gt;高盛报告详细梳理了中国AI模型普遍采用开源/开放权重路线的战略逻辑及其变现局限。&lt;/p&gt;
-&lt;p&gt;开源策略的核心优势在于部署灵活性与社区生态。阿里巴巴Qwen系列、DeepSeek、智谱GLM及MiniMax M3均采用开源或开放权重方式，字节跳动的Seed模型是主要例外，采用完全闭源的专有路线。开源模式允许模型在中国大陆内外灵活部署，并通过社区反馈加速迭代。&lt;/p&gt;
-&lt;p&gt;然而，高盛指出，&lt;strong&gt;开源模型公司披露的ARR数字很可能严重低估了实际部署规模和收入潜力。&lt;/strong&gt;以智谱为例，其2026年底ARR目标为10亿美元，但GLM5.2在全球的实际部署量将远高于智谱自有API渠道的token量和收入——阿里云百炼MaaS平台可直接托管GLM5.2开源模型，无需向智谱支付任何费用。&lt;/p&gt;
-&lt;p&gt;高盛预计，行业将逐步从纯开源（MIT许可证，完全免费）向&amp;quot;开放权重+社区许可证&amp;quot;模式迁移——即商业使用须与模型公司签订收入分成协议。MiniMax M系列已率先采用这一模式。高盛认为，这一转变将显著改善AI模型公司的单位经济效益，因为模型公司可通过与AWS Bedrock、阿里云百炼等平台的收入分成协议获益，而无需自行承担推理算力成本。&lt;/p&gt;
-从&amp;quot;token最大化&amp;quot;到ROI优先
-&lt;p&gt;高盛将国际市场扩张定性为中国AI模型最重要的上行空间，尤其是在非美国市场。&lt;/p&gt;
-&lt;p&gt;高盛美国研究团队估算，&lt;strong&gt;到2030年，智能体AI将推动全球token消耗量增长24倍，达到每月120千万亿token，其中企业智能体贡献55倍增长，消费者智能体贡献12倍增长。&lt;/strong&gt;在全球（中国以外）市场，中国AI模型已凭借性能提升和价格优势实现显著的token份额增长。&lt;/p&gt;
-&lt;p&gt;高盛报告指出，全球企业的AI使用范式正在经历从&amp;quot;token最大化&amp;quot;向&amp;quot;ROI优先&amp;quot;的根本性转变。前者盛行于2025年底至2026年初，企业将高token消耗等同于组织生产力；后者则更关注清晰的任务边界、每日活跃智能体数量、后端流程自动化及实际产出。一项Jellyfish AI工程趋势研究的数据显示，企业中的重度AI用户消耗了10倍的token，但产出仅提升了2倍。&lt;/p&gt;
-&lt;p&gt;在渠道层面，Alphabet旗下Gemini Enterprise Agent Platform和亚马逊AWS Bedrock均已提供DeepSeek、MiniMax、Moonshot、GLM和Qwen等中国AI模型的托管服务。据华尔街日报报道，微软CEO近期表示，微软正在考虑将DeepSeek的版本托管于Copilot，作为可选的低成本模型，并强调若托管DeepSeek，该模型将在微软云生态系统内运行，确保客户数据留存于Azure之内。&lt;/p&gt;
-谁是长期赢家？
-&lt;p&gt;高盛构建了一套三维竞争定位框架，以定量指标评估各玩家的长期胜出概率，核心公式为：ARR规模×毛利率优势+财务实力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;定价能力&lt;/strong&gt;维度考察上市速度（与前代及同级别模型的对比）、LMArena竞技场评分（基于大规模盲测用户评价）以及每百万token的混合定价水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;成本优势&lt;/strong&gt;维度考察吞吐量（每秒token数）、缓存命中率、参数激活比以及推理毛利率。&lt;strong&gt;财务实力&lt;/strong&gt;维度考察手头现金、净现金占总资产比例以及估值倍数。&lt;/p&gt;
-&lt;p&gt;在&lt;strong&gt;基础文本模型&lt;/strong&gt;领域，高盛认定智谱（首次覆盖，中性评级，目标估值1100亿美元）和DeepSeek（未上市）定位最强，两者在定价能力和成本优势上均表现突出。独立AI模型公司整体隐含估值合计超过2000亿美元。&lt;/p&gt;
-&lt;p&gt;在&lt;strong&gt;多模态/视频生成&lt;/strong&gt;领域，字节跳动凭借Seedance领跑，据LatePost和36Kr报道，Seedance毛利率高达70%，ARR运行率已超过20亿美元。快手可灵和MiniMax Hailuo/即将推出的H3模型亦被高盛看好，预计2026年下半年将受益于视频生成与LLM融合的功能突破及供给紧张带来的健康定价。&lt;/p&gt;
-&lt;p&gt;高盛对MiniMax维持买入评级，目标价860港元，理由是其M3模型处于高token量与有吸引力定价的ARR最大化象限，且当前估值仅为2026年底ARR的13倍，相较中国及全球同类公司的估值倍数存在明显折价，风险收益比偏向上行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “所有人都在满仓做多”！美银：盯紧日本市场，这将是预告全球大跌的“金丝雀”</title><link>https://wallstreetcn.com/articles/3776662</link><guid>96077e56f19621023f37fa983eae1a1c76702a7d9701cd7e20c457e100c643ad</guid><pubDate>Fri, 10 Jul 2026 12:09:29 GMT</pubDate><description>&lt;p&gt;市场几乎已经形成“一边倒”看多共识，而这恰恰成为美国银行最担忧的风险信号。&lt;/p&gt;
-&lt;p&gt;美银最新一期《The Flow Show》资金流向报告显示，截至7月8日当周，全球股票基金再度吸引566亿美元资金流入，科技股资金流入速度有望刷新全年历史纪录；与此同时，&lt;strong&gt;美银牛熊指标（Bull &amp;amp; Bear Indicator）维持在9.5的极度乐观区间，&amp;quot;卖出信号&amp;quot;已连续触发数周。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美银首席投资策略师Michael Hartnett认为，目前市场押注的是&amp;quot;四个不会&amp;quot;——&lt;strong&gt;美国经济不会硬着陆、美联储不会加息、AI资本开支不会削减、民主党不会横扫中期选举&lt;/strong&gt;。正是这四大共识支撑了风险资产持续上涨，但任何一项预期落空，都可能成为市场由盛转衰的导火索。&lt;/p&gt;
-&lt;p&gt;在所有风险观察指标中，Hartnett特别点名日本市场。他认为，&lt;strong&gt;日本银行股仍是全球风险偏好的&amp;quot;金丝雀&amp;quot;：若日本国债收益率进一步快速上升，导致银行股由强转弱，很可能意味着全球风险资产开始进入调整周期。&lt;/strong&gt;&lt;/p&gt;
-牛熊指标持续亮红灯：&amp;quot;所有人都在满仓做多&amp;quot;
-&lt;p&gt;美银牛熊指标本周继续维持9.5，远高于8以上即触发&amp;quot;卖出信号&amp;quot;的警戒线。历史数据显示，过去24年该指标共发出17次卖出信号，此后全球ACWI指数未来2至3个月平均下跌2%-3%，命中率约60%，极端情况下最大回撤达到15%-20%。&lt;/p&gt;
-&lt;p&gt;从各项分指标来看，&lt;strong&gt;市场情绪几乎全面处于极端乐观状态&lt;/strong&gt;：对冲基金仓位位于81百分位；全球股票资金流向位于88百分位；债券资金流向位于84百分位；基金经理仓位更达到100百分位。唯一仍处于中性的指标，仅剩全球股市市场广度。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;美银全球资金流交易模型也已连续8周维持卖出信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-全球资金继续疯狂涌向股票，科技股有望创历史纪录
-&lt;p&gt;资金仍在持续追逐风险资产。截至7月8日当周，&lt;strong&gt;全球股票基金净流入566亿美元，为今年第四大单周流入&lt;/strong&gt;；其中科技基金单周吸引188亿美元资金，如果维持当前节奏，2026年全年科技基金净流入规模将达到1830亿美元，创历史新高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;地区资金流向同样反映风险偏好回升&lt;/strong&gt;：美国股票基金重新获得251亿美元净流入；中国股票基金流入90亿美元，为去年12月以来最大；欧洲股票基金则连续第13周出现资金流出。与此同时，投资级债券连续14周获得资金净流入，银行贷款基金则录得去年2月以来最大单周流入。&lt;/p&gt;
-&lt;p&gt;值得注意的是，现金并未退出市场。货币市场基金规模已经升至7.9万亿美元，再创历史新高，当周仍吸引395亿美元资金流入，意味着大量资金一边追逐风险资产，一边保留充足&amp;quot;弹药&amp;quot;等待新的配置机会。&lt;/p&gt;
-日本银行股，成为全球市场最重要的预警信号
-&lt;p&gt;相比美国科技股，美银更关注日本市场。Hartnett指出，过去三年，日本10年期国债收益率由约0.5%一路升至接近3%，日本银行股同期累计上涨约三倍，成为全球表现最强的板块之一。&lt;/p&gt;
-&lt;p&gt;在他看来，&lt;strong&gt;日本银行股实际上反映的是全球流动性与收益率环境。如果日本国债收益率继续快速攀升，并开始压制银行股表现，那么这一变化很可能意味着全球风险偏好开始逆转，并成为全球股市调整最早出现的&amp;quot;金丝雀&amp;quot;信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-支撑市场上涨的是&amp;quot;四个不会&amp;quot;
-&lt;p&gt;&lt;strong&gt;Hartnett将当前市场的乐观预期概括为&amp;quot;四个不会&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;第一，&lt;strong&gt;美国经济不会硬着陆&lt;/strong&gt;，意味着企业盈利仍有支撑，资金继续选择&amp;quot;远离债券、拥抱股票&amp;quot;。&lt;/p&gt;
-&lt;p&gt;第二，&lt;strong&gt;美联储至少在中期选举前不会重新加息，全球央行整体仍维持宽松倾向&lt;/strong&gt;。今年以来，全球央行累计降息34次，高于21次加息。&lt;/p&gt;
-&lt;p&gt;第三，&lt;strong&gt;AI资本开支不会削减。&lt;/strong&gt;市场一致预期，全球科技巨头2026年AI资本支出约8000亿美元，2027年进一步升至约1万亿美元，这仍是科技股估值最重要的支撑。&lt;/p&gt;
-&lt;p&gt;第四，民主党不会横扫美国中期选举，因此&lt;strong&gt;财政、税收等政策不会出现剧烈变化。&lt;/strong&gt;&lt;/p&gt;
-四大共识一旦破裂，市场将迎来逆向交易机会
-&lt;p&gt;Hartnett同时强调，真正值得关注的并非市场当前相信什么，而是哪些共识最有可能被打破。&lt;/p&gt;
-&lt;p&gt;如果美国经济最终出现明显降温，非农就业持续走弱，长期国债、防御性消费、高股息股票以及大型科技股都可能重新跑赢市场。&lt;/p&gt;
-&lt;p&gt;如果美联储被迫重新加息，则美元和收益率曲线平坦化交易将成为主要受益方向。Hartnett指出，&lt;strong&gt;目前美国CPI与失业率均约为4.2%，这种组合过去百年仅出现过数次，而随后几乎都伴随着加息和市场动荡。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果AI资本开支开始收缩，则将直接冲击当前市场最核心的投资逻辑。届时软件板块及大型科技平台可能相对占优，而费城半导体指数（SOX）面临更大的估值压力。&lt;strong&gt;美银认为，债务融资空间收窄、现金流恶化以及科技巨头持续裁员，都可能成为AI投资降温的前兆。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;政治风险同样不可忽视。若民主党最终横扫中期选举，共和党失去参议院控制权，市场可能重新交易财政扩张受限、美元走弱和美债收益率下行的情景。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF申赎统计2026-07-10</title><link>http://xueqiu.com/3559889031/399386770</link><guid>f4174c5eac47d70577140ae64b2165c1ab3fe77d45b1a1e694825861a6e95008</guid><pubDate>Fri, 10 Jul 2026 10:02:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;即使周四如此大涨，宽基ETF还是净流入。不一样，真是不一样了。&lt;/p&gt;</description></item><item><title>[今日雪球] 以股息为锚</title><link>http://xueqiu.com/7913104177/399392312</link><guid>b12eff1d0b8bb3608961cecde7868a99fa8a4acca666e6901bb65a73cdc7c428</guid><pubDate>Fri, 10 Jul 2026 10:02:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;         语文可以瞎编，英语可以运气，数学不会就是不会。下跌害怕就是害怕，不害怕就是不害怕。下跌是检验认知企业最好的试金石，也是对自己投资体系的压力测试。价值投资是勉强不来的，我说对多数人低买高卖才是最匹配的投资方式。不是说这样做更容易赚钱，而是这样赔钱后更容易接受。七亏二平一赢，结局早就注定。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;“&lt;strong&gt;如果一切顺利，我们大概能在5年内将第一批人类送上火星&lt;/strong&gt;。”马斯克在访谈最后毫不掩饰他的野心，“然后我们会每隔两年大幅增加飞往火星的飞船数量。希望在10到12年的时间里，我们能把数千人送到火星。我们要把人们在科幻小说里看到的东西变成现实，而不是停留在虚构中，成为一个真正穿梭于群星之间的太空文明。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 看好太空数据中心，高盛大幅上调低轨卫星装机预测：2031年暴增至30万颗，乐观情景冲到40万</title><link>https://wallstreetcn.com/articles/3776671</link><guid>835e3ddbc554c214c8323c2f1d7425607b73085322c92e3aabfe498a1cb9d2aa</guid><pubDate>Fri, 10 Jul 2026 14:03:59 GMT</pubDate><description>&lt;p&gt;从火箭制造、卫星硬件到地面终端设备——正站在一个历史性规模扩张的拐点上。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛周二发布最新全球科技研报，&lt;strong&gt;将2031年低地球轨道（LEO）卫星基准装机量预测从4.2万颗大幅上调至30.5万颗，涨幅逾634%。这一罕见幅度的预测修正，标志着华尔街对LEO卫星产业规模的重新定价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;推动上调的核心逻辑并非卫星互联网需求的线性延伸，而是一个全新应用场景的纳入：太空数据中心。&lt;/p&gt;
+&lt;p&gt;高盛预计，&lt;strong&gt;2029年后太空数据中心将取代卫星互联网，成为全球LEO装机量增长的主引擎，届时其占比将从零跃升至63%，并在2031年进一步升至79%。与&lt;/strong&gt;此同时，中国卫星运营商的大规模入场也被列为不可忽视的结构性变量。&lt;/p&gt;
+
+预测大幅上调：2029年后装机量呈指数级跃升
+
+&lt;p&gt;高盛于2025年2月首次发布LEO卫星行业预测。&lt;/p&gt;
+&lt;p&gt;此次报告显示，2025年底全球LEO卫星实际装机量约为9,982颗，略高于此前9,700颗的预测，发射进度已超出初始预期。&lt;/p&gt;
+&lt;p&gt;新旧预测的分歧在近期并不显著，但随时间推移急剧扩大。&lt;/p&gt;
+&lt;p&gt;2026年新预测为13,088颗，仅较旧预测12,000颗高出约9%；2028年新预测为23,796颗，较旧预测19,000颗高出约25%。&lt;strong&gt;真正的断层出现在2029年——新预测骤升至90,042颗，同比增幅达278%，2030年进一步升至164,244颗，2031年则达到305,293颗，较旧预测的42,000颗高出整整634%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛明确指出，新旧预测之间的巨大差距，&lt;strong&gt;核心来源是将太空数据中心纳入了卫星应用场景的预测体系&lt;/strong&gt;。这一新增维度从根本上改变了行业装机量的增长曲线形态。&lt;/p&gt;
+
+太空数据中心：2029年后的最大增量引擎
+
+&lt;p&gt;按应用场景拆分，高盛的预测揭示了一个关键的结构性转变。&lt;/p&gt;
+&lt;p&gt;2025年至2028年，全球LEO装机量增量100%来自卫星互联网；进入2029年，太空数据中心的占比骤升至63%，卫星互联网降至37%；到2031年，太空数据中心占比进一步升至79%，基准情景装机量达241,486颗，而卫星互联网装机量仅为63,807颗。&lt;/p&gt;
+&lt;p&gt;高盛在报告中阐述了太空数据中心的核心吸引力：可无限获取低成本太阳能供电，并具备边缘计算能力，可直接处理卫星数据。&lt;/p&gt;
+&lt;p&gt;不过，高盛也承认，太空数据中心的技术可行性仍有待验证。这意味着，2029年后装机量预测能否兑现，在相当程度上取决于这一全新商业模式能否完成从概念到规模化落地的跨越，构成整份预测最大的不确定因素。&lt;/p&gt;
+
+蓝天情景：中国星座若如期推进，2031年可达39.6万颗
+
+&lt;p&gt;高盛同步提出了乐观的&amp;quot;蓝天情景&amp;quot;，核心假设包括：火箭运力好于预期、卫星通信商业化提速，以及中国厂商提交的20万颗LEO星座计划得以长期实现。&lt;/p&gt;
+&lt;p&gt;蓝天情景下，2031年全球LEO装机量可达395,624颗，较基准情景305,293颗高出约30%。&lt;/p&gt;
+&lt;p&gt;两种情景之间最大的差异来源于中国：&lt;strong&gt;基准情景下，中国2031年装机量为23,750颗，占全球8%；蓝天情景下，这一数字跃升至101,148颗，占全球26%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至2025年底，中国卫星运营商实际在轨运营卫星仅有253颗，但其已集体向国际电信联盟（ITU）提交逾20万颗中低轨卫星的申请。&lt;/p&gt;
+&lt;p&gt;高盛将此解读为抢占频谱和轨道资源的战略性举措，而非短期内必然实现的发射计划。&lt;/p&gt;
+
+火箭技术：装机量能否兑现的核心变量
+
+&lt;p&gt;高盛将火箭技术进步列为整个预测能否落地的关键约束条件，并从发射频率、运力提升和可复用技术三个维度展开分析。&lt;/p&gt;
+&lt;p&gt;在发射频率方面，领先运营商Starlink在2025年已实现平均每三天发射一次的节奏；2026年4月，SpaceX更创下19小时内连续发射两枚火箭的纪录，表明效率仍有进一步提升空间。&lt;/p&gt;
+&lt;p&gt;在运力方面，当前主流可复用火箭的LEO载荷约为17,500公斤，下一代火箭载荷将达100至150吨，运力提升幅度约6至9倍。&lt;/p&gt;
+&lt;p&gt;对中国而言，国产可复用火箭的突破是LEO卫星加速扩张的关键里程碑。目前进展包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;长征十号（LM-10）&lt;/strong&gt;：2026年2月成功完成一级软着陆海上溅落测试，7月10号完成一级火箭网系回收；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;朱雀三号（Zhuque-3）&lt;/strong&gt;：2025年12月测试飞行部分成功，2026年第二季度将进行回收测试飞行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;双曲线三号（Hyperbola-3）&lt;/strong&gt;：计划于2026年底前完成首次发射；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PALLAS-1&lt;/strong&gt;：银河航天可复用火箭，计划2026年完成首次发射。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破两年沉寂！分析师连续10周上调欧股盈利预测，创2024年以来最快速度</title><link>https://wallstreetcn.com/articles/3776669</link><guid>be7593792bad488efc7241f1982d9c047c167c8d1f89f887859a1258b1dcbd5c</guid><pubDate>Fri, 10 Jul 2026 14:03:51 GMT</pubDate><description>&lt;p&gt;欧洲股市上涨正迎来新的基本面支撑。&lt;/p&gt;
+&lt;p&gt;在经历近两年的盈利预期持续下修后，欧洲企业盈利展望出现明显改善。花旗集团追踪的盈利预期修正指标显示，&lt;strong&gt;分析师上调欧洲企业盈利预测的次数已连续第十周超过下调，为近两年来最长的一轮净上修。&lt;/strong&gt;与此同时，彭博智库预计，&lt;strong&gt;欧洲企业今年二季度盈利同比增长12%，将创三年多来最快增速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盈利预期改善也促使机构进一步上调目标。摩根士丹利将MSCI欧洲指数2026年盈利增速预测上调至12.5%，并预计该指数未来12个月仍有约10%的上涨空间。资金面同样出现回暖，截至7月8日当周，&lt;strong&gt;欧洲股票基金录得约4亿美元净流入，显示全球资金正重新关注欧洲资产。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;盈利预期连升十周，欧洲股市反弹根基待考&lt;/strong&gt;
+&lt;p&gt;在经历近两年几乎不间断的下调后，欧洲企业盈利预期的修正方向出现实质性逆转。据花旗基于彭博数据的统计，欧洲盈利预期已连续十周获净上调，创2024年中以来最长连升纪录。&lt;/p&gt;
+&lt;p&gt;不过，彭博同时提醒，两年前类似的上调曾在财报季启动前数周戛然而止，并迅速转为下行，这一先例令市场对当前趋势的可持续性存疑。&lt;/p&gt;
+&lt;p&gt;更为关键的是，预期本身正成为风险源。&lt;strong&gt;当前市场对盈利增速的计价已处于高位，一旦实际财报表现不及预期，股价回调压力将随之放大。&lt;/strong&gt;从行业结构看，能源板块受益于油价维持相对高位，利润端有望获得支撑；银行业则被视作欧洲AI应用浪潮的早期受益方向，预计盈利韧性将继续显现。&lt;/p&gt;
+&lt;p&gt;资管机构Natalia Milovets基金经理Marina Zavolock认为，市场对欧洲企业盈利存在系统性误判。&lt;strong&gt;“通胀环境、AI渗透以及全球收入多元化布局，正共同构成欧洲企业盈利的结构性支撑，”她表示，“这些因素尚未被充分定价，为欧洲股市进一步上行留有空间。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场表现层面，自今年3月以来持续跑输美股后，欧洲斯托克600指数于上月实现反超，跑赢标普500指数。背后催化因素之一，是美伊临时和平协议一度缓和了地缘风险溢价；尽管近期地缘风险再度升温，但当前油价水平仍显著低于冲突高峰时期。&lt;/p&gt;
+&lt;p&gt;贝莱德基本面股票国际首席投资官Helen Jewell指出：&lt;strong&gt;“欧洲当前更适合作为组合中的分散化工具。AI主题持仓已高度集中，而欧洲市场的行业广度可有效对冲此类拥挤风险。从盈利趋势和企业韧性来看，欧洲并不处于劣势。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF申赎统计2026-07-10</title><link>http://xueqiu.com/3559889031/399386770</link><guid>f4174c5eac47d70577140ae64b2165c1ab3fe77d45b1a1e694825861a6e95008</guid><pubDate>Fri, 10 Jul 2026 10:02:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;即使周四如此大涨，宽基ETF还是净流入。不一样，真是不一样了。&lt;/p&gt;</description></item><item><title>[今日雪球] 以股息为锚</title><link>http://xueqiu.com/7913104177/399392312</link><guid>b12eff1d0b8bb3608961cecde7868a99fa8a4acca666e6901bb65a73cdc7c428</guid><pubDate>Fri, 10 Jul 2026 10:02:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;         语文可以瞎编，英语可以运气，数学不会就是不会。下跌害怕就是害怕，不害怕就是不害怕。下跌是检验认知企业最好的试金石，也是对自己投资体系的压力测试。价值投资是勉强不来的，我说对多数人低买高卖才是最匹配的投资方式。不是说这样做更容易赚钱，而是这样赔钱后更容易接受。七亏二平一赢，结局早就注定。&lt;/p&gt;</description></item></channel></rss>
