@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 11 Jul 2026 05:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌</title><link>https://wallstreetcn.com/articles/3776623</link><guid>2fc8c6cdc556843a454d060b2002ecba40de825575779ebb591e3b18e870f66b</guid><pubDate>Fri, 10 Jul 2026 23:11:15 GMT</pubDate><description>&lt;p&gt;美股周五延续涨势，标普500指数收盘逼近历史高位，科技股领涨全场。SK海力士ADR首日上涨逾13%，Meta大涨约6%，AI交易重回主线。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 11 Jul 2026 05:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌</title><link>https://wallstreetcn.com/articles/3776623</link><guid>2fc8c6cdc556843a454d060b2002ecba40de825575779ebb591e3b18e870f66b</guid><pubDate>Fri, 10 Jul 2026 23:11:15 GMT</pubDate><description>&lt;p&gt;美股周五延续涨势，标普500指数收盘逼近历史高位，科技股领涨全场。SK海力士ADR首日上涨逾13%，Meta大涨约6%，AI交易重回主线。&lt;/p&gt;
 &lt;p&gt;与此同时，伊朗紧张局势持续升温，但市场展现出明显的抗跌韧性，选择忽视地缘政治风险、聚焦即将到来的财报季。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;特朗普周五宣布美伊停火协议&amp;quot;已结束&amp;quot;，油价短暂上冲后迅速回落，原油连续第三日收跌，为市场提供额外支撑。&lt;/p&gt;
@@ -299,33 +299,35 @@ SemiAnalysis：Meta AI有望半年内超越谷歌
 &lt;p&gt;据路透社援引一份内部备忘录报道，Meta今年在AI基础设施上的资本支出上限高达1450亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在人才方面&lt;/strong&gt;，Meta已将3000名工程师重新调配至内部强化学习环境工厂，构建商业数据供应商难以复制的专有数据，并斥资143亿美元投资Scale AI，借此从OpenAI、Anthropic等机构大规模引进顶尖研究人员。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;SemiAnalysis认为，仅凭当下的基准测试成绩评估MSL是“只见树木不见森林”，真正关键的是未来的发展后劲，而非眼前的起点高低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，若扎克伯格维持当前的资本投入节奏，谷歌有可能被永久排出全球AI超大规模玩家的第一梯队。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 对话即刻2.5 lab技术负责人：做AI应用会优先考虑利润</title><link>https://wallstreetcn.com/articles/3776696</link><guid>9cfb03bdd2834b7eb0c61613abb454fbbdaf453504e34a1ca84d88786c46f986</guid><pubDate>Sat, 11 Jul 2026 02:41:16 GMT</pubDate><description>&lt;p&gt;作者 | 黄昱&lt;/p&gt;
-&lt;p&gt;每一次AI大模型升级，都意味着一批依赖单点能力的AI应用产品壁垒会被进一步压缩，甚至失去独立存在的价值。&lt;/p&gt;
-&lt;p&gt;这让AI应用创业始终笼罩着一种不确定性。&lt;/p&gt;
-&lt;p&gt;即刻旗下2.5 lab技术负责人夏俊晨如今重点开发的AI应用包括一款AI旅游翻译应用kulikuli。他目前最担心的竞争对手就是Google translate。&lt;/p&gt;
-&lt;p&gt;夏俊晨向华尔街见闻坦言，“团队每天都在面对快速变化的市场环境压力”，这是每一家AI应用团队都会面对的问题。&lt;/p&gt;
-&lt;p&gt;但他认为，真正的大模型厂商和AI应用创业者，打的是两场不同的仗，各自诉求不一样，小公司更关注如何做一个赚钱的产品。此外，创业公司关注的一些赛道在大厂很容易被边缘化，一旦边缘化的话，小公司就还是有这种活下去的缝隙。&lt;/p&gt;
-&lt;p&gt;即刻孵化最成功的产品就是播客平台小宇宙，大概在4年前，即刻成立了2.5 lab，这个部门主要就是做一些AI创新项目。 &lt;/p&gt;
-&lt;p&gt;夏俊晨告诉华尔街见闻，部门名字的由来是希望为2.5%的早期尝鲜者做产品，探索AI能够解决哪些过去解决不了的问题，或者重新优化那些已经存在的问题。&lt;/p&gt;
-&lt;p&gt;过去几年，2.5 lab先后孵化出开源 AI 客户端Chatbox、主打“一个界面同时用多个大模型、并排对比输出”的ChatHub、kulikuli以及自律工具&amp;quot;自律石头&amp;quot;等多个产品。&lt;/p&gt;
-&lt;p&gt;夏俊晨透露，虽然用户规模没有很大，但2.5 lab推出的这几个产品都是已经有利润了的。&lt;/p&gt;
-&lt;p&gt;在规模拓客与利润之间，夏俊晨优先选择利润。&lt;/p&gt;
-&lt;p&gt;过去十多年，互联网产品几乎遵循同一套增长公式：免费获取用户、快速扩大DAU，再寻找商业模式。&lt;/p&gt;
-&lt;p&gt;但AI时代，这套方法开始失效。原因很简单——成本。&lt;/p&gt;
-&lt;p&gt;与传统互联网产品不同，AI服务无法以极低边际成本无限扩张，每一次模型调用和服务交付都会带来实际成本。随着调用规模扩大，Token成本迅速成为“吞金兽”。&lt;/p&gt;
-&lt;p&gt;夏俊晨用实际体验证明了这一点。&lt;/p&gt;
-&lt;p&gt;他告诉华尔街见闻，现在几乎所有AI应用都会遇到同一个问题：Token成本往往占到整体收入的70%左右。一天收入1000元，可能有700元都要支付模型费用。在这样的成本结构下，再按照互联网时代&amp;quot;烧钱换用户&amp;quot;的方式做增长，几乎难以成立。&lt;/p&gt;
-&lt;p&gt;与此同时，一级市场也不会愿意单纯为用户规模买单。相比DAU、下载量，投资人如今更关心收入、ARR以及商业化效率是否成立。只有商业模式跑通，证明产品真正有人愿意付费，后续的增长才有意义。&lt;/p&gt;
-&lt;p&gt;“必须先验证商业化，再做增长。”&lt;/p&gt;
-&lt;p&gt;在夏俊晨看来，这已经成为AI应用创业的新顺序。而kulikuli能够从一个一度接近被放弃的“玩具项目”成长为拥有数百万用户、实现盈利的产品，正是沿着这一路径走出来的。&lt;/p&gt;
-&lt;p&gt;据悉，kulikuli刚推出的前三个月是免费的，当时夏俊晨就因为成本压力而有点不知道这个项目该何去何从了，甚至聊过&amp;quot;要不就停掉这个项目&amp;quot;。后来他们试着加上付费，结果真有人愿意掏钱，最后才把这个项目跑正。&lt;/p&gt;
-&lt;p&gt;据夏俊晨介绍，kulikuli如今总用户超过300万、基本是海外用户，团队约10人，有不错盈利的收入。&lt;/p&gt;
-&lt;p&gt;夏俊晨认为由于Google translate的翻译效果还达不到kulikuli，所以kulikuli依然还有生存空间。&lt;/p&gt;
-&lt;p&gt;至于为何Google translate反而做的不如一家小公司的产品效果好，夏俊晨认为，旅游翻译这类场景对谷歌这样的大公司来说太偏远、太不赚钱，而kulikuli能做好是因为“团队很多精力投入在这上面，也有我们工程的一些积累”。&lt;/p&gt;
-&lt;p&gt;除了产品竞争力外，如何尽可能降低模型成本也是开发团队必须要考虑的事情。&lt;/p&gt;
-&lt;p&gt;夏俊晨透露，在保持质量不变的前提下，通过类似腾讯云TokenHub这样的服务把成熟场景的成本砍掉50%到70%是可行的。&lt;/p&gt;
-&lt;p&gt;生存一旦解决，野心也会长出来。夏俊晨说这有点像&amp;quot;升级打怪&amp;quot;——爬过一座类似kulikuli这样的山，团队就不太想再爬同样的山，会想找更高的。&lt;/p&gt;
-&lt;p&gt;2.5Lab做新项目其实没有固定赛道，也没有设立所谓的客观评估系统，夏俊晨说：“更多是主观的”。如今在WorkBuddy等Agent工具辅助下，任何岗位的人，只要提出一个产品想法，做出原型，并能够持续推动，就有机会组成团队，把项目真正做出来。 &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出"内存即服务"新模式</title><link>https://wallstreetcn.com/articles/3776682</link><guid>662859dc56917ae1bc5c66497d011fd493dac5d199cb6c77744d8d43331616a0</guid><pubDate>Fri, 10 Jul 2026 18:34:19 GMT</pubDate><description>&lt;p&gt;SK海力士本周完成了外资企业在美最大规模首次公开发行，募资265亿美元，并已超越阿里巴巴跻身史上第三大IPO。&lt;/p&gt;
+&lt;p&gt;报告指出，若扎克伯格维持当前的资本投入节奏，谷歌有可能被永久排出全球AI超大规模玩家的第一梯队。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 1个月上涨25%后，美国生物医药板块周五重挫</title><link>https://wallstreetcn.com/articles/3776698</link><guid>f7be6b244ebee9cdb14b0e89e503681fec1024fa4a9e0a77072f35442181a654</guid><pubDate>Sat, 11 Jul 2026 05:26:59 GMT</pubDate><description>&lt;p&gt;美国生物医药板块周五遭遇大规模抛售，此前累积的巨额涨幅引发集中获利了结，板块代表性ETF单日跌幅达4%。&lt;/p&gt;
+&lt;p&gt;Moderna股价下跌11%至68.50美元，ImmunityBio跌8%至8.16美元，Sarepta Therapeutics跌8%至18.84美元。上述三家公司均无任何负面消息触发本次下跌，&lt;strong&gt;市场普遍将此次回调解读为高位获利了结。&lt;/strong&gt;与此同时，资金出现明显的板块轮动迹象——从高贝塔生物医药股流向防御性大市值制药公司。&lt;/p&gt;
+&lt;p&gt;板块整体承压的背景清晰可见。代表生物医药板块的SPDR S&amp;amp;P Biotech ETF（XBI）周五跌4%，而Eli Lilly仅跌3%，Johnson &amp;amp; Johnson跌幅更只有1%。大型制药公司相对抗跌，显示市场资金正在进行结构性再配置，而非全面撤离医药领域。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+获利了结主导本轮下跌
+
+&lt;p&gt;此次跌势发生在三家公司今年以来大幅上涨之后。截至周四收盘，Moderna年内累计涨幅达160%，ImmunityBio年内涨幅更高达348%。在此背景下，任何个股均未出现基本面层面的利空消息。&lt;/p&gt;
+&lt;p&gt;从近期基本面来看，相关公司的最新动态实际上偏向积极。ImmunityBio、今年一季度营收达4421万美元，同比增长168%，ANKTIVA销售量同期亦增长168%。Sarepta Therapeutics刚刚获得Wolfe Research上调评级至&amp;quot;跑赢大盘&amp;quot;，目标价27美元，较周四收盘价隐含34%的上行空间。Moderna一季度营收3.89亿美元，超出市场一致预期65%，管理层同时重申全年营收增幅最高可达10%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;既无利空催化剂，基本面又相对稳健，此次下跌的逻辑指向单一——在抛物线式上涨后的集中获利了结。&lt;/strong&gt;&lt;/p&gt;
+
+大型制药公司相对抗跌，轮动信号明显
+
+&lt;p&gt;周五的板块分化为市场资金流向提供了重要线索。Eli Lilly年内累计涨幅仍达10%，Johnson &amp;amp; Johnson年内涨幅达24%，两者跌幅均远小于高贝塔生物医药股。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一价格差距揭示出清晰的轮动逻辑：资金从尚未盈利、波动性较高的生物医药小盘股流出，转而停留在防御属性更强、盈利能力稳定的大型制药公司。这并非系统性的医药板块减仓，而更像是一次风险偏好的主动调整。&lt;/p&gt;
+&lt;p&gt;XBI采用等权重构建方式，Moderna、ImmunityBio和Sarepta均为其持仓成分股。周五的整体跌幅表明，此次调整并非由单一个股拖累，而是板块层面的普遍回调。&lt;/p&gt;
+&lt;p&gt;值得注意的是，即便经历周五的大幅下跌，XBI过去12个月累计涨幅仍高达78%。这一数据提示，本次调整更多是高速上涨后的正常震荡，而非趋势性反转的开始。不过，XBI的等权重特性也意味着，一旦板块内多只个股同步回调，ETF所呈现的跌势往往会被放大。&lt;/p&gt;
+
+Moderna多空分歧加剧
+
+&lt;p&gt;在今日三只重挫个股中，Moderna的多空博弈最具代表性。&lt;/p&gt;
+&lt;p&gt;多头逻辑集中于管线进展：旗下流感疫苗mRNA-1010的FDA审批决定日期（PDUFA）定于8月5日，此外还有Spikevax、mRESVIA、mNEXSPIKE和mCOMBRIAX等多个品牌产品，以及管理层设定的年底持有现金目标45亿至50亿美元，为公司提供了充裕的运营空间。&lt;/p&gt;
+&lt;p&gt;空头逻辑则聚焦于估值与财务压力：Moderna股价较五年前仍下跌71%，一季度GAAP净亏损达13.4亿美元，现金消耗仍处于较高水平，且分析师一致目标价明显低于当前股价。周五超过10%的单日跌幅，直观呈现了该股的高贝塔属性及由此带来的双向风险。&lt;/p&gt;
+
+后市关注点
+
+&lt;p&gt;短期内，市场关注的焦点在于XBI能否在收盘前企稳，若跌势加速则意味着板块轮动仍有进一步演绎的空间。&lt;strong&gt;对于Moderna而言，8月5日的FDA流感疫苗审批结果是下一个有明确时间节点的重要催化剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;综合来看，此次生物医药板块的急跌，更接近于历史性涨势后的技术性回调，而非基本面的实质性恶化。对于持有上述个股的投资者而言，如何在高贝塔敞口与潜在催化剂之间寻求平衡，或许是当前最值得思考的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出"内存即服务"新模式</title><link>https://wallstreetcn.com/articles/3776682</link><guid>662859dc56917ae1bc5c66497d011fd493dac5d199cb6c77744d8d43331616a0</guid><pubDate>Fri, 10 Jul 2026 18:34:19 GMT</pubDate><description>&lt;p&gt;SK海力士本周完成了外资企业在美最大规模首次公开发行，募资265亿美元，并已超越阿里巴巴跻身史上第三大IPO。&lt;/p&gt;
 &lt;p&gt;SK集团董事长崔泰源（Chey Tae-won）在接受彭博电视采访时表示，若回报表现良好、股价保持稳定，SK海力士有意发行更多美国存托凭证（ADR）。他还透露，SK集团在美投资规模将远超目前已公布的350亿美元，并将&amp;quot;大得多、大得多&amp;quot;。&lt;/p&gt;
 &lt;p&gt;崔泰源还提出了&amp;quot;内存即服务&amp;quot;的新商业模式构想，即允许客户租用内存芯片使用权，而非直接购买实体半导体，以此突破内存容量瓶颈。这一模式若落地，或将重塑芯片企业的商业逻辑。&lt;/p&gt;
 &lt;p&gt;同日SK海力士CEO郭鲁正（Kwak Noh-Jung）在接受采访时表示，存储芯片供应短缺可能会持续至2030年之后。&lt;/p&gt;
@@ -399,7 +401,33 @@ AI芯片超级周期逻辑支撑，投资者踊跃布局
 &lt;p&gt;崔泰源透露，SK海力士计划在韩国以外开发5吉瓦（GW）的AI数据中心容量，并表示对进一步扩大在美投资持开放态度。&lt;/p&gt;
 &lt;p&gt;他还透露正研究&amp;quot;内存即服务&amp;quot;商业模式，即以订阅或租用方式向客户提供存储资源，而非单纯销售芯片。他表示，相关模式需要新的软件支持，目标是解决AI算力部署中的内存容量瓶颈，但目前尚未披露具体实施方案。&lt;/p&gt;
 &lt;p&gt;SK海力士的上市恰逢美国新股发行市场活跃度大幅升温。剔除特殊目的收购公司（SPAC）等金融工具，美国IPO市场今年上半年融资规模已创历史纪录，达1268亿美元。&lt;/p&gt;
-&lt;p&gt;据报道，东芝旗下存储芯片子公司铠侠（Kioxia）也正筹备赴美上市，过去一年其日本股价已累计飙涨逾2900%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财相"点名"1.8万亿GPIF引发日元脉冲跳涨，高盛泼冷水：不过是"过度反应"</title><link>https://wallstreetcn.com/articles/3776683</link><guid>ab33c652bfb2bc1a982dd519f053f1da03b572579b759b2f021aedad67b7686c</guid><pubDate>Fri, 10 Jul 2026 18:54:53 GMT</pubDate><description>&lt;p&gt;日本财务大臣Satsuki Katayama周五在例行记者会上明确呼吁，包括全球最大养老基金之一GPIF在内的养老金机构应增加对日本国内金融资产的投资。这一提前准备的发言令市场措手不及，日元兑美元短线急涨至161.29，日本国债收益率曲线整体下行约10个基点。&lt;/p&gt;
+&lt;p&gt;据报道，东芝旗下存储芯片子公司铠侠（Kioxia）也正筹备赴美上市，过去一年其日本股价已累计飙涨逾2900%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 对话即刻2.5 lab技术负责人：做AI应用会优先考虑利润</title><link>https://wallstreetcn.com/articles/3776696</link><guid>9cfb03bdd2834b7eb0c61613abb454fbbdaf453504e34a1ca84d88786c46f986</guid><pubDate>Sat, 11 Jul 2026 02:41:16 GMT</pubDate><description>&lt;p&gt;作者 | 黄昱&lt;/p&gt;
+&lt;p&gt;每一次AI大模型升级，都意味着一批依赖单点能力的AI应用产品壁垒会被进一步压缩，甚至失去独立存在的价值。&lt;/p&gt;
+&lt;p&gt;这让AI应用创业始终笼罩着一种不确定性。&lt;/p&gt;
+&lt;p&gt;即刻旗下2.5 lab技术负责人夏俊晨如今重点开发的AI应用包括一款AI旅游翻译应用kulikuli。他目前最担心的竞争对手就是Google translate。&lt;/p&gt;
+&lt;p&gt;夏俊晨向华尔街见闻坦言，“团队每天都在面对快速变化的市场环境压力”，这是每一家AI应用团队都会面对的问题。&lt;/p&gt;
+&lt;p&gt;但他认为，真正的大模型厂商和AI应用创业者，打的是两场不同的仗，各自诉求不一样，小公司更关注如何做一个赚钱的产品。此外，创业公司关注的一些赛道在大厂很容易被边缘化，一旦边缘化的话，小公司就还是有这种活下去的缝隙。&lt;/p&gt;
+&lt;p&gt;即刻孵化最成功的产品就是播客平台小宇宙，大概在4年前，即刻成立了2.5 lab，这个部门主要就是做一些AI创新项目。 &lt;/p&gt;
+&lt;p&gt;夏俊晨告诉华尔街见闻，部门名字的由来是希望为2.5%的早期尝鲜者做产品，探索AI能够解决哪些过去解决不了的问题，或者重新优化那些已经存在的问题。&lt;/p&gt;
+&lt;p&gt;过去几年，2.5 lab先后孵化出开源 AI 客户端Chatbox、主打“一个界面同时用多个大模型、并排对比输出”的ChatHub、kulikuli以及自律工具&amp;quot;自律石头&amp;quot;等多个产品。&lt;/p&gt;
+&lt;p&gt;夏俊晨透露，虽然用户规模没有很大，但2.5 lab推出的这几个产品都是已经有利润了的。&lt;/p&gt;
+&lt;p&gt;在规模拓客与利润之间，夏俊晨优先选择利润。&lt;/p&gt;
+&lt;p&gt;过去十多年，互联网产品几乎遵循同一套增长公式：免费获取用户、快速扩大DAU，再寻找商业模式。&lt;/p&gt;
+&lt;p&gt;但AI时代，这套方法开始失效。原因很简单——成本。&lt;/p&gt;
+&lt;p&gt;与传统互联网产品不同，AI服务无法以极低边际成本无限扩张，每一次模型调用和服务交付都会带来实际成本。随着调用规模扩大，Token成本迅速成为“吞金兽”。&lt;/p&gt;
+&lt;p&gt;夏俊晨用实际体验证明了这一点。&lt;/p&gt;
+&lt;p&gt;他告诉华尔街见闻，现在几乎所有AI应用都会遇到同一个问题：Token成本往往占到整体收入的70%左右。一天收入1000元，可能有700元都要支付模型费用。在这样的成本结构下，再按照互联网时代&amp;quot;烧钱换用户&amp;quot;的方式做增长，几乎难以成立。&lt;/p&gt;
+&lt;p&gt;与此同时，一级市场也不会愿意单纯为用户规模买单。相比DAU、下载量，投资人如今更关心收入、ARR以及商业化效率是否成立。只有商业模式跑通，证明产品真正有人愿意付费，后续的增长才有意义。&lt;/p&gt;
+&lt;p&gt;“必须先验证商业化，再做增长。”&lt;/p&gt;
+&lt;p&gt;在夏俊晨看来，这已经成为AI应用创业的新顺序。而kulikuli能够从一个一度接近被放弃的“玩具项目”成长为拥有数百万用户、实现盈利的产品，正是沿着这一路径走出来的。&lt;/p&gt;
+&lt;p&gt;据悉，kulikuli刚推出的前三个月是免费的，当时夏俊晨就因为成本压力而有点不知道这个项目该何去何从了，甚至聊过&amp;quot;要不就停掉这个项目&amp;quot;。后来他们试着加上付费，结果真有人愿意掏钱，最后才把这个项目跑正。&lt;/p&gt;
+&lt;p&gt;据夏俊晨介绍，kulikuli如今总用户超过300万、基本是海外用户，团队约10人，有不错盈利的收入。&lt;/p&gt;
+&lt;p&gt;夏俊晨认为由于Google translate的翻译效果还达不到kulikuli，所以kulikuli依然还有生存空间。&lt;/p&gt;
+&lt;p&gt;至于为何Google translate反而做的不如一家小公司的产品效果好，夏俊晨认为，旅游翻译这类场景对谷歌这样的大公司来说太偏远、太不赚钱，而kulikuli能做好是因为“团队很多精力投入在这上面，也有我们工程的一些积累”。&lt;/p&gt;
+&lt;p&gt;除了产品竞争力外，如何尽可能降低模型成本也是开发团队必须要考虑的事情。&lt;/p&gt;
+&lt;p&gt;夏俊晨透露，在保持质量不变的前提下，通过类似腾讯云TokenHub这样的服务把成熟场景的成本砍掉50%到70%是可行的。&lt;/p&gt;
+&lt;p&gt;生存一旦解决，野心也会长出来。夏俊晨说这有点像&amp;quot;升级打怪&amp;quot;——爬过一座类似kulikuli这样的山，团队就不太想再爬同样的山，会想找更高的。&lt;/p&gt;
+&lt;p&gt;2.5Lab做新项目其实没有固定赛道，也没有设立所谓的客观评估系统，夏俊晨说：“更多是主观的”。如今在WorkBuddy等Agent工具辅助下，任何岗位的人，只要提出一个产品想法，做出原型，并能够持续推动，就有机会组成团队，把项目真正做出来。 &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财相"点名"1.8万亿GPIF引发日元脉冲跳涨，高盛泼冷水：不过是"过度反应"</title><link>https://wallstreetcn.com/articles/3776683</link><guid>ab33c652bfb2bc1a982dd519f053f1da03b572579b759b2f021aedad67b7686c</guid><pubDate>Fri, 10 Jul 2026 18:54:53 GMT</pubDate><description>&lt;p&gt;日本财务大臣Satsuki Katayama周五在例行记者会上明确呼吁，包括全球最大养老基金之一GPIF在内的养老金机构应增加对日本国内金融资产的投资。这一提前准备的发言令市场措手不及，日元兑美元短线急涨至161.29，日本国债收益率曲线整体下行约10个基点。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Katayama的发言事先有所准备——据彭博社引述知情人士称，其关于GPIF的评论是提前准备好的。目前尚无法确认该表态是否属于一种变相的口头干预，但从即时效果来看，其对日元汇率的冲击力超过了日本央行近期的加息以及持续的汇率口头引导。&lt;/p&gt;
 &lt;p&gt;GPIF管理的资产高达293.6万亿日元（约合1.81万亿美元），约半数资产配置于海外。任何实质性增持国内资产的转向，都意味着抛售外币、买入日元，从而在交易层面直接推升日元需求。然而，华尔街大行的冷静分析正在迅速给市场的乐观情绪降温。&lt;/p&gt;
@@ -574,29 +602,4 @@ Tang Tan其人：从苹果设计高管到OpenAI核心人物
 &lt;p&gt;双方的合作涵盖多个层面：用户可在Siri中直接调用ChatGPT的回答，通过iPhone的&amp;quot;视觉智能&amp;quot;功能生成文本和分析周围物体；苹果后续还将ChatGPT整合至Image Playground图片创作应用，并支持分析屏幕内容。&lt;/p&gt;
 &lt;p&gt;然而，这一关系已然急剧恶化。OpenAI曾考虑对苹果采取法律行动，认为双方的合作未能带来预期商业收益，并评估过向苹果发送违约通知的可能性。&lt;/p&gt;
 &lt;p&gt;如今，局势已彻底逆转。随着两家公司各自押注AI硬件的下一个战场，苹果、OpenAI、Meta等科技巨头正在争夺一个被广泛视为&amp;quot;后智能手机时代&amp;quot;的入口。&lt;/p&gt;
-&lt;p&gt;苹果正加速布局智能眼镜、智能吊坠及配备摄像头的AirPods等多类新形态设备，而OpenAI的硬件雄心则直接成为此次法律战的导火索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩泼冷水：芯片制造商定价权承压、AI资本开支开始放缓、美股半导体“明显超买”</title><link>https://wallstreetcn.com/articles/3776686</link><guid>9239e0fa2afa6637352948978f9d33a57dfa2ac3b9d325e0caf381b5895a972d</guid><pubDate>Fri, 10 Jul 2026 19:53:30 GMT</pubDate><description>&lt;p&gt;摩根士丹利财富管理首席投资官Lisa Shalett表示，随着越来越多迹象表明芯片制造商的定价能力正在受到限制，投资者应对芯片股保持谨慎。她认为，市场对人工智能支出的乐观预期，可能已将相关股票推升至过高水平。&lt;/p&gt;
-&lt;p&gt;Shalett周五接受采访时表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们看到，AI数据中心技术栈正在被重新设计，越来越多成本更低的自研芯片被纳入其中，而这些芯片正是许多超大规模云服务商（hyperscalers）自行开发的。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Shalett发表上述警告之际，SK海力士周五正式登陆纳斯达克，完成了265亿美元融资，创下外国企业赴美IPO募资规模纪录。不过，SK海力士近期在韩国本土市场经历剧烈波动，股价自上月高点以来已累计下跌26%。&lt;/p&gt;
-&lt;p&gt;Shalett表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“总体而言，流向这一交易主题的资金依然十分充裕。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;但她指出，当前行业的发展正重演一个熟悉的规律：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“当供应链出现瓶颈，一些企业——比如部分存储芯片厂商——借机获取超额利润时，工程师们就会开始寻找成本更低的替代方案。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;本周稍早，Shalett就在一份投资报告中指出，半导体板块已经出现“明显超买”迹象。她在节目中进一步表示，从半导体ETF到费城半导体指数，多个指标都印证了这一观点。&lt;/p&gt;
-&lt;p&gt;彭博汇编数据显示，自2022年以来，费城半导体指数的市盈率（PE）已增长逾三倍。&lt;/p&gt;
-&lt;p&gt;Shalett还提到，Meta Platforms近期调整AI战略，也是一个值得关注的信号，显示部分科技巨头可能开始重新评估规模高达数千亿美元的资本支出计划。&lt;/p&gt;
-&lt;p&gt;Meta首席执行官马克·扎克伯格本周接受采访时表示，他正在考虑，Meta部分AI基础设施如果向外部客户出租，是否能够创造更高价值。&lt;/p&gt;
-&lt;p&gt;对此，Shalett表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“这某种程度上表明，企业已经开始讨论这些投资的节奏、速度以及投资回报率，同时思考如何提前实现商业化变现。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;她最后表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我认为，我们正处于AI资本开支增速开始放缓的初期阶段（early innings）。”&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;苹果正加速布局智能眼镜、智能吊坠及配备摄像头的AirPods等多类新形态设备，而OpenAI的硬件雄心则直接成为此次法律战的导火索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
