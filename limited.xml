@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 11 Jul 2026 17:59:38 GMT</lastBuildDate><item><title>[华尔街见闻] 全球市场步入“动荡之夏”：警惕美联储变局、日元危机和财报季大考</title><link>https://wallstreetcn.com/articles/3776706</link><guid>fb63011a1a5129e6671587bd9a5c26e55bca459e27420f54b4128e0b2b1c38ea</guid><pubDate>Sat, 11 Jul 2026 12:11:58 GMT</pubDate><description>&lt;p&gt;表面风平浪静的全球金融市场，正在积累一场风暴的能量。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 11 Jul 2026 18:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 全球市场步入“动荡之夏”：警惕美联储变局、日元危机和财报季大考</title><link>https://wallstreetcn.com/articles/3776706</link><guid>fb63011a1a5129e6671587bd9a5c26e55bca459e27420f54b4128e0b2b1c38ea</guid><pubDate>Sat, 11 Jul 2026 12:11:58 GMT</pubDate><description>&lt;p&gt;表面风平浪静的全球金融市场，正在积累一场风暴的能量。&lt;/p&gt;
 &lt;p&gt;State Street Investment Management首席执行官Yie-Hsin Hung本周对英国《金融时报》表示，新任美联储主席沃什刻意减少前瞻指引，令市场对货币政策路径愈发难以把握，&amp;quot;这将引入波动性和不确定性&amp;quot;。&lt;/p&gt;
 &lt;p&gt;日元兑美元汇率本周突破162关口，触及近40年低点，围绕日元套息交易的潜在风险再度引发市场警觉。Amundi投资总监Vincent Mortier的建议是：尽可能分散风险、全面对冲。&lt;/p&gt;
 &lt;p&gt;与此同时，美股指数波动率（VIX）保持低位，但市场内部压力已悄然攀升至近年高点。瑞银衍生品策略团队的&amp;quot;Turbu-lens&amp;quot;市场脆弱度指标目前读数高达0.9（量程为-1至1），为2025年9月中旬以来最高水平，历史上此类读数往往预示VIX的阶段性骤升。与此同时，盈利预期高达24%的二季度财报季恰于此时拉开帷幕，高期望值进一步放大了潜在的下行风险。&lt;/p&gt;
@@ -29,31 +29,4 @@ VIX平静之下，市场脆弱度攀升历史高位
 &lt;p&gt;分析师对标普500指数成分股二季度盈利增长的预期高达24%，对欧洲斯托克600的预期亦达12%。与以往财报季不同的是，分析师在报告期前夕持续上调预测，信心之强反而意味着，一旦实际业绩令市场失望，调整空间更大、跌幅可能更陡。&lt;/p&gt;
 &lt;p&gt;科技板块尤需密切关注。据巴克莱测算，自去年10月至今，苹果、Meta、亚马逊、Alphabet、微软和英伟达合计已蒸发约2万亿美元市值。值得关注的是，市值高达5万亿美元的芯片巨头英伟达，目前市盈率已与零食公司好时（Hershey）相近，市场对其的追捧热情明显降温。&lt;/p&gt;
 &lt;p&gt;黄金和油价领域同样出现了令投资者始料未及的反转。金价经历了2026年开局的强劲表现后，刚刚录得2008年以来最大单月跌幅，跌幅逾11%；油价亦在能源专家的一片警告声中逆势回落。这些变化共同指向一个现实：市场共识正在瓦解，主流叙事逻辑的可靠性已大打折扣。&lt;/p&gt;
-&lt;p&gt;在对冲策略的选择上，鉴于财报季期间个股分化和板块轮动可能持续，指数层面的对冲工具效果可能有限。Maxwell Grinacoff建议，&amp;quot;单股期权在战术层面或许提供了更好的机会&amp;quot;。Amundi的Vincent Mortier则给出了更宏观的建议：尽可能分散风险并全面对冲——如此一来，&amp;quot;整个夏天都可以放松度假，这是个不错的目标&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 过去两年规模几乎翻倍，美国ETF“火的发烫”</title><link>https://wallstreetcn.com/articles/3776701</link><guid>87dd44341664fdf9fd3bd2d55419a1f92ed9bda9f69b70e445013843669d495c</guid><pubDate>Sat, 11 Jul 2026 06:00:08 GMT</pubDate><description>&lt;p&gt;美国ETF行业正经历史无前例的扩张加速。资产规模、资金流入与交易量三项核心指标在2026年同步创下或逼近历史纪录，行业生态全面进入高速运转状态。&lt;/p&gt;
-&lt;p&gt;据高盛ETF业务主管Chris Lucas最新评估，&lt;strong&gt;今年以来美国上市ETF净流入已突破1万亿美元，全年净发行规模有望超过2万亿美元，将以逾33%的幅度打破2025年的历史纪录。与此同时，上半年ETF总成交量突破40万亿美元，较2025年同期飙升50%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;资金持续涌入的背后，美国大盘科技股、半导体/AI、新兴市场及韩国主题，以及主动管理型ETF构成了本轮增长的主要驱动力。主动管理型ETF年内已吸纳约4000亿美元资金，约占行业总流入的40%，是其资产规模市场份额的约3倍。&lt;/p&gt;
-
-资产规模逼近16万亿美元，两年近乎翻倍
-
-&lt;p&gt;美国上市ETF总资产已突破15.6万亿美元，过去两年规模几乎翻番。高盛认为，&lt;strong&gt;在当前动能支撑下，年底前迈上17万亿美元台阶&amp;quot;触手可及&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一增长速度在行业历史上绝无仅有。规模的快速膨胀由资金流入与资产价格上涨共同驱动，二者形成正反馈，推动行业持续向上突破。&lt;/p&gt;
-&lt;p&gt;今年以来，ETF行业的资金流入不仅量级庞大，更展现出高度的持续性。6月单月净流入达1930亿美元，为高盛数据集中的历史第二高单月流入。&lt;/p&gt;
-&lt;p&gt;更值得关注的是，这种接近纪录水平的月度表现已成常态。据高盛统计，过去七个月中，ETF行业经历了其历史上月度流入规模最大的五个月份，集中程度罕见。&lt;/p&gt;
-&lt;p&gt;从资金流向来看，主动管理型ETF表现尤为突出。年内主动ETF共获约4000亿美元流入，占行业总流入比例接近40%，而其资产规模仅占整体约13%。集中主题型ETF的崛起被视为2026年的重要新趋势，延续了2024年现货加密货币ETF开辟新市场通道的逻辑。&lt;/p&gt;
-
-交易量暴增50%，杠杆ETF成最大变量
-
-&lt;p&gt;上半年ETF生态系统的成交量&amp;quot;全速运转&amp;quot;。日均成交量达3250亿美元，6月单月累计成交量达7万亿美元，同样位居历史第二高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;杠杆类ETF是本轮成交量激增的核心推手。&lt;/strong&gt;6月，杠杆ETF名义成交量创下单月纪录，达1.1万亿美元，较2025年同期增幅同样超过50%。若将杠杆效应换算为实际敞口，以3倍杠杆产品计算，杠杆ETF在6月产生的总敞口接近3万亿美元，相当于当月全部美国上市ETF名义成交量的约40%。&lt;/p&gt;
-&lt;p&gt;目前杠杆ETF管理资产约为1750亿美元，但其实际总敞口已超过4300亿美元，两者之间的倍数关系凸显出该类产品对整体市场流动性的放大效应。&lt;/p&gt;
-&lt;p&gt;在全球权益市场，成交量加速同样显著。矿业ETF整体成交量已超过2025年全年总量；新兴市场最大的两只ETF——EEM与IEMG的成交量也接近追平去年全年水平。&lt;/p&gt;
-
-ETF数量超越本土上市公司，新品发行加速
-
-&lt;p&gt;美国上市ETF数量已达约5400只，而本土上市公司数量约为4000家，ETF对股票的&amp;quot;数量超越&amp;quot;仍在持续扩大。今年迄今已有逾770只新ETF面市，其中54%使用衍生品工具，33%被归类为杠杆或反向产品。&lt;/p&gt;
-&lt;p&gt;高盛预计，衍生品应用与集中主题型产品的快速扩张将是下半年行业的核心趋势。随着大量待批产品陆续生效，新品发行节奏预计将维持高位。&lt;/p&gt;
-
-DRAM超越EWY，存储主题ETF格局重塑
-
-&lt;p&gt;集中主题型ETF崛起带来的资金迁移效应，在存储芯片主题上得到典型体现。&lt;strong&gt;聚焦DRAM存储芯片的主题ETF DRAM在总资产规模上已正式超越有着26年历史的韩国ETF EWY。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管EWY自今年4月以来基金净值上涨近50%，却同期录得约20亿美元的资金净流出。高盛指出，EWY与DRAM的持仓重叠度约为46%，这意味着EWY在一定程度上曾是投资者布局国际存储主题的替代工具。当更精准的主题通道出现后，资金迁移迅速且明显，清晰展示了新型市场接入工具引入后行业格局可以改变的速度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 理性看待账面亏损</title><link>http://xueqiu.com/5642562501/399449393</link><guid>427fec3aa495f6c7bdbb4d5b848716b7ebd8a41d1529301ccd987dae760f0390</guid><pubDate>Sat, 11 Jul 2026 13:49:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;格多巴卡&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在下跌过程中买入股票，尽管你可能已经参考了公司过去的经营业绩，为股票给出了一个比较保守的买入价格，像我现在记账中标明的3以下买澳博，3.5以下买石四药，6以下买敏华控股，5以下买中国飞鹤，1.3以下买上海石化，3以下买首都机场等等，在真实的买入过程中，依然可以发生比较高的账面亏损。&lt;/p&gt;</description></item><item><title>[今日雪球] 双创“鲸落”，喜大普奔</title><link>http://xueqiu.com/3559889031/399621132</link><guid>92ea8657ad24dd9b89cbb79a9757cdc711052251d4fdefd7c6b040563797217e</guid><pubDate>Sat, 11 Jul 2026 14:12:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周五中证A股下跌1.41%，全日成交额放大到3.32万亿。&lt;/p&gt;</description></item><item><title>[今日雪球] 我的核心原则：低估值+高股息+有增速+适度分散</title><link>http://xueqiu.com/1880027777/399624795</link><guid>ed05d1037186814fa3c80eac3a63eab8e0c4ea3caddb872fc8a068b5f19c4dfe</guid><pubDate>Sat, 11 Jul 2026 13:49:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;李胖胖1988&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期观察到两家知名基金在加入新基金经理后，投资风格发生明显转向，重仓布局科技板块。暂且不论这一调整的对错与否，单从“保持投资风格稳定”这一角度来看，机构投资确实面临诸多挑战。基金运作过程中，既要应对业绩排名、客户赎回、市场舆论等外部压力，又要兼顾合规要求和团队决策，很容易出现操作变形的情况，这也是机构投资的局限性之一。而散户投资者的核心优势便在于此：没有外部力量逼迫你改变操作策略，无需迎合市场热点、无需在意短期排名，能否坚持自己的投资逻辑，能否守住本心做对的事情，成为决定散户投资成败的关键。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在对冲策略的选择上，鉴于财报季期间个股分化和板块轮动可能持续，指数层面的对冲工具效果可能有限。Maxwell Grinacoff建议，&amp;quot;单股期权在战术层面或许提供了更好的机会&amp;quot;。Amundi的Vincent Mortier则给出了更宏观的建议：尽可能分散风险并全面对冲——如此一来，&amp;quot;整个夏天都可以放松度假，这是个不错的目标&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 理性看待账面亏损</title><link>http://xueqiu.com/5642562501/399449393</link><guid>427fec3aa495f6c7bdbb4d5b848716b7ebd8a41d1529301ccd987dae760f0390</guid><pubDate>Sat, 11 Jul 2026 13:49:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;格多巴卡&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在下跌过程中买入股票，尽管你可能已经参考了公司过去的经营业绩，为股票给出了一个比较保守的买入价格，像我现在记账中标明的3以下买澳博，3.5以下买石四药，6以下买敏华控股，5以下买中国飞鹤，1.3以下买上海石化，3以下买首都机场等等，在真实的买入过程中，依然可以发生比较高的账面亏损。&lt;/p&gt;</description></item><item><title>[今日雪球] 双创“鲸落”，喜大普奔</title><link>http://xueqiu.com/3559889031/399621132</link><guid>92ea8657ad24dd9b89cbb79a9757cdc711052251d4fdefd7c6b040563797217e</guid><pubDate>Sat, 11 Jul 2026 14:12:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张翼轸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周五中证A股下跌1.41%，全日成交额放大到3.32万亿。&lt;/p&gt;</description></item><item><title>[今日雪球] 我的核心原则：低估值+高股息+有增速+适度分散</title><link>http://xueqiu.com/1880027777/399624795</link><guid>ed05d1037186814fa3c80eac3a63eab8e0c4ea3caddb872fc8a068b5f19c4dfe</guid><pubDate>Sat, 11 Jul 2026 13:49:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;李胖胖1988&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期观察到两家知名基金在加入新基金经理后，投资风格发生明显转向，重仓布局科技板块。暂且不论这一调整的对错与否，单从“保持投资风格稳定”这一角度来看，机构投资确实面临诸多挑战。基金运作过程中，既要应对业绩排名、客户赎回、市场舆论等外部压力，又要兼顾合规要求和团队决策，很容易出现操作变形的情况，这也是机构投资的局限性之一。而散户投资者的核心优势便在于此：没有外部力量逼迫你改变操作策略，无需迎合市场热点、无需在意短期排名，能否坚持自己的投资逻辑，能否守住本心做对的事情，成为决定散户投资成败的关键。&lt;/p&gt;</description></item></channel></rss>
