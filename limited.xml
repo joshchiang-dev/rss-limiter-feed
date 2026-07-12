@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 12 Jul 2026 21:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报</title><link>https://wallstreetcn.com/articles/3776632</link><guid>22b9ca2f51342ed1f56482446560970d28598cb60dd3b83c48c24da2ea894724</guid><pubDate>Sun, 12 Jul 2026 12:04:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 07月12日 - 07月20日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 12 Jul 2026 22:29:31 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报</title><link>https://wallstreetcn.com/articles/3776632</link><guid>22b9ca2f51342ed1f56482446560970d28598cb60dd3b83c48c24da2ea894724</guid><pubDate>Sun, 12 Jul 2026 12:04:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 07月12日 - 07月20日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观数据方面与央行政策方面，&lt;/strong&gt;美国6月CPI、PPI接连出炉，&lt;strong&gt;美联储主席沃什将首次赴国会就货币政策作证&lt;/strong&gt;，美联储经济褐皮书亦同步发布，市场将从中研判利率走向。&lt;strong&gt;中国二季度GDP&lt;/strong&gt;、社零、工业增加值、70城房价等数据集中披露，中金预计GDP同比增速约4.4%。与此同时，&lt;strong&gt;韩国央行预计时隔五年重启加息&lt;/strong&gt;，加拿大央行利率决议同步落地，全球货币政策分化态势进一步凸显，韩国股市在加息预期、外资出逃与杠杆ETF风险三重压力下走向尤需警惕。&lt;/p&gt;
@@ -318,46 +318,7 @@ AI实验室的&amp;quot;蚕食&amp;quot;逻辑
 &lt;blockquote&gt;
 &lt;p&gt;其他一些实验室的定价非常极端，利润率极高。我们认为，完全可以以更实惠的价格提供前沿或高水准的智能服务。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;这一表态进一步加剧了基础模型市场的竞争压力，也侧面印证了Karp关于AI实验室定价虚高的批评并非无的放矢。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期</title><link>https://wallstreetcn.com/articles/3776726</link><guid>9a83923cebef3bf1d2bd775215b8a360c51aafcfa182c5da428a1545ee2003c1</guid><pubDate>Sun, 12 Jul 2026 10:12:26 GMT</pubDate><description>&lt;p&gt;黄仁勋亲自上阵，在摩根士丹利投资者路演上传递了一个核心信息：&lt;strong&gt;增长不仅没有见顶，而且正在加速。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本周，摩根士丹利在加州举办英伟达非交易路演（NDR）。英伟达CEO黄仁勋、CFO Colette Kress及投资者关系负责人Toshiya Hari亲自出席，与多位机构投资者会面。&lt;/p&gt;
-&lt;p&gt;高管团队亲身参与，本身就是一个信号——公司希望正面回应市场对产品进度、ASIC竞争和增长可持续性的疑问。&lt;/p&gt;
-&lt;p&gt;摩根士丹利分析师Joseph Moore随后发布报告称，&lt;strong&gt;此次会议“气氛积极”，英伟达以“增长加速”定调当前阶段，并表示即便季度收入正在逼近1000亿美元，增速仍将继续提升。&lt;/strong&gt;该行认为，这一成长叙事对价值型和成长型投资者均具吸引力，并重申英伟达为半导体板块首选，维持“增持”评级。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Rubin延期传言？英伟达否认
-&lt;p&gt;路演前，市场流传Rubin Ultra可能推迟至2028年出货。黄仁勋在会议上直接否认了这一说法。&lt;/p&gt;
-&lt;p&gt;分析师Joseph Moore表示，&lt;strong&gt;Rubin Ultra仍将于明年出货。&lt;/strong&gt;Rubin系统的部分机架设计确有调整——原Kyber机架方案正被“更好的方案”替代，可能支持更大规模的计算域——但这属于系统架构层面的优化，800V供电和机架间光互连均按计划推进，产品时间表没有实质变化。&lt;/p&gt;
-一家ASIC客户，算力占比升至50%，Anthropic？
-&lt;p&gt;此次路演最受关注的细节，来自AI实验室客户群的变化。&lt;/p&gt;
-&lt;p&gt;Joseph Moore在报告描述：&lt;strong&gt;“AI实验室目前约占英伟达总需求的20%。值得注意的是，一个较具代表性的前沿模型此前主要在ASIC上开发，英伟达的参与度极低，但现在已升至接近50%，而其他前沿模型则仍主要在英伟达平台上运行。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该行未直接点名该客户。但从“前沿模型”和“主要使用ASIC”的特征来看，市场普遍认为指向Anthropic——其背后的亚马逊是Trainium芯片的主要推手。&lt;/p&gt;
-&lt;p&gt;这一变化直接回应了市场的核心担忧：云厂商大力发展自研ASIC，会不会蚕食英伟达的份额？&lt;/p&gt;
-&lt;p&gt;Moore的判断是：&lt;strong&gt;两件事可以同时发生。&lt;/strong&gt; 超大规模云厂商可以继续开发定制芯片，英伟达也可以同时维持高市场份额。理由在于，客户最终比较的不是单颗芯片的价格，而是每个Token的综合成本。Moore援引行业调研称，&lt;strong&gt;“英伟达方案在许多场景下仍具备更低的单Token成本”&lt;/strong&gt;，这使其在训练和推理负载中保持竞争力。&lt;/p&gt;
-&lt;p&gt;Moore还指出，从2024年到2026年，英伟达在AI计算中的整体份额实际上是上升的。&lt;/p&gt;
-增长来源多元化：三条线同时打开
-&lt;p&gt;分析师围绕英伟达新的业务分类，梳理出三条增长线：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，AI实验室（约占总需求20%）。&lt;/strong&gt; 除头部模型继续深度使用英伟达平台外，原本偏向ASIC的客户也在增加GPU配置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，传统超大规模云厂商（约占收入一半）。&lt;/strong&gt; 微软、Meta、亚马逊、谷歌仍是最大客户群，但扩张越来越受电力、土地和数据中心建设速度制约。英伟达在这一客户群的收入正从GPU延伸至CPU和网络设备。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，新型AI云、主权AI、工业和企业客户。&lt;/strong&gt; 分析师Moore认为，这部分客户在空间、电力和地缘政治约束下，倾向于采购系统集成度更高的AI基础设施方案，未来增速可能超过传统超大规模云厂商。&lt;/p&gt;
-&lt;p&gt;主权AI尤其值得关注。各国出于数据安全和产业自主考量，正在建设本地模型和算力基础设施，此类项目受自研ASIC竞争影响相对较小。&lt;/p&gt;
-CPU与网络：英伟达可服务市场持续扩大
-&lt;p&gt;英伟达在路演中重申，本财年CPU业务目标约为200亿美元。&lt;/p&gt;
-&lt;p&gt;Moore指出，其中接近一半可能来自独立CPU机架——即Vera CPU并非只用于GPU服务器中的管理节点，而是进入了更广泛的服务器市场。Vera芯片专为单线程工作负载设计，采用较大芯片面积、更少核心数量，并针对AI场景进行内存优化。&lt;/p&gt;
-&lt;p&gt;网络业务同样在扩大英伟达的收入边界。AI集群规模越大，GPU之间的数据传输越容易成为瓶颈。英伟达正在从单一GPU供应商，向涵盖GPU、CPU、网络互联和系统架构的AI基础设施平台转型。&lt;/p&gt;
-开始争取价值型投资者
-&lt;p&gt;分析师Moore指出，英伟达正在主动扩大投资者基础，将价值型投资者纳入沟通重点。&lt;/p&gt;
-&lt;p&gt;原因在于，英伟达已被大量成长型基金重仓，部分机构持仓接近单只股票上限。Moore预计，英伟达未来可能将50%以上的现金流用于回购和股东回报，使其在保持高速增长的同时，也具备价值股的现金流特征。&lt;/p&gt;
-增长预期强劲，但估值与供给仍是核心变量
-&lt;p&gt;&lt;strong&gt;摩根士丹利维持英伟达“增持”评级，目标价为288美元。英伟达7月9日收盘价为202.78美元，对应当前市值约4.97万亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Moore预计英伟达2026财年收入增长82%，2027财年增长52.4%，目标价288美元对应当前约42%的上行空间。其核心逻辑是，生成式AI带动云计算资本开支持续增长，Blackwell仍将是生成式AI工作负载的重要解决方案，而后续Rubin产品有望维持公司的性能领先地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但Moore也指出，英伟达面临的风险并未消失。如果供给追赶需求的速度快于预期，数据中心业务增长可能明显放缓。&lt;/strong&gt;其他风险还包括：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;AI开发成本显著下降；&lt;/li&gt;
-&lt;li&gt;竞争对手推出更具竞争力的产品；&lt;/li&gt;
-&lt;li&gt;以及客户加快自研定制硬件的部署。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;从当前路演释放的信息看，英伟达的主要挑战并非AI需求是否存在，而是如何在内存、网络、电力和机房空间等多重约束下，将需求转化为可交付的系统收入。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第一家上市的“核聚变”公司：亚马逊创始人贝索斯扶持的“通用聚变公司”</title><link>https://wallstreetcn.com/articles/3776728</link><guid>a003fc217c6c50a0e1e048e8c1a6afe8416841bb44ea6a8448fefeec47a57257</guid><pubDate>Sun, 12 Jul 2026 10:49:58 GMT</pubDate><description>&lt;p&gt;核聚变赛道迎来历史性时刻。&lt;/p&gt;
+&lt;p&gt;这一表态进一步加剧了基础模型市场的竞争压力，也侧面印证了Karp关于AI实验室定价虚高的批评并非无的放矢。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第一家上市的“核聚变”公司：亚马逊创始人贝索斯扶持的“通用聚变公司”</title><link>https://wallstreetcn.com/articles/3776728</link><guid>a003fc217c6c50a0e1e048e8c1a6afe8416841bb44ea6a8448fefeec47a57257</guid><pubDate>Sun, 12 Jul 2026 10:49:58 GMT</pubDate><description>&lt;p&gt;核聚变赛道迎来历史性时刻。&lt;/p&gt;
 &lt;p&gt;本周五，通用聚变公司完成了与Spring Valley Acquisition Corp III的SPAC合并，&lt;strong&gt;企业估值达7.24亿美元，融资规模最高达3.38亿美元，并将于下周一正式登陆纳斯达克。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这家加拿大公司得到了亚马逊创始人杰夫·贝佐斯的支持，贝佐斯在过去15年中参与了该公司的多轮融资。&lt;/p&gt;
 &lt;p&gt;首席执行官Greg Twinney在接受英国《金融时报》采访时表示，&lt;strong&gt;率先进入公开市场的企业往往能够&amp;quot;主导叙事&amp;quot;，定义投资者对商业化核聚变公司的预期。&lt;/strong&gt;&lt;/p&gt;
