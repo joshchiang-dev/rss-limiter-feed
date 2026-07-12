@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 12 Jul 2026 10:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报</title><link>https://wallstreetcn.com/articles/3776632</link><guid>22b9ca2f51342ed1f56482446560970d28598cb60dd3b83c48c24da2ea894724</guid><pubDate>Sun, 12 Jul 2026 02:05:46 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 07月12日 - 07月20日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 12 Jul 2026 11:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报</title><link>https://wallstreetcn.com/articles/3776632</link><guid>22b9ca2f51342ed1f56482446560970d28598cb60dd3b83c48c24da2ea894724</guid><pubDate>Sun, 12 Jul 2026 02:05:46 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 07月12日 - 07月20日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观数据方面与央行政策方面，&lt;/strong&gt;美国6月CPI、PPI接连出炉，&lt;strong&gt;美联储主席沃什将首次赴国会就货币政策作证&lt;/strong&gt;，美联储经济褐皮书亦同步发布，市场将从中研判利率走向。&lt;strong&gt;中国二季度GDP&lt;/strong&gt;、社零、工业增加值、70城房价等数据集中披露，中金预计GDP同比增速约4.4%。与此同时，&lt;strong&gt;韩国央行预计时隔五年重启加息&lt;/strong&gt;，加拿大央行利率决议同步落地，全球货币政策分化态势进一步凸显，韩国股市在加息预期、外资出逃与杠杆ETF风险三重压力下走向尤需警惕。&lt;/p&gt;
@@ -37,6 +37,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC）将于7月17日至20日举行。期间，华为将首次展示业界最大规模超节点Atlas 950 SuperPoD真机。公开资料显示，华为Atlas 950 SuperPoD智算超节点（昇腾950超节点）采用了华为自研的“灵衢（UnifiedBus）”互联协议；互联带宽高达16.3PB/s，显著超越英伟达NVL144等业界方案；且Atlas 950 SuperPoD为全液冷数据中心超节点。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;7月16-24日，APEC数字和人工智能部长会议及数字周&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这是中国时隔24年再次主办电信部长会议，将探讨数字连接、AI赋能、数字包容等议题，并讨论《APEC电信工作组战略行动计划（2026-2030）》。Meta、谷歌、微软、腾讯、百度等30余家中外企业参展。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AGI Summit SF 2026峰会，OpenAI/Anthropic/英伟达将出席&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -262,47 +266,7 @@
 &lt;p&gt;据报道援引一名了解谈判情况的消息人士透露，阿曼已起草&lt;strong&gt;&amp;quot;双航道&amp;quot;管理方案：穿越阿曼领海的南部航道将按战前条件实行自由通航，经由伊朗领海的北部航道则须事先获得伊朗批准，但不收取通行费。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此外，地区消息人士透露，与会各方还在讨论发表声明，内容或涉及全面开放霍尔木兹海峡国际水域&amp;quot;中央航道&amp;quot;。上述消息尚未获得阿曼、伊朗和卡塔尔官方证实。&lt;/p&gt;
 &lt;p&gt;值得注意的是，市场数据机构克普勒公司数据显示，在阿曼附近海域近期袭船事件影响下，航运运营商此前已明显倾向选择伊朗一侧北部航道，9日阿曼一侧航道仅有1艘船舶通过。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;革命卫队此次宣布全面关闭海峡，意味着上述双航道方案能否落地仍面临重大变数，全球油气供应链的不确定性显著上升。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋亲赴大摩路演：季度收入逼近千亿美元、英伟达增速还在加快，并否认Rubin Ultra延期</title><link>https://wallstreetcn.com/articles/3776726</link><guid>9a83923cebef3bf1d2bd775215b8a360c51aafcfa182c5da428a1545ee2003c1</guid><pubDate>Sun, 12 Jul 2026 10:12:26 GMT</pubDate><description>&lt;p&gt;黄仁勋亲自上阵，在摩根士丹利投资者路演上传递了一个核心信息：&lt;strong&gt;增长不仅没有见顶，而且正在加速。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本周，摩根士丹利在加州举办英伟达非交易路演（NDR）。英伟达CEO黄仁勋、CFO Colette Kress及投资者关系负责人Toshiya Hari亲自出席，与多位机构投资者会面。&lt;/p&gt;
-&lt;p&gt;高管团队亲身参与，本身就是一个信号——公司希望正面回应市场对产品进度、ASIC竞争和增长可持续性的疑问。&lt;/p&gt;
-&lt;p&gt;摩根士丹利分析师Joseph Moore随后发布报告称，&lt;strong&gt;此次会议“气氛积极”，英伟达以“增长加速”定调当前阶段，并表示即便季度收入正在逼近1000亿美元，增速仍将继续提升。&lt;/strong&gt;该行认为，这一成长叙事对价值型和成长型投资者均具吸引力，并重申英伟达为半导体板块首选，维持“增持”评级。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Rubin延期传言？英伟达否认
-&lt;p&gt;路演前，市场流传Rubin Ultra可能推迟至2028年出货。黄仁勋在会议上直接否认了这一说法。&lt;/p&gt;
-&lt;p&gt;分析师Joseph Moore表示，&lt;strong&gt;Rubin Ultra仍将于明年出货。&lt;/strong&gt;Rubin系统的部分机架设计确有调整——原Kyber机架方案正被“更好的方案”替代，可能支持更大规模的计算域——但这属于系统架构层面的优化，800V供电和机架间光互连均按计划推进，产品时间表没有实质变化。&lt;/p&gt;
-一家ASIC客户，算力占比升至50%，Anthropic？
-&lt;p&gt;此次路演最受关注的细节，来自AI实验室客户群的变化。&lt;/p&gt;
-&lt;p&gt;Joseph Moore在报告描述：&lt;strong&gt;“AI实验室目前约占英伟达总需求的20%。值得注意的是，一个较具代表性的前沿模型此前主要在ASIC上开发，英伟达的参与度极低，但现在已升至接近50%，而其他前沿模型则仍主要在英伟达平台上运行。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该行未直接点名该客户。但从“前沿模型”和“主要使用ASIC”的特征来看，市场普遍认为指向Anthropic——其背后的亚马逊是Trainium芯片的主要推手。&lt;/p&gt;
-&lt;p&gt;这一变化直接回应了市场的核心担忧：云厂商大力发展自研ASIC，会不会蚕食英伟达的份额？&lt;/p&gt;
-&lt;p&gt;Moore的判断是：&lt;strong&gt;两件事可以同时发生。&lt;/strong&gt; 超大规模云厂商可以继续开发定制芯片，英伟达也可以同时维持高市场份额。理由在于，客户最终比较的不是单颗芯片的价格，而是每个Token的综合成本。Moore援引行业调研称，&lt;strong&gt;“英伟达方案在许多场景下仍具备更低的单Token成本”&lt;/strong&gt;，这使其在训练和推理负载中保持竞争力。&lt;/p&gt;
-&lt;p&gt;Moore还指出，从2024年到2026年，英伟达在AI计算中的整体份额实际上是上升的。&lt;/p&gt;
-增长来源多元化：三条线同时打开
-&lt;p&gt;分析师围绕英伟达新的业务分类，梳理出三条增长线：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，AI实验室（约占总需求20%）。&lt;/strong&gt; 除头部模型继续深度使用英伟达平台外，原本偏向ASIC的客户也在增加GPU配置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，传统超大规模云厂商（约占收入一半）。&lt;/strong&gt; 微软、Meta、亚马逊、谷歌仍是最大客户群，但扩张越来越受电力、土地和数据中心建设速度制约。英伟达在这一客户群的收入正从GPU延伸至CPU和网络设备。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，新型AI云、主权AI、工业和企业客户。&lt;/strong&gt; 分析师Moore认为，这部分客户在空间、电力和地缘政治约束下，倾向于采购系统集成度更高的AI基础设施方案，未来增速可能超过传统超大规模云厂商。&lt;/p&gt;
-&lt;p&gt;主权AI尤其值得关注。各国出于数据安全和产业自主考量，正在建设本地模型和算力基础设施，此类项目受自研ASIC竞争影响相对较小。&lt;/p&gt;
-CPU与网络：英伟达可服务市场持续扩大
-&lt;p&gt;英伟达在路演中重申，本财年CPU业务目标约为200亿美元。&lt;/p&gt;
-&lt;p&gt;Moore指出，其中接近一半可能来自独立CPU机架——即Vera CPU并非只用于GPU服务器中的管理节点，而是进入了更广泛的服务器市场。Vera芯片专为单线程工作负载设计，采用较大芯片面积、更少核心数量，并针对AI场景进行内存优化。&lt;/p&gt;
-&lt;p&gt;网络业务同样在扩大英伟达的收入边界。AI集群规模越大，GPU之间的数据传输越容易成为瓶颈。英伟达正在从单一GPU供应商，向涵盖GPU、CPU、网络互联和系统架构的AI基础设施平台转型。&lt;/p&gt;
-开始争取价值型投资者
-&lt;p&gt;分析师Moore指出，英伟达正在主动扩大投资者基础，将价值型投资者纳入沟通重点。&lt;/p&gt;
-&lt;p&gt;原因在于，英伟达已被大量成长型基金重仓，部分机构持仓接近单只股票上限。Moore预计，英伟达未来可能将50%以上的现金流用于回购和股东回报，使其在保持高速增长的同时，也具备价值股的现金流特征。&lt;/p&gt;
-&lt;p&gt;Moore预计英伟达2026财年收入增长82%，2027财年增长52.4%，目标价288美元对应当前约42%的上行空间。&lt;/p&gt;
-增长预期强劲，但估值与供给仍是核心变量
-&lt;p&gt;&lt;strong&gt;摩根士丹利维持英伟达“增持”评级，目标价为288美元。英伟达7月9日收盘价为202.78美元，对应当前市值约4.97万亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该行预计，英伟达2026财年收入将增长82%，2027财年将增长52.4%。&lt;/strong&gt;其核心逻辑是，生成式AI带动云计算资本开支持续增长，Blackwell仍将是生成式AI工作负载的重要解决方案，而后续Rubin产品有望维持公司的性能领先地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但Moore也指出，英伟达面临的风险并未消失。如果供给追赶需求的速度快于预期，数据中心业务增长可能明显放缓。&lt;/strong&gt;其他风险还包括：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;AI开发成本显著下降；&lt;/li&gt;
-&lt;li&gt;竞争对手推出更具竞争力的产品；&lt;/li&gt;
-&lt;li&gt;以及客户加快自研定制硬件的部署。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;从当前路演释放的信息看，英伟达的主要挑战并非AI需求是否存在，而是如何在内存、网络、电力和机房空间等多重约束下，将需求转化为可交付的系统收入。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Palantir喊出“忍无可忍”的背后：其他企业对大模型“赢家通吃”的恐惧</title><link>https://wallstreetcn.com/articles/3776729</link><guid>e8943239bb469d4a85c655ea2ba4fec66f2e278c5c2ee04fc7aa8b53214f6ba3</guid><pubDate>Sun, 12 Jul 2026 10:50:07 GMT</pubDate><description>&lt;p&gt;Palantir首席执行官Alex Karp的一场激烈表态，将科技业长期积压的矛盾推向了台面——&lt;strong&gt;大型AI实验室正在用客户的数据和决策积累势能，而传统企业越来越担心自己在这场AI浪潮中沦为&amp;quot;价值贡献者&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;革命卫队此次宣布全面关闭海峡，意味着上述双航道方案能否落地仍面临重大变数，全球油气供应链的不确定性显著上升。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Palantir喊出“忍无可忍”的背后：其他企业对大模型“赢家通吃”的恐惧</title><link>https://wallstreetcn.com/articles/3776729</link><guid>e8943239bb469d4a85c655ea2ba4fec66f2e278c5c2ee04fc7aa8b53214f6ba3</guid><pubDate>Sun, 12 Jul 2026 10:50:07 GMT</pubDate><description>&lt;p&gt;Palantir首席执行官Alex Karp的一场激烈表态，将科技业长期积压的矛盾推向了台面——&lt;strong&gt;大型AI实验室正在用客户的数据和决策积累势能，而传统企业越来越担心自己在这场AI浪潮中沦为&amp;quot;价值贡献者&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;过去两周，Karp先是在CNBC上发表近20分钟的激烈批评，直指AI实验室虚报能力、对Token词元定价过高，并声称他接触的每一家大型企业客户都对此&amp;quot;怒火中烧&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;随后，Palantir发布题为《AI时代的机构主权》的白皮书，为企业和政府列出15条建议&lt;/strong&gt;，以防范OpenAI、Anthropic等AI巨头对其核心数据的侵蚀。这两番动作迅速在科技圈引发广泛讨论。&lt;/p&gt;
 &lt;p&gt;这场争论的核心，是一个被越来越多人大声提出的问题：&lt;strong&gt;AI时代的价值，究竟由谁来捕获，是部署AI的企业，还是开发底层模型的实验室？&lt;/strong&gt;&lt;/p&gt;
@@ -559,7 +523,46 @@ GPT-5.6对阵Grok 4.5，两款旗舰模型同台竞技
 &lt;p&gt;&lt;strong&gt;但市场不应将“技术路线图”等同于“商业护城河”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;未来12个月，行业最值得追踪的信号只有一个：&lt;strong&gt;市场上是否会出现一项具名客户的设计订单，明确要求将 HBM、逻辑芯片和光学I/O绑定在同一封装中交由三星代工？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果这项订单落地，三星的“三位一体”将从纸面资产转化为真正的商业利器。&lt;/p&gt;
-&lt;p&gt;若迟迟无法兑现，那么台积电依托领先工艺与外部HBM生态所构建的灵活路径，仍将是AI巨头们最稳妥的选择。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 关于锂矿及新能源暴跌的行业思考和分享</title><link>http://xueqiu.com/4020556776/399651985</link><guid>7bbc40ba4c5aa42fefb542b01cd6b6c576e620844f372761cdde08929a99b20d</guid><pubDate>Sun, 12 Jul 2026 05:49:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;雕在车上&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;       最近经历了投资生涯自2024年股灾最艰难的一个月，大约回撤1/3，真的失眠好几天了，大多数散户的确都是养分，放弃挣扎了。之前已经对大多数股民亏损也是很同情，觉得太残酷，最近落到自己身上，心情更是难以平复。也更是觉得这个市场不会同情任何失败者，大户，机构，量化其实都是你的对手，他们会取名K型股市，他们会抱团讲一个故事，然后把其他取名为老登，中登吸干，直到你信了为止。比如cpo，pcb, mlcc，ccl，光纤，玻璃基板Ai大叙事面前都无问题，但是除了头部800G/1.6T还有那些高端pcb玩家，ccl利润大多数都来源于锂电铜箔的涨价，玻璃基板更不用多说，大概率明年下半年才有苗头，可以炒预期，可以炒头部，但是没有哪一个市场可以把一个板块几倍几倍的炒作，甚至这些连低端的都没有的公司靠一个概念可以肆无忌惮的涨，美股也只是涨那些头部的而已，并且看财报很多都是亏损，甚至连续环比不涨甚至下滑，依然肆无忌惮的抱团。学材料的都知道这几个行业的技术含量到底有多大，其次如果资金也认同这些技术壁垒并没那么高，那除头部几家未来利润下滑不都板上钉钉么，但是他们依然敢明目张胆的抱团。之前玩世界杯这种炒作性题材暴跌几十个其实对我的冲击都不是那么大，我也认同限制垃圾题材炒作和一些垃圾股反复收割，让大家回归于价值投资是正确的。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第一家上市的“核聚变”公司：亚马逊创始人贝索斯扶持的“通用聚变公司”</title><link>https://wallstreetcn.com/articles/3776728</link><guid>a003fc217c6c50a0e1e048e8c1a6afe8416841bb44ea6a8448fefeec47a57257</guid><pubDate>Sun, 12 Jul 2026 10:49:58 GMT</pubDate><description>&lt;p&gt;核聚变赛道迎来历史性时刻。&lt;/p&gt;
+&lt;p&gt;若迟迟无法兑现，那么台积电依托领先工艺与外部HBM生态所构建的灵活路径，仍将是AI巨头们最稳妥的选择。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋亲赴大摩路演：季度收入逼近千亿美元、英伟达增速还在加快，并否认Rubin Ultra延期</title><link>https://wallstreetcn.com/articles/3776726</link><guid>9a83923cebef3bf1d2bd775215b8a360c51aafcfa182c5da428a1545ee2003c1</guid><pubDate>Sun, 12 Jul 2026 10:12:26 GMT</pubDate><description>&lt;p&gt;黄仁勋亲自上阵，在摩根士丹利投资者路演上传递了一个核心信息：&lt;strong&gt;增长不仅没有见顶，而且正在加速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本周，摩根士丹利在加州举办英伟达非交易路演（NDR）。英伟达CEO黄仁勋、CFO Colette Kress及投资者关系负责人Toshiya Hari亲自出席，与多位机构投资者会面。&lt;/p&gt;
+&lt;p&gt;高管团队亲身参与，本身就是一个信号——公司希望正面回应市场对产品进度、ASIC竞争和增长可持续性的疑问。&lt;/p&gt;
+&lt;p&gt;摩根士丹利分析师Joseph Moore随后发布报告称，&lt;strong&gt;此次会议“气氛积极”，英伟达以“增长加速”定调当前阶段，并表示即便季度收入正在逼近1000亿美元，增速仍将继续提升。&lt;/strong&gt;该行认为，这一成长叙事对价值型和成长型投资者均具吸引力，并重申英伟达为半导体板块首选，维持“增持”评级。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Rubin延期传言？英伟达否认
+&lt;p&gt;路演前，市场流传Rubin Ultra可能推迟至2028年出货。黄仁勋在会议上直接否认了这一说法。&lt;/p&gt;
+&lt;p&gt;分析师Joseph Moore表示，&lt;strong&gt;Rubin Ultra仍将于明年出货。&lt;/strong&gt;Rubin系统的部分机架设计确有调整——原Kyber机架方案正被“更好的方案”替代，可能支持更大规模的计算域——但这属于系统架构层面的优化，800V供电和机架间光互连均按计划推进，产品时间表没有实质变化。&lt;/p&gt;
+一家ASIC客户，算力占比升至50%，Anthropic？
+&lt;p&gt;此次路演最受关注的细节，来自AI实验室客户群的变化。&lt;/p&gt;
+&lt;p&gt;Joseph Moore在报告描述：&lt;strong&gt;“AI实验室目前约占英伟达总需求的20%。值得注意的是，一个较具代表性的前沿模型此前主要在ASIC上开发，英伟达的参与度极低，但现在已升至接近50%，而其他前沿模型则仍主要在英伟达平台上运行。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该行未直接点名该客户。但从“前沿模型”和“主要使用ASIC”的特征来看，市场普遍认为指向Anthropic——其背后的亚马逊是Trainium芯片的主要推手。&lt;/p&gt;
+&lt;p&gt;这一变化直接回应了市场的核心担忧：云厂商大力发展自研ASIC，会不会蚕食英伟达的份额？&lt;/p&gt;
+&lt;p&gt;Moore的判断是：&lt;strong&gt;两件事可以同时发生。&lt;/strong&gt; 超大规模云厂商可以继续开发定制芯片，英伟达也可以同时维持高市场份额。理由在于，客户最终比较的不是单颗芯片的价格，而是每个Token的综合成本。Moore援引行业调研称，&lt;strong&gt;“英伟达方案在许多场景下仍具备更低的单Token成本”&lt;/strong&gt;，这使其在训练和推理负载中保持竞争力。&lt;/p&gt;
+&lt;p&gt;Moore还指出，从2024年到2026年，英伟达在AI计算中的整体份额实际上是上升的。&lt;/p&gt;
+增长来源多元化：三条线同时打开
+&lt;p&gt;分析师围绕英伟达新的业务分类，梳理出三条增长线：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，AI实验室（约占总需求20%）。&lt;/strong&gt; 除头部模型继续深度使用英伟达平台外，原本偏向ASIC的客户也在增加GPU配置。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，传统超大规模云厂商（约占收入一半）。&lt;/strong&gt; 微软、Meta、亚马逊、谷歌仍是最大客户群，但扩张越来越受电力、土地和数据中心建设速度制约。英伟达在这一客户群的收入正从GPU延伸至CPU和网络设备。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，新型AI云、主权AI、工业和企业客户。&lt;/strong&gt; 分析师Moore认为，这部分客户在空间、电力和地缘政治约束下，倾向于采购系统集成度更高的AI基础设施方案，未来增速可能超过传统超大规模云厂商。&lt;/p&gt;
+&lt;p&gt;主权AI尤其值得关注。各国出于数据安全和产业自主考量，正在建设本地模型和算力基础设施，此类项目受自研ASIC竞争影响相对较小。&lt;/p&gt;
+CPU与网络：英伟达可服务市场持续扩大
+&lt;p&gt;英伟达在路演中重申，本财年CPU业务目标约为200亿美元。&lt;/p&gt;
+&lt;p&gt;Moore指出，其中接近一半可能来自独立CPU机架——即Vera CPU并非只用于GPU服务器中的管理节点，而是进入了更广泛的服务器市场。Vera芯片专为单线程工作负载设计，采用较大芯片面积、更少核心数量，并针对AI场景进行内存优化。&lt;/p&gt;
+&lt;p&gt;网络业务同样在扩大英伟达的收入边界。AI集群规模越大，GPU之间的数据传输越容易成为瓶颈。英伟达正在从单一GPU供应商，向涵盖GPU、CPU、网络互联和系统架构的AI基础设施平台转型。&lt;/p&gt;
+开始争取价值型投资者
+&lt;p&gt;分析师Moore指出，英伟达正在主动扩大投资者基础，将价值型投资者纳入沟通重点。&lt;/p&gt;
+&lt;p&gt;原因在于，英伟达已被大量成长型基金重仓，部分机构持仓接近单只股票上限。Moore预计，英伟达未来可能将50%以上的现金流用于回购和股东回报，使其在保持高速增长的同时，也具备价值股的现金流特征。&lt;/p&gt;
+增长预期强劲，但估值与供给仍是核心变量
+&lt;p&gt;&lt;strong&gt;摩根士丹利维持英伟达“增持”评级，目标价为288美元。英伟达7月9日收盘价为202.78美元，对应当前市值约4.97万亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Moore预计英伟达2026财年收入增长82%，2027财年增长52.4%，目标价288美元对应当前约42%的上行空间。其核心逻辑是，生成式AI带动云计算资本开支持续增长，Blackwell仍将是生成式AI工作负载的重要解决方案，而后续Rubin产品有望维持公司的性能领先地位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但Moore也指出，英伟达面临的风险并未消失。如果供给追赶需求的速度快于预期，数据中心业务增长可能明显放缓。&lt;/strong&gt;其他风险还包括：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;AI开发成本显著下降；&lt;/li&gt;
+&lt;li&gt;竞争对手推出更具竞争力的产品；&lt;/li&gt;
+&lt;li&gt;以及客户加快自研定制硬件的部署。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从当前路演释放的信息看，英伟达的主要挑战并非AI需求是否存在，而是如何在内存、网络、电力和机房空间等多重约束下，将需求转化为可交付的系统收入。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 关于锂矿及新能源暴跌的行业思考和分享</title><link>http://xueqiu.com/4020556776/399651985</link><guid>7bbc40ba4c5aa42fefb542b01cd6b6c576e620844f372761cdde08929a99b20d</guid><pubDate>Sun, 12 Jul 2026 05:49:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;雕在车上&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;       最近经历了投资生涯自2024年股灾最艰难的一个月，大约回撤1/3，真的失眠好几天了，大多数散户的确都是养分，放弃挣扎了。之前已经对大多数股民亏损也是很同情，觉得太残酷，最近落到自己身上，心情更是难以平复。也更是觉得这个市场不会同情任何失败者，大户，机构，量化其实都是你的对手，他们会取名K型股市，他们会抱团讲一个故事，然后把其他取名为老登，中登吸干，直到你信了为止。比如cpo，pcb, mlcc，ccl，光纤，玻璃基板Ai大叙事面前都无问题，但是除了头部800G/1.6T还有那些高端pcb玩家，ccl利润大多数都来源于锂电铜箔的涨价，玻璃基板更不用多说，大概率明年下半年才有苗头，可以炒预期，可以炒头部，但是没有哪一个市场可以把一个板块几倍几倍的炒作，甚至这些连低端的都没有的公司靠一个概念可以肆无忌惮的涨，美股也只是涨那些头部的而已，并且看财报很多都是亏损，甚至连续环比不涨甚至下滑，依然肆无忌惮的抱团。学材料的都知道这几个行业的技术含量到底有多大，其次如果资金也认同这些技术壁垒并没那么高，那除头部几家未来利润下滑不都板上钉钉么，但是他们依然敢明目张胆的抱团。之前玩世界杯这种炒作性题材暴跌几十个其实对我的冲击都不是那么大，我也认同限制垃圾题材炒作和一些垃圾股反复收割，让大家回归于价值投资是正确的。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第一家上市的“核聚变”公司：亚马逊创始人贝索斯扶持的“通用聚变公司”</title><link>https://wallstreetcn.com/articles/3776728</link><guid>a003fc217c6c50a0e1e048e8c1a6afe8416841bb44ea6a8448fefeec47a57257</guid><pubDate>Sun, 12 Jul 2026 10:49:58 GMT</pubDate><description>&lt;p&gt;核聚变赛道迎来历史性时刻。&lt;/p&gt;
 &lt;p&gt;本周五，通用聚变公司完成了与Spring Valley Acquisition Corp III的SPAC合并，&lt;strong&gt;企业估值达7.24亿美元，融资规模最高达3.38亿美元，并将于下周一正式登陆纳斯达克。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这家加拿大公司得到了亚马逊创始人杰夫·贝佐斯的支持，贝佐斯在过去15年中参与了该公司的多轮融资。&lt;/p&gt;
 &lt;p&gt;首席执行官Greg Twinney在接受英国《金融时报》采访时表示，&lt;strong&gt;率先进入公开市场的企业往往能够&amp;quot;主导叙事&amp;quot;，定义投资者对商业化核聚变公司的预期。&lt;/strong&gt;&lt;/p&gt;
