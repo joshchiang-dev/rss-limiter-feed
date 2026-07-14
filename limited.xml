@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 07:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件</title><link>https://wallstreetcn.com/articles/3776842</link><guid>e2929dfd9753aa2f65851073ba258d57e216c51ae4fae148b6e47452454311ac</guid><pubDate>Mon, 13 Jul 2026 23:52:11 GMT</pubDate><description>&lt;p&gt;7月13日，半导体研究机构SemiAnalysis在社交平台发布推文，高度评价英伟达在vLLM推理引擎上的性能优化成果，同时明确指出AMD在部分模型的vLLM支持上仍有较大追赶空间。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 07:59:38 GMT</lastBuildDate><item><title>[华尔街见闻] 两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件</title><link>https://wallstreetcn.com/articles/3776842</link><guid>e2929dfd9753aa2f65851073ba258d57e216c51ae4fae148b6e47452454311ac</guid><pubDate>Mon, 13 Jul 2026 23:52:11 GMT</pubDate><description>&lt;p&gt;7月13日，半导体研究机构SemiAnalysis在社交平台发布推文，高度评价英伟达在vLLM推理引擎上的性能优化成果，同时明确指出AMD在部分模型的vLLM支持上仍有较大追赶空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775841"&gt;华尔街见闻提及&lt;/a&gt;，该机构两周前指出，英伟达&amp;quot;CUDA护城河正遭缓慢侵蚀&amp;quot;，公司最大的竞争压力是越来越多超大规模云厂商和AI模型公司开始采用自研ASIC，针对训练或推理等特定场景构建专用芯片体系。&lt;/p&gt;
 &lt;p&gt;两则判断将AI芯片竞争的焦点从&amp;quot;谁的硬件更强&amp;quot;拉回到一个更根本的问题：&lt;strong&gt;在推理时代的规模化部署中，软件生态的深度可能比单代GPU的硬件领先更具决定性。&lt;/strong&gt;&lt;/p&gt;
@@ -39,7 +39,48 @@ vLLM的差距是生态闭环
 &lt;/blockquote&gt;
 &lt;p&gt;三者叠加产生的迁移成本，远超任何单一硬件参数的差距。这一判断与SemiAnalysis两周前的分析形成呼应。&lt;/p&gt;
 &lt;p&gt;彼时，该机构指出Anthropic已形成由谷歌TPU、亚马逊Trainium和英伟达GPU共同构成的多平台算力架构，大量Claude模型训练运行于TPU，Claude Code推理则越来越多部署于Trainium，英伟达GPU的份额正遭自研ASIC缓慢侵蚀。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而此次对vLLM性能的正面评价表明，英伟达在推理软件栈深度优化上的领先幅度，并未随硬件竞争格局的演变而同步收窄。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 接近50%！市场预计美联储本月加息概率走高</title><link>https://wallstreetcn.com/articles/3776848</link><guid>44c3ac35c731670fd0ec0dff8f4cc7bfd550990c2cdcef2f67cb9b2b62fe531f</guid><pubDate>Tue, 14 Jul 2026 00:00:07 GMT</pubDate><description>&lt;p&gt;油价飙升与美联储官员鹰派表态的双重冲击，正将市场对美联储7月加息的预期推向临界点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而此次对vLLM性能的正面评价表明，英伟达在推理软件栈深度优化上的领先幅度，并未随硬件竞争格局的演变而同步收窄。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季</title><link>https://wallstreetcn.com/articles/3776884</link><guid>0ee2f09c1ff54e9eb78b1870f470a9fde51fc9b2e4ea578cdae455ef58b765a7</guid><pubDate>Tue, 14 Jul 2026 07:41:51 GMT</pubDate><description>&lt;p&gt;美联储加息预期骤然升温、银行财报季正式开幕、新任主席首次国会亮相——三重变量在同一时间窗口叠加，令本周二成为近期市场最具决定性意义的单日。&lt;/p&gt;
+&lt;p&gt;本周二，美国6月CPI数据将率先于华盛顿时间早间8时30分发布，随后美联储主席Kevin沃什将以新任主席身份首次出席国会众议院金融服务委员会听证。当日另有摩根大通、美国银行、富国银行、高盛及花旗集团五大行集中披露二季度业绩，开启本轮财报季。BMO Capital Markets美国利率策略主管Ian Lyngen表示，&amp;quot;CPI数据与沃什证词的组合，必将在某个方向上显著改变加息概率。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美联储理事Christopher Waller周一明确划定加息触发条件，称若本周核心通胀数据&amp;quot;再度偏热&amp;quot;，FOMC将需要考虑在近期收紧货币政策。&lt;/strong&gt;这一表态迅速重塑市场定价：货币市场隐含的7月加息概率从不足10%急升至约50%，两年期美债收益率触及4.28%，为逾一年来最高水平。与此同时，美伊地缘紧张局势再度升级，布伦特原油单日最高涨幅接近10%，通胀预期受到双重冲击。&lt;/p&gt;
+&lt;p&gt;在盈利层面，高盛预计二季度标普500盈利同比增速将达22%，AI基础设施相关股票预计贡献全指约50%的盈利增长。然而高盛同时警告，&lt;strong&gt;若美联储启动加息周期，增长预期受压、资本成本上升以及高估值市场的历史脆弱性，将对美股构成三重阻力。&lt;/strong&gt;&lt;/p&gt;
+
+CPI预测：能源拖累整体，核心通胀仍是核心矛盾
+
+&lt;p&gt;市场普遍预计，6月CPI整体环比将录得约-0.2%，同比从5月的4.2%放缓至3.8%，&lt;strong&gt;这将是自2020年疫情暴发以来首次出现月度负增长，主要驱动力来自汽油价格下跌——常规汽油价格从5月中旬至6月底累计下跌约15%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛预测整体CPI环比为-0.11%，核心CPI环比为0.17%，低于市场普遍预期的0.2%&lt;strong&gt;。高盛经济学家指出，未来数月通胀改善的空间来自以下几个方面：航空票价将随航油价格回落而下降；酒店价格——以预订时价格计量——将从世界杯期间的高位回落；租金通胀继续放缓。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，核心PCE通胀的改善速度预计慢于核心CPI。&lt;/strong&gt;高盛预计未来三个月核心PCE月均涨幅约为0.23%，部分原因在于股市上涨带来的金融服务隐含价格持续上行，以及软件和周边产品价格上涨——该类别在核心PCE中的权重是核心CPI的30倍。&lt;/p&gt;
+&lt;p&gt;PPI数据方面，情况更为复杂。伊朗战争引发的能源冲击仍在沿供应链持续传导，核心PPI 12个月同比增速预计将从4.9%加速至5.2%。&lt;/p&gt;
+
+沃什国会首秀：前瞻指引缩减加剧政策不透明性
+
+&lt;p&gt;沃什将于周二和周三分别出席众议院和参议院听证，这是其5月就任美联储主席以来首次公开就货币政策作证。&lt;/p&gt;
+&lt;p&gt;与鲍威尔时代不同，沃什此前曾明确表示将缩减对利率前景的前瞻性指引，这一立场令市场难以锚定政策预期。Columbia Threadneedle投资组合经理Ed Al-Hussainy直言，&amp;quot;7月加息的可能性高于不加息，&amp;quot;他同时指出，要将通胀率降回2%，&amp;quot;我们将需要一些运气&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Lyngen表示，即便CPI数据偏软，市场可能仍将维持对7月加息一定程度的定价，而美联储在市场未充分预期的情况下意外加息的可能性亦不能排除。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;彭博首席美国经济学家Andrew Sacher的判断则相对温和。他认为，若要大幅提升加息概率，需同时具备&amp;quot;超预期热门的CPI&amp;quot;和&amp;quot;沃什明显鹰派的表态&amp;quot;，两者同时出现的概率均不高——当前市场隐含的24%加息概率，本身已反映出主流预期对近期加息的保留态度。&lt;/strong&gt;&lt;/p&gt;
+
+五大行财报开幕：盈利高增长与政策不确定性同台较量
+
+&lt;p&gt;本轮财报季开局阵容空前密集。摩根大通、美国银行、富国银行、高盛及花旗集团将于周二盘前集中披露业绩，随后ASML与台积电本周稍晚的业绩将直接检验全球AI芯片需求景气度。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据高盛交易台测算，&lt;strong&gt;市场共识预计二季度标普500盈利同比增速约为22%，为2021年以来最高水平，但过去11个季度均已连续超越共识预期——其中一季度实际增速高达27%，超出预期约15个百分点，超额部分主要来自AI相关板块。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在银行业层面，摩根大通的关注焦点之一为Marianne Lake的离职对管理层溢价的潜在影响；美国银行费用支出与NII指引的能见度被视为左右当日股价的核心变量；花旗受益于ECB加息对Services NII的正向拉动，且资本市场预期相对偏低，上行空间可能较大；高盛则被广泛视为AI资本市场周期的核心受益标的，股票交易部门备受关注；富国银行的2026年NII目标能否落地，仍存在下半年存款增速不足的风险。&lt;/p&gt;
+&lt;p&gt;高盛的市场分析警示，本轮财报季可能缺乏上一季度AI资本支出预期大幅上修所带来的额外催化效应，市场对于盈利继续引领指数上行的依赖，在宏观政策环境趋于收紧的背景下面临更高的实现难度。&lt;/p&gt;
+
+Waller划定加息触发线，政策天平明显倾斜
+
+&lt;p&gt;Waller周一在纽约商业经济学家协会的演讲，被市场解读为迄今最明确的加息预警。&lt;/p&gt;
+&lt;p&gt;他表示，核心个人消费支出（PCE）指数截至5月同比涨幅已达3.4%，且自1月以来持续走高，早于美伊冲突爆发便已呈现上行态势。推动通胀的因素涵盖关税、能源价格及AI基础设施的大规模建设。&amp;quot;无论以何种方式衡量，今年通胀均在上行，&amp;quot;他说，&amp;quot;我目前对核心通胀偏高的走势感到担忧。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Waller同时援引2021至2022年通胀失控的政策失误作为前车之鉴，警告称FOMC当年因迟迟未能加息而遭到广泛批评，此类错误不能重演。他明确表示，若能看到连续数月的降温数据，他将支持继续按兵不动，但前提条件较为严苛。&lt;/p&gt;
+&lt;p&gt;上述表态与上月FOMC会议纪要方向一致——纪要显示，18位官员中已有半数预计今年某个时间点至少加息25个基点，加息选项正从边缘议题向政策讨论中心移动。据高盛经济学家Jan Hatzius团队分析，Waller的最新表态与6月会议纪要共同印证，委员会对重启加息的开放程度正在显著上升。&lt;/p&gt;
+
+加息风险的三重压力：增长、资本成本与历史先例
+
+&lt;p&gt;高盛在其最新美股周度策略报告中明确指出，&lt;strong&gt;若美联储重启加息，美股短期内将面临三重压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，紧缩政策将直接压制增长预期。&lt;/strong&gt;尽管对股市而言经济增长的重要性高于利率水平，但在其他条件不变的情况下，货币收紧将拖累市场对增长前景的判断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，本轮经济周期的资本密集度显著上升。&lt;/strong&gt;AI基础设施相关股票目前占标普500总市值的42%，预计贡献2026年全指盈利增长的约50%。高盛数据显示，超大规模云计算企业今年资本支出预计相当于经营性现金流的100%，其净债务在2026年一季度已达2390亿美元，同比激增约190%。与此同时，二季度美国股权融资总量达2520亿美元，创下历史纪录，超越2021年一季度的前高。资本成本的任何上升都将对这一周期最重要的增长引擎产生直接冲击。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，历史数据表明，美联储加息是高估值、高集中度牛市见顶的重要前兆。&lt;/strong&gt;1929年、1972年、1987年及1999年的加息周期均先于牛市峰值出现，2022年市场则随利率预期提前见顶。高盛利率策略师测算，若利率波动率升至2022至2023年加息周期时的水平，将对应标普500市盈率收缩约6%，即约1倍估值。&lt;/p&gt;
+&lt;p&gt;高盛当前给出的标普500年终目标为8600点，12个月目标为8300点，较当前7544点分别具备约14%和10%的潜在上行空间。但策略师同时强调，上述目标的实现前提是宏观政策环境不出现实质性收紧——而这一前提，将在本周两天内接受最直接的检验。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 接近50%！市场预计美联储本月加息概率走高</title><link>https://wallstreetcn.com/articles/3776848</link><guid>44c3ac35c731670fd0ec0dff8f4cc7bfd550990c2cdcef2f67cb9b2b62fe531f</guid><pubDate>Tue, 14 Jul 2026 00:00:07 GMT</pubDate><description>&lt;p&gt;油价飙升与美联储官员鹰派表态的双重冲击，正将市场对美联储7月加息的预期推向临界点。&lt;/p&gt;
 &lt;p&gt;周一，货币市场定价显示，美联储本月加息25个基点的概率已升至接近50%，此前一度不足40%。推动这一转变的，是美联储理事沃勒（Christopher Waller）发出的迄今&lt;strong&gt;最明确鹰派信号&lt;/strong&gt;——他表示，&lt;strong&gt;若本周通胀数据再度偏热，FOMC将需要考虑在近期收紧货币政策。&lt;/strong&gt;与此同时，地缘政治紧张局势升温，布伦特原油单日最高涨幅接近10%，&lt;strong&gt;进一步强化了市场对通胀压力持续的担忧。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美债收益率随即全线走高。&lt;/strong&gt;对美联储政策预期最为敏感的两年期美债收益率单日上涨约7个基点，触及4.28%，为2025年2月以来最高水平；10年期收益率升至4.62%，创5月以来新高。&lt;/p&gt;
 &lt;p&gt;本周的焦点将集中在周二公布的美国6月CPI数据，以及美联储主席沃什（Kevin Warsh）的国会证词。市场普遍认为，&lt;strong&gt;这两项事件将对7月29日FOMC会议的政策走向产生决定性影响。&lt;/strong&gt;&lt;/p&gt;
@@ -344,7 +385,26 @@ SK海力士拟将部分ADR募资转投韩国国债
 
 &lt;p&gt;据韩国财经媒体Yonhap Infomax援引SK海力士一位高级管理人士报道，公司正在研究购买韩国国债的可能性。&lt;/p&gt;
 &lt;p&gt;不过，截至目前，SK海力士尚未正式宣布相关投资计划，国际主流媒体也未对此进行独立确认。&lt;/p&gt;
-&lt;p&gt;此前媒体报道称，公司计划将上周ADR发行募集资金中的一部分汇回韩国，用于投资存储芯片制造设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股午后集体反攻！创业板涨3%，算力硬件爆发、PCB掀涨停潮，港股半导体反弹</title><link>https://wallstreetcn.com/articles/3776862</link><guid>c577e06fd35bf72d56ad6b8591caaee49d4a4b385bbff574b0d168b018845e8f</guid><pubDate>Tue, 14 Jul 2026 07:21:15 GMT</pubDate><description>&lt;p&gt;今天午后，算力硬件产业链突然爆发，有色金属、半导体等持续拉升，A股三大股指集体反攻，创业板大涨超3%，据&lt;a href="https://mp.weixin.qq.com/s/fFzffFBQjNM7-UftRE2rwQ"&gt;券商中国&lt;/a&gt;，分析人士认为，两则利好消息，刺激了这波上涨：一是韩国稳市，二是A股ETF再现大手笔买入。&lt;/p&gt;
+&lt;p&gt;此前媒体报道称，公司计划将上周ADR发行募集资金中的一部分汇回韩国，用于投资存储芯片制造设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本长债集体上涨！日本财长一席话引爆需求，20年期债券拍卖火热</title><link>https://wallstreetcn.com/articles/3776887</link><guid>89d6f6c9fa0413dc1bbd05b7574c13fdc79bf06b5300007b28b045a04caebba1</guid><pubDate>Tue, 14 Jul 2026 07:28:32 GMT</pubDate><description>&lt;p&gt;日本国债市场周二迎来强劲反弹，财长片山皋月（Satsuki Katayama）的一番表态彻底点燃市场情绪，20年期国债拍卖需求创下近年罕见高位，长端收益率大幅下行。&lt;/p&gt;
+&lt;p&gt;片山皋月当日释放两大信号：&lt;strong&gt;一是提议将日本国债纳入免税储蓄账户&amp;quot;NISA&amp;quot;，有望引导个人资金流入债市；二是表示政府养老金投资基金（GPIF）将视需要调整投资组合。&lt;/strong&gt;消息迅速提振投资者情绪，20年期和30年期收益率均一度下行18个基点，分别降至3.565%和3.725%，40年期收益率亦下行14个基点至3.753%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本次20年期国债拍卖结果尤为亮眼，投标倍数从上次的2.97大幅攀升至4.52，逼近今年4月七年最强需求时的水平。彭博市场策略师Mark Cranfield评价称，这是一次强劲的20年期拍卖，需求远超一年均值，尾差为零，最低中标价亦远超预期，&amp;quot;区区几句调整债券投资的表态，效果之显著令人叹为观止&amp;quot;。&lt;/p&gt;
+
+财长表态成最大催化剂
+
+&lt;p&gt;片山皋月的言论是本轮行情的直接导火索。她提议将日本国债纳入NISA免税账户，此举若落实，将为债市引入新的个人投资者资金来源，同时也有助于支撑日元。与此同时，她有关GPIF将按需调整组合的表态，进一步激发市场对大规模机构资金入市的想象空间。&lt;/p&gt;
+&lt;p&gt;事实上，片山皋月上周已公开呼吁包括GPIF在内的大型养老基金加大对国内资产的配置，此番言论在市场引发强烈的政策预期——外界开始猜测政府有意引导更多机构资金流向日本债券市场。不过，据路透社报道，政府目前并无全面调整GPIF资产配置的计划，相关预期此前已有所降温。&lt;/p&gt;
+
+拍卖需求创历史纪录水位
+
+&lt;p&gt;周二20年期国债拍卖的技术指标印证了市场的高涨热情。&lt;strong&gt;拍卖尾差（即平均价与最低中标价之差）收窄至0.00，与2010年创下的历史最低纪录持平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;纽约梅隆银行亚太区高级市场策略师Wee Khoon Chong表示，本次拍卖结果与近期跨期限日本国债需求回暖的趋势相吻合。&amp;quot;需求受到GPIF潜在组合调整、NISA纳入日本国债讨论，以及吸引资本流入日本资产的一揽子政策措施的共同支撑。&amp;quot;&lt;/p&gt;
+
+多重不确定性仍压制长端
+
+&lt;p&gt;尽管周二市场表现强劲，但笼罩在超长端债券上方的阴云尚未散去。首相高市早苗的支出与投资计划走向仍存变数，外界对其偏鸽派货币政策立场的担忧持续发酵，市场认为日本央行加息步伐过于迟缓，难以有效控制通胀。&lt;/p&gt;
+&lt;p&gt;与此同时，中东局势再度趋紧推动油价回升，加剧了通胀压力，对超长端债券构成潜在拖累。日元持续疲软亦是一大隐患——日元兑美元汇率目前徘徊于近四十年最弱水平附近，通过推高进口成本进一步强化通胀预期，也令市场保持对官方干预可能性的高度警惕。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股午后集体反攻！创业板涨3%，算力硬件爆发、PCB掀涨停潮，港股半导体反弹</title><link>https://wallstreetcn.com/articles/3776862</link><guid>c577e06fd35bf72d56ad6b8591caaee49d4a4b385bbff574b0d168b018845e8f</guid><pubDate>Tue, 14 Jul 2026 07:21:15 GMT</pubDate><description>&lt;p&gt;今天午后，算力硬件产业链突然爆发，有色金属、半导体等持续拉升，A股三大股指集体反攻，创业板大涨超3%，据&lt;a href="https://mp.weixin.qq.com/s/fFzffFBQjNM7-UftRE2rwQ"&gt;券商中国&lt;/a&gt;，分析人士认为，两则利好消息，刺激了这波上涨：一是韩国稳市，二是A股ETF再现大手笔买入。&lt;/p&gt;
 &lt;p&gt;7月14日，A股全天探底回升，三大指数午后集体反攻，沪指不仅重返3900点，更是进一步拉升，逼近4000点关口，创业板直线拉升，大涨超3%，算力硬件产业链持续大涨，CPO、PCB等方向强势反弹，有色金属、煤炭、石油化工、医药等板块涨幅居前，商业航天、AI应用等概念股陷入调整。。&lt;/p&gt;
 &lt;p&gt;港股午后亦走高，恒指、恒科指双双转涨，科网股部分回暖，百度重挫9%，芯片股跌幅收窄，华虹宏力跌1%。AI大模型股分化，智谱跌4%，MINIMAX翻红。债市方面，国债期货震荡上涨，商品方面，国内商品期货多数下跌，原油、燃油等逆势大涨，因地缘政治紧张局势升级，推动国际油价隔夜暴涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -425,84 +485,7 @@ SK海力士拟将部分ADR募资转投韩国国债
 &lt;p&gt;尽管增长前景明显改善，通胀仍是韩国经济面临的主要风险之一。政府将2026年居民消费价格涨幅预测从此前的2.1%上调至2.6%，高于韩国央行2%的政策目标。韩元持续疲软是通胀居高不下的重要原因之一，即便油价有所回落，汇率压力仍使进口成本维持高位。此外，首尔房价持续上涨和居民债务反弹也进一步强化了收紧货币政策的必要性。&lt;/p&gt;
 &lt;p&gt;政府警告称，中东和平进程的脆弱性以及天气因素导致能源和农产品价格存在较大不确定性，通胀在下半年虽有望随油价回落而趋缓，但风险仍不容忽视。展望2027年，政府预计GDP增速和通胀率均将回落至2.2%。&lt;/p&gt;
 &lt;p&gt;在产业政策层面，韩国政府表示将加大力度推动芯片产能扩张、扩建AI数据中心，并培育实体AI产业，以维持韩国在全球科技竞争中的领先地位。&lt;/p&gt;
-&lt;p&gt;不过，分析师提醒，此轮经济复苏在结构上仍不均衡，出口与内需之间的分化值得关注。政府亦承认，当前增长主要依赖出口拉动，国内消费的修复进程相对滞后。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街不担心资本开支！大摩：明年五大云厂资本开支1.2万亿美元，2028年1.4万亿美元，算力翻四倍</title><link>https://wallstreetcn.com/articles/3776864</link><guid>5ece1a7ba5824caf3475964a5ee73bf1468b7ee33dc5e480c68f83e9abf3ca46</guid><pubDate>Tue, 14 Jul 2026 04:41:12 GMT</pubDate><description>&lt;p&gt;资本开支数字越来越大，但大摩认为，这还不是问题。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根士丹利分析师Brian Nowak团队7月12日发布最新研报，将五大超大规模云厂商（Meta、亚马逊、微软、谷歌、SpaceX）的2027/2028年资本开支预测整体上调9%/10%，分别达到约1.2万亿和1.4万亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么资本开支还在涨？成本通胀+算力紧缺双重驱动
-&lt;p&gt;分析师Brian Nowak此次上调的直接触发因素是成本上涨。&lt;/p&gt;
-&lt;p&gt;GPU相关成本上涨约20%，主要来自两个方向：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机架内成本上升&lt;/strong&gt;：内存价格大幅提升，在Blackwell（GB300、GB200）机架中，内存占比从低个位数百分比升至高个位数百分比；在Vera Rubin机架中，内存占比更从高个位数升至约25%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机架外成本上升&lt;/strong&gt;：电气/机械设备交货期延长、建筑材料紧缺、熟练劳工短缺，以及向&amp;quot;表后电力&amp;quot;（behind the meter power）解决方案转移，共同推高了数据中心建设成本。大摩目前对GB200、TPU和Trainium的机架外成本估算约为每兆瓦1100万至1300万美元，而下一代GB300、Vera Rubin和Rubin Ultra则进一步升至约每兆瓦1600万至1900万美元。&lt;/p&gt;
-&lt;p&gt;具体到每GW数据中心建设成本：GB200约350亿美元，GB300约390亿美元，Vera Rubin约490亿美元；定制ASIC方面，TPUv7约270亿美元，Trainium3约200亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;除成本因素外，Nowak还指出，&lt;strong&gt;从破土动工到数据中心开业的周期已拉长至最长3年。与此同时，社会对数据中心建设的反对声音增加，以及2028年总统大选前的政治不确定性，正促使云厂商提前开工建设，以强调创造就业。&lt;/strong&gt;这进一步加剧了通胀压力，也加速了资本开支的前置。&lt;/p&gt;
-算力将翻四倍：从30GW到120GW
-&lt;p&gt;资本开支的终点是算力。&lt;/p&gt;
-&lt;p&gt;Nowak预测，五大超大规模云厂商的可用算力将从2025年约30GW增长至2028年约116.6GW，接近4倍增幅。&lt;/p&gt;
-&lt;p&gt;分公司来看：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;AWS&lt;/strong&gt;：&lt;strong&gt;2028年达35GW，算力规模最大&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;谷歌&lt;/strong&gt;：2028年达31.6GW，新增算力最多（2027/2028年分别新增9GW/11GW）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;微软&lt;/strong&gt;：2028年达20.3GW&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Meta&lt;/strong&gt;：2028年达21.2GW，从2025年底约3.5GW大幅跃升；其中2026/2027年新增算力中，55%/90%来自自建，45%/10%来自第三方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-Meta：5个“看涨期权”尚未被市场定价
-&lt;p&gt;大摩Nowak维持Meta为首选股，目标价775美元，对应约15%上行空间，评级超配（Overweight）。&lt;/p&gt;
-&lt;p&gt;Nowak认为，市场目前只是在&amp;quot;惩罚&amp;quot;Meta的高资本开支，却没有给予其潜在收入的应有估值。报告列出5个尚未被市场定价的盈利驱动因素，若全部兑现，可在基准每股盈利约33美元的基础上额外贡献约10美元，意味着Meta当前股价对应的2028年市盈率实际上只有约15倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这5个&amp;quot;看涨期权&amp;quot;包括：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Neocloud变现&lt;/strong&gt;：约2.97美元每股盈利上行空间&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Meta AI&lt;/strong&gt;：约2.89美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;搜索&lt;/strong&gt;：约1.91美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;API收入&lt;/strong&gt;：约1.90美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;订阅机会&lt;/strong&gt;：约0.94美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;API收入：一个值得重点关注的新业务&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta近期推出的Muse Spark 1.1模型API定价，比竞争对手低30%至85%。大摩测算，每100兆瓦算力用于API业务，可产生约85.88亿美元收入，对应约1.91美元每股盈利，约占2028年每股盈利的6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;基准情景下，大摩假设Meta 1500万广告主中的25%（约400万）每月为其产品支付约200美元，同样可产生约80亿美元收入和约2美元每股盈利。&lt;/p&gt;
-&lt;p&gt;大摩指出，Meta只需分配约100兆瓦的GB300算力即可支撑这一API业务，而其2028年底预计拥有约21GW的算力基础，扩展空间充裕。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;估值调整&lt;/strong&gt;：大摩将Meta 2027/2028年资本开支上调29%/22%，分别达2250亿/2500亿美元，同时纳入400亿美元新增债务发行。更高的折旧拖累2027/2028年每股盈利分别下调3%/7%至约32.99美元/33.41美元。但大摩同步小幅上调2028年收入预测（+1%），并将估值滚动至年中，以23倍市盈率对应2027/2028年平均每股盈利，维持775美元目标价。&lt;/p&gt;
-亚马逊：AWS增速被低估
-&lt;p&gt;Nowak将亚马逊2027/2028年资本开支上调15%/29%，分别达3080亿/3180亿美元。&lt;/p&gt;
-&lt;p&gt;但与Meta不同，亚马逊的每股盈利预测反而上调了。原因是AWS收入预测同步大幅上调：2027/2028年AWS收入分别上调3%/7%，对应同比增速40%/36%，绝对值达2435亿/3316亿美元。更高的折旧被更强的AWS收入所抵消，2027/2028年每股盈利分别上调2%/3%至约11.53美元/15.05美元。&lt;/p&gt;
-&lt;p&gt;Nowak认为，当前市场对AWS的收入预测过于保守。报告指出，即便是大摩自己35%/40%的2026/2027年AWS增速预测，隐含的每增量瓦特收入仅为7美元/9美元，&amp;quot;可以说是保守的&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此外，Nowak预计AWS积压订单将在二季度环比大增1100亿美元，达到约4750亿美元，主要来自私人实验室的大单，这将增强市场对多年期增长持续性的信心。&lt;/p&gt;
-&lt;p&gt;目标价330美元基于2027/2028年平均每股盈利约13美元乘以约25倍市盈率，对应约1.4倍PEG，较同类公司有约30%折价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-谷歌：全栈AI领先，但短期面临算力约束风险
-&lt;p&gt;Nowak给予谷歌目标价415美元，约16%上行空间，评级超配。&lt;/p&gt;
-&lt;p&gt;Nowak预计谷歌云2026年二季度/全年增速分别达77%/78%，搜索业务2026年二季度/全年增速分别为17.5%/16%，2027/2028年增速为11%/8%。&lt;/p&gt;
-&lt;p&gt;但Nowak特别提示一个战术性风险：谷歌目前处于算力受限状态（其最新与SpaceX的算力租赁协议即为佐证）。算力约束可能拖累近期收入增长或产品发布节奏，这一风险在Meta和亚马逊身上相对较小。&lt;/p&gt;
-&lt;p&gt;此外，Gemini 3.5的发布已晚于谷歌在I/O大会上设定的时间表，大摩表示将关注下半年Gemini模型的进一步产品化进展。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩股深V反弹，一度跌超5%后转涨，中东局势持续升温、原油上涨，黄金小幅上扬</title><link>https://wallstreetcn.com/articles/3776859</link><guid>394f7b1e1a1213df9b71e5ea247985f86c0002daeeeab705f2a7a4fefb7e12c7</guid><pubDate>Tue, 14 Jul 2026 05:24:52 GMT</pubDate><description>&lt;p&gt;布伦特原油两日连涨，美联储加息概率升至50%，市场在通胀数据公布前夕普遍承压。&lt;/p&gt;
+&lt;p&gt;不过，分析师提醒，此轮经济复苏在结构上仍不均衡，出口与内需之间的分化值得关注。政府亦承认，当前增长主要依赖出口拉动，国内消费的修复进程相对滞后。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩股深V反弹，一度跌超5%后转涨，中东局势持续升温、原油上涨，黄金小幅上扬</title><link>https://wallstreetcn.com/articles/3776859</link><guid>394f7b1e1a1213df9b71e5ea247985f86c0002daeeeab705f2a7a4fefb7e12c7</guid><pubDate>Tue, 14 Jul 2026 05:24:52 GMT</pubDate><description>&lt;p&gt;布伦特原油两日连涨，美联储加息概率升至50%，市场在通胀数据公布前夕普遍承压。&lt;/p&gt;
 &lt;p&gt;美国重启对伊朗船只的霍尔木兹海峡封锁，推动布伦特原油盘中涨幅达2.8%，触及每桶85.64美元。与此同时，美联储理事Christopher Waller表示，若通胀压力持续，当局可能需要在近期上调利率，货币市场随即将7月加息概率定价至约50%。&lt;/p&gt;
 &lt;p&gt;韩国KOSPI指数一度下跌逾5%后转涨，日内再度涨超1%，SK海力士涨2.9%，三星电子涨4%。美国国债与美元走势相对平稳，市场等待周二公布的美国消费者价格指数数据。欧洲股指期货则显示开盘偏弱。&lt;/p&gt;
 &lt;p&gt;Vantage Global Prime高级市场分析师Hebe Chen表示：&amp;quot;油价与收益率的飙升，已在清晰传递通胀前景恶化的信号。这种不确定性解释了当前市场的摇摆情绪——投资者对恶化的背景愈加警觉，但尚未为最坏情形完全定价。&amp;quot;&lt;/p&gt;
@@ -540,22 +523,7 @@ Meta：5个“看涨期权”尚未被市场定价
 接下来看什么
 &lt;p&gt;市场目光转向两件事：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;财报季&lt;/strong&gt;：摩根大通、高盛、美国银行将于周二美股开盘前公布业绩。Canaccord Genuity研究与投资策略总监Michael Graham对CNBC表示：&amp;quot;今天有点像异常值，所有东西都跌了。但总体上，这不会改变我们看待财报季的方式。我们对大型科技股整体持建设性态度，认为盈利有上行空间。&amp;quot;FactSet数据显示，分析师预计标普500二季度盈利同比增长23.6%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;6月CPI&lt;/strong&gt;：美东时间周二8:30公布。道琼斯调查经济学家预期，6月整体CPI环比下降0.2%，年率3.8%（受能源价格下跌拖累）；核心CPI环比涨0.2%，年率2.8%，仍远高于美联储2%目标。此外，新任美联储主席凯文·沃什将首次向国会提交半年度货币政策报告。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心债信用大分化：甲骨文获惠誉最高评级，谷歌背书项目冰火两重天</title><link>https://wallstreetcn.com/articles/3776875</link><guid>2c2f5dc356b861577bbb1aa083ce0a724e73323c484590718c5216d8591ee3db</guid><pubDate>Tue, 14 Jul 2026 06:37:52 GMT</pubDate><description>&lt;p&gt;五大超大规模计算商已通过表外合资企业（JV）为AI数据中心筹集约900亿美元私募债券。但固收市场正在犯一个危险的定价错误：投资者以担保方的品牌信用替代了对合约条款的审慎评估——惠誉评级正在用差异化的信用打分撕开这层幻觉。&lt;/p&gt;
-&lt;p&gt;惠誉高级总监Anubhav Arora对彭博表示：&lt;strong&gt;投资者只看提供租赁担保的母公司是Google还是Meta，却没想过&amp;quot;租金需要等项目完工后才开始支付&amp;quot;。&lt;/strong&gt;若数据中心建设遭遇延迟，债券持有人将面临现金流断档——而五大巨头中财务实力最弱的甲骨文，恰恰因为在一笔交易中承诺&amp;quot;无论是否建成，约定日期起支付租金&amp;quot;，拿到了惠誉在这一领域迄今最高的信用评分。&lt;/p&gt;
-&lt;p&gt;高盛信用分析师指出，投资者倾向于将JV项目债券视为同质资产类别。但花旗对云运营商FluidStack三个JV项目的梳理证明：同一家Google背书，信用结果可以从投资级一路跌至接近垃圾级——取决于担保条款中是否存在租金折扣、租户退出权以及建设限价合同。&lt;/p&gt;
-同一Google，三种信用结局
-&lt;p&gt;FluidStack的三个数据中心JV项目合计发行近110亿美元债券，均由Alphabet旗下Google提供租赁担保，但三家评级结果截然不同。&lt;/p&gt;
-&lt;p&gt;据花旗分析师梳理：第一个项目拥有Google的全面租赁担保——若云运营商违约，Google直接承接租约；第二个项目的Google担保附带25%的租金折扣；第三个项目的租金公式与运营成本挂钩。后两项担保虽可覆盖偿债成本，但保障程度明显弱于首项。&lt;/p&gt;
-&lt;p&gt;更关键的差异在建设合同与退出条款。三个项目中仅有一个签订了最高限价建设合同；另一个包含一项允许FluidStack与Google在建设延迟超过六个月时退出租赁的条款——对债券持有人来说，这意味着项目烂尾时不仅没有租金收入，连追索对象都可能消失。&lt;/p&gt;
-&lt;p&gt;最终，仅有位于路易斯安那州St. Francisville的HUT 8 DC LLC项目（规模32.5亿美元）获得投资级评级。该项目同时拥有Google全面租赁担保、最高建设限价合同，且租户无退出权。&lt;/p&gt;
-甲骨文的&amp;quot;反向逻辑&amp;quot;：最弱资信，最高评分
-&lt;p&gt;在五大超大规模计算商中，除甲骨文外其余四家——Alphabet、亚马逊、Meta和微软——现金流均非常健康。但正是在其中财务实力最弱、CDS利差近期快速走阔的甲骨文，凭借密歇根数据中心项目的无条件租金支付担保，拿到了惠誉在这一领域迄今的最高信用评分。&lt;/p&gt;
-&lt;p&gt;Arora对此的总结指向一个核心矛盾：&lt;strong&gt;投资者看担保方品牌，评级机构看条款细节。&lt;/strong&gt;当一个项目同时绑定&amp;quot;科技巨头背书&amp;quot;与&amp;quot;租户退出权&amp;quot;时，前者可能给投资者带来致命的安全感假象。&lt;/p&gt;
-同质化定价的倒计时
-&lt;p&gt;尽管JV项目债券之间的条款差异显著，大多数项目的融资成本却高度接近，债券价格走势也紧密相关。&lt;strong&gt;高盛信用分析师预计，随着保护条款——或缺乏保护条款——的重要性日益凸显，收益率将出现更大分化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分化的压力正在被供给侧放大。五大巨头今年已发行近2000亿美元公司债，六家AI超大规模计算商年内累计发债约2440亿美元，较去年翻逾一倍。高盛首席信用策略师Amanda Lynam指出，五大巨头合计可在美元投资级债市额外发行的空间仅约5100亿美元——相对于高盛预计的5.8万亿美元总资本支出仅占极小比例。&lt;/p&gt;
-&lt;p&gt;这意味着JV债仍将是不可或缺的融资工具。科技巨头已在欧元、瑞郎、英镑等多币种市场发债，并借助Apollo Global Management等机构的私募信贷渠道。与此同时，数据中心需求已强劲到开发商开始遭遇劳动力短缺等现实约束。Arora指出，这可能赋予房东更多议价能力，也意味着交易条款将保持高度个性化，而非向标准化收敛。&lt;/p&gt;
-&lt;p&gt;对固收投资者而言，核心问题已不再是&amp;quot;AI基建值不值得投&amp;quot;，而是&amp;quot;站在条款的哪一侧&amp;quot;——谁背书，与以什么条件背书，正在分化为两个截然不同的风险敞口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI投资热潮驱动！中国6月出口同比大增27%远超预期，创逾四年新高，上半年出口同比增长17.6%</title><link>https://wallstreetcn.com/articles/3776863</link><guid>c60ad2f098678bfd905d07606c46460cda7e86c062dbfb01908ec3194530b6aa</guid><pubDate>Tue, 14 Jul 2026 03:28:11 GMT</pubDate><description>&lt;p&gt;中国6月贸易数据全面超预期，出口增速创逾三年高位，进口同步大幅攀升，AI基础设施投资热潮，成为贸易爆发的主要核心驱动力之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6月CPI&lt;/strong&gt;：美东时间周二8:30公布。道琼斯调查经济学家预期，6月整体CPI环比下降0.2%，年率3.8%（受能源价格下跌拖累）；核心CPI环比涨0.2%，年率2.8%，仍远高于美联储2%目标。此外，新任美联储主席凯文·沃什将首次向国会提交半年度货币政策报告。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI投资热潮驱动！中国6月出口同比大增27%远超预期，创逾四年新高，上半年出口同比增长17.6%</title><link>https://wallstreetcn.com/articles/3776863</link><guid>c60ad2f098678bfd905d07606c46460cda7e86c062dbfb01908ec3194530b6aa</guid><pubDate>Tue, 14 Jul 2026 03:28:11 GMT</pubDate><description>&lt;p&gt;中国6月贸易数据全面超预期，出口增速创逾三年高位，进口同步大幅攀升，AI基础设施投资热潮，成为贸易爆发的主要核心驱动力之一。&lt;/p&gt;
 &lt;p&gt;7月14日，海关总署周二公布数据显示，6月出口以美元计同比增长27%，&lt;strong&gt;为2021年10月以来最强增速，&lt;/strong&gt;远超市场预估的19%，5月增速为19.4%。与此同时，进口同比大增36%，&lt;strong&gt;创五年来最大单月涨幅&lt;/strong&gt;，同样显著优于市场预期，贸易顺差达到1256亿美元，为历史第二高位。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;以人民币计，6月单月进出口达4.78万亿元，同比增长24.2%，维持连续17个月正增长纪录。&lt;/p&gt;
