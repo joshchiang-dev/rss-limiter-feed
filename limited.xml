@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 00:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件</title><link>https://wallstreetcn.com/articles/3776842</link><guid>e2929dfd9753aa2f65851073ba258d57e216c51ae4fae148b6e47452454311ac</guid><pubDate>Mon, 13 Jul 2026 23:52:11 GMT</pubDate><description>&lt;p&gt;7月13日，半导体研究机构SemiAnalysis在社交平台发布推文，高度评价英伟达在vLLM推理引擎上的性能优化成果，同时明确指出AMD在部分模型的vLLM支持上仍有较大追赶空间。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 00:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件</title><link>https://wallstreetcn.com/articles/3776842</link><guid>e2929dfd9753aa2f65851073ba258d57e216c51ae4fae148b6e47452454311ac</guid><pubDate>Mon, 13 Jul 2026 23:52:11 GMT</pubDate><description>&lt;p&gt;7月13日，半导体研究机构SemiAnalysis在社交平台发布推文，高度评价英伟达在vLLM推理引擎上的性能优化成果，同时明确指出AMD在部分模型的vLLM支持上仍有较大追赶空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775841"&gt;华尔街见闻提及&lt;/a&gt;，该机构两周前指出，英伟达&amp;quot;CUDA护城河正遭缓慢侵蚀&amp;quot;，公司最大的竞争压力是越来越多超大规模云厂商和AI模型公司开始采用自研ASIC，针对训练或推理等特定场景构建专用芯片体系。&lt;/p&gt;
 &lt;p&gt;两则判断将AI芯片竞争的焦点从&amp;quot;谁的硬件更强&amp;quot;拉回到一个更根本的问题：&lt;strong&gt;在推理时代的规模化部署中，软件生态的深度可能比单代GPU的硬件领先更具决定性。&lt;/strong&gt;&lt;/p&gt;
@@ -426,7 +426,75 @@ SK海力士拟将部分ADR募资转投韩国国债
 &lt;p&gt;&lt;strong&gt;不过，高盛同时承认，短期内市场仍面临多重阻力&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首先是季节性规律。韩股综合指数&lt;/strong&gt;历史上在第三季度表现疲软，若上半年涨幅可观，三季度便自然成为机构锁定收益、再平衡组合、轮动至防御板块的窗口期。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其次是融资成本问题。&lt;/strong&gt;韩国银行业可用于向散户投放的融资贷款已濒临上限，掉期融资成本虽较峰值略有回落，但仍处高位，主经纪商正主动压缩库存与风险敞口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价暴涨10%！NACHO交易重启，市场“对冲突结束过早定价了”</title><link>https://wallstreetcn.com/articles/3776847</link><guid>a692d96a16b05f48d0f7971b583c0474b5b500e642bf3fe36547d629975b8b4a</guid><pubDate>Tue, 14 Jul 2026 00:09:22 GMT</pubDate><description>&lt;p&gt;周末中东局势再度升温，叠加特朗普宣布重新封锁霍尔木兹海峡伊朗航运通道，国际油价周一录得2020年以来最大单日涨幅，此前一个月的跌势被一举抹平。市场正在重启NACHO交易：霍尔木兹海峡恢复战前常态的可能性，已接近于零。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其次是融资成本问题。&lt;/strong&gt;韩国银行业可用于向散户投放的融资贷款已濒临上限，掉期融资成本虽较峰值略有回落，但仍处高位，主经纪商正主动压缩库存与风险敞口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易崩了？债市“撞飞”了股市</title><link>https://wallstreetcn.com/articles/3776849</link><guid>42979b52217c48f2a02e884c7d1d7d2404fded1576354a1733085bbabc3a4cd7</guid><pubDate>Tue, 14 Jul 2026 00:31:06 GMT</pubDate><description>&lt;p&gt;债市的裂缝，正在变成股市的地震。&lt;/p&gt;
+&lt;p&gt;当地时间7月13日，美股半导体“被打趴”，AI板块全线溃退。跟随韩国KOSPI指数近9%的惨烈跌幅，隔夜纳斯达克再度跌破50日均线并收于其下，成为当日美股主要指数中表现最差的。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;半导体板块遭到重创，AI相关股票全线被抛售——无论是&amp;quot;开票方&amp;quot;（资本开支的投入方，如云计算巨头）还是&amp;quot;收票方&amp;quot;（算力的提供方，如芯片公司），均未能幸免，后者跌幅更深。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;有意思的是，Mag7与标普其余493只股票当天跌幅基本相当——这意味着这不是单纯的风格切换，而是更广泛的情绪收缩。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;当天，三条交易主线同时收紧：美伊紧张局势推高油价，美联储鹰派表态压垮债市，AI资本开支的债务隐忧引爆半导体板块。而债市的“惨烈”，可能才是真正值得警惕的核心信号之一。&lt;/p&gt;
+&lt;p&gt;AI交易的逻辑链条是：&lt;strong&gt;科技巨头借债→砸钱建数据中心→推动算力需求→半导体和AI股票上涨。现在，这条链条的第一个环节——债市的承接能力——正在松动。&lt;/strong&gt;高盛衍生品交易主管Brian Garrett本周直言：&amp;quot;信贷同事的紧张程度，是我多年来第一次超过股票波动率同事……&amp;#x27;惨烈&amp;#x27;这个词在信贷交易台被反复提及，而同期标普500的波动幅度仅在30个基点区间内震荡。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+债市警报：AI借债狂潮撞上承接极限
+&lt;p&gt;AI相关债券的发行规模，已经把投资级债券市场逼到了消化不良的边缘。&lt;/p&gt;
+&lt;p&gt;据华尔街日报近日报道，Alphabet、亚马逊、Meta、甲骨文、英伟达和SpaceX六家超大规模计算商，今年已累计发债约2440亿美元，较去年全年的1080亿美元翻超一倍，是2024年170亿美元的逾14倍。&lt;/p&gt;
+&lt;p&gt;高盛投资级债券交易员Jeffrey Papai在报告中写道：&amp;quot;过去一个月，AI相关债券发行达750亿美元（年初至今2410亿美元，过去一年3600亿美元），已令我们的AI债券篮子利差扩大约25个基点。&amp;quot;&lt;/p&gt;
+&lt;p&gt;更关键的是，市场的承接阈值正在快速下降。Papai指出：&amp;quot;此前需要750亿美元以上的供给才能令市场承压，如今仅250亿美元便足以令市场陷入被动。&amp;quot;换句话说，同样的冲击，市场越来越扛不住。&lt;/p&gt;
+&lt;p&gt;摩根士丹利数据显示，超大规模计算商整体杠杆率已从2025年第三季度的0.9倍飙升至目前的1.8倍，仅用两个多季度便实现翻倍，超越整个能源行业的杠杆水平，且仍以每季度约0.3倍的速度攀升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从市场占比看，亚马逊、Meta、谷歌、微软和甲骨文五家公司，目前已占整个美元投资级债券指数的4%。若以久期加权（DV01）口径计算，六大超大规模计算商加三家主要芯片公司，已占指数的9%——且这还是在芯片融资尚未真正启动之前。&lt;/p&gt;
+&lt;p&gt;Papai的结论直白：&amp;quot;从近期走势可以清楚看出，&lt;strong&gt;来自投资者的增量承接能力已大幅萎缩。&lt;/strong&gt;&amp;quot;&lt;/p&gt;
+为什么债市出问题，股市会跟着垮？
+&lt;p&gt;逻辑很直接：AI资本开支靠债务支撑，债务靠投资者买单。&lt;/p&gt;
+&lt;p&gt;Papai坦承，要让市场消化下一轮供给，需要几个前提：发行方放缓节奏、改变发行结构（币种和久期多元化）、私募信贷和银行承接更多份额，以及债券价格进一步走低（利差走阔）以吸引新增买家入场。&lt;/p&gt;
+&lt;p&gt;但他也点出了这条路的内在矛盾：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;一旦AI债券抛售全面展开，将对股票市场形成直接冲击，并可能向更广泛的投资级市场蔓延。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美银首席投资官Michael Hartnett将&amp;quot;AI资本开支削减&amp;quot;列为最大市场尾部风险，并给出触发路径：债券义警切断超大规模计算商流动性，迫使其转向股权融资并裁员——Meta、微软、亚马逊已分别裁员13%、10%和9%。&lt;/p&gt;
+&lt;p&gt;Apollo首席经济学家Torsten Slok则警告：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AI是目前支撑经济和市场的唯一支柱，而当如此多的赌注押在如此少的公司身上，一旦回报兑现时间晚于预期，这不仅仅是一个行业问题，它可能让经济滑入衰退，让标普500陷入调整。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Slok还指出，token价格持续下滑，中国模型在全球最常用模型中的份额及token使用量均已超越美国同类产品——这进一步压缩超大规模计算商的自由现金流前景。&lt;/p&gt;
+这一轮叙事能否再被“救活”？
+&lt;p&gt;这不是AI债市第一次逼近临界点。&lt;/p&gt;
+&lt;p&gt;2026年5月初，英国《金融时报》曾报道，摩根大通、摩根士丹利和SMBC等银行正在寻找将数据中心相关债务风险转移给更广泛投资者的途径，核心买家已对AI债券供给产生抵触。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;彼时，高盛在这篇报道发布约48小时后发布了《解码智能体经济》报告，预测智能体AI将推动LLM利润率大幅提升。叙事切换迅速平息了市场紧张情绪，并催生了新一轮更大规模的债券发行——亚马逊3月完成370亿美元发行（史上第四大企业债），7月再发250亿美元；SpaceX在IPO数日后以250亿美元债券叩开市场大门。&lt;/p&gt;
+&lt;p&gt;如今，高盛信贷交易台自己喊出&amp;quot;惨烈&amp;quot;，意味着这一轮叙事的支撑力正在减弱。&lt;/p&gt;
+&lt;p&gt;Papai在报告中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鉴于利差已有所调整、发行窗口临近财报静默期，短期内AI债券复合体或暂获喘息，但中长期来看，鉴于供给前景，预计将进一步跑输大市。建议持有信用波动率头寸，以对冲更广泛市场&amp;#x27;污染&amp;#x27;的可能性。&lt;/p&gt;
+&lt;/blockquote&gt;
+债市之外：沃勒加息警告+油价冲击叠加
+&lt;p&gt;这一天的债市压力，还来自另一个方向。&lt;/p&gt;
+&lt;p&gt;美联储理事沃勒在纽约的讲话直接推高了加息预期：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果本周核心通胀数据再度偏热，FOMC将需要考虑近期收紧货币政策。&lt;/p&gt;
+&lt;p&gt;无论你用哪种方式衡量，今年通胀都在上升。&lt;/p&gt;
+&lt;p&gt;目前，我对核心通胀的持续偏高感到担忧。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2年期美债收益率单日上行6个基点，30年期上行3个基点。7月加息概率飙升至沃什就任以来高位，接近50%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;BTIG的Krinsky指出，10年期实际利率已升至2025年4月以来最高，从6月底的2.11%升至2.34%。他判断：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果实际利率快速突破2.40%，将足以对股市造成更广泛的冲击。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;油价同样火上浇油。WTI当日涨近9%，逼近78美元，为近一个月新高——霍尔木兹海峡商业通行量在24小时内骤降至仅3次（6月24日反弹高点时为57次）。油价上涨推高通胀预期，进一步强化了债市的鹰派逻辑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+接下来怎么走？
+&lt;p&gt;BTIG的Krinsky给出三种情景及概率：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;轮动延续&lt;/strong&gt;（40%）：资金继续从半导体/科技/AI流向其他板块&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;轮动逆转&lt;/strong&gt;（20%）：资金重新回流科技，流出近期强势板块&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;轮动熄火、全面抛售&lt;/strong&gt;（40%）：相关性骤升，市场全面下跌，类似2024年7月末&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Krinsky特别指出，第三种情景的概率&amp;quot;今天已显著上升&amp;quot;——原因是实际利率飙升、KOSPI隔夜崩跌，以及7月加息概率接近50%。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价暴涨10%！NACHO交易重启，市场“对冲突结束过早定价了”</title><link>https://wallstreetcn.com/articles/3776847</link><guid>a692d96a16b05f48d0f7971b583c0474b5b500e642bf3fe36547d629975b8b4a</guid><pubDate>Tue, 14 Jul 2026 00:09:22 GMT</pubDate><description>&lt;p&gt;周末中东局势再度升温，叠加特朗普宣布重新封锁霍尔木兹海峡伊朗航运通道，国际油价周一录得2020年以来最大单日涨幅，此前一个月的跌势被一举抹平。市场正在重启NACHO交易：霍尔木兹海峡恢复战前常态的可能性，已接近于零。&lt;/p&gt;
 &lt;p&gt;据央视新闻报道，当地时间7月13日，美国总统特朗普在白宫对媒体表示，他仍认为美国与伊朗有可能达成协议，“伊朗希望达成协议，并已重新与美方接触”。&lt;strong&gt;特朗普同时称，美军将继续对伊朗发动猛烈打击，大幅削弱伊朗影响霍尔木兹海峡通行的能力，同时正在恢复“仅针对伊朗的封锁”，&lt;/strong&gt;任何与伊朗开展业务的船只将无法通过，其他国家和船只仍可正常通行。&lt;/p&gt;
 &lt;p&gt;布伦特原油期货单日跳涨9.6%，收于每桶83.20美元；美国WTI原油期货上涨9.4%，收于每桶78.14美元，创2026年以来第四大单日涨幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -460,16 +528,4 @@ AI热潮驱动外资创纪录涌入美股
 &lt;p&gt;造成这一现象的背景是：美国利率相对主要经济体仍处于高位，购买美元汇率保护的成本因此居高不下，令投资者望而却步。这反而使美元对股价波动的敞口进一步加大——若AI交易遭遇抛售，外资撤离将直接转化为美元的卖压。&lt;/p&gt;
 美联储加息预期提供阶段性支撑
 &lt;p&gt;尽管存在上述风险，美元并非毫无支撑。目前市场预期美联储最早将于9月启动加息，这对美元构成正面提振。相比之下，其他主要经济体被认为韧性较弱，其央行收紧货币政策的意愿也相对有限，这一利差格局短期内仍有利于美元。&lt;/p&gt;
-&lt;p&gt;不过，Slok的核心逻辑在于，若AI投资者信心动摇、开始减持美国股票，美元的利率支撑或难以完全抵消资金外流带来的冲击。AI交易的成色，正在成为判断美元走势不可忽视的变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 印度6月CPI同比飙升至4.38%，17个月来首次超越4%官方目标</title><link>https://wallstreetcn.com/articles/3776817</link><guid>ad546b1fdb0a6294eab190f778a9a26c13ab9c7cf3843f2690f79d9ca64ac0f1</guid><pubDate>Mon, 13 Jul 2026 13:17:48 GMT</pubDate><description>&lt;p&gt;6月印度通胀重新高于印度储备银行4%的政策目标，结束了此前连续数月的放缓趋势。食品价格反弹、国际油价走高以及季风降雨分布不均，共同推升物价水平，也令市场对印度央行进一步宽松的预期有所降温。&lt;/p&gt;
-&lt;p&gt;7月13日，印度统计和项目实施部公布的数据显示，&lt;strong&gt;6月CPI同比上涨4.38%，高于市场预期的4.20%，也高于5月的3.93%，为近17个月来首次重新突破印度储备银行4%的通胀目标。&lt;/strong&gt;数据公布后，印度10年期国债收益率上行约2个基点至6.73%，市场整体反应相对平静。&lt;/p&gt;
-&lt;p&gt;此次通胀超预期回升，市场普遍认为尚不足以改变印度央行的政策立场。不过，在通胀重新抬头的背景下，市场对于后续降息的押注已有所收敛。&lt;/p&gt;
-&lt;strong&gt;食品价格主导反弹，油价与季风成后续通胀关键变量&lt;/strong&gt;
-&lt;p&gt;&lt;strong&gt;食品价格仍是本轮印度通胀回升的主要推手。&lt;/strong&gt;由于食品在印度CPI篮子中权重高达约37%，6月食品通胀同比从5月的4.78%升至5.32%，成为整体通胀反弹的最大贡献项。&lt;/p&gt;
-&lt;p&gt;与此同时，能源价格也带来新的上行压力。近期中东局势再度紧张，国际油价持续走高，市场对霍尔木兹海峡运输安全的担忧重新升温，布伦特原油价格一度逼近每桶80美元。&lt;strong&gt;考虑到印度高度依赖原油进口，油价上涨将进一步推高燃料和运输成本，并逐步向终端消费价格传导。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;除国际油价外，季风降雨情况仍是决定未来几个月食品价格走势的关键变量。&lt;/strong&gt;西南季风直接关系印度大部分农作物生产，尽管全国累计降雨缺口已从6月底的约40%收窄至7月12日的约18%，整体有所改善，但区域分布仍不均衡，后续降雨变化仍需持续关注。&lt;/p&gt;
-&lt;p&gt;牛津经济研究院首席经济学家亚历山德拉·赫尔曼·普拉萨德预计&lt;strong&gt;，未来数月印度通胀水平仍将进一步走高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-市场预计印度央行短期仍将按兵不动
-&lt;p&gt;尽管通胀重新高于政策目标，分析人士普遍认为，单月数据不足以促使印度央行调整货币政策。&lt;/p&gt;
-&lt;p&gt;印度央行在6月政策会议上维持基准利率5.25%不变，并将2026/27财年通胀预测上调至5.1%，已提前为物价回升预留政策空间。印度央行行长桑杰·马尔霍特拉当时表示，只有当价格压力出现更广泛扩散时，央行才会作出政策回应，并将持续关注国际油价及季风进展。&lt;/p&gt;
-&lt;p&gt;ICRA首席经济学家阿迪蒂·纳亚尔表示，&lt;strong&gt;目前仍预计印度央行将在8月政策会议上维持利率不变。&lt;/strong&gt;她认为，如果国际油价重新回落，将降低提前收紧政策的必要性，但中东局势再度紧张仍是未来通胀面临的主要风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;不过，Slok的核心逻辑在于，若AI投资者信心动摇、开始减持美国股票，美元的利率支撑或难以完全抵消资金外流带来的冲击。AI交易的成色，正在成为判断美元走势不可忽视的变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
