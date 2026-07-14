@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 09:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 跟韩国券商唱反调！SemiAnalysis：预计SK海力士盈利强劲，“别人恐惧我贪婪”！</title><link>https://wallstreetcn.com/articles/3776891</link><guid>9c07f3b670729f4e1a2c4d060d1f33c4b1b834c0cf62b29134233b7dd225af6c</guid><pubDate>Tue, 14 Jul 2026 08:15:59 GMT</pubDate><description>&lt;p&gt;半导体研究机构SemiAnalysis发布看多报告，正面回击此前韩国本地券商KIS下调SK海力士盈利预测所引发的市场恐慌，坚持认为SK海力士DRAM业绩前景依然强劲，并将当前调整定性为入场机会。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 10:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 跟韩国券商唱反调！SemiAnalysis：预计SK海力士盈利强劲，“别人恐惧我贪婪”！</title><link>https://wallstreetcn.com/articles/3776891</link><guid>9c07f3b670729f4e1a2c4d060d1f33c4b1b834c0cf62b29134233b7dd225af6c</guid><pubDate>Tue, 14 Jul 2026 08:15:59 GMT</pubDate><description>&lt;p&gt;半导体研究机构SemiAnalysis发布看多报告，正面回击此前韩国本地券商KIS下调SK海力士盈利预测所引发的市场恐慌，坚持认为SK海力士DRAM业绩前景依然强劲，并将当前调整定性为入场机会。&lt;/p&gt;
 &lt;p&gt;SemiAnalysis分析师Ray Wang在题为《Be Greedy When Others Are Fearful》的报告中预测，&lt;strong&gt;SK海力士2026年第二季度DRAM综合平均售价（ASP）将环比大涨约45%，DRAM项目营业利润将达55万亿韩元。报告明确指出，尽管近期存储板块波动引发投资者担忧，SK海力士及其他头部存储企业&amp;quot;仍是半导体行业中风险收益比最具吸引力的标的之一&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -64,7 +64,20 @@ vLLM的差距是生态闭环
 &lt;/blockquote&gt;
 &lt;p&gt;三者叠加产生的迁移成本，远超任何单一硬件参数的差距。这一判断与SemiAnalysis两周前的分析形成呼应。&lt;/p&gt;
 &lt;p&gt;彼时，该机构指出Anthropic已形成由谷歌TPU、亚马逊Trainium和英伟达GPU共同构成的多平台算力架构，大量Claude模型训练运行于TPU，Claude Code推理则越来越多部署于Trainium，英伟达GPU的份额正遭自研ASIC缓慢侵蚀。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而此次对vLLM性能的正面评价表明，英伟达在推理软件栈深度优化上的领先幅度，并未随硬件竞争格局的演变而同步收窄。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 接近50%！市场预计美联储本月加息概率走高</title><link>https://wallstreetcn.com/articles/3776848</link><guid>44c3ac35c731670fd0ec0dff8f4cc7bfd550990c2cdcef2f67cb9b2b62fe531f</guid><pubDate>Tue, 14 Jul 2026 00:00:07 GMT</pubDate><description>&lt;p&gt;油价飙升与美联储官员鹰派表态的双重冲击，正将市场对美联储7月加息的预期推向临界点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而此次对vLLM性能的正面评价表明，英伟达在推理软件栈深度优化上的领先幅度，并未随硬件竞争格局的演变而同步收窄。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI算力需求引爆高速光模块，剑桥科技上半年净利润预增156.65%至197.18%｜财报见闻</title><link>https://wallstreetcn.com/articles/3776906</link><guid>c5687bc079f4bf3695e21abe902a136596794ca86d3b319051b35b1b243f50e2</guid><pubDate>Tue, 14 Jul 2026 10:18:25 GMT</pubDate><description>&lt;p&gt;AI算力基础设施扩张持续向上游传导，光模块厂商迎来业绩高增长周期。&lt;/p&gt;
+&lt;p&gt;7月14日，剑桥科技发布2026年半年度业绩预增公告，&lt;strong&gt;预计上半年实现归属于上市公司股东的净利润3.10亿元至3.59亿元，同比增长156.65%至197.18%；扣除非经常性损益后的净利润预计为3.02亿元至3.51亿元，同比增长153.72%至194.97%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司表示，&lt;strong&gt;业绩增长主要受益于高速光模块业务快速发展。&lt;/strong&gt;AI数据中心建设加速推动高速光模块需求提升，公司订单规模、产品出货金额同比大幅增长，同时800G等高速率产品占比提升，带动产品结构优化和毛利率改善。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从业绩质量来看，本次增长主要来自主营业务改善。&lt;/strong&gt;去年同期，公司归母净利润为1.21亿元，本期预告区间下限已超过去年同期两倍以上；同时，扣非净利润与归母净利润规模接近，表明非经常性损益对业绩影响有限。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+高速光模块需求爆发，量价齐升推动盈利改善
+&lt;p&gt;剑桥科技本轮业绩增长的核心驱动力来自高速光模块业务。&lt;/p&gt;
+&lt;p&gt;随着AI大模型训练和推理需求持续提升，全球数据中心加速扩容，对高速互联产品的需求快速增长。800G光模块正在成为AI集群建设的重要配套产品，并向1.6T等更高速率方向演进。&lt;/p&gt;
+&lt;p&gt;在这一趋势下，&lt;strong&gt;剑桥科技一方面受益于市场需求增长，订单规模持续扩大；另一方面，随着高速率产品销售占比提升，产品附加值和盈利能力同步改善，推动公司收入和利润实现双重增长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司公告显示，本期业绩预增不存在重大非经常性损益影响，也不存在特殊会计处理因素，主营业务改善是利润增长的主要来源。&lt;/p&gt;
+汇兑损失拖累超两亿元，外汇敞口后续有望收窄
+&lt;p&gt;高速光模块业务高增长的同时，汇率波动对公司利润形成明显压力。&lt;/p&gt;
+&lt;p&gt;剑桥科技此前通过香港IPO及配售融资获得资金，&lt;strong&gt;部分融资所得以港元形式留存。今年以来，美元走弱带动港元汇率波动，导致公司汇兑收益转为损失。&lt;/strong&gt;数据显示，公司2026年上半年预计产生约2.02亿元汇兑损失，而去年同期为1365万元汇兑收益。&lt;/p&gt;
+&lt;p&gt;不过，随着募投资金按照计划投入产能建设和业务发展，相关外汇资产规模有望逐步下降，汇兑因素对未来利润的影响预计将减弱。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 接近50%！市场预计美联储本月加息概率走高</title><link>https://wallstreetcn.com/articles/3776848</link><guid>44c3ac35c731670fd0ec0dff8f4cc7bfd550990c2cdcef2f67cb9b2b62fe531f</guid><pubDate>Tue, 14 Jul 2026 00:00:07 GMT</pubDate><description>&lt;p&gt;油价飙升与美联储官员鹰派表态的双重冲击，正将市场对美联储7月加息的预期推向临界点。&lt;/p&gt;
 &lt;p&gt;周一，货币市场定价显示，美联储本月加息25个基点的概率已升至接近50%，此前一度不足40%。推动这一转变的，是美联储理事沃勒（Christopher Waller）发出的迄今&lt;strong&gt;最明确鹰派信号&lt;/strong&gt;——他表示，&lt;strong&gt;若本周通胀数据再度偏热，FOMC将需要考虑在近期收紧货币政策。&lt;/strong&gt;与此同时，地缘政治紧张局势升温，布伦特原油单日最高涨幅接近10%，&lt;strong&gt;进一步强化了市场对通胀压力持续的担忧。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美债收益率随即全线走高。&lt;/strong&gt;对美联储政策预期最为敏感的两年期美债收益率单日上涨约7个基点，触及4.28%，为2025年2月以来最高水平；10年期收益率升至4.62%，创5月以来新高。&lt;/p&gt;
 &lt;p&gt;本周的焦点将集中在周二公布的美国6月CPI数据，以及美联储主席沃什（Kevin Warsh）的国会证词。市场普遍认为，&lt;strong&gt;这两项事件将对7月29日FOMC会议的政策走向产生决定性影响。&lt;/strong&gt;&lt;/p&gt;
@@ -143,170 +156,7 @@ Waller划定加息触发线，政策天平明显倾斜
 
 &lt;p&gt;东山精密在公告中指出，消费电子、汽车零部件等传统核心业务经营根基稳固，业绩稳步提升，为公司整体利润提供了持续且可预期的底部支撑。上年同期，公司归属于上市公司股东的净利润约为7.58亿元，扣非净利润约为6.57亿元，此番高基数之上仍录得近三倍增长，凸显出新兴业务对整体盈利结构的重塑力度。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;光模块业务是本次业绩预告中着墨最多的新增长极。&lt;/strong&gt;公司表示，该业务整合效应初步显现，新增产能的爬坡进度及新客户导入均符合预期，收入与盈利均实现&amp;quot;较大增长&amp;quot;。AI大模型训练及推理对高速光互联需求的持续扩张，已使光模块成为数据中心建设不可或缺的核心组件，东山精密的相关布局正逐步进入收获期。&lt;/p&gt;
-&lt;p&gt;除光模块业务的经营性贡献外，公司前期对数据中心相关产业的股权投资也开始产生财务回报，公告将其描述为&amp;quot;逐步形成收益，有效增厚当期整体利润&amp;quot;。这意味着东山精密的盈利增长并非单一线条，而是经营业绩与投资收益双轮驱动的结果，对投资者而言，在评估可持续性时需留意两者各自的贡献比重。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌</title><link>https://wallstreetcn.com/articles/3776754</link><guid>f0acf07fbf9bd8d7865032ae4958502c5077f92e3cff636f791f1ba2a5048043</guid><pubDate>Mon, 13 Jul 2026 22:23:24 GMT</pubDate><description>&lt;p&gt;美伊地缘冲突升级，特朗普宣布对霍尔木兹海峡封锁，引发能源供应中断的担忧。美联储理事沃勒释放的鹰派信号，市场静待今日美国CPI数据及沃什讲话，美股美债双杀、油汇双涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;特朗普宣布对伊朗实施新一轮封锁，霍尔木兹海峡商船通行量暴跌，油价跳涨近5%触及近一个月高位。&lt;/p&gt;
-&lt;p&gt;美联储理事沃勒在纽约放鹰，称若本周核心通胀数据再度偏热，FOMC将需要在近期考虑收紧货币政策，2年期美债收益率随即飙升6个基点，7月加息概率逼近50%。&lt;/p&gt;
-&lt;p&gt;市场对AI资本支出变现能力及可持续性的日益担忧引发芯片股重挫，最终拖累全球股市、黄金及加密货币等资产普遍下跌。&lt;/p&gt;
-
-
-油价飙升，霍尔木兹通行崩溃
-
-
-
-
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776822"&gt;华尔街见闻提及&lt;/a&gt;，据新华社，美国总统特朗普13日周一说，恢复对伊朗的海上封锁。&lt;/p&gt;
-&lt;p&gt;据央视新闻，特朗普周一在旗下社交媒体发文表示，&lt;strong&gt;美国将针对所有经由霍尔木兹海峡处运输的货物收取20%的费用，相关流程与部署工作将立即启动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美股午盘时段，美国中央司令部确认，美军将于美东时间14日周二下午4点、即北京时间周三凌晨4点开始对伊朗重启海上封锁，国际原油涨幅一度扩大到将近10%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;WTI加速上行的技术面催化剂在于价格重新站上50日均线。即期布油现货溢价跳升，近月价格飙至2022年12月以来最高水平，反映出市场对短期供应中断的迫切担忧。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更关键的是，柴油和汽油仍处于结构性紧张状态，这一动态对利率的影响甚至比布伦特现货价格本身更为深远，因为它直接传导至核心通胀中的运输和能源分项。&lt;/p&gt;
-&lt;p&gt;高盛One-Delta交易台主管指出，市场核心争论已经从&amp;quot;海峡是否开放&amp;quot;转向&amp;quot;通行需要谁的许可&amp;quot;。这一微妙但根本性的转变意味着，即便物理航道仍然通畅，政治层面的不确定性已足以让商业运营商却步。&lt;/p&gt;
-&lt;p&gt;商用船运公司因此选择避险，直接导致这一全球最关键石油通道的24小时通行量，从6月24日反弹高位的57次断崖式下跌至仅3次。&lt;strong&gt;彭博Michael McDonoug表示，这一数字在昨天还有7次，周六有11次，衰减速度惊人。&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-&lt;p&gt;高盛基准情景预测布伦特将在75至85美元区间震荡，逻辑是伊朗事实控制过境而美国默认这一操作现实，交通逐步恢复。上行至100美元以上则需要直接攻击区域能源基础设施，如周末被击中的海上平台，或霍尔木兹与曼德海峡同时中断。&lt;/p&gt;
-&lt;p&gt;高盛Chris Hussey补充了一个长期视角，预计到2028年将有超过一半原经霍尔木兹海峡运输的原油找到替代管道路线，历史表明中东单一国家管道可在短至两年半内建成，目前已有7条管道在建。&lt;/p&gt;
-
-
-美联储理事放鹰，美债遭抛售
-&lt;p&gt;&lt;strong&gt;华尔街见闻提及&lt;/strong&gt;，美联储理事沃勒周一在纽约发表讲话，语气之鹰派超出市场预期。&lt;/p&gt;
-&lt;p&gt;沃勒明确表示，如果本周的核心通胀数据再次偏热，FOMC将在近期考虑收紧货币政策。他直言&amp;quot;无论你怎么切，用什么指标衡量，今年通胀都在上升&amp;quot;，并强调自己&amp;quot;对核心通胀的偏高步伐感到担忧&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这番表态之所以引发剧烈反应，是因为市场原本预期在能源价格冲击面前美联储会保持耐心，但沃勒的措辞暗示耐心已接近极限。&lt;/strong&gt;加息预期飙升至沃什上任后的最高水平，CME显示7月加息概率逼近50%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;高盛Rich Privorotsky指出，周二的CPI数据需要&amp;quot;实质性&amp;quot;超预期才能进一步推升加息预期。&lt;/p&gt;
-&lt;p&gt;然而结构性的逆风依然存在，全球久期供给压力持续，美国、日本、欧洲和英国均在加速发债，前瞻指引已成功压平曲线，但财政供给仍是主导性的结构性力量。&lt;/p&gt;
-&lt;p&gt;沃勒表态直接冲击了短端利率。2年期美债收益率飙升6个基点至约4.28%，30年期仅上行3个基点，曲线趋平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;10年期实际利率已飙升至2.34%，达到去年4月以来最高水平。6月底时这一数字还在2.11%，如今快速逼近2.40%的关键关口。&lt;/p&gt;
-&lt;p&gt;BTIG的Jonathan Krinsky警告，实际利率的变化率比绝对水平更重要，若快速突破2.40%，将对权益市场造成更广泛的问题。&lt;/p&gt;
-&lt;p&gt;这一警告的分量在今日已经有所体现，实际利率飙升正是黄金暴跌和科技股承压的共同推手。&lt;/p&gt;
-半导体全线杀跌，AI焦虑加剧
-&lt;p&gt;周一&lt;strong&gt;纳指&lt;/strong&gt;下挫1.55%收于25873.18点，为美股三大指数中表现最差，且收于50日均线下方。&lt;strong&gt;道指&lt;/strong&gt;仅跌0.26%，&lt;strong&gt;标普500&lt;/strong&gt;下跌0.79%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当日亚太时段，韩国综合指数暴跌8.95%，自6月24日高点已跌27%。&lt;/strong&gt;韩国股市的抛售外溢至美股，&lt;strong&gt;AI基础设施的超大规模厂商和芯片供应商同时被抛售，且后者跌幅更大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一模式意味着市场不再单纯质疑AI的需求端，而是开始担忧整个AI资本开支周期的可持续性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;半导体板块&lt;/strong&gt;遭受全面抛售。&lt;strong&gt;芯片股英伟达&lt;/strong&gt;跌3.52%至203.53美元，&lt;strong&gt;博通&lt;/strong&gt;跌3.98%至384.05美元，&lt;strong&gt;AMD&lt;/strong&gt;跌4.21%，&lt;strong&gt;ARM&lt;/strong&gt;跌近8%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;存储股美光&lt;/strong&gt;一度跌幅超7%，&lt;strong&gt;闪迪&lt;/strong&gt;跌超12%。&lt;strong&gt;SK海力士ADR&lt;/strong&gt;跌幅超9%，其首尔上市股份暴跌15.37%创下历史最大单日跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在半导体和AI板块哀鸿遍野之际，&lt;strong&gt;苹果&lt;/strong&gt;却走出独立行情，股价上涨0.71%至316.91美元，盘中创下历史新高。&lt;/p&gt;
-&lt;p&gt;高盛顶级科技分析师Pete Callahan指出，苹果在过去16周中有13周上涨，目前距离超越英伟达成为全球市值最大公司仅差约5%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;更引人注目的是，苹果7月已跑赢纳斯达克100指数约13个百分点，若这一势头持续，将是2011年以来最大的月度跑赢幅度，即15年来最大的月度超额收益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;苹果目前相对标普500的估值溢价已达约65%，为15年来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场对此的解读分为两派。基本面派&lt;/strong&gt;认为iPhone秋季换机周期、定价权带来的毛利率稳定性以及Siri和AI功能升级构成了坚实支撑。&lt;strong&gt;技术面派&lt;/strong&gt;则认为这更像是从高波动科技股向低波动强势资产负债表标的的防御性轮动，低波动因子正逼近52周新高。&lt;/p&gt;
-&lt;p&gt;一位资深市场观察者评论道，资金从所有科技股撤出并涌入&amp;quot;因存储芯片涨价将被碾压的严重高估手机公司&amp;quot;，暗示苹果的强势可能并非可持续的基本面故事，而是避险资金在科技板块内部的无奈选择。&lt;/p&gt;
-&lt;p&gt;半导体板块在6月22日达到峰值。此后，BTIG的Jonathan Krinsky指出，尽管标普500指数中有八个板块上涨，其中六个板块涨幅达到或超过2%，但该指数基本持平。&lt;/p&gt;
-&lt;p&gt;资金已从科技/人工智能板块流向其他板块。这使得标普500指数横盘整理，并将各板块之间的相关性推至历史低点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;彭博的Michael Ball提醒，零日期权活动压制了日内波动，而较长日期的头寸需要在周五7月到期后展期，如果宏观催化剂同时爆发，这将使市场更加脆弱。&lt;/p&gt;
-美元震荡走强，黄金暴跌
-&lt;p&gt;&lt;strong&gt;美元指数&lt;/strong&gt;走势震荡，但在沃勒发表评论后，最终较日低大幅走高超0.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Capital Economics的Thomas Mathews提醒，美元已是上一轮冲突的最大受益者，此轮起点更高，未必能享受同等涨幅。&lt;/p&gt;
-&lt;p&gt;Centrino Capital的Tony Sycamore则认为，油价上涨让加息风险重回视野，是驱动美元走高的直接因素。这两种观点并不矛盾，&lt;strong&gt;美元的方向由加息预期决定，但幅度受制于起跑线偏高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;实际利率飙升和美元走强的组合对黄金构成了致命打击。现货黄金一度暴跌超3%至每盎司3992.48美元、跌破4000美元这一被市场称为&amp;quot;马奇诺防线&amp;quot;的关键支撑。&lt;/p&gt;
-&lt;p&gt;彭博Tatiane Darie指出，虽然该水平在6月底被短暂击破后曾充当支撑，但此次油价、收益率和美元同时走高的格局让黄金处境更加艰难。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;黄金目前完全受制于实际利率和美元，两者都在向不利于贵金属的方向移动。&lt;/strong&gt;霍尔木兹的新一轮封锁威胁着本就微弱的交通恢复，原油价格偏向上行，叠加美联储鹰派基调，黄金的避险溢价被货币紧缩预期完全吞噬。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;大跌逾3%，一度跌破6.2 万美元。以太坊同样跌约3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周一美股三大指数收跌，恐慌指数VIX收涨14.11%。纳指科技股指数收跌约2.2%，半导体指数跌约4.8%。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;标普500指数收跌60.05点，跌幅0.79%，报7515.34点，微幅低开之后持续扩大跌幅。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;道琼斯工业平均指数收跌138.37点，跌幅0.26%，报52498.64点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;纳指收跌408.43点，跌幅1.55%，报25873.176点。纳斯达克100指数收跌561.007点，跌幅1.88%，报29264.103点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;罗素2000指数收跌0.83%，报2953.166点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;恐慌指数VIX收涨14.11%，报17.15，欧股盘初开始一天的交易以来持稳于16.20附近、00:00过后持续扩大涨幅。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（7月13日 美股各行业板块ETF）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;万得美国科技股七巨头（Magnificent 7）指数跌0.96%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;微软涨1.53%，亚马逊涨0.80%，苹果涨0.63%，谷歌A跌1.31%，Meta跌1.86%，特斯拉跌3.19%，英伟达跌3.52%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;芯片股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;费城半导体指数收跌619.38点，跌幅4.78%，报12347.784点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;台积电ADR跌2.88%，AMD跌4.21%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;纳斯达克金龙中国指数收跌0.14%，报6112.45点，整体高开低走。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;热门中概股里，日月光半导体收跌5.1%，百度跌3.6%，阿里跌0.1%，网易涨2.6%，蔚来涨3.3%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Circle跌4.77%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;欧洲股市大致收平，半导体概念股英飞凌跌2.9%、阿斯麦跌1.8%，能源股Eni涨约3.9%、BP涨超4.6%。意大利银行板块有望连续两天创收盘历史新高。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;泛欧股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;欧洲STOXX 600指数收跌0.01%，报641.01点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;欧元区STOXX 50指数收涨0.02%，报6271.02点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;德国DAX 30指数收涨0.19%，报25114.25点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;法国CAC 40指数收涨0.31%，报8364.65点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;英国富时100指数收涨0.01%，报10498.29点。&lt;/p&gt;
-&lt;p&gt;（7月13日 欧美主要股指表现）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;板块和个股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;欧元区蓝筹股中，英飞凌收跌2.91%，阿斯麦控股跌1.80%，赛峰股份跌1.79%，德国莱茵金属RHM跌1.29%跌幅第四大，德意志银行跌1.12%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;欧洲STOXX 600指数的所有成分股中，Plus 500收跌14.95%，Kongsberg Gruppen跌6.84%，德国汉莎航空跌4.14%，BE半导体实业公司跌3.25%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 国投证券：类比2021年“茅指数”，黄金历史大顶已经基本明确</title><link>https://wallstreetcn.com/articles/3776860</link><guid>e80857dd99aeb9c4f68023e618f717450000e578e3e6148e66c146e24f3b838e</guid><pubDate>Tue, 14 Jul 2026 01:40:47 GMT</pubDate><description>&lt;p&gt;过去几年，黄金和AI科技几乎同时成为全球资金的主线。表面看，一个是避险，一个是成长；深一层看，它们对应两种完全不同的世界观：买黄金，是押注秩序继续松动、美元信用继续被质疑；买AI，是押注技术会重新抬高美国经济的效率和回报率。&lt;/p&gt;
+&lt;p&gt;除光模块业务的经营性贡献外，公司前期对数据中心相关产业的股权投资也开始产生财务回报，公告将其描述为&amp;quot;逐步形成收益，有效增厚当期整体利润&amp;quot;。这意味着东山精密的盈利增长并非单一线条，而是经营业绩与投资收益双轮驱动的结果，对投资者而言，在评估可持续性时需留意两者各自的贡献比重。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 国投证券：类比2021年“茅指数”，黄金历史大顶已经基本明确</title><link>https://wallstreetcn.com/articles/3776860</link><guid>e80857dd99aeb9c4f68023e618f717450000e578e3e6148e66c146e24f3b838e</guid><pubDate>Tue, 14 Jul 2026 01:40:47 GMT</pubDate><description>&lt;p&gt;过去几年，黄金和AI科技几乎同时成为全球资金的主线。表面看，一个是避险，一个是成长；深一层看，它们对应两种完全不同的世界观：买黄金，是押注秩序继续松动、美元信用继续被质疑；买AI，是押注技术会重新抬高美国经济的效率和回报率。&lt;/p&gt;
 &lt;p&gt;国投证券策略分析师邹卓青在7月13日的策略专题中写道：“步入2026年，投资者正在迎来黄金与AI科技的终极决胜，在AI全面提速及不断渗透的当下，从微观证据到宏观效率的转化，显然我们的观点站在了AI科技这一侧，也显然天平已经正在向AI科技逐渐倾斜。”&lt;/p&gt;
 &lt;p&gt;这不是说黄金会马上崩盘。更准确的说法是，&lt;strong&gt;黄金可能已经走到类似2021年“茅指数”的位置：高点或许已经出现，但真正让市场彻底放弃的证据，还需要时间。&lt;/strong&gt;2021年春节后“茅指数”见顶，但消费逻辑被证伪，要等到2022年下半年疫情放开后才逐渐清楚。黄金现在也类似，先出现的是“松动证据”，不是“崩盘证据”。&lt;/p&gt;
 &lt;p&gt;最关键的松动，来自美元。过去黄金上涨很大一部分建立在弱美元、央行购金、去美元化叙事上；&lt;strong&gt;现在弱美元正在变成“美元不弱”。如果再叠加AI资本开支和生产率改善带来的美元信用修复，黄金此前享受的货币属性溢价，就会被系统性压缩&lt;/strong&gt;。所谓“M顶”，核心不在图形，而在交易逻辑的反转先后：政策顶先来，数据顶后到。&lt;/p&gt;
@@ -446,23 +296,25 @@ SK海力士拟将部分ADR募资转投韩国国债
 
 &lt;p&gt;据韩国财经媒体Yonhap Infomax援引SK海力士一位高级管理人士报道，公司正在研究购买韩国国债的可能性。&lt;/p&gt;
 &lt;p&gt;不过，截至目前，SK海力士尚未正式宣布相关投资计划，国际主流媒体也未对此进行独立确认。&lt;/p&gt;
-&lt;p&gt;此前媒体报道称，公司计划将上周ADR发行募集资金中的一部分汇回韩国，用于投资存储芯片制造设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想312 周期股业绩的“反身性”</title><link>http://xueqiu.com/1438190065/399967125</link><guid>7561d2926dd9e5b3094f599691f64e89f57779d9121357609d40a3039caf5e71</guid><pubDate>Tue, 14 Jul 2026 09:42:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚云铝股份、中国铝业都发了业绩预告：前者的上半年挣了75-78个亿，同比增长了170%-180%，很夸张的一个数字，相较业绩突出的光模块和存储都不遑多让；后者盘子更大，也有58%-73%的业绩增长，再加上之前神火股份的150%增长，观察的几个铝业公司堪比印钞机。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本长债集体上涨！日本财长一席话引爆需求，20年期债券拍卖火热</title><link>https://wallstreetcn.com/articles/3776887</link><guid>89d6f6c9fa0413dc1bbd05b7574c13fdc79bf06b5300007b28b045a04caebba1</guid><pubDate>Tue, 14 Jul 2026 07:28:32 GMT</pubDate><description>&lt;p&gt;日本国债市场周二迎来强劲反弹，财长片山皋月（Satsuki Katayama）的一番表态彻底点燃市场情绪，20年期国债拍卖需求创下近年罕见高位，长端收益率大幅下行。&lt;/p&gt;
-&lt;p&gt;片山皋月当日释放两大信号：&lt;strong&gt;一是提议将日本国债纳入免税储蓄账户&amp;quot;NISA&amp;quot;，有望引导个人资金流入债市；二是表示政府养老金投资基金（GPIF）将视需要调整投资组合。&lt;/strong&gt;消息迅速提振投资者情绪，20年期和30年期收益率均一度下行18个基点，分别降至3.565%和3.725%，40年期收益率亦下行14个基点至3.753%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;本次20年期国债拍卖结果尤为亮眼，投标倍数从上次的2.97大幅攀升至4.52，逼近今年4月七年最强需求时的水平。彭博市场策略师Mark Cranfield评价称，这是一次强劲的20年期拍卖，需求远超一年均值，尾差为零，最低中标价亦远超预期，&amp;quot;区区几句调整债券投资的表态，效果之显著令人叹为观止&amp;quot;。&lt;/p&gt;
-
-财长表态成最大催化剂
-
-&lt;p&gt;片山皋月的言论是本轮行情的直接导火索。她提议将日本国债纳入NISA免税账户，此举若落实，将为债市引入新的个人投资者资金来源，同时也有助于支撑日元。与此同时，她有关GPIF将按需调整组合的表态，进一步激发市场对大规模机构资金入市的想象空间。&lt;/p&gt;
-&lt;p&gt;事实上，片山皋月上周已公开呼吁包括GPIF在内的大型养老基金加大对国内资产的配置，此番言论在市场引发强烈的政策预期——外界开始猜测政府有意引导更多机构资金流向日本债券市场。不过，据路透社报道，政府目前并无全面调整GPIF资产配置的计划，相关预期此前已有所降温。&lt;/p&gt;
-
-拍卖需求创历史纪录水位
-
-&lt;p&gt;周二20年期国债拍卖的技术指标印证了市场的高涨热情。&lt;strong&gt;拍卖尾差（即平均价与最低中标价之差）收窄至0.00，与2010年创下的历史最低纪录持平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;纽约梅隆银行亚太区高级市场策略师Wee Khoon Chong表示，本次拍卖结果与近期跨期限日本国债需求回暖的趋势相吻合。&amp;quot;需求受到GPIF潜在组合调整、NISA纳入日本国债讨论，以及吸引资本流入日本资产的一揽子政策措施的共同支撑。&amp;quot;&lt;/p&gt;
-
-多重不确定性仍压制长端
-
-&lt;p&gt;尽管周二市场表现强劲，但笼罩在超长端债券上方的阴云尚未散去。首相高市早苗的支出与投资计划走向仍存变数，外界对其偏鸽派货币政策立场的担忧持续发酵，市场认为日本央行加息步伐过于迟缓，难以有效控制通胀。&lt;/p&gt;
-&lt;p&gt;与此同时，中东局势再度趋紧推动油价回升，加剧了通胀压力，对超长端债券构成潜在拖累。日元持续疲软亦是一大隐患——日元兑美元汇率目前徘徊于近四十年最弱水平附近，通过推高进口成本进一步强化通胀预期，也令市场保持对官方干预可能性的高度警惕。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 系统性阐述比亚迪的估值体系</title><link>http://xueqiu.com/5707837520/399937791</link><guid>429ec4eb5f9eb34f66a92dd9af550f91c9919b11e538f24b62e91f021d5a938b</guid><pubDate>Tue, 14 Jul 2026 09:42:41 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张老师聊感悟&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/k?q=%23%E8%B5%9B%E5%8A%9B%E6%96%AF%23"&gt;#赛力斯#&lt;/a&gt; &lt;a href="https://xueqiu.com/k?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%23"&gt;#比亚迪#&lt;/a&gt; &lt;a href="https://xueqiu.com/k?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%23"&gt;#宁德时代#&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ002594"&gt;$比亚迪(SZ002594)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/01211"&gt;$比亚迪股份(01211)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601127"&gt;$赛力斯(SH601127)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 25中报以来的关于人工智能的用词变化看业务的边际改善</title><link>http://xueqiu.com/4078960941/399957253</link><guid>acafd3a50ac2dbd9c69684ddf264c166853f31dc69b2baf23b3cae4155f66f9d</guid><pubDate>Tue, 14 Jul 2026 09:42:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;停止输入&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH603516"&gt;$淳中科技(SH603516)$&lt;/a&gt; 看看公司关于液冷老化检测设备的描述变化把。到现在已经是尚未放量（已经有了少量），不提示不确定性和迭代风险，并拓展新业务了。&lt;br&gt;极其谨慎的公司发言态度转变了，代表了业务侧落地已经风险不大了。这不就是你们要的边际改善利空落地嘛？&lt;br&gt;200亿的NV Vendor Code要啥自行车&lt;br&gt;以下是去年中报以来的关于人工智能的用词变化：&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此前媒体报道称，公司计划将上周ADR发行募集资金中的一部分汇回韩国，用于投资存储芯片制造设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想312 周期股业绩的“反身性”</title><link>http://xueqiu.com/1438190065/399967125</link><guid>7561d2926dd9e5b3094f599691f64e89f57779d9121357609d40a3039caf5e71</guid><pubDate>Tue, 14 Jul 2026 09:42:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚云铝股份、中国铝业都发了业绩预告：前者的上半年挣了75-78个亿，同比增长了170%-180%，很夸张的一个数字，相较业绩突出的光模块和存储都不遑多让；后者盘子更大，也有58%-73%的业绩增长，再加上之前神火股份的150%增长，观察的几个铝业公司堪比印钞机。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌杀入英伟达"地盘"：TPU扩张战略直指新云服务商</title><link>https://wallstreetcn.com/articles/3776888</link><guid>dfeb3b40f06e2fd88e0ec0c9fb028d429c2b4b23514395f0782e0a7f4bdbc07d</guid><pubDate>Tue, 14 Jul 2026 10:15:40 GMT</pubDate><description>&lt;p&gt;谷歌正将自研AI芯片TPU从内部基础设施推向外部市场，并首次大规模瞄准长期依赖英伟达GPU的新兴云服务商（Neocloud），试图借助更低成本、更灵活的商业模式，在AI算力市场争夺英伟达的份额。&lt;/p&gt;
+&lt;p&gt;据The Information7月13日报道，&lt;strong&gt;谷歌近期正积极向多家新云服务商推销TPU&lt;/strong&gt;，不仅强调其在成本、稳定性等方面的优势，还提出为数据中心项目提供融资支持，并承诺回租部分TPU，以降低客户建设算力基础设施的资金压力。&lt;/p&gt;
+&lt;p&gt;面对谷歌的攻势，英伟达迅速展开防御。一方面针对部分客户讨论新的财务激励措施，另一方面推出GPU回租担保计划，希望进一步稳固新云服务商生态。这场围绕AI芯片和云基础设施的竞争，正从产品性能延伸至融资、租赁和生态体系。&lt;/p&gt;
+谷歌首次向新云服务商推销TPU
+&lt;p&gt;过去，TPU几乎全部部署于谷歌内部数据中心，仅通过Google Cloud对外提供算力服务。&lt;strong&gt;如今，谷歌开始尝试直接向新云服务商出售TPU，而这一市场此前几乎完全由英伟达GPU主导。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谷歌向潜在客户强调，TPU拥有更高的运行效率、更稳定的硬件平台以及更简单的网络架构。相比之下，英伟达不同代GPU平台之间硬件架构变化较大，增加了客户部署和升级的复杂度。此前The Information曾报道称，Grace Blackwell平台在大规模部署初期一度遭遇可靠性问题。&lt;/p&gt;
+&lt;p&gt;除了产品本身，谷歌更大的筹码来自商业模式。&lt;/p&gt;
+&lt;p&gt;据报道援引知情人士，&lt;strong&gt;谷歌已与部分新云服务商讨论，为其建设TPU数据中心提供融资支持，帮助筹集购买芯片和设备所需资金。&lt;/strong&gt;同时，谷歌还提出回租这些TPU，用于自身AI模型训练、搜索、广告业务以及Google Cloud客户，从而帮助客户提前锁定需求、降低投资风险。&lt;/p&gt;
+&lt;p&gt;谷歌发言人Ted Ladd表示，谷歌与英伟达保持着长期合作关系，GPU依然是Google Cloud最受欢迎的芯片，公司希望向客户提供更多选择，不少客户本身就在不同工作负载中同时使用GPU和TPU。&lt;/p&gt;
+英伟达迅速反制，推出回租担保
+&lt;p&gt;谷歌近期接触的新云服务商之一是Nscale。这家成立仅两年的公司与英伟达关系密切，不仅获得了英伟达优先GPU供应，截至去年底英伟达还是其最大优先股股东。微软和谷歌未来一年均计划租用Nscale位于欧洲的数据中心GPU资源，公司近期还在美国西弗吉尼亚州布局大型AI数据中心。&lt;/p&gt;
+&lt;p&gt;不过，Nscale表示，目前所有已签约项目及正在洽谈的业务均围绕GPU展开，没有推进TPU交易的计划。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;在获悉谷歌与Nscale接触后，英伟达迅速与其讨论新的财务激励方案。&lt;/strong&gt;一位接近交易的人士表示，这些安排意在降低Nscale转向TPU的动力。不过，Nscale否认英伟达曾以放弃TPU合作为条件提供任何激励。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，英伟达也开始向新云服务商推出GPU回租担保计划。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据该方案，&lt;strong&gt;如果合作伙伴未来无法将Vera Rubin GPU出租给其他客户，英伟达将按约定价格进行回租&lt;/strong&gt;。但据报道援引参与谈判的人士，这一担保价格约为市场租金预期的一半；若客户最终以更高价格出租GPU，英伟达还将分享超出担保价格部分的一半收益。&lt;/p&gt;
+&lt;p&gt;尽管条件并不宽松，但业内人士认为，这类收入保障能够帮助新云服务商更容易获得银行融资，尤其是在尚未吸引大型云厂商落地的地区，仍具有一定吸引力。&lt;/p&gt;
+谷歌希望打造TPU生态
+&lt;p&gt;推动TPU外部销售，并不仅仅意味着增加芯片销量。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;谷歌内部部分管理层认为，TPU未来有望做到相当于英伟达AI服务器芯片业务约10%的规模&lt;/strong&gt;，而包括Meta在内的一些大型AI客户，也一直在关注价格更低的替代方案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更大的客户基础还能提升TPU的生产规模，改善整体制造经济性。&lt;/strong&gt;与此同时，如果由新云服务商或其融资方承担部分芯片采购成本，谷歌还能减少自身资本开支压力，而资本支出正成为投资者关注科技巨头AI投入的重要指标。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此外，谷歌还希望借此提升在台积电先进制程产能分配中的话语权。&lt;/strong&gt;当前，无论TPU还是英伟达GPU均依赖台积电代工，而英伟达近年来已成为台积电最大的先进封装和AI芯片客户之一。TPU需求扩大，也有助于谷歌争取更多制造资源。&lt;/p&gt;
+&lt;p&gt;目前，TPU已吸引包括Anthropic、Meta、苹果、Citadel Securities以及Safe Superintelligence等企业使用。谷歌近期还联合黑石成立新的新云服务商，计划自明年起向AI开发者出租TPU算力，进一步推动TPU从谷歌内部基础设施演变为面向整个AI行业的独立算力平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 系统性阐述比亚迪的估值体系</title><link>http://xueqiu.com/5707837520/399937791</link><guid>429ec4eb5f9eb34f66a92dd9af550f91c9919b11e538f24b62e91f021d5a938b</guid><pubDate>Tue, 14 Jul 2026 09:42:41 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张老师聊感悟&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/k?q=%23%E8%B5%9B%E5%8A%9B%E6%96%AF%23"&gt;#赛力斯#&lt;/a&gt; &lt;a href="https://xueqiu.com/k?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%23"&gt;#比亚迪#&lt;/a&gt; &lt;a href="https://xueqiu.com/k?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%23"&gt;#宁德时代#&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ002594"&gt;$比亚迪(SZ002594)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/01211"&gt;$比亚迪股份(01211)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601127"&gt;$赛力斯(SH601127)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 25中报以来的关于人工智能的用词变化看业务的边际改善</title><link>http://xueqiu.com/4078960941/399957253</link><guid>acafd3a50ac2dbd9c69684ddf264c166853f31dc69b2baf23b3cae4155f66f9d</guid><pubDate>Tue, 14 Jul 2026 09:42:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;停止输入&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH603516"&gt;$淳中科技(SH603516)$&lt;/a&gt; 看看公司关于液冷老化检测设备的描述变化把。到现在已经是尚未放量（已经有了少量），不提示不确定性和迭代风险，并拓展新业务了。&lt;br&gt;极其谨慎的公司发言态度转变了，代表了业务侧落地已经风险不大了。这不就是你们要的边际改善利空落地嘛？&lt;br&gt;200亿的NV Vendor Code要啥自行车&lt;br&gt;以下是去年中报以来的关于人工智能的用词变化：&lt;/p&gt;</description></item></channel></rss>
