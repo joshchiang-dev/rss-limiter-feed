@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 08:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 跟韩国券商唱反调！SemiAnalysis：预计SK海力士盈利强劲，“别人恐惧我贪婪”！</title><link>https://wallstreetcn.com/articles/3776891</link><guid>9c07f3b670729f4e1a2c4d060d1f33c4b1b834c0cf62b29134233b7dd225af6c</guid><pubDate>Tue, 14 Jul 2026 08:15:59 GMT</pubDate><description>&lt;p&gt;半导体研究机构SemiAnalysis发布看多报告，正面回击此前韩国本地券商KIS下调SK海力士盈利预测所引发的市场恐慌，坚持认为SK海力士DRAM业绩前景依然强劲，并将当前调整定性为入场机会。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 08:59:39 GMT</lastBuildDate><item><title>[华尔街见闻] 跟韩国券商唱反调！SemiAnalysis：预计SK海力士盈利强劲，“别人恐惧我贪婪”！</title><link>https://wallstreetcn.com/articles/3776891</link><guid>9c07f3b670729f4e1a2c4d060d1f33c4b1b834c0cf62b29134233b7dd225af6c</guid><pubDate>Tue, 14 Jul 2026 08:15:59 GMT</pubDate><description>&lt;p&gt;半导体研究机构SemiAnalysis发布看多报告，正面回击此前韩国本地券商KIS下调SK海力士盈利预测所引发的市场恐慌，坚持认为SK海力士DRAM业绩前景依然强劲，并将当前调整定性为入场机会。&lt;/p&gt;
 &lt;p&gt;SemiAnalysis分析师Ray Wang在题为《Be Greedy When Others Are Fearful》的报告中预测，&lt;strong&gt;SK海力士2026年第二季度DRAM综合平均售价（ASP）将环比大涨约45%，DRAM项目营业利润将达55万亿韩元。报告明确指出，尽管近期存储板块波动引发投资者担忧，SK海力士及其他头部存储企业&amp;quot;仍是半导体行业中风险收益比最具吸引力的标的之一&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -64,7 +64,50 @@ vLLM的差距是生态闭环
 &lt;/blockquote&gt;
 &lt;p&gt;三者叠加产生的迁移成本，远超任何单一硬件参数的差距。这一判断与SemiAnalysis两周前的分析形成呼应。&lt;/p&gt;
 &lt;p&gt;彼时，该机构指出Anthropic已形成由谷歌TPU、亚马逊Trainium和英伟达GPU共同构成的多平台算力架构，大量Claude模型训练运行于TPU，Claude Code推理则越来越多部署于Trainium，英伟达GPU的份额正遭自研ASIC缓慢侵蚀。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而此次对vLLM性能的正面评价表明，英伟达在推理软件栈深度优化上的领先幅度，并未随硬件竞争格局的演变而同步收窄。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季</title><link>https://wallstreetcn.com/articles/3776884</link><guid>0ee2f09c1ff54e9eb78b1870f470a9fde51fc9b2e4ea578cdae455ef58b765a7</guid><pubDate>Tue, 14 Jul 2026 07:41:51 GMT</pubDate><description>&lt;p&gt;美联储加息预期骤然升温、银行财报季正式开幕、新任主席首次国会亮相——三重变量在同一时间窗口叠加，令本周二成为近期市场最具决定性意义的单日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而此次对vLLM性能的正面评价表明，英伟达在推理软件栈深度优化上的领先幅度，并未随硬件竞争格局的演变而同步收窄。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北方稀土上半年净利预增逾112%，稀土量价齐升，三大产品产量创同期新高｜财报见闻</title><link>https://wallstreetcn.com/articles/3776896</link><guid>fe98ff124fe5d62118d6b628282f293acc47152abff2963097e37dc93138dc52</guid><pubDate>Tue, 14 Jul 2026 08:30:15 GMT</pubDate><description>&lt;p&gt;在稀土价格维持高位运行、主要产品产销量提升以及经营效率持续改善的带动下，&lt;strong&gt;北方稀土预计2026年上半年归母净利润同比增长112.74%-121.33%，扣非净利润同比增长121.90%-130.82%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7月14日，北方稀土发布2026年半年度业绩预增公告，预计上半年实现归属于母公司所有者的净利润198亿元至206亿元，上年同期为93亿元；预计扣除非经常性损益后的净利润199亿元至207亿元，上年同期为89.66亿元。&lt;/p&gt;
+&lt;p&gt;公司表示，&lt;strong&gt;本期业绩增长主要受益于稀土产品价格整体走强、主要产品产量创历史同期新高，&lt;/strong&gt;以及持续推进降本增效、精益管理和数智化转型等因素共同推动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+稀土价格走强，量价齐升带动盈利大幅增长
+&lt;p&gt;北方稀土表示，2026年上半年，受原料供给约束以及新能源汽车、工业电机、风电等下游需求持续增长影响，稀土产品价格整体呈现&amp;quot;走强震荡&amp;quot;态势。&lt;/p&gt;
+&lt;p&gt;在价格上涨的同时，公司稀土冶炼分离产品、稀土金属产品以及稀土新材料产品产量均创历史同期新高，形成量价齐升格局，对业绩增长形成直接支撑。&lt;/p&gt;
+&lt;p&gt;作为覆盖稀土冶炼分离、金属及新材料的一体化龙头，&lt;strong&gt;公司在稀土价格上行周期中具备较强的盈利弹性，产品价格提升叠加产能利用率提高，进一步放大了规模效应。&lt;/strong&gt;&lt;/p&gt;
+产能持续释放，产业链项目加快落地
+&lt;p&gt;公告显示，上半年公司持续推进重点项目建设。其中，稀土绿色冶炼升级改造项目一期已实现投产并全线贯通，二期建设稳步推进；&lt;strong&gt;稀土金属、磁材合金、磁体以及二次资源利用等产业链扩产、并购重组及合资合作项目也在持续推进，为后续产能释放提供支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;生产端，公司通过优化排产、加强工艺管理和数智化改造，提升了生产效率并缓解原辅材料价格上涨带来的成本压力。&lt;strong&gt;稀土金属板块质量控制和材料利用率进一步改善，新材料板块则充分释放新增产能，实现以产促销。&lt;/strong&gt;&lt;/p&gt;
+磁材业务保持高增长，氢能等新业务持续推进
+&lt;p&gt;子公司内蒙古北方稀土磁性材料有限责任公司延续高增长态势，上半年实现营业收入约95亿元，同比增长约107%，连续第三年保持增长。&lt;strong&gt;永磁材料需求受新能源汽车、工业自动化等领域带动持续提升，成为公司增长的重要引擎。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，公司在氢能领域的布局也取得进展。旗下内蒙古稀奥科贮氢合金有限公司首批1000辆氢能两轮车已在包头投入运营，累计安全行驶里程达到17万公里，相关示范应用正在推进。&lt;/p&gt;
+&lt;p&gt;销售方面，公司进一步扩大与磁材头部企业合作，镧铈类产品及抛光材料销量同比增长，库存持续优化，同时新开发多项装备和定制化产品，不断拓展下游应用场景。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 接近50%！市场预计美联储本月加息概率走高</title><link>https://wallstreetcn.com/articles/3776848</link><guid>44c3ac35c731670fd0ec0dff8f4cc7bfd550990c2cdcef2f67cb9b2b62fe531f</guid><pubDate>Tue, 14 Jul 2026 00:00:07 GMT</pubDate><description>&lt;p&gt;油价飙升与美联储官员鹰派表态的双重冲击，正将市场对美联储7月加息的预期推向临界点。&lt;/p&gt;
+&lt;p&gt;周一，货币市场定价显示，美联储本月加息25个基点的概率已升至接近50%，此前一度不足40%。推动这一转变的，是美联储理事沃勒（Christopher Waller）发出的迄今&lt;strong&gt;最明确鹰派信号&lt;/strong&gt;——他表示，&lt;strong&gt;若本周通胀数据再度偏热，FOMC将需要考虑在近期收紧货币政策。&lt;/strong&gt;与此同时，地缘政治紧张局势升温，布伦特原油单日最高涨幅接近10%，&lt;strong&gt;进一步强化了市场对通胀压力持续的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美债收益率随即全线走高。&lt;/strong&gt;对美联储政策预期最为敏感的两年期美债收益率单日上涨约7个基点，触及4.28%，为2025年2月以来最高水平；10年期收益率升至4.62%，创5月以来新高。&lt;/p&gt;
+&lt;p&gt;本周的焦点将集中在周二公布的美国6月CPI数据，以及美联储主席沃什（Kevin Warsh）的国会证词。市场普遍认为，&lt;strong&gt;这两项事件将对7月29日FOMC会议的政策走向产生决定性影响。&lt;/strong&gt;&lt;/p&gt;
+沃勒划定加息触发条件
+&lt;p&gt;沃勒周一的表态被市场视为迄今最明确的加息预警信号。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776831"&gt;华尔街见闻文章&lt;/a&gt;写道，&amp;quot;新美联储通讯社&amp;quot;Nick Timiraos撰文称，沃勒明确表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;如果我们本周再度看到一份偏热的核心通胀数据，那么联邦公开市场委员会将需要考虑在近期收紧货币政策。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;沃勒指出，美联储最青睐的通胀指标——剔除食品和能源的核心个人消费支出（PCE）指数——截至5月同比涨幅已达3.4%，且自1月起便持续走高，早于美伊冲突爆发之前便已开始上升。&lt;/p&gt;
+&lt;p&gt;他表示，推动通胀升温的因素涵盖关税、能源价格以及人工智能基础设施的大规模建设。&amp;quot;无论以何种方式衡量，今年通胀均在上行，&amp;quot;他说，&amp;quot;我目前对核心通胀偏高的走势感到担忧。&amp;quot;&lt;/p&gt;
+&lt;p&gt;沃勒的表态与上月FOMC会议纪要方向一致——纪要显示，18位官员中已有半数预计今年某个时间点至少加息25个基点，加息选项正从边缘议题向政策讨论中心移动。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;地缘政治局势的骤然升温为通胀预期火上浇油。&lt;/strong&gt;美伊之间爆发新一轮军事交锋后，布伦特原油单日最高涨幅达9.9%，双方就霍尔木兹海峡是否仍保持畅通发出相互矛盾的声明。特朗普表示，美国正在&amp;quot;恢复&amp;quot;对伊朗船只的封锁，进一步加剧市场对全球能源供应中断的担忧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能源价格的急剧反弹，直接强化了市场对通胀压力难以消退的判断，并与沃勒的鹰派表态形成共振，推动短端利率定价快速重新定价。&lt;/strong&gt;&lt;/p&gt;
+CPI与沃什证词成本周关键变量
+&lt;p&gt;&lt;strong&gt;本周的政策信号将在两个节点集中释放。&lt;/strong&gt;市场预计6月CPI同比涨幅将从5月的4.2%放缓至3.8%，但仍远高于美联储2%的政策目标；核心CPI预计同样小幅回落，但依然处于高位。&lt;/p&gt;
+&lt;p&gt;TD Securities美国利率策略师Molly Brooks表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;市场将近期加息预期上调，正是对Waller表态的直接反应。这使得明天的CPI数据更加关键，也因此更具波动性——若数据偏热，将面临进一步熊市平坦化的风险。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，美联储主席沃什本周将首次以主席身份出席国会听证。&lt;/strong&gt;沃什此前曾承诺缩减对利率前景的前瞻性指引，其证词内容将被市场密切解读。BMO Capital Markets美国利率策略主管Ian Lyngen表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;投资者持续关注7月29日的FOMC会议，将其视为Warsh首次加息的潜在时间窗口。周二CPI数据与Warsh证词的组合，必将在某个方向上显著改变加息概率。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;尽管加息概率已接近50%，多数投资者的基准预期仍是今年不加息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776831"&gt;华尔街见闻文章&lt;/a&gt;还写道，沃勒同时表示，若能看到一份更低的核心通胀读数，他将支持继续按兵不动，但他也划定了条件：&amp;quot;在今年上半年通胀持续升温之后，我需要看到连续数月的降温数据，才能确认通胀正朝正确方向运行。&amp;quot;&lt;/p&gt;
+&lt;p&gt;此外，沃勒还明确援引疫情通胀时期的政策失误作为前车之鉴，警告称FOMC当年因迟迟未能加息而遭到广泛批评，此类错误不能重演。&amp;quot;FOMC必须做好准备，通过收紧货币政策来防止2021至2022年通胀局面的重现，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;宏观策略师Alyce Andres则指出，沃勒周一的发言实际上明确了美联储的反应函数，在传递鹰派信号的同时，也降低了市场对美联储政策路径的不确定性溢价。&lt;/p&gt;
+&lt;p&gt;分析指出，这意味着，本周的数据与证词，将在很大程度上决定市场是否需要进一步重新定价加息预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季</title><link>https://wallstreetcn.com/articles/3776884</link><guid>0ee2f09c1ff54e9eb78b1870f470a9fde51fc9b2e4ea578cdae455ef58b765a7</guid><pubDate>Tue, 14 Jul 2026 07:41:51 GMT</pubDate><description>&lt;p&gt;美联储加息预期骤然升温、银行财报季正式开幕、新任主席首次国会亮相——三重变量在同一时间窗口叠加，令本周二成为近期市场最具决定性意义的单日。&lt;/p&gt;
 &lt;p&gt;本周二，美国6月CPI数据将率先于华盛顿时间早间8时30分发布，随后美联储主席Kevin沃什将以新任主席身份首次出席国会众议院金融服务委员会听证。当日另有摩根大通、美国银行、富国银行、高盛及花旗集团五大行集中披露二季度业绩，开启本轮财报季。BMO Capital Markets美国利率策略主管Ian Lyngen表示，&amp;quot;CPI数据与沃什证词的组合，必将在某个方向上显著改变加息概率。&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美联储理事Christopher Waller周一明确划定加息触发条件，称若本周核心通胀数据&amp;quot;再度偏热&amp;quot;，FOMC将需要考虑在近期收紧货币政策。&lt;/strong&gt;这一表态迅速重塑市场定价：货币市场隐含的7月加息概率从不足10%急升至约50%，两年期美债收益率触及4.28%，为逾一年来最高水平。与此同时，美伊地缘紧张局势再度升级，布伦特原油单日最高涨幅接近10%，通胀预期受到双重冲击。&lt;/p&gt;
 &lt;p&gt;在盈利层面，高盛预计二季度标普500盈利同比增速将达22%，AI基础设施相关股票预计贡献全指约50%的盈利增长。然而高盛同时警告，&lt;strong&gt;若美联储启动加息周期，增长预期受压、资本成本上升以及高估值市场的历史脆弱性，将对美股构成三重阻力。&lt;/strong&gt;&lt;/p&gt;
@@ -105,36 +148,7 @@ Waller划定加息触发线，政策天平明显倾斜
 &lt;p&gt;&lt;strong&gt;第二，本轮经济周期的资本密集度显著上升。&lt;/strong&gt;AI基础设施相关股票目前占标普500总市值的42%，预计贡献2026年全指盈利增长的约50%。高盛数据显示，超大规模云计算企业今年资本支出预计相当于经营性现金流的100%，其净债务在2026年一季度已达2390亿美元，同比激增约190%。与此同时，二季度美国股权融资总量达2520亿美元，创下历史纪录，超越2021年一季度的前高。资本成本的任何上升都将对这一周期最重要的增长引擎产生直接冲击。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第三，历史数据表明，美联储加息是高估值、高集中度牛市见顶的重要前兆。&lt;/strong&gt;1929年、1972年、1987年及1999年的加息周期均先于牛市峰值出现，2022年市场则随利率预期提前见顶。高盛利率策略师测算，若利率波动率升至2022至2023年加息周期时的水平，将对应标普500市盈率收缩约6%，即约1倍估值。&lt;/p&gt;
 &lt;p&gt;高盛当前给出的标普500年终目标为8600点，12个月目标为8300点，较当前7544点分别具备约14%和10%的潜在上行空间。但策略师同时强调，上述目标的实现前提是宏观政策环境不出现实质性收紧——而这一前提，将在本周两天内接受最直接的检验。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 接近50%！市场预计美联储本月加息概率走高</title><link>https://wallstreetcn.com/articles/3776848</link><guid>44c3ac35c731670fd0ec0dff8f4cc7bfd550990c2cdcef2f67cb9b2b62fe531f</guid><pubDate>Tue, 14 Jul 2026 00:00:07 GMT</pubDate><description>&lt;p&gt;油价飙升与美联储官员鹰派表态的双重冲击，正将市场对美联储7月加息的预期推向临界点。&lt;/p&gt;
-&lt;p&gt;周一，货币市场定价显示，美联储本月加息25个基点的概率已升至接近50%，此前一度不足40%。推动这一转变的，是美联储理事沃勒（Christopher Waller）发出的迄今&lt;strong&gt;最明确鹰派信号&lt;/strong&gt;——他表示，&lt;strong&gt;若本周通胀数据再度偏热，FOMC将需要考虑在近期收紧货币政策。&lt;/strong&gt;与此同时，地缘政治紧张局势升温，布伦特原油单日最高涨幅接近10%，&lt;strong&gt;进一步强化了市场对通胀压力持续的担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美债收益率随即全线走高。&lt;/strong&gt;对美联储政策预期最为敏感的两年期美债收益率单日上涨约7个基点，触及4.28%，为2025年2月以来最高水平；10年期收益率升至4.62%，创5月以来新高。&lt;/p&gt;
-&lt;p&gt;本周的焦点将集中在周二公布的美国6月CPI数据，以及美联储主席沃什（Kevin Warsh）的国会证词。市场普遍认为，&lt;strong&gt;这两项事件将对7月29日FOMC会议的政策走向产生决定性影响。&lt;/strong&gt;&lt;/p&gt;
-沃勒划定加息触发条件
-&lt;p&gt;沃勒周一的表态被市场视为迄今最明确的加息预警信号。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776831"&gt;华尔街见闻文章&lt;/a&gt;写道，&amp;quot;新美联储通讯社&amp;quot;Nick Timiraos撰文称，沃勒明确表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;如果我们本周再度看到一份偏热的核心通胀数据，那么联邦公开市场委员会将需要考虑在近期收紧货币政策。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;沃勒指出，美联储最青睐的通胀指标——剔除食品和能源的核心个人消费支出（PCE）指数——截至5月同比涨幅已达3.4%，且自1月起便持续走高，早于美伊冲突爆发之前便已开始上升。&lt;/p&gt;
-&lt;p&gt;他表示，推动通胀升温的因素涵盖关税、能源价格以及人工智能基础设施的大规模建设。&amp;quot;无论以何种方式衡量，今年通胀均在上行，&amp;quot;他说，&amp;quot;我目前对核心通胀偏高的走势感到担忧。&amp;quot;&lt;/p&gt;
-&lt;p&gt;沃勒的表态与上月FOMC会议纪要方向一致——纪要显示，18位官员中已有半数预计今年某个时间点至少加息25个基点，加息选项正从边缘议题向政策讨论中心移动。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;地缘政治局势的骤然升温为通胀预期火上浇油。&lt;/strong&gt;美伊之间爆发新一轮军事交锋后，布伦特原油单日最高涨幅达9.9%，双方就霍尔木兹海峡是否仍保持畅通发出相互矛盾的声明。特朗普表示，美国正在&amp;quot;恢复&amp;quot;对伊朗船只的封锁，进一步加剧市场对全球能源供应中断的担忧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;能源价格的急剧反弹，直接强化了市场对通胀压力难以消退的判断，并与沃勒的鹰派表态形成共振，推动短端利率定价快速重新定价。&lt;/strong&gt;&lt;/p&gt;
-CPI与沃什证词成本周关键变量
-&lt;p&gt;&lt;strong&gt;本周的政策信号将在两个节点集中释放。&lt;/strong&gt;市场预计6月CPI同比涨幅将从5月的4.2%放缓至3.8%，但仍远高于美联储2%的政策目标；核心CPI预计同样小幅回落，但依然处于高位。&lt;/p&gt;
-&lt;p&gt;TD Securities美国利率策略师Molly Brooks表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;市场将近期加息预期上调，正是对Waller表态的直接反应。这使得明天的CPI数据更加关键，也因此更具波动性——若数据偏热，将面临进一步熊市平坦化的风险。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，美联储主席沃什本周将首次以主席身份出席国会听证。&lt;/strong&gt;沃什此前曾承诺缩减对利率前景的前瞻性指引，其证词内容将被市场密切解读。BMO Capital Markets美国利率策略主管Ian Lyngen表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;投资者持续关注7月29日的FOMC会议，将其视为Warsh首次加息的潜在时间窗口。周二CPI数据与Warsh证词的组合，必将在某个方向上显著改变加息概率。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;尽管加息概率已接近50%，多数投资者的基准预期仍是今年不加息。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776831"&gt;华尔街见闻文章&lt;/a&gt;还写道，沃勒同时表示，若能看到一份更低的核心通胀读数，他将支持继续按兵不动，但他也划定了条件：&amp;quot;在今年上半年通胀持续升温之后，我需要看到连续数月的降温数据，才能确认通胀正朝正确方向运行。&amp;quot;&lt;/p&gt;
-&lt;p&gt;此外，沃勒还明确援引疫情通胀时期的政策失误作为前车之鉴，警告称FOMC当年因迟迟未能加息而遭到广泛批评，此类错误不能重演。&amp;quot;FOMC必须做好准备，通过收紧货币政策来防止2021至2022年通胀局面的重现，&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;宏观策略师Alyce Andres则指出，沃勒周一的发言实际上明确了美联储的反应函数，在传递鹰派信号的同时，也降低了市场对美联储政策路径的不确定性溢价。&lt;/p&gt;
-&lt;p&gt;分析指出，这意味着，本周的数据与证词，将在很大程度上决定市场是否需要进一步重新定价加息预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻</title><link>https://wallstreetcn.com/articles/3776895</link><guid>ccbb92606dc20c870349afa4de24f91518b0df3b088e8f20dd3a46a78d23a94a</guid><pubDate>Tue, 14 Jul 2026 08:18:09 GMT</pubDate><description>&lt;p&gt;长飞光纤光缆股份有限公司发布业绩预增公告，受益于全球算力数据中心建设热潮带动的光纤光缆需求激增，公司盈利能力大幅跃升。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻</title><link>https://wallstreetcn.com/articles/3776895</link><guid>ccbb92606dc20c870349afa4de24f91518b0df3b088e8f20dd3a46a78d23a94a</guid><pubDate>Tue, 14 Jul 2026 08:18:09 GMT</pubDate><description>&lt;p&gt;长飞光纤光缆股份有限公司发布业绩预增公告，受益于全球算力数据中心建设热潮带动的光纤光缆需求激增，公司盈利能力大幅跃升。&lt;/p&gt;
 &lt;p&gt;公司公告显示，&lt;strong&gt;预计2026年上半年归属于上市公司股东的净利润约为24亿元至30亿元，同比增长711%至914%。&lt;/strong&gt;上年同期，这一数字为2.96亿元。公司同时预计，扣除非经常性损益后的净利润约为20亿元至26亿元，&lt;strong&gt;同比增幅更高达1349%至1784%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;公告将业绩大幅增长归因于算力数据中心加速建设所催生的国内外新型光纤光缆产品需求持续扩张，以及行业供需结构的持续改善。这一业绩表现印证了光纤光缆行业景气度的快速回升，也凸显了算力基础设施建设对相关产业链企业的强劲带动效应。&lt;/p&gt;
 
@@ -538,20 +552,4 @@ SK海力士拟将部分ADR募资转投韩国国债
 &lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上证指数低开0.12%，创业板指涨0.16%。黄金、PEEK材料、商业航天、CRO概念股走弱；油气、零售、地产板块走强，服务器、光刻机题材活跃。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生指数低开0.13%，恒生科技指数跌0.25%。中国石油股份涨逾3%，中国海洋石油涨逾2%，蔚来涨近3%；百度集团跌逾3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片出口强劲，韩国政府大幅上调经济预测</title><link>https://wallstreetcn.com/articles/3776876</link><guid>4c6453471a9227e243158a00c238840fb2792937d90d3b52621aefa26d913254</guid><pubDate>Tue, 14 Jul 2026 06:30:34 GMT</pubDate><description>&lt;p&gt;人工智能驱动的半导体出口热潮正在重塑韩国经济前景。&lt;strong&gt;韩国政府周二大幅上调2026年经济增长预测，将GDP增速预期从年初的2.0%提升至3.0%，&lt;/strong&gt;超出国际货币基金组织（IMF）上周发布的2.6%预测，标志着这一出口导向型经济体正经历近年来最强劲的复苏周期。&lt;/p&gt;
-&lt;p&gt;周二，韩国政府在下半年经济政策战略文件中指出，以三星电子和SK海力士为代表的芯片巨头出货量持续强劲，AI芯片需求足以抵消中东冲突带来的拖累，叠加补充预算对能源成本上涨的缓冲效应，经济扩张势头有望进一步加速。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，政府将今年经常账户顺差预测大幅上调至2900亿美元，较此前预测的1350亿美元几乎翻倍，有望创历史新高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述乐观预测对市场的直接影响集中于货币政策走向。韩国央行本周晚些时候将召开利率会议，多数分析师预计央行将于周四上调基准利率，开启渐进式政策收紧周期——通胀持续高于2%目标、韩元持续疲软以及首尔房价上涨均构成加息支撑。&lt;/p&gt;
-增长预测大幅跳升，半导体是核心驱动
-&lt;p&gt;韩国企划财政部在半年度经济展望报告中将2026年GDP增速预测从1月份的2.0%上调至3.0%，这一修正幅度在主要经济体中较为罕见。作为对比，韩国2025年全年GDP增速仅为1.1%，此次预测意味着经济增速将近乎翻三倍。&lt;/p&gt;
-&lt;p&gt;韩国在全球AI供应链中的关键地位是此轮出口主导型复苏的根本动力。政府预计，半导体持续旺盛的需求将推动出口大幅增长，出口将继续作为今年经济增长的主要引擎。&lt;strong&gt;韩国政府还预计，名义经济增速将达到三十年来最快水平，人均国民总收入有望接近4万美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在财政层面，政府债务占GDP比率预计将从此前预测的50.6%降至47%，财政状况改善幅度超出预期。&lt;/p&gt;
-经常账户顺差有望创历史纪录
-&lt;p&gt;芯片价格飙升显著改善了韩国的贸易条件，推动经常账户顺差预测大幅上修。政府预计2026年全年经常账户顺差将达2900亿美元，远超此前1350亿美元的预测。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2026年前五个月，韩国经常账户顺差已达1413亿美元，不仅超过2025年全年1231亿美元的历史最高纪录，也意味着全年顺差目标完成进度已超过一半。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;政府表示，将继续推进稳定韩元的相关举措，同时推进改善韩元可及性的改革，具体措施包括扩大韩元离岸使用范围、延长对银行外汇融资的支持，以及增发主权外币债券。&lt;/p&gt;
-通胀压力持续，加息预期升温
-&lt;p&gt;尽管增长前景明显改善，通胀仍是韩国经济面临的主要风险之一。政府将2026年居民消费价格涨幅预测从此前的2.1%上调至2.6%，高于韩国央行2%的政策目标。韩元持续疲软是通胀居高不下的重要原因之一，即便油价有所回落，汇率压力仍使进口成本维持高位。此外，首尔房价持续上涨和居民债务反弹也进一步强化了收紧货币政策的必要性。&lt;/p&gt;
-&lt;p&gt;政府警告称，中东和平进程的脆弱性以及天气因素导致能源和农产品价格存在较大不确定性，通胀在下半年虽有望随油价回落而趋缓，但风险仍不容忽视。展望2027年，政府预计GDP增速和通胀率均将回落至2.2%。&lt;/p&gt;
-&lt;p&gt;在产业政策层面，韩国政府表示将加大力度推动芯片产能扩张、扩建AI数据中心，并培育实体AI产业，以维持韩国在全球科技竞争中的领先地位。&lt;/p&gt;
-&lt;p&gt;不过，分析师提醒，此轮经济复苏在结构上仍不均衡，出口与内需之间的分化值得关注。政府亦承认，当前增长主要依赖出口拉动，国内消费的修复进程相对滞后。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;恒生指数低开0.13%，恒生科技指数跌0.25%。中国石油股份涨逾3%，中国海洋石油涨逾2%，蔚来涨近3%；百度集团跌逾3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
