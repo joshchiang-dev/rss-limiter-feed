@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 05:29:45 GMT</lastBuildDate><item><title>[华尔街见闻] 两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件</title><link>https://wallstreetcn.com/articles/3776842</link><guid>e2929dfd9753aa2f65851073ba258d57e216c51ae4fae148b6e47452454311ac</guid><pubDate>Mon, 13 Jul 2026 23:52:11 GMT</pubDate><description>&lt;p&gt;7月13日，半导体研究机构SemiAnalysis在社交平台发布推文，高度评价英伟达在vLLM推理引擎上的性能优化成果，同时明确指出AMD在部分模型的vLLM支持上仍有较大追赶空间。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 14 Jul 2026 05:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件</title><link>https://wallstreetcn.com/articles/3776842</link><guid>e2929dfd9753aa2f65851073ba258d57e216c51ae4fae148b6e47452454311ac</guid><pubDate>Mon, 13 Jul 2026 23:52:11 GMT</pubDate><description>&lt;p&gt;7月13日，半导体研究机构SemiAnalysis在社交平台发布推文，高度评价英伟达在vLLM推理引擎上的性能优化成果，同时明确指出AMD在部分模型的vLLM支持上仍有较大追赶空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775841"&gt;华尔街见闻提及&lt;/a&gt;，该机构两周前指出，英伟达&amp;quot;CUDA护城河正遭缓慢侵蚀&amp;quot;，公司最大的竞争压力是越来越多超大规模云厂商和AI模型公司开始采用自研ASIC，针对训练或推理等特定场景构建专用芯片体系。&lt;/p&gt;
 &lt;p&gt;两则判断将AI芯片竞争的焦点从&amp;quot;谁的硬件更强&amp;quot;拉回到一个更根本的问题：&lt;strong&gt;在推理时代的规模化部署中，软件生态的深度可能比单代GPU的硬件领先更具决定性。&lt;/strong&gt;&lt;/p&gt;
@@ -344,84 +344,7 @@ SK海力士拟将部分ADR募资转投韩国国债
 
 &lt;p&gt;据韩国财经媒体Yonhap Infomax援引SK海力士一位高级管理人士报道，公司正在研究购买韩国国债的可能性。&lt;/p&gt;
 &lt;p&gt;不过，截至目前，SK海力士尚未正式宣布相关投资计划，国际主流媒体也未对此进行独立确认。&lt;/p&gt;
-&lt;p&gt;此前媒体报道称，公司计划将上周ADR发行募集资金中的一部分汇回韩国，用于投资存储芯片制造设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街不担心资本开支！大摩：明年五大云厂资本开支1.2万亿美元，2028年1.4万亿美元，算力翻四倍</title><link>https://wallstreetcn.com/articles/3776864</link><guid>5ece1a7ba5824caf3475964a5ee73bf1468b7ee33dc5e480c68f83e9abf3ca46</guid><pubDate>Tue, 14 Jul 2026 04:41:12 GMT</pubDate><description>&lt;p&gt;资本开支数字越来越大，但大摩认为，这还不是问题。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根士丹利分析师Brian Nowak团队7月12日发布最新研报，将五大超大规模云厂商（Meta、亚马逊、微软、谷歌、SpaceX）的2027/2028年资本开支预测整体上调9%/10%，分别达到约1.2万亿和1.4万亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么资本开支还在涨？成本通胀+算力紧缺双重驱动
-&lt;p&gt;分析师Brian Nowak此次上调的直接触发因素是成本上涨。&lt;/p&gt;
-&lt;p&gt;GPU相关成本上涨约20%，主要来自两个方向：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机架内成本上升&lt;/strong&gt;：内存价格大幅提升，在Blackwell（GB300、GB200）机架中，内存占比从低个位数百分比升至高个位数百分比；在Vera Rubin机架中，内存占比更从高个位数升至约25%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机架外成本上升&lt;/strong&gt;：电气/机械设备交货期延长、建筑材料紧缺、熟练劳工短缺，以及向&amp;quot;表后电力&amp;quot;（behind the meter power）解决方案转移，共同推高了数据中心建设成本。大摩目前对GB200、TPU和Trainium的机架外成本估算约为每兆瓦1100万至1300万美元，而下一代GB300、Vera Rubin和Rubin Ultra则进一步升至约每兆瓦1600万至1900万美元。&lt;/p&gt;
-&lt;p&gt;具体到每GW数据中心建设成本：GB200约350亿美元，GB300约390亿美元，Vera Rubin约490亿美元；定制ASIC方面，TPUv7约270亿美元，Trainium3约200亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;除成本因素外，Nowak还指出，&lt;strong&gt;从破土动工到数据中心开业的周期已拉长至最长3年。与此同时，社会对数据中心建设的反对声音增加，以及2028年总统大选前的政治不确定性，正促使云厂商提前开工建设，以强调创造就业。&lt;/strong&gt;这进一步加剧了通胀压力，也加速了资本开支的前置。&lt;/p&gt;
-算力将翻四倍：从30GW到120GW
-&lt;p&gt;资本开支的终点是算力。&lt;/p&gt;
-&lt;p&gt;Nowak预测，五大超大规模云厂商的可用算力将从2025年约30GW增长至2028年约116.6GW，接近4倍增幅。&lt;/p&gt;
-&lt;p&gt;分公司来看：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;AWS&lt;/strong&gt;：&lt;strong&gt;2028年达35GW，算力规模最大&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;谷歌&lt;/strong&gt;：2028年达31.6GW，新增算力最多（2027/2028年分别新增9GW/11GW）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;微软&lt;/strong&gt;：2028年达20.3GW&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Meta&lt;/strong&gt;：2028年达21.2GW，从2025年底约3.5GW大幅跃升；其中2026/2027年新增算力中，55%/90%来自自建，45%/10%来自第三方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-Meta：5个“看涨期权”尚未被市场定价
-&lt;p&gt;大摩Nowak维持Meta为首选股，目标价775美元，对应约15%上行空间，评级超配（Overweight）。&lt;/p&gt;
-&lt;p&gt;Nowak认为，市场目前只是在&amp;quot;惩罚&amp;quot;Meta的高资本开支，却没有给予其潜在收入的应有估值。报告列出5个尚未被市场定价的盈利驱动因素，若全部兑现，可在基准每股盈利约33美元的基础上额外贡献约10美元，意味着Meta当前股价对应的2028年市盈率实际上只有约15倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这5个&amp;quot;看涨期权&amp;quot;包括：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Neocloud变现&lt;/strong&gt;：约2.97美元每股盈利上行空间&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Meta AI&lt;/strong&gt;：约2.89美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;搜索&lt;/strong&gt;：约1.91美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;API收入&lt;/strong&gt;：约1.90美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;订阅机会&lt;/strong&gt;：约0.94美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;API收入：一个值得重点关注的新业务&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta近期推出的Muse Spark 1.1模型API定价，比竞争对手低30%至85%。大摩测算，每100兆瓦算力用于API业务，可产生约85.88亿美元收入，对应约1.91美元每股盈利，约占2028年每股盈利的6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;基准情景下，大摩假设Meta 1500万广告主中的25%（约400万）每月为其产品支付约200美元，同样可产生约80亿美元收入和约2美元每股盈利。&lt;/p&gt;
-&lt;p&gt;大摩指出，Meta只需分配约100兆瓦的GB300算力即可支撑这一API业务，而其2028年底预计拥有约21GW的算力基础，扩展空间充裕。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;估值调整&lt;/strong&gt;：大摩将Meta 2027/2028年资本开支上调29%/22%，分别达2250亿/2500亿美元，同时纳入400亿美元新增债务发行。更高的折旧拖累2027/2028年每股盈利分别下调3%/7%至约32.99美元/33.41美元。但大摩同步小幅上调2028年收入预测（+1%），并将估值滚动至年中，以23倍市盈率对应2027/2028年平均每股盈利，维持775美元目标价。&lt;/p&gt;
-亚马逊：AWS增速被低估
-&lt;p&gt;Nowak将亚马逊2027/2028年资本开支上调15%/29%，分别达3080亿/3180亿美元。&lt;/p&gt;
-&lt;p&gt;但与Meta不同，亚马逊的每股盈利预测反而上调了。原因是AWS收入预测同步大幅上调：2027/2028年AWS收入分别上调3%/7%，对应同比增速40%/36%，绝对值达2435亿/3316亿美元。更高的折旧被更强的AWS收入所抵消，2027/2028年每股盈利分别上调2%/3%至约11.53美元/15.05美元。&lt;/p&gt;
-&lt;p&gt;Nowak认为，当前市场对AWS的收入预测过于保守。报告指出，即便是大摩自己35%/40%的2026/2027年AWS增速预测，隐含的每增量瓦特收入仅为7美元/9美元，&amp;quot;可以说是保守的&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此外，Nowak预计AWS积压订单将在二季度环比大增1100亿美元，达到约4750亿美元，主要来自私人实验室的大单，这将增强市场对多年期增长持续性的信心。&lt;/p&gt;
-&lt;p&gt;目标价330美元基于2027/2028年平均每股盈利约13美元乘以约25倍市盈率，对应约1.4倍PEG，较同类公司有约30%折价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-谷歌：全栈AI领先，但短期面临算力约束风险
-&lt;p&gt;Nowak给予谷歌目标价415美元，约16%上行空间，评级超配。&lt;/p&gt;
-&lt;p&gt;Nowak预计谷歌云2026年二季度/全年增速分别达77%/78%，搜索业务2026年二季度/全年增速分别为17.5%/16%，2027/2028年增速为11%/8%。&lt;/p&gt;
-&lt;p&gt;但Nowak特别提示一个战术性风险：谷歌目前处于算力受限状态（其最新与SpaceX的算力租赁协议即为佐证）。算力约束可能拖累近期收入增长或产品发布节奏，这一风险在Meta和亚马逊身上相对较小。&lt;/p&gt;
-&lt;p&gt;此外，Gemini 3.5的发布已晚于谷歌在I/O大会上设定的时间表，大摩表示将关注下半年Gemini模型的进一步产品化进展。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩股深V反弹，一度跌超5%后转涨，中东局势持续升温、原油上涨，黄金小幅上扬</title><link>https://wallstreetcn.com/articles/3776859</link><guid>394f7b1e1a1213df9b71e5ea247985f86c0002daeeeab705f2a7a4fefb7e12c7</guid><pubDate>Tue, 14 Jul 2026 05:24:52 GMT</pubDate><description>&lt;p&gt;布伦特原油两日连涨，美联储加息概率升至50%，市场在通胀数据公布前夕普遍承压。&lt;/p&gt;
+&lt;p&gt;此前媒体报道称，公司计划将上周ADR发行募集资金中的一部分汇回韩国，用于投资存储芯片制造设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩股深V反弹，一度跌超5%后转涨，中东局势持续升温、原油上涨，黄金小幅上扬</title><link>https://wallstreetcn.com/articles/3776859</link><guid>394f7b1e1a1213df9b71e5ea247985f86c0002daeeeab705f2a7a4fefb7e12c7</guid><pubDate>Tue, 14 Jul 2026 05:24:52 GMT</pubDate><description>&lt;p&gt;布伦特原油两日连涨，美联储加息概率升至50%，市场在通胀数据公布前夕普遍承压。&lt;/p&gt;
 &lt;p&gt;美国重启对伊朗船只的霍尔木兹海峡封锁，推动布伦特原油盘中涨幅达2.8%，触及每桶85.64美元。与此同时，美联储理事Christopher Waller表示，若通胀压力持续，当局可能需要在近期上调利率，货币市场随即将7月加息概率定价至约50%。&lt;/p&gt;
 &lt;p&gt;韩国KOSPI指数一度下跌逾5%后转涨，日内再度涨超1%，SK海力士涨2.9%，三星电子涨4%。美国国债与美元走势相对平稳，市场等待周二公布的美国消费者价格指数数据。欧洲股指期货则显示开盘偏弱。&lt;/p&gt;
 &lt;p&gt;Vantage Global Prime高级市场分析师Hebe Chen表示：&amp;quot;油价与收益率的飙升，已在清晰传递通胀前景恶化的信号。这种不确定性解释了当前市场的摇摆情绪——投资者对恶化的背景愈加警觉，但尚未为最坏情形完全定价。&amp;quot;&lt;/p&gt;
@@ -652,7 +575,21 @@ Meta：5个“看涨期权”尚未被市场定价
 &lt;p&gt;下一步，海关将密切关注机器人产业发展需求，持续优化监管服务，提升贸易便利化水平，推动我国外贸的“含智量”稳步提升，为全球智能经济注入中国动能。谢谢。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;贾惠丽:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;今天的发布会就到这里，感谢两位发布人，感谢各位记者朋友，大家再见！&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板午后涨超3%，算力硬件反攻、光模块大涨，恒科指翻红，科网股回暖、百度重挫9%</title><link>https://wallstreetcn.com/articles/3776862</link><guid>c577e06fd35bf72d56ad6b8591caaee49d4a4b385bbff574b0d168b018845e8f</guid><pubDate>Tue, 14 Jul 2026 04:06:26 GMT</pubDate><description>&lt;p&gt;7月14日，A股午后拉升，三大指数集体反弹，沪指重返3900点，创业板直线拉升，大涨超3%，算力硬件持续大涨，CPO、PCB等方向强势反弹，芯片半导体回升，半导体硅片、MCU芯片等概念股走高，商业航天掀起跌停潮，煤炭、石油天然气等板块走强。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 萨洛蒙中国新帅确定，耐克20年老将杜文钧接棒</title><link>https://wallstreetcn.com/articles/3776877</link><guid>8e9f6100fb19521efd1ac2a5922b057ad14cc33a1d33c0d2cafc53c48392e0b7</guid><pubDate>Tue, 14 Jul 2026 05:42:22 GMT</pubDate><description>&lt;p&gt;萨洛蒙大中华区迎来新负责人。&lt;/p&gt;
+&lt;p&gt;获官方确认，杜文钧（Vincent Du）已于7月10日加入亚玛芬体育，担任萨洛蒙大中华区品牌总经理，负责品牌在大中华区的发展与业务经营。&lt;/p&gt;
+&lt;p&gt;今年早些时候，萨洛蒙原大中华区总经理殷一转任始祖鸟大中华区总经理，此后该职位空缺约三个月。&lt;/p&gt;
+&lt;p&gt;杜文钧是一名在耐克内部成长起来的本土职业经理人，在耐克大中华区任职长达20年。&lt;/p&gt;
+&lt;p&gt;公开履历显示，他曾担任耐克大中华区品牌商品负责人、耐克篮球及NBA业务大中华区总经理、北部及西部区域总经理、女子商品副总裁，离职前为大中华区商品副总裁。&lt;/p&gt;
+&lt;p&gt;长期轮岗使其经历覆盖商品企划、运动品类、区域经营和消费者运营。这与萨洛蒙现阶段的业务需求较为契合。&lt;/p&gt;
+&lt;p&gt;过去几年，萨洛蒙在中国市场迅速从专业户外品牌走向更广泛的消费市场。越野跑和户外鞋仍是其专业形象的基础，部分明星鞋款则帮助品牌进入城市穿搭和潮流消费场景。&lt;/p&gt;
+&lt;p&gt;随着规模扩大，萨洛蒙面临的任务已经不只是延续明星鞋款热度，而是建立更完整的商品结构。&lt;/p&gt;
+&lt;p&gt;亚玛芬体育2025年财报显示，萨洛蒙全年销售额首次突破20亿美元。以萨洛蒙为核心的户外运动板块收入达到24.04亿美元，同比增长31%，是集团增长最快的主要业务之一。&lt;/p&gt;
+&lt;p&gt;亚玛芬管理层此前表示，将加快对萨洛蒙鞋服业务的投入。相比已经形成较强认知的越野跑和户外鞋，路跑、运动服装及女性产品，将成为品牌扩大消费人群的重要方向。&lt;/p&gt;
+&lt;p&gt;渠道扩张同样是新任负责人的重要任务。&lt;/p&gt;
+&lt;p&gt;近年来，萨洛蒙在中国加快开设直营及合作门店，进入更多核心商圈和重点户外消费城市。随着门店增加，品牌需要进一步协调旗舰店、商场店、专业户外渠道和线上渠道之间的货品及价格体系。&lt;/p&gt;
+&lt;p&gt;杜文钧此前既负责过耐克商品业务，也担任过区域总经理。这意味着，他不仅需要判断萨洛蒙下一阶段卖什么，还要解决不同商品如何进入不同城市和渠道的问题。&lt;/p&gt;
+&lt;p&gt;从耐克工作20年后转向萨洛蒙，杜文钧面对的是一套不同的增长逻辑：耐克已经是一家高度大众化的综合运动集团，萨洛蒙仍处在从专业户外向更广泛运动市场扩张的阶段。&lt;/p&gt;
+&lt;p&gt;如何将耐克积累的商品和区域经营经验转化为萨洛蒙的增长，将是此次换帅后最值得关注的部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板午后涨超3%，算力硬件反攻、光模块大涨，恒科指翻红，科网股回暖、百度重挫9%</title><link>https://wallstreetcn.com/articles/3776862</link><guid>c577e06fd35bf72d56ad6b8591caaee49d4a4b385bbff574b0d168b018845e8f</guid><pubDate>Tue, 14 Jul 2026 04:06:26 GMT</pubDate><description>&lt;p&gt;7月14日，A股午后拉升，三大指数集体反弹，沪指重返3900点，创业板直线拉升，大涨超3%，算力硬件持续大涨，CPO、PCB等方向强势反弹，芯片半导体回升，半导体硅片、MCU芯片等概念股走高，商业航天掀起跌停潮，煤炭、石油天然气等板块走强。&lt;/p&gt;
 &lt;p&gt;港股午后亦走高，恒指、恒科指双双转涨，科网股部分回暖，百度重挫9%，芯片股跌幅收窄，华虹宏力跌1%。AI大模型股分化，智谱跌4%，MINIMAX翻红。债市方面，国债期货全线下跌，商品方面，国内商品期货多数下跌，原油、燃油等逆势大涨，因地缘政治紧张局势升级，推动国际油价隔夜暴涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.62%，深成指涨2.10%，创业板指涨3.07%。&lt;/p&gt;
@@ -711,31 +648,84 @@ Meta：5个“看涨期权”尚未被市场定价
 &lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上证指数低开0.12%，创业板指涨0.16%。黄金、PEEK材料、商业航天、CRO概念股走弱；油气、零售、地产板块走强，服务器、光刻机题材活跃。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生指数低开0.13%，恒生科技指数跌0.25%。中国石油股份涨逾3%，中国海洋石油涨逾2%，蔚来涨近3%；百度集团跌逾3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票</title><link>https://wallstreetcn.com/articles/3776834</link><guid>62d63dac18adc9ec27e2ad2628dd4efeed0d4183c129e549f1ae6943e0d7fa10</guid><pubDate>Mon, 13 Jul 2026 17:57:54 GMT</pubDate><description>&lt;p&gt;7月13日周一，一条始于韩国银行的紧缩传导链与SK海力士美股上市后的结构性换仓抛压共振，韩国股指KOSPI年内第七次熔断的烈度击穿了亚太科技板块。&lt;/p&gt;
-&lt;p&gt;韩国上市的SK海力士股价一日创纪录暴跌15.4%、市值一日蒸发逾890亿美元，三星电子重挫近11%，KOSPI收跌8.9%。冲击波迅速映射至A股：科创50高位回吐，存储芯片批量跌停。&lt;/p&gt;
-&lt;p&gt;但在亚太区科技股大多恐慌的另一端，国产GPU龙头沐曦股份本周一股价盘中却一度涨超13%、创历史新高，市值突破4000亿元；A股银行板块携6456亿元年度分红逆势走强。&lt;/p&gt;
-&lt;p&gt;这些表现显示，市场并非在“无差别杀跌”，而是在用真金白银完成一次精细化的定价重估：区分AI周期的供给侧噪音与真实需求信号，区分流动性驱动的估值泡沫与产业趋势支撑的成长逻辑。&lt;/p&gt;
-一条从银行柜台出发的传导链
-&lt;p&gt;韩国本轮去杠杆风险并非7月13日突然爆发，但这一天的烈度暴露了问题的严重性。&lt;/p&gt;
-&lt;p&gt;据韩媒7月12日报道，韩国五大商业银行上半年已消耗全年家庭贷款增长额度逾85%，其中两家银行放贷规模突破监管上限。下半年新增信贷空间近乎枯竭，市场普遍预判&amp;quot;信贷断崖式收缩&amp;quot;即将到来。某券商海外研究团队调研显示，韩国全市场散户可动用资金已下降约20%，银行至券商资金&amp;quot;搬家&amp;quot;增速彻底停滞。&lt;/p&gt;
-&lt;p&gt;华宝基金指出，直接的催化因素是SK海力士赴美上市：机构将持仓载体从韩国本土股票迁移至美股ADR，形成韩股卖出、美股ADR增配的结构性单向换仓。韩国金融监督院已要求资管公司就单一股票杠杆ETF提交波动抑制与补救方案，由财政经济部、金融委员会、韩国银行及金融监督院组成的&amp;quot;F4&amp;quot;高层协调机制已介入。金融监督院院长Lee Chan-jin公开表示&amp;quot;后悔没有拼尽全力阻止&amp;quot;该产品推出。&lt;/p&gt;
-SK海力士暴跌三个归因，唯独没有需求崩塌
-&lt;p&gt;SK海力士创纪录暴跌的核心原因并非AI内存需求走弱，这是判断本轮冲击是否可持续的关键。&lt;/p&gt;
-&lt;p&gt;据Photon Capital分析，SK海力士韩股本周一暴跌由三个供给端因素驱动：获利了结（其ADR在美上市首日大涨近13%后的回吐）、新增股份供应（265亿美元美股IPO稀释效应），以及韩股与美股ADR之间的重新定价。投资者对韩国和台湾AI硬件股的组合再平衡进一步加剧了抛压。&lt;/p&gt;
-&lt;p&gt;分析师普遍判断此次回调是暂时的。Photon Capital指出：“结构性AI内存需求继续超过供应。内存价格上涨、需求增长和供应紧张这一更广泛的趋势并未在一夜之间消失。”&lt;/p&gt;
-&lt;p&gt;Korea Investment &amp;amp; Securities预测SK海力士Q2营业利润可能比市场预期低8%，因HBM收入占比高于同行限缩了平均售价上涨空间——但这属于盈利预期修正，而非需求坍塌。&lt;/p&gt;
-&lt;p&gt;更具信号意义的是SK海力士CEO Kwak Noh-jung在上周五在该司纳斯达克上市当天的公开表态：全球存储行业正走向有史以来最严峻的供给短缺，峰值预计出现在2027年，短缺可能延续至2030年以后。美光CEO Sanjay Mehrotra此前也给出了一致判断。&lt;/p&gt;
-同一天，两个方向：沐曦新高 vs. 存储芯片跌停
-&lt;p&gt;A股科技板块并非无差别杀跌——板块内部的裂痕比整体跌幅更有信号意义。&lt;/p&gt;
-&lt;p&gt;存储芯片首当其冲：香农芯创20cm跌停，兆易创新、德明利跌停封板，佰维存储等多股跌超10%。光纤、MLCC、PCB等AI硬件赛道同步遭遇集中获利了结。但在抛售的另一端，沐曦股份盘中一度涨超13%触及1033元，收涨近7%，市值突破4000亿元。&lt;/p&gt;
-&lt;p&gt;两条独立逻辑支撑沐曦走强：一是即将在2026世界人工智能大会（WAIC）首发的“曦景”S系列超节点产品；二是国产自主GPU受益于推理侧需求爆发与海外高端芯片供给受限，打开了大规模替换窗口。东海证券数据显示，2025年国产AI加速卡市占率已从2024年的30%提升至41%，2026年国内AI加速芯片市场规模预计同比增长59%至3814亿元。&lt;/p&gt;
-&lt;p&gt;金信基金指出，科技股回调更多是交易层面的降温而非产业逻辑逆转，“AI算力需求仍在增长，国产算力、存储、半导体设备材料等方向仍处于产业升级和国产替代大趋势中。”&lt;/p&gt;
-&lt;p&gt;创金合信基金首席经济学家魏凤春认为，本轮行情内核是AI产业红利驱动风险偏好定向抬升，&amp;quot;适度回调有助于行情走得更稳。&amp;quot;&lt;/p&gt;
-6456亿分红标记的安全边际
-&lt;p&gt;科技板块剧烈震荡之际，资金并未离场——而是在大规模重新配置。&lt;/p&gt;
-&lt;p&gt;苏州银行涨6.15%领涨城商行，建设银行涨3.56%，交通银行、工商银行集体走强。Wind数据显示，41家银行2025年度合计分红金额超6456亿元创历史新高，其中近期密集落地的末期分红接近3459亿元。以红利低波指数为例，近12个月股息率已达5.2%，而近一周成交额占全A比例仅1.23%，交易结构远较科技板块健康。&lt;/p&gt;
-&lt;p&gt;华泰柏瑞基金数据显示，全市场红利类ETF在5月、6月分别净流入98亿元、92亿元，体现中长期资金的持续布局。万家基金补充，煤炭兼具高股息和供需紧平衡双重支撑，在当前时点具备攻防兼备属性。&lt;/p&gt;
-&lt;p&gt;中欧基金总结称，此次调整并非中期主线的彻底切换——市场重新凝聚合力尚需时日，科技股在情绪和筹码完成切换后仍有望继续跑赢消费和内需。经过调整后，市场将重新回到业绩兑现、订单增长与估值性价比的比较之中。而6456亿分红与沐曦的新高，已经从两个方向提前标出了这笔账的坐标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛韩国交易员的一线观察：韩股“持续且痛苦”的去杠杆，“多头”基金沉默</title><link>https://wallstreetcn.com/articles/3776861</link><guid>9875afb320ddad3a39a751d969270ba6ddb8df22669427bcc76bfee881090d93</guid><pubDate>Tue, 14 Jul 2026 02:06:26 GMT</pubDate><description>&lt;p&gt;韩国股市遭遇重创，而驱动这场暴跌的，并非基本面恶化，而是一场由杠杆产品引爆的仓位清洗。&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.13%，恒生科技指数跌0.25%。中国石油股份涨逾3%，中国海洋石油涨逾2%，蔚来涨近3%；百度集团跌逾3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街不担心资本开支！大摩：明年五大云厂资本开支1.2万亿美元，2028年1.4万亿美元，算力翻四倍</title><link>https://wallstreetcn.com/articles/3776864</link><guid>5ece1a7ba5824caf3475964a5ee73bf1468b7ee33dc5e480c68f83e9abf3ca46</guid><pubDate>Tue, 14 Jul 2026 04:41:12 GMT</pubDate><description>&lt;p&gt;资本开支数字越来越大，但大摩认为，这还不是问题。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，摩根士丹利分析师Brian Nowak团队7月12日发布最新研报，将五大超大规模云厂商（Meta、亚马逊、微软、谷歌、SpaceX）的2027/2028年资本开支预测整体上调9%/10%，分别达到约1.2万亿和1.4万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+为什么资本开支还在涨？成本通胀+算力紧缺双重驱动
+&lt;p&gt;分析师Brian Nowak此次上调的直接触发因素是成本上涨。&lt;/p&gt;
+&lt;p&gt;GPU相关成本上涨约20%，主要来自两个方向：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;机架内成本上升&lt;/strong&gt;：内存价格大幅提升，在Blackwell（GB300、GB200）机架中，内存占比从低个位数百分比升至高个位数百分比；在Vera Rubin机架中，内存占比更从高个位数升至约25%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;机架外成本上升&lt;/strong&gt;：电气/机械设备交货期延长、建筑材料紧缺、熟练劳工短缺，以及向&amp;quot;表后电力&amp;quot;（behind the meter power）解决方案转移，共同推高了数据中心建设成本。大摩目前对GB200、TPU和Trainium的机架外成本估算约为每兆瓦1100万至1300万美元，而下一代GB300、Vera Rubin和Rubin Ultra则进一步升至约每兆瓦1600万至1900万美元。&lt;/p&gt;
+&lt;p&gt;具体到每GW数据中心建设成本：GB200约350亿美元，GB300约390亿美元，Vera Rubin约490亿美元；定制ASIC方面，TPUv7约270亿美元，Trainium3约200亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;除成本因素外，Nowak还指出，&lt;strong&gt;从破土动工到数据中心开业的周期已拉长至最长3年。与此同时，社会对数据中心建设的反对声音增加，以及2028年总统大选前的政治不确定性，正促使云厂商提前开工建设，以强调创造就业。&lt;/strong&gt;这进一步加剧了通胀压力，也加速了资本开支的前置。&lt;/p&gt;
+算力将翻四倍：从30GW到120GW
+&lt;p&gt;资本开支的终点是算力。&lt;/p&gt;
+&lt;p&gt;Nowak预测，五大超大规模云厂商的可用算力将从2025年约30GW增长至2028年约116.6GW，接近4倍增幅。&lt;/p&gt;
+&lt;p&gt;分公司来看：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AWS&lt;/strong&gt;：&lt;strong&gt;2028年达35GW，算力规模最大&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;谷歌&lt;/strong&gt;：2028年达31.6GW，新增算力最多（2027/2028年分别新增9GW/11GW）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;微软&lt;/strong&gt;：2028年达20.3GW&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meta&lt;/strong&gt;：2028年达21.2GW，从2025年底约3.5GW大幅跃升；其中2026/2027年新增算力中，55%/90%来自自建，45%/10%来自第三方&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Meta：5个“看涨期权”尚未被市场定价
+&lt;p&gt;大摩Nowak维持Meta为首选股，目标价775美元，对应约15%上行空间，评级超配（Overweight）。&lt;/p&gt;
+&lt;p&gt;Nowak认为，市场目前只是在&amp;quot;惩罚&amp;quot;Meta的高资本开支，却没有给予其潜在收入的应有估值。报告列出5个尚未被市场定价的盈利驱动因素，若全部兑现，可在基准每股盈利约33美元的基础上额外贡献约10美元，意味着Meta当前股价对应的2028年市盈率实际上只有约15倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这5个&amp;quot;看涨期权&amp;quot;包括：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Neocloud变现&lt;/strong&gt;：约2.97美元每股盈利上行空间&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meta AI&lt;/strong&gt;：约2.89美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;搜索&lt;/strong&gt;：约1.91美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;API收入&lt;/strong&gt;：约1.90美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;订阅机会&lt;/strong&gt;：约0.94美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;API收入：一个值得重点关注的新业务&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta近期推出的Muse Spark 1.1模型API定价，比竞争对手低30%至85%。大摩测算，每100兆瓦算力用于API业务，可产生约85.88亿美元收入，对应约1.91美元每股盈利，约占2028年每股盈利的6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;基准情景下，大摩假设Meta 1500万广告主中的25%（约400万）每月为其产品支付约200美元，同样可产生约80亿美元收入和约2美元每股盈利。&lt;/p&gt;
+&lt;p&gt;大摩指出，Meta只需分配约100兆瓦的GB300算力即可支撑这一API业务，而其2028年底预计拥有约21GW的算力基础，扩展空间充裕。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;估值调整&lt;/strong&gt;：大摩将Meta 2027/2028年资本开支上调29%/22%，分别达2250亿/2500亿美元，同时纳入400亿美元新增债务发行。更高的折旧拖累2027/2028年每股盈利分别下调3%/7%至约32.99美元/33.41美元。但大摩同步小幅上调2028年收入预测（+1%），并将估值滚动至年中，以23倍市盈率对应2027/2028年平均每股盈利，维持775美元目标价。&lt;/p&gt;
+亚马逊：AWS增速被低估
+&lt;p&gt;Nowak将亚马逊2027/2028年资本开支上调15%/29%，分别达3080亿/3180亿美元。&lt;/p&gt;
+&lt;p&gt;但与Meta不同，亚马逊的每股盈利预测反而上调了。原因是AWS收入预测同步大幅上调：2027/2028年AWS收入分别上调3%/7%，对应同比增速40%/36%，绝对值达2435亿/3316亿美元。更高的折旧被更强的AWS收入所抵消，2027/2028年每股盈利分别上调2%/3%至约11.53美元/15.05美元。&lt;/p&gt;
+&lt;p&gt;Nowak认为，当前市场对AWS的收入预测过于保守。报告指出，即便是大摩自己35%/40%的2026/2027年AWS增速预测，隐含的每增量瓦特收入仅为7美元/9美元，&amp;quot;可以说是保守的&amp;quot;。&lt;/p&gt;
+&lt;p&gt;此外，Nowak预计AWS积压订单将在二季度环比大增1100亿美元，达到约4750亿美元，主要来自私人实验室的大单，这将增强市场对多年期增长持续性的信心。&lt;/p&gt;
+&lt;p&gt;目标价330美元基于2027/2028年平均每股盈利约13美元乘以约25倍市盈率，对应约1.4倍PEG，较同类公司有约30%折价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+谷歌：全栈AI领先，但短期面临算力约束风险
+&lt;p&gt;Nowak给予谷歌目标价415美元，约16%上行空间，评级超配。&lt;/p&gt;
+&lt;p&gt;Nowak预计谷歌云2026年二季度/全年增速分别达77%/78%，搜索业务2026年二季度/全年增速分别为17.5%/16%，2027/2028年增速为11%/8%。&lt;/p&gt;
+&lt;p&gt;但Nowak特别提示一个战术性风险：谷歌目前处于算力受限状态（其最新与SpaceX的算力租赁协议即为佐证）。算力约束可能拖累近期收入增长或产品发布节奏，这一风险在Meta和亚马逊身上相对较小。&lt;/p&gt;
+&lt;p&gt;此外，Gemini 3.5的发布已晚于谷歌在I/O大会上设定的时间表，大摩表示将关注下半年Gemini模型的进一步产品化进展。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛韩国交易员的一线观察：韩股“持续且痛苦”的去杠杆，“多头”基金沉默</title><link>https://wallstreetcn.com/articles/3776861</link><guid>9875afb320ddad3a39a751d969270ba6ddb8df22669427bcc76bfee881090d93</guid><pubDate>Tue, 14 Jul 2026 02:06:26 GMT</pubDate><description>&lt;p&gt;韩国股市遭遇重创，而驱动这场暴跌的，并非基本面恶化，而是一场由杠杆产品引爆的仓位清洗。&lt;/p&gt;
 &lt;p&gt;据追风交易台，高盛驻首尔销售交易员Chris Cha于7月14日的市场观察报告中表示，KOSPI当日暴跌9%，收于6800点，触发2026年以来第七次熔断机制。&lt;strong&gt;此次下跌的核心推手是新上市单股杠杆ETF的集中去杠杆，而非任何负面基本面信号或盈利下修。&lt;/strong&gt;外资与本地机构当日合计净卖出超过26亿美元。&lt;/p&gt;
 &lt;p&gt;值得关注的是，在指数大幅下挫之际，净多头（long-only）机构投资者的反应却异常沉默，机构大宗交易活动出人意料地低迷。高盛认为，此次下跌是&amp;quot;流动性驱动的仓位清洗&amp;quot;，而非周期性顶部的结构性信号，并建议投资者利用极端波动择机积累高确信度的存储芯片及科技标的。&lt;/p&gt;
 单股杠杆ETF去杠杆：暴跌的核心推手
