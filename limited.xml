@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 15 Jul 2026 00:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国股市杠杆绞杀实录：最高46万账户遭强平，散户“血本无归”，有人连养老金也亏掉了</title><link>https://wallstreetcn.com/articles/3776889</link><guid>7e1700da020ad7ec58d9335a11f7cafe3424f66a6ec68e5790fda40199a7b2cb</guid><pubDate>Tue, 14 Jul 2026 13:59:41 GMT</pubDate><description>&lt;p&gt;杠杆不等人。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 15 Jul 2026 01:29:44 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛韩国一线评论：IBM暴跌验证了存储短缺，散户投降但韩股关键支撑位挺住了，机构相信存储扩产不会太猛</title><link>https://wallstreetcn.com/articles/3776969</link><guid>d5f01e9b0b6d1d57c04e74141f6f85f1b8ce04bd8aea440ddd76b75fc70dae50</guid><pubDate>Wed, 15 Jul 2026 01:13:45 GMT</pubDate><description>&lt;p&gt;IBM股价单日暴跌25%，在高盛看来不是坏消息，而是存储超级周期最有力的现实佐证。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，高盛首尔团队在7月15日发布的最新一线评论中指出，IBM业绩崩塌的根源在于企业客户将资本支出大规模转向服务器、存储及内存采购，以抢在预期涨价前锁定供应受限的基础设施——&lt;strong&gt;这一&amp;quot;挤出效应&amp;quot;正在从超大规模云厂商的AI资本开支，蔓延至普通企业IT买家，从而在真实经济层面确认了存储短缺的广度与深度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;韩国股市在经历剧烈波动后，关键技术支撑位依然完好。&lt;/strong&gt;该行首尔团队指出，KOSPI在61.8%斐波那契回撤位获得本地及外资机构的净买入支撑，散户虽已割肉离场，但机构投资者普遍认为，受制于设备和零部件的结构性短缺，行业实际产能扩张幅度将远低于市场担忧的上限。高盛维持KOSPI目标价12000点，立场明确看多。&lt;/p&gt;
+IBM暴跌25%：挤出效应蔓延至企业IT，存储定价权获真实经济验证
+&lt;p&gt;IBM股价周二暴跌25%，Salesforce下跌2%。导火索均指向同一现象：&lt;strong&gt;企业客户正在大规模将资本支出从软件和服务转向服务器、存储及内存采购，以提前锁定供应紧张的基础设施，规避预期中的价格上涨。&lt;/strong&gt;IBM管理层坦承，未能预判到这一资本支出重新排序的规模。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;高盛认为，这一事件的意义远超IBM本身。存储超级周期的核心多头逻辑在于：&lt;strong&gt;HBM（高带宽内存）的晶圆消耗强度正在挤占传统服务器DRAM的供应空间，从而收紧整个DRAM市场，而非仅限于HBM细分领域。&lt;/strong&gt;IBM的最新表态，正是这一&amp;quot;挤出效应&amp;quot;在真实经济中咬合非AI企业客户的直接确认。&lt;/p&gt;
+&lt;p&gt;高盛由此进一步强化其此前观点：&lt;strong&gt;存储供应商的定价权正在增强，结构性供给约束与即将到来的价格上涨，有望推动存储厂商估值重估。&lt;/strong&gt;&amp;quot;更高、更久&amp;quot;的存储周期叙事，在企业端获得了新的支撑锚点。&lt;/p&gt;
+KOSPI技术支撑位完好：机构逢低买入，散户割肉出局
+&lt;p&gt;KOSPI近期经历了一轮剧烈调整，周一更是单日暴跌9%。高盛指出，此次跌幅被大幅放大，&lt;strong&gt;主要原因在于新上市的单股杠杆ETF遭遇快速去杠杆，触发自我强化的连锁清算，与基本面驱动因素出现明显脱节。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，在61.8%斐波那契回撤位上，本地机构与外资机构均转为净买入，散户则持续割肉离场。高盛在其每周主经纪商数据及新加坡路演的客户反馈中均观察到上述分化格局。&lt;/p&gt;
+&lt;p&gt;与此同时，高盛接触的多数科技投资者对产能扩张节奏持审慎乐观态度，&lt;strong&gt;普遍认为由于设备和零部件存在结构性短缺，实际产能扩张力度可能远不及市场担忧的那般激进。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据媒体报道，ASML预计将上调销售指引，市场将密切关注该公司能否在设备需求激增的背景下有效扩大产能。&lt;/p&gt;
+&lt;p&gt;综合来看，高盛认为当前市场格局出现四项积极变化：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一是股价在季节性偏弱的三季度已变得更为便宜；二是散户割肉后持仓结构趋于干净；三是企业IT需求强于预期；四是外资与本地机构在关键技术支撑位双双转为净买入。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;高盛维持KOSPI目标价12000点，整体立场看多。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国股市杠杆绞杀实录：最高46万账户遭强平，散户“血本无归”，有人连养老金也亏掉了</title><link>https://wallstreetcn.com/articles/3776889</link><guid>7e1700da020ad7ec58d9335a11f7cafe3424f66a6ec68e5790fda40199a7b2cb</guid><pubDate>Tue, 14 Jul 2026 13:59:41 GMT</pubDate><description>&lt;p&gt;杠杆不等人。&lt;/p&gt;
 &lt;p&gt;韩国KOSPI周一单日暴跌近9%、年内第七次触发熔断机制，很多散户盯着屏幕上的红色数字，思考的已经不是&amp;quot;亏了多少&amp;quot;，而是一个更紧迫的问题——&lt;strong&gt;还有没有钱撑过下一次补款日。&lt;/strong&gt;&lt;/p&gt;
 一、强平潮已至：4258亿韩元一键清零
 &lt;p&gt;这轮杠杆绞杀的烈度，从一组数字就能感受到。&lt;/p&gt;
@@ -58,22 +81,7 @@
 &lt;p&gt;&amp;quot;许多散户似乎将杠杆ETF视为长期投资而非短期交易工具，巨额亏损可能削弱他们购买半导体股票的意愿和能力，令市场反弹更加依赖外国机构资金。&amp;quot;&lt;/p&gt;
 &lt;p&gt;这轮韩股下跌对散户最直接的打击，不是指数本身回撤多少，而是现金流被打穿。&lt;/p&gt;
 &lt;p&gt;亏损可以等待修复，杠杆却不等人。&lt;/p&gt;
-&lt;p&gt;对许多散户而言，眼下最大的风险，已经不是错过反弹——而是撑不到回本。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 江苏银行高管调整”落定”："袁高配"格局成型</title><link>https://wallstreetcn.com/articles/3776954</link><guid>1312f7e461715b6764e52c5658ef0a51229c9a3236babcb8a7fa0d9ce37da0eb</guid><pubDate>Tue, 14 Jul 2026 22:03:20 GMT</pubDate><description>&lt;p&gt;7月13日，江苏银行连发多份公告，宣布重要人事调整落地：袁军董事长任职资格获江苏金融监管局正式核准，同时辞去行长及首席合规官职务，专注董事长职责。而原副行长高增银获董事会聘任为行长，相关任职资格尚待监管核准。&lt;/p&gt;
-&lt;p&gt;至此，江苏银行主要管理层的人事调整基本完成，新一届领导班子正式成型。&lt;/p&gt;
-&lt;strong&gt;人事脉络：半年内完成新老交接&lt;/strong&gt;
-&lt;p&gt;此次人事变动，为江苏银行今年以来一系列高层人事调整的延续和收尾。&lt;/p&gt;
-&lt;p&gt;今年4月，江苏银行原董事长葛仁余因年龄原因离任，行长袁军随即承接过渡，身兼党委书记、董事长、执行董事、行长、首席合规官五职，此番董事长任职资格获批，袁军得以卸任行长、首席合规官二职，回归专职董事长角色。&lt;/p&gt;
-&lt;p&gt;公开资料显示，袁军，1971年生，工程硕士学位，正高级经济师，曾担任原江苏省农村信用社联合社发展规划处副处长、业务管理处副处长、业务发展部副总经理，泰州农村商业银行党委书记、董事长，江苏省纪委监委派驻江苏银行纪检监察组组长、江苏银行党委委员、党委副书记、行长等职务。&lt;/p&gt;
-&lt;p&gt;接任行长一职的高增银，亦是长期任职于银行系统，具有丰富金融从业经验。&lt;/p&gt;
-&lt;p&gt;简历显示，高增银1977年9月生，经济学硕士，正高级经济师，早年供职于建设银行苏州分行，擅长公司业务与投行业务；加入江苏银行后历任投行部总经理、投行与资产管理总部总经理；2020年出任苏银理财首任董事长，任期内将旗下理财规模推升至4465亿元；2023年9月升任江苏银行副行长，2026年7月获聘任为行长。&lt;/p&gt;
-&lt;strong&gt;基本面：城商行头部地位稳固&lt;/strong&gt;
-&lt;p&gt;换帅之际，外界也再度把目光放到江苏银行，这家城商行的领军银行身上。&lt;/p&gt;
-&lt;p&gt;财报显示，2025年末，江苏银行集团资产总额达4.93万亿元，较上年末增长24.78%；全年实现营业收入879.42亿元，同比增长8.82%；归母净利润345.01亿元，同比增长8.35%。净资产收益率（ROE）为13.14%，资产回报率（ROA）为0.82%。在英国《银行家》杂志全球银行1000强排名中列第56位，较上年跃升10位。&lt;/p&gt;
-&lt;p&gt;进入2026年，扩张势头延续。一季度末，江苏银行总资产突破5万亿元，升至5.58万亿元，继续稳居城商行首位；同期营收241.8亿元，同比增长8.41%；净利润109.25亿元，同比增长8.25%。不良贷款率降至0.81%，为上市以来最低水平；净息差1.73%，高出行业均值31个基点。&lt;/p&gt;
-&lt;strong&gt;未来前景：新突破方向在哪里&lt;/strong&gt;
-&lt;p&gt;市场人士注意到，高增银的核心履历集中于投行与资产管理领域，与近年来银行业普遍面临息差收窄挑战后，进一步强化中间业务的战略方向较为契合。&lt;/p&gt;
-&lt;p&gt;从架构安排来看，董事长袁军主掌全局，行长高增银主理经营，两人分工明确。外界普遍预期新班子将延续既定战略，同时在收入结构多元化方面寻求新的突破空间。&lt;/p&gt;
-&lt;p&gt;历来稳健经营的江苏银行，在经营上会有什么新的突破，值得关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 股票交易暴涨70%、投行费用猛增50%：美国银行Q2营收大超预期，但成本考验才刚刚开始</title><link>https://wallstreetcn.com/articles/3776935</link><guid>aebafbccc4f06ad89b3fcfc087c54203add5ecc81b9de26a8f7ff739b799a96a</guid><pubDate>Tue, 14 Jul 2026 17:23:58 GMT</pubDate><description>&lt;p&gt;美国银行二季度交出了一份由交易和投行业务双引擎驱动的超预期成绩单。&lt;/p&gt;
+&lt;p&gt;对许多散户而言，眼下最大的风险，已经不是错过反弹——而是撑不到回本。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 股票交易暴涨70%、投行费用猛增50%：美国银行Q2营收大超预期，但成本考验才刚刚开始</title><link>https://wallstreetcn.com/articles/3776935</link><guid>aebafbccc4f06ad89b3fcfc087c54203add5ecc81b9de26a8f7ff739b799a96a</guid><pubDate>Tue, 14 Jul 2026 17:23:58 GMT</pubDate><description>&lt;p&gt;美国银行二季度交出了一份由交易和投行业务双引擎驱动的超预期成绩单。&lt;/p&gt;
 &lt;p&gt;净利润91亿美元、总营收316亿美元均大幅超越市场预期——但在这份亮眼财报背后，非利息支出同比攀升8%至186亿美元，同日摩根大通将全年成本指引上调至约1075亿美元，华尔街大行的&amp;quot;成本账本&amp;quot;正在成为这场业绩盛宴中无法回避的第二议题。&lt;/p&gt;
 &lt;p&gt;销售与交易部门当季总收入同比飙升34%至71亿美元，创下历史纪录，远超首席执行官Brian Moynihan此前仅增长15%的预期。&lt;/p&gt;
 &lt;p&gt;其中，股票交易业务营收同比暴涨70%至36亿美元，为美国银行有史以来最佳的季度表现；固定收益、外汇及大宗商品（FICC）交易收入增长近9%至35亿美元，同样超越分析师普遍预期。该行销售与交易部门在2026年上半年合计录得创纪录收入水平。&lt;/p&gt;
@@ -96,7 +104,22 @@ AI资本开支超级周期：投行管线持续增厚
 &lt;p&gt;尽管营收全面超预期，成本端的压力正在成为本轮财报季的共性主题。美国银行二季度非利息支出同比上升8%至186亿美元，略高于分析师预期的183.5亿美元。&lt;/p&gt;
 &lt;p&gt;同日，摩根大通将全年成本指引进一步上调至约1075亿美元，超出首席执行官杰米·戴蒙此前透露的增幅。&lt;/p&gt;
 &lt;p&gt;净利息收入方面，美国银行二季度同比增长9%至近160亿美元，超出市场增长8.5%的预期。平均贷款和租赁规模较上年同期微增1%至3210亿美元，消费者支出韧性为利息收入提供了稳定支撑。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，接下来的核心问题是：当波动红利边际递减、而成本基数已被抬高，交易与投行的创纪录增速能否在下半年延续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长鑫科技：发行价格为8.66元/股，7月16日进行申购</title><link>https://wallstreetcn.com/articles/3776930</link><guid>f6df7c255d59de9bb530e8cb2b3e76c4391c27ebb9be4b6917ef86e89a29f996</guid><pubDate>Tue, 14 Jul 2026 14:37:29 GMT</pubDate><description>&lt;p&gt;国内最大DRAM厂商长鑫科技IPO发行价正式落地。公司将发行价确定为&lt;strong&gt;8.66元/股&lt;/strong&gt;，对应发行后总市值约&lt;strong&gt;5792亿元&lt;/strong&gt;，低于此前市场一度预期的万亿元估值，引发市场对其定价合理性的讨论。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，接下来的核心问题是：当波动红利边际递减、而成本基数已被抬高，交易与投行的创纪录增速能否在下半年延续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 江苏银行高管调整”落定”："袁高配"格局成型</title><link>https://wallstreetcn.com/articles/3776954</link><guid>1312f7e461715b6764e52c5658ef0a51229c9a3236babcb8a7fa0d9ce37da0eb</guid><pubDate>Tue, 14 Jul 2026 22:03:20 GMT</pubDate><description>&lt;p&gt;7月13日，江苏银行连发多份公告，宣布重要人事调整落地：袁军董事长任职资格获江苏金融监管局正式核准，同时辞去行长及首席合规官职务，专注董事长职责。而原副行长高增银获董事会聘任为行长，相关任职资格尚待监管核准。&lt;/p&gt;
+&lt;p&gt;至此，江苏银行主要管理层的人事调整基本完成，新一届领导班子正式成型。&lt;/p&gt;
+&lt;strong&gt;人事脉络：半年内完成新老交接&lt;/strong&gt;
+&lt;p&gt;此次人事变动，为江苏银行今年以来一系列高层人事调整的延续和收尾。&lt;/p&gt;
+&lt;p&gt;今年4月，江苏银行原董事长葛仁余因年龄原因离任，行长袁军随即承接过渡，身兼党委书记、董事长、执行董事、行长、首席合规官五职，此番董事长任职资格获批，袁军得以卸任行长、首席合规官二职，回归专职董事长角色。&lt;/p&gt;
+&lt;p&gt;公开资料显示，袁军，1971年生，工程硕士学位，正高级经济师，曾担任原江苏省农村信用社联合社发展规划处副处长、业务管理处副处长、业务发展部副总经理，泰州农村商业银行党委书记、董事长，江苏省纪委监委派驻江苏银行纪检监察组组长、江苏银行党委委员、党委副书记、行长等职务。&lt;/p&gt;
+&lt;p&gt;接任行长一职的高增银，亦是长期任职于银行系统，具有丰富金融从业经验。&lt;/p&gt;
+&lt;p&gt;简历显示，高增银1977年9月生，经济学硕士，正高级经济师，早年供职于建设银行苏州分行，擅长公司业务与投行业务；加入江苏银行后历任投行部总经理、投行与资产管理总部总经理；2020年出任苏银理财首任董事长，任期内将旗下理财规模推升至4465亿元；2023年9月升任江苏银行副行长，2026年7月获聘任为行长。&lt;/p&gt;
+&lt;strong&gt;基本面：城商行头部地位稳固&lt;/strong&gt;
+&lt;p&gt;换帅之际，外界也再度把目光放到江苏银行，这家城商行的领军银行身上。&lt;/p&gt;
+&lt;p&gt;财报显示，2025年末，江苏银行集团资产总额达4.93万亿元，较上年末增长24.78%；全年实现营业收入879.42亿元，同比增长8.82%；归母净利润345.01亿元，同比增长8.35%。净资产收益率（ROE）为13.14%，资产回报率（ROA）为0.82%。在英国《银行家》杂志全球银行1000强排名中列第56位，较上年跃升10位。&lt;/p&gt;
+&lt;p&gt;进入2026年，扩张势头延续。一季度末，江苏银行总资产突破5万亿元，升至5.58万亿元，继续稳居城商行首位；同期营收241.8亿元，同比增长8.41%；净利润109.25亿元，同比增长8.25%。不良贷款率降至0.81%，为上市以来最低水平；净息差1.73%，高出行业均值31个基点。&lt;/p&gt;
+&lt;strong&gt;未来前景：新突破方向在哪里&lt;/strong&gt;
+&lt;p&gt;市场人士注意到，高增银的核心履历集中于投行与资产管理领域，与近年来银行业普遍面临息差收窄挑战后，进一步强化中间业务的战略方向较为契合。&lt;/p&gt;
+&lt;p&gt;从架构安排来看，董事长袁军主掌全局，行长高增银主理经营，两人分工明确。外界普遍预期新班子将延续既定战略，同时在收入结构多元化方面寻求新的突破空间。&lt;/p&gt;
+&lt;p&gt;历来稳健经营的江苏银行，在经营上会有什么新的突破，值得关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长鑫科技：发行价格为8.66元/股，7月16日进行申购</title><link>https://wallstreetcn.com/articles/3776930</link><guid>f6df7c255d59de9bb530e8cb2b3e76c4391c27ebb9be4b6917ef86e89a29f996</guid><pubDate>Tue, 14 Jul 2026 14:37:29 GMT</pubDate><description>&lt;p&gt;国内最大DRAM厂商长鑫科技IPO发行价正式落地。公司将发行价确定为&lt;strong&gt;8.66元/股&lt;/strong&gt;，对应发行后总市值约&lt;strong&gt;5792亿元&lt;/strong&gt;，低于此前市场一度预期的万亿元估值，引发市场对其定价合理性的讨论。&lt;/p&gt;
 &lt;p&gt;从定价逻辑来看，长鑫科技此次并未采取激进估值，而是在综合询价结果、行业周期及可比公司估值水平后，将发行价定在略低于网下询价中位数的位置。不过，由于实际募集资金规模明显高于原计划，公司仍在投资风险特别公告中提示，上市后股价存在跌破发行价的风险，提醒投资者充分评估相关风险。&lt;/p&gt;
 &lt;p&gt;根据发行安排，长鑫科技将于&lt;strong&gt;7月16日（T日）启动网上、网下申购，发行价格均为8.66元/股&lt;/strong&gt;，申购时无需缴款，投资者需于&lt;strong&gt;7月20日（T+2）16:00前&lt;/strong&gt;完成缴款。&lt;/p&gt;
 &lt;p&gt;限售安排方面，网上发行股份上市后即可流通；网下发行股份中30%无锁定期，70%锁定6个月。战略配售股份则根据投资者类型设置12个月至36个月不等的锁定期，其中保荐机构跟投锁定24个月，高管及核心员工专项资管计划、阿里云旗下杭州阿里云飞天信息技术有限公司获配股份锁定36个月。&lt;/p&gt;
@@ -171,7 +194,44 @@ PE偏高、PB偏低，估值如何理解？
 &lt;p&gt;&lt;strong&gt;7月最后一周将是二季度财报季的&amp;quot;超级碗&amp;quot;。预计届时将有约36%的标普500市值和33%的纳斯达克100市值完成披露，其中包括&amp;quot;Mag 7&amp;quot;中的4家。至7月底，标普500约60%的成分股预计将完成业绩披露。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，企业回购窗口正逐步重新开启，这将把市场最大的结构性买家重新引入股市。&lt;/p&gt;
 &lt;p&gt;半导体财报的重要性尤为突出。半导体行业目前占标普500指数权重约18%，十年前这一比例仅为3%。与此同时，十家最大半导体公司的平均三个月隐含波动率已从2016年的29%攀升至当前近73%。Rubner指出，半导体公司的财报并非集中于单一周次，而是分散于整个财报日历，这意味着相关事件风险将贯穿7月余下时间及整个8月。&lt;strong&gt;&amp;quot;半导体财报已不再只是一个行业事件，它已成为一个指数级事件。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rubner的结论是：技术性重置已基本完成，接下来的两周将检验基本面能否支撑这轮反弹继续延伸。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 逼近极限！美国最大电网未能达到供电目标，AI已让电力成本飙升60%</title><link>https://wallstreetcn.com/articles/3776962</link><guid>232822369f785005bdbde18c5a3f03be3678d9ecd9fdb021b5d5e0212975d2f1</guid><pubDate>Wed, 15 Jul 2026 00:44:55 GMT</pubDate><description>&lt;p&gt;AI数据中心的电力胃口，正在把美国最大电网逼向临界点。&lt;/p&gt;
+&lt;p&gt;Rubner的结论是：技术性重置已基本完成，接下来的两周将检验基本面能否支撑这轮反弹继续延伸。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美CPI超预期降温，亚太股市全线上涨，韩股暴涨逾7%触发熔断，SK海力士大涨10%</title><link>https://wallstreetcn.com/articles/3776964</link><guid>ceb74ac08a83014b2a66c5644dd2b912b6fce5318923361ced656c07cdbdd8ac</guid><pubDate>Wed, 15 Jul 2026 00:59:52 GMT</pubDate><description>&lt;p&gt;美国通胀数据意外大幅走软，推动华尔街全线上扬，并带动亚太股市周三全面走高，其中韩国综指领涨，存储芯片股借势大幅反弹。&lt;/p&gt;
+&lt;p&gt;周三亚太时段，韩国综合股价指数开盘即拉升、涨超7%，领跑区域市场。MSCI亚太指数整体上涨1.2%，日本东证指数涨约1%，日经225指数涨约1.49%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;三星电子涨逾7%，SK海力士在首尔股市涨逾10%，此前美股ADR单日暴涨27%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;由于KOSPI 200指数期货上涨幅度达5%，韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此番韩国股市强势反弹，很大程度上受益于前一日美国存储芯片板块的回暖。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此前周二美股AI半导体涨3.19%、AI软件基础设施涨3.24%、光通信涨2.92%、代理式AI涨2.93%。个股方面美光科技收涨近5%，英伟达和英特尔均涨逾4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+6月美国CPI超预期降温，7月加息预期骤降
+&lt;p&gt;6月CPI数据构成本日市场走势的核心驱动力。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776924"&gt;据华尔街见闻&lt;/a&gt;，美国通胀全面降温。美国6月CPI同比上涨3.5%远低于预期，环比六年来首次下降，核心CPI涨幅收窄至2.6%，市场对近期加息的担忧迅速消退。&lt;/p&gt;
+&lt;p&gt;Fort Washington高级投资组合经理Dan Carter表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是一次全面的下行惊喜，近期加息已基本出局。市场此前对通胀数据过热保持高度警惕，这份报告对债券市场具有支撑意义，也将推动收益率曲线重新陡峭化。我们的基准预判是美联储将按兵不动，这份数据印证了这一判断。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pacific投资管理的Tiffany Wilding指出，这份低于预期的CPI数据&amp;quot;令人如释重负&amp;quot;，虽然不会完全消除进一步收紧政策的讨论，但应可有效排除7月加息的可能性，并支持她对美联储至少按兵不动至2026年的预期。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;然而，尽管加息预期回落，市场对年内至少一次加息的定价仍未消除，第二次加息的概率约为五五开。eToro的Bret Kenwell也提醒称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;今天的数据提供了喘息空间，而非一切就绪的信号。通胀虽有降温，但尚未消失。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+中东局势升温，油价承压上行
+
+&lt;p&gt;尽管通胀降温带来风险情绪改善，但原油市场走势仍受地缘政治主导。&lt;/p&gt;
+&lt;p&gt;美国宣布恢复对伊朗港口及沿海地区过往船只的海军封锁，并于美东时间下午3时发动新一轮对伊打击，&lt;strong&gt;WTI原油在亚洲早盘上涨约1%至每桶80美元附近。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，美欧精炼油市场呈现历史性紧张态势，中东紧张局势加剧了对燃油供应的担忧，高油价对消费者形成持续压力。&lt;/p&gt;
+&lt;p&gt;高盛的Privorotsky认为布伦特在85美元附近本身尚属可控，真正的故事在精炼产品，馏分油而非原油才是真正的通胀信号，取暖油期货已创下自冲突爆发以来的新高，凸显成品油市场之紧张，任何进一步的中断都会不成比例地冲击通胀。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;他还提醒，不对称战争并不需要真正封锁海峡，只要压制航运量就足以推高能源价格，对于船体更大、更昂贵、更易爆炸的天然气运输而言尤其如此。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美元指数&lt;/strong&gt;亚太时段小幅承压调整0.09%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现货黄金&lt;/strong&gt;则延续涨势，小幅走高0.12%，报4058美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 逼近极限！美国最大电网未能达到供电目标，AI已让电力成本飙升60%</title><link>https://wallstreetcn.com/articles/3776962</link><guid>232822369f785005bdbde18c5a3f03be3678d9ecd9fdb021b5d5e0212975d2f1</guid><pubDate>Wed, 15 Jul 2026 00:44:55 GMT</pubDate><description>&lt;p&gt;AI数据中心的电力胃口，正在把美国最大电网逼向临界点。&lt;/p&gt;
 &lt;p&gt;美国东部时间7月15日，美国最大电网PJM公布2028/2029年度基础剩余容量拍卖（BRA）结果。这一电网覆盖13个州及华盛顿特区，服务超过6700万用户。据彭博报道，本次拍卖是PJM连续第三次未能完成可靠性目标，&lt;strong&gt;供电缺口达6.8吉瓦。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;缺口背后，是数据中心需求的持续爆发。PJM独立市场监察机构Monitoring Analytics总裁Joseph Bowring表示，&lt;strong&gt;数据中心已使PJM供电成本上涨逾60%，仅本次拍卖中数据中心相关成本就达63亿美元。&lt;/strong&gt;若将此前三次拍卖数据合并计算，数据中心给PJM用电用户带来的成本负担接近300亿美元。&lt;/p&gt;
 缺口有多大：相当于7座核电站
@@ -194,26 +254,7 @@ AI需求：供给根本跟不上
 &lt;p&gt;这一机制的核心逻辑是：将新增发电的成本负担转移给超大规模科技公司（hyperscalers），而非继续由普通消费者承担。据彭博报道，PJM尚未提交具体方案，但在白宫和各州州长的强力施压下，该程序将于9月启动，PJM须在本月底前向FERC提交相关文件。&lt;/p&gt;
 &lt;p&gt;Joseph Bowring更进一步呼吁，电网应专门为数据中心单独举行拍卖，&amp;quot;这样消费者就不必为额外成本买单&amp;quot;。&lt;/p&gt;
 &lt;p&gt;Edison Electric Institute总裁Drew Maloney在声明中表示：&amp;quot;PJM用户既要承担高昂的容量成本，又面临供电不足的风险。美国电力公司每天都在努力降低成本、保持电价尽可能可负担，但我们需要迅速推进改革，同时推进当前正在进行的特别措施，以便在整个地区建设更多各类电力基础设施。&amp;quot;&lt;/p&gt;
-&lt;p&gt;7月23日，FERC将召集专题会议讨论电网治理问题，PJM面临的压力届时将进一步集中爆发。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 三连跌！SpaceX距离破发“一步之遥”，而股东解禁即将到来</title><link>https://wallstreetcn.com/articles/3776953</link><guid>0809c791b7d06221d5693798dacd5dd2456cc351320d5790d8c7e573e8689387</guid><pubDate>Wed, 15 Jul 2026 00:02:57 GMT</pubDate><description>&lt;p&gt;SpaceX上市仅数周，股价已岌岌可危。连续三个交易日下跌后，这家马斯克旗下的火箭与卫星公司股价距离IPO发行价仅剩一步之遥，市场对这只史上最大规模IPO的信心正经受严峻考验。&lt;/p&gt;
-&lt;p&gt;SpaceX股价周二下跌2.2%，收于每股136.08美元，仅比上月IPO发行价135美元高出1美元。自上市后的峰值至今，该股已累计下挫约三分之一，市值蒸发近8500亿美元。&lt;/p&gt;
-&lt;p&gt;破发对于一家新上市公司而言，不仅是数字层面的挫败，更是对公司与承销商精心构建的市场叙事的直接冲击。在上市初期便令股东陷入亏损，部分新股从此一蹶不振。与此同时，内部人士持股解禁窗口即将陆续开启，市场供给压力将持续累积。&lt;/p&gt;
-三连跌将股价逼近发行价
-&lt;p&gt;SpaceX于6月12日在纳斯达克完成上市，首日收盘价为160.95美元，创下美国IPO史上最大规模融资纪录。然而，此后股价持续承压，近期连续三个交易日下跌后，已跌破首日收盘价，并逼近135美元的发行价关口。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Mahoney Asset Management首席执行官Ken Mahoney表示，&lt;strong&gt;“我们仍认为SpaceX尚未触底。未来数月将有持续的股票供给涌入市场，需要密切关注届时的需求能否承接。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博数据显示，剔除特殊目的收购公司后，2026年美国IPO整体加权平均回报率已降至5.3%，SpaceX是主要拖累因素之一。该群体的整体回报率约为标普500指数同期表现的一半。&lt;/p&gt;
-高估值与解禁压力构成双重隐忧
-&lt;p&gt;市场对SpaceX的担忧，不仅来自短期股价走势，更源于其估值水平与股票供给的双重压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从估值角度看，SpaceX当前预期市销率超过30倍，位居纳斯达克100指数成分股前列，仅略低于Palantir Technologies Inc.。&lt;/strong&gt;怀疑者认为，这一水平难以为股价提供足够的安全边际。&lt;/p&gt;
-&lt;p&gt;与此同时，公司面临较长的锁定期安排，内部人士持股将在未来数月内分批解禁并陆续流入市场。Ken Mahoney指出，持续的供给释放将对股价形成压制，尤其是在需求尚不明朗的情况下。&lt;/p&gt;
-华尔街分析师仍看多，但市场用脚投票
-&lt;p&gt;尽管股价持续下挫，华尔街分析师的整体立场依然偏多。据彭博汇编数据，摩根士丹利、摩根大通及高盛等十余家投行均以买入评级启动覆盖。目前逾80%的分析师建议买入，平均目标价为236.25美元，较周二收盘价高出逾70%。&lt;/p&gt;
-&lt;p&gt;不过，市场表现与分析师预期之间的背离，折射出投资者对高估值新股的审慎情绪。彭博对过去15年30只主要科技股IPO的分析显示，这些股票在上市首年平均最大跌幅达55%，表明新股上市初期的剧烈波动具有一定普遍性。&lt;/p&gt;
-&lt;p&gt;SpaceX并非今年唯一跌破首日收盘价的大型IPO。彭博数据显示，今年规模最大的10只IPO中，有6只股价已低于首日收盘水平，创纪录的IPO开局之年同样伴随着普遍的波动。&lt;/p&gt;
-破发或触发抄底买盘，部分投资者已在观望
-&lt;p&gt;跌近发行价也可能带来转机。对于此前未能参与IPO认购的投资者而言，135美元附近或构成具有吸引力的入场点位。&lt;/p&gt;
-&lt;p&gt;Wealth Consulting Group首席市场策略师Talley Leger表示，&lt;strong&gt;他在IPO阶段选择观望，原因是预判SpaceX随后将被纳入纳斯达克指数&lt;/strong&gt;——其公司持有追踪该指数的基金。&amp;quot;如果跌势继续，我可能会考虑买入一些个股，因为我认同这家公司的愿景与目标，&amp;quot;Leger说。&lt;/p&gt;
-&lt;p&gt;SpaceX上周刚通过快速纳入规则被添加至纳斯达克100指数。投资者与承销商将密切关注SpaceX与韩国芯片制造商SK Hynix Inc.美国存托凭证在未来数周的走势，两家公司在不到一个月内相继完成了创纪录的上市。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌</title><link>https://wallstreetcn.com/articles/3776859</link><guid>394f7b1e1a1213df9b71e5ea247985f86c0002daeeeab705f2a7a4fefb7e12c7</guid><pubDate>Tue, 14 Jul 2026 23:46:30 GMT</pubDate><description>&lt;p&gt;美国CPI超预期降温大幅削弱了美联储7月加息的预期，促使美债收益率下跌、美元走弱。&lt;/p&gt;
+&lt;p&gt;7月23日，FERC将召集专题会议讨论电网治理问题，PJM面临的压力届时将进一步集中爆发。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌</title><link>https://wallstreetcn.com/articles/3776859</link><guid>394f7b1e1a1213df9b71e5ea247985f86c0002daeeeab705f2a7a4fefb7e12c7</guid><pubDate>Tue, 14 Jul 2026 23:46:30 GMT</pubDate><description>&lt;p&gt;美国CPI超预期降温大幅削弱了美联储7月加息的预期，促使美债收益率下跌、美元走弱。&lt;/p&gt;
 &lt;p&gt;与此同时，大型银行财报季强势开局，共同推动市场风险偏好回升，美股、黄金和加密货币同步上扬。&lt;/p&gt;
 &lt;p&gt;而原油则因霍尔木兹海峡的断供风险录得上涨，但受政治言论干预冲高回落。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -472,38 +513,4 @@ AI硬件全线狂飙，存储芯片荒撕裂盘面
 &lt;p&gt;在此次业绩预警之前，华尔街对IBM的预期普遍乐观，与当日市场反应形成鲜明对比。据彭博追踪的分析师数据，IBM过去12个月平均目标价为300美元，在25位覆盖分析师中，17位给予买入评级，6位持中性立场，仅2位建议卖出。&lt;/p&gt;
 &lt;p&gt;瑞银的David Vogt指出，此次结果可能促使投资者重新评估IBM的长期软件增长前景，尤其是2027年及以后的展望——基础设施成本上升与IT预算收紧的双重压力正在持续压制需求。&lt;/p&gt;
 &lt;p&gt;他认为，Red Hat等增长较快的业务或许已不足以对冲Transaction Processing业务的持续疲软，IBM将面临更大压力，需要通过较大规模并购或其他举措来维持软件增长轨迹。&lt;/p&gt;
-&lt;p&gt;巴克莱的Andrew Keches则提示，IBM上一季度财报电话会议中曾明确提及并购意愿，表示当前估值具有吸引力、收购胃口可能高于正常年份。此次业绩不及预期本身并不直接指向并购动向，但疲弱的业绩无疑将为这一议题增添更多不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic推出教师版Claude，Stride股价承压下跌</title><link>https://wallstreetcn.com/articles/3776949</link><guid>e8889fa63ea0c0f7d32ba9d98b3df6f95f2e0249024b690f98e3f6723ad83977</guid><pubDate>Tue, 14 Jul 2026 22:25:37 GMT</pubDate><description>&lt;p&gt;AI巨头入局K-12教育市场，搅动教育科技板块格局。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;7月14日，Anthropic宣布推出Claude for Teachers，向美国K-12在职教师免费开放其高级AI功能&lt;/strong&gt;，直接冲击教育科技公司Stride的核心业务，引发市场对后者竞争地位的担忧。&lt;/p&gt;
-&lt;p&gt;消息公布后，Stride股价盘中最大跌幅达7.7%，最终收跌约5.6%至86.88美元，创下自今年6月15日以来单日最大跌幅，当时该股因丢失德克萨斯州某学区合同而重挫14.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Stride股价较去年7月已累计下跌约34%，此前该公司已深陷技术平台问题及注册人数承压等困境。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;不过据彭博智库分析师Nicole D&amp;#x27;Souza表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;目前判断Claude for Teachers能否真正替代Stride等产品还为时尚早。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;但她同时指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;鉴于Stride近期的技术上线问题已导致较高的退出率，学校可能会寻找替代平台，进而削弱Stride的市场地位。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-教师版Claude免费开放，功能全面
-
-&lt;p&gt;根据Anthropic公布的细节，Claude for Teachers将为美国全体K-12教师提供Claude高级版权限，内容覆盖基于循证研究的课程体系，以及与全美50个州学术标准对齐的教学技能资源库。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在2027年6月30日前完成身份验证的教师，可获得为期一年的平台免费使用资格。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该平台已接入九家K-12工具合作伙伴，包括ASSISTments、Canva Education及MagicSchool。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在数据安全方面&lt;/strong&gt;，Anthropic依据《家庭教育权利和隐私法》（FERPA）制定了K-12数据处理附录，以保障数据隐私，并正与美国教师联合会就K-12隐私实践条款进一步协调对接。&lt;/p&gt;
-&lt;p&gt;Anthropic还计划与美国教师联合会合作，面向教育工作者推出一门AI素养课程，并将率先在底特律公立学校社区学区开展Claude for Teachers的试点评估。&lt;/p&gt;
-
-直指Stride核心业务，竞争威胁浮现
-
-&lt;p&gt;Claude for Teachers的核心功能之一，是协助教师起草可针对不同学生进行个性化调整的教案，这与Stride依托在线课程和软件平台提供差异化服务的商业模式形成直接竞争。&lt;/p&gt;
-&lt;p&gt;美国教师联合会主席Randi Weingarten表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Anthropic在Claude for Teachers中所做的原则性承诺至关重要——这是一款由教育者参与设计、服务于教育者的工具，旨在为他们提供教学支持，并让他们有更多时间专注于学习中最根本的人际关系。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;事实上，Stride近期已面临多重逆风&lt;/strong&gt;：技术平台上线受阻导致学生注册人数下滑，加之合同流失，公司股价已持续承压。&lt;/p&gt;
-&lt;p&gt;分析师担忧，在Stride自身市场地位尚未企稳之际，一个免费、由知名AI公司背书的替代方案入场，或将加速学区的平台迁移。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Claude for Teachers的发布对整个教育科技板块情绪形成扰动。&lt;/strong&gt;周二，多邻国跌约3%，McGraw Hill跌逾4%，Coursera则逆势小涨0.7%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;整体来看，市场对AI工具向教育领域大规模、低成本渗透的前景仍保持高度警惕。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于依赖订阅制收费模式的教育软件公司而言，来自科技巨头的免费AI产品构成的竞争压力，或将成为板块估值的持续性压制因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;巴克莱的Andrew Keches则提示，IBM上一季度财报电话会议中曾明确提及并购意愿，表示当前估值具有吸引力、收购胃口可能高于正常年份。此次业绩不及预期本身并不直接指向并购动向，但疲弱的业绩无疑将为这一议题增添更多不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
