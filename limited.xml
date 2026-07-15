@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 15 Jul 2026 23:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V</title><link>https://wallstreetcn.com/articles/3776964</link><guid>ceb74ac08a83014b2a66c5644dd2b912b6fce5318923361ced656c07cdbdd8ac</guid><pubDate>Wed, 15 Jul 2026 20:42:23 GMT</pubDate><description>&lt;p&gt;7月15日，6月PPI数据全面低于预期，确认了前一日CPI的降温信号。7月FOMC加息概率从42%骤降至17%，基本被市场排除。美债全线走强，2年期收益率单日下行7个基点，连续两日累计降幅超过15个基点。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 15 Jul 2026 23:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概跑赢大盘，美光、闪迪暴跌8%</title><link>https://wallstreetcn.com/articles/3776964</link><guid>ceb74ac08a83014b2a66c5644dd2b912b6fce5318923361ced656c07cdbdd8ac</guid><pubDate>Wed, 15 Jul 2026 22:59:17 GMT</pubDate><description>&lt;p&gt;7月15日，6月PPI数据全面低于预期，确认了前一日CPI的降温信号。7月FOMC加息概率从42%骤降至17%，基本被市场排除。美债全线走强，2年期收益率单日下行7个基点，连续两日累计降幅超过15个基点。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;叠加美对伊朗发动新一轮军事打击，中东地缘溢价再度升温。美股大盘指数波澜不惊。标普500微涨0.38%，日内振幅仅0.72%，为年内最低水平。高盛称当日成交量同比10日均值下降11%，形容为&amp;quot;难以置信的安静&amp;quot;。&lt;/p&gt;
 &lt;p&gt;资金从半导体赢家向防御性Mag7的大规模轮动。Mag7强势爆发，苹果大涨4.01%，成为当天资金的避风港。而存储芯片板块惨遭猛烈抛售，美光和闪迪双双暴跌逾8%。&lt;/p&gt;
@@ -38,7 +38,7 @@ Mag7爆发苹果领涨4%，大盘窄幅震荡标普微涨
 &lt;p&gt;贝莱德大涨6.63%，管理资产规模达到创纪录的15.34万亿美元。摩根士丹利Q2每股收益3.46美元超预期，FICC收入强劲，股价微涨0.37%。&lt;/p&gt;
 &lt;p&gt;ASML上涨2.23%，Q2业绩超预期并上调全年指引，验证了半导体资本支出需求依然健康。这与存储芯片的暴跌形成有趣对比——设备商仍在受益于AI算力扩张，而存储商面临周期见顶担忧。&lt;/p&gt;
 &lt;p&gt;太空探索公司SPCX股价跌破135美元IPO发行价，为上市以来首次，债务问题持续困扰。&amp;quot;支票开具者&amp;quot;与&amp;quot;支票接收者&amp;quot;的分化正在收窄，市场意识到后者的困境终将反噬前者。&lt;/p&gt;
-&lt;p&gt;原油方面，WTI盘中跌破80美元。DoE数据显示美国原油产量创纪录，产品出口下降，SPR释放放缓，缓解了供应担忧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原油方面&lt;/strong&gt;，WTI盘中跌破80美元。DoE数据显示美国原油产量创纪录，产品出口下降，SPR释放放缓，缓解了供应担忧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;但美东时间下午3点美军对伊朗发动新一轮打击，特朗普宣布下周将继续打击，油价获地缘溢价支撑反弹。&lt;/p&gt;
 &lt;p&gt;高盛分析师Yulia Grigsby指出，霍尔木兹海峡最新封锁令市场每日短缺1340万桶原油，需要更大的需求破坏和库存消耗来平衡。汽油和取暖油创冲突以来新高，欧洲天然气紧随其后，对欧洲的通胀风险远大于美国。&lt;/p&gt;
@@ -46,8 +46,26 @@ Mag7爆发苹果领涨4%，大盘窄幅震荡标普微涨
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;盘中跳升至65500美元，但午后回落，仍接近沃什上任前的高点。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周三美股指收涨，小盘股跑赢大盘。苹果大涨4.01%。ASML上涨2.23%，Q2业绩超预期并上调全年指引。美光暴跌8.02%，闪迪大跌8.12%，西部数据跌幅亦超过7%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周三标普收涨不到0.4%，半导体指数跌约2.1%，费城银行指数涨超1.5%继续创收盘历史新高。苹果大涨4.01%。ASML上涨2.23%，Q2业绩超预期并上调全年指引。美光暴跌8.02%，闪迪大跌8.12%，西部数据跌幅亦超过7%。&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;标普500指数收涨28.81点，涨幅0.38%，报7572.40点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;道琼斯工业平均指数收涨150.37点，涨幅0.29%，报52658.64点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纳指收涨162.219点，涨幅0.62%，报26269.227点。纳斯达克100指数收跌83.692点，跌幅0.28%，报29502.569点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;罗素2000指数收涨0.39%，报2976.259点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恐慌指数VIX收跌5.03%，报15.67。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -89,7 +107,7 @@ Mag7爆发苹果领涨4%，大盘窄幅震荡标普微涨
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;德国股市收跌约0.6%，荷兰股指涨超0.7%继续创收盘历史新高，但阿斯麦跌0.4%。欧元区蓝筹股指收跌超0.2%、成分股英飞凌跌约6.3%，瑞士历峰涨约6.7%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;德国股市收跌约0.6%，荷兰股指涨超0.7%、继续创收盘历史新高，但阿斯麦跌0.4%。欧元区蓝筹股指收跌超0.2%、成分股英飞凌跌约6.3%，瑞士历峰涨约6.7%。&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;泛欧欧股：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
