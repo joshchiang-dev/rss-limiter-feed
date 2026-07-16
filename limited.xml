@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 16 Jul 2026 22:59:38 GMT</lastBuildDate><item><title>[华尔街见闻] 澜起科技上半年净利最高预增81%，董事长提议3亿至6亿元回购，回应韩国反垄断调查</title><link>https://wallstreetcn.com/articles/3777135</link><guid>9721c8497e8df732cd8878b06c957b5cf13b62b44918715fdd12cf75ce1cf6c3</guid><pubDate>Thu, 16 Jul 2026 19:13:41 GMT</pubDate><description>&lt;p&gt;澜起科技周四披露三项公告，在交出一份净利润最高同比增长81.2%的半年度业绩预告的同时，董事长兼首席执行官提议启动最高6亿元A股回购计划，并回应韩国办公室遭现场调查事件。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 16 Jul 2026 23:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 澜起科技上半年净利最高预增81%，董事长提议3亿至6亿元回购，回应韩国反垄断调查</title><link>https://wallstreetcn.com/articles/3777135</link><guid>9721c8497e8df732cd8878b06c957b5cf13b62b44918715fdd12cf75ce1cf6c3</guid><pubDate>Thu, 16 Jul 2026 19:13:41 GMT</pubDate><description>&lt;p&gt;澜起科技周四披露三项公告，在交出一份净利润最高同比增长81.2%的半年度业绩预告的同时，董事长兼首席执行官提议启动最高6亿元A股回购计划，并回应韩国办公室遭现场调查事件。&lt;/p&gt;
 &lt;p&gt;公司预计，2026年上半年实现营业收入约33.35亿元，同比增长约26.6%；归属于上市公司股东的净利润为19亿元至21亿元，同比增长63.9%至81.2%，延续了AI产业链需求带动下的高增长态势。&lt;/p&gt;
 &lt;p&gt;与此同时，公司董事长兼首席执行官杨崇和提议，公司使用自有资金回购3亿元至6亿元A股股份，以维护公司价值及股东权益。回购提议提出的背景是，公司A股股价连续20个交易日累计跌幅超过20%，已触发相关规则规定的回购条件。&lt;/p&gt;
 &lt;p&gt;针对外界关注的韩国反垄断调查事项，澜起科技表示，公司韩国办公室7月15日遭韩国检方现场搜查及取证，目前公司及董事、员工均未被任何政府机关指控存在不当行为，公司经营正常，将继续配合调查，并称现阶段无法预测调查持续时间及最终结果。&lt;/p&gt;
@@ -372,22 +372,7 @@ AI产业爆发成最大顺风，国产算力迎政策与需求双重催化
 &lt;p&gt;在3.5 Pro正式发布之前，谷歌现有的Gemini 3.5 Flash已在市场上留下参差不齐的口碑。设计平台Figma的产品经理Rodrigo Davies表示，Figma已将3.5 Flash接入其新推出的AI助手&amp;quot;Figma agent&amp;quot;，认为该模型在速度与质量之间实现了良好平衡。&lt;/p&gt;
 &lt;p&gt;然而，拉丁美洲在线教育平台Platzi的创始人兼CEO Freddy Vega给出了截然不同的评价。他指出，3.5 Flash定位尴尬：价格高于上一代3.1 Flash，速度却更慢，与竞争对手的旗舰产品相比能力差距依然明显，且在处理结构化数据时表现欠佳。&lt;/p&gt;
 &lt;p&gt;他表示，其团队在需要兼顾速度与推理能力的任务上，已从谷歌转向Anthropic的中端模型Claude 3.5 Sonnet。&lt;/p&gt;
-&lt;p&gt;AI研究人员普遍认为，Gemini目前最大的竞争优势在于对谷歌搜索数据的调用能力，而在构建最强模型这一维度上，Anthropic与OpenAI已居于领先位置。谷歌表示，公司在多模态输入处理及AI世界模型等领域仍具备差异化优势，但能否将这些优势转化为市场份额，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美民主党参议员沃伦要求调查美联储理事鲍曼，称其委托SVB倒闭审查或涉嫌滥用政府资源</title><link>https://wallstreetcn.com/articles/3777150</link><guid>212ae952895ef9141eb4c3e5dc6d6bb08005d398bf7ce9f2f17a4db944ccf3df</guid><pubDate>Thu, 16 Jul 2026 22:13:08 GMT</pubDate><description>&lt;p&gt;美联储监管副主席米歇尔·鲍曼（Michelle Bowman）再度陷入政治风波。&lt;/p&gt;
-&lt;p&gt;民主党参议员伊丽莎白·沃伦（Elizabeth Warren）就其委托顾问公司对硅谷银行（SVB）倒闭事件展开新一轮调查一事，致函美联储监察长，要求启动正式调查。&lt;/p&gt;
-&lt;p&gt;沃伦在致监察长Michael Horowitz的信中指出，此前两项独立调查均已认定，鲍曼本人投票支持的去监管政策是SVB倒闭的重要成因之一。&lt;/p&gt;
-&lt;p&gt;她质疑鲍曼此番委托的调查是&amp;quot;浪费政府资源的第四次重审&amp;quot;，警告称，若此举意在规避或推翻对其不利的既有结论，则可能构成对政府资源的滥用。&lt;/p&gt;
-
-鲍曼的政策立场与SVB调查结论存在直接关联
-
-&lt;p&gt;沃伦在信中的核心指控，指向鲍曼个人政策记录与SVB倒闭调查结论之间的内在关联。&lt;/p&gt;
-&lt;p&gt;此前两项针对SVB倒闭事件的审查均指出，相关去监管措施削弱了对中型银行的监管力度，加剧了风险积累，最终促成2023年3月SVB的骤然崩溃。鲍曼在担任美联储理事期间，曾就上述去监管政策投下赞成票。&lt;/p&gt;
-&lt;p&gt;沃伦据此认为，鲍曼可能正是因为自身政策行为被此前调查点名，才主导发起新一轮调查，以期改写对其不利的官方叙述。她将这一行为定性为潜在的政府资源滥用，要求监察长介入核查。&lt;/p&gt;
-
-合同授予程序亦受质疑，与前任监管副主席存在关联
-
-&lt;p&gt;此次调查委托还引发了另一层面的程序性疑虑。沃伦在信中指出，涉事顾问合同并非经由竞争性招标程序授予，存在程序合规性问题。&lt;/p&gt;
-&lt;p&gt;令这一质疑更加敏感的是，承接该合同的顾问公司与鲍曼的前任、前美联储监管副主席Randal Quarles存在关联。沃伦认为，这一背景进一步加剧了外界对合同授予是否公正透明的担忧，亦令整个委托流程的独立性存疑。&lt;/p&gt;
-&lt;p&gt;沃伦在信中要求监察长Horowitz对上述两方面问题——即委托动机是否正当及合同程序是否合规——展开全面调查。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录</title><link>https://wallstreetcn.com/articles/3777138</link><guid>b483a0098f5fd8474bf87faff6879740458a3dd57e01f374e0b0c95e444b6209</guid><pubDate>Thu, 16 Jul 2026 19:25:57 GMT</pubDate><description>&lt;p&gt;月之暗面正式打响中国大模型新一轮“开源战”。&lt;/p&gt;
+&lt;p&gt;AI研究人员普遍认为，Gemini目前最大的竞争优势在于对谷歌搜索数据的调用能力，而在构建最强模型这一维度上，Anthropic与OpenAI已居于领先位置。谷歌表示，公司在多模态输入处理及AI世界模型等领域仍具备差异化优势，但能否将这些优势转化为市场份额，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录</title><link>https://wallstreetcn.com/articles/3777138</link><guid>b483a0098f5fd8474bf87faff6879740458a3dd57e01f374e0b0c95e444b6209</guid><pubDate>Thu, 16 Jul 2026 19:25:57 GMT</pubDate><description>&lt;p&gt;月之暗面正式打响中国大模型新一轮“开源战”。&lt;/p&gt;
 &lt;p&gt;7月16日周四，月之暗面正式发布新一代开源基础模型Kimi K3，参数规模达2.8万亿，并同步上线API服务及开发者文档。新华社报道称，评测中，Kimi K3综合智能水平接近全球前沿的闭源模型，并指出，这是目前全球参数最大的开源模型，标志着我国人工智能（AI）模型发展迈出新的一步。&lt;/p&gt;
 &lt;p&gt;Kimi K3是月之暗面迄今最强旗舰模型，专为长程智能体编程与自我演进工作流而打造。它引入了月之暗面自研的Kimi Delta Attention（KDA）混合线性注意力机制以及 Attention Residuals（AttnRes）结构，通过优化长序列信息处理和深层网络信息传递能力，提高大规模模型的训练效率和推理表现。&lt;/p&gt;
 新技术实现百万Token上下文高达6.3倍解码加速
@@ -471,4 +456,32 @@ MONA L03全球上市，售价12.38万元起
 &lt;p&gt;小鹏还针对欧洲用户升级了智能泊车能力，可适应欧洲老城区狭窄车位及无划线停车等典型场景。&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国堪萨斯城联储主席：通胀过热、持续超标时间过长</title><link>https://wallstreetcn.com/articles/3777144</link><guid>5736f6d4492aea6c5f76cadaf44afe1014f0351e0a019ed028a1d13afed01b8d</guid><pubDate>Thu, 16 Jul 2026 20:46:49 GMT</pubDate><description>&lt;p&gt;美联储多位官员本周密集发出警告，通胀仍是首要威胁，政策路径尚未明朗。&lt;/p&gt;
+&lt;p&gt;7月16日，美国堪萨斯城联储主席Jeff Schmid表示，&lt;strong&gt;通胀是他目前最大的担忧，未来数月通胀进一步加速的风险依然存在。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他明确表示，&lt;strong&gt;6月通胀数据好于预期，但将其视为趋势开端&amp;quot;为时尚早&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Schmid的表态与多位美联储官员本周的立场形成共鸣。&lt;/p&gt;
+&lt;p&gt;达拉斯联储主席Lorie Logan此前已明确呼吁加息，新任美联储主席沃什在国会作证时亦表示，政策制定者对高通胀&amp;quot;零容忍&amp;quot;，誓言恢复价格稳定，但未就加息立场给出明确信号。&lt;/p&gt;
+&lt;p&gt;上述表态令市场对近期加息预期有所升温，尽管本周通胀数据的超预期降温一度令投资者减少了对本月加息的押注。&lt;/p&gt;
+
+通胀压力广泛，非能源领域同样承压
+
+&lt;p&gt;&lt;strong&gt;Schmid强调，当前通胀压力已超出能源价格范畴，延伸至涵盖商品与服务的广泛篮子，食品价格尤为突出，其涨幅已高于疫情前平均水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通胀方面，我们仍未达到目标。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;他还对&amp;quot;政策制定者可以忽视一次性价格冲击&amp;quot;这一经济学理论提出质疑，认为此类理论未能充分考量需求因素的作用。&lt;/strong&gt;Schmid说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;疫情留给我们的持久教训之一，就是通胀从来不只是供给问题。强劲需求几乎始终是推手之一。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+经济基本面仍具韧性
+
+&lt;p&gt;尽管对通胀态度审慎，Schmid对美国经济整体走势给出了较为乐观的判断。他表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;劳动力市场处于平衡状态，增长保持韧性。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;美联储6月16日至17日政策会议纪要显示，随着劳动力市场方面的担忧略有缓解，官员们对通胀的忧虑正在加剧。&lt;/p&gt;
+&lt;p&gt;在新任主席沃什主持的首次会议上，官员一致投票决定将基准利率维持在3.5%至3.75%区间，这已是连续第四次按兵不动。&lt;/p&gt;
+&lt;p&gt;本周公布的两份数据显示，6月生产者价格与消费者价格涨幅均低于预期，投资者据此降低了对本月加息的预期。&lt;/p&gt;
+&lt;p&gt;然而，包括Schmid在内的多位官员接连发出警示，表明决策层仍在密切评估是否需要采取进一步行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
