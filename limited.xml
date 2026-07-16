@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 16 Jul 2026 18:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评台积电财报：毛利率”略弱“，资本支出意外增加提振AI供应链信心</title><link>https://wallstreetcn.com/articles/3777134</link><guid>11ec64fcc632ce820ecc625a0f4cfe9a305e0778eb4e612e5793efa15143f73c</guid><pubDate>Thu, 16 Jul 2026 16:09:30 GMT</pubDate><description>&lt;p&gt;台积电再次交出一份超预期的成绩单，也为近期市场关于AI投资周期是否见顶的争论给出了明确答案。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 16 Jul 2026 18:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评台积电财报：毛利率”略弱“，资本支出意外增加提振AI供应链信心</title><link>https://wallstreetcn.com/articles/3777134</link><guid>11ec64fcc632ce820ecc625a0f4cfe9a305e0778eb4e612e5793efa15143f73c</guid><pubDate>Thu, 16 Jul 2026 16:09:30 GMT</pubDate><description>&lt;p&gt;台积电再次交出一份超预期的成绩单，也为近期市场关于AI投资周期是否见顶的争论给出了明确答案。&lt;/p&gt;
 &lt;p&gt;公司不仅二季度营收和盈利维持高增长，更罕见地大幅上调全年营收和资本支出指引，并明确表示未来数年的投资强度将继续提升，释放出AI需求仍处于快速扩张阶段的强烈信号。&lt;/p&gt;
 &lt;p&gt;对华尔街而言，&lt;strong&gt;相比单季业绩，更重要的是管理层对未来需求的判断。&lt;/strong&gt;随着资本开支上调、AI加速器增长预期进一步增强，以及先进产能持续扩建，市场对AI基础设施景气周期的持续时间再次获得验证。&lt;/p&gt;
 &lt;p&gt;多家投行认为，台积电此次上调全年展望不仅意味着自身成长动能进一步增强，也将提振整个AI半导体产业链信心，半导体设备、先进封装、存储等环节均有望继续受益。&lt;strong&gt;尽管毛利率指引略低于部分乐观预期，但机构普遍认为，这更多反映新制程投产带来的阶段性压力，并不改变AI需求长期向上的基本逻辑。&lt;/strong&gt;&lt;/p&gt;
@@ -545,16 +545,29 @@ AI产业爆发成最大顺风，国产算力迎政策与需求双重催化
 &lt;li&gt;&lt;strong&gt;金融行业方面&lt;/strong&gt;，瑞穗银行（Mizuho）计划建设日本金融业规模最大的本地AI工厂，起步配置为英伟达DGX B200系统；三井住友金融集团旗下日本综合研究所（JRI）已部署AI工厂，基于英伟达Nemotron开放模型将金融数据转化为智能；乐天银行则将利用英伟达Agent Toolkit开发交易基础模型。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;量子计算方面&lt;/strong&gt;，日本理化学研究所（RIKEN）两台由英伟达GB200驱动的超级计算机已开始运行：RIKYU部署了1600块英伟达Blackwell GPU，用于支持开放基础模型开发；量子-HPC系统ROQUO则集成了540块Blackwell GPU，与RIKEN园区内的量子计算机实现紧密连接。三菱化学、瑞穗银行、庆应义塾大学、AIST等机构与英伟达合作，在分子光谱分析工作流中实现了相较纯CPU节点13.4倍的加速。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小鹏汽车：今年实现飞行汽车量产，MONA L03全球上市，售价12.38万元起</title><link>https://wallstreetcn.com/articles/3777130</link><guid>0cf65df3f7c62f70a116149a310697660b6c0e11fd20c12b228e8ce589a3afb5</guid><pubDate>Thu, 16 Jul 2026 15:40:26 GMT</pubDate><description>&lt;p&gt;小鹏汽车将在今年实现首款飞行汽车量产，已形成聚焦个人和面向多人的两大产品体系，收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。小鹏MONA L03全球上市，售价12.38万元起，预售订单量已超过小鹏所有车型同期预售纪录。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;7月16日，小鹏MONA L03在德国慕尼黑举办全球发布会，会上披露了飞行汽车业务最新进展。&lt;/p&gt;
-&lt;p&gt;据小鹏汽车官方微博，过去13年，小鹏持续投入飞行汽车研发，并将在今年实现首款飞行汽车量产，推动低空出行从概念加速走向现实。&lt;br&gt;&lt;br&gt;目前，小鹏已形成两大飞行产品体系：&lt;strong&gt;「陆地航母」聚焦个人低空飞行体验，全新eVTOL「A868」则面向多人、长航程的高效出行需求，覆盖不同距离与场景下的低空出行方式。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;截至目前，&lt;strong&gt;小鹏飞行汽车已收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;为推动飞行汽车规模化落地，小鹏已建成全球首个规划年产能1万台、建筑面积达12万平方米的飞行汽车工厂，率先迈入规模化量产阶段。&lt;br&gt;&lt;br&gt;欧洲是全球航空工业的重要市场之一，拥有严苛的安全标准与成熟的监管体系。目前，EASA已发布全球首份eVTOL专用适航认证技术规范，低空飞行产业正从技术探索走向规范化发展。&lt;br&gt;&lt;br&gt;未来，小鹏期待进入欧洲及更多国际市场，让飞行汽车不再只是少数人的体验，而是成为普通用户真正可购买、可使用的全新出行方式。&lt;/p&gt;
-MONA L03全球上市，售价12.38万元起
-&lt;p&gt;&lt;strong&gt;小鹏MONA L03纯电版本在中国市场的正式售价区间为1&lt;/strong&gt;&lt;strong&gt;2.38万—15.68万元，超级增程版本售价区间为12.38万—14.68万元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小鹏集团董事长、CEO何小鹏表示，小鹏MONA L03的预售订单量，&lt;strong&gt;已超过小鹏所有车型同期预售纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新车纯电版本在德国市场的起售价为3.56万欧元（约合人民币27.6万元），超级增程版起售价为3.86万欧元（约合人民币29.9万元）。&lt;/p&gt;
-&lt;p&gt;小鹏集团通用智能中心负责人刘先明表示，智能化始终是集团的核心能力。小鹏智能驾驶系统第二代VLA物理世界大模型，已实现同一套模型打通中国与欧洲，目前正加快推进欧洲市场量产适配。&lt;/p&gt;
-&lt;p&gt;小鹏还针对欧洲用户升级了智能泊车能力，可适应欧洲老城区狭窄车位及无划线停车等典型场景。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月零售销售环比增长0.2%，油价下跌拖累整体增速但核心消费依然稳健</title><link>https://wallstreetcn.com/articles/3777126</link><guid>400071c81c7fb1199ca38f70d89febdf315d632016bfe886cceca990c905b137</guid><pubDate>Thu, 16 Jul 2026 12:30:22 GMT</pubDate><description>&lt;p&gt;美国6月零售销售数据延续温和扩张态势，消费韧性再度超出市场对经济前景的悲观预期。&lt;/p&gt;
+&lt;p&gt;据美国人口普查局周四公布的数据，6月零售总额环比增长0.2%，符合市场预期，此前5月数据向上修正至环比增长1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;加油站销售额大幅下滑成为当月主要拖累项，但&lt;strong&gt;剔除加油站后，零售销售环比增长0.7%，显示消费者支出的内生动能仍然较强。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数据公布后，美元指数波动有限，美股期货短线走低，纳斯达克100指数期货跌约1%。&lt;/p&gt;
+&lt;p&gt;直接纳入GDP核算的控制组销售额环比增长0.5%，与预期一致，为市场对第二季度消费贡献的判断提供了积极支撑。在消费者信心调查持续低迷的背景下，实际消费数据的强韧表现，再度凸显了调查情绪与实际行为之间的背离。&lt;/p&gt;
 
+油价拖累表面数据，剔除后消费画面明显改善
+
+&lt;p&gt;6月零售数据的最大拖累来自加油站。受全国平均泵价每加仑下跌约50美分影响，加油站销售额单月环比下滑5.3%，创2022年12月以来最大单月降幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;剔除汽车及汽油后，零售销售环比增长0.4%，与预期持平。核心消费（不含汽车）环比小幅下降0.2%，但分析人士指出，汽油消费的下滑是核心数据承压的主要原因，其余消费品类整体保持平稳。&lt;/p&gt;
+&lt;p&gt;13个零售品类中有7个录得增长。非实体零售商销售额环比跳升1.9%，Amazon Prime Day促销活动被认为是重要推动因素；体育用品及爱好用品商店、电子及家电商店等可选消费品类亦同步上涨。餐饮及酒吧消费小幅增长，健康护理及食品饮料销售则略有回落。&lt;/p&gt;
+
+控制组强于季节性，GDP贡献预期稳固
+
+&lt;p&gt;控制组销售额——即剔除汽车、汽油、建材和食品服务后直接用于核算个人消费支出的指标——环比增长0.5%，符合预期。这一数据被市场视为衡量消费对经济增长实质贡献的核心参考，其稳健表现有助于巩固市场对第二季度GDP消费分项的预判。&lt;/p&gt;
+&lt;p&gt;与此同时，经CPI粗略调整后的实际零售销售额自去年12月的负增长持续回升，6月已升至2022年3月以来的最高水平，反映出通胀压力边际缓解背景下消费者实际购买力的改善。&lt;/p&gt;
+
+低收入群体承压缓解，各收入层消费均现回暖
+
+&lt;p&gt;据彭博报道，美国银行信用卡数据显示，6月各收入阶层的消费均有所提速，其中低收入家庭从油价下跌中受益尤为明显。此前，加油站价格冲击使低收入家庭必要支出占比上升，可自由支配支出空间受到更大挤压，形成消费分化的&amp;quot;K型&amp;quot;结构。&lt;/p&gt;
+&lt;p&gt;Adobe数据亦显示，今年Amazon Prime Day期间，全渠道在线消费规模较去年同期有所增长，进一步佐证了当月零售数据的改善趋势。&lt;/p&gt;
+&lt;p&gt;尽管消费者信心调查仍显示情绪低迷，但美国消费者的实际支出行为表明，油价回落带来的可支配收入改善，以及零售商促销活动的带动，正在为消费提供短期缓冲。随着汽油价格近期出现小幅反弹，这一缓冲效应能否持续延伸至下半年，仍是市场关注的焦点之一。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 黄金ETF登顶：大类配置时代徐徐开启（07.16）</title><link>http://xueqiu.com/9391624441/400438451</link><guid>e0712edd2b61f177d77631d057884e2b004341910d841091eacd1eb0ab565980</guid><pubDate>Thu, 16 Jul 2026 09:09:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;随着市场逐步企稳，某队完成阶段目标后，陆续撤出权益类ETF，主要宽基如沪深300、中证500等相关产品规模出现一定回落。&lt;/p&gt;</description></item><item><title>[今日雪球] 我的投资体系2026.7.16</title><link>http://xueqiu.com/6730074573/400503290</link><guid>6e3b418371111550349a0449f64a920e9f714bb9f6893ac773830c7aafb81bbe</guid><pubDate>Thu, 16 Jul 2026 09:09:20 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;value望宸&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;如果每天早上醒来，账户里的股票、债券、商品和现金都会自动变成现金，开盘以后让我重新买一次，我还会原样买回去吗？&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 7.16光通信行业更新</title><link>http://xueqiu.com/8141527616/400545382</link><guid>39ce888a7aafad1d958425db6476a068480e9af2438f052366070d6b4a1f1343</guid><pubDate>Thu, 16 Jul 2026 09:09:25 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;杨爽511&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;持股三年多来，以前的中新兄弟波动可比现在大得多了，腰斩的次数都有2次，这波其实还蛮温柔的了。&lt;/p&gt;</description></item></channel></rss>
