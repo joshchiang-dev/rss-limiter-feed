@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 17 Jul 2026 00:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 业绩好小跌、业绩差暴跌！美国科技股深陷“恶性循环”</title><link>https://wallstreetcn.com/articles/3777157</link><guid>91e1f31f0ec56b8cd065d4ea52c2fe5e10ebc0e7c2969a511b736ef6fda40e5e</guid><pubDate>Fri, 17 Jul 2026 00:08:15 GMT</pubDate><description>&lt;p&gt;美国科技股正陷入一种令投资者进退两难的困境：&lt;strong&gt;亮眼的财报无法提振股价，糟糕的业绩则引发暴跌。&lt;/strong&gt;这一非对称的市场反应，正在动摇华尔街对AI投资叙事的信心，并加速资金从高估值科技股中撤离。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 17 Jul 2026 00:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 业绩好小跌、业绩差暴跌！美国科技股深陷“恶性循环”</title><link>https://wallstreetcn.com/articles/3777157</link><guid>91e1f31f0ec56b8cd065d4ea52c2fe5e10ebc0e7c2969a511b736ef6fda40e5e</guid><pubDate>Fri, 17 Jul 2026 00:08:15 GMT</pubDate><description>&lt;p&gt;美国科技股正陷入一种令投资者进退两难的困境：&lt;strong&gt;亮眼的财报无法提振股价，糟糕的业绩则引发暴跌。&lt;/strong&gt;这一非对称的市场反应，正在动摇华尔街对AI投资叙事的信心，并加速资金从高估值科技股中撤离。&lt;/p&gt;
 &lt;p&gt;台积电周四公布季度净利润同比暴增77%，创历史纪录，并上调2026年营收增长预期至40%以上，但其美股收盘仍下跌2.3%。与此同时，IBM因发出盈利预警，周二单日暴跌逾20%，跌幅甚至超过1987年&amp;quot;黑色星期一&amp;quot;。Vital Knowledge分析师一语道破当前困局：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;科技股似乎怎么都赢不了——超预期业绩无法催生上涨，业绩爆雷则遭到重创。&amp;quot;&lt;/p&gt;
@@ -304,6 +304,21 @@ AI需求持续旺盛，DDR5与互连芯片共同拉动业绩
 
 
 
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 逆市上调铠侠目标价！野村：NAND闪存价格仍将保持涨势</title><link>https://wallstreetcn.com/articles/3777160</link><guid>1978419c7d46027ea899e359e7b5bb2207817b00aa7a1df9ef7462a50142c8ed</guid><pubDate>Fri, 17 Jul 2026 00:41:32 GMT</pubDate><description>&lt;p&gt;铠侠市值较6月峰值缩水一半之际，野村证券逆势上调铠侠控股目标价，看好NAND闪存供需格局持续改善。&lt;/p&gt;
+&lt;p&gt;据追风交易台，野村证券于7月16日发布研究报告，将铠侠控股目标价从此前水平上调至126,000日元，并重申买入评级。此次上调的核心逻辑在于：&lt;strong&gt;NAND闪存位元价格在供应短缺背景下持续攀升，超出市场此前预期。与此同时，围绕美国政府对前沿AI模型出口限制的担忧正逐步消散，有助于提振AI相关需求情绪。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;受上述判断驱动，野村同步上调铠侠控股盈利预测——将2027财年（截至3月）营业利润预测从7.0万亿日元上调至7.5万亿日元，2028财年预测则从9.8万亿日元大幅上调至10.7万亿日元。目标价的测算基于2028财年自由现金流预测（从6.3万亿日元上调至6.9万亿日元），并采用10倍市值/自由现金流比率（相当于2028财年每股盈利预测的9.0倍市盈率）。&lt;/p&gt;
+位元价格涨幅超预期，供应短缺是核心驱动
+&lt;p&gt;&lt;strong&gt;铠侠控股2026年4至6月季度位元价格增速预测从环比+65%上调至+70%，7至9月季度预测则从+20%上调至+25%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，这一判断与部分市场机构的预期存在分歧。研究机构TrendForce此前曾预计，受消费电子需求放缓影响，2026年4至6月NAND位元价格将弱于3月底水平。然而，野村援引中国台湾内存模组厂商的最新表态，认为位元价格实际上仍维持上行轨迹。&lt;/p&gt;
+&lt;p&gt;报告中指出，ADATA的SSD相关销售与铠侠控股业绩走势高度相关，该公司2026年4至6月SSD相关销售环比大幅增长87%。ADATA管理层同时表示，预计NAND闪存合同价格将在7至9月季度环比上涨35%至40%。上述数据为野村的乐观判断提供了重要佐证。&lt;/p&gt;
+AI出口限制担忧缓解，情绪面压力趋于消退
+&lt;p&gt;报告中同时关注了近期围绕美国政府AI出口管制政策的市场情绪变化。&lt;/p&gt;
+&lt;p&gt;此前于2026年6月16日发布的行业报告中曾指出，美国政府对前沿AI模型出口的限制是影响AI相关情绪的重要事件。OpenAI旗下最新GPT-5.6系列于6月26日按照美国政府要求，以仅向特定受信任用户开放的方式分阶段发布，对AI相关市场情绪造成一定负面冲击。&lt;/p&gt;
+&lt;p&gt;然而，随着7月初以来相关消息面的持续改善，以及OpenAI于7月9日实现GPT-5.6系列的全面公开发布，市场情绪已开始出现回暖迹象。这一转变有助于缓解此前压制AI相关需求预期的不确定性，对铠侠控股等NAND闪存供应商的需求前景构成积极支撑。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌大跌5%！报道：Gemini旗舰模型发布延期，编程能力不及预期，落后OpenAI</title><link>https://wallstreetcn.com/articles/3777141</link><guid>b9a6ef3ef5c5959189ec16b5bfacd8532ec187470c48c30fe1069f746ff7e66d</guid><pubDate>Thu, 16 Jul 2026 22:25:25 GMT</pubDate><description>&lt;p&gt;谷歌在AI竞速中正面临日益严峻的内部压力。其最强旗舰模型Gemini 3.5 Pro的发布已较原定计划推迟数月，与此同时，竞争对手在编程能力上接连超越，令谷歌的市场地位愈加被动。&lt;/p&gt;
 &lt;p&gt;据彭博援引知情人士透露，延迟的主因在于谷歌正试图提升模型的编程能力，但进展不如预期。上月底谷歌曾更新训练数据以改善这一短板，然而结果令人失望。&lt;/p&gt;
 &lt;p&gt;OpenAI与Meta近期相继发布的新模型，在AI代码生成能力上已进一步超越谷歌现有产品。&lt;/p&gt;
@@ -413,32 +428,7 @@ AI竞争焦点：性能之外，更是成本与开放生态
 &lt;p&gt;金融时报指出，越来越多硅谷投资人和科技企业高管开始认为，中美前沿AI模型之间的性能差距正在快速收窄，而真正决定未来竞争格局的，可能不再只是模型排行榜，而是谁能够建立覆盖全球开发者的开放生态。&lt;/p&gt;
 &lt;p&gt;资本市场也正在重新评估中国AI公司的价值。&lt;/p&gt;
 &lt;p&gt;金融时报报道称，月之暗面正在进行新一轮融资，估值约315亿美元；DeepSeek也已启动新一轮融资，估值约710亿美元。相比之下，Anthropic最新融资后的估值约为9650亿美元，OpenAI最新估值约为8520亿美元。&lt;/p&gt;
-&lt;p&gt;随着Kimi K3正式发布，中国头部AI公司与美国前沿实验室之间的竞争，也正从单纯的模型能力比拼，进一步延伸至开源生态、开发者社区以及商业模式的全面较量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国6月零售销售环比增长0.2%，油价下跌拖累整体增速但核心消费依然稳健</title><link>https://wallstreetcn.com/articles/3777126</link><guid>400071c81c7fb1199ca38f70d89febdf315d632016bfe886cceca990c905b137</guid><pubDate>Thu, 16 Jul 2026 12:30:22 GMT</pubDate><description>&lt;p&gt;美国6月零售销售数据延续温和扩张态势，消费韧性再度超出市场对经济前景的悲观预期。&lt;/p&gt;
-&lt;p&gt;据美国人口普查局周四公布的数据，6月零售总额环比增长0.2%，符合市场预期，此前5月数据向上修正至环比增长1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;加油站销售额大幅下滑成为当月主要拖累项，但&lt;strong&gt;剔除加油站后，零售销售环比增长0.7%，显示消费者支出的内生动能仍然较强。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数据公布后，美元指数波动有限，美股期货短线走低，纳斯达克100指数期货跌约1%。&lt;/p&gt;
-&lt;p&gt;直接纳入GDP核算的控制组销售额环比增长0.5%，与预期一致，为市场对第二季度消费贡献的判断提供了积极支撑。在消费者信心调查持续低迷的背景下，实际消费数据的强韧表现，再度凸显了调查情绪与实际行为之间的背离。&lt;/p&gt;
-
-油价拖累表面数据，剔除后消费画面明显改善
-
-&lt;p&gt;6月零售数据的最大拖累来自加油站。受全国平均泵价每加仑下跌约50美分影响，加油站销售额单月环比下滑5.3%，创2022年12月以来最大单月降幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;剔除汽车及汽油后，零售销售环比增长0.4%，与预期持平。核心消费（不含汽车）环比小幅下降0.2%，但分析人士指出，汽油消费的下滑是核心数据承压的主要原因，其余消费品类整体保持平稳。&lt;/p&gt;
-&lt;p&gt;13个零售品类中有7个录得增长。非实体零售商销售额环比跳升1.9%，Amazon Prime Day促销活动被认为是重要推动因素；体育用品及爱好用品商店、电子及家电商店等可选消费品类亦同步上涨。餐饮及酒吧消费小幅增长，健康护理及食品饮料销售则略有回落。&lt;/p&gt;
-
-控制组强于季节性，GDP贡献预期稳固
-
-&lt;p&gt;控制组销售额——即剔除汽车、汽油、建材和食品服务后直接用于核算个人消费支出的指标——环比增长0.5%，符合预期。这一数据被市场视为衡量消费对经济增长实质贡献的核心参考，其稳健表现有助于巩固市场对第二季度GDP消费分项的预判。&lt;/p&gt;
-&lt;p&gt;与此同时，经CPI粗略调整后的实际零售销售额自去年12月的负增长持续回升，6月已升至2022年3月以来的最高水平，反映出通胀压力边际缓解背景下消费者实际购买力的改善。&lt;/p&gt;
-
-低收入群体承压缓解，各收入层消费均现回暖
-
-&lt;p&gt;据彭博报道，美国银行信用卡数据显示，6月各收入阶层的消费均有所提速，其中低收入家庭从油价下跌中受益尤为明显。此前，加油站价格冲击使低收入家庭必要支出占比上升，可自由支配支出空间受到更大挤压，形成消费分化的&amp;quot;K型&amp;quot;结构。&lt;/p&gt;
-&lt;p&gt;Adobe数据亦显示，今年Amazon Prime Day期间，全渠道在线消费规模较去年同期有所增长，进一步佐证了当月零售数据的改善趋势。&lt;/p&gt;
-&lt;p&gt;尽管消费者信心调查仍显示情绪低迷，但美国消费者的实际支出行为表明，油价回落带来的可支配收入改善，以及零售商促销活动的带动，正在为消费提供短期缓冲。随着汽油价格近期出现小幅反弹，这一缓冲效应能否持续延伸至下半年，仍是市场关注的焦点之一。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小鹏汽车：今年实现飞行汽车量产，MONA L03全球上市，售价12.38万元起</title><link>https://wallstreetcn.com/articles/3777130</link><guid>0cf65df3f7c62f70a116149a310697660b6c0e11fd20c12b228e8ce589a3afb5</guid><pubDate>Thu, 16 Jul 2026 15:40:26 GMT</pubDate><description>&lt;p&gt;小鹏汽车将在今年实现首款飞行汽车量产，已形成聚焦个人和面向多人的两大产品体系，收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。小鹏MONA L03全球上市，售价12.38万元起，预售订单量已超过小鹏所有车型同期预售纪录。&lt;/p&gt;
+&lt;p&gt;随着Kimi K3正式发布，中国头部AI公司与美国前沿实验室之间的竞争，也正从单纯的模型能力比拼，进一步延伸至开源生态、开发者社区以及商业模式的全面较量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小鹏汽车：今年实现飞行汽车量产，MONA L03全球上市，售价12.38万元起</title><link>https://wallstreetcn.com/articles/3777130</link><guid>0cf65df3f7c62f70a116149a310697660b6c0e11fd20c12b228e8ce589a3afb5</guid><pubDate>Thu, 16 Jul 2026 15:40:26 GMT</pubDate><description>&lt;p&gt;小鹏汽车将在今年实现首款飞行汽车量产，已形成聚焦个人和面向多人的两大产品体系，收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。小鹏MONA L03全球上市，售价12.38万元起，预售订单量已超过小鹏所有车型同期预售纪录。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7月16日，小鹏MONA L03在德国慕尼黑举办全球发布会，会上披露了飞行汽车业务最新进展。&lt;/p&gt;
 &lt;p&gt;据小鹏汽车官方微博，过去13年，小鹏持续投入飞行汽车研发，并将在今年实现首款飞行汽车量产，推动低空出行从概念加速走向现实。&lt;br&gt;&lt;br&gt;目前，小鹏已形成两大飞行产品体系：&lt;strong&gt;「陆地航母」聚焦个人低空飞行体验，全新eVTOL「A868」则面向多人、长航程的高效出行需求，覆盖不同距离与场景下的低空出行方式。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;截至目前，&lt;strong&gt;小鹏飞行汽车已收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;为推动飞行汽车规模化落地，小鹏已建成全球首个规划年产能1万台、建筑面积达12万平方米的飞行汽车工厂，率先迈入规模化量产阶段。&lt;br&gt;&lt;br&gt;欧洲是全球航空工业的重要市场之一，拥有严苛的安全标准与成熟的监管体系。目前，EASA已发布全球首份eVTOL专用适航认证技术规范，低空飞行产业正从技术探索走向规范化发展。&lt;br&gt;&lt;br&gt;未来，小鹏期待进入欧洲及更多国际市场，让飞行汽车不再只是少数人的体验，而是成为普通用户真正可购买、可使用的全新出行方式。&lt;/p&gt;
