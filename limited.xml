@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 17 Jul 2026 02:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 澜起科技上半年净利最高预增81%，董事长提议3亿至6亿元回购，回应韩国反垄断调查</title><link>https://wallstreetcn.com/articles/3777135</link><guid>9721c8497e8df732cd8878b06c957b5cf13b62b44918715fdd12cf75ce1cf6c3</guid><pubDate>Thu, 16 Jul 2026 19:13:41 GMT</pubDate><description>&lt;p&gt;澜起科技周四披露三项公告，在交出一份净利润最高同比增长81.2%的半年度业绩预告的同时，董事长兼首席执行官提议启动最高6亿元A股回购计划，并回应韩国办公室遭现场调查事件。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 17 Jul 2026 02:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 澜起科技上半年净利最高预增81%，董事长提议3亿至6亿元回购，回应韩国反垄断调查</title><link>https://wallstreetcn.com/articles/3777135</link><guid>9721c8497e8df732cd8878b06c957b5cf13b62b44918715fdd12cf75ce1cf6c3</guid><pubDate>Thu, 16 Jul 2026 19:13:41 GMT</pubDate><description>&lt;p&gt;澜起科技周四披露三项公告，在交出一份净利润最高同比增长81.2%的半年度业绩预告的同时，董事长兼首席执行官提议启动最高6亿元A股回购计划，并回应韩国办公室遭现场调查事件。&lt;/p&gt;
 &lt;p&gt;公司预计，2026年上半年实现营业收入约33.35亿元，同比增长约26.6%；归属于上市公司股东的净利润为19亿元至21亿元，同比增长63.9%至81.2%，延续了AI产业链需求带动下的高增长态势。&lt;/p&gt;
 &lt;p&gt;与此同时，公司董事长兼首席执行官杨崇和提议，公司使用自有资金回购3亿元至6亿元A股股份，以维护公司价值及股东权益。回购提议提出的背景是，公司A股股价连续20个交易日累计跌幅超过20%，已触发相关规则规定的回购条件。&lt;/p&gt;
 &lt;p&gt;针对外界关注的韩国反垄断调查事项，澜起科技表示，公司韩国办公室7月15日遭韩国检方现场搜查及取证，目前公司及董事、员工均未被任何政府机关指控存在不当行为，公司经营正常，将继续配合调查，并称现阶段无法预测调查持续时间及最终结果。&lt;/p&gt;
@@ -335,20 +335,99 @@ AI需求持续旺盛，DDR5与互连芯片共同拉动业绩
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板、科创50均跌4%，芯片半导体再调整，恒科指跌2%，AI大模型双雄杀跌、智谱跌超10%</title><link>https://wallstreetcn.com/articles/3777165</link><guid>196862cddc6ac9871859c41ce10c3ab2dde5906460a32d337278cdf9fddfbf40</guid><pubDate>Fri, 17 Jul 2026 01:53:00 GMT</pubDate><description>&lt;p&gt;A股和港股芯片半导体、算力硬件股再度集体下跌，光模块、电路板、光芯片、存储芯片全线走低，存储龙头德明利再跌停，隔夜美股半导体板块遭遇大幅抛售。&lt;/p&gt;
-&lt;p&gt;7月17日，A股全线低开低走，三大股指盘初进一步下挫，沪指跌1%，创业板一度大跌超4%，科创50一度也大跌超4%，半导体产业链、算力硬件集体调整，光模块、光芯片、电路板等跌幅居前。生物科技板块下挫，CRO、创新药亦下挫。KIMI概念股反弹，油气、电力等板块活跃。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股还有“去杠杆空间”！摩根大通：需要三个月才能恢复到4月前水平</title><link>https://wallstreetcn.com/articles/3777166</link><guid>c6df362cc39730a66aca02444b3ced3b70bd450164d5598a1f9fcbd0ea0f5a0d</guid><pubDate>Fri, 17 Jul 2026 02:32:09 GMT</pubDate><description>&lt;p&gt;美股去杠杆的阴影还没散去。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，摩根大通全球市场策略团队在7月15日发布的最新报告中指出，美国6月启动的投资者去杠杆进程仍在持续，杠杆股票ETF、期权市场和保证金账户三个领域均存在进一步去杠杆的空间，这将在未来数月内持续压制股市表现。&lt;/p&gt;
+&lt;p&gt;他们估计，要使杠杆股票ETF规模相对于标的市值的比率回到4月前水平，还需要大约三个月的震荡行情。&lt;/p&gt;
+杠杆ETF：自我纠正机制启动，但路还很长
+&lt;p&gt;杠杆股票ETF的问题，本质上是一个数学陷阱。&lt;/p&gt;
+&lt;p&gt;该行解释了其中的逻辑：假设标的指数某天下跌10%，次日反弹11.1%回到原位，3倍杠杆ETF第一天亏损30%，第二天涨回33.3%，最终净亏损7%。也就是说，&lt;strong&gt;震荡行情本身就会侵蚀杠杆ETF的规模&lt;/strong&gt;，这是一种内置的&amp;quot;自我纠正&amp;quot;机制。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;数据已经印证了这一点。分析师数据显示，自峰值以来，杠杆存储芯片股ETF规模已缩水34%，所有杠杆股票ETF规模缩水13%。&lt;/p&gt;
+&lt;p&gt;但问题在于，&lt;strong&gt;相对于标的股票市值的比率下降幅度要小得多&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通分析师指出，&lt;strong&gt;存储芯片股杠杆ETF的规模与标的市值之比，是所有股票ETF平均水平的三倍，这解释了为何存储芯片股波动性远高于大盘。&lt;/strong&gt;更值得警惕的是，即便是整体杠杆股票指数ETF，其比率相对自身历史也处于高位，说明这不只是个别板块的问题，而是整个市场的系统性风险。&lt;/p&gt;
+&lt;p&gt;分析师判断：&lt;strong&gt;&amp;quot;还需要大约三个月的震荡区间行情，杠杆股票ETF规模与标的市值之比才能回到4月前的水平。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，7月仍有新资金持续流入杠杆ETF，这进一步延长了去杠杆所需的时间。&lt;/p&gt;
+期权与保证金账户：散户的两个“雷区”
+&lt;p&gt;期权市场方面，摩根大通分析师追踪的散户看涨期权买入指标（基于OCC数据，统计持仓少于10张合约的客户）在6月5日触及近1400万张合约的峰值，与2025年10月和2021年11月的历史高点持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;历史规律显示，每次这一指标触顶后，科技股都经历了数月调整，底部往往对应该指标跌至200万至400万张合约的低位。目前该指标已从峰值明显回落，但分析师认为，&lt;strong&gt;若最终跌至200万至400万张的&amp;quot;投降&amp;quot;水平，科技股仍面临持续压力&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;保证金账户方面，情况更为严峻。分析师以纽交所净借方余额（NYSE Net Debit Balance）作为美国个人投资者杠杆的代理指标，数据显示当前水平处于历史极端高位，与2021年底和2018年中期的峰值相当——&lt;strong&gt;而那两次峰值之后，股市均经历了数月的调整。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;分析师指出，保证金账户近期出现了一些回落迹象，但&amp;quot;仍需要大幅去杠杆，才能不再对股市构成显著阻力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;相比之下，风险平价基金的杠杆已基本回归正常，不再是主要的市场阻力来源。&lt;/p&gt;
+对冲基金：半导体敞口或已悄然收缩
+&lt;p&gt;对冲基金层面，该行的数据呈现出一个有趣的转变。&lt;/p&gt;
+&lt;p&gt;6月，尽管标普500和纳斯达克指数下跌，股票多空对冲基金（Equity L/S）和科技行业对冲基金（Equity Sector TMT）分别录得1.2%和3.7%的正收益。分析师认为，这与半导体板块的强势密切相关——6月SMH半导体ETF上涨9.5%，而美国超大规模云计算股同期下跌14.5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;但进入7月，信号发生了变化。日频报告的股票多空基金与半导体股票的相关性明显下降，分析师的高频杠杆代理指标也显示，7月杠杆水平有所回落——此前该指标在6月曾升至2017年以来最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通据此判断，&lt;strong&gt;股票多空对冲基金可能已在7月削减了半导体敞口。&lt;/strong&gt;&lt;/p&gt;
+下半年供需：散户资金是最大支撑
+&lt;p&gt;去杠杆是短期阻力，但该行分析师同时指出，从更长周期看，股票供需结构仍为正值，将在去杠杆压力消退后提供支撑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;分析师汇总了各类投资者的资金流向预测：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需求端：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;散户&lt;/strong&gt;是最大支撑力量。年初至今流入已达约5500亿美元，全年有望超过1万亿美元，预计下半年仍有约4820亿美元流入&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;主权财富基金/央行&lt;/strong&gt;：全年预计贡献约1100亿美元股票需求，其中约一半在下半年&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;股票多空对冲基金&lt;/strong&gt;（管理规模约1.4万亿美元）：年初至今净买入约200亿美元，但分析师预计下半年几乎没有进一步增仓空间&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CTA趋势跟踪基金&lt;/strong&gt;：动量信号z值约为1.0，预计下半年净买入接近零&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;压力端：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;养老金和保险公司&lt;/strong&gt;：结构性减持股票，2026年全年预计净卖出约4700亿美元，下半年约2350亿美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;平衡型共同基金&lt;/strong&gt;：年初至今已净卖出约2100亿美元股票，主要集中在6月&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;综合来看，分析师预计2026年全年股票净需求约4750亿美元，净供给约2000亿美元（含三大AI相关IPO），&lt;strong&gt;净需求约2750亿美元，其中下半年约1970亿美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;分析师特别说明，这一正向供需平衡与去杠杆压力并不矛盾——&amp;quot;去杠杆进程在未来数月可能主导市场，造成价格大幅波动，而股票供需平衡更像是一种背景性的长期力量，将在去杠杆消退后提供支撑。&amp;quot;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板、科创50均跌超4%，芯片半导体再调整，恒科指跌3%，AI大模型双雄杀跌、智谱跌超10%</title><link>https://wallstreetcn.com/articles/3777165</link><guid>196862cddc6ac9871859c41ce10c3ab2dde5906460a32d337278cdf9fddfbf40</guid><pubDate>Fri, 17 Jul 2026 02:48:10 GMT</pubDate><description>&lt;p&gt;A股和港股芯片半导体、算力硬件股再度集体下跌，光模块、电路板、光芯片、存储芯片全线走低，存储龙头德明利再跌停，隔夜美股半导体板块遭遇大幅抛售。&lt;/p&gt;
+&lt;p&gt;7月17日，A股全线低开低走，三大股指盘初进一步下挫，沪指跌1%，逼近3800点，创业板大跌超4%，科创50也大跌超4%，半导体产业链、算力硬件集体调整，光模块、光芯片、电路板等跌幅居前。生物科技板块下挫，CRO、创新药亦下挫。KIMI概念股反弹，油气、电力等板块活跃。&lt;/p&gt;
 &lt;p&gt;港股高开低走，恒指、恒科指盘初双双下跌，恒科指跌超1%，科网股多数回调，半导体板块下挫，华虹宏力、兆易创新等跌幅居前，AI大模型股重挫，智谱跌超13%，MINIMAX跌近5%，此前Kimi发布&lt;a href="https://wallstreetcn.com/articles/3777138"&gt;新一代开源基础模型Kimi K3&lt;/a&gt;，综合智能水平接近全球前沿的闭源模型。&lt;/p&gt;
 &lt;p&gt;债市方面，国债期货全线下跌，商品方面，国内商品多数下跌，沪金沪银等金属期货跌幅居前，隔夜国际现货黄金跌破4000美元关口。核心市场走势&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.71%，深成指跌2.74%，创业板指跌3.86%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌1.64%，深成指跌3.85%，创业板指跌4.98%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.93%，恒科指跌2.24%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨1.55%，恒科指跌3.52%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约跌0.03%，10年期主力合约跌0.01%，5年期主力合约跌0.01%，2年期主力合约持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数下跌，截至发稿，碳酸锂涨超3%，沥青涨1%，原油、不锈钢、菜籽、螺纹钢、焦煤、工业硅、燃油、集运指数、热轧卷板、焦炭、铁矿石、沪铝等品种上涨，多晶硅、豆粕、纸浆、锰硅、沪锡、沪铜、鸡蛋、沪镍、氧化铝等走低，沪金、橡胶、烧碱、玻璃跌超1%，铂金、钯金、沪银等跌幅均超2%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;10:43&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生生物科技指数日内跌超6%。康方生物、三生制药、微创机器人跌超11%，英矽智能跌超10%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:37&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;券商股异动拉升，湘财股份直线涨停。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;10:35&lt;/p&gt;
+&lt;p&gt;存储芯片概念延续跌势，热门个股中，德明利连续三日一字跌停，最新市值1217亿元；此外，源杰科技跌超10%，光迅科技、华天科技、长芯博创跌超9%，盛科通信、中兴通讯、澜起科技、江波龙、兆易创新等跌幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;港股芯片概念股同样走弱，兆易创新跌超7%，华虹宏力、中芯国际跌超2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;周五日本芯片概念股也全线下挫，铠侠一度触及跌停，东京电子跌超6%，爱德万测试跌超8%，瑞萨电子跌超5%。&lt;/p&gt;
+&lt;p&gt;昨夜美股芯片股大跌，存储芯片概念继续领跌，SK海力士跌超13%，闪迪跌超12%，希捷科技跌10%，西部数据跌超9%，美光科技跌超5%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:31&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生科技指数跌3%。智谱跌逾15%，MiniMax跌超10%，美团跌逾5%，中芯国际跌超4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:50&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生科技指数跌超2%，MINIMAX跌幅扩大至7.4%，小鹏集团、蔚来跌超5%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -485,16 +564,4 @@ AI竞争焦点：性能之外，更是成本与开放生态
 &lt;p&gt;经历本轮暴跌后，KOSPI动态市盈率已降至约6倍，逼近2008年全球金融危机以来的低位。&lt;/p&gt;
 &lt;p&gt;但这并不构成买入信号：在高杠杆市场中，底部往往由流动性状况而非估值决定——只要融资盘平仓压力持续，被迫卖出的抛售不会因&amp;quot;便宜&amp;quot;而停止。&lt;/p&gt;
 &lt;p&gt;融资去杠杆通常经历追保触发、强制平仓集中释放、融资余额企稳三个阶段。当前韩国市场大概率处于第二阶段后期。&lt;/p&gt;
-&lt;p&gt;监管层能否出台提高杠杆产品准入门槛、强化投资者适当性审核等措施，将决定去杠杆是进入有序出清还是继续无序恶化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小鹏汽车：今年实现飞行汽车量产，MONA L03全球上市，售价12.38万元起</title><link>https://wallstreetcn.com/articles/3777130</link><guid>0cf65df3f7c62f70a116149a310697660b6c0e11fd20c12b228e8ce589a3afb5</guid><pubDate>Thu, 16 Jul 2026 15:40:26 GMT</pubDate><description>&lt;p&gt;小鹏汽车将在今年实现首款飞行汽车量产，已形成聚焦个人和面向多人的两大产品体系，收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。小鹏MONA L03全球上市，售价12.38万元起，预售订单量已超过小鹏所有车型同期预售纪录。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;7月16日，小鹏MONA L03在德国慕尼黑举办全球发布会，会上披露了飞行汽车业务最新进展。&lt;/p&gt;
-&lt;p&gt;据小鹏汽车官方微博，过去13年，小鹏持续投入飞行汽车研发，并将在今年实现首款飞行汽车量产，推动低空出行从概念加速走向现实。&lt;br&gt;&lt;br&gt;目前，小鹏已形成两大飞行产品体系：&lt;strong&gt;「陆地航母」聚焦个人低空飞行体验，全新eVTOL「A868」则面向多人、长航程的高效出行需求，覆盖不同距离与场景下的低空出行方式。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;截至目前，&lt;strong&gt;小鹏飞行汽车已收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;为推动飞行汽车规模化落地，小鹏已建成全球首个规划年产能1万台、建筑面积达12万平方米的飞行汽车工厂，率先迈入规模化量产阶段。&lt;br&gt;&lt;br&gt;欧洲是全球航空工业的重要市场之一，拥有严苛的安全标准与成熟的监管体系。目前，EASA已发布全球首份eVTOL专用适航认证技术规范，低空飞行产业正从技术探索走向规范化发展。&lt;br&gt;&lt;br&gt;未来，小鹏期待进入欧洲及更多国际市场，让飞行汽车不再只是少数人的体验，而是成为普通用户真正可购买、可使用的全新出行方式。&lt;/p&gt;
-MONA L03全球上市，售价12.38万元起
-&lt;p&gt;&lt;strong&gt;小鹏MONA L03纯电版本在中国市场的正式售价区间为1&lt;/strong&gt;&lt;strong&gt;2.38万—15.68万元，超级增程版本售价区间为12.38万—14.68万元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小鹏集团董事长、CEO何小鹏表示，小鹏MONA L03的预售订单量，&lt;strong&gt;已超过小鹏所有车型同期预售纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新车纯电版本在德国市场的起售价为3.56万欧元（约合人民币27.6万元），超级增程版起售价为3.86万欧元（约合人民币29.9万元）。&lt;/p&gt;
-&lt;p&gt;小鹏集团通用智能中心负责人刘先明表示，智能化始终是集团的核心能力。小鹏智能驾驶系统第二代VLA物理世界大模型，已实现同一套模型打通中国与欧洲，目前正加快推进欧洲市场量产适配。&lt;/p&gt;
-&lt;p&gt;小鹏还针对欧洲用户升级了智能泊车能力，可适应欧洲老城区狭窄车位及无划线停车等典型场景。&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;监管层能否出台提高杠杆产品准入门槛、强化投资者适当性审核等措施，将决定去杠杆是进入有序出清还是继续无序恶化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
