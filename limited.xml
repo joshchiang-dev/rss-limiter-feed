@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 07:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈</title><link>https://wallstreetcn.com/articles/3777291</link><guid>de9baed265827f5396c8902575c884c0f287ea483b8f51526ab7ce3ba2527172</guid><pubDate>Sat, 18 Jul 2026 05:11:08 GMT</pubDate><description>&lt;p&gt;Kimi K3的发布标志着中国AI开源模型在全球竞争格局中迈入新阶段——模型智能水平已触及全球大规模普及的临界点，定价能力随之提升，但高端编程赛道的激烈竞争也令相关个股承压。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛在7月18日发布的研究报告中指出，Kimi K3于7月17日正式发布，参数规模达2.8万亿，在Arena.ai编程排名及Artificial Analysis智能评分中均跻身全球前沿水平。&lt;strong&gt;与此同时，Kimi K3将API混合定价设定为每百万token 2.3美元，创中国模型定价新高，显示出中国AI模型公司正逐步从&amp;quot;成本效率&amp;quot;竞争向&amp;quot;定价权&amp;quot;跃迁。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kimi K3发布当日，市场对中国AI模型竞争格局的担忧迅速反映在股价上。智谱当日股价下跌28%，MiniMax下跌16%，反映出投资者对中国AI模型公司长期竞争格局及领导地位可持续性的高度不确定性。&lt;/p&gt;
-Kimi K3树立中国模型定价新标杆
-&lt;p&gt;Kimi K3以2.8万亿参数规模发布，在编程能力及部分智能体（agentic）能力方面达到全球领先水平。报告援引Arena.ai编程排名及Artificial Analysis智能指数显示，K3的综合表现已接近或达到全球最先进模型（SOTA）水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在定价方面，K3将混合API定价设为每百万token 2.3美元，显著高于国内同类竞品：&lt;/strong&gt;阿里Qwen3.7 Max为1.4美元，智谱GLM5.2为0.9美元，MiniMax M3为0.22美元，DeepSeek V4 Pro为0.18美元。尽管K3定价仍低于全球SOTA模型，但其定价策略清晰体现出随模型智能水平提升而获取更高定价权的路径。&lt;/p&gt;
-&lt;p&gt;高盛认为，中国AI开源/开放权重模型的智能表现已达到全球大规模普及的关键节点，这一判断与其此前发布的中国大语言模型（LLM）研究报告的核心观点一脉相承。&lt;/p&gt;
-高端编程赛道竞争持续白热化
-&lt;p&gt;Kimi K3发布后，下半年将有更多中国AI模型密集推出，&lt;strong&gt;包括智谱GLM、阿里Qwen、MiniMax M3 Pro等，参数规模将进一步扩大至2至5万亿区间。编程/代码生成赛道的竞争将持续高强度，多模态与视觉理解能力的整合也将成为下一阶段中国基础模型的重要升级方向。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;各家模型公司正积极布局智能体应用作为关键流量入口，尤其是编程领域，例如智谱的ZCode、腾讯的Workbuddy、阿里的Qoder等聚合平台，旨在通过闭环获取更多真实编程及智能体数据以支撑模型迭代。协作办公及行业专家智能体产品有望成为下一优先方向。&lt;/p&gt;
-&lt;p&gt;在低端定价区间，预计面向智能体应用的API定价及毛利率将持续承压，每百万token约0.1至0.2美元的价格区间竞争激烈，原因在于中国AI模型公司融资后普遍持有充裕现金储备，具备补贴定价的能力。&lt;strong&gt;因此将财务实力列为评估中国AI模型公司的三大核心指标之一，另外两项为定价权与成本效率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与文本基础模型赛道的价格战形成对比，高盛对视频生成模型赛道持更为乐观的态度。报告指出，SeeDance、快手，以及MiniMax的Hailuo及即将推出的H3模型，有望在2026年下半年延续健康增长，受益于视频生成与大语言模型融合等功能突破，以及算力供给持续紧张、需求显著超过产能的有利格局。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 公开出售内幕消息？特朗普旗下Truth Social向华尔街推出付费API，“毫秒级”投递特朗普推文</title><link>https://wallstreetcn.com/articles/3777246</link><guid>e300dd4781af5e1b4179f71aae0526cb76fd9b5b779d760884ff58b35bf38793</guid><pubDate>Fri, 17 Jul 2026 22:48:53 GMT</pubDate><description>&lt;p&gt;特朗普旗下媒体公司正将总统本人的社交媒体发帖转化为一门生意。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 08:29:43 GMT</lastBuildDate><item><title>[华尔街见闻] 公开出售内幕消息？特朗普旗下Truth Social向华尔街推出付费API，“毫秒级”投递特朗普推文</title><link>https://wallstreetcn.com/articles/3777246</link><guid>e300dd4781af5e1b4179f71aae0526cb76fd9b5b779d760884ff58b35bf38793</guid><pubDate>Fri, 17 Jul 2026 22:48:53 GMT</pubDate><description>&lt;p&gt;特朗普旗下媒体公司正将总统本人的社交媒体发帖转化为一门生意。&lt;/p&gt;
 &lt;p&gt;Trump Media &amp;amp; Technology Group（TMTG）周四宣布，计划于8月1日推出名为&amp;quot;Truth API&amp;quot;的实时数据产品，向投资机构出售Truth Social平台帖文的直接数据流，目标客户群体主要为算法交易公司。该公司表示，已有客户确认购买意向，但未披露买家名称。&lt;/p&gt;
 &lt;p&gt;TMTG临时首席执行官Kevin McGurn在声明中表示，&amp;quot;市场已经在随Truth Social帖文波动，&amp;quot;Truth API将提供平台最具市场影响力帖文的直连、授权、实时数据流，同时推进公司通过高利润率、经常性收入流将专有资产变现的战略。&lt;/p&gt;
 &lt;p&gt;他预计该产品将成为公司&amp;quot;有意义的持续收入来源，为股东创造持久价值。&amp;quot;&lt;/p&gt;
@@ -35,7 +19,23 @@ Kimi K3树立中国模型定价新标杆
 &lt;p&gt;Truth API是TMTG近期一系列多元化尝试之一。&lt;/p&gt;
 &lt;p&gt;该公司此前已涉足流媒体和加密货币领域，并于去年达成与一家核聚变公司的合并协议——此举将使这家总统旗下的公司与其他开发商形成竞争，而核聚变所在的能源领域恰恰正受到特朗普政府的政策支持与监管双重影响。&lt;/p&gt;
 &lt;p&gt;Truth Social本身的用户增长依然有限，公司整体仍处于亏损状态，对特朗普帖文的依赖构成其主要流量来源。&lt;/p&gt;
-&lt;p&gt;Kevin McGurn将Truth API描述为将&amp;quot;专有资产&amp;quot;商业化的战略组成部分，但这一定位本身——将现任总统的公开表态界定为可出售的&amp;quot;专有资产&amp;quot;——正是外界质疑的焦点所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”</title><link>https://wallstreetcn.com/articles/3777275</link><guid>0d5a26b854274a501b6085c80fa0541c6b64df47bc6a6743f9e98cf80a3f850a</guid><pubDate>Sat, 18 Jul 2026 01:10:57 GMT</pubDate><description>&lt;p&gt;美国半导体股遭遇逾一年来最惨烈的单周跌幅，费城半导体指数较6月高点累计回撤超20%，正式步入技术性熊市。这场抛售被高盛资产配置研究主管Christian Mueller-Glissmann定性为&amp;quot;有记录以来最大规模的动量策略抛售之一&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Kevin McGurn将Truth API描述为将&amp;quot;专有资产&amp;quot;商业化的战略组成部分，但这一定位本身——将现任总统的公开表态界定为可出售的&amp;quot;专有资产&amp;quot;——正是外界质疑的焦点所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈</title><link>https://wallstreetcn.com/articles/3777291</link><guid>de9baed265827f5396c8902575c884c0f287ea483b8f51526ab7ce3ba2527172</guid><pubDate>Sat, 18 Jul 2026 05:11:08 GMT</pubDate><description>&lt;p&gt;Kimi K3的发布标志着中国AI开源模型在全球竞争格局中迈入新阶段——模型智能水平已触及全球大规模普及的临界点，定价能力随之提升，但高端编程赛道的激烈竞争也令相关个股承压。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛在7月18日发布的研究报告中指出，Kimi K3于7月17日正式发布，参数规模达2.8万亿，在Arena.ai编程排名及Artificial Analysis智能评分中均跻身全球前沿水平。&lt;strong&gt;与此同时，Kimi K3将API混合定价设定为每百万token 2.3美元，创中国模型定价新高，显示出中国AI模型公司正逐步从&amp;quot;成本效率&amp;quot;竞争向&amp;quot;定价权&amp;quot;跃迁。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kimi K3发布当日，市场对中国AI模型竞争格局的担忧迅速反映在股价上。智谱当日股价下跌28%，MiniMax下跌16%，反映出投资者对中国AI模型公司长期竞争格局及领导地位可持续性的高度不确定性。&lt;/p&gt;
+Kimi K3树立中国模型定价新标杆
+&lt;p&gt;Kimi K3以2.8万亿参数规模发布，在编程能力及部分智能体（agentic）能力方面达到全球领先水平。报告援引Arena.ai编程排名及Artificial Analysis智能指数显示，K3的综合表现已接近或达到全球最先进模型（SOTA）水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在定价方面，K3将混合API定价设为每百万token 2.3美元，显著高于国内同类竞品：&lt;/strong&gt;阿里Qwen3.7 Max为1.4美元，智谱GLM5.2为0.9美元，MiniMax M3为0.22美元，DeepSeek V4 Pro为0.18美元。尽管K3定价仍低于全球SOTA模型，但其定价策略清晰体现出随模型智能水平提升而获取更高定价权的路径。&lt;/p&gt;
+&lt;p&gt;高盛认为，中国AI开源/开放权重模型的智能表现已达到全球大规模普及的关键节点，这一判断与其此前发布的中国大语言模型（LLM）研究报告的核心观点一脉相承。&lt;/p&gt;
+高端编程赛道竞争持续白热化
+&lt;p&gt;Kimi K3发布后，下半年将有更多中国AI模型密集推出，&lt;strong&gt;包括智谱GLM、阿里Qwen、MiniMax M3 Pro等，参数规模将进一步扩大至2至5万亿区间。编程/代码生成赛道的竞争将持续高强度，多模态与视觉理解能力的整合也将成为下一阶段中国基础模型的重要升级方向。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;各家模型公司正积极布局智能体应用作为关键流量入口，尤其是编程领域，例如智谱的ZCode、腾讯的Workbuddy、阿里的Qoder等聚合平台，旨在通过闭环获取更多真实编程及智能体数据以支撑模型迭代。协作办公及行业专家智能体产品有望成为下一优先方向。&lt;/p&gt;
+&lt;p&gt;在低端定价区间，预计面向智能体应用的API定价及毛利率将持续承压，每百万token约0.1至0.2美元的价格区间竞争激烈，原因在于中国AI模型公司融资后普遍持有充裕现金储备，具备补贴定价的能力。&lt;strong&gt;因此将财务实力列为评估中国AI模型公司的三大核心指标之一，另外两项为定价权与成本效率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与文本基础模型赛道的价格战形成对比，高盛对视频生成模型赛道持更为乐观的态度。报告指出，SeeDance、快手，以及MiniMax的Hailuo及即将推出的H3模型，有望在2026年下半年延续健康增长，受益于视频生成与大语言模型融合等功能突破，以及算力供给持续紧张、需求显著超过产能的有利格局。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”</title><link>https://wallstreetcn.com/articles/3777275</link><guid>0d5a26b854274a501b6085c80fa0541c6b64df47bc6a6743f9e98cf80a3f850a</guid><pubDate>Sat, 18 Jul 2026 01:10:57 GMT</pubDate><description>&lt;p&gt;美国半导体股遭遇逾一年来最惨烈的单周跌幅，费城半导体指数较6月高点累计回撤超20%，正式步入技术性熊市。这场抛售被高盛资产配置研究主管Christian Mueller-Glissmann定性为&amp;quot;有记录以来最大规模的动量策略抛售之一&amp;quot;。&lt;/p&gt;
 &lt;p&gt;费城半导体指数本周累计下跌近10%，为2025年4月特朗普关税冲击市场以来最大单周跌幅。周五该指数再跌1.6%，纳斯达克综合指数同日下挫1.4%，标普500指数跌1%。此轮抛售已令芯片及存储股市值蒸发数百亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这场动荡的核心，是对冲基金和共同基金大规模平仓&amp;quot;做多半导体、做空超大规模云计算商&amp;quot;这一年内最热门的配对交易。&lt;strong&gt;随着市场方向逆转，动量策略的内在脆弱性集中暴露，此前涨幅最大的个股反而成为抛售重灾区。&lt;/strong&gt;&lt;/p&gt;
@@ -151,34 +151,7 @@ AI高估值资产被重估 SpaceX市值一个月蒸发超1万亿美元
 &lt;/blockquote&gt;
 &lt;p&gt;当地官员和医疗专家建议居民尽量留在室内，避免剧烈运动，外出时佩戴N95口罩。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据美国国家气象局预测，随着来自西北方向的气流持续将加拿大野火烟雾输送至美国东北部，本周末空气污染问题仍将持续。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;托莱多的AQI预计周六降至100至200区间，但仍属&amp;quot;不健康&amp;quot;至&amp;quot;非常不健康&amp;quot;级别，上述三座城市的恶劣空气质量或将延续至下周一。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本散户押注美元见顶，净空头头寸创2008年有记录以来最高</title><link>https://wallstreetcn.com/articles/3777261</link><guid>94668c03c55d5cfc98e01d50303e5580cee7b2c7564e1e5f3ba62f798eb095d6</guid><pubDate>Fri, 17 Jul 2026 20:11:10 GMT</pubDate><description>&lt;p&gt;日本散户投资者正以有记录以来最大的规模集体做空美元。&lt;/p&gt;
-&lt;p&gt;据最新数据，&lt;strong&gt;日本散户交易者持有的美元净空头头寸已升至172亿美元，创2008年有记录以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，&lt;strong&gt;该数字较上月增逾三倍，单月涨幅之大凸显出押注情绪的快速集聚。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一头寸规模的急剧扩张，与日本财务省的干预行动直接相关。&lt;strong&gt;在当局连续出手护盘的背景下，散户投资者普遍预计日本当局将继续支撑日元，进而入场做空美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，日本首相高市早苗公开呼吁政府养老金投资基金（GPIF）加大国内资产配置，短暂提振日元走强。&lt;/p&gt;
-&lt;p&gt;然而，全球科技股抛售潮迅速盖过政策利好，日经225指数7月17日收跌4%，创下今年以来最惨烈单日跌幅之一，日元也随即回落。&lt;/p&gt;
-&lt;p&gt;对市场而言，在美元强势周期、全球风险情绪收缩与日本政策转向三重力量的交织之下，日元的阶段性底部究竟在哪里，而政策意图能否真正转化为持续的资金流入，仍有待检验。&lt;/p&gt;
-日本散户押注美元走软
-&lt;p&gt;驱动空头头寸急剧膨胀的核心因素来自两方面。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一是对日本当局持续干预的预期。&lt;/strong&gt;自4月下旬以来，日本当局已累计动用约740亿美元干预汇市。&lt;/p&gt;
-&lt;p&gt;其中，财务省在截至5月27日的一个月内创下单月干预纪录，注资11.73万亿日元（约合728亿美元）买入日元。干预后，日元一度升至155附近。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;尽管干预周期结束后，日元较5月高点下跌逾4%。美元兑日元更在此后突破161关口，一度触及162.5的近四十年新低。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但是大规模而频繁的官方行动，强化了散户对&amp;quot;当局不会坐视日元贬值&amp;quot;的信心。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;二是对美元见顶的判断。&lt;/strong&gt;散户投资者认为，美元本轮涨势已接近尾声，当前是做空美元的时机窗口。&lt;/p&gt;
-&lt;p&gt;两项预期叠加，使做空美元成为日本散户中最拥挤的单边交易方向。&lt;/p&gt;
-
-首相国会发声，GPIF转向国内资产成政策方向
-
-&lt;p&gt;政策层面的信号同样值得关注。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777200"&gt;华尔街见闻提及&lt;/a&gt;，高市早苗在周五国会会议上明确表示，鼓励家庭及包括GPIF在内的养老基金进一步增持日本金融资产&amp;quot;至关重要&amp;quot;，强调此举旨在推动经济增长与居民资产积累之间形成良性循环。&lt;/p&gt;
-&lt;p&gt;受此提振，日元对美元汇率一度从162.36附近短暂升至162.13。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;日本财务大臣Satsuki Katayama上周已释放类似信号，表示希望鼓励GPIF加大对国内资产的投资。&lt;/strong&gt;Katayama本周二进一步补充称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果我们成功推进增长战略，以日元计价的资产将变得更具吸引力。由于这是本届政府正在推进的政策方向，GPIF的投资组合有可能将被重新审视，并在必要时进行调整。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;GPIF作为全球规模最大的养老基金之一，其配置方向的潜在调整，对日元及日本资产的中长期走势具有不可忽视的影响。&lt;/p&gt;
-&lt;p&gt;对投资者而言，GPIF配置方向的潜在调整是一个值得追踪的中长期变量。但在全球风险情绪尚未企稳之前，政策信号能否真正转化为稳定的资金流入，仍是当前日元走势最大的不确定性所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊冲突跨越“民用红线”，霍尔木兹通行量降至三周低点，原油一周涨近16%</title><link>https://wallstreetcn.com/articles/3777262</link><guid>1430733c1a116aa379a62fa8bbcbaa984ec5b94bdcec7b76a5e4bc818caa80c7</guid><pubDate>Fri, 17 Jul 2026 20:53:00 GMT</pubDate><description>&lt;p&gt;能源基础设施与民用设施相继成为打击目标，标志着美伊冲突进入新的危险阶段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;托莱多的AQI预计周六降至100至200区间，但仍属&amp;quot;不健康&amp;quot;至&amp;quot;非常不健康&amp;quot;级别，上述三座城市的恶劣空气质量或将延续至下周一。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊冲突跨越“民用红线”，霍尔木兹通行量降至三周低点，原油一周涨近16%</title><link>https://wallstreetcn.com/articles/3777262</link><guid>1430733c1a116aa379a62fa8bbcbaa984ec5b94bdcec7b76a5e4bc818caa80c7</guid><pubDate>Fri, 17 Jul 2026 20:53:00 GMT</pubDate><description>&lt;p&gt;能源基础设施与民用设施相继成为打击目标，标志着美伊冲突进入新的危险阶段。&lt;/p&gt;
 &lt;p&gt;科威特周五指，伊朗将袭击范围扩大至科威特的电力与海水淡化厂。伊拉克官员周四称，该国北部库尔德地区最大的天然气田因面临遭袭的威胁而关闭，美军则将空袭目标延伸至距霍尔木兹海峡350英里以外的恰巴哈尔港。双方均未显示出任何收手迹象。&lt;/p&gt;
 &lt;p&gt;据新华社援引国际市场服务机构克普勒数据，本周四，霍尔木兹海峡船舶通过量降至三周来最低点。&lt;/p&gt;
 &lt;p&gt;新华社提到，分析认为，袭船事件和美军封锁行动进一步增加了市场不确定性。尽管地区斡旋工作仍在持续推进，但商业航运活动的变化表明，当前军事冲突的发展正比外交进展更大程度地影响航运企业的运营决策。&lt;/p&gt;
@@ -312,4 +285,23 @@ DeepMind方案获科技圈背书，与政府思路趋于一致
 &lt;p&gt;&amp;quot;如果将未来陆续到期的锁定期纳入考量，许多投资者可能已经重新审视了最初的投资逻辑，而此前观望的潜在投资者正在等待更低的入场时机——随着估值逐步回归合理区间，这样的机会很可能出现。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;SpaceX股价的持续回调对当前由人工智能概念驱动的IPO市场热情构成冲击。人工智能是SpaceX此番上市的核心叙事，公司将太空数据中心定位为捕获26.5万亿美元潜在市场的战略切入点。&lt;/p&gt;
-&lt;p&gt;分析师对SpaceX整体仍持看多立场，该股自本月加入纳斯达克100指数后获得大量机构评级，12个月平均目标价为235.34美元。但在发射故障、锁定期解禁与高估值多重压力交织之下，短期内市场情绪能否企稳，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;分析师对SpaceX整体仍持看多立场，该股自本月加入纳斯达克100指数后获得大量机构评级，12个月平均目标价为235.34美元。但在发射故障、锁定期解禁与高估值多重压力交织之下，短期内市场情绪能否企稳，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX身陷股价破发泥潭之际，向五角大楼兜售数十亿美元AI算力</title><link>https://wallstreetcn.com/articles/3777265</link><guid>79d506c3e97ed9e844ccf864190921f9406a156de1cd5d0bdf2a2f84f296270f</guid><pubDate>Fri, 17 Jul 2026 21:56:48 GMT</pubDate><description>&lt;p&gt;SpaceX正与美国国防部就提供数据中心算力展开谈判，协议金额可能高达数十亿美元，马斯克旗下公司与五角大楼的深度绑定再进一步。&lt;/p&gt;
+&lt;p&gt;据华尔街日报援引知情人士透露，双方正在讨论由SpaceX向国防部提供云计算容量的安排，谈判仍在进行中，也可能最终破裂。此次潜在协议将成为两方之间迄今规模最大的商业合作之一。&lt;/p&gt;
+&lt;p&gt;协议一旦落地，将对云计算市场格局产生直接冲击。目前亚马逊、微软、谷歌和甲骨文均是五角大楼主要云服务供应商。SpaceX的入局，意味着该市场竞争将显著加剧，尤其是在防务AI算力这一高速增长的细分领域。&lt;/p&gt;
+&lt;p&gt;此次谈判也再次将马斯克的政商关系置于舆论焦点之下。五角大楼长期依赖SpaceX负责火箭发射，以及通信和导弹追踪卫星的运营管理。&lt;/p&gt;
+&lt;p&gt;部分国家安全官员已公开表达对五角大楼过度依赖马斯克旗下服务的担忧，马斯克在特朗普2024年总统竞选中的巨额政治捐献，亦持续引发利益冲突方面的质疑。对此，特朗普政府官员否认了上述批评。&lt;/p&gt;
+&lt;p&gt;消息发出后，SpaceX股价一度快速反弹，但随后继续下跌，周五最终收跌5.43%。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;SpaceX押注云计算&lt;/strong&gt;
+&lt;p&gt;SpaceX正将云计算业务列为重要战略方向。&lt;/p&gt;
+&lt;p&gt;该公司已分别与Anthropic和谷歌签署了类似的算力供应协议，并计划大幅扩张其云计算业务。近几周内，SpaceX员工已讨论以低于CoreWeave等现有供应商的价格向AI客户提供算力，直接参与市场竞争。&lt;/p&gt;
+&lt;p&gt;在算力基础设施方面，SpaceX近期完成了对马斯克旗下xAI的收购并实现上市，将Grok AI模型及其数据中心纳入业务版图。&lt;/p&gt;
+&lt;p&gt;为快速提升算力规模，SpaceX在孟菲斯迅速建设了大型数据中心。马斯克在公司公开文件中表示，其建设速度快于竞争对手，成本也更低。&lt;/p&gt;
+&lt;p&gt;该公司的策略之一是在现场安装燃气轮机自行发电，但此举已引发一起指控公司违反环保规定的诉讼。此外，SpaceX还曾向投资者推介在太空部署数据中心的构想。&lt;/p&gt;
+&lt;p&gt;从商业逻辑来看，出租算力在短期内已被证明比销售Grok AI模型更为可观。据悉，与Anthropic、谷歌及初创公司Reflection AI的协议，合计可能为SpaceX带来数百亿美元的年收入。&lt;/p&gt;
+&lt;strong&gt;五角大楼抢夺AI算力&lt;/strong&gt;
+&lt;p&gt;国防部正大力投入AI基础设施建设。&lt;/p&gt;
+&lt;p&gt;五角大楼正寻求300亿美元资金，用于支持名为&amp;quot;人工智能武器库&amp;quot;（Artificial Intelligence Arsenal）的新项目，重点是采购高端AI芯片。该项目已在国防部2027年度预算申请相关文件中予以阐述，目前正由国会讨论审议。&lt;/p&gt;
+&lt;p&gt;在供应商政策方面，五角大楼表示希望降低对单一科技公司的依赖。国防部近期已批准包括SpaceX、亚马逊、谷歌、微软和甲骨文在内的多家企业，允许其在涉密环境中提供AI模型及相关技术。&lt;/p&gt;
+&lt;p&gt;今年早些时候与Anthropic的一场纠纷，进一步强化了部门内部对供应商锁定风险的警惕。目前亚马逊是五角大楼算力的主要供应商，据报道正斥资500亿美元扩充面向政府机构、尤其是国防部的服务能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
