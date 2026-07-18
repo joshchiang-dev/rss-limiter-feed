@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 01:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 宝马在华失速，掉进换代空窗期</title><link>https://wallstreetcn.com/articles/3777244</link><guid>8fda8b6aab492ecfbc2c1d5bcc7d8dceae7d336ec94e7ce323798955371892b4</guid><pubDate>Fri, 17 Jul 2026 14:22:38 GMT</pubDate><description>&lt;p&gt;宝马在中国市场的持续失速，改写了这家豪车品牌的全球销量格局。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 01:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 宝马在华失速，掉进换代空窗期</title><link>https://wallstreetcn.com/articles/3777244</link><guid>8fda8b6aab492ecfbc2c1d5bcc7d8dceae7d336ec94e7ce323798955371892b4</guid><pubDate>Fri, 17 Jul 2026 14:22:38 GMT</pubDate><description>&lt;p&gt;宝马在中国市场的持续失速，改写了这家豪车品牌的全球销量格局。&lt;/p&gt;
 &lt;p&gt;宝马集团近日发布的2026年上半年销量数据显示，全球累计交付115.67万辆，同比下滑4.2%。&lt;/p&gt;
 &lt;p&gt;这份半年报呈现出显著的区域分化。其中，欧美市场均实现同比个位数增长；中国市场却录得26.18万辆，同比下滑20.4%，其中第二季度单季跌幅扩大至30.2%。&lt;/p&gt;
 &lt;p&gt;按宝马集团公布的汽车业务销量计算，中国市场占宝马全球销量的比重从峰值33.5%降至约25.5%，同期，欧洲销售区域交付量已超过中国市场，成为宝马最大的销售区域。这也是2013年以来，中国市场首次不再是宝马集团全球第一大单一市场。&lt;/p&gt;
@@ -64,32 +64,7 @@
 &lt;p&gt;Truth API是TMTG近期一系列多元化尝试之一。&lt;/p&gt;
 &lt;p&gt;该公司此前已涉足流媒体和加密货币领域，并于去年达成与一家核聚变公司的合并协议——此举将使这家总统旗下的公司与其他开发商形成竞争，而核聚变所在的能源领域恰恰正受到特朗普政府的政策支持与监管双重影响。&lt;/p&gt;
 &lt;p&gt;Truth Social本身的用户增长依然有限，公司整体仍处于亏损状态，对特朗普帖文的依赖构成其主要流量来源。&lt;/p&gt;
-&lt;p&gt;Kevin McGurn将Truth API描述为将&amp;quot;专有资产&amp;quot;商业化的战略组成部分，但这一定位本身——将现任总统的公开表态界定为可出售的&amp;quot;专有资产&amp;quot;——正是外界质疑的焦点所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破</title><link>https://wallstreetcn.com/articles/3777236</link><guid>1bfb9b374a4bca29d86b3c3b009a1541a1b3a427515b0f7dc25d5e83095eacea</guid><pubDate>Fri, 17 Jul 2026 13:33:56 GMT</pubDate><description>&lt;p&gt;月之暗面于7月17日发布旗舰大模型K3，在全球基准测试中跻身前三，引发市场广泛关注。摩根士丹利将K3的问世定性为中国大模型产业全面追赶美国领先者的标志性信号——这一追赶在模型规模、性能表现与API定价三个维度同步实现。&lt;/p&gt;
-&lt;p&gt;据追风交易台，摩根士丹利在最新报告中指出，&lt;strong&gt;K3在Artificial Analysis全球智能指数排名中位列第三，仅次于两家顶级美国大模型；在Arena.ai编程排行榜上更夺得全球第一。与&lt;/strong&gt;此同时，K3的API定价为中国主流大模型中最高，进一步缩小了与美国头部产品的价格差距，对整体大模型市场定价格局具有积极意义。&lt;/p&gt;
-&lt;p&gt;摩根士丹利分析师Gary Yu与Lydia Lin在报告中强调，&lt;strong&gt;K3的出现并非一夜奇迹，而是中国AI模型产业长期累积进步的结果。报告预计，未来将有更多中国大模型在参数规模、定价水平与性能表现上持续突破，并具备强劲的全球竞争力。&lt;/strong&gt;&lt;/p&gt;
-K3核心参数：2.8万亿参数，迄今最大开源中文大模型
-&lt;p&gt;K3是一款专注于长周期任务、知识工作与推理能力的开放权重大语言模型，总参数量达2.8万亿（2.8T），为目前规模最大的开源中文大模型。Moonshot计划于7月27日前完成全部权重的公开发布。&lt;/p&gt;
-&lt;p&gt;在技术层面，K3采用了两项原创算法创新——Kimi Delta Attention与Attention Residual，旨在提升计算效率。上下文窗口为100万tokens，与阿里巴巴Qwen3.7-Max、MiniMax M3、智谱GLM-5.2等主流中国大模型持平。&lt;/p&gt;
-&lt;p&gt;据摩根士丹利整理的横向对比数据，当前中国前沿大模型参数规模差异显著：MiniMax M3为4280亿参数，DeepSeek V4-Pro为1.6万亿参数，智谱GLM-5.2为7540亿参数，而K3以2.8万亿参数居于首位。&lt;/p&gt;
-定价策略：高定价重塑市场格局
-&lt;p&gt;在API定价方面，K3的输出价格为每百万tokens人民币100元，远高于DeepSeek V4-Pro和小米MiMoV2的6元，也高于智谱GLM-5.2的28元和阿里巴巴Qwen3.7-Max的36元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;输入价格（未缓存）为每百万tokens人民币20元，同样位居中国主流大模型最高位。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利认为，K3的高定价策略对大模型市场动态具有正面意义。此前中国大模型市场长期存在激烈的价格竞争，K3的定价取向有助于引导行业向更具可持续性的商业模式演进，同时也在一定程度上缩小了中美大模型之间的定价鸿沟。&lt;/p&gt;
-性能表现：全球编程榜第一，综合排名紧追美国头部
-&lt;p&gt;在性能基准测试方面，K3在Artificial Analysis智能指数中得分57分，显著领先于同期中国主流大模型——MiniMax M3和DeepSeek V4-Pro均为44分，阿里巴巴Qwen3.7-Max为46分，智谱GLM-5.2为51分。&lt;/p&gt;
-&lt;p&gt;在编程能力方面，K3在Arena.ai编程排行榜上位列全球第一，超越所有美国竞争对手。&lt;/p&gt;
-&lt;p&gt;摩根士丹利报告指出，K3在全球范围内获得了积极反馈，这一成绩标志着中国大模型在核心能力维度上已实现对美国领先者的实质性追赶。&lt;/p&gt;
-大摩研判：非一夜奇迹，系产业积累的集中体现
-&lt;p&gt;摩根士丹利明确表示，不将K3视为突如其来的技术突破，而是将其置于中国AI模型产业持续演进的脉络中加以理解。报告指出，今年6月发布的智谱GLM-5.2已展现出出色的性能水准，K3的问世是这一进步趋势的延续与升华。&lt;/p&gt;
-&lt;p&gt;报告同时指出，K3参数规模的突破表明扩展定律（scaling law）在当前阶段仍然有效，这对于判断中国大模型产业的技术路径具有重要参考价值。&lt;/p&gt;
-&lt;p&gt;摩根士丹利预计，中国将持续涌现出规模更大、定价更高、性能更强的大模型产品，并在全球市场形成有力竞争态势。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”</title><link>https://wallstreetcn.com/articles/3777275</link><guid>0d5a26b854274a501b6085c80fa0541c6b64df47bc6a6743f9e98cf80a3f850a</guid><pubDate>Sat, 18 Jul 2026 01:10:57 GMT</pubDate><description>&lt;p&gt;美国半导体股遭遇逾一年来最惨烈的单周跌幅，费城半导体指数较6月高点累计回撤超20%，正式步入技术性熊市。这场抛售被高盛资产配置研究主管Christian Mueller-Glissmann定性为&amp;quot;有记录以来最大规模的动量策略抛售之一&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Kevin McGurn将Truth API描述为将&amp;quot;专有资产&amp;quot;商业化的战略组成部分，但这一定位本身——将现任总统的公开表态界定为可出售的&amp;quot;专有资产&amp;quot;——正是外界质疑的焦点所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”</title><link>https://wallstreetcn.com/articles/3777275</link><guid>0d5a26b854274a501b6085c80fa0541c6b64df47bc6a6743f9e98cf80a3f850a</guid><pubDate>Sat, 18 Jul 2026 01:10:57 GMT</pubDate><description>&lt;p&gt;美国半导体股遭遇逾一年来最惨烈的单周跌幅，费城半导体指数较6月高点累计回撤超20%，正式步入技术性熊市。这场抛售被高盛资产配置研究主管Christian Mueller-Glissmann定性为&amp;quot;有记录以来最大规模的动量策略抛售之一&amp;quot;。&lt;/p&gt;
 &lt;p&gt;费城半导体指数本周累计下跌近10%，为2025年4月特朗普关税冲击市场以来最大单周跌幅。周五该指数再跌1.6%，纳斯达克综合指数同日下挫1.4%，标普500指数跌1%。此轮抛售已令芯片及存储股市值蒸发数百亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这场动荡的核心，是对冲基金和共同基金大规模平仓&amp;quot;做多半导体、做空超大规模云计算商&amp;quot;这一年内最热门的配对交易。&lt;strong&gt;随着市场方向逆转，动量策略的内在脆弱性集中暴露，此前涨幅最大的个股反而成为抛售重灾区。&lt;/strong&gt;&lt;/p&gt;
@@ -107,7 +82,24 @@ K3核心参数：2.8万亿参数，迄今最大开源中文大模型
 &lt;p&gt;日本科技权重指数日经225周五大跌4%，日本芯片制造商铠侠单日暴跌逾16%，较6月高点已累计腰斩。对冲基金Lotus Asset Management首席投资官Hao Hong将亚洲科技股的急剧下跌归因于量化基金的抛售，&lt;strong&gt;将其定性为“动量崩溃”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在国内市场，AI初创企业Z.ai和MiniMax分别重挫28.5%和15.6%，导火索是竞争对手月之暗面发布了一款能力接近Anthropic等顶尖美国实验室水平的大语言模型。&lt;/p&gt;
 &lt;p&gt;欧洲方面，斯托克欧洲600指数下跌0.3%，全球最大芯片制造设备商ASML跌近4%。马斯克旗下SpaceX则下跌5%，股价已跌破上月IPO发行价。&lt;/p&gt;
-&lt;p&gt;在个股层面，存储芯片制造商受到的冲击最为集中。美光和闪迪等存储芯片企业被点名为此轮&amp;quot;动量交易逆转&amp;quot;中跌幅最为显著的标的，此前正是这类高弹性品种吸引了大量趋势追踪资金的涌入。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 奈飞两年内二度收紧数据披露：观看时长改为年更，估值标尺从“流量”全面转向“利润”</title><link>https://wallstreetcn.com/articles/3777252</link><guid>c66d33c79f8bd8917a583cf236545e2198117cb1116e342aa1e30122b7bdced0</guid><pubDate>Fri, 17 Jul 2026 16:20:24 GMT</pubDate><description>&lt;p&gt;继2025年停止披露季度订阅用户数据后，奈飞再次收紧信息披露口径。公司最新财报显示，&lt;strong&gt;自2027年1月起，观看时长（Viewing Hours）数据及《What We Watched》收视报告均将由每年发布两次调整为每年一次。&lt;/strong&gt;这意味着，外界能够直接观察奈飞内容表现和平台活跃度的核心运营指标进一步减少。&lt;/p&gt;
+&lt;p&gt;在个股层面，存储芯片制造商受到的冲击最为集中。美光和闪迪等存储芯片企业被点名为此轮&amp;quot;动量交易逆转&amp;quot;中跌幅最为显著的标的，此前正是这类高弹性品种吸引了大量趋势追踪资金的涌入。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “老登”逆袭！苹果短暂超越英伟达，成为全球最高市值公司</title><link>https://wallstreetcn.com/articles/3777276</link><guid>375f43ac22c0aaa4960852761d74b2be672269400fec40e50d9ee709e4ada82f</guid><pubDate>Sat, 18 Jul 2026 01:22:48 GMT</pubDate><description>&lt;p&gt;苹果公司在AI浪潮中以&amp;quot;守&amp;quot;为攻，凭借轻资产策略和AI复苏预期，短暂夺回全球市值第一宝座。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周五，英伟达股价下跌约2%，受中国AI开发商月之暗面旗下新模型Kimi K3发布冲击，科技股遭遇普跌。苹果股价则几乎持平，市值一度短暂超越英伟达，时隔逾一年重登全球最高市值公司之位。&lt;/strong&gt;截至收盘，英伟达市值以4.908万亿美元小幅领先苹果的4.902万亿美元，两者差距极为微小。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此番逆袭折射出市场情绪的深层转变——投资者开始重新审视AI赛道中&amp;quot;重投入&amp;quot;与&amp;quot;轻资产&amp;quot;两种路径的相对价值，苹果正被部分投资者视为AI交易中的避险港湾。&lt;/p&gt;
+英伟达承压，不烧钱的AI逻辑下苹果&amp;quot;躺赢&amp;quot;
+&lt;p&gt;本次市值易位的直接导火索，是Kimi K3新模型的发布再度引发市场对硅谷天价AI基础设施投入的质疑。英伟达作为AI算力核心供应商，首当其冲，股价单日下跌约2%。&lt;/p&gt;
+&lt;p&gt;与此同时，苹果并未跟随大盘科技股下挫，其市值由此逼近5万亿美元关口。英伟达曾于去年10月率先突破5万亿美元，成为史上首家达到这一里程碑的公司，而苹果若能站稳该关口，将成为史上第二家。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;苹果在AI赛道上的独特之处，在于其刻意保持的低资本支出策略。&lt;/strong&gt;据汇丰银行分析师测算，苹果2026年预测销售额中，用于AI数据中心等资本支出的比例仅约2.5%，而Meta、谷歌、亚马逊、微软等&amp;quot;超大规模云厂商&amp;quot;的这一比例高达39%。&lt;/p&gt;
+&lt;p&gt;这一对比令苹果在当前市场环境下显得格外&amp;quot;稳健&amp;quot;。当竞争对手承诺投入数千亿美元建设芯片与数据中心时，苹果的克制反而成为吸引资金的筹码。&lt;/p&gt;
+多重催化剂推动股价反弹
+&lt;p&gt;苹果股价自6月底以来已累计上涨约20%，多重利好接连落地。&lt;/p&gt;
+&lt;p&gt;重新设计的Siri语音助手上月正式亮相，获得市场普遍正面评价；中国监管机构释放信号，苹果新AI系统有望很快在全球最大智能手机市场上线，进一步提振投资者信心。&lt;/p&gt;
+&lt;p&gt;与此同时，苹果正与特朗普政府就获准向长鑫存储采购内存芯片进行谈判，此举若成功将有助于缓解其不断攀升的零部件成本压力。&lt;/p&gt;
+&lt;p&gt;苹果还对OpenAI发起法律挑战，指控其前员工跳槽至ChatGPT母公司后涉嫌窃取商业机密，此举亦获得华尔街的积极解读。&lt;/p&gt;
+华尔街上调评级，看好AI产品周期
+&lt;p&gt;周五，汇丰银行分析师将苹果评级上调至买入，成为华尔街少数此前尚未给出买入评级的大行之一。&lt;strong&gt;汇丰在研报中表示，苹果&amp;quot;有充分条件借助即将推出的升级版Apple Intelligence，撬动其25亿台的庞大设备安装基础&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;汇丰还指出，&amp;quot;这一AI提振恰逢其时，我们认为苹果目前拥有其历史上最具创新性的产品管线之一&amp;quot;，并预计首款可折叠iPhone将于9月发布。&lt;/p&gt;
+&lt;p&gt;不过，苹果并非没有经历波折。上月，苹果宣布将iPad和Mac产品价格上调最高20%，并警告称面临&amp;quot;内存与存储需求的异常激增&amp;quot;，消息一出，股价单日跌幅创下特朗普去年关税冲击以来最大单日跌幅。但随着上述多重利好陆续浮现，股价随即企稳回升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 奈飞两年内二度收紧数据披露：观看时长改为年更，估值标尺从“流量”全面转向“利润”</title><link>https://wallstreetcn.com/articles/3777252</link><guid>c66d33c79f8bd8917a583cf236545e2198117cb1116e342aa1e30122b7bdced0</guid><pubDate>Fri, 17 Jul 2026 16:20:24 GMT</pubDate><description>&lt;p&gt;继2025年停止披露季度订阅用户数据后，奈飞再次收紧信息披露口径。公司最新财报显示，&lt;strong&gt;自2027年1月起，观看时长（Viewing Hours）数据及《What We Watched》收视报告均将由每年发布两次调整为每年一次。&lt;/strong&gt;这意味着，外界能够直接观察奈飞内容表现和平台活跃度的核心运营指标进一步减少。&lt;/p&gt;
 &lt;p&gt;奈飞在股东信中表示，希望投资者更多关注营收、营业利润等核心财务指标，而非单一运营数据。这一调整也标志着，&lt;strong&gt;奈飞正进一步推动自身估值逻辑从&amp;quot;用户增长&amp;quot;转向&amp;quot;盈利能力&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，这一决定公布的时点颇为敏感。公司第三季度营收和每股收益指引均低于市场预期，财报发布后股价盘中跌超9%。在增长预期承压之际进一步减少运营数据披露，难免引发市场对于未来内容表现和增长动能的更多猜测。&lt;/p&gt;
 从订阅用户到观看时长，奈飞持续收缩运营数据披露
@@ -241,26 +233,7 @@ AI高估值资产被重估 SpaceX市值一个月蒸发超1万亿美元
 &lt;/blockquote&gt;
 &lt;p&gt;此外，美国家庭对自身财务状况以及整体经济形势的看法有所改善。其中，衡量耐用品购买条件的指标回升至去年10月份以来的最高水平。&lt;/p&gt;
 &lt;p&gt;不过，生活成本依然是美国民众的主要痛点。尽管本周早些时候公布的数据显示，6月份美国消费者物价创下了新冠疫情暴发以来的最大跌幅，但整体通胀率依旧处于高位。&lt;/p&gt;
-&lt;p&gt;在细分指标中，7月现况指数升至54.9，创下四个月新高；预期指数则改善至54，为今年2月份以来的最高水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：美国考虑设立独立AI监管机构，对顶级AI模型进行安全审查</title><link>https://wallstreetcn.com/articles/3777267</link><guid>bc8fddfc0c4122880d3e2bd5568307a26ef44cc47573b63adb2a68be4fabdc99</guid><pubDate>Fri, 17 Jul 2026 22:48:40 GMT</pubDate><description>&lt;p&gt;在硅谷科技领袖抱怨美国政府近期限制尖端AI系统发布的措施缺乏一致性和透明度后，特朗普政府正考虑设立一个由行业参与的独立监管机构，对人工智能模型进行安全审查。&lt;/p&gt;
-&lt;p&gt;据彭博援引知情人士透露，美国财政部长贝森特参与制定了一项提案，拟仿照金融业监管局（Finra）模式，创建一个向美国证券交易委员会（SEC）负责的独立AI监管机构。该提案目前正由白宫幕僚长Susie Wiles审议。&lt;/p&gt;
-&lt;p&gt;该提案的出台背景，是Anthropic和OpenAI此前因政府介入其模型发布流程而公开表达不满。&lt;/p&gt;
-&lt;p&gt;上月，Anthropic旗下Fable 5和Mythos 5模型因美国出口管制措施被迫临时下线；OpenAI则在政府要求下对最新Sol模型进行重大修改。两家公司均认为相关举措相对于实际安全风险而言力度过重。&lt;/p&gt;
-
-提案仿照Finra架构，行业参与标准制定
-
-&lt;p&gt;根据知情人士描述，该提案拟建立一个独立监管机构，由行业出资，并在SEC的授权框架下运作——这一结构与Finra对券商的监管模式高度相似。&lt;/p&gt;
-&lt;p&gt;该机构将允许金融行业和科技行业共同参与AI安全标准的制定，从而在加强网络安全管控的同时，减少对AI公司的不确定性冲击。上述框架仍处于讨论阶段，细节可能发生变化。&lt;/p&gt;
-&lt;p&gt;目前尚不明确新机构将对模型进行哪些类型的评估、如何获得资金支持，以及SEC在监管AI公司方面将扮演何种角色。&lt;/p&gt;
-&lt;p&gt;白宫一名官员表示，政府正在评估多项方案，以巩固美国在AI领域的领先地位并强化网络安全。&lt;/p&gt;
-
-DeepMind方案获科技圈背书，与政府思路趋于一致
-
-&lt;p&gt;本周早些时候，谷歌DeepMind首席执行官Demis Hassabis发布了一套政策建议，与美国政府正在讨论的方案高度契合。&lt;/p&gt;
-&lt;p&gt;Hassabis建议由独立技术专家组成委员会，在联邦政府监督下的标准机构框架内对AI模型进行审查，所需资金和算力由行业自行提供，并与政府机构及美国国家实验室合作，针对网络安全、生物威胁等领域开发模型测试协议。&lt;/p&gt;
-&lt;p&gt;Hassabis在社交媒体X上发文时，明确将其设想的监管机构类比为Finra。这一方案获得微软CEO Satya Nadella、OpenAI CEO Sam Altman以及SpaceX CEO马斯克的公开赞扬——这三位通常被视为彼此之间的竞争对手。&lt;/p&gt;
-&lt;p&gt;Hassabis下周将赴华盛顿与政策制定者会面，就上述方案进行游说。&lt;/p&gt;
-&lt;p&gt;就现行监管状况而言，特朗普政府对于AI安全议题的政策取向一直存在内部分歧。Anthropic旗下的Mythos模型因具备引发官员和商界担忧的网络攻击能力，使政府不得不重新权衡干预力度。&lt;/p&gt;
-&lt;p&gt;最新提案与特朗普此前签署的一项行政令方向更为接近——该行政令概述了一套由AI公司参与建立的轻度干预、自愿审查机制。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大山火肆虐，特朗普威胁将污染成本计入关税</title><link>https://wallstreetcn.com/articles/3777264</link><guid>0ba1439addf089169cf894f200a389a987c0d4f230a2c597b686566c1678a0f2</guid><pubDate>Fri, 17 Jul 2026 20:52:48 GMT</pubDate><description>&lt;p&gt;加拿大山火引发的雾霾持续蔓延至美国多个城市，促使特朗普威胁将污染成本计入关税。&lt;/p&gt;
+&lt;p&gt;在细分指标中，7月现况指数升至54.9，创下四个月新高；预期指数则改善至54，为今年2月份以来的最高水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大山火肆虐，特朗普威胁将污染成本计入关税</title><link>https://wallstreetcn.com/articles/3777264</link><guid>0ba1439addf089169cf894f200a389a987c0d4f230a2c597b686566c1678a0f2</guid><pubDate>Fri, 17 Jul 2026 20:52:48 GMT</pubDate><description>&lt;p&gt;加拿大山火引发的雾霾持续蔓延至美国多个城市，促使特朗普威胁将污染成本计入关税。&lt;/p&gt;
 &lt;p&gt;7月17日，&lt;strong&gt;美国总统特朗普在社交媒体发文指责加拿大维护森林不善，称加森林野火殃及美国空气质量，类似情况每年发生，给美国带来“数十亿美元”损失。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;他表示当天将就此致电加拿大总理，并威胁说美方损失必须加到加拿大支付的关税上。&lt;/strong&gt;消息后，美元兑加元汇率横盘波动，暂报1.4010；&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -348,4 +321,35 @@ DeepMind方案获科技圈背书，与政府思路趋于一致
 &lt;p&gt;伊朗面临巨大的战后重建压力，国内民众对政府的不满情绪也在加剧。特朗普政府则承受着油价飙升对美国经济造成冲击的政治压力。&lt;/p&gt;
 &lt;p&gt;美国官员本周早些时候表示，特朗普倾向于扩大军事行动以打破外交僵局。据飞行追踪数据及一名知情人士透露，美军正将喷气式战斗机从欧洲重新部署至中东。此外，来自第11海军陆战队远征部队的逾2000名海军陆战队员已在该地区展开行动，军方发布的照片显示其正在阿曼湾对一艘商船实施登临检查，以强化对伊朗港口的封锁执行。&lt;/p&gt;
 &lt;p&gt;特朗普周四晚间在黄金时段的电视讲话中表示，&amp;quot;我们同样在伊朗取得了重大胜利，你们很快就会看到这些努力的成果。&amp;quot;&lt;/p&gt;
-&lt;p&gt;然而，Saeid Golkar的判断更为审慎。他指出，德黑兰的一贯战略是以更高烈度的升级压制对手、并以持久战拖垮美国。在双方均争取筹码、均不愿率先退让的当下，失控的升级螺旋已成为市场无法回避的核心风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;然而，Saeid Golkar的判断更为审慎。他指出，德黑兰的一贯战略是以更高烈度的升级压制对手、并以持久战拖垮美国。在双方均争取筹码、均不愿率先退让的当下，失控的升级螺旋已成为市场无法回避的核心风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石贝莱德阿波罗相继遭遇赎回潮：3万亿私募信贷市场拐点已至</title><link>https://wallstreetcn.com/articles/3777240</link><guid>345cadbfe8ee7f9bdbb674298b9625829dbf68b4860aad9a52c964f0a8e425b4</guid><pubDate>Fri, 17 Jul 2026 15:42:45 GMT</pubDate><description>&lt;p&gt;曾被视为全球金融体系最大增量资金来源之一的私募信贷，如今正迎来成立以来最严峻的考验。随着违约上升、赎回潮爆发以及基金陆续启动赎回限制，&lt;strong&gt;规模高达2.5万亿至3万亿美元的私募信贷市场正从高速扩张转向风险出清，其影响也开始向商业银行、AI融资和资本市场传导。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从去年四季度开始，First Brands、Tri-Color Auto等企业相继破产，私募信贷组合信用质量持续承压。今年以来，&lt;strong&gt;贝莱德、黑石、阿波罗、Cliffwater、Blue Owl等多家头部机构旗下基金先后触发赎回限制（Gating），二季度赎回压力进一步加剧。&lt;/strong&gt;市场人士认为，私募信贷市场实际上已陷入停滞，行业正从&amp;quot;限制赎回&amp;quot;逐步走向&amp;quot;折价处置资产&amp;quot;。&lt;/p&gt;
+&lt;p&gt;与此同时，PIMCO近期明确表示，全球信贷违约周期已经开启，未来损失规模可能明显超出市场预期。随着风险逐步暴露，养老金、保险资金、高净值投资者等长期资金将首当其冲，而商业银行信贷投放以及AI数据中心融资也可能受到连锁影响。&lt;/p&gt;
+从银行退出到资本狂欢，私募信贷快速膨胀
+&lt;p&gt;私募信贷市场诞生于2008年全球金融危机之后。&lt;/p&gt;
+&lt;p&gt;危机过后，监管趋严迫使商业银行收缩高风险贷款业务，非银行金融机构迅速填补这一空白，&lt;strong&gt;以私募信贷基金和商业发展公司（BDC）为代表的直接贷款市场快速崛起，资金主要来自养老金、保险公司、捐赠基金以及高净值投资者。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与公开交易的高收益债不同，私募信贷贷款通常持有至到期，不进行公开交易，也无需每日盯市。对于借款企业而言，这意味着融资效率更高、条款更加灵活、信息更加保密；对于投资人而言，则意味着能够获得高于公开债券的收益率，同时账面波动较小。但这种&amp;quot;低波动&amp;quot;更多来自估值机制，而非风险本身。&lt;/p&gt;
+&lt;p&gt;由于资产由基金自行估值、缺乏公开市场价格，信用恶化往往不会第一时间体现在净值之中。与此同时，大量风险较高的借款人逐渐脱离公开债券市场，使公开垃圾债整体信用质量反而有所改善。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过去几年，私募信贷的业务范围也不断扩大，从年收入1000万美元至10亿美元的中型企业，逐步延伸至大型并购融资以及AI基础设施建设。&lt;/strong&gt;摩根士丹利去年11月曾预计，未来AI数据中心约1.5万亿美元外部融资需求中，最多一半可能来自私募信贷市场。&lt;/p&gt;
+费率驱动资金狂奔，信贷标准开始松动
+&lt;p&gt;行业爆发式增长背后，是极具吸引力的盈利模式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私募信贷基金综合收费通常达到净资产的3%-4%，虽然低于私募股权基金，但远高于传统固定收益产品。&lt;/strong&gt;这一模式吸引大量华尔街机构争相布局，也推动资金持续流入。&lt;/p&gt;
+&lt;p&gt;市场估计，&lt;strong&gt;2024年至2025年间，行业资产管理规模增长约50%-75%，整体规模已经达到2.5万亿至3万亿美元。同期，美国新增商业信贷的大量增量实际上流向了这些非银行贷款机构。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，资金增长远快于优质借款人的增长速度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;随着竞争不断加剧，贷款机构不得不接受信用质量更弱、贷款契约更宽松的借款人，以维持资金投放速度。&lt;/strong&gt;&amp;quot;宽松贷款（Covenant-lite）&amp;quot;比例持续上升，行业整体风险不断累积，而这一问题直到违约开始增加才逐渐暴露。&lt;/p&gt;
+赎回潮爆发，市场流动性开始冻结
+&lt;p&gt;随着违约率上升，私募信贷市场最大的结构性弱点开始暴露。&lt;/p&gt;
+&lt;p&gt;由于底层贷款缺乏公开交易市场，基金无法像公募债券基金一样快速出售资产满足赎回需求。当赎回比例达到预设门槛后，基金只能启动赎回限制条款，限制投资者提取资金。&lt;/p&gt;
+&lt;p&gt;今年以来，贝莱德、黑石、阿波罗、Cliffwater、Blue Owl等大型机构旗下产品已陆续启动相关机制，且二季度赎回压力进一步上升。市场人士认为，目前私募信贷市场实际上已进入&amp;quot;冻结&amp;quot;状态。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;虽然市场仍有少量新增贷款，但整体交易活动明显萎缩。一旦赎回持续扩大，部分基金可能不得不以低于账面价值出售贷款资产，行业也将正式进入价格重估阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;相比公开债券市场，更大的问题在于透明度。外部投资者目前几乎无法准确判断基金真实违约率、资产减值规模以及最终回收率，只能观察到持续增加的资金流出以及不断升级的流动性压力。&lt;/p&gt;
+风险开始向银行体系和AI融资传导
+&lt;p&gt;私募信贷并非独立运行，其背后高度依赖银行体系提供流动性支持。&lt;/p&gt;
+&lt;p&gt;目前，银行通过认购融资、净值融资（NAV Financing）、循环信贷额度等方式，为私募信贷基金提供大量杠杆资金。数据显示，银行对非存款类金融机构（NDFI）的或有流动性敞口约为2.3万亿美元，其中私募信贷占比近年来持续提高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果私募信贷行业进入集中违约和持续赎回阶段，银行可能面临更多流动性支持需求，并进一步收紧整体信贷投放。这未必意味着系统性金融危机，但消费贷款、企业贷款以及房地产融资都可能受到影响。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另一个潜在冲击来自AI基础设施融资。&lt;/strong&gt;此前市场普遍预计，私募信贷将承担AI数据中心约一半外部融资需求。但随着资金持续流出、市场流动性冻结，这一融资渠道短期内明显收缩。&lt;/p&gt;
+&lt;p&gt;考虑到AI相关企业目前约占标普500指数总市值45%，如果AI资本开支因融资受阻而放缓，相关影响或进一步传导至美国股市整体估值。&lt;/p&gt;
+PIMCO：违约周期已经开始
+&lt;p&gt;固定收益巨头PIMCO近期明确表示，全球信贷违约周期已经开启，未来损失规模可能明显高于市场普遍预期。&lt;/p&gt;
+&lt;p&gt;对于私募信贷而言，这意味着行业过去十余年依赖宽松融资环境和低违约率建立起来的发展逻辑正在发生变化。最终承担损失的，将主要是养老金、保险资金、资产管理机构以及高净值投资者，而目前大量贷款仍采用模型估值，实际损失尚未完全反映在账面。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场人士认为，私募信贷正在经历成立以来第一次真正意义上的信用周期考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着违约、赎回和资产折价形成相互强化的负反馈，过去推动行业高速扩张的信用循环正在逆转。这场始于私募信贷市场的调整，未来是否进一步传导至银行体系、AI投资周期乃至股票市场，或将成为下半年全球金融市场最值得关注的风险变量之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
