@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 15:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心</title><link>https://wallstreetcn.com/articles/3777301</link><guid>10023ea6a0c0143da5c737f6357f261c7003e20f163761589100cafb69c5939c</guid><pubDate>Sat, 18 Jul 2026 08:39:43 GMT</pubDate><description>&lt;p&gt;当AI从“能说会写”走向“能做会干”，云计算的核心用户、SaaS的收费方式、企业AI落地的基础设施，正在被智能体重新定义。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 15:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心</title><link>https://wallstreetcn.com/articles/3777301</link><guid>10023ea6a0c0143da5c737f6357f261c7003e20f163761589100cafb69c5939c</guid><pubDate>Sat, 18 Jul 2026 08:39:43 GMT</pubDate><description>&lt;p&gt;当AI从“能说会写”走向“能做会干”，云计算的核心用户、SaaS的收费方式、企业AI落地的基础设施，正在被智能体重新定义。&lt;/p&gt;
 &lt;p&gt;2026世界人工智能大会期间，在上海举行的阿里云“Agentic Cloud智能体时代的基础设施论坛”上，阿里云及产业伙伴围绕Agent Infra、Agentic Products、AI Native Cloud、Data Plane、Security等议题，披露了多项产品进展、产业案例和基础设施数据。&lt;/p&gt;
 &lt;p&gt;这场论坛没有给出新的财务收入增速、订单或业绩指引，但从市场关注的角度看，阿里云释放的核心信号是：AI云的竞争正在从单一模型能力，扩展到推理效率、数据平台、Agent运行时、安全治理以及面向业务结果的交付能力。换句话说，AI云的商业化想象空间，正在从“卖算力、卖模型调用”，进一步走向“支撑智能体完成业务结果”。&lt;/p&gt;
 
@@ -461,26 +461,6 @@ Kimi K3树立中国模型定价新标杆
 &lt;p&gt;各家模型公司正积极布局智能体应用作为关键流量入口，尤其是编程领域，例如智谱的ZCode、腾讯的Workbuddy、阿里的Qoder等聚合平台，旨在通过闭环获取更多真实编程及智能体数据以支撑模型迭代。协作办公及行业专家智能体产品有望成为下一优先方向。&lt;/p&gt;
 &lt;p&gt;在低端定价区间，预计面向智能体应用的API定价及毛利率将持续承压，每百万token约0.1至0.2美元的价格区间竞争激烈，原因在于中国AI模型公司融资后普遍持有充裕现金储备，具备补贴定价的能力。&lt;strong&gt;因此将财务实力列为评估中国AI模型公司的三大核心指标之一，另外两项为定价权与成本效率。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与文本基础模型赛道的价格战形成对比，高盛对视频生成模型赛道持更为乐观的态度。报告指出，SeeDance、快手，以及MiniMax的Hailuo及即将推出的H3模型，有望在2026年下半年延续健康增长，受益于视频生成与大语言模型融合等功能突破，以及算力供给持续紧张、需求显著超过产能的有利格局。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI牛市结束了吗？市场充满疑虑</title><link>https://wallstreetcn.com/articles/3777289</link><guid>8f0606cfc40dd27f4619303a3f85ecd72d6fa78ba13e96bdade9c1b048836503</guid><pubDate>Sat, 18 Jul 2026 03:46:45 GMT</pubDate><description>&lt;p&gt;科技公司盈利强劲、资本开支计划积极，股价却有所下滑——这一背离信号正在令投资者陷入困惑。AI繁荣终结的路径已从单一叙事演变为多重情景交织，市场的不确定性由此显著上升。&lt;/p&gt;
-&lt;p&gt;据追风交易台，野村证券策略师Naka Matsuzawa在7月17日发布的报告中指出，AI投资的成本收益平衡已变得模糊，市场参与者面对多种潜在的&amp;quot;AI繁荣终结情景&amp;quot;，正处于疑虑与观望之中。与此同时，科技板块内部出现明显分化：半导体股大幅下跌，MAG7整体持平，软件股则逆势走强，显示资金在板块内部的重新定价已悄然展开。&lt;/p&gt;
-&lt;p&gt;未来两周，美国超大规模云厂商（hyperscalers）将陆续公布财报并披露资本开支计划。&lt;strong&gt;Matsuzawa指出，即便相关数据表现强劲，鉴于上述情景的复杂性，市场能否给予正面回应仍难以预判。&lt;/strong&gt;债券市场目前尚未出现因预期AI投资放缓而引发的降息押注，这意味着市场对AI繁荣终结的定价尚未完成。&lt;/p&gt;
-多重情景叠加，AI繁荣终结路径趋于复杂
-&lt;p&gt;此前市场主要围绕三种情景评估AI投资周期的潜在拐点：&lt;strong&gt;其一，AI投资过热压缩超大规模云厂商现金流，进而导致投资放缓；其二，内存价格高企推升投资成本，引发AI支出收缩；其三，原材料成本上涨加剧通胀压力，促使央行转向鹰派立场。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，据野村报告，市场当前正在警惕第四种情景的出现——高内存价格引发半导体投资过热，继而导致内存价格回落。简而言之，人工智能为更广泛经济带来的成本效益平衡已变得模糊，&lt;/strong&gt;半导体股此前受益于内存价格飙升而持续上涨，但该趋势目前似乎已到达转折点。&lt;/p&gt;
-&lt;p&gt;四种情景并存，使得AI为整体经济带来的成本收益平衡愈发难以厘清。Matsuzawa认为，正是这种多路径的不确定性，令市场参与者陷入疑虑与观望。&lt;/p&gt;
-科技股内部分化加剧，强劲业绩难获市场认可
-&lt;p&gt;当前市场的一个核心矛盾在于：科技公司的盈利健康、投资计划积极，却未能转化为股价上涨动力。这一背离在近期表现尤为突出。&lt;/p&gt;
-&lt;p&gt;从板块内部来看，半导体与MAG7走势疲软，软件股则相对坚挺。美股整体方面，防御性板块与消费相关个股表现较强，科技、资本品及银行股则普遍承压。VIX指数有所回升，报16.7，而债券与外汇市场的波动率指标则继续下行，显示当前的不确定性主要集中于股票市场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Matsuzawa指出，即便超大规模云厂商在未来两周公布亮眼财报与资本开支计划，在上述多重情景的干扰下，各子板块的市场反应也难以简单预判——强劲数据未必能带来跨板块的普遍提振。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-债券市场尚未定价AI终结，降息预期仍属遥远
-&lt;p&gt;一个值得关注的信号是：如果市场真正开始定价AI繁荣的终结，理应出现债券买盘——投资者会提前布局未来的降息预期。然而，这一情形目前尚未发生。&lt;/p&gt;
-&lt;p&gt;据野村报告，美债收益率曲线呈现熊市平坦化走势，10年期实际收益率反弹至2.31%，10年期盈亏平衡通胀率则继续下滑至2.23%。市场对美联储7月会议加息3个基点、9月会议累计加息14个基点、12月会议累计加息27个基点的预期有所升温，2年期远期OIS利率（终端利率代理指标）回升至3.84%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这意味着，债券市场目前的定价逻辑仍以加息预期为主导，而非转向对未来降息的押注。&lt;/strong&gt;Matsuzawa据此判断，市场对AI繁荣终结的定价尚不完整，投资者的疑虑仍处于发酵阶段，而非已形成明确共识。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 
 
