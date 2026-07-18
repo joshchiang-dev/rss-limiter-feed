@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 10:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心</title><link>https://wallstreetcn.com/articles/3777301</link><guid>10023ea6a0c0143da5c737f6357f261c7003e20f163761589100cafb69c5939c</guid><pubDate>Sat, 18 Jul 2026 08:39:43 GMT</pubDate><description>&lt;p&gt;当AI从“能说会写”走向“能做会干”，云计算的核心用户、SaaS的收费方式、企业AI落地的基础设施，正在被智能体重新定义。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 18 Jul 2026 10:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心</title><link>https://wallstreetcn.com/articles/3777301</link><guid>10023ea6a0c0143da5c737f6357f261c7003e20f163761589100cafb69c5939c</guid><pubDate>Sat, 18 Jul 2026 08:39:43 GMT</pubDate><description>&lt;p&gt;当AI从“能说会写”走向“能做会干”，云计算的核心用户、SaaS的收费方式、企业AI落地的基础设施，正在被智能体重新定义。&lt;/p&gt;
 &lt;p&gt;2026世界人工智能大会期间，在上海举行的阿里云“Agentic Cloud智能体时代的基础设施论坛”上，阿里云及产业伙伴围绕Agent Infra、Agentic Products、AI Native Cloud、Data Plane、Security等议题，披露了多项产品进展、产业案例和基础设施数据。&lt;/p&gt;
 &lt;p&gt;这场论坛没有给出新的财务收入增速、订单或业绩指引，但从市场关注的角度看，阿里云释放的核心信号是：AI云的竞争正在从单一模型能力，扩展到推理效率、数据平台、Agent运行时、安全治理以及面向业务结果的交付能力。换句话说，AI云的商业化想象空间，正在从“卖算力、卖模型调用”，进一步走向“支撑智能体完成业务结果”。&lt;/p&gt;
 
@@ -449,27 +449,7 @@ Neocloud 与太空数据中心
 &lt;p&gt;我一直在反复强调这一点：牛市里，人们愿意为&amp;quot;承诺&amp;quot;支付溢价；熊市里，人们只愿意为&amp;quot;现实&amp;quot;打折。而我们现在显然正处于前者。会不会走到后者？我不知道。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Guy：&lt;/strong&gt; 再次感谢你，Jim Chanos，感谢你做客我们的节目。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Jim Chanos：&lt;/strong&gt; 随时欢迎，我一直都很乐意来跟你们聊聊。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 公开出售内幕消息？特朗普旗下Truth Social向华尔街推出付费API，“毫秒级”投递特朗普推文</title><link>https://wallstreetcn.com/articles/3777246</link><guid>e300dd4781af5e1b4179f71aae0526cb76fd9b5b779d760884ff58b35bf38793</guid><pubDate>Fri, 17 Jul 2026 22:48:53 GMT</pubDate><description>&lt;p&gt;特朗普旗下媒体公司正将总统本人的社交媒体发帖转化为一门生意。&lt;/p&gt;
-&lt;p&gt;Trump Media &amp;amp; Technology Group（TMTG）周四宣布，计划于8月1日推出名为&amp;quot;Truth API&amp;quot;的实时数据产品，向投资机构出售Truth Social平台帖文的直接数据流，目标客户群体主要为算法交易公司。该公司表示，已有客户确认购买意向，但未披露买家名称。&lt;/p&gt;
-&lt;p&gt;TMTG临时首席执行官Kevin McGurn在声明中表示，&amp;quot;市场已经在随Truth Social帖文波动，&amp;quot;Truth API将提供平台最具市场影响力帖文的直连、授权、实时数据流，同时推进公司通过高利润率、经常性收入流将专有资产变现的战略。&lt;/p&gt;
-&lt;p&gt;他预计该产品将成为公司&amp;quot;有意义的持续收入来源，为股东创造持久价值。&amp;quot;&lt;/p&gt;
-&lt;p&gt;这一新产品的推出，同时引发外界对政府官员将其公职行为商业变现的法律与伦理质疑。&lt;/p&gt;
-&lt;p&gt;这一消息并未能提振公司股价，截至发稿，周五盘中TMTG下跌8.4%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;特朗普帖文的市场价值驱动新产品推出&lt;/strong&gt;
-&lt;p&gt;Truth API的核心吸引力在于特朗普本人的帖文。自2022年2月Truth Social上线以来，特朗普将其作为书面直接沟通的主要渠道。&lt;/p&gt;
-&lt;p&gt;在其第二任期内，特朗普已通过该平台宣布数十项重大政策调整或军事行动，相关帖文多次引发股市明显波动。&lt;/p&gt;
-&lt;p&gt;对于毫秒级信息优势即具重大商业价值的算法交易公司而言，这类数据流具有直接的交易应用场景。应用程序编程接口（API）是科技和金融领域广泛应用的数据分发方式，劳工部等政府机构及社交媒体平台X均已提供类似产品。&lt;/p&gt;
-&lt;p&gt;TMTG在公告中将Truth API定位为&amp;quot;高利润率、经常性收入流&amp;quot;，但未披露具体定价。&lt;/p&gt;
-&lt;strong&gt;利益冲突争议浮出水面&lt;/strong&gt;
-&lt;p&gt;这一商业模式引发的核心争议在于：政府官员能否将其公职行为所产生的信息价值私人变现。&lt;/p&gt;
-&lt;p&gt;前美国证券交易委员会（SEC）律师、金融行业非营利机构Healthy Markets Association负责人Tyler Gellasch表示，市场对更快获取特朗普帖文的需求毋庸置疑，但&amp;quot;问题真正在于，当涉及任何类型的政府官员时，他们能否自行将这种价值变现？&amp;quot;&lt;/p&gt;
-&lt;p&gt;特朗普通过信托间接持有TMTG约53%的股份。该信托由其长子小唐纳德·特朗普管理，建立于2024年12月，即特朗普正式就职前一个月，彼时外界对潜在利益冲突的担忧已持续升温。截至周四收盘，特朗普所持股份市值超过10亿美元。&lt;/p&gt;
-&lt;strong&gt;TMTG加速业务多元化布局&lt;/strong&gt;
-&lt;p&gt;Truth API是TMTG近期一系列多元化尝试之一。&lt;/p&gt;
-&lt;p&gt;该公司此前已涉足流媒体和加密货币领域，并于去年达成与一家核聚变公司的合并协议——此举将使这家总统旗下的公司与其他开发商形成竞争，而核聚变所在的能源领域恰恰正受到特朗普政府的政策支持与监管双重影响。&lt;/p&gt;
-&lt;p&gt;Truth Social本身的用户增长依然有限，公司整体仍处于亏损状态，对特朗普帖文的依赖构成其主要流量来源。&lt;/p&gt;
-&lt;p&gt;Kevin McGurn将Truth API描述为将&amp;quot;专有资产&amp;quot;商业化的战略组成部分，但这一定位本身——将现任总统的公开表态界定为可出售的&amp;quot;专有资产&amp;quot;——正是外界质疑的焦点所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈</title><link>https://wallstreetcn.com/articles/3777291</link><guid>de9baed265827f5396c8902575c884c0f287ea483b8f51526ab7ce3ba2527172</guid><pubDate>Sat, 18 Jul 2026 05:11:08 GMT</pubDate><description>&lt;p&gt;Kimi K3的发布标志着中国AI开源模型在全球竞争格局中迈入新阶段——模型智能水平已触及全球大规模普及的临界点，定价能力随之提升，但高端编程赛道的激烈竞争也令相关个股承压。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈</title><link>https://wallstreetcn.com/articles/3777291</link><guid>de9baed265827f5396c8902575c884c0f287ea483b8f51526ab7ce3ba2527172</guid><pubDate>Sat, 18 Jul 2026 05:11:08 GMT</pubDate><description>&lt;p&gt;Kimi K3的发布标志着中国AI开源模型在全球竞争格局中迈入新阶段——模型智能水平已触及全球大规模普及的临界点，定价能力随之提升，但高端编程赛道的激烈竞争也令相关个股承压。&lt;/p&gt;
 &lt;p&gt;据追风交易台，高盛在7月18日发布的研究报告中指出，Kimi K3于7月17日正式发布，参数规模达2.8万亿，在Arena.ai编程排名及Artificial Analysis智能评分中均跻身全球前沿水平。&lt;strong&gt;与此同时，Kimi K3将API混合定价设定为每百万token 2.3美元，创中国模型定价新高，显示出中国AI模型公司正逐步从&amp;quot;成本效率&amp;quot;竞争向&amp;quot;定价权&amp;quot;跃迁。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Kimi K3发布当日，市场对中国AI模型竞争格局的担忧迅速反映在股价上。智谱当日股价下跌28%，MiniMax下跌16%，反映出投资者对中国AI模型公司长期竞争格局及领导地位可持续性的高度不确定性。&lt;/p&gt;
 Kimi K3树立中国模型定价新标杆
@@ -540,26 +520,7 @@ Kimi K3树立中国模型定价新标杆
 华尔街上调评级，看好AI产品周期
 &lt;p&gt;周五，汇丰银行分析师将苹果评级上调至买入，成为华尔街少数此前尚未给出买入评级的大行之一。&lt;strong&gt;汇丰在研报中表示，苹果&amp;quot;有充分条件借助即将推出的升级版Apple Intelligence，撬动其25亿台的庞大设备安装基础&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;汇丰还指出，&amp;quot;这一AI提振恰逢其时，我们认为苹果目前拥有其历史上最具创新性的产品管线之一&amp;quot;，并预计首款可折叠iPhone将于9月发布。&lt;/p&gt;
-&lt;p&gt;不过，苹果并非没有经历波折。上月，苹果宣布将iPad和Mac产品价格上调最高20%，并警告称面临&amp;quot;内存与存储需求的异常激增&amp;quot;，消息一出，股价单日跌幅创下特朗普去年关税冲击以来最大单日跌幅。但随着上述多重利好陆续浮现，股价随即企稳回升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：美国考虑设立独立AI监管机构，对顶级AI模型进行安全审查</title><link>https://wallstreetcn.com/articles/3777267</link><guid>bc8fddfc0c4122880d3e2bd5568307a26ef44cc47573b63adb2a68be4fabdc99</guid><pubDate>Fri, 17 Jul 2026 22:48:40 GMT</pubDate><description>&lt;p&gt;在硅谷科技领袖抱怨美国政府近期限制尖端AI系统发布的措施缺乏一致性和透明度后，特朗普政府正考虑设立一个由行业参与的独立监管机构，对人工智能模型进行安全审查。&lt;/p&gt;
-&lt;p&gt;据彭博援引知情人士透露，美国财政部长贝森特参与制定了一项提案，拟仿照金融业监管局（Finra）模式，创建一个向美国证券交易委员会（SEC）负责的独立AI监管机构。该提案目前正由白宫幕僚长Susie Wiles审议。&lt;/p&gt;
-&lt;p&gt;该提案的出台背景，是Anthropic和OpenAI此前因政府介入其模型发布流程而公开表达不满。&lt;/p&gt;
-&lt;p&gt;上月，Anthropic旗下Fable 5和Mythos 5模型因美国出口管制措施被迫临时下线；OpenAI则在政府要求下对最新Sol模型进行重大修改。两家公司均认为相关举措相对于实际安全风险而言力度过重。&lt;/p&gt;
-
-提案仿照Finra架构，行业参与标准制定
-
-&lt;p&gt;根据知情人士描述，该提案拟建立一个独立监管机构，由行业出资，并在SEC的授权框架下运作——这一结构与Finra对券商的监管模式高度相似。&lt;/p&gt;
-&lt;p&gt;该机构将允许金融行业和科技行业共同参与AI安全标准的制定，从而在加强网络安全管控的同时，减少对AI公司的不确定性冲击。上述框架仍处于讨论阶段，细节可能发生变化。&lt;/p&gt;
-&lt;p&gt;目前尚不明确新机构将对模型进行哪些类型的评估、如何获得资金支持，以及SEC在监管AI公司方面将扮演何种角色。&lt;/p&gt;
-&lt;p&gt;白宫一名官员表示，政府正在评估多项方案，以巩固美国在AI领域的领先地位并强化网络安全。&lt;/p&gt;
-
-DeepMind方案获科技圈背书，与政府思路趋于一致
-
-&lt;p&gt;本周早些时候，谷歌DeepMind首席执行官Demis Hassabis发布了一套政策建议，与美国政府正在讨论的方案高度契合。&lt;/p&gt;
-&lt;p&gt;Hassabis建议由独立技术专家组成委员会，在联邦政府监督下的标准机构框架内对AI模型进行审查，所需资金和算力由行业自行提供，并与政府机构及美国国家实验室合作，针对网络安全、生物威胁等领域开发模型测试协议。&lt;/p&gt;
-&lt;p&gt;Hassabis在社交媒体X上发文时，明确将其设想的监管机构类比为Finra。这一方案获得微软CEO Satya Nadella、OpenAI CEO Sam Altman以及SpaceX CEO马斯克的公开赞扬——这三位通常被视为彼此之间的竞争对手。&lt;/p&gt;
-&lt;p&gt;Hassabis下周将赴华盛顿与政策制定者会面，就上述方案进行游说。&lt;/p&gt;
-&lt;p&gt;就现行监管状况而言，特朗普政府对于AI安全议题的政策取向一直存在内部分歧。Anthropic旗下的Mythos模型因具备引发官员和商界担忧的网络攻击能力，使政府不得不重新权衡干预力度。&lt;/p&gt;
-&lt;p&gt;最新提案与特朗普此前签署的一项行政令方向更为接近——该行政令概述了一套由AI公司参与建立的轻度干预、自愿审查机制。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储的“新鬼故事”：美国要抢钱了？</title><link>https://wallstreetcn.com/articles/3777284</link><guid>974981ebb44ee30a4396ee4dad0fe71b67e467d96ad2c84f4331fec23faaa8cd</guid><pubDate>Sat, 18 Jul 2026 03:09:41 GMT</pubDate><description>&lt;p&gt;美国对韩国半导体产业的诉求，正在从&amp;quot;建厂&amp;quot;升级为&amp;quot;分钱&amp;quot;。&lt;/p&gt;
+&lt;p&gt;不过，苹果并非没有经历波折。上月，苹果宣布将iPad和Mac产品价格上调最高20%，并警告称面临&amp;quot;内存与存储需求的异常激增&amp;quot;，消息一出，股价单日跌幅创下特朗普去年关税冲击以来最大单日跌幅。但随着上述多重利好陆续浮现，股价随即企稳回升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储的“新鬼故事”：美国要抢钱了？</title><link>https://wallstreetcn.com/articles/3777284</link><guid>974981ebb44ee30a4396ee4dad0fe71b67e467d96ad2c84f4331fec23faaa8cd</guid><pubDate>Sat, 18 Jul 2026 03:09:41 GMT</pubDate><description>&lt;p&gt;美国对韩国半导体产业的诉求，正在从&amp;quot;建厂&amp;quot;升级为&amp;quot;分钱&amp;quot;。&lt;/p&gt;
 &lt;p&gt;周五据《韩国时报》援引知情人士报道，美国贸易代表办公室副代表Rick Switzer上月在与韩国通商部长官吕翰九的会谈中明确表示，&lt;strong&gt;美方有权分享SK海力士和三星电子的巨额利润，理由是美国企业的大量采购直接推动了韩国芯片企业的盈利增长。&lt;/strong&gt;这一表态尚未获得美方官方确认，但已在韩国业界和政府层面引发广泛关注。&lt;/p&gt;
 &lt;p&gt;这一动向的背景是，韩国今年上半年对美半导体出口同比激增逾九成，韩国存储企业在全球AI产业链中持续占据高额利润。&lt;/p&gt;
 &lt;p&gt;中信证券研报指出，从历史经验看，&lt;strong&gt;当海外企业在重要产业中持续获得高份额或高利润时，往往会引发美国政府政治介入，加速全球产业利益再分配&lt;/strong&gt;——1980年代日本半导体和2000年代中国台湾面板产业的遭遇，均是前车之鉴。&lt;/p&gt;
@@ -619,4 +580,90 @@ Starship是SpaceX商业版图的核心支柱
 &lt;p&gt;据彭博数据，资金同步增持纽约商品交易所取暖油纯多头头寸1,868手，总持仓升至36,451手，为今年3月伊朗战争爆发初期以来的最高水平。Nymex柴油净多头头寸的单周增幅，也创下2月战争爆发前以来最大涨幅。&lt;/p&gt;
 俄罗斯出口骤降，供应压力雪上加霜
 &lt;p&gt;燃料市场的供应紧张并非仅源于中东局势。据彭博报道，乌克兰对俄罗斯炼油厂持续数月的袭击，已导致俄罗斯成品油出口大幅下滑，莫斯科随之宣布禁止柴油出口，进一步加剧了全球燃料供应的紧张态势。&lt;/p&gt;
-&lt;p&gt;两大供应冲击叠加，令全球柴油市场承压尤为突出，也在一定程度上解释了为何炼油利润能够在短期内冲至历史高位，并吸引资金持续涌入相关多头头寸。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;两大供应冲击叠加，令全球柴油市场承压尤为突出，也在一定程度上解释了为何炼油利润能够在短期内冲至历史高位，并吸引资金持续涌入相关多头头寸。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年7月18日</title><link>https://wallstreetcn.com/articles/3777268</link><guid>de4f3554a969891b00b9f8ada13dd069f4e6ff1f60c07d157525dd5415d7084a</guid><pubDate>Fri, 17 Jul 2026 23:19:49 GMT</pubDate><description>华见早安之声
+
+&lt;p&gt;&lt;/p&gt;
+市场概述
+&lt;p&gt;Kimi K3再现“DeepSeek时刻”，市场对AI资本开支回报和芯片需求持续性的疑虑重燃。纳指100早盘一度重挫2.7%，收盘时主要股指跌幅有所收窄，纳指、标普500均跌超1%，道指跌0.8%。费城半导体指数下跌1.6%，较纪录高位累计回落20%，进入熊市区间。&lt;/p&gt;
+&lt;p&gt;Meta日内跌2.8%、领跌科技七巨头，苹果独涨0.14%、本周累计涨5.84%，盘中市值一度回到第一。&lt;/p&gt;
+&lt;p&gt;美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%。当日应用材料收跌5.57%，闪迪跌3.99%，美光科技跌0.50%，西部数据则涨2.23%，希捷科技涨5.66%。本周，闪迪累计跌29.29%，西部数据跌18.09%，希捷科技跌13.48%，美光跌13.31%。&lt;/p&gt;
+&lt;p&gt;美债走势明显分化。2年期收益率走高4基点，10年期美债收益率则基本持平于4.55%。&lt;/p&gt;
+&lt;p&gt;美元指数日内走平、本周累计跌0.24%。比特币日内走V、一度跌2.5%。&lt;/p&gt;
+&lt;p&gt;现货黄金先跌后涨，较日低点涨1.6%，重回4000美元。美国与伊朗冲突升级推动WTI原油上涨4.3%，至每桶82.34美元。原油一周涨近16%。&lt;/p&gt;
+&lt;p&gt;亚洲时段，沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%。&lt;/p&gt;
+要闻
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话。习近平宣布中国支持全球人工智能发展重大举措。国家发改委发布《人工智能合作发展行动计划》，推动智能算力普惠、开源生态共享。&lt;/p&gt;
+&lt;p&gt;Kimi K3再掀“DeepSeek时刻”？高盛警告：“算力扩张时代”或已走到尽头；大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破。&lt;/p&gt;
+&lt;p&gt;三部门：对部分电池恢复征收消费税。&lt;/p&gt;
+&lt;p&gt;工信部：要求汽车生产企业坚决抵制非理性竞争、加强产品测试验证与安全评估。&lt;/p&gt;
+&lt;p&gt;两融集中强平？多家券商回应：未出现大规模平仓。&lt;/p&gt;
+&lt;p&gt;A股重磅信号！多只宽基ETF显著放量，大资金或再度出手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;海外&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美军连续第七晚空袭伊朗，伊打击美在巴林无人艇、警告进入“全面进攻和摧毁”阶段。美伊冲突跨越“民用红线”，霍尔木兹通行量降至三周低点。伊朗首次打击叙利亚境内目标，美媒曝美国将向以增派空中加油机。&lt;/p&gt;
+&lt;p&gt;日本首相亲自“喊话”养老金GPIF加码日股，日元应声走强、日股再获想象空间。&lt;/p&gt;
+&lt;p&gt;再向韩国芯片巨头伸手：SK海力士与三星“超额利润”或需与美国分享。&lt;/p&gt;
+&lt;p&gt;报道：META洽谈向ANTHROPIC出租算力，两年合同价值或达100亿美元。&lt;/p&gt;
+&lt;p&gt;SpaceX IPO后星舰首飞推迟，股价跌超5%，市值较高点蒸发超万亿。SpaceX向五角大楼兜售数十亿美元AI算力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+市场收报
+&lt;p&gt;欧美股市：标普500跌幅1.01%，报7457.69点，本周累计跌1.55%。道指跌幅0.77%，报52146.42点，本周累计跌0.93%。纳指跌幅1.40%，报25520.244点，本周累计跌2.90%。欧洲STOXX 600指数收跌0.34%，报641.53点，本周累计上涨0.07%。&lt;/p&gt;
+&lt;p&gt;A股：上证指数收报3764.15点，跌3.05%。深证成指收报13706.88点，跌5.40%。创业板指收报3428.63点，跌7.15%。&lt;/p&gt;
+&lt;p&gt;债市：美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点。两年期美债收益率涨3.58个基点，报4.1767%，本周累计跌3.13个基点。&lt;/p&gt;
+&lt;p&gt;商品：现货黄金涨1.00%，报4016.21美元/盎司，本周累计跌2.53%。现货白银涨0.69%，报55.9059美元/盎司，本周累计跌6.62%。WTI 8月原油期货收涨4.48%，报82.49美元/桶，本周累计上涨15.51%。布伦特9月原油期货收涨4.59%，报88.10美元/桶，本周累计涨15.90%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+要闻详情
+&lt;p&gt;&lt;strong&gt;全球重磅&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777168"&gt;习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话&lt;/a&gt;。坚持开放共赢，驱动创新发展。抓住难得的历史性机遇，鼓励开源开放、合作共享，全面促进人工智能科技创新、产业发展、场景应用，协同推进传统产业改造升级、新兴产业培育壮大、未来产业前瞻布局，让人工智能赋能千行百业。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777174"&gt;习近平宣布中国支持全球人工智能发展重大举措&lt;/a&gt;。习近平指出，在各方共同努力下，世界人工智能合作组织在上海应运而生。这是中方响应全球南方呼声、团结国际社会积极推动人工智能发展和治理的重大举措，将成为人工智能发展史上的一个重要里程碑。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777188"&gt;2026世界人工智能大会暨人工智能全球治理高级别会议主席声明。&lt;/a&gt;大会期间，《关于成立世界人工智能合作组织的协定》签署仪式在上海举行。世界人工智能合作组织是全球首个人工智能政府间国际组织，总部将设在上海。世界人工智能合作组织坚持向善普惠原则，旨在支持全球南方国家加快人工智能发展，提升创新、应用、治理综合能力，追赶科技革命浪潮，弥合智能鸿沟。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777176"&gt;国家发改委发布《人工智能合作发展行动计划》，推动智能算力普惠、开源生态共享&lt;/a&gt;。人工智能合作发展行动计划包括：优质数据供给行动、智能算力普惠行动、开源生态共享行动、人工智能深度赋能行动、数智人才共育行动、规则标准共建行动、安全治理协作行动、人工智能向善行动。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777207"&gt;三部门：对部分电池恢复征收消费税&lt;/a&gt;。具体调整如下：自2026年9月1日起，对无汞原电池、金属氢化物镍蓄电池、锂原电池、锂离子蓄电池、全钒液流电池按2%税率征税，2027年9月1日起按4%征税；自2027年4月1日起，对光伏电池按2%征税，2028年4月1日起按4%征税。同时，对钠离子电池、固态电池、燃料电池及部分光伏电池在规定期限内免征消费税。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777234"&gt;工信部：要求汽车生产企业坚决抵制非理性竞争、加强产品测试验证与安全评估&lt;/a&gt;。会议要求加强测试验证与安全评估，排查产品安全风险，强化组合驾驶辅助和自动驾驶功能安全评估。下一步，工信部将开展生产一致性和质量提升行动，加强准入审查和监督检查，严肃处理问题企业及机构，守牢汽车产品安全底线。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777223"&gt;两融集中强平？多家券商回应：未出现大规模平仓&lt;/a&gt;。确有部分账户触及预警线、追保线，强平仅为个案。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777184"&gt;A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？&lt;/a&gt;7月17日午后，多只宽基ETF再度显著放量，超昨日全天成交额，科创50ETF华夏等多只宽基亦显著放量，成交额均超30亿元，逼近昨日全天水平。分析人士认为，这或意味着主流大资金可能借道ETF呵护市场流动性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;海外&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777266"&gt;美军连续第七晚空袭伊朗，伊打击美在巴林无人艇、警告进入“全面进攻和摧毁”阶段&lt;/a&gt;。美军称，于美东时间周五下午对伊朗启动新一轮打击。伊朗军方同日称，利用岸基巡航导弹打击了印度洋一艘美军舰艇；打击并摧毁美军在巴林的无人艇存放基地。伊朗最高领袖军事顾问称，美伊谅解备忘录已名存实亡，若美方未来几天继续袭击，伊朗武装部队将跨越当前“威慑和报复”阶段，进入“全面进攻和摧毁”阶段。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777262"&gt;美伊冲突跨越“民用红线”，霍尔木兹通行量降至三周低点，原油一周涨近16%&lt;/a&gt;。科威特指伊朗将袭击范围扩大至科威特的电力与海水淡化厂。伊拉克官员称，该国库尔德地区最大天然气田因面临遭袭的威胁而关闭，美军则将空袭目标延伸至距霍尔木兹海峡350英里以外的恰巴哈尔港。据伊朗消息，因未获伊朗许可企图穿越该海峡，一艘船周五遭伊方打击。美军称重启对伊封锁三天内拦截六船。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777259"&gt;中东局势再升级，伊朗首次打击叙利亚境内目标，美媒曝美国将向以增派空中加油机&lt;/a&gt;。伊朗军方称，周五对科威特和叙利亚的美军目标发动大规模打击，回应周四美袭伊；美军否认伊朗袭击叙利亚坦夫地区美军基地；叙利亚人士称，伊朗未击中该基地，并无人员伤亡。据美媒，美国计划未来几天向以色列增派数十架加油机，使部署总数恢复到战争初期水平，此举被视作为可能的更大军事行动做准备，此消息传出后，原油盘中涨幅扩大到4%以上。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777200"&gt;日本首相亲自“喊话”养老金GPIF加码日股，日元应声走强、日股再获想象空间&lt;/a&gt;。高市早苗表示，鼓励家庭和包括GPIF在内的养老金基金进一步增持日本金融资产&amp;quot;至关重要&amp;quot;，并强调此举旨在推动经济增长与居民资产积累之间形成良性循环。此番表态令日元对美元汇率短暂走强，从162.36附近升至162.13。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777225"&gt;再向韩国芯片巨头伸手：SK海力士与三星&amp;quot;超额利润&amp;quot;或需与美国分享&lt;/a&gt;。美国在要求三星、SK海力士赴美建厂之外，又提出应分享韩国芯片企业利润，理由是美国采购推动其盈利。若属实，美韩半导体博弈已从制造投资延伸至利润分配，对韩国芯片巨头构成新的政策压力。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777257"&gt;报道：META洽谈向ANTHROPIC出租算力，两年合同价值或达100亿美元&lt;/a&gt;。据媒体报道，Meta正与Anthropic PBC进行初步谈判，计划向后者出租算力。若合作达成，两年合同价值最高可能达到100亿美元。Meta早盘一度下跌6%，消息落地后股价反弹，截至发稿跌幅收窄至2.3%。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777228"&gt;SpaceX市值蒸发超万亿！IPO后星舰首飞推迟，每一秒倒计时都成了&amp;quot;公开财报&amp;quot;&lt;/a&gt;。SpaceX星舰V3测试因发动机点火失败于发射前中止，计划下周初重新发射。SpaceX股价周五收跌5.43%，对应市值1.63万亿美元，较6月16日上市第三日收盘时2.64万亿美元的峰值已缩水逾1万亿美元。同日，&lt;a href="https://wallstreetcn.com/articles/3777265"&gt;SpaceX向五角大楼兜售数十亿美元AI算力&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研报精选&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777230"&gt;Kimi K3再掀“DeepSeek时刻”？高盛警告：&amp;quot;算力扩张时代&amp;quot;或已走到尽头&lt;/a&gt;。Kimi K3以1679分登顶前端代码竞技场、超越Claude Fable 5，成为引爆全球科技股震荡的导火索。美股盘前，纳斯达克100指数期货跌逾1.8%，英伟达领跌&amp;quot;科技七巨头&amp;quot;。高盛将市场下跌定义为“去杠杆事件”，认为“算力扩张时代”或已接近尾声，AI估值逻辑面临重塑。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777236"&gt;Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破&lt;/a&gt;。摩根士丹利认为，K3的发布标志着中国大模型在模型规模、性能和API定价三方面全面追赶美国领先者，是中国AI产业长期积累迈向全球第一梯队的标志性事件。大摩预计，中国将持续涌现出规模更大、定价更高、性能更强的大模型产品，并在全球市场形成有力竞争态势。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777178"&gt;韩国股市率先变盘，一场动量交易逆转正席卷亚洲&lt;/a&gt;。韩国成为亚洲动量交易崩解的震中，外资年内净抛售超千亿美元，散户填补外资离场留下的空缺成倍放大了跌幅，杠杆ETF机械平仓加速踩踏。这场逆转正从首尔蔓延至全球芯片股，有分析称6月或已是亚洲股市动量交易的顶点。Kospi波动率飙至历史新高，预示跌幅仍有进一步扩大的空间。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777216"&gt;紧盯AI交易最重要的风向标——美光！&lt;/a&gt;美光被Trivariate Research称为“市场上最重要的股票”，成为AI行情和市场风险偏好的核心风向标。尽管市场担忧存储芯片价格见顶导致股价回调，但机构认为公司估值仍偏低，AI需求和存储供需紧张格局有望继续支撑其长期增长。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777199"&gt;OpenAI 的大模型价格战，历史早已写过结局&lt;/a&gt;。十天之内，海外四家AI巨头密集降价，Altman高喊&amp;quot;再降75%&amp;quot;，Anthropic却沉默以对。降价的人在巨亏，卖高价的反而挣钱。这不是一场普通的价格战，而是飞轮与泵的生死之辩。历史已经写好底稿，时间正在倒计时。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国内宏观&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777254"&gt;股票私募仓位创近4年新高，超七成百亿私募处于满仓状态&lt;/a&gt;。私募排排网数据显示，截至7月10日，股票私募仓位指数升至83.70%，连续三周加仓，创近四年新高，近七成私募已处满仓状态。其中百亿级私募更是领衔加仓，仓位高达87.41%，单周大涨3.35%。分析人士指出，上述数据表明专业投资者认为当前已具较高安全边际，市场机会大于风险。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777194"&gt;大空头Burry：现在是抄底港股的绝佳时机&lt;/a&gt;。《大空头》原型Michael Burry高调喊多港股，直言当下是寻找廉价筹码的&amp;quot;绝佳时机&amp;quot;，并已悄然增持京东。高盛亚洲资本市场主管同步指出，港股早已进入AI时代，只是指数结构滞后掩盖了真实活力。摩根士丹利亦同声唱多。多空博弈之际，估值洼地与结构性机会能否转化为真实回报，考验投资者的判断力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国内公司&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777177"&gt;报道：智谱ARR达到10亿美元，半年增长15倍&lt;/a&gt;。截至2026年7月，智谱的ARR（年度经常性收入）已经达到10亿美元。有分析称，智谱达到10亿美金ARR的速度，远超预期。曾有投资人表示，智谱的ARR预计到2026年底，才能达到10亿-15亿美金。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777219"&gt;目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑&lt;/a&gt;。高盛将中际旭创目标价由1187元大幅上调至2581元，并预计2026至2028年净利润分别增长65%、108%和119%。伴随英伟达AI服务器的持续升级，光模块正加速从800G向1.6T乃至3.2T迭代。中际旭创凭借在硅光子领域的先发优势及全球龙头地位，有望在本轮技术升级中核心受益。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wallstreetcn.com/articles/3777214"&gt;中际旭创通过港交所上市聆讯，中金公司、广发证券、高盛等为联席保荐人&lt;/a&gt;。中际旭创计划募资约70亿美元，有望成为2026年港股最大IPO。受益于AI算力需求爆发，公司2026年一季度营收同比大增192.1%，净利润增长约262%。公司硅光产品优势显著，募资将用于研发、全球产能扩张及并购。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777243"&gt;报道：新豆包手机备货数十万台，AI 不再硬操作头部应用&lt;/a&gt;。新一代豆包手机调整了与阿里、腾讯等各家超级应用的合作方式，将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用（所谓 GUI 技术）。只有这些应用自行提供 MCP 服务，开放部分数据、允许操控，豆包手机才能接入 MCP。新一代豆包手机的备货量从此前的 3 万台提升到了数十万台。目前，豆包手机助手团队也在与各头部应用厂商谈判，争取对方开放可被 AI 调用的接口或服务能力。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777255"&gt;茅台为何此时再提价？解读来了&lt;/a&gt;。贵州茅台7月18日起再度上调飞天茅台i茅台平台价格，500ml从1539元涨至1639元。目前，i茅台零售价格与终端成交价之间存在显著价差；此次i茅台调价以市场流通价为参照锚点，其用意是压缩炒作空间，促进消费者公平购酒。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777227"&gt;中船特气半年报营收增83%，归母净利润翻倍，六氟化钨收入暴增近3倍&lt;/a&gt;。六氟化钨营收暴增近3倍，驱动上半年营收19.04亿元（+83%）、归母净利3.48亿元（+96%）、扣非净利增117%，Q2增速从Q1的36%飙至129%。利润增速远超营收，盈利质量显著改善，但经营现金流由正转负至-2.41亿元，高增长背后的营运资金压力需持续跟踪。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;海外宏观&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777264"&gt;加拿大山火肆虐，特朗普威胁将污染成本计入关税&lt;/a&gt;。加拿大约900处山火持续燃烧，浓烟大规模南下覆盖美国东北部及中西部，多城空气质量指数急剧恶化，底特律一度登顶全球最差。对此，特朗普威胁将污染损失计入对加关税，并表示将致电加拿大总理卡尼。消息公布后，加元及加拿大股市出现温和波动，市场等待通话结果及后续政策表态。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777241"&gt;油价下跌推动美国7月消费者信心超预期回升，创五个月新高，一年通胀预期降至4.2%&lt;/a&gt;。密歇根大学7月消费者信心指数初值从6月的49.5升至54.4，市场预期为51。 消费者预计未来一年的物价年通胀率为4.2%，预期4.4%，前值4.6%。不过该报告超过70%的回复在7月初美国对伊朗发动空袭之前就已经完成，此后油价重新上涨。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777253"&gt;克利夫兰联储主席哈马克放鹰：通胀过高，劳动力市场接近充分就业&lt;/a&gt;。克利夫兰联储主席哈马克表示：“我们的双重使命并不存在冲突。通胀仍然过高，而劳动力市场基本处于我所认为的充分就业水平附近。”她同时指出，任职以来首次听到企业呼吁遏制通胀，也首次听到难以维持生计的消费者表达出绝望情绪。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777164"&gt;Doubleline CIO：沃什不是“披着鹰皮的鸽子”，债市已“代劳”美联储加息&lt;/a&gt;。Doubleline CIO Jeffrey Sherman认为，债券市场已悄然替美联储完成了部分紧缩工作——收益率曲线上斜、市场开始定价加息可能，新任美联储主席沃什或可按兵不动。与此同时，6月核心CPI出现2020年以来首次环比负值，通胀互换一年期一度跌破2%；但AI需求与股市财富效应仍在推高核心PCE，私募信贷&amp;quot;投资级&amp;quot;叙事遭到质疑，CCC级资产风险暗流涌动。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777198"&gt;欧央行下周或将暂停加息，市场加息押注已集中在9月会议&lt;/a&gt;。市场普遍预计欧央行7月23日将维持2.25%利率不变，但会议焦点在于内部对9月加息的讨论信号。近期中东冲突推升能源价格，叠加中东化肥供应趋紧及欧洲热浪可能推高食品价格，通胀变数增加。此外，会议或讨论将最低准备金率提高一倍，继续缓慢收紧流动性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;海外公司&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777205"&gt;面对崩溃论，Altman承认：过去12个月OpenAI表现不佳，“主要是我的错”&lt;/a&gt;。针对外界对AI泡沫与商业模式的质疑，OpenAI首席执行官Sam Altman坦言公司过去一年表现欠佳，并主动揽责，但承诺明年将迎来史上最佳表现。看空者Ed Zitron此前警告，真正的泡沫即“OpenAI泡沫”，若其失败，将如“雷曼兄弟”般冲击AI投资逻辑，引发数据中心与科技股的大规模重估。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777181"&gt;美光与高通等签署长协，锁定AI汽车存储供应&lt;/a&gt;。美光AI芯片杀入汽车赛道，结盟高通等巨头抢滩“软件定义汽车”风口。然AI狂欢背后暗流涌动，因担忧云厂商资本开支放缓，华尔街正悄然削减半导体敞口，芯片股高位博弈已步入深水区。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777258"&gt;报道：苹果与美国司法部就反垄断案进行早期和解谈判&lt;/a&gt;。双方谈判目前处于早期阶段，谈判能否达成协议并无保证，目前该案亦尚未设定开庭日期。目前主导司法部反垄断工作的第三号官员Stanley Woodward主张积极寻求和解，若谈判成功，苹果将消除一项重大法律不确定性。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777240"&gt;黑石贝莱德阿波罗相继遭遇赎回潮：3万亿私募信贷市场拐点已至&lt;/a&gt;。违约率攀升引发挤兑，黑石、贝莱德、阿波罗等头部机构已启动赎回限制，3万亿美元私募信贷市场流动性枯竭。底层贷款缺乏交易市场，基金无法快速变现，二季度赎回压力持续加剧。随着资产被迫折价出售，养老金、保险资金等长期资本将直面亏损，AI数据中心依赖的融资渠道同步收窄。&lt;/p&gt;
+今日要闻前瞻
+&lt;p&gt;AGI Summit SF 2026峰会，OpenAI、Anthropic、英伟达将出席。&lt;/p&gt;
+&lt;p&gt;&amp;lt;全文完&amp;gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
