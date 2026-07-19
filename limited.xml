@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 19 Jul 2026 13:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”</title><link>https://wallstreetcn.com/articles/3777368</link><guid>7ac1970a05e496e99eee12f63f50ae3f37c800abf75bff539b318a1ce63725d0</guid><pubDate>Sun, 19 Jul 2026 12:25:33 GMT</pubDate><description>&lt;p&gt;从真实交互数据稀缺、跨本体表征不足到部署可靠性难题，具身智能行业正从“能演示”转向“能干活”的关键验证期。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 19 Jul 2026 14:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”</title><link>https://wallstreetcn.com/articles/3777368</link><guid>7ac1970a05e496e99eee12f63f50ae3f37c800abf75bff539b318a1ce63725d0</guid><pubDate>Sun, 19 Jul 2026 12:25:33 GMT</pubDate><description>&lt;p&gt;从真实交互数据稀缺、跨本体表征不足到部署可靠性难题，具身智能行业正从“能演示”转向“能干活”的关键验证期。&lt;/p&gt;
 &lt;p&gt;7月19日，2026世界人工智能大会（WAIC）核心分论坛“&lt;strong&gt;智启具身论坛2026——迎接物理AI智能涌现&lt;/strong&gt;”在上海世博中心举行。论坛由智元、觅蜂科技联合主办，汇集清华大学、佐治亚理工学院、Physical Intelligence、Genesis AI、Dyna Robotics、Sunday Robotics及腾讯Robotics X等机构代表，讨论焦点集中于物理AI的数据来源、模型路线、仿真训练与商业化部署。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;（图片来源：觅蜂科技）&lt;/p&gt;
@@ -510,18 +510,7 @@ AI算力投资加码叠加产品结构升级，双轮驱动利润加速释放
 市场关注点转向：AI需求增长能否抵消架构效率提升
 &lt;p&gt;总体来看，Kimi K3的出现并未简单指向AI硬件需求下降。对于英伟达而言，真正的竞争焦点可能从“单卡性能”转向“系统级能力”——包括高速互联、机架级扩展以及大规模推理优化。&lt;/p&gt;
 &lt;p&gt;随着模型规模持续扩大，即使注意力机制不断优化，AI基础设施仍面临参数规模、专家并行、数据交换以及推理吞吐提升带来的压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未来市场需要关注的核心问题，不是线性注意力是否降低单项资源消耗，而是AI应用规模扩张带来的新增需求，能否持续超过架构效率提升带来的资源节省。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI算力需求提振光器件景气度，天孚通信上半年净利润预增25%—45%｜财报见闻</title><link>https://wallstreetcn.com/articles/3777332</link><guid>3883a2b85c966974ca93d378ee3e2cb9fac6a13b68466acbe7f50163194c3de3</guid><pubDate>Sun, 19 Jul 2026 02:00:50 GMT</pubDate><description>&lt;p&gt;受益于全球人工智能基础设施建设提速，天孚通信上半年盈利能力持续扩张。&lt;/p&gt;
-&lt;p&gt;该公司7月18日晚间发布业绩预告，&lt;strong&gt;预计2026年上半年归属于上市公司股东的净利润为11.24亿元至13.04亿元，同比增长25%至45%&lt;/strong&gt;；扣非净利润为10.89亿元至12.84亿元，同比增长25.56%至48.02%。上年同期净利润为8.99亿元，扣非净利润为8.67亿元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公司将业绩增长主要归因于全球AI行业加速发展与数据中心建设浪潮带动高速光器件需求持续稳定增长。&lt;/strong&gt;与此同时，汇兑损失导致财务费用同比上升，对利润增长形成一定拖累。截至7月17日收盘，天孚通信股价报211.37元，市值约2306亿元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI与数据中心需求驱动光器件景气上行
-&lt;p&gt;天孚通信在公告中明确指出，本期业绩增长的核心驱动力来自下游需求端——数据中心建设规模持续扩张，直接带动了高速光器件产品需求的稳定增长。&lt;/p&gt;
-&lt;p&gt;公司表示，凭借高复用的通用技术平台以及产品高度垂直整合的竞争优势，能够为客户提供丰富的光互连产品解决方案。与此同时，&lt;strong&gt;公司持续推进自动化升级，推动智能制造与精益改善，在需求扩张背景下有效将收入增量转化为利润增长。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，公告提及报告期内个别物料供给紧缺对部分产品的产能提升带来一定影响，显示供应链层面仍存在局部瓶颈，但整体未对业绩增长构成实质性障碍。&lt;/p&gt;
-汇兑损失构成阶段性负向扰动
-&lt;p&gt;&lt;strong&gt;在利润增长的同时，天孚通信亦面临汇率波动带来的财务压力。&lt;/strong&gt;公告显示，报告期内公司受汇兑损失影响，财务费用同比上升，对本期利润增长形成一定的负向影响。&lt;/p&gt;
-&lt;p&gt;公司未披露汇兑损失的具体金额，但将其列为影响本期利润增速的主要不利因素之一。对于以出口为主要收入来源的光器件企业而言，人民币汇率波动对财务费用的影响值得投资者持续关注。&lt;/p&gt;
-&lt;p&gt;此外，报告期内员工股权激励归属时增加了可税前扣除成本，对净利润产生正向影响。公司预计，非经常性损益对归属于上市公司股东净利润的影响约为2000万元至3500万元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达：从“一次性训练”的大模型到“后训练改进”的Agent，算力需求正在变化</title><link>https://wallstreetcn.com/articles/3777356</link><guid>dc72743c9e167ce4077aa9d1f8470b24930688b70442171842113b7078b506ca</guid><pubDate>Sun, 19 Jul 2026 08:45:08 GMT</pubDate><description>&lt;p&gt;英伟达正将其下一代Vera Rubin平台的核心价值主张从推理成本延伸至模型训练效率，以&amp;quot;每美元智能&amp;quot;（intelligence per dollar）这一新指标，押注智能体AI时代持续后训练将成为最核心的算力需求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;未来市场需要关注的核心问题，不是线性注意力是否降低单项资源消耗，而是AI应用规模扩张带来的新增需求，能否持续超过架构效率提升带来的资源节省。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达：从“一次性训练”的大模型到“后训练改进”的Agent，算力需求正在变化</title><link>https://wallstreetcn.com/articles/3777356</link><guid>dc72743c9e167ce4077aa9d1f8470b24930688b70442171842113b7078b506ca</guid><pubDate>Sun, 19 Jul 2026 08:45:08 GMT</pubDate><description>&lt;p&gt;英伟达正将其下一代Vera Rubin平台的核心价值主张从推理成本延伸至模型训练效率，以&amp;quot;每美元智能&amp;quot;（intelligence per dollar）这一新指标，押注智能体AI时代持续后训练将成为最核心的算力需求。&lt;/p&gt;
 &lt;p&gt;英伟达在官方博客中阐述，随着智能体AI（Agentic AI）的兴起，模型后训练已从一次性的收尾步骤演变为持续循环的核心工作负载。与传统生成式模型不同，智能体模型需要规划、调用工具并在运行中自主纠错，其所处环境每周都可能发生变化，这使得后训练的算力需求持续累积。英伟达表示，Vera Rubin平台专为这一工作负载协同设计，可在训练最大规模模型时仅需上一代Blackwell平台四分之一的GPU数量。&lt;/p&gt;
 &lt;p&gt;这一表述直接关系到英伟达的算力销售逻辑：后训练循环永不停止，意味着客户对GPU集群的需求将从项目制转向常态化，潜在市场规模随之扩大。Prime Intellect、Perplexity及Together AI等已在英伟达平台上运行后训练工作负载的企业，均已表态计划迁移或扩展至Vera Rubin平台。&lt;/p&gt;
 后训练成为智能体时代的核心算力驱动力
