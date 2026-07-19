@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 19 Jul 2026 14:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”</title><link>https://wallstreetcn.com/articles/3777368</link><guid>7ac1970a05e496e99eee12f63f50ae3f37c800abf75bff539b318a1ce63725d0</guid><pubDate>Sun, 19 Jul 2026 12:25:33 GMT</pubDate><description>&lt;p&gt;从真实交互数据稀缺、跨本体表征不足到部署可靠性难题，具身智能行业正从“能演示”转向“能干活”的关键验证期。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 19 Jul 2026 14:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”</title><link>https://wallstreetcn.com/articles/3777368</link><guid>7ac1970a05e496e99eee12f63f50ae3f37c800abf75bff539b318a1ce63725d0</guid><pubDate>Sun, 19 Jul 2026 12:25:33 GMT</pubDate><description>&lt;p&gt;从真实交互数据稀缺、跨本体表征不足到部署可靠性难题，具身智能行业正从“能演示”转向“能干活”的关键验证期。&lt;/p&gt;
 &lt;p&gt;7月19日，2026世界人工智能大会（WAIC）核心分论坛“&lt;strong&gt;智启具身论坛2026——迎接物理AI智能涌现&lt;/strong&gt;”在上海世博中心举行。论坛由智元、觅蜂科技联合主办，汇集清华大学、佐治亚理工学院、Physical Intelligence、Genesis AI、Dyna Robotics、Sunday Robotics及腾讯Robotics X等机构代表，讨论焦点集中于物理AI的数据来源、模型路线、仿真训练与商业化部署。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;（图片来源：觅蜂科技）&lt;/p&gt;
@@ -708,17 +708,4 @@ Nemotron Ultra提供可验证的后训练基准
 
 &lt;p&gt;原油之外，成品油市场亦承受显著压力。自美伊战事爆发以来，欧洲批发柴油期货本周上涨14%，零售端汽油与柴油价格涨速快、降速慢，消费者已切实感受到油价冲击。&lt;/p&gt;
 &lt;p&gt;IEA周五警告称，汽油与柴油市场存在潜在供应紧缺风险。此外，俄罗斯在乌克兰无人机打击其炼化系统后，柴油出口受损，进一步压缩全球柴油供应。此前曾购买俄罗斯柴油的土耳其、巴西等国，如今不得不与西方国家竞购替代供应。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 数据中心成本暴增！甲骨文又暴雷？</title><link>https://wallstreetcn.com/articles/3777336</link><guid>1f2d22f50709da2b1e2b0cb769ba9e2b192a609b714d97f599b86efd1c0d9001</guid><pubDate>Sun, 19 Jul 2026 02:49:08 GMT</pubDate><description>&lt;p&gt;AI基础设施建设的隐性成本正在浮出水面。&lt;/p&gt;
-&lt;p&gt;7月18日，据The Information报道，&lt;strong&gt;甲骨文在新墨西哥州推进的165亿美元AI超级园区项目遭遇环保审批阻碍，被迫更换供电方案，导致成本骤增数十亿美元。&lt;/strong&gt;与此同时，该公司在威斯康星州的数据中心项目也面临额外逾1亿美元的监管合规支出。上周，标普全球将甲骨文长期发行人信用评级下调至投资级上方仅一档，理由是&amp;quot;持续低估&amp;quot;其资本支出规模。&lt;/p&gt;
-&lt;p&gt;这一系列事件折射出整个科技行业在大规模AI数据中心建设中面临的共同困境：&lt;strong&gt;环保阻力、水资源争议、监管收紧以及社区许可成本，正在将原本的财务预测一再打破。&lt;/strong&gt;&lt;/p&gt;
-供电方案被迫转向，成本增加数十亿
-&lt;p&gt;甲骨文原计划为其代号&amp;quot;Project Jupiter&amp;quot;的数据中心园区自建天然气发电厂。该项目位于新墨西哥州靠近德克萨斯州边境城市埃尔帕索附近，占地1400英亩，设计装机容量逾2吉瓦，主要服务于OpenAI的算力需求。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，天然气发电厂的州环保许可申请因空气污染和温室气体排放问题陷入停滞。&lt;/strong&gt;今年4月，甲骨文转而计划采用Bloom Energy天然气燃料电池为整个园区供电。燃料电池污染物排放更少、碳排放略低，且几乎不耗水，在环保审批上理论上更具优势。&lt;/p&gt;
-&lt;p&gt;但这一转变代价不菲。据分析师估算，容量调整至2.45吉瓦的燃料电池微电网成本约为80亿美元，&lt;strong&gt;较原方案的天然气涡轮机贵出数十亿美元&lt;/strong&gt;。此外，燃料电池若不持续运行会加速老化，这将限制甲骨文在阳光充足时切换至廉价太阳能的灵活性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;环保阻力并未就此消散。&lt;/strong&gt;新墨西哥州上周对拟议的燃料输送管道路线发出第二次否决，该州环境部门宣布将于10月19日就空气许可证举行公开听证会，理由是遭遇&amp;quot;重大反对意见&amp;quot;。&lt;/p&gt;
-&lt;p&gt;新墨西哥州总检察长正在调查有关居民投诉，称其姓名在未经本人同意的情况下被用于向监管机构提交的支持信函。当地媒体Source NM指出，仅该设施的燃料电池排放的温室气体，就超过该州两座最大城市的合计申报排放量。&lt;/p&gt;
-&lt;p&gt;甲骨文发言人在声明中表示，&lt;strong&gt;公司正在AI站点建设上&amp;quot;快速推进&amp;quot;，并对&amp;quot;所部署资本的回报充满信心&amp;quot;。&lt;/strong&gt;甲骨文基础设施规划与采购负责人Julia Robin在当地报纸发表公开信，称&lt;strong&gt;公司所做的调整表明&amp;quot;我们在倾听，并持续改进项目&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-威斯康星州监管裁决再添逾亿美元负担
-&lt;p&gt;&lt;strong&gt;在威斯康星州，甲骨文同样面临意外的合规成本。&lt;/strong&gt;尽管甲骨文、OpenAI和微软此前承诺为各自AI项目&amp;quot;自行承担&amp;quot;所有电力相关费用，但该州电力监管机构近期的裁决仍可能令这些公司付出更多。&lt;/p&gt;
-&lt;p&gt;据报道，监管机构就输电成本分摊作出裁决，可能意味着甲骨文、OpenAI及其开发合作伙伴Vantage Data Centers须独自承担其Port Washington数据中心园区输电线路的全部建设费用，而此前这些公司预期公众将分担部分成本。&lt;/p&gt;
-&lt;p&gt;此外，甲骨文还就另一项监管裁决提起诉讼。该裁决要求甲骨文以现金或信贷额度形式提供财务担保，理由是其信用评级相对其他科技巨头偏低。&lt;strong&gt;甲骨文表示，该裁决每年将使其额外承担约1亿美元的成本。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
