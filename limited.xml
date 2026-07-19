@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 19 Jul 2026 12:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”</title><link>https://wallstreetcn.com/articles/3777368</link><guid>7ac1970a05e496e99eee12f63f50ae3f37c800abf75bff539b318a1ce63725d0</guid><pubDate>Sun, 19 Jul 2026 12:25:33 GMT</pubDate><description>&lt;p&gt;从真实交互数据稀缺、跨本体表征不足到部署可靠性难题，具身智能行业正从“能演示”转向“能干活”的关键验证期。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 19 Jul 2026 12:59:40 GMT</lastBuildDate><item><title>[华尔街见闻] 机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”</title><link>https://wallstreetcn.com/articles/3777368</link><guid>7ac1970a05e496e99eee12f63f50ae3f37c800abf75bff539b318a1ce63725d0</guid><pubDate>Sun, 19 Jul 2026 12:25:33 GMT</pubDate><description>&lt;p&gt;从真实交互数据稀缺、跨本体表征不足到部署可靠性难题，具身智能行业正从“能演示”转向“能干活”的关键验证期。&lt;/p&gt;
 &lt;p&gt;7月19日，2026世界人工智能大会（WAIC）核心分论坛“&lt;strong&gt;智启具身论坛2026——迎接物理AI智能涌现&lt;/strong&gt;”在上海世博中心举行。论坛由智元、觅蜂科技联合主办，汇集清华大学、佐治亚理工学院、Physical Intelligence、Genesis AI、Dyna Robotics、Sunday Robotics及腾讯Robotics X等机构代表，讨论焦点集中于物理AI的数据来源、模型路线、仿真训练与商业化部署。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;（图片来源：觅蜂科技）&lt;/p&gt;
@@ -538,7 +538,36 @@ Nemotron Ultra提供可验证的后训练基准
 &lt;p&gt;多家已在英伟达平台上运行后训练工作负载的企业披露了具体技术细节，并表达了向Vera Rubin迁移的意向。&lt;/p&gt;
 &lt;p&gt;Prime Intellect持续在Blackwell平台上对前沿开放模型进行后训练，并使用NVIDIA Dynamo进行推理编排。该公司已将沙箱基础设施与NVIDIA Vera CPU集成，在与x86架构的对比测试中，Vera CPU在真实RL沙箱工作负载下平均吞吐量高出30%。Prime Intellect计划借助Vera Rubin扩展强化学习环境规模，并加速训练到推理的迭代循环。&lt;/p&gt;
 &lt;p&gt;Perplexity的RL后训练栈跨数百块英伟达GPU异步运行，其基于RDMA的权重传输引擎可在两秒内完成万亿参数模型在训练节点与推理节点之间的同步。经后训练的Qwen3 235B模型随后部署于NVIDIA GB200 NVL72系统之上。&lt;/p&gt;
-&lt;p&gt;Together AI则以服务形式提供后训练能力，涵盖监督微调、强化学习及直接偏好优化，通过API和SDK交付，目前运行于英伟达平台，并表示正寻求接入Vera Rubin平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 夏季或是撤退良机，美银Hartnett：Mag7资本开支若遭削减，更广泛回调或难以避免</title><link>https://wallstreetcn.com/articles/3777361</link><guid>168422923a51a1cda0a461a80193c18db9e83f9dc64d616b278ad41563fab54b</guid><pubDate>Sun, 19 Jul 2026 09:58:27 GMT</pubDate><description>&lt;p&gt;美国银行首席投资策略师Michael Hartnett再度亮出警示旗。在成功预判今年3月市场底部后，他指出当前极度拥挤的仓位与泡沫化的情绪，已将市场推至新一轮高风险区域，&lt;strong&gt;夏季撤离风险资产或为上策。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Together AI则以服务形式提供后训练能力，涵盖监督微调、强化学习及直接偏好优化，通过API和SDK交付，目前运行于英伟达平台，并表示正寻求接入Vera Rubin平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思</title><link>https://wallstreetcn.com/articles/3777330</link><guid>40896774f318f9735569f2f770c36804f81e2de59a6539b73eaa2d78ed8e0118</guid><pubDate>Sun, 19 Jul 2026 01:14:29 GMT</pubDate><description>&lt;p&gt;科技动量交易正经历有史以来最剧烈的瓦解。在短短17个交易日内，美股科技动量因子（TMT MoMo）已从峰值下跌40%，创下历史最快、最深的回撤纪录，波及范围从半导体、对冲基金到信用市场全面蔓延。&lt;/p&gt;
+&lt;p&gt;高盛合伙人、EMEA对冲基金业务负责人Mark Wilson本周对这场&amp;quot;残酷轮动&amp;quot;作出系统性复盘，指出此轮抛售在速度与深度上均属历史罕见，但其根源更多来自仓位拥挤、杠杆集中等非基本面因素，而非经济或企业盈利的实质恶化。他表示，&lt;strong&gt;动量因子的平仓过程&amp;quot;接近尾声&amp;quot;，但短期内缺乏立即逆转的催化剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得关注的是，此轮动量崩解发生在宏观与企业基本面整体稳健的背景之下——美国银行业公布企业贷款同比增长17%，台积电上调2026年营收增长指引至40%以上，通胀数据亦温和低于预期。&lt;strong&gt;这一基本面与市场价格行为之间的背离，正是当前市场最核心的矛盾所在。&lt;/strong&gt;&lt;/p&gt;
+科技动量因子遭遇史上最猛抛售，回撤速度深度超历史中位
+&lt;p&gt;据摩根士丹利量化与衍生品策略团队（MS QDS）数据，此轮动量因子回撤已历时17个交易日，峰值至谷底跌幅达28%。相比之下，自1999年以来历史上动量因子的中位数回撤为22%，平均历时33个交易日。&lt;/p&gt;
+&lt;p&gt;这意味着本轮下跌在速度和深度上均已超越历史中位水平，是自2022年12月至2023年2月那轮29%回撤以来最严重的一次。&lt;/p&gt;
+&lt;p&gt;科技板块的情况更为极端。TMT动量因子（TMT MoMo）已从峰值下跌40%，据MS QDS数据，&lt;strong&gt;这是有史以来科技动量因子最快、最深的一次抛售。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从各细分领域来看，韩国综合股价指数（Kospi）较峰值下跌27%，美国AI科技受益股下跌25%，全球存储芯片股下跌36%，欧洲半导体下跌23%。其中，存储芯片股约占整体跌幅的三分之二，更广泛的AI受益股则较高点下跌约24%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+表面低波动掩盖内里高烈度，市场风险结构正在瓦解
+&lt;p&gt;价格下跌只是这场动荡的表象，市场内部风险结构的变化同样引人注目。&lt;/p&gt;
+&lt;p&gt;据高盛波动率交易台数据，&lt;strong&gt;高盛高贝塔动量组合（GSPRHIMO）的波动率目前约为标普500指数波动率的10倍&lt;/strong&gt;。在过去20年的历史回溯中，出现如此悬殊波动率比率的情形，仅有2020年11月疫情冲击期间可与之相比。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;单只股票波动率与指数波动率之间的裂口已扩大至历史极值。&lt;/strong&gt;高盛数据显示，标普500成分股3个月隐含平均相关性本周降至0.14的历史最低水平，导致标普500指数波动率维持低位，而单只股票的平均隐含波动率高达40%，是指数隐含波动率的2.8倍，同样创下历史纪录。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+仓位仍然拥挤，风险尚未出清
+&lt;p&gt;尽管动量因子近期遭遇了历史级别的回撤，对冲基金对其的净敞口在长期视角下仍居高不下。摩根大通数据显示，&lt;strong&gt;当前仓位水平与回撤幅度的组合，使动量因子继续被视为市场中最值得警惕的核心风险之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，高盛高贝塔动量因子自6月高点已下跌33%，年初至今的涨幅从60%骤降至仅剩12%，Mark Wilson对此也予以关注。&lt;/p&gt;
+&lt;p&gt;他援引韩国市场的去杠杆迹象作为佐证：据报道，&lt;strong&gt;本周约有每30名韩国成年人中就有1人的股票保证金账户被强制平仓，显示去杠杆进程已在相当程度上展开。&lt;/strong&gt;&lt;/p&gt;
+基本面无恙，风险出在仓位与结构
+&lt;p&gt;&lt;strong&gt;此轮动量崩解的特殊之处在于，它发生在企业基本面与宏观数据普遍向好的背景下。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mark Wilson指出，美国银行业本周财报呈现出对经济状况&amp;quot;明确无误的积极解读&amp;quot;：企业贷款同比增长17%，创历史纪录，覆盖经济各个板块；美国消费者支出追踪增速为中个位数，信用卡消费增长6%；投资银行相关业务线合计增长逾40%；大型银行有形股本回报率达19%，创金融危机后新高。&lt;/p&gt;
+&lt;p&gt;在科技资本开支层面，台积电将2026年营收增长指引上调至40%以上（基于逾1500亿美元的营收基数），ASML财报则引发市场对其未来一至三年每股盈利上调15%至30%的预期。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;两家公司股价均在业绩公布后下跌，呈现出典型的&amp;quot;利好出尽&amp;quot;走势。&lt;/strong&gt;相比之下，IBM则因大型合同延迟及咨询业务不及预期，股价创下逾20年来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;Mark Wilson强调，&lt;strong&gt;此轮抛售&amp;quot;难以找到基本面层面的明确信号&amp;quot;，更多反映的是仓位、杠杆、拥挤度与集中度等结构性因素。&lt;/strong&gt;&lt;/p&gt;
+轮动接近尾声，但反转催化剂尚待出现
+&lt;p&gt;Mark Wilson表示，&lt;strong&gt;他倾向于认为动量因子的平仓过程已接近尾声，但同时指出，短期内缺乏能够立即推动市场逆转的夏季催化剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他同时提示，随着效率与商业落地能力的提升，市场新的领涨方向将逐步浮现，市场广度也将随之扩大——道琼斯运输指数本周再度突破高点，即为一例。&lt;/p&gt;
+&lt;p&gt;不过，他也警告，&lt;strong&gt;盈利增速的二阶导数（即增速的放缓）将在市场消化完二季度财报、进入夏季后变得愈发重要，而当前各类估值指标均显示科技板块估值依然偏高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，传统资产类别及资产内部的相关性正出现异常断裂，例如黄金与原油3个月相关性已降至35年历史中的极端反向水平，这使得风险管理与投资组合构建的难度进一步上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 夏季或是撤退良机，美银Hartnett：Mag7资本开支若遭削减，更广泛回调或难以避免</title><link>https://wallstreetcn.com/articles/3777361</link><guid>168422923a51a1cda0a461a80193c18db9e83f9dc64d616b278ad41563fab54b</guid><pubDate>Sun, 19 Jul 2026 09:58:27 GMT</pubDate><description>&lt;p&gt;美国银行首席投资策略师Michael Hartnett再度亮出警示旗。在成功预判今年3月市场底部后，他指出当前极度拥挤的仓位与泡沫化的情绪，已将市场推至新一轮高风险区域，&lt;strong&gt;夏季撤离风险资产或为上策。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美银最新基金经理调查显示，该行专有的&amp;quot;牛熊指标&amp;quot;已升至9.6的极端水平，创历史新高。Hartnett警告称，当前最优夏季策略是&amp;quot;撤退风险资产，转向久期、防御性资产、高股息股及美元&amp;quot;，而非逢低加仓。与此同时，他将Mag7 ETF（代码MAGS）列为关键观察指标：若MAGS跌破65美元，将拖累周期性板块全线承压；若突破70美元，则构成重新入场信号。&lt;/p&gt;
 &lt;p&gt;在Hartnett看来，&lt;strong&gt;此轮最大的尾部风险在于：一旦超大规模科技公司宣布削减AI资本开支，且此举未能推动Mag7创新高，&amp;quot;由此引发的增长与资产价格的大幅负面冲击，将催化银行、经纪商及工业股的大规模做空&amp;quot;——即一场全面市场崩跌。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -576,36 +605,7 @@ Nemotron Ultra提供可验证的后训练基准
 &lt;p&gt;最新EPFR资金流向数据进一步印证市场情绪的极度乐观。本周股票获得558亿美元净流入，债券流入200亿美元，黄金仅流入5亿美元，加密货币小幅流出1亿美元，而现金录得1196亿美元历史性流出——为2026年4月以来最大单周现金撤离规模。&lt;/p&gt;
 &lt;p&gt;具体来看，投资级债券连续第15周录得净流入，单周流入95亿美元；新兴市场股票流入250亿美元，为2025年4月以来最大；科技板块单周流入156亿美元，创三周累计流入纪录；金融板块流入27亿美元，为2026年1月以来最大。&lt;/p&gt;
 &lt;p&gt;对Hartnett而言，现金以如此规模涌入股票和科技板块，恰恰是Bull &amp;amp; Bear指标触及极端值的背景所在，也是他建议投资者在夏季保持谨慎、优先考虑撤退而非加仓的核心理由。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思</title><link>https://wallstreetcn.com/articles/3777330</link><guid>40896774f318f9735569f2f770c36804f81e2de59a6539b73eaa2d78ed8e0118</guid><pubDate>Sun, 19 Jul 2026 01:14:29 GMT</pubDate><description>&lt;p&gt;科技动量交易正经历有史以来最剧烈的瓦解。在短短17个交易日内，美股科技动量因子（TMT MoMo）已从峰值下跌40%，创下历史最快、最深的回撤纪录，波及范围从半导体、对冲基金到信用市场全面蔓延。&lt;/p&gt;
-&lt;p&gt;高盛合伙人、EMEA对冲基金业务负责人Mark Wilson本周对这场&amp;quot;残酷轮动&amp;quot;作出系统性复盘，指出此轮抛售在速度与深度上均属历史罕见，但其根源更多来自仓位拥挤、杠杆集中等非基本面因素，而非经济或企业盈利的实质恶化。他表示，&lt;strong&gt;动量因子的平仓过程&amp;quot;接近尾声&amp;quot;，但短期内缺乏立即逆转的催化剂。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，此轮动量崩解发生在宏观与企业基本面整体稳健的背景之下——美国银行业公布企业贷款同比增长17%，台积电上调2026年营收增长指引至40%以上，通胀数据亦温和低于预期。&lt;strong&gt;这一基本面与市场价格行为之间的背离，正是当前市场最核心的矛盾所在。&lt;/strong&gt;&lt;/p&gt;
-科技动量因子遭遇史上最猛抛售，回撤速度深度超历史中位
-&lt;p&gt;据摩根士丹利量化与衍生品策略团队（MS QDS）数据，此轮动量因子回撤已历时17个交易日，峰值至谷底跌幅达28%。相比之下，自1999年以来历史上动量因子的中位数回撤为22%，平均历时33个交易日。&lt;/p&gt;
-&lt;p&gt;这意味着本轮下跌在速度和深度上均已超越历史中位水平，是自2022年12月至2023年2月那轮29%回撤以来最严重的一次。&lt;/p&gt;
-&lt;p&gt;科技板块的情况更为极端。TMT动量因子（TMT MoMo）已从峰值下跌40%，据MS QDS数据，&lt;strong&gt;这是有史以来科技动量因子最快、最深的一次抛售。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从各细分领域来看，韩国综合股价指数（Kospi）较峰值下跌27%，美国AI科技受益股下跌25%，全球存储芯片股下跌36%，欧洲半导体下跌23%。其中，存储芯片股约占整体跌幅的三分之二，更广泛的AI受益股则较高点下跌约24%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-表面低波动掩盖内里高烈度，市场风险结构正在瓦解
-&lt;p&gt;价格下跌只是这场动荡的表象，市场内部风险结构的变化同样引人注目。&lt;/p&gt;
-&lt;p&gt;据高盛波动率交易台数据，&lt;strong&gt;高盛高贝塔动量组合（GSPRHIMO）的波动率目前约为标普500指数波动率的10倍&lt;/strong&gt;。在过去20年的历史回溯中，出现如此悬殊波动率比率的情形，仅有2020年11月疫情冲击期间可与之相比。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;单只股票波动率与指数波动率之间的裂口已扩大至历史极值。&lt;/strong&gt;高盛数据显示，标普500成分股3个月隐含平均相关性本周降至0.14的历史最低水平，导致标普500指数波动率维持低位，而单只股票的平均隐含波动率高达40%，是指数隐含波动率的2.8倍，同样创下历史纪录。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-仓位仍然拥挤，风险尚未出清
-&lt;p&gt;尽管动量因子近期遭遇了历史级别的回撤，对冲基金对其的净敞口在长期视角下仍居高不下。摩根大通数据显示，&lt;strong&gt;当前仓位水平与回撤幅度的组合，使动量因子继续被视为市场中最值得警惕的核心风险之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，高盛高贝塔动量因子自6月高点已下跌33%，年初至今的涨幅从60%骤降至仅剩12%，Mark Wilson对此也予以关注。&lt;/p&gt;
-&lt;p&gt;他援引韩国市场的去杠杆迹象作为佐证：据报道，&lt;strong&gt;本周约有每30名韩国成年人中就有1人的股票保证金账户被强制平仓，显示去杠杆进程已在相当程度上展开。&lt;/strong&gt;&lt;/p&gt;
-基本面无恙，风险出在仓位与结构
-&lt;p&gt;&lt;strong&gt;此轮动量崩解的特殊之处在于，它发生在企业基本面与宏观数据普遍向好的背景下。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Mark Wilson指出，美国银行业本周财报呈现出对经济状况&amp;quot;明确无误的积极解读&amp;quot;：企业贷款同比增长17%，创历史纪录，覆盖经济各个板块；美国消费者支出追踪增速为中个位数，信用卡消费增长6%；投资银行相关业务线合计增长逾40%；大型银行有形股本回报率达19%，创金融危机后新高。&lt;/p&gt;
-&lt;p&gt;在科技资本开支层面，台积电将2026年营收增长指引上调至40%以上（基于逾1500亿美元的营收基数），ASML财报则引发市场对其未来一至三年每股盈利上调15%至30%的预期。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;两家公司股价均在业绩公布后下跌，呈现出典型的&amp;quot;利好出尽&amp;quot;走势。&lt;/strong&gt;相比之下，IBM则因大型合同延迟及咨询业务不及预期，股价创下逾20年来最大单日跌幅。&lt;/p&gt;
-&lt;p&gt;Mark Wilson强调，&lt;strong&gt;此轮抛售&amp;quot;难以找到基本面层面的明确信号&amp;quot;，更多反映的是仓位、杠杆、拥挤度与集中度等结构性因素。&lt;/strong&gt;&lt;/p&gt;
-轮动接近尾声，但反转催化剂尚待出现
-&lt;p&gt;Mark Wilson表示，&lt;strong&gt;他倾向于认为动量因子的平仓过程已接近尾声，但同时指出，短期内缺乏能够立即推动市场逆转的夏季催化剂。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他同时提示，随着效率与商业落地能力的提升，市场新的领涨方向将逐步浮现，市场广度也将随之扩大——道琼斯运输指数本周再度突破高点，即为一例。&lt;/p&gt;
-&lt;p&gt;不过，他也警告，&lt;strong&gt;盈利增速的二阶导数（即增速的放缓）将在市场消化完二季度财报、进入夏季后变得愈发重要，而当前各类估值指标均显示科技板块估值依然偏高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，传统资产类别及资产内部的相关性正出现异常断裂，例如黄金与原油3个月相关性已降至35年历史中的极端反向水平，这使得风险管理与投资组合构建的难度进一步上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一亿小时，通往物理AI的涌现时刻</title><link>https://wallstreetcn.com/articles/3777354</link><guid>f3ad02906174b12a7aec07df9405582c454f45c0d81a8f777b303b0738a57fef</guid><pubDate>Sun, 19 Jul 2026 07:56:56 GMT</pubDate><description>&lt;p&gt;到了2026年，具身智能数据规模、训练范式和模型架构开始成为新的竞争焦点。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一亿小时，通往物理AI的涌现时刻</title><link>https://wallstreetcn.com/articles/3777354</link><guid>f3ad02906174b12a7aec07df9405582c454f45c0d81a8f777b303b0738a57fef</guid><pubDate>Sun, 19 Jul 2026 07:56:56 GMT</pubDate><description>&lt;p&gt;到了2026年，具身智能数据规模、训练范式和模型架构开始成为新的竞争焦点。&lt;/p&gt;
 &lt;p&gt;在7月19日举行的「智启具身论坛：迎接物理AI智能涌现」媒体采访中，智元机器人合伙人、觅蜂科技董事长兼CEO姚卯青给出了一个明确判断：&lt;strong&gt;如果把具身智能的GPT-3.5时刻定义为通用能力的显著涌现，行业可能在2027年底至2028年初看到关键进展。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;支撑这一判断的核心变量是数据。&lt;/p&gt;
 &lt;p&gt;姚卯青认为，&lt;strong&gt;具身智能需要一座数据金字塔。底层是规模大、成本低、来源广泛的预训练数据，帮助模型理解空间、动力学和因果关系；中间是真机遥操作等高质量示教数据，用于具体场景的监督微调；顶层来自真实部署后的在线交互，通过强化学习继续提高成功率、节拍和泛化能力&lt;/strong&gt;。&lt;/p&gt;
