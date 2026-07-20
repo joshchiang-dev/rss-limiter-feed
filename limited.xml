@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 22:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 22:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -62,7 +62,27 @@
 &lt;p&gt;2026年WAIC上，华为昇腾950超节点真机首次公开亮相，支持最高1024卡级别部署，提供1 EFLOPS级FP8算力和256TB统一内存编址空间。&lt;/p&gt;
 &lt;p&gt;根据BCC Research预测，全球数据中心网络技术市场规模将从2025年的458亿美元增长至2030年的1030亿美元，年复合增速约17.6%。&lt;/p&gt;
 &lt;p&gt;Research and Markets预计AI高速互联市场规模将从2025年的103.1亿美元增长至2030年的301.7亿美元，年复合增速约23.9%，增速显著高于传统数据中心网络。&lt;/p&gt;
-&lt;p&gt;对投资者而言，Kimi K3的发布传递了一个清晰的信号：开源模型的能力突破不会削弱对底层硬件的需求，效率提升释放的新增工作负载正在将行业竞争焦点从模型本身，推向支撑模型运行的算力基础设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CPU重回AI主舞台，英特尔Q2财报迎来最关键一战</title><link>https://wallstreetcn.com/articles/3777458</link><guid>de29e82ea63f4c620a10a368dee80d59ccef31fbfa919e4c163736fe0cd40e1b</guid><pubDate>Mon, 20 Jul 2026 11:46:57 GMT</pubDate><description>&lt;p&gt;英特尔正站在一个关键转折点上。随着AI工作负载结构从训练转向推理、再转向智能体，CPU在数据中心的战略地位悄然回升，这家老牌芯片巨头的投资逻辑正在被市场重新定价。&lt;/p&gt;
+&lt;p&gt;对投资者而言，Kimi K3的发布传递了一个清晰的信号：开源模型的能力突破不会削弱对底层硬件的需求，效率提升释放的新增工作负载正在将行业竞争焦点从模型本身，推向支撑模型运行的算力基础设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
+&lt;p&gt;继上周五重挫28%后，智谱周一再度下跌19.56%，收报890.5港元，市值降至4146亿港元。仅两个交易日，市值合计蒸发逾3000亿港元。而若从盘中突破1万亿港元的历史高点计算，累计跌幅已达约60%。&lt;/p&gt;
+&lt;p&gt;引爆市场情绪的核心冲突在于：智谱于7月13日以每股1588港元完成1978万股配售，募资净额约313.75亿港元，但仅一周后股价便跌至890.5港元。&lt;/p&gt;
+&lt;p&gt;这意味着参与配售的机构资金账面浮亏达43.9%。高位融资与股价急跌之间仅隔了七个自然日，配售时机的合理性成为市场焦点。&lt;/p&gt;
+&lt;p&gt;在行业竞争骤然升级与解禁压力尚未充分释放的双重挤压下，AI大模型赛道正经历从&amp;quot;稀缺性溢价&amp;quot;到&amp;quot;竞争性折价&amp;quot;的剧烈切换。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+两日急跌：Kimi K3催化竞争恐慌，解禁悬剑未落
+&lt;p&gt;上周五智谱大跌28%，同日Kimi K3正式发布——这款2.8万亿参数模型将API混合定价设定为每百万token 2.3美元，创中国模型定价新高，也直接引发投资者对中国AI模型竞争格局的重新评估。&lt;/p&gt;
+&lt;p&gt;据高盛报告，K3在Arena.ai编程排名及Artificial Analysis智能评分中均跻身全球前沿水平。智谱当日大跌、MiniMax同步下挫16%，反映了市场对头部格局稳定性的深度疑虑。&lt;/p&gt;
+&lt;p&gt;周一延续的跌势则更多来自解禁压力的持续发酵。智谱已于7月上旬进入解禁期，基石投资者所持2568.16万股恢复流通。&lt;/p&gt;
+&lt;p&gt;尽管包括北京金融控股集团旗下JSC International Investment Fund SPC、上海高毅、泰康人寿、广发基金等在内的11家基石投资者此前表态不急于减持，但在当前股价下基石投资者账面浮盈仍高达666%，获利了结的潜在动力难以忽视。&lt;/p&gt;
+&lt;p&gt;智谱目前单手交易门槛近9万港元，普通散户参与门槛较高。周一成交额110.91亿港元。&lt;/p&gt;
+314亿配售：一周浮亏44%的高位博弈
+&lt;p&gt;7月13日的314亿港元配售是智谱上市以来的最大单笔融资，也是这轮暴跌中最具争议的资本运作。以1588港元的配售价计算，仅一周后股价便已跌去43.9%。哪些机构在如此价位参与了认购，至今仍未完全披露。&lt;/p&gt;
+&lt;p&gt;配售条款文件显示，资金拟用于研发、业务扩张、对外投资及并购。彼时智谱年内涨幅一度超过1900%，股价远高于发行价116.2港元。配售价较当时市价折让约13%，但从结果看，该价格仍处于公司上市以来的高位区间。&lt;/p&gt;
+&lt;p&gt;值得注意的是，智谱同期上市的竞争对手MiniMax同样表现疲软，截至周一收盘市值已降至674亿港元。MiniMax近期也完成了160亿港元的配售及债券发行，但其配售价268港元较当前股价193.1港元同样出现深度折价。&lt;/p&gt;
+估值逻辑重塑：从万亿叙事到竞争折价
+&lt;p&gt;智谱的暴跌折射出AI大模型赛道估值逻辑的深层转变。此前市场给予智谱的万亿估值，很大程度上建立在&amp;quot;大模型第一股&amp;quot;的稀缺性溢价与API量价齐升的商业化叙事之上。&lt;/p&gt;
+&lt;p&gt;但竞争格局的变化正在侵蚀这一叙事的基础。Kimi K3的发布标志着中国AI模型在编程与智能体能力上已进入多强并立阶段；DeepSeek近期完成500亿元融资、估值达3500亿元，并正以约710亿美元估值寻求新一轮融资。&lt;/p&gt;
+&lt;p&gt;在下半年还将有更多模型密集推出的背景下，缺乏绝对技术壁垒的企业将面临更严峻的估值折价。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，智谱当前4146亿港元的市值是否已充分定价竞争风险，取决于其能否在模型迭代速度、定价权维持与商业化变现之间找到新的平衡点。而314亿港元配售资金的套牢，无疑增加了这一平衡的难度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CPU重回AI主舞台，英特尔Q2财报迎来最关键一战</title><link>https://wallstreetcn.com/articles/3777458</link><guid>de29e82ea63f4c620a10a368dee80d59ccef31fbfa919e4c163736fe0cd40e1b</guid><pubDate>Mon, 20 Jul 2026 11:46:57 GMT</pubDate><description>&lt;p&gt;英特尔正站在一个关键转折点上。随着AI工作负载结构从训练转向推理、再转向智能体，CPU在数据中心的战略地位悄然回升，这家老牌芯片巨头的投资逻辑正在被市场重新定价。&lt;/p&gt;
 &lt;p&gt;7月23日美股盘后，英特尔将公布二季度财报。&lt;/p&gt;
 &lt;p&gt;这不是一次普通的季度业绩披露——在年内股价累计涨幅超过160%、估值仍处约87倍预期市盈率的高位背景下，华尔街要求管理层同时兑现营收上行、毛利率改善与可持续增长指引，并拿出切实证据证明数据中心CPU需求与代工业务转型均已进入可量化的兑现阶段。&lt;strong&gt;多数分析师押注本次业绩将超越公司原有指引，汇丰更将目标价上调100%至200美元，创华尔街分析师群体中的最高目标点位。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，&lt;strong&gt;市场的高预期本身即构成风险。&lt;/strong&gt;英特尔一季度公布超预期展望后盘后一度上涨19%，随后在AI芯片热潮与本土制造政策预期推动下急剧上行；但&lt;strong&gt;截至7月17日，股价已从6月高位大幅回撤至约95美元附近，费城半导体指数同期从高点下跌逾20%、进入技术性熊市。财报能否成为新一轮上行的催化剂，还是演变为&amp;quot;利好出尽&amp;quot;，将在很大程度上取决于英特尔能否证明其将AI需求转化为可交付产能与可持续利润的执行能力。&lt;/strong&gt;&lt;/p&gt;
@@ -409,39 +429,4 @@ Mag 7分化加剧，抱团时代正在结束
 &lt;p&gt;相比“Mag 7”这一狭义标签，&lt;strong&gt;花旗提出的“成长集群”覆盖范围更广，不仅囊括大型科技公司，也纳入大量AI基础设施相关企业。&lt;/strong&gt;据策略师Chronert介绍，&lt;strong&gt;该集群目前占标普500指数市值超过一半，并贡献约48%的指数盈利，因此能更全面地反映当前美股成长板块的基本面变化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从估值维度看，花旗认为该成长集群尚未进入极端高估区域。其未来12个月市盈率处于过去30年历史分布的第66百分位，在盈利增长预期支撑下，估值水平有望维持至2027年。&lt;strong&gt;换言之，当前的估值扩张并非无根之水，而是建立在相对扎实的业绩前景之上，这为成长板块提供了阶段性的安全边际。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，市场结构正在发生微妙的切换。今年上半年，半导体板块曾是AI交易的主要受益者，但近期相关股票开始跑输大盘，市场对高估值和资本开支回报的担忧明显升温。与此同时，法国兴业银行策略师Manish Kabra等人警告称，现在押注AI大规模投资支出的终局赢家仍为时过早，这意味着前期领涨的基础设施层正面临预期回调的压力。&lt;/p&gt;
-&lt;p&gt;事实上，Chronert早在去年12月就预判，2026年的AI交易逻辑将从“AI基础设施提供者”转向“AI技术采用者”，而当前的市场轮动正在逐步验证这一判断。&lt;strong&gt;资金正从纯硬件供应商，向能够利用AI提升效率、改善产品的应用层企业迁移，这种结构性变化比简单的板块轮动更具深意。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 月之暗面引爆AI交易变局，盘点新格局下的赢家与输家</title><link>https://wallstreetcn.com/articles/3777493</link><guid>b9be257e14220e51b273f57003bda58ddbb2c6f2492a741e1f1acc28c7119462</guid><pubDate>Mon, 20 Jul 2026 20:00:18 GMT</pubDate><description>&lt;p&gt;月之暗面发布的Kimi K3模型引爆“DeepSeek效应”，在全球科技股市场掀起新一轮重新定价浪潮，迫使投资者审视支撑AI交易逻辑的核心假设。&lt;/p&gt;
-&lt;p&gt;月之暗面上周五发布新一代模型Kimi K3，称其性能可与OpenAI和Anthropic的顶级产品媲美，成本却仅为后者的一小部分。市场开始将此次发布与去年的“DeepSeek时刻”相提并论，IG市场分析师Tony Sycamore表示，这一冲击导致两家未上市美国公司OpenAI和Anthropic的预期估值合计蒸发3140亿美元。&lt;/p&gt;
-&lt;p&gt;评论认为，Kimi K3的问世从两个维度动摇了既有市场逻辑：其一，美国限制先进芯片出口将阻碍别国AI进展的判断面临挑战；其二，性能更强、成本更低的模型在加速全球AI应用普及的同时，是否会引发AI基础设施产能过剩，亦成为投资者的新忧虑。&lt;/p&gt;
-&lt;p&gt;然而，此次冲击并非全面利空。从市场表现来看，不同赛道的玩家正在经历截然不同的命运分化。以下是潜在赢家与输家的梳理。&lt;/p&gt;
-
-赢家之一：中国半导体生态系统
-
-&lt;p&gt;目前尚不清楚月之暗面开发K3所使用的具体芯片，不过，新模型的发布已直接提振中国半导体板块。本周一盘中，中芯国际A股一度涨超5%，市场预期AI模型开发商之间的竞争加剧将推动相关基础设施支出持续增加。&lt;/p&gt;
-&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan表示：“我们预计最大的赢家仍将是AI基础设施层。在政府的大力支持下，中国对开源AI的推动可能加速国内先进AI模型的部署，这将需要更多算力资源，并带动底层硬件需求，尤其是网络设备和存储芯片。”&lt;/p&gt;
-&lt;p&gt;上周末，阿里巴巴发布了旗舰模型Qwen3.8 Max的预览版，该模型参数量达2.4万亿，性能据称可与全球领先的前沿模型比肩。两款产品的相继发布，叠加中国AI开发商日益倾向于针对国内芯片优化模型的趋势，共同推动科创板代表性指数创业板综周一涨幅一度达3.6%。&lt;/p&gt;
-
-赢家之二：存储芯片厂商
-
-&lt;p&gt;Kimi K3拥有2.8万亿参数，系中国迄今最大规模的AI模型，其稀疏比——衡量计算效率的关键指标——已创下历史新高。更高的稀疏比意味着每次推理任务中被激活的参数占总量的比例更低，从而降低算力消耗。&lt;/p&gt;
-&lt;p&gt;然而，这2.8万亿参数仍须全部存入内存。即便经过低精度格式压缩，Kimi K3仍占用约1.4太字节的内存空间。这意味着部署该模型须依赖配备大容量内存的AI处理器集群，例如英伟达的Blackwell GB300系统，对SK海力士、三星电子等存储芯片供应商的需求由此得以延续。&lt;/p&gt;
-&lt;p&gt;Sumitomo Mitsui DS Asset Management高级投资组合经理Stanley Tang表示：“由于供应商数量有限，存储芯片厂商仍将是半导体板块中处境最为有利的一类企业。”他进一步指出，如果像Kimi这样的模型加速普及，整体需求不太可能因此下滑，反而可能推动AI智能体加速渗透，从而进一步拉动存储需求。&lt;/p&gt;
-
-赢家之三：AI智能体与软件开发商
-
-&lt;p&gt;Kimi K3的发布还提振了外界对中国软件企业与AI智能体开发商的信心——即便在获取全球最先进芯片受限的背景下，这些企业依然有能力持续提升模型性能与效率。&lt;/p&gt;
-&lt;p&gt;“可以确定的是，一款性能出色且成本更低的开源模型将降低应用开发成本，并可能加快在编程、客户服务和工业流程领域的应用普及，”Saxo Markets首席投资策略师Charu Chanana表示。&lt;/p&gt;
-&lt;p&gt;不过，晨星分析师Malik Ahmed Khan对于软件开发商所面临的竞争风险持更为审慎的态度。&lt;/p&gt;
-&lt;p&gt;Khan认为，将上周五Alphabet、亚马逊和微软遭抛售归因于市场担忧更多企业将转向受K3启发的开源模型，这种判断“站不住脚”。他说，我们认为，美国企业、政府机构以及与美国政府合作的公司，不会为了降低推理成本而采用别国的开放权重模型。&lt;/p&gt;
-
-输家之一：AI模型开发商
-
-&lt;p&gt;如果说K3催生了新的赢家，那么对于AI模型开发商而言，竞争格局已明显趋于恶化。&lt;/p&gt;
-&lt;p&gt;在K3发布前被普遍视为中国最佳开源模型开发商的智谱，港股股价在过去两个交易日内已累计下挫近40%，折射出市场对于模型层竞争白热化的担忧。&lt;/p&gt;
-&lt;p&gt;此后竞争亦不会就此平息。阿里巴巴周一股价随Qwen3.8 Max的发布而上涨，该公司将这款模型定位为能力仅次于Anthropic Fable 5的产品。MiniMax Group Inc.据报也计划推出M3模型的升级版本。月之暗面本身则宣布将于7月27日公开发布Kimi K3的模型权重，届时企业可自行运行该模型，而无需依赖其云服务。&lt;/p&gt;
-&lt;p&gt;Sumitomo的Tang表示：“我们仍处于早期阶段，更好的模型还会不断涌现。一些模型可能变得毫无价值，我认为市场尚未充分计入这一风险。”&lt;/p&gt;
-
-输家之二：高端芯片制造商
-
-&lt;p&gt;此次发布同样令市场重新审视英伟达和AMD等AI热潮核心受益者是否还能持续享有稀缺性溢价。与DeepSeek冲击不同的是，K3的突破点不在于训练效率，而更多体现在以更低成本实现对标顶级模型的推理性能——这一路径对高端算力的依赖程度存在本质差异。&lt;/p&gt;
-&lt;p&gt;Siebert Financial首席投资官Mark Malek表示：“东京和台北的投资者当天将对AI资本支出最终能否获得回报的疑虑计入价格。无论世界上哪家实验室——不管来自哪个国家——每次推出一款免费的前沿级模型，这种疑虑就会再次浮现。”&lt;/p&gt;
-&lt;p&gt;从更宏观的视角来看，Kimi K3与Qwen3.8 Max的接连亮相表明，前沿AI模型的竞争正在超越OpenAI、Anthropic等美国头部实验室的范畴持续扩展。据彭博报道，这一趋势可能对美国模型提供商的定价权形成压力，同时继续推动全球范围内支撑更强大AI系统运行所需的基础设施投资。AI赛道的赢家与输家格局，或正在经历深刻重构。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 亲历 2007 狂热盛夏与 2008 寒彻熊市</title><link>http://xueqiu.com/8801393218/401096567</link><guid>836fc2e7697e45b150412824038d0c637b2e5a9010bcd63baa118bd3fc42d4d7</guid><pubDate>Mon, 20 Jul 2026 10:31:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;八万顷&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2007、2008 年于我而言，绝非新手初识市场的启蒙阶段。彼时我入市已满十年，早已完整走过数轮牛熊，交易体系、盘感与风控认知早已成型，自认看透市场大半套路。可那两年极致割裂的行情、泡沫与崩塌，依旧彻底重塑了我对周期、人性、资金共识的底层认知，成为往后二十年投资路上刻在骨子里的参照标尺。&lt;/p&gt;</description></item><item><title>[今日雪球] 泰聚周思考｜7月科技股大波动对投资的启示</title><link>http://xueqiu.com/4047351923/401049759</link><guid>45c3965168de566ede8331ed01747d1077f159073c40877a475638bfe3742e5b</guid><pubDate>Mon, 20 Jul 2026 10:32:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张宪强-泰聚基金&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6-7月，A股科技股经历了一场教科书式的大波动。从6月下旬的烈火烹油，到7月中旬的一地鸡毛，创业板指7月单月跌幅已超过20%，640只个股7月跌幅超过30%，身边不少朋友因为有融资杠杆，今年收益已转负甚至出现不小的亏损。这是一次值得认真复盘的、关于人性与定价的现场教学。我们基金产品经历过2024年年初的股灾，深知风险控制的重要。&lt;b&gt;基于6月份对A股题材投资、市值管理、趋势投资的“过热情绪”观察，以及对AI发展进入波动期的判断，我们在6月底已采取减仓、期指空单的对冲，近期最高回撤控制在了10%左右，2026年收益率仍在三位数附近。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮科技回调何时结束的思考</title><link>http://xueqiu.com/5332385101/401055347</link><guid>38ee6581d08c20cd057b7f4f89b8d41f72cdf6419a77b4d20ac84a357c0e1194</guid><pubDate>Mon, 20 Jul 2026 10:31:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去三周，全球科技剧烈回调。短短17个交易日内，美股科技动量因子从峰值急坠40%，创下有史以来最快、最深回撤。KOSPI、全球存储及AI核心受益股无一幸免，跌幅均在20%-30%之间。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;事实上，Chronert早在去年12月就预判，2026年的AI交易逻辑将从“AI基础设施提供者”转向“AI技术采用者”，而当前的市场轮动正在逐步验证这一判断。&lt;strong&gt;资金正从纯硬件供应商，向能够利用AI提升效率、改善产品的应用层企业迁移，这种结构性变化比简单的板块轮动更具深意。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
