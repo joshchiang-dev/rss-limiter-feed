@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 21:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 21:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -62,45 +62,7 @@
 &lt;p&gt;2026年WAIC上，华为昇腾950超节点真机首次公开亮相，支持最高1024卡级别部署，提供1 EFLOPS级FP8算力和256TB统一内存编址空间。&lt;/p&gt;
 &lt;p&gt;根据BCC Research预测，全球数据中心网络技术市场规模将从2025年的458亿美元增长至2030年的1030亿美元，年复合增速约17.6%。&lt;/p&gt;
 &lt;p&gt;Research and Markets预计AI高速互联市场规模将从2025年的103.1亿美元增长至2030年的301.7亿美元，年复合增速约23.9%，增速显著高于传统数据中心网络。&lt;/p&gt;
-&lt;p&gt;对投资者而言，Kimi K3的发布传递了一个清晰的信号：开源模型的能力突破不会削弱对底层硬件的需求，效率提升释放的新增工作负载正在将行业竞争焦点从模型本身，推向支撑模型运行的算力基础设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌</title><link>https://wallstreetcn.com/articles/3777383</link><guid>72d8ca2f7c32083f732612fee9c05330435e851c46e0b76c66d600e5db1b6d2f</guid><pubDate>Mon, 20 Jul 2026 13:36:09 GMT</pubDate><description>&lt;p&gt;科技股波动暂告段落，本周初市场情绪回稳。投资者整体观望，静待Alphabet等AI巨头财报指引。&lt;/p&gt;
-&lt;p&gt;周一，美股盘初，纳指涨0.85%，道指涨0.3%，标普500指数涨0.5%。费城半导体指数涨2.5%，存储芯片股普涨，闪迪涨约5%，SK海力士涨约4%，美光科技涨约4%。AMD涨约3%，报道称微软将部署AMD Helios机架级解决方案。中概股多数上涨，哔哩哔哩涨约3%，百度涨约3%，阿里巴巴涨约4%。&lt;/p&gt;
-&lt;p&gt;地缘方面，据新华社，伊朗高级官员称，伊美谈判调解方已向伊方提出旨在缓和目前局势的提议，该提议建议实施为期10天的停火，以寻求恢复执行伊美上个月达成的谅解备忘录。油价转跌，布伦特原油跌0.5%至87.6美元每桶，此前一度涨2.5%，突破每桶90美元关口。美国10年期国债期货下跌，澳大利亚和新西兰债券亦因油价上涨可能加剧通胀的担忧而走低。&lt;/p&gt;
-&lt;p&gt;KBC Securities全球股票主管Andrea Gabellone表示，芯片制造商的急剧回调还不会促使投资者大量逢低买入，“因为7月通常是动能非常不利的月份”。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;美股盘初：纳指涨0.85%，道指涨0.3%，标普500指数涨0.5%。费城半导体指数涨2.5%，存储芯片股普涨，闪迪涨约5%，SK海力士涨约4%，美光科技涨约4%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;美股盘初，主要行业ETF涨跌不一，半导体ETF涨2.6%，科技行业ETF涨1.5%，区域银行业ETF、银行业ETF微跌。&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;欧洲斯托克50指数平开，德国DAX指数跌0.1%，英国富时100指数跌0.3%，法国CAC 40指数跌0.1%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;韩国首尔综指收盘跌4.5%，报6516.27点。&lt;/li&gt;
-&lt;li&gt;美元指数涨0.05%&lt;/li&gt;
-&lt;li&gt;布伦特原油跌近0.3%至87.86美元每桶。&lt;/li&gt;
-&lt;li&gt;现货黄金涨0.1%，至每盎司4020美元。&lt;/li&gt;
-&lt;li&gt;比特币下跌0.5%，报64144.16美元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-美股盘初：三大股指走高，存储芯片股普涨
-&lt;p&gt;美股盘初，纳指涨0.85%，道指涨0.3%，标普500指数涨0.5%。费城半导体指数涨2.5%，存储芯片股普涨，闪迪涨约5%，SK海力士涨约4%，美光科技涨约4%。&lt;/p&gt;
-&lt;p&gt;本周，随着大型科技公司财报季拉开帷幕——Alphabet将于周三率先发布第二季度业绩，市场情绪略有回暖。作为标普500指数2026年涨势的重要引擎，芯片制造商已步入熊市，主因市场担忧Alphabet等企业能否持续支撑全球大规模AI基础设施建设。在此背景下，超大规模数据中心运营商的财报尤为关键。&lt;/p&gt;
-&lt;p&gt;KBC Securities全球股票主管Andrea Gabellone指出，市场正密切关注其盈利模式与资本支出计划，这或有助于稳定当前局势。不过他也表示，尽管芯片板块回调剧烈，但尚未触发明显的逢低买入。&lt;/p&gt;
-中东外交努力现曙光，油价回吐涨幅
-
-&lt;p&gt;布伦特原油冲高回落，盘中一度涨破90美元关口，目前转跌近0.3%，报87.86美元/桶。中东外交斡旋迹象打压地缘溢价，油价回吐日内全部涨幅。&lt;/p&gt;
-
-&lt;p&gt;此前，美伊冲突的持续升级，令市场对全球能源供应链的担忧骤然加剧。布伦特原油与WTI之间的价差扩大，凸显出市场对战事进一步干扰全球供应的忧虑。&lt;/p&gt;
-&lt;p&gt;彭博策略师Garfield Reynolds指出，布伦特相对WTI的溢价扩大，折射出市场对美伊战争升级将进一步破坏全球能源供给的担忧，但目前这一价差尚在可控范围内，尚未对股市造成明显冲击。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;油价上扬令此前趋于缓和的通胀叙事面临逆转。就在上周，美国数据显示6月消费者价格为六年来首次下降，核心通胀指标亦基本持平，市场对美联储加息的预期一度明显降温。然而随着油价重回90美元上方，美国全国普通汽油均价即将重新突破每加仑4美元，柴油价格已超过每加仑5美元并继续攀升。&lt;/p&gt;
-&lt;p&gt;Pepperstone Group策略师Dilin Wu表示，&amp;quot;最令我担忧的是宏观层面的连锁反应。油价每超过90美元一美元，就会在美联储工作最有望变得轻松的时刻令其更加艰难。通胀本已降温，加息预期本已回落，市场本已找到立足点——油价突破90美元，一个动作便让这一切逆转。&amp;quot;&lt;/p&gt;
-&lt;p&gt;黄金涨跌互现，现报4020美元，此前一度跌破4000美元。&lt;/p&gt;
-美联储路径再度承压，加息预期重燃
-&lt;p&gt;油价飙升正在重塑市场对美联储货币政策路径的判断。本月早些时候在葡萄牙辛特拉，美联储主席Kevin Warsh表示近期价格风险已有所下降，并重申将通胀压回2%目标的决心。&lt;/p&gt;
-&lt;p&gt;然而，随着停火框架形同虚设、油价急涨，市场正被迫重新定价。据瑞穗银行亚洲（除日本外）宏观研究主管Vishnu Varathan在客户报告中指出，远期市场目前预计到2027年第一季度将有约两次加息，鹰派委员的频繁表态亦为这一预期提供了支撑。&lt;/p&gt;
-&lt;p&gt;Saxo Markets首席投资策略师Charu Chanana表示，&amp;quot;亚洲市场依然脆弱——油价走高重燃通胀风险，推升债券收益率，并收紧了能源进口型经济体的金融条件。&amp;quot;&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CPU重回AI主舞台，英特尔Q2财报迎来最关键一战</title><link>https://wallstreetcn.com/articles/3777458</link><guid>de29e82ea63f4c620a10a368dee80d59ccef31fbfa919e4c163736fe0cd40e1b</guid><pubDate>Mon, 20 Jul 2026 11:46:57 GMT</pubDate><description>&lt;p&gt;英特尔正站在一个关键转折点上。随着AI工作负载结构从训练转向推理、再转向智能体，CPU在数据中心的战略地位悄然回升，这家老牌芯片巨头的投资逻辑正在被市场重新定价。&lt;/p&gt;
+&lt;p&gt;对投资者而言，Kimi K3的发布传递了一个清晰的信号：开源模型的能力突破不会削弱对底层硬件的需求，效率提升释放的新增工作负载正在将行业竞争焦点从模型本身，推向支撑模型运行的算力基础设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CPU重回AI主舞台，英特尔Q2财报迎来最关键一战</title><link>https://wallstreetcn.com/articles/3777458</link><guid>de29e82ea63f4c620a10a368dee80d59ccef31fbfa919e4c163736fe0cd40e1b</guid><pubDate>Mon, 20 Jul 2026 11:46:57 GMT</pubDate><description>&lt;p&gt;英特尔正站在一个关键转折点上。随着AI工作负载结构从训练转向推理、再转向智能体，CPU在数据中心的战略地位悄然回升，这家老牌芯片巨头的投资逻辑正在被市场重新定价。&lt;/p&gt;
 &lt;p&gt;7月23日美股盘后，英特尔将公布二季度财报。&lt;/p&gt;
 &lt;p&gt;这不是一次普通的季度业绩披露——在年内股价累计涨幅超过160%、估值仍处约87倍预期市盈率的高位背景下，华尔街要求管理层同时兑现营收上行、毛利率改善与可持续增长指引，并拿出切实证据证明数据中心CPU需求与代工业务转型均已进入可量化的兑现阶段。&lt;strong&gt;多数分析师押注本次业绩将超越公司原有指引，汇丰更将目标价上调100%至200美元，创华尔街分析师群体中的最高目标点位。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，&lt;strong&gt;市场的高预期本身即构成风险。&lt;/strong&gt;英特尔一季度公布超预期展望后盘后一度上涨19%，随后在AI芯片热潮与本土制造政策预期推动下急剧上行；但&lt;strong&gt;截至7月17日，股价已从6月高位大幅回撤至约95美元附近，费城半导体指数同期从高点下跌逾20%、进入技术性熊市。财报能否成为新一轮上行的催化剂，还是演变为&amp;quot;利好出尽&amp;quot;，将在很大程度上取决于英特尔能否证明其将AI需求转化为可交付产能与可持续利润的执行能力。&lt;/strong&gt;&lt;/p&gt;
@@ -214,23 +176,7 @@ Helios：AMD首款机架级AI系统
 长期合作深化，软件生态仍是关键变量
 &lt;p&gt;&lt;strong&gt;此次合作是AMD与微软长期伙伴关系的延续。&lt;/strong&gt;AMD芯片长期为微软Surface PC和Xbox游戏主机提供动力；2023年，微软率先采用AMD MI300X GPU用于AI工作负载，微软同时也在数据中心部署自研Maia芯片。&lt;/p&gt;
 &lt;p&gt;报道援引分析人士指出，AMD在硬件层面已与英伟达基本持平，但软件生态仍是关键差距所在。Counterpoint Research分析师Neil Shah表示，&lt;strong&gt;AMD的Helios芯片在性能上&amp;quot;与英伟达GPU和CPU相当&amp;quot;，但&amp;quot;关键在于软件和优化&amp;quot;，英伟达凭借CUDA拥有更为成熟庞大的生态系统。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Newman则提出了另一个核心问题：&amp;quot;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&amp;quot;Helios早期部署的实际表现，将在很大程度上决定这一问题的答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 埃安“兜底”，高里程动力电池难题摆上台面</title><link>https://wallstreetcn.com/articles/3777441</link><guid>2328e1b272d3b48c978da69a429a5841f4481d12324107ebc952d988f1937d9a</guid><pubDate>Mon, 20 Jul 2026 09:48:28 GMT</pubDate><description>&lt;p&gt;作者 | 周智宇&lt;/p&gt;
-&lt;p&gt;新能源汽车的高里程电池逐渐变成整个行业必须面对的售后账单。&lt;/p&gt;
-&lt;p&gt;近日，部分车主在投诉平台上反映，部分营运版AION S出现的电池系统故障。对此，7月18日晚，广汽埃安和中创新航先后就相关问题作出回应。埃安称，部分搭载中创新航177Ah磷酸铁锂电池、用于营运的AION S车辆出现电池故障。埃安将相关车辆的电池质保从8年或15万公里延长至8年或30万公里，并根据检测结果提供免费维修或更换电池包服务。因维修或更换电池包影响营运、维修超过5天的车主，还将获得相应补贴。&lt;/p&gt;
-&lt;p&gt;中创新航随后发布公告称，部分搭载其电池的AION S车辆在特定工况下出现电池系统故障，车主可以直接前往中创新航服务网点接受免费检测和相应维修服务。&lt;/p&gt;
-&lt;p&gt;埃安方面在7月19日回应华尔街见闻称，公司通过后台数据和用户反馈，已经提前关注到相关车辆。前期已经对确认属于电池本身质量问题的车辆提供免费维修或更换电池包，也通过后台筛查主动邀约风险车辆到店检测，6月还开展过夏季免费三电检测。&lt;/p&gt;
-&lt;p&gt;从埃安方面公告信息看，目前出现问题的电池范围限定：中创新航177Ah磷酸铁锂电池、超过15万公里、营运用途的AION S。家用车、其他车型和搭载其他电池的车辆，暂未发现同类问题。&lt;/p&gt;
-&lt;p&gt;随着我国新能源汽车保有量已经进入大规模阶段，早期销售的车辆正在陆续进入高里程和脱保期。公安部数据显示，截至2025年底，全国新能源汽车保有量超过4397万辆。中汽信息科技测算，到2030年，超过900万辆新能源汽车将进入脱保期，到2032年这一规模可能超过2000万辆。&lt;/p&gt;
-&lt;p&gt;在这个过程中，电池健康度会成为一个越来越常见、也越来越难处理的指标。车辆实际表现是续航下降、充电速度变慢或者动力受限，但车企通常依据后台数据、容量测试和故障代码判断是否达到质保条件。中国汽车技术研究中心在动力电池耐久性标准解读中提到，现行汽车三包要求对电池衰减限值进行明示，但统一的健康度指标和测评方法仍有完善空间。&lt;/p&gt;
-&lt;p&gt;如果检测方式和数据口径掌握在车企或电池厂手中，车主就很难通过独立渠道复核结果。对普通私家车来说，这可能意味着一次漫长的售后交涉；对网约车和出租车来说，则意味着车辆停运以及收入中断。&lt;/p&gt;
-&lt;p&gt;动力电池维修也不是简单更换一个零部件。国信证券此前在新能源汽车后市场研报分析中提到，电池包维修需要经过诊断、放电、拆卸、模组检测，以及气密性和绝缘性测试，部分故障电池需要返回车企或电池厂，周期可能达到5至7天。埃安此次把“维修超过5天补贴”写进方案，正是因为对营运车主而言，维修时间本身就是成本。&lt;/p&gt;
-&lt;p&gt;维修资源也还没有准备好承接这批高里程车辆。行业测算数据显示，全国具备新能源汽车维修服务能力的企业只有2万至3万家，真正具备电池、电机、电控维修能力的门店占比约为2%至3%。由于核心故障数据和维修权限主要掌握在整车厂与电池厂手中，许多第三方维修机构即使有意愿，也缺少相应的诊断设备、技术资料和授权。&lt;/p&gt;
-&lt;p&gt;这也让整车厂和电池厂之间的责任关系变得更重要。消费者买的是一辆整车，但动力电池故障可能涉及电芯质量、电池包设计、BMS策略、装配工艺和使用条件。车企需要面对终端用户，电池厂则掌握电芯和部分系统数据。出现问题后，如果双方只通过供应链协议分担成本，车主仍可能不知道该找谁检测、谁来解释、谁对维修后的结果负责。&lt;/p&gt;
-&lt;p&gt;中创新航的装车客户也不止广汽埃安。在工信部车型公示中，零跑、长安深蓝等品牌也曾公示搭载该电池厂电池。&lt;/p&gt;
-&lt;p&gt;不过，车型使用同一家电池厂，并不等于采用同一款电芯，更不能据此推断所有车型都存在类似风险。此次明确进入埃安服务方案的，仍是部分搭载中创新航177Ah电池、用于营运的AION S。&lt;/p&gt;
-&lt;p&gt;埃安延长质保，至少先解决了部分车主的维修费用和停运压力。接下来，企业还需要把故障批次、检测标准和技术原因说清楚。对新能源汽车行业来说，车辆能否安全地开过15万公里、30万公里，已经不能只靠销售时的续航和质保承诺来回答。&lt;/p&gt;
-&lt;p&gt;随着更多车辆进入高里程阶段，电池如何检测、如何维修、如何定价，以及整车厂和电池厂如何承担责任，都会从个案变成必须面对的售后问题。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍</title><link>https://wallstreetcn.com/articles/3777467</link><guid>57c6578154e31fb2b77599ffaff694f4265dacdd021a17653283f3b5c9dae059</guid><pubDate>Mon, 20 Jul 2026 21:02:52 GMT</pubDate><description>&lt;p&gt;谷歌正在开发一款专为其Gemini AI模型量身定制的新型服务器芯片，&lt;strong&gt;将模型架构直接固化于硅片之中，以大幅提升AI推理效率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Newman则提出了另一个核心问题：&amp;quot;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&amp;quot;Helios早期部署的实际表现，将在很大程度上决定这一问题的答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍</title><link>https://wallstreetcn.com/articles/3777467</link><guid>57c6578154e31fb2b77599ffaff694f4265dacdd021a17653283f3b5c9dae059</guid><pubDate>Mon, 20 Jul 2026 21:02:52 GMT</pubDate><description>&lt;p&gt;谷歌正在开发一款专为其Gemini AI模型量身定制的新型服务器芯片，&lt;strong&gt;将模型架构直接固化于硅片之中，以大幅提升AI推理效率。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据科技媒体The Information周一报道，&lt;strong&gt;这款被内部称为&amp;quot;Frozen v2&amp;quot;的芯片效率或达现有自研芯片的6至10倍，最早有望于2028年投入部署。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;两位直接知情人士向该媒体透露，&lt;strong&gt;这一项目的直接驱动力，是谷歌内部严峻的AI算力短缺问题——这一短缺已引发内部矛盾，并迫使谷歌云拒绝部分外部客户的合作请求。&lt;/strong&gt;Frozen v2将部分Gemini模型的决策逻辑预先嵌入芯片，从而减少运行时的计算步骤与数据搬运量，以提升响应速度并降低单位算力功耗。&lt;/p&gt;
@@ -258,7 +204,172 @@ Helios：AMD首款机架级AI系统
 &lt;p&gt;谷歌目前尚无将Frozen v2规模扩产至与TPU相当体量的计划。&lt;/p&gt;
 &lt;p&gt;知情人士表示，相对有限的部署规模使谷歌得以在项目后期再引入外部设计与制造合作伙伴，而无需像重大产品发布那样提前大规模统筹。此外，谷歌也将这一代产品部分视为工程试验——为工程师积累开发更高专用化芯片的经验，尤其是在AI模型架构逐渐趋于稳定的背景下。&lt;/p&gt;
 &lt;p&gt;谷歌现有的自研芯片战略已初见成效。&lt;/p&gt;
-&lt;p&gt;今年，谷歌发布了第八代TPU，并开始将其直接向云计算客户销售，向英伟达的主导地位发起挑战。谷歌已与Meta签署数十亿美元规模的TPU租用协议，并正积极争取其他云服务提供商客户。知情人士表示，自主研发芯片已使谷歌能够以更低成本运行Gemini模型——Frozen v2若能成功，则有望将这一成本优势进一步放大。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股跌入熊市，摩根大通喊出"夏季抄底"，大摩却继续押注云巨头</title><link>https://wallstreetcn.com/articles/3777456</link><guid>7bb9466624628cdb9b01f270d76ab19487431324f976a51d86bb3ef4deb5a934</guid><pubDate>Mon, 20 Jul 2026 12:02:48 GMT</pubDate><description>&lt;p&gt;芯片股深度回调之际，华尔街两大巨头对后市判断出现明显分歧——摩根大通认为买入时机渐近，摩根士丹利则坚持超大规模云计算企业（hyperscalers）更具吸引力，并对芯片股能否重夺市场领导地位持保留态度。&lt;/p&gt;
+&lt;p&gt;今年，谷歌发布了第八代TPU，并开始将其直接向云计算客户销售，向英伟达的主导地位发起挑战。谷歌已与Meta签署数十亿美元规模的TPU租用协议，并正积极争取其他云服务提供商客户。知情人士表示，自主研发芯片已使谷歌能够以更低成本运行Gemini模型——Frozen v2若能成功，则有望将这一成本优势进一步放大。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车</title><link>https://wallstreetcn.com/articles/3777383</link><guid>72d8ca2f7c32083f732612fee9c05330435e851c46e0b76c66d600e5db1b6d2f</guid><pubDate>Mon, 20 Jul 2026 20:34:16 GMT</pubDate><description>&lt;p&gt;在中东地缘政治风险与科技巨头财报季前夕的双重压力下，美股三大指数震荡收跌。油价剧烈波动加剧了市场对通胀的担忧，并拖累美债走低。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;特朗普誓言伊朗将为近期杀害美国士兵&amp;quot;付出代价&amp;quot;，与此同时，伊朗支持的也门胡塞武装宣布对沙特阿拉伯实施红海航运封锁，进一步升级地区紧张态势。&lt;/p&gt;
+&lt;p&gt;资深策略师Louis Navellier表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;伊朗局势持续搅动市场，这正在压制本应因强劲盈利趋势而出现的股市涨幅。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本周，以特斯拉和谷歌打头阵，大型科技公司将相继公布第二季度业绩，市场期待这些公司以实际业绩为AI投入的合理性提供支撑。The Sevens Report的Tom Essaye指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;股市若要反弹，需要科技龙头企业交出亮眼成绩单，中东局势降温同样不可或缺。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+油价剧烈波动，霍尔木兹海峡运输量骤降逾八成
+
+&lt;p&gt;油市周一经历大幅震荡。伊朗第九轮轰炸推动油价一度走高，但随后有关10天停火谈判的外交表态令油价回落。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777496"&gt;华尔街见闻提及&lt;/a&gt;，据新华社，特朗普暗示美军将对伊朗发动强硬报复，每杀害一名美国士兵将付出数倍代价。&lt;/p&gt;
+&lt;p&gt;不过，特朗普政府并未完全排除寻求外交解决方案的可能性。美国务卿鲁比奥19日晚在接受媒体采访时称，特朗普政府“仍然对外交解决方案持开放态度”。&lt;/p&gt;
+&lt;p&gt;据新华社，伊朗高级官员称，伊美谈判调解方已向伊方提出旨在缓和目前局势的提议，该提议建议实施为期10天的停火，以寻求恢复执行伊美上个月达成的谅解备忘录。&lt;/p&gt;
+&lt;p&gt;然而&lt;a href="https://wallstreetcn.com/articles/3777497"&gt;华尔街见闻文章指出&lt;/a&gt;，霍尔木兹海峡航运近乎停滞，希腊船东称两艘油轮遭袭。&lt;/p&gt;
+&lt;p&gt;监测网站Hormuz Strait Monitor数据显示，7月20日当日过境船只约为每天12艘，较战前日均110艘的水平骤降逾89%，原油和液化天然气运输受到严重限制。&lt;/p&gt;
+&lt;p&gt;WTI原油最终收于每桶约83美元。牛津经济研究院大宗商品策略师Kelly Xu表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;市场的剧烈双向波动反映出各方对当前局势走向的高度不确定性——究竟是进一步升级并延长供应风险，还是紧张局势逐步缓和？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;她补充称，短期内油市对地缘政治消息面将保持高度敏感。&lt;/p&gt;
+&lt;p&gt;高盛的Rich Privorotsky指出，伊朗对科威特电力和水处理基础设施发动的渐进式打击，正开始考验市场对这场冲突持续时间的预期极限，但整体态势仍在&amp;quot;以牙还牙&amp;quot;的博弈范围之内。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他认为，原油价格右尾风险存在隐性上限，美国政府对市场的关切本身构成一种制约机制。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析认为，&lt;strong&gt;真正的风险不在于原油，而在于成品油和天然气。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;欧洲天然气价格正逼近冲突时期的高点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+科技股震荡回稳，财报季成关键变量
+
+&lt;p&gt;周一美股高开低走，道指收跌0.59%，标普500指数跌0.19%，纳斯达克综合指数跌0.05%，报25508点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;标普500与纳斯达克100均重新跌破50日移动均线。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;半导体股周一出现技术性反弹，芯片股早盘一度涨近4%，但涨幅随后显著收窄，收盘仅录得约0.6%的温和上涨。此前费城半导体指数已较6月底高点下跌逾20%，正式确认进入熊市区间。&lt;/p&gt;
+&lt;p&gt;受Kimi因算力不足而停止接收新用户的报道提振，半导体股一度拉升，但涨势未能持续。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;人工智能领域的领头羊股票今日均上涨，但远低于近期高点。剔除人工智能板块后，标普500指数下跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Mag7科技巨头整体跑赢标普493只成分股，但市场广度依然偏窄。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;高盛Prime Services部门负责人Vincent Lin指出，对冲基金过去两个月从美国科技股撤离的规模和速度均创历史纪录。Vincent Lin说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自6月初以来持续且大规模的卖出，显示科技投资者正在大幅削减持仓，部分投降迹象已开始浮现。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;据彭博，高盛宏观策略师Michael Ball表示，7月期权到期后，做市商正Gamma头寸下降，标普500所受的&amp;quot;钉住效应&amp;quot;减弱，市场双向波动空间随之扩大。&lt;/strong&gt;&lt;/p&gt;
+
+选股逻辑凸显，分散度交易成机构焦点
+
+&lt;p&gt;高盛衍生品策略师Brian Garrett认为，尽管地缘政治风险重新抬头，但期权市场的隐含相关性已接近过去20年来的最低水平，这意味着个股层面的微观因素将比宏观环境更主导年内剩余时间的市场走势。&lt;/p&gt;
+&lt;p&gt;随着标普500指数约五分之一市值的成分股将于未来一周集中披露业绩，Garrett预计个股分化态势将持续。Garrett表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;赢家与输家的分化，将取决于各家公司能否超越已然高企的市场预期。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他推荐通过买入纳指100期权来把握下周的双向交易机会，既可对冲半导体进一步下跌的风险，也可捕捉潜在的超跌反弹，当前波动率已大幅下降，双向期权均具有吸引力。&lt;/p&gt;
+&lt;p&gt;Edward Jones的Brock Weimer认为，近期科技股回调兼有获利了结与投资者重新评估AI基础设施支出可持续性的双重因素。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI仍将是持久的投资主题，但建议投资者在保持相关敞口的同时，将周期性和价值型板块纳入组合作为补充。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+比特币随科技股反弹，美元与黄金基本持平
+
+&lt;p&gt;美元指数在日内经历大幅震荡后基本收平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;黄金则与美元走势同步，收盘几乎持平于4008美元，连续守住4000美元关口上方。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;加密货币市场周一跟随大型科技股反弹，比特币上涨0.8%，突破65000美元关口，报65036美元，且并未随科技股尾盘走弱而回吐涨幅。以太坊涨1.7%，报1897美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周一美股三大指数收跌，标普500跌0.19%收7443.28、跌破50日均线，半导体指数涨0.60%，微软涨2.15%，苹果跌2.14%，特斯拉跌2.96%。中概股逆市收涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美股基准股指：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;标普500指数收涨19.94点，涨幅0.32%，报6263.70点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;道琼斯工业平均指数收涨231.49点，涨幅0.53%，报44254.78点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纳指收涨52.69点，涨幅0.26%，报20730.49点，继续创收盘历史新高。纳斯达克100指数收涨23.38点，涨幅0.10%，报22907.97点，也连续第二个交易日创收盘历史新高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;罗素2000指数收涨0.99%，报2226.98点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恐慌指数VIX收跌1.27%，报17.16。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（7月20日 美股各行业板块ETF）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;万得美国科技股七巨头（Magnificent 7）指数涨0.09%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;微软涨2.15%，谷歌A涨1.51%，亚马逊涨1.12%，英伟达涨0.23%，Meta跌0.02%，苹果跌2.14%，特斯拉跌2.96%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;芯片股：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;费城半导体指数收跌0.39%，报5696.21点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;台积电ADR涨0.26%、也再创收盘历史新高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;纳斯达克金龙中国指数收涨0.90%，报6337.52点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;热门中概股里，阿里巴巴收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Circle涨8.27%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;欧洲股市收跌0.3%，成分股倍耐力收跌超5.7%，瑞安航空跌超4.5%。英国股市收跌0.7%，成分股柿子公司跌约3.8%，ComputaCenter涨超5.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;泛欧股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数收跌0.30%，报639.60点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区STOXX 50指数收跌0.06%，报6227.40点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;德国DAX 30指数收涨0.06%，报24846.69点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;法国CAC 40指数收涨0.02%，报8340.11点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;英国富时100指数收跌0.71%，报10524.76点。&lt;/p&gt;
+&lt;p&gt;（7月20日 欧美主要股指表现）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;板块和个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区蓝筹股中，意大利国家电力公司ENEL收跌2.64%，拜耳跌2.37%，法国圣戈班公司、LVMH集团至少跌1.67%，阿斯麦控股跌1.05%跌幅第九大。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数的所有成分股中，倍耐力收跌5.74%，瑞安航空跌4.55%，Plus500die 3.9%，柿子公司跌3.77%跌幅第四大，基立福涨3.72%，Prosus表现第三。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股跌入熊市，摩根大通喊出"夏季抄底"，大摩却继续押注云巨头</title><link>https://wallstreetcn.com/articles/3777456</link><guid>7bb9466624628cdb9b01f270d76ab19487431324f976a51d86bb3ef4deb5a934</guid><pubDate>Mon, 20 Jul 2026 12:02:48 GMT</pubDate><description>&lt;p&gt;芯片股深度回调之际，华尔街两大巨头对后市判断出现明显分歧——摩根大通认为买入时机渐近，摩根士丹利则坚持超大规模云计算企业（hyperscalers）更具吸引力，并对芯片股能否重夺市场领导地位持保留态度。&lt;/p&gt;
 &lt;p&gt;费城半导体指数（SOX）上周单周下跌10%，创2025年4月以来最差单周表现，并由此较一个月前创下的历史收盘高点累计下跌逾20%，正式步入技术性熊市。&lt;/p&gt;
 &lt;p&gt;在此背景下，&lt;strong&gt;摩根大通策略师团队认为，芯片股&amp;quot;很快将开始获得买盘支撑&amp;quot;，建议投资者在今夏择机重新布局&lt;/strong&gt;；&lt;strong&gt;摩根士丹利策略师团队则预计，即便芯片股出现反弹，也难以在今年下半年重回领涨地位，并更倾向于持有超大规模云计算企业。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -289,4 +400,39 @@ Mag 7分化加剧，抱团时代正在结束
 &lt;p&gt;相比“Mag 7”这一狭义标签，&lt;strong&gt;花旗提出的“成长集群”覆盖范围更广，不仅囊括大型科技公司，也纳入大量AI基础设施相关企业。&lt;/strong&gt;据策略师Chronert介绍，&lt;strong&gt;该集群目前占标普500指数市值超过一半，并贡献约48%的指数盈利，因此能更全面地反映当前美股成长板块的基本面变化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从估值维度看，花旗认为该成长集群尚未进入极端高估区域。其未来12个月市盈率处于过去30年历史分布的第66百分位，在盈利增长预期支撑下，估值水平有望维持至2027年。&lt;strong&gt;换言之，当前的估值扩张并非无根之水，而是建立在相对扎实的业绩前景之上，这为成长板块提供了阶段性的安全边际。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，市场结构正在发生微妙的切换。今年上半年，半导体板块曾是AI交易的主要受益者，但近期相关股票开始跑输大盘，市场对高估值和资本开支回报的担忧明显升温。与此同时，法国兴业银行策略师Manish Kabra等人警告称，现在押注AI大规模投资支出的终局赢家仍为时过早，这意味着前期领涨的基础设施层正面临预期回调的压力。&lt;/p&gt;
-&lt;p&gt;事实上，Chronert早在去年12月就预判，2026年的AI交易逻辑将从“AI基础设施提供者”转向“AI技术采用者”，而当前的市场轮动正在逐步验证这一判断。&lt;strong&gt;资金正从纯硬件供应商，向能够利用AI提升效率、改善产品的应用层企业迁移，这种结构性变化比简单的板块轮动更具深意。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 亲历 2007 狂热盛夏与 2008 寒彻熊市</title><link>http://xueqiu.com/8801393218/401096567</link><guid>836fc2e7697e45b150412824038d0c637b2e5a9010bcd63baa118bd3fc42d4d7</guid><pubDate>Mon, 20 Jul 2026 10:31:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;八万顷&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2007、2008 年于我而言，绝非新手初识市场的启蒙阶段。彼时我入市已满十年，早已完整走过数轮牛熊，交易体系、盘感与风控认知早已成型，自认看透市场大半套路。可那两年极致割裂的行情、泡沫与崩塌，依旧彻底重塑了我对周期、人性、资金共识的底层认知，成为往后二十年投资路上刻在骨子里的参照标尺。&lt;/p&gt;</description></item><item><title>[今日雪球] 泰聚周思考｜7月科技股大波动对投资的启示</title><link>http://xueqiu.com/4047351923/401049759</link><guid>45c3965168de566ede8331ed01747d1077f159073c40877a475638bfe3742e5b</guid><pubDate>Mon, 20 Jul 2026 10:32:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张宪强-泰聚基金&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6-7月，A股科技股经历了一场教科书式的大波动。从6月下旬的烈火烹油，到7月中旬的一地鸡毛，创业板指7月单月跌幅已超过20%，640只个股7月跌幅超过30%，身边不少朋友因为有融资杠杆，今年收益已转负甚至出现不小的亏损。这是一次值得认真复盘的、关于人性与定价的现场教学。我们基金产品经历过2024年年初的股灾，深知风险控制的重要。&lt;b&gt;基于6月份对A股题材投资、市值管理、趋势投资的“过热情绪”观察，以及对AI发展进入波动期的判断，我们在6月底已采取减仓、期指空单的对冲，近期最高回撤控制在了10%左右，2026年收益率仍在三位数附近。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮科技回调何时结束的思考</title><link>http://xueqiu.com/5332385101/401055347</link><guid>38ee6581d08c20cd057b7f4f89b8d41f72cdf6419a77b4d20ac84a357c0e1194</guid><pubDate>Mon, 20 Jul 2026 10:31:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去三周，全球科技剧烈回调。短短17个交易日内，美股科技动量因子从峰值急坠40%，创下有史以来最快、最深回撤。KOSPI、全球存储及AI核心受益股无一幸免，跌幅均在20%-30%之间。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;事实上，Chronert早在去年12月就预判，2026年的AI交易逻辑将从“AI基础设施提供者”转向“AI技术采用者”，而当前的市场轮动正在逐步验证这一判断。&lt;strong&gt;资金正从纯硬件供应商，向能够利用AI提升效率、改善产品的应用层企业迁移，这种结构性变化比简单的板块轮动更具深意。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 月之暗面引爆AI交易变局，盘点新格局下的赢家与输家</title><link>https://wallstreetcn.com/articles/3777493</link><guid>b9be257e14220e51b273f57003bda58ddbb2c6f2492a741e1f1acc28c7119462</guid><pubDate>Mon, 20 Jul 2026 20:00:18 GMT</pubDate><description>&lt;p&gt;月之暗面发布的Kimi K3模型引爆“DeepSeek效应”，在全球科技股市场掀起新一轮重新定价浪潮，迫使投资者审视支撑AI交易逻辑的核心假设。&lt;/p&gt;
+&lt;p&gt;月之暗面上周五发布新一代模型Kimi K3，称其性能可与OpenAI和Anthropic的顶级产品媲美，成本却仅为后者的一小部分。市场开始将此次发布与去年的“DeepSeek时刻”相提并论，IG市场分析师Tony Sycamore表示，这一冲击导致两家未上市美国公司OpenAI和Anthropic的预期估值合计蒸发3140亿美元。&lt;/p&gt;
+&lt;p&gt;评论认为，Kimi K3的问世从两个维度动摇了既有市场逻辑：其一，美国限制先进芯片出口将阻碍别国AI进展的判断面临挑战；其二，性能更强、成本更低的模型在加速全球AI应用普及的同时，是否会引发AI基础设施产能过剩，亦成为投资者的新忧虑。&lt;/p&gt;
+&lt;p&gt;然而，此次冲击并非全面利空。从市场表现来看，不同赛道的玩家正在经历截然不同的命运分化。以下是潜在赢家与输家的梳理。&lt;/p&gt;
+
+赢家之一：中国半导体生态系统
+
+&lt;p&gt;目前尚不清楚月之暗面开发K3所使用的具体芯片，不过，新模型的发布已直接提振中国半导体板块。本周一盘中，中芯国际A股一度涨超5%，市场预期AI模型开发商之间的竞争加剧将推动相关基础设施支出持续增加。&lt;/p&gt;
+&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan表示：“我们预计最大的赢家仍将是AI基础设施层。在政府的大力支持下，中国对开源AI的推动可能加速国内先进AI模型的部署，这将需要更多算力资源，并带动底层硬件需求，尤其是网络设备和存储芯片。”&lt;/p&gt;
+&lt;p&gt;上周末，阿里巴巴发布了旗舰模型Qwen3.8 Max的预览版，该模型参数量达2.4万亿，性能据称可与全球领先的前沿模型比肩。两款产品的相继发布，叠加中国AI开发商日益倾向于针对国内芯片优化模型的趋势，共同推动科创板代表性指数创业板综周一涨幅一度达3.6%。&lt;/p&gt;
+
+赢家之二：存储芯片厂商
+
+&lt;p&gt;Kimi K3拥有2.8万亿参数，系中国迄今最大规模的AI模型，其稀疏比——衡量计算效率的关键指标——已创下历史新高。更高的稀疏比意味着每次推理任务中被激活的参数占总量的比例更低，从而降低算力消耗。&lt;/p&gt;
+&lt;p&gt;然而，这2.8万亿参数仍须全部存入内存。即便经过低精度格式压缩，Kimi K3仍占用约1.4太字节的内存空间。这意味着部署该模型须依赖配备大容量内存的AI处理器集群，例如英伟达的Blackwell GB300系统，对SK海力士、三星电子等存储芯片供应商的需求由此得以延续。&lt;/p&gt;
+&lt;p&gt;Sumitomo Mitsui DS Asset Management高级投资组合经理Stanley Tang表示：“由于供应商数量有限，存储芯片厂商仍将是半导体板块中处境最为有利的一类企业。”他进一步指出，如果像Kimi这样的模型加速普及，整体需求不太可能因此下滑，反而可能推动AI智能体加速渗透，从而进一步拉动存储需求。&lt;/p&gt;
+
+赢家之三：AI智能体与软件开发商
+
+&lt;p&gt;Kimi K3的发布还提振了外界对中国软件企业与AI智能体开发商的信心——即便在获取全球最先进芯片受限的背景下，这些企业依然有能力持续提升模型性能与效率。&lt;/p&gt;
+&lt;p&gt;“可以确定的是，一款性能出色且成本更低的开源模型将降低应用开发成本，并可能加快在编程、客户服务和工业流程领域的应用普及，”Saxo Markets首席投资策略师Charu Chanana表示。&lt;/p&gt;
+&lt;p&gt;不过，晨星分析师Malik Ahmed Khan对于软件开发商所面临的竞争风险持更为审慎的态度。&lt;/p&gt;
+&lt;p&gt;Khan认为，将上周五Alphabet、亚马逊和微软遭抛售归因于市场担忧更多企业将转向受K3启发的开源模型，这种判断“站不住脚”。他说，我们认为，美国企业、政府机构以及与美国政府合作的公司，不会为了降低推理成本而采用别国的开放权重模型。&lt;/p&gt;
+
+输家之一：AI模型开发商
+
+&lt;p&gt;如果说K3催生了新的赢家，那么对于AI模型开发商而言，竞争格局已明显趋于恶化。&lt;/p&gt;
+&lt;p&gt;在K3发布前被普遍视为中国最佳开源模型开发商的智谱，港股股价在过去两个交易日内已累计下挫近40%，折射出市场对于模型层竞争白热化的担忧。&lt;/p&gt;
+&lt;p&gt;此后竞争亦不会就此平息。阿里巴巴周一股价随Qwen3.8 Max的发布而上涨，该公司将这款模型定位为能力仅次于Anthropic Fable 5的产品。MiniMax Group Inc.据报也计划推出M3模型的升级版本。月之暗面本身则宣布将于7月27日公开发布Kimi K3的模型权重，届时企业可自行运行该模型，而无需依赖其云服务。&lt;/p&gt;
+&lt;p&gt;Sumitomo的Tang表示：“我们仍处于早期阶段，更好的模型还会不断涌现。一些模型可能变得毫无价值，我认为市场尚未充分计入这一风险。”&lt;/p&gt;
+
+输家之二：高端芯片制造商
+
+&lt;p&gt;此次发布同样令市场重新审视英伟达和AMD等AI热潮核心受益者是否还能持续享有稀缺性溢价。与DeepSeek冲击不同的是，K3的突破点不在于训练效率，而更多体现在以更低成本实现对标顶级模型的推理性能——这一路径对高端算力的依赖程度存在本质差异。&lt;/p&gt;
+&lt;p&gt;Siebert Financial首席投资官Mark Malek表示：“东京和台北的投资者当天将对AI资本支出最终能否获得回报的疑虑计入价格。无论世界上哪家实验室——不管来自哪个国家——每次推出一款免费的前沿级模型，这种疑虑就会再次浮现。”&lt;/p&gt;
+&lt;p&gt;从更宏观的视角来看，Kimi K3与Qwen3.8 Max的接连亮相表明，前沿AI模型的竞争正在超越OpenAI、Anthropic等美国头部实验室的范畴持续扩展。据彭博报道，这一趋势可能对美国模型提供商的定价权形成压力，同时继续推动全球范围内支撑更强大AI系统运行所需的基础设施投资。AI赛道的赢家与输家格局，或正在经历深刻重构。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 亲历 2007 狂热盛夏与 2008 寒彻熊市</title><link>http://xueqiu.com/8801393218/401096567</link><guid>836fc2e7697e45b150412824038d0c637b2e5a9010bcd63baa118bd3fc42d4d7</guid><pubDate>Mon, 20 Jul 2026 10:31:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;八万顷&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2007、2008 年于我而言，绝非新手初识市场的启蒙阶段。彼时我入市已满十年，早已完整走过数轮牛熊，交易体系、盘感与风控认知早已成型，自认看透市场大半套路。可那两年极致割裂的行情、泡沫与崩塌，依旧彻底重塑了我对周期、人性、资金共识的底层认知，成为往后二十年投资路上刻在骨子里的参照标尺。&lt;/p&gt;</description></item><item><title>[今日雪球] 泰聚周思考｜7月科技股大波动对投资的启示</title><link>http://xueqiu.com/4047351923/401049759</link><guid>45c3965168de566ede8331ed01747d1077f159073c40877a475638bfe3742e5b</guid><pubDate>Mon, 20 Jul 2026 10:32:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张宪强-泰聚基金&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6-7月，A股科技股经历了一场教科书式的大波动。从6月下旬的烈火烹油，到7月中旬的一地鸡毛，创业板指7月单月跌幅已超过20%，640只个股7月跌幅超过30%，身边不少朋友因为有融资杠杆，今年收益已转负甚至出现不小的亏损。这是一次值得认真复盘的、关于人性与定价的现场教学。我们基金产品经历过2024年年初的股灾，深知风险控制的重要。&lt;b&gt;基于6月份对A股题材投资、市值管理、趋势投资的“过热情绪”观察，以及对AI发展进入波动期的判断，我们在6月底已采取减仓、期指空单的对冲，近期最高回撤控制在了10%左右，2026年收益率仍在三位数附近。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮科技回调何时结束的思考</title><link>http://xueqiu.com/5332385101/401055347</link><guid>38ee6581d08c20cd057b7f4f89b8d41f72cdf6419a77b4d20ac84a357c0e1194</guid><pubDate>Mon, 20 Jul 2026 10:31:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去三周，全球科技剧烈回调。短短17个交易日内，美股科技动量因子从峰值急坠40%，创下有史以来最快、最深回撤。KOSPI、全球存储及AI核心受益股无一幸免，跌幅均在20%-30%之间。&lt;/p&gt;</description></item></channel></rss>
