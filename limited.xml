@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 20:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 全球第九、开源第一即遭算力「熔断」：Kimi K3的排名突破，反而坐实了硬件需求逻辑</title><link>https://wallstreetcn.com/articles/3777494</link><guid>d8f76270a46849778baa96bf227f0a59db86e766f9274dc0814ffe2c18266b23</guid><pubDate>Mon, 20 Jul 2026 20:00:52 GMT</pubDate><description>&lt;p&gt;开源大模型从未如此接近全球顶尖水平——但也从未以如此戏剧性的方式，证明算力需求远未到顶。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 21:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
+&lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
+&lt;p&gt;周一芯片板块情绪回暖，叠加AMD本周晚些时候将举行大型产品发布活动，AMD股价一度大涨超5%，尾盘涨幅回落，收至1.58%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+比Rubin贵40%却照样卖
+&lt;p&gt;此次交易中一个易被忽视的数据是价格。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据全球性技术研究和顾问公司Futurum Group估计Helios售价在500万至550万美元之间，高于其对英伟达Vera Rubin 350万至400万美元的估价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Helios每个计算托盘配备四块Instinct GPU，由单颗EPYC CPU驱动，并搭载多达12块Pensando网络芯片。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AMD数据中心负责人Forrest Norrod称其核心优势在于&amp;quot;最佳总拥有成本和最低每词元成本&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;交易并非仅止于GPU。&lt;/strong&gt;亚马逊Azure将新增两个基于第六代EPYC Venice处理器的虚拟机系列，并在AI后端网络和部分服务中部署Pensando DPU。&lt;/p&gt;
+&lt;p&gt;这意味着AMD在微软云中的角色，正从&amp;quot;GPU供应商&amp;quot;升级为&amp;quot;综合AI基础设施提供商&amp;quot;。&lt;/p&gt;
+&lt;p&gt;巴克莱近期将AMD目标价从500美元上调至665美元，认为其CPU上行空间在三家主要芯片股中&amp;quot;最未被充分定价&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该行预测AMD 2027年CPU收入将达约290亿美元，仅CPU一项到2030年可贡献约19美元每股盈利。&lt;/strong&gt;&lt;/p&gt;
+产品周前的催化剂矩阵
+&lt;p&gt;微软的加入使AMD的Helios客户矩阵进一步加密。&lt;/p&gt;
+&lt;p&gt;此前Meta已承诺6吉瓦GPU部署，OpenAI、甲骨文和印度TCS亦作出重大承诺。&lt;strong&gt;AMD称全球前十大AI公司中已有八家在其Instinct GPU上运行工作负载。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从财务数据看，2026年Q1数据中心营收同比增长57%至58亿美元，公司计划2027年起实现数百亿美元数据中心AI营收，其中大部分来自Helios。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Futurum Group分析师Daniel Newman认为AMD有望将数据中心GPU市场份额从当前的4.5%提升至20%-25%，&amp;quot;这意味着数千亿美元的营收规模&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;芯片板块周一整体反弹提供了有利的情绪背景。而本周产品发布的预期进一步强化了这一叙事，市场关注苏姿丰是否会给出更激进的2027年Helios出货指引。&lt;/p&gt;
+推理时代，软件或是护城河
+&lt;p&gt;硬件层面AMD已逼近甚至部分超越英伟达，但软件仍是关键变量。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776842"&gt;华尔街见闻提及&lt;/a&gt;，&lt;strong&gt;此前半导体研究机构SemiAnalysis高度评价英伟达在vLLM推理引擎上的性能优化，同时指出AMD在部分模型支持上仍有明显差距。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在软件层面，英伟达推出的Dynamo分布式推理框架将vLLM深度集成，专门针对MoE模型实现了预填充与解码分离（Disaggregated Serving）、高效KV缓存传输以及双批次重叠等优化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这套框架在NVL72上能够充分发挥硬件潜力，而AMD方面目前仍主要依赖标准vLLM与DISAGG版本，针对超大MoE模型与宽并行场景的深度优化尚未跟上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达凭借二十年CUDA积累、主流框架优先适配及TensorRT等优化库构建的软件壁垒，在推理时代仍形成持久竞争优势。Counterpoint Research分析师Neil Shah同样指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关键在于软件和优化，英伟达凭借CUDA拥有更为成熟庞大的生态系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Newman提出的问题更为尖锐：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球第九、开源第一即遭算力「熔断」：Kimi K3的排名突破，反而坐实了硬件需求逻辑</title><link>https://wallstreetcn.com/articles/3777494</link><guid>d8f76270a46849778baa96bf227f0a59db86e766f9274dc0814ffe2c18266b23</guid><pubDate>Mon, 20 Jul 2026 20:00:52 GMT</pubDate><description>&lt;p&gt;开源大模型从未如此接近全球顶尖水平——但也从未以如此戏剧性的方式，证明算力需求远未到顶。&lt;/p&gt;
 &lt;p&gt;7月17日，月之暗面发布新一代旗舰模型Kimi K3。在权威的Text Arena综合排行榜中，该模型以1486分位列第9名，成为首个进入全球前十的开源模型。&lt;/p&gt;
 &lt;p&gt;更引人注目的是，在Fronted Code Arena榜单中，Kimi K3以1679分超越Anthropic的Claude Fable 5登顶第一，前端代码7个细分方向中的6个排名首位。&lt;/p&gt;
 &lt;p&gt;然而，K3发布后48小时内，因用户请求量大幅超出预估并逼近集群承载极限，月之暗面不得不在7月19日宣布暂停C端新用户订阅——&lt;strong&gt;一款开源模型的发布，竟以「算力不足」收场。&lt;/strong&gt;&lt;/p&gt;
@@ -196,42 +230,35 @@ Helios：AMD首款机架级AI系统
 &lt;p&gt;不过，车型使用同一家电池厂，并不等于采用同一款电芯，更不能据此推断所有车型都存在类似风险。此次明确进入埃安服务方案的，仍是部分搭载中创新航177Ah电池、用于营运的AION S。&lt;/p&gt;
 &lt;p&gt;埃安延长质保，至少先解决了部分车主的维修费用和停运压力。接下来，企业还需要把故障批次、检测标准和技术原因说清楚。对新能源汽车行业来说，车辆能否安全地开过15万公里、30万公里，已经不能只靠销售时的续航和质保承诺来回答。&lt;/p&gt;
 &lt;p&gt;随着更多车辆进入高里程阶段，电池如何检测、如何维修、如何定价，以及整车厂和电池厂如何承担责任，都会从个案变成必须面对的售后问题。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 月之暗面引爆AI交易变局，盘点新格局下的赢家与输家</title><link>https://wallstreetcn.com/articles/3777493</link><guid>b9be257e14220e51b273f57003bda58ddbb2c6f2492a741e1f1acc28c7119462</guid><pubDate>Mon, 20 Jul 2026 20:00:18 GMT</pubDate><description>&lt;p&gt;月之暗面发布的Kimi K3模型引爆“DeepSeek效应”，在全球科技股市场掀起新一轮重新定价浪潮，迫使投资者审视支撑AI交易逻辑的核心假设。&lt;/p&gt;
-&lt;p&gt;月之暗面上周五发布新一代模型Kimi K3，称其性能可与OpenAI和Anthropic的顶级产品媲美，成本却仅为后者的一小部分。市场开始将此次发布与去年的“DeepSeek时刻”相提并论，IG市场分析师Tony Sycamore表示，这一冲击导致两家未上市美国公司OpenAI和Anthropic的预期估值合计蒸发3140亿美元。&lt;/p&gt;
-&lt;p&gt;评论认为，Kimi K3的问世从两个维度动摇了既有市场逻辑：其一，美国限制先进芯片出口将阻碍别国AI进展的判断面临挑战；其二，性能更强、成本更低的模型在加速全球AI应用普及的同时，是否会引发AI基础设施产能过剩，亦成为投资者的新忧虑。&lt;/p&gt;
-&lt;p&gt;然而，此次冲击并非全面利空。从市场表现来看，不同赛道的玩家正在经历截然不同的命运分化。以下是潜在赢家与输家的梳理。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍</title><link>https://wallstreetcn.com/articles/3777467</link><guid>57c6578154e31fb2b77599ffaff694f4265dacdd021a17653283f3b5c9dae059</guid><pubDate>Mon, 20 Jul 2026 21:02:52 GMT</pubDate><description>&lt;p&gt;谷歌正在开发一款专为其Gemini AI模型量身定制的新型服务器芯片，&lt;strong&gt;将模型架构直接固化于硅片之中，以大幅提升AI推理效率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据科技媒体The Information周一报道，&lt;strong&gt;这款被内部称为&amp;quot;Frozen v2&amp;quot;的芯片效率或达现有自研芯片的6至10倍，最早有望于2028年投入部署。&lt;/strong&gt;&lt;/p&gt;
 
-赢家之一：中国半导体生态系统
+&lt;p&gt;两位直接知情人士向该媒体透露，&lt;strong&gt;这一项目的直接驱动力，是谷歌内部严峻的AI算力短缺问题——这一短缺已引发内部矛盾，并迫使谷歌云拒绝部分外部客户的合作请求。&lt;/strong&gt;Frozen v2将部分Gemini模型的决策逻辑预先嵌入芯片，从而减少运行时的计算步骤与数据搬运量，以提升响应速度并降低单位算力功耗。&lt;/p&gt;
+&lt;p&gt;谷歌发言人在声明中表示，公司团队&amp;quot;持续研究和探索新创新，以为用户和客户提供最高性能与效率&amp;quot;，并补充称&amp;quot;并非每个项目都会进入量产，但这种严格的探索是我们全栈方法的核心&amp;quot;。&lt;/p&gt;
+&lt;p&gt;受上述消息提振，谷歌股价周一盘中一度上涨3.7%，最终收涨1.52%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;目前尚不清楚月之暗面开发K3所使用的具体芯片，不过，新模型的发布已直接提振中国半导体板块。本周一盘中，中芯国际A股一度涨超5%，市场预期AI模型开发商之间的竞争加剧将推动相关基础设施支出持续增加。&lt;/p&gt;
-&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan表示：“我们预计最大的赢家仍将是AI基础设施层。在政府的大力支持下，中国对开源AI的推动可能加速国内先进AI模型的部署，这将需要更多算力资源，并带动底层硬件需求，尤其是网络设备和存储芯片。”&lt;/p&gt;
-&lt;p&gt;上周末，阿里巴巴发布了旗舰模型Qwen3.8 Max的预览版，该模型参数量达2.4万亿，性能据称可与全球领先的前沿模型比肩。两款产品的相继发布，叠加中国AI开发商日益倾向于针对国内芯片优化模型的趋势，共同推动科创板代表性指数创业板综周一涨幅一度达3.6%。&lt;/p&gt;
+专用推理芯片：效率优先的架构赌注
 
-赢家之二：存储芯片厂商
+&lt;p&gt;Frozen v2的核心设计理念，在于将Gemini模型的底层架构永久刻入芯片硅基，使其在处理推理请求时无需像通用芯片那样进行大量实时决策。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;以每单位功耗可处理的token数量衡量，该芯片的效率预计达到谷歌现有最新一代自研AI芯片的6至10倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一逻辑与通用AI芯片形成鲜明对比。&lt;strong&gt;谷歌现有的张量处理器（TPU）与英伟达的GPU类似，均设计为兼容多种AI模型，因此在运行特定模型时需要处理大量动态决策过程。&lt;/strong&gt;Frozen v2通过预先固化部分决策，换取更高的运行效率，但代价是通用性的降低。&lt;/p&gt;
+&lt;p&gt;谷歌正在评估应将多少信息锁定于芯片之中，以在灵活性与效率之间取得平衡。知情人士指出，Frozen v2芯片仅能兼容与设计时所采用的相同底层架构的Gemini后续版本，这意味着谷歌实际上是在押注自身将长期沿用当前的Gemini模型架构。谷歌表示，芯片可支持模型权重的更新——即决定模型如何响应问题的参数设置。&lt;/p&gt;
 
-&lt;p&gt;Kimi K3拥有2.8万亿参数，系中国迄今最大规模的AI模型，其稀疏比——衡量计算效率的关键指标——已创下历史新高。更高的稀疏比意味着每次推理任务中被激活的参数占总量的比例更低，从而降低算力消耗。&lt;/p&gt;
-&lt;p&gt;然而，这2.8万亿参数仍须全部存入内存。即便经过低精度格式压缩，Kimi K3仍占用约1.4太字节的内存空间。这意味着部署该模型须依赖配备大容量内存的AI处理器集群，例如英伟达的Blackwell GB300系统，对SK海力士、三星电子等存储芯片供应商的需求由此得以延续。&lt;/p&gt;
-&lt;p&gt;Sumitomo Mitsui DS Asset Management高级投资组合经理Stanley Tang表示：“由于供应商数量有限，存储芯片厂商仍将是半导体板块中处境最为有利的一类企业。”他进一步指出，如果像Kimi这样的模型加速普及，整体需求不太可能因此下滑，反而可能推动AI智能体加速渗透，从而进一步拉动存储需求。&lt;/p&gt;
+项目沿革：从&amp;quot;全固化&amp;quot;到&amp;quot;弹性固化&amp;quot;
 
-赢家之三：AI智能体与软件开发商
+&lt;p&gt;Frozen项目并非全新构想。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;其前身为最初由谷歌DeepMind首席科学家Jeff Dean主导的&amp;quot;原版Frozen&amp;quot;方案，该方案计划将模型权重本身直接烧录进芯片。&lt;/strong&gt;然而，由于这一设计将使芯片仅能服务于某一特定版本的Gemini模型，生命周期过短，该方案已被搁置。&lt;/p&gt;
+&lt;p&gt;Frozen v2在此基础上作出调整，转向&amp;quot;弹性固化&amp;quot;思路——固化模型架构而非具体权重，从而在保留效率优势的同时延长芯片使用周期。&lt;/p&gt;
+&lt;p&gt;在行业参照系上，加拿大芯片初创公司Taalas采用了类似的将特定AI模型硬编码入芯片的设计理念，目前已从Quiet Capital、富达等投资方融资逾2亿美元。相比之下，SambaNova、d-Matrix及OpenAI、微软等公司也在开发推理芯片，但技术路径与谷歌有所不同。英伟达则于去年12月斥资200亿美元与推理芯片初创公司Groq达成技术授权协议，以强化自身在推理市场的布局。&lt;/p&gt;
 
-&lt;p&gt;Kimi K3的发布还提振了外界对中国软件企业与AI智能体开发商的信心——即便在获取全球最先进芯片受限的背景下，这些企业依然有能力持续提升模型性能与效率。&lt;/p&gt;
-&lt;p&gt;“可以确定的是，一款性能出色且成本更低的开源模型将降低应用开发成本，并可能加快在编程、客户服务和工业流程领域的应用普及，”Saxo Markets首席投资策略师Charu Chanana表示。&lt;/p&gt;
-&lt;p&gt;不过，晨星分析师Malik Ahmed Khan对于软件开发商所面临的竞争风险持更为审慎的态度。&lt;/p&gt;
-&lt;p&gt;Khan认为，将上周五Alphabet、亚马逊和微软遭抛售归因于市场担忧更多企业将转向受K3启发的开源模型，这种判断“站不住脚”。他说，我们认为，美国企业、政府机构以及与美国政府合作的公司，不会为了降低推理成本而采用别国的开放权重模型。&lt;/p&gt;
+定位：TPU之外的新分支，而非替代品
 
-输家之一：AI模型开发商
-
-&lt;p&gt;如果说K3催生了新的赢家，那么对于AI模型开发商而言，竞争格局已明显趋于恶化。&lt;/p&gt;
-&lt;p&gt;在K3发布前被普遍视为中国最佳开源模型开发商的智谱，港股股价在过去两个交易日内已累计下挫近40%，折射出市场对于模型层竞争白热化的担忧。&lt;/p&gt;
-&lt;p&gt;此后竞争亦不会就此平息。阿里巴巴周一股价随Qwen3.8 Max的发布而上涨，该公司将这款模型定位为能力仅次于Anthropic Fable 5的产品。MiniMax Group Inc.据报也计划推出M3模型的升级版本。月之暗面本身则宣布将于7月27日公开发布Kimi K3的模型权重，届时企业可自行运行该模型，而无需依赖其云服务。&lt;/p&gt;
-&lt;p&gt;Sumitomo的Tang表示：“我们仍处于早期阶段，更好的模型还会不断涌现。一些模型可能变得毫无价值，我认为市场尚未充分计入这一风险。”&lt;/p&gt;
-
-输家之二：高端芯片制造商
-
-&lt;p&gt;此次发布同样令市场重新审视英伟达和AMD等AI热潮核心受益者是否还能持续享有稀缺性溢价。与DeepSeek冲击不同的是，K3的突破点不在于训练效率，而更多体现在以更低成本实现对标顶级模型的推理性能——这一路径对高端算力的依赖程度存在本质差异。&lt;/p&gt;
-&lt;p&gt;Siebert Financial首席投资官Mark Malek表示：“东京和台北的投资者当天将对AI资本支出最终能否获得回报的疑虑计入价格。无论世界上哪家实验室——不管来自哪个国家——每次推出一款免费的前沿级模型，这种疑虑就会再次浮现。”&lt;/p&gt;
-&lt;p&gt;从更宏观的视角来看，Kimi K3与Qwen3.8 Max的接连亮相表明，前沿AI模型的竞争正在超越OpenAI、Anthropic等美国头部实验室的范畴持续扩展。据彭博报道，这一趋势可能对美国模型提供商的定价权形成压力，同时继续推动全球范围内支撑更强大AI系统运行所需的基础设施投资。AI赛道的赢家与输家格局，或正在经历深刻重构。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股跌入熊市，摩根大通喊出"夏季抄底"，大摩却继续押注云巨头</title><link>https://wallstreetcn.com/articles/3777456</link><guid>7bb9466624628cdb9b01f270d76ab19487431324f976a51d86bb3ef4deb5a934</guid><pubDate>Mon, 20 Jul 2026 12:02:48 GMT</pubDate><description>&lt;p&gt;芯片股深度回调之际，华尔街两大巨头对后市判断出现明显分歧——摩根大通认为买入时机渐近，摩根士丹利则坚持超大规模云计算企业（hyperscalers）更具吸引力，并对芯片股能否重夺市场领导地位持保留态度。&lt;/p&gt;
+&lt;p&gt;谷歌明确将Frozen v2定位为TPU产品线之外的新分支，而非对其现有自研芯片体系的替代。&lt;strong&gt;TPU与英伟达GPU同属通用AI芯片，可兼容多种模型；Frozen v2则专为Gemini打造，两条产品线将并行发展。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谷歌目前尚无将Frozen v2规模扩产至与TPU相当体量的计划。&lt;/p&gt;
+&lt;p&gt;知情人士表示，相对有限的部署规模使谷歌得以在项目后期再引入外部设计与制造合作伙伴，而无需像重大产品发布那样提前大规模统筹。此外，谷歌也将这一代产品部分视为工程试验——为工程师积累开发更高专用化芯片的经验，尤其是在AI模型架构逐渐趋于稳定的背景下。&lt;/p&gt;
+&lt;p&gt;谷歌现有的自研芯片战略已初见成效。&lt;/p&gt;
+&lt;p&gt;今年，谷歌发布了第八代TPU，并开始将其直接向云计算客户销售，向英伟达的主导地位发起挑战。谷歌已与Meta签署数十亿美元规模的TPU租用协议，并正积极争取其他云服务提供商客户。知情人士表示，自主研发芯片已使谷歌能够以更低成本运行Gemini模型——Frozen v2若能成功，则有望将这一成本优势进一步放大。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股跌入熊市，摩根大通喊出"夏季抄底"，大摩却继续押注云巨头</title><link>https://wallstreetcn.com/articles/3777456</link><guid>7bb9466624628cdb9b01f270d76ab19487431324f976a51d86bb3ef4deb5a934</guid><pubDate>Mon, 20 Jul 2026 12:02:48 GMT</pubDate><description>&lt;p&gt;芯片股深度回调之际，华尔街两大巨头对后市判断出现明显分歧——摩根大通认为买入时机渐近，摩根士丹利则坚持超大规模云计算企业（hyperscalers）更具吸引力，并对芯片股能否重夺市场领导地位持保留态度。&lt;/p&gt;
 &lt;p&gt;费城半导体指数（SOX）上周单周下跌10%，创2025年4月以来最差单周表现，并由此较一个月前创下的历史收盘高点累计下跌逾20%，正式步入技术性熊市。&lt;/p&gt;
 &lt;p&gt;在此背景下，&lt;strong&gt;摩根大通策略师团队认为，芯片股&amp;quot;很快将开始获得买盘支撑&amp;quot;，建议投资者在今夏择机重新布局&lt;/strong&gt;；&lt;strong&gt;摩根士丹利策略师团队则预计，即便芯片股出现反弹，也难以在今年下半年重回领涨地位，并更倾向于持有超大规模云计算企业。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -262,33 +289,4 @@ Mag 7分化加剧，抱团时代正在结束
 &lt;p&gt;相比“Mag 7”这一狭义标签，&lt;strong&gt;花旗提出的“成长集群”覆盖范围更广，不仅囊括大型科技公司，也纳入大量AI基础设施相关企业。&lt;/strong&gt;据策略师Chronert介绍，&lt;strong&gt;该集群目前占标普500指数市值超过一半，并贡献约48%的指数盈利，因此能更全面地反映当前美股成长板块的基本面变化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从估值维度看，花旗认为该成长集群尚未进入极端高估区域。其未来12个月市盈率处于过去30年历史分布的第66百分位，在盈利增长预期支撑下，估值水平有望维持至2027年。&lt;strong&gt;换言之，当前的估值扩张并非无根之水，而是建立在相对扎实的业绩前景之上，这为成长板块提供了阶段性的安全边际。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，市场结构正在发生微妙的切换。今年上半年，半导体板块曾是AI交易的主要受益者，但近期相关股票开始跑输大盘，市场对高估值和资本开支回报的担忧明显升温。与此同时，法国兴业银行策略师Manish Kabra等人警告称，现在押注AI大规模投资支出的终局赢家仍为时过早，这意味着前期领涨的基础设施层正面临预期回调的压力。&lt;/p&gt;
-&lt;p&gt;事实上，Chronert早在去年12月就预判，2026年的AI交易逻辑将从“AI基础设施提供者”转向“AI技术采用者”，而当前的市场轮动正在逐步验证这一判断。&lt;strong&gt;资金正从纯硬件供应商，向能够利用AI提升效率、改善产品的应用层企业迁移，这种结构性变化比简单的板块轮动更具深意。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI担忧升温，美股空头仓位创历史新高</title><link>https://wallstreetcn.com/articles/3777479</link><guid>2b60fdc489a8669105650a08bc995d55aff9cfcb1cf985279dff326f2a6efa19</guid><pubDate>Mon, 20 Jul 2026 16:03:38 GMT</pubDate><description>&lt;p&gt;美股空头仓位正在创下有记录以来的最高水平，折射出投资者对近期涨势能否持续的深层疑虑。标普500指数上周下跌1.6%，自3月底累计反弹18%。&lt;/p&gt;
-&lt;p&gt;据S3 Partners LLC追溯至2010年的数据，标普500成分股的卖空规模已接近流通股的3.79%，逼近历史峰值；罗素3000成分股的空头比例则已升至6.3%，刷新历史纪录。&lt;/p&gt;
-&lt;p&gt;与此同时，纽交所上市股票的空头比例自今年2月起持续攀升，6月下旬触及流通股的9%，同样是有记录以来最高水平——这一数字远超2008年全球金融危机时期的5%，以及新冠疫情期间约6%的峰值。&lt;/p&gt;
-&lt;p&gt;空头仓位的激增，叠加AI支出前景的不确定性，令市场对下半年走势的分歧愈发显著。Themis Trading LLC合伙人及股票交易联席主管Joseph Saluzzi表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;对AI支出的疑虑以及半导体板块的剧烈波动，令投资者的怀疑情绪持续升温，本月剩余时间，财报季与地缘政治因素将是重大变量&amp;quot;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;空头规模创纪录，但多头仍占主导&lt;/strong&gt;
-&lt;p&gt;S3 Partners预测分析主管Ihor Dusaniwsky指出，&amp;quot;卖空活动在增加，被做空标的的广度也在增加&amp;quot;。然而，尽管空头押注屡创新高，整体市场并未因此大幅承压。&lt;/p&gt;
-&lt;p&gt;根据S3 Partners数据，投资者在多头仓位上的投入约为空头仓位的两倍，这意味着即便空头规模庞大，其冲击力在多头对冲下被大幅稀释。&lt;/p&gt;
-&lt;p&gt;Reynolds Strategy LLC首席市场策略师Brian Reynolds认为，高企的空头仓位很可能被投资者的持续买入所抵消，两股力量相互对冲，令股市在过去一个月间整体横盘震荡，&amp;quot;消化了部分投机性泡沫，可能为下一轮上涨铺路&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Reynolds在周四发布给客户的报告中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们仍然认为，散户投资者将持续推动股市不断创出新高；而一旦市场回调，企业股票回购将加速，从而帮助股市摆脱低点。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;与此同时，对冲基金的动向却与整体趋势相悖。据高盛编制的数据，对冲基金近期正以三个月来最快的速度回补美股个股空头仓位，方向与整体空头积累的趋势形成明显背离。&lt;/p&gt;
-&lt;strong&gt;重仓做空个股跑输大市，SpaceX空头账面利润近50亿美元&lt;/strong&gt;
-&lt;p&gt;尽管今年迄今平均空头押注尚未盈利，但部分遭到重仓做空的个股已为空头提供了可观回报。&lt;/p&gt;
-&lt;p&gt;据Bespoke Investment Group统计，罗素3000中空头比例最高的一批标的——包括Hertz Global、Eos Energy Enterprises、Once Upon a Farm及Dave &amp;amp; Buster&amp;#x27;s Entertainment——今年以来平均下跌15%，而指数中其余个股平均上涨近21%。罗素3000指数今年迄今累计上涨9.3%。&lt;/p&gt;
-&lt;p&gt;其中，Hertz是今年表现最为突出的做空案例之一。这家汽车租赁商今年以来股价已累计下跌65%，约79%的流通股处于卖空状态，堪称年内最具代表性的&amp;quot;空头成功故事&amp;quot;。&lt;/p&gt;
-&lt;p&gt;在大市值股票领域，同样的分化格局也在上演。标普500指数今年累计上涨9.3%，但从美元规模来看，空头仓位最集中的标的包括&amp;quot;科技七巨头&amp;quot;及美光科技和博通等芯片股。&lt;/p&gt;
-&lt;p&gt;S3数据还显示，在按流通股比例计算的高度做空标的中，SpaceX尤为突出——在上周五股价大跌之前，针对该公司的空头押注规模达250亿美元，占其流通股的近29%，今年以来空头的账面利润已累计约48亿美元，涨幅近28%。&lt;/p&gt;
-AI投资回报担忧仍是市场核心风险
-&lt;p&gt;Themis Trading合伙人兼股票交易联席主管Joseph Saluzzi表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“卖空仓位不断增加，说明投资者的担忧正在升温。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他指出，市场对AI资本支出以及半导体板块大幅上涨的质疑正在不断增强，尽管目前整体市场恐慌情绪仍受到控制。&lt;/p&gt;
-&lt;p&gt;Saluzzi认为，本月剩余时间内，财报季表现和地缘政治局势将成为影响市场走势的两大关键因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 亲历 2007 狂热盛夏与 2008 寒彻熊市</title><link>http://xueqiu.com/8801393218/401096567</link><guid>836fc2e7697e45b150412824038d0c637b2e5a9010bcd63baa118bd3fc42d4d7</guid><pubDate>Mon, 20 Jul 2026 10:31:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;八万顷&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2007、2008 年于我而言，绝非新手初识市场的启蒙阶段。彼时我入市已满十年，早已完整走过数轮牛熊，交易体系、盘感与风控认知早已成型，自认看透市场大半套路。可那两年极致割裂的行情、泡沫与崩塌，依旧彻底重塑了我对周期、人性、资金共识的底层认知，成为往后二十年投资路上刻在骨子里的参照标尺。&lt;/p&gt;</description></item><item><title>[今日雪球] 泰聚周思考｜7月科技股大波动对投资的启示</title><link>http://xueqiu.com/4047351923/401049759</link><guid>45c3965168de566ede8331ed01747d1077f159073c40877a475638bfe3742e5b</guid><pubDate>Mon, 20 Jul 2026 10:32:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张宪强-泰聚基金&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6-7月，A股科技股经历了一场教科书式的大波动。从6月下旬的烈火烹油，到7月中旬的一地鸡毛，创业板指7月单月跌幅已超过20%，640只个股7月跌幅超过30%，身边不少朋友因为有融资杠杆，今年收益已转负甚至出现不小的亏损。这是一次值得认真复盘的、关于人性与定价的现场教学。我们基金产品经历过2024年年初的股灾，深知风险控制的重要。&lt;b&gt;基于6月份对A股题材投资、市值管理、趋势投资的“过热情绪”观察，以及对AI发展进入波动期的判断，我们在6月底已采取减仓、期指空单的对冲，近期最高回撤控制在了10%左右，2026年收益率仍在三位数附近。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮科技回调何时结束的思考</title><link>http://xueqiu.com/5332385101/401055347</link><guid>38ee6581d08c20cd057b7f4f89b8d41f72cdf6419a77b4d20ac84a357c0e1194</guid><pubDate>Mon, 20 Jul 2026 10:31:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去三周，全球科技剧烈回调。短短17个交易日内，美股科技动量因子从峰值急坠40%，创下有史以来最快、最深回撤。KOSPI、全球存储及AI核心受益股无一幸免，跌幅均在20%-30%之间。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;事实上，Chronert早在去年12月就预判，2026年的AI交易逻辑将从“AI基础设施提供者”转向“AI技术采用者”，而当前的市场轮动正在逐步验证这一判断。&lt;strong&gt;资金正从纯硬件供应商，向能够利用AI提升效率、改善产品的应用层企业迁移，这种结构性变化比简单的板块轮动更具深意。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 亲历 2007 狂热盛夏与 2008 寒彻熊市</title><link>http://xueqiu.com/8801393218/401096567</link><guid>836fc2e7697e45b150412824038d0c637b2e5a9010bcd63baa118bd3fc42d4d7</guid><pubDate>Mon, 20 Jul 2026 10:31:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;八万顷&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2007、2008 年于我而言，绝非新手初识市场的启蒙阶段。彼时我入市已满十年，早已完整走过数轮牛熊，交易体系、盘感与风控认知早已成型，自认看透市场大半套路。可那两年极致割裂的行情、泡沫与崩塌，依旧彻底重塑了我对周期、人性、资金共识的底层认知，成为往后二十年投资路上刻在骨子里的参照标尺。&lt;/p&gt;</description></item><item><title>[今日雪球] 泰聚周思考｜7月科技股大波动对投资的启示</title><link>http://xueqiu.com/4047351923/401049759</link><guid>45c3965168de566ede8331ed01747d1077f159073c40877a475638bfe3742e5b</guid><pubDate>Mon, 20 Jul 2026 10:32:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;张宪强-泰聚基金&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;6-7月，A股科技股经历了一场教科书式的大波动。从6月下旬的烈火烹油，到7月中旬的一地鸡毛，创业板指7月单月跌幅已超过20%，640只个股7月跌幅超过30%，身边不少朋友因为有融资杠杆，今年收益已转负甚至出现不小的亏损。这是一次值得认真复盘的、关于人性与定价的现场教学。我们基金产品经历过2024年年初的股灾，深知风险控制的重要。&lt;b&gt;基于6月份对A股题材投资、市值管理、趋势投资的“过热情绪”观察，以及对AI发展进入波动期的判断，我们在6月底已采取减仓、期指空单的对冲，近期最高回撤控制在了10%左右，2026年收益率仍在三位数附近。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮科技回调何时结束的思考</title><link>http://xueqiu.com/5332385101/401055347</link><guid>38ee6581d08c20cd057b7f4f89b8d41f72cdf6419a77b4d20ac84a357c0e1194</guid><pubDate>Mon, 20 Jul 2026 10:31:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去三周，全球科技剧烈回调。短短17个交易日内，美股科技动量因子从峰值急坠40%，创下有史以来最快、最深回撤。KOSPI、全球存储及AI核心受益股无一幸免，跌幅均在20%-30%之间。&lt;/p&gt;</description></item></channel></rss>
