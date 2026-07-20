@@ -1,56 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 03:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛解读新易盛财报：Q2利润大超预期，800G/1.6T 光模块出货量将持续提升</title><link>https://wallstreetcn.com/articles/3777393</link><guid>a5a6f6fe4bbc5c5c0a3cd938aeb0b517fdbb2f6553f4e8fc7ecfded212416271</guid><pubDate>Mon, 20 Jul 2026 03:04:23 GMT</pubDate><description>&lt;p&gt;基于新易盛最新公布的上半年净利润预估，高盛全面上调了2026至2028年的利润预测，并上调新易盛12个月目标价。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777355"&gt;华尔街见闻&lt;/a&gt;文章此前写道，新易盛7月19日披露2026年半年度业绩预告，预计2026年上半年归母净利润达70-80亿元，同比增长77.56%-102.93%，扣非净利润增速基本同步，主营增长成色充足。AI算力投资持续增长与产品结构优化为核心驱动力，高速率光模块需求强劲，公司作为产业链重要厂商持续受益于行业高景气。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，高盛在7月20日的研报中指出，受AI资本支出激增及产品结构向高速光模块升级的强力驱动，&lt;strong&gt;新易盛2026年二季度净利润指引中位数大幅超出预期44%&lt;/strong&gt;。随着光芯片供应的改善和公司产能的扩张，800G及1.6T光模块的出货量正在加速攀升。&lt;/p&gt;
-&lt;p&gt;基于强劲的基本面和出货预期，高盛全面上调了&lt;strong&gt;新易盛2026至2028年的利润预测&lt;/strong&gt;，并将12个月目标价从600.71元大幅上调至633.0元，重申维持“买入”评级。这标志着在AI算力需求持续爆发的背景下，新易盛高端产品的加速放量将为其带来极高的业绩确定性与估值溢价空间。&lt;/p&gt;
-Q2净利润大幅超预期：AI资本开支驱动需求爆发
-&lt;p&gt;新易盛披露2026年上半年净利润预告区间为70亿至80亿元人民币。结合已披露的2026年第一季度净利润27.74亿元，可推算第二季度净利润区间为&lt;strong&gt;42亿至62亿元&lt;/strong&gt;，同比增幅高达&lt;strong&gt;78%至163%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛指出，此次业绩超预期的核心驱动因素有两点：其一，&lt;strong&gt;AI资本开支持续扩张&lt;/strong&gt;带动高速光模块需求强劲增长；其二，&lt;strong&gt;公司产品结构持续向高速光模块升级&lt;/strong&gt;，叠加光芯片供应改善与产能扩张，推动营收和净利润环比加速增长。&lt;/p&gt;
-&lt;p&gt;从季度利润节奏来看，&lt;strong&gt;高盛预测2026年全年各季度摊薄每股收益分别为：&lt;/strong&gt;Q1为1.99元、Q2为3.34元、Q3为4.56元、Q4为4.96元，呈现出全年持续加速的增长态势。&lt;/p&gt;
-800G/1.6T光模块加速放量：下半年贡献占比将持续提升
-&lt;p&gt;高盛将本次业绩超预期的结构性原因归结为&lt;strong&gt;800G/1.6T光模块的加速爬坡&lt;/strong&gt;。随着光芯片供应瓶颈逐步缓解，以及公司自身产能扩张推进，高速光模块出货量正进入快速增长通道。&lt;/p&gt;
-&lt;p&gt;展望2026年下半年，高盛预期以下趋势将持续强化：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1.6T光模块&lt;/strong&gt;的营收贡献占比将进一步提升；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;硅光子（Silicon Photonics）产品&lt;/strong&gt;渗透率持续上行；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;客户对800G+产品的需求持续旺盛，支撑出货量增长。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;尽管短期内光芯片行业供应仍然偏紧，高盛认为硅光子渗透率的提升以及行业整体产能扩张，将为后续出货量增长提供有力支撑。&lt;/p&gt;
-&lt;p&gt;从更长周期来看，高盛预判2027年起，需求将从当前以&lt;strong&gt;规模扩展（scale-out）&lt;/strong&gt;为主，逐步向&lt;strong&gt;纵向扩展（scale-up）及跨域扩展（scale across）&lt;/strong&gt;演进，为公司打开新的增量空间。&lt;/p&gt;
-&lt;p&gt;综合来看，新易盛此次业绩预告传递出三重积极信号：&lt;strong&gt;需求端&lt;/strong&gt;，AI资本开支扩张带动高速光模块需求持续旺盛；&lt;strong&gt;供给端&lt;/strong&gt;，光芯片供应改善与公司产能扩张形成双重支撑；&lt;strong&gt;结构端&lt;/strong&gt;，产品组合向800G/1.6T高价值产品快速迁移，推动毛利率稳步提升。&lt;/p&gt;
-&lt;strong&gt;全面上调利润预测，目标价升至633元&lt;/strong&gt;
-&lt;p&gt;鉴于二季度强劲的业绩指引，以及光芯片供应改善和产能扩张带来的800G/1.6T光模块出货量增加，高盛将新易盛2026、2027和2028年的盈利预测分别上调了7%、2%和2%。 具体核心预测数据如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2026年：&lt;/strong&gt; 预计营收514.57亿元人民币，净利润206.83亿元人民币。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2027年：&lt;/strong&gt; 预计营收739.11亿元人民币，净利润300.80亿元人民币。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2028年：&lt;/strong&gt; 预计营收849.75亿元人民币，净利润345.76亿元人民币。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;2027年及2028年营收、净利润预测均上调约2%，反映出高盛对公司中长期高速光模块出货量增长的持续乐观判断。&lt;/p&gt;
-&lt;p&gt;在估值方面，高盛采用&lt;strong&gt;近期市盈率（P/E）&lt;/strong&gt;方法对新易盛进行估值，以&lt;strong&gt;2027年预测净利润&lt;/strong&gt;为基准，目标市盈率设定为&lt;strong&gt;29.3倍&lt;/strong&gt;（此前为28.4倍），对应12个月目标价从600.71元上调至&lt;strong&gt;633元人民币&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛指出，29.3倍的目标市盈率与新易盛自2018年9月以来的历史平均远期市盈率&lt;strong&gt;28倍&lt;/strong&gt;基本吻合，估值逻辑具备历史一致性。目标市盈率的确定参考了同业公司交易市盈率与远期基本面指标（净利润同比增速及营业利润率）的平均比值，以2027至2028年平均净利润增速和平均营业利润率为输入参数。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;当前股价482.88元（截至2026年7月17日收盘），目标价633元对应&lt;strong&gt;31.1%的潜在上行空间&lt;/strong&gt;，公司市值约为&lt;strong&gt;6720亿元人民币（约992亿美元）&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工信部：推动建立算力市场化定价标准，着力培育全国一体化技术市场</title><link>https://wallstreetcn.com/articles/3777398</link><guid>82f872b515ba8f9c0dc699704680528e41458e02e9a24a62e482a39666b401e3</guid><pubDate>Mon, 20 Jul 2026 03:32:30 GMT</pubDate><description>&lt;p&gt;国务院新闻办公室7月20日（星期一）上午10时举行新闻发布会，工业和信息化部总工程师王卫明介绍2026年上半年工业和信息化发展情况，并答记者问。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 04:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 工信部：推动建立算力市场化定价标准，着力培育全国一体化技术市场</title><link>https://wallstreetcn.com/articles/3777398</link><guid>82f872b515ba8f9c0dc699704680528e41458e02e9a24a62e482a39666b401e3</guid><pubDate>Mon, 20 Jul 2026 03:32:30 GMT</pubDate><description>&lt;p&gt;国务院新闻办公室7月20日（星期一）上午10时举行新闻发布会，工业和信息化部总工程师王卫明介绍2026年上半年工业和信息化发展情况，并答记者问。&lt;/p&gt;
 &lt;p&gt;数据显示，工业经济整体平稳，盈利能力持续改善，前5个月规模以上工业企业营业收入利润率达5.66%，为2024年以来月度累计最高水平。&lt;/p&gt;
 &lt;p&gt;工业和信息化部总工程师王卫明在发布会上表示，当前“外部环境复杂严峻，国内供强需弱、结构性矛盾仍然突出”，但“工业经济发展稳中向好的基本面没有改变”。他同时宣布，工信部正加紧制定培育全国一体化技术市场的政策文件，着力破除技术交易中的区域壁垒和制度障碍。&lt;/p&gt;
 &lt;p&gt;在人工智能领域，规模以上制造业企业AI技术应用普及率已超过30%，人工智能开源大模型全球累计下载量突破100亿次。智能算力规模达2185EFLOPS，同比增长177%。将印发算力标准体系建设指南，推动建立算力市场化定价等标准。&lt;/p&gt;
@@ -218,32 +167,39 @@ Q2净利润大幅超预期：AI资本开支驱动需求爆发
 &lt;p&gt;2026-07-20 10:59:32&lt;/p&gt;
 &lt;p&gt;贾惠丽:&lt;/p&gt;
 &lt;p&gt;今天的发布会就到这里，感谢各位发布人，感谢媒体记者朋友们的参与。大家再见。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic被曝测试AMD GPU，AI巨头正在系统性降低单一算力依赖</title><link>https://wallstreetcn.com/articles/3777394</link><guid>6d90a68de15fcfef74d16987c5846abe65b98eec375b3618b95100644c049d7e</guid><pubDate>Mon, 20 Jul 2026 03:21:28 GMT</pubDate><description>&lt;p&gt;Anthropic正在将AMD纳入其算力供应商体系。据芯片行业分析机构SemiAnalysis解读，AMD AI业务高级总监在公开GitHub代码中披露了相关信息，&lt;strong&gt;显示Anthropic将成为AMD客户。&lt;/strong&gt;这一动向表明Anthropic正在主动拓宽芯片来源，降低对单一供应商的依赖。&lt;/p&gt;
-&lt;p&gt;周一，据SemiAnalysis在社交媒体平台X上发布的分析帖，&lt;strong&gt;该机构通过解读AMD AI高级总监公开发布的GitHub代码，得出Anthropic将采购AMD芯片的结论&lt;/strong&gt;，SemiAnalysis在帖文中表示将进一步解释代码细节及相关背景。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;若上述信息属实，AMD将获得一个此前由英伟达和谷歌主导的高端AI训练市场的重要新客户，同时也意味着Anthropic的算力基础设施布局正在向多元化方向加速演进。&lt;/p&gt;
-GitHub代码意外成为&amp;quot;泄露&amp;quot;渠道
-&lt;p&gt;此次信息的披露路径颇为特殊。并非来自官方公告或媒体报道，而是源于AMD内部高管在公开代码托管平台GitHub上发布的代码内容。SemiAnalysis对这批代码进行了专业解读，并在X平台上公开发布分析结论，指出其中明确涉及Anthropic作为AMD客户的相关信息。&lt;/p&gt;
-&lt;p&gt;这种通过公开代码库意外流出敏感商业信息的情况，在科技行业并不罕见。由于GitHub代码具有公开可检索的特性，加之发布者为AMD AI业务高级总监，信息的可信度相对较高。SemiAnalysis在帖文中承诺将进一步拆解代码逻辑与细节，为市场提供更完整的解读。&lt;/p&gt;
-Anthropic此前已布局多家芯片来源
-&lt;p&gt;在此次AMD消息曝出之前，Anthropic已与多家芯片及算力供应商建立合作关系。谷歌的TPU（张量处理器）是Anthropic重要的算力来源之一，这与谷歌对Anthropic的战略投资密切相关。此外，Anthropic此前已将三星纳入其供应商体系。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一既有布局说明，Anthropic在算力采购策略上并非依赖单一来源，而是早已着手构建多元化的供应商矩阵。AMD的加入，将进一步丰富这一矩阵，并在英伟达GPU之外为Anthropic提供更多可选的高性能计算资源。&lt;/strong&gt;&lt;/p&gt;
-算力多元化是AI公司的系统性选择
-&lt;p&gt;对Anthropic而言，引入AMD具有多重战略价值。随着模型训练和推理规模持续扩大，单一芯片供应商带来的供应链风险、议价能力受限以及技术路径锁定等问题日益凸显。通过同时采用谷歌TPU、三星及AMD等多家供应商的产品，Anthropic可以在成本控制、供应稳定性和技术灵活性之间寻求更优平衡。&lt;/p&gt;
-&lt;p&gt;对AMD而言，拿下Anthropic这一客户具有重要的标杆意义。&lt;strong&gt;AMD近年来持续加大在数据中心AI芯片领域的投入，其MI系列GPU被视为英伟达H系列产品的主要竞争选项之一。&lt;/strong&gt;若Anthropic正式成为AMD客户，将有助于AMD在顶级AI实验室客户群体中建立更强的市场存在感，并为其数据中心AI芯片业务带来实质性的增量收入。&lt;/p&gt;
-&lt;p&gt;Anthropic的动向折射出更广泛的行业趋势。随着OpenAI、谷歌DeepMind、Meta AI等头部机构对算力的需求持续攀升，AI公司正在系统性地评估和拓展芯片供应来源，以规避过度集中于单一供应商的风险。这一趋势客观上为AMD、英特尔等英伟达的竞争对手创造了更多进入核心AI客户供应链的机会。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板冲高回落一度转跌，煤炭、白酒爆发，算力硬件再跌，恒科指大涨3%，科网股集体拉升</title><link>https://wallstreetcn.com/articles/3777388</link><guid>623dee5e5f61594fc4df832db3d118b2f2c7bedb5feb2c8f048c3674053ad47c</guid><pubDate>Mon, 20 Jul 2026 02:55:31 GMT</pubDate><description>&lt;p&gt;A股早盘一度全线反弹，此前&lt;a href="https://wallstreetcn.com/articles/3777378"&gt;中国国新与中国诚通同步宣布增持中国股票资产&lt;/a&gt;，算力硬件、芯片半导体等科技股盘初拉升，随后持续回落，拖累创业板、科创50纷纷走低。港股科网股大幅走高，阿里涨超5%，消息面，7月19日，阿里巴巴发布旗舰大模型&lt;a href="https://wallstreetcn.com/articles/3777381"&gt;Qwen3.8 Max预览版&lt;/a&gt;，参数规模高达2.4万亿，官方称其定位为&amp;quot;当今最强大的模型之一，可与领先的前沿AI模型媲美&amp;quot;。&lt;/p&gt;
-&lt;p&gt;7月20日，A股早盘全线高开，三大股指盘初一度集体上涨，沪指重返3800点，创业板涨超3%，随后纷纷回落，创业板一度转跌。算力硬件、芯片半导体等科技股盘初大反弹，随后全线下挫，电路板、覆铜板、HBM、半导体材料等方向大幅走低，油气、煤炭、电力等板块走强。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指重返3800点，“煤电酒油”大爆发，科技股再度下跌，恒科指大涨3%，科网股集体拉升</title><link>https://wallstreetcn.com/articles/3777388</link><guid>623dee5e5f61594fc4df832db3d118b2f2c7bedb5feb2c8f048c3674053ad47c</guid><pubDate>Mon, 20 Jul 2026 03:55:23 GMT</pubDate><description>&lt;p&gt;A股在&lt;a href="https://wallstreetcn.com/articles/3777378"&gt;两大央企国新和诚通宣布继续增持&lt;/a&gt;、证监会召开座谈会等多重利好提振下集体高开，随后走势明显分化：沪指、沪深300在能源与消费权重股带动下维持强势，深成指和创业板冲高回落，算力硬件、芯片半导体等科技股再度回落。港股科网股大幅走高，阿里涨超5%，消息面上，7月19日，阿里巴巴发布旗舰大模型&lt;a href="https://wallstreetcn.com/articles/3777381"&gt;Qwen3.8 Max预览版&lt;/a&gt;，参数规模高达2.4万亿，官方称其定位为&amp;quot;当今最强大的模型之一，可与领先的前沿AI模型媲美&amp;quot;。&lt;/p&gt;
+&lt;p&gt;7月20日，A股早盘全线高开，三大股指盘初一度集体上涨，沪指重返3800点，创业板涨超3%，随后纷纷回落，创业板一度转跌，临近午盘沪指涨超1%，创业板也涨超1%。资金从高位科技股向低位能源、消费、央企板块切换，&amp;quot;煤电酒油&amp;quot;成为早盘最强主线。算力硬件、芯片半导体等科技股盘初大反弹，随后全线下挫，电路板、覆铜板、HBM、半导体材料等方向大幅走低。&lt;/p&gt;
 &lt;p&gt;港股高开高走，恒指、恒科指早盘亦双双走高，恒指涨2%，恒科指涨3%，科网股集体反弹，阿里涨超5%，美团、腾讯、京东等悉数上涨。生物科技板块大涨。债市方面，国债期货普遍下跌。商品方面，国内商品期货多数上涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股：&lt;/strong&gt;截至发稿，沪指涨0.63%，深成指跌0.60%，创业板指涨0.09%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股：&lt;/strong&gt;截至发稿，沪指涨1.18%，深成指涨0.21%，创业板指涨1.13%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;港股：&lt;/strong&gt;截至发稿，恒指涨1.81%，恒科指涨2.36%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市：&lt;/strong&gt;国债期货全线下跌，截至发稿，30年期主力合约跌0.08%，10年期主力合约跌0.05%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市：&lt;/strong&gt;国债期货全线下跌，截至发稿，30年期主力合约跌0.13%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品：&lt;/strong&gt;国内商品期货普涨，截至发稿，原油涨近7%，燃油、沥青均涨超4%，烧碱涨超2%，焦煤、橡胶、氧化铝、沪锡、纸浆、沪银涨1%，豆粕、焦炭、菜籽、集运指数、沪金、沪铜、锰硅、沪铝纷纷上涨，工业硅、沪镍、不锈钢、铁矿石、螺纹钢、热轧卷板、鸡蛋、多晶硅、铂金等下跌，碳酸锂、玻璃、钯金等跌超1%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品：&lt;/strong&gt;国内商品期货盘涨跌参半，截至发稿，能源品涨幅居前，LPG涨8.08%；航运期货全部上涨，集运指数(欧线)涨6.40%；化工品多数上涨，沥青涨4.76%；非金属建材涨跌参半，PVC涨3.92%；贵金属涨跌参半，沪银涨2.47%；基本金属多数上涨，沪锡涨1.65%；油脂油料多数上涨，棕榈油涨1.16%；农副产品跌幅居前，鸡蛋跌2.76%；新能源材料全部下跌，碳酸锂跌1.69%；黑色系多数下跌，焦炭跌0.99%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;11:45&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股涨多跌少，沪深京三市约3100股飘红，上午半天成交1.68万亿。沪深两市半日成交额1.67万亿，较上个交易日放量近700亿。板块方面，油气、煤炭、电力、白酒、保险、银行、黄金、医药生物板块涨幅居前。半导体、算力硬件产业链持续回调，PCB、光刻机、存储器方向领跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;具体来看，华银电力2连板、立新能源3连板，粤电力A、桂冠电力、涪陵电力等多股涨停；煤炭板块昊华能源、大有能源、郑州煤电涨停，中煤能源涨近10%；白酒板块古井贡酒涨停，贵州茅台涨超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，7月10日全国用电负荷首破15.18亿千瓦创新高，仅4天后又攀升至15.51亿千瓦再破纪录。江苏电网最高负荷连续第十年站上&amp;quot;亿级台阶&amp;quot;，今年已连续73天超1亿千瓦。国家气候中心预测今夏全国最大负荷将达16亿千瓦。&lt;/p&gt;
+&lt;p&gt;除了居民制冷需求外，互联网数据服务用电增长41.4%、充换电服务业增长57.1%，AI算力正成为电力需求的刚性增量。中报层面，立新能源预增570%至794%，桂冠电力上半年发电量同比增47.67%，深南电A扭亏为盈，业绩与催化共振。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;催化方面，秦港动力煤价格升至821元/吨，环比上涨29元/吨。6月全国原煤产量同比骤降9.7%，创近十年最大降幅；晋陕蒙样本煤矿产量同比降幅扩大至4.4%。南方电厂日耗升至612万吨/天，库存可用天数降至19.6天，补库需求开始释放。供给收缩叠加迎峰度夏需求旺季，煤价获得支撑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在科技赛道连续重挫、市场风险偏好骤降的背景下，白酒作为消费防御资产重新获得资金青睐。5月茅台宣布上调部分产品零售价，叠加飞天茅台终端价格四连涨，行业边际改善信号逐渐增多。&lt;/p&gt;
+&lt;p&gt;与此同时，科技赛道延续调整，CPO概念东山精密跌超8%、光迅科技跌近10%，剑桥科技跌停；PCB板块宝鼎科技、贤丰控股、金安国纪跌停。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:24&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国海油A股盘中触及涨停。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:01&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指日内涨幅再次扩大至2%，此前一度翻绿。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10:50&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;智谱、MiniMax今日股价走低，目前分别跌9.85%和8.29%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -279,7 +235,71 @@ Anthropic此前已布局多家芯片来源
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开1.11%，恒生科技指数涨2.2%。科网股集体反弹，华虹宏力、小鹏集团涨逾4%，京东健康、商汤、阿里巴巴涨逾3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 指数“跌破”年线，对A股意味着什么？关键是时长和回撤幅度</title><link>https://wallstreetcn.com/articles/3777379</link><guid>b2d2a5e34480970baf1ae5920ebcd9ba8d71ca8e75eebc9715dd82236818aa4b</guid><pubDate>Mon, 20 Jul 2026 00:48:34 GMT</pubDate><description>&lt;p&gt;上证指数上周再度&amp;quot;跌破&amp;quot;年线，市场转熊的担忧随之升温——但历史告诉我们，这件事本身并不稀奇，真正的问题是接下来跌多深、跌多久。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读新易盛财报：Q2利润大超预期，800G/1.6T 光模块出货量将持续提升</title><link>https://wallstreetcn.com/articles/3777393</link><guid>a5a6f6fe4bbc5c5c0a3cd938aeb0b517fdbb2f6553f4e8fc7ecfded212416271</guid><pubDate>Mon, 20 Jul 2026 03:04:23 GMT</pubDate><description>&lt;p&gt;基于新易盛最新公布的上半年净利润预估，高盛全面上调了2026至2028年的利润预测，并上调新易盛12个月目标价。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777355"&gt;华尔街见闻&lt;/a&gt;文章此前写道，新易盛7月19日披露2026年半年度业绩预告，预计2026年上半年归母净利润达70-80亿元，同比增长77.56%-102.93%，扣非净利润增速基本同步，主营增长成色充足。AI算力投资持续增长与产品结构优化为核心驱动力，高速率光模块需求强劲，公司作为产业链重要厂商持续受益于行业高景气。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，高盛在7月20日的研报中指出，受AI资本支出激增及产品结构向高速光模块升级的强力驱动，&lt;strong&gt;新易盛2026年二季度净利润指引中位数大幅超出预期44%&lt;/strong&gt;。随着光芯片供应的改善和公司产能的扩张，800G及1.6T光模块的出货量正在加速攀升。&lt;/p&gt;
+&lt;p&gt;基于强劲的基本面和出货预期，高盛全面上调了&lt;strong&gt;新易盛2026至2028年的利润预测&lt;/strong&gt;，并将12个月目标价从600.71元大幅上调至633.0元，重申维持“买入”评级。这标志着在AI算力需求持续爆发的背景下，新易盛高端产品的加速放量将为其带来极高的业绩确定性与估值溢价空间。&lt;/p&gt;
+Q2净利润大幅超预期：AI资本开支驱动需求爆发
+&lt;p&gt;新易盛披露2026年上半年净利润预告区间为70亿至80亿元人民币。结合已披露的2026年第一季度净利润27.74亿元，可推算第二季度净利润区间为&lt;strong&gt;42亿至62亿元&lt;/strong&gt;，同比增幅高达&lt;strong&gt;78%至163%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;高盛指出，此次业绩超预期的核心驱动因素有两点：其一，&lt;strong&gt;AI资本开支持续扩张&lt;/strong&gt;带动高速光模块需求强劲增长；其二，&lt;strong&gt;公司产品结构持续向高速光模块升级&lt;/strong&gt;，叠加光芯片供应改善与产能扩张，推动营收和净利润环比加速增长。&lt;/p&gt;
+&lt;p&gt;从季度利润节奏来看，&lt;strong&gt;高盛预测2026年全年各季度摊薄每股收益分别为：&lt;/strong&gt;Q1为1.99元、Q2为3.34元、Q3为4.56元、Q4为4.96元，呈现出全年持续加速的增长态势。&lt;/p&gt;
+800G/1.6T光模块加速放量：下半年贡献占比将持续提升
+&lt;p&gt;高盛将本次业绩超预期的结构性原因归结为&lt;strong&gt;800G/1.6T光模块的加速爬坡&lt;/strong&gt;。随着光芯片供应瓶颈逐步缓解，以及公司自身产能扩张推进，高速光模块出货量正进入快速增长通道。&lt;/p&gt;
+&lt;p&gt;展望2026年下半年，高盛预期以下趋势将持续强化：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1.6T光模块&lt;/strong&gt;的营收贡献占比将进一步提升；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;硅光子（Silicon Photonics）产品&lt;/strong&gt;渗透率持续上行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;客户对800G+产品的需求持续旺盛，支撑出货量增长。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;尽管短期内光芯片行业供应仍然偏紧，高盛认为硅光子渗透率的提升以及行业整体产能扩张，将为后续出货量增长提供有力支撑。&lt;/p&gt;
+&lt;p&gt;从更长周期来看，高盛预判2027年起，需求将从当前以&lt;strong&gt;规模扩展（scale-out）&lt;/strong&gt;为主，逐步向&lt;strong&gt;纵向扩展（scale-up）及跨域扩展（scale across）&lt;/strong&gt;演进，为公司打开新的增量空间。&lt;/p&gt;
+&lt;p&gt;综合来看，新易盛此次业绩预告传递出三重积极信号：&lt;strong&gt;需求端&lt;/strong&gt;，AI资本开支扩张带动高速光模块需求持续旺盛；&lt;strong&gt;供给端&lt;/strong&gt;，光芯片供应改善与公司产能扩张形成双重支撑；&lt;strong&gt;结构端&lt;/strong&gt;，产品组合向800G/1.6T高价值产品快速迁移，推动毛利率稳步提升。&lt;/p&gt;
+&lt;strong&gt;全面上调利润预测，目标价升至633元&lt;/strong&gt;
+&lt;p&gt;鉴于二季度强劲的业绩指引，以及光芯片供应改善和产能扩张带来的800G/1.6T光模块出货量增加，高盛将新易盛2026、2027和2028年的盈利预测分别上调了7%、2%和2%。 具体核心预测数据如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2026年：&lt;/strong&gt; 预计营收514.57亿元人民币，净利润206.83亿元人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2027年：&lt;/strong&gt; 预计营收739.11亿元人民币，净利润300.80亿元人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2028年：&lt;/strong&gt; 预计营收849.75亿元人民币，净利润345.76亿元人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2027年及2028年营收、净利润预测均上调约2%，反映出高盛对公司中长期高速光模块出货量增长的持续乐观判断。&lt;/p&gt;
+&lt;p&gt;在估值方面，高盛采用&lt;strong&gt;近期市盈率（P/E）&lt;/strong&gt;方法对新易盛进行估值，以&lt;strong&gt;2027年预测净利润&lt;/strong&gt;为基准，目标市盈率设定为&lt;strong&gt;29.3倍&lt;/strong&gt;（此前为28.4倍），对应12个月目标价从600.71元上调至&lt;strong&gt;633元人民币&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;高盛指出，29.3倍的目标市盈率与新易盛自2018年9月以来的历史平均远期市盈率&lt;strong&gt;28倍&lt;/strong&gt;基本吻合，估值逻辑具备历史一致性。目标市盈率的确定参考了同业公司交易市盈率与远期基本面指标（净利润同比增速及营业利润率）的平均比值，以2027至2028年平均净利润增速和平均营业利润率为输入参数。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当前股价482.88元（截至2026年7月17日收盘），目标价633元对应&lt;strong&gt;31.1%的潜在上行空间&lt;/strong&gt;，公司市值约为&lt;strong&gt;6720亿元人民币（约992亿美元）&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic被曝测试AMD GPU，AI巨头正在系统性降低单一算力依赖</title><link>https://wallstreetcn.com/articles/3777394</link><guid>6d90a68de15fcfef74d16987c5846abe65b98eec375b3618b95100644c049d7e</guid><pubDate>Mon, 20 Jul 2026 03:21:28 GMT</pubDate><description>&lt;p&gt;Anthropic正在将AMD纳入其算力供应商体系。据芯片行业分析机构SemiAnalysis解读，AMD AI业务高级总监在公开GitHub代码中披露了相关信息，&lt;strong&gt;显示Anthropic将成为AMD客户。&lt;/strong&gt;这一动向表明Anthropic正在主动拓宽芯片来源，降低对单一供应商的依赖。&lt;/p&gt;
+&lt;p&gt;周一，据SemiAnalysis在社交媒体平台X上发布的分析帖，&lt;strong&gt;该机构通过解读AMD AI高级总监公开发布的GitHub代码，得出Anthropic将采购AMD芯片的结论&lt;/strong&gt;，SemiAnalysis在帖文中表示将进一步解释代码细节及相关背景。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;若上述信息属实，AMD将获得一个此前由英伟达和谷歌主导的高端AI训练市场的重要新客户，同时也意味着Anthropic的算力基础设施布局正在向多元化方向加速演进。&lt;/p&gt;
+GitHub代码意外成为&amp;quot;泄露&amp;quot;渠道
+&lt;p&gt;此次信息的披露路径颇为特殊。并非来自官方公告或媒体报道，而是源于AMD内部高管在公开代码托管平台GitHub上发布的代码内容。SemiAnalysis对这批代码进行了专业解读，并在X平台上公开发布分析结论，指出其中明确涉及Anthropic作为AMD客户的相关信息。&lt;/p&gt;
+&lt;p&gt;这种通过公开代码库意外流出敏感商业信息的情况，在科技行业并不罕见。由于GitHub代码具有公开可检索的特性，加之发布者为AMD AI业务高级总监，信息的可信度相对较高。SemiAnalysis在帖文中承诺将进一步拆解代码逻辑与细节，为市场提供更完整的解读。&lt;/p&gt;
+Anthropic此前已布局多家芯片来源
+&lt;p&gt;在此次AMD消息曝出之前，Anthropic已与多家芯片及算力供应商建立合作关系。谷歌的TPU（张量处理器）是Anthropic重要的算力来源之一，这与谷歌对Anthropic的战略投资密切相关。此外，Anthropic此前已将三星纳入其供应商体系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一既有布局说明，Anthropic在算力采购策略上并非依赖单一来源，而是早已着手构建多元化的供应商矩阵。AMD的加入，将进一步丰富这一矩阵，并在英伟达GPU之外为Anthropic提供更多可选的高性能计算资源。&lt;/strong&gt;&lt;/p&gt;
+算力多元化是AI公司的系统性选择
+&lt;p&gt;对Anthropic而言，引入AMD具有多重战略价值。随着模型训练和推理规模持续扩大，单一芯片供应商带来的供应链风险、议价能力受限以及技术路径锁定等问题日益凸显。通过同时采用谷歌TPU、三星及AMD等多家供应商的产品，Anthropic可以在成本控制、供应稳定性和技术灵活性之间寻求更优平衡。&lt;/p&gt;
+&lt;p&gt;对AMD而言，拿下Anthropic这一客户具有重要的标杆意义。&lt;strong&gt;AMD近年来持续加大在数据中心AI芯片领域的投入，其MI系列GPU被视为英伟达H系列产品的主要竞争选项之一。&lt;/strong&gt;若Anthropic正式成为AMD客户，将有助于AMD在顶级AI实验室客户群体中建立更强的市场存在感，并为其数据中心AI芯片业务带来实质性的增量收入。&lt;/p&gt;
+&lt;p&gt;Anthropic的动向折射出更广泛的行业趋势。随着OpenAI、谷歌DeepMind、Meta AI等头部机构对算力的需求持续攀升，AI公司正在系统性地评估和拓展芯片供应来源，以规避过度集中于单一供应商的风险。这一趋势客观上为AMD、英特尔等英伟达的竞争对手创造了更多进入核心AI客户供应链的机会。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 指数“跌破”年线，对A股意味着什么？关键是时长和回撤幅度</title><link>https://wallstreetcn.com/articles/3777379</link><guid>b2d2a5e34480970baf1ae5920ebcd9ba8d71ca8e75eebc9715dd82236818aa4b</guid><pubDate>Mon, 20 Jul 2026 00:48:34 GMT</pubDate><description>&lt;p&gt;上证指数上周再度&amp;quot;跌破&amp;quot;年线，市场转熊的担忧随之升温——但历史告诉我们，这件事本身并不稀奇，真正的问题是接下来跌多深、跌多久。&lt;/p&gt;
 &lt;p&gt;上证指数上周跌破年线（250日均线），引发市场对牛熊切换的担忧。国盛证券策略团队（分析师王程锦、杨柳）7月19日发布研报，梳理了2000年以来的历史经验，给出了判断框架。&lt;/p&gt;
 &lt;strong&gt;“跌破”年线，在牛市里并不罕见&lt;/strong&gt;
 &lt;p&gt;首先需要厘清一个认知误区：&lt;strong&gt;跌破年线≠熊市信号。&lt;/strong&gt;&lt;/p&gt;
