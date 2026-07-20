@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 06:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 沪指午后翻绿，“煤电酒油”爆发，科技股再度下跌，恒科指涨超2%，科网股集体拉升</title><link>https://wallstreetcn.com/articles/3777388</link><guid>623dee5e5f61594fc4df832db3d118b2f2c7bedb5feb2c8f048c3674053ad47c</guid><pubDate>Mon, 20 Jul 2026 05:48:14 GMT</pubDate><description>&lt;p&gt;A股在&lt;a href="https://wallstreetcn.com/articles/3777378"&gt;两大央企国新和诚通宣布继续增持&lt;/a&gt;、证监会召开座谈会等多重利好提振下集体高开，随后走势明显分化：沪指、沪深300在能源与消费权重股带动下维持强势，深成指和创业板冲高回落，算力硬件、芯片半导体等科技股再度回落。港股科网股大幅走高，阿里涨超5%，消息面上，7月19日，阿里巴巴发布旗舰大模型&lt;a href="https://wallstreetcn.com/articles/3777381"&gt;Qwen3.8 Max预览版&lt;/a&gt;，参数规模高达2.4万亿，官方称其定位为&amp;quot;当今最强大的模型之一，可与领先的前沿AI模型媲美&amp;quot;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 06:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] 鸿海首度拿下SpaceX AI服务器代工订单，规模达520亿美元</title><link>https://wallstreetcn.com/articles/3777408</link><guid>e3febf1fb5d9ad18f5e7fcbc14223ac03026ab4fb8381c6c5b33bff8869c3a8f</guid><pubDate>Mon, 20 Jul 2026 06:20:40 GMT</pubDate><description>&lt;p&gt;鸿海再度斩获重量级AI大单，首次打入SpaceX供应链，不仅补全其在全球主要云端服务商客户版图上的关键缺口，也将使其AI业务规模超出此前市场预期。&lt;/p&gt;
+&lt;p&gt;据中国台湾《经济日报》报道，&lt;strong&gt;SpaceX首席执行官马斯克计划新建逾1.3万柜搭载英伟达GB300的AI服务器，以单柜400万美元估算，订单总规模高达520亿美元（约合新台币1.7万亿元），全部委托鸿海代工。&lt;/strong&gt;消息人士指出，此前鸿海AI事业的营收指引并未涵盖SpaceX订单，随着这笔大单落定，鸿海AI业务动能将显著强于原有预期。&lt;/p&gt;
+&lt;p&gt;此单对鸿海具有战略意义。SpaceX的AI服务器代工业务此前由戴尔、美超微两家美系厂商寡占，鸿海的加入打破了这一格局，同时令其在北美主要云端客户的订单布局趋于完整。鸿海方面向来不评论单一客户动向，仅强调目前AI服务器业务订单强劲。&lt;/p&gt;
+
+订单规模与出货时程
+
+&lt;p&gt;据报道，SpaceX今年持续扩充算力，GB300订单规模已上调至约1.3万柜，出货时程预计落在今年下半年至明年第一季。为满足这一需求，SpaceX主动找上鸿海集团，就AI服务器制造展开洽商。&lt;/p&gt;
+&lt;p&gt;SpaceX在扩充自身算力的同时，亦同步拓展算力租借服务。近期其已与美国国防部就提供AI数据中心算力展开洽商，协助五角大厦推进AI模型部署，并分别与Anthropic及谷歌签署类似协议，并计划大幅扩充云端运算服务事业。&lt;/p&gt;
+
+业绩能见度持续改善
+
+&lt;p&gt;法人指出，鸿海董事长刘扬伟此前给出的AI事业营收指引并不包含SpaceX订单，随着该笔订单确认，市场对鸿海下半年乃至明年业绩的预期存在上调空间。&lt;/p&gt;
+&lt;p&gt;就已披露的财务数据而言，鸿海今年首季税后纯益达499.19亿元新台币，创同期历史新高，季增10%，年增19%，每股纯益3.56元，主要受益于AI服务器放量。旗下重要参股公司工业富联近日发布2026年上半年度业绩预增公告，预计第二季归属母公司净利为人民币128亿至138亿元，年增86%至101%，提前预示鸿海第二季亦将录得亮眼成绩。&lt;/p&gt;
+&lt;p&gt;刘扬伟此前预告，2026年鸿海在全球AI服务器市场的市占率将超过四成，全年AI机柜出货有望实现倍数成长，年底前出货量将逐季提升。目前以AI服务器为主的云端网络产品类别已成为鸿海四大产品线中占比最大的业务板块，且预期占比将持续提高。&lt;/p&gt;
+
+技术布局支撑长期竞争力
+
+&lt;p&gt;在承接大规模AI服务器订单的背后，鸿海依托的是其分散全球的庞大制造产能，以及在光通信、散热等AI关键方案上的自有技术，具备向客户提供一站式服务的能力。&lt;/p&gt;
+&lt;p&gt;值得关注的是，鸿海今年正大力布局共同封装光学（CPO）市场，该技术被视为下一代高速数据传输的核心方案，亦是鸿海未来进一步拓展AI基础设施业务的重要技术储备。法人普遍看好，伴随SpaceX订单加持，鸿海下半年业绩动能将持续强于预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 百亿私募掌门人自掏2200万，“大V派”大佬梁宏调仓新动向</title><link>https://wallstreetcn.com/articles/3777415</link><guid>0d3ab8d4f764cd17240c9d82cd2d2aec4ff707e8394ec8b4bf69847e27f3e242</guid><pubDate>Mon, 20 Jul 2026 06:30:16 GMT</pubDate><description>&lt;p&gt;百亿私募的“抄底”名单上，又添了一家百亿机构。&lt;/p&gt;
+&lt;p&gt;知名私募大腕梁宏在半年度交流会上透露，团队从去年底开始布局存储芯片方向并取得重要收益后，已经选择分批减仓，以规避后续波动风险。&lt;/p&gt;
+&lt;p&gt;交流会之后不久，上海希瓦私募基金管理中心（以下简称希瓦私募）于7月15日发布公告，公司和基金经理梁宏使用自有资金申购希瓦私募旗下梁宏作为基金经理管理的私募基金产品份额，共计2200万元。&lt;/p&gt;
+&lt;p&gt;在存储板块斩获丰厚收益后，梁宏此次大手笔自购旗下产品，后续的持仓逻辑调整与核心赛道选择，或成为市场关注焦点。&lt;/p&gt;
+&lt;strong&gt;梁宏的“手中牌”&lt;/strong&gt;
+&lt;p&gt;资料显示，梁宏曾经是知名投资社交平台上的大V，后注意力转向私募，并成为这轮转型中规模较为领先者。&lt;/p&gt;
+&lt;p&gt;梁宏创立的希瓦私募成立于2014年12月，2015年2月注册为&lt;a href="https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%9F%BA%E9%87%91%E4%B8%9A%E5%8D%8F%E4%BC%9A/10959240?fromModule=lemma_inlink"&gt;中国基金业协会&lt;/a&gt;合格私募投资基金管理人，目前管理规模超过100亿元。&lt;/p&gt;
+&lt;p&gt;梁宏作为公司首席投资官，旗下核心产品为小牛系列、大牛系列，投资范围覆盖A股、港股、美股三大市场。&lt;/p&gt;
+&lt;p&gt;另外，渠道信息显示，当前梁宏管理的私募基金组合的核心仓位或仍是AI硬件，整体占比维持在五到六成。&lt;strong&gt;但&lt;/strong&gt;&lt;strong&gt;细分方向发生调整&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;上半年的绝对主力存储芯片&lt;/strong&gt;&lt;strong&gt;占比大幅下降，&lt;/strong&gt;&lt;strong&gt;仓位转向&lt;/strong&gt;&lt;strong&gt;先进制程&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;逻辑晶圆代工&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;高端封装领域&lt;/strong&gt;&lt;strong&gt;以及&lt;/strong&gt;&lt;strong&gt;具备转型潜力的传统硬件企业&lt;/strong&gt;。&lt;/p&gt;
+&lt;strong&gt;启动调仓？&lt;/strong&gt;
+&lt;p&gt;据悉，梁宏近期的配置除专注AI硬件之外，港股互联网龙头是上半年另一个重大加仓方向。&lt;/p&gt;
+&lt;p&gt;二季度梁宏大幅加仓30%仓位至两家国内大型互联网公司的港股，使港股总仓位提升到组合的两到三成。&lt;/p&gt;
+&lt;p&gt;尽管存储芯片是希瓦私募2026上半年最重要的收益来源，年中梁宏却选择减持该板块。&lt;/p&gt;
+&lt;p&gt;一方面梁宏提出“存储税”判断，认为韩国两家存储巨头拿走了AI硬件产业链中过高的利润份额，存储价格持续上涨导致全产业链利润分配失衡，这种格局难以长期持续。&lt;/p&gt;
+&lt;p&gt;另一方面是提升投资主动性，2025年业绩不佳期，让梁宏优化了投资策略，不再长期“躺平”持股，每季度评估持仓性价比，及时止盈或离场。&lt;/p&gt;
+&lt;p&gt;而他的关注重点也从波动较大的存储板块，转向产能扩张慢、供给紧张、景气度更稳定的先进制造及AI硬件上游环节，正是这一策略的体现。&lt;/p&gt;
+&lt;strong&gt;两大段赚钱历程：&lt;/strong&gt;&lt;strong&gt;美股交易&lt;/strong&gt;&lt;strong&gt;和A股投资&lt;/strong&gt;
+&lt;p&gt;不止于大V，梁宏的其他履历在私募圈里也辨识度很高。&lt;/p&gt;
+&lt;p&gt;2001年梁宏毕业于上海交通大学管理学院。2005年入行做美股职业交易员，6年从业经历不仅为他积累了创业与投资的第一桶金，也为其后续兼顾成长股与价值股的投资风格打下基础。&lt;/p&gt;
+&lt;p&gt;之后梁宏带着资金回国尝试实业创业，从婚介所到天猫网店再到减肥茶，多数“铩羽”。2012年梁宏从雪球大V重启，凭借鲜明犀利的的投资观点迅速聚拢粉丝，个人资产据说也从低谷重新累积到超千万元。&lt;/p&gt;
+&lt;p&gt;2014年底梁宏创立海南希瓦私募基金管理有限责任公司，2017年成立上海希瓦私募基金管理中心。2017年他重仓内房股，某标的年内涨数倍，希瓦私募也曾斩获当年私募收益领头羊。2019年新城控股黑天鹅事件中，他果断卖出股票转买公司债券，三个多月获利25%，名望日隆。&lt;/p&gt;
+&lt;strong&gt;也曾多次净值“重挫”&lt;/strong&gt;
+&lt;p&gt;但梁宏集中持仓投资风格是把双刃剑。&lt;/p&gt;
+&lt;p&gt;2022年港股大跌期间多只产品亏损超20%，他承认&amp;quot;高位没有大幅减仓是最大错误&amp;quot;。&lt;/p&gt;
+&lt;p&gt;2025年再因创新药、硬件龙头和稳定币三笔重仓踩雷，累计回撤约20%，他也再次向投资人致歉。&lt;/p&gt;
+&lt;p&gt;在外界看来，梁宏的投资风格非常鲜明，涨的时候净值凌厉，跌的时候也“气势如虹”，投资于他需要有较好的波动承受能力。&lt;/p&gt;
+&lt;strong&gt;行业趋势昭然&lt;/strong&gt;
+&lt;p&gt;梁宏此次自购，背后还有一个行业趋势，就是业内在围绕AI产业链完成大规模布局，现在又走到一个十字路口。&lt;/p&gt;
+&lt;p&gt;是继续重仓AI?&lt;/p&gt;
+&lt;p&gt;还是悄然移仓再平衡？&lt;/p&gt;
+&lt;p&gt;一切答案仍需观察。&lt;/p&gt;
+&lt;p&gt;另外，希瓦私募并非今年唯一自购的私募。私募排排网数据显示，截至7月15日，年内共有8家私募机构发布自购公告，合计金额达1.62亿元。其中大规模私募构成了自购主力。&lt;/p&gt;
+&lt;p&gt;未来梁宏与希瓦私募会带来怎样的收益表现，值得持续关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指午后翻绿，“煤电酒油”爆发，科技股再度下跌，恒科指涨超2%，科网股集体拉升</title><link>https://wallstreetcn.com/articles/3777388</link><guid>623dee5e5f61594fc4df832db3d118b2f2c7bedb5feb2c8f048c3674053ad47c</guid><pubDate>Mon, 20 Jul 2026 05:48:14 GMT</pubDate><description>&lt;p&gt;A股在&lt;a href="https://wallstreetcn.com/articles/3777378"&gt;两大央企国新和诚通宣布继续增持&lt;/a&gt;、证监会召开座谈会等多重利好提振下集体高开，随后走势明显分化：沪指、沪深300在能源与消费权重股带动下维持强势，深成指和创业板冲高回落，算力硬件、芯片半导体等科技股再度回落。港股科网股大幅走高，阿里涨超5%，消息面上，7月19日，阿里巴巴发布旗舰大模型&lt;a href="https://wallstreetcn.com/articles/3777381"&gt;Qwen3.8 Max预览版&lt;/a&gt;，参数规模高达2.4万亿，官方称其定位为&amp;quot;当今最强大的模型之一，可与领先的前沿AI模型媲美&amp;quot;。&lt;/p&gt;
 &lt;p&gt;7月20日，A股午后震荡回落，三大股指全线走低，沪指转跌，深成指、创业板跌超1%，资金从高位科技股向低位能源、消费、央企板块切换，&amp;quot;煤电酒油&amp;quot;成为早盘最强主线。算力硬件、芯片半导体等科技股盘初大反弹，随后全线下挫，电路板、覆铜板、HBM、半导体材料等方向大幅走低。&lt;/p&gt;
 &lt;p&gt;港股午后涨幅有所收窄，恒指、恒科指早盘亦双双走高，恒指涨2%，恒科指涨近3%，午后涨幅有所回落，科网股集体反弹，阿里大涨超5%，美团、腾讯、京东等悉数上涨。新消费概念走强，沪上阿姨涨近30%。生物科技板块大涨，芯片半导体有所回升，AI大模型股承压。债市方面，国债期货普遍下跌。商品方面，国内商品期货多数上涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -79,25 +129,58 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开1.11%，恒生科技指数涨2.2%。科网股集体反弹，华虹宏力、小鹏集团涨逾4%，京东健康、商汤、阿里巴巴涨逾3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 鸿海首度拿下SpaceX AI服务器代工订单，规模达520亿美元</title><link>https://wallstreetcn.com/articles/3777408</link><guid>e3febf1fb5d9ad18f5e7fcbc14223ac03026ab4fb8381c6c5b33bff8869c3a8f</guid><pubDate>Mon, 20 Jul 2026 06:20:40 GMT</pubDate><description>&lt;p&gt;鸿海再度斩获重量级AI大单，首次打入SpaceX供应链，不仅补全其在全球主要云端服务商客户版图上的关键缺口，也将使其AI业务规模超出此前市场预期。&lt;/p&gt;
-&lt;p&gt;据中国台湾《经济日报》报道，&lt;strong&gt;SpaceX首席执行官马斯克计划新建逾1.3万柜搭载英伟达GB300的AI服务器，以单柜400万美元估算，订单总规模高达520亿美元（约合新台币1.7万亿元），全部委托鸿海代工。&lt;/strong&gt;消息人士指出，此前鸿海AI事业的营收指引并未涵盖SpaceX订单，随着这笔大单落定，鸿海AI业务动能将显著强于原有预期。&lt;/p&gt;
-&lt;p&gt;此单对鸿海具有战略意义。SpaceX的AI服务器代工业务此前由戴尔、美超微两家美系厂商寡占，鸿海的加入打破了这一格局，同时令其在北美主要云端客户的订单布局趋于完整。鸿海方面向来不评论单一客户动向，仅强调目前AI服务器业务订单强劲。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读新易盛财报：Q2利润大超预期，800G/1.6T 光模块出货量将持续提升</title><link>https://wallstreetcn.com/articles/3777393</link><guid>a5a6f6fe4bbc5c5c0a3cd938aeb0b517fdbb2f6553f4e8fc7ecfded212416271</guid><pubDate>Mon, 20 Jul 2026 03:04:23 GMT</pubDate><description>&lt;p&gt;基于新易盛最新公布的上半年净利润预估，高盛全面上调了2026至2028年的利润预测，并上调新易盛12个月目标价。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777355"&gt;华尔街见闻&lt;/a&gt;文章此前写道，新易盛7月19日披露2026年半年度业绩预告，预计2026年上半年归母净利润达70-80亿元，同比增长77.56%-102.93%，扣非净利润增速基本同步，主营增长成色充足。AI算力投资持续增长与产品结构优化为核心驱动力，高速率光模块需求强劲，公司作为产业链重要厂商持续受益于行业高景气。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，高盛在7月20日的研报中指出，受AI资本支出激增及产品结构向高速光模块升级的强力驱动，&lt;strong&gt;新易盛2026年二季度净利润指引中位数大幅超出预期44%&lt;/strong&gt;。随着光芯片供应的改善和公司产能的扩张，800G及1.6T光模块的出货量正在加速攀升。&lt;/p&gt;
+&lt;p&gt;基于强劲的基本面和出货预期，高盛全面上调了&lt;strong&gt;新易盛2026至2028年的利润预测&lt;/strong&gt;，并将12个月目标价从600.71元大幅上调至633.0元，重申维持“买入”评级。这标志着在AI算力需求持续爆发的背景下，新易盛高端产品的加速放量将为其带来极高的业绩确定性与估值溢价空间。&lt;/p&gt;
+Q2净利润大幅超预期：AI资本开支驱动需求爆发
+&lt;p&gt;新易盛披露2026年上半年净利润预告区间为70亿至80亿元人民币。结合已披露的2026年第一季度净利润27.74亿元，可推算第二季度净利润区间为&lt;strong&gt;42亿至62亿元&lt;/strong&gt;，同比增幅高达&lt;strong&gt;78%至163%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;高盛指出，此次业绩超预期的核心驱动因素有两点：其一，&lt;strong&gt;AI资本开支持续扩张&lt;/strong&gt;带动高速光模块需求强劲增长；其二，&lt;strong&gt;公司产品结构持续向高速光模块升级&lt;/strong&gt;，叠加光芯片供应改善与产能扩张，推动营收和净利润环比加速增长。&lt;/p&gt;
+&lt;p&gt;从季度利润节奏来看，&lt;strong&gt;高盛预测2026年全年各季度摊薄每股收益分别为：&lt;/strong&gt;Q1为1.99元、Q2为3.34元、Q3为4.56元、Q4为4.96元，呈现出全年持续加速的增长态势。&lt;/p&gt;
+800G/1.6T光模块加速放量：下半年贡献占比将持续提升
+&lt;p&gt;高盛将本次业绩超预期的结构性原因归结为&lt;strong&gt;800G/1.6T光模块的加速爬坡&lt;/strong&gt;。随着光芯片供应瓶颈逐步缓解，以及公司自身产能扩张推进，高速光模块出货量正进入快速增长通道。&lt;/p&gt;
+&lt;p&gt;展望2026年下半年，高盛预期以下趋势将持续强化：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1.6T光模块&lt;/strong&gt;的营收贡献占比将进一步提升；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;硅光子（Silicon Photonics）产品&lt;/strong&gt;渗透率持续上行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;客户对800G+产品的需求持续旺盛，支撑出货量增长。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;尽管短期内光芯片行业供应仍然偏紧，高盛认为硅光子渗透率的提升以及行业整体产能扩张，将为后续出货量增长提供有力支撑。&lt;/p&gt;
+&lt;p&gt;从更长周期来看，高盛预判2027年起，需求将从当前以&lt;strong&gt;规模扩展（scale-out）&lt;/strong&gt;为主，逐步向&lt;strong&gt;纵向扩展（scale-up）及跨域扩展（scale across）&lt;/strong&gt;演进，为公司打开新的增量空间。&lt;/p&gt;
+&lt;p&gt;综合来看，新易盛此次业绩预告传递出三重积极信号：&lt;strong&gt;需求端&lt;/strong&gt;，AI资本开支扩张带动高速光模块需求持续旺盛；&lt;strong&gt;供给端&lt;/strong&gt;，光芯片供应改善与公司产能扩张形成双重支撑；&lt;strong&gt;结构端&lt;/strong&gt;，产品组合向800G/1.6T高价值产品快速迁移，推动毛利率稳步提升。&lt;/p&gt;
+&lt;strong&gt;全面上调利润预测，目标价升至633元&lt;/strong&gt;
+&lt;p&gt;鉴于二季度强劲的业绩指引，以及光芯片供应改善和产能扩张带来的800G/1.6T光模块出货量增加，高盛将新易盛2026、2027和2028年的盈利预测分别上调了7%、2%和2%。 具体核心预测数据如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2026年：&lt;/strong&gt; 预计营收514.57亿元人民币，净利润206.83亿元人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2027年：&lt;/strong&gt; 预计营收739.11亿元人民币，净利润300.80亿元人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2028年：&lt;/strong&gt; 预计营收849.75亿元人民币，净利润345.76亿元人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2027年及2028年营收、净利润预测均上调约2%，反映出高盛对公司中长期高速光模块出货量增长的持续乐观判断。&lt;/p&gt;
+&lt;p&gt;在估值方面，高盛采用&lt;strong&gt;近期市盈率（P/E）&lt;/strong&gt;方法对新易盛进行估值，以&lt;strong&gt;2027年预测净利润&lt;/strong&gt;为基准，目标市盈率设定为&lt;strong&gt;29.3倍&lt;/strong&gt;（此前为28.4倍），对应12个月目标价从600.71元上调至&lt;strong&gt;633元人民币&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;高盛指出，29.3倍的目标市盈率与新易盛自2018年9月以来的历史平均远期市盈率&lt;strong&gt;28倍&lt;/strong&gt;基本吻合，估值逻辑具备历史一致性。目标市盈率的确定参考了同业公司交易市盈率与远期基本面指标（净利润同比增速及营业利润率）的平均比值，以2027至2028年平均净利润增速和平均营业利润率为输入参数。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当前股价482.88元（截至2026年7月17日收盘），目标价633元对应&lt;strong&gt;31.1%的潜在上行空间&lt;/strong&gt;，公司市值约为&lt;strong&gt;6720亿元人民币（约992亿美元）&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
 
-订单规模与出货时程
 
-&lt;p&gt;据报道，SpaceX今年持续扩充算力，GB300订单规模已上调至约1.3万柜，出货时程预计落在今年下半年至明年第一季。为满足这一需求，SpaceX主动找上鸿海集团，就AI服务器制造展开洽商。&lt;/p&gt;
-&lt;p&gt;SpaceX在扩充自身算力的同时，亦同步拓展算力租借服务。近期其已与美国国防部就提供AI数据中心算力展开洽商，协助五角大厦推进AI模型部署，并分别与Anthropic及谷歌签署类似协议，并计划大幅扩充云端运算服务事业。&lt;/p&gt;
 
-业绩能见度持续改善
-
-&lt;p&gt;法人指出，鸿海董事长刘扬伟此前给出的AI事业营收指引并不包含SpaceX订单，随着该笔订单确认，市场对鸿海下半年乃至明年业绩的预期存在上调空间。&lt;/p&gt;
-&lt;p&gt;就已披露的财务数据而言，鸿海今年首季税后纯益达499.19亿元新台币，创同期历史新高，季增10%，年增19%，每股纯益3.56元，主要受益于AI服务器放量。旗下重要参股公司工业富联近日发布2026年上半年度业绩预增公告，预计第二季归属母公司净利为人民币128亿至138亿元，年增86%至101%，提前预示鸿海第二季亦将录得亮眼成绩。&lt;/p&gt;
-&lt;p&gt;刘扬伟此前预告，2026年鸿海在全球AI服务器市场的市占率将超过四成，全年AI机柜出货有望实现倍数成长，年底前出货量将逐季提升。目前以AI服务器为主的云端网络产品类别已成为鸿海四大产品线中占比最大的业务板块，且预期占比将持续提高。&lt;/p&gt;
-
-技术布局支撑长期竞争力
-
-&lt;p&gt;在承接大规模AI服务器订单的背后，鸿海依托的是其分散全球的庞大制造产能，以及在光通信、散热等AI关键方案上的自有技术，具备向客户提供一站式服务的能力。&lt;/p&gt;
-&lt;p&gt;值得关注的是，鸿海今年正大力布局共同封装光学（CPO）市场，该技术被视为下一代高速数据传输的核心方案，亦是鸿海未来进一步拓展AI基础设施业务的重要技术储备。法人普遍看好，伴随SpaceX订单加持，鸿海下半年业绩动能将持续强于预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工信部：推动建立算力市场化定价标准，着力培育全国一体化技术市场</title><link>https://wallstreetcn.com/articles/3777398</link><guid>82f872b515ba8f9c0dc699704680528e41458e02e9a24a62e482a39666b401e3</guid><pubDate>Mon, 20 Jul 2026 03:32:30 GMT</pubDate><description>&lt;p&gt;国务院新闻办公室7月20日（星期一）上午10时举行新闻发布会，工业和信息化部总工程师王卫明介绍2026年上半年工业和信息化发展情况，并答记者问。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工信部：推动建立算力市场化定价标准，着力培育全国一体化技术市场</title><link>https://wallstreetcn.com/articles/3777398</link><guid>82f872b515ba8f9c0dc699704680528e41458e02e9a24a62e482a39666b401e3</guid><pubDate>Mon, 20 Jul 2026 03:32:30 GMT</pubDate><description>&lt;p&gt;国务院新闻办公室7月20日（星期一）上午10时举行新闻发布会，工业和信息化部总工程师王卫明介绍2026年上半年工业和信息化发展情况，并答记者问。&lt;/p&gt;
 &lt;p&gt;数据显示，工业经济整体平稳，盈利能力持续改善，前5个月规模以上工业企业营业收入利润率达5.66%，为2024年以来月度累计最高水平。&lt;/p&gt;
 &lt;p&gt;工业和信息化部总工程师王卫明在发布会上表示，当前“外部环境复杂严峻，国内供强需弱、结构性矛盾仍然突出”，但“工业经济发展稳中向好的基本面没有改变”。他同时宣布，工信部正加紧制定培育全国一体化技术市场的政策文件，着力破除技术交易中的区域壁垒和制度障碍。&lt;/p&gt;
 &lt;p&gt;在人工智能领域，规模以上制造业企业AI技术应用普及率已超过30%，人工智能开源大模型全球累计下载量突破100亿次。智能算力规模达2185EFLOPS，同比增长177%。将印发算力标准体系建设指南，推动建立算力市场化定价等标准。&lt;/p&gt;
@@ -265,58 +348,7 @@
 &lt;p&gt;2026-07-20 10:59:32&lt;/p&gt;
 &lt;p&gt;贾惠丽:&lt;/p&gt;
 &lt;p&gt;今天的发布会就到这里，感谢各位发布人，感谢媒体记者朋友们的参与。大家再见。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读新易盛财报：Q2利润大超预期，800G/1.6T 光模块出货量将持续提升</title><link>https://wallstreetcn.com/articles/3777393</link><guid>a5a6f6fe4bbc5c5c0a3cd938aeb0b517fdbb2f6553f4e8fc7ecfded212416271</guid><pubDate>Mon, 20 Jul 2026 03:04:23 GMT</pubDate><description>&lt;p&gt;基于新易盛最新公布的上半年净利润预估，高盛全面上调了2026至2028年的利润预测，并上调新易盛12个月目标价。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777355"&gt;华尔街见闻&lt;/a&gt;文章此前写道，新易盛7月19日披露2026年半年度业绩预告，预计2026年上半年归母净利润达70-80亿元，同比增长77.56%-102.93%，扣非净利润增速基本同步，主营增长成色充足。AI算力投资持续增长与产品结构优化为核心驱动力，高速率光模块需求强劲，公司作为产业链重要厂商持续受益于行业高景气。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，高盛在7月20日的研报中指出，受AI资本支出激增及产品结构向高速光模块升级的强力驱动，&lt;strong&gt;新易盛2026年二季度净利润指引中位数大幅超出预期44%&lt;/strong&gt;。随着光芯片供应的改善和公司产能的扩张，800G及1.6T光模块的出货量正在加速攀升。&lt;/p&gt;
-&lt;p&gt;基于强劲的基本面和出货预期，高盛全面上调了&lt;strong&gt;新易盛2026至2028年的利润预测&lt;/strong&gt;，并将12个月目标价从600.71元大幅上调至633.0元，重申维持“买入”评级。这标志着在AI算力需求持续爆发的背景下，新易盛高端产品的加速放量将为其带来极高的业绩确定性与估值溢价空间。&lt;/p&gt;
-Q2净利润大幅超预期：AI资本开支驱动需求爆发
-&lt;p&gt;新易盛披露2026年上半年净利润预告区间为70亿至80亿元人民币。结合已披露的2026年第一季度净利润27.74亿元，可推算第二季度净利润区间为&lt;strong&gt;42亿至62亿元&lt;/strong&gt;，同比增幅高达&lt;strong&gt;78%至163%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛指出，此次业绩超预期的核心驱动因素有两点：其一，&lt;strong&gt;AI资本开支持续扩张&lt;/strong&gt;带动高速光模块需求强劲增长；其二，&lt;strong&gt;公司产品结构持续向高速光模块升级&lt;/strong&gt;，叠加光芯片供应改善与产能扩张，推动营收和净利润环比加速增长。&lt;/p&gt;
-&lt;p&gt;从季度利润节奏来看，&lt;strong&gt;高盛预测2026年全年各季度摊薄每股收益分别为：&lt;/strong&gt;Q1为1.99元、Q2为3.34元、Q3为4.56元、Q4为4.96元，呈现出全年持续加速的增长态势。&lt;/p&gt;
-800G/1.6T光模块加速放量：下半年贡献占比将持续提升
-&lt;p&gt;高盛将本次业绩超预期的结构性原因归结为&lt;strong&gt;800G/1.6T光模块的加速爬坡&lt;/strong&gt;。随着光芯片供应瓶颈逐步缓解，以及公司自身产能扩张推进，高速光模块出货量正进入快速增长通道。&lt;/p&gt;
-&lt;p&gt;展望2026年下半年，高盛预期以下趋势将持续强化：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1.6T光模块&lt;/strong&gt;的营收贡献占比将进一步提升；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;硅光子（Silicon Photonics）产品&lt;/strong&gt;渗透率持续上行；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;客户对800G+产品的需求持续旺盛，支撑出货量增长。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;尽管短期内光芯片行业供应仍然偏紧，高盛认为硅光子渗透率的提升以及行业整体产能扩张，将为后续出货量增长提供有力支撑。&lt;/p&gt;
-&lt;p&gt;从更长周期来看，高盛预判2027年起，需求将从当前以&lt;strong&gt;规模扩展（scale-out）&lt;/strong&gt;为主，逐步向&lt;strong&gt;纵向扩展（scale-up）及跨域扩展（scale across）&lt;/strong&gt;演进，为公司打开新的增量空间。&lt;/p&gt;
-&lt;p&gt;综合来看，新易盛此次业绩预告传递出三重积极信号：&lt;strong&gt;需求端&lt;/strong&gt;，AI资本开支扩张带动高速光模块需求持续旺盛；&lt;strong&gt;供给端&lt;/strong&gt;，光芯片供应改善与公司产能扩张形成双重支撑；&lt;strong&gt;结构端&lt;/strong&gt;，产品组合向800G/1.6T高价值产品快速迁移，推动毛利率稳步提升。&lt;/p&gt;
-&lt;strong&gt;全面上调利润预测，目标价升至633元&lt;/strong&gt;
-&lt;p&gt;鉴于二季度强劲的业绩指引，以及光芯片供应改善和产能扩张带来的800G/1.6T光模块出货量增加，高盛将新易盛2026、2027和2028年的盈利预测分别上调了7%、2%和2%。 具体核心预测数据如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2026年：&lt;/strong&gt; 预计营收514.57亿元人民币，净利润206.83亿元人民币。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2027年：&lt;/strong&gt; 预计营收739.11亿元人民币，净利润300.80亿元人民币。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2028年：&lt;/strong&gt; 预计营收849.75亿元人民币，净利润345.76亿元人民币。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;2027年及2028年营收、净利润预测均上调约2%，反映出高盛对公司中长期高速光模块出货量增长的持续乐观判断。&lt;/p&gt;
-&lt;p&gt;在估值方面，高盛采用&lt;strong&gt;近期市盈率（P/E）&lt;/strong&gt;方法对新易盛进行估值，以&lt;strong&gt;2027年预测净利润&lt;/strong&gt;为基准，目标市盈率设定为&lt;strong&gt;29.3倍&lt;/strong&gt;（此前为28.4倍），对应12个月目标价从600.71元上调至&lt;strong&gt;633元人民币&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛指出，29.3倍的目标市盈率与新易盛自2018年9月以来的历史平均远期市盈率&lt;strong&gt;28倍&lt;/strong&gt;基本吻合，估值逻辑具备历史一致性。目标市盈率的确定参考了同业公司交易市盈率与远期基本面指标（净利润同比增速及营业利润率）的平均比值，以2027至2028年平均净利润增速和平均营业利润率为输入参数。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;当前股价482.88元（截至2026年7月17日收盘），目标价633元对应&lt;strong&gt;31.1%的潜在上行空间&lt;/strong&gt;，公司市值约为&lt;strong&gt;6720亿元人民币（约992亿美元）&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 指数“跌破”年线，对A股意味着什么？关键是时长和回撤幅度</title><link>https://wallstreetcn.com/articles/3777379</link><guid>b2d2a5e34480970baf1ae5920ebcd9ba8d71ca8e75eebc9715dd82236818aa4b</guid><pubDate>Mon, 20 Jul 2026 00:48:34 GMT</pubDate><description>&lt;p&gt;上证指数上周再度&amp;quot;跌破&amp;quot;年线，市场转熊的担忧随之升温——但历史告诉我们，这件事本身并不稀奇，真正的问题是接下来跌多深、跌多久。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 指数“跌破”年线，对A股意味着什么？关键是时长和回撤幅度</title><link>https://wallstreetcn.com/articles/3777379</link><guid>b2d2a5e34480970baf1ae5920ebcd9ba8d71ca8e75eebc9715dd82236818aa4b</guid><pubDate>Mon, 20 Jul 2026 00:48:34 GMT</pubDate><description>&lt;p&gt;上证指数上周再度&amp;quot;跌破&amp;quot;年线，市场转熊的担忧随之升温——但历史告诉我们，这件事本身并不稀奇，真正的问题是接下来跌多深、跌多久。&lt;/p&gt;
 &lt;p&gt;上证指数上周跌破年线（250日均线），引发市场对牛熊切换的担忧。国盛证券策略团队（分析师王程锦、杨柳）7月19日发布研报，梳理了2000年以来的历史经验，给出了判断框架。&lt;/p&gt;
 &lt;strong&gt;“跌破”年线，在牛市里并不罕见&lt;/strong&gt;
 &lt;p&gt;首先需要厘清一个认知误区：&lt;strong&gt;跌破年线≠熊市信号。&lt;/strong&gt;&lt;/p&gt;
@@ -466,27 +498,4 @@ Kimi K3引爆需求，订阅通道主动熔断
 
 &lt;p&gt;月之暗面计划于7月27日以开放权重形式发布Kimi K3，允许企业和政府在自有系统上定制部署。这一路径与DeepSeek此前的开源策略高度相似，再度引发市场对&amp;quot;DeepSeek时刻&amp;quot;重演的担忧。&lt;/p&gt;
 &lt;p&gt;低成本、高性能、开源三者叠加，构成对现有AI算力定价权的直接挑战。在此前的DeepSeek冲击中，市场已经历过一轮对大规模算力投资必要性的质疑，相关AI基础设施股票估值承压。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，Kimi此番事件提供了一个更为复杂的分析框架：算力扩张本身或许不再是AI竞争的充分条件，但架构效率的突破所带来的需求爆发，依然可能令算力供给捉襟见肘。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 退钱不玩了！韩国散户杠杆押注SK海力士、三星血亏，单只杠杆ETF较高点跌70%</title><link>https://wallstreetcn.com/articles/3777405</link><guid>48c22e9b8fbcee4aa5c5c6af5d026f95a37a9d98f18c7999ef866f78fbfc68e8</guid><pubDate>Mon, 20 Jul 2026 06:21:03 GMT</pubDate><description>&lt;p&gt;韩国散户投资者在AI芯片热潮中大举加杠杆押注本土科技龙头，如今正承受惨重亏损，这场豪赌的代价正在集中显现。&lt;/p&gt;
-&lt;p&gt;损失最为惨烈的，是挂钩SK海力士和三星电子的单股杠杆ETF持有者。据LSEG数据显示，&lt;strong&gt;KODEX SK海力士单股杠杆ETF自6月高点以来已累计下跌约70%，较上市首日亦跌去约50%&lt;/strong&gt;。据CNBC报道，上周SK海力士单日创纪录暴跌后，&lt;strong&gt;韩国各大网络投资论坛哀鸿遍野&lt;/strong&gt;，有投资者留言写道：&amp;quot;我想回到开始炒股之前，把我的钱还给我。&amp;quot;另一名投资者则写道：&amp;quot;你是铁了心要弄死我。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次亏损暴露了韩国散户投机文化对科技权重股波动的放大效应。&lt;/strong&gt;监管层已迅速介入——韩国当局本周四宣布收紧单股杠杆ETF交易规则，将投资者最低入场保证金从此前实际约3万韩元大幅提升至30万韩元。与此同时，部分市场资深人士警告，此轮去杠杆进程或尚未结束。&lt;/p&gt;
-散户主导买入，亏损集中于韩国国内个人投资者
-&lt;p&gt;据KB金融集团数据显示，自今年5月27日单股杠杆ETF在韩国上市以来，韩国散户投资者净买入规模达14万亿韩元（约合94亿美元），而外资净买入规模仅约2万亿韩元，这一悬殊比例意味着，此轮下跌的损失几乎全部由国内个人投资者承担。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;承受亏损的投资者，压倒性地是国内散户&lt;/strong&gt;，&amp;quot;Fibonacci资产管理公司创始人Jung In Yun表示。&lt;/p&gt;
-&lt;p&gt;值得注意的是，这批买家并非单纯的新手散户。Jung In Yun指出，其中许多是40至50岁的中年投资者，&lt;strong&gt;他们对杠杆操作和集中押注科技股已越来越习以为常，并非仅仅是追逐网络热点的入门者。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;部分市场老将对后市持更为悲观的看法。&lt;/strong&gt;Great Hill Capital董事长兼管理合伙人Thomas J. Hayes指出，&lt;strong&gt;存储芯片股已成为机构和散户共同押注最为拥挤的交易。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;半导体和存储是全球机构与散户仓位最拥挤的交易，这已经结束了，&amp;quot;Hayes表示。&lt;/p&gt;
-&lt;p&gt;他预计，&lt;strong&gt;除Meta之外，一家或多家超大规模云计算企业将在二季度业绩指引中下调资本支出承诺，届时资金撤出半导体和存储板块的速度，将与此前&amp;quot;涌入&amp;quot;时同样激进。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析师普遍认为，存储芯片厂商的长期基本面仍然完好，但短期内杠杆仓位的持续消化，仍将对韩国科技股构成压力。&lt;/p&gt;
-杠杆ETF规模急速膨胀，央行已发出警告
-&lt;p&gt;&lt;strong&gt;杠杆ETF在韩国市场的扩张速度同样引人警惕。&lt;/strong&gt;据牛津经济研究院数据，25只规模最大的韩国杠杆ETF资产占韩国主题基金的比重，已从2026年初的约15%攀升至6月的约30%，半年内翻倍。&lt;/p&gt;
-&lt;p&gt;韩国央行上月发布报告警告，散户杠杆炒股规模已升至历史高位，主要由融资借贷驱动，且仓位高度集中于半导体板块。&lt;/p&gt;
-&lt;p&gt;央行表示，尽管目前这一风险累积不太可能对金融体系构成系统性威胁，但警告称，一旦市场出现调整，杠杆将显著放大波动——尤其是当&amp;quot;害怕错过&amp;quot;（FOMO）情绪驱使投资者借钱追涨时。&lt;/p&gt;
-&lt;p&gt;牛津经济研究院则在6月底将韩国股市评级下调至中性，理由是杠杆仓位已大幅累积，且券商可能日益不愿向散户继续提供信用额度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;面对市场剧烈波动，韩国监管机构已采取行动。&lt;/strong&gt;监管当局已经宣布，针对单股杠杆ETF推出更严格规则：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;投资者交易此类产品须缴纳最低30万韩元现金保证金，较此前实际约3万韩元的门槛提高十倍。此举旨在遏制散户投机交易，防止三星电子和SK海力士等个股的剧烈波动进一步向杠杆产品传导。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;KB金融集团全球投资策略主管Peter Kim表示，此次亏损凸显出单股杠杆ETF已沦为投机工具，而非长期投资载体。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;目前没有迹象显示韩国散户正在大规模撤离市场，但如果ETF的压力持续、跌势和波动延续，可能导致市场陷入长期低迷。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对于投资者而言，Kimi此番事件提供了一个更为复杂的分析框架：算力扩张本身或许不再是AI竞争的充分条件，但架构效率的突破所带来的需求爆发，依然可能令算力供给捉襟见肘。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
