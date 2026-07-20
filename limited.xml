@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 21:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 20 Jul 2026 22:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -116,7 +116,44 @@ AI动量解仓进入成熟阶段，半导体有望触底
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华特气体：预计上半年营收同比增长28.95%，归母净利润增长19.36% | 财报见闻</title><link>https://wallstreetcn.com/articles/3777455</link><guid>7908b93ea5b216a2a535773377fc2e6e6f03fd481ff82f8d60643239db85e30f</guid><pubDate>Mon, 20 Jul 2026 12:14:16 GMT</pubDate><description>&lt;p&gt;A股特气龙头华特气体公布业绩预增报告：预计上半年实现营业收入约8.72亿元，同比大增近29%。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
+&lt;p&gt;据称，新关税将自美东时间8月19日凌晨00时01分起生效，并将在现有相关关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
+&lt;p&gt;美国官员在与媒体举行的电话会上表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“通过这一举措，特朗普总统正在为美国关键出口产品——包括汽车、酒类和乳制品——创造更加公平的竞争环境。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;美国总统特朗普当天签署了三项公告，不同类别的加拿大商品将分别被征收关税，涉及的商品范围从葡萄酒、冰球球杆到水泥等；不适用于能源、钾肥和关键矿物等。&lt;/p&gt;
+&lt;p&gt;一位官员称：“加拿大必须为这种持续存在的歧视性做法承担责任。”&lt;/p&gt;
+加拿大安大略省省长敦促采取反制措施
+
+
+
+
+&lt;p&gt;加拿大安大略省省长道格·福特（Doug Ford）立即敦促加拿大采取反制措施。福特在社交平台X上发文表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“如果这些关税最终实施，加拿大就应该以关税还击关税、以美元还击美元”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;福特此前一直主张，加拿大应针对美国已实施的其他关税措施采取更强硬的报复性反制。&lt;/p&gt;
+
+
+
+
+美加摩擦不断升级
+&lt;p&gt;随着特朗普大规模加征关税的政策持续推进，以及公开表达对美国、加拿大和墨西哥三国贸易协定的不满，美加这一长期盟友和重要贸易伙伴关系日益紧张，双方摩擦不断升级。&lt;/p&gt;
+&lt;p&gt;本月早些时候，特朗普政府宣布将不再续签《美国—墨西哥—加拿大协定》，而是启动一系列年度审查程序，为这项贸易协定的未来蒙上阴影。&lt;/p&gt;
+&lt;p&gt;上周，特朗普还猛烈抨击加拿大，指责安大略省西北部持续蔓延的野火导致美国大片地区空气污染严重。&lt;/p&gt;
+&lt;p&gt;特朗普声称，这一问题已给美国造成数十亿美元损失，并在其社交平台Truth Social上发文称，这些成本“必须计入加拿大目前正在支付的关税之中”。&lt;/p&gt;
+&lt;p&gt;不过，在周一与媒体的电话会上，一位特朗普政府高级官员明确表示，此次新宣布的对部分加拿大商品加征50%关税与野火问题无关，但补充称，特朗普“已要求相关部门就此提出应对方案”。&lt;/p&gt;
+本次关税授权此前从未被动用
+&lt;p&gt;这些关税依据《1930年关税法》第338条实施。其赋予美国总统权力，可对被认定存在歧视美国行为国家的商品征收最高50%的关税。&lt;/p&gt;
+&lt;p&gt;这一鲜为人知的关税授权长期以来几乎从未被动用。&lt;/p&gt;
+&lt;p&gt;美国科文顿·柏灵律师事务所律师John Veroneau和Catherine Gibson在2016年的一篇文章中写道，第338条“数十年来一直处于闲置状态”。他们还表示，自1949年以来，没有发现任何与第338条相关的公开记录。&lt;/p&gt;
+
+
+
+
+ 
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华特气体：预计上半年营收同比增长28.95%，归母净利润增长19.36% | 财报见闻</title><link>https://wallstreetcn.com/articles/3777455</link><guid>7908b93ea5b216a2a535773377fc2e6e6f03fd481ff82f8d60643239db85e30f</guid><pubDate>Mon, 20 Jul 2026 12:14:16 GMT</pubDate><description>&lt;p&gt;A股特气龙头华特气体公布业绩预增报告：预计上半年实现营业收入约8.72亿元，同比大增近29%。&lt;/p&gt;
 
 &lt;p&gt;盈利端方面，公司预计归母净利润约9299万元，同比增长约19.36%；扣非归母净利润约9009万元，同比增长约19.48%。&lt;/p&gt;
 &lt;p&gt;从核心驱动逻辑来看，此次业绩提升的最大功臣是光刻及混合气体、氟碳类气体等核心特气产品的销量放量与毛利额提升。这两类产品深度绑定半导体制造及先进封装等高景气环节，需求能见度较高，也印证了公司多年来在特气供应保障能力上的持续投入正在加速兑现。&lt;/p&gt;
@@ -176,35 +213,7 @@ Helios：AMD首款机架级AI系统
 长期合作深化，软件生态仍是关键变量
 &lt;p&gt;&lt;strong&gt;此次合作是AMD与微软长期伙伴关系的延续。&lt;/strong&gt;AMD芯片长期为微软Surface PC和Xbox游戏主机提供动力；2023年，微软率先采用AMD MI300X GPU用于AI工作负载，微软同时也在数据中心部署自研Maia芯片。&lt;/p&gt;
 &lt;p&gt;报道援引分析人士指出，AMD在硬件层面已与英伟达基本持平，但软件生态仍是关键差距所在。Counterpoint Research分析师Neil Shah表示，&lt;strong&gt;AMD的Helios芯片在性能上&amp;quot;与英伟达GPU和CPU相当&amp;quot;，但&amp;quot;关键在于软件和优化&amp;quot;，英伟达凭借CUDA拥有更为成熟庞大的生态系统。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Newman则提出了另一个核心问题：&amp;quot;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&amp;quot;Helios早期部署的实际表现，将在很大程度上决定这一问题的答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍</title><link>https://wallstreetcn.com/articles/3777467</link><guid>57c6578154e31fb2b77599ffaff694f4265dacdd021a17653283f3b5c9dae059</guid><pubDate>Mon, 20 Jul 2026 21:02:52 GMT</pubDate><description>&lt;p&gt;谷歌正在开发一款专为其Gemini AI模型量身定制的新型服务器芯片，&lt;strong&gt;将模型架构直接固化于硅片之中，以大幅提升AI推理效率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据科技媒体The Information周一报道，&lt;strong&gt;这款被内部称为&amp;quot;Frozen v2&amp;quot;的芯片效率或达现有自研芯片的6至10倍，最早有望于2028年投入部署。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;两位直接知情人士向该媒体透露，&lt;strong&gt;这一项目的直接驱动力，是谷歌内部严峻的AI算力短缺问题——这一短缺已引发内部矛盾，并迫使谷歌云拒绝部分外部客户的合作请求。&lt;/strong&gt;Frozen v2将部分Gemini模型的决策逻辑预先嵌入芯片，从而减少运行时的计算步骤与数据搬运量，以提升响应速度并降低单位算力功耗。&lt;/p&gt;
-&lt;p&gt;谷歌发言人在声明中表示，公司团队&amp;quot;持续研究和探索新创新，以为用户和客户提供最高性能与效率&amp;quot;，并补充称&amp;quot;并非每个项目都会进入量产，但这种严格的探索是我们全栈方法的核心&amp;quot;。&lt;/p&gt;
-&lt;p&gt;受上述消息提振，谷歌股价周一盘中一度上涨3.7%，最终收涨1.52%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-专用推理芯片：效率优先的架构赌注
-
-&lt;p&gt;Frozen v2的核心设计理念，在于将Gemini模型的底层架构永久刻入芯片硅基，使其在处理推理请求时无需像通用芯片那样进行大量实时决策。&lt;/p&gt;
-&lt;p&gt;报道称，&lt;strong&gt;以每单位功耗可处理的token数量衡量，该芯片的效率预计达到谷歌现有最新一代自研AI芯片的6至10倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一逻辑与通用AI芯片形成鲜明对比。&lt;strong&gt;谷歌现有的张量处理器（TPU）与英伟达的GPU类似，均设计为兼容多种AI模型，因此在运行特定模型时需要处理大量动态决策过程。&lt;/strong&gt;Frozen v2通过预先固化部分决策，换取更高的运行效率，但代价是通用性的降低。&lt;/p&gt;
-&lt;p&gt;谷歌正在评估应将多少信息锁定于芯片之中，以在灵活性与效率之间取得平衡。知情人士指出，Frozen v2芯片仅能兼容与设计时所采用的相同底层架构的Gemini后续版本，这意味着谷歌实际上是在押注自身将长期沿用当前的Gemini模型架构。谷歌表示，芯片可支持模型权重的更新——即决定模型如何响应问题的参数设置。&lt;/p&gt;
-
-项目沿革：从&amp;quot;全固化&amp;quot;到&amp;quot;弹性固化&amp;quot;
-
-&lt;p&gt;Frozen项目并非全新构想。&lt;/p&gt;
-&lt;p&gt;报道称，&lt;strong&gt;其前身为最初由谷歌DeepMind首席科学家Jeff Dean主导的&amp;quot;原版Frozen&amp;quot;方案，该方案计划将模型权重本身直接烧录进芯片。&lt;/strong&gt;然而，由于这一设计将使芯片仅能服务于某一特定版本的Gemini模型，生命周期过短，该方案已被搁置。&lt;/p&gt;
-&lt;p&gt;Frozen v2在此基础上作出调整，转向&amp;quot;弹性固化&amp;quot;思路——固化模型架构而非具体权重，从而在保留效率优势的同时延长芯片使用周期。&lt;/p&gt;
-&lt;p&gt;在行业参照系上，加拿大芯片初创公司Taalas采用了类似的将特定AI模型硬编码入芯片的设计理念，目前已从Quiet Capital、富达等投资方融资逾2亿美元。相比之下，SambaNova、d-Matrix及OpenAI、微软等公司也在开发推理芯片，但技术路径与谷歌有所不同。英伟达则于去年12月斥资200亿美元与推理芯片初创公司Groq达成技术授权协议，以强化自身在推理市场的布局。&lt;/p&gt;
-
-定位：TPU之外的新分支，而非替代品
-
-&lt;p&gt;谷歌明确将Frozen v2定位为TPU产品线之外的新分支，而非对其现有自研芯片体系的替代。&lt;strong&gt;TPU与英伟达GPU同属通用AI芯片，可兼容多种模型；Frozen v2则专为Gemini打造，两条产品线将并行发展。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谷歌目前尚无将Frozen v2规模扩产至与TPU相当体量的计划。&lt;/p&gt;
-&lt;p&gt;知情人士表示，相对有限的部署规模使谷歌得以在项目后期再引入外部设计与制造合作伙伴，而无需像重大产品发布那样提前大规模统筹。此外，谷歌也将这一代产品部分视为工程试验——为工程师积累开发更高专用化芯片的经验，尤其是在AI模型架构逐渐趋于稳定的背景下。&lt;/p&gt;
-&lt;p&gt;谷歌现有的自研芯片战略已初见成效。&lt;/p&gt;
-&lt;p&gt;今年，谷歌发布了第八代TPU，并开始将其直接向云计算客户销售，向英伟达的主导地位发起挑战。谷歌已与Meta签署数十亿美元规模的TPU租用协议，并正积极争取其他云服务提供商客户。知情人士表示，自主研发芯片已使谷歌能够以更低成本运行Gemini模型——Frozen v2若能成功，则有望将这一成本优势进一步放大。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车</title><link>https://wallstreetcn.com/articles/3777383</link><guid>72d8ca2f7c32083f732612fee9c05330435e851c46e0b76c66d600e5db1b6d2f</guid><pubDate>Mon, 20 Jul 2026 20:34:16 GMT</pubDate><description>&lt;p&gt;在中东地缘政治风险与科技巨头财报季前夕的双重压力下，美股三大指数震荡收跌。油价剧烈波动加剧了市场对通胀的担忧，并拖累美债走低。&lt;/p&gt;
+&lt;p&gt;Newman则提出了另一个核心问题：&amp;quot;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&amp;quot;Helios早期部署的实际表现，将在很大程度上决定这一问题的答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车</title><link>https://wallstreetcn.com/articles/3777383</link><guid>72d8ca2f7c32083f732612fee9c05330435e851c46e0b76c66d600e5db1b6d2f</guid><pubDate>Mon, 20 Jul 2026 20:34:16 GMT</pubDate><description>&lt;p&gt;在中东地缘政治风险与科技巨头财报季前夕的双重压力下，美股三大指数震荡收跌。油价剧烈波动加剧了市场对通胀的担忧，并拖累美债走低。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;特朗普誓言伊朗将为近期杀害美国士兵&amp;quot;付出代价&amp;quot;，与此同时，伊朗支持的也门胡塞武装宣布对沙特阿拉伯实施红海航运封锁，进一步升级地区紧张态势。&lt;/p&gt;
 &lt;p&gt;资深策略师Louis Navellier表示：&lt;/p&gt;
