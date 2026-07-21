@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 01:29:43 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛解读美联储“五大工作组”：如果沃什想要借此“降息”，很难获得支持</title><link>https://wallstreetcn.com/articles/3777511</link><guid>beb9f2b5becd85593b9e5e155f1f9281ff5a9577034bbca12c1b513adc80f584</guid><pubDate>Tue, 21 Jul 2026 00:59:39 GMT</pubDate><description>&lt;p&gt;高盛认为，美联储“五大工作组”的建议对FOMC不具约束力，联储主席沃什（Kevin Warsh）在多个领域的激进立场——包括削减前瞻指引、压缩资产负债表、以AI通缩论为由推动宽松——&lt;strong&gt;在FOMC内部均难以获得多数支持&lt;/strong&gt;。最终结果将是一系列&amp;quot;对沃什而言看似重大、对其他官员而言影响有限&amp;quot;的妥协性变化。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 02:00:50 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
+&lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
+&lt;p&gt;周一芯片板块情绪回暖，叠加AMD本周晚些时候将举行大型产品发布活动，AMD股价一度大涨超5%，尾盘涨幅回落，收至1.58%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+比Rubin贵40%却照样卖
+&lt;p&gt;此次交易中一个易被忽视的数据是价格。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据全球性技术研究和顾问公司Futurum Group估计Helios售价在500万至550万美元之间，高于其对英伟达Vera Rubin 350万至400万美元的估价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Helios每个计算托盘配备四块Instinct GPU，由单颗EPYC CPU驱动，并搭载多达12块Pensando网络芯片。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AMD数据中心负责人Forrest Norrod称其核心优势在于&amp;quot;最佳总拥有成本和最低每词元成本&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;交易并非仅止于GPU。&lt;/strong&gt;亚马逊Azure将新增两个基于第六代EPYC Venice处理器的虚拟机系列，并在AI后端网络和部分服务中部署Pensando DPU。&lt;/p&gt;
+&lt;p&gt;这意味着AMD在微软云中的角色，正从&amp;quot;GPU供应商&amp;quot;升级为&amp;quot;综合AI基础设施提供商&amp;quot;。&lt;/p&gt;
+&lt;p&gt;巴克莱近期将AMD目标价从500美元上调至665美元，认为其CPU上行空间在三家主要芯片股中&amp;quot;最未被充分定价&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该行预测AMD 2027年CPU收入将达约290亿美元，仅CPU一项到2030年可贡献约19美元每股盈利。&lt;/strong&gt;&lt;/p&gt;
+产品周前的催化剂矩阵
+&lt;p&gt;微软的加入使AMD的Helios客户矩阵进一步加密。&lt;/p&gt;
+&lt;p&gt;此前Meta已承诺6吉瓦GPU部署，OpenAI、甲骨文和印度TCS亦作出重大承诺。&lt;strong&gt;AMD称全球前十大AI公司中已有八家在其Instinct GPU上运行工作负载。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从财务数据看，2026年Q1数据中心营收同比增长57%至58亿美元，公司计划2027年起实现数百亿美元数据中心AI营收，其中大部分来自Helios。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Futurum Group分析师Daniel Newman认为AMD有望将数据中心GPU市场份额从当前的4.5%提升至20%-25%，&amp;quot;这意味着数千亿美元的营收规模&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;芯片板块周一整体反弹提供了有利的情绪背景。而本周产品发布的预期进一步强化了这一叙事，市场关注苏姿丰是否会给出更激进的2027年Helios出货指引。&lt;/p&gt;
+推理时代，软件或是护城河
+&lt;p&gt;硬件层面AMD已逼近甚至部分超越英伟达，但软件仍是关键变量。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776842"&gt;华尔街见闻提及&lt;/a&gt;，&lt;strong&gt;此前半导体研究机构SemiAnalysis高度评价英伟达在vLLM推理引擎上的性能优化，同时指出AMD在部分模型支持上仍有明显差距。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在软件层面，英伟达推出的Dynamo分布式推理框架将vLLM深度集成，专门针对MoE模型实现了预填充与解码分离（Disaggregated Serving）、高效KV缓存传输以及双批次重叠等优化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这套框架在NVL72上能够充分发挥硬件潜力，而AMD方面目前仍主要依赖标准vLLM与DISAGG版本，针对超大MoE模型与宽并行场景的深度优化尚未跟上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达凭借二十年CUDA积累、主流框架优先适配及TensorRT等优化库构建的软件壁垒，在推理时代仍形成持久竞争优势。Counterpoint Research分析师Neil Shah同样指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关键在于软件和优化，英伟达凭借CUDA拥有更为成熟庞大的生态系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Newman提出的问题更为尖锐：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读美联储“五大工作组”：如果沃什想要借此“降息”，很难获得支持</title><link>https://wallstreetcn.com/articles/3777511</link><guid>beb9f2b5becd85593b9e5e155f1f9281ff5a9577034bbca12c1b513adc80f584</guid><pubDate>Tue, 21 Jul 2026 00:59:39 GMT</pubDate><description>&lt;p&gt;高盛认为，美联储“五大工作组”的建议对FOMC不具约束力，联储主席沃什（Kevin Warsh）在多个领域的激进立场——包括削减前瞻指引、压缩资产负债表、以AI通缩论为由推动宽松——&lt;strong&gt;在FOMC内部均难以获得多数支持&lt;/strong&gt;。最终结果将是一系列&amp;quot;对沃什而言看似重大、对其他官员而言影响有限&amp;quot;的妥协性变化。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美联储主席沃什近期宣布成立“五大推进货币政策工作组”，试图在沟通机制、资产负债表、数据采集、AI与生产力、以及通胀框架五个维度重塑美联储。然而，高盛在7月20日研报中给出了冷峻的现实检验：&lt;strong&gt;如果投资者押注沃什能够利用“AI具有结构性通缩作用”的叙事来推动当前的“降息”（鸽派货币政策），他们注定会失望。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛指出，尽管沃什作为主席在新闻发布会等沟通渠道上拥有巨大权力，但他的激进主张（如大幅缩表、基于AI预期制定鸽派政策）与联邦公开市场委员会（FOMC）的制度惯性存在显著冲突。&lt;/p&gt;
 &lt;p&gt;因此，该行认为，&lt;strong&gt;美联储的政策路径不会发生激进转向。&lt;/strong&gt;FOMC极难同意基于对未来生产力的预测而在今天采取宽松政策；在资产负债表和前瞻性指引上，最终的落地大概率是“&lt;strong&gt;表面上满足沃什，实质上影响有限&lt;/strong&gt;”的折中方案（例如停止公布点阵图的中位数，或微调资产购买构成）。财政部也会通过&lt;strong&gt;调整发债策略来抵消美联储资产结构变化带来的市场冲击&lt;/strong&gt;。&lt;/p&gt;
@@ -43,41 +77,7 @@
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
-&lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
-&lt;p&gt;周一芯片板块情绪回暖，叠加AMD本周晚些时候将举行大型产品发布活动，AMD股价一度大涨超5%，尾盘涨幅回落，收至1.58%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-比Rubin贵40%却照样卖
-&lt;p&gt;此次交易中一个易被忽视的数据是价格。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据全球性技术研究和顾问公司Futurum Group估计Helios售价在500万至550万美元之间，高于其对英伟达Vera Rubin 350万至400万美元的估价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Helios每个计算托盘配备四块Instinct GPU，由单颗EPYC CPU驱动，并搭载多达12块Pensando网络芯片。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AMD数据中心负责人Forrest Norrod称其核心优势在于&amp;quot;最佳总拥有成本和最低每词元成本&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;交易并非仅止于GPU。&lt;/strong&gt;亚马逊Azure将新增两个基于第六代EPYC Venice处理器的虚拟机系列，并在AI后端网络和部分服务中部署Pensando DPU。&lt;/p&gt;
-&lt;p&gt;这意味着AMD在微软云中的角色，正从&amp;quot;GPU供应商&amp;quot;升级为&amp;quot;综合AI基础设施提供商&amp;quot;。&lt;/p&gt;
-&lt;p&gt;巴克莱近期将AMD目标价从500美元上调至665美元，认为其CPU上行空间在三家主要芯片股中&amp;quot;最未被充分定价&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该行预测AMD 2027年CPU收入将达约290亿美元，仅CPU一项到2030年可贡献约19美元每股盈利。&lt;/strong&gt;&lt;/p&gt;
-产品周前的催化剂矩阵
-&lt;p&gt;微软的加入使AMD的Helios客户矩阵进一步加密。&lt;/p&gt;
-&lt;p&gt;此前Meta已承诺6吉瓦GPU部署，OpenAI、甲骨文和印度TCS亦作出重大承诺。&lt;strong&gt;AMD称全球前十大AI公司中已有八家在其Instinct GPU上运行工作负载。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从财务数据看，2026年Q1数据中心营收同比增长57%至58亿美元，公司计划2027年起实现数百亿美元数据中心AI营收，其中大部分来自Helios。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Futurum Group分析师Daniel Newman认为AMD有望将数据中心GPU市场份额从当前的4.5%提升至20%-25%，&amp;quot;这意味着数千亿美元的营收规模&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;芯片板块周一整体反弹提供了有利的情绪背景。而本周产品发布的预期进一步强化了这一叙事，市场关注苏姿丰是否会给出更激进的2027年Helios出货指引。&lt;/p&gt;
-推理时代，软件或是护城河
-&lt;p&gt;硬件层面AMD已逼近甚至部分超越英伟达，但软件仍是关键变量。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776842"&gt;华尔街见闻提及&lt;/a&gt;，&lt;strong&gt;此前半导体研究机构SemiAnalysis高度评价英伟达在vLLM推理引擎上的性能优化，同时指出AMD在部分模型支持上仍有明显差距。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在软件层面，英伟达推出的Dynamo分布式推理框架将vLLM深度集成，专门针对MoE模型实现了预填充与解码分离（Disaggregated Serving）、高效KV缓存传输以及双批次重叠等优化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这套框架在NVL72上能够充分发挥硬件潜力，而AMD方面目前仍主要依赖标准vLLM与DISAGG版本，针对超大MoE模型与宽并行场景的深度优化尚未跟上。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英伟达凭借二十年CUDA积累、主流框架优先适配及TensorRT等优化库构建的软件壁垒，在推理时代仍形成持久竞争优势。Counterpoint Research分析师Neil Shah同样指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;关键在于软件和优化，英伟达凭借CUDA拥有更为成熟庞大的生态系统。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Newman提出的问题更为尖锐：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Iren、Hut、Nebius全线大涨，英伟达带头砸钱，科技巨头大单涌向“AI云”</title><link>https://wallstreetcn.com/articles/3777512</link><guid>a613324016cd87d14041089deb0a41c04486e85b7f06b5f3efe47ffbe3e74fe8</guid><pubDate>Tue, 21 Jul 2026 00:59:49 GMT</pubDate><description>&lt;p&gt;新一轮算力军备竞赛正在重塑云计算格局，&amp;quot;新云&amp;quot;（neocloud）赛道迎来密集催化。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Iren、Hut、Nebius全线大涨，英伟达带头砸钱，科技巨头大单涌向“AI云”</title><link>https://wallstreetcn.com/articles/3777512</link><guid>a613324016cd87d14041089deb0a41c04486e85b7f06b5f3efe47ffbe3e74fe8</guid><pubDate>Tue, 21 Jul 2026 00:59:49 GMT</pubDate><description>&lt;p&gt;新一轮算力军备竞赛正在重塑云计算格局，&amp;quot;新云&amp;quot;（neocloud）赛道迎来密集催化。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;隔夜，IREN与Hut 8股价双双大幅跳涨，分别上涨逾19%和10%，两家公司均宣布与科技巨头签署大额AI云计算合同。&lt;/strong&gt;与此同时，英伟达通过SEC文件披露持有Nebius9.3%的受益所有权，提振市场情绪，Nebius盘后跟涨。三则消息叠加，令整个neocloud板块人气大振。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这一波行情的核心逻辑在于：前沿AI模型、AI智能体及机器人公司对GPU算力的需求持续膨胀，而超大规模云服务商（hyperscaler）的数据中心建设速度已难以跟上，由此为独立neocloud运营商打开了巨大的市场空间。&lt;/p&gt;
@@ -95,7 +95,61 @@ Nebius：英伟达持股9.3%，机构看好2030年营收达300亿美元
 &lt;p&gt;受整体板块情绪带动，neocloud龙头CoreWeave周一亦上涨约3.5%，Nebius日内涨幅约2.6%。&lt;/p&gt;
 赛道逻辑：电力、GPU与客户，谁跑得快谁赢
 &lt;p&gt;三家公司的集中爆发，折射出neocloud赛道当前的核心竞争要素：电力资源、GPU供给与客户锁定能力。超大规模云服务商数据中心建设的结构性瓶颈，正在为能够快速整合上述资源的独立运营商创造持续的议价空间。&lt;/p&gt;
-&lt;p&gt;对投资者而言，此轮行情的信号意义在于：&lt;strong&gt;科技巨头的AI基础设施支出正加速向第三方neocloud运营商溢出，&lt;/strong&gt;而英伟达直接入股Nebius，更进一步强化了市场对这一赛道长期价值的信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球第九、开源第一即遭算力「熔断」：Kimi K3的排名突破，反而坐实了硬件需求逻辑</title><link>https://wallstreetcn.com/articles/3777494</link><guid>d8f76270a46849778baa96bf227f0a59db86e766f9274dc0814ffe2c18266b23</guid><pubDate>Mon, 20 Jul 2026 20:00:52 GMT</pubDate><description>&lt;p&gt;开源大模型从未如此接近全球顶尖水平——但也从未以如此戏剧性的方式，证明算力需求远未到顶。&lt;/p&gt;
+&lt;p&gt;对投资者而言，此轮行情的信号意义在于：&lt;strong&gt;科技巨头的AI基础设施支出正加速向第三方neocloud运营商溢出，&lt;/strong&gt;而英伟达直接入股Nebius，更进一步强化了市场对这一赛道长期价值的信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求</title><link>https://wallstreetcn.com/articles/3777510</link><guid>fa43cbc0936ec7787e7e1ed6817e5b9fa5a98c4b8125aa1472dcc669c6feac9c</guid><pubDate>Tue, 21 Jul 2026 01:28:09 GMT</pubDate><description>&lt;p&gt;市场把Kimi K3当作“DeepSeek时刻2.0”来恐慌，但这一次，华尔街的判断截然不同。&lt;/p&gt;
+&lt;p&gt;7月16日深夜，月之暗面在上海发布Kimi K3。这个2.8万亿参数的开源模型，在Artificial Analysis智能指数上得分57，排名全球第三至四位，与Anthropic的Claude Opus 4.8和OpenAI的GPT-5.5持平。更关键的是，在加州大学伯克利分校创建的Frontend Code Arena编程榜单上，K3以1679分登顶，超越Claude Fable 5和GPT-5.6 Sol，成为首个在权威编程榜单上超越全部海外闭源模型的开源模型。&lt;/p&gt;
+&lt;p&gt;7月17日，美股半导体板块出现明显下跌。市场的条件反射不难理解——2025年初，DeepSeek R1的发布触发了算力股的一轮急跌，逻辑是：&lt;strong&gt;中国模型越来越强，美国AI公司还有必要砸那么多钱在算力上吗？如果中国模型能用更低成本逼近前沿能力，英伟达、HBM、服务器、网络设备的需求是否会被重估？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，据追风交易台消息，来自瑞银、野村、美银美林和花旗等投行的最新研报认为：&lt;strong&gt;Kimi K3不是算力需求的终结者，而是加速器&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;Kimi K3和DeepSeek R1不是同一种冲击。R1更多让市场看到“效率”；K3更突出“规模”。2.8万亿参数、1M token上下文、常开推理、原生多模态、MoE架构，&lt;strong&gt;这些特征不是轻资产的故事。它们会把推理、内存、网络和存储的压力一起抬高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+Kimi K3有多强？
+&lt;p&gt;Kimi K3由月之暗面在2026年7月16日发布，完整模型权重计划于7月27日开放。它是2.8万亿参数开源权重大模型，被多家机构称为目前最大规模的开源权重LLM。&lt;/p&gt;
+&lt;p&gt;核心配置包括三点：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，1M token上下文窗口。&lt;/strong&gt;模型可以处理更长文本、更长代码库、更复杂的企业资料和研究任务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，常开推理。&lt;/strong&gt;不是简单问答，而是面向长链路推理和Agent任务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，原生视觉能力。&lt;/strong&gt;K3不只处理文本，也面向视频、图像、游戏开发、前端设计、CAD等多模态任务。&lt;/p&gt;
+&lt;p&gt;架构上，K3使用Kimi Delta Attention、Attention Residuals和Stable LatentMoE。MoE部分为896个专家中每个token激活16个专家。月之暗面给出的口径是，相比Kimi K2，整体 scaling efficiency 提升约2.5倍。&lt;/p&gt;
+&lt;p&gt;这解释了为什么K3不是“更便宜的K2”。Nomura整理的价格显示，K3输入价格为每百万token 3美元，缓存命中输入为0.30美元，输出为每百万token 15美元；按Artificial Analysis口径，&lt;strong&gt;K3每项任务成本约0.94美元。这个价格低于Claude Fable 5约2.75美元和Claude Opus 4.8约1.80美元&lt;/strong&gt;，接近GPT-5.6 Sol的1.04美元，但明显高于GLM-5.2的0.32—0.47美元，也远高于DeepSeek V4 Pro的0.04美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;所以K3的定位不是最低价，而是用更低价格接近前沿模型的能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+四家投行密集定调：这不是需求削弱
+&lt;p&gt;对于市场“DeepSeek时刻”冲击的担忧，野村证券亚太科技团队分析师段冰在报告中写道：“我们认为全球大模型市场的竞争与创新不会停止，随着我们越来越接近通用人工智能（AGI），生成式AI在消费者和企业端的应用将持续扩张。前沿AI实验室和超大规模云平台公司都可能在此阶段持续投入，以维持竞争地位——随着规模定律延续，&lt;strong&gt;我们将这种竞争解读为对AI基础设施价值链的利好。&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;花旗半导体分析师Peter Lee在7月19日的报告中则直接以&lt;strong&gt;“又一次杰文斯悖论”&lt;/strong&gt;为题。杰文斯悖论是什么意思？简单说：煤炭蒸汽机效率提升，反而让煤炭消耗量更大，因为更多人用得起、更多场景用得上。AI模型也一样——当优质模型变得更便宜，开发者和企业就会部署更多应用、处理更多token，最终的算力消耗反而上升。&lt;/p&gt;
+&lt;p&gt;Peter Lee认为，&lt;strong&gt;即便K3被广泛使用，服务器DDR5和eSSD等通用内存需求仍会增加。原因是K3的推理效率与其他前沿模型相当，但KV缓存占用会随上下文增长而扩大，对内存的压力不降反增。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美银证券半导体分析师Vivek Arya在7月17日的报告中表述更为直接。他认为，&lt;strong&gt;美国前沿AI实验室的回应“不是更少算力，而是更多”。&lt;/strong&gt;如果中国开源模型持续逼近，OpenAI、Anthropic和Google必须通过更大规模的训练、更重的推理和更快的迭代来维持差异化。Arya还提到一个容易被忽略的背景：媒体报道称Google的Gemini 3.5 Pro已比计划推迟数月，编程性能未达内部目标，前沿领导地位“正变得越来越难捍卫”。&lt;/p&gt;
+&lt;p&gt;瑞银分析师Timo Arcuri团队在7月20日的报告中指出，K3与DeepSeek R1的平行之处确实存在，但K3更多关乎规模——它是全球最大的开源模型，拥有2.8万亿参数和100万token上下文窗口。分析师强调，&lt;strong&gt;开源模型通常比闭源前沿模型更吃内存，因为上下文窗口更长，KV缓存需求即便经过量化也在绝对量上持续增长，使开源模型的部署更加依赖HBM和存储&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+谁在这场竞争中真正受益？
+
+&lt;p&gt;&lt;strong&gt;存储：最直接的受益板块。&lt;/strong&gt; 瑞银测算显示，存储与内存板块到2028年的累计自由现金流（FCF）预计达到市值的约30%，是所有子板块中占比最高的——美光（MU）一家就高达47%。花旗和野村均维持对三星电子的买入评级，理由是全球内存市场正处于供给极度紧张的状态。花旗分析师Peter Lee指出，Kimi K3的推理侧内存需求不亚于其他前沿模型，KV缓存体量的膨胀将直接推高服务器DDR5和企业级固态硬盘（eSSD）的需求。他尤其指出：Kimi K3的大规模部署需要超过64块GPU的“超节点”集群配置。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;算力基础设施：台积电、英伟达首当其冲受益。&lt;/strong&gt;无论是训练侧规模定律仍然有效，还是推理侧token需求增长，最终都指向更多的先进制程芯片需求。野村重申对台积电、ASE、联发科等的买入评级。英伟达曾公开表示，现代MoE（混合专家架构）模型的推理，在GB300 NVL72上的性能功耗比，相比上一代Hopper架构提升高达25倍。K3这样的模型天然是英伟达最新硬件的受益方。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网络：超节点趋势造就结构性机会。&lt;/strong&gt; Kimi K3需要超节点集群，中国本土算力受限于高端芯片出口管制，更需要依赖超节点架构弥补单卡性能差距，这推动了光模块、光芯片等网络层供应商的需求。野村看好中际旭创和苏州旭创。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;云平台：受益于生态集聚效应。&lt;/strong&gt; 托管多种前沿开源模型的云平台议价能力更强，不依赖单一闭源模型供应商。野村看好阿里巴巴（BABA）作为中国AI云生态的核心，以及GDS、万国数据（VNET）等数据中心运营商。&lt;/p&gt;
+
+中国AI模型的全球渗透速度有多快？
+
+&lt;p&gt;这或许是整个叙事中最容易被低估的数据点。&lt;/p&gt;
+&lt;p&gt;根据开放API网关OpenRouter的统计，&lt;strong&gt;中国AI模型的token使用量占全球开发者流量的比例，一年前不足2%，目前已超过45%。&lt;/strong&gt;美银美林的数据印证了AI整体渗透的加速：目前约55%的美国企业已订阅AI模型、平台或工具，Anthropic的企业采用率达42%，OpenAI为40%。头部AI消费者（前1%的企业用户）每位员工每月AI支出已达4833美元。&lt;/p&gt;
+&lt;p&gt;市场正在分化。一方面是以DeepSeek、Kimi K3为代表的中国开源模型，覆盖经济型和中高端性价比市场；另一方面，顶级美国前沿模型正向更复杂的工作负载（如科学计算）聚焦，维持技术和定价溢价。野村的判断是：中美两侧的领先大模型玩家都将受益——前提是各自能持续站在技术曲线的前沿。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+K3真正改变的是竞争节奏，不是单一公司的故事
+
+&lt;p&gt;K3发布后，市场第一反应还是拿它和DeepSeek R1比较。这种比较有用，但不能停在“是不是又要砸AI硬件”这一层。&lt;/p&gt;
+&lt;p&gt;DeepSeek让市场重新估算训练效率。K3让市场看到另一件事：开源模型也可以把规模、长上下文、Agent和多模态推到前沿区间。&lt;/p&gt;
+&lt;p&gt;这会逼迫美国前沿实验室继续投入，也会让中国模型在全球开发者生态中继续扩张。闭源顶级模型保留技术和价格溢价，开源模型覆盖更多价格带和部署场景，云厂商提供模型分发和企业落地，硬件链条承担训练和推理压力。&lt;/p&gt;
+&lt;p&gt;短期看，交易会因为“DeepSeek记忆”出现波动。中期看，只要token使用量继续增长，长上下文和Agent继续扩散，算力、HBM、存储、网络和IDC仍是绕不开的成本项。&lt;/p&gt;
+&lt;p&gt;这也是多家机构在K3之后给出相似结论的原因：更强的开源模型不是AI基建需求的终点，反而可能是下一轮需求扩散的入口。&lt;/p&gt;
+&lt;p&gt;不过，美银美林也明确留了一个尾部风险：“如果效率增益的速度超过工作负载的增长，我们可能会看到基础设施建设的某种回落。”换句话说，如果模型越做越便宜，但使用量并未同步大幅扩张，算力需求的增长逻辑就会打折。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球第九、开源第一即遭算力「熔断」：Kimi K3的排名突破，反而坐实了硬件需求逻辑</title><link>https://wallstreetcn.com/articles/3777494</link><guid>d8f76270a46849778baa96bf227f0a59db86e766f9274dc0814ffe2c18266b23</guid><pubDate>Mon, 20 Jul 2026 20:00:52 GMT</pubDate><description>&lt;p&gt;开源大模型从未如此接近全球顶尖水平——但也从未以如此戏剧性的方式，证明算力需求远未到顶。&lt;/p&gt;
 &lt;p&gt;7月17日，月之暗面发布新一代旗舰模型Kimi K3。在权威的Text Arena综合排行榜中，该模型以1486分位列第9名，成为首个进入全球前十的开源模型。&lt;/p&gt;
 &lt;p&gt;更引人注目的是，在Fronted Code Arena榜单中，Kimi K3以1679分超越Anthropic的Claude Fable 5登顶第一，前端代码7个细分方向中的6个排名首位。&lt;/p&gt;
 &lt;p&gt;然而，K3发布后48小时内，因用户请求量大幅超出预估并逼近集群承载极限，月之暗面不得不在7月19日宣布暂停C端新用户订阅——&lt;strong&gt;一款开源模型的发布，竟以「算力不足」收场。&lt;/strong&gt;&lt;/p&gt;
@@ -420,27 +474,4 @@ AI投资回报担忧仍是市场核心风险
 &lt;p&gt;我认为一旦形势发生逆转，市场将会迎来一波由流动性驱动的暴涨。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;瑞银动量股篮子成分股涵盖闪迪、博通、甲骨文、Datadog及微软等。&lt;/p&gt;
-&lt;p&gt;与此同时，瑞银软件股篮子自6月底以来已上涨约20%，Romano认为这凸显出此类股票对仓位变动依然高度敏感。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 奥动新能源冲击“换电第一股”，换电的故事如今怎么讲？</title><link>https://wallstreetcn.com/articles/3777480</link><guid>d26e9a97871f1eecabc0f1452fcb5faa63753787eae6deb2739b08f03a38c553</guid><pubDate>Mon, 20 Jul 2026 16:02:52 GMT</pubDate><description>&lt;p&gt;换电行业的第一股终于要来了。&lt;/p&gt;
-&lt;p&gt;据香港交易所2026年7月19日披露，奥动新能源股份有限公司已正式递交招股书，向港股“换电第一股”发起冲击。在政策鼓励车电分离与公共领域车辆电动化的大背景下，国内换电行业正经历着深刻的结构性调整。&lt;/p&gt;
-&lt;p&gt;然而，随着800V高压超充技术的迅速普及、建站备电的高昂资本开支，以及各品牌标准的各自为战，换电模式已被逼到了必须重新自证商业价值的十字路口。&lt;/p&gt;
-&lt;p&gt;奥动新能源的此次IPO，绝不仅仅是一家企业的资本运作，更是对独立第三方换电商业模式能否真正走通的一次检验。&lt;/p&gt;
-&lt;p&gt;要验证这一商业模式的成立与否，首当其冲的是跨越重资产带来的盈利死结。&lt;/p&gt;
-&lt;p&gt;换电站的建设成本极为高昂，单站投入往往超过300万元，且企业需长期承担土地租赁、电力采购、设备折旧等庞大固定开支。在区域换电车辆保有量未达规模时，单站利用率不足会直接拉低整体毛利率，造成企业的财务流血。&lt;/p&gt;
-&lt;p&gt;奥动新能源招股书中的历史数据直观地反映了这一阵痛。2023年至2025年，由于自有换电站的重资产投入，公司分别录得6.55亿、4.19亿和3.07亿元的净亏损。2025年，其自有站换电服务毛利率低至-21.4%，意味着每提供1元服务就面临0.21元的亏损。&lt;/p&gt;
-&lt;p&gt;然而，奥动近期的财务表现也同步验证了第三方换电企业向“轻资产化”突围的有效性。&lt;/p&gt;
-&lt;p&gt;为了改善财务结构，奥动果断放缓了新设自有站的步伐，将自有站数量从2023年底的321座缩减至2026年4月的214座，并将业务重心转向换电设备销售与面向第三方的平台运营服务。&lt;/p&gt;
-&lt;p&gt;这一战略调整在2026年立竿见影，前四个月公司实现营收2.35亿元，毛利润成功转正达到412.3万元，毛利率回升至1.8%，经营现金流录得净流入。&lt;/p&gt;
-&lt;p&gt;这一扭亏轨迹在资本市场面前证明了，缺乏整车利润反哺的第三方服务商，必须通过技术输出与精细化运营来替代盲目的重资产扩张，这是目前唯一能够看到盈利曙光的路径。&lt;/p&gt;
-&lt;p&gt;在证明了财务模型的优化潜力后，第三方换电模式还需要回答第二个核心问题，即在巨头林立的市场中，其生存空间究竟在哪里？&lt;/p&gt;
-&lt;p&gt;当前换电生态已形成以蔚来为代表的整车厂阵营、以宁德时代为代表的电池巨头阵营，以及以奥动为代表的独立第三方阵营。相比于前两者试图构建品牌护城河或掌控底层标准的逻辑，第三方服务商的核心竞争力在于其绝对的中立性与跨品牌兼容能力。&lt;/p&gt;
-&lt;p&gt;这种中立性使得第三方企业能够极其精准地切入高频次的B端运营车市场。&lt;/p&gt;
-&lt;p&gt;招股书数据显示，运营乘用车平均每周换电高达14.0次，而私家车仅为1.5次。奥动通过与多家主机厂合作开发适配模组，将不同品牌的出租车、网约车引入同一套换电网络，凭借极高的车辆翻台率有效跑通了单站盈利模型。&lt;/p&gt;
-&lt;p&gt;同时，在干线物流、矿区等路线固定且高负载的场景中，商用重卡对补能效率和电网稳定性的要求极高，这进一步成为了第三方换电模式高增长的腹地。放弃对私家车全场景替代的幻想，深度锚定高频、高价值的营运场景，已被证明是第三方换电站立足的根本逻辑。&lt;/p&gt;
-&lt;p&gt;而站在更长远的产业周期来看，独立换电模式必须直面800V高压超充技术的强力挤压，证明其不可替代的长期护城河。&lt;/p&gt;
-&lt;p&gt;超充技术的进步确实在一定程度上稀释了私家车主对换电速度的依赖，但这反而倒逼换电模式厘清了自身的场景边界，一位电池行业工程师告诉华尔街见闻，如今换电的核心优势正在从单纯的补能速度向电网友好性与集中资产管理产生结构性转移。&lt;/p&gt;
-&lt;p&gt;大功率超充桩在高峰时段的集中使用会对局部电网造成巨大负荷，而换电站天然具备数十块大容量电池的“分布式储能”属性。通过车-站-电网的互动，换电站能够在夜间谷电时段低成本充电，在白天用电高峰回馈电网，参与电力市场的调峰填谷。&lt;/p&gt;
-&lt;p&gt;这种能力为第三方换电平台在服务费之外，开辟了极具潜力的能源服务收益路径。此外，换电站的恒温慢充与集中专业运维，能有效延长高频商用车电池的循环寿命，并完美衔接退役电池的梯次利用，实现了真正的电池全生命周期闭环管理。&lt;/p&gt;
-&lt;p&gt;叠加2026年以来国内纯电动乘用车换电系统互换性技术标准的稳步推进，标准统一的行业红利将向具备成熟跨品牌运营经验的第三方服务商倾斜。&lt;/p&gt;
-&lt;p&gt;整体而言，奥动新能源从重资产向轻资产的转型、对B端高频运营场景的深度绑定，以及在分布式储能与电池资产管理上展现出的长远价值，共同构成了一条逻辑严密的自证链条。&lt;/p&gt;
-&lt;p&gt;这条路能否在资本市场获得最终认可，将成为中国换电产业在“车企自建”与“第三方共享”路线博弈中一个重要的参照坐标。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;与此同时，瑞银软件股篮子自6月底以来已上涨约20%，Romano认为这凸显出此类股票对仓位变动依然高度敏感。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
