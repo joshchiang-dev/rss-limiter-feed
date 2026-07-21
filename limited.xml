@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 02:29:39 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 02:59:42 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -222,19 +222,7 @@ K3真正改变的是竞争节奏，不是单一公司的故事
 &lt;p&gt;智谱的暴跌折射出AI大模型赛道估值逻辑的深层转变。此前市场给予智谱的万亿估值，很大程度上建立在&amp;quot;大模型第一股&amp;quot;的稀缺性溢价与API量价齐升的商业化叙事之上。&lt;/p&gt;
 &lt;p&gt;但竞争格局的变化正在侵蚀这一叙事的基础。Kimi K3的发布标志着中国AI模型在编程与智能体能力上已进入多强并立阶段；DeepSeek近期完成500亿元融资、估值达3500亿元，并正以约710亿美元估值寻求新一轮融资。&lt;/p&gt;
 &lt;p&gt;在下半年还将有更多模型密集推出的背景下，缺乏绝对技术壁垒的企业将面临更严峻的估值折价。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，智谱当前4146亿港元的市值是否已充分定价竞争风险，取决于其能否在模型迭代速度、定价权维持与商业化变现之间找到新的平衡点。而314亿港元配售资金的套牢，无疑增加了这一平衡的难度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 对加拿大部分产品加征50%关税，美国重开贸易战！</title><link>https://wallstreetcn.com/articles/3777506</link><guid>c7adf19fbf3a65b36d4df5b5a5ddad2f4b03dda1553d154df76f523c51662bd8</guid><pubDate>Mon, 20 Jul 2026 23:56:44 GMT</pubDate><description>&lt;p&gt;美国再度对最重要的贸易伙伴之一挥舞关税大棒，全球贸易摩擦风险骤然升温。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。&lt;strong&gt;新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此举标志着特朗普政府贸易攻势的再度升级。&lt;/strong&gt;加拿大是美国第二大贸易伙伴，两国去年双边贸易额高达7160亿美元。消息公布后，加元汇率随即跌至当日低点。加拿大商会将&lt;strong&gt;此次威胁定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁两国在未来30天内展开谈判。&lt;/strong&gt;&lt;/p&gt;
-关税范围与生效细节
-&lt;p&gt;根据特朗普政府周一晚间公布的具体商品清单，此次50%关税涵盖牛奶及乳制品、酒精饮料、服装及家具等多类产品。新关税将在30天后生效，能源、钾肥、关键矿产、鱼类等产品获豁免，已受美国国家安全关税约束的钢铁、铝等商品同样不在此次加征范围之内。&lt;/p&gt;
-&lt;p&gt;值得注意的是，符合特朗普2020年《美墨加协定》（USMCA）条款的进口商品，此次并未获得豁免。这与此前该协定商品曾被排除在所谓&amp;quot;对等关税&amp;quot;之外的做法形成明显落差。据媒体报道，&lt;strong&gt;这一豁免缺失意味着大量目前免税入境美国的加拿大商品，将面临大幅加税压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报道称，特朗普政府高级官员将&lt;strong&gt;此次关税行动定性为对加拿大不公平贸易行为的直接回应。&lt;/strong&gt;官员称，加拿大各省已停止采购美国酒类，对美国汽车加征关税，并对美国奶酪实施歧视性待遇。&lt;/p&gt;
-&lt;p&gt;一名政府高级官员表示，在特朗普去年初推行贸易政策之初，&amp;quot;只有两个国家对美国采取了报复措施&amp;quot;，加拿大便是其中之一。&lt;/p&gt;
-&lt;p&gt;此次关税将援引1930年《关税法》第338条作为法律依据——该条款此前从未被用于对贸易伙伴征收关税。官员解释称，该法律赋予总统在他国对美实施歧视性待遇时采取行动的权力。&lt;/p&gt;
-&lt;p&gt;此外，美国官员特别强调，此次关税与特朗普上周五就加拿大野火烟雾飘入美国境内所威胁的另一轮关税措施相互独立，两者并行推进。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;加拿大方面迅速作出反应。&lt;/strong&gt;安大略省省长Doug Ford在社交媒体平台X上表示，&amp;quot;我永远不会停止为安大略而战&amp;quot;，并呼吁加拿大以&amp;quot;关税对关税、美元对美元&amp;quot;的方式予以还击。Ford此前曾因播放反关税广告而激怒特朗普，近期态度已趋于温和，但此次措辞再度强硬。&lt;/p&gt;
-&lt;p&gt;加拿大商会则采取了相对克制的立场，将&lt;strong&gt;此次事态定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁华盛顿与渥太华在新关税生效前的30天窗口期内展开对话，为谈判解决留下空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析指出，特朗普此举有可能重新点燃此前已有所降温的全球贸易摩擦。今年早些时候，美国最高法院裁定推翻了特朗普的全球紧急关税措施，贸易紧张态势一度缓和，但此次针对加拿大的新一轮关税行动令市场对贸易战卷土重来的担忧再度升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，智谱当前4146亿港元的市值是否已充分定价竞争风险，取决于其能否在模型迭代速度、定价权维持与商业化变现之间找到新的平衡点。而314亿港元配售资金的套牢，无疑增加了这一平衡的难度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
 &lt;p&gt;据称，新关税将自美东时间8月19日凌晨00时01分起生效，并将在现有相关关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
 &lt;p&gt;美国官员在与媒体举行的电话会上表示：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -287,7 +275,34 @@ Helios：AMD首款机架级AI系统
 长期合作深化，软件生态仍是关键变量
 &lt;p&gt;&lt;strong&gt;此次合作是AMD与微软长期伙伴关系的延续。&lt;/strong&gt;AMD芯片长期为微软Surface PC和Xbox游戏主机提供动力；2023年，微软率先采用AMD MI300X GPU用于AI工作负载，微软同时也在数据中心部署自研Maia芯片。&lt;/p&gt;
 &lt;p&gt;报道援引分析人士指出，AMD在硬件层面已与英伟达基本持平，但软件生态仍是关键差距所在。Counterpoint Research分析师Neil Shah表示，&lt;strong&gt;AMD的Helios芯片在性能上&amp;quot;与英伟达GPU和CPU相当&amp;quot;，但&amp;quot;关键在于软件和优化&amp;quot;，英伟达凭借CUDA拥有更为成熟庞大的生态系统。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Newman则提出了另一个核心问题：&amp;quot;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&amp;quot;Helios早期部署的实际表现，将在很大程度上决定这一问题的答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指均跌超1%，大金融、白酒逆势走强，算力硬件齐跌，恒科指震荡上涨</title><link>https://wallstreetcn.com/articles/3777521</link><guid>0a2af7c4e02af1287792099e9157434a8bfd613fb817c760fb9ff96a2a93e630</guid><pubDate>Tue, 21 Jul 2026 02:11:07 GMT</pubDate><description>&lt;p&gt;7月21日，A股再度调整，三大股指早盘集体下跌，且均跌超1%，算力硬件、芯片半导体等科技股继续调整，拖累科创50跌超3%，光模块、光通信、电路板等方向跌幅居前。大金融、汽车、白酒等板块逆势走强。&lt;/p&gt;
+&lt;p&gt;Newman则提出了另一个核心问题：&amp;quot;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&amp;quot;Helios早期部署的实际表现，将在很大程度上决定这一问题的答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 对加拿大部分产品加征50%关税，美国重开贸易战！</title><link>https://wallstreetcn.com/articles/3777506</link><guid>c7adf19fbf3a65b36d4df5b5a5ddad2f4b03dda1553d154df76f523c51662bd8</guid><pubDate>Mon, 20 Jul 2026 23:56:44 GMT</pubDate><description>&lt;p&gt;美国再度对最重要的贸易伙伴之一挥舞关税大棒，全球贸易摩擦风险骤然升温。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。&lt;strong&gt;新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此举标志着特朗普政府贸易攻势的再度升级。&lt;/strong&gt;加拿大是美国第二大贸易伙伴，两国去年双边贸易额高达7160亿美元。消息公布后，加元汇率随即跌至当日低点。加拿大商会将&lt;strong&gt;此次威胁定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁两国在未来30天内展开谈判。&lt;/strong&gt;&lt;/p&gt;
+关税范围与生效细节
+&lt;p&gt;根据特朗普政府周一晚间公布的具体商品清单，此次50%关税涵盖牛奶及乳制品、酒精饮料、服装及家具等多类产品。新关税将在30天后生效，能源、钾肥、关键矿产、鱼类等产品获豁免，已受美国国家安全关税约束的钢铁、铝等商品同样不在此次加征范围之内。&lt;/p&gt;
+&lt;p&gt;值得注意的是，符合特朗普2020年《美墨加协定》（USMCA）条款的进口商品，此次并未获得豁免。这与此前该协定商品曾被排除在所谓&amp;quot;对等关税&amp;quot;之外的做法形成明显落差。据媒体报道，&lt;strong&gt;这一豁免缺失意味着大量目前免税入境美国的加拿大商品，将面临大幅加税压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报道称，特朗普政府高级官员将&lt;strong&gt;此次关税行动定性为对加拿大不公平贸易行为的直接回应。&lt;/strong&gt;官员称，加拿大各省已停止采购美国酒类，对美国汽车加征关税，并对美国奶酪实施歧视性待遇。&lt;/p&gt;
+&lt;p&gt;一名政府高级官员表示，在特朗普去年初推行贸易政策之初，&amp;quot;只有两个国家对美国采取了报复措施&amp;quot;，加拿大便是其中之一。&lt;/p&gt;
+&lt;p&gt;此次关税将援引1930年《关税法》第338条作为法律依据——该条款此前从未被用于对贸易伙伴征收关税。官员解释称，该法律赋予总统在他国对美实施歧视性待遇时采取行动的权力。&lt;/p&gt;
+&lt;p&gt;此外，美国官员特别强调，此次关税与特朗普上周五就加拿大野火烟雾飘入美国境内所威胁的另一轮关税措施相互独立，两者并行推进。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加拿大方面迅速作出反应。&lt;/strong&gt;安大略省省长Doug Ford在社交媒体平台X上表示，&amp;quot;我永远不会停止为安大略而战&amp;quot;，并呼吁加拿大以&amp;quot;关税对关税、美元对美元&amp;quot;的方式予以还击。Ford此前曾因播放反关税广告而激怒特朗普，近期态度已趋于温和，但此次措辞再度强硬。&lt;/p&gt;
+&lt;p&gt;加拿大商会则采取了相对克制的立场，将&lt;strong&gt;此次事态定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁华盛顿与渥太华在新关税生效前的30天窗口期内展开对话，为谈判解决留下空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析指出，特朗普此举有可能重新点燃此前已有所降温的全球贸易摩擦。今年早些时候，美国最高法院裁定推翻了特朗普的全球紧急关税措施，贸易紧张态势一度缓和，但此次针对加拿大的新一轮关税行动令市场对贸易战卷土重来的担忧再度升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI拉动出口爆发，韩国7月前20天出口创“历年同期最高”</title><link>https://wallstreetcn.com/articles/3777522</link><guid>15f10117366016c781efb2632a09fe3c64efdb2c48a04275410f5a08ead380b1</guid><pubDate>Tue, 21 Jul 2026 02:52:10 GMT</pubDate><description>&lt;p&gt;人工智能驱动的半导体需求持续升温，推动韩国出口在7月上旬强劲爆发，创下历史同期最高纪录，并为韩国央行收紧货币政策提供了有力支撑。&lt;/p&gt;
+&lt;p&gt;据韩国海关总署周二（7月21日）公布的数据，经工作日调整后，&lt;strong&gt;7月前20天出口同比大幅跃升62.9%，出口总值创下历年同月同期最高水平&lt;/strong&gt;，增速亦较上月同期的49.7%显著加快。未经调整的出口增幅为52.3%，进口增长20%，贸易顺差达122亿美元。&lt;/p&gt;
+&lt;p&gt;芯片出口是此次增长的核心引擎，同比飙升180.6%，计算机相关产品出货量增幅更接近232%。数据公布后，市场对韩国经济基本面的信心进一步巩固，也印证了韩国央行（BOK）上周时隔逾三年首次加息的决策逻辑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;韩国政府近期已将2026年经济增长预测从2%上调至3%，高于韩国央行及国际货币基金组织的预测值。&lt;/strong&gt;韩国央行行长Shin Hyun Song表示，央行将大幅上调今年增长预测，并强调未来数次政策会议均为&amp;quot;活跃会议&amp;quot;，意味着加息窗口持续敞开。&lt;/p&gt;
+半导体与AI需求：出口爆发的核心驱动
+&lt;p&gt;AI基础设施投资浪潮持续扩张，成为韩国出口超预期增长的直接推手。&lt;/p&gt;
+&lt;p&gt;数据显示，芯片出口同比增长180.6%，计算机相关产品出货量同比增幅高达232%，两项数据均反映出全球对AI算力硬件的旺盛需求。燃料出口亦增长33.4%，进一步支撑了整体出口表现。&lt;/p&gt;
+&lt;p&gt;相比之下，汽车出口下滑10.6%，成为少数拖累项之一。&lt;/p&gt;
+&lt;p&gt;上述数据表明，&lt;strong&gt;在AI及数据中心持续投资的支撑下，外部需求依然具有韧性，半导体持续驱动韩国出口增长及更广泛的经济扩张，并在一定程度上对冲了中东局势带来的不利影响。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从出口目的地来看，数据显示，7月前20天，韩国对华出口同比增长94.1%，增幅居各主要市场之首，反映出中国在AI相关产品及芯片采购方面的强劲需求。对美出口增幅接近40%，对越南及欧盟的出货量亦保持强劲，显示出芯片及AI相关产品的需求在全球范围内具有广泛支撑。&lt;/p&gt;
+央行加息获数据背书，通胀风险不容忽视
+&lt;p&gt;强劲的出口数据为韩国央行上周的政策转向提供了有力佐证。&lt;/p&gt;
+&lt;p&gt;该行官员一致同意将基准利率上调25个基点至2.75%，为逾三年来首次加息，并释放出维持紧缩倾向的信号，理由是通胀仍高于目标水平，且经济增长预计将超出央行最新预测。&lt;/p&gt;
+&lt;p&gt;行长Shin Hyun Song同时警告，芯片繁荣带来的溢出效应正日益向消费、投资和薪资领域蔓延，这可能导致通胀压力在科技行业之外更为持久地延续，进一步强化了央行维持紧缩立场的必要性。&lt;/p&gt;
+&lt;p&gt;韩国政府已将2026年经济增长预测上调至3%，高于韩国央行及IMF的预测，显示出官方对经济前景的乐观判断。&lt;/p&gt;
+&lt;p&gt;Shin Hyun Song表示，韩国央行将大幅上调今年增长预测，并强调未来数次政策会议均保持&amp;quot;活跃&amp;quot;状态，为后续进一步加息预留空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指均跌超1%，大金融、白酒逆势走强，算力硬件齐跌，恒科指震荡上涨，芯片股陷调整</title><link>https://wallstreetcn.com/articles/3777521</link><guid>0a2af7c4e02af1287792099e9157434a8bfd613fb817c760fb9ff96a2a93e630</guid><pubDate>Tue, 21 Jul 2026 02:13:30 GMT</pubDate><description>&lt;p&gt;7月21日，A股再度调整，三大股指早盘集体下跌，且均跌超1%，算力硬件、芯片半导体等科技股继续调整，拖累科创50跌超3%，光模块、光通信、电路板等方向跌幅居前。大金融、汽车、白酒等板块逆势走强。&lt;/p&gt;
 &lt;p&gt;港股震荡上涨，恒指、恒科指盘初小幅走高，科网股多数上涨，芯片股下挫，AI大模型股反弹，智谱涨7%。债市方面，国债期货多数走高，商品方面，国内商品期货普遍下跌，碳酸锂跌超6%。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌1.11%，深成指跌1.38%，创业板指跌1.44%。&lt;/p&gt;
@@ -299,11 +314,14 @@ Helios：AMD首款机架级AI系统
 &lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普跌，截至发稿，沪银、豆粕、集运指数涨超1%，沪铜、钯金、纸浆、氧化铝、沪金、不锈钢等少数品种走高，沪锡、铂金、烧碱、玻璃、沪镍、沪铝、菜籽、多晶硅、沥青、工业硅、原油、热轧卷板等纷纷下跌，锰硅、螺纹钢、橡胶、燃油、铁矿石均跌超1%，鸡蛋、焦炭、焦煤跌超2%，碳酸锂大跌超6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;10:11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指跌超2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:58&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;早盘光纤概念震荡走弱，长飞光纤、通鼎互联触及跌停，长盈通跌超10%，永鼎股份、亨通光电、特发信息、中天科技跌幅靠前。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:50&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;半导体材料概念持续调整，有研硅一丢触及20cm跌停，此前格林达4连跌停，争光股份、中船特气跌超10%，和远气体、华特气体跌幅靠前。&lt;/p&gt;
+&lt;p&gt;半导体材料概念持续调整，有研硅一度触及20cm跌停，此前格林达4连跌停，争光股份、中船特气跌超10%，和远气体、华特气体跌幅靠前。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:43&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;早盘算力租赁概念探底回升，中嘉博创5天3板，此前美利云2连板，利通电子、扬电科技、宜通世纪、杭钢股份跟涨。&lt;/p&gt;
@@ -324,168 +342,4 @@ Helios：AMD首款机架级AI系统
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:01&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;国内商品期市开盘多数下跌，新能源材料跌幅居前，碳酸锂跌3.64%；黑色系多数下跌，焦煤跌2.73%；能源品全部下跌，低硫燃料油跌2.10%；农副产品多数下跌，鸡蛋跌1.79%；化工品多数下跌，20号胶跌1.19%；基本金属涨幅居前，国际铜涨1.51%；贵金属全部上涨，沪银涨1.50%；油脂油料多数上涨，豆粕涨1.29%；航运期货全部上涨，集运指数(欧线)涨0.92%；非金属建材涨跌参半，PVC涨0.48%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车</title><link>https://wallstreetcn.com/articles/3777383</link><guid>72d8ca2f7c32083f732612fee9c05330435e851c46e0b76c66d600e5db1b6d2f</guid><pubDate>Mon, 20 Jul 2026 23:14:52 GMT</pubDate><description>&lt;p&gt;在中东地缘政治风险与科技巨头财报季前夕的双重压力下，美股三大指数震荡收跌。油价剧烈波动加剧了市场对通胀的担忧，并拖累美债走低。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;特朗普誓言伊朗将为近期杀害美国士兵&amp;quot;付出代价&amp;quot;，与此同时，伊朗支持的也门胡塞武装宣布对沙特阿拉伯实施红海航运封锁，进一步升级地区紧张态势。资深策略师Louis Navellier表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;伊朗局势持续搅动市场，这正在压制本应因强劲盈利趋势而出现的股市涨幅。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;本周，以特斯拉和谷歌打头阵，大型科技公司将相继公布第二季度业绩，市场期待这些公司以实际业绩为AI投入的合理性提供支撑。The Sevens Report的Tom Essaye指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;股市若要反弹，需要科技龙头企业交出亮眼成绩单，中东局势降温同样不可或缺。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-油价剧烈波动，霍尔木兹海峡运输量骤降逾八成
-
-&lt;p&gt;油市周一经历大幅震荡。伊朗第九轮轰炸推动油价一度走高，但随后有关10天停火谈判的外交表态令油价回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777496"&gt;华尔街见闻提及&lt;/a&gt;，据新华社，特朗普暗示美军将对伊朗发动强硬报复，每杀害一名美国士兵将付出数倍代价。&lt;/p&gt;
-&lt;p&gt;不过，特朗普政府并未完全排除寻求外交解决方案的可能性。美国务卿鲁比奥19日晚在接受媒体采访时称，特朗普政府“仍然对外交解决方案持开放态度”。&lt;/p&gt;
-&lt;p&gt;据新华社，伊朗高级官员称，伊美谈判调解方已向伊方提出旨在缓和目前局势的提议，该提议建议实施为期10天的停火，以寻求恢复执行伊美上个月达成的谅解备忘录。&lt;/p&gt;
-&lt;p&gt;然而&lt;a href="https://wallstreetcn.com/articles/3777497"&gt;华尔街见闻文章指出&lt;/a&gt;，霍尔木兹海峡航运近乎停滞，希腊船东称两艘油轮遭袭。&lt;/p&gt;
-&lt;p&gt;监测网站Hormuz Strait Monitor数据显示，7月20日当日过境船只约为每天12艘，较战前日均110艘的水平骤降逾89%，原油和液化天然气运输受到严重限制。&lt;/p&gt;
-&lt;p&gt;WTI原油最终收于每桶约83美元。牛津经济研究院大宗商品策略师Kelly Xu表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;市场的剧烈双向波动反映出各方对当前局势走向的高度不确定性——究竟是进一步升级并延长供应风险，还是紧张局势逐步缓和？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;她补充称，短期内油市对地缘政治消息面将保持高度敏感。&lt;/p&gt;
-&lt;p&gt;高盛的Rich Privorotsky指出，伊朗对科威特电力和水处理基础设施发动的渐进式打击，正开始考验市场对这场冲突持续时间的预期极限，但整体态势仍在&amp;quot;以牙还牙&amp;quot;的博弈范围之内。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他认为，原油价格右尾风险存在隐性上限，美国政府对市场的关切本身构成一种制约机制。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析认为，&lt;strong&gt;真正的风险不在于原油，而在于成品油和天然气。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;欧洲天然气价格正逼近冲突时期的高点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-科技股震荡回稳，财报季成关键变量
-
-&lt;p&gt;周一美股高开低走，道指收跌0.59%，标普500指数跌0.19%，纳斯达克综合指数跌0.05%，报25508点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;标普500与纳斯达克100均重新跌破50日移动均线。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;半导体股周一出现技术性反弹，芯片股早盘一度涨近4%，但涨幅随后显著收窄，收盘仅录得约0.6%的温和上涨。此前费城半导体指数已较6月底高点下跌逾20%，正式确认进入熊市区间。&lt;/p&gt;
-&lt;p&gt;受Kimi因算力不足而停止接收新用户的报道提振，半导体股一度拉升，但涨势未能持续。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;人工智能领域的领头羊股票今日均上涨，但远低于近期高点。剔除人工智能板块后，标普500指数下跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Mag7科技巨头整体跑赢标普493只成分股，但市场广度依然偏窄。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;高盛Prime Services部门负责人Vincent Lin指出，对冲基金过去两个月从美国科技股撤离的规模和速度均创历史纪录。Vincent Lin说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;自6月初以来持续且大规模的卖出，显示科技投资者正在大幅削减持仓，部分投降迹象已开始浮现。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;据彭博，高盛宏观策略师Michael Ball表示，7月期权到期后，做市商正Gamma头寸下降，标普500所受的&amp;quot;钉住效应&amp;quot;减弱，市场双向波动空间随之扩大。&lt;/strong&gt;&lt;/p&gt;
-
-选股逻辑凸显，分散度交易成机构焦点
-
-&lt;p&gt;高盛衍生品策略师Brian Garrett认为，尽管地缘政治风险重新抬头，但期权市场的隐含相关性已接近过去20年来的最低水平，这意味着个股层面的微观因素将比宏观环境更主导年内剩余时间的市场走势。&lt;/p&gt;
-&lt;p&gt;随着标普500指数约五分之一市值的成分股将于未来一周集中披露业绩，Garrett预计个股分化态势将持续。Garrett表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;赢家与输家的分化，将取决于各家公司能否超越已然高企的市场预期。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他推荐通过买入纳指100期权来把握下周的双向交易机会，既可对冲半导体进一步下跌的风险，也可捕捉潜在的超跌反弹，当前波动率已大幅下降，双向期权均具有吸引力。&lt;/p&gt;
-&lt;p&gt;Edward Jones的Brock Weimer认为，近期科技股回调兼有获利了结与投资者重新评估AI基础设施支出可持续性的双重因素。他说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI仍将是持久的投资主题，但建议投资者在保持相关敞口的同时，将周期性和价值型板块纳入组合作为补充。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-比特币随科技股反弹，美元与黄金基本持平
-
-&lt;p&gt;美元指数在日内经历大幅震荡后基本收平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;黄金则与美元走势同步，收盘几乎持平于4008美元，连续守住4000美元关口上方。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;加密货币市场周一跟随大型科技股反弹，比特币上涨0.8%，突破65000美元关口，报65036美元，且并未随科技股尾盘走弱而回吐涨幅。以太坊涨1.7%，报1897美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周一美股三大指数收跌，标普500跌0.19%收7443.28、跌破50日均线，半导体指数涨0.60%，微软涨2.15%，苹果跌2.14%，特斯拉跌2.96%。中概股逆市收涨。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美股基准股指：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;标普500指数收涨19.94点，涨幅0.32%，报6263.70点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;道琼斯工业平均指数收涨231.49点，涨幅0.53%，报44254.78点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;纳指收涨52.69点，涨幅0.26%，报20730.49点，继续创收盘历史新高。纳斯达克100指数收涨23.38点，涨幅0.10%，报22907.97点，也连续第二个交易日创收盘历史新高。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;罗素2000指数收涨0.99%，报2226.98点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;恐慌指数VIX收跌1.27%，报17.16。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（7月20日 美股各行业板块ETF）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;万得美国科技股七巨头（Magnificent 7）指数涨0.09%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;微软涨2.15%，谷歌A涨1.51%，亚马逊涨1.12%，英伟达涨0.23%，Meta跌0.02%，苹果跌2.14%，特斯拉跌2.96%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;芯片股：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;费城半导体指数收跌0.39%，报5696.21点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;台积电ADR涨0.26%、也再创收盘历史新高。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;纳斯达克金龙中国指数收涨0.90%，报6337.52点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;热门中概股里，阿里巴巴收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Circle涨8.27%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;欧洲股市收跌0.3%，成分股倍耐力收跌超5.7%，瑞安航空跌超4.5%。英国股市收跌0.7%，成分股柿子公司跌约3.8%，ComputaCenter涨超5.5%。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;泛欧股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;欧洲STOXX 600指数收跌0.30%，报639.60点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;欧元区STOXX 50指数收跌0.06%，报6227.40点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;德国DAX 30指数收涨0.06%，报24846.69点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;法国CAC 40指数收涨0.02%，报8340.11点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;英国富时100指数收跌0.71%，报10524.76点。&lt;/p&gt;
-&lt;p&gt;（7月20日 欧美主要股指表现）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;板块和个股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;欧元区蓝筹股中，意大利国家电力公司ENEL收跌2.64%，拜耳跌2.37%，法国圣戈班公司、LVMH集团至少跌1.67%，阿斯麦控股跌1.05%跌幅第九大。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;欧洲STOXX 600指数的所有成分股中，倍耐力收跌5.74%，瑞安航空跌4.55%，Plus500die 3.9%，柿子公司跌3.77%跌幅第四大，基立福涨3.72%，Prosus表现第三。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
