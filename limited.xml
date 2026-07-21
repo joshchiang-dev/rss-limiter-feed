@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 17:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 17:13:29 GMT</pubDate><description>&lt;p&gt;经历近期抛售，资金回流半导体板块，引领全球股市强劲反弹。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 17:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 17:13:29 GMT</pubDate><description>&lt;p&gt;经历近期抛售，资金回流半导体板块，引领全球股市强劲反弹。&lt;/p&gt;
 &lt;p&gt;周二，美股盘中，纳斯达克100指数涨幅扩大至2%，标普500涨幅扩大至近1%，道指涨超1%。Nebius涨16.1%，闪迪涨13.2%，泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。&lt;/p&gt;
 &lt;p&gt;美股盘中，美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。&lt;/p&gt;
 &lt;p&gt;地缘方面，美伊交火仍在持续。据新华社援引伊朗塔斯尼姆通讯社21日报道，位于巴林的美国海军第五舰队司令部发生爆炸。另据报道，巴林首都麦纳麦拉响警报，居民被要求待在避难所内。油价转涨，布伦特原油涨超1%至90美元上方。&lt;/p&gt;
@@ -289,7 +289,78 @@ AI光互连仍是长期核心逻辑
 &lt;p&gt;地平线也有自己的优势。2025年末，公司现金及现金等价物约201.9亿元，较上年末的153.7亿元增加；但贸易应收款也从约6.8亿元升至17.6亿元，存货从约5.9亿元升至10.7亿元。公司仍有资金投入研发、支持客户定点和扩大交付，但收入确认、回款和库存周转也需要跟上量产节奏。&lt;/p&gt;
 &lt;p&gt;下半年，HSD能不能进入更多高销量车型，决定地平线的量产规模还能走多远。&lt;/p&gt;
 &lt;p&gt;城市NOA还在扩容。站在这个量产新关口，地平线需要让装车规模真正转成利润和现金回款。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔AMD财报前瞻：数据中心复苏曙光初现，PC市场仍有隐忧</title><link>https://wallstreetcn.com/articles/3777580</link><guid>668f43869a7db50d6d79ab66534b8bf7acf5afb2552016ab91a38fb7df1f7873</guid><pubDate>Tue, 21 Jul 2026 13:19:25 GMT</pubDate><description>&lt;p&gt;服务器CPU需求的强劲复苏正在为英特尔和AMD提供关键支撑，但PC市场的持续疲软构成不可忽视的下行风险，两家公司即将发布的季度财报将在这一分化格局下接受市场检验。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌Gemini三箭齐发，Flash降价提效、网络安全模型直指Anthropic，旗舰3.5 Pro仍难产</title><link>https://wallstreetcn.com/articles/3777594</link><guid>2aeeb0bd7a9abbecf355511a2ce6e3a2b5be9b440ae919d3621fe3e7236e2f44</guid><pubDate>Tue, 21 Jul 2026 15:19:47 GMT</pubDate><description>&lt;p&gt;谷歌又一次把“AI军备竞赛”的焦点，从单纯追求更大、更强的旗舰模型，转向了更便宜、更快、更适合大规模部署的AI智能体。&lt;/p&gt;
+&lt;p&gt;美东时间21日周二，谷歌宣布推出Gemini 3.6 Flash、Gemini 3.5 Flash-Lite以及面向网络安全的Gemini 3.5 Flash Cyber。其中，Gemini 3.6 Flash主打代码、知识工作和多模态任务，在减少输出Token消耗的同时，价格也低于上一代；Flash-Lite则瞄准高吞吐、低延迟场景；Flash Cyber则通过CodeMender代码安全智能体，试图以更低成本切入网络安全AI市场。&lt;/p&gt;
+&lt;p&gt;相比前代3.5 Flash，Gemini 3.6 Flash的输出价格下调约17%，但并非所有新模型都名义价格下降。Gemini 3.5 Flash-Lite的重点在于通过更快的响应速度和更高的任务效率，降低高吞吐场景下的整体使用成本。与上一代Gemini 3.1 Flash-Lite相比，其名义Token价格并未下降，输出价格反而更高。&lt;/p&gt;
+&lt;p&gt;因此，谷歌此次AI产品策略的核心，与其说是全面“价格战”，不如说是通过模型分层，试图在模型能力、Token消耗、响应速度和实际任务成本之间寻找新的平衡。&lt;/p&gt;
+&lt;p&gt;同时，此次发布暴露出谷歌当前AI战略的一个尴尬：市场最期待的旗舰模型Gemini 3.5 Pro仍然没有正式发布。路透社报道称，该模型原定于6月推出，目前仍在与合作伙伴测试，谷歌只表示将在“准备好后”尽快扩大开放。与此同时，谷歌已经启动了迄今最雄心勃勃的Gemini 4预训练工作。&lt;/p&gt;
+&lt;p&gt;在OpenAI和Anthropic持续推出更强大模型、AI企业客户开始越来越关注推理成本和Token效率的背景下，谷歌此次发布的三款模型，实际上更像是一次围绕“AI智能体商业化”的全面补位。&lt;/p&gt;
+Gemini 3.6 Flash：更少Token，更低价格，代码和智能体能力同步提升
+&lt;p&gt;谷歌此次更新的核心模型是Gemini 3.6 Flash。&lt;/p&gt;
+&lt;p&gt;按照谷歌的说法，3.6 Flash是在此前Gemini 3.5 Flash基础上，根据开发者和企业客户反馈进行优化的“工作马”模型，重点提升代码编程、知识工作和多模态能力。&lt;/p&gt;
+&lt;p&gt;更值得关注的是效率。&lt;/p&gt;
+&lt;p&gt;谷歌援引Artificial Analysis Index称，Gemini 3.6 Flash相比3.5 Flash的输出Token消耗减少17%，同时完成多步骤工作流所需的推理步骤和工具调用次数也有所减少。对于需要长时间运行、反复调用工具的AI智能体而言，这意味着成本并不只是简单地按Token价格下降，而是整个任务的计算量都有望减少。&lt;/p&gt;
+&lt;p&gt;价格方面，Gemini 3.6 Flash的输入价格为1.5美元/百万Token，输出价格为7.5美元/百万Token，较前代3.5 Flash9美元/百万Token的输出价低将近17%。&lt;/p&gt;
+&lt;p&gt;从谷歌公布的测试数据来看，Gemini 3.6 Flash在多个关键指标上较3.5 Flash有所提升：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DeepSWE：49%，高于37%；&lt;/li&gt;
+&lt;li&gt;MLE Bench：63.9%，高于49.7%；&lt;/li&gt;
+&lt;li&gt;OSWorld-Verified：83%，高于78.4%；&lt;/li&gt;
+&lt;li&gt;GDPval-AA v2：1421分，高于1349分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其中，OSWorld-Verified主要测试模型使用计算机完成实际任务的能力，GDPval-AA则更偏向现实世界的知识工作任务。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;谷歌强调，3.6 Flash能够减少不必要的代码修改和执行循环，从而生成更高质量、更接近生产环境要求的代码。&lt;/p&gt;
+&lt;p&gt;这正是AI模型竞争正在发生变化的一个缩影。&lt;/p&gt;
+&lt;p&gt;在早期的大模型竞争中，市场更关注模型能否在数学、知识问答和综合基准测试中取得更高分数。但随着企业开始真正部署AI智能体，模型每多调用一次工具、每多生成一段无效Token，都可能转化为实际成本。&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;“单位智能的成本”正在成为AI模型竞争的新战场&lt;/strong&gt;。&lt;/p&gt;
+Flash-Lite：每秒350个Token，瞄准高频、低成本AI应用
+&lt;p&gt;如果说3.6 Flash针对的是复杂任务，那么Gemini 3.5 Flash-Lite的目标更加明确：规模化。&lt;/p&gt;
+&lt;p&gt;谷歌将其定位为Gemini 3.5系列中速度最快、成本效率最高的模型，适用于智能搜索、文档处理以及其他高吞吐、低延迟任务。&lt;/p&gt;
+&lt;p&gt;根据Artificial Analysis的数据，Flash-Lite的输出速度达到每秒350个Token。&lt;/p&gt;
+&lt;p&gt;价格则进一步下探至：输入定价0.30美元/百万Token，输出2.50美元/百万Token。&lt;/p&gt;
+&lt;p&gt;这意味着，在大量文档总结、分类、信息抽取以及AI搜索等高频任务中，开发者可以使用更加便宜的模型处理海量请求，而不必让更昂贵的旗舰模型承担所有工作。&lt;/p&gt;
+&lt;p&gt;谷歌公布的测试数据显示，Flash-Lite相比此前的3.1 Flash-Lite，在Terminal-Bench 2.1上的成绩从31%提高至54%，GDM-MRCR v2从60.1%提高至72.2%，GDPval-AA v2则从642分提高至1140分。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更值得注意的是，谷歌称，3.5 Flash-Lite在部分测试中甚至超过了更高一级的Gemini 3 Flash，包括SWE-Bench Pro和OSWorld-Verified。&lt;/p&gt;
+&lt;p&gt;这背后反映的是谷歌对未来AI应用架构的一个判断：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;未来的AI智能体可能不会由一个超级模型独立完成所有工作，而是由多个不同成本、不同能力的模型协同完成。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个较强的“主智能体”负责规划和决策，多个便宜、快速的“子智能体”负责搜索、整理、调用工具和执行重复性任务。&lt;/p&gt;
+&lt;p&gt;在这种架构下，模型的速度和成本效率，可能比单纯的最高基准分数更加重要。&lt;/p&gt;
+谷歌推出网络安全专用模型，正面迎战Anthropic的高端模型
+&lt;p&gt;此次发布中最具战略意味的产品，可能是Gemini 3.5 Flash Cyber。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;谷歌表示，该模型专门用于发现、验证和修复代码安全漏洞，并与其CodeMender代码安全智能体结合使用。&lt;/p&gt;
+&lt;p&gt;在CodeMender体系中，多个Gemini 3.5 Flash Cyber智能体可以协同工作，最终形成综合安全报告。&lt;/p&gt;
+&lt;p&gt;谷歌称，Flash Cyber的设计目标是在低于大型模型的每Token成本下，实现具有竞争力的网络安全能力。&lt;/p&gt;
+&lt;p&gt;这显然是在对准一个正在快速升温的AI应用市场。&lt;/p&gt;
+&lt;p&gt;随着AI模型越来越擅长生成代码，企业面临的一个新问题是：AI生成代码的速度可能已经超过人类安全团队审查和修复漏洞的速度。&lt;/p&gt;
+&lt;p&gt;因此，能够自动扫描代码、发现漏洞、验证漏洞并生成修复方案的AI安全智能体，正在成为企业AI应用的重要方向。&lt;/p&gt;
+&lt;p&gt;谷歌此次将Flash Cyber与CodeMender结合，实际上试图打造一个“低成本、可规模化”的自动化安全防御系统。&lt;/p&gt;
+&lt;p&gt;谷歌对该模型的部署也相当谨慎。由于网络安全AI具有明显的双重用途属性，Flash Cyber初期将仅通过有限访问试点向政府和受信任合作伙伴提供，而不是直接全面开放。&lt;/p&gt;
+&lt;p&gt;路透社指出，谷歌当前正面临Anthropic和OpenAI的竞争压力。Anthropic近期推出了更强大的Mythos 5和Fable 5模型，OpenAI也推出了GPT-5.6。&lt;/p&gt;
+&lt;p&gt;其中，Anthropic最新模型的网络安全能力尤其受到市场关注。&lt;/p&gt;
+&lt;p&gt;因此，谷歌推出Flash Cyber的意义，不仅在于发布一个垂直领域模型，也是在试图证明：&lt;strong&gt;在AI安全领域，企业不一定需要使用最昂贵、最大的模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果一个更小、更快、更便宜的模型能够完成大部分漏洞检测和修复任务，那么企业部署AI安全工具的成本就可能显著下降。&lt;/p&gt;
+旗舰Gemini 3.5 Pro仍然延期，谷歌已经开始训练Gemini 4
+&lt;p&gt;不过，谷歌此次密集推出Flash系列，并没有完全消除市场对旗舰模型的疑问。&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Pro原计划于今年6月发布，但目前仍然处于与合作伙伴测试阶段。&lt;/p&gt;
+&lt;p&gt;路透社援引知情人士称，Gemini 3.5 Pro延期的一个重要原因，是其在内部测试中尤其是在代码任务上的表现没有达到预期。&lt;/p&gt;
+&lt;p&gt;而代码能力恰恰是目前企业AI市场增长最快、商业价值最高的应用场景之一。&lt;/p&gt;
+&lt;p&gt;这也解释了为什么谷歌在Gemini 3.5 Pro仍未发布的情况下，选择继续加码Flash系列。&lt;/p&gt;
+&lt;p&gt;一方面，Flash模型能够迅速覆盖开发者和企业客户；另一方面，谷歌也可以通过更低的价格，扩大Gemini模型的实际调用规模。&lt;/p&gt;
+&lt;p&gt;Alphabet CEO皮查伊此前曾强调，企业如果将大部分AI工作负载转移至Gemini模型，每年可能节省超过10亿美元。路透社称，谷歌近期也在持续强调Gemini模型的成本优势。&lt;/p&gt;
+&lt;p&gt;但从竞争格局看，谷歌面临的压力依然不小。&lt;/p&gt;
+&lt;p&gt;去年Gemini 3系列发布时，谷歌一度重新回到AI竞争的第一梯队，并迫使OpenAI内部发出“红色警报”。然而，此后Anthropic和OpenAI继续推出更强大的模型，谷歌的旗舰产品却出现延期。&lt;/p&gt;
+&lt;p&gt;如今，谷歌的战略开始出现明显分层：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gemini 3.6 Flash负责效率，Flash-Lite负责规模，Flash Cyber负责垂直场景，而Gemini 3.5 Pro则承担重新证明谷歌顶级模型能力的任务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更大的悬念在于Gemini 4。&lt;/p&gt;
+&lt;p&gt;谷歌此次透露，Gemini 4已经启动了“迄今最雄心勃勃的预训练工作”。&lt;/p&gt;
+&lt;p&gt;这意味着，谷歌正在一边修补Gemini 3.5 Pro的延期问题，一边加速下一代旗舰模型的研发。&lt;/p&gt;
+&lt;p&gt;对于Alphabet而言，真正的考验已经不只是“能否发布一个更强的模型”，而是能否同时解决三个问题：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;模型能力能否追上OpenAI和Anthropic；模型成本能否足够低；以及AI模型能否真正转化为搜索、云计算和企业软件业务的收入增长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从此次三款新模型的发布来看，谷歌正在把“更强模型”的竞争，进一步转向“更高性价比的AI基础设施”竞争。&lt;/p&gt;
+&lt;p&gt;但在Gemini 3.5 Pro正式亮相之前，市场恐怕仍会继续追问：谷歌能否再次拿出一个足以改变AI竞争格局的旗舰模型。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔AMD财报前瞻：数据中心复苏曙光初现，PC市场仍有隐忧</title><link>https://wallstreetcn.com/articles/3777580</link><guid>668f43869a7db50d6d79ab66534b8bf7acf5afb2552016ab91a38fb7df1f7873</guid><pubDate>Tue, 21 Jul 2026 13:19:25 GMT</pubDate><description>&lt;p&gt;服务器CPU需求的强劲复苏正在为英特尔和AMD提供关键支撑，但PC市场的持续疲软构成不可忽视的下行风险，两家公司即将发布的季度财报将在这一分化格局下接受市场检验。&lt;/p&gt;
 &lt;p&gt;追风交易台消息，据伯恩斯坦研究7月21日发布的前瞻报告，分析师Stacy A. Rasgon维持英特尔&amp;quot;市场表现&amp;quot;评级及100美元目标价，维持AMD&amp;quot;跑赢大市&amp;quot;评级及600美元目标价。&lt;/p&gt;
 &lt;p&gt;报告指出&lt;strong&gt;，数据中心业务的强劲势头有望部分抵消客户端业务的拖累，但两家公司的全年预测均低于市场一致预期，主要分歧集中于PC需求假设。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;英特尔股价年初至今已累计上涨163%，显著跑赢大盘与费城半导体指数；AMD同期涨幅达135%，但均已从近期高点明显回落。&lt;/p&gt;
@@ -357,24 +428,7 @@ PC市场：内存压力构成下半年隐忧
 &lt;p&gt;有分析指出，&lt;strong&gt;美国政府原本希望通过50%的钢铝关税提高美国国内产能，然而这一关税措施成效有限。美国原铝产能不足，严重依赖从加拿大和中东地区进口来满足国内需求。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;持续高企的铝价已对美国下游制造业产生深远影响。&lt;strong&gt;家电、饮料罐、汽车等行业的生产商正面临全球最高的原材料成本，并普遍转向“即时采购”模式——仅维持满足当前生产所需的最低库存，以规避价格波动风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年以来，伦敦金属交易所铝价在关税冲击与供应紧张的双重作用下持续走高。尽管新的激励计划若能吸引企业实质性投资建厂，有望在中长期缓解供应紧张局面，但从短期看，美国铝市场的结构性供需缺口仍难以迅速弥合。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达的「地下」战役：百亿美元暗光纤为何是比芯片更深的护城河</title><link>https://wallstreetcn.com/articles/3777530</link><guid>eeef8559f73bc096a166222ff72981c425d511c06394008ec24a534b58213c71</guid><pubDate>Tue, 21 Jul 2026 05:43:56 GMT</pubDate><description>&lt;p&gt;英伟达正在全美范围内秘密推进一个与芯片无关、却可能比任何一款GPU都更具战略防御价值的项目：在全美范围收购已铺设但从未激活的暗光纤，自建电信级网络基础设施。&lt;/p&gt;
-&lt;p&gt;周二，据Needham与Wolfe Research先后披露，&lt;strong&gt;该项目未来三年预计耗资50至100亿美元，建成后总带宽潜力可达7.6 Petabits/秒——这一规模已超越企业级需求，直指电信运营商级别的基础设施控制权。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与直接购买带宽不同，收购暗光纤意味着英伟达获得了光纤线路的完全使用权，从光传输设备选型到网络拓扑设计，全部自主定义。这是一条更重资产、更长周期、但也更具排他性的道路。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wolfe Research在报告中将这一布局定性为英伟达&amp;quot;应对ASIC崛起的终极保险策略&amp;quot;。&lt;/strong&gt;在大客户自研芯片不断蚕食GPU份额的背景下，英伟达正试图将竞争从&amp;quot;谁的芯片更快&amp;quot;延伸至&amp;quot;谁能把算力直接送到客户手里&amp;quot;——通过控制物理传输层，在硬件竞争之外开辟第二条护城河。&lt;/p&gt;
-&lt;p&gt;对投资者而言，这一消息折射出英伟达战略定位的根本性转变：从为云服务商供货的上游组件商，向直接触达终端客户的算力基础设施运营商演进。而这意味着英伟达与AWS、Azure、GCP之间长期微妙的共生关系，可能进入一个全新的竞合阶段。&lt;/p&gt;
-7.6 Petabits/秒：一个被低估的数字
-&lt;p&gt;英伟达暗光纤网络的总带宽上限——7.6 Petabits/秒——需要被置于适当的参照系中理解。当前全球互联网骨干网的单纤传输能力通常在数十至数百Tbps级别，而英伟达的规划规模相当于数千条骨干网级光纤的聚合能力。&lt;/p&gt;
-&lt;p&gt;暗光纤网络可以连接多个数据中心，形成一个庞大的集群。分析认为，英伟达可以将此网络租赁给 Neoclouds，从而缩小与超大规模数据中心运营商之间的差距，许多超大规模数据中心运营商拥有大量的光纤网络。&lt;/p&gt;
-&lt;p&gt;暗光纤的激活与商用化周期通常以18至36个月计。从光纤收购到光传输设备部署，再到与各地数据中心和企业节点的最后一公里连接，英伟达需要在三年内完成传统电信运营商需要五到七年才能走完的路径。这一执行节奏的激进程度，本身就在向市场传递信号。&lt;/p&gt;
-&amp;quot;终极保险&amp;quot;：暗光纤如何对冲ASIC风险
-&lt;p&gt;理解暗光纤的战略紧迫性，需要审视英伟达面临的竞争格局变化。&lt;strong&gt;博通、Marvell等公司正为谷歌、亚马逊等云巨头定制AI专用芯片（ASIC），在推理等特定场景中逐步侵蚀GPU的市场份额。当大客户拥有自研芯片的选择权时，英伟达在算力交付链条中的话语权便不再稳固。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗光纤的布局正是针对这一结构性风险的应对——通过自建网络直接触达终端客户，英伟达得以将算力从&amp;quot;经由云服务商转售&amp;quot;变为&amp;quot;端到端自主交付&amp;quot;。Wolfe Research使用&amp;quot;终极保险&amp;quot;一词的深意在于：即便未来客户在计算层选择ASIC而非英伟达GPU，只要算力经由英伟达的网络基础设施交付，英伟达依然保留了对交付层的话语权和经济利益。&lt;/p&gt;
-&lt;p&gt;这一逻辑与英伟达近年来的一系列战略动作高度一致：200亿美元引进Groq技术及团队确立了GPU+LPU异构计算范式；300亿美元投资OpenAI锁定了最大的模型训练需求方。暗光纤网络补齐的，正是从算力生产到算力交付全链条中最后一块——也是最难以被复制的——物理传输层。&lt;/p&gt;
-云巨头与电信运营商的双重压力
-&lt;p&gt;对AWS、Azure、GCP而言，GPU即服务的直销模式构成了一个棘手的前景：最重要的上游供应商正在成为特定场景中的直接竞争者。过去企业客户在云平台上租用GPU实例时，云服务商从中抽取可观的平台溢价；未来若英伟达以自有网络直接交付，这部分利润将在供需双方之间重新分配。&lt;/p&gt;
-&lt;p&gt;对传统电信运营商而言，一个市值超过5万亿美元的新买家大举收购长途暗光纤，可能推动相关资产的重估。Zayo、Crown Castle等暗光纤市场的主导者，面临的不只是竞争性买家的成本抬升，更是科技巨头对电信基础设施层渗透的加速——这一趋势已从数据中心延伸至传输网络。&lt;/p&gt;
-&lt;p&gt;但需要指出，暗光纤网络的商业运营并非易事。光传输设备、网络运维团队、与各地数据中心企业的最后一公里连接——英伟达在这些领域的经验几乎为零。即便网络建成，如何高效运营并实现商业化，仍是重大的执行风险。&lt;/p&gt;
-&lt;p&gt;暗光纤收购并非英伟达的孤立冒险，而是其从芯片公司向全栈AI基础设施运营商转型中的一环。仅过去一年，英伟达的布局便覆盖了计算架构（Groq）、客户生态（OpenAI）、供应链（SK海力士HBM合作）、地缘布局（日本机器人及汽车产业合作）——而暗光纤网络则是这张拼图中物理控制的部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI牛市走到十字路口！华尔街罕见上演多空大辩论</title><link>https://wallstreetcn.com/articles/3777532</link><guid>40feda1dd7bea822acb23cc34427cb4c8c1edd37e5a61f9cef74ac1c3821a701</guid><pubDate>Tue, 21 Jul 2026 06:32:33 GMT</pubDate><description>&lt;p&gt;人工智能交易进入第三年，华尔街对这场行情的性质判断出现罕见的公开分裂。&lt;/p&gt;
+&lt;p&gt;今年以来，伦敦金属交易所铝价在关税冲击与供应紧张的双重作用下持续走高。尽管新的激励计划若能吸引企业实质性投资建厂，有望在中长期缓解供应紧张局面，但从短期看，美国铝市场的结构性供需缺口仍难以迅速弥合。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI牛市走到十字路口！华尔街罕见上演多空大辩论</title><link>https://wallstreetcn.com/articles/3777532</link><guid>40feda1dd7bea822acb23cc34427cb4c8c1edd37e5a61f9cef74ac1c3821a701</guid><pubDate>Tue, 21 Jul 2026 06:32:33 GMT</pubDate><description>&lt;p&gt;人工智能交易进入第三年，华尔街对这场行情的性质判断出现罕见的公开分裂。&lt;/p&gt;
 &lt;p&gt;BCA Research旗下顶级宏观经济学家近期就AI行情展开内部多空辩论，双方观点针锋相对。&lt;strong&gt;空方认为美股正处于盈利泡沫之中，估值已按最乐观情景定价，几乎没有留下任何惊喜空间；&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;多方则坚持认为算力市场供不应求，资本支出的回报率被市场严重低估，盈利增长的广度也远超外界认知。&lt;/strong&gt;这场辩论的核心不在于AI是否真实存在，而在于这场狂欢还能持续多久，以及终结时市场将付出怎样的代价。&lt;/p&gt;
 &lt;p&gt;周一美股收盘普遍走低，标普500指数下跌0.2%，道琼斯工业平均指数下滑0.6%，纳斯达克综合指数基本持平。&lt;/p&gt;
