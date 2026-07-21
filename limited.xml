@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 06:29:40 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 07:29:40 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -33,7 +33,43 @@
 &lt;blockquote&gt;
 &lt;p&gt;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读美联储“五大工作组”：如果沃什想要借此“降息”，很难获得支持</title><link>https://wallstreetcn.com/articles/3777511</link><guid>beb9f2b5becd85593b9e5e155f1f9281ff5a9577034bbca12c1b513adc80f584</guid><pubDate>Tue, 21 Jul 2026 00:59:39 GMT</pubDate><description>&lt;p&gt;高盛认为，美联储“五大工作组”的建议对FOMC不具约束力，联储主席沃什（Kevin Warsh）在多个领域的激进立场——包括削减前瞻指引、压缩资产负债表、以AI通缩论为由推动宽松——&lt;strong&gt;在FOMC内部均难以获得多数支持&lt;/strong&gt;。最终结果将是一系列&amp;quot;对沃什而言看似重大、对其他官员而言影响有限&amp;quot;的妥协性变化。&lt;/p&gt;
+&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球科技股反弹！韩股涨幅扩大至4%、三星电子涨6%，油价回落、金价上涨1%</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 07:11:49 GMT</pubDate><description>&lt;p&gt;亚洲股市周一大幅走高，芯片板块领涨，投资者在近期抛售后重新布局半导体个股，与此同时，油价回落也进一步提振了市场风险情绪。&lt;/p&gt;
+&lt;p&gt;欧洲斯托克50指数开盘涨0.4%，德国DAX指数涨0.1%。亚太股市周二全面走高，结束此前四个交易日的连续下跌。芯片板块是此次反弹的核心驱动力——三星电子涨6%，&lt;strong&gt;带动韩国综合指数涨幅扩大至4%&lt;/strong&gt;，&lt;strong&gt;韩国交易所更因涨势过猛启动Sidecar机制，暂停KOSPI程序化买盘。&lt;/strong&gt;日本股市因周一休市，日经225指数周二补涨2.2%，铠侠一度涨超10%。纳斯达克100指数期货亦小幅上涨。&lt;/p&gt;
+&lt;p&gt;油价回调同样为风险偏好提供了支撑。中东地区外交斡旋持续推进，伊朗表示调停方已带来缓和局势的提案，据报道，相关方面提议双方实现为期10天的停火。布伦特原油下跌0.7%至每桶88.58美元，终结此前连续两日的涨势。&lt;/p&gt;
+&lt;p&gt;本周美国科技巨头财报季正式启幕。特斯拉与Alphabet将于周三率先披露业绩，微软、Meta、苹果与亚马逊则将在下周相继公布财报。东京Aizawa证券基金经理Ikuo Mitsui表示：&amp;quot;市场已经经历了相当幅度的调整，与此同时，企业盈利表现总体稳健，比预期更具韧性。&amp;quot;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;欧洲斯托克50指数开盘涨0.4%，德国DAX指数涨0.1%，英国富时100指数跌0.3%，法国CAC 40指数涨0.1%。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日经225指数收涨3.3%，报66232.19点。日本东证指数收涨2.4%，报4014.95点。韩国首尔综指收涨3.6%，报6747.95点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;纳斯达克100指数期货小幅上涨。&lt;/li&gt;
+&lt;li&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元。&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率变化不大，为4.59%&lt;/li&gt;
+&lt;li&gt;黄金上涨近1%，报约4044美元/盎司。&lt;/li&gt;
+&lt;li&gt;布伦特原油下跌0.9%，报约88.46美元/桶。&lt;/li&gt;
+&lt;li&gt;比特币上涨0.2%，报65,459.86美元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+财报季打响，AI叙事面临检验
+&lt;p&gt;市场反弹的背后，投资者的目光已锁定本周开始的美国科技巨头财报季。特斯拉与Alphabet将于周三率先公布业绩，拉开大型科技公司业绩披露的序幕；微软、Meta、苹果和亚马逊则将在随后一周相继发布财报。&lt;/p&gt;
+&lt;p&gt;当前市场的核心问题是：这些公司能否以实际业绩证明其在AI领域的巨额投入物有所值。&lt;/p&gt;
+&lt;p&gt;爱泽证券基金经理Ikuo Mitsui表示：&lt;strong&gt;&amp;quot;市场已经经历了相当幅度的调整，但与此同时，企业盈利表现相对稳健，展现出比预期更强的韧性。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;贝莱德投资研究院由Jean Boivin领衔的策略师团队在最新报告中写道：&amp;quot;AI投资热潮——作为增长的重要驱动力——以及我们对AI基础设施的偏好，在近期波动中依然完好无损。&amp;quot;他们同时指出，&amp;quot;当前全球经济对石油的依赖程度远低于以往能源冲击时期，这使其对油价上涨更具韧性。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+油价回落，但风险犹存
+&lt;p&gt;尽管油价周二有所回落，但中东局势仍是市场的潜在扰动因素。胡塞武装威胁封锁红海出口通道，市场持续关注沙特阿拉伯出口是否会受到冲击。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;上周油价飙升，WTI原油收于6月中旬以来最高水平，能源成本上升引发的通胀担忧一度令债市承压，美国10年期国债收益率目前维持在4.59%附近。&lt;/p&gt;
+&lt;p&gt;贝莱德策略师认为，目前没有证据显示中东局势升级会对经济增长造成足够大的冲击，从而改变市场的风险偏好立场。&lt;/p&gt;
+特朗普对加拿大加征50%关税，贸易摩擦再度升温
+&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
+&lt;p&gt;据彭博报道，若特朗普最终落实这一举措，将是其对美国第二大贸易伙伴采取的最严厉贸易行动之一。加元对此反应相对平稳，汇率基本持稳。&lt;/p&gt;
+黄金小幅上涨、美元指数变化不大
+&lt;p&gt;黄金上涨近1%，报约4044美元/盎司。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元，离岸人民币报6.7649兑1美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读美联储“五大工作组”：如果沃什想要借此“降息”，很难获得支持</title><link>https://wallstreetcn.com/articles/3777511</link><guid>beb9f2b5becd85593b9e5e155f1f9281ff5a9577034bbca12c1b513adc80f584</guid><pubDate>Tue, 21 Jul 2026 00:59:39 GMT</pubDate><description>&lt;p&gt;高盛认为，美联储“五大工作组”的建议对FOMC不具约束力，联储主席沃什（Kevin Warsh）在多个领域的激进立场——包括削减前瞻指引、压缩资产负债表、以AI通缩论为由推动宽松——&lt;strong&gt;在FOMC内部均难以获得多数支持&lt;/strong&gt;。最终结果将是一系列&amp;quot;对沃什而言看似重大、对其他官员而言影响有限&amp;quot;的妥协性变化。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美联储主席沃什近期宣布成立“五大推进货币政策工作组”，试图在沟通机制、资产负债表、数据采集、AI与生产力、以及通胀框架五个维度重塑美联储。然而，高盛在7月20日研报中给出了冷峻的现实检验：&lt;strong&gt;如果投资者押注沃什能够利用“AI具有结构性通缩作用”的叙事来推动当前的“降息”（鸽派货币政策），他们注定会失望。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛指出，尽管沃什作为主席在新闻发布会等沟通渠道上拥有巨大权力，但他的激进主张（如大幅缩表、基于AI预期制定鸽派政策）与联邦公开市场委员会（FOMC）的制度惯性存在显著冲突。&lt;/p&gt;
 &lt;p&gt;因此，该行认为，&lt;strong&gt;美联储的政策路径不会发生激进转向。&lt;/strong&gt;FOMC极难同意基于对未来生产力的预测而在今天采取宽松政策；在资产负债表和前瞻性指引上，最终的落地大概率是“&lt;strong&gt;表面上满足沃什，实质上影响有限&lt;/strong&gt;”的折中方案（例如停止公布点阵图的中位数，或微调资产购买构成）。财政部也会通过&lt;strong&gt;调整发债策略来抵消美联储资产结构变化带来的市场冲击&lt;/strong&gt;。&lt;/p&gt;
@@ -124,57 +160,27 @@ Nebius：英伟达持股9.3%，机构看好2030年营收达300亿美元
 &lt;p&gt;受整体板块情绪带动，neocloud龙头CoreWeave周一亦上涨约3.5%，Nebius日内涨幅约2.6%。&lt;/p&gt;
 赛道逻辑：电力、GPU与客户，谁跑得快谁赢
 &lt;p&gt;三家公司的集中爆发，折射出neocloud赛道当前的核心竞争要素：电力资源、GPU供给与客户锁定能力。超大规模云服务商数据中心建设的结构性瓶颈，正在为能够快速整合上述资源的独立运营商创造持续的议价空间。&lt;/p&gt;
-&lt;p&gt;对投资者而言，此轮行情的信号意义在于：&lt;strong&gt;科技巨头的AI基础设施支出正加速向第三方neocloud运营商溢出，&lt;/strong&gt;而英伟达直接入股Nebius，更进一步强化了市场对这一赛道长期价值的信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球科技股反弹！韩股涨幅扩大至4%、三星电子涨6%，油价回落、金价上涨1%</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 05:08:15 GMT</pubDate><description>&lt;p&gt;亚洲股市周一大幅走高，芯片板块领涨，投资者在近期抛售后重新布局半导体个股，与此同时，油价回落也进一步提振了市场风险情绪。&lt;/p&gt;
-&lt;p&gt;亚太股市周二全面走高，MSCI亚太指数上涨2%至265.96点，结束此前四个交易日的连续下跌。芯片板块是此次反弹的核心驱动力——三星电子涨6%，&lt;strong&gt;带动韩国综合指数涨幅扩大至4%&lt;/strong&gt;，&lt;strong&gt;韩国交易所更因涨势过猛启动Sidecar机制，暂停KOSPI程序化买盘。&lt;/strong&gt;日本股市因周一休市，日经225指数周二补涨2.2%，铠侠一度涨超10%。纳斯达克100指数期货亦小幅上涨。&lt;/p&gt;
-&lt;p&gt;油价回调同样为风险偏好提供了支撑。中东地区外交斡旋持续推进，伊朗表示调停方已带来缓和局势的提案，据报道，相关方面提议双方实现为期10天的停火。布伦特原油下跌0.7%至每桶88.58美元，终结此前连续两日的涨势。&lt;/p&gt;
-&lt;p&gt;本周美国科技巨头财报季正式启幕。特斯拉与Alphabet将于周三率先披露业绩，微软、Meta、苹果与亚马逊则将在下周相继公布财报。东京Aizawa证券基金经理Ikuo Mitsui表示：&amp;quot;市场已经经历了相当幅度的调整，与此同时，企业盈利表现总体稳健，比预期更具韧性。&amp;quot;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;韩国综合指数涨幅扩大至4%，韩国交易所更因涨势过猛启动Sidecar机制，暂停KOSPI程序化买盘。日经225指数周二补涨2.2%，铠侠一度涨超10%。&lt;/li&gt;
-&lt;li&gt;纳斯达克100指数期货小幅上涨。&lt;/li&gt;
-&lt;li&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元。&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率变化不大，为4.59%&lt;/li&gt;
-&lt;li&gt;黄金上涨近1%，报约4044美元/盎司。&lt;/li&gt;
-&lt;li&gt;布伦特原油下跌0.9%，报约88.46美元/桶。&lt;/li&gt;
-&lt;li&gt;比特币上涨0.2%，报65,459.86美元&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-财报季打响，AI叙事面临检验
-&lt;p&gt;市场反弹的背后，投资者的目光已锁定本周开始的美国科技巨头财报季。特斯拉与Alphabet将于周三率先公布业绩，拉开大型科技公司业绩披露的序幕；微软、Meta、苹果和亚马逊则将在随后一周相继发布财报。&lt;/p&gt;
-&lt;p&gt;当前市场的核心问题是：这些公司能否以实际业绩证明其在AI领域的巨额投入物有所值。&lt;/p&gt;
-&lt;p&gt;爱泽证券基金经理Ikuo Mitsui表示：&lt;strong&gt;&amp;quot;市场已经经历了相当幅度的调整，但与此同时，企业盈利表现相对稳健，展现出比预期更强的韧性。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;贝莱德投资研究院由Jean Boivin领衔的策略师团队在最新报告中写道：&amp;quot;AI投资热潮——作为增长的重要驱动力——以及我们对AI基础设施的偏好，在近期波动中依然完好无损。&amp;quot;他们同时指出，&amp;quot;当前全球经济对石油的依赖程度远低于以往能源冲击时期，这使其对油价上涨更具韧性。&amp;quot;&lt;/p&gt;
+&lt;p&gt;对投资者而言，此轮行情的信号意义在于：&lt;strong&gt;科技巨头的AI基础设施支出正加速向第三方neocloud运营商溢出，&lt;/strong&gt;而英伟达直接入股Nebius，更进一步强化了市场对这一赛道长期价值的信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI牛市走到十字路口！华尔街罕见上演多空大辩论</title><link>https://wallstreetcn.com/articles/3777532</link><guid>40feda1dd7bea822acb23cc34427cb4c8c1edd37e5a61f9cef74ac1c3821a701</guid><pubDate>Tue, 21 Jul 2026 06:32:33 GMT</pubDate><description>&lt;p&gt;人工智能交易进入第三年，华尔街对这场行情的性质判断出现罕见的公开分裂。&lt;/p&gt;
+&lt;p&gt;BCA Research旗下顶级宏观经济学家近期就AI行情展开内部多空辩论，双方观点针锋相对。&lt;strong&gt;空方认为美股正处于盈利泡沫之中，估值已按最乐观情景定价，几乎没有留下任何惊喜空间；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;多方则坚持认为算力市场供不应求，资本支出的回报率被市场严重低估，盈利增长的广度也远超外界认知。&lt;/strong&gt;这场辩论的核心不在于AI是否真实存在，而在于这场狂欢还能持续多久，以及终结时市场将付出怎样的代价。&lt;/p&gt;
+&lt;p&gt;周一美股收盘普遍走低，标普500指数下跌0.2%，道琼斯工业平均指数下滑0.6%，纳斯达克综合指数基本持平。&lt;/p&gt;
+空方：盈利泡沫已成型，估值超越2000年科网峰值
+&lt;p&gt;BCA Research首席经济学家Peter Berezin与核心宏观及新兴市场首席策略师Arthur Budaghyan在上周的多空辩论网络直播中明确表达了看空立场。两人认为，当前美股正处于一场盈利泡沫之中——利润数字看似强劲，但利润率的可持续性远不如表面所呈现的那般稳固，而估值已将最理想的结果完全定价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从估值角度看，几乎所有衡量指标均显示股价偏贵。若将标普500指数的利润率回调至2019年水平，该指数当前对应的远期市盈率约为27倍，高于2000年3月约26.5倍的历史峰值。&lt;/strong&gt;即便剔除科技股与金融股，其余板块的估值同样不便宜——按BCA Research与FactSet的数据，这部分市场目前以26倍的滚动市盈率交易，而过去两至三年的利润增长仅约3%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-油价回落，但风险犹存
-&lt;p&gt;尽管油价周二有所回落，但中东局势仍是市场的潜在扰动因素。胡塞武装威胁封锁红海出口通道，市场持续关注沙特阿拉伯出口是否会受到冲击。&lt;/p&gt;
+&lt;p&gt;在AI资本支出问题上，Berezin和Budaghyan指出，大型科技超大规模云服务商（hyperscalers）向数据中心、专用芯片、电网及能源升级集体投入数千亿美元，这些巨额资本支出虽然推高了账面盈利，却在侵蚀实际现金流。&amp;quot;每一块售出的芯片都作为营收和利润计入卖方报表，而购买芯片的超大规模云服务商将其列为资本支出而非运营成本，因此账面盈利上升，但并未伴随现金流的同步增长，&amp;quot;两人表示。&lt;/p&gt;
+&lt;p&gt;Berezin进一步指出，&amp;quot;AI最终可能与电力的发展轨迹相似——它会提升企业效率，但如果所有人都能获得，未必会让企业变得更加盈利。&amp;quot;&lt;/p&gt;
+多方：算力供不应求，超大规模云服务商估值创十年新低
+&lt;p&gt;BCA Research投资组合构建主管Juan Correa与股票研究主管Noah Weisberger则持截然相反的立场。两人认为，算力市场目前仍处于供给稀缺而非过剩的状态，市场对资本支出回报率的判断是低估而非高估，盈利增长的覆盖面也比通常与AI挂钩的少数几家公司要宽泛得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在需求端，BCA Research的数据显示，超大规模云服务商的云业务积压订单——即已接收但尚未履行的订单——在过去两个季度内增长了约7500亿美元，表明行业需求仍持续跑在供给能力之前。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在估值层面，Correa和Weisberger认为，尽管市场对高估值普遍存有顾虑，但超大规模云服务商实际上正以近十年来最低的估值水平交易，与此同时其回报率仍在持续改善。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;上周油价飙升，WTI原油收于6月中旬以来最高水平，能源成本上升引发的通胀担忧一度令债市承压，美国10年期国债收益率目前维持在4.59%附近。&lt;/p&gt;
-&lt;p&gt;贝莱德策略师认为，目前没有证据显示中东局势升级会对经济增长造成足够大的冲击，从而改变市场的风险偏好立场。&lt;/p&gt;
-特朗普对加拿大加征50%关税，贸易摩擦再度升温
-&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
-&lt;p&gt;据彭博报道，若特朗普最终落实这一举措，将是其对美国第二大贸易伙伴采取的最严厉贸易行动之一。加元对此反应相对平稳，汇率基本持稳。&lt;/p&gt;
-黄金小幅上涨、美元指数变化不大
-&lt;p&gt;黄金上涨近1%，报约4044美元/盎司。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元，离岸人民币报6.7649兑1美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达的「地下」战役：百亿美元暗光纤为何是比芯片更深的护城河</title><link>https://wallstreetcn.com/articles/3777530</link><guid>eeef8559f73bc096a166222ff72981c425d511c06394008ec24a534b58213c71</guid><pubDate>Tue, 21 Jul 2026 05:43:56 GMT</pubDate><description>&lt;p&gt;英伟达正在全美范围内秘密推进一个与芯片无关、却可能比任何一款GPU都更具战略防御价值的项目：在全美范围收购已铺设但从未激活的暗光纤，自建电信级网络基础设施。&lt;/p&gt;
-&lt;p&gt;周二，据Needham与Wolfe Research先后披露，&lt;strong&gt;该项目未来三年预计耗资50至100亿美元，建成后总带宽潜力可达7.6 Petabits/秒——这一规模已超越企业级需求，直指电信运营商级别的基础设施控制权。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与直接购买带宽不同，收购暗光纤意味着英伟达获得了光纤线路的完全使用权，从光传输设备选型到网络拓扑设计，全部自主定义。这是一条更重资产、更长周期、但也更具排他性的道路。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wolfe Research在报告中将这一布局定性为英伟达&amp;quot;应对ASIC崛起的终极保险策略&amp;quot;。&lt;/strong&gt;在大客户自研芯片不断蚕食GPU份额的背景下，英伟达正试图将竞争从&amp;quot;谁的芯片更快&amp;quot;延伸至&amp;quot;谁能把算力直接送到客户手里&amp;quot;——通过控制物理传输层，在硬件竞争之外开辟第二条护城河。&lt;/p&gt;
-&lt;p&gt;对投资者而言，这一消息折射出英伟达战略定位的根本性转变：从为云服务商供货的上游组件商，向直接触达终端客户的算力基础设施运营商演进。而这意味着英伟达与AWS、Azure、GCP之间长期微妙的共生关系，可能进入一个全新的竞合阶段。&lt;/p&gt;
-7.6 Petabits/秒：一个被低估的数字
-&lt;p&gt;英伟达暗光纤网络的总带宽上限——7.6 Petabits/秒——需要被置于适当的参照系中理解。当前全球互联网骨干网的单纤传输能力通常在数十至数百Tbps级别，而英伟达的规划规模相当于数千条骨干网级光纤的聚合能力。&lt;/p&gt;
-&lt;p&gt;暗光纤网络可以连接多个数据中心，形成一个庞大的集群。分析认为，英伟达可以将此网络租赁给 Neoclouds，从而缩小与超大规模数据中心运营商之间的差距，许多超大规模数据中心运营商拥有大量的光纤网络。&lt;/p&gt;
-&lt;p&gt;暗光纤的激活与商用化周期通常以18至36个月计。从光纤收购到光传输设备部署，再到与各地数据中心和企业节点的最后一公里连接，英伟达需要在三年内完成传统电信运营商需要五到七年才能走完的路径。这一执行节奏的激进程度，本身就在向市场传递信号。&lt;/p&gt;
-&amp;quot;终极保险&amp;quot;：暗光纤如何对冲ASIC风险
-&lt;p&gt;理解暗光纤的战略紧迫性，需要审视英伟达面临的竞争格局变化。&lt;strong&gt;博通、Marvell等公司正为谷歌、亚马逊等云巨头定制AI专用芯片（ASIC），在推理等特定场景中逐步侵蚀GPU的市场份额。当大客户拥有自研芯片的选择权时，英伟达在算力交付链条中的话语权便不再稳固。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;暗光纤的布局正是针对这一结构性风险的应对——通过自建网络直接触达终端客户，英伟达得以将算力从&amp;quot;经由云服务商转售&amp;quot;变为&amp;quot;端到端自主交付&amp;quot;。Wolfe Research使用&amp;quot;终极保险&amp;quot;一词的深意在于：即便未来客户在计算层选择ASIC而非英伟达GPU，只要算力经由英伟达的网络基础设施交付，英伟达依然保留了对交付层的话语权和经济利益。&lt;/p&gt;
-&lt;p&gt;这一逻辑与英伟达近年来的一系列战略动作高度一致：200亿美元引进Groq技术及团队确立了GPU+LPU异构计算范式；300亿美元投资OpenAI锁定了最大的模型训练需求方。暗光纤网络补齐的，正是从算力生产到算力交付全链条中最后一块——也是最难以被复制的——物理传输层。&lt;/p&gt;
-云巨头与电信运营商的双重压力
-&lt;p&gt;对AWS、Azure、GCP而言，GPU即服务的直销模式构成了一个棘手的前景：最重要的上游供应商正在成为特定场景中的直接竞争者。过去企业客户在云平台上租用GPU实例时，云服务商从中抽取可观的平台溢价；未来若英伟达以自有网络直接交付，这部分利润将在供需双方之间重新分配。&lt;/p&gt;
-&lt;p&gt;对传统电信运营商而言，一个市值超过5万亿美元的新买家大举收购长途暗光纤，可能推动相关资产的重估。Zayo、Crown Castle等暗光纤市场的主导者，面临的不只是竞争性买家的成本抬升，更是科技巨头对电信基础设施层渗透的加速——这一趋势已从数据中心延伸至传输网络。&lt;/p&gt;
-&lt;p&gt;但需要指出，暗光纤网络的商业运营并非易事。光传输设备、网络运维团队、与各地数据中心企业的最后一公里连接——英伟达在这些领域的经验几乎为零。即便网络建成，如何高效运营并实现商业化，仍是重大的执行风险。&lt;/p&gt;
-&lt;p&gt;暗光纤收购并非英伟达的孤立冒险，而是其从芯片公司向全栈AI基础设施运营商转型中的一环。仅过去一年，英伟达的布局便覆盖了计算架构（Groq）、客户生态（OpenAI）、供应链（SK海力士HBM合作）、地缘布局（日本机器人及汽车产业合作）——而暗光纤网络则是这张拼图中物理控制的部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
+&lt;p&gt;从更广泛的盈利信号来看，最新一代GPU的租赁价格年内持续上涨，云合同价值按每兆瓦计算较一年前大约翻倍，息税前利润与员工人数之比大幅攀升；此外，核心云业务之外的盈利同样快速增长，包括Meta受AI驱动的广告收益提升，以及谷歌搜索业务的强劲复苏。&amp;quot;市场预期将在未来两个季度内被这些资本支出实际产生的盈利规模所惊艳，&amp;quot;两人表示。&lt;/p&gt;
+分歧焦点：不是&amp;quot;是否&amp;quot;，而是&amp;quot;何时&amp;quot;与&amp;quot;如何终结&amp;quot;
+&lt;p&gt;值得注意的是，这场多空辩论并非围绕AI技术本身的真实性展开——双方均认同AI正在从根本上重塑企业生产率、资本配置与劳动力市场，这一前提不存在争议。&lt;/p&gt;
+&lt;p&gt;真正的分歧在于时间维度：&lt;strong&gt;AI支出的狂热还能在多大程度上跑赢质疑，以及当市场最终迎来清算时，冲击将有多剧烈。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;耐人寻味的是，就连多方阵营也承认这场行情终将以破坏性方式收场。“资本支出交易最终将会结束，而且很可能以破坏性的方式结束，”Correa和Weisberger表示，“但就目前而言，经济与基本面的顺风因素将占据主导。对多头而言，最大的担忧是估值压缩，而非经济衰退或盈利崩溃。”&lt;/p&gt;
+&lt;p&gt;这意味着，无论投资者是否意识到，他们都已身处这场辩论之中——而答案，将由市场在未来数个季度内给出。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
 &lt;p&gt;继上周五重挫28%后，智谱周一再度下跌19.56%，收报890.5港元，市值降至4146亿港元。仅两个交易日，市值合计蒸发逾3000亿港元。而若从盘中突破1万亿港元的历史高点计算，累计跌幅已达约60%。&lt;/p&gt;
 &lt;p&gt;引爆市场情绪的核心冲突在于：智谱于7月13日以每股1588港元完成1978万股配售，募资净额约313.75亿港元，但仅一周后股价便跌至890.5港元。&lt;/p&gt;
 &lt;p&gt;这意味着参与配售的机构资金账面浮亏达43.9%。高位融资与股价急跌之间仅隔了七个自然日，配售时机的合理性成为市场焦点。&lt;/p&gt;
@@ -248,7 +254,24 @@ K3真正改变的是竞争节奏，不是单一公司的故事
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达的「地下」战役：百亿美元暗光纤为何是比芯片更深的护城河</title><link>https://wallstreetcn.com/articles/3777530</link><guid>eeef8559f73bc096a166222ff72981c425d511c06394008ec24a534b58213c71</guid><pubDate>Tue, 21 Jul 2026 05:43:56 GMT</pubDate><description>&lt;p&gt;英伟达正在全美范围内秘密推进一个与芯片无关、却可能比任何一款GPU都更具战略防御价值的项目：在全美范围收购已铺设但从未激活的暗光纤，自建电信级网络基础设施。&lt;/p&gt;
+&lt;p&gt;周二，据Needham与Wolfe Research先后披露，&lt;strong&gt;该项目未来三年预计耗资50至100亿美元，建成后总带宽潜力可达7.6 Petabits/秒——这一规模已超越企业级需求，直指电信运营商级别的基础设施控制权。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与直接购买带宽不同，收购暗光纤意味着英伟达获得了光纤线路的完全使用权，从光传输设备选型到网络拓扑设计，全部自主定义。这是一条更重资产、更长周期、但也更具排他性的道路。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wolfe Research在报告中将这一布局定性为英伟达&amp;quot;应对ASIC崛起的终极保险策略&amp;quot;。&lt;/strong&gt;在大客户自研芯片不断蚕食GPU份额的背景下，英伟达正试图将竞争从&amp;quot;谁的芯片更快&amp;quot;延伸至&amp;quot;谁能把算力直接送到客户手里&amp;quot;——通过控制物理传输层，在硬件竞争之外开辟第二条护城河。&lt;/p&gt;
+&lt;p&gt;对投资者而言，这一消息折射出英伟达战略定位的根本性转变：从为云服务商供货的上游组件商，向直接触达终端客户的算力基础设施运营商演进。而这意味着英伟达与AWS、Azure、GCP之间长期微妙的共生关系，可能进入一个全新的竞合阶段。&lt;/p&gt;
+7.6 Petabits/秒：一个被低估的数字
+&lt;p&gt;英伟达暗光纤网络的总带宽上限——7.6 Petabits/秒——需要被置于适当的参照系中理解。当前全球互联网骨干网的单纤传输能力通常在数十至数百Tbps级别，而英伟达的规划规模相当于数千条骨干网级光纤的聚合能力。&lt;/p&gt;
+&lt;p&gt;暗光纤网络可以连接多个数据中心，形成一个庞大的集群。分析认为，英伟达可以将此网络租赁给 Neoclouds，从而缩小与超大规模数据中心运营商之间的差距，许多超大规模数据中心运营商拥有大量的光纤网络。&lt;/p&gt;
+&lt;p&gt;暗光纤的激活与商用化周期通常以18至36个月计。从光纤收购到光传输设备部署，再到与各地数据中心和企业节点的最后一公里连接，英伟达需要在三年内完成传统电信运营商需要五到七年才能走完的路径。这一执行节奏的激进程度，本身就在向市场传递信号。&lt;/p&gt;
+&amp;quot;终极保险&amp;quot;：暗光纤如何对冲ASIC风险
+&lt;p&gt;理解暗光纤的战略紧迫性，需要审视英伟达面临的竞争格局变化。&lt;strong&gt;博通、Marvell等公司正为谷歌、亚马逊等云巨头定制AI专用芯片（ASIC），在推理等特定场景中逐步侵蚀GPU的市场份额。当大客户拥有自研芯片的选择权时，英伟达在算力交付链条中的话语权便不再稳固。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暗光纤的布局正是针对这一结构性风险的应对——通过自建网络直接触达终端客户，英伟达得以将算力从&amp;quot;经由云服务商转售&amp;quot;变为&amp;quot;端到端自主交付&amp;quot;。Wolfe Research使用&amp;quot;终极保险&amp;quot;一词的深意在于：即便未来客户在计算层选择ASIC而非英伟达GPU，只要算力经由英伟达的网络基础设施交付，英伟达依然保留了对交付层的话语权和经济利益。&lt;/p&gt;
+&lt;p&gt;这一逻辑与英伟达近年来的一系列战略动作高度一致：200亿美元引进Groq技术及团队确立了GPU+LPU异构计算范式；300亿美元投资OpenAI锁定了最大的模型训练需求方。暗光纤网络补齐的，正是从算力生产到算力交付全链条中最后一块——也是最难以被复制的——物理传输层。&lt;/p&gt;
+云巨头与电信运营商的双重压力
+&lt;p&gt;对AWS、Azure、GCP而言，GPU即服务的直销模式构成了一个棘手的前景：最重要的上游供应商正在成为特定场景中的直接竞争者。过去企业客户在云平台上租用GPU实例时，云服务商从中抽取可观的平台溢价；未来若英伟达以自有网络直接交付，这部分利润将在供需双方之间重新分配。&lt;/p&gt;
+&lt;p&gt;对传统电信运营商而言，一个市值超过5万亿美元的新买家大举收购长途暗光纤，可能推动相关资产的重估。Zayo、Crown Castle等暗光纤市场的主导者，面临的不只是竞争性买家的成本抬升，更是科技巨头对电信基础设施层渗透的加速——这一趋势已从数据中心延伸至传输网络。&lt;/p&gt;
+&lt;p&gt;但需要指出，暗光纤网络的商业运营并非易事。光传输设备、网络运维团队、与各地数据中心企业的最后一公里连接——英伟达在这些领域的经验几乎为零。即便网络建成，如何高效运营并实现商业化，仍是重大的执行风险。&lt;/p&gt;
+&lt;p&gt;暗光纤收购并非英伟达的孤立冒险，而是其从芯片公司向全栈AI基础设施运营商转型中的一环。仅过去一年，英伟达的布局便覆盖了计算架构（Groq）、客户生态（OpenAI）、供应链（SK海力士HBM合作）、地缘布局（日本机器人及汽车产业合作）——而暗光纤网络则是这张拼图中物理控制的部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
 &lt;p&gt;据称，新关税将自美东时间8月19日凌晨00时01分起生效，并将在现有相关关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
 &lt;p&gt;美国官员在与媒体举行的电话会上表示：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -297,12 +320,12 @@ K3真正改变的是竞争节奏，不是单一公司的故事
 &lt;p&gt;此外，美国官员特别强调，此次关税与特朗普上周五就加拿大野火烟雾飘入美国境内所威胁的另一轮关税措施相互独立，两者并行推进。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加拿大方面迅速作出反应。&lt;/strong&gt;安大略省省长Doug Ford在社交媒体平台X上表示，&amp;quot;我永远不会停止为安大略而战&amp;quot;，并呼吁加拿大以&amp;quot;关税对关税、美元对美元&amp;quot;的方式予以还击。Ford此前曾因播放反关税广告而激怒特朗普，近期态度已趋于温和，但此次措辞再度强硬。&lt;/p&gt;
 &lt;p&gt;加拿大商会则采取了相对克制的立场，将&lt;strong&gt;此次事态定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁华盛顿与渥太华在新关税生效前的30天窗口期内展开对话，为谈判解决留下空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析指出，特朗普此举有可能重新点燃此前已有所降温的全球贸易摩擦。今年早些时候，美国最高法院裁定推翻了特朗普的全球紧急关税措施，贸易紧张态势一度缓和，但此次针对加拿大的新一轮关税行动令市场对贸易战卷土重来的担忧再度升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大反转！创业板爆涨超6%，芯片半导体爆发、半导体设备掀涨停潮，恒科指涨超1%，智谱飙涨超35%</title><link>https://wallstreetcn.com/articles/3777521</link><guid>0a2af7c4e02af1287792099e9157434a8bfd613fb817c760fb9ff96a2a93e630</guid><pubDate>Tue, 21 Jul 2026 06:26:52 GMT</pubDate><description>&lt;p&gt;芯片产业链全线爆发：上海AI新政与工信部&amp;quot;AI+制造&amp;quot;行动形成政策双催化，华为WAIC技术突破助攻，三重共振驱动科创50从一度跌超3%逆转暴涨近7%。&lt;/p&gt;
-&lt;p&gt;7月21日，A股午后进一步拉升，三大股指集体上涨，在芯片产业链的爆发下，创业板大涨6%，科创50指数涨超9%。半导体芯片股大幅反弹，北方华创等涨停，AI硬件股探底回升；医药、油气、金融、白酒板块调整。&lt;/p&gt;
+&lt;p&gt;分析指出，特朗普此举有可能重新点燃此前已有所降温的全球贸易摩擦。今年早些时候，美国最高法院裁定推翻了特朗普的全球紧急关税措施，贸易紧张态势一度缓和，但此次针对加拿大的新一轮关税行动令市场对贸易战卷土重来的担忧再度升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大反转！科创50狂涨超10%，芯片半导体大爆发、半导体设备掀涨停潮，恒科指涨超1%，智谱飙涨超35%</title><link>https://wallstreetcn.com/articles/3777521</link><guid>0a2af7c4e02af1287792099e9157434a8bfd613fb817c760fb9ff96a2a93e630</guid><pubDate>Tue, 21 Jul 2026 06:39:32 GMT</pubDate><description>&lt;p&gt;芯片产业链全线爆发：上海AI新政与工信部&amp;quot;AI+制造&amp;quot;行动形成政策双催化，华为WAIC技术突破助攻，三重共振驱动科创50从一度跌超3%逆转暴涨超10%。&lt;/p&gt;
+&lt;p&gt;7月21日，A股午后进一步拉升，三大股指集体上涨，在芯片产业链的爆发下，创业板大涨6%，科创50指数涨超40%。半导体芯片股大幅反弹，北方华创等涨停，AI硬件股探底回升；医药、油气、金融、白酒板块调整。&lt;/p&gt;
 &lt;p&gt;港股震荡分化，恒指、恒科指盘初小幅走高，随后恒指回落转跌，恒科指接近翻绿，临近午盘在芯片股爆发带动下，恒科指涨近2%，科网股分化，芯片股拉升，华虹宏力大涨16%，AI大模型股爆发，智谱涨超25%，因其正式完成对国产AI异构算力软件公司中科加禾（XCore Sigma）的收购。&lt;/p&gt;
 &lt;p&gt;债市方面，国债期货多数走高，商品方面，国内商品期货普遍下跌，碳酸锂跌超6%。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨1.43%，深成指涨4.48%，创业板指涨6.65%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨1.56%，深成指涨4.54%，创业板指涨6.63%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.02%，恒科指涨1.39%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -311,6 +334,9 @@ K3真正改变的是竞争节奏，不是单一公司的故事
 &lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普跌，截至发稿，新能源材料跌幅居前，碳酸锂跌4.45%；能源品全部下跌，低硫燃料油跌3.24%；黑色系多数下跌，焦炭跌2.76%；农副产品多数下跌，鸡蛋跌2.26%；化工品多数下跌，20号胶跌1.60%；非金属建材涨跌参半，PVC跌0.89%；油脂油料多数下跌，棕榈油跌0.79%；航运期货全部下跌，集运指数(欧线)跌0.73%；贵金属涨幅居前，沪银涨3.27%；基本金属多数上涨，国际铜涨1.64%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;14:37&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科创50大涨超10%，中韩半导体ETF尾盘涨停，成交额超238亿元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;14:17&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;科创50指数大涨逾9%，华虹宏力涨近20%，中微公司涨逾15%，佰维存储、寒武纪涨逾10%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -375,19 +401,4 @@ K3真正改变的是竞争节奏，不是单一公司的故事
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:01&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;国内商品期市开盘多数下跌，新能源材料跌幅居前，碳酸锂跌3.64%；黑色系多数下跌，焦煤跌2.73%；能源品全部下跌，低硫燃料油跌2.10%；农副产品多数下跌，鸡蛋跌1.79%；化工品多数下跌，20号胶跌1.19%；基本金属涨幅居前，国际铜涨1.51%；贵金属全部上涨，沪银涨1.50%；油脂油料多数上涨，豆粕涨1.29%；航运期货全部上涨，集运指数(欧线)涨0.92%；非金属建材涨跌参半，PVC涨0.48%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求继续爆发，韩国7月前20天经工作日调整后出口增速跃升至62.9%</title><link>https://wallstreetcn.com/articles/3777522</link><guid>15f10117366016c781efb2632a09fe3c64efdb2c48a04275410f5a08ead380b1</guid><pubDate>Tue, 21 Jul 2026 02:52:10 GMT</pubDate><description>&lt;p&gt;人工智能驱动的半导体需求持续升温，推动韩国出口在7月上旬强劲爆发，创下历史同期最高纪录，并为韩国央行收紧货币政策提供了有力支撑。&lt;/p&gt;
-&lt;p&gt;据韩国海关总署周二（7月21日）公布的数据，经工作日调整后，&lt;strong&gt;7月前20天出口同比大幅跃升62.9%，出口总值创下历年同月同期最高水平&lt;/strong&gt;，增速亦较上月同期的49.7%显著加快。未经调整的出口增幅为52.3%，进口增长20%，贸易顺差达122亿美元。&lt;/p&gt;
-&lt;p&gt;芯片出口是此次增长的核心引擎，同比飙升180.6%，计算机相关产品出货量增幅更接近232%。数据公布后，市场对韩国经济基本面的信心进一步巩固，也印证了韩国央行（BOK）上周时隔逾三年首次加息的决策逻辑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;韩国政府近期已将2026年经济增长预测从2%上调至3%，高于韩国央行及国际货币基金组织的预测值。&lt;/strong&gt;韩国央行行长Shin Hyun Song表示，央行将大幅上调今年增长预测，并强调未来数次政策会议均为&amp;quot;活跃会议&amp;quot;，意味着加息窗口持续敞开。&lt;/p&gt;
-半导体与AI需求：出口爆发的核心驱动
-&lt;p&gt;AI基础设施投资浪潮持续扩张，成为韩国出口超预期增长的直接推手。&lt;/p&gt;
-&lt;p&gt;数据显示，芯片出口同比增长180.6%，计算机相关产品出货量同比增幅高达232%，两项数据均反映出全球对AI算力硬件的旺盛需求。燃料出口亦增长33.4%，进一步支撑了整体出口表现。&lt;/p&gt;
-&lt;p&gt;相比之下，汽车出口下滑10.6%，成为少数拖累项之一。&lt;/p&gt;
-&lt;p&gt;上述数据表明，&lt;strong&gt;在AI及数据中心持续投资的支撑下，外部需求依然具有韧性，半导体持续驱动韩国出口增长及更广泛的经济扩张，并在一定程度上对冲了中东局势带来的不利影响。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从出口目的地来看，数据显示，7月前20天，韩国对华出口同比增长94.1%，增幅居各主要市场之首，反映出中国在AI相关产品及芯片采购方面的强劲需求。对美出口增幅接近40%，对越南及欧盟的出货量亦保持强劲，显示出芯片及AI相关产品的需求在全球范围内具有广泛支撑。&lt;/p&gt;
-央行加息获数据背书，通胀风险不容忽视
-&lt;p&gt;强劲的出口数据为韩国央行上周的政策转向提供了有力佐证。&lt;/p&gt;
-&lt;p&gt;该行官员一致同意将基准利率上调25个基点至2.75%，为逾三年来首次加息，并释放出维持紧缩倾向的信号，理由是通胀仍高于目标水平，且经济增长预计将超出央行最新预测。&lt;/p&gt;
-&lt;p&gt;行长Shin Hyun Song同时警告，芯片繁荣带来的溢出效应正日益向消费、投资和薪资领域蔓延，这可能导致通胀压力在科技行业之外更为持久地延续，进一步强化了央行维持紧缩立场的必要性。&lt;/p&gt;
-&lt;p&gt;韩国政府已将2026年经济增长预测上调至3%，高于韩国央行及IMF的预测，显示出官方对经济前景的乐观判断。&lt;/p&gt;
-&lt;p&gt;Shin Hyun Song表示，韩国央行将大幅上调今年增长预测，并强调未来数次政策会议均保持&amp;quot;活跃&amp;quot;状态，为后续进一步加息预留空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
