@@ -1,38 +1,128 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 21:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 17:13:29 GMT</pubDate><description>&lt;p&gt;经历近期抛售，资金回流半导体板块，引领全球股市强劲反弹。&lt;/p&gt;
-&lt;p&gt;周二，美股盘中，纳斯达克100指数涨幅扩大至2%，标普500涨幅扩大至近1%，道指涨超1%。Nebius涨16.1%，闪迪涨13.2%，泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。&lt;/p&gt;
-&lt;p&gt;美股盘中，美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。&lt;/p&gt;
-&lt;p&gt;地缘方面，美伊交火仍在持续。据新华社援引伊朗塔斯尼姆通讯社21日报道，位于巴林的美国海军第五舰队司令部发生爆炸。另据报道，巴林首都麦纳麦拉响警报，居民被要求待在避难所内。油价转涨，布伦特原油涨超1%至90美元上方。&lt;/p&gt;
-&lt;p&gt;本周美国科技巨头财报季正式启幕。特斯拉与Alphabet将于周三率先披露业绩，微软、Meta、苹果与亚马逊则将在下周相继公布财报。东京Aizawa证券基金经理Ikuo Mitsui表示：&amp;quot;市场已经经历了相当幅度的调整，与此同时，企业盈利表现总体稳健，比预期更具韧性。&amp;quot;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 21:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 21:30:14 GMT</pubDate><description>&lt;p&gt;7月21日美股收盘三大指数全数收涨。标普500报7511.76点涨0.92%终结三连跌，纳斯达克报25837.21点涨1.29%领涨，道琼斯报52224.64点涨0.74%。费城半导体指数暴涨超5%创六周最佳单日，彻底扭转上周五跌入熊市区域的颓势。&lt;/p&gt;
+&lt;p&gt;S&amp;amp;P期货WTI与10Y收益率三线联动&lt;/p&gt;
+半导体存储芯片暴力反弹，费半创六周最佳
+&lt;p&gt;当日最震撼的行情集中在半导体板块。存储芯片三巨头集体飙升，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/p&gt;
+&lt;p&gt;芯片设计端同样全面爆发。英特尔涨8.64%，AMD涨8.11%，安谋涨7.46%，台积电涨超4%，阿斯麦涨3.59%，博通涨2.21%，英伟达涨1.97%。费城半导体指数单日暴涨超5%，为六周以来最佳表现，彻底终结上周五跌入熊市区域的跌势。&lt;/p&gt;
+&lt;p&gt;暴涨的直接催化剂来自摩根士丹利半导体分析师Joseph Moore的最新研报。他指出数据中心存储芯片短缺正持续恶化，预计延续到2028年，存储芯片价格在Q2到Q3至少上涨25%。这一判断直接引爆了存储芯片板块的做多情绪。&lt;/p&gt;
+&lt;p&gt;高盛AI半导体指数当日呈现V形反弹。瑞银对冲基金衍生品销售主管Michael Romano同日发声，认为AI基本面改善正是买入信号，建议逐步建仓。LPL首席技术策略师Adam Turnquist也称近期调整更像抛物线式上涨后的健康重置。&lt;/p&gt;
+&lt;p&gt;高盛美国AI半导体指数&lt;/p&gt;
+动量因子创五年最佳单日，美股与债市显著脱钩
+&lt;p&gt;ZeroHedge收盘文以&amp;quot;动量融化至纪录最佳单日&amp;quot;为题直指核心。高盛TMT动量组合单日回报达11.5%，广义AI组合涨7.3%，AI受益股指数创ChatGPT发布以来最佳单日表现。&lt;/p&gt;
+&lt;p&gt;高盛动量策略团队Julia Mensch在报告中写道，动量去风险已进入末段。高盛PB动量敞口处于一年64%分位、五年93%分位，仓位已大幅清理，动量有望回归长期趋势，为资金大举回补提供了机构层面的背书。&lt;/p&gt;
+&lt;p&gt;高盛高Beta动量指数&lt;/p&gt;
+&lt;p&gt;与股市大涨形成鲜明反差，债市同日遭到猛烈抛售。10年期美债收益率突破4.60%至约4.63%长端创两个月新高，2年期涨5bp至约4.25%，30年期升至约5.13%。&lt;/p&gt;
+&lt;p&gt;股债脱钩的核心逻辑在于油价飙升推升通胀预期，但财报超级周前的买盘力量压倒了利率上行压力。零日期权交易员全天买盘叠加杠杆ETF再平衡资金，成为支撑反弹的隐性力量。&lt;/p&gt;
+&lt;p&gt;并非所有分析师都认同修正已结束。BTIG首席市场技术分析师Jonathan Krinsky警告上方存在强阻力。彭博宏观策略师Michael Ball认为半导体ETF看跌期权需求仍然高企，宣告修正完成为时尚早。&lt;/p&gt;
+Mag7严重分化，财报前资金重新洗牌
+&lt;p&gt;Mag7内部出现显著分化。特斯拉涨2.53%领涨，英伟达涨1.97%，苹果微涨0.35%。而谷歌跌1.47%领跌，微软跌1.13%，亚马逊跌0.98%，Meta小跌0.32%。&lt;/p&gt;
+&lt;p&gt;周三盘前谷歌和特斯拉将率先发布Q2业绩，市场高度关注全年资本支出指引。eToro分析师Bret Kenwell指出，凡无法跨过华尔街高预期门槛的公司都会遭投资者惩罚。&lt;/p&gt;
+&lt;p&gt;ZeroHedge评论道，此前市场讨论的广度扩张被丑陋的棍棒打回，交易员重新涌入AI和半导体而非分散到价值股。这种集中度回归意味着市场宽度并未真正改善，少数股票对指数的主导进一步加剧。&lt;/p&gt;
+油金比特齐涨，10Y破4.60%，日元暴跌163
+&lt;p&gt;美伊军事冲突进入第10日，胡塞武装宣布对沙特实施海上封锁，红海曼德海峡通行量两周内骤降34%。WTI8月收报84.91美元涨2.02%，布伦特9月收报91.01美元涨2.01%，自6月11日以来首次收于90美元上方。&lt;/p&gt;
+&lt;p&gt;布伦特原油期货与即期布伦特原油现货价差&lt;/p&gt;
+&lt;p&gt;油价飙升推升通胀预期，美债收益率全线上行。Natixis首席美国经济学家Christopher Hodge认为能源价格波动应主导美联储决策。&lt;/p&gt;
+&lt;p&gt;RBC利率策略师Izaac Brook指出2年期突破4.20%和10年期突破4.60%的关键技术位放大了走势，夏季交易清淡加剧了波动。&lt;/p&gt;
+&lt;p&gt;美债收益率曲线&lt;/p&gt;
+&lt;p&gt;避险资产与风险资产罕见齐涨。现货黄金重回4080美元附近涨约1.5%，现货白银涨约5%至59美元。美元指数走强至约101.3，美元兑日元飙至163.01，日本干预传闻再度升温。比特币盘中冲至67000美元后回落至66194美元。&lt;/p&gt;
+&lt;p&gt;比特币走势&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Cameron Crise警告长期国债即将巩固5%为底部而非顶部，50日均线已超5%，5.5%是下一个目标。高盛IG信用债主管Kevin Boova表示超级AI数据中心世界再次感觉有点脆弱，同时上调全年IG债发行量预测从2万亿至2.15万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周二美股三大指数反弹，存储芯片三巨头集体飙升，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;纳斯达克100指数涨幅扩大至2%，标普500涨幅扩大至近1%，道指涨超1%。Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。&lt;/li&gt;
-&lt;li&gt;欧洲斯托克50指数开盘涨0.4%，德国DAX指数涨0.1%，英国富时100指数跌0.3%，法国CAC 40指数涨0.1%。&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;日经225指数收涨3.3%，报66232.19点。日本东证指数收涨2.4%，报4014.95点。韩国首尔综指收涨3.6%，报6747.95点。&lt;/p&gt;
+&lt;p&gt;标普500指数收涨65.92点，涨幅0.89%，报7509.20点。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元。&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率变化不大，为4.59%&lt;/li&gt;
-&lt;li&gt;黄金上涨超1%，报约4052美元/盎司。&lt;/li&gt;
-&lt;li&gt;油价转涨，布伦特原油涨超1%至90美元上方。&lt;/li&gt;
-&lt;li&gt;比特币上涨0.2%，报65,459.86美元&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;道琼斯工业平均指数收涨385.38点，涨幅0.74%，报52224.64点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纳指收涨329.134点，涨幅1.29%，报25837.207点。纳斯达克100指数收涨550.944点，涨幅1.93%，报29155.179点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;罗素2000指数收涨1.53%，报2987.395点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恐慌指数VIX收跌8.58%，报17.05。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;美股行业ETF多数上涨，半导体ETF涨4.52%，全球科技股指数ETF涨3.11%，科技行业ETF涨2.89%，能源业ETF涨0.98%，网络股指数ETF跌0.27%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（7月21日 美股各行业板块ETF）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;特斯拉涨2.53%，英伟达涨1.97%，苹果涨0.35%，Meta跌0.32%，亚马逊跌0.98%，微软跌1.13%，谷歌A跌1.38%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;芯片股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;费城半导体指数收涨612.314点，涨幅5.21%，报12356.164点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;美股存储芯片与硬件供应链指数涨11.12%，报213.46点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;纳斯达克金龙中国指数收跌0.68%，报6294.45点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Circle涨8.62%。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-美股盘中：美股存储芯片指数涨超10%
-&lt;p&gt;美股盘初，纳斯达克100指数涨幅扩大至2%，标普500涨幅扩大至近1%，道指涨超1%。Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。&lt;/p&gt;
-&lt;p&gt;美股盘中，美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;市场反弹的背后，投资者的目光已锁定本周开始的美国科技巨头财报季。特斯拉与Alphabet将于周三率先公布业绩，拉开大型科技公司业绩披露的序幕；微软、Meta、苹果和亚马逊则将在随后一周相继发布财报。&lt;/p&gt;
-&lt;p&gt;当前市场的核心问题是：这些公司能否以实际业绩证明其在AI领域的巨额投入物有所值。&lt;/p&gt;
-&lt;p&gt;爱泽证券基金经理Ikuo Mitsui表示：&lt;strong&gt;&amp;quot;市场已经经历了相当幅度的调整，但与此同时，企业盈利表现相对稳健，展现出比预期更强的韧性。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;贝莱德投资研究院由Jean Boivin领衔的策略师团队在最新报告中写道：&amp;quot;AI投资热潮——作为增长的重要驱动力——以及我们对AI基础设施的偏好，在近期波动中依然完好无损。&amp;quot;他们同时指出，&amp;quot;当前全球经济对石油的依赖程度远低于以往能源冲击时期，这使其对油价上涨更具韧性。&amp;quot;&lt;/p&gt;
-地缘风险持续，油价转涨
-&lt;p&gt;油价转涨，布伦特原油涨超1%至90美元上方。此前油价有所回落，但中东局势仍是市场的潜在扰动因素。胡塞武装威胁封锁红海出口通道，市场持续关注沙特阿拉伯出口是否会受到冲击。&lt;/p&gt;
-&lt;p&gt;上周油价飙升，WTI原油收于6月中旬以来最高水平，能源成本上升引发的通胀担忧一度令债市承压，美国10年期国债收益率目前维持在4.59%附近。&lt;/p&gt;
-&lt;p&gt;贝莱德策略师认为，目前没有证据显示中东局势升级会对经济增长造成足够大的冲击，从而改变市场的风险偏好立场。&lt;/p&gt;
-特朗普对加拿大加征50%关税，贸易摩擦再度升温
-&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
-&lt;p&gt;据彭博报道，若特朗普最终落实这一举措，将是其对美国第二大贸易伙伴采取的最严厉贸易行动之一。加元对此反应相对平稳，汇率基本持稳。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高点回落40%后，大摩力挺康宁：光学业务产能放量或成下半年股价催化剂</title><link>https://wallstreetcn.com/articles/3777591</link><guid>fd548a0f8782301c3b24e3bc2760b38123bd7d9175badb7a285a55213f7b8acd</guid><pubDate>Tue, 21 Jul 2026 15:47:08 GMT</pubDate><description>&lt;p&gt;康宁将于7月28日盘前公布二季度业绩。摩根士丹利认为，&lt;strong&gt;这份财报大概率难以带来&amp;quot;超预期惊喜&amp;quot;，真正决定股价走势的关键，不在于二季度业绩本身，而在于利润率改善以及三季度光学业务产能释放是否进一步提速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欧元区蓝筹股指收涨超0.9%，成分股英飞凌涨超5.5%、阿斯麦涨约4.8%。德国股市收涨超0.6%，意大利银行板块涨超1.1%，希腊股指涨约2.1%。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;泛欧欧股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数收涨0.56%，报643.19点，欧股盘初、美股盘初均短暂转跌。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区STOXX 50指数收涨0.94%，报6285.63点，跳空高开之后呈现出W形涨势。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;德国DAX 30指数收涨0.66%，报25011.35点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;法国CAC 40指数收涨0.28%，报8363.14点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;英国富时100指数收涨0.58%，报10585.91点。&lt;/p&gt;
+&lt;p&gt;（7月21日 欧美主要股指表现）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;板块和个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区蓝筹股中，英飞凌收涨5.53%，阿斯麦控股涨4.77%，西门子能源涨3.60%，道达尔能源涨2.35%表现第四，威科集团跌2.31%跌幅第三大，慕尼黑再保险跌2.75%，Prosus跌3.7%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数的所有成分股中，Mitie集团收涨39.07%奥特斯股份涨11.97%，半导体概念股Soitec涨10.51%、德国爱思强股份涨8.29%、BE半导体实业公司涨7.16%表现第五。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高点回落40%后，大摩力挺康宁：光学业务产能放量或成下半年股价催化剂</title><link>https://wallstreetcn.com/articles/3777591</link><guid>fd548a0f8782301c3b24e3bc2760b38123bd7d9175badb7a285a55213f7b8acd</guid><pubDate>Tue, 21 Jul 2026 15:47:08 GMT</pubDate><description>&lt;p&gt;康宁将于7月28日盘前公布二季度业绩。摩根士丹利认为，&lt;strong&gt;这份财报大概率难以带来&amp;quot;超预期惊喜&amp;quot;，真正决定股价走势的关键，不在于二季度业绩本身，而在于利润率改善以及三季度光学业务产能释放是否进一步提速。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在光学产能接近满负荷的背景下，康宁二季度营收超预期空间已相当有限。大摩预计，公司营收超预期幅度大概率不超过5000万美元，每股收益超预期幅度仅约0.01-0.02美元，&lt;strong&gt;市场关注点将转向管理层对下半年产能扩张、定价能力及利润率改善的展望。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;值得注意的是，康宁股价自6月下旬阶段性高点已累计回调约40%。摩根士丹利认为，&lt;strong&gt;此轮调整已明显改善估值，但股价要重启上涨行情，仍需要新的催化剂，而光学业务供给放量将成为下半年最值得关注的变量。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -74,26 +164,7 @@ AI光互连仍是长期核心逻辑
 关税压力缓解，盈利预期进一步上修
 &lt;p&gt;&lt;strong&gt;关税成本改善，是本次业绩超预期的重要推动因素之一。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;通用汽车在最新指引中，将&amp;quot;监管环境改善&amp;quot;和&amp;quot;持续推进关税成本对冲&amp;quot;列为上调全年盈利预期的重要依据，显示此前困扰行业的关税压力正在边际缓解。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这也是通用汽车今年第二次上调全年业绩指引。&lt;/strong&gt;管理层预计，随着电动车单位经济性持续改善、成本控制不断推进以及运营效率进一步提升，公司下半年盈利能力仍有望继续增强，而皮卡和SUV等高利润车型预计仍将是支撑业绩的核心动力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 地平线站在智驾量产新关口</title><link>https://wallstreetcn.com/articles/3777567</link><guid>0b388f19b524a744097014ef73ca512bb93f50553973ad711dac93a1b4af025a</guid><pubDate>Tue, 21 Jul 2026 09:53:40 GMT</pubDate><description>&lt;p&gt;城市NOA正在从少数车型的卖点，变成越来越多新车的配置。与此同时，则是市场规模扩大，订单却越来越集中在能够持续交付的车型上。&lt;/p&gt;
-&lt;p&gt;基于2026年1—6月上险量的统计数据显示，中国本土乘用车市场城市NOA装机量约180.2万辆，前10大车型占总装机量的45.4%。&lt;/p&gt;
-&lt;p&gt;7月21日，地平线公告称，预计2026年上半年持续经营业务收入为19.3亿至20.8亿元，同比增长24.8%至34.5%；毛利为11.6亿至13.7亿元，同比增长13.7%至34.3%。&lt;/p&gt;
-&lt;p&gt;此外，公告显示，地平线上半年35亿至40亿元的预计净利润，主要来自发行予CARIAD的可转换借款公允价值变动。该项收益属于非现金会计处理，主要源于公司股价波动，对主营业务经营表现及现金流不构成影响。&lt;/p&gt;
-&lt;p&gt;地平线的收入仍在增长，HSD量产部署和授权服务是公告提到的两项支撑。不过，量产规模能否继续扩大，产品交付带来的毛利压力能否缓解，经调整亏损何时收窄，已经成为公司下一步必须回答的问题。&lt;/p&gt;
-&lt;p&gt;地平线的业务重心，正在从技术定点转向持续交付。&lt;/p&gt;
-&lt;p&gt;2025年，地平线实现收入37.58亿元，同比增长57.7%。其中，产品解决方案收入16.22亿元，同比增长144.2%；授权及服务收入19.35亿元，同比增长17.4%。产品解决方案收入占比从2024年的27.9%升至43.2%，授权及服务收入仍占51.4%。&lt;/p&gt;
-&lt;p&gt;HSD于2025年11月开始量产部署。地平线披露数据显示，HSD在量产后一个多月内搭载超过2.2万台，并获得10家车企、20多款车型的定点。&lt;/p&gt;
-&lt;p&gt;这些数据说明，HSD已经从展示方案进入交付阶段。此外，地平线方面表示，产品解决方案业务受HSD规模化部署带动，授权及服务业务则来自BPU、AI基础模型和工具链授权。&lt;/p&gt;
-&lt;p&gt;产品解决方案帮助地平线进入更多车型，授权及服务则承担更高毛利的收入功能。HSD能否持续推高收入，还要看它能否带动后续的软件授权、工具链服务和车型复制。&lt;/p&gt;
-&lt;p&gt;地平线目前的收入结构，仍然需要在规模和毛利之间寻找平衡。&lt;/p&gt;
-&lt;p&gt;2025年，公司整体毛利率为64.5%，低于2024年的77.3%。公司解释称，为了推动HSD量产和客户整合，部分域控制器和一体机产品以名义加价方式供应，同时市场竞争也带来了定价压力。换句话说，硬件交付帮助公司把方案装上更多车，但这部分收入的利润率明显低于授权服务。&lt;/p&gt;
-&lt;p&gt;2026年上半年，按照公告数据进行粗略估算，毛利率大致对应60%至66%，与2025年全年水平处于同一范围。收入增速区间为24.8%至34.5%，毛利增速区间为13.7%至34.3%。&lt;/p&gt;
-&lt;p&gt;行业数据已经把竞争环境摆了出来。&lt;/p&gt;
-&lt;p&gt;基于上险量的统计显示，2026年上半年，中国本土乘用车市场城市NOA装机量约180.2万辆，前10大车型占总装机量的45.4%，呈现集中趋势。&lt;/p&gt;
-&lt;p&gt;此外，2026年上半年，独立第三方方案商合计占城市NOA装机量的51.4%。这意味着，方案商不仅要面对同行竞争，还要面对车企自研能力的持续扩张。&lt;/p&gt;
-&lt;p&gt;地平线也有自己的优势。2025年末，公司现金及现金等价物约201.9亿元，较上年末的153.7亿元增加；但贸易应收款也从约6.8亿元升至17.6亿元，存货从约5.9亿元升至10.7亿元。公司仍有资金投入研发、支持客户定点和扩大交付，但收入确认、回款和库存周转也需要跟上量产节奏。&lt;/p&gt;
-&lt;p&gt;下半年，HSD能不能进入更多高销量车型，决定地平线的量产规模还能走多远。&lt;/p&gt;
-&lt;p&gt;城市NOA还在扩容。站在这个量产新关口，地平线需要让装车规模真正转成利润和现金回款。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔AMD财报前瞻：数据中心复苏曙光初现，PC市场仍有隐忧</title><link>https://wallstreetcn.com/articles/3777580</link><guid>668f43869a7db50d6d79ab66534b8bf7acf5afb2552016ab91a38fb7df1f7873</guid><pubDate>Tue, 21 Jul 2026 13:19:25 GMT</pubDate><description>&lt;p&gt;服务器CPU需求的强劲复苏正在为英特尔和AMD提供关键支撑，但PC市场的持续疲软构成不可忽视的下行风险，两家公司即将发布的季度财报将在这一分化格局下接受市场检验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这也是通用汽车今年第二次上调全年业绩指引。&lt;/strong&gt;管理层预计，随着电动车单位经济性持续改善、成本控制不断推进以及运营效率进一步提升，公司下半年盈利能力仍有望继续增强，而皮卡和SUV等高利润车型预计仍将是支撑业绩的核心动力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔AMD财报前瞻：数据中心复苏曙光初现，PC市场仍有隐忧</title><link>https://wallstreetcn.com/articles/3777580</link><guid>668f43869a7db50d6d79ab66534b8bf7acf5afb2552016ab91a38fb7df1f7873</guid><pubDate>Tue, 21 Jul 2026 13:19:25 GMT</pubDate><description>&lt;p&gt;服务器CPU需求的强劲复苏正在为英特尔和AMD提供关键支撑，但PC市场的持续疲软构成不可忽视的下行风险，两家公司即将发布的季度财报将在这一分化格局下接受市场检验。&lt;/p&gt;
 &lt;p&gt;追风交易台消息，据伯恩斯坦研究7月21日发布的前瞻报告，分析师Stacy A. Rasgon维持英特尔&amp;quot;市场表现&amp;quot;评级及100美元目标价，维持AMD&amp;quot;跑赢大市&amp;quot;评级及600美元目标价。&lt;/p&gt;
 &lt;p&gt;报告指出&lt;strong&gt;，数据中心业务的强劲势头有望部分抵消客户端业务的拖累，但两家公司的全年预测均低于市场一致预期，主要分歧集中于PC需求假设。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;英特尔股价年初至今已累计上涨163%，显著跑赢大盘与费城半导体指数；AMD同期涨幅达135%，但均已从近期高点明显回落。&lt;/p&gt;
@@ -120,9 +191,10 @@ PC市场：内存压力构成下半年隐忧
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌Gemini三箭齐发，Flash降价提效、网络安全模型直指Anthropic，旗舰3.5 Pro仍难产</title><link>https://wallstreetcn.com/articles/3777594</link><guid>2aeeb0bd7a9abbecf355511a2ce6e3a2b5be9b440ae919d3621fe3e7236e2f44</guid><pubDate>Tue, 21 Jul 2026 15:19:47 GMT</pubDate><description>&lt;p&gt;谷歌又一次把“AI军备竞赛”的焦点，从单纯追求更大、更强的旗舰模型，转向了更便宜、更快、更适合大规模部署的AI智能体。&lt;/p&gt;
-&lt;p&gt;美东时间21日周二，谷歌宣布推出Gemini 3.6 Flash、Gemini 3.5 Flash-Lite以及面向网络安全的Gemini 3.5 Flash Cyber。其中，Gemini 3.6 Flash主打代码、知识工作和多模态任务，在减少输出Token消耗的同时，价格也低于上一代；Flash-Lite则瞄准高吞吐、低延迟场景；Flash Cyber则通过CodeMender代码安全智能体，试图以更低成本切入网络安全AI市场。&lt;/p&gt;
-&lt;p&gt;相比前代3.5 Flash，Gemini 3.6 Flash的输出价格下调约17%，但并非所有新模型都名义价格下降。Gemini 3.5 Flash-Lite的重点在于通过更快的响应速度和更高的任务效率，降低高吞吐场景下的整体使用成本。与上一代Gemini 3.1 Flash-Lite相比，其名义Token价格并未下降，输出价格反而更高。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产</title><link>https://wallstreetcn.com/articles/3777594</link><guid>2aeeb0bd7a9abbecf355511a2ce6e3a2b5be9b440ae919d3621fe3e7236e2f44</guid><pubDate>Tue, 21 Jul 2026 15:19:47 GMT</pubDate><description>&lt;p&gt;谷歌又一次把“AI军备竞赛”的焦点，从单纯追求更大、更强的旗舰模型，转向了更便宜、更快、更适合大规模部署的AI智能体。&lt;/p&gt;
+&lt;p&gt;美东时间21日周二，谷歌一口气推出Gemini 3.6 Flash、Gemini 3.5 Flash-Lite以及面向网络安全的Gemini 3.5 Flash Cyber三款新模型。&lt;/p&gt;
+&lt;p&gt;其中，Gemini 3.6 Flash重点提升代码、知识工作和多模态能力，并通过减少Token消耗降低实际运行成本；Gemini 3.5 Flash-Lite主打Gemini 3.5系列中最低的定价和最快的速度；Flash Cyber则瞄准软件漏洞发现与自动修复，直接切入Anthropic旗下Mythos等网络安全模型的优势赛道。&lt;/p&gt;
+&lt;p&gt;相比前代3.5 Flash，Gemini 3.6 Flash的输出价格下调约17%，但并非所有新模型都名义上价格下降。Gemini 3.5 Flash-Lite的重点在于通过更快的响应速度和更高的任务效率，降低高吞吐场景下的整体使用成本。与上一代Gemini 3.1 Flash-Lite相比，其名义Token价格并未下降，输出价格反而更高。&lt;/p&gt;
 &lt;p&gt;因此，谷歌此次AI产品策略的核心，与其说是全面“价格战”，不如说是通过模型分层，试图在模型能力、Token消耗、响应速度和实际任务成本之间寻找新的平衡。&lt;/p&gt;
 &lt;p&gt;同时，此次发布暴露出谷歌当前AI战略的一个尴尬：市场最期待的旗舰模型Gemini 3.5 Pro仍然没有正式发布。路透社报道称，该模型原定于6月推出，目前仍在与合作伙伴测试，谷歌只表示将在“准备好后”尽快扩大开放。与此同时，谷歌已经启动了迄今最雄心勃勃的Gemini 4预训练工作。&lt;/p&gt;
 &lt;p&gt;在OpenAI和Anthropic持续推出更强大模型、AI企业客户开始越来越关注推理成本和Token效率的背景下，谷歌此次发布的三款模型，实际上更像是一次围绕“AI智能体商业化”的全面补位。&lt;/p&gt;
@@ -231,7 +303,27 @@ Flash-Lite：每秒350个Token，瞄准高频、低成本AI应用
 &lt;p&gt;有分析指出，&lt;strong&gt;美国政府原本希望通过50%的钢铝关税提高美国国内产能，然而这一关税措施成效有限。美国原铝产能不足，严重依赖从加拿大和中东地区进口来满足国内需求。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;持续高企的铝价已对美国下游制造业产生深远影响。&lt;strong&gt;家电、饮料罐、汽车等行业的生产商正面临全球最高的原材料成本，并普遍转向“即时采购”模式——仅维持满足当前生产所需的最低库存，以规避价格波动风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年以来，伦敦金属交易所铝价在关税冲击与供应紧张的双重作用下持续走高。尽管新的激励计划若能吸引企业实质性投资建厂，有望在中长期缓解供应紧张局面，但从短期看，美国铝市场的结构性供需缺口仍难以迅速弥合。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX迎史诗级股票解禁：1160亿美元股票8月6日进入流通</title><link>https://wallstreetcn.com/articles/3777598</link><guid>472aeee7a3ae9923c91c48425f72cca6f1af68f6eba7aa08dc065146b982e0f1</guid><pubDate>Tue, 21 Jul 2026 19:25:18 GMT</pubDate><description>&lt;p&gt;史上规模最大的IPO后首次解禁即将落地，市场正评估其对股价的潜在冲击。&lt;/p&gt;
+&lt;p&gt;今年以来，伦敦金属交易所铝价在关税冲击与供应紧张的双重作用下持续走高。尽管新的激励计划若能吸引企业实质性投资建厂，有望在中长期缓解供应紧张局面，但从短期看，美国铝市场的结构性供需缺口仍难以迅速弥合。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI奥特曼将向美国官员介绍下一代AI模型，美国AI审查框架预计几周内完成</title><link>https://wallstreetcn.com/articles/3777600</link><guid>661740ee7ce2838e658990469d94ffb110e612bcf79ad89b160854b8caaf477a</guid><pubDate>Tue, 21 Jul 2026 21:39:16 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官奥特曼计划于下周赴华盛顿，就即将发布的新一代人工智能模型向特朗普政府官员及国会议员进行报告。此次访问的时机，正值美国加快推进AI安全审查机制建设。&lt;/p&gt;
+&lt;p&gt;OpenAI全球公共事务负责人Chris Lehane周二表示，奥特曼此次访问之际，美国官员正在制定一套AI安全审查框架，预计将在未来几周内完成。&lt;/p&gt;
+&lt;p&gt;他表示，奥特曼此次会晤的一部分内容将聚焦OpenAI新的模型系列，包括这些模型将如何影响就业和工作方式。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我们认为，这一模型系列将带来一些非常有趣的能力，尤其是在工作场景以及扩大工作规模方面。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Lehane的上述表态，距Kimi K3模型发布仅数日之隔。该模型被认为可与OpenAI、Anthropic等顶级AI产品相抗衡，引发市场对美国AI领先地位持续性的质疑，并导致科技股出现抛售。&lt;/p&gt;
+
+监管框架加速成形，独立审查机构方案浮出水面
+
+&lt;p&gt;美国AI监管体系的构建正在提速。特朗普政府正在评估设立一家独立监管机构的可行性，该机构将在产业界参与下对AI模型进行审核。财政部长贝森特参与制定的方案已被纳入考量，旨在为AI企业提供更明确的合规预期。&lt;/p&gt;
+&lt;p&gt;上述方案在方向上与谷歌DeepMind首席执行官Demis Hassabis上周提出的构想相近。Hassabis本周亦赴华盛顿与政策制定者会面，就其监管愿景展开游说。&lt;/p&gt;
+&lt;p&gt;当前监管讨论的背景，在于硅谷对近期美国政府临时性、碎片化管控措施的不满持续升温。上月，Anthropic受到美国出口管制冲击，被迫暂时下线其Fable 5和Mythos 5模型。&lt;/p&gt;
+&lt;p&gt;OpenAI虽未受到类似的公开管制措施，但据悉在政府要求下对最新GPT-5.6模型作出了重大调整方可发布。&lt;/p&gt;
+
+国会立法受阻，OpenAI转寻州级路径
+
+&lt;p&gt;在联邦层面推进统一立法的努力面临不确定性，OpenAI已着手寻求备选路径。Lehane表示，若国会无法建立全国性AI治理标准，该公司将推动各州相互对标，以&amp;quot;逆向联邦主义&amp;quot;的方式形成实际上的统一规范。&lt;/p&gt;
+&lt;p&gt;&amp;quot;如果无法推动国会建立这些全国标准，&amp;quot;他说，&amp;quot;另一条路就是我们所说的逆向联邦主义——推动不同州相互镜像对齐。&amp;quot;&lt;/p&gt;
+&lt;p&gt;目前，OpenAI正支持马萨诸塞州的一项立法提案，该提案要求主要AI开发商采取更多措施识别灾难性风险，Anthropic亦对该提案表示支持。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX迎史诗级股票解禁：1160亿美元股票8月6日进入流通</title><link>https://wallstreetcn.com/articles/3777598</link><guid>472aeee7a3ae9923c91c48425f72cca6f1af68f6eba7aa08dc065146b982e0f1</guid><pubDate>Tue, 21 Jul 2026 19:25:18 GMT</pubDate><description>&lt;p&gt;史上规模最大的IPO后首次解禁即将落地，市场正评估其对股价的潜在冲击。&lt;/p&gt;
 &lt;p&gt;据SpaceX招股说明书，&lt;strong&gt;最多约9.115亿股内部人士持股将于8月6日解除限售，涉及市值约1160亿美元，时间节点恰在该公司首次发布季度业绩后两天。到年底前，可流通股份总量将从目前约6.39亿股骤增至53.3亿股。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;面对这庞大的解禁规模，SpaceX股价承压明显。自6月16日收盘高点以来，股价已累计下跌37%，抹去逾4250亿美元市值，周二截至发稿，盘中上涨3.8%，或终结七连跌。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
