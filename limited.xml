@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 00:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 00:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -62,19 +62,7 @@
 &lt;p&gt;2026年WAIC上，华为昇腾950超节点真机首次公开亮相，支持最高1024卡级别部署，提供1 EFLOPS级FP8算力和256TB统一内存编址空间。&lt;/p&gt;
 &lt;p&gt;根据BCC Research预测，全球数据中心网络技术市场规模将从2025年的458亿美元增长至2030年的1030亿美元，年复合增速约17.6%。&lt;/p&gt;
 &lt;p&gt;Research and Markets预计AI高速互联市场规模将从2025年的103.1亿美元增长至2030年的301.7亿美元，年复合增速约23.9%，增速显著高于传统数据中心网络。&lt;/p&gt;
-&lt;p&gt;对投资者而言，Kimi K3的发布传递了一个清晰的信号：开源模型的能力突破不会削弱对底层硬件的需求，效率提升释放的新增工作负载正在将行业竞争焦点从模型本身，推向支撑模型运行的算力基础设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 对加拿大部分产品加征50%关税，美国重开贸易战！</title><link>https://wallstreetcn.com/articles/3777506</link><guid>c7adf19fbf3a65b36d4df5b5a5ddad2f4b03dda1553d154df76f523c51662bd8</guid><pubDate>Mon, 20 Jul 2026 23:56:44 GMT</pubDate><description>&lt;p&gt;美国再度对最重要的贸易伙伴之一挥舞关税大棒，全球贸易摩擦风险骤然升温。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。&lt;strong&gt;新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此举标志着特朗普政府贸易攻势的再度升级。&lt;/strong&gt;加拿大是美国第二大贸易伙伴，两国去年双边贸易额高达7160亿美元。消息公布后，加元汇率随即跌至当日低点。加拿大商会将&lt;strong&gt;此次威胁定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁两国在未来30天内展开谈判。&lt;/strong&gt;&lt;/p&gt;
-关税范围与生效细节
-&lt;p&gt;根据特朗普政府周一晚间公布的具体商品清单，此次50%关税涵盖牛奶及乳制品、酒精饮料、服装及家具等多类产品。新关税将在30天后生效，能源、钾肥、关键矿产、鱼类等产品获豁免，已受美国国家安全关税约束的钢铁、铝等商品同样不在此次加征范围之内。&lt;/p&gt;
-&lt;p&gt;值得注意的是，符合特朗普2020年《美墨加协定》（USMCA）条款的进口商品，此次并未获得豁免。这与此前该协定商品曾被排除在所谓&amp;quot;对等关税&amp;quot;之外的做法形成明显落差。据媒体报道，&lt;strong&gt;这一豁免缺失意味着大量目前免税入境美国的加拿大商品，将面临大幅加税压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报道称，特朗普政府高级官员将&lt;strong&gt;此次关税行动定性为对加拿大不公平贸易行为的直接回应。&lt;/strong&gt;官员称，加拿大各省已停止采购美国酒类，对美国汽车加征关税，并对美国奶酪实施歧视性待遇。&lt;/p&gt;
-&lt;p&gt;一名政府高级官员表示，在特朗普去年初推行贸易政策之初，&amp;quot;只有两个国家对美国采取了报复措施&amp;quot;，加拿大便是其中之一。&lt;/p&gt;
-&lt;p&gt;此次关税将援引1930年《关税法》第338条作为法律依据——该条款此前从未被用于对贸易伙伴征收关税。官员解释称，该法律赋予总统在他国对美实施歧视性待遇时采取行动的权力。&lt;/p&gt;
-&lt;p&gt;此外，美国官员特别强调，此次关税与特朗普上周五就加拿大野火烟雾飘入美国境内所威胁的另一轮关税措施相互独立，两者并行推进。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;加拿大方面迅速作出反应。&lt;/strong&gt;安大略省省长Doug Ford在社交媒体平台X上表示，&amp;quot;我永远不会停止为安大略而战&amp;quot;，并呼吁加拿大以&amp;quot;关税对关税、美元对美元&amp;quot;的方式予以还击。Ford此前曾因播放反关税广告而激怒特朗普，近期态度已趋于温和，但此次措辞再度强硬。&lt;/p&gt;
-&lt;p&gt;加拿大商会则采取了相对克制的立场，将&lt;strong&gt;此次事态定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁华盛顿与渥太华在新关税生效前的30天窗口期内展开对话，为谈判解决留下空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析指出，特朗普此举有可能重新点燃此前已有所降温的全球贸易摩擦。今年早些时候，美国最高法院裁定推翻了特朗普的全球紧急关税措施，贸易紧张态势一度缓和，但此次针对加拿大的新一轮关税行动令市场对贸易战卷土重来的担忧再度升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
+&lt;p&gt;对投资者而言，Kimi K3的发布传递了一个清晰的信号：开源模型的能力突破不会削弱对底层硬件的需求，效率提升释放的新增工作负载正在将行业竞争焦点从模型本身，推向支撑模型运行的算力基础设施。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
 &lt;p&gt;继上周五重挫28%后，智谱周一再度下跌19.56%，收报890.5港元，市值降至4146亿港元。仅两个交易日，市值合计蒸发逾3000亿港元。而若从盘中突破1万亿港元的历史高点计算，累计跌幅已达约60%。&lt;/p&gt;
 &lt;p&gt;引爆市场情绪的核心冲突在于：智谱于7月13日以每股1588港元完成1978万股配售，募资净额约313.75亿港元，但仅一周后股价便跌至890.5港元。&lt;/p&gt;
 &lt;p&gt;这意味着参与配售的机构资金账面浮亏达43.9%。高位融资与股价急跌之间仅隔了七个自然日，配售时机的合理性成为市场焦点。&lt;/p&gt;
@@ -94,27 +82,7 @@
 &lt;p&gt;智谱的暴跌折射出AI大模型赛道估值逻辑的深层转变。此前市场给予智谱的万亿估值，很大程度上建立在&amp;quot;大模型第一股&amp;quot;的稀缺性溢价与API量价齐升的商业化叙事之上。&lt;/p&gt;
 &lt;p&gt;但竞争格局的变化正在侵蚀这一叙事的基础。Kimi K3的发布标志着中国AI模型在编程与智能体能力上已进入多强并立阶段；DeepSeek近期完成500亿元融资、估值达3500亿元，并正以约710亿美元估值寻求新一轮融资。&lt;/p&gt;
 &lt;p&gt;在下半年还将有更多模型密集推出的背景下，缺乏绝对技术壁垒的企业将面临更严峻的估值折价。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，智谱当前4146亿港元的市值是否已充分定价竞争风险，取决于其能否在模型迭代速度、定价权维持与商业化变现之间找到新的平衡点。而314亿港元配售资金的套牢，无疑增加了这一平衡的难度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 半导体指数跌入熊市，高盛悄然转向三大替代投资主题</title><link>https://wallstreetcn.com/articles/3777464</link><guid>6c8d5907c0801fc40d37a95d702982982955f8cc9e5d8fbea6674b9ef2cc3d4d</guid><pubDate>Mon, 20 Jul 2026 12:32:00 GMT</pubDate><description>&lt;p&gt;半导体板块深陷熊市泥潭，令AI交易的吸引力大打折扣。高盛分析师团队随即推出三大替代投资主题，为寻求规避AI波动风险的投资者提供新的布局方向。&lt;/p&gt;
-&lt;p&gt;以英伟达、美光科技等AI芯片股为核心成分的费城半导体指数（SOX），已较约一个月前触及的盘中高点下跌逾20%，正式步入熊市区间。据MarketWatch报道，高盛分析师团队在上周五发布的研报中指出，AI基础设施股票的&amp;quot;痛苦波动&amp;quot;已促使投资者将目光转向AI主题以外的领域。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;高盛由Ben Snider领衔的分析师团队由此提出三大替代方向&lt;strong&gt;：消费体验股、复利增长型企业（Compounders），以及并购潜在标的。这三类资产在估值、增长逻辑及风险特征上各有侧重，共同构成高盛在当前市场环境下的非AI投资框架。&lt;/strong&gt;&lt;/p&gt;
-消费体验股：抗AI扰动，估值具吸引力
-&lt;p&gt;高盛推荐的第一个主题是消费体验股。&lt;/p&gt;
-&lt;p&gt;高盛认为，&lt;strong&gt;这类股票&amp;quot;能够以合理估值获取消费者体验支出强劲长期增长的敞口，且受AI颠覆的风险有限&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从数据来看，体验类消费支出增速已显著提速——涵盖运动中心、公园、剧院、博物馆及博彩等领域的体验消费增速，从2025年第一季度的1%（同期广义服务消费增速为2%）跃升至2026年第一季度的6%（同期广义服务消费增速仍为2%）。&lt;/p&gt;
-&lt;p&gt;高盛指出，这类消费在收入分布上偏向高端群体，且体验的实体属性使其相较于其他服务类别更能抵御AI的冲击。高盛在市值20亿美元以上的公司中筛选出36只候选标的。该主题的主要风险在于消费者健康状况恶化，包括油价上涨或劳动力市场走软。&lt;/p&gt;
-复利增长型企业：质量溢价处于十年低位
-&lt;p&gt;第二个主题聚焦于高盛所称的&amp;quot;复利增长型企业&amp;quot;——即那些能够持续实现盈利增长、维持较高资本回报率并具备强劲自由现金流转化能力的公司。&lt;/p&gt;
-&lt;p&gt;高盛在罗素1000指数中，按历史及预期每股盈利增速、自由现金流转化率、投入资本回报率等多项成长与质量指标进行综合筛选，最终构建出包含15只个股的篮子，并明确剔除了&amp;quot;与AI最直接相关的股票，包括基础设施支出受益者及被认为面临颠覆风险的公司&amp;quot;。&lt;/p&gt;
-&lt;p&gt;估值方面，该篮子中位股的市盈率为22倍，高于标普500等权指数的16倍，但高盛测算，这一相对估值已接近十年低位。高盛认为，宏观环境与盈利增长前景均将对该类股票的估值形成支撑，但美联储转向鸽派或经济增长前景全面改善，将构成该主题的主要风险。&lt;/p&gt;
-并购潜在标的：交易浪潮提供套利机会
-&lt;p&gt;第三个主题着眼于并购潜在标的。&lt;/p&gt;
-&lt;p&gt;高盛数据显示，&lt;strong&gt;今年并购活动大幅升温，已公告交易规模达1.2万亿美元，较2025年同期增长32%；已公告交易数量亦增加12%，其中40%集中于计算机与电子及医疗健康领域，但整体活动已扩散至多个行业&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛认为，宽松的金融条件、稳健的经济增长、较高的CEO信心以及友好的监管环境，共同构成并购活动持续推进的宏观支撑。该篮子包含71家公司，高盛分析师评估其被收购概率均超过15%。该主题的主要风险在于市场情绪转弱，进而威胁当前的并购周期。&lt;/p&gt;
-AI交易降温，资金寻求再平衡
-&lt;p&gt;上述三大主题的推出，折射出当前市场的结构性变化。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;费城半导体指数的熊市信号，标志着过去两年主导市场的AI叙事正面临阶段性考验，部分资金开始主动寻求分散配置。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从更广泛的市场表现来看，标普500指数年内仍上涨约8.94%，纳斯达克综合指数年内涨幅约9.80%，但过去一个月分别下跌0.57%和3.76%，显示科技板块承压明显。高盛此时推出非AI替代框架，时机上与市场情绪的微妙转变高度吻合，也为投资者在AI交易波动加剧背景下提供了一套可操作的再平衡思路。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，智谱当前4146亿港元的市值是否已充分定价竞争风险，取决于其能否在模型迭代速度、定价权维持与商业化变现之间找到新的平衡点。而314亿港元配售资金的套牢，无疑增加了这一平衡的难度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视</title><link>https://wallstreetcn.com/articles/3777501</link><guid>5df96e199e95cc42b7bfa9a8cfcf8ba734ef5c5288b52645732281fb791087f7</guid><pubDate>Mon, 20 Jul 2026 22:08:48 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11460069711356785906&amp;amp;channelId=1119&amp;amp;toc_style_id=feeds_default&amp;amp;module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D11460069711356785906%2526channelId%253D1119%2526toc_style_id%253Dfeeds_default"&gt;央视新闻&lt;/a&gt;，当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。&lt;/p&gt;
 &lt;p&gt;据称，新关税将自美东时间8月19日凌晨00时01分起生效，并将在现有相关关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
 &lt;p&gt;美国官员在与媒体举行的电话会上表示：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -151,7 +119,19 @@ AI交易降温，资金寻求再平衡
 
 
  
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软与AMD深化AI合作，Azure引入Helios机架级AI系统</title><link>https://wallstreetcn.com/articles/3777486</link><guid>66f0940c3ad22a4cf26cef570510bef37f8ddb2815b831aca0582aa03edfce5d</guid><pubDate>Mon, 20 Jul 2026 16:27:40 GMT</pubDate><description>&lt;p&gt;AMD与微软扩大长期合作，为AMD在AI芯片市场挑战英伟达主导地位再添重要砝码。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 对加拿大部分产品加征50%关税，美国重开贸易战！</title><link>https://wallstreetcn.com/articles/3777506</link><guid>c7adf19fbf3a65b36d4df5b5a5ddad2f4b03dda1553d154df76f523c51662bd8</guid><pubDate>Mon, 20 Jul 2026 23:56:44 GMT</pubDate><description>&lt;p&gt;美国再度对最重要的贸易伙伴之一挥舞关税大棒，全球贸易摩擦风险骤然升温。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。&lt;strong&gt;新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此举标志着特朗普政府贸易攻势的再度升级。&lt;/strong&gt;加拿大是美国第二大贸易伙伴，两国去年双边贸易额高达7160亿美元。消息公布后，加元汇率随即跌至当日低点。加拿大商会将&lt;strong&gt;此次威胁定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁两国在未来30天内展开谈判。&lt;/strong&gt;&lt;/p&gt;
+关税范围与生效细节
+&lt;p&gt;根据特朗普政府周一晚间公布的具体商品清单，此次50%关税涵盖牛奶及乳制品、酒精饮料、服装及家具等多类产品。新关税将在30天后生效，能源、钾肥、关键矿产、鱼类等产品获豁免，已受美国国家安全关税约束的钢铁、铝等商品同样不在此次加征范围之内。&lt;/p&gt;
+&lt;p&gt;值得注意的是，符合特朗普2020年《美墨加协定》（USMCA）条款的进口商品，此次并未获得豁免。这与此前该协定商品曾被排除在所谓&amp;quot;对等关税&amp;quot;之外的做法形成明显落差。据媒体报道，&lt;strong&gt;这一豁免缺失意味着大量目前免税入境美国的加拿大商品，将面临大幅加税压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报道称，特朗普政府高级官员将&lt;strong&gt;此次关税行动定性为对加拿大不公平贸易行为的直接回应。&lt;/strong&gt;官员称，加拿大各省已停止采购美国酒类，对美国汽车加征关税，并对美国奶酪实施歧视性待遇。&lt;/p&gt;
+&lt;p&gt;一名政府高级官员表示，在特朗普去年初推行贸易政策之初，&amp;quot;只有两个国家对美国采取了报复措施&amp;quot;，加拿大便是其中之一。&lt;/p&gt;
+&lt;p&gt;此次关税将援引1930年《关税法》第338条作为法律依据——该条款此前从未被用于对贸易伙伴征收关税。官员解释称，该法律赋予总统在他国对美实施歧视性待遇时采取行动的权力。&lt;/p&gt;
+&lt;p&gt;此外，美国官员特别强调，此次关税与特朗普上周五就加拿大野火烟雾飘入美国境内所威胁的另一轮关税措施相互独立，两者并行推进。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加拿大方面迅速作出反应。&lt;/strong&gt;安大略省省长Doug Ford在社交媒体平台X上表示，&amp;quot;我永远不会停止为安大略而战&amp;quot;，并呼吁加拿大以&amp;quot;关税对关税、美元对美元&amp;quot;的方式予以还击。Ford此前曾因播放反关税广告而激怒特朗普，近期态度已趋于温和，但此次措辞再度强硬。&lt;/p&gt;
+&lt;p&gt;加拿大商会则采取了相对克制的立场，将&lt;strong&gt;此次事态定性为&amp;quot;令人遗憾的升级&amp;quot;，并呼吁华盛顿与渥太华在新关税生效前的30天窗口期内展开对话，为谈判解决留下空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析指出，特朗普此举有可能重新点燃此前已有所降温的全球贸易摩擦。今年早些时候，美国最高法院裁定推翻了特朗普的全球紧急关税措施，贸易紧张态势一度缓和，但此次针对加拿大的新一轮关税行动令市场对贸易战卷土重来的担忧再度升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软与AMD深化AI合作，Azure引入Helios机架级AI系统</title><link>https://wallstreetcn.com/articles/3777486</link><guid>66f0940c3ad22a4cf26cef570510bef37f8ddb2815b831aca0582aa03edfce5d</guid><pubDate>Mon, 20 Jul 2026 16:27:40 GMT</pubDate><description>&lt;p&gt;AMD与微软扩大长期合作，为AMD在AI芯片市场挑战英伟达主导地位再添重要砝码。&lt;/p&gt;
 &lt;p&gt;7月20日，据报道，&lt;strong&gt;微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/strong&gt;AMD计划于2026年下半年开始向包括微软在内的客户发货。&lt;/p&gt;
 &lt;p&gt;此次合作还涵盖Azure新增两个基于第六代AMD EPYC Venice处理器的虚拟机系列，以及在AMD AI后端网络基础设施和部分Azure服务中部署AMD Pensando数据处理单元（DPU）。&lt;/p&gt;
 &lt;p&gt;微软CEO Satya Nadella表示，&amp;quot;我们正在通过AMD Helios扩展Azure基础设施组合，为客户提供构建和运行下一代AI应用所需的性能、规模与选择。&amp;quot;此次合作进一步丰富了微软的AI算力来源，对于正在加速自研模型开发并持续扩大研发算力投入的微软而言，具有重要战略意义。&lt;/p&gt;
@@ -420,4 +400,39 @@ AI投资回报担忧仍是市场核心风险
 &lt;p&gt;叠加2026年以来国内纯电动乘用车换电系统互换性技术标准的稳步推进，标准统一的行业红利将向具备成熟跨品牌运营经验的第三方服务商倾斜。&lt;/p&gt;
 &lt;p&gt;整体而言，奥动新能源从重资产向轻资产的转型、对B端高频运营场景的深度绑定，以及在分布式储能与电池资产管理上展现出的长远价值，共同构成了一条逻辑严密的自证链条。&lt;/p&gt;
 &lt;p&gt;这条路能否在资本市场获得最终认可，将成为中国换电产业在“车企自建”与“第三方共享”路线博弈中一个重要的参照坐标。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 月之暗面引爆AI交易变局，盘点新格局下的赢家与输家</title><link>https://wallstreetcn.com/articles/3777493</link><guid>b9be257e14220e51b273f57003bda58ddbb2c6f2492a741e1f1acc28c7119462</guid><pubDate>Mon, 20 Jul 2026 20:00:18 GMT</pubDate><description>&lt;p&gt;月之暗面发布的Kimi K3模型引爆“DeepSeek效应”，在全球科技股市场掀起新一轮重新定价浪潮，迫使投资者审视支撑AI交易逻辑的核心假设。&lt;/p&gt;
+&lt;p&gt;月之暗面上周五发布新一代模型Kimi K3，称其性能可与OpenAI和Anthropic的顶级产品媲美，成本却仅为后者的一小部分。市场开始将此次发布与去年的“DeepSeek时刻”相提并论，IG市场分析师Tony Sycamore表示，这一冲击导致两家未上市美国公司OpenAI和Anthropic的预期估值合计蒸发3140亿美元。&lt;/p&gt;
+&lt;p&gt;评论认为，Kimi K3的问世从两个维度动摇了既有市场逻辑：其一，美国限制先进芯片出口将阻碍别国AI进展的判断面临挑战；其二，性能更强、成本更低的模型在加速全球AI应用普及的同时，是否会引发AI基础设施产能过剩，亦成为投资者的新忧虑。&lt;/p&gt;
+&lt;p&gt;然而，此次冲击并非全面利空。从市场表现来看，不同赛道的玩家正在经历截然不同的命运分化。以下是潜在赢家与输家的梳理。&lt;/p&gt;
+
+赢家之一：中国半导体生态系统
+
+&lt;p&gt;目前尚不清楚月之暗面开发K3所使用的具体芯片，不过，新模型的发布已直接提振中国半导体板块。本周一盘中，中芯国际A股一度涨超5%，市场预期AI模型开发商之间的竞争加剧将推动相关基础设施支出持续增加。&lt;/p&gt;
+&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan表示：“我们预计最大的赢家仍将是AI基础设施层。在政府的大力支持下，中国对开源AI的推动可能加速国内先进AI模型的部署，这将需要更多算力资源，并带动底层硬件需求，尤其是网络设备和存储芯片。”&lt;/p&gt;
+&lt;p&gt;上周末，阿里巴巴发布了旗舰模型Qwen3.8 Max的预览版，该模型参数量达2.4万亿，性能据称可与全球领先的前沿模型比肩。两款产品的相继发布，叠加中国AI开发商日益倾向于针对国内芯片优化模型的趋势，共同推动科创板代表性指数创业板综周一涨幅一度达3.6%。&lt;/p&gt;
+
+赢家之二：存储芯片厂商
+
+&lt;p&gt;Kimi K3拥有2.8万亿参数，系中国迄今最大规模的AI模型，其稀疏比——衡量计算效率的关键指标——已创下历史新高。更高的稀疏比意味着每次推理任务中被激活的参数占总量的比例更低，从而降低算力消耗。&lt;/p&gt;
+&lt;p&gt;然而，这2.8万亿参数仍须全部存入内存。即便经过低精度格式压缩，Kimi K3仍占用约1.4太字节的内存空间。这意味着部署该模型须依赖配备大容量内存的AI处理器集群，例如英伟达的Blackwell GB300系统，对SK海力士、三星电子等存储芯片供应商的需求由此得以延续。&lt;/p&gt;
+&lt;p&gt;Sumitomo Mitsui DS Asset Management高级投资组合经理Stanley Tang表示：“由于供应商数量有限，存储芯片厂商仍将是半导体板块中处境最为有利的一类企业。”他进一步指出，如果像Kimi这样的模型加速普及，整体需求不太可能因此下滑，反而可能推动AI智能体加速渗透，从而进一步拉动存储需求。&lt;/p&gt;
+
+赢家之三：AI智能体与软件开发商
+
+&lt;p&gt;Kimi K3的发布还提振了外界对中国软件企业与AI智能体开发商的信心——即便在获取全球最先进芯片受限的背景下，这些企业依然有能力持续提升模型性能与效率。&lt;/p&gt;
+&lt;p&gt;“可以确定的是，一款性能出色且成本更低的开源模型将降低应用开发成本，并可能加快在编程、客户服务和工业流程领域的应用普及，”Saxo Markets首席投资策略师Charu Chanana表示。&lt;/p&gt;
+&lt;p&gt;不过，晨星分析师Malik Ahmed Khan对于软件开发商所面临的竞争风险持更为审慎的态度。&lt;/p&gt;
+&lt;p&gt;Khan认为，将上周五Alphabet、亚马逊和微软遭抛售归因于市场担忧更多企业将转向受K3启发的开源模型，这种判断“站不住脚”。他说，我们认为，美国企业、政府机构以及与美国政府合作的公司，不会为了降低推理成本而采用别国的开放权重模型。&lt;/p&gt;
+
+输家之一：AI模型开发商
+
+&lt;p&gt;如果说K3催生了新的赢家，那么对于AI模型开发商而言，竞争格局已明显趋于恶化。&lt;/p&gt;
+&lt;p&gt;在K3发布前被普遍视为中国最佳开源模型开发商的智谱，港股股价在过去两个交易日内已累计下挫近40%，折射出市场对于模型层竞争白热化的担忧。&lt;/p&gt;
+&lt;p&gt;此后竞争亦不会就此平息。阿里巴巴周一股价随Qwen3.8 Max的发布而上涨，该公司将这款模型定位为能力仅次于Anthropic Fable 5的产品。MiniMax Group Inc.据报也计划推出M3模型的升级版本。月之暗面本身则宣布将于7月27日公开发布Kimi K3的模型权重，届时企业可自行运行该模型，而无需依赖其云服务。&lt;/p&gt;
+&lt;p&gt;Sumitomo的Tang表示：“我们仍处于早期阶段，更好的模型还会不断涌现。一些模型可能变得毫无价值，我认为市场尚未充分计入这一风险。”&lt;/p&gt;
+
+输家之二：高端芯片制造商
+
+&lt;p&gt;此次发布同样令市场重新审视英伟达和AMD等AI热潮核心受益者是否还能持续享有稀缺性溢价。与DeepSeek冲击不同的是，K3的突破点不在于训练效率，而更多体现在以更低成本实现对标顶级模型的推理性能——这一路径对高端算力的依赖程度存在本质差异。&lt;/p&gt;
+&lt;p&gt;Siebert Financial首席投资官Mark Malek表示：“东京和台北的投资者当天将对AI资本支出最终能否获得回报的疑虑计入价格。无论世界上哪家实验室——不管来自哪个国家——每次推出一款免费的前沿级模型，这种疑虑就会再次浮现。”&lt;/p&gt;
+&lt;p&gt;从更宏观的视角来看，Kimi K3与Qwen3.8 Max的接连亮相表明，前沿AI模型的竞争正在超越OpenAI、Anthropic等美国头部实验室的范畴持续扩展。据彭博报道，这一趋势可能对美国模型提供商的定价权形成压力，同时继续推动全球范围内支撑更强大AI系统运行所需的基础设施投资。AI赛道的赢家与输家格局，或正在经历深刻重构。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
