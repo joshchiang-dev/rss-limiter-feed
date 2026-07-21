@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 04:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 21 Jul 2026 04:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 比Rubin贵四成却拿下微软全栈订单？AMD产品周前用“定价权”重新定义AI芯片竞争</title><link>https://wallstreetcn.com/articles/3777498</link><guid>9206e10eda359a92a09feb8bdc262e9e64daed8bcc040ff340ff4c5f5bb8cb0c</guid><pubDate>Mon, 20 Jul 2026 21:17:24 GMT</pubDate><description>&lt;p&gt;AMD对英伟达数据中心GPU垄断地位的挑战，正从低价替代策略转向定价权叙事。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777486"&gt;华尔街见闻提及&lt;/a&gt;，7月20日，微软将在其Azure云平台上部署AMD的Helios机架级解决方案，用于驱动前沿模型AI推理工作负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Futurum Group估计，在与微软达成的迄今最全面云合作协议中，Helios机架级AI系统以高于英伟达Rubin约40%的售价获得微软全栈采购&lt;/strong&gt;，标志着AMD在AI基础设施市场的竞争逻辑出现了根本性转变。&lt;/p&gt;
 &lt;p&gt;微软将在Azure上部署Helios用于前沿AI推理，同时引入第六代EPYC Venice CPU虚拟机系列及Pensando DPU。这是AMD首次在单一云客户中实现&amp;quot;GPU+CPU+网络&amp;quot;的全栈落地。&lt;/p&gt;
@@ -33,31 +33,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;AMD的胜出究竟源于技术领先，还是仅仅因为算力供应如此紧张，只要能造出来就有人买？&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股反弹带动亚太市场走高，韩股涨幅扩大至4%、三星电子涨6%，油价回落、金价上涨1%</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 03:48:26 GMT</pubDate><description>&lt;p&gt;芯片股强势反弹，亚太市场在连跌四日后于周二重拾升势，但科技巨头财报季即将到来，能否为AI驱动的涨势续命，仍是市场最大悬念。&lt;/p&gt;
-&lt;p&gt;亚太股市周二全面走高，MSCI亚太指数上涨2%至265.96点，结束此前四个交易日的连续下跌。芯片板块是此次反弹的核心驱动力——三星电子涨6%，&lt;strong&gt;带动韩国综合指数涨幅扩大至4%&lt;/strong&gt;，&lt;strong&gt;韩国交易所更因涨势过猛启动Sidecar机制，暂停KOSPI程序化买盘。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;日本股市因周一休市，日经225指数周二补涨2.2%，铠侠一度张超10%。与此同时，美股期货也从早盘低位回升，纳斯达克100指数期货涨幅扩大至1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;油价回落进一步改善了市场情绪。布伦特原油下跌0.9%，报约88.46美元/桶，此前油价高企引发的通胀担忧曾在周一压制债市表现。&lt;/p&gt;
-财报季打响，AI叙事面临检验
-&lt;p&gt;市场反弹的背后，投资者的目光已锁定本周开始的美国科技巨头财报季。特斯拉与Alphabet将于周三率先公布业绩，拉开大型科技公司业绩披露的序幕；微软、Meta、苹果和亚马逊则将在随后一周相继发布财报。&lt;/p&gt;
-&lt;p&gt;当前市场的核心问题是：这些公司能否以实际业绩证明其在AI领域的巨额投入物有所值。&lt;/p&gt;
-&lt;p&gt;爱泽证券基金经理Ikuo Mitsui表示：&lt;strong&gt;&amp;quot;市场已经经历了相当幅度的调整，但与此同时，企业盈利表现相对稳健，展现出比预期更强的韧性。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;贝莱德投资研究院由Jean Boivin领衔的策略师团队在最新报告中写道：&amp;quot;AI投资热潮——作为增长的重要驱动力——以及我们对AI基础设施的偏好，在近期波动中依然完好无损。&amp;quot;他们同时指出，&amp;quot;当前全球经济对石油的依赖程度远低于以往能源冲击时期，这使其对油价上涨更具韧性。&amp;quot;&lt;/p&gt;
-油价回落，但风险犹存
-&lt;p&gt;尽管油价周二有所回落，但中东局势仍是市场的潜在扰动因素。胡塞武装威胁封锁红海出口通道，市场持续关注沙特阿拉伯出口是否会受到冲击。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;上周油价飙升，WTI原油收于6月中旬以来最高水平，能源成本上升引发的通胀担忧一度令债市承压，美国10年期国债收益率目前维持在4.59%附近。&lt;/p&gt;
-&lt;p&gt;贝莱德策略师认为，目前没有证据显示中东局势升级会对经济增长造成足够大的冲击，从而改变市场的风险偏好立场。&lt;/p&gt;
-特朗普对加拿大加征50%关税，贸易摩擦再度升温
-&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
-&lt;p&gt;据彭博报道，若特朗普最终落实这一举措，将是其对美国第二大贸易伙伴采取的最严厉贸易行动之一。加元对此反应相对平稳，汇率基本持稳。&lt;/p&gt;
-黄金小幅上涨、美元指数变化不大
-&lt;p&gt;黄金上涨近1%，报约4044美元/盎司。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元，离岸人民币报6.7649兑1美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读美联储“五大工作组”：如果沃什想要借此“降息”，很难获得支持</title><link>https://wallstreetcn.com/articles/3777511</link><guid>beb9f2b5becd85593b9e5e155f1f9281ff5a9577034bbca12c1b513adc80f584</guid><pubDate>Tue, 21 Jul 2026 00:59:39 GMT</pubDate><description>&lt;p&gt;高盛认为，美联储“五大工作组”的建议对FOMC不具约束力，联储主席沃什（Kevin Warsh）在多个领域的激进立场——包括削减前瞻指引、压缩资产负债表、以AI通缩论为由推动宽松——&lt;strong&gt;在FOMC内部均难以获得多数支持&lt;/strong&gt;。最终结果将是一系列&amp;quot;对沃什而言看似重大、对其他官员而言影响有限&amp;quot;的妥协性变化。&lt;/p&gt;
+&lt;p&gt;在产品周来临之际，Helios能否在定价、性能、生态三个维度同时说服市场，将决定AMD究竟是真正撼动了英伟达的地位，还是仅在供应紧张期分到了一杯羹。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛解读美联储“五大工作组”：如果沃什想要借此“降息”，很难获得支持</title><link>https://wallstreetcn.com/articles/3777511</link><guid>beb9f2b5becd85593b9e5e155f1f9281ff5a9577034bbca12c1b513adc80f584</guid><pubDate>Tue, 21 Jul 2026 00:59:39 GMT</pubDate><description>&lt;p&gt;高盛认为，美联储“五大工作组”的建议对FOMC不具约束力，联储主席沃什（Kevin Warsh）在多个领域的激进立场——包括削减前瞻指引、压缩资产负债表、以AI通缩论为由推动宽松——&lt;strong&gt;在FOMC内部均难以获得多数支持&lt;/strong&gt;。最终结果将是一系列&amp;quot;对沃什而言看似重大、对其他官员而言影响有限&amp;quot;的妥协性变化。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美联储主席沃什近期宣布成立“五大推进货币政策工作组”，试图在沟通机制、资产负债表、数据采集、AI与生产力、以及通胀框架五个维度重塑美联储。然而，高盛在7月20日研报中给出了冷峻的现实检验：&lt;strong&gt;如果投资者押注沃什能够利用“AI具有结构性通缩作用”的叙事来推动当前的“降息”（鸽派货币政策），他们注定会失望。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛指出，尽管沃什作为主席在新闻发布会等沟通渠道上拥有巨大权力，但他的激进主张（如大幅缩表、基于AI预期制定鸽派政策）与联邦公开市场委员会（FOMC）的制度惯性存在显著冲突。&lt;/p&gt;
 &lt;p&gt;因此，该行认为，&lt;strong&gt;美联储的政策路径不会发生激进转向。&lt;/strong&gt;FOMC极难同意基于对未来生产力的预测而在今天采取宽松政策；在资产负债表和前瞻性指引上，最终的落地大概率是“&lt;strong&gt;表面上满足沃什，实质上影响有限&lt;/strong&gt;”的折中方案（例如停止公布点阵图的中位数，或微调资产购买构成）。财政部也会通过&lt;strong&gt;调整发债策略来抵消美联储资产结构变化带来的市场冲击&lt;/strong&gt;。&lt;/p&gt;
@@ -148,7 +124,31 @@ Nebius：英伟达持股9.3%，机构看好2030年营收达300亿美元
 &lt;p&gt;受整体板块情绪带动，neocloud龙头CoreWeave周一亦上涨约3.5%，Nebius日内涨幅约2.6%。&lt;/p&gt;
 赛道逻辑：电力、GPU与客户，谁跑得快谁赢
 &lt;p&gt;三家公司的集中爆发，折射出neocloud赛道当前的核心竞争要素：电力资源、GPU供给与客户锁定能力。超大规模云服务商数据中心建设的结构性瓶颈，正在为能够快速整合上述资源的独立运营商创造持续的议价空间。&lt;/p&gt;
-&lt;p&gt;对投资者而言，此轮行情的信号意义在于：&lt;strong&gt;科技巨头的AI基础设施支出正加速向第三方neocloud运营商溢出，&lt;/strong&gt;而英伟达直接入股Nebius，更进一步强化了市场对这一赛道长期价值的信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
+&lt;p&gt;对投资者而言，此轮行情的信号意义在于：&lt;strong&gt;科技巨头的AI基础设施支出正加速向第三方neocloud运营商溢出，&lt;/strong&gt;而英伟达直接入股Nebius，更进一步强化了市场对这一赛道长期价值的信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球科技大反弹！韩股涨幅扩大至4%、三星电子涨6%，油价回落、金价上涨1%</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 03:48:26 GMT</pubDate><description>&lt;p&gt;芯片股强势反弹，亚太市场在连跌四日后于周二重拾升势，但科技巨头财报季即将到来，能否为AI驱动的涨势续命，仍是市场最大悬念。&lt;/p&gt;
+&lt;p&gt;亚太股市周二全面走高，MSCI亚太指数上涨2%至265.96点，结束此前四个交易日的连续下跌。芯片板块是此次反弹的核心驱动力——三星电子涨6%，&lt;strong&gt;带动韩国综合指数涨幅扩大至4%&lt;/strong&gt;，&lt;strong&gt;韩国交易所更因涨势过猛启动Sidecar机制，暂停KOSPI程序化买盘。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;日本股市因周一休市，日经225指数周二补涨2.2%，铠侠一度张超10%。与此同时，美股期货也从早盘低位回升，纳斯达克100指数期货涨幅扩大至1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;油价回落进一步改善了市场情绪。布伦特原油下跌0.9%，报约88.46美元/桶，此前油价高企引发的通胀担忧曾在周一压制债市表现。&lt;/p&gt;
+财报季打响，AI叙事面临检验
+&lt;p&gt;市场反弹的背后，投资者的目光已锁定本周开始的美国科技巨头财报季。特斯拉与Alphabet将于周三率先公布业绩，拉开大型科技公司业绩披露的序幕；微软、Meta、苹果和亚马逊则将在随后一周相继发布财报。&lt;/p&gt;
+&lt;p&gt;当前市场的核心问题是：这些公司能否以实际业绩证明其在AI领域的巨额投入物有所值。&lt;/p&gt;
+&lt;p&gt;爱泽证券基金经理Ikuo Mitsui表示：&lt;strong&gt;&amp;quot;市场已经经历了相当幅度的调整，但与此同时，企业盈利表现相对稳健，展现出比预期更强的韧性。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;贝莱德投资研究院由Jean Boivin领衔的策略师团队在最新报告中写道：&amp;quot;AI投资热潮——作为增长的重要驱动力——以及我们对AI基础设施的偏好，在近期波动中依然完好无损。&amp;quot;他们同时指出，&amp;quot;当前全球经济对石油的依赖程度远低于以往能源冲击时期，这使其对油价上涨更具韧性。&amp;quot;&lt;/p&gt;
+油价回落，但风险犹存
+&lt;p&gt;尽管油价周二有所回落，但中东局势仍是市场的潜在扰动因素。胡塞武装威胁封锁红海出口通道，市场持续关注沙特阿拉伯出口是否会受到冲击。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;上周油价飙升，WTI原油收于6月中旬以来最高水平，能源成本上升引发的通胀担忧一度令债市承压，美国10年期国债收益率目前维持在4.59%附近。&lt;/p&gt;
+&lt;p&gt;贝莱德策略师认为，目前没有证据显示中东局势升级会对经济增长造成足够大的冲击，从而改变市场的风险偏好立场。&lt;/p&gt;
+特朗普对加拿大加征50%关税，贸易摩擦再度升温
+&lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税，理由是加拿大在汽车及汽车零部件贸易方面对美国采取了&amp;quot;歧视性措施&amp;quot;。新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
+&lt;p&gt;据彭博报道，若特朗普最终落实这一举措，将是其对美国第二大贸易伙伴采取的最严厉贸易行动之一。加元对此反应相对平稳，汇率基本持稳。&lt;/p&gt;
+黄金小幅上涨、美元指数变化不大
+&lt;p&gt;黄金上涨近1%，报约4044美元/盎司。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美元指数变化不大，欧元报1.1414美元，日元报162.49兑1美元，离岸人民币报6.7649兑1美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 314亿配售后七天浮亏44%：智谱两日再蒸发3000亿，万亿叙事退潮拷问AI估值逻辑</title><link>https://wallstreetcn.com/articles/3777490</link><guid>cac0ba1b74a1b1dda804429cd63ecc778fa022cda089c887ac8f55d10f741cdb</guid><pubDate>Mon, 20 Jul 2026 22:36:45 GMT</pubDate><description>&lt;p&gt;智谱刚于一周前完成314亿港元的巨额配售，参与认购的机构资金便已承受近44%的账面浮亏。&lt;/p&gt;
 &lt;p&gt;继上周五重挫28%后，智谱周一再度下跌19.56%，收报890.5港元，市值降至4146亿港元。仅两个交易日，市值合计蒸发逾3000亿港元。而若从盘中突破1万亿港元的历史高点计算，累计跌幅已达约60%。&lt;/p&gt;
 &lt;p&gt;引爆市场情绪的核心冲突在于：智谱于7月13日以每股1588港元完成1978万股配售，募资净额约313.75亿港元，但仅一周后股价便跌至890.5港元。&lt;/p&gt;
 &lt;p&gt;这意味着参与配售的机构资金账面浮亏达43.9%。高位融资与股价急跌之间仅隔了七个自然日，配售时机的合理性成为市场焦点。&lt;/p&gt;
