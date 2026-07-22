@@ -1,28 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 20:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 详解主动ETF--首批试点管理人布局观察</title><link>https://wallstreetcn.com/articles/3777656</link><guid>660577cbd51fcc452aeb33e658dd17708ae6cce07e4c65857ac9bae7feb57977</guid><pubDate>Wed, 22 Jul 2026 08:29:53 GMT</pubDate><description>&lt;p&gt;主动股票ETF正式进入发行倒计时，这一横跨主动与被动投资两大阵营的创新产品，被视为近五年来基金行业力度最大的产品创新。&lt;/p&gt;
-&lt;p&gt;7月17日，首批18只主动股票ETF产品发行申请递交证监会并获&amp;quot;接收材料&amp;quot;，涉及18家基金管理人，拟在上交所和深交所上市产品各9只。从产品名称来看，首批布局整体偏向价值/红利、均衡/稳健等方向，反映出管理人在早期产品设计中对组合容量、流动性和持有体验的重视。&lt;/p&gt;
-&lt;p&gt;国泰海通证券在最新研究报告中指出，&lt;strong&gt;在监管规则框架下，主动ETF的策略选择具有相当灵活性，红利增强、PB-ROE、均衡配置等量化策略均可适配，回测数据显示上述策略相对市场基准均能实现可观的长期超额收益。&lt;/strong&gt;但该报告同时提示，历史回测不代表未来收益，主动ETF仍需结合产品策略、基金经理、投资范围、流动性、费率及市场环境独立评估。&lt;/p&gt;
-策略框架：规则约束下的灵活空间
-&lt;p&gt;根据上交所&amp;quot;主动管理交易型开放式证券投资基金业务指引&amp;quot;，主动ETF的投资运作须满足若干硬性约束：持有证券数量不低于30只，前10大权重合计不超过基金资产净值的60%；持仓股票最近一年日均成交金额须位于所在交易所全部上市股票的前80%；同时须合理控制换手率，保持投资风格稳定，并设置合理的业绩比较基准。&lt;/p&gt;
-&lt;p&gt;在上述约束框架内，策略选择的空间仍然较大。&lt;strong&gt;据国泰海通证券研究，可行路径大致分为两类：一是聚焦&amp;quot;大盘价值&amp;quot;或&amp;quot;红利低波&amp;quot;的防御性策略，利用量化模型筛选低估值、高分红、低波动标的，在持仓分散和流动性达标的前提下追求稳健收益；二是对标市场宽基的&amp;quot;均衡策略&amp;quot;，通过均衡配置价值与成长风格，或采用PB-ROE等因子框架，在跟上市场基准的同时争取超额收益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;红利增强：容错率高，长持体验佳&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;国泰海通证券研究以量化回测展示了红利增强策略的运作逻辑。该策略从全A股出发，经流动性筛选、低波个股池构建、股息率初筛，最终结合低波动率与基本面质量因子选出约100只标的，每年调仓4次，个股最大权重不超过5%。&lt;/p&gt;
-&lt;p&gt;回测数据显示，扣除单边千2交易成本后，2013年至2026年7月，该策略年化收益20.2%，信息比1.11，最大回撤34.0%，月胜率63.8%。相比中证红利（全）指数，全区间年化超额收益达10.0%，波动更低、回撤更小。从滚动3年收益看，任一时点买入持有3年，平均累计收益80.4%，收益为正的比例达100%，对买入时点的容错率较高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PB-ROE：均衡选股，稳健超额&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PB-ROE策略的核心逻辑是&amp;quot;以合理估值买入优质基本面标的&amp;quot;。&lt;/strong&gt;具体而言，该策略先剔除估值相对盈利被高估的标的，再综合盈利、增长、现金流、预期盈利调整等基本面因子打分，选出约100只股票构建市值加权组合，每月调仓。&lt;/p&gt;
-&lt;p&gt;回测结果显示，2013年至2026年7月，该策略年化收益15.2%，相对中证800指数年化超额10.4%，信息比1.32，最大相对回撤10.6%。滚动3年维度下，任一时点买入持有3年平均收益51.1%，显著优于中证800指数的12.5%，3年累计超额收益胜率达100%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;均衡配置：复合策略，超额更稳&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;均衡配置策略将红利增强与成长优选组合等权配置，以平滑单一风格波动。回测数据显示，2013年至2026年7月，该策略年化收益22.4%，相对中证800指数年化超额17.6%，信息比2.09，最大相对回撤仅7.9%。滚动3年持有平均收益82.3%，3年累计超额收益胜率接近100%。在三类策略中，均衡配置在超额收益稳定性和回撤控制上表现最为突出。&lt;/p&gt;
-首批布局：价值当道，风格分化
-&lt;p&gt;&lt;strong&gt;据国泰海通证券研究梳理，首批18只主动ETF中，名称明确标注投资风格的产品共11只，其中价值风格7只、均衡风格3只、成长风格1只；另有7只产品未直接标注风格，多以&amp;quot;品质&amp;quot;&amp;quot;景气&amp;quot;&amp;quot;行业优选&amp;quot;&amp;quot;竞争优势&amp;quot;等关键词呈现，主动选股属性相对更强。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;价值/红利方向&lt;/strong&gt;是首批试点中数量最多的风格类型，共7只，涉及富国、华夏、工银瑞信、大成、鹏华、招商、华泰柏瑞等管理人。2026年一季度，上述7家公司主动管理规模合计约8,213.57亿元。从存量产品线看，这些管理人并非单一集中于价值风格，而是普遍以平衡和成长风格为主，价值风格作为补充配置，整体投研基础风格较为均衡。其中富国、华夏、工银瑞信在价值风格产品规模上相对更突出。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;均衡风格&lt;/strong&gt;共3只，对应汇添富、国泰、天弘三家管理人，2026年一季度合计主动管理规模约2,713.72亿元。三家公司存量主动权益基金主要集中于平衡风格，与均衡配置的产品定位方向一致。其中汇添富平衡风格基金规模达464.98亿元，体量最大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;成长风格&lt;/strong&gt;目前仅摩根基金一家布局，产品为摩根核心成长主动管理ETF。摩根基金存量主动权益产品以成长风格为主，成长风格基金规模203.42亿元，高于平衡风格的88.01亿元，与&amp;quot;核心成长&amp;quot;定位较为吻合。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未明确风格&lt;/strong&gt;的7只产品对应易方达、永赢、南方、华安、平安、华宝、建信等管理人，合计主动管理规模约8,456.28亿元，体量最大。各管理人存量产品风格差异较大，如易方达以成长为主，南方偏重平衡，整体可承载主动选股、行业优选或多风格配置等多元策略，后续仍需结合产品合同和投资范围进一步判断。&lt;/p&gt;
-&lt;p&gt;国泰海通证券研究指出，整体来看，首批主动ETF管理人的存量产品线与拟上报产品风格具有一定匹配度，体现出早期产品设计对组合容量、流动性和持有体验的重视。但当前所有产品仍处于材料接收阶段，具体投资策略和投资范围尚未完全明确，投资者在产品正式发行后，仍需结合产品策略、基金经理、费率及市场环境进行独立评估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心订单爆发，GE Vernova Q2营收同比增长22%，EPS逊于预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3777684</link><guid>4d34bb3702c753c93176b26294128037c2d090ca2a4219230650f512ed70f088</guid><pubDate>Wed, 22 Jul 2026 10:58:13 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 20:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] AI数据中心订单爆发，GE Vernova Q2营收同比增长22%，EPS逊于预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3777684</link><guid>4d34bb3702c753c93176b26294128037c2d090ca2a4219230650f512ed70f088</guid><pubDate>Wed, 22 Jul 2026 10:58:13 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;在全球数据中心建设加速、人工智能推动用电需求激增的背景下，电力设备供应商迎来新一轮景气周期。通用电气剥离后的能源巨头GE Vernova二季度业绩大幅超预期，并上调全年营收和现金流指引，显示电网、电气化和燃气发电设备需求正在进入加速阶段。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;公司二季度营收同比增长22%至111亿美元，订单金额达到创纪录的242亿美元，同比增长88%。&lt;/strong&gt;其中，电力业务受益于燃气轮机需求爆发，电气化业务则直接受益于AI数据中心扩张，今年以来来自数据中心客户的订单已超过50亿美元。&lt;/p&gt;
 &lt;p&gt;受强劲订单和盈利改善推动，&lt;strong&gt;GE Vernova将2026年营收预期上调至455亿至465亿美元&lt;/strong&gt;，同时将自由现金流目标从65亿至75亿美元大幅提升至115亿至125亿美元。公司1760亿美元在手订单，也为未来增长提供了充足保障。&lt;/p&gt;
@@ -96,16 +73,30 @@ AI叙事波动不断，美股盘初低开，存储芯片股与光通信股普遍
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;KCM Trade悉尼首席市场分析师Tim Waterer在报告中写道，市场正在学会与高油价共存，但&amp;quot;关键问题在于，这种状态能持续多久&amp;quot;。他指出，&amp;quot;目前强劲的企业盈利正在救场，帮助市场将注意力从油价上涨这一事实上引开。&amp;quot;&lt;/p&gt;
 &lt;p&gt;日本40年期国债收益率周三上涨2个基点至3.910%。日元方面，日元兑美元小幅变动，此前周二一度跌破163关口，为1986年以来首次。日本财务大臣片山皋月重申，必要时将对外汇采取行动，当局对汇率问题的立场没有改变。&lt;/p&gt;
-&lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股“股王”联讯仪器上半年净利同比预增802%至926%，AI浪潮席卷光模块测试设备｜财报见闻</title><link>https://wallstreetcn.com/articles/3777678</link><guid>0dbb8c7e649e6a82d02f3cea18af39b7cd7fdfb65509fd40e4b6ef14dfc01880</guid><pubDate>Wed, 22 Jul 2026 08:41:14 GMT</pubDate><description>&lt;p&gt;AI算力投资热潮正沿着产业链持续向上游传导，测试设备厂商开始进入业绩兑现阶段。&lt;/p&gt;
-&lt;p&gt;7月22日，联讯仪器发布2026年半年度业绩预告，&lt;strong&gt;预计上半年归属于上市公司股东的净利润为5.1亿元至5.8亿元，同比增长802%至926%。&lt;/strong&gt;公司表示，人工智能快速发展带动全球算力需求持续攀升，数据中心建设提速，推动高速光通信产业链景气度上行，公司通信测试仪器及光电子器件测试设备需求大幅增长。&lt;/p&gt;
-&lt;p&gt;对于市场而言，这份业绩预告不仅意味着联讯仪器盈利能力实现跨越式提升，也进一步印证&lt;strong&gt;AI算力基础设施建设正持续向光模块、光芯片及测试设备等上游环节传导，设备厂商开始进入业绩释放周期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最新数据显示，联讯仪器股价报1888.08元/股，位列A股第一。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI算力需求拉动，主营业务进入高增长阶段
-&lt;p&gt;公告显示，联讯仪器预计2026年上半年实现归母净利润5.1亿元至5.8亿元，而上年同期仅为5654万元。&lt;/p&gt;
-&lt;p&gt;同期，公司预计实现扣非净利润5亿元至5.7亿元，同比增长830%至960%。&lt;strong&gt;扣非净利润增速与归母净利润基本一致，意味着本轮业绩爆发主要来自主营业务增长，而非非经常性收益贡献。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司表示，AI技术快速发展带动全球算力需求持续增长，数据中心建设不断加速，高速光通信产品需求保持旺盛，光模块、光芯片厂商扩产力度持续提升，由此带动通信测试仪器及光电子器件测试设备需求快速增长。&lt;/p&gt;
-&lt;p&gt;从产业链来看，&lt;strong&gt;这意味着AI资本开支正沿着&amp;quot;云厂商扩大算力投入—数据中心建设提速—高速光模块需求增长—光模块及光芯片厂商扩产—测试设备采购增加&amp;quot;的路径持续传导，测试设备企业正成为本轮AI基础设施投资的重要受益者。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”</title><link>https://wallstreetcn.com/articles/3777708</link><guid>9ed5ec0ebec06021e80081dbd251389451fd935cb99465dde5ca8a18fa67d51e</guid><pubDate>Wed, 22 Jul 2026 19:46:04 GMT</pubDate><description>&lt;p&gt;美伊冲突正在沿着“袭击船只—打击基础设施—报复美方利益—威胁石油供应”的路径进一步升级。&lt;/p&gt;
+&lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元</title><link>https://wallstreetcn.com/articles/3777680</link><guid>e90e0b59b419eec67e981a36db33aaf4a4c6889f12d9bea0ba4eb1555e8d1d1d</guid><pubDate>Wed, 22 Jul 2026 10:00:40 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet将于当地时间7月22日美股盘后（北京时间23日凌晨）公布第二季度业绩，但市场真正关注的焦点并非单季利润表现，而是管理层是否会进一步上调AI资本开支（Capex）指引。&lt;/p&gt;
+&lt;p&gt;拥有40多年科技行业研究经验的The Information Network总裁罗伯特·卡斯特拉诺撰文指出，多项产业链信号显示，&lt;strong&gt;Alphabet此前给出的2026年1800亿至1900亿美元Capex预期可能已经偏保守。&lt;/strong&gt;随着AI数据中心建设持续提速、云计算需求保持强劲增长，Alphabet未来数年的AI基础设施投入仍可能维持上行趋势。&lt;/p&gt;
+&lt;p&gt;卡斯特拉诺预计，&lt;strong&gt;Alphabet或将在财报中将2026年资本开支指引上调至1900亿至2000亿美元，同时维持2027年开支将接近3000亿美元的相关表述不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;德意志银行也大幅提高了对Alphabet未来资本开支的预测。&lt;/strong&gt;据&lt;a href="https://wallstreetcn.com/articles/3777555?keyword=%E5%BE%B7%E9%93%B6"&gt;华尔街见闻此前文章&lt;/a&gt;，德银预计，Alphabet 2027年Capex将达到约3250亿美元，较此前2500亿美元的预测明显上调；2028年资本开支则可能进一步升至3650亿至3700亿美元。&lt;/p&gt;
+&lt;p&gt;若这一趋势兑现，意味着AI基础设施投资周期仍在持续扩张，市场此前关于AI资本开支即将见顶、增长动能放缓的担忧或将面临重新定价。&lt;/p&gt;
+AI军备竞赛升温：五大科技巨头2026年资本开支或突破7700亿美元
+&lt;p&gt;&lt;strong&gt;AI基础设施投资浪潮正在进入更大规模扩张阶段，Alphabet资本开支的走向，其市场意义已远超单季财报本身。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着超大规模云厂商持续加码数据中心、算力和能源基础设施建设，资本投入正从过去的渐进式增长转向以千亿美元为单位的长期竞赛。&lt;/p&gt;
+&lt;p&gt;据市场数据，Alphabet、亚马逊、微软、Meta和甲骨文五家公司资本开支合计已从截至2025年4月的过去12个月2710亿美元，大幅提升至截至2026年4月的4820亿美元。&lt;strong&gt;按照各家公司现有指引及市场预期，五大巨头2026年全年资本开支预计将达到7450亿至7750亿美元，较前一周期增长约55%至61%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一数字不仅反映出科技巨头对AI商业化前景的押注，也意味着它们正在成为整个半导体产业链需求增长的核心驱动力。&lt;/p&gt;
+五大巨头主导AI基础设施投资周期
+&lt;p&gt;需要注意的是，超7700亿美元资本开支并不会全部直接流向芯片供应商。其中包括服务器、网络设备、数据中心建设、土地、电力设施以及能源供应体系等多个领域。&lt;/p&gt;
+&lt;p&gt;但从产业链传导来看，每一座新增AI数据中心都将带动多个环节的同步扩张。&lt;strong&gt;从高性能计算芯片、HBM存储，到先进封装、晶圆制造、测试设备以及高速互联网络，AI基础设施投资正在形成完整的供应链拉动效应。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场关注的核心在于，当前AI产业链的需求并非由单一企业驱动，而是由少数超大规模云厂商共同决定。它们对GPU、定制ASIC、HBM、光网络以及数据中心电力系统的采购节奏，正在成为衡量整个半导体周期景气度的重要指标。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此，Alphabet资本开支是否进一步上调，不只是对Gemini模型和谷歌云业务前景的判断，更是对下一阶段AI基础设施需求强度的验证。&lt;/strong&gt;&lt;/p&gt;
+Meta出租缓冲，谷歌订单兜底——AI资本开支的两条路径
+&lt;p&gt;近期Meta考虑向外部客户出售部分AI基础设施容量，引发市场对AI投资是否出现过剩的讨论。但从产业逻辑看，这一动作更像是提高资产利用率，而非削减投资。&lt;/p&gt;
+&lt;p&gt;据富国银行调整后的预测，Meta推动部分AI基础设施容量外部化，主要原因是内部推理需求释放存在时间差，希望通过对外出租提前实现资产回报。这意味着Meta正在对已投入的算力资源进行商业化，而非因为需求不足而被迫消化过剩产能。&lt;/p&gt;
+&lt;p&gt;相比之下，Alphabet具备更强的内部消化能力。&lt;strong&gt;谷歌云目前积压合同金额达到4620亿美元，企业客户对AI算力和云服务的需求已经形成较强的订单支撑。这意味着Alphabet新增资本投入能够更直接对应未来收入增长，其资本开支扩张的商业确定性也更高。&lt;/strong&gt;&lt;/p&gt;
+Alphabet财报成为AI周期重要观察窗口
+&lt;p&gt;&lt;strong&gt;对于市场而言，Alphabet7月22日公布的二季度业绩，关键并不只是盈利和收入表现，而是管理层是否进一步提高AI资本开支预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果Alphabet上调2026年资本支出指引，将强化市场对AI基础设施投资周期持续性的判断，并为芯片、存储、先进封装以及数据中心产业链提供新的基本面支撑。&lt;/p&gt;
+&lt;p&gt;反之，如果资本开支低于预期，市场可能重新评估AI投资回报周期，并对相关科技股估值形成短期压力。&lt;/p&gt;
+&lt;p&gt;随着微软、Meta和亚马逊随后公布业绩，华尔街将进一步观察这场AI基础设施竞赛是否仍在加速，以及数千亿美元资本投入能否持续转化为收入增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”</title><link>https://wallstreetcn.com/articles/3777708</link><guid>9ed5ec0ebec06021e80081dbd251389451fd935cb99465dde5ca8a18fa67d51e</guid><pubDate>Wed, 22 Jul 2026 19:46:04 GMT</pubDate><description>&lt;p&gt;美伊冲突正在沿着“袭击船只—打击基础设施—报复美方利益—威胁石油供应”的路径进一步升级。&lt;/p&gt;
 &lt;p&gt;据新华社，美国总统特朗普22日周三称，从现在起，伊朗每次在霍尔木兹海峡向船只开火，美国就将轰炸并摧毁一座伊朗的桥梁或发电厂。此后，周三美股午盘时段，特朗普又放话称，美国在伊朗取得胜利，美方不需要霍尔木兹海峡、与委内瑞拉合作产油。&lt;/p&gt;
 &lt;p&gt;伊朗军方强硬回应特朗普的威胁称，如果美国打击伊朗桥梁或发电厂，伊朗将报复性打击该地区与美国有利益关联的能源等基础设施。&lt;/p&gt;
 &lt;p&gt;同日，美国国务卿鲁比奥表示，美国仍然愿意与伊朗谈判，但如果伊朗继续威胁霍尔木兹海峡的航行自由，美国的军事行动将继续。伊朗方面强调，拥有打击“任何想打击的目标”的能力，并称不会允许霍尔木兹海峡再次成为威胁伊朗的工具。伊朗议会议长卡利巴夫发出更具市场冲击力的警告：要么大家都能卖油，要么谁都不能卖。&lt;/p&gt;
@@ -159,30 +150,7 @@ AI算力需求拉动，主营业务进入高增长阶段
 &lt;p&gt;美国要求伊朗停止威胁霍尔木兹海峡航行，并接受美国提出的相关安排；伊朗则认为，美国军事打击本身才是地区安全的根源，并坚持对霍尔木兹海峡拥有主导权。&lt;/p&gt;
 &lt;p&gt;在这一背景下，霍尔木兹海峡的任何一次袭船事件，都可能触发特朗普所威胁的基础设施打击；而美国对伊朗桥梁、电厂等设施的任何打击，又可能引发伊朗对美国及其地区盟友基础设施的报复。&lt;/p&gt;
 &lt;p&gt;美伊冲突正在形成一个危险的升级循环：航运冲突引发军事打击，军事打击扩大基础设施目标，基础设施打击又可能触发更广泛的地区报复。&lt;/p&gt;
-&lt;p&gt;对于能源市场而言，霍尔木兹海峡风险的持续升级，也意味着全球石油和天然气供应链仍将面临巨大不确定性。该海峡一旦从“航运受阻”进一步演变为大规模军事对抗，冲击范围将远超美伊双边关系，并可能迅速传导至全球能源价格、通胀预期和金融市场。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元</title><link>https://wallstreetcn.com/articles/3777680</link><guid>e90e0b59b419eec67e981a36db33aaf4a4c6889f12d9bea0ba4eb1555e8d1d1d</guid><pubDate>Wed, 22 Jul 2026 10:00:40 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet将于当地时间7月22日美股盘后（北京时间23日凌晨）公布第二季度业绩，但市场真正关注的焦点并非单季利润表现，而是管理层是否会进一步上调AI资本开支（Capex）指引。&lt;/p&gt;
-&lt;p&gt;拥有40多年科技行业研究经验的The Information Network总裁罗伯特·卡斯特拉诺撰文指出，多项产业链信号显示，&lt;strong&gt;Alphabet此前给出的2026年1800亿至1900亿美元Capex预期可能已经偏保守。&lt;/strong&gt;随着AI数据中心建设持续提速、云计算需求保持强劲增长，Alphabet未来数年的AI基础设施投入仍可能维持上行趋势。&lt;/p&gt;
-&lt;p&gt;卡斯特拉诺预计，&lt;strong&gt;Alphabet或将在财报中将2026年资本开支指引上调至1900亿至2000亿美元，同时维持2027年开支将接近3000亿美元的相关表述不变。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;德意志银行也大幅提高了对Alphabet未来资本开支的预测。&lt;/strong&gt;据&lt;a href="https://wallstreetcn.com/articles/3777555?keyword=%E5%BE%B7%E9%93%B6"&gt;华尔街见闻此前文章&lt;/a&gt;，德银预计，Alphabet 2027年Capex将达到约3250亿美元，较此前2500亿美元的预测明显上调；2028年资本开支则可能进一步升至3650亿至3700亿美元。&lt;/p&gt;
-&lt;p&gt;若这一趋势兑现，意味着AI基础设施投资周期仍在持续扩张，市场此前关于AI资本开支即将见顶、增长动能放缓的担忧或将面临重新定价。&lt;/p&gt;
-AI军备竞赛升温：五大科技巨头2026年资本开支或突破7700亿美元
-&lt;p&gt;&lt;strong&gt;AI基础设施投资浪潮正在进入更大规模扩张阶段，Alphabet资本开支的走向，其市场意义已远超单季财报本身。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着超大规模云厂商持续加码数据中心、算力和能源基础设施建设，资本投入正从过去的渐进式增长转向以千亿美元为单位的长期竞赛。&lt;/p&gt;
-&lt;p&gt;据市场数据，Alphabet、亚马逊、微软、Meta和甲骨文五家公司资本开支合计已从截至2025年4月的过去12个月2710亿美元，大幅提升至截至2026年4月的4820亿美元。&lt;strong&gt;按照各家公司现有指引及市场预期，五大巨头2026年全年资本开支预计将达到7450亿至7750亿美元，较前一周期增长约55%至61%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一数字不仅反映出科技巨头对AI商业化前景的押注，也意味着它们正在成为整个半导体产业链需求增长的核心驱动力。&lt;/p&gt;
-五大巨头主导AI基础设施投资周期
-&lt;p&gt;需要注意的是，超7700亿美元资本开支并不会全部直接流向芯片供应商。其中包括服务器、网络设备、数据中心建设、土地、电力设施以及能源供应体系等多个领域。&lt;/p&gt;
-&lt;p&gt;但从产业链传导来看，每一座新增AI数据中心都将带动多个环节的同步扩张。&lt;strong&gt;从高性能计算芯片、HBM存储，到先进封装、晶圆制造、测试设备以及高速互联网络，AI基础设施投资正在形成完整的供应链拉动效应。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场关注的核心在于，当前AI产业链的需求并非由单一企业驱动，而是由少数超大规模云厂商共同决定。它们对GPU、定制ASIC、HBM、光网络以及数据中心电力系统的采购节奏，正在成为衡量整个半导体周期景气度的重要指标。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;因此，Alphabet资本开支是否进一步上调，不只是对Gemini模型和谷歌云业务前景的判断，更是对下一阶段AI基础设施需求强度的验证。&lt;/strong&gt;&lt;/p&gt;
-Meta出租缓冲，谷歌订单兜底——AI资本开支的两条路径
-&lt;p&gt;近期Meta考虑向外部客户出售部分AI基础设施容量，引发市场对AI投资是否出现过剩的讨论。但从产业逻辑看，这一动作更像是提高资产利用率，而非削减投资。&lt;/p&gt;
-&lt;p&gt;据富国银行调整后的预测，Meta推动部分AI基础设施容量外部化，主要原因是内部推理需求释放存在时间差，希望通过对外出租提前实现资产回报。这意味着Meta正在对已投入的算力资源进行商业化，而非因为需求不足而被迫消化过剩产能。&lt;/p&gt;
-&lt;p&gt;相比之下，Alphabet具备更强的内部消化能力。&lt;strong&gt;谷歌云目前积压合同金额达到4620亿美元，企业客户对AI算力和云服务的需求已经形成较强的订单支撑。这意味着Alphabet新增资本投入能够更直接对应未来收入增长，其资本开支扩张的商业确定性也更高。&lt;/strong&gt;&lt;/p&gt;
-Alphabet财报成为AI周期重要观察窗口
-&lt;p&gt;&lt;strong&gt;对于市场而言，Alphabet7月22日公布的二季度业绩，关键并不只是盈利和收入表现，而是管理层是否进一步提高AI资本开支预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果Alphabet上调2026年资本支出指引，将强化市场对AI基础设施投资周期持续性的判断，并为芯片、存储、先进封装以及数据中心产业链提供新的基本面支撑。&lt;/p&gt;
-&lt;p&gt;反之，如果资本开支低于预期，市场可能重新评估AI投资回报周期，并对相关科技股估值形成短期压力。&lt;/p&gt;
-&lt;p&gt;随着微软、Meta和亚马逊随后公布业绩，华尔街将进一步观察这场AI基础设施竞赛是否仍在加速，以及数千亿美元资本投入能否持续转化为收入增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归</title><link>https://wallstreetcn.com/articles/3777696</link><guid>bb4283be6d6ed05de4c1cc02294c30404fd3f04ab3a808d181652bf36ccb3011</guid><pubDate>Wed, 22 Jul 2026 12:45:50 GMT</pubDate><description>&lt;p&gt;美伊冲突持续升级，全球能源市场正在为一场旷日持久的供应冲击重新定价。&lt;/p&gt;
+&lt;p&gt;对于能源市场而言，霍尔木兹海峡风险的持续升级，也意味着全球石油和天然气供应链仍将面临巨大不确定性。该海峡一旦从“航运受阻”进一步演变为大规模军事对抗，冲击范围将远超美伊双边关系，并可能迅速传导至全球能源价格、通胀预期和金融市场。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归</title><link>https://wallstreetcn.com/articles/3777696</link><guid>bb4283be6d6ed05de4c1cc02294c30404fd3f04ab3a808d181652bf36ccb3011</guid><pubDate>Wed, 22 Jul 2026 12:45:50 GMT</pubDate><description>&lt;p&gt;美伊冲突持续升级，全球能源市场正在为一场旷日持久的供应冲击重新定价。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;布伦特原油周三盘中突破每桶95美元，创六周新高，单日涨幅接近5%。&lt;/strong&gt;与此同时，美国与伊朗双方均明确释放出拒绝谈判的信号，令市场对短期停火的预期几近归零。油价的上涨已不再是单纯的供需逻辑驱动，地缘风险溢价正在成为定价体系中的结构性锚点。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;据央视新闻，当地时间7月22日，美国总统特朗普在社交媒体发文表示，从现在起，只要伊朗在霍尔木兹海峡向船只开火，无论使用导弹、火箭弹、无人机，还是其他装置或武器，美国都将轰炸并摧毁伊朗一座桥梁或发电厂。特朗普称，相关打击目标也包括位于伊朗首都德黑兰附近或德黑兰市内的桥梁和发电厂。&lt;/p&gt;
@@ -246,53 +214,7 @@ Presence瞄准企业软件市场
 &lt;p&gt;&lt;strong&gt;此次推出的Presence并非简单提供模型API，而是将AI模型与企业内部数据、政策、现有软件及业务流程深度打通，帮助企业部署能够自主完成任务的AI代理。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;该平台主要面向客户服务、销售及IT支持等场景，可自动处理账单咨询、保险理赔、员工IT服务请求等具体业务流程。&lt;/p&gt;
 &lt;p&gt;相比单纯出售模型访问权限，这类企业软件产品拥有更高的客户黏性，也能帮助OpenAI建立更加稳定的长期收入来源。目前，Presence采取定制化部署模式，企业需与OpenAI工程师或指定合作伙伴共同完成实施。OpenAI透露，公司已率先将该平台用于自身英语客服热线。&lt;/p&gt;
-&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周韩国总统+AI存储双雄同赴美国，与黄仁勋、OpenAI CEO共议AI大计</title><link>https://wallstreetcn.com/articles/3777673</link><guid>5db4e7a7983be1c83c4929d539f06007579841340b093a051e1ba97020d7ab29</guid><pubDate>Wed, 22 Jul 2026 08:51:17 GMT</pubDate><description>&lt;p&gt;韩国总统李在明即将开启横跨美国、南美和德国的五国访问，首站定于硅谷，其中涉及全球AI产业链核心企业的高层会晤，正成为市场关注焦点。&lt;/p&gt;
-&lt;p&gt;7月22日，据韩联社，&lt;strong&gt;李在明将于本周五抵达美国旧金山，展开为期两天的访问，并计划会见OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋等科技行业领袖。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，三星电子执行董事长李在镕、SK 集团会长崔泰源、Naver董事会主席李海珍等韩国企业负责人，也预计将在硅谷与黄仁勋举行会晤。Anthropic首席执行官Dario Amodei预计出席相关活动。&lt;/p&gt;
-&lt;p&gt;若上述阵容最终成行，这场会晤将罕见汇聚韩国两大存储巨头，以及全球GPU、生成式AI和互联网平台领域的核心企业掌门人。&lt;/p&gt;
-&lt;p&gt;在AI基础设施投资持续性成为市场焦点之际，这一系列高层交流是否释放新的采购、制造或数据中心合作信号，将成为观察全球AI产业链下一阶段合作的重要窗口。&lt;/p&gt;
-AI产业链核心玩家齐聚，合作范围或进一步扩大
-&lt;p&gt;&lt;strong&gt;据报道，此次圆桌会议预计将围绕HBM、高性能GPU基础设施及生成式AI展开讨论。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;若各方悉数出席，三星电子、SK海力士、英伟达、Naver、OpenAI及Anthropic负责人将同处一桌，覆盖AI产业链从存储、芯片设计、先进制造到大模型开发的关键环节。&lt;/p&gt;
-&lt;p&gt;市场关注的重点已不再局限于传统芯片采购，而是延伸至AI算力部署、数据中心建设、模型服务及先进制程制造等更深层次合作。随着AI训练和推理需求持续增长，GPU、HBM、云基础设施之间的协同能力正成为行业竞争的新核心。&lt;/p&gt;
-韩国企业持续强化AI供应链地位
-&lt;p&gt;韩国存储厂商已成为全球AI产业链的重要参与者。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三星电子与SK海力士目前均向英伟达供应HBM等高端存储产品。&lt;/strong&gt;根据相关报道，两家公司正在推进HBM4产品导入，预计将应用于英伟达下一代AI平台Vera Rubin。&lt;/p&gt;
-&lt;p&gt;除英伟达外，两家公司也是OpenAI自研AI芯片的重要存储供应商，并已签署协议，为Stargate AI基础设施项目提供高性能存储产品。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这意味着韩国企业正由传统存储供应商，进一步向AI基础设施核心合作伙伴转型。&lt;/strong&gt;对于投资者而言，HBM认证进展、产品导入节奏及长期供货协议，仍将是判断AI业务兑现能力的重要指标。&lt;/p&gt;
-先进制程合作或成为下一焦点
-&lt;p&gt;&lt;strong&gt;除存储之外，先进制程制造也可能成为此次会谈的重要议题。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报道称，三星目前正为英伟达生产面向推理应用的语言处理单元（LPU）Grok 3，同时也正与Anthropic讨论采用其2纳米工艺制造AI芯片。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;若相关合作取得进一步进展，三星有望同时受益于先进逻辑代工和HBM需求增长，进一步提升其在AI硬件供应链中的战略地位。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，相关合作最终仍取决于客户订单、技术验证及产能规划，市场将重点关注会议是否释放有关长期采购、产品路线图或制造合作的更多信号。&lt;/p&gt;
-Naver押注“AI工厂”，基础设施竞争持续升级
-&lt;p&gt;&lt;strong&gt;韩国互联网巨头Naver预计将在会议期间介绍其&amp;quot;AI工厂（AI Factory）&amp;quot;战略。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该方案旨在将GPU服务器、数据中心、电力与冷却系统、AI模型以及云平台整合为统一基础设施，以支撑大规模AI训练和推理需求。&lt;/p&gt;
-&lt;p&gt;这一布局反映出AI竞争正从模型能力，进一步转向算力、能源、数据中心和云服务等基础设施体系的综合竞争。随着模型规模不断扩大，基础设施建设效率和运营能力正成为AI商业化的重要竞争力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对于Naver而言，与GPU厂商及大模型开发企业深化合作，也有望进一步提升其AI基础设施部署能力，并扩大韩国本土AI生态的协同空间。&lt;/strong&gt;&lt;/p&gt;
-市场关注AI资本开支是否继续兑现
-&lt;p&gt;此次硅谷会晤恰逢市场持续讨论AI基础设施投资是否接近阶段性高点之际，因此其释放的信号备受资本市场关注。&lt;/p&gt;
-&lt;p&gt;据报道援引业内人士，&lt;strong&gt;若会议能够推动更明确的采购计划、制造合作或基础设施建设安排，将进一步验证AI需求依然稳健，并有助于缓解市场对AI资本开支见顶的担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;有行业观点认为，HBM供应紧张局面仍可能持续至2027年。如果会议之后释放更清晰的AI基础设施投资路线图或长期合作框架，相关信息将成为观察下一轮AI产业链景气度的重要风向标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本央行官员：愿接受比每半年一次更快的加息节奏</title><link>https://wallstreetcn.com/articles/3777676</link><guid>e5b39509a2dab536b7199806115b291b856f220da8a1d5e5c2e7d30d52d1f05f</guid><pubDate>Wed, 22 Jul 2026 08:30:53 GMT</pubDate><description>&lt;p&gt;日本央行官员释放信号，若通胀上行风险持续，愿意以快于市场普遍预期的节奏推进加息，这一立场使得年内再次升息的前景更加明确。&lt;/p&gt;
-&lt;p&gt;据媒体22日援引知情人士透露，尽管多数经济学家预计日本央行下一次行动将在12月，但央行官员明确表示不存在预设路径，&lt;strong&gt;若有必要，可能在六个月窗口之前采取行动。&lt;/strong&gt;日元近期跌至约四十年来最低水平，对通胀构成新的上行压力，进一步强化了官员的警惕性。隔夜指数掉期数据显示，市场目前已将10月前再次加息的概率计入约72%。&lt;/p&gt;
-&lt;p&gt;上述信号令日本政府债券市场应声反应。2年期日本国债收益率周三升至1995年以来最高水平，5年期收益率亦升至1.995%，日元则从约163.13一线走强至162.69兑美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-通胀接近目标，政策重心悄然转变
-
-&lt;p&gt;报道知情人士表示，&lt;strong&gt;推动官员开放更快加息节奏的核心因素，在于日本潜在通胀率已愈发接近央行逾13年前设定的2%目标。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;官员们注意到，企业将成本向下游传导的速度正在加快，这一定价行为的转变与伊朗冲突爆发后的市场环境密切相关。在此背景下，日元再度走软可能进一步刺激企业提价。&lt;/p&gt;
-&lt;p&gt;值得关注的是，官员对政策任务的理解也在悄然演变——政策重心正从&amp;quot;推动通胀走高&amp;quot;转向&amp;quot;确保通胀稳定锚定在目标附近&amp;quot;，这一逻辑转变意味着即便通胀尚未超标，当局亦有充分理由提前行动。&lt;/p&gt;
-
-日元弱势叠加财政忧虑，干预空间受限
-
-&lt;p&gt;日元近期承压尤为引人关注。日元隔夜一度跌至约四十年来最弱水平，日本政府随即发出潜在干预警告。然而，Pictet Asset Management Japan Ltd.投资策略主管Jumpei Tanaka指出，&lt;strong&gt;&amp;quot;随着市场对扩张性财政政策的担忧加剧，仅靠外汇干预压制日元贬值的空间或已趋于有限。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对此，日本央行官员继续强调，货币政策并不以汇率特定水平为目标，但同时承认日元波动对物价的影响值得高度关注。日元贬值通过推升进口成本，可能进一步助燃通胀，由此形成对加息路径更为直接的压力。&lt;/p&gt;
-
-市场定价领先经济学家，下次会议料按兵不动
-
-&lt;p&gt;市场与经济学家之间的预期分歧已相当显著。据彭博在6月16日加息前开展的经济学家调查显示，约70%的受访者预计日本央行加息节奏约为每半年一次；而市场参与者已对更快节奏有所布局，隔夜指数掉期目前隐含10月前再加息的概率约为72%。&lt;/p&gt;
-&lt;p&gt;就近期而言，市场普遍预期日本央行将在7月31日的董事会会议上维持政策不变。该行上月刚将基准利率上调至1%，为31年来最高水平。知情人士表示，官员们将密切审视后续通胀上行风险，并保留随时调整节奏的灵活性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克继续加码！SpaceX AI在德克萨斯州布局大数据中心，规模或超孟菲斯设施</title><link>https://wallstreetcn.com/articles/3777700</link><guid>86a67143e7a2a36e3b4286f91ba834cfa90f991137f283bfb4bbbd461ade74ac</guid><pubDate>Wed, 22 Jul 2026 13:29:51 GMT</pubDate><description>&lt;p&gt;马斯克旗下人工智能公司SpaceX AI正将其数据中心版图向德克萨斯州延伸，扩张规模剑指与现有孟菲斯设施相当甚至更大的体量，进一步凸显该公司在AI基础设施领域的激进投入策略。&lt;/p&gt;
+&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克继续加码！SpaceX AI在德克萨斯州布局大数据中心，规模或超孟菲斯设施</title><link>https://wallstreetcn.com/articles/3777700</link><guid>86a67143e7a2a36e3b4286f91ba834cfa90f991137f283bfb4bbbd461ade74ac</guid><pubDate>Wed, 22 Jul 2026 13:29:51 GMT</pubDate><description>&lt;p&gt;马斯克旗下人工智能公司SpaceX AI正将其数据中心版图向德克萨斯州延伸，扩张规模剑指与现有孟菲斯设施相当甚至更大的体量，进一步凸显该公司在AI基础设施领域的激进投入策略。&lt;/p&gt;
 &lt;p&gt;据科技媒体The Information周三报道，&lt;strong&gt;SpaceX AI已在德克萨斯州考察多处选址，并着手为至少一座大型数据中心奠定基础。公司已向当地派驻部分现有数据中心员工，并近期在奥斯汀、巴斯特罗普及科罗内发布多个基础设施相关岗位招聘。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此次扩张将进一步加重SpaceX AI已然沉重的资本支出负担。该公司一季度AI相关资本支出已跃升至77亿美元，约为去年同期三倍。&lt;/strong&gt;摩根士丹利分析师曾预测SpaceX AI 2026年至2027年合计将消耗1200亿美元现金，主因正是AI基础设施投入。&lt;/p&gt;
 
@@ -321,4 +243,86 @@ Naver押注“AI工厂”，基础设施竞争持续升级
 &lt;p&gt;然而，&lt;strong&gt;这一能源策略在孟菲斯引发强烈反对。&lt;/strong&gt;当地居民、政界人士及环保团体对天然气涡轮机使用及用水问题持续施压。&lt;/p&gt;
 &lt;p&gt;今年早些时候，SpaceX AI在削减成本过程中推迟了一项价值8000万美元的废水回收设施建设，进一步激化矛盾。&lt;/p&gt;
 &lt;p&gt;在孟菲斯区域，SpaceX AI仍在推进第三座数据中心建设，并于去年底在密西西比州购置了约75000平方米仓库。此外，SpaceX AI还向佛罗里达州杰克逊维尔派驻了员工，并发布数据中心岗位招聘。马斯克今年5月收购的发电设备供应商APR Energy总部位于杰克逊维尔，在田纳西州、密西西比州和德克萨斯州均有业务，而SpaceX AI此前曾向APR Energy采购涡轮机。&lt;/p&gt;
-&lt;p&gt;德克萨斯州对马斯克而言具有特殊战略意义——SpaceX与特斯拉正在科罗内附近的格莱姆斯县联合建设一座半导体制造设施，SpaceX AI此次选址德克萨斯州亦与马斯克旗下各业务的地理聚合趋势一脉相承。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对今晚谷歌财报关注点及其意义的思考</title><link>http://xueqiu.com/5332385101/401516498</link><guid>e556c30e8197404a67a7f004e6b7d6d5241b4f1b0f073eb87c3f043b804ef366</guid><pubDate>Wed, 22 Jul 2026 10:24:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在经历显著回调后，昨日全球科技迎来爆发。A股迎来回升，半导体产业链在产业催化与资金面回暖的双重共振下掀起涨停潮；而隔夜美股芯片大幅反弹推动指数全线收涨，存储三巨头集体飙升，美光、闪迪、海力士均上涨超12%，半导体设备与设计端也全面走强。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技公司估值的本质：从研发投入到高壁垒价值</title><link>http://xueqiu.com/1633174482/401515105</link><guid>8523bb50aa4ea829baefeac500a4e67fc37f4868717e61b1b8eeea7697494275</guid><pubDate>Wed, 22 Jul 2026 10:23:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;递归奇点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;科技公司的估值，本质上不是对当期利润的贴现，而是对&lt;b&gt;历史上大量累计研发投入所构建的竞争壁垒&lt;/b&gt;的定价。这种壁垒一旦形成，便具有极强的自我强化效应：&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;德克萨斯州对马斯克而言具有特殊战略意义——SpaceX与特斯拉正在科罗内附近的格莱姆斯县联合建设一座半导体制造设施，SpaceX AI此次选址德克萨斯州亦与马斯克旗下各业务的地理聚合趋势一脉相承。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重赏之下有勇夫！霍尔木兹海峡风险飙升，航运公司以高额奖金吸引船员冒险通行</title><link>https://wallstreetcn.com/articles/3777702</link><guid>405324f2ad5ce4749a3c11adbb22d8aebbb4a085c2e5312f1cb383beab9d3b8e</guid><pubDate>Wed, 22 Jul 2026 14:19:40 GMT</pubDate><description>&lt;p&gt;霍尔木兹海峡已成为全球最危险的航运水道之一，而航运公司正试图用金钱来弥补这一风险缺口。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;包括全球最大超级油轮船东Sinokor集团在内的国际航运企业，正向愿意穿越霍尔木兹海峡的船员提供高额奖金。自美伊冲突爆发以来，已有至少59艘商船在波斯湾及周边水域遭到袭击，17名船员罹难。航运保险费率与船员奖金双双飙升，但仍有大量船员宁可放弃额外报酬，也不愿冒险通行。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kpler最新航运数据显示，7月17日至19日期间，经霍尔木兹海峡的经核实过境船只仅录得30艘，海峡通行量持续受到严重压制。与此同时，据路透社报道，航运公司正主动回避美国主导的沿阿曼海岸通行走廊，担忧遭受伊朗打击，局势进一步加剧市场对全球能源运输安全的担忧。&lt;/p&gt;
+Sinokor开出六个月薪资奖金
+&lt;p&gt;据彭博获得的一份文件显示，Sinokor集团向船员提供相当于六个月额外薪资的奖金，条件是完成一次从沙特阿拉伯或伊拉克装载原油、并在阿曼湾卸货的往返航程，该公司估计整个行程约需一个月。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;按照这一方案，船长可获得约1.5万美元的奖金，而普通船员的月薪仅约1500美元。&lt;/strong&gt;值得注意的是，&lt;strong&gt;Sinokor对外收取的租船费用高达每日50万美元，船员所获奖金与船东收益之间的悬殊差距引发外界关注。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;全球海员培训机构GlobalMET主席、同时与国际海事组织（IMO）存在合作关系的Captain Pradeep Chawla表示，&amp;quot;部分公司正在向船员提供巨额奖金&amp;quot;，并指出&amp;quot;我们听说有大量船员选择下船离职，但公司仍能找到愿意前往的人&amp;quot;。&lt;/p&gt;
+袭击频发，船员诉诸法律
+&lt;p&gt;海峡内的安全形势持续恶化，已引发法律层面的连锁反应。&lt;/p&gt;
+&lt;p&gt;今年7月初，三名泰国船员对其前雇主Precious Shipping及两家关联公司、以及涉事船长提起诉讼，指控对方将其置于危险境地，并在九个月合同期满前将其解雇。此前，今年3月一枚弹射物击中其所在货船，造成三名船员死亡。&lt;/p&gt;
+&lt;p&gt;联合国航运机构的数据显示，自美伊冲突爆发以来，波斯湾及周边水域已有至少59艘商船遭到袭击，17名船员在事件中丧生。商船频繁遭袭直接导致霍尔木兹海峡通行量骤降，运输成本随之大幅攀升。&lt;/p&gt;
+美国主导通行方案效果存疑
+&lt;p&gt;据路透社报道，航运公司正在刻意绕开美国主导的、沿阿曼海岸线设立的霍尔木兹通行走廊，原因是在伊美谅解备忘录（MoU）框架下，绕过伊朗指定航道的船只已多次遭到袭击。&lt;/p&gt;
+&lt;p&gt;一位航运业内人士表示，美国方面似乎对当前局势已失去掌控。风险咨询机构Verisk Maplecroft分析师Torbjorn Solvedt警告称，伊朗持续具备打击阿曼航线船只的能力，这使得特朗普政府维持海峡通行的计划难以奏效。&lt;/p&gt;
+&lt;p&gt;当前局势表明，在地缘政治风险尚未实质性缓解的背景下，单纯依靠经济激励手段维系霍尔木兹海峡航运秩序的空间极为有限，全球能源供应链所面临的压力短期内难以消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国小企业掀起Salesforce“退订潮”，用AI自建软件大幅压缩成本</title><link>https://wallstreetcn.com/articles/3777668</link><guid>d00cabd66cc24c969109e7d267d036118671522cc73901ef18afecb3cb6e9e4a</guid><pubDate>Wed, 22 Jul 2026 09:15:24 GMT</pubDate><description>&lt;p&gt;美国多家小型企业正借助AI编程工具抛弃Salesforce等传统企业软件，每年节省数万至数十万美元，令投资者对SaaS行业长期增长逻辑的担忧进一步加剧。&lt;/p&gt;
+&lt;p&gt;近日，据The Information报道，过去六个月内，&lt;strong&gt;至少五家员工规模在20至70人之间的初创企业和小型公司，已终止与Salesforce或HubSpot的合同，转而使用Anthropic、Lovable、Replit等AI工具自行开发替代应用，实现了大幅降本。&lt;/strong&gt;这一趋势尽管目前仍局限于小型客户群体，但已引发市场对传统企业软件商能否维持过去十余年高增长态势的质疑。&lt;/p&gt;
+&lt;p&gt;Salesforce、ServiceNow等企业软件巨头正采取防御性姿态，一方面强调客户续约率保持稳健，另一方面着力强化自身作为企业与AI大模型之间“不可或缺的中间层”的定位。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;以Anthropic、Palantir为代表的AI原生公司，其增长速度已显著超越上述传统软件厂商，市场对“SaaSpocalypse”（SaaS末日）的讨论也随之持续升温。&lt;/strong&gt;&lt;/p&gt;
+小企业&amp;quot;出逃&amp;quot;案例：百万成本压缩至千元级别
+&lt;p&gt;多个具体案例揭示了这一趋势的规模与速度。&lt;/p&gt;
+&lt;p&gt;亚特兰大房地产投资管理公司Greenleaf Management约有55名员工，此前不仅向Salesforce支付订阅费，还专门雇用了一名全职员工和一名外部顾问来维护其Salesforce账户。&lt;/p&gt;
+&lt;p&gt;该公司合伙人Dave Codrea表示，公司使用Replit和Claude Code开发了定制应用，替代了Salesforce的CRM功能，同时退出了与房地产软件公司Entrata和Yardi的合同，&lt;strong&gt;每年节省约10万美元，新应用的月维护成本仅约300美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;西雅图职业橄榄球队Seawolves的所有者Adrian Balfour表示，球队70人团队中的四名工程师用Claude Code在四个月内开发出一款应用，替代了Salesforce CRM和票务系统AXS，&lt;strong&gt;软件支出减少约10万美元，今年3月赛季开始以来收入同比增长约25%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;南卡罗来纳州医疗软件公司Hank AI（24名全职员工）&lt;strong&gt;在今年1月不再续签与Salesforce每年4万美元的合同，转而用Claude Code自建应用，预计年费约500美元。&lt;/strong&gt;犹他州初创公司Atonom（45人）同样在1月放弃了4万美元年费的Salesforce合同，改用Lovable构建定制CRM，预计年运营成本仅1200美元。&lt;/p&gt;
+大企业也在试水，但阻力更大
+&lt;p&gt;&lt;strong&gt;这一趋势并非完全局限于小型企业，部分大公司也开始探索类似路径，但面临更复杂的挑战。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法国生物制药巨头赛诺菲（Sanofi）约有7.5万名员工，其首席数字官Emmanuel Frenehard表示，公司正削减对ServiceNow的使用，转而通过Claude Code和Cursor构建AI代理，结合犹他州初创公司Elementum的软件及Snowflake存储的数据来处理设备故障报告等任务。&lt;/p&gt;
+&lt;p&gt;赛诺菲的目标是将目前由ServiceNow、其他软件及外包公司处理的80%工作量转移出去，每年至少节省1000万美元。Frenehard坦言，这一变革在其团队内部&amp;quot;遭遇了相当大的阻力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;IT咨询公司Loka的CEO Bobby Mukherjee表示，&lt;strong&gt;少数客户已通过自建AI替代方案将年度软件成本降低40%至80%，但他通常建议客户保留现有SaaS应用，因为替换过程缓慢，且&amp;quot;会将工程资源从真正能形成业务差异化的事情上拉走&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他表示，&amp;quot;更聪明的做法通常是在现有系统之上构建&amp;quot;，并强调&amp;quot;没有严肃的人在预测HubSpot或Salesforce的死亡&amp;quot;。&lt;/p&gt;
+SaaS巨头反驳：企业级可靠性无法&amp;quot;vibe coding&amp;quot;替代
+&lt;p&gt;面对外界质疑，Salesforce等传统软件商积极为自身商业模式辩护，并以续约数据作为支撑。&lt;/p&gt;
+&lt;p&gt;Salesforce总裁Srini Tallapragada去年秋季在投资者电话会议上表示，&lt;strong&gt;企业客户&amp;quot;都尝试过自己动手，但他们意识到，你无法靠vibe coding实现企业级的可靠性和安全性&amp;quot;。&lt;/strong&gt;ServiceNow则表示，其客户大多在&amp;quot;扩大ServiceNow的使用范围，而非离开&amp;quot;，并援引今年一季度97%的合同续约率作为佐证，该数据在近几个季度保持稳定。&lt;/p&gt;
+&lt;p&gt;然而，市场对这一叙事的信心并不稳固。The Information此前报道，OpenAI高管在今年早些时候的投资者演示中表示，预计公司未来产品将替代Salesforce、Workday、Adobe和Atlassian等公司的软件。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;部分大型企业在增加对Anthropic等AI供应商预算的同时，正在缩短与传统企业软件商的合同期限或要求更优惠的条款。&lt;/strong&gt;&lt;/p&gt;
+真实替换成本：数据迁移仍是最大壁垒
+&lt;p&gt;尽管小企业的替换案例引人注目，但分析人士指出，大规模迁移面临的技术与组织障碍不容低估。&lt;/p&gt;
+&lt;p&gt;Bobby Mukherjee指出，企业软件的&amp;quot;真实总拥有成本&amp;quot;通常是标价的四倍，但&amp;quot;将其彻底替换仍是最后手段&amp;quot;。&lt;strong&gt;Salesforce等平台的核心黏性在于企业多年来持续叠加的定制化代码（即&amp;quot;工作流&amp;quot;），这些工作流追踪从产品目录到定价再到客户承诺的方方面面，许多大型企业还专门雇用团队来维护这些工作流，进一步推高了迁移成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;企业旅行管理应用Engine的高管Demetri Salvaggio表示，其公司拥有约1000名员工，已是Salesforce近十年的客户，他估计若要迁移，至少需要一年时间，目前没有离开的计划。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，当前的核心问题在于：AI编程工具的能力提升是否会将这一趋势从小型企业蔓延至中大型客户群体。若AI在编程和处理大型数据库方面持续进步，SaaS供应商对大客户的影响力同样面临被侵蚀的风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 投资者悄然转移阵地：美股网络安全龙头三个月涨幅超100%</title><link>https://wallstreetcn.com/articles/3777687</link><guid>1238c4e14129fc46cd6895749cf2c3b864eb4df3d024cdec66f603daafa0174f</guid><pubDate>Wed, 22 Jul 2026 11:19:51 GMT</pubDate><description>&lt;p&gt;当市场目光聚焦于AI板块的震荡与动能因子的剧烈波动时，一场悄然发生的资金迁徙正在网络安全软件领域上演。过去三个月，美股部分头部安全软件股票涨幅已超过100%，云计算需求同步回暖，共同勾勒出科技板块内部一幅结构性轮动的图景。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国网络安全巨头Palo Alto Networks与Rapid7领涨，三个月内涨幅均超过100%。CrowdStrike、Qualys、Fortinet、Okta及Tenable紧随其后，区间涨幅介于85%至95%之间。与此同时，主要云服务提供商的业务增速也在AI需求驱动下重新提速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一轮行情的背景是动能因子（momentum factor）的剧烈震荡——该因子在经历33%的回撤后，单日反弹幅度超过9%，创下近五年最大单日涨幅。高盛数据显示，动能因子的30日波动率相对于大盘指数波动率处于极度偏高水平，市场或将持续出现极端单日行情。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+被低估的轮动主线
+&lt;p&gt;在AI概念股调整与动能因子剧烈波动吸引大量眼球之际，资金已在安全软件赛道完成了一轮显著的积累。&lt;/p&gt;
+&lt;p&gt;据市场数据，Palo Alto Networks与Rapid7过去三个月涨幅均突破100%，CrowdStrike、Qualys、Fortinet、Okta及Tenable的涨幅则集中在85%至95%区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从估值角度看，&lt;strong&gt;Palo Alto Networks与CrowdStrike的远期EV/Sales倍数已随股价大幅抬升，但投资者目前仍在持续买入。&lt;/strong&gt;这一现象表明，市场对网络安全需求的长期增长逻辑给予了较高溢价，而非单纯的短期投机行为。&lt;/p&gt;
+云计算需求重新加速
+&lt;p&gt;据Coatue数据，主要云服务提供商的业务增速正随AI采用率的提升而重新加快。&lt;/p&gt;
+&lt;p&gt;这为科技板块的整体估值提供了基本面支撑，也是安全软件需求持续扩张的重要背景——企业云化进程的深化，直接带动了对身份验证、端点保护及云安全产品的采购需求。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+动能即AI：因子交易的结构性特征
+&lt;p&gt;高盛Marquee平台数据显示，&lt;strong&gt;动能因子与AI相关资产的相关性已升至95%以上的极端水平，意味着动能交易在实质上等同于AI交易。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一结构性特征解释了为何AI板块的每一次波动，都会在动能因子层面产生放大效应，并波及更广泛的科技持仓。&lt;/p&gt;
+&lt;p&gt;对于量化策略之外的普通投资者而言，这意味着即便并未直接参与因子交易，其科技持仓的实际风险敞口也与AI主题高度绑定。&lt;/p&gt;
+多空分歧：泡沫争议持续升温
+&lt;p&gt;市场对当前科技估值的判断存在明显分歧。&lt;/p&gt;
+&lt;p&gt;看多方面，富达的Timmer认为，尽管标普500的价格走势与1999年的轨迹高度吻合，但基本面状况&amp;quot;远比26年前健康&amp;quot;，不必过度担忧泡沫风险。研究机构Numera则指出，科技股回报通常与IT硬件、软件及半导体需求的变化同步，但今年科技股涨幅相对于需求的实际爆发程度仍显不足，暗示上行空间尚未充分释放。&lt;/p&gt;
+&lt;p&gt;看空方面，半导体板块市值占比已达标普500总市值的14%，接近互联网泡沫峰值的两倍。市场策略师Andy Constan直言：&amp;quot;我们正处于泡沫之中。不知道顶部是否已至，但如果泡沫在此刻破裂，走势将与互联网泡沫高度相似——先是数月的震荡整理。&amp;quot;&lt;/p&gt;
+&lt;p&gt;苹果的估值则提供了另一个参照坐标：该公司市销率已接近11倍，为其历史最高水平，据Bilello数据显示，这一数字超越了公司历史上任何一个时间节点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对今晚谷歌财报关注点及其意义的思考</title><link>http://xueqiu.com/5332385101/401516498</link><guid>e556c30e8197404a67a7f004e6b7d6d5241b4f1b0f073eb87c3f043b804ef366</guid><pubDate>Wed, 22 Jul 2026 10:24:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在经历显著回调后，昨日全球科技迎来爆发。A股迎来回升，半导体产业链在产业催化与资金面回暖的双重共振下掀起涨停潮；而隔夜美股芯片大幅反弹推动指数全线收涨，存储三巨头集体飙升，美光、闪迪、海力士均上涨超12%，半导体设备与设计端也全面走强。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技公司估值的本质：从研发投入到高壁垒价值</title><link>http://xueqiu.com/1633174482/401515105</link><guid>8523bb50aa4ea829baefeac500a4e67fc37f4868717e61b1b8eeea7697494275</guid><pubDate>Wed, 22 Jul 2026 10:23:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;递归奇点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;科技公司的估值，本质上不是对当期利润的贴现，而是对&lt;b&gt;历史上大量累计研发投入所构建的竞争壁垒&lt;/b&gt;的定价。这种壁垒一旦形成，便具有极强的自我强化效应：&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD拿下Anthropic数百亿美元芯片大单，另将投资50亿美元获股权</title><link>https://wallstreetcn.com/articles/3777697</link><guid>000a0513414b5272841acc43d3c63752f44e999e23421d6cad4ec48a9e583b5a</guid><pubDate>Wed, 22 Jul 2026 12:31:49 GMT</pubDate><description>&lt;p&gt;据华尔街日报周三报道，AMD与Anthropic签署一项涵盖数百亿美元AI服务器的重磅交易，同时计划向Anthropic投资最多50亿美元。&lt;/p&gt;
+&lt;p&gt;这是AMD迄今为止规模最大的客户协议之一，也标志着其首次对Anthropic进行股权投资。市场将此解读为AMD在高端AI芯片市场对英伟达发起实质性挑战的信号。对于Anthropic而言，这笔交易将为其提供急需的算力资源，以缓解近期因用户需求激增引发的服务中断问题。&lt;/p&gt;
+&lt;p&gt;根据协议条款，&lt;strong&gt;Anthropic将于2027年上半年起采购AMD最新一代Instinct MI450芯片，总量高达2吉瓦。AMD方面的50亿美元投资将依据特定部署里程碑分批到位。&lt;/strong&gt;AMD首席执行官苏姿丰表示，双方工程团队已合作一段时间，&amp;quot;我们非常希望成为他们基础设施的重要组成部分。&amp;quot;&lt;/p&gt;
+&lt;p&gt;报道称，一位知情人士透露，AMD还在就为Anthropic未来的数据中心租约提供财务担保进行磋商。&lt;/p&gt;
+
+AMD投资入局，构建深度绑定
+
+&lt;p&gt;AMD对Anthropic的50亿美元投资是其首次向这家AI公司注资，体现出这笔交易远超单纯的供应商关系。&lt;/p&gt;
+&lt;p&gt;根据协议，Anthropic将通过两种途径部署AMD芯片：一部分用于自建数据中心，另一部分通过大型云服务商或新兴云平台（neocloud）租用相应算力。苏姿丰表示，双方正在共同寻址符合条件的数据中心。&lt;/p&gt;
+&lt;p&gt;在工程层面，双方还签署了一项技术合作协议，Anthropic将以其Claude模型协助AMD优化芯片性能。苏姿丰将这种深度协作视为交易的核心价值所在，&amp;quot;你不可能某天一觉醒来就说，&amp;#x27;我明天要一吉瓦算力，&amp;#x27;你实际上必须提前12到18乃至24个月进行规划。&amp;quot;&lt;/p&gt;
+
+补强算力缺口，缓解Anthropic服务压力
+
+&lt;p&gt;对于Anthropic而言，这笔交易的迫切性有迹可循。近期，用户需求的急剧攀升已导致公司不得不限制用户使用频次，部分客户频繁遭遇服务中断，Anthropic在AI赛道的领先优势因此面临考验。&lt;/p&gt;
+&lt;p&gt;目前，Anthropic的算力来源多元，涵盖谷歌张量处理器（TPU）、亚马逊Trainium芯片以及英伟达GPU。此番引入AMD芯片，将进一步分散其供应商集中风险，拓宽计算资源池。&lt;/p&gt;
+&lt;p&gt;今年早些时候，Anthropic已相继与谷歌、亚马逊及马斯克旗下SpaceX签署新的算力合作协议——SpaceX近期开始将其积累的闲置数据中心容量对外出售。此次AMD协议的达成，意味着Anthropic正在快速构建更为多元化的算力供应体系。&lt;/p&gt;
+
+AMD借大客户策略，正面竞争英伟达
+
+&lt;p&gt;AMD近年来一直在加速争夺AI芯片市场份额，而Anthropic协议是这一战略的最新体现。此前，AMD已相继与OpenAI和Meta Platforms签署大规模芯片供应协议，并持续向更多AI初创企业拓展客户版图。&lt;/p&gt;
+&lt;p&gt;AMD面临的核心挑战在于软件生态适配性——AI公司对运行AMD芯片所需软件的熟悉程度普遍低于英伟达，这在一定程度上压制了市场需求。为此，AMD向大客户提供了一系列优惠条件，包括公司认股权证等激励措施。&lt;/p&gt;
+&lt;p&gt;在更广泛的行业背景下，具备投资级信用评级的大型科技企业正越来越多地为AI初创公司的租约或债务提供信用背书，以帮助后者以更优惠的条件获得融资。据华尔街日报，谷歌此前已为Anthropic的部分数据中心交易提供担保，协助其获取谷歌TPU资源。AMD此番跟进这一模式，显示出其在AI基础设施市场争夺战中的战略雄心正在持续升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
