@@ -1,51 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 02:59:58 GMT</lastBuildDate><item><title>[华尔街见闻] 剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？</title><link>https://wallstreetcn.com/articles/3777612</link><guid>7bf988ef6f5403c3f80d3da2883cd844f5ab182b42d18a0169b422a338c3fca6</guid><pubDate>Wed, 22 Jul 2026 00:22:27 GMT</pubDate><description>&lt;p&gt;美股科技动量股周二（7月21日）上演剧烈反弹。&lt;strong&gt;摩根士丹利TMT动量因子单日涨幅超过12%，创下有记录以来最大单日涨幅，甚至超过2000年互联网泡沫时期的任何单日表现。&lt;/strong&gt;高盛高贝塔动量多头指数（GSCBHMOM）单日上涨约8.5%，为2025年4月以来最强单日表现；多空高贝塔动量指数（GSPRHIMO）更是上涨9.5%，为2021年以来最强，接近2003年以来的历史最高水平。&lt;/p&gt;
-&lt;p&gt;纳斯达克综合指数当日上涨约1.3%，领跑三大指数。&lt;strong&gt;半导体板块是最大推手——费城半导体指数单日涨幅达4.6%&lt;/strong&gt;，VanEck半导体ETF上涨约4.5%。美光科技涨超10%，英特尔涨约8.6%，闪迪涨约14%，Cerebras Systems涨约18%，Cipher Mining涨超11%。&lt;/p&gt;
-&lt;p&gt;这场反弹发生在此前连续三个交易日下跌之后，也&lt;strong&gt;发生在动量股累计暴跌33%之后。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么会有这场反弹？空头被“逼仓”
-&lt;p&gt;理解这次反弹，需要先理解此前的跌幅有多深。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛数据显示，高贝塔动量股在短短数个交易日内累计下跌33%，是互联网泡沫破裂以来最惨烈的回撤之一。高盛高贝塔动量指数一度跌破200日均线，触及今年1月以来最低点，超卖程度为去年8月以来最严重。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;跌得越深，反弹的弹性越大——这是市场的基本逻辑。&lt;/p&gt;
-&lt;p&gt;本次反弹在很大程度上是一场&amp;quot;逼仓&amp;quot;行情。大量做空动量股的投资者，尤其是韩国和日本的追涨杀跌型交易者，在过去两周遭受重创——韩国市场甚至出现大规模追加保证金（margin call）事件，重创当地散户群体。当这些空头被迫平仓回补，买盘就会形成自我强化的上涨螺旋。&lt;/p&gt;
-&lt;p&gt;Zacks Investment Research分析指出，美光科技此前跌破了日线图上的&amp;quot;头肩顶&amp;quot;颈线，技术形态看空。但周二股价暴涨逾10%，重新站回颈线之上。&amp;quot;假突破往往引发反向的剧烈波动，因为后知后觉的空头和做空者被困住了。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-市场广度依然偏弱，反弹成色存疑
-&lt;p&gt;反弹的数字看起来惊人，但内部结构并不健康。&lt;/p&gt;
-&lt;p&gt;BTIG策略师Jonathan Krinsky分析，周二整体成交量偏低，SPY、QQQ和标普500现货成交量均比20日均值低20%至30%。与此同时，标普500指数当日上涨近1%，但下跌个股数量仍多于上涨个股——这是今年以来价格与市场广度背离次数最多的一年，而周二再次出现这一现象。&lt;/p&gt;
-&lt;p&gt;高盛交易员数据显示，交易所整体成交量较20日均值低约17%，做市商账面流动性仅为683万美元，市场活跃度在满分10分中仅为3分。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;换句话说，这场反弹更像是少数重仓股的集中爆发，而非全面复苏。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Michael Ball分析，&amp;quot;现在宣布调整结束还为时过早&amp;quot;。半导体ETF和前期AI明星股的看跌期权需求依然高企，纳斯达克、半导体ETF及相关个股的负Gamma敞口，意味着做市商会追涨杀跌而非平抑波动——这在放大上涨的同时，也会放大下跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-BTIG警告：反弹已触及关键阻力，建议逢高减仓
-&lt;p&gt;并非所有人都对这次反弹感到乐观。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BTIG的Jonathan Krinsky明确警告，建议&amp;quot;逢高减仓（fade）&amp;quot;。他此前预判动量股反弹会遭遇730至750区间的强阻力，而周二的反弹恰好将GSCBHMOM推至该阻力区间下沿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Krinsky表示：&amp;quot;&lt;strong&gt;极端的波动性，加上历史性的个股分化，是市场正在经历一轮全面回调的信号。&amp;quot;他预计高贝塔动量股将在周三至周四进入阻力区间核心后开始滞涨。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从历史数据看，自1999年以来，高贝塔动量多头指数在200日均线上方单日涨幅超过7%的情况仅出现过10次。其中三次发生在今年，三次发生在2021年初，三次发生在2000年初。Krinsky指出，这一数据&amp;quot;既说明了此次行情的罕见性，也说明我们持续看到与1999至2000年时期相呼应的统计特征&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-高盛、瑞银：动量抛售接近尾声，建议逐步加仓
-&lt;p&gt;与BTIG的谨慎态度不同，高盛和瑞银均认为此次动量抛售已进入尾声，并建议投资者把握机会。&lt;/p&gt;
-&lt;p&gt;高盛的Julia Mensch在报告中指出，高盛上周已提示动量抛售&amp;quot;进入后期&amp;quot;。她写道：&lt;strong&gt;&amp;quot;随着持仓已大幅出清（高盛主经纪商数据显示，动量敞口处于过去一年的第64百分位，过去五年的第93百分位），且此次抛售背后并无新的基本面催化剂，我们认为动量有空间向长期趋势回归，此次抛售可能是增加动量敞口或逢低买入AI股的好机会。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;瑞银对冲基金股票衍生品销售主管Michael Romano也在客户报告中表达了类似看法，认为AI基本面改善是买入信号。但他同时建议投资者&amp;quot;逐步建仓，而非一次性全仓杀入&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Romano写道：&amp;quot;动量去风险化是且仍然是一个有说服力的判断。分批建仓是审慎之举。&amp;quot;他预计动量抛售将在7月底前触底（如果尚未触底的话），并表示：&amp;quot;一旦行情转向，我预计流动性将推动价格向上超调。&amp;quot;&lt;/p&gt;
-&lt;p&gt;不过，高盛也保持了一定保留态度——鉴于近期波动率极高，且财报季密集来袭，高盛建议投资者通过&amp;quot;有限损失结构&amp;quot;（limited-loss structures）来获取敞口，而非直接持有多头。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-财报季是下一个关键变量
-&lt;p&gt;这场反弹的持续性，很大程度上取决于本周财报。&lt;/p&gt;
-&lt;p&gt;据路透社报道，&lt;strong&gt;本周共有113家标普500成分股公司（占标普500市值约18%）发布财报。其中，Alphabet（GOOGL）的财报被视为&amp;quot;本周最重要的数据点&amp;quot;&lt;/strong&gt;，市场将重点关注其2026年全年资本开支指引——普遍预期将上调，这将为AI支出的走向提供重要线索。&lt;/p&gt;
-&lt;p&gt;LPL Financial首席技术策略师Adam Turnquist表示：&amp;quot;现在的焦点不只是资本开支总量，下一个关注点将是投资回报率和支出质量，我们认为这将在下半年成为核心议题。&amp;quot;&lt;/p&gt;
-&lt;p&gt;他同时指出：&amp;quot;我们预计半导体板块将继续出现波动，因为超买状态需要消化，获利了结压力将出现，拥挤的持仓也需要出清。从基本面来看，我们认为并没有什么实质性变化。&amp;quot;&lt;/p&gt;
-&lt;p&gt;据路透社报道，截至目前，已有66家标普500公司公布财报，其中约88%的公司盈利超出分析师预期。3M（MMM）单日涨超9%，通用汽车（GM）涨约5%，均因业绩超预期而受到追捧。&lt;/p&gt;
-债券与宏观：另一个隐患
-&lt;p&gt;股市狂欢的同时，债券市场却在发出警告。&lt;/p&gt;
-&lt;p&gt;当日美债收益率全线走高，短端2年期收益率上涨5个基点，30年期上涨2个基点，长端收益率升至两个月高位，抹去了上周低于预期的通胀数据带来的债券涨幅。&lt;/p&gt;
-&lt;p&gt;油价是推手之一。布伦特原油期货收盘重新站上每桶90美元，为6月11日以来首次。中东局势持续升温——也门胡塞武装宣布封锁红海南部入口，两艘运载沙特原油的油轮在红海掉头折返。Kpler的MarineTraffic数据显示，即便在封锁宣布之前，过去两周通过曼德海峡的货物装载量已下降34%。&lt;/p&gt;
-&lt;p&gt;RBC Capital Markets利率策略师Izaac Brook表示：&amp;quot;今天的市场走势，主要是能源价格持续上涨的结果。利率的波动因突破了备受关注的技术位——2年期收益率4.20%和10年期收益率4.60%——以及夏季典型的低流动性交易环境而被放大。&amp;quot;&lt;/p&gt;
-&lt;p&gt;彭博的Cameron Crise则警告，&lt;strong&gt;长债收益率正处于将5%从阻力位变为支撑位的临界点，下一个明显目标位是5.5%——&amp;quot;这将对股市造成冲击，尤其是当经济上行超预期推动收益率走高，并对股票产生负面影响时&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛IG信用主管Kevin Boova也警告，超大规模科技公司的信用利差已创新高，&amp;quot;超大规模云计算/AI/数据中心领域感觉再度有些脆弱&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 低估Azure和Copilot的拐点！大摩：市场只给微软“16倍PE”太低了</title><link>https://wallstreetcn.com/articles/3777616</link><guid>732ad397e3d2170e0b6d25658a029a0d909d52303db861cdd758be27e4cf77c0</guid><pubDate>Wed, 22 Jul 2026 01:53:51 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为微软正站在AI变现周期的关键转折点，而市场似乎尚未充分定价这一机遇。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 03:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 低估Azure和Copilot的拐点！大摩：市场只给微软“16倍PE”太低了</title><link>https://wallstreetcn.com/articles/3777616</link><guid>732ad397e3d2170e0b6d25658a029a0d909d52303db861cdd758be27e4cf77c0</guid><pubDate>Wed, 22 Jul 2026 01:53:51 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为微软正站在AI变现周期的关键转折点，而市场似乎尚未充分定价这一机遇。&lt;/p&gt;
 &lt;p&gt;追风交易台消息，7月21日，摩根士丹利Adam Wood团队发表研报，&lt;strong&gt;微软Azure云业务增长即将进入加速通道，Copilot商业化路径也正从单一座位收费演变为三轮驱动的扩张机会。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;研报指出，&lt;strong&gt;以当前股价计算对应的隐含市盈率（PE）仅约16倍，但对于一家盈利增速料超20%的科技龙头而言，16倍PE明显低估了其内在价值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;虽然该行近期因考虑到毛利率承压、资本支出与债务增加，将微软12至18个月的目标价从650美元下调至600美元，但仍维持“增持”评级，仍较当前股价隐含约50%的上行空间。&lt;/p&gt;
@@ -104,20 +58,7 @@ Copilot：从&amp;quot;卖座位&amp;quot;到三引擎ARPU扩张
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 毛利翻倍，远超此前指引！超微电脑财报后飙升近20%</title><link>https://wallstreetcn.com/articles/3777613</link><guid>61c4d483dd90a7d58cab83ee9be3e7b2471f6f7b6cd6681eb19d2b200d10c34c</guid><pubDate>Wed, 22 Jul 2026 00:05:55 GMT</pubDate><description>&lt;p&gt;超微电脑（Super Micro Computer）周二（7月21日）发布第四财季初步业绩，毛利率预期大幅超越此前指引，创纪录的新订单规模进一步提振市场信心，股价盘后一度飙升逾20%。&lt;/p&gt;
-&lt;p&gt;初步业绩报告显示，截至2026年6月30日的第四财季，公司GAAP及非GAAP毛利率预计介于15%至17%之间，&lt;strong&gt;几乎是此前指引区间8.2%至8.4%的两倍&lt;/strong&gt;。管理层将这一超预期表现归因于&amp;quot;有利的客户结构与产品组合&amp;quot;。与此同时，&lt;strong&gt;公司当季新增订单总额超过600亿美元，创历史新高&lt;/strong&gt;，锁定了庞大的未来交付管线。&lt;/p&gt;
-&lt;p&gt;上述利好消息令市场迅速重新定价。超微电脑股价盘后涨幅一度触及21%。这一走势标志着投资者情绪的显著逆转——此前该股自6月初高点以来已近乎腰斩。&lt;strong&gt;公司完整的第四财季及2026财年业绩将于8月11日美股收盘后正式公布。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-毛利率意外翻倍，重塑盈利叙事
-&lt;p&gt;&lt;strong&gt;毛利率表现是本次初步业绩中最受市场关注的核心指标。&lt;/strong&gt;超微电脑此前给出的第四财季毛利率指引仅为8.2%至8.4%，而最新预估区间15%至17%意味着实际表现将远超预期，&lt;strong&gt;几乎翻倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一改善并非一蹴而就。公司毛利率曾在2026财年第二季度触及6.3%的低谷，首席执行官Charles Liang当时将其归因于客户结构变化、关税压力以及内存等关键零部件短缺。&lt;strong&gt;第三季度毛利率小幅回升至9.9%，而此次第四季度的跃升则表明公司在AI服务器解决方案领域的定价能力正在增强。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在今年5月最近一次财报电话会议上，Liang曾表示，公司致力于通过优先深耕企业市场及数据中心积木式解决方案（Data Center Building Block Solutions）业务，实现可持续的两位数毛利率目标。&lt;strong&gt;此次初步数据显示，这一目标已提前兑现。&lt;/strong&gt;&lt;/p&gt;
-600亿美元创纪录订单，需求前景强劲
-&lt;p&gt;&lt;strong&gt;毛利率之外，创纪录的订单规模同样成为市场聚焦的另一重要亮点。&lt;/strong&gt;超微电脑披露，&lt;strong&gt;第四财季单季新增订单超过600亿美元，刷新历史纪录&lt;/strong&gt;，将在未来数个季度陆续交付。&lt;/p&gt;
-&lt;p&gt;这一数字直接反映出市场对超微电脑模块化数据中心解决方案的旺盛需求，也印证了AI基础设施投资热潮的持续性。公司正寻求从服务器设计与制造商向全栈数据中心解决方案提供商转型，庞大的订单积压为这一战略提供了有力支撑。&lt;/p&gt;
-&lt;p&gt;值得注意的是，&lt;strong&gt;公司同时预计第四财季营收将接近110亿至125亿美元指引区间的低端。&lt;/strong&gt;然而，市场对此反应平淡——投资者显然更看重利润率的修复与前瞻性需求指标的强劲，而非短期营收的绝对规模。&lt;/p&gt;
-&lt;p&gt;此次盘后大涨，也是超微电脑在经历一系列负面事件后的阶段性情绪修复。&lt;/p&gt;
-&lt;p&gt;6月初，公司宣布计划通过股权融资筹集70亿美元以支持AI服务器订单激增，引发市场对股权稀释及过度支出的担忧，股价随之大幅下挫，自6月9日高点至今累计跌幅接近50%。此次毛利率的意外跃升与创纪录订单，为饱受压制的股价提供了实质性的反弹催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚太股市集体冲高，韩股涨幅扩大至6%、SK海力士涨7%，日股涨超1%</title><link>https://wallstreetcn.com/articles/3777614</link><guid>8dc0648356981cc05ff669f8aaef833e4e783fc4aec6d7872e063fed91a01f04</guid><pubDate>Wed, 22 Jul 2026 00:33:38 GMT</pubDate><description>&lt;p&gt;7月22日周二，受到隔夜美股芯片股大涨提振，亚太股市延续强劲反弹态势。MSCI亚太指数上涨1%至269.25点。韩国首尔综指高开高走，涨幅迅速扩大至6%，三星电子涨超5%，SK海力士涨7%。韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。日经225指数日内涨幅扩大至1.1%。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚太股市集体冲高，韩股涨幅扩大至6%、SK海力士涨7%，日股涨超1%</title><link>https://wallstreetcn.com/articles/3777614</link><guid>8dc0648356981cc05ff669f8aaef833e4e783fc4aec6d7872e063fed91a01f04</guid><pubDate>Wed, 22 Jul 2026 00:33:38 GMT</pubDate><description>&lt;p&gt;7月22日周二，受到隔夜美股芯片股大涨提振，亚太股市延续强劲反弹态势。MSCI亚太指数上涨1%至269.25点。韩国首尔综指高开高走，涨幅迅速扩大至6%，三星电子涨超5%，SK海力士涨7%。韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。日经225指数日内涨幅扩大至1.1%。&lt;/p&gt;
 &lt;p&gt;隔夜，科技股力撑美股指反弹，纳指100收涨1.9%。美股存储芯片指数暴涨11.12%，美光市值重回万亿。半导体指数大涨5.2%，创六周最佳日涨幅。&lt;/p&gt;
 &lt;p&gt;Evercore ISI首席股票及量化策略师Julian Emanuel表示，他预期科技股财报将推动市场下一轮上涨，并看好当前被市场“冷落”的科技股存在上行空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -154,7 +95,66 @@ Copilot：从&amp;quot;卖座位&amp;quot;到三引擎ARPU扩张
 &lt;p&gt;&lt;strong&gt;日元&lt;/strong&gt;：日元跌破163关口，为1986年以来首次，市场对日本当局是否会出手干预的关注度持续上升。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关税&lt;/strong&gt;：特朗普在社交媒体发文称，美国计划自2028年8月起对进口仿制药征收100%关税。&lt;/p&gt;
 &lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 22:46:24 GMT</pubDate><description>&lt;p&gt;芯片股大幅反弹推动美股指全线收涨，纳指领涨。投资者重拾对AI投资主题的信心，此前遭受重挫的动能股录得五年来最强单日表现。&lt;/p&gt; &lt;p&gt;美伊连续10天互相袭击，短期停火协议破裂。原油走强引发通胀担忧，美债遭遇抛售，美元指数走强、重回101关口。&lt;/p&gt; &lt;p&gt;S&amp;amp;P期货、美油与10Y收益率三线联动&lt;/p&gt; 半导体存储芯片暴力反弹，费半创六周最佳 &lt;p&gt;周二美股标普500涨0.9%，道琼斯工业平均指数涨0.74%。纳指100涨1.9%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;值得注意的是，当日市场广度偏薄，强势行情集中在半导体板块，剔除AI成分股的标普500指数持平。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;费城半导体指数周二大涨5.2%，创六周最佳单日涨幅，两连涨延续反弹势头。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;不过仍低于50日均线。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;存储芯片三巨头集体飙升&lt;/strong&gt;，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;芯片设计端同样全面爆发。&lt;/strong&gt;英特尔涨8.64%，AMD涨8.11%，台积电涨超4%，阿斯麦涨3.59%。&lt;/p&gt; &lt;p&gt;暴涨的直接催化剂来自摩根士丹利半导体分析师Joseph Moore的最新研报。他指出数据中心存储芯片短缺正持续恶化，预计延续到2028年，存储芯片价格在Q2到Q3至少上涨25%。这一判断直接引爆了存储芯片板块的做多情绪。&lt;/p&gt; &lt;p&gt;LPL首席技术策略师Adam Turnquist也称近期调整更像抛物线式上涨后的健康重置。&lt;/p&gt; &lt;p&gt;高盛AI半导体指数当日呈现V形反弹。瑞银对冲基金衍生品销售主管Michael Romano同日发声，认为AI基本面改善正是买入信号，建议逐步建仓。&lt;/p&gt; &lt;p&gt;高盛美国AI半导体指数&lt;/p&gt; 动量因子创五年最佳单日，美股与债市显著脱钩 &lt;p&gt;高盛TMT动量组合单日回报达11.5%，广义AI组合涨7.3%，AI受益股指数创ChatGPT发布以来最佳单日表现。&lt;/p&gt; &lt;p&gt;高盛高Beta动量指数&lt;/p&gt; &lt;p&gt;高盛动量策略团队Julia Mensch在报告中写道，动量去风险已进入末段。仓位已大幅清理，动量有望回归长期趋势，高盛TMT动量组合&lt;strong&gt;创下自2021年3月以来的最佳单日表现&lt;/strong&gt;。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;与股市大涨形成鲜明反差，债市同日遭到抛售。&lt;/p&gt; &lt;p&gt;油价上涨给利率市场带来压力，市场对美联储7月和9月加息的可能性今天均有所上升。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;10年期美债收益率突破4.60%至约4.63%长端创两个月新高，2年期涨5基点至约4.25%，30年期升至约5.13%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;股债脱钩的核心逻辑在于油价飙升推升通胀预期，但财报超级周前的买盘力量压倒了利率上行压力。零日期权交易员全天买盘叠加杠杆ETF再平衡资金，成为支撑反弹的隐性力量。&lt;/p&gt; &lt;p&gt;并非所有分析师都认同修正已结束。BTIG首席市场技术分析师Jonathan Krinsky警告上方存在强阻力。彭博宏观策略师Michael Ball认为半导体ETF看跌期权需求仍然高企，宣告修正完成为时尚早。&lt;/p&gt; Mag7严重分化，财报前资金重新洗牌 &lt;p&gt;Mag7内部出现显著分化。特斯拉涨2.53%领涨，英伟达涨1.97%，苹果微涨0.35%。而谷歌跌1.47%领跌，微软跌1.13%，亚马逊跌0.98%，Meta小跌0.32%。&lt;/p&gt; &lt;p&gt;周三盘前谷歌和特斯拉将率先发布Q2业绩，市场高度关注全年资本支出指引。eToro分析师Bret Kenwell指出，凡无法跨过华尔街高预期门槛的公司都会遭投资者惩罚。&lt;/p&gt; &lt;p&gt;ZeroHedge评论道，此前市场讨论的广度扩张被丑陋的棍棒打回，交易员重新涌入AI和半导体而非分散到价值股。这种集中度回归意味着市场宽度并未真正改善，少数股票对指数的主导进一步加剧。&lt;/p&gt; 油金比特齐涨，10Y破4.60%，日元暴跌163 &lt;p&gt;美伊军事冲突进入第10日，胡塞武装宣布对沙特实施海上封锁，红海曼德海峡通行量两周内骤降34%。WTI 8月收报84.91美元涨2.02%，布伦特9月收报91.01美元涨2.01%，自6月11日以来首次收于90美元上方。&lt;/p&gt; &lt;p&gt;布伦特原油期货与即期布伦特原油现货价差&lt;/p&gt; &lt;p&gt;油价飙升推升通胀预期，美债收益率全线上行。Natixis首席美国经济学家Christopher Hodge认为能源价格波动应主导美联储决策。&lt;/p&gt; &lt;p&gt;RBC利率策略师Izaac Brook指出2年期突破4.20%和10年期突破4.60%的关键技术位放大了走势，夏季交易清淡加剧了波动。&lt;/p&gt; &lt;p&gt;美债收益率曲线&lt;/p&gt; &lt;p&gt;彭博宏观策略师Cameron Crise警告长期国债即将巩固5%为底部而非顶部，50日均线已超5%，5.5%是下一个目标。&lt;/p&gt; &lt;p&gt;美元指数走强至约101.3，美元兑日元飙至163.01，日本干预传闻再度升温。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;现货黄金重回4080美元附近涨约1.5%，现货白银涨约5%至59美元。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;比特币盘中冲至67000美元后回落至66194美元。&lt;/p&gt; &lt;p&gt;比特币走势&lt;/p&gt; &lt;p&gt;&lt;strong&gt;周二美股三大指数反弹，存储芯片三巨头集体飙升，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/strong&gt;&lt;/p&gt; &lt;blockquote&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？</title><link>https://wallstreetcn.com/articles/3777612</link><guid>7bf988ef6f5403c3f80d3da2883cd844f5ab182b42d18a0169b422a338c3fca6</guid><pubDate>Wed, 22 Jul 2026 00:22:27 GMT</pubDate><description>&lt;p&gt;美股科技动量股周二（7月21日）上演剧烈反弹。&lt;strong&gt;摩根士丹利TMT动量因子单日涨幅超过12%，创下有记录以来最大单日涨幅，甚至超过2000年互联网泡沫时期的任何单日表现。&lt;/strong&gt;高盛高贝塔动量多头指数（GSCBHMOM）单日上涨约8.5%，为2025年4月以来最强单日表现；多空高贝塔动量指数（GSPRHIMO）更是上涨9.5%，为2021年以来最强，接近2003年以来的历史最高水平。&lt;/p&gt;
+&lt;p&gt;纳斯达克综合指数当日上涨约1.3%，领跑三大指数。&lt;strong&gt;半导体板块是最大推手——费城半导体指数单日涨幅达4.6%&lt;/strong&gt;，VanEck半导体ETF上涨约4.5%。美光科技涨超10%，英特尔涨约8.6%，闪迪涨约14%，Cerebras Systems涨约18%，Cipher Mining涨超11%。&lt;/p&gt;
+&lt;p&gt;这场反弹发生在此前连续三个交易日下跌之后，也&lt;strong&gt;发生在动量股累计暴跌33%之后。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+为什么会有这场反弹？空头被“逼仓”
+&lt;p&gt;理解这次反弹，需要先理解此前的跌幅有多深。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛数据显示，高贝塔动量股在短短数个交易日内累计下跌33%，是互联网泡沫破裂以来最惨烈的回撤之一。高盛高贝塔动量指数一度跌破200日均线，触及今年1月以来最低点，超卖程度为去年8月以来最严重。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;跌得越深，反弹的弹性越大——这是市场的基本逻辑。&lt;/p&gt;
+&lt;p&gt;本次反弹在很大程度上是一场&amp;quot;逼仓&amp;quot;行情。大量做空动量股的投资者，尤其是韩国和日本的追涨杀跌型交易者，在过去两周遭受重创——韩国市场甚至出现大规模追加保证金（margin call）事件，重创当地散户群体。当这些空头被迫平仓回补，买盘就会形成自我强化的上涨螺旋。&lt;/p&gt;
+&lt;p&gt;Zacks Investment Research分析指出，美光科技此前跌破了日线图上的&amp;quot;头肩顶&amp;quot;颈线，技术形态看空。但周二股价暴涨逾10%，重新站回颈线之上。&amp;quot;假突破往往引发反向的剧烈波动，因为后知后觉的空头和做空者被困住了。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+市场广度依然偏弱，反弹成色存疑
+&lt;p&gt;反弹的数字看起来惊人，但内部结构并不健康。&lt;/p&gt;
+&lt;p&gt;BTIG策略师Jonathan Krinsky分析，周二整体成交量偏低，SPY、QQQ和标普500现货成交量均比20日均值低20%至30%。与此同时，标普500指数当日上涨近1%，但下跌个股数量仍多于上涨个股——这是今年以来价格与市场广度背离次数最多的一年，而周二再次出现这一现象。&lt;/p&gt;
+&lt;p&gt;高盛交易员数据显示，交易所整体成交量较20日均值低约17%，做市商账面流动性仅为683万美元，市场活跃度在满分10分中仅为3分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;换句话说，这场反弹更像是少数重仓股的集中爆发，而非全面复苏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Michael Ball分析，&amp;quot;现在宣布调整结束还为时过早&amp;quot;。半导体ETF和前期AI明星股的看跌期权需求依然高企，纳斯达克、半导体ETF及相关个股的负Gamma敞口，意味着做市商会追涨杀跌而非平抑波动——这在放大上涨的同时，也会放大下跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+BTIG警告：反弹已触及关键阻力，建议逢高减仓
+&lt;p&gt;并非所有人都对这次反弹感到乐观。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BTIG的Jonathan Krinsky明确警告，建议&amp;quot;逢高减仓（fade）&amp;quot;。他此前预判动量股反弹会遭遇730至750区间的强阻力，而周二的反弹恰好将GSCBHMOM推至该阻力区间下沿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Krinsky表示：&amp;quot;&lt;strong&gt;极端的波动性，加上历史性的个股分化，是市场正在经历一轮全面回调的信号。&amp;quot;他预计高贝塔动量股将在周三至周四进入阻力区间核心后开始滞涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从历史数据看，自1999年以来，高贝塔动量多头指数在200日均线上方单日涨幅超过7%的情况仅出现过10次。其中三次发生在今年，三次发生在2021年初，三次发生在2000年初。Krinsky指出，这一数据&amp;quot;既说明了此次行情的罕见性，也说明我们持续看到与1999至2000年时期相呼应的统计特征&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+高盛、瑞银：动量抛售接近尾声，建议逐步加仓
+&lt;p&gt;与BTIG的谨慎态度不同，高盛和瑞银均认为此次动量抛售已进入尾声，并建议投资者把握机会。&lt;/p&gt;
+&lt;p&gt;高盛的Julia Mensch在报告中指出，高盛上周已提示动量抛售&amp;quot;进入后期&amp;quot;。她写道：&lt;strong&gt;&amp;quot;随着持仓已大幅出清（高盛主经纪商数据显示，动量敞口处于过去一年的第64百分位，过去五年的第93百分位），且此次抛售背后并无新的基本面催化剂，我们认为动量有空间向长期趋势回归，此次抛售可能是增加动量敞口或逢低买入AI股的好机会。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;瑞银对冲基金股票衍生品销售主管Michael Romano也在客户报告中表达了类似看法，认为AI基本面改善是买入信号。但他同时建议投资者&amp;quot;逐步建仓，而非一次性全仓杀入&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Romano写道：&amp;quot;动量去风险化是且仍然是一个有说服力的判断。分批建仓是审慎之举。&amp;quot;他预计动量抛售将在7月底前触底（如果尚未触底的话），并表示：&amp;quot;一旦行情转向，我预计流动性将推动价格向上超调。&amp;quot;&lt;/p&gt;
+&lt;p&gt;不过，高盛也保持了一定保留态度——鉴于近期波动率极高，且财报季密集来袭，高盛建议投资者通过&amp;quot;有限损失结构&amp;quot;（limited-loss structures）来获取敞口，而非直接持有多头。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+财报季是下一个关键变量
+&lt;p&gt;这场反弹的持续性，很大程度上取决于本周财报。&lt;/p&gt;
+&lt;p&gt;据路透社报道，&lt;strong&gt;本周共有113家标普500成分股公司（占标普500市值约18%）发布财报。其中，Alphabet（GOOGL）的财报被视为&amp;quot;本周最重要的数据点&amp;quot;&lt;/strong&gt;，市场将重点关注其2026年全年资本开支指引——普遍预期将上调，这将为AI支出的走向提供重要线索。&lt;/p&gt;
+&lt;p&gt;LPL Financial首席技术策略师Adam Turnquist表示：&amp;quot;现在的焦点不只是资本开支总量，下一个关注点将是投资回报率和支出质量，我们认为这将在下半年成为核心议题。&amp;quot;&lt;/p&gt;
+&lt;p&gt;他同时指出：&amp;quot;我们预计半导体板块将继续出现波动，因为超买状态需要消化，获利了结压力将出现，拥挤的持仓也需要出清。从基本面来看，我们认为并没有什么实质性变化。&amp;quot;&lt;/p&gt;
+&lt;p&gt;据路透社报道，截至目前，已有66家标普500公司公布财报，其中约88%的公司盈利超出分析师预期。3M（MMM）单日涨超9%，通用汽车（GM）涨约5%，均因业绩超预期而受到追捧。&lt;/p&gt;
+债券与宏观：另一个隐患
+&lt;p&gt;股市狂欢的同时，债券市场却在发出警告。&lt;/p&gt;
+&lt;p&gt;当日美债收益率全线走高，短端2年期收益率上涨5个基点，30年期上涨2个基点，长端收益率升至两个月高位，抹去了上周低于预期的通胀数据带来的债券涨幅。&lt;/p&gt;
+&lt;p&gt;油价是推手之一。布伦特原油期货收盘重新站上每桶90美元，为6月11日以来首次。中东局势持续升温——也门胡塞武装宣布封锁红海南部入口，两艘运载沙特原油的油轮在红海掉头折返。Kpler的MarineTraffic数据显示，即便在封锁宣布之前，过去两周通过曼德海峡的货物装载量已下降34%。&lt;/p&gt;
+&lt;p&gt;RBC Capital Markets利率策略师Izaac Brook表示：&amp;quot;今天的市场走势，主要是能源价格持续上涨的结果。利率的波动因突破了备受关注的技术位——2年期收益率4.20%和10年期收益率4.60%——以及夏季典型的低流动性交易环境而被放大。&amp;quot;&lt;/p&gt;
+&lt;p&gt;彭博的Cameron Crise则警告，&lt;strong&gt;长债收益率正处于将5%从阻力位变为支撑位的临界点，下一个明显目标位是5.5%——&amp;quot;这将对股市造成冲击，尤其是当经济上行超预期推动收益率走高，并对股票产生负面影响时&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛IG信用主管Kevin Boova也警告，超大规模科技公司的信用利差已创新高，&amp;quot;超大规模云计算/AI/数据中心领域感觉再度有些脆弱&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 毛利翻倍，远超此前指引！超微电脑财报后飙升近20%</title><link>https://wallstreetcn.com/articles/3777613</link><guid>61c4d483dd90a7d58cab83ee9be3e7b2471f6f7b6cd6681eb19d2b200d10c34c</guid><pubDate>Wed, 22 Jul 2026 00:05:55 GMT</pubDate><description>&lt;p&gt;超微电脑（Super Micro Computer）周二（7月21日）发布第四财季初步业绩，毛利率预期大幅超越此前指引，创纪录的新订单规模进一步提振市场信心，股价盘后一度飙升逾20%。&lt;/p&gt;
+&lt;p&gt;初步业绩报告显示，截至2026年6月30日的第四财季，公司GAAP及非GAAP毛利率预计介于15%至17%之间，&lt;strong&gt;几乎是此前指引区间8.2%至8.4%的两倍&lt;/strong&gt;。管理层将这一超预期表现归因于&amp;quot;有利的客户结构与产品组合&amp;quot;。与此同时，&lt;strong&gt;公司当季新增订单总额超过600亿美元，创历史新高&lt;/strong&gt;，锁定了庞大的未来交付管线。&lt;/p&gt;
+&lt;p&gt;上述利好消息令市场迅速重新定价。超微电脑股价盘后涨幅一度触及21%。这一走势标志着投资者情绪的显著逆转——此前该股自6月初高点以来已近乎腰斩。&lt;strong&gt;公司完整的第四财季及2026财年业绩将于8月11日美股收盘后正式公布。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+毛利率意外翻倍，重塑盈利叙事
+&lt;p&gt;&lt;strong&gt;毛利率表现是本次初步业绩中最受市场关注的核心指标。&lt;/strong&gt;超微电脑此前给出的第四财季毛利率指引仅为8.2%至8.4%，而最新预估区间15%至17%意味着实际表现将远超预期，&lt;strong&gt;几乎翻倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一改善并非一蹴而就。公司毛利率曾在2026财年第二季度触及6.3%的低谷，首席执行官Charles Liang当时将其归因于客户结构变化、关税压力以及内存等关键零部件短缺。&lt;strong&gt;第三季度毛利率小幅回升至9.9%，而此次第四季度的跃升则表明公司在AI服务器解决方案领域的定价能力正在增强。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在今年5月最近一次财报电话会议上，Liang曾表示，公司致力于通过优先深耕企业市场及数据中心积木式解决方案（Data Center Building Block Solutions）业务，实现可持续的两位数毛利率目标。&lt;strong&gt;此次初步数据显示，这一目标已提前兑现。&lt;/strong&gt;&lt;/p&gt;
+600亿美元创纪录订单，需求前景强劲
+&lt;p&gt;&lt;strong&gt;毛利率之外，创纪录的订单规模同样成为市场聚焦的另一重要亮点。&lt;/strong&gt;超微电脑披露，&lt;strong&gt;第四财季单季新增订单超过600亿美元，刷新历史纪录&lt;/strong&gt;，将在未来数个季度陆续交付。&lt;/p&gt;
+&lt;p&gt;这一数字直接反映出市场对超微电脑模块化数据中心解决方案的旺盛需求，也印证了AI基础设施投资热潮的持续性。公司正寻求从服务器设计与制造商向全栈数据中心解决方案提供商转型，庞大的订单积压为这一战略提供了有力支撑。&lt;/p&gt;
+&lt;p&gt;值得注意的是，&lt;strong&gt;公司同时预计第四财季营收将接近110亿至125亿美元指引区间的低端。&lt;/strong&gt;然而，市场对此反应平淡——投资者显然更看重利润率的修复与前瞻性需求指标的强劲，而非短期营收的绝对规模。&lt;/p&gt;
+&lt;p&gt;此次盘后大涨，也是超微电脑在经历一系列负面事件后的阶段性情绪修复。&lt;/p&gt;
+&lt;p&gt;6月初，公司宣布计划通过股权融资筹集70亿美元以支持AI服务器订单激增，引发市场对股权稀释及过度支出的担忧，股价随之大幅下挫，自6月9日高点至今累计跌幅接近50%。此次毛利率的意外跃升与创纪录订单，为饱受压制的股价提供了实质性的反弹催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 22:46:24 GMT</pubDate><description>&lt;p&gt;芯片股大幅反弹推动美股指全线收涨，纳指领涨。投资者重拾对AI投资主题的信心，此前遭受重挫的动能股录得五年来最强单日表现。&lt;/p&gt; &lt;p&gt;美伊连续10天互相袭击，短期停火协议破裂。原油走强引发通胀担忧，美债遭遇抛售，美元指数走强、重回101关口。&lt;/p&gt; &lt;p&gt;S&amp;amp;P期货、美油与10Y收益率三线联动&lt;/p&gt; 半导体存储芯片暴力反弹，费半创六周最佳 &lt;p&gt;周二美股标普500涨0.9%，道琼斯工业平均指数涨0.74%。纳指100涨1.9%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;值得注意的是，当日市场广度偏薄，强势行情集中在半导体板块，剔除AI成分股的标普500指数持平。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;费城半导体指数周二大涨5.2%，创六周最佳单日涨幅，两连涨延续反弹势头。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;不过仍低于50日均线。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;存储芯片三巨头集体飙升&lt;/strong&gt;，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;芯片设计端同样全面爆发。&lt;/strong&gt;英特尔涨8.64%，AMD涨8.11%，台积电涨超4%，阿斯麦涨3.59%。&lt;/p&gt; &lt;p&gt;暴涨的直接催化剂来自摩根士丹利半导体分析师Joseph Moore的最新研报。他指出数据中心存储芯片短缺正持续恶化，预计延续到2028年，存储芯片价格在Q2到Q3至少上涨25%。这一判断直接引爆了存储芯片板块的做多情绪。&lt;/p&gt; &lt;p&gt;LPL首席技术策略师Adam Turnquist也称近期调整更像抛物线式上涨后的健康重置。&lt;/p&gt; &lt;p&gt;高盛AI半导体指数当日呈现V形反弹。瑞银对冲基金衍生品销售主管Michael Romano同日发声，认为AI基本面改善正是买入信号，建议逐步建仓。&lt;/p&gt; &lt;p&gt;高盛美国AI半导体指数&lt;/p&gt; 动量因子创五年最佳单日，美股与债市显著脱钩 &lt;p&gt;高盛TMT动量组合单日回报达11.5%，广义AI组合涨7.3%，AI受益股指数创ChatGPT发布以来最佳单日表现。&lt;/p&gt; &lt;p&gt;高盛高Beta动量指数&lt;/p&gt; &lt;p&gt;高盛动量策略团队Julia Mensch在报告中写道，动量去风险已进入末段。仓位已大幅清理，动量有望回归长期趋势，高盛TMT动量组合&lt;strong&gt;创下自2021年3月以来的最佳单日表现&lt;/strong&gt;。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;与股市大涨形成鲜明反差，债市同日遭到抛售。&lt;/p&gt; &lt;p&gt;油价上涨给利率市场带来压力，市场对美联储7月和9月加息的可能性今天均有所上升。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;10年期美债收益率突破4.60%至约4.63%长端创两个月新高，2年期涨5基点至约4.25%，30年期升至约5.13%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;股债脱钩的核心逻辑在于油价飙升推升通胀预期，但财报超级周前的买盘力量压倒了利率上行压力。零日期权交易员全天买盘叠加杠杆ETF再平衡资金，成为支撑反弹的隐性力量。&lt;/p&gt; &lt;p&gt;并非所有分析师都认同修正已结束。BTIG首席市场技术分析师Jonathan Krinsky警告上方存在强阻力。彭博宏观策略师Michael Ball认为半导体ETF看跌期权需求仍然高企，宣告修正完成为时尚早。&lt;/p&gt; Mag7严重分化，财报前资金重新洗牌 &lt;p&gt;Mag7内部出现显著分化。特斯拉涨2.53%领涨，英伟达涨1.97%，苹果微涨0.35%。而谷歌跌1.47%领跌，微软跌1.13%，亚马逊跌0.98%，Meta小跌0.32%。&lt;/p&gt; &lt;p&gt;周三盘前谷歌和特斯拉将率先发布Q2业绩，市场高度关注全年资本支出指引。eToro分析师Bret Kenwell指出，凡无法跨过华尔街高预期门槛的公司都会遭投资者惩罚。&lt;/p&gt; &lt;p&gt;ZeroHedge评论道，此前市场讨论的广度扩张被丑陋的棍棒打回，交易员重新涌入AI和半导体而非分散到价值股。这种集中度回归意味着市场宽度并未真正改善，少数股票对指数的主导进一步加剧。&lt;/p&gt; 油金比特齐涨，10Y破4.60%，日元暴跌163 &lt;p&gt;美伊军事冲突进入第10日，胡塞武装宣布对沙特实施海上封锁，红海曼德海峡通行量两周内骤降34%。WTI 8月收报84.91美元涨2.02%，布伦特9月收报91.01美元涨2.01%，自6月11日以来首次收于90美元上方。&lt;/p&gt; &lt;p&gt;布伦特原油期货与即期布伦特原油现货价差&lt;/p&gt; &lt;p&gt;油价飙升推升通胀预期，美债收益率全线上行。Natixis首席美国经济学家Christopher Hodge认为能源价格波动应主导美联储决策。&lt;/p&gt; &lt;p&gt;RBC利率策略师Izaac Brook指出2年期突破4.20%和10年期突破4.60%的关键技术位放大了走势，夏季交易清淡加剧了波动。&lt;/p&gt; &lt;p&gt;美债收益率曲线&lt;/p&gt; &lt;p&gt;彭博宏观策略师Cameron Crise警告长期国债即将巩固5%为底部而非顶部，50日均线已超5%，5.5%是下一个目标。&lt;/p&gt; &lt;p&gt;美元指数走强至约101.3，美元兑日元飙至163.01，日本干预传闻再度升温。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;现货黄金重回4080美元附近涨约1.5%，现货白银涨约5%至59美元。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;比特币盘中冲至67000美元后回落至66194美元。&lt;/p&gt; &lt;p&gt;比特币走势&lt;/p&gt; &lt;p&gt;&lt;strong&gt;周二美股三大指数反弹，存储芯片三巨头集体飙升，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/strong&gt;&lt;/p&gt; &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;标普500指数收涨65.92点，涨幅0.89%，报7509.20点。&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
@@ -208,79 +208,7 @@ AI光互连仍是长期核心逻辑
 &lt;p&gt;分析师指出，&lt;strong&gt;无论未来AI数据中心最终采用CPO、NPO、LPO或其他光互连架构，持续攀升的带宽需求都将驱动光学器件用量增长。康宁在FAU、PMF、外置激光光纤及GlassBridge等被动光子学产品上的布局，具备跨越不同技术路线的通用价值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;管理层预计，相关产品的大规模商业化有望在2028年前后启动，初期行业更可能采取铜缆与光纤混合部署的方式，而非一次性全面切换至纯光互连方案。&lt;/p&gt;
 &lt;p&gt;摩根士丹利维持康宁Equal-weight（持有）评级，该评级对应的估值水平显著高于公司过去十年的历史均值，反映出市场对AI长期成长溢价的预期。&lt;/p&gt;
-&lt;p&gt;在三种情景假设下，分析师认为，&lt;strong&gt;经历约40%的股价回调后，当前估值吸引力已有所改善。但股价若要重新步入上行通道，关键在于下半年光学业务产能释放节奏、利润率修复进度，以及AI光互连需求的实际落地情况。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产</title><link>https://wallstreetcn.com/articles/3777594</link><guid>2aeeb0bd7a9abbecf355511a2ce6e3a2b5be9b440ae919d3621fe3e7236e2f44</guid><pubDate>Tue, 21 Jul 2026 15:19:47 GMT</pubDate><description>&lt;p&gt;谷歌又一次把“AI军备竞赛”的焦点，从单纯追求更大、更强的旗舰模型，转向了更便宜、更快、更适合大规模部署的AI智能体。&lt;/p&gt;
-&lt;p&gt;美东时间21日周二，谷歌一口气推出Gemini 3.6 Flash、Gemini 3.5 Flash-Lite以及面向网络安全的Gemini 3.5 Flash Cyber三款新模型。&lt;/p&gt;
-&lt;p&gt;其中，Gemini 3.6 Flash重点提升代码、知识工作和多模态能力，并通过减少Token消耗降低实际运行成本；Gemini 3.5 Flash-Lite主打Gemini 3.5系列中最低的定价和最快的速度；Flash Cyber则瞄准软件漏洞发现与自动修复，直接切入Anthropic旗下Mythos等网络安全模型的优势赛道。&lt;/p&gt;
-&lt;p&gt;相比前代3.5 Flash，Gemini 3.6 Flash的输出价格下调约17%，但并非所有新模型都名义上价格下降。Gemini 3.5 Flash-Lite的重点在于通过更快的响应速度和更高的任务效率，降低高吞吐场景下的整体使用成本。与上一代Gemini 3.1 Flash-Lite相比，其名义Token价格并未下降，输出价格反而更高。&lt;/p&gt;
-&lt;p&gt;因此，谷歌此次AI产品策略的核心，与其说是全面“价格战”，不如说是通过模型分层，试图在模型能力、Token消耗、响应速度和实际任务成本之间寻找新的平衡。&lt;/p&gt;
-&lt;p&gt;同时，此次发布暴露出谷歌当前AI战略的一个尴尬：市场最期待的旗舰模型Gemini 3.5 Pro仍然没有正式发布。路透社报道称，该模型原定于6月推出，目前仍在与合作伙伴测试，谷歌只表示将在“准备好后”尽快扩大开放。与此同时，谷歌已经启动了迄今最雄心勃勃的Gemini 4预训练工作。&lt;/p&gt;
-&lt;p&gt;在OpenAI和Anthropic持续推出更强大模型、AI企业客户开始越来越关注推理成本和Token效率的背景下，谷歌此次发布的三款模型，实际上更像是一次围绕“AI智能体商业化”的全面补位。&lt;/p&gt;
-Gemini 3.6 Flash：更少Token，更低价格，代码和智能体能力同步提升
-&lt;p&gt;谷歌此次更新的核心模型是Gemini 3.6 Flash。&lt;/p&gt;
-&lt;p&gt;按照谷歌的说法，3.6 Flash是在此前Gemini 3.5 Flash基础上，根据开发者和企业客户反馈进行优化的“工作马”模型，重点提升代码编程、知识工作和多模态能力。&lt;/p&gt;
-&lt;p&gt;更值得关注的是效率。&lt;/p&gt;
-&lt;p&gt;谷歌援引Artificial Analysis Index称，Gemini 3.6 Flash相比3.5 Flash的输出Token消耗减少17%，同时完成多步骤工作流所需的推理步骤和工具调用次数也有所减少。对于需要长时间运行、反复调用工具的AI智能体而言，这意味着成本并不只是简单地按Token价格下降，而是整个任务的计算量都有望减少。&lt;/p&gt;
-&lt;p&gt;价格方面，Gemini 3.6 Flash的输入价格为1.5美元/百万Token，输出价格为7.5美元/百万Token，较前代3.5 Flash9美元/百万Token的输出价低将近17%。&lt;/p&gt;
-&lt;p&gt;从谷歌公布的测试数据来看，Gemini 3.6 Flash在多个关键指标上较3.5 Flash有所提升：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;DeepSWE：49%，高于37%；&lt;/li&gt;
-&lt;li&gt;MLE Bench：63.9%，高于49.7%；&lt;/li&gt;
-&lt;li&gt;OSWorld-Verified：83%，高于78.4%；&lt;/li&gt;
-&lt;li&gt;GDPval-AA v2：1421分，高于1349分。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;其中，OSWorld-Verified主要测试模型使用计算机完成实际任务的能力，GDPval-AA则更偏向现实世界的知识工作任务。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;谷歌强调，3.6 Flash能够减少不必要的代码修改和执行循环，从而生成更高质量、更接近生产环境要求的代码。&lt;/p&gt;
-&lt;p&gt;这正是AI模型竞争正在发生变化的一个缩影。&lt;/p&gt;
-&lt;p&gt;在早期的大模型竞争中，市场更关注模型能否在数学、知识问答和综合基准测试中取得更高分数。但随着企业开始真正部署AI智能体，模型每多调用一次工具、每多生成一段无效Token，都可能转化为实际成本。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;“单位智能的成本”正在成为AI模型竞争的新战场&lt;/strong&gt;。&lt;/p&gt;
-Flash-Lite：每秒350个Token，瞄准高频、低成本AI应用
-&lt;p&gt;如果说3.6 Flash针对的是复杂任务，那么Gemini 3.5 Flash-Lite的目标更加明确：规模化。&lt;/p&gt;
-&lt;p&gt;谷歌将其定位为Gemini 3.5系列中速度最快、成本效率最高的模型，适用于智能搜索、文档处理以及其他高吞吐、低延迟任务。&lt;/p&gt;
-&lt;p&gt;根据Artificial Analysis的数据，Flash-Lite的输出速度达到每秒350个Token。&lt;/p&gt;
-&lt;p&gt;价格则进一步下探至：输入定价0.30美元/百万Token，输出2.50美元/百万Token。&lt;/p&gt;
-&lt;p&gt;这意味着，在大量文档总结、分类、信息抽取以及AI搜索等高频任务中，开发者可以使用更加便宜的模型处理海量请求，而不必让更昂贵的旗舰模型承担所有工作。&lt;/p&gt;
-&lt;p&gt;谷歌公布的测试数据显示，Flash-Lite相比此前的3.1 Flash-Lite，在Terminal-Bench 2.1上的成绩从31%提高至54%，GDM-MRCR v2从60.1%提高至72.2%，GDPval-AA v2则从642分提高至1140分。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更值得注意的是，谷歌称，3.5 Flash-Lite在部分测试中甚至超过了更高一级的Gemini 3 Flash，包括SWE-Bench Pro和OSWorld-Verified。&lt;/p&gt;
-&lt;p&gt;这背后反映的是谷歌对未来AI应用架构的一个判断：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未来的AI智能体可能不会由一个超级模型独立完成所有工作，而是由多个不同成本、不同能力的模型协同完成。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一个较强的“主智能体”负责规划和决策，多个便宜、快速的“子智能体”负责搜索、整理、调用工具和执行重复性任务。&lt;/p&gt;
-&lt;p&gt;在这种架构下，模型的速度和成本效率，可能比单纯的最高基准分数更加重要。&lt;/p&gt;
-谷歌推出网络安全专用模型，正面迎战Anthropic的高端模型
-&lt;p&gt;此次发布中最具战略意味的产品，可能是Gemini 3.5 Flash Cyber。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;谷歌表示，该模型专门用于发现、验证和修复代码安全漏洞，并与其CodeMender代码安全智能体结合使用。&lt;/p&gt;
-&lt;p&gt;在CodeMender体系中，多个Gemini 3.5 Flash Cyber智能体可以协同工作，最终形成综合安全报告。&lt;/p&gt;
-&lt;p&gt;谷歌称，Flash Cyber的设计目标是在低于大型模型的每Token成本下，实现具有竞争力的网络安全能力。&lt;/p&gt;
-&lt;p&gt;这显然是在对准一个正在快速升温的AI应用市场。&lt;/p&gt;
-&lt;p&gt;随着AI模型越来越擅长生成代码，企业面临的一个新问题是：AI生成代码的速度可能已经超过人类安全团队审查和修复漏洞的速度。&lt;/p&gt;
-&lt;p&gt;因此，能够自动扫描代码、发现漏洞、验证漏洞并生成修复方案的AI安全智能体，正在成为企业AI应用的重要方向。&lt;/p&gt;
-&lt;p&gt;谷歌此次将Flash Cyber与CodeMender结合，实际上试图打造一个“低成本、可规模化”的自动化安全防御系统。&lt;/p&gt;
-&lt;p&gt;谷歌对该模型的部署也相当谨慎。由于网络安全AI具有明显的双重用途属性，Flash Cyber初期将仅通过有限访问试点向政府和受信任合作伙伴提供，而不是直接全面开放。&lt;/p&gt;
-&lt;p&gt;路透社指出，谷歌当前正面临Anthropic和OpenAI的竞争压力。Anthropic近期推出了更强大的Mythos 5和Fable 5模型，OpenAI也推出了GPT-5.6。&lt;/p&gt;
-&lt;p&gt;其中，Anthropic最新模型的网络安全能力尤其受到市场关注。&lt;/p&gt;
-&lt;p&gt;因此，谷歌推出Flash Cyber的意义，不仅在于发布一个垂直领域模型，也是在试图证明：&lt;strong&gt;在AI安全领域，企业不一定需要使用最昂贵、最大的模型。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果一个更小、更快、更便宜的模型能够完成大部分漏洞检测和修复任务，那么企业部署AI安全工具的成本就可能显著下降。&lt;/p&gt;
-旗舰Gemini 3.5 Pro仍然延期，谷歌已经开始训练Gemini 4
-&lt;p&gt;不过，谷歌此次密集推出Flash系列，并没有完全消除市场对旗舰模型的疑问。&lt;/p&gt;
-&lt;p&gt;Gemini 3.5 Pro原计划于今年6月发布，但目前仍然处于与合作伙伴测试阶段。&lt;/p&gt;
-&lt;p&gt;路透社援引知情人士称，Gemini 3.5 Pro延期的一个重要原因，是其在内部测试中尤其是在代码任务上的表现没有达到预期。&lt;/p&gt;
-&lt;p&gt;而代码能力恰恰是目前企业AI市场增长最快、商业价值最高的应用场景之一。&lt;/p&gt;
-&lt;p&gt;这也解释了为什么谷歌在Gemini 3.5 Pro仍未发布的情况下，选择继续加码Flash系列。&lt;/p&gt;
-&lt;p&gt;一方面，Flash模型能够迅速覆盖开发者和企业客户；另一方面，谷歌也可以通过更低的价格，扩大Gemini模型的实际调用规模。&lt;/p&gt;
-&lt;p&gt;Alphabet CEO皮查伊此前曾强调，企业如果将大部分AI工作负载转移至Gemini模型，每年可能节省超过10亿美元。路透社称，谷歌近期也在持续强调Gemini模型的成本优势。&lt;/p&gt;
-&lt;p&gt;但从竞争格局看，谷歌面临的压力依然不小。&lt;/p&gt;
-&lt;p&gt;去年Gemini 3系列发布时，谷歌一度重新回到AI竞争的第一梯队，并迫使OpenAI内部发出“红色警报”。然而，此后Anthropic和OpenAI继续推出更强大的模型，谷歌的旗舰产品却出现延期。&lt;/p&gt;
-&lt;p&gt;如今，谷歌的战略开始出现明显分层：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gemini 3.6 Flash负责效率，Flash-Lite负责规模，Flash Cyber负责垂直场景，而Gemini 3.5 Pro则承担重新证明谷歌顶级模型能力的任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更大的悬念在于Gemini 4。&lt;/p&gt;
-&lt;p&gt;谷歌此次透露，Gemini 4已经启动了“迄今最雄心勃勃的预训练工作”。&lt;/p&gt;
-&lt;p&gt;这意味着，谷歌正在一边修补Gemini 3.5 Pro的延期问题，一边加速下一代旗舰模型的研发。&lt;/p&gt;
-&lt;p&gt;对于Alphabet而言，真正的考验已经不只是“能否发布一个更强的模型”，而是能否同时解决三个问题：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;模型能力能否追上OpenAI和Anthropic；模型成本能否足够低；以及AI模型能否真正转化为搜索、云计算和企业软件业务的收入增长。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从此次三款新模型的发布来看，谷歌正在把“更强模型”的竞争，进一步转向“更高性价比的AI基础设施”竞争。&lt;/p&gt;
-&lt;p&gt;但在Gemini 3.5 Pro正式亮相之前，市场恐怕仍会继续追问：谷歌能否再次拿出一个足以改变AI竞争格局的旗舰模型。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大总理称已与特朗普通话，将"加快谈判"，加各省拒绝解除美国酒类禁令</title><link>https://wallstreetcn.com/articles/3777597</link><guid>4bc4ff2c2a6810e04a4f392064fb624ce09e9574c795cb534dbce83041757b3f</guid><pubDate>Tue, 21 Jul 2026 18:02:54 GMT</pubDate><description>&lt;p&gt;加拿大与美国之间的贸易摩擦持续升级。多个加拿大省份顶住美方新一轮关税施压，坚持维持对美国酒类的销售禁令，而特朗普政府新祭出的关税措施也令外界对加拿大投资环境的改善预期再度打折。&lt;/p&gt;
+&lt;p&gt;在三种情景假设下，分析师认为，&lt;strong&gt;经历约40%的股价回调后，当前估值吸引力已有所改善。但股价若要重新步入上行通道，关键在于下半年光学业务产能释放节奏、利润率修复进度，以及AI光互连需求的实际落地情况。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大总理称已与特朗普通话，将"加快谈判"，加各省拒绝解除美国酒类禁令</title><link>https://wallstreetcn.com/articles/3777597</link><guid>4bc4ff2c2a6810e04a4f392064fb624ce09e9574c795cb534dbce83041757b3f</guid><pubDate>Tue, 21 Jul 2026 18:02:54 GMT</pubDate><description>&lt;p&gt;加拿大与美国之间的贸易摩擦持续升级。多个加拿大省份顶住美方新一轮关税施压，坚持维持对美国酒类的销售禁令，而特朗普政府新祭出的关税措施也令外界对加拿大投资环境的改善预期再度打折。&lt;/p&gt;
 &lt;p&gt;安大略省省长Doug Ford周二表示，除非美国撤销对汽车和钢铁的行业关税，否则他&lt;strong&gt;不会解除该省对美国葡萄酒和烈酒的禁令。&lt;/strong&gt;他直斥特朗普&amp;quot;不过是个恶霸&amp;quot;，并强调加拿大&amp;quot;要以实力谈判，而非示弱&amp;quot;。&lt;/p&gt;
 &lt;p&gt;加拿大总理马克·卡尼（Mark Carney）也表态称，&lt;strong&gt;解除禁令的决定&amp;quot;应由各省自行决定&lt;/strong&gt;，且在我看来，只应作为整体协议的一部分来推进&amp;quot;。卡尼同日表示，&lt;strong&gt;他已与特朗普通话，&amp;quot;双方同意在未来数周内加快谈判&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据&lt;a href="https://news.cctv.com/2026/07/21/ARTIGmf2ENVLHWKDAanpETcW260721.shtml"&gt;央视新闻&lt;/a&gt;报道，白宫当地时间7月20日发布公告，宣布将对加拿大部分产品额外加征50%的从价关税。新关税将于美东时间8月19日凌晨00时01分起正式生效，并在现有关税、税费及其他收费基础上叠加征收。&lt;/p&gt;
@@ -333,7 +261,27 @@ Vera Rubin实测：10倍能效跃升
 &lt;p&gt;尽管Vera的性能数据引人注目，英伟达在CPU市场仍面临显著的市场份额挑战。&lt;strong&gt;Gartner分析师Kevin Knox表示，AMD目前是企业级AI服务器CPU领域的主要竞争对手。据报道，英特尔在服务器CPU市场占有约66.8%的份额，AMD约为33%，且AMD正持续抢占市场份额，并与超大规模云服务商建立了深厚合作关系。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受代理式AI兴起带动的CPU需求预期提振，AMD和英特尔今年以来股价涨幅分别达到128%和149%，远超英伟达同期约8%的涨幅，成为2026年表现最亮眼的芯片股。&lt;/p&gt;
 &lt;p&gt;就现阶段而言，英伟达的主要云服务商合作伙伴名单中仅列出了Oracle，尚未涵盖其他主流云厂商。Hannah Coutand承认，Vera目前仍处于&amp;quot;早期采用阶段&amp;quot;，不过OpenAI计划最早本季度开始大规模部署Vera芯片。&lt;/p&gt;
-&lt;p&gt;Cambrian AI Research创始人Karl Freund将英伟达的战略意图概括为：&amp;quot;他们的目的是让客户摆脱对英特尔或AMD CPU的依赖，而他们对这部分收入志在必得。他们选择专注于打造一款目前市场上其他任何人都尚未提供的独特CPU。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指震荡上涨逼近3800点，医药、有色金属拉升，AI服务器龙头涨停，恒科指跌近2%，科网股普跌</title><link>https://wallstreetcn.com/articles/3777630</link><guid>3567da44c83fce8f36cf3c8dad459bde5ac5e271ec23974c320a62d2844b2e3a</guid><pubDate>Wed, 22 Jul 2026 02:13:32 GMT</pubDate><description>&lt;p&gt;7月22日，A股震荡上涨，三大股指盘初分化，沪指、深成指走高，创业板下跌，算力硬件反弹，服务器、光电路交换机等方向拉升，AI服务器龙头紫光股份涨停，医药股大涨，CRO、创新药走强，有色金属活跃，AI应用、煤炭等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;Cambrian AI Research创始人Karl Freund将英伟达的战略意图概括为：&amp;quot;他们的目的是让客户摆脱对英特尔或AMD CPU的依赖，而他们对这部分收入志在必得。他们选择专注于打造一款目前市场上其他任何人都尚未提供的独特CPU。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 耐克挥刀中国线上渠道：收权、控价、本土化</title><link>https://wallstreetcn.com/articles/3777636</link><guid>75b44129144362e98fb6dcbd5f672ea8193463d32394419d41bce6ee3881770d</guid><pubDate>Wed, 22 Jul 2026 02:57:04 GMT</pubDate><description>&lt;p&gt;耐克在中国市场动了真格。&lt;/p&gt;
+&lt;p&gt;7月22日盘前，滔搏宣布收到耐克正式通知，其在中国内地的耐克产品线上平台销售将于2027年1月1日起全面终止。&lt;/p&gt;
+&lt;p&gt;这项业务约占滔搏上一财年总收入的22%。以其257.4亿元收入计算，相关规模约为56.6亿元。滔搏预计，此次调整将在短期内对公司业务造成重大负面影响。&lt;/p&gt;
+&lt;p&gt;终止滔搏授权只是耐克重构中国市场的第一步。&lt;/p&gt;
+&lt;p&gt;耐克集团副总裁、大中华区总经理申凯希在最新署名文章中表示，自2027年1月起，耐克将以天猫、京东、抖音官方旗舰店，以及Nike官网和App为核心，重构中国数字渠道。除部分授权合作伙伴外，其他合作伙伴运营的线上店铺将逐步停止销售耐克产品。&lt;/p&gt;
+&lt;p&gt;耐克发言人进一步向路透表示，公司在中国共有16家门店合作伙伴，合计运营数千家耐克门店，其中大多数将停止线上销售。&lt;/p&gt;
+&lt;p&gt;这是一场明确的渠道收权。&lt;/p&gt;
+&lt;p&gt;疫情以来，耐克及其经销商加速向线上迁移，迅速扩大的店铺和分销网络带来了销售规模，也让价格和品牌表达逐渐失序。&lt;/p&gt;
+&lt;p&gt;大型经销商依靠进货和返利优势扩大线上销售，在库存压力下又通过折扣加快周转。平台补贴、直播促销和经销商清货相互叠加，同一款产品在不同店铺形成明显价差，消费者也越来越习惯等待打折。&lt;/p&gt;
+&lt;p&gt;申凯希坦言，耐克在中国的市场呈现已经“过于分散”，此前部分举措带来的消费体验不够一致、可信，也未能实现预期增长。&lt;/p&gt;
+&lt;p&gt;耐克希望通过统一官方入口，重新掌握新品发售、折扣节奏、品牌叙事和会员运营。申凯希向路透表示，此举旨在重建消费者信任，并提高全价销售。&lt;/p&gt;
+&lt;p&gt;耐克选择此时挥刀与中国市场持续承压有关。&lt;/p&gt;
+&lt;p&gt;截至2026年5月31日的2026财年第四季度，耐克大中华区收入按汇率中性口径下降17%，降幅较上一季度的10%进一步扩大。&lt;/p&gt;
+&lt;p&gt;但渠道收权可以减少价格混战，却无法直接创造需求。在部分分析师看来，耐克在中国面临的不只是分销体系过于分散，更关键的问题是产品吸引力不足。&lt;/p&gt;
+&lt;p&gt;因此，在重整线上渠道的同时，耐克选择加快产品和零售端的本地化。&lt;/p&gt;
+&lt;p&gt;申凯希透露，近期耐克已任命大中华区首位本地产品创新副总裁，负责为中国消费者设计、开发并在中国制造产品。&lt;/p&gt;
+&lt;p&gt;这意味着，耐克的本地化将从春节配色、区域营销和运动员合作，进一步进入产品定义和开发环节。&lt;/p&gt;
+&lt;p&gt;过去六个月，耐克在中国推出ACG Basecamp、ROOKIE Kids等新概念门店，并升级上海House of Innovation旗舰店。&lt;/p&gt;
+&lt;p&gt;未来六个月，公司还将推出由本地团队主导的新零售概念，加强本地活动和区域团队投入。&lt;/p&gt;
+&lt;p&gt;耐克与经销商并未全面切割。Nike和Jordan实体门店仍是品牌体验的核心场景，滔搏等合作伙伴将继续承担线下运营、本地服务和城市覆盖。&lt;/p&gt;
+&lt;p&gt;耐克已经拿回价格和品牌呈现的主动权。但其能否真正重新取得市场份额，最终仍取决于本地化提速之后，能否推出让中国消费者买单的产品。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指震荡上涨逼近3800点，医药、有色金属拉升，AI服务器龙头涨停，恒科指跌近2%，科网股普跌</title><link>https://wallstreetcn.com/articles/3777630</link><guid>3567da44c83fce8f36cf3c8dad459bde5ac5e271ec23974c320a62d2844b2e3a</guid><pubDate>Wed, 22 Jul 2026 02:13:32 GMT</pubDate><description>&lt;p&gt;7月22日，A股震荡上涨，三大股指盘初分化，沪指、深成指走高，创业板下跌，算力硬件反弹，服务器、光电路交换机等方向拉升，AI服务器龙头紫光股份涨停，医药股大涨，CRO、创新药走强，有色金属活跃，AI应用、煤炭等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指双双下跌，恒科指跌近2%，科网股普遍下跌，AI大模型股纷纷回落，智谱、MINIMAX均跌超5%。债市方面，国债期货震荡上涨，商品方面，国内商品期货多数走高，核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.27%，深成指涨0.41%，创业板指跌0.35%。&lt;/p&gt;
@@ -352,7 +300,7 @@ Vera Rubin实测：10倍能效跃升
 &lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上证指数低开0.64%，创业板指跌1.11%。服务器、PCB、AI算力、跨境电商、存储器、金融科技、商业航天、光伏概念股纷纷走弱；黄金、油气、海运板块逆势走强。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒指低开0.61%，报24978.90点；恒生科技指数跌0.71%。智谱涨超6%，联想涨近4%，网易跌超3%，京东健康、蔚来、哔哩哔哩跌超2%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 震惊硅谷！OpenAI模型“越狱出逃”，入侵HuggingFace，智谱GLM 5.2临危救场</title><link>https://wallstreetcn.com/articles/3777627</link><guid>a15ba44793fc631343e3db84304d79076581f4ed0c55d9eb82f71a4e909c1d02</guid><pubDate>Wed, 22 Jul 2026 02:18:32 GMT</pubDate><description>&lt;p&gt;7月21日，OpenAI和HuggingFace联合发了一篇博客，披露了一件让整个AI圈瞠目结舌的事。&lt;/p&gt;
+&lt;p&gt;恒指低开0.61%，报24978.90点；恒生科技指数跌0.71%。智谱涨超6%，联想涨近4%，网易跌超3%，京东健康、蔚来、哔哩哔哩跌超2%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场</title><link>https://wallstreetcn.com/articles/3777627</link><guid>a15ba44793fc631343e3db84304d79076581f4ed0c55d9eb82f71a4e909c1d02</guid><pubDate>Wed, 22 Jul 2026 02:18:32 GMT</pubDate><description>&lt;p&gt;7月21日，OpenAI和HuggingFace联合发了一篇博客，披露了一件让整个AI圈瞠目结舌的事。&lt;/p&gt;
 &lt;p&gt;OpenAI的AI模型在一次内部关于网络攻击能力的测试中“失控出逃”，突破沙盒隔离，入侵了AI开源平台Hugging Face的生产系统。OpenAI将此定性为“前所未有的网络安全事件”。&lt;/p&gt;
 &lt;p&gt;更戏剧性的是后续：Hugging Face在尝试用美国主流AI模型展开防御时，发现这些模型因安全护栏限制无法处理恶意载荷，&lt;strong&gt;最终不得不转用中国智谱AI的开源模型GLM 5.2完成溯源分析。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;总的来说就是，&lt;strong&gt;OpenAI的模型自己“越狱”跑出去黑了别人的系统，被攻击方还得用中国模型来救场。&lt;/strong&gt;&lt;/p&gt;
@@ -421,51 +369,35 @@ OpenAI的回应与后续措施
 &lt;p&gt;OpenAI在与Hugging Face联合发布的声明中表示，正在采取一系列补救措施：&lt;/p&gt;
 &lt;p&gt;在漏洞修复期间，对基础设施配置实施严格管控，代价是研究速度放缓；与Hugging Face联合开展取证调查；已向相关第三方软件供应商负责任地披露了被利用的零日漏洞；将Hugging Face纳入“可信访问计划”，支持其利用OpenAI模型能力强化防御。&lt;/p&gt;
 &lt;p&gt;OpenAI同时表示，将加强未来训练和评估环节的安全保护，并指出此次事件“表明需要进一步强化模型对齐、评估期间的网络防护，以及内部测试期间的监控”。&lt;/p&gt;
-&lt;p&gt;Hugging Face CEO Delangue在联合声明中表示：“这一事件可能是同类事件中的首例，它证明了我们长期以来的一个判断：AI安全不会由任何一家公司在封闭中解决，它将在开放环境中、通过协作、让每一位防御者都能广泛获取AI的方式来解决。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重挫之后逼近“超卖”，黄金见底了吗？</title><link>https://wallstreetcn.com/articles/3777611</link><guid>650330f0189e88dd465df8e6cfe14bf489a91479b7f85528ca291c9d3e834601</guid><pubDate>Wed, 22 Jul 2026 00:25:04 GMT</pubDate><description>&lt;p&gt;经历数月深度调整，黄金正站在技术与基本面交汇的关键节点上。&lt;/p&gt;
-&lt;p&gt;今年2月底以来，金价累计下跌约22%，但多项技术指标显示卖压正在衰竭。周线RSI已逼近超卖区域，日线图则出现RSI底背离信号。&lt;/p&gt;
+&lt;p&gt;Hugging Face CEO Delangue在联合声明中表示：“这一事件可能是同类事件中的首例，它证明了我们长期以来的一个判断：AI安全不会由任何一家公司在封闭中解决，它将在开放环境中、通过协作、让每一位防御者都能广泛获取AI的方式来解决。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 如何观察“超级厄尔尼诺交易”？油气“反应最快”，棕榈油、椰子油和橡胶等“热带农产品”弹性最大</title><link>https://wallstreetcn.com/articles/3777619</link><guid>8a19e3ef1c3eb308c6b43577dbdcb3a545b30b6fdc025ff3f70c022720d816d8</guid><pubDate>Wed, 22 Jul 2026 01:03:33 GMT</pubDate><description>&lt;p&gt;季节性气候预测显示，2026年可能出现有记录以来最强的厄尔尼诺事件。面对这一潜在的历史级气候冲击，大宗商品市场将如何响应，成为投资者当前最关注的议题之一。&lt;/p&gt;
+&lt;p&gt;据追风交易台，巴克莱在7月21日发布的跨资产研究报告中指出，油气价格是厄尔尼诺周期中反应最快的品种——历史上，厄尔尼诺往往带来北半球暖冬，压低供暖需求，并抑制大西洋飓风活动，从而同步拖累天然气与原油价格。与此同时，棕榈油、椰子油和橡胶等集中于东南亚的热带农产品，则展现出最强的历史上行弹性，强厄尔尼诺事件发生后18个月内，上述品种价格涨幅可达30%至40%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;巴克莱的分析框架将大宗商品的厄尔尼诺响应划分为三个层次：能源品种率先反应，热带农产品随后跟进，工业金属的响应则明显滞后，往往在事件发生一年后才显现。&lt;/strong&gt;这一时序差异，为投资者提供了分阶段布局的参考路径。值得注意的是，报告同时提示，历史价格变动仅反映统计规律，并非对未来走势的预测，宏观环境、供需基本面及地缘政治等因素均可能主导个别事件的实际结果。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，实物需求保持韧性，投机性多头仓位处于历史低位，市场整体情绪趋于冷漠。这一组合正在积累一次潜在&amp;quot;逼空&amp;quot;行情所需的条件。&lt;/p&gt;
-&lt;p&gt;不过UBS首席投资办公室大宗商品策略师Giovanni Staunono指出，&lt;strong&gt;历史上黄金表现最佳的时期往往对应实际利率下行阶段，而当前美联储政策路径仍存在相当不确定性。&lt;/strong&gt;&lt;/p&gt;
+油气：最先反应，但方向向下
+&lt;p&gt;在厄尔尼诺周期中，天然气和原油是价格响应最为迅速的品种，但方向与热带农产品截然相反——历史数据显示，两者价格均倾向于走弱。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析显示，厄尔尼诺条件下，欧洲天然气价格历史上较趋势水平低9%至28%，强度越大，偏离幅度越显著。其传导机制清晰：厄尔尼诺带来北半球暖冬，削减供暖需求，推高欧洲冬季末库存，进而压低夏季液化天然气（LNG）补库需求。若2026/27年冬季偏暖，欧洲冬末库存可能大幅高于正常水平，对气价形成持续压制。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国天然气方面，强厄尔尼诺事件历史上对暖冬的预测能力强于其他天气条件。2015-16年厄尔尼诺指数达2.8，当年冬季供暖度日数（HDD）较前七年均值下降16%。当前气候模型显示，本轮厄尔尼诺指数可能追踪至+3至+4，意味着冬季HDD存在15%至20%的下行风险，对应约4至5 Bcf/d的需求损失。叠加二叠纪盆地价格不敏感的伴生气供应持续增长，美国气价下行风险显著。&lt;/p&gt;
+&lt;p&gt;原油方面，油价更应被视为&amp;quot;拉尼娜敏感型&amp;quot;而非&amp;quot;厄尔尼诺敏感型&amp;quot;商品。厄尔尼诺期间，油价历史上较趋势水平低5%至30%；而在拉尼娜阶段，油价历史均值则高出趋势水平17%至40%。厄尔尼诺后期油价的上涨，很大程度上反映的是随后拉尼娜阶段的驱动，而非厄尔尼诺本身的滞后效应。&lt;/p&gt;
+热带农产品：弹性最大，高确信度交易
+&lt;p&gt;巴克莱将棕榈油、椰子油和橡胶列为整个大宗商品体系中厄尔尼诺敏感性最强、历史确信度最高的品种。三者的共同特征是：生产高度集中于东南亚，而该地区恰恰是厄尔尼诺带来高温干旱冲击最为集中的区域。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;棕榈油是最高确信度厄尔尼诺交易品种。印度尼西亚和马来西亚合计占全球供应量近90%，马来西亚棕榈油局（MPOB）研究估计，平均厄尔尼诺事件可使棕榈油产量下降约3%、库存减少约2.5%，价格上涨约10%。&lt;/strong&gt;历史分析进一步显示，强厄尔尼诺事件发生后12个月，实际价格涨幅约为26%，18个月后升至近40%；极强事件样本则显示12个月涨幅约34%。值得关注的是，棕榈油价格往往在厄尔尼诺事件本身期间低于趋势水平，意味着事件启动阶段反而是布局窗口，而非价格表现最强的时段。&lt;/p&gt;
+&lt;p&gt;椰子油的生产高度集中于菲律宾和印度尼西亚。美国农业部（USDA）估计，2024年厄尔尼诺使菲律宾椰子油产量下降近12%。分析显示，温和厄尔尼诺事件后12个月，实际椰子油价格上涨约16%，18个月后约25%；强厄尔尼诺对应18个月涨幅约33%，极强事件样本则显示涨幅可达50%至60%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;天然橡胶（RSS3）方面，泰国、印度尼西亚和越南合计占全球供应量的大部分。厄尔尼诺带来的高温干旱会降低乳胶流量、缩短割胶季节，压低产量。&lt;/strong&gt;2023-24年厄尔尼诺期间，泰国产量估计下降约10%，印度尼西亚下降约15%。历史分析显示，温和厄尔尼诺事件后一年，橡胶价格涨幅约8%至10%，强厄尔尼诺对应涨幅约15%至20%，统计关系稳健，但单次事件间的涨幅差异较大。&lt;/p&gt;
+&lt;p&gt;大豆油的响应逻辑有所不同。大豆主产区集中于美洲，厄尔尼诺通常对美洲产区有利，但大豆油与棕榈油、椰子油在全球食品和生物燃料市场直接竞争，因此其价格受热带油脂供应收紧的溢出效应影响显著。巴大豆油对厄尔尼诺的敏感性高于大豆本身，但低于棕榈油和椰子油。&lt;/p&gt;
+&lt;p&gt;大米方面，厄尔尼诺通过削弱印度夏季季风、增加印度、泰国、越南、印度尼西亚和菲律宾等主产区的干旱风险来影响价格。温和厄尔尼诺事件后12至18个月，实际大米价格历史涨幅约5%至8%，强厄尔尼诺对应涨幅约10%至20%。&lt;/p&gt;
+工业金属：响应滞后，铝最为突出
+&lt;p&gt;与农产品不同，工业金属对厄尔尼诺的响应普遍滞后，且信号强度参差不齐。铝是工业金属中厄尔尼诺敏感性最为清晰的品种，铜的信号则相对微弱。&lt;/p&gt;
+&lt;p&gt;铝的传导机制明确：中国云南省承载约660万吨/年的原铝产能（占全球原铝产量约9%），该省电力供应高度依赖水电（占比约60%至70%）。厄尔尼诺系统性削弱孟加拉湾夏季季风，导致云南水库蓄水不足，进而迫使冶炼厂削减产能。2015-16年干旱导致约30万吨产能削减，2023-24年干旱则导致约115万吨产能削减令。&lt;strong&gt;若本轮超级厄尔尼诺重演20%的削减幅度，约130万吨铝产量面临风险，占全球供应量约1.7%。价格层面，铝在厄尔尼诺事件本身期间往往偏软，但随后在一至两年内逐步走强。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;铜方面，智利北部阿塔卡马/安托法加斯塔/塔拉帕卡地区集中了约420万吨/年的铜产能（占全球供应量约17%），恰好是2015年3月洪灾的重灾区。若2026-27年超级厄尔尼诺峰值出现在2026年10至11月，高风险降雨窗口将落在2027年2至4月。然而，历史分析显示铜价与厄尔尼诺的统计关系相对薄弱，宏观经济环境、中国需求及能源转型投资对铜价的影响远大于天气因素。&lt;/p&gt;
+&lt;p&gt;动力煤的响应最为滞后。历史数据显示，煤价往往在厄尔尼诺事件发生后的第二年才出现明显走强，驱动因素包括亚洲水电发电量下降、降温需求上升以及海运市场趋紧。&lt;/p&gt;
+其他农产品：信号复杂，需区分厄尔尼诺与拉尼娜效应
+&lt;p&gt;玉米、大豆、小麦、高粱等主粮品种对厄尔尼诺的响应较为复杂，巴克莱对这些品种的厄尔尼诺信号持审慎态度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上述品种的共同特征是：厄尔尼诺往往改善美洲主产区的种植条件，导致价格在事件初期走弱；此后的价格回升，则很可能是随之而来的拉尼娜阶段所驱动，而非厄尔尼诺本身的滞后效应。对谷物和棉花的分析应重点关注事件发生后12个月内的价格响应，而非更长时间窗口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;可可的历史表现呈现出较高的事件间差异，少数几次重大供应冲击贡献了大部分观测到的价格信号，Robusta咖啡因主产区越南和印度尼西亚直接暴露于厄尔尼诺干旱风险，历史上强厄尔尼诺事件后12个月价格涨幅约7%至13%，但统计证据弱于棕榈油等品种。&lt;/p&gt;
+&lt;p&gt;拉尼娜——尤其是持续性拉尼娜——往往比厄尔尼诺本身产生更为清晰的市场响应。2020至2023年的持续拉尼娜期间，糖和能源等多个大宗商品市场出现了大幅波动。这意味着，投资者不仅需要关注当前的厄尔尼诺周期，还应密切跟踪其后可能出现的拉尼娜阶段所带来的市场机会。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-技术面：楔形收窄，方向蓄势待发
 
-&lt;p&gt;从图表结构看，黄金目前被夹在两条关键趋势线之间：一条是长期上升支撑线，另一条是自3月初以来持续压制价格的下降阻力线。&lt;/p&gt;
-&lt;p&gt;两线构成的楔形正日益收窄，突破方向将具有决定性意义。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;若金价向上有效突破阻力，技术性逼空的力度可能相当剧烈。&lt;/p&gt;
-&lt;p&gt;值得注意的是，黄金周线RSI经过数月的持续走弱，目前已接近超卖区域，历史上这一水平往往对应阶段性低点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此外，金价目前仍运行于200日均线下方，市场情绪趋于冷漠。分析认为前期不坚定的跟风盘和短线筹码已大部分出清，上方阻力一旦被有效突破，系统性买盘的涌入可能令反弹幅度超出预期。&lt;/p&gt;
 
-期权信号：市场仍在对冲下行，偏斜暗示反转空间
-
-&lt;p&gt;期权市场的定价结构提供了另一个维度的观察。&lt;/p&gt;
-&lt;p&gt;当前黄金期权呈现负偏斜（negative skew），即市场参与者为下行保护支付的权利金溢价，远高于上行期权。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这与黄金通常的定价模式相悖。在常规环境下，黄金往往呈现上行偏斜，因其在危机时刻的避险属性，市场更倾向于为上涨情景付费。&lt;/p&gt;
-&lt;p&gt;当前负偏斜的出现，说明投资者的恐慌心理更多集中在继续下跌的风险上。&lt;/p&gt;
-&lt;p&gt;然而，正是这种普遍的&amp;quot;单边思维&amp;quot;，构成了逼空行情的心理基础。&lt;/p&gt;
-&lt;p&gt;分析人士指出，从期权策略角度看，通过看涨价差（call spread）来捕捉潜在逼空行情具有吸引力，以较低的成本敞口，博取金价向上突破时的非线性收益。&lt;/p&gt;
-
-宏观背景：美联储路径不明，实际利率走势存变数
-
-&lt;p&gt;金价此轮下跌的宏观逻辑，部分源于市场对美联储加息应对通胀的预期。投资者担忧，利率上升将增强现金相对于无息资产黄金的吸引力。&lt;/p&gt;
-&lt;p&gt;然而，美联储的实际政策走向仍充满变数。根据芝商所数据，市场目前对9月前加息的隐含概率约为50%。&lt;/p&gt;
-&lt;p&gt;新任美联储主席沃什对前瞻指引持抵触态度，迄今仅就维护价格稳定发表原则性表态，实质性政策信号极为有限。&lt;/p&gt;
-&lt;p&gt;他还召集了多个工作组，就通胀驱动因素、人工智能对生产率的影响等议题展开研究，相关报告可能要到年底才会出炉。&lt;/p&gt;
-&lt;p&gt;这一不确定性催生出多种情景：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;若美联储在应对油价冲击时行动迟缓，更广泛的通胀压力可能积聚；&lt;/li&gt;
-&lt;li&gt;若AI投资热潮降温迫使美联储放松货币政策，而地缘政治因素又使油价维持高位，实际利率亦可能下行。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;以上两种情景均对黄金构成潜在利好。&lt;/p&gt;
-
-配置逻辑：股市乐观情绪高涨，黄金对冲价值凸显
-
-&lt;p&gt;从资产配置的角度审视，黄金当前的配置逻辑并未被彻底打破。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;股市在此轮地缘冲突期间整体保持强势，权益投资者对AI前景维持高度乐观，对地缘政治及其他潜在风险的警惕程度则相对较低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这种&amp;quot;风险溢价不足&amp;quot;的市场状态，恰恰是保留黄金仓位作为尾部风险对冲的理由所在。&lt;/p&gt;
-&lt;p&gt;UBS首席投资办公室大宗商品策略师Giovanni Staunono指出，黄金的代价是不产生任何收益，但在不确定性集中的时期，维持一定的黄金配置以对冲不可预见风险，对投资者而言具有合理的组合意义。&lt;/p&gt;
-&lt;p&gt;目前来看，技术面信号、持仓结构与实物需求的共振，为黄金潜在的方向性突破提供了条件。但逼空能否真正启动，仍有待美联储政策信号、美元走势及地缘局势演变的进一步明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
