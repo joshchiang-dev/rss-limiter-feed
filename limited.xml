@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 19:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 详解主动ETF--首批试点管理人布局观察</title><link>https://wallstreetcn.com/articles/3777656</link><guid>660577cbd51fcc452aeb33e658dd17708ae6cce07e4c65857ac9bae7feb57977</guid><pubDate>Wed, 22 Jul 2026 08:29:53 GMT</pubDate><description>&lt;p&gt;主动股票ETF正式进入发行倒计时，这一横跨主动与被动投资两大阵营的创新产品，被视为近五年来基金行业力度最大的产品创新。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 20:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 详解主动ETF--首批试点管理人布局观察</title><link>https://wallstreetcn.com/articles/3777656</link><guid>660577cbd51fcc452aeb33e658dd17708ae6cce07e4c65857ac9bae7feb57977</guid><pubDate>Wed, 22 Jul 2026 08:29:53 GMT</pubDate><description>&lt;p&gt;主动股票ETF正式进入发行倒计时，这一横跨主动与被动投资两大阵营的创新产品，被视为近五年来基金行业力度最大的产品创新。&lt;/p&gt;
 &lt;p&gt;7月17日，首批18只主动股票ETF产品发行申请递交证监会并获&amp;quot;接收材料&amp;quot;，涉及18家基金管理人，拟在上交所和深交所上市产品各9只。从产品名称来看，首批布局整体偏向价值/红利、均衡/稳健等方向，反映出管理人在早期产品设计中对组合容量、流动性和持有体验的重视。&lt;/p&gt;
 &lt;p&gt;国泰海通证券在最新研究报告中指出，&lt;strong&gt;在监管规则框架下，主动ETF的策略选择具有相当灵活性，红利增强、PB-ROE、均衡配置等量化策略均可适配，回测数据显示上述策略相对市场基准均能实现可观的长期超额收益。&lt;/strong&gt;但该报告同时提示，历史回测不代表未来收益，主动ETF仍需结合产品策略、基金经理、投资范围、流动性、费率及市场环境独立评估。&lt;/p&gt;
 策略框架：规则约束下的灵活空间
@@ -182,93 +182,7 @@ Alphabet财报成为AI周期重要观察窗口
 &lt;p&gt;&lt;strong&gt;对于市场而言，Alphabet7月22日公布的二季度业绩，关键并不只是盈利和收入表现，而是管理层是否进一步提高AI资本开支预期。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果Alphabet上调2026年资本支出指引，将强化市场对AI基础设施投资周期持续性的判断，并为芯片、存储、先进封装以及数据中心产业链提供新的基本面支撑。&lt;/p&gt;
 &lt;p&gt;反之，如果资本开支低于预期，市场可能重新评估AI投资回报周期，并对相关科技股估值形成短期压力。&lt;/p&gt;
-&lt;p&gt;随着微软、Meta和亚马逊随后公布业绩，华尔街将进一步观察这场AI基础设施竞赛是否仍在加速，以及数千亿美元资本投入能否持续转化为收入增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Rubin备受期待之际，英伟达持续优化Blackwell，GB200能效三个月翻4倍</title><link>https://wallstreetcn.com/articles/3777663</link><guid>94db797fff0dadd20dfa37aa5a56aadffa815f277fa6c813d6c61e65c2461fca</guid><pubDate>Wed, 22 Jul 2026 08:04:50 GMT</pubDate><description>&lt;p&gt;英伟达正以持续的软件栈优化延长Blackwell平台的生命周期，同时为下一代Rubin架构的规模化落地蓄力。&lt;/p&gt;
-&lt;p&gt;在新一代Rubin平台加速部署的背景下，英伟达披露，&lt;strong&gt;仅用三个月时间，便将GB200 NVL72在运行DeepSeek R1 0528模型时的每兆瓦算力吞吐量（TPS/MW）提升了4倍。&lt;/strong&gt;这一成果源自英伟达在四个月内完成的38项重大优化，背后支撑为逾25万次模拟配置测试及累计140万GPU小时的优化验证。&lt;/p&gt;
-&lt;p&gt;与此同时，GB300&amp;quot;Blackwell Ultra&amp;quot;平台在AI训练基准测试中持续刷新纪录。256卡规模下，GB300 NVL72在DeepSeek-V3 671B预训练任务中以每GPU 1648 TFLOPs的成绩创下历史最高纪录，较GB200的606 TFLOPs提升约3倍，且该指标在过去六个月内已累计提升1.5倍。&lt;/p&gt;
-
-GB200能效大幅跃升，优化覆盖90%以上模型
-
-&lt;p&gt;英伟达表示，针对GB200 NVL72平台的系列优化，使其在运行DeepSeek R1 0528（1K输入/1K输出配置）时，每兆瓦算力吞吐量在三个月内实现4倍增长。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;支撑这一提升的，是英伟达在四个月内完成的38项重大优化迭代。这些优化经由超过25万次模拟配置筛选，并累计消耗140万GPU小时进行实测验证。英伟达特别指出，其中逾90%的优化成果可跨模型复用，适用于其AI产品组合中的其他模型，而非专为单一任务量身定制。&lt;/p&gt;
-&lt;p&gt;这意味着，现有数据中心客户无需更换硬件，即可通过软件升级获得显著的能效收益——这对于算力成本高度敏感的超大规模云厂商和企业客户而言，具有直接的经济价值。&lt;/p&gt;
-
-GB300刷新训练纪录，六个月性能提升1.5倍
-
-&lt;p&gt;在AI训练侧，GB300 NVL72同样展现出强劲的性能势头。在256卡规模下，基于Megatron Core框架对DeepSeek-V3 671B模型进行预训练，GB300 NVL72实现了每GPU 1648 TFLOPs的吞吐量，较此前GB200的606 TFLOPs提升约3倍，并创下该任务的全球最高纪录。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，这一数字并非静止的硬件极限。GB300 NVL72在Megatron Core框架下的表现，已从2025年11月的1088 TFLOPs/GPU增长至2026年6月的1648 TFLOPs/GPU，六个月内累计提升约1.5倍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在主流AI框架的协同优化方面，英伟达与PyTorch及JAX社区的深度合作同样带来显著增益。在TorchTitan（PyTorch原生训练栈）上，GB300 NVL72对DeepSeek-V3 671B的训练性能，相较未优化基线配置提升6倍，从199 TFLOPs/GPU跃升至1197 TFLOPs/GPU。JAX框架下的提升幅度更为突出，截至2026年7月，每GPU吞吐量达到4082 Tokens/s，对应1025 TFLOPs/GPU，较2026年1月的418 Tokens/s提升约10倍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-扩展效率接近理论上限，800 Gb/s网络是关键
-
-&lt;p&gt;大规模训练场景下的扩展效率，历来是衡量AI基础设施实用性的核心指标之一。英伟达披露，在256至1024卡的扩展区间内，GB300 NVL72在三大主流框架下均维持了接近理论上限的扩展效率：Megatron Core达到98.5%，TorchTitan与JAX均达到97%。&lt;/p&gt;
-&lt;p&gt;英伟达将这一扩展表现归因于NVL72机架内置的800 Gb/s Scale-Out网络芯片。高速互联直接决定了多机训练中的通信开销，进而影响整体扩展效率，该网络能力被视为支撑上述跨框架高效率表现的核心基础设施组件。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-Rubin平台加速落地，Blackwell优化仍在持续
-
-&lt;p&gt;上述优化进展发布之际，英伟达下一代Vera Rubin平台已进入全球部署阶段。&lt;strong&gt;据报道，Vera Rubin NVL72在Token吞吐量上相较Blackwell实现约10倍提升，GB200 NVL72约为80,000 Tokens/s，而Vera Rubin NVL72在同等150MW功耗下可达800,000 Tokens/s。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，Blackwell平台已在全球无数数据中心完成部署，英伟达的策略与此前Hopper世代如出一辙——在新平台推进的同时，持续通过软件优化挖掘已部署硬件的潜力。这一做法不仅延长了现有客户的硬件投资回报周期，也强化了英伟达在AI基础设施生态中的平台黏性。对于市场而言，英伟达在Blackwell与Rubin双线并进的格局下，正逐步构筑起竞争对手难以在短期内逾越的软件护城河。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超3%，有色金属爆发，科技股陷入调整，恒科指跌超3%，科网股普跌、腾讯大跌7%</title><link>https://wallstreetcn.com/articles/3777630</link><guid>3567da44c83fce8f36cf3c8dad459bde5ac5e271ec23974c320a62d2844b2e3a</guid><pubDate>Wed, 22 Jul 2026 08:19:45 GMT</pubDate><description>&lt;p&gt;国际金价突破4100美元，黄金股掀起涨停潮，资源股全线爆发。算力硬件、芯片半导体等科技股在昨日暴涨后遭遇集中获利回吐，午后持续下跌，存储芯片、PCB板块几乎回吐了昨日全部涨幅。&lt;/p&gt;
-&lt;p&gt;7月22日，A股全天震荡盘整，沪指横盘整理，一度逼近3900点，创业板午后持续下跌，盘中跌3.6%，科创50指数跌超2%，最多跌超3.5%，此前一度涨超1.5%，算力硬件、半导体产业链午后下跌，CPO、PCB、半导体硅片等方向陷入调整，服务器逆势活跃，AI服务器龙头紫光股份一度涨停，有色金属大涨，贵金属掀起涨停潮，午后煤炭、电力等大幅走强。医药股盘中大涨，CRO、创新药一度走强。&lt;/p&gt;
-&lt;p&gt;港股全天低开低走，恒指、恒科指双双下跌，恒科指跌超3%，科网股普遍下跌，腾讯跌超7%，AI大模型股同样回落，MINIMAX大跌超11%。债市方面，国债期货全线走高，30年期国债期货合约大涨。商品方面，国内商品期货多数走高，核心市场走势：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指涨0.07%，深成指跌1.42%，创业板指跌3.23%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股跌多涨少，沪深京三市约3900股飘绿，今日成交2.67万亿。沪深两市成交额2.65万亿，较上一个交易日缩量超3000亿。板块方面，算力硬件产业链再度调整，PCB、超硬材料、玻璃纤维方向领跌；AI应用、影视、网络游戏、锂电池、光刻机、机器人概念股跌幅靠前。贵金属、煤炭、电力、油气板块走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，恒生指数收跌0.95%，恒生科技指数跌3.04%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，权重科网股集体下挫，网易、腾讯控股跌逾7%，快手跌逾5%。AI大模型股同样调整，MINIMAX跌逾11%。有色金属反弹，老铺黄金、紫金矿业涨逾6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线上涨，截至收盘，30年期主力合约涨0.62%，10年期主力合约涨0.14%，5年期主力合约涨0.10%，2年期主力合约涨0.02%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;分析指出，债市走强背后有两重逻辑：一是股市科技成长方向再度调整，避险资金流入债市；二是近期央行持续通过逆回购操作呵护流动性。7月22日央行开展2530亿元7天期逆回购操作，净投放165亿元，DR001、DR007加权平均利率均下行约3bp。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至收盘，能化品领涨，原油涨超5%，燃油、低硫燃料油涨近5%；贵金属集体走高，钯涨超4%，沪银涨近4%，铂涨超3%；农产品多数下跌，豆油、生猪跌超1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-贵金属与有色金属全线爆发
-&lt;p&gt;隔夜金价强势突破4100美元关口是当日资源股行情的核心催化。&lt;/p&gt;
-&lt;p&gt;贵金属方向，山金国际、盛达资源双双涨停。赤峰黄金涨超7%，紫金矿业涨超6%。晓程科技盘中一度涨超11%。兴业银锡实现2连板。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面上，据新华社此前报道，卡塔尔、埃及、巴基斯坦等调解方已向美伊提出为期10天的停火提议，特朗普政府正在研究停火可能性。市场对霍尔木兹海峡通航风险缓和的预期升温，叠加美元走弱，COMEX黄金期货隔夜涨1.69%报4083.7美元/盎司，22日盘中进一步突破4120美元。&lt;/p&gt;
-&lt;p&gt;长江证券研报指出，2026年上半年贵金属板块受美伊冲突下的油价脉冲和联储鹰派加息预期双重压制，触发系统性回撤；当前地缘影响趋缓、油价与通胀回落，流动性约束缓解后，板块有望从估值收缩转向基本面驱动的上行通道。&lt;/p&gt;
-&lt;p&gt;工业金属方向，盛屯矿业涨超9%，金诚信、长裕集团涨停。西部矿业、江西铜业均涨超7%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;供给端扰动持续发酵——智利遭遇强烈冬季风暴，包括Codelco、安托法加斯塔在内的多家大型铜矿启动安全应急预案并调整作业，全球铜精矿供给收紧预期升温。&lt;/p&gt;
-&lt;p&gt;中信证券认为，铜铝供需紧平衡支撑价格中枢上移，全球铜矿产能释放滞后叠加AI数据中心、电网升级及能源转型带来的需求爆发，全球铜供需缺口将持续扩大。预计2026年贵金属将受益于货币属性和避险情绪共振延续强势。&lt;/p&gt;
-煤炭电力：迎峰度夏叠加供给端扰动
-&lt;p&gt;煤炭和电力板块午后强势崛起，成为对冲科技股下跌的重要力量。&lt;/p&gt;
-&lt;p&gt;电力方向，立新能源5连板领涨，华银电力4连板，华电辽能、华电能源走出3天2板。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;催化上，7月21日全国用电负荷再创历史新高，达15.51亿千瓦。入夏以来，南方区域电网及广东、广西、海南等多个省级电网用电负荷累计20多次创历史新高。南方电网7月22日还宣布牵头成立电力行业AI联盟，联合300家单位攻关算电协同。&lt;/p&gt;
-&lt;p&gt;煤炭方向，大有能源涨停，新大洲A、郑州煤电、昊华能源跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，6月全国规模以上工业原煤产量3.8亿吨，同比下降9.7%，创近十年单月最大降幅。北方港口动力煤月均价升至855.52元/吨，同比上涨近40%。&lt;/p&gt;
-算力硬件、芯片半导体午后齐跌：存储、PCB领跌
-&lt;p&gt;昨日暴涨逾10%的科创50指数今天下跌超2%，盘中一度跌3.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;半导体早盘延续昨日强势，科创50盘中一度涨幅超1.5%。午后，半导体板块涨幅快速收敛，科创50从红盘逐步翻绿。存储芯片、光通信方向加速下跌，资金从&amp;quot;全线追科技&amp;quot;迅速转为&amp;quot;集中兑现&amp;quot;。&lt;/p&gt;
-&lt;p&gt;存储芯片方向，德明利8个交易日内第6次跌停，江波龙跌近8%，佰维存储、北京君正跌超6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;PCB方向，中国巨石跌停，铜冠铜箔跌超11%，南亚新材、国际复材等跌幅较大。CPO方向，中际旭创、新易盛午后由涨转跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;光通信方向同样承压。长飞光纤跌近10%，亨通光电跌超8%，中天科技跌超6%。新易盛、中际旭创、天孚通信均跌超5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;多重因素共振导致科技股承压：&lt;/strong&gt;一是公募基金二季报披露完成，科技赛道重仓曝光后触发集中获利了结；二是韩国KOSPI早盘涨6%后跳水，半导体权重股SK海力士转跌，亚太科技股情绪迅速恶化；三是昨日创业板指单日暴涨7%后，短线获利盘了结压力巨大。&lt;/p&gt;
-&lt;p&gt;华西证券认为，本轮回调实质上是对前期过快上涨的良性技术性修复。自2026年4月以来科技主线持续走强，部分赛道估值快速抬升，市场客观上存在估值回归与筹码交换的内在需求。&lt;/p&gt;
-&lt;p&gt;经过近期连续调整，前期累积的获利盘已得到一定程度的消化，短期非理性抛压获得释放。随着拥挤度的回落和交易结构的均衡，技术层面已经打开了反弹修复的空间。&lt;/p&gt;
-&lt;p&gt;广发证券策略首席分析师刘晨明指出，本轮A股市场回调主要由外部输入性因素导致，属于情绪面和资金面冲击，AI产业远未泡沫化，A股大幅下行空间有限。&lt;/p&gt;
-医药股板块盘中异动
-&lt;p&gt;今日盘中，部分医药股大幅冲高。博瑞医药、药康生物涨超10%，美迪西、科伦药业、长春高新、舒泰神、恩华药业等纷纷走高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据央视新闻报道，从国家药监局获悉，一款在全球同步研发、同步申报的新靶点创新药7月21日在我国率先获批上市，实现全球多中心研发的原创靶点创新药，在中国首报首发的历史性突破。&lt;/p&gt;
-&lt;p&gt;此外，医药行业运行稳中有进。 1—6月，规模以上医药工业增加值同比增长6.4%，其中，生物制品增速达到两位数，成为驱动行业发展提速的主要引擎。医药出口交货值超过2100亿元，同比增长9%，出口结构不断优化，化学制剂、生物制品等高附加值产品占比近20%，出口结构正从以原料药为主，向具有高附加值的制剂产品加速切换。&lt;/p&gt;
-&lt;p&gt;根据国家药监局数据，今年1—6月，我国创新药对外授权交易总额约1100亿美元，达到2025年全年总额的八成，再创历史新高。统计显示，今年上半年，我国创新药对外授权交易，涉及肿瘤、代谢、免疫和神经等10个治疗领域，主要受让企业来自美国、英国、法国、意大利等20个国家和地区。&lt;/p&gt;
-&lt;p&gt;兴业证券认为，中国创新药全球竞争力持续加强，政策支持与商业化盈利兑现逻辑不变，BD出海仍是企业在海外销售能力尚未完善阶段拓展全球市场的重要方式，Co-Co模式增多体现企业竞争力与话语权的提升；在海外大药企专利悬崖压力、中国创新药研发优势及国内政策鼓励创新背景下，出海高景气有望延续，板块正由“估值驱动”转向“业绩+全球化兑现驱动”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归</title><link>https://wallstreetcn.com/articles/3777696</link><guid>bb4283be6d6ed05de4c1cc02294c30404fd3f04ab3a808d181652bf36ccb3011</guid><pubDate>Wed, 22 Jul 2026 12:45:50 GMT</pubDate><description>&lt;p&gt;美伊冲突持续升级，全球能源市场正在为一场旷日持久的供应冲击重新定价。&lt;/p&gt;
+&lt;p&gt;随着微软、Meta和亚马逊随后公布业绩，华尔街将进一步观察这场AI基础设施竞赛是否仍在加速，以及数千亿美元资本投入能否持续转化为收入增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归</title><link>https://wallstreetcn.com/articles/3777696</link><guid>bb4283be6d6ed05de4c1cc02294c30404fd3f04ab3a808d181652bf36ccb3011</guid><pubDate>Wed, 22 Jul 2026 12:45:50 GMT</pubDate><description>&lt;p&gt;美伊冲突持续升级，全球能源市场正在为一场旷日持久的供应冲击重新定价。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;布伦特原油周三盘中突破每桶95美元，创六周新高，单日涨幅接近5%。&lt;/strong&gt;与此同时，美国与伊朗双方均明确释放出拒绝谈判的信号，令市场对短期停火的预期几近归零。油价的上涨已不再是单纯的供需逻辑驱动，地缘风险溢价正在成为定价体系中的结构性锚点。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;据央视新闻，当地时间7月22日，美国总统特朗普在社交媒体发文表示，从现在起，只要伊朗在霍尔木兹海峡向船只开火，无论使用导弹、火箭弹、无人机，还是其他装置或武器，美国都将轰炸并摧毁伊朗一座桥梁或发电厂。特朗普称，相关打击目标也包括位于伊朗首都德黑兰附近或德黑兰市内的桥梁和发电厂。&lt;/p&gt;
@@ -332,18 +246,79 @@ Presence瞄准企业软件市场
 &lt;p&gt;&lt;strong&gt;此次推出的Presence并非简单提供模型API，而是将AI模型与企业内部数据、政策、现有软件及业务流程深度打通，帮助企业部署能够自主完成任务的AI代理。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;该平台主要面向客户服务、销售及IT支持等场景，可自动处理账单咨询、保险理赔、员工IT服务请求等具体业务流程。&lt;/p&gt;
 &lt;p&gt;相比单纯出售模型访问权限，这类企业软件产品拥有更高的客户黏性，也能帮助OpenAI建立更加稳定的长期收入来源。目前，Presence采取定制化部署模式，企业需与OpenAI工程师或指定合作伙伴共同完成实施。OpenAI透露，公司已率先将该平台用于自身英语客服热线。&lt;/p&gt;
-&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果牵手Klarna推设备租赁计划，将取代现有iPhone分期付款项目</title><link>https://wallstreetcn.com/articles/3777662</link><guid>d53d03c38c006dad71f70573e5c319fa42661ec372a9b8a5191a86ef5a8e4972</guid><pubDate>Wed, 22 Jul 2026 08:04:21 GMT</pubDate><description>&lt;p&gt;苹果正尝试用&amp;quot;订阅式&amp;quot;销售模式缓解硬件涨价带来的需求压力。&lt;/p&gt;
-&lt;p&gt;7月22日，据报道援引知情人士，&lt;strong&gt;苹果将于当地时间7月28日在美国推出全新的设备租赁服务Apple Upgrade&lt;/strong&gt;，覆盖iPhone、Mac、iPad和Apple Watch等主要产品线，并由瑞典金融科技公司Klarna提供融资支持。&lt;/p&gt;
-&lt;p&gt;这一新计划推出的时点颇具意味。随着AI基础设施投资推高存储芯片等关键零部件成本，苹果今年已上调部分Mac、iPad产品售价，市场也普遍预计9月发布的新一代iPhone将进一步提价。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相比一次性支付数千美元，通过更低的月付成本降低消费者购买门槛，正成为苹果维持硬件销量的新策略。&lt;/strong&gt;&lt;/p&gt;
-从分期付款转向&amp;quot;硬件订阅&amp;quot;
-&lt;p&gt;Apple Upgrade首阶段将在美国苹果官网及线下Apple Store上线，支持大部分iPhone、Mac、iPad及Apple Watch产品。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该服务不同于传统的分期付款，更接近于汽车租赁模式：&lt;/strong&gt;用户通过软信用审核后，按月支付租金，在租赁期间可随时根据自身需求灵活选择——提前一次性买断设备、提前升级至新款产品、租期结束后保留设备（部分情况需额外付费），或直接归还设备。&lt;/p&gt;
-&lt;p&gt;不同产品对应不同租期：iPhone和Apple Watch为24个月，Mac和iPad为36个月。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不过，该计划并非覆盖全部产品。&lt;/strong&gt;AppleCare+不会默认捆绑其中，Apple Watch SE、入门版iPad、iPhone 16、MacBook Neo等部分低价产品暂不支持，教育及企业采购客户也不在适用范围内。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;苹果还将停止接受新用户申请现有的iPhone年年焕新计划以及标准分期付款方案，为Apple Upgrade让路。&lt;/strong&gt;&lt;/p&gt;
-苹果借力Klarna，降低金融业务风险
-&lt;p&gt;Apple Upgrade也意味着苹果重新尝试此前搁置的硬件订阅战略。&lt;/p&gt;
-&lt;p&gt;苹果曾计划自主推出硬件订阅服务，希望让用户像订阅流媒体一样按月使用苹果设备，但该项目已于2024年取消。&lt;strong&gt;此次引入Klarna作为融资合作伙伴，意味着苹果将信贷、资金及坏账风险交由第三方承担，自己则专注于硬件销售和用户生态运营，以更低风险测试新的销售模式。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于Klarna而言，这也是其最具标志性的合作项目之一。借助苹果庞大的终端销售渠道，Klarna有望进一步扩大消费金融业务覆盖范围，因此消息公布后，公司股价一度上涨11%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对今晚谷歌财报关注点及其意义的思考</title><link>http://xueqiu.com/5332385101/401516498</link><guid>e556c30e8197404a67a7f004e6b7d6d5241b4f1b0f073eb87c3f043b804ef366</guid><pubDate>Wed, 22 Jul 2026 10:24:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在经历显著回调后，昨日全球科技迎来爆发。A股迎来回升，半导体产业链在产业催化与资金面回暖的双重共振下掀起涨停潮；而隔夜美股芯片大幅反弹推动指数全线收涨，存储三巨头集体飙升，美光、闪迪、海力士均上涨超12%，半导体设备与设计端也全面走强。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技公司估值的本质：从研发投入到高壁垒价值</title><link>http://xueqiu.com/1633174482/401515105</link><guid>8523bb50aa4ea829baefeac500a4e67fc37f4868717e61b1b8eeea7697494275</guid><pubDate>Wed, 22 Jul 2026 10:23:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;递归奇点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;科技公司的估值，本质上不是对当期利润的贴现，而是对&lt;b&gt;历史上大量累计研发投入所构建的竞争壁垒&lt;/b&gt;的定价。这种壁垒一旦形成，便具有极强的自我强化效应：&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周韩国总统+AI存储双雄同赴美国，与黄仁勋、OpenAI CEO共议AI大计</title><link>https://wallstreetcn.com/articles/3777673</link><guid>5db4e7a7983be1c83c4929d539f06007579841340b093a051e1ba97020d7ab29</guid><pubDate>Wed, 22 Jul 2026 08:51:17 GMT</pubDate><description>&lt;p&gt;韩国总统李在明即将开启横跨美国、南美和德国的五国访问，首站定于硅谷，其中涉及全球AI产业链核心企业的高层会晤，正成为市场关注焦点。&lt;/p&gt;
+&lt;p&gt;7月22日，据韩联社，&lt;strong&gt;李在明将于本周五抵达美国旧金山，展开为期两天的访问，并计划会见OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋等科技行业领袖。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，三星电子执行董事长李在镕、SK 集团会长崔泰源、Naver董事会主席李海珍等韩国企业负责人，也预计将在硅谷与黄仁勋举行会晤。Anthropic首席执行官Dario Amodei预计出席相关活动。&lt;/p&gt;
+&lt;p&gt;若上述阵容最终成行，这场会晤将罕见汇聚韩国两大存储巨头，以及全球GPU、生成式AI和互联网平台领域的核心企业掌门人。&lt;/p&gt;
+&lt;p&gt;在AI基础设施投资持续性成为市场焦点之际，这一系列高层交流是否释放新的采购、制造或数据中心合作信号，将成为观察全球AI产业链下一阶段合作的重要窗口。&lt;/p&gt;
+AI产业链核心玩家齐聚，合作范围或进一步扩大
+&lt;p&gt;&lt;strong&gt;据报道，此次圆桌会议预计将围绕HBM、高性能GPU基础设施及生成式AI展开讨论。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;若各方悉数出席，三星电子、SK海力士、英伟达、Naver、OpenAI及Anthropic负责人将同处一桌，覆盖AI产业链从存储、芯片设计、先进制造到大模型开发的关键环节。&lt;/p&gt;
+&lt;p&gt;市场关注的重点已不再局限于传统芯片采购，而是延伸至AI算力部署、数据中心建设、模型服务及先进制程制造等更深层次合作。随着AI训练和推理需求持续增长，GPU、HBM、云基础设施之间的协同能力正成为行业竞争的新核心。&lt;/p&gt;
+韩国企业持续强化AI供应链地位
+&lt;p&gt;韩国存储厂商已成为全球AI产业链的重要参与者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三星电子与SK海力士目前均向英伟达供应HBM等高端存储产品。&lt;/strong&gt;根据相关报道，两家公司正在推进HBM4产品导入，预计将应用于英伟达下一代AI平台Vera Rubin。&lt;/p&gt;
+&lt;p&gt;除英伟达外，两家公司也是OpenAI自研AI芯片的重要存储供应商，并已签署协议，为Stargate AI基础设施项目提供高性能存储产品。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着韩国企业正由传统存储供应商，进一步向AI基础设施核心合作伙伴转型。&lt;/strong&gt;对于投资者而言，HBM认证进展、产品导入节奏及长期供货协议，仍将是判断AI业务兑现能力的重要指标。&lt;/p&gt;
+先进制程合作或成为下一焦点
+&lt;p&gt;&lt;strong&gt;除存储之外，先进制程制造也可能成为此次会谈的重要议题。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报道称，三星目前正为英伟达生产面向推理应用的语言处理单元（LPU）Grok 3，同时也正与Anthropic讨论采用其2纳米工艺制造AI芯片。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若相关合作取得进一步进展，三星有望同时受益于先进逻辑代工和HBM需求增长，进一步提升其在AI硬件供应链中的战略地位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，相关合作最终仍取决于客户订单、技术验证及产能规划，市场将重点关注会议是否释放有关长期采购、产品路线图或制造合作的更多信号。&lt;/p&gt;
+Naver押注“AI工厂”，基础设施竞争持续升级
+&lt;p&gt;&lt;strong&gt;韩国互联网巨头Naver预计将在会议期间介绍其&amp;quot;AI工厂（AI Factory）&amp;quot;战略。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该方案旨在将GPU服务器、数据中心、电力与冷却系统、AI模型以及云平台整合为统一基础设施，以支撑大规模AI训练和推理需求。&lt;/p&gt;
+&lt;p&gt;这一布局反映出AI竞争正从模型能力，进一步转向算力、能源、数据中心和云服务等基础设施体系的综合竞争。随着模型规模不断扩大，基础设施建设效率和运营能力正成为AI商业化的重要竞争力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于Naver而言，与GPU厂商及大模型开发企业深化合作，也有望进一步提升其AI基础设施部署能力，并扩大韩国本土AI生态的协同空间。&lt;/strong&gt;&lt;/p&gt;
+市场关注AI资本开支是否继续兑现
+&lt;p&gt;此次硅谷会晤恰逢市场持续讨论AI基础设施投资是否接近阶段性高点之际，因此其释放的信号备受资本市场关注。&lt;/p&gt;
+&lt;p&gt;据报道援引业内人士，&lt;strong&gt;若会议能够推动更明确的采购计划、制造合作或基础设施建设安排，将进一步验证AI需求依然稳健，并有助于缓解市场对AI资本开支见顶的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有行业观点认为，HBM供应紧张局面仍可能持续至2027年。如果会议之后释放更清晰的AI基础设施投资路线图或长期合作框架，相关信息将成为观察下一轮AI产业链景气度的重要风向标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本央行官员：愿接受比每半年一次更快的加息节奏</title><link>https://wallstreetcn.com/articles/3777676</link><guid>e5b39509a2dab536b7199806115b291b856f220da8a1d5e5c2e7d30d52d1f05f</guid><pubDate>Wed, 22 Jul 2026 08:30:53 GMT</pubDate><description>&lt;p&gt;日本央行官员释放信号，若通胀上行风险持续，愿意以快于市场普遍预期的节奏推进加息，这一立场使得年内再次升息的前景更加明确。&lt;/p&gt;
+&lt;p&gt;据媒体22日援引知情人士透露，尽管多数经济学家预计日本央行下一次行动将在12月，但央行官员明确表示不存在预设路径，&lt;strong&gt;若有必要，可能在六个月窗口之前采取行动。&lt;/strong&gt;日元近期跌至约四十年来最低水平，对通胀构成新的上行压力，进一步强化了官员的警惕性。隔夜指数掉期数据显示，市场目前已将10月前再次加息的概率计入约72%。&lt;/p&gt;
+&lt;p&gt;上述信号令日本政府债券市场应声反应。2年期日本国债收益率周三升至1995年以来最高水平，5年期收益率亦升至1.995%，日元则从约163.13一线走强至162.69兑美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+通胀接近目标，政策重心悄然转变
+
+&lt;p&gt;报道知情人士表示，&lt;strong&gt;推动官员开放更快加息节奏的核心因素，在于日本潜在通胀率已愈发接近央行逾13年前设定的2%目标。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;官员们注意到，企业将成本向下游传导的速度正在加快，这一定价行为的转变与伊朗冲突爆发后的市场环境密切相关。在此背景下，日元再度走软可能进一步刺激企业提价。&lt;/p&gt;
+&lt;p&gt;值得关注的是，官员对政策任务的理解也在悄然演变——政策重心正从&amp;quot;推动通胀走高&amp;quot;转向&amp;quot;确保通胀稳定锚定在目标附近&amp;quot;，这一逻辑转变意味着即便通胀尚未超标，当局亦有充分理由提前行动。&lt;/p&gt;
+
+日元弱势叠加财政忧虑，干预空间受限
+
+&lt;p&gt;日元近期承压尤为引人关注。日元隔夜一度跌至约四十年来最弱水平，日本政府随即发出潜在干预警告。然而，Pictet Asset Management Japan Ltd.投资策略主管Jumpei Tanaka指出，&lt;strong&gt;&amp;quot;随着市场对扩张性财政政策的担忧加剧，仅靠外汇干预压制日元贬值的空间或已趋于有限。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对此，日本央行官员继续强调，货币政策并不以汇率特定水平为目标，但同时承认日元波动对物价的影响值得高度关注。日元贬值通过推升进口成本，可能进一步助燃通胀，由此形成对加息路径更为直接的压力。&lt;/p&gt;
+
+市场定价领先经济学家，下次会议料按兵不动
+
+&lt;p&gt;市场与经济学家之间的预期分歧已相当显著。据彭博在6月16日加息前开展的经济学家调查显示，约70%的受访者预计日本央行加息节奏约为每半年一次；而市场参与者已对更快节奏有所布局，隔夜指数掉期目前隐含10月前再加息的概率约为72%。&lt;/p&gt;
+&lt;p&gt;就近期而言，市场普遍预期日本央行将在7月31日的董事会会议上维持政策不变。该行上月刚将基准利率上调至1%，为31年来最高水平。知情人士表示，官员们将密切审视后续通胀上行风险，并保留随时调整节奏的灵活性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克继续加码！SpaceX AI在德克萨斯州布局大数据中心，规模或超孟菲斯设施</title><link>https://wallstreetcn.com/articles/3777700</link><guid>86a67143e7a2a36e3b4286f91ba834cfa90f991137f283bfb4bbbd461ade74ac</guid><pubDate>Wed, 22 Jul 2026 13:29:51 GMT</pubDate><description>&lt;p&gt;马斯克旗下人工智能公司SpaceX AI正将其数据中心版图向德克萨斯州延伸，扩张规模剑指与现有孟菲斯设施相当甚至更大的体量，进一步凸显该公司在AI基础设施领域的激进投入策略。&lt;/p&gt;
+&lt;p&gt;据科技媒体The Information周三报道，&lt;strong&gt;SpaceX AI已在德克萨斯州考察多处选址，并着手为至少一座大型数据中心奠定基础。公司已向当地派驻部分现有数据中心员工，并近期在奥斯汀、巴斯特罗普及科罗内发布多个基础设施相关岗位招聘。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次扩张将进一步加重SpaceX AI已然沉重的资本支出负担。该公司一季度AI相关资本支出已跃升至77亿美元，约为去年同期三倍。&lt;/strong&gt;摩根士丹利分析师曾预测SpaceX AI 2026年至2027年合计将消耗1200亿美元现金，主因正是AI基础设施投入。&lt;/p&gt;
+
+多地布局，规模对标孟菲斯
+
+&lt;p&gt;SpaceX AI目前在两座运营中的数据中心之间拥有约1吉瓦算力，安装了数十万块英伟达GPU。&lt;/p&gt;
+&lt;p&gt;据两位知情人士向The Information透露&lt;strong&gt;，SpaceX AI就此次德克萨斯州扩张讨论了多种方案，包括从零新建多座数据中心，以及对现有仓库进行改造——后者与该公司将孟菲斯一处废弃制造设施改建为首座数据中心的路径如出一辙。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Supermicro首席执行官Charles Liang今年6月在X平台表示，该公司正协助SpaceX AI在一年内建设&amp;quot;另一座全新的吉瓦级AI数据中心&amp;quot;，但未透露具体地点。Supermicro此前曾多次公开宣传其向SpaceX AI供应基于英伟达服务器及冷却设备的合作关系。&lt;/p&gt;
+&lt;p&gt;值得注意的是，此次扩张计划目前尚无明确时间表。&lt;/p&gt;
+
+资本消耗高企，多元变现寻求对冲
+
+&lt;p&gt;面对持续攀升的资本支出，SpaceX AI已开始寻求新的收入来源加以平衡。&lt;/p&gt;
+&lt;p&gt;今年6月，该公司宣布将大量算力租赁给Anthropic和谷歌等公司，马斯克表示公司在需要时可收回相关算力。&lt;/p&gt;
+&lt;p&gt;与此同时，SpaceX AI已达成600亿美元收购AI初创公司Cursor的协议，后者致力于拓展编程以外的业务，并计划于今年底前开发领先的通用模型。&lt;/p&gt;
+
+管理层重组，基础设施团队扩编
+
+&lt;p&gt;过去一年，SpaceX AI经历了一系列组织调整。联合创始人Ross Nordeen于今年3月离职，他此前负责监督公司数据中心建设并频繁向马斯克汇报。&lt;/p&gt;
+&lt;p&gt;今年4月初，SpaceX AI总裁Michael Nicolls通过内部备忘录宣布新领导架构：Jake Palmer负责物理基础设施，SpaceX软件工程总监Daniel Dueri负责计算基础设施。&lt;/p&gt;
+&lt;p&gt;在人员配置上，SpaceX AI数据中心团队Colossus在过去一年新增逾40名员工，并于今年2月SpaceX与XAI合并后引入SpaceX员工协助运营。&lt;/p&gt;
+
+天然气依赖引发争议，能源布局延伸多州
+
+&lt;p&gt;在能源保障方面，SpaceX AI高度依赖天然气涡轮机为数据中心补充电网供电，已在田纳西州和密西西比州安装数十台移动涡轮机，并通过与休斯顿Solaris Energy Infrastructure的合资企业在密西西比州开发一座永久性燃气发电厂。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;这一能源策略在孟菲斯引发强烈反对。&lt;/strong&gt;当地居民、政界人士及环保团体对天然气涡轮机使用及用水问题持续施压。&lt;/p&gt;
+&lt;p&gt;今年早些时候，SpaceX AI在削减成本过程中推迟了一项价值8000万美元的废水回收设施建设，进一步激化矛盾。&lt;/p&gt;
+&lt;p&gt;在孟菲斯区域，SpaceX AI仍在推进第三座数据中心建设，并于去年底在密西西比州购置了约75000平方米仓库。此外，SpaceX AI还向佛罗里达州杰克逊维尔派驻了员工，并发布数据中心岗位招聘。马斯克今年5月收购的发电设备供应商APR Energy总部位于杰克逊维尔，在田纳西州、密西西比州和德克萨斯州均有业务，而SpaceX AI此前曾向APR Energy采购涡轮机。&lt;/p&gt;
+&lt;p&gt;德克萨斯州对马斯克而言具有特殊战略意义——SpaceX与特斯拉正在科罗内附近的格莱姆斯县联合建设一座半导体制造设施，SpaceX AI此次选址德克萨斯州亦与马斯克旗下各业务的地理聚合趋势一脉相承。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对今晚谷歌财报关注点及其意义的思考</title><link>http://xueqiu.com/5332385101/401516498</link><guid>e556c30e8197404a67a7f004e6b7d6d5241b4f1b0f073eb87c3f043b804ef366</guid><pubDate>Wed, 22 Jul 2026 10:24:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在经历显著回调后，昨日全球科技迎来爆发。A股迎来回升，半导体产业链在产业催化与资金面回暖的双重共振下掀起涨停潮；而隔夜美股芯片大幅反弹推动指数全线收涨，存储三巨头集体飙升，美光、闪迪、海力士均上涨超12%，半导体设备与设计端也全面走强。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技公司估值的本质：从研发投入到高壁垒价值</title><link>http://xueqiu.com/1633174482/401515105</link><guid>8523bb50aa4ea829baefeac500a4e67fc37f4868717e61b1b8eeea7697494275</guid><pubDate>Wed, 22 Jul 2026 10:23:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;递归奇点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;科技公司的估值，本质上不是对当期利润的贴现，而是对&lt;b&gt;历史上大量累计研发投入所构建的竞争壁垒&lt;/b&gt;的定价。这种壁垒一旦形成，便具有极强的自我强化效应：&lt;/p&gt;</description></item></channel></rss>
