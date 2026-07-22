@@ -1,35 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 16:29:41 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%</title><link>https://wallstreetcn.com/articles/3777614</link><guid>8dc0648356981cc05ff669f8aaef833e4e783fc4aec6d7872e063fed91a01f04</guid><pubDate>Wed, 22 Jul 2026 13:37:25 GMT</pubDate><description>&lt;p&gt;全球科技股持续承压，投资者静待Alphabet财报以验证超大规模云计算商AI支出的回报前景。&lt;/p&gt;
-&lt;p&gt;周三，美股盘初三大指数集体走弱，纳指跌0.5%，道指跌0.1%，标普500指数跌0.2%。存储芯片股与光通信股普遍下跌，SK海力士跌约5%，闪迪跌约4%，迈威尔科技跌约2%。超微电脑逆势大涨约12%，因公司预计第四财季营收接近指引区间底部，且毛利率预期从此前的8.2%–8.4%大幅上调至15%–17%。&lt;/p&gt;
-&lt;p&gt;地缘方面，美伊交火仍在持续。据央视新闻，伊朗方面当地时间22日消息，当天14时48分，伊朗南部拉腊克岛遭到美国导弹袭击。&lt;br&gt;据当地居民反映，岛屿附近传出剧烈爆炸声。有关部门目前正对这次袭击的具体情况展开调查。布伦特原油上涨近3%至每桶93.6美元。&lt;/p&gt;
-&lt;p&gt;Rathbones Asset Management 全球新兴市场股票主管Tim Love表示，人工智能支出和市场集中度上升带来的高回报预期意味着投资者应该做好应对波动的准备。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;美股盘初三大指数集体走弱，纳指跌0.5%，道指跌0.1%，标普500指数跌0.2%。&lt;/li&gt;
-&lt;li&gt;日经225指数收跌0.2%，盘中一度涨超2%，报66115.60点。日本东证指数收涨0.5%，报4033.13点。韩国首尔综指收涨0.7%，报6797.70点。盘中一度涨超6%。&lt;/li&gt;
-&lt;li&gt;日本40年期国债收益率周三上涨2个基点至3.910%。&lt;/li&gt;
-&lt;li&gt;美国10年期和30年期美债收益率推至约两个月高点。&lt;/li&gt;
-&lt;li&gt;日元兑美元小幅变动，此前周二一度跌破163关口，为1986年以来首次。&lt;/li&gt;
-&lt;li&gt;黄金最高上涨1.6%至约每盎司4142美元，创近两周新高。白银上涨1.5%至约每盎司59.60美元，铂金亦随之上扬。&lt;/li&gt;
-&lt;li&gt;布伦特原油上涨近3%至每桶93.6美元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-AI叙事波动不断，美股盘初低开，存储芯片股与光通信股普遍下跌
-&lt;p&gt;美股盘初三大指数集体走弱，纳指跌0.5%，道指跌0.1%，标普500指数跌0.2%。&lt;/p&gt;
-&lt;p&gt;存储芯片股与光通信股普遍下跌，SK海力士跌约5%，闪迪跌约4%，迈威尔科技跌约2%。超微电脑逆势大涨约12%，因公司预计第四财季营收接近指引区间底部，且毛利率预期从此前的8.2%–8.4%大幅上调至15%–17%。&lt;/p&gt;
-&lt;p&gt;而过去数周，AI相关股票经历了剧烈波动，市场开始质疑巨额AI资本支出能否转化为相应回报。&lt;/p&gt;
-&lt;p&gt;eToro的Bret Kenwell指出：&amp;quot;举证责任已经改变。投资者不再只是问公司能否扛过不确定性，他们要的是足够强劲的增长和业绩指引，来支撑当前的高估值。&amp;quot;&lt;/p&gt;
-&lt;p&gt;LPL Financial的Adam Turnquist则认为，近期的回调并非基本面恶化的信号：&amp;quot;AI的长期逻辑看起来依然完好。近期的调整更像是一次健康的重置，而非AI投资主题的根本性崩溃。&amp;quot;&lt;/p&gt;
-&lt;p&gt;高盛策略师也在报告中指出，美股盈利增长应能在下半年继续支撑股价，尽管短期内多头仓位偏高和宏观逆风仍构成压力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-油价持续走高，美债承压
-
-&lt;p&gt;支撑市场的乐观情绪正面临来自大宗商品市场的对冲。布伦特原油本周持续攀升，特朗普淡化与伊朗立即展开谈判的可能性，地缘政治溢价进一步推高油价，并将10年期和30年期美债收益率推至约两个月高点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;KCM Trade悉尼首席市场分析师Tim Waterer在报告中写道，市场正在学会与高油价共存，但&amp;quot;关键问题在于，这种状态能持续多久&amp;quot;。他指出，&amp;quot;目前强劲的企业盈利正在救场，帮助市场将注意力从油价上涨这一事实上引开。&amp;quot;&lt;/p&gt;
-&lt;p&gt;日本40年期国债收益率周三上涨2个基点至3.910%。日元方面，日元兑美元小幅变动，此前周二一度跌破163关口，为1986年以来首次。日本财务大臣片山皋月重申，必要时将对外汇采取行动，当局对汇率问题的立场没有改变。&lt;/p&gt;
-&lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 详解主动ETF--首批试点管理人布局观察</title><link>https://wallstreetcn.com/articles/3777656</link><guid>660577cbd51fcc452aeb33e658dd17708ae6cce07e4c65857ac9bae7feb57977</guid><pubDate>Wed, 22 Jul 2026 08:29:53 GMT</pubDate><description>&lt;p&gt;主动股票ETF正式进入发行倒计时，这一横跨主动与被动投资两大阵营的创新产品，被视为近五年来基金行业力度最大的产品创新。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 16:59:38 GMT</lastBuildDate><item><title>[华尔街见闻] 详解主动ETF--首批试点管理人布局观察</title><link>https://wallstreetcn.com/articles/3777656</link><guid>660577cbd51fcc452aeb33e658dd17708ae6cce07e4c65857ac9bae7feb57977</guid><pubDate>Wed, 22 Jul 2026 08:29:53 GMT</pubDate><description>&lt;p&gt;主动股票ETF正式进入发行倒计时，这一横跨主动与被动投资两大阵营的创新产品，被视为近五年来基金行业力度最大的产品创新。&lt;/p&gt;
 &lt;p&gt;7月17日，首批18只主动股票ETF产品发行申请递交证监会并获&amp;quot;接收材料&amp;quot;，涉及18家基金管理人，拟在上交所和深交所上市产品各9只。从产品名称来看，首批布局整体偏向价值/红利、均衡/稳健等方向，反映出管理人在早期产品设计中对组合容量、流动性和持有体验的重视。&lt;/p&gt;
 &lt;p&gt;国泰海通证券在最新研究报告中指出，&lt;strong&gt;在监管规则框架下，主动ETF的策略选择具有相当灵活性，红利增强、PB-ROE、均衡配置等量化策略均可适配，回测数据显示上述策略相对市场基准均能实现可观的长期超额收益。&lt;/strong&gt;但该报告同时提示，历史回测不代表未来收益，主动ETF仍需结合产品策略、基金经理、投资范围、流动性、费率及市场环境独立评估。&lt;/p&gt;
 策略框架：规则约束下的灵活空间
@@ -96,7 +66,37 @@ AI数据中心推动电力需求爆发，燃气轮机订单持续飙升
 &lt;p&gt;&lt;strong&gt;公司预计：全年营收达到455亿至465亿美元；自由现金流达到115亿至125亿美元；调整后EBITDA利润率维持12%至14%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其中，电力业务有机增长预期由16%-18%上调至18%-20%，EBITDA利润率目标为17%-19%；电气化业务收入目标提升至145亿至150亿美元，EBITDA利润率目标为18%-20%。&lt;/p&gt;
 &lt;p&gt;1760亿美元在手订单，意味着GE Vernova未来数年的增长确定性正在增强。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，&lt;strong&gt;公司的核心变化已经不只是能源设备制造商，而是在AI时代成为“算力背后的电力基础设施供应商”。&lt;/strong&gt;随着数据中心、电网升级和全球能源需求持续增长，这一轮电力投资周期或仍处于早期阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 台积电赴美建厂，利润会被吃掉多少？</title><link>https://wallstreetcn.com/articles/3777653</link><guid>4153fa1b750f24f5928d0f2e08dfebe4122ac3454466b9995c879bc0515ffef6</guid><pubDate>Wed, 22 Jul 2026 07:01:09 GMT</pubDate><description>&lt;p&gt;特朗普的&amp;quot;美国制造&amp;quot;压力正在转化为台积电真实的利润代价。这家全球最大晶圆代工厂在创下季度盈利纪录的同时，&lt;strong&gt;也首次明确量化了海外扩张对毛利率的侵蚀幅度，而这一压力在未来数年内将持续加剧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于投资者而言，&lt;strong&gt;公司的核心变化已经不只是能源设备制造商，而是在AI时代成为“算力背后的电力基础设施供应商”。&lt;/strong&gt;随着数据中心、电网升级和全球能源需求持续增长，这一轮电力投资周期或仍处于早期阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%</title><link>https://wallstreetcn.com/articles/3777614</link><guid>8dc0648356981cc05ff669f8aaef833e4e783fc4aec6d7872e063fed91a01f04</guid><pubDate>Wed, 22 Jul 2026 13:37:25 GMT</pubDate><description>&lt;p&gt;全球科技股持续承压，投资者静待Alphabet财报以验证超大规模云计算商AI支出的回报前景。&lt;/p&gt;
+&lt;p&gt;周三，美股盘初三大指数集体走弱，纳指跌0.5%，道指跌0.1%，标普500指数跌0.2%。存储芯片股与光通信股普遍下跌，SK海力士跌约5%，闪迪跌约4%，迈威尔科技跌约2%。超微电脑逆势大涨约12%，因公司预计第四财季营收接近指引区间底部，且毛利率预期从此前的8.2%–8.4%大幅上调至15%–17%。&lt;/p&gt;
+&lt;p&gt;地缘方面，美伊交火仍在持续。据央视新闻，伊朗方面当地时间22日消息，当天14时48分，伊朗南部拉腊克岛遭到美国导弹袭击。&lt;br&gt;据当地居民反映，岛屿附近传出剧烈爆炸声。有关部门目前正对这次袭击的具体情况展开调查。布伦特原油上涨近3%至每桶93.6美元。&lt;/p&gt;
+&lt;p&gt;Rathbones Asset Management 全球新兴市场股票主管Tim Love表示，人工智能支出和市场集中度上升带来的高回报预期意味着投资者应该做好应对波动的准备。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;美股盘初三大指数集体走弱，纳指跌0.5%，道指跌0.1%，标普500指数跌0.2%。&lt;/li&gt;
+&lt;li&gt;日经225指数收跌0.2%，盘中一度涨超2%，报66115.60点。日本东证指数收涨0.5%，报4033.13点。韩国首尔综指收涨0.7%，报6797.70点。盘中一度涨超6%。&lt;/li&gt;
+&lt;li&gt;日本40年期国债收益率周三上涨2个基点至3.910%。&lt;/li&gt;
+&lt;li&gt;美国10年期和30年期美债收益率推至约两个月高点。&lt;/li&gt;
+&lt;li&gt;日元兑美元小幅变动，此前周二一度跌破163关口，为1986年以来首次。&lt;/li&gt;
+&lt;li&gt;黄金最高上涨1.6%至约每盎司4142美元，创近两周新高。白银上涨1.5%至约每盎司59.60美元，铂金亦随之上扬。&lt;/li&gt;
+&lt;li&gt;布伦特原油上涨近3%至每桶93.6美元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+AI叙事波动不断，美股盘初低开，存储芯片股与光通信股普遍下跌
+&lt;p&gt;美股盘初三大指数集体走弱，纳指跌0.5%，道指跌0.1%，标普500指数跌0.2%。&lt;/p&gt;
+&lt;p&gt;存储芯片股与光通信股普遍下跌，SK海力士跌约5%，闪迪跌约4%，迈威尔科技跌约2%。超微电脑逆势大涨约12%，因公司预计第四财季营收接近指引区间底部，且毛利率预期从此前的8.2%–8.4%大幅上调至15%–17%。&lt;/p&gt;
+&lt;p&gt;而过去数周，AI相关股票经历了剧烈波动，市场开始质疑巨额AI资本支出能否转化为相应回报。&lt;/p&gt;
+&lt;p&gt;eToro的Bret Kenwell指出：&amp;quot;举证责任已经改变。投资者不再只是问公司能否扛过不确定性，他们要的是足够强劲的增长和业绩指引，来支撑当前的高估值。&amp;quot;&lt;/p&gt;
+&lt;p&gt;LPL Financial的Adam Turnquist则认为，近期的回调并非基本面恶化的信号：&amp;quot;AI的长期逻辑看起来依然完好。近期的调整更像是一次健康的重置，而非AI投资主题的根本性崩溃。&amp;quot;&lt;/p&gt;
+&lt;p&gt;高盛策略师也在报告中指出，美股盈利增长应能在下半年继续支撑股价，尽管短期内多头仓位偏高和宏观逆风仍构成压力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+油价持续走高，美债承压
+
+&lt;p&gt;支撑市场的乐观情绪正面临来自大宗商品市场的对冲。布伦特原油本周持续攀升，特朗普淡化与伊朗立即展开谈判的可能性，地缘政治溢价进一步推高油价，并将10年期和30年期美债收益率推至约两个月高点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;KCM Trade悉尼首席市场分析师Tim Waterer在报告中写道，市场正在学会与高油价共存，但&amp;quot;关键问题在于，这种状态能持续多久&amp;quot;。他指出，&amp;quot;目前强劲的企业盈利正在救场，帮助市场将注意力从油价上涨这一事实上引开。&amp;quot;&lt;/p&gt;
+&lt;p&gt;日本40年期国债收益率周三上涨2个基点至3.910%。日元方面，日元兑美元小幅变动，此前周二一度跌破163关口，为1986年以来首次。日本财务大臣片山皋月重申，必要时将对外汇采取行动，当局对汇率问题的立场没有改变。&lt;/p&gt;
+&lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 台积电赴美建厂，利润会被吃掉多少？</title><link>https://wallstreetcn.com/articles/3777653</link><guid>4153fa1b750f24f5928d0f2e08dfebe4122ac3454466b9995c879bc0515ffef6</guid><pubDate>Wed, 22 Jul 2026 07:01:09 GMT</pubDate><description>&lt;p&gt;特朗普的&amp;quot;美国制造&amp;quot;压力正在转化为台积电真实的利润代价。这家全球最大晶圆代工厂在创下季度盈利纪录的同时，&lt;strong&gt;也首次明确量化了海外扩张对毛利率的侵蚀幅度，而这一压力在未来数年内将持续加剧。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;台积电本季度净利润同比大涨77.4%，再度刷新纪录，但亮眼业绩背后，海外晶圆厂的扩张已开始拖累整体利润率。台积电首席财务官Wendell Huang在财报电话会议上表示，毛利率虽高于此前指引，但被海外晶圆厂的摊薄效应所抵消，并警告随着海外项目在未来&amp;quot;数年&amp;quot;内陆续投产，利润率将进一步承压。&lt;/p&gt;
 &lt;p&gt;与此同时，据日经新闻报道，台积电计划于2027年对先进制程及成熟制程芯片双双提价，幅度最高达10%，部分成本压力或将向客户转移。&lt;/p&gt;
 &lt;p&gt;自特朗普2025年重返白宫以来，台积电已累计宣布对美投资承诺达2000亿美元，其中包括上周刚刚披露的1000亿美元先进半导体制造及封装设施投资计划。白宫发言人向CNBC表示，&amp;quot;台积电及其他半导体公司数以万亿美元计的投资，正是特朗普贸易与经济政策的成果。&amp;quot;&lt;/p&gt;
