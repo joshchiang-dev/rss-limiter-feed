@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 20:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] AI数据中心订单爆发，GE Vernova Q2营收同比增长22%，EPS逊于预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3777684</link><guid>4d34bb3702c753c93176b26294128037c2d090ca2a4219230650f512ed70f088</guid><pubDate>Wed, 22 Jul 2026 10:58:13 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 21:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] IBM二季度营收仅增长1%，下调全年营收预期，大型机销售骤降拖累业绩｜财报见闻</title><link>https://wallstreetcn.com/articles/3777722</link><guid>0e982fdda55d5f55908700c82c1703e0b33aca932d6199c8fee64b57e198901c</guid><pubDate>Wed, 22 Jul 2026 21:18:10 GMT</pubDate><description>&lt;p&gt;IBM二季度营收与利润均未达预期，并将全年营收增长预期从逾5%下调至4%至5%。不过公司在一周前已发布盈利预警，IBM盘后股价涨约3%。&lt;/p&gt;
+&lt;p&gt;7月22日美股盘后，IBM公布二季度财报，&lt;strong&gt;营收同比仅增长约1%至172亿美元，调整后每股收益2.93美元，均低于分析师预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IBM将2026年营收增速预期从4月时的&amp;quot;逾5%&amp;quot;下调至&amp;quot;4%至5%&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师预计，随着大型机销售异常周期逐步消化，以及软件业务持续推进，IBM全年自由现金流指引能否兑现将成为市场下一阶段的关注焦点。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3776921"&gt;华尔街见闻提及&lt;/a&gt;，首席执行官Arvind Krishna上周致信投资者时指出，企业客户在预期价格上涨前抢先采购硬件，导致Z系列大型机及交易处理软件销售表现低于计划。&lt;/p&gt;
+&lt;p&gt;财报公布后，股价盘后涨约3%。今年迄今累计下跌约30%，而同期标普500指数上涨约10%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+大型机销售骤降，拖累整体业绩
+
+&lt;p&gt;&lt;strong&gt;IBM二季度基础设施业务营收38.4亿美元，同比下降7%，其中Z系列大型机营收同比骤降42%，是本季度业绩承压的核心原因。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kavanaugh解释称，需求下滑主要源于客户的采购时序错位，企业抢在预期涨价前集中采购硬件，导致正常周期内的销售需求提前透支。&lt;/p&gt;
+&lt;p&gt;这也使咨询业务营收53.3亿美元，同比持平，未能对整体形成有效支撑。&lt;/p&gt;
+&lt;p&gt;IBM上周发布的初步业绩数据已揭示上述问题，周三正式公布的营收及调整后每股收益数字与一周前披露的数据基本吻合。&lt;/p&gt;
+&lt;p&gt;这一罕见的盈利预警举动在科技行业较为少见，当时已引发市场强烈反应，当时股价单日暴跌25%，创下IBM有史以来最大单日跌幅。&lt;/p&gt;
+
+软件业务相对稳健，支撑利润空间
+
+&lt;p&gt;相较于基础设施业务的大幅下滑，IBM高利润率的软件部门表现较为稳健。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二季度软件业务营收77.6亿美元，同比增长5%。&lt;/strong&gt;&lt;strong&gt;Kavanaugh表示，软件部门全年营收增速预期维持在6%至8%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IBM近年来通过收购Red Hat、HashiCorp和Confluent，大力推进向高增长软件公司的战略转型，软件业务已成为公司利润的重要来源。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，IBM也面临来自人工智能颠覆的市场质疑。&lt;/strong&gt;华尔街见闻提及，星巴克正考虑以内部自建工具替换包括IBM在内的多家供应商的软件。&lt;/p&gt;
+&lt;p&gt;对此，Kavanaugh表示，星巴克每年在该应用上向IBM支付约200万美元，他本人也承认该应用&amp;quot;容易被AI颠覆&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但他同时强调，IBM绝大多数软件产品深度嵌入客户的业务基础设施与数据体系，替换难度远高于此类边缘应用。&lt;/strong&gt;&lt;/p&gt;
+
+加速降本，应对增长压力
+
+&lt;p&gt;面对业绩放缓，IBM宣布将加速推进成本削减举措。&lt;/p&gt;
+&lt;p&gt;Kavanaugh表示，相关措施包括削减第三方技术支出、优化供应链管理以及压降行政成本，预计全年员工总数维持基本稳定。&lt;/p&gt;
+&lt;p&gt;IBM在周三声明中表示，公司正借助人工智能扩大软件开发规模、提升销售与营销效能，并优化供应链。声明表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这些举措有助于提升利润率和自由现金流，并增强公司把握重要增长机遇的能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;与此同时，IBM在本季度签署了一份意向书，计划在美国建设一座量子芯片代工厂，并推出了AI编程工具Bob。该工具基于多种生成式模型，目前已有逾8万名员工采用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心订单爆发，GE Vernova Q2营收同比增长22%，EPS逊于预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3777684</link><guid>4d34bb3702c753c93176b26294128037c2d090ca2a4219230650f512ed70f088</guid><pubDate>Wed, 22 Jul 2026 10:58:13 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;在全球数据中心建设加速、人工智能推动用电需求激增的背景下，电力设备供应商迎来新一轮景气周期。通用电气剥离后的能源巨头GE Vernova二季度业绩大幅超预期，并上调全年营收和现金流指引，显示电网、电气化和燃气发电设备需求正在进入加速阶段。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;公司二季度营收同比增长22%至111亿美元，订单金额达到创纪录的242亿美元，同比增长88%。&lt;/strong&gt;其中，电力业务受益于燃气轮机需求爆发，电气化业务则直接受益于AI数据中心扩张，今年以来来自数据中心客户的订单已超过50亿美元。&lt;/p&gt;
 &lt;p&gt;受强劲订单和盈利改善推动，&lt;strong&gt;GE Vernova将2026年营收预期上调至455亿至465亿美元&lt;/strong&gt;，同时将自由现金流目标从65亿至75亿美元大幅提升至115亿至125亿美元。公司1760亿美元在手订单，也为未来增长提供了充足保障。&lt;/p&gt;
@@ -214,7 +247,80 @@ Presence瞄准企业软件市场
 &lt;p&gt;&lt;strong&gt;此次推出的Presence并非简单提供模型API，而是将AI模型与企业内部数据、政策、现有软件及业务流程深度打通，帮助企业部署能够自主完成任务的AI代理。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;该平台主要面向客户服务、销售及IT支持等场景，可自动处理账单咨询、保险理赔、员工IT服务请求等具体业务流程。&lt;/p&gt;
 &lt;p&gt;相比单纯出售模型访问权限，这类企业软件产品拥有更高的客户黏性，也能帮助OpenAI建立更加稳定的长期收入来源。目前，Presence采取定制化部署模式，企业需与OpenAI工程师或指定合作伙伴共同完成实施。OpenAI透露，公司已率先将该平台用于自身英语客服热线。&lt;/p&gt;
-&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克继续加码！SpaceX AI在德克萨斯州布局大数据中心，规模或超孟菲斯设施</title><link>https://wallstreetcn.com/articles/3777700</link><guid>86a67143e7a2a36e3b4286f91ba834cfa90f991137f283bfb4bbbd461ade74ac</guid><pubDate>Wed, 22 Jul 2026 13:29:51 GMT</pubDate><description>&lt;p&gt;马斯克旗下人工智能公司SpaceX AI正将其数据中心版图向德克萨斯州延伸，扩张规模剑指与现有孟菲斯设施相当甚至更大的体量，进一步凸显该公司在AI基础设施领域的激进投入策略。&lt;/p&gt;
+&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI狂热与巨头“吸血”：美股年内股权融资破3000亿美元，超级周期还是流动性大考？</title><link>https://wallstreetcn.com/articles/3777715</link><guid>ffa2a882c674bdbed3a7fdca52bbf625d201554e27cd6b4fbc78fe6bc6006957</guid><pubDate>Wed, 22 Jul 2026 21:18:17 GMT</pubDate><description>&lt;p&gt;美股股权融资市场今年以来规模急剧扩张。&lt;/p&gt;
+&lt;p&gt;7月22日，据The Information报道，&lt;strong&gt;美国年内股票销售总额已突破3000亿美元，远超华尔街此前预估的2000亿至2250亿美元区间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX与Alphabet的大规模融资是推高全年数据的主要来源。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;天量融资不仅折射出科技企业对AI资本开支的极度渴求，也对公开市场的流动性承接能力提出了实质性考验，巨头的融资效应正在重塑市场资金格局。&lt;/p&gt;
+&lt;p&gt;随着更多超级独角兽和科技巨头排队入场，全年融资规模有望进一步攀升，市场正步入一个由AI叙事驱动的股权融资“超级周期”。&lt;/p&gt;
+巨头主导的融资结构
+&lt;p&gt;本轮融资爆发是IPO、增发及可转债等多渠道共振的结果。其中，SpaceX的天量IPO与谷歌的创纪录增发构成了绝对主力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX&lt;/strong&gt;以每股135美元融资750亿美元上市，估值达1.75万亿美元。其招股书显示，2025年资本支出达207亿美元，约60%流向AI，募资将主要用于扩展 AI算力与卫星网络。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谷歌&lt;/strong&gt;为了应对高达1800亿到1900亿美元的年度AI资本开支，&lt;strong&gt;公司通过增发普通股、发售强制可转换优先股及 ATM（市价增发）计划，开启了高达800亿到900 亿美元规模的史诗级股权融资&lt;/strong&gt;，成为推高已上市公司再融资规模的最大主力。&lt;/p&gt;
+&lt;p&gt;此外，仅SpaceX、OpenAI和 Anthropic等超级独角兽的上市计划，预计就将额外带动700亿美元的 AI 支出。&lt;/p&gt;
+&lt;p&gt;若叠加头部云服务商超7500亿美元的资本开支，庞大的资金缺口迫使巨头们纷纷打开股权融资闸门。&lt;/p&gt;
+独角兽IPO节奏出现分化
+&lt;p&gt;规模数据亮眼，但个体层面的情况要复杂得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX&lt;/strong&gt;上市后股价承压，叠加科技股近期的剧烈波动，市场对大型科技IPO的胃口明显收窄。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;目前倾向于将IPO推迟至2027年，CEO Sam Altman的目标估值是1万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic&lt;/strong&gt;虽已秘密提交IPO申请，但上市时间预期也调整至最早今年10月。这个节奏本身说明了一些问题，即便是最热门的AI资产，也需要等待市场准备好接受这个价格。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;即便部分独角兽推迟了时间表，待发行项目仍然拥挤。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI、Anthropic等百亿美元级别的发行还在队列中，Alphabet等已上市企业也可能通过增发或可转债进行后续融资。全年总规模大概率还会继续上升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对投资者而言，这个趋势有两面。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;天量股权融资会持续从二级市场抽走流动性，&lt;strong&gt;非AI板块的压力短期内不会消失。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另一面是&lt;/strong&gt;，这些融资最终会转化为AI硬件采购和基础设施投入，为相关产业链提供实质性的订单支撑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两件事会同时发生，市场的结构性分化大概率还会持续一段时间。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] "债券义警"阴影重现，30年期美债收益率高于5%的天数创近二十年最多</title><link>https://wallstreetcn.com/articles/3777721</link><guid>48c1eff5b71891797ab94871304c4e183bc46191a0fcf8dcfbb56c059a76c17f</guid><pubDate>Wed, 22 Jul 2026 21:18:24 GMT</pubDate><description>&lt;p&gt;美国30年期国债收益率今年持续走高，引发市场对财政纪律失守的深度警惕。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;截至周三，30年期美债收益率已连续第12个交易日高于5%，超过5月创下的连续11天纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今年迄今，该收益率共有27个交易日高于5%，约占全部交易日的19%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，经通胀调整后的30年期实际收益率今年已上涨约50个基点，接近3%，上次触及这一水平是在2008年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;长期收益率的持续高企，基金经理普遍转向5至7年期债券以规避长端风险，部分长期多头机构亦已翻转立场，而&amp;quot;债券义警&amp;quot;卷土重来的担忧则成为横亘市场的最大尾部风险。&lt;/p&gt;
+
+风险溢价抬升，与2007年的关键差异
+
+&lt;p&gt;今年30年期美债收益率高于5%的交易日数量仅次于2007年的50天，但两者背景存在本质差异。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2007年，美联储基准利率比当前水平高出约150个基点。这意味着，与次贷危机初期相比，当前投资者要求的风险溢价实际上更高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nuveen资管的固定收益策略主管Tony Rodriguez指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;影响更大的是主权债务和财政赤字处于极高水平，这使长期利率维持高位。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自2007年以来，美国国债市场规模已从4.5万亿美元膨胀至31万亿美元，债务占GDP比重翻番至100%以上，美国财政部年度利息成本亦突破1万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;惠誉评级近期警告称，美国债务负担&amp;quot;远高于&amp;quot;其他同样获得AA评级的国家。&lt;/strong&gt;&lt;/p&gt;
+
+财政压力叠加供给冲击，长端承压难解
+
+&lt;p&gt;长期美债的压力来自多个方向的共振。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一方面&lt;/strong&gt;，华尔街交易商预计美国财政部最早将于2027年5月开始增加2年至30年期附息国债的拍卖规模，供给端的潜在扩张令市场提前定价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另一方面&lt;/strong&gt;，超过5000亿美元的人工智能相关融资正在公司债市场密集发行，争夺有限的债券买家资金。&lt;/p&gt;
+&lt;p&gt;WisdomTree投资策略主管Kevin Flanagan表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在评估收益率曲线长端的合理价值时，财政赤字、未偿债务以及未来美国国债拍卖规模可能增加都是需要考虑的因素。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自2020年疫情以来，全球多国债务均大幅增加。但除英国外，美国30年期国债收益率已高于日本和法国等其他主要债务国。&lt;/p&gt;
+
+长期多头阵营松动，传统买家选择增多
+
+&lt;p&gt;债务担忧已促使部分坚定多头转变立场。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hoisington资管公司本月早些时候放弃了坚守数十年的美国长期国债看多立场，认为更大的财政赤字和更高的资本需求可能使通胀和长期收益率持续维持高位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vanguard资本管理公司的高级投资组合经理Alex Payne指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;过去几年里，每当收益率达到5%，市场都会迅速买入，而&lt;strong&gt;现在养老金和保险公司等30年期国债的传统买家，拥有比过去更多的选择。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;他补充称，目前还不能确定收益率是否已经见顶。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一判断与当前资产配置趋势相互印证。基金经理整体上更青睐5至7年期债券，以在长期收益率飙升时限制损失。&lt;/strong&gt;&lt;/p&gt;
+
+&amp;quot;债券义警&amp;quot;或已重返，市场面临压力测试
+
+&lt;p&gt;在市场参与者看来，当前局面与上世纪80年代&lt;strong&gt;&amp;quot;债券义警&amp;quot;&lt;/strong&gt;横行的时代已颇为相似，&lt;strong&gt;投资者通过推高长期收益率向政府施加财政压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Haverford Trust投资策略主管Hank Smith表示，该公司已在近几个月增加对短期美国国债的配置，对非应税客户不再配置10年以上期限的债券，Hank Smith说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在我们看来，风险回报并不划算。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Smith坦言，过去20年客户反复询问他高债务的隐患，他的回答始终是&amp;quot;当债务真正成为这个国家的问题时，债券市场会告诉你。&amp;quot;&lt;/p&gt;
+&lt;p&gt;他表示，目前美债拍卖尚未显现疲弱迹象，但警告称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;包括债券市场和股票市场在内，我们认为市场面临的最大风险是&amp;#x27;债券义警&amp;#x27;可能卷土重来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一旦出现由财政问题引发的剧烈债市动荡，所有人都将面临考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克继续加码！SpaceX AI在德克萨斯州布局大数据中心，规模或超孟菲斯设施</title><link>https://wallstreetcn.com/articles/3777700</link><guid>86a67143e7a2a36e3b4286f91ba834cfa90f991137f283bfb4bbbd461ade74ac</guid><pubDate>Wed, 22 Jul 2026 13:29:51 GMT</pubDate><description>&lt;p&gt;马斯克旗下人工智能公司SpaceX AI正将其数据中心版图向德克萨斯州延伸，扩张规模剑指与现有孟菲斯设施相当甚至更大的体量，进一步凸显该公司在AI基础设施领域的激进投入策略。&lt;/p&gt;
 &lt;p&gt;据科技媒体The Information周三报道，&lt;strong&gt;SpaceX AI已在德克萨斯州考察多处选址，并着手为至少一座大型数据中心奠定基础。公司已向当地派驻部分现有数据中心员工，并近期在奥斯汀、巴斯特罗普及科罗内发布多个基础设施相关岗位招聘。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此次扩张将进一步加重SpaceX AI已然沉重的资本支出负担。该公司一季度AI相关资本支出已跃升至77亿美元，约为去年同期三倍。&lt;/strong&gt;摩根士丹利分析师曾预测SpaceX AI 2026年至2027年合计将消耗1200亿美元现金，主因正是AI基础设施投入。&lt;/p&gt;
 
@@ -257,72 +363,4 @@ Sinokor开出六个月薪资奖金
 美国主导通行方案效果存疑
 &lt;p&gt;据路透社报道，航运公司正在刻意绕开美国主导的、沿阿曼海岸线设立的霍尔木兹通行走廊，原因是在伊美谅解备忘录（MoU）框架下，绕过伊朗指定航道的船只已多次遭到袭击。&lt;/p&gt;
 &lt;p&gt;一位航运业内人士表示，美国方面似乎对当前局势已失去掌控。风险咨询机构Verisk Maplecroft分析师Torbjorn Solvedt警告称，伊朗持续具备打击阿曼航线船只的能力，这使得特朗普政府维持海峡通行的计划难以奏效。&lt;/p&gt;
-&lt;p&gt;当前局势表明，在地缘政治风险尚未实质性缓解的背景下，单纯依靠经济激励手段维系霍尔木兹海峡航运秩序的空间极为有限，全球能源供应链所面临的压力短期内难以消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国小企业掀起Salesforce“退订潮”，用AI自建软件大幅压缩成本</title><link>https://wallstreetcn.com/articles/3777668</link><guid>d00cabd66cc24c969109e7d267d036118671522cc73901ef18afecb3cb6e9e4a</guid><pubDate>Wed, 22 Jul 2026 09:15:24 GMT</pubDate><description>&lt;p&gt;美国多家小型企业正借助AI编程工具抛弃Salesforce等传统企业软件，每年节省数万至数十万美元，令投资者对SaaS行业长期增长逻辑的担忧进一步加剧。&lt;/p&gt;
-&lt;p&gt;近日，据The Information报道，过去六个月内，&lt;strong&gt;至少五家员工规模在20至70人之间的初创企业和小型公司，已终止与Salesforce或HubSpot的合同，转而使用Anthropic、Lovable、Replit等AI工具自行开发替代应用，实现了大幅降本。&lt;/strong&gt;这一趋势尽管目前仍局限于小型客户群体，但已引发市场对传统企业软件商能否维持过去十余年高增长态势的质疑。&lt;/p&gt;
-&lt;p&gt;Salesforce、ServiceNow等企业软件巨头正采取防御性姿态，一方面强调客户续约率保持稳健，另一方面着力强化自身作为企业与AI大模型之间“不可或缺的中间层”的定位。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;以Anthropic、Palantir为代表的AI原生公司，其增长速度已显著超越上述传统软件厂商，市场对“SaaSpocalypse”（SaaS末日）的讨论也随之持续升温。&lt;/strong&gt;&lt;/p&gt;
-小企业&amp;quot;出逃&amp;quot;案例：百万成本压缩至千元级别
-&lt;p&gt;多个具体案例揭示了这一趋势的规模与速度。&lt;/p&gt;
-&lt;p&gt;亚特兰大房地产投资管理公司Greenleaf Management约有55名员工，此前不仅向Salesforce支付订阅费，还专门雇用了一名全职员工和一名外部顾问来维护其Salesforce账户。&lt;/p&gt;
-&lt;p&gt;该公司合伙人Dave Codrea表示，公司使用Replit和Claude Code开发了定制应用，替代了Salesforce的CRM功能，同时退出了与房地产软件公司Entrata和Yardi的合同，&lt;strong&gt;每年节省约10万美元，新应用的月维护成本仅约300美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;西雅图职业橄榄球队Seawolves的所有者Adrian Balfour表示，球队70人团队中的四名工程师用Claude Code在四个月内开发出一款应用，替代了Salesforce CRM和票务系统AXS，&lt;strong&gt;软件支出减少约10万美元，今年3月赛季开始以来收入同比增长约25%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;南卡罗来纳州医疗软件公司Hank AI（24名全职员工）&lt;strong&gt;在今年1月不再续签与Salesforce每年4万美元的合同，转而用Claude Code自建应用，预计年费约500美元。&lt;/strong&gt;犹他州初创公司Atonom（45人）同样在1月放弃了4万美元年费的Salesforce合同，改用Lovable构建定制CRM，预计年运营成本仅1200美元。&lt;/p&gt;
-大企业也在试水，但阻力更大
-&lt;p&gt;&lt;strong&gt;这一趋势并非完全局限于小型企业，部分大公司也开始探索类似路径，但面临更复杂的挑战。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;法国生物制药巨头赛诺菲（Sanofi）约有7.5万名员工，其首席数字官Emmanuel Frenehard表示，公司正削减对ServiceNow的使用，转而通过Claude Code和Cursor构建AI代理，结合犹他州初创公司Elementum的软件及Snowflake存储的数据来处理设备故障报告等任务。&lt;/p&gt;
-&lt;p&gt;赛诺菲的目标是将目前由ServiceNow、其他软件及外包公司处理的80%工作量转移出去，每年至少节省1000万美元。Frenehard坦言，这一变革在其团队内部&amp;quot;遭遇了相当大的阻力&amp;quot;。&lt;/p&gt;
-&lt;p&gt;IT咨询公司Loka的CEO Bobby Mukherjee表示，&lt;strong&gt;少数客户已通过自建AI替代方案将年度软件成本降低40%至80%，但他通常建议客户保留现有SaaS应用，因为替换过程缓慢，且&amp;quot;会将工程资源从真正能形成业务差异化的事情上拉走&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他表示，&amp;quot;更聪明的做法通常是在现有系统之上构建&amp;quot;，并强调&amp;quot;没有严肃的人在预测HubSpot或Salesforce的死亡&amp;quot;。&lt;/p&gt;
-SaaS巨头反驳：企业级可靠性无法&amp;quot;vibe coding&amp;quot;替代
-&lt;p&gt;面对外界质疑，Salesforce等传统软件商积极为自身商业模式辩护，并以续约数据作为支撑。&lt;/p&gt;
-&lt;p&gt;Salesforce总裁Srini Tallapragada去年秋季在投资者电话会议上表示，&lt;strong&gt;企业客户&amp;quot;都尝试过自己动手，但他们意识到，你无法靠vibe coding实现企业级的可靠性和安全性&amp;quot;。&lt;/strong&gt;ServiceNow则表示，其客户大多在&amp;quot;扩大ServiceNow的使用范围，而非离开&amp;quot;，并援引今年一季度97%的合同续约率作为佐证，该数据在近几个季度保持稳定。&lt;/p&gt;
-&lt;p&gt;然而，市场对这一叙事的信心并不稳固。The Information此前报道，OpenAI高管在今年早些时候的投资者演示中表示，预计公司未来产品将替代Salesforce、Workday、Adobe和Atlassian等公司的软件。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;部分大型企业在增加对Anthropic等AI供应商预算的同时，正在缩短与传统企业软件商的合同期限或要求更优惠的条款。&lt;/strong&gt;&lt;/p&gt;
-真实替换成本：数据迁移仍是最大壁垒
-&lt;p&gt;尽管小企业的替换案例引人注目，但分析人士指出，大规模迁移面临的技术与组织障碍不容低估。&lt;/p&gt;
-&lt;p&gt;Bobby Mukherjee指出，企业软件的&amp;quot;真实总拥有成本&amp;quot;通常是标价的四倍，但&amp;quot;将其彻底替换仍是最后手段&amp;quot;。&lt;strong&gt;Salesforce等平台的核心黏性在于企业多年来持续叠加的定制化代码（即&amp;quot;工作流&amp;quot;），这些工作流追踪从产品目录到定价再到客户承诺的方方面面，许多大型企业还专门雇用团队来维护这些工作流，进一步推高了迁移成本。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;企业旅行管理应用Engine的高管Demetri Salvaggio表示，其公司拥有约1000名员工，已是Salesforce近十年的客户，他估计若要迁移，至少需要一年时间，目前没有离开的计划。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，当前的核心问题在于：AI编程工具的能力提升是否会将这一趋势从小型企业蔓延至中大型客户群体。若AI在编程和处理大型数据库方面持续进步，SaaS供应商对大客户的影响力同样面临被侵蚀的风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 投资者悄然转移阵地：美股网络安全龙头三个月涨幅超100%</title><link>https://wallstreetcn.com/articles/3777687</link><guid>1238c4e14129fc46cd6895749cf2c3b864eb4df3d024cdec66f603daafa0174f</guid><pubDate>Wed, 22 Jul 2026 11:19:51 GMT</pubDate><description>&lt;p&gt;当市场目光聚焦于AI板块的震荡与动能因子的剧烈波动时，一场悄然发生的资金迁徙正在网络安全软件领域上演。过去三个月，美股部分头部安全软件股票涨幅已超过100%，云计算需求同步回暖，共同勾勒出科技板块内部一幅结构性轮动的图景。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美国网络安全巨头Palo Alto Networks与Rapid7领涨，三个月内涨幅均超过100%。CrowdStrike、Qualys、Fortinet、Okta及Tenable紧随其后，区间涨幅介于85%至95%之间。与此同时，主要云服务提供商的业务增速也在AI需求驱动下重新提速。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一轮行情的背景是动能因子（momentum factor）的剧烈震荡——该因子在经历33%的回撤后，单日反弹幅度超过9%，创下近五年最大单日涨幅。高盛数据显示，动能因子的30日波动率相对于大盘指数波动率处于极度偏高水平，市场或将持续出现极端单日行情。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-被低估的轮动主线
-&lt;p&gt;在AI概念股调整与动能因子剧烈波动吸引大量眼球之际，资金已在安全软件赛道完成了一轮显著的积累。&lt;/p&gt;
-&lt;p&gt;据市场数据，Palo Alto Networks与Rapid7过去三个月涨幅均突破100%，CrowdStrike、Qualys、Fortinet、Okta及Tenable的涨幅则集中在85%至95%区间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从估值角度看，&lt;strong&gt;Palo Alto Networks与CrowdStrike的远期EV/Sales倍数已随股价大幅抬升，但投资者目前仍在持续买入。&lt;/strong&gt;这一现象表明，市场对网络安全需求的长期增长逻辑给予了较高溢价，而非单纯的短期投机行为。&lt;/p&gt;
-云计算需求重新加速
-&lt;p&gt;据Coatue数据，主要云服务提供商的业务增速正随AI采用率的提升而重新加快。&lt;/p&gt;
-&lt;p&gt;这为科技板块的整体估值提供了基本面支撑，也是安全软件需求持续扩张的重要背景——企业云化进程的深化，直接带动了对身份验证、端点保护及云安全产品的采购需求。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-动能即AI：因子交易的结构性特征
-&lt;p&gt;高盛Marquee平台数据显示，&lt;strong&gt;动能因子与AI相关资产的相关性已升至95%以上的极端水平，意味着动能交易在实质上等同于AI交易。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一结构性特征解释了为何AI板块的每一次波动，都会在动能因子层面产生放大效应，并波及更广泛的科技持仓。&lt;/p&gt;
-&lt;p&gt;对于量化策略之外的普通投资者而言，这意味着即便并未直接参与因子交易，其科技持仓的实际风险敞口也与AI主题高度绑定。&lt;/p&gt;
-多空分歧：泡沫争议持续升温
-&lt;p&gt;市场对当前科技估值的判断存在明显分歧。&lt;/p&gt;
-&lt;p&gt;看多方面，富达的Timmer认为，尽管标普500的价格走势与1999年的轨迹高度吻合，但基本面状况&amp;quot;远比26年前健康&amp;quot;，不必过度担忧泡沫风险。研究机构Numera则指出，科技股回报通常与IT硬件、软件及半导体需求的变化同步，但今年科技股涨幅相对于需求的实际爆发程度仍显不足，暗示上行空间尚未充分释放。&lt;/p&gt;
-&lt;p&gt;看空方面，半导体板块市值占比已达标普500总市值的14%，接近互联网泡沫峰值的两倍。市场策略师Andy Constan直言：&amp;quot;我们正处于泡沫之中。不知道顶部是否已至，但如果泡沫在此刻破裂，走势将与互联网泡沫高度相似——先是数月的震荡整理。&amp;quot;&lt;/p&gt;
-&lt;p&gt;苹果的估值则提供了另一个参照坐标：该公司市销率已接近11倍，为其历史最高水平，据Bilello数据显示，这一数字超越了公司历史上任何一个时间节点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对今晚谷歌财报关注点及其意义的思考</title><link>http://xueqiu.com/5332385101/401516498</link><guid>e556c30e8197404a67a7f004e6b7d6d5241b4f1b0f073eb87c3f043b804ef366</guid><pubDate>Wed, 22 Jul 2026 10:24:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在经历显著回调后，昨日全球科技迎来爆发。A股迎来回升，半导体产业链在产业催化与资金面回暖的双重共振下掀起涨停潮；而隔夜美股芯片大幅反弹推动指数全线收涨，存储三巨头集体飙升，美光、闪迪、海力士均上涨超12%，半导体设备与设计端也全面走强。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技公司估值的本质：从研发投入到高壁垒价值</title><link>http://xueqiu.com/1633174482/401515105</link><guid>8523bb50aa4ea829baefeac500a4e67fc37f4868717e61b1b8eeea7697494275</guid><pubDate>Wed, 22 Jul 2026 10:23:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;递归奇点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;科技公司的估值，本质上不是对当期利润的贴现，而是对&lt;b&gt;历史上大量累计研发投入所构建的竞争壁垒&lt;/b&gt;的定价。这种壁垒一旦形成，便具有极强的自我强化效应：&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD拿下Anthropic数百亿美元芯片大单，另将投资50亿美元获股权</title><link>https://wallstreetcn.com/articles/3777697</link><guid>000a0513414b5272841acc43d3c63752f44e999e23421d6cad4ec48a9e583b5a</guid><pubDate>Wed, 22 Jul 2026 12:31:49 GMT</pubDate><description>&lt;p&gt;据华尔街日报周三报道，AMD与Anthropic签署一项涵盖数百亿美元AI服务器的重磅交易，同时计划向Anthropic投资最多50亿美元。&lt;/p&gt;
-&lt;p&gt;这是AMD迄今为止规模最大的客户协议之一，也标志着其首次对Anthropic进行股权投资。市场将此解读为AMD在高端AI芯片市场对英伟达发起实质性挑战的信号。对于Anthropic而言，这笔交易将为其提供急需的算力资源，以缓解近期因用户需求激增引发的服务中断问题。&lt;/p&gt;
-&lt;p&gt;根据协议条款，&lt;strong&gt;Anthropic将于2027年上半年起采购AMD最新一代Instinct MI450芯片，总量高达2吉瓦。AMD方面的50亿美元投资将依据特定部署里程碑分批到位。&lt;/strong&gt;AMD首席执行官苏姿丰表示，双方工程团队已合作一段时间，&amp;quot;我们非常希望成为他们基础设施的重要组成部分。&amp;quot;&lt;/p&gt;
-&lt;p&gt;报道称，一位知情人士透露，AMD还在就为Anthropic未来的数据中心租约提供财务担保进行磋商。&lt;/p&gt;
-
-AMD投资入局，构建深度绑定
-
-&lt;p&gt;AMD对Anthropic的50亿美元投资是其首次向这家AI公司注资，体现出这笔交易远超单纯的供应商关系。&lt;/p&gt;
-&lt;p&gt;根据协议，Anthropic将通过两种途径部署AMD芯片：一部分用于自建数据中心，另一部分通过大型云服务商或新兴云平台（neocloud）租用相应算力。苏姿丰表示，双方正在共同寻址符合条件的数据中心。&lt;/p&gt;
-&lt;p&gt;在工程层面，双方还签署了一项技术合作协议，Anthropic将以其Claude模型协助AMD优化芯片性能。苏姿丰将这种深度协作视为交易的核心价值所在，&amp;quot;你不可能某天一觉醒来就说，&amp;#x27;我明天要一吉瓦算力，&amp;#x27;你实际上必须提前12到18乃至24个月进行规划。&amp;quot;&lt;/p&gt;
-
-补强算力缺口，缓解Anthropic服务压力
-
-&lt;p&gt;对于Anthropic而言，这笔交易的迫切性有迹可循。近期，用户需求的急剧攀升已导致公司不得不限制用户使用频次，部分客户频繁遭遇服务中断，Anthropic在AI赛道的领先优势因此面临考验。&lt;/p&gt;
-&lt;p&gt;目前，Anthropic的算力来源多元，涵盖谷歌张量处理器（TPU）、亚马逊Trainium芯片以及英伟达GPU。此番引入AMD芯片，将进一步分散其供应商集中风险，拓宽计算资源池。&lt;/p&gt;
-&lt;p&gt;今年早些时候，Anthropic已相继与谷歌、亚马逊及马斯克旗下SpaceX签署新的算力合作协议——SpaceX近期开始将其积累的闲置数据中心容量对外出售。此次AMD协议的达成，意味着Anthropic正在快速构建更为多元化的算力供应体系。&lt;/p&gt;
-
-AMD借大客户策略，正面竞争英伟达
-
-&lt;p&gt;AMD近年来一直在加速争夺AI芯片市场份额，而Anthropic协议是这一战略的最新体现。此前，AMD已相继与OpenAI和Meta Platforms签署大规模芯片供应协议，并持续向更多AI初创企业拓展客户版图。&lt;/p&gt;
-&lt;p&gt;AMD面临的核心挑战在于软件生态适配性——AI公司对运行AMD芯片所需软件的熟悉程度普遍低于英伟达，这在一定程度上压制了市场需求。为此，AMD向大客户提供了一系列优惠条件，包括公司认股权证等激励措施。&lt;/p&gt;
-&lt;p&gt;在更广泛的行业背景下，具备投资级信用评级的大型科技企业正越来越多地为AI初创公司的租约或债务提供信用背书，以帮助后者以更优惠的条件获得融资。据华尔街日报，谷歌此前已为Anthropic的部分数据中心交易提供担保，协助其获取谷歌TPU资源。AMD此番跟进这一模式，显示出其在AI基础设施市场争夺战中的战略雄心正在持续升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;当前局势表明，在地缘政治风险尚未实质性缓解的背景下，单纯依靠经济激励手段维系霍尔木兹海峡航运秩序的空间极为有限，全球能源供应链所面临的压力短期内难以消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对今晚谷歌财报关注点及其意义的思考</title><link>http://xueqiu.com/5332385101/401516498</link><guid>e556c30e8197404a67a7f004e6b7d6d5241b4f1b0f073eb87c3f043b804ef366</guid><pubDate>Wed, 22 Jul 2026 10:24:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在经历显著回调后，昨日全球科技迎来爆发。A股迎来回升，半导体产业链在产业催化与资金面回暖的双重共振下掀起涨停潮；而隔夜美股芯片大幅反弹推动指数全线收涨，存储三巨头集体飙升，美光、闪迪、海力士均上涨超12%，半导体设备与设计端也全面走强。&lt;/p&gt;</description></item><item><title>[今日雪球] 科技公司估值的本质：从研发投入到高壁垒价值</title><link>http://xueqiu.com/1633174482/401515105</link><guid>8523bb50aa4ea829baefeac500a4e67fc37f4868717e61b1b8eeea7697494275</guid><pubDate>Wed, 22 Jul 2026 10:23:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;递归奇点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;科技公司的估值，本质上不是对当期利润的贴现，而是对&lt;b&gt;历史上大量累计研发投入所构建的竞争壁垒&lt;/b&gt;的定价。这种壁垒一旦形成，便具有极强的自我强化效应：&lt;/p&gt;</description></item></channel></rss>
