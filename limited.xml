@@ -1,42 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 01:29:40 GMT</lastBuildDate><item><title>[华尔街见闻] 亚太股市集体冲高，韩股涨幅扩大至6%、SK海力士涨7%，日股涨超1%</title><link>https://wallstreetcn.com/articles/3777614</link><guid>8dc0648356981cc05ff669f8aaef833e4e783fc4aec6d7872e063fed91a01f04</guid><pubDate>Wed, 22 Jul 2026 00:33:38 GMT</pubDate><description>&lt;p&gt;7月22日周二，受到隔夜美股芯片股大涨提振，亚太股市延续强劲反弹态势。MSCI亚太指数上涨1%至269.25点。韩国首尔综指高开高走，涨幅迅速扩大至6%，三星电子涨超5%，SK海力士涨7%。韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。日经225指数日内涨幅扩大至1.1%。&lt;/p&gt;
-&lt;p&gt;隔夜，科技股力撑美股指反弹，纳指100收涨1.9%。美股存储芯片指数暴涨11.12%，美光市值重回万亿。半导体指数大涨5.2%，创六周最佳日涨幅。&lt;/p&gt;
-&lt;p&gt;Evercore ISI首席股票及量化策略师Julian Emanuel表示，他预期科技股财报将推动市场下一轮上涨，并看好当前被市场“冷落”的科技股存在上行空间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-反弹背后：AI叙事的重建
-&lt;p&gt;当下多重利好叠加推动了这轮芯片股的反弹行情：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 01:59:44 GMT</lastBuildDate><item><title>[华尔街见闻] 低估Azure和Copilot的拐点！大摩：市场只给微软“16倍PE”太低了</title><link>https://wallstreetcn.com/articles/3777616</link><guid>732ad397e3d2170e0b6d25658a029a0d909d52303db861cdd758be27e4cf77c0</guid><pubDate>Wed, 22 Jul 2026 01:53:51 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为微软正站在AI变现周期的关键转折点，而市场似乎尚未充分定价这一机遇。&lt;/p&gt;
+&lt;p&gt;追风交易台消息，7月21日，摩根士丹利Adam Wood团队发表研报，&lt;strong&gt;微软Azure云业务增长即将进入加速通道，Copilot商业化路径也正从单一座位收费演变为三轮驱动的扩张机会。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研报指出，&lt;strong&gt;以当前股价计算对应的隐含市盈率（PE）仅约16倍，但对于一家盈利增速料超20%的科技龙头而言，16倍PE明显低估了其内在价值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然该行近期因考虑到毛利率承压、资本支出与债务增加，将微软12至18个月的目标价从650美元下调至600美元，但仍维持“增持”评级，仍较当前股价隐含约50%的上行空间。&lt;/p&gt;
+
+&amp;quot;16倍PE&amp;quot;意味着什么？
+
+&lt;p&gt;简单来说，“16倍PE”意味着市场目前给微软的估值被严重低估了。&lt;/p&gt;
+&lt;p&gt;这个数字是拿微软当前402.29美元的股价，除以摩根士丹利预测的2028财年每股收益23.86美元计算出来的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在美股估值逻辑中，合理的市盈率（PE）通常应该匹配公司的盈利增速，即PEG等于1。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微软2028财年的预测增速高达21.6%，正常情况下至少能拿到 21倍以上的PE。而同类大市值软件公司因为确定性高，市场甚至给到了1.4倍PEG，相当于把21.6%的增速放大到30倍左右的PE。&lt;/p&gt;
+&lt;p&gt;相比之下，市场只给微软不到17倍的远期市盈率，意味着你用买慢速增长公司的便宜价格，买到了每年增长超20%的高增长巨头。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根士丹利认为这种定价逻辑存在明显偏差。如果保守按照低于同行的1.2倍 PEG（对应约25倍PE）重新评估，用2028财年预测的23.86美元收益乘以25倍 PE，微软的合理目标价应该在600美元左右。&lt;/strong&gt;&lt;/p&gt;
+
+Azure：供给释放打开加速空间
+
+&lt;p&gt;Azure增长预期改善，是摩根士丹利看多微软的最重要催化剂之一。&lt;/p&gt;
+&lt;p&gt;（微软Azure人工智能变现模式）&lt;/p&gt;
+&lt;p&gt;过去一年，Azure增长的瓶颈在于供给不足。微软管理层持续强调，客户需求始终超过可用产能，公司同时需要在Azure外部客户服务、第一方应用（如Copilot）及内部研发之间平衡算力分配。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软CFO Amy Hood曾在F2Q26财报电话会议上披露，若将Q1和Q2新上线的GPU全部分配给Azure，该季度Azure增速将超过40%，而非已公布的38%（按固定汇率计算）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;随着新增产能陆续投产，摩根士丹利认为这种供给约束正在缓解，Azure增长有望迎来持续加速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;管理层已给出2026年下半年Azure增速环比上半年加速的指引，且信心足够明确。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根士丹利因此上调Azure收入预测，预计28财年和29财年Azure及其他云服务收入分别达到2149亿和3059亿美元，较市场一致预期高出5%和7.8%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（摩根士丹利上调未来年度的Azure营收预测）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析师认为，市场低估了此次Azure加速的幅度与持续性。&lt;/strong&gt;历史上，积压的受限需求一旦产能释放，往往会带动增长超预期并维持更长时间。&lt;/p&gt;
+
+Copilot：从&amp;quot;卖座位&amp;quot;到三引擎ARPU扩张
+
+&lt;p&gt;Copilot的变现逻辑正在发生结构性转变，摩根士丹利认为这是微软历史上最重要的ARPU（单用户平均贡献收入）扩张机会之一。&lt;/p&gt;
+&lt;p&gt;过去一年，Copilot的主要议题是产品市场契合度与企业部署规模是否可行。如今，讨论焦点已转向商业化路径与长期收入规模。&lt;/p&gt;
+&lt;p&gt;摩根士丹利将Copilot驱动的ARPU增长概括为三个引擎：&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;英伟达&lt;/strong&gt;宣布最新芯片设计已开始向客户交付&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;英特尔&lt;/strong&gt;因宣布进一步裁员计划而股价上涨，市场将其解读为降本提效信号&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;超微电脑（Super Micro Computer）&lt;/strong&gt;盘后大涨，公司更新显示订单积压持续增长&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;据《日经新闻》报道，&lt;strong&gt;台积电&lt;/strong&gt;计划于2027年将芯片代工价格上调最高10%，其美国存托凭证随之上涨&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其一&lt;/strong&gt;，M365 Copilot直接座位数扩张；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其二&lt;/strong&gt;，企业客户向更高价值的M365 E7订阅迁移；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;其三&lt;/strong&gt;，基于AI Agent、工作流自动化等消费量计费的变现模式。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;而过去数周，AI相关股票经历了剧烈波动，市场开始质疑巨额AI资本支出能否转化为相应回报。&lt;/p&gt;
-&lt;p&gt;eToro的Bret Kenwell指出：&amp;quot;举证责任已经改变。投资者不再只是问公司能否扛过不确定性，他们要的是足够强劲的增长和业绩指引，来支撑当前的高估值。&amp;quot;&lt;/p&gt;
-&lt;p&gt;LPL Financial的Adam Turnquist则认为，近期的回调并非基本面恶化的信号：&amp;quot;AI的长期逻辑看起来依然完好。近期的调整更像是一次健康的重置，而非AI投资主题的根本性崩溃。&amp;quot;&lt;/p&gt;
-&lt;p&gt;高盛策略师也在报告中指出，美股盈利增长应能在下半年继续支撑股价，尽管短期内多头仓位偏高和宏观逆风仍构成压力。&lt;/p&gt;
-财报季：高预期下容错空间有限
-&lt;p&gt;市场目光正迅速转向财报季。本周，按市值计算，标普500约20%的成分股将公布业绩，其中包括Alphabet（周三）和特斯拉（周三）、英特尔（周四）。&lt;/p&gt;
-&lt;p&gt;Alphabet和英特尔的财报将为市场提供AI支出如何重塑科技行业的关键线索。&lt;/p&gt;
-&lt;p&gt;高估值意味着市场对业绩的容忍度极低——一旦业绩或指引低于预期，股价承压的风险不可忽视。&lt;/p&gt;
-风险犹存：油价、通胀与日元
-&lt;p&gt;反弹并非没有隐忧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;油价&lt;/strong&gt;：布伦特原油涨0.6%至每桶91.52美元。特朗普淡化了与伊朗立即展开谈判的可能性，美伊紧张局势升温推高了油价。油价上涨直接加剧通胀担忧。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美债收益率&lt;/strong&gt;：受油价上涨刺激，美债遭到抛售，10年期和30年期美债收益率均升至近两个月高位，10年期收益率报4.63%。收益率走高意味着市场担忧美联储可能被迫加息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;日元&lt;/strong&gt;：日元跌破163关口，为1986年以来首次，市场对日本当局是否会出手干预的关注度持续上升。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关税&lt;/strong&gt;：特朗普在社交媒体发文称，美国计划自2028年8月起对进口仿制药征收100%关税。&lt;/p&gt;
-&lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？</title><link>https://wallstreetcn.com/articles/3777612</link><guid>7bf988ef6f5403c3f80d3da2883cd844f5ab182b42d18a0169b422a338c3fca6</guid><pubDate>Wed, 22 Jul 2026 00:22:27 GMT</pubDate><description>&lt;p&gt;美股科技动量股周二（7月21日）上演剧烈反弹。&lt;strong&gt;摩根士丹利TMT动量因子单日涨幅超过12%，创下有记录以来最大单日涨幅，甚至超过2000年互联网泡沫时期的任何单日表现。&lt;/strong&gt;高盛高贝塔动量多头指数（GSCBHMOM）单日上涨约8.5%，为2025年4月以来最强单日表现；多空高贝塔动量指数（GSPRHIMO）更是上涨9.5%，为2021年以来最强，接近2003年以来的历史最高水平。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;E7 SKU的推出是这一战略演进的核心节点。E7将E5、Copilot及Agent365打包为一体，类似于当年E3向E5的升级浪潮，有望开启新一轮多年期的企业软件升级周期，并同时推高ARPU与Copilot渗透率。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根士丹利最新CIO调查显示，目前已有47%的企业使用E5授权，7%使用E7；而未来一年，预期迁移至E5和E7的比例将分别升至50%和21%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（摩根士丹利预计明年E5和E7许可证的订阅率将分别达到50%和21%）&lt;/p&gt;
+&lt;p&gt;从需求端来看，88%的CIO在摩根士丹利最新调查中表示将在未来12个月部署M365 Copilot，较上次调查25年四季度的80%以及更早一年的72%显著提升。&lt;/p&gt;
+&lt;p&gt;（88%的首席信息官预计在未来12个月内会使用Microsoft 365 Copilot）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根士丹利由此大幅上调Copilot预测：预计26财年 Copilot收入约44亿美元，29财年增至约225亿美元。&lt;/strong&gt;&lt;/p&gt;
+
+毛利率承压，但经营利润仍可持续扩张
+
+&lt;p&gt;&lt;strong&gt;毛利率是市场对微软最普遍的担忧之一，但摩根士丹利认为这一压力被过度解读。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该行将27财年至29财年毛利率预测分别下调至65.7%、64.4%和63.4%，主要原因包括：Azure AI及Copilot收入占比提升、AI相关折旧费用上升，以及大规模基础设施建设期的成本前置效应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，摩根士丹利同时指出，运营费用的持续管控足以对冲毛利率压力，使经营利润和每股收益增速仍维持在20%以上水平。27财年至29财年经营利润率预测分别为46.5%、46.7%和47.2%，呈现温和扩张趋势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;历史参照同样支持这一判断。&lt;/strong&gt;微软云业务毛利率在FY14建设高峰期一度跌至负值，但此后随着产能利用率提升、软件效率改善和规模效应显现，毛利率持续回升，至23财年已升至70%以上。&lt;/p&gt;
+&lt;p&gt;（Azure Al的利润率走势优于同期Azure的利润率）&lt;/p&gt;
+&lt;p&gt;CFO Amy Hood曾多次表态，当前AI业务毛利率水平明显优于云计算过渡期的同一阶段，并在2026年4月的财报电话会议上重申：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AI业务的毛利率比我们当初经历云过渡时更好，并且始终保持如此。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？</title><link>https://wallstreetcn.com/articles/3777612</link><guid>7bf988ef6f5403c3f80d3da2883cd844f5ab182b42d18a0169b422a338c3fca6</guid><pubDate>Wed, 22 Jul 2026 00:22:27 GMT</pubDate><description>&lt;p&gt;美股科技动量股周二（7月21日）上演剧烈反弹。&lt;strong&gt;摩根士丹利TMT动量因子单日涨幅超过12%，创下有记录以来最大单日涨幅，甚至超过2000年互联网泡沫时期的任何单日表现。&lt;/strong&gt;高盛高贝塔动量多头指数（GSCBHMOM）单日上涨约8.5%，为2025年4月以来最强单日表现；多空高贝塔动量指数（GSPRHIMO）更是上涨9.5%，为2021年以来最强，接近2003年以来的历史最高水平。&lt;/p&gt;
 &lt;p&gt;纳斯达克综合指数当日上涨约1.3%，领跑三大指数。&lt;strong&gt;半导体板块是最大推手——费城半导体指数单日涨幅达4.6%&lt;/strong&gt;，VanEck半导体ETF上涨约4.5%。美光科技涨超10%，英特尔涨约8.6%，闪迪涨约14%，Cerebras Systems涨约18%，Cipher Mining涨超11%。&lt;/p&gt;
 &lt;p&gt;这场反弹发生在此前连续三个交易日下跌之后，也&lt;strong&gt;发生在动量股累计暴跌33%之后。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -95,7 +117,44 @@ BTIG警告：反弹已触及关键阻力，建议逢高减仓
 &lt;p&gt;这一数字直接反映出市场对超微电脑模块化数据中心解决方案的旺盛需求，也印证了AI基础设施投资热潮的持续性。公司正寻求从服务器设计与制造商向全栈数据中心解决方案提供商转型，庞大的订单积压为这一战略提供了有力支撑。&lt;/p&gt;
 &lt;p&gt;值得注意的是，&lt;strong&gt;公司同时预计第四财季营收将接近110亿至125亿美元指引区间的低端。&lt;/strong&gt;然而，市场对此反应平淡——投资者显然更看重利润率的修复与前瞻性需求指标的强劲，而非短期营收的绝对规模。&lt;/p&gt;
 &lt;p&gt;此次盘后大涨，也是超微电脑在经历一系列负面事件后的阶段性情绪修复。&lt;/p&gt;
-&lt;p&gt;6月初，公司宣布计划通过股权融资筹集70亿美元以支持AI服务器订单激增，引发市场对股权稀释及过度支出的担忧，股价随之大幅下挫，自6月9日高点至今累计跌幅接近50%。此次毛利率的意外跃升与创纪录订单，为饱受压制的股价提供了实质性的反弹催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 22:46:24 GMT</pubDate><description>&lt;p&gt;芯片股大幅反弹推动美股指全线收涨，纳指领涨。投资者重拾对AI投资主题的信心，此前遭受重挫的动能股录得五年来最强单日表现。&lt;/p&gt; &lt;p&gt;美伊连续10天互相袭击，短期停火协议破裂。原油走强引发通胀担忧，美债遭遇抛售，美元指数走强、重回101关口。&lt;/p&gt; &lt;p&gt;S&amp;amp;P期货、美油与10Y收益率三线联动&lt;/p&gt; 半导体存储芯片暴力反弹，费半创六周最佳 &lt;p&gt;周二美股标普500涨0.9%，道琼斯工业平均指数涨0.74%。纳指100涨1.9%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;值得注意的是，当日市场广度偏薄，强势行情集中在半导体板块，剔除AI成分股的标普500指数持平。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;费城半导体指数周二大涨5.2%，创六周最佳单日涨幅，两连涨延续反弹势头。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;不过仍低于50日均线。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;存储芯片三巨头集体飙升&lt;/strong&gt;，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;芯片设计端同样全面爆发。&lt;/strong&gt;英特尔涨8.64%，AMD涨8.11%，台积电涨超4%，阿斯麦涨3.59%。&lt;/p&gt; &lt;p&gt;暴涨的直接催化剂来自摩根士丹利半导体分析师Joseph Moore的最新研报。他指出数据中心存储芯片短缺正持续恶化，预计延续到2028年，存储芯片价格在Q2到Q3至少上涨25%。这一判断直接引爆了存储芯片板块的做多情绪。&lt;/p&gt; &lt;p&gt;LPL首席技术策略师Adam Turnquist也称近期调整更像抛物线式上涨后的健康重置。&lt;/p&gt; &lt;p&gt;高盛AI半导体指数当日呈现V形反弹。瑞银对冲基金衍生品销售主管Michael Romano同日发声，认为AI基本面改善正是买入信号，建议逐步建仓。&lt;/p&gt; &lt;p&gt;高盛美国AI半导体指数&lt;/p&gt; 动量因子创五年最佳单日，美股与债市显著脱钩 &lt;p&gt;高盛TMT动量组合单日回报达11.5%，广义AI组合涨7.3%，AI受益股指数创ChatGPT发布以来最佳单日表现。&lt;/p&gt; &lt;p&gt;高盛高Beta动量指数&lt;/p&gt; &lt;p&gt;高盛动量策略团队Julia Mensch在报告中写道，动量去风险已进入末段。仓位已大幅清理，动量有望回归长期趋势，高盛TMT动量组合&lt;strong&gt;创下自2021年3月以来的最佳单日表现&lt;/strong&gt;。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;与股市大涨形成鲜明反差，债市同日遭到抛售。&lt;/p&gt; &lt;p&gt;油价上涨给利率市场带来压力，市场对美联储7月和9月加息的可能性今天均有所上升。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;10年期美债收益率突破4.60%至约4.63%长端创两个月新高，2年期涨5基点至约4.25%，30年期升至约5.13%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;股债脱钩的核心逻辑在于油价飙升推升通胀预期，但财报超级周前的买盘力量压倒了利率上行压力。零日期权交易员全天买盘叠加杠杆ETF再平衡资金，成为支撑反弹的隐性力量。&lt;/p&gt; &lt;p&gt;并非所有分析师都认同修正已结束。BTIG首席市场技术分析师Jonathan Krinsky警告上方存在强阻力。彭博宏观策略师Michael Ball认为半导体ETF看跌期权需求仍然高企，宣告修正完成为时尚早。&lt;/p&gt; Mag7严重分化，财报前资金重新洗牌 &lt;p&gt;Mag7内部出现显著分化。特斯拉涨2.53%领涨，英伟达涨1.97%，苹果微涨0.35%。而谷歌跌1.47%领跌，微软跌1.13%，亚马逊跌0.98%，Meta小跌0.32%。&lt;/p&gt; &lt;p&gt;周三盘前谷歌和特斯拉将率先发布Q2业绩，市场高度关注全年资本支出指引。eToro分析师Bret Kenwell指出，凡无法跨过华尔街高预期门槛的公司都会遭投资者惩罚。&lt;/p&gt; &lt;p&gt;ZeroHedge评论道，此前市场讨论的广度扩张被丑陋的棍棒打回，交易员重新涌入AI和半导体而非分散到价值股。这种集中度回归意味着市场宽度并未真正改善，少数股票对指数的主导进一步加剧。&lt;/p&gt; 油金比特齐涨，10Y破4.60%，日元暴跌163 &lt;p&gt;美伊军事冲突进入第10日，胡塞武装宣布对沙特实施海上封锁，红海曼德海峡通行量两周内骤降34%。WTI 8月收报84.91美元涨2.02%，布伦特9月收报91.01美元涨2.01%，自6月11日以来首次收于90美元上方。&lt;/p&gt; &lt;p&gt;布伦特原油期货与即期布伦特原油现货价差&lt;/p&gt; &lt;p&gt;油价飙升推升通胀预期，美债收益率全线上行。Natixis首席美国经济学家Christopher Hodge认为能源价格波动应主导美联储决策。&lt;/p&gt; &lt;p&gt;RBC利率策略师Izaac Brook指出2年期突破4.20%和10年期突破4.60%的关键技术位放大了走势，夏季交易清淡加剧了波动。&lt;/p&gt; &lt;p&gt;美债收益率曲线&lt;/p&gt; &lt;p&gt;彭博宏观策略师Cameron Crise警告长期国债即将巩固5%为底部而非顶部，50日均线已超5%，5.5%是下一个目标。&lt;/p&gt; &lt;p&gt;美元指数走强至约101.3，美元兑日元飙至163.01，日本干预传闻再度升温。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;现货黄金重回4080美元附近涨约1.5%，现货白银涨约5%至59美元。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;比特币盘中冲至67000美元后回落至66194美元。&lt;/p&gt; &lt;p&gt;比特币走势&lt;/p&gt; &lt;p&gt;&lt;strong&gt;周二美股三大指数反弹，存储芯片三巨头集体飙升，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/strong&gt;&lt;/p&gt; &lt;blockquote&gt;
+&lt;p&gt;6月初，公司宣布计划通过股权融资筹集70亿美元以支持AI服务器订单激增，引发市场对股权稀释及过度支出的担忧，股价随之大幅下挫，自6月9日高点至今累计跌幅接近50%。此次毛利率的意外跃升与创纪录订单，为饱受压制的股价提供了实质性的反弹催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚太股市集体冲高，韩股涨幅扩大至6%、SK海力士涨7%，日股涨超1%</title><link>https://wallstreetcn.com/articles/3777614</link><guid>8dc0648356981cc05ff669f8aaef833e4e783fc4aec6d7872e063fed91a01f04</guid><pubDate>Wed, 22 Jul 2026 00:33:38 GMT</pubDate><description>&lt;p&gt;7月22日周二，受到隔夜美股芯片股大涨提振，亚太股市延续强劲反弹态势。MSCI亚太指数上涨1%至269.25点。韩国首尔综指高开高走，涨幅迅速扩大至6%，三星电子涨超5%，SK海力士涨7%。韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。日经225指数日内涨幅扩大至1.1%。&lt;/p&gt;
+&lt;p&gt;隔夜，科技股力撑美股指反弹，纳指100收涨1.9%。美股存储芯片指数暴涨11.12%，美光市值重回万亿。半导体指数大涨5.2%，创六周最佳日涨幅。&lt;/p&gt;
+&lt;p&gt;Evercore ISI首席股票及量化策略师Julian Emanuel表示，他预期科技股财报将推动市场下一轮上涨，并看好当前被市场“冷落”的科技股存在上行空间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+反弹背后：AI叙事的重建
+&lt;p&gt;当下多重利好叠加推动了这轮芯片股的反弹行情：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;英伟达&lt;/strong&gt;宣布最新芯片设计已开始向客户交付&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;英特尔&lt;/strong&gt;因宣布进一步裁员计划而股价上涨，市场将其解读为降本提效信号&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;超微电脑（Super Micro Computer）&lt;/strong&gt;盘后大涨，公司更新显示订单积压持续增长&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;据《日经新闻》报道，&lt;strong&gt;台积电&lt;/strong&gt;计划于2027年将芯片代工价格上调最高10%，其美国存托凭证随之上涨&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;而过去数周，AI相关股票经历了剧烈波动，市场开始质疑巨额AI资本支出能否转化为相应回报。&lt;/p&gt;
+&lt;p&gt;eToro的Bret Kenwell指出：&amp;quot;举证责任已经改变。投资者不再只是问公司能否扛过不确定性，他们要的是足够强劲的增长和业绩指引，来支撑当前的高估值。&amp;quot;&lt;/p&gt;
+&lt;p&gt;LPL Financial的Adam Turnquist则认为，近期的回调并非基本面恶化的信号：&amp;quot;AI的长期逻辑看起来依然完好。近期的调整更像是一次健康的重置，而非AI投资主题的根本性崩溃。&amp;quot;&lt;/p&gt;
+&lt;p&gt;高盛策略师也在报告中指出，美股盈利增长应能在下半年继续支撑股价，尽管短期内多头仓位偏高和宏观逆风仍构成压力。&lt;/p&gt;
+财报季：高预期下容错空间有限
+&lt;p&gt;市场目光正迅速转向财报季。本周，按市值计算，标普500约20%的成分股将公布业绩，其中包括Alphabet（周三）和特斯拉（周三）、英特尔（周四）。&lt;/p&gt;
+&lt;p&gt;Alphabet和英特尔的财报将为市场提供AI支出如何重塑科技行业的关键线索。&lt;/p&gt;
+&lt;p&gt;高估值意味着市场对业绩的容忍度极低——一旦业绩或指引低于预期，股价承压的风险不可忽视。&lt;/p&gt;
+风险犹存：油价、通胀与日元
+&lt;p&gt;反弹并非没有隐忧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;油价&lt;/strong&gt;：布伦特原油涨0.6%至每桶91.52美元。特朗普淡化了与伊朗立即展开谈判的可能性，美伊紧张局势升温推高了油价。油价上涨直接加剧通胀担忧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美债收益率&lt;/strong&gt;：受油价上涨刺激，美债遭到抛售，10年期和30年期美债收益率均升至近两个月高位，10年期收益率报4.63%。收益率走高意味着市场担忧美联储可能被迫加息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日元&lt;/strong&gt;：日元跌破163关口，为1986年以来首次，市场对日本当局是否会出手干预的关注度持续上升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关税&lt;/strong&gt;：特朗普在社交媒体发文称，美国计划自2028年8月起对进口仿制药征收100%关税。&lt;/p&gt;
+&lt;p&gt;此外，黄金涨幅一度达2%，报每盎司4080美元以上；白银单日涨幅一度高达5%，避险和抄底买盘同步活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨</title><link>https://wallstreetcn.com/articles/3777518</link><guid>542cf0a95003e629a21b99b13e587b11832e3724c1ffb96b476d31b9307c1483</guid><pubDate>Tue, 21 Jul 2026 22:46:24 GMT</pubDate><description>&lt;p&gt;芯片股大幅反弹推动美股指全线收涨，纳指领涨。投资者重拾对AI投资主题的信心，此前遭受重挫的动能股录得五年来最强单日表现。&lt;/p&gt; &lt;p&gt;美伊连续10天互相袭击，短期停火协议破裂。原油走强引发通胀担忧，美债遭遇抛售，美元指数走强、重回101关口。&lt;/p&gt; &lt;p&gt;S&amp;amp;P期货、美油与10Y收益率三线联动&lt;/p&gt; 半导体存储芯片暴力反弹，费半创六周最佳 &lt;p&gt;周二美股标普500涨0.9%，道琼斯工业平均指数涨0.74%。纳指100涨1.9%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;值得注意的是，当日市场广度偏薄，强势行情集中在半导体板块，剔除AI成分股的标普500指数持平。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;费城半导体指数周二大涨5.2%，创六周最佳单日涨幅，两连涨延续反弹势头。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;不过仍低于50日均线。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;存储芯片三巨头集体飙升&lt;/strong&gt;，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;芯片设计端同样全面爆发。&lt;/strong&gt;英特尔涨8.64%，AMD涨8.11%，台积电涨超4%，阿斯麦涨3.59%。&lt;/p&gt; &lt;p&gt;暴涨的直接催化剂来自摩根士丹利半导体分析师Joseph Moore的最新研报。他指出数据中心存储芯片短缺正持续恶化，预计延续到2028年，存储芯片价格在Q2到Q3至少上涨25%。这一判断直接引爆了存储芯片板块的做多情绪。&lt;/p&gt; &lt;p&gt;LPL首席技术策略师Adam Turnquist也称近期调整更像抛物线式上涨后的健康重置。&lt;/p&gt; &lt;p&gt;高盛AI半导体指数当日呈现V形反弹。瑞银对冲基金衍生品销售主管Michael Romano同日发声，认为AI基本面改善正是买入信号，建议逐步建仓。&lt;/p&gt; &lt;p&gt;高盛美国AI半导体指数&lt;/p&gt; 动量因子创五年最佳单日，美股与债市显著脱钩 &lt;p&gt;高盛TMT动量组合单日回报达11.5%，广义AI组合涨7.3%，AI受益股指数创ChatGPT发布以来最佳单日表现。&lt;/p&gt; &lt;p&gt;高盛高Beta动量指数&lt;/p&gt; &lt;p&gt;高盛动量策略团队Julia Mensch在报告中写道，动量去风险已进入末段。仓位已大幅清理，动量有望回归长期趋势，高盛TMT动量组合&lt;strong&gt;创下自2021年3月以来的最佳单日表现&lt;/strong&gt;。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;与股市大涨形成鲜明反差，债市同日遭到抛售。&lt;/p&gt; &lt;p&gt;油价上涨给利率市场带来压力，市场对美联储7月和9月加息的可能性今天均有所上升。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;10年期美债收益率突破4.60%至约4.63%长端创两个月新高，2年期涨5基点至约4.25%，30年期升至约5.13%。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;股债脱钩的核心逻辑在于油价飙升推升通胀预期，但财报超级周前的买盘力量压倒了利率上行压力。零日期权交易员全天买盘叠加杠杆ETF再平衡资金，成为支撑反弹的隐性力量。&lt;/p&gt; &lt;p&gt;并非所有分析师都认同修正已结束。BTIG首席市场技术分析师Jonathan Krinsky警告上方存在强阻力。彭博宏观策略师Michael Ball认为半导体ETF看跌期权需求仍然高企，宣告修正完成为时尚早。&lt;/p&gt; Mag7严重分化，财报前资金重新洗牌 &lt;p&gt;Mag7内部出现显著分化。特斯拉涨2.53%领涨，英伟达涨1.97%，苹果微涨0.35%。而谷歌跌1.47%领跌，微软跌1.13%，亚马逊跌0.98%，Meta小跌0.32%。&lt;/p&gt; &lt;p&gt;周三盘前谷歌和特斯拉将率先发布Q2业绩，市场高度关注全年资本支出指引。eToro分析师Bret Kenwell指出，凡无法跨过华尔街高预期门槛的公司都会遭投资者惩罚。&lt;/p&gt; &lt;p&gt;ZeroHedge评论道，此前市场讨论的广度扩张被丑陋的棍棒打回，交易员重新涌入AI和半导体而非分散到价值股。这种集中度回归意味着市场宽度并未真正改善，少数股票对指数的主导进一步加剧。&lt;/p&gt; 油金比特齐涨，10Y破4.60%，日元暴跌163 &lt;p&gt;美伊军事冲突进入第10日，胡塞武装宣布对沙特实施海上封锁，红海曼德海峡通行量两周内骤降34%。WTI 8月收报84.91美元涨2.02%，布伦特9月收报91.01美元涨2.01%，自6月11日以来首次收于90美元上方。&lt;/p&gt; &lt;p&gt;布伦特原油期货与即期布伦特原油现货价差&lt;/p&gt; &lt;p&gt;油价飙升推升通胀预期，美债收益率全线上行。Natixis首席美国经济学家Christopher Hodge认为能源价格波动应主导美联储决策。&lt;/p&gt; &lt;p&gt;RBC利率策略师Izaac Brook指出2年期突破4.20%和10年期突破4.60%的关键技术位放大了走势，夏季交易清淡加剧了波动。&lt;/p&gt; &lt;p&gt;美债收益率曲线&lt;/p&gt; &lt;p&gt;彭博宏观策略师Cameron Crise警告长期国债即将巩固5%为底部而非顶部，50日均线已超5%，5.5%是下一个目标。&lt;/p&gt; &lt;p&gt;美元指数走强至约101.3，美元兑日元飙至163.01，日本干预传闻再度升温。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;现货黄金重回4080美元附近涨约1.5%，现货白银涨约5%至59美元。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;比特币盘中冲至67000美元后回落至66194美元。&lt;/p&gt; &lt;p&gt;比特币走势&lt;/p&gt; &lt;p&gt;&lt;strong&gt;周二美股三大指数反弹，存储芯片三巨头集体飙升，闪迪涨14.27%领涨全场，西部数据涨12.51%，美光涨12.17%市值重回万亿美元关口。希捷涨超10%，存储板块几乎全线涨超10%。&lt;/strong&gt;&lt;/p&gt; &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;标普500指数收涨65.92点，涨幅0.89%，报7509.20点。&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
@@ -371,33 +430,4 @@ Vera Rubin实测：10倍能效跃升
 &lt;p&gt;&lt;strong&gt;股市在此轮地缘冲突期间整体保持强势，权益投资者对AI前景维持高度乐观，对地缘政治及其他潜在风险的警惕程度则相对较低。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这种&amp;quot;风险溢价不足&amp;quot;的市场状态，恰恰是保留黄金仓位作为尾部风险对冲的理由所在。&lt;/p&gt;
 &lt;p&gt;UBS首席投资办公室大宗商品策略师Giovanni Staunono指出，黄金的代价是不产生任何收益，但在不确定性集中的时期，维持一定的黄金配置以对冲不可预见风险，对投资者而言具有合理的组合意义。&lt;/p&gt;
-&lt;p&gt;目前来看，技术面信号、持仓结构与实物需求的共振，为黄金潜在的方向性突破提供了条件。但逼空能否真正启动，仍有待美联储政策信号、美元走势及地缘局势演变的进一步明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本央行7月预计按兵不动，焦点转向发布会上的加息线索</title><link>https://wallstreetcn.com/articles/3777605</link><guid>2ddb641e83f30fe66680beadf9484896ebdf89751249fd0ee2d73aed0fc415be</guid><pubDate>Tue, 21 Jul 2026 22:45:17 GMT</pubDate><description>&lt;p&gt;日本央行7月货币政策会议预计将维持政策利率于1.0%不变，市场注意力已全面转向行长植田和男的新闻发布会及季度《展望报告》，寻找下一次加息时点的关键信号。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;由于植田和男因病缺席上次会议，此次发布会将是外界直接评估其政策立场的首个机会。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据追风交易台，摩根士丹利在7月21日的研报中指出，植田和男的表态——尤其是其个人观点与央行货币事务局立场之间的差异——将在近期主导市场对加息路径的定价。&lt;strong&gt;目前市场对9月和10月加息的概率定价分别约为24%和68%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利的基准情景仍为12月加息，即维持约每六个月一次的加息节奏，但认为10月加息属于风险情景。此外，若本次会议被市场解读为偏鸽，日元可能面临新一轮广泛贬值压力，当局外汇干预风险随之上升。&lt;/p&gt;
-&lt;p&gt;周二，美元兑日元升破163关口，为1986年以来首次触及这一水平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;7月按兵不动，焦点在于下一步&lt;/strong&gt;
-&lt;p&gt;摩根士丹利预计，日本央行将在7月30日至31日的货币政策会议上维持政策利率于1.0%不变。6月刚刚完成加息，7月暂停已被市场广泛消化。&lt;strong&gt;当前的核心问题是下次加息的时点信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;日本央行对内外需韧性的信心正在增强，同时持续警惕潜在通胀上行风险。&lt;/p&gt;
-&lt;p&gt;在外需方面，全球AI及半导体需求强劲，不仅推升相关商品实际出口，也支撑出口价格，在一定程度上抵消了油价上涨导致的贸易条件恶化。在内需方面，央行消费活动指数保持稳健，私人消费预计将被评估为具有韧性，其中服务消费为主要支撑。&lt;/p&gt;
-&lt;p&gt;在通胀判断上，预计央行将维持6月会议新增的措辞——即企业商品价格向消费者价格的传导可能以相对较快的速度推进，并有扩散至消费端大范围商品的风险，&amp;quot;核心CPI通胀有偏离2%物价稳定目标上方的风险&amp;quot;。&lt;/p&gt;
-&lt;strong&gt;三大因素支撑12月加息为基准&lt;/strong&gt;
-&lt;p&gt;尽管鹰派立场明显，摩根士丹利对年内提前加息持保留态度，并列出三点主要理由。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，潜在通胀强度存疑。&lt;/strong&gt;月度CPI数据显示私人服务通胀相对平稳，截至5月的需求阶段生产者价格指数及近期高频价格指标均表明，企业商品价格向消费端的传导进展仍属渐进。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，中东局势不确定性再度升温。&lt;/strong&gt;若零售端价格传导持续缓慢，而原油及石脑油相关产品价格进一步上涨，贸易条件恶化可能拖累名义GDP和企业利润增长，进而对未来工资增长构成下行风险。植田和男在过去新闻发布会上的表态显示，其倾向于对中东风险采取审慎评估立场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，政治层面的考量。&lt;/strong&gt;路透社7月企业调查显示，49%的受访企业认为日本央行加息至1%对其产生了&amp;quot;显著负面&amp;quot;或&amp;quot;一定程度负面&amp;quot;影响，28%表示当前利率水平已对资本支出产生负面影响。由于该调查样本为资本金不低于10亿日元的大型企业，对中小企业的实际冲击可能更大，而首相官邸强调建设&amp;quot;强劲经济&amp;quot;的目标，也意味着央行需更审慎评估加息影响。&lt;/p&gt;
-&lt;strong&gt;《展望报告》三大看点&lt;/strong&gt;
-&lt;p&gt;本次《展望报告》有三项核心议题值得重点关注。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其一，央行如何呈现6月加息逻辑的进展&lt;/strong&gt;，即企业商品价格向消费端传导所带来的潜在通胀上行风险。数据显示，企业商品价格指数同比涨幅持续扩大，4月为5.4%，5月升至6.6%，6月进一步升至7.1%。从经验规律看，企业商品价格传导至消费价格的峰值效应通常在约六个月后显现。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其二，政策委员会成员风险平衡判断是否发生变化。&lt;/strong&gt;若通胀预测下调而经济增长预测上调，市场将密切观察风险天平是否仍偏向潜在通胀上行。此外，本次会议是新任委员Sato和Asada参与《展望报告》会议的首次，其中Asada已于6月会议表达审慎立场，而Sato的政策倾向将是首次被市场检验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其三，央行是否提供1%以上进一步加息的分析框架。&lt;/strong&gt;央行内部对中性利率区间的认知已实质性上移至约1.5%至2.0%，1.1%的下限已不再是政策讨论的有效参照。在此背景下，央行能否提供更具体的货币宽松程度衡量标准，将是判断后续加息路径的重要依据。&lt;/p&gt;
-&lt;strong&gt;植田发布会措辞或成市场定价关键&lt;/strong&gt;
-&lt;p&gt;植田和男发布会全程的措辞细节将是近期市场定价的关键变量。发布会开场陈述及问答前半段可能更多反映货币事务局立场，而问答后半段则更能体现行长的个人判断——二者之间的细微差异值得格外关注。&lt;/p&gt;
-&lt;p&gt;在通胀数据权重问题上，市场将观察央行更倾向于依据企业商品价格指数和CPI等实际通胀数据，还是更侧重通胀预期类指标来判断加息时点。&lt;/p&gt;
-&lt;p&gt;此外，若植田和男就&amp;quot;延迟加息可能推高通胀风险溢价、带动长期利率上行&amp;quot;的风险作出更明确表态，也将为后续政策讨论中的潜在取舍提供重要线索。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;目前来看，技术面信号、持仓结构与实物需求的共振，为黄金潜在的方向性突破提供了条件。但逼空能否真正启动，仍有待美联储政策信号、美元走势及地缘局势演变的进一步明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
