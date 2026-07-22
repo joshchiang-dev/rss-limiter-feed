@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 04:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 低估Azure和Copilot的拐点！大摩：市场只给微软“16倍PE”太低了</title><link>https://wallstreetcn.com/articles/3777616</link><guid>732ad397e3d2170e0b6d25658a029a0d909d52303db861cdd758be27e4cf77c0</guid><pubDate>Wed, 22 Jul 2026 01:53:51 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为微软正站在AI变现周期的关键转折点，而市场似乎尚未充分定价这一机遇。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 22 Jul 2026 04:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？</title><link>https://wallstreetcn.com/articles/3777612</link><guid>7bf988ef6f5403c3f80d3da2883cd844f5ab182b42d18a0169b422a338c3fca6</guid><pubDate>Wed, 22 Jul 2026 00:22:27 GMT</pubDate><description>&lt;p&gt;美股科技动量股周二（7月21日）上演剧烈反弹。&lt;strong&gt;摩根士丹利TMT动量因子单日涨幅超过12%，创下有记录以来最大单日涨幅，甚至超过2000年互联网泡沫时期的任何单日表现。&lt;/strong&gt;高盛高贝塔动量多头指数（GSCBHMOM）单日上涨约8.5%，为2025年4月以来最强单日表现；多空高贝塔动量指数（GSPRHIMO）更是上涨9.5%，为2021年以来最强，接近2003年以来的历史最高水平。&lt;/p&gt;
+&lt;p&gt;纳斯达克综合指数当日上涨约1.3%，领跑三大指数。&lt;strong&gt;半导体板块是最大推手——费城半导体指数单日涨幅达4.6%&lt;/strong&gt;，VanEck半导体ETF上涨约4.5%。美光科技涨超10%，英特尔涨约8.6%，闪迪涨约14%，Cerebras Systems涨约18%，Cipher Mining涨超11%。&lt;/p&gt;
+&lt;p&gt;这场反弹发生在此前连续三个交易日下跌之后，也&lt;strong&gt;发生在动量股累计暴跌33%之后。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+为什么会有这场反弹？空头被“逼仓”
+&lt;p&gt;理解这次反弹，需要先理解此前的跌幅有多深。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛数据显示，高贝塔动量股在短短数个交易日内累计下跌33%，是互联网泡沫破裂以来最惨烈的回撤之一。高盛高贝塔动量指数一度跌破200日均线，触及今年1月以来最低点，超卖程度为去年8月以来最严重。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;跌得越深，反弹的弹性越大——这是市场的基本逻辑。&lt;/p&gt;
+&lt;p&gt;本次反弹在很大程度上是一场&amp;quot;逼仓&amp;quot;行情。大量做空动量股的投资者，尤其是韩国和日本的追涨杀跌型交易者，在过去两周遭受重创——韩国市场甚至出现大规模追加保证金（margin call）事件，重创当地散户群体。当这些空头被迫平仓回补，买盘就会形成自我强化的上涨螺旋。&lt;/p&gt;
+&lt;p&gt;Zacks Investment Research分析指出，美光科技此前跌破了日线图上的&amp;quot;头肩顶&amp;quot;颈线，技术形态看空。但周二股价暴涨逾10%，重新站回颈线之上。&amp;quot;假突破往往引发反向的剧烈波动，因为后知后觉的空头和做空者被困住了。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+市场广度依然偏弱，反弹成色存疑
+&lt;p&gt;反弹的数字看起来惊人，但内部结构并不健康。&lt;/p&gt;
+&lt;p&gt;BTIG策略师Jonathan Krinsky分析，周二整体成交量偏低，SPY、QQQ和标普500现货成交量均比20日均值低20%至30%。与此同时，标普500指数当日上涨近1%，但下跌个股数量仍多于上涨个股——这是今年以来价格与市场广度背离次数最多的一年，而周二再次出现这一现象。&lt;/p&gt;
+&lt;p&gt;高盛交易员数据显示，交易所整体成交量较20日均值低约17%，做市商账面流动性仅为683万美元，市场活跃度在满分10分中仅为3分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;换句话说，这场反弹更像是少数重仓股的集中爆发，而非全面复苏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Michael Ball分析，&amp;quot;现在宣布调整结束还为时过早&amp;quot;。半导体ETF和前期AI明星股的看跌期权需求依然高企，纳斯达克、半导体ETF及相关个股的负Gamma敞口，意味着做市商会追涨杀跌而非平抑波动——这在放大上涨的同时，也会放大下跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+BTIG警告：反弹已触及关键阻力，建议逢高减仓
+&lt;p&gt;并非所有人都对这次反弹感到乐观。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BTIG的Jonathan Krinsky明确警告，建议&amp;quot;逢高减仓（fade）&amp;quot;。他此前预判动量股反弹会遭遇730至750区间的强阻力，而周二的反弹恰好将GSCBHMOM推至该阻力区间下沿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Krinsky表示：&amp;quot;&lt;strong&gt;极端的波动性，加上历史性的个股分化，是市场正在经历一轮全面回调的信号。&amp;quot;他预计高贝塔动量股将在周三至周四进入阻力区间核心后开始滞涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从历史数据看，自1999年以来，高贝塔动量多头指数在200日均线上方单日涨幅超过7%的情况仅出现过10次。其中三次发生在今年，三次发生在2021年初，三次发生在2000年初。Krinsky指出，这一数据&amp;quot;既说明了此次行情的罕见性，也说明我们持续看到与1999至2000年时期相呼应的统计特征&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+高盛、瑞银：动量抛售接近尾声，建议逐步加仓
+&lt;p&gt;与BTIG的谨慎态度不同，高盛和瑞银均认为此次动量抛售已进入尾声，并建议投资者把握机会。&lt;/p&gt;
+&lt;p&gt;高盛的Julia Mensch在报告中指出，高盛上周已提示动量抛售&amp;quot;进入后期&amp;quot;。她写道：&lt;strong&gt;&amp;quot;随着持仓已大幅出清（高盛主经纪商数据显示，动量敞口处于过去一年的第64百分位，过去五年的第93百分位），且此次抛售背后并无新的基本面催化剂，我们认为动量有空间向长期趋势回归，此次抛售可能是增加动量敞口或逢低买入AI股的好机会。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;瑞银对冲基金股票衍生品销售主管Michael Romano也在客户报告中表达了类似看法，认为AI基本面改善是买入信号。但他同时建议投资者&amp;quot;逐步建仓，而非一次性全仓杀入&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Romano写道：&amp;quot;动量去风险化是且仍然是一个有说服力的判断。分批建仓是审慎之举。&amp;quot;他预计动量抛售将在7月底前触底（如果尚未触底的话），并表示：&amp;quot;一旦行情转向，我预计流动性将推动价格向上超调。&amp;quot;&lt;/p&gt;
+&lt;p&gt;不过，高盛也保持了一定保留态度——鉴于近期波动率极高，且财报季密集来袭，高盛建议投资者通过&amp;quot;有限损失结构&amp;quot;（limited-loss structures）来获取敞口，而非直接持有多头。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+财报季是下一个关键变量
+&lt;p&gt;这场反弹的持续性，很大程度上取决于本周财报。&lt;/p&gt;
+&lt;p&gt;据路透社报道，&lt;strong&gt;本周共有113家标普500成分股公司（占标普500市值约18%）发布财报。其中，Alphabet（GOOGL）的财报被视为&amp;quot;本周最重要的数据点&amp;quot;&lt;/strong&gt;，市场将重点关注其2026年全年资本开支指引——普遍预期将上调，这将为AI支出的走向提供重要线索。&lt;/p&gt;
+&lt;p&gt;LPL Financial首席技术策略师Adam Turnquist表示：&amp;quot;现在的焦点不只是资本开支总量，下一个关注点将是投资回报率和支出质量，我们认为这将在下半年成为核心议题。&amp;quot;&lt;/p&gt;
+&lt;p&gt;他同时指出：&amp;quot;我们预计半导体板块将继续出现波动，因为超买状态需要消化，获利了结压力将出现，拥挤的持仓也需要出清。从基本面来看，我们认为并没有什么实质性变化。&amp;quot;&lt;/p&gt;
+&lt;p&gt;据路透社报道，截至目前，已有66家标普500公司公布财报，其中约88%的公司盈利超出分析师预期。3M（MMM）单日涨超9%，通用汽车（GM）涨约5%，均因业绩超预期而受到追捧。&lt;/p&gt;
+债券与宏观：另一个隐患
+&lt;p&gt;股市狂欢的同时，债券市场却在发出警告。&lt;/p&gt;
+&lt;p&gt;当日美债收益率全线走高，短端2年期收益率上涨5个基点，30年期上涨2个基点，长端收益率升至两个月高位，抹去了上周低于预期的通胀数据带来的债券涨幅。&lt;/p&gt;
+&lt;p&gt;油价是推手之一。布伦特原油期货收盘重新站上每桶90美元，为6月11日以来首次。中东局势持续升温——也门胡塞武装宣布封锁红海南部入口，两艘运载沙特原油的油轮在红海掉头折返。Kpler的MarineTraffic数据显示，即便在封锁宣布之前，过去两周通过曼德海峡的货物装载量已下降34%。&lt;/p&gt;
+&lt;p&gt;RBC Capital Markets利率策略师Izaac Brook表示：&amp;quot;今天的市场走势，主要是能源价格持续上涨的结果。利率的波动因突破了备受关注的技术位——2年期收益率4.20%和10年期收益率4.60%——以及夏季典型的低流动性交易环境而被放大。&amp;quot;&lt;/p&gt;
+&lt;p&gt;彭博的Cameron Crise则警告，&lt;strong&gt;长债收益率正处于将5%从阻力位变为支撑位的临界点，下一个明显目标位是5.5%——&amp;quot;这将对股市造成冲击，尤其是当经济上行超预期推动收益率走高，并对股票产生负面影响时&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛IG信用主管Kevin Boova也警告，超大规模科技公司的信用利差已创新高，&amp;quot;超大规模云计算/AI/数据中心领域感觉再度有些脆弱&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 低估Azure和Copilot的拐点！大摩：市场只给微软“16倍PE”太低了</title><link>https://wallstreetcn.com/articles/3777616</link><guid>732ad397e3d2170e0b6d25658a029a0d909d52303db861cdd758be27e4cf77c0</guid><pubDate>Wed, 22 Jul 2026 01:53:51 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为微软正站在AI变现周期的关键转折点，而市场似乎尚未充分定价这一机遇。&lt;/p&gt;
 &lt;p&gt;追风交易台消息，7月21日，摩根士丹利Adam Wood团队发表研报，&lt;strong&gt;微软Azure云业务增长即将进入加速通道，Copilot商业化路径也正从单一座位收费演变为三轮驱动的扩张机会。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;研报指出，&lt;strong&gt;以当前股价计算对应的隐含市盈率（PE）仅约16倍，但对于一家盈利增速料超20%的科技龙头而言，16倍PE明显低估了其内在价值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;虽然该行近期因考虑到毛利率承压、资本支出与债务增加，将微软12至18个月的目标价从650美元下调至600美元，但仍维持“增持”评级，仍较当前股价隐含约50%的上行空间。&lt;/p&gt;
@@ -58,53 +104,7 @@ Copilot：从&amp;quot;卖座位&amp;quot;到三引擎ARPU扩张
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？</title><link>https://wallstreetcn.com/articles/3777612</link><guid>7bf988ef6f5403c3f80d3da2883cd844f5ab182b42d18a0169b422a338c3fca6</guid><pubDate>Wed, 22 Jul 2026 00:22:27 GMT</pubDate><description>&lt;p&gt;美股科技动量股周二（7月21日）上演剧烈反弹。&lt;strong&gt;摩根士丹利TMT动量因子单日涨幅超过12%，创下有记录以来最大单日涨幅，甚至超过2000年互联网泡沫时期的任何单日表现。&lt;/strong&gt;高盛高贝塔动量多头指数（GSCBHMOM）单日上涨约8.5%，为2025年4月以来最强单日表现；多空高贝塔动量指数（GSPRHIMO）更是上涨9.5%，为2021年以来最强，接近2003年以来的历史最高水平。&lt;/p&gt;
-&lt;p&gt;纳斯达克综合指数当日上涨约1.3%，领跑三大指数。&lt;strong&gt;半导体板块是最大推手——费城半导体指数单日涨幅达4.6%&lt;/strong&gt;，VanEck半导体ETF上涨约4.5%。美光科技涨超10%，英特尔涨约8.6%，闪迪涨约14%，Cerebras Systems涨约18%，Cipher Mining涨超11%。&lt;/p&gt;
-&lt;p&gt;这场反弹发生在此前连续三个交易日下跌之后，也&lt;strong&gt;发生在动量股累计暴跌33%之后。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么会有这场反弹？空头被“逼仓”
-&lt;p&gt;理解这次反弹，需要先理解此前的跌幅有多深。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛数据显示，高贝塔动量股在短短数个交易日内累计下跌33%，是互联网泡沫破裂以来最惨烈的回撤之一。高盛高贝塔动量指数一度跌破200日均线，触及今年1月以来最低点，超卖程度为去年8月以来最严重。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;跌得越深，反弹的弹性越大——这是市场的基本逻辑。&lt;/p&gt;
-&lt;p&gt;本次反弹在很大程度上是一场&amp;quot;逼仓&amp;quot;行情。大量做空动量股的投资者，尤其是韩国和日本的追涨杀跌型交易者，在过去两周遭受重创——韩国市场甚至出现大规模追加保证金（margin call）事件，重创当地散户群体。当这些空头被迫平仓回补，买盘就会形成自我强化的上涨螺旋。&lt;/p&gt;
-&lt;p&gt;Zacks Investment Research分析指出，美光科技此前跌破了日线图上的&amp;quot;头肩顶&amp;quot;颈线，技术形态看空。但周二股价暴涨逾10%，重新站回颈线之上。&amp;quot;假突破往往引发反向的剧烈波动，因为后知后觉的空头和做空者被困住了。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-市场广度依然偏弱，反弹成色存疑
-&lt;p&gt;反弹的数字看起来惊人，但内部结构并不健康。&lt;/p&gt;
-&lt;p&gt;BTIG策略师Jonathan Krinsky分析，周二整体成交量偏低，SPY、QQQ和标普500现货成交量均比20日均值低20%至30%。与此同时，标普500指数当日上涨近1%，但下跌个股数量仍多于上涨个股——这是今年以来价格与市场广度背离次数最多的一年，而周二再次出现这一现象。&lt;/p&gt;
-&lt;p&gt;高盛交易员数据显示，交易所整体成交量较20日均值低约17%，做市商账面流动性仅为683万美元，市场活跃度在满分10分中仅为3分。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;换句话说，这场反弹更像是少数重仓股的集中爆发，而非全面复苏。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Michael Ball分析，&amp;quot;现在宣布调整结束还为时过早&amp;quot;。半导体ETF和前期AI明星股的看跌期权需求依然高企，纳斯达克、半导体ETF及相关个股的负Gamma敞口，意味着做市商会追涨杀跌而非平抑波动——这在放大上涨的同时，也会放大下跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-BTIG警告：反弹已触及关键阻力，建议逢高减仓
-&lt;p&gt;并非所有人都对这次反弹感到乐观。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BTIG的Jonathan Krinsky明确警告，建议&amp;quot;逢高减仓（fade）&amp;quot;。他此前预判动量股反弹会遭遇730至750区间的强阻力，而周二的反弹恰好将GSCBHMOM推至该阻力区间下沿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Krinsky表示：&amp;quot;&lt;strong&gt;极端的波动性，加上历史性的个股分化，是市场正在经历一轮全面回调的信号。&amp;quot;他预计高贝塔动量股将在周三至周四进入阻力区间核心后开始滞涨。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从历史数据看，自1999年以来，高贝塔动量多头指数在200日均线上方单日涨幅超过7%的情况仅出现过10次。其中三次发生在今年，三次发生在2021年初，三次发生在2000年初。Krinsky指出，这一数据&amp;quot;既说明了此次行情的罕见性，也说明我们持续看到与1999至2000年时期相呼应的统计特征&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-高盛、瑞银：动量抛售接近尾声，建议逐步加仓
-&lt;p&gt;与BTIG的谨慎态度不同，高盛和瑞银均认为此次动量抛售已进入尾声，并建议投资者把握机会。&lt;/p&gt;
-&lt;p&gt;高盛的Julia Mensch在报告中指出，高盛上周已提示动量抛售&amp;quot;进入后期&amp;quot;。她写道：&lt;strong&gt;&amp;quot;随着持仓已大幅出清（高盛主经纪商数据显示，动量敞口处于过去一年的第64百分位，过去五年的第93百分位），且此次抛售背后并无新的基本面催化剂，我们认为动量有空间向长期趋势回归，此次抛售可能是增加动量敞口或逢低买入AI股的好机会。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;瑞银对冲基金股票衍生品销售主管Michael Romano也在客户报告中表达了类似看法，认为AI基本面改善是买入信号。但他同时建议投资者&amp;quot;逐步建仓，而非一次性全仓杀入&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Romano写道：&amp;quot;动量去风险化是且仍然是一个有说服力的判断。分批建仓是审慎之举。&amp;quot;他预计动量抛售将在7月底前触底（如果尚未触底的话），并表示：&amp;quot;一旦行情转向，我预计流动性将推动价格向上超调。&amp;quot;&lt;/p&gt;
-&lt;p&gt;不过，高盛也保持了一定保留态度——鉴于近期波动率极高，且财报季密集来袭，高盛建议投资者通过&amp;quot;有限损失结构&amp;quot;（limited-loss structures）来获取敞口，而非直接持有多头。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-财报季是下一个关键变量
-&lt;p&gt;这场反弹的持续性，很大程度上取决于本周财报。&lt;/p&gt;
-&lt;p&gt;据路透社报道，&lt;strong&gt;本周共有113家标普500成分股公司（占标普500市值约18%）发布财报。其中，Alphabet（GOOGL）的财报被视为&amp;quot;本周最重要的数据点&amp;quot;&lt;/strong&gt;，市场将重点关注其2026年全年资本开支指引——普遍预期将上调，这将为AI支出的走向提供重要线索。&lt;/p&gt;
-&lt;p&gt;LPL Financial首席技术策略师Adam Turnquist表示：&amp;quot;现在的焦点不只是资本开支总量，下一个关注点将是投资回报率和支出质量，我们认为这将在下半年成为核心议题。&amp;quot;&lt;/p&gt;
-&lt;p&gt;他同时指出：&amp;quot;我们预计半导体板块将继续出现波动，因为超买状态需要消化，获利了结压力将出现，拥挤的持仓也需要出清。从基本面来看，我们认为并没有什么实质性变化。&amp;quot;&lt;/p&gt;
-&lt;p&gt;据路透社报道，截至目前，已有66家标普500公司公布财报，其中约88%的公司盈利超出分析师预期。3M（MMM）单日涨超9%，通用汽车（GM）涨约5%，均因业绩超预期而受到追捧。&lt;/p&gt;
-债券与宏观：另一个隐患
-&lt;p&gt;股市狂欢的同时，债券市场却在发出警告。&lt;/p&gt;
-&lt;p&gt;当日美债收益率全线走高，短端2年期收益率上涨5个基点，30年期上涨2个基点，长端收益率升至两个月高位，抹去了上周低于预期的通胀数据带来的债券涨幅。&lt;/p&gt;
-&lt;p&gt;油价是推手之一。布伦特原油期货收盘重新站上每桶90美元，为6月11日以来首次。中东局势持续升温——也门胡塞武装宣布封锁红海南部入口，两艘运载沙特原油的油轮在红海掉头折返。Kpler的MarineTraffic数据显示，即便在封锁宣布之前，过去两周通过曼德海峡的货物装载量已下降34%。&lt;/p&gt;
-&lt;p&gt;RBC Capital Markets利率策略师Izaac Brook表示：&amp;quot;今天的市场走势，主要是能源价格持续上涨的结果。利率的波动因突破了备受关注的技术位——2年期收益率4.20%和10年期收益率4.60%——以及夏季典型的低流动性交易环境而被放大。&amp;quot;&lt;/p&gt;
-&lt;p&gt;彭博的Cameron Crise则警告，&lt;strong&gt;长债收益率正处于将5%从阻力位变为支撑位的临界点，下一个明显目标位是5.5%——&amp;quot;这将对股市造成冲击，尤其是当经济上行超预期推动收益率走高，并对股票产生负面影响时&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛IG信用主管Kevin Boova也警告，超大规模科技公司的信用利差已创新高，&amp;quot;超大规模云计算/AI/数据中心领域感觉再度有些脆弱&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 毛利翻倍，远超此前指引！超微电脑财报后飙升近20%</title><link>https://wallstreetcn.com/articles/3777613</link><guid>61c4d483dd90a7d58cab83ee9be3e7b2471f6f7b6cd6681eb19d2b200d10c34c</guid><pubDate>Wed, 22 Jul 2026 00:05:55 GMT</pubDate><description>&lt;p&gt;超微电脑（Super Micro Computer）周二（7月21日）发布第四财季初步业绩，毛利率预期大幅超越此前指引，创纪录的新订单规模进一步提振市场信心，股价盘后一度飙升逾20%。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 毛利翻倍，远超此前指引！超微电脑财报后飙升近20%</title><link>https://wallstreetcn.com/articles/3777613</link><guid>61c4d483dd90a7d58cab83ee9be3e7b2471f6f7b6cd6681eb19d2b200d10c34c</guid><pubDate>Wed, 22 Jul 2026 00:05:55 GMT</pubDate><description>&lt;p&gt;超微电脑（Super Micro Computer）周二（7月21日）发布第四财季初步业绩，毛利率预期大幅超越此前指引，创纪录的新订单规模进一步提振市场信心，股价盘后一度飙升逾20%。&lt;/p&gt;
 &lt;p&gt;初步业绩报告显示，截至2026年6月30日的第四财季，公司GAAP及非GAAP毛利率预计介于15%至17%之间，&lt;strong&gt;几乎是此前指引区间8.2%至8.4%的两倍&lt;/strong&gt;。管理层将这一超预期表现归因于&amp;quot;有利的客户结构与产品组合&amp;quot;。与此同时，&lt;strong&gt;公司当季新增订单总额超过600亿美元，创历史新高&lt;/strong&gt;，锁定了庞大的未来交付管线。&lt;/p&gt;
 &lt;p&gt;上述利好消息令市场迅速重新定价。超微电脑股价盘后涨幅一度触及21%。这一走势标志着投资者情绪的显著逆转——此前该股自6月初高点以来已近乎腰斩。&lt;strong&gt;公司完整的第四财季及2026财年业绩将于8月11日美股收盘后正式公布。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -277,35 +277,7 @@ Vera Rubin实测：10倍能效跃升
 &lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上证指数低开0.64%，创业板指跌1.11%。服务器、PCB、AI算力、跨境电商、存储器、金融科技、商业航天、光伏概念股纷纷走弱；黄金、油气、海运板块逆势走强。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒指低开0.61%，报24978.90点；恒生科技指数跌0.71%。智谱涨超6%，联想涨近4%，网易跌超3%，京东健康、蔚来、哔哩哔哩跌超2%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银：宽基ETF交易量显著放大，A股去杠杆可能接近尾声</title><link>https://wallstreetcn.com/articles/3777637</link><guid>faf5710a8815e0986e57df4c0ebbd75b11bb1483e13873c9c3b7588c9da4957e</guid><pubDate>Wed, 22 Jul 2026 03:30:41 GMT</pubDate><description>&lt;p&gt;全球科技股震荡，A股跟随下跌——但瑞银认为，这场去杠杆可能已经接近尾声。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，瑞银在7月22日发布的A股策略报告中指出，近期A股科技板块及相关指数出现大幅回调，背后有三重压力叠加。&lt;/p&gt;
-&lt;p&gt;第一，全球科技板块剧烈波动，全球主要股市隐含波动率同步飙升。第二，部分短线投资者在2026年上半年积累了可观涨幅后选择获利了结。第三，科技板块交易拥挤度持续攀升——瑞银数据显示，大科技板块（含电子、通信、计算机、国防）占全部A股市值和成交额的比例在2026年上半年快速上升，均创历史新高——这种拥挤本身就会在市场波动时放大抛压。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-基本面没有变，盈利改善趋势仍在
-&lt;p&gt;瑞银强调，尽管市场短期剧烈波动，A股整体及科技板块的盈利改善趋势并未改变。&lt;/p&gt;
-&lt;p&gt;具体数据上，瑞银预计全部A股盈利同比增速将从2025年的3.9%提升至2026年的11%。已披露的2026年一季报显示，非金融A股净利润同比增长11.8%，而2025年全年仅为+0.8%，盈利加速回升的信号明确。&lt;/p&gt;
-&lt;p&gt;科技板块方面，市场对创业板指2026年盈利增速的一致预期，年初至今已上调33个百分点；科创50的上调幅度更大，达到112个百分点。瑞银认为，全球AI仍处于快速发展的早期阶段，科技板块的盈利上修趋势仍在延续。&lt;/p&gt;
-&lt;p&gt;政策层面，&amp;quot;十五五&amp;quot;规划将科技自立自强列为重大目标，2026年世界人工智能大会期间的信号，均体现了政策层面对科技产业的持续支持。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-ETF大额净流入，“国家队”再度现身
-&lt;p&gt;市场大跌期间，资金并未单向出逃，反而有大规模资金借道ETF入场。&lt;/p&gt;
-&lt;p&gt;瑞银注意到，7月6日至20日，全部A股权益类ETF合计净流入超过3674亿元人民币。与此同时，多只宽基ETF的单日成交额出现明显放量。&lt;/p&gt;
-&lt;p&gt;值得关注的是，此轮净流入的结构与2024至2025年那轮有所不同。上一轮净流入主要集中在沪深300 ETF，而此次净流入分布更广，沪深300 ETF、创业板ETF、科创50 ETF均获得大规模净流入。&lt;/p&gt;
-&lt;p&gt;7月19日晚间，中国诚通和中国国新两家国有资本运营公司相继发声，表示看好中国资本市场并将增持A股；多家保险公司也表态将维护资本市场稳定。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-融资余额快速下降，去杠杆接近尾声
-&lt;p&gt;这轮调整中，市场最担心的问题之一是杠杆风险。瑞银的判断是：去杠杆可能已基本完成。&lt;/p&gt;
-&lt;p&gt;数据显示，截至2026年7月20日，全部A股融资余额为2.70万亿元，较6月25日创下的历史峰值3.01万亿元，已快速下降3124亿元。&lt;/p&gt;
-&lt;p&gt;分板块看，大科技板块融资余额从6月26日的1.1万亿元降至7月20日的9449亿元，快速减少1527亿元。&lt;/p&gt;
-&lt;p&gt;对于部分投资者担忧的杠杆水平问题，瑞银进一步做了横向比较：大科技板块、创业板、科创板的融资余额占各自流通市值的比例，与全市场整体水平相比并无实质性差异，并未出现异常集中的杠杆风险。以科创板为例，截至7月20日，融资余额占流通市值比例为5.8%，处于历史合理区间。&lt;/p&gt;
-&lt;p&gt;瑞银的结论是：随着融资余额快速下降，A股去杠杆进程可能已大体完成。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场</title><link>https://wallstreetcn.com/articles/3777627</link><guid>a15ba44793fc631343e3db84304d79076581f4ed0c55d9eb82f71a4e909c1d02</guid><pubDate>Wed, 22 Jul 2026 02:18:32 GMT</pubDate><description>&lt;p&gt;7月21日，OpenAI和HuggingFace联合发了一篇博客，披露了一件让整个AI圈瞠目结舌的事。&lt;/p&gt;
+&lt;p&gt;恒指低开0.61%，报24978.90点；恒生科技指数跌0.71%。智谱涨超6%，联想涨近4%，网易跌超3%，京东健康、蔚来、哔哩哔哩跌超2%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场</title><link>https://wallstreetcn.com/articles/3777627</link><guid>a15ba44793fc631343e3db84304d79076581f4ed0c55d9eb82f71a4e909c1d02</guid><pubDate>Wed, 22 Jul 2026 02:18:32 GMT</pubDate><description>&lt;p&gt;7月21日，OpenAI和HuggingFace联合发了一篇博客，披露了一件让整个AI圈瞠目结舌的事。&lt;/p&gt;
 &lt;p&gt;OpenAI的AI模型在一次内部关于网络攻击能力的测试中“失控出逃”，突破沙盒隔离，入侵了AI开源平台Hugging Face的生产系统。OpenAI将此定性为“前所未有的网络安全事件”。&lt;/p&gt;
 &lt;p&gt;更戏剧性的是后续：Hugging Face在尝试用美国主流AI模型展开防御时，发现这些模型因安全护栏限制无法处理恶意载荷，&lt;strong&gt;最终不得不转用中国智谱AI的开源模型GLM 5.2完成溯源分析。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;总的来说就是，&lt;strong&gt;OpenAI的模型自己“越狱”跑出去黑了别人的系统，被攻击方还得用中国模型来救场。&lt;/strong&gt;&lt;/p&gt;
@@ -421,7 +393,35 @@ OpenAI的回应与后续措施
 &lt;p&gt;&lt;strong&gt;股市在此轮地缘冲突期间整体保持强势，权益投资者对AI前景维持高度乐观，对地缘政治及其他潜在风险的警惕程度则相对较低。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这种&amp;quot;风险溢价不足&amp;quot;的市场状态，恰恰是保留黄金仓位作为尾部风险对冲的理由所在。&lt;/p&gt;
 &lt;p&gt;UBS首席投资办公室大宗商品策略师Giovanni Staunono指出，黄金的代价是不产生任何收益，但在不确定性集中的时期，维持一定的黄金配置以对冲不可预见风险，对投资者而言具有合理的组合意义。&lt;/p&gt;
-&lt;p&gt;目前来看，技术面信号、持仓结构与实物需求的共振，为黄金潜在的方向性突破提供了条件。但逼空能否真正启动，仍有待美联储政策信号、美元走势及地缘局势演变的进一步明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 耐克挥刀中国线上渠道：收权、控价、本土化</title><link>https://wallstreetcn.com/articles/3777636</link><guid>75b44129144362e98fb6dcbd5f672ea8193463d32394419d41bce6ee3881770d</guid><pubDate>Wed, 22 Jul 2026 02:57:04 GMT</pubDate><description>&lt;p&gt;耐克在中国市场动了真格。&lt;/p&gt;
+&lt;p&gt;目前来看，技术面信号、持仓结构与实物需求的共振，为黄金潜在的方向性突破提供了条件。但逼空能否真正启动，仍有待美联储政策信号、美元走势及地缘局势演变的进一步明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银：宽基ETF交易量显著放大，A股去杠杆可能接近尾声</title><link>https://wallstreetcn.com/articles/3777637</link><guid>faf5710a8815e0986e57df4c0ebbd75b11bb1483e13873c9c3b7588c9da4957e</guid><pubDate>Wed, 22 Jul 2026 03:30:41 GMT</pubDate><description>&lt;p&gt;全球科技股震荡，A股跟随下跌——但瑞银认为，这场去杠杆可能已经接近尾声。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，瑞银在7月22日发布的A股策略报告中指出，近期A股科技板块及相关指数出现大幅回调，背后有三重压力叠加。&lt;/p&gt;
+&lt;p&gt;第一，全球科技板块剧烈波动，全球主要股市隐含波动率同步飙升。第二，部分短线投资者在2026年上半年积累了可观涨幅后选择获利了结。第三，科技板块交易拥挤度持续攀升——瑞银数据显示，大科技板块（含电子、通信、计算机、国防）占全部A股市值和成交额的比例在2026年上半年快速上升，均创历史新高——这种拥挤本身就会在市场波动时放大抛压。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+基本面没有变，盈利改善趋势仍在
+&lt;p&gt;瑞银强调，尽管市场短期剧烈波动，A股整体及科技板块的盈利改善趋势并未改变。&lt;/p&gt;
+&lt;p&gt;具体数据上，瑞银预计全部A股盈利同比增速将从2025年的3.9%提升至2026年的11%。已披露的2026年一季报显示，非金融A股净利润同比增长11.8%，而2025年全年仅为+0.8%，盈利加速回升的信号明确。&lt;/p&gt;
+&lt;p&gt;科技板块方面，市场对创业板指2026年盈利增速的一致预期，年初至今已上调33个百分点；科创50的上调幅度更大，达到112个百分点。瑞银认为，全球AI仍处于快速发展的早期阶段，科技板块的盈利上修趋势仍在延续。&lt;/p&gt;
+&lt;p&gt;政策层面，&amp;quot;十五五&amp;quot;规划将科技自立自强列为重大目标，2026年世界人工智能大会期间的信号，均体现了政策层面对科技产业的持续支持。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+ETF大额净流入，“国家队”再度现身
+&lt;p&gt;市场大跌期间，资金并未单向出逃，反而有大规模资金借道ETF入场。&lt;/p&gt;
+&lt;p&gt;瑞银注意到，7月6日至20日，全部A股权益类ETF合计净流入超过3674亿元人民币。与此同时，多只宽基ETF的单日成交额出现明显放量。&lt;/p&gt;
+&lt;p&gt;值得关注的是，此轮净流入的结构与2024至2025年那轮有所不同。上一轮净流入主要集中在沪深300 ETF，而此次净流入分布更广，沪深300 ETF、创业板ETF、科创50 ETF均获得大规模净流入。&lt;/p&gt;
+&lt;p&gt;7月19日晚间，中国诚通和中国国新两家国有资本运营公司相继发声，表示看好中国资本市场并将增持A股；多家保险公司也表态将维护资本市场稳定。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+融资余额快速下降，去杠杆接近尾声
+&lt;p&gt;这轮调整中，市场最担心的问题之一是杠杆风险。瑞银的判断是：去杠杆可能已基本完成。&lt;/p&gt;
+&lt;p&gt;数据显示，截至2026年7月20日，全部A股融资余额为2.70万亿元，较6月25日创下的历史峰值3.01万亿元，已快速下降3124亿元。&lt;/p&gt;
+&lt;p&gt;分板块看，大科技板块融资余额从6月26日的1.1万亿元降至7月20日的9449亿元，快速减少1527亿元。&lt;/p&gt;
+&lt;p&gt;对于部分投资者担忧的杠杆水平问题，瑞银进一步做了横向比较：大科技板块、创业板、科创板的融资余额占各自流通市值的比例，与全市场整体水平相比并无实质性差异，并未出现异常集中的杠杆风险。以科创板为例，截至7月20日，融资余额占流通市值比例为5.8%，处于历史合理区间。&lt;/p&gt;
+&lt;p&gt;瑞银的结论是：随着融资余额快速下降，A股去杠杆进程可能已大体完成。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 耐克挥刀中国线上渠道：收权、控价、本土化</title><link>https://wallstreetcn.com/articles/3777636</link><guid>75b44129144362e98fb6dcbd5f672ea8193463d32394419d41bce6ee3881770d</guid><pubDate>Wed, 22 Jul 2026 02:57:04 GMT</pubDate><description>&lt;p&gt;耐克在中国市场动了真格。&lt;/p&gt;
 &lt;p&gt;7月22日盘前，滔搏宣布收到耐克正式通知，其在中国内地的耐克产品线上平台销售将于2027年1月1日起全面终止。&lt;/p&gt;
 &lt;p&gt;这项业务约占滔搏上一财年总收入的22%。以其257.4亿元收入计算，相关规模约为56.6亿元。滔搏预计，此次调整将在短期内对公司业务造成重大负面影响。&lt;/p&gt;
 &lt;p&gt;终止滔搏授权只是耐克重构中国市场的第一步。&lt;/p&gt;
