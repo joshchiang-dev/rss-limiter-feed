@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 17:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 17:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -206,26 +206,7 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;据央视新闻，据沙特方面23日消息，沙特阿拉伯“恩塞利亚”号油轮在红海航行时遭袭，袭击造成船头起火，船员均安全。此前，也门胡塞武装表示使用多枚弹道导弹、巡航导弹以及无人机，打击违反该组织海上禁运令的沙特油轮“恩塞利亚”号和“莱拉”号。&lt;/p&gt;
 &lt;p&gt;自本轮中东局势升级以来，曼德海峡作为连接红海与亚丁湾的关键水道，始终承担着全球重要原油出口的生命线职能。此次袭击事件不仅直接干扰了该航线的通航安全，更与美国和伊朗之间近期持续紧张的对峙态势相互叠加，显著放大了市场对潜在供应中断的恐慌情绪。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-业绩扎实，但指引成为市场焦点
-&lt;p&gt;&lt;strong&gt;两家公司的二季度财务数据均属稳健。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;德州仪器调整后每股收益同比跳升52%至2.14美元，高于市场预期的1.94美元；营收增长23%至54.6亿美元，亦超出分析师预期的52.6亿美元。三季度利润与营收指引中值同样优于预期。&lt;/p&gt;
-&lt;p&gt;意法半导体调整后每股收益翻逾一倍至31美分，营收增长26%至34.9亿美元，均略超分析师预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，两家公司的指引细节均触发了市场担忧。&lt;/strong&gt;意法半导体三季度营收指引低于预期，并提示个人消费电子业务将出现低于季节性规律的表现。德州仪器首席财务官Rafael Lizardi则向分析师表示，资本支出可能落在20亿至30亿美元指引区间的高端，令市场对自由现金流改善的预期受到压制。&lt;/p&gt;
-&lt;p&gt;Cantor分析师Matthew Prisco指出，德州仪器此前已是市场高度集中的多头仓位，叠加较高的预期基准，&amp;quot;在季节性指引（环比约+8%）结合定价、数据中心及周期性顺风因素的情况下，盘后抛售具有合理性&amp;quot;，并强调资本支出表态对现金流拐点预期构成压力。&lt;/p&gt;
-AI数据中心成为核心增长引擎
-&lt;p&gt;&lt;strong&gt;尽管短期股价承压，两家公司均呈现出AI基础设施需求强劲拉动的共同主线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;意法半导体首席执行官Jean-Marc Chery表示，四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心及低轨卫星通信需求带动。公司将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元——&lt;strong&gt;这已是公司自今年4月首次单独披露AI业务指引以来的第二次大幅上调。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;德州仪器同样报告了数据中心需求的快速增长，工业销售额增幅至少达30%，汽车业务亦录得中双位数增长。&lt;/p&gt;
-&lt;p&gt;彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;意法半导体与亚马逊AWS签署的电源管理芯片供应协议，据Chery表示将在未来三至五年持续贡献收入。&lt;/p&gt;
-高估值成为板块共同隐患
-&lt;p&gt;此次两家公司的市场反应，揭示了当前模拟半导体板块更深层的结构性矛盾。&lt;/p&gt;
-&lt;p&gt;意法半导体年内股价累计涨幅约119%，并于今年6月趁股价高位完成了15亿美元可转换债券发行；德州仪器年内涨幅亦约达60%。高涨幅意味着市场已提前计入相当程度的乐观预期，任何低于预期的指引都可能触发获利了结。&lt;/p&gt;
-&lt;p&gt;UBS分析师Francois-Xavier Bouvignies表示，意法半导体股价在过去三个月已累计上涨35%，&amp;quot;我们认为，缺乏实质性上调的财报，今日将对股价形成相对市场的压力&amp;quot;。&lt;/p&gt;
-&lt;p&gt;从行业整体来看，&lt;strong&gt;模拟半导体的基本面复苏方向并未改变，AI基础设施、工业及汽车需求均呈现回暖态势。但在估值已充分反映乐观情景的背景下，投资者对增长节奏的敏感度显著上升，业绩达标已不再足够，市场需要的是持续超越预期的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
 &lt;p&gt;据美银证券研报，Alphabet第二季度净营收达1036亿美元，高于市场预期的1011亿美元，谷歌云收入同比增长82%，远超市场预期的65%，加速势头尤为突出。&lt;/p&gt;
 &lt;p&gt;与此同时，公司将2026财年资本开支指引上调150亿美元至1950亿至2050亿美元区间，较此前1800亿至1900亿的指引大幅提升，这一消息成为压制股价的核心变量。&lt;/p&gt;
 &lt;p&gt;美银证券分析师Justin Post在报告中维持对Alphabet的&amp;quot;买入&amp;quot;评级，目标价430美元。他指出，&lt;strong&gt;尽管资本开支上调引发市场负面反应，但云业务积压订单、客户超额消费及云利润率的持续扩张，均表明增量投入正在直接转化为收入增长。&lt;/strong&gt;&lt;/p&gt;
@@ -291,7 +272,26 @@ AI数据中心成为核心增长引擎
 &lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
 水业务合资交易引入私募资本
 &lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
-&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 供需决定价格，茅台也不会例外</title><link>http://xueqiu.com/7368170779/401826226</link><guid>a054b9d1e3908167b295c54dc39a8516498fc7b944f8d357bec3222d6d27a2ab</guid><pubDate>Thu, 23 Jul 2026 09:57:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浩然斯坦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 17 日晚，茅台一纸公告：53 度 500ml 飞天茅台经销合同价从 1269 元上调至 1369 元，i 茅台平台零售价同步从 1539 元涨至 1639 元，单瓶各涨 100 元。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 意法半导体Q3营收指引未达市场预期，欧股股价暴跌17%｜财报见闻</title><link>https://wallstreetcn.com/articles/3777770</link><guid>d27486773b3bd79a09df7769d2ddd34dfa93caada0fa3cc59fba27c1a72d5774</guid><pubDate>Thu, 23 Jul 2026 08:21:51 GMT</pubDate><description>&lt;p&gt;意法半导体（STMicroelectronics）股价遭遇重挫。尽管公司再次上调全年AI业务收入预期，并预计第四季度增长进一步加速，但第三季度营收指引低于市场预期，高估值下投资者选择获利了结。&lt;/p&gt;
+&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+业绩扎实，但指引成为市场焦点
+&lt;p&gt;&lt;strong&gt;两家公司的二季度财务数据均属稳健。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德州仪器调整后每股收益同比跳升52%至2.14美元，高于市场预期的1.94美元；营收增长23%至54.6亿美元，亦超出分析师预期的52.6亿美元。三季度利润与营收指引中值同样优于预期。&lt;/p&gt;
+&lt;p&gt;意法半导体调整后每股收益翻逾一倍至31美分，营收增长26%至34.9亿美元，均略超分析师预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，两家公司的指引细节均触发了市场担忧。&lt;/strong&gt;意法半导体三季度营收指引低于预期，并提示个人消费电子业务将出现低于季节性规律的表现。德州仪器首席财务官Rafael Lizardi则向分析师表示，资本支出可能落在20亿至30亿美元指引区间的高端，令市场对自由现金流改善的预期受到压制。&lt;/p&gt;
+&lt;p&gt;Cantor分析师Matthew Prisco指出，德州仪器此前已是市场高度集中的多头仓位，叠加较高的预期基准，&amp;quot;在季节性指引（环比约+8%）结合定价、数据中心及周期性顺风因素的情况下，盘后抛售具有合理性&amp;quot;，并强调资本支出表态对现金流拐点预期构成压力。&lt;/p&gt;
+AI数据中心成为核心增长引擎
+&lt;p&gt;&lt;strong&gt;尽管短期股价承压，两家公司均呈现出AI基础设施需求强劲拉动的共同主线。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;意法半导体首席执行官Jean-Marc Chery表示，四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心及低轨卫星通信需求带动。公司将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元——&lt;strong&gt;这已是公司自今年4月首次单独披露AI业务指引以来的第二次大幅上调。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德州仪器同样报告了数据中心需求的快速增长，工业销售额增幅至少达30%，汽车业务亦录得中双位数增长。&lt;/p&gt;
+&lt;p&gt;彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;意法半导体与亚马逊AWS签署的电源管理芯片供应协议，据Chery表示将在未来三至五年持续贡献收入。&lt;/p&gt;
+高估值成为板块共同隐患
+&lt;p&gt;此次两家公司的市场反应，揭示了当前模拟半导体板块更深层的结构性矛盾。&lt;/p&gt;
+&lt;p&gt;意法半导体年内股价累计涨幅约119%，并于今年6月趁股价高位完成了15亿美元可转换债券发行；德州仪器年内涨幅亦约达60%。高涨幅意味着市场已提前计入相当程度的乐观预期，任何低于预期的指引都可能触发获利了结。&lt;/p&gt;
+&lt;p&gt;UBS分析师Francois-Xavier Bouvignies表示，意法半导体股价在过去三个月已累计上涨35%，&amp;quot;我们认为，缺乏实质性上调的财报，今日将对股价形成相对市场的压力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;从行业整体来看，&lt;strong&gt;模拟半导体的基本面复苏方向并未改变，AI基础设施、工业及汽车需求均呈现回暖态势。但在估值已充分反映乐观情景的背景下，投资者对增长节奏的敏感度显著上升，业绩达标已不再足够，市场需要的是持续超越预期的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 供需决定价格，茅台也不会例外</title><link>http://xueqiu.com/7368170779/401826226</link><guid>a054b9d1e3908167b295c54dc39a8516498fc7b944f8d357bec3222d6d27a2ab</guid><pubDate>Thu, 23 Jul 2026 09:57:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浩然斯坦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 17 日晚，茅台一纸公告：53 度 500ml 飞天茅台经销合同价从 1269 元上调至 1369 元，i 茅台平台零售价同步从 1539 元涨至 1639 元，单瓶各涨 100 元。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 意法半导体Q3营收指引未达市场预期，欧股股价暴跌17%｜财报见闻</title><link>https://wallstreetcn.com/articles/3777770</link><guid>d27486773b3bd79a09df7769d2ddd34dfa93caada0fa3cc59fba27c1a72d5774</guid><pubDate>Thu, 23 Jul 2026 08:21:51 GMT</pubDate><description>&lt;p&gt;意法半导体（STMicroelectronics）股价遭遇重挫。尽管公司再次上调全年AI业务收入预期，并预计第四季度增长进一步加速，但第三季度营收指引低于市场预期，高估值下投资者选择获利了结。&lt;/p&gt;
 &lt;p&gt;周四，意法半导体公布2026年第二季度财报，&lt;strong&gt;预计第三季度营收约37亿美元（指引中值），低于彭博统计的分析师平均预期39亿美元。&lt;/strong&gt;受此影响，公司欧股股价盘中一度暴跌17%，&lt;strong&gt;创2025年7月以来最大单日跌幅。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;管理层对全年增长前景依然充满信心。首席执行官Jean-Marc Chery表示，第四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心和低轨卫星通信需求带动；同时将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
