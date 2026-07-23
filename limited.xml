@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 11:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 11:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -201,7 +201,21 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;地缘政治风险亦在同步升温。特朗普总统警告称，若伊朗继续袭击霍尔木兹海峡船只，美方将打击伊朗桥梁及发电设施，德黑兰随即予以反警告。中东外交斡旋努力实际上已陷入停滞，军事打击仍在持续且未见缓和迹象。&lt;/p&gt;
 &lt;p&gt;油价攀升与中东局势交织叠加，令市场对美联储政策路径的判断愈发复杂。美联储下周将召开议息会议，货币市场目前定价加息概率约为30%，维持利率不变的概率为70%。美元指数小幅下跌0.2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌电话会：警告现金流压力将持续，但"需求仍超过投资增速"，Gemini 4已启动训练</title><link>https://wallstreetcn.com/articles/3777723</link><guid>dd8a65f46389f7e28a18eb742961a366e59d85fab6bb4741c4316daa664ee1d0</guid><pubDate>Thu, 23 Jul 2026 01:05:25 GMT</pubDate><description>&lt;p&gt;二季度云业务、搜索广告和AI产品共同推动收入增长，但为争夺算力与模型能力，公司正以更高资本开支和短期现金流压力，换取未来AI基础设施与企业服务市场份额。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 咖啡与可可成本压顶！雀巢下调利润率预期，股价暴跌创2020年来最大跌幅</title><link>https://wallstreetcn.com/articles/3777785</link><guid>a15d81b34cd38abea5385d574899dc4915905968c56017a0fda56185a192e03b</guid><pubDate>Thu, 23 Jul 2026 11:30:43 GMT</pubDate><description>&lt;p&gt;咖啡和可可价格高企正在侵蚀雀巢的盈利能力。&lt;/p&gt;
+&lt;p&gt;这家瑞士食品巨头周四下调下半年利润率预期，叠加销量增速不及部分投资者预期，股价单日重挫近7%，创下2020年以来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;雀巢表示&lt;strong&gt;，受咖啡和可可原料成本上涨拖累，公司今年上半年营业利润率同比下滑0.1个百分点至16.4%，营业利润下降2.8%至71亿瑞士法郎（约合87亿美元）。公司随即将下半年利润率预期由此前的&amp;quot;较上半年改善&amp;quot;下调为&amp;quot;与上半年大体持平&amp;quot;，令市场预期落空。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次业绩冲击发生在雀巢新管理层力推全面转型的关键节点。&lt;/strong&gt;新任首席执行官Philipp Navratil与董事长Pablo Isla——后者曾执掌Inditex——正致力于精简集团庞杂的组织架构并剥离部分业务。股价在财报发布前已因市场乐观预期而有所上涨，此番业绩不及预期令涨幅全数回吐。&lt;/p&gt;
+销量增速不及预期，成本压力多点承压
+&lt;p&gt;雀巢第二季度销量增速成为此次业绩的核心失望所在。市场此前普遍预期销量增速达2%，实际公布数字为1.8%，虽与分析师一致预期吻合，但低于部分投资者的更高预期。&lt;/p&gt;
+&lt;p&gt;巴克莱分析师Warren Ackerman表示，&amp;quot;&lt;strong&gt;考虑到此前的股价涨幅，这一销量数字还不够好。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;除原材料成本外，雀巢还面临多重额外压力。公司指出，营业利润率同时受到营销支出增加、关税影响，以及今年早些时候全球婴儿配方奶粉召回事件的拖累。此次召回涉及可能受到cereulide污染的产品——该毒素可引发恶心和呕吐。&lt;/p&gt;
+营收超预期，提价策略支撑顶线增长
+&lt;p&gt;尽管利润率承压，&lt;strong&gt;雀巢第二季度营收表现仍好于预期。&lt;/strong&gt;期内销售额增长3.7%，其中价格上涨贡献1.9个百分点，在一定程度上对冲了成本上升的影响。&lt;/p&gt;
+&lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
+水业务合资交易引入私募资本
+&lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
+&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌电话会：警告现金流压力将持续，但"需求仍超过投资增速"，Gemini 4已启动训练</title><link>https://wallstreetcn.com/articles/3777723</link><guid>dd8a65f46389f7e28a18eb742961a366e59d85fab6bb4741c4316daa664ee1d0</guid><pubDate>Thu, 23 Jul 2026 01:05:25 GMT</pubDate><description>&lt;p&gt;二季度云业务、搜索广告和AI产品共同推动收入增长，但为争夺算力与模型能力，公司正以更高资本开支和短期现金流压力，换取未来AI基础设施与企业服务市场份额。&lt;/p&gt;
 &lt;p&gt;7月22日美股盘后，谷歌最新公布的财报数据显示，谷歌二季度实现总营收1198亿美元，同比增长24%；营业利润达到408亿美元，同比增长30%。此外，受旗下投资组合（包括Anthropic和SpaceX等）的股权收益暴增带动，公司净利润实现惊人的四倍增长。&lt;/p&gt;
 &lt;p&gt;在一片大好的营收数据背后，市场与投资者的目光则紧紧锁定了两个核心：&lt;strong&gt;一是AI究竟为谷歌带来了多少实际的业务增量，二是这场似乎深不见底的“AI军备竞赛”究竟要烧掉多少钱。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;谷歌二季度资本开支达到449亿美元，其中绝大部分投向AI技术基础设施。公司同时将2026年全年资本开支指引由此前的1800亿至1900亿美元，上调至1950亿至2050亿美元。受此影响，公司当季自由现金流转为负59亿美元，而去年同期及过去多年，谷歌一直以强劲自由现金流著称。&lt;/p&gt;
@@ -399,51 +413,7 @@ Gemini 4启动“最具雄心”的训练，模型发布节奏将加快
 &lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 今天的问答环节到此结束。现在我将会议转回给吉姆·弗里德兰，请他作进一步发言。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;詹姆斯·弗里德兰（投资者关系负责人）：&lt;/strong&gt; 感谢大家今天的参与。我们期待在2026年第三季度电话会议上再次与大家交流。谢谢，祝大家晚安。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 谢谢大家。今天的电话会议到此结束，感谢各位的参与。您现在可以断开连接了。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻</title><link>https://wallstreetcn.com/articles/3777718</link><guid>cbbf39d9aae46d3da9c705a6591da4ee437251e51d405dee4c6141754aa3d850</guid><pubDate>Wed, 22 Jul 2026 23:55:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;谷歌母公司Alphabet公布第二季度业绩，云业务收入大幅超过华尔街预期，云积压订单首破5000亿美元大关。&lt;strong&gt;然而市场焦点迅速转向另一面：这是谷歌上市数十年来自由现金流首次转为负值，同时公司年内第二次上调全年资本开支指引，令投资者对AI豪赌能否带来相应回报的担忧骤然升温。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至6月30日的第二季度，Alphabet实现营收1197.96亿美元，同比增长24%；按固定汇率计算增长23%，连续第12个季度实现双位数收入增长。营业利润同比增长30%至407.7亿美元，营业利润率提升2个百分点至34%。&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;Google Cloud收入达到247.68亿美元，高于市场预期224.6亿美元，同比飙升82%，创近年来最快增速，显示AI投资正持续转化为商业回报。&lt;/strong&gt;搜索广告收入为632.7亿美元，略低于市场预期的632.8亿美元。&lt;/p&gt;
-&lt;p&gt;Alphabet持有包括Anthropic和SpaceX在内的多家公司的股份，受股权证券未实现收益大幅增加影响，&lt;strong&gt;当季投资收益近1000亿美元&lt;/strong&gt;，推动归属于普通股股东净利润同比增长298%至1121.07亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;财报发布后，谷歌股价小幅波动。财报电话会上，谷歌上调了全年资本开支指引在1950亿美元至2050亿美元之间，此前预计为1800亿-1900亿美元。消息发布后，市场担忧庞大资本开支能否带来相应回报，谷歌大跌4.2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;自由现金流首次转负，资本开支再度上调&lt;/strong&gt;
-&lt;p&gt;Alphabet二季度资本支出达到449.24亿美元，远高于去年同期的224.46亿美元，&lt;strong&gt;直接导致当季自由现金流转为-58.55亿美元（约-59亿美元）——这是谷歌上市数十年来首次出现季度自由现金流为负。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自由现金流是衡量企业在覆盖运营成本和资本支出后，可用于偿债或回馈股东的现金指标，历来是华尔街评估科技公司财务健康度的核心标尺。&lt;/p&gt;
-&lt;p&gt;财报电话会上，首席财务官Anat Ashkenazi宣布，&lt;strong&gt;2026年全年资本开支指引上调至1950亿-2050亿美元，高于此前1800亿-1900亿美元的预期，也超出分析师此前约1860亿美元的预测。这是谷歌年内第二次上调资本开支指引&lt;/strong&gt;——今年4月已将预期从此前水平上调至最高1900亿美元。&lt;/p&gt;
-&lt;p&gt;Ashkenazi表示：“我们预计自由现金流将持续承压，这是由我们对技术基础设施投资所驱动的，这些投资使我们能够抓住AI机遇并持续带来可观回报。”&lt;/p&gt;
-&lt;p&gt;但消息公布后，股价应声下跌。投资者的担忧在于：谷歌正从一家轻资产企业快速转型为资本密集型公司。为支撑庞大的AI基础设施投入，Alphabet近期举债近1000亿美元，并于6月完成上市二十余年来首次股票发行，净募资约850亿美元——这与此前多年持续回购股票的策略形成鲜明逆转。&lt;/p&gt;
-&lt;p&gt;Investing.com高级分析师Thomas Monteiro直言：“资本开支的再度上调对Alphabet而言并不利。加之利率上行环境和AI基础设施供需持续紧张，&amp;#x27;依靠经营现金流自我造血&amp;#x27;的逻辑正在开始动摇。”&lt;/p&gt;
-&lt;p&gt;不过，资产管理公司SLC Management董事总经理Dec Mullarkey持相对乐观态度：“市场希望看到超大规模云厂商奋力争夺AI领导地位，但不能以侵蚀盈利为代价。目前Alphabet还在维持这一平衡。”&lt;/p&gt;
-&lt;p&gt;Ashkenazi补充称，公司将综合运用经营现金流、债务及股权融资来支撑支出，并明确表示不会在已公告范围之外进一步增发股票，同时强调将维持稳健的资产负债表。&lt;/p&gt;
-Google Cloud成为最大增长引擎
-&lt;p&gt;分业务来看，Google Cloud继续成为Alphabet增长最快的业务。&lt;/p&gt;
-&lt;p&gt;第二季度，Google Cloud收入达到247.68亿美元，同比增长82%，较此前进一步加速。公司表示，增长主要来自Google Cloud Platform（GCP）企业AI解决方案、企业AI基础设施以及核心云服务需求持续增长。与此同时，Google Cloud营业利润达到88.14亿美元，较去年同期的28.26亿美元大幅提升，盈利能力明显增强。&lt;/p&gt;
-&lt;p&gt;云业务积压订单（backlog，即已签约但尚未确认收入的合同金额）增至5140亿美元，较上季度约4600亿美元进一步扩大，首次突破5000亿美元。公司表示，其中超过一半预计将在未来24个月内确认为收入，客户涵盖“广泛的混合客群”。&lt;/p&gt;
-&lt;p&gt;Monteiro表示，云业务的超预期表现至少清晰表明，公司的AI投资正在“转化为高速增长的盈利性收入，相关合同在产能建成后即刻落地兑现”。&lt;/p&gt;
-&lt;p&gt;尽管谷歌云仍落后于亚马逊AWS和微软Azure，但凭借AI初创企业和企业客户对AI基础设施的强劲需求，它已成为Alphabet增长最快的业务之一。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;相比之下，传统广告业务依然保持稳健增长：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Google Search及其他业务收入632.71亿美元，同比增长17%；&lt;/li&gt;
-&lt;li&gt;YouTube广告收入110.55亿美元，同比增长13%；YouTube月度独立用户方面，2026年世界杯期间超过17亿独立用户通过该平台观看相关视频，进一步带动流量增长；&lt;/li&gt;
-&lt;li&gt;Google订阅、平台及设备业务收入129.11亿美元，同比增长15%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;整体Google Services业务收入达到945.4亿美元，同比增长15%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-CEO：AI投资正在重塑整个Google，聚焦Gemini 4
-&lt;p&gt;Alphabet CEO Sundar Pichai表示，公司AI投资正在重新定义整个业务。&lt;strong&gt;他对投资者说：“感觉我们正处于多个领域长期结构性转变的极早期阶段……过去一年，我们对未来机遇愈发乐观。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他透露，目前已有接近90%的《财富》100强企业使用Gemini Enterprise；Gemini模型每分钟处理220亿个API Token，Gemini App月活跃用户达到9.5亿。eMarketer首席分析师Nate Elliott指出：“Gemini距离成为谷歌第三个拥有十亿用户的消费级AI产品（与AI Overviews和AI Mode并列）只有一步之遥。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在模型路线图方面，Pichai将重心转向下一代旗舰模型Gemini 4，称其为“规模更大的下一代前沿模型”，目前正集中算力优先推进训练，并表示谷歌模型发布的节奏将会加快。&lt;/strong&gt;此前Gemini 3.5 Pro的延迟发布已引发外界对谷歌在AI编程等领域竞争力的质疑，Anthropic和OpenAI已在开发者群体中取得明显优势。&lt;/p&gt;
-&lt;p&gt;与此同时，AI功能持续推动Google搜索查询量增长，公司网络安全产品需求亦保持强劲，新推出的Gemini 3.5 Flash Cyber在成本效率方面表现突出。此外，2026年世界杯期间，超过17亿独立用户通过YouTube观看相关视频，进一步带动平台流量增长。&lt;/p&gt;
-&lt;p&gt;Pichai表示，公司“差异化的全栈AI战略”正在持续为消费者、企业客户及合作伙伴创造可量化的商业价值。&lt;/p&gt;
-持续加码AI基础设施
-&lt;p&gt;为满足不断增长的AI算力需求，Alphabet二季度进一步加强融资。&lt;/p&gt;
-&lt;p&gt;公司6月完成A类股、C类股及强制可转换优先股发行，净募资496亿美元；同时发行203亿美元高级无担保债券；另设立最高400亿美元ATM股票发行计划，截至二季度末尚未启动。上述举措使Alphabet近期累计举债接近1000亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;由于资本开支大幅增加，当季自由现金流转为-58.55亿美元，但过去12个月自由现金流仍达到532.73亿美元。&lt;/strong&gt;与此同时，四大超大规模云厂商（谷歌、Meta、微软、亚马逊）2026年合计资本开支预计将突破7250亿美元，整个科技行业的自由现金流已降至十年低位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;整体来看，这份财报呈现出鲜明的“双面性”：云业务爆发式增长和积压订单突破5000亿美元，印证了AI投资开始兑现商业回报；但自由现金流首次转负、资本开支年内二度上调，则令市场对这场AI军备竞赛的可持续性保持高度警惕。谷歌能否在争夺AI领导地位与维护财务健康之间持续走钢丝，将是未来数季度投资者最关注的核心命题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什时代的美联储太难猜！临近FOMC，市场仍无法确定下周的政策走向</title><link>https://wallstreetcn.com/articles/3777732</link><guid>d73a36dc0e274af5f5110ef791d00efa01083119e8f0954a167fb02ae45b612f</guid><pubDate>Thu, 23 Jul 2026 01:46:33 GMT</pubDate><description>&lt;p&gt;距离美联储下次议息会议仅剩数日，市场对其政策走向的判断却依然高度分歧——这在近年来极为罕见。新任主席沃什彻底抛弃前任惯用的前瞻指引做法，正在从根本上重塑交易员与美联储之间的信息博弈规则。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什时代的美联储太难猜！临近FOMC，市场仍无法确定下周的政策走向</title><link>https://wallstreetcn.com/articles/3777732</link><guid>d73a36dc0e274af5f5110ef791d00efa01083119e8f0954a167fb02ae45b612f</guid><pubDate>Thu, 23 Jul 2026 01:46:33 GMT</pubDate><description>&lt;p&gt;距离美联储下次议息会议仅剩数日，市场对其政策走向的判断却依然高度分歧——这在近年来极为罕见。新任主席沃什彻底抛弃前任惯用的前瞻指引做法，正在从根本上重塑交易员与美联储之间的信息博弈规则。&lt;/p&gt;
 &lt;p&gt;利率互换市场显示，交易员目前预计美联储在7月29日会议上加息25个基点的概率约为30%，维持利率不变的概率约为70%。如此接近会议日期仍存在如此大的分歧，在近年来极为罕见。&lt;/p&gt;
 &lt;p&gt;据彭博周四报道，Bianco Research总裁兼宏观策略师Jim Bianco表示：&lt;strong&gt;“没有前瞻指引，意味着我们将频繁看到20%、30%、40%的概率分布。市场正在向这种新的思维方式过渡。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一不确定性的直接影响已在债券市场显现。对于押注美联储动向的交易员而言，猜对将获得更丰厚的回报，猜错则面临更大的损失。利率互换市场目前已完全定价9月加息25个基点，并隐含明年3月前累计加息逾两次。&lt;/p&gt;
@@ -569,7 +539,22 @@ AI数据中心成为增长核心
 &lt;p&gt;尽管AI业务增长迅猛，传统业务仍未摆脱低迷局面。&lt;/p&gt;
 &lt;p&gt;作为特斯拉、苹果等企业的核心芯片供应商，&lt;strong&gt;意法半导体近两年来持续受到汽车与消费电子需求疲软，以及客户库存去化进程缓慢的双重压力，传统业务的复苏步伐依然迟缓。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在此背景下，近年来Chery积极推动公司战略转型，降低对汽车和消费电子市场的依赖，将重心转向AI数据中心、工业电源及通信等高成长性领域。目前，&lt;strong&gt;AI业务正逐步成为公司新的增长引擎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”</title><link>https://wallstreetcn.com/articles/3777724</link><guid>d4f8cf1241470b922425bf6b37191b4190fd6c9abfc0ed02cff10a797b53bee7</guid><pubDate>Thu, 23 Jul 2026 00:08:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报季开局强劲，为何美股却难创新高？摩根大通：“盈利燃料”正在耗尽</title><link>https://wallstreetcn.com/articles/3777787</link><guid>12145462539e3231272f719a6c9409a325ab16a9c3d9bf9d4306d1daa4e080ae</guid><pubDate>Thu, 23 Jul 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;美股第二季度财报季开局亮眼，但强劲业绩未能推动市场突破历史高点。摩根大通警告，&lt;strong&gt;驱动美股上行的&amp;quot;盈利燃料&amp;quot;正逐渐耗尽，多项先行指标显示盈利修正的上行空间已趋于收窄。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛、美国银行、谷歌、特斯拉等华尔街巨头与科技龙头相继发布财报，BNY Mellon、强生、软件公司ServiceNow等企业纷纷上调全年业绩指引，财报季整体表现强劲。然而，标普500指数本月基本原地踏步，截至周三收盘仍距历史高点逾1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通策略师团队在周四发布的报告中指出，&lt;strong&gt;伊朗战争已改变通胀走势，进而影响短期和长期利率预期，令市场环境趋于复杂。在此背景下，即便业绩超预期并上调指引，也愈发难以成为推动股价进一步走高的催化剂。&lt;/strong&gt;&lt;/p&gt;
+盈利修正动能减弱，上行空间收窄
+&lt;p&gt;摩根大通策略师团队由Khuram Chaudhry领衔，在报告中写道：&lt;strong&gt;&amp;quot;盈利上调虽然普遍，但修正趋势表明燃料可能即将耗尽。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该团队重点关注生产者价格通胀与消费者价格通胀之间的利差。&lt;/p&gt;
+&lt;p&gt;据摩根大通数据，企业销售额与该利差的相关性约为47%，每股盈利与该利差的相关性约为29%。目前，这一利差似乎已触顶并陷入停滞。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;如果这一趋势持续，风险在于每股盈利和销售预测的进一步上调空间可能十分有限&lt;/strong&gt;，&amp;quot;上述策略师表示。&lt;/p&gt;
+ISM订单库存比走低，需求信号趋弱
+&lt;p&gt;除通胀利差外，摩根大通还指出另一项值得警惕的指标——美国供应管理协会（ISM）的订单与库存比率过去三个月持续下滑，进一步印证了盈利上行动能减弱的判断。&lt;/p&gt;
+&lt;p&gt;该比率通常被视为制造业需求前景的先行指标，其持续走低意味着企业订单增速相对库存积累有所放缓，对未来营收和盈利预期构成潜在压力。&lt;/p&gt;
+高分歧个股与高风险资产优势消退
+&lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
+&lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
+&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”</title><link>https://wallstreetcn.com/articles/3777724</link><guid>d4f8cf1241470b922425bf6b37191b4190fd6c9abfc0ed02cff10a797b53bee7</guid><pubDate>Thu, 23 Jul 2026 00:08:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对创纪录的二季度交付数据与飙升的资本支出，马斯克向华尔街描绘了一个由Robotaxi、人形机器人和海量AI算力构成的庞大帝国，并试图用极致的扩张速度重塑市场的想象空间。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777719"&gt;华尔街见闻提及&lt;/a&gt;，美东时间22日美股盘后，特斯拉公布二季度财报，营收为282.4亿美元，较分析师预期高逾7%，三年来首次营收同比增速超过20%。&lt;/p&gt;
 &lt;p&gt;然而二季度调整后每股收益同比下降18%至0.33美元，较分析师预期低逾35%，当季毛利率16.8%，低于预期的19.4%。&lt;/p&gt;
@@ -797,62 +782,15 @@ TerraFab与芯片自研：从AI4到AI6的布局
 &lt;p&gt;我们认为，电力供应短缺对 AI 而言是一个切实存在的重大瓶颈——仅仅是开启 AI 计算机就已经面临挑战。AI 算力需求极为旺盛，即便是&amp;quot;超大规模&amp;quot;云服务商也面临开机难、寻找电力难的困境，更难以处理训练过程中的功率大幅波动。在训练任务运行期间，功耗可能在100毫秒内骤降70%，需要快速响应、先进的电力电子设备来平滑这些剧烈波动。这正是 SpaceX 为数据中心采购大量 Megapack 的核心原因——主要是为了平滑训练期间的功率波动，同时也有助于向电网申请更大功率——告知电力公司，在用电高峰时段无需保证供电，因为电池可以接管，这大大降低了电力公司的供电压力。&lt;/p&gt;
 &lt;p&gt;事实上，电池可能是提升美国整体能源产出的最有效途径。美国目前的发电装机约为1.2至1.3太瓦，但平均用电量仅为0.5太瓦，发电能力是平均用电量的约2.5倍。这意味着仅靠储能，就有潜力将美国的实际可用能源翻倍。因此，我们预计未来对 Megapack 的需求将非常非常旺盛。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 今天的问答时间到此结束。感谢各位的提问，期待下个季度与大家再会。谢谢大家。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 布油逼近100美元大关，全球债市先“跌”为敬，押注“利率更高更久”</title><link>https://wallstreetcn.com/articles/3777780</link><guid>959c48dd749efcfe77736f96b9be1365781ab2312b10fe21fed55a1c3e8d05d6</guid><pubDate>Thu, 23 Jul 2026 10:06:15 GMT</pubDate><description>&lt;p&gt;全球债券市场再度遭遇抛售。随着中东局势持续升级，油价重拾涨势，&lt;strong&gt;市场对能源驱动型通胀卷土重来的担忧迅速升温，推动欧美国债收益率全线走高&lt;/strong&gt;，并促使投资者重新定价主要央行未来的利率路径。&lt;/p&gt;
-&lt;p&gt;周四，德国10年期国债收益率上涨3个基点至3.21%，创2011年以来最高水平；美国10年期国债收益率盘中升至4.68%，逼近中东冲突爆发初期触及的4.69%高点。与此同时，交易员已完全计入欧洲央行年内再加息两次、每次25个基点的预期，而美联储明年初重启加息的押注也持续升温。&lt;/p&gt;
-&lt;p&gt;市场情绪逆转的核心逻辑，在于能源风险重新成为通胀主线。美伊冲突持续升级，霍尔木兹海峡恢复正常通航的预期不断回落，令供应端紧张情绪再度升温。&lt;/p&gt;
-&lt;p&gt;据新华社，也门胡塞武装当地时间23日凌晨表示已在红海袭击两艘沙特油轮，并称这两艘油轮违反该组织近期宣布的海上禁运令。这一消息显著加剧了市场对原油供应中断的担忧，推动布伦特原油价格周四盘中上涨近3%。&lt;/p&gt;
-油价推升通胀预期，全球债券收益率刷新多年高位
-&lt;p&gt;&lt;strong&gt;本周主要发达经济体国债收益率普遍攀升至多年高位。&lt;/strong&gt;其中，法国10年期国债收益率突破4%，为2009年以来首次；英国10年期国债收益率上涨5个基点至5.08%，虽仍低于5月高点，但维持在高位运行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;德国国债成为本轮抛售的焦点。&lt;/strong&gt;自7月初以来，10年期德债收益率几乎伴随布伦特原油从70美元上方快速攀升而同步走高，反映&lt;strong&gt;市场正重新计入能源价格上涨带来的长期通胀风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;RBC BlueBay资产管理市场策略主管Mike Bell表示，投资者一直希望霍尔木兹海峡问题能够尽快翻篇，但这种预期从一开始就过于乐观。把头埋进沙子里，并不能应对地缘风险。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-能源价格飙涨，欧央行加息预期骤然升温
-&lt;p&gt;&lt;strong&gt;尽管油价和天然气价格快速上涨，欧洲央行周四议息会议预计仍将维持存款利率在2.25%不变&lt;/strong&gt;，以评估中东局势对经济和通胀的影响。&lt;/p&gt;
-&lt;p&gt;不过，&lt;strong&gt;市场对进一步收紧政策的预期明显升温。&lt;/strong&gt;据彭博，ING策略师Francesco Pesole认为，&lt;strong&gt;不能完全排除意外加息的可能性&lt;/strong&gt;。他指出，中东局势进一步恶化，加之欧洲天然气价格上涨速度快于原油，可能令欧洲央行管理委员会内部鹰派立场重新占据上风。&lt;/p&gt;
-&lt;p&gt;欧洲央行管委、德国央行行长Joachim Nagel此前也表示，&lt;strong&gt;能源价格走势将是决定未来通胀前景的关键变量，央行必须保持警惕。&lt;/strong&gt;本周欧洲天然气价格已升至2023年以来最高水平，也进一步强化了市场对欧洲央行重新加息的押注。&lt;/p&gt;
-美联储政策预期迅速逆转
-&lt;p&gt;美国市场同样经历政策预期的大幅调整。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》报道，&lt;strong&gt;利率衍生品市场显示，投资者目前预计美联储将在明年3月前至少加息两次，每次25个基点，而就在中东冲突爆发前，市场主流预期仍是继续降息。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新任美联储主席沃什在上月首次主持议息会议时释放鹰派信号，表示如有必要将继续加息，并强调政策将以通胀目标为导向，而非迎合外部政治压力。&lt;/p&gt;
-&lt;p&gt;与此同时，美国短期通胀预期持续走高。一年期通胀互换利率周四升至4.15%，创2025年1月以来最高。巴克莱美国通胀策略主管Jon Hill表示，&lt;strong&gt;市场一方面提高了对加息的预期，另一方面通胀预期却仍在上升，这说明此次通胀压力未必能够仅靠货币政策解决。&lt;/strong&gt;&lt;/p&gt;
-战略石油储备缓冲减弱，市场担忧持续升温
-&lt;p&gt;比起此前几轮油价上涨，&lt;strong&gt;本轮能源冲击更令投资者担忧的一点在于，各国可用于平抑油价的政策工具正在减少。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》，英国央行在最新金融稳定报告中警告，&lt;strong&gt;如果中东局势进一步恶化，各国战略石油储备释放等过去曾发挥缓冲作用的政策工具，能够提供的支持可能已经十分有限。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管布伦特原油仍低于5月创下的126美元/桶高点，但&lt;strong&gt;债券市场持续上升的收益率显示，投资者已开始为更持久的能源驱动型通胀做准备。&lt;/strong&gt;随着柴油、汽油及天然气价格同步上涨，能源冲击正逐步向更广泛的经济领域传导。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌、特斯拉双双现金流转负，对于AI交易意味着什么？</title><link>https://wallstreetcn.com/articles/3777767</link><guid>cd1bac5483d61c8df711bcbd963cf2b255f59aca753f8518d1c196e2721c50fc</guid><pubDate>Thu, 23 Jul 2026 07:20:40 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet与特斯拉在本轮科技财报季率先亮相，却共同传递出一个令市场不安的信号：&lt;strong&gt;激进的AI资本支出正在吞噬现金流，而收入超预期的亮眼表现，已不足以安抚投资者的担忧情绪。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两家公司均在最新季度录得负自由现金流，并同时警告资本支出将进一步攀升。财报发布后，&lt;strong&gt;特斯拉盘后股价下跌4%，Alphabet跌近3%&lt;/strong&gt;。这一市场反应表明，&lt;strong&gt;投资者对AI投资回报的耐心正在经受考验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;谷歌历来被视为四大云计算巨头中现金流最充裕的&amp;quot;异类&amp;quot;，如今在AI烧钱大战中却也未能幸免——第二季度自由现金流转负59亿美元，与去年同期近250亿美元的盈余形成鲜明反差。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一幕对整个科技行业而言或许是一个不祥的前兆。&lt;/strong&gt;Meta、微软、亚马逊和苹果均将于下周陆续公布季度业绩，投资者将密切审视这些科技巨头是否面临同样的现金流压力。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3777694"&gt;华尔街见闻文章&lt;/a&gt;此前写道，美国银行最新报告指出，四大超大规模云计算商中，有三家预计将在今年年底前耗尽自由现金流——这场&amp;quot;代际转移&amp;quot;正在深刻重塑大型科技股的投资逻辑。&lt;/p&gt;
-现金流双双转负，数字触目惊心
-&lt;p&gt;谷歌母公司Alphabet与特斯拉的现金流恶化程度，远超市场此前预期。&lt;/p&gt;
-&lt;p&gt;财报显示，&lt;a href="https://wallstreetcn.com/articles/3777718"&gt;谷歌第二季度自由现金流跌至负59亿美元&lt;/a&gt;。这一数字与一年前形成了鲜明反差——彼时这家以广告业务高利润率著称的公司，自由现金流接近250亿美元。谷歌首席财务官Anat Ashkenazi在&lt;a href="https://wallstreetcn.com/articles/3777723"&gt;财报电话会议&lt;/a&gt;上表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们预计自由现金流将持续承压，这是由我们在技术基础设施方面的投资所驱动的，这些投资使我们能够把握AI机遇并持续创造可观回报。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;她补充说，第二季度高达449亿美元的资本支出，大部分流向了支撑AI建设的基础设施。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特斯拉的情况同样急剧恶化。&lt;/strong&gt;最新财报显示，&lt;a href="https://wallstreetcn.com/articles/3777719"&gt;特斯拉第二季度自由现金流录得负11亿美元&lt;/a&gt;，而一年前为正1.46亿美元，今年一季度则为正14.4亿美元。第二季度资本支出同比飙升142%至57.9亿美元。&lt;/p&gt;
-&lt;p&gt;首席执行官&lt;a href="https://wallstreetcn.com/articles/3777724"&gt;马斯克在财报电话会议上&lt;/a&gt;表示，&amp;quot;这是一个大规模资本支出年，但我们相信所有投资都将带来惊人回报。&amp;quot;他将特斯拉当前的扩张比作亨利·福特时代的Model T，并称&amp;quot;这可能是二战以来美国速度最快的工业规模化扩张&amp;quot;。&lt;/p&gt;
-支出规模持续上调，上限不断被突破
-&lt;p&gt;两家公司不仅未能给出收缩支出的信号，反而进一步上调了全年资本支出指引。&lt;/p&gt;
-&lt;p&gt;谷歌将今年资本支出预测区间从此前的1800亿至1900亿美元，上调至1950亿至2050亿美元，并&lt;strong&gt;警告2027年数字将进一步走高&lt;/strong&gt;。若以新指引上限计算，谷歌今年的资本支出规模有望跻身科技行业最高之列，与亚马逊逾2000亿美元的指引相当。&lt;/p&gt;
-&lt;p&gt;特斯拉则重申今年资本支出将超过250亿美元，较去年同期增长约200%。公司正将工厂改造为生产双座无人驾驶Cybercab和Optimus人形机器人的设施，同时筹备在德克萨斯州建设一座大型AI芯片制造工厂。马斯克表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们应该尽可能快地进行资本支出，只要不过于浪费。资本效率稍低一些是可以接受的，只要我们能更快地完成目标。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-华尔街警告：现金流危机或蔓延至整个超大规模云计算行业
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777694"&gt;华尔街见闻文章写道&lt;/a&gt;，美国银行最新报告指出，这场现金流压力并非Alphabet和特斯拉的个案，而是整个超大规模云计算行业面临的系统性挑战。&lt;/p&gt;
-&lt;p&gt;报告显示，&lt;strong&gt;Meta和亚马逊最快将于本季度出现负自由现金流，微软则预计在今年第四季度（即其2027财年第二季度）步其后尘。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;彭博Markets Live策略师Tatiana Darie认为，随着自由现金流趋于枯竭，这些科技巨头将不得不转向外部融资，在大多数情况下意味着增加债务或摊薄现有股东权益。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;更高的债务负担意味着财务杠杆上升，而股权稀释则直接侵蚀每股盈利，两者均将对估值构成压力，并迫使市场重新评估AI投资的长期回报逻辑。&lt;/p&gt;
-&lt;/blockquote&gt;
-多空分歧加剧，市场耐心面临考验
-&lt;p&gt;尽管盘后股价承压，但看多阵营的声音并未消退。&lt;/p&gt;
-&lt;p&gt;Mizuho分析师在研报中写道，&lt;strong&gt;谷歌资本支出的上调&amp;quot;在市场预期之内&amp;quot;&lt;/strong&gt;，整体故事依然积极，主要得益于云业务收入同比大幅增长82%，远超预期，云业务利润率也有所扩张，Gemini模型的使用量加速增长。&lt;strong&gt;&amp;quot;因此，我们对股价盘后下跌感到意外，预计明日交易中将会回升。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;投资咨询公司Fitz-Gerald Group负责人Keith Fitz-Gerald表示，&lt;strong&gt;特斯拉正在&amp;quot;为基础设施牺牲盈利能力&amp;quot;&lt;/strong&gt;，这与亚马逊和Netflix此前走过的路径如出一辙，&lt;strong&gt;&amp;quot;我预计这将在未来12至36个月内得到丰厚回报。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;科技研究公司Valoir首席执行官Rebecca Wettemann则表示，&lt;strong&gt;谷歌核心业务依然强劲，AI投资正在产生回报，&amp;quot;谷歌的势头应能缓解市场对AI过度支出的部分担忧。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;市场的整体情绪仍显脆弱。&lt;/strong&gt;进入本周财报发布前，Alphabet股价已连续三个月下跌，特斯拉7月以来累计下跌11%，年内跌幅达17%。以科技股为主的纳斯达克指数自6月初创下历史高点以来已累计下跌约5%。&lt;/p&gt;
-&lt;p&gt;随着&lt;strong&gt;Meta、微软、亚马逊和苹果下周相继登场&lt;/strong&gt;，AI资本支出与投资回报之间的张力，将迎来更为严峻的市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Moncler上半年营收12.9亿欧元，亚太市场需求对冲欧洲区下滑</title><link>https://wallstreetcn.com/articles/3777783</link><guid>870a9194dc337550793b2fff59b6619db9936cd895aba3f12e41c33b8e3aca7d</guid><pubDate>Thu, 23 Jul 2026 10:40:25 GMT</pubDate><description>&lt;p&gt;7月23日，Moncler公布截至2026年6月30日的上半财年业绩。财报显示，集团上半年实现总营收12.899亿欧元，按固定汇率计算（下同）同比增长9%；净利润为1.647亿欧元，同比增长7.3%，营业利润率提升至19.0%。&lt;/p&gt;
+&lt;p&gt;在利润端，集团维持了较高的溢价水平。上半年毛利润为9.952亿欧元，毛利率微升至77.2%。截至6月底，集团净现金流从去年同期的9.81亿欧元增至11.12亿欧元。&lt;/p&gt;
+&lt;p&gt;但在整体指标稳健的背后，业绩的逐季放缓态势已经显现。财报显示，一季度集团营收增速达12%，而二季度单季营收为4.093亿欧元，增速已回落至5%。&lt;/p&gt;
+&lt;p&gt;按品牌划分，核心品牌Moncler上半年营收10.896亿欧元，占总营收84.5%，同比增长9%。渠道层面，直营化策略继续拉动增长。&lt;/p&gt;
+&lt;p&gt;该品牌直营业务营收达9.332亿欧元，同比增长10%，占品牌总收入比例达86%；同店销售额增长7%。相比之下，批发渠道营收1.564亿欧元，增幅仅3%。&lt;/p&gt;
+&lt;p&gt;旗下另一品牌Stone Island上半年营收2.003亿欧元，同比增长11%，直营渠道营收实现16%的较高增长。&lt;/p&gt;
+&lt;p&gt;区域市场的冷热分化是本期财报的核心特征。&lt;/p&gt;
+&lt;p&gt;涵盖中国市场的亚太地区已成为集团最大的业绩支撑。&lt;/p&gt;
+&lt;p&gt;数据显示，Moncler品牌在亚太区上半年营收达5.929亿欧元，占比高达54%。在二季度全球增速放缓的背景下，亚太区单季仍录得12%的增长。中国及周边市场的消费需求，直接对冲了欧美大盘的下行压力。此外，Stone Island在亚太区上半年营收激增25%，显示出较强的渗透趋势。&lt;/p&gt;
+&lt;p&gt;相比之下，欧洲市场成为业绩拖累项。Moncler品牌在EMEA区域一季度微增1%，进入二季度则直接出现8%的同比下滑。财报指出，这主要受旅游客流减少及6月本土零售环境降温所致。美洲市场表现平淡，上半年录得4%的增长。&lt;/p&gt;
+&lt;p&gt;整体而言，Moncler上半年交出了一份稳健的答卷，但二季度的增速放缓以及欧洲市场的疲软表明，全球奢侈品消费的回暖并非线性。如何在中国市场保持增长动能的同时，平衡区域风险、完成品牌季节性转型，将是Rongone上任后的核心命题。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
