@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 14:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 15:29:39 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -206,7 +206,26 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;据央视新闻，据沙特方面23日消息，沙特阿拉伯“恩塞利亚”号油轮在红海航行时遭袭，袭击造成船头起火，船员均安全。此前，也门胡塞武装表示使用多枚弹道导弹、巡航导弹以及无人机，打击违反该组织海上禁运令的沙特油轮“恩塞利亚”号和“莱拉”号。&lt;/p&gt;
 &lt;p&gt;自本轮中东局势升级以来，曼德海峡作为连接红海与亚丁湾的关键水道，始终承担着全球重要原油出口的生命线职能。此次袭击事件不仅直接干扰了该航线的通航安全，更与美国和伊朗之间近期持续紧张的对峙态势相互叠加，显著放大了市场对潜在供应中断的恐慌情绪。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
+&lt;p&gt;尽管主流经济学家一致预计美联储下周将按兵不动，&lt;strong&gt;但利率市场隐含的加息概率已升至约30%，推动美国国债收益率全线走高。&lt;/strong&gt;其中，两年期美债收益率创2025年初以来新高，10年期收益率升至年内高位，30年期收益率则逼近2007年以来最高水平。&lt;/p&gt;
+&lt;p&gt;花旗7月23日发布的研究报告认为，这一市场定价并不意味着投资者普遍押注美联储即将加息，而&lt;strong&gt;更多反映的是，在前瞻指引趋于模糊、油价推升通胀风险的背景下，投资者正要求更高的风险溢价来应对政策意外。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+美债收益率走高，市场计入约30%加息概率
+&lt;p&gt;近期，中东局势升级带动国际油价持续上涨，市场对通胀卷土重来的担忧重新升温，美国国债收益率因此持续攀升。&lt;/p&gt;
+&lt;p&gt;周四，对货币政策最敏感的两年期美债收益率上涨至4.365%左右；基准10年期美债收益率同步刷新年内高点；30年期美债收益率升至5.19%，距离2007年以来高位仅一步之遥。&lt;/p&gt;
+&lt;p&gt;与此同时，利率期货显示，美联储下周会议已隐含约30%的加息概率。不过，&lt;strong&gt;这一定价与主流预期明显背离。彭博调查显示，70位受访经济学家中，没有任何一位预计美联储将在下周加息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+花旗：30%不是市场预测，而是风险溢价
+&lt;p&gt;对于这一看似矛盾的现象，花旗给出了不一样的解释。&lt;/p&gt;
+&lt;p&gt;花旗经济学家Andrew Hollenhorst、Veronica Clark和Gisela Young指出，&lt;strong&gt;市场定价中的30%并不代表投资者真的认为美联储有三成概率加息，而是包含了额外的风险溢价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告认为，由于下周会议几乎不存在降息可能，政策风险天然偏向单边。&lt;strong&gt;一旦美联储意外加息，债券市场受到的冲击将远高于按兵不动，因此投资者愿意支付额外成本，为这种尾部风险提前定价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;花旗指出，历史上，美联储会议对应的风险溢价通常仅为1至2个基点，但随着近年来美联储减少前瞻指引、政策沟通更依赖数据，不确定性有所上升，市场要求的风险补偿也随之扩大。&lt;/p&gt;
+&lt;p&gt;这一逻辑同样能够解释当前长端利率的走势。花旗认为，&lt;strong&gt;如果未来某次会议真的意外加息，市场往往会将其视为新一轮加息周期的开始，而非一次孤立事件，因此终端利率预期也会相应抬升。&lt;/strong&gt;正因如此，目前市场已定价到明年3月累计加息超过50个基点，但这并不意味着它就是投资者的基准情景。&lt;/p&gt;
+花旗：前瞻指引越模糊，利率越容易维持高位
+&lt;p&gt;花旗认为，&lt;strong&gt;近期油价上涨只是促使市场重新评估政策路径的催化剂，更深层的原因在于美联储沟通框架的变化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告指出，中东局势推升油价及美国汽油价格，强化了市场对通胀风险重新升温的担忧。而在美联储官员未提供明确政策指引的情况下，这种不确定性进一步放大了市场对政策意外的担忧。&lt;/p&gt;
+&lt;p&gt;花旗强调，&lt;strong&gt;在前瞻指引清晰的时期，市场风险溢价通常可以忽略；但当前，每一次议息会议都存在更大的政策不确定性，投资者需要提前为潜在意外支付风险补偿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，即使美联储最终按兵不动，美债收益率也未必会因加息预期消退而明显回落。花旗认为，在美联储重新建立更清晰的沟通框架之前，由风险溢价推高利率的现象仍可能持续存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
 &lt;p&gt;据美银证券研报，Alphabet第二季度净营收达1036亿美元，高于市场预期的1011亿美元，谷歌云收入同比增长82%，远超市场预期的65%，加速势头尤为突出。&lt;/p&gt;
 &lt;p&gt;与此同时，公司将2026财年资本开支指引上调150亿美元至1950亿至2050亿美元区间，较此前1800亿至1900亿的指引大幅提升，这一消息成为压制股价的核心变量。&lt;/p&gt;
 &lt;p&gt;美银证券分析师Justin Post在报告中维持对Alphabet的&amp;quot;买入&amp;quot;评级，目标价430美元。他指出，&lt;strong&gt;尽管资本开支上调引发市场负面反应，但云业务积压订单、客户超额消费及云利润率的持续扩张，均表明增量投入正在直接转化为收入增长。&lt;/strong&gt;&lt;/p&gt;
@@ -238,47 +257,7 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉的“尴尬期”：汽车利润越来越薄，AI故事越来越贵</title><link>https://wallstreetcn.com/articles/3777745</link><guid>d17346502764814e02ef8443f6cc491984c65e4cbbdbdec9278b38cfcb56b4f3</guid><pubDate>Thu, 23 Jul 2026 03:28:22 GMT</pubDate><description>&lt;p&gt;一份营收创纪录的财报，盘后股价却跌4%。&lt;/p&gt;
-&lt;p&gt;7月22日美股盘后，特斯拉发布FY2026Q2业绩。282.4亿美元营收，同比增26%，过去12个月累计营收首次突破1000亿美元。调整后EPS 0.33美元，市场预期0.51美元，差了35%。营业利润3.98亿美元，利润率从4.1%跌到1.4%。营收涨26%，利润跌57%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;营收创纪录是真的，但汽车利润下滑的速度超过了AI收入增长的速度——中间这段真空，是特斯拉眼下最尴尬的地方。&lt;/strong&gt;&lt;/p&gt;
-毛利率的真相
-&lt;p&gt;Q1毛利率21.1%，Q2骤降到16.8%，4.3个百分点的&amp;quot;暴跌&amp;quot;吓住了市场。&lt;/p&gt;
-&lt;p&gt;但Q1的高位是虚的。里面有2.3亿美元保修冲回和2亿多美元关税优惠，两个一次性因素把毛利率硬撑上去。剔除后，Q1真实毛利率约17.5%，Q2为16.8%，差距只有0.7个百分点。&lt;/p&gt;
-&lt;p&gt;0.7个百分点不算大，但趋势仍在缓慢下滑。汽车毛利率不含积分16.3%，从一年前的17.2%逐季走低，每个季度往下挪一点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;真正的警报在营业利润率。从4.1%跌到1.4%，2.7个百分点的跌幅大部分来自运营费用暴增47%——AI研发、新产品爬坡、算力折旧摊销，每一项都是管理层主动加码的结果。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;监管积分收入也从Q1的3.8亿美元跌到1.46亿美元。这是结构性下滑，不是一次性波动。随着其他车企电动化推进，积分市场供需反转，特斯拉这张&amp;quot;免费利润券&amp;quot;越来越难兑现。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;【图1：营收回升与利润率暴跌】&lt;/p&gt;
-FSD：买软件，附一辆车
-&lt;p&gt;北美新车FSD选配率55%，全球付费用户148万，同比增56%。马斯克在电话会上说了一句很有意思的话：&amp;quot;很多人来门店说想买FSD，附带一辆车。&amp;quot;&lt;/p&gt;
-&lt;p&gt;FSD月费99美元，纯利润率极高。148万用户×99美元/月，年化收入约17.6亿美元。这已经是特斯拉第二大收入来源的量级。选配率过半意味着，FSD正在从&amp;quot;可选配置&amp;quot;变成&amp;quot;默认配置&amp;quot;。当超过一半的新车买家选择FSD，特斯拉卖的就不再只是车了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但这里有个矛盾：FSD渗透率越高，软件收入占比越大，毛利率应该上升。毛利率偏偏在下滑。AI研发和算力折旧的成本增长速度远超FSD收入增长。软件收入还没大到能覆盖投资。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;特斯拉正在经历一个过渡期：汽车利润在下滑，AI收入在增长，但后者还撑不起前者留下的空缺。&lt;/p&gt;
-57.89亿美元的季度资本开支
-&lt;p&gt;Q2 CapEx 57.89亿美元，同比增142%，环比翻倍。全年指引超过250亿美元，未来2-3年继续增长。&lt;/p&gt;
-&lt;p&gt;自由现金流转负-10.9亿美元。但经营现金流46.97亿美元，同比增85%——经营层面现金生成能力很强，只是被CapEx吞噬了。435亿美元现金储备够烧很久。&lt;/p&gt;
-&lt;p&gt;马斯克称这是&amp;quot;二战以来美国最快的工业规模扩张&amp;quot;。Cybercab产线、Optimus产线、Dojo超算集群、下一代AI硬件研发、TeraFab自建芯片厂——选址即将公布。CFO明确说：自由现金流预计2029年转正。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一句话总结：从现在到2029年，特斯拉将持续烧钱。&lt;/strong&gt;&lt;/p&gt;
-Robotaxi加分，Optimus漫长
-&lt;p&gt;Cybercab已经投产，Robotaxi覆盖7大都市区。38万英里无人监督驾驶，零重大事故。V15版FSD已在车队测试。每周行驶里程两位数增长。&lt;/p&gt;
-&lt;p&gt;安全记录是加分项。38万英里零重大事故的数据比Waymo同期更亮眼。&lt;/p&gt;
-&lt;p&gt;Optimus进展更谨慎。马斯克坦言：&amp;quot;机器人每个部件都是新的，没有供应链。&amp;quot;弗里蒙特工厂首条产线正在安装——替代原Model S/X产线。预测5年后月产10万台，但S曲线前期&amp;quot;很长很平&amp;quot;。量产爬坡会是漫长的过程。&lt;/p&gt;
-&lt;p&gt;SpaceX关联正在深化。星链将接入Robotaxi确保网络连接，TeraFab晶圆厂选址&amp;quot;很快公布&amp;quot;。特斯拉持有SpaceX股权获得了10亿美元未实现收益。合并问题被回避：&amp;quot;财报电话会不是讨论的地方。&amp;quot;&lt;/p&gt;
-467倍市盈率与3.8%资本回报率
-&lt;p&gt;摩根士丹利417美元目标价中，汽车业务只占47美元。剩下的370美元全部来自AI叙事——Robotaxi、Optimus、FSD。&lt;/p&gt;
-&lt;p&gt;467倍前瞻市盈率，3.8% ROIC。季度利润只剩4亿美元，市值超过800亿美元。当前估值下，资本效率在&amp;quot;摧毁价值&amp;quot;。&lt;/p&gt;
-&lt;p&gt;分析师框架分裂为两派。汽车基本面派关注毛利率和EPS，财报后的miss让他们更谨慎。AI叙事派关注FSD渗透率和Robotaxi进展，55%选配率和零事故数据强化了底气。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分歧在加深：短期利润恶化与长期AI押注推进同时发生。467倍P/E意味着市场已经在为2029年的故事买单，3年负现金流期间的估值压力是实实在在的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;【图2：Beat/Miss vs Consensus】&lt;/p&gt;
-下一个观测点
-&lt;p&gt;Q3关注三个信号：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;FSD选配率能否从55%继续上升——特斯拉从汽车公司转向AI公司的核心指标&lt;/li&gt;
-&lt;li&gt;CapEx是否继续加速——250亿美元年指引是否上调到300亿&lt;/li&gt;
-&lt;li&gt;毛利率能否在16.3-16.8%区间企稳——继续下滑的话，&amp;quot;利润换未来&amp;quot;的故事就站不住了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;特斯拉在用汽车利润养AI梦。营收282亿美元创新高，利润只剩4亿美元。自由现金流转负，烧到2029年。435亿美元现金储备够烧很久。问题是烧完之后，AI投资能不能兑现。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI每赚1块钱，谷歌花出去2块</title><link>https://wallstreetcn.com/articles/3777748</link><guid>a5d5443a182afb48a69147bc6260b667a819d38621a590feec53713febf8497a</guid><pubDate>Thu, 23 Jul 2026 04:24:28 GMT</pubDate><description>&lt;p&gt;谷歌的自由现金流，史上首次转负。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI每赚1块钱，谷歌花出去2块</title><link>https://wallstreetcn.com/articles/3777748</link><guid>a5d5443a182afb48a69147bc6260b667a819d38621a590feec53713febf8497a</guid><pubDate>Thu, 23 Jul 2026 04:24:28 GMT</pubDate><description>&lt;p&gt;谷歌的自由现金流，史上首次转负。&lt;/p&gt;
 &lt;p&gt;谷歌的Q2财报乍看之下令人振奋：营收1198亿美元，同比增24%，连续第12个季度双位数增长。GAAP每股收益9.11美元，净利润同比增298%。Google Cloud收入暴涨82%至248亿美元，营业利润从28亿飙至88亿美元，利润率从20.7%跃至35.6%。&lt;/p&gt;
 &lt;p&gt;然而，盘后股价跌了3%。&lt;/p&gt;
 &lt;p&gt;市场很理性：9.11美元EPS里有6.26美元来自Anthropic和SpaceX的未实现投资收益——990亿美元纸面浮盈。剔除后核心EPS只有2.85美元，低于市场预期的2.89美元。与此同时，单季资本开支449亿美元翻倍，自由现金流史上首次转负至-59亿美元。赚钱在加速，花钱在加速更快。&lt;/p&gt;
@@ -366,7 +345,27 @@ AI数据中心成为增长核心
 &lt;p&gt;尽管AI业务增长迅猛，传统业务仍未摆脱低迷局面。&lt;/p&gt;
 &lt;p&gt;作为特斯拉、苹果等企业的核心芯片供应商，&lt;strong&gt;意法半导体近两年来持续受到汽车与消费电子需求疲软，以及客户库存去化进程缓慢的双重压力，传统业务的复苏步伐依然迟缓。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在此背景下，近年来Chery积极推动公司战略转型，降低对汽车和消费电子市场的依赖，将重心转向AI数据中心、工业电源及通信等高成长性领域。目前，&lt;strong&gt;AI业务正逐步成为公司新的增长引擎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI与云业务销售额翻倍！诺基亚Q2利润远超预期，上调全年盈利指引</title><link>https://wallstreetcn.com/articles/3777803</link><guid>ad90a12711e52a7a9c93d441c4c1d39bedd048fd5b753cdc349a5498cc478133</guid><pubDate>Thu, 23 Jul 2026 14:27:53 GMT</pubDate><description>&lt;p&gt;受益于AI基础设施投资持续升温，诺基亚交出了一份超预期的二季度成绩单，AI与云业务高速增长，并同步上调全年盈利指引，与竞争对手爱立信近期释放的谨慎信号形成鲜明对比。&lt;/p&gt;
+&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在货币政策立场上，欧洲央行维持现有利率不变，本次决定获得全票通过，&lt;strong&gt;拉加德表示&amp;quot;今天没有推动加息的力量&amp;quot;，并强调9月将有更多数据可供参考。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，她表示会议已删除辛特拉评估中的&amp;quot;更平衡&amp;quot;措辞，&lt;strong&gt;风险评估已回到6月时的状态&lt;/strong&gt;，地缘政治局势的再度升级是主要背景。&lt;/p&gt;
+&lt;p&gt;在市场高度关注的任期问题上，拉加德明确表示&lt;strong&gt;&amp;quot;在2027年之前，你们不会看不到我&amp;quot;&lt;/strong&gt;，但她同时保留了在任期届满前离职的可能性，称&amp;quot;不喜欢在任何特定情况下被框定&amp;quot;。这一表态有助于缓解近期围绕其提前卸任的市场猜测。&lt;/p&gt;
+&lt;strong&gt;能源冲击推高通胀，欧洲央行暂停等待&lt;/strong&gt;
+&lt;p&gt;拉加德指出，能源价格上涨&amp;quot;可能会使通胀率一直到2027年上半年继续远高于目标水平&amp;quot;。在此之后，随着能源价格预计下降、其他物价涨速放缓，通胀率应逐步回落。&lt;/p&gt;
+&lt;p&gt;关于当前经济形势，拉加德表示：服务业活动有所复苏，制造业保持坚挺，国防支出的增加正在支持制造业，但短期内整体增长将保持温和。她同时强调，中期经济增长的驱动因素依然完好。&lt;/p&gt;
+&lt;p&gt;在通胀传导层面，拉加德表示，能源冲击的直接影响以及运输成本上升等间接影响均已显现，&lt;strong&gt;但欧洲央行迄今未观察到第二轮效应&lt;/strong&gt;。薪资追踪指标显示增长温和，薪资增速呈逐步下降趋势，中期通胀预期目前锚定良好。&lt;/p&gt;
+&lt;p&gt;尽管如此，拉加德明确表示对第二轮效应的风险感到担忧，并表示欧洲央行工作人员正在为9月会议准备石油和天然气专项分析报告。&lt;/p&gt;
+&lt;strong&gt;地缘政治不确定性上升，风险评估回归6月基准&lt;/strong&gt;
+&lt;p&gt;拉加德确认，欧洲央行的风险评估已回到6月时的状态。她表示，尽管美国与伊朗在6月达成了谅解备忘录，但&amp;quot;最近几周出现了新的挫折，地缘政治局势依然脆弱&amp;quot;，并指出&amp;quot;现在我们看到冲突再度升级&amp;quot;，&amp;quot;中东局势可能迅速逆转&amp;quot;。&lt;/p&gt;
+&lt;p&gt;在情景展望上，拉加德表示，&lt;strong&gt;此前相对乐观的温和情景&amp;quot;目前看来相当不可能&amp;quot;实现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;她将冲突定性为通胀和增长前景的主要不确定性来源，并表示欧洲央行正在密切关注能源价格上涨的规模和持续时间，以及其对价格与薪资设定、通胀预期和整体经济动态的影响。&lt;/p&gt;
+&lt;p&gt;拉加德透露，本次会议上部分管委曾自问是否有必要加息，但最终决策获得全票通过，维持现有政策立场不变。她表示，&lt;strong&gt;已决定&amp;quot;目前立场足以支持继续观望&amp;quot;，并重申欧洲央行不会提供任何前瞻性指引。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次会议未讨论最低准备金要求，拉加德表示该议题未来可能会进行讨论。她还表示，应对能源冲击的财政措施应具有针对性且属临时性质，并呼吁对加强欧元区经济采取紧迫行动。&lt;/p&gt;
+&lt;strong&gt;继任猜测升温，拉加德表态稳定预期&lt;/strong&gt;
+&lt;p&gt;在任期问题上，拉加德的表态较此前更为明确。她此前曾在报纸采访中表示&amp;quot;有可能&amp;quot;提前离任以参与法国政治，同时重申&amp;quot;不是任何职位的候选人&amp;quot;。约三分之一的经济学家预测拉加德不会完成八年任期。&lt;/p&gt;
+&lt;p&gt;早在6月，她就曾证实在伊朗战争爆发前曾考虑辞职，围绕其出任世界经济论坛相关职位的猜测也持续存在。据英国《金融时报》报道，相关表态一度在欧洲央行内部引发不满。&lt;/p&gt;
+&lt;p&gt;在潜在继任人选上，据彭博调查，现任国际清算银行行长、西班牙央行前行长Pablo Hernandez de Cos被视为最热门候选人。据西班牙《扩张报》本周报道，马德里政府计划支持Hernandez de Cos出任欧洲央行行长。&lt;/p&gt;
+&lt;p&gt;调查还显示，另一名有竞争力的候选人为去年卸任荷兰央行行长一职的Klaas Knot。&lt;/p&gt;
+&lt;p&gt;此外，德国联邦银行行长Joachim Nagel和执行委员会成员Isabel Schnabel也表达了兴趣，但德国政府尚未公布立场。德国总理弗里德里希·默茨上周表示，鉴于拉加德任期尚有一年以上，目前&amp;quot;没有必要&amp;quot;尽快启动继任程序。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI与云业务销售额翻倍！诺基亚Q2利润远超预期，上调全年盈利指引</title><link>https://wallstreetcn.com/articles/3777803</link><guid>ad90a12711e52a7a9c93d441c4c1d39bedd048fd5b753cdc349a5498cc478133</guid><pubDate>Thu, 23 Jul 2026 14:27:53 GMT</pubDate><description>&lt;p&gt;受益于AI基础设施投资持续升温，诺基亚交出了一份超预期的二季度成绩单，AI与云业务高速增长，并同步上调全年盈利指引，与竞争对手爱立信近期释放的谨慎信号形成鲜明对比。&lt;/p&gt;
 &lt;p&gt;数据显示，&lt;strong&gt;诺基亚2026年第二季度可比营业利润同比增长18%至4.34亿欧元，超过LSEG分析师预期的3.82亿欧元&lt;/strong&gt;。同期，&lt;strong&gt;公司AI与云业务销售额同比翻倍至4.46亿欧元&lt;/strong&gt;，新增订单达到28亿欧元，单季订单规模已超过2025年全年水平。&lt;/p&gt;
 &lt;p&gt;在业绩带动下，&lt;strong&gt;诺基亚将全年可比营业利润指引由20亿至25亿欧元上调至21亿至26亿欧元。&lt;/strong&gt;这一上调尤为受到市场关注。此前，爱立信因内存芯片成本上升下调利润率预期并拖累股价，诺基亚则凭借AI相关业务的强劲表现，为电信设备行业释放出更积极的信号。&lt;/p&gt;
 AI与云业务成为增长主引擎
@@ -382,29 +381,7 @@ AI与云业务成为增长主引擎
 AI热潮推升需求，供应链仍是挑战
 &lt;p&gt;尽管AI基础设施需求持续爆发，供应链压力仍未明显缓解。&lt;/p&gt;
 &lt;p&gt;随着AI企业持续扩建数据中心、集中采购内存芯片，相关芯片价格快速上涨，电信设备厂商普遍面临成本压力。爱立信上周已就此发出利润率预警，&lt;strong&gt;而诺基亚则表示，目前需求依然强劲，供应仍是限制行业增长的主要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英国财政风险再抬头：伯纳姆新政未明，投资者悄然减持英国资产</title><link>https://wallstreetcn.com/articles/3777790</link><guid>0ce9052ed0c3ecc8623a15dddefc99d942ee2df8955e2a9dbf3bdbf62edd3da7</guid><pubDate>Thu, 23 Jul 2026 14:18:46 GMT</pubDate><description>&lt;p&gt;英国新政府尚未公布完整财政路线图，市场已率先开始重新评估英国资产风险。&lt;strong&gt;新任英国首相伯纳姆有关财政规则将保持“灵活性”的表态，引发投资者对财政纪律、政府融资及未来预算安排的担忧，英国资产情绪明显降温。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本周，英镑兑贸易加权货币篮子创下近一个月来最差单周表现，英国长期国债也持续承压。与此同时，多家国际资管机构和策略师开始下调英镑前景，或削减英国资产配置，认为市场对英国财政前景和利率路径的定价仍过于乐观。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场普遍认为，真正的考验将在11月到来。&lt;/strong&gt;届时，财政大臣John Healey将公布新政府首份秋季预算案，其能否在扩大政策支持与维持财政纪律之间取得平衡，将决定英国资产能否重获投资者信心。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-财政规则模糊，市场重新计价风险
-&lt;p&gt;伯纳姆关于财政规则“灵活性”的最新表态，再次将英国财政前景推向市场焦点。&lt;/p&gt;
-&lt;p&gt;Rabobank G10外汇策略主管Jane Foley表示，&lt;strong&gt;目前尚不清楚伯纳姆希望赋予财政规则多大弹性，也无法判断财政部将如何为新一轮政策支出提供资金，因此英国国债和英镑未来几个月都可能面临新的压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;基于这一判断，&lt;strong&gt;Foley将未来三个月英镑兑美元目标价下调至1.32，并预计英镑兑欧元将由目前约0.854回落至0.865。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;RBC BlueBay高级投资组合经理Kaspar Hense认为，英镑目前“估值偏高”，市场低估了新政府制定一份具有公信力预算案的政治难度。CG Asset Management投资组合经理Emma Moriarty也表示，市场或已接近“英镑顶部”，其团队近期持续削减英国资产配置，并押注英镑走弱。&lt;/p&gt;
-“特拉斯时刻”仍是市场挥之不去的阴影
-&lt;p&gt;财政风险始终是英国资产最敏感的话题之一。&lt;/p&gt;
-&lt;p&gt;2022年，时任首相Liz Truss推出缺乏资金来源支持的大规模减税计划，引发英国国债暴跌、收益率飙升，并导致英镑快速贬值，“特拉斯时刻”至今仍是投资者评估英国财政政策的重要参照。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;多数分析人士认为，当前局面与2022年存在明显差异，不太可能重演当时的市场动荡。但在财政赤字高企、经济增长疲弱的背景下，长期国债收益率仍有进一步上行风险，而融资成本上升最终可能拖累英镑表现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LBBW首席经济学家兼研究主管Moritz Kraemer表示，&lt;strong&gt;英国新政府的“蜜月期”正在迅速结束。面对庞大的财政赤字、疲弱的经济增长以及不断上升的公共支出诉求，任何一位财政大臣都将面临巨大挑战。&lt;/strong&gt;&lt;/p&gt;
-高息优势或难以长期支撑英镑
-&lt;p&gt;除财政因素外，英镑另一项重要支撑也开始出现松动。&lt;/p&gt;
-&lt;p&gt;今年以来，英镑兑贸易加权货币篮子累计上涨约2%，主要受益于英国在发达经济体中仍处于较高水平的政策利率。不过，随着近期通胀和劳动力市场数据走弱，市场开始重新评估英国央行未来的政策路径。&lt;/p&gt;
-&lt;p&gt;Hense和Moriarty均认为，&lt;strong&gt;市场目前对未来一年最多三次加息的定价过于乐观，一旦利率预期回落，英镑将失去部分利差优势，并面临进一步调整压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;State Street Markets宏观策略主管Michael Metcalfe表示，&lt;strong&gt;近期英镑上涨很大程度上来自短端利率预期不断上修。如果疲弱的通胀和就业数据促使市场重新下调利率预期，即便没有新的政治风险，英镑也可能回吐此前涨幅。&lt;/strong&gt;&lt;/p&gt;
-秋季预算案将成为市场真正考验
-&lt;p&gt;市场普遍认为，真正决定英镑走势的时间窗口将在11月开启。&lt;/p&gt;
-&lt;p&gt;届时，&lt;strong&gt;财政大臣Healey将公布新政府首份秋季预算案，首次系统披露未来支出计划、融资安排及财政目标，这将直接影响投资者对英国财政可持续性的判断。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在预算案公布前，伯纳姆已宣布多项减税措施，包括下调酒吧、俱乐部及现场演出场所的商业税负。随着更多财政承诺陆续出台，市场关注的焦点将逐步从政策本身转向资金来源。一旦预算案无法充分证明财政纪律，英国国债收益率和英镑都可能面临新一轮重新定价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 原油飙升加剧通胀担忧！美债收益率集体暴涨，10年期突破4.7%创18个月新高</title><link>https://wallstreetcn.com/articles/3777802</link><guid>0bd049939708419750588de4ab8be0d600267ab4ed6aeda532ebdf48d282f687</guid><pubDate>Thu, 23 Jul 2026 13:09:35 GMT</pubDate><description>&lt;p&gt;美国国债收益率周四全线走高，10年期收益率突破4.7%，创2025年1月以来新高。&lt;/p&gt;
+&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 原油飙升加剧通胀担忧！美债收益率集体暴涨，10年期突破4.7%创18个月新高</title><link>https://wallstreetcn.com/articles/3777802</link><guid>0bd049939708419750588de4ab8be0d600267ab4ed6aeda532ebdf48d282f687</guid><pubDate>Thu, 23 Jul 2026 13:09:35 GMT</pubDate><description>&lt;p&gt;美国国债收益率周四全线走高，10年期收益率突破4.7%，创2025年1月以来新高。&lt;/p&gt;
 &lt;p&gt;多重因素同步发酵——&lt;strong&gt;中东局势骤然升温推动布油一度站上每桶100美元，美国初请失业金人数意外骤降，以及科技巨头为AI基础设施融资而大规模发行长期债券，共同对债市构成压力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;10年期美债收益率上涨5个基点至4.71%，&lt;strong&gt;为特朗普第二任期开始前的2025年1月15日以来最高水平&lt;/strong&gt;。与此同时，30年期美债收益率升逾4个基点至5.188%，该收益率今年已有27个交易日维持在5%上方，其中包括连续12个交易日，为2007年金融危机爆发以来持续时间最长的一次。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
