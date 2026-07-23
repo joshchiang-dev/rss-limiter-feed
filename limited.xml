@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 19:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 一周末打通AMD全套适配：Anthropic用Claude自举而非英伟达硬件，打破CUDA“人力壁垒”</title><link>https://wallstreetcn.com/articles/3777816</link><guid>4bb982f8e338e7d4786b5560af85ca9d6ee167b35b54afcc3aba3e9b8aebadfb</guid><pubDate>Thu, 23 Jul 2026 19:42:03 GMT</pubDate><description>&lt;p&gt;Anthropic在AMD今年的AdvancingAI大会上不仅官宣了算力部署计划，还披露了一个可能改写AI芯片竞争规则的技术细节：其工程师仅用Claude模型在一个周末内自动完成了AMD Instinct MI355芯片与ROCm平台的全套适配与性能调优。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 20:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 一周末打通AMD全套适配：Anthropic用Claude自举而非英伟达硬件，打破CUDA“人力壁垒”</title><link>https://wallstreetcn.com/articles/3777816</link><guid>4bb982f8e338e7d4786b5560af85ca9d6ee167b35b54afcc3aba3e9b8aebadfb</guid><pubDate>Thu, 23 Jul 2026 19:42:03 GMT</pubDate><description>&lt;p&gt;Anthropic在AMD今年的AdvancingAI大会上不仅官宣了算力部署计划，还披露了一个可能改写AI芯片竞争规则的技术细节：其工程师仅用Claude模型在一个周末内自动完成了AMD Instinct MI355芯片与ROCm平台的全套适配与性能调优。&lt;/p&gt;
 &lt;p&gt;Anthropic高管Tom Brown在大会上公开表示，公司计划部署2GW的AMD Helios算力设施，并明确青睐MI355芯片。这一表态将此前市场上的合作传闻升级为高管层面的正式确认。AMD官方账号随后转发了包含Tom Brown表态的第三方推文，配文感谢其参会。&lt;/p&gt;
 &lt;p&gt;更具冲击力的是Brown披露的适配过程。团队原本预期在新硬件上启动模型会是“一个大项目”，但实际体验完全不同：一名工程师让Claude执行适配任务后让流程在周末自行运转，周一便拿到了Anthropic领先模型在该硬件上“周末期间持续攀升”的实际性能曲线。&lt;/p&gt;
 &lt;p&gt;市场观察者随即评论称：“我们已过了CUDA护城河时代。” 对投资者而言，这一突破意味着AI算力供应链的硬件锁定逻辑正在遭遇来自AI自身能力的反向冲击。当AI自身能够替代工程师完成硬件迁移中最昂贵的人力环节时，英伟达CUDA生态最根本的护城河——高昂的迁移成本正在被AI从根基上侵蚀。&lt;/p&gt;
@@ -102,7 +102,28 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
 水业务合资交易引入私募资本
 &lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
-&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
+&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉暴跌15%，空头单日狂赚41亿美元，散户逆势加仓</title><link>https://wallstreetcn.com/articles/3777818</link><guid>0465dfbf91cfca02fede9d2b4842e07bd698b3ba6b32b831b1da338d011e5385</guid><pubDate>Thu, 23 Jul 2026 20:25:53 GMT</pubDate><description>&lt;p&gt;特斯拉股价周四大跌，做空者收获颇丰，而围绕这家电动车制造商的分歧也随之加深。&lt;/p&gt;
+&lt;p&gt;特斯拉股价周四盘中一度下挫15%，创逾一年来最大单日跌幅，此前该公司第二季度利润逊于预期，市场对其人工智能与机器人业务前景的疑虑再度升温。&lt;/p&gt;
+&lt;p&gt;据S3 Partners董事总经理Ihor Dusaniwsky测算，&lt;strong&gt;此轮抛售令做空者单日按市值计算的账面收益约达41.2亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;受年初至今累计跌幅近30%拖累，特斯拉做空者今年迄今的账面收益已累计约达89.2亿美元。&lt;/p&gt;
+&lt;p&gt;与此同时，散户投资者却选择逆势加仓，据Vanda Research的Viraj Patel数据显示，&lt;strong&gt;周四特斯拉以4200万美元净买入额成为散户买入最多的股票。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+做空压力居&amp;quot;七巨头&amp;quot;之首
+
+&lt;p&gt;特斯拉在美股&amp;quot;科技七巨头&amp;quot;中做空比例最高。S3 Partners数据显示，&lt;strong&gt;目前约3%的特斯拉流通股遭到做空，而七巨头中做空比例第二高的Meta，该比例仅为1.6%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;估值层面，特斯拉当前股价对应未来12个月预期市盈率高达151倍，&lt;strong&gt;是七巨头中估值最贵的成员，今年以来表现也在七巨头中垫底。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法国巴黎银行分析师James Picariello在研究报告中指出，&amp;quot;随着特斯拉以极为激进的资本开支节奏追求雄心勃勃的人工智能目标，我们对其AI进展提速的速度持高度审慎态度，且股价估值中已隐含了极高的预期。&amp;quot;他维持相当于卖出的评级及280美元目标价。&lt;/p&gt;
+&lt;p&gt;与此同时，低于预期的汽车业务利润率令市场对特斯拉核心业务的盈利能力产生新的质疑，进而动摇其支撑未来宏大愿景与资本开支计划的能力。&lt;/p&gt;
+
+分歧中现&amp;quot;抄底&amp;quot;声音
+
+&lt;p&gt;尽管空头气氛浓厚，仍有分析师持不同看法。&lt;/p&gt;
+&lt;p&gt;晨星分析师Seth Goldstein认为，特斯拉股价目前已被低估，并维持对该公司未来强劲增长的判断，其公允价值目标价为450美元。Goldstein在报告中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;对于长期投资者而言，我们认为此次回调是一个良好的买入机会。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Vanda Research分析师Viraj Patel表示，周四特斯拉成为散户投资者买入最多的股票，净买入金额达到4200万美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
 &lt;p&gt;尽管主流经济学家一致预计美联储下周将按兵不动，&lt;strong&gt;但利率市场隐含的加息概率已升至约30%，推动美国国债收益率全线走高。&lt;/strong&gt;其中，两年期美债收益率创2025年初以来新高，10年期收益率升至年内高位，30年期收益率则逼近2007年以来最高水平。&lt;/p&gt;
 &lt;p&gt;花旗7月23日发布的研究报告认为，这一市场定价并不意味着投资者普遍押注美联储即将加息，而&lt;strong&gt;更多反映的是，在前瞻指引趋于模糊、油价推升通胀风险的背景下，投资者正要求更高的风险溢价来应对政策意外。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -121,25 +142,7 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;花旗认为，&lt;strong&gt;近期油价上涨只是促使市场重新评估政策路径的催化剂，更深层的原因在于美联储沟通框架的变化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报告指出，中东局势推升油价及美国汽油价格，强化了市场对通胀风险重新升温的担忧。而在美联储官员未提供明确政策指引的情况下，这种不确定性进一步放大了市场对政策意外的担忧。&lt;/p&gt;
 &lt;p&gt;花旗强调，&lt;strong&gt;在前瞻指引清晰的时期，市场风险溢价通常可以忽略；但当前，每一次议息会议都存在更大的政策不确定性，投资者需要提前为潜在意外支付风险补偿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，即使美联储最终按兵不动，美债收益率也未必会因加息预期消退而明显回落。花旗认为，在美联储重新建立更清晰的沟通框架之前，由风险溢价推高利率的现象仍可能持续存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 供需决定价格，茅台也不会例外</title><link>http://xueqiu.com/7368170779/401826226</link><guid>a054b9d1e3908167b295c54dc39a8516498fc7b944f8d357bec3222d6d27a2ab</guid><pubDate>Thu, 23 Jul 2026 09:57:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浩然斯坦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 17 日晚，茅台一纸公告：53 度 500ml 飞天茅台经销合同价从 1269 元上调至 1369 元，i 茅台平台零售价同步从 1539 元涨至 1639 元，单瓶各涨 100 元。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 意法半导体Q3营收指引未达市场预期，欧股股价暴跌17%｜财报见闻</title><link>https://wallstreetcn.com/articles/3777770</link><guid>d27486773b3bd79a09df7769d2ddd34dfa93caada0fa3cc59fba27c1a72d5774</guid><pubDate>Thu, 23 Jul 2026 08:21:51 GMT</pubDate><description>&lt;p&gt;意法半导体（STMicroelectronics）股价遭遇重挫。尽管公司再次上调全年AI业务收入预期，并预计第四季度增长进一步加速，但第三季度营收指引低于市场预期，高估值下投资者选择获利了结。&lt;/p&gt;
-&lt;p&gt;周四，意法半导体公布2026年第二季度财报，&lt;strong&gt;预计第三季度营收约37亿美元（指引中值），低于彭博统计的分析师平均预期39亿美元。&lt;/strong&gt;受此影响，公司欧股股价盘中一度暴跌17%，&lt;strong&gt;创2025年7月以来最大单日跌幅。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;管理层对全年增长前景依然充满信心。首席执行官Jean-Marc Chery表示，第四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心和低轨卫星通信需求带动；同时将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-高预期下，指引未能进一步打开想象空间
-&lt;p&gt;虽然第三季度收入指引逊于市场预期，但盈利能力仍保持稳健。公司预计第三季度毛利率约37%，略高于分析师预期的36.76%，显示产品结构改善仍在持续。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;真正令市场失望的是增长节奏。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;受AI数据中心业务快速扩张带动，意法半导体股价今年以来累计上涨约119%，市场已提前计入较高增长预期。今年6月，公司还趁股价高位完成了15亿美元可转换债券发行。&lt;/p&gt;
-&lt;p&gt;花旗分析师Andrew Gardiner等人在报告中表示，财报显示汽车、工业等终端市场复苏仍在推进，AI和数据中心业务继续保持高速增长，但&lt;strong&gt;市场预期与估值已经同步抬升&lt;/strong&gt;。在盈利预测缺乏进一步上修空间的情况下，股价短期面临回调压力。&lt;/p&gt;
-AI数据中心成为增长核心
-&lt;p&gt;AI基础设施持续扩张，正在成为意法半导体最重要的增长引擎。&lt;/p&gt;
-&lt;p&gt;随着AI服务器功率密度不断提升，数据中心对电源管理、功率器件及连接芯片的需求持续增长。彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chery表示，公司第四季度增长将进一步加速，主要来自AI数据中心及低轨卫星通信领域的长期合作项目。今年早些时候，意法半导体与亚马逊AWS签署了电源管理芯片供应协议。Chery此前曾表示，这份合同未来三至五年都将持续贡献收入。&lt;/p&gt;
-&lt;p&gt;值得关注的是，&lt;strong&gt;公司今年4月首次单独披露AI业务收入指引，6月便将全年预期几乎翻倍，而此次财报又进一步上调至超过10亿美元，反映出AI业务增长速度仍在持续超出管理层此前判断。&lt;/strong&gt;&lt;/p&gt;
-汽车与消费电子复苏迟滞，传统业务持续承压
-&lt;p&gt;尽管AI业务增长迅猛，传统业务仍未摆脱低迷局面。&lt;/p&gt;
-&lt;p&gt;作为特斯拉、苹果等企业的核心芯片供应商，&lt;strong&gt;意法半导体近两年来持续受到汽车与消费电子需求疲软，以及客户库存去化进程缓慢的双重压力，传统业务的复苏步伐依然迟缓。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在此背景下，近年来Chery积极推动公司战略转型，降低对汽车和消费电子市场的依赖，将重心转向AI数据中心、工业电源及通信等高成长性领域。目前，&lt;strong&gt;AI业务正逐步成为公司新的增长引擎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，即使美联储最终按兵不动，美债收益率也未必会因加息预期消退而明显回落。花旗认为，在美联储重新建立更清晰的沟通框架之前，由风险溢价推高利率的现象仍可能持续存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 供需决定价格，茅台也不会例外</title><link>http://xueqiu.com/7368170779/401826226</link><guid>a054b9d1e3908167b295c54dc39a8516498fc7b944f8d357bec3222d6d27a2ab</guid><pubDate>Thu, 23 Jul 2026 09:57:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浩然斯坦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 17 日晚，茅台一纸公告：53 度 500ml 飞天茅台经销合同价从 1269 元上调至 1369 元，i 茅台平台零售价同步从 1539 元涨至 1639 元，单瓶各涨 100 元。&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
