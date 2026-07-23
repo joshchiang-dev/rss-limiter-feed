@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 15:29:39 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 15:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -168,7 +168,26 @@
 SemiAnalysis提出改革路线图
 
 &lt;p&gt;SemiAnalysis并非主张英伟达彻底放弃委员会模式，而是提出了更具体的改进方案。该机构建议，若黄仁勋确实希望推进委员会式训练，至少应组建三个彼此隔离、互不沟通的独立委员会，以避免群体思维。&lt;/p&gt;
-&lt;p&gt;这三个联盟应在数据、强化学习、预训练和评估等维度上各自独立创新，并相互竞争。SemiAnalysis认为，这种安排将更贴近美国自由市场价值观，也更接近中国AI实验室的实际运作方式——在竞争中迭代，在迭代中分化出真正的技术差异化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
+&lt;p&gt;这三个联盟应在数据、强化学习、预训练和评估等维度上各自独立创新，并相互竞争。SemiAnalysis认为，这种安排将更贴近美国自由市场价值观，也更接近中国AI实验室的实际运作方式——在竞争中迭代，在迭代中分化出真正的技术差异化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
+&lt;p&gt;尽管主流经济学家一致预计美联储下周将按兵不动，&lt;strong&gt;但利率市场隐含的加息概率已升至约30%，推动美国国债收益率全线走高。&lt;/strong&gt;其中，两年期美债收益率创2025年初以来新高，10年期收益率升至年内高位，30年期收益率则逼近2007年以来最高水平。&lt;/p&gt;
+&lt;p&gt;花旗7月23日发布的研究报告认为，这一市场定价并不意味着投资者普遍押注美联储即将加息，而&lt;strong&gt;更多反映的是，在前瞻指引趋于模糊、油价推升通胀风险的背景下，投资者正要求更高的风险溢价来应对政策意外。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+美债收益率走高，市场计入约30%加息概率
+&lt;p&gt;近期，中东局势升级带动国际油价持续上涨，市场对通胀卷土重来的担忧重新升温，美国国债收益率因此持续攀升。&lt;/p&gt;
+&lt;p&gt;周四，对货币政策最敏感的两年期美债收益率上涨至4.365%左右；基准10年期美债收益率同步刷新年内高点；30年期美债收益率升至5.19%，距离2007年以来高位仅一步之遥。&lt;/p&gt;
+&lt;p&gt;与此同时，利率期货显示，美联储下周会议已隐含约30%的加息概率。不过，&lt;strong&gt;这一定价与主流预期明显背离。彭博调查显示，70位受访经济学家中，没有任何一位预计美联储将在下周加息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+花旗：30%不是市场预测，而是风险溢价
+&lt;p&gt;对于这一看似矛盾的现象，花旗给出了不一样的解释。&lt;/p&gt;
+&lt;p&gt;花旗经济学家Andrew Hollenhorst、Veronica Clark和Gisela Young指出，&lt;strong&gt;市场定价中的30%并不代表投资者真的认为美联储有三成概率加息，而是包含了额外的风险溢价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告认为，由于下周会议几乎不存在降息可能，政策风险天然偏向单边。&lt;strong&gt;一旦美联储意外加息，债券市场受到的冲击将远高于按兵不动，因此投资者愿意支付额外成本，为这种尾部风险提前定价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;花旗指出，历史上，美联储会议对应的风险溢价通常仅为1至2个基点，但随着近年来美联储减少前瞻指引、政策沟通更依赖数据，不确定性有所上升，市场要求的风险补偿也随之扩大。&lt;/p&gt;
+&lt;p&gt;这一逻辑同样能够解释当前长端利率的走势。花旗认为，&lt;strong&gt;如果未来某次会议真的意外加息，市场往往会将其视为新一轮加息周期的开始，而非一次孤立事件，因此终端利率预期也会相应抬升。&lt;/strong&gt;正因如此，目前市场已定价到明年3月累计加息超过50个基点，但这并不意味着它就是投资者的基准情景。&lt;/p&gt;
+花旗：前瞻指引越模糊，利率越容易维持高位
+&lt;p&gt;花旗认为，&lt;strong&gt;近期油价上涨只是促使市场重新评估政策路径的催化剂，更深层的原因在于美联储沟通框架的变化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告指出，中东局势推升油价及美国汽油价格，强化了市场对通胀风险重新升温的担忧。而在美联储官员未提供明确政策指引的情况下，这种不确定性进一步放大了市场对政策意外的担忧。&lt;/p&gt;
+&lt;p&gt;花旗强调，&lt;strong&gt;在前瞻指引清晰的时期，市场风险溢价通常可以忽略；但当前，每一次议息会议都存在更大的政策不确定性，投资者需要提前为潜在意外支付风险补偿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，即使美联储最终按兵不动，美债收益率也未必会因加息预期消退而明显回落。花旗认为，在美联储重新建立更清晰的沟通框架之前，由风险溢价推高利率的现象仍可能持续存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
 &lt;p&gt;周四，美股盘中，纳指跌幅扩大至2%，标普跌1.1%，道指跌超1%，银行指数跌超1.6%，特斯拉跌超13%。公司二季度营收虽大增26%，但盈利却下滑18%，远低于市场预期，同时自由现金流由正转负。特斯拉对此解释称，目前正处于史上最大规模的投资扩张阶段。&lt;/p&gt;
 &lt;p&gt;科技巨头为人工智能基础设施融资而涌入市场的长期债券，正与美国国债争夺同一批买家，进一步推高本已高企的长端利率。美国30年期国债收益率已连续多日维持在5%上方，创2007年金融危机以来最长纪录。与此同时，胡塞武装袭击沙特油轮引发供给忧虑，布伦特原油逼近每桶100美元，通胀压力再度升温，令美债市场承压。&lt;/p&gt;
 &lt;p&gt;Siebert Financial首席投资官Mark Malek在研究报告中写道：&amp;quot;AI乐观情绪依然存在，但责任已明确转移至管理层身上，未来财报电话会议的焦点将越来越多地落在投资资本回报率，而非AI远景规划。&amp;quot;&lt;/p&gt;
@@ -206,26 +225,7 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;据央视新闻，据沙特方面23日消息，沙特阿拉伯“恩塞利亚”号油轮在红海航行时遭袭，袭击造成船头起火，船员均安全。此前，也门胡塞武装表示使用多枚弹道导弹、巡航导弹以及无人机，打击违反该组织海上禁运令的沙特油轮“恩塞利亚”号和“莱拉”号。&lt;/p&gt;
 &lt;p&gt;自本轮中东局势升级以来，曼德海峡作为连接红海与亚丁湾的关键水道，始终承担着全球重要原油出口的生命线职能。此次袭击事件不仅直接干扰了该航线的通航安全，更与美国和伊朗之间近期持续紧张的对峙态势相互叠加，显著放大了市场对潜在供应中断的恐慌情绪。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
-&lt;p&gt;尽管主流经济学家一致预计美联储下周将按兵不动，&lt;strong&gt;但利率市场隐含的加息概率已升至约30%，推动美国国债收益率全线走高。&lt;/strong&gt;其中，两年期美债收益率创2025年初以来新高，10年期收益率升至年内高位，30年期收益率则逼近2007年以来最高水平。&lt;/p&gt;
-&lt;p&gt;花旗7月23日发布的研究报告认为，这一市场定价并不意味着投资者普遍押注美联储即将加息，而&lt;strong&gt;更多反映的是，在前瞻指引趋于模糊、油价推升通胀风险的背景下，投资者正要求更高的风险溢价来应对政策意外。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-美债收益率走高，市场计入约30%加息概率
-&lt;p&gt;近期，中东局势升级带动国际油价持续上涨，市场对通胀卷土重来的担忧重新升温，美国国债收益率因此持续攀升。&lt;/p&gt;
-&lt;p&gt;周四，对货币政策最敏感的两年期美债收益率上涨至4.365%左右；基准10年期美债收益率同步刷新年内高点；30年期美债收益率升至5.19%，距离2007年以来高位仅一步之遥。&lt;/p&gt;
-&lt;p&gt;与此同时，利率期货显示，美联储下周会议已隐含约30%的加息概率。不过，&lt;strong&gt;这一定价与主流预期明显背离。彭博调查显示，70位受访经济学家中，没有任何一位预计美联储将在下周加息。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-花旗：30%不是市场预测，而是风险溢价
-&lt;p&gt;对于这一看似矛盾的现象，花旗给出了不一样的解释。&lt;/p&gt;
-&lt;p&gt;花旗经济学家Andrew Hollenhorst、Veronica Clark和Gisela Young指出，&lt;strong&gt;市场定价中的30%并不代表投资者真的认为美联储有三成概率加息，而是包含了额外的风险溢价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告认为，由于下周会议几乎不存在降息可能，政策风险天然偏向单边。&lt;strong&gt;一旦美联储意外加息，债券市场受到的冲击将远高于按兵不动，因此投资者愿意支付额外成本，为这种尾部风险提前定价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;花旗指出，历史上，美联储会议对应的风险溢价通常仅为1至2个基点，但随着近年来美联储减少前瞻指引、政策沟通更依赖数据，不确定性有所上升，市场要求的风险补偿也随之扩大。&lt;/p&gt;
-&lt;p&gt;这一逻辑同样能够解释当前长端利率的走势。花旗认为，&lt;strong&gt;如果未来某次会议真的意外加息，市场往往会将其视为新一轮加息周期的开始，而非一次孤立事件，因此终端利率预期也会相应抬升。&lt;/strong&gt;正因如此，目前市场已定价到明年3月累计加息超过50个基点，但这并不意味着它就是投资者的基准情景。&lt;/p&gt;
-花旗：前瞻指引越模糊，利率越容易维持高位
-&lt;p&gt;花旗认为，&lt;strong&gt;近期油价上涨只是促使市场重新评估政策路径的催化剂，更深层的原因在于美联储沟通框架的变化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，中东局势推升油价及美国汽油价格，强化了市场对通胀风险重新升温的担忧。而在美联储官员未提供明确政策指引的情况下，这种不确定性进一步放大了市场对政策意外的担忧。&lt;/p&gt;
-&lt;p&gt;花旗强调，&lt;strong&gt;在前瞻指引清晰的时期，市场风险溢价通常可以忽略；但当前，每一次议息会议都存在更大的政策不确定性，投资者需要提前为潜在意外支付风险补偿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，即使美联储最终按兵不动，美债收益率也未必会因加息预期消退而明显回落。花旗认为，在美联储重新建立更清晰的沟通框架之前，由风险溢价推高利率的现象仍可能持续存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
 &lt;p&gt;据美银证券研报，Alphabet第二季度净营收达1036亿美元，高于市场预期的1011亿美元，谷歌云收入同比增长82%，远超市场预期的65%，加速势头尤为突出。&lt;/p&gt;
 &lt;p&gt;与此同时，公司将2026财年资本开支指引上调150亿美元至1950亿至2050亿美元区间，较此前1800亿至1900亿的指引大幅提升，这一消息成为压制股价的核心变量。&lt;/p&gt;
 &lt;p&gt;美银证券分析师Justin Post在报告中维持对Alphabet的&amp;quot;买入&amp;quot;评级，目标价430美元。他指出，&lt;strong&gt;尽管资本开支上调引发市场负面反应，但云业务积压订单、客户超额消费及云利润率的持续扩张，均表明增量投入正在直接转化为收入增长。&lt;/strong&gt;&lt;/p&gt;
