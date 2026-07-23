@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 14:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 14:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -168,13 +168,13 @@
 SemiAnalysis提出改革路线图
 
 &lt;p&gt;SemiAnalysis并非主张英伟达彻底放弃委员会模式，而是提出了更具体的改进方案。该机构建议，若黄仁勋确实希望推进委员会式训练，至少应组建三个彼此隔离、互不沟通的独立委员会，以避免群体思维。&lt;/p&gt;
-&lt;p&gt;这三个联盟应在数据、强化学习、预训练和评估等维度上各自独立创新，并相互竞争。SemiAnalysis认为，这种安排将更贴近美国自由市场价值观，也更接近中国AI实验室的实际运作方式——在竞争中迭代，在迭代中分化出真正的技术差异化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，美股盘初走低，特斯拉跌9%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 13:37:55 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
-&lt;p&gt;周四，美股开盘整体走弱，道指跌1%，标普500指数跌1.1%，科技板块拖累下，纳斯达克指数重挫1.8%。个股方面，特斯拉跌约9%。公司二季度营收虽大增26%，但盈利却下滑18%，远低于市场预期，同时自由现金流由正转负。特斯拉对此解释称，目前正处于史上最大规模的投资扩张阶段。谷歌A同样承压，股价跌约6%。其二季度自由现金流首次出现负值，并宣布上调全年资本开支预期，最高可达2050亿美元，引发市场对成本压力的担忧。&lt;/p&gt;
+&lt;p&gt;这三个联盟应在数据、强化学习、预训练和评估等维度上各自独立创新，并相互竞争。SemiAnalysis认为，这种安排将更贴近美国自由市场价值观，也更接近中国AI实验室的实际运作方式——在竞争中迭代，在迭代中分化出真正的技术差异化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
+&lt;p&gt;周四，美股盘中，纳指跌幅扩大至2%，标普跌1.1%，道指跌超1%，银行指数跌超1.6%，特斯拉跌超13%。公司二季度营收虽大增26%，但盈利却下滑18%，远低于市场预期，同时自由现金流由正转负。特斯拉对此解释称，目前正处于史上最大规模的投资扩张阶段。&lt;/p&gt;
 &lt;p&gt;科技巨头为人工智能基础设施融资而涌入市场的长期债券，正与美国国债争夺同一批买家，进一步推高本已高企的长端利率。美国30年期国债收益率已连续多日维持在5%上方，创2007年金融危机以来最长纪录。与此同时，胡塞武装袭击沙特油轮引发供给忧虑，布伦特原油逼近每桶100美元，通胀压力再度升温，令美债市场承压。&lt;/p&gt;
 &lt;p&gt;Siebert Financial首席投资官Mark Malek在研究报告中写道：&amp;quot;AI乐观情绪依然存在，但责任已明确转移至管理层身上，未来财报电话会议的焦点将越来越多地落在投资资本回报率，而非AI远景规划。&amp;quot;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;美股开盘整体走弱，道指跌1%，标普500指数跌1.1%，科技板块拖累下，纳斯达克指数重挫1.8%。&lt;/li&gt;
+&lt;li&gt;美股盘中，纳指跌幅扩大至2%，标普跌1.1%，道指跌超1%，银行指数跌超1.6%，特斯拉跌超13%。&lt;/li&gt;
 &lt;li&gt;日元几乎没有变化，为每美元163.07&lt;/li&gt;
 &lt;li&gt;欧元兑美元短线小幅走低，现报1.1389。此前欧洲央行维持利率不变。&lt;/li&gt;
 &lt;li&gt;英国国债跌幅扩大，10年期收益率上涨6个基点至5.09%。&lt;/li&gt;
@@ -187,8 +187,9 @@ SemiAnalysis提出改革路线图
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-美股盘初走低，特斯拉跌约9%
-&lt;p&gt;道指跌1%，标普500指数跌1.1%。特斯拉跌约9%，公司Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段。谷歌A跌约6%，公司Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元。SK海力士涨约2%，韩国证券存管机构（KSD）称SK海力士将股票转换为美国存托凭证的比例上限设定为2.5%。&lt;/p&gt;
+美股盘中跌幅扩大，特斯拉跌超13%
+&lt;p&gt;美股盘中，纳指跌幅扩大至2%，标普跌1.1%，道指跌超1%，银行指数跌超1.6%，特斯拉跌超13%。&lt;/p&gt;
+&lt;p&gt;早前，美股开盘整体走弱，道指跌1%，标普500指数跌1.1%，科技板块拖累下，纳斯达克指数重挫1.8%。个股方面，特斯拉跌约9%。谷歌A同样承压，股价跌约6%。其二季度自由现金流首次出现负值，并宣布上调全年资本开支预期，最高可达2050亿美元，引发市场对成本压力的担忧。&lt;/p&gt;
 &lt;p&gt;Alphabet最新财报重燃市场对AI支出是否过度的担忧，其股价盘前下跌4.2%。特斯拉则因包括AI与机器人项目在内的支出在第二季度骤升至58亿美元，导致公司出现两年来首次负自由现金流，股价盘前跌幅达6.1%。&lt;/p&gt;
 &lt;p&gt;当前市场的核心争议在于：这些规模空前的投入究竟能否兑现足够的商业回报？投资者对这一问题尚未形成共识，由此带来的不确定性直接压制了科技股走势。&lt;/p&gt;
 
@@ -237,22 +238,7 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 咖啡与可可成本压顶！雀巢下调利润率预期，股价暴跌创2020年来最大跌幅</title><link>https://wallstreetcn.com/articles/3777785</link><guid>a15d81b34cd38abea5385d574899dc4915905968c56017a0fda56185a192e03b</guid><pubDate>Thu, 23 Jul 2026 11:30:43 GMT</pubDate><description>&lt;p&gt;咖啡和可可价格高企正在侵蚀雀巢的盈利能力。&lt;/p&gt;
-&lt;p&gt;这家瑞士食品巨头周四下调下半年利润率预期，叠加销量增速不及部分投资者预期，股价单日重挫近7%，创下2020年以来最大单日跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;雀巢表示&lt;strong&gt;，受咖啡和可可原料成本上涨拖累，公司今年上半年营业利润率同比下滑0.1个百分点至16.4%，营业利润下降2.8%至71亿瑞士法郎（约合87亿美元）。公司随即将下半年利润率预期由此前的&amp;quot;较上半年改善&amp;quot;下调为&amp;quot;与上半年大体持平&amp;quot;，令市场预期落空。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次业绩冲击发生在雀巢新管理层力推全面转型的关键节点。&lt;/strong&gt;新任首席执行官Philipp Navratil与董事长Pablo Isla——后者曾执掌Inditex——正致力于精简集团庞杂的组织架构并剥离部分业务。股价在财报发布前已因市场乐观预期而有所上涨，此番业绩不及预期令涨幅全数回吐。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-销量增速不及预期，成本压力多点承压
-&lt;p&gt;雀巢第二季度销量增速成为此次业绩的核心失望所在。市场此前普遍预期销量增速达2%，实际公布数字为1.8%，虽与分析师一致预期吻合，但低于部分投资者的更高预期。&lt;/p&gt;
-&lt;p&gt;巴克莱分析师Warren Ackerman表示，&amp;quot;&lt;strong&gt;考虑到此前的股价涨幅，这一销量数字还不够好。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;除原材料成本外，雀巢还面临多重额外压力。公司指出，营业利润率同时受到营销支出增加、关税影响，以及今年早些时候全球婴儿配方奶粉召回事件的拖累。此次召回涉及可能受到cereulide污染的产品——该毒素可引发恶心和呕吐。&lt;/p&gt;
-营收超预期，提价策略支撑顶线增长
-&lt;p&gt;尽管利润率承压，&lt;strong&gt;雀巢第二季度营收表现仍好于预期。&lt;/strong&gt;期内销售额增长3.7%，其中价格上涨贡献1.9个百分点，在一定程度上对冲了成本上升的影响。&lt;/p&gt;
-&lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
-水业务合资交易引入私募资本
-&lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
-&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉的“尴尬期”：汽车利润越来越薄，AI故事越来越贵</title><link>https://wallstreetcn.com/articles/3777745</link><guid>d17346502764814e02ef8443f6cc491984c65e4cbbdbdec9278b38cfcb56b4f3</guid><pubDate>Thu, 23 Jul 2026 03:28:22 GMT</pubDate><description>&lt;p&gt;一份营收创纪录的财报，盘后股价却跌4%。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉的“尴尬期”：汽车利润越来越薄，AI故事越来越贵</title><link>https://wallstreetcn.com/articles/3777745</link><guid>d17346502764814e02ef8443f6cc491984c65e4cbbdbdec9278b38cfcb56b4f3</guid><pubDate>Thu, 23 Jul 2026 03:28:22 GMT</pubDate><description>&lt;p&gt;一份营收创纪录的财报，盘后股价却跌4%。&lt;/p&gt;
 &lt;p&gt;7月22日美股盘后，特斯拉发布FY2026Q2业绩。282.4亿美元营收，同比增26%，过去12个月累计营收首次突破1000亿美元。调整后EPS 0.33美元，市场预期0.51美元，差了35%。营业利润3.98亿美元，利润率从4.1%跌到1.4%。营收涨26%，利润跌57%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;营收创纪录是真的，但汽车利润下滑的速度超过了AI收入增长的速度——中间这段真空，是特斯拉眼下最尴尬的地方。&lt;/strong&gt;&lt;/p&gt;
 毛利率的真相
@@ -347,7 +333,22 @@ CapEx的加速度：2000亿还不够
 &lt;li&gt;FCF是否继续为负。Q3 CapEx若超500亿，经营现金流需要超过500亿才能转正——去年Q3经营现金流484亿，需要同比增长至少15%。&lt;/li&gt;
 &lt;li&gt;Gemini 4发布节奏。皮查伊承诺&amp;quot;接近月度&amp;quot;，如果兑现将加速企业渗透。&lt;/li&gt;
 &lt;li&gt;回购是否恢复。零回购是暂时性融资窗口还是新常态——对股东回报有直接影响。&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 供需决定价格，茅台也不会例外</title><link>http://xueqiu.com/7368170779/401826226</link><guid>a054b9d1e3908167b295c54dc39a8516498fc7b944f8d357bec3222d6d27a2ab</guid><pubDate>Thu, 23 Jul 2026 09:57:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浩然斯坦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 17 日晚，茅台一纸公告：53 度 500ml 飞天茅台经销合同价从 1269 元上调至 1369 元，i 茅台平台零售价同步从 1539 元涨至 1639 元，单瓶各涨 100 元。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 意法半导体Q3营收指引未达市场预期，欧股股价暴跌17%｜财报见闻</title><link>https://wallstreetcn.com/articles/3777770</link><guid>d27486773b3bd79a09df7769d2ddd34dfa93caada0fa3cc59fba27c1a72d5774</guid><pubDate>Thu, 23 Jul 2026 08:21:51 GMT</pubDate><description>&lt;p&gt;意法半导体（STMicroelectronics）股价遭遇重挫。尽管公司再次上调全年AI业务收入预期，并预计第四季度增长进一步加速，但第三季度营收指引低于市场预期，高估值下投资者选择获利了结。&lt;/p&gt;
+&lt;/ol&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 咖啡与可可成本压顶！雀巢下调利润率预期，股价暴跌创2020年来最大跌幅</title><link>https://wallstreetcn.com/articles/3777785</link><guid>a15d81b34cd38abea5385d574899dc4915905968c56017a0fda56185a192e03b</guid><pubDate>Thu, 23 Jul 2026 11:30:43 GMT</pubDate><description>&lt;p&gt;咖啡和可可价格高企正在侵蚀雀巢的盈利能力。&lt;/p&gt;
+&lt;p&gt;这家瑞士食品巨头周四下调下半年利润率预期，叠加销量增速不及部分投资者预期，股价单日重挫近7%，创下2020年以来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;雀巢表示&lt;strong&gt;，受咖啡和可可原料成本上涨拖累，公司今年上半年营业利润率同比下滑0.1个百分点至16.4%，营业利润下降2.8%至71亿瑞士法郎（约合87亿美元）。公司随即将下半年利润率预期由此前的&amp;quot;较上半年改善&amp;quot;下调为&amp;quot;与上半年大体持平&amp;quot;，令市场预期落空。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次业绩冲击发生在雀巢新管理层力推全面转型的关键节点。&lt;/strong&gt;新任首席执行官Philipp Navratil与董事长Pablo Isla——后者曾执掌Inditex——正致力于精简集团庞杂的组织架构并剥离部分业务。股价在财报发布前已因市场乐观预期而有所上涨，此番业绩不及预期令涨幅全数回吐。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+销量增速不及预期，成本压力多点承压
+&lt;p&gt;雀巢第二季度销量增速成为此次业绩的核心失望所在。市场此前普遍预期销量增速达2%，实际公布数字为1.8%，虽与分析师一致预期吻合，但低于部分投资者的更高预期。&lt;/p&gt;
+&lt;p&gt;巴克莱分析师Warren Ackerman表示，&amp;quot;&lt;strong&gt;考虑到此前的股价涨幅，这一销量数字还不够好。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;除原材料成本外，雀巢还面临多重额外压力。公司指出，营业利润率同时受到营销支出增加、关税影响，以及今年早些时候全球婴儿配方奶粉召回事件的拖累。此次召回涉及可能受到cereulide污染的产品——该毒素可引发恶心和呕吐。&lt;/p&gt;
+营收超预期，提价策略支撑顶线增长
+&lt;p&gt;尽管利润率承压，&lt;strong&gt;雀巢第二季度营收表现仍好于预期。&lt;/strong&gt;期内销售额增长3.7%，其中价格上涨贡献1.9个百分点，在一定程度上对冲了成本上升的影响。&lt;/p&gt;
+&lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
+水业务合资交易引入私募资本
+&lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
+&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 供需决定价格，茅台也不会例外</title><link>http://xueqiu.com/7368170779/401826226</link><guid>a054b9d1e3908167b295c54dc39a8516498fc7b944f8d357bec3222d6d27a2ab</guid><pubDate>Thu, 23 Jul 2026 09:57:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浩然斯坦&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 17 日晚，茅台一纸公告：53 度 500ml 飞天茅台经销合同价从 1269 元上调至 1369 元，i 茅台平台零售价同步从 1539 元涨至 1639 元，单瓶各涨 100 元。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 意法半导体Q3营收指引未达市场预期，欧股股价暴跌17%｜财报见闻</title><link>https://wallstreetcn.com/articles/3777770</link><guid>d27486773b3bd79a09df7769d2ddd34dfa93caada0fa3cc59fba27c1a72d5774</guid><pubDate>Thu, 23 Jul 2026 08:21:51 GMT</pubDate><description>&lt;p&gt;意法半导体（STMicroelectronics）股价遭遇重挫。尽管公司再次上调全年AI业务收入预期，并预计第四季度增长进一步加速，但第三季度营收指引低于市场预期，高估值下投资者选择获利了结。&lt;/p&gt;
 &lt;p&gt;周四，意法半导体公布2026年第二季度财报，&lt;strong&gt;预计第三季度营收约37亿美元（指引中值），低于彭博统计的分析师平均预期39亿美元。&lt;/strong&gt;受此影响，公司欧股股价盘中一度暴跌17%，&lt;strong&gt;创2025年7月以来最大单日跌幅。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;管理层对全年增长前景依然充满信心。首席执行官Jean-Marc Chery表示，第四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心和低轨卫星通信需求带动；同时将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -381,22 +382,7 @@ AI与云业务成为增长主引擎
 AI热潮推升需求，供应链仍是挑战
 &lt;p&gt;尽管AI基础设施需求持续爆发，供应链压力仍未明显缓解。&lt;/p&gt;
 &lt;p&gt;随着AI企业持续扩建数据中心、集中采购内存芯片，相关芯片价格快速上涨，电信设备厂商普遍面临成本压力。爱立信上周已就此发出利润率预警，&lt;strong&gt;而诺基亚则表示，目前需求依然强劲，供应仍是限制行业增长的主要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报季开局强劲，为何美股却难创新高？摩根大通：“盈利燃料”正在耗尽</title><link>https://wallstreetcn.com/articles/3777787</link><guid>12145462539e3231272f719a6c9409a325ab16a9c3d9bf9d4306d1daa4e080ae</guid><pubDate>Thu, 23 Jul 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;美股第二季度财报季开局亮眼，但强劲业绩未能推动市场突破历史高点。摩根大通警告，&lt;strong&gt;驱动美股上行的&amp;quot;盈利燃料&amp;quot;正逐渐耗尽，多项先行指标显示盈利修正的上行空间已趋于收窄。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛、美国银行、谷歌、特斯拉等华尔街巨头与科技龙头相继发布财报，BNY Mellon、强生、软件公司ServiceNow等企业纷纷上调全年业绩指引，财报季整体表现强劲。然而，标普500指数本月基本原地踏步，截至周三收盘仍距历史高点逾1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通策略师团队在周四发布的报告中指出，&lt;strong&gt;伊朗战争已改变通胀走势，进而影响短期和长期利率预期，令市场环境趋于复杂。在此背景下，即便业绩超预期并上调指引，也愈发难以成为推动股价进一步走高的催化剂。&lt;/strong&gt;&lt;/p&gt;
-盈利修正动能减弱，上行空间收窄
-&lt;p&gt;摩根大通策略师团队由Khuram Chaudhry领衔，在报告中写道：&lt;strong&gt;&amp;quot;盈利上调虽然普遍，但修正趋势表明燃料可能即将耗尽。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该团队重点关注生产者价格通胀与消费者价格通胀之间的利差。&lt;/p&gt;
-&lt;p&gt;据摩根大通数据，企业销售额与该利差的相关性约为47%，每股盈利与该利差的相关性约为29%。目前，这一利差似乎已触顶并陷入停滞。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;如果这一趋势持续，风险在于每股盈利和销售预测的进一步上调空间可能十分有限&lt;/strong&gt;，&amp;quot;上述策略师表示。&lt;/p&gt;
-ISM订单库存比走低，需求信号趋弱
-&lt;p&gt;除通胀利差外，摩根大通还指出另一项值得警惕的指标——美国供应管理协会（ISM）的订单与库存比率过去三个月持续下滑，进一步印证了盈利上行动能减弱的判断。&lt;/p&gt;
-&lt;p&gt;该比率通常被视为制造业需求前景的先行指标，其持续走低意味着企业订单增速相对库存积累有所放缓，对未来营收和盈利预期构成潜在压力。&lt;/p&gt;
-高分歧个股与高风险资产优势消退
-&lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
-&lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
-&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英国财政风险再抬头：伯纳姆新政未明，投资者悄然减持英国资产</title><link>https://wallstreetcn.com/articles/3777790</link><guid>0ce9052ed0c3ecc8623a15dddefc99d942ee2df8955e2a9dbf3bdbf62edd3da7</guid><pubDate>Thu, 23 Jul 2026 14:18:46 GMT</pubDate><description>&lt;p&gt;英国新政府尚未公布完整财政路线图，市场已率先开始重新评估英国资产风险。&lt;strong&gt;新任英国首相伯纳姆有关财政规则将保持“灵活性”的表态，引发投资者对财政纪律、政府融资及未来预算安排的担忧，英国资产情绪明显降温。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英国财政风险再抬头：伯纳姆新政未明，投资者悄然减持英国资产</title><link>https://wallstreetcn.com/articles/3777790</link><guid>0ce9052ed0c3ecc8623a15dddefc99d942ee2df8955e2a9dbf3bdbf62edd3da7</guid><pubDate>Thu, 23 Jul 2026 14:18:46 GMT</pubDate><description>&lt;p&gt;英国新政府尚未公布完整财政路线图，市场已率先开始重新评估英国资产风险。&lt;strong&gt;新任英国首相伯纳姆有关财政规则将保持“灵活性”的表态，引发投资者对财政纪律、政府融资及未来预算安排的担忧，英国资产情绪明显降温。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本周，英镑兑贸易加权货币篮子创下近一个月来最差单周表现，英国长期国债也持续承压。与此同时，多家国际资管机构和策略师开始下调英镑前景，或削减英国资产配置，认为市场对英国财政前景和利率路径的定价仍过于乐观。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;市场普遍认为，真正的考验将在11月到来。&lt;/strong&gt;届时，财政大臣John Healey将公布新政府首份秋季预算案，其能否在扩大政策支持与维持财政纪律之间取得平衡，将决定英国资产能否重获投资者信心。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -439,4 +425,19 @@ AI融资潮涌入债市，长端收益率高位承压
 &lt;p&gt;&lt;strong&gt;目前与AI相关的融资规模已超过5000亿美元。&lt;/strong&gt;Alphabet财报显示AI资本支出持续扩张，特斯拉二季度在AI与机器人项目上的支出飙升至58亿美元，导致该公司两年来首次出现现金消耗，两家公司股价盘前均大幅下跌。&lt;/p&gt;
 &lt;p&gt;Nuveen Asset Management的Tony Rodriguez表示：&amp;quot;无论是政府、超大规模云计算商还是其他发行人，信用债如今正在长端与更多借款方争夺同一批投资者。&amp;quot;&lt;/p&gt;
 &lt;p&gt;Vanguard Capital Management的Alex Payne指出，&lt;strong&gt;养老金、保险公司等30年期国债的传统买家，如今拥有&amp;quot;比以往更丰富的选择菜单&amp;quot;，他认为收益率尚未触顶。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自2007年以来，美国国债市场规模已从4.5万亿美元膨胀至31万亿美元，债务占GDP比例翻倍至逾100%。在AI资本开支浪潮与财政状况持续恶化的双重背景下，基金经理普遍认为，5%以上的长端收益率将不再是昙花一现。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;自2007年以来，美国国债市场规模已从4.5万亿美元膨胀至31万亿美元，债务占GDP比例翻倍至逾100%。在AI资本开支浪潮与财政状况持续恶化的双重背景下，基金经理普遍认为，5%以上的长端收益率将不再是昙花一现。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报季开局强劲，为何美股却难创新高？摩根大通：“盈利燃料”正在耗尽</title><link>https://wallstreetcn.com/articles/3777787</link><guid>12145462539e3231272f719a6c9409a325ab16a9c3d9bf9d4306d1daa4e080ae</guid><pubDate>Thu, 23 Jul 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;美股第二季度财报季开局亮眼，但强劲业绩未能推动市场突破历史高点。摩根大通警告，&lt;strong&gt;驱动美股上行的&amp;quot;盈利燃料&amp;quot;正逐渐耗尽，多项先行指标显示盈利修正的上行空间已趋于收窄。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛、美国银行、谷歌、特斯拉等华尔街巨头与科技龙头相继发布财报，BNY Mellon、强生、软件公司ServiceNow等企业纷纷上调全年业绩指引，财报季整体表现强劲。然而，标普500指数本月基本原地踏步，截至周三收盘仍距历史高点逾1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通策略师团队在周四发布的报告中指出，&lt;strong&gt;伊朗战争已改变通胀走势，进而影响短期和长期利率预期，令市场环境趋于复杂。在此背景下，即便业绩超预期并上调指引，也愈发难以成为推动股价进一步走高的催化剂。&lt;/strong&gt;&lt;/p&gt;
+盈利修正动能减弱，上行空间收窄
+&lt;p&gt;摩根大通策略师团队由Khuram Chaudhry领衔，在报告中写道：&lt;strong&gt;&amp;quot;盈利上调虽然普遍，但修正趋势表明燃料可能即将耗尽。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该团队重点关注生产者价格通胀与消费者价格通胀之间的利差。&lt;/p&gt;
+&lt;p&gt;据摩根大通数据，企业销售额与该利差的相关性约为47%，每股盈利与该利差的相关性约为29%。目前，这一利差似乎已触顶并陷入停滞。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;如果这一趋势持续，风险在于每股盈利和销售预测的进一步上调空间可能十分有限&lt;/strong&gt;，&amp;quot;上述策略师表示。&lt;/p&gt;
+ISM订单库存比走低，需求信号趋弱
+&lt;p&gt;除通胀利差外，摩根大通还指出另一项值得警惕的指标——美国供应管理协会（ISM）的订单与库存比率过去三个月持续下滑，进一步印证了盈利上行动能减弱的判断。&lt;/p&gt;
+&lt;p&gt;该比率通常被视为制造业需求前景的先行指标，其持续走低意味着企业订单增速相对库存积累有所放缓，对未来营收和盈利预期构成潜在压力。&lt;/p&gt;
+高分歧个股与高风险资产优势消退
+&lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
+&lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
+&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
