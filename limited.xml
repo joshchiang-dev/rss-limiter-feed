@@ -1,155 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 19:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
-&lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心观点&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;编程吃下大半Token需求：&lt;/strong&gt; 编程与软件工程已成为当前最消耗 Token 的场景，前沿实验室 API 收入中 70% 以上来自于编程。重度企业用户单人每年在 AI 上的支出已高达 10 万美元。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;订阅制“补贴打折”，实验室倒逼 API 迁移：&lt;/strong&gt; 200 美元/月的 Pro/Max 订阅能换取价值 8000 至 12000 美元的 API 额度，平均利用率仅需 5%~10% 即可让实验室亏损。实验室正全力将用量向毛利率 85%+ 的 API 端引导。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI 凭借 5.6 与 Codex 强势反扑：&lt;/strong&gt; 年初一度陷入停滞的 OpenAI 凭借 5.5、5.6 版本及 Codex 重新发力，企服 API 收入迅速回升，与 Anthropic 演变为平分秋色的“双雄争霸”格局。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;谷歌沦为“第五名”，算力锁定引发人才出走：&lt;/strong&gt; 谷歌 Gemini 表现不及预期，且因签署了缺乏“回收条款（Clawback）”的长期 TPU 出租协议，导致自用算力受限，引发 DeepMind 顶尖人才流失。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;xAI 算力出租新玩法与 Meta Neocloud 保底：&lt;/strong&gt; 马斯克以 3-4 倍市场溢价将 Colossus 算力出租给 Anthropic，但附带 90 天算力回收条款；Meta 则计划推出 Neocloud 作为资本支出（CapEx）的保底变现方案。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RL 扩展定律接棒，单条环境任务卖出上万美元：&lt;/strong&gt; 强化学习（RL）成为提升大模型能力的最核心 Scaling Law，各大实验室今年数据预算将超 100 亿美元。高质量软件工程 RL 任务单价已突破五位数。&lt;/li&gt;
-&lt;/ul&gt;
-一、 企业代币预算控制与编程场景的崛起
-&lt;p&gt;SemiAnalysis 团队观察到，随着企业 AI 支出的增加，许多机构正在步入紧缩时代并严格审查 AI 预算。&lt;/p&gt;
-&lt;p&gt;然而分析师指出，盲目限制员工使用高级模型或将开发者排除在外的政策极其短视。&lt;/p&gt;
-&lt;p&gt;数据显示，编程与软件工程已成为目前最消耗代币的使用场景，占到前沿实验室 API 收入的 70% 以上。重度企业用户单人每年在 AI 上的支出高达 10 万美元，且带来了清晰可见的投资回报率（ROI）。因此，企服市场的代币消费并未因预算审查而停滞，反而呈现出向高效编程场景高度集中的趋势。&lt;/p&gt;
-二、 订阅制补贴难以为继，实验室倒逼流量走向高毛利 API
-&lt;p&gt;在商业模式方面，SemiAnalysis 分析指出，现有的固定月费订阅制（如 Pro 或 Max 计划）存在严重的补贴与负毛利问题。&lt;/p&gt;
-&lt;p&gt;当用户的代币利用率仅达到 5% 至 20% 时，订阅服务就会触及盈亏平衡点甚至亏损。&lt;/p&gt;
-&lt;p&gt;为了改善财务状况，前沿实验室正积极引导企业客户从低毛利的订阅制转向毛利率高达 85% 以上的 API 按量付费模式。例如，Anthropic 的企业计划已不再包含固定用量，全面实行 API 定价，这助推其在第二季度实现了营业利润盈利。&lt;/p&gt;
-三、 OpenAI 凭借 5.6 与 Codex 实现翻盘，与 Anthropic 平分秋色
-&lt;p&gt;针对前沿模型的竞争，SemiAnalysis 团队认为，此前一度陷入增长停滞的 OpenAI 已成功实现翻盘。通过发布 5.5、5.6 版本模型以及 Codex 工具，OpenAI 在企服 API 领域的收入快速回升，其消费端与企业端的收入比例已逆转为 40:60。&lt;/p&gt;
-&lt;p&gt;相比之下，Anthropic 凭借早期在编程数据上的激进投入和极其聚焦的企业级定位，保持了极高的付费转化率。双方在月度净增 ARR 上已重回同等量级，开启了明确的双雄争霸格局。&lt;/p&gt;
-四、 第三名之争与算力策略分化，谷歌陷入困局
-&lt;p&gt;在其他竞争者的排位中，SemiAnalysis 认为谷歌的 Gemini 模型表现不及预期，已跌落至行业第五名。&lt;/p&gt;
-&lt;p&gt;其根本原因在于谷歌签署了大量缺乏“算力回收条款（Clawback）”的长期 TPU 出租协议，导致自身在关键时刻无法调集足够算力进行顶级模型训练，进而引发 DeepMind 顶尖人才的流失。&lt;/p&gt;
-&lt;p&gt;相反，xAI 采取了高溢价出租算力并附带 90 天强制回收条款的灵活策略，既实现了资金变现，又保留了冲击 AGI 的算力弹性；而 Meta 则将算力出租作为资本支出的保底变现方案（Neocloud）。&lt;/p&gt;
-五、 代币即服务（TaaS）爆发与芯片初创公司的路径选择
-&lt;p&gt;随着企业对模型选择多样性和合规性的需求提升，代币即服务（TaaS）呈现爆发式增长，在云巨头的营收占比中显著提升。&lt;/p&gt;
-&lt;p&gt;分析师认为，三大超大规模云厂商（AWS、Azure、GCP）凭借既有的企业分销渠道和合规优势，占据了 TaaS 市场的绝大部分份额。&lt;/p&gt;
-&lt;p&gt;虽然独立推理初创公司得益于整体市场蛋糕的扩大而快速增长，但对于硬件/芯片初创公司而言，仅靠与第三方 TaaS 平台合作难以实现长期突破，未来必须建立自己的 Neocloud 或与前沿实验室展开直接合作。&lt;/p&gt;
-六、 RL 扩展定律接棒预训练，高端数据环境成为百亿级新战场
-&lt;p&gt;SemiAnalysis 强调，强化学习（RL）已取代预训练，成为当前提升大模型能力最重要的扩展定律（Scaling Law）。&lt;/p&gt;
-&lt;p&gt;前沿实验室今年在 RL 环境数据上的预算总和将远超 100 亿美元。为了训练 AI 自主完成复杂的白领与工程任务，市场催生出了专门的 RL 环境初创产业链。由于创建高质量、无歧义且需要人类工程师耗时整天设计的工程任务极具挑战，实验室愿意为单条顶级编程 RL 环境任务支付上万美元的报酬，这表明 AI 数据产业正在从低端标注向高智力价值转型。&lt;/p&gt;
-&lt;p&gt;以下为访谈全文，由AI辅助翻译：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：大家好，欢迎回到 SemiAnalysis 周报。今天是第 20 期，我们和代币经济学（Tokconomics）团队在一起。事情发展得非常快，我们是在 7 月 15 日星期三录制这一期的。我猜等到这一期播出的时候，市场上又会有更多模型发布，以及这些公司关于其盈利能力、收入和活跃用户数的最新披露。无论如何，我们现在要记录当前这个时间点，讨论一下代币预算规划（Token Budgeting）、Meta 的计算策略、MSL 期货、Fable 和 Soul 的发布，以及 Anthropic 的利润率。非常兴奋能深入探讨这些内容。今天和我在一起的是 Max，你怎么样，伙计？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：非常好，谢谢邀请我。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：欢迎。我们还有 Crystal，近来怎么样，Crystal？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：嘿，Jordan。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：还有 Joey。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：嘿，Jordan。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：酷。那么我们要从代币预算开始。Crystal，交给你了。这段时间我们一直在和很多企业沟通，询问他们情况如何。在 SemiAnalysis，我们仍然在最大化利用代币（Token Maxing），但其他企业正步入紧缩时期。你能带我了解一下你在写这篇文章时的发现吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：是的，现在有很多企业正在严查预算，因为他们认为员工花得太多了。是的，很多人感到害怕，因为他们会想：“哦，如果我没有足够的代币来完成工作怎么办？”但我认为情况未必如此，而且这适用于大多数人，对吧？因为很多人甚至远远没有达到那个上限。每家公司可能只有少数几个重度超级用户会真正受到影响。但除此之外，我认为它对大多数人工作流程的影响，并没有社交媒体上传播的那么大。据我们观察，公司一直采取许多不同的策略，无论是按个人分配，还是给整个公司制定月度预算。我认为按公司制定预算显然比按个人分配合理得多，毕竟有些用户从中所创造的使用价值会比其他人多得多。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：那你看到大家实际上是怎么执行这一点的？显然，如果你直接使用超级豪华的最大化思维模型（Max Thinking Model），预算很快就会烧光。但在某些情况下，当真正执行预算时，大家会采取不同的方法，对吧？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：是的，没错。所以我看到有些人——我和一些人聊过，他们属于规模较小的公司，预算要小得多。他们的做法是，尝试优化如何针对像 Anthropic 或 OpenAI 这类较昂贵的代币进行使用。他们会先用较便宜的模型处理大量内容并压缩成较短的提示词（Prompt），然后再使用更昂贵的模型，或者使用公司不计入预算的模型。关于到底哪些模型会被计入预算，存在很多差异。有些企业把自己的自研模型算进预算，但有些企业不算。所以如果企业不计入，很多人就会倾向于把那些免费模型推到极限、大量使用，然后再去用那些真正要花钱的模型。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：你还看到人们——也许 Max 我可以让你聊聊这个。你最近看到越来越多的人把代币花在编程上，而不是其他使用场景，对吧？这似乎是增长最快的市场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：是的，我认为编程/软件开发总体上是目前为止最消耗代币的使用场景。实际上我认为这就是为什么很多关于代币预算的讨论显得相当……我认为很多预算本身是非常盲目的。比如我听到有人说，他们想确保销售人员不用 Opus 或 Fable 来写邮件，所以要求他们必须改用 Sonnet。这就像是，哥们，从代币的角度来看，生成封邮件几乎是免费的。你用 Opus 还是 Sonnet 来写这封邮件根本无关紧要。我完全无法理解为什么你要制定这样的政策来减少代币支出。我还听到很多公司的奇葩规定，比如只允许工程团队使用 Cloud Code 或 Codex，而其他人只能用 Codework 之类的东西。我认为这非常短视。老实说，你不应该建立一个工程师高高在上、其他人只能被迫使用次等工具的等级制度。你真的应该给每个人尝试这些工具的机会，找出如何利用它们提高效率。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的。Joey，你现在在使用这些模型吗？如果我有权限使用而你没有，你会怎么想？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：我可能会……是的，我确实在使用一些权限，虽然没有 Max 和 SemiAnalysis 的其他人用得那么多，但这可能只是我们目前工作的性质所致，现在情况也在改变。但是是的，我会相当生气，因为我仍然大量使用 Opus 4.8 来拉取各种数据源做 AI 研报任务，做更多研究类型的任务。嗯，是的，我会非常生气。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：你怎么看待 ROI（投资回报率）的问题？我认为对很多人来说，代币预算背后的整个动机显然是有人还没有看到这项投资的回报。要么是没看到，要么是还没显现出来。但结合你做的很多研究，你会发现使用它有很多好处，对吧？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的，我认为鉴于目前市场非常专注于编程，现在前沿实验室在 API 方面的 ARR（年度可重复收入）有 70% 以上来自于编程领域。其次，据我们所知，这主要是由超级用户和头部企业驱动的。编程应用非常广泛。对于 Anthropic 来说，并没有单一家独大的客户。比如 Meta 大约占 Anthropic 总 ARR 的 3% 到 5%，但整体主要是由超级用户驱动的。如果你在其中一家公司达到了超级用户的程度——我认为 Ramp 的数据表明，排名前 1%（即 99 百分位）的公司，每位员工每年在 AI 上的支出高达 10 万美元。如果你达到了那种程度，说明你显然获得了相当不错的 ROI。在我们与许多企业的交流中，这些顶尖工程师的支出甚至可以远超有限的预算上限。但如果你是一个花了天价却看不到 ROI 的人，你的预算很快就会被砍。我认为大家总会尝试一些最终放弃的项目，废弃之后继续前行。但很明显，因为市场高度专注于编程，人们获得了 ROI，所以他们会继续支出。我们持续听到 Anthropic 和 OpenAI 的净增 ARR 都在扩大——特别是 OpenAI 从 3 月下旬推出 Codex 以及 5.5、5.6 版本以来，API 代币的支出明显在扩大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的，有很多 traditionally（传统上）不做大量开发工作或不专注于此的组织，只允许中后台人员使用 Copilot 365 或 SAT 之类的工具。但我认为市场会继续扩大。当谈到个人的具体使用时，你们怎么看应用程序中的 API 使用与编程订阅计划之间的平衡？你们和他们交流时，会问他们是在用 Cloud Code 订阅制，还是按代币付 API 费用吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：嗯，我的意思是，任何能用订阅制的人绝对应该用订阅制，纯粹是因为补贴太高了。OpenAI 和 Anthropic 对此非常精明，所以当他们推出企业计划时——比如 SemiAnalysis 用的就是 Anthropic 企业计划——他们根本不让你用订阅制，强迫你按代币付费，因为他们知道那才是利润所在。但我认为总的来说，能用订阅制的人都会用订阅制，只有那些需要突破限制的人才会去付 API 费。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：我甚至和几家初创公司的人聊过，他们根本没买 Team 班或 Enterprise 企业版。他们就是每个月买 5 个（或者任何所需数量的）Claude 或 OpenAI 个人订阅，刷公司卡。如果达到了已有账户的限制，他们当月就再买一个，因为对他们来说，这样运营比直接走 API 计费划算得多。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：但是是的，如果你是一家足够年轻的初创公司，根本不在乎安全性或任何企业级保障，那就绝对应该给每人买 10 个订阅，而不是付 API 额度。我们最近做的一项研究（有一条相当火的推文）指出，对于 Codex，每月 200 美元的订阅大约可以换来价值 12,000 美元的 API 额度；而 Anthropic 每月 200 美元大约能换来 8,000 美元额度。显然，对于能在两者之间选择的人来说，这完全是不假思索的选择。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：Max，你能再深入讲讲这个吗？当你谈到这些业务的利润率概况，再对比订阅计划与 API 时，情况到底是什么样的？我把屏幕上那张推文串里的核心图表调出来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：好的。[清嗓子] 嗯，是的。本质上，当你听说每月 200 美元的计划能产生价值 8,000 美元的 API 额度时，如果平均用户的利用率接近 100%，那么订阅制的利润率就会低得多。所以真正关键的问题是：在我们整个用户群中，实际的平均利用率是多少？Jordan 刚才展示的图表就是各个计划的盈亏平衡百分比。我们可以看到，对于 Claude Max 20x 计划，盈亏平衡点只有 10%。对于 Pro 和 5X 计划，稍微好一点，是 20%。而 OpenAI 因为在订阅限制上更加慷慨，Plus 和 Pro 5X 计划的盈亏平衡点更低，为 11.4%，Pro 20X 计划甚至只有 5.7%。我们相当确信，尤其是对于这些 20x 计划，Anthropic 和 OpenAI 的平均利用率远高于 10% 和 5.7%。这意味着，这些 20x 计划的利润率不仅比 API 差（我们认为 Anthropic 的 API 利润率至少在 85% 以上），甚至整体上可能是负利润率。因此，这些公司当然希望将尽可能多的用量转移到 API 上。Joey 写了一份关于 Anthropic 业务的通讯，这刚好可以引出为什么我们认为 Anthropic 的处境可能比 OpenAI 更强。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的。而且我认为，一旦你转向 Anthropic 的企业订阅计划，订阅费里就不包含任何用量了，全都是按 API 定价计算。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的，我认为我们在 Anthropic 发现的非常有趣的一点是，因为他们现在的业务——虽然情况正在改变——有 80% 以上的 ARR 来自 API 端，正如 Max 所说，API 是超高利润率的，所以他们今天已经达到了盈利的状态。其中一部分是按 Non-GAAP（非通用会计准则）计算（即剔除股权激励成本），但像营业利润在第二季度已经盈利，第三季度甚至可能达到 10 亿美元以上的利润。这部分是因为他们增长太快了，招聘速度和重新投入训练的速度跟不上他们的设想。但正因为他们目前拥有毛利优势，他们可以把任意多的资金重新砸回模型训练中，从而扩展其模型优势和能力优势。我们认为这显然是他们应该尝试去做的。所以，仅仅因为他们今天非常赚钱，并不意味着他们应该立即或尽快维持 30% 的 EBITDA 利润率来证明这是一个盈利的商业模式，而是应该继续尽可能多地投入到模型训练中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的。你能谈谈消费级和企业级之间的比例吗？假设消费级是指那些付费订阅计划，而企业级是按 API 使用量付费。当你观察这些时，显然大部分 Twitter 用户都在用订阅计划，但随后你只要拿到一个大客户，他在 API 代币上的支出极其庞大，以至于把其他一切都淹没了，这让它成为了一门好生意。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的。因为 Anthropic 非常专注，他们在历史上一直专注于企业级。他们 90% 以上都是企业级。相比之下，ChatGPT 从消费级切入，在第一季度，其 ARR 的 60% 来自消费级，而且 9.5 亿周活跃用户中只有 6% 最终付费购买了计划，大多数人买的是每月 20 美元的计划。这是完全不同的业务组合，因为 OpenAI 必须为另外 9 亿免费周活跃用户提供服务并承担成本，这导致他们的综合毛利率拉低了约 20 个百分点。不过这种情况正在改变。我们个人认为，随着 OpenAI 的 API 业务自 3 月下旬凭借 Codex 以及 5.5 和 5.6 版本崛起，二季度消费级与企业级的 60/40 比例已经翻转为 40/60。据我们从渠道（特别是像 Bedrock 和 Foundry 这样的代币即服务/Token-as-a-Service 业务）听到的消息，OpenAI 已经意识到了这一点并开始转型，甚至新增 ARR 在 Anthropic 和 OpenAI 之间看起来更加均衡了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的。随着 5.6 Six Soul 的发布，这挺令人震惊的。X 上像 Tibo 这样追踪每日活跃用户数的人都在庆祝用户数突破 700 万、800 万。但要明确的是，ChatGPT 免费层有超过 9 亿的周活跃用户。从 9 亿的基数来看，真正转换为完整付费产品的人并不多，转化率目前并不算高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的，很有趣。你甚至能在 Claude 消费级的付费率上看到这一点：Claude 免费用户中有大约 9% 最终会付费。所以它的用户群体要聚焦得多。如果我们看那 9 亿周活用户，很多只是把 ChatGPT 当作谷歌搜索的替代品。消费级业务很难做变现，留存曲线通常相当差，用户 3 个月、6 个月、12 个月后的留存率很低。广告也是个艰难的商业模式，很难扩展。虽然他们提出了 2030 年疯狂的广告收入目标，但消费级确实不好做。鉴于 API 代币的利润率，企业级才是王道。Anthropic 在今年前六个月凭借早期在编程领域的杠杆建立了相当好的领先优势，而到了七月中旬，这似乎正在演变为一场旗鼓相当的双雄争霸赛。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的。Crystal，在这场双雄争霸中你看到了什么？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：你接触的人里，大家是在用 Anthropic、Codex，还是两者都在用？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：感觉几周前我和大家交流时，大家使用 Anthropic Claude Code 的比例非常高。如果我问他们为什么，他们会说“只是习惯了而已”。但现在，随着消费级用户使用 ChatGPT 的频率远超 Claude，这种效应开始渗透到企业级。以前那些完全不碰 Codex 的 Claude Code 重度用户，开始觉得“好吧，要不我也试试 Codex？”所以，尽管消费级占的蛋糕份额很小，利润率也不如企业级直接，而且 OpenAI 历史上在消费级市场的表现不如 Anthropic，但他们在消费级领域建立的牵引力最终会渗透进来，我们在过去这一周里已经开始看到这种迹象了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：Max，你的看法是什么？OpenAI vs Anthropic，对你来说目前处于什么格局？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：我记得上次参加这个播客时，刚好是 5.5 发布的时候，当时我们还在聊年初 OpenAI 的处境有多么艰难。我认为 3 月和 4 月其 ARR 增长可能是平的，这肯定在 Sam Altman 脑海里敲响了警钟。但我们当时预测 5.5 会是一个拐点，它确实是个非常好的模型，大概达到了 Opus 4.8 的水平。而这一预测的发展甚至比我们预期的更快、更乐观。这里有些人甚至说 5.6 和 Fable 一样好，而且价格只有一半。我们还认为它可能是一个小得多的模型，这证明了 OpenAI 出色的训练能力。正如 Joey 之前提到的，现在 OpenAI 和 Anthropic 之间的月度净增 ARR 已经旗鼓相当，这相当令人震惊——此前人们有点把 OpenAI 淘汰出局了（Jordan 可能是其中之一 [笑声]），但伙计们，他们卷土重来了！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：我很灵活，随时调整观点。这一切始终取决于模型，伙计们！大家总是问我什么时候停止黑 OpenAI，只要他们发布一个足够好的模型，它就是好模型。对于我想做的事情，我现在基本上默认使用 OpenAI，尽管它的客户端不支持多标签页等功能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：等等，你在用 Codex App 还是 CLI（命令行界面）？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：CLI。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：你的使用形态是 CLI？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：CLI。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：我觉得他们根本不希望你用 CLI，伙计。他们非常积极地想让你用 App。是什么让你退缩了？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：标签页（Tabs）。我需要同时打开多个标签页。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：好吧。我认为你应该这样用——因为我同意，我第一次用 Codex 时，每次开新对话，它就消失在左侧边栏的茫茫大海里。正确的用法应该是：每个项目只固定（Pin）一个主线程，任何时候有具体需求，就让那个主线程去派生子线程（Subthreads）。这样你实际上根本不需要去管左侧边栏里的绝大多数线程，只需要用那几个固定好的主线程就行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的，那太糟糕了。其次，我一直在远程 SSH 环境里工作，他们的远程体验很烂。所以对这两点我非常反感。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：有道理。我觉得他们在改进这个，不过明确地说，我不用它来看代码。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：谢谢澄清。上次你来的时候我们就讨论过，有时你还是得在终端里运行东西，查看日志输出，这并不是标准 Codex App 所擅长的。但我不是他们的目标市场，我明白他们瞄准的是全球的“氛围感程序员（Vibe Coders）”，帮助大家构建更多 B2B SaaS，这是他们的核心商业模式。我不是目标市场，这没问题，我会继续用 CLI。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：实际上，我好奇他们内部大多数软件工程师是用 App 还是 CLI。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：在 SemiAnalysis 肯定全是 CLI。我们所有的硬核工程师都是 CLI 的死忠粉，绝不可能放弃它。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：这是个好问题，你下次可以去问问他们。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：好的，下次见到 OpenAI 的人我会问问。好的，让我们换个话题，聊聊谁会成为第三名。我们之前讨论过一些发布：xAI 卷土重来，他们发布了挂载 Cursor 的 Grok，发展势头良好；Meta 推出了 Llama Spark，堆叠了海量算力，并暗示要推出 Neocloud（新一代云服务）——当然 xAI 是第一个这么做的。你们想先聊聊模型还是算力？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：先聊算力吧，我觉得更更有趣。模型方面一句话总结（TL;DR）：它们不差，但在现阶段，除非你能交付真正的顶级前沿模型（Frontier Model），否则根本不重要，而它们显然还算不上真正的顶级前沿，所以谁在乎呢。你觉得会有人把它们的 API 用到爆吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：在它成为真正的前沿模型之前，我不认为有人会用它们的 API。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：是的。当他们提供 API 时，其“代币即服务”业务也会有极高的利润率。但这前提是它必须比当时最好的 Anthropic 和 OpenAI 模型更好，这说起来容易做起来难。我觉得像 Grok 4.5、Spark 1.1，它们唯一的价值在于证明扩展曲线（Scaling Curve）依然有效。这就像是：好吧，这些人不像 Gemini，他们目前还在牌桌上，能训练出合格的模型。虽然还称不上顶级前沿，但他们有非零的概率能追上来。就我个人而言，我绝对不会把代币用量转移到 Grok 4.5 或 Spark 1.1 上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：好吧。但你提到了另一个名字，在我看来它现在令人震惊地排在第五位——Gemini，你还是这个观点吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：100% 确定。我认为他们显然处于第五名。[笑声] 除非 Gemini 3.5 Pro 比我们听到的行业传闻好得多，否则他们可能会永远停留在第五名。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：永远停留在第五名可能与模型质量有关，而模型质量又与他们拥有的算力挂钩。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：是的。当第一次看到 xAI 与 Anthropic 的交易（Elon 把 Colossus 1 号集群的算力几乎全部租给了 Anthropic）时，我一开始误解了 Elon 的意图。但实际上真正的核心问题是：&lt;strong&gt;假设你通过扩大算力规模证明了自己确实能够达到前沿，你是否有能力回收（Claw back）所有的算力？&lt;/strong&gt; 这就是 Elon 在结合 Cursor 和 xAI 时采取的策略——基本上是在说：“我留给你们足够的算力去证明你们有能力达到前沿；与此同时，我把所有多余的算力以极高的利润率（可能是市场价的 3 倍甚至 4 倍）租出去来实现变现。但我会在每一份合同里加入 90 天回收条款（Clawback Clause）。一旦你们做得非常好，我就把所有算力全部回收拿来自己用。” 对于一个坚信自己能构建出 RSI（递归自我提升/AGI）的人来说，这是一个非常有效的策略。你可以这样理解：OpenAI 和 Anthropic 是通过直接卖推理代币来将算力变现，而 Elon 则是通过做这些短期算力租赁交易来变现。关于 Meta 算力，有传言说他们要变成 Neocloud。我认为只要他们采取 xAI 风格的带回收条款的交易，或者直接提供给外部，或者做“代币即服务”——只要这种变现方式在理论上允许他们在 Llama 表现出色时把算力全部收回，这就是一个极度明智的决定。这让他们短期内可以更激进地购买算力，同时长期来看依然保有构建 AGI 的机会。谷歌的问题（也是他们除了 Gemini 3.5 Flash 表现不佳之外排在第五的原因）在于，他们签署了大量长期算力协议，无法回收租给别人的 TPU，这些算力被长期锁定。这表明他们自身缺乏构建 AGI 的信念。像 Noam Shazeer、John Jumper 等 DeepMind 顶尖人才的离职，某种程度上就是因为这个事实——他们是坚定的 AGI 信徒，但领导层不是，所以他们认为在这种情况下唯一的出路就是去别的地方工作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：哇，好吧，非常犀利的观点。我想深入探讨两点。第一点与算力回收（Clawback）有关。这确实是一个有效的策略，但你基本上只能回收一次，之后就再也没有人愿意从你这里购买或信任你了。还是说你认为可以在这两者之间找到平衡？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：在理想状态下，你只需要回收一次，因为只有当你确信继续扩展能够突破至顶级前沿时你才会这么做。但我也认为有可能不只回收一次。原则上 Anthropic 将其视为短期交易。如果 Elon 六个月后说“我要全部收回”，一年后又说“开玩笑的，我们其实还是训练不出前沿模型”，而此时 Anthropic 业务极其火爆、急需算力，他们为什么要拒绝呢？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的，经济利益能让敌人变成朋友。第二点是关于商业模式，Joey 我想请你聊聊。哪种商业模式更好？是销售你自己的前沿模型（或接近前沿模型）的代币，还是以高于市场价的溢价短期出售算力访问权？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：销售自己的代币绝对是最好的模式。哪怕你是 AWS 或 Azure，销售别人的代币也是相当不错的商业模式（如果你能参与上行收入分成的话）。但如果你能以高于市场价的速率运行算力，这也是个不错的生意。关于 Meta 的算力出租，这个方案其实已经讨论了一段时间了（从去年第三季度就有人提出）。这给扎克伯格提供了一个兜底方案：如果 Llama 不够成功，他们也有办法在资本支出上获得体面的 ROI。这让他们可以在 2027 年乃至 2028 年放胆投入巨额资本支出，因为市场需求摆在那里。Anthropic 愿意支付 3 倍市场价就是一个信号。投资者可以感到安心：即便 Llama 被认定不成功，Meta 也能转型为一个优质的 Neocloud 业务，专门为各大实验室提供服务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的。但你们在 Meta 算力文章里的那张图表非常惊人——xAI 和谷歌的协议以市场价 4 倍的速率将算力变现。虽然过去你说的很有道理，但我有点想质疑：这种近期的 GB300 租赁协议难道不是极好的生意吗？利润率显然高得离谱，对吧？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的，利润率高得惊人。当你计算每吉瓦（GW）的 ARR 时，很多人只要能在推理端获得 480 亿美元的实际代币 ARR 就非常高兴了。谷歌那笔交易看起来不是很划算，但 Meta 算力出租是在向市场讲一个故事：他们能够复制 xAI 的模式（除非需求呈指数级爆发导致大家疯狂抢购 GPU，否则这可能是一次性的）。Neocloud 本身就是个很好的生意，每吉瓦产生 120 亿到 500 亿美元的收入。而且各大实验室在提升每吉瓦代币吞吐量方面做得太出色了，新模型定价也更高。比如 Anthropic 每兆瓦（MW）收入去年是 1600 万美元，现在在三个季度内翻了一倍多，有些人认为两到三个季度内还能再翻倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：让我们看看这个趋势。我把图表放在屏幕上。整个“代币即服务（TaaS）”市场有两点深深震撼了我：第一，增长速度极其恐怖。我以为去年第四季度的市场规模已经很大了，但与你们预测的今年年底的数字相比，去年显得微不足道 [笑声]，正如你所说，翻了不止一倍。第二，微软 Foundry 在这里的表现太糟糕了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：随着最近 OpenAI API 的成功，Foundry 的数据会被向上修正。此前 Foundry 90% 的用量来自 OpenAI，而 OpenAI 此前极度偏向消费端，API 还没爆破。Foundry 现在好一些了。相比图表，Vertex（谷歌）可能会因为 Gemini 的表现而更差一些。但要看最新的 Tokconomics 预测，你得付费订阅，伙计，我们不能免费白送 [笑声]。不过我们这次好歹把坐标轴留着了。当我们和企业交流时，代币即服务（TaaS）是非常受欢迎的消耗代币的方式。AWS 和 Azure 与 Fortune 500 强企业有巨额业务往来，企业客户每年在云端砸数亿美元。如果我能直接找现有的云厂商，拥有更多的模型选择权，消耗已有的企业协议（ELA）或抵扣额度，这对 AWS 和 Azure 的客户来说都极具吸引力。半年前 TaaS 可能只占 Anthropic 业务的 5%，现在很可能已经占到了 20%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：Crystal，你如何看待大家选择三大超大规模云厂商的 TaaS，还是选择 Smaller（较小）的初创公司（如 Together、Base10、Fireworks，或者 OpenRouter 上的任何服务）？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：随着越来越多的传统大型企业介入——比如金融服务业在 AI 的利用上还有巨大的潜力未被释放——这就是 Azure 和 Bedrock 受益的地方，因为这些企业本来就是他们的客户。一旦他们获得了内部合规批准，就会直接通过既有渠道购买，这占据了市场的绝大部分份额。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：有道理。Max，你呢？你如何看待 Together、Fireworks、Base10 这些初创公司的 TaaS 增长？相比于绑定大型实验室的云巨头，它们发展得怎么样？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：它们都是非常令人印象深刻的企业。我确实预计开源代币用量的增长速度会慢于前沿模型（Frontier）代币用量，但这仅仅是因为前沿代币用量将会呈现绝对的爆发式增长。开源代币用量同样会爆发，只是程度略低一些。有趣的是，如果你和投资 Together、Fireworks、Base10 的风投（VC）聊，他们最喜欢的逻辑是：“推理将是有史以来最大的市场，所以哪怕这些公司只能在这个超级巨大的蛋糕里切下一极其微小的份额，也足够让我们赚翻了。” 这个论点基本上是对的。我不指望它们的用量能超过 OpenAI 或 Anthropic，但在未来它们依然会是极好的企业。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：关于它们可以绑定大型实验室的传闻怎么看？比如 xAI 赢了一点，Fireworks 就因为绑定了 Cursor 而跟着暴涨。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：我不认为这能长期持续。Fireworks 能获得曝光是因为最初 Composer 曾基于 Chem 进行后训练。如果你是一个从零开始构建前沿模型的实验室，没有任何理由相信 Fireworks 的工程师在模型优化上会比你自己的工程师更强。因此我不认为它们未来能分走这部分利润。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：那为什么三大云巨头能分走这部分利润呢？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：因为云巨头拥有 Neocloud 所不具备的企业分销渠道。Anthropic 让利给 Bedrock，并不是为了让亚马逊工程师去优化 Claude 的运行速度，而是为了让所有依赖 Bedrock 的现有企业客户能够直接使用 Claude。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：我们听到传闻说，这笔协议可能会重新谈判。因为最初的条款对 AWS 过于有利（能拿 20% 到 30% 的收入分成）。云厂商拥有庞大的客户基础，企业对它们的安全与合规非常放心。但当时交易达成是因为亚马逊有推动 Trainium 芯片工作的激励。我们拭目以待看这种收入分成能否持续。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：让我再为非云巨头的 TaaS 初创公司做一次多头辩护（Bull Case）。从 AWS 和谷歌买 TaaS 的一大好处是他们的工程师在优化 Trainium 和 TPU。但现在有一整批芯片初创公司正在推向市场，它们最直接的路线就是与 TaaS 初创公司合作——顶级前沿实验室不会花时间去为你这个“第七好的芯片初创公司”做优化，但如果芯片初创公司与 TaaS 合作，为某个模型做出了比英伟达性价比高得多或性能强得多的优化，它们就有机会创造极其独特的价值。你认为这些内核工程师（Kernel Engineers）未来会不会走这条路？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：这一点很有道理，短期内可行。但如果任何新芯片初创公司真正达到了足够的规模，前沿实验室就会直接组建内部团队来确保模型在该芯片上完美运行。绝不可能出现一种情况：一种比英伟达好得多且大规模出货的新加速器出现后，OpenAI 居然要依赖 Together 去帮他们在该芯片上运行模型，而不是直接与该芯片公司合作开发第一方能力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：你认为它会走 Cerebras 的路线——芯片公司为了成功，最终必须自己变成 Neocloud，并与前沿实验室建立直接联系。好的，有道理。&lt;/p&gt;
-&lt;p&gt;最后我们可以聊聊 Meta 的 MSL（Massive Scaling Law）。Max，我非常喜欢文章里关于强化学习（RL）的速成课——不仅是从技术角度，更是从商业角度（人们去哪里买数据、如何构建环境、市场格局如何）。你能宏观介绍一下吗？过去在预训练时代，谁有顶尖团队和最多算力，谁就能训练出最大最强的模型；但现在有了与 RL 相关的扩展定律（RL Scaling Law），这在宏观上是如何演变的？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：是的。我认为让每个人理解&lt;strong&gt;强化学习（RL）是当今提升模型能力最重要的 Scaling Law&lt;/strong&gt;，这一点至关重要。很多人相信，阻碍模型像人类一样在电脑上完成任何工作的唯一障碍，就是缺乏足够的 RL 环境（RL Environments）。这种数据能让模型在其中尝试自主完成白领任务，反复试错直到彻底掌握解法。现在出现了一整套全新的产业链/供应链——RL 环境初创公司。它们的工作就是将现实世界中具有经济价值的任务转化为 RL 环境，然后卖给实验室用来训练模型。&lt;/p&gt;
-&lt;p&gt;在图表上可以看到主要参与者。我认为其中一些 ARR 数字甚至被低估了。目前行业共识是，今年前沿实验室（OpenAI、Anthropic、Google、Meta、xAI，以及亚马逊、微软、Thinking Machines 等）的总数据预算将&lt;strong&gt;远超 100 亿美元&lt;/strong&gt;，相比去年增长了 10 倍以上，2027 年极有可能再翻 10 倍。对于这些初创公司来说，客户需求根本不是问题，实验室绝不会因为价格太贵而拒绝合同，唯一的问题是你能否足够快地生产出高质量的数据——只要能，实验室愿意支付任何代价。顺便提一句：Anthropic 的模型此前在编程领域最强（至少在 5.6 Soul 出来之前），核心原因就是他们在向这些 RL 环境初创公司购买编程数据时最为激进。其他实验室也开始意识到这一点并全力追赶。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：你能深入讲讲创建这些任务的过程吗？你在文章中提到 Meta 调动了数千名工程师做这项工作，并澄清了“数据标注是毫无意义的苦力活”这一偏见——实际上它既有巨大的经济价值，又极具智力挑战。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：是的，我说过它可能比你在大厂做日常工作更有经济价值，也更能启发智力。很多人听到“AI 数据”，还以为是菲律宾的外包人员在画标注框或者给色情暴力文本打标签。哥们，模型早就彻底解决那些简单任务了！现在的数据只有在&lt;strong&gt;包含模型还不会做的知识&lt;/strong&gt;时才有价值。&lt;/p&gt;
-&lt;p&gt;在软件工程领域，这意味着要制作一个好的 RL 任务，通常需要一个优秀的人类工程师花费&lt;strong&gt;整整一天的时间&lt;/strong&gt;去设计，确保这是模型目前无法自主完成的任务。你需要坐下来构思一个真实的工程问题，编写验证器（通常是一套集成测试和评分标准，用来检查模型是否真正成功解决了问题）。你还需要为模型撰写 Prompt（提示词），这需要在两个矛盾的因素间取得完美平衡：一方面提示词必须 100% 公平明确，不能因为提示词不够具体导致模型少做了隐性步骤而误判模型失败；另一方面，提示词必须真实、自然，符合人类在现实中向 AI 提问的方式。把握这种平衡极度困难。我们听说，对于质量最高的编程任务，实验室&lt;strong&gt;愿意为单个任务支付超过五位数（上万美元）的报酬&lt;/strong&gt;！这已经达到了一个优秀工程师一周的薪水水平。所以这绝不是令人昏昏欲睡的简单劳动。各位听众，如果你正在找工作，且极其擅长创建 RL 任务，你现在的年薪可以达到七位数（百万美元以上）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：这会让不少听众感到兴奋。你能更具体地分享一下，如何在“对 AI 而言太简单”和“对 AI 而言不可能完成”之间找到那个平衡点吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：老实说，这个标准一直在变。八个月前我自己也向实验室卖过环境数据，当时创建数据比现在容易得多。今天，你通常需要识别出模型现有的特定失败模式（Failure Mode），然后专门针对该失败模式设计 RL 任务。检验难度是否合适的唯一方法，就是让模型尝试解决 10 次，看成功率是多少，然后不断迭代。如果这是你第一次尝试，你的第一个想法几乎肯定太简单了——尝试把它变难 10 倍，也许就能达到合适的难度水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：非常有意思！好了各位，今天我们进行了一场旋风般的深入探讨。在我们聊完代币预算、Anthropic 利润率、Meta 算力、MSL 之后，Crystal，我们还有什么遗漏的吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：我想不出来了，最近光顾着看世界杯了。我们录制时是 7 月 15 日星期三，刚刚目睹了阿根廷 2-1 逆转绝杀英格兰。办公室里的一群英国同事现在在楼下全抑郁了，太疯狂了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：Joey，你在结束前有什么想说的？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：没什么，代币支出目前一路飙升，形势很好。我非常期待下周开始的云巨头财报，谷歌、亚马逊、微软会陆续发布，营收顶线应该会非常好看。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：好的，最后让我们来一轮 Vibe Check（氛围/心态调查）。Joey，你对市场的态度是什么？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：只要实验室的 ARR 在良好增长且没有减速，我觉得一切都很棒。现在 OpenAI 正在追赶，整体氛围很好。虽然过去几天半导体板块有些波动，但那只是夏季动荡。等大家度完假回到办公室，半导体在一年内还会暴涨，一切都会好起来的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的，暑期过后我们会看到加速增长。Joey 会打出 84 杆的高尔夫好成绩，看着实验室 ARR 暴涨并心满意足。Crystal，你的 Vibe 如何？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crystal&lt;/strong&gt;：我觉得非常好，和 Joey 说的一样。我需要在 AI 泡沫破裂前离开旧金山，所以在太晚之前我要赶紧搬走。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：Crystal，你觉得这是泡沫？接下来我们应该公开谈谈我们的赌局了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：是的！输家有惩罚。Max 提出了一个输赢盘（Over/Under）：Anthropic 的 ARR 到 2027 年底能否达到 &lt;strong&gt;4000 亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：是的，2027 年。Joey，你现在不能把我们模型的实际数字透露给他们，他们得付费订阅 Tokconomics 模型才能看 [笑声]。那么，谁押了 Over（大于），谁押了 Under（小于）？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：我押了 Under（低于）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：我押了 Over（高于）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Joey&lt;/strong&gt;：Jeremy 和我（Joey）都押了 Under。但我们还没决定具体的赌注是什么，今年内我们会弄清楚的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：上周我们在 Rays 聚会时你们看到我们的筹码了吗？我抽了一张 20 加元，Rake 拿出了 200 新加坡元，还有一些卢比 [笑声]，Dylan 拿出了欧元，桌上有五种不同的货币。所以不管你们押什么，我都跟进加币，和 Max 一起押 Over！因为我们是指数外推主义者！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：没错！输家必须写一篇 Newsletter 详细解释自己为什么预测错了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：太棒了！我们还要在 SemiAnalysis 内部搞一个预测市场，押注 Jeremy（SemiAnalysis 创始人 Dylan/Jeremy）每周的代币消耗量，搞一个 Over/Under 让大家都参与进来。Meta 内部不是在搞类似 PolyMarket 的预测市场吗？我们也来搞一个。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Max&lt;/strong&gt;：哥们，Meta 赶紧把那个内部项目关了吧，他们在干嘛呢 [笑声]。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Jordan&lt;/strong&gt;：我们就建立一个押注 Jeremy 代币消耗的市场，我喜欢这个点子。嘿 Jeremy，我押了 6000 卢比在你身上，这周给我狠狠地压榨数据中心仪表板，伙计！&lt;/p&gt;
-&lt;p&gt;好了，感谢各位抽出时间，希望听众们喜欢这一期。让我们重回工作，继续追踪那些代币吧！&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 19:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 一周末打通AMD全套适配：Anthropic用Claude自举而非英伟达硬件，打破CUDA“人力壁垒”</title><link>https://wallstreetcn.com/articles/3777816</link><guid>4bb982f8e338e7d4786b5560af85ca9d6ee167b35b54afcc3aba3e9b8aebadfb</guid><pubDate>Thu, 23 Jul 2026 19:42:03 GMT</pubDate><description>&lt;p&gt;Anthropic在AMD今年的AdvancingAI大会上不仅官宣了算力部署计划，还披露了一个可能改写AI芯片竞争规则的技术细节：其工程师仅用Claude模型在一个周末内自动完成了AMD Instinct MI355芯片与ROCm平台的全套适配与性能调优。&lt;/p&gt;
+&lt;p&gt;Anthropic高管Tom Brown在大会上公开表示，公司计划部署2GW的AMD Helios算力设施，并明确青睐MI355芯片。这一表态将此前市场上的合作传闻升级为高管层面的正式确认。AMD官方账号随后转发了包含Tom Brown表态的第三方推文，配文感谢其参会。&lt;/p&gt;
+&lt;p&gt;更具冲击力的是Brown披露的适配过程。团队原本预期在新硬件上启动模型会是“一个大项目”，但实际体验完全不同：一名工程师让Claude执行适配任务后让流程在周末自行运转，周一便拿到了Anthropic领先模型在该硬件上“周末期间持续攀升”的实际性能曲线。&lt;/p&gt;
+&lt;p&gt;市场观察者随即评论称：“我们已过了CUDA护城河时代。” 对投资者而言，这一突破意味着AI算力供应链的硬件锁定逻辑正在遭遇来自AI自身能力的反向冲击。当AI自身能够替代工程师完成硬件迁移中最昂贵的人力环节时，英伟达CUDA生态最根本的护城河——高昂的迁移成本正在被AI从根基上侵蚀。&lt;/p&gt;
+从传闻到官宣：Anthropic的AMD部署浮出水面
+&lt;p&gt;此前市场对Anthropic与AMD合作的认知仅停留在行业推测层面。Tom Brown在AMD技术大会上的公开站台，将合作可信度从间接信号拉升至正式确认的高度。&lt;/p&gt;
+&lt;p&gt;2GW的部署规模意味着AMD芯片在Anthropic的算力体系中扮演实质性角色，而非象征性采购。&lt;/p&gt;
+&lt;p&gt;作为ARR已达470亿美元、估值9650亿美元、已正式提交IPO申请文件的AI巨头，Anthropic正积极构建多元化算力供给体系——此前已从谷歌采购芯片及云服务，与SpaceX签署近450亿美元合作协议，并与Akamai达成18亿美元协议。AMD的正式加入进一步丰富了其算力来源。&lt;/p&gt;
+AI自举硬件适配：CUDA壁垒的“阿喀琉斯之踵”
+&lt;p&gt;比订单规模更具长期冲击力的是Anthropic展示的AI自动化适配能力。&lt;/p&gt;
+&lt;p&gt;传统上，将大模型迁移至新硬件平台需要大量工程师手动完成底层算子适配、性能调优和稳定性验证——这构成了英伟达CUDA生态壁垒的核心来源。开发者对CUDA的依赖不仅是技术惯性，更是迁移成本决定的：换平台意味着投入数月甚至数年的工程资源。&lt;/p&gt;
+&lt;p&gt;但当Claude在一个周末内完成整套适配流程时，这一逻辑的根基开始松动。Brown的描述清晰直白：一名工程师启动Claude，“让它把机器跑起来”，然后流程在周末自行运转。到周一，团队拿到的是一张性能曲线&amp;quot;持续攀升&amp;quot;的图表。整个过程仅涉及一名工程师和一台AMD提供的机架。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我们以为这会是个大项目，&amp;quot;Brown说，但实际体验&amp;quot;完全不同&amp;quot;。&lt;/p&gt;
+为何这一信号对AI芯片格局具有实质性含义
+&lt;p&gt;市场对英伟达的定价中，CUDA生态壁垒是核心溢价支撑。这一壁垒的本质不是技术的不可替代性，而是生态迁移的&amp;quot;人力成本壁垒&amp;quot;——即使竞争对手的硬件性能追平，企业仍需投入大量工程师重新适配软件栈，这笔沉没成本本身就是最高的切换门槛。&lt;/p&gt;
+&lt;p&gt;AI自动化适配直接攻击的正是这道壁垒的成本侧。如果前沿实验室可以借助自家AI模型在数天内完成新硬件的适配与优化，硬件采购决策将更多取决于性能、价格和供应可得性，而非生态锁定。用分析师Austin Lyons的话来说：“我们已过了CUDA护城河时代。”&lt;/p&gt;
+&lt;p&gt;对Anthropic而言，这一能力赋予其算力采购策略更大的灵活性。SemiAnalysis最新分析指出，Anthropic的推理基础设施毛利率已从38%跃升至逾70%，并在第二季度实现营业利润盈利。将AMD纳入算力供应商体系，不仅分散了供应链风险，也为急剧膨胀的推理需求提供了更具性价比的硬件选项。&lt;/p&gt;
+&lt;p&gt;对AMD而言，获得Anthropic这一前沿实验室的正式部署承诺，是其数据中心GPU路线图的关键验证。而AI自动化适配工具的加持，降低了更多潜在客户尝试AMD平台的工程门槛——这可能是比单一订单更具长期价值的战略资产。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis分析师指出，Anthropic此前在编程数据上的激进投入使其模型能力领先，而今这种能力正在反向赋能其自身的硬件选择自由度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
 &lt;p&gt;周四，美股盘中，纳指跌幅扩大至2%，标普跌1.1%，道指跌超1%，银行指数跌超1.6%，特斯拉跌超13%。公司二季度营收虽大增26%，但盈利却下滑18%，远低于市场预期，同时自由现金流由正转负。特斯拉对此解释称，目前正处于史上最大规模的投资扩张阶段。&lt;/p&gt;
 &lt;p&gt;科技巨头为人工智能基础设施融资而涌入市场的长期债券，正与美国国债争夺同一批买家，进一步推高本已高企的长端利率。美国30年期国债收益率已连续多日维持在5%上方，创2007年金融危机以来最长纪录。与此同时，胡塞武装袭击沙特油轮引发供给忧虑，布伦特原油逼近每桶100美元，通胀压力再度升温，令美债市场承压。&lt;/p&gt;
 &lt;p&gt;Siebert Financial首席投资官Mark Malek在研究报告中写道：&amp;quot;AI乐观情绪依然存在，但责任已明确转移至管理层身上，未来财报电话会议的焦点将越来越多地落在投资资本回报率，而非AI远景规划。&amp;quot;&lt;/p&gt;
@@ -234,26 +102,7 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
 水业务合资交易引入私募资本
 &lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
-&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-业绩扎实，但指引成为市场焦点
-&lt;p&gt;&lt;strong&gt;两家公司的二季度财务数据均属稳健。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;德州仪器调整后每股收益同比跳升52%至2.14美元，高于市场预期的1.94美元；营收增长23%至54.6亿美元，亦超出分析师预期的52.6亿美元。三季度利润与营收指引中值同样优于预期。&lt;/p&gt;
-&lt;p&gt;意法半导体调整后每股收益翻逾一倍至31美分，营收增长26%至34.9亿美元，均略超分析师预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，两家公司的指引细节均触发了市场担忧。&lt;/strong&gt;意法半导体三季度营收指引低于预期，并提示个人消费电子业务将出现低于季节性规律的表现。德州仪器首席财务官Rafael Lizardi则向分析师表示，资本支出可能落在20亿至30亿美元指引区间的高端，令市场对自由现金流改善的预期受到压制。&lt;/p&gt;
-&lt;p&gt;Cantor分析师Matthew Prisco指出，德州仪器此前已是市场高度集中的多头仓位，叠加较高的预期基准，&amp;quot;在季节性指引（环比约+8%）结合定价、数据中心及周期性顺风因素的情况下，盘后抛售具有合理性&amp;quot;，并强调资本支出表态对现金流拐点预期构成压力。&lt;/p&gt;
-AI数据中心成为核心增长引擎
-&lt;p&gt;&lt;strong&gt;尽管短期股价承压，两家公司均呈现出AI基础设施需求强劲拉动的共同主线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;意法半导体首席执行官Jean-Marc Chery表示，四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心及低轨卫星通信需求带动。公司将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元——&lt;strong&gt;这已是公司自今年4月首次单独披露AI业务指引以来的第二次大幅上调。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;德州仪器同样报告了数据中心需求的快速增长，工业销售额增幅至少达30%，汽车业务亦录得中双位数增长。&lt;/p&gt;
-&lt;p&gt;彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;意法半导体与亚马逊AWS签署的电源管理芯片供应协议，据Chery表示将在未来三至五年持续贡献收入。&lt;/p&gt;
-高估值成为板块共同隐患
-&lt;p&gt;此次两家公司的市场反应，揭示了当前模拟半导体板块更深层的结构性矛盾。&lt;/p&gt;
-&lt;p&gt;意法半导体年内股价累计涨幅约119%，并于今年6月趁股价高位完成了15亿美元可转换债券发行；德州仪器年内涨幅亦约达60%。高涨幅意味着市场已提前计入相当程度的乐观预期，任何低于预期的指引都可能触发获利了结。&lt;/p&gt;
-&lt;p&gt;UBS分析师Francois-Xavier Bouvignies表示，意法半导体股价在过去三个月已累计上涨35%，&amp;quot;我们认为，缺乏实质性上调的财报，今日将对股价形成相对市场的压力&amp;quot;。&lt;/p&gt;
-&lt;p&gt;从行业整体来看，&lt;strong&gt;模拟半导体的基本面复苏方向并未改变，AI基础设施、工业及汽车需求均呈现回暖态势。但在估值已充分反映乐观情景的背景下，投资者对增长节奏的敏感度显著上升，业绩达标已不再足够，市场需要的是持续超越预期的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
+&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周美联储有30%概率加息？</title><link>https://wallstreetcn.com/articles/3777806</link><guid>c49382b354edf32e84c60f6df2afd20dc71a8b033f1ada0c6b78c51665777d2d</guid><pubDate>Thu, 23 Jul 2026 15:15:47 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储前瞻指引缺位的双重影响下，市场开始重新计入政策风险。&lt;/p&gt;
 &lt;p&gt;尽管主流经济学家一致预计美联储下周将按兵不动，&lt;strong&gt;但利率市场隐含的加息概率已升至约30%，推动美国国债收益率全线走高。&lt;/strong&gt;其中，两年期美债收益率创2025年初以来新高，10年期收益率升至年内高位，30年期收益率则逼近2007年以来最高水平。&lt;/p&gt;
 &lt;p&gt;花旗7月23日发布的研究报告认为，这一市场定价并不意味着投资者普遍押注美联储即将加息，而&lt;strong&gt;更多反映的是，在前瞻指引趋于模糊、油价推升通胀风险的背景下，投资者正要求更高的风险溢价来应对政策意外。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -290,7 +139,51 @@ AI数据中心成为增长核心
 &lt;p&gt;尽管AI业务增长迅猛，传统业务仍未摆脱低迷局面。&lt;/p&gt;
 &lt;p&gt;作为特斯拉、苹果等企业的核心芯片供应商，&lt;strong&gt;意法半导体近两年来持续受到汽车与消费电子需求疲软，以及客户库存去化进程缓慢的双重压力，传统业务的复苏步伐依然迟缓。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在此背景下，近年来Chery积极推动公司战略转型，降低对汽车和消费电子市场的依赖，将重心转向AI数据中心、工业电源及通信等高成长性领域。目前，&lt;strong&gt;AI业务正逐步成为公司新的增长引擎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI与云业务销售额翻倍！诺基亚Q2利润远超预期，上调全年盈利指引</title><link>https://wallstreetcn.com/articles/3777803</link><guid>ad90a12711e52a7a9c93d441c4c1d39bedd048fd5b753cdc349a5498cc478133</guid><pubDate>Thu, 23 Jul 2026 14:27:53 GMT</pubDate><description>&lt;p&gt;受益于AI基础设施投资持续升温，诺基亚交出了一份超预期的二季度成绩单，AI与云业务高速增长，并同步上调全年盈利指引，与竞争对手爱立信近期释放的谨慎信号形成鲜明对比。&lt;/p&gt;
+&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+业绩扎实，但指引成为市场焦点
+&lt;p&gt;&lt;strong&gt;两家公司的二季度财务数据均属稳健。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德州仪器调整后每股收益同比跳升52%至2.14美元，高于市场预期的1.94美元；营收增长23%至54.6亿美元，亦超出分析师预期的52.6亿美元。三季度利润与营收指引中值同样优于预期。&lt;/p&gt;
+&lt;p&gt;意法半导体调整后每股收益翻逾一倍至31美分，营收增长26%至34.9亿美元，均略超分析师预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，两家公司的指引细节均触发了市场担忧。&lt;/strong&gt;意法半导体三季度营收指引低于预期，并提示个人消费电子业务将出现低于季节性规律的表现。德州仪器首席财务官Rafael Lizardi则向分析师表示，资本支出可能落在20亿至30亿美元指引区间的高端，令市场对自由现金流改善的预期受到压制。&lt;/p&gt;
+&lt;p&gt;Cantor分析师Matthew Prisco指出，德州仪器此前已是市场高度集中的多头仓位，叠加较高的预期基准，&amp;quot;在季节性指引（环比约+8%）结合定价、数据中心及周期性顺风因素的情况下，盘后抛售具有合理性&amp;quot;，并强调资本支出表态对现金流拐点预期构成压力。&lt;/p&gt;
+AI数据中心成为核心增长引擎
+&lt;p&gt;&lt;strong&gt;尽管短期股价承压，两家公司均呈现出AI基础设施需求强劲拉动的共同主线。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;意法半导体首席执行官Jean-Marc Chery表示，四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心及低轨卫星通信需求带动。公司将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元——&lt;strong&gt;这已是公司自今年4月首次单独披露AI业务指引以来的第二次大幅上调。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德州仪器同样报告了数据中心需求的快速增长，工业销售额增幅至少达30%，汽车业务亦录得中双位数增长。&lt;/p&gt;
+&lt;p&gt;彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;意法半导体与亚马逊AWS签署的电源管理芯片供应协议，据Chery表示将在未来三至五年持续贡献收入。&lt;/p&gt;
+高估值成为板块共同隐患
+&lt;p&gt;此次两家公司的市场反应，揭示了当前模拟半导体板块更深层的结构性矛盾。&lt;/p&gt;
+&lt;p&gt;意法半导体年内股价累计涨幅约119%，并于今年6月趁股价高位完成了15亿美元可转换债券发行；德州仪器年内涨幅亦约达60%。高涨幅意味着市场已提前计入相当程度的乐观预期，任何低于预期的指引都可能触发获利了结。&lt;/p&gt;
+&lt;p&gt;UBS分析师Francois-Xavier Bouvignies表示，意法半导体股价在过去三个月已累计上涨35%，&amp;quot;我们认为，缺乏实质性上调的财报，今日将对股价形成相对市场的压力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;从行业整体来看，&lt;strong&gt;模拟半导体的基本面复苏方向并未改变，AI基础设施、工业及汽车需求均呈现回暖态势。但在估值已充分反映乐观情景的背景下，投资者对增长节奏的敏感度显著上升，业绩达标已不再足够，市场需要的是持续超越预期的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 市场定价欧央行、英国央行年内两次加息！德债收益率15年新高，英债收益率逼近18年高位</title><link>https://wallstreetcn.com/articles/3777813</link><guid>462a00f2e1db8e61e6de7e91f6eb78835c776b8d1611341450b59b3df285d1f0</guid><pubDate>Thu, 23 Jul 2026 19:41:23 GMT</pubDate><description>&lt;p&gt;德国国债收益率触及2011年以来最高水平，全球债市承压。与此同时，欧洲央行虽按兵不动，但市场已开始押注年内加息。&lt;/p&gt;
+&lt;p&gt;布伦特原油价格在欧洲央行行长拉加德召开新闻发布会期间突破每桶100美元，推动通胀预期升温。&lt;strong&gt;10年期德债收益率单日最高上涨4个基点至3.21%，而交易员已对欧洲央行年内两次加息完全定价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英国债市亦受到近期油价飙升的拖累，10年期英债收益率报5.09%，逼近5月创下的18年高位。交易员目前押注英格兰银行将在年底前两次加息至4.25%，并于明年年中前再度加息至4.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;拉加德表示，目前尚无迹象显示通胀出现&amp;quot;二轮效应&amp;quot;，但明确为9月加息保留了余地。这一表态强化了市场对欧洲央行政策路径的不确定性预期，并进一步压低欧洲债券价格。&lt;/p&gt;
+&lt;p&gt;中东局势持续升级带来的能源供应冲击，正在全球范围内推高政府债券收益率。欧洲高度依赖油气进口，能源价格的大幅波动使欧元区通胀前景更加复杂，也令债券和股票市场同时面临压力。&lt;/p&gt;
+
+欧洲央行&amp;quot;暂停&amp;quot;并非终点
+
+&lt;p&gt;欧洲央行本次维持基准利率于2.25%不变，但市场将此次暂停解读为政策灵活性的保留，而非紧缩周期的结束。&lt;/p&gt;
+&lt;p&gt;摩根大通全球投资策略师Madison Faller表示：&amp;quot;欧洲央行今日的暂停，最恰当的理解是将脚悬在刹车上方。保留选择空间不应被误读为自满。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;德国方面，数以千亿欧元计的国防与基础设施投资计划正在加速推进，大规模债券发行构成对收益率的持续上行支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;部分分析人士认为，若此类支出带动德国及周边经济加速增长，将进一步强化欧洲央行收紧政策的必要性。&lt;/p&gt;
+
+债市抛售是否已过度？
+
+&lt;p&gt;尽管收益率持续攀升，&lt;strong&gt;部分投资者开始认为欧洲债市的调整幅度已超出基本面合理范围。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aviva Investors固定收益主管Ed Hutchings表示：&amp;quot;欧洲债券的价值正在形成，增持头寸开始显现吸引力，尽管短期内仍需保持一定谨慎。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Mediolanum投资组合经理Niall Scanlon则坦言，能源价格的急剧上涨打乱了其原有部署。&amp;quot;我们基于欧洲央行预期保持了前端超配，这显然没有奏效，&amp;quot;他说，&amp;quot;油气价格已经大幅移动，我们必须尊重这些走势。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Scanlon同时指出，市场对欧洲央行加息幅度的定价存在高估。&lt;/p&gt;
+
+油价与利率的相关性再度凸显
+
+&lt;p&gt;彭博宏观策略师Skylar Montgomery Koning指出，欧洲和英国利率已基本回归与原油价格联动的交易模式。&lt;/p&gt;
+&lt;p&gt;她强调，前端收益率在油价有所回落时表现相对黏性，价格波动幅度小于5月涨势期间。但若油价持续上行，相关性传递的信号已然明确——原油上涨将再度成为债券和股票市场的共同阻力。&lt;/p&gt;
+&lt;p&gt;美国市场同样难以独善其身。长端美债收益率已连续维持5%上方逾周，为2007年以来持续时间最长的一次，美联储将于下周召开利率决议会议。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI与云业务销售额翻倍！诺基亚Q2利润远超预期，上调全年盈利指引</title><link>https://wallstreetcn.com/articles/3777803</link><guid>ad90a12711e52a7a9c93d441c4c1d39bedd048fd5b753cdc349a5498cc478133</guid><pubDate>Thu, 23 Jul 2026 14:27:53 GMT</pubDate><description>&lt;p&gt;受益于AI基础设施投资持续升温，诺基亚交出了一份超预期的二季度成绩单，AI与云业务高速增长，并同步上调全年盈利指引，与竞争对手爱立信近期释放的谨慎信号形成鲜明对比。&lt;/p&gt;
 &lt;p&gt;数据显示，&lt;strong&gt;诺基亚2026年第二季度可比营业利润同比增长18%至4.34亿欧元，超过LSEG分析师预期的3.82亿欧元&lt;/strong&gt;。同期，&lt;strong&gt;公司AI与云业务销售额同比翻倍至4.46亿欧元&lt;/strong&gt;，新增订单达到28亿欧元，单季订单规模已超过2025年全年水平。&lt;/p&gt;
 &lt;p&gt;在业绩带动下，&lt;strong&gt;诺基亚将全年可比营业利润指引由20亿至25亿欧元上调至21亿至26亿欧元。&lt;/strong&gt;这一上调尤为受到市场关注。此前，爱立信因内存芯片成本上升下调利润率预期并拖累股价，诺基亚则凭借AI相关业务的强劲表现，为电信设备行业释放出更积极的信号。&lt;/p&gt;
 AI与云业务成为增长主引擎
@@ -306,7 +199,35 @@ AI与云业务成为增长主引擎
 AI热潮推升需求，供应链仍是挑战
 &lt;p&gt;尽管AI基础设施需求持续爆发，供应链压力仍未明显缓解。&lt;/p&gt;
 &lt;p&gt;随着AI企业持续扩建数据中心、集中采购内存芯片，相关芯片价格快速上涨，电信设备厂商普遍面临成本压力。爱立信上周已就此发出利润率预警，&lt;strong&gt;而诺基亚则表示，目前需求依然强劲，供应仍是限制行业增长的主要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国启动车门安全新规制定程序，矛头直指特斯拉电动门设计</title><link>https://wallstreetcn.com/articles/3777815</link><guid>3694c4c2c238866615cec4ee9a98aaf4e8d40be45efe3babedd7fc7d9ae0f7d9</guid><pubDate>Thu, 23 Jul 2026 19:57:19 GMT</pubDate><description>&lt;p&gt;美国汽车安全监管机构正式启动车门逃生系统联邦法规的制定程序，此举将对特斯拉等采用电动隐藏式门把手的车企产生深远影响。&lt;/p&gt;
+&lt;p&gt;美国国家公路交通安全管理局（NHTSA）周四表示，已批准一份请愿申请，&lt;strong&gt;将开始推进新联邦法规的制定，要求所有机动车辆配备&amp;quot;可靠且显而易见的车门逃生系统&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一旦法规最终落地，所有在美销售的新车均须符合相关要求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一决定背后，是一系列与特斯拉电动门设计相关的致命事故。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博此前报道，在至少十二起碰撞事故中，共有至少15人因无法打开失去电力的特斯拉车门而在随后的火灾中遇难或受重伤。车门安全问题的监管压力由此持续升温。&lt;/p&gt;
+&lt;p&gt;特斯拉周三盘后公布&lt;a href="https://wallstreetcn.com/articles/3777719?keyword=%E7%89%B9%E6%96%AF%E6%8B%89"&gt;Q2财报&lt;/a&gt;，盈利降18%远逊预期，现金流转负，市场对公司AI和机器人业务担忧升温。截至发稿，特斯拉周四盘中下跌14.32%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+监管背景：电动门设计引发致命隐患
+
+&lt;p&gt;特斯拉及部分其他汽车制造商采用的隐藏式电动门把手设计，在车辆断电后会出现无法正常开启的问题。&lt;/p&gt;
+&lt;p&gt;据彭博此前报道，在多起高速碰撞事故中，乘员在撞击后幸存，却因无法打开车门逃脱而在随后的火灾中死亡或身受重伤。&lt;/p&gt;
+&lt;p&gt;去年底特斯拉首席执行官马斯克在公司内部已有人提出安全顾虑的情况下，仍坚持推行电动门设计。&lt;/p&gt;
+&lt;p&gt;今年11月，一名硅谷工程师向NHTSA提交请愿书，要求该机构出台新的联邦安全标准，以应对电子或&amp;quot;隐藏式&amp;quot;车门锁定及释放系统带来的安全风险。&lt;/p&gt;
+&lt;p&gt;请愿书指出，此类系统在电动汽车中普遍存在，形成了&amp;quot;危及生命的关键安全漏洞&amp;quot;。&lt;/p&gt;
+
+监管机构：启动立法程序，但最终法规仍需数年
+
+&lt;p&gt;NHTSA在周四的监管文件中表示，已批准上述请愿，并将启动规则制定程序。与此同时，该机构拒绝了另一份要求对安全缺陷展开调查的独立请愿。&lt;/p&gt;
+&lt;p&gt;汽车安全中心执行主任Michael Brooks表示，NHTSA启动规则制定程序&amp;quot;意义重大，因为这是修订或新建联邦机动车安全标准、强化电动门及逃生相关规定的必要第一步&amp;quot;。&lt;/p&gt;
+&lt;p&gt;但他同时指出，考虑到规则制定流程的漫长周期，&lt;strong&gt;&amp;quot;即便推进顺利，预计制造商的最终合规期限也不会早于2030年&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该机构表示，将根据规则制定过程中形成的信息，再行决定是否正式出台新要求。业界通常会对新增成本的安全法规提出抗议，这也意味着整个流程可能面临较大阻力。&lt;/p&gt;
+
+立法层面：国会议员同步推进相关法案
+
+&lt;p&gt;在监管机构启动程序的同时，国会层面亦有所行动。&lt;/p&gt;
+&lt;p&gt;美国众议员、伊利诺伊州民主党议员Robin Kelly今年早些时候提出立法，要求新车配备手动车门释放装置，并为急救人员在车辆断电时提供进入车辆的途径。&lt;/p&gt;
+&lt;p&gt;此外，NHTSA于今年9月已就多起儿童被困车内的投诉，对特定型号特斯拉Model Y车辆展开缺陷调查。&lt;/p&gt;
+&lt;p&gt;上述多管齐下的监管与立法压力，正在加速将电动门安全问题推向整个汽车行业的议事日程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在货币政策立场上，欧洲央行维持现有利率不变，本次决定获得全票通过，&lt;strong&gt;拉加德表示&amp;quot;今天没有推动加息的力量&amp;quot;，并强调9月将有更多数据可供参考。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，她表示会议已删除辛特拉评估中的&amp;quot;更平衡&amp;quot;措辞，&lt;strong&gt;风险评估已回到6月时的状态&lt;/strong&gt;，地缘政治局势的再度升级是主要背景。&lt;/p&gt;
 &lt;p&gt;在市场高度关注的任期问题上，拉加德明确表示&lt;strong&gt;&amp;quot;在2027年之前，你们不会看不到我&amp;quot;&lt;/strong&gt;，但她同时保留了在任期届满前离职的可能性，称&amp;quot;不喜欢在任何特定情况下被框定&amp;quot;。这一表态有助于缓解近期围绕其提前卸任的市场猜测。&lt;/p&gt;
@@ -341,68 +262,4 @@ ISM订单库存比走低，需求信号趋弱
 高分歧个股与高风险资产优势消退
 &lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
 &lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
-&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨</title><link>https://wallstreetcn.com/articles/3777740</link><guid>0057a0edcf4c307cee08f4df6db9a40109699cdcf204ced2e9653ce392bee7a1</guid><pubDate>Thu, 23 Jul 2026 08:13:49 GMT</pubDate><description>&lt;p&gt;在&amp;quot;十五五&amp;quot;规划落地、特高压大单兑现、AI算力缺电三重催化下，电网设备板块掀起涨停潮，锂矿板块受碳酸锂期货大涨等提振全线爆发；而科创50大跌近4%，半导体产业链陷入调整。&lt;/p&gt;
-&lt;p&gt;7月23日，A股全天横盘震荡，三大指数缩量盘整，小幅上涨，中小盘股走势较强。在半导体产业链集体调整之际，科创50大跌近4%。锂矿、工业金属、电网设备等大涨，芯片半导体再度陷入调整，半导体硅片、半导体设备等跌幅居前。&lt;/p&gt;
-&lt;p&gt;港股早盘高开高走，恒指、恒科指盘初双双上涨，恒指涨超1%，科网股普遍反弹，腾讯、阿里、快手、百度等上涨，美团涨超4%，芯片股承压，华虹宏力跌超7%。债市方面，国债期货多数下跌。商品方面，国内商品期货普遍上涨。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指涨0.25%，深成指涨0.44%，创业板指涨0.25%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股涨多跌少，沪深京三市超4200股飘红，今日成交近2.21万亿。沪深两市成交额2.2万亿，较上一个交易日缩量4580亿。板块方面，锂电产业链、电工电网爆发，海科新源、川能动力、盛新锂能等多股涨停，环保、基本金属、油气板块强势崛起；半导体产业链领跌，GPU、ASIC芯片、半导体设备、先进封装等方向跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，恒生指数收盘涨1.28%，恒生科技指数涨0.65%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，资源股、金融股涨幅居前，赣锋锂业涨近10%，造车新势力反弹，零跑汽车涨超3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货多数下跌，截至收盘，30年期主力合约涨0.20%，10年期主力合约跌0.08%，5年期主力合约跌0.08%，2年期主力合约跌0.03%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至收盘，能源品涨幅居前，INE原油涨4.14%；化工品全部上涨，DCE苯乙烯涨2.88%；油脂油料多数上涨，DCE棕榈油涨2.85%；新能源材料多数上涨，GFEX碳酸锂涨2.55%；基本金属多数上涨，SHFE镍涨1.59%；航运期货全部上涨，INE集运指数(欧线)涨1.45%；黑色系多数上涨，DCE焦煤涨1.22%；农副产品多数上涨，DCE 原木涨1.04%；贵金属跌幅居前，GFEX钯跌1.68%；非金属建材涨跌参半，CZCE玻璃跌0.99%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-电网设备/特高压：三重利好共振，掀起涨停潮
-&lt;p&gt;电网设备板块当日大涨6.20%，特高压概念涨4.68%，高低压设备概念涨5.69%，板块内十余只个股封板。&lt;/p&gt;
-&lt;p&gt;双杰电气、中能电气、金冠股份均20%涨停，中国西电、保变电气、汉缆股份、国电南自、顺钠股份、三变科技、大连电瓷、通达股份、华菱线缆、森源电气、积成电子、白云电器、风范股份、太阳电缆等批量涨停。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;催化的第一条线索来自政策端。&lt;/strong&gt;当日，国家发改委、国家能源局联合发布《可再生能源发展&amp;quot;十五五&amp;quot;规划》，明确提出&amp;quot;适度超前推进电网基础设施建设&amp;quot;，推进配电网、智能微电网与主干电网一体发展。&lt;/p&gt;
-&lt;p&gt;此前国家能源局披露，&amp;quot;十五五&amp;quot;期间全国电网固定资产投资将达5万亿元以上，较&amp;quot;十四五&amp;quot;增长超80%，期间将新增投产15回特高压直流输电通道，西电东送规模超过4.2亿千瓦。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二条线索来自订单落地。&lt;/strong&gt;国家电网2026年特高压及输变电设备第三次招标结果近日密集公布。中国西电下属14家子公司合计中标约41.29亿元，平高电气中标约18.18亿元，许继电气中标约12.45亿元。&lt;/p&gt;
-&lt;p&gt;据统计，2026年仅前三批次特高压设备采购金额已达292.61亿元，大幅超过2025年全年的220.62亿元。中信证券指出，后续仍有3批次特高压设备待招标，全年招标金额有望再创新高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三条线索来自AI算力对电力的需求拉动。&lt;/strong&gt;OpenAI前一日宣布在佐治亚州投资200亿美元建设数据中心，并将截至2030年的算力支出预测上调至7500亿美元。SpaceX AI也在得州筹备新建大型数据中心。&lt;/p&gt;
-&lt;p&gt;国家能源局预测，算力用电将从2025年的1700亿度激增至2030年的8000亿度。中信证券测算，&amp;quot;算电协同&amp;quot;对应总投资规模约2万亿元，&amp;quot;十五五&amp;quot;期间年复合增长率约42%。&lt;/p&gt;
-&lt;p&gt;华创证券认为，在当前市场波动加大的背景下，具备防御属性的电力资产在&amp;quot;电算融合&amp;quot;演绎下，或将迎来估值重塑。国金证券指出，国内电网投资持续超预期、特高压建设高景气延续、电力设备出海三条主线确定性较高。光大证券建议重点把握火电电价弹性、绿电绑定算力需求、水电防御属性三大方向。&lt;/p&gt;
-&lt;p&gt;广发证券认为，第四轮输配电价调整即将落地，配网环节电价涨幅明显，配电网升级改造的迫切性日益提升。由于前期低价订单交付、2025年四季度铜价大涨后维持高位等诸多因素影响，配电设备企业2026年一季度业绩仍有所承压，但预计二季度有望迎系统性反转。&lt;/p&gt;
-锂矿：花旗逆势看多，全线爆发
-&lt;p&gt;锂矿板块当日大涨5.29%，能源金属板块涨5.65%。盛新锂能、永杉锂业、国城矿业、川能动力、*ST威领集体涨停。赣锋锂业涨7.93%，天华新能涨8.05%，中矿资源涨6.93%，融捷股份涨6.46%，天齐锂业涨5.60%。广期所碳酸锂主力合约日内涨超4%，站上14.7万元/吨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;国内商品方面，广期所碳酸锂主力合约日内一度涨5%，站上14.8万元/吨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;最核心的催化来自花旗的一篇调研报告。花旗指出，虽然投资者情绪&amp;quot;差到极点&amp;quot;，但产业链的真实需求其实非常强劲，三季度锂价有望从当前的约15万元/吨涨至25万元/吨。花旗在供应链调研中发现，2027年一线电池厂商计划产量增长25%至30%，二线厂商计划增长70%以上，与市场悲观需求预期形成鲜明反差。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;供给端同样提供支撑。&lt;/strong&gt;中信建投研报指出，碳酸锂产量下行，部分锂盐厂按计划进入检修，锂辉石产线减量明显。南京证券认为，津巴布韦、澳大利亚等锂资源主产国出口量有所下滑，资源保护主义升温背景下，新增产能投产节奏存在较大不确定性。需求端，预计7月排产延续增长，材料厂开工率保持高位，环比增长超5%。&lt;/p&gt;
-&lt;p&gt;海证期货维持三季度碳酸锂价格偏震荡运行、四季度震荡向上的判断，认为新能源车销量下半年好于上半年，储能仍处于高景气，叠加明年电池退税取消引发的抢出口，总体需求仍持乐观态度。&lt;/p&gt;
-&lt;p&gt;高盛在6月中旬的锂行业调研纪要中也指出，2026年四季度锂市场紧张态势将明显加剧，储能已首次取代新能源车成为锂需求核心增长动力。&lt;/p&gt;
-半导体产业链陷入调整
-&lt;p&gt;与资源基建的火热形成鲜明对照，科创50指数当日暴跌3.78%，盘中一度跌超4%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;半导体板块全线下挫。华虹宏力收跌12.58%报341元，较7月21日反弹高点已回吐超30%。燕东微跌10.55%，甬矽电子跌9.44%，中芯国际跌6.75%，寒武纪、海光信息跌超4%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;AI手机方向集体下挫，格林精密跌超7%，芯原股份、东山精密、中兴通讯跟跌。半导体相关ETF同步大跌，芯片ETF、半导体设备ETF、集成电路ETF收盘分别下跌4.82%、4.99%和4.72%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;分析认为，板块下挫主要源于部分公司发布股东询价转让计划引发市场担忧，叠加板块此前积累较大涨幅后，资金选择止盈离场、切换至年内相对低位的资源与基建品种。&lt;/p&gt;
-&lt;p&gt;不过，中信证券认为，7月以来科技板块大幅调整后估值已明显回落，但自主可控、AI零部件、涨价链及消费电子等方向的基本面并未发生逆转，部分细分板块当前估值尚未充分反映后续订单增长与业绩兑现预期，具备较强的超跌修复空间。&lt;/p&gt;
-&lt;p&gt;中原证券则指出，2026年全球半导体销售额同比大幅增长104%，行业处于AI驱动的超级上行周期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电控解决方案供应商臻驱科技再冲刺港交所</title><link>https://wallstreetcn.com/articles/3777777</link><guid>147724daa60dd0680bc14741362908632f86feadef0a2917d8c755c553c3d48a</guid><pubDate>Thu, 23 Jul 2026 08:27:16 GMT</pubDate><description>&lt;p&gt;7月22日，臻驱科技（上海）股份有限公司向港交所主板递交上市申请，中信证券与海通国际担任联席保荐人。这是该公司继2026年1月首次递表失效后的第二次尝试。&lt;/p&gt;
-&lt;p&gt;据了解，臻驱科技2017年成立于上海浦东，创始人沈捷为80后，毕业于德国亚琛工业大学，获电气工程博士学位，曾在GE全球研发中心工作近十年。公司主营新能源汽车电控解决方案，产品覆盖功率模块、电机控制器和“功率砖”三类。&lt;/p&gt;
-&lt;p&gt;“功率砖”是臻驱科技的核心差异化产品。&lt;/p&gt;
-&lt;p&gt;招股书称，公司于2021年推出业内首款主驱功率砖产品，并在其后逐步实现量产。该产品将功率模块、控制逻辑与散热结构整合为标准化模块。据招股书披露，功率砖产品于2022年起出货量开始显著增长。&lt;/p&gt;
-&lt;p&gt;据弗若斯特沙利文数据，2025年按销售收入计，臻驱科技主驱功率砖排名中国第一，市场份额31.4%；双电机控制器排名第一；电机控制器排名第六；功率模块排名第七。&lt;/p&gt;
-&lt;p&gt;截至2026年5月31日，公司直接或通过一级供应商获得15家主机厂的59个定点，解决方案应用于92款车型，其中74款已量产。&lt;/p&gt;
-&lt;p&gt;客户覆盖奇瑞、上汽通用五菱、长安、赛力斯等国内主机厂，并通过一级供应商进入大众汽车等全球车企供应链。公司称已直接或间接进入全球销量前五大汽车集团中的三家。&lt;/p&gt;
-&lt;p&gt;除汽车业务外，招股书披露公司已延伸至eVTOL、具身智能及AI数据中心电源领域。与智元机器人联合开发的机器人关节解决方案已于2026年5月进入量产。&lt;/p&gt;
-&lt;p&gt;招股书显示，臻驱科技2023年、2024年、2025年收入分别为1.60亿元、11.59亿元、20.00亿元，三年增长超12倍。2026年前五个月收入9.56亿元，同比增长73.3%。&lt;/p&gt;
-&lt;p&gt;盈利方面，公司尚未扭亏。2023年至2025年净亏损分别为2.37亿元、3.35亿元、3.31亿元；2026年前五个月净亏损1.28亿元，较上年同期的1.60亿元有所收窄。2023年至今累计亏损约10.31亿元。&lt;/p&gt;
-&lt;p&gt;毛利率持续改善，从2023年的-8.3%升至2024年的1.3%、2025年的5.6%，2026年前五个月达9.0%。&lt;/p&gt;
-&lt;p&gt;现金流方面，经营活动现金流持续为负，2023年、2024年、2025年及2026年前五个月分别为-2.54亿元、-6.35亿元、-1.79亿元、-1.79亿元。截至2026年5月31日，现金及现金等价物6.28亿元，计息银行借款合计18.01亿元，其中短期借款13.27亿元，长期借款4.74亿元，资产负债率85.3%。&lt;/p&gt;
-&lt;p&gt;在股价方面，创始人沈捷直接持股9.54%，通过六家员工持股平台控制21.25%投票权，合计掌控30.79%，为单一最大股东。主要机构股东包括君联资本、联想创投等。&lt;/p&gt;
-&lt;p&gt;公司成立以来完成多轮融资。2024年1月完成D轮融资4.71亿元；2025年完成E-1轮3.7亿元、E-2轮2.1亿元两轮融资，合计募资5.8亿元。E-2轮完成后，公司投后估值42.8亿元。&lt;/p&gt;
-&lt;p&gt;招股书披露，公司客户集中度较高。2023年、2024年、2025年及2026年前五个月，来自五大客户的收入分别占总收入的86.1%、92.0%、93.5%及91.9%。其中最大客户收入占比分别为30.0%、36.4%、57.1%及50.0%。公司在招股书中将客户集中列为风险因素。&lt;/p&gt;
-&lt;p&gt;本次IPO募资拟用于产品研发、国内产能升级、国际化布局、产业链战略合作、偿还短期银行借款及补充营运资金。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
