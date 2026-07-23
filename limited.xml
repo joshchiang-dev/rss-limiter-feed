@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 16:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 17:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -309,60 +309,7 @@ AI数据中心成为增长核心
 &lt;p&gt;尽管AI业务增长迅猛，传统业务仍未摆脱低迷局面。&lt;/p&gt;
 &lt;p&gt;作为特斯拉、苹果等企业的核心芯片供应商，&lt;strong&gt;意法半导体近两年来持续受到汽车与消费电子需求疲软，以及客户库存去化进程缓慢的双重压力，传统业务的复苏步伐依然迟缓。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在此背景下，近年来Chery积极推动公司战略转型，降低对汽车和消费电子市场的依赖，将重心转向AI数据中心、工业电源及通信等高成长性领域。目前，&lt;strong&gt;AI业务正逐步成为公司新的增长引擎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI与云业务销售额翻倍！诺基亚Q2利润远超预期，上调全年盈利指引</title><link>https://wallstreetcn.com/articles/3777803</link><guid>ad90a12711e52a7a9c93d441c4c1d39bedd048fd5b753cdc349a5498cc478133</guid><pubDate>Thu, 23 Jul 2026 14:27:53 GMT</pubDate><description>&lt;p&gt;受益于AI基础设施投资持续升温，诺基亚交出了一份超预期的二季度成绩单，AI与云业务高速增长，并同步上调全年盈利指引，与竞争对手爱立信近期释放的谨慎信号形成鲜明对比。&lt;/p&gt;
-&lt;p&gt;数据显示，&lt;strong&gt;诺基亚2026年第二季度可比营业利润同比增长18%至4.34亿欧元，超过LSEG分析师预期的3.82亿欧元&lt;/strong&gt;。同期，&lt;strong&gt;公司AI与云业务销售额同比翻倍至4.46亿欧元&lt;/strong&gt;，新增订单达到28亿欧元，单季订单规模已超过2025年全年水平。&lt;/p&gt;
-&lt;p&gt;在业绩带动下，&lt;strong&gt;诺基亚将全年可比营业利润指引由20亿至25亿欧元上调至21亿至26亿欧元。&lt;/strong&gt;这一上调尤为受到市场关注。此前，爱立信因内存芯片成本上升下调利润率预期并拖累股价，诺基亚则凭借AI相关业务的强劲表现，为电信设备行业释放出更积极的信号。&lt;/p&gt;
-AI与云业务成为增长主引擎
-&lt;p&gt;AI基础设施正成为诺基亚最重要的增长来源。&lt;/p&gt;
-&lt;p&gt;二季度，公司网络基础设施业务实现双位数增长，主要受AI数据中心对光纤网络和IP网络设备需求旺盛推动。AI与云业务销售额翻倍至4.46亿欧元，而新增订单达到28亿欧元，为未来几个季度的收入增长提供了较高的确定性。&lt;/p&gt;
-&lt;p&gt;诺基亚CEO Justin Hotard表示，&lt;strong&gt;需求依然十分强劲，而供应能力仍是行业最大的瓶颈，这也促使客户提前锁定更长期订单。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hotard此前曾负责英特尔数据中心与AI业务，于去年出任诺基亚CEO后，持续推动公司向AI基础设施和数据中心市场转型，并促成了诺基亚与英伟达超过10亿美元的合作协议。&lt;/p&gt;
-整体业绩全面好于预期
-&lt;p&gt;整体来看，诺基亚二季度经营表现全面优于市场预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公司可比净销售额达到48.2亿欧元，按固定汇率计算同比增长9%，同样高于市场预期。&lt;/strong&gt;网络基础设施和移动基础设施两大业务均实现增长，其中移动基础设施业务继续保持稳定盈利。&lt;/p&gt;
-&lt;p&gt;不过，&lt;strong&gt;由于公司正加快推进重组计划，报告口径利润仍受到一次性重组成本拖累。&lt;/strong&gt;诺基亚正持续优化组织架构，将资源进一步向AI基础设施等高增长领域倾斜。&lt;/p&gt;
-&lt;p&gt;此外，公司此次上调全年盈利指引，也部分受益于两项业务被重新划分为&amp;quot;终止经营&amp;quot;后的财务口径调整。&lt;/p&gt;
-AI热潮推升需求，供应链仍是挑战
-&lt;p&gt;尽管AI基础设施需求持续爆发，供应链压力仍未明显缓解。&lt;/p&gt;
-&lt;p&gt;随着AI企业持续扩建数据中心、集中采购内存芯片，相关芯片价格快速上涨，电信设备厂商普遍面临成本压力。爱立信上周已就此发出利润率预警，&lt;strong&gt;而诺基亚则表示，目前需求依然强劲，供应仍是限制行业增长的主要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵</title><link>https://wallstreetcn.com/articles/3777811</link><guid>9c9007caa5d413143040090b7f001176d3e0c05ea401b6c0dff8d3c4781de843</guid><pubDate>Thu, 23 Jul 2026 16:21:42 GMT</pubDate><description>&lt;p&gt;新近消息显示，美伊局势走到了冲突全面升级的危险边缘。&lt;/p&gt;
-&lt;p&gt;据新华社援引美媒23日周四报道，美国总统特朗普当天称，他正在“认真考虑”重启对伊朗的大规模作战行动。特朗普对美媒表示，他正“接近”决定是否对伊朗发动一次“大规模攻击”，且行动规模可能超过今年2月末对伊朗的“史诗怒火”军事行动。特朗普强调，目前尚未作出最终决定，但美国军方已经做好准备。&lt;/p&gt;
-&lt;p&gt;消息传出后，市场避险情绪迅速升温，标普500指数跌幅扩大至1.7%，纳指跌2.7%，道指跌1.2%；美股恐慌指数VIX涨幅扩大至22%，显示投资者正重新定价美伊冲突进一步升级的风险。&lt;/p&gt;
-&lt;p&gt;同在周四，新华社援引美媒报道称，特朗普政府可能进一步加大对伊朗的军事打击力度。新华社还提到，伊朗军方消息人士称，伊军方已推演多种美军进攻场景，为应对美军地面入侵做好准备。&lt;/p&gt;
-&lt;p&gt;美伊双方军事对峙继续升温之际，特朗普周四稍早已经公开威胁要对伊朗及也门胡塞武装实施“军事惩罚”，而美国众议院当天还通过一项要求停止对伊朗军事行动的决议，白宫与国会围绕战争授权的矛盾进一步升温。&lt;/p&gt;
-特朗普：接近决定“大规模攻击”伊朗
-&lt;p&gt;据美媒Axios报道，特朗普在接受专访时表示，他“接近”决定是否对伊朗发动“大规模攻击”，但目前尚未作出最终决定。他说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我正在考虑发动一次大规模攻击，规模将史无前例。我接近做出决定，我们已为此做好了一切准备。”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-特朗普并未给出他做这一决定的最后期限。该报道提到，两名美国官员证实，目前尚未做出决定，也未向军方下达任何新指令。
-
-
-
-&lt;p&gt;特朗普称，美军已经“完全准备就绪”，伊朗“想要谈判”，但目前尚未准备好达成协议。他说，“他们（伊朗）受到的痛击还不够。”&lt;/p&gt;
-&lt;p&gt;美媒援引知晓美伊调停工作的地区人士消息称，伊朗领导层尚未接受最新提出的停火方案。其中一人说：“我们正在努力，但伊朗方面并不配合。”&lt;/p&gt;
-&lt;p&gt;Axios报道称，特朗普政府过去12天持续增加在中东地区的军事活动，行动重点之一是应对伊朗对霍尔木兹海峡商业航运构成的威胁。随着谈判进展迟滞，军事选项再次成为特朗普政府施压德黑兰的核心手段。&lt;/p&gt;
-&lt;p&gt;这也意味着，特朗普所谓的“大规模攻击”并非孤立表态，而是出现在美伊冲突持续升级、霍尔木兹海峡航运风险上升以及外交努力陷入僵局的背景下。&lt;/p&gt;
-&lt;p&gt;如果特朗普最终决定扩大军事行动，美国的打击目标、行动规模以及持续时间，都可能超过此前的军事行动，从而进一步增加伊朗及其地区盟友采取报复行动的可能性。&lt;/p&gt;
-美国释放扩大打击信号，伊朗为军事升级做准备
-&lt;p&gt;新华社报道称，随着美国方面释放可能进一步扩大军事行动的信号，伊朗正在为军事升级做准备。&lt;/p&gt;
-&lt;p&gt;报道指出，伊朗方面已针对美国可能扩大打击采取相应准备。当前，美伊双方在军事部署、战略威慑以及外交谈判之间的博弈同步加剧，任何一方采取新的军事行动，都可能引发新一轮报复与反报复。&lt;/p&gt;
-&lt;p&gt;从伊朗方面看，冲突风险已经不仅仅来自美国是否发动新一轮空袭，也包括美国可能扩大打击目标范围，以及美军在中东地区的军事部署是否进一步增加。&lt;/p&gt;
-新华社报道提到，一名伊朗军方消息人士对俄罗斯媒体表示，“伊朗武装力量已针对美国可能发动的任何新袭击准备多种应对方案，尤其是如果美国政府犯下错误发起地面入侵”，如果美军再次打击伊朗核设施或基础设施，伊朗的回应将超出美方预期。
- 
-新华社还提到，伊朗伊斯兰革命卫队23日周四发表声明说，为回应美国对伊朗的军事行动，伊朗对约旦和科威特境内的美军设施实施打击，其中对科威特美军比林军营的打击造成部分美军人员死伤。
-&lt;p&gt;特朗普在Axios的专访中表示，如果他提出要求，以色列“两分钟内就会加入”对伊朗的军事行动，但他同时说，“我们不需要任何人（协助）”对伊发起新行动。他还指出，如果以色列参与打击行动将面临“后果”，这暗示了伊朗可能会针对以色列进行报复。&lt;/p&gt;
-&lt;p&gt;在此前的冲突中，伊朗已经多次警告，美国若扩大军事行动，将面临相应反制。随着特朗普明确表示自己正“接近”作出大规模打击的决定，伊朗方面的军事准备也意味着，双方正在为最坏情形做准备。&lt;/p&gt;
-&lt;p&gt;这使得美伊冲突出现一个更加危险的循环：美国以伊朗对航运和地区安全的威胁为由强化军事部署，伊朗则将美国的军事部署视为进一步打击的前兆，并相应加强军事准备，最终增加误判和意外升级的风险。&lt;/p&gt;
-从“军事惩罚”到“大规模打击”，升级信号密集出现
-&lt;p&gt;就在最新Axios报道传出前，特朗普已经在公开讲话中对伊朗和胡塞武装发出更强硬的军事威胁。&lt;/p&gt;
-&lt;p&gt;特朗普周四表示，如果伊朗继续攻击霍尔木兹海峡的船只，美国将采取报复行动；此前他还威胁称，伊朗每次向船只开火，美国就可能摧毁一座桥梁或一座发电厂。&lt;/p&gt;
-&lt;p&gt;与此同时，特朗普还表示，胡塞武装如果继续袭击红海航运，也将面临“重大军事惩罚”。&lt;/p&gt;
-&lt;p&gt;这意味着，伊朗与胡塞武装在中东关键航运通道上的行动，正在被特朗普政府视为可能触发美国进一步军事行动的直接因素。&lt;/p&gt;
-&lt;p&gt;此前，特朗普政府对伊朗的军事目标主要集中于削弱其导弹能力、打击核设施以及恢复霍尔木兹海峡航运。但随着冲突持续，军事行动的目标正在进一步扩展至海上交通线和区域代理人网络，冲突外溢风险明显上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从行业整体看，成熟制程芯片市场正显现回暖信号。德州仪器最新营收指引优于预期，工业、汽车及数据中心等领域需求均有回升。然而，由于此前股价已累计上涨约70%，财报公布后盘后股价仍出现回落，折射出&lt;strong&gt;当前半导体板块普遍的估值困境：业绩尚可，但市场期待更高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在货币政策立场上，欧洲央行维持现有利率不变，本次决定获得全票通过，&lt;strong&gt;拉加德表示&amp;quot;今天没有推动加息的力量&amp;quot;，并强调9月将有更多数据可供参考。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，她表示会议已删除辛特拉评估中的&amp;quot;更平衡&amp;quot;措辞，&lt;strong&gt;风险评估已回到6月时的状态&lt;/strong&gt;，地缘政治局势的再度升级是主要背景。&lt;/p&gt;
 &lt;p&gt;在市场高度关注的任期问题上，拉加德明确表示&lt;strong&gt;&amp;quot;在2027年之前，你们不会看不到我&amp;quot;&lt;/strong&gt;，但她同时保留了在任期届满前离职的可能性，称&amp;quot;不喜欢在任何特定情况下被框定&amp;quot;。这一表态有助于缓解近期围绕其提前卸任的市场猜测。&lt;/p&gt;
@@ -382,12 +329,72 @@ AI热潮推升需求，供应链仍是挑战
 &lt;p&gt;早在6月，她就曾证实在伊朗战争爆发前曾考虑辞职，围绕其出任世界经济论坛相关职位的猜测也持续存在。据英国《金融时报》报道，相关表态一度在欧洲央行内部引发不满。&lt;/p&gt;
 &lt;p&gt;在潜在继任人选上，据彭博调查，现任国际清算银行行长、西班牙央行前行长Pablo Hernandez de Cos被视为最热门候选人。据西班牙《扩张报》本周报道，马德里政府计划支持Hernandez de Cos出任欧洲央行行长。&lt;/p&gt;
 &lt;p&gt;调查还显示，另一名有竞争力的候选人为去年卸任荷兰央行行长一职的Klaas Knot。&lt;/p&gt;
-&lt;p&gt;此外，德国联邦银行行长Joachim Nagel和执行委员会成员Isabel Schnabel也表达了兴趣，但德国政府尚未公布立场。德国总理弗里德里希·默茨上周表示，鉴于拉加德任期尚有一年以上，目前&amp;quot;没有必要&amp;quot;尽快启动继任程序。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：若通胀前景未改善，欧央行官员准备9月加息</title><link>https://wallstreetcn.com/articles/3777807</link><guid>d4b073df4001622348acdfd73bb04fb67ef24f842ce1ce6eb591cdd37ba4ec0a</guid><pubDate>Thu, 23 Jul 2026 16:21:30 GMT</pubDate><description>&lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;如果欧元区通胀前景未出现明显改善，欧洲央行官员已做好在9月提高利率的准备。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;基于目前掌握的信息和数据，尤其是中东冲突及其经济影响来看，欧洲央行可能需要再次加息25个基点，以遏制消费者价格压力。&lt;/p&gt;
-&lt;p&gt;不过，知情人士强调，&lt;strong&gt;目前尚未作出任何决定，局势可能迅速变化，特别是在和平协议取得进展，或经济出现更严重下滑的情况下。&lt;/strong&gt;该立场也符合欧洲央行“逐次会议评估”的政策路径。&lt;/p&gt;
-&lt;p&gt;周四，欧洲央行行长拉加德为9月可能加息埋下伏笔。她表示，在最终决定维持存款利率2.25%不变之前，部分委员曾讨论是否应立即采取行动。&lt;/p&gt;
-&lt;p&gt;“有一些行长曾问自己，我们是否应该考虑加息。”拉加德周四表示，“我们认为目前的政策立场足以支持我们等待，并在未来几周密切关注局势发展，以及未来几周将获得的数据。”&lt;/p&gt;
-&lt;p&gt;上个月，欧洲央行成为七国集团（G7）中首个自冲突爆发以来加息的主要央行。目前，在应对由地缘冲突推动的价格压力方面，欧洲央行仍处于七国集团央行的前列。&lt;/p&gt;
-&lt;p&gt;拉加德对记者表示：“通胀前景面临上行风险。能源冲击可能进一步加剧，其对其他商品价格和工资的影响可能强于目前预期。能源价格维持高位的时间越长，推动更广泛通胀上升的可能性就越大。”&lt;/p&gt;
-&lt;p&gt;目前，中东冲突呈现扩大迹象，并可能造成进一步供应扰动。周四，在获得伊朗支持的胡塞武装声称袭击了两艘沙特阿拉伯油轮后，&lt;strong&gt;国际油价两个月来首次突破每桶100美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此外，德国联邦银行行长Joachim Nagel和执行委员会成员Isabel Schnabel也表达了兴趣，但德国政府尚未公布立场。德国总理弗里德里希·默茨上周表示，鉴于拉加德任期尚有一年以上，目前&amp;quot;没有必要&amp;quot;尽快启动继任程序。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI与云业务销售额翻倍！诺基亚Q2利润远超预期，上调全年盈利指引</title><link>https://wallstreetcn.com/articles/3777803</link><guid>ad90a12711e52a7a9c93d441c4c1d39bedd048fd5b753cdc349a5498cc478133</guid><pubDate>Thu, 23 Jul 2026 14:27:53 GMT</pubDate><description>&lt;p&gt;受益于AI基础设施投资持续升温，诺基亚交出了一份超预期的二季度成绩单，AI与云业务高速增长，并同步上调全年盈利指引，与竞争对手爱立信近期释放的谨慎信号形成鲜明对比。&lt;/p&gt;
+&lt;p&gt;数据显示，&lt;strong&gt;诺基亚2026年第二季度可比营业利润同比增长18%至4.34亿欧元，超过LSEG分析师预期的3.82亿欧元&lt;/strong&gt;。同期，&lt;strong&gt;公司AI与云业务销售额同比翻倍至4.46亿欧元&lt;/strong&gt;，新增订单达到28亿欧元，单季订单规模已超过2025年全年水平。&lt;/p&gt;
+&lt;p&gt;在业绩带动下，&lt;strong&gt;诺基亚将全年可比营业利润指引由20亿至25亿欧元上调至21亿至26亿欧元。&lt;/strong&gt;这一上调尤为受到市场关注。此前，爱立信因内存芯片成本上升下调利润率预期并拖累股价，诺基亚则凭借AI相关业务的强劲表现，为电信设备行业释放出更积极的信号。&lt;/p&gt;
+AI与云业务成为增长主引擎
+&lt;p&gt;AI基础设施正成为诺基亚最重要的增长来源。&lt;/p&gt;
+&lt;p&gt;二季度，公司网络基础设施业务实现双位数增长，主要受AI数据中心对光纤网络和IP网络设备需求旺盛推动。AI与云业务销售额翻倍至4.46亿欧元，而新增订单达到28亿欧元，为未来几个季度的收入增长提供了较高的确定性。&lt;/p&gt;
+&lt;p&gt;诺基亚CEO Justin Hotard表示，&lt;strong&gt;需求依然十分强劲，而供应能力仍是行业最大的瓶颈，这也促使客户提前锁定更长期订单。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hotard此前曾负责英特尔数据中心与AI业务，于去年出任诺基亚CEO后，持续推动公司向AI基础设施和数据中心市场转型，并促成了诺基亚与英伟达超过10亿美元的合作协议。&lt;/p&gt;
+整体业绩全面好于预期
+&lt;p&gt;整体来看，诺基亚二季度经营表现全面优于市场预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司可比净销售额达到48.2亿欧元，按固定汇率计算同比增长9%，同样高于市场预期。&lt;/strong&gt;网络基础设施和移动基础设施两大业务均实现增长，其中移动基础设施业务继续保持稳定盈利。&lt;/p&gt;
+&lt;p&gt;不过，&lt;strong&gt;由于公司正加快推进重组计划，报告口径利润仍受到一次性重组成本拖累。&lt;/strong&gt;诺基亚正持续优化组织架构，将资源进一步向AI基础设施等高增长领域倾斜。&lt;/p&gt;
+&lt;p&gt;此外，公司此次上调全年盈利指引，也部分受益于两项业务被重新划分为&amp;quot;终止经营&amp;quot;后的财务口径调整。&lt;/p&gt;
+AI热潮推升需求，供应链仍是挑战
+&lt;p&gt;尽管AI基础设施需求持续爆发，供应链压力仍未明显缓解。&lt;/p&gt;
+&lt;p&gt;随着AI企业持续扩建数据中心、集中采购内存芯片，相关芯片价格快速上涨，电信设备厂商普遍面临成本压力。爱立信上周已就此发出利润率预警，&lt;strong&gt;而诺基亚则表示，目前需求依然强劲，供应仍是限制行业增长的主要因素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报季开局强劲，为何美股却难创新高？摩根大通：“盈利燃料”正在耗尽</title><link>https://wallstreetcn.com/articles/3777787</link><guid>12145462539e3231272f719a6c9409a325ab16a9c3d9bf9d4306d1daa4e080ae</guid><pubDate>Thu, 23 Jul 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;美股第二季度财报季开局亮眼，但强劲业绩未能推动市场突破历史高点。摩根大通警告，&lt;strong&gt;驱动美股上行的&amp;quot;盈利燃料&amp;quot;正逐渐耗尽，多项先行指标显示盈利修正的上行空间已趋于收窄。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛、美国银行、谷歌、特斯拉等华尔街巨头与科技龙头相继发布财报，BNY Mellon、强生、软件公司ServiceNow等企业纷纷上调全年业绩指引，财报季整体表现强劲。然而，标普500指数本月基本原地踏步，截至周三收盘仍距历史高点逾1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通策略师团队在周四发布的报告中指出，&lt;strong&gt;伊朗战争已改变通胀走势，进而影响短期和长期利率预期，令市场环境趋于复杂。在此背景下，即便业绩超预期并上调指引，也愈发难以成为推动股价进一步走高的催化剂。&lt;/strong&gt;&lt;/p&gt;
+盈利修正动能减弱，上行空间收窄
+&lt;p&gt;摩根大通策略师团队由Khuram Chaudhry领衔，在报告中写道：&lt;strong&gt;&amp;quot;盈利上调虽然普遍，但修正趋势表明燃料可能即将耗尽。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该团队重点关注生产者价格通胀与消费者价格通胀之间的利差。&lt;/p&gt;
+&lt;p&gt;据摩根大通数据，企业销售额与该利差的相关性约为47%，每股盈利与该利差的相关性约为29%。目前，这一利差似乎已触顶并陷入停滞。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;如果这一趋势持续，风险在于每股盈利和销售预测的进一步上调空间可能十分有限&lt;/strong&gt;，&amp;quot;上述策略师表示。&lt;/p&gt;
+ISM订单库存比走低，需求信号趋弱
+&lt;p&gt;除通胀利差外，摩根大通还指出另一项值得警惕的指标——美国供应管理协会（ISM）的订单与库存比率过去三个月持续下滑，进一步印证了盈利上行动能减弱的判断。&lt;/p&gt;
+&lt;p&gt;该比率通常被视为制造业需求前景的先行指标，其持续走低意味着企业订单增速相对库存积累有所放缓，对未来营收和盈利预期构成潜在压力。&lt;/p&gt;
+高分歧个股与高风险资产优势消退
+&lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
+&lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
+&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌、特斯拉双双现金流转负，对于AI交易意味着什么？</title><link>https://wallstreetcn.com/articles/3777767</link><guid>cd1bac5483d61c8df711bcbd963cf2b255f59aca753f8518d1c196e2721c50fc</guid><pubDate>Thu, 23 Jul 2026 07:20:40 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet与特斯拉在本轮科技财报季率先亮相，却共同传递出一个令市场不安的信号：&lt;strong&gt;激进的AI资本支出正在吞噬现金流，而收入超预期的亮眼表现，已不足以安抚投资者的担忧情绪。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两家公司均在最新季度录得负自由现金流，并同时警告资本支出将进一步攀升。财报发布后，&lt;strong&gt;特斯拉盘后股价下跌4%，Alphabet跌近3%&lt;/strong&gt;。这一市场反应表明，&lt;strong&gt;投资者对AI投资回报的耐心正在经受考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;谷歌历来被视为四大云计算巨头中现金流最充裕的&amp;quot;异类&amp;quot;，如今在AI烧钱大战中却也未能幸免——第二季度自由现金流转负59亿美元，与去年同期近250亿美元的盈余形成鲜明反差。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一幕对整个科技行业而言或许是一个不祥的前兆。&lt;/strong&gt;Meta、微软、亚马逊和苹果均将于下周陆续公布季度业绩，投资者将密切审视这些科技巨头是否面临同样的现金流压力。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3777694"&gt;华尔街见闻文章&lt;/a&gt;此前写道，美国银行最新报告指出，四大超大规模云计算商中，有三家预计将在今年年底前耗尽自由现金流——这场&amp;quot;代际转移&amp;quot;正在深刻重塑大型科技股的投资逻辑。&lt;/p&gt;
+现金流双双转负，数字触目惊心
+&lt;p&gt;谷歌母公司Alphabet与特斯拉的现金流恶化程度，远超市场此前预期。&lt;/p&gt;
+&lt;p&gt;财报显示，&lt;a href="https://wallstreetcn.com/articles/3777718"&gt;谷歌第二季度自由现金流跌至负59亿美元&lt;/a&gt;。这一数字与一年前形成了鲜明反差——彼时这家以广告业务高利润率著称的公司，自由现金流接近250亿美元。谷歌首席财务官Anat Ashkenazi在&lt;a href="https://wallstreetcn.com/articles/3777723"&gt;财报电话会议&lt;/a&gt;上表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们预计自由现金流将持续承压，这是由我们在技术基础设施方面的投资所驱动的，这些投资使我们能够把握AI机遇并持续创造可观回报。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;她补充说，第二季度高达449亿美元的资本支出，大部分流向了支撑AI建设的基础设施。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特斯拉的情况同样急剧恶化。&lt;/strong&gt;最新财报显示，&lt;a href="https://wallstreetcn.com/articles/3777719"&gt;特斯拉第二季度自由现金流录得负11亿美元&lt;/a&gt;，而一年前为正1.46亿美元，今年一季度则为正14.4亿美元。第二季度资本支出同比飙升142%至57.9亿美元。&lt;/p&gt;
+&lt;p&gt;首席执行官&lt;a href="https://wallstreetcn.com/articles/3777724"&gt;马斯克在财报电话会议上&lt;/a&gt;表示，&amp;quot;这是一个大规模资本支出年，但我们相信所有投资都将带来惊人回报。&amp;quot;他将特斯拉当前的扩张比作亨利·福特时代的Model T，并称&amp;quot;这可能是二战以来美国速度最快的工业规模化扩张&amp;quot;。&lt;/p&gt;
+支出规模持续上调，上限不断被突破
+&lt;p&gt;两家公司不仅未能给出收缩支出的信号，反而进一步上调了全年资本支出指引。&lt;/p&gt;
+&lt;p&gt;谷歌将今年资本支出预测区间从此前的1800亿至1900亿美元，上调至1950亿至2050亿美元，并&lt;strong&gt;警告2027年数字将进一步走高&lt;/strong&gt;。若以新指引上限计算，谷歌今年的资本支出规模有望跻身科技行业最高之列，与亚马逊逾2000亿美元的指引相当。&lt;/p&gt;
+&lt;p&gt;特斯拉则重申今年资本支出将超过250亿美元，较去年同期增长约200%。公司正将工厂改造为生产双座无人驾驶Cybercab和Optimus人形机器人的设施，同时筹备在德克萨斯州建设一座大型AI芯片制造工厂。马斯克表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们应该尽可能快地进行资本支出，只要不过于浪费。资本效率稍低一些是可以接受的，只要我们能更快地完成目标。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+华尔街警告：现金流危机或蔓延至整个超大规模云计算行业
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777694"&gt;华尔街见闻文章写道&lt;/a&gt;，美国银行最新报告指出，这场现金流压力并非Alphabet和特斯拉的个案，而是整个超大规模云计算行业面临的系统性挑战。&lt;/p&gt;
+&lt;p&gt;报告显示，&lt;strong&gt;Meta和亚马逊最快将于本季度出现负自由现金流，微软则预计在今年第四季度（即其2027财年第二季度）步其后尘。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;彭博Markets Live策略师Tatiana Darie认为，随着自由现金流趋于枯竭，这些科技巨头将不得不转向外部融资，在大多数情况下意味着增加债务或摊薄现有股东权益。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;更高的债务负担意味着财务杠杆上升，而股权稀释则直接侵蚀每股盈利，两者均将对估值构成压力，并迫使市场重新评估AI投资的长期回报逻辑。&lt;/p&gt;
+&lt;/blockquote&gt;
+多空分歧加剧，市场耐心面临考验
+&lt;p&gt;尽管盘后股价承压，但看多阵营的声音并未消退。&lt;/p&gt;
+&lt;p&gt;Mizuho分析师在研报中写道，&lt;strong&gt;谷歌资本支出的上调&amp;quot;在市场预期之内&amp;quot;&lt;/strong&gt;，整体故事依然积极，主要得益于云业务收入同比大幅增长82%，远超预期，云业务利润率也有所扩张，Gemini模型的使用量加速增长。&lt;strong&gt;&amp;quot;因此，我们对股价盘后下跌感到意外，预计明日交易中将会回升。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;投资咨询公司Fitz-Gerald Group负责人Keith Fitz-Gerald表示，&lt;strong&gt;特斯拉正在&amp;quot;为基础设施牺牲盈利能力&amp;quot;&lt;/strong&gt;，这与亚马逊和Netflix此前走过的路径如出一辙，&lt;strong&gt;&amp;quot;我预计这将在未来12至36个月内得到丰厚回报。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科技研究公司Valoir首席执行官Rebecca Wettemann则表示，&lt;strong&gt;谷歌核心业务依然强劲，AI投资正在产生回报，&amp;quot;谷歌的势头应能缓解市场对AI过度支出的部分担忧。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;市场的整体情绪仍显脆弱。&lt;/strong&gt;进入本周财报发布前，Alphabet股价已连续三个月下跌，特斯拉7月以来累计下跌11%，年内跌幅达17%。以科技股为主的纳斯达克指数自6月初创下历史高点以来已累计下跌约5%。&lt;/p&gt;
+&lt;p&gt;随着&lt;strong&gt;Meta、微软、亚马逊和苹果下周相继登场&lt;/strong&gt;，AI资本支出与投资回报之间的张力，将迎来更为严峻的市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
