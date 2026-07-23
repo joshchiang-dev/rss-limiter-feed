@@ -1,23 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 20:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 一周末打通AMD全套适配：Anthropic用Claude自举而非英伟达硬件，打破CUDA“人力壁垒”</title><link>https://wallstreetcn.com/articles/3777816</link><guid>4bb982f8e338e7d4786b5560af85ca9d6ee167b35b54afcc3aba3e9b8aebadfb</guid><pubDate>Thu, 23 Jul 2026 19:42:03 GMT</pubDate><description>&lt;p&gt;Anthropic在AMD今年的AdvancingAI大会上不仅官宣了算力部署计划，还披露了一个可能改写AI芯片竞争规则的技术细节：其工程师仅用Claude模型在一个周末内自动完成了AMD Instinct MI355芯片与ROCm平台的全套适配与性能调优。&lt;/p&gt;
-&lt;p&gt;Anthropic高管Tom Brown在大会上公开表示，公司计划部署2GW的AMD Helios算力设施，并明确青睐MI355芯片。这一表态将此前市场上的合作传闻升级为高管层面的正式确认。AMD官方账号随后转发了包含Tom Brown表态的第三方推文，配文感谢其参会。&lt;/p&gt;
-&lt;p&gt;更具冲击力的是Brown披露的适配过程。团队原本预期在新硬件上启动模型会是“一个大项目”，但实际体验完全不同：一名工程师让Claude执行适配任务后让流程在周末自行运转，周一便拿到了Anthropic领先模型在该硬件上“周末期间持续攀升”的实际性能曲线。&lt;/p&gt;
-&lt;p&gt;市场观察者随即评论称：“我们已过了CUDA护城河时代。” 对投资者而言，这一突破意味着AI算力供应链的硬件锁定逻辑正在遭遇来自AI自身能力的反向冲击。当AI自身能够替代工程师完成硬件迁移中最昂贵的人力环节时，英伟达CUDA生态最根本的护城河——高昂的迁移成本正在被AI从根基上侵蚀。&lt;/p&gt;
-从传闻到官宣：Anthropic的AMD部署浮出水面
-&lt;p&gt;此前市场对Anthropic与AMD合作的认知仅停留在行业推测层面。Tom Brown在AMD技术大会上的公开站台，将合作可信度从间接信号拉升至正式确认的高度。&lt;/p&gt;
-&lt;p&gt;2GW的部署规模意味着AMD芯片在Anthropic的算力体系中扮演实质性角色，而非象征性采购。&lt;/p&gt;
-&lt;p&gt;作为ARR已达470亿美元、估值9650亿美元、已正式提交IPO申请文件的AI巨头，Anthropic正积极构建多元化算力供给体系——此前已从谷歌采购芯片及云服务，与SpaceX签署近450亿美元合作协议，并与Akamai达成18亿美元协议。AMD的正式加入进一步丰富了其算力来源。&lt;/p&gt;
-AI自举硬件适配：CUDA壁垒的“阿喀琉斯之踵”
-&lt;p&gt;比订单规模更具长期冲击力的是Anthropic展示的AI自动化适配能力。&lt;/p&gt;
-&lt;p&gt;传统上，将大模型迁移至新硬件平台需要大量工程师手动完成底层算子适配、性能调优和稳定性验证——这构成了英伟达CUDA生态壁垒的核心来源。开发者对CUDA的依赖不仅是技术惯性，更是迁移成本决定的：换平台意味着投入数月甚至数年的工程资源。&lt;/p&gt;
-&lt;p&gt;但当Claude在一个周末内完成整套适配流程时，这一逻辑的根基开始松动。Brown的描述清晰直白：一名工程师启动Claude，“让它把机器跑起来”，然后流程在周末自行运转。到周一，团队拿到的是一张性能曲线&amp;quot;持续攀升&amp;quot;的图表。整个过程仅涉及一名工程师和一台AMD提供的机架。&lt;/p&gt;
-&lt;p&gt;&amp;quot;我们以为这会是个大项目，&amp;quot;Brown说，但实际体验&amp;quot;完全不同&amp;quot;。&lt;/p&gt;
-为何这一信号对AI芯片格局具有实质性含义
-&lt;p&gt;市场对英伟达的定价中，CUDA生态壁垒是核心溢价支撑。这一壁垒的本质不是技术的不可替代性，而是生态迁移的&amp;quot;人力成本壁垒&amp;quot;——即使竞争对手的硬件性能追平，企业仍需投入大量工程师重新适配软件栈，这笔沉没成本本身就是最高的切换门槛。&lt;/p&gt;
-&lt;p&gt;AI自动化适配直接攻击的正是这道壁垒的成本侧。如果前沿实验室可以借助自家AI模型在数天内完成新硬件的适配与优化，硬件采购决策将更多取决于性能、价格和供应可得性，而非生态锁定。用分析师Austin Lyons的话来说：“我们已过了CUDA护城河时代。”&lt;/p&gt;
-&lt;p&gt;对Anthropic而言，这一能力赋予其算力采购策略更大的灵活性。SemiAnalysis最新分析指出，Anthropic的推理基础设施毛利率已从38%跃升至逾70%，并在第二季度实现营业利润盈利。将AMD纳入算力供应商体系，不仅分散了供应链风险，也为急剧膨胀的推理需求提供了更具性价比的硬件选项。&lt;/p&gt;
-&lt;p&gt;对AMD而言，获得Anthropic这一前沿实验室的正式部署承诺，是其数据中心GPU路线图的关键验证。而AI自动化适配工具的加持，降低了更多潜在客户尝试AMD平台的工程门槛——这可能是比单一订单更具长期价值的战略资产。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis分析师指出，Anthropic此前在编程数据上的激进投入使其模型能力领先，而今这种能力正在反向赋能其自身的硬件选择自由度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 20:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔Q2营收增25%大超预期，指引更强劲，盘后拉涨超10%丨财报见闻</title><link>https://wallstreetcn.com/articles/3777819</link><guid>eaeeb37f81641c5e16d74deac18c172458b0266428dcebe51016af4120f0c1fd</guid><pubDate>Thu, 23 Jul 2026 20:01:41 GMT</pubDate><description>&lt;p&gt;英特尔交出一份明显好于市场预期的二季度成绩单，当季营收较分析师预期高将近12%，同比增长加快至25%，为逾十五年来最强劲增速。对于过去几个季度持续承压的英特尔而言，营收端的这一“预期差”是盘后股价快速反弹的核心原因。&lt;/p&gt;
+&lt;p&gt;更关键的是，英特尔给出的三季度营收指引保持了两位数高增速，指引区间相当于同比增长逾15%至近23%，整个区间都高于分析师预期。按区间中值计算，英特尔预计三季度营收约163亿美元，比市场预期高8%以上，且略高于二季度实际收入，显示管理层对下半年需求并不悲观。&lt;/p&gt;
+&lt;p&gt;财报公布前，英特尔周四常规交易时段收跌超2%，反映市场对其基本面仍持谨慎态度。财报公布后，周四收跌超2%的英特尔股价盘后拉涨，盘后涨幅迅速扩大到10%以上。这一剧烈反转说明，投资者此前对英特尔的预期较低，而公司此次不仅二季度营收超预期，三季度展望也给了市场重新上修预期的理由。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+Q2营收超预期近12% 英特尔打出明显“预期差”
+
+&lt;p&gt;二季度英特尔营收为161.3亿美元，市场预期为144.3亿美元。当季营收同比增长约25%，为一季度增速7%的3.6倍。&lt;/p&gt;
+&lt;p&gt;简单计算：&lt;/p&gt;
+
+
+
+指标
+实际/指引
+市场预期
+差额
+超预期幅度
+
+
+
+
+二季度营收
+161.3亿美元
+144.3亿美元
++17.0亿美元
+约+11.8%
+
+
+三季度营收指引中值
+163.0亿美元
+150.6亿美元
++12.4亿美元
+约+8.2%
+
+
+
+&lt;p&gt;这类幅度的营收超预期，在成熟半导体公司中并不常见。尤其对英特尔而言，市场过去几个季度的核心担忧集中在：PC复苏持续性、数据中心份额压力、AI芯片竞争落后、先进制程追赶成本高企，以及代工业务短期拖累利润等方面。&lt;/p&gt;
+&lt;p&gt;因此，二季度营收大幅高于预期，首先说明公司当前业务并没有市场此前定价得那么弱。无论具体贡献来自客户端计算、数据中心、边缘业务还是其他板块，从合并收入层面看，英特尔的出货、定价或需求环境好于华尔街此前判断。&lt;/p&gt;
+&lt;p&gt;分业务看，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据中心与人工智能业务部门（DCAI）二季度营收同比增长59%至63亿美元，增速约为一季度22%的2.7倍，体现了AI需求的强劲驱动。&lt;/li&gt;
+&lt;li&gt;客户计算业务部门（CCG）二季度营收同比增长13%至89亿美元，增速更是远超一季度的仅1%。&lt;/li&gt;
+&lt;li&gt;代工服务Intel Foundry二季度营收同比增长31%至58亿美元，增速将近一季度16%的两倍。&lt;/li&gt;
+&lt;/ul&gt;
+
+Q3指引区间至少较市场预期高近5% 至多高逾10%
+
+&lt;p&gt;相比二季度已经发生的收入，市场更关注三季度指引，因为这直接关系到下半年盈利模型和估值预期。&lt;/p&gt;
+&lt;p&gt;英特尔预计三季度营收为158亿至168亿美元，均超过分析师预期营收150.6亿美元。即便按照公司指引区间低端158亿美元计算，仍然比市场预期高将近5%，若按区间高端168亿美元计算，则高出近11.6%。&lt;/p&gt;
+&lt;p&gt;这意味着英特尔管理层传递出的信号不是“二季度一次性超预期”，而是认为三季度需求仍将保持较强水平。&lt;/p&gt;
+&lt;p&gt;环比二季度营收161.3亿美元，三季度指引的低端下降约2.0%，指引中值163亿美元则环比约增长1.1%，指引高端环比约增长4.2%。&lt;/p&gt;
+&lt;p&gt;在半导体行业仍处于结构分化阶段的背景下，英特尔给出基本持平至温和增长的三季度收入预期，足以缓解市场对其下半年需求转弱的担忧。&lt;/p&gt;
+
+股价盘后大涨：市场交易的是“悲观预期修正”
+
+&lt;p&gt;财报公布后，英特尔股价盘后涨幅迅速扩大到10%以上，与常规交易时段收跌超2%形成鲜明反差。&lt;/p&gt;
+&lt;p&gt;这背后并非单纯因为英特尔“业绩绝对强劲”，而是因为此前市场预期较低。过去一段时间，英特尔股价承压的原因主要包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI浪潮中相对失势：相比英伟达、AMD等竞争对手，英特尔在AI加速器叙事中的市场存在感较弱。&lt;/li&gt;
+&lt;li&gt;数据中心竞争压力：云厂商和企业客户对高性能计算、AI服务器和定制芯片的需求变化，使传统CPU业务承压。&lt;/li&gt;
+&lt;li&gt;制程追赶成本高：先进制程投入巨大，短期对利润率和自由现金流造成压力。&lt;/li&gt;
+&lt;li&gt;代工业务不确定性：Intel Foundry仍处在重投入阶段，外部客户验证、产能利用率、盈利时间表都需要时间证明。&lt;/li&gt;
+&lt;li&gt;PC周期修复仍有疑问：PC市场经历库存调整后虽有恢复迹象，但复苏强度和持续性仍是争议点。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在这种背景下，只要英特尔收入和指引明显高于预期，就足以触发空头回补和多头重新定价。盘后涨超10%，反映的正是“预期修正”而不是市场已经完全确认公司长期转型成功。&lt;/p&gt;
+&lt;p&gt;不过，从财报信号看，英特尔目前的核心看点仍是“修复”而非“全面反转”。营收超预期证明短期需求、订单执行或产品出货好于预期，但投资者接下来仍会紧盯毛利率、现金流、数据中心竞争力、AI相关布局以及代工业务投入回报等更深层指标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压</title><link>https://wallstreetcn.com/articles/3777754</link><guid>076d9a6abb320154811f50a17ad6d5b5e3f1814653f79b00e47b0c16ab2db584</guid><pubDate>Thu, 23 Jul 2026 14:32:03 GMT</pubDate><description>&lt;p&gt;科技巨头在人工智能领域的资本投入再度刷新上限，引发市场对回报前景的疑虑，Alphabet强劲的整体财报业绩未能平息这一担忧。&lt;/p&gt;
 &lt;p&gt;周四，美股盘中，纳指跌幅扩大至2%，标普跌1.1%，道指跌超1%，银行指数跌超1.6%，特斯拉跌超13%。公司二季度营收虽大增26%，但盈利却下滑18%，远低于市场预期，同时自由现金流由正转负。特斯拉对此解释称，目前正处于史上最大规模的投资扩张阶段。&lt;/p&gt;
 &lt;p&gt;科技巨头为人工智能基础设施融资而涌入市场的长期债券，正与美国国债争夺同一批买家，进一步推高本已高企的长端利率。美国30年期国债收益率已连续多日维持在5%上方，创2007年金融危机以来最长纪录。与此同时，胡塞武装袭击沙特油轮引发供给忧虑，布伦特原油逼近每桶100美元，通胀压力再度升温，令美债市场承压。&lt;/p&gt;
 &lt;p&gt;Siebert Financial首席投资官Mark Malek在研究报告中写道：&amp;quot;AI乐观情绪依然存在，但责任已明确转移至管理层身上，未来财报电话会议的焦点将越来越多地落在投资资本回报率，而非AI远景规划。&amp;quot;&lt;/p&gt;
@@ -102,7 +149,25 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;不过，分析师对利润率前景的担忧盖过了营收亮点。伯恩斯坦分析师Callum Elliott表示，下半年利润率指引的下调&amp;quot;令雀巢这份财报失色不少&amp;quot;。&lt;/p&gt;
 水业务合资交易引入私募资本
 &lt;p&gt;在业绩发布的同时，雀巢宣布与私募股权公司Platinum Equity就旗下水业务成立一家数十亿欧元规模的合资公司，交易将为雀巢带来30亿欧元资金。&lt;/p&gt;
-&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉暴跌15%，空头单日狂赚41亿美元，散户逆势加仓</title><link>https://wallstreetcn.com/articles/3777818</link><guid>0465dfbf91cfca02fede9d2b4842e07bd698b3ba6b32b831b1da338d011e5385</guid><pubDate>Thu, 23 Jul 2026 20:25:53 GMT</pubDate><description>&lt;p&gt;特斯拉股价周四大跌，做空者收获颇丰，而围绕这家电动车制造商的分歧也随之加深。&lt;/p&gt;
+&lt;p&gt;新合资公司命名为Peranel，双方各持股50%，整体估值49亿欧元，旗下涵盖在120个国家销售的30个品牌，包括San Pellegrino、Perrier和Acqua Panna。该交易被视为雀巢持续推进资产组合优化、聚焦核心业务战略的组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一周末打通AMD全套适配：Anthropic用Claude自举而非英伟达硬件，打破CUDA“人力壁垒”</title><link>https://wallstreetcn.com/articles/3777816</link><guid>4bb982f8e338e7d4786b5560af85ca9d6ee167b35b54afcc3aba3e9b8aebadfb</guid><pubDate>Thu, 23 Jul 2026 19:42:03 GMT</pubDate><description>&lt;p&gt;Anthropic在AMD今年的AdvancingAI大会上不仅官宣了算力部署计划，还披露了一个可能改写AI芯片竞争规则的技术细节：其工程师仅用Claude模型在一个周末内自动完成了AMD Instinct MI355芯片与ROCm平台的全套适配与性能调优。&lt;/p&gt;
+&lt;p&gt;Anthropic高管Tom Brown在大会上公开表示，公司计划部署2GW的AMD Helios算力设施，并明确青睐MI355芯片。这一表态将此前市场上的合作传闻升级为高管层面的正式确认。AMD官方账号随后转发了包含Tom Brown表态的第三方推文，配文感谢其参会。&lt;/p&gt;
+&lt;p&gt;更具冲击力的是Brown披露的适配过程。团队原本预期在新硬件上启动模型会是“一个大项目”，但实际体验完全不同：一名工程师让Claude执行适配任务后让流程在周末自行运转，周一便拿到了Anthropic领先模型在该硬件上“周末期间持续攀升”的实际性能曲线。&lt;/p&gt;
+&lt;p&gt;市场观察者随即评论称：“我们已过了CUDA护城河时代。” 对投资者而言，这一突破意味着AI算力供应链的硬件锁定逻辑正在遭遇来自AI自身能力的反向冲击。当AI自身能够替代工程师完成硬件迁移中最昂贵的人力环节时，英伟达CUDA生态最根本的护城河——高昂的迁移成本正在被AI从根基上侵蚀。&lt;/p&gt;
+从传闻到官宣：Anthropic的AMD部署浮出水面
+&lt;p&gt;此前市场对Anthropic与AMD合作的认知仅停留在行业推测层面。Tom Brown在AMD技术大会上的公开站台，将合作可信度从间接信号拉升至正式确认的高度。&lt;/p&gt;
+&lt;p&gt;2GW的部署规模意味着AMD芯片在Anthropic的算力体系中扮演实质性角色，而非象征性采购。&lt;/p&gt;
+&lt;p&gt;作为ARR已达470亿美元、估值9650亿美元、已正式提交IPO申请文件的AI巨头，Anthropic正积极构建多元化算力供给体系——此前已从谷歌采购芯片及云服务，与SpaceX签署近450亿美元合作协议，并与Akamai达成18亿美元协议。AMD的正式加入进一步丰富了其算力来源。&lt;/p&gt;
+AI自举硬件适配：CUDA壁垒的“阿喀琉斯之踵”
+&lt;p&gt;比订单规模更具长期冲击力的是Anthropic展示的AI自动化适配能力。&lt;/p&gt;
+&lt;p&gt;传统上，将大模型迁移至新硬件平台需要大量工程师手动完成底层算子适配、性能调优和稳定性验证——这构成了英伟达CUDA生态壁垒的核心来源。开发者对CUDA的依赖不仅是技术惯性，更是迁移成本决定的：换平台意味着投入数月甚至数年的工程资源。&lt;/p&gt;
+&lt;p&gt;但当Claude在一个周末内完成整套适配流程时，这一逻辑的根基开始松动。Brown的描述清晰直白：一名工程师启动Claude，“让它把机器跑起来”，然后流程在周末自行运转。到周一，团队拿到的是一张性能曲线&amp;quot;持续攀升&amp;quot;的图表。整个过程仅涉及一名工程师和一台AMD提供的机架。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我们以为这会是个大项目，&amp;quot;Brown说，但实际体验&amp;quot;完全不同&amp;quot;。&lt;/p&gt;
+为何这一信号对AI芯片格局具有实质性含义
+&lt;p&gt;市场对英伟达的定价中，CUDA生态壁垒是核心溢价支撑。这一壁垒的本质不是技术的不可替代性，而是生态迁移的&amp;quot;人力成本壁垒&amp;quot;——即使竞争对手的硬件性能追平，企业仍需投入大量工程师重新适配软件栈，这笔沉没成本本身就是最高的切换门槛。&lt;/p&gt;
+&lt;p&gt;AI自动化适配直接攻击的正是这道壁垒的成本侧。如果前沿实验室可以借助自家AI模型在数天内完成新硬件的适配与优化，硬件采购决策将更多取决于性能、价格和供应可得性，而非生态锁定。用分析师Austin Lyons的话来说：“我们已过了CUDA护城河时代。”&lt;/p&gt;
+&lt;p&gt;对Anthropic而言，这一能力赋予其算力采购策略更大的灵活性。SemiAnalysis最新分析指出，Anthropic的推理基础设施毛利率已从38%跃升至逾70%，并在第二季度实现营业利润盈利。将AMD纳入算力供应商体系，不仅分散了供应链风险，也为急剧膨胀的推理需求提供了更具性价比的硬件选项。&lt;/p&gt;
+&lt;p&gt;对AMD而言，获得Anthropic这一前沿实验室的正式部署承诺，是其数据中心GPU路线图的关键验证。而AI自动化适配工具的加持，降低了更多潜在客户尝试AMD平台的工程门槛——这可能是比单一订单更具长期价值的战略资产。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis分析师指出，Anthropic此前在编程数据上的激进投入使其模型能力领先，而今这种能力正在反向赋能其自身的硬件选择自由度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉暴跌15%，空头单日狂赚41亿美元，散户逆势加仓</title><link>https://wallstreetcn.com/articles/3777818</link><guid>0465dfbf91cfca02fede9d2b4842e07bd698b3ba6b32b831b1da338d011e5385</guid><pubDate>Thu, 23 Jul 2026 20:25:53 GMT</pubDate><description>&lt;p&gt;特斯拉股价周四大跌，做空者收获颇丰，而围绕这家电动车制造商的分歧也随之加深。&lt;/p&gt;
 &lt;p&gt;特斯拉股价周四盘中一度下挫15%，创逾一年来最大单日跌幅，此前该公司第二季度利润逊于预期，市场对其人工智能与机器人业务前景的疑虑再度升温。&lt;/p&gt;
 &lt;p&gt;据S3 Partners董事总经理Ihor Dusaniwsky测算，&lt;strong&gt;此轮抛售令做空者单日按市值计算的账面收益约达41.2亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受年初至今累计跌幅近30%拖累，特斯拉做空者今年迄今的账面收益已累计约达89.2亿美元。&lt;/p&gt;
@@ -202,35 +267,7 @@ AI与云业务成为增长主引擎
 AI热潮推升需求，供应链仍是挑战
 &lt;p&gt;尽管AI基础设施需求持续爆发，供应链压力仍未明显缓解。&lt;/p&gt;
 &lt;p&gt;随着AI企业持续扩建数据中心、集中采购内存芯片，相关芯片价格快速上涨，电信设备厂商普遍面临成本压力。爱立信上周已就此发出利润率预警，&lt;strong&gt;而诺基亚则表示，目前需求依然强劲，供应仍是限制行业增长的主要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国启动车门安全新规制定程序，矛头直指特斯拉电动门设计</title><link>https://wallstreetcn.com/articles/3777815</link><guid>3694c4c2c238866615cec4ee9a98aaf4e8d40be45efe3babedd7fc7d9ae0f7d9</guid><pubDate>Thu, 23 Jul 2026 19:57:19 GMT</pubDate><description>&lt;p&gt;美国汽车安全监管机构正式启动车门逃生系统联邦法规的制定程序，此举将对特斯拉等采用电动隐藏式门把手的车企产生深远影响。&lt;/p&gt;
-&lt;p&gt;美国国家公路交通安全管理局（NHTSA）周四表示，已批准一份请愿申请，&lt;strong&gt;将开始推进新联邦法规的制定，要求所有机动车辆配备&amp;quot;可靠且显而易见的车门逃生系统&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一旦法规最终落地，所有在美销售的新车均须符合相关要求。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一决定背后，是一系列与特斯拉电动门设计相关的致命事故。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博此前报道，在至少十二起碰撞事故中，共有至少15人因无法打开失去电力的特斯拉车门而在随后的火灾中遇难或受重伤。车门安全问题的监管压力由此持续升温。&lt;/p&gt;
-&lt;p&gt;特斯拉周三盘后公布&lt;a href="https://wallstreetcn.com/articles/3777719?keyword=%E7%89%B9%E6%96%AF%E6%8B%89"&gt;Q2财报&lt;/a&gt;，盈利降18%远逊预期，现金流转负，市场对公司AI和机器人业务担忧升温。截至发稿，特斯拉周四盘中下跌14.32%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-监管背景：电动门设计引发致命隐患
-
-&lt;p&gt;特斯拉及部分其他汽车制造商采用的隐藏式电动门把手设计，在车辆断电后会出现无法正常开启的问题。&lt;/p&gt;
-&lt;p&gt;据彭博此前报道，在多起高速碰撞事故中，乘员在撞击后幸存，却因无法打开车门逃脱而在随后的火灾中死亡或身受重伤。&lt;/p&gt;
-&lt;p&gt;去年底特斯拉首席执行官马斯克在公司内部已有人提出安全顾虑的情况下，仍坚持推行电动门设计。&lt;/p&gt;
-&lt;p&gt;今年11月，一名硅谷工程师向NHTSA提交请愿书，要求该机构出台新的联邦安全标准，以应对电子或&amp;quot;隐藏式&amp;quot;车门锁定及释放系统带来的安全风险。&lt;/p&gt;
-&lt;p&gt;请愿书指出，此类系统在电动汽车中普遍存在，形成了&amp;quot;危及生命的关键安全漏洞&amp;quot;。&lt;/p&gt;
-
-监管机构：启动立法程序，但最终法规仍需数年
-
-&lt;p&gt;NHTSA在周四的监管文件中表示，已批准上述请愿，并将启动规则制定程序。与此同时，该机构拒绝了另一份要求对安全缺陷展开调查的独立请愿。&lt;/p&gt;
-&lt;p&gt;汽车安全中心执行主任Michael Brooks表示，NHTSA启动规则制定程序&amp;quot;意义重大，因为这是修订或新建联邦机动车安全标准、强化电动门及逃生相关规定的必要第一步&amp;quot;。&lt;/p&gt;
-&lt;p&gt;但他同时指出，考虑到规则制定流程的漫长周期，&lt;strong&gt;&amp;quot;即便推进顺利，预计制造商的最终合规期限也不会早于2030年&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该机构表示，将根据规则制定过程中形成的信息，再行决定是否正式出台新要求。业界通常会对新增成本的安全法规提出抗议，这也意味着整个流程可能面临较大阻力。&lt;/p&gt;
-
-立法层面：国会议员同步推进相关法案
-
-&lt;p&gt;在监管机构启动程序的同时，国会层面亦有所行动。&lt;/p&gt;
-&lt;p&gt;美国众议员、伊利诺伊州民主党议员Robin Kelly今年早些时候提出立法，要求新车配备手动车门释放装置，并为急救人员在车辆断电时提供进入车辆的途径。&lt;/p&gt;
-&lt;p&gt;此外，NHTSA于今年9月已就多起儿童被困车内的投诉，对特定型号特斯拉Model Y车辆展开缺陷调查。&lt;/p&gt;
-&lt;p&gt;上述多管齐下的监管与立法压力，正在加速将电动门安全问题推向整个汽车行业的议事日程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面向未来，&lt;strong&gt;诺基亚计划继续扩大光纤制造能力，并扩建半导体相关生产设施，为预计将在2027年以后持续释放的AI基础设施需求提前布局。&lt;/strong&gt;随着公司加速向AI数据中心网络供应商转型，市场后续关注的重点将从需求是否存在，转向供应链能否跟上快速增长的订单节奏。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧央行行长拉加德：留任至少至年底，能源冲击将推高通胀至2027年上半年</title><link>https://wallstreetcn.com/articles/3777804</link><guid>6de52ae9130c49b9c594fdb69746ac24255a4a8a091a2fe55d9c2ae57b2c73bd</guid><pubDate>Thu, 23 Jul 2026 15:15:32 GMT</pubDate><description>&lt;p&gt;欧洲央行行长克里斯蒂娜·拉加德周四明确表示，她不会在2027年前离任，同时警告能源冲击将使&lt;strong&gt;欧元区通胀在2027年上半年前持续高于目标水平，经济增长前景则面临下行风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在货币政策立场上，欧洲央行维持现有利率不变，本次决定获得全票通过，&lt;strong&gt;拉加德表示&amp;quot;今天没有推动加息的力量&amp;quot;，并强调9月将有更多数据可供参考。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，她表示会议已删除辛特拉评估中的&amp;quot;更平衡&amp;quot;措辞，&lt;strong&gt;风险评估已回到6月时的状态&lt;/strong&gt;，地缘政治局势的再度升级是主要背景。&lt;/p&gt;
 &lt;p&gt;在市场高度关注的任期问题上，拉加德明确表示&lt;strong&gt;&amp;quot;在2027年之前，你们不会看不到我&amp;quot;&lt;/strong&gt;，但她同时保留了在任期届满前离职的可能性，称&amp;quot;不喜欢在任何特定情况下被框定&amp;quot;。这一表态有助于缓解近期围绕其提前卸任的市场猜测。&lt;/p&gt;
