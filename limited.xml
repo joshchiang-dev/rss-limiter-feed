@@ -1,5 +1,203 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 00:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻</title><link>https://wallstreetcn.com/articles/3777718</link><guid>cbbf39d9aae46d3da9c705a6591da4ee437251e51d405dee4c6141754aa3d850</guid><pubDate>Wed, 22 Jul 2026 23:55:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 01:29:40 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌电话会：警告现金流压力将持续，但"需求仍超过投资增速"，Gemini 4已启动训练</title><link>https://wallstreetcn.com/articles/3777723</link><guid>dd8a65f46389f7e28a18eb742961a366e59d85fab6bb4741c4316daa664ee1d0</guid><pubDate>Thu, 23 Jul 2026 01:05:25 GMT</pubDate><description>&lt;p&gt;二季度云业务、搜索广告和AI产品共同推动收入增长，但为争夺算力与模型能力，公司正以更高资本开支和短期现金流压力，换取未来AI基础设施与企业服务市场份额。&lt;/p&gt;
+&lt;p&gt;7月22日美股盘后，谷歌最新公布的财报数据显示，谷歌二季度实现总营收1198亿美元，同比增长24%；营业利润达到408亿美元，同比增长30%。此外，受旗下投资组合（包括Anthropic和SpaceX等）的股权收益暴增带动，公司净利润实现惊人的四倍增长。&lt;/p&gt;
+&lt;p&gt;在一片大好的营收数据背后，市场与投资者的目光则紧紧锁定了两个核心：&lt;strong&gt;一是AI究竟为谷歌带来了多少实际的业务增量，二是这场似乎深不见底的“AI军备竞赛”究竟要烧掉多少钱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谷歌二季度资本开支达到449亿美元，其中绝大部分投向AI技术基础设施。公司同时将2026年全年资本开支指引由此前的1800亿至1900亿美元，上调至1950亿至2050亿美元。受此影响，公司当季自由现金流转为负59亿美元，而去年同期及过去多年，谷歌一直以强劲自由现金流著称。&lt;/p&gt;
+&lt;p&gt;财报公布之后，CEO桑达尔·皮查伊（Sundar Pichai）、首席商务官菲利普·辛德勒（Philipp Schindler）及CFO阿纳特·阿什肯纳齐（Anat Ashkenazi）出席谷歌Q2财报电话会。皮查伊在电话会上称：&lt;strong&gt;“我们的AI投资正在重新定义整个业务中可能实现的事情。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面对现金流罕见转负，CFO阿什肯纳齐预计，&lt;strong&gt;AI基础设施投入将持续对利润表和现金流构成压力&lt;/strong&gt;。面对摩根士丹利分析师关于GenAI投资回报率（ROIC）的追问，皮查伊给出了他最核心的判断：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我觉得我们处于非常非常早期的阶段，这是跨越多个领域的结构性转变……就像云本身，企业工作负载中有很小比例迁移到了云端。现在想想真正AI原生、AI赋能的工作负载占比是多少——感觉又是非常非常早期。&lt;strong&gt;从过去一年来看，如果说有什么变化的话，我们对未来的机会变得更加乐观了&lt;/strong&gt;。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+云收入增长82%，5140亿美元积压合同成为未来兑现关键
+&lt;p&gt;Google Cloud成为本季度最强劲的增长引擎。&lt;/p&gt;
+&lt;p&gt;财报显示，Google Cloud二季度营收248亿美元，同比增长82%；营业利润88亿美元，同比增长超过两倍，营业利润率从上年同期的20.7%升至35.6%。&lt;/p&gt;
+&lt;p&gt;皮查伊称，云业务增长“由对AI基础设施和AI解决方案的强劲需求推动”。他表示，Google Cloud的增长并非来自单一产品或少数客户，而是覆盖芯片、模型、数据、安全及智能体平台的“全栈”AI服务需求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更受市场关注的是，Google Cloud积压合同金额环比增加逾500亿美元，达到5140亿美元。&lt;/strong&gt;CFO阿什肯纳齐表示，这些积压合同中绝大部分是来自广泛客户群的常规GCP合同，公司预计未来24个月将确认其中“略高于50%”的收入。&lt;/p&gt;
+&lt;p&gt;皮查伊表示，企业客户正在扩大既有承诺的使用规模，且超出原有合同承诺的幅度超过50%。他说：“我们正在赢得新客户，也在加深与现有客户的关系。”&lt;/p&gt;
+&lt;p&gt;在企业AI产品方面，谷歌称，近90%的《财富》100强企业已在使用Gemini Enterprise；过去12个月中，近500家云客户分别处理了超过1万亿个Token，超过2000家企业客户分别消耗了1000亿个以上Token。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，巨额积压合同并不意味着收入会立即转化。&lt;/strong&gt;阿什肯纳齐特别提到，谷歌本季度首次开始确认向客户数据中心交付TPU系统所带来的收入，但今年仅会确认现有TPU系统销售协议中的较小部分收入，“绝大部分”相关收入将在2027年实现。&lt;/p&gt;
+资本开支再上调，短期现金流与利润率承压
+&lt;p&gt;谷歌本季度449亿美元资本开支中，约60%用于服务器，约40%用于数据中心和网络设备。公司称，这些投入的绝大部分均服务于AI基础设施扩张。&lt;/p&gt;
+&lt;p&gt;阿什肯纳齐表示，公司将继续面临算力供给紧张问题：&lt;strong&gt;“我们仍处在一个供给受限的环境中。”她称，尽管谷歌过去三年显著扩充了算力容量，“需求仍然超过了投资增长速度”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在这一背景下，谷歌决定进一步提高资本开支预算。阿什肯纳齐称，此次上调全年资本开支指引，“主要是由于为满足不断增长的需求而加速交付算力容量”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;她同时警告，AI基础设施投入将持续对利润表和现金流构成压力：“我们预计，自由现金流将继续受到技术基础设施投资的压力。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;财报显示，二季度，谷歌经营现金流为391亿美元，但由于449亿美元资本开支，&lt;strong&gt;公司自由现金流为负59亿美元&lt;/strong&gt;；过去12个月自由现金流仍为533亿美元。截至季度末，公司持有现金及有价证券2425亿美元，其中包括871亿美元有价股票证券；长期债务为982亿美元。&lt;/p&gt;
+&lt;p&gt;对于投资者担忧的投入回报问题，皮查伊表示，公司仍将以回报率为核心约束条件。&lt;strong&gt;“只要我们看到有吸引力的投资回报机会，我们就会继续投资。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他还称，谷歌在分配算力资源时，首要任务是确保公司“能够在前沿AGI开发中保持竞争力”；在此基础上，算力将优先服务于搜索、YouTube、Gemini以及云端企业产品。&lt;/p&gt;
+&lt;p&gt;面对疯狂的支出与短期的现金流压力，皮查伊向市场传递了坚定的信号：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“当面对这样一个多年期的机会时，我们在带来更多产能的同时，其在交易的生命周期内将带来高度的投资回报率（ROI）。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+为抢占客户，三季度将使用第三方算力“过桥”
+&lt;p&gt;谷歌承认，内部算力建设速度暂时无法完全满足客户需求。&lt;/p&gt;
+&lt;p&gt;阿什肯纳齐表示，公司将在第三季度扩大第三方算力的使用，作为内部基础设施建成前的“过桥策略”。这将帮助公司在短期内承接更多大型云客户和多年度合同，但也会带来成本上升。&lt;/p&gt;
+&lt;p&gt;她表示：&lt;strong&gt;“这一策略能够让我们继续扩大客户基础，并获取更大的总体价值。”但由于第三方容量成本较高，这将“在短期内对利润率造成温和压力”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;皮查伊进一步解释称，对于部分非常大的云客户，公司愿意接受短期数月较高的服务成本，以换取未来多年合同的回报。“在一项多年期机会中，当更多容量上线后，利润率和回报都将非常有吸引力。”&lt;/p&gt;
+&lt;p&gt;除第三方算力带来的压力外，谷歌还预计，持续增加的折旧、数据中心能源成本，以及对AI和云计算人才的招聘投入，都将继续抬高费用水平。公司还提到，Wiz业务整合将在2026年给云业务利润率带来一定短期压力。&lt;/p&gt;
+搜索收入增长17%，AI搜索开始创造新增商业化空间
+&lt;p&gt;在AI可能冲击传统搜索业务的担忧下，谷歌的核心广告业务仍保持增长。&lt;/p&gt;
+&lt;p&gt;财报显示，二季度，Google Search及其他广告收入为633亿美元，同比增长17%；YouTube广告收入111亿美元，同比增长13%；Google Services总收入945亿美元，同比增长15%。其中，零售和金融是搜索广告增长的主要驱动力。&lt;/p&gt;
+&lt;p&gt;皮查伊表示，AI功能正在推动用户提出更多、更复杂的搜索请求。自去年10月全球扩展以来，AI Mode月活跃用户已超过10亿；Gemini App月活跃用户达到9.5亿，日活跃用户同比增长三倍。&lt;/p&gt;
+&lt;p&gt;他称，AI Overviews和AI Mode正形成“一体化搜索体验”，并且正在带来搜索查询量的增量增长。&lt;strong&gt;“和AI Overviews一样，AI Mode正在推动整体搜索查询量的增量增长。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首席商务官Philipp Schindler表示，Gemini已被深度整合进广告基础设施，使公司能够理解更长、更复杂的用户搜索意图，并匹配更相关的广告。&lt;/p&gt;
+&lt;p&gt;他称：&lt;strong&gt;“Gemini显著增强了我们理解用户需求并匹配合适广告的能力。”&lt;/strong&gt;以购物广告为例，公司通过AI改善广告相关性后，高相关广告展示效果提升20%。&lt;/p&gt;
+&lt;p&gt;谷歌还在AI搜索中测试新的广告形式，包括基于对话内容生成的文本广告链接、旅行规划中的直接优惠，以及在答案列表中插入明确标识的赞助链接。&lt;/p&gt;
+&lt;p&gt;截至二季度，已有50万广告主采用AI Max工具。谷歌称，使用AI Max或P Max等AI广告工具的广告主，平均可在类似广告支出回报率下，获得15%更高的转化或转化价值。&lt;/p&gt;
+Gemini 4启动“最具雄心”的训练，模型发布节奏将加快
+&lt;p&gt;在外界持续关注Google能否维持大模型前沿竞争力之际，皮查伊回应称，公司正在加快模型迭代，并将更多算力投入Gemini 4训练。&lt;/p&gt;
+&lt;p&gt;谷歌本周发布了Gemini 3.6 Flash、Gemini 3.5 Flashlight和Gemini 3.5 Flash Cyber等模型。皮查伊强调，Flash系列在性能、成本、可靠性和响应速度之间取得平衡，是目前需求最旺盛的“主力模型”。&lt;/p&gt;
+&lt;p&gt;他表示：&lt;strong&gt;“我们已经启动了Gemini 4迄今最具雄心的预训练。”&lt;/strong&gt;对于市场关注的编程和智能体编程能力，皮查伊承认Google仍有提升空间，但称团队正在快速迭代。&lt;/p&gt;
+&lt;p&gt;“我们非常致力于、也非常有信心保持在前沿。”皮查伊表示，&lt;strong&gt;Gemini 4将成为更大规模的基础模型，谷歌希望其在发布时能够参与最前沿模型竞争。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他还称，未来模型发布节奏将明显加快：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“随着Gemini 4的构建，你们会看到我们继续提速，模型发布接近按月推进将成为我们路线图的一部分。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;截至二季度，超过900万开发者每月通过谷歌的API和开发者产品使用其模型；模型API处理量达到每分钟约220亿Token，较上一季度的160亿Token进一步增长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谷歌 2026年第二季度财报电话会议全文实录如下（由AI辅助翻译）：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;活动日期：&lt;/strong&gt;2026年7月22日&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司名称：&lt;/strong&gt;谷歌&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;活动描述：&lt;/strong&gt;2026年第二季度财报电话会议&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源：&lt;/strong&gt;谷歌&lt;/p&gt;
+会议陈述
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欢迎各位。感谢大家耐心等候，欢迎参加谷歌 2026年第二季度财报电话会议。&lt;strong&gt;目前所有参会者均处于仅收听模式。&lt;/strong&gt; 在演讲嘉宾发言结束后，将进行问答环节。（接线员说明）现在，我将把会议移交给今天的演讲嘉宾——投资者关系负责人 &lt;strong&gt;Jim Friedland&lt;/strong&gt;。请开始。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;投资者关系负责人 James Friedland：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谢谢。大家下午好，欢迎参加谷歌 2026年第二季度财报电话会议。今天与我们一同出席的有 &lt;strong&gt;Sundar Pichai、Philipp Schindler 以及 Anat 阿什肯纳齐&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;下面，我将简要说明&lt;strong&gt;安全港声明&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们今天就公司业务、运营及财务业绩所作的部分陈述，&lt;strong&gt;可能被视为前瞻性陈述&lt;/strong&gt;。此类陈述基于当前的预期和假设，&lt;strong&gt;受到若干风险和不确定因素的影响，实际结果可能与之存在重大差异。&lt;/strong&gt; 请参阅我们提交的 &lt;strong&gt;10-K 及 10-Q 表格&lt;/strong&gt;，包括其中的风险因素部分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们没有义务更新任何前瞻性陈述。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在本次电话会议中，我们将同时呈现 &lt;strong&gt;GAAP（通用会计准则）&lt;/strong&gt; 和 &lt;strong&gt;非GAAP 财务指标&lt;/strong&gt;。非GAAP 与 GAAP 指标的调节说明已包含在今天的财报新闻稿中，该新闻稿已对外发布，可通过我们的投资者关系网站 &lt;strong&gt;abc.xyz/investor&lt;/strong&gt; 公开获取。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;除非另有说明，我们的所有评论均基于同比口径进行比较。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在，我将把会议移交给 &lt;strong&gt;Sundar&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;桑达尔·皮查伊，首席执行官：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大家好，感谢各位的参与。我们正处于令人振奋的发展势头之中。谷歌营收同比增长24%。我们在AI领域的投资正在重新定义我们业务各个层面的可能性。我们的增长势头始于搜索——用户正在通过AI概览和AI模式享受一体化的无缝搜索体验。搜索及其他业务营收增长17%，YouTube广告营收增长13%。&lt;strong&gt;云业务营收增长82%&lt;/strong&gt;，这得益于AI基础设施和AI解决方案的强劲需求。云业务积压订单增至&lt;strong&gt;5140亿美元&lt;/strong&gt;。看到Gemini企业版被广泛采用，&lt;strong&gt;财富100强企业中近90%正在使用&lt;/strong&gt;，这令人倍感欣慰。&lt;/p&gt;
+&lt;p&gt;今天，我将重点介绍我们在AI方面的进展、以搜索和YouTube为核心的全球产品布局、谷歌云的领导地位，以及我们的长期战略押注。&lt;/p&gt;
+&lt;p&gt;首先是AI。昨天，我们发布了新模型——&lt;strong&gt;Gemini 3.6 Flash和3.5 Flashlight&lt;/strong&gt;，这两款模型兼具成本效益高和高效能的特点。我们的主力产品Gemini Flash系列需求量极大，因为它在性能与成本之间找到了最佳平衡点。我们还发布了&lt;strong&gt;Gemini 3.5 Flash Cyber&lt;/strong&gt;，这让我非常兴奋。它与我们的核心安全智能体配合使用，能够发现并修复漏洞，其前沿性能可媲美体量大得多的网络安全模型。&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Pro目前正在测试中，我们的团队已经在构建下一代模型。我们已经启动了迄今为止&lt;strong&gt;最雄心勃勃的Gemini 4预训练运行&lt;/strong&gt;，并对在前沿领域所取得的进展感到振奋。对我们模型的需求正在转化为开发者和企业客户强劲的token使用量，我们持续处于供不应求的状态，这正是发展势头强劲、快速普及的有力佐证。&lt;strong&gt;每月有超过900万开发者&lt;/strong&gt;通过我们的API和核心开发者产品使用我们的模型进行构建。我们的模型API目前每分钟处理约&lt;strong&gt;220亿个token&lt;/strong&gt;，较上一季度的160亿大幅提升。&lt;/p&gt;
+&lt;p&gt;此外，本季度我们推出了&lt;strong&gt;Omni&lt;/strong&gt;，它允许用户从任意输入创作任何内容，并以视频为起点。自5月份在IO大会上发布以来，Gemini应用上每日活跃创作视频的用户数量增长了&lt;strong&gt;40%&lt;/strong&gt;。我们的Gemma开源模型系列体量小巧，可在本地设备上运行，广受欢迎。这些模型累计下载量已超过&lt;strong&gt;9亿次&lt;/strong&gt;，我们最新的Gemini 4模型自4月份发布以来下载量已超过&lt;strong&gt;3亿次&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们的智能体开发平台&lt;strong&gt;Antigravity&lt;/strong&gt;让任何人都能在智能体优先的时代进行构建，每周活跃用户超过&lt;strong&gt;240万&lt;/strong&gt;。Antigravity是面向用户和企业的强大工具，也彻底加速了我们内部的构建方式。仅举一例：Chrome团队的一个小组目前有望将交付速度提升&lt;strong&gt;8倍&lt;/strong&gt;，通过模型驱动的重构，将原本两年的时间线压缩至三个月。&lt;/p&gt;
+&lt;p&gt;接下来谈谈我们的全球产品布局——它将AI带给了比任何其他公司都更多的用户。&lt;/p&gt;
+&lt;p&gt;首先是&lt;strong&gt;搜索&lt;/strong&gt;。AI持续推动着一个扩张性的时代，新体验与用户产生强烈共鸣，并推动了查询量的增长。作为一名狂热的足球迷，今年世界杯期间搜索使用量创下历史新高，这让我尤为兴奋。这真实地体现了人们在重要时刻对谷歌的高度依赖。我们持续让搜索变得更有帮助、更加直观。我们近期将AI概览与AI模式整合为一体化的无缝搜索体验，将我们的前沿能力与最优质的网络内容相结合。我们还在持续将更多前沿能力融入搜索，包括智能体、个人智能和笔记本功能。&lt;/p&gt;
+&lt;p&gt;我们的AI赋能功能正在推动搜索使用量的增长。自去年10月在全球范围内扩展AI模式以来，我们已超越&lt;strong&gt;每月10亿活跃用户&lt;/strong&gt;。与AI概览一样，AI模式也在整体上推动搜索查询量的增量增长，我们现在每周通过搜索中的AI功能向网站发送&lt;strong&gt;数十亿次点击&lt;/strong&gt;。随着我们处理更多此类查询，我们持续提升效率。得益于我们的工程和硬件优化，&lt;strong&gt;本季度AI模式响应成本降至上线以来的最低水平&lt;/strong&gt;，与此同时我们还引入了更先进的AI能力。&lt;/p&gt;
+&lt;p&gt;菲利普稍后还会进一步介绍我们如何在广告体验方面进行创新。&lt;/p&gt;
+&lt;p&gt;接下来是&lt;strong&gt;Gemini应用&lt;/strong&gt;，目前月活跃用户已达&lt;strong&gt;9.5亿&lt;/strong&gt;，过去一年日活跃用户增长了&lt;strong&gt;三倍&lt;/strong&gt;。用户非常喜爱Daily Brief等新智能体功能，以及我们的个性化智能体Gemini Spar——该功能现已在美国及国际市场上线。我们一直在以惊人的速度持续推出这样实用的新功能。&lt;/p&gt;
+&lt;p&gt;接下来是&lt;strong&gt;YouTube&lt;/strong&gt;。每个月，当世界上发生重大事件时，全世界都会转向YouTube。在2026年FIFA世界杯期间，全球超过&lt;strong&gt;17亿独立观众&lt;/strong&gt;在YouTube上观看了与世界杯相关的视频，这令人叹为观止。我们还将对话式AI的力量直接引入YouTube体验。&lt;strong&gt;Ask YouTube&lt;/strong&gt;利用我们的Gemini模型，让用户能够就单个视频提出复杂问题、获取要点摘要，并直接跳转到视频中的相关片段。早期参与数据令人鼓舞——2026年6月，超过&lt;strong&gt;1.4亿用户&lt;/strong&gt;在观看页面与Ask YouTube进行了互动。我们正在将这种Ask体验进一步延伸至YouTube更广泛的搜索体验中。&lt;/p&gt;
+&lt;p&gt;接下来是&lt;strong&gt;云业务&lt;/strong&gt;。我们持续的增长势头得益于我们集成化的AI产品组合，涵盖芯片、模型、数据、安全和智能体平台，这些产品均经过专门设计，可协同工作。Gemini持续成为增长的核心驱动力，并深度集成于我们所有云产品之中，包括Gemini企业版、数据分析、网络安全和Google Workspace。我们正在看到跨产品、客户、地域和行业的强劲多元化需求。&lt;/p&gt;
+&lt;p&gt;我们的产品差异化正在从三个维度推动增长：&lt;strong&gt;我们正在赢得新客户&lt;/strong&gt;，客户获取速度同比翻倍以上；&lt;strong&gt;我们正在深化与现有客户的关系&lt;/strong&gt;，他们正在扩大使用量，超出承诺用量&lt;strong&gt;50%以上&lt;/strong&gt;，较上季度也有所加速；&lt;strong&gt;我们正在通过合作伙伴推动增长&lt;/strong&gt;，Google Cloud Marketplace上的交易量同比增长超过&lt;strong&gt;7倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们增长最强劲的部分之一来自Gemini企业平台的快速普及。它的差异化优势在于：易于使用的智能体构建和流程自动化工具、与企业系统的连接能力、成本管理和治理工具。&lt;/p&gt;
+&lt;p&gt;第二季度，我们用于构建和部署企业AI智能体的框架——&lt;strong&gt;Agent Development Kit&lt;/strong&gt;，累计下载量达到近&lt;strong&gt;7000万次&lt;/strong&gt;。如前所述，财富100强企业中近90%正在使用Gemini企业版。我们的客户包括：&lt;strong&gt;百事公司&lt;/strong&gt;（AI与分析解决方案）、&lt;strong&gt;英特尔&lt;/strong&gt;（核心流程优化）、&lt;strong&gt;汇丰银行&lt;/strong&gt;（财富管理）、&lt;strong&gt;加拿大贝尔&lt;/strong&gt;（客户互动）、&lt;strong&gt;梅西百货&lt;/strong&gt;（商业体验）以及&lt;strong&gt;Signal Aduna&lt;/strong&gt;（知识管理）。&lt;/p&gt;
+&lt;p&gt;从更宏观的角度来看，Gemini正在改变数百万企业使用AI的方式——构建定制化智能体、自动化流程、提升网络安全、管理客户关系、优化数据分析、高效协作等等。所有这些势头都在推动我们付费token使用量的增长。&lt;strong&gt;过去一年，近500家云客户各自处理的token数量均超过1万亿&lt;/strong&gt;，而实际使用深度远不止于此。过去12个月，超过&lt;strong&gt;2000家企业&lt;/strong&gt;消耗了超过&lt;strong&gt;1000亿个token&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们还看到市场对我们&lt;strong&gt;AI赋能安全平台&lt;/strong&gt;的强烈兴趣，其差异化在于整合了威胁情报、基于Wiz的网络响应优先级排序、AI自动化扫描、代码修复和监控。目前，&lt;strong&gt;财富100强企业中90%是Google Cloud安全用户&lt;/strong&gt;，近90%的Wiz客户正在使用AI赋能的安全功能，我们的安全平台扫描和保护的AI工作负载数量环比增长超过&lt;strong&gt;45%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们的安全工具被用于保护关键基础设施，包括摩根士丹利等金融服务机构、电信接线员、德克萨斯儿童医院等医疗机构、Atlassian等软件公司，以及多个政府机构。借助我们全新的&lt;strong&gt;Google AI威胁防御&lt;/strong&gt;，我们非常期待通过全新的网络安全模型和代码智能体，帮助客户抵御AI威胁。&lt;/p&gt;
+&lt;p&gt;所有这一切都由我们领先的&lt;strong&gt;AI基础设施&lt;/strong&gt;提供支撑。我们提供业界最全面的产品系列，涵盖谷歌和英伟达的产品，包括全新的英伟达平台以及TPU 8t和8i，可提供出色的性价比。在此基础上，让我特别介绍三项独特产品：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一&lt;/strong&gt;，我们的&lt;strong&gt;Vergo网络&lt;/strong&gt;，专为满足现代大规模AI工作负载的需求而设计，允许客户将跨多个数据中心站点的&lt;strong&gt;100万个AI加速器&lt;/strong&gt;连接成一台统一的超级计算机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二&lt;/strong&gt;，我们的软件栈原生支持JAX、PyTorch、vLLM和SGLang，实现工作负载在GPU和TPU之间的可移植性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三&lt;/strong&gt;，我们全新的&lt;strong&gt;智能体优化CPU&lt;/strong&gt;，与同类产品相比每美元性能提升&lt;strong&gt;30%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们正在看到来自各方对AI基础设施产品的强劲需求增长，包括：Ineffable Intelligence等领先实验室、新一代AI构建者、Deutsche Börse Group等金融服务机构、辉瑞和罗氏等制药公司，以及World Labs等机器人和空间智能公司。&lt;/p&gt;
+&lt;p&gt;我们将继续推进我们的战略，即投资于有潜力的公司和内部项目，将前沿AI研究转化为现实应用。我们的其他战略押注也取得了令人振奋的进展。&lt;strong&gt;Waymo&lt;/strong&gt;向公众乘客推出了其最新车辆，这是首款搭载第六代Waymo驾驶系统的车辆，将在未来几个月内迎接更多乘客。&lt;strong&gt;Wing&lt;/strong&gt;已安全完成超过&lt;strong&gt;100万次&lt;/strong&gt;家庭配送，并持续通过与沃尔玛、Todash和棒约翰的合作扩大业务版图。在健康和药物研发领域，&lt;strong&gt;Isomorphic Labs&lt;/strong&gt;完成了超过&lt;strong&gt;20亿美元&lt;/strong&gt;的融资，以支持其AI药物设计引擎、全球化扩张以及推进其候选药物管线。&lt;/p&gt;
+&lt;p&gt;2026年上半年真的是非凡的半年，而更多精彩还在后面。感谢我们全球所有员工和合作伙伴本季度所付出的卓越努力。接下来，有请菲利普。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;菲利普·辛德勒，高级副总裁兼首席商务官：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谢谢你，桑达尔，大家好。我将首先回顾谷歌服务的整体情况，重点介绍我们在搜索、YouTube以及合作伙伴关系方面的发展势头。&lt;/p&gt;
+&lt;p&gt;本季度谷歌服务营收为&lt;strong&gt;950亿美元，同比增长15%&lt;/strong&gt;，主要由搜索业务驱动。搜索及其他业务实现了&lt;strong&gt;17%的增长&lt;/strong&gt;，其中零售和金融领域贡献最大。YouTube广告营收增长&lt;strong&gt;13%&lt;/strong&gt;，由效果广告和品牌广告共同驱动。网络广告营收同比下降1%。搜索和YouTube的强劲表现充分说明了我们在AI方面的投入如何转化为对用户和广告主可量化的实际价值。&lt;/p&gt;
+&lt;p&gt;首先来看搜索及其他业务。本季度营收超过&lt;strong&gt;630亿美元&lt;/strong&gt;。桑达尔重点提到了我们在搜索领域看到的发展势头，这直接影响着我们的广告业务。我们持续加快在整个广告基础设施中部署Gemini，以在此前提到的三个方面提升表现：&lt;strong&gt;广告质量、广告主工具以及AI用户体验&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，广告质量。&lt;/strong&gt; 在谷歌营销直播活动上，我们展示了Gemini如何提升查询理解能力，使我们能够针对以往难以变现的较长搜索词找到相关广告。我们搜索广告的核心引擎依赖于双重预测机制——在为用户提供即时价值的同时，最大化广告主可衡量的收益。&lt;strong&gt;Gemini对这一能力进行了全面强化。&lt;/strong&gt; 我们利用Gemini的高级推理能力来解析更长、更详细查询中的细微含义。以购物广告为例，我们在展示高度相关广告方面实现了&lt;strong&gt;20%的提升&lt;/strong&gt;，帮助购物者即时找到最佳匹配结果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，广告主工具。&lt;/strong&gt; 以AI Max为例，它已成为广告主全面参与我们全新AI体验的核心基础模块。目前AI Max已正式结束测试阶段，&lt;strong&gt;已有50万广告主采用&lt;/strong&gt;。那些采用AI Max或P Max等AI驱动广告系列的广告主，在相似广告支出回报率的情况下，平均可在搜索中获得&lt;strong&gt;多15%的转化量或转化价值&lt;/strong&gt;。AAA汽车俱乐部企业使用AI Max对创意素材进行个性化定制，并从日益精细化的保险搜索中捕捉增长机会，最终实现了&lt;strong&gt;转化量提升17%、每次获客成本降低11%&lt;/strong&gt;的成果。我们的生成式AI创意工具获得了强劲的采用势头，让创意开发变得更加便捷，对中小企业尤为如此。事实上，&lt;strong&gt;全球超过一半的中小企业客户&lt;/strong&gt;正在使用AI来创建或优化他们的创意素材。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，全新AI用户体验。&lt;/strong&gt; 在IO大会上，我们展示了搜索（包括AI概览和AI模式）如何作为一个完整的互联体验协同运作。从我们的业绩结果可以看出，我们在这一整体系统中的表现十分强劲。我们持续对展示AI概览的查询的变现表现感到鼓舞，即便我们已将AI概览扩展到更多商业化查询场景。在AI概览和AI模式中，用户正在提出更具体、更详细的问题，这为投放更相关的广告创造了更多机会。&lt;/p&gt;
+&lt;p&gt;在AI模式中，我们持续测试和部署一系列全新广告格式。针对文字广告，我们通过在对话中添加基于上下文的侧边链接来提升表现。&amp;quot;直接优惠&amp;quot;功能正在与IHG洲际酒店及度假村等合作伙伴那里获得越来越多的关注，即将在行程规划阶段为用户提供专属优惠。在&amp;quot;精选答案&amp;quot;功能中，我们最新推出的体验将清晰标注的赞助链接嵌入列表式回答中，目前已显现出早期用户吸引力。&lt;/p&gt;
+&lt;p&gt;再来看电商方面。我们与零售行业合作，将开源的&lt;strong&gt;通用商务协议（UCP）&lt;/strong&gt;确立为智能体商务的新标准。商家正在迅速采用UCP，Target和Steve Madden已率先上线，与此同时，新成员也相继加入UCP购物和餐饮科技委员会，共同参与推动其愿景落地。我们还宣布推出&lt;strong&gt;通用购物车&lt;/strong&gt;，允许购物者将来自不同零售商的商品添加到谷歌各服务中，并通过单次结账完成购买。&lt;/p&gt;
+&lt;p&gt;接下来谈谈YouTube。作为FIFA的优先平台合作伙伴，我们帮助全球球迷收看比赛。正如桑达尔所提到的，&lt;strong&gt;超过17亿独立观看者&lt;/strong&gt;观看了世界杯相关视频，其中&lt;strong&gt;超过5.5亿人&lt;/strong&gt;在电视上观看。这使2026年FIFA世界杯成为&lt;strong&gt;YouTube历史上观看人数最多的世界杯&lt;/strong&gt;。广告主通过FIFA频道霸屏、Gemini驱动的足球主题赞助以及比赛日首屏广告与球迷建立了深度连接。当然，也要向夺得冠军的西班牙队送上热烈祝贺。&lt;/p&gt;
+&lt;p&gt;更广泛地来看YouTube，我们推出了一系列独家创作者节目，让品牌更便捷地借助创作者的粉丝效应。我们推出了定制赞助功能，让品牌能够在YouTube上最具影响力的时刻核心位置亮相，并利用AI动态推送符合品牌目标时机的视频。品牌持续与YouTube创作者合作，触达新的受众群体。&lt;/p&gt;
+&lt;p&gt;Kate Spade通过一场YouTube创作者营销活动触达Z世代，与创作者Ellie Thuman和Hanna展开合作。通过在YouTube上综合运用多种格式的视频，该品牌实现了&lt;strong&gt;购买意愿品牌提升3.25%&lt;/strong&gt;。这种品牌资产与商业行动的独特融合，使YouTube成为一个强大的全漏斗营销平台。中小企业持续推动我们效果广告的增长，通过DemandGen等广告系列，借助我们的AI在YouTube、Shorts以及现在的谷歌地图上实现视觉化内容的规模化传播。为了在北美和欧洲吸引高价值购物者，某户外品牌使用DemandGen，与其他付费渠道相比实现了&lt;strong&gt;广告支出回报率提升70%&lt;/strong&gt;的成果。&lt;/p&gt;
+&lt;p&gt;从YouTube整体变现来看，我们在各项核心优先事项上保持持续增长。在客厅大屏端，品牌广告和效果广告均保持持续增长势头。随着&lt;strong&gt;&amp;quot;通过谷歌支付购买&amp;quot;&lt;/strong&gt;功能的上线，观看者可以直接在联网电视上完成购买，将电视屏幕打造为更强大的效果营销阵地。Shorts持续为社交和视频广告买家提供高效的营销机会。在广告业务之外，YouTube订阅业务在客厅大屏端蓬勃发展，&lt;strong&gt;其增速已超过广告业务&lt;/strong&gt;，尤其受到YouTube Music和Premium的强力驱动。&lt;/p&gt;
+&lt;p&gt;在内部，我们借助Gemini深刻改变了我们的工作方式和服务客户的方式。&lt;strong&gt;83%的销售团队&lt;/strong&gt;每周使用Gemini辅助工具，在使用定制化销售提案时，赢单率可提升&lt;strong&gt;高达20%&lt;/strong&gt;。我们的广告客户支持团队使用Gemini驱动的智能体解决方案，目前已能&lt;strong&gt;自主处理75%的支持查询&lt;/strong&gt;，从而让团队专注于解决客户最复杂的挑战。同样，我们面向中小企业的全新解决方案今年迄今已将我们的客户覆盖范围扩大了&lt;strong&gt;数十万新客户&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;最后照例谈谈合作伙伴关系。我们看到越来越多的企业从谷歌AI全栈的整合优势中受益。Booking Holdings扩大了多年期云服务承诺，并正与我们密切合作，共同推进AI驱动的广告格式。它还在部署谷歌的AI技术，以实现全新的客户体验，例如在OpenTable上提供智能体餐厅预订服务，帮助餐厅在最关键的时刻被发现并完成预订。&lt;/p&gt;
+&lt;p&gt;最后，我要感谢谷歌全体员工为我们的成功所做出的贡献，也感谢我们的客户和合作伙伴一如既往的信任。&lt;strong&gt;Anat&lt;/strong&gt;，交给你了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anat 阿什肯纳齐，首席财务官：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谢谢你，Philipp。我的评论将聚焦于第二季度的同比比较，除非我另有说明。我将首先介绍谷歌整体层面的业绩，然后再分别介绍各业务板块的业绩。最后，我会就2026年第三季度及全年展望发表一些评论。我们第二季度表现出色，&lt;strong&gt;实现了连续第12个季度的双位数营收增长&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;合并营收为&lt;strong&gt;1198亿美元&lt;/strong&gt;，按固定汇率计算同比增长&lt;strong&gt;24%&lt;/strong&gt;（或23%）。总营收成本为459亿美元，增长18%。技术成本为162亿美元，增长10%。其他营收成本为298亿美元，增长22%，主要受折旧增加、库存成本（主要来自向客户销售TPU系统）以及内容采购成本（主要用于YouTube）的推动。总运营费用增长27%至331亿美元。研发费用增长32%，主要受AI人才投资相关薪酬及折旧的驱动。&lt;/p&gt;
+&lt;p&gt;销售与营销费用增长18%，主要用于支持Gemini应用、搜索业务的投入以及薪酬支出。一般及行政费用增长24%，主要由薪酬以及若干法律及其他事项的相关费用驱动。&lt;strong&gt;运营收入增长30%至408亿美元，运营利润率为34%&lt;/strong&gt;。其他收入与支出为980亿美元，较上年同期大幅增加，主要源于我们股权证券投资组合的未实现收益。&lt;/p&gt;
+&lt;p&gt;净收入和每股收益显著增长，主要得益于我刚才提到的其他收入与支出中的未实现收益。第二季度，我们产生了强劲的&lt;strong&gt;经营性现金流391亿美元&lt;/strong&gt;，过去12个月累计为1857亿美元。第二季度&lt;strong&gt;资本支出为449亿美元&lt;/strong&gt;，绝大部分用于支持AI投资的技术基础设施建设。本季度技术基础设施投资中，约60%用于服务器，40%用于数据中心及网络设备。&lt;/p&gt;
+&lt;p&gt;受资本支出投资驱动，第二季度&lt;strong&gt;自由现金流为负59亿美元&lt;/strong&gt;。过去12个月自由现金流为533亿美元。季度末，我们持有现金及有价证券&lt;strong&gt;2425亿美元&lt;/strong&gt;，其中包括871亿美元的有价股权证券。长期债务为982亿美元。正如我们新闻稿中所提，董事会宣布对普通股派发每股&lt;strong&gt;0.22美元&lt;/strong&gt;的季度现金股息，将于9月支付。&lt;/p&gt;
+&lt;p&gt;转至各业务板块业绩，&lt;strong&gt;谷歌服务营收增长15%至945亿美元&lt;/strong&gt;，反映出搜索和订阅业务的强劲增长。总广告营收增长14%，各主要垂直行业均实现增长。我们经历了与世界杯相关的强劲广告增长，尤其是在YouTube广告方面。谷歌搜索及其他广告营收增长17%至633亿美元，零售和金融领域贡献最大。YouTube广告营收增长13%至111亿美元，受直接响应广告以及品牌广告驱动，正如Philipp此前提到的，客厅场景表现尤为突出。网络广告营收为73亿美元，下降1%。订阅、平台及设备营收本季度增长15%至129亿美元，主要得益于YouTube订阅（尤其是YouTube Music和Premium）以及Google One的强劲增长，后者受AI套餐需求的推动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谷歌服务运营收入增长20%至395亿美元，运营利润率为41.8%&lt;/strong&gt;。谷歌云业务板块第二季度表现出色，受企业AI产品和服务驱动。&lt;strong&gt;云业务营收增长82%至248亿美元&lt;/strong&gt;，主要由GCP驱动，其增速超过云业务整体水平。核心GCP、AI解决方案及AI基础设施均是重要增长驱动因素。&lt;/p&gt;
+&lt;p&gt;我们还开始确认TPU系统销售的营收——这是我们首次在第二季度将TPU系统交付至客户数据中心。即便剔除TPU系统销售的影响，云业务营收增速也实现了显著加速。&lt;strong&gt;云业务运营收入为88亿美元，同比增长超过三倍，运营利润率从去年第二季度的20.7%提升至35.6%&lt;/strong&gt;。谷歌云积压订单环比增加逾500亿美元，第二季度达到&lt;strong&gt;5140亿美元&lt;/strong&gt;。增长主要由对我们企业AI产品的强劲需求所驱动。积压订单中的大多数来自广泛客户群体的典型GCP合同，我们预计在未来24个月内将确认总积压订单中略超50%的营收。&lt;/p&gt;
+&lt;p&gt;在其他业务板块，营收为3.82亿美元，运营亏损为18亿美元，我们持续拓展Waymo业务并对重点其他业务进行投资。在谷歌层面活动中，运营亏损为58亿美元，主要由共享AI研发费用驱动。&lt;/p&gt;
+&lt;p&gt;转至2026年下半年的展望及业务表现预期。首先，就营收而言，按当前即期汇率，与第二季度1个百分点的汇率顺风相比，我们预计第三季度合并营收将面临轻微的汇率逆风，这一影响将主要体现在搜索和YouTube广告上。在谷歌服务方面，正如Philipp所提，我们持续受益于搜索创新，通过AI改善用户和广告主体验。与此同时，在第三季度，我们将开始面对去年第三季度开始的搜索业绩加速的高基数比较。&lt;/p&gt;
+&lt;p&gt;在谷歌云方面，我们看到对产品和服务的强劲需求，预计这将驱动强劲增长。如我此前所述，我们在第二季度开始向客户数据中心交付TPU系统。我们仍预计今年将确认现有TPU系统销售协议中相对较小比例的营收，并在2026年底前逐步提升。&lt;strong&gt;我们预计这些协议的绝大部分营收将在2027年实现&lt;/strong&gt;。鉴于供应受限的环境，我们计划在第三季度扩大第三方容量的使用，作为在建设更多内部容量期间的过渡策略。这一策略使我们能够持续扩大客户群并获取更大的整体价值。然而，在短期内利用这部分容量将带来一定的利润率压力。&lt;/p&gt;
+&lt;p&gt;就投资而言，&lt;strong&gt;我们将2026年全年资本支出指引区间上调至1950亿至2050亿美元&lt;/strong&gt;，高于此前1800亿至1900亿美元的估计。区间上调主要源于为满足不断增长的需求而加速扩充容量。正如我们此前所分享的，我们预计2027年资本支出将大幅增加，届时将提供更多细节。&lt;/p&gt;
+&lt;p&gt;在费用方面，技术基础设施投资的大幅增加将继续以更高折旧费用及相关数据中心运营成本（如能源）的形式对损益表形成压力。我们还预计将继续在AI和云等重点投资领域招聘人才，并持续投入营销以支持AI产品。最后，&lt;strong&gt;我们预计自由现金流将持续承压&lt;/strong&gt;，这由我们对技术基础设施的投资所驱动——这使我们能够把握AI机遇并持续创造可观回报。&lt;/p&gt;
+&lt;p&gt;第二季度再次呈现强劲态势。我们的团队持续展现出令人印象深刻的创新能力，以纪律性和执行速度推进各项工作。我想借此机会感谢全体员工对我们业绩的贡献。Sundar、Philipp和我现在将回答您的问题。&lt;/p&gt;
+&lt;strong&gt;问答环节&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt;谢谢。（操作说明）我们的第一个问题来自摩根士丹利的Brian Nowak，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brian Nowak，分析师：&lt;/strong&gt; 感谢回答我的问题。我有两个问题，一个问Sundar，一个问Anat。Sundar，随着GenAI产品和工具在市场上投入时间越来越多，投资也在持续加大，您能否给我们分享一下，与一年前相比，您对整体GenAI投资回报（ROIC）机会的规模以及回报时间的看法有何变化？然后Anat，您提到了很多关于供应产能限制的问题，我想问您一个类似的问题，关于未来资本支出的规划——您的预算理念，以及您对未来支出设定的限制，在考虑2027年应该花多少钱来弥补产能缺口时，这些方面是如何变化的？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai，首席执行官：&lt;/strong&gt; 谢谢你，Brian，这是个好问题。我确实觉得，我们现在正处于一场跨越多个领域的长期结构性变革的&lt;strong&gt;非常早期阶段&lt;/strong&gt;。在我们的核心信息业务中，当我看到前沿能力所能实现的一切，还有大量工作需要去做，才能将这些能力真正转化为面向消费者用户的实际体验。你可以想象端到端的智能体（Agent）体验，真正能为用户做更多有意义的事情。&lt;/p&gt;
+&lt;p&gt;所以这一切看起来都是&lt;strong&gt;极具潜力的机遇，执行好了将带来非凡的回报&lt;/strong&gt;。企业端同样如此，从我们的需求来看，这也反映在我们的增长率上。在我与很多CEO、很多公司的交流中，他们都还只是在触碰这里面可能性的最初阶段。我觉得，我们过去谈论云计算本身，整体工作负载中迁移到云端的比例其实很小。现在想想，真正实现AI原生和AI赋能的工作负载占比有多少——感觉同样还是&lt;strong&gt;非常非常早期&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;所以从投资回报（ROIC）的角度来说，我们采取的是&lt;strong&gt;全栈式方法&lt;/strong&gt;，我们看到了在消费者、企业和开发者等各个层面的增长势头。如果说有什么变化的话，过去这一年，我们对未来机遇&lt;strong&gt;变得更加乐观了&lt;/strong&gt;。下面交给Anat。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anat 阿什肯纳齐，首席财务官：&lt;/strong&gt; 感谢你关于我们如何看待未来资本支出以及供应限制背景下规划问题的提问。我们目前仍处于&lt;strong&gt;供应受限的环境&lt;/strong&gt;中，我想我们已经连续多个季度这样说了。我们看到了非常强劲的需求，无论是来自外部云客户，还是来自公司内部业务。我们的目标是，&lt;strong&gt;只要看到有吸引力的投资回报，就持续投入&lt;/strong&gt;，正如Sundar刚才提到的。我们确实着眼长远，会从多年维度来看待需求，同时也聚焦于近期下一年的情况，积极构建以满足这些需求。&lt;/p&gt;
+&lt;p&gt;正如大家所看到的，虽然我们在过去三年里已经大幅提升了产能，但需求的增长仍然超过了投资的速度。整个行业都在供应受限的环境中运营，我们也在努力应对这一局面。我们的优势在于拥有&lt;strong&gt;全栈式方法&lt;/strong&gt;，因此能够在技术基础设施组织内部推动运营效率和技术效率的提升，从而交付更多算力。但&lt;strong&gt;只要我们看到这些有吸引力的投资机会，我们就会持续投入&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brian Nowak，分析师：&lt;/strong&gt;谢谢你们两位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt;下一个问题来自摩根大通的Doug Anmuth，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Douglas Anmuth，分析师：&lt;/strong&gt;感谢回答问题。我有一个问题给Sundar，一个问题给Anat。Sundar，您能谈谈您对Gemini模型能否保持在前沿水平的信心吗？我知道本周你们发布了Gemini Flash模型，但谷歌在宣传上可能不像其他一些领先实验室那样声势浩大，发布频率也可能没那么高。我想了解一下，您如何回应外界对谷歌能否持续开发领先模型的疑虑？另外，能否谈谈你们在编程领域的计划，以及如何缩小在企业级市场这一块的差距？然后关于Anat，在最近进行股权和债务融资之后，您能帮我们理解一下你们是如何考量最优资本结构的，以及如何看待债务成本与股权成本之间的关系？谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai，首席执行官：&lt;/strong&gt; 谢谢你，Doug。我认为，前沿领域是一个极其动态的空间，正在以极快的速度向前推进。在任何特定时刻拍下快照来看，都会感受到这种动态变化。我们显然拥有前沿模型，在很多维度上我们仍然处于前沿水平。也有一些领域我们承认需要改进，&lt;strong&gt;编程能力就是其中一个例子，代理编程（agent coding）尤为如此&lt;/strong&gt;，团队正在以3.6 Flash为重点非常非常专注地攻克这一问题。顺便说一下，Flash是我们的主力模型，我们看到了对它的巨大需求，因为它在性能、成本、可靠性、延迟等方面恰好达到了一个甜蜜点。&lt;/p&gt;
+&lt;p&gt;我们已经将Gemini，尤其是Flash，整合进我们的端到端解决方案组合中，无论是网络安全、数据分析，还是客户服务这样的领域——在客户服务中，你需要非常好的语音质量、实时流式传输、以及对内容进行推理的能力；又或者对于专业服务公司来说，你需要高质量的摘要生成和内容创作等。&lt;strong&gt;Flash在所有这些方面都表现得非常出色。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在代理编程方面，我们正在持续迭代，你们会看到我们不断推出新版本。比如3.6 Flash与3.5 Flash相比，在Deep这一基准测试上提升了超过10个百分点，而且token效率更高。我们显然——我们在内部使用它，也在与许多客户进行编程方面的测试。所以从上一个版本到新版本，仅仅六周时间我们就看到了明显进步，你们还将看到更多持续的迭代。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在前沿方面，我们既非常坚定，也非常有信心能够保持在前沿位置。&lt;/strong&gt; 对于下一代前沿模型，你将需要更大规模的基础模型。我们现在正在训练Gemini 4，并且目标非常宏大。我对内部看到的Gemini 4的进展感到非常兴奋，我有信心当我们对外发布时，大家会感到满意。但我们需要Gemini 4作为一个更大的基础模型，才能在那个前沿水平上参与竞争。因此，我们正专注于把这件事做好。&lt;/p&gt;
+&lt;p&gt;Anat 阿什肯纳齐，首席财务官： 关于资本结构以及最近股权和债务融资的问题。在我们考量投资需求时，正如我所说，我们会展望未来一年乃至多年，&lt;strong&gt;我们首先看的是能够从经营性现金流中支持多少投资&lt;/strong&gt;。正如你们从今天的业绩中看到的，我们持续产生非常健康、强劲的经营性现金流，这是我们的第一资金来源。然后我们会考虑债务，以及最近的股权融资。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在过去12个月里，我们大幅扩展了债务组合。&lt;/strong&gt; 如果你看一年前，我们的债务规模约为160亿美元，现在已经增长到约1000亿美元，涵盖多种货币和地区，我们正在持续扩大这一组合。&lt;/p&gt;
+&lt;p&gt;但我们也希望确保拥有一个具有韧性的资产负债表，不仅是增长前景，还要有强健、健康的资产负债表，这也是我们进军股权市场背后的考量逻辑。目前，我们没有计划再次进入股权市场，但有一个例外——正如你们记得的，我们此次股权发行的一部分是ATM（随时发行）计划，我们将用它来应对股权激励补偿（SBC）的税务问题，这一操作会持续一段时间。&lt;strong&gt;总体而言，我们从经营性现金流、债务水平和股权这三个维度综合考量，以一种能够确保我们持续维持健康资产负债表的方式加以平衡。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Douglas Anmuth，分析师：&lt;/strong&gt; 谢谢你们两位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 我们的下一个问题来自高盛的 Eric Sheridan。您的线路现在已接通。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eric Sheridan，分析师：&lt;/strong&gt; 非常感谢您接受提问。如果可以的话，我想问两个问题，都是关于 TPU 的。Sundar，您能谈谈在扩大 TPU 业务规模过程中的一些关键经验吗？包括对 TPU 的需求，以及在未来几年您如何考虑平衡外部对 TPU 的需求与组织内部对定制芯片的需求？另外，如果可以跟进一下，您在准备好的发言中提到了 TPU 对谷歌云的影响。不知道您能否就 TPU 在收入积压中所占的规模，以及如何看待未来几年 TPU 的收入确认或潜在的利润率影响，给我们提供更多具体信息？非常感谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai，首席执行官：&lt;/strong&gt; 好的。我认为，首先，我们对 TPU 路线图的进展以及其在性能和竞争优势方面所带来的价值感到非常满意，我们显然也在大量使用它。在分配 TPU 方面，我们的&lt;strong&gt;首要任务是确保我们在 AGI 开发的前沿竞争中分配所需的资源&lt;/strong&gt;。这是我们所做一切的基础。但鉴于外部需求极为旺盛，即使对于大多数云客户而言，我们也在同时使用 TPU 和 GPU，主要用于为我们的模型提供服务。&lt;/p&gt;
+&lt;p&gt;所以，想想 AI、Gemini Enterprise，以及我们看到的发展势头。我们将其用于这些目的，包括 Agent 工作负载等。在人们希望将其作为基础设施的情况下，我们越来越多地通过将 TPU 放置在他们的数据中心或其他数据中心来寻求平衡，比如我们正在与 Blackstone 合作推进的项目等。因此，我们将此作为平衡手段，确保尽可能多地将可用算力分配给前沿模型开发，以及目前同时服务于我们消费者业务和企业业务的第一方模型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anat 阿什肯纳齐，首席财务官：&lt;/strong&gt; 关于收入确认以及我们如何看待 TPU 系统销售。理解方式如下：当我们签署我在准备好的发言中提到的协议时，这些协议将反映在云积压订单中。&lt;strong&gt;目前 5140 亿美元的云积压订单绝大部分是 GCP 协议&lt;/strong&gt;，但 TPU 系统销售也反映在该积压订单中。我们开始建立库存以便能够销售这些系统，因此您会看到这对运营现金流产生影响，因为我们是提前建设的，显然是在我们建立并扩大这项业务的过程中。&lt;/p&gt;
+&lt;p&gt;然后，一旦我们开始交付销售，通常那时我们才开始确认收入。&lt;strong&gt;本季度只是该总协议中的一小部分——该总协议将在整个 2026 年持续增长，但该协议绝大部分收入将在 2027 年得到体现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 下一个问题来自巴克莱的 Ross Sandler。您的线路现在已接通。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ross Sandler，分析师：&lt;/strong&gt; 是的，Sundar，我想回到正在进行的 AI 模型竞争话题。我想问一下模型发布的速度，以及如何潜在地加快 Gemini 发布模型的节奏。我们都看到了与 SpaceX 签订的第三方算力协议。除此之外，我们还在做什么来加快模型发布的速度，以赶上其他竞争对手？另外，您刚才提到了 Flash 模型，正如您所说，这些模型非常成功。考虑到低成本模型市场已经变得相当拥挤，您是否认为这是正确的市场定位？请问您如何看待这一切的发展走向？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai，首席执行官：&lt;/strong&gt; 谢谢，Ross。我有两点想说，首先，我们真正关注的是前沿领域。我们希望确保为客户&lt;strong&gt;在不同价位上提供最佳模型&lt;/strong&gt;，所以您将会看到我们这样做。但对我们来说，拥有最顶尖的前沿模型，以及性能优异且低成本的模型，都非常重要。这就是为什么我们有 Flash Lite、Flash、Pro 等产品——所以我们致力于覆盖前沿领域的完整产品线。&lt;/p&gt;
+&lt;p&gt;关于模型发布速度，&lt;strong&gt;我确实认为您将看到我们继续加快步伐&lt;/strong&gt;。显然，您已经看到我们在 IO 大会上宣布了 3.5 Flash，随后推出了 3.6 Flash，您还将看到该模型的持续迭代，在 Agentic 解码等方面取得进一步进展。我们真的非常专注，&lt;strong&gt;在 Gemini 4 上投入了大量精力，这是一项非常雄心勃勃的工程&lt;/strong&gt;。我们希望在 Gemini 4 推出时，能够在前沿领域与届时的最高水平竞争。因此，我们正在将大量算力资源投入到这个方向。&lt;/p&gt;
+&lt;p&gt;在此过程中，我们正在建立一个基础，在此基础之上，您将看到我们通过后续模型发布进行快速迭代。因此，&lt;strong&gt;在我们构建 Gemini 4 的同时，以近乎每月一次的节奏加快步伐并发布模型，也是我们路线图的一部分。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt; 下一个问题来自MoffettNathanson的Michael Nathanson，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael Nathanson（分析师）：&lt;/strong&gt; 谢谢。谢谢。有一个问题想问Sundar。延续本次电话会议的模型主题，您能谈谈您认为这个新模型时代的护城河是什么吗？即使所有人都能达到同等的模型能力，是什么战略优势支撑着您的业务持续增长？&lt;/p&gt;
+&lt;p&gt;另外，回到Eric之前的问题，关于TPU未来对利润率的影响，您能透露一些吗？它是对核心云业务利润率的增量贡献，还是低于整体利润率水平？谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai（首席执行官）：&lt;/strong&gt; Michael，首先，我们在很多层面上都在提供解决方案。我认为我们&lt;strong&gt;全栈方法的价值&lt;/strong&gt;在于，客户来找我们是为了寻求解决方案。比如在网络安全或数据分析这类领域，人们部署的解决方案中，模型只是其中的一个组成部分。以网络安全为例，人们正在使用Chronicle，结合我们即将推出的产品，用于检测和修补漏洞等；再比如数据分析，人们将过去各自孤立的数据源整合在一起，并通过Gemini Enterprise在其上构建一个智能层。所以模型只是这些解决方案中的一个要素，这一点很重要。&lt;/p&gt;
+&lt;p&gt;即便是在更纯粹的模型消费领域，&lt;strong&gt;模型也越来越多地演变为端到端的编排系统&lt;/strong&gt;，即工作流、智能体工作流。要构建这一切，不仅需要提供训练和推理所需的算力、数据质量、所具备的环境，还需要持续迭代改进的能力，让客户放心——他们的所有数据、他们的数据、他们的轨迹数据对他们而言都是保密的，绝不会以任何方式反流回模型中。此外还包括以安全的方式配置和提供所有这些服务，并进行管理、配置等等。这些都是庞大的端到端工程，也是我们整个云业务正在专注构建的方向，我们在所有这些环节都看到了需求。&lt;/p&gt;
+&lt;p&gt;显然，&lt;strong&gt;拥有自己的模型使我们能够真正优化这些解决方案，提供一体化的产品&lt;/strong&gt;，但我们也会在这些解决方案中提供其他模型，同时提供基础设施，并采取完整的全栈方法。&lt;/p&gt;
+&lt;p&gt;所以我认为我们在这方面的定位非常非常有利。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anat 阿什肯纳齐（首席财务官）：&lt;/strong&gt; 关于TPU的利润率，我们不会单独披露任何特定产品或基础设施组件的利润率。当然，自主设计和制造芯片是有好处的。但理解这个问题的方式是：&lt;strong&gt;这是我们总可寻址市场的扩张&lt;/strong&gt;，通过向需要在其数据中心部署这些系统的客户提供解决方案，从而扩大了市场机会。&lt;/p&gt;
+&lt;p&gt;从整体云业务利润率来看，本季度实现了35.6%的出色扩张，业务运营纪律出色，营收增长带来了良好的规模效应，表现非常亮眼。&lt;/p&gt;
+&lt;p&gt;展望第三季度及今年剩余时间，正如我在准备好的发言中提到的，&lt;strong&gt;鉴于当前供应受限的环境，我们计划在第三季度扩大第三方产能的使用，作为过渡策略&lt;/strong&gt;，同时继续扩建内部产能。由于该产能的成本较高，&lt;strong&gt;将对云业务的运营利润率造成一定压力&lt;/strong&gt;。此外，我们此前也提到，Wiz的整合在2026年近期将对利润率带来一定的阶段性拖累。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael Nathanson（分析师）：&lt;/strong&gt; 谢谢各位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 下一个问题来自Bernstein的Mark Shmulik，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mark Shmulik（分析师）：&lt;/strong&gt; 感谢回答问题。关于这些第三方协议以及过渡期和容量问题，请问是否存在某个特别紧张的约束领域，还是说整体上都比较普遍？退一步来看，在各业务之间的算力分配上，这方面有没有发生变化？有没有办法说明你们现在是如何权衡将算力分配给搜索、模型训练，以及GCP业务的？谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai（首席执行官）：&lt;/strong&gt; Mark，我来回答这个问题。关于算力分配，我们的&lt;strong&gt;出发基准是推进前沿AGI开发所需的资源&lt;/strong&gt;。这个优先级的判断，自然取决于模型前沿的发展走向。所以我们以此为基准出发。在此之上，我们显然会优先保障核心产品领域，比如搜索、YouTube等，以及云业务。在云业务内部，我们优先分配算力，以确保能够在Vertex、Gemini企业版以及我们的核心解决方案（包括数据分析、网络安全等）的场景下为我们的模型提供服务。&lt;/p&gt;
+&lt;p&gt;所以，&lt;strong&gt;算力主要流向我们面向消费者和企业的核心产品的服务支撑&lt;/strong&gt;，这就是我们的整体思路。关于过渡期协议，我想说的核心是：在边际层面，我们有一些非常大的云客户，我们正在努力支持他们度过这个非凡的时刻。他们带来的增量机会，虽然在短期几个月内成本可能非常高，但&lt;strong&gt;从整个合同周期来看，随着我们持续扩充容量，其投资回报率是非常可观的&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这些都是我们综合考量的因素。你是否愿意接受一个前期六个月的协议，来服务这个客户——而这背后是一个多年期的机会，在整个多年周期内，利润率和回报都极具吸引力。希望这能让大家对我们如何看待这些机会有所了解。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 下一个问题来自花旗的Ron Josey，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ron Josey（分析师）：&lt;/strong&gt; 感谢回答问题。我想换个话题，Philipp，请你从搜索和YouTube的变现角度多谈一谈——考虑到AI搜索带来了更强的信号，以及你提到YouTube的强劲表现。请介绍一下广告主是如何利用谷歌更强的个性化能力和定向能力来发挥作用的。另外，我们经常被问到的一个问题是：谷歌已经如此体量和规模，搜索收入仍在以17%的速度增长，是什么在驱动这一历史新高？谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Philipp Schindler（高级副总裁兼首席商务官）：&lt;/strong&gt; 非常感谢这个问题。我们在第二季度搜索及其他收入实现了&lt;strong&gt;17%的同比增长&lt;/strong&gt;，这真的是业务各个部分协同运转、以及与Gemini深度整合共同带来的结果。稍微拉远来看，所有主要垂直行业都对增长有所贡献。&lt;strong&gt;零售贡献最大&lt;/strong&gt;，其次是金融、科技、媒体娱乐等行业的显著贡献。&lt;/p&gt;
+&lt;p&gt;我认为非常重要的一点是，&lt;strong&gt;Gemini极大地增强了我们理解用户搜索意图、匹配合适广告的能力&lt;/strong&gt;，这也正好回应了你的问题。我们将Gemini模型应用于整个广告基础设施，无论是广告质量、广告工具，还是广告与新AI体验的结合。我们正在将Gemini深度整合到客户工具中，让广告活动更加高效，这是额外的加成。&lt;/p&gt;
+&lt;p&gt;此外，我们还有&lt;strong&gt;AI Max&lt;/strong&gt;这类AI驱动的广告活动产品，帮助广告主突破关键词限制，发现更多机会。这让我们能够进行更深度的挖掘和更精准的定向。AI Max持续解锁——我们提到过——&lt;strong&gt;数十亿个此前无法变现的全新搜索&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在YouTube方面，从宏观来看，广告增长由&lt;strong&gt;效果类广告和品牌广告&lt;/strong&gt;共同驱动。我此前提到，我们在&lt;strong&gt;大屏（客厅场景）持续看到强劲势头&lt;/strong&gt;。在品牌侧，我们前方还有非常令人期待的广告产品路线图。在效果类广告侧，Demand Gen等产品依然是非常有趣的机会，其中显然包含定向的维度。我们也在大屏可购物广告格式上持续大力创新，这将有助于我们进一步强化零售领域的增长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 下一个问题来自富国银行的Ken Gawrelski，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenneth Gawrelski，分析师：&lt;/strong&gt; 非常感谢。我有两个问题。第一，考虑到我们目前看到的供应链限制和供应链通胀，您如何评估2027年算力基础设施投资的预期回报，与此前2025年和2026年相比如何？我很想了解您对2027年及未来投资与过去产能投资的回报状况是怎么看的？&lt;/p&gt;
+&lt;p&gt;第二个问题略有不同。在考虑Waymo的时候，您在评估是否调整Waymo企业架构时，会重点考量哪些关键因素？我知道您此前对这个话题一直比较谨慎，但这项业务正在扩张，显然已经有了清晰的方向，也积累了很强的发展势头。在什么条件下，让Waymo独立于谷歌之外会是合理的选择？谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai，首席执行官：&lt;/strong&gt; Ken，关于你的第一个问题，如果我理解正确的话——我们是在一套严格的&lt;strong&gt;投资回报率（ROIC）框架&lt;/strong&gt;下运营的。显然，在我们的投入成本上升的情况下，我们会将这些成本反映在产品定价能力和回报预期上。所以这一切都已纳入我们的规划考量之中。我认为我们2027年的算力基础设施投资——就像我回答第一个问题时提到的——我们正在看到强劲的需求信号，包括长期合同，以及现有合同在续约时所呈现出的超强需求。我们正是基于这些信息来进行规划和投资的。&lt;/p&gt;
+&lt;p&gt;所以我认为，如果说有什么变化的话，&lt;strong&gt;当前的整体态势比一年前要更为健康&lt;/strong&gt;。这也正是我们有信心推进这些投资的原因所在。关于Waymo，我们目前真正专注的是推动Waymo的落地执行和规模化扩张。我们在&amp;quot;Other Bets&amp;quot;架构下对其进行了专项设置，并给予团队大力支持，谷歌也一直持续投入。我认为我们能够以长远眼光进行思考和规划、持续投入业务发展，并为他们提供长期路线图——这种对长期规划的信心以及推动规模化扩张的能力，都具有极其重要的价值。我们现在真正聚焦的，是把业务做大，把这一巨大潜力切实兑现，这就是我们的重心所在。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenneth Gawrelski，分析师：&lt;/strong&gt; 非常感谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 最后一个问题来自Wolfe Research的Shweta Khajuria，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shweta Khajuria，分析师：&lt;/strong&gt; 好的，非常感谢接受我的提问。我想请教两个问题。第一个关于&lt;strong&gt;TPU的长期战略&lt;/strong&gt;——从长远来看，随着TPU销售规模的扩大，是否可以合理预期你们会打造一个附带软件栈的商用芯片业务？第二个关于&lt;strong&gt;YouTube营收&lt;/strong&gt;，鉴于用户互动表现如此强劲，哪些因素可能推动YouTube未来营收增速进一步加快？谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sundar Pichai，首席执行官：&lt;/strong&gt; 我来回答第一个问题，关于YouTube营收增长，Philipp也可以补充。关于TPU，我们使用TPU已经有一段时间了，我们大量的云端推理服务都是在TPU上完成的，同时我们也看到其他客户对独立TPU系统有着强劲的需求。当然，整个行业也存在供应限制，所以我们需要按照我之前提到的原则，进行前瞻性的规划和资源再分配。所以我不想对未来做过于远期的预测。但我确实认为，我们会根据所看到的机会和需求来扩大规模，同时兼顾现有的供应限制，以及我们在&lt;strong&gt;前沿模型开发、消费者业务和企业业务&lt;/strong&gt;方面的资源分配需求，确保各方都能得到良好的支撑。Philipp，你想补充一下YouTube的变现情况吗？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Philipp Schindler，高级副总裁兼首席商务官：&lt;/strong&gt; 好的，非常感谢。我之前提到了YouTube广告营收增长的驱动因素。在我们的广告产品路线图上，有很多令我们感到兴奋的事情。在&lt;strong&gt;品牌广告&lt;/strong&gt;方面，我们看到&lt;strong&gt;联网电视（CTV）大屏&lt;/strong&gt;持续存在的机会。我们正在构建工具，帮助广告主找到创作者，实现跨屏规模化投放，并衡量投放效果。我们还有一批全新的和回归的创作者节目，将独家登陆YouTube。&lt;/p&gt;
+&lt;p&gt;在&lt;strong&gt;效果广告&lt;/strong&gt;方面，我们看到了很多机会，尤其是通过&lt;strong&gt;Demand Gen广告&lt;/strong&gt;——以及Shorts，我提到过它仍然是一个非常有趣的机会，可以将我们的覆盖范围扩展到更多中小广告主，触达更多垂直行业，面向更短的视频内容。&lt;/p&gt;
+&lt;p&gt;实际上，还有一个重要方向——&lt;strong&gt;创造更多低干扰感的广告形式&lt;/strong&gt;，从整体上提升广告效果。所以我认为，在效果广告领域，我们将持续看到大量创新，包括大屏上的&lt;strong&gt;可购物广告形式&lt;/strong&gt;——正如我们提到的，这推动了零售业的强劲表现。我们还在Brandcast上宣布了几种新格式，联合Google Pay推出，让联网电视观众可以直接在电视上&lt;strong&gt;两次点击完成购买&lt;/strong&gt;，这从长远来看是一个非常有趣的机会。我们还推出了&lt;strong&gt;联盟合作伙伴推广功能&lt;/strong&gt;，以带动增量销售，以及创作者从YouTube购物中获得的全额佣金收益。&lt;/p&gt;
+&lt;p&gt;总的来说，坦率地说，这真的是&lt;strong&gt;非常非常令人振奋的时代&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shweta Khajuria，分析师：&lt;/strong&gt; 谢谢Sundar，谢谢Philipp。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 今天的问答环节到此结束。现在我将会议转回给吉姆·弗里德兰，请他作进一步发言。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;詹姆斯·弗里德兰（投资者关系负责人）：&lt;/strong&gt; 感谢大家今天的参与。我们期待在2026年第三季度电话会议上再次与大家交流。谢谢，祝大家晚安。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt; 谢谢大家。今天的电话会议到此结束，感谢各位的参与。您现在可以断开连接了。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻</title><link>https://wallstreetcn.com/articles/3777718</link><guid>cbbf39d9aae46d3da9c705a6591da4ee437251e51d405dee4c6141754aa3d850</guid><pubDate>Wed, 22 Jul 2026 23:55:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;谷歌母公司Alphabet公布第二季度业绩，云业务收入大幅超过华尔街预期，云积压订单首破5000亿美元大关。&lt;strong&gt;然而市场焦点迅速转向另一面：这是谷歌上市数十年来自由现金流首次转为负值，同时公司年内第二次上调全年资本开支指引，令投资者对AI豪赌能否带来相应回报的担忧骤然升温。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;截至6月30日的第二季度，Alphabet实现营收1197.96亿美元，同比增长24%；按固定汇率计算增长23%，连续第12个季度实现双位数收入增长。营业利润同比增长30%至407.7亿美元，营业利润率提升2个百分点至34%。&lt;/p&gt;
 &lt;p&gt;其中，&lt;strong&gt;Google Cloud收入达到247.68亿美元，高于市场预期224.6亿美元，同比飙升82%，创近年来最快增速，显示AI投资正持续转化为商业回报。&lt;/strong&gt;搜索广告收入为632.7亿美元，略低于市场预期的632.8亿美元。&lt;/p&gt;
@@ -168,7 +366,105 @@ AI业务：FSD订阅用户超预期，是软件化变现的关键指标
 &lt;blockquote&gt;
 &lt;p&gt;这些举措有助于提升利润率和自由现金流，并增强公司把握重要增长机遇的能力。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;与此同时，IBM在本季度签署了一份意向书，计划在美国建设一座量子芯片代工厂，并推出了AI编程工具Bob。该工具基于多种生成式模型，目前已有逾8万名员工采用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”</title><link>https://wallstreetcn.com/articles/3777724</link><guid>d4f8cf1241470b922425bf6b37191b4190fd6c9abfc0ed02cff10a797b53bee7</guid><pubDate>Thu, 23 Jul 2026 00:08:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，IBM在本季度签署了一份意向书，计划在美国建设一座量子芯片代工厂，并推出了AI编程工具Bob。该工具基于多种生成式模型，目前已有逾8万名员工采用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通的“技术分析”：油价触及关键阻力，金价中期偏空，铜价跌破支撑将强化看空</title><link>https://wallstreetcn.com/articles/3777734</link><guid>1f540ffefe939ceb09dab481e7a1fc8d8d82224899f68be242ad091431106492</guid><pubDate>Thu, 23 Jul 2026 01:20:24 GMT</pubDate><description>&lt;p&gt;大宗商品市场正同步走到多个技术关口。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，摩根大通技术策略师Jason Hunter在7月21日的商品技术图表报告中指出，布伦特原油、黄金、铜等主要大宗商品均到达关键价位节点，且方向性信号存在明显分化——原油短期多头面临阻力考验，黄金中期偏空格局尚未逆转，铜价则处于“潜在周期顶部”的悬而未决状态。&lt;/p&gt;
+&lt;p&gt;三类资产的共同特征是：反弹空间受限，下行风险却相对清晰。不论是油价在85附近遇阻，还是金价在4197下方维持空头偏向，当前图表结构给出的信号都是“上行需要更多确认，下行则已有路径”。&lt;/p&gt;
+原油：反弹触顶，夏季区间上限已至
+&lt;p&gt;布伦特原油（2026年12月合约）从72.07-72.51美元支撑区间反弹后，&lt;strong&gt;涨势在83-85.71一带遭遇密集阻力&lt;/strong&gt;，当前已触及三重关键阻力的叠加区域：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;83-84美元&lt;/strong&gt;：6月形态跌破位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;84.65美元&lt;/strong&gt;：5月61.8%斐波那契回撤位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;85.71美元&lt;/strong&gt;：6月至7月战术底部形态目标位&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;据摩根大通，这一区间被视为&lt;strong&gt;“夏季交易区间的可能上限”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;但 Hunter 同时提示，“显著的地缘政治和头条风险，使得基于图表的判断难以有太强的确定性。”&lt;/p&gt;
+&lt;p&gt;若油价有效突破上述阻力区，下一个关注位将是&lt;strong&gt;97.87美元&lt;/strong&gt;——即2020年12月通道阻力位。&lt;/p&gt;
+&lt;p&gt;反之，若价格跌破&lt;strong&gt;78.32-78.97美元&lt;/strong&gt;近期形态突破支撑，则短期多头趋势动能将被完全瓦解，区间震荡的基准判断将得到强化。&lt;/p&gt;
+&lt;p&gt;简言之：&lt;strong&gt;油价当前处于“天花板”附近，向上需要突破重重阻力，向下则有明确的止损参考线。&lt;/strong&gt;&lt;/p&gt;
+黄金：中期偏空，反弹空间有限
+&lt;p&gt;现货黄金目前在&lt;strong&gt;4074美元&lt;/strong&gt;（2022年8月38.2%斐波那契回撤位）和&lt;strong&gt;3886美元&lt;/strong&gt;（2025年10月低点）附近寻求支撑。&lt;/p&gt;
+&lt;p&gt;近期出现了一簇动能背离买入信号，&lt;strong&gt;这意味着短期内可能出现更多盘整。但摩根大通表示，“我们预计整个夏季上行空间有限。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原因有三：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;图表缺乏中期积累形态&lt;/strong&gt;——没有足够的底部蓄力，难以支撑趋势性上涨。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;美元指数（DXY）强势&lt;/strong&gt;——正在年线区间突破位上方运行，对黄金构成压制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2年期美债收益率偏高&lt;/strong&gt;——已突破多季度区间，处于对黄金不利的位置。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;只要金价维持在&lt;strong&gt;4197-4264美元&lt;/strong&gt;趋势线群下方，摩根大通认为其“保持强烈的负面中期偏向”。中期阻力位在&lt;strong&gt;4500美元&lt;/strong&gt;附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;若金价重新加速下行，下一支撑目标依次为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3605美元&lt;/strong&gt;：2022年8月50%斐波那契回撤位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3400-3500美元&lt;/strong&gt;：2025年四季度突破区域&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+铜：突破战术阻力，但周期顶部风险犹存
+&lt;p&gt;LME三个月铜成功突破13400美元附近的战术形态阻力，暂时缓解了即时的看空压力。&lt;/p&gt;
+&lt;p&gt;但摩根大通指出，铜价在2026年于&lt;strong&gt;14000-15000美元&lt;/strong&gt;阻力区大幅失去长期多头趋势动能，&lt;strong&gt;“图表形态看起来像一个潜在的周期顶部”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;关键支撑位在&lt;strong&gt;12537-12988美元&lt;/strong&gt;。Hunter 表示，“若价格跌破这一中期支撑区间，将强化中期看空前景。”&lt;/p&gt;
+&lt;p&gt;换句话说：铜价目前处于&lt;strong&gt;“高位震荡、顶部待确认”&lt;/strong&gt;的状态。一旦支撑失守，看空逻辑将被激活。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+铝与镍：已现冲击性下跌，反弹空间受限
+&lt;p&gt;相比铜的“横盘观望”，铝和镍的技术形态已更为明确地偏空。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;铝（LME三个月）&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;从3043美元（2025年4月50%斐波那契回撤位）的战术反弹，目前呈现&amp;quot;修正性&amp;quot;而非趋势性特征。短期阻力在&lt;strong&gt;3325美元&lt;/strong&gt;（6月38.2%回撤位），未来数月的&amp;quot;天花板&amp;quot;预计在&lt;strong&gt;3400-3500美元&lt;/strong&gt;区域——即5月至6月顶部形态跌破区。若再度加速下行，下一支撑在&lt;strong&gt;2868美元&lt;/strong&gt;（2025年4月61.8%回撤位）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;镍（LME三个月）&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;经历5月至7月的冲击性下跌后，镍价正从&lt;strong&gt;16208-16437美元&lt;/strong&gt;中期支撑区间反弹。但摩根大通认为，市场将在&lt;strong&gt;17481-17790美元&lt;/strong&gt;阻力汇聚区遭遇实质性抛压，&amp;quot;因为市场目前尚未形成有意义的积累形态&amp;quot;。若支撑区间被向下突破，则可能完全回撤至&lt;strong&gt;13865-14235美元&lt;/strong&gt;（2025年4月/12月低点）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+白银：支撑区间测试，反弹或难持续
+&lt;p&gt;现货白银在测试&lt;strong&gt;53.39-54.73美元&lt;/strong&gt;中期支撑区间后，正尝试企稳。该区间包含2025年四季度区间突破位，以及多个斐波那契回撤和波动目标的汇聚。&lt;/p&gt;
+&lt;p&gt;摩根大通预计，短期反弹可能在&lt;strong&gt;64美元&lt;/strong&gt;（2026年图表拐点位）附近消退，更大阻力集中在&lt;strong&gt;66.87-72.07美元&lt;/strong&gt;区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致</title><link>https://wallstreetcn.com/articles/3777735</link><guid>053eca2db465d7a8783d909276adde360859cb654b9e5ce201704c7bccf151d9</guid><pubDate>Thu, 23 Jul 2026 01:20:15 GMT</pubDate><description>&lt;p&gt;花旗研究认为，腾讯控股7月22日股价单日重挫逾7%，主要源于市场对二季度游戏收入数据的恐惧情绪与误读，而非基本面的实质性恶化。花旗维持对腾讯的买入评级，目标价港币758元，并将&lt;strong&gt;此次下跌定性为&amp;quot;过度反应&amp;quot;&lt;/strong&gt;，视之为增强型买入机会。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据花旗研究分析师Alicia Yap及Nelson Cheung在7月22日发布的快评报告，此次抛售由三重因素叠加触发：&lt;strong&gt;市场资金向AI硬件板块轮动、彭博援引券商报告称腾讯二季度游戏&amp;quot;收入&amp;quot;将出现下滑，以及市场对腾讯加大AI投资拖累利润的担忧重燃。&lt;/strong&gt;花旗认为，上述因素共同放大了市场的负面情绪，但其中&lt;strong&gt;关键的游戏收入判断存在对数据的误读。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;花旗指出，&lt;strong&gt;Sensor Tower追踪数据所反映的仅是iOS端游戏流水的季节性正常回落，并不等同于腾讯最终披露的游戏收入。&lt;/strong&gt;考虑到递延收入确认机制及PC游戏的强劲表现，花旗预计腾讯二季度实际披露的游戏收入将好于市场预期。腾讯当前股价为港币440.60元，花旗目标价隐含约72%的上行空间。&lt;/p&gt;
+三重因素触发抛售，市场情绪主导下跌
+&lt;p&gt;花旗报告指出，7月22日亚洲交易时段腾讯股价跌幅超过7%，系多重因素共振所致。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先，市场整体出现从互联网、游戏软件板块向AI硬件板块的资金轮动，互联网及游戏类股票成为对冲操作下的减仓对象。&lt;/p&gt;
+&lt;p&gt;其次，彭博当日报道，援引券商研报称腾讯即将公布的二季度游戏&amp;quot;收入&amp;quot;存在放缓乃至下滑，引发市场广泛关注。&lt;/p&gt;
+&lt;p&gt;第三，市场对腾讯持续加码AI基础设施投入、进而压缩利润空间的担忧再度升温。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;花旗认为，上述三重因素相互叠加，在腾讯股价近期已有可观反弹的背景下，进一步放大了获利了结的动能，最终导致此次跌幅明显超出基本面所能解释的范围。&lt;/p&gt;
+流水数据被误读，递延收入将平滑季度波动
+&lt;p&gt;花旗报告的核心论点在于，市场对游戏收入的悲观预期，建立在对追踪数据的误读之上。&lt;/p&gt;
+&lt;p&gt;根据Sensor Tower数据，腾讯国内iOS游戏流水在&lt;strong&gt;二季度环比下滑约19%、同比下滑约1%&lt;/strong&gt;，这一走势符合春节后的典型季节性规律。然而，花旗强调，Sensor Tower仅追踪iOS端流水，并不覆盖体量更大的安卓用户群体，两者的游戏消费行为可能存在显著差异。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更为关键的是，腾讯最终披露的游戏收入受益于递延收入的滚动确认机制——此前数个季度积累的递延收入，以及一季度录得的强劲流水，将在二季度财报中得到体现，从而对收入数字形成有效支撑。花旗目前预测腾讯二季度国内游戏收入同比增长8%、环比下滑3.9%，对应收入约为人民币436亿元。&lt;/p&gt;
+&lt;p&gt;花旗同时进行了压力测试：即便参照去年二季度环比下滑5.8%的幅度来推算，今年二季度国内游戏收入同比增速也仍可达约6%，对应约人民币427亿元，与花旗基准预测的差距相对有限。&lt;/p&gt;
+基本面未变，年度增长逻辑依然成立
+&lt;p&gt;花旗在报告中明确表示，即便腾讯二季度游戏收入低于市场一致预期，也不应动摇对其游戏业务基本面的判断。&lt;/p&gt;
+&lt;p&gt;花旗认为，&lt;strong&gt;腾讯游戏业务的核心优势在于其多元化布局与持续推进的全球化战略。&lt;/strong&gt;旗下核心游戏IP的稳健表现，足以支撑游戏收入及利润在年度维度上保持稳定增长，单季度的流水与收入波动不应被过度解读为趋势性信号。&lt;/p&gt;
+&lt;p&gt;在估值层面，花旗采用分类加总法（SOTP）得出港币758元的目标价，对应2026年及2027年预测市盈率分别约为22.8倍和21.5倍。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;各业务板块估值中，网络游戏贡献港币194元（占目标价26%），网络广告贡献港币202元（27%），社交网络贡献港币187元（25%），金融科技贡献港币88元（12%），云及企业服务贡献港币42元（6%），投资组合（按30%折让计算）贡献港币46元。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;花旗重申买入评级，&lt;strong&gt;并将此次股价回调定性为增强型买入机会。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”</title><link>https://wallstreetcn.com/articles/3777724</link><guid>d4f8cf1241470b922425bf6b37191b4190fd6c9abfc0ed02cff10a797b53bee7</guid><pubDate>Thu, 23 Jul 2026 00:08:05 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对创纪录的二季度交付数据与飙升的资本支出，马斯克向华尔街描绘了一个由Robotaxi、人形机器人和海量AI算力构成的庞大帝国，并试图用极致的扩张速度重塑市场的想象空间。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777719"&gt;华尔街见闻提及&lt;/a&gt;，美东时间22日美股盘后，特斯拉公布二季度财报，营收为282.4亿美元，较分析师预期高逾7%，三年来首次营收同比增速超过20%。&lt;/p&gt;
 &lt;p&gt;然而二季度调整后每股收益同比下降18%至0.33美元，较分析师预期低逾35%，当季毛利率16.8%，低于预期的19.4%。&lt;/p&gt;
@@ -563,32 +859,7 @@ TerraFab与芯片自研：从AI4到AI6的布局
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，任仕达收涨13.87%，Hiab涨11.17%，CSG涨9.99%，德科集团涨9.13%，空客表现第五，诺基亚收跌2.34%。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场</title><link>https://wallstreetcn.com/articles/3777699</link><guid>86b27bd4706760e339730d843bbd36c0aeaf3f6238ca2757e6e0da2516a9b7a2</guid><pubDate>Wed, 22 Jul 2026 13:26:13 GMT</pubDate><description>&lt;p&gt;OpenAI正同步加码AI基础设施和企业软件两大战略。这家ChatGPT开发商宣布，将在美国佐治亚州建设一座总投资超过300亿美元、规划电力容量达3.2吉瓦的超大规模数据中心，并推出企业AI代理平台Presence，进一步向企业软件市场扩张。&lt;/p&gt;
-&lt;p&gt;7月22日，据彭博，OpenAI已与Georgia Power签署供电协议，为位于佐治亚州的数据中心锁定3.2吉瓦电力容量，首批数百兆瓦预计于2028年上线，整个项目建设将持续至2032年。计算战略副总裁Sachin Katti表示，&lt;strong&gt;若按满规模建设，总投资将超过300亿美元&lt;/strong&gt;，目前公司正寻求合作伙伴共同开发。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;OpenAI正式推出企业AI代理平台Presence&lt;/strong&gt;，将AI模型与企业内部数据、政策及业务流程深度整合，面向客服、销售、IT支持等场景提供自动化解决方案，而不再局限于出售模型访问权限。&lt;/p&gt;
-&lt;p&gt;随着基础模型竞争持续升温、价格不断下探，&lt;strong&gt;OpenAI正一边扩大算力投入，一边向企业软件服务延伸，通过基础设施与应用两端同步布局，构建新的竞争优势。&lt;/strong&gt;&lt;/p&gt;
-超300亿美元打造3.2GW数据中心
-&lt;p&gt;此次佐治亚州项目将成为OpenAI迄今规模最大的AI基础设施投资之一。&lt;/p&gt;
-&lt;p&gt;根据协议，&lt;strong&gt;OpenAI将获得3.2吉瓦电力容量，首批数百兆瓦预计自2028年起陆续投入使用，整个项目建设周期持续至2032年&lt;/strong&gt;。3.2吉瓦的供电规模，相当于约240万户美国家庭的用电需求。&lt;/p&gt;
-&lt;p&gt;Katti表示，若项目按满规模建设，总投资将超过300亿美元。目前，OpenAI已承诺在佐治亚州埃芬汉县投资200亿美元，以换取当地即将表决的一揽子税收及激励政策；与此同时，公司正与潜在合作伙伴洽谈融资及联合开发，也不排除自主运营部分设施。&lt;/p&gt;
-&lt;p&gt;《华尔街日报》报道称，&lt;strong&gt;随着AI算力需求持续攀升，OpenAI已将未来云基础设施支出预测上调至7500亿美元，显示其仍在持续提高长期资本投入。&lt;/strong&gt;&lt;/p&gt;
-从“星际之门”参与者走向主导者
-&lt;p&gt;佐治亚项目也反映出OpenAI对Stargate（星际之门）战略的重新定位。&lt;/p&gt;
-&lt;p&gt;Stargate最初由OpenAI、Oracle和软银共同发起，但随着项目推进，各园区合作模式逐渐多元化，&lt;strong&gt;OpenAI开始承担更多规划和设计工作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Katti表示，经过两三代AI基础设施建设，公司已经积累了大量设计经验，能够进一步优化数据中心架构，在降低成本的同时加快建设速度，因此决定在更多项目中主导整体设计。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI还计划将AI数据中心设计标准逐步开放，包括数据中心、服务器及网络架构等方案&lt;/strong&gt;，打造类似Meta发起的Open Compute Project开放生态。&lt;/p&gt;
-&lt;p&gt;与此同时，公司也在调整全球投资布局。据报道，OpenAI近期已退出英国和挪威部分数据中心项目，并暂停德州旗舰Stargate园区扩建，将资源集中投入更具战略意义的大型基础设施项目。&lt;/p&gt;
-主动回应社区关切
-&lt;p&gt;大型数据中心快速扩张，也带来了越来越多关于电力、用水及环境影响的争议。&lt;/p&gt;
-&lt;p&gt;对此，OpenAI提前推出多项配套措施。&lt;strong&gt;公司表示，将承担数据中心配套输配电设施建设成本，不会将相关费用转嫁给当地居民；数据中心将在电网高负荷时段主动削减用电，并采用闭环循环水冷却系统，以降低用水量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，&lt;strong&gt;公司承诺未来向州及地方政府缴纳数亿美元税款，设立社区基金，并向当地学生提供OpenAI产品使用额度。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI首席全球事务官Chris Lehane表示，公司将于本周开始与当地居民持续沟通，并委托独立第三方开展监督审计，以确保项目建设充分回应社区诉求。&lt;/p&gt;
-Presence瞄准企业软件市场
-&lt;p&gt;在持续扩张基础设施的同时，OpenAI也在加快企业级产品布局。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次推出的Presence并非简单提供模型API，而是将AI模型与企业内部数据、政策、现有软件及业务流程深度打通，帮助企业部署能够自主完成任务的AI代理。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该平台主要面向客户服务、销售及IT支持等场景，可自动处理账单咨询、保险理赔、员工IT服务请求等具体业务流程。&lt;/p&gt;
-&lt;p&gt;相比单纯出售模型访问权限，这类企业软件产品拥有更高的客户黏性，也能帮助OpenAI建立更加稳定的长期收入来源。目前，Presence采取定制化部署模式，企业需与OpenAI工程师或指定合作伙伴共同完成实施。OpenAI透露，公司已率先将该平台用于自身英语客服热线。&lt;/p&gt;
-&lt;p&gt;随着Anthropic、谷歌、Meta、xAI、Mistral、DeepSeek等竞争对手持续提升模型能力，并不断压低模型价格，基础模型正逐渐走向同质化。&lt;strong&gt;对于OpenAI而言，将AI深度嵌入企业业务流程、提供完整解决方案，而非单纯出售模型访问权限，正成为其下一阶段的重要竞争方向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果全面升级Mac产品线，押注AI需求推动新一轮换机潮</title><link>https://wallstreetcn.com/articles/3777706</link><guid>0b5453084616e7bdf1c57b0abcafb8de92a716da16a2f68c27ef84a607b6ad5e</guid><pubDate>Wed, 22 Jul 2026 14:59:03 GMT</pubDate><description>&lt;p&gt;苹果公司正准备对Mac产品线进行全面升级，希望借助人工智能热潮带来的高性能电脑需求，进一步提振Mac业务。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果全面升级Mac产品线，押注AI需求推动新一轮换机潮</title><link>https://wallstreetcn.com/articles/3777706</link><guid>0b5453084616e7bdf1c57b0abcafb8de92a716da16a2f68c27ef84a607b6ad5e</guid><pubDate>Wed, 22 Jul 2026 14:59:03 GMT</pubDate><description>&lt;p&gt;苹果公司正准备对Mac产品线进行全面升级，希望借助人工智能热潮带来的高性能电脑需求，进一步提振Mac业务。&lt;/p&gt;
 &lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;苹果计划从今年秋季开始至明年陆续推出旗下所有Mac产品的新版本，包括备受期待的台式机更新、多款笔记本电脑，以及重新设计的MacBook Pro。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新一轮Mac产品更新将率先推出入门版14英寸MacBook Pro。这款产品将成为首批搭载全新M6芯片的Mac机型之一，同时苹果还将发布两年来首次更新的iMac。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;近年来，Mac业务持续复苏，市场预计销量将连续第三年增长。随着越来越多用户利用Mac运行计算密集型AI代理（AI Agent），Mac获得了新的用户群体。不过，内存芯片供应紧张也给苹果生产带来压力，并迫使公司提高产品售价。&lt;/p&gt;
@@ -712,23 +983,7 @@ Mac价格全面上涨，并将推出租赁计划
 
 &lt;p&gt;立法前景与加密行业的政治资本运作高度交织。&lt;/p&gt;
 &lt;p&gt;支持加密产业的政治行动委员会Fairshake及其两家关联超级政治行动委员会，根据联邦选举委员会备案文件显示，已为本届中期选举筹集1.64亿美元，目前已累计支出6660万美元用于影响选举结果。&lt;/p&gt;
-&lt;p&gt;分析人士指出，若民主党选择阻断这一行业优先立法，可能面临来自上述资金的大规模政治反制。对于正处于选举周期中的民主党议员而言，这一压力客观上构成了支持法案的额外动因。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油轮在沙特附近海域遇袭，油价应声走高，此前胡塞武装称“对沙特实施海上禁运”</title><link>https://wallstreetcn.com/articles/3777728</link><guid>cccf24da7c72254e7fdc53a71de6dffdd5a2eda4a6c9cf91f025e41695a7da85</guid><pubDate>Thu, 23 Jul 2026 00:06:36 GMT</pubDate><description>&lt;p&gt;胡塞武装对红海沙特油轮发动袭击，将中东冲突推向新的危险阶段，国际油价随即大幅跳涨。&lt;/p&gt;
-&lt;p&gt;据央视新闻23日报道，英国海上贸易行动办公室（UKMTO）消息，一艘油轮在距离沙特阿拉伯希基格（Al Shuqaiq）约70海里的海域发生安全事件，船长报告称船只遭一枚来源不明的抛射物击中，导致船上起火，事件正在进一步调查中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;随后，胡塞武装发表声明，宣称对两艘沙特油轮——Encelia号和Layla号——发射了导弹和无人机，理由是上述船只违反了其宣布的封锁令。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消息传出后，国际油价迅速拉升。WTI原油期货一度上涨近2%，报约每桶88美元；布伦特原油在盘后交易中突破每桶95美元，随后涨幅有所收窄。此次袭击是红海水域首次针对油轮的攻击，标志着地区冲突开辟了新战线，此前也门胡塞武装发表声明，宣布对沙特阿拉伯实施海上禁运，市场对中东能源供应中断的担忧进一步加剧。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-胡塞武装宣布&amp;quot;海上禁运&amp;quot;，威胁升级
-&lt;p&gt;据央视新闻，当地时间20日晚，也门胡塞武装设在萨那的人道主义行动协调中心向多家航运公司发出邮件，警告与沙特港口开展贸易往来的船只可能面临军事打击，进一步扩大了此前宣布的针对沙特的海上禁运范围。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;胡塞武装明确表示，相关限制措施不仅针对悬挂沙特旗帜的船只，同样适用于在沙特港口装卸货物的船舶，并敦促航运公司在安排涉及沙特港口的航行计划时采取“应有的谨慎措施”，警告相关船只可能在其作战能力覆盖范围内&amp;quot;成为打击目标&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;胡塞武装发言人叶海亚·萨雷亚20日发表声明称，立即对沙特实施海上禁运，这一决定基于“封锁对封锁”原则作出。目前，科威特、卡塔尔等国已对此表示反对，重申支持国际法框架下的航行自由。&lt;/p&gt;
-红海成新冲突前线，供应风险叠加
-&lt;p&gt;此次红海袭击是该水域首次针对油轮的攻击，在霍尔木兹海峡局势持续紧张的背景下，为地区冲突开辟了新的战线。近期，伊朗已多次对霍尔木兹海峡内的船只发动袭击，而该海峡是波斯湾原油出口的关键通道。&lt;/p&gt;
-&lt;p&gt;红海对沙特而言具有重要战略意义。该水道已成为沙特的关键替代出口通道，使沙特得以绕开霍尔木兹海峡，每日向全球客户输送数百万桶原油。一旦红海航线受阻，沙特的出口能力将受到严重冲击。&lt;/p&gt;
-&lt;p&gt;ANZ集团高级大宗商品策略师Daniel Hynes表示，&lt;strong&gt;此次红海袭击是冲突的&amp;quot;严重升级&amp;quot;，&amp;quot;如果这条航线遭到破坏，石油市场的供应紧张局面只会进一步恶化。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-布伦特原油本月已涨近三成，分析师警示三位数油价
-&lt;p&gt;布伦特原油本月累计涨幅已接近30%，部分分析师认为，若中东敌对态势持续，油价有望在今年晚些时候重返三位数。&lt;/p&gt;
-&lt;p&gt;在更广泛的地区冲突背景下，美国已连续第12天对伊朗发动空袭，伊朗则以袭击科威特作为报复，科威特承受了伊朗反击的主要冲击。特朗普威胁打击桥梁和发电站，甚至包括德黑兰境内目标，并再度扬言打击疑似伊朗核设施&amp;quot;Pickaxe Mountain&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Rapidan Energy Group创始人兼总裁Bob McNally警告称，若霍尔木兹海峡周边冲突蔓延至红海，油价可能出现大幅上行。美国和伊朗双方均已淡化和谈前景，持续敌对的可能性上升，这将进一步收紧全球石油市场供应。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] WTI冲上88美元六周高位！特朗普称"德黑兰市内"纳入打击坐标，库欣库存触底与产量回落共振</title><link>https://wallstreetcn.com/articles/3777716</link><guid>7d6b4a6c5c7771b7dc839a0453ba79fe53e8a3e5ae1ebf2cb52f410f28494a67</guid><pubDate>Wed, 22 Jul 2026 22:46:03 GMT</pubDate><description>&lt;p&gt;WTI原油升至约88美元的六周高位，地缘政治与基本面两条此前走势背离的逻辑线罕见地同步收紧。&lt;/p&gt;
+&lt;p&gt;分析人士指出，若民主党选择阻断这一行业优先立法，可能面临来自上述资金的大规模政治反制。对于正处于选举周期中的民主党议员而言，这一压力客观上构成了支持法案的额外动因。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] WTI冲上88美元六周高位！特朗普称"德黑兰市内"纳入打击坐标，库欣库存触底与产量回落共振</title><link>https://wallstreetcn.com/articles/3777716</link><guid>7d6b4a6c5c7771b7dc839a0453ba79fe53e8a3e5ae1ebf2cb52f410f28494a67</guid><pubDate>Wed, 22 Jul 2026 22:46:03 GMT</pubDate><description>&lt;p&gt;WTI原油升至约88美元的六周高位，地缘政治与基本面两条此前走势背离的逻辑线罕见地同步收紧。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;特朗普将打击威胁从此前的泛指精确至德黑兰市区坐标；库欣库存持续探底逼近运营下限，美国原油产量从纪录高位回落——二者共振正在系统性地削弱油价的下行空间。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;特朗普周三在社交媒体上明确表示，如果伊朗攻击霍尔木兹海峡的任何船只，&amp;quot;美国将轰炸并摧毁一座桥梁或发电厂，包括位于德黑兰附近或市内的设施&amp;quot;。&lt;/p&gt;
 &lt;p&gt;国务卿Rubio同日明确，只要伊朗试图控制航运交通，美军将持续攻击。&lt;strong&gt;战争部长Hegseth与特朗普共同释放扩大战争的信号，潜在目标延伸至也门胡塞武装。&lt;/strong&gt;&lt;/p&gt;
@@ -755,33 +1010,4 @@ Mac价格全面上涨，并将推出租赁计划
 &lt;p&gt;油价上涨正通过零售汽油价格向美国消费者传导，触及经济与政治的双重敏感阈值。&lt;/p&gt;
 &lt;p&gt;4美元/加仑被广泛视为一个关键阈值——在此水平之上，低收入消费者通常开始削减可选消费支出，加油站、便利店及快餐连锁店的客单价和客流量均受到挤压，进一步拖累消费者信心并侵蚀特朗普的民调支持率。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;原油市场的核心定价变量在于：地缘威胁的精确度升级与库欣库存的持续探底正在系统性地收窄油价下行空间，而此前一度推动油价回调的停火预期已显著降温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克继续加码！SpaceX AI在德克萨斯州布局大数据中心，规模或超孟菲斯设施</title><link>https://wallstreetcn.com/articles/3777700</link><guid>86a67143e7a2a36e3b4286f91ba834cfa90f991137f283bfb4bbbd461ade74ac</guid><pubDate>Wed, 22 Jul 2026 13:29:51 GMT</pubDate><description>&lt;p&gt;马斯克旗下人工智能公司SpaceX AI正将其数据中心版图向德克萨斯州延伸，扩张规模剑指与现有孟菲斯设施相当甚至更大的体量，进一步凸显该公司在AI基础设施领域的激进投入策略。&lt;/p&gt;
-&lt;p&gt;据科技媒体The Information周三报道，&lt;strong&gt;SpaceX AI已在德克萨斯州考察多处选址，并着手为至少一座大型数据中心奠定基础。公司已向当地派驻部分现有数据中心员工，并近期在奥斯汀、巴斯特罗普及科罗内发布多个基础设施相关岗位招聘。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次扩张将进一步加重SpaceX AI已然沉重的资本支出负担。该公司一季度AI相关资本支出已跃升至77亿美元，约为去年同期三倍。&lt;/strong&gt;摩根士丹利分析师曾预测SpaceX AI 2026年至2027年合计将消耗1200亿美元现金，主因正是AI基础设施投入。&lt;/p&gt;
-
-多地布局，规模对标孟菲斯
-
-&lt;p&gt;SpaceX AI目前在两座运营中的数据中心之间拥有约1吉瓦算力，安装了数十万块英伟达GPU。&lt;/p&gt;
-&lt;p&gt;据两位知情人士向The Information透露&lt;strong&gt;，SpaceX AI就此次德克萨斯州扩张讨论了多种方案，包括从零新建多座数据中心，以及对现有仓库进行改造——后者与该公司将孟菲斯一处废弃制造设施改建为首座数据中心的路径如出一辙。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Supermicro首席执行官Charles Liang今年6月在X平台表示，该公司正协助SpaceX AI在一年内建设&amp;quot;另一座全新的吉瓦级AI数据中心&amp;quot;，但未透露具体地点。Supermicro此前曾多次公开宣传其向SpaceX AI供应基于英伟达服务器及冷却设备的合作关系。&lt;/p&gt;
-&lt;p&gt;值得注意的是，此次扩张计划目前尚无明确时间表。&lt;/p&gt;
-
-资本消耗高企，多元变现寻求对冲
-
-&lt;p&gt;面对持续攀升的资本支出，SpaceX AI已开始寻求新的收入来源加以平衡。&lt;/p&gt;
-&lt;p&gt;今年6月，该公司宣布将大量算力租赁给Anthropic和谷歌等公司，马斯克表示公司在需要时可收回相关算力。&lt;/p&gt;
-&lt;p&gt;与此同时，SpaceX AI已达成600亿美元收购AI初创公司Cursor的协议，后者致力于拓展编程以外的业务，并计划于今年底前开发领先的通用模型。&lt;/p&gt;
-
-管理层重组，基础设施团队扩编
-
-&lt;p&gt;过去一年，SpaceX AI经历了一系列组织调整。联合创始人Ross Nordeen于今年3月离职，他此前负责监督公司数据中心建设并频繁向马斯克汇报。&lt;/p&gt;
-&lt;p&gt;今年4月初，SpaceX AI总裁Michael Nicolls通过内部备忘录宣布新领导架构：Jake Palmer负责物理基础设施，SpaceX软件工程总监Daniel Dueri负责计算基础设施。&lt;/p&gt;
-&lt;p&gt;在人员配置上，SpaceX AI数据中心团队Colossus在过去一年新增逾40名员工，并于今年2月SpaceX与XAI合并后引入SpaceX员工协助运营。&lt;/p&gt;
-
-天然气依赖引发争议，能源布局延伸多州
-
-&lt;p&gt;在能源保障方面，SpaceX AI高度依赖天然气涡轮机为数据中心补充电网供电，已在田纳西州和密西西比州安装数十台移动涡轮机，并通过与休斯顿Solaris Energy Infrastructure的合资企业在密西西比州开发一座永久性燃气发电厂。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;这一能源策略在孟菲斯引发强烈反对。&lt;/strong&gt;当地居民、政界人士及环保团体对天然气涡轮机使用及用水问题持续施压。&lt;/p&gt;
-&lt;p&gt;今年早些时候，SpaceX AI在削减成本过程中推迟了一项价值8000万美元的废水回收设施建设，进一步激化矛盾。&lt;/p&gt;
-&lt;p&gt;在孟菲斯区域，SpaceX AI仍在推进第三座数据中心建设，并于去年底在密西西比州购置了约75000平方米仓库。此外，SpaceX AI还向佛罗里达州杰克逊维尔派驻了员工，并发布数据中心岗位招聘。马斯克今年5月收购的发电设备供应商APR Energy总部位于杰克逊维尔，在田纳西州、密西西比州和德克萨斯州均有业务，而SpaceX AI此前曾向APR Energy采购涡轮机。&lt;/p&gt;
-&lt;p&gt;德克萨斯州对马斯克而言具有特殊战略意义——SpaceX与特斯拉正在科罗内附近的格莱姆斯县联合建设一座半导体制造设施，SpaceX AI此次选址德克萨斯州亦与马斯克旗下各业务的地理聚合趋势一脉相承。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;原油市场的核心定价变量在于：地缘威胁的精确度升级与库欣库存的持续探底正在系统性地收窄油价下行空间，而此前一度推动油价回调的停火预期已显著降温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
