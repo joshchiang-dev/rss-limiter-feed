@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 16:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 16:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -206,7 +206,26 @@ AI巨头举债潮冲击债市，美国长债收益率创纪录
 &lt;p&gt;据央视新闻，据沙特方面23日消息，沙特阿拉伯“恩塞利亚”号油轮在红海航行时遭袭，袭击造成船头起火，船员均安全。此前，也门胡塞武装表示使用多枚弹道导弹、巡航导弹以及无人机，打击违反该组织海上禁运令的沙特油轮“恩塞利亚”号和“莱拉”号。&lt;/p&gt;
 &lt;p&gt;自本轮中东局势升级以来，曼德海峡作为连接红海与亚丁湾的关键水道，始终承担着全球重要原油出口的生命线职能。此次袭击事件不仅直接干扰了该航线的通航安全，更与美国和伊朗之间近期持续紧张的对峙态势相互叠加，显著放大了市场对潜在供应中断的恐慌情绪。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+业绩扎实，但指引成为市场焦点
+&lt;p&gt;&lt;strong&gt;两家公司的二季度财务数据均属稳健。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德州仪器调整后每股收益同比跳升52%至2.14美元，高于市场预期的1.94美元；营收增长23%至54.6亿美元，亦超出分析师预期的52.6亿美元。三季度利润与营收指引中值同样优于预期。&lt;/p&gt;
+&lt;p&gt;意法半导体调整后每股收益翻逾一倍至31美分，营收增长26%至34.9亿美元，均略超分析师预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，两家公司的指引细节均触发了市场担忧。&lt;/strong&gt;意法半导体三季度营收指引低于预期，并提示个人消费电子业务将出现低于季节性规律的表现。德州仪器首席财务官Rafael Lizardi则向分析师表示，资本支出可能落在20亿至30亿美元指引区间的高端，令市场对自由现金流改善的预期受到压制。&lt;/p&gt;
+&lt;p&gt;Cantor分析师Matthew Prisco指出，德州仪器此前已是市场高度集中的多头仓位，叠加较高的预期基准，&amp;quot;在季节性指引（环比约+8%）结合定价、数据中心及周期性顺风因素的情况下，盘后抛售具有合理性&amp;quot;，并强调资本支出表态对现金流拐点预期构成压力。&lt;/p&gt;
+AI数据中心成为核心增长引擎
+&lt;p&gt;&lt;strong&gt;尽管短期股价承压，两家公司均呈现出AI基础设施需求强劲拉动的共同主线。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;意法半导体首席执行官Jean-Marc Chery表示，四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心及低轨卫星通信需求带动。公司将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元——&lt;strong&gt;这已是公司自今年4月首次单独披露AI业务指引以来的第二次大幅上调。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德州仪器同样报告了数据中心需求的快速增长，工业销售额增幅至少达30%，汽车业务亦录得中双位数增长。&lt;/p&gt;
+&lt;p&gt;彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;意法半导体与亚马逊AWS签署的电源管理芯片供应协议，据Chery表示将在未来三至五年持续贡献收入。&lt;/p&gt;
+高估值成为板块共同隐患
+&lt;p&gt;此次两家公司的市场反应，揭示了当前模拟半导体板块更深层的结构性矛盾。&lt;/p&gt;
+&lt;p&gt;意法半导体年内股价累计涨幅约119%，并于今年6月趁股价高位完成了15亿美元可转换债券发行；德州仪器年内涨幅亦约达60%。高涨幅意味着市场已提前计入相当程度的乐观预期，任何低于预期的指引都可能触发获利了结。&lt;/p&gt;
+&lt;p&gt;UBS分析师Francois-Xavier Bouvignies表示，意法半导体股价在过去三个月已累计上涨35%，&amp;quot;我们认为，缺乏实质性上调的财报，今日将对股价形成相对市场的压力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;从行业整体来看，&lt;strong&gt;模拟半导体的基本面复苏方向并未改变，AI基础设施、工业及汽车需求均呈现回暖态势。但在估值已充分反映乐观情景的背景下，投资者对增长节奏的敏感度显著上升，业绩达标已不再足够，市场需要的是持续超越预期的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩超预期+云业务大爆发，谷歌为什么还在跌？</title><link>https://wallstreetcn.com/articles/3777792</link><guid>fa7641b361773ab872c77d19f47b2bc2de08d938750690cf8ff818ce3b5a22cd</guid><pubDate>Thu, 23 Jul 2026 12:17:34 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet交出了一份亮眼的二季度成绩单，云业务增速远超预期，整体营收和每股盈利均大幅击败华尔街预期。然而，股价仍然大跌，折射出市场对资本开支急剧膨胀、自由现金流转负以及股权稀释等深层隐忧的担忧。&lt;/p&gt;
 &lt;p&gt;据美银证券研报，Alphabet第二季度净营收达1036亿美元，高于市场预期的1011亿美元，谷歌云收入同比增长82%，远超市场预期的65%，加速势头尤为突出。&lt;/p&gt;
 &lt;p&gt;与此同时，公司将2026财年资本开支指引上调150亿美元至1950亿至2050亿美元区间，较此前1800亿至1900亿的指引大幅提升，这一消息成为压制股价的核心变量。&lt;/p&gt;
 &lt;p&gt;美银证券分析师Justin Post在报告中维持对Alphabet的&amp;quot;买入&amp;quot;评级，目标价430美元。他指出，&lt;strong&gt;尽管资本开支上调引发市场负面反应，但云业务积压订单、客户超额消费及云利润率的持续扩张，均表明增量投入正在直接转化为收入增长。&lt;/strong&gt;&lt;/p&gt;
@@ -371,19 +390,4 @@ AI热潮推升需求，供应链仍是挑战
 &lt;p&gt;上个月，欧洲央行成为七国集团（G7）中首个自冲突爆发以来加息的主要央行。目前，在应对由地缘冲突推动的价格压力方面，欧洲央行仍处于七国集团央行的前列。&lt;/p&gt;
 &lt;p&gt;拉加德对记者表示：“通胀前景面临上行风险。能源冲击可能进一步加剧，其对其他商品价格和工资的影响可能强于目前预期。能源价格维持高位的时间越长，推动更广泛通胀上升的可能性就越大。”&lt;/p&gt;
 &lt;p&gt;目前，中东冲突呈现扩大迹象，并可能造成进一步供应扰动。周四，在获得伊朗支持的胡塞武装声称袭击了两艘沙特阿拉伯油轮后，&lt;strong&gt;国际油价两个月来首次突破每桶100美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报季开局强劲，为何美股却难创新高？摩根大通：“盈利燃料”正在耗尽</title><link>https://wallstreetcn.com/articles/3777787</link><guid>12145462539e3231272f719a6c9409a325ab16a9c3d9bf9d4306d1daa4e080ae</guid><pubDate>Thu, 23 Jul 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;美股第二季度财报季开局亮眼，但强劲业绩未能推动市场突破历史高点。摩根大通警告，&lt;strong&gt;驱动美股上行的&amp;quot;盈利燃料&amp;quot;正逐渐耗尽，多项先行指标显示盈利修正的上行空间已趋于收窄。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛、美国银行、谷歌、特斯拉等华尔街巨头与科技龙头相继发布财报，BNY Mellon、强生、软件公司ServiceNow等企业纷纷上调全年业绩指引，财报季整体表现强劲。然而，标普500指数本月基本原地踏步，截至周三收盘仍距历史高点逾1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通策略师团队在周四发布的报告中指出，&lt;strong&gt;伊朗战争已改变通胀走势，进而影响短期和长期利率预期，令市场环境趋于复杂。在此背景下，即便业绩超预期并上调指引，也愈发难以成为推动股价进一步走高的催化剂。&lt;/strong&gt;&lt;/p&gt;
-盈利修正动能减弱，上行空间收窄
-&lt;p&gt;摩根大通策略师团队由Khuram Chaudhry领衔，在报告中写道：&lt;strong&gt;&amp;quot;盈利上调虽然普遍，但修正趋势表明燃料可能即将耗尽。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该团队重点关注生产者价格通胀与消费者价格通胀之间的利差。&lt;/p&gt;
-&lt;p&gt;据摩根大通数据，企业销售额与该利差的相关性约为47%，每股盈利与该利差的相关性约为29%。目前，这一利差似乎已触顶并陷入停滞。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;如果这一趋势持续，风险在于每股盈利和销售预测的进一步上调空间可能十分有限&lt;/strong&gt;，&amp;quot;上述策略师表示。&lt;/p&gt;
-ISM订单库存比走低，需求信号趋弱
-&lt;p&gt;除通胀利差外，摩根大通还指出另一项值得警惕的指标——美国供应管理协会（ISM）的订单与库存比率过去三个月持续下滑，进一步印证了盈利上行动能减弱的判断。&lt;/p&gt;
-&lt;p&gt;该比率通常被视为制造业需求前景的先行指标，其持续走低意味着企业订单增速相对库存积累有所放缓，对未来营收和盈利预期构成潜在压力。&lt;/p&gt;
-高分歧个股与高风险资产优势消退
-&lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
-&lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
-&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
