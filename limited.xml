@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 18:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 23 Jul 2026 19:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis最新对谈：OpenAI与Anthropic双雄争霸、谷歌掉队，编程吃下近半Token</title><link>https://wallstreetcn.com/articles/3777761</link><guid>5e385472c24704402cf25bfc1e72690b760a25f2b8f6c078fa49a90c68b1b8e1</guid><pubDate>Thu, 23 Jul 2026 07:31:15 GMT</pubDate><description>&lt;p&gt;生成式 AI 产业正迎来极其关键的商业化拐点——&lt;strong&gt;行业重心正从粗放式的“预训练算力堆叠”，全面转向“企业级 ROI 兑现与高毛利 API 战”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;知名 AI 与半导体研究机构 SemiAnalysis 在最新对谈中，对大模型行业的竞争格局、算力金融化模式及盈利逻辑进行了深入的讨论。分析师任务，编程与软件工程已成为代币（Token）消耗的核心引擎，驱动前沿实验室的收入重心由消费端全面转向高毛利的企业级 API。&lt;/p&gt;
 &lt;p&gt;在竞争格局上，OpenAI 凭借新模型与 Codex 成功打出反击，与 Anthropic 演变为双雄争霸，而谷歌则因算力绑定与战略失误沦为第五。同时，AI 能力的提升正从预训练转向强化学习（RL）扩展定律，催生出百亿美元级别的 RL 环境数据市场。各大厂商在算力变现、订阅补贴挤压与企业预算控制之间展开了新一轮博弈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -341,44 +341,7 @@ ISM订单库存比走低，需求信号趋弱
 高分歧个股与高风险资产优势消退
 &lt;p&gt;摩根大通还从市场结构层面提示风险。策略师们指出，分析师对未来业绩预测分歧较大的个股——即最高与最低每股盈利预测之间差距悬殊的股票——近期表现已出现拐点。&lt;/p&gt;
 &lt;p&gt;&amp;quot;目前，高分歧股票似乎已经见顶，并开始回吐过去数年积累的部分涨幅，&amp;quot;策略师写道。他们补充称，高风险股票相对于业绩更稳定、杠杆率更低的股票，同样面临类似的逻辑压力。&lt;/p&gt;
-&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌、特斯拉双双现金流转负，对于AI交易意味着什么？</title><link>https://wallstreetcn.com/articles/3777767</link><guid>cd1bac5483d61c8df711bcbd963cf2b255f59aca753f8518d1c196e2721c50fc</guid><pubDate>Thu, 23 Jul 2026 07:20:40 GMT</pubDate><description>&lt;p&gt;谷歌母公司Alphabet与特斯拉在本轮科技财报季率先亮相，却共同传递出一个令市场不安的信号：&lt;strong&gt;激进的AI资本支出正在吞噬现金流，而收入超预期的亮眼表现，已不足以安抚投资者的担忧情绪。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两家公司均在最新季度录得负自由现金流，并同时警告资本支出将进一步攀升。财报发布后，&lt;strong&gt;特斯拉盘后股价下跌4%，Alphabet跌近3%&lt;/strong&gt;。这一市场反应表明，&lt;strong&gt;投资者对AI投资回报的耐心正在经受考验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;谷歌历来被视为四大云计算巨头中现金流最充裕的&amp;quot;异类&amp;quot;，如今在AI烧钱大战中却也未能幸免——第二季度自由现金流转负59亿美元，与去年同期近250亿美元的盈余形成鲜明反差。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一幕对整个科技行业而言或许是一个不祥的前兆。&lt;/strong&gt;Meta、微软、亚马逊和苹果均将于下周陆续公布季度业绩，投资者将密切审视这些科技巨头是否面临同样的现金流压力。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3777694"&gt;华尔街见闻文章&lt;/a&gt;此前写道，美国银行最新报告指出，四大超大规模云计算商中，有三家预计将在今年年底前耗尽自由现金流——这场&amp;quot;代际转移&amp;quot;正在深刻重塑大型科技股的投资逻辑。&lt;/p&gt;
-现金流双双转负，数字触目惊心
-&lt;p&gt;谷歌母公司Alphabet与特斯拉的现金流恶化程度，远超市场此前预期。&lt;/p&gt;
-&lt;p&gt;财报显示，&lt;a href="https://wallstreetcn.com/articles/3777718"&gt;谷歌第二季度自由现金流跌至负59亿美元&lt;/a&gt;。这一数字与一年前形成了鲜明反差——彼时这家以广告业务高利润率著称的公司，自由现金流接近250亿美元。谷歌首席财务官Anat Ashkenazi在&lt;a href="https://wallstreetcn.com/articles/3777723"&gt;财报电话会议&lt;/a&gt;上表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们预计自由现金流将持续承压，这是由我们在技术基础设施方面的投资所驱动的，这些投资使我们能够把握AI机遇并持续创造可观回报。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;她补充说，第二季度高达449亿美元的资本支出，大部分流向了支撑AI建设的基础设施。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特斯拉的情况同样急剧恶化。&lt;/strong&gt;最新财报显示，&lt;a href="https://wallstreetcn.com/articles/3777719"&gt;特斯拉第二季度自由现金流录得负11亿美元&lt;/a&gt;，而一年前为正1.46亿美元，今年一季度则为正14.4亿美元。第二季度资本支出同比飙升142%至57.9亿美元。&lt;/p&gt;
-&lt;p&gt;首席执行官&lt;a href="https://wallstreetcn.com/articles/3777724"&gt;马斯克在财报电话会议上&lt;/a&gt;表示，&amp;quot;这是一个大规模资本支出年，但我们相信所有投资都将带来惊人回报。&amp;quot;他将特斯拉当前的扩张比作亨利·福特时代的Model T，并称&amp;quot;这可能是二战以来美国速度最快的工业规模化扩张&amp;quot;。&lt;/p&gt;
-支出规模持续上调，上限不断被突破
-&lt;p&gt;两家公司不仅未能给出收缩支出的信号，反而进一步上调了全年资本支出指引。&lt;/p&gt;
-&lt;p&gt;谷歌将今年资本支出预测区间从此前的1800亿至1900亿美元，上调至1950亿至2050亿美元，并&lt;strong&gt;警告2027年数字将进一步走高&lt;/strong&gt;。若以新指引上限计算，谷歌今年的资本支出规模有望跻身科技行业最高之列，与亚马逊逾2000亿美元的指引相当。&lt;/p&gt;
-&lt;p&gt;特斯拉则重申今年资本支出将超过250亿美元，较去年同期增长约200%。公司正将工厂改造为生产双座无人驾驶Cybercab和Optimus人形机器人的设施，同时筹备在德克萨斯州建设一座大型AI芯片制造工厂。马斯克表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们应该尽可能快地进行资本支出，只要不过于浪费。资本效率稍低一些是可以接受的，只要我们能更快地完成目标。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-华尔街警告：现金流危机或蔓延至整个超大规模云计算行业
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777694"&gt;华尔街见闻文章写道&lt;/a&gt;，美国银行最新报告指出，这场现金流压力并非Alphabet和特斯拉的个案，而是整个超大规模云计算行业面临的系统性挑战。&lt;/p&gt;
-&lt;p&gt;报告显示，&lt;strong&gt;Meta和亚马逊最快将于本季度出现负自由现金流，微软则预计在今年第四季度（即其2027财年第二季度）步其后尘。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;彭博Markets Live策略师Tatiana Darie认为，随着自由现金流趋于枯竭，这些科技巨头将不得不转向外部融资，在大多数情况下意味着增加债务或摊薄现有股东权益。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;更高的债务负担意味着财务杠杆上升，而股权稀释则直接侵蚀每股盈利，两者均将对估值构成压力，并迫使市场重新评估AI投资的长期回报逻辑。&lt;/p&gt;
-&lt;/blockquote&gt;
-多空分歧加剧，市场耐心面临考验
-&lt;p&gt;尽管盘后股价承压，但看多阵营的声音并未消退。&lt;/p&gt;
-&lt;p&gt;Mizuho分析师在研报中写道，&lt;strong&gt;谷歌资本支出的上调&amp;quot;在市场预期之内&amp;quot;&lt;/strong&gt;，整体故事依然积极，主要得益于云业务收入同比大幅增长82%，远超预期，云业务利润率也有所扩张，Gemini模型的使用量加速增长。&lt;strong&gt;&amp;quot;因此，我们对股价盘后下跌感到意外，预计明日交易中将会回升。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;投资咨询公司Fitz-Gerald Group负责人Keith Fitz-Gerald表示，&lt;strong&gt;特斯拉正在&amp;quot;为基础设施牺牲盈利能力&amp;quot;&lt;/strong&gt;，这与亚马逊和Netflix此前走过的路径如出一辙，&lt;strong&gt;&amp;quot;我预计这将在未来12至36个月内得到丰厚回报。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;科技研究公司Valoir首席执行官Rebecca Wettemann则表示，&lt;strong&gt;谷歌核心业务依然强劲，AI投资正在产生回报，&amp;quot;谷歌的势头应能缓解市场对AI过度支出的部分担忧。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;市场的整体情绪仍显脆弱。&lt;/strong&gt;进入本周财报发布前，Alphabet股价已连续三个月下跌，特斯拉7月以来累计下跌11%，年内跌幅达17%。以科技股为主的纳斯达克指数自6月初创下历史高点以来已累计下跌约5%。&lt;/p&gt;
-&lt;p&gt;随着&lt;strong&gt;Meta、微软、亚马逊和苹果下周相继登场&lt;/strong&gt;，AI资本支出与投资回报之间的张力，将迎来更为严峻的市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨</title><link>https://wallstreetcn.com/articles/3777740</link><guid>0057a0edcf4c307cee08f4df6db9a40109699cdcf204ced2e9653ce392bee7a1</guid><pubDate>Thu, 23 Jul 2026 08:13:49 GMT</pubDate><description>&lt;p&gt;在&amp;quot;十五五&amp;quot;规划落地、特高压大单兑现、AI算力缺电三重催化下，电网设备板块掀起涨停潮，锂矿板块受碳酸锂期货大涨等提振全线爆发；而科创50大跌近4%，半导体产业链陷入调整。&lt;/p&gt;
+&lt;p&gt;这一判断意味着，此前在不确定性环境中受益于高预期弹性的个股，其超额收益空间正在收窄，市场风格或将向防御性、低波动资产倾斜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨</title><link>https://wallstreetcn.com/articles/3777740</link><guid>0057a0edcf4c307cee08f4df6db9a40109699cdcf204ced2e9653ce392bee7a1</guid><pubDate>Thu, 23 Jul 2026 08:13:49 GMT</pubDate><description>&lt;p&gt;在&amp;quot;十五五&amp;quot;规划落地、特高压大单兑现、AI算力缺电三重催化下，电网设备板块掀起涨停潮，锂矿板块受碳酸锂期货大涨等提振全线爆发；而科创50大跌近4%，半导体产业链陷入调整。&lt;/p&gt;
 &lt;p&gt;7月23日，A股全天横盘震荡，三大指数缩量盘整，小幅上涨，中小盘股走势较强。在半导体产业链集体调整之际，科创50大跌近4%。锂矿、工业金属、电网设备等大涨，芯片半导体再度陷入调整，半导体硅片、半导体设备等跌幅居前。&lt;/p&gt;
 &lt;p&gt;港股早盘高开高走，恒指、恒科指盘初双双上涨，恒指涨超1%，科网股普遍反弹，腾讯、阿里、快手、百度等上涨，美团涨超4%，芯片股承压，华虹宏力跌超7%。债市方面，国债期货多数下跌。商品方面，国内商品期货普遍上涨。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -426,4 +389,20 @@ ISM订单库存比走低，需求信号趋弱
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;分析认为，板块下挫主要源于部分公司发布股东询价转让计划引发市场担忧，叠加板块此前积累较大涨幅后，资金选择止盈离场、切换至年内相对低位的资源与基建品种。&lt;/p&gt;
 &lt;p&gt;不过，中信证券认为，7月以来科技板块大幅调整后估值已明显回落，但自主可控、AI零部件、涨价链及消费电子等方向的基本面并未发生逆转，部分细分板块当前估值尚未充分反映后续订单增长与业绩兑现预期，具备较强的超跌修复空间。&lt;/p&gt;
-&lt;p&gt;中原证券则指出，2026年全球半导体销售额同比大幅增长104%，行业处于AI驱动的超级上行周期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;中原证券则指出，2026年全球半导体销售额同比大幅增长104%，行业处于AI驱动的超级上行周期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电控解决方案供应商臻驱科技再冲刺港交所</title><link>https://wallstreetcn.com/articles/3777777</link><guid>147724daa60dd0680bc14741362908632f86feadef0a2917d8c755c553c3d48a</guid><pubDate>Thu, 23 Jul 2026 08:27:16 GMT</pubDate><description>&lt;p&gt;7月22日，臻驱科技（上海）股份有限公司向港交所主板递交上市申请，中信证券与海通国际担任联席保荐人。这是该公司继2026年1月首次递表失效后的第二次尝试。&lt;/p&gt;
+&lt;p&gt;据了解，臻驱科技2017年成立于上海浦东，创始人沈捷为80后，毕业于德国亚琛工业大学，获电气工程博士学位，曾在GE全球研发中心工作近十年。公司主营新能源汽车电控解决方案，产品覆盖功率模块、电机控制器和“功率砖”三类。&lt;/p&gt;
+&lt;p&gt;“功率砖”是臻驱科技的核心差异化产品。&lt;/p&gt;
+&lt;p&gt;招股书称，公司于2021年推出业内首款主驱功率砖产品，并在其后逐步实现量产。该产品将功率模块、控制逻辑与散热结构整合为标准化模块。据招股书披露，功率砖产品于2022年起出货量开始显著增长。&lt;/p&gt;
+&lt;p&gt;据弗若斯特沙利文数据，2025年按销售收入计，臻驱科技主驱功率砖排名中国第一，市场份额31.4%；双电机控制器排名第一；电机控制器排名第六；功率模块排名第七。&lt;/p&gt;
+&lt;p&gt;截至2026年5月31日，公司直接或通过一级供应商获得15家主机厂的59个定点，解决方案应用于92款车型，其中74款已量产。&lt;/p&gt;
+&lt;p&gt;客户覆盖奇瑞、上汽通用五菱、长安、赛力斯等国内主机厂，并通过一级供应商进入大众汽车等全球车企供应链。公司称已直接或间接进入全球销量前五大汽车集团中的三家。&lt;/p&gt;
+&lt;p&gt;除汽车业务外，招股书披露公司已延伸至eVTOL、具身智能及AI数据中心电源领域。与智元机器人联合开发的机器人关节解决方案已于2026年5月进入量产。&lt;/p&gt;
+&lt;p&gt;招股书显示，臻驱科技2023年、2024年、2025年收入分别为1.60亿元、11.59亿元、20.00亿元，三年增长超12倍。2026年前五个月收入9.56亿元，同比增长73.3%。&lt;/p&gt;
+&lt;p&gt;盈利方面，公司尚未扭亏。2023年至2025年净亏损分别为2.37亿元、3.35亿元、3.31亿元；2026年前五个月净亏损1.28亿元，较上年同期的1.60亿元有所收窄。2023年至今累计亏损约10.31亿元。&lt;/p&gt;
+&lt;p&gt;毛利率持续改善，从2023年的-8.3%升至2024年的1.3%、2025年的5.6%，2026年前五个月达9.0%。&lt;/p&gt;
+&lt;p&gt;现金流方面，经营活动现金流持续为负，2023年、2024年、2025年及2026年前五个月分别为-2.54亿元、-6.35亿元、-1.79亿元、-1.79亿元。截至2026年5月31日，现金及现金等价物6.28亿元，计息银行借款合计18.01亿元，其中短期借款13.27亿元，长期借款4.74亿元，资产负债率85.3%。&lt;/p&gt;
+&lt;p&gt;在股价方面，创始人沈捷直接持股9.54%，通过六家员工持股平台控制21.25%投票权，合计掌控30.79%，为单一最大股东。主要机构股东包括君联资本、联想创投等。&lt;/p&gt;
+&lt;p&gt;公司成立以来完成多轮融资。2024年1月完成D轮融资4.71亿元；2025年完成E-1轮3.7亿元、E-2轮2.1亿元两轮融资，合计募资5.8亿元。E-2轮完成后，公司投后估值42.8亿元。&lt;/p&gt;
+&lt;p&gt;招股书披露，公司客户集中度较高。2023年、2024年、2025年及2026年前五个月，来自五大客户的收入分别占总收入的86.1%、92.0%、93.5%及91.9%。其中最大客户收入占比分别为30.0%、36.4%、57.1%及50.0%。公司在招股书中将客户集中列为风险因素。&lt;/p&gt;
+&lt;p&gt;本次IPO募资拟用于产品研发、国内产能升级、国际化布局、产业链战略合作、偿还短期银行借款及补充营运资金。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 下半年怎么办？应对极端抱团，国家队点出三个方向（07.23）</title><link>http://xueqiu.com/9391624441/401731728</link><guid>d53005fb0f1ab2c5f0537eac0a7de91b29b87d96bd27fa606997a7d5bcd5b57f</guid><pubDate>Thu, 23 Jul 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;最新公募持仓数据显示，AI方向（电子+通信）的机构持仓配置比例已经上升至近60%，来到了历史新高，且远超近些年的各种抱团的巅峰值。&lt;/p&gt;</description></item><item><title>[今日雪球] 对谷歌财报、电话会的解读与思考</title><link>http://xueqiu.com/5332385101/401715536</link><guid>871f94ade26baab62f000c89e247aea89d550a5370b82f6671a53cba3c339d10</guid><pubDate>Thu, 23 Jul 2026 09:56:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;作为AI叙事能否延续的试金石，昨晚备受市场瞩目的谷歌财报公布。随着盘后业绩公布，谷歌一度下跌超4%；与之形成对比的是AI基建股盘后大涨，海力士、美光均有2-3%的涨幅。&lt;/p&gt;</description></item></channel></rss>
