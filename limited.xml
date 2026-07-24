@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 24 Jul 2026 04:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支</title><link>https://wallstreetcn.com/articles/3777822</link><guid>211e5791312b46b3c791773e82941eb5a565a521eb92ae74b618ddb9f62b0efd</guid><pubDate>Fri, 24 Jul 2026 00:11:17 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 24 Jul 2026 04:59:43 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支</title><link>https://wallstreetcn.com/articles/3777822</link><guid>211e5791312b46b3c791773e82941eb5a565a521eb92ae74b618ddb9f62b0efd</guid><pubDate>Fri, 24 Jul 2026 00:11:17 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;英特尔二季度财报在营收、利润及毛利率上均录得强劲表现，连续第七个季度超出市场财务预期，管理层透露公司正加速向“AI优先”转型以应对史无前例的计算基础设施建设浪潮。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777819"&gt;华尔街见闻提及&lt;/a&gt;，美东时间23日美股盘后，英特尔公布二季度财报，营收较分析师预期高将近12%，当季营收同比增长加快至25%，为近十五年来季营收最强劲增速。&lt;/p&gt;
 &lt;p&gt;更关键的是，英特尔给出的三季度营收指引保持了两位数高增长，指引区间相当于同比增长逾15%至近23%，整个区间都高于分析师预期。&lt;/p&gt;
@@ -537,26 +537,7 @@ AI自举硬件适配：CUDA壁垒的“阿喀琉斯之踵”
 &lt;blockquote&gt;
 &lt;p&gt;我们承诺继续动用关税并推进谈判，以支持美国经济再工业化，保护美国工人，提升其工资水平，并缩减贸易逆差。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;随着新的关税框架在法律层面得到巩固，市场预计这一政策取向将持续延伸至更多贸易伙伴和行业领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求没问题，股价却暴跌：模拟芯片龙头遭遇“高期待陷阱”</title><link>https://wallstreetcn.com/articles/3777810</link><guid>d55fbc2e87460c40619256a5c10d464a6124d6ba8a57ded9bd31bf690bf16c47</guid><pubDate>Thu, 23 Jul 2026 16:39:54 GMT</pubDate><description>&lt;p&gt;模拟半导体行业正面临一场&amp;quot;业绩越好、预期越高&amp;quot;的估值困境。德州仪器与意法半导体相继公布强劲二季度财报，但两家公司股价均在财报发布后遭到抛售，折射出当前半导体板块的共同困境：&lt;strong&gt;业绩本身已不足以支撑高企的估值，市场需要的是超出预期的惊喜。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;意法半导体（STMicroelectronics）受到的冲击尤为剧烈。公司三季度营收指引中值约37亿美元，低于彭博统计的分析师平均预期39亿美元，欧股盘中一度暴跌17%，创2025年7月以来最大单日跌幅。德州仪器（Texas Instruments）美股盘中则下跌约3%，&lt;strong&gt;尽管其二季度业绩及三季度指引均超出市场预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两家公司股价此前均已大幅累积涨幅——意法半导体年内涨幅约119%，德州仪器涨幅约60%——高估值令市场对任何瑕疵的容忍度几近于零。这一局面表明，模拟半导体板块的短期风险已从基本面转向预期管理。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-业绩扎实，但指引成为市场焦点
-&lt;p&gt;&lt;strong&gt;两家公司的二季度财务数据均属稳健。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;德州仪器调整后每股收益同比跳升52%至2.14美元，高于市场预期的1.94美元；营收增长23%至54.6亿美元，亦超出分析师预期的52.6亿美元。三季度利润与营收指引中值同样优于预期。&lt;/p&gt;
-&lt;p&gt;意法半导体调整后每股收益翻逾一倍至31美分，营收增长26%至34.9亿美元，均略超分析师预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，两家公司的指引细节均触发了市场担忧。&lt;/strong&gt;意法半导体三季度营收指引低于预期，并提示个人消费电子业务将出现低于季节性规律的表现。德州仪器首席财务官Rafael Lizardi则向分析师表示，资本支出可能落在20亿至30亿美元指引区间的高端，令市场对自由现金流改善的预期受到压制。&lt;/p&gt;
-&lt;p&gt;Cantor分析师Matthew Prisco指出，德州仪器此前已是市场高度集中的多头仓位，叠加较高的预期基准，&amp;quot;在季节性指引（环比约+8%）结合定价、数据中心及周期性顺风因素的情况下，盘后抛售具有合理性&amp;quot;，并强调资本支出表态对现金流拐点预期构成压力。&lt;/p&gt;
-AI数据中心成为核心增长引擎
-&lt;p&gt;&lt;strong&gt;尽管短期股价承压，两家公司均呈现出AI基础设施需求强劲拉动的共同主线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;意法半导体首席执行官Jean-Marc Chery表示，四季度营收将突破40亿美元，同比增长逾20%，主要受AI数据中心及低轨卫星通信需求带动。公司将2026年AI相关业务收入预期上调至超过10亿美元，并预计2027年将远超20亿美元——&lt;strong&gt;这已是公司自今年4月首次单独披露AI业务指引以来的第二次大幅上调。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;德州仪器同样报告了数据中心需求的快速增长，工业销售额增幅至少达30%，汽车业务亦录得中双位数增长。&lt;/p&gt;
-&lt;p&gt;彭博行业研究分析师Charles Shum此前指出，&lt;strong&gt;AI机架功率持续提升，正推动意法半导体功率半导体需求进入新一轮增长周期。&lt;/strong&gt;意法半导体与亚马逊AWS签署的电源管理芯片供应协议，据Chery表示将在未来三至五年持续贡献收入。&lt;/p&gt;
-高估值成为板块共同隐患
-&lt;p&gt;此次两家公司的市场反应，揭示了当前模拟半导体板块更深层的结构性矛盾。&lt;/p&gt;
-&lt;p&gt;意法半导体年内股价累计涨幅约119%，并于今年6月趁股价高位完成了15亿美元可转换债券发行；德州仪器年内涨幅亦约达60%。高涨幅意味着市场已提前计入相当程度的乐观预期，任何低于预期的指引都可能触发获利了结。&lt;/p&gt;
-&lt;p&gt;UBS分析师Francois-Xavier Bouvignies表示，意法半导体股价在过去三个月已累计上涨35%，&amp;quot;我们认为，缺乏实质性上调的财报，今日将对股价形成相对市场的压力&amp;quot;。&lt;/p&gt;
-&lt;p&gt;从行业整体来看，&lt;strong&gt;模拟半导体的基本面复苏方向并未改变，AI基础设施、工业及汽车需求均呈现回暖态势。但在估值已充分反映乐观情景的背景下，投资者对增长节奏的敏感度显著上升，业绩达标已不再足够，市场需要的是持续超越预期的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉暴跌15%，空头单日狂赚41亿美元，散户逆势加仓</title><link>https://wallstreetcn.com/articles/3777818</link><guid>0465dfbf91cfca02fede9d2b4842e07bd698b3ba6b32b831b1da338d011e5385</guid><pubDate>Thu, 23 Jul 2026 20:25:53 GMT</pubDate><description>&lt;p&gt;特斯拉股价周四大跌，做空者收获颇丰，而围绕这家电动车制造商的分歧也随之加深。&lt;/p&gt;
+&lt;p&gt;随着新的关税框架在法律层面得到巩固，市场预计这一政策取向将持续延伸至更多贸易伙伴和行业领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉暴跌15%，空头单日狂赚41亿美元，散户逆势加仓</title><link>https://wallstreetcn.com/articles/3777818</link><guid>0465dfbf91cfca02fede9d2b4842e07bd698b3ba6b32b831b1da338d011e5385</guid><pubDate>Thu, 23 Jul 2026 20:25:53 GMT</pubDate><description>&lt;p&gt;特斯拉股价周四大跌，做空者收获颇丰，而围绕这家电动车制造商的分歧也随之加深。&lt;/p&gt;
 &lt;p&gt;特斯拉股价周四盘中一度下挫15%，创逾一年来最大单日跌幅，此前该公司第二季度利润逊于预期，市场对其人工智能与机器人业务前景的疑虑再度升温。&lt;/p&gt;
 &lt;p&gt;据S3 Partners董事总经理Ihor Dusaniwsky测算，&lt;strong&gt;此轮抛售令做空者单日按市值计算的账面收益约达41.2亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受年初至今累计跌幅近30%拖累，特斯拉做空者今年迄今的账面收益已累计约达89.2亿美元。&lt;/p&gt;
@@ -598,28 +579,45 @@ AI数据中心成为核心增长引擎
 &lt;p&gt;奥迪选择与华为深度合作，Q6L e-tron、A5L燃油车均搭载华为乾崑智驾系统，同时推动与上汽共同打造面向中国市场的AUDI品牌。&lt;/p&gt;
 &lt;p&gt;此外，三家均在年初完成了中国区核心管理层的更迭。&lt;/p&gt;
 &lt;p&gt;从目前的市场反馈来看，降价对销量的拉动作用有限，消费者持币观望情绪反而有所加重。价格体系的松动是否会成为长期趋势，仍有待观察。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 新加坡主权基金GIC：中国AI将拉低全球AI成本，加速企业普及</title><link>https://wallstreetcn.com/articles/3777845</link><guid>c96e1b8ee53e623f681baf122297054f6ac3463ce3c817e6c4973908e4c73f7f</guid><pubDate>Fri, 24 Jul 2026 03:43:33 GMT</pubDate><description>&lt;p&gt;新加坡主权基金GIC表示，中国AI模型的崛起将显著降低AI技术在全球的应用成本。&lt;/p&gt;
-&lt;p&gt;7月23日，新加坡主权基金GIC首席投资官Bryan Yeo在接受《金融时报》采访时表示，&lt;strong&gt;DeepSeek、Kimi等中国大型语言模型的涌现，将推动成本下降，进而加速AI在更多企业和行业的广泛应用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bryan Yeo将这一趋势定性为对全球AI生态的积极贡献。他强调：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;使用场景只会呈指数级增长。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;OpenAI与Anthropic今年均已获得接近1万亿美元的估值，其逻辑建立在持续开发顶尖闭源模型的能力之上。分析认为，倘若低成本中国开源模型大规模普及，上述高估值的合理性将面临质疑。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 现代汽车二季度营收创新高，营业利润下滑逾两成</title><link>https://wallstreetcn.com/articles/3777842</link><guid>e9f2c898d4713c1a3edabb03948282d3d501006cdfc25f4bc573fa0657dd24d7</guid><pubDate>Fri, 24 Jul 2026 02:23:27 GMT</pubDate><description>&lt;p&gt;7月23日，现代汽车发布2026年第二季度财报。按合并财务报表口径计算，公司二季销售额达49.22万亿韩元（约合人民币2253.29亿元），同比增长1.9%，创下单季历史新高。&lt;/p&gt;
+&lt;p&gt;但营收增长未能转化为利润提升，其营业利润为2.85万亿韩元，同比下降20.8%；属于母公司股东的净利润为2.52万亿韩元，同比下降11.2%。&lt;/p&gt;
+&lt;p&gt;营收创新高背后，主要是混合动力车型热销与韩元贬值带来的汇率收益。&lt;/p&gt;
+&lt;p&gt;当季混合动力车型销量达18.77万辆，创单季新高；包括混动、纯电在内的新能源车型合计销量26.66万辆，同比增长1.7%，占总销量比重升至26.9%。&lt;/p&gt;
+&lt;p&gt;汇率方面，第二季度美元兑韩元平均汇率升至约1501.93韩元，同比上升约7%。汇率因素为当季营收贡献了约2.57万亿韩元。&lt;/p&gt;
+&lt;p&gt;但利润端承压明显。&lt;/p&gt;
+&lt;p&gt;当季现代汽车全球批发销量为99.19万辆，同比减少6.9%。具体来看，销量下滑拖累营业利润减少5420亿韩元，产品组合与促销政策变化又削减了5700亿韩元。&lt;/p&gt;
+&lt;p&gt;此外，原材料涨价以及质保、营销开支增加，导致公司销售成本率升至82.2%。今年3月零部件供应商火灾导致韩国本土生产受阻，本土销量下降16.4%。现代汽车与工会的薪资谈判陷入僵局，部分罢工也造成了一定损失。&lt;/p&gt;
+&lt;p&gt;区域市场表现分化明显。美国市场逆势增长0.9%至26.46万辆，市场份额连续5个季度保持在6%以上；而欧洲市场批发销量下降10.9%，中国市场则出现了更大幅度的下滑。&lt;/p&gt;
+&lt;p&gt;中国市场是现代汽车全球版图中压力最突出的一块。&lt;/p&gt;
+&lt;p&gt;2026年上半年，北京现代累计销售94697辆，同比下滑5.3%。6月单月销量为17388辆，环比增长5.4%，但同比2025年6月的21713辆下降20%。&lt;/p&gt;
+&lt;p&gt;在合资品牌整体承压的大背景下，北京现代将跌幅控制在个位数，跑赢了合资大盘平均水平。途胜L上半年销量同比增长37.2%，库斯途同比增长10.2%，成为支撑燃油车基本盘的主要力量。但据中汽协数据，2026年前5个月韩系车品牌市场占有率为1.6%。&lt;/p&gt;
+&lt;p&gt;面对中国市场的持续萎缩，现代汽车并未选择收缩。&lt;/p&gt;
+&lt;p&gt;今年4月底，北京现代正式发布了全新新能源品牌“艾尼氪”，并首发亮相了首款量产车型艾尼氪V，并以此为起点，未来五年推出20款纯电或增程新品，力争2030年实现50万辆产销规模。&lt;/p&gt;
+&lt;p&gt;现代汽车对全年经营环境的判断并不乐观。&lt;/p&gt;
+&lt;p&gt;公司在财报中表示，宏观经济不确定性和行业竞争加剧将使经营环境继续承压。全年目标方面，现代汽车维持销售额增长1%至2%、营业利润率6.3%至7.3%、全球批发销量415.83万辆的预期。&lt;/p&gt;
+&lt;p&gt;财报公布后，现代汽车股价上涨约2%；今年以来该股累计涨幅超过40%，市场对其机器人业务的看好在一定程度上对冲了汽车主业业绩不及预期的影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 市场定价欧央行、英国央行年内两次加息！德债收益率15年新高，英债收益率逼近18年高位</title><link>https://wallstreetcn.com/articles/3777813</link><guid>462a00f2e1db8e61e6de7e91f6eb78835c776b8d1611341450b59b3df285d1f0</guid><pubDate>Thu, 23 Jul 2026 19:41:23 GMT</pubDate><description>&lt;p&gt;德国国债收益率触及2011年以来最高水平，全球债市承压。与此同时，欧洲央行虽按兵不动，但市场已开始押注年内加息。&lt;/p&gt;
+&lt;p&gt;布伦特原油价格在欧洲央行行长拉加德召开新闻发布会期间突破每桶100美元，推动通胀预期升温。&lt;strong&gt;10年期德债收益率单日最高上涨4个基点至3.21%，而交易员已对欧洲央行年内两次加息完全定价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英国债市亦受到近期油价飙升的拖累，10年期英债收益率报5.09%，逼近5月创下的18年高位。交易员目前押注英格兰银行将在年底前两次加息至4.25%，并于明年年中前再度加息至4.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;拉加德表示，目前尚无迹象显示通胀出现&amp;quot;二轮效应&amp;quot;，但明确为9月加息保留了余地。这一表态强化了市场对欧洲央行政策路径的不确定性预期，并进一步压低欧洲债券价格。&lt;/p&gt;
+&lt;p&gt;中东局势持续升级带来的能源供应冲击，正在全球范围内推高政府债券收益率。欧洲高度依赖油气进口，能源价格的大幅波动使欧元区通胀前景更加复杂，也令债券和股票市场同时面临压力。&lt;/p&gt;
 
-GIC押注Anthropic，同时看多中国AI
+欧洲央行&amp;quot;暂停&amp;quot;并非终点
 
-&lt;p&gt;GIC已将AI置于投资战略的核心位置，过去数年间向该领域投入数十亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今年2月，GIC领投了Anthropic高达300亿美元的融资轮，若这家Claude背后的公司按计划于今年完成上市，GIC有望获得丰厚回报。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，Bryan Yeo在被追问中国开源模型是否会对Anthropic、OpenAI等美国封闭式前沿模型构成威胁时，刻意回避了直接表态。&lt;/p&gt;
-&lt;p&gt;与此同时，GIC表示对中国AI企业的成长前景持积极看法，但在投资初创公司方面保持谨慎。&lt;/p&gt;
-&lt;p&gt;Bryan Yeo指出，&lt;strong&gt;GIC需要&amp;quot;更严格地审视这些初创企业在研发投入和模型迭代方面的实际能力&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欧洲央行本次维持基准利率于2.25%不变，但市场将此次暂停解读为政策灵活性的保留，而非紧缩周期的结束。&lt;/p&gt;
+&lt;p&gt;摩根大通全球投资策略师Madison Faller表示：&amp;quot;欧洲央行今日的暂停，最恰当的理解是将脚悬在刹车上方。保留选择空间不应被误读为自满。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;德国方面，数以千亿欧元计的国防与基础设施投资计划正在加速推进，大规模债券发行构成对收益率的持续上行支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;部分分析人士认为，若此类支出带动德国及周边经济加速增长，将进一步强化欧洲央行收紧政策的必要性。&lt;/p&gt;
 
-年度回报触及近年低点，GIC调整业绩考核框架
+债市抛售是否已过度？
 
-&lt;p&gt;GIC周五发布截至今年3月底的最新年度报告。&lt;/p&gt;
-&lt;p&gt;报告显示，过去二十年经通胀调整后的年化回报率为3.4%，为2020年以来最低水平。&lt;strong&gt;GIC不披露单年度回报，亦不公开投资组合总规模，但普遍被认为是全球最大主权投资机构之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在业绩考核框架方面，GIC今年调整了报告方法论。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此前，GIC以基于新加坡政府风险偏好构建的参考组合作为对照，但同时声明该参考组合不应作为评估其回报的基准。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自明年起，GIC将改为发布基于政府风险偏好与长期回报预期构建的新战略组合业绩，并以此作为正式业绩基准。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从资产配置动向来看，GIC正在持续加大对美洲市场的投资。&lt;/strong&gt;自2024年以来，GIC对美洲的配置比例已从44%升至53%，而亚太地区的配置则从28%降至22%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此外，GIC表示计划在未来三年向对冲基金部署300亿美元。&lt;/strong&gt;过去十年间，GIC对对冲基金的投资规模已增至原来的三倍，但目前并未披露具体敞口水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;尽管收益率持续攀升，&lt;strong&gt;部分投资者开始认为欧洲债市的调整幅度已超出基本面合理范围。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aviva Investors固定收益主管Ed Hutchings表示：&amp;quot;欧洲债券的价值正在形成，增持头寸开始显现吸引力，尽管短期内仍需保持一定谨慎。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Mediolanum投资组合经理Niall Scanlon则坦言，能源价格的急剧上涨打乱了其原有部署。&amp;quot;我们基于欧洲央行预期保持了前端超配，这显然没有奏效，&amp;quot;他说，&amp;quot;油气价格已经大幅移动，我们必须尊重这些走势。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Scanlon同时指出，市场对欧洲央行加息幅度的定价存在高估。&lt;/p&gt;
+
+油价与利率的相关性再度凸显
+
+&lt;p&gt;彭博宏观策略师Skylar Montgomery Koning指出，欧洲和英国利率已基本回归与原油价格联动的交易模式。&lt;/p&gt;
+&lt;p&gt;她强调，前端收益率在油价有所回落时表现相对黏性，价格波动幅度小于5月涨势期间。但若油价持续上行，相关性传递的信号已然明确——原油上涨将再度成为债券和股票市场的共同阻力。&lt;/p&gt;
+&lt;p&gt;美国市场同样难以独善其身。长端美债收益率已连续维持5%上方逾周，为2007年以来持续时间最长的一次，美联储将于下周召开利率决议会议。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
