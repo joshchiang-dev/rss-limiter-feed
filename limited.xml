@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 01:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%</title><link>https://wallstreetcn.com/articles/3777833</link><guid>9e54c477659a2315a5d40ab3c2c755f08c7ebf1f9630c36ece11f33724648eb5</guid><pubDate>Fri, 24 Jul 2026 23:15:34 GMT</pubDate><description>&lt;p&gt;巴基斯坦斡旋重启美伊谈判的消息短暂提振风险情绪，油价回落带动美债收益率小幅走低，美股开盘走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 01:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 下周“大波动”？市场严阵以待</title><link>https://wallstreetcn.com/articles/3777916</link><guid>2291cda3cb819974453fea8500f1e2d549fc40d246dce5bca157886f7080960f</guid><pubDate>Sat, 25 Jul 2026 01:51:16 GMT</pubDate><description>&lt;p&gt;本周市场在动荡中收官，而真正的考验尚未到来。&lt;/p&gt;
+&lt;p&gt;油价飙升近10%、科技股遭机构集中抛售、美债收益率创年内新高——三线压力尚未消化，下周第二季度财报季最密集的一周将与美联储利率决议高度重叠，构成今年迄今最具爆发力的市场催化剂组合。&lt;/p&gt;
+&lt;p&gt;标普500指数成分股中约34%将在下周集中发布财报，其中Mag7科技巨头中有四家将相继登场——微软与Meta定于7月29日（周三）披露业绩，苹果与亚马逊将于7月30日（周四）跟进。&lt;/p&gt;
+&lt;p&gt;与此同时，美联储公开市场委员会（FOMC）将于周三公布利率决议，目前市场对本次会议加息的概率定价约为30%。财报与政策信号的高度集中，令下周成为三季度行情走向的关键节点。&lt;/p&gt;
+&lt;p&gt;期权市场已率先对这一风险窗口作出反应，期权交易员正在为大型科技股财报后的剧烈波动积极布局。目前，隐含波动率显著抬升：Meta单日隐含波动7.4%、亚马逊6.6%、微软6.4%、苹果3.7%。标普500下周整体隐含波幅约1.85%，高盛交易台建议客户增加保护性头寸。&lt;/p&gt;
+石油重掌话语权？
+&lt;p&gt;WTI原油本周上涨逾7%，连续第三周收涨。布伦特盘中突破100美元。&lt;/p&gt;
+&lt;p&gt;供应端承受三重冲击：霍尔木兹海峡周四仅6艘船通过，不足正常水平的十分之一；胡塞武装袭击两艘经红海替代航线出口的沙特油轮；哈萨克斯坦黑海主要出口终端遭打击。海事情报公司Windward估计，全球约25%的石油供应正面临威胁。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;油价回升直接改写了利率预期。上周CPI/PPI一度支撑&amp;quot;通胀见顶&amp;quot;的判断，被原油的卷土重来击碎。十年期美债收益率攀升约10个基点至4.66%，为Trump 2.0政府初期以来最高，市场重新定价年内两次加息。美元录得逾一个月来最佳单周表现。黄金突破4000美元后高位回落，比特币随科技股走弱至约64000美元附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+AI资本支出：从信仰到质疑
+&lt;p&gt;本周最核心的微观叙事，是超级资本支出者（hyperscalers）的AI投入遭到集体质疑。&lt;/p&gt;
+&lt;p&gt;Alphabet率先交卷：云业务同比增82%、搜索增17%，业绩本身稳健——但2026年资本支出指引上调8%至1950-2050亿美元，自由现金流转负，股价周跌约8%。Mahoney资产管理CEO Ken Mahoney指出：&amp;quot;所有现金流都投进了AI和数据中心，留给股东的回购或分红所剩无几——而你在财报中仍听不到关于ROI的实质论述，除了概念。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Tesla同样令市场失望。二季度非GAAP EPS低于预期，股价周跌近20%，市场对其人形机器人和AI产品线的兑现节奏愈发缺乏耐心。&lt;/p&gt;
+&lt;p&gt;Roundhill Mag7 ETF（MAGS）本周跌逾5%，半导体ETF反而收涨——&amp;quot;AI支出者受罚、芯片商获利&amp;quot;的分化，反过来也在动摇芯片股的逻辑根基：半导体的涨势取决于hyperscalers持续加大投入，而后者正在被市场惩罚。&lt;/p&gt;
+
+Mag7 vs 标普493周度表现对比，Mag7显著跑输
+
+&lt;p&gt;信用市场的信号同样值得注意：超级资本支出者CDS利差升至历史新高。今年AI相关债务融资规模已达4890亿美元，同比增50%，其中60%由非hyperscalers发行。&lt;/p&gt;
+
+超级资本支出者CDS利差，升至历史新高
+
+&lt;p&gt;部分交易员还注意到另一个变量：开源模型阵营的壮大（Jensen Huang与Elon Musk先后公开支持）。逻辑链条很清晰——更便宜的模型→更低的支出需求→更弱的ROI预期→资本开支被反身性压低→半导体回归周期本色。&lt;/p&gt;
+&lt;p&gt;下周将迎来财报季最密集的一周。微软和META于7月29日（周三）盘后、苹果和亚马逊于7月30日（周四）盘后发布业绩。据ORTS数据，期权市场对四家公司财报日单日隐含波动的定价：META 7.4%、亚马逊6.6%、微软6.4%、苹果3.7%。&lt;/p&gt;
+&lt;p&gt;高盛交易台的资金流数据不容忽视：整体净卖出倾斜12.6%，长线资金（LO）净卖出倾斜达21%，卖压集中在消费和房地产板块。交易台称&amp;quot;几乎看不到买单&amp;quot;，并指出SPX已跌破50日均线，做市商处于负Gamma状态，CTA触发阈值相关问询显著增多，技术面正在恶化。&lt;/p&gt;
+
+高盛恐慌指数，回到伊朗战争高位附近
+
+美联储：30%的悬念
+&lt;p&gt;周三FOMC将公布利率决议。市场共识是9月加息，但联邦基金期货定价下周加息概率约30%-35%。高盛衍生品策略师Brian Garrett指出，若美联储按兵不动，这将是自2024年降息50个基点以来最大的&amp;quot;鸽派意外&amp;quot;。&lt;/p&gt;
+&lt;p&gt;在油价推升通胀预期的背景下，美联储是否提前行动，是下周最大的宏观悬念。同周还将发布二季度GDP初值、核心PCE、个人收入与支出等数据。&lt;/p&gt;
+
+FOMC利率决议历史&amp;quot;意外&amp;quot;程度，若按兵不动将为2024年以来最大鸽派意外
+
+波动率市场的警告
+&lt;p&gt;彭博分析师Neil Campling和Christian Dass向市场抛出三个问题：AI资本支出交易是否已见顶？波动率分散交易（volatility dispersion）的超额收益是否即将终结？市场是否充分定价了风险？&lt;/p&gt;
+&lt;p&gt;极低的隐含相关性令部分投资者担忧逆转。一些交易者已转向&amp;quot;反向分散交易&amp;quot;——买入指数波动率、卖出个股波动率。若宏观冲击引发无序平仓、个股齐跌，拥挤的持仓可能放大指数波动率的抬升。&lt;/p&gt;
+&lt;p&gt;美银欧洲策略主管Sebastian Raedler的判断更直白：&amp;quot;利润率预期、五年远期盈利增长、全球市值/GDP比率均在历史高位，风险溢价在20年低点——市场定价的是万事顺遂的完美情景。&amp;quot;&lt;/p&gt;
+&lt;p&gt;支撑因素并未消失。标普500二季度盈利预计同比增38%，远超年初预期——企业盈利仍是多头最硬的底牌。花旗全球宏观策略主管Dirk Willer维持看多，但坦言风险&amp;quot;不缺&amp;quot;。&amp;quot;市场继续在忧虑之墙上攀爬。&amp;quot;不过若7月收跌，8月和9月恰好是中期选举年表现最差的月份——标普500历史平均跌幅分别为0.4%和0.8%。&lt;/p&gt;
+&lt;p&gt;高盛的恐慌指数已回到伊朗战争以来的高位。下周，34%的标普市值交卷、四家Mag7接受审视、美联储落槌——答案即将揭晓。&lt;/p&gt;
+
+美股主要指数周度表现，纳斯达克领跌，伴有剧烈日内波动
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%</title><link>https://wallstreetcn.com/articles/3777833</link><guid>9e54c477659a2315a5d40ab3c2c755f08c7ebf1f9630c36ece11f33724648eb5</guid><pubDate>Fri, 24 Jul 2026 23:15:34 GMT</pubDate><description>&lt;p&gt;巴基斯坦斡旋重启美伊谈判的消息短暂提振风险情绪，油价回落带动美债收益率小幅走低，美股开盘走高。&lt;/p&gt;
 &lt;p&gt;但随着午后特朗普与顾问讨论升级对伊朗打击的报道，叠加超大规模科技企业信用违约互换（CDS）利差创历史新高，美股指尾盘承压回落，三大指数涨跌不一。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本周美股纳斯达克指数领跌，科技股全周承受了来自宏观与基本面的双重打击。&lt;/p&gt;
@@ -225,29 +268,7 @@ SpaceX三周连跌，星舰试飞两度取消
 &lt;p&gt;周五晚间，SpaceX将再次尝试进行第13次星舰测试飞行。这是目前全球最大、也是最强大的火箭系统。&lt;/p&gt;
 &lt;p&gt;公司计划从其位于得克萨斯州博卡奇卡（Boca Chica）的“星基地”（Starbase）发射升级版星舰V3火箭。该火箭被设计为完全可重复使用，被认为对于SpaceX近期大规模扩张星链卫星网络的目标至关重要。&lt;/p&gt;
 &lt;p&gt;SpaceX在其旗下X平台发布声明称，由于“天气原因”，原定于周四进行的测试飞行被推迟。此前，SpaceX上周也曾取消一次测试飞行。当时火箭助推器触发暂停程序。&lt;/p&gt;
-&lt;p&gt;如果此次星舰V3成功发射，这将成为SpaceX上市以来首次取得成功的星舰发射任务。SpaceX计划利用星舰将美国宇航员重新送上月球表面，而马斯克的长期目标则是利用该火箭执行载人火星任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “YOLO”散户反被套！动量因子创四年最大回撤，最热抱团股一个月蒸发25%</title><link>https://wallstreetcn.com/articles/3777891</link><guid>389acca593f8af59e091213e7ef2d3af1d64bc4de89c6a792b69f802f3666409</guid><pubDate>Fri, 24 Jul 2026 13:36:32 GMT</pubDate><description>&lt;p&gt;动量交易的急速崩塌，正在重创其最忠实的拥趸——散户投资者。&lt;/p&gt;
-&lt;p&gt;追踪散户最爱持仓的股票篮子本月跌幅创2022年以来最差，Jefferies编制的罗素1000高散户参与度篮子自6月以来已累计下跌逾25%。&lt;/p&gt;
-&lt;p&gt;彭博追踪的11个量化因子中，动量因子7月表现垫底，成为本轮市场调整中受伤最深的策略。&lt;strong&gt;散户标志性的&amp;quot;YOLO&amp;quot;（你只活一次）式追涨操作，在这个月遭遇了正面冲击。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多重利空叠加是此次动量交易崩塌的主因：对人工智能巨额投资回报的疑虑促使对冲基金以创纪录速度平仓科技头寸，伊朗局势重燃以及美联储利率路径的不确定性进一步打压了这一已严重拥挤的交易。散户的市场参与度随之明显降温——Vanda Research数据显示，个股周度滚动净买入额已跌至新冠疫情以来最低水平。&lt;/p&gt;
-动量因子遭遇四年最大回撤，散户首当其冲
-&lt;p&gt;本月动量交易的溃败，对散户投资者造成了尤为直接的打击。&lt;/p&gt;
-&lt;p&gt;Robinhood Markets和Marvell等散户重仓股均在其中，&lt;strong&gt;相关篮子本月跌幅为2022年以来最大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vanda Research全球宏观策略师Viraj Patel指出，&amp;quot;半导体和AI硬件股票一直是动量策略的核心驱动力，这些名字在散户投资组合中由来已久。&amp;quot;正是这种高度集中的持仓结构，使得动量因子的回撤对散户的杀伤力远超其他群体。&lt;/p&gt;
-多重利空叠加，拥挤交易加速瓦解
-&lt;p&gt;此次动量交易的崩塌并非单一因素所致。&lt;/p&gt;
-&lt;p&gt;据彭博报道，对AI投资回报前景的疑虑首先触发了对冲基金以创纪录速度削减科技头寸；随后，伊朗局势的再度紧张以及市场对美联储利率走向的担忧，进一步侵蚀了投资者对这一已高度拥挤交易的信心。&lt;/p&gt;
-&lt;p&gt;在板块层面，科技类ETF遭遇大规模资金外流。&lt;/p&gt;
-散户参与度降至疫情以来最低，但并未全面撤退
-&lt;p&gt;散户的市场活跃度在此轮冲击中明显收缩。&lt;/p&gt;
-&lt;p&gt;Vanda Research数据显示，个股周度滚动净买入额已降至新冠疫情以来最低水平。摩根大通证券数据则显示，截至本周三的当周散户资金流入总额为57亿美元，低于过去12个月68亿美元的周均水平。&lt;/p&gt;
-&lt;p&gt;摩根大通的Arun Jain在报告中写道，&amp;quot;散户参与度的放缓，与近期市场围绕动量回撤所呈现的紧张情绪高度吻合。&amp;quot;&lt;/p&gt;
-&lt;p&gt;不过，摩根大通数据同时显示，散户并未全面出逃，而是变得更加挑剔。&lt;/p&gt;
-&lt;p&gt;微软和英伟达仍持续吸引可观的净买入，而苹果和特斯拉则承受了最大的卖出压力。Patel表示，&amp;quot;&lt;strong&gt;散户资金流向正变得非常分散。不像去年&amp;#x27;买入一切AI&amp;#x27;的逻辑，现在散户的选股非常谨慎。&lt;/strong&gt;&amp;quot;&lt;/p&gt;
-华尔街建议逢低布局，动量因子现强劲反弹信号
-&lt;p&gt;急速下跌已促使华尔街多家交易台建议客户逢低买入。&lt;/p&gt;
-&lt;p&gt;瑞银证券的Michael Romano在客户报告中写道，此轮抛售可能已消化了大部分投机性泡沫，或已为价格筑底。&lt;strong&gt;美国银行交易台则敦促客户买入美国动量股，认为经历一轮获利了结后，该板块已进入具有吸引力的入场时机。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从近期数据来看，反弹信号已经出现。&lt;strong&gt;美国银行的美国动量股篮子过去三个交易日上涨8.9%，为2024年11月以来最大三日涨幅；瑞银的动量指标更是飙升11%，创2022年以来最大三日涨幅。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Patel表示，&amp;quot;动量交易——以及散户——经历了一段过山车行情。但一旦卖出压力消退、买方罢工结束，实现有意义反弹的条件将愈发充分。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “TACO指数”预测：最晚7月30日，最可能是周日</title><link>https://wallstreetcn.com/articles/3777915</link><guid>70f4986c1636a10c20ddccf4ddd27e96bf38c0b035e477c4bf969e1f15eb3ed5</guid><pubDate>Sat, 25 Jul 2026 01:08:23 GMT</pubDate><description>&lt;p&gt;美国对伊朗发动袭击已持续了将近两周，战火持续之际，地缘政治咨询机构Signum构建了一套数学模型，试图量化特朗普在伊朗危机中的决策阈值。&lt;/p&gt;
+&lt;p&gt;如果此次星舰V3成功发射，这将成为SpaceX上市以来首次取得成功的星舰发射任务。SpaceX计划利用星舰将美国宇航员重新送上月球表面，而马斯克的长期目标则是利用该火箭执行载人火星任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “TACO指数”预测：最晚7月30日，最可能是周日</title><link>https://wallstreetcn.com/articles/3777915</link><guid>70f4986c1636a10c20ddccf4ddd27e96bf38c0b035e477c4bf969e1f15eb3ed5</guid><pubDate>Sat, 25 Jul 2026 01:08:23 GMT</pubDate><description>&lt;p&gt;美国对伊朗发动袭击已持续了将近两周，战火持续之际，地缘政治咨询机构Signum构建了一套数学模型，试图量化特朗普在伊朗危机中的决策阈值。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777909"&gt;据央视新闻&lt;/a&gt;，当地时间7月24日，美国总统特朗普在白宫谈及对伊朗战争的“退出战略”时表示，美国有两种选择：一是继续当前军事行动，并可能加大打击力度，逐步摧毁伊朗的军事能力；二是通过谈判达成协议。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777899"&gt;华尔街见闻提及&lt;/a&gt;，当日稍早，据路透社援引消息人士报道，巴基斯坦正在探索推动重启陷入停滞的美伊谈判。&lt;/p&gt;
 &lt;p&gt;消息传出后，市场一度押注中东冲突可能出现外交转机，布伦特原油一度跌破95.20美元，日内跌超5%，美国WTI原油曾跌破87.70美元，日内跌约4.9%。&lt;/p&gt;
