@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 20:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 花旗AI追踪：模型越来越强，但芯片和电力快跟不上了</title><link>https://wallstreetcn.com/articles/3777928</link><guid>a32caa77796dd52889cab32f2a91060ab687fc8563fde76d3a2e575a451e1f5d</guid><pubDate>Sat, 25 Jul 2026 09:19:43 GMT</pubDate><description>&lt;p&gt;AI大模型正在变得越来越聪明，但承载它们的物理世界正在被推向极限。&lt;/p&gt;
-&lt;p&gt;花旗在7月24日发布的最新报告中写道，月之暗面Kimi K3以57分跻身全球第三，仅落后闭源榜首Claude Fable 5三分。与此同时，以Kimi K3为代表的中国前沿模型定价一周跳涨45%，Blackwell GPU租金年初至今涨27%，甚至有实验室斥资10亿美元直接买下发电机组。&lt;/p&gt;
-&lt;p&gt;花旗分析称，AI行业的投资回报（ROI）正加速向基础设施层转移；而下一阶段的模型竞争护城河，将从单纯的“算力获取”彻底转向“高效产出与专有数据”。&lt;/p&gt;
-
-
-差距只剩3分
-&lt;p&gt;花旗在研报中提及，Kimi K3是目前公开发布的最大开源模型。几周前，开源最高分还只有51分（Z.ai GLM-5.2），Kimi K3一步跳到57分，仅次于Claude Fable 5（60分）和OpenAI GPT-5.6 Sol（59分）。&lt;/p&gt;
-&lt;p&gt;整个行业都在加速。前20大模型提供商的中位智能得分从六周前的34分升至43分。开源阵营中，DeepSeek V4 Pro（44分）每百万token定价，小米（分）更低至0.03——接近前沿的智能水平，价格却低了两个数量级。&lt;/p&gt;
-&lt;p&gt;闭源阵营也没有放慢。Google刚发布Gemini 3.6 Flash（7月21日），同时透露Gemini 3.5 Pro仍在测试中，Gemini 4的预训练已经启动——三代模型三线并进。不过，花旗认为，&amp;#x27;Flash先发、Pro延后&amp;#x27;的发布节奏释放出一个信号：前沿模型的推进正变得更难——这与其他公司在基础设施建设上遭遇的延误相一致，也折射出行业希望压缩交付周期却难以如愿的现状。&lt;/p&gt;
-&lt;p&gt;模型越大、越强，跑起来需要的资源也在急剧膨胀。&lt;/p&gt;
-瓶颈搬家了
-&lt;p&gt;万亿参数模型正在改写&amp;quot;算力&amp;quot;的含义。&lt;/p&gt;
-&lt;p&gt;花旗指出，这些超大模型实际运行时，越来越多的时间花在跨HBM内存和GPU互联网络搬运权重及KV-cache数据上，而非矩阵运算本身。瓶颈已经从&amp;quot;算得快不快&amp;quot;（FLOPs）转向了&amp;quot;搬得动搬不动&amp;quot;——内存带宽、GPU互联和电力供应。&lt;/p&gt;
-&lt;p&gt;GPU需求依然旺盛，Blackwell架构租金年初至今上涨27%。但单纯堆GPU已经不够了。&lt;/p&gt;
-&lt;p&gt;部分实验室开始直接切入上游发电：SpaceX斥资10亿美元购买1GW移动涡轮机组（7月15日），Georgia Power同周签署服务协议（7月22日）。AI实验室买发电设备——一年前几乎不可想象的事情，现在正在发生。&lt;/p&gt;
-&lt;p&gt;模型定价直接反映了产能有多紧。中国前沿模型的混合定价从每百万token 跳涨至0.87，周环比和月环比均涨45%，是两个月来首次大幅波动。全球前沿模型均价周环比涨6.8%，月环比涨11.3%。美欧相对稳定（周环比-0.5%），但月环比也上升了4.1%。&lt;/p&gt;
-&lt;p&gt;花旗判断，随着增量基础设施陆续上线，定价压力终将缓解。届时有价值的数据和任务特定性能，将比算力获取构成更持久的护城河。&lt;/p&gt;
-Agent逃出沙箱
-&lt;p&gt;模型在变强。但跑在模型上的agent，也在变得更危险。&lt;/p&gt;
-&lt;p&gt;花旗报告用了一个耐人寻味的表述：自主AI agent逃逸沙箱的现实风险，已从4月的&amp;quot;打断午餐&amp;quot;升级到7月的&amp;quot;渗透Hugging Face基础设施&amp;quot;。&lt;/p&gt;
-&lt;p&gt;开源模型越强、越普及，安全风险的扩散面就越大。AI监管辩论仍在进行——英伟达（7月24日）和美国财长贝森特（7月22日）近日均有表态——但短期内难有定论。即便监管框架尚未落地，维护自有模型运行架构的企业已面临更高的合规门槛。&lt;/p&gt;
-&lt;p&gt;更棘手的是，训练这些模型的提供商自己，仍然无法完全检视模型为何如此行动。可解释性问题，至今没有解决。&lt;/p&gt;
-&lt;p&gt;但安全隐忧并没有减慢agent的商业化进程。METR（7月21日）的数据显示，AI agent与人工之间的经济性差距正在收窄。当agent更自主、更接近经济可行性，token消耗会持续加速——这又反过来推高基础设施需求。&lt;/p&gt;
-&lt;p&gt;能力越强，约束越紧。约束越紧，基础设施需求越大。这个循环，没有减速的迹象。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 为AI投资腾资金？美国科技巨头年内裁员近14万人</title><link>https://wallstreetcn.com/articles/3777930</link><guid>9af153acb7dd46a74e39b405d072104767c798b548a1fbdd1b8e0540fe717e96</guid><pubDate>Sat, 25 Jul 2026 10:19:30 GMT</pubDate><description>&lt;p&gt;美国科技巨头在豪掷千金投入人工智能（AI）基础设施的同时，正在掀起新一轮大规模业务重组，年内裁员规模已近14万人。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 21:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 为AI投资腾资金？美国科技巨头年内裁员近14万人</title><link>https://wallstreetcn.com/articles/3777930</link><guid>9af153acb7dd46a74e39b405d072104767c798b548a1fbdd1b8e0540fe717e96</guid><pubDate>Sat, 25 Jul 2026 10:19:30 GMT</pubDate><description>&lt;p&gt;美国科技巨头在豪掷千金投入人工智能（AI）基础设施的同时，正在掀起新一轮大规模业务重组，年内裁员规模已近14万人。&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》对公司文件和高管离职安置机构Challenger, Gray and Christmas数据的分析，&lt;strong&gt;自2026年初以来，科技行业的裁员人数占全美已宣布裁员总数的三分之一以上。其中，亚马逊、甲骨文、Meta和微软的裁员总数近5万人，约占其员工总数的6%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这一人员精简趋势与行业激进的AI扩张形成强烈反差。&lt;/strong&gt;今年，亚马逊、Alphabet、Meta和微软这四大科技巨头预计将在数据中心等基础设施上投入高达7250亿美元的资本支出。巨额的资金消耗已开始对部分企业的资产负债表构成压力，市场对科技公司现金流及AI投资回报率的审视正在升温。&lt;/p&gt;
 资本重组与评级压力
