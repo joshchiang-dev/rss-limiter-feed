@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 09:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%</title><link>https://wallstreetcn.com/articles/3777833</link><guid>9e54c477659a2315a5d40ab3c2c755f08c7ebf1f9630c36ece11f33724648eb5</guid><pubDate>Fri, 24 Jul 2026 23:15:34 GMT</pubDate><description>&lt;p&gt;巴基斯坦斡旋重启美伊谈判的消息短暂提振风险情绪，油价回落带动美债收益率小幅走低，美股开盘走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 09:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%</title><link>https://wallstreetcn.com/articles/3777833</link><guid>9e54c477659a2315a5d40ab3c2c755f08c7ebf1f9630c36ece11f33724648eb5</guid><pubDate>Fri, 24 Jul 2026 23:15:34 GMT</pubDate><description>&lt;p&gt;巴基斯坦斡旋重启美伊谈判的消息短暂提振风险情绪，油价回落带动美债收益率小幅走低，美股开盘走高。&lt;/p&gt;
 &lt;p&gt;但随着午后特朗普与顾问讨论升级对伊朗打击的报道，叠加超大规模科技企业信用违约互换（CDS）利差创历史新高，美股指尾盘承压回落，三大指数涨跌不一。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本周美股纳斯达克指数领跌，科技股全周承受了来自宏观与基本面的双重打击。&lt;/p&gt;
@@ -438,7 +438,16 @@ IEEPA关税败诉后，美国政府面临1660亿美元退款压力
 &lt;p&gt;&lt;strong&gt;而7月30日则是其认定的最晚时间上限，前提是市场条件不出现实质性改善，而分析师认为这一情景&amp;quot;似乎不太可能&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;尽管该模型在历史回测中表现出一定吻合性，但分析师本身亦对其局限性持审慎态度。&amp;quot;TACO&amp;quot;作为一种市场预测框架早已在投资者群体中广泛流传，但其有效性并不稳定。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;特朗普目前主导着一场外界普遍认为难以取胜的对伊军事行动，外部变量远比单纯的市场压力复杂。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Signum的模型本质上是将特朗普过去对金融市场信号的敏感度系统化，但政治决策的非线性特征意味着，任何基于历史规律的外推均存在较大不确定性，投资者在参考这一框架时需保持相应的风险意识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损</title><link>https://wallstreetcn.com/articles/3777914</link><guid>ffbee3bfc4318d3d73e55b56071b5f4e6115da1e1863456f0a2b9c2663323ce3</guid><pubDate>Sat, 25 Jul 2026 00:34:18 GMT</pubDate><description>&lt;p&gt;SpaceX星舰完成第13次试飞，在美国IPO后首次试飞中成功升空。&lt;/p&gt;
+&lt;p&gt;Signum的模型本质上是将特朗普过去对金融市场信号的敏感度系统化，但政治决策的非线性特征意味着，任何基于历史规律的外推均存在较大不确定性，投资者在参考这一框架时需保持相应的风险意识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 估值大幅跃升！马斯克旗下“无聊”隧道公司新一轮融资目标估值200亿美元</title><link>https://wallstreetcn.com/articles/3777929</link><guid>97f79f4156e37f65f4c698b4bc8bb11bfb694226b08dbc64873c08e33ba97aa5</guid><pubDate>Sat, 25 Jul 2026 09:52:33 GMT</pubDate><description>&lt;p&gt;马斯克旗下隧道初创公司The Boring Company正寻求以约200亿美元估值进行新一轮融资，拟募资约40亿美元——较2022年上轮融资后57亿美元的估值跃升逾两倍。&lt;/p&gt;
+&lt;p&gt;华尔街日报援引知情人士消息称，本轮融资尚未交割，条款仍有变动可能。2022年那轮融资筹集了6.75亿美元，投资方包括Vy Capital、红杉资本及Founders Fund。&lt;/p&gt;
+多城布局，落地不易
+&lt;p&gt;Boring Company于2018年从SpaceX拆分，制造隧道掘进机，声称施工成本低于传统建筑商。公司目前在拉斯维加斯大道地下运营一套交通网络，由司机驾驶特斯拉接送乘客往返会展中心。&lt;/p&gt;
+&lt;p&gt;此前，公司曾向巴尔的摩、芝加哥和洛杉矶推介私人出资的隧道项目，计划通过售票盈利，但多数未能落地。&lt;/p&gt;
+&lt;p&gt;眼下，公司正在纳什维尔自筹资金建设新环线；今年2月又宣布迪拜地下环线计划——一期4英里、耗资1.54亿美元、工期一年，二期扩至14英里、预计耗资5.45亿美元、工期三年，但资金来源尚未明确。&lt;/p&gt;
+&amp;quot;马斯克溢价&amp;quot;遭遇市场逆风
+&lt;p&gt;尽管项目落地记录有限，私募投资者仍将马斯克系公司视为确定性标的，愿为入场支付溢价。&lt;/p&gt;
+&lt;p&gt;参与马斯克440亿美元收购Twitter的投资者一度深陷浮亏，但马斯克先将Twitter并入AI公司xAI、再整合进SpaceX，这批投资者最终获利。&lt;/p&gt;
+&lt;p&gt;不过，马斯克旗下上市公司近期表现不佳。特斯拉周四暴跌15%、市值蒸发2150亿美元，业绩未达预期且两年来首次录得负现金流；SpaceX今年6月创纪录IPO、募资860亿美元，上市后市值一度接近翻倍，但近日已从峰值回落约50%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损</title><link>https://wallstreetcn.com/articles/3777914</link><guid>ffbee3bfc4318d3d73e55b56071b5f4e6115da1e1863456f0a2b9c2663323ce3</guid><pubDate>Sat, 25 Jul 2026 00:34:18 GMT</pubDate><description>&lt;p&gt;SpaceX星舰完成第13次试飞，在美国IPO后首次试飞中成功升空。&lt;/p&gt;
 &lt;p&gt;美国中部时间24日下午，美国太空探索技术公司SpaceX重型运载火箭“星舰”从得克萨斯州南部的发射基地升空，实施第13次试飞。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本次试飞中，星舰上级飞船在印度洋完成受控溅落，超重型助推器在墨西哥湾溅落回收，全程未出现明显异常。&lt;/p&gt;
@@ -469,18 +478,4 @@ V3版本完成首次完整验证，弥补上次飞行缺憾
 &lt;p&gt;本次飞行对SpaceX具有特殊市场意义。上周中止的发射触发了投资者抛售，公司股价目前仍在IPO发行价以下运行。此次成功飞行为市场情绪提供了一定支撑。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;尽管本次试飞进展顺利，星舰距离载人飞行仍有相当距离。&lt;/strong&gt;NASA希望最早于2028年利用星舰执行登月任务，这使得星舰的研发进程面临极大压力。&lt;/p&gt;
 &lt;p&gt;NASA局长Jared Isaacman此前曾自费乘坐SpaceX Crew Dragon飞船进入太空，于去年12月接任NASA局长职务，其对星舰的公开表态显示出NASA对该项目的高度关注。&lt;/p&gt;
-&lt;p&gt;然而，在星舰完成载人飞行认证、更遑论执行载人登月任务之前，技术验证工作仍将持续推进。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic也要自研AI芯片了！已向SK海力士寻求供应</title><link>https://wallstreetcn.com/articles/3777924</link><guid>dec78881f8025ad4daee4bad30b85bf61d607c6b4a0e6973cdbf4c3a740f6233</guid><pubDate>Sat, 25 Jul 2026 05:11:53 GMT</pubDate><description>&lt;p&gt;Anthropic已向SK海力士提出供应需求，用于制造自研半导体。&lt;/p&gt;
-&lt;p&gt;SK集团董事长崔泰源在旧金山一场AI活动上与Anthropic CEO Dario Amodei同台时披露了这一消息，称AI开发商拥有芯片野心&amp;quot;令人瞩目&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此前，Anthropic已宣布500亿美元数据中心投资计划，并被曝探索自研芯片。&lt;/p&gt;
-&lt;p&gt;直接向供应商寻求支持，意味着芯片自研正从规划走向落地。&lt;/p&gt;
-意图算力自主
-
-&lt;p&gt;Anthropic的算力布局始于2025年11月，彼时公司，宣布投入500亿美元，与Fluidstack合作在德克萨斯州和纽约州建设专为AI工作负载设计的数据中心。&lt;/p&gt;
-&lt;p&gt;2026年4月，Anthropic自研芯片计划浮出水面，方向覆盖ASIC和GPU，意在全球算力持续紧缺的环境下降低对外部芯片供应商的依赖。&lt;/p&gt;
-&lt;p&gt;类似的垂直整合路径在硅谷大厂中屡见不鲜，谷歌有TPU，亚马逊有Trainium，Meta也在定制硬件上大举投入。如今，Anthropic也加入到这一行列。&lt;/p&gt;
-
-SK海力士：投资者与供应商
-
-&lt;p&gt;近年来，SK战略重心逐渐转向AI基础设施和半导体研发，旗下SK海力士是全球领先的高带宽存储器（HBM）生产商——大规模AI训练离不开这种芯片。&lt;/p&gt;
-&lt;p&gt;2026年5月，SK海力士与三星、美光一同参与了Anthropic的H轮融资；7月10日，SK海力士完成纳斯达克上市，估值265亿美元，市场已在为存储芯片供应商在AI供应链中的关键地位买单。&lt;/p&gt;
-&lt;p&gt;崔泰源此番表态恰在SK海力士上市后不久，同期韩国总统李在明到访硅谷、召开AI峰会，英伟达与韩国Naver及SK集团的合作协议等多项技术合作随之公布。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 牛市结束了？</title><link>http://xueqiu.com/3455034794/402055951</link><guid>fcde3b61e307be90e9e825f0ce8498ca52d99b35bb8377a26c0f098424a2b59e</guid><pubDate>Sat, 25 Jul 2026 05:28:09 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;黑色磁铁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;已经很多人在宣扬牛市结束了，现在开始转熊。我现在越来越少说话了，说不到一起去啊。我看好的电解铝，他们拼命砸。我满仓加融资，他们说牛转熊！！&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;然而，在星舰完成载人飞行认证、更遑论执行载人登月任务之前，技术验证工作仍将持续推进。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 牛市结束了？</title><link>http://xueqiu.com/3455034794/402055951</link><guid>fcde3b61e307be90e9e825f0ce8498ca52d99b35bb8377a26c0f098424a2b59e</guid><pubDate>Sat, 25 Jul 2026 05:28:09 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;黑色磁铁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;已经很多人在宣扬牛市结束了，现在开始转熊。我现在越来越少说话了，说不到一起去啊。我看好的电解铝，他们拼命砸。我满仓加融资，他们说牛转熊！！&lt;/p&gt;</description></item></channel></rss>
