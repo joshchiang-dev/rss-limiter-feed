@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 08:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%</title><link>https://wallstreetcn.com/articles/3777833</link><guid>9e54c477659a2315a5d40ab3c2c755f08c7ebf1f9630c36ece11f33724648eb5</guid><pubDate>Fri, 24 Jul 2026 23:15:34 GMT</pubDate><description>&lt;p&gt;巴基斯坦斡旋重启美伊谈判的消息短暂提振风险情绪，油价回落带动美债收益率小幅走低，美股开盘走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 25 Jul 2026 09:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%</title><link>https://wallstreetcn.com/articles/3777833</link><guid>9e54c477659a2315a5d40ab3c2c755f08c7ebf1f9630c36ece11f33724648eb5</guid><pubDate>Fri, 24 Jul 2026 23:15:34 GMT</pubDate><description>&lt;p&gt;巴基斯坦斡旋重启美伊谈判的消息短暂提振风险情绪，油价回落带动美债收益率小幅走低，美股开盘走高。&lt;/p&gt;
 &lt;p&gt;但随着午后特朗普与顾问讨论升级对伊朗打击的报道，叠加超大规模科技企业信用违约互换（CDS）利差创历史新高，美股指尾盘承压回落，三大指数涨跌不一。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本周美股纳斯达克指数领跌，科技股全周承受了来自宏观与基本面的双重打击。&lt;/p&gt;
@@ -301,7 +301,31 @@ SpaceX三周连跌，星舰试飞两度取消
 &lt;p&gt;周五晚间，SpaceX将再次尝试进行第13次星舰测试飞行。这是目前全球最大、也是最强大的火箭系统。&lt;/p&gt;
 &lt;p&gt;公司计划从其位于得克萨斯州博卡奇卡（Boca Chica）的“星基地”（Starbase）发射升级版星舰V3火箭。该火箭被设计为完全可重复使用，被认为对于SpaceX近期大规模扩张星链卫星网络的目标至关重要。&lt;/p&gt;
 &lt;p&gt;SpaceX在其旗下X平台发布声明称，由于“天气原因”，原定于周四进行的测试飞行被推迟。此前，SpaceX上周也曾取消一次测试飞行。当时火箭助推器触发暂停程序。&lt;/p&gt;
-&lt;p&gt;如果此次星舰V3成功发射，这将成为SpaceX上市以来首次取得成功的星舰发射任务。SpaceX计划利用星舰将美国宇航员重新送上月球表面，而马斯克的长期目标则是利用该火箭执行载人火星任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 搞清楚市场担心什么AI风险：蛋糕大小，还是分配？</title><link>https://wallstreetcn.com/articles/3777925</link><guid>e58b7ed42d10ee0135895e5e9226e17ee2a774344ec9b444a474ab1aa9af7acf</guid><pubDate>Sat, 25 Jul 2026 07:09:37 GMT</pubDate><description>&lt;p&gt;过去一个月，半导体股集体承压，AI主题投资的风险对冲再度成为焦点。但一个更根本的问题，在各种对冲讨论中经常被跳过——市场担心的，到底是什么样的AI风险？&lt;/p&gt;
+&lt;p&gt;如果此次星舰V3成功发射，这将成为SpaceX上市以来首次取得成功的星舰发射任务。SpaceX计划利用星舰将美国宇航员重新送上月球表面，而马斯克的长期目标则是利用该火箭执行载人火星任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 花旗AI追踪：模型越来越强，但芯片和电力快跟不上了</title><link>https://wallstreetcn.com/articles/3777928</link><guid>a32caa77796dd52889cab32f2a91060ab687fc8563fde76d3a2e575a451e1f5d</guid><pubDate>Sat, 25 Jul 2026 09:19:43 GMT</pubDate><description>&lt;p&gt;AI大模型正在变得越来越聪明，但承载它们的物理世界正在被推向极限。&lt;/p&gt;
+&lt;p&gt;花旗在7月24日发布的最新报告中写道，月之暗面Kimi K3以57分跻身全球第三，仅落后闭源榜首Claude Fable 5三分。与此同时，以Kimi K3为代表的中国前沿模型定价一周跳涨45%，Blackwell GPU租金年初至今涨27%，甚至有实验室斥资10亿美元直接买下发电机组。&lt;/p&gt;
+&lt;p&gt;花旗分析称，AI行业的投资回报（ROI）正加速向基础设施层转移；而下一阶段的模型竞争护城河，将从单纯的“算力获取”彻底转向“高效产出与专有数据”。&lt;/p&gt;
+
+
+差距只剩3分
+&lt;p&gt;花旗在研报中提及，Kimi K3是目前公开发布的最大开源模型。几周前，开源最高分还只有51分（Z.ai GLM-5.2），Kimi K3一步跳到57分，仅次于Claude Fable 5（60分）和OpenAI GPT-5.6 Sol（59分）。&lt;/p&gt;
+&lt;p&gt;整个行业都在加速。前20大模型提供商的中位智能得分从六周前的34分升至43分。开源阵营中，DeepSeek V4 Pro（44分）每百万token定价，小米（分）更低至0.03——接近前沿的智能水平，价格却低了两个数量级。&lt;/p&gt;
+&lt;p&gt;闭源阵营也没有放慢。Google刚发布Gemini 3.6 Flash（7月21日），同时透露Gemini 3.5 Pro仍在测试中，Gemini 4的预训练已经启动——三代模型三线并进。不过，花旗认为，&amp;#x27;Flash先发、Pro延后&amp;#x27;的发布节奏释放出一个信号：前沿模型的推进正变得更难——这与其他公司在基础设施建设上遭遇的延误相一致，也折射出行业希望压缩交付周期却难以如愿的现状。&lt;/p&gt;
+&lt;p&gt;模型越大、越强，跑起来需要的资源也在急剧膨胀。&lt;/p&gt;
+瓶颈搬家了
+&lt;p&gt;万亿参数模型正在改写&amp;quot;算力&amp;quot;的含义。&lt;/p&gt;
+&lt;p&gt;花旗指出，这些超大模型实际运行时，越来越多的时间花在跨HBM内存和GPU互联网络搬运权重及KV-cache数据上，而非矩阵运算本身。瓶颈已经从&amp;quot;算得快不快&amp;quot;（FLOPs）转向了&amp;quot;搬得动搬不动&amp;quot;——内存带宽、GPU互联和电力供应。&lt;/p&gt;
+&lt;p&gt;GPU需求依然旺盛，Blackwell架构租金年初至今上涨27%。但单纯堆GPU已经不够了。&lt;/p&gt;
+&lt;p&gt;部分实验室开始直接切入上游发电：SpaceX斥资10亿美元购买1GW移动涡轮机组（7月15日），Georgia Power同周签署服务协议（7月22日）。AI实验室买发电设备——一年前几乎不可想象的事情，现在正在发生。&lt;/p&gt;
+&lt;p&gt;模型定价直接反映了产能有多紧。中国前沿模型的混合定价从每百万token 跳涨至0.87，周环比和月环比均涨45%，是两个月来首次大幅波动。全球前沿模型均价周环比涨6.8%，月环比涨11.3%。美欧相对稳定（周环比-0.5%），但月环比也上升了4.1%。&lt;/p&gt;
+&lt;p&gt;花旗判断，随着增量基础设施陆续上线，定价压力终将缓解。届时有价值的数据和任务特定性能，将比算力获取构成更持久的护城河。&lt;/p&gt;
+Agent逃出沙箱
+&lt;p&gt;模型在变强。但跑在模型上的agent，也在变得更危险。&lt;/p&gt;
+&lt;p&gt;花旗报告用了一个耐人寻味的表述：自主AI agent逃逸沙箱的现实风险，已从4月的&amp;quot;打断午餐&amp;quot;升级到7月的&amp;quot;渗透Hugging Face基础设施&amp;quot;。&lt;/p&gt;
+&lt;p&gt;开源模型越强、越普及，安全风险的扩散面就越大。AI监管辩论仍在进行——英伟达（7月24日）和美国财长贝森特（7月22日）近日均有表态——但短期内难有定论。即便监管框架尚未落地，维护自有模型运行架构的企业已面临更高的合规门槛。&lt;/p&gt;
+&lt;p&gt;更棘手的是，训练这些模型的提供商自己，仍然无法完全检视模型为何如此行动。可解释性问题，至今没有解决。&lt;/p&gt;
+&lt;p&gt;但安全隐忧并没有减慢agent的商业化进程。METR（7月21日）的数据显示，AI agent与人工之间的经济性差距正在收窄。当agent更自主、更接近经济可行性，token消耗会持续加速——这又反过来推高基础设施需求。&lt;/p&gt;
+&lt;p&gt;能力越强，约束越紧。约束越紧，基础设施需求越大。这个循环，没有减速的迹象。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 搞清楚市场担心什么AI风险：蛋糕大小，还是分配？</title><link>https://wallstreetcn.com/articles/3777925</link><guid>e58b7ed42d10ee0135895e5e9226e17ee2a774344ec9b444a474ab1aa9af7acf</guid><pubDate>Sat, 25 Jul 2026 07:09:37 GMT</pubDate><description>&lt;p&gt;过去一个月，半导体股集体承压，AI主题投资的风险对冲再度成为焦点。但一个更根本的问题，在各种对冲讨论中经常被跳过——市场担心的，到底是什么样的AI风险？&lt;/p&gt;
 &lt;p&gt;据追风交易台，高盛7月23日发布的全球市场评论给出了一个分析框架：AI投资面临两类本质不同的风险，一类威胁蛋糕的大小——AI创造的总价值缩水；另一类改变蛋糕的切法——总价值不变，但赢家和输家重新洗牌。&lt;/p&gt;
 &lt;p&gt;两类风险在跨资产市场上的传导路径截然不同，可用的对冲工具也完全不同。尽管强劲财报短期内可能压过估值忧虑，AI投资热潮也有望延续，但高盛仍建议投资者紧盯潜在挑战——关键是辨别挑战的性质。&lt;/p&gt;
 26万亿 vs 9万亿
@@ -459,27 +483,4 @@ SK海力士：投资者与供应商
 
 &lt;p&gt;近年来，SK战略重心逐渐转向AI基础设施和半导体研发，旗下SK海力士是全球领先的高带宽存储器（HBM）生产商——大规模AI训练离不开这种芯片。&lt;/p&gt;
 &lt;p&gt;2026年5月，SK海力士与三星、美光一同参与了Anthropic的H轮融资；7月10日，SK海力士完成纳斯达克上市，估值265亿美元，市场已在为存储芯片供应商在AI供应链中的关键地位买单。&lt;/p&gt;
-&lt;p&gt;崔泰源此番表态恰在SK海力士上市后不久，同期韩国总统李在明到访硅谷、召开AI峰会，英伟达与韩国Naver及SK集团的合作协议等多项技术合作随之公布。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 牛市结束了？</title><link>http://xueqiu.com/3455034794/402055951</link><guid>fcde3b61e307be90e9e825f0ce8498ca52d99b35bb8377a26c0f098424a2b59e</guid><pubDate>Sat, 25 Jul 2026 05:28:09 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;黑色磁铁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;已经很多人在宣扬牛市结束了，现在开始转熊。我现在越来越少说话了，说不到一起去啊。我看好的电解铝，他们拼命砸。我满仓加融资，他们说牛转熊！！&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩：若SpaceX跌至100美元，意味对其AI业务估值为零</title><link>https://wallstreetcn.com/articles/3777910</link><guid>7fa7199103bd33e0c3f7f24c1ad9622d917fbed7b8eeae4b47206a39bb589e72</guid><pubDate>Fri, 24 Jul 2026 21:42:00 GMT</pubDate><description>&lt;p&gt;摩根士丹利分析师表示，SpaceX股价近期下跌，已接近一个意味着投资者几乎没有给予其人工智能业务任何估值的水平。&lt;/p&gt;
-&lt;p&gt;SpaceX在6月中旬完成创纪录的860亿美元IPO后，上市交易表现颇为波折。上市初期，SpaceX股价在前三个交易日一度上涨近50%，但随后持续回落。周四股价最低触及110.85美元，较IPO发行价下跌18%，周五收报115.07美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利分析师Adam Jonas周五在给客户的报告中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们认为，当前投资者日益悲观的情绪与公司基本面基本未发生变化之间存在明显背离，&lt;strong&gt;这为买入SpaceX股票创造了一个具有吸引力的机会。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Jonas表示，许多投资者预计SpaceX股价还会进一步下跌，&lt;strong&gt;并可能在下个月首批限售股解禁后跌至100美元。&lt;/strong&gt;届时，部分内部人士将获准出售股票。&lt;/p&gt;
-&lt;p&gt;他认为，&lt;strong&gt;如果股价达到100美元，投资者实际上是在给SpaceX的AI业务定价为零，甚至给予负估值。该分析师给予SpaceX股票300美元目标价，其中超过50%的估值来自公司的AI业务。&lt;/strong&gt;Jonas写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们接触的大多数投资者都&lt;strong&gt;大幅低估了Grok和Cursor的价值&lt;/strong&gt;。许多人认为AI业务价值为零，甚至是负值，原因在于相比太空和连接业务，AI业务需要投入巨额资本，其商业模式和盈利前景仍存在较大不确定性。”&lt;/p&gt;
-&lt;/blockquote&gt;
-投资者减配AI板块，分析师依然看多SpaceX
-&lt;p&gt;SpaceX股价下跌之际，投资者整体正在减少对科技股的配置，尤其是那些承诺投入数千亿美元建设AI模型及相关基础设施的公司。&lt;/p&gt;
-&lt;p&gt;疲弱的宏观经济环境，以及美国与伊朗之间不断升温的紧张局势，推高了油价，引发市场对通胀压力的担忧，并削弱了投资者对风险资产的偏好。&lt;/p&gt;
-&lt;p&gt;不过，根据彭博汇编的数据，华尔街分析师整体仍然看好SpaceX股票。目前覆盖该公司的分析师中，接近80%给予“买入”评级。&lt;strong&gt;分析师平均目标价约为232美元，意味着SpaceX股价较当前水平仍有超过一倍的上涨空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;参与SpaceX IPO承销的另外四家主要银行——高盛集团、美国银行、花旗集团和摩根大通——均已给予该股相当于“买入”的评级。&lt;/p&gt;
-大摩Jonas长期看好特斯拉，现给出SpaceX 300美元目标价
-&lt;p&gt;不过，在华尔街看好SpaceX的分析师中，摩根士丹利的Jonas属于最为乐观的一批。他给出的300美元目标价，在彭博追踪的33位分析师中排名第三高。&lt;/p&gt;
-&lt;p&gt;Jonas对于采取激进看多立场并不陌生。他最为人熟知的是长期看好特斯拉，并担任汽车行业分析师。他此前针对特斯拉发表的一些引人注目的观点，曾多次引发股价大幅波动。例如，两年前，他曾将特斯拉评为美国汽车行业首选股票之一，推动市场重新关注该股。&lt;/p&gt;
-&lt;p&gt;去年，Jonas离开汽车行业研究岗位，转而负责人工智能和人形机器人领域的研究。如今，他仍坚持看多SpaceX，并在周五给客户的报告中重申了相当于“买入”的评级。Jonas表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“SpaceX在发射、连接服务以及AI领域均具备独特优势。我们认为，目前的估值水平提供了一个具有吸引力的投资机会。”&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;崔泰源此番表态恰在SK海力士上市后不久，同期韩国总统李在明到访硅谷、召开AI峰会，英伟达与韩国Naver及SK集团的合作协议等多项技术合作随之公布。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 牛市结束了？</title><link>http://xueqiu.com/3455034794/402055951</link><guid>fcde3b61e307be90e9e825f0ce8498ca52d99b35bb8377a26c0f098424a2b59e</guid><pubDate>Sat, 25 Jul 2026 05:28:09 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;黑色磁铁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;已经很多人在宣扬牛市结束了，现在开始转熊。我现在越来越少说话了，说不到一起去啊。我看好的电解铝，他们拼命砸。我满仓加融资，他们说牛转熊！！&lt;/p&gt;</description></item></channel></rss>
