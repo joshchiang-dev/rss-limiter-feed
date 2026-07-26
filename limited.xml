@@ -1,47 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 26 Jul 2026 18:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 从"怕错过"到"怕持有"：动量踩踏还要持续多久？这是当前市场最大的悬念</title><link>https://wallstreetcn.com/articles/3777942</link><guid>cc01368e5c9b59074573b2f23b5f913b1c2b7bf8179aa3cf70f264eb9f403a7e</guid><pubDate>Sun, 26 Jul 2026 06:31:04 GMT</pubDate><description>&lt;p&gt;全球股市表面平静之下，一场动量策略的历史性崩解正在加速。高盛交易员Benny Quek警告，AI与科技板块的仓位远未出清，第三季度波动性将持续。&lt;/p&gt;
-&lt;p&gt;动量因子已连续五周下跌，杠杆ETF遭遇历史性崩溃，&lt;strong&gt;市场情绪从&amp;quot;怕错过&amp;quot;急速切换至&amp;quot;怕持有&amp;quot;&lt;/strong&gt;。与此同时，AI叙事的核心矛盾从资本开支转向利润率与回报率，超大规模云厂商信用利差急剧走阔，令市场承压。&lt;/p&gt;
-&lt;p&gt;多重压力正在同步发酵——&lt;strong&gt;地缘冲突、油价波动、利率走势，以及重新升温的关税风险，三者争相主导市场定价&lt;/strong&gt;。高盛风险偏好指标仍处于高位，而标普500成分股隐含相关性极低，这一组合为做多股指波动率提供了结构性支撑。&lt;/p&gt;
-动量崩解进入第五周，杠杆ETF首当其冲
-&lt;p&gt;动量因子的溃败是当前市场最显著的结构性特征。&lt;/p&gt;
-&lt;p&gt;据高盛交易员Benny Quek在其最新&amp;quot;周末思考&amp;quot;报告中指出，&lt;strong&gt;动量策略的平仓已连续进行五周，且伴随杠杆ETF的历史性崩溃。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;以韩国市场为例，杠杆ETF规模从530亿美元峰值腰斩至约半数，杠杆敞口占市场自由流通市值的比例从峰值3.3%降至2.1%。&lt;/p&gt;
-&lt;p&gt;三星和海力士的每日再平衡流量占过去一个月日均成交量的比例，也分别从40%和26%大幅回落至15%和14%。KOSPI已连续五周收跌，与2014至2015年中国CSI1000的走势形成令人不安的对照。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;美国市场同样承压。&lt;/strong&gt;高动量与低动量股票对冲组合（High vs Low Momentum Pair）上周五单日下跌8%，尽管全周仍录得4%的涨幅，但波动之剧烈已充分揭示仓位的脆弱性。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI叙事转向，超大规模云厂商信用利差告急
-&lt;p&gt;AI交易的逻辑正在发生根本性转变。&lt;/p&gt;
-&lt;p&gt;Quek指出，市场关注点已从超大规模云厂商的资本开支标题，转向更为棘手的核心问题：&lt;strong&gt;利润率、投资回报率，以及持续攀升的债务发行规模。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛估计，年初至今与AI相关的债券供给已达4890亿美元，其中40%来自超大规模云厂商，相当于2025年全年预测量的1.5倍。与此同时，超大规模云厂商的信用利差正在急剧走阔，债务融资成本上升的压力已无法回避。&lt;/p&gt;
-&lt;p&gt;从市值角度审视，标普500自2022年12月以来市值增长了31万亿美元，而&lt;strong&gt;高盛对AI潜在价值的估算在基准、乐观和蓝天情景下分别为9万亿、8万亿和28万亿美元。&lt;/strong&gt;这一对比意味着，当前市值的扩张已在相当程度上透支了AI的潜在上行空间。&lt;/p&gt;
-仓位远未出清，第三季度波动性仍是主基调
-&lt;p&gt;Quek明确表示，他认为AI、科技及动量策略的仓位远未达到市场所预期的&amp;quot;干净&amp;quot;状态，并对第三季度持续的高波动性保持高度警惕。&lt;/p&gt;
-&lt;p&gt;他倾向于采用&amp;quot;哑铃&amp;quot;策略应对当前环境，即同时配置防御性资产与精选进攻性头寸，以应对方向不明的震荡行情。&lt;/p&gt;
-&lt;p&gt;从技术指标看，尽管个股和因子层面的波动率已大幅飙升，但标普500成分股之间的隐含相关性仍处于极低水平。Quek指出，&lt;strong&gt;这一背离为做多股指波动率提供了额外的结构性理由——低相关性意味着指数层面的波动率被低估，一旦相关性回升，指数波动将被放大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛风险偏好指标目前仍处于高位，表明市场整体情绪尚未充分反映上述风险，这进一步支持了对波动性的谨慎预判。&lt;/p&gt;
-轮动与分化：亚洲市场现结构性机会
-&lt;p&gt;尽管整体环境充满压力，资金轮动的迹象在亚洲市场已相当明显。印度尼西亚综合指数（JCI）从低点反弹16%，印度录得该地区月度外资流入最强表现，资金正从高动量、高估值板块向更具防御性和价值属性的资产迁移。&lt;/p&gt;
-&lt;p&gt;从板块视角看，轮动趋势更为清晰。软件板块相对半导体的比价已突破50日均线，显示市场内部的结构性再平衡仍在进行。&lt;/p&gt;
-&lt;p&gt;此外，&lt;strong&gt;黄金市场出现值得关注的信号：&lt;/strong&gt;CFTC黄金期货持仓正在增加，历史上该指标对现货金价具有领先意义；与此同时，中国6月黄金进口量升至两年高位，避险需求的潜在支撑不容忽视。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Quek还预计，&lt;strong&gt;随着美国中期选举临近，市场将迎来更多标题性波动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;历史数据显示，美国股市通常在中期选举前横盘整理，选举结束后则倾向于走强。这一规律或为当前承压的市场提供一个阶段性的时间锚点，但在此之前，动量踩踏究竟还要持续多久，仍是市场最大的悬念。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;全球股市上周整体收平，但这一数字掩盖了内部的剧烈震荡。&lt;/strong&gt;市场此前对持续的地缘冲突、油价走势和利率变动基本视而不见，但这三股力量如今已同时涌入市场视野，争夺定价权。&lt;/p&gt;
-&lt;p&gt;与此同时，关税议题再度升温，为本已脆弱的市场情绪增添新的不确定性。Quek指出，今年的波动性对投资者而言已极为消耗，市场正处于多重叙事交织、方向难以研判的复杂阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 记录一些个人碎片化的思考</title><link>http://xueqiu.com/2874741935/402132792</link><guid>3df9d389ecaba3254fa5e7b4b1866090d179aded2289162426cb21d30656d07b</guid><pubDate>Sun, 26 Jul 2026 14:57:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;门捷列夫学徒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1、一个反共识的直觉：债务投资才是能增加社会总财富的。如果只是csp自有现金流开支，那无非就是存量财富转移。就像如果我们买房不能加杠杆一样，那gdp不可能十几年双位数增长，&lt;strong&gt;Ai如果增加了社会总财富，那必须得有相应的货币乘数去匹配&lt;/strong&gt;。&lt;/p&gt;</description></item><item><title>[今日雪球] 究竟身在何处？关于牛与熊的争论</title><link>http://xueqiu.com/1776955409/402114717</link><guid>bc1671b3ca97465ad5003b04f82d4a6ab81022374ff0770bda6877c4425b0edc</guid><pubDate>Sun, 26 Jul 2026 07:20:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;股市周期律&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;从去年12月份开始，各个景气行业都轮番大涨，然后渐次见顶开始回调。商业航天，有色，AI硬件，半导体都是暴涨后开始回调。最近雪球上很多大v据此认为，牛市结束了，接下来几年是熊市。那么目前到底处在牛熊周期的什么位置？&lt;/p&gt;</description></item><item><title>[今日雪球] 下周都是大事件</title><link>http://xueqiu.com/7977283243/402145071</link><guid>5233e67d4240948127d8371caa3cdd081a12a623cd8e0bc1843542e24214d78a</guid><pubDate>Sun, 26 Jul 2026 14:57:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI硬件继续挨打的一周，搞得市场都开始自我怀疑产业逻辑了。说实话，大家都低估了这波原油2.0对亚洲市场的影响，整个东亚资本市场都对石油高度敏感，最近这明显就是3-4月的快速重演，叠加获利盘后导致市场陷入了快速回调。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 4500点！高盛上调日本股市目标价，看好日元走弱提振企业利润</title><link>https://wallstreetcn.com/articles/3777951</link><guid>f36ba630c8ee3a925025c6b93a307b6b081abddae0db7e54bc087d3823efe4b0</guid><pubDate>Sun, 26 Jul 2026 06:33:27 GMT</pubDate><description>&lt;p&gt;高盛上调东证指数目标价，押注日元持续贬值将为日本企业盈利提供持续支撑，尽管短期波动风险犹存。&lt;/p&gt;
-&lt;p&gt;高盛在7月24日报告中指出，将东证指数12个月目标价从4400点上调至4500点，较上周五收盘价4011.31点意味着&lt;strong&gt;约12%的上涨空间&lt;/strong&gt;。与此同时，该行同步上调3个月和6个月目标价，&lt;strong&gt;分别至4200点和4300点&lt;/strong&gt;。此次调整的核心逻辑在于汇率预期——&lt;strong&gt;高盛外汇团队预计美元兑日元将在未来12个月内升至165，日元持续走弱将直接推升出口商及跨国企业的盈利表现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛预测，东证指数每股收益将在2026财年增长13%至228日元，并在此后两年分别录得11%和9%的增长。&lt;/strong&gt;尽管全球人工智能前景不确定性及地缘政治紧张局势可能在短期内带来市场波动，&lt;strong&gt;高盛指出东证指数相较6月历史高点仅回调约2%，展现出明显的相对韧性。&lt;/strong&gt;&lt;/p&gt;
-汇率预期驱动目标价上调
-&lt;p&gt;此次目标价上调的核心驱动力来自高盛对日元走势的最新判断。该行外汇团队预计，&lt;strong&gt;美元兑日元汇率将在3个月内达到162，6个月内达到163，12个月内达到165。&lt;/strong&gt;相应的年度汇率假设亦随之调整：2026财年为162，2027财年为160，2028财年为155。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;日元持续走弱对日本出口商及跨国企业集团构成直接的盈利顺风。&lt;/strong&gt;基于上述汇率路径，高盛预测东证指数每股收益将在2026财年增长13%至228日元，2027财年进一步增长11%，2028财年增长9%，呈现出清晰的盈利上修逻辑链。&lt;/p&gt;
-&lt;p&gt;高盛承认，全球人工智能需求前景的不确定性以及地缘政治摩擦，可能在短期内对市场情绪形成压制。然而，该行同时指出，东证指数相较于6月份创下的历史高点目前仅回调约2%，表现明显优于亚太区域内其他市场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当前估值已在16至17倍预期市盈率区间内企稳，高盛认为长期扩张空间依然充裕。这一估值水平为目标价上调提供了基本面支撑，也是高盛维持中期乐观立场的重要依据之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;另外，日本股市的资金流向出现明显的地区分化格局。6月份数据显示，以美国为主的北美投资者净买入日本股票规模达6000亿日元；而传统上偏好价值策略的欧洲投资者则在同期净卖出1.5万亿日元，两者方向截然相反。&lt;/p&gt;
-&lt;p&gt;7月中旬的最新交易所数据进一步显示，外国投资者净卖出现货股票2860亿日元，而国内散户投资者和本地金融机构分别净买入4070亿日元和640亿日元，有效承接了外资的抛盘，显示出日本国内资金对市场的支撑作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊暂停互袭！美方连续两晚停袭，伊军方：暂停对等打击</title><link>https://wallstreetcn.com/articles/3777962</link><guid>2bada4ce87e5a3a4fcddc60a29231432afc67e669bdfbd37af9b3ab2e462c6e8</guid><pubDate>Sun, 26 Jul 2026 11:39:32 GMT</pubDate><description>&lt;p&gt;美伊军事冲突出现降温迹象。特朗普下令美军暂停持续近两周的对伊空袭，伊朗军方随即宣布相应停止对等打击，双方进入短暂休战窗口。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 26 Jul 2026 18:59:34 GMT</lastBuildDate><item><title>[今日雪球] 记录一些个人碎片化的思考</title><link>http://xueqiu.com/2874741935/402132792</link><guid>3df9d389ecaba3254fa5e7b4b1866090d179aded2289162426cb21d30656d07b</guid><pubDate>Sun, 26 Jul 2026 14:57:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;门捷列夫学徒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1、一个反共识的直觉：债务投资才是能增加社会总财富的。如果只是csp自有现金流开支，那无非就是存量财富转移。就像如果我们买房不能加杠杆一样，那gdp不可能十几年双位数增长，&lt;strong&gt;Ai如果增加了社会总财富，那必须得有相应的货币乘数去匹配&lt;/strong&gt;。&lt;/p&gt;</description></item><item><title>[今日雪球] 究竟身在何处？关于牛与熊的争论</title><link>http://xueqiu.com/1776955409/402114717</link><guid>bc1671b3ca97465ad5003b04f82d4a6ab81022374ff0770bda6877c4425b0edc</guid><pubDate>Sun, 26 Jul 2026 07:20:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;股市周期律&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;从去年12月份开始，各个景气行业都轮番大涨，然后渐次见顶开始回调。商业航天，有色，AI硬件，半导体都是暴涨后开始回调。最近雪球上很多大v据此认为，牛市结束了，接下来几年是熊市。那么目前到底处在牛熊周期的什么位置？&lt;/p&gt;</description></item><item><title>[今日雪球] 下周都是大事件</title><link>http://xueqiu.com/7977283243/402145071</link><guid>5233e67d4240948127d8371caa3cdd081a12a623cd8e0bc1843542e24214d78a</guid><pubDate>Sun, 26 Jul 2026 14:57:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI硬件继续挨打的一周，搞得市场都开始自我怀疑产业逻辑了。说实话，大家都低估了这波原油2.0对亚洲市场的影响，整个东亚资本市场都对石油高度敏感，最近这明显就是3-4月的快速重演，叠加获利盘后导致市场陷入了快速回调。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊暂停互袭！美方连续两晚停袭，伊军方：暂停对等打击</title><link>https://wallstreetcn.com/articles/3777962</link><guid>2bada4ce87e5a3a4fcddc60a29231432afc67e669bdfbd37af9b3ab2e462c6e8</guid><pubDate>Sun, 26 Jul 2026 11:39:32 GMT</pubDate><description>&lt;p&gt;美伊军事冲突出现降温迹象。特朗普下令美军暂停持续近两周的对伊空袭，伊朗军方随即宣布相应停止对等打击，双方进入短暂休战窗口。&lt;/p&gt;
 &lt;p&gt;据CCTV国际时讯消息，据伊朗塔斯尼姆通讯社7月26日报道，伊朗陆军发言人阿克拉米尼亚表示，美方过去两晚停止对伊打击后，伊朗的对等打击行动也随之停止。他将伊朗当前策略定性为&amp;quot;报复性威慑&amp;quot;——通过对等打击迫使美国遵守相关谅解备忘录。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777934"&gt;华尔街见闻文章&lt;/a&gt;此前写道，据央视记者获悉，当地时间7月25日，特朗普收到军方新的对伊作战计划后未予批准，直接下令当天暂停空袭，终止了此前持续13天的每日打击行动。两名知情人士透露，此举一方面意在为外交谈判留出空间，另一方面是特朗普判断，在不重启大规模军事行动的前提下，现有空袭已基本达到效果上限。&lt;/p&gt;
 &lt;p&gt;据央视新闻最新消息，当地时间25日，美国两名知情人士称，&lt;strong&gt;美国总统特朗普暂缓扩大对伊朗军事打击规模，原因是美方担忧战争升级或招致伊方更猛烈报复，进一步消耗五角大楼在中东地区的防空拦截弹储备。&lt;/strong&gt;&lt;/p&gt;
