@@ -1,5 +1,119 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 27 Jul 2026 00:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 张坤颠覆“张坤”</title><link>https://wallstreetcn.com/articles/3777966</link><guid>ec9d4b0dd441c60df826cd64ca755494b199e04e942ff799b8368eb16ab3e192</guid><pubDate>Sun, 26 Jul 2026 23:47:31 GMT</pubDate><description>&lt;p&gt;在坚持了十年后，张坤管理的四只基金在最新一季展现出“新”的“面貌”。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 27 Jul 2026 00:59:39 GMT</lastBuildDate><item><title>[华尔街见闻] 如何估值长鑫？</title><link>https://wallstreetcn.com/articles/3777975</link><guid>6feebff7394371eb447899e897f2bc2b1231266f99103cfddefcf91ab4dea620</guid><pubDate>Mon, 27 Jul 2026 00:41:19 GMT</pubDate><description>&lt;p&gt;长鑫科技（688825）今日即将挂牌，成为科创板规模最大IPO。IPO发行价8.66元，按保守估算对应市值约5200亿元。但市场显然不打算在这个价格停留。&lt;/p&gt;
+&lt;p&gt;东北证券分析师李玖在研报中，从三个相互独立的视角为长鑫估值，&lt;strong&gt;结论收敛在3.2～5.7万亿人民币区间。同日，野村证券首次覆盖给出买入评级，目标价116元，隐含涨幅1239%，对应市值约7.76万亿——是东北证券上限的1.4倍。&lt;/strong&gt;两家机构分歧的核心，在于对长鑫远期份额天花板的判断——东北证券基准假设17%，野村则押注更大的份额空间与更高的成长溢价。&lt;/p&gt;
+&lt;p&gt;上述估值或许并不夸张。长鑫是A股迄今独特的存在：纯DRAM IDM龙头，手握设计与制造全链条能力，正处于“周期反转+份额提升”的业绩爆发期。公司产品覆盖DDR4/5及LPDDR4X/5/5X，产品已进入阿里、腾讯、字节及主流手机供应链。据Omdia数据，&lt;strong&gt;2025年四季度公司全球市占率7.67%，中国第一、全球第四。受益存储涨价与高端产品放量，公司业绩弹性加速释放。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DRAM供需缺口持续，长鑫兼具“量价齐升+国产替代”双重红利。真正问题不在于它值不值钱，而在于该用哪把尺子量。&lt;/p&gt;
+视角一：市场份额相对估值——目标市值约3.49万亿元
+&lt;p&gt;&lt;strong&gt;逻辑&lt;/strong&gt;：既然DRAM是全球统一市场，海外上市的存储厂市值已包含了市场对“每一个百分点份额”的定价。用美股可比公司的市值，反解出“每1%远期全球份额对应多少市值”，再乘以长鑫的远期份额。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作&lt;/strong&gt;：美光与闪迪的NAND份额恰好相等（均为13%），因此美光（DRAM和NAND标的公司）市值减去闪迪（纯NAND标的）市值，即等于美光DRAM业务对应的市值——10220亿美元 - 2308亿美元 = 7912亿美元。将其除以美光19.85%的DRAM远期份额，得到DRAM每1%远期份额约值398.6亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;结论&lt;/strong&gt;：长鑫作为纯DRAM标的，远期份额17%（当前约8%），对应市值约6776.76亿美元，折合人民币约4.58万亿（按汇率6.77计算）。剔除少数股东损益占比约24%后，归母口径约&lt;strong&gt;3.49万亿&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;回测验证：&lt;/strong&gt;海力士反算市值较实际偏高9.44%，铠侠仅偏高0.66%，结果与实际市值基本吻合。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+视角二：盈利拆分PE估值——目标市值2.85万亿至4.27万亿元
+&lt;p&gt;第二种方法更底层：不借助外部锚点，直接预测长鑫自己的利润。存储厂的成本结构高度标准化，固定成本以折旧为主，由资本开支规模决定；可变成本随出货量线性变动。由于招股书未披露实际晶圆产能数据，测算以固定资产原值作为代理产能，乘以稼动率和产销率推算销量，再结合ASP得到营收。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;逻辑&lt;/strong&gt;：拆解收入（产能×稼动率×产销率×ASP）与成本（固定成本折旧+可变成本），预测净利润后给予PE倍数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键预测&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2027年营收4716亿元，毛利率86.96%，净利润3747亿元（整体口径）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;剔除少数股东损益（假设占比24%不变），归母净利润约2848亿元&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;估值&lt;/strong&gt;：东北证券认为，美光、SK海力士对应2027年PE分别为7.51倍和7.94倍，但长鑫处于份额快速提升阶段（远期份额预计达30%左右），给予成长溢价，按10-15倍PE，剔除少数股东损益后，对应归母净利润口径市值约&lt;strong&gt;2.85万亿至4.27万亿元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+视角三：单位产能相对估值——目标市值3.22万亿至3.99万亿元
+&lt;p&gt;&lt;strong&gt;逻辑&lt;/strong&gt;：用海外存储厂市值除以月产能，得到“每万片/月产能对应市值”，再乘以长鑫产能规划。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参照系&lt;/strong&gt;：三大原厂每万片/月产能对应市值集中在158-198亿美元区间——海力士160.45亿美元、美光197.80亿美元、三星158.91亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;结论&lt;/strong&gt;：2027年长鑫产能45万片/月，对应市值：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;乐观情景（三大原厂均值172亿美元/万片）：52518亿元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;中性情景（含台系厂商均值139亿美元/万片）：42327亿元&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;剔除少数股东损益后，对应约&lt;strong&gt;3.22万亿至3.99万亿元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+三种方法汇总：收敛于3.2万亿至5.7万亿元
+&lt;p&gt;东北证券指出，长鑫2025年少数股东损益占比高达73.76%，远高于三星、海力士、美光（均不足1%），估值必须剔除该部分影响。&lt;/p&gt;
+&lt;p&gt;假设2026、2027年少数股东损益占比维持24%不变，三种方法结论如下：剔除少数股东损益影响后合理估值 3.2~5.7 万亿。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;三个视角用的数据不同、逻辑链条不同，但最终归母口径的区间都落在3～4.3万亿附近。这种收敛本身是一个信号：在当前份额和产能假设下，这个量级的定价有较强的自洽性。&lt;/p&gt;
+野村证券：目标价116元，隐含涨幅1239%
+&lt;p&gt;7月27日，野村证券也首次覆盖长鑫科技，给出更为激进的判断。&lt;/p&gt;
+&lt;p&gt;该行以“买入”评级启动覆盖，目标价116元人民币，对应约&lt;strong&gt;20倍PE——是美光当前估值（约10倍）的整整两倍，也是SK海力士当前估值的两倍有余。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以IPO发行价8.66元计算，116元的目标价意味着&lt;strong&gt;隐含涨幅1239.5%&lt;/strong&gt;，对应市值约&lt;strong&gt;7.76万亿人民币&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这一数字远超东北证券的估值区间上限5.7万亿，两者之间约2万亿的差距，本质上是对两个核心变量的不同押注：长鑫的份额天花板在哪里，以及市场应该给这家公司多少成长溢价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+2026年只是起点！国产替代叠加AI需求，野村给予长鑫双重成长溢价
+&lt;p&gt;野村给出20倍PE溢价的底层逻辑，建立在三重判断之上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其一，供给端结构性收紧将持续数年。&lt;/strong&gt; 该行核心论点是：“全球存储供给在未来数年内不太可能宽松。”三星、SK海力士、美光的资本开支已大规模转向HBM与先进制程，通用DRAM的新增供给被结构性压制。这意味着长鑫所在的通用DRAM市场，将在相当长的时间内维持供不应求的格局，而非传统存储周期那种“涨两年、跌两年”的轮回。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其二，长鑫的份额提升逻辑是“加速”而非“线性”。&lt;/strong&gt; 该行判断，随着长鑫产能持续扩张、制程从第四代向第五代迁移，其在全球通用DRAM市场的份额提升速度将超出市场预期。当前约8%的份额，在野村的模型中对应的远期空间，显然远不止东北证券假设的17%上限。&lt;strong&gt;野村隐含的远期份额假设，结合7.76万亿的目标市值反推，对应的份额空间可能在25%至30%区间，甚至更高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其三，国产替代叠加AI需求，给予双重成长溢价。&lt;/strong&gt; 该行认为，长鑫不仅是一个存储周期标的，更是一个“国产替代”主题标的。中国云厂商、手机厂商对国产DRAM的采购意愿持续上升，这为长鑫提供了独立于全球周期之外的额外增量。与此同时，AI服务器对DRAM的需求呈指数级增长，服务器单机DRAM搭载量是智能手机的近80倍，这一需求结构的变化将长期支撑ASP中枢上移。&lt;strong&gt;两重逻辑叠加，野村认为长鑫理应享有比海外同类公司更高的估值溢价，而非折价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;也就是说，野村不认为2026是峰值，只当它是起点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在具体财务预测上，野村预测长鑫销售额和归母净利润将分别增长63%和74%。&lt;/strong&gt;驱动因素包括：产能从2025年的27万片/月扩张至2027年的45万片/月，制程迁移带来的每片晶圆价值量提升，以及DRAM均价在供给收紧背景下的持续上行。&lt;strong&gt;野村的盈利预测在绝对数字上较东北证券更为激进，而20倍PE的倍数假设则进一步放大了最终估值结果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;支撑这个更激进假设的，是供需数据：全球普通DRAM产能测算显示，2027年缺口仍然存在；2026年一季度DRAM合约价环比暴涨93%～98%，大幅超出此前预期；长鑫2026年一季度毛利率已升至79.16%，单季归母净利润247.62亿元。&lt;/p&gt;
+&lt;p&gt;涨价周期的高度，正在实时修正所有模型的输入假设。&lt;/p&gt;
+从零到全球第四，长鑫用了七年
+&lt;p&gt;2019年，长鑫科技（前身睿力集成）推出中国大陆首颗自主量产的8Gb DDR4，实现了国产DRAM从无到有的突破。&lt;/p&gt;
+&lt;p&gt;七年后，这家公司已是中国第一、全球第四的DRAM厂商。根据Omdia数据，2025年Q4长鑫全球市占率达7.67%。&lt;/p&gt;
+&lt;p&gt;产品线上，长鑫已覆盖DDR4/5及LPDDR4X/5/5X全代际，并于2024年底停产自有DDR4，产能全面转向DDR5与LPDDR5/5X等高价值产品。客户涵盖阿里、腾讯、字节及主流手机供应链。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;产能方面&lt;/strong&gt;，公司拥有合肥两座、北京一座共三座12吋晶圆厂，东北证券预计产能将从2025年的27万片/月扩张至2027年的45万片/月，全球占比由14%升至17%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+财务拐点：涨价周期下，利润弹性惊人
+&lt;p&gt;长鑫的财务路径，是重资产存储厂的典型剧本——下行周期固定成本前置形成亏损，上行周期利润快速释放。&lt;/p&gt;
+&lt;p&gt;关键节点如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2025年&lt;/strong&gt;：归母净利润由亏损163.40亿元转为盈利18.75亿元，综合毛利率升至40.99%，与三星（39.38%）基本持平&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2026年Q1&lt;/strong&gt;：单季营收508亿元（同比+719%），毛利率79.16%，归母净利润247.62亿元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2026年上半年&lt;/strong&gt;：管理层预计营收1100-1200亿元，归母净利润500-570亿元&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;利润爆发的核心驱动是价格。根据TrendForce 2026年6月最新调查，2026年Q1一般型DRAM合约价环比暴涨约93%-98%，远超此前双位数的预测区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;东北证券同时也列出四项主要风险：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;需求不及预期&lt;/strong&gt;：AI服务器建设放缓或消费电子复苏乏力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;价格周期性下行&lt;/strong&gt;：2022-2023年曾出现价格较周期前跌幅达50%的深度下行。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;产能与技术迭代不及预期&lt;/strong&gt;：第五代工艺平台研发若滞后，将影响量价兑现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;国际贸易摩擦与供应链受限&lt;/strong&gt;：地缘政治升温可能加剧产业链不稳定。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI重估</title><link>https://wallstreetcn.com/articles/3777976</link><guid>0fbd17c4b092990e3a6d3e1186fc3e3d98398b4716f688f4ae9789a295b67869</guid><pubDate>Mon, 27 Jul 2026 00:37:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;核心观点：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.细水长流。经历上半年的快速抬升之后，近期以AI为标的的全球资产价格显著调整，进而影响金融市场的整体风险偏好。这只是短暂的技术性调整，还是对AI投资本质的重新认知？AI的发展逻辑似是不断地向人类学习，而人类又能从AI的演绎中学到什么？&lt;/p&gt;
+&lt;p&gt;2.互联网革命时期，一旦“信息高速公路”建成，边际成本递减甚至为零。而AI倚赖算力集聚“大力出奇迹”，即使完成基建和模型训练，其应用仍持续消耗大量资源，更不用说资本开支加大阶段。AI边际成本可能递增，“重资产、高负债、慢回报”特征明显。&lt;/p&gt;
+&lt;p&gt;3.当前全球主要AI企业的利润尚可，但巨大的资本开支需求正使得自由现金流转弱。若叠加外源融资成本上升，可能加大市场对其财务兑现能力的担心。与互联网时期不同，AI产业链是多个寡头垄断市场的跨国串联系统，其任何中间环节都可能引致整体波动。&lt;/p&gt;
+&lt;p&gt;4.展望未来，科技长期趋势依然，但投资也不只有AI。宏观上，投资是利率的函数。我国融资成本稳中略降，但企业投资回报率的变化更陡峭。在投资“止跌回稳”的诉求下，利率与回报率将相互追逐并耦合。尤其在资本市场的呵护期，资金利率似有易松难紧特征。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正文：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;经历上半年的快速抬升之后，近期以AI为标的的全球资产价格显著调整，进而影响金融市场的整体风险偏好。这只是短暂的技术性调整，还是对AI投资本质的重新认知？AI的逻辑似是不断地向人类学习，而人类又能从AI的演绎中学到什么？&lt;/p&gt;
+一、AI是门怎样的投资？ 
+&lt;p&gt;互联网革命时期，一旦 “信息高速公路”建成，边际成本递减甚至为零。而AI倚赖算力集聚“大力出奇迹”，即使完成基建和模型训练，其应用仍持续消耗大量资源，更不用说资本开支加大的阶段。&lt;strong&gt;AI边际成本可能递增，“重资产、高负债、慢回报”特征明显。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当前全球主要AI企业的利润尚可，但更多资本开支需求正使得自由现金流转弱。若叠加外源融资成本上升，可能加大市场对其财务兑现能力的担心。与互联网时期不同，AI产业链是多个寡头垄断市场的跨国串联系统，其任何中间环节都可能引致整体波动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+二、投资也不只有AI？
+&lt;p&gt;科技长期趋势依然，但投资也不只有AI。宏观上，投资是利率的函数。我国融资成本稳中略降，但企业投资回报率的变化似更陡峭。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;展望未来，AI与非AI之间的资产配置逻辑可能重构。&lt;/strong&gt;在宏观投资“止跌回稳”的诉求下，国内利率与企业投资回报率将相互追逐并耦合。尤其在资本市场的呵护期，资金利率似有易松难紧的特征。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MzI4NjMyNTUwMw==&amp;amp;mid=2247489070&amp;amp;idx=1&amp;amp;sn=26b2e2289ad6460ac63e78d21430bae9&amp;amp;chksm=ea3e5e1f3db08351a19297120ee878dd67b947f9794c231b2debcd20bd8b374cc1710f0a62cd&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0726z00ObJ7hnAUQXruKWM7j&amp;amp;sharer_shareinfo=1437097f66b0833561bc4f9945a7565f&amp;amp;sharer_shareinfo_first=1437097f66b0833561bc4f9945a7565f#rd"&gt;伍戈经济笔记&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 张坤颠覆“张坤”</title><link>https://wallstreetcn.com/articles/3777966</link><guid>ec9d4b0dd441c60df826cd64ca755494b199e04e942ff799b8368eb16ab3e192</guid><pubDate>Sun, 26 Jul 2026 23:47:31 GMT</pubDate><description>&lt;p&gt;在坚持了十年后，张坤管理的四只基金在最新一季展现出“新”的“面貌”。&lt;/p&gt;
 &lt;p&gt;其中的重要变化之一是加速体现“科技成色”，无论是张坤独管的易方达亚洲精选基金，还是增加了新帮手的易方达蓝筹精选基金。前十大重仓股的科技成色都得到了明显增强。&lt;/p&gt;
 &lt;p&gt;考虑到部分基金的管理团队变更接近二季度末，实际的变化可能更多的要在三季度内体现。&lt;/p&gt;
 &lt;p&gt;但这都是张坤管理的基金自2021年以来最大的风格变化，新的尝试总会带来新的激发，于基金经理而言，这虽然更接近于外部带动的“变化”，但亦有机会成为个人和内在的“启发”之旅。&lt;/p&gt;
