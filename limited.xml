@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 30 Jul 2026 01:59:54 GMT</lastBuildDate><item><title>[华尔街见闻] 微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道</title><link>https://wallstreetcn.com/articles/3778268</link><guid>0035a1e46d4828cb606ae6d183ac4cf9af6c937c99c9afd8010645a733f1029e</guid><pubDate>Thu, 30 Jul 2026 00:46:01 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 30 Jul 2026 02:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道</title><link>https://wallstreetcn.com/articles/3778268</link><guid>0035a1e46d4828cb606ae6d183ac4cf9af6c937c99c9afd8010645a733f1029e</guid><pubDate>Thu, 30 Jul 2026 00:46:01 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;微软2026财年第四季度业绩电话会议上，高管们表示&lt;strong&gt;AI需求对微软而言仍是强劲顺风，Azure需求持续超越可用容量，这一供需失衡格局短期内未见缓解。资本支出因会计政策调整降至约1750亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778264"&gt;华尔街见闻提及&lt;/a&gt;，美东时间29日美股盘后，微软公布，截至2026财年第四季度（Q4）财报，营收同比增长18%至900.1亿美元，较分析师预期高2.6%。&lt;/p&gt;
 &lt;p&gt;全财年总营收突破3310亿美元，同比增长18%。其中微软云收入突破2140亿美元，增幅27%。&lt;/p&gt;
@@ -529,7 +529,7 @@ AI基础设施狂飙，资本支出变相降低
 &lt;p&gt;&lt;strong&gt;艾米·胡德，首席财务官&lt;/strong&gt;：谢谢。&lt;/p&gt;
 &lt;p&gt;接线员：女士们、先生们，今天的会议到此结束。您现在可以断开电话线路。祝各位今天余下时间愉快。&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta电话会：扎克伯格强调“卖掉算力换短期利润是愚蠢的”，烧钱买算力不是赌博是必须</title><link>https://wallstreetcn.com/articles/3778265</link><guid>f0ba88be1d67de429b316afa9e54d07c5ea5be23a293f7dfb58fffb4d9cac584</guid><pubDate>Thu, 30 Jul 2026 01:56:33 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;伴随着AI技术对核心业务的全面加速以及个人超级智能蓝图的展开，Meta Q2营收超预期增长28%，但疲软的Q3指引与高企的AI资本开支打击市场情绪。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778263"&gt;华尔街见闻提及&lt;/a&gt;，Meta Q2营收超预期增长28%，但公司将&lt;strong&gt;全年资本开支指引区间收窄并上调下限&lt;/strong&gt;，由&lt;strong&gt;此前的1250亿至1450亿美元调整为1300亿至1450亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当地时间7月29日美股盘后，Mete召开财报电话会议，首席执行官马克·扎克伯格与首席财务官Susan Li（苏珊·李）坚持认为，&lt;strong&gt;Meta的AI投资不仅正在实实在在地赚钱，而且还在勾勒一个覆盖数十亿人的“超级智能”商业版图。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;扎克伯格在会上用大量篇幅为公司的战略进行了坚定的辩护。他认为&lt;strong&gt;当前的大规模投入是为了抢占AI基础设施窗口期，回报将逐步通过核心广告业务提升、企业服务、API变现及算力出租等多条路径兑现。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;对于为什么要买这么多算力，扎克伯格表示目前的算力远远无法满足所有的需求。此外公司也确实收到了大量关于计算能力的报价，但他强调：&lt;/p&gt;
@@ -856,137 +856,98 @@ AI变现初见成效，广告业务“领跑全行”
 &lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt; 谢谢。今天的问答环节到此结束。Amon先生，在结束电话会议之前，您还有什么补充吗？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cristiano R Amon，总裁兼首席执行官：&lt;/strong&gt; 好的，谢谢。在我们结束之前，我想花一点时间&lt;strong&gt;感谢我们的员工，我们尽职尽责的员工，感谢他们出色的执行力和付出&lt;/strong&gt;，尤其是对于一家正在不断变革、持续开发新能力的公司而言。没有我们优秀的员工，这一切都无法实现。他们绝对是整个公司最宝贵的财富。我也想对我们的客户合作伙伴和供应商表达感谢，感谢他们在当前环境下每天对我们给予的信任。我认为客户对我们的信心，赋予了我们执行战略的能力，这既是我们今天取得成功的关键所在，也将是我们未来取得成功的关键所在。我们下个季度再见。谢谢。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt; 谢谢。女士们、先生们，今天的电话会议到此结束。您现在可以挂断电话了。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高</title><link>https://wallstreetcn.com/articles/3778176</link><guid>34e1316fd5dcf1d3de106702150f31a1772261a93479ebf807e08c49b48e5976</guid><pubDate>Wed, 29 Jul 2026 23:03:08 GMT</pubDate><description>&lt;p&gt;市场遭遇伊朗战火重燃、美联储鹰派按兵不动与AI信仰遭质疑的三重冲击。&lt;/p&gt;
-&lt;p&gt;布伦特暴涨8%重返90美元。30年期美债收益率飙升创2007年6月以来最高，道指创15个月最大单日点数跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-伊朗夜袭停火破裂，油价单日暴涨7%
-&lt;p&gt;伊朗停火破裂成为周三全球市场最大的冲击变量。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778237"&gt;华尔街见闻提及&lt;/a&gt;，伊斯兰革命卫队从本土向驻约旦美军基地发射多枚弹道导弹，美军中央司令部确认全部被拦截。特朗普誓言将&amp;quot;狠狠打击&amp;quot;伊朗作为报复，美沙联军随后对伊拉克境内亲伊武装展开&amp;quot;精确打击&amp;quot;。&lt;/p&gt;
-&lt;p&gt;油市反应剧烈。WTI原油期货9月合约飙升6.56%收于每桶84.46美元，盘中一度突破85美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;布伦特原油9月合约暴涨7.91%收于每桶90.74美元，重返90美元上方。伊朗同时拒绝了阿曼提出的霍尔木兹海峡共同管理方案，伊朗副外长Gharibabadi在国家电视台明确表示进港航道须完全由伊朗控制。&lt;/p&gt;
-&lt;p&gt;Tickmill策略师Patrick Munnelly指出，市场定价的不是突如其来的新石油冲击，而是此前任何即期外交缓和溢价的完全消退。德意志银行高级国际经济师Peter Sidorov警告，中东冲突正加大重回&amp;quot;全面战争&amp;quot;的风险。&lt;/p&gt;
-&lt;p&gt;基本面也在同步收紧。EIA数据显示截至7月24日当周美国原油库存骤降716.7万桶至4.045亿桶，为2018年以来最低水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kpler大宗商品研究主管Matt Smith指出，库欣库存继续下滑逼近临界低位，极大的裂解价差刺激炼厂全力运转。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-美联储鹰式按兵不动，30年美债飙至5.21%创2007年最高
-&lt;p&gt;美联储维持利率不变的决定本身符合预期，但三票反对的裂痕程度远超市场预估。&lt;/p&gt;
-&lt;p&gt;克利夫兰联储Hammack、明尼阿波利斯联储Kashkari和达拉斯联储Logan正式投出反对票，均主张加息25基点。这是2022年以来FOMC最大的一次反对票数量，也是沃什时代内部鹰派力量的最强信号。&lt;/p&gt;
-&lt;p&gt;沃什在发布会上反复强调美联储&amp;quot;不会犹豫行动&amp;quot;以遏制通胀，称&amp;quot;我们面前有一些重要决定要做&amp;quot;。但更令债券市场不安的是他的&amp;quot;不给前瞻指引&amp;quot;立场，市场必须自行从数据中判断利率路径。&lt;/p&gt;
-&lt;p&gt;美债市场出现剧烈曲线陡峭化。受油价暴涨推升通胀预期，30年期美债收益率飙升10个基点至5.21%，创2007年6月以来最高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;短端2年期收益率在美联储维持利率不变后下行5个基点至约4.27%，2s30s利差急速走阔。10年期美债收益率上涨约3.67bp至4.641%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;债券义勇军全面回归，用长端抛售逼问沃什&amp;quot;你还在等什么&amp;quot;。&lt;/p&gt;
-芯片股屠戮加速AI信仰崩塌
-&lt;p&gt;周三全球市场陷入伊朗战火重燃、美联储鹰派分裂与AI信仰崩塌的三重冲击。&lt;/p&gt;
-&lt;p&gt;美股三大指数全线下挫，道指重挫1153.18点或2.19%报51594.14，标普500跌1.52%报7316.16，纳指跌1.74%报24442.94，连续第六个交易日收跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;标普500成分股中约300只收跌仅176只上涨，广度从周二的历史极值逆转为全面负值。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;高盛交易部门记录到2022年11月以来最大规模的三日累计去敞口，科技板块空头卖出为2016年以来最大。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美股芯片板块同步遭受重创。AMD跌5.51%、英特尔跌5.12%，费城半导体指数续创近期新低。而成长软件板块则连续第四个交易日上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;随着信贷市场趋于稳定，超大规模数据中心的价格略有反弹。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大型股今日表现优异，在财报发布前夕，受沃什评论的影响大幅上涨，但未能守住涨幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;今日人工智能领军企业表现不一，标普500指数（剔除人工智能板块）基本持平，半导体和数据中心板块表现疲软，而基础设施和平台板块则有所上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，高盛指出，整体动量交易的下滑幅度已接近历史极限。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-大类资产联动，黄金反弹美元承压
-&lt;p&gt;美元指数在美联储决议公布后急跌，收于约101.17，跌0.25%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美元走弱推动现货黄金反弹，收于约4066美元/盎司，从周二低点回升。白银同步走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;比特币维持在64000美元上方，美联储按兵不动的短期流动性宽松预期提供了部分支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周三美股普跌，道指创15个月最大单日点数跌幅。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超1%，大消费逆势拉升，光模块再度调整、“易中天”齐跌，恒科指跌超1%，中际旭创港股IPO首日破发</title><link>https://wallstreetcn.com/articles/3778286</link><guid>bf9d76eeb7874d247ec043425a9b22b4eeab8336bb2298743888b2cf0cf965af</guid><pubDate>Thu, 30 Jul 2026 02:12:00 GMT</pubDate><description>&lt;p&gt;7月30日，A股震荡下滑，沪指盘初维持在平盘附近震荡，深成指、创业板走低，且跌幅均超1%，科创50跌2%，算力硬件、芯片半导体继续调整，餐饮旅游、白酒等大消费概念继续上涨，贵金属、海运、汽车、农业等板块活跃。&lt;/p&gt;
+&lt;p&gt;港股高开低走，恒指、恒科指双双下跌，恒科指盘初跌超1%，科网股多数走低，半导体同样承压，华虹宏力跌近6%。苹果概念股齐跌。中际旭创港股IPO首日破发。债市方面，国债期货多数上涨。商品方面，国内商品方面涨跌分化。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;标普500指数收跌112.63点，跌幅1.52%，报7316.15点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;纳指收跌433.97点，跌幅1.74%，报24442.942点。纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;罗素2000指数收跌1.61%，报2906.31点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;恐慌指数VIX收涨13.29%，报20.63。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;行业ETF普跌，芯片ETF跌超5%，标普工业跌3.22%，银行和美国光伏均跌超2%。油气ETF则涨3.40%，标普能源涨1.85%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（7月29日 美股各行业板块ETF）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;万得美国科技股七巨头（Magnificent 7）指数跌0.8%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;英伟达跌3.55%，特斯拉跌2.97%，亚马逊跌1.82%，Meta跌1.31%，微软跌0.71%，苹果跌0.56%，谷歌A涨0.90%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;芯片股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;费城半导体指数收跌588.194点，跌幅5.33%，报10447.489点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;台积电ADR跌4.48%，AMD跌5.51%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;纳斯达克金龙中国指数收涨1.73%，报6434.96点，连续两个交易日收于50日均线上方，逼近100日均线，最近三个交易日累计反弹5.41%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;热门中概股里，新东方收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Circle跌4.68%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.25%，深成指跌0.85%，创业板指跌1.84%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.27%，恒科指跌1.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约涨0.08%，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货分化，截至发稿，原油涨超3%，沪银涨超2%，沪锡、沪镍、沪铝、沪金、燃油、不锈钢均涨超1%，沥青、沪铜、碳酸锂等品种走高，工业硅、橡胶、焦煤、锰硅、多晶硅、纸浆、热轧卷板等下跌，焦炭、鸡蛋、螺纹钢、烧碱、豆粕、铁矿石、玻璃等跌逾1%，集运指数、氧化铝跌超2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;意大利银行板块收跌将近1.3%，英国股指涨超0.3%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:01&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;港股中际旭创上市首日开盘破发，截至发稿，跌幅扩大至4.54%，现报935.5港元，目前市值约1.18万亿港元。中际旭创A股同步下跌，目前跌超7%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，中际旭创7月28日公告，确定H股全球发售定价为每股980港元。按5450万股的基础发行量计算，对应募资额约534亿港元，锁定2026年港股募资规模首位。若保荐人全额行使15%超额配售权，增发817.5万股后，总募资规模将近610亿港元。&lt;/p&gt;
+&lt;p&gt;从2023年CPO（共封装光学）概念爆发到2025年底，中际旭创A股股价累计涨幅超过10倍；进入2026年，股价一度再涨超120%，6月22日最高触及1416.88元，中际旭创A股总市值突破1.3万亿元。截至发稿，中际旭创A股市值回落至1.02万亿元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:53&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;算力硬件股再度陷入调整，光模块、光芯片等方向跌幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;半导体板块承压，星宸科技、全志科技、有研硅、瑞芯微跌幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:48&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;白酒概念震荡走强，舍得酒业涨停，贵州茅台、古井贡酒、酒鬼酒、金徽酒、口子窖跟涨。消息面上，近期北京、上海等地茅台直营店已将53度、500ml飞天茅台售价提升至1719元/瓶，高于i茅台平台1639元/瓶的售价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;白酒概念震荡走强，舍得酒业涨停，贵州茅台、古井贡酒、酒鬼酒、金徽酒、口子窖跟涨。白酒概念震荡走强，舍得酒业涨停，贵州茅台、古井贡酒、酒鬼酒、金徽酒、口子窖跟涨。白酒概念震荡走强，舍得酒业涨停，贵州茅台、古井贡酒、酒鬼酒、金徽酒、口子窖跟涨。消息面上，近日，国务院批复并发布《扩大消费“十五五”规划》，明确提出要“顺应消费发展规律和阶段性特征”，坚持“供需适配”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:41&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘贵金属板块震荡反弹，招金黄金涨停，赤峰黄金、西部黄金、山金国际、四川黄金、中金黄金跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;油气概念表现活跃，通源石油一度涨近10%，科力股份、泰山石油、中国海油、山东墨龙、石化油服跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:37&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘MLCC概念走强，双星新材涨停，洁美科技、昀冢科技、国瓷材料、风华高科等跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，7月29日，三星电机宣布自8月起MLCC价格上调30%。该公司已将涨价通知下发合作经销商，所有出货产品自8月1日起执行新价格。另一家MLCC龙头日本太阳诱电也通知，自9月1日起出货的MLCC将涨价。涨价理由为原材料及辅料价格急剧上涨。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.43%，创业板指跌1.4%。半导体、算力硬件产业链持续调整，服务器、光刻机、CPO方向领跌。黄金、油气、煤炭板块走强。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数高开0.26%，恒生科技指数涨0.43%。新东方涨逾14%，小米集团、美团、智谱涨幅居前；华虹宏力、中芯国际跌幅靠前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 三星Q2创史上最强盈利季：净利润暴涨1299.9%超预期，AI芯片狂揽99%利润</title><link>https://wallstreetcn.com/articles/3778272</link><guid>e3b19f03d3b90fb303caf4c55a22a0f8d3ae4444c89cd3a83ee31708019e3c64</guid><pubDate>Thu, 30 Jul 2026 02:08:34 GMT</pubDate><description>&lt;p&gt;三星电子2026年第二季度创下历史上盈利能力最强的单季。&lt;/p&gt;
+&lt;p&gt;具体来看：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;泛欧欧股：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;欧洲STOXX 600指数收跌0.29%，报645.01点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;欧元区STOXX 50指数收跌0.65%，报6248.84点。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;营收达到171.5万亿韩元，同比大增130%，环比增长28%；&lt;/li&gt;
+&lt;li&gt;营业利润更是飙升至89.49万亿韩元，同比大幅增长1813.8%，相较去年同期的4.68万亿韩元实现跨越式增长，环比亦增长56.4%；营业利润率高达52.2%，同比增幅达到1814%。&lt;/li&gt;
+&lt;li&gt;净利润高达71.62万亿韩元，超出预估68.36万亿韩元，同比暴涨1299.9%，净利润率达41.8%。&lt;/li&gt;
+&lt;li&gt;每股收益10,849韩元，较一年前的737韩元实现了跨越式跃升，环比增加3726韩元&lt;/li&gt;
+&lt;li&gt;从上半年累计数据看，前两个季度合并营收达305.37万亿韩元，营业利润达146.73万亿韩元，分别较去年同期增长98.7%和1191.5%。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;德国DAX 30指数收跌0.01%，报25460.48点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;法国CAC 40指数收跌0.60%，报8408.27点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;英国富时100指数收涨0.34%，报10908.41点。&lt;/p&gt;
-&lt;p&gt;（7月29日 欧美主要股指表现）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什“只有嘴硬”？美债不买账</title><link>https://wallstreetcn.com/articles/3778273</link><guid>a63bf4ed47055478b0c79a0d5eb923bccb5edcc858ab04802b8b544e406da4c8</guid><pubDate>Thu, 30 Jul 2026 00:06:01 GMT</pubDate><description>&lt;p&gt;美联储7月29日宣布连续第七个月维持利率不变，基准利率继续停留在3.5%至3.75%区间。消息公布后，30年期美债收益率单日飙升最多14个基点，触及5.23%，为2007年以来最高水平。与此同时，市场通胀预期指标上升，美元走软，股市下跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;驱动这轮业绩爆发的核心引擎，毫无疑问是半导体业务。以AI服务器需求为中心，三星内存部门实现了销售额120.8万亿韩元，&lt;strong&gt;创下历史最高纪录，仅DS（器件解决方案）部门单季营业利润就达89.2万亿韩元，占全公司总营业利润的99%以上。&lt;/strong&gt;与此同时，研发投入同步攀升至16万亿韩元，环比增长41%，显示出三星在技术领先地位上的持续押注。&lt;/p&gt;
+&lt;p&gt;然而，业绩结构的分化同样清晰可见。DX（器件体验）部门——涵盖手机、电视、家电——营业利润转负至-0.8万亿韩元，零部件成本上涨侵蚀了消费端业务的利润空间。整体业绩的亮丽很大程度上依赖半导体单一引擎的高速旋转。&lt;/p&gt;
+&lt;p&gt;公告公布后，三星股价周四在首尔盘中一度上涨4.1%，但随后转跌1.9%，目前涨7.91%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+内存与HBM：AI浪潮下的超级周期，利润飙升250倍
+
+&lt;p&gt;内存业务是本季度最耀眼的亮点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DS部门销售额从上季度的81.7万亿韩元跃升至127.5万亿韩元，环比增长56%&lt;/strong&gt;；营业利润从53.7万亿韩元升至89.2万亿韩元，同比增长逾250倍，环比增长66%。DRAM与NAND均实现了历史最高出货量，服务器收入占比创下新纪录。&lt;/p&gt;
+&lt;p&gt;HBM（高带宽内存）方面，三星已完成HBM4的规模量产并向主要客户批量交货，同时完成了业界首批HBM4E样品的发货——这意味着三星在下一代AI加速器平台的竞争中率先卡位。DDR5、SOCAMM2等高附加值产品的持续放量，配合企业级SSD需求的强劲增长，使得整个内存市场依然处于供给偏紧的格局。&lt;/p&gt;
+&lt;p&gt;三星半导体部门的业绩大幅超预期，核心驱动力来自AI服务器对高带宽内存需求的爆发式增长。Counterpoint研究总监黄先生表示，三星的DRAM业务正持续扩大市场份额领先优势，&amp;quot;三星正利用其在存储器领域的强大地位，积极拓展其大部分业务部门的市场份额。&amp;quot;&lt;/p&gt;
+&lt;p&gt;展望下半年，三星预期AI基础设施资本支出维持强劲，Agentic AI的广泛落地将进一步拉动服务器DRAM与企业级SSD需求。尽管移动端和PC端需求存在阶段性软化，三星判断整体市场仍将维持供给不足状态，并计划围绕HBM4、Gen6及UFS 5.0持续巩固技术领先优势。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+S.LSI与晶圆代工：双线突破，进击高端节点
+
+&lt;p&gt;&lt;strong&gt;系统半导体（S.LSI）部门在本季度创下上半年收入历史新高，SoC与图像传感器的强劲销售是主要拉动力。&lt;/strong&gt;公司已成功锁定下一代旗舰SoC订单及新定制SoC设计合同，在高端移动市场的份额持续扩大。后续重点包括推动下一代旗舰SoC销售、拓展Custom SoC新业务，以及进入更多高价值领域，包括多元化图像传感器应用和Power IC业务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;晶圆代工（Foundry）业务同样呈现积极态势：HBM B-Die需求带动收入增长，来自美国客户的订单强劲，&lt;/strong&gt;2nm HPC项目的设计合同持续推进。进入下半年，三星计划推进2nm Gen 2移动芯片的量产爬坡，4nm LPU的放量以及Base-Die出货扩大，并将目标锁定在实现两位数的营收增长，并通过先进节点与AI/HPC设计赢单推动中长期增长。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+DX部门：消费端承压，成本侵蚀利润
+
+&lt;p&gt;与半导体的辉煌形成鲜明对比，DX部门在本季度录得-0.8万亿韩元的营业亏损。&lt;/p&gt;
+&lt;p&gt;移动业务（MX/NW）方面，智能手机营收为32.3万亿韩元，同比增长14%，旗舰机型与A系列的销售均表现稳健，Galaxy Z Fold8系列的发布也带来了新的增长点。&lt;strong&gt;但营业利润转负至-0.7万亿韩元，行业性零部件成本上涨是核心压力来源。&lt;/strong&gt;公司正积极推进效率优化举措，并计划通过&amp;quot;智能眼镜&amp;quot;等新形态产品拓展AI体验生态。&lt;/p&gt;
+&lt;p&gt;VD/DA（影像显示与家电）部门营收为14.5万亿韩元，同比小幅增长，但营业利润接近盈亏平衡（-0.01万亿韩元）。空调需求拉动了DA部门收入，但成本压力依然构成拖累。下半年，三星计划以&amp;quot;Vision AI&amp;quot;为差异化标签，结合TV Plus内容和广告业务的扩展来提升整体盈利能力。&lt;/p&gt;
+
+SDC与Harman：利润弹性改善
+
+&lt;p&gt;三星显示（SDC）在本季度呈现明显的边际改善。营收达到7.5万亿韩元，同比增长17%；营业利润从上季度的0.4万亿韩元回升至0.7万亿韩元。&lt;/p&gt;
+&lt;p&gt;高端智能手机OLED面板的旺盛需求是核心驱动力，游戏显示器市场的扩张也带动大尺寸面板业务同步受益。下半年，三星计划推进8.6G IT OLED产线的适时量产，并向平板、游戏及车载市场进一步扩大差异化产品供给。&lt;/p&gt;
+&lt;p&gt;VD/DA销售额14.5万亿韩元，环比增长2%、同比增长3%；营业利润为-0.01万亿韩元。VD由于成本增加导致环比盈利下降，但受体育赛事需求捕捉推动，收入和盈利同比增长。DA受空调需求推动收入增长，但成本压力拖累盈利。下半年，VD将依托“Vision AI”引领AI TV市场，并通过TV Plus内容多元化和广告业务扩张提升盈利；DA将扩大AI产品销售并强化渠道多元化和产品竞争力。&lt;/p&gt;
+&lt;p&gt;Harman（收购的高端音频与车载解决方案品牌）录得营收4.6万亿韩元，同比增长19%；营业利润回升至0.4万亿韩元。车载中央计算单元、便携式音频产品的旺销推动了整体表现的改善，公司后续将重点围绕高增长车载细分市场与品牌效应驱动的音频业务保持稳健增长。&lt;/p&gt;
+
+资产负债表与现金流：财务实力大幅增厚
+
+&lt;p&gt;三星电子的财务状况随业绩的爆发显著改善。截至2026年6月末，总资产达759.5万亿韩元，较三个月前增长逾12万亿韩元；现金及等价物达到190万亿韩元，净现金头寸高达167.6万亿韩元，较去年同期的86.7万亿韩元近乎翻倍。&lt;/p&gt;
+&lt;p&gt;本季度经营活动现金流高达105.1万亿韩元，同样是历史最高水平，净利润对现金流的贡献已超过折旧摊销。ROE从一年前的5%跃升至56%，EBITDA利润率达到59%。&lt;/p&gt;
+&lt;p&gt;投资方面，本季度资本支出为14.1万亿韩元，三星同时斥资5.6万亿韩元回购库存股、6.2万亿韩元派发股息，显示出在强劲盈利支撑下对股东回报的持续重视。负债率维持在31%的低位，净债务/股本比为-29%，财务结构稳健。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什“只有嘴硬”？美债不买账</title><link>https://wallstreetcn.com/articles/3778273</link><guid>a63bf4ed47055478b0c79a0d5eb923bccb5edcc858ab04802b8b544e406da4c8</guid><pubDate>Thu, 30 Jul 2026 00:06:01 GMT</pubDate><description>&lt;p&gt;美联储7月29日宣布连续第七个月维持利率不变，基准利率继续停留在3.5%至3.75%区间。消息公布后，30年期美债收益率单日飙升最多14个基点，触及5.23%，为2007年以来最高水平。与此同时，市场通胀预期指标上升，美元走软，股市下跌。&lt;/p&gt;
 &lt;p&gt;市场的逻辑很直接：沃什嘴上说要打压通胀，但迟迟不动手，市场开始怀疑他是否真的会出手。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 曲线陡峭化，市场在“投票”
@@ -1133,7 +1094,137 @@ AI资本开支继续飙升，现金流压力是最大风险
 &lt;p&gt;美联储主席沃什新闻发布会期间美元指数持续扩大跌幅。彭博美元指数跌0.34%，报1217.55点，日内交投区间为1222.93-1215.52点，也在沃什新闻发布会结束后迅速刷新日低。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;欧元兑美元涨超0.6%，在美联储主席沃什新闻发布会结束后刷新日高至1.1467，英镑兑美元涨0.51%，美元兑瑞郎跌0.54%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）</title><link>https://wallstreetcn.com/articles/3778258</link><guid>d8d63798bf15a9a05295062ce35a99c2d821dfd27d598a45fc932423644373c9</guid><pubDate>Wed, 29 Jul 2026 20:31:43 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高</title><link>https://wallstreetcn.com/articles/3778176</link><guid>34e1316fd5dcf1d3de106702150f31a1772261a93479ebf807e08c49b48e5976</guid><pubDate>Wed, 29 Jul 2026 23:03:08 GMT</pubDate><description>&lt;p&gt;市场遭遇伊朗战火重燃、美联储鹰派按兵不动与AI信仰遭质疑的三重冲击。&lt;/p&gt;
+&lt;p&gt;布伦特暴涨8%重返90美元。30年期美债收益率飙升创2007年6月以来最高，道指创15个月最大单日点数跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+伊朗夜袭停火破裂，油价单日暴涨7%
+&lt;p&gt;伊朗停火破裂成为周三全球市场最大的冲击变量。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778237"&gt;华尔街见闻提及&lt;/a&gt;，伊斯兰革命卫队从本土向驻约旦美军基地发射多枚弹道导弹，美军中央司令部确认全部被拦截。特朗普誓言将&amp;quot;狠狠打击&amp;quot;伊朗作为报复，美沙联军随后对伊拉克境内亲伊武装展开&amp;quot;精确打击&amp;quot;。&lt;/p&gt;
+&lt;p&gt;油市反应剧烈。WTI原油期货9月合约飙升6.56%收于每桶84.46美元，盘中一度突破85美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;布伦特原油9月合约暴涨7.91%收于每桶90.74美元，重返90美元上方。伊朗同时拒绝了阿曼提出的霍尔木兹海峡共同管理方案，伊朗副外长Gharibabadi在国家电视台明确表示进港航道须完全由伊朗控制。&lt;/p&gt;
+&lt;p&gt;Tickmill策略师Patrick Munnelly指出，市场定价的不是突如其来的新石油冲击，而是此前任何即期外交缓和溢价的完全消退。德意志银行高级国际经济师Peter Sidorov警告，中东冲突正加大重回&amp;quot;全面战争&amp;quot;的风险。&lt;/p&gt;
+&lt;p&gt;基本面也在同步收紧。EIA数据显示截至7月24日当周美国原油库存骤降716.7万桶至4.045亿桶，为2018年以来最低水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kpler大宗商品研究主管Matt Smith指出，库欣库存继续下滑逼近临界低位，极大的裂解价差刺激炼厂全力运转。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+美联储鹰式按兵不动，30年美债飙至5.21%创2007年最高
+&lt;p&gt;美联储维持利率不变的决定本身符合预期，但三票反对的裂痕程度远超市场预估。&lt;/p&gt;
+&lt;p&gt;克利夫兰联储Hammack、明尼阿波利斯联储Kashkari和达拉斯联储Logan正式投出反对票，均主张加息25基点。这是2022年以来FOMC最大的一次反对票数量，也是沃什时代内部鹰派力量的最强信号。&lt;/p&gt;
+&lt;p&gt;沃什在发布会上反复强调美联储&amp;quot;不会犹豫行动&amp;quot;以遏制通胀，称&amp;quot;我们面前有一些重要决定要做&amp;quot;。但更令债券市场不安的是他的&amp;quot;不给前瞻指引&amp;quot;立场，市场必须自行从数据中判断利率路径。&lt;/p&gt;
+&lt;p&gt;美债市场出现剧烈曲线陡峭化。受油价暴涨推升通胀预期，30年期美债收益率飙升10个基点至5.21%，创2007年6月以来最高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;短端2年期收益率在美联储维持利率不变后下行5个基点至约4.27%，2s30s利差急速走阔。10年期美债收益率上涨约3.67bp至4.641%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;债券义勇军全面回归，用长端抛售逼问沃什&amp;quot;你还在等什么&amp;quot;。&lt;/p&gt;
+芯片股屠戮加速AI信仰崩塌
+&lt;p&gt;周三全球市场陷入伊朗战火重燃、美联储鹰派分裂与AI信仰崩塌的三重冲击。&lt;/p&gt;
+&lt;p&gt;美股三大指数全线下挫，道指重挫1153.18点或2.19%报51594.14，标普500跌1.52%报7316.16，纳指跌1.74%报24442.94，连续第六个交易日收跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;标普500成分股中约300只收跌仅176只上涨，广度从周二的历史极值逆转为全面负值。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;高盛交易部门记录到2022年11月以来最大规模的三日累计去敞口，科技板块空头卖出为2016年以来最大。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美股芯片板块同步遭受重创。AMD跌5.51%、英特尔跌5.12%，费城半导体指数续创近期新低。而成长软件板块则连续第四个交易日上涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;随着信贷市场趋于稳定，超大规模数据中心的价格略有反弹。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大型股今日表现优异，在财报发布前夕，受沃什评论的影响大幅上涨，但未能守住涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;今日人工智能领军企业表现不一，标普500指数（剔除人工智能板块）基本持平，半导体和数据中心板块表现疲软，而基础设施和平台板块则有所上涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，高盛指出，整体动量交易的下滑幅度已接近历史极限。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+大类资产联动，黄金反弹美元承压
+&lt;p&gt;美元指数在美联储决议公布后急跌，收于约101.17，跌0.25%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美元走弱推动现货黄金反弹，收于约4066美元/盎司，从周二低点回升。白银同步走强。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;比特币维持在64000美元上方，美联储按兵不动的短期流动性宽松预期提供了部分支撑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周三美股普跌，道指创15个月最大单日点数跌幅。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;标普500指数收跌112.63点，跌幅1.52%，报7316.15点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纳指收跌433.97点，跌幅1.74%，报24442.942点。纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;罗素2000指数收跌1.61%，报2906.31点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恐慌指数VIX收涨13.29%，报20.63。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;行业ETF普跌，芯片ETF跌超5%，标普工业跌3.22%，银行和美国光伏均跌超2%。油气ETF则涨3.40%，标普能源涨1.85%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（7月29日 美股各行业板块ETF）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;万得美国科技股七巨头（Magnificent 7）指数跌0.8%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;英伟达跌3.55%，特斯拉跌2.97%，亚马逊跌1.82%，Meta跌1.31%，微软跌0.71%，苹果跌0.56%，谷歌A涨0.90%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;芯片股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;费城半导体指数收跌588.194点，跌幅5.33%，报10447.489点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;台积电ADR跌4.48%，AMD跌5.51%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;纳斯达克金龙中国指数收涨1.73%，报6434.96点，连续两个交易日收于50日均线上方，逼近100日均线，最近三个交易日累计反弹5.41%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;热门中概股里，新东方收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Circle跌4.68%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;意大利银行板块收跌将近1.3%，英国股指涨超0.3%。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;泛欧欧股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数收跌0.29%，报645.01点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区STOXX 50指数收跌0.65%，报6248.84点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;德国DAX 30指数收跌0.01%，报25460.48点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;法国CAC 40指数收跌0.60%，报8408.27点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;英国富时100指数收涨0.34%，报10908.41点。&lt;/p&gt;
+&lt;p&gt;（7月29日 欧美主要股指表现）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）</title><link>https://wallstreetcn.com/articles/3778258</link><guid>d8d63798bf15a9a05295062ce35a99c2d821dfd27d598a45fc932423644373c9</guid><pubDate>Wed, 29 Jul 2026 20:31:43 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美联储主席沃什将市场利率上行视为金融条件已在收紧的信号，&lt;strong&gt;同时重申2%通胀目标“没有任何弹性空间”，并宣布实质性退出前瞻指引，呼吁华尔街脱离对央行表态的依赖，“去捕捉真实的经济信号”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美联储以9比3的投票结果将基准利率维持在3.5%-3.75%不变。在FOMC会议后的新闻发布会上，美联储主席沃什表示，美国经济在近期冲击下仍显示出韧性，增长趋势向好，就业增长与劳动力增长大体同步，失业率变化不大；但通胀相对于2%的政策目标“仍然偏高”。&lt;/p&gt;
 &lt;p&gt;在市场最为关心的利率路径问题上，沃什没有释放明确的前瞻指引。他强调，&lt;strong&gt;美联储正有意减少对市场的预设和干预，希望从债券、汇率等价格中获取更“直接、未经滤”的信息。&lt;/strong&gt;&lt;/p&gt;
@@ -1287,55 +1378,7 @@ AI资本开支成关键经济变量：过去四个季度增速接近20%
 &lt;p&gt;沃什：所以，显然我开了新闻发布会就是新闻。让我看看我是否能对此澄清一下。&lt;strong&gt;从现在到年底，我的前任们和美联储承诺了今年的新闻发布会。&lt;/strong&gt;我承诺今年的新闻发布会，这对在座的各位可能是新闻，没什么特别兴趣。&lt;/p&gt;
 &lt;p&gt;对你在家的观众和读者，我能提供的保证是，美联储在关注此事，这位美联储主席对理事会和委员会实现目标的能力比我来上任第一天时感觉更好。而我来的时候已经相当自信了。我对所受到的欢迎感到鼓舞。毫无疑问，在你们今天的一些评论中，你们会谈到一个分裂的美联储。嗯，那不是我过去几天和前几天感受到的。&lt;/p&gt;
 &lt;p&gt;我感受到的是一群专业人士，各有不同的视角、观点和判断，但渴望卷起袖子进行家庭争论，渴望改革美联储制定政策的方式，对此充满热情、开放心态和好奇心。所以我们有……更好的机会来实现国会赋予我们的使命。所以我想给你们留下一位新央行行长的乐观态度，我们一如既往地致力于实现目标，并给予你们保证，我们会做到。非常感谢各位。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高通Q3财季净利润同比下滑25%，上调产品售价并给出疲软业绩指引｜财报见闻</title><link>https://wallstreetcn.com/articles/3778262</link><guid>b01fda8f3c3cb729d9e765b8511008cf7b536ef8b9968fefdef3ca0c6e383b56</guid><pubDate>Wed, 29 Jul 2026 23:00:54 GMT</pubDate><description>&lt;p&gt;高通公司发布财季业绩，受内存价格大幅攀升冲击，手机芯片业务承压明显，净利润同比下滑25%。&lt;/p&gt;
-&lt;p&gt;当地时间7月29日美股盘后，高通发布第三财季报告，&lt;strong&gt;营收同比下降4%至99.5亿美元，略超华尔街预期，但当季净利润降至20亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在当前第四财季的业绩展望上，公司预计调整后每股收益在2.05至2.25美元之间，收入指引区间为97亿至105亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;即便取上限，调整后每股收益仍低于分析师此前预期的2.36至2.38美元，令投资者失望。消息公布后，高通股价盘后跌幅约4%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;公司随即正式宣布将于9月1日起全线上调产品售价，以转嫁持续上涨的供应链成本。高通首席执行官Cristiano Amon直言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;成本上去了，价格就得跟着涨。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他表示，此轮提价是应对高企供应成本的短期举措，预计将随时间推移逐步提升公司毛利率。&lt;/p&gt;
-
-内存短缺冲击手机业务，核心营收锐减
-
-&lt;p&gt;高通业绩承压的核心导火索是全球内存芯片价格的大幅上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据报道，本季度内存芯片成本同比上涨约300%，这一涨幅显著推高了智能手机的整机制造成本，压制了终端消费需求。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当季手机芯片营收同比下滑20%至51亿美元。&lt;/strong&gt;Amon表示，受内存价格上涨影响，中低端智能手机的价格竞争力明显下降，同时就连高通占主导地位的高端安卓手机市场，&lt;strong&gt;消费者也开始转向价位较低的旗舰机型或购买上一代产品。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Amon说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;消费者在高端品类内部的偏好正在发生变化，越来越倾向于高端中的低价段，或者干脆选择去年的旧款机型，这背后正是内存价格上涨的驱动。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在行业层面，据国际数据公司数据，今年第二季度全球智能手机出货量同比下滑6.7%，连续第二个季度录得下降，仅苹果和三星实现逆势增长。&lt;/p&gt;
-&lt;p&gt;半导体行业整体也深陷成本上涨困境，高通在财报中指出，晶圆制造、封装测试、先进封装、内存及其他材料等环节均出现广泛性的投入成本上升。&lt;/p&gt;
-
-提价措辞强硬，毛利率修复寄望下半年
-
-&lt;p&gt;面对成本压力，高通选择主动出击。&lt;/p&gt;
-&lt;p&gt;公司宣布，将于9月1日起对旗下芯片产品全线提价，涉及目前主要面向智能手机厂商销售的各类产品线。Amon将此定性为&amp;quot;临时性的短期措施&amp;quot;，并强调公司正通过多种方式优化供应链。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3777900"&gt;华尔街见闻此前提及&lt;/a&gt;，高通此次价格上调幅度达两位数百分比。高通在财报声明中表示，此举旨在&amp;quot;将更高的成本反映至产品定价&amp;quot;，预计将推动毛利率随时间提升。&lt;/p&gt;
-&lt;p&gt;值得注意的是，高通还警告称，苹果正在加速将iPhone中的调制解调器芯片切换至自研方案，这一进程快于此前预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高通预计，搭载安卓系统的手机收入在2026财年将同比下滑约20%，折合每股盈利损失超过1.50美元，对公司长期利润构成实质性拖累。&lt;/strong&gt;&lt;/p&gt;
-
-汽车与物联网业务成增长支柱
-
-&lt;p&gt;在手机业务疲软的背景下，高通的多元化布局为业绩提供了重要支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;汽车芯片业务本季度营收达15.9亿美元，成为亮点之一。&lt;/strong&gt;公司于今年6月提出2029财年实现汽车业务100亿美元营收的目标，并在周三宣布与宝马（BMW）签署数字座舱芯片供应协议。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;面向工业低功耗应用及智能眼镜等设备的物联网（IoT）业务营收同比增长9%至18.3亿美元。&lt;/strong&gt;此外，高通的知识产权授权部门QTL当季营收为12.8亿美元，略超市场预期的12.6亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Amon表示，高通非智能手机业务收入，涵盖汽车、数据中心及物联网预计将于2029财年增至400亿美元，并计划在2027财年使非手机业务占总营收的比例提升至60%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-押注数据中心，AI基础设施竞争加剧
-
-&lt;p&gt;高通正积极向AI数据中心基础设施市场拓展，以降低对智能手机业务的依赖。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Amon重申，公司明年数据中心业务营收仍有望达到50亿美元的目标。今年6月，高通宣布Meta成为其AI数据中心处理器的首个科技超大规模客户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周三，高通还宣布完成对AI编程技术软件公司Modular的收购，并表示将于今年8月的一场行业会议上正式发布AI软件平台。&lt;/p&gt;
-&lt;p&gt;然而，高通的AI转型之路并非坦途。英伟达从约4000亿美元市值的公司跃升至如今逾4.6万亿美元的市场巨头，这一市场空间吸引了包括高通、Arm在内的众多芯片企业竞相布局。&lt;/p&gt;
-&lt;p&gt;与此同时，AI基础设施的高额投入也正在加剧整个电子产品供应链的紧张局面，并反过来推高了消费端成本，令高通这样的智能手机芯片供应商陷入两难。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根资管：美联储三票异议是真正的政策信号</title><link>https://wallstreetcn.com/articles/3778261</link><guid>9dde41eb75c5d8666e3e3ecc81f4003a5dd86edd289a6f3e17230618759dc22a</guid><pubDate>Wed, 29 Jul 2026 20:10:20 GMT</pubDate><description>&lt;p&gt;美联储维持利率不变，但内部分歧或预示政策转向压力。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根资管：美联储三票异议是真正的政策信号</title><link>https://wallstreetcn.com/articles/3778261</link><guid>9dde41eb75c5d8666e3e3ecc81f4003a5dd86edd289a6f3e17230618759dc22a</guid><pubDate>Wed, 29 Jul 2026 20:10:20 GMT</pubDate><description>&lt;p&gt;美联储维持利率不变，但内部分歧或预示政策转向压力。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778256"&gt;华尔街见闻提及&lt;/a&gt;，美东时间7月29日周三，美联储以9比3的表决结果决定维持利率不变，令少数押注意外加息的交易员希望落空。&lt;/p&gt;
 &lt;p&gt;然而，摩根资产管理首席投资官兼固定收益全球主管Bob Michele指出，&lt;strong&gt;三名委员的反对票是一个关键信号，意味着利率上行压力可能将持续存在。&lt;/strong&gt;他说：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1356,10 +1399,4 @@ AI资本开支成关键经济变量：过去四个季度增速接近20%
 &lt;/blockquote&gt;
 &lt;p&gt;Bianco还指出，解读美联储当前立场面临额外的复杂性。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;由于美联储主席沃什拒绝提供前瞻指引，议息会议后的记者会更多反映的是主席本人的观点，而非整个委员会的集体立场，这在一定程度上削弱了记者会作为政策信号来源的参考价值。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，对于试图研判美联储政策走向的投资者而言，委员会内部的投票分布或比官方声明及新闻发布会提供更为直接、可靠的线索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 距离美联储宣布决议声明不到60分钟，特朗普顾问：相信沃什会做正确的事</title><link>https://wallstreetcn.com/articles/3778252</link><guid>d1699b1a656fe0b8dc7f49ea3764b85341535e6b59e05a1cc652c8123209781e</guid><pubDate>Wed, 29 Jul 2026 17:30:36 GMT</pubDate><description>&lt;p&gt;美联储议息会议即将召开，隔夜利率互换显示，美联储此次加息25个基点的概率约为38%，其余概率则押注维持利率不变。自2008年以来，美联储从未在市场隐含加息概率低于60%的情况下实施加息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;白宫顾问哈塞特表示，预计美联储主席沃什将做正确的事，我们相信沃什的判断，我们对沃什的信心是极高的。没理由认为美国债务将被降级，长期预算在正确的方向上发展，我们预计通胀将面临下行压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次美联储议息会议之所以充满不确定性，很大程度上源于沃什承诺放弃美联储长期以来提前释放政策信号的做法。尽管他多次强调将恢复价格稳定，但对于具体如何实现这一目标，他始终没有透露太多线索。&lt;/p&gt;
-&lt;p&gt;彭博调查的100多位经济学家中，仅有两人预计美联储将在7月会议上加息，其余均预计将联邦基金利率目标区间维持在3.5%至3.75%不变。&lt;/p&gt;
-&lt;p&gt;美国银行同样预计此次会议将按兵不动，但预测将有两位地区联储主席——Lorie Logan和Beth Hammack——投下反对票，主张加息。&lt;/p&gt;
-&lt;p&gt;不过，包括城堡证券在内的少数投资机构认为，&lt;a href="https://wallstreetcn.com/articles/3778073?keyword=%E5%9F%8E%E5%A0%A1%E8%AF%81%E5%88%B8"&gt;市场低估了美联储立即采取行动的可能性。&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;他们认为，若沃什选择意外加息，不仅能够强化其遏制通胀的决心，也能向市场证明，美联储未来不再依赖前瞻性指引提前向投资者“打招呼”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这意味着，对于试图研判美联储政策走向的投资者而言，委员会内部的投票分布或比官方声明及新闻发布会提供更为直接、可靠的线索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
