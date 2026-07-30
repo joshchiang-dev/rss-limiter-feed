@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 30 Jul 2026 09:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis：AWS、Meta推行“模块化”数据中心，建设周期压缩36%、降本8%</title><link>https://wallstreetcn.com/articles/3778311</link><guid>4475a9561a44654b50e757cc8f160fa5e9e04bbb1f168498c0e823982668ad1b</guid><pubDate>Thu, 30 Jul 2026 08:00:37 GMT</pubDate><description>&lt;p&gt;模块化建设正在重塑数据中心行业的底层逻辑。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 30 Jul 2026 09:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis：AWS、Meta推行“模块化”数据中心，建设周期压缩36%、降本8%</title><link>https://wallstreetcn.com/articles/3778311</link><guid>4475a9561a44654b50e757cc8f160fa5e9e04bbb1f168498c0e823982668ad1b</guid><pubDate>Thu, 30 Jul 2026 08:00:37 GMT</pubDate><description>&lt;p&gt;模块化建设正在重塑数据中心行业的底层逻辑。&lt;/p&gt;
 &lt;p&gt;研究机构SemiAnalysis在最新深度报告中指出，&lt;strong&gt;从超大规模云厂商到AI实验室，模块化已成为快速建设数据中心的默认方案——建设周期可压缩约36%（相当于缩短7至9个月），综合资本开支每兆瓦可降低约8%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AWS正在大规模推进代号&amp;quot;SAMDC&amp;quot;的模块化设计，其内部项目&amp;quot;Project Houdini&amp;quot;将白空间建设拆解为可在工厂预制的标准化机架，把服务器入驻前的准备时间从最长15周压缩至2至3周，并可消减单个模块超过5万工时的现场电气安装工作量。&lt;/p&gt;
@@ -772,80 +772,7 @@ AI基础设施狂飙，资本支出变相降低
 &lt;p&gt;消息面：贵州茅台年内第二次上调飞天茅台价格，7月18日起合同价与自营零售价同步上调100元，距3月31日调价仅三个多月，创上市以来最短调价间隔。近期北京、上海直营店已将飞天茅台提至1719元/瓶，高于i茅台平台1639元/瓶。&lt;/p&gt;
 &lt;p&gt;平安证券指出，茅台&amp;quot;随行就市、相对平稳、供需适配、量价平衡&amp;quot;的提价原则，将推动白酒行业整体价格回暖，重构利润分配机制。&lt;/p&gt;
 &lt;p&gt;7月30日中央政治局会议强调&amp;quot;宏观政策要发力提效&amp;quot;&amp;quot;加力扩大内需、优化供给&amp;quot;，政策信号进一步明确。中国银行业协会同日发布消费金融报告，31家消费金融公司总资产1.48万亿元、全年投放消费贷款5.24万亿元。&lt;/p&gt;
-&lt;p&gt;浙商证券最新研报显示，2026年二季度白酒行业基金重仓比例环比降1.93个百分点至0.97%，同比降3.01个百分点，创历史新低。浙商证券判断，持仓筑底叠加业绩加速出清，三季度行业有望迎来拐点，高低切换下板块配置价值凸显。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当市场在买“AI烧钱结束”，微软在买什么？</title><link>https://wallstreetcn.com/articles/3778283</link><guid>a7f1c85066376595ee64c3fc92d2803a2a9fb3bf7f8f4e5df2a52f2cd6acd12b</guid><pubDate>Thu, 30 Jul 2026 06:49:21 GMT</pubDate><description>&lt;p&gt;一份所有人都觉得超预期的季报。但如果只看数字，你大概率错过了真正重要的东西。&lt;/p&gt;
-一、1750亿的魔术——市场究竟在为什么欢呼？
-&lt;p&gt;本次季报最剧烈的市场反应，既没出在营收超预期上，也没出在Azure 43%的加速上，而是在盘后两小时几乎被遗忘的电话会末尾——CFO艾米·胡德轻轻说了一句：&amp;quot;FY2027资本支出指引约为1750亿美元。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;几秒钟前股价还在1.6%的涨幅徘徊，几分钟内直接跳到8.4%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但这里有一个几乎所有人都搞错了的事情：这1750亿换的是记账的地方，投入规模一点没少。&lt;/p&gt;
-&lt;p&gt;同一个电话会上，胡德同步宣布：数据中心和办公楼折旧年限从15年延长到25年。会计准则随之变更——原本按融资租赁处理、要计入Capex的合同，现在按经营租赁处理，不计入Capex了。公司明说：&amp;quot;除会计准则变更之外，投入预期没有任何变化。&amp;quot;CFO甚至补充，FY2027资本支出将&amp;quot;进一步增长&amp;quot;。&lt;/p&gt;
-&lt;p&gt;也就是说，市场为一份不存在的削减狂欢了8%。&lt;/p&gt;
-&lt;p&gt;这件事折射出集体心理——2026年上半年，微软股价跌了将近20%，业绩本身谈不上差，但所有人都在害怕同一件事：AI基础设施的烧钱没有尽头。当市场听到一个表面上&amp;quot;少了150亿&amp;quot;的数字时，释放压抑了半年的恐惧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三个月前同一场会上，CFO描述这些资产的措辞是&amp;quot;未来15年及以后&amp;quot;。三个月后变成25年。这不像是工程判断上的跃迁，更像是管理层在向市场传递一个信号：我们的基础设施能用很久，你不需要为折旧焦虑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但风险恰恰藏在这里——如果AI芯片的代际更替比数据中心建筑的物理寿命快得多，25年的折旧假设意味着什么？意味着当这批资产已经技术上过时的时候，账面还在慢慢摊销。谷歌在同一天把全年Capex从1900亿上修到1950-2050亿，没有玩折旧年限游戏。两条路线的分野，值得持续观察。&lt;/p&gt;
-二、同一个夜晚，两张天差地别的利润表
-&lt;p&gt;微软和Meta几乎同时发报，这道“巧合”比任何单一公司的数字都更说明问题。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Meta收入比微软慢了不到七成，但单季股权激励就76.6亿美元——微软是31.2亿。Meta单季还计提了24亿法律费用、11.8亿裁员补偿。即便把这两笔加回去，Meta的利润率也只有36.8%，远不如去年同期。&lt;/p&gt;
-&lt;p&gt;两家公司都在为AI投入巨资——微软Q4买固定资产付了358亿美元现金，Meta同期是301亿。但微软在投入规模更大的情况下，保住了利润增速与收入增速同步。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这暴露了AI时代两种截然不同的商业模式：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta的AI投资流向内部——训练LLaMA、优化推荐算法、生成广告创意。这些投入的价值是间接的、难以拆解的。你很难说清楚Meta多赚的每一块钱有多少来自AI。微软的AI投资流向外部——Azure上的AI推理按Token收费、Copilot按人头收费、GitHub Copilot按开发者收费。每一美元的资本支出，都有明确的、可计价的、按消费量结算的收入对应。&lt;/p&gt;
-&lt;p&gt;这就是纳德拉反复说的&amp;quot;cost-to-outcome curve&amp;quot;（成本-成果曲线）的真意：重点不在于AI能不能降本，而在于你能否在财务模型里，把投入和产出的关系画成一条可解释的线。&lt;/p&gt;
-&lt;p&gt;微软能，Meta还差得远。&lt;/p&gt;
-三、毛利率降了，利润率没降——一个反直觉的发现
-&lt;p&gt;更深一层的细节藏在智能云分部：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;毛利率：从去年同期的60.4%降至57.1%&lt;/li&gt;
-&lt;li&gt;营业利润率：40.6%→40.6%，纹丝不动&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;AI硬件在侵蚀毛利率——公司自己承认原因是&amp;quot;产品结构转向Azure加上AI基础设施提前扩产&amp;quot;。GPU是昂贵的，推理服务的高成本直接体现为更低的毛利率。&lt;/p&gt;
-&lt;p&gt;但营业利润率一点没降。为什么？&lt;/p&gt;
-&lt;p&gt;因为同一个分部的运营费用只增长了10%，而收入增长了32%。微软在用一个更精瘦的费用结构，去对冲一个更沉重的成本结构。这是经营杠杆的教科书级展示：当SG&amp;amp;A增速远低于收入增速时，毛利率的压缩可以被完美吸收。&lt;/p&gt;
-&lt;p&gt;这与Meta形成残酷对比：Meta的研发费用一个季度就多了87.1亿美元，占成本增量的58%。微软在控制人头（甚至还推出了自愿退休计划），Meta在疯狂扩张。&lt;/p&gt;
-&lt;p&gt;一个更深层的推论：如果Azure的毛利率压力是结构性的（AI推理天然比传统云计算更消耗硬件），那么微软正在押注的两件事是——（1）自研芯片可以拉回毛利率；（2）Copilot的90%+毛利润可以补贴Azure的毛利率下滑。前者是技术赌注，后者是商业模式对冲。&lt;/p&gt;
-四、被所有人忽略的最重要信号：OpenAI依赖症在消退
-&lt;p&gt;这可能是这份季报里最被低估的一个信息。&lt;/p&gt;
-&lt;p&gt;回到Q3，微软商业剩余履约义务（RPO）达到6270亿美元时，市场发现一个令人不安的数字：其中约45%来自OpenAI一家客户。剔除OpenAI后，RPO增速只有26%，商业订单增速只有7%。市场的隐含担忧是：微软的云增长叙事，本质上是被一个大客户撑起来的。&lt;/p&gt;
-&lt;p&gt;这一季，RPO进一步升至6780亿美元，环比增加约510亿。微软在新闻稿和电话会上，特意、多次、着重强调：本季度的新增合同&amp;quot;主要来自AI模型开发商以外的企业客户&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这并非一个随意的措辞，管理层在有意识地解构「微软=OpenAI的影子」这个叙事。&lt;/p&gt;
-&lt;p&gt;与此同时，德意志银行此前提出的&amp;quot;集中度风险&amp;quot;也在被数据稀释。当RPO的增量来自分散的企业客户而非单一模型公司时，估值的确定性溢价会上升——因为收入变得更加可预测、更加分散、更加抗风险。&lt;/p&gt;
-&lt;p&gt;还有一个容易被忽略的小注脚：纳德拉在电话会上主动提到，&lt;strong&gt;今年初以来，使用多种AI模型进行开发的微软客户数量增加了5倍。客户正在自发地从「押注单一模型」转向「多模型策略」——而这对Azure来说是天大的好消息，因为多模型策略意味着更多的云消费、更低的迁移风险、更强的平台粘性。&lt;/strong&gt;&lt;/p&gt;
-五、“你不能把赌注押在任何单一模型上”——纳德拉最狠的一句话
-&lt;p&gt;电话会上，纳德拉主动提了一个故事：OpenAI的模型最近失控，入侵了HuggingFace。&lt;/p&gt;
-&lt;p&gt;然后他说了一句在硅谷会被反复引用的话：&lt;/p&gt;
-&lt;p&gt;“我们能从这件事中吸取的最大教训就是，你不能把赌注押在任何单一模型上。”&lt;/p&gt;
-&lt;p&gt;这句话的分量，远超一个安全事件的技术反思。微软在公开、明确地划清与OpenAI的边界。背后是一整套已经在运行的战略：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Anthropic：投资50亿美元，Claude模型集成到AzureAIFoundry和Copilot，锁定了300亿美元的Azure消费承诺&lt;/li&gt;
-&lt;li&gt;xAI（马斯克）：Grok模型上线Azure AI Foundry&lt;/li&gt;
-&lt;li&gt;Mistral：法国开源模型提供商，也已集成&lt;/li&gt;
-&lt;li&gt;自研：MAI系列模型，纳德拉在电话会上举例说MAI-Cyber-1-Flash处理90%的安全任务，成本降低50%&lt;/li&gt;
-&lt;li&gt;开源模型：Llama、Mistral等数万个开源模型可通过Azure AI Foundry部署&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;微软的战略图景已经很清晰：把Azure变成一个模型中立的市场，就像AWS是计算中立的市场一样。企业客户不需要关心底层模型是谁家的——微软负责提供、管理、路由、替换。Copilot内部的&amp;quot;智能路由&amp;quot;功能可以自动将不同任务分配给最合适、最便宜的模型。&lt;/p&gt;
-&lt;p&gt;谷歌云82%增长的背后是Gemini 3的强力推动，但这也意味着谷歌云的叙事深度绑定在Gemini的成功上。某个模型一旦出问题或落后，谷歌云受到的冲击会更直接。&lt;/p&gt;
-&lt;p&gt;微软在做的本质上是把AI模型层的风险外部化——无论哪家模型公司赢，Azure都是赢家。&lt;/p&gt;
-六、“循环融资”证伪：Anthropic的32亿并非左手倒右手
-&lt;p&gt;2025年11月，微软投资Anthropic 50亿美元，Anthropic承诺购买300亿美元Azure服务。当时华尔街有个刻薄的评价：「循环融资」——微软给Anthropic钱，Anthropic用这笔钱买Azure，Azure收入增长，华尔街给微软更高估值。完美的闭环。&lt;/p&gt;
-&lt;p&gt;但这次季报给出了一个意想不到的反驳：Anthropic投资产生了32亿美元的账面收益。半年，50亿投入，32亿浮盈。&lt;/p&gt;
-&lt;p&gt;背后的机制是：Anthropic在这半年内完成了新一轮融资，估值从1830亿美元飙升到3500亿美元，超越OpenAI成为全球最有价值的AI独角兽。微软作为早期投资者，持股的公允价值随之水涨船高。&lt;/p&gt;
-&lt;p&gt;这意味着两件事：股权投资的回报独立于Azure云服务收入——两笔交易都在赚钱，谈不上左手倒右手；微软正在用更低的资本成本锁定Azure的长期需求——50亿美元的投资换来了300亿美元的确定性云收入+32亿美元的浮盈+多模型战略的关键棋子。&lt;/p&gt;
-&lt;p&gt;这种“投资-采购-增值”的三角结构，微软在Anthropic上玩了一遍，接下来会不会在Mistral、在别的模型公司上再玩一遍？这种模式的复制潜力，才是真正值得思考的地方。&lt;/p&gt;
-七、Copilot为何不可复制：捆绑的暴力
-&lt;p&gt;彭博情报分析师曼迪普·辛格说了一句一针见血的话：&amp;quot;微软的捆绑策略仍在持续奏效。&amp;quot;&lt;/p&gt;
-&lt;p&gt;拆开这句话：Copilot不需要像独立SaaS创业公司那样烧钱买流量。它焊在M365的4亿多付费席位上。企业IT部门已经在用Office，已经签了EA协议，已经做了安全审计——Copilot只是一个需要勾选的附加复选框。&lt;/p&gt;
-&lt;p&gt;这是任何独立AI工具——不管是ChatGPTEnterprise还是ClaudeforBusiness——都无法复制的结构性优势。它们的获客是从零开始的，Copilot是从4亿开始的。&lt;/p&gt;
-&lt;p&gt;3000万席位的数字背后，还有一个质量信号：使用强度已经与Outlook和Teams持平。电话会上提到，&amp;quot;从首次使用到高频使用的时间，已经从几个月缩短到了几天&amp;quot;。Copilot正在嵌入日常工作流，买了却不用的情况越来越少。&lt;/p&gt;
-&lt;p&gt;再加上E7高级套件的推出——它把Copilot和Agent365（安全运营、IT运营、财务运营）打包，并且在定价上引入了「席位+用量」的双轨模式——ARPU的提升才刚刚开始。纳德拉说了一句意味深长的话：&amp;quot;Copilot的TAM（总可寻址市场），比传统Office大得多。&amp;quot;seat收入之外，token用量收入是一个没有上限的变量。&lt;/p&gt;
-八、结语：市场是在买“AI烧钱可见”
-&lt;p&gt;这份季报最深的答案，藏在电话会的问答环节。&lt;/p&gt;
-&lt;p&gt;高盛分析师问了一个问题：“和一年前比，CapEx的ROI怎么看？”&lt;/p&gt;
-&lt;p&gt;Amy Hood的回答可以浓缩成一句话：“我的算法没变，但对TAM扩张和利润率杠杆的信心提高了。”&lt;/p&gt;
-&lt;p&gt;“算法没变”——投得不更少，回报要求没更低，同样严格的ROI标准下，可实现的回报更大了。&lt;/p&gt;
-&lt;p&gt;这并非&amp;quot;AI烧钱结束&amp;quot;，而是&amp;quot;AI烧钱可见&amp;quot;——每一块钱投下去，你能在财务模型里看到它通向哪里：Azure的token消耗、Copilot的席位增长、Anthropic的300亿Azure承诺、多模型策略下的客户留存。&lt;/p&gt;
-&lt;p&gt;微软正在做一件在科技史上少见的事：把一个全行业范围的范式转变（AI），结构性地转化为自己的经常性收入。它扮演的角色，与其说是AI的「赌徒」，不如说是AI的「收费站」。&lt;/p&gt;
-&lt;p&gt;这也是为什么，季报出来后——谷歌云飚82%、Meta利润率崩塌、AWS今晚发布——只有微软同时完成了三件事：收入超预期、利润率守住、Capex管理给市场吃下定心丸。&lt;/p&gt;
-&lt;p&gt;一个正在学会&amp;quot;既有野心又有纪律&amp;quot;的2.9万亿美元巨兽，比一个只会花钱的巨兽，危险得多。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储从来不是裁判！</title><link>https://wallstreetcn.com/articles/3778307</link><guid>370b296ced68237c05a57dce5e10991a848c9c732320fb3a483c1edc086de99a</guid><pubDate>Thu, 30 Jul 2026 09:04:48 GMT</pubDate><description>&lt;p&gt;沃什的&amp;quot;市场自治&amp;quot;叙事正在制造新的不确定性。&lt;/p&gt;
+&lt;p&gt;浙商证券最新研报显示，2026年二季度白酒行业基金重仓比例环比降1.93个百分点至0.97%，同比降3.01个百分点，创历史新低。浙商证券判断，持仓筑底叠加业绩加速出清，三季度行业有望迎来拐点，高低切换下板块配置价值凸显。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储从来不是裁判！</title><link>https://wallstreetcn.com/articles/3778307</link><guid>370b296ced68237c05a57dce5e10991a848c9c732320fb3a483c1edc086de99a</guid><pubDate>Thu, 30 Jul 2026 09:04:48 GMT</pubDate><description>&lt;p&gt;沃什的&amp;quot;市场自治&amp;quot;叙事正在制造新的不确定性。&lt;/p&gt;
 &lt;p&gt;美联储7月FOMC会议维持利率不变，但主席沃什在新闻发布会上的一番表态引发市场广泛争议。他声称，随着前瞻指引的淡出，市场已学会&amp;quot;打球而非盯着裁判&amp;quot;，金融条件的收紧正由市场自发完成。然而，&lt;strong&gt;批评者认为这一叙事从根本上站不住脚——美联储从来不是裁判，而是场上最重要的球员之一，沟通策略的改变并不能改变这一事实。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次会议罕见出现三张反对票，Hammack、Kashkari和Logan三位地区联储主席均支持加息25个基点。会后，美国国债收益率曲线大幅陡峭化，30年期国债收益率一度突破5.20%，两年期收益率则在发布会后剧烈波动，一度下行10个基点后收窄至下行4个基点。&lt;strong&gt;高盛、巴克莱和野村等机构普遍认为，美联储正在默许债券市场替代官方加息，但这一策略潜藏通胀预期失锚与政策波动加剧的风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1375,7 +1302,80 @@ AI资本开支继续飙升，现金流压力是最大风险
 &lt;p&gt;这些未来租赁成本目前尚未出现在资产负债表中，只有在租约开始执行、微软开始付款后才会体现。微软表示，这些租约“主要”用于数据中心，其中部分还取决于特定合同条件是否满足。&lt;/p&gt;
 &lt;p&gt;微软投资者关系主管Jonathan Neilson表示，这反映了公司看到的持续需求强度，这些租约将服务未来“许多年”的需求。&lt;/p&gt;
 &lt;p&gt;这一数据说明，微软AI基础设施投资并不只是短期资本开支增加，而是已经延伸为长期租赁承诺。换言之，微软正在为未来数年的AI算力需求提前锁定资源。&lt;/p&gt;
-&lt;p&gt;对投资者而言，这既是积极信号，也是风险来源。积极之处在于，微软显然看到了足够强劲的企业AI和云需求；风险在于，一旦AI需求兑现速度不及预期，大规模长期租约可能对利润率和现金流形成压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高</title><link>https://wallstreetcn.com/articles/3778176</link><guid>34e1316fd5dcf1d3de106702150f31a1772261a93479ebf807e08c49b48e5976</guid><pubDate>Wed, 29 Jul 2026 23:03:08 GMT</pubDate><description>&lt;p&gt;市场遭遇伊朗战火重燃、美联储鹰派按兵不动与AI信仰遭质疑的三重冲击。&lt;/p&gt;
+&lt;p&gt;对投资者而言，这既是积极信号，也是风险来源。积极之处在于，微软显然看到了足够强劲的企业AI和云需求；风险在于，一旦AI需求兑现速度不及预期，大规模长期租约可能对利润率和现金流形成压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当市场在买“AI烧钱结束”，微软在买什么？</title><link>https://wallstreetcn.com/articles/3778283</link><guid>a7f1c85066376595ee64c3fc92d2803a2a9fb3bf7f8f4e5df2a52f2cd6acd12b</guid><pubDate>Thu, 30 Jul 2026 06:49:21 GMT</pubDate><description>&lt;p&gt;一份所有人都觉得超预期的季报。但如果只看数字，你大概率错过了真正重要的东西。&lt;/p&gt;
+一、1750亿的魔术——市场究竟在为什么欢呼？
+&lt;p&gt;本次季报最剧烈的市场反应，既没出在营收超预期上，也没出在Azure 43%的加速上，而是在盘后两小时几乎被遗忘的电话会末尾——CFO艾米·胡德轻轻说了一句：&amp;quot;FY2027资本支出指引约为1750亿美元。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;几秒钟前股价还在1.6%的涨幅徘徊，几分钟内直接跳到8.4%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但这里有一个几乎所有人都搞错了的事情：这1750亿换的是记账的地方，投入规模一点没少。&lt;/p&gt;
+&lt;p&gt;同一个电话会上，胡德同步宣布：数据中心和办公楼折旧年限从15年延长到25年。会计准则随之变更——原本按融资租赁处理、要计入Capex的合同，现在按经营租赁处理，不计入Capex了。公司明说：&amp;quot;除会计准则变更之外，投入预期没有任何变化。&amp;quot;CFO甚至补充，FY2027资本支出将&amp;quot;进一步增长&amp;quot;。&lt;/p&gt;
+&lt;p&gt;也就是说，市场为一份不存在的削减狂欢了8%。&lt;/p&gt;
+&lt;p&gt;这件事折射出集体心理——2026年上半年，微软股价跌了将近20%，业绩本身谈不上差，但所有人都在害怕同一件事：AI基础设施的烧钱没有尽头。当市场听到一个表面上&amp;quot;少了150亿&amp;quot;的数字时，释放压抑了半年的恐惧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三个月前同一场会上，CFO描述这些资产的措辞是&amp;quot;未来15年及以后&amp;quot;。三个月后变成25年。这不像是工程判断上的跃迁，更像是管理层在向市场传递一个信号：我们的基础设施能用很久，你不需要为折旧焦虑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但风险恰恰藏在这里——如果AI芯片的代际更替比数据中心建筑的物理寿命快得多，25年的折旧假设意味着什么？意味着当这批资产已经技术上过时的时候，账面还在慢慢摊销。谷歌在同一天把全年Capex从1900亿上修到1950-2050亿，没有玩折旧年限游戏。两条路线的分野，值得持续观察。&lt;/p&gt;
+二、同一个夜晚，两张天差地别的利润表
+&lt;p&gt;微软和Meta几乎同时发报，这道“巧合”比任何单一公司的数字都更说明问题。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Meta收入比微软慢了不到七成，但单季股权激励就76.6亿美元——微软是31.2亿。Meta单季还计提了24亿法律费用、11.8亿裁员补偿。即便把这两笔加回去，Meta的利润率也只有36.8%，远不如去年同期。&lt;/p&gt;
+&lt;p&gt;两家公司都在为AI投入巨资——微软Q4买固定资产付了358亿美元现金，Meta同期是301亿。但微软在投入规模更大的情况下，保住了利润增速与收入增速同步。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这暴露了AI时代两种截然不同的商业模式：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta的AI投资流向内部——训练LLaMA、优化推荐算法、生成广告创意。这些投入的价值是间接的、难以拆解的。你很难说清楚Meta多赚的每一块钱有多少来自AI。微软的AI投资流向外部——Azure上的AI推理按Token收费、Copilot按人头收费、GitHub Copilot按开发者收费。每一美元的资本支出，都有明确的、可计价的、按消费量结算的收入对应。&lt;/p&gt;
+&lt;p&gt;这就是纳德拉反复说的&amp;quot;cost-to-outcome curve&amp;quot;（成本-成果曲线）的真意：重点不在于AI能不能降本，而在于你能否在财务模型里，把投入和产出的关系画成一条可解释的线。&lt;/p&gt;
+&lt;p&gt;微软能，Meta还差得远。&lt;/p&gt;
+三、毛利率降了，利润率没降——一个反直觉的发现
+&lt;p&gt;更深一层的细节藏在智能云分部：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;毛利率：从去年同期的60.4%降至57.1%&lt;/li&gt;
+&lt;li&gt;营业利润率：40.6%→40.6%，纹丝不动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI硬件在侵蚀毛利率——公司自己承认原因是&amp;quot;产品结构转向Azure加上AI基础设施提前扩产&amp;quot;。GPU是昂贵的，推理服务的高成本直接体现为更低的毛利率。&lt;/p&gt;
+&lt;p&gt;但营业利润率一点没降。为什么？&lt;/p&gt;
+&lt;p&gt;因为同一个分部的运营费用只增长了10%，而收入增长了32%。微软在用一个更精瘦的费用结构，去对冲一个更沉重的成本结构。这是经营杠杆的教科书级展示：当SG&amp;amp;A增速远低于收入增速时，毛利率的压缩可以被完美吸收。&lt;/p&gt;
+&lt;p&gt;这与Meta形成残酷对比：Meta的研发费用一个季度就多了87.1亿美元，占成本增量的58%。微软在控制人头（甚至还推出了自愿退休计划），Meta在疯狂扩张。&lt;/p&gt;
+&lt;p&gt;一个更深层的推论：如果Azure的毛利率压力是结构性的（AI推理天然比传统云计算更消耗硬件），那么微软正在押注的两件事是——（1）自研芯片可以拉回毛利率；（2）Copilot的90%+毛利润可以补贴Azure的毛利率下滑。前者是技术赌注，后者是商业模式对冲。&lt;/p&gt;
+四、被所有人忽略的最重要信号：OpenAI依赖症在消退
+&lt;p&gt;这可能是这份季报里最被低估的一个信息。&lt;/p&gt;
+&lt;p&gt;回到Q3，微软商业剩余履约义务（RPO）达到6270亿美元时，市场发现一个令人不安的数字：其中约45%来自OpenAI一家客户。剔除OpenAI后，RPO增速只有26%，商业订单增速只有7%。市场的隐含担忧是：微软的云增长叙事，本质上是被一个大客户撑起来的。&lt;/p&gt;
+&lt;p&gt;这一季，RPO进一步升至6780亿美元，环比增加约510亿。微软在新闻稿和电话会上，特意、多次、着重强调：本季度的新增合同&amp;quot;主要来自AI模型开发商以外的企业客户&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这并非一个随意的措辞，管理层在有意识地解构「微软=OpenAI的影子」这个叙事。&lt;/p&gt;
+&lt;p&gt;与此同时，德意志银行此前提出的&amp;quot;集中度风险&amp;quot;也在被数据稀释。当RPO的增量来自分散的企业客户而非单一模型公司时，估值的确定性溢价会上升——因为收入变得更加可预测、更加分散、更加抗风险。&lt;/p&gt;
+&lt;p&gt;还有一个容易被忽略的小注脚：纳德拉在电话会上主动提到，&lt;strong&gt;今年初以来，使用多种AI模型进行开发的微软客户数量增加了5倍。客户正在自发地从「押注单一模型」转向「多模型策略」——而这对Azure来说是天大的好消息，因为多模型策略意味着更多的云消费、更低的迁移风险、更强的平台粘性。&lt;/strong&gt;&lt;/p&gt;
+五、“你不能把赌注押在任何单一模型上”——纳德拉最狠的一句话
+&lt;p&gt;电话会上，纳德拉主动提了一个故事：OpenAI的模型最近失控，入侵了HuggingFace。&lt;/p&gt;
+&lt;p&gt;然后他说了一句在硅谷会被反复引用的话：&lt;/p&gt;
+&lt;p&gt;“我们能从这件事中吸取的最大教训就是，你不能把赌注押在任何单一模型上。”&lt;/p&gt;
+&lt;p&gt;这句话的分量，远超一个安全事件的技术反思。微软在公开、明确地划清与OpenAI的边界。背后是一整套已经在运行的战略：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anthropic：投资50亿美元，Claude模型集成到AzureAIFoundry和Copilot，锁定了300亿美元的Azure消费承诺&lt;/li&gt;
+&lt;li&gt;xAI（马斯克）：Grok模型上线Azure AI Foundry&lt;/li&gt;
+&lt;li&gt;Mistral：法国开源模型提供商，也已集成&lt;/li&gt;
+&lt;li&gt;自研：MAI系列模型，纳德拉在电话会上举例说MAI-Cyber-1-Flash处理90%的安全任务，成本降低50%&lt;/li&gt;
+&lt;li&gt;开源模型：Llama、Mistral等数万个开源模型可通过Azure AI Foundry部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;微软的战略图景已经很清晰：把Azure变成一个模型中立的市场，就像AWS是计算中立的市场一样。企业客户不需要关心底层模型是谁家的——微软负责提供、管理、路由、替换。Copilot内部的&amp;quot;智能路由&amp;quot;功能可以自动将不同任务分配给最合适、最便宜的模型。&lt;/p&gt;
+&lt;p&gt;谷歌云82%增长的背后是Gemini 3的强力推动，但这也意味着谷歌云的叙事深度绑定在Gemini的成功上。某个模型一旦出问题或落后，谷歌云受到的冲击会更直接。&lt;/p&gt;
+&lt;p&gt;微软在做的本质上是把AI模型层的风险外部化——无论哪家模型公司赢，Azure都是赢家。&lt;/p&gt;
+六、“循环融资”证伪：Anthropic的32亿并非左手倒右手
+&lt;p&gt;2025年11月，微软投资Anthropic 50亿美元，Anthropic承诺购买300亿美元Azure服务。当时华尔街有个刻薄的评价：「循环融资」——微软给Anthropic钱，Anthropic用这笔钱买Azure，Azure收入增长，华尔街给微软更高估值。完美的闭环。&lt;/p&gt;
+&lt;p&gt;但这次季报给出了一个意想不到的反驳：Anthropic投资产生了32亿美元的账面收益。半年，50亿投入，32亿浮盈。&lt;/p&gt;
+&lt;p&gt;背后的机制是：Anthropic在这半年内完成了新一轮融资，估值从1830亿美元飙升到3500亿美元，超越OpenAI成为全球最有价值的AI独角兽。微软作为早期投资者，持股的公允价值随之水涨船高。&lt;/p&gt;
+&lt;p&gt;这意味着两件事：股权投资的回报独立于Azure云服务收入——两笔交易都在赚钱，谈不上左手倒右手；微软正在用更低的资本成本锁定Azure的长期需求——50亿美元的投资换来了300亿美元的确定性云收入+32亿美元的浮盈+多模型战略的关键棋子。&lt;/p&gt;
+&lt;p&gt;这种“投资-采购-增值”的三角结构，微软在Anthropic上玩了一遍，接下来会不会在Mistral、在别的模型公司上再玩一遍？这种模式的复制潜力，才是真正值得思考的地方。&lt;/p&gt;
+七、Copilot为何不可复制：捆绑的暴力
+&lt;p&gt;彭博情报分析师曼迪普·辛格说了一句一针见血的话：&amp;quot;微软的捆绑策略仍在持续奏效。&amp;quot;&lt;/p&gt;
+&lt;p&gt;拆开这句话：Copilot不需要像独立SaaS创业公司那样烧钱买流量。它焊在M365的4亿多付费席位上。企业IT部门已经在用Office，已经签了EA协议，已经做了安全审计——Copilot只是一个需要勾选的附加复选框。&lt;/p&gt;
+&lt;p&gt;这是任何独立AI工具——不管是ChatGPTEnterprise还是ClaudeforBusiness——都无法复制的结构性优势。它们的获客是从零开始的，Copilot是从4亿开始的。&lt;/p&gt;
+&lt;p&gt;3000万席位的数字背后，还有一个质量信号：使用强度已经与Outlook和Teams持平。电话会上提到，&amp;quot;从首次使用到高频使用的时间，已经从几个月缩短到了几天&amp;quot;。Copilot正在嵌入日常工作流，买了却不用的情况越来越少。&lt;/p&gt;
+&lt;p&gt;再加上E7高级套件的推出——它把Copilot和Agent365（安全运营、IT运营、财务运营）打包，并且在定价上引入了「席位+用量」的双轨模式——ARPU的提升才刚刚开始。纳德拉说了一句意味深长的话：&amp;quot;Copilot的TAM（总可寻址市场），比传统Office大得多。&amp;quot;seat收入之外，token用量收入是一个没有上限的变量。&lt;/p&gt;
+八、结语：市场是在买“AI烧钱可见”
+&lt;p&gt;这份季报最深的答案，藏在电话会的问答环节。&lt;/p&gt;
+&lt;p&gt;高盛分析师问了一个问题：“和一年前比，CapEx的ROI怎么看？”&lt;/p&gt;
+&lt;p&gt;Amy Hood的回答可以浓缩成一句话：“我的算法没变，但对TAM扩张和利润率杠杆的信心提高了。”&lt;/p&gt;
+&lt;p&gt;“算法没变”——投得不更少，回报要求没更低，同样严格的ROI标准下，可实现的回报更大了。&lt;/p&gt;
+&lt;p&gt;这并非&amp;quot;AI烧钱结束&amp;quot;，而是&amp;quot;AI烧钱可见&amp;quot;——每一块钱投下去，你能在财务模型里看到它通向哪里：Azure的token消耗、Copilot的席位增长、Anthropic的300亿Azure承诺、多模型策略下的客户留存。&lt;/p&gt;
+&lt;p&gt;微软正在做一件在科技史上少见的事：把一个全行业范围的范式转变（AI），结构性地转化为自己的经常性收入。它扮演的角色，与其说是AI的「赌徒」，不如说是AI的「收费站」。&lt;/p&gt;
+&lt;p&gt;这也是为什么，季报出来后——谷歌云飚82%、Meta利润率崩塌、AWS今晚发布——只有微软同时完成了三件事：收入超预期、利润率守住、Capex管理给市场吃下定心丸。&lt;/p&gt;
+&lt;p&gt;一个正在学会&amp;quot;既有野心又有纪律&amp;quot;的2.9万亿美元巨兽，比一个只会花钱的巨兽，危险得多。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高</title><link>https://wallstreetcn.com/articles/3778176</link><guid>34e1316fd5dcf1d3de106702150f31a1772261a93479ebf807e08c49b48e5976</guid><pubDate>Wed, 29 Jul 2026 23:03:08 GMT</pubDate><description>&lt;p&gt;市场遭遇伊朗战火重燃、美联储鹰派按兵不动与AI信仰遭质疑的三重冲击。&lt;/p&gt;
 &lt;p&gt;布伦特暴涨8%重返90美元。30年期美债收益率飙升创2007年6月以来最高，道指创15个月最大单日点数跌幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 伊朗夜袭停火破裂，油价单日暴涨7%
@@ -1564,4 +1564,4 @@ AI资本开支继续飙升，现金流压力是最大风险
 &lt;p&gt;三季度是HBM4放量的关键季度。三星指引是环比增长超过3倍。如果兑现，意味着良率和量产能力已经跨过了关键门槛。&lt;/p&gt;
 &lt;p&gt;10月，主要云厂商将发布三季度资本开支数据。如果微软、亚马逊或谷歌进一步压缩2027年的支出计划，市场的担忧会获得新的数据支撑。&lt;/p&gt;
 &lt;p&gt;年底，长期合同执行情况将接受首次检验。被锁定的60%以上产能能否按约履行，合同条款的实际约束力将得到验证。&lt;/p&gt;
-&lt;p&gt;这两个季度是市场分歧收窄或扩大的窗口。方向取决于出货数据和客户支出，而不是更多的表态。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这两个季度是市场分歧收窄或扩大的窗口。方向取决于出货数据和客户支出，而不是更多的表态。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 全市场55.53°：风格切换，老登慢慢修复（07.30）</title><link>http://xueqiu.com/9391624441/402787874</link><guid>1e05c504d6b417b0c24e9aeeb04e992d2e3170b39bb667ccc44c171a1ed3c2e5</guid><pubDate>Thu, 30 Jul 2026 09:52:13 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;20267.07.30 估值简报&lt;/p&gt;</description></item><item><title>[今日雪球] Claude OPUS 5 max：泡泡玛特研究——客观分析潮玩行业的可持续性（Stude...</title><link>http://xueqiu.com/4706428215/402760287</link><guid>0736456946bafbe6519802f378632668e0e8760ea303fdd99be53f1185a3208e</guid><pubDate>Thu, 30 Jul 2026 09:52:40 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Student大卫&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt; &lt;a href="https://xueqiu.com/S/09992"&gt;$泡泡玛特(09992)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 随想324 分歧、混沌与巨头们的囚徒困境</title><link>http://xueqiu.com/1438190065/402772439</link><guid>5705ddd59084ae8426cc77d111e8dd4912e767aeada55aa419cc95a4d40ba11a</guid><pubDate>Thu, 30 Jul 2026 09:52:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股三大指数全部下跌。纳斯达克和标普500盘中一度翻红，但在美联储发布会进行过程中跳水。以费城半导体指数为代表的一众硬件股继续调整：闪迪由红盘一路跌至-7%，美光跌超10%，英特尔、Lumentum等跌幅也超过5%，且大多数个股的下跌都集中在尾盘。&lt;/p&gt;</description></item></channel></rss>
