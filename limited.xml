@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 31 Jul 2026 08:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 库克最后一场苹果电话会：汇率和供应限制打压业绩指引，“为供应链受限苦苦挣扎”，“正评估所有供应选项”</title><link>https://wallstreetcn.com/articles/3778372</link><guid>91d82f8ffaf28a2883b48eb4e7366614ac41d967785066aa60ab8533c2f4a348</guid><pubDate>Thu, 30 Jul 2026 23:30:26 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 31 Jul 2026 09:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 库克最后一场苹果电话会：汇率和供应限制打压业绩指引，“为供应链受限苦苦挣扎”，“正评估所有供应选项”</title><link>https://wallstreetcn.com/articles/3778372</link><guid>91d82f8ffaf28a2883b48eb4e7366614ac41d967785066aa60ab8533c2f4a348</guid><pubDate>Thu, 30 Jul 2026 23:30:26 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;苹果公司创下史上最强六月季度业绩，但内存价格飙升与先进制程芯片供应趋紧正演变为当前最大经营隐患，令市场对即将到来的关键假日销售季前景存有疑虑。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778368"&gt;华尔街见闻提及&lt;/a&gt;，美东时间7月30日周四，苹果公布第三财季业绩报告，第三财季苹果的总营收和iPhone收入略超预期，但服务业务和中国市场的业绩逊于预期。&lt;/p&gt;
 &lt;p&gt;业绩电话会上，苹果高管预计，公司第四财季、即本财季的营收将增长9%-11%。这一指引区间&lt;strong&gt;整体低于分析师预期的增速12.1%。&lt;/strong&gt;苹果高管指出主要遭受两大因素的拖累：&lt;strong&gt;汇率&lt;/strong&gt;和&lt;strong&gt;供应限制&lt;/strong&gt;。&lt;/p&gt;
@@ -640,40 +640,7 @@ Bedrock、Trainium等AI产品加速商业化
 &lt;p&gt;此轮债市抛售的直接后果，是美国长期借贷成本的显著上升。据英国《金融时报》报道，30年期美债收益率周四一度触及5.24%，为2007年以来最高。长端利率上行将加大美国公共财政压力，推高企业融资成本，并通过抬升30年期抵押贷款利率收紧居民部门信用条件。&lt;/p&gt;
 &lt;p&gt;巴克莱策略师Anshul Pradhan和Demi Hu认为，此次FOMC会议的关键结论是：将通胀压回2%目标所需的金融条件收紧，&amp;quot;更可能通过长端利率上升而非美联储上调隔夜政策利率来实现&amp;quot;。他们同时指出，&amp;quot;在反应函数不确定性加大的情况下，9月加息的门槛更高，但长端收益率进一步上行的门槛则更低。&amp;quot;&lt;/p&gt;
 &lt;p&gt;Unlimited Funds首席投资官Bob Elliott则以更为直白的方式总结了当前局面：&amp;quot;资产价格下跌以使经济恢复平衡，某种程度上是不可避免的。问题在于是走容易的路（美联储主导），还是走艰难的路（长端驱动）。昨天的走势表明，更艰难的路就在前方。&amp;quot;&lt;/p&gt;
-&lt;p&gt;Lord Abbett &amp;amp; Co全球利率主管Leah Traub则提出了一个更深层的担忧：&amp;quot;如果5年期盈亏平衡通胀率继续大幅上行，那才是真正开始质疑美联储信誉的时刻。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] MiniMax发布开源全模态模型H3：视频编辑能力登顶全球第一，定价砍至同行三分之一</title><link>https://wallstreetcn.com/articles/3778403</link><guid>b897c142b1945a65f13c7cc8eb1f8d692adec9acbf5f9998896e667813c85dec</guid><pubDate>Fri, 31 Jul 2026 06:27:20 GMT</pubDate><description>&lt;p&gt;在国产AI赛道从参数竞赛转向成本与生态较量的关键节点，MiniMax以一款定价仅为同行三分之一的视频生成模型，向市场投下了一枚&amp;quot;价格核弹&amp;quot;，同时也向Sora等全球竞品发起正面挑战。&lt;/p&gt;
-&lt;p&gt;7月31日，MiniMax正式发布首款开源多模态生成模型H3。该模型支持2K分辨率直出与最长15秒音画内容生成，在ArtificialAnalysis视频编辑能力榜单中排名全球第一。更具冲击力的是其定价策略——视频生成价格降至0.8元/秒，仅为业内同类旗舰模型的三分之一。MiniMax官方写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;受此消息提振，MiniMax股价单日一度大涨超14%，一举扭转了前期因股份解禁与产品降价带来的下跌趋势，投资者对H3以极致成本控制实现商业突围抱有较高期待。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在行业头部玩家纷纷收紧供给的背景下，MiniMax以“极致性价比+开源”为切入口，试图在AI视频生成赛道走出一条与参数内卷截然不同的差异化路径。&lt;/p&gt;
-
-多模态统一架构，视频编辑排名全球第一
-
-&lt;p&gt;H3的核心定位是通用全模态生成模型，其技术架构实现了对文本、图像、视频、声音组成的多模态上下文的统一理解，并可输出具备原生双声道的音视频内容，最高支持15秒、2K分辨率的视频生成。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在能力表现上，MiniMax重点强调H3在指令遵循、文字与品牌信息呈现，以及V2V Motion Transfer（视频到视频动作迁移）等维度的表现。V2V Motion Transfer是指将源视频的动作特征精准迁移至目标视频的技术能力，有助于实现可控的多模态内容编辑。&lt;/strong&gt;在Artificial Analysis视频模型榜单中，H3在视频编辑能力项排名全球第一。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;MiniMax方面表示，H3具备商用级的多场景内容生成能力，广泛适用于广告、品牌、电商、产品设计、UI/UX及游戏等商业场景，定位于降低企业和开发者进行高质量视频内容创作的门槛。&lt;/p&gt;
-价格刺穿行业底线，高压缩Tokenizer驱动价格降至行业1/3
-&lt;p&gt;H3视频生成定价0.8元/秒，是此次发布的另一重要看点。H3其2K分辨率视频生成定价为0.8元/秒，仅为业内同类旗舰模型的三分之一。&lt;/p&gt;
-&lt;p&gt;这一成本优势源于系统级优化：&lt;strong&gt;MiniMax通过高压缩Tokenizer降低视频生成所需的Token数量，同时在异构训练、负载均衡和GPU利用效率等方面进行了针对性调优，在保障模型效果的同时大幅压降训练与推理成本。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一成本结构若能在规模化应用中得以验证，将有助于H3在商业化落地上形成差异化竞争优势。MiniMax方面表示，H3可广泛适用于广告、电商、产品设计及游戏等对成本敏感的商业场景，为企业级视频内容创作提供了低成本、高效率的解决方案。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;H3视频生成画面&lt;/p&gt;
-开源策略：面向企业本地部署，推动产业生态开放
-&lt;p&gt;开源是H3此次发布的战略重心之一。&lt;strong&gt;MiniMax表示，计划在未来几天内，在符合相关法律法规的前提下开放模型权重，企业届时可在本地灵活部署，结合自身数据和业务进行优化，以更好地满足安全合规要求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;“芯片厂商和开发者也能共同参与适配和优化，降低使用成本，扩大应用范围。”MiniMax相关负责人表示，“我们会持续推动优秀的文本、多模态模型从过往的封闭服务，走向更加开放、可协作的产业生态。”&lt;/p&gt;
-&lt;p&gt;开源路线在国产大模型竞争中正成为越来越重要的筹码。月之暗面于7月16日发布参数量达2.8万亿的Kimi K3，成为全球参数规模最大的开源模型，发布48小时内用户请求量逼近集群承载极限，并于7月19日宣布暂停C端新用户订阅，将算力优先保障已付费用户。&lt;/p&gt;
-避开参数内卷：差异化路径能否持续？
-&lt;p&gt;资本市场的剧烈反应印证了投资者对H3商业化前景的认可。股价单日涨超14%，成功扭转了前期因股份解禁与产品降价引发的下跌趋势。&lt;/p&gt;
-&lt;p&gt;从竞争格局看，MiniMax选择了一条与参数规模内卷截然不同的路径。在行业头部玩家因算力瓶颈被迫收缩供给、用户请求量逼近集群承载极限的当下，MiniMax凭借成本控制与开源策略，试图在商业落地层面建立护城河，而非单纯比拼模型参数。&lt;/p&gt;
-&lt;p&gt;后续市场将密切关注H3正式开源后的社区适配进度、商业订单落地节奏，以及这一&amp;quot;以价换量&amp;quot;策略能否帮助MiniMax重回AI赛道&amp;quot;C位&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上调资本开支预期依旧大涨，亚马逊这份财报意味着什么？</title><link>https://wallstreetcn.com/articles/3778391</link><guid>ced893f183dd4258ef3562561745b46595a6a7f430bc83ce1e75fa77b289c9d3</guid><pubDate>Fri, 31 Jul 2026 05:00:27 GMT</pubDate><description>&lt;p&gt;亚马逊最新财报电话会释放强烈信号，&lt;strong&gt;超大规模云计算商的数据中心需求远未见顶，利好数据中心基础设施领域的多只头部股票。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lord Abbett &amp;amp; Co全球利率主管Leah Traub则提出了一个更深层的担忧：&amp;quot;如果5年期盈亏平衡通胀率继续大幅上行，那才是真正开始质疑美联储信誉的时刻。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上调资本开支预期依旧大涨，亚马逊这份财报意味着什么？</title><link>https://wallstreetcn.com/articles/3778391</link><guid>ced893f183dd4258ef3562561745b46595a6a7f430bc83ce1e75fa77b289c9d3</guid><pubDate>Fri, 31 Jul 2026 05:00:27 GMT</pubDate><description>&lt;p&gt;亚马逊最新财报电话会释放强烈信号，&lt;strong&gt;超大规模云计算商的数据中心需求远未见顶，利好数据中心基础设施领域的多只头部股票。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美国当地时间，7月30日美股盘后，亚马逊首席执行官Andy Jassy在二季度财报电话会上宣布，2026年现金资本开支指引&lt;strong&gt;上调200亿美元至2200亿美元，同比增幅高达71.4%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;更值得关注的是，Jassy明确表示&lt;strong&gt;即便在如此规模的投入下，今年的容量仍不足以满足全部需求，并预计这一供需缺口将延续至2027年。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;追风交易台消息，巴克莱银行随即发表研究报告，认为&lt;strong&gt;上述表态有效驳斥了市场此前对AI基础设施过度建设的担忧，而超大规模基础设施需求即便在当前AI训练周期成熟之后，仍可能持续增长。&lt;/strong&gt;&lt;/p&gt;
@@ -706,7 +673,40 @@ Bedrock、Trainium等AI产品加速商业化
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国拟向主权财富基金注资140亿美元，押注AI与数据中心</title><link>https://wallstreetcn.com/articles/3778390</link><guid>597d8665124557177172d8dd55541fc27eb91a70347c3325c272d4b715aecc29</guid><pubDate>Fri, 31 Jul 2026 02:29:02 GMT</pubDate><description>&lt;p&gt;韩国政府宣布向主权财富基金韩国投资公司（Korea Investment Corporation，KIC）注资20万亿韩元（约139亿美元），专项投资人工智能、数据中心及基础设施，并首次将国内资产纳入投资范围。此举标志着韩国主权财富基金战略方向的重大转型。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] MiniMax发布开源全模态模型H3：视频编辑能力登顶全球第一，定价砍至同行三分之一</title><link>https://wallstreetcn.com/articles/3778403</link><guid>b897c142b1945a65f13c7cc8eb1f8d692adec9acbf5f9998896e667813c85dec</guid><pubDate>Fri, 31 Jul 2026 06:27:20 GMT</pubDate><description>&lt;p&gt;在国产AI赛道从参数竞赛转向成本与生态较量的关键节点，MiniMax以一款定价仅为同行三分之一的视频生成模型，向市场投下了一枚&amp;quot;价格核弹&amp;quot;，同时也向Sora等全球竞品发起正面挑战。&lt;/p&gt;
+&lt;p&gt;7月31日，MiniMax正式发布首款开源多模态生成模型H3。该模型支持2K分辨率直出与最长15秒音画内容生成，在ArtificialAnalysis视频编辑能力榜单中排名全球第一。更具冲击力的是其定价策略——视频生成价格降至0.8元/秒，仅为业内同类旗舰模型的三分之一。MiniMax官方写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;受此消息提振，MiniMax股价单日一度大涨超14%，一举扭转了前期因股份解禁与产品降价带来的下跌趋势，投资者对H3以极致成本控制实现商业突围抱有较高期待。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在行业头部玩家纷纷收紧供给的背景下，MiniMax以“极致性价比+开源”为切入口，试图在AI视频生成赛道走出一条与参数内卷截然不同的差异化路径。&lt;/p&gt;
+
+多模态统一架构，视频编辑排名全球第一
+
+&lt;p&gt;H3的核心定位是通用全模态生成模型，其技术架构实现了对文本、图像、视频、声音组成的多模态上下文的统一理解，并可输出具备原生双声道的音视频内容，最高支持15秒、2K分辨率的视频生成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在能力表现上，MiniMax重点强调H3在指令遵循、文字与品牌信息呈现，以及V2V Motion Transfer（视频到视频动作迁移）等维度的表现。V2V Motion Transfer是指将源视频的动作特征精准迁移至目标视频的技术能力，有助于实现可控的多模态内容编辑。&lt;/strong&gt;在Artificial Analysis视频模型榜单中，H3在视频编辑能力项排名全球第一。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;MiniMax方面表示，H3具备商用级的多场景内容生成能力，广泛适用于广告、品牌、电商、产品设计、UI/UX及游戏等商业场景，定位于降低企业和开发者进行高质量视频内容创作的门槛。&lt;/p&gt;
+价格刺穿行业底线，高压缩Tokenizer驱动价格降至行业1/3
+&lt;p&gt;H3视频生成定价0.8元/秒，是此次发布的另一重要看点。H3其2K分辨率视频生成定价为0.8元/秒，仅为业内同类旗舰模型的三分之一。&lt;/p&gt;
+&lt;p&gt;这一成本优势源于系统级优化：&lt;strong&gt;MiniMax通过高压缩Tokenizer降低视频生成所需的Token数量，同时在异构训练、负载均衡和GPU利用效率等方面进行了针对性调优，在保障模型效果的同时大幅压降训练与推理成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一成本结构若能在规模化应用中得以验证，将有助于H3在商业化落地上形成差异化竞争优势。MiniMax方面表示，H3可广泛适用于广告、电商、产品设计及游戏等对成本敏感的商业场景，为企业级视频内容创作提供了低成本、高效率的解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;H3视频生成画面&lt;/p&gt;
+开源策略：面向企业本地部署，推动产业生态开放
+&lt;p&gt;开源是H3此次发布的战略重心之一。&lt;strong&gt;MiniMax表示，计划在未来几天内，在符合相关法律法规的前提下开放模型权重，企业届时可在本地灵活部署，结合自身数据和业务进行优化，以更好地满足安全合规要求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“芯片厂商和开发者也能共同参与适配和优化，降低使用成本，扩大应用范围。”MiniMax相关负责人表示，“我们会持续推动优秀的文本、多模态模型从过往的封闭服务，走向更加开放、可协作的产业生态。”&lt;/p&gt;
+&lt;p&gt;开源路线在国产大模型竞争中正成为越来越重要的筹码。月之暗面于7月16日发布参数量达2.8万亿的Kimi K3，成为全球参数规模最大的开源模型，发布48小时内用户请求量逼近集群承载极限，并于7月19日宣布暂停C端新用户订阅，将算力优先保障已付费用户。&lt;/p&gt;
+避开参数内卷：差异化路径能否持续？
+&lt;p&gt;资本市场的剧烈反应印证了投资者对H3商业化前景的认可。股价单日涨超14%，成功扭转了前期因股份解禁与产品降价引发的下跌趋势。&lt;/p&gt;
+&lt;p&gt;从竞争格局看，MiniMax选择了一条与参数规模内卷截然不同的路径。在行业头部玩家因算力瓶颈被迫收缩供给、用户请求量逼近集群承载极限的当下，MiniMax凭借成本控制与开源策略，试图在商业落地层面建立护城河，而非单纯比拼模型参数。&lt;/p&gt;
+&lt;p&gt;后续市场将密切关注H3正式开源后的社区适配进度、商业订单落地节奏，以及这一&amp;quot;以价换量&amp;quot;策略能否帮助MiniMax重回AI赛道&amp;quot;C位&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国拟向主权财富基金注资140亿美元，押注AI与数据中心</title><link>https://wallstreetcn.com/articles/3778390</link><guid>597d8665124557177172d8dd55541fc27eb91a70347c3325c272d4b715aecc29</guid><pubDate>Fri, 31 Jul 2026 02:29:02 GMT</pubDate><description>&lt;p&gt;韩国政府宣布向主权财富基金韩国投资公司（Korea Investment Corporation，KIC）注资20万亿韩元（约139亿美元），专项投资人工智能、数据中心及基础设施，并首次将国内资产纳入投资范围。此举标志着韩国主权财富基金战略方向的重大转型。&lt;/p&gt;
 &lt;p&gt;7月31日，据彭博报道，上述计划于周五以政府声明形式公布。消息发布之际，韩国股市正经历剧烈震荡——KOSPI指数本周早些时候累计跌幅超过17%，创近期最大跌幅，主要受债务水平上升及市场对两大芯片巨头巨额资本支出可持续性的疑虑拖累。受注资消息提振，KOSPI指数周五盘中一度大涨17%，强势反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;韩国政府表示，此次注资旨在&amp;quot;主动应对&amp;quot;全球资本对韩国投资兴趣的持续升温，并将KIC定位为吸引外国主权财富基金和资产管理机构进入韩国市场的&amp;quot;锚定投资者&amp;quot;。政府计划最快下月向国会提交《韩国投资公司法》修订案，新账户有望于明年正式启动运营。&lt;/p&gt;
@@ -721,65 +721,22 @@ Bedrock、Trainium等AI产品加速商业化
 &lt;p&gt;整体推进节奏显示，政府希望在立法层面尽快取得突破，以便在全球AI投资竞争格局进一步固化之前，确立韩国主权资本的战略布局。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;尽管政府声明并未将上述计划与当前市场动荡直接挂钩，但此次公告的时间节点颇为敏感。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;KOSPI指数在公告发布前的三个交易日内累计下跌逾17%，市场对韩国债务水平的担忧，以及对三星电子、SK海力士等芯片巨头大规模资本支出能否持续支撑AI产业需求的质疑，是此轮下跌的主要诱因。&lt;/p&gt;
-&lt;p&gt;此次注资计划是韩国政府近期一系列稳定股市举措的最新组成部分。消息公布后，KOSPI指数周五盘中涨幅一度高达17%，市场情绪明显修复。两大芯片巨头SK海力士、三星电子双双暴涨。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小米杀入增程大SUV，SkyNomad定价体现“冲量野心”，华尔街紧盯销量和毛利</title><link>https://wallstreetcn.com/articles/3778394</link><guid>9551c27023ec91199b90c5abdce75bd951ae5a054ad27fefd51c5169e38b45ab</guid><pubDate>Fri, 31 Jul 2026 06:00:31 GMT</pubDate><description>&lt;p&gt;小米刚刚向中国新能源汽车市场投下了一枚重磅炸弹。&lt;/p&gt;
-&lt;p&gt;2026年7月30日，小米在北京举办第二届汽车科技日，正式发布全新“昆仑”技术架构及“SkyNomad（澎程）”增程（EREV）SUV系列，标志着其从运动型纯电（BEV）向家庭大空间增程市场的战略性跨越。旗舰七座N90 Max与大五座N70 Max的预售价分别定为29.99万元和25.99万元人民币。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，华尔街投行大摩、德银、野村和花旗对此迅速达成共识：&lt;strong&gt;这是一次极其激进的“以价换量”策略，意在冲击2026年55万辆的庞大年度销量目标&lt;/strong&gt;。大摩和德银视此为强劲的销售催化剂；然而，花旗与野村则向投资者发出了明确的预警信号——在极致的硬件堆料下，&lt;strong&gt;小米的毛利率将面临巨大不确定性，且N70系列极易与自家的YU7形成“同室操戈”的内耗&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;分析人士指出，这意味着当下的核心博弈点已从“小米能否造好车”转向了&lt;strong&gt;“小米能否在捍卫毛利率的同时，成功消化庞大的产能与订单”&lt;/strong&gt;。&lt;/p&gt;
-激进定价重塑行业基准，剑指55万辆年度目标
-&lt;p&gt;小米此次的定价策略完全打破了华尔街的预期模型。&lt;/p&gt;
-&lt;p&gt;野村指出，市场此前预期N90系列定价在30-35万元区间，N70系列在25-30万元区间，而实际预售价N90 Max为29.99万元、N70 Max为25.99万元，均处于预期区间下沿甚至低于预期，&lt;strong&gt;体现出明显的&amp;quot;以价换量&amp;quot;意图&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;大摩更是预计，随着9月份正式上市，未来推出的“标准版”和“Pro版”将进一步拉低门槛，&lt;strong&gt;N70系列将下探至20万-25万元区间，N90系列将覆盖25万-30万元区间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;花旗的竞品对比显示，N90 Max定价与ONVO L90 Pro（26.58万元起）基本持平，但大幅低于理想L9（50.98万元起）、AITO M9（47.98万元起）及Zeekr 9X（45万元以上），有望重塑大型家用SUV的价格-配置基准。&lt;/p&gt;
-&lt;p&gt;德银认为，SkyNomad系列将对比亚迪、零跑、小鹏、吉利、领克、奇瑞、大众等中端品牌SUV形成直接竞争，同时对理想、特斯拉、极氪、AITO等高端品牌产生潜在冲击。&lt;/p&gt;
-&lt;p&gt;该行一针见血地指出了这种激进定价背后的逻辑：&lt;strong&gt;小米对销量的极度渴望。&lt;/strong&gt;数据显示，小米今年上半年仅交付了180,055辆汽车，仅占全年55万辆目标的34%。&lt;/p&gt;
-&lt;p&gt;这意味着在下半年，小米平均每月需要卖出6.1万辆才能达标。而据Thinkercar数据，7月份小米新增订单持续低迷，四周分别仅为5,400辆、5,600辆、7,400辆和5,700辆，&lt;strong&gt;SkyNomad的推出被视为拉动订单的关键催化剂。&lt;/strong&gt;&lt;/p&gt;
-堆料到极致：大电池与“昆仑”架构的硬件账本
-&lt;p&gt;在产品力上，小米试图通过“昆仑”架构重新定义家庭SUV的空间与配置标准。&lt;/p&gt;
-&lt;p&gt;花旗和德银的研报详细拆解了这套高规格的硬件账本：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;N90 Max（七座）：&lt;/strong&gt; 车长5,285mm，轴距3,080mm。搭载76kWh大容量三元锂电池，CLTC纯电续航高达464km，综合续航1,705km。配备310kW双电机四驱，百公里加速5.9秒。车内提供2.9米纯平地板和4.4平方米可用面积，后备箱最大可扩展至1,831升。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;此次注资计划是韩国政府近期一系列稳定股市举措的最新组成部分。消息公布后，KOSPI指数周五盘中涨幅一度高达17%，市场情绪明显修复。两大芯片巨头SK海力士、三星电子双双暴涨。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：美联储框架不透明或适得其反，长端利率或倒逼再度加息</title><link>https://wallstreetcn.com/articles/3778388</link><guid>618844a9781a0393694e295d8f13193c98f435496bc13a90cfd95dcb6fcbcf0b</guid><pubDate>Fri, 31 Jul 2026 08:30:50 GMT</pubDate><description>&lt;p&gt;美联储按兵不动，但一场新闻发布会引发的市场动荡，正在动摇投资者对其政策框架的信心。&lt;/p&gt;
+&lt;p&gt;美联储7月议息会议维持利率不变，然而真正牵动市场神经的并非决议本身，而是主席沃什在发布会上的表态。高盛交易台负责人Rich Privorotsky指出，沃什在通胀与就业权衡问题上始终未能阐明清晰的反应函数，这令市场对美联储政策逻辑的疑虑急剧升温。30年期美债收益率随即攀升至新高，收益率曲线大幅陡峭化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛警告，这一局面可能产生反效果：若在取消前瞻指引的同时又模糊政策框架，美联储的公信力非但难以修复，反而可能进一步受损。&lt;/strong&gt;更关键的是，长端利率的失控走势或将倒逼美联储重新出手——除非9月前经济数据明确转软，否则市场可能迫使美联储再度加息，以重新锚定长端并挽回公信力。&lt;/p&gt;
+新闻发布会成焦点，反应函数缺失引发质疑
+&lt;p&gt;据高盛Rich Privorotsky分析，沃什主导美联储以来，其核心目标是通过取消前瞻指引来重建美联储在连续多年未能实现2%通胀目标后所失去的公信力。然而，取消指引并不等同于可以回避框架透明度。&lt;/p&gt;
+&lt;p&gt;在发布会上，当被追问通胀与就业之间如何取舍时，沃什未能给出明确的政策反应函数。在被问及通胀判断依据时，他表示委员会参考更广泛的指标，但未说明哪些指标权重最高、如何加权。&lt;/p&gt;
+&lt;p&gt;Rich Privorotsky指出，&lt;strong&gt;若在移除前瞻指引的同时又遮蔽政策方法论，公信力的结果可能与初衷背道而驰——不是提升，而是恶化。&lt;/strong&gt;&lt;/p&gt;
+长端利率失锚，或倒逼再度加息
+&lt;p&gt;市场对美联储反应函数的困惑，直接体现在长端利率的剧烈波动上。30年期美债收益率在议息会议后突破新高，收益率曲线出现明显陡峭化，显示市场对长期通胀与财政前景的担忧正在加剧。&lt;/p&gt;
+&lt;p&gt;高盛认为，这一走势具有重要的政策含义。除非9月前经济数据出现明确的全面走软，否则市场可能主动“要求”美联储再次加息，以重新锚定长端利率、恢复政策公信力。前端利率偏低而长端利率高企的组合，对小盘股及其他长久期资产而言尤为不利。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;N70 Max（五座）：&lt;/strong&gt; 车长4,960mm，轴距2,950mm。同样搭载76kWh电池，CLTC纯电续航达到同级领先的505km，综合续航1,461km，百公里加速5.5秒。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此外，两款Max车型均标配空气悬架、CDC减震器、激光雷达以及算力高达700 TOPS的NVIDIA DRIVE AGX Thor智驾芯片。&lt;/p&gt;
-&lt;p&gt;德银敏锐地捕捉到了小米控制成本的蛛丝马迹：&lt;strong&gt;为了支撑如此激进的定价，小米在SkyNomad系列上引入了更具成本效益的电池供应商——欣旺达和中创新航，而非纯电车型使用的宁德时代和比亚迪。&lt;/strong&gt;&lt;/p&gt;
-华尔街的隐忧：毛利不确定性与内部“同室操戈”
-&lt;p&gt;尽管产品极具吸引力，但华尔街的分析师们并未被狂热的情绪冲昏头脑，他们为投资者划出了明确的风险重点。&lt;/p&gt;
-&lt;p&gt;首先是&lt;strong&gt;毛利率的隐忧&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;花旗在报告中明确提示，SkyNomad系列的投资逻辑存在一个核心矛盾：大电池（76kWh）、双电机、增程器、空气悬架、激光雷达及复杂的多模式座椅系统意味着极高的物料成本（BOM），而激进的定价策略则对毛利率形成直接压制。&lt;/p&gt;
-&lt;p&gt;花旗列出了投资者需要重点跟踪的四大关键指标：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;最终正式定价&lt;/strong&gt;（9月发布时是否进一步调整）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;订单转化率&lt;/strong&gt;（预订转为实际购车的比例）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;产能爬坡速度&lt;/strong&gt;（能否快速放量）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;车型毛利率&lt;/strong&gt;（能否在低价策略下维持合理利润）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;其次是&lt;strong&gt;销量目标的现实挑战与产品内耗&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;野村证券算了一笔账：假设现有的SU7和YU7销量保持平稳（历史平均月销分别为1.05万和2.5万辆），SkyNomad系列在9月至12月期间需要交付约15.65万辆（即每月约3.91万辆）才能帮助公司完成全年目标，这一爬坡速度显得过于激进。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;更严重的是，N70 Max在尺寸（4,960mm/2,950mm）和五座布局上与自家的纯电SUV YU7（4,999mm/3,000mm）高度重合，且价格区间直接对撞（YU7标准版23.35万元，Pro版27.99万元）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;野村预计，&lt;strong&gt;N70系列不可避免地会蚕食部分YU7的潜在销量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大摩则相对乐观，认为SkyNomad凭借创新设计和极具吸引力的售价，有望实现良好的销售表现，并将其视为股价的正面催化剂。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+全球财政扩张加剧长端压力
+&lt;p&gt;长端利率的隐忧并非孤立存在，而是嵌套在更广泛的全球财政背景之中。高盛指出，日本方面，Takaichi正在推动下调消费税；英国方面，政策讨论已从&amp;quot;是否增加国防开支&amp;quot;转向&amp;quot;如何为其买单&amp;quot;。发达市场整体财政赤字持续扩大，并未呈现正常化迹象。&lt;/p&gt;
+&lt;p&gt;自新冠疫情以来，各主要经济体财政状况只朝一个方向移动，从未实现正常化。这一结构性特征意味着期限溢价将持续走高，通胀将更具粘性，名义利率将在结构性高位维持更长时间。&lt;/p&gt;
+风险资产承压，市场去杠杆仍在持续
+&lt;p&gt;在市场层面，高盛描述了一幅令人警惕的图景。股票遭到抛售，美元走弱，风险资产整体承压，市场对美联储反应函数的质疑是主要驱动因素。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，市场正经历一轮剧烈的去杠杆过程。高盛指出，当前动量策略的回撤幅度已超过20日均值2.5个标准差，去杠杆速度之快，几乎要追溯至新冠疫情时期才能找到可比案例。但两者性质不同：疫情期间是市场功能失灵导致的被动抛售，此次更像是过度集中持仓与高杠杆积累后的主动出清。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;历史数据显示，从类似超卖水平出发，未来15年的前瞻回报通常为持平至正值。但高盛认为，若要实现夏普比率更优的复苏，关键在于已实现波动率相对标普500指数的收敛——在此之前，动量策略的走势将更趋震荡、区间波动，而非出现爆发式反弹。&lt;/p&gt;
+&lt;p&gt;在基本面层面，高盛认为企业盈利对相关交易仍具支撑，但市场的定价逻辑正在发生转变——投资者越来越不愿单纯为AI资本开支买单，而是更倾向于奖励能够展示AI货币化成果的公司。高盛认为，这一区分在接下来的财报季中将愈发关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
