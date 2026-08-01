@@ -1,33 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 01 Aug 2026 21:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 从韩国到美国：多亏了AI，蓝领越来越吃香了</title><link>https://wallstreetcn.com/articles/3778495</link><guid>644265c121bccba541a5485db7b06fa254f0a54f750bfe77eb05467536919fd3</guid><pubDate>Sat, 01 Aug 2026 09:35:58 GMT</pubDate><description>&lt;p&gt;人工智能正在重写劳动力市场的价值逻辑。曾被视为&amp;quot;保险票&amp;quot;的四年制大学学位吸引力持续下滑，而电工、焊工、管道工等技术型蓝领职业正迎来历史性需求缺口与薪酬溢价。从美国职业学校到韩国半导体产线，新一代年轻人正以实际行动重构自己对教育与职业的判断。&lt;/p&gt;
-&lt;p&gt;这一转变有清晰的数据支撑。市场研究机构Validated Insights在2025年6月发布的报告显示，美国职业学校收入增长11.4%，突破190亿美元，几乎是原始预测增幅的两倍。与此同时，就业咨询机构Challenger, Grey &amp;amp; Christmas的数据显示，2025年5月，美国因AI原因导致的裁员计划达到38,579个，创下单月历史最高纪录，占当月全部裁员公告的40%。&lt;/p&gt;
-&lt;p&gt;AI对白领岗位的替代压力，叠加数据中心与基础设施扩张带来的庞大物理需求，正推动供需两端同步向技术工人倾斜。劳动力专家指出，这两股力量的叠加，可能从根本上改变美国乃至全球社会对教育路径与职业选择的既有认知。&lt;/p&gt;
-&lt;p&gt;这种转变在年轻一代中表现尤为突出。Resume Templates今年1月对1,250名Z世代成年人的调查显示，十人中有六人计划在2026年从事蓝领工作，首要原因是认为这类职业在AI冲击下具备更好的长期就业保障。&lt;/p&gt;
-
-职业教育热度骤升，六个月内&amp;quot;真正爆发&amp;quot;
-
-&lt;p&gt;高等教育与职业培训趋势研究机构Validated Insights的市场研究负责人Brady Colby表示，职业教育的兴趣近年来一直保持缓慢稳步增长，但&amp;quot;在过去六个月里真正爆发了&amp;quot;。他将这一现象归结为双重驱动：一方面，年轻人主动寻求不易被AI替代的职业；另一方面，基础设施建设与AI相关设施扩张带来的强劲用工需求形成了额外助推。&amp;quot;现在，招聘某些技术性强职业的合适人选，比招聘计算机程序员还要困难，&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;行为分析专家、The Ad Firm首席执行官Cyrus Kennedy将这一趋势定性为&amp;quot;数学问题与心理转变的叠加&amp;quot;。&amp;quot;Z世代亲眼目睹了年长的千禧一代为那些不能保证就业的学位背上六位数的债务，&amp;quot;他说。他同时指出，这一转变还伴随着年轻人对&amp;quot;纯粹数字化、依赖屏幕工作方式&amp;quot;的日益厌倦。在Kennedy看来，技术性职业不仅提供了即时的收入潜力，还提供了一条无需承受四年制学位经济压力的创业路径。&lt;/p&gt;
-&lt;p&gt;《智能制造与工业4.0学生指南》作者Mike Nager指出，四年制学位作为默认选项的逻辑正在瓦解。&amp;quot;在很多情况下，这种选择已经不再值得了，&amp;quot;他说，并呼吁产业界主动介入，通过推广项目填补公众对技术职业认知不足的&amp;quot;认知差距&amp;quot;。&lt;/p&gt;
-
-薪资倒挂，蓝领收入追平甚至超越白领
-
-&lt;p&gt;美国劳工统计局数据显示，技术型职业的薪资中位数在许多情况下已与需要四年制学位的职业持平甚至超越后者。2026年报告短缺最严重的技术工人职业包括电工、焊工、暖通空调技术人员、管道工和重型设备机械师。&lt;/p&gt;
-&lt;p&gt;持证总管道工、24hr.Supply认证暖通空调技术员Steven Morgan表示，学徒制模式提供了一种&amp;quot;边学边赚&amp;quot;而非&amp;quot;花钱学习&amp;quot;的路径，同时这类工作无法被外包至海外，也无法被软件取代。&amp;quot;没人能用一个App替代一名持证管道工，&amp;quot;他说。不过，Morgan也提醒求职者不应低估这类职业的身体消耗，&amp;quot;真正的高薪是在多年持证和积累实际经验之后才会到来。&amp;quot;&lt;/p&gt;
-&lt;p&gt;在韩国，这一趋势表现得更为直接。据《韩国先驱报》报道，忠北半导体高中96.4%的学生在毕业时已获得工作机会，约四分之一直接进入三星电子。去年三星员工平均年薪约为10.73万美元；根据最新工会劳动协议，若利润目标达成，半导体部门员工明年最高可获得约40万美元奖金。&lt;/p&gt;
-
-退休潮与基建扩张形成&amp;quot;双重缺口&amp;quot;
-
-&lt;p&gt;技术工人短缺问题正面临结构性压力。根据乔治城大学的分析，2032年前，美国55至64岁、拥有中学后教育背景的劳动者中，将有1,840万人计划退休，而同期进入劳动力市场的16至24岁同等学历年轻人仅有1,380万，供需缺口达460万。&lt;/p&gt;
-&lt;p&gt;与此同时，数据中心与基础设施扩张正从另一端推高需求。人力资源咨询公司Randstad的分析显示，机器人技术人员需求上升107%，暖通空调专业人员需求上升67%，建筑相关岗位需求上升30%。&lt;/p&gt;
-&lt;p&gt;面对这一缺口，企业与金融机构正加快布局。据辅助素材，摩根大通首席执行官杰米·戴蒙宣布投资2,400万美元支持潜艇制造与员工培训，称未来五至十年内造船等重大工业项目急需30万名电工和焊工；Meta启动1.15亿美元&amp;quot;美国劳动力学院&amp;quot;项目，专注培训数据中心技术人员并保证就业；劳氏公司首席执行官Marvin Ellison宣布投入2.5亿美元，在未来十年培训25万名管道、木工和电气领域技术工人。&lt;/p&gt;
-
-观念重塑仍面临&amp;quot;认知差距&amp;quot;挑战
-
-&lt;p&gt;尽管市场信号日益清晰，技术型职业在社会认知层面仍面临历史惯性的阻力。多年来，职业教育被广泛认为只通向体力密集或低薪工作，这种偏见在一定程度上维系了社会对传统大学教育的路径依赖。&lt;/p&gt;
-&lt;p&gt;费城技术培训学院在其网站上指出，越来越多Z世代年轻人选择职业学院，正是因为这些机构能提供&amp;quot;快速实用型教育，直接通向稳定收入的职业&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Cyrus Kennedy则指出，外界对技术型职业&amp;quot;职业天花板低&amp;quot;的假设同样正在被重新审视。&amp;quot;实际上，技术行业是通向自主创业最快的路径之一，&amp;quot;他说。&amp;quot;学徒水管工或电工不仅学会了修管道，他们还学会了怎么经营一家企业。&amp;quot;&lt;/p&gt;
-&lt;p&gt;Brady Colby和Mike Nager均表示，仅靠兴趣的自然增长并不足以填补人才缺口。Nager强调，产业界需要主动建立面向青少年的实地接触和推广项目，才能真正弥合公众认知与市场现实之间的落差——而这道落差，正是当前劳动力短缺问题最难破解的根源之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示</title><link>https://wallstreetcn.com/articles/3778497</link><guid>3facd78c5cb88afcb2ebf1491cadce1631fc07b975f0750e4387fb2ae7f37f8c</guid><pubDate>Sat, 01 Aug 2026 11:46:16 GMT</pubDate><description>&lt;p&gt;OpenAI正准备推出一个名为&amp;quot;Astra&amp;quot;的全新模型家族，其核心能力在于驱动多个AI智能体长期协同运作以解决高难度问题。这一进展标志着该公司在通用人工智能路线上迈出实质性一步，同时也将成为特朗普政府新版AI监管框架落地的首批试验案例。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 01 Aug 2026 21:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示</title><link>https://wallstreetcn.com/articles/3778497</link><guid>3facd78c5cb88afcb2ebf1491cadce1631fc07b975f0750e4387fb2ae7f37f8c</guid><pubDate>Sat, 01 Aug 2026 11:46:16 GMT</pubDate><description>&lt;p&gt;OpenAI正准备推出一个名为&amp;quot;Astra&amp;quot;的全新模型家族，其核心能力在于驱动多个AI智能体长期协同运作以解决高难度问题。这一进展标志着该公司在通用人工智能路线上迈出实质性一步，同时也将成为特朗普政府新版AI监管框架落地的首批试验案例。&lt;/p&gt;
 &lt;p&gt;科技媒体The Information援引三位知情人士透露，OpenAI首席执行官Sam Altman本周亲赴华盛顿特区，向政策制定者和监管机构演示了Astra模型。OpenAI重点展示了该模型让多个智能体协同工作、长时间处理复杂任务的能力，应用场景涵盖项目管理乃至高阶数学难题求解。&lt;/p&gt;
 &lt;p&gt;与此同时，OpenAI发布了一份报告&lt;a href="https://cdn.openai.com/pdf/ten-proofs-oai.pdf"&gt;（报告下载地址点这里）&lt;/a&gt;，详述其最先进AI如何成功解决了十道此前从未被攻克的数学难题。这批问题横跨高维几何、编码理论、群论、量子复杂性及极值组合学等多个前沿领域，每道题的学术积压时间均超过十年，而完成全部求解的算力成本仅约2000美元。&lt;/p&gt;
 &lt;p&gt;清华姚班毕业生、今年1月开始进入OpenAI工作的Lijie Chen今天在其社交媒体上发言，证实了这10个证明是由其旗舰模型Astra所做。&lt;/p&gt;
