@@ -1,76 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 02 Aug 2026 13:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报</title><link>https://wallstreetcn.com/articles/3778433</link><guid>d22de450c71db3ca092effbc549ca13a3d866b88ea3d38a57625d913c7baf72e</guid><pubDate>Sun, 02 Aug 2026 02:02:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月02日 - 08月10日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;见闻财经日历提醒下周重点关注：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;宏观主线落在8月7日的美国7月非农就业报告&lt;/strong&gt;，这是7月FOMC会议按兵不动后的首份完整就业数据，其强弱将决定市场对9月利率路径的定价。中国方面，8月9日的CPI/PPI数据将检验政治局会议后物价走向，7月进出口与外汇储备亦于周五同步揭晓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;科技与资本市场的核心看点在于SpaceX：&lt;/strong&gt;8月4日盘后（北京时间8月5日）将发布上市后首份季报，市场高度关注星链收入与Starship商业化进展；而8月6日高达1160亿美元的限售股解禁，则构成对纳斯达克的流动性压力测试。与此同时，&lt;strong&gt;Ai4 2026、FMS闪存峰会和沙利文 GIL三场AI大会于8月4-6日同期召开，Geoffrey Hinton、李飞飞、吴恩达三位AI教父级人物将首度同台，三星预计公布HBM4E路线图。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;财报与事件方面，&lt;/strong&gt;伯克希尔、&lt;strong&gt;AMD、闪迪、西部数据密集放榜&lt;/strong&gt;，A股中药明康德、百济神州、寒武纪领衔中报季。此外，比亚迪人形机器人8月初亮相，&lt;strong&gt;宇树科技8月5日启动IPO初步询价&lt;/strong&gt;，市场热点纷呈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI模型方面，DeepSeek表示，DeepSeek-V4-Pro正式版将“尽快发布&lt;/strong&gt;”，Grok 4.6亦随时落地。&lt;/p&gt;
-&lt;strong&gt;宏观数据：关注美国非农、中国物价走势&lt;/strong&gt;
-&lt;p&gt;最重要宏观焦点落在8月7日周五美国7月非农就业报告，这也是7月FOMC按兵不动后首份完整就业数据，将决定市场对9月利率预期的定价方向。ADP就业（8月5日）和初请失业金（8月6日）在非农前提供前置信号，ISM制造业（8月3日）和非制造业PMI（8月5日）则勾勒7月经济景气全貌。&lt;/p&gt;
-&lt;p&gt;中国方面，&lt;strong&gt;8月9日周日7月CPI/PPI&lt;/strong&gt;将检验政治局会议后的物价走向。6月CPI同比上涨1.0%、PPI同比上涨4.1%。7月进出口（8月7日）和外汇储备（8月7日）同步发布。&lt;/p&gt;
-资本市场与财报：SpaceX首秀+解禁、AMD、闪迪、西部数据密集放榜
-&lt;p&gt;&lt;strong&gt;SpaceX首份季报&lt;/strong&gt;（8月4日盘后，北京时间8月5日5:00）是全周最大看点。5月以逾1.5万亿美元估值登陆纳斯达克以来，市场对星链收入和Starship商业化的预期持续攀升。两天后（8月6日）&lt;strong&gt;1160亿美元限售股解禁&lt;/strong&gt;——将创美股史上最大单股解禁洪峰——对SpaceX和纳斯达克构成流动性压力测试。&lt;/p&gt;
-&lt;p&gt;其他重磅：&lt;strong&gt;伯克希尔&lt;/strong&gt;（8月3日，&lt;strong&gt;预估·官方未宣布&lt;/strong&gt;）——93岁巴菲特在美股动荡后的投资动向；&lt;strong&gt;AMD&lt;/strong&gt;（8月5日盘后）——在英伟达阴影下的AI芯片第二梯队，MI400系列量产进展能否突围；&lt;strong&gt;闪迪&lt;/strong&gt;（8月6日盘后）——存储弹性标杆，EPS预期65.92元；&lt;strong&gt;西部数据&lt;/strong&gt;（8月6日盘后）电话会则是存储供需关键窗口。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A股+港股中报季方面，药明康德、百济神州、寒武纪领衔。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;重点关注：&lt;strong&gt;药明康德&lt;/strong&gt;（A股8/4、港股8/3）和&lt;strong&gt;百济神州&lt;/strong&gt;（港股8/5）两大医药龙头同日放榜；AI芯片明星&lt;strong&gt;寒武纪&lt;/strong&gt;（A股8/8）检验国产替代兑现能力；&lt;strong&gt;中国稀土&lt;/strong&gt;（A股8/8）和&lt;strong&gt;立昂微&lt;/strong&gt;（A股8/8）同日压轴。汇丰控股、创科实业、太古AB、中电控股等恒指成分股同步放榜。（数据来源于：wind）&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-其他财经事件
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;比亚迪人形机器人8月初亮相&lt;/strong&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;7月28日，比亚迪方面向中国证券报记者确认，公司计划于8月在&amp;quot;迪空间&amp;quot;发布人形机器人。业内普遍预期，此次亮相将是可实际操作的实体样机首次面向公众，而非概念性技术发布。7月25日，比亚迪旗下&amp;quot;迪空间&amp;quot;微信公众号曾发布一张人形机器人海报，称&amp;quot;八月初，有个新朋友，想来认识你&amp;quot;。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt; &lt;strong&gt;宇树科技：IPO初步询价日为8月5日&lt;/strong&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;7月30日，宇树科技公告称，公司首次公开发行股票并在科创板上市的申请已获上交所上市审核委员会审议通过，并获中国证监会同意注册。初步询价日为2026年8月5日，网下、网上申购日为8月10日，缴款日为8月12日。&lt;/p&gt;
-AI大模型追踪（8月发布窗口）
-&lt;ul&gt;
-&lt;li&gt; &lt;strong&gt;DeepSeek-V4-Flash正式版已公测，将尽快发布&lt;/strong&gt; &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;7月31日，DeepSeek发布更新日志，DeepSeek-V4-Flash正式版API上线公测。DeepSeek-V4-Flash-0731的模型结构、尺寸和DeepSeek-V4-Flash-preview保持一致，仅重新进行了后训练。DeepSeek-V4-Pro正式版将会尽快发布。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt; &lt;strong&gt;马斯克旗下AI Grok 4.6即将发布（时间待定）&lt;/strong&gt; &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;7月末，马斯克在X平台上表示，Grok 4.6将在将来一周发布。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;AI产业与行业峰会：Ai4+FMS+GIL三会叠加，“AI教父”Hinton、&lt;/strong&gt;李飞飞、吴恩达同台
-&lt;p&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ai4 2026（8月4-6日，拉斯维加斯威尼斯人酒店）&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;北美最大AI产业峰会，覆盖AI全产业链。8月5日Geoffrey Hinton、李飞飞、吴恩达三位AI教父级人物首次同台。英伟达、谷歌、微软、Meta、三星等全产业链巨头悉数到场。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;FMS 2026闪存峰会（8月4-6日，圣克拉拉会展中心）&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;全球存储行业二十年旗舰峰会。&lt;strong&gt;三星EVP李镇燁8月4日主题演讲，&lt;/strong&gt;预计公布下一代HBM4E和V-NAND技术路线图。SK海力士、铠侠、美光、西部数据全阵容出席。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;沙利文 GIL峰会（8月4-5日，上海）&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;AI全产业链+半导体算力议程，发布《AI在行业研究与投资管理中的应用》白皮书。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;华为全场景新品发布会、CCF量子计算大会&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;此外：&lt;strong&gt;华为全场景新品发布会&lt;/strong&gt;（8月5日）亮相尊界旗舰MPV及鸿蒙新品；&lt;strong&gt;CCF量子计算大会&lt;/strong&gt;（8月3-5日）聚焦量子+AI交叉前沿。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt; &lt;strong&gt;格林美锂业大会暨锂电新能源发展大会（3-5日）&lt;/strong&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;格林美锂业大会暨锂电新能源发展大会（3-5日）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt; &lt;strong&gt;CIES 2026第十六届中国国际储能大会（8/9日-11日）&lt;/strong&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;CIES2026第十六届中国国际储能大会将于2026年8月9日至11日在浙江杭州洲际酒店召开，主题为“源网荷储，算电协同”，由中国化学与物理电源行业协会主办。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什怎么想？9月会加息吗？在8月美联储“杰克逊霍尔年会”前，市场都将纠结</title><link>https://wallstreetcn.com/articles/3778508</link><guid>b3fc8d409749a348c0950da492b920d0113f006fe7d692da1cb2ea8c57846627</guid><pubDate>Sun, 02 Aug 2026 09:16:15 GMT</pubDate><description>&lt;p&gt;美联储主席沃什首次新闻发布会释放了“目标明确、路径模糊”的政策信号。随着8月杰克逊霍尔年会临近，市场将密切关注沃什如何定义美联储反应函数，以及9月会议是否存在超预期加息风险。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 02 Aug 2026 14:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 沃什怎么想？9月会加息吗？在8月美联储“杰克逊霍尔年会”前，市场都将纠结</title><link>https://wallstreetcn.com/articles/3778508</link><guid>b3fc8d409749a348c0950da492b920d0113f006fe7d692da1cb2ea8c57846627</guid><pubDate>Sun, 02 Aug 2026 09:16:15 GMT</pubDate><description>&lt;p&gt;美联储主席沃什首次新闻发布会释放了“目标明确、路径模糊”的政策信号。随着8月杰克逊霍尔年会临近，市场将密切关注沃什如何定义美联储反应函数，以及9月会议是否存在超预期加息风险。&lt;/p&gt;
 &lt;p&gt;摩根士丹利最新报告认为，沃什正在刻意改变美联储与市场沟通的方式。&lt;strong&gt;他明确传递了三点信号：当前通胀仍然偏高、政策目标是将通胀拉回目标水平、对此目标实现保持信心。但他始终回避市场最关心的问题——美联储将通过何种具体路径实现这一目标。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这意味着，未来数周市场博弈的核心将围绕一个问题展开：如果金融条件持续收紧仍不足以压制通胀，沃什是否会选择主动加强政策紧缩？杰克逊霍尔年会或将成为观察这一政策转向的重要窗口。&lt;/p&gt;
 沃什的沟通逻辑：目标明确，但不提供路径
@@ -132,32 +61,7 @@ AI大模型追踪（8月发布窗口）
 &lt;p&gt;近期，韩国市场压力明显增加。KOSDAQ指数跌至2022年10月以来低点，韩国大型券商股也持续调整。&lt;/p&gt;
 &lt;p&gt;与此同时，AI投资热潮仍未明显降温。美国银行数据显示，今年以来半导体ETF累计吸引约530亿美元资金流入，尽管费城半导体指数（SOX）近期回落，投资者仍持续押注AI产业链长期增长。&lt;/p&gt;
 &lt;p&gt;Hartnett认为，&lt;strong&gt;协调干预与市场调整同步出现，可能意味着此前高杠杆交易正在进入尾声。但当前政策更多是在控制市场波动，而非通过流动性政策改变趋势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 本周：再思考</title><link>http://xueqiu.com/2874741935/403273571</link><guid>7dfa1cd4a6fbeb37be940464b10dc933e2aaf8ee60ab07187f455bddc11c59b6</guid><pubDate>Sun, 02 Aug 2026 06:23:05 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;门捷列夫学徒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1、七月肯定是不堪回首的，但复盘自己的交易策略，并没有什么实质的问题。在行业无明显利空下，再来一万次也不可能在七月初精神分裂式的切换到碳基，要知道Ai能拿这么久肯定是对AGI有信仰的。而且Ai投资者也没那么菜看不到局部有风险，但更常见的是做法是板块内部切换（比如月初卖掉了pcb上游涨价概念而切换到了其他更有壁垒）。&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI能否回本？科技巨头本周的股价走势，市场给出了答案</title><link>https://wallstreetcn.com/articles/3778516</link><guid>a460bebbc2831cc4f35326e1c9130f1e02de3355d3e81c775ea2a84ad97e86ce</guid><pubDate>Sun, 02 Aug 2026 11:06:29 GMT</pubDate><description>&lt;p&gt;如果要寻找AI投入是否开始产生回报的最直接信号，本周华尔街给出的答案是：&lt;strong&gt;看云计算业务和股价表现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软财报发布后，股价单日暴涨逾13%，全周累计上涨19%，从389美元突破460美元；亚马逊同期涨超15%，从231美元升至271美元。Alphabet本周上涨7%，股价从326美元升至356美元，市场重新评估其云业务加速带来的AI商业化价值；甲骨文也受云计算预期提振，同期涨超10%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但市场并非无差别追捧AI。&lt;/strong&gt;Meta本周下跌6%，从593美元跌至556美元，原因在于其持续加码AI基础设施，却缺少云计算这一直接变现渠道。英伟达作为AI算力核心，全周仅上涨2%，股价在195至200美元区间震荡，投资者正在等待当地时间8月26日财报对下一轮AI资本开支周期的验证。&lt;/p&gt;
-&lt;p&gt;这轮行情正在形成一个清晰分化：&lt;strong&gt;市场不再只奖励AI投入规模，而是奖励能够证明AI投资正在转化为收入、利润和现金流的公司。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-云业务爆发，AI商业化路径逐渐清晰
-&lt;p&gt;科技巨头二季度财报释放出一个明确信号：AI投入正在从资本开支阶段进入收入兑现阶段。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;亚马逊AWS、微软Azure以及Alphabet云业务二季度收入均明显超过市场预期。&lt;/strong&gt;其中，AWS营收同比增长37%，Azure增长43%，三家公司云业务收入合计同比增长48%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在AI商业模式仍存在争议的背景下，云计算成为目前最容易验证的变现路径。&lt;/strong&gt;巨头通过建设数据中心、采购芯片和计算设备，再将算力资源通过长期合同提供给企业客户，实现从基础设施投入到现金流回报的转换。&lt;/p&gt;
-&lt;p&gt;亚马逊AWS二季度经营利润率达到39%。CEO Andy Jassy表示，计算设备平均回本周期不到三年，而AI计算客户合同期限多数超过五年，这意味着当前投入具备较长的收益兑现周期。&lt;/p&gt;
-&lt;p&gt;“由此产生的收入、自由现金流和投资资本回报率非常令人信服。”Jassy称，并提出AWS未来可能成长为年收入1万亿美元业务的长期愿景。作为对比，FactSet数据显示，分析师目前预计AWS今年收入约1700亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI需求正在成为云业务增长的核心驱动力。当前行业瓶颈已经从“是否有需求”转向“算力是否足够”。&lt;/strong&gt;AWS今年4月与Anthropic达成超过1000亿美元、期限十年的合作协议，正是AI算力需求爆发的体现。&lt;/p&gt;
-Meta困境：重投入，但缺少云计算出口
-&lt;p&gt;相比微软、亚马逊和谷歌，Meta面临更大的市场考验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这家社交媒体巨头同样大规模投资AI基础设施，但缺少成熟的云计算业务，无法像AWS、Azure和Google Cloud一样直接通过出租算力获得收入回报。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自二季度财报公布以来，Meta股价累计下跌约5%。公司此前上调2026年资本开支预期，CEO扎克伯格表示，Meta正在考虑建设自己的云计算业务，但目前仍远落后于三大云厂商。&lt;/p&gt;
-&lt;p&gt;华尔街正在形成一个越来越清晰的判断标准：&lt;strong&gt;AI投资的关键并非投入规模，而是企业是否拥有将资本开支转化为持续现金流的商业模式。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;云计算成为当前最成熟的答案，而缺少这一商业化路径的公司，正在面临更严格的审视。&lt;/p&gt;
-盈利质量成为科技股下一阶段核心考验
-&lt;p&gt;尽管科技巨头盈利表现强劲，市场对财报的反应却出现分化。&lt;/p&gt;
-&lt;p&gt;高盛数据显示，TMT板块中，EPS超预期公司在公布业绩后的次日平均跑输标普500约192个基点；相比之下，非TMT板块中同类公司平均跑赢约75个基点。&lt;/p&gt;
-&lt;p&gt;这表明市场对科技股的定价逻辑正在发生变化：投资者不再仅关注短期业绩是否超过预期，而更加重视盈利增长的持续性和来源。&lt;/p&gt;
-&lt;p&gt;二季度标普500整体EPS同比增速追踪值达到45%。其中，约19个百分点来自Alphabet和亚马逊合计约1510亿美元的股权投资“其他收入”，微软另贡献约30亿美元。剔除这些因素后，核心盈利增长仍达到26%，为2021年以来最快水平。&lt;/p&gt;
-&lt;p&gt;目前，&lt;strong&gt;AI基础设施相关企业已经贡献标普500约三分之一的二季度EPS增长。分析师预计，到2026年下半年和2027年，这一比例可能进一步超过50%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，成本压力仍是市场关注的风险。过去几个季度，标普500中位公司净利润率基本停滞，多数行业未来利润率预期被下调。&lt;/p&gt;
-&lt;p&gt;高盛仍维持标普500年底目标点位8000点，并预计2027年标普500 EPS达到385美元。&lt;strong&gt;对于AI行情而言，未来市场关注的重点将从资本投入速度转向盈利增长的可持续性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重生之“AI股神”：大婚前夜，他爆仓了！</title><link>https://wallstreetcn.com/articles/3778505</link><guid>9aa15f31006d8950581a2acc7b05984d17561616741c855cef9e122e4af21a2a</guid><pubDate>Sun, 02 Aug 2026 07:16:38 GMT</pubDate><description>&lt;p&gt;25岁的AI投资明星Leopold Aschenbrenner，在人生重要时刻迎来了职业生涯最大危机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 本周：再思考</title><link>http://xueqiu.com/2874741935/403273571</link><guid>7dfa1cd4a6fbeb37be940464b10dc933e2aaf8ee60ab07187f455bddc11c59b6</guid><pubDate>Sun, 02 Aug 2026 06:23:05 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;门捷列夫学徒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1、七月肯定是不堪回首的，但复盘自己的交易策略，并没有什么实质的问题。在行业无明显利空下，再来一万次也不可能在七月初精神分裂式的切换到碳基，要知道Ai能拿这么久肯定是对AGI有信仰的。而且Ai投资者也没那么菜看不到局部有风险，但更常见的是做法是板块内部切换（比如月初卖掉了pcb上游涨价概念而切换到了其他更有壁垒）。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重生之“AI股神”：大婚前夜，他爆仓了！</title><link>https://wallstreetcn.com/articles/3778505</link><guid>9aa15f31006d8950581a2acc7b05984d17561616741c855cef9e122e4af21a2a</guid><pubDate>Sun, 02 Aug 2026 07:16:38 GMT</pubDate><description>&lt;p&gt;25岁的AI投资明星Leopold Aschenbrenner，在人生重要时刻迎来了职业生涯最大危机。&lt;/p&gt;
 &lt;p&gt;据报道，本周举行婚礼前夕，Aschenbrenner创立的对冲基金Situational Awareness&lt;strong&gt;因高杠杆策略遭遇重创，被迫以较市值折价逾10%的价格出售大部分公开股票持仓，以偿还贷款方债务&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这场崩盘发生在AI交易退潮之际。&lt;/strong&gt;此前，市场持续追捧人工智能产业链，推动Situational Awareness规模快速扩张，一度管理数百亿美元资产，并创造惊人回报。但&lt;strong&gt;随着AI板块遭遇剧烈调整，半导体等核心持仓大幅下跌，市场资金开始围绕其仓位做空，高杠杆策略迅速放大亏损，最终演变成一场“死亡循环”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;几个月前，他还是被称为“AI界诺查丹玛斯”的投资天才；如今，这位年轻基金经理不得不在大婚之际处理一场数百亿美元基金帝国的危机。&lt;/p&gt;
@@ -243,4 +147,29 @@ DRAM与NAND价格齐涨，AI及补库需求共推8月行情
 &lt;p&gt;美银美林数据显示，&lt;strong&gt;亚马逊、微软、Alphabet、Meta及甲骨文五大超大规模云厂商2026年合计资本开支预计达到7300亿美元，同比增长约100%；2027年至2028年，相关资本开支规模有望突破每年1万亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，AWS、Azure和谷歌云未来数年预计仍将保持35%至45%的收入增长，持续支撑AI算力基础设施投入。&lt;/p&gt;
 &lt;p&gt;虽然部分云厂商可能在2026年至2027年阶段性面临自由现金流压力，但美银美林认为，&lt;strong&gt;这反映出科技巨头对AI基础设施建设的长期投入决心，也将继续推动存储、先进封装及服务器产业链需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着 AI 资本开支周期持续推进，本轮存储上行周期由 AI 算力、长期供货协议、供需持续偏紧三重因素共同支撑。&lt;br&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;随着 AI 资本开支周期持续推进，本轮存储上行周期由 AI 算力、长期供货协议、供需持续偏紧三重因素共同支撑。&lt;br&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI能否回本？科技巨头本周的股价走势，市场给出了答案</title><link>https://wallstreetcn.com/articles/3778516</link><guid>a460bebbc2831cc4f35326e1c9130f1e02de3355d3e81c775ea2a84ad97e86ce</guid><pubDate>Sun, 02 Aug 2026 11:06:29 GMT</pubDate><description>&lt;p&gt;如果要寻找AI投入是否开始产生回报的最直接信号，本周华尔街给出的答案是：&lt;strong&gt;看云计算业务和股价表现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微软财报发布后，股价单日暴涨逾13%，全周累计上涨19%，从389美元突破460美元；亚马逊同期涨超15%，从231美元升至271美元。Alphabet本周上涨7%，股价从326美元升至356美元，市场重新评估其云业务加速带来的AI商业化价值；甲骨文也受云计算预期提振，同期涨超10%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但市场并非无差别追捧AI。&lt;/strong&gt;Meta本周下跌6%，从593美元跌至556美元，原因在于其持续加码AI基础设施，却缺少云计算这一直接变现渠道。英伟达作为AI算力核心，全周仅上涨2%，股价在195至200美元区间震荡，投资者正在等待当地时间8月26日财报对下一轮AI资本开支周期的验证。&lt;/p&gt;
+&lt;p&gt;这轮行情正在形成一个清晰分化：&lt;strong&gt;市场不再只奖励AI投入规模，而是奖励能够证明AI投资正在转化为收入、利润和现金流的公司。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+云业务爆发，AI商业化路径逐渐清晰
+&lt;p&gt;科技巨头二季度财报释放出一个明确信号：AI投入正在从资本开支阶段进入收入兑现阶段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;亚马逊AWS、微软Azure以及Alphabet云业务二季度收入均明显超过市场预期。&lt;/strong&gt;其中，AWS营收同比增长37%，Azure增长43%，三家公司云业务收入合计同比增长48%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在AI商业模式仍存在争议的背景下，云计算成为目前最容易验证的变现路径。&lt;/strong&gt;巨头通过建设数据中心、采购芯片和计算设备，再将算力资源通过长期合同提供给企业客户，实现从基础设施投入到现金流回报的转换。&lt;/p&gt;
+&lt;p&gt;亚马逊AWS二季度经营利润率达到39%。CEO Andy Jassy表示，计算设备平均回本周期不到三年，而AI计算客户合同期限多数超过五年，这意味着当前投入具备较长的收益兑现周期。&lt;/p&gt;
+&lt;p&gt;“由此产生的收入、自由现金流和投资资本回报率非常令人信服。”Jassy称，并提出AWS未来可能成长为年收入1万亿美元业务的长期愿景。作为对比，FactSet数据显示，分析师目前预计AWS今年收入约1700亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI需求正在成为云业务增长的核心驱动力。当前行业瓶颈已经从“是否有需求”转向“算力是否足够”。&lt;/strong&gt;AWS今年4月与Anthropic达成超过1000亿美元、期限十年的合作协议，正是AI算力需求爆发的体现。&lt;/p&gt;
+Meta困境：重投入，但缺少云计算出口
+&lt;p&gt;相比微软、亚马逊和谷歌，Meta面临更大的市场考验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这家社交媒体巨头同样大规模投资AI基础设施，但缺少成熟的云计算业务，无法像AWS、Azure和Google Cloud一样直接通过出租算力获得收入回报。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自二季度财报公布以来，Meta股价累计下跌约5%。公司此前上调2026年资本开支预期，CEO扎克伯格表示，Meta正在考虑建设自己的云计算业务，但目前仍远落后于三大云厂商。&lt;/p&gt;
+&lt;p&gt;华尔街正在形成一个越来越清晰的判断标准：&lt;strong&gt;AI投资的关键并非投入规模，而是企业是否拥有将资本开支转化为持续现金流的商业模式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;云计算成为当前最成熟的答案，而缺少这一商业化路径的公司，正在面临更严格的审视。&lt;/p&gt;
+盈利质量成为科技股下一阶段核心考验
+&lt;p&gt;尽管科技巨头盈利表现强劲，市场对财报的反应却出现分化。&lt;/p&gt;
+&lt;p&gt;高盛数据显示，TMT板块中，EPS超预期公司在公布业绩后的次日平均跑输标普500约192个基点；相比之下，非TMT板块中同类公司平均跑赢约75个基点。&lt;/p&gt;
+&lt;p&gt;这表明市场对科技股的定价逻辑正在发生变化：投资者不再仅关注短期业绩是否超过预期，而更加重视盈利增长的持续性和来源。&lt;/p&gt;
+&lt;p&gt;二季度标普500整体EPS同比增速追踪值达到45%。其中，约19个百分点来自Alphabet和亚马逊合计约1510亿美元的股权投资“其他收入”，微软另贡献约30亿美元。剔除这些因素后，核心盈利增长仍达到26%，为2021年以来最快水平。&lt;/p&gt;
+&lt;p&gt;目前，&lt;strong&gt;AI基础设施相关企业已经贡献标普500约三分之一的二季度EPS增长。分析师预计，到2026年下半年和2027年，这一比例可能进一步超过50%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，成本压力仍是市场关注的风险。过去几个季度，标普500中位公司净利润率基本停滞，多数行业未来利润率预期被下调。&lt;/p&gt;
+&lt;p&gt;高盛仍维持标普500年底目标点位8000点，并预计2027年标普500 EPS达到385美元。&lt;strong&gt;对于AI行情而言，未来市场关注的重点将从资本投入速度转向盈利增长的可持续性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
