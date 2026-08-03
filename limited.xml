@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 20:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%</title><link>https://wallstreetcn.com/articles/3778526</link><guid>98388074d7a40d8594806af411c2b9276d4eab40a2d9b2943e4f808d326e45ac</guid><pubDate>Mon, 03 Aug 2026 13:39:03 GMT</pubDate><description>&lt;p&gt;特朗普宣布美伊将启动新一轮谈判，油价大幅回落，美债收益率下行，美股走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 21:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通上调美国长期国债收益率预期，华尔街各大行利率观点一览</title><link>https://wallstreetcn.com/articles/3778608</link><guid>3750e766c815265e2fe634aa75b323c24743d94eab4c2815900e776f0b6c6323</guid><pubDate>Mon, 03 Aug 2026 21:15:24 GMT</pubDate><description>&lt;p&gt;摩根大通上调美国长期国债收益率预测，成为本周华尔街利率前景讨论的核心议题。多家主要机构相继发布报告，围绕美联储信誉受损、通胀风险溢价上升及收益率曲线走势表达看法，分歧与共识并存。&lt;/p&gt;
+&lt;p&gt;上周美联储决定维持利率不变，主席沃什随后发表讲话，引发市场对美联储抗通胀信誉的广泛质疑。摩根大通策略师Jay Barry等人在7月31日报告中指出，&lt;strong&gt;短端收益率下降、长端收益率上升的市场反应，&amp;quot;反映出市场对美联储公信力的担忧&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根大通经济学家随之将美联储首次加息的预测时间从明年下半年提前至今年12月。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;受油价大幅下跌影响，美国10年期国债收益率周一下跌约5个基点至4.68%左右，但这一短期波动并未改变机构对长端利率上行的整体判断。多数机构认为，通胀预期抬升与期限溢价扩大将持续施压长期利率，收益率曲线进一步陡峭化的趋势短期内难以逆转。&lt;/p&gt;
+&lt;p&gt;30年期收益率上周五一度升至5.28%，创2007年以来最高水平，周一小幅回落至5.22%附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+摩根大通：上调预测，建议布局曲线陡峭化
+
+&lt;p&gt;&lt;strong&gt;摩根大通将10年期美国国债收益率年底预测从4.70%上调至4.85%，30年期预测从5.20%上调至5.40%。&lt;/strong&gt;报告写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;这些调整主要源于我们重新转向看好通胀盈亏平衡率，以及预计期限溢价也可能有所上升。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;基于上述判断，摩根大通建议投资者布局2年期与10年期利差进一步扩大的交易，以捕捉收益率曲线继续陡峭化带来的机会。&lt;/p&gt;
+
+巴克莱：长期利率仍有上涨空间，曲线陡峭化空间依然存在
+
+&lt;p&gt;巴克莱银行策略师Anshul Pradhan等人在7月30日报告中同样&lt;strong&gt;认为长期利率仍有上涨空间&lt;/strong&gt;，理由包括：&lt;/p&gt;
+&lt;p&gt;经济强劲推动部分模型估计的中性利率升至1.5%至2%区间，以及市场计入更高通胀风险溢价的空间将削弱投资者对美联储重申价格稳定承诺的积极反应。&lt;/p&gt;
+&lt;p&gt;巴克莱还指出，&lt;strong&gt;当前2s30s曲线仍明显低于150个基点的长期均值，曲线陡峭化空间依然存在。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该行继续建议支付5年期远期5年期利率，并强调：&amp;quot;除非沃什主席承诺开启加息周期——这将与他此前表示不提供任何前瞻性指引的立场截然相反——否则长期收益率仍需在不断变化的经济前景中自行寻找方向。&amp;quot;&lt;/p&gt;
+
+高盛与摩根士丹利：战术性看陡，但建议精细对冲
+
+&lt;p&gt;高盛策略师George Cole、William Marshall等人在7月31日报告中表示，倾向于通过跨市场交易表达收益率曲线保留更多风险溢价的预期，但对熊陡趋势的持续性持审慎态度。报告指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;我们认为普遍性熊陡更多是战术性风险，而非结构性风险，通过在收益率曲线中段建立方向性敞口来对冲收益率上升风险，更为合理。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;摩根士丹利策略师Matthew Hornbach、Martin Tobias等人在同日报告中继续维持美国国债7s30s陡峭化交易，但建议通过购买SFRU6 95.9375/95.875看跌期权价差进行对冲，以覆盖未来两次就业报告及CPI数据发布期间因9月加息预期升温带来的风险。&lt;/p&gt;
+&lt;p&gt;报告提示，若8月CPI于9月11日公布时高于预期，&amp;quot;可能促使市场在9月会议前计入超过一次25个基点加息的预期&amp;quot;。&lt;/p&gt;
+美国银行：建议2s10s利差趋平交易，押注美联储信誉修复
+&lt;p&gt;美国银行策略师Mark Cabana认为，&lt;strong&gt;如果美联储不能更好地告诉市场如何实现2%的通胀目标，美国国债的跌势就会重新出现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其表示，上周三将收益率推至近20年高位的长债抛售是一次“教科书式的通胀公信力冲击”。当天，美联储主席沃什在记者会上未能向投资者解释美联储将如何抑制价格上涨。&lt;/p&gt;
+&lt;p&gt;“你有坚定的决心实现2%的通胀是很好，但除非你告诉我们你要怎么做到，否则我们是不会相信你的，” Cabana接受采访时说，“而且你也骗不了债券，它会看穿你。”&lt;/p&gt;
+&lt;p&gt;但该行新增建议，支付2027年1月FOMC隔夜指数掉期（OIS），以应对&amp;quot;可能希望对通胀采取更强硬姿态的美联储&amp;quot;，同时继续建议支付2年期利率，并建议2s10s利差趋平交易。&lt;/p&gt;
+&lt;p&gt;美国银行还指出，&lt;strong&gt;若长端国债收益率持续承压，美联储未来或通过高级官员讲话或媒体文章的方式修复通胀信誉。&lt;/strong&gt;&lt;/p&gt;
+
+丰业银行：低估10月加息概率，存在交易机会
+
+&lt;p&gt;丰业银行策略师Boris Sender、Rachel Zheng在7月31日报告中提出差异化观点，认为市场目前低估了美联储在10月FOMC会议采取利率行动的可能性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该行建议支付10月FOMC会议，同时接收9月和12月会议，以捕捉这一定价偏差。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，丰业银行倾向于做多2s5s10s蝶式交易的中段，以受益于非农就业数据可能走弱、美国财政部发债指引保持不变以及美联储官员进一步释放政策信号等多重因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%</title><link>https://wallstreetcn.com/articles/3778526</link><guid>98388074d7a40d8594806af411c2b9276d4eab40a2d9b2943e4f808d326e45ac</guid><pubDate>Mon, 03 Aug 2026 13:39:03 GMT</pubDate><description>&lt;p&gt;特朗普宣布美伊将启动新一轮谈判，油价大幅回落，美债收益率下行，美股走高。&lt;/p&gt;
 &lt;p&gt;周一，美股三大股指小幅高开，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴涨超3%，此前发布千问3.8-MAX，长程自动编程表现出色；科技股涨跌不一，微软、亚马逊均涨超2%；美光科技、闪迪跌5%。亚马逊股价大涨4.6%，市值突破3万亿美元大关。&lt;/p&gt;
 &lt;p&gt;然而，亚洲市场走势分化。韩国KOSPI指数大跌逾5%，三星电子暴跌超8%，拖累亚洲芯片股区域指数下挫1.2%。韩国交易所随即启动KOSDAQ侧车机制，程序化交易暂停5分钟。与此同时，日元在美日联合干预的持续支撑下走强，美元兑日元一度上涨1.4%至155.23。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据央视新闻，当地时间8月2日，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。&lt;/strong&gt;特朗普表示，美国将于3日与伊朗进行谈判。消息提振市场对霍尔木兹海峡重新开放的预期，WTI原油下跌7%至78.68美元，美国国债全线上涨。&lt;/p&gt;
@@ -106,38 +147,18 @@
 &lt;p&gt;不过，多位业内人士认为，崩盘期权只是重新分配了风险，并未真正降低整个金融体系的风险水平。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;由于这类产品主要通过场外交易完成，缺乏公开透明的数据披露，市场很难准确评估整体风险敞口。&lt;/strong&gt;Acadian Asset Management组合经理Owen Lamont警告，历史经验表明，杠杆、多重交易对手以及复杂金融创新的结合，往往容易放大系统性风险。&lt;/p&gt;
 &lt;p&gt;根据Asym Research统计，美国上市杠杆指数ETF互换市场中，巴克莱、花旗、高盛和美国银行均占据超过10%的市场份额；而在杠杆单股ETF互换市场，Clear Street市场份额约20%，野村和高盛紧随其后。&lt;/p&gt;
-&lt;p&gt;随着杠杆ETF持续扩容，围绕其形成的互换、崩盘期权等场外衍生品网络也将进一步扩大。这一市场究竟能有效分散风险，还是会在极端行情中放大冲击，正成为越来越多监管机构和市场参与者关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普家族旗下比特币矿商连续三季亏损，股价较峰值跌逾九成</title><link>https://wallstreetcn.com/articles/3778606</link><guid>d132dcf48a0b19a9e3ac776fad9bdff30781d30a8db942eb69930083169cc396</guid><pubDate>Mon, 03 Aug 2026 20:16:45 GMT</pubDate><description>&lt;p&gt;American Bitcoin再度录得季度亏损，加密市场熊市持续侵蚀其资产价值，公司不得不实施合股以保住纳斯达克上市地位。&lt;/p&gt;
-&lt;p&gt;8月3日周一，由特朗普家族参与创立的比特币矿商，American Bitcoin公布，&lt;strong&gt;第二季度净亏损5700万美元，合每股亏损80美分，为连续第三个季度录得亏损。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尽管季度亏损较上季度的8200万美元有所收窄，营收也从上季度的6200万美元小幅增至6700万美元，但持续的熊市行情已令公司股价较上市峰值累计下跌约95%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;同期，比特币价格下跌14%，直接拖累公司持仓价值。&lt;/p&gt;
-&lt;p&gt;今年7月，公司被迫实施1比15的合股，以维持在纳斯达克的上市资格。周一该股低开约3.3%，后跟随大盘趋势反弹，一度涨近8%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;随着杠杆ETF持续扩容，围绕其形成的互换、崩盘期权等场外衍生品网络也将进一步扩大。这一市场究竟能有效分散风险，还是会在极端行情中放大冲击，正成为越来越多监管机构和市场参与者关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Millennium管理基金7月亏损2.1%，AI股震荡重创对冲基金</title><link>https://wallstreetcn.com/articles/3778611</link><guid>fa9344d3ec962fe54f2deaf810fb1037e0c0f307465b281735f0964d10c5d72e</guid><pubDate>Mon, 03 Aug 2026 21:02:51 GMT</pubDate><description>&lt;p&gt;人工智能股票的大幅波动令对冲基金行业7月份业绩分化明显，多策略巨头受损，量化基金逆势走强。&lt;/p&gt;
+&lt;p&gt;8月3日，据彭博援引知情人士透露，千禧年管理基金（Millennium Management）的资产净值7月份累计下跌2.1%，将其年内累计回报压缩至8.2%。&lt;/p&gt;
+&lt;p&gt;多经理人权益基金North Rock同期亦下跌2.1%，年内涨幅收窄至4.8%；多策略基金LMR跌幅相对较小，为0.48%，年内仍录得6%的正回报。&lt;/p&gt;
+&lt;p&gt;AI及半导体板块的下跌是拖累权益类投资组合的主要原因。其中，Situational Awareness基金在追缴保证金压力下被迫向Citadel出售大部分公开市场股票头寸，令该板块此前的部分跌势有所收窄。&lt;/p&gt;
 
-熊市重压，矿企坚守比特币赛道
+量化策略逆市领跑
 
-&lt;p&gt;American Bitcoin由Eric Trump与Donald Trump Jr.联合创立，总部位于迈阿密，是加密行业中少数仍坚持专注于比特币挖矿的上市公司之一。&lt;/p&gt;
-&lt;p&gt;在当前行业普遍向人工智能基础设施服务商转型的背景下，该公司选择维持其纯粹的矿商定位。&lt;/p&gt;
-&lt;p&gt;担任首席战略官的Eric Trump在业绩发布后的电话会议上表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;比特币从来不会走直线，我们建立这家公司时也从未假设它会。我们理解这个行业今年面临的阻力，但我们的信念没有改变。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;截至6月30日，公司比特币持仓约为8000枚，较第一季度增加约14%。然而，比特币现货价格周一报约63150美元，较一年前累计下跌约45%，持续压制公司资产估值。&lt;/p&gt;
-
-与&amp;quot;数字资产财库公司&amp;quot;划清界限，强调挖矿成本优势
-
-&lt;p&gt;自美国总统大选后比特币价格飙涨以来，大量公司纷纷宣布将自身定位为&amp;quot;数字资产财库公司&amp;quot;，争相购入比特币。&lt;/p&gt;
-&lt;p&gt;American Bitcoin虽也被市场归入这一阵营，但Eric Trump对此明确表示反感。他说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;让我有些不满的是，我们被归入与财库公司相同的类别，那些停滞不前、只能按市价买入比特币和其他加密货币的DAT，与我们有本质区别。&lt;strong&gt;我们的优势在于，我们不是按市价购买，我们的挖矿成本大约是市价的五折。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;公司方面表示，尽管面临市场逆风，其挖矿运营效率持续提升，算力规模也在扩大。&lt;/p&gt;
-
-特朗普家族加密版图的组成部分
-
-&lt;p&gt;American Bitcoin是特朗普家族旗下多项加密业务之一。特朗普家族的加密布局还包括去中心化金融平台World Liberty Financial等项目。&lt;/p&gt;
-&lt;p&gt;此前据财务披露文件显示，特朗普去年从其加密相关业务中获益至少14亿美元，是美国加密领域收益最高的人士之一。&lt;/p&gt;
-&lt;p&gt;对投资者而言，American Bitcoin的连续亏损与股价深度回撤，折射出当前单一押注比特币敞口策略的高风险属性。&lt;/p&gt;
-&lt;p&gt;在行业分化加剧的背景下，矿商能否凭借成本优势穿越熊市周期，仍有待市场检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国央行抄底黄金，13年来首次增持！</title><link>https://wallstreetcn.com/articles/3778584</link><guid>ca6228abb9658cdff52d4302f1b8844b6cbdc0a9e999ae1568bd638e1d2c7666</guid><pubDate>Mon, 03 Aug 2026 11:16:50 GMT</pubDate><description>&lt;p&gt;韩国央行时隔逾13年重启黄金购买计划，并同步布局黄金ETF，标志着这家长期因政治压力而回避黄金的央行正式转向，加入全球央行增持黄金的浪潮。&lt;/p&gt;
+&lt;p&gt;相比之下，跨资产类别系统化交易策略展现出明显的抗跌性。&lt;/p&gt;
+&lt;p&gt;管理规模72亿美元的Quantedge 7月份上涨7.8%，年内累计涨幅升至34.6%，在当前市场环境下表现突出。&lt;/p&gt;
+&lt;p&gt;宏观基金Pharo Macro同期小幅上涨0.23%，年内累计收益达9.9%。&lt;/p&gt;
+&lt;p&gt;除股票市场波动外，大宗商品与固定收益市场的联动同样构成7月份的重要市场背景。&lt;/p&gt;
+&lt;p&gt;油价的快速上涨引发市场对通胀前景的担忧，进而推动30年期美国国债收益率走高，令固定收益类资产承压，并对跨资产组合的整体配置形成考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国央行抄底黄金，13年来首次增持！</title><link>https://wallstreetcn.com/articles/3778584</link><guid>ca6228abb9658cdff52d4302f1b8844b6cbdc0a9e999ae1568bd638e1d2c7666</guid><pubDate>Mon, 03 Aug 2026 11:16:50 GMT</pubDate><description>&lt;p&gt;韩国央行时隔逾13年重启黄金购买计划，并同步布局黄金ETF，标志着这家长期因政治压力而回避黄金的央行正式转向，加入全球央行增持黄金的浪潮。&lt;/p&gt;
 &lt;p&gt;韩国银行（Bank of Korea）宣布，&lt;strong&gt;将在中长期内扩大黄金在外汇储备中的占比，并引入从国内黄金生产商采购出口用黄金的新渠道。&lt;/strong&gt;与此同时，&lt;strong&gt;该行还开始购买以黄金为标的的美国交易所交易基金（ETF），但ETF在外汇储备统计中归类为证券而非黄金。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次重启购金，终结了自2013年2月以来长达13年的空窗期。韩国银行外汇储备管理部门负责人Jeong Hee-seop表示，&lt;strong&gt;地缘政治风险上升推动市场对黄金避险属性的关注度提高，加之金价已从高位回落，价格压力有所减轻，该行判断有必要扩大黄金持有量。&lt;/strong&gt;&lt;/p&gt;
 黄金占比垫底，增持压力积聚
@@ -370,16 +391,4 @@
 &lt;p&gt;上汽大众的换帅，也发生在合资品牌市场份额下滑之际。2026年上半年，主流合资品牌在华市场份额已降至30%以下。&lt;/p&gt;
 &lt;p&gt;在这一趋势下，德方股东大众汽车集团与中方股东上汽集团都面临转型压力。大众汽车集团公开信息显示，近年来其持续推进“在中国，为中国”战略，强化本土研发和决策，并将面向中国市场开发的新能源及智能网联车型推向市场。&lt;/p&gt;
 &lt;p&gt;吴赟能否在中德双方之间维持高效的沟通与协调，同时将此前在奥迪新品牌项目中的落地经验复制到更多新能源产品上，是外部观察上汽大众后续走向的一个重要切入点。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 正式跻身3万亿美元俱乐部！亚马逊财报炸场，股价创2012年来最大单日涨幅</title><link>https://wallstreetcn.com/articles/3778603</link><guid>8b0449b8fda9c3a47b7024144117e6550532152d6b798f1a1c45a01ffe16386a</guid><pubDate>Mon, 03 Aug 2026 19:50:42 GMT</pubDate><description>&lt;p&gt;亚马逊凭借一份强劲财报，一举闯入全球市值最顶级的圈层。&lt;/p&gt;
-&lt;p&gt;亚马逊股价周一盘中一度再涨逾5%，&lt;strong&gt;市值首次突破3万亿美元，成为史上第五家跻身这一量级的公司&lt;/strong&gt;，此前仅有英伟达、Alphabet、微软和苹果达到这一里程碑。&lt;/p&gt;
-&lt;p&gt;此番涨势延续上周财报公布后的强劲反弹——&lt;a href="https://wallstreetcn.com/articles/3778366?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A"&gt;亚马逊云服务AWS收入加速增长&lt;/a&gt;，触发市场做多热情全面回归。&lt;/p&gt;
-&lt;p&gt;上周五单日涨幅超过15%，创逾14年来最大单日涨幅，市值单日净增近4000亿美元。伴随本周进一步上涨，&lt;strong&gt;亚马逊在&amp;quot;七巨头&amp;quot;中的年内表现跃居首位，今年累计涨幅约10%&lt;/strong&gt;，而其他大型科技股整体仅录得约2.1%的涨幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;AWS加速增长，打消市场最大疑虑&lt;/strong&gt;
-&lt;p&gt;在过去数月，亚马逊股价承压明显。投资者对押注人工智能的大型科技公司巨额资本开支能否带来实质回报疑虑渐深，亚马逊股价自5月6日创下历史高点后一路下挫，至上月触及阶段低点时累计跌幅接近18%。&lt;/p&gt;
-&lt;p&gt;二季度财报的公布打散了这股悲观情绪。财报显示，AWS季度收入同比增速创下2021年以来最快水平，直接回应了市场对云计算业务能否消化大规模AI投入的核心疑问，也推动股价随后大幅跳涨，单日增加的市值规模在历史上实属罕见。&lt;/p&gt;
-&lt;strong&gt;估值仍显低廉，上行空间获分析师认可&lt;/strong&gt;
-&lt;p&gt;从市值成长轨迹来看，亚马逊此番扩张的速度远超历史。公司2018年末首次触及1万亿美元市值，此后用了逾六年时间于2024年6月突破2万亿美元。&lt;/p&gt;
-&lt;p&gt;而从2万亿到3万亿，仅历时约两年多，里程碑之间的跨越明显提速，折射出云计算与AI浪潮对公司估值的强力重估。&lt;/p&gt;
-&lt;p&gt;尽管股价大幅反弹，亚马逊当前估值仍处于历史偏低水平。&lt;strong&gt;以未来12个月预期市盈率约25倍计算，较过去十年均值低约44%，距今年3月底触及的17年估值低点虽已明显修复，但仍与历史均值相去甚远。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博汇编的数据，华尔街分析师对亚马逊前景保持高度乐观，&lt;strong&gt;主流目标价较当前股价仍隐含约14%的上涨空间，显示机构普遍认为此轮涨势并未透支估值。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF投资进阶宝典：如何股债与攻守再平衡？ （08.03）</title><link>http://xueqiu.com/9391624441/403344319</link><guid>e8b6196ded599c991e7d1be35e10e7606231a8db0333c07dd4c333f8f8b3a891</guid><pubDate>Mon, 03 Aug 2026 10:21:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;面对如此极致割裂的市场，我们其实很难答对每一道题，如果想追求精确的操作，其结果往往是一地鸡毛。&lt;/p&gt;</description></item><item><title>[今日雪球] 剥开核心资产的财务伪装：从市赚率到破妄率的进阶定价逻辑</title><link>http://xueqiu.com/2884313460/403303581</link><guid>3688f4827b51e1facaf7c4eea61279636703fdb1ace7a6dc55af4fe158bbff04</guid><pubDate>Mon, 03 Aug 2026 10:21:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;纵观多轮牛熊更迭，长周期市场的铁顶往往横亘在四千二百点区间。在这个宽幅震荡周期里，频繁的波段交易终将沦为零和博弈。作为一名坚守价值的长期股权持有者，我的应对策略始终是锁仓高现金流核心资产，拒绝瞎折腾，用源源不断的股息对冲宏观的不确定性。在这个过程中，如何精准量化一家企业的真实投资价值，成为了决定成败的关键。&lt;/p&gt;</description></item><item><title>[今日雪球] 对AI应用是否迎来拐点的思考</title><link>http://xueqiu.com/5332385101/403328642</link><guid>d672ec28d5f3263d5453a3ddcafd817cf88cdb94fe99fc865241c728a270a67e</guid><pubDate>Mon, 03 Aug 2026 10:20:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，在全球科技经历一系列剧烈波动的过程中，资金关注度也发生了微妙的转变。过去两年，市场核心始终围绕算力基础设施和硬件端展开。但刚刚过去的七月告诉我们，无差别、一味拔高硬件估值的阶段或许已经过去。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF投资进阶宝典：如何股债与攻守再平衡？ （08.03）</title><link>http://xueqiu.com/9391624441/403344319</link><guid>e8b6196ded599c991e7d1be35e10e7606231a8db0333c07dd4c333f8f8b3a891</guid><pubDate>Mon, 03 Aug 2026 10:21:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;面对如此极致割裂的市场，我们其实很难答对每一道题，如果想追求精确的操作，其结果往往是一地鸡毛。&lt;/p&gt;</description></item><item><title>[今日雪球] 剥开核心资产的财务伪装：从市赚率到破妄率的进阶定价逻辑</title><link>http://xueqiu.com/2884313460/403303581</link><guid>3688f4827b51e1facaf7c4eea61279636703fdb1ace7a6dc55af4fe158bbff04</guid><pubDate>Mon, 03 Aug 2026 10:21:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;纵观多轮牛熊更迭，长周期市场的铁顶往往横亘在四千二百点区间。在这个宽幅震荡周期里，频繁的波段交易终将沦为零和博弈。作为一名坚守价值的长期股权持有者，我的应对策略始终是锁仓高现金流核心资产，拒绝瞎折腾，用源源不断的股息对冲宏观的不确定性。在这个过程中，如何精准量化一家企业的真实投资价值，成为了决定成败的关键。&lt;/p&gt;</description></item><item><title>[今日雪球] 对AI应用是否迎来拐点的思考</title><link>http://xueqiu.com/5332385101/403328642</link><guid>d672ec28d5f3263d5453a3ddcafd817cf88cdb94fe99fc865241c728a270a67e</guid><pubDate>Mon, 03 Aug 2026 10:20:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，在全球科技经历一系列剧烈波动的过程中，资金关注度也发生了微妙的转变。过去两年，市场核心始终围绕算力基础设施和硬件端展开。但刚刚过去的七月告诉我们，无差别、一味拔高硬件估值的阶段或许已经过去。&lt;/p&gt;</description></item></channel></rss>
