@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 09:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] “InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈</title><link>https://wallstreetcn.com/articles/3778565</link><guid>8bda1c1420fd9c8091e011a913a1b5792bd0481de1dcd53b6f23a5c115312cae</guid><pubDate>Mon, 03 Aug 2026 07:53:38 GMT</pubDate><description>&lt;p&gt;磷化铟（InP）正在成为AI基础设施扩张链条上最薄弱的一环。随着数据中心对光互联需求呈数量级增长，这一不可替代的化合物半导体材料正面临比内存更为严峻的供应缺口。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 10:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] “InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈</title><link>https://wallstreetcn.com/articles/3778565</link><guid>8bda1c1420fd9c8091e011a913a1b5792bd0481de1dcd53b6f23a5c115312cae</guid><pubDate>Mon, 03 Aug 2026 07:53:38 GMT</pubDate><description>&lt;p&gt;磷化铟（InP）正在成为AI基础设施扩张链条上最薄弱的一环。随着数据中心对光互联需求呈数量级增长，这一不可替代的化合物半导体材料正面临比内存更为严峻的供应缺口。&lt;/p&gt;
 &lt;p&gt;Lumentum首席执行官Michael Hurlston在本月巴黎举行的RAISE峰会上明确警告：&lt;strong&gt;磷化铟的短缺程度将超过当前内存市场所经历的危机。&lt;/strong&gt;他表示，Lumentum目前运营五座InP晶圆厂，但出货量仍比客户需求低逾30%，且这一缺口较上季度进一步扩大。&amp;quot;我认为我们两家加在一起，也无法满足英伟达和其他客户向我们提出的需求，&amp;quot;Hurlston说，&amp;quot;磷化铟的短缺将比内存市场的情况更为严峻。&amp;quot;&lt;/p&gt;
 &lt;p&gt;市场研究机构SemiAnalysis亦于近日发出类似预警，指出用于近封装光互联的连续波分布反馈（CW DFB）InP激光器供应尤为紧张，行业晶圆尺寸仍普遍停留在2至4英寸阶段，与硅基CMOS的12英寸工艺相去甚远，产能扩张面临结构性制约。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -244,7 +244,18 @@ V4-Flash“每次任务成本”仅3美分，性价比领跑全球主流模型
 &lt;p&gt;过去一年，AI行业竞争焦点已逐渐从模型能力扩展至推理成本和商业化效率。&lt;strong&gt;随着企业AI应用规模不断扩大，模型运行成本正成为采购决策的重要考量因素。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当一款模型能够以约3美分完成一次任务，而部分高端模型成本达到数美元时，企业在部署客服、办公自动化、代码辅助等高频场景时，整体使用成本可能出现数量级下降。&lt;/p&gt;
 &lt;p&gt;这也再次触及华尔街持续关注的问题：AI巨额资本投入最终能否转化为足够的商业回报。&lt;/p&gt;
-&lt;p&gt;2025年初，DeepSeek发布R1模型后，市场曾一度重新评估全球AI基础设施投入的必要性，引发科技股大幅波动。&lt;strong&gt;如今，V4-Flash再次以极低的运行成本作为核心卖点，意味着AI行业的竞争正进一步从&amp;quot;谁的模型更强&amp;quot;，转向&amp;quot;谁能以更低成本提供足够好的能力&amp;quot;&lt;/strong&gt;，AI投资回报率的讨论或将再次升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 吴清：正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作</title><link>https://wallstreetcn.com/articles/3778547</link><guid>c445d570712766a44a8ed3437c998c00120052a98e5dcd57c960b54fe939321e</guid><pubDate>Mon, 03 Aug 2026 04:33:31 GMT</pubDate><description>&lt;p&gt;香港交易所8月3日&lt;strong&gt;正式推出5年期人民币国债期货&lt;/strong&gt;，中国证监会主席吴清致辞。&lt;/p&gt;
+&lt;p&gt;2025年初，DeepSeek发布R1模型后，市场曾一度重新评估全球AI基础设施投入的必要性，引发科技股大幅波动。&lt;strong&gt;如今，V4-Flash再次以极低的运行成本作为核心卖点，意味着AI行业的竞争正进一步从&amp;quot;谁的模型更强&amp;quot;，转向&amp;quot;谁能以更低成本提供足够好的能力&amp;quot;&lt;/strong&gt;，AI投资回报率的讨论或将再次升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国存储又涨价了！传统DRAM、NAND双双创多年新高</title><link>https://wallstreetcn.com/articles/3778580</link><guid>b6db1f9dac1e25ff074197abd52deaefe281cfb54952378660e8e76a8454592b</guid><pubDate>Mon, 03 Aug 2026 10:22:15 GMT</pubDate><description>&lt;p&gt;传统DRAM与NAND闪存价格7月双双创下多年新高，AI服务器持续抢占存储产能，推动传统PC及消费电子存储芯片供应趋紧，存储涨价周期仍未结束。&lt;/p&gt;
+&lt;p&gt;据韩联社援引TrendForce旗下DRAMeXchange数据，&lt;strong&gt;PC用基准DDR4 8Gb DRAM 7月平均合约价升至24美元，环比上涨14.3%，创2016年6月有统计以来新高&lt;/strong&gt;；&lt;strong&gt;128Gb MLC NAND均价升至30.05美元，首次突破30美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;TrendForce预计，AI服务器及高带宽内存（HBM）需求将继续挤占传统DRAM产能，&lt;strong&gt;DRAM供应紧张或持续至2027年&lt;/strong&gt;；相比之下，&lt;strong&gt;NAND市场随着新增产能投放，2027下半年供应有望逐步改善。&lt;/strong&gt;&lt;/p&gt;
+DRAM年内翻倍，NAND累计上涨逾两倍
+&lt;p&gt;&lt;strong&gt;今年以来，DDR4价格持续加速上涨。&lt;/strong&gt;数据显示，DDR4 8Gb平均合约价由1月的11.5美元一路升至7月的24美元，累计上涨约109%；其中4月至5月价格从16美元快速升至20美元，进入三季度后继续刷新历史高位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAND价格涨势更为迅猛。&lt;/strong&gt;128Gb MLC NAND均价由1月9.46美元升至7月30.05美元，累计上涨约218%。&lt;/p&gt;
+&lt;p&gt;其中，韩联社援引数据显示，部分SLC NAND产品7月价格环比上涨35%至51%，明显强于MLC NAND约4%至8%的涨幅。由于持续一年多的涨价已明显推高采购成本，TrendForce指出，下游客户采购态度开始趋于谨慎。&lt;/p&gt;
+AI服务器持续&amp;quot;抢产能&amp;quot;，传统存储供应收缩
+&lt;p&gt;本轮涨价的核心原因仍来自供给端。&lt;/p&gt;
+&lt;p&gt;随着AI服务器需求快速增长，存储厂商持续将产能优先配置至HBM、服务器DRAM以及高层3D NAND等利润率更高的产品，传统PC DRAM及成熟制程NAND供应持续收缩。&lt;/p&gt;
+&lt;p&gt;TrendForce预计，&lt;strong&gt;服务器产品未来仍将持续吸纳DRAM产能，PC DRAM供应将进一步趋紧。&lt;/strong&gt;尽管笔记本电脑涨价已开始抑制终端需求，但供应商在价格谈判中仍占据优势。&lt;/p&gt;
+&lt;p&gt;NAND市场也呈现类似趋势。由于厂商持续向企业级SSD及高层3D NAND倾斜产能，传统NAND产品供应依然偏紧。其中，库存偏低的SLC NAND供需最为紧张，价格表现明显强于MLC产品。SLC NAND广泛应用于汽车电子、网络设备及工业控制等领域。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF投资进阶宝典：如何股债与攻守再平衡？ （08.03）</title><link>http://xueqiu.com/9391624441/403344319</link><guid>e8b6196ded599c991e7d1be35e10e7606231a8db0333c07dd4c333f8f8b3a891</guid><pubDate>Mon, 03 Aug 2026 10:21:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;面对如此极致割裂的市场，我们其实很难答对每一道题，如果想追求精确的操作，其结果往往是一地鸡毛。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 吴清：正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作</title><link>https://wallstreetcn.com/articles/3778547</link><guid>c445d570712766a44a8ed3437c998c00120052a98e5dcd57c960b54fe939321e</guid><pubDate>Mon, 03 Aug 2026 04:33:31 GMT</pubDate><description>&lt;p&gt;香港交易所8月3日&lt;strong&gt;正式推出5年期人民币国债期货&lt;/strong&gt;，中国证监会主席吴清致辞。&lt;/p&gt;
 &lt;p&gt;人民币国债期货作为离岸市场唯一的国债期货合约产品，旨在满足境外投资者日益增长的利率风险管理及交易需求。推出五年期国债期货是推动香港成为离岸人民币枢纽及风险管理中心的重要一步。&lt;/p&gt;
 &lt;p&gt;在香港交易所举行的五年期中国国债期货上市仪式上，吴清表示，将把支持香港国际金融中心建设摆在突出位置。同时，&lt;strong&gt;将一如既往地支持拓展国际布局的境内企业赴香港上市，支持优质港股上市公司在境内上市&lt;/strong&gt;，共同提升服务经济生产力发展质效，同时积极支持符合条件的香港企业到内地发债。&lt;/p&gt;
 &lt;p&gt;吴清表示，&lt;strong&gt;当前中国证监会会同香港方面正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作&lt;/strong&gt;，相信这座大桥将会越来越宽敞，越来越稳固，越来越通畅。&lt;/p&gt;
@@ -321,40 +332,4 @@ V4-Flash“每次任务成本”仅3美分，性价比领跑全球主流模型
 &lt;p&gt;&lt;strong&gt;光伏盘中异动，&lt;/strong&gt;通威股份涨停，此前国晟科技、福莱特涨停，大全能源、亚玛顿、宇邦新材、东方日升、协鑫集成等涨幅靠前。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;消息面上，7月31日，市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，贯彻落实党中央、国务院关于深入整治“内卷式”竞争的决策部署，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。&lt;/p&gt;
-&lt;p&gt;市场监管总局强调，光伏企业要充分认识当前行业发展形势，主动强化成本核算管理，建立健全价格合规制度，全面开展自查自纠，树牢合规经营、理性竞争理念，抵制恶性低价竞争，维护市场价格秩序。头部企业要发挥示范引领作用，严格规范自身价格行为和竞争行为，为行业树立标杆。行业协会要依法加强自律，做好《光伏行业成本核算模型通则》标准宣贯，引导光伏企业预防和制止低价倾销等价格违法行为的发生。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI牛市最糟糕的时候过去了吗？华尔街：真正的考验才刚开始</title><link>https://wallstreetcn.com/articles/3778561</link><guid>39fe4dbecf9d1e3a1dbeb17f4390cc0beae52a6633625bfb29d62d190feebb81</guid><pubDate>Mon, 03 Aug 2026 07:08:37 GMT</pubDate><description>&lt;p&gt;华尔街刚刚经历了数月来最惨烈的一段行情。科技股领跌，债券收益率飙升，油价剧烈波动——多重压力叠加，令投资者陷入深度焦虑：市场最坏的时刻是否已经过去？&lt;/p&gt;
-&lt;p&gt;7月，纳斯达克综合指数累跌3.2%，创下今年3月以来最差单月表现；标普500指数小幅下跌0.1%，仅道琼斯工业平均指数录得0.3%的微幅月度涨幅。&lt;/p&gt;
-&lt;p&gt;与此同时，月末两天的技术性反弹虽带来短暂喘息，但高盛顶级衍生品交易员Brian Garrett警告称，&lt;strong&gt;上周的买盘更多是空头回补的&amp;quot;总量压缩&amp;quot;（gross down），而非真正的多头建仓&lt;/strong&gt;——这一关键区别意味着市场的企稳基础仍不牢固。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;通胀回归、利率前景不明以及AI资本支出的可持续性疑虑，构成压制科技股的三重枷锁。Garrett明确指出，本周非农就业数据与利率走势，将成为检验此前反弹究竟是真实需求回归，还是不过一次仓位清洗的关键试金石。&lt;/p&gt;
-
-通胀重返市场核心叙事
-
-&lt;p&gt;Ritholtz Wealth Management首席市场策略师Callie Cox认为，&lt;strong&gt;投资者必须为更多市场波动做好准备——通胀已重新成为驱动大盘的主导力量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;我并不是在说（下跌）一定会发生，但当前环境足够复杂，我们面临太多高位指标，一旦市场转而向上，复苏之路恐怕也不会平坦，&amp;quot;Cox对MarketWatch表示，&amp;quot;现在通胀是股票投资组合面临的最大风险，而与此同时，经济增长在年末之前也缺乏韧性。&amp;quot;&lt;/p&gt;
-&lt;p&gt;近期数据显示，至少在6月，通胀已出现降温迹象，最新消费者价格指数（CPI）与个人消费支出（PCE）数据均有所回落。但7月油价的再度上扬，令这一进展面临逆转风险。Cox指出，当前通胀的驱动因素与2022年那场由供应链中断和大规模财政刺激引发的价格危机有本质不同，但在长达近四年的牛市强劲上涨之后，利率不确定性与通胀压力已高到足以&amp;quot;持续扰动&amp;quot;股价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-AI需求成本压力向科技股传导
-
-&lt;p&gt;通胀隐患不仅来自能源价格，AI投资热潮本身也在制造新的成本压力。GQG Partners投资组合经理Brian Kersmanc指出，数据中心和AI基础设施大量消耗的内存芯片等关键输入品价格持续上涨，企业最终可能将这部分成本转嫁给客户，从而进一步推升通胀。&lt;/p&gt;
-&lt;p&gt;&amp;quot;通胀在很大程度上是情绪驱动的，&amp;quot;Kersmanc说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;如果有人相信通胀会来，他们就会按照这种预期消费和行动。所以通胀持续的时间越长，它就越容易自我强化。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;对于估值极度偏高的利率敏感型板块——尤其是芯片股——而言，这一逻辑尤为危险。此类公司的预期营收和利润大量来自遥远的未来，当折现率因高利率而抬升时，这些未来现金流的现值便会大幅缩水。&lt;/p&gt;
-&lt;p&gt;不过，Kersmanc也指出了一个反向的正面效应：&lt;strong&gt;高利率不仅压缩估值，也会抑制企业资本支出的意愿和能力。&lt;/strong&gt;&amp;quot;从这个角度看，通胀对超大规模云计算商而言或许反而更有利，因为市场目前最担心的，恰恰是它们过于激进的资本开支，&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;高盛方面的数据印证了这一分化逻辑：上周大市值科技股财报季显示出极为悬殊的市场反应——苹果单日市值蒸发约500亿美元，Meta跌近8%；而亚马逊与微软则双双大涨逾15%，微软更创下有史以来单日市值增加最高纪录（约5500亿美元）。&lt;/p&gt;
-
-大盘表面平静之下暗流涌动
-
-&lt;p&gt;7月整体市场的低迷表现，掩盖了内部深刻的结构性轮动。&lt;/p&gt;
-&lt;p&gt;据FactSet数据，剔除市值权重影响的标普500等权重指数7月实际上涨了1.3%，而市值加权的标普500指数同期下跌0.1%。标普500的11个板块中，有7个在7月录得正收益，仅信息技术、工业、材料和公用事业四个板块收跌。&lt;/p&gt;
-&lt;p&gt;Infrastructure Capital Advisors首席执行官兼首席投资官Jay Hatfield将这种现象归因于地缘政治阴云的持续笼罩：&amp;quot;战争的压顶之势下，市场能做的只有轮动。&amp;quot;他同时警告，对冲基金去杠杆的过程可能尚未完全结束，由此引发的抛售仍将制造持续的波动。&lt;/p&gt;
-&lt;p&gt;高盛数据对此提供了进一步佐证：上周科技股多头抛售曾在周二达到高盛有记录以来三日最大规模，随后在周五出现重新建仓迹象——同一周内从历史性的卖出到初步复苏，足以说明当前行情的极端难度。&lt;/p&gt;
-
-反弹真实性存疑，关键门槛待突破
-
-&lt;p&gt;即便上周末市场出现明显反弹，高盛的Brian Garrett也明确建议保持审慎。&lt;strong&gt;他指出，上周的净买入规模为2020年11月以来最大，但驱动力主要来自空头回补，而非多头主动加仓——两者在衍生品市场的比例约为2:1。&lt;/strong&gt;这意味着，这一轮反弹更像是仓位出清之后的技术性修复，而非新一轮买盘驱动的趋势性行情。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在市场结构层面，标普500指数此前连续六个交易日收于50日均线以下；CTA策略在美国市场的趋势信号仍略偏负面，关键支撑位分别为7445点和7215点。与此同时，全球杠杆ETF的资产规模自6月以来已骤降约600亿美元（降幅约28%），实际净敞口更大幅缩水约1700亿美元——这一庞大的强制去杠杆压力仍是市场结构的潜在隐患。&lt;/p&gt;
-&lt;p&gt;Garrett目前倾向于在系统性去杠杆周期趋于尾声的假设下布局：通过做多波动率下行、买入标普500三个月期上涨期权等策略，押注市场&amp;quot;缓慢爬升&amp;quot;的情景。但他同时强调，本周非农就业数据以及利率和企业盈利能否&amp;quot;验证&amp;quot;上周五的反弹，将是这一判断成立与否的真正考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;市场监管总局强调，光伏企业要充分认识当前行业发展形势，主动强化成本核算管理，建立健全价格合规制度，全面开展自查自纠，树牢合规经营、理性竞争理念，抵制恶性低价竞争，维护市场价格秩序。头部企业要发挥示范引领作用，严格规范自身价格行为和竞争行为，为行业树立标杆。行业协会要依法加强自律，做好《光伏行业成本核算模型通则》标准宣贯，引导光伏企业预防和制止低价倾销等价格违法行为的发生。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 剥开核心资产的财务伪装：从市赚率到破妄率的进阶定价逻辑</title><link>http://xueqiu.com/2884313460/403303581</link><guid>3688f4827b51e1facaf7c4eea61279636703fdb1ace7a6dc55af4fe158bbff04</guid><pubDate>Mon, 03 Aug 2026 10:21:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;纵观多轮牛熊更迭，长周期市场的铁顶往往横亘在四千二百点区间。在这个宽幅震荡周期里，频繁的波段交易终将沦为零和博弈。作为一名坚守价值的长期股权持有者，我的应对策略始终是锁仓高现金流核心资产，拒绝瞎折腾，用源源不断的股息对冲宏观的不确定性。在这个过程中，如何精准量化一家企业的真实投资价值，成为了决定成败的关键。&lt;/p&gt;</description></item><item><title>[今日雪球] 对AI应用是否迎来拐点的思考</title><link>http://xueqiu.com/5332385101/403328642</link><guid>d672ec28d5f3263d5453a3ddcafd817cf88cdb94fe99fc865241c728a270a67e</guid><pubDate>Mon, 03 Aug 2026 10:20:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，在全球科技经历一系列剧烈波动的过程中，资金关注度也发生了微妙的转变。过去两年，市场核心始终围绕算力基础设施和硬件端展开。但刚刚过去的七月告诉我们，无差别、一味拔高硬件估值的阶段或许已经过去。&lt;/p&gt;</description></item></channel></rss>
