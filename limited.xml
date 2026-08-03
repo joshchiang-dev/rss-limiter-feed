@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 12:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] “InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈</title><link>https://wallstreetcn.com/articles/3778565</link><guid>8bda1c1420fd9c8091e011a913a1b5792bd0481de1dcd53b6f23a5c115312cae</guid><pubDate>Mon, 03 Aug 2026 07:53:38 GMT</pubDate><description>&lt;p&gt;磷化铟（InP）正在成为AI基础设施扩张链条上最薄弱的一环。随着数据中心对光互联需求呈数量级增长，这一不可替代的化合物半导体材料正面临比内存更为严峻的供应缺口。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 13:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] “InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈</title><link>https://wallstreetcn.com/articles/3778565</link><guid>8bda1c1420fd9c8091e011a913a1b5792bd0481de1dcd53b6f23a5c115312cae</guid><pubDate>Mon, 03 Aug 2026 07:53:38 GMT</pubDate><description>&lt;p&gt;磷化铟（InP）正在成为AI基础设施扩张链条上最薄弱的一环。随着数据中心对光互联需求呈数量级增长，这一不可替代的化合物半导体材料正面临比内存更为严峻的供应缺口。&lt;/p&gt;
 &lt;p&gt;Lumentum首席执行官Michael Hurlston在本月巴黎举行的RAISE峰会上明确警告：&lt;strong&gt;磷化铟的短缺程度将超过当前内存市场所经历的危机。&lt;/strong&gt;他表示，Lumentum目前运营五座InP晶圆厂，但出货量仍比客户需求低逾30%，且这一缺口较上季度进一步扩大。&amp;quot;我认为我们两家加在一起，也无法满足英伟达和其他客户向我们提出的需求，&amp;quot;Hurlston说，&amp;quot;磷化铟的短缺将比内存市场的情况更为严峻。&amp;quot;&lt;/p&gt;
 &lt;p&gt;市场研究机构SemiAnalysis亦于近日发出类似预警，指出用于近封装光互联的连续波分布反馈（CW DFB）InP激光器供应尤为紧张，行业晶圆尺寸仍普遍停留在2至4英寸阶段，与硅基CMOS的12英寸工艺相去甚远，产能扩张面临结构性制约。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -261,7 +261,39 @@ V4-Flash“每次任务成本”仅3美分，性价比领跑全球主流模型
 &lt;p&gt;过去一年，AI行业竞争焦点已逐渐从模型能力扩展至推理成本和商业化效率。&lt;strong&gt;随着企业AI应用规模不断扩大，模型运行成本正成为采购决策的重要考量因素。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当一款模型能够以约3美分完成一次任务，而部分高端模型成本达到数美元时，企业在部署客服、办公自动化、代码辅助等高频场景时，整体使用成本可能出现数量级下降。&lt;/p&gt;
 &lt;p&gt;这也再次触及华尔街持续关注的问题：AI巨额资本投入最终能否转化为足够的商业回报。&lt;/p&gt;
-&lt;p&gt;2025年初，DeepSeek发布R1模型后，市场曾一度重新评估全球AI基础设施投入的必要性，引发科技股大幅波动。&lt;strong&gt;如今，V4-Flash再次以极低的运行成本作为核心卖点，意味着AI行业的竞争正进一步从&amp;quot;谁的模型更强&amp;quot;，转向&amp;quot;谁能以更低成本提供足够好的能力&amp;quot;&lt;/strong&gt;，AI投资回报率的讨论或将再次升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国央行抄底黄金，13年来首次增持！</title><link>https://wallstreetcn.com/articles/3778584</link><guid>ca6228abb9658cdff52d4302f1b8844b6cbdc0a9e999ae1568bd638e1d2c7666</guid><pubDate>Mon, 03 Aug 2026 11:16:50 GMT</pubDate><description>&lt;p&gt;韩国央行时隔逾13年重启黄金购买计划，并同步布局黄金ETF，标志着这家长期因政治压力而回避黄金的央行正式转向，加入全球央行增持黄金的浪潮。&lt;/p&gt;
+&lt;p&gt;2025年初，DeepSeek发布R1模型后，市场曾一度重新评估全球AI基础设施投入的必要性，引发科技股大幅波动。&lt;strong&gt;如今，V4-Flash再次以极低的运行成本作为核心卖点，意味着AI行业的竞争正进一步从&amp;quot;谁的模型更强&amp;quot;，转向&amp;quot;谁能以更低成本提供足够好的能力&amp;quot;&lt;/strong&gt;，AI投资回报率的讨论或将再次升温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 8000亿资本开支不是顶？高盛：少算了非美及私募投资，今年AI实际投资有望超过1万亿</title><link>https://wallstreetcn.com/articles/3778593</link><guid>860cdd3aa0d9102d91cbe9b9c405f66567e97679a20482cf93e6dda4a5f2e692</guid><pubDate>Mon, 03 Aug 2026 12:57:18 GMT</pubDate><description>&lt;p&gt;全球AI投资规模远超市场普遍认知。高盛最新研究报告指出，被广泛引用的约8000亿美元超大规模云服务商（hyperscaler）资本开支预测存在系统性低估，一旦纳入私募企业及非美国公司的投资，并剔除非AI相关支出，2026年全球AI投资总额预计将达到1.019万亿美元。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛经济学家Joseph Briggs与Sarah Dong在8月2日发布的《全球经济分析》报告中指出，&lt;strong&gt;常被引用的约7940亿美元超大规模云服务商资本开支数据，既低估了全球AI资本开支总量约2000亿美元，同时又高估了美国境内投资约2000亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;经调整后&lt;strong&gt;，高盛估计2026年美国境内AI投资约为5810亿美元，全球总量则约为1.019万亿美元。&lt;/strong&gt;两项交叉验证方法——上市公司毛利润预测修正及官方国民账户与贸易数据——分别指向2026年全球AI投资规模约为1.06万亿美元和1.002万亿美元，与主估算高度吻合。&lt;/p&gt;
+&lt;p&gt;对于宏观市场而言，这一重新测算具有直接影响：它意味着AI资本开支周期的体量与持续性均强于此前预期，而高盛领先指标显示近期增长势头依然强劲，尽管来自中国台湾地区和韩国的贸易数据预示6月和7月投资增速可能出现温和放缓。&lt;/p&gt;
+常用指标的四大缺陷
+&lt;p&gt;高盛报告指出，以超大规模云服务商资本开支作为AI投资代理指标存在四项根本性缺陷。&lt;/p&gt;
+&lt;p&gt;第一，该指标忽略了在AI生态系统中扮演关键角色的美国私募企业投资，以及其他上市公司的资本开支——高盛信贷团队数据显示，超大规模云服务商在2026年AI相关供应中仅直接占比40%。&lt;/p&gt;
+&lt;p&gt;第二，该指标完全遗漏了非美国企业的投资，尤其是中国及亚洲其他地区的企业。&lt;/p&gt;
+&lt;p&gt;第三，超大规模云服务商在AI热潮兴起之前的资本开支已超过1500亿美元，意味着当前部分支出与AI无关。&lt;/p&gt;
+&lt;p&gt;第四，美国超大规模云服务商在全球运营，其资本开支中相当一部分实际发生在美国境外。&lt;/p&gt;
+&lt;p&gt;基于上述判断，高盛对标准超大规模云服务商资本开支数据进行了多维度调整：纳入其AI投资篮子中其他上市公司的资本开支预测&lt;strong&gt;，补充关键私募企业的媒体披露数据，加入非美国AI相关企业的资本开支，并以2022年资本开支水平作为基准剔除非AI相关投资。&lt;/strong&gt;&lt;/p&gt;
+三种方法殊途同归，均指向逾1万亿美元
+&lt;p&gt;高盛采用三种独立方法对全球AI投资规模进行估算，结果高度一致。&lt;/p&gt;
+&lt;p&gt;主估算方法（增强版超大规模云服务商资本开支）显示，2&lt;strong&gt;026年全球AI投资为1.019万亿美元，其中美国境内5810亿美元。&lt;/strong&gt;在地理分布上，高盛依据超大规模云服务商已公布投资项目的地点数据进行分配，估计约70%的美国超大规模云服务商资本开支流向美国境内项目，15%流向亚洲，9%流向欧洲。&lt;/p&gt;
+&lt;p&gt;第一项交叉验证方法通过追踪AI相关上市公司毛利润预测相对于2022年基准的修正幅度来衡量最终需求增量，结果显示2026年全球AI投资约为1.06万亿美元，自2022年以来AI相关支出累计增加逾1万亿美元。&lt;/p&gt;
+&lt;p&gt;第二项交叉验证方法基于官方国民账户与全球贸易数据。美国国民账户数据显示，截至2026年5月，美国AI相关硬件投资年化规模已升至约4630亿美元（较2022年基准），叠加AI相关研发及知识产权投资约1000亿美元，美国当前AI投资年化总量接近6000亿美元。对于数据披露较少的其他国家，高盛利用全球贸易数据及美国进口与总投资之间的历史关系进行推算，得出全球AI投资约为1.002万亿美元。&lt;/p&gt;
+&lt;p&gt;三种方法平均结果显示，2022年至2026年底全球AI投资累计总额将达1.8万亿美元。&lt;/p&gt;
+资本开支占GDP比重料持续攀升，与历史技术周期相符
+&lt;p&gt;在AI资本开支的中长期走势上，高盛基于公共公司资本开支的市场一致预期进行外推，预计AI资本开支占GDP比重将持续上升。&lt;/p&gt;
+&lt;p&gt;具体而言，&lt;strong&gt;美国AI资本开支占GDP比重将从2026年的1.8%升至2027年的2.5%，并进一步升至2028年的2.8%；全球口径则分别对应0.9%、1.3%和1.4%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛指出，上述水平与历史上通用技术（GPT）建设周期中2%至5%的GDP峰值投资冲击相符，即便市场对2027年资本开支预测存在显著上调空间，AI投资占GDP比重仍将处于历史技术周期的合理区间之内。&lt;/p&gt;
+&lt;p&gt;高盛同时指出，AI资本开支增速何时放缓是当前宏观市场的核心不确定性来源之一，建议采用&amp;quot;仪表盘&amp;quot;方式综合追踪多项领先指标，包括中国台湾地区和韩国半导体制造设备进口、相关PMI分项指标、进口价格以及内存采购和GPU租赁价格等。&lt;/p&gt;
+&lt;p&gt;目前所有领先指标均处于2022年以来的高位区间，显示近期增长前景依然稳健。&lt;/p&gt;
+通胀因素侵蚀实际投资增量，对GDP拉动效应有限
+&lt;p&gt;尽管名义AI投资规模持续扩张，高盛提示投资者关注成本通胀对实际投资增量的侵蚀效应。&lt;/p&gt;
+&lt;p&gt;官方美国数据显示&lt;strong&gt;，2026年迄今名义AI相关硬件支出增量中，有8%应归因于成本通胀而非实际投资扩张。若这一趋势延续至2026年下半年，则2026年AI相关支出增加对实际投资的拉动将小于2025年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛同时强调，AI投资对美国整体GDP水平的影响依然有限，原因在于两方面的测量偏差：其一，美国国民账户不将半导体采购计入投资品；其二，AI硬件的高进口含量在计算GDP时已被净扣除。这意味着即便AI资本开支持续高速增长，其对宏观经济总量的直接贡献仍受到结构性制约。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国央行抄底黄金，13年来首次增持！</title><link>https://wallstreetcn.com/articles/3778584</link><guid>ca6228abb9658cdff52d4302f1b8844b6cbdc0a9e999ae1568bd638e1d2c7666</guid><pubDate>Mon, 03 Aug 2026 11:16:50 GMT</pubDate><description>&lt;p&gt;韩国央行时隔逾13年重启黄金购买计划，并同步布局黄金ETF，标志着这家长期因政治压力而回避黄金的央行正式转向，加入全球央行增持黄金的浪潮。&lt;/p&gt;
 &lt;p&gt;韩国银行（Bank of Korea）宣布，&lt;strong&gt;将在中长期内扩大黄金在外汇储备中的占比，并引入从国内黄金生产商采购出口用黄金的新渠道。&lt;/strong&gt;与此同时，&lt;strong&gt;该行还开始购买以黄金为标的的美国交易所交易基金（ETF），但ETF在外汇储备统计中归类为证券而非黄金。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次重启购金，终结了自2013年2月以来长达13年的空窗期。韩国银行外汇储备管理部门负责人Jeong Hee-seop表示，&lt;strong&gt;地缘政治风险上升推动市场对黄金避险属性的关注度提高，加之金价已从高位回落，价格压力有所减轻，该行判断有必要扩大黄金持有量。&lt;/strong&gt;&lt;/p&gt;
 黄金占比垫底，增持压力积聚
@@ -283,16 +315,4 @@ V4-Flash“每次任务成本”仅3美分，性价比领跑全球主流模型
 &lt;p&gt;韩国银行此次转向，契合全球央行加速增持黄金的大背景。在美国金融制裁风险上升的背景下，各国央行正通过扩大黄金储备来降低对美元资产的依赖。&lt;/p&gt;
 &lt;p&gt;世界黄金协会数据显示，2024年至今年7月底，波兰央行购金量居全球首位，达255.2吨，其次为中国（96.1吨）和印度（76.9吨）。&lt;/p&gt;
 &lt;p&gt;截至上月，全球黄金储备最多的国家依次为美国（8134吨）、德国（3350吨）、意大利（2452吨）和法国（2437吨）；正在削减美债持仓的中国和俄罗斯分别以2332吨和2292吨位列第五和第六。&lt;/p&gt;
-&lt;p&gt;世界黄金协会上月发布的一项针对74家央行的调查显示，45%（33个国家）计划在一年内增加黄金储备，60个国家预计未来五年黄金持有量将持续增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储“三把手”：当前利率处于“良好位置”，预计今年下半年通胀将降温</title><link>https://wallstreetcn.com/articles/3778591</link><guid>90c4d075c75aea12103640f2d3e035ad56a22992c92c4256444a631cbbcccc63</guid><pubDate>Mon, 03 Aug 2026 12:12:20 GMT</pubDate><description>&lt;p&gt;美联储&amp;quot;三把手&amp;quot;纽约联储主席威廉姆斯表示，&lt;strong&gt;当前货币政策立场适宜，通胀有望在今年下半年回落，美联储无需急于调整利率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;威廉姆斯周一在接受路透社采访时表示&lt;strong&gt;，&amp;quot;就我个人预测而言，通胀将在今年下半年下降，并在明年进一步回落。&amp;quot;&lt;/strong&gt;他同时强调，&lt;strong&gt;当前货币政策&amp;quot;处于良好位置&amp;quot;，足以支撑去通胀进程。&lt;/strong&gt;这一表态为美联储在近期维持利率不变的决定提供了背书，也向市场传递出官员对现有政策框架的信心。&lt;/p&gt;
-&lt;p&gt;上周，美联储将基准利率维持在3.5%至3.75%区间不变，但会议并非毫无分歧——三位官员投票支持加息25个基点，理由是当前按兵不动可能迫使未来采取更激进的紧缩行动。威廉姆斯的表态在一定程度上与这一鹰派立场形成对照，凸显出联储内部在政策路径上的分歧。&lt;/p&gt;
-利率立场：维持现状，静待数据
-&lt;p&gt;威廉姆斯明确表示，现阶段货币政策无需调整。&lt;strong&gt;&amp;quot;我认为货币政策目前处于良好位置，能够支持去通胀路径，&amp;quot;&lt;/strong&gt;他说。&lt;/p&gt;
-&lt;p&gt;不过，他也为政策灵活性留有余地。&lt;/p&gt;
-&lt;p&gt;他表示，&lt;strong&gt;若经济走势偏离预期、通胀未能如期回落至2%目标，美联储将&amp;quot;绝对有必要采取行动&amp;quot;&lt;/strong&gt;。&lt;strong&gt;&amp;quot;如果经济未能走上将通胀带回2%的轨道，在我看来，采取行动以使我们回到这一轨道将是完全适当的，&lt;/strong&gt;&amp;quot;他说。&lt;/p&gt;
-近期通胀数据提供喘息空间
-&lt;p&gt;部分通胀数据已为决策者带来一定缓解。美联储最青睐的通胀指标——个人消费支出（PCE）价格指数——6月环比下降0.1%，此前公布的另一项通胀报告也呈现类似走势，汽油价格下跌是主要拖累因素。&lt;/p&gt;
-&lt;p&gt;近日，随着美伊和平谈判重启的消息传出，油价再度走低，进一步压低了能源价格预期。威廉姆斯表示，随着中东冲突对价格的推升效应逐步消退，剔除能源和食品的核心通胀指标也应趋于缓和。&lt;/p&gt;
-&lt;p&gt;威廉姆斯表示，他目前高度关注未来数月核心通胀数据的走向，以判断通胀是否正沿着可持续的去通胀路径向2%目标靠拢。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;我相当坦诚地说，我非常关注未来几个月核心通胀数据的表现，以及这是否与通胀朝2%迈进的运行速率相符，并真正处于去通胀路径上，从而使我们能够在2028年持续实现2%的通胀目标，&lt;/strong&gt;&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;在基准情景下，威廉姆斯预计中东局势不会在今年下半年或明年持续推高通胀，但他也承认，&amp;quot;这显然可能随情况变化而改变&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF投资进阶宝典：如何股债与攻守再平衡？ （08.03）</title><link>http://xueqiu.com/9391624441/403344319</link><guid>e8b6196ded599c991e7d1be35e10e7606231a8db0333c07dd4c333f8f8b3a891</guid><pubDate>Mon, 03 Aug 2026 10:21:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;面对如此极致割裂的市场，我们其实很难答对每一道题，如果想追求精确的操作，其结果往往是一地鸡毛。&lt;/p&gt;</description></item><item><title>[今日雪球] 剥开核心资产的财务伪装：从市赚率到破妄率的进阶定价逻辑</title><link>http://xueqiu.com/2884313460/403303581</link><guid>3688f4827b51e1facaf7c4eea61279636703fdb1ace7a6dc55af4fe158bbff04</guid><pubDate>Mon, 03 Aug 2026 10:21:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;纵观多轮牛熊更迭，长周期市场的铁顶往往横亘在四千二百点区间。在这个宽幅震荡周期里，频繁的波段交易终将沦为零和博弈。作为一名坚守价值的长期股权持有者，我的应对策略始终是锁仓高现金流核心资产，拒绝瞎折腾，用源源不断的股息对冲宏观的不确定性。在这个过程中，如何精准量化一家企业的真实投资价值，成为了决定成败的关键。&lt;/p&gt;</description></item><item><title>[今日雪球] 对AI应用是否迎来拐点的思考</title><link>http://xueqiu.com/5332385101/403328642</link><guid>d672ec28d5f3263d5453a3ddcafd817cf88cdb94fe99fc865241c728a270a67e</guid><pubDate>Mon, 03 Aug 2026 10:20:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，在全球科技经历一系列剧烈波动的过程中，资金关注度也发生了微妙的转变。过去两年，市场核心始终围绕算力基础设施和硬件端展开。但刚刚过去的七月告诉我们，无差别、一味拔高硬件估值的阶段或许已经过去。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;世界黄金协会上月发布的一项针对74家央行的调查显示，45%（33个国家）计划在一年内增加黄金储备，60个国家预计未来五年黄金持有量将持续增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] ETF投资进阶宝典：如何股债与攻守再平衡？ （08.03）</title><link>http://xueqiu.com/9391624441/403344319</link><guid>e8b6196ded599c991e7d1be35e10e7606231a8db0333c07dd4c333f8f8b3a891</guid><pubDate>Mon, 03 Aug 2026 10:21:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;面对如此极致割裂的市场，我们其实很难答对每一道题，如果想追求精确的操作，其结果往往是一地鸡毛。&lt;/p&gt;</description></item><item><title>[今日雪球] 剥开核心资产的财务伪装：从市赚率到破妄率的进阶定价逻辑</title><link>http://xueqiu.com/2884313460/403303581</link><guid>3688f4827b51e1facaf7c4eea61279636703fdb1ace7a6dc55af4fe158bbff04</guid><pubDate>Mon, 03 Aug 2026 10:21:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;纵观多轮牛熊更迭，长周期市场的铁顶往往横亘在四千二百点区间。在这个宽幅震荡周期里，频繁的波段交易终将沦为零和博弈。作为一名坚守价值的长期股权持有者，我的应对策略始终是锁仓高现金流核心资产，拒绝瞎折腾，用源源不断的股息对冲宏观的不确定性。在这个过程中，如何精准量化一家企业的真实投资价值，成为了决定成败的关键。&lt;/p&gt;</description></item><item><title>[今日雪球] 对AI应用是否迎来拐点的思考</title><link>http://xueqiu.com/5332385101/403328642</link><guid>d672ec28d5f3263d5453a3ddcafd817cf88cdb94fe99fc865241c728a270a67e</guid><pubDate>Mon, 03 Aug 2026 10:20:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，在全球科技经历一系列剧烈波动的过程中，资金关注度也发生了微妙的转变。过去两年，市场核心始终围绕算力基础设施和硬件端展开。但刚刚过去的七月告诉我们，无差别、一味拔高硬件估值的阶段或许已经过去。&lt;/p&gt;</description></item></channel></rss>
