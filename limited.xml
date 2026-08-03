@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 03:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 对冲基金史上最大去杠杆潮后，高盛交易台录得2020年11月以来最大净买入</title><link>https://wallstreetcn.com/articles/3778536</link><guid>270b0bc1d5132bc33a666f7381d2b47fbcf5114c272f2d974cb965633ef7a047</guid><pubDate>Mon, 03 Aug 2026 01:41:56 GMT</pubDate><description>&lt;p&gt;上周，标普500指数全周上涨约1%——表面平静，内部却是惊涛骇浪。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 03 Aug 2026 04:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 对冲基金史上最大去杠杆潮后，高盛交易台录得2020年11月以来最大净买入</title><link>https://wallstreetcn.com/articles/3778536</link><guid>270b0bc1d5132bc33a666f7381d2b47fbcf5114c272f2d974cb965633ef7a047</guid><pubDate>Mon, 03 Aug 2026 01:41:56 GMT</pubDate><description>&lt;p&gt;上周，标普500指数全周上涨约1%——表面平静，内部却是惊涛骇浪。&lt;/p&gt;
 &lt;p&gt;根据高盛Delta One交易台发布的《每周市场简报》（Weekly Rundown），这一周集中了多个极端事件：动量因子波动率创历史纪录、美联储鹰派按兵不动、Q2财报季高峰，以及逾3年来规模最大的对冲基金集中去杠杆。&lt;/p&gt;
 &lt;p&gt;而在去杠杆趋势逆转后，&lt;strong&gt;高盛交易台录得2020年11月以来最大净买入，几乎全部由空头回补驱动，宏观产品和个股均现净买入。&lt;/strong&gt;&lt;/p&gt;
 去杠杆：3年来最猛烈的一次
@@ -117,68 +117,7 @@
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色</title><link>https://wallstreetcn.com/articles/3778546</link><guid>89542a59a322b7dc8091ab681a67d9ef801fa3071e1fec691a6ddbe66a99493b</guid><pubDate>Mon, 03 Aug 2026 03:07:40 GMT</pubDate><description>&lt;p&gt;阿里巴巴旗下千问（Qwen）团队于8月3日正式发布千问3.8-Max，总参数量2.4万亿，激活参数95B，是千问家族迄今规模最大、能力最强的模型。这也是千问首次将Max级别模型开源——权重将于下周在开源社区Hugging Face和ModelScope发布。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;定价方面&lt;/strong&gt;，千问3.8-Max通过千问AI平台（阿里云）提供API调用：&lt;strong&gt;输入2.0美元/百万tokens，输出6.0美元/百万tokens，隐式缓存0.25美元/百万tokens。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;基准测试显示，&lt;strong&gt;千问3.8-Max在编程智能体和通用智能体多项指标上与Anthropic Fable5表现相当，部分指标超越后者&lt;/strong&gt;。例如，PaperBench得分93.0，高于Fable5的88.8；CoWorkBench得分74.8，与Fable5的75.9接近；WideSearch得分81.9，与Fable5的81.2持平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-性能：与 Fable 5 相当，部分超越
-&lt;p&gt;根据千问团队发布的完整基准测试数据，Qwen3.8-Max 在多个核心指标上与 Anthropic Claude Fable 5 持平或超出：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;PaperBench&lt;/strong&gt;（论文能力）：Qwen3.8-Max 得分 &lt;strong&gt;93.0&lt;/strong&gt;，超过 Fable 5 的 88.8 和 GPT-5.6 Sol 的 90.5&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IFBench&lt;/strong&gt;：Qwen3.8-Max &lt;strong&gt;82.8&lt;/strong&gt;，Fable 5 为 63.5，GPT-5.6 Sol 为 72.7&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;HealthBench&lt;/strong&gt;：Qwen3.8-Max &lt;strong&gt;60.2&lt;/strong&gt;，超过 GPT-5.6 Sol 的 55.3&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CoWorkBench&lt;/strong&gt;（通用协作）：Qwen3.8-Max &lt;strong&gt;74.8&lt;/strong&gt;，Fable 5 为 75.9，差距极小&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;JobBench&lt;/strong&gt;（AI工作能力）：Qwen3.8-Max &lt;strong&gt;53.4&lt;/strong&gt;，接近 Fable 5 的 57.4&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;多模态方面同样表现突出：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;OSWorld-Verified&lt;/strong&gt;：Qwen3.8-Max &lt;strong&gt;86.1&lt;/strong&gt;，超过 Fable 5 的 85.0&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AndroidWorld&lt;/strong&gt;：&lt;strong&gt;85.3&lt;/strong&gt;，Fable 5 为 88.8&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MLVU（长视频）&lt;/strong&gt;：&lt;strong&gt;90.8&lt;/strong&gt;，Fable 5 无数据&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;值得注意的是，Fable 5 的部分结果可能包含回退机制，千问团队在注释中对此作了说明。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-编程能力：从空文件夹到生产级交付
-&lt;p&gt;千问团队用三个真实案例测试了千问3.8-Max的自主编程能力，全程无人工介入。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;案例一：十天级自动编程。&lt;/strong&gt; 模型从零创建oh-my-cli项目，自主运行约16天，累计完成265次commits、127个PR、151个issues。它将用户反馈、社区实践与自测结果统一纳入工程循环，实现需求自动领取、代码生成、测试验证的完整闭环。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;案例二：复现并超越论文。&lt;/strong&gt; 模型独立工作约125小时，写下约7,600行代码，执行超过1,100步操作，跑了33轮GPU训练，完整复现了论文《Unified Data Selection for LLM Reasoning》的六项主要结论。随后进入&amp;quot;自我进化&amp;quot;阶段，提出并测试18种改进方案，最终在竞赛级数学基准AIME24上比论文原方法再提升2.7分。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;案例三：24小时击败87%人类队伍。&lt;/strong&gt; 模型参加WWW2025多模态对话意图识别挑战赛，在526支人类队伍中，经45次提交迭代，准确率从0.60升至0.853，击败458支队伍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-办公与长程任务：数百职业场景的生产级验证
-&lt;p&gt;千问团队在数百种高价值职业场景中测试了千问3.8-Max的实际交付能力。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;企业合规律师&lt;/strong&gt;：单次通读数百份文档，标出1,284条相关条款，一小时内完成——同等工作通常需要法务团队约一周。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;UI/UX设计师&lt;/strong&gt;：生成包含8个页面的高保真可交互原型，全程未经人工返修。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;结构工程师&lt;/strong&gt;：仅凭一份图纸，在浏览器中还原30层写字楼的抗震结构模型，传统流程需一周以上。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;量化研究&lt;/strong&gt;：从一句任务描述出发，调度约330个子智能体，完成约6,000次回测，将原本需要数周的量化研究压缩为一次对话内完成。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在E-Commerce Bench（365天电商经营模拟基准）中，千问3.8-Max以¥416,252（4.16倍回报）胜出，超过第二名GLM 5.2达38%，较上一代千问3.7-Max提升152%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-芯片设计：500轮交互，面积缩减81%
-&lt;p&gt;千问3.8-Max在芯片设计优化任务中展示了长程自主规划能力。&lt;/p&gt;
-&lt;p&gt;目标是优化一个G CD/RSA密码硬件加速器的逻辑门数量。模型在无参考设计、无人工干预的条件下，历经约500轮交互、71次评估，跨越13个关键里程碑，将初始设计从8,298门优化至678门，在所有参评模型中表现最优。&lt;/p&gt;
-&lt;p&gt;物理实现层面，芯片面积从106×106 µm²收缩至46×46 µm²，布线长度从33,369 µm降至4,187 µm，并实现500 MHz频率下的时序闭合，芯片面积整体缩减81%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-多模态能力：视觉贯穿执行全流程
-&lt;p&gt;千问3.8-Max的视觉能力不止于&amp;quot;看懂图片&amp;quot;，而是作为持续反馈回路贯穿任务执行。&lt;/p&gt;
-&lt;p&gt;模型在执行过程中会持续观察中间产物——检查页面布局、物体方向、动画效果——发现问题后自主定位偏差并修正。千问团队将这一能力定义为&amp;quot;原生视觉反馈回路&amp;quot;。&lt;/p&gt;
-&lt;p&gt;基准测试方面，千问3.8-Max在OSWorld-Verified得分86.1，超过Fable5的85.0；AndroidWorld得分85.3，接近Fable5的88.8；ParametricCAD Bench得分91.5，超过Fable5的87.5。&lt;/p&gt;
-&lt;p&gt;为便于开发者接入，千问团队同步推出千问-MM-Plugins，为不同智能体框架提供图像与视频处理、多模态记忆、视觉工具调用等扩展支持。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-开放接入：支持Claude Code、Codex等主流框架
-&lt;p&gt;千问3.8-Max现已通过千问AI平台提供API服务，支持OpenAI兼容协议和Anthropic兼容协议，可直接与Claude Code、Codex、Qoder CLI、千问 Code、OpenClaw等主流开发工具集成。&lt;/p&gt;
-&lt;p&gt;API支持&lt;code&gt;reasoning_effort&lt;/code&gt;参数调节推理深度：&lt;code&gt;xhigh&lt;/code&gt;（默认，适合复杂任务）、&lt;code&gt;medium&lt;/code&gt;（平衡准确性与速度）、&lt;code&gt;low&lt;/code&gt;（优化速度与成本）。&lt;/p&gt;
-&lt;p&gt;模型权重将于下周在Hugging Face和ModelScope开源，届时千问3.8-27B也将同步开源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊谈判乐观情绪升温，油价大跌、美股期货走高、韩股走势分化</title><link>https://wallstreetcn.com/articles/3778526</link><guid>98388074d7a40d8594806af411c2b9276d4eab40a2d9b2943e4f808d326e45ac</guid><pubDate>Mon, 03 Aug 2026 01:42:33 GMT</pubDate><description>&lt;p&gt;国际油价周一亚市早盘大幅下挫，美国股指期货同步走高，此前特朗普宣布美伊将于周一重启谈判，市场对霍尔木兹海峡重新开放的预期明显升温。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊谈判乐观情绪升温，油价大跌、美股期货走高、韩股走势分化</title><link>https://wallstreetcn.com/articles/3778526</link><guid>98388074d7a40d8594806af411c2b9276d4eab40a2d9b2943e4f808d326e45ac</guid><pubDate>Mon, 03 Aug 2026 01:42:33 GMT</pubDate><description>&lt;p&gt;国际油价周一亚市早盘大幅下挫，美国股指期货同步走高，此前特朗普宣布美伊将于周一重启谈判，市场对霍尔木兹海峡重新开放的预期明显升温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据央视新闻，当地时间8月2日，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。&lt;/strong&gt;特朗普表示，美国将于3日与伊朗进行谈判。特朗普此前表示，在沙特阿拉伯等中东盟友的劝说下，他已决定放弃对伊朗发动大规模军事打击，转而寻求谈判解决。&lt;/p&gt;
 &lt;p&gt;布伦特原油10月期货合约一度下跌7.3%至每桶81.55美元，为近期最大单日跌幅之一。与此同时，标普500指数期货上涨0.4%，纳斯达克100指数期货上涨0.76%。&lt;/p&gt;
 &lt;p&gt;日韩股市低开，日经225指数低开1%，韩国首尔综指低开3.6%，截止目前韩国首尔综指跌超4%，kosdaq则触发熔断，韩国交易所启动Sidecar机制，暂停KOSDAQ市场程序化买盘。&lt;/p&gt;
@@ -346,7 +285,68 @@
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “网红券商”Robinhood收入结构巨变：预测市场收入已超过股票交易</title><link>https://wallstreetcn.com/articles/3778532</link><guid>096d0cb3202e937ac820cb63bd104e3f5b572b0e2357b5aae7990cb21f76ceb4</guid><pubDate>Mon, 03 Aug 2026 01:33:15 GMT</pubDate><description>&lt;p&gt;这家以零佣金起家的券商，正在把赌球和押注大选变成一门大生意。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色</title><link>https://wallstreetcn.com/articles/3778546</link><guid>89542a59a322b7dc8091ab681a67d9ef801fa3071e1fec691a6ddbe66a99493b</guid><pubDate>Mon, 03 Aug 2026 03:07:40 GMT</pubDate><description>&lt;p&gt;阿里巴巴旗下千问（Qwen）团队于8月3日正式发布千问3.8-Max，总参数量2.4万亿，激活参数95B，是千问家族迄今规模最大、能力最强的模型。这也是千问首次将Max级别模型开源——权重将于下周在开源社区Hugging Face和ModelScope发布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定价方面&lt;/strong&gt;，千问3.8-Max通过千问AI平台（阿里云）提供API调用：&lt;strong&gt;输入2.0美元/百万tokens，输出6.0美元/百万tokens，隐式缓存0.25美元/百万tokens。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;基准测试显示，&lt;strong&gt;千问3.8-Max在编程智能体和通用智能体多项指标上与Anthropic Fable5表现相当，部分指标超越后者&lt;/strong&gt;。例如，PaperBench得分93.0，高于Fable5的88.8；CoWorkBench得分74.8，与Fable5的75.9接近；WideSearch得分81.9，与Fable5的81.2持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+性能：与 Fable 5 相当，部分超越
+&lt;p&gt;根据千问团队发布的完整基准测试数据，Qwen3.8-Max 在多个核心指标上与 Anthropic Claude Fable 5 持平或超出：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PaperBench&lt;/strong&gt;（论文能力）：Qwen3.8-Max 得分 &lt;strong&gt;93.0&lt;/strong&gt;，超过 Fable 5 的 88.8 和 GPT-5.6 Sol 的 90.5&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IFBench&lt;/strong&gt;：Qwen3.8-Max &lt;strong&gt;82.8&lt;/strong&gt;，Fable 5 为 63.5，GPT-5.6 Sol 为 72.7&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HealthBench&lt;/strong&gt;：Qwen3.8-Max &lt;strong&gt;60.2&lt;/strong&gt;，超过 GPT-5.6 Sol 的 55.3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CoWorkBench&lt;/strong&gt;（通用协作）：Qwen3.8-Max &lt;strong&gt;74.8&lt;/strong&gt;，Fable 5 为 75.9，差距极小&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JobBench&lt;/strong&gt;（AI工作能力）：Qwen3.8-Max &lt;strong&gt;53.4&lt;/strong&gt;，接近 Fable 5 的 57.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;多模态方面同样表现突出：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OSWorld-Verified&lt;/strong&gt;：Qwen3.8-Max &lt;strong&gt;86.1&lt;/strong&gt;，超过 Fable 5 的 85.0&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AndroidWorld&lt;/strong&gt;：&lt;strong&gt;85.3&lt;/strong&gt;，Fable 5 为 88.8&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MLVU（长视频）&lt;/strong&gt;：&lt;strong&gt;90.8&lt;/strong&gt;，Fable 5 无数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;值得注意的是，Fable 5 的部分结果可能包含回退机制，千问团队在注释中对此作了说明。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+编程能力：从空文件夹到生产级交付
+&lt;p&gt;千问团队用三个真实案例测试了千问3.8-Max的自主编程能力，全程无人工介入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;案例一：十天级自动编程。&lt;/strong&gt; 模型从零创建oh-my-cli项目，自主运行约16天，累计完成265次commits、127个PR、151个issues。它将用户反馈、社区实践与自测结果统一纳入工程循环，实现需求自动领取、代码生成、测试验证的完整闭环。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;案例二：复现并超越论文。&lt;/strong&gt; 模型独立工作约125小时，写下约7,600行代码，执行超过1,100步操作，跑了33轮GPU训练，完整复现了论文《Unified Data Selection for LLM Reasoning》的六项主要结论。随后进入&amp;quot;自我进化&amp;quot;阶段，提出并测试18种改进方案，最终在竞赛级数学基准AIME24上比论文原方法再提升2.7分。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;案例三：24小时击败87%人类队伍。&lt;/strong&gt; 模型参加WWW2025多模态对话意图识别挑战赛，在526支人类队伍中，经45次提交迭代，准确率从0.60升至0.853，击败458支队伍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+办公与长程任务：数百职业场景的生产级验证
+&lt;p&gt;千问团队在数百种高价值职业场景中测试了千问3.8-Max的实际交付能力。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;企业合规律师&lt;/strong&gt;：单次通读数百份文档，标出1,284条相关条款，一小时内完成——同等工作通常需要法务团队约一周。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;UI/UX设计师&lt;/strong&gt;：生成包含8个页面的高保真可交互原型，全程未经人工返修。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;结构工程师&lt;/strong&gt;：仅凭一份图纸，在浏览器中还原30层写字楼的抗震结构模型，传统流程需一周以上。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;量化研究&lt;/strong&gt;：从一句任务描述出发，调度约330个子智能体，完成约6,000次回测，将原本需要数周的量化研究压缩为一次对话内完成。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在E-Commerce Bench（365天电商经营模拟基准）中，千问3.8-Max以¥416,252（4.16倍回报）胜出，超过第二名GLM 5.2达38%，较上一代千问3.7-Max提升152%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+芯片设计：500轮交互，面积缩减81%
+&lt;p&gt;千问3.8-Max在芯片设计优化任务中展示了长程自主规划能力。&lt;/p&gt;
+&lt;p&gt;目标是优化一个G CD/RSA密码硬件加速器的逻辑门数量。模型在无参考设计、无人工干预的条件下，历经约500轮交互、71次评估，跨越13个关键里程碑，将初始设计从8,298门优化至678门，在所有参评模型中表现最优。&lt;/p&gt;
+&lt;p&gt;物理实现层面，芯片面积从106×106 µm²收缩至46×46 µm²，布线长度从33,369 µm降至4,187 µm，并实现500 MHz频率下的时序闭合，芯片面积整体缩减81%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+多模态能力：视觉贯穿执行全流程
+&lt;p&gt;千问3.8-Max的视觉能力不止于&amp;quot;看懂图片&amp;quot;，而是作为持续反馈回路贯穿任务执行。&lt;/p&gt;
+&lt;p&gt;模型在执行过程中会持续观察中间产物——检查页面布局、物体方向、动画效果——发现问题后自主定位偏差并修正。千问团队将这一能力定义为&amp;quot;原生视觉反馈回路&amp;quot;。&lt;/p&gt;
+&lt;p&gt;基准测试方面，千问3.8-Max在OSWorld-Verified得分86.1，超过Fable5的85.0；AndroidWorld得分85.3，接近Fable5的88.8；ParametricCAD Bench得分91.5，超过Fable5的87.5。&lt;/p&gt;
+&lt;p&gt;为便于开发者接入，千问团队同步推出千问-MM-Plugins，为不同智能体框架提供图像与视频处理、多模态记忆、视觉工具调用等扩展支持。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+开放接入：支持Claude Code、Codex等主流框架
+&lt;p&gt;千问3.8-Max现已通过千问AI平台提供API服务，支持OpenAI兼容协议和Anthropic兼容协议，可直接与Claude Code、Codex、Qoder CLI、千问 Code、OpenClaw等主流开发工具集成。&lt;/p&gt;
+&lt;p&gt;API支持&lt;code&gt;reasoning_effort&lt;/code&gt;参数调节推理深度：&lt;code&gt;xhigh&lt;/code&gt;（默认，适合复杂任务）、&lt;code&gt;medium&lt;/code&gt;（平衡准确性与速度）、&lt;code&gt;low&lt;/code&gt;（优化速度与成本）。&lt;/p&gt;
+&lt;p&gt;模型权重将于下周在Hugging Face和ModelScope开源，届时千问3.8-27B也将同步开源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “网红券商”Robinhood收入结构巨变：预测市场收入已超过股票交易</title><link>https://wallstreetcn.com/articles/3778532</link><guid>096d0cb3202e937ac820cb63bd104e3f5b572b0e2357b5aae7990cb21f76ceb4</guid><pubDate>Mon, 03 Aug 2026 01:33:15 GMT</pubDate><description>&lt;p&gt;这家以零佣金起家的券商，正在把赌球和押注大选变成一门大生意。&lt;/p&gt;
 &lt;p&gt;Robinhood上周发布二季度财报，预测市场收入同比暴增逾十倍至1.56亿美元，占交易总收入的20%，首次超越股票和加密货币，成为仅次于期权的第二大交易业务。这一变化距Robinhood正式进入预测市场不足两年。&lt;/p&gt;
 &lt;p&gt;这一数字意味着什么？按二季度数据折算，Robinhood预测市场业务的年化收入已超过6亿美元。&lt;/p&gt;
 &lt;p&gt;Mizuho Securities股票研究分析师Dan Dolev对此直言不讳&lt;strong&gt;：&amp;quot;Robinhood上的用户就是喜欢赌，预测市场正中他们下怀。它是加密货币的完美替代品，因为它能更快地给大脑带来奖励感——你不需要等待。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
