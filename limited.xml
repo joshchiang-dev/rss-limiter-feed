@@ -1,57 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 19:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板暴涨超5.6%，算力硬件全线反攻、光通信"满屏涨停"，医药股爆发、药明康德涨停，半导体强劲反弹</title><link>https://wallstreetcn.com/articles/3778628</link><guid>cb8ec4fb8c5a47ed81efab8c969650a588d2fe77eb3fa8a7d3752f440425344e</guid><pubDate>Tue, 04 Aug 2026 08:28:59 GMT</pubDate><description>&lt;p&gt;英伟达CPO量产引爆算力硬件全线反攻，光通信、光芯片等方向掀起涨停潮，A股“股王”联讯仪器实现20CM涨停。长鑫科技午后大幅拉升，有&lt;a href="https://mp.weixin.qq.com/s/uMRrE06mZJ7RYY2H-gGi7w"&gt;报道&lt;/a&gt;称，PC大厂惠普、华硕和宏碁已开始采用少量长鑫存储芯片。药明康德业绩“炸裂级”，引爆创新药板块。&lt;/p&gt;
-&lt;p&gt;8月4日，A股全天震荡反弹，沪指维持盘整态势，创业板强势大涨，盘中持续拉升，收盘大涨超5%，算力硬件全线反弹，光模块、光通信、光电路交换机、光芯片纷纷拉升，芯片半导体亦反攻，存储芯片、半导体设备等显著拉升，生物科技板块爆发，CRO掀起涨停潮。石油化工、煤炭、银行板块调整，拖累上证50下跌。&lt;/p&gt;
-&lt;p&gt;与科技成长的狂欢形成鲜明对照，银行板块全线下跌，四大行均跌超3%。煤炭、保险、白酒板块同步走弱。中信证券认为，预计未来两周A股波动率仍将保持偏高水平，银行板块相对收益或将走弱；但经营格局稳定和宏观叙事等长逻辑仍在，全年绝对收益空间仍将延续。&lt;/p&gt;
-&lt;p&gt;港股高开低走，恒指、恒科指盘初上涨之后纷纷走低转跌，午后恒指、恒科指走势分化，恒指维持跌势，恒科指震荡转涨，科网股局部走高，芯片股大反弹，兆易创新、华虹宏力悉数上涨。光模块大涨，中际旭创港股涨17%。债市方面，国债期货全线上涨。商品方面，国内商品期货多数上涨，多晶硅延续涨势，日内涨超2%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 20:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] AI算力基建支撑，卡特彼勒Q2营收首次跨过200亿门槛，全面上调全年业绩指引</title><link>https://wallstreetcn.com/articles/3778685</link><guid>71a24b7fa65eddd2969ea2cf980380a93a89253e5a5b04e80b1bf6bcccfed706</guid><pubDate>Tue, 04 Aug 2026 20:28:25 GMT</pubDate><description>&lt;p&gt;卡特彼勒第二季度营收史上首次突破200亿美元关口，强劲业绩令空头措手不及，股价大幅跳涨。&lt;/p&gt;
+&lt;p&gt;8月4日美股开盘前，卡特彼勒公布二季度财报，&lt;strong&gt;营收同比大涨24%至205.4亿美元，创下公司史上首次单季营收突破200亿美元的纪录，大幅超越市场预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;净利润飙升65%至35.9亿美元，调整后每股收益8.17美元较预期高出约31%，为2021年一季度以来最大超预期幅度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司同步上调全年营收增长指引，由此前的&amp;quot;低两位数&amp;quot;增长上调至&amp;quot;中高两位数&amp;quot;增长。&lt;/strong&gt;首席执行官Joe Creed在声明中表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指涨0.33%，深成指涨3.25%，创业板指涨5.64%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股涨多跌少，沪深京三市超3600股飘红，今日成交2.23万亿。沪深两市成交额2.21万亿，较上一个交易日放量超过2100亿。板块方面，算力硬件产业链大幅反弹，CPO、PCB、存储器方向领涨；CRO、工业金属、半导体设备、算力租赁、多模态AI、人形机器人题材活跃。银行、保险、白酒、电力、航空板块走弱。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，恒指跌0.60%，恒科指涨0.21%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，科技股反弹，光模块、半导体等大涨，医药生物、CXO等纷纷拉升，药明康德涨逾11%，智谱涨逾7%，华虹宏力涨逾6%，中芯国际涨近5%；银行股回落，建设银行、工商银行跌逾3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线上涨，截至收盘，30年期主力合约涨0.18%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至收盘，黑色系涨幅居前，硅铁涨3.61%；新能源材料全部上涨，多晶硅涨2.16%；贵金属多数上涨，白银涨1.90%；油脂油料多数上涨，菜油涨1.82%；非金属建材涨跌参半，玻璃涨1.49%；基本金属多数上涨，镍涨1.41%；航运期货跌幅居前，集运指数(欧线)跌3.36%；能源品全部下跌，原油跌2.09%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这是公司历史上首次在单一季度创造超过200亿美元的销售额与营收，这一里程碑体现了我们客户每天从事的重要工作，以及卡特彼勒员工致力于解决客户最艰难挑战的精神。&lt;/p&gt;
 &lt;/blockquote&gt;
-CPO量产引爆光通信：通信设备板块暴涨10.74%，&amp;quot;易中天&amp;quot;全线飙涨
-&lt;p&gt;通信设备板块今日暴涨10.74%，光芯片概念涨10.26%，博通概念涨9.60%，谷歌概念涨9.42%，CPO、光模块相关概念占据概念涨幅榜前四席。&lt;/p&gt;
-&lt;p&gt;个股层面，光模块&amp;quot;易中天&amp;quot;三巨头全线暴涨。*天孚通信涨17.45%，新易盛涨13.68%，中际旭创涨13.24%，三只股票合计贡献了创业板指当日涨幅的相当部分。CPO概念一度有超过30只股票涨停或涨幅超11%。光库科技20cm涨停，光智科技20cm涨停，欣天科技20cm涨停，永鼎股份涨停，剑桥科技涨停，东山精密涨停，太辰光涨12.92%，仕佳光子涨17.50%，炬光科技涨13.66%，源杰科技涨超11%，鼎通科技涨超17%。&lt;/p&gt;
+&lt;p&gt;他同时指出，强劲的订单速率与不断增长的积压订单，反映出三大主要业务板块全面提速的势头。&lt;/p&gt;
+&lt;p&gt;受此提振，卡特彼勒开盘跳涨逾12%，涨幅随后回落、截至尾盘涨约7%，成为道琼斯工业平均指数的主要领涨成分股。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3775890"&gt;华尔街见闻提及&lt;/a&gt;，就在一个月前，《大空头》原型、对冲基金经理Michael Burry刚刚宣布以1060.98美元的价位首次做空卡特彼勒，认为其作为AI基础设施投资热潮受益者的估值已严重虚高。卡特彼勒强势反弹，令该空头仓位承压。&lt;/p&gt;
+
+三大业务板块全线超预期，能源与建筑齐发力
+
+&lt;p&gt;卡特彼勒本季度三大核心业务板块均超出分析师预期，数据中心相关需求贯穿始终。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能源与电力业务销售额&lt;/strong&gt;同比增长17%至82.4亿美元，超出预期的77.7亿美元，增长主要来自大型发动机、涡轮机及涡轮相关服务，而&lt;strong&gt;上述产品的主要用途正是数据中心的电力供应与基础设施建设。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建筑业务营收&lt;/strong&gt;大幅跃升35%至83.5亿美元，超出预期的74.9亿美元，公司指出数据中心投资带动了整体建筑支出水平的提升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;资源工业部门销售额&lt;/strong&gt;同比增长20%至46.5亿美元，同样高于预期的41.7亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;机械、动力与能源业务合并口径营收&lt;/strong&gt;，同比增长25%至195.8亿美元，&lt;strong&gt;营业利润大涨51%至42.1亿美元，远超市场预估的35亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;金融产品部门营业利润同比增长24%至2.63亿美元，略超预期，但该部门9.62亿美元的营收小幅低于分析师预测。研发支出增长12%至6.16亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;强劲的业绩令公司对全年前景信心十足，并随之上调了增长预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;管理层将全年营收增速指引从此前的&amp;quot;低两位数&amp;quot;百分比增长上调至&amp;quot;中高两位数&amp;quot;百分比增长。&lt;/p&gt;
+&lt;p&gt;目前彭博汇总的2026年全年营收一致预期为770.1亿美元，隐含同比增幅约13.9%，而公司最新指引显示实际增速可能明显高于这一水平。&lt;/p&gt;
+
+股价年内大涨逾50%，空头仓位承压
+
+&lt;p&gt;尽管卡特彼勒股价较6月30日创下的历史收盘高点1064.90美元已回撤约18%，但今年以来累计涨幅仍高达51.8%，大幅跑赢同期标普500指数12.1%的涨幅，是2026年表现最强劲的大市值股票之一。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;A股“股王”联讯仪器实现20CM涨停。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;广发证券认为，联讯仪器有望受益于下游光模块扩产、设备价值量提升及自主可控加速的三重逻辑。当前光通信测试设备市场仍由海外龙头主导，据联讯仪器招股说明书，2024年海外企业份额约为84%，联讯仪器以9.9%的市占率位列全球第三，且为前五大厂商中唯一的国内企业。展望未来，随着高端产品线持续突破，公司有望充分受益于国产化率提升所带来的份额扩张红利。&lt;/p&gt;
-&lt;p&gt;核心催化：英伟达CPO交换机正式出货。据8月3日界面新闻报道，英伟达资深副总裁Gilad Shainer确认，新一代Spectrum-X CPO交换机已开始向CoreWeave、Lambda、Oracle Cloud Infrastructure等首批合作伙伴出货，博通51.2T Bailly CPO交换机亦持续小批量出货。TrendForce集邦咨询指出，这标志着共同封装光学（CPO）正式迈入量产阶段。&lt;/p&gt;
-&lt;p&gt;Shainer同时点名，未来光通信市场最大商机在于垂直扩充（Scale-up），所需带宽效能将是水平扩充（Scale-out）的十倍。&lt;/p&gt;
-&lt;p&gt;CPO并非突然出现的新技术，而是AI高速计算发展至一定阶段的必然选择。传统数据中心中，GPU与交换芯片之间主要依靠电信号传输数据，随着传输速率提升，电信号衰减和能耗问题日益突出。&lt;/p&gt;
-&lt;p&gt;CPO的核心逻辑是将光引擎直接集成到交换芯片附近，电气距离从300毫米缩短至50毫米以内，功耗下降60%-68%，信号完整性提升63倍。&lt;/p&gt;
-&lt;p&gt;英伟达自身数据显示，Spectrum-X CPO方案能效提升5倍、AI正常运行时间提升5倍，800G端口从可插拔光模块的约30W降至CPO的约9W。&lt;/p&gt;
-&lt;p&gt;除CPO量产外，北美四大云厂商（微软、谷歌、Meta、亚马逊）二季度财报是市场的另一颗&amp;quot;定心丸&amp;quot;——四家全部上调全年资本开支指引，合计全年资本支出区间7200-7450亿美元。&lt;/p&gt;
-&lt;p&gt;亚马逊AWS CEO Andy Jassy回应AI投资回报疑虑称，服务器与网络设备投资盈亏平衡点&amp;quot;不到三年&amp;quot;。花旗指出，美国四大云厂商二季度资本开支同比强劲增长79%，需求可见度已明确延伸至2028年。&lt;/p&gt;
-&lt;p&gt;政策端同步发力。国家发改委日前披露，&amp;quot;十五五&amp;quot;时期我国算力网建设将新增直接投资4万亿元。由我国牵头编制的《WiTSnet工业以太网通信协议》国际标准通过IEC正式发布，标志着我国自主工业网络技术方案获全球行业认可。据央视财经报道，今年上半年我国用于AI算力建设的光通信设备激光收发模块和集成电路出口同比分别增长22.3%和88.7%。&lt;/p&gt;
-&lt;p&gt;中信证券认为，AI投入—回报的良性循环已经初步形成，大幅减缓市场对于AI Capex巨额投入可持续性的担忧。在集群规模扩张、速率升级与Scale-up&amp;quot;光进铜退&amp;quot;三重驱动下，光通信板块需求预计将持续超预期，龙头厂商在产能扩张、物料保供和客户生态绑定等方面的优势有望进一步拉开。&lt;/p&gt;
-&lt;p&gt;开源证券认为，CPO商业化正在提速，英伟达与博通CPO交换机小批量出货标志CPO进入商业化阶段；随着AI网络速率提升，传统可插拔架构面临损耗与功耗压力，CPO渗透有望带动硅光芯片和激光器需求扩张。&lt;/p&gt;
-&lt;p&gt;国盛证券称，高端光芯片供需缺口持续扩大，国产化进程加速，1.6T光模块进入快速放量期，全年出货同比翻倍增长。**交银国际**研报预测，2026年全球AI通信网络芯片市场规模达1075亿美元，占AI芯片总市场的23%，光模块龙头将显著受益。&lt;/p&gt;
-&lt;p&gt;此外，芯片半导体也全线反弹，存储芯片大涨，通富微电、普冉股份、澜起科技纷纷上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s/uMRrE06mZJ7RYY2H-gGi7w"&gt;券商中国&lt;/a&gt;，凤凰网北京时间8月4日引述《日经亚洲》报道指出，在AI基础设施需求引发内存芯片空前短缺的背景下，PC大厂惠普、华硕和宏碁已开始采用少量长鑫存储芯片。受此消息驱动，长鑫科技午后由跌转涨，大幅拉升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;全球存储芯片已进入连续三个季度涨价通道，AI数据中心需求成为核心驱动力，HBM等AI专用芯片需求激增。&lt;/p&gt;
-&lt;p&gt;海外主动管理型ETF重仓长鑫科技——规模超245亿美元的Roundhill Memory ETF将长鑫科技纳入持仓，权重2.52%，位列第八大重仓股；Tema Memory ETF对长鑫科技的配置比例已升至12.97%，成为第一大重仓股。&lt;/p&gt;
-CXO全线爆发：药明康德半年净利首破百亿，全年指引大幅上调
-&lt;p&gt;医疗服务板块涨7.44%，CXO方向领涨。药明康德开盘即封涨停；凯莱英、哈三联涨停，美迪西涨超13%，博腾股份涨超13%，药石科技涨超11%，康龙化成涨超10%，益诺思涨超9%，昭衍新药涨超8%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，药明康德8月3日晚披露的2026年半年报显示：上半年实现营业收入289亿元，同比增长38.9%；归母净利润首次在上半年突破百亿元大关，达110.8亿元，同比增长29.43%，相当于日赚约6121万元。Q2单季营收165亿元创历史新高。截至二季度末，持续经营业务在手订单664.3亿元，同比增长25.2%。&lt;/p&gt;
-&lt;p&gt;更关键的是业绩指引的大幅上调。药明康德将2026年整体收入预期由513-530亿元上调至585-605亿元，持续经营业务收入同比增速由18%-22%大幅上调至35%-39%。化学业务作为核心引擎实现营收249.86亿元，同比增长53.28%，其中小分子工艺研发和生产业务收入149.9亿元，同比增长72.7%，TIDES业务收入72.6亿元，同比增长44.3%。整体毛利率同比提升9.4个百分点至53.91%。&lt;/p&gt;
-&lt;p&gt;药明康德作为国内唯一实现端到端全链条CRDMO布局的龙头，其业绩超预期不仅是公司个体的胜利，更验证了全球CXO产业链的高景气仍在加速。&lt;/p&gt;
-&lt;p&gt;近期强生、赛诺菲、BMS、诺华、罗氏等多家海外MNC同步披露中报盈喜并上调全年指引，CDMO与CRO订单、收入及盈利持续改善。全球创新药投融资回暖，GLP-1、ADC、多肽、小核酸等新兴药物研发需求爆发，直接拉动后端CDMO订单放量。&lt;/p&gt;
-&lt;p&gt;Wind数据显示，截至8月3日，A股共有104家医药生物公司披露半年报业绩预告，58家预计归母净利润实现增长，其中28家预计同比增长超100%。&lt;/p&gt;
-&lt;p&gt;兴业证券认为，CXO板块正由&amp;quot;估值驱动&amp;quot;向&amp;quot;业绩+全球化兑现驱动&amp;quot;转变，多肽、ADC、双多抗及寡核苷酸CDMO进入快速放量期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 药明康德业绩炸裂，获杰富瑞大幅上调目标价：盈利发生了质变</title><link>https://wallstreetcn.com/articles/3778656</link><guid>b1f0708639542156e8add2912192e2fbd815f568177a5c4ec3d0af274c839036</guid><pubDate>Tue, 04 Aug 2026 09:05:18 GMT</pubDate><description>&lt;p&gt;药明康德交出了一份远超市场预期的上半年成绩单，盈利质量出现实质性跃升，并推动杰富瑞大幅上调目标价。&lt;/p&gt;
+&lt;p&gt;本季度业绩发布前，该股刚刚经历了一段剧烈震荡。上月股价曾单月下挫约23%，创下2009年以来最差单月表现，导火索是市场对数据中心资本支出可持续性的担忧，引发电力设备板块普遍抛售。&lt;/p&gt;
+&lt;p&gt;在此背景下，Michael Burry于7月1日公开表示以1060.98美元做空卡特彼勒，理由是公司市销率（P/S）已攀升至至少近30年来的最高水平，估值泡沫风险不容忽视。&lt;/p&gt;
+&lt;p&gt;他在Substack撰文称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是我第一次做空卡特彼勒。过去，我做多这只股票一直表现不错。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他还将本轮行情的驱动因素，韩国宣布的大规模支出计定性为&amp;quot;这轮行情走向终结的开始&amp;quot;。然而，卡特彼勒随即以一份历史性的季报予以回击，令其空头仓位在短期内面临较大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 药明康德业绩炸裂，获杰富瑞大幅上调目标价：盈利发生了质变</title><link>https://wallstreetcn.com/articles/3778656</link><guid>b1f0708639542156e8add2912192e2fbd815f568177a5c4ec3d0af274c839036</guid><pubDate>Tue, 04 Aug 2026 09:05:18 GMT</pubDate><description>&lt;p&gt;药明康德交出了一份远超市场预期的上半年成绩单，盈利质量出现实质性跃升，并推动杰富瑞大幅上调目标价。&lt;/p&gt;
 &lt;p&gt;2026年上半年，药明康德实现营收289亿元人民币，同比增长39%；归属净利润110.8亿元，同比增长34%。毛利率大幅跃升9.4个百分点至53.2%，费用率同步收窄，盈利结构发生质变。管理层随即将全年营收指引从原先的513亿至530亿元大幅上调至585亿至605亿元，对应经常性收入增速由18%至22%提升至35%至39%，远超买方此前约30%的乐观预期。&lt;/p&gt;
 &lt;p&gt;药明康德周二应声大涨逾10%，报180.30港元，创2021年9月以来最高水平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -317,28 +299,7 @@ OpenAI估值与AI周期仍是最大变量
 &lt;p&gt;尽管情绪明显好转，投资者仍对该板块存在三方面核心争议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一，政策不确定性依然存在，包括公立医院生物类似药集采、医疗器械集采以及医疗服务价格改革的推进节奏尚不明朗。第二，若AI主题行情回归，相关资金可能重新从医药板块流出。第三是外部相关政策风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此外，市场还因医疗反腐持续推进，下调了对药企、医疗器械公司和医院增长的预期。&lt;/p&gt;
-&lt;p&gt;汇丰前海证券指出，&lt;strong&gt;中国生物科技板块后续值得关注的催化剂包括：相关企业在美国市场的商业化进展、ESMO年会数据读出，以及Harmoni 3数据的发布。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 诺和诺德大跌！上调业绩指引，但核心药品Wegovy销售不及预期</title><link>https://wallstreetcn.com/articles/3778682</link><guid>691e5dc7864f37a0b9b71ee0f24cba7e8fd07365aaa886998515ac0bed04c5ac</guid><pubDate>Tue, 04 Aug 2026 17:27:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;诺和诺德年内第二次上调全年业绩指引，但旗下Wegovy减重药片的季度销售未能超出分析师预期，拖累其美国存托凭证大跌逾7%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司最新指引显示，2026年全年调整后销售额及营业利润降幅将收窄至6%到持平区间，优于此前预计的最高下滑12%。然而，&lt;strong&gt;市场对Wegovy药片这一全球瞩目新品寄予厚望&lt;/strong&gt;，期待其交出亮眼成绩，最终结果令市场失望。&lt;/p&gt;
-&lt;p&gt;公司总销售额按固定汇率计算增长3%，至784.9亿克朗（约合121亿美元）；调整后销售额增长7%。调整后营业利润按固定汇率计算上升11%，至333.9亿克朗。&lt;/p&gt;
-&lt;p&gt;Mizuho Securities医疗健康行业策略师Jared Holz在客户报告中指出，&lt;strong&gt;此次指引上调&amp;quot;明显算不上出色&amp;quot;，Wegovy药片销售未能超越市场预期，是拖累股价的主要因素。&lt;/strong&gt;不过他同时表示，&amp;quot;从整体轨迹来看，这较年初已有所改善&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-Wegovy药片销售低于预期
-
-&lt;p&gt;&lt;strong&gt;诺和诺德二季度Wegovy药片销售额为32.2亿丹麦克朗，低于据StreetAccount汇总的分析师平均预期32.7亿克朗。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;首席执行官Mike Doustdar在声明中表示，该药片自今年1月上市以来，处方量已累计突破500万张，截至7月17日当周，美国全周处方总量超过26.5万张。&lt;/p&gt;
-&lt;p&gt;Wegovy药片被认为是现代肥胖症药物中迄今最为成功的新品上市案例之一，也正因如此，市场对其超预期表现的期待尤为强烈。&lt;/p&gt;
-&lt;p&gt;销售数据未能&amp;quot;爆发&amp;quot;，叠加整体指引的保守措辞，导致诺和诺德美国存托凭证盘中大跌。&lt;/p&gt;
-&lt;p&gt;同时，诺和诺德预警美国业务将面临销售下滑。公司将其归因于多重因素叠加：&lt;/p&gt;
-&lt;p&gt;GLP-1注射剂处方趋势趋缓、竞争持续加剧、医疗补助肥胖症用药覆盖范围收窄，以及美国市场实际销售价格走低——后者部分源于公司与特朗普政府达成的&amp;quot;最惠国&amp;quot;药品定价协议。&lt;/p&gt;
-
-与礼来的竞争全面升级
-
-&lt;p&gt;诺和诺德正与美国竞争对手礼来（Eli Lilly）展开激烈的市场争夺。&lt;/p&gt;
-&lt;p&gt;据估计，肥胖症药物市场规模到2030年将达到每年1200亿美元。礼来凭借Zepbound和Mounjaro注射剂在市场份额上取得领先，而诺和诺德推出的Wegovy药片及更高剂量注射剂版本，被视为其重新争夺市场地位的核心举措。&lt;/p&gt;
-&lt;p&gt;竞争的激烈程度已蔓延至法律层面。诺和诺德于7月21日对礼来提起诉讼，指控后者就Zepbound和Mounjaro进行虚假宣传，礼来方面已对相关指控提出异议。&lt;/p&gt;
-&lt;p&gt;除销售数据令市场失望外，诺和诺德近期还面临其他挑战。公司此前宣布，一款旨在降低心血管风险的实验性注射剂在后期临床研究中未达预期，该消息已令诺和诺德股价抹去年内全部涨幅。&lt;/p&gt;
-&lt;p&gt;多重不利因素叠加，令这家丹麦药企在与礼来争夺GLP-1市场主导权的关键阶段承受更大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储票委Paulson：对利率路径持“开放态度”，重点关注核心通胀趋势</title><link>https://wallstreetcn.com/articles/3778673</link><guid>cd539b0940bedc5c5578a9721ada688fa9ba145031b38b44b0314943b3f8fd29</guid><pubDate>Tue, 04 Aug 2026 12:47:55 GMT</pubDate><description>&lt;p&gt;美联储内部对利率前景的分歧持续浮现。&lt;/p&gt;
+&lt;p&gt;汇丰前海证券指出，&lt;strong&gt;中国生物科技板块后续值得关注的催化剂包括：相关企业在美国市场的商业化进展、ESMO年会数据读出，以及Harmoni 3数据的发布。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储票委Paulson：对利率路径持“开放态度”，重点关注核心通胀趋势</title><link>https://wallstreetcn.com/articles/3778673</link><guid>cd539b0940bedc5c5578a9721ada688fa9ba145031b38b44b0314943b3f8fd29</guid><pubDate>Tue, 04 Aug 2026 12:47:55 GMT</pubDate><description>&lt;p&gt;美联储内部对利率前景的分歧持续浮现。&lt;/p&gt;
 &lt;p&gt;FOMC 2026票委、费城联储行长Anna Paulson周二表示，&lt;strong&gt;将对货币政策走向保持开放态度，核心通胀能否持续回落是其判断的关键依据。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Paulson在一篇文章中指出，她目前看到两种可能情景：&lt;strong&gt;若通胀数据持续改善、通胀预期保持稳定，现行利率水平或已足够&amp;quot;温和限制性&amp;quot;，可在合理时间内将通胀拉回2%目标；但若核心通胀持续顽固高企，则可能意味着当前政策限制力度不足，需要进一步收紧。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;quot;我对政策走向保持开放态度，&amp;quot;她写道。&lt;/p&gt;
@@ -360,39 +321,58 @@ Wegovy药片销售低于预期
 
 &lt;p&gt;本次美联储会议出现三位官员异见，为近期会议中较为罕见的情形，折射出官员之间对通胀风险与政策取向的实质性分歧。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Paulson的立场与这三位鹰派官员存在明显差异——她并未明确支持加息，而是强调以&amp;quot;即将到来的数据&amp;quot;作为决策依据。&lt;/strong&gt;这一态度意味着，&lt;strong&gt;未来几个月核心通胀的走势将成为美联储政策转向与否的核心观察窗口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于投资者而言，美联储内部从鹰派到观望的多元光谱，使得短期利率路径的不确定性进一步上升，市场将继续密切跟踪每一份通胀及就业数据。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股下一场风暴，会是美债掀起的吗？未来一周至关重要</title><link>https://wallstreetcn.com/articles/3778650</link><guid>c60823cbb73da937971465b1cc7f3dae566e656b8f0a08b1516ff4e89df866b0</guid><pubDate>Tue, 04 Aug 2026 08:01:03 GMT</pubDate><description>&lt;p&gt;美国国债市场正在向其他资产类别传递越来越强烈的压力信号，股市首当其冲。&lt;/p&gt;
-&lt;p&gt;长期美债收益率上周急剧攀升，&lt;strong&gt;30年期国债收益率触及2007年以来最高水平，10年期国债收益率也突破了自2023年底以来维持的交易区间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，衡量美债市场预期波动率的ICE美银MOVE指数升至5月以来最高点，押注债券价格下跌的看跌期权需求激增，芝加哥期权交易所数据显示，&lt;strong&gt;与iShares 20年期以上美国国债ETF挂钩的一个月看跌期权偏斜度飙升至2008年金融危机以来最高水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于投资者而言，美联储内部从鹰派到观望的多元光谱，使得短期利率路径的不确定性进一步上升，市场将继续密切跟踪每一份通胀及就业数据。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 诺和诺德大跌！上调业绩指引，但核心药品Wegovy销售不及预期</title><link>https://wallstreetcn.com/articles/3778682</link><guid>691e5dc7864f37a0b9b71ee0f24cba7e8fd07365aaa886998515ac0bed04c5ac</guid><pubDate>Tue, 04 Aug 2026 17:27:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;诺和诺德年内第二次上调全年业绩指引，但旗下Wegovy减重药片的季度销售未能超出分析师预期，拖累其美国存托凭证大跌逾7%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司最新指引显示，2026年全年调整后销售额及营业利润降幅将收窄至6%到持平区间，优于此前预计的最高下滑12%。然而，&lt;strong&gt;市场对Wegovy药片这一全球瞩目新品寄予厚望&lt;/strong&gt;，期待其交出亮眼成绩，最终结果令市场失望。&lt;/p&gt;
+&lt;p&gt;公司总销售额按固定汇率计算增长3%，至784.9亿克朗（约合121亿美元）；调整后销售额增长7%。调整后营业利润按固定汇率计算上升11%，至333.9亿克朗。&lt;/p&gt;
+&lt;p&gt;Mizuho Securities医疗健康行业策略师Jared Holz在客户报告中指出，&lt;strong&gt;此次指引上调&amp;quot;明显算不上出色&amp;quot;，Wegovy药片销售未能超越市场预期，是拖累股价的主要因素。&lt;/strong&gt;不过他同时表示，&amp;quot;从整体轨迹来看，这较年初已有所改善&amp;quot;。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未来一周，美国财政部融资计划细节披露及7月非农就业报告相继发布，债券市场的震荡或将进一步加剧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Unlimited Funds的Bob Elliott近期在评论中写道：&amp;quot;很难判断股票等其他资产市场还能在当前利率水平下支撑多久，而不被拖累下行。&amp;quot;TD证券美国利率策略主管Gennadiy Goldberg也警告称，围绕美联储政策指引的不确定性，叠加地缘政治等多重噪音，令市场险象环生。&lt;/p&gt;
 
-美联储信誉受质疑，长债收益率破位上行
+Wegovy药片销售低于预期
 
-&lt;p&gt;这轮美债收益率上行的核心驱动力，来自市场对美联储政策公信力的质疑。&lt;/p&gt;
-&lt;p&gt;自美联储主席凯文·沃什（Kevin Warsh）执掌美联储以来，他在抗通胀问题上态度强硬，但通胀率已连续五年高于美联储2%的政策目标，投资者开始怀疑美联储是否真的具备重新加息的意愿。&lt;/p&gt;
-&lt;p&gt;上周三，美联储利率决策委员会出现罕见分歧——三位地区联储行长投票支持加息，与委员会多数成员立场相左。当沃什结束上周的新闻发布会时，长债收益率突然跳涨，而短债收益率同步下行，两者之间的利差急剧收窄。道琼斯市场数据的分析显示，这是2023年以来幅度最大的&amp;quot;美联储议息日&amp;quot;收益率曲线压缩。&lt;/p&gt;
-&lt;p&gt;TD证券的Goldberg表示：&lt;strong&gt;&amp;quot;市场正在质疑美联储在控制通胀问题上究竟有多坚定。&amp;quot;&lt;/strong&gt;他同时指出，基准情形下今明两年均不会加息，但加息的概率已&amp;quot;显著上升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;诺和诺德二季度Wegovy药片销售额为32.2亿丹麦克朗，低于据StreetAccount汇总的分析师平均预期32.7亿克朗。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首席执行官Mike Doustdar在声明中表示，该药片自今年1月上市以来，处方量已累计突破500万张，截至7月17日当周，美国全周处方总量超过26.5万张。&lt;/p&gt;
+&lt;p&gt;Wegovy药片被认为是现代肥胖症药物中迄今最为成功的新品上市案例之一，也正因如此，市场对其超预期表现的期待尤为强烈。&lt;/p&gt;
+&lt;p&gt;销售数据未能&amp;quot;爆发&amp;quot;，叠加整体指引的保守措辞，导致诺和诺德美国存托凭证盘中大跌。&lt;/p&gt;
+&lt;p&gt;同时，诺和诺德预警美国业务将面临销售下滑。公司将其归因于多重因素叠加：&lt;/p&gt;
+&lt;p&gt;GLP-1注射剂处方趋势趋缓、竞争持续加剧、医疗补助肥胖症用药覆盖范围收窄，以及美国市场实际销售价格走低——后者部分源于公司与特朗普政府达成的&amp;quot;最惠国&amp;quot;药品定价协议。&lt;/p&gt;
 
-债市波动率攀升，对冲需求急剧扩大
+与礼来的竞争全面升级
 
-&lt;p&gt;收益率的异动迅速传导至衍生品市场，对冲需求大幅升温。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ICE美银MOVE指数触及5月来高位，显示交易员正积极对冲利率进一步上行的风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，与iShares 20年期以上美国国债ETF（TLT）挂钩的看跌期权交易量相对看涨期权的比率明显上升，芝加哥期权交易所分析师指出，一个月TLT看跌期权偏斜度已飙升至2008年金融危机以来最高水平。&lt;/p&gt;
-&lt;p&gt;尤为值得关注的是，此轮长端收益率上行与原油价格呈现背离走势——油价下跌，而非随收益率同步上涨，这令收益率与油价之间的相关性进一步减弱，加剧了市场的不确定性。&lt;/p&gt;
+&lt;p&gt;诺和诺德正与美国竞争对手礼来（Eli Lilly）展开激烈的市场争夺。&lt;/p&gt;
+&lt;p&gt;据估计，肥胖症药物市场规模到2030年将达到每年1200亿美元。礼来凭借Zepbound和Mounjaro注射剂在市场份额上取得领先，而诺和诺德推出的Wegovy药片及更高剂量注射剂版本，被视为其重新争夺市场地位的核心举措。&lt;/p&gt;
+&lt;p&gt;竞争的激烈程度已蔓延至法律层面。诺和诺德于7月21日对礼来提起诉讼，指控后者就Zepbound和Mounjaro进行虚假宣传，礼来方面已对相关指控提出异议。&lt;/p&gt;
+&lt;p&gt;除销售数据令市场失望外，诺和诺德近期还面临其他挑战。公司此前宣布，一款旨在降低心血管风险的实验性注射剂在后期临床研究中未达预期，该消息已令诺和诺德股价抹去年内全部涨幅。&lt;/p&gt;
+&lt;p&gt;多重不利因素叠加，令这家丹麦药企在与礼来争夺GLP-1市场主导权的关键阶段承受更大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石拟牵头360亿美元融资，Anthropic与谷歌的资金闭环再扩一环</title><link>https://wallstreetcn.com/articles/3778693</link><guid>6465730f43f6696af4eca77c3e6b119b45fc0aa8a115818f2877a69338da6933</guid><pubDate>Tue, 04 Aug 2026 20:28:44 GMT</pubDate><description>&lt;p&gt;Anthropic正在构建一套前所未有的巨额融资体系，以支撑其快速扩张的算力需求。&lt;/p&gt;
+&lt;p&gt;8月4日据彭博社知情人士透露，黑石集团已开始与投资者进行初步接触，&lt;strong&gt;拟牵头安排一笔至少360亿美元的债务融资，专项用于支付Anthropic向谷歌租用AI芯片的费用。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;若该融资最终落地，其规模将超越约两个月前由阿波罗全球管理公司与黑石联合安排的350亿美元债务融资包，后者已是史上最大规模私人信贷交易之一。&lt;/p&gt;
+&lt;p&gt;巨额新融资的出炉，折射出AI基础设施建设对资本的无底洞式需求，以及科技巨头、金融机构与AI创业公司之间日趋复杂的资本关系。&lt;/p&gt;
+&lt;p&gt;谷歌既是Anthropic的早期投资方，如今又通过为其芯片租赁交易提供背书，形成一套资金循环结构——&lt;strong&gt;谷歌注入的数十亿美元投资，最终以租赁费用的形式回流至谷歌自身。&lt;/strong&gt;&lt;/p&gt;
 
-溢出效应隐现，股市承压风险上升
+闭环融资体系持续扩张
 
-&lt;p&gt;美债市场的动荡历来是股市风险的前兆，当前局面同样令权益市场投资者如坐针毡。&lt;/p&gt;
-&lt;p&gt;Bob Elliott在评论中指出，每当美债收益率触及或接近当前水平，压力往往开始向其他市场蔓延，股市首先受到拖累。当前30年期国债收益率已达5.239%，10年期收益率报4.693%，均处于历史高位区间。&lt;/p&gt;
-&lt;p&gt;Goldberg亦坦承，伊朗局势带来的地缘政治不确定性、美联储政策指引的模糊，以及其他多重市场噪音叠加，共同构成了当前脆弱的市场环境。&amp;quot;各种不确定性交织在一起，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;此轮融资是Anthropic与谷歌之间&amp;quot;循环交易&amp;quot;体系的延伸。&lt;/p&gt;
+&lt;p&gt;谷歌是Anthropic的早期投资者之一，多次认购其股权，并日益深度地为支撑该初创公司数据中心运营的融资提供背书。&lt;/p&gt;
+&lt;p&gt;美国知名金融播客主持人、分析师Ed Elson在社交媒体上对此直言：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;谷歌已向Anthropic投入数十亿，Anthropic用这些钱向谷歌租芯片——但谷歌的数十亿还不够，于是Anthropic又从黑石借了数十亿。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此前350亿美元债务包中，Anthropic计划通过该融资在五个数据中心租用谷歌强大的定制芯片，而谷歌在为该笔债务的最大优先级部分提供担保背书。&lt;/p&gt;
+&lt;p&gt;这一融资架构的另一核心参与方是博通。今年早些时候，博通、阿波罗与黑石共同组建了名为&amp;quot;AI XPV Platform&amp;quot;的合作平台，专门为包括Anthropic在内的头部AI企业提供算力基础设施融资，此前完成的350亿美元债务交易正是该平台的首笔落地交易。&lt;/p&gt;
+&lt;p&gt;华尔街见闻提及，博通在那笔交易中为最大优先级部分的还款提供担保，摩根士丹利担任顾问并协助安排了该交易。&lt;/p&gt;
 
-多重事件窗口临近，关键一周考验在即
+Anthropic多线扩充算力，AI信贷市场承压
 
-&lt;p&gt;未来一周将是这轮美债压力能否蔓延的关键窗口期。&lt;/p&gt;
-&lt;p&gt;本周晚些时候，&lt;strong&gt;美国财政部将公布最新的政府融资计划细节，任何超预期内容均可能引发新一轮债市波动。本周还将有多项重要经济数据陆续发布，并以周五7月非农就业报告收尾，就业数据将对市场关于美联储政策走向的预期产生重大影响。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，上周美国财政部与美联储联合日本当局进行了一次历史性的协调干预，以稳定持续下跌的日元。分析人士认为，&lt;strong&gt;美方加入干预行动，部分动机在于防范美债市场再度爆发波动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;30万亿美元规模的美国国债市场是全球金融体系的基石，既是短期机构流动性的核心抵押品，也是全球数以万亿美元计债务的基准定价锚。&lt;strong&gt;这个&amp;quot;沉睡的巨人&amp;quot;一旦持续躁动，其震动将远不止于债市本身。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel证券：美股7月暴跌不是牛市终结，而是一次“技术性重置”！基本面重掌主导权</title><link>https://wallstreetcn.com/articles/3778678</link><guid>f8dc4c6430d54f801e492e2daa37bc2e642b5c4a3b642ffe1f836f7f17bc9490</guid><pubDate>Tue, 04 Aug 2026 15:25:50 GMT</pubDate><description>&lt;p&gt;美股市场经历了一轮剧烈的技术性出清，但结构性牛市的根基依然稳固。&lt;/p&gt;
+&lt;p&gt;与此同时，Anthropic的算力扩张并不止于谷歌渠道。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据行业分析机构SemiAnalysis披露，Anthropic已与芯片算力公司Bitdeer及由前Brookfield高管创立的Neocloud初创公司Volta Infra签署了一笔价值100亿美元的算力协议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SemiAnalysis指出，此次新增算力的直接驱动力是Claude Code产品需求的迅猛增长。该机构在社交媒体上表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Claude Code的需求正在急剧攀升。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上述融资动作发生在Anthropic秘密提交美国IPO文件之后。&lt;/p&gt;
+&lt;p&gt;这家Claude系列模型的开发商正寻求抢在竞争对手OpenAI之前完成上市，新一轮巨额债务融资的安排，或在一定程度上折射出其在上市前夕强化资产负债表与算力储备的意图。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从更宏观的视角来看，AI基础设施建设对资本市场的虹吸效应正持续加剧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科技公司正在叩响信贷市场的每一个角落，以应对AI前所未有的资本需求，倒逼华尔街设计出各类新型债务结构。&lt;/p&gt;
+&lt;p&gt;与此同时，部分公司近期在新发债务时不得不支付高额利率，反映出市场对AI投资回报前景的疑虑尚未消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel证券：美股7月暴跌不是牛市终结，而是一次“技术性重置”！基本面重掌主导权</title><link>https://wallstreetcn.com/articles/3778678</link><guid>f8dc4c6430d54f801e492e2daa37bc2e642b5c4a3b642ffe1f836f7f17bc9490</guid><pubDate>Tue, 04 Aug 2026 15:25:50 GMT</pubDate><description>&lt;p&gt;美股市场经历了一轮剧烈的技术性出清，但结构性牛市的根基依然稳固。&lt;/p&gt;
 &lt;p&gt;城堡证券（Citadel Securities）首席策略师在最新报告中指出，&lt;strong&gt;过去一个月的市场动荡本质上是一次必要的技术性重置——通过仓位轮动、去杠杆化和基本面改善完成，而非源于宏观经济的实质恶化。&lt;/strong&gt;该机构由此转向对美股中期前景更为积极的立场。&lt;/p&gt;
 &lt;p&gt;报告称，&lt;strong&gt;此前压制市场的多项技术性因素已大幅消退：散户投资者显著削减风险敞口，杠杆水平趋于正常，市场集中度下降，资金面亦将迎来关键转折。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，标普500指数二季度盈利增长预期已从财报季初的22.4%大幅上修至约45%，估值也随之向更具吸引力的水平回归。报告总结认为，&lt;strong&gt;&amp;quot;七月没有改变结构性牛市，而是重置了它。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
