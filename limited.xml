@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 15:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止</title><link>https://wallstreetcn.com/articles/3778638</link><guid>a3e6986c24cc529f9277723abc26739c0213463b5279636b191ea016c09dfdd7</guid><pubDate>Tue, 04 Aug 2026 13:37:12 GMT</pubDate><description>&lt;p&gt;美伊谈判释放积极信号，叠加美股财报季整体向好，市场情绪获得持续提振。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 16:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止</title><link>https://wallstreetcn.com/articles/3778638</link><guid>a3e6986c24cc529f9277723abc26739c0213463b5279636b191ea016c09dfdd7</guid><pubDate>Tue, 04 Aug 2026 13:37:12 GMT</pubDate><description>&lt;p&gt;美伊谈判释放积极信号，叠加美股财报季整体向好，市场情绪获得持续提振。&lt;/p&gt;
 &lt;p&gt;周二，美股三大股指集体高开，道指涨1.17%，纳指涨0.78%，标普500指数上涨0.5%，有望创下6月以来的首个纪录新高。卡特彼勒上涨12%，创2022年10月以来最大单日涨幅。Palantir涨超14%，公司大幅上调全年收入预期。光通信股持续走高，Lumentum涨超8%，Coherent涨超11%。&lt;/p&gt;
 &lt;p&gt;8月4日，美国财政部长贝森特表示，霍尔木兹海峡相关问题最快可能于周二或周三达成协议。国际油价走低，WTI原油日内跌幅达5%，报76.12美元/桶。&lt;/p&gt;
 &lt;p&gt;本周市场焦点高度集中。SpaceX将于周二发布上市以来首份财报，并预计下月有多达1160亿美元的股票迎来首次解禁，构成资本市场史上规模最大的股份解禁之一。与此同时，周五公布的美国非农就业数据将成为投资者研判美联储利率路径的核心参照。&lt;/p&gt;
@@ -371,43 +371,7 @@ OpenAI估值与AI周期仍是最大变量
 &lt;p&gt;未来一周将是这轮美债压力能否蔓延的关键窗口期。&lt;/p&gt;
 &lt;p&gt;本周晚些时候，&lt;strong&gt;美国财政部将公布最新的政府融资计划细节，任何超预期内容均可能引发新一轮债市波动。本周还将有多项重要经济数据陆续发布，并以周五7月非农就业报告收尾，就业数据将对市场关于美联储政策走向的预期产生重大影响。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，上周美国财政部与美联储联合日本当局进行了一次历史性的协调干预，以稳定持续下跌的日元。分析人士认为，&lt;strong&gt;美方加入干预行动，部分动机在于防范美债市场再度爆发波动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;30万亿美元规模的美国国债市场是全球金融体系的基石，既是短期机构流动性的核心抵押品，也是全球数以万亿美元计债务的基准定价锚。&lt;strong&gt;这个&amp;quot;沉睡的巨人&amp;quot;一旦持续躁动，其震动将远不止于债市本身。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK海力士联手闪迪发布全球首个HBF标准规范，谷歌加入生态</title><link>https://wallstreetcn.com/articles/3778636</link><guid>37c7a4492eb65e79ebe52a4aa189ffd63a6a8b204e21676b4fd8a6ff09ab5a0b</guid><pubDate>Tue, 04 Aug 2026 04:25:48 GMT</pubDate><description>&lt;p&gt;SK海力士携手闪迪，在人工智能存储架构竞赛中共同落子。&lt;/p&gt;
-&lt;p&gt;8月4日，SK海力士携手闪迪联合发布高带宽闪存（HBF）全球首个标准规范，这一里程碑距HBF联盟正式成立仅约六个月，标志着下一代AI存储技术的标准化进程正式提速。&lt;/p&gt;
-&lt;p&gt;上述规范在加利福尼亚州圣克拉拉举行的&amp;quot;FMS 2026&amp;quot;存储峰会上正式亮相。谷歌与Tenstorrent已宣布加入HBF联盟，进一步扩大该技术的产业生态覆盖。&lt;/p&gt;
-&lt;p&gt;SK海力士执行副总裁Kim Chun-sung表示，&lt;strong&gt;HBF将打破内存与存储之间的边界，助力构建提升整体系统效率的新型架构。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;HBF技术定位于高带宽内存（HBM）与固态硬盘（SSD）之间的新型存储层级，旨在同时解决AI推理场景下的带宽瓶颈与容量扩展难题。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此前Citrini Research分析师Jukan曾于4月在社交平台X上指出，&lt;strong&gt;谷歌是目前推动HBF落地最为积极的玩家，而英伟达对HBF的兴趣则相对有限，认为现有eSSD已能满足相应带宽需求。&lt;/strong&gt;&lt;/p&gt;
-
-HBF首个标准规范正式落地
-
-&lt;p&gt;此次发布的HBF标准规范，是SK海力士与闪迪于2025年8月建立初步标准化合作伙伴关系后的最新成果，距今年2月联盟正式启动仅约六个月。&lt;/p&gt;
-&lt;p&gt;规范内容覆盖多个核心技术维度：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;容量方面&lt;/strong&gt;，支持基于两种堆叠配置（8层与16层NAND晶粒）、最高达512GB的规格；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;带宽方面&lt;/strong&gt;，划分为三个等级（Grade 1至3），可扩展性能从约0.4TB/s至3.0TB/s。&lt;/li&gt;
-&lt;li&gt;此外，规范还涵盖连接接口与电气特性、HBF晶粒堆叠工艺的可靠性与封装指南，以及软件I/O指南。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在互联标准上，HBF采用UCIe（通用小芯片互联快速接口）这一行业开放标准，为HBF技术跨GPU、CPU等不同处理器类型灵活集成奠定基础。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SK海力士在推进HBF标准化过程中，采取了开放联盟与行业协作并行的路径。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;联盟成员目前已纳入谷歌与Tenstorrent，并通过开放计算项目（OCP）以开放标准形式向全行业披露规范，意在将HBF塑造为产业通用标准。&lt;/p&gt;
-&lt;p&gt;SK海力士表示，将借助此次规范发布，推动HBF技术在AI存储市场的采用，并持续培育周边生态，目标是在开放协作的基础上进一步扩大联盟规模，提升技术成熟度与市场接受度。&lt;/p&gt;
-
-技术定位：填补HBM与SSD之间的空白
-
-&lt;p&gt;&lt;strong&gt;随着AI推理应用规模持续扩张，待处理数据量急剧增长，单一存储类型难以同时满足高带宽与大容量的双重需求，HBF因此获得市场关注。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;HBF技术通过NAND技术大幅扩展容量，同时实现接近HBM水准的高速数据传输，在带宽与容量可扩展性上提供兼顾方案。&lt;/p&gt;
-&lt;p&gt;SK海力士将其定义为&amp;quot;分层内存&amp;quot;（Tiered Memory）架构的关键组成部分，这一架构理念将多种存储类型连接并优化为统一系统。&lt;/p&gt;
-&lt;p&gt;SK海力士执行副总裁Kim Chun-sung与副总裁Kang Uk-song将在FMS 2026开幕日发表题为《在Agentic AI时代通过分层内存构建高效AI基础设施》的联合主旨演讲，阐述下一代存储架构的必要性与发展方向。&lt;/p&gt;
-&lt;p&gt;8月6日，SK海力士副总裁Lim Eui-cheol、闪迪副总裁Rajeev Nagabhirava与谷歌DeepMind高级工程师Xiaoyu Ma将共同参与题为《以HBF突破内存墙》的圆桌讨论。&lt;/p&gt;
-
-第十代4D NAND首次公开亮相
-
-&lt;p&gt;在FMS 2026展台上，SK海力士还首次公开展示其正在研发中的第十代（V10）375层4D NAND晶圆及产品。&lt;/p&gt;
-&lt;p&gt;375层4D NAND相较上一代产品，每瓦性能提升2.5倍，专为数据中心等对高能效和高性能有严苛要求的AI基础设施环境而优化。&lt;/p&gt;
-&lt;p&gt;SK海力士计划于明年初启动基于该技术的高性能大容量eSSDs量产，以巩固其在AI NAND市场的领先地位。&lt;/p&gt;
-&lt;p&gt;此外，SK海力士展台还将展出涵盖移动、PC、汽车及机器人领域的多元化产品线，展示其在AI时代与客户协同创新的成果。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel证券：美股7月暴跌不是牛市终结，而是一次“技术性重置”！基本面重掌主导权</title><link>https://wallstreetcn.com/articles/3778678</link><guid>f8dc4c6430d54f801e492e2daa37bc2e642b5c4a3b642ffe1f836f7f17bc9490</guid><pubDate>Tue, 04 Aug 2026 15:25:50 GMT</pubDate><description>&lt;p&gt;美股市场经历了一轮剧烈的技术性出清，但结构性牛市的根基依然稳固。&lt;/p&gt;
+&lt;p&gt;30万亿美元规模的美国国债市场是全球金融体系的基石，既是短期机构流动性的核心抵押品，也是全球数以万亿美元计债务的基准定价锚。&lt;strong&gt;这个&amp;quot;沉睡的巨人&amp;quot;一旦持续躁动，其震动将远不止于债市本身。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel证券：美股7月暴跌不是牛市终结，而是一次“技术性重置”！基本面重掌主导权</title><link>https://wallstreetcn.com/articles/3778678</link><guid>f8dc4c6430d54f801e492e2daa37bc2e642b5c4a3b642ffe1f836f7f17bc9490</guid><pubDate>Tue, 04 Aug 2026 15:25:50 GMT</pubDate><description>&lt;p&gt;美股市场经历了一轮剧烈的技术性出清，但结构性牛市的根基依然稳固。&lt;/p&gt;
 &lt;p&gt;城堡证券（Citadel Securities）首席策略师在最新报告中指出，&lt;strong&gt;过去一个月的市场动荡本质上是一次必要的技术性重置——通过仓位轮动、去杠杆化和基本面改善完成，而非源于宏观经济的实质恶化。&lt;/strong&gt;该机构由此转向对美股中期前景更为积极的立场。&lt;/p&gt;
 &lt;p&gt;报告称，&lt;strong&gt;此前压制市场的多项技术性因素已大幅消退：散户投资者显著削减风险敞口，杠杆水平趋于正常，市场集中度下降，资金面亦将迎来关键转折。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，标普500指数二季度盈利增长预期已从财报季初的22.4%大幅上修至约45%，估值也随之向更具吸引力的水平回归。报告总结认为，&lt;strong&gt;&amp;quot;七月没有改变结构性牛市，而是重置了它。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
@@ -469,7 +433,27 @@ HBF首个标准规范正式落地
 &lt;p&gt;相比原油供应恢复，库存重建和炼油体系修复可能需要更长时间。&lt;/p&gt;
 &lt;p&gt;Nasser表示，&lt;strong&gt;即便霍尔木兹海峡重新开放，全球商业库存恢复至正常水平仍可能需要18个月。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛也认为，本轮供应冲击已逐步从原油市场传导至成品油市场，其中柴油供应尤为紧张，炼油利润率仍有望维持高位。&lt;/p&gt;
-&lt;p&gt;这意味着，即便未来地缘局势出现缓和，能源市场供需紧张局面也未必会迅速缓解。对于全球经济而言，较高的能源成本和成品油价格仍可能在未来一段时间持续推升通胀压力；而对于能源行业而言，本轮危机也可能成为推动全球原油运输基础设施重新布局的重要催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 麦当劳Q2营收71亿美元，调整后EPS超预期，全球销售增长放缓｜财报见闻</title><link>https://wallstreetcn.com/articles/3778662</link><guid>687d08a4bf3db5ef1c7bdf5b4a68a104115e668fdc2010312ac352e40164db40</guid><pubDate>Tue, 04 Aug 2026 11:28:32 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，即便未来地缘局势出现缓和，能源市场供需紧张局面也未必会迅速缓解。对于全球经济而言，较高的能源成本和成品油价格仍可能在未来一段时间持续推升通胀压力；而对于能源行业而言，本轮危机也可能成为推动全球原油运输基础设施重新布局的重要催化剂。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 市场错判了AI？云业务积压订单暴增150%达1.7万亿美元，华尔街喊话：科技股估值已砸出“低洼”</title><link>https://wallstreetcn.com/articles/3778680</link><guid>097b56d255bf51e976eb61c230f92b50df1f02dceaf31a4e4af2614126ce89a6</guid><pubDate>Tue, 04 Aug 2026 16:07:45 GMT</pubDate><description>&lt;p&gt;市场对于AI资本支出的质疑持续了一年多，但最新数据正在改变这一叙事。&lt;/p&gt;
+&lt;p&gt;过去一年，投资者一直担心科技巨头投入数千亿美元建设AI基础设施，可能面临&amp;quot;高投入、低回报&amp;quot;的问题。然而，随着云业务需求加速释放，越来越多迹象显示，AI资本支出正在转化为更强劲的订单和未来收入增长，而非此前担忧的过度投资。&lt;/p&gt;
+&lt;p&gt;数据显示，&lt;strong&gt;超大规模云服务商的云业务积压订单同比激增超150%，总额已达约1.7万亿美元，增速远超同期约80%的资本支出增幅&lt;/strong&gt;。摩根大通指出，这一显著差距表明，AI基础设施投资所带来的潜在收入回报正超越市场预期，科技巨头的估值消化压力或已接近尾声。&lt;/p&gt;
+&lt;p&gt;在这一背景下，&lt;strong&gt;摩根大通指出，市场正在重新评估AI基础设施投资的回报能力，Mag 7 的估值倍数可能已经触底。&lt;/strong&gt;&lt;/p&gt;
+AI投入从成本变成收入来源，云巨头需求超预期
+&lt;p&gt;二季度财报季释放出的信号显示，云计算需求正在快速兑现。&lt;/p&gt;
+&lt;p&gt;摩根大通分析师Mark Schilsky表示，&lt;strong&gt;云业务积压订单和净新增年度经常性收入（ARR）的增长速度，均大幅领先于资本支出增速，这意味着未来收入增长有望覆盖当前大规模基础设施投入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;亚马逊CEO Andy Jassy在二季度财报电话会上更是罕见上调了AWS长期空间。他表示，公司过去预计AWS可以成长为数千亿美元收入规模的业务，而如今认为这一规模至少还会翻倍，并有可能在未来成为一家年收入达到1万亿美元的业务。&lt;/p&gt;
+&lt;p&gt;Jassy同时表示，公司已经看到2028年的需求规模&amp;quot;令人震撼&amp;quot;，而企业客户大规模采用AI推理服务仍处于早期阶段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软、Alphabet和Meta等公司的管理层也释放出类似信号：AI应用商业化仍处于扩张初期，企业端需求远未达到成熟阶段。&lt;/strong&gt;&lt;/p&gt;
+盈利预期上修，但估值反而跌至历史低位
+&lt;p&gt;AI基本面持续改善，但科技股估值却经历了明显压缩。&lt;/p&gt;
+&lt;p&gt;7月市场调整后，标普500信息技术板块远期市盈率降至约20倍，接近过去一年最低水平，处于历史估值区间的第1百分位，低于过去十年的约23倍平均水平。&lt;strong&gt;这意味着，科技板块正在出现罕见的背离：盈利预期持续改善，但估值倍数不断下降。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通指出，大市值科技股（剔除半导体）的远期市盈率，目前较2018年以来历史均值低逾2个标准差。如果估值修复至历史均值下方1个标准差水平，对应约30%的上涨空间；若恢复至长期均值附近，潜在上行空间可能达到约56%。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;超大规模云厂商相对于标普500的表现也已跌至近三年区间底部，而历史上类似位置往往伴随较强的均值回归机会。&lt;/strong&gt;&lt;/p&gt;
+资金配置仍滞后，科技股或迎补仓行情
+&lt;p&gt;估值低迷的另一面，是机构资金配置仍未完全跟上基本面变化。&lt;/p&gt;
+&lt;p&gt;德意志银行数据显示，尽管大型科技公司的盈利增长和盈利预测均明显改善，机构投资者对该板块的仓位仍仅处于小幅超配水平，明显低于过去强盈利周期中的配置力度。&lt;/p&gt;
+&lt;p&gt;与此同时，今年资金持续集中于半导体板块，而大型科技股（剔除半导体）的持仓仍相对不足。&lt;/p&gt;
+&lt;p&gt;摩根大通认为，&lt;strong&gt;如果市场对于AI的核心叙事从&amp;quot;资本支出是否过度&amp;quot;转向&amp;quot;投资回报正在兑现&amp;quot;，下一阶段科技股上涨的动力可能更多来自板块内部轮动，而不是单纯依赖芯片股继续上涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从技术面看，MAGS指数已较近期低点反弹近10%，重新站上200日均线，并接近去年4月以来的长期上升趋势线。摩根大通认为，当前200日均线已趋于平缓，意味着市场正在经历较长时间的整理阶段。&lt;strong&gt;历史经验显示，横盘时间越长，方向选择后的突破力度往往越强。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 麦当劳Q2营收71亿美元，调整后EPS超预期，全球销售增长放缓｜财报见闻</title><link>https://wallstreetcn.com/articles/3778662</link><guid>687d08a4bf3db5ef1c7bdf5b4a68a104115e668fdc2010312ac352e40164db40</guid><pubDate>Tue, 04 Aug 2026 11:28:32 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;麦当劳2026年第二季度交出一份稳健但增长放缓的成绩单。&lt;/p&gt;
 &lt;p&gt;8月4日公布的财报显示，公司第二季度全球系统性销售额同比增长5%，剔除汇率因素后增长4%，达到370亿美元；&lt;strong&gt;合并营收71亿美元，略低于市场预期的71.2亿美元&lt;/strong&gt;；营业利润33.38亿美元，同比增长3%。&lt;strong&gt;调整后每股收益3.38美元，高于市场预期的3.32美元，同比增长6%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;尽管盈利表现稳健，但麦当劳增长动能有所减弱。&lt;strong&gt;第二季度全球可比销售增长1.3%，明显低于去年同期的3.8%。&lt;/strong&gt;其中，美国市场可比销售仅增长0.8%，可比客流仍然承压。面对核心市场增长压力，公司宣布任命资深高管斯凯·安德森（Skye Anderson）担任麦当劳美国总裁，以提升美国业务执行力。&lt;/p&gt;
