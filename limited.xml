@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 07:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] Palantir电话会：力推“主权AI”架构，“没用我们产品的企业，正在浪费Token、泄露商业机密”</title><link>https://wallstreetcn.com/articles/3778622</link><guid>26780f5d2b4af7a680e83c6edaa6a0fabeb26e2ce4d56bd866eeac017bde6ace</guid><pubDate>Tue, 04 Aug 2026 02:51:04 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 07:59:39 GMT</lastBuildDate><item><title>[华尔街见闻] Palantir电话会：力推“主权AI”架构，“没用我们产品的企业，正在浪费Token、泄露商业机密”</title><link>https://wallstreetcn.com/articles/3778622</link><guid>26780f5d2b4af7a680e83c6edaa6a0fabeb26e2ce4d56bd866eeac017bde6ace</guid><pubDate>Tue, 04 Aug 2026 02:51:04 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;凭借美国商业业务高达149%的惊人增速以及对“主权AI”的精准押注，Palantir在2026年第二季度交出了创纪录的成绩单，并在财报电话会上向当前大模型行业的“烧钱游戏”猛烈开炮。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778613"&gt;华尔街见闻提及&lt;/a&gt;，当地时间8月3日美股盘后，Palantir Technologies公布第二季度业绩，经调整每股收益41美分，超出市场预期的35美分；营收同比增长93%至19.4亿美元，亦大幅超出预期的18亿美元。&lt;/p&gt;
 &lt;p&gt;业绩电话会上，首席财务官David Glazer宣布将2026年全年收入指引中值上调至81.54亿美元，较上季度指引提高约11个百分点，&lt;strong&gt;是公司有史以来最大幅度的全年指引上调。&lt;/strong&gt;&lt;/p&gt;
@@ -531,51 +531,42 @@ HBF首个标准规范正式落地
 &lt;p&gt;在FMS 2026展台上，SK海力士还首次公开展示其正在研发中的第十代（V10）375层4D NAND晶圆及产品。&lt;/p&gt;
 &lt;p&gt;375层4D NAND相较上一代产品，每瓦性能提升2.5倍，专为数据中心等对高能效和高性能有严苛要求的AI基础设施环境而优化。&lt;/p&gt;
 &lt;p&gt;SK海力士计划于明年初启动基于该技术的高性能大容量eSSDs量产，以巩固其在AI NAND市场的领先地位。&lt;/p&gt;
-&lt;p&gt;此外，SK海力士展台还将展出涵盖移动、PC、汽车及机器人领域的多元化产品线，展示其在AI时代与客户协同创新的成果。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 开源 vs 闭源--AI大战的终局推演与市场影响</title><link>https://wallstreetcn.com/articles/3778640</link><guid>190db5abec67c29f3a264cf75eabec04f7724789749938d2c1b47d2d0a9b8602</guid><pubDate>Tue, 04 Aug 2026 06:48:06 GMT</pubDate><description>&lt;p&gt;开源与闭源模型之争已从学术讨论演变为影响数十亿美元投资决策的核心议题。 摩根士丹利在最新研究报告中系统梳理了这场博弈的三种终局情景，并为投资者划出了跨越半导体、云计算、安全软件及能源基础设施的受益股票图谱。&lt;/p&gt;
-&lt;p&gt;Kimi K3发布，以及英伟达和Anthropic相继发布的开放权重立场文件，将这场争论推向白热化。投资者担忧：&lt;strong&gt;随着更小、更高效的开源模型大量涌现，算力与AI基础设施需求将遭到压制。&lt;/strong&gt;摩根士丹利对此持不同看法——该行认为，&lt;strong&gt;开放权重模型有助于竞争，并通过&amp;quot;杰文斯悖论&amp;quot;加速AI普及，由此推动更大规模的企业级AI采用，而非削弱需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;调研数据印证了这一趋势。&lt;strong&gt;据麦肯锡对41个国家700位科技领袖的调查，63%的企业已将开源模型纳入AI技术栈，通常与闭源模型并行使用。另有数据显示，2026年2月至7月间，美国公司每周通过OpenRouter路由至中国开源模型的Token占比超过30%&lt;/strong&gt;，尽管这一数据可能更多反映初创企业而非大型企业的行为。尽管如此，摩根士丹利判断，企业AI支出的格局将随模型效率提升和开源模型发展而持续演变，投资者需要一套清晰的分析框架来把握这场变局。&lt;/p&gt;
-
-开源与闭源：一场被误读的争论
-
-&lt;p&gt;大摩认为，市场对开放权重模型存在根本性误解。&lt;/p&gt;
-&lt;p&gt;开源与闭源模型的核心区别并不在于参数规模或性能高低，而在于用户的访问与付费方式：开放权重模型免费获取、可训练调优、部署灵活（本地、云端或API均可）；闭源模型则通过许可证和Token计费向用户收费，权重对所有用户保持一致。&lt;/p&gt;
-&lt;p&gt;从严格意义上区分，开放权重模型（如Meta的Llama、谷歌的Gemma、Qwen、DeepSeek和Kimi）仅公开训练参数，但可能保留训练数据或限制授权；开源模型（如AI2的OLMo）则完整开放包括代码、训练指南和数据细节在内的完整技术栈。当前最高性能的前沿模型均为闭源，原因很简单——训练成本高昂，模型开发商在下一代模型发布前无力免费提供。&lt;/p&gt;
+&lt;p&gt;此外，SK海力士展台还将展出涵盖移动、PC、汽车及机器人领域的多元化产品线，展示其在AI时代与客户协同创新的成果。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储“跌过头”了吗？三星电子“定价相当于没有AI”</title><link>https://wallstreetcn.com/articles/3778645</link><guid>34692896c4895bea7d631ace0db6f61b008b8fbf6522ad88a8442870b1379aa0</guid><pubDate>Tue, 04 Aug 2026 07:58:31 GMT</pubDate><description>&lt;p&gt;韩国AI存储股经历一个多月的大幅调整后，市场到底已经悲观到了什么程度？&lt;/p&gt;
+&lt;p&gt;据追风交易台，汇丰8月3日发布的报告没有继续讨论&amp;quot;市盈率是否便宜&amp;quot;，而是反过来推演市场价格究竟隐含了怎样的长期盈利预期。结果显示，相比传统估值指标，&lt;strong&gt;目前市场真正押注的是AI超级周期将明显缩短，长期盈利能力将大幅回落。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中最极端的例子来自三星电子。&lt;/p&gt;
+&lt;p&gt;汇丰模型显示，三星电子当前股价隐含的长期盈利水平已经降至2024年EPS的约0.8倍。这意味着，市场不仅认为AI难以带来永久性的盈利提升，甚至已经把公司穿越周期的盈利能力定价到AI浪潮开始之前。换句话说，&lt;strong&gt;三星电子股价中，AI长期溢价几乎已被完全抹去。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+汇丰：真正该看的不是PE，而是市场把AI周期砍掉了多少
+&lt;p&gt;汇丰指出，&lt;strong&gt;当前韩国存储股的一大投资误区，在于投资者仍习惯用传统估值指标来判断“便宜”与否。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以SK海力士为例，其未来12个月前瞻市盈率仅4.3倍，处于历史低位附近，但市净率却已接近历史高点。两项指标看似矛盾，根源在于市场并不认可当前处于周期顶部的盈利水平具备持续性。&lt;/p&gt;
+&lt;p&gt;换言之，低市盈率未必代表低估，反而可能暗示市场预期盈利将快速回落；而市净率居高不下，则说明市场认为企业的长期资产价值尚未明显恶化。&lt;strong&gt;二者背离的实质，是市场正重新定价未来的盈利前景，而非当前盈利本身。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，关键变量并非明年的盈利表现，而是市场究竟如何评估本轮AI超级周期的持续时间，以及周期结束后企业还能保留多少盈利能力。&lt;/p&gt;
+&lt;p&gt;为回答这一问题，汇丰未直接预测利润，而是反向推演股价隐含的长期盈利路径。模型基于未来三年一致预期盈利，经10万次蒙特卡洛模拟，筛选出与当前股价匹配的15年盈利轨迹，以揭示市场对盈利周期长度、回落速度及最终长期盈利中枢的真实预期。&lt;/p&gt;
+&lt;p&gt;最终结论显示，&lt;strong&gt;相较于短期盈利波动，市场真正下修的是韩国存储股的长期AI盈利预期。&lt;/strong&gt;&lt;/p&gt;
+三星电子：市场几乎假设AI不会留下长期盈利
+&lt;p&gt;在这一框架下，三星电子成为悲观情绪最集中的案例。&lt;/p&gt;
+&lt;p&gt;自6月初高点以来，公司股价累计下跌约25%，而市场隐含的盈利周期已经从约3.5年缩短至2.5年。与此同时，第3年至第9年的隐含EPS复合增速从约-15%进一步降至-35%，创历史最低水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着，在市场看来，AI带来的高盈利不仅持续时间更短，而且周期结束后的盈利回落幅度也比以往更深。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更值得关注的是长期盈利中枢。&lt;/p&gt;
+&lt;p&gt;汇丰采用&amp;quot;隐含趋势EPS相对于2024年水平&amp;quot;衡量市场对AI长期需求的定价。三星电子这一指标已经从约2倍快速跌至仅0.8倍。&lt;/p&gt;
+&lt;p&gt;如果说盈利周期长度反映市场认为AI热潮还能持续多久，那么趋势EPS则反映市场认为AI最终能给企业留下多少&amp;quot;永久性盈利提升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这意味着市场正逐步剔除AI带来的长期盈利溢价，&lt;strong&gt;不仅认为本轮AI景气难以持续，更认为即使AI投资周期结束，三星电子的盈利能力也难以高于2024年水平。换句话说，市场几乎已经不再给予AI长期价值任何溢价。&lt;/strong&gt;&lt;/p&gt;
+SK海力士同样悲观，但台积电仍保留AI溢价
+&lt;p&gt;SK海力士的调整甚至更加剧烈。&lt;/p&gt;
+&lt;p&gt;自6月25日高点以来，公司股价累计下跌37%，市场隐含盈利周期从约6年骤降至2.7年，第3年至第9年EPS复合增速跌至约-35%，长期趋势盈利也从2024年的约6倍下降至约2倍。汇丰认为，&lt;strong&gt;这样的定价已经体现出对下行周期&amp;quot;过度悲观&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;相比之下，台积电则呈现完全不同的特征。&lt;/p&gt;
+&lt;p&gt;虽然股价也有所调整，但市场隐含盈利周期仍维持在约7.4年，长期趋势盈利仍相当于2024年的约2.3倍，说明市场依然认可AI能够带来穿越周期的盈利提升，而不仅仅是一轮短暂景气。&lt;/p&gt;
+&lt;p&gt;韩国存储股与台积电之间的定价差异，也成为本轮AI板块调整最鲜明的特征。&lt;/p&gt;
+最猛烈的机械性卖压或已接近尾声
+&lt;p&gt;除了盈利预期，汇丰还认为资金面出现积极变化。&lt;/p&gt;
+&lt;p&gt;今年以来，外资累计净卖出三星电子、SK海力士和台积电约1500亿美元，其中仅6月以来就达到约600亿美元。与此同时，此前放大波动的单一股票2倍杠杆ETF正在快速去杠杆，相关产品管理规模已由6月底约370亿美元降至120亿美元，在个股剧烈波动日中的成交占比也明显下降。&lt;/p&gt;
+&lt;p&gt;汇丰认为，&lt;strong&gt;这意味着最具破坏力的机械性抛压正在减弱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于市场而言，下一阶段真正需要回答的问题已经不是AI需求是否存在，而是当前股价是否已经把AI周期压缩得过于悲观。&lt;strong&gt;如果AI需求继续维持韧性，那么韩国存储股当前所隐含的长期盈利假设，或许存在重新修正的空间。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，开放权重并非真正意义上的&amp;quot;免费&amp;quot;。&lt;/p&gt;
-&lt;p&gt;麻省理工学院的一项研究估算，从闭源转向开源模型可使平均价格下降70%，每年为企业节省约250亿美元。&lt;/p&gt;
-&lt;p&gt;但摩根士丹利指出，该研究完成于2025年12月，且未充分考量部署成本——卡内基梅隆大学研究显示，开源模型的投资回收期因规模差异悬殊：小规模部署（参数量低于300亿）最短仅需3个月，而大规模部署（2000亿至1万亿参数）则可长达6年。&lt;/p&gt;
 
-企业采用现状：混合策略主导，闭源仍占主流
 
-&lt;p&gt;超过60%的企业已将开放权重模型纳入技术栈，但当前使用场景高度集中于特定领域。企业主要将其应用于代码生成、文档解析及其他高频次、小规模的专项任务，在这些场景中，不产生Token费用、可自定义、可控制托管位置是核心优势。&lt;/p&gt;
-&lt;p&gt;Shopify机器学习负责人Kshetrajna Raghavan的表述颇具代表性：&amp;quot;当你每天需要运行数十亿次多模态推理时，闭源模型的按Token收费根本无法持续。&amp;quot;麦肯锡调查则显示，40%的企业高管青睐开放权重模型，核心原因正是数据主权与本地化合规需求。&lt;/p&gt;
-&lt;p&gt;然而，开放权重模型的劣势同样不容忽视。&lt;/p&gt;
-&lt;p&gt;第一，持续微调成本不菲，技术能力较弱的企业往往力不从心；第二，安全隐患突出——英国《金融时报》与AI安全机构Alice在2026年4月的测试中，仅用数分钟便通过Heretic工具移除了Meta和谷歌开源模型的安全护栏；第三，企业使用闭源模型可获得IP免责保护，而开放权重模型不提供此类条款；第四，地缘政治风险上升，美国若对中国开源模型实施禁令，将迫使企业转向美国本土替代方案，造成业务连续性风险。&lt;/p&gt;
-&lt;p&gt;此外，摩根士丹利认为，随着开放权重模型数量增加，编排与可观测性工具将变得愈发关键——无论企业选择开源还是闭源，管理认证、路由、推理优化和治理的软件层都将是必要投资。&lt;/p&gt;
 
-三种终局情景与核心受益股
-
-&lt;p&gt;摩根士丹利构建了三套情景框架，覆盖从闭源主导到开源胜出的完整路径，并为每种情景梳理出对应的投资受益方。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;情景一：闭源模型胜出&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;前沿模型性能难以复制，少数资本雄厚的实验室胜出，算力工作负载持续向超大规模云集中，训练需求保持高度计算密集型。Token价格下降，但受市场寡头结构制约，降幅低于开源情景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该情景下，谷歌的战略地位取决于Gemini是否回归前沿——若Gemini 4实现突破，谷歌在自有基础设施上运营模型API的投资回报率约为45%；若未能引领前沿，则更多作为基础设施提供商运营，对应约30%的投资回报率。&lt;/p&gt;
-&lt;p&gt;核心受益公司：云服务商（谷歌、亚马逊）、模型提供商（谷歌、Meta）、安全软件（PANW、CRWD、ZS、NTSK、OKTA）、光网络（ANET、LITE、COHR）、现场电力供应商（BE、INIO、SEI、WMB、LBRT）、半导体（NVDA、AVGO）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;情景二：混合格局&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;无单一架构胜出，闭源前沿模型主导复杂推理与智能代理任务，开放权重模型处理高频次、成本敏感或垂直领域任务，工作负载在公有云、私有云、本地部署及边缘设备间分散运行。闭源模型保留定价权，但受开源竞争压制超额回报。模型编排、路由、评估与治理软件价值显著提升，安全软件因工作负载分散而需求扩张。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;核心受益公司：云服务商（亚马逊、谷歌、微软）、基础设施软件（DDOG、PLTR、APPN）、安全软件（PANW、CRWD、FTNT、ZS、NTSK、OKTA、SAIL、VRNS）、SaaS（SAP、NOW）、光网络（CSCO、FFIV）、现场电力供应商（BE、INIO、SEI、WMB、LBRT）、半导体（NVDA）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;情景三：开放权重模型胜出&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开放权重模型性能收敛至前沿水平，基础模型智能广泛普及，模型API价格大幅下降，推动企业采用浪潮，印证杰文斯悖论。AI基础设施走向去中心化，私有数据中心、主权云、本地部署及边缘设备需求大幅增长，创新重心从预训练转向微调、推理优化、智能代理及特定应用部署。安全软件因本地及分布式工作负载而成为最大赢家之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;核心受益公司：云服务商（微软）、模型提供商（MiniMax、Knowledge Atlas、阿里巴巴、腾讯）、基础设施软件（PLTR）、安全软件（PANW、CRWD、FTNT、OKTA、SAIL）、SaaS（SAP、NOW、SHOP）、本地基础设施（DELL、HPE、NTAP、P）、边缘设备（DELL、HPQ、苹果）、分销商（SNX、INGM、CDW）、现场电力供应商（BE、INIO、SEI、WMB、LBRT）、半导体（NVDA）。&lt;/p&gt;
-
-穿越情景的确定性：电力与英伟达
-
-&lt;p&gt;在三种情景中，有两类资产在任何结局下均保持受益地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达在三套情景中均位列核心受益股——无论计算需求集中于超大规模数据中心还是分散至边缘，GPU需求的底层逻辑均未改变。现场电力供应商（BE、INIO、SEI、WMB、LBRT）同样横跨三种情景，无论工作负载集中还是分散，AI扩张带来的电力需求增长具有结构性支撑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相比之下，部分企业的命运与情景走向高度相关。AVGO在闭源情景下独享最大受益地位；DELL、HPE等本地基础设施厂商及苹果等边缘设备商则在开源情景中才能充分释放价值；大型云服务商的前景则取决于工作负载究竟流向何处——若开源情景成真，微软凭借混合云与本地部署能力具备独特优势，而亚马逊和谷歌在这一情景下则降为&amp;quot;其他受益方&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利的核心判断是：开放权重模型是加速AI普及的催化剂，而非威胁——真正的问题不是AI需求会否萎缩，而是价值将在哪个层级沉淀。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “AI股神爆仓”和“韩股史诗级崩盘”--看似“偶然”实则“必然”，这是未来的预演</title><link>https://wallstreetcn.com/articles/3778623</link><guid>eabafaf0dab7b28008dc20fbdfe828742e0138115f2c9b0a26031c595c9afe94</guid><pubDate>Tue, 04 Aug 2026 02:09:59 GMT</pubDate><description>&lt;p&gt;上周，&lt;a href="https://wallstreetcn.com/articles/3778381?keyword=AI%E8%82%A1%E7%A5%9E"&gt;“AI股神”旗下对冲基金Situational Awareness&lt;/a&gt;，因押注AI公司的高杠杆交易失败，被迫清仓160亿美元股票仓位；同期，韩国KOSPI指数在48小时内一度暴跌逾20%，随后又从低点反弹25%，当周收盘基本持平。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “AI股神爆仓”和“韩股史诗级崩盘”--看似“偶然”实则“必然”，这是未来的预演</title><link>https://wallstreetcn.com/articles/3778623</link><guid>eabafaf0dab7b28008dc20fbdfe828742e0138115f2c9b0a26031c595c9afe94</guid><pubDate>Tue, 04 Aug 2026 02:09:59 GMT</pubDate><description>&lt;p&gt;上周，&lt;a href="https://wallstreetcn.com/articles/3778381?keyword=AI%E8%82%A1%E7%A5%9E"&gt;“AI股神”旗下对冲基金Situational Awareness&lt;/a&gt;，因押注AI公司的高杠杆交易失败，被迫清仓160亿美元股票仓位；同期，韩国KOSPI指数在48小时内一度暴跌逾20%，随后又从低点反弹25%，当周收盘基本持平。&lt;/p&gt;
 &lt;p&gt;市场将这两起事件视为偶发的“噪音”，并迅速消化、翻篇。市场在短暂震荡后，最终归为平静。&lt;/p&gt;
 &lt;p&gt;然而，这种“向前看”的共识可能是一种危险的误读。“AI股神”基金爆仓与韩股暴跌表面上均未引发市场系统性崩溃，但德银认为，两者均是低利率时代杠杆堆积的同一症状，不应被视为孤立事件。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，8月3日德意志银行研究院Luke Templeman等分析师在报告中写道：&lt;/p&gt;
