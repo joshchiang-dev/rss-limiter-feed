@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 03:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] Palantir电话会：力推“主权AI”架构，“没用我们产品的企业，正在浪费Token、泄露商业机密”</title><link>https://wallstreetcn.com/articles/3778622</link><guid>26780f5d2b4af7a680e83c6edaa6a0fabeb26e2ce4d56bd866eeac017bde6ace</guid><pubDate>Tue, 04 Aug 2026 02:51:04 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 04 Aug 2026 03:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] Palantir电话会：力推“主权AI”架构，“没用我们产品的企业，正在浪费Token、泄露商业机密”</title><link>https://wallstreetcn.com/articles/3778622</link><guid>26780f5d2b4af7a680e83c6edaa6a0fabeb26e2ce4d56bd866eeac017bde6ace</guid><pubDate>Tue, 04 Aug 2026 02:51:04 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;凭借美国商业业务高达149%的惊人增速以及对“主权AI”的精准押注，Palantir在2026年第二季度交出了创纪录的成绩单，并在财报电话会上向当前大模型行业的“烧钱游戏”猛烈开炮。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778613"&gt;华尔街见闻提及&lt;/a&gt;，当地时间8月3日美股盘后，Palantir Technologies公布第二季度业绩，经调整每股收益41美分，超出市场预期的35美分；营收同比增长93%至19.4亿美元，亦大幅超出预期的18亿美元。&lt;/p&gt;
 &lt;p&gt;业绩电话会上，首席财务官David Glazer宣布将2026年全年收入指引中值上调至81.54亿美元，较上季度指引提高约11个百分点，&lt;strong&gt;是公司有史以来最大幅度的全年指引上调。&lt;/strong&gt;&lt;/p&gt;
@@ -225,7 +225,105 @@ AI主权与“自我打榜”时代，将算力转化为真实阿尔法
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.31%，恒生科技指数涨0.3%。医药股领涨，药明康德涨近10%，石油股低迷。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通上调美国长期国债收益率预期，华尔街各大行利率观点一览</title><link>https://wallstreetcn.com/articles/3778608</link><guid>3750e766c815265e2fe634aa75b323c24743d94eab4c2815900e776f0b6c6323</guid><pubDate>Mon, 03 Aug 2026 21:15:24 GMT</pubDate><description>&lt;p&gt;摩根大通上调美国长期国债收益率预测，成为本周华尔街利率前景讨论的核心议题。多家主要机构相继发布报告，围绕美联储信誉受损、通胀风险溢价上升及收益率曲线走势表达看法，分歧与共识并存。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压</title><link>https://wallstreetcn.com/articles/3778632</link><guid>999c521e9b873d74ab64b70d86c3537e7451f8e005f17642e0e0d79aa8f143a8</guid><pubDate>Tue, 04 Aug 2026 03:35:55 GMT</pubDate><description>&lt;p&gt;同一个财报季，&lt;a href="https://wallstreetcn.com/articles/3778353?keyword=%E5%BE%AE%E8%BD%AF"&gt;微软市值单日暴涨4500亿美元&lt;/a&gt;创下全球股市史上单日市值增长纪录，&lt;a href="https://wallstreetcn.com/articles/3778603"&gt;亚马逊五天冲进3万亿美元俱乐部&lt;/a&gt;。另一边，&lt;a href="https://wallstreetcn.com/articles/3778058"&gt;SK海力士股价腰斩&lt;/a&gt;，铠侠股价腰斩，全球存储股十有八九跌超40%。&lt;/p&gt;
+&lt;p&gt;同样在做AI。一半在暴涨，一半在腰斩。&lt;/p&gt;
+&lt;p&gt;这不是随机波动。这是市场在用真金白银重新回答一个核心问题：&lt;strong&gt;AI这场盛宴里，到底谁在赚钱，谁在买单？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去两年，市场奖励的是&amp;quot;谁花得最多&amp;quot;——CSP（云服务提供商）上调一次资本开支，GPU、HBM、光模块、交换机、PCB、电源、液冷、数据中心就一起涨一轮。现在，市场开始问一个更严格的问题：巨头们砸下去的万亿美金，到底流进了谁的现金流，又沉淀成了谁的折旧？&lt;/p&gt;
+&lt;p&gt;答案或许正在浮出水面——&lt;strong&gt;AI的钱没有消失，只是换了口袋。 从卖铲子的人，流向把铲子变成生意的人。从修路的人，流向在路上收租的人。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;三个信号同时亮起，市场开始重新做题&lt;/strong&gt;
+&lt;p&gt;要理解这一轮分化，不能只看涨跌数字。7月末这个时间窗口上，三件事同时发生了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一件事：CSP（云服务提供商）证明了自己能把算力变成收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778264?keyword=%E5%BE%AE%E8%BD%AF"&gt;微软Azure同比增速43%&lt;/a&gt;。亚马逊AWS同比37%，创18个季度最快。Google Cloud同比82%，三年最高。三家合计年化云收入3890亿美元，单季净新增年化经常性收入500亿美元——是过去三个季度均值的两倍。&lt;/p&gt;
+&lt;p&gt;更重要的是，收入在加速，但加速的不只是那几个AI实验室在买算力。微软披露了一个关键数字：商业剩余履约义务达到6780亿美元，同比增长84%，而且&lt;strong&gt;全部的环比增长，来自非前沿实验室客户&lt;/strong&gt;。银行、制造、医疗、政府——那些过去两年被市场认为&amp;quot;AI跟它们没关系&amp;quot;的传统企业，现在正在签合同。&lt;/p&gt;
+&lt;p&gt;AWS不仅说——AWS在做。8月4日，AWS负责人Matt Garman公开确认，公司正在与客户签署&lt;strong&gt;五年期承诺合同&lt;/strong&gt;，且&amp;quot;市场需求仍远超供给，我们正努力加快建设和投资步伐，以跟上客户的需求&amp;quot;。这不是需求的故事，这是确定性订单的故事。五年期合同意味着客户不是在试水AI，而是把它嵌入了自己的核心业务流程——这种收入黏性，是任何&amp;quot;capex焦虑&amp;quot;最有力的解药。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二件事：基础设施链的叙事模型失效了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778167?keyword=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB"&gt;SK海力士交出了史上最强的营收和利润&lt;/a&gt;——营业利润暴增557%。然后股价暴跌。&lt;/p&gt;
+&lt;p&gt;为什么？因为市场对它的期待不是&amp;quot;史上最强&amp;quot;，而是&amp;quot;强到能支撑过去两个月涨出来的几十个点的预期&amp;quot;。当实际增长跑不过远期预期，当CSP capex的同比增速从加速两位数滑向高位个位数，估值模型就得换——从&amp;quot;你能卖多少货&amp;quot;，变成&amp;quot;你还能涨多快&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这是物理规律，不是判断。CSP capex不可能永久维持每年30%、50%的同比增速。当行业从&amp;quot;加速扩张期&amp;quot;进入&amp;quot;高位增长期&amp;quot;，&lt;strong&gt;增速的二阶导为负&lt;/strong&gt;，估值就要重新定价。这就是为什么美光、铠侠和SK海力士在交出最强报表的同时遭遇了最惨烈的抛售。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三件事：模型的定价权，正在塌方。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;就在财报最密集的那一周，OpenAI把新模型GPT-5.6 Luna的价格砍掉了80%。从1美元每百万Token，直接杀到0.2美元。上线才三周。&lt;/p&gt;
+&lt;p&gt;这是一个被DeepSeek逼出来的降价。过去一年，中国开源模型在全球API平台OpenRouter上的Token调用占比，从4.5%飙升到了46%。DeepSeek V4 Flash价格是0.14美元，阿里Qwen3.7 Flash更低到0.03美元。模型的收费站在被拆掉。&lt;/p&gt;
+&lt;p&gt;这三件事，放进同一个时间坐标里——&lt;/p&gt;
+&lt;p&gt;CSP能赚钱 + 基础设施增速见顶 + 模型定价权瓦解 = &lt;strong&gt;利润从硬件和模型层，大规模回流到基础设施与平台层。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;CSP凭什么收租？云厂的ROI账本：重资产≠低回报&lt;/strong&gt;
+&lt;p&gt;要理解CSP为什么突然变成了市场的新宠，不能靠感觉，要来算几笔账。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一笔：利润账——云厂的ROI账本，重资产≠低回报&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去两年市场默认云厂是冤大头——钱都让英伟达和海力士赚走了。大摩7月底的测算推翻了这个判断：&lt;strong&gt;纯GPU租赁基准ROIC&lt;/strong&gt;（投资资本回报率，Return on Invested Capital）&lt;strong&gt;约31%，在1GW数据中心、41万颗GB300、75%利用率的假设下，租赁价从7美元涨到10美元/小时，ROIC能从23%跳到39%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而且别忘了，数据中心的主体——土地、电力、机房——使用寿命超过30年，可以跨越五到六代服务器。服务器每代更新，基础设施不需要重来。这意味着最先入场的CSP在后续代际中的边际经济性会更好，不是更差。市场最终意识到了这一点。&lt;/p&gt;
+&lt;p&gt;大摩拆出了三种AI商业模式的自下而上ROIC测算：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;纯GPU租赁（IaaS）&lt;/strong&gt;：基准ROIC约31%。在GPU供不应求、利用率75%的假设下，租赁价格从7美元涨到10美元每小时，ROIC可以从23%跳到39%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;自有基础设施上的模型API&lt;/strong&gt;：基准ROIC约46%。前提是模型公司保持产品差异化和定价能力——但考虑到当前的价格战，这个前提正在动摇。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;使用第三方算力的模型API&lt;/strong&gt;：ROIC仅25%。需要额外支付&amp;quot;中间层利润&amp;quot;给云厂商。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这个测算的核心结论，直接挑战了市场近一年来的一个前置判断：&lt;strong&gt;重资产≠低回报。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二笔：收入账——需求从实验室扩散到了企业&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去两年，市场对AI capex最大的恐惧是&amp;quot;循环融资&amp;quot;：CSP砸钱给OpenAI、Anthropic这些模型公司，模型公司再把钱买回CSP的算力。左手倒右手，真实的终端需求在哪里？&lt;/p&gt;
+&lt;p&gt;这个恐惧，正在被本季度的数据证伪。&lt;/p&gt;
+&lt;p&gt;微软的商业剩余履约义务，全部环比增长来自非实验室客户。AWS的backlog已经达到4960亿美元，三位数增长。Google Cloud的backlog 5140亿美元，单季增加500亿。近90%的财富100强企业已经在用Gemini Enterprise。&lt;/p&gt;
+&lt;p&gt;华尔街见闻此前用了一个形象的比喻：&lt;strong&gt;CSP过去是在为&amp;quot;前沿实验室&amp;quot;这个唯一的租客盖房，现在整栋写字楼开始入驻了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这不是一家公司的孤立信号。三家同时出现同样的趋势——AI需求正在从少数初创AI实验室，扩散到传统行业的企业客户。当客户结构从&amp;quot;集中&amp;quot;变成&amp;quot;广泛&amp;quot;，循环融资的叙事就站不住脚了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三笔：模式账——四家公司，四种收租方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CSP不是一个统一概念。这轮财报真正有意思的地方在于，四家巨头形成了四种完全不同的AI回报路径。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软——三层收租模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Azure提供最基础的GPU租赁和云服务，这是第一层。Foundry平台提供模型调用、微调和部署，这是第二层。Copilot直接嵌入Office 365和GitHub，按席位收费（付费席位已超3000万），这是第三层。&lt;/p&gt;
+&lt;p&gt;三层之间互相引流：Azure的企业客户可以升级到Foundry使用模型；Foundry上的模型可以渗透到Copilot的应用场景；Copilot又反过来推动Azure的消费。这不是一条收入线，是一个收入矩阵。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;亚马逊——最简单最透明的收租模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AWS本身就是出租算力和存储的生意，运行了18年，客户、计费、留存体系极度成熟。本季度收入422亿美元，同比37%，创18个季度最快。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谷歌——最亮眼的数字，最模糊的账本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google Cloud的82%增速、利润率和利润率改善幅度，从表面看是四家中最强的。但市场给的反馈是先跌后涨。&lt;/p&gt;
+&lt;p&gt;原因在于成本归属的&amp;quot;灰色地带&amp;quot;。Gemini同时服务搜索、广告、Workspace、YouTube、消费应用和云服务，共享AI研发费用留在了集团层面。Google Cloud的分部利润率，不能等同于谷歌&amp;quot;芯片—模型—云&amp;quot;全栈的真实经济利润率。&lt;/p&gt;
+&lt;p&gt;有研究机构指出，如果把全部Gemini费用扣回，Google Cloud利润率大约只剩10%出头。谷歌不是不赚钱，是赚钱的路径太复杂。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meta——从&amp;quot;纯花钱&amp;quot;变成&amp;quot;开始想收租&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta过去两年在投资者眼里是四家中最尴尬的一个：AI确实改善了广告推荐、内容排序和素材生成，但这些收益隐藏在原有广告业务里，没办法和新增capEx逐项对应。当capEx指引从1300亿调到1450亿美元，自由现金流只剩7.84亿美元（同比-91%），市场的耐心到了极限。&lt;/p&gt;
+&lt;p&gt;但Meta正在发生一个微妙的变化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司被曝筹划云业务，考虑向开发者提供模型访问服务，并出售富余的AI算力。&lt;/strong&gt;这意味着Meta的算力资产不再是&amp;quot;自用或闲置&amp;quot;的二元选择。它可以切换到对外出租。&lt;/p&gt;
+&lt;strong&gt;模型价格战：收租人最大的助攻&lt;/strong&gt;
+&lt;p&gt;本轮分化最容易被忽略的触发变量，不是财报，是模型层的价格崩塌。&lt;/p&gt;
+&lt;p&gt;回到7月30日那一天。除了微软发财报，OpenAI还做了一件事：把GPT-5.6 Luna的价格砍到原来的五分之一。不是上市一年后降价，是上市三周后降价。&lt;/p&gt;
+&lt;p&gt;这背后是一个更大的趋势——&lt;strong&gt;开源模型正在把闭源模型的&amp;quot;收费站&amp;quot;拆掉。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去两年，AI产业链的利润分配逻辑是：英伟达赚GPU的钱，CSP赚算力租赁的辛苦钱，模型公司（OpenAI、Anthropic）凭借技术壁垒赚溢价。模型层是&amp;quot;架在云上面的收费站&amp;quot;——不管你用谁的算力、跑什么应用，调用最强模型都得过它这一关。&lt;/p&gt;
+&lt;p&gt;现在这个收费站在被拆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中国开源模型的突破是最大的拆墙锤。&lt;/strong&gt;DeepSeek V4用华为昇腾950芯片训练了1.6万亿参数，性能媲美GPT-5。阿里Qwen3.7 Flash价格低到0.03美元每百万Token输入。在最大的模型API聚合平台OpenRouter上，中国模型的Token调用量占比在一年内从4.5%飙到了46%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当46%的调用走便宜开源模型，闭源模型就再也不能收取&amp;quot;独此一家&amp;quot;的溢价。OpenAI被迫跟进降价，不是因为它想，是因为它别无选择。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这对CSP意味着什么？&lt;/p&gt;
+&lt;p&gt;巴克莱分析师Raimo Lenschow在8月3日的报告里写了一段非常精准的判断：&lt;strong&gt;当模型从&amp;quot;稀缺品&amp;quot;变成&amp;quot;大宗商品&amp;quot;，议价权就回流到了拥有算力、客户和分发渠道的平台手中。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CSP不再必须绑死在某一家模型公司上。它们可以同时提供GPU租赁 + 自托管开源模型 + 自研模型API。客户不需要只选一个模型，CSP可以充当&amp;quot;路由器&amp;quot;——高复杂度任务用顶级闭源模型，常规任务用便宜开源模型，高吞吐、低成本的稳态负载用自研ASIC芯片跑。&lt;/p&gt;
+&lt;p&gt;这个&amp;quot;多模型架构&amp;quot;最终谁最受益？不是最会训练模型的公司，而是最会把不同模型串联起来、按需分配算力、按用量收费的公司。&lt;strong&gt;这就是CSP。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大摩7月27日的报告甚至直接把这个逻辑拆成了数学：如果模型API价格跌50%，但Token调用量因此涨5倍，对CSP自建基础设施上的推理收入来说，是净增。因为它的成本端在走芯片性能和软件优化的效率曲线，收入端在走需求爆炸的用量曲线。只要第二条曲线跑得比第一条快，这就是一个好生意。&lt;/p&gt;
+&lt;p&gt;而对独立的模型公司来说，价格跌50%意味着收入直接砍半——除非它的Token调用量能翻倍，但开源模型的替代效应让它做不到。&lt;/p&gt;
+&lt;strong&gt;谁在买单：基础设施链的残酷均值回归&lt;/strong&gt;
+&lt;p&gt;如果说CSP涨是&amp;quot;收租故事被定价&amp;quot;，那基础设施链的暴跌就是&amp;quot;增速神话被拆穿&amp;quot;。&lt;/p&gt;
+&lt;p&gt;大摩策略师Michael Wilson用了一个精准的类比：&lt;strong&gt;半导体股票，特别是存储，走势高度类似白银。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;逻辑有两条。第一，两者都经历了抛物线式上涨——情绪和资金把价格推到了基本面无法支撑的位置。第二，两者都具有大宗商品属性——存储芯片是AI硬件复合体中&amp;quot;最像大宗商品&amp;quot;的品类，价格弹性大、反转也快。&lt;/p&gt;
+&lt;p&gt;这轮调整由存储领跌，SK海力士从高点腰斩，铠侠腰斩，美光跌超30%，全球14只存储概念股中有10只从高点跌超40%。完全符合Wilson在7月初的预判。&lt;/p&gt;
+&lt;p&gt;但存储只是一个&amp;quot;领头样本&amp;quot;。更深层的问题是：&lt;strong&gt;所有以CSP capex总量进行线性外推来估值的公司，现在都面临同一个拷问——如果capex的同比增速从30%降到15%，你的估值还能不能撑住？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个问题，不是靠&amp;quot;AI需求依然强劲&amp;quot;就能回答的。需求还在，但增速是另一回事。&lt;/p&gt;
+&lt;p&gt;对于这条链上的不同环节，受伤程度也不一样。可以用三层来理解：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一层：直接承压——存储和&amp;quot;大宗商品化&amp;quot;硬件。&lt;/strong&gt; 最典型的受害者。价格周期见顶 + capex增速放缓 + &amp;quot;白银属性&amp;quot;下的动量平仓。跌了之后便宜，但周期股&amp;quot;便宜&amp;quot;之后通常还有&amp;quot;更便宜&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二层：估值重调——光通信、网络设备等&amp;quot;capex贝塔&amp;quot;方向。&lt;/strong&gt; 绝对capex仍在增长，但增速下滑意味着这些公司的估值倍数需要从&amp;quot;高增长&amp;quot;档下调到&amp;quot;稳定增长&amp;quot;档。股价不一定继续大跌，但回到高点的难度大幅增加。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三层：相对扛打——有结构性升级逻辑的环节。&lt;/strong&gt; 从800G迈向1.6T光模块、从风冷迈入液冷、从传统供电迈入更高功率密度——这些&amp;quot;从0到1&amp;quot;的技术升级方向，即使capex总量增速放缓，仍能凭借份额和单位价值量的提升获得阿尔法。但前提是，升级逻辑足够硬，且估值没有提前透支。&lt;/p&gt;
+&lt;p&gt;这也是为什么英伟达在这一轮下跌中相对抗跌（跌幅约10%）——结构性需求仍然在，市场只是不再给它过去半年那种&amp;quot;CSP投多少钱我就涨多少&amp;quot;的线性定价了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月26日，英伟达将公布Q2财报。这是整条AI产业链的下一个核心验证窗口。如果业绩和指引超预期，基础设施链可能获得喘息；如果不及预期，下行空间仍大。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;接下来：高回报不是白送的，需要持续验证&lt;/strong&gt;
+&lt;p&gt;这不是AI周期的终结。至少目前不是。&lt;/p&gt;
+&lt;p&gt;产业层面的需求仍然汹涌。微软说下半年Azure继续加速，AWS说2027年大部分产能已预定，谷歌说90%的财富100强在Gemini Enterprise上。三家CSP的云收入合计年化3890亿美元，而且全部在加速。&lt;/p&gt;
+&lt;p&gt;但市场已经换了做题方式。从过去两年的&amp;quot;选择题&amp;quot;——CSP上调capex→找所有受益股→买买买；变成了&amp;quot;证明题&amp;quot;——你的收入能覆盖折旧吗？你的算力利用率够高吗？你的客户结构有多分散？你的模型成本谁在承担？&lt;/p&gt;
+&lt;p&gt;这套证明题的要求，在产业链上不同位置是完全不同的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对CSP来说&lt;/strong&gt;，证明题相对友好。它们的业务本质是&amp;quot;把算力变成经常性收入&amp;quot;——一旦客户签了长期合同、跑上了生产级负载、把它嵌入了自己的核心业务流程，这个收入的黏性是很高的。只要企业级AI采用率持续扩大，CSP的&amp;quot;收租&amp;quot;逻辑就能持续。&lt;/p&gt;
+&lt;p&gt;但CSP内部也在分化。微软和AWS目前是证明题答得最好的两家——微软有Copilot和Foundry的多层收入出口，AWS有最透明的租金模型和最成熟的客户体系。谷歌还需要解决成本归属的透明度问题。Meta则需要把&amp;quot;算力租赁&amp;quot;从新闻标题变成可披露收入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对基础设施链来说&lt;/strong&gt;，证明题要难得多。&lt;/p&gt;
+&lt;p&gt;过去两年，这条链上的公司享受了一种&amp;quot;双重红利&amp;quot;：CSP持续上调capex→总量贝塔+投资者线性外推→估值扩张。现在CSP capex可能已经接近或正在接近增速拐点，总量贝塔在收缩，估值就要回归到只反映&amp;quot;能挣多少钱&amp;quot;的轨道上。&lt;/p&gt;
+&lt;p&gt;这不是某个公司的错，是估值模型的切换。但这不意味着整条链都没机会了。关键看三件事：&lt;/p&gt;
+&lt;p&gt;第一，&lt;strong&gt;产品迭代能否跑赢周期&lt;/strong&gt;。从800G到1.6T光模块，从风冷到液冷，从HBM3E到HBM4——技术升级带来单位价值量提升的公司，即使capex增速放缓，也能获得份额和利润的增量。这是阿尔法，不是贝塔。&lt;/p&gt;
+&lt;p&gt;第二，&lt;strong&gt;是否过度依赖远期线性外推&lt;/strong&gt;。如果一只股票的估值已经把2027-2028年的极端乐观情景都price in了，那无论基本面好不好，它的风险都比已经回调过的同行更大。&lt;/p&gt;
+&lt;p&gt;第三，&lt;strong&gt;收入、利润和现金流能否互相验证&lt;/strong&gt;。这是最重要的。那些有订单但没有收入、有收入但没有利润、有利润但没有现金流的公司，在&amp;quot;证明题&amp;quot;时代会非常痛苦。市场过去可以原谅这些错配——&amp;quot;反正CSP还在加capex，先看天花板再看地板&amp;quot;——现在不会了。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通上调美国长期国债收益率预期，华尔街各大行利率观点一览</title><link>https://wallstreetcn.com/articles/3778608</link><guid>3750e766c815265e2fe634aa75b323c24743d94eab4c2815900e776f0b6c6323</guid><pubDate>Mon, 03 Aug 2026 21:15:24 GMT</pubDate><description>&lt;p&gt;摩根大通上调美国长期国债收益率预测，成为本周华尔街利率前景讨论的核心议题。多家主要机构相继发布报告，围绕美联储信誉受损、通胀风险溢价上升及收益率曲线走势表达看法，分歧与共识并存。&lt;/p&gt;
 &lt;p&gt;上周美联储决定维持利率不变，主席沃什随后发表讲话，引发市场对美联储抗通胀信誉的广泛质疑。摩根大通策略师Jay Barry等人在7月31日报告中指出，&lt;strong&gt;短端收益率下降、长端收益率上升的市场反应，&amp;quot;反映出市场对美联储公信力的担忧&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;摩根大通经济学家随之将美联储首次加息的预测时间从明年下半年提前至今年12月。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受油价大幅下跌影响，美国10年期国债收益率周一下跌约5个基点至4.68%左右，但这一短期波动并未改变机构对长端利率上行的整体判断。多数机构认为，通胀预期抬升与期限溢价扩大将持续施压长期利率，收益率曲线进一步陡峭化的趋势短期内难以逆转。&lt;/p&gt;
@@ -395,24 +493,7 @@ FIMA工具的局限性：上限恰好卡在日本单日干预规模附近
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛合伙人：盈利才是核心驱动力，标普500年内有望再创历史新高</title><link>https://wallstreetcn.com/articles/3778629</link><guid>d596e6b6996568f2d7487c0a1739152233c0e4724c7bed83d8be013bf13862c2</guid><pubDate>Tue, 04 Aug 2026 02:52:01 GMT</pubDate><description>&lt;p&gt;强劲的企业盈利正在为美股多头提供最有力的支撑。高盛合伙人John Flood认为，随着市场仓位趋于“干净”，标普500指数年内有望再创历史新高，而驱动这一判断的核心逻辑是——盈利。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据高盛数据，标普500指数第二季度每股收益（EPS）同比增速追踪值高达45%，远超季初22%的市场一致预期。&lt;/strong&gt;即便剔除Alphabet和亚马逊合计约1510亿美元股权投资相关&amp;quot;其他收入&amp;quot;等非经常性项目，标普500 EPS增速仍达26%，不仅较第一季度加速，更是2021年以来最快增速。与此同时，分析师已开始上调2027年盈利预期，修正方向在多数板块呈现正面。&lt;/p&gt;
-&lt;p&gt;在仓位层面，高盛情绪与仓位指标已从此前的高位回落，快速仓位指标普遍转向偏空，对冲基金去杠杆明显，零售投资者杠杆也开始降温。John Flood认为，这一&amp;quot;更干净&amp;quot;的仓位环境为市场进一步上行创造了条件。&lt;/p&gt;
-盈利超预期，增速为五年最快
-&lt;p&gt;高盛数据显示，标普500指数第二季度EPS同比增速追踪值达45%，大幅超出季初22%的一致预期。其中，19个百分点的增长来自Alphabet与亚马逊合计1510亿美元的股权投资相关&amp;quot;其他收入&amp;quot;，微软亦贡献了约30亿美元的同类收入。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;剔除上述非核心收入来源后，标普500 EPS增速仍达26%，较第一季度进一步加速，创下2021年以来最快增长节奏。从个股层面看，标普500成分股中位数EPS同比增速追踪值为12%，同样超出季初9%的一致预期，表明盈利改善具有较强的广泛性，并非仅由少数科技巨头拉动。&lt;/p&gt;
-前瞻预期持续上修，修正广度保持正面
-&lt;p&gt;&lt;strong&gt;强劲的二季度业绩不仅反映了过去的经营成果，也推动分析师持续上调前瞻盈利预测。&lt;/strong&gt;自第三季度开始以来，市场对标普500指数2027年EPS的一致预期已上调约1%，其中能源和金融板块获得最大幅度的上修。&lt;/p&gt;
-&lt;p&gt;从修正广度来看，标普500成分股中盈利预期被上调的公司数量持续多于被下调的公司，修正广度维持正值。高盛认为，这种全面性的上修趋势是支撑市场估值的重要基础。&lt;/p&gt;
-仓位&amp;quot;去泡沫化&amp;quot;，为上行腾出空间
-&lt;p&gt;&lt;strong&gt;在市场情绪与仓位方面，高盛情绪与仓位指标已降至第53百分位，较此前高位明显回落。&lt;/strong&gt;多数快速仓位指标转向偏空：期货仓位虽仍偏高但已不再处于极端水平，认购/认沽比率下降，投资者调查显示乐观情绪减退，主动管理型基金的美股仓位（NAAIM指数为79.7）也有所收缩。&lt;/p&gt;
-&lt;p&gt;对冲基金层面，去杠杆化尤为显著——总杠杆率已回吐年内涨幅的一半，净杠杆率较年初下降。零售投资者方面，杠杆水平开始降温，韩国股市保证金余额从历史高位回落，日本融资买入规模也从1990年以来最高水平开始回撤，美国投资者对半导体股票的买入力度亦有所放缓。&lt;/p&gt;
-&lt;p&gt;John Flood认为，上述仓位的“去泡沫化”意味着市场结构更为健康，潜在的抛压有所减轻，为指数进一步走高创造了更有利的条件。&lt;/p&gt;
-估值相对偏低，AI周期提供长期支撑
-&lt;p&gt;从全球横向比较来看，高盛数据显示，相对于其他主要市场，美股估值目前处于相对&amp;quot;便宜&amp;quot;的水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，John Flood指出，AI超级周期的主要红利尚未完全释放，全球最大科技公司正持续加大资本投入，推动盈利改善的广度和深度不断扩展。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，高盛也提示了一个值得关注的季节性风险：自1974年以来的13个中期选举年中，标普500指数从8月初至选举日的中位数回报率为0%。这意味着，即便盈利基本面持续向好，John Flood的年内新高预判在时间节奏上仍存在不确定性。高盛的结论是：盈利图景为多头提供了有力支撑，但能否持续，仍是关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Millennium管理基金7月亏损2.1%，AI股震荡重创对冲基金</title><link>https://wallstreetcn.com/articles/3778611</link><guid>fa9344d3ec962fe54f2deaf810fb1037e0c0f307465b281735f0964d10c5d72e</guid><pubDate>Mon, 03 Aug 2026 21:02:51 GMT</pubDate><description>&lt;p&gt;人工智能股票的大幅波动令对冲基金行业7月份业绩分化明显，多策略巨头受损，量化基金逆势走强。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Millennium管理基金7月亏损2.1%，AI股震荡重创对冲基金</title><link>https://wallstreetcn.com/articles/3778611</link><guid>fa9344d3ec962fe54f2deaf810fb1037e0c0f307465b281735f0964d10c5d72e</guid><pubDate>Mon, 03 Aug 2026 21:02:51 GMT</pubDate><description>&lt;p&gt;人工智能股票的大幅波动令对冲基金行业7月份业绩分化明显，多策略巨头受损，量化基金逆势走强。&lt;/p&gt;
 &lt;p&gt;8月3日，据彭博援引知情人士透露，千禧年管理基金（Millennium Management）的资产净值7月份累计下跌2.1%，将其年内累计回报压缩至8.2%。&lt;/p&gt;
 &lt;p&gt;多经理人权益基金North Rock同期亦下跌2.1%，年内涨幅收窄至4.8%；多策略基金LMR跌幅相对较小，为0.48%，年内仍录得6%的正回报。&lt;/p&gt;
 &lt;p&gt;AI及半导体板块的下跌是拖累权益类投资组合的主要原因。其中，Situational Awareness基金在追缴保证金压力下被迫向Citadel出售大部分公开市场股票头寸，令该板块此前的部分跌势有所收窄。&lt;/p&gt;
@@ -589,62 +670,24 @@ BIS泡沫警示与长期通胀跑赢记录并存
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，Hensoldt收涨8.25%，Comet控股涨6.8%，阿卡迪斯公司涨6.4%，Reply股份涨6.38%表现第四。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美日联手就能撑住日元吗？华尔街相信“日本不加息，任何干预都没用”</title><link>https://wallstreetcn.com/articles/3778619</link><guid>f1c8d6f69fd723ab6a71c758db7cc10d936e62865edba2ac4d5c912718986b29</guid><pubDate>Tue, 04 Aug 2026 00:33:29 GMT</pubDate><description>&lt;p&gt;美日联手砸下近千亿美元干预日元，但市场已在用行动投票：日元反弹正在迅速消退。&lt;/p&gt;
-&lt;p&gt;8月3日，日本财务省确认已与美国财政部联合出手，两天内动用近1000亿美元买入日元，规模创历史纪录，并警告必要时将不惜再次行动。这是自2011年福岛核灾难以来，美日首次携手干预汇市。&lt;/p&gt;
-&lt;p&gt;消息后，日元一度大幅走强。但反弹的持续性存疑，日元已从干预后的高点快速回落逾200点，价格走势与今年4月30日那次干预后的路径几乎如出一辙——冲高后迅速被市场反向消化。&lt;/p&gt;
-&lt;p&gt;问题的核心不在干预本身，而在日本央行。只要美日利差不缩小，日元就没有反弹的充分理由。高盛经济学家目前的基准预期是：&lt;strong&gt;日本央行下次加息将在2027年1月，这意味着美日之间超过200个基点的短端利差将长期维持，“日元大概率还是会走弱”——干预买来的，不过是时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;换句话说，只要日本央行不加息，干预就是在用有限的子弹打一场打不赢的仗。8月3日，美元指数当日几乎收平，日元收于156.99，仅微升0.3%。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛合伙人：盈利才是核心驱动力，标普500年内有望再创历史新高</title><link>https://wallstreetcn.com/articles/3778629</link><guid>d596e6b6996568f2d7487c0a1739152233c0e4724c7bed83d8be013bf13862c2</guid><pubDate>Tue, 04 Aug 2026 02:52:01 GMT</pubDate><description>&lt;p&gt;强劲的企业盈利正在为美股多头提供最有力的支撑。高盛合伙人John Flood认为，随着市场仓位趋于“干净”，标普500指数年内有望再创历史新高，而驱动这一判断的核心逻辑是——盈利。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据高盛数据，标普500指数第二季度每股收益（EPS）同比增速追踪值高达45%，远超季初22%的市场一致预期。&lt;/strong&gt;即便剔除Alphabet和亚马逊合计约1510亿美元股权投资相关&amp;quot;其他收入&amp;quot;等非经常性项目，标普500 EPS增速仍达26%，不仅较第一季度加速，更是2021年以来最快增速。与此同时，分析师已开始上调2027年盈利预期，修正方向在多数板块呈现正面。&lt;/p&gt;
+&lt;p&gt;在仓位层面，高盛情绪与仓位指标已从此前的高位回落，快速仓位指标普遍转向偏空，对冲基金去杠杆明显，零售投资者杠杆也开始降温。John Flood认为，这一&amp;quot;更干净&amp;quot;的仓位环境为市场进一步上行创造了条件。&lt;/p&gt;
+盈利超预期，增速为五年最快
+&lt;p&gt;高盛数据显示，标普500指数第二季度EPS同比增速追踪值达45%，大幅超出季初22%的一致预期。其中，19个百分点的增长来自Alphabet与亚马逊合计1510亿美元的股权投资相关&amp;quot;其他收入&amp;quot;，微软亦贡献了约30亿美元的同类收入。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-为什么干预难以奏效？
-&lt;p&gt;本轮干预规模前所未有。据日本央行账户数据，7月31日（周四）单日干预规模约8.45万亿日元（约530亿美元），创历史最大单日干预记录；周五再度出手约5.3万亿日元（约330亿美元）。两天合计近1000亿美元。干预后美元兑日元一度跌至155.20，但随即反弹逾200点。此前自2022年9月以来，日本财务省已累计干预逾2550亿美元，却始终未能阻止日元长期贬值趋势。&lt;/p&gt;
-&lt;p&gt;尽管此次规模创纪录，高盛研究团队（Mike Cahill领衔）在最新的报告中指出，&lt;strong&gt;“市场反应处于历史干预的偏低区间，说明当日元贬值与宏观和市场基本面大体吻合时，干预的边际效果正在递减——尽管仍有一定作用。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;为什么干预难以奏效？分析认为，日元贬值的根本逻辑，是利差。&lt;/p&gt;
-&lt;p&gt;美国联邦基金利率远高于日本央行政策利率，两者之间超过200个基点的利差，意味着做空日元、持有美元资产每天都在赚钱。只要这个利差存在，套息交易就有动力持续。&lt;/p&gt;
-&lt;p&gt;彭博专栏作家John Authers指出，日本财务省的干预越来越频繁，恰恰说明每次干预的效果越来越差。&lt;strong&gt;市场知道财务省的弹药有限，也知道日本财政状况不佳，更知道唯一能真正扭转日元颓势的手段——大幅加息，按部分测算需要加息100个基点——在可预见的未来几乎不可能发生。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-日本央行为何不敢加息？
-&lt;p&gt;干预能买时间，但无法改变方向。日本央行才是真正的变量。&lt;/p&gt;
-&lt;p&gt;日本央行目前政策利率为1%，为1995年以来最高，但上周干预发生后数小时内，日本央行选择按兵不动，没有加息。&lt;/p&gt;
-&lt;p&gt;Jesper Koll，长期驻东京的投资银行家，直接发问：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;日本央行植田和男行长信心满满地告诉我们，他预计日本通胀将在下半财年重新加速至2%以上，但他随即选择不行动。那么，你到底为什么不加息？难道是因为日本金融体系太脆弱，加快加息会引发银行业危机？&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;答案几乎已经摆在桌面上。日本国债市场中，超过一半的债务已由日本央行持有——因为没有其他足够的买家。一旦利率快速上升，日本国债价格将大幅下跌，整个财政架构面临崩塌风险。&lt;/p&gt;
-&lt;p&gt;前高盛外汇策略师、现布鲁金斯学会研究员Robin Brooks说得更直白：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;日元下跌，是因为日本高企的公共债务让这个国家无法允许收益率自由上升。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他认为，日元贬值本质上是“一场被掩盖的债务危机的症状”。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;债券被压制，日元就成为一场被掩盖的债务危机最直接的症状。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-没有加息，一切都是临时的
-
-&lt;p&gt;高盛的整体结论是：短期内美元/日元的不对称风险指向进一步下行，若汇价再度突破158，当局很可能再度出手；技术面看，155一旦有效跌破，下一个重要支撑在152附近。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;但中期而言，高盛研究团队（Mike Cahill领衔）认为，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;除非政策组合或全球增长前景出现实质性改变，鼓励资本回流（repatriation）将是影响日元汇率最有力的长期政策工具。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;言下之意，干预和渐进加息都不足以持续强化日元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛外汇期权交易全球主管Praneet Shah同样警告，“中期来看，宽货币+宽财政的政策背景对日元仍是利空，除非日本真正提升政策利率，并实现实质性的外商直接投资流入。此外，随着干预储备消耗，未来日本在汇率防御上的弹药将减少，可能为更大规模的日元贬值积累风险。”&lt;/p&gt;
-&lt;p&gt;长期驻东京的投资银行家Jesper Koll虽自认是日本经济乐观者，但也承认：&lt;strong&gt;“日元走弱仍是大概率路径。日本央行按兵不动，背后是对次级银行体系的担忧；而新财政政策几乎必然最终导向通胀，风险依然不对称地偏向更弱的日元。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;换句话说，干预可以买时间，但买不来趋势。日本央行不加息，任何干预终将被市场消化。&lt;/p&gt;
-最大的尾部风险：套息交易崩解
-&lt;p&gt;日元干预之所以牵动全球市场神经，还有一个更深层的原因：规模庞大的日元套息交易。&lt;/p&gt;
-&lt;p&gt;过去五年，借入低息日元、投资高收益资产的策略，回报甚至超过了标普500的总回报。这笔交易的前提，是日元缓慢、可预期地贬值。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一旦日元快速升值，套息交易被迫平仓，将对全球风险资产造成冲击。两年前（2024年8月），套息交易曾已以“混乱方式”部分平仓，造成全球市场剧烈震荡。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本轮干预已令套息交易从此前稳定的上升趋势中明显震荡出局。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;高盛交易员Jia Wen Tuea提示，这也是美国参与干预的现实逻辑之一：&lt;strong&gt;“日本是美国国债最大的境外持有方。如果日本独自干预，就需要抛售美债换取美元来买日元，推高美国收益率——这对华盛顿同样是个麻烦。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-高盛：下次加息或在2027年1月
-&lt;p&gt;高盛经济学家逆势判断：通胀数据不足以支撑日本央行在9月加息，维持基准预测——下次加息将在2027年1月。&lt;/p&gt;
-&lt;p&gt;如果这一预测成真，意味着美日利差将在相当长时间内维持现状，套息交易的逻辑依然成立，日元的结构性贬值压力不会消失。&lt;/p&gt;
-&lt;p&gt;更直接的后果是：&lt;strong&gt;美国财政部此次联合干预，将面临重大损失——用真金白银买入的日元，可能随着日元再度走弱而大幅贬值。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Koll总结道，尽管他对日本经济持乐观态度，但也承认“日元大概率还是会走弱”，风险依然不对称地偏向日元进一步贬值。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”</title><link>https://wallstreetcn.com/articles/3778603</link><guid>8b0449b8fda9c3a47b7024144117e6550532152d6b798f1a1c45a01ffe16386a</guid><pubDate>Mon, 03 Aug 2026 19:50:42 GMT</pubDate><description>&lt;p&gt;亚马逊股价周一继续收涨4.6%，&lt;strong&gt;市值首次突破3万亿美元，成为史上第五家跻身这一量级的公司&lt;/strong&gt;，此前仅有英伟达、Alphabet、微软和苹果达到这一里程碑。&lt;/p&gt;
+&lt;p&gt;剔除上述非核心收入来源后，标普500 EPS增速仍达26%，较第一季度进一步加速，创下2021年以来最快增长节奏。从个股层面看，标普500成分股中位数EPS同比增速追踪值为12%，同样超出季初9%的一致预期，表明盈利改善具有较强的广泛性，并非仅由少数科技巨头拉动。&lt;/p&gt;
+前瞻预期持续上修，修正广度保持正面
+&lt;p&gt;&lt;strong&gt;强劲的二季度业绩不仅反映了过去的经营成果，也推动分析师持续上调前瞻盈利预测。&lt;/strong&gt;自第三季度开始以来，市场对标普500指数2027年EPS的一致预期已上调约1%，其中能源和金融板块获得最大幅度的上修。&lt;/p&gt;
+&lt;p&gt;从修正广度来看，标普500成分股中盈利预期被上调的公司数量持续多于被下调的公司，修正广度维持正值。高盛认为，这种全面性的上修趋势是支撑市场估值的重要基础。&lt;/p&gt;
+仓位&amp;quot;去泡沫化&amp;quot;，为上行腾出空间
+&lt;p&gt;&lt;strong&gt;在市场情绪与仓位方面，高盛情绪与仓位指标已降至第53百分位，较此前高位明显回落。&lt;/strong&gt;多数快速仓位指标转向偏空：期货仓位虽仍偏高但已不再处于极端水平，认购/认沽比率下降，投资者调查显示乐观情绪减退，主动管理型基金的美股仓位（NAAIM指数为79.7）也有所收缩。&lt;/p&gt;
+&lt;p&gt;对冲基金层面，去杠杆化尤为显著——总杠杆率已回吐年内涨幅的一半，净杠杆率较年初下降。零售投资者方面，杠杆水平开始降温，韩国股市保证金余额从历史高位回落，日本融资买入规模也从1990年以来最高水平开始回撤，美国投资者对半导体股票的买入力度亦有所放缓。&lt;/p&gt;
+&lt;p&gt;John Flood认为，上述仓位的“去泡沫化”意味着市场结构更为健康，潜在的抛压有所减轻，为指数进一步走高创造了更有利的条件。&lt;/p&gt;
+估值相对偏低，AI周期提供长期支撑
+&lt;p&gt;从全球横向比较来看，高盛数据显示，相对于其他主要市场，美股估值目前处于相对&amp;quot;便宜&amp;quot;的水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，John Flood指出，AI超级周期的主要红利尚未完全释放，全球最大科技公司正持续加大资本投入，推动盈利改善的广度和深度不断扩展。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，高盛也提示了一个值得关注的季节性风险：自1974年以来的13个中期选举年中，标普500指数从8月初至选举日的中位数回报率为0%。这意味着，即便盈利基本面持续向好，John Flood的年内新高预判在时间节奏上仍存在不确定性。高盛的结论是：盈利图景为多头提供了有力支撑，但能否持续，仍是关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”</title><link>https://wallstreetcn.com/articles/3778603</link><guid>8b0449b8fda9c3a47b7024144117e6550532152d6b798f1a1c45a01ffe16386a</guid><pubDate>Mon, 03 Aug 2026 19:50:42 GMT</pubDate><description>&lt;p&gt;亚马逊股价周一继续收涨4.6%，&lt;strong&gt;市值首次突破3万亿美元，成为史上第五家跻身这一量级的公司&lt;/strong&gt;，此前仅有英伟达、Alphabet、微软和苹果达到这一里程碑。&lt;/p&gt;
 &lt;p&gt;此番涨势延续上周财报公布后的强劲反弹——&lt;a href="https://wallstreetcn.com/articles/3778366?keyword=%E4%BA%9A%E9%A9%AC%E9%80%8A"&gt;亚马逊云服务AWS收入加速增长&lt;/a&gt;，触发市场做多热情全面回归。&lt;/p&gt;
 &lt;p&gt;上周五单日涨幅超过15%，创逾14年来最大单日涨幅，市值单日净增近4000亿美元。伴随本周进一步上涨，&lt;strong&gt;亚马逊在&amp;quot;七巨头&amp;quot;中的年内表现跃居首位，今年累计涨幅约10%&lt;/strong&gt;，而其他大型科技股整体仅录得约2.1%的涨幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
