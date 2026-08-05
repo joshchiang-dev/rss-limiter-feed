@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 19:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%</title><link>https://wallstreetcn.com/articles/3778704</link><guid>60a7b721d8b33045294eac42ea856d3040e472fa4803de272774079fc143e377</guid><pubDate>Wed, 05 Aug 2026 13:42:24 GMT</pubDate><description>&lt;p&gt;美股财报彰显经济韧性，AI投资信心回升。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 19:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%</title><link>https://wallstreetcn.com/articles/3778704</link><guid>60a7b721d8b33045294eac42ea856d3040e472fa4803de272774079fc143e377</guid><pubDate>Wed, 05 Aug 2026 13:42:24 GMT</pubDate><description>&lt;p&gt;美股财报彰显经济韧性，AI投资信心回升。&lt;/p&gt;
 &lt;p&gt;周三，美股三大股指小幅高开，道指涨0.33%，标普500指数涨0.56%，纳指涨0.39%。SpaceX跌超10%，公司营收增92%大超预期，资本支出激增；AMD跌7%，Q2营收、利润均超预期，Q3指引未满足激进投资者预期。&lt;/p&gt;
 &lt;p&gt;数据方面，ADP研究院周三发布的数据显示，7月私人部门新增就业4.4万人，低于彭博经济学家调查预期的6.5万人，亦是今年以来的最低水平，此前6月份经修订后的数据为9.5万人。&lt;/p&gt;
 &lt;p&gt;地缘方面，霍尔木兹海峡重新开放预期出现反复。据CCTV国际时讯，伊朗国家电视台今天（8月5日）援引知情人士消息&lt;strong&gt;，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。&lt;/strong&gt;消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。布伦特原油涨0.8%，报每桶约80美元。现货黄金一度突破4200美元/盎司，日内涨幅达3.0%，报4200.52美元/盎司。&lt;/p&gt;
@@ -249,33 +249,44 @@ MLCC与存储芯片：涨价潮持续，多股连板
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD的AI野心，卡在了产能上</title><link>https://wallstreetcn.com/articles/3778738</link><guid>34bceafe2a3196f38244bf4ac66d9924082cbfb78630fd2b093f7671ef160ef6</guid><pubDate>Wed, 05 Aug 2026 07:55:50 GMT</pubDate><description>&lt;p&gt;AMD交出了一份超预期的季度成绩单，并给出了强劲的前瞻指引，&lt;strong&gt;但华尔街的分歧正从&amp;quot;需求是否存在&amp;quot;转向&amp;quot;供给能否跟上&amp;quot;&lt;/strong&gt;——这一叙事重心的转换，标志着AMD的AI投资故事进入了全新阶段。&lt;/p&gt;
-&lt;p&gt;2026年二季度，AMD营收达115.4亿美元，同比增长50%，超出市场一致预期的113.1亿美元。数据中心部门以107%的同比增速成为核心驱动力，GPU收入约达28亿美元（据摩根大通估算）。管理层随即就2027年做出迄今最为明确的量化承诺：数据中心总营收有望实现同比翻倍以上增长，服务器CPU收入增速将超过70%——这一表态已明显超出此前数月的预期框架。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Jeff Dean 27年Google生涯落幕，携三位顶尖科学家离职创业，Kavukcuoglu接棒Gemini 4</title><link>https://wallstreetcn.com/articles/3778778</link><guid>0ca02d532bd25b1345db516007c7cf3dab6b2aeddca78fc79399c9806d5b230f</guid><pubDate>Wed, 05 Aug 2026 19:46:17 GMT</pubDate><description>&lt;p&gt;谷歌正在承受一波难以忽视的顶尖AI人才流失。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谷歌首席科学家Jeff Dean宣布离职，结束长达27年的任职生涯，转而创办一家名为Discovery Loop的AI初创公司，专注于自动化科学研究流程。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与他同行的还有三位谷歌资深科学家Oriol Vinyals、Quoc Le和Sanjay Ghemawat，四人均在AI及计算机科学领域拥有里程碑式的成就。Alphabet将向该公司提供云计算资源并参与投资，Radical Ventures与Khosla Ventures共同领投种子轮融资。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谷歌DeepMind负责人Demis Hassabis将转任AI实验室的主席。谷歌首席AI架构师、Hassabis长期副手Koray Kavukcuoglu将接管Hassabis的大部分职责。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一人事变动发生在谷歌AI竞争格局持续承压的背景之下。谷歌去年秋天凭借新版Gemini一度在前沿模型竞赛中领先，但此后已被OpenAI和Anthropic反超，其最新旗舰模型Gemini 3.5 Pro迟迟未能发布。&lt;/p&gt;
+&lt;p&gt;消息发布后，谷歌股价盘中一度下跌5%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;然而，强劲的业绩与乐观的展望并未使市场形成一致共识。据追风交易台消息，来自摩根大通、高盛及汇丰的研究报告均显示，&lt;strong&gt;管理层的2027年指引在卖方预期之上，但却未能覆盖买方中最为激进的情景假设，尤其是毛利率指引温和以及MI450量产的执行风险，构成了短期内不确定性的主要来源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在当前518.58美元的股价水平下，各大行对AMD的评级出现明显分化：高盛维持买入，目标价640美元；摩根大通和汇丰则分别以中性和持有评级，目标价550美元和500美元按兵不动。&lt;/p&gt;
 
-MI450机架规模产品开始出货，执行风险不容忽视
+四位谷歌元老联手出走
 
-&lt;p&gt;AMD旗舰AI产品Helios/MI450已于三季度末启动初始出货，预计四季度进入更大规模的量产爬坡阶段，并于2027年上半年进一步加速。管理层表示，客户拉货进度&amp;quot;领先于初始预测&amp;quot;，合作伙伴名单亦已从OpenAI、Meta、Anthropic三家核心锚定客户向外延伸，MI500的客户接洽工作亦已全面展开。&lt;/p&gt;
-&lt;p&gt;然而，多家机构均对此次首款机架规模产品的量产执行保持审慎。&lt;strong&gt;摩根大通指出，MI450组合带来的毛利率稀释效应将随出货量在四季度至2027年上半年期间逐步显现。&lt;/strong&gt;该行还注意到，来自OpenAI及Meta认股权证的稀释机制将于2027年下半年开始层叠作用，需在预测模型中持续追踪。&lt;/p&gt;
-&lt;p&gt;在利润率的平衡因素方面，服务器CPU的正向贡献以及嵌入式业务重返双位数同比增长（近三年来首次），将在一定程度上对冲GPU组合带来的毛利率压力。三季度毛利率指引约为56%，略低于卖方预期的56.2%，管理层对四季度个人电脑市场亦持审慎态度，游戏业务收入预计在2026年全年及2027年持续承压。&lt;/p&gt;
+&lt;p&gt;Dean于1999年作为谷歌第30号员工加入公司，此后推动了多项关键技术转型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他于2011年联合创办了谷歌大脑（Google Brain），这是谷歌深度学习研究的奠基团队；他还主导开发了张量处理器（TPU）——这一芯片如今为谷歌大型语言模型提供算力支撑，并已向外部企业销售。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与他同行的三位科学家背景同样显赫。&lt;/p&gt;
+&lt;p&gt;Vinyals是AlphaFold的主要贡献者之一，这一蛋白质结构预测AI程序于2024年摘得诺贝尔奖；Le共同撰写和参与指导了谷歌的AI系统，该系统曾在国际数学奥林匹克竞赛中赢得金牌级别成绩；Ghemawat则是谷歌另一位早期员工，与Dean共同在21世纪初构建了谷歌的分布式系统基础架构，并于2012年获得美国计算机协会（ACM）的联合表彰。&lt;/p&gt;
+&lt;p&gt;谷歌CEO Sundar Pichai表示，Dean和Ghemawat在任职的27年间推动了公司若干最重要的技术转型，并对二人表示祝愿。&lt;/p&gt;
+AI部门权力重构：Hassabis任首席科学家，Kavukcuoglu接棒Gemini 4
+&lt;p&gt;Jeff Dean的出走并不是孤例。Google近期正面临一系列AI人才流失，且与Anthropic、OpenAI等竞争对手相比，在推出顶尖大模型方面出现延迟。在此背景下，Pichai同步宣布了AI部门的重大重组。&lt;/p&gt;
+&lt;p&gt;Demis Hassabis将日常运营职责交接出去，转任DeepMind董事长并出任Alphabet首席科学家。他在X平台发帖称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我一生都在为通用人工智能（AGI）而努力，在进入这个关键时刻之际，我将专注于长期战略，加速科学突破。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他补充说，未来将与Pichai共同处理与AI相关的&amp;quot;战略性和全球性&amp;quot;事务。&lt;/p&gt;
+&lt;p&gt;Hassabis的向上跃迁，将技术执行的接力棒交给了Koray Kavukcuoglu。作为DeepMind技术负责人，Kavukcuoglu将直接向Pichai汇报，并承担Gemini 4的研发重任。&lt;/p&gt;
+&lt;p&gt;在Gemini系列与竞品之间的代际差距尚未弥合的当下，研发主帅临阵更迭，为项目推进注入了新的不确定性。&lt;/p&gt;
 
-供给侧约束成为最大变量，AMD加大设备托管投资
+自动化科学实验循环，瞄准药物研发与清洁能源
 
-&lt;p&gt;在需求能见度持续提升的背景下，供给侧约束正成为决定AMD能否兑现指引的核心变量。&lt;/p&gt;
-&lt;p&gt;二季度资本支出大幅跃升至8.08亿美元，远高于一季度的3.89亿美元。管理层明确表示，增量资本支出专门用于向外包封测（OSAT）供应商托管CoWoS先进封装设备，以保障Venice CPU的量产产能。&lt;/p&gt;
-&lt;p&gt;汇丰的研究报告对此进行了深入的情景分析，并明确指出供给侧是当前估值最主要的上下行催化因素。&lt;strong&gt;汇丰估算，若要实现管理层2027年服务器CPU超过70%增长及数据中心整体翻倍的目标，CoWoS-L产能需求将比基础情景分别高出35%和12%。&lt;/strong&gt;由于AMD选择将设备托管至SPIL、PTI等二线封装厂，而非台积电等一线供应商，汇丰认为这意味着一线供应商在2027年前几乎没有产能向上突破的空间，同时低良率带来的产出风险不可忽视。该行还将上行与下行风险的监控重点明确归纳为三项：先进封装产能、HBM内存供应，以及基板供给。&lt;/p&gt;
-&lt;p&gt;摩根大通亦注意到二季度资本支出飙升的信号，认为其明确指向Venice量产爬坡所需的产能备货行动。&lt;/p&gt;
+&lt;p&gt;Discovery Loop定位为一家公共受益公司（public-benefit corporation），核心愿景是通过机器学习模型自动化科学与工程领域中复杂的多步骤研究流程，从而加速发现进程。&lt;/p&gt;
+&lt;p&gt;&amp;quot;科学过程就是提出实验想法、搭建并运行实验，然后评估结果，&amp;quot;Dean在接受采访时表示，&amp;quot;在很多领域，你完全可以将这整个循环计算机化。&amp;quot;这也是该公司名称的由来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discovery Loop计划首先聚焦于利用自有技术栈实现机器学习研究与工程的自动化，未来将逐步拓展至硬件设计、药物研发及清洁能源等全球性挑战领域。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于离开谷歌的原因，Ghemawat表示，谷歌现有基础架构非常适合大型消费应用、广告系统和搜索业务，但与他们希望为研究领域构建的基础架构&amp;quot;所需的要求截然不同&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Dean补充说，他大约五周前开始认真考虑这一创业方向，随后迅速联络了其余三位伙伴。&lt;/p&gt;
 
-华尔街分歧加剧，估值已充分定价多年机会
+人才流失考验谷歌AI竞争力
 
-&lt;p&gt;在此次业绩发布后，三家主要机构的评级与目标价走向截然不同，折射出市场在&amp;quot;成长预期&amp;quot;与&amp;quot;执行风险&amp;quot;之间的拉锯。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摩根大通将目标价由此前的385美元（对应2026年12月）上调至550美元（对应2027年12月），&lt;/strong&gt;估值方法为32倍市盈率乘以2027年下半年年化每股盈利17.20美元，维持中性评级。该行将2026年预期每股盈利下调约6%至7.25美元，同时建立了2027年14.38美元的全年预测，并指出&amp;quot;股价已大幅反映了多年期机会&amp;quot;，首次机架规模产品量产的执行风险在整个2027财年内仍然显著。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛维持买入评级，目标价640美元&lt;/strong&gt;，基于对AMD&amp;quot;归一化&amp;quot;每股盈利20美元应用32倍市盈率。该行将2026年至2028年每股盈利预测平均上调约13%，认为AMD完全具备实现2027年数据中心收入超过400亿美元的条件，并视服务器CPU的强劲增长为对冲GPU产品量产期毛利率压力的有效缓冲。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;汇丰维持持有评级及500美元目标价，&lt;/strong&gt;基于2027年预期每股盈利13.78美元乘以36倍市盈率，认为当前股价已包含约4%的下行空间，供给侧能力将主导估值的上下行方向。&lt;/p&gt;
-&lt;p&gt;在财务层面，摩根大通预测AMD 2026年营收将达505亿美元，2027年进一步扩张至840亿美元，同比增速约66%；预期每股盈利分别为7.25美元和14.38美元；非GAAP营业利润率则有望从2026年的约28%提升至2027年的约35%。三季度营收指引中值为130亿美元，高于市场此前预期的125亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？</title><link>https://wallstreetcn.com/articles/3778754</link><guid>6f898b7828ab78c6172e5a47121d96bc9168cc509e32c76c3b0a2bf01a0c5f10</guid><pubDate>Wed, 05 Aug 2026 11:22:45 GMT</pubDate><description>&lt;p&gt;两大存储芯片巨头闪迪（Sandisk）与西部数据（Western Digital）将于周三美股收盘后相继发布季度财报，市场将借此检验一个关键问题：&lt;strong&gt;强劲的业绩与前景指引，是否足以重燃投资者信心，终结这场席卷存储板块的抛售。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这并非谷歌近期的孤例。据报道，transformer架构论文的联合作者、Character.AI联合创始人Noam Shazeer近期离开谷歌加盟OpenAI；AlphaFold诺贝尔奖共同得主John Jumper则已转投Anthropic。&lt;/p&gt;
+&lt;p&gt;高端AI研究人才的持续出走，与谷歌前沿模型进展迟缓的局面交织叠加，令外界对其AI竞争力的疑虑加深。&lt;/p&gt;
+&lt;p&gt;Gemini 3.5 Pro发布时间表仍不明朗，与此同时，Meta旗下部分新模型在若干基准测试上已超越Gemini，进一步压缩了谷歌的领先空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？</title><link>https://wallstreetcn.com/articles/3778754</link><guid>6f898b7828ab78c6172e5a47121d96bc9168cc509e32c76c3b0a2bf01a0c5f10</guid><pubDate>Wed, 05 Aug 2026 11:22:45 GMT</pubDate><description>&lt;p&gt;两大存储芯片巨头闪迪（Sandisk）与西部数据（Western Digital）将于周三美股收盘后相继发布季度财报，市场将借此检验一个关键问题：&lt;strong&gt;强劲的业绩与前景指引，是否足以重燃投资者信心，终结这场席卷存储板块的抛售。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;闪迪股价7月单月暴跌47%，市值蒸发逾1500亿美元，创下其2025年2月上市以来最惨烈的月度表现。尽管如此，该股年内累计涨幅仍高达501%，依然是标普500指数今年表现最佳的成分股。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;进入本周，股价已明显企稳，周一上涨6%，周二再涨11%。与此同时，西部数据自6月18日触及历史高点以来已累计下跌26%，费城半导体指数7月则录得2008年以来最大单月跌幅，重挫21%。&lt;/p&gt;
