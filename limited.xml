@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 14:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速</title><link>https://wallstreetcn.com/articles/3778726</link><guid>b3262d1c449d8c869532dbe6339759727b73eea75a01fa35623d67d6bf7c51b0</guid><pubDate>Wed, 05 Aug 2026 06:24:26 GMT</pubDate><description>&lt;p&gt;8月4日盘后，AMD交出了一份几乎没有瑕疵的财报：营收115.36亿美元，同比增长 50%，创历史新高；非GAAP每股收益1.66美元，超过市场预期的1.62美元；数据中心营收67.18亿美元，同比翻倍，占公司总营收的58%。股价在盘后却一度暴跌10%，收跌8.8%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 15:29:39 GMT</lastBuildDate><item><title>[华尔街见闻] AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速</title><link>https://wallstreetcn.com/articles/3778726</link><guid>b3262d1c449d8c869532dbe6339759727b73eea75a01fa35623d67d6bf7c51b0</guid><pubDate>Wed, 05 Aug 2026 06:24:26 GMT</pubDate><description>&lt;p&gt;8月4日盘后，AMD交出了一份几乎没有瑕疵的财报：营收115.36亿美元，同比增长 50%，创历史新高；非GAAP每股收益1.66美元，超过市场预期的1.62美元；数据中心营收67.18亿美元，同比翻倍，占公司总营收的58%。股价在盘后却一度暴跌10%，收跌8.8%。&lt;/p&gt;
 &lt;p&gt;超预期为什么成了利空？市场定价的不是业绩，是加速。AMD年内股价涨超130%，52周区间从149美元到584美元，涨幅里装的是&amp;quot;追赶英伟达&amp;quot;的预期。Q3指引约130亿美元，高于共识的125亿美元，但环比只增 13%——维持斜率，不是跳档。市场要的加速，财报没有给。&lt;/p&gt;
 &lt;p&gt;投资的代价在财报上也有所显现：&lt;strong&gt;56%的毛利率创了新高，但 AI 数据中心的毛利率低于公司平均，占比58%的成长业务反而在稀释利润率；为了 Helios 机柜系统抢产能，资本开支花了8.08亿美元，是分析师预期的近3倍，自由现金流从25.7亿美元腰斩到15.6亿美元。增长的代价，第一次在资产负债表上显形。&lt;/strong&gt;&lt;/p&gt;
 
@@ -318,30 +318,7 @@ MI450机架规模产品开始出货，执行风险不容忽视
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;高盛维持买入评级，目标价640美元&lt;/strong&gt;，基于对AMD&amp;quot;归一化&amp;quot;每股盈利20美元应用32倍市盈率。该行将2026年至2028年每股盈利预测平均上调约13%，认为AMD完全具备实现2027年数据中心收入超过400亿美元的条件，并视服务器CPU的强劲增长为对冲GPU产品量产期毛利率压力的有效缓冲。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;汇丰维持持有评级及500美元目标价，&lt;/strong&gt;基于2027年预期每股盈利13.78美元乘以36倍市盈率，认为当前股价已包含约4%的下行空间，供给侧能力将主导估值的上下行方向。&lt;/p&gt;
-&lt;p&gt;在财务层面，摩根大通预测AMD 2026年营收将达505亿美元，2027年进一步扩张至840亿美元，同比增速约66%；预期每股盈利分别为7.25美元和14.38美元；非GAAP营业利润率则有望从2026年的约28%提升至2027年的约35%。三季度营收指引中值为130亿美元，高于市场此前预期的125亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚洲科技股重挫25-30%，市场定价“EPS下调或资本开支削减”！摩根大通预测：恰恰相反</title><link>https://wallstreetcn.com/articles/3778714</link><guid>27a0dc1b5830e14cc0a41a3f3af8934f95d507b7b36beefc2a2f270152bc380c</guid><pubDate>Wed, 05 Aug 2026 03:06:19 GMT</pubDate><description>&lt;p&gt;亚洲科技股在本轮AI驱动上行周期中经历了第三次逾20%的深度回调，市场定价已隐含EPS即将下调或超大规模云服务商（hyperscaler）削减资本开支的悲观预期。摩根大通认为，现实走向恰恰相反。&lt;/p&gt;
-&lt;p&gt;据追风交易台，摩根大通在8月5日发布的亚洲科技策略报告中表示，亚洲科技股及费城半导体指数（SOX）近期累计下跌25%至30%，但基本面并未出现任何预示未来6至12个月实质性走弱的信号。该行明确表示，&lt;strong&gt;EPS预期在未来数个季度内仍将持续上调，修正广度将进一步扩大，超大规模云服务商2027年资本开支指引亦呈上行趋势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通在报告中宣布，当前是买入亚洲科技股的时机，该行认为，估值经过此轮修正后已趋于合理，亚洲科技股（剔除存储）目前交易于10年平均市盈率上方约一个标准差水平，并非过度昂贵。&lt;/p&gt;
-AI扩展定律完好，算力需求加速兑现
-&lt;p&gt;摩根大通强调，&lt;strong&gt;本轮上行周期的核心逻辑——AI扩展定律（Scaling Laws）——依然成立。&lt;/strong&gt;&amp;quot;投入10倍算力训练模型可带来约2倍智能提升&amp;quot;的经验法则基本延续，多家前沿AI实验室正竞相推进模型能力突破，部分厂商已就递归自我改进（RSI）方向取得进展，有望加速前沿模型演进节奏。&lt;/p&gt;
-&lt;p&gt;公有云收入数据印证了AI算力消费的强劲势头。谷歌、微软、亚马逊及甲骨文四大云厂商合计公有云收入同比增速已连续多个季度加速，2026年第二季度单季新增收入约150亿美元，较第一季度近乎翻倍。与此同时，三大公有云厂商的合同积压规模持续扩张——谷歌云积压订单已超5140亿美元，亚马逊AWS达4960亿美元，微软商业剩余履约义务为6780亿美元——为超大规模云服务商维持高强度资本开支提供了坚实支撑。&lt;/p&gt;
-&lt;p&gt;开源大模型的崛起并未被视为利空。该行认为，前沿模型竞争格局日趋激烈、领导地位频繁更迭，反而有利于科技硬件需求和AI算力资本开支的持续扩张。&lt;/p&gt;
-超大规模云服务商资本开支2027年仍将强劲，融资或带来短期波动
-&lt;p&gt;2027年超大规模云服务商资本开支将保持强劲增长。据该行分析师Doug Anmuth和Samik Chatterjee的预测，亚马逊、微软、谷歌、Meta、甲骨文、Coreweave及SpaceX七大超大规模云服务商合计资本开支2026年预计同比增长约103%至约9010亿美元，2027年将进一步增长65%至约1.49万亿美元。SpaceX亦被视为新兴重量级资本开支主体，有望与传统云服务商并驾齐驱。&lt;/p&gt;
-&lt;p&gt;对于市场担忧的资本开支可持续性问题，超大规模云服务商自由现金流将在2026年下半年及2027年转负，&lt;strong&gt;但报告认为其资产负债表整体仍属健康&lt;/strong&gt;——截至2026年第二季度，超大规模云服务商合计净债务与股权比率约为12%。该行预计，相关企业将通过股权及债务融资渠道补充资金，不会在2027年收缩AI算力投资。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在库存层面，未发现任何AI关键组件（GPU、ASIC、存储等）出现库存积压迹象，与2022年汽车零部件或2017年云服务商DRAM芯片的周期顶部特征截然不同。该行预计，未来12个月内AI芯片需求将持续超出供应链供给能力及数据中心电力预算上限。&lt;/p&gt;
-半导体设备与IC基板最具配置价值，存储叙事存在隐患
-&lt;p&gt;&lt;strong&gt;在子板块配置上，摩根大通认为半导体设备（SPE）是未来12个月内最具优势的细分领域。&lt;/strong&gt;该行预计台积电及主要存储厂商资本开支预期将出现显著上调，设备与洁净室空间有望成为2027至2028年的下一个瓶颈。&lt;/p&gt;
-&lt;p&gt;IC基板被列为组件板块中基本面最为扎实的细分领域，受益逻辑包括：AI加速器封装尺寸持续增大、服务器CPU需求强劲、EMIB-T封装技术自2027年底起加速渗透，以及CPO相关解决方案带来的增量需求。供给端集中度高，未来两年内难以出现大规模产能扩张，利润率仍远低于前期峰值，EPS上调空间充裕。&lt;/p&gt;
-&lt;p&gt;存储板块则是态度相对审慎的例外。尽管供需基本面健康，供给缺口预计延续2至3年，但英伟达和AMD计划推出低HBM密度加速器（Vera Rubin和MI455的8HBM4堆叠方案），并削减2027年Vera CPU的SoCAMM内存配置以应对DRAM供应紧张和成本压力，这与历史周期中的降配行为高度相似，可能对存储股估值形成天花板效应。经历逾40%的深度回调后，存储股未来6个月或有较强反弹，但短期内难以收复2026年5月的前期高点。&lt;/p&gt;
-互联效率与电力供应或成下一阶段关键变量
-&lt;p&gt;报告还就中期潜在瓶颈转移提出前瞻性判断。当前GPU和ASIC集群的模型算力利用率（MFU）普遍偏低，仅为20%至40%，部分大型集群甚至低于20%。随着资本开支攀升、电力预算趋紧及芯片供应受限，AI基础设施提供商和模型实验室将更加重视集群效率提升，互联技术——包括CPO与光学连接、网络开销优化等——有望成为下一个关键瓶颈，并推动3DSoIC先进封装、SRAM存储层级扩展及CPO在中介层上的加速应用。&lt;/p&gt;
-&lt;p&gt;在更长时间维度上，报告认为，2026年至2027年大部分时间内，AI芯片仍将是算力基础设施的主要瓶颈，但在未来18至24个月内，随着半导体供给持续爬坡，数据中心部署延迟及电力供应（包括电网接入和表后电源方案）或将取代芯片，成为制约AI算力扩张的核心变量，这一风险因素预计将在2027年下半年至2028年进入更清晰的视野。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 销量连续下滑三个月，理想开始“拆车”</title><link>https://wallstreetcn.com/articles/3778772</link><guid>9fe6f80e135218971317fa4254b83d37605ee76ac7deca1e24dba1458686b7fc</guid><pubDate>Wed, 05 Aug 2026 14:57:55 GMT</pubDate><description>&lt;p&gt;8月4日下午3点，理想汽车把一辆新一代理想L6架上了直播台。&lt;/p&gt;
+&lt;p&gt;在财务层面，摩根大通预测AMD 2026年营收将达505亿美元，2027年进一步扩张至840亿美元，同比增速约66%；预期每股盈利分别为7.25美元和14.38美元；非GAAP营业利润率则有望从2026年的约28%提升至2027年的约35%。三季度营收指引中值为130亿美元，高于市场此前预期的125亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 销量连续下滑三个月，理想开始“拆车”</title><link>https://wallstreetcn.com/articles/3778772</link><guid>9fe6f80e135218971317fa4254b83d37605ee76ac7deca1e24dba1458686b7fc</guid><pubDate>Wed, 05 Aug 2026 14:57:55 GMT</pubDate><description>&lt;p&gt;8月4日下午3点，理想汽车把一辆新一代理想L6架上了直播台。&lt;/p&gt;
 &lt;p&gt;四个多小时里，它被拆解成座椅、车身、安全结构、底盘和电池五个部分。&lt;/p&gt;
 &lt;p&gt;这场拆车直播发生在理想汽车销量连续三个月同比、环比双降的背景下。&lt;/p&gt;
 &lt;p&gt;理想汽车董事长兼CEO李想在拆车直播前的社交媒体发文中写道：“拼价格不如拼用料。”&lt;/p&gt;
@@ -437,4 +414,36 @@ AI扩展定律完好，算力需求加速兑现
 &lt;p&gt;2026年3月，本田宣布中止原定2026年投放的新一代纯电动汽车“0”系列等3款车型的开发与发售。因相关调整带来的供应商补偿和资产减损，公司预计最多损失2.5万亿日元，其中1.5778万亿日元已在2025财年计提。&lt;/p&gt;
 &lt;p&gt;中国市场方面，本田同样承压。2026年6月，本田在华终端销量为32474辆，同比下降44.5%；2026年上半年累计销量205818辆，同比下降34.7%。中国新能源汽车市场竞争加剧，继续挤压本田在华业务。&lt;/p&gt;
 &lt;p&gt;美国市场对混合动力车型的需求、日元汇率走势以及中国市场修复，将是影响公司后续业绩的关键变量。整体来看，第一财季的业绩反弹幅度可观，但全年预期相对保守，这在一定程度上反映了管理层对后续季度增长动能的审慎判断。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对SpaceX和AMD财报的解读与思考</title><link>http://xueqiu.com/5332385101/403707263</link><guid>5c62b0492470e122c43b0db3cb9e7e3089159c1c69e94602404a69b64bfa91de</guid><pubDate>Wed, 05 Aug 2026 08:52:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股延续反弹势能，标普与道指在短短五个交易日内已从近一个月的低点到历史新高。纳指涨超2.5%，美光、闪迪、海力士分别涨约8%、11%和8%。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想328 AI竞合的变奏曲</title><link>http://xueqiu.com/1438190065/403699905</link><guid>a04486fffb6df0742179ebbd9cb5a34c7387e45fda77a39266f7368a0de26a27</guid><pubDate>Wed, 05 Aug 2026 08:52:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;如果按照之前“观察海外是否企稳”的方向，昨晚美股的反弹其实挺有效：硬件代表的费城半导体指数上涨了6个点，上穿5、10、20日线，英伟达、英特尔均有上涨表现，内存里的美光、闪迪也都录得较大涨幅；表现最亮眼的是美股的“光”，Lumentum、迈威尔科技、Coherent均大涨，其逻辑是美国的供应链重构和国产替代。&lt;/p&gt;</description></item><item><title>[今日雪球] 二十一年拾荒者：等潮水退去，收拾满地筹码</title><link>http://xueqiu.com/7271353740/403757302</link><guid>c21fe16562617ed7008897357fdf34c6a13ec98278fcfd1593b926e87c0b5eb4</guid><pubDate>Wed, 05 Aug 2026 08:52:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;做了二十一年股票，见过太多聪明人栽在同一个坑里——杠杆。&lt;/strong&gt;这市场里最赚钱的，不是最聪明的，也不是消息最灵的，而是最能熬的。熬到借钱炒股的人一个个撑不住离了场，然后弯腰捡他们丢下的筹码。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国7月ISM服务业PMI持续扩张，需求韧性犹存但滞胀风险升温</title><link>https://wallstreetcn.com/articles/3778769</link><guid>48e6953642babff451bf49fb91c1ea25847ccad14dc9129e70f448e52540355b</guid><pubDate>Wed, 05 Aug 2026 14:39:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;美国服务业7月继续保持扩张态势，新订单增长加快、商业活动升至数月高位，显示消费者需求仍具韧性。不过，成本压力重新抬头、企业招聘意愿走弱，也令市场对美国经济增长前景产生新的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国供应管理协会（ISM）周三公布的数据显示，&lt;strong&gt;7月ISM服务业指数升至54.1，较6月小幅上升0.1点，低于预期的54.5。该指数高于50意味着服务业处于扩张区间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;分项数据显示，&lt;strong&gt;7月服务业新订单指数升至57.2，高于市场预期的55.9&lt;/strong&gt;，商业活动指数也升至五个月高位，表明企业订单和需求状况有所改善。&lt;/p&gt;
+&lt;p&gt;不过，价格压力明显加剧。&lt;strong&gt;ISM服务业支付价格指数7月大幅升至70.3，远高于预期的65.0&lt;/strong&gt;，反映服务企业面临更高的投入成本。分析认为，美国与伊朗临时协议破裂后，油价和汽油价格上涨，加剧了企业成本负担。&lt;/p&gt;
+&lt;p&gt;与此同时，企业招聘活动明显放缓。&lt;strong&gt;ISM就业指数7月降至47.4，低于预期的51.2，重新跌入收缩区间&lt;/strong&gt;，并录得今年3月以来最严重的就业收缩。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ISM服务业调查委员会主席Steve Miller表示，关税影响和中东冲突仍是企业反馈中的重要因素，但提及频率较此前报告有所下降。此外，世界杯赛事继续被企业认为推动商业活动和新订单增长的重要因素。&lt;/p&gt;
+&lt;p&gt;“总体来看，美国服务业经济仍然具有韧性。”Miller表示。&lt;/p&gt;
+&lt;p&gt;从行业看，7月共有13个服务行业实现增长，包括零售贸易、交通运输与仓储以及建筑业；4个行业出现收缩。&lt;/p&gt;
+S&amp;amp;P Global服务业PMI创近一年最高
+&lt;p&gt;另一项调查也显示，美国服务业活动在7月出现明显反弹。&lt;/p&gt;
+&lt;p&gt;标普全球（S&amp;amp;P Global）数据显示，美国7月服务业PMI终值升至54.6，高于6月终值51.2，也高于初值53.6，为2025年10月以来最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;其中，新业务增长达到19个月以来最快水平，企业对未来12个月商业活动的信心升至去年11月以来最高。同时，私营部门就业也自4月以来首次恢复增长。&lt;/p&gt;
+&lt;p&gt;标普全球首席商业经济学家Chris Williamson表示，7月PMI终值显示美国经济在第三季度初出现令人鼓舞的增长加速迹象。&lt;/p&gt;
+&lt;p&gt;综合PMI数据显示，&lt;strong&gt;美国经济当前增速可能对应年化增长率约2.3%，高于二季度约1.5%的增长预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;不过，Williamson提醒称，7月数据改善部分受到临时因素推动。&lt;/p&gt;
+&lt;p&gt;他指出，消费者服务行业需求出现超过四年来最快增长，主要与世界杯和美国独立日活动相关。此外，7月初地缘政治风险下降以及油价回落，也为企业活动提供了短期支撑。&lt;/p&gt;
+&lt;p&gt;但随着海湾地区紧张局势在7月后半月升级，地缘政治因素可能再次成为经济增长阻力，并进一步推高已经偏高的价格压力。&lt;/p&gt;
+经济韧性与通胀压力并存 美联储面临政策难题
+&lt;p&gt;综合ISM和S&amp;amp;P Global数据来看，美国服务业目前仍保持扩张，但两项调查对于就业和价格走势的描述存在差异。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISM数据显示，就业明显恶化、价格快速上涨，新订单保持强劲，呈现一定“滞胀”特征；而S&amp;amp;P Global调查则显示，企业活动、就业和信心均有所改善，但投入成本同样加速上涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场人士认为，这种分化反映出美国经济仍处于高利率环境下的调整阶段。一方面，消费需求尚未明显降温，服务业继续支撑经济增长；另一方面，企业成本压力可能限制利润空间，并影响未来招聘计划。&lt;/p&gt;
+&lt;p&gt;美国劳工部将于周五公布7月非农就业报告。经济学家预计，7月非农就业岗位增加约8万个，涵盖制造业和服务业。&lt;/p&gt;
+&lt;p&gt;如果就业市场进一步降温，同时通胀压力因能源价格回升重新升温，美联储未来政策路径将面临更复杂的平衡挑战。市场将密切关注就业数据是否支持年内降息预期，以及成本压力是否会阻碍通胀继续回落。&lt;/p&gt;
+
+
+
+
+ 
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对SpaceX和AMD财报的解读与思考</title><link>http://xueqiu.com/5332385101/403707263</link><guid>5c62b0492470e122c43b0db3cb9e7e3089159c1c69e94602404a69b64bfa91de</guid><pubDate>Wed, 05 Aug 2026 08:52:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股延续反弹势能，标普与道指在短短五个交易日内已从近一个月的低点到历史新高。纳指涨超2.5%，美光、闪迪、海力士分别涨约8%、11%和8%。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想328 AI竞合的变奏曲</title><link>http://xueqiu.com/1438190065/403699905</link><guid>a04486fffb6df0742179ebbd9cb5a34c7387e45fda77a39266f7368a0de26a27</guid><pubDate>Wed, 05 Aug 2026 08:52:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;如果按照之前“观察海外是否企稳”的方向，昨晚美股的反弹其实挺有效：硬件代表的费城半导体指数上涨了6个点，上穿5、10、20日线，英伟达、英特尔均有上涨表现，内存里的美光、闪迪也都录得较大涨幅；表现最亮眼的是美股的“光”，Lumentum、迈威尔科技、Coherent均大涨，其逻辑是美国的供应链重构和国产替代。&lt;/p&gt;</description></item><item><title>[今日雪球] 二十一年拾荒者：等潮水退去，收拾满地筹码</title><link>http://xueqiu.com/7271353740/403757302</link><guid>c21fe16562617ed7008897357fdf34c6a13ec98278fcfd1593b926e87c0b5eb4</guid><pubDate>Wed, 05 Aug 2026 08:52:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;做了二十一年股票，见过太多聪明人栽在同一个坑里——杠杆。&lt;/strong&gt;这市场里最赚钱的，不是最聪明的，也不是消息最灵的，而是最能熬的。熬到借钱炒股的人一个个撑不住离了场，然后弯腰捡他们丢下的筹码。&lt;/p&gt;</description></item></channel></rss>
