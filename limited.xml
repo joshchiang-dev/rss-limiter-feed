@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 04:29:39 GMT</lastBuildDate><item><title>[华尔街见闻] SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达</title><link>https://wallstreetcn.com/articles/3778694</link><guid>a1a97f2b38f15d01ef83c7bd45fce4e6cb249938e316ad5069422f958d218ac7</guid><pubDate>Wed, 05 Aug 2026 00:13:36 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 04:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达</title><link>https://wallstreetcn.com/articles/3778694</link><guid>a1a97f2b38f15d01ef83c7bd45fce4e6cb249938e316ad5069422f958d218ac7</guid><pubDate>Wed, 05 Aug 2026 00:13:36 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778691"&gt;华尔街见闻提及&lt;/a&gt;，美东时间8月4日，SpaceX公布上市后首份财报，第二季度总营收同比增长92%至约78亿美元，较分析师预期高10%以上。&lt;/p&gt;
 &lt;p&gt;调整后息税折旧摊销前利润（EBITDA）同比增长约192%至35亿美元，较市场预期高75%。每股收益（EPS）为-0.09美元，远低于0.23美元至0.26美元的市场预期亏损范围。&lt;/p&gt;
 &lt;p&gt;业绩电话会上，SpaceX高管并未提供太多具体的财务指引，但他们预测，到&lt;strong&gt;今年年底，公司的年度经常性收入将至少达到1000亿美元。&lt;/strong&gt;CEO马斯克将实现1万亿美元收入的目标时间提前了一年。&lt;/p&gt;
@@ -301,25 +301,7 @@ AI网络分三个战场，Arista押注scale out与scale across
 客户结构以微软和Meta为锚，新增大客户存在弹性
 &lt;p&gt;电话会上，管理层确认微软和Meta仍是核心大客户，对两家客户的承诺没有变化。与此同时，管理层保留了对新增10%以上客户的弹性表述：2026年可能出现一个、也可能出现两个贡献超过10%营收的客户。&lt;/p&gt;
 &lt;p&gt;管理层指出，客户需求本身不存在疑问，出货结构取决于供应链、产品优先级和具体项目节奏。AI后端、前端数据中心、园区和路由之间，谁获得更多供给，谁就贡献更多收入。&lt;/p&gt;
-&lt;p&gt;对Arista而言，2026年的核心命题已从&amp;quot;证明AI网络有没有需求&amp;quot;转变为&amp;quot;在供给紧张的行业周期里稳定交付复杂产品&amp;quot;。单季30亿美元营收已说明需求强度，全年126亿美元指引则将压力转移至执行端。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：DeepSeek重启融资，投前估值5000亿元</title><link>https://wallstreetcn.com/articles/3778712</link><guid>ea2de6b84362881ae3d52dbf6e0d15359808512173e3351092ff0784929b1e79</guid><pubDate>Wed, 05 Aug 2026 01:32:21 GMT</pubDate><description>&lt;p&gt;多名交易人士向《财经》透露，大模型公司DeepSeek重启了第二轮融资，本轮计划募资500亿元，投前估值约5000亿元，并计划将在8月下旬完成签约。&lt;/p&gt;
-&lt;p&gt;DeepSeek在今年4月开启了首轮融资，并在6月完成交割，该轮融资金额500亿元，估值超过3500亿元，成为中国AI大模型史上首轮融资规模最大的公司。&lt;/p&gt;
-&lt;p&gt;多位投资人提到，DeepSeek第二轮融资至少在7月中旬就已开启，但在7月底突然暂停，当时一些谈判候补名单上的投资人被告知签署融资协议的计划暂缓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据媒体7月26日报道，DeepSeek暂停第二轮融资，其中一个原因是DeepSeek创始人梁文锋对网上广泛流传的言论感到不满，这些消息主要围绕疑似泄露的“面向投资者的会议实录”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;《财经》就上述市场信息向DeepSeek求证，截至发稿前未得到回应。&lt;/p&gt;
-&lt;p&gt;前述交易人士告诉《财经》，DeepSeek和正在谈判桌上的投资人们希望这次融资在重启后能低调进行。目前，一些此前积极接触的投资机构表示，他们还没有接到DeepSeek重启融资的消息，通道仍处在暂缓状态。&lt;/p&gt;
-&lt;p&gt;据多名交易人士了解，在第二轮融资的谈判名单上，既有在首轮融资中“落选”的候补机构，也有首轮就入局的VC（风险投资）和产业资本在考虑增资。DeepSeek首轮融资的投资方分别是：国家人工智能产业投资基金、腾讯、宁德时代和溥泉资本、网易、京东、砺思资本、IDG资本、正心谷投资、拾象资本。&lt;/p&gt;
-&lt;p&gt;自开放融资，DeepSeek的份额供不应求。一名参与交易的投资人士向《财经》称，首轮围绕DeepSeek表达投资意向的资金规模超过1000亿元，最后融了500亿元，意味着至少还有500亿元资金持有入局意向。这些资金方在第二轮开放后继续抢占新的份额。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二轮融资投前估值5000亿元，较首轮提升约43%。若本轮融资顺利，DeepSeek将在两轮融资中募到超1000亿元的资金。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeek的融资规模远超其竞争对手，包括最近融资热度高涨的月之暗面，这些AI大模型明星公司在今年融资步伐明显加快。&lt;/p&gt;
-&lt;p&gt;月之暗面在7月底完成了估值约315亿美元（折合人民币约2100亿元）的F轮融资，并在该轮结束后以500亿美元的估值立刻开启新一轮Pre-IPO轮融资。另据知情人士称，月之暗面本轮Pre-IPO轮融资将在8月完成，预计于今年内递表上市。&lt;/p&gt;
-&lt;p&gt;和融资动态同样牵动市场情绪的，是这些明星公司的模型发布。模型能力和模型效率直接关系着一级市场对模型公司的定价。在模型迭代速度以月计算、榜单座次以周更迭的当下，投资人都希望能在不确定中锚定最先抵达AGI（通用人工智能）的那艘船，并寻求船票。一名交易人士认为，“对大模型的定价本质上是一种期权，而非基于现金流的财务模型。”&lt;/p&gt;
-&lt;p&gt;据《财经》此前报道，月之暗面6月开启的F轮融资最初热度平平，很多拿到额度的渠道“兜售好几天都没人要”，当时市场上甚至流出不少180亿美元估值的老股交易。但在新一代旗舰模型Kimi K3发布并获得全球声量后，其份额突然变得抢手，一些出售老股的卖家甚至坐地起价。&lt;/p&gt;
-&lt;p&gt;一名接近DeepSeek的投资人在7月下旬告诉《财经》，近期DeepSeek训练新模型的压力并不小。原定在7月中旬发布的DeepSeek-V4正式版，直到7月31日才在官方API文档最新日志上线公测，不过亮相的仅有V4-Flash，V4-Pro正式版仍未发布，具体公测时间尚未公布。&lt;/p&gt;
-&lt;p&gt;据官方文档，DeepSeek-V4-Flash没有在模型架构和参数大小上做出调整，而是在原有基础上强化了后训练，使其Agent（智能体）能力大幅增强，多项基准测试远超4月发布的V4-Flash预览版。&lt;/p&gt;
-&lt;p&gt;据独立第三方AI模型评测平台Artificial Analysis最新发布的Intelligence Index（智能指数），DeepSeek-V4-Flash正式版的智能水平达到50分，在国内仅次于智谱GLM-5.2的51分，高于同类模型的平均水平。DeepSeek延续了模型“低成本高性价比”的路线，V4-Flash输出每百万Token（词元）的价格为0.28美元，低于智谱GLM-5.2输出每百万Token 4.29美元的定价。&lt;/p&gt;
-&lt;p&gt;在推理算力需求上涨、成本不断推高的情况下，不少大模型公司都在追求极致的推理效率，在国内走高性价比路线的还包括腾讯混元。近期，美国AI模型公司OpenAI也宣布下调GPT-5.6系列模型的API调用价格，其中入门级模型Luna降价80%。在DeepSeek-V4-Flash正式版发布前，追求相同模型能力下，GPT-5.6的性价比甚至高于DeepSeek。不过这个性价比优势很快被抹平。&lt;/p&gt;
-&lt;p&gt;在面向全球开发者的AI模型聚合平台OpenRouter最新榜单上，DeepSeek-V4-Flash正式版本周Token消耗量以7.1万亿排名榜单首位。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&amp;amp;mid=2653728235&amp;amp;idx=1&amp;amp;sn=c3af34087e88fc2d90a2eee63f821c37&amp;amp;chksm=bce9a451c70368baed300efc2f287d6e9eee9873e9c12d9047d404af112c2e45564e206aba40&amp;amp;scene=0&amp;amp;xtrack=1"&gt;《财经》&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛大幅上调中国大模型收入预期，性价比只是起点，能力才是真正的底牌</title><link>https://wallstreetcn.com/articles/3778709</link><guid>dde6aa1164f6423ce46068b2cd7271677d8935e4a1d430ad0a48f660d08cfeec</guid><pubDate>Wed, 05 Aug 2026 02:07:21 GMT</pubDate><description>&lt;p&gt;中国大模型的收入兑现速度，正在超出华尔街此前的预判。&lt;/p&gt;
+&lt;p&gt;对Arista而言，2026年的核心命题已从&amp;quot;证明AI网络有没有需求&amp;quot;转变为&amp;quot;在供给紧张的行业周期里稳定交付复杂产品&amp;quot;。单季30亿美元营收已说明需求强度，全年126亿美元指引则将压力转移至执行端。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛大幅上调中国大模型收入预期，性价比只是起点，能力才是真正的底牌</title><link>https://wallstreetcn.com/articles/3778709</link><guid>dde6aa1164f6423ce46068b2cd7271677d8935e4a1d430ad0a48f660d08cfeec</guid><pubDate>Wed, 05 Aug 2026 02:07:21 GMT</pubDate><description>&lt;p&gt;中国大模型的收入兑现速度，正在超出华尔街此前的预判。&lt;/p&gt;
 &lt;p&gt;8月3日，高盛亚太互联网团队分析师Ronald Keung在最新研报中将中国大模型厂商2026年末合计ARR（年度经常性收入）预期从100亿美元上调至130亿美元，并预测2030年将攀升至1250亿美元——&lt;strong&gt;五年25倍。&lt;/strong&gt;同日，Jefferies最新研报中用更密实的数据刻画了另一条暗线：OpenRouter平台上，中国模型已连续14周包揽调用量前五，DeepSeek V4 Flash单周消耗7.22万亿token登顶全球。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;一条线是收入预期的上调，一条线是token消费的结构性爆发。二者交汇之处，正是中国大模型从“性价比叙事”迈入“收入兑现叙事”的拐点&lt;/strong&gt;——而驱动这一拐点的核心力量，正是Agent与编码场景对token消费模式的根本性重塑。&lt;/p&gt;
 叙事切换：收入兑现时刻已到来
@@ -567,7 +549,46 @@ AI扩展定律完好，算力需求加速兑现
 &lt;blockquote&gt;
 &lt;p&gt;这是我第一次做空卡特彼勒。过去，我做多这只股票一直表现不错。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;他还将本轮行情的驱动因素，韩国宣布的大规模支出计定性为&amp;quot;这轮行情走向终结的开始&amp;quot;。然而，卡特彼勒随即以一份历史性的季报予以回击，令其空头仓位在短期内面临较大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛详解韩国存储“8大焦点”：估值、长协、库存、长鑫冲击、回购等</title><link>https://wallstreetcn.com/articles/3778706</link><guid>ad53e271f40c246b7d3d15556c7e5bf53a808ef39009a2eaa50ed41f622f0711</guid><pubDate>Wed, 05 Aug 2026 01:54:14 GMT</pubDate><description>&lt;p&gt;三星电子和SK海力士股价近月大幅回调，估值已跌至极度悲观水平，但高盛认为基本面并不支持如此低廉的定价，并重申对两家公司的买入评级。&lt;/p&gt;
+&lt;p&gt;他还将本轮行情的驱动因素，韩国宣布的大规模支出计定性为&amp;quot;这轮行情走向终结的开始&amp;quot;。然而，卡特彼勒随即以一份历史性的季报予以回击，令其空头仓位在短期内面临较大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：DeepSeek重启融资，投前估值5000亿元</title><link>https://wallstreetcn.com/articles/3778712</link><guid>ea2de6b84362881ae3d52dbf6e0d15359808512173e3351092ff0784929b1e79</guid><pubDate>Wed, 05 Aug 2026 01:32:21 GMT</pubDate><description>&lt;p&gt;多名交易人士向《财经》透露，大模型公司DeepSeek重启了第二轮融资，本轮计划募资500亿元，投前估值约5000亿元，并计划将在8月下旬完成签约。&lt;/p&gt;
+&lt;p&gt;DeepSeek在今年4月开启了首轮融资，并在6月完成交割，该轮融资金额500亿元，估值超过3500亿元，成为中国AI大模型史上首轮融资规模最大的公司。&lt;/p&gt;
+&lt;p&gt;多位投资人提到，DeepSeek第二轮融资至少在7月中旬就已开启，但在7月底突然暂停，当时一些谈判候补名单上的投资人被告知签署融资协议的计划暂缓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据媒体7月26日报道，DeepSeek暂停第二轮融资，其中一个原因是DeepSeek创始人梁文锋对网上广泛流传的言论感到不满，这些消息主要围绕疑似泄露的“面向投资者的会议实录”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《财经》就上述市场信息向DeepSeek求证，截至发稿前未得到回应。&lt;/p&gt;
+&lt;p&gt;前述交易人士告诉《财经》，DeepSeek和正在谈判桌上的投资人们希望这次融资在重启后能低调进行。目前，一些此前积极接触的投资机构表示，他们还没有接到DeepSeek重启融资的消息，通道仍处在暂缓状态。&lt;/p&gt;
+&lt;p&gt;据多名交易人士了解，在第二轮融资的谈判名单上，既有在首轮融资中“落选”的候补机构，也有首轮就入局的VC（风险投资）和产业资本在考虑增资。DeepSeek首轮融资的投资方分别是：国家人工智能产业投资基金、腾讯、宁德时代和溥泉资本、网易、京东、砺思资本、IDG资本、正心谷投资、拾象资本。&lt;/p&gt;
+&lt;p&gt;自开放融资，DeepSeek的份额供不应求。一名参与交易的投资人士向《财经》称，首轮围绕DeepSeek表达投资意向的资金规模超过1000亿元，最后融了500亿元，意味着至少还有500亿元资金持有入局意向。这些资金方在第二轮开放后继续抢占新的份额。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二轮融资投前估值5000亿元，较首轮提升约43%。若本轮融资顺利，DeepSeek将在两轮融资中募到超1000亿元的资金。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepSeek的融资规模远超其竞争对手，包括最近融资热度高涨的月之暗面，这些AI大模型明星公司在今年融资步伐明显加快。&lt;/p&gt;
+&lt;p&gt;月之暗面在7月底完成了估值约315亿美元（折合人民币约2100亿元）的F轮融资，并在该轮结束后以500亿美元的估值立刻开启新一轮Pre-IPO轮融资。另据知情人士称，月之暗面本轮Pre-IPO轮融资将在8月完成，预计于今年内递表上市。&lt;/p&gt;
+&lt;p&gt;和融资动态同样牵动市场情绪的，是这些明星公司的模型发布。模型能力和模型效率直接关系着一级市场对模型公司的定价。在模型迭代速度以月计算、榜单座次以周更迭的当下，投资人都希望能在不确定中锚定最先抵达AGI（通用人工智能）的那艘船，并寻求船票。一名交易人士认为，“对大模型的定价本质上是一种期权，而非基于现金流的财务模型。”&lt;/p&gt;
+&lt;p&gt;据《财经》此前报道，月之暗面6月开启的F轮融资最初热度平平，很多拿到额度的渠道“兜售好几天都没人要”，当时市场上甚至流出不少180亿美元估值的老股交易。但在新一代旗舰模型Kimi K3发布并获得全球声量后，其份额突然变得抢手，一些出售老股的卖家甚至坐地起价。&lt;/p&gt;
+&lt;p&gt;一名接近DeepSeek的投资人在7月下旬告诉《财经》，近期DeepSeek训练新模型的压力并不小。原定在7月中旬发布的DeepSeek-V4正式版，直到7月31日才在官方API文档最新日志上线公测，不过亮相的仅有V4-Flash，V4-Pro正式版仍未发布，具体公测时间尚未公布。&lt;/p&gt;
+&lt;p&gt;据官方文档，DeepSeek-V4-Flash没有在模型架构和参数大小上做出调整，而是在原有基础上强化了后训练，使其Agent（智能体）能力大幅增强，多项基准测试远超4月发布的V4-Flash预览版。&lt;/p&gt;
+&lt;p&gt;据独立第三方AI模型评测平台Artificial Analysis最新发布的Intelligence Index（智能指数），DeepSeek-V4-Flash正式版的智能水平达到50分，在国内仅次于智谱GLM-5.2的51分，高于同类模型的平均水平。DeepSeek延续了模型“低成本高性价比”的路线，V4-Flash输出每百万Token（词元）的价格为0.28美元，低于智谱GLM-5.2输出每百万Token 4.29美元的定价。&lt;/p&gt;
+&lt;p&gt;在推理算力需求上涨、成本不断推高的情况下，不少大模型公司都在追求极致的推理效率，在国内走高性价比路线的还包括腾讯混元。近期，美国AI模型公司OpenAI也宣布下调GPT-5.6系列模型的API调用价格，其中入门级模型Luna降价80%。在DeepSeek-V4-Flash正式版发布前，追求相同模型能力下，GPT-5.6的性价比甚至高于DeepSeek。不过这个性价比优势很快被抹平。&lt;/p&gt;
+&lt;p&gt;在面向全球开发者的AI模型聚合平台OpenRouter最新榜单上，DeepSeek-V4-Flash正式版本周Token消耗量以7.1万亿排名榜单首位。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&amp;amp;mid=2653728235&amp;amp;idx=1&amp;amp;sn=c3af34087e88fc2d90a2eee63f821c37&amp;amp;chksm=bce9a451c70368baed300efc2f287d6e9eee9873e9c12d9047d404af112c2e45564e206aba40&amp;amp;scene=0&amp;amp;xtrack=1"&gt;《财经》&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 诺和诺德大跌！上调业绩指引，但核心药品Wegovy销售不及预期</title><link>https://wallstreetcn.com/articles/3778682</link><guid>691e5dc7864f37a0b9b71ee0f24cba7e8fd07365aaa886998515ac0bed04c5ac</guid><pubDate>Tue, 04 Aug 2026 17:27:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;诺和诺德年内第二次上调全年业绩指引，但旗下Wegovy减重药片的季度销售未能超出分析师预期，拖累其美国存托凭证大跌逾7%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司最新指引显示，2026年全年调整后销售额及营业利润降幅将收窄至6%到持平区间，优于此前预计的最高下滑12%。然而，&lt;strong&gt;市场对Wegovy药片这一全球瞩目新品寄予厚望&lt;/strong&gt;，期待其交出亮眼成绩，最终结果令市场失望。&lt;/p&gt;
+&lt;p&gt;公司总销售额按固定汇率计算增长3%，至784.9亿克朗（约合121亿美元）；调整后销售额增长7%。调整后营业利润按固定汇率计算上升11%，至333.9亿克朗。&lt;/p&gt;
+&lt;p&gt;Mizuho Securities医疗健康行业策略师Jared Holz在客户报告中指出，&lt;strong&gt;此次指引上调&amp;quot;明显算不上出色&amp;quot;，Wegovy药片销售未能超越市场预期，是拖累股价的主要因素。&lt;/strong&gt;不过他同时表示，&amp;quot;从整体轨迹来看，这较年初已有所改善&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+Wegovy药片销售低于预期
+
+&lt;p&gt;&lt;strong&gt;诺和诺德二季度Wegovy药片销售额为32.2亿丹麦克朗，低于据StreetAccount汇总的分析师平均预期32.7亿克朗。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首席执行官Mike Doustdar在声明中表示，该药片自今年1月上市以来，处方量已累计突破500万张，截至7月17日当周，美国全周处方总量超过26.5万张。&lt;/p&gt;
+&lt;p&gt;Wegovy药片被认为是现代肥胖症药物中迄今最为成功的新品上市案例之一，也正因如此，市场对其超预期表现的期待尤为强烈。&lt;/p&gt;
+&lt;p&gt;销售数据未能&amp;quot;爆发&amp;quot;，叠加整体指引的保守措辞，导致诺和诺德美国存托凭证盘中大跌。&lt;/p&gt;
+&lt;p&gt;同时，诺和诺德预警美国业务将面临销售下滑。公司将其归因于多重因素叠加：&lt;/p&gt;
+&lt;p&gt;GLP-1注射剂处方趋势趋缓、竞争持续加剧、医疗补助肥胖症用药覆盖范围收窄，以及美国市场实际销售价格走低——后者部分源于公司与特朗普政府达成的&amp;quot;最惠国&amp;quot;药品定价协议。&lt;/p&gt;
+
+与礼来的竞争全面升级
+
+&lt;p&gt;诺和诺德正与美国竞争对手礼来（Eli Lilly）展开激烈的市场争夺。&lt;/p&gt;
+&lt;p&gt;据估计，肥胖症药物市场规模到2030年将达到每年1200亿美元。礼来凭借Zepbound和Mounjaro注射剂在市场份额上取得领先，而诺和诺德推出的Wegovy药片及更高剂量注射剂版本，被视为其重新争夺市场地位的核心举措。&lt;/p&gt;
+&lt;p&gt;竞争的激烈程度已蔓延至法律层面。诺和诺德于7月21日对礼来提起诉讼，指控后者就Zepbound和Mounjaro进行虚假宣传，礼来方面已对相关指控提出异议。&lt;/p&gt;
+&lt;p&gt;除销售数据令市场失望外，诺和诺德近期还面临其他挑战。公司此前宣布，一款旨在降低心血管风险的实验性注射剂在后期临床研究中未达预期，该消息已令诺和诺德股价抹去年内全部涨幅。&lt;/p&gt;
+&lt;p&gt;多重不利因素叠加，令这家丹麦药企在与礼来争夺GLP-1市场主导权的关键阶段承受更大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛详解韩国存储“8大焦点”：估值、长协、库存、长鑫冲击、回购等</title><link>https://wallstreetcn.com/articles/3778706</link><guid>ad53e271f40c246b7d3d15556c7e5bf53a808ef39009a2eaa50ed41f622f0711</guid><pubDate>Wed, 05 Aug 2026 01:54:14 GMT</pubDate><description>&lt;p&gt;三星电子和SK海力士股价近月大幅回调，估值已跌至极度悲观水平，但高盛认为基本面并不支持如此低廉的定价，并重申对两家公司的买入评级。&lt;/p&gt;
 &lt;p&gt;追风交易台消息，8月4日，高盛Giuni Lee团队发表研报，系统梳理了市场当前对韩国存储行业的&lt;strong&gt;八大核心疑虑&lt;/strong&gt;，&lt;strong&gt;涵盖HBM定价前景、长期协议结构、库存状况、长鑫冲击、股东回报及SK海力士美股ADR的影响等议题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;分析师认为，上述担忧大多被市场过度解读，真实的供需格局依然支撑存储价格处于高位。&lt;/p&gt;
 &lt;p&gt;在此背景下，三星电子和SK海力士股价在过去一个月内分别下跌23%和35%，使&lt;strong&gt;两家公司的2027年预期市盈率均跌至约3.5至3.6倍、市净率仅为1.4至1.6倍。&lt;/strong&gt;&lt;/p&gt;
@@ -669,28 +690,7 @@ AI扩展定律完好，算力需求加速兑现
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 诺和诺德大跌！上调业绩指引，但核心药品Wegovy销售不及预期</title><link>https://wallstreetcn.com/articles/3778682</link><guid>691e5dc7864f37a0b9b71ee0f24cba7e8fd07365aaa886998515ac0bed04c5ac</guid><pubDate>Tue, 04 Aug 2026 17:27:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;诺和诺德年内第二次上调全年业绩指引，但旗下Wegovy减重药片的季度销售未能超出分析师预期，拖累其美国存托凭证大跌逾7%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司最新指引显示，2026年全年调整后销售额及营业利润降幅将收窄至6%到持平区间，优于此前预计的最高下滑12%。然而，&lt;strong&gt;市场对Wegovy药片这一全球瞩目新品寄予厚望&lt;/strong&gt;，期待其交出亮眼成绩，最终结果令市场失望。&lt;/p&gt;
-&lt;p&gt;公司总销售额按固定汇率计算增长3%，至784.9亿克朗（约合121亿美元）；调整后销售额增长7%。调整后营业利润按固定汇率计算上升11%，至333.9亿克朗。&lt;/p&gt;
-&lt;p&gt;Mizuho Securities医疗健康行业策略师Jared Holz在客户报告中指出，&lt;strong&gt;此次指引上调&amp;quot;明显算不上出色&amp;quot;，Wegovy药片销售未能超越市场预期，是拖累股价的主要因素。&lt;/strong&gt;不过他同时表示，&amp;quot;从整体轨迹来看，这较年初已有所改善&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-Wegovy药片销售低于预期
-
-&lt;p&gt;&lt;strong&gt;诺和诺德二季度Wegovy药片销售额为32.2亿丹麦克朗，低于据StreetAccount汇总的分析师平均预期32.7亿克朗。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;首席执行官Mike Doustdar在声明中表示，该药片自今年1月上市以来，处方量已累计突破500万张，截至7月17日当周，美国全周处方总量超过26.5万张。&lt;/p&gt;
-&lt;p&gt;Wegovy药片被认为是现代肥胖症药物中迄今最为成功的新品上市案例之一，也正因如此，市场对其超预期表现的期待尤为强烈。&lt;/p&gt;
-&lt;p&gt;销售数据未能&amp;quot;爆发&amp;quot;，叠加整体指引的保守措辞，导致诺和诺德美国存托凭证盘中大跌。&lt;/p&gt;
-&lt;p&gt;同时，诺和诺德预警美国业务将面临销售下滑。公司将其归因于多重因素叠加：&lt;/p&gt;
-&lt;p&gt;GLP-1注射剂处方趋势趋缓、竞争持续加剧、医疗补助肥胖症用药覆盖范围收窄，以及美国市场实际销售价格走低——后者部分源于公司与特朗普政府达成的&amp;quot;最惠国&amp;quot;药品定价协议。&lt;/p&gt;
-
-与礼来的竞争全面升级
-
-&lt;p&gt;诺和诺德正与美国竞争对手礼来（Eli Lilly）展开激烈的市场争夺。&lt;/p&gt;
-&lt;p&gt;据估计，肥胖症药物市场规模到2030年将达到每年1200亿美元。礼来凭借Zepbound和Mounjaro注射剂在市场份额上取得领先，而诺和诺德推出的Wegovy药片及更高剂量注射剂版本，被视为其重新争夺市场地位的核心举措。&lt;/p&gt;
-&lt;p&gt;竞争的激烈程度已蔓延至法律层面。诺和诺德于7月21日对礼来提起诉讼，指控后者就Zepbound和Mounjaro进行虚假宣传，礼来方面已对相关指控提出异议。&lt;/p&gt;
-&lt;p&gt;除销售数据令市场失望外，诺和诺德近期还面临其他挑战。公司此前宣布，一款旨在降低心血管风险的实验性注射剂在后期临床研究中未达预期，该消息已令诺和诺德股价抹去年内全部涨幅。&lt;/p&gt;
-&lt;p&gt;多重不利因素叠加，令这家丹麦药企在与礼来争夺GLP-1市场主导权的关键阶段承受更大压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫</title><link>https://wallstreetcn.com/articles/3778638</link><guid>a3e6986c24cc529f9277723abc26739c0213463b5279636b191ea016c09dfdd7</guid><pubDate>Tue, 04 Aug 2026 22:45:34 GMT</pubDate><description>&lt;p&gt;地缘风险溢价急剧消退，通胀预期大幅降温，10年期美债收益率下行6基点，美股道指、标普500指数双双刷新历史新高&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫</title><link>https://wallstreetcn.com/articles/3778638</link><guid>a3e6986c24cc529f9277723abc26739c0213463b5279636b191ea016c09dfdd7</guid><pubDate>Tue, 04 Aug 2026 22:45:34 GMT</pubDate><description>&lt;p&gt;地缘风险溢价急剧消退，通胀预期大幅降温，10年期美债收益率下行6基点，美股道指、标普500指数双双刷新历史新高&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国财政部长贝森特表示，美伊双方&amp;quot;有可能在今明两天达成协议&amp;quot;以重开霍尔木兹海峡，此言论直接点燃市场情绪。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;标普500指数&lt;/strong&gt;与&lt;strong&gt;道琼斯工业平均指数&lt;/strong&gt;均刷新历史收盘纪录，&lt;strong&gt;纳斯达克100指数&lt;/strong&gt;单日大涨3.3%，创2025年5月以来最大单日涨幅。&lt;/p&gt;
