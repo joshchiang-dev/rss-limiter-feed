@@ -1,48 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 17:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速</title><link>https://wallstreetcn.com/articles/3778726</link><guid>b3262d1c449d8c869532dbe6339759727b73eea75a01fa35623d67d6bf7c51b0</guid><pubDate>Wed, 05 Aug 2026 06:24:26 GMT</pubDate><description>&lt;p&gt;8月4日盘后，AMD交出了一份几乎没有瑕疵的财报：营收115.36亿美元，同比增长 50%，创历史新高；非GAAP每股收益1.66美元，超过市场预期的1.62美元；数据中心营收67.18亿美元，同比翻倍，占公司总营收的58%。股价在盘后却一度暴跌10%，收跌8.8%。&lt;/p&gt;
-&lt;p&gt;超预期为什么成了利空？市场定价的不是业绩，是加速。AMD年内股价涨超130%，52周区间从149美元到584美元，涨幅里装的是&amp;quot;追赶英伟达&amp;quot;的预期。Q3指引约130亿美元，高于共识的125亿美元，但环比只增 13%——维持斜率，不是跳档。市场要的加速，财报没有给。&lt;/p&gt;
-&lt;p&gt;投资的代价在财报上也有所显现：&lt;strong&gt;56%的毛利率创了新高，但 AI 数据中心的毛利率低于公司平均，占比58%的成长业务反而在稀释利润率；为了 Helios 机柜系统抢产能，资本开支花了8.08亿美元，是分析师预期的近3倍，自由现金流从25.7亿美元腰斩到15.6亿美元。增长的代价，第一次在资产负债表上显形。&lt;/strong&gt;&lt;/p&gt;
-
-市场要的加速，Q3 指引没有给
-&lt;p&gt;Q3指引130亿美元上下，同比增41%，环比增13%，中值高于共识的125.2亿美元。这份指引谈不上差，问题在形态：环比只增13%，只是延续当前的斜率。&lt;/p&gt;
-&lt;p&gt;Dolphin Research算了笔账：&lt;strong&gt;按指引推算，Q3 数据中心环比增量约12亿到18亿美元，而 MI455X 才刚刚开始出货，这个台阶算不上特别强。市场此前押注的是 AI 需求让 AMD 再上一个档，指引没有给出这个信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AMD 年内涨超130%，市场买的是一个故事：英伟达产能受限、客户需要第二供应商，AMD 从 AI 芯片的备选项变成必选项。财报要做的，是证明这个故事在加速。&lt;/p&gt;
-&lt;p&gt;7月 Anthropic 宣布在 Helios上部署2吉瓦MI450 GPU，消息当天股价涨约10%；6月初博通财报一度引发半导体板块回调，AMD 随后在 Helios 订单预期下重新修复至518美元上方。每一次上涨，都在抬高下一次财报的门槛。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当AMD交出的只是&amp;quot;符合预期的好&amp;quot;，年内130%的涨幅就没了继续向上的理由。盘后的卖盘，是预期兑现的落点。&lt;/strong&gt;&lt;/p&gt;
-107%的翻倍，一半是低基数
-&lt;p&gt;数据中心同比107%的增速最抓眼球，但成色要打个问号。&lt;/p&gt;
-&lt;p&gt;2025年二季度，美国出口管制让 AMD 计提了8亿美元的 MI308 库存及相关费用，把当时的基数砸出了一个坑。今年的翻倍，有一部分是填坑填回来的。&lt;/p&gt;
-&lt;p&gt;Dolphin Research拆了一个数：&lt;strong&gt;本季度 Instinct AI GPU营收约27亿美元，上年同期约11亿美元，同样带着基数的阴影。相比之下 EPYC 更干净：云和企业销售同比增长都超过70%，服务器 CPU 营收连续第五个季度创纪录，第六代 EPYC Venice 已投产。没有低基数滤镜的加速，才是这份财报最扎实的一块。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;苏姿丰在电话会上给了锚：2027年数据中心营收&amp;quot;翻倍有余&amp;quot;，2026下半年服务器营收同比增长超过80%，2027年在更高基数上仍增长超过70%。&lt;/p&gt;
-毛利率的暗线：AI 越大，毛利越薄
-&lt;p&gt;56%的非GAAP毛利率创了新高，但数字里有水分。同比13个百分点的跃升，一大半来自去年同期那笔8亿美元的出口管制计提。&lt;/p&gt;
-&lt;p&gt;管理层在电话会上确认：&lt;strong&gt;AI 数据中心的毛利率略低于公司平均水平。而数据中心恰恰是增长最快、占比最高的业务，从一年前的42%升到现在的58%。营收中最具成长性的部分，是结构性的毛利稀释器。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对比英伟达75%的非 GAAP 毛利率，差距近20个百分点。英伟达靠垄断定价赚超额利润，AMD 的份额靠价格换——苏姿丰说得很直白，AMD 卖的是整合 CPU、GPU、网络芯片的整套基础设施，用更低的单价和更高的开放度撬动客户。这个模式的代价，是每一块钱收入里装进利润的比例天然低于对手。&lt;/p&gt;
-&lt;p&gt;Helios 从卖芯片转向卖整机柜系统，单价上去了，但机架里的芯片、网络、存储都是成本。规模越大，稀释效应越明显。市场对这份财报的失望，一部分就藏在毛利率的暗线里。&lt;/p&gt;
-资本开支三倍于预期，增长开始烧钱
-&lt;p&gt;资产负债表比利润表更能说明问题：资本开支8.08亿美元，是分析师预期（约2.99亿美元，据 Dolphin Research 测算）的近3倍；自由现金流（据测算）从25.7亿美元降到15.6亿美元；存货增至84.68亿美元，应收账款环比增长21%，达到72.81亿美元。&lt;/p&gt;
-&lt;p&gt;这不是财务恶化，是主动选择的增长模式：先把钱砸进产能和备货，再等订单兑现。&lt;/p&gt;
-&lt;p&gt;苏姿丰说 Helios 的需求&amp;quot;非常强劲，超出我们最初的预测&amp;quot;，为了接住订单，AMD 必须提前锁产能、提前备库存。现金、存货、应收三个科目同步走高，就是这份抢跑的痕迹。&lt;/p&gt;
-&lt;p&gt;问题在于，这种模式把业绩的确定性推迟到了未来。一旦 AI 资本开支增速放缓，或某个大客户交付节奏延后，这些数字会从进攻的弹药变成库存的负担。&lt;/p&gt;
-真正的瓶颈在产能，不在需求
-&lt;p&gt;Helios 是这份财报里最关键的信号。&lt;/p&gt;
-&lt;p&gt;这是 AMD 首款整机柜级 AI 系统，把 CPU、GPU、网络芯片打包成完整机柜交付，本季度已向 Meta、OpenAI、Oracle 交付首批；7月宣布的 Anthropic 2吉瓦合作，首批1吉瓦部署在2027年上半年开始；微软也将在 Azure 上大规模部署。客户名单还在扩：Anthropic、Cirrascale、HUMAIN、Meta、微软、OpenAI、Oracle、Tensorwave、Vultr。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需求端的故事无可挑剔。AMD 的天花板不在这里，在台积电的先进封装产能。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;汇丰5月把 AMD 下调至持有，理由就是台积电产能限制——这份财报某种程度上证实了担忧，否则 AMD 没必要把资本开支打到预期三倍去抢产能。AI 芯片的竞争，已经从谁的芯片更好，变成谁先拿到台积电的产能。英伟达的优先权，依然是 AMD 绕不开的约束。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Helios 还藏着一层更深的含义：AMD 的商业模式在从卖芯片转向卖系统。过去它卖一颗颗 GPU、CPU，客户买回去自己拼集群；现在整机柜交付，单价和交付复杂度都上了一个台阶。这既是进攻也是防御——英伟达早用机架级产品证明，系统层的利润和客户黏性比单芯片高得多。但转身也意味着资本更重、交付风险更大，机柜出问题，责任从芯片厂变成系统集成商。&lt;/strong&gt;&lt;/p&gt;
-追赶者的估值，已经把成功预付了
-&lt;p&gt;英伟达在 AI 加速器市场占约80%份额，AMD 大约10%到15%；英伟达数据中心单季营收752亿美元，是 AMD 全部数据中心业务的11倍。但年内大涨130%之后，AMD 的动态市盈率反而明显高于英伟达，分析师的估值分歧也摆上台面：摩根士丹利质疑估值，Benchmark 给出685美元目标价。&lt;/p&gt;
-&lt;p&gt;这个价差只有一种解释：市场把&amp;quot;追赶成功&amp;quot;提前付了钱。AMD 的上涨建立在份额从12%走向25%的假设上，一旦路径被证实比想象中慢，估值就要向现实回归；反过来，Helios 机架化转型和2027年翻倍指引若兑现，当前估值又显得没那么贵。分歧的双方，赌的是同一个变量的两端。&lt;/p&gt;
-英伟达将是下一关
-&lt;p&gt;盘后跌8.8%到约473美元，只是这场定价的第一回合。接下来几天，市场按顺序重读这份财报。&lt;/p&gt;
-&lt;p&gt;先看 AMD 正股能否守住470美元一线：跌破450美元，年内获利盘开始踩踏，技术面转空；守住470，说明长线资金在借机吸筹，毕竟2027年翻倍指引还在桌上。盘后一个半小时的跌幅，交易的是 Q3 指引不够加速，不代表2027年的故事被推翻。&lt;/p&gt;
-&lt;p&gt;再看英伟达。它8月26日发财报，此前一个财季数据中心营收752亿美元、同比增92%。AMD 全面超预期都换不来上涨，市场对英伟达的预期门槛被抬到了多高？当超预期成为基准、大幅超预期才能推动股价时，AI 芯片板块的每一次财报，都会变成一场越来越难的考试。&lt;/p&gt;
-&lt;p&gt;产业链层面，TSMC 和先进封装链是隐性受益方：AMD 的资本开支三倍于预期，最终流向台积电的 CoWoS 产能；Helios 机柜化之后，封装和网络环节的价值量被放大。但这也意味着 AMD 的交付上限握在别人手里，每一份超预期指引，都要先过台积电产能分配这一关。&lt;/p&gt;
-故事需要新证据了
-&lt;p&gt;AMD 全面超预期却跌9%，本季美股 AI 股的定价逻辑已经很明白：&lt;strong&gt;股价先在预期里透支，再在财报里兑现，指引超预期只是及格线，真正决定股价的，是市场预设的加速曲线有没有被刷新。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这份财报没有否定 AMD 的成长故事，它否定的是&amp;quot;故事不需要新证据&amp;quot;的定价。 当市场为2027年数据中心翻倍预付了130%的涨幅，接下来的每一个季度，AMD 都要用超出预期的执行，为这个溢价续命。&lt;/p&gt;
-&lt;p&gt;接下来一个月，市场盯着三件事：AMD 股价能否守住470美元、英伟达8月26日的财报能否扛住抬高的门槛、台积电产能分配的天平会不会向 AMD 倾斜。再往后，2027年上半年的 Anthropic 首批1吉瓦部署、MI455X 的季度出货斜率、AI 数据中心毛利率能否随规模改善，是验证&amp;quot;翻倍指引&amp;quot;成色的三个硬指标。AI 芯片的军备竞赛没有结束，只是从讲故事进入了兑现的阶段。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%</title><link>https://wallstreetcn.com/articles/3778704</link><guid>60a7b721d8b33045294eac42ea856d3040e472fa4803de272774079fc143e377</guid><pubDate>Wed, 05 Aug 2026 13:42:24 GMT</pubDate><description>&lt;p&gt;美股财报彰显经济韧性，AI投资信心回升。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 18:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%</title><link>https://wallstreetcn.com/articles/3778704</link><guid>60a7b721d8b33045294eac42ea856d3040e472fa4803de272774079fc143e377</guid><pubDate>Wed, 05 Aug 2026 13:42:24 GMT</pubDate><description>&lt;p&gt;美股财报彰显经济韧性，AI投资信心回升。&lt;/p&gt;
 &lt;p&gt;周三，美股三大股指小幅高开，道指涨0.33%，标普500指数涨0.56%，纳指涨0.39%。SpaceX跌超10%，公司营收增92%大超预期，资本支出激增；AMD跌7%，Q2营收、利润均超预期，Q3指引未满足激进投资者预期。&lt;/p&gt;
 &lt;p&gt;数据方面，ADP研究院周三发布的数据显示，7月私人部门新增就业4.4万人，低于彭博经济学家调查预期的6.5万人，亦是今年以来的最低水平，此前6月份经修订后的数据为9.5万人。&lt;/p&gt;
 &lt;p&gt;地缘方面，霍尔木兹海峡重新开放预期出现反复。据CCTV国际时讯，伊朗国家电视台今天（8月5日）援引知情人士消息&lt;strong&gt;，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。&lt;/strong&gt;消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。布伦特原油涨0.8%，报每桶约80美元。现货黄金一度突破4200美元/盎司，日内涨幅达3.0%，报4200.52美元/盎司。&lt;/p&gt;
@@ -475,4 +432,28 @@ MI450机架规模产品开始出货，执行风险不容忽视
 &lt;p&gt;如今，北汽蓝谷已经先拿到享界G9预期带来的股价热度。订单、交付、成交价和毛利率，决定这份热度能否进入报表。更深一层，一款车的成功可以来自产品窗口，品牌能力则要靠不同品类的高价订单来证明。G9正处在这条分界线上。&lt;/p&gt;
 &lt;p&gt;如果G9能在豪华SUV市场守住价格并稳定交付，北汽蓝谷得到的就不只是新的销量，而是一条能够跨越品类、持续贡献毛利的高价产品线。对鸿蒙智行，这也比再复制一款爆款更重要：共同的技术和渠道只是底座，真正可复制的能力，是把不同合作车企的长板做成消费者愿意付费的产品差异。&lt;/p&gt;
 &lt;p&gt;资本市场已经提前为这种可能定价。决定这次重估能走多远的，是消费者是否愿意在轿车之外，继续为享界的产品买单。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对SpaceX和AMD财报的解读与思考</title><link>http://xueqiu.com/5332385101/403707263</link><guid>5c62b0492470e122c43b0db3cb9e7e3089159c1c69e94602404a69b64bfa91de</guid><pubDate>Wed, 05 Aug 2026 08:52:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股延续反弹势能，标普与道指在短短五个交易日内已从近一个月的低点到历史新高。纳指涨超2.5%，美光、闪迪、海力士分别涨约8%、11%和8%。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想328 AI竞合的变奏曲</title><link>http://xueqiu.com/1438190065/403699905</link><guid>a04486fffb6df0742179ebbd9cb5a34c7387e45fda77a39266f7368a0de26a27</guid><pubDate>Wed, 05 Aug 2026 08:52:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;如果按照之前“观察海外是否企稳”的方向，昨晚美股的反弹其实挺有效：硬件代表的费城半导体指数上涨了6个点，上穿5、10、20日线，英伟达、英特尔均有上涨表现，内存里的美光、闪迪也都录得较大涨幅；表现最亮眼的是美股的“光”，Lumentum、迈威尔科技、Coherent均大涨，其逻辑是美国的供应链重构和国产替代。&lt;/p&gt;</description></item><item><title>[今日雪球] 二十一年拾荒者：等潮水退去，收拾满地筹码</title><link>http://xueqiu.com/7271353740/403757302</link><guid>c21fe16562617ed7008897357fdf34c6a13ec98278fcfd1593b926e87c0b5eb4</guid><pubDate>Wed, 05 Aug 2026 08:52:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;做了二十一年股票，见过太多聪明人栽在同一个坑里——杠杆。&lt;/strong&gt;这市场里最赚钱的，不是最聪明的，也不是消息最灵的，而是最能熬的。熬到借钱炒股的人一个个撑不住离了场，然后弯腰捡他们丢下的筹码。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 按兵不动！美财政部维持季度发债规模不变，40万亿美元债务压力逼近</title><link>https://wallstreetcn.com/articles/3778770</link><guid>4304e207af1aec0ef8e0b6bfa42f5a352ce0f014a147a8dfdf0074f08d78ca00</guid><pubDate>Wed, 05 Aug 2026 14:58:29 GMT</pubDate><description>&lt;p&gt;债务逼近40万亿美元，美国财政部依旧没有调整发债策略。&lt;/p&gt;
+&lt;p&gt;美国财政部周三公布季度再融资声明，&lt;strong&gt;维持未来票据及附息国债拍卖规模不变，符合市场预期。&lt;/strong&gt;同时，财政部将本季度借贷规模预估上调至7390亿美元，反映财政融资需求进一步扩大。&lt;/p&gt;
+&lt;p&gt;尽管整体安排没有意外，但&lt;strong&gt;声明中将未来长期附息国债发行规模由&amp;quot;增加（increases）&amp;quot;改为&amp;quot;调整（changes）&amp;quot;的细微措辞变化，引发市场对未来发债策略的猜测。&lt;/strong&gt;分析人士认为，这既可能只是弱化前瞻指引，也可能意味着财政部正为未来调整长期国债发行保留更大灵活性。&lt;/p&gt;
+&lt;p&gt;在长期国债发行规模按兵不动的背景下，财政部仍不得不依赖短期国库券满足融资需求。随着市场预期美联储将在较长时间内维持高利率，短债占比持续上升，也意味着美国政府债务融资对短端利率的敏感性正在不断增强。&lt;/p&gt;
+发债规模维持不变，一处措辞调整引发关注
+&lt;p&gt;财政部表示，目前预计未来几个季度票据和附息国债拍卖规模均无需调整，这一指引至少将延续至2027年，与财政部长贝森特上任以来的立场保持一致。&lt;/p&gt;
+&lt;p&gt;不过，本次声明中一处措辞变化引起市场注意。财政部将此前有关未来长期附息国债发行规模的表述，由&amp;quot;增加（increases）&amp;quot;修改为更为宽泛的&amp;quot;调整（changes）&amp;quot;。&lt;/p&gt;
+&lt;p&gt;BMO资本市场利率策略师Vail Hartman表示，&lt;strong&gt;这一变化可能只是淡化前瞻性指引，也可能是在为未来下调长期国债发行规模预留空间，但他强调，这并非其基准预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Santander美国资本市场首席经济学家Stephen Stanley则认为，&lt;strong&gt;这是一项&amp;quot;微妙但值得关注&amp;quot;的变化，&amp;quot;也许无关紧要，也可能具有重要意义。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+借贷需求继续攀升，40万亿美元债务近在眼前
+&lt;p&gt;根据最新安排，&lt;strong&gt;财政部拟于下周发行共计1250亿美元国债&lt;/strong&gt;，其中包括580亿美元3年期、420亿美元10年期和250亿美元30年期品种。本轮季度再融资操作预计将净筹集约287亿美元新增资金。&lt;/p&gt;
+&lt;p&gt;与此同时，财政融资需求仍在持续攀升。财政部本周已将7至9月当季的借贷规模预估从6710亿美元上调至7390亿美元，较5月预测增加680亿美元，主要源于税收等现金流入预期下调。&lt;/p&gt;
+&lt;p&gt;分析人士预计，&lt;strong&gt;美国联邦政府债务总规模将在未来两周内突破40万亿美元，再度刷新历史纪录。&lt;/strong&gt;&lt;/p&gt;
+&amp;quot;T-bill and Chill&amp;quot;仍在继续，短债依赖进一步加深
+&lt;p&gt;由于长期附息国债的发行规模维持不变，财政部的新增融资需求只能继续依靠短期国库券来满足。&lt;strong&gt;这一做法被华尔街交易员戏称为 “T-bill and Chill” ，即尽可能以短期国库券填补资金缺口，同时避免加大长期债券供给，从而减轻对长端利率的上行压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;财政部在声明中重申，未来在评估拍卖规模调整时，将继续优先考虑收益率曲线短端，并将持续跟踪国库券需求变化，重点关注结构性需求趋势，以及不同发行方案下的融资成本与风险状况。&lt;/p&gt;
+&lt;p&gt;不过，&lt;strong&gt;不少市场人士质疑，在财政赤字持续扩大的背景下，单靠增发短期国库券恐难长期维持融资平衡。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更令人担忧的是利率风险。当前市场普遍预期，美联储未来数月仍将维持偏紧的货币政策，短端融资成本存在进一步上升的可能。&lt;strong&gt;若财政部继续提高短债占比，政府债务的融资成本将对政策利率变动更加敏感，偿债支出的波动性也将随之放大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当前，货币市场基金以及美联储（后者正将到期MBS本金再投资于国库券）仍为T-bill提供稳定的需求支撑，这也是财政部能够持续推进这一策略的重要基础。&lt;/p&gt;
+大选临近，财政部仍不愿释放调整信号
+&lt;p&gt;据报道，部分策略师认为，贝森特坚持维持现有前瞻指引，与11月选举临近不无关系。市场普遍认为，&lt;strong&gt;在当前背景下，财政部并不希望因增加长期国债发行而推高长期收益率，进一步抬升政府融资成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上周，美国10年期国债收益率一度升至贝森特履职以来最高水平，也强化了市场对财政部维持现有发债安排的预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;事实上，财政部借贷咨询委员会（TBAC）早已建议调整这一前瞻性指引。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TBAC早在2025年2月便建议财政部取消或修改相关措辞，并于今年5月再次讨论这一问题。最新声明中，TBAC重申，按照目前预测，自2027财年开始，提高附息国债发行规模可能已有必要，并建议财政部更新前瞻指引，为未来政策调整保留更大灵活性。&lt;/p&gt;
+&lt;p&gt;不少一级交易商也警告，财政部拖延调整时间越长，未来一旦需要增加长期国债发行，调整幅度可能越大、节奏越急，对债券市场造成的冲击也将更加明显。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对SpaceX和AMD财报的解读与思考</title><link>http://xueqiu.com/5332385101/403707263</link><guid>5c62b0492470e122c43b0db3cb9e7e3089159c1c69e94602404a69b64bfa91de</guid><pubDate>Wed, 05 Aug 2026 08:52:10 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股延续反弹势能，标普与道指在短短五个交易日内已从近一个月的低点到历史新高。纳指涨超2.5%，美光、闪迪、海力士分别涨约8%、11%和8%。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想328 AI竞合的变奏曲</title><link>http://xueqiu.com/1438190065/403699905</link><guid>a04486fffb6df0742179ebbd9cb5a34c7387e45fda77a39266f7368a0de26a27</guid><pubDate>Wed, 05 Aug 2026 08:52:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;如果按照之前“观察海外是否企稳”的方向，昨晚美股的反弹其实挺有效：硬件代表的费城半导体指数上涨了6个点，上穿5、10、20日线，英伟达、英特尔均有上涨表现，内存里的美光、闪迪也都录得较大涨幅；表现最亮眼的是美股的“光”，Lumentum、迈威尔科技、Coherent均大涨，其逻辑是美国的供应链重构和国产替代。&lt;/p&gt;</description></item><item><title>[今日雪球] 二十一年拾荒者：等潮水退去，收拾满地筹码</title><link>http://xueqiu.com/7271353740/403757302</link><guid>c21fe16562617ed7008897357fdf34c6a13ec98278fcfd1593b926e87c0b5eb4</guid><pubDate>Wed, 05 Aug 2026 08:52:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;做了二十一年股票，见过太多聪明人栽在同一个坑里——杠杆。&lt;/strong&gt;这市场里最赚钱的，不是最聪明的，也不是消息最灵的，而是最能熬的。熬到借钱炒股的人一个个撑不住离了场，然后弯腰捡他们丢下的筹码。&lt;/p&gt;</description></item></channel></rss>
