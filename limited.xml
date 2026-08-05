@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 01:59:44 GMT</lastBuildDate><item><title>[华尔街见闻] SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达</title><link>https://wallstreetcn.com/articles/3778694</link><guid>a1a97f2b38f15d01ef83c7bd45fce4e6cb249938e316ad5069422f958d218ac7</guid><pubDate>Wed, 05 Aug 2026 00:13:36 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 05 Aug 2026 02:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达</title><link>https://wallstreetcn.com/articles/3778694</link><guid>a1a97f2b38f15d01ef83c7bd45fce4e6cb249938e316ad5069422f958d218ac7</guid><pubDate>Wed, 05 Aug 2026 00:13:36 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778691"&gt;华尔街见闻提及&lt;/a&gt;，美东时间8月4日，SpaceX公布上市后首份财报，第二季度总营收同比增长92%至约78亿美元，较分析师预期高10%以上。&lt;/p&gt;
 &lt;p&gt;调整后息税折旧摊销前利润（EBITDA）同比增长约192%至35亿美元，较市场预期高75%。每股收益（EPS）为-0.09美元，远低于0.23美元至0.26美元的市场预期亏损范围。&lt;/p&gt;
 &lt;p&gt;业绩电话会上，SpaceX高管并未提供太多具体的财务指引，但他们预测，到&lt;strong&gt;今年年底，公司的年度经常性收入将至少达到1000亿美元。&lt;/strong&gt;CEO马斯克将实现1万亿美元收入的目标时间提前了一年。&lt;/p&gt;
@@ -247,7 +247,54 @@ AI网络分三个战场，Arista押注scale out与scale across
 &lt;p&gt;据独立第三方AI模型评测平台Artificial Analysis最新发布的Intelligence Index（智能指数），DeepSeek-V4-Flash正式版的智能水平达到50分，在国内仅次于智谱GLM-5.2的51分，高于同类模型的平均水平。DeepSeek延续了模型“低成本高性价比”的路线，V4-Flash输出每百万Token（词元）的价格为0.28美元，低于智谱GLM-5.2输出每百万Token 4.29美元的定价。&lt;/p&gt;
 &lt;p&gt;在推理算力需求上涨、成本不断推高的情况下，不少大模型公司都在追求极致的推理效率，在国内走高性价比路线的还包括腾讯混元。近期，美国AI模型公司OpenAI也宣布下调GPT-5.6系列模型的API调用价格，其中入门级模型Luna降价80%。在DeepSeek-V4-Flash正式版发布前，追求相同模型能力下，GPT-5.6的性价比甚至高于DeepSeek。不过这个性价比优势很快被抹平。&lt;/p&gt;
 &lt;p&gt;在面向全球开发者的AI模型聚合平台OpenRouter最新榜单上，DeepSeek-V4-Flash正式版本周Token消耗量以7.1万亿排名榜单首位。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&amp;amp;mid=2653728235&amp;amp;idx=1&amp;amp;sn=c3af34087e88fc2d90a2eee63f821c37&amp;amp;chksm=bce9a451c70368baed300efc2f287d6e9eee9873e9c12d9047d404af112c2e45564e206aba40&amp;amp;scene=0&amp;amp;xtrack=1"&gt;《财经》&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛详解韩国存储“8大焦点”：估值、长协、库存、长鑫冲击、回购等</title><link>https://wallstreetcn.com/articles/3778706</link><guid>ad53e271f40c246b7d3d15556c7e5bf53a808ef39009a2eaa50ed41f622f0711</guid><pubDate>Wed, 05 Aug 2026 01:54:14 GMT</pubDate><description>&lt;p&gt;三星电子和SK海力士股价近月大幅回调，估值已跌至极度悲观水平，但高盛认为基本面并不支持如此低廉的定价，并重申对两家公司的买入评级。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&amp;amp;mid=2653728235&amp;amp;idx=1&amp;amp;sn=c3af34087e88fc2d90a2eee63f821c37&amp;amp;chksm=bce9a451c70368baed300efc2f287d6e9eee9873e9c12d9047d404af112c2e45564e206aba40&amp;amp;scene=0&amp;amp;xtrack=1"&gt;《财经》&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛大幅上调中国大模型收入预期，性价比只是起点，能力才是真正的底牌</title><link>https://wallstreetcn.com/articles/3778709</link><guid>dde6aa1164f6423ce46068b2cd7271677d8935e4a1d430ad0a48f660d08cfeec</guid><pubDate>Wed, 05 Aug 2026 02:07:21 GMT</pubDate><description>&lt;p&gt;中国大模型的收入兑现速度，正在超出华尔街此前的预判。&lt;/p&gt;
+&lt;p&gt;8月3日，高盛亚太互联网团队分析师Ronald Keung在最新研报中将中国大模型厂商2026年末合计ARR（年度经常性收入）预期从100亿美元上调至130亿美元，并预测2030年将攀升至1250亿美元——&lt;strong&gt;五年25倍。&lt;/strong&gt;同日，Jefferies最新研报中用更密实的数据刻画了另一条暗线：OpenRouter平台上，中国模型已连续14周包揽调用量前五，DeepSeek V4 Flash单周消耗7.22万亿token登顶全球。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一条线是收入预期的上调，一条线是token消费的结构性爆发。二者交汇之处，正是中国大模型从“性价比叙事”迈入“收入兑现叙事”的拐点&lt;/strong&gt;——而驱动这一拐点的核心力量，正是Agent与编码场景对token消费模式的根本性重塑。&lt;/p&gt;
+叙事切换：收入兑现时刻已到来
+&lt;p&gt;高盛预测，中国大模型的API及订阅收入将从2026年估算的350亿元人民币增长至2030年的8790亿元，对应每日token消耗量从350万亿增至4600万亿。这意味着，五年间收入与token消耗量同增约25倍，且增速仍在加速而非递减。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更关键的是收入结构的分化。高盛对智谱和MiniMax的收入估计分别上调了35%和22%—64%&lt;/strong&gt;，反映出市场对中国头部模型公司商业化能力的重新定价。高盛将中国AI模型市场描述为正在形成的“双层结构”：高端市场以智谱GLM5.2和阿里Qwen3.7 Max为代表，定价约每百万token 1美元；低端市场面向Agent任务的模型定价低至每百万token 0.06至0.2美元。两层市场均在快速扩张，但驱动因素截然不同——高端靠智能溢价，低端靠规模效应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，高盛也坦承现实约束：&lt;/strong&gt;2026年行业训练总成本40亿美元、推理总成本70亿美元，合计高于当期ARR，板块整体仍处于负EBIT状态。API业务毛利率当前仅20%—30%，&lt;strong&gt;盈利拐点要到2030年才会出现，届时板块EBIT利润率可达18%，对应总利润230亿美元&lt;/strong&gt;。换言之，这是一条“先烧钱、后兑现”的路径，但终点已被清晰标定。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+极致性价比：4到8倍的价差
+&lt;p&gt;性价比不是新话题，但价差的量级仍令人咋舌。&lt;/p&gt;
+&lt;p&gt;高盛算过一笔账：一名Agent开发者每日约消耗709万token，在美国顶尖模型上运行，单日算力“燃料费”为52至104美元；切换至中国头部模型后，成本骤降至13美元。4到8倍的价差，使得“不使用中国模型”变成了一项需要向CFO作出合理解释的商业决策。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;价差的底层是架构红利。&lt;/strong&gt;中国模型普遍采用MoE（混合专家）架构，通过极低的参数激活比压低推理成本。以DeepSeek V4 Flash为例，输入价格仅为每百万token 0.14美元，输出0.28美元——而OpenAI GPT-5.5的报价是5美元，差距在35倍以上。更关键的是DeepSeek的缓存命中折扣机制：命中缓存只按标价2%计费，远超业内普遍的90%折扣水平。这意味着，对于Agent场景中大量重复性的上下文读取，实际成本还能再降一个数量级。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但价格只是硬币的一面。真正让华尔街重新评估的，是中国模型在能力维度上的快速跃迁”。&lt;/strong&gt;中国AI性价比的真正含义正在被重写：&lt;strong&gt;它早已突破了&amp;quot;便宜但凑合&amp;quot;的旧标签，转而代表着&amp;quot;足够好且不可不用&amp;quot;的新标准。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+不只是便宜：能力超越的临界时刻
+&lt;p&gt;高盛将中国大模型的发展划分为两个阶段：2025年是“DeepSeek时刻”，行业依托MoE架构大幅压低推理成本，核心优势落在成本效率；2026年是“智谱时刻”，GLM 5.2跻身代码、智能体等高价值赛道全球第一梯队，证明国产模型性能具备全球竞争力。前者降低了成本，后者证明了能力。&lt;/p&gt;
+&lt;p&gt;这并非投行的溢美之词。三个月内，&lt;strong&gt;中国大模型跻身全球文本赛道前50%的模型新增13款；代码赛道全球前30%新增5款；智能体赛道实现从零到一的突破，GLM-5.2稳居全球前7。在Artificial Analysis视频模型榜单中，MiniMax H3的视频编辑能力排名全球第一，字节Seedance在多模态生成领域同样处于领先梯队&lt;/strong&gt;。斯坦福AI Index数据显示，中美顶尖模型性能差距已缩小至约2.7%——这个数字在一年前还是两位数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能力超越的核心在于：中国模型的架构创新并非以牺牲性能为代价换取低成本&lt;/strong&gt;。恰恰相反，MoE架构的稀疏激活机制在压低推理成本的同时，通过更大的总参数量实现了更高的模型容量。MiniMax在M3模型中推出的全新注意力架构MSA（混合稀疏注意力），将1M超长上下文的处理成本降至传统架构的极低水平，同时在Coding和Agent基准测试中跻身全球前列。美团LongCat 2.0基于5万张国产算力卡完成1.6万亿参数全量训练，证明国产软硬件协同栈不仅能跑通，还能跑出竞争力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更关键的是，能力超越正在从“通用基准”向“高价值场景”渗透。&lt;/strong&gt;高盛的评估显示，在基础文本模型领域，智谱和DeepSeek表现最突出；在Agent工具调用和Coding场景中，阿里Qwen3-Max处于全球第一梯队。当中国模型不再只有在“性价比赛道”上领先，同时在智能体、编码、多模态生成等最考验模型深度理解与长程规划能力的赛道上与全球顶尖模型正面竞争时，“便宜”就不再是唯一的故事——“更好”正在成为新的叙事。&lt;/p&gt;
+&lt;p&gt;这也解释了为什么OpenRouter上的token消费不只是“贪便宜”的产物。当Agent开发者需要模型在数百次工具调用中保持指令遵循、长上下文记忆和错误恢复能力时，纯粹的价格优势不足以支撑持续使用——模型必须“足够聪明且足够便宜”，二者缺一不可。中国模型正在同时满足这两个条件，这才是竞争态势被改写的根本原因。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Token消费的结构性转向：从“Chat”到“Work”
+&lt;p&gt;如果说收入预期上调是“果”，那么token消费模式的转变就是“因”。&lt;/p&gt;
+&lt;p&gt;OpenRouter最新周报（7月27日—8月2日）显示，&lt;strong&gt;全球大模型调用量前五全部由中国模型包揽：DeepSeek V4 Flash（7.22万亿）、小米MiMo-V2.5（6.3万亿）、腾讯混元Hy3（4.82万亿）、DeepSeek V4 Pro（3.28万亿）、智谱GLM5.2（2.89万亿）。中国模型在全球平台的token份额已达63.5%，美国跌至35.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但比排名更重要的是消费结构的质变。一个关键数据：同一份编码任务，AI Agent自动化工作流平均消耗417万token，普通代码问答仅消耗3390token——相差超过1000倍。原因在于，Agent需要不断读取上下文、调用工具并循环规划。真正昂贵的不是回答问题，而是让AI持续工作。&lt;/p&gt;
+&lt;p&gt;OpenCode平台披露，DeepSeek V4 Flash单日处理量已达8万亿token，其中5万亿来自免费试用额度，3万亿来自付费套餐。这种“免费拉新+付费转化”的路径，直观反映了Agent生态正在快速扩张。更值得关注的是，以Hermes为代表的Agent应用已经超过人类聊天，成为OpenRouter上最大的token消耗App。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Token的主人正在换人”——过去三年，token是人买的、人看的；从今年开始，越来越多的token，人都不会看一眼——那是Agent在规划、调用工具、写代码、自我检查时，机器烧给机器的。&lt;/strong&gt;这种转变不仅改变了需求的计算方式，也重塑了模型竞争的核心维度：衡量一款模型的单位，从“单次回答有多聪明”变成了“完成一项长任务要花多少钱、多久、失败几次”。&lt;/p&gt;
+&lt;p&gt;这种转变也催生了“多模型调用”的新范式。微软已证实正在探索将DeepSeek V4部署在Azure上，用作Copilot的低成本模型选项；Airbnb CEO公开表示公司依赖阿里Qwen模型用于大规模生产场景。企业客户正在从“绑定单一模型”转向“便宜的和高级的搭配着来”——这种混用正在从个别企业的权宜之计，变成默认配置。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+多模态与Agent：竞争新前沿
+&lt;p&gt;当token消费从“Chat”转向“Work”，竞争的前沿也在迁移。&lt;/p&gt;
+&lt;p&gt;7月31日，MiniMax发布新一代多模态生成模型H3，并宣布近期开源。这是MiniMax推出的首款开源多模态生成模型，支持文本、图片、音频和视频等多种输入，可直出2K分辨率画面，最长生成15秒音画内容。在Artificial Analysis视频模型榜单中，H3的视频编辑能力排名全球第一。&lt;/p&gt;
+&lt;p&gt;更具冲击力的是定价：H3视频生成价格为0.8元/秒（2K分辨率），仅为业内同类旗舰模型的三分之一。成本下降来自两个方向的技术优化——高压缩Tokenizer减少了视频生成所需的token数量，异构训练和GPU利用效率的系统性调优则控制了训练与推理成本。MiniMax股价当日大涨超14%，市场对“极致性价比+开源”的商业突围路径投下了赞成票。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在Agent应用层，竞争同样白热化。&lt;/strong&gt;字节跳动发布面向Agent与Coding场景的Seed 2.1 Pro，具备复杂任务编排、长程规划和工具调用能力；腾讯WorkBuddy在企业Agent应用市场占据34%的份额；智谱GLM Coding Plan同步开放订阅，1GW级国产AI算力数据中心落地。编码场景已成为模型厂商必争之地——因为编码是Agent能力最直接的商业化出口，也是token消耗最密集的场景之一。&lt;/p&gt;
+&lt;p&gt;高盛注意到，AI消耗token最多的两大应用——智能代理和编程——已大规模迁移至中国模型上运行。这不是因为中国模型品质超越了美国，而是因为其极低的单价使得规模化部署在经济上变得可行。当Agent任务需要调用上百次模型才能完成时，4到8倍的价差会被放大成数百倍的账单差异。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+CSP财报前瞻：云收入加速兑现
+&lt;p&gt;模型层的繁荣正在向云收入层传导。&lt;/p&gt;
+&lt;p&gt;阿里云最新季度收入达398.24亿元，同比增长34%，增速创三年新高。AI相关产品收入连续第九个季度实现三位数增长，AI相关服务贡献了云业务对外收入的约20%。高盛预计，阿里云AI收入占比将从30%向50%迈进，推动整体云收入增速持续加速。&lt;/p&gt;
+&lt;p&gt;过去四个季度，阿里在AI+云基础设施的资本开支约1200亿元。阿里巴巴CEO吴泳铭在财报电话会上明确表示：“三年规划3800亿的投资目前看说少了。”阿里云AI服务器上架节奏跟不上客户订单增长速度，在手积压订单持续扩大。供应链端FAB、存储、CPU均处于紧缺状态，连3到5年前的老一代GPU都满载运行。&lt;/p&gt;
+&lt;p&gt;Jefferies在研报中前瞻了即将到来的CSP财报季：阿里云收入预计加速至45% YoY，腾讯云AI收入占比持续提升，百度智能云受益于文心系列模型迭代。云厂商正在从“卖算力”升级为“卖AI能力”——这种转变意味着收入结构从线性的资源租赁，转向更具弹性的MaaS+IaaS混合模式，毛利率天花板也将被打开。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+中国大模型正在经历一场双重转型
+&lt;p&gt;&lt;strong&gt;第一重，从“性价比”到“收入兑现”。&lt;/strong&gt;高盛将ARR预期从100亿上调至130亿美元，不是因为它突然变得乐观，而是因为token消费的数据已经跑出来了——7.22万亿的周调用量不是预测，而是正在发生的现实。当中国模型连续14周包揽OpenRouter前五，当Agent开发者每天烧掉8万亿token，收入预期的上调只是对既有趋势的滞后确认。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二重，从“Chat”到“Work”。&lt;/strong&gt;token消费的主人正在从人变成Agent，这不仅是量的爆发，更是质的转变。Agent任务的token消耗是普通问答的1000倍，而中国模型4到8倍的价格优势在这种量级下被放大成不可逾越的成本壁垒。微软在Azure上部署DeepSeek、Airbnb依赖Qwen——企业用脚投票的结果，比任何benchmark都更有说服力。&lt;/p&gt;
+&lt;p&gt;两条线交织的结论很清晰：&lt;strong&gt;中国大模型的竞争态势正在被改写。竞争的核心不仅仅是谁的参数更大、谁的benchmark分数更高，谁能把推理成本压到最低、谁能在Agent和编码场景中捕获最多的token消费、谁能将模型能力最快地转化为云收入。&lt;/strong&gt;这是一场关于成本、场景和生态的综合博弈——而中国模型，正在从“跟跑者”变为“规则制定者”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛详解韩国存储“8大焦点”：估值、长协、库存、长鑫冲击、回购等</title><link>https://wallstreetcn.com/articles/3778706</link><guid>ad53e271f40c246b7d3d15556c7e5bf53a808ef39009a2eaa50ed41f622f0711</guid><pubDate>Wed, 05 Aug 2026 01:54:14 GMT</pubDate><description>&lt;p&gt;三星电子和SK海力士股价近月大幅回调，估值已跌至极度悲观水平，但高盛认为基本面并不支持如此低廉的定价，并重申对两家公司的买入评级。&lt;/p&gt;
 &lt;p&gt;追风交易台消息，8月4日，高盛Giuni Lee团队发表研报，系统梳理了市场当前对韩国存储行业的&lt;strong&gt;八大核心疑虑&lt;/strong&gt;，&lt;strong&gt;涵盖HBM定价前景、长期协议结构、库存状况、长鑫冲击、股东回报及SK海力士美股ADR的影响等议题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;分析师认为，上述担忧大多被市场过度解读，真实的供需格局依然支撑存储价格处于高位。&lt;/p&gt;
 &lt;p&gt;在此背景下，三星电子和SK海力士股价在过去一个月内分别下跌23%和35%，使&lt;strong&gt;两家公司的2027年预期市盈率均跌至约3.5至3.6倍、市净率仅为1.4至1.6倍。&lt;/strong&gt;&lt;/p&gt;
@@ -737,7 +784,7 @@ AI板块FOMO熔涨，Palantir营收暴增93%引爆全线追涨
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板低开高走翻红，科创50大涨4%，半导体产业链爆发，“易中天”集体收窄跌幅，港股科网股齐跌</title><link>https://wallstreetcn.com/articles/3778711</link><guid>07097dc68c0fd08a428969858fe5d209eb077520247c2cdfddb88951458c1465</guid><pubDate>Wed, 05 Aug 2026 01:52:32 GMT</pubDate><description>&lt;p&gt;8月5日，A股低开高走，三大股指盘初纷纷拉升，沪指、深成指转涨，创业板跌幅迅速收窄，开盘曾大跌超3%，科创50涨3%，半导体产业链爆发，半导体材料、半导体设备、半导体硅片等方向集体大涨，生物科技、有色金属等板块走强，油气、白酒、电力等陷入调整。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板翻红，科创50大涨4%，半导体产业链爆发，“易中天”大幅低开后拉升，港股科网股齐跌</title><link>https://wallstreetcn.com/articles/3778711</link><guid>07097dc68c0fd08a428969858fe5d209eb077520247c2cdfddb88951458c1465</guid><pubDate>Wed, 05 Aug 2026 01:59:58 GMT</pubDate><description>&lt;p&gt;8月5日，A股低开高走，三大股指盘初纷纷拉升，沪指、深成指转涨，创业板跌幅迅速收窄，开盘曾大跌超3%，科创50涨3%，半导体产业链爆发，半导体材料、半导体设备、半导体硅片等方向集体大涨，生物科技、有色金属等板块走强，油气、白酒、电力等陷入调整。&lt;/p&gt;
 &lt;p&gt;值得关注的是，光模块早盘大幅低开，“易中天”盘初重挫之后，纷纷收窄跌幅。此前&lt;a href="https://wallstreetcn.com/articles/3778700"&gt;人民日报&lt;/a&gt;发文称，中美经贸需要“合作清单”，而非“覆盖清单”。&lt;/p&gt;
 &lt;p&gt;港股高开之后回落，恒指、恒科指早盘双双下跌，科网股集体走低，芯片半导体继续反弹，兆易创新、华虹宏力等涨幅居前。AI大模型拉升，智谱和MINIMAX均涨超6%。&lt;/p&gt;
 &lt;p&gt;债市方面，国债期货集体上涨。商品方面，国内商品期货多数走高，贵金属期货涨幅居前。核心市场走势：&lt;/p&gt;
@@ -751,6 +798,8 @@ AI板块FOMO熔涨，Palantir营收暴增93%引爆全线追涨
 &lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数品种走高，截至发稿，钯金、铂金涨超4%，沪银涨3%，焦煤、烧碱、沪金、橡胶、鸡蛋、焦炭、集运指数、碳酸锂、沪铜、沪锡、工业硅、纸浆、氧化铝等品种走高，热轧卷板、螺纹钢、铁矿石、玻璃、豆粕、锰硅下跌，多晶硅、沥青、沪镍跌超1%，不锈钢、燃油、原油等跌超2%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;09:58&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A股三大指数悉数翻红，创业板指此前跌逾3%，半导体、算力硬件产业链低开高走。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:47&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;创业板指翻红，科创50指数涨超4%。CPO概念股低开高走，星网锐捷、沃格光电、科瑞技术等股涨停，锐捷网络涨超13%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -772,7 +821,38 @@ AI板块FOMO熔涨，Palantir营收暴增93%引爆全线追涨
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.15%，恒生科技指数涨0.33%。智谱、MINIMAX、联想集团涨逾3%，地平线机器人、阿里巴巴涨逾2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD大跌！Q2营收、利润均超预期，Q3指引未满足激进投资者预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3778692</link><guid>3b7837fe783adc8ca263bfab2d7fff12fde722506992ac6719230104d12491d9</guid><pubDate>Tue, 04 Aug 2026 21:28:56 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国7月RatingDog服务业PMI降至50.4，连续43个月保持扩张，就业、出口新业务均连续三个月增长</title><link>https://wallstreetcn.com/articles/3778713</link><guid>86e5fb13a1289a4f1d8cb0fca5d7259f0498ea72a573ea4fa8ae6366e37a058a</guid><pubDate>Wed, 05 Aug 2026 02:04:42 GMT</pubDate><description>&lt;p&gt;中国服务业在7月延续增长态势，但扩张势头明显减弱，就业连续第三个月扩张、出口新业务维持韧性，不过市场信心滑落至逾六年来最低水平。&lt;/p&gt;
+&lt;p&gt;8月5日，据RatingDog最新PMI调查数据显示，7月中国通用服务业商业活动指数从6月的54.1骤降至50.4，创2024年9月以来最低读数，&lt;strong&gt;服务业扩张连续第二个月放缓&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，综合产出指数从6月的53.6降至50.8，为近一年来最低增速。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;尽管整体增长动能趋于收敛，但&lt;strong&gt;就业连续第三个月扩张、出口新业务维持韧性，以及投入成本涨势持续回落&lt;/strong&gt;，为当前服务业景气图景提供了若干正面支撑。RatingDog创始人Yao Yu表示，&lt;strong&gt;服务业PMI预计短期内将维持在荣枯线以上，但复苏节奏将取决于内需强度与企业信心的走向。&lt;/strong&gt;&lt;/p&gt;
+
+活动与新业务扩张双双放缓
+
+&lt;p&gt;7月服务业商业活动指数50.4的读数，&lt;strong&gt;意味着服务业产出已连续43个月保持增长，&lt;/strong&gt;但当月扩张速度为近一年最慢。新业务总量同样维持增长，延续了逾三年半的连续扩张纪录，但增速回落至四个月低点。&lt;/p&gt;
+&lt;p&gt;Yao Yu指出，驱动商业活动增长的动力来源包括客户拓展、项目获取、业务开发以及AI相关服务的增长。&lt;/p&gt;
+&lt;p&gt;综合PMI数据显示，7月新业务已连续第14个月增长，但增速为今年3月以来最慢，制造业与服务业均有所回落。&lt;/p&gt;
+
+出口业务维持韧性，成为相对亮点
+
+&lt;p&gt;在内需承压的背景下，&lt;strong&gt;服务出口表现相对稳健。&lt;/strong&gt;7月服务出口新业务连续第三个月扩张，并保持较快增速，相关指数录得52.0，为今年以来第二高读数。&lt;/p&gt;
+&lt;p&gt;调查数据显示，海外客户需求增长与展览活动、游学参访、结算业务增加及有效的客户管理有关。Yao Yu表示，海外需求韧性是7月服务业数据中为数不多的积极信号之一。&lt;/p&gt;
+
+就业连续三月增长，创2024年下半年以来最长扩张序列
+
+&lt;p&gt;尽管整体业务扩张放缓，服务业用工规模仍持续扩大。&lt;strong&gt;7月就业连续第三个月录得增长，为2024年下半年以来最长的连续扩张纪录&lt;/strong&gt;，增员原因包括业务规模扩张、项目工作量上升及新业务线启动。&lt;/p&gt;
+&lt;p&gt;持续的用工增长也在一定程度上消化了积压业务的增量，7月未完成业务积压增速有所放缓。不过，积压业务已连续第9个月上升，为2023年以来最长的连续增长序列，反映出整体需求尚存支撑。&lt;/p&gt;
+&lt;p&gt;综合PMI口径下，&lt;strong&gt;就业同样连续第三个月扩张，创2023年中以来最长连续增长纪录。&lt;/strong&gt;&lt;/p&gt;
+
+成本压力持续回落，销售价格小幅上调
+
+&lt;p&gt;7月服务业成本压力延续缓和趋势。投入成本虽已连续17个月上涨，但通胀速率进一步降温，回落至2026年1月以来最低水平——也远低于5月创下的近19个月高点。&lt;strong&gt;原材料、劳动力、广告及柴油价格上涨是主要成本驱动因素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在成本涨势趋缓的同时，服务提供商仍选择上调收费标准，连续第二个月提价，为一年半以来首次出现的连续涨价。涨价原因被归结为成本压力传导、运营费用上升、油价波动及保险费率调整。&lt;/p&gt;
+&lt;p&gt;综合PMI口径下，&lt;strong&gt;投入价格与产出价格通胀均降至六个月低点。&lt;/strong&gt;&lt;/p&gt;
+ 
+&lt;p&gt;另外，前景预期方面，7月服务业对未来12个月的整体信心虽仍处于正值区间，但乐观程度降至2020年2月以来最低水平。&lt;/p&gt;
+&lt;p&gt;企业对业务扩张计划、市场条件改善、新产品发布、促销活动及基础设施项目抱有期待，但部分企业对经济前景采取了更为审慎的态度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD大跌！Q2营收、利润均超预期，Q3指引未满足激进投资者预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3778692</link><guid>3b7837fe783adc8ca263bfab2d7fff12fde722506992ac6719230104d12491d9</guid><pubDate>Tue, 04 Aug 2026 21:28:56 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;AMD公布2026年第二季度财报后，投资者反应冷淡。尽管公司营收、利润均超出市场预期，数据中心业务继续受益于人工智能基础设施投资热潮，但第三季度收入指引未能达到部分投资者此前的高预期，推动股价盘后下跌。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AMD第二季度营收同比增长50%至115.36亿美元，高于预期的113亿美元，创历史新高；非GAAP口径下每股收益为1.66美元，高于市场预期的1.62美元。&lt;/strong&gt;公司毛利率达到56%，净利润达到27.6亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -810,76 +890,4 @@ PC业务恢复，但游戏收入继续承压
 &lt;p&gt;截至第二季度末，AMD现金及短期投资规模达到131.11亿美元，总债务约32.26亿美元。&lt;/p&gt;
 &lt;p&gt;不过，股价走势显示，市场已经从“AMD能否受益于AI”转向“AMD能否达到AI龙头公司的增长速度”。&lt;/p&gt;
 &lt;p&gt;在AI资本开支持续扩张背景下，AMD仍具备增长空间，但未来股价表现将更多取决于公司能否持续提升AI GPU市场份额、扩大云厂商客户基础，以及证明其AI生态能够真正挑战英伟达。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，AMD已经不再是一家单纯的半导体周期股，而是一家被赋予AI基础设施领导者预期的公司。高增长预期，也意味着更高的业绩兑现压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石拟牵头360亿美元融资，Anthropic与谷歌的资金闭环再扩一环</title><link>https://wallstreetcn.com/articles/3778693</link><guid>6465730f43f6696af4eca77c3e6b119b45fc0aa8a115818f2877a69338da6933</guid><pubDate>Tue, 04 Aug 2026 20:28:44 GMT</pubDate><description>&lt;p&gt;Anthropic正在构建一套前所未有的巨额融资体系，以支撑其快速扩张的算力需求。&lt;/p&gt;
-&lt;p&gt;8月4日据彭博社知情人士透露，黑石集团已开始与投资者进行初步接触，&lt;strong&gt;拟牵头安排一笔至少360亿美元的债务融资，专项用于支付Anthropic向谷歌租用AI芯片的费用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;若该融资最终落地，其规模将超越约两个月前由阿波罗全球管理公司与黑石联合安排的350亿美元债务融资包，后者已是史上最大规模私人信贷交易之一。&lt;/p&gt;
-&lt;p&gt;巨额新融资的出炉，折射出AI基础设施建设对资本的无底洞式需求，以及科技巨头、金融机构与AI创业公司之间日趋复杂的资本关系。&lt;/p&gt;
-&lt;p&gt;谷歌既是Anthropic的早期投资方，如今又通过为其芯片租赁交易提供背书，形成一套资金循环结构——&lt;strong&gt;谷歌注入的数十亿美元投资，最终以租赁费用的形式回流至谷歌自身。&lt;/strong&gt;&lt;/p&gt;
-
-闭环融资体系持续扩张
-
-&lt;p&gt;此轮融资是Anthropic与谷歌之间&amp;quot;循环交易&amp;quot;体系的延伸。&lt;/p&gt;
-&lt;p&gt;谷歌是Anthropic的早期投资者之一，多次认购其股权，并日益深度地为支撑该初创公司数据中心运营的融资提供背书。&lt;/p&gt;
-&lt;p&gt;美国知名金融播客主持人、分析师Ed Elson在社交媒体上对此直言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;谷歌已向Anthropic投入数十亿，Anthropic用这些钱向谷歌租芯片——但谷歌的数十亿还不够，于是Anthropic又从黑石借了数十亿。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此前350亿美元债务包中，Anthropic计划通过该融资在五个数据中心租用谷歌强大的定制芯片，而谷歌在为该笔债务的最大优先级部分提供担保背书。&lt;/p&gt;
-&lt;p&gt;这一融资架构的另一核心参与方是博通。今年早些时候，博通、阿波罗与黑石共同组建了名为&amp;quot;AI XPV Platform&amp;quot;的合作平台，专门为包括Anthropic在内的头部AI企业提供算力基础设施融资，此前完成的350亿美元债务交易正是该平台的首笔落地交易。&lt;/p&gt;
-&lt;p&gt;华尔街见闻提及，博通在那笔交易中为最大优先级部分的还款提供担保，摩根士丹利担任顾问并协助安排了该交易。&lt;/p&gt;
-
-Anthropic多线扩充算力，AI信贷市场承压
-
-&lt;p&gt;与此同时，Anthropic的算力扩张并不止于谷歌渠道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据行业分析机构SemiAnalysis披露，Anthropic已与芯片算力公司Bitdeer及由前Brookfield高管创立的Neocloud初创公司Volta Infra签署了一笔价值100亿美元的算力协议。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SemiAnalysis指出，此次新增算力的直接驱动力是Claude Code产品需求的迅猛增长。该机构在社交媒体上表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Claude Code的需求正在急剧攀升。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;上述融资动作发生在Anthropic秘密提交美国IPO文件之后。&lt;/p&gt;
-&lt;p&gt;这家Claude系列模型的开发商正寻求抢在竞争对手OpenAI之前完成上市，新一轮巨额债务融资的安排，或在一定程度上折射出其在上市前夕强化资产负债表与算力储备的意图。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从更宏观的视角来看，AI基础设施建设对资本市场的虹吸效应正持续加剧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;科技公司正在叩响信贷市场的每一个角落，以应对AI前所未有的资本需求，倒逼华尔街设计出各类新型债务结构。&lt;/p&gt;
-&lt;p&gt;与此同时，部分公司近期在新发债务时不得不支付高额利率，反映出市场对AI投资回报前景的疑虑尚未消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel证券：美股7月暴跌不是牛市终结，而是一次“技术性重置”！基本面重掌主导权</title><link>https://wallstreetcn.com/articles/3778678</link><guid>f8dc4c6430d54f801e492e2daa37bc2e642b5c4a3b642ffe1f836f7f17bc9490</guid><pubDate>Tue, 04 Aug 2026 15:25:50 GMT</pubDate><description>&lt;p&gt;美股市场经历了一轮剧烈的技术性出清，但结构性牛市的根基依然稳固。&lt;/p&gt;
-&lt;p&gt;城堡证券（Citadel Securities）首席策略师在最新报告中指出，&lt;strong&gt;过去一个月的市场动荡本质上是一次必要的技术性重置——通过仓位轮动、去杠杆化和基本面改善完成，而非源于宏观经济的实质恶化。&lt;/strong&gt;该机构由此转向对美股中期前景更为积极的立场。&lt;/p&gt;
-&lt;p&gt;报告称，&lt;strong&gt;此前压制市场的多项技术性因素已大幅消退：散户投资者显著削减风险敞口，杠杆水平趋于正常，市场集中度下降，资金面亦将迎来关键转折。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，标普500指数二季度盈利增长预期已从财报季初的22.4%大幅上修至约45%，估值也随之向更具吸引力的水平回归。报告总结认为，&lt;strong&gt;&amp;quot;七月没有改变结构性牛市，而是重置了它。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;城堡证券此前7月28日&lt;a href="https://wallstreetcn.com/articles/3778073?keyword=%E5%9F%8E%E5%A0%A1%E8%AF%81%E5%88%B8"&gt;发布报告预测美联储当周加息&lt;/a&gt;，后在市场下跌中以&lt;a href="https://wallstreetcn.com/articles/3778475?keyword=Citadel"&gt;逾10%折价接盘Situational基金160亿美元股票组合&lt;/a&gt;，被认为是影响市场的重要力量。&lt;/p&gt;
-
-散户行为出现结构性转变
-
-&lt;p&gt;七月市场最显著的变化，在于散户投资者的行为模式发生了根本性转向。&lt;/p&gt;
-&lt;p&gt;城堡证券数据显示，继5月和6月创纪录的高交易活跃度之后，7月散户现货股票日均成交量较6月峰值下滑约20%，但仍处于历史高位——按该平台历史排名位居第四，且高于今年1月反弹期间的水平。&lt;/p&gt;
-&lt;p&gt;更关键的变化在于情绪面。随着散户重仓的AI相关股票持续走弱，投资者逐渐从逢低买入转向主动减仓。这一转变在7月最后一周急剧加速，当周散户净卖出规模有望创下2022年以来最大单周抛售纪录。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，散户连续四个交易日净流出，为今年最长抛售连续期，日均净名义抛售额较上一次可比情形（2025年11月）高出近一倍。&lt;/p&gt;
-&lt;p&gt;卖压最为集中的板块是科技股。报告显示，本周散户在科技股的净卖出名义规模，超越了该平台自2019年1月以来的所有历史纪录，且较此前纪录高出逾80%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在科技板块内部，半导体和存储芯片类股首当其冲——这些正是散户在5月和6月积极买入的核心标的，本周日均净卖出额较此前纪录高出逾5倍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-杠杆大幅去化，市场集中度明显下降
-
-&lt;p&gt;散户抛售加速推动了年内最快的一轮去杠杆进程，市场整体持仓结构因此得以显著优化。&lt;/p&gt;
-&lt;p&gt;杠杆ETF资产规模自6月峰值已缩水逾600亿美元，削减了上半年推动市场上行的重要增量杠杆来源。其中，科技类杠杆ETF资产规模较峰值下降约40%，半导体类则骤降近55%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与杠杆收缩同步发生的，是市场集中度的明显回落。&lt;/strong&gt;标普500指数中半导体公司市值合计缩水约1.5万亿美元，该行业在指数中的权重从接近20%降至16%。&lt;/p&gt;
-&lt;p&gt;与此同时，股权融资市场的压力也已显著释放——一个月期股权融资利差从峰值时高于SOFR约138个基点，收窄至目前约50个基点，显示杠杆需求已趋于正常化。&lt;/p&gt;
-&lt;p&gt;值得关注的是，宽基指数在此过程中表现出较强的韧性，有效掩盖了个股层面的大幅波动。标普500指数目前仅较历史高点低约150个基点，而等权重口径下，平均个股距自身历史高点亦仅约1%的差距。&lt;/p&gt;
-
-波动率格局正在重塑
-
-&lt;p&gt;随着杠杆正常化，市场波动率结构也开始发生深层变化。&lt;/p&gt;
-&lt;p&gt;过去一段时间，个股和行业隐含波动率居高不下，而极低的隐含相关性与持续的板块轮动共同压低了指数层面的波动率，两者之间形成异常宽阔的裂口。这一裂口直至本周的全面下跌中才开始收窄。&lt;/p&gt;
-&lt;p&gt;半导体板块的持续走弱，此前往往被科技板块其他领域的反弹所抵消，使得标普500指数在经历近年来半导体最大幅度回调的同时仍展现出异常的抗跌性。&lt;/p&gt;
-&lt;p&gt;数据显示，今年当费城半导体指数（SOX）单日跌幅超过3%时，标普500平均仅下跌0.8%，而过去20年同类情形下的平均跌幅为2.4%；与此同时，软件板块在这些时段内平均表现为正，这一现象自2001年以来尚属首次。&lt;/p&gt;
-&lt;p&gt;目前仍待正常化的最后一块拼图是半导体的隐含波动率。&lt;strong&gt;该指标虽仍处于对已实现波动率的历史性溢价区间，但过去数周已开始收敛。&lt;/strong&gt;预计这一压缩过程将持续推进，有望改善市场流动性，降低对冲成本，并消除权益市场剩余的技术性压制因素之一。&lt;/p&gt;
-
-基本面重回主导，回购需求即将加速
-
-&lt;p&gt;技术面出清之后，基本面已再度成为市场定价的核心驱动力，而企业回购的重新激活将进一步构成有力支撑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从盈利角度看，此轮财报季的表现远超预期。&lt;/strong&gt;标普500指数二季度盈利增速的一致预期，已从财报季初的22.4%大幅上修至约45%，为主要衰退后复苏周期以外的最强财报季之一。&lt;/p&gt;
-&lt;p&gt;本季度的特点并非异常高的业绩超预期比例，而是企业盈利持续大幅超越本已偏高的市场预期，形成有记录以来最陡峭的盈利上修路径之一。&lt;/p&gt;
-&lt;p&gt;估值方面，盈利的大幅改善叠加7月的股价调整，推动市场估值向下重新定价。标普500信息技术板块目前的远期市盈率约为20倍，接近近一年估值低点（处于第1百分位），并显著低于10年均值23倍。&lt;/p&gt;
-&lt;p&gt;在资金供需格局上，一个重要的反转窗口正在临近。报告估计，目前标普500中按市值计算仅约45%的成分股可以实施回购。随着财报静默期相继解除，这一比例预计将在下周末升至75%，并于8月中旬进一步升至约85%。&lt;/p&gt;
-&lt;p&gt;城堡证券指出，这将恰好与当前清洁化的持仓结构形成叠加，构成初夏以来最为有利的供需格局之一——而8月历来也是企业回购执行最为密集的月份之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对于投资者而言，AMD已经不再是一家单纯的半导体周期股，而是一家被赋予AI基础设施领导者预期的公司。高增长预期，也意味着更高的业绩兑现压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
