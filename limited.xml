@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 06 Aug 2026 12:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 报道：若未来几周通胀数据强劲，沃什将准备在9月加息</title><link>https://wallstreetcn.com/articles/3778865</link><guid>5b8c47d9333db9f7fbf31e9022c72dfedfb19c48db18bd91208938b8a2b9dd91</guid><pubDate>Thu, 06 Aug 2026 12:22:09 GMT</pubDate><description>&lt;p&gt;据英国《金融时报》周四报道，&lt;strong&gt;若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 06 Aug 2026 12:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 报道：若未来几周通胀数据强劲，沃什将准备在9月加息</title><link>https://wallstreetcn.com/articles/3778865</link><guid>5b8c47d9333db9f7fbf31e9022c72dfedfb19c48db18bd91208938b8a2b9dd91</guid><pubDate>Thu, 06 Aug 2026 12:22:09 GMT</pubDate><description>&lt;p&gt;据英国《金融时报》周四报道，&lt;strong&gt;若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受此消息影响，美国短期国债收益率走高。&lt;strong&gt;尽管上周议息会议后美债遭遇大规模抛售，沃什坚持推行精简沟通策略。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报道称，熟悉沃什想法的人士称，他承认自就任美联储主席以来在沟通上存在失误，包括未能充分强化有关物价稳定的核心信息，以及在长期改革计划是否影响近期货币政策的问题上造成了市场困惑。但上述人士坚持认为，&lt;strong&gt;这些失误不足以令其推翻整体改革方向。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周美联储会议后，美国长期国债收益率急剧攀升，30年期美债收益率一度升至2007年以来最高水平。投资者普遍认为，沃什有限的信息披露削弱了其在抑制通胀方面的公信力，而特朗普发动伊朗战争所引发的通胀压力，进一步加剧了市场对利率前景的不确定性。&lt;/p&gt;
@@ -137,35 +137,7 @@
 &lt;p&gt;&lt;strong&gt;两份财报的共同信号很明确：&lt;/strong&gt;AI对存储的需求远未到顶。但市场定价已经不跟基本面走了。&lt;strong&gt;当一只股票年内涨了400%，&amp;quot;符合预期&amp;quot;就是利空，&amp;quot;略低于预期&amp;quot;就是踩踏。&lt;/strong&gt;整个AI硬件板块正在经历估值范式切换——从&amp;quot;跟AI沾边就值钱&amp;quot;，进入&amp;quot;必须证明增长能持续超预期&amp;quot;的阶段。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;技术路线上，两家也在走向分岔。&lt;/strong&gt;闪迪押注HBF（高带宽闪存），8月3日刚与SK海力士联合发布OCP规范，试图用NAND补充HBM、切入AI推理市场。西部数据走确定性路线——用HAMR持续推高HDD容量天花板，40TB已出货，44TB在路上。前者上限更高、风险更大；后者更稳、但天花板也更清晰。&lt;/p&gt;
 &lt;p&gt;接下来几个季度的关键监测点：&lt;strong&gt;Q3存储合约价的实际落地幅度（如TrendForce预测坐实，涨价见顶叙事将强化）、闪迪NBM协议的执行质量、西部数据HAMR量产进度。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在一轮&amp;quot;业绩屡创新高、股价屡屡杀跌&amp;quot;的周期里，存储行业正在从&amp;quot;所有人都能赚到周期红利&amp;quot;的阶段，转向只有结构性壁垒才能持续创造价值的阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛点评闪迪、西部数据财报：业绩强劲，但市场预期太高</title><link>https://wallstreetcn.com/articles/3778798</link><guid>bf4280561f75d8c483831600e60bf13da3050f24134899364fdd0be9174faf64</guid><pubDate>Thu, 06 Aug 2026 00:54:41 GMT</pubDate><description>&lt;p&gt;闪迪与西部数据均交出了强劲的季度成绩单，但高盛认为，过高的市场预期令两家公司的股价难以从亮眼业绩中获益，预计财报公布后两只股票将双双承压下行。&lt;/p&gt;
-&lt;p&gt;追风交易台消息，8月5日，高盛James Schneider团队先后发布两份报告点评闪迪和西部数据的最新财报，&lt;strong&gt;当前存储行业面临的核心矛盾并非基本面恶化，而是市场预期已过度领先于现实。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两家公司均交出了令人印象深刻的季报答卷，营收、毛利率和每股收益均不同程度超出预期。然而，当预期本身已经隐含了&amp;quot;完美执行+持续超预期&amp;quot;的假设，任何回归正常轨道的指引都会被市场解读为负面信号。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对于投资者而言，短期内需警惕两支股票的情绪面回调风险。高盛还指出，考虑到美光与闪迪在终端市场敞口上的高度重叠，预计闪迪本次财报的负面反应将向美光形成传导，投资者应对美光股价的短期走势保持关注。&lt;/strong&gt;&lt;/p&gt;
-
-西部数据：毛利率超预期，但指引未能惊喜
-
-&lt;p&gt;西部数据截至2026年6月的&lt;strong&gt;第二财季营收&lt;/strong&gt;为37.47亿美元，与高盛预测的37.63亿美元及华尔街共识的37.14亿美元基本持平，同比增长43.8%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;毛利率&lt;/strong&gt;54.4%，分别&lt;strong&gt;高于高盛预测的52.4%&lt;/strong&gt;和市场共识的51.9%，超出幅度约200至250个基点。&lt;strong&gt;非GAAP每股收益&lt;/strong&gt;为3.56美元，&lt;strong&gt;高于高盛预测的3.43美元&lt;/strong&gt;及市场共识的3.35美元，超出幅度约4%至6%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三财季指引方面&lt;/strong&gt;，西部数据给出&lt;strong&gt;营收中值&lt;/strong&gt;为41亿美元，&lt;strong&gt;与高盛预测的41.66亿美元及市场共识的40.4亿美元大体相符。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;毛利率指引区间&lt;/strong&gt;为55%至56%，&lt;strong&gt;高于高盛预测的54.1%&lt;/strong&gt;及市场共识的54.0%，超出约140至148个基点。&lt;strong&gt;非GAAP每股收益指引中值&lt;/strong&gt;为4.00美元，&lt;strong&gt;小幅高于高盛的3.94美元&lt;/strong&gt;及市场共识的3.80美元。&lt;/p&gt;
-&lt;p&gt;高盛表示，市场预期在进入财报季前已高度乐观。投资者对HDD（机械硬盘）定价持续改善、利润率扩张动能以及大型云计算厂商资本开支驱动的长期需求能见度均抱有较高信心。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在此背景下，仅与市场预期持平的指引被视为&amp;quot;不够惊喜&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛维持西部数据12个月目标价650美元，基于23倍市盈率对应正常化每股收益28.00美元测算，较当前股价548.56美元有约18.5%的上行空间，评级维持&amp;quot;中性&amp;quot;。&lt;/p&gt;
-
-闪迪：当季大幅超预期，但前瞻指引令市场失望
-
-&lt;p&gt;&lt;strong&gt;闪迪第二财季营收&lt;/strong&gt;为89.65亿美元，&lt;strong&gt;高于高盛预测的88.41亿美元&lt;/strong&gt;和华尔街共识的87.13亿美元，同比增长高达371.6%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;毛利率&lt;/strong&gt;84.6%，&lt;strong&gt;与高盛预测的84.3%基本持平&lt;/strong&gt;，但高于市场共识的83.6%。&lt;strong&gt;非GAAP每股收益&lt;/strong&gt;为39.25美元，&lt;strong&gt;高于高盛预测的38.16美元&lt;/strong&gt;及市场共识的35.45美元，超出幅度约3%至11%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，第三财季指引令市场明显失望。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;闪迪给出&lt;strong&gt;营收指引中值&lt;/strong&gt;为105.5亿美元，&lt;strong&gt;低于高盛预测的116.53亿美元&lt;/strong&gt;和市场共识的111.48亿美元，差距分别达9.5%和5.4%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;毛利率指引中值&lt;/strong&gt;为84.0%，&lt;strong&gt;低于高盛预测的84.7%&lt;/strong&gt;和市场共识的86.7%，差距约74至267个基点。&lt;strong&gt;非GAAP每股收益指引中值&lt;/strong&gt;为45.00美元，&lt;strong&gt;低于高盛预测的49.95美元&lt;/strong&gt;，但与市场共识的45.34美元大体相符。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛指出，尽管闪迪股价已从6月高点下跌约40%，在一定程度上消化了部分过高预期，但进入财报季前市场对NAND定价强劲、AI数据中心加速采用以及同业强劲业绩的乐观情绪依然浓厚，使得低于预期的指引仍将导致股价进一步承压。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛维持对闪迪的&amp;quot;买入&amp;quot;评级及12个月目标价2,200美元，基于20倍市盈率对应正常化每股收益110美元测算，较当前股价1,427.62美元有约54.1%的潜在上行空间。&lt;/p&gt;
-&lt;p&gt;在行业传导层面，高盛认为闪迪指引低于预期对存储行业整体情绪构成一定拖累。&lt;strong&gt;报告明确指出，鉴于相似的终端市场敞口，预计美光科技将在闪迪财报公布后出现负面反应。&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储芯片股延续跌势，美股盘前SK海力士跌超5%、闪迪跌超8%，金价升至近两月高位，油价走低</title><link>https://wallstreetcn.com/articles/3778821</link><guid>0839344039783879c7036fdfd7ea5b1342d799d6882bd9e5f7846d21cc48da2c</guid><pubDate>Thu, 06 Aug 2026 08:27:13 GMT</pubDate><description>&lt;p&gt;全球股市从历史高位回撤，半导体板块持续承压成为主要拖累因素。与此同时，黄金随美联储加息预期降温而走强。&lt;/p&gt;
+&lt;p&gt;在一轮&amp;quot;业绩屡创新高、股价屡屡杀跌&amp;quot;的周期里，存储行业正在从&amp;quot;所有人都能赚到周期红利&amp;quot;的阶段，转向只有结构性壁垒才能持续创造价值的阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储芯片股延续跌势，美股盘前SK海力士跌超5%、闪迪跌超8%，金价升至近两月高位，油价走低</title><link>https://wallstreetcn.com/articles/3778821</link><guid>0839344039783879c7036fdfd7ea5b1342d799d6882bd9e5f7846d21cc48da2c</guid><pubDate>Thu, 06 Aug 2026 08:27:13 GMT</pubDate><description>&lt;p&gt;全球股市从历史高位回撤，半导体板块持续承压成为主要拖累因素。与此同时，黄金随美联储加息预期降温而走强。&lt;/p&gt;
 &lt;p&gt;美股盘前，存储芯片股延续跌势，SK海力士跌超5%，美光科技跌近3%，闪迪跌超8%，上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色；西部数据跌近12%，第四财季营收、利润超预期，业绩指引令市场失望。韩国综合股价指数（Kospi）下挫4.5%，SK海力士跌幅达10%，三星电子亦随之受压，日本铠侠下跌9%。&lt;/p&gt;
 &lt;p&gt;此轮技术股的阶段性修整，折射出投资者对AI交易持续性的再评估。AI相关股票此前刚刚从上月大幅抛售中回升，而围绕AI资本支出可持续性的疑虑，始终未能消散，令市场情绪脆弱。不过，标普500指数期货和欧洲股指期货均小幅走高，表明市场下行情绪有所遏制。&lt;/p&gt;
 &lt;p&gt;彭博MLIV策略师Mark Cranfield认为，此轮亚洲市场调整尚不足以引发投资者的深度担忧。&amp;quot;美国期货的走稳意味着，华尔街在周四正式开盘时可能站在更稳固的基础上。&amp;quot;&lt;/p&gt;
@@ -334,7 +306,23 @@ DeepSeek-V4-Pro正式版将会尽快发布
 解禁洪峰将至，历史数据提供参照
 &lt;p&gt;更大的考验或许来自供给端。多达9.115亿股由早期投资者和公司内部人士持有的限售股将于周四起陆续解禁，SpaceX的自由流通股数量将因此翻倍以上。此后，更多股票将在8月和9月相继解禁，并持续至12月，构成美国市场历史上规模最大的IPO后解禁事件之一。&lt;/p&gt;
 &lt;p&gt;Spectra Markets创始人Brent Donnelly援引了近年来三个受到广泛关注的股票解禁案例进行对比分析。尽管样本量较小，且此前案例的解禁规模均远小于SpaceX，但数据显示，在这三个案例中，首次解禁日均构成了可买入的阶段性底部——尽管随后的反弹并非呈V形走势。&lt;/p&gt;
-&lt;p&gt;Donnelly表示：“我的出发点是，这一信息在当前阶段应已被市场充分定价，即将到来的供给冲击更可能是一个误导性的看空信号，而非真正有效的利空因素。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 首笔美国投资落地 云锋基金领投AI保险初创公司Corgi</title><link>https://wallstreetcn.com/articles/3778858</link><guid>7165b26d4c133d8fe042876b086de3f3af57cea5840b6d65889bae58d6a65b7b</guid><pubDate>Thu, 06 Aug 2026 11:03:41 GMT</pubDate><description>&lt;p&gt;8月6日，市场消息显示，马云与虞锋联合发起的云锋基金已向美国旧金山AI保险初创公司Corgi投入约3000万美元（约合2.34亿港元），作为领投方参与其最新一轮融资。&lt;/p&gt;
+&lt;p&gt;Donnelly表示：“我的出发点是，这一信息在当前阶段应已被市场充分定价，即将到来的供给冲击更可能是一个误导性的看空信号，而非真正有效的利空因素。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 无视AI资本支出担忧！Alphabet拟启动250亿美元发债，长端美债收益率急升</title><link>https://wallstreetcn.com/articles/3778864</link><guid>d1b990877cf342f601be96606094901d0c34d1c9bdbfbfcf58458bb0f2b36f3a</guid><pubDate>Thu, 06 Aug 2026 12:33:55 GMT</pubDate><description>&lt;p&gt;Alphabet正寻求通过新一轮美元投资级债券发行筹资最多250亿美元，此举不仅考验投资者对AI相关债务的真实胃口，更直接推动长端美债收益率走高，令市场承压。&lt;/p&gt;
+&lt;p&gt;据报道6日援引知情人士透露，Alphabet此次债券发行分拆为10个部分，期限覆盖2年至40年，最长期限档的初始价格指导利差约为高于美国国债155个基点。最终发行规模尚未确定。&lt;/p&gt;
+&lt;p&gt;受上述消息影响，美债收益率全线走高3至4个基点，长期债券领跌，10年期美债收益率升至约4.65%，2s10s、5s30s期限利差均扩大至盘中最阔水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此次发债的时间节点颇为敏感。就在约两周前，&lt;strong&gt;Alphabet将2026年资本开支预期上调至最高2050亿美元，超过2025年支出规模的两倍，令市场对AI投资回报的疑虑重燃。&lt;/strong&gt;与此同时，短端美债亦受另一重压力：据英国《金融时报》报道，美联储主席沃什若在未来几周看到偏热通胀数据，将准备在9月会议上加息，报道发布后短期美债收益率同步走高。&lt;/p&gt;
+
+AI债券需求降温，市场承接压力上升
+
+&lt;p&gt;Alphabet此次发债，是在AI基础设施融资需求与投资者信心出现裂痕的背景下推进的。上周，一家与贝莱德关联的公司为Meta Platforms位于德克萨斯州的数据中心项目发行了125亿美元债券，初始需求冷淡，此前亚马逊的相关债券发行同样遭遇认购热情不足。包括SpaceX在内的多家企业新发AI相关债券，二级市场利差亦出现走阔。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025年以来，大型科技公司通过债券市场累计融资逾3500亿美元，其中Alphabet与亚马逊居于领跑位置。&lt;/strong&gt;Alphabet仅在2026年上半年便已发债逾500亿美元，发行币种涵盖瑞士法郎、英镑、欧元、加元及日元等多种货币，并于约两个月前完成近850亿美元的股票增发。&lt;/p&gt;
+
+融资规模持续扩张，现金流首现负值
+
+&lt;p&gt;持续攀升的资本支出已在Alphabet财务数据上留下明显印记。大规模资本开支拖累Alphabet出现自IPO以来首个自由现金流为负的季度，市场对超大规模科技公司&amp;quot;负现金流时代提前到来&amp;quot;的担忧由此加剧。&lt;/p&gt;
+&lt;p&gt;Alphabet同步提交申请，拟发行最多400亿美元的A类和C类股票，进一步扩充资本储备，为持续扩张的AI基础设施投入提供弹药。&lt;/p&gt;
+&lt;p&gt;在债券市场，Alphabet发债计划与美联储潜在加息预期的叠加，构成了当日美债承压的双重驱动。长端收益率受供给压力推升更为显著，带动收益率曲线整体陡化。利率市场目前仍计入约15个基点的9月加息预期，至年底累计加息预期约达33个基点，市场对货币政策路径的不确定性仍高。&lt;/p&gt;
+&lt;p&gt;对于固定收益投资者而言，如何在AI资本开支扩张带来的供给冲击与潜在利率上行风险之间寻求平衡，正成为当前不得不面对的核心命题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 首笔美国投资落地 云锋基金领投AI保险初创公司Corgi</title><link>https://wallstreetcn.com/articles/3778858</link><guid>7165b26d4c133d8fe042876b086de3f3af57cea5840b6d65889bae58d6a65b7b</guid><pubDate>Thu, 06 Aug 2026 11:03:41 GMT</pubDate><description>&lt;p&gt;8月6日，市场消息显示，马云与虞锋联合发起的云锋基金已向美国旧金山AI保险初创公司Corgi投入约3000万美元（约合2.34亿港元），作为领投方参与其最新一轮融资。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;该笔交易是云锋基金公开披露的首笔美国市场投资。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;云锋基金成立于2010年，过去投资组合主要集中在中国本土，重点覆盖硬科技、企业服务、绿色能源等方向，累计投资企业近300家；&lt;/p&gt;
 &lt;p&gt;在当前节点领投Corgi，表明其正在尝试通过押注北美AI应用头部项目，完成针对海外生成式AI商业化落地的资产配置。&lt;/p&gt;
