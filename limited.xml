@@ -1,59 +1,168 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 06 Aug 2026 21:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛、摩根大通大幅加仓中际旭创H股，持仓双双翻倍</title><link>https://wallstreetcn.com/articles/3778850</link><guid>05bcd93a0c1bf5433e49ccfd05985ea6b207b2647c8f6f77078c0de97200a1e6</guid><pubDate>Thu, 06 Aug 2026 10:21:41 GMT</pubDate><description>&lt;p&gt;华尔街机构正在用真金白银表达对AI光互联龙头的看好，高盛、摩根大通近期同步加仓中际旭创H股。&lt;/p&gt;
-&lt;p&gt;据香港交易所权益披露，&lt;strong&gt;高盛近期连续提高对中际旭创H股的多头持仓比例。&lt;/strong&gt;最新披露显示，截至2026年8月3日，高盛的多头持仓比例已升至12.19%；此前7月30日的披露显示，其多头持仓比例已由5.95%升至11.90%。&lt;strong&gt;相比一周前，高盛对中际旭创H股的多头持仓比例已经翻倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，摩根大通最新披露显示，截至2026年7月31日，其对中际旭创H股的多头持仓比例由5.60%升至13.72%，持仓比例同样翻倍。&lt;/p&gt;
-&lt;p&gt;7月30日，山东首家A股万亿市值公司中际旭创正式登陆香港联交所主板，完成“A+H”双资本平台布局。此次H股全球发售最终定价为每股980港元，募资规模达到534.1亿港元（约68.1亿美元）。&lt;/p&gt;
-&lt;p&gt;上市后，中际旭创持续受到市场资金关注。8月6日，公司H股股价上涨超过3%，报1151港元，较发行价980港元上涨约17%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 06 Aug 2026 22:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 非农与美伊协议落地前市场谨慎，美股三大指数集体下跌，西部数据跌超13%，原油走强</title><link>https://wallstreetcn.com/articles/3778821</link><guid>0839344039783879c7036fdfd7ea5b1342d799d6882bd9e5f7846d21cc48da2c</guid><pubDate>Thu, 06 Aug 2026 22:00:55 GMT</pubDate><description>&lt;p&gt;地缘政治风险重燃，油价急涨逾3%，通胀压力再度浮现，美股承压收跌，市场焦点转向周五非农就业报告。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;伊朗国家媒体披露一份霍尔木兹海峡管理草案，内容较市场预期更为严苛，布伦特原油盘中升至每桶83美元，打破此前因美伊谈判乐观预期形成的跌势。&lt;/p&gt;
+&lt;p&gt;油价上涨重新点燃通胀担忧，市场对美联储年内加息的预期随之升温，美债收益率全线上行，美元走强，美股三大指数均告收跌。&lt;/p&gt;
+&lt;p&gt;标普500指数连续第二个交易日下跌，道指跌幅居前，跌逾0.8%。存储芯片股闪迪和西部数据因业绩前景不及预期而大幅下挫，成为拖累指数的最大权重之一。&lt;/p&gt;
+&lt;p&gt;与此同时，谷歌发行250亿美元企业债，规模庞大的新增供给对美债市场形成额外压力，10年期美国国债收益率上行5个基点至4.66%。&lt;/p&gt;
+
+伊朗草案超预期强硬，霍尔木兹海峡风险重估
+
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778881"&gt;华尔街见闻提及&lt;/a&gt;，伊朗与阿曼拟签署的霍尔木兹海峡新通航协议再曝重磅细节，显示伊朗寻求将海峡控制权掌握在手中。而且伊朗已采取行动，打击海峡附近的“敌方目标”。&lt;/p&gt;
+&lt;p&gt;伊朗媒体法尔斯通讯社（FARS）当地时间6日周四的报道称，伊朗议会正在审议这份协议。根据协议，美国及以色列船只将被禁止通过霍尔木兹海峡，对“曾对伊朗造成损害”的国家也将无法获得霍尔木兹海峡通航许可。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上述消息传出后，市场对全球能源运输风险的担忧迅速升温。美股周四早盘尾声，国际原油期货涨幅明显扩大，美国WTI原油一度升破78美元/桶，日内涨近4%；布伦特原油一度逼近83美元/桶，日内涨超4%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，法尔斯社另一则报道称，伊朗海军已对海峡入口处的&amp;quot;敌对目标&amp;quot;实施打击。据央视新闻，当地时间6日21时40分左右，伊朗格什姆岛传出两声爆炸声。&lt;/p&gt;
+&lt;p&gt;伊朗方面称，爆炸声系在霍尔木兹海峡入口附近打击敌方目标所致，此次行动的成果将在未来几小时内向公众公布。&lt;strong&gt;上述消息叠加，令市场对海峡通行风险的判断从&amp;quot;协议在望&amp;quot;急速切换至&amp;quot;前景未明&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;传出以上伊朗打击敌方目标消息后，国际原油进一步上行、刷新日高，布油逼近83.50美元，较周三收盘涨近5.1%，重新收复50日移动平均线上方。美油涨破78.30美元，较周三收盘涨逾4.1%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-短期波动未改预期，高盛此前已上调中际旭创目标价
-&lt;p&gt;今年4月以来，中际旭创A股开启上涨行情，并于6月中旬一度触及1382元高点，随后进入调整。截至8月6日收盘，公司股价报955元。近期市场调整主要受AI产业链波动、光模块竞争担忧等因素影响，投资者一度关注1.6T产品降价压力及AI资本开支持续性。&lt;/p&gt;
-&lt;p&gt;7月29日，中际旭创在投资者交流中表示，市场关于1.6T光模块价格大幅下探的消息与实际情况存在较大偏差。公司称，&lt;strong&gt;明年1.6T产品价格“肯定远高于传闻水平”，从加权平均ASP来看，相关价格说法“非常离谱”，目前行业也不存在恶性价格竞争。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在需求端，公司透露，多数核心客户已下达2027年订单，并非简单需求指引；部分客户已提出2028年新产品需求规划。公司认为，随着800G、1.6T以及未来2.4T、NPO等产品放量，新产品结构升级有望提升盈利能力。&lt;/p&gt;
-&lt;p&gt;此前，高盛已对中际旭创表示看好。7月17日，&lt;strong&gt;高盛将公司A股目标价从1187元大幅上调至2581元&lt;/strong&gt;，并预计公司2026年至2028年净利润分别同比增长65%、108%和119%。高盛认为，AI基础设施投资持续扩张，将推动高速光互联需求快速增长，中际旭创有望成为核心受益者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据高盛能源研究团队测算，布伦特原油每桶80美元附近属于合理公允价值区间，并预计在美伊新协议得到确认或局势出现重大升级之前，油价将维持在每桶80至90美元之间。&lt;/strong&gt;&lt;/p&gt;
+美股连续两日收跌
+&lt;p&gt;美股三大指数均小幅收跌，标普500跌0.18%，纳指跌0.06%，道指跌0.83%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%</title><link>https://wallstreetcn.com/articles/3778821</link><guid>0839344039783879c7036fdfd7ea5b1342d799d6882bd9e5f7846d21cc48da2c</guid><pubDate>Thu, 06 Aug 2026 13:37:41 GMT</pubDate><description>&lt;p&gt;受科技板块疲软拖累，市场情绪趋于谨慎。投资者目前聚焦美伊谈判进展，并静待周五即将揭晓的美国非农就业报告。&lt;/p&gt;
-&lt;p&gt;8月6日，美股开盘，三大股指涨跌不一，纳指盘初跌0.3%，标普500指数涨0.06%，道指涨0.18%。存储芯片股延续跌势，闪迪跌超13%，上季营收超预期增近四倍，但本季指引逊色；西部数据下跌20%，创2020年3月以来最大盘中跌幅，第四财季营收、利润超预期，业绩指引令市场失望；SK海力士跌超8%，美光科技跌超5%；SpaceX跌超2%，上市后最大规模的内部人士套现窗口将于周四开启。&lt;/p&gt;
-&lt;p&gt;地缘方面，据央视新闻，伊朗副外长加里巴巴迪8月5日在接受采访时表示，目前伊朗和阿曼关于商船通行霍尔木兹海峡的协议已接近最终敲定。根据伊朗方面当地时间5日消息，目前经阿曼领海的南部航道和位于伊朗领海内的北部航道均将关闭，在霍尔木兹海峡建立一种不同于过去60年的新通行模式。此外，加里巴巴迪否认伊朗与美国正在谈判，但表示伊朗收到美方信息，并称美方表示准备恢复履行此前签署的谅解备忘录中的承诺。油价小幅上涨，布油涨超2%。&lt;/p&gt;
-&lt;p&gt;此轮技术股的阶段性修整，折射出投资者对AI交易持续性的再评估。AI相关股票此前刚刚从上月大幅抛售中回升，而围绕AI资本支出可持续性的疑虑，始终未能消散，令市场情绪脆弱。&lt;/p&gt;
+&lt;p&gt;在宏观压力之外，微观层面的盈利预期下调进一步拖累情绪。闪迪和西部数据因业绩指引令投资者失望双双重挫，存储芯片股大跌。西部数据跌超13%，闪迪跌6.8%，SK海力士跌约5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;营销平台&lt;strong&gt;AppLovin&lt;/strong&gt;因季度收入未达华尔街预期大幅下跌，云安全公司&lt;strong&gt;Datadog&lt;/strong&gt;在三季度营收增速预期放缓后同样暴跌19%。&lt;/p&gt;
+&lt;p&gt;不过，从整体财报季来看，标普500中已报告的382家公司里，84.8%超越分析师预期，远高于1994年以来68%的历史平均水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在备受关注的SpaceX上，其锁定期届满后股价抹去早盘跌幅并以上涨收尾。&lt;/strong&gt;&lt;a href="https://wallstreetcn.com/articles/3778885"&gt;华尔街见闻提及&lt;/a&gt;，SpaceX首批9.115亿股限售股解禁，当日股价不跌反涨6.14%，成交量2.5亿股，创一个半月新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;人工智能领军企业股价涨跌互现，标普除人工智能指数当日下跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;科技七巨头的窄幅领涨掩盖了今天更广泛的疲软态势。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，盘中市场换手行为出现明显分歧：对冲基金当日转为买入科技股，而长线基金则在信息技术和医疗健康板块大幅减仓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛交易台数据显示，整体活跃度仅为4分（满分10分），总成交量较5日均线低12%，显示市场在明日非农前选择观望。波动率同样暗示市场正准备迎接明日的混乱局面。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+美债收益率承压，谷歌巨额发债雪上加霜
+
+&lt;p&gt;油价上涨以外，谷歌宣布发行250亿美元债券，高额收益补贴吸引了年内AI相关债券市场规模最大的认购订单之一，进一步加重了美债市场的供给压力，拖累美债收益率单日上行5至7个基点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;尽管如此，10年期收益率在周内仍处于较低水平。利率期货市场对美联储加息的定价随之升温，年内加息概率明显上行。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BMO资本市场的Vail Hartman表示，最新数据持续反映出劳动力市场的韧性，进一步强化了通胀将主导美联储9月决策的市场预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;围绕美联储政策框架的不确定性同样牵动市场神经。据《金融时报》报道，美联储主席沃什预计将在本月晚些时候的杰克逊霍尔会议上阐明其削减前瞻指引背后的政策思路。&lt;/p&gt;
+&lt;p&gt;道明证券美国利率策略师Molly Brooks表示：&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;美联储可能确实需要通过实际加息来证明其抗通胀立场的可信度。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;彭博宏观策略师Michael Ball则指出，近期政策信号相对清晰：利率仍是主要工具，9月会议仍是&amp;quot;活跃会议&amp;quot;；资产负债表调整则属更长期议题。&lt;/strong&gt;&lt;/p&gt;
+
+非农报告前夕，市场情绪趋于审慎
+
+&lt;p&gt;周四公布的美国当周初请失业金人数小幅上升，但已连续第三周维持在20万人以下。另一份报告显示，二季度劳动生产率增速快于预期，反映出企业正积极寻求对冲成本上升压力。&lt;/p&gt;
+&lt;p&gt;周五将公布7月非农就业报告，市场预期单月新增就业岗位8万个，高于6月低于预期的5.7万个，这一数据将直接影响美联储路径定价。&lt;/p&gt;
+&lt;p&gt;Bellwether Wealth的Clark Bellin表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鉴于股市上周以来涨幅已相当可观，周五的就业报告对市场的重要性更为突出。&lt;strong&gt;市场要想继续向上推进，需要的是一个不过热也不过冷的数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Bellin同时指出，劳动力市场在高利率和人工智能生产率提升的双重压力下依然保持韧性，大量企业选择保留现有员工队伍，即便AI投入已逐步落地。&lt;/p&gt;
+&lt;p&gt;UBS首席投资官办公室的Ulrike Hoffmann-Burchardi则警告称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;近期风险依然存在，尤其是若美国数据保持强劲、油价持续令通胀忧虑发酵，或市场继续定价美联储更鹰派的加息路径。&lt;/p&gt;
+&lt;/blockquote&gt;
+其他大类资产走势
+&lt;p&gt;美元受收益率上升的提振而反弹。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;日元持续回落，重回158/美元上方，逐渐淡化干预的影响。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;黄金盘中一度突破4300美元，但随后回落，最终收盘价与前一日持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;连续一周资金流入美国现货比特币ETF的推动下，&lt;/strong&gt;比特币曾多次测试6.5万美元关口附近，但今天未能突破该价位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周四美国三大股指收盘集体下跌，道指跌0.85%，标普500指数跌0.18%，纳指跌0.06%。存储芯片股大跌，西部数据跌超13%。万得美国科技七巨头指数涨0.23%，微软涨超2%。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;美股基准股指：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;美股开盘，三大股指涨跌不一，纳指盘初跌0.3%，标普500指数涨0.06%，道指涨0.18%。&lt;/li&gt;
-&lt;li&gt;欧股小幅高开，欧洲斯托克50指数涨0.33%，英国富时100指数涨0.28%，法国CAC40指数涨0.61%，德国DAX指数涨0.08%。西门子下跌5.5%，此前发布业绩报告。&lt;/li&gt;
-&lt;li&gt;日经225指数收跌0.93%，报65683.26点。日本东证指数收涨0.2%，报4,055.85点。韩国首尔综指收跌4.58%，报6296.38点。&lt;/li&gt;
-&lt;li&gt;韩元兑美元一度上涨0.7%，至1美元兑1,414.55韩元，为10月以来最高水平，因出口商卖出美元。&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率变化不大，为4.61%&lt;/li&gt;
-&lt;li&gt;油价小幅上涨，布油涨超2%。&lt;/li&gt;
-&lt;li&gt;现货黄金基本持平，现报每盎司4244美元&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;标普500指数收跌13.59点，跌幅0.18%，报7709.96点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;道琼斯工业平均指数收跌464.02点，跌幅0.85%，报53885.10点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纳指收跌15.087点，跌幅0.06%，报26348.352点。纳斯达克100指数收跌114.457点，跌幅0.39%，报29373.334点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;罗素2000指数收跌0.58%，报3001.547点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恐慌指数VIX收跌4.24%，报15.14，欧市开盘至美股开盘微幅上涨、持稳于16关口附近，之后持续走低。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;美股行业ETF：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;美股行业ETF普遍收跌，全球航空业ETF跌2.65%，网络股指数ETF、银行业ETF、区域银行ETF至多跌1.36%，全球科技股指数ETF跌0.41%，科技行业ETF跌0.31%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（8月6日 美股各行业板块ETF）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科技七巨头：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;万得美国科技股七巨头（Magnificent 7）指数涨0.23%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;微软涨2.54%，苹果涨0.45%，Meta涨0.19%，英伟达跌0.10%，亚马逊跌0.14%，特斯拉跌0.63%，谷歌A跌1.29%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;芯片股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;费城半导体指数收涨39.81点，涨幅0.33%，报12048.693点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;台积电ADR涨0.98%，AMD涨1.50%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;中概股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;纳斯达克金龙中国指数收涨0.27%，报6570.30点，整体低开高走。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;热门中概股里，再鼎医药收涨13.7%，晶科能源涨2.8%，大全新能源涨2.2%，网易涨1.7%，日月光半导体涨1.4%，阿特斯太阳能涨0.6%，腾讯跌1.3%，阿里跌1.4%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;其他个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Circle微跌0.01%。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-美股开盘涨跌互现，存储芯片股延续跌势
-&lt;p&gt;美股开盘，三大股指涨跌不一，纳指盘初跌0.3%，标普500指数涨0.06%，道指涨0.18%。&lt;/p&gt;
-&lt;p&gt;存储芯片股延续跌势，闪迪跌超13%，上季营收超预期增近四倍，但本季指引逊色；西部数据跌20%，第四财季营收、利润超预期，业绩指引令市场失望；SK海力士跌超8%，美光科技跌超5%；SpaceX跌超2%，上市后最大规模的内部人士套现窗口将于周四开启。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》周四报道，若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。受此消息影响，美国短期国债收益率走高。尽管上周议息会议后美债遭遇大规模抛售，沃什坚持推行精简沟通策略。&lt;/p&gt;
-&lt;p&gt;据CME Group数据，期货市场目前预计9月会议加息25个基点的概率约为55%。&lt;/p&gt;
-
-芯片财报不及预期，亚洲科技股首当其冲
-
-&lt;p&gt;Sandisk Corp.与Western Digital Corp.财报发布后触发的市场反应，再度验证了半导体板块当前估值的脆弱性。彭博MSCI全球半导体指数此前已从6月高位累计下跌逾20%，尽管此后反弹约15%，但投资者显然仍未重建信心。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Allspring Global Investments投资组合经理Gary Tan表示：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欧洲STOXX 600指数继续创收盘历史新高，盘中呈现出n形走势。意大利股市创收盘历史新高。&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;quot;投资者越来越多地在问，要继续持有亚洲内存股，还需要哪些新的催化剂。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Carthage Capital管理合伙人Stephen Wu亦指出：&amp;quot;如果当前的板块轮动持续，韩国等半导体高度集中的指数——其中两只内存股合计占指数权重逾50%——将是全球对科技股领导地位切换最为敏感的基准指数。&amp;quot;&lt;/p&gt;
-
-对冲基金动荡余震未息，AI叙事仍存不确定性
-
-&lt;p&gt;上周，Leopold Aschenbrenner旗下对冲基金Situational Awareness在遭遇华尔街多家贷款机构集中追加保证金后险些崩盘，最终与Ken Griffin的Citadel达成协议，出售其大部分公开股票持仓。&lt;/p&gt;
-&lt;p&gt;Gama Asset Management全球宏观投资组合经理Rajeev de Mello表示，这一&amp;quot;纾困&amp;quot;安排为科技股提供了短期支撑，但并未解决核心问题。&amp;quot;在资本支出前景问题获得更明确答案之前，该板块可能将持续保持高波动。&amp;quot;&lt;/p&gt;
-
-金价基本持平，油价小幅上涨
-
-&lt;p&gt;黄金小幅下跌0.05%，报每盎司4244美元。&lt;/p&gt;
-&lt;p&gt;油价小幅上涨，布油涨2%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：若未来几周通胀数据强劲，沃什将准备在9月加息</title><link>https://wallstreetcn.com/articles/3778865</link><guid>5b8c47d9333db9f7fbf31e9022c72dfedfb19c48db18bd91208938b8a2b9dd91</guid><pubDate>Thu, 06 Aug 2026 12:22:09 GMT</pubDate><description>&lt;p&gt;据英国《金融时报》周四报道，&lt;strong&gt;若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;泛欧欧股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数收涨0.16%，报658.19点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区STOXX 50指数收涨0.39%，报6502.56点，时隔一个交易日再创收盘历史新高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;各国股指：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;德国DAX 30指数收涨0.05%，报26140.13点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;法国CAC 40指数收涨0.35%，报8699.71点，连续三个交易日创收盘历史新高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;英国富时100指数收跌0.19%，报10867.89点。&lt;/p&gt;
+&lt;p&gt;（8月6日 欧美主要股指表现）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;板块和个股：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;欧元区蓝筹股中，德国电信收涨6.31%，爱马仕涨5.17%，阿斯麦控股涨1.92%表现第三，空中客车则收跌1.16%跌幅第四大，皇家阿霍德德尔海兹集团跌1.36%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲STOXX 600指数的所有成分股中，WPP收涨28.62%，SBM海上公众有限公司涨11.93%，Hikma制药涨8.15%表现第三，德国电信涨幅第六大。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：若未来几周通胀数据强劲，沃什将准备在9月加息</title><link>https://wallstreetcn.com/articles/3778865</link><guid>5b8c47d9333db9f7fbf31e9022c72dfedfb19c48db18bd91208938b8a2b9dd91</guid><pubDate>Thu, 06 Aug 2026 12:22:09 GMT</pubDate><description>&lt;p&gt;据英国《金融时报》周四报道，&lt;strong&gt;若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受此消息影响，美国短期国债收益率走高。&lt;strong&gt;尽管上周议息会议后美债遭遇大规模抛售，沃什坚持推行精简沟通策略。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报道称，熟悉沃什想法的人士称，他承认自就任美联储主席以来在沟通上存在失误，包括未能充分强化有关物价稳定的核心信息，以及在长期改革计划是否影响近期货币政策的问题上造成了市场困惑。但上述人士坚持认为，&lt;strong&gt;这些失误不足以令其推翻整体改革方向。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周美联储会议后，美国长期国债收益率急剧攀升，30年期美债收益率一度升至2007年以来最高水平。投资者普遍认为，沃什有限的信息披露削弱了其在抑制通胀方面的公信力，而特朗普发动伊朗战争所引发的通胀压力，进一步加剧了市场对利率前景的不确定性。&lt;/p&gt;
@@ -118,38 +227,7 @@
 人形机器人产业化提速，宇树迎来资本市场节点
 &lt;p&gt;&lt;strong&gt;宇树科技主要布局四足机器人、人形机器人以及具身智能算法研发，是国内人形机器人领域代表企业之一。&lt;/strong&gt;随着AI大模型与机器人硬件融合加速，具身智能产业正进入商业化探索阶段。&lt;/p&gt;
 &lt;p&gt;财务数据显示，&lt;strong&gt;公司2026年上半年预计实现盈利。&lt;/strong&gt;不过，公司也指出，2026年上半年扣非后净利润预计同比下降，主要由于研发投入增加以及销售费用增长所致。&lt;/p&gt;
-&lt;p&gt;此次IPO被视为人形机器人产业迈向资本市场的重要一步。随着募资资金投入研发和产能建设，宇树科技能否进一步实现规模化商业落地，将成为上市后的核心关注点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] DeepSeek涨价，国产大模型"免费午餐"到头了！</title><link>https://wallstreetcn.com/articles/3778849</link><guid>6243eb3fd2dbb112976232131419a8d28ceb01bb3e7c7212141534ab249364c6</guid><pubDate>Thu, 06 Aug 2026 10:27:35 GMT</pubDate><description>&lt;p&gt;国产大模型行业正在迎来定价逻辑的转折点。&lt;/p&gt;
-&lt;p&gt;8月6日，DeepSeek发布公告称，计划近期整体上调DeepSeek API服务定价，“预计涨幅较大”，具体方案以正式通知为准。虽然DeepSeek尚未公布调价幅度和时间表，但市场普遍认为，&lt;strong&gt;这意味着国产大模型行业正在告别此前靠低价抢占市场的阶段，进入以成本、效率和商业化为核心的新周期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次涨价背后，是AI应用需求爆发与算力成本上升带来的双重压力。&lt;/strong&gt;随着AI Agent等复杂应用兴起，模型调用量大幅增加，过去依靠低价刺激需求的模式正在面临挑战。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-用量暴涨，倒逼DeepSeek重新定价
-&lt;p&gt;此次涨价的核心原因，是AI应用需求增长速度超出预期。&lt;/p&gt;
-&lt;p&gt;开源AI Agent工具OpenCode数据显示，DeepSeek V4 Flash正式版在其平台单日Token调用量达到8万亿，其中5万亿来自免费额度，3万亿来自付费套餐。作为对比，大模型路由平台OpenRouter接入超过400款模型，全平台日均Token调用规模约为6.6万亿。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这意味着，DeepSeek单一模型在单个平台的调用量，已经超过整个模型聚合平台的日均规模。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vercel平台数据也显示，DeepSeek Token处理量持续攀升，V4 Flash每周处理约5.3万亿Token，已成为平台使用量最高的模型之一。&lt;/p&gt;
-&lt;p&gt;随着AI Agent快速普及，模型调用模式正在发生变化。过去聊天机器人一次交互可能只消耗数百至数千Token，而Agent执行复杂任务时，需要持续调用模型、访问工具，Token消耗可能达到传统对话模式的数十甚至上百倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在需求爆发之下，极低价格正在成为新的成本压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeek方面此前表示，&lt;strong&gt;涨价主要受到三方面因素影响&lt;/strong&gt;：一是智能体应用快速增长带来的Token消耗激增；二是高端AI芯片供应受限，算力成本持续上升；三是行业竞争正在从补贴换规模转向可持续商业模式。&lt;/p&gt;
-从“价格屠夫”到商业化定价
-&lt;p&gt;DeepSeek的定价转向并非突然发生。&lt;/p&gt;
-&lt;p&gt;今年4月底，DeepSeek曾推出V4-Pro API限时折扣，随后在5月将优惠价格转为长期定价，输出Token价格较原价下降75%。&lt;strong&gt;当时，DeepSeek V4-Pro输出价格约为0.87美元/百万Token，远低于海外主流模型，被市场称为“价格屠夫”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一策略也引发国内大模型厂商集体降价，小米、字节、腾讯云等相继调整价格体系，部分模型价格降幅超过90%，国产大模型市场一度陷入激烈价格竞争。&lt;/p&gt;
-&lt;p&gt;但6月底，DeepSeek开始改变策略。&lt;strong&gt;公司宣布V4正式版上线后引入峰谷定价机制，工作日高峰时段API价格翻倍。&lt;/strong&gt;彼时市场认为，这是DeepSeek通过价格调节用户需求、优化算力利用率的方式。&lt;/p&gt;
-&lt;p&gt;而此次全面涨价，则意味着DeepSeek正在从“调节流量”转向“重新定义价格”。&lt;/p&gt;
-&lt;p&gt;DeepSeek创始人梁文锋此前在投资者交流会上曾表示，&lt;strong&gt;API定价应建立在合理回收设备成本的基础上，目标是“买一批设备回来，十个月收回成本”。&lt;/strong&gt;他同时指出，当前价格区间内用户需求“几乎没有弹性”，即便价格上涨，Token消耗量变化也有限。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-算力紧缺，低价模式难以持续
-&lt;p&gt;DeepSeek调整价格的背后，是整个AI算力产业链供需矛盾加剧。&lt;/p&gt;
-&lt;p&gt;随着大模型训练和推理需求快速增长，GPU、服务器、存储等资源持续紧张。尤其是在AI Agent时代，模型推理需求从简单问答转向长链路任务执行，算力消耗大幅提升。&lt;/p&gt;
-&lt;p&gt;高盛此前指出，DeepSeek实施峰谷定价并不代表需求疲软，反而反映出国内AI模型需求旺盛、算力资源趋紧。&lt;strong&gt;随着AI应用进入规模化阶段，长期维持极低API价格将难以覆盖持续增长的算力投入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;事实上，过去半年，国产大模型行业已经出现集体调整迹象。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;包括阿里、字节、小米、智谱、腾讯等多家厂商均调整过产品定价或套餐体系，部分低价方案开始收缩。智谱今年一季度API调用价格较此前提升，但调用量仍保持高速增长；Kimi也曾因用户请求量大幅超预期，暂停部分新用户订阅。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;行业正在从“烧钱换用户”转向“规模化商业变现”。&lt;/strong&gt;&lt;/p&gt;
-国产大模型进入盈利验证期
-&lt;p&gt;DeepSeek此次涨价，也释放出一个更重要信号：国产大模型正在从技术竞争进入商业化竞争。&lt;/p&gt;
-&lt;p&gt;过去一年，低价甚至免费的模型服务帮助国产大模型快速扩大用户规模，但随着调用量爆发，算力成本、服务器投入和运营压力开始显现。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场此前关注的是，谁能提供更便宜的模型；而未来竞争重点将转向，谁能以更低成本提供更高性能、更稳定的服务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于开发者而言，DeepSeek涨价意味着AI应用的成本红利正在减少，但也意味着行业开始走向更加健康的商业循环。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI：免费版升级为GPT-5.6 Luna，付费版模型强化</title><link>https://wallstreetcn.com/articles/3778894</link><guid>9012e6f1d9d7c59d2e806b8a2c44f9db8bb21469eea4188fd302c7baf7cc1362</guid><pubDate>Thu, 06 Aug 2026 21:47:31 GMT</pubDate><description>&lt;p&gt;OpenAI大幅扩展ChatGPT功能，免费与付费用户同步受益，此举折射出前沿AI实验室在竞争加剧背景下正加速向用户让利。&lt;/p&gt;
+&lt;p&gt;此次IPO被视为人形机器人产业迈向资本市场的重要一步。随着募资资金投入研发和产能建设，宇树科技能否进一步实现规模化商业落地，将成为上市后的核心关注点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI：免费版升级为GPT-5.6 Luna，付费版模型强化</title><link>https://wallstreetcn.com/articles/3778894</link><guid>9012e6f1d9d7c59d2e806b8a2c44f9db8bb21469eea4188fd302c7baf7cc1362</guid><pubDate>Thu, 06 Aug 2026 21:47:31 GMT</pubDate><description>&lt;p&gt;OpenAI大幅扩展ChatGPT功能，免费与付费用户同步受益，此举折射出前沿AI实验室在竞争加剧背景下正加速向用户让利。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;OpenAI周四宣布，将于本周把所有用户的默认模型切换至GPT-5.6 Luna。&lt;/strong&gt;该公司称，与此前默认模型GPT-5.5 Instant相比，Luna在回答中出现至少一处事实错误的频率降低了62%。&lt;/p&gt;
 &lt;p&gt;与此同时，免费用户及低价Go套餐订阅者将获得无限制文字对话权限，并新增&amp;quot;Think&amp;quot;按钮，允许用户在面对较难问题时主动选择更高强度的推理模式。&lt;/p&gt;
 &lt;p&gt;此次升级直接触及OpenAI的定价策略。就在上周，该公司刚刚下调了GPT-5.6 Luna和GPT-5.6 Terra两款模型的价格——而以往价格下调通常在模型发布数月后才会出现，此次仅在发布数周后便已落地，节奏明显提速。&lt;/p&gt;
@@ -170,37 +248,33 @@ Luna成新默认模型，免费层级功能大幅扩充
 
 &lt;p&gt;此轮升级的背景是AI行业竞争格局的深刻变化。低成本开源模型带来的价格冲击，正推动OpenAI和Anthropic加速证明其高端模型的溢价合理性。&lt;/p&gt;
 &lt;p&gt;OpenAI上周对GPT-5.6 Luna和GPT-5.6 Terra实施降价，打破了此前模型上市数月后才调价的惯例。这一节奏的转变表明，市场压力已迫使头部实验室在产品发布后迅速做出定价响应。&lt;/p&gt;
-&lt;p&gt;对投资者而言，前沿AI免费计划所提供的智能能力已超越大多数普通用户的实际需求，而企业客户如何为高级AI能力合理制定预算，仍是行业尚未厘清的关键议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] ChatGPT时代首次！“科技七巨头”财报引爆超预期波动，美股分化创三十余年新高</title><link>https://wallstreetcn.com/articles/3778890</link><guid>8897027b80b661a70d7a3462cc79d0c12d4f44fcccf5f4d986421d6bf31dc598</guid><pubDate>Thu, 06 Aug 2026 21:06:49 GMT</pubDate><description>&lt;p&gt;到7月底，美股“科技七巨头”（Magnificent 7）中，已有六家都公布了最新季度财报，美股AI主线并未趋于平静，反而进入剧烈重估阶段。&lt;/p&gt;
-&lt;p&gt;美银股票衍生品团队日前的报告公布了一个令人意外的发现：自OpenAI的ChatGPT问世以来，“科技七巨头”首次几乎全部出现财报后实际波动率超过财报前期权隐含波动率，显示期权市场首次系统性低估了大型科技股的业绩冲击。&lt;/p&gt;
+&lt;p&gt;对投资者而言，前沿AI免费计划所提供的智能能力已超越大多数普通用户的实际需求，而企业客户如何为高级AI能力合理制定预算，仍是行业尚未厘清的关键议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：英伟达拟下调Rubin Ultra显存配置，应对高端HBM短缺</title><link>https://wallstreetcn.com/articles/3778895</link><guid>4811226d247c38a6ea1bed2a9d7f7a1b58310b0acb517266494ee76f15a11dcd</guid><pubDate>Thu, 06 Aug 2026 22:12:29 GMT</pubDate><description>&lt;p&gt;AI基础设施热潮正在逼近供应链极限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据The Information报道，英伟达正评估一项颇为激进的调整方案——为下一代AI GPU Rubin Ultra推出低于原计划显存配置的版本，以缓解高端高带宽内存（HBM）供应不足带来的量产压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，即便是掌握GPU市场主导权的英伟达，也不得不在产品规格与供应能力之间寻求平衡。&lt;/p&gt;
+&lt;p&gt;这一变化不仅反映出HBM供应已成为AI产业链最关键的瓶颈之一，也意味着AI服务器成本或进一步攀升，数据中心建设压力仍将持续向下游传导。&lt;/p&gt;
+&lt;p&gt;周四英伟达股价收跌0.1%，SK海力士股价收跌4.97%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;其中，微软财报后股价一度飙升约16%，创下近年来最大单日涨幅之一，特斯拉则因业绩及前景令市场失望暴跌约15%，两者共同体现出AI时代龙头公司估值正在经历更加剧烈的重新定价。&lt;/p&gt;
-&lt;p&gt;美银的发现意味着，无论利好还是利空，市场都在以远超预期的幅度重新定价AI龙头，也推动美国股市个股分化程度飙升至近35年来最高水平。&lt;/p&gt;
-&lt;p&gt;美银衍生品业务主管Benjamin Bowler警告，宏观不确定性持续攀升，当前混乱的市场背景对波动率形成强烈支撑。在策略层面，美银同时布局科技板块中长期上行结构与短期价值股轮动对冲，并重点推荐SPX 2026年12月认沽价差组合作为核心对冲仓位。&lt;/p&gt;
-科技巨头波动失锚 ChatGPT时代首现集体超预期波动
-&lt;p&gt;过去两年多，ChatGPT掀起生成式AI热潮后，“科技七巨头”几乎成为推动标普500上涨的核心力量。&lt;/p&gt;
-&lt;p&gt;随着市场对AI商业化路径逐渐形成一致预期，期权市场也越来越擅长预测财报后的波动区间，大多数情况下实际涨跌幅不会明显偏离隐含波动率。&lt;/p&gt;
-&lt;p&gt;但美银认为，本轮财报季打破了这一规律。&lt;/p&gt;
-&lt;p&gt;美银衍生品团队在题为“市场脱轨是特性而非缺陷”的报告中指出，截至目前，除尚未公布业绩的英伟达外，其余“科技七巨头”的股票实际波动幅度，均远超期权市场所隐含的预期波动水平，称其为&amp;quot;ChatGPT时代的首次&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这一现象折射出市场对科技巨头的定价能力正在下降——在AI叙事驱动的行情中，期权市场对尾部风险的定价持续偏低。&lt;/p&gt;
-&lt;p&gt;单股脆弱性问题在2026年依然突出。Bowler测算，标普500科技股当前的“脆弱性事件”发生频率，有望与2025年的历史峰值持平。7月30日，标普科技股单日回报离散度接近历史极值，这一时点恰好与Situational Awareness去风险操作的仓位冲击和大市值科技股财报集中发布相叠加。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-美股波动离散度续创新高 泡沫形态逼近互联网时代极值
-&lt;p&gt;美银进一步测算显示，由于科技龙头财报、对冲基金Situational Awareness爆仓、市场对新任美联储主席沃什政策路径仍存在较大不确定性的共同作用，美国股市个股分化（dispersion）已升至近35年来最高水平。&lt;/p&gt;
-&lt;p&gt;所谓个股分化，是指不同股票之间收益表现差异不断扩大。&lt;/p&gt;
-&lt;p&gt;相比所有股票同步上涨或同步下跌的行情，高分化市场意味着选股的重要性显著提升，同时指数走势对投资者真实收益的代表性下降。&lt;/p&gt;
-&lt;p&gt;对于衍生品交易而言，这通常意味着单只股票期权价值上升，而指数期权未必同步受益，也令市场中性策略、配对交易以及波动率交易更加活跃。&lt;/p&gt;
-&lt;p&gt;在更宏观的维度上，标普500实现波动率离散度持续向互联网泡沫破裂期间创下的历史高位靠拢。&lt;/p&gt;
-&lt;p&gt;美银认为，这与其此前的判断高度吻合——随着AI泡沫累积，加权离散度有可能超越互联网时代的极端水平，原因在于当前市值权重高度集中的超大市值股波动性异常突出。&lt;/p&gt;
-&lt;p&gt;低相关性、高轮动的市场结构，进一步推升了板块内部及板块间的个股离散程度，即便在科技板块内部亦然。Bowler指出，回报与波动率离散度是衡量泡沫式价格行为演进程度的核心指标，他在两年前已率先提出这一框架。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-美银：AI行情未必结束，但短期轮动风险在增加
-&lt;p&gt;尽管近期市场波动明显放大，美银并未认为AI行情已经结束。&lt;/p&gt;
-&lt;p&gt;报告表示，历史经验显示，科技泡沫形成过程中，即使长期上涨趋势未变，期间出现阶段性调整以及资金向价值股轮动都十分常见。&lt;/p&gt;
-&lt;p&gt;基于这一判断，美银建议投资者考虑利用衍生品进行风险管理，而不是简单降低股票仓位。&lt;/p&gt;
-&lt;p&gt;报告提出两类代表性策略：&lt;/p&gt;
-&lt;p&gt;一是利用医疗保健板块看涨价差（call spread）进行布局。美银认为，医疗保健板块目前在其“泡沫风险指标”中排名靠前，但通过价差策略可在控制下行风险的同时获得较高收益弹性。&lt;/p&gt;
-&lt;p&gt;二是对于预计标普500将进入缓慢回调阶段的投资者，可考虑采用看跌价差（put spread）或领口（put spread collar）策略，以应对当前市场轮动频繁、保护性期权需求旺盛带来的定价环境。&lt;/p&gt;
-&lt;p&gt;美银强调，在当前AI主导的市场环境下，指数表面仍可能维持强势，但内部结构正在发生剧烈变化，未来市场表现或将更多取决于企业盈利兑现能力，而非AI概念本身。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 非农前夕，美国就业市场释放疲软信号：企业减少招聘、但不愿裁员！</title><link>https://wallstreetcn.com/articles/3778874</link><guid>88224d4d75697e0ec4e2c29d862a79c7bf718e5ecffa5187d201f8a271b8021f</guid><pubDate>Thu, 06 Aug 2026 15:06:51 GMT</pubDate><description>&lt;p&gt;美国劳动力市场继续维持&amp;quot;低招聘、低裁员&amp;quot;格局。&lt;/p&gt;
+HBM供应紧张，英伟达测试多个&amp;quot;降显存&amp;quot;版本
+&lt;p&gt;知情人士透露，&lt;strong&gt;过去数周，英伟达已经测试至少三个不同版本的Rubin Ultra GPU，其中部分版本采用了低于最初规划的显存容量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达考虑推出低显存版本，一个重要原因在于未来可能无法获得足够数量的高端HBM芯片，以支撑原始设计的大规模量产。&lt;/p&gt;
+&lt;p&gt;Rubin Ultra是英伟达下一代AI计算平台的重要组成部分，定位高于即将量产的Rubin系列，被视为未来训练超大规模AI模型的重要硬件平台。按照原有规划，其将搭载容量更高、带宽更大的HBM，以进一步提升模型训练和推理性能。&lt;/p&gt;
+&lt;p&gt;不过，在HBM供应持续偏紧的背景下，英伟达正在重新评估产品配置，希望通过调整显存规格保证产品按计划上市，而不是继续等待供应链扩产。&lt;/p&gt;
+显存减少意味着需要部署更多GPU
+&lt;p&gt;对于AI训练而言，HBM不仅决定GPU的数据吞吐能力，更直接影响能够容纳的大模型规模。&lt;/p&gt;
+&lt;p&gt;如果Rubin Ultra最终采用较低显存配置，在运行大语言模型等大型AI工作负载时，客户可能需要部署更多GPU，才能完成原本由较少芯片即可完成的计算任务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;虽然英伟达仍可通过提高GPU计算能力、优化互连带宽等方式部分弥补性能损失，但总体来看，系统部署成本和集群复杂度仍可能有所提高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于微软、Meta、亚马逊、谷歌等持续扩大AI资本开支的大型云厂商而言，这意味着未来数据中心建设成本可能进一步上升。&lt;/p&gt;
+AI热潮暴露产业链最大瓶颈
+&lt;p&gt;HBM已经成为当前AI产业链最紧缺的核心零部件之一。&lt;/p&gt;
+&lt;p&gt;近年来，大模型训练需求快速增长，使GPU出货量持续攀升，而GPU所需的HBM主要由三星电子、SK海力士和美光等少数厂商供应。由于HBM制造工艺复杂、良率要求高、扩产周期长，供应增长速度始终难以追赶AI需求。&lt;/p&gt;
+&lt;p&gt;业内普遍预计，未来数年HBM仍将维持供不应求状态，这也是AI服务器价格居高不下的重要原因之一。&lt;/p&gt;
+&lt;p&gt;此次英伟达主动考虑降低Rubin Ultra显存配置，也反映出即便拥有产业链最强议价能力，其产品规划依然受到HBM供应约束。&lt;/p&gt;
+成本压力向整个科技行业蔓延
+&lt;p&gt;HBM价格上涨带来的影响已经不仅局限于AI服务器。&lt;/p&gt;
+&lt;p&gt;随着GPU、HBM等关键元器件持续紧缺，整个科技行业的硬件成本均受到推升。企业采购AI基础设施的预算不断增加，越来越多公司不得不提高资本支出，以满足生成式AI部署需求。&lt;/p&gt;
+&lt;p&gt;与此同时，上游芯片成本上涨也开始向消费电子领域传导。包括苹果在内的部分硬件厂商，已经通过提高终端产品售价等方式消化供应链成本压力。&lt;/p&gt;
+&lt;p&gt;市场人士认为，只要AI算力需求继续高速增长，而HBM新增产能释放速度有限，围绕高端存储资源的竞争仍将持续，HBM供应能力也将继续成为决定AI产业扩张速度的关键因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 非农前夕，美国就业市场释放疲软信号：企业减少招聘、但不愿裁员！</title><link>https://wallstreetcn.com/articles/3778874</link><guid>88224d4d75697e0ec4e2c29d862a79c7bf718e5ecffa5187d201f8a271b8021f</guid><pubDate>Thu, 06 Aug 2026 15:06:51 GMT</pubDate><description>&lt;p&gt;美国劳动力市场继续维持&amp;quot;低招聘、低裁员&amp;quot;格局。&lt;/p&gt;
 &lt;p&gt;据报道，&lt;strong&gt;市场预计，本周五公布的7月非农就业报告将显示，美国7月新增就业约8.3万个，失业率维持在4.2%。就业增长虽已明显放缓，但裁员依旧罕见，劳动力市场尚未出现明显恶化迹象。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;对于市场而言，这份报告的重要性更多在于验证经济降温的节奏，而非改变美联储政策预期。美联储主席Kevin Warsh上周已将劳动力市场描述为&amp;quot;稳定&amp;quot;，&lt;strong&gt;多数经济学家认为，相比就业数据，通胀走势仍将是决定货币政策方向的关键变量。&lt;/strong&gt;&lt;/p&gt;
 招聘持续放缓，企业进入谨慎用工阶段
@@ -306,4 +380,57 @@ Luna成新默认模型，免费层级功能大幅扩充
 &lt;p&gt;尽管指数上涨，标普500的隐含波动率预计仍将维持在较高水平。Grinacoff表示，&amp;quot;标普500单日涨幅可达2%，波动率自然会被推高。&amp;quot;&lt;/p&gt;
 &lt;p&gt;Tanvir Sandhu也指出，对上行看涨期权的强劲需求，正是在股市上涨的同时仍维持隐含波动率坚挺的关键因素。&lt;/p&gt;
 &lt;p&gt;在布局策略方面，瑞银策略师于7月20日建议的一笔交易——卖出iShares半导体ETF（SOXX）的下行对冲，并用所得权利金买入6倍数量的标普500上行看涨期权——在7月末至8月初半导体股下跌期间一度承压，但事后来看颇具前瞻性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞银目前预计标普500年底目标价为8100点，较周三收盘价上涨近5%，其牛市逻辑的核心在于市场参与度从科技巨头扩展至更广泛的经济板块。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想329 再平衡中的共同选择：医药、金属</title><link>http://xueqiu.com/1438190065/403886161</link><guid>36e07d451f981373c1a69c163da9b00d871a3a2e696afd48778e15e3c1e4d4f5</guid><pubDate>Thu, 06 Aug 2026 14:00:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚的美股三大指里，只有道琼斯是涨的，费城半导体录得小幅反弹，动能相对较弱，更多应看做是技术性修复而非趋势逆转。个股层面，英伟达上涨3%，而光通信的代表企业在经历了昨日的巨大上涨后表现不一，Lumentum回落调整，Coherent延续强势，同类题材内部也开始分化。表现好的板块有医疗、金属、消费及工业蓝筹等，显示出资金向防御与顺周期蓝筹迁徙迹象。&lt;/p&gt;</description></item><item><title>[今日雪球] 碳基大脑如何适配概率游戏：一份投资者的“系统补丁”清单</title><link>http://xueqiu.com/7271353740/403936976</link><guid>616062e7e3d0d5beee035261c68b33be9b1fbb6ea6038be48466517ee13add92</guid><pubDate>Thu, 06 Aug 2026 14:00:45 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2008年，大连一位大妈花5万元买入长春高新，后因常居国外忘记账户密码。2021年销户时，账户市值变成了500多万。这当然是一个极端的幸存者偏差，不具备可复制性。但它逼我们直面一个被忽视的真相：&lt;strong&gt;在投资这场游戏里，时间本身就是最稀缺的武器，而我们的大脑，天生不配拥有它。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对FCC光模块事件的解读与思考</title><link>http://xueqiu.com/5332385101/403882547</link><guid>e0895db718f167ddb6e6db3b0d9596170dee43d5da339c8f45ecaa26efd5dc2b</guid><pubDate>Thu, 06 Aug 2026 14:00:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，一则报道在全球光通信板块引发剧烈震荡。美联邦通信委员会（FCC）正起草一项禁令，拟禁止进口我们新型号的数据中心光收发模块。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;瑞银目前预计标普500年底目标价为8100点，较周三收盘价上涨近5%，其牛市逻辑的核心在于市场参与度从科技巨头扩展至更广泛的经济板块。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] ChatGPT时代首次！“科技七巨头”财报引爆超预期波动，美股分化创三十余年新高</title><link>https://wallstreetcn.com/articles/3778890</link><guid>8897027b80b661a70d7a3462cc79d0c12d4f44fcccf5f4d986421d6bf31dc598</guid><pubDate>Thu, 06 Aug 2026 21:06:49 GMT</pubDate><description>&lt;p&gt;到7月底，美股“科技七巨头”（Magnificent 7）中，已有六家都公布了最新季度财报，美股AI主线并未趋于平静，反而进入剧烈重估阶段。&lt;/p&gt;
+&lt;p&gt;美银股票衍生品团队日前的报告公布了一个令人意外的发现：自OpenAI的ChatGPT问世以来，“科技七巨头”首次几乎全部出现财报后实际波动率超过财报前期权隐含波动率，显示期权市场首次系统性低估了大型科技股的业绩冲击。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;其中，微软财报后股价一度飙升约16%，创下近年来最大单日涨幅之一，特斯拉则因业绩及前景令市场失望暴跌约15%，两者共同体现出AI时代龙头公司估值正在经历更加剧烈的重新定价。&lt;/p&gt;
+&lt;p&gt;美银的发现意味着，无论利好还是利空，市场都在以远超预期的幅度重新定价AI龙头，也推动美国股市个股分化程度飙升至近35年来最高水平。&lt;/p&gt;
+&lt;p&gt;美银衍生品业务主管Benjamin Bowler警告，宏观不确定性持续攀升，当前混乱的市场背景对波动率形成强烈支撑。在策略层面，美银同时布局科技板块中长期上行结构与短期价值股轮动对冲，并重点推荐SPX 2026年12月认沽价差组合作为核心对冲仓位。&lt;/p&gt;
+科技巨头波动失锚 ChatGPT时代首现集体超预期波动
+&lt;p&gt;过去两年多，ChatGPT掀起生成式AI热潮后，“科技七巨头”几乎成为推动标普500上涨的核心力量。&lt;/p&gt;
+&lt;p&gt;随着市场对AI商业化路径逐渐形成一致预期，期权市场也越来越擅长预测财报后的波动区间，大多数情况下实际涨跌幅不会明显偏离隐含波动率。&lt;/p&gt;
+&lt;p&gt;但美银认为，本轮财报季打破了这一规律。&lt;/p&gt;
+&lt;p&gt;美银衍生品团队在题为“市场脱轨是特性而非缺陷”的报告中指出，截至目前，除尚未公布业绩的英伟达外，其余“科技七巨头”的股票实际波动幅度，均远超期权市场所隐含的预期波动水平，称其为&amp;quot;ChatGPT时代的首次&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这一现象折射出市场对科技巨头的定价能力正在下降——在AI叙事驱动的行情中，期权市场对尾部风险的定价持续偏低。&lt;/p&gt;
+&lt;p&gt;单股脆弱性问题在2026年依然突出。Bowler测算，标普500科技股当前的“脆弱性事件”发生频率，有望与2025年的历史峰值持平。7月30日，标普科技股单日回报离散度接近历史极值，这一时点恰好与Situational Awareness去风险操作的仓位冲击和大市值科技股财报集中发布相叠加。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+美股波动离散度续创新高 泡沫形态逼近互联网时代极值
+&lt;p&gt;美银进一步测算显示，由于科技龙头财报、对冲基金Situational Awareness爆仓、市场对新任美联储主席沃什政策路径仍存在较大不确定性的共同作用，美国股市个股分化（dispersion）已升至近35年来最高水平。&lt;/p&gt;
+&lt;p&gt;所谓个股分化，是指不同股票之间收益表现差异不断扩大。&lt;/p&gt;
+&lt;p&gt;相比所有股票同步上涨或同步下跌的行情，高分化市场意味着选股的重要性显著提升，同时指数走势对投资者真实收益的代表性下降。&lt;/p&gt;
+&lt;p&gt;对于衍生品交易而言，这通常意味着单只股票期权价值上升，而指数期权未必同步受益，也令市场中性策略、配对交易以及波动率交易更加活跃。&lt;/p&gt;
+&lt;p&gt;在更宏观的维度上，标普500实现波动率离散度持续向互联网泡沫破裂期间创下的历史高位靠拢。&lt;/p&gt;
+&lt;p&gt;美银认为，这与其此前的判断高度吻合——随着AI泡沫累积，加权离散度有可能超越互联网时代的极端水平，原因在于当前市值权重高度集中的超大市值股波动性异常突出。&lt;/p&gt;
+&lt;p&gt;低相关性、高轮动的市场结构，进一步推升了板块内部及板块间的个股离散程度，即便在科技板块内部亦然。Bowler指出，回报与波动率离散度是衡量泡沫式价格行为演进程度的核心指标，他在两年前已率先提出这一框架。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+美银：AI行情未必结束，但短期轮动风险在增加
+&lt;p&gt;尽管近期市场波动明显放大，美银并未认为AI行情已经结束。&lt;/p&gt;
+&lt;p&gt;报告表示，历史经验显示，科技泡沫形成过程中，即使长期上涨趋势未变，期间出现阶段性调整以及资金向价值股轮动都十分常见。&lt;/p&gt;
+&lt;p&gt;基于这一判断，美银建议投资者考虑利用衍生品进行风险管理，而不是简单降低股票仓位。&lt;/p&gt;
+&lt;p&gt;报告提出两类代表性策略：&lt;/p&gt;
+&lt;p&gt;一是利用医疗保健板块看涨价差（call spread）进行布局。美银认为，医疗保健板块目前在其“泡沫风险指标”中排名靠前，但通过价差策略可在控制下行风险的同时获得较高收益弹性。&lt;/p&gt;
+&lt;p&gt;二是对于预计标普500将进入缓慢回调阶段的投资者，可考虑采用看跌价差（put spread）或领口（put spread collar）策略，以应对当前市场轮动频繁、保护性期权需求旺盛带来的定价环境。&lt;/p&gt;
+&lt;p&gt;美银强调，在当前AI主导的市场环境下，指数表面仍可能维持强势，但内部结构正在发生剧烈变化，未来市场表现或将更多取决于企业盈利兑现能力，而非AI概念本身。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克Terafab AI芯片超级工厂项目启动，自建发电厂，初期投资168亿美元</title><link>https://wallstreetcn.com/articles/3778882</link><guid>f2db600c2007e4c596092140a2f8e79ae7b4ca3d1e175d2ef4fbaf93e70baee1</guid><pubDate>Thu, 06 Aug 2026 20:34:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;SpaceX与Tesla将初期投资168亿美元，在得克萨斯州Grimes County建设Terafab&lt;/strong&gt;——一座先进的人工智能半导体综合工厂，以抢占马斯克所称对其公司未来至关重要的芯片产能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该工厂旨在缩小全球芯片供应与SpaceX和Tesla未来数年预计所需的超过1太瓦计算能力之间的差距。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SpaceX周四在其官网声明中表示，未来扩建阶段可能使总投资大幅增加，并称该工厂将至少创造3000个就业岗位。马斯克表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Terafab正将尖端制造带到美国，在得克萨斯州创造数千个高薪职位，并使我们能够大规模生产可在地球和太空使用的AI芯片。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;马斯克估算，特斯拉Optimus人形机器人的算力需求将占Terafab人工智能计算产出的约25%，剩余约75%将供给航天器人工智能项目。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX能源与数据中心开发负责人Riley Trettel周三表示，&amp;quot;我们将自带电力&amp;quot;，具体方案包括建设天然气发电厂及大型储能电池阵列。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SpaceX股价在周四限售股解禁不跌反涨，截至收盘上涨6.14%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+SpaceX将为Terafab自建天然气发电厂
+&lt;p&gt;SpaceX计划为Terafab自建电力供应体系，项目建设即将启动。&lt;/p&gt;
+&lt;p&gt;SpaceX能源与数据中心开发负责人Riley Trettel周三在德克萨斯州格莱姆斯县的公开会议上表示，&amp;quot;我们将自带电力&amp;quot;，具体方案包括建设天然气发电厂及大型储能电池阵列。&lt;/p&gt;
+&lt;p&gt;Trettel同时表示，项目将&amp;quot;几乎立即&amp;quot;启动，优先推进土建工作与基础施工。&lt;/p&gt;
+&lt;p&gt;数据中心与新兴制造业的用电需求激增，正在推动天然气发电装机需求持续上升，垂直整合亦是马斯克一贯的经营哲学。&lt;/p&gt;
+总投资超千亿美元，携手英特尔建造AI芯片超级工厂
+&lt;p&gt;今年早些时候，SpaceX收购了马斯克的初创公司xAI，交易重点是建设太空数据中心，并于6月完成史上最大规模IPO。此后，马斯克进一步加强旗下公司在AI领域的整合。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这座垂直整合、占地1亿平方英尺的Terafab工厂将在同一厂房下完成先进逻辑芯片和存储芯片的制造、封装与测试，用于驱动Tesla的Optimus机器人与Cybercab，同时也生产SpaceX太空数据中心所需的高功率芯片。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5月的一份文件显示，SpaceX最初提议投资550亿美元建设Terafab，&lt;strong&gt;若完成后续扩建阶段，总投资将增至1190亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为推进该项目，SpaceX今年早些时候已与英特尔（Intel）达成合作，后者正试图通过扩大芯片代工业务实现转型。&lt;/p&gt;
+&lt;p&gt;Tesla已在4月启动其Giga Texas工厂北校区研究设施的建设，这被视为Terafab的前置项目。&lt;/p&gt;
+&lt;p&gt;Grimes County选址靠近Gibbons Creek水库，两家公司计划利用该水库的水进行工业生产，而非使用当地地下水。&lt;/p&gt;
+&lt;p&gt;该项目进一步扩大了SpaceX和Tesla在得克萨斯的布局，此前两家公司已在Starbase、Bastrop和McGregor设有基地。&lt;/p&gt;
+&lt;p&gt;德克萨斯州州长Greg Abbott对此表示：&amp;quot;德克萨斯州是伟大想法成长壮大的地方。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想329 再平衡中的共同选择：医药、金属</title><link>http://xueqiu.com/1438190065/403886161</link><guid>36e07d451f981373c1a69c163da9b00d871a3a2e696afd48778e15e3c1e4d4f5</guid><pubDate>Thu, 06 Aug 2026 14:00:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚的美股三大指里，只有道琼斯是涨的，费城半导体录得小幅反弹，动能相对较弱，更多应看做是技术性修复而非趋势逆转。个股层面，英伟达上涨3%，而光通信的代表企业在经历了昨日的巨大上涨后表现不一，Lumentum回落调整，Coherent延续强势，同类题材内部也开始分化。表现好的板块有医疗、金属、消费及工业蓝筹等，显示出资金向防御与顺周期蓝筹迁徙迹象。&lt;/p&gt;</description></item><item><title>[今日雪球] 碳基大脑如何适配概率游戏：一份投资者的“系统补丁”清单</title><link>http://xueqiu.com/7271353740/403936976</link><guid>616062e7e3d0d5beee035261c68b33be9b1fbb6ea6038be48466517ee13add92</guid><pubDate>Thu, 06 Aug 2026 14:00:45 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2008年，大连一位大妈花5万元买入长春高新，后因常居国外忘记账户密码。2021年销户时，账户市值变成了500多万。这当然是一个极端的幸存者偏差，不具备可复制性。但它逼我们直面一个被忽视的真相：&lt;strong&gt;在投资这场游戏里，时间本身就是最稀缺的武器，而我们的大脑，天生不配拥有它。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 对FCC光模块事件的解读与思考</title><link>http://xueqiu.com/5332385101/403882547</link><guid>e0895db718f167ddb6e6db3b0d9596170dee43d5da339c8f45ecaa26efd5dc2b</guid><pubDate>Thu, 06 Aug 2026 14:00:35 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，一则报道在全球光通信板块引发剧烈震荡。美联邦通信委员会（FCC）正起草一项禁令，拟禁止进口我们新型号的数据中心光收发模块。&lt;/p&gt;</description></item></channel></rss>
