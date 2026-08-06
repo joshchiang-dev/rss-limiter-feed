@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 06 Aug 2026 04:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 闪迪电话会：AI存储需求仍处扩张早期，客户订单锁定未来四年，最大客户签约后还追加需求</title><link>https://wallstreetcn.com/articles/3778792</link><guid>7bfbd8777aaefdb5814c08340965eec86f0b919aaaa9318573333cf55291aebd</guid><pubDate>Wed, 05 Aug 2026 23:46:32 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 06 Aug 2026 04:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 闪迪电话会：AI存储需求仍处扩张早期，客户订单锁定未来四年，最大客户签约后还追加需求</title><link>https://wallstreetcn.com/articles/3778792</link><guid>7bfbd8777aaefdb5814c08340965eec86f0b919aaaa9318573333cf55291aebd</guid><pubDate>Wed, 05 Aug 2026 23:46:32 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778788"&gt;华尔街见闻提及&lt;/a&gt;，美东时间8月5日美股盘后，闪迪公布第四财季业绩报告，营收同比增长372%至89.7亿美元，较市场预期高4.3%。非GAAP口径下调整后每股收益（EPS）39.25美元、为一年前水平0.29美元的135倍，较分析师预期高逾10%。&lt;/p&gt;
 &lt;p&gt;业绩电话会上，闪迪管理层表示，&lt;strong&gt;随着AI推理和智能体AI快速发展，客户对存储需求的增长速度已经超过公司供应能力，部分大型客户在签署多年期供应协议后，仅数月后便要求增加未来3至5年的采购量。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;闪迪管理层透露，公司目前已经与8家数据中心和边缘计算客户签署“新商业模式”（NBM）长期协议&lt;/strong&gt;，相关订单覆盖未来多年供应，&lt;strong&gt;其中2027财年超过一半的供应已被提前锁定，2028财年约三分之二供应已有安排。&lt;/strong&gt;&lt;/p&gt;
@@ -367,53 +367,7 @@ NBM模式改变NAND行业：八大客户锁定未来多年供应
 &lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本次会议到此结束。感谢您参加今天的演示，您现在可以断开连接。&lt;/p&gt;
 &lt;p&gt;会议结束&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Q2营收、指引低于预期，AppLovin盘后重挫！CEO称AI大模型升级"来晚了一步"</title><link>https://wallstreetcn.com/articles/3778802</link><guid>e0fdf990aab3b1736b6f91936767650ba94cfdfd594cddad4675d2171bcc2f55</guid><pubDate>Thu, 06 Aug 2026 01:52:38 GMT</pubDate><description>&lt;p&gt;尽管二季度净利润同比大增55%，但因营收及三季度指引略低于华尔街预期，AppLovin股价遭遇重挫；公司管理层在电话会上将增速放缓归因于AI模型迭代的“时间差”，并强调增加算力投资将换取更长远的增长空间。&lt;/p&gt;
-&lt;p&gt;8月5日，移动营销软件巨头AppLovin召开了二季度财报电话会。在财报发布后，因营收不及预期且给出了稍显疲软的三季度指引，即使其净利润表现优异，AppLovin股价一度重挫约20%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;财报数据显示，AppLovin二季度营收为19.2亿美元（同比增长53%），&lt;strong&gt;略低于分析师预期的19.4亿美元&lt;/strong&gt;；调整后每股收益为3.76美元，略高于预期的3.75美元；净利润达1.27亿美元，同比增长55%。对于三季度，公司预计营收在20.55亿美元至20.85亿美元之间（中位数20.7亿美元），&lt;strong&gt;同样低于市场预期的20.8亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;在电话会上，AppLovin首席执行官Adam Foroughi与首席财务官Matt Stumpf直面了业绩不及预期的现实。Adam Foroughi开门见山，毫不回避：&amp;quot;&lt;strong&gt;这季度，我们没有达到自己的标准&lt;/strong&gt;（This quarter, we fell short of that standard）。&amp;quot;他随即强调：&amp;quot;&lt;strong&gt;重要的是，我们清楚发生了什么，而且已经解决了&lt;/strong&gt;。&amp;quot;&lt;/p&gt;
-业绩落差的“罪魁祸首”：模型升级的时间差
-&lt;p&gt;这是本次电话会市场最关注的问题。&lt;/p&gt;
-&lt;p&gt;面对华尔街对营收放缓的质疑，CEO Adam Foroughi并未回避。他坦言公司一直以超越预期为目标，但本次并未达标。&lt;/p&gt;
-&lt;p&gt;Foroughi的解释指向一个核心逻辑：AppLovin游戏广告业务的增长，本质上是由AI模型性能的持续迭代驱动的——&lt;strong&gt;模型改进→广告主ROAS提升→预算自然增加&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;游戏仍是我们营收的主要来源，而驱动其增长的最大单一因素是模型性能。当我们的模型改进时，广告主就能盈利地投入更多预算，预算自然而然地会提升。&lt;/strong&gt;&amp;quot;Foroughi说。&lt;/p&gt;
-&lt;p&gt;他坦言，二季度的问题就出在时间节点上：&amp;quot;&lt;strong&gt;这个季度归根结底是时间节奏问题。我们在季度内有意义的模型改进步伐比平时慢，而下一次模型性能的重大跃升恰好在季度结束之后才落地。&lt;/strong&gt;&amp;quot;&lt;/p&gt;
-&lt;p&gt;他强调，公司并未观察到广告主需求疲软或竞争格局的任何变化。MAX发行商平台的广告收入&lt;strong&gt;环比实现两位数增长&lt;/strong&gt;，公司在发行商广告瀑布流中的份额也保持稳定。&amp;quot;随着这些改进现已上线，加上进入季节性更强的时期，业务正在重新加速。&amp;quot;&lt;/p&gt;
-&lt;p&gt;对于分析师追问&amp;quot;模型升级为何没有如期到来&amp;quot;，Foroughi给出了更坦率的答案：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;这就是研发，没有任何保证说每个三个月的周期内都能获得提升。团队一直在做测试，有时会有巨大的提升带来12%、13%、15%的环比增长，也会有我们没有获得实质性提升的时期。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-直面利润率担忧：“这是我们每天都愿意做的交易”
-&lt;p&gt;除了营收不及预期，AppLovin二季度的调整后EBITDA（1.61亿美元）也略低于公司的指引区间，这引发了市场对成本高企的担忧。管理层将其归因于对底层技术的重金投入。&lt;/p&gt;
-&lt;p&gt;“&lt;strong&gt;这些增量投资完全投入到了我们认为应该投入的地方——也就是我们的技术。&lt;/strong&gt;”Foroughi解释道，公司正在对架构进行彻底更改，以构建更复杂的模型，这些模型将从额外的训练算力中获益更多。&lt;/p&gt;
-&lt;p&gt;对于这种吞噬部分短期利润的算力投资，Foroughi态度坚决：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“当增加的算力能通过更好的模型性能产生实质性更多的收入时，这是我们每天都愿意做的交易。这些更高的训练和推理成本已经计入了我们下个季度的指引中。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;CFO Matt Stumpf也补充道，公司是围绕EBITDA绝对美元金额和自由现金流来管理业务，而不是刻意追求利润率百分比。“如果发现有机会创造更多收入，我们将继续投入资金。”&lt;/p&gt;
-未来想象空间：电商垂直领域的崛起与30%的长期增速
-&lt;p&gt;在核心游戏业务之外，市场高度关注AppLovin拓展电商及消费者业务（Consumer business）的进展。随着AppLovin Ads Manager向公众开放，这被视为公司打破游戏行业天花板的关键。&lt;/p&gt;
-&lt;p&gt;Foroughi透露，&lt;strong&gt;消费者业务在二季度表现出色，广告主支出创下新高，比2025年第四季度（通常是广告旺季）的水平高出28%&lt;/strong&gt;。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“在一个通常是季节性淡季的季度，还能远超旺季水平实现增长，这说明这条增长曲线有多陡峭。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不过，他也给市场打了一剂预防针，表示新业务的爬坡需要时间：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“正如我们上个季度所说，我们并不指望公开发布能在一夜之间改变业务。我们将有策略地优先发展中型市场的广告主（Mid-market advertisers）……就像建立游戏业务时一样，长尾市场会随着我们数据的积累而逐渐解锁。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;谈及公司的长期护城河和增长天花板，Foroughi给出了一个极为乐观的远景规划：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们把游戏业务做大的速度和规模远远超出了我们的想象，而消费者业务为我们增加了更长的跑道。我们跨越多个广告类别运行同一个拍卖系统，我们引入的每一个新类别都在扩大我们面前的机会。从长远来看，随着我们继续改善游戏业务并扩展消费者业务，我们相信这项业务的年复合增长率可以达到约30%。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此外，CFO Matt Stumpf在会上澄清，此前报告的美国SEC（美国证券交易委员会）对公司的质询已以“不建议采取任何行动”而结案。&lt;/p&gt;
-营收微幅落空，利润依然强劲，三季度指引中值低于预期
-&lt;p&gt;财报显示，二季度AppLovin实现营收19.2亿美元，同比增长53%，但略低于自身指引区间中值，也低于分析师一致预期的约19.4亿美元。调整后EBITDA为16.1亿美元，同比增长58%，调整后EBITDA利润率进一步扩张约300个基点，但同样小幅低于此前指引区间。&lt;/p&gt;
-&lt;p&gt;净利润方面表现依然亮眼：12.7亿美元，同比增长约55%（上年同期为8.2亿美元）。调整后每股收益3.76美元，与分析师预期基本持平。自由现金流为8.63亿美元。&lt;/p&gt;
-&lt;p&gt;CFO Matt Stumpf指出，二季度自由现金流转化率低于常规节奏，主要源于国际现金税款和利息支付的时间节点问题，&amp;quot;这是时间节奏问题，不是公司盈利能力的变化&amp;quot;。他预计三季度自由现金流转化率将改善，全年自由现金流转化率将回归调整后EBITDA的约75%。&lt;/p&gt;
-&lt;p&gt;财报显示，公司给出三季度营收指引区间为20.55亿至20.85亿美元（同比增长46%至48%，环比增长7%至8%），指引中值约20.7亿美元，略低于分析师此前预期的20.8亿美元。调整后EBITDA指引为17.1亿至17.4亿美元（同比增长48%至50%），调整后EBITDA利润率约为83%，同样低于华尔街预期的约17.6亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;CFO Matt Stumpf特别说明，三季度指引已纳入&amp;quot;已上线并运行的模型改进&amp;quot;以及&amp;quot;更高的训练和推理计算成本&amp;quot;，但不包含尚未部署的额外模型发布的假设。&lt;/p&gt;
-&lt;p&gt;CEO Adam Foroughi对三季度开局表示乐观：&amp;quot;Q3开局强劲，业务已回到我们预期的轨道上。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻</title><link>https://wallstreetcn.com/articles/3778788</link><guid>e40b4f740f5a30713402380571b91b9c3699d1dedf9e004c9428dd96dbd329e3</guid><pubDate>Wed, 05 Aug 2026 20:35:16 GMT</pubDate><description>&lt;p&gt;在AI存储需求的推动下，存储芯片龙头闪迪（Sandisk）上一财季业绩出乎意料地强劲，但本季指引未能达到华尔街的更炸裂增长期待。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻</title><link>https://wallstreetcn.com/articles/3778788</link><guid>e40b4f740f5a30713402380571b91b9c3699d1dedf9e004c9428dd96dbd329e3</guid><pubDate>Wed, 05 Aug 2026 20:35:16 GMT</pubDate><description>&lt;p&gt;在AI存储需求的推动下，存储芯片龙头闪迪（Sandisk）上一财季业绩出乎意料地强劲，但本季指引未能达到华尔街的更炸裂增长期待。&lt;/p&gt;
 &lt;p&gt;美东时间5日周三美股盘后，闪迪公布，截至2026年7月3日的公司第四财季，营收同比增长372%至89.7亿美元，较市场预期高4.3%；非GAAP口径下调整后每股收益（EPS）39.25美元、为一年前水平0.29美元的135倍，较分析师预期高逾10%。&lt;/p&gt;
 &lt;p&gt;受存储需求、价格和数据中心业务拉动，闪迪第四财季盈利能力显著改善，调整后毛利率达到84.6%，为一年前的3.2倍，高于市场预期的81.5%。&lt;/p&gt;
 &lt;p&gt;整个2026财年，闪迪营收较上年增长175%至202.5亿美元，显示本轮NAND上行周期和AI基础设施相关需求对公司收入体量的拉动已相当显著。闪迪公告称，全财年营收优异主要得益于客户结构的优化、向高价值客户倾斜，以及产品定价提升，并提到，全财年数据中心业务收入增长437%。&lt;/p&gt;
@@ -523,7 +477,53 @@ NBM模式改变NAND行业：八大客户锁定未来多年供应
 &lt;strong&gt;代价各有不同。&lt;/strong&gt;美光的合同设了明确的价格上下限——地板价保住了，天花板也被锁死，超额收益空间被合同封顶。三星的条款不对称，跌幅有底、涨幅无顶。SK 海力士走了另一条路：取消价格上限，保留了普通 DRAM 最大的上涨弹性——高盛在报告中专门指出，相比部分锁了上限的同行，海力士的上行空间更显著。代价是长协覆盖率只到 50% 到 60%，比三星少了约 10 个百分点的收入确定性。
 &lt;p&gt;高盛报告中的库存数据提供了另一个视角。截至 2026 年二季度末，三星和 SK 海力士的 DRAM 和 NAND 库存均在 2 到 4 周，低于约 4 到 5 周的正常水平，远低于历次下行周期前的 10 周以上。库存没有积压，原厂没有降价的动力。合同条款向供应商倾斜，背后是真实的供需紧张。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;但合约锁的是价格，不是产能&lt;/strong&gt;。NAND 总产能当前约 201 万片/月，靠现有厂房加设备和技改，今年底能提到 215 万片左右。真正的增量要等新建厂房和洁净室——周期一年半到两年。产业口径给的时间点是明年中以后释放，量级约占总产能的 17% 到 19%。&lt;/p&gt;
-&lt;p&gt;产能释放的时间，才是真正考验 LTA 条款的时刻。当供给追上来的时候，那些签了五年合同、预付了数十亿美元的买家，会不会发现自己在合同里锁进了一个已经过时的价格？答案取决于合同条款的细节——而细节完全在供应商的控制之下。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD重挫无碍AI龙头走强：英伟达五连涨创两月新高，美光重返“万亿美元俱乐部”</title><link>https://wallstreetcn.com/articles/3778780</link><guid>1e148085f8848df12913bedf420126200fd135db5663e7d0d69a17b765030ce7</guid><pubDate>Wed, 05 Aug 2026 20:04:50 GMT</pubDate><description>&lt;p&gt;AMD财报后的大跌，并未阻止资金继续追逐AI龙头。&lt;/p&gt;
+&lt;p&gt;产能释放的时间，才是真正考验 LTA 条款的时刻。当供给追上来的时候，那些签了五年合同、预付了数十亿美元的买家，会不会发现自己在合同里锁进了一个已经过时的价格？答案取决于合同条款的细节——而细节完全在供应商的控制之下。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Q2营收、指引低于预期，AppLovin盘后重挫！CEO称AI大模型升级"来晚了一步"</title><link>https://wallstreetcn.com/articles/3778802</link><guid>e0fdf990aab3b1736b6f91936767650ba94cfdfd594cddad4675d2171bcc2f55</guid><pubDate>Thu, 06 Aug 2026 01:52:38 GMT</pubDate><description>&lt;p&gt;尽管二季度净利润同比大增55%，但因营收及三季度指引略低于华尔街预期，AppLovin股价遭遇重挫；公司管理层在电话会上将增速放缓归因于AI模型迭代的“时间差”，并强调增加算力投资将换取更长远的增长空间。&lt;/p&gt;
+&lt;p&gt;8月5日，移动营销软件巨头AppLovin召开了二季度财报电话会。在财报发布后，因营收不及预期且给出了稍显疲软的三季度指引，即使其净利润表现优异，AppLovin股价一度重挫约20%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;财报数据显示，AppLovin二季度营收为19.2亿美元（同比增长53%），&lt;strong&gt;略低于分析师预期的19.4亿美元&lt;/strong&gt;；调整后每股收益为3.76美元，略高于预期的3.75美元；净利润达1.27亿美元，同比增长55%。对于三季度，公司预计营收在20.55亿美元至20.85亿美元之间（中位数20.7亿美元），&lt;strong&gt;同样低于市场预期的20.8亿美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在电话会上，AppLovin首席执行官Adam Foroughi与首席财务官Matt Stumpf直面了业绩不及预期的现实。Adam Foroughi开门见山，毫不回避：&amp;quot;&lt;strong&gt;这季度，我们没有达到自己的标准&lt;/strong&gt;（This quarter, we fell short of that standard）。&amp;quot;他随即强调：&amp;quot;&lt;strong&gt;重要的是，我们清楚发生了什么，而且已经解决了&lt;/strong&gt;。&amp;quot;&lt;/p&gt;
+业绩落差的“罪魁祸首”：模型升级的时间差
+&lt;p&gt;这是本次电话会市场最关注的问题。&lt;/p&gt;
+&lt;p&gt;面对华尔街对营收放缓的质疑，CEO Adam Foroughi并未回避。他坦言公司一直以超越预期为目标，但本次并未达标。&lt;/p&gt;
+&lt;p&gt;Foroughi的解释指向一个核心逻辑：AppLovin游戏广告业务的增长，本质上是由AI模型性能的持续迭代驱动的——&lt;strong&gt;模型改进→广告主ROAS提升→预算自然增加&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;游戏仍是我们营收的主要来源，而驱动其增长的最大单一因素是模型性能。当我们的模型改进时，广告主就能盈利地投入更多预算，预算自然而然地会提升。&lt;/strong&gt;&amp;quot;Foroughi说。&lt;/p&gt;
+&lt;p&gt;他坦言，二季度的问题就出在时间节点上：&amp;quot;&lt;strong&gt;这个季度归根结底是时间节奏问题。我们在季度内有意义的模型改进步伐比平时慢，而下一次模型性能的重大跃升恰好在季度结束之后才落地。&lt;/strong&gt;&amp;quot;&lt;/p&gt;
+&lt;p&gt;他强调，公司并未观察到广告主需求疲软或竞争格局的任何变化。MAX发行商平台的广告收入&lt;strong&gt;环比实现两位数增长&lt;/strong&gt;，公司在发行商广告瀑布流中的份额也保持稳定。&amp;quot;随着这些改进现已上线，加上进入季节性更强的时期，业务正在重新加速。&amp;quot;&lt;/p&gt;
+&lt;p&gt;对于分析师追问&amp;quot;模型升级为何没有如期到来&amp;quot;，Foroughi给出了更坦率的答案：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;这就是研发，没有任何保证说每个三个月的周期内都能获得提升。团队一直在做测试，有时会有巨大的提升带来12%、13%、15%的环比增长，也会有我们没有获得实质性提升的时期。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+直面利润率担忧：“这是我们每天都愿意做的交易”
+&lt;p&gt;除了营收不及预期，AppLovin二季度的调整后EBITDA（1.61亿美元）也略低于公司的指引区间，这引发了市场对成本高企的担忧。管理层将其归因于对底层技术的重金投入。&lt;/p&gt;
+&lt;p&gt;“&lt;strong&gt;这些增量投资完全投入到了我们认为应该投入的地方——也就是我们的技术。&lt;/strong&gt;”Foroughi解释道，公司正在对架构进行彻底更改，以构建更复杂的模型，这些模型将从额外的训练算力中获益更多。&lt;/p&gt;
+&lt;p&gt;对于这种吞噬部分短期利润的算力投资，Foroughi态度坚决：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“当增加的算力能通过更好的模型性能产生实质性更多的收入时，这是我们每天都愿意做的交易。这些更高的训练和推理成本已经计入了我们下个季度的指引中。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;CFO Matt Stumpf也补充道，公司是围绕EBITDA绝对美元金额和自由现金流来管理业务，而不是刻意追求利润率百分比。“如果发现有机会创造更多收入，我们将继续投入资金。”&lt;/p&gt;
+未来想象空间：电商垂直领域的崛起与30%的长期增速
+&lt;p&gt;在核心游戏业务之外，市场高度关注AppLovin拓展电商及消费者业务（Consumer business）的进展。随着AppLovin Ads Manager向公众开放，这被视为公司打破游戏行业天花板的关键。&lt;/p&gt;
+&lt;p&gt;Foroughi透露，&lt;strong&gt;消费者业务在二季度表现出色，广告主支出创下新高，比2025年第四季度（通常是广告旺季）的水平高出28%&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“在一个通常是季节性淡季的季度，还能远超旺季水平实现增长，这说明这条增长曲线有多陡峭。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不过，他也给市场打了一剂预防针，表示新业务的爬坡需要时间：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“正如我们上个季度所说，我们并不指望公开发布能在一夜之间改变业务。我们将有策略地优先发展中型市场的广告主（Mid-market advertisers）……就像建立游戏业务时一样，长尾市场会随着我们数据的积累而逐渐解锁。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;谈及公司的长期护城河和增长天花板，Foroughi给出了一个极为乐观的远景规划：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我们把游戏业务做大的速度和规模远远超出了我们的想象，而消费者业务为我们增加了更长的跑道。我们跨越多个广告类别运行同一个拍卖系统，我们引入的每一个新类别都在扩大我们面前的机会。从长远来看，随着我们继续改善游戏业务并扩展消费者业务，我们相信这项业务的年复合增长率可以达到约30%。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此外，CFO Matt Stumpf在会上澄清，此前报告的美国SEC（美国证券交易委员会）对公司的质询已以“不建议采取任何行动”而结案。&lt;/p&gt;
+营收微幅落空，利润依然强劲，三季度指引中值低于预期
+&lt;p&gt;财报显示，二季度AppLovin实现营收19.2亿美元，同比增长53%，但略低于自身指引区间中值，也低于分析师一致预期的约19.4亿美元。调整后EBITDA为16.1亿美元，同比增长58%，调整后EBITDA利润率进一步扩张约300个基点，但同样小幅低于此前指引区间。&lt;/p&gt;
+&lt;p&gt;净利润方面表现依然亮眼：12.7亿美元，同比增长约55%（上年同期为8.2亿美元）。调整后每股收益3.76美元，与分析师预期基本持平。自由现金流为8.63亿美元。&lt;/p&gt;
+&lt;p&gt;CFO Matt Stumpf指出，二季度自由现金流转化率低于常规节奏，主要源于国际现金税款和利息支付的时间节点问题，&amp;quot;这是时间节奏问题，不是公司盈利能力的变化&amp;quot;。他预计三季度自由现金流转化率将改善，全年自由现金流转化率将回归调整后EBITDA的约75%。&lt;/p&gt;
+&lt;p&gt;财报显示，公司给出三季度营收指引区间为20.55亿至20.85亿美元（同比增长46%至48%，环比增长7%至8%），指引中值约20.7亿美元，略低于分析师此前预期的20.8亿美元。调整后EBITDA指引为17.1亿至17.4亿美元（同比增长48%至50%），调整后EBITDA利润率约为83%，同样低于华尔街预期的约17.6亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;CFO Matt Stumpf特别说明，三季度指引已纳入&amp;quot;已上线并运行的模型改进&amp;quot;以及&amp;quot;更高的训练和推理计算成本&amp;quot;，但不包含尚未部署的额外模型发布的假设。&lt;/p&gt;
+&lt;p&gt;CEO Adam Foroughi对三季度开局表示乐观：&amp;quot;Q3开局强劲，业务已回到我们预期的轨道上。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AMD重挫无碍AI龙头走强：英伟达五连涨创两月新高，美光重返“万亿美元俱乐部”</title><link>https://wallstreetcn.com/articles/3778780</link><guid>1e148085f8848df12913bedf420126200fd135db5663e7d0d69a17b765030ce7</guid><pubDate>Wed, 05 Aug 2026 20:04:50 GMT</pubDate><description>&lt;p&gt;AMD财报后的大跌，并未阻止资金继续追逐AI龙头。&lt;/p&gt;
 &lt;p&gt;周三，美股芯片股走势明显分化。周二盘后公布业绩指引未满足市场高预期后，AMD股价跳空低开约6.6%，早盘一度跌约7.8%，拖累追踪30只蓝筹芯片股的费城半导体指数（SOX）结束四连涨、早盘刷新日低时跌逾1.6%。到收盘，AMD跌约7%，SOX跌1.4%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;而AMD的劲敌、AI芯片“一哥”英伟达继续走高。英伟达盘中一度涨至222.22美元，创6月3日以来盘中新高，日内最大涨幅达4.85%，市值逼近5.8万亿美元，连续五个交易日上涨，收涨约3.4%，收创6月2日以来新高。&lt;/p&gt;
