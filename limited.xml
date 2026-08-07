@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 07 Aug 2026 06:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板半日涨1.75%，PCB掀涨停潮，创新药大涨，恒科指下探回升转涨，AI大模型双雄再度爆发</title><link>https://wallstreetcn.com/articles/3778909</link><guid>19c207c74f2beb63c9b302adb12def578e775f3435b46aaa0c3dfb598d9e4488</guid><pubDate>Fri, 07 Aug 2026 04:06:45 GMT</pubDate><description>&lt;p&gt;8月7日，A股震荡走高，三大股指集体上涨，沪指涨0.5%，创业板涨超1%，算力硬件反弹，CPO、PCB等大幅拉升，创新药活跃，CRO概念股爆发，稀土永磁反弹，半导体、电子元器件、通气设备等板块走强。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 07 Aug 2026 07:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期</title><link>https://wallstreetcn.com/articles/3778928</link><guid>50351e8287341cc80ad8388aabddc535dbc2ed05b522e295b1124e9f567cf845</guid><pubDate>Fri, 07 Aug 2026 07:11:31 GMT</pubDate><description>&lt;p&gt;美国7月非农就业报告将于北京时间今晚公布，&lt;strong&gt;市场共识预期新增就业约8万人，&lt;/strong&gt;但多重前瞻指标发出混杂信号，部分机构给出的预测远低于共识，&amp;quot;弱7月&amp;quot;魔咒能否打破，成为当前市场最大悬念。&lt;/p&gt;
+&lt;p&gt;市场预期区间异常宽泛，&lt;strong&gt;从最高15.7万人到最低的4万人不等。&lt;/strong&gt;高盛预测新增7.5万人，略低于共识；先锋（Vanguard）则给出仅1.8万人的极低预测，认为今年春季就业数据受天气、世界杯用工及地方政府提前招聘等因素虚抬，7月面临较大回调压力。与此同时，ADP私营部门就业数据仅增4.4万，大幅不及预期，进一步加剧了下行风险的担忧。&lt;/p&gt;
+&lt;p&gt;对美联储而言，当前政策重心已明确转向通胀，而非就业。多位官员近期均将劳动力市场描述为&amp;quot;稳定&amp;quot;，一份强劲的就业数据将强化&amp;quot;更长时间维持高利率&amp;quot;的预期，进而对利率敏感型资产形成压力；反之，若数据疲软，则可能推动市场定价向温和降息方向移动。&lt;/p&gt;
+
+&amp;quot;弱7月&amp;quot;魔咒：近三年连续不及预期
+
+&lt;p&gt;此次报告最受市场关注的背景之一，是7月就业数据近年来持续令人失望的规律。&lt;/p&gt;
+&lt;p&gt;据高盛研究报告，&lt;strong&gt;过去三年，美国7月非农就业增量相较于彼时的三个月均值平均低了6.6万人，较市场共识平均低了3.5万人。&lt;/strong&gt;这些弱于预期的数据，还伴随着前两个月数据的大幅下修，平均下修幅度达11.2万人。&lt;/p&gt;
+&lt;p&gt;高盛经济学家Ronnie Walker和Jessica Rindels在报告中将这一规律列为下行风险的核心依据之一。他们追踪的多项替代就业增长指标在7月平均录得6.5万，低于6月的7.9万。&lt;/p&gt;
+&lt;p&gt;此外，巴克莱分析师还提示，6月就业数据本身存在较大修正风险——该数据仅基于约一半的通常调查回复率，美国劳工统计局（BLS）大量依赖模型估算而非实际报告数据。巴克莱预计此次修正幅度将较大，但方向尚不明朗。&lt;/p&gt;
+
+世界杯效应与裁员低位成支撑
+
+&lt;p&gt;并非所有信号都指向下行。数项数据为就业市场提供了阶段性支撑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;世界杯用工效应是高盛预测中的重要加分项。&lt;/strong&gt;来自Homebase的数据显示，6月至7月调查参考周期间，世界杯举办城市的就业增速明显快于其他地区，高盛估计这一效应可为7月非农贡献约1万人，主要集中于休闲与酒店业、专业商业服务及贸易与运输行业。不过，同一数据也显示，这一效应在7月参考期结束后即开始退潮。&lt;/p&gt;
+&lt;p&gt;裁员数据同样呈现积极信号。7月初次申请失业救济人数在BLS调查窗口期内降至21万，低于6月的22.4万；恰逢调查窗口的当周更低至18.8万，为1969年9月以来最低水平。Challenger, Gray &amp;amp; Christmas报告的企业宣布裁员人数在7月环比减少1.2万人至3.3万人，为2024年7月以来最低。&lt;/p&gt;
+&lt;p&gt;政府部门招聘也呈现回暖迹象。此前持续收缩约一年半后，政府部门就业过去四个月平均每月新增1.25万人，政府职位空缺亦在近期出现反弹。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+劳动参与率与失业率：潜在隐忧
+
+&lt;p&gt;就业报告的核心之一，是失业率的走向及其背后的劳动参与率变化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛预计7月失业率将从4.2%小幅回升至4.3%，高于共识预期的持平。&lt;/strong&gt;高盛认为，这在一定程度上源于6月劳动参与率大幅下滑的逆转——6月参与率骤降至61.5%，为2021年3月以来最低，亦是新冠疫情期间以外自1976年6月以来的最低水平；其中核心劳动年龄（25至54岁）参与率更录得2020年4月之外的史上最大单月跌幅。&lt;/p&gt;
+&lt;p&gt;先锋集团经济学家预计，随着这批退出劳动力市场的工人重新求职，但找工作的速度慢于重返意愿，失业率将面临上行压力，其年底失业率预测为4.6%。&lt;/p&gt;
+&lt;p&gt;Citi经济学家Veronica Clark则指出，就业市场目前呈现&amp;quot;低招聘、低裁员&amp;quot;的均衡状态，这种格局对求职新人尤为不利。她预计失业率将在数月内升破4.5%，届时市场焦点将重新转向降息预期，Citi基准情景为今年第四季度重启降息。&lt;/p&gt;
+
+美联储立场：通胀优先，就业稳定为辅
+
+&lt;p&gt;此次非农数据对货币政策的指引意义，将主要体现在强化还是松动&amp;quot;更长时间维持高利率&amp;quot;这一基准预期。&lt;/p&gt;
+&lt;p&gt;美联储主席沃什将劳动力市场描述为&amp;quot;稳健且稳定&amp;quot;，Logan称其&amp;quot;稳健且略有改善&amp;quot;，Schmid认为&amp;quot;大体均衡&amp;quot;，Paulson和Hammack表示已趋于稳定，Barkin措辞最为审慎，称市场&amp;quot;感觉并不紧张&amp;quot;。官员整体将通胀视为更迫切的政策挑战，而非就业。&lt;/p&gt;
+&lt;p&gt;值得注意的是，牛津经济研究院指出，即便7月时薪环比涨幅达到0.4%，年率也仅为3.6%，依然与美联储2%通胀目标相符，薪资压力目前不被视为显著通胀风险。据彭博报道，&lt;strong&gt;分析师认为一份强劲的就业数据可能会推高实际收益率，尤其是鉴于沃什此前表示&amp;quot;市场已在一定程度上替美联储完成了部分紧缩工作&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+
+好消息反成坏消息？
+
+&lt;p&gt;&lt;strong&gt;摩根大通市场情报部门认为，此次非农数据将以&amp;quot;好消息即坏消息&amp;quot;的逻辑交易&lt;/strong&gt;——一份强劲的就业数字将强化&amp;quot;高利率维持更久&amp;quot;的定价，推升利率，压制利率敏感型板块；若数据温和偏弱，则可能带动收益率回落，市场定价向偏鸽方向小幅移动，权益市场或作出积极反应。&lt;/p&gt;
+&lt;p&gt;摩根大通给出的详细情景分析如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;若非农超过15万，标普500指数预计下跌50至175个基点，概率为10%；&lt;/li&gt;
+&lt;li&gt;非农在10万至15万之间，指数跌50个基点至涨25个基点，概率25%；&lt;/li&gt;
+&lt;li&gt;非农在6万至10万之间，指数跌25个基点至涨50个基点，概率30%；&lt;/li&gt;
+&lt;li&gt;非农在2万至6万之间，指数上涨25至75个基点，概率25%；&lt;/li&gt;
+&lt;li&gt;非农低于2万，指数跌125个基点至涨50个基点，概率10%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;期权市场对此次非农数据的定价相对克制，8月7日到期合约隐含波动幅度仅约0.7%，反映市场在此前地缘政治局势缓和的背景下已部分消化不确定性。截至8月6日午盘，2年期美债收益率从近期高点4.35%回落至约4.24%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SK海力士美国NAND子公司Solidigm拟筹备上市，负债率4484%是硬伤</title><link>https://wallstreetcn.com/articles/3778926</link><guid>6ce69ddf1c715850218a04912202ef454ac81c558336897a356cb3fb9e121326</guid><pubDate>Fri, 07 Aug 2026 07:12:59 GMT</pubDate><description>&lt;p&gt;SK海力士旗下美国NAND子公司Solidigm正探索赴美上市路径，但沉重的债务包袱与老化的生产基础设施令这一计划前景充满变数。&lt;/p&gt;
+&lt;p&gt;据韩国《朝鲜日报》报道，SK海力士正为Solidigm筹划规模达5万亿至10万亿韩元的Pre-IPO融资，并寻求全球另类资产管理机构及主权财富基金的投资意向，摩根士丹利与高盛据悉为潜在主承销商。与此同时，Solidigm据报已开始招募负责SEC申报及对外财务披露的高管，进一步强化了市场对其纳斯达克上市计划的预期。&lt;/p&gt;
+&lt;p&gt;SK海力士随后发布澄清公告称，Solidigm正在评估多种强化竞争力的方案，但目前尚无具体计划落定，并表示将于9月4日前依据信息披露要求提供最新进展。此次上市探索恰逢AI基础设施与推理工作负载驱动高容量存储需求强劲增长，为Solidigm提供了有利的市场窗口。&lt;/p&gt;
+AI存储需求提供上市时机
+&lt;p&gt;Solidigm的上市筹备发生在NAND市场景气回升的背景下。据集邦咨询（TrendForce）数据，2026年第一季度，SK海力士集团（含SK海力士与Solidigm）NAND营收约达75.3亿美元，环比增长44.6%，全球市场份额为17.6%，位居三星（31.6%）之后排名第二。&lt;/p&gt;
+&lt;p&gt;在产品层面，Solidigm已率先推出122TB级QLC企业级固态硬盘，成为全球首家发布该规格产品的厂商，并正在研发容量达245TB的下一代企业级SSD——据韩国《韩国经济》报道，该产品可存储约5万部电影，主要面向AI数据中心的大规模存储需求。&lt;/p&gt;
+&lt;p&gt;SK海力士于2020年以约10万亿韩元收购英特尔NAND闪存及SSD业务，并于2021年在美国成立Solidigm以承接相关业务。此次若能成功登陆纳斯达克，将延续SK海力士今年7月10日通过美国存托凭证（ADR）方式在美上市的资本市场扩张战略。&lt;/p&gt;
+债务高企，财务结构仍存隐忧
+&lt;p&gt;然而，Solidigm近期的业务复苏背后，财务基础依然脆弱。据《朝鲜日报》报道，该公司2021年至2023年间累计净亏损近8万亿韩元，2024年上半年股东权益跌至负9060亿韩元，出现完全资本侵蚀。&lt;/p&gt;
+&lt;p&gt;尽管Solidigm于2024年全年恢复盈利并走出资本侵蚀困境，但其财务结构压力并未根本缓解。报道显示，该公司去年负债比率高达4484.6%，约为通常认定的健康水平（200%以下）的14倍，财务稳健性仍受到市场质疑。&lt;/p&gt;
+&lt;p&gt;高负债率不仅压制估值空间，也直接影响Solidigm在Pre-IPO及IPO阶段的融资能力与定价吸引力，令潜在投资者对其资产负债表的可持续性保持审慎。&lt;/p&gt;
+老化晶圆厂制约技术升级
+&lt;p&gt;除财务压力外，生产基础设施的老化问题同样构成核心障碍。Solidigm位于中国大连的晶圆厂是其唯一海外生产基地，受美国出口管制限制，该厂无法引进EUV等先进设备，导致原定的升级与扩产计划持续推迟。&lt;/p&gt;
+&lt;p&gt;据News Tomato今年7月的报道，Solidigm计划于2026年下半年重启大连二厂长期搁置的扩产工程，预计新增基于238层NAND技术的V8产线。与此同时，大连一厂已启动向192层NAND的产线转换，并推进设备更新以替换老旧设施。&lt;/p&gt;
+&lt;p&gt;上述升级若能顺利推进，将有助于提升Solidigm的技术竞争力与产能规模，但资本开支压力与出口管制的不确定性仍是悬而未决的变量，投资者在评估其上市价值时需将这一风险纳入考量。&lt;/p&gt;
+上市意义：SK海力士美国战略的关键一步
+&lt;p&gt;对SK海力士而言，推动Solidigm独立上市的战略意图不止于融资本身。通过在纳斯达克为Solidigm建立独立的资本市场地位，SK海力士可将NAND业务与核心DRAM及HBM业务在资本层面进行一定程度的切割，分散风险敞口，同时借助美国资本市场的流动性为Solidigm的技术迭代与产能扩张提供资金支撑。&lt;/p&gt;
+&lt;p&gt;这一布局也契合SK海力士深化美国市场存在的整体战略——继ADR上市之后，若Solidigm成功登陆纳斯达克，将使SK海力士在美国资本市场形成母子公司双线布局，进一步强化其在全球存储市场的战略纵深。&lt;/p&gt;
+&lt;p&gt;目前，Solidigm的上市时间表尚未最终确定。SK海力士承诺最迟于9月4日披露最新进展，届时市场将获得更为明确的信号。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板半日涨1.75%，PCB掀涨停潮，创新药大涨，恒科指下探回升转涨，AI大模型双雄再度爆发</title><link>https://wallstreetcn.com/articles/3778909</link><guid>19c207c74f2beb63c9b302adb12def578e775f3435b46aaa0c3dfb598d9e4488</guid><pubDate>Fri, 07 Aug 2026 04:06:45 GMT</pubDate><description>&lt;p&gt;8月7日，A股震荡走高，三大股指集体上涨，沪指涨0.5%，创业板涨超1%，算力硬件反弹，CPO、PCB等大幅拉升，创新药活跃，CRO概念股爆发，稀土永磁反弹，半导体、电子元器件、通气设备等板块走强。&lt;/p&gt;
 &lt;p&gt;港股盘初低开低走，恒指、恒科指一度双双下跌，恒科指跌近1%，随后恒指、恒科指先后转涨，科网股局部回升，芯片股反弹，AI大模型双雄再度拉升，智谱和MINIMAX均暴涨超17%。债市方面，国债期货震荡上涨，商品方面，国内商品期货多数走高。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.49%，深成指涨1.31%，创业板指涨1.75%。&lt;/p&gt;
@@ -511,48 +574,4 @@ AI建设潮持续，提振出口
 
 
 &lt;p&gt;今年前7个月，中国民营企业进出口17.16万亿元，增长了17.2%，占我国进出口总值的56.9%，继续保持第一大外贸主体地位。同期，外商投资企业进出口8.78万亿元，增长了17.6%；国有企业进出口4.14万亿元，增长了17.3%。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI：免费版升级为GPT-5.6 Luna，付费版模型强化</title><link>https://wallstreetcn.com/articles/3778894</link><guid>9012e6f1d9d7c59d2e806b8a2c44f9db8bb21469eea4188fd302c7baf7cc1362</guid><pubDate>Thu, 06 Aug 2026 21:47:31 GMT</pubDate><description>&lt;p&gt;OpenAI大幅扩展ChatGPT功能，免费与付费用户同步受益，此举折射出前沿AI实验室在竞争加剧背景下正加速向用户让利。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI周四宣布，将于本周把所有用户的默认模型切换至GPT-5.6 Luna。&lt;/strong&gt;该公司称，与此前默认模型GPT-5.5 Instant相比，Luna在回答中出现至少一处事实错误的频率降低了62%。&lt;/p&gt;
-&lt;p&gt;与此同时，免费用户及低价Go套餐订阅者将获得无限制文字对话权限，并新增&amp;quot;Think&amp;quot;按钮，允许用户在面对较难问题时主动选择更高强度的推理模式。&lt;/p&gt;
-&lt;p&gt;此次升级直接触及OpenAI的定价策略。就在上周，该公司刚刚下调了GPT-5.6 Luna和GPT-5.6 Terra两款模型的价格——而以往价格下调通常在模型发布数月后才会出现，此次仅在发布数周后便已落地，节奏明显提速。&lt;/p&gt;
-
-Luna成新默认模型，免费层级功能大幅扩充
-
-&lt;p&gt;GPT-5.6 Luna于今年7月初推出，定位以速度见长。OpenAI表示，该模型在事实准确性上较前代默认模型有显著提升，回答错误率降幅达62%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在用户权益扩展方面，免费用户和Go套餐用户将获得无限量文字对话，并同步获得新增的&amp;quot;Think&amp;quot;按钮。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一功能让用户可以针对复杂问题自主触发更深度的推理，使免费层级的智能上限进一步提高。&lt;/p&gt;
-
-付费用户获Sol模型强化，新增推理深度调节工具
-
-&lt;p&gt;针对Plus和Pro付费用户，OpenAI对GPT-5.6 Sol进行了专项优化，使其更适用于日常对话与任务场景，涵盖快速问答、网络检索、建议咨询、规划安排、写作辅助及决策支持等方向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI表示，优化后的Sol将提供&amp;quot;更聚焦的答案&amp;quot;，减少不必要的格式冗余，保持语气一致，并降低出错率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，付费用户还将获得一项&amp;quot;滑块&amp;quot;工具，可自行调节ChatGPT在生成回答时投入的思考深度，为不同复杂程度的任务提供更灵活的资源分配。&lt;/p&gt;
-
-价格压力加速让利，竞争格局倒逼行业提速
-
-&lt;p&gt;此轮升级的背景是AI行业竞争格局的深刻变化。低成本开源模型带来的价格冲击，正推动OpenAI和Anthropic加速证明其高端模型的溢价合理性。&lt;/p&gt;
-&lt;p&gt;OpenAI上周对GPT-5.6 Luna和GPT-5.6 Terra实施降价，打破了此前模型上市数月后才调价的惯例。这一节奏的转变表明，市场压力已迫使头部实验室在产品发布后迅速做出定价响应。&lt;/p&gt;
-&lt;p&gt;对投资者而言，前沿AI免费计划所提供的智能能力已超越大多数普通用户的实际需求，而企业客户如何为高级AI能力合理制定预算，仍是行业尚未厘清的关键议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 白银单周暴涨8.3%，高盛警告系统性空头回补或已启动</title><link>https://wallstreetcn.com/articles/3778916</link><guid>bff882d4e6774b51cd731725d31cb45f512d995f452c2b0096c45289a8353680</guid><pubDate>Fri, 07 Aug 2026 03:10:42 GMT</pubDate><description>&lt;p&gt;一场美元走弱引发的贵金属反弹，正将白银空头逼入墙角。&lt;/p&gt;
-&lt;p&gt;白银在短短一周内急涨8.3%。驱动这轮行情的，是美联储偏鸽派表态、日元干预以及油价回落共同压低美元的组合拳。而高盛警告，&lt;strong&gt;价格的快速修复已触发系统性空头回补机制，新一轮被动平仓或正在展开。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;7月28日至8月5日，美元指数（DXY）下跌1.7%。COMEX贵金属全线走强：白银涨8.3%，黄金涨5%，铂金和钯金各涨7.6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;多头建仓是主要推手&lt;/strong&gt;
-&lt;p&gt;在这轮反弹启动之前，白银的机构持仓已压缩至极低水平。&lt;/p&gt;
-&lt;p&gt;据商品期货交易委员会（CFTC）持仓报告，&lt;strong&gt;7月28日管理资金净多头头寸仅处于过去两年名义规模排名的第3百分位——也就是说，机构几乎是近两年来最轻仓的状态。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛顶级期货交易员Robert Quinn表示，管理资金的总多头头寸&amp;quot;可能是本轮行情的关键驱动力&amp;quot;。数据印证了这一判断：白银未平仓合约总量增加了24亿美元，且单日最大增量出现在价格接近阶段高点时——这是典型的追涨建仓特征。&lt;/p&gt;
-&lt;p&gt;过去6个月，管理资金总多头变化与美元指数呈负相关。此次美元走弱，直接打开了多头加仓的窗口。&lt;/p&gt;
-&lt;p&gt;期权市场同步反映出看涨情绪：3个月隐含波动率上升，25 delta认购-认沽偏斜（put-call skew）走平，显示市场对上行风险的定价在上升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;CTA动量信号翻转，空头回补或被迫启动&lt;/strong&gt;
-&lt;p&gt;价格的快速反弹，正在触发另一类被动买盘——系统性策略基金（CTA）的空头平仓。&lt;/p&gt;
-&lt;p&gt;Quinn指出，&lt;strong&gt;按照高盛期货策略师的框架，短期动量信号已于8月5日收盘时翻转，&amp;quot;CTA空头解仓已经开始&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CTA基金的逻辑是机械的：当价格突破特定动量阈值，程序自动触发平仓指令，与基本面无关。这意味着即便没有新的利好消息，价格上涨本身就能制造更多买盘——形成自我强化的短期循环。&lt;/p&gt;
-&lt;p&gt;不过，Quinn也明确提示，&amp;quot;中期动量阈值尚未突破，还需要进一步修复&amp;quot;。换言之，目前触发的仅是短期信号，系统性买盘的规模和持续性仍有限。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;实物市场未收紧，美元反弹风险犹存&lt;/strong&gt;
-&lt;p&gt;尽管价格大涨，白银实物市场并未出现供应紧张的迹象。&lt;/p&gt;
-&lt;p&gt;高盛数据显示，白银3个月租赁利率在本轮价格上涨期间反而有所下降。租赁利率是衡量实物白银借贷成本的指标，利率走低意味着实物需求并未跟上价格节奏，市场供应依然充裕。&lt;/p&gt;
-&lt;p&gt;这是一个重要的分歧信号：&lt;strong&gt;价格涨了，但实物端没有配合。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，高盛外汇策略师明确表示，&lt;strong&gt;&amp;quot;在没有通胀数据明确信号的情况下，不预期美元出现持续下行趋势&amp;quot;。&lt;/strong&gt;本轮白银反弹的核心驱动——美元走弱——能否延续，本身存在不确定性。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
