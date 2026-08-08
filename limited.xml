@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 13:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻</title><link>https://wallstreetcn.com/articles/3778993</link><guid>92424002258a3a0f29f324a30e4f077f6f5ab27d50767e1c3dd17160a0e52148</guid><pubDate>Sat, 08 Aug 2026 13:12:23 GMT</pubDate><description>&lt;p&gt;伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 14:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] AI应用公司毛利故事遭遇首次"体检"：Canva主动降速、Figma自吞推理成本</title><link>https://wallstreetcn.com/articles/3778990</link><guid>056fbc9e44aa5bf803e2d7130f120ef76cab99012e3183bddaebc635b7b284e3</guid><pubDate>Sat, 08 Aug 2026 04:07:53 GMT</pubDate><description>&lt;p&gt;设计软件赛道的两家头部公司正在用真实财务数据，揭示AI转型最隐秘的代价。&lt;/p&gt;
+&lt;p&gt;Canva本周向投资者发出预警，&lt;strong&gt;年度营收增速将放缓至20%&lt;/strong&gt;，原因是公司&lt;strong&gt;主动叫停了一项原定推动付费订阅增长的AI功能铺开计划&lt;/strong&gt;——需求远超预期，服务成本同样远超预期。Figma周四公布财报显示，预计&lt;strong&gt;第三季度营收增速将从6月季度的48%降至36%&lt;/strong&gt;，并坦承旗下多款AI工具仍处于测试阶段，尚未形成有效的商业化路径。消息公布后，Figma股价单日重挫约15%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据科技媒体The Information报道，两家公司的遭遇共同指向同一个结构性问题：&lt;strong&gt;AI产品的受欢迎程度，并不自动等同于健康的单位经济模型。在投资者此前对AI应用公司寄予厚望的叙事框架下，这是一次来自一线的真实压力测试。&lt;/strong&gt;&lt;/p&gt;
+Canva：需求过旺反成负担，主动踩刹车
+&lt;p&gt;Canva的困境颇具戏剧性——不是因为没有人用，而恰恰是因为用的人太多。&lt;/p&gt;
+&lt;p&gt;据报道，Canva首席运营官Cliff Obrecht向同事表示，在引入AI之前，服务大量免费用户的成本&amp;quot;非常低&amp;quot;。但AI功能上线后，&amp;quot;&lt;strong&gt;这些成本大幅攀升，单位经济模型发生了根本性变化，这使得降低AI成本变得远比以前重要&lt;/strong&gt;&amp;quot;。&lt;/p&gt;
+&lt;p&gt;正是基于这一判断，Canva选择主动放缓原定的AI功能推出节奏，而非继续以高成本换取用户增长。这一决策直接压低了公司对全年营收增速的预期，从此前市场预期的更高水平降至20%。&lt;/p&gt;
+&lt;p&gt;为从根本上解决成本问题，Canva正大力推进自研AI模型。公司表示，其内部模型在图像和视频生成方面比顶级AI实验室的模型更快、更便宜。但问题在于，&lt;strong&gt;这些模型未能赶上本轮AI功能铺开的时间窗口，导致公司在关键节点上仍不得不依赖成本更高的外部模型。&lt;/strong&gt;&lt;/p&gt;
+Figma：Beta产品免费开放，推理成本全额自担
+&lt;p&gt;与Canva的主动刹车不同，Figma面临的是&lt;strong&gt;另一种形式的成本压力——为尚未商业化的产品买单。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Figma首席财务官Praveer Melwani在投资者电话会议上直接点明了这一逻辑：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们目前不向客户收取处于测试阶段产品的使用费用，推理成本由我们自行承担，没有任何消费收入来抵消。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这意味着，Figma正在用自有资金补贴用户使用其AI功能，同时等待这些工具从测试阶段走向正式商业化。公司预计，这一成本结构将对毛利率形成压制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figma同样在加大自研AI模型的投入，并已开始将内部模型与前沿模型结合使用，以支撑其新推出的Figma AI智能体。&lt;/strong&gt;但自研模型的训练本身需要时间和资金投入，而资本市场的耐心显然有限——业绩指引发布后，Figma股价单日下跌约15%。&lt;/p&gt;
+共同困境：AI转型的成本结构尚未理顺
+&lt;p&gt;报道称，Canva和Figma的案例，揭示了当前AI应用公司普遍面临的一个阶段性矛盾：产品层面的吸引力已经得到验证，但将其转化为可持续盈利模式的路径仍不清晰。&lt;/p&gt;
+&lt;p&gt;两家公司都将自研模型视为破局关键——通过降低对外部高成本模型的依赖，从根本上改善单位经济模型。然而，自研模型的建设周期与市场对业绩增长的即时要求之间，存在难以回避的时间差。&lt;/p&gt;
+&lt;p&gt;分析认为，这两份财报提供了一个重要的参照系：&lt;strong&gt;AI转型的成本，不仅体现在研发投入上，更深层地嵌入在每一次用户调用背后的推理费用之中。在商业化模式尚未成熟之前，这部分成本将持续侵蚀毛利空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软件公司的AI故事，正在接受第一轮真正意义上的财务体检。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻</title><link>https://wallstreetcn.com/articles/3778993</link><guid>92424002258a3a0f29f324a30e4f077f6f5ab27d50767e1c3dd17160a0e52148</guid><pubDate>Sat, 08 Aug 2026 13:12:23 GMT</pubDate><description>&lt;p&gt;伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。&lt;/p&gt;
 &lt;p&gt;8月8日，伯克希尔公布的最新数据显示，受益于股票投资组合未实现收益大幅回升，&lt;strong&gt;二季度GAAP口径净利润同比几乎翻倍，达256.67亿美元&lt;/strong&gt;，较上年同期的123.70亿美元增长约107%。上半年净利润为357.73亿美元，&lt;strong&gt;同比增长约111%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;公司二季度回购约45亿美元自家股票，为股东带来了自2021年以来规模最大的季度股东回报，&lt;/strong&gt;远高于一季度的2.35亿美元。上半年累计回购规模约48亿美元。&lt;/p&gt;
@@ -37,28 +58,7 @@
 &lt;p&gt;&lt;strong&gt;除股票买入和回购之外，2026年上半年还有两笔体量可观的实体收购，进一步拉低了现金储备。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一笔：&lt;/strong&gt;1月2日，伯克希尔以约94亿美元完成对西方石油旗下化工业务OxyChem的收购。OxyChem是全球基础化学品制造商，产品广泛应用于水处理、医药、建筑等领域，收购完成后即纳入工业制品板块并表，二季度贡献营收约14亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第二笔：&lt;/strong&gt;Taylor Morrison收购于7月24日正式完成，伯克希尔以每股72.5美元现金收购这家美国知名住宅建筑商，总股权对价约68亿美元。Taylor Morrison将被纳入建筑产品板块，与Clayton Homes、Shaw、Johns Manville等业务并列，而且此次收购的时机——在高利率导致住宅市场相对低迷之际——显示出Abel对住宅建设长期需求的信心。&lt;/p&gt;
-&lt;p&gt;这两笔收购合计约162亿美元现金支出，加上116亿美元股票净买入和约48亿美元自身回购，Greg Abel执掌伯克希尔以来的资本部署节奏正在全面提速。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI应用公司毛利故事遭遇首次"体检"：Canva主动降速、Figma自吞推理成本</title><link>https://wallstreetcn.com/articles/3778990</link><guid>056fbc9e44aa5bf803e2d7130f120ef76cab99012e3183bddaebc635b7b284e3</guid><pubDate>Sat, 08 Aug 2026 04:07:53 GMT</pubDate><description>&lt;p&gt;设计软件赛道的两家头部公司正在用真实财务数据，揭示AI转型最隐秘的代价。&lt;/p&gt;
-&lt;p&gt;Canva本周向投资者发出预警，&lt;strong&gt;年度营收增速将放缓至20%&lt;/strong&gt;，原因是公司&lt;strong&gt;主动叫停了一项原定推动付费订阅增长的AI功能铺开计划&lt;/strong&gt;——需求远超预期，服务成本同样远超预期。Figma周四公布财报显示，预计&lt;strong&gt;第三季度营收增速将从6月季度的48%降至36%&lt;/strong&gt;，并坦承旗下多款AI工具仍处于测试阶段，尚未形成有效的商业化路径。消息公布后，Figma股价单日重挫约15%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据科技媒体The Information报道，两家公司的遭遇共同指向同一个结构性问题：&lt;strong&gt;AI产品的受欢迎程度，并不自动等同于健康的单位经济模型。在投资者此前对AI应用公司寄予厚望的叙事框架下，这是一次来自一线的真实压力测试。&lt;/strong&gt;&lt;/p&gt;
-Canva：需求过旺反成负担，主动踩刹车
-&lt;p&gt;Canva的困境颇具戏剧性——不是因为没有人用，而恰恰是因为用的人太多。&lt;/p&gt;
-&lt;p&gt;据报道，Canva首席运营官Cliff Obrecht向同事表示，在引入AI之前，服务大量免费用户的成本&amp;quot;非常低&amp;quot;。但AI功能上线后，&amp;quot;&lt;strong&gt;这些成本大幅攀升，单位经济模型发生了根本性变化，这使得降低AI成本变得远比以前重要&lt;/strong&gt;&amp;quot;。&lt;/p&gt;
-&lt;p&gt;正是基于这一判断，Canva选择主动放缓原定的AI功能推出节奏，而非继续以高成本换取用户增长。这一决策直接压低了公司对全年营收增速的预期，从此前市场预期的更高水平降至20%。&lt;/p&gt;
-&lt;p&gt;为从根本上解决成本问题，Canva正大力推进自研AI模型。公司表示，其内部模型在图像和视频生成方面比顶级AI实验室的模型更快、更便宜。但问题在于，&lt;strong&gt;这些模型未能赶上本轮AI功能铺开的时间窗口，导致公司在关键节点上仍不得不依赖成本更高的外部模型。&lt;/strong&gt;&lt;/p&gt;
-Figma：Beta产品免费开放，推理成本全额自担
-&lt;p&gt;与Canva的主动刹车不同，Figma面临的是&lt;strong&gt;另一种形式的成本压力——为尚未商业化的产品买单。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Figma首席财务官Praveer Melwani在投资者电话会议上直接点明了这一逻辑：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们目前不向客户收取处于测试阶段产品的使用费用，推理成本由我们自行承担，没有任何消费收入来抵消。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这意味着，Figma正在用自有资金补贴用户使用其AI功能，同时等待这些工具从测试阶段走向正式商业化。公司预计，这一成本结构将对毛利率形成压制。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Figma同样在加大自研AI模型的投入，并已开始将内部模型与前沿模型结合使用，以支撑其新推出的Figma AI智能体。&lt;/strong&gt;但自研模型的训练本身需要时间和资金投入，而资本市场的耐心显然有限——业绩指引发布后，Figma股价单日下跌约15%。&lt;/p&gt;
-共同困境：AI转型的成本结构尚未理顺
-&lt;p&gt;报道称，Canva和Figma的案例，揭示了当前AI应用公司普遍面临的一个阶段性矛盾：产品层面的吸引力已经得到验证，但将其转化为可持续盈利模式的路径仍不清晰。&lt;/p&gt;
-&lt;p&gt;两家公司都将自研模型视为破局关键——通过降低对外部高成本模型的依赖，从根本上改善单位经济模型。然而，自研模型的建设周期与市场对业绩增长的即时要求之间，存在难以回避的时间差。&lt;/p&gt;
-&lt;p&gt;分析认为，这两份财报提供了一个重要的参照系：&lt;strong&gt;AI转型的成本，不仅体现在研发投入上，更深层地嵌入在每一次用户调用背后的推理费用之中。在商业化模式尚未成熟之前，这部分成本将持续侵蚀毛利空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;软件公司的AI故事，正在接受第一轮真正意义上的财务体检。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果终于把千问接进Siri：中国版Apple Intelligence来了</title><link>https://wallstreetcn.com/articles/3778992</link><guid>a846f2e4dfbb1146249504f0eba204ce80b79911a07958f7f09d13c6a4270c40</guid><pubDate>Sat, 08 Aug 2026 09:13:58 GMT</pubDate><description>&lt;p&gt;苹果与阿里的AI合作，正在从传闻和监管备案，真正走进苹果的操作系统。&lt;/p&gt;
+&lt;p&gt;这两笔收购合计约162亿美元现金支出，加上116亿美元股票净买入和约48亿美元自身回购，Greg Abel执掌伯克希尔以来的资本部署节奏正在全面提速。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果终于把千问接进Siri：中国版Apple Intelligence来了</title><link>https://wallstreetcn.com/articles/3778992</link><guid>a846f2e4dfbb1146249504f0eba204ce80b79911a07958f7f09d13c6a4270c40</guid><pubDate>Sat, 08 Aug 2026 09:13:58 GMT</pubDate><description>&lt;p&gt;苹果与阿里的AI合作，正在从传闻和监管备案，真正走进苹果的操作系统。&lt;/p&gt;
 &lt;p&gt;近日，苹果中国官网的《Mac使用手册》中，已经出现了一个相当醒目的新页面——&lt;strong&gt;“在 Mac 上配合 Apple 智能使用千问”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;从苹果给出的说明来看，千问并不是以一个独立AI应用的形式进入Mac，而是直接嵌入Apple Intelligence的核心使用场景。&lt;/p&gt;
