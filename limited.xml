@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 08:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%</title><link>https://wallstreetcn.com/articles/3778924</link><guid>d1af7a14162d843a7e05721bbd7b5fab54e5e178d7b911b7dc119e11a431c398</guid><pubDate>Fri, 07 Aug 2026 23:05:58 GMT</pubDate><description>&lt;p&gt;就业市场意外走弱，为美联储维持利率按兵不动提供了依据，推动美股本周强势收涨。2年期美债收益率下行5个基点，美元指数下跌。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 09:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%</title><link>https://wallstreetcn.com/articles/3778924</link><guid>d1af7a14162d843a7e05721bbd7b5fab54e5e178d7b911b7dc119e11a431c398</guid><pubDate>Fri, 07 Aug 2026 23:05:58 GMT</pubDate><description>&lt;p&gt;就业市场意外走弱，为美联储维持利率按兵不动提供了依据，推动美股本周强势收涨。2年期美债收益率下行5个基点，美元指数下跌。&lt;/p&gt;
 &lt;p&gt;据报美国将在达成霍尔木兹海峡协议、恢复航运后解除对伊朗港口的封锁，油价随之回落，进一步缓和了市场对通胀的顾虑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国7月非农就业意外减少2.3万，远低于市场预期的增加8万，5月和6月数据合计下修10.3万，劳动参与率降至五年多最低。就业爆冷令9月加息概率从55%骤降至44%，10年期美债收益率从4.68%跳水至4.65%，美元指数跌破99.5。&lt;/strong&gt;&lt;/p&gt;
@@ -249,7 +249,78 @@ AI与太空业务，决定这场行情能否继续
 &lt;p&gt;&lt;strong&gt;因此，SpaceX未来股价能否继续向上突破，不仅取决于Starlink等现有业务的增长，也取决于市场能否看到AI基础设施投入带来的实际回报。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;眼下，解禁这一原本可能引发抛售的事件已经被市场快速消化，空头回补与看涨期权交易又进一步放大了上涨动能。&lt;/p&gt;
 &lt;p&gt;但当短期交易因素逐渐退潮后，市场最终仍将回到一个基本问题：SpaceX能否用未来数年的业务增长，兑现当前已经极高的市场预期。&lt;/p&gt;
-&lt;p&gt;如果答案是肯定的，135美元可能只是下一轮上涨的起点；如果AI和航天业务的兑现速度低于预期，那么近期由空头回补和期权资金推动的急涨，也可能成为新的波动源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI应用公司毛利故事遭遇首次"体检"：Canva主动降速、Figma自吞推理成本</title><link>https://wallstreetcn.com/articles/3778990</link><guid>056fbc9e44aa5bf803e2d7130f120ef76cab99012e3183bddaebc635b7b284e3</guid><pubDate>Sat, 08 Aug 2026 04:07:53 GMT</pubDate><description>&lt;p&gt;设计软件赛道的两家头部公司正在用真实财务数据，揭示AI转型最隐秘的代价。&lt;/p&gt;
+&lt;p&gt;如果答案是肯定的，135美元可能只是下一轮上涨的起点；如果AI和航天业务的兑现速度低于预期，那么近期由空头回补和期权资金推动的急涨，也可能成为新的波动源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果终于把千问接进Siri：中国版Apple Intelligence来了</title><link>https://wallstreetcn.com/articles/3778992</link><guid>a846f2e4dfbb1146249504f0eba204ce80b79911a07958f7f09d13c6a4270c40</guid><pubDate>Sat, 08 Aug 2026 09:13:58 GMT</pubDate><description>&lt;p&gt;苹果与阿里的AI合作，正在从传闻和监管备案，真正走进苹果的操作系统。&lt;/p&gt;
+&lt;p&gt;近日，苹果中国官网的《Mac使用手册》中，已经出现了一个相当醒目的新页面——&lt;strong&gt;“在 Mac 上配合 Apple 智能使用千问”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从苹果给出的说明来看，千问并不是以一个独立AI应用的形式进入Mac，而是直接嵌入Apple Intelligence的核心使用场景。&lt;/p&gt;
+&lt;p&gt;比如，当Siri无法直接完成某些请求时，用户可以进一步调用千问，获得更加深入的回答，包括对照片和文稿相关内容进行分析；在写作工具中，用户也可以借助千问，根据文字描述生成文本或图像。&lt;/p&gt;
+&lt;p&gt;换句话说，&lt;strong&gt;千问正在成为中国版Apple Intelligence背后的外部大模型之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也让苹果在中国的AI路线，第一次变得更加具体。&lt;/p&gt;
+从“苹果牵手阿里”，到千问真正进入系统
+&lt;p&gt;苹果和阿里的合作其实早有铺垫。&lt;/p&gt;
+&lt;p&gt;今年7月，路透社报道称，Apple Intelligence相关生成式AI服务已经完成中国监管部门备案。为了满足中国市场的监管要求，苹果选择与阿里巴巴和百度合作，其中阿里的千问模型将被整合到苹果设备之中，覆盖iOS、iPadOS、macOS和visionOS。&lt;/p&gt;
+&lt;p&gt;《华尔街日报》此前也报道称，苹果从2025年初开始推进相关监管程序，并与阿里、百度共同开发部分适用于中国市场的AI功能。&lt;/p&gt;
+&lt;p&gt;但当时外界知道的更多还是“谁和苹果合作”。&lt;/p&gt;
+&lt;p&gt;现在苹果官方使用手册的更新，则第一次把这种合作具体到了用户体验层面：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Siri可以调用千问，写作工具也可以调用千问。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个区别很重要。&lt;/p&gt;
+&lt;p&gt;因为这意味着，千问获得的可能并不只是一个“预装应用”的位置，而是进入了苹果最核心的系统级AI入口。&lt;/p&gt;
+&lt;p&gt;用户甚至不一定需要主动打开千问App。&lt;/p&gt;
+&lt;p&gt;当他们对Siri提出复杂问题、分析文稿或者使用AI写作工具时，背后的部分模型能力就可能来自千问。&lt;/p&gt;
+&lt;p&gt;对于阿里来说，这种分发方式的价值，远远高于单纯让用户再下载一个AI应用。&lt;/p&gt;
+苹果正在搭建一套“本地化AI供应链”
+&lt;p&gt;更值得关注的，是苹果正在形成一种和过去完全不同的AI模式。&lt;/p&gt;
+&lt;p&gt;传统智能手机时代，苹果习惯于自己掌握最核心的软件体验：芯片自己设计，操作系统自己开发，Siri也是自己的。&lt;/p&gt;
+&lt;p&gt;但进入生成式AI时代之后，大模型更新速度太快、训练成本太高，同时不同国家又存在完全不同的数据和监管要求。&lt;/p&gt;
+&lt;p&gt;苹果开始把Apple Intelligence设计成一个更加分层的体系。&lt;/p&gt;
+&lt;p&gt;最底层，苹果仍然依靠Apple Silicon以及自己的设备端模型处理大量个人化任务。苹果目前仍将Mac定位为“为AI精心构建”的设备，并强调设备端AI处理和隐私保护。&lt;/p&gt;
+&lt;p&gt;但遇到更加复杂、需要更强大模型能力的问题时，系统可以调用外部模型。&lt;/p&gt;
+&lt;p&gt;在海外市场，苹果此前已经采用类似思路，把第三方模型能力接入Apple Intelligence。&lt;/p&gt;
+&lt;p&gt;到了中国市场，这个角色开始由中国本土AI厂商承担。&lt;/p&gt;
+&lt;p&gt;这就意味着，&lt;strong&gt;苹果可能正在建立一条新的“AI供应链”：自己掌握操作系统、硬件、用户入口和体验，底层大模型则可以根据不同市场选择不同供应商。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;模型未必一定要全部自己造，但入口必须掌握在自己手里。&lt;/p&gt;
+&lt;p&gt;这可能才是苹果AI战略真正值得关注的地方。&lt;/p&gt;
+千问拿到的，是比“装进iPhone”更重要的位置
+&lt;p&gt;对阿里来说，这笔合作同样意义重大。&lt;/p&gt;
+&lt;p&gt;过去一年，中国大模型竞争越来越激烈。&lt;/p&gt;
+&lt;p&gt;各家公司不仅要比模型能力，也开始争夺真正的用户入口。&lt;/p&gt;
+&lt;p&gt;阿里自己的千问App正在不断增加办公、生活服务、AI Agent、图像和视频生成等功能，试图直接争夺消费者。&lt;/p&gt;
+&lt;p&gt;但苹果提供的是另一种完全不同的入口。&lt;/p&gt;
+&lt;p&gt;不是让用户想起“我要使用AI”，然后打开一个AI应用，而是让AI直接出现在用户原本就在使用的操作系统功能里。&lt;/p&gt;
+&lt;p&gt;Siri、写作工具，未来甚至更多系统级功能，都可能成为大模型的分发渠道。&lt;/p&gt;
+&lt;p&gt;这相当于把大模型从一个独立产品，变成操作系统背后的基础能力。&lt;/p&gt;
+&lt;p&gt;更重要的是，千问最近仍在快速扩张自己的模型能力。英国《金融时报》本周在分析阿里最新模型Qwen 3.8-Max时就指出，阿里正在尝试把AI转化为新的技术和商业增长引擎，而阿里云则承担着将模型能力商业化的重要角色。&lt;/p&gt;
+&lt;p&gt;所以苹果合作带给阿里的意义，不只是“多了一个大客户”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它实际上是一次非常重要的模型分发。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果未来数以千万计的中国苹果设备能够通过系统功能调用千问，阿里获得的将不仅是调用量，还包括一个极其重要的行业背书：&lt;/p&gt;
+&lt;p&gt;它的大模型已经有能力成为全球最大消费电子生态之一的底层AI供应商。&lt;/p&gt;
+对苹果来说，这更是一场迟到的补课
+&lt;p&gt;苹果其实比阿里更需要这次合作。&lt;/p&gt;
+&lt;p&gt;Apple Intelligence在全球推出之后，中国大陆市场迟迟无法同步上线，这已经逐渐成为苹果产品竞争中的一个明显短板。&lt;/p&gt;
+&lt;p&gt;与此同时，华为、小米、OPPO等中国手机厂商已经快速把生成式AI、智能体和系统级AI能力塞进自己的手机。&lt;/p&gt;
+&lt;p&gt;《华尔街日报》此前就指出，Apple Intelligence在中国市场的延迟，使苹果在与中国本土手机厂商竞争时缺少了一项越来越重要的能力。&lt;/p&gt;
+&lt;p&gt;这也是为什么苹果不能简单把海外版Apple Intelligence原封不动搬进中国。&lt;/p&gt;
+&lt;p&gt;模型、数据处理和监管体系都需要重新适配。&lt;/p&gt;
+&lt;p&gt;最终的解决方案，就是寻找中国本土合作伙伴。&lt;/p&gt;
+&lt;p&gt;于是出现了现在这个很有意思的组合：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;苹果提供设备、芯片、操作系统和入口，阿里等中国厂商提供本地大模型能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;双方各自拿出自己最擅长的部分。&lt;/p&gt;
+AI时代，苹果最重要的可能不是拥有最强模型
+&lt;p&gt;这件事情背后，其实还有一个更大的问题：&lt;/p&gt;
+&lt;p&gt;在AI时代，一家科技公司是不是必须拥有世界上最强的大模型？&lt;/p&gt;
+&lt;p&gt;苹果现在给出的答案，可能是否定的。&lt;/p&gt;
+&lt;p&gt;过去两年，OpenAI、Google、Anthropic、阿里等公司不断刷新模型能力，但模型之间的差距也在快速变化。&lt;/p&gt;
+&lt;p&gt;对于拥有超过十亿级设备生态的苹果来说，与其投入全部资源参加模型军备竞赛，另一条路线可能更加现实：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;掌握用户入口，然后选择最适合不同市场的模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在美国，可以接入美国的模型。&lt;/p&gt;
+&lt;p&gt;在中国，可以接入千问等本土模型。&lt;/p&gt;
+&lt;p&gt;而苹果自己继续控制芯片、操作系统、隐私架构和最终的用户体验。&lt;/p&gt;
+&lt;p&gt;如果这条路线最终成立，那么未来真正有价值的，可能不只是“谁拥有最强模型”，而是&lt;strong&gt;谁能够决定数亿用户在什么时候调用哪个模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从这个角度看，苹果官网里那句看似普通的——&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“从Siri获取更多答案：对于某些请求，Siri可利用千问提供更深入的答案。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;背后的意义其实比“苹果接入千问”大得多。&lt;/p&gt;
+&lt;p&gt;它意味着中国AI公司第一次真正走进了苹果的系统级AI入口。&lt;/p&gt;
+&lt;p&gt;而对千问来说，&lt;strong&gt;这可能比出现在iPhone里更重要——它开始出现在Siri背后。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI应用公司毛利故事遭遇首次"体检"：Canva主动降速、Figma自吞推理成本</title><link>https://wallstreetcn.com/articles/3778990</link><guid>056fbc9e44aa5bf803e2d7130f120ef76cab99012e3183bddaebc635b7b284e3</guid><pubDate>Sat, 08 Aug 2026 04:07:53 GMT</pubDate><description>&lt;p&gt;设计软件赛道的两家头部公司正在用真实财务数据，揭示AI转型最隐秘的代价。&lt;/p&gt;
 &lt;p&gt;Canva本周向投资者发出预警，&lt;strong&gt;年度营收增速将放缓至20%&lt;/strong&gt;，原因是公司&lt;strong&gt;主动叫停了一项原定推动付费订阅增长的AI功能铺开计划&lt;/strong&gt;——需求远超预期，服务成本同样远超预期。Figma周四公布财报显示，预计&lt;strong&gt;第三季度营收增速将从6月季度的48%降至36%&lt;/strong&gt;，并坦承旗下多款AI工具仍处于测试阶段，尚未形成有效的商业化路径。消息公布后，Figma股价单日重挫约15%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;据科技媒体The Information报道，两家公司的遭遇共同指向同一个结构性问题：&lt;strong&gt;AI产品的受欢迎程度，并不自动等同于健康的单位经济模型。在投资者此前对AI应用公司寄予厚望的叙事框架下，这是一次来自一线的真实压力测试。&lt;/strong&gt;&lt;/p&gt;
@@ -407,20 +478,4 @@ FIMA扩容：一场隐形的收益率曲线管理
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;重要的是，本季度业绩展示了Palantir的主权AI能力。我们认为，随着客户逐渐意识到AI价值的创造并非简单地消耗更多算力，而在于将这些算力转化为有治理、可衡量的业务成果，Palantir的定位正获得越来越广泛的共鸣。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;分析认为，这一评级上调与Palantir股价的强势表现相互印证，表明机构投资者对其商业模式的可持续性信心正在重建。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股</title><link>https://wallstreetcn.com/articles/3778988</link><guid>d3df40a5f33ebe70529ed3b4dd6b8bdc6161804e041a5793012bc152b54f20d9</guid><pubDate>Sat, 08 Aug 2026 03:32:42 GMT</pubDate><description>&lt;p&gt;英伟达正将触角深入AI基础设施的最底层——&lt;strong&gt;电力供应&lt;/strong&gt;。这家芯片巨头计划向Blackstone支持的电力基础设施开发商Lancium投资最高30亿美元，以锁定数吉瓦的电力资源，为其芯片客户的数据中心项目提供保障。&lt;/p&gt;
-&lt;p&gt;据科技媒体The Information于8月7日报道，&lt;strong&gt;英伟达已同意向Lancium投资20亿美元，并承诺在该开发商完成额外电力接入里程碑后再追加10亿美元。初始20亿美元将赋予英伟达约20%的股权，若追加投资落地，持股比例将升至约30%。&lt;/strong&gt;此次交易对Lancium的企业价值估值约为100亿美元，含债务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这笔投资的战略意图直指AI数据中心的核心瓶颈：能源。&lt;/strong&gt;Lancium是OpenAI与Oracle在德克萨斯州Abilene建设的&amp;quot;星际之门&amp;quot;AI园区背后的电力基础设施提供商，已在德克萨斯电网上锁定并开发4吉瓦电力，另有15吉瓦待接入项目正在推进。报道称，对英伟达而言，&lt;strong&gt;入股Lancium意味着为其庞大的芯片客户群提前卡位稀缺的电力资源&lt;/strong&gt;。&lt;/p&gt;
-交易结构：分阶段入股，与电力里程碑挂钩
-&lt;p&gt;据报道，知情人士透露，英伟达此次投资分两步走。首笔20亿美元直接换取Lancium约20%股权；剩余10亿美元的释放则与Lancium旗下园区达成特定门槛挂钩，包括完成电网接入等条件，届时英伟达持股比例将增至约30%。&lt;/p&gt;
-&lt;p&gt;值得注意的是，此次投资为纯股权入股，不涉及数据中心建设及租赁的信贷担保。报道指出，知情人士表示，英伟达正在为其他项目考虑提供信贷担保，包括一个涉及OpenAI和软银、规模达10吉瓦的俄亥俄州大型数据中心项目。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lancium交易是英伟达近期大规模投资攻势的最新一笔。&lt;/strong&gt;据The Information报道，在截至今年4月的季度内，英伟达向私人企业和基础设施基金共投入186亿美元，超过此前整整一年的投资总额。&lt;/p&gt;
-&lt;p&gt;仅今年以来，英伟达已分别向云计算服务商CoreWeave和Nebius各开出20亿美元支票，并向网络设备公司Lumentum、Coherent以及半导体企业Marvell完成投资。这一系列动作表明，英伟达正从芯片销售商向AI基础设施生态的核心投资方加速转型。&lt;/p&gt;
-Lancium的资产版图：从&amp;quot;星际之门&amp;quot;到多个德克萨斯项目
-&lt;p&gt;据报道，Lancium已锁定的4吉瓦电力合同涵盖多个重量级项目：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;其中1.2吉瓦供应OpenAI与Oracle在Abilene的园区，即&amp;quot;星际之门&amp;quot;计划的核心算力节点；900兆瓦用于合作伙伴Crusoe在Abilene为微软建设的新数据中心；QTS Data Centers近期在德克萨斯州Turkey签约了1吉瓦；Crusoe在Childress另有1吉瓦项目在建。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在已锁定资产之外，&lt;strong&gt;Lancium还在德克萨斯州布局了潜在可承载15吉瓦电力的土地，目前正等待电网接入许可。&lt;/strong&gt;该公司还在为2035年前开发更多电力土地奠定基础，有望受益于德克萨斯州一条拟建的超高压输电网络。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;就在交易消息传出前后，一个潜在变数浮现。&lt;/strong&gt;德克萨斯州州长Greg Abbott于本周一下令暂停新数据中心的电网接入申请，要求相关项目接受进一步审查。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一政策动向给Lancium的扩张时间表带来不确定性。&lt;/strong&gt;不过，报道称，知情人士指出，Lancium待接入的15吉瓦项目处于相对有利的位置——其合作电力公司American Electric Power已完成向其园区供电所需的线路研究，&lt;strong&gt;这意味着相关项目在审批流程上具备先发优势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;另外，此次融资也为Lancium的资本市场计划提供了支撑。据报道，两位知情人士透露，Lancium正考虑于2027年启动IPO，&lt;strong&gt;若成行，将跟随Switch、CyrusOne等数据中心及基础设施开发商的上市步伐。&lt;/strong&gt;英伟达的入股不仅为其提供了充裕资金以扩大业务规模，也在一定程度上为其潜在上市背书。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对AAOI财报与光模块机遇的思考</title><link>http://xueqiu.com/5332385101/404230992</link><guid>24c91059395f9b03f87a9f3da1eddcb93069a9564fa74c82966c77623404d8d1</guid><pubDate>Sat, 08 Aug 2026 04:30:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，美7月非农就业数据公布（减少2.3万人），大幅偏离市场预期（增加8万人）。叠加前两个月数据的向下修正，劳动市场降温打压了美联储今年加息的概率。&lt;/p&gt;</description></item><item><title>[今日雪球] ADC药物的增量机会</title><link>http://xueqiu.com/3770558188/404166088</link><guid>04308a2fe0a38d536e1b176e77d326d3d0f76ad058b180b9f439eb68f209c81e</guid><pubDate>Sat, 08 Aug 2026 04:33:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;青侨阳光&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文为&lt;a href="https://xueqiu.com/S/P000385"&gt;$青侨阳光(P000385)$&lt;/a&gt; 6月报，投资思考部分节选~&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;分析认为，这一评级上调与Palantir股价的强势表现相互印证，表明机构投资者对其商业模式的可持续性信心正在重建。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对AAOI财报与光模块机遇的思考</title><link>http://xueqiu.com/5332385101/404230992</link><guid>24c91059395f9b03f87a9f3da1eddcb93069a9564fa74c82966c77623404d8d1</guid><pubDate>Sat, 08 Aug 2026 04:30:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，美7月非农就业数据公布（减少2.3万人），大幅偏离市场预期（增加8万人）。叠加前两个月数据的向下修正，劳动市场降温打压了美联储今年加息的概率。&lt;/p&gt;</description></item><item><title>[今日雪球] ADC药物的增量机会</title><link>http://xueqiu.com/3770558188/404166088</link><guid>04308a2fe0a38d536e1b176e77d326d3d0f76ad058b180b9f439eb68f209c81e</guid><pubDate>Sat, 08 Aug 2026 04:33:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;青侨阳光&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文为&lt;a href="https://xueqiu.com/S/P000385"&gt;$青侨阳光(P000385)$&lt;/a&gt; 6月报，投资思考部分节选~&lt;/p&gt;</description></item></channel></rss>
