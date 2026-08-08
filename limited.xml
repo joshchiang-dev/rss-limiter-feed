@@ -1,25 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 04:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] AAOI业绩爆了，带飞整个光通信</title><link>https://wallstreetcn.com/articles/3778985</link><guid>93170fbd491626a02f352c764fcbb3a8a69b8c253ed3141177d85129c310b9bc</guid><pubDate>Sat, 08 Aug 2026 01:50:50 GMT</pubDate><description>&lt;p&gt;美国光模块制造商Applied Optoelectronics一份超预期财报，在周五点燃了整个光通信板块。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778920"&gt;最新财报显示&lt;/a&gt;，AAOI二季度营收同比增长86%至1.919亿美元，数据中心业务首次突破亿元大关，非GAAP每股收益0.06美元，高于此前指引区间上限。公司同步给出三季度营收指引2.55亿至2.90亿美元，并维持全年约11亿美元目标。消息提振市场情绪，Coherent当日大涨13%，Lumentum和康宁分别上涨6%和5%，AAOI自身股价亦上涨9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;强劲业绩被市场解读为整个光通信赛道的积极信号。分析师认为，&lt;strong&gt;AAOI的超预期表现，对同样深度布局AI数据中心光互联的Lumentum和Coherent构成利好预示——两家公司均将于下周公布财报&lt;/strong&gt;，且均获英伟达持股背书，分析师预计两家公司将在AI需求强劲的背景下，继续录得营收与利润的双重增长。&lt;/p&gt;
-&lt;p&gt;光学收发器是数据中心光纤传输网络的核心元器件，Coherent、Applied Optoelectronics、Lumentum和康宁均在这一产业链中扮演关键角色。&lt;strong&gt;随着AI基础设施投资持续扩张，上述公司被市场视为受益于算力建设浪潮的&amp;quot;镐与铲&amp;quot;标的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;另外，&lt;a href="https://wallstreetcn.com/articles/3778735"&gt;财经杂志&lt;/a&gt;8月5日消息，据媒体8月4日报道，知情人士透露，美国联邦通信委员会（FCC）正草拟新规，计划禁止进口产自中国的新款光模块。不过，机构认为，此政策难以落地，即使落地影响也有限。中信、国盛等券商指出，全球高速光模块高度依赖中国厂商，北美需求难以脱离中国产能。&lt;/p&gt;
-数据中心破亿，800G成新增长主线
-&lt;p&gt;华尔街见闻文章写道，AAOI财报显示，数据中心业务首破亿元大关，而在数据中心业务加速增长的同时，CATV业务仍是AAOI当前收入结构的重要组成部分。&lt;/p&gt;
-&lt;p&gt;管理层预计，三季度CATV收入将升至1亿至1.1亿美元，全年收入预计超过3.25亿美元。Mediacom已选择AAOI作为其DOCSIS 4.0网络升级的主要供应商，相关产品包括1.8GHz智能放大器和软件方案。&lt;/p&gt;
-&lt;p&gt;从产品结构看，400G收入4840万美元，同比增长超四倍，仍是当前数据中心业务的重要支柱。但&lt;strong&gt;800G的变化更具指示意义——二季度800G收入1280万美元，同比增逾十倍，环比增长超过一倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;管理层预计，800G收入将在三季度接近环比五倍增长，表明公司数据中心产品的增长重心正由100G、400G加速切换至更高速率产品。&lt;/p&gt;
-产能扩张近10倍，德州成主力基地
-&lt;p&gt;值得关注的是，&lt;a href="https://wallstreetcn.com/articles/3778954"&gt;华尔街见闻文章&lt;/a&gt;写道&lt;strong&gt;，&lt;/strong&gt;AAOI管理层在电话会上明确表示，当前客户需求较公司供应能力高出约20%至40%，需求端已不构成增长瓶颈。制约收入爬坡的核心变量，已转移至产能建设进度、关键器件供应保障，以及1.6T产品的客户认证节奏。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这是本次电话会最受市场关注的核心数据。&lt;/strong&gt;CFO Stefan Murry给出了三个明确时间节点：当前800G和1.6T月产能已接近20万片，高于一季度末的约10万片；到2026年底，月产能将超过65万片；到2027年底，月产能将进一步提升至超过93万片，其中超过一半产能来自德克萨斯州。&lt;/p&gt;
-&lt;p&gt;1.6T产品是市场高度关注的另一增长极。林宗男在电话会上确认，AAOI将成为某大型超大规模数据中心客户的第四家获得1.6T认证的供应商，认证预计在两至三周内完成，三季度后期开始发货，四季度进入放量阶段。&lt;/p&gt;
-&lt;p&gt;公司CEO Chih-Hsiang (Thompson) Lin对四季度1.6T收入给出了明确预期：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们仍然相信，第四季度1.6T收发器的收入可以超过7000万美元……明年第一季度应该会好得多。如果翻一番，我也不会感到惊讶。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;管理层同时描绘了更长期的路径：&lt;strong&gt;到2027年中，100G及400G产品月收入约9000万美元，800G月收入约2.17亿美元，1.6T月收入约1.64亿美元，数据中心收发器月收入合计将达约4.71亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，这一路径的实现依赖于设备安装、客户认证、材料供应和制造良率等多个条件协同推进。林宗男坦承，1.6T关键部件DSP、TIA供应仍较紧张，四季度1.6T交付的主要约束来自材料而非产能本身。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%</title><link>https://wallstreetcn.com/articles/3778924</link><guid>d1af7a14162d843a7e05721bbd7b5fab54e5e178d7b911b7dc119e11a431c398</guid><pubDate>Fri, 07 Aug 2026 23:05:58 GMT</pubDate><description>&lt;p&gt;就业市场意外走弱，为美联储维持利率按兵不动提供了依据，推动美股本周强势收涨。2年期美债收益率下行5个基点，美元指数下跌。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 04:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%</title><link>https://wallstreetcn.com/articles/3778924</link><guid>d1af7a14162d843a7e05721bbd7b5fab54e5e178d7b911b7dc119e11a431c398</guid><pubDate>Fri, 07 Aug 2026 23:05:58 GMT</pubDate><description>&lt;p&gt;就业市场意外走弱，为美联储维持利率按兵不动提供了依据，推动美股本周强势收涨。2年期美债收益率下行5个基点，美元指数下跌。&lt;/p&gt;
 &lt;p&gt;据报美国将在达成霍尔木兹海峡协议、恢复航运后解除对伊朗港口的封锁，油价随之回落，进一步缓和了市场对通胀的顾虑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国7月非农就业意外减少2.3万，远低于市场预期的增加8万，5月和6月数据合计下修10.3万，劳动参与率降至五年多最低。就业爆冷令9月加息概率从55%骤降至44%，10年期美债收益率从4.68%跳水至4.65%，美元指数跌破99.5。&lt;/strong&gt;&lt;/p&gt;
@@ -166,7 +146,27 @@ AI财报狂欢：Atlassian暴涨31%，Cloudflare创新高，软件股两周飙19
 &lt;/li&gt;
 &lt;li&gt;板块方面，STOXX 600科技指数涨6.15%，媒体指数涨5.70%，基础资源指数涨5.18%，金融服务指数涨3.13%，电信指数涨3.05%，工业产品及服务指数涨2.79%。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 爆仓之后，资本反而扑向"AI股神"</title><link>https://wallstreetcn.com/articles/3778984</link><guid>3d5bf1a002f9b1fc2a6be77233c87d37120e46b0edd591c170b3c8019289c6b4</guid><pubDate>Sat, 08 Aug 2026 01:25:01 GMT</pubDate><description>&lt;p&gt;Leopold Aschenbrenner的对冲基金Situational Awareness“爆仓”，但这场危机非但没有吓退投资者，反而在硅谷引发了一轮新的追捧热潮。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AAOI业绩爆了，带飞整个光通信</title><link>https://wallstreetcn.com/articles/3778985</link><guid>93170fbd491626a02f352c764fcbb3a8a69b8c253ed3141177d85129c310b9bc</guid><pubDate>Sat, 08 Aug 2026 01:50:50 GMT</pubDate><description>&lt;p&gt;美国光模块制造商Applied Optoelectronics一份超预期财报，在周五点燃了整个光通信板块。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778920"&gt;最新财报显示&lt;/a&gt;，AAOI二季度营收同比增长86%至1.919亿美元，数据中心业务首次突破亿元大关，非GAAP每股收益0.06美元，高于此前指引区间上限。公司同步给出三季度营收指引2.55亿至2.90亿美元，并维持全年约11亿美元目标。消息提振市场情绪，Coherent当日大涨13%，Lumentum和康宁分别上涨6%和5%，AAOI自身股价亦上涨9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;强劲业绩被市场解读为整个光通信赛道的积极信号。分析师认为，&lt;strong&gt;AAOI的超预期表现，对同样深度布局AI数据中心光互联的Lumentum和Coherent构成利好预示——两家公司均将于下周公布财报&lt;/strong&gt;，且均获英伟达持股背书，分析师预计两家公司将在AI需求强劲的背景下，继续录得营收与利润的双重增长。&lt;/p&gt;
+&lt;p&gt;光学收发器是数据中心光纤传输网络的核心元器件，Coherent、Applied Optoelectronics、Lumentum和康宁均在这一产业链中扮演关键角色。&lt;strong&gt;随着AI基础设施投资持续扩张，上述公司被市场视为受益于算力建设浪潮的&amp;quot;镐与铲&amp;quot;标的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;另外，&lt;a href="https://wallstreetcn.com/articles/3778735"&gt;财经杂志&lt;/a&gt;8月5日消息，据媒体8月4日报道，知情人士透露，美国联邦通信委员会（FCC）正草拟新规，计划禁止进口产自中国的新款光模块。不过，机构认为，此政策难以落地，即使落地影响也有限。中信、国盛等券商指出，全球高速光模块高度依赖中国厂商，北美需求难以脱离中国产能。&lt;/p&gt;
+数据中心破亿，800G成新增长主线
+&lt;p&gt;华尔街见闻文章写道，AAOI财报显示，数据中心业务首破亿元大关，而在数据中心业务加速增长的同时，CATV业务仍是AAOI当前收入结构的重要组成部分。&lt;/p&gt;
+&lt;p&gt;管理层预计，三季度CATV收入将升至1亿至1.1亿美元，全年收入预计超过3.25亿美元。Mediacom已选择AAOI作为其DOCSIS 4.0网络升级的主要供应商，相关产品包括1.8GHz智能放大器和软件方案。&lt;/p&gt;
+&lt;p&gt;从产品结构看，400G收入4840万美元，同比增长超四倍，仍是当前数据中心业务的重要支柱。但&lt;strong&gt;800G的变化更具指示意义——二季度800G收入1280万美元，同比增逾十倍，环比增长超过一倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;管理层预计，800G收入将在三季度接近环比五倍增长，表明公司数据中心产品的增长重心正由100G、400G加速切换至更高速率产品。&lt;/p&gt;
+产能扩张近10倍，德州成主力基地
+&lt;p&gt;值得关注的是，&lt;a href="https://wallstreetcn.com/articles/3778954"&gt;华尔街见闻文章&lt;/a&gt;写道&lt;strong&gt;，&lt;/strong&gt;AAOI管理层在电话会上明确表示，当前客户需求较公司供应能力高出约20%至40%，需求端已不构成增长瓶颈。制约收入爬坡的核心变量，已转移至产能建设进度、关键器件供应保障，以及1.6T产品的客户认证节奏。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是本次电话会最受市场关注的核心数据。&lt;/strong&gt;CFO Stefan Murry给出了三个明确时间节点：当前800G和1.6T月产能已接近20万片，高于一季度末的约10万片；到2026年底，月产能将超过65万片；到2027年底，月产能将进一步提升至超过93万片，其中超过一半产能来自德克萨斯州。&lt;/p&gt;
+&lt;p&gt;1.6T产品是市场高度关注的另一增长极。林宗男在电话会上确认，AAOI将成为某大型超大规模数据中心客户的第四家获得1.6T认证的供应商，认证预计在两至三周内完成，三季度后期开始发货，四季度进入放量阶段。&lt;/p&gt;
+&lt;p&gt;公司CEO Chih-Hsiang (Thompson) Lin对四季度1.6T收入给出了明确预期：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们仍然相信，第四季度1.6T收发器的收入可以超过7000万美元……明年第一季度应该会好得多。如果翻一番，我也不会感到惊讶。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;管理层同时描绘了更长期的路径：&lt;strong&gt;到2027年中，100G及400G产品月收入约9000万美元，800G月收入约2.17亿美元，1.6T月收入约1.64亿美元，数据中心收发器月收入合计将达约4.71亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，这一路径的实现依赖于设备安装、客户认证、材料供应和制造良率等多个条件协同推进。林宗男坦承，1.6T关键部件DSP、TIA供应仍较紧张，四季度1.6T交付的主要约束来自材料而非产能本身。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 爆仓之后，资本反而扑向"AI股神"</title><link>https://wallstreetcn.com/articles/3778984</link><guid>3d5bf1a002f9b1fc2a6be77233c87d37120e46b0edd591c170b3c8019289c6b4</guid><pubDate>Sat, 08 Aug 2026 01:25:01 GMT</pubDate><description>&lt;p&gt;Leopold Aschenbrenner的对冲基金Situational Awareness“爆仓”，但这场危机非但没有吓退投资者，反而在硅谷引发了一轮新的追捧热潮。&lt;/p&gt;
 &lt;p&gt;据彭博社8月8日报道，知情人士透露，就在基金“爆仓”后的短短数日内，大批硅谷投资者主动联系Situational Awareness，表达追加投资意愿。红杉资本合伙人Pat Grady公开表态，称其将长期是硅谷的重要人物。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778476"&gt;华尔街见闻文章&lt;/a&gt;此前写道，Aschenbrenner本人已在致投资者信中承认错误，宣布清除全部杠杆，并将此次危机定性为&amp;quot;代价高昂但无价的教训&amp;quot;。此前，面对融资方的追加保证金通知，Situational Awareness紧急将大部分股票持仓出售给Ken Griffin旗下的Citadel，折价幅度逾10%。&lt;strong&gt;该基金目前剩余资产组合（含私募投资）价值约100亿美元。&lt;/strong&gt;尽管遭遇重创，该基金今年仍录得约80%的正收益。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这场风波将硅谷与华尔街之间的深层分歧暴露无遗。&lt;/strong&gt;华尔街将此视为一个AI热门人物因过度杠杆而付出代价的经典案例；而硅谷的反应则截然相反——许多投资者将其视为&amp;quot;逢低买入&amp;quot;的机会，持续为这位前OpenAI研究员转型的投资人站台。目前，Situational Awareness已告知投资者暂不接受新资金，但外界的热情并未因此消退。&lt;/p&gt;
@@ -270,30 +270,7 @@ Figma：Beta产品免费开放，推理成本全额自担
 &lt;p&gt;报道称，Canva和Figma的案例，揭示了当前AI应用公司普遍面临的一个阶段性矛盾：产品层面的吸引力已经得到验证，但将其转化为可持续盈利模式的路径仍不清晰。&lt;/p&gt;
 &lt;p&gt;两家公司都将自研模型视为破局关键——通过降低对外部高成本模型的依赖，从根本上改善单位经济模型。然而，自研模型的建设周期与市场对业绩增长的即时要求之间，存在难以回避的时间差。&lt;/p&gt;
 &lt;p&gt;分析认为，这两份财报提供了一个重要的参照系：&lt;strong&gt;AI转型的成本，不仅体现在研发投入上，更深层地嵌入在每一次用户调用背后的推理费用之中。在商业化模式尚未成熟之前，这部分成本将持续侵蚀毛利空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;软件公司的AI故事，正在接受第一轮真正意义上的财务体检。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI债务狂潮遭遇“消化不良”，华尔街开始重新审视科技巨头发债热潮</title><link>https://wallstreetcn.com/articles/3778967</link><guid>6e8f68cdc328b1758cad27e0524f03e12a489666ef8662b3421d69f6e9b4b30a</guid><pubDate>Fri, 07 Aug 2026 16:49:58 GMT</pubDate><description>&lt;p&gt;人工智能基础设施投资热潮正持续推高科技巨头的融资需求，也令美国投资级债券市场出现罕见的“消化不良”。&lt;/p&gt;
-&lt;p&gt;今年以来，英伟达、SpaceX、亚马逊等科技巨头相继完成总额数百亿美元的债券融资，&lt;strong&gt;但新债几乎无一例外在发行首日便跌破发行价，二级市场持续走弱。&lt;/strong&gt;面对需求降温，承销商开始调整发行策略，包括提前开展非交易路演、筛选长期投资者，并刻意拉开发行节奏，以缓解市场供给压力。&lt;/p&gt;
-&lt;p&gt;根据彭博汇编的数据，年初至今，亚马逊、Alphabet、英伟达、Meta、甲骨文和SpaceX已累计在美元投资级债券市场融资超过2000亿美元，而去年同期高评级科技公司的融资规模仅约130亿美元。&lt;/p&gt;
-&lt;p&gt;摩根大通投资级融资全球联席负责人John Servidea表示：&lt;strong&gt;银行和发行人面临的最大阻力，是二级市场表现持续疲弱。市场最终能够消化这些发行量，但发行规模和速度已经造成了“消化不良”。&lt;/strong&gt;&lt;/p&gt;
-新债频频破发，二级市场持续承压
-&lt;p&gt;AI融资浪潮带来的供给激增，已明显压制新债表现。&lt;/p&gt;
-&lt;p&gt;SpaceX今年6月完成250亿美元债券发行后，新债迅速走弱，交易员认为主要原因是快钱账户获配后迅速获利了结。7月初，亚马逊发行250亿美元债券，其10年期债券信用利差在交易后数日内最多扩大7个基点；英伟达同规模债券的10年期部分，首周利差也走宽约5个基点。&lt;/p&gt;
-&lt;p&gt;彭博数据显示，&lt;strong&gt;正常情况下，美国投资级债券约三分之二的新券会在发行后的几天内实现信用利差收窄，而近期大型科技公司债券却普遍逆势走弱，明显偏离历史规律。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面对持续疲软的二级市场，承销商开始主动调整发行策略。&lt;/p&gt;
-&lt;p&gt;据彭博，&lt;strong&gt;部分发行人在正式启动交易前增加非交易路演，提前测试投资者需求和可接受的定价区间；与此同时，承销银行也开始淡化大型科技债的发行安排，不再将巨额交易纳入每周发行预测，以避免提前暴露融资计划，引发市场担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DoubleLine投资组合经理Mariya Entina表示，一家正在筹备200亿美元融资的银行，通常不会主动提高市场对周度发行规模的预期，因为这不仅会暴露其参与项目，也可能令投资者提前降低风险敞口。&lt;/p&gt;
-精选长期资金，成为稳定新债表现的新策略
-&lt;p&gt;除了调整发行节奏，承销商也开始更加重视投资者结构。&lt;/p&gt;
-&lt;p&gt;贝莱德为Meta数据中心项目筹集125亿美元融资时，承销商摩根大通和摩根士丹利&lt;strong&gt;在配售过程中有意提高养老基金、保险公司等投资者的获配比例，同时减少短线交易账户参与。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一策略取得了明显效果。债券发行完成后，新债信用利差很快收窄，二级市场表现明显好于此前几笔大型科技融资。虽然认购倍数低于市场平均水平，但长期资金占比提升，有效稳定了债券价格。&lt;/p&gt;
-&lt;p&gt;不过，发行人也为此付出了更高成本。据报道，贝莱德不得不提供更高的发行溢价，以吸引长期资金参与。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;越来越多科技公司开始主动向市场管理融资预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Alphabet近期表示，本次债券发行将是其今年美国市场最后一次融资，并通过提供额外收益率让步来提振需求；Meta在4月完成250亿美元融资时，也向投资者明确表示至少第四季度前不会再次发债，据知情人士称，这一表态帮助稳定了当时的市场需求；甲骨文则在今年2月发行时告诉投资者，预计2026年不会重返债市。&lt;/p&gt;
-AI融资潮仍未结束，供给压力或进一步加剧
-&lt;p&gt;尽管市场已显露疲态，AI数据中心融资需求仍在快速增长。据彭博，以摩根士丹利为首的银行正为Anthropic德州数据中心项目筹组约150亿美元债务融资，该项目获得Alphabet旗下谷歌支持。&lt;/p&gt;
-&lt;p&gt;据报道援引一位匿名银行人士预计，美国劳工节（9月7日）过后，超大规模云计算和数据中心运营商还将集中推出500亿至600亿美元的新融资需求；如果不是部分发行人主动推迟融资计划，以等待市场消化现有供给，这一规模可能还会更高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;供给压力也开始向高收益债市场蔓延。&lt;/strong&gt;数据中心运营商CoreWeave已更多转向杠杆贷款市场融资；与此同时，高盛正与投资者洽谈一笔约54亿美元融资，用于支持黑石旗下、与微软相关的QTS数据中心项目。&lt;/p&gt;
-&lt;p&gt;即便进入传统发行淡季，融资节奏仍未明显放缓。上月底，Equinix xScale完成了一笔以英国斯劳两座数据中心为抵押的英镑债券发行，并直接锁定发行利差，跳过了通常的初始定价指引环节。&lt;/p&gt;
-&lt;p&gt;面对源源不断的供给，投资者态度也趋于谨慎。Canada Life Asset Management固定收益基金经理Kshitij Sinha表示：考虑到每一家超大规模科技公司的资本开支计划，当前并不急于增加配置。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击</title><link>https://wallstreetcn.com/articles/3778982</link><guid>7426a08fe9d8a07d5668096084b4dfde8629b9a682b28404cb11733e5486a8fd</guid><pubDate>Sat, 08 Aug 2026 00:31:54 GMT</pubDate><description>&lt;p&gt;人工智能基础设施投资正以历史罕见的速度重塑全球资本支出格局，其潜在的宏观风险同样不容忽视。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软件公司的AI故事，正在接受第一轮真正意义上的财务体检。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 寒武纪二季度不及预期的收入之外，还有没有看点？</title><link>http://xueqiu.com/8537206007/404217640</link><guid>e89af676f0958dbeda9ee336c83130ec1b54a4b168157c2e318c95348f95d412</guid><pubDate>Sat, 08 Aug 2026 04:30:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贝影Alpha&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;要点：&lt;/b&gt;确认节奏导致收入miss、主动更换供应商导致供应链短期受堵、“存货+预付款”111.62亿接近疯狂、下半年集中交付&lt;/p&gt;</description></item><item><title>[华尔街见闻] Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击</title><link>https://wallstreetcn.com/articles/3778982</link><guid>7426a08fe9d8a07d5668096084b4dfde8629b9a682b28404cb11733e5486a8fd</guid><pubDate>Sat, 08 Aug 2026 00:31:54 GMT</pubDate><description>&lt;p&gt;人工智能基础设施投资正以历史罕见的速度重塑全球资本支出格局，其潜在的宏观风险同样不容忽视。&lt;/p&gt;
 &lt;p&gt;本周据Apollo Management首席经济学家Torsten Slok的分析，主要超大规模云计算企业的资本支出预计将从2025年占GDP的1.4%攀升至2027至2029年间的约3%，届时将超过1990年代末电信与光纤建设潮峰值的两倍以上。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这一轮投资热潮在绝对规模上虽仍低于2005年住房繁荣期的峰值，但在占GDP份额的累计涨幅及建设速度两项指标上，均已超越此前任何一轮资本支出周期。&lt;/strong&gt;&lt;/p&gt;
@@ -467,4 +444,43 @@ AI融资潮仍未结束，供给压力或进一步加剧
 &lt;p&gt;2023年，投资者对政府持续扩大的中长期债券拍卖规模愈发忧虑，30年期收益率一度在10月攀升至近5.18%的高位。同年11月，财政部出人意料地收窄了最长期限国债的拍卖增量，触发一轮美债显著反弹，30年期收益率至当年底回落至略高于4%的水平。&lt;/p&gt;
 &lt;p&gt;彼时，贝森特曾批评拜登政府此举具有政治动机——恰在2024年大选前夕。&lt;/p&gt;
 &lt;p&gt;法国巴黎银行美国利率策略主管Guneet Dhingra今年1月曾表示，削减长期拍卖规模是&amp;quot;为数不多的能有效压低收益率的路径之一&amp;quot;。他目前表示，&amp;quot;从逻辑和分析角度看，削减确实有其合理性。&amp;quot;&lt;/p&gt;
-&lt;p&gt;然而Dhingra同时警告，财政部若以渐进方式释放信号，反而会耗散政策效力。&amp;quot;通过逐步铺垫来引导市场预期票面债券削减，他们将失去2023年那种&amp;#x27;震撼性&amp;#x27;效果。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;然而Dhingra同时警告，财政部若以渐进方式释放信号，反而会耗散政策效力。&amp;quot;通过逐步铺垫来引导市场预期票面债券削减，他们将失去2023年那种&amp;#x27;震撼性&amp;#x27;效果。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元只是暂时稳住，中期选举后怎么办？</title><link>https://wallstreetcn.com/articles/3778986</link><guid>490370e934e5687fbfc5a95942a8e2bc15025161589d2cf6fb3f2aca6f255874</guid><pubDate>Sat, 08 Aug 2026 02:35:45 GMT</pubDate><description>&lt;p&gt;美日联手干预外汇市场，日元短暂企稳——但这场救市行动的真实动机，或许并不只是稳定汇率本身。&lt;/p&gt;
+&lt;p&gt;多位分析人士指出，此次干预的时间窗口与美国中期选举的政治日历高度吻合。8月6日，前华尔街基金经理、宏观分析师Ed Dowd撰文直言：&lt;strong&gt;干预的核心逻辑，是将美债收益率骤升的风险推迟至中期选举之后&lt;/strong&gt;——在政治敏感期维持市场稳定，符合执政党的切身利益。&lt;/p&gt;
+&lt;p&gt;这意味着，支撑此次干预的力量，有相当一部分来自短期政治考量，而非长期经济逻辑。那么问题随之而来：&lt;strong&gt;中期选举一旦结束，这股政治驱动力消失之后，日元还能撑住吗？&lt;/strong&gt;&lt;/p&gt;
+干预效果：短期奏效，长期存疑
+&lt;p&gt;&lt;strong&gt;此次干预在市场层面取得了立竿见影的效果。日&lt;/strong&gt;元从163.65的低点回升至159.09附近，创下2月以来最大单周涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美国财长贝森特（Scott Bessent）于8月2日公开确认了这一协调行动，并明确表示&amp;quot;不会犹豫参与进一步的联合干预&amp;quot;。&lt;/p&gt;
+&lt;p&gt;然而，市场人士普遍将其定性为&lt;strong&gt;治标不治本&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;历史经验表明，官方外汇干预若缺乏基本面政策的配合，效果往往难以持久。每一轮干预所需的规模不断扩大，而边际效果却在递减。Dowd在其Substack专栏中警告：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;官员们可以发出信号并持续买入一段时间，但若没有日本政策的持续跟进，日元最终将再度走弱，迫使当局进行规模更大、频率更高的干预。每一轮干预都在提升引发当局竭力规避的资产波动与流动性事件的风险。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+干预的真实目的：保住美债，而非保住日元
+&lt;p&gt;要理解此次行动的深层逻辑，需要从日本的角色说起。&lt;/p&gt;
+&lt;p&gt;日本是美国国债最大的境外持有国之一，持仓规模超过&lt;strong&gt;1万亿美元&lt;/strong&gt;。当日元大幅贬值时，日本当局面临动用外汇储备、抛售美债以捍卫本币的压力——这将直接推高美债收益率。在当前美国财政赤字高企的背景下，收益率骤升的后果尤为棘手。&lt;/p&gt;
+&lt;p&gt;换言之，&lt;strong&gt;此次干预的直接导火索，是日元贬值所引发的美债抛售风险，而非日元本身。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;贝森特在Steve Bannon的节目中援引亚洲金融危机的历史教训，将此次行动定性为&amp;quot;在危机蔓延前将其扼杀&amp;quot;的预防性举措：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;触发亚洲金融危机的原因之一，正是日元极度疲软，引发了席卷泰国、印度尼西亚和马来西亚的海啸。紧急情况就是阻止一场紧急情况的发生。我们不必等到危机爆发，可以提前化解。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;值得注意的是，据路透社报道，美国财政部在干预前已通过纽约联储向多家银行发出通知，要求其&amp;quot;随时准备好应对后续行动&amp;quot;——这一罕见的提前知会安排，显示出此次行动背后高度的政治协调意图。&lt;/p&gt;
+FIMA扩容：一场隐形的收益率曲线管理
+&lt;p&gt;此次干预的另一关键举措，是贝森特明确支持扩大&lt;strong&gt;FIMA（外国和国际货币当局）回购便利&lt;/strong&gt;规模。&lt;/p&gt;
+&lt;p&gt;该机制允许日本等外国央行将持有的美国国债作为抵押品，向美联储借入美元流动性，而&lt;strong&gt;无需将国债直接抛售至公开市场&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;分析人士指出，这一安排实质上是一种低调的收益率曲线管理工具——通过让日本以国债换取美元，而非直接出售国债，当局有效压制了美债收益率的上行压力，却无需美联储公开宣布新一轮量化宽松。&lt;/p&gt;
+&lt;p&gt;这种&amp;quot;隐形&amp;quot;操作在政治上更易被接受，但其本质&lt;strong&gt;与收益率曲线控制并无二致&lt;/strong&gt;。&lt;/p&gt;
+套息交易：悬在市场头顶的达摩克利斯之剑
+&lt;p&gt;干预带来的另一重风险，同样不可忽视。&lt;/p&gt;
+&lt;p&gt;日元套息交易是当前全球金融市场最重要的结构性风险之一。长期以来，低利率的日元被大量用于融资——投资者借入日元，换成高息货币资产，形成庞大的套息头寸。&lt;strong&gt;一旦日元快速升值，这些头寸的融资成本骤升，可能引发大规模强制平仓，波及全球股票、债券及其他风险资产。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年8月提供了一个近期参照：彼时日元在短期内升值约10%，日本股市及全球风险资产随即出现剧烈波动。而此次干预已推动日元升值约5%，市场目前反应尚属平稳，但后续走势仍需高度警惕。&lt;/p&gt;
+&lt;p&gt;Dowd将当局当前面临的处境描述为一个两难困境：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;既不希望日元继续贬值迫使日本抛售美债，也不希望日元升值过快引发套息交易的级联式平仓。厨师们正在厨房里忙碌，这是一道需要精心烹制的菜肴。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+结构性矛盾未解：中期选举后，考验才真正开始
+&lt;p&gt;此次干预最根本的局限，在于它&lt;strong&gt;没有触及日元疲软的任何结构性原因&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;日本长期维持超宽松货币政策，与美联储的利率差距悬殊——这一利差，才是驱动日元持续走弱的核心力量。与此同时，日本公共债务占GDP比率高居全球前列，财政空间极为有限，日本央行的政策正常化之路充满制约。&lt;/p&gt;
+&lt;p&gt;若日本央行无法持续加息、财政纪律未能显著改善，日元最终仍将面临重新走弱的压力。&lt;/p&gt;
+&lt;p&gt;而更关键的问题在于&lt;strong&gt;政治动力的消退&lt;/strong&gt;：中期选举结束后，推动此次干预的政治意愿是否依然存在？若届时日本结构性问题仍未解决，而干预效果已然消退，市场将面临比今天更为严峻的考验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日元或许只是暂时稳住了。真正的压力测试，在选举之后。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对AAOI财报与光模块机遇的思考</title><link>http://xueqiu.com/5332385101/404230992</link><guid>24c91059395f9b03f87a9f3da1eddcb93069a9564fa74c82966c77623404d8d1</guid><pubDate>Sat, 08 Aug 2026 04:30:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，美7月非农就业数据公布（减少2.3万人），大幅偏离市场预期（增加8万人）。叠加前两个月数据的向下修正，劳动市场降温打压了美联储今年加息的概率。&lt;/p&gt;</description></item><item><title>[今日雪球] ADC药物的增量机会</title><link>http://xueqiu.com/3770558188/404166088</link><guid>04308a2fe0a38d536e1b176e77d326d3d0f76ad058b180b9f439eb68f209c81e</guid><pubDate>Sat, 08 Aug 2026 04:33:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;青侨阳光&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文为&lt;a href="https://xueqiu.com/S/P000385"&gt;$青侨阳光(P000385)$&lt;/a&gt; 6月报，投资思考部分节选~&lt;/p&gt;</description></item></channel></rss>
