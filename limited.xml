@@ -1,25 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 13:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] AAOI业绩爆了，带飞整个光通信</title><link>https://wallstreetcn.com/articles/3778985</link><guid>93170fbd491626a02f352c764fcbb3a8a69b8c253ed3141177d85129c310b9bc</guid><pubDate>Sat, 08 Aug 2026 01:50:50 GMT</pubDate><description>&lt;p&gt;美国光模块制造商Applied Optoelectronics一份超预期财报，在周五点燃了整个光通信板块。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3778920"&gt;最新财报显示&lt;/a&gt;，AAOI二季度营收同比增长86%至1.919亿美元，数据中心业务首次突破亿元大关，非GAAP每股收益0.06美元，高于此前指引区间上限。公司同步给出三季度营收指引2.55亿至2.90亿美元，并维持全年约11亿美元目标。消息提振市场情绪，Coherent当日大涨13%，Lumentum和康宁分别上涨6%和5%，AAOI自身股价亦上涨9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;强劲业绩被市场解读为整个光通信赛道的积极信号。分析师认为，&lt;strong&gt;AAOI的超预期表现，对同样深度布局AI数据中心光互联的Lumentum和Coherent构成利好预示——两家公司均将于下周公布财报&lt;/strong&gt;，且均获英伟达持股背书，分析师预计两家公司将在AI需求强劲的背景下，继续录得营收与利润的双重增长。&lt;/p&gt;
-&lt;p&gt;光学收发器是数据中心光纤传输网络的核心元器件，Coherent、Applied Optoelectronics、Lumentum和康宁均在这一产业链中扮演关键角色。&lt;strong&gt;随着AI基础设施投资持续扩张，上述公司被市场视为受益于算力建设浪潮的&amp;quot;镐与铲&amp;quot;标的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;另外，&lt;a href="https://wallstreetcn.com/articles/3778735"&gt;财经杂志&lt;/a&gt;8月5日消息，据媒体8月4日报道，知情人士透露，美国联邦通信委员会（FCC）正草拟新规，计划禁止进口产自中国的新款光模块。不过，机构认为，此政策难以落地，即使落地影响也有限。中信、国盛等券商指出，全球高速光模块高度依赖中国厂商，北美需求难以脱离中国产能。&lt;/p&gt;
-数据中心破亿，800G成新增长主线
-&lt;p&gt;华尔街见闻文章写道，AAOI财报显示，数据中心业务首破亿元大关，而在数据中心业务加速增长的同时，CATV业务仍是AAOI当前收入结构的重要组成部分。&lt;/p&gt;
-&lt;p&gt;管理层预计，三季度CATV收入将升至1亿至1.1亿美元，全年收入预计超过3.25亿美元。Mediacom已选择AAOI作为其DOCSIS 4.0网络升级的主要供应商，相关产品包括1.8GHz智能放大器和软件方案。&lt;/p&gt;
-&lt;p&gt;从产品结构看，400G收入4840万美元，同比增长超四倍，仍是当前数据中心业务的重要支柱。但&lt;strong&gt;800G的变化更具指示意义——二季度800G收入1280万美元，同比增逾十倍，环比增长超过一倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;管理层预计，800G收入将在三季度接近环比五倍增长，表明公司数据中心产品的增长重心正由100G、400G加速切换至更高速率产品。&lt;/p&gt;
-产能扩张近10倍，德州成主力基地
-&lt;p&gt;值得关注的是，&lt;a href="https://wallstreetcn.com/articles/3778954"&gt;华尔街见闻文章&lt;/a&gt;写道&lt;strong&gt;，&lt;/strong&gt;AAOI管理层在电话会上明确表示，当前客户需求较公司供应能力高出约20%至40%，需求端已不构成增长瓶颈。制约收入爬坡的核心变量，已转移至产能建设进度、关键器件供应保障，以及1.6T产品的客户认证节奏。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这是本次电话会最受市场关注的核心数据。&lt;/strong&gt;CFO Stefan Murry给出了三个明确时间节点：当前800G和1.6T月产能已接近20万片，高于一季度末的约10万片；到2026年底，月产能将超过65万片；到2027年底，月产能将进一步提升至超过93万片，其中超过一半产能来自德克萨斯州。&lt;/p&gt;
-&lt;p&gt;1.6T产品是市场高度关注的另一增长极。林宗男在电话会上确认，AAOI将成为某大型超大规模数据中心客户的第四家获得1.6T认证的供应商，认证预计在两至三周内完成，三季度后期开始发货，四季度进入放量阶段。&lt;/p&gt;
-&lt;p&gt;公司CEO Chih-Hsiang (Thompson) Lin对四季度1.6T收入给出了明确预期：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们仍然相信，第四季度1.6T收发器的收入可以超过7000万美元……明年第一季度应该会好得多。如果翻一番，我也不会感到惊讶。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;管理层同时描绘了更长期的路径：&lt;strong&gt;到2027年中，100G及400G产品月收入约9000万美元，800G月收入约2.17亿美元，1.6T月收入约1.64亿美元，数据中心收发器月收入合计将达约4.71亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，这一路径的实现依赖于设备安装、客户认证、材料供应和制造良率等多个条件协同推进。林宗男坦承，1.6T关键部件DSP、TIA供应仍较紧张，四季度1.6T交付的主要约束来自材料而非产能本身。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻</title><link>https://wallstreetcn.com/articles/3778993</link><guid>92424002258a3a0f29f324a30e4f077f6f5ab27d50767e1c3dd17160a0e52148</guid><pubDate>Sat, 08 Aug 2026 13:12:23 GMT</pubDate><description>&lt;p&gt;伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 08 Aug 2026 13:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻</title><link>https://wallstreetcn.com/articles/3778993</link><guid>92424002258a3a0f29f324a30e4f077f6f5ab27d50767e1c3dd17160a0e52148</guid><pubDate>Sat, 08 Aug 2026 13:12:23 GMT</pubDate><description>&lt;p&gt;伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。&lt;/p&gt;
 &lt;p&gt;8月8日，伯克希尔公布的最新数据显示，受益于股票投资组合未实现收益大幅回升，&lt;strong&gt;二季度GAAP口径净利润同比几乎翻倍，达256.67亿美元&lt;/strong&gt;，较上年同期的123.70亿美元增长约107%。上半年净利润为357.73亿美元，&lt;strong&gt;同比增长约111%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;公司二季度回购约45亿美元自家股票，为股东带来了自2021年以来规模最大的季度股东回报，&lt;/strong&gt;远高于一季度的2.35亿美元。上半年累计回购规模约48亿美元。&lt;/p&gt;
