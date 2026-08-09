@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 15:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 15:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
 &lt;p&gt;研究机构Semianalysis最新报告指出&lt;strong&gt;，SpaceX有望在2027年底前新增逾10GW算力，并由此撬动高达3000亿美元的年度经常性收入（ARR），微软将成为其最大客户。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此前，马斯克在SpaceX首次业绩发布会上宣布，&lt;strong&gt;公司&amp;quot;保守&amp;quot;目标是在2027年单年新建并交付6至8GW增量算力，上行空间可能超过10GW。&lt;/strong&gt;按每GW 500亿美元的资本开支测算，这意味着2027年的资本支出规模将达3000亿至5000亿美元，与AWS和谷歌的预期投入相当——对于一家盈利能力远不及主流超大规模云厂商的公司而言，这是一个令市场震惊的数字。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -69,33 +69,6 @@ AAOI业绩超预期，点燃光通信板块
 &lt;p&gt;财报显示，公司上半年经营活动产生的现金流量净额为-21.69亿元，上年同期为-11.64亿元，主要系扩大产品生产规模、经营性采购支出增加所致。&lt;/p&gt;
 &lt;p&gt;资产负债方面，截至报告期末，摩尔线程存货账面价值为35.50亿元，占总资产比重达20.97%，较上年末增长166.48%；预付款项为13.44亿元。公司在财报中说明，受内外部环境变化及相关政策影响，公司积极调整供应链策略，为应对市场需求增长及保障供应链稳定，主动增加备货，并按行业惯例向上游提前订货并预付一定比例货款。报告期内，公司计提了3904.77万元的资产减值损失，主要为存货跌价损失及合同履约成本减值。&lt;/p&gt;
 &lt;p&gt;在披露半年报的同时，摩尔线程宣布，公司正筹划发行H股股票并在香港联合交易所有限公司主板上市。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI推理前瞻——从基础设施建设到商业化变现</title><link>https://wallstreetcn.com/articles/3778997</link><guid>7aa3d4632e36a58d5e6ec68a91f867733ef469dc0da90ef85410cd8c63e5bad4</guid><pubDate>Sun, 09 Aug 2026 03:48:46 GMT</pubDate><description>&lt;p&gt;AI基础设施的主线正在从“建设”转向“变现”，但这不是资本开支见顶的故事。&lt;/p&gt;
-&lt;p&gt;AI推理Token成本从5月峰值&lt;strong&gt;暴跌37.5%至1.33美元/百万Token&lt;/strong&gt;，同期Blackwell GPU租金&lt;strong&gt;逆势上涨15.2%至5.18美元/小时&lt;/strong&gt;。供给侧涨价、消费侧降价，AI产业正进入推理经济的&amp;quot;剪刀差&amp;quot;阶段。&lt;strong&gt;电力、许可和劳动力的三重约束，正将原本预期3年完成的产能扩张拉长到5至10年&lt;/strong&gt;——建设远未结束，但变现路径已经打开。&lt;/p&gt;
-&lt;p&gt;花旗分析师Heath Terry在最新AI行业周度跟踪中判断，智能路由是Token降价的核心驱动力——企业不再一律调用最强模型，而是按任务复杂度自动调度，系统性压缩了推理开支。但供给侧完全是另一副光景：二季度超大规模厂商的AI&lt;strong&gt;资本开支回报率达28%&lt;/strong&gt;，是融资成本（约6%）的近5倍。即便美国两党本周罕见合流推动数据中心建设禁令，谷歌和SpaceX仍在财报季后加速了基础设施扩张，亚马逊&lt;strong&gt;追加了200亿美元资本开支&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在模型竞争层面，开源与闭源的全球智能差距已收窄至仅4分，但拉近差距的主要是中国厂商——&lt;strong&gt;美国领先闭源与美国领先开源之间仍有21分的鸿沟&lt;/strong&gt;。前沿模型推理速度的优化幅度远超智能分数的提升，安全治理正从合规议题演变为商业凭证。钱没少花，花法在变，整个产业的重心正在从&amp;quot;建多少算力&amp;quot;转向&amp;quot;怎么把算力变成钱&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-电力卡住了脖子，谁先通电谁先变现
-&lt;p&gt;德克萨斯州全州审计冻住了超过&lt;strong&gt;1800个项目、474GW的审批队列&lt;/strong&gt;，数据中心占了约90%的新增电力申请。电力正在取代芯片，成为AI基建最紧迫的瓶颈。&lt;/p&gt;
-&lt;p&gt;核心建设方给出的口径是新投资一年回本。亚马逊追加的200亿美元资本开支主要受存储成本上涨驱动——多家公司都提到了这一因素。AWS合同需求已排到2028年，管理层预计产能紧张持续到2027年。谁能更早锁定确定的供电时间，谁的站点溢价就越高，收入兑现也越快。&lt;/p&gt;
-&lt;p&gt;电力、许可、劳动力三重约束叠加，原本预期3年完成的产能扩张大概率拉长到5至10年。对供应商而言，稀缺基础设施的高定价可以维持更久；代价是部分收入被推迟到更晚的周期。&lt;/p&gt;
-推理越来越&amp;quot;重&amp;quot;，存储和互连的紧张还没见顶
-&lt;p&gt;过去三周，每个推理任务的平均输出Token升了11%至2.4万个，推理密集型任务尾部涨9%到4万个。&lt;strong&gt;输出Token占比升至41%&lt;/strong&gt;，缓存活动降至57%，输入Token稳定在2%。&lt;/p&gt;
-&lt;p&gt;模型每次调用消耗的计算资源在变多。没有架构层面的突破，以输出和缓存为主的工作负载会持续推高对HBM和互连芯片的需求。存储器和互连仍是关键瓶颈，这也是亚马逊追加资本开支的底层原因之一。&lt;/p&gt;
-全球开源差4分，中美开源差21分
-&lt;p&gt;Artificial Analysis智能指数显示，领先闭源模型（Anthropic Claude Opus 5）得分61，领先开源模型（月之暗面Kimi K3）得分57，&lt;strong&gt;差距从此前的9分收窄至4分&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;但这4分的含金量要拆开看。全球开源逼近闭源，主要靠中国厂商拉动——Kimi K3（57分）、智谱GLM-5.2（51分）、DeepSeek V4 Flash（50分）排在开源前列。&lt;strong&gt;美国领先闭源与美国领先开源之间的差距仍有21分&lt;/strong&gt;。开源模型被豁免于发布前安全测试，短期可能加速追赶，但中美开源的实力不对称才是更深层的格局变量。&lt;/p&gt;
-&lt;p&gt;推理速度的优化远快于智能提升：Top 20厂商中位推理速度回升至118 Token/秒，&lt;strong&gt;周环比涨55.3%&lt;/strong&gt;，中位智能得分稳在43分。行业重心已从&amp;quot;更聪明&amp;quot;转向&amp;quot;更快&amp;quot;。&lt;/p&gt;
-&lt;p&gt;定价分化剧烈。美欧混合Token均价1.63美元/百万Token，&lt;strong&gt;中国仅0.80美元，不到前者一半&lt;/strong&gt;。DeepSeek V4 Flash和小米MiMo-V2.5-Pro标价0.03美元/百万Token，几乎零成本。前沿模型均价1.30美元，周环比降3%。&lt;/p&gt;
-&lt;p&gt;密集的新模型发布窗口即将打开：未来半年，DeepSeek排了V4.1和V4.2，谷歌排了Gemini 3.5 Pro到4.2四个版本，SpaceX排了Grok 4.6到5.1四代。新一波前沿模型可能重新拉开差距，但追赶者的出牌节奏同样在加快。&lt;/p&gt;
-安全治理正变成商业壁垒
-&lt;p&gt;AISI在122次模型评估中记录了&lt;strong&gt;19次未经授权的实时互联网活动&lt;/strong&gt;。能力越强，失控风险越真实——这不是理论推演。&lt;/p&gt;
-&lt;p&gt;长远看，政府安全审查可能成为前沿闭源厂商的竞争壁垒。AI驱动的网络攻击日趋频繁和复杂，&amp;quot;经过政府认证&amp;quot;本身就是面向受监管企业客户的商业资质。&lt;/p&gt;
-&lt;p&gt;前沿能力的天花板还很远。OpenAI披露一个未发布模型用&lt;strong&gt;2000美元API成本生成了10项数学突破&lt;/strong&gt;。能力上限远未触及，但调用门槛在快速降低。&lt;/p&gt;
-开发者加速入场，裁员暂时退潮
-&lt;p&gt;多提供商SDK下载量&lt;strong&gt;周环比增长12.7%&lt;/strong&gt;，加速势头明显。应用端，通义千问周活增长2.5%，Gemini增长0.5%，Kimi下降0.8%，流量格局仍在快速变化。&lt;/p&gt;
-&lt;p&gt;7月AI驱动裁员录得3220人，&lt;strong&gt;较前月21640人下降85%&lt;/strong&gt;。但裁员数据波动性极大，AI驱动裁员在总裁员中的占比并未趋势性下降。下一轮宏观调整来临时，AI替代的加速效应仍可能再次放大。&lt;/p&gt;
-
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股“撞墙”，但市场没有</title><link>https://wallstreetcn.com/articles/3779011</link><guid>109fe0ae3d7005967fefe50776d1ae373592a13ce583f942aec582eb68c59674</guid><pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate><description>&lt;p&gt;芯片股重挫、债券收益率飙升、地缘冲突持续——&lt;strong&gt;华尔街的忧虑清单越拉越长，但资金流向却讲述着截然不同的故事。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周，&lt;strong&gt;标普500指数创下历史新高，纳斯达克100指数录得两个月来最大单周涨幅，与此同时，高收益债券基金单周吸金40亿美元，创两年来最高纪录，比特币ETF五个交易日净流入5亿美元。&lt;/strong&gt;美银的牛熊指数升至2021年以来最高水平，显示市场情绪已全面转向乐观。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
