@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 11:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 11:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
 &lt;p&gt;研究机构Semianalysis最新报告指出&lt;strong&gt;，SpaceX有望在2027年底前新增逾10GW算力，并由此撬动高达3000亿美元的年度经常性收入（ARR），微软将成为其最大客户。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此前，马斯克在SpaceX首次业绩发布会上宣布，&lt;strong&gt;公司&amp;quot;保守&amp;quot;目标是在2027年单年新建并交付6至8GW增量算力，上行空间可能超过10GW。&lt;/strong&gt;按每GW 500亿美元的资本开支测算，这意味着2027年的资本支出规模将达3000亿至5000亿美元，与AWS和谷歌的预期投入相当——对于一家盈利能力远不及主流超大规模云厂商的公司而言，这是一个令市场震惊的数字。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -213,6 +213,25 @@ AAOI业绩超预期，点燃光通信板块
 &lt;p&gt;多提供商SDK下载量&lt;strong&gt;周环比增长12.7%&lt;/strong&gt;，加速势头明显。应用端，通义千问周活增长2.5%，Gemini增长0.5%，Kimi下降0.8%，流量格局仍在快速变化。&lt;/p&gt;
 &lt;p&gt;7月AI驱动裁员录得3220人，&lt;strong&gt;较前月21640人下降85%&lt;/strong&gt;。但裁员数据波动性极大，AI驱动裁员在总裁员中的占比并未趋势性下降。下一轮宏观调整来临时，AI替代的加速效应仍可能再次放大。&lt;/p&gt;
 
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街谈“中概”：从“无力”到“机会性看多”</title><link>https://wallstreetcn.com/articles/3779018</link><guid>ccca0376aa61d874137989632ed4c4f0a87c918ae033a145489fafef3119b74f</guid><pubDate>Sun, 09 Aug 2026 11:35:06 GMT</pubDate><description>&lt;p&gt;伴随7月板块的强劲反弹，海外投资者对中国互联网及AI大模型股票的悲观情绪一扫而空，正从6月下旬的“无力感”实质性转向“战术性做多”。&lt;/p&gt;
+&lt;p&gt;美国银行（BofA）分析师 Alex Liu 在最新的市场反馈中指出，当前主导中国互联网板块的三大核心博弈点已经明朗：AI大模型不可避免的商品化趋势、字节跳动在本地生活与电商领域竞争压力的边际缓解，以及持续疲软的宏观消费与暑期出行需求。&lt;/p&gt;
+&lt;p&gt;资金正在重新评估各家大厂的性价比与基本面兑现能力。随着算力成本上升和激烈的价格战，单纯的模型层经济效益正在被削弱。市场逐渐达成共识：大模型的技术追赶难度并不高，最终的商业化赢家将出现在多模型生态、AI智能体（Agent）应用以及端侧AI领域。&lt;/p&gt;
+AI大模型深陷“商品化”泥潭，应用层与端侧成破局胜负手
+&lt;p&gt;中国AI大模型赛道正处于极度内卷之中。单纯在性能上领先几周，已无法成为买入单一大模型股票的理由。资金正密切盯防即将发布的关键模型，包括DeepSeek V4 Pro、阿里Qwen 4.0、智谱GLM 5.3以及MiniMax M3.1。&lt;/p&gt;
+&lt;p&gt;在未上市的独角兽中，智谱凭借GLM 5.2发布后在用户和收入上的强劲表现，被视为“高质量”标的。但面对同行的快速迭代，其能否守住代码能力第一梯队的位置正受到质疑。相比之下，MiniMax在模型能力上被认为落后于头部，但其110亿美元的估值对部分资金具备吸引力。&lt;/p&gt;
+&lt;p&gt;大厂方面，腾讯7月正式发布混元HY3.0后，市场对其基础大模型进展的疑虑大幅消退。在多模型和Token价格通缩的趋势下，腾讯凭借工作助手（WorkBuddy）在AI Agent应用层的用户领先地位，以及端侧AI普及带来的C端经济效益改善，被视为核心受益者。不过，隐忧同样存在：微信Agent的大规模推出可能带来显著的Token成本，叠加折旧压力，正引发关于其2026下半年至2027年EPS下行风险的激烈辩论，部分资金甚至已预期其2027年盈利将同比下滑。&lt;/p&gt;
+字节跳动攻势放缓，交易平台迎战术性做多窗口
+&lt;p&gt;渠道调研显示，字节跳动在本地生活和电商领域的竞争压力正在实质性降低。这一边际变化直接促使资金在战术上更加看好上市的交易平台公司。&lt;/p&gt;
+&lt;p&gt;美团与京东成为竞争趋缓的核心受益者，市场关注度显著回升。测算显示，随着即时零售竞争放缓，美团单位经济效益（UE）步入2026下半年后将持续改善，看多情绪预计维持高位；京东同样迎来了EPS改善预期，叠加加大回购力度的股东回报动作，市场兴趣回暖。但两者的共同隐忧在于：外卖与即时零售减亏省下的资金，是否会被重新投入到AI和海外等终局尚不明朗的新业务中，且美团的订单量增长能见度依然较低。&lt;/p&gt;
+&lt;p&gt;阿里巴巴目前已成为共识性的买入标的，但资金不再将其视为“买入并持有”的底仓。即时零售业务的止损已形成共识，有望在未来几个季度带来正向的EPS修正；客户管理收入（CMR）预期则已下调。云业务的短期预期极高，市场普遍预计其6月季度的同比增速将达到或超过45%，甚至有资金看高至2027年实现50%以上的云收入增长。硬币的另一面是，面对独立AI实验室的崛起，通义千问（Qwen）的竞争力以及自由现金流表现，依然是资金重点关注的地方。&lt;/p&gt;
+宏观消费疲软压制情绪，暑期出行面临大考
+&lt;p&gt;进入7月，市场对国内消费的预期依然偏空，尤其是对暑期出行需求的担忧正在加剧。&lt;/p&gt;
+&lt;p&gt;携程（Trip.com）尽管因监管调查结束迎来短暂反弹，但资金并未急于抄底。受消费情绪疲软和不利天气影响，近期暑期旅游活动低迷，市场担忧将引发新一轮EPS下调。此外，酒店变现率（take rate）压力日益增大，且面临向美团和字节跳动流失市场份额的风险。&lt;/p&gt;
+&lt;p&gt;网易在6月的抛售中曾是做多共识，但7月初《Sea of Remnant》的发布表现不及预期，引发了对短期EPS承压的担忧。不过，《逆水寒》等老游戏的版本更新及7月新开的无限服务器，预计将为近期业绩提供支撑。&lt;/p&gt;
+其他标的
+&lt;p&gt;在其他标的中，百度方面，资金焦点已完全转向其自研AI芯片的设计能力、收入规模、潜在估值及分拆时间表上，并纠结于是否应为了芯片分拆的潜在上涨空间而继续持股。&lt;/p&gt;
+&lt;p&gt;哔哩哔哩（Bilibili）的关注度相对较低，资金在等待腾讯完成股权处置。但其平台价值在过去几年抵御字节跳动竞争后已得到验证，自2025年以来的有机参与度增长，正在为公司创造稀缺价值。&lt;/p&gt;
+&lt;p&gt;快手因其“可灵”（Kling）面临字节跳动同类产品的持续竞争，且在近期融资后缺乏短期催化剂，市场兴趣寥寥。拼多多（PDD）与腾讯音乐（TME）同样因缺乏清晰的抄底逻辑，暂时被资金冷落。&lt;/p&gt;
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中美Token经济学：利润来源、溢价流向与兑现顺序</title><link>https://wallstreetcn.com/articles/3779009</link><guid>6fc0fb4a86094332b2cc102fe917f4fcd8e6be92ac2b242d6904532570aa6fc9</guid><pubDate>Sun, 09 Aug 2026 09:55:05 GMT</pubDate><description>&lt;p&gt;大模型算力狂飙与变现迟缓的错位，正在重塑全球AI产业链的利润分配格局。过去两年，中国市场日均Token调用量暴增超千倍，但2025年公有云MaaS（模型即服务）全年营收仅停留在30亿元量级。海量消耗尚未转化为对等的账面收入，中美两国在算力瓶颈与商业化路径上已走向截然不同的方向。&lt;/p&gt;
 &lt;p&gt;东北证券分析师宋心竹在对Token经济产业链的剖析中提出，AI利润沉淀由稀缺溢价、代际溢价、一体化内部结算收益与迁移成本溢价四种机制构成。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -372,28 +391,4 @@ DeepSeek战略入局
 &lt;p&gt;Hartnett在报告结尾将视野拉至更宏观的政治经济框架。&lt;/p&gt;
 &lt;p&gt;他指出，2020年代的政治民粹主义推动财政扩张，带动美国名义GDP在过去六年间从20万亿美元增至32万亿美元，增幅达63%，而美国国债规模即将突破40万亿美元。&lt;/p&gt;
 &lt;p&gt;在政治格局上，他将即将到来的中期选举定性为&amp;quot;民粹资本主义&amp;quot;（以增长降低赤字）与另一种政治路线（以财富税降低赤字）之间的路线之争。&lt;/p&gt;
-&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票</title><link>https://wallstreetcn.com/articles/3778995</link><guid>4876c75a76ddb0eb07ee56149d751243a2e047c729b06b77efd5e16b47cb7e4f</guid><pubDate>Sun, 09 Aug 2026 01:15:28 GMT</pubDate><description>&lt;p&gt;Greg Abel执掌伯克希尔·哈撒韦以来，首次展现出与前任截然不同的资本配置风格——这家坐拥逾3600亿美元现金的巨型企业，正在加速出手。&lt;/p&gt;
-&lt;p&gt;二季度，&lt;strong&gt;伯克希尔净买入约200亿美元股票&lt;/strong&gt;，&lt;strong&gt;终结了前任CEO沃伦·巴菲特持续逾三年的净卖出态势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;公司斥资约45亿美元回购自身股票，&lt;/strong&gt;并以68亿美元收购房屋建筑商Taylor Morrison Home，&lt;strong&gt;现金储备较上季度下降约4%至3647亿美元，为四年来首次环比下降&lt;/strong&gt;。公司当季净利润同比翻逾一倍，至257亿美元。&lt;/p&gt;
-&lt;p&gt;上述举措发生在美国股市处于历史高位的背景下，与巴菲特时代的谨慎姿态形成鲜明对比，令市场重新审视伯克希尔的投资信号意义。Abel在今年5月的股东大会上曾表示，愿意&amp;quot;果断行动&amp;quot;并进行&amp;quot;重大投资&amp;quot;，此番二季度的密集出手，正是这一表态的兑现。&lt;/p&gt;
-净买入近200亿美元，三年卖出格局逆转
-&lt;p&gt;&lt;strong&gt;伯克希尔二季度共买入235亿美元股票，卖出37亿美元，净买入约198亿美元，为逾三年来首次成为股票净买家&lt;/strong&gt;。&lt;strong&gt;卖出规模亦为2022年以来最低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其中最引人注目的是对谷歌母公司Alphabet的100亿美元投资。&lt;/p&gt;
-&lt;p&gt;在Abel参与主导Alphabet一笔850亿美元融资后数日，伯克希尔随即宣布买入Alphabet普通股，使其跻身公司前五大持仓之列，与美国运通、苹果、美国银行和可口可乐并列。&lt;/p&gt;
-&lt;p&gt;监管文件显示，伯克希尔二季度在&amp;quot;商业、工业及其他&amp;quot;类别上净投入约210亿美元，Alphabet即归属于此类别。投资者将在本月伯克希尔向美国证券监管机构提交季度持仓报告后，获得更完整的持仓变动细节。&lt;/p&gt;
-收购Taylor Morrison，实业版图再扩张
-&lt;p&gt;除股票投资外，伯克希尔还宣布以企业价值85亿美元（交易价格约68亿美元）收购房屋建筑商Taylor Morrison Home，&lt;strong&gt;这是该公司近年来规模最大的并购交易之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这笔收购与Alphabet投资一道，&lt;strong&gt;标志着Abel正在以实际行动为这家由巴菲特执掌逾六十年的企业打上自己的烙印。&lt;/strong&gt;Abel在职业生涯早期从事会计工作，后经由伯克希尔能源业务晋升至集团核心管理层，今年年初正式接替巴菲特出任CEO。&lt;/p&gt;
-&lt;p&gt;Gabelli Funds投资组合经理Macrae Sykes表示，伯克希尔的股票回购表明&amp;quot;最优秀的企业资本配置者认为公司股票当前具有价值&amp;quot;。&lt;/p&gt;
-经营利润稳健增长，保险业务拖累整体
-&lt;p&gt;剔除投资损益的经营利润——伯克希尔衡量旗下业务表现的首选指标——同比增长约16%至约130亿美元，显示核心业务保持稳健。&lt;/p&gt;
-&lt;p&gt;制造、服务与零售业务板块利润跳升24%至447亿美元，旗下工业金属零部件、劲量电池（Duracell）及Flying J加油站等业务均表现强劲。&lt;/p&gt;
-&lt;p&gt;BNSF铁路收入同比增长15%，受益于美国西海岸进口量上升及卡车运力短缺带来的货运转移效应。电子元器件销售部门TTI销售额更大涨逾26%，受益于AI基础设施建设投资热潮带动的需求激增。&lt;/p&gt;
-&lt;p&gt;保险业务则成为拖累项。&lt;/p&gt;
-&lt;p&gt;旗下核心保险业务经营利润同比下降13%至约17亿美元，主要原因是汽车保险子公司Geico赔付支出上升，并加大了广告投入。&lt;/p&gt;
-&lt;p&gt;再保险业务保费收入同比增长4.1%，部分得益于副董事长Ajit Jain今年达成的一笔交易——伯克希尔以换取业务分成的方式，收购了日本保险公司东京海上2.5%的股权；公司表示，若剔除该交易影响，再保险保费收入将出现下滑。&lt;/p&gt;
-现金仍逾3600亿，&amp;quot;花钱&amp;quot;挑战远未结束
-&lt;p&gt;&lt;strong&gt;尽管二季度现金储备出现四年来首次环比下降，但3647亿美元的规模依然庞大，如何有效部署仍是Abel面临的核心挑战。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;部分伯克希尔观察人士对此保持耐心。&lt;/p&gt;
-&lt;p&gt;Lountzis Asset Management总裁Paul Lountzis表示：&amp;quot;&lt;strong&gt;在当前这样亢奋的市场环境下，很难要求Greg急于完成大型并购&lt;/strong&gt;。私募市场估值已经疯狂，公开市场也有些不理性。&amp;quot;&lt;/p&gt;
-&lt;p&gt;伯克希尔A类股周五收盘报780,086美元，年内累计上涨3.4%，但较2025年5月初巴菲特宣布退休前后创下的历史高点809,350美元仍低约3.6%，同期标普500指数年内总回报约为14%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 1.6T刚放量，卖铲子的先接到了催货电话：罗博特科的“非线性”赌局</title><link>http://xueqiu.com/2237153088/404258519</link><guid>bbb5d33fa0df5af674b0bf473dc599c0c05108c7c3ab61971c8d3109326df7dd</guid><pubDate>Sun, 09 Aug 2026 05:17:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贝利马里斯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8月7日收盘，罗博特科510元，总市值829亿，年内涨幅94.5%。一家2025年还在亏损的公司，市净率52倍。很多人看到这个数字心里发毛：这到底是在赌未来，还是在赌命？&lt;/p&gt;</description></item><item><title>[今日雪球] 投资收益差也可以很淡定</title><link>http://xueqiu.com/2386334596/404261139</link><guid>799b7137420a92042e0eef3bb4af5eca592fbf28b1f45f3583026d9ee1e93f1c</guid><pubDate>Sun, 09 Aug 2026 05:09:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;刚才看了下自己的投资的收益，到目前为止，今年跑输沪深300指数6个百分点，上年跑输13个百分点，也就是自2024年底以来，跑输沪深300指数19个百分点。这2年来，主要以股息加仓，市值与2024年底基本持平，看起来有点沮丧。但是，投资组合归属于我的透视盈余增长了30%，股息增长了29%，跑赢沪深300指数10个百分点。目前拥有25家公司构成的投资组合，市盈率不到11倍，属于大幅低估的范围。&lt;/p&gt;</description></item><item><title>[今日雪球] 从王宁的“庆祝生活”视角，讲透泡泡玛特到底在卖什么</title><link>http://xueqiu.com/8326595589/404244257</link><guid>0fba45bfca2fcd50c75dc631a33da5d8c0e12a87352e133bf9beeb4aeaaa6aa0</guid><pubDate>Sun, 09 Aug 2026 05:09:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;POP研习社&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;你有没有想过一个问题：同样花钱，为什么有些时候你花得特别痛快，有些时候却算着花？&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 1.6T刚放量，卖铲子的先接到了催货电话：罗博特科的“非线性”赌局</title><link>http://xueqiu.com/2237153088/404258519</link><guid>bbb5d33fa0df5af674b0bf473dc599c0c05108c7c3ab61971c8d3109326df7dd</guid><pubDate>Sun, 09 Aug 2026 05:17:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贝利马里斯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8月7日收盘，罗博特科510元，总市值829亿，年内涨幅94.5%。一家2025年还在亏损的公司，市净率52倍。很多人看到这个数字心里发毛：这到底是在赌未来，还是在赌命？&lt;/p&gt;</description></item><item><title>[今日雪球] 投资收益差也可以很淡定</title><link>http://xueqiu.com/2386334596/404261139</link><guid>799b7137420a92042e0eef3bb4af5eca592fbf28b1f45f3583026d9ee1e93f1c</guid><pubDate>Sun, 09 Aug 2026 05:09:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;刚才看了下自己的投资的收益，到目前为止，今年跑输沪深300指数6个百分点，上年跑输13个百分点，也就是自2024年底以来，跑输沪深300指数19个百分点。这2年来，主要以股息加仓，市值与2024年底基本持平，看起来有点沮丧。但是，投资组合归属于我的透视盈余增长了30%，股息增长了29%，跑赢沪深300指数10个百分点。目前拥有25家公司构成的投资组合，市盈率不到11倍，属于大幅低估的范围。&lt;/p&gt;</description></item><item><title>[今日雪球] 从王宁的“庆祝生活”视角，讲透泡泡玛特到底在卖什么</title><link>http://xueqiu.com/8326595589/404244257</link><guid>0fba45bfca2fcd50c75dc631a33da5d8c0e12a87352e133bf9beeb4aeaaa6aa0</guid><pubDate>Sun, 09 Aug 2026 05:09:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;POP研习社&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;你有没有想过一个问题：同样花钱，为什么有些时候你花得特别痛快，有些时候却算着花？&lt;/p&gt;</description></item></channel></rss>
