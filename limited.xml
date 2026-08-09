@@ -1,24 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 19:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市</title><link>https://wallstreetcn.com/articles/3779010</link><guid>9dc51fb2fe75bc457303253fc970c0ba40ce31bf70cae6fa90162a13dddb4dce</guid><pubDate>Sun, 09 Aug 2026 07:39:21 GMT</pubDate><description>&lt;p&gt;摩尔线程（688795.SH）2026年半年度财报显示，在国产算力需求爆发与万卡智算集群加速落地的双重催化下，公司上半年实现营业收入17.36亿元，同比激增147.42%；归母净利润亏损大幅收窄95.73%至-1156万元，距离全面盈亏平衡仅一步之遥。&lt;/p&gt;
-&lt;p&gt;财报显示，凭借“全功能GPU”架构与MUSA软件生态，摩尔线程夸娥（KUAE）智算集群商业化加速；同时，为保障供应链稳定，公司主动增加备货，经营活动现金流呈净流出状态。&lt;/p&gt;
-&lt;p&gt;公司还公告称，筹划发行H股股票并在香港联合交易所有限公司主板上市。&lt;/p&gt;
-
-6.6亿大单完成交付，营收大增带动亏损大幅收窄
-&lt;p&gt;营收的显著增长主要得益于夸娥智算集群商业化加速及产品稳定供货。&lt;/p&gt;
-&lt;p&gt;报告期内，公司于3月签订的6.60亿元夸娥智算集群日常经营性销售合同，已在期内全部完成交付并确认收入。&lt;/p&gt;
-&lt;p&gt;利润端方面，上半年公司实现毛利总额9.89亿元，同比增长103.78%，整体毛利率为56.95%。扣除非经常性损益后，公司归母净利润为-1.51亿元，较上年同期收窄52.37%。随着营业收入的大幅增长，公司基本每股收益由上年同期的-0.68元改善至-0.02元。&lt;/p&gt;
-研发投入占比超44%，万卡集群核心指标对标国际主流
-&lt;p&gt;上半年，摩尔线程研发投入达7.69亿元，同比增长38.16%，占营业收入的比例为44.30%。截至期末，公司研发人员达1,019人，占员工总数的74.16%。&lt;/p&gt;
-&lt;p&gt;在底层架构上，公司重点研发新一代“花港”架构，原生增强对FP8/FP4等低精度混合计算格式的硬件级加速，算力密度提升50%，计算能效提升10倍。&lt;/p&gt;
-&lt;p&gt;工程化落地方面，夸娥万卡级智算集群在Dense大模型训练中的算力利用率（MFU）达60%，MoE大模型达40%，多机分布式训练线性扩展效率达95%，有效训练时间占比超过90%，多项核心指标达到国际主流水平。同时，MUSA软件生态持续完善，上半年率先完成对DeepSeek-V4、Kimi K3、智谱GLM-5.2等行业SOTA大模型的Day-0级别适配。&lt;/p&gt;
-算力向边缘与终端下沉，云电脑业务多省市商用
-&lt;p&gt;除云端智算外，摩尔线程基于“长江”SoC芯片，推出MTT E300边缘模组、MTT AIBOOK算力本及MTT AICUBE家庭AI中枢等终端产品，支持端侧大模型及智能体的本地化部署。&lt;/p&gt;
-&lt;p&gt;在云电脑领域，核心产品MTT S3000单卡支持32路并发，通过动态弹性切分vGPU技术，使CPU负载降低75%、渲染性能提升10倍。目前，公司已与中国移动等头部运营商实现多省市商用落地。&lt;/p&gt;
-主动增加备货推高存货，筹划发行H股赴港上市
-&lt;p&gt;财报显示，公司上半年经营活动产生的现金流量净额为-21.69亿元，上年同期为-11.64亿元，主要系扩大产品生产规模、经营性采购支出增加所致。&lt;/p&gt;
-&lt;p&gt;资产负债方面，截至报告期末，摩尔线程存货账面价值为35.50亿元，占总资产比重达20.97%，较上年末增长166.48%；预付款项为13.44亿元。公司在财报中说明，受内外部环境变化及相关政策影响，公司积极调整供应链策略，为应对市场需求增长及保障供应链稳定，主动增加备货，并按行业惯例向上游提前订货并预付一定比例货款。报告期内，公司计提了3904.77万元的资产减值损失，主要为存货跌价损失及合同履约成本减值。&lt;/p&gt;
-&lt;p&gt;在披露半年报的同时，摩尔线程宣布，公司正筹划发行H股股票并在香港联合交易所有限公司主板上市。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股“撞墙”，但市场没有</title><link>https://wallstreetcn.com/articles/3779011</link><guid>109fe0ae3d7005967fefe50776d1ae373592a13ce583f942aec582eb68c59674</guid><pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate><description>&lt;p&gt;芯片股重挫、债券收益率飙升、地缘冲突持续——&lt;strong&gt;华尔街的忧虑清单越拉越长，但资金流向却讲述着截然不同的故事。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 19:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] 芯片股“撞墙”，但市场没有</title><link>https://wallstreetcn.com/articles/3779011</link><guid>109fe0ae3d7005967fefe50776d1ae373592a13ce583f942aec582eb68c59674</guid><pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate><description>&lt;p&gt;芯片股重挫、债券收益率飙升、地缘冲突持续——&lt;strong&gt;华尔街的忧虑清单越拉越长，但资金流向却讲述着截然不同的故事。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周，&lt;strong&gt;标普500指数创下历史新高，纳斯达克100指数录得两个月来最大单周涨幅，与此同时，高收益债券基金单周吸金40亿美元，创两年来最高纪录，比特币ETF五个交易日净流入5亿美元。&lt;/strong&gt;美银的牛熊指数升至2021年以来最高水平，显示市场情绪已全面转向乐观。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这一切发生在AI对冲基金Situational Awareness——由“硅谷股神”Leopold Aschenbrenner创立——爆仓风波之后。该事件一度将费城半导体指数从6月高点拉低29%。然而投资者非但没有撤退，反而将这场动荡视为买入信号，在短短两个交易日内向半导体ETF注入逾110亿美元，随后相关基金大幅飙升。&lt;/p&gt;
