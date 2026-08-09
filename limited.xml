@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 06:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：美CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报</title><link>https://wallstreetcn.com/articles/3778910</link><guid>7ca353a2db8ef92e1984e5cfe90eb556ba80932136e67759cd724ebc0d4d9dee</guid><pubDate>Sun, 09 Aug 2026 02:03:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月09日 - 08月17日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 07:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
+&lt;p&gt;研究机构Semianalysis最新报告指出&lt;strong&gt;，SpaceX有望在2027年底前新增逾10GW算力，并由此撬动高达3000亿美元的年度经常性收入（ARR），微软将成为其最大客户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此前，马斯克在SpaceX首次业绩发布会上宣布，&lt;strong&gt;公司&amp;quot;保守&amp;quot;目标是在2027年单年新建并交付6至8GW增量算力，上行空间可能超过10GW。&lt;/strong&gt;按每GW 500亿美元的资本开支测算，这意味着2027年的资本支出规模将达3000亿至5000亿美元，与AWS和谷歌的预期投入相当——对于一家盈利能力远不及主流超大规模云厂商的公司而言，这是一个令市场震惊的数字。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Semianalysis表示，该机构已对SpaceX所有适建站点进行评估，并对可用燃气发电设备逐季追踪，&lt;strong&gt;认为上述目标具备现实可行性。&lt;/strong&gt;报告同时指出，&lt;strong&gt;微软今年迄今已签署逾10GW的数据中心合同，总合同价值超过3000亿美元，其对SpaceX算力的潜在需求将成为推动Azure营收增速从约42%跃升至逾100%的关键变量。&lt;/strong&gt;&lt;/p&gt;
+推理算力的超高利润率，驱动需求爆发
+&lt;p&gt;Semianalysis的核心逻辑建立在AI推理业务的高利润率之上。&lt;/p&gt;
+&lt;p&gt;根据该机构的Tokenomics模型与推理模拟器，OpenAI和Anthropic在GB300集群上提供API推理服务时，每GW每年可产生逾1000亿美元收入，而以每GPU每小时3美元的保守租赁价格计算，每GW每年成本约为120亿美元，推理毛利率超过60%，部分旗舰模型甚至高达85%以上。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一经济模型同样适用于微软。&lt;/p&gt;
+&lt;p&gt;Semianalysis指出，微软在2026年4月重新谈判的OpenAI协议中取消了原有的20%营收分成条款，这意味着微软在使用OpenAI模型提供推理服务时，可获得与OpenAI和Anthropic相近的每MW收入与利润率，同时无需承担任何训练成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告将这一局面定性为&amp;quot;百年一遇的机会&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+微软算力缺口，为SpaceX打开窗口
+&lt;p&gt;微软此前曾在2024年底大幅放缓数据中心租赁活动，但Semianalysis表示，&lt;strong&gt;这一局面已于2025年至2026年间彻底逆转。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微软在2025年10月与OpenAI签署了一项估值2500亿美元的基础设施即服务协议，Semianalysis估算该协议对应约7GW算力，导致微软在Foundry API业务及Copilot等应用场景上严重受限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为填补这一缺口，微软今年迄今已在租赁、自建及长期购电协议等多个维度签署合计逾10GW的绑定合同。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Semianalysis认为，&lt;strong&gt;微软与SpaceX签署3GW、总价值约1500亿美元合同的可能性&amp;quot;并非不可能&amp;quot;，理由有二：其一，微软本身已处于大规模算力扩张周期；其二，SpaceX提供90天取消条款，与其对Anthropic和谷歌的合同条款一致，财务风险极低，易于获得内部审批。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+SpaceX的建设速度：颠覆行业惯例
+&lt;p&gt;Semianalysis将SpaceX的竞争优势归结为对传统数据中心建设逻辑的系统性颠覆。&lt;/p&gt;
+&lt;p&gt;报告列举了多项具体案例：Colossus 1的300MW设施在122天内完工；Southaven电厂从2026年2月的27台燃气轮机（约495MW）扩张至2026年7月的69台（1.7GW）；&amp;quot;MiniHard&amp;quot;项目从2026年3月开始垂直施工，预计约5个月内达到450至500MW。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在应对供应链瓶颈方面，SpaceX采取了一系列非常规策略：以中国产电力模块替代积压两年以上的大型电力变压器；在二级市场采购燃气轮机（包括原定交付Oracle新墨西哥站点的设备）；通过高度并行化施工和预组装压缩调试周期。Colossus 2峰值日用工约3000人，远低于同等规模数据中心的行业水平。&lt;/p&gt;
+&lt;p&gt;Semianalysis指出，&lt;strong&gt;SpaceX的核心竞争力在于以&amp;quot;速度优先&amp;quot;替代行业通行的&amp;quot;效率优先&amp;quot;逻辑。&lt;/strong&gt;在算力极度稀缺、AI推理利润率极高的当下，一个可在三个月内交付、附带90天取消条款的500MW集群，是市场上最稀缺的资产之一。谷歌最终选择与SpaceX签约，即为这一逻辑的有力佐证。&lt;/p&gt;
+融资路径：英伟达供应商融资与现金流滚动
+&lt;p&gt;针对外界对SpaceX资本实力的质疑，Semianalysis提出了两条融资路径。&lt;/p&gt;
+&lt;p&gt;其一，英伟达可能以供应商融资形式降低SpaceX的前期现金支出——这也被认为是马斯克在业绩会上宣布独家采用英伟达芯片的重要原因，尽管SpaceX此前曾评估过TPU和AMD等替代方案。其二，SpaceX凭借行业最快的交付周期，以每MW每年3000万至5000万美元的高溢价定价，使资本开支在不到一年内即可通过运营现金流收回。&lt;/p&gt;
+&lt;p&gt;综合上述因素，&lt;strong&gt;Semianalysis预测，假设SpaceX 2027年新增算力中仅有50%用于商业推理变现（其余供Grok和Cursor团队训练使用），SpaceX的ARR有望在2027年底达到3000亿美元。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：美CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报</title><link>https://wallstreetcn.com/articles/3778910</link><guid>7ca353a2db8ef92e1984e5cfe90eb556ba80932136e67759cd724ebc0d4d9dee</guid><pubDate>Sun, 09 Aug 2026 02:03:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月09日 - 08月17日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;见闻财经日历提醒8月10日至16日当周需重点关注：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观数据和央行动态方面，美国7月CPI&lt;/strong&gt;与PPI相继公布，前者直接定价美联储9月降息路径，现已有报道称若未来几周通胀数据偏热且市场加息预期升温，沃什考虑加息。其次，澳联储利率决议将公布，市场预期该行按兵不动。日本央行7月会议意见摘要也将公布。&lt;/p&gt;
@@ -166,6 +194,29 @@ AAOI业绩超预期，点燃光通信板块
 &lt;p&gt;多提供商SDK下载量&lt;strong&gt;周环比增长12.7%&lt;/strong&gt;，加速势头明显。应用端，通义千问周活增长2.5%，Gemini增长0.5%，Kimi下降0.8%，流量格局仍在快速变化。&lt;/p&gt;
 &lt;p&gt;7月AI驱动裁员录得3220人，&lt;strong&gt;较前月21640人下降85%&lt;/strong&gt;。但裁员数据波动性极大，AI驱动裁员在总裁员中的占比并未趋势性下降。下一轮宏观调整来临时，AI替代的加速效应仍可能再次放大。&lt;/p&gt;
 
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树科技明日申购，中一签能赚多少？</title><link>https://wallstreetcn.com/articles/3779007</link><guid>e00c3d6c9c61020d0402c3a7d3ba48b59125cf3b021b415269ff32ba7e021e36</guid><pubDate>Sun, 09 Aug 2026 07:15:45 GMT</pubDate><description>&lt;p&gt;&amp;quot;A股人形机器人第一股&amp;quot;宇树科技（申购代码787836）将于8月10日正式启动网上、网下申购，发行价150.80元/股，中一签（500股）需缴款7.54万元。&lt;/p&gt;
+&lt;p&gt;市场人士测算，&lt;strong&gt;若上市首日涨幅超过100%，中一签盈利将超过7.5万元；若涨幅超过200%，盈利将高达15万元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得关注的是，DeepSeek母公司深度求索获配93.34万股，获配金额1.41亿元，限售期36个月。双方已签署《战略合作备忘录》，将在具身智能与AI大模型领域展开深度合作。&lt;/p&gt;
+&lt;p&gt;有券商指出，中长期来看，宇树登陆A股有望牵引更多长期资金系统性配置人形机器人赛道。&lt;/p&gt;
+发行详情与收益测算
+&lt;p&gt;宇树科技此次发行价150.80元/股，对应发行市盈率219.23倍，高于参考行业市盈率38.56倍。此次发行股份总数4044.64万股，其中网上发行647万股，申购上限0.60万股，顶格申购需配沪市市值6万元。缴款日为8月12日。&lt;/p&gt;
+&lt;p&gt;按发行价和发行数量计算，预计募集资金总额60.99亿元，扣除发行费用后净额59.17亿元。&lt;/p&gt;
+&lt;p&gt;收益方面，以中一签500股、缴款7.54万元计算：上市首日涨幅100%对应盈利超7.5万元，涨幅200%对应盈利约15万元。但需注意，219.23倍的发行市盈率已显著高于行业均值，定价中包含了较高的成长溢价。&lt;/p&gt;
+业绩高速增长
+&lt;p&gt;宇树科技专注于高性能通用人形机器人、四足机器人、机器人组件及具身智能模型的研发、生产和销售，客户涵盖国内外知名高校、研究机构及行业领先科技企业。&lt;/p&gt;
+&lt;p&gt;业绩方面，2023年至2025年，公司营业收入分别为1.59亿元、3.93亿元、16.99亿元；归母净利润分别为-1115万元、9547万元、2.78亿元，实现从亏损到盈利的跨越。同期，主营业务毛利率从44.22%持续提升至60.13%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;出货量数据同样亮眼。2023年至2025年，公司四足机器人累计销量超3.30万台，奠定了全球四足机器人市场的优势地位；2025年，人形机器人出货量超5500台（纯人形，不含轮式双臂机器人），排名全球第一。&lt;/p&gt;
+&lt;p&gt;展望2026年上半年，宇树科技预计营收10.52亿至11.28亿元，同比增长35.62%至45.41%；归母净利润2.58亿至3.06亿元，同比扭亏为盈。招股意向书显示，2025年上半年归母净利润为负值，主因确认了较大金额的股份支付费用。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;宇树科技董事长、总经理兼首席技术官王兴兴在网上路演时表示，从中长期看，人形机器人拥有巨大的市场空间与广阔的应用前景，将为公司发展与业务增长提供支撑。&lt;/p&gt;
+&lt;p&gt;据悉，宇树科技募集资金将投向四个项目：智能机器人模型研发项目（拟投20亿元）、机器人本体研发项目（拟投11亿元）、新型智能机器人产品开发项目和智能机器人制造基地建设项目。&lt;/p&gt;
+DeepSeek战略入局
+&lt;p&gt;宇树科技本次IPO初始战略配售808.93万股，约占发行数量的20%。其中，DeepSeek母公司杭州深度求索人工智能基础技术研究有限公司获配93.34万股，获配金额1.41亿元，限售期36个月。&lt;/p&gt;
+&lt;p&gt;王兴兴在路演中透露，双方将在三大领域展开重点合作：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一是面向通用人工智能合作研发。&lt;/strong&gt; 结合深度求索在AI大模型算法优化、模型架构创新、推理训练等方面的积累，以及宇树在机械工程设计、运动控制算法、具身智能模型等方面的优势，联合开展AI大模型与具身智能相关技术的合作研发与产品开发。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二是高性能通用机器人深度合作。&lt;/strong&gt; 深度求索在开展具身智能相关业务或应用探索时，在同等条件下优先与宇树在机器人采购及技术方案上合作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三是AI大模型深度合作。&lt;/strong&gt; 宇树在大模型适配调用及融合开发时，优先与深度求索合作；深度求索也将在模型架构方案、智算集群建设、数据中心运营等方面提供技术支持。&lt;/p&gt;
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘</title><link>https://wallstreetcn.com/articles/3779003</link><guid>b109466650a23501d72a33272702f52e77d1a7b53432e70f1b68dac4695b4952</guid><pubDate>Sun, 09 Aug 2026 05:01:55 GMT</pubDate><description>&lt;p&gt;美银证券首席投资策略师Michael Hartnett在最新一期Flow Show报告中提出了一个看似矛盾却逻辑自洽的市场判断：&lt;strong&gt;短期内保持谨慎，建议撤离风险资产；但从长期战略视角看，他维持&amp;quot;做多股票、做空债券&amp;quot;的配置，核心逻辑是美国政策制定者已将股市视为&amp;quot;大而不能倒&amp;quot;的系统性资产。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在最新动态上，美银牛熊指标已从9.4升至9.7，创2021年初迷因股泡沫以来最高水平，反映出市场情绪极度乐观。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
