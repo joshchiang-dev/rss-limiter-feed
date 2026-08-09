@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 16:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 17:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
 &lt;p&gt;研究机构Semianalysis最新报告指出&lt;strong&gt;，SpaceX有望在2027年底前新增逾10GW算力，并由此撬动高达3000亿美元的年度经常性收入（ARR），微软将成为其最大客户。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此前，马斯克在SpaceX首次业绩发布会上宣布，&lt;strong&gt;公司&amp;quot;保守&amp;quot;目标是在2027年单年新建并交付6至8GW增量算力，上行空间可能超过10GW。&lt;/strong&gt;按每GW 500亿美元的资本开支测算，这意味着2027年的资本支出规模将达3000亿至5000亿美元，与AWS和谷歌的预期投入相当——对于一家盈利能力远不及主流超大规模云厂商的公司而言，这是一个令市场震惊的数字。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -27,30 +27,7 @@ SpaceX的建设速度：颠覆行业惯例
 融资路径：英伟达供应商融资与现金流滚动
 &lt;p&gt;针对外界对SpaceX资本实力的质疑，Semianalysis提出了两条融资路径。&lt;/p&gt;
 &lt;p&gt;其一，英伟达可能以供应商融资形式降低SpaceX的前期现金支出——这也被认为是马斯克在业绩会上宣布独家采用英伟达芯片的重要原因，尽管SpaceX此前曾评估过TPU和AMD等替代方案。其二，SpaceX凭借行业最快的交付周期，以每MW每年3000万至5000万美元的高溢价定价，使资本开支在不到一年内即可通过运营现金流收回。&lt;/p&gt;
-&lt;p&gt;综合上述因素，&lt;strong&gt;Semianalysis预测，假设SpaceX 2027年新增算力中仅有50%用于商业推理变现（其余供Grok和Cursor团队训练使用），SpaceX的ARR有望在2027年底达到3000亿美元。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周末热议：“空存储、多光”？</title><link>https://wallstreetcn.com/articles/3778999</link><guid>3dd823881eab705df000175b08e7bbc0c3059e6584f00e15519ee516d353f70c</guid><pubDate>Sun, 09 Aug 2026 05:21:27 GMT</pubDate><description>&lt;p&gt;周五美股存储与光通信板块走势显著分化。&lt;strong&gt;花旗大幅下调美光目标价&lt;/strong&gt;，存储股全线承压；而&lt;strong&gt;AAOI的超预期财报则点燃光通信板块&lt;/strong&gt;，Coherent单日大涨13%。两条线索交汇之下，&lt;strong&gt;&amp;quot;空存储、多光&amp;quot;（short memory, long optical）交易策略在周末引发激烈争论&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;率先抛出这一框架的，是市场公认的存储多头——Jukan。他在X平台称&lt;strong&gt;部分对冲基金已开始据此建仓&lt;/strong&gt;。随即，知名投资者&amp;quot;白毛股神&amp;quot;Serenity针锋相对，认为存储基本面未变，市场不过是在&amp;quot;瓶颈与瓶颈之间轮动&amp;quot;。&lt;/p&gt;
-花旗下调美光目标价，存储价格见顶预期升温
-&lt;p&gt;周五，美光（MU）跌约1%，SanDisk（SNDK）跌超2%，跌势延伸至亚洲——SK海力士跌逾4%，三星、铠侠同步走低。&lt;/p&gt;
-&lt;p&gt;压力源自花旗。分析师Atif Malik维持美光&amp;quot;买入&amp;quot;评级，但&lt;strong&gt;将目标价从1400美元大幅下调至1150美元&lt;/strong&gt;。花旗在与存储供应商及行业参与者沟通后指出，&lt;strong&gt;DRAM和NAND价格增速将在未来四个季度逐步放缓，价格预计于明年5月见顶&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;具体而言，花旗将未来四个季度&lt;strong&gt;DRAM价格环比增速预期分别设定为23%/9%/2%/0%&lt;/strong&gt;，2027年下半年预计环比下降3%；&lt;strong&gt;NAND价格预期调整为29%/7%/0%/-1%&lt;/strong&gt;，下半年环比降幅扩大至5%。花旗将价格放缓归因于&lt;strong&gt;中国存储厂商长鑫存储（CXMT）和长江存储（YMTC）的产能扩张&lt;/strong&gt;。&lt;/p&gt;
-AAOI业绩超预期，点燃光通信板块
-&lt;p&gt;与存储形成鲜明对比的是光通信板块的集体走强。&lt;/p&gt;
-&lt;p&gt;美国光模块厂商AAOI（Applied Optoelectronics）&lt;strong&gt;二季度营收同比增长86%至1.919亿美元，数据中心业务首次突破亿元大关&lt;/strong&gt;，非GAAP每股收益0.06美元，超出指引上限。公司给出三季度营收指引2.55亿至2.90亿美元，维持全年约11亿美元目标。当日&lt;strong&gt;Coherent大涨13%，Lumentum涨6%，康宁涨5%&lt;/strong&gt;，AAOI自身涨9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;产品结构上，400G收入4840万美元，同比增逾四倍；更具指示意义的是&lt;strong&gt;800G——二季度收入1280万美元，同比增逾十倍，环比翻倍&lt;/strong&gt;，管理层预计三季度将实现近五倍环比增长。增长重心正加速从100G、400G向更高速率切换。&lt;/p&gt;
-&lt;p&gt;产能端信号同样强烈。管理层透露&lt;strong&gt;当前客户需求超出供应能力20%至40%&lt;/strong&gt;，制约增长的已不是需求而是产能。当前800G和1.6T月产能接近20万片，计划到&lt;strong&gt;2026年底超65万片，2027年底超93万片&lt;/strong&gt;。CEO林宗男预计&lt;strong&gt;四季度1.6T收入可超7000万美元&lt;/strong&gt;，&amp;quot;明年一季度翻一番也不会意外&amp;quot;。不过他也坦承，1.6T关键部件DSP、TIA供应仍较紧张，四季度交付的主要约束来自材料而非产能本身。&lt;/p&gt;
-&lt;p&gt;分析师认为，AAOI的超预期表现对即将公布财报的Lumentum和Coherent构成利好预示——两家公司均获英伟达持股背书，被市场视为AI算力建设的&amp;quot;镐与铲&amp;quot;标的。&lt;/p&gt;
-多头转向？&amp;quot;空存储、多光&amp;quot;引发周末论战
-&lt;p&gt;引爆周末讨论的是著名的存储多头Jukan在社交平台的发帖——他在X平台发帖称，市场短期内可能需要采取&amp;quot;空存储、多光&amp;quot;策略，并给出三个理由：&lt;/p&gt;
-&lt;p&gt;一是韩国杠杆ETF市场功能性失效后，相关投资者面临赎回压力，可能为存储股带来额外抛压；二是&lt;strong&gt;英伟达正调整下一代AI系统架构，Rubin Ultra可能减少每机架HBM配置，转而使用光互联连接多个机架&lt;/strong&gt;；三是市场对存储价格未来两个季度见顶的预期正在强化。&lt;/p&gt;
-&lt;p&gt;Jukan强调，他对存储长期仍持建设性看法，但短期保持审慎。他指出，&lt;strong&gt;AI基础设施投资的重心正从HBM容量转向数据中心整体架构效率&lt;/strong&gt;，其中高速光互联是关键方向。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;白毛股神&amp;quot;Serenity随即加入讨论，立场鲜明：&lt;strong&gt;仍然看多存储&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;Serenity的核心论点是——&lt;strong&gt;变化的主要是股价，而非基本面&lt;/strong&gt;。他指出，Coherent和Lumentum的激光器在7月下跌时就已售罄两年产能，AAOI的需求失衡在上季度电话会上就已明确，7月暴跌期间这些公司基本面没有任何恶化，&amp;quot;只是被清算后的股价变了&amp;quot;。然而当时大量投资者在AAOI跌至75美元时称其为&amp;quot;骗局&amp;quot;，如今涨到140美元又转而看多，&amp;quot;但光收发器和磷化铟衬底的瓶颈根本没变，甚至可能更严重了&amp;quot;。&lt;/p&gt;
-&lt;p&gt;对于存储，Serenity表示看到大量散户恐慌性抛售，&amp;quot;但同样这些人一个月前还在为美光签下16份供应协议和三星创纪录营业利润欢呼&amp;quot;。Serenity认为，Rubin Ultra的存储优化是英伟达每一代都会做的事，&lt;strong&gt;存储当前市值对应的营业利润水平&amp;quot;荒谬&amp;quot;&lt;/strong&gt;，尤其在存储正成为结构性需求的背景下，明年的供需失衡只会更严重。&lt;/p&gt;
-&lt;p&gt;&amp;quot;AAOI在140美元和75美元时是同一家公司。三星在1.5万亿和9800亿美元市值时也是同一家公司。&lt;strong&gt;变化的只是估值和叙事——通常是噪音——而市场在板块间轮动。&lt;/strong&gt;&amp;quot;Serenity写道。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市</title><link>https://wallstreetcn.com/articles/3779010</link><guid>9dc51fb2fe75bc457303253fc970c0ba40ce31bf70cae6fa90162a13dddb4dce</guid><pubDate>Sun, 09 Aug 2026 07:39:21 GMT</pubDate><description>&lt;p&gt;摩尔线程（688795.SH）2026年半年度财报显示，在国产算力需求爆发与万卡智算集群加速落地的双重催化下，公司上半年实现营业收入17.36亿元，同比激增147.42%；归母净利润亏损大幅收窄95.73%至-1156万元，距离全面盈亏平衡仅一步之遥。&lt;/p&gt;
+&lt;p&gt;综合上述因素，&lt;strong&gt;Semianalysis预测，假设SpaceX 2027年新增算力中仅有50%用于商业推理变现（其余供Grok和Cursor团队训练使用），SpaceX的ARR有望在2027年底达到3000亿美元。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市</title><link>https://wallstreetcn.com/articles/3779010</link><guid>9dc51fb2fe75bc457303253fc970c0ba40ce31bf70cae6fa90162a13dddb4dce</guid><pubDate>Sun, 09 Aug 2026 07:39:21 GMT</pubDate><description>&lt;p&gt;摩尔线程（688795.SH）2026年半年度财报显示，在国产算力需求爆发与万卡智算集群加速落地的双重催化下，公司上半年实现营业收入17.36亿元，同比激增147.42%；归母净利润亏损大幅收窄95.73%至-1156万元，距离全面盈亏平衡仅一步之遥。&lt;/p&gt;
 &lt;p&gt;财报显示，凭借“全功能GPU”架构与MUSA软件生态，摩尔线程夸娥（KUAE）智算集群商业化加速；同时，为保障供应链稳定，公司主动增加备货，经营活动现金流呈净流出状态。&lt;/p&gt;
 &lt;p&gt;公司还公告称，筹划发行H股股票并在香港联合交易所有限公司主板上市。&lt;/p&gt;
 
@@ -145,37 +122,7 @@ DeepSeek战略入局
 &lt;p&gt;&lt;strong&gt;一是面向通用人工智能合作研发。&lt;/strong&gt; 结合深度求索在AI大模型算法优化、模型架构创新、推理训练等方面的积累，以及宇树在机械工程设计、运动控制算法、具身智能模型等方面的优势，联合开展AI大模型与具身智能相关技术的合作研发与产品开发。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;二是高性能通用机器人深度合作。&lt;/strong&gt; 深度求索在开展具身智能相关业务或应用探索时，在同等条件下优先与宇树在机器人采购及技术方案上合作。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;三是AI大模型深度合作。&lt;/strong&gt; 宇树在大模型适配调用及融合开发时，优先与深度求索合作；深度求索也将在模型架构方案、智算集群建设、数据中心运营等方面提供技术支持。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘</title><link>https://wallstreetcn.com/articles/3779003</link><guid>b109466650a23501d72a33272702f52e77d1a7b53432e70f1b68dac4695b4952</guid><pubDate>Sun, 09 Aug 2026 05:01:55 GMT</pubDate><description>&lt;p&gt;美银证券首席投资策略师Michael Hartnett在最新一期Flow Show报告中提出了一个看似矛盾却逻辑自洽的市场判断：&lt;strong&gt;短期内保持谨慎，建议撤离风险资产；但从长期战略视角看，他维持&amp;quot;做多股票、做空债券&amp;quot;的配置，核心逻辑是美国政策制定者已将股市视为&amp;quot;大而不能倒&amp;quot;的系统性资产。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在最新动态上，美银牛熊指标已从9.4升至9.7，创2021年初迷因股泡沫以来最高水平，反映出市场情绪极度乐观。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Hartnett警告，信贷市场正在发出越来越明显的看跌信号，AI超大规模数据中心运营商的信用利差和CDS持续走阔，而科技股资金流向也在六周来首次出现净流出。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;对投资者而言，这一&amp;quot;战术看跌、战略看涨&amp;quot;的双轨判断意味着：短期内应向防御性资产和久期资产轮动，但无需对市场长期前景过度悲观——除非出现&amp;quot;收益率上升、银行股下跌&amp;quot;这一关键反转信号。&lt;/p&gt;
-牛熊指标触及五年高位，情绪过热风险上升
-&lt;p&gt;美银牛熊指标升至9.7，为近五年来最高读数，主要受高收益债券大规模资金流入、全球高收益债及AT1风险债券利差收窄，以及全球股票指数广度改善等因素驱动。&lt;/p&gt;
-&lt;p&gt;Hartnett指出，历史上每当该指标触及类似极值——无论是2018年、2020年还是2021年——市场情绪往往在此后一年内从极度乐观迅速逆转至极度悲观。他并未断言历史必然重演，但明确提示这一规律值得警惕。&lt;/p&gt;
-&lt;p&gt;从本周资金流向来看，几乎所有资产类别均获净流入：现金流入537亿美元，股票流入329亿美元，债券流入231亿美元，黄金流入9亿美元，加密货币流入6亿美元。&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;美国股票年化流入规模达6520亿美元，创历史纪录；投资级债券年化流入5270亿美元，同样创历史纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-短期战术：撤退与轮动，而非加仓
-&lt;p&gt;在短期操作层面，&lt;strong&gt;Hartnett明确表示仍处于&amp;quot;夏季撤退/轮动而非加仓&amp;quot;阵营，建议投资者从风险资产撤离，转向防御性资产（如必需消费品）、久期资产（如REITs、小盘股、生物科技）以及美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他的逻辑在于，上述资产对金融条件持续收紧具有更强的抵御能力，且相较于银行、工业和半导体等周期性板块，受&amp;quot;无宏观硬着陆、美联储不加息、AI资本开支不削减、民主党中期选举不横扫&amp;quot;这一市场主流共识落空的冲击更小。&lt;/p&gt;
-&lt;p&gt;在宏观数据层面，Hartnett此前预判，&lt;strong&gt;若7月非农就业人数超过12.5万且失业率低于4.1%，美联储主席候选人Kevin Warsh可能在8月28日杰克逊霍尔会议上重回鹰派立场；而若非农数据低于5万且失业率超过4.3%，则将利好久期资产和防御性配置&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;最终公布的数据呈现出混合信号——非农数据大幅不及预期，但失业率降至4.1%，部分抵消了负面冲击，尽管劳动力人口同期萎缩了26.4万人。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-长期战略：政策托底令股市&amp;quot;大而不能倒&amp;quot;
-&lt;p&gt;从战略视角看&lt;strong&gt;，Hartnett维持&amp;quot;做多股票、做空债券&amp;quot;的核心配置，理由是政策制定者已清晰表明不会允许股市大幅下跌&lt;/strong&gt;。他指出，&lt;strong&gt;当前美国经济高度依赖财富效应——美国家庭股票持仓今年迄今已增加7万亿美元，此前2024年和2025年分别增加9万亿美元——以及AI数据中心资本开支热潮。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上周外汇市场的协调干预行动——&lt;strong&gt;旨在终结Hartnett所称的&amp;quot;穷人版LTCM&amp;quot;去杠杆事&lt;/strong&gt;件——进一步印证了这一判断：&lt;strong&gt;美国政府始终会出手阻止金融条件收紧终结繁荣与泡沫&lt;/strong&gt;。他还补充，特朗普政府和财政部长Scott Bessent手中仍握有收益率曲线控制这张牌。&lt;/p&gt;
-&lt;p&gt;在盈利层面，Hartnett承认EPS是当前牛市的核心引擎，12个月远期EPS预期已上调33%，部分得益于过去三个月约350亿美元的关税退款，一定程度上抵消了2025年5月至7月间约750亿美元的关税冲击。&lt;/p&gt;
-终结信号与尾部风险
-&lt;p&gt;尽管长期看涨，Hartnett明确指出了当前牛市的终结条件：&lt;strong&gt;一旦出现&amp;quot;收益率上升、美元下跌&amp;quot;的债券自卫式抛售事件，迫使财政政策急转弯，并推动资产配置从股票向债券切换，本轮繁荣将走向终结。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于投资者最关心的&amp;quot;煤矿中的金丝雀&amp;quot;反转信号，Hartnett给出了明确答案：&lt;strong&gt;&amp;quot;收益率上升、银行股下跌&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在信贷市场，他注意到AI超大规模数据中心运营商的信用利差和CDS仍在走阔，原因是大规模股票回购和现金流正在消退。他认为，若MAGS（科技巨头）季报每股收益超过70美元，方能消除&amp;quot;中国廉价算力终结AI资本开支热潮&amp;quot;的威胁。&lt;/p&gt;
-黄金成为政治周期与中期选举对冲工具
-&lt;p&gt;Hartnett在报告结尾将视野拉至更宏观的政治经济框架。&lt;/p&gt;
-&lt;p&gt;他指出，2020年代的政治民粹主义推动财政扩张，带动美国名义GDP在过去六年间从20万亿美元增至32万亿美元，增幅达63%，而美国国债规模即将突破40万亿美元。&lt;/p&gt;
-&lt;p&gt;在政治格局上，他将即将到来的中期选举定性为&amp;quot;民粹资本主义&amp;quot;（以增长降低赤字）与另一种政治路线（以财富税降低赤字）之间的路线之争。&lt;/p&gt;
-&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街谈“中概”：从“无力”到“机会性看多”</title><link>https://wallstreetcn.com/articles/3779018</link><guid>ccca0376aa61d874137989632ed4c4f0a87c918ae033a145489fafef3119b74f</guid><pubDate>Sun, 09 Aug 2026 11:35:06 GMT</pubDate><description>&lt;p&gt;伴随7月板块的强劲反弹，海外投资者对中国互联网及AI大模型股票的悲观情绪一扫而空，正从6月下旬的“无力感”实质性转向“战术性做多”。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街谈“中概”：从“无力”到“机会性看多”</title><link>https://wallstreetcn.com/articles/3779018</link><guid>ccca0376aa61d874137989632ed4c4f0a87c918ae033a145489fafef3119b74f</guid><pubDate>Sun, 09 Aug 2026 11:35:06 GMT</pubDate><description>&lt;p&gt;伴随7月板块的强劲反弹，海外投资者对中国互联网及AI大模型股票的悲观情绪一扫而空，正从6月下旬的“无力感”实质性转向“战术性做多”。&lt;/p&gt;
 &lt;p&gt;美国银行（BofA）分析师 Alex Liu 在最新的市场反馈中指出，当前主导中国互联网板块的三大核心博弈点已经明朗：AI大模型不可避免的商品化趋势、字节跳动在本地生活与电商领域竞争压力的边际缓解，以及持续疲软的宏观消费与暑期出行需求。&lt;/p&gt;
 &lt;p&gt;资金正在重新评估各家大厂的性价比与基本面兑现能力。随着算力成本上升和激烈的价格战，单纯的模型层经济效益正在被削弱。市场逐渐达成共识：大模型的技术追赶难度并不高，最终的商业化赢家将出现在多模型生态、AI智能体（Agent）应用以及端侧AI领域。&lt;/p&gt;
 AI大模型深陷“商品化”泥潭，应用层与端侧成破局胜负手
@@ -194,7 +141,7 @@ AI大模型深陷“商品化”泥潭，应用层与端侧成破局胜负手
 &lt;p&gt;在其他标的中，百度方面，资金焦点已完全转向其自研AI芯片的设计能力、收入规模、潜在估值及分拆时间表上，并纠结于是否应为了芯片分拆的潜在上涨空间而继续持股。&lt;/p&gt;
 &lt;p&gt;哔哩哔哩（Bilibili）的关注度相对较低，资金在等待腾讯完成股权处置。但其平台价值在过去几年抵御字节跳动竞争后已得到验证，自2025年以来的有机参与度增长，正在为公司创造稀缺价值。&lt;/p&gt;
 &lt;p&gt;快手因其“可灵”（Kling）面临字节跳动同类产品的持续竞争，且在近期融资后缺乏短期催化剂，市场兴趣寥寥。拼多多（PDD）与腾讯音乐（TME）同样因缺乏清晰的抄底逻辑，暂时被资金冷落。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对泡泡玛特（09992.HK）的投资思考：在2100亿市值点位下的攻防战该如何抉择？</title><link>http://xueqiu.com/6861619590/404291822</link><guid>7e710e7d87886fc8f2e226b07f287fa7f619a2b4b1a7011dcf94e08acb863a22</guid><pubDate>Sun, 09 Aug 2026 14:27:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;微积分不上九十&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一、先说我的结论&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 1.6T刚放量，卖铲子的先接到了催货电话：罗博特科的“非线性”赌局</title><link>http://xueqiu.com/2237153088/404258519</link><guid>bbb5d33fa0df5af674b0bf473dc599c0c05108c7c3ab61971c8d3109326df7dd</guid><pubDate>Sun, 09 Aug 2026 05:17:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贝利马里斯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8月7日收盘，罗博特科510元，总市值829亿，年内涨幅94.5%。一家2025年还在亏损的公司，市净率52倍。很多人看到这个数字心里发毛：这到底是在赌未来，还是在赌命？&lt;/p&gt;</description></item><item><title>[今日雪球] AI硬件能否重回舞台中央</title><link>http://xueqiu.com/7977283243/404297671</link><guid>1cb103ebaf1411a70b17e604575b96ed30d8ad99d771410691951b3f3d4b6432</guid><pubDate>Sun, 09 Aug 2026 14:27:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本周好不容易硬件终于开始回暖了，就是走的真是一波三折，好不容易光领衔反弹结果一波FCC在考虑限制光模块的新闻直接给搞嘎了，市场很迅速的转向了PCB，总体来还不是很顺畅。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美贾赞炼油厂再遭袭，中东能源安全威胁持续升级</title><link>https://wallstreetcn.com/articles/3779019</link><guid>ede461bcc2f437615cc3ec1380c4d93a5cba2212fb5997e6476871c686d7c444</guid><pubDate>Sun, 09 Aug 2026 10:42:20 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯能源基础设施在不到一个月内再度遭受胡塞武装打击，凸显中东地区能源安全形势的持续恶化。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对泡泡玛特（09992.HK）的投资思考：在2100亿市值点位下的攻防战该如何抉择？</title><link>http://xueqiu.com/6861619590/404291822</link><guid>7e710e7d87886fc8f2e226b07f287fa7f619a2b4b1a7011dcf94e08acb863a22</guid><pubDate>Sun, 09 Aug 2026 14:27:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;微积分不上九十&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一、先说我的结论&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美贾赞炼油厂再遭袭，中东能源安全威胁持续升级</title><link>https://wallstreetcn.com/articles/3779019</link><guid>ede461bcc2f437615cc3ec1380c4d93a5cba2212fb5997e6476871c686d7c444</guid><pubDate>Sun, 09 Aug 2026 10:42:20 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯能源基础设施在不到一个月内再度遭受胡塞武装打击，凸显中东地区能源安全形势的持续恶化。&lt;/p&gt;
 &lt;p&gt;据央视新闻， 当地时间9日，&lt;strong&gt;也门胡塞武装称，当天使用一架无人机对沙特阿美公司位于沙特吉赞的炼油厂实施袭击，并称“成功命中目标”。&lt;/strong&gt;胡塞武装表示，此次袭击是对沙特“敌方”无人机进入也门萨达省和哈杰省领空的回应。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;沙特能源部随后确认该设施发生火灾并已扑灭，无人员伤亡。&lt;/strong&gt;沙特阿美首席执行官Amin Nasser此前表示，近期针对公司设施的袭击造成了一定程度的生产中断，但他对运营能够迅速恢复持乐观态度，并强调相关袭击未造成重大运营或财务影响。&lt;/p&gt;
 &lt;p&gt;此次袭击发生在沙特与土耳其、巴基斯坦签署集体防御协议仅两天之后，三国协议规定对任何一方的武装攻击均视同对全体的攻击。能源供应扰动与地缘安全格局的同步演变，正在给全球原油市场带来持续的不确定性。&lt;/p&gt;
@@ -217,4 +164,4 @@ AI大模型深陷“商品化”泥潭，应用层与端侧成破局胜负手
 &lt;p&gt;上述数据表明，针对海湾地区能源运输的攻击已呈现出系统性和持续性特征，波及范围从陆上炼化设施延伸至海上运输环节，对整个地区的能源供应链构成多点威胁。&lt;/p&gt;
 &lt;p&gt;在此轮冲突持续扰动下，全球能源供应已受到明显冲击。&lt;/p&gt;
 &lt;p&gt;Amin Nasser上周表示，近期袭击造成了一定程度的生产中断，但强调尚未产生重大运营或财务影响，并对运营恢复持乐观态度。&lt;/p&gt;
-&lt;p&gt;然而，贾赞炼油厂在短期内两度遭袭，加之红海航运封锁持续，原油出口恢复进程面临的不确定性正在上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;然而，贾赞炼油厂在短期内两度遭袭，加之红海航运封锁持续，原油出口恢复进程面临的不确定性正在上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI硬件能否重回舞台中央</title><link>http://xueqiu.com/7977283243/404297671</link><guid>1cb103ebaf1411a70b17e604575b96ed30d8ad99d771410691951b3f3d4b6432</guid><pubDate>Sun, 09 Aug 2026 14:27:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本周好不容易硬件终于开始回暖了，就是走的真是一波三折，好不容易光领衔反弹结果一波FCC在考虑限制光模块的新闻直接给搞嘎了，市场很迅速的转向了PCB，总体来还不是很顺畅。&lt;/p&gt;</description></item><item><title>[今日雪球] 思考：AI的周期、泡沫、风险</title><link>http://xueqiu.com/4086512744/404283932</link><guid>e18430786ec20a67627f0ccf4c092d94111229e8867d9512aec214f1d6c3ce09</guid><pubDate>Sun, 09 Aug 2026 14:27:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;老奈&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;万物皆周期，万事皆有其运行规律。做投资，看清自己的持仓处在产业周期的哪一个位置，至关重要。&lt;/p&gt;</description></item></channel></rss>
