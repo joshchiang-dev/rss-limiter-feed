@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 07:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 08:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
 &lt;p&gt;研究机构Semianalysis最新报告指出&lt;strong&gt;，SpaceX有望在2027年底前新增逾10GW算力，并由此撬动高达3000亿美元的年度经常性收入（ARR），微软将成为其最大客户。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此前，马斯克在SpaceX首次业绩发布会上宣布，&lt;strong&gt;公司&amp;quot;保守&amp;quot;目标是在2027年单年新建并交付6至8GW增量算力，上行空间可能超过10GW。&lt;/strong&gt;按每GW 500亿美元的资本开支测算，这意味着2027年的资本支出规模将达3000亿至5000亿美元，与AWS和谷歌的预期投入相当——对于一家盈利能力远不及主流超大规模云厂商的公司而言，这是一个令市场震惊的数字。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -124,7 +124,26 @@ AI产业活动与大模型追踪
 &lt;p&gt;② 8月19日2026世界机器人大会（北京经开区，8/19-23）；&lt;/p&gt;
 &lt;p&gt;③ 8月20日中国8月LPR报价+美联储会议纪要；&lt;/p&gt;
 &lt;p&gt;④ 8月21日恒生指数公司季度检讨结果；&lt;/p&gt;
-&lt;p&gt;⑤ 8月26日美国核心PCE物价指数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周末热议：“空存储、多光”？</title><link>https://wallstreetcn.com/articles/3778999</link><guid>3dd823881eab705df000175b08e7bbc0c3059e6584f00e15519ee516d353f70c</guid><pubDate>Sun, 09 Aug 2026 05:21:27 GMT</pubDate><description>&lt;p&gt;周五美股存储与光通信板块走势显著分化。&lt;strong&gt;花旗大幅下调美光目标价&lt;/strong&gt;，存储股全线承压；而&lt;strong&gt;AAOI的超预期财报则点燃光通信板块&lt;/strong&gt;，Coherent单日大涨13%。两条线索交汇之下，&lt;strong&gt;&amp;quot;空存储、多光&amp;quot;（short memory, long optical）交易策略在周末引发激烈争论&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;⑤ 8月26日美国核心PCE物价指数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市</title><link>https://wallstreetcn.com/articles/3779010</link><guid>9dc51fb2fe75bc457303253fc970c0ba40ce31bf70cae6fa90162a13dddb4dce</guid><pubDate>Sun, 09 Aug 2026 07:39:21 GMT</pubDate><description>&lt;p&gt;摩尔线程（688795.SH）2026年半年度财报显示，在国产算力需求爆发与万卡智算集群加速落地的双重催化下，公司上半年实现营业收入17.36亿元，同比激增147.42%；归母净利润亏损大幅收窄95.73%至-1156万元，距离全面盈亏平衡仅一步之遥。&lt;/p&gt;
+&lt;p&gt;财报显示，凭借“全功能GPU”架构与MUSA软件生态，摩尔线程夸娥（KUAE）智算集群商业化加速；同时，为保障供应链稳定，公司主动增加备货，经营活动现金流呈净流出状态。&lt;/p&gt;
+&lt;p&gt;公司还公告称，筹划发行H股股票并在香港联合交易所有限公司主板上市。&lt;/p&gt;
+
+6.6亿大单完成交付，营收大增带动亏损大幅收窄
+&lt;p&gt;营收的显著增长主要得益于夸娥智算集群商业化加速及产品稳定供货。&lt;/p&gt;
+&lt;p&gt;报告期内，公司于3月签订的6.60亿元夸娥智算集群日常经营性销售合同，已在期内全部完成交付并确认收入。&lt;/p&gt;
+&lt;p&gt;利润端方面，上半年公司实现毛利总额9.89亿元，同比增长103.78%，整体毛利率为56.95%。扣除非经常性损益后，公司归母净利润为-1.51亿元，较上年同期收窄52.37%。随着营业收入的大幅增长，公司基本每股收益由上年同期的-0.68元改善至-0.02元。&lt;/p&gt;
+研发投入占比超44%，万卡集群核心指标对标国际主流
+&lt;p&gt;上半年，摩尔线程研发投入达7.69亿元，同比增长38.16%，占营业收入的比例为44.30%。截至期末，公司研发人员达1,019人，占员工总数的74.16%。&lt;/p&gt;
+&lt;p&gt;在底层架构上，公司重点研发新一代“花港”架构，原生增强对FP8/FP4等低精度混合计算格式的硬件级加速，算力密度提升50%，计算能效提升10倍。&lt;/p&gt;
+&lt;p&gt;工程化落地方面，夸娥万卡级智算集群在Dense大模型训练中的算力利用率（MFU）达60%，MoE大模型达40%，多机分布式训练线性扩展效率达95%，有效训练时间占比超过90%，多项核心指标达到国际主流水平。同时，MUSA软件生态持续完善，上半年率先完成对DeepSeek-V4、Kimi K3、智谱GLM-5.2等行业SOTA大模型的Day-0级别适配。&lt;/p&gt;
+算力向边缘与终端下沉，云电脑业务多省市商用
+&lt;p&gt;除云端智算外，摩尔线程基于“长江”SoC芯片，推出MTT E300边缘模组、MTT AIBOOK算力本及MTT AICUBE家庭AI中枢等终端产品，支持端侧大模型及智能体的本地化部署。&lt;/p&gt;
+&lt;p&gt;在云电脑领域，核心产品MTT S3000单卡支持32路并发，通过动态弹性切分vGPU技术，使CPU负载降低75%、渲染性能提升10倍。目前，公司已与中国移动等头部运营商实现多省市商用落地。&lt;/p&gt;
+主动增加备货推高存货，筹划发行H股赴港上市
+&lt;p&gt;财报显示，公司上半年经营活动产生的现金流量净额为-21.69亿元，上年同期为-11.64亿元，主要系扩大产品生产规模、经营性采购支出增加所致。&lt;/p&gt;
+&lt;p&gt;资产负债方面，截至报告期末，摩尔线程存货账面价值为35.50亿元，占总资产比重达20.97%，较上年末增长166.48%；预付款项为13.44亿元。公司在财报中说明，受内外部环境变化及相关政策影响，公司积极调整供应链策略，为应对市场需求增长及保障供应链稳定，主动增加备货，并按行业惯例向上游提前订货并预付一定比例货款。报告期内，公司计提了3904.77万元的资产减值损失，主要为存货跌价损失及合同履约成本减值。&lt;/p&gt;
+&lt;p&gt;在披露半年报的同时，摩尔线程宣布，公司正筹划发行H股股票并在香港联合交易所有限公司主板上市。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周末热议：“空存储、多光”？</title><link>https://wallstreetcn.com/articles/3778999</link><guid>3dd823881eab705df000175b08e7bbc0c3059e6584f00e15519ee516d353f70c</guid><pubDate>Sun, 09 Aug 2026 05:21:27 GMT</pubDate><description>&lt;p&gt;周五美股存储与光通信板块走势显著分化。&lt;strong&gt;花旗大幅下调美光目标价&lt;/strong&gt;，存储股全线承压；而&lt;strong&gt;AAOI的超预期财报则点燃光通信板块&lt;/strong&gt;，Coherent单日大涨13%。两条线索交汇之下，&lt;strong&gt;&amp;quot;空存储、多光&amp;quot;（short memory, long optical）交易策略在周末引发激烈争论&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;率先抛出这一框架的，是市场公认的存储多头——Citrini分析师Jukan。他在X平台称&lt;strong&gt;部分对冲基金已开始据此建仓&lt;/strong&gt;。随即，知名投资者&amp;quot;白毛股神&amp;quot;Serenity针锋相对，认为存储基本面未变，市场不过是在&amp;quot;瓶颈与瓶颈之间轮动&amp;quot;。&lt;/p&gt;
 花旗下调美光目标价，存储价格见顶预期升温
 &lt;p&gt;周五，美光（MU）跌约1%，SanDisk（SNDK）跌超2%，跌势延伸至亚洲——SK海力士跌逾4%，三星、铠侠同步走低。&lt;/p&gt;
@@ -194,7 +213,31 @@ AAOI业绩超预期，点燃光通信板块
 &lt;p&gt;多提供商SDK下载量&lt;strong&gt;周环比增长12.7%&lt;/strong&gt;，加速势头明显。应用端，通义千问周活增长2.5%，Gemini增长0.5%，Kimi下降0.8%，流量格局仍在快速变化。&lt;/p&gt;
 &lt;p&gt;7月AI驱动裁员录得3220人，&lt;strong&gt;较前月21640人下降85%&lt;/strong&gt;。但裁员数据波动性极大，AI驱动裁员在总裁员中的占比并未趋势性下降。下一轮宏观调整来临时，AI替代的加速效应仍可能再次放大。&lt;/p&gt;
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树科技明日申购，中一签能赚多少？</title><link>https://wallstreetcn.com/articles/3779007</link><guid>e00c3d6c9c61020d0402c3a7d3ba48b59125cf3b021b415269ff32ba7e021e36</guid><pubDate>Sun, 09 Aug 2026 07:15:45 GMT</pubDate><description>&lt;p&gt;&amp;quot;A股人形机器人第一股&amp;quot;宇树科技（申购代码787836）将于8月10日正式启动网上、网下申购，发行价150.80元/股，中一签（500股）需缴款7.54万元。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股“撞墙”，但市场没有</title><link>https://wallstreetcn.com/articles/3779011</link><guid>109fe0ae3d7005967fefe50776d1ae373592a13ce583f942aec582eb68c59674</guid><pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate><description>&lt;p&gt;芯片股重挫、债券收益率飙升、地缘冲突持续——&lt;strong&gt;华尔街的忧虑清单越拉越长，但资金流向却讲述着截然不同的故事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上周，&lt;strong&gt;标普500指数创下历史新高，纳斯达克100指数录得两个月来最大单周涨幅，与此同时，高收益债券基金单周吸金40亿美元，创两年来最高纪录，比特币ETF五个交易日净流入5亿美元。&lt;/strong&gt;美银的牛熊指数升至2021年以来最高水平，显示市场情绪已全面转向乐观。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一切发生在AI对冲基金Situational Awareness——由“硅谷股神”Leopold Aschenbrenner创立——爆仓风波之后。该事件一度将费城半导体指数从6月高点拉低29%。然而投资者非但没有撤退，反而将这场动荡视为买入信号，在短短两个交易日内向半导体ETF注入逾110亿美元，随后相关基金大幅飙升。&lt;/p&gt;
+芯片股重挫反成买入信号
+&lt;p&gt;Situational Awareness的爆仓风波是近期市场最具戏剧性的一幕。这家AI主题对冲基金的困境一度将费城半导体指数从6月高点压低29%，触发了科技股的剧烈震荡。&lt;/p&gt;
+&lt;p&gt;但市场的反应与传统避险逻辑背道而驰。据彭博数据，&lt;strong&gt;三倍做多半导体股的Direxion Daily Semiconductor Bull 3X ETF在短短两个交易日内吸引超过20亿美元资金流入，随后七个交易日内累计涨幅超过50%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两只规模最大的非杠杆半导体基金同期合计吸金逾70亿美元，各自上涨约16%。&lt;/p&gt;
+&lt;p&gt;JonesTrading首席市场策略师Michael O&amp;#x27;Rourke将此定性为动量买盘的&amp;quot;海啸&amp;quot;。&amp;quot;Situational Awareness事件制造了AI交易的阶段性低点，由此释放出大规模的动量追涨行为，&amp;quot;他表示，&amp;quot;不过值得注意的是，许多投资者仍倾向于集中在超大市值股票，七巨头依然是指数上涨的主要驱动力。&amp;quot;&lt;/p&gt;
+从散户到机构，风险偏好全面升温
+&lt;p&gt;推动市场的不仅是芯片股的反弹，更是跨资产类别的全面资金涌入。&lt;/p&gt;
+&lt;p&gt;据彭博援引美银数据，高收益债券基金上周净流入40亿美元，为两年来单周最大规模；比特币ETF在截至上周四的五个交易日内净流入5亿美元，尽管比特币价格已在窄幅区间内横盘数月。股票市场方面，投资者上周向半导体相关的杠杆及非杠杆ETF合计注入逾110亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美银牛熊指数随之升至2021年以来最高水平。&lt;/strong&gt;以策略师Michael Hartnett为首的团队指出，股票涨势已从科技核心板块向外扩散，高收益债强劲流入以及信用利差收窄，共同支撑了这一乐观情绪。&lt;/p&gt;
+&lt;p&gt;Natixis Investment Managers Solutions的投资组合策略师Garrett Melson认为，当前市场担忧被过度放大，风险资产的基本面依然稳固。他维持对美国股票的超配立场，重点布局大市值科技股，同时对固定收益保持低配，但适度持有较长久期并进行选择性信用敞口配置。&amp;quot;归根结底，经济增长表现良好，&amp;quot;Melson表示，&amp;quot;情绪和仓位有时会过度延伸，但这种过热是局部性的，轮动行情帮助消化了多余的泡沫，同时维持了指数的支撑。&amp;quot;&lt;/p&gt;
+高收益率阴影：债市压力尚未消散
+&lt;p&gt;风险资产的狂欢并非在无忧环境中上演。&lt;strong&gt;30年期美国国债收益率尽管在近五个交易日中有四天出现回落，但仍徘徊于近二十年来的高位附近，构成市场不可忽视的背景压力&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;分析人士对收益率高企的成因存在分歧。部分人士将7月底的收益率飙升归咎于美联储主席Kevin Warsh刻意回避明确利率指引，令市场对其抗通胀决心产生疑虑；另一些人则认为，债市走势反映的是投资者对经济持续扩张的信心。&lt;/p&gt;
+&lt;p&gt;上周五，美国劳工部公布的数据显示，7月美国雇主意外削减就业岗位，前两个月数据亦遭下修。这一意外疲软的就业报告反而提振了股市，债券收益率随之回落，市场押注美联储短期内不会被迫加息。&lt;/p&gt;
+&lt;p&gt;高盛资产管理的Lindsay Rosner表示，随着数据逐步明朗、油价趋于稳定，经济全貌以及资本支出回报率正变得更加清晰。&amp;quot;综合我们所见，经济依然强劲，市场正逐渐适应当前AI供给，并对未来走势进行价格发现，&amp;quot;她说。&lt;/p&gt;
+&lt;p&gt;Wealth Enhancement高级投资策略师Ayako Yoshioka则提示，&lt;strong&gt;半导体仍是AI基础设施建设的核心，但随着进程推进，瓶颈可能向电力供应短缺转移。&amp;quot;更高的收益率仍是风险所在——尤其是在AI基础设施建设持续叩响债市大门的背景下，&amp;quot;她说。&lt;/strong&gt;&lt;/p&gt;
+短暂回调反复强化多头信心
+&lt;p&gt;支撑当前市场情绪的，还有一种被反复验证的投资者心理——每一次回调都是短暂的，每一次恐慌都是买入机会。&lt;/p&gt;
+&lt;p&gt;Manulife Investment Management高级投资组合经理Nathan Thooft指出，价格修正一再被证明转瞬即逝，这不断强化了投资者的心理底气。那些在不确定性最高时选择离场的人付出了代价，因为最大的涨幅往往恰恰出现在市场最动荡的时刻。&lt;/p&gt;
+&lt;p&gt;&amp;quot;目前仍然没有令人信服的替代选项，&amp;quot;Thooft表示，&amp;quot;现金或许感觉安全，但从长期来看，它难以跑赢通胀和股票式的盈利增长。至于债券，我们认为期限溢价仍被低估。过去十年里，那些一直等待更好入场时机的投资者，大多已被市场甩在了身后。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Cboe半导体ETF波动率指数本周下降近9个点，创年内最大单周降幅，直观呈现了市场情绪的快速修复。尽管忧虑清单仍在延伸，但资金的投票方向，依然清晰地指向风险资产。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树科技明日申购，中一签能赚多少？</title><link>https://wallstreetcn.com/articles/3779007</link><guid>e00c3d6c9c61020d0402c3a7d3ba48b59125cf3b021b415269ff32ba7e021e36</guid><pubDate>Sun, 09 Aug 2026 07:15:45 GMT</pubDate><description>&lt;p&gt;&amp;quot;A股人形机器人第一股&amp;quot;宇树科技（申购代码787836）将于8月10日正式启动网上、网下申购，发行价150.80元/股，中一签（500股）需缴款7.54万元。&lt;/p&gt;
 &lt;p&gt;市场人士测算，&lt;strong&gt;若上市首日涨幅超过100%，中一签盈利将超过7.5万元；若涨幅超过200%，盈利将高达15万元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;值得关注的是，DeepSeek母公司深度求索获配93.34万股，获配金额1.41亿元，限售期36个月。双方已签署《战略合作备忘录》，将在具身智能与AI大模型领域展开深度合作。&lt;/p&gt;
 &lt;p&gt;有券商指出，中长期来看，宇树登陆A股有望牵引更多长期资金系统性配置人形机器人赛道。&lt;/p&gt;
@@ -217,37 +260,7 @@ DeepSeek战略入局
 &lt;p&gt;&lt;strong&gt;一是面向通用人工智能合作研发。&lt;/strong&gt; 结合深度求索在AI大模型算法优化、模型架构创新、推理训练等方面的积累，以及宇树在机械工程设计、运动控制算法、具身智能模型等方面的优势，联合开展AI大模型与具身智能相关技术的合作研发与产品开发。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;二是高性能通用机器人深度合作。&lt;/strong&gt; 深度求索在开展具身智能相关业务或应用探索时，在同等条件下优先与宇树在机器人采购及技术方案上合作。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;三是AI大模型深度合作。&lt;/strong&gt; 宇树在大模型适配调用及融合开发时，优先与深度求索合作；深度求索也将在模型架构方案、智算集群建设、数据中心运营等方面提供技术支持。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘</title><link>https://wallstreetcn.com/articles/3779003</link><guid>b109466650a23501d72a33272702f52e77d1a7b53432e70f1b68dac4695b4952</guid><pubDate>Sun, 09 Aug 2026 05:01:55 GMT</pubDate><description>&lt;p&gt;美银证券首席投资策略师Michael Hartnett在最新一期Flow Show报告中提出了一个看似矛盾却逻辑自洽的市场判断：&lt;strong&gt;短期内保持谨慎，建议撤离风险资产；但从长期战略视角看，他维持&amp;quot;做多股票、做空债券&amp;quot;的配置，核心逻辑是美国政策制定者已将股市视为&amp;quot;大而不能倒&amp;quot;的系统性资产。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在最新动态上，美银牛熊指标已从9.4升至9.7，创2021年初迷因股泡沫以来最高水平，反映出市场情绪极度乐观。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Hartnett警告，信贷市场正在发出越来越明显的看跌信号，AI超大规模数据中心运营商的信用利差和CDS持续走阔，而科技股资金流向也在六周来首次出现净流出。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;对投资者而言，这一&amp;quot;战术看跌、战略看涨&amp;quot;的双轨判断意味着：短期内应向防御性资产和久期资产轮动，但无需对市场长期前景过度悲观——除非出现&amp;quot;收益率上升、银行股下跌&amp;quot;这一关键反转信号。&lt;/p&gt;
-牛熊指标触及五年高位，情绪过热风险上升
-&lt;p&gt;美银牛熊指标升至9.7，为近五年来最高读数，主要受高收益债券大规模资金流入、全球高收益债及AT1风险债券利差收窄，以及全球股票指数广度改善等因素驱动。&lt;/p&gt;
-&lt;p&gt;Hartnett指出，历史上每当该指标触及类似极值——无论是2018年、2020年还是2021年——市场情绪往往在此后一年内从极度乐观迅速逆转至极度悲观。他并未断言历史必然重演，但明确提示这一规律值得警惕。&lt;/p&gt;
-&lt;p&gt;从本周资金流向来看，几乎所有资产类别均获净流入：现金流入537亿美元，股票流入329亿美元，债券流入231亿美元，黄金流入9亿美元，加密货币流入6亿美元。&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;美国股票年化流入规模达6520亿美元，创历史纪录；投资级债券年化流入5270亿美元，同样创历史纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-短期战术：撤退与轮动，而非加仓
-&lt;p&gt;在短期操作层面，&lt;strong&gt;Hartnett明确表示仍处于&amp;quot;夏季撤退/轮动而非加仓&amp;quot;阵营，建议投资者从风险资产撤离，转向防御性资产（如必需消费品）、久期资产（如REITs、小盘股、生物科技）以及美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他的逻辑在于，上述资产对金融条件持续收紧具有更强的抵御能力，且相较于银行、工业和半导体等周期性板块，受&amp;quot;无宏观硬着陆、美联储不加息、AI资本开支不削减、民主党中期选举不横扫&amp;quot;这一市场主流共识落空的冲击更小。&lt;/p&gt;
-&lt;p&gt;在宏观数据层面，Hartnett此前预判，&lt;strong&gt;若7月非农就业人数超过12.5万且失业率低于4.1%，美联储主席候选人Kevin Warsh可能在8月28日杰克逊霍尔会议上重回鹰派立场；而若非农数据低于5万且失业率超过4.3%，则将利好久期资产和防御性配置&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;最终公布的数据呈现出混合信号——非农数据大幅不及预期，但失业率降至4.1%，部分抵消了负面冲击，尽管劳动力人口同期萎缩了26.4万人。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-长期战略：政策托底令股市&amp;quot;大而不能倒&amp;quot;
-&lt;p&gt;从战略视角看&lt;strong&gt;，Hartnett维持&amp;quot;做多股票、做空债券&amp;quot;的核心配置，理由是政策制定者已清晰表明不会允许股市大幅下跌&lt;/strong&gt;。他指出，&lt;strong&gt;当前美国经济高度依赖财富效应——美国家庭股票持仓今年迄今已增加7万亿美元，此前2024年和2025年分别增加9万亿美元——以及AI数据中心资本开支热潮。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上周外汇市场的协调干预行动——&lt;strong&gt;旨在终结Hartnett所称的&amp;quot;穷人版LTCM&amp;quot;去杠杆事&lt;/strong&gt;件——进一步印证了这一判断：&lt;strong&gt;美国政府始终会出手阻止金融条件收紧终结繁荣与泡沫&lt;/strong&gt;。他还补充，特朗普政府和财政部长Scott Bessent手中仍握有收益率曲线控制这张牌。&lt;/p&gt;
-&lt;p&gt;在盈利层面，Hartnett承认EPS是当前牛市的核心引擎，12个月远期EPS预期已上调33%，部分得益于过去三个月约350亿美元的关税退款，一定程度上抵消了2025年5月至7月间约750亿美元的关税冲击。&lt;/p&gt;
-终结信号与尾部风险
-&lt;p&gt;尽管长期看涨，Hartnett明确指出了当前牛市的终结条件：&lt;strong&gt;一旦出现&amp;quot;收益率上升、美元下跌&amp;quot;的债券自卫式抛售事件，迫使财政政策急转弯，并推动资产配置从股票向债券切换，本轮繁荣将走向终结。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于投资者最关心的&amp;quot;煤矿中的金丝雀&amp;quot;反转信号，Hartnett给出了明确答案：&lt;strong&gt;&amp;quot;收益率上升、银行股下跌&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在信贷市场，他注意到AI超大规模数据中心运营商的信用利差和CDS仍在走阔，原因是大规模股票回购和现金流正在消退。他认为，若MAGS（科技巨头）季报每股收益超过70美元，方能消除&amp;quot;中国廉价算力终结AI资本开支热潮&amp;quot;的威胁。&lt;/p&gt;
-黄金成为政治周期与中期选举对冲工具
-&lt;p&gt;Hartnett在报告结尾将视野拉至更宏观的政治经济框架。&lt;/p&gt;
-&lt;p&gt;他指出，2020年代的政治民粹主义推动财政扩张，带动美国名义GDP在过去六年间从20万亿美元增至32万亿美元，增幅达63%，而美国国债规模即将突破40万亿美元。&lt;/p&gt;
-&lt;p&gt;在政治格局上，他将即将到来的中期选举定性为&amp;quot;民粹资本主义&amp;quot;（以增长降低赤字）与另一种政治路线（以财富税降低赤字）之间的路线之争。&lt;/p&gt;
-&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%</title><link>https://wallstreetcn.com/articles/3778996</link><guid>5fd8b25890adbe95fbc610d0ac953610e2f9c7ad4c5341c6f87a493ee128853d</guid><pubDate>Sun, 09 Aug 2026 01:31:31 GMT</pubDate><description>&lt;p&gt;中国7月物价数据显示，消费端通胀维持温和，汽油价格大幅回落拖累同比涨幅收窄，而服务价格和消费电子产品价格成为主要支撑；生产端价格则在输入性压力和季节性因素叠加下环比加速下行，同比涨幅连续回落。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%</title><link>https://wallstreetcn.com/articles/3778996</link><guid>5fd8b25890adbe95fbc610d0ac953610e2f9c7ad4c5341c6f87a493ee128853d</guid><pubDate>Sun, 09 Aug 2026 01:31:31 GMT</pubDate><description>&lt;p&gt;中国7月物价数据显示，消费端通胀维持温和，汽油价格大幅回落拖累同比涨幅收窄，而服务价格和消费电子产品价格成为主要支撑；生产端价格则在输入性压力和季节性因素叠加下环比加速下行，同比涨幅连续回落。&lt;/p&gt;
 &lt;p&gt;周末，国家统计局数据显示：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7月CPI同比上涨0.5%，涨幅较上月回落0.5个百分点，主要受汽油价格同比涨幅大幅收窄（16个百分点）影响。&lt;/strong&gt;与此同时，暑期出行需求拉动旅游、住宿等服务价格环比明显上涨，人工智能驱动消费电子产品需求增加，相关价格显著上行。&lt;strong&gt;7月CPI环比下降0.1%，降幅比上月收窄0.2个百分点。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;生产端，&lt;strong&gt;PPI同比上涨3.5%，涨幅较上月回落0.6个百分点。&lt;/strong&gt;国际大宗商品价格波动向国内石油、有色金属等上游行业传导，叠加高温、台风等天气因素压制建材和建筑需求，&lt;strong&gt;PPI环比降幅较上月扩大0.4个百分点至0.7%。&lt;/strong&gt;&lt;/p&gt;
@@ -300,7 +313,37 @@ PPI同比涨幅收窄至3.5%，环比降幅扩大
 &lt;p&gt;&lt;strong&gt;二、工业生产者价格环比变动情况&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7月份，工业生产者出厂价格中，生产资料价格环比下降0.9%，影响工业生产者出厂价格总水平下降约0.70个百分点。其中，采掘工业价格下降0.2%，原材料工业价格下降2.4%，加工工业价格下降0.1%。生活资料价格下降0.1%，影响工业生产者出厂价格总水平下降约0.01个百分点。其中，食品和耐用消费品价格均持平，衣着价格下降0.3%，一般日用品价格下降0.2%。&lt;/p&gt;
 &lt;p&gt;工业生产者购进价格中，燃料动力类、化工原料类价格均下降2.6%，有色金属材料及电线类价格下降1.4%，黑色金属材料类、纺织原料类价格均下降0.2%，建筑材料及非金属类价格下降0.1%；农副产品类价格上涨0.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票</title><link>https://wallstreetcn.com/articles/3778995</link><guid>4876c75a76ddb0eb07ee56149d751243a2e047c729b06b77efd5e16b47cb7e4f</guid><pubDate>Sun, 09 Aug 2026 01:15:28 GMT</pubDate><description>&lt;p&gt;Greg Abel执掌伯克希尔·哈撒韦以来，首次展现出与前任截然不同的资本配置风格——这家坐拥逾3600亿美元现金的巨型企业，正在加速出手。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘</title><link>https://wallstreetcn.com/articles/3779003</link><guid>b109466650a23501d72a33272702f52e77d1a7b53432e70f1b68dac4695b4952</guid><pubDate>Sun, 09 Aug 2026 05:01:55 GMT</pubDate><description>&lt;p&gt;美银证券首席投资策略师Michael Hartnett在最新一期Flow Show报告中提出了一个看似矛盾却逻辑自洽的市场判断：&lt;strong&gt;短期内保持谨慎，建议撤离风险资产；但从长期战略视角看，他维持&amp;quot;做多股票、做空债券&amp;quot;的配置，核心逻辑是美国政策制定者已将股市视为&amp;quot;大而不能倒&amp;quot;的系统性资产。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在最新动态上，美银牛熊指标已从9.4升至9.7，创2021年初迷因股泡沫以来最高水平，反映出市场情绪极度乐观。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，Hartnett警告，信贷市场正在发出越来越明显的看跌信号，AI超大规模数据中心运营商的信用利差和CDS持续走阔，而科技股资金流向也在六周来首次出现净流出。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;对投资者而言，这一&amp;quot;战术看跌、战略看涨&amp;quot;的双轨判断意味着：短期内应向防御性资产和久期资产轮动，但无需对市场长期前景过度悲观——除非出现&amp;quot;收益率上升、银行股下跌&amp;quot;这一关键反转信号。&lt;/p&gt;
+牛熊指标触及五年高位，情绪过热风险上升
+&lt;p&gt;美银牛熊指标升至9.7，为近五年来最高读数，主要受高收益债券大规模资金流入、全球高收益债及AT1风险债券利差收窄，以及全球股票指数广度改善等因素驱动。&lt;/p&gt;
+&lt;p&gt;Hartnett指出，历史上每当该指标触及类似极值——无论是2018年、2020年还是2021年——市场情绪往往在此后一年内从极度乐观迅速逆转至极度悲观。他并未断言历史必然重演，但明确提示这一规律值得警惕。&lt;/p&gt;
+&lt;p&gt;从本周资金流向来看，几乎所有资产类别均获净流入：现金流入537亿美元，股票流入329亿美元，债券流入231亿美元，黄金流入9亿美元，加密货币流入6亿美元。&lt;/p&gt;
+&lt;p&gt;其中，&lt;strong&gt;美国股票年化流入规模达6520亿美元，创历史纪录；投资级债券年化流入5270亿美元，同样创历史纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+短期战术：撤退与轮动，而非加仓
+&lt;p&gt;在短期操作层面，&lt;strong&gt;Hartnett明确表示仍处于&amp;quot;夏季撤退/轮动而非加仓&amp;quot;阵营，建议投资者从风险资产撤离，转向防御性资产（如必需消费品）、久期资产（如REITs、小盘股、生物科技）以及美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他的逻辑在于，上述资产对金融条件持续收紧具有更强的抵御能力，且相较于银行、工业和半导体等周期性板块，受&amp;quot;无宏观硬着陆、美联储不加息、AI资本开支不削减、民主党中期选举不横扫&amp;quot;这一市场主流共识落空的冲击更小。&lt;/p&gt;
+&lt;p&gt;在宏观数据层面，Hartnett此前预判，&lt;strong&gt;若7月非农就业人数超过12.5万且失业率低于4.1%，美联储主席候选人Kevin Warsh可能在8月28日杰克逊霍尔会议上重回鹰派立场；而若非农数据低于5万且失业率超过4.3%，则将利好久期资产和防御性配置&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;最终公布的数据呈现出混合信号——非农数据大幅不及预期，但失业率降至4.1%，部分抵消了负面冲击，尽管劳动力人口同期萎缩了26.4万人。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+长期战略：政策托底令股市&amp;quot;大而不能倒&amp;quot;
+&lt;p&gt;从战略视角看&lt;strong&gt;，Hartnett维持&amp;quot;做多股票、做空债券&amp;quot;的核心配置，理由是政策制定者已清晰表明不会允许股市大幅下跌&lt;/strong&gt;。他指出，&lt;strong&gt;当前美国经济高度依赖财富效应——美国家庭股票持仓今年迄今已增加7万亿美元，此前2024年和2025年分别增加9万亿美元——以及AI数据中心资本开支热潮。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上周外汇市场的协调干预行动——&lt;strong&gt;旨在终结Hartnett所称的&amp;quot;穷人版LTCM&amp;quot;去杠杆事&lt;/strong&gt;件——进一步印证了这一判断：&lt;strong&gt;美国政府始终会出手阻止金融条件收紧终结繁荣与泡沫&lt;/strong&gt;。他还补充，特朗普政府和财政部长Scott Bessent手中仍握有收益率曲线控制这张牌。&lt;/p&gt;
+&lt;p&gt;在盈利层面，Hartnett承认EPS是当前牛市的核心引擎，12个月远期EPS预期已上调33%，部分得益于过去三个月约350亿美元的关税退款，一定程度上抵消了2025年5月至7月间约750亿美元的关税冲击。&lt;/p&gt;
+终结信号与尾部风险
+&lt;p&gt;尽管长期看涨，Hartnett明确指出了当前牛市的终结条件：&lt;strong&gt;一旦出现&amp;quot;收益率上升、美元下跌&amp;quot;的债券自卫式抛售事件，迫使财政政策急转弯，并推动资产配置从股票向债券切换，本轮繁荣将走向终结。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于投资者最关心的&amp;quot;煤矿中的金丝雀&amp;quot;反转信号，Hartnett给出了明确答案：&lt;strong&gt;&amp;quot;收益率上升、银行股下跌&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在信贷市场，他注意到AI超大规模数据中心运营商的信用利差和CDS仍在走阔，原因是大规模股票回购和现金流正在消退。他认为，若MAGS（科技巨头）季报每股收益超过70美元，方能消除&amp;quot;中国廉价算力终结AI资本开支热潮&amp;quot;的威胁。&lt;/p&gt;
+黄金成为政治周期与中期选举对冲工具
+&lt;p&gt;Hartnett在报告结尾将视野拉至更宏观的政治经济框架。&lt;/p&gt;
+&lt;p&gt;他指出，2020年代的政治民粹主义推动财政扩张，带动美国名义GDP在过去六年间从20万亿美元增至32万亿美元，增幅达63%，而美国国债规模即将突破40万亿美元。&lt;/p&gt;
+&lt;p&gt;在政治格局上，他将即将到来的中期选举定性为&amp;quot;民粹资本主义&amp;quot;（以增长降低赤字）与另一种政治路线（以财富税降低赤字）之间的路线之争。&lt;/p&gt;
+&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票</title><link>https://wallstreetcn.com/articles/3778995</link><guid>4876c75a76ddb0eb07ee56149d751243a2e047c729b06b77efd5e16b47cb7e4f</guid><pubDate>Sun, 09 Aug 2026 01:15:28 GMT</pubDate><description>&lt;p&gt;Greg Abel执掌伯克希尔·哈撒韦以来，首次展现出与前任截然不同的资本配置风格——这家坐拥逾3600亿美元现金的巨型企业，正在加速出手。&lt;/p&gt;
 &lt;p&gt;二季度，&lt;strong&gt;伯克希尔净买入约200亿美元股票&lt;/strong&gt;，&lt;strong&gt;终结了前任CEO沃伦·巴菲特持续逾三年的净卖出态势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;公司斥资约45亿美元回购自身股票，&lt;/strong&gt;并以68亿美元收购房屋建筑商Taylor Morrison Home，&lt;strong&gt;现金储备较上季度下降约4%至3647亿美元，为四年来首次环比下降&lt;/strong&gt;。公司当季净利润同比翻逾一倍，至257亿美元。&lt;/p&gt;
 &lt;p&gt;上述举措发生在美国股市处于历史高位的背景下，与巴菲特时代的谨慎姿态形成鲜明对比，令市场重新审视伯克希尔的投资信号意义。Abel在今年5月的股东大会上曾表示，愿意&amp;quot;果断行动&amp;quot;并进行&amp;quot;重大投资&amp;quot;，此番二季度的密集出手，正是这一表态的兑现。&lt;/p&gt;
