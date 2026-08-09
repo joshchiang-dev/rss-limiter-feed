@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 13:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 09 Aug 2026 14:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] 微软缺算力，马斯克补上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR达3000亿美元</title><link>https://wallstreetcn.com/articles/3779004</link><guid>16858d616b227932703e96a18ed7dfc7f233376ceaad39838a6e922c64639f2d</guid><pubDate>Sun, 09 Aug 2026 07:11:40 GMT</pubDate><description>&lt;p&gt;SpaceX正以超乎市场预期的速度向超大规模算力供应商转型。&lt;/p&gt;
 &lt;p&gt;研究机构Semianalysis最新报告指出&lt;strong&gt;，SpaceX有望在2027年底前新增逾10GW算力，并由此撬动高达3000亿美元的年度经常性收入（ARR），微软将成为其最大客户。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此前，马斯克在SpaceX首次业绩发布会上宣布，&lt;strong&gt;公司&amp;quot;保守&amp;quot;目标是在2027年单年新建并交付6至8GW增量算力，上行空间可能超过10GW。&lt;/strong&gt;按每GW 500亿美元的资本开支测算，这意味着2027年的资本支出规模将达3000亿至5000亿美元，与AWS和谷歌的预期投入相当——对于一家盈利能力远不及主流超大规模云厂商的公司而言，这是一个令市场震惊的数字。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -27,104 +27,7 @@ SpaceX的建设速度：颠覆行业惯例
 融资路径：英伟达供应商融资与现金流滚动
 &lt;p&gt;针对外界对SpaceX资本实力的质疑，Semianalysis提出了两条融资路径。&lt;/p&gt;
 &lt;p&gt;其一，英伟达可能以供应商融资形式降低SpaceX的前期现金支出——这也被认为是马斯克在业绩会上宣布独家采用英伟达芯片的重要原因，尽管SpaceX此前曾评估过TPU和AMD等替代方案。其二，SpaceX凭借行业最快的交付周期，以每MW每年3000万至5000万美元的高溢价定价，使资本开支在不到一年内即可通过运营现金流收回。&lt;/p&gt;
-&lt;p&gt;综合上述因素，&lt;strong&gt;Semianalysis预测，假设SpaceX 2027年新增算力中仅有50%用于商业推理变现（其余供Grok和Cursor团队训练使用），SpaceX的ARR有望在2027年底达到3000亿美元。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报</title><link>https://wallstreetcn.com/articles/3778910</link><guid>7ca353a2db8ef92e1984e5cfe90eb556ba80932136e67759cd724ebc0d4d9dee</guid><pubDate>Sun, 09 Aug 2026 02:03:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月09日 - 08月17日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;见闻财经日历提醒8月10日至16日当周需重点关注：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;宏观数据和央行动态方面，美国7月CPI&lt;/strong&gt;与PPI相继公布，前者直接定价美联储9月降息路径，现已有报道称若未来几周通胀数据偏热且市场加息预期升温，沃什考虑加息。其次，澳联储利率决议将公布，市场预期该行按兵不动。日本央行7月会议意见摘要也将公布。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;财报主线验证AI成色。 腾讯、京东&lt;/strong&gt;领衔中概中报季最密集一周，&lt;strong&gt;中芯国际、华虹半导体、海光信息、贵州茅台、摩尔线程&lt;/strong&gt;接力放榜；美股侧光模块龙头&lt;strong&gt;Lumentum、CoreWeave&lt;/strong&gt;、超微电脑、思科、Coherent、应用材料连续三夜构成AI基础设施全链条压力测试，光模块、算力、网络、设备四大环节同频共振。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;科技产业催化密集。&lt;/strong&gt; &lt;strong&gt;宇树科技科创板打新&lt;/strong&gt;为年内人形机器人头号IPO；谷歌Pixel 11发布会深度整合Gemini生态；DeepSeek宣告大幅涨价、长鑫科技纳入MSCI、&lt;strong&gt;闪迪投资者日、朱雀三号再发射、黄仁勋会见LG高管&lt;/strong&gt;，科技产业催化事件高度集中。此外，&lt;strong&gt;美国SEC 13F季度持仓文件将于8月14日截止披露&lt;/strong&gt;，将披露美国对冲基金等机构截至6月30日的股票持仓明细。&lt;/p&gt;
-港股与A股财报：腾讯、京东领衔，茅台、海光、中芯密集放榜
-&lt;p&gt;&lt;strong&gt;腾讯控股二季报（8月12日20:00）为本周港股头号焦点&lt;/strong&gt;——港股核心权重，市场关注AI资本开支规模、游戏业务复苏与视频号商业化进展。&lt;strong&gt;京东集团&lt;/strong&gt;二季报（8月13日20:00），京东物流、京东健康、京东工业同步披露，电商+物流一体化验证。&lt;strong&gt;中芯国际&lt;/strong&gt;（8月13日盘后，8月14日业绩说明会）与&lt;strong&gt;华虹半导体&lt;/strong&gt;检验晶圆代工景气与国产替代兑现。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A股侧，&lt;/strong&gt;&lt;strong&gt;摩尔线程&lt;/strong&gt;-U上市后首份中报拉开序幕，&lt;strong&gt;江波龙&lt;/strong&gt;验证存储周期弹性，&lt;strong&gt;工业富联&lt;/strong&gt;检验AI服务器代工放量；&lt;strong&gt;海光信息&lt;/strong&gt;国产CPU/DCU龙头中报压轴；&lt;strong&gt;贵州茅台&lt;/strong&gt;与&lt;strong&gt;生益科技、生益电子、太辰光、宏和科技&lt;/strong&gt;等AI算力上游材料链同日收官，8月15日单日126家A股公司集中放榜，为中报季最拥挤交易日之一。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
- 美股科技财报：光模块、算力、设备三线共振
-&lt;p&gt;本周美股财报看点高度集中于AI基础设施链条。8月11日周二盘后（北京8/12凌晨）：光模块龙头&lt;strong&gt;Lumentum&lt;/strong&gt;与AI算力租赁龙头&lt;strong&gt;CoreWeave&lt;/strong&gt;电话会均于美东17:00举行；&lt;strong&gt;超微电脑&lt;/strong&gt;同日放榜，7月21日预披露已将Q4毛利指引上修至15-17%（此前8.2-8.4%）。8月12日周三&lt;strong&gt;思科与Coherent&lt;/strong&gt;盘后同日，网络设备+光模块验证AI网络资本开支；8月13日周四&lt;strong&gt;应用材料&lt;/strong&gt;盘后，DRAM/先进封装设备需求为半导体设备链定调。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-科技产业与资本市场：宇树打新、谷歌Pixel 11、闪迪投资者日、朱雀三号、Deepseek涨价在即
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;8月10日周一宇树科技科创板打新&lt;/strong&gt;（网上/网下申购日）为年内最受关注IPO——人形机器人独角兽，初步询价8月5日已完成，8月12日缴款。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;8月13日06:00谷歌Made by Google发布会&lt;/strong&gt;于纽约推出Pixel 11系列四款新机（标准版/Pro/Pro XL/Pro Fold），全系搭载台积电2nm工艺Tensor G6处理器、256GB起步，深度整合Gemini生态，同步发布Pixel Watch 5与Pixel Buds Pro。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;8月13日21:00闪迪投资者日&lt;/strong&gt;，CEO David Goeckeler出席，NAND存储周期与HBF高带宽闪存路线图为存储板块定调，与FMS闪存峰会行情呼应。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DeepSeek：“计划近期整体上调DeepSeek API服务的定价，预计涨幅较大&lt;/strong&gt;，请合理安排您的使用。具体方案以正式通知为准。”&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;商业航天方面，朱雀三号遥二可重复使用火箭预计8月中旬发射&lt;/strong&gt;（据FAA航警信息，空域管制时段锁定8月11日早7:40酒泉东风商业航天创新试验区），任务兼顾载荷入轨与一级垂直回收全流程验证，若成功将成我国首款着陆腿方式回收的民营商业火箭。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;地缘产业侧，8月14日比尔·盖茨访韩与SK集团、HD现代商讨SMR小堆合作。&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;资本市场侧，8月10日当周LG集团董事长与黄仁勋在英伟达硅谷总部会面&lt;/strong&gt;——据韩国经济日报8月7日报道，二人或讨论实体AI、智能工厂与LG采购Blackwell GPU的细节。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;长鑫科技获纳入MSCI中国全股票指数。&lt;/strong&gt;明晟公司（MSCI）公告，长鑫科技因IPO新股上市，将被纳入MSCI中国全股票指数，8月10日正式生效。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-宏观数据与政策：美国CPI/PPI、澳联储决议
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;美国7月CPI数据将于8月12日发布&lt;/strong&gt;，PPI数据于8月13日公布。据英国《金融时报》周四报道，若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。不过，彭博经济研究预测，7月整体CPI同比降至3.3%，核心CPI同比回落至2.4%，为2021年3月以来最低。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;澳大利亚央行将于8月11日公布利率决议&lt;/strong&gt;，市场预期现金利率维持4.35%不变。彭博经济研究认为，鉴于通胀降温超预期、劳动力市场走弱及房地产下行风险，央行下一步行动将是降息，最早可能在2026年第四季度。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日本央行将于8月10日发布7月货币政策会议意见摘要&lt;/strong&gt;&lt;strong&gt;。&lt;/strong&gt;市场预计，该摘要将披露委员们对经济前景和通胀走势的讨论，市场关注其对未来政策路径的暗示。此前7月会议央行维持政策不变。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-AI产业活动与大模型追踪
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-其他财经事件
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;美国SEC 13F季度持仓文件将于8月14日截止披露&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;美国SEC 13F季度持仓文件将于8月14日截止披露。这些文件将披露美国对冲基金等机构截至6月30日的股票持仓明细，市场关注大型机构在科技、能源等板块的配置变化。需注意13F仅覆盖多头持仓且存在约一个半月的时滞，但仍被视为观察机构动向的重要窗口。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;下周285.22亿元市值限售股解禁&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wind数据统计显示，下周（8月10日-8月14日）共有32家公司限售股陆续解禁，合计解禁23.32亿股，按8月7日收盘价计算，解禁总市值为285.22亿元。从解禁市值来看，8月10日是解禁高峰期，17家公司解禁市值合计182.91亿元，占下周解禁规模的64.13%。按8月7日收盘价计算，解禁市值居前三位的是：陆家嘴（71.1亿元）、盟固利（30.58亿元）、凌玮科技（27.28亿元）。从个股的解禁量看，解禁股数居前三位的是：陆家嘴（7.79亿股）、华能蒙电（5.36亿股）、盟固利（1.87亿股）。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2026西普会将于8月11-16日在海南博鳌举行&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;据新华社，2026西普会（全称健康产业生态大会）即将于8月11日至16日在海南博鳌举行。本届西普会的主题——“走进AI时代——健康产业的范式革命与路径选择”。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;国产大飞机C919首条国际航线将于8月12日开通&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;据新华社，8月12日起，国航北京至蒙古国首都乌兰巴托航线将由国产大飞机C919执飞，这条航线将成为C919执飞的首条国际航线。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;第六届全球固态电池年度峰会8月11-12日美国举办&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;第六届全球固态电池年度峰会将于8月11日至12日在美国芝加哥举办；此外，国内的2026SMM电池技术产业大会也将于8月13日至14日在湖南长沙召开，重点研讨固态电池材料与装备的最新进展。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CIES 2026第十六届中国国际储能大会（8/9日-11日）&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;CIES2026第十六届中国国际储能大会将于2026年8月9日至11日在浙江杭州洲际酒店召开，主题为“源网荷储，算电协同”，由中国化学与物理电源行业协会主办。&lt;/p&gt;
-（8/17-8/23）当周预警
-&lt;p&gt;① 8月17日周一国家统计局70城房价月度报告；&lt;/p&gt;
-&lt;p&gt;② 8月19日2026世界机器人大会（北京经开区，8/19-23）；&lt;/p&gt;
-&lt;p&gt;③ 8月20日中国8月LPR报价+美联储会议纪要；&lt;/p&gt;
-&lt;p&gt;④ 8月21日恒生指数公司季度检讨结果；&lt;/p&gt;
-&lt;p&gt;⑤ 8月26日美国核心PCE物价指数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周末热议：“空存储、多光”？</title><link>https://wallstreetcn.com/articles/3778999</link><guid>3dd823881eab705df000175b08e7bbc0c3059e6584f00e15519ee516d353f70c</guid><pubDate>Sun, 09 Aug 2026 05:21:27 GMT</pubDate><description>&lt;p&gt;周五美股存储与光通信板块走势显著分化。&lt;strong&gt;花旗大幅下调美光目标价&lt;/strong&gt;，存储股全线承压；而&lt;strong&gt;AAOI的超预期财报则点燃光通信板块&lt;/strong&gt;，Coherent单日大涨13%。两条线索交汇之下，&lt;strong&gt;&amp;quot;空存储、多光&amp;quot;（short memory, long optical）交易策略在周末引发激烈争论&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;综合上述因素，&lt;strong&gt;Semianalysis预测，假设SpaceX 2027年新增算力中仅有50%用于商业推理变现（其余供Grok和Cursor团队训练使用），SpaceX的ARR有望在2027年底达到3000亿美元。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周末热议：“空存储、多光”？</title><link>https://wallstreetcn.com/articles/3778999</link><guid>3dd823881eab705df000175b08e7bbc0c3059e6584f00e15519ee516d353f70c</guid><pubDate>Sun, 09 Aug 2026 05:21:27 GMT</pubDate><description>&lt;p&gt;周五美股存储与光通信板块走势显著分化。&lt;strong&gt;花旗大幅下调美光目标价&lt;/strong&gt;，存储股全线承压；而&lt;strong&gt;AAOI的超预期财报则点燃光通信板块&lt;/strong&gt;，Coherent单日大涨13%。两条线索交汇之下，&lt;strong&gt;&amp;quot;空存储、多光&amp;quot;（short memory, long optical）交易策略在周末引发激烈争论&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;率先抛出这一框架的，是市场公认的存储多头——Jukan。他在X平台称&lt;strong&gt;部分对冲基金已开始据此建仓&lt;/strong&gt;。随即，知名投资者&amp;quot;白毛股神&amp;quot;Serenity针锋相对，认为存储基本面未变，市场不过是在&amp;quot;瓶颈与瓶颈之间轮动&amp;quot;。&lt;/p&gt;
 花旗下调美光目标价，存储价格见顶预期升温
 &lt;p&gt;周五，美光（MU）跌约1%，SanDisk（SNDK）跌超2%，跌势延伸至亚洲——SK海力士跌逾4%，三星、铠侠同步走低。&lt;/p&gt;
@@ -213,7 +116,7 @@ AAOI业绩超预期，点燃光通信板块
 &lt;p&gt;多提供商SDK下载量&lt;strong&gt;周环比增长12.7%&lt;/strong&gt;，加速势头明显。应用端，通义千问周活增长2.5%，Gemini增长0.5%，Kimi下降0.8%，流量格局仍在快速变化。&lt;/p&gt;
 &lt;p&gt;7月AI驱动裁员录得3220人，&lt;strong&gt;较前月21640人下降85%&lt;/strong&gt;。但裁员数据波动性极大，AI驱动裁员在总裁员中的占比并未趋势性下降。下一轮宏观调整来临时，AI替代的加速效应仍可能再次放大。&lt;/p&gt;
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股“撞墙”，但市场没有</title><link>https://wallstreetcn.com/articles/3779011</link><guid>109fe0ae3d7005967fefe50776d1ae373592a13ce583f942aec582eb68c59674</guid><pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate><description>&lt;p&gt;芯片股重挫、债券收益率飙升、地缘冲突持续——&lt;strong&gt;华尔街的忧虑清单越拉越长，但资金流向却讲述着截然不同的故事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对泡泡玛特（09992.HK）的投资思考：在2100亿市值点位下的攻防战该如何抉择？</title><link>http://xueqiu.com/6861619590/404291822</link><guid>7e710e7d87886fc8f2e226b07f287fa7f619a2b4b1a7011dcf94e08acb863a22</guid><pubDate>Sun, 09 Aug 2026 14:27:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;微积分不上九十&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一、先说我的结论&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 芯片股“撞墙”，但市场没有</title><link>https://wallstreetcn.com/articles/3779011</link><guid>109fe0ae3d7005967fefe50776d1ae373592a13ce583f942aec582eb68c59674</guid><pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate><description>&lt;p&gt;芯片股重挫、债券收益率飙升、地缘冲突持续——&lt;strong&gt;华尔街的忧虑清单越拉越长，但资金流向却讲述着截然不同的故事。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周，&lt;strong&gt;标普500指数创下历史新高，纳斯达克100指数录得两个月来最大单周涨幅，与此同时，高收益债券基金单周吸金40亿美元，创两年来最高纪录，比特币ETF五个交易日净流入5亿美元。&lt;/strong&gt;美银的牛熊指数升至2021年以来最高水平，显示市场情绪已全面转向乐观。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这一切发生在AI对冲基金Situational Awareness——由“硅谷股神”Leopold Aschenbrenner创立——爆仓风波之后。该事件一度将费城半导体指数从6月高点拉低29%。然而投资者非但没有撤退，反而将这场动荡视为买入信号，在短短两个交易日内向半导体ETF注入逾110亿美元，随后相关基金大幅飙升。&lt;/p&gt;
@@ -338,48 +241,27 @@ DeepSeek战略入局
 &lt;p&gt;Hartnett在报告结尾将视野拉至更宏观的政治经济框架。&lt;/p&gt;
 &lt;p&gt;他指出，2020年代的政治民粹主义推动财政扩张，带动美国名义GDP在过去六年间从20万亿美元增至32万亿美元，增幅达63%，而美国国债规模即将突破40万亿美元。&lt;/p&gt;
 &lt;p&gt;在政治格局上，他将即将到来的中期选举定性为&amp;quot;民粹资本主义&amp;quot;（以增长降低赤字）与另一种政治路线（以财富税降低赤字）之间的路线之争。&lt;/p&gt;
-&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 1.6T刚放量，卖铲子的先接到了催货电话：罗博特科的“非线性”赌局</title><link>http://xueqiu.com/2237153088/404258519</link><guid>bbb5d33fa0df5af674b0bf473dc599c0c05108c7c3ab61971c8d3109326df7dd</guid><pubDate>Sun, 09 Aug 2026 05:17:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贝利马里斯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8月7日收盘，罗博特科510元，总市值829亿，年内涨幅94.5%。一家2025年还在亏损的公司，市净率52倍。很多人看到这个数字心里发毛：这到底是在赌未来，还是在赌命？&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”</title><link>https://wallstreetcn.com/articles/3778994</link><guid>71bacce12ab68b6804446df9d6162654f00a0bb5b76aa138aeecfd1fa2bda2f3</guid><pubDate>Sun, 09 Aug 2026 02:01:40 GMT</pubDate><description>&lt;p&gt;美军最高军事将领正私下寻求为伊朗战事&amp;quot;寻找出口&amp;quot;。&lt;/p&gt;
-&lt;p&gt;据新华社，CNN 7日援引多名知情人士报道，美军参谋长联席会议主席丹·凯恩近期在与副总统万斯、国务卿鲁比奥、CIA局长拉特克利夫等白宫高层的会面中明确表达了这一立场。8日，万斯接受福克斯新闻采访时将美伊冲突定性为&amp;quot;博弈中局&amp;quot;，称战事&amp;quot;显然已不在开局阶段&amp;quot;。&lt;/p&gt;
-&lt;p&gt;同日，伊朗最高国家安全委员会秘书佐尔加德尔向美方开出六项条件——涵盖撤军、解除全部制裁和赔偿战争损失——作为重新开放霍尔木兹海峡的前提。&lt;/p&gt;
-&lt;p&gt;围绕这条曾承载全球五分之一石油运输量的战略水道，博弈进入深水区：美方弹药库存告急，空袭效果有限；伊方将海峡控制权握在手中，一面与阿曼推进临时航道谈判，一面对全面开放层层设卡。&lt;/p&gt;
-万斯：&amp;quot;不在开局，已入中局&amp;quot;
-&lt;p&gt;据新华社，万斯8日称，美伊冲突&amp;quot;还没有结束，但显然已不在开局阶段，而是进入了中局阶段&amp;quot;，美方正综合运用外交、经济和军事手段。&lt;/p&gt;
-&lt;p&gt;他指出，美方当前最关注的是&amp;quot;尽可能增加通过霍尔木兹海峡运出的石油和天然气数量&amp;quot;，正在观察伊朗是否愿意作出&amp;quot;必要的长期改变&amp;quot;以建立更好的双边关系——&amp;quot;如果伊朗不愿意，美方会继续施压&amp;quot;。&lt;/p&gt;
-&lt;p&gt;万斯还提到，美方正试图建立航行安全机制，包括扫雷工作，同时&amp;quot;需要伊朗方面做出承诺，保证不向商船开火&amp;quot;。尽管伊朗方面始终否认双方在直接谈判，特朗普坚称谈判已重启。国务卿鲁比奥4日表示，美方正参与阿曼和伊朗之间的对话。&lt;/p&gt;
-美军参联会主席力主&amp;quot;寻找出口&amp;quot;
-&lt;p&gt;而CNN的报道揭示了美国军方更深层的焦虑。凯恩的核心判断是：仅靠空袭不太可能实现特朗普宣布的全部作战目标，但进一步升级冲突，现有军事选项又存在明显负面效应。&amp;quot;凯恩在寻找出口，&amp;quot;一名消息人士说。&lt;/p&gt;
-&lt;p&gt;报道称，不止凯恩一人认为伊朗战事已处于&amp;quot;十字路口&amp;quot;。他已与多名持相同看法的总统顾问沟通，以期在参加特朗普召集的会议前统一立场。不少美国政府内部人士和分析师认为，要取得决定性胜利需大规模地面部队介入——而这可能造成大量美军伤亡，也与特朗普竞选承诺相悖。凯恩在国会听证中坦言，&amp;quot;空中力量作战有其局限性&amp;quot;。舆论分析认为，特朗普不断威胁扩大对伊朗能源设施的打击，不仅不太可能迫使伊朗屈服，还几乎必然引发伊朗对周边美国盟友能源设施的报复性打击。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;弹药短缺已从私下隐忧变为公开议题。&lt;/strong&gt;多名消息人士指出，自战事以来，美军已消耗近五分之四的&amp;quot;萨德&amp;quot;（THAAD）反导系统导弹库存、约一半的&amp;quot;爱国者&amp;quot;拦截弹，以及近半数&amp;quot;战斧&amp;quot;巡航导弹。特朗普6日一度否认弹药短缺，随后改口承认&amp;quot;某些类型弹药&amp;quot;供应&amp;quot;相对紧张&amp;quot;。凯恩近期多次就库存降至&amp;quot;危险低位&amp;quot;向特朗普表达担忧，弹药告急令特朗普在伊朗问题上愈发感到挫败。&lt;/p&gt;
-&lt;p&gt;美军中央司令部已在内部广泛征集&amp;quot;有创意、非常规&amp;quot;的建议以打开局面，这恰恰反映出美方迫使伊朗达成协议的选项所剩不多。此外，牛弹琴援引美媒报道称，&amp;quot;林肯号&amp;quot;航母已连续在中东部署超过8个月，5000余名官兵面临补给匮乏和士气低落，多名军属呼吁尽快靠岸补给。&lt;/p&gt;
-伊朗六项条件：强硬派设置高门槛
-&lt;p&gt;8月8日，据伊朗国家通讯社IRNA报道，佐尔加德尔向美方开列六项条件：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-永不威胁伊朗；
-&lt;/li&gt;
-&lt;li&gt;
-结束对伊朗及其盟友的一切侵略；
-&lt;/li&gt;
-&lt;li&gt;
-解除海上封锁，从伊朗周边撤出军事力量；
-&lt;/li&gt;
-&lt;li&gt;
-赔偿伊朗所有战争损失；
-&lt;/li&gt;
-&lt;li&gt;
-解除对伊朗的所有制裁；
-&lt;/li&gt;
-&lt;li&gt;
-无条件解冻所有伊朗被冻结资产。
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;佐尔加德尔强调：&amp;quot;这是伊朗人民的要求，他们已在广场和街道上持续呐喊了160天。最高国家安全委员会将永不退缩，无论是在战争中还是在谈判中。&amp;quot;&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》报道，该委员会由强硬派主导，直接向最高领袖哈梅内伊汇报。报道指出，上述条件并非伊朗谈判代表正式提出的立场，对美方而言也是显然不可接受的起点，但表明伊斯兰革命卫队正在为达成任何协议设置高门槛。值得注意的是，伊朗外交官在与调解方的实际接触中，提出的要求更为务实——据报道主要集中在解除海上封锁、恢复石油出口制裁豁免以及解冻数十亿美元的伊朗资金。&lt;/p&gt;
-&lt;p&gt;革命卫队发言人8日在官方媒体上表态：&amp;quot;霍尔木兹海峡对我们而言不仅仅是一条经济航道，更是地缘政治和战略力量的关键组成部分。&amp;quot;据塔斯尼姆通讯社报道，革命卫队方面称重开海峡与伊朗-阿曼谈判无关，&amp;quot;取决于美国是否完全接受伊朗的条件并停止干涉地区谈判&amp;quot;。&lt;/p&gt;
-临时航道&amp;quot;接近达成&amp;quot;，全面开放仍远
-&lt;p&gt;在全面开放遥遥无期之际，伊朗与阿曼围绕临时通航安排的技术性谈判有所推进。伊朗外长阿拉格齐8日表示：&amp;quot;鉴于技术上的复杂性，我们正在确定一条临时路线，我认为我们非常接近达成协议。&amp;quot;&lt;/p&gt;
-&lt;p&gt;但阿拉格齐随即明确切割：&amp;quot;这并不意味着霍尔木兹海峡将重新开放。海峡的开放还取决于其他条件，包括美国违反谅解备忘录应作出赔偿。&amp;quot;——今年6月特朗普与伊朗签署的停战谅解备忘录曾寻求开放海峡并为深入谈判铺路，但随后因伊方持续攻击过往船只而破裂。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》，伊朗-阿曼协议草案拟在海峡设立新航道：入境航道靠近伊朗一侧，出境航道靠近阿曼一侧，由伊朗对入境船只行使监管权。伊朗还坚持在任何协议中禁止美国海军军舰通过海峡，意在削弱美国在波斯湾维持数十年的军事存在。美方官员已向调解方表示，不会接受伊朗对海峡交通施加限制或收取通行费。&lt;/p&gt;
-&lt;p&gt;局势仍在恶化。阿联酋国家石油公司ADNOC称，过去一周已有3艘船只遭导弹或无人机袭击，战争爆发以来累计15艘船只被击中。阿联酋将8日最新一起袭击归咎于革命卫队。&lt;/p&gt;
-&lt;p&gt;上周末，特朗普叫停了旨在打破僵局的新一轮军事打击，理由是&amp;quot;谈判取得进展&amp;quot;。伊朗总统佩泽什基安也表示，&amp;quot;现在或许是推进谈判的合适时机&amp;quot;。但据调解方透露，谈判近日已因伊朗的经济减压诉求与美方对航运自由的坚持而陷入僵持。佐尔加德尔的强硬表态和持续的船只遇袭，加深了调解方的担忧——强硬派正在拖延协议审批。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 投资收益差也可以很淡定</title><link>http://xueqiu.com/2386334596/404261139</link><guid>799b7137420a92042e0eef3bb4af5eca592fbf28b1f45f3583026d9ee1e93f1c</guid><pubDate>Sun, 09 Aug 2026 05:09:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;刚才看了下自己的投资的收益，到目前为止，今年跑输沪深300指数6个百分点，上年跑输13个百分点，也就是自2024年底以来，跑输沪深300指数19个百分点。这2年来，主要以股息加仓，市值与2024年底基本持平，看起来有点沮丧。但是，投资组合归属于我的透视盈余增长了30%，股息增长了29%，跑赢沪深300指数10个百分点。目前拥有25家公司构成的投资组合，市盈率不到11倍，属于大幅低估的范围。&lt;/p&gt;</description></item><item><title>[今日雪球] 从王宁的“庆祝生活”视角，讲透泡泡玛特到底在卖什么</title><link>http://xueqiu.com/8326595589/404244257</link><guid>0fba45bfca2fcd50c75dc631a33da5d8c0e12a87352e133bf9beeb4aeaaa6aa0</guid><pubDate>Sun, 09 Aug 2026 05:09:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;POP研习社&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;你有没有想过一个问题：同样花钱，为什么有些时候你花得特别痛快，有些时候却算着花？&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;就市场含义而言，共和党保住参议院多数席位将构成利好；做多消费股是押注特朗普转向关注民生可负担性的最佳策略；&lt;strong&gt;而做多黄金，则是对冲&amp;quot;K型&amp;quot;选民结构在年底前引发收益率、美元和股市同步大跌这一尾部风险的有效工具。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 1.6T刚放量，卖铲子的先接到了催货电话：罗博特科的“非线性”赌局</title><link>http://xueqiu.com/2237153088/404258519</link><guid>bbb5d33fa0df5af674b0bf473dc599c0c05108c7c3ab61971c8d3109326df7dd</guid><pubDate>Sun, 09 Aug 2026 05:17:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贝利马里斯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8月7日收盘，罗博特科510元，总市值829亿，年内涨幅94.5%。一家2025年还在亏损的公司，市净率52倍。很多人看到这个数字心里发毛：这到底是在赌未来，还是在赌命？&lt;/p&gt;</description></item><item><title>[今日雪球] AI硬件能否重回舞台中央</title><link>http://xueqiu.com/7977283243/404297671</link><guid>1cb103ebaf1411a70b17e604575b96ed30d8ad99d771410691951b3f3d4b6432</guid><pubDate>Sun, 09 Aug 2026 14:27:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本周好不容易硬件终于开始回暖了，就是走的真是一波三折，好不容易光领衔反弹结果一波FCC在考虑限制光模块的新闻直接给搞嘎了，市场很迅速的转向了PCB，总体来还不是很顺畅。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美贾赞炼油厂再遭袭，中东能源安全威胁持续升级</title><link>https://wallstreetcn.com/articles/3779019</link><guid>ede461bcc2f437615cc3ec1380c4d93a5cba2212fb5997e6476871c686d7c444</guid><pubDate>Sun, 09 Aug 2026 10:42:20 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯能源基础设施在不到一个月内再度遭受胡塞武装打击，凸显中东地区能源安全形势的持续恶化。&lt;/p&gt;
+&lt;p&gt;据央视新闻， 当地时间9日，&lt;strong&gt;也门胡塞武装称，当天使用一架无人机对沙特阿美公司位于沙特吉赞的炼油厂实施袭击，并称“成功命中目标”。&lt;/strong&gt;胡塞武装表示，此次袭击是对沙特“敌方”无人机进入也门萨达省和哈杰省领空的回应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;沙特能源部随后确认该设施发生火灾并已扑灭，无人员伤亡。&lt;/strong&gt;沙特阿美首席执行官Amin Nasser此前表示，近期针对公司设施的袭击造成了一定程度的生产中断，但他对运营能够迅速恢复持乐观态度，并强调相关袭击未造成重大运营或财务影响。&lt;/p&gt;
+&lt;p&gt;此次袭击发生在沙特与土耳其、巴基斯坦签署集体防御协议仅两天之后，三国协议规定对任何一方的武装攻击均视同对全体的攻击。能源供应扰动与地缘安全格局的同步演变，正在给全球原油市场带来持续的不确定性。&lt;/p&gt;
+不到一个月内第二次：贾赞炼油厂再遭袭击
+&lt;p&gt;贾赞炼油厂位于沙特西南部靠近也门边境地区，日处理原油能力达40万桶，同时生产汽油及超低硫柴油。&lt;/p&gt;
+&lt;p&gt;据路透社获得的咨询机构IIR报告显示，7月27日，胡塞武装袭击已导致该炼油厂的综合气化联合循环（IGCC）装置及储罐区受损，沙特阿美随即关闭了该设施。此次8月9日的袭击是不到两周内针对同一设施的第二次打击。&lt;/p&gt;
+&lt;p&gt;胡塞武装军事发言人Yahya Saree在社交媒体平台X上发文，确认此次袭击使用了无人机。胡塞武装此前已多次打击沙特阿美在贾赞及红海沿岸延布的设施。沙特能源部在声明中确认火灾已扑灭，相关部门正在完成后续处置程序，但未披露起火原因。&lt;/p&gt;
+集体防御协议：沙特联合土耳其、巴基斯坦构建安全屏障
+&lt;p&gt;此次袭击发生的时间节点颇为敏感。&lt;/p&gt;
+&lt;p&gt;据央视新闻，就在两天前的周五，沙特、土耳其和巴基斯坦三国领导人在沙特麦加签署《麦加共同防务协议》。协议规定，对三国中任何一国的武装攻击将被视为对三国全体的攻击。有舆论认为，土耳其签署该协议“违反《北大西洋公约》第五条即集体防御条款并建立了一个平行联盟结构”。&lt;/p&gt;
+&lt;p&gt;土耳其总统埃尔多安在社交媒体上表示，《麦加共同防务协议》“&lt;strong&gt;不针对任何国家&lt;/strong&gt;，欢迎所有致力于本地区和平、繁荣与稳定的兄弟国家参与”。&lt;/p&gt;
+&lt;p&gt;从背景来看，自今年2月28日美国和以色列对伊朗发动重大军事打击以来，伊朗及其盟友什叶派武装组织持续对沙特阿拉伯及其他海湾国家发动袭击，并对其能源出口航线实施封锁。胡塞武装上月还宣布在红海对沙特实施海上封锁，理由是沙特对也门实施封锁，但利雅得否认这一指控。&lt;/p&gt;
+伊朗外长：不与美方重启谈判
+&lt;p&gt;与此同时，据CCTV国际时讯，伊朗外长阿拉格齐今天（8月9日）表示，&lt;strong&gt;目前伊朗与美国之间没有进行任何谈判，但斡旋方仍在努力寻找恢复谈判的途径&lt;/strong&gt;。伊朗认为，&lt;strong&gt;在美国就此前违反相关承诺的行为作出弥补之前，不具备重新启动谈判的条件。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;伊朗方面还表示，有关霍尔木兹海峡的协议处于&amp;quot;最后阶段&amp;quot;，但该战略水道的重新开放仍取决于美方履行其他条件，包括永不威胁伊朗、结束侵略、撤军、赔偿战损、解除制裁、解冻资产。&lt;/p&gt;
+&lt;p&gt;谈判僵局与袭击频发的叠加，意味着中东能源基础设施所面临的安全压力短期内难以消散，投资者需持续关注局势演变对全球原油供应的潜在影响。&lt;/p&gt;
+原油出口恢复进程面临扰动压力
+&lt;p&gt;能源基础设施遭受的安全威胁并不局限于沙特。&lt;/p&gt;
+&lt;p&gt;自冲突爆发以来，阿联酋国家石油公司（ADNOC）旗下船只已遭受15次袭击，造成1人死亡、20人受伤。&lt;/p&gt;
+&lt;p&gt;上述数据表明，针对海湾地区能源运输的攻击已呈现出系统性和持续性特征，波及范围从陆上炼化设施延伸至海上运输环节，对整个地区的能源供应链构成多点威胁。&lt;/p&gt;
+&lt;p&gt;在此轮冲突持续扰动下，全球能源供应已受到明显冲击。&lt;/p&gt;
+&lt;p&gt;Amin Nasser上周表示，近期袭击造成了一定程度的生产中断，但强调尚未产生重大运营或财务影响，并对运营恢复持乐观态度。&lt;/p&gt;
+&lt;p&gt;然而，贾赞炼油厂在短期内两度遭袭，加之红海航运封锁持续，原油出口恢复进程面临的不确定性正在上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
