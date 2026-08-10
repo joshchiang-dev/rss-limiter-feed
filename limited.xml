@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 10 Aug 2026 10:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%</title><link>https://wallstreetcn.com/articles/3779046</link><guid>2722d765c88954ca161bb253106b8950394fdce798ff9db2c8a558172424b4a9</guid><pubDate>Mon, 10 Aug 2026 08:25:22 GMT</pubDate><description>&lt;p&gt;今天，A股高位科技股全线回调拖累双创指数，其中光模块、电路板、光通信等方向集体下挫，据&lt;a href="https://mp.weixin.qq.com/s/JOb_44ggjeohI9xHymLVJw"&gt;中国基金报&lt;/a&gt;称，消息面上还是FCC禁令所带来的扰动，不过，花旗表示，美国针对光模块实施基于生产商的限制措施可能性不大，但基于生产地点实施限制似乎更具可能性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 10 Aug 2026 11:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%</title><link>https://wallstreetcn.com/articles/3779046</link><guid>2722d765c88954ca161bb253106b8950394fdce798ff9db2c8a558172424b4a9</guid><pubDate>Mon, 10 Aug 2026 08:25:22 GMT</pubDate><description>&lt;p&gt;今天，A股高位科技股全线回调拖累双创指数，其中光模块、电路板、光通信等方向集体下挫，据&lt;a href="https://mp.weixin.qq.com/s/JOb_44ggjeohI9xHymLVJw"&gt;中国基金报&lt;/a&gt;称，消息面上还是FCC禁令所带来的扰动，不过，花旗表示，美国针对光模块实施基于生产商的限制措施可能性不大，但基于生产地点实施限制似乎更具可能性。&lt;/p&gt;
 &lt;p&gt;8月10日，A股全天震荡分化，沪指录得五连阳，创业板指盘中一度跌超2%后回升，得益于部分科技股出现资金回补。军工、养殖业、医疗服务、贵金属板块涨超3%，CPO概念、PCB、玻璃基板、半导体、通信设备等科技硬件方向领跌，算力芯片寒武纪跌超6%，存储芯片亦陷入调整。&lt;/p&gt;
 &lt;p&gt;港股全天高开高走，恒指、恒科指盘初双双上涨，午后进一步扩大涨幅，均涨超1%。科网股普遍反弹，芯片股承压，新消费概念反弹，老铺黄金大涨超10%，得益于上周国际金价的大幅飙涨。债市方面，国债期货多数反弹。商品方面，国内商品期货多数上涨。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -190,42 +190,7 @@ Warsh主导下缩表预期升温，但风险犹存
 
 &lt;p&gt;报告指出，现任美联储主席Warsh长期以来偏好压缩美联储的市场存在感，这一立场早有定论。尽管Warsh在6月份的公开表态中对利率路径和资产负债表走向均未给出明确指引，摩根士丹利仍判断，有实质性缩表的可能性较大。&lt;/p&gt;
 &lt;p&gt;Carpenter同时提示了主要风险因素。一旦美联储启动主动出售MBS（抵押贷款支持证券），且规模较大，市场影响将不可忽视。此外，资产负债表的最终走向在很大程度上取决于财政部的债务发行决策，这意味着美联储资产负债表本身并非唯一变量。&lt;/p&gt;
-&lt;p&gt;Carpenter强调，货币政策立场与资产负债表规模是两个相互独立的维度，投资者不应混为一谈。简单地以资产负债表大小作为政策松紧的代理指标，从根本上就忽视了操作层面的复杂性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛</title><link>https://wallstreetcn.com/articles/3779081</link><guid>6fef8cda9d85ef5c0317394a7cbb608893c641da971467bb0b2a2882b8999aad</guid><pubDate>Mon, 10 Aug 2026 10:22:27 GMT</pubDate><description>&lt;p&gt;Meta首席执行官马克·扎克伯格周一宣布，公司将很快恢复发布部分开源AI模型，并推出新型轻量级模型Muse Glimmer，同时呼吁美国政府降低对开源AI的政策限制。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新模型名为Muse Glimmer，是Meta旗下Muse Spark 1.2模型的精简版本，拥有300亿参数，仅需一块显卡即可运行，主要面向日程管理、文件整理等代理任务。&lt;/strong&gt;模型权重将在Hugging Face平台开放下载，Meta同时计划开放更强大的Muse Spark版本的权重。&lt;/p&gt;
-&lt;p&gt;在治理层面，扎克伯格宣布Meta将建立一套新的治理结构，赋予公司独立董事会批准模型发布安全标准的权力，以回应外界对开放权重模型安全风险的持续关切。&lt;/p&gt;
-
-扎克伯格：美国政策须减少额外阻力
-
-&lt;p&gt;扎克伯格在声明中直指政策层面的结构性障碍。他表示，由于美国实验室在训练数据方面须遵守诸多额外限制，外国实验室在开放权重领域目前拥有多项优势。&lt;strong&gt;&amp;quot;美国政策必须减少这种额外的阻力。&amp;quot;他同时强调，限制对外国开源模型的访问并非有效解决方案。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;中国初创企业目前在开放权重模型竞争中处于领先地位，月之暗面的Kimi K3、阿里巴巴的Qwen3.8-Max以及DeepSeek的V4-Flash，其性能均可与美国AI实验室的顶尖系统相媲美。相比之下，OpenAI、Anthropic及Alphabet旗下Google的领先模型均为闭源。&lt;/p&gt;
-&lt;p&gt;据路透社两位熟悉相关讨论的消息人士透露，特朗普政府本月早些时候已告知AI开发者，不会对开放权重AI模型进行自愿性安全测试，此举被部分业界人士视为对开源路线的间接背书。&lt;/p&gt;
-
-开放权重模式获市场关注
-
-&lt;p&gt;与OpenAI、Anthropic等&amp;quot;前沿实验室&amp;quot;的领先闭源模型相比，开放权重模型通常成本更低，且核心组件对外公开，便于用户定制。随着企业对持续膨胀的AI开支日益警惕，以及近期涉及多家主流AI平台的网络安全事件引发关注，这一模式正获得越来越多的市场认可。&lt;/p&gt;
-&lt;p&gt;AI编程协作平台Hugging Face上月披露，在遭遇OpenAI失控模型入侵后，该平台使用了一款中国开放权重模型加以应对，原因是闭源模型在网络安全应用场景中存在功能限制。&lt;strong&gt;扎克伯格在声明中还明确倡导AI模型蒸馏技术——即利用强大AI系统训练规模更小的模型——这正是Muse Glimmer的核心技术路径。&lt;/strong&gt;&lt;/p&gt;
-
-千亿投入寻求长期回报
-
-&lt;p&gt;Muse Glimmer的发布背后，是Meta在AI基础设施上持续加码的资本逻辑。Meta与亚马逊、Alphabet、微软一道，已承诺累计投入逾2万亿美元扩充AI能力，相关支出涵盖硬件采购与数据中心建设。Meta正规划一项云基础设施业务，计划仿照亚马逊云服务模式，向外部客户出售AI算力与模型访问权限。&lt;/p&gt;
-&lt;p&gt;与此同时，Meta周一宣布设立10亿美元基金，用于投资其拥有并运营数据中心的美国社区。此前，包括Meta和谷歌在内的超大规模云计算企业在美国多地扩张数据中心时，已因资源占用问题遭遇本地阻力，此次基金设立被视为缓和地方关系的举措之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储芯片企业北京君正通过港交所聆讯</title><link>https://wallstreetcn.com/articles/3779075</link><guid>bdbee2e1611fb245898a6eaac575b3bb569c08ee919848d9f00790e2d54d9991</guid><pubDate>Mon, 10 Aug 2026 08:16:52 GMT</pubDate><description>&lt;p&gt;8月9日，北京君正集成电路股份有限公司通过港交所主板上市聆讯。公司此次赴港，正处于业绩明显回升阶段。&lt;/p&gt;
-&lt;p&gt;根据公司此前披露的业绩预告，2026年上半年预计实现营业总收入约39.89亿元，同比增长约77%；归母净利润预计10.79亿元至12.82亿元，同比增长431.03%至531.34%。&lt;/p&gt;
-&lt;p&gt;从业务结构看，北京君正目前已形成“存储+计算+模拟”三条主要产品线，采用Fabless模式，主要负责芯片设计研发，生产及封测由外部晶圆厂和封测厂完成。&lt;/p&gt;
-&lt;p&gt;存储芯片包括DRAM、SRAM和Flash，主要应用于汽车、工业医疗等领域；计算芯片包括智能视觉SoC、嵌入式MPU等，主要面向安防、AIoT；模拟芯片则主要包括LED驱动芯片和Combo芯片。&lt;/p&gt;
-&lt;p&gt;其中，存储业务仍是公司最主要的收入来源。&lt;/p&gt;
-&lt;p&gt;2025年，北京君正实现收入47.41亿元，其中存储芯片收入29.11亿元，占比61.4%；计算芯片收入12.93亿元，占比27.3%；模拟芯片收入5.06亿元，占比10.7%。&lt;/p&gt;
-&lt;p&gt;进入2026年后，存储和计算业务同时提速。&lt;/p&gt;
-&lt;p&gt;一季度公司收入15.60亿元，同比增长47.1%。其中，存储芯片收入10.18亿元，同比增长53.6%；计算芯片收入4.03亿元，同比增长49.1%。&lt;/p&gt;
-&lt;p&gt;利润增速明显快于收入。2026年一季度，公司期内利润由上年同期的0.74亿元增至3.20亿元，净利率由6.9%升至20.5%；综合毛利率则由35.0%提高至42.6%。&lt;/p&gt;
-&lt;p&gt;这一变化首先来自存储芯片的量价齐升。&lt;/p&gt;
-&lt;p&gt;一季度存储芯片销量由1.38亿颗增至1.91亿颗，平均售价由每颗4.8元升至5.3元。公司在聆讯资料中表示，工业和车规级存储产品供应偏紧，是价格上涨的重要原因之一。&lt;/p&gt;
-&lt;p&gt;计算芯片的价格弹性更为明显。一季度平均售价由11.4元提高至15.1元，毛利率由32.5%升至51.9%。 &lt;/p&gt;
-&lt;p&gt;不过，公司同时披露，当期销售的较多计算芯片使用了原材料涨价前采购的库存，因此售价上涨已经体现，而成本尚未完全同步上升。由此看，一季度较高的毛利率包含一定的成本时滞因素，后续能否维持仍需观察。&lt;/p&gt;
-&lt;p&gt;从下游看，北京君正的收入来源相对分散。2026年一季度，汽车、工业医疗和消费领域收入占比分别约为33.0%、24.5%和33.6%。汽车业务仍是重要基本盘，而消费端的增长更多受到安防、AIoT及端侧AI需求推动。&lt;/p&gt;
-&lt;p&gt;公司当前增长也带有明显的行业周期特征。存储芯片本身具有较强周期性，2026年以来DRAM供应趋紧、部分Flash需求增加，加上计算芯片上游KGD短缺，共同推高了产品价格和盈利水平。这也是上半年利润增速远高于收入增速的重要背景。&lt;/p&gt;
-&lt;p&gt;渠道方面，2026年一季度公司经销收入占比达到81.1%，前五大客户贡献50.3%的销售收入；前五大供应商占采购额41.6%。 这意味着，公司虽然客户和供应商集中度近年来有所下降，但经营仍较依赖经销体系及外部供应链。&lt;/p&gt;
-&lt;p&gt;整体来看，北京君正此次赴港时，业绩正处于近年较强的上行阶段，但当前增长不能完全脱离价格和供给周期理解。&lt;/p&gt;
-&lt;p&gt;短期看，存储量价齐升和计算芯片提价改善了盈利；中长期则仍要看高密度DRAM、Flash、车规芯片和端侧计算产品能否形成持续增量，以及原材料成本重新传导后毛利率能维持在什么水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AAOI财报精读，“10倍扩产”的真相是什么？</title><link>http://xueqiu.com/8730228692/404330200</link><guid>094bf39644ceecbdd8bef23e6b6e75414456ec62a8304cdb3dfc5fae8871a017</guid><pubDate>Mon, 10 Aug 2026 10:08:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;火碱&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这场（2026年Q2）财报电话会，管理层反复强化的主线非常清晰：&lt;b&gt;公司当下与未来一段时间的营收上限，不取决于市场需求，而几乎完全取决于“产能 + 供应链 + 认证/导入节奏”&lt;/b&gt;。因此，AAOI（Applied Optoelectronics, 下文简称AAOI/AOI）正在用“扩产”把增长瓶颈从“有没有订单”彻底切换为“能不能按时交付”。扩产不是单点动作，而是一套覆盖&lt;b&gt;收发器（800G/1.6T）、激光器（InP）、以及CPO/ELSFP模块&lt;/b&gt;的系统工程，并以德州（休斯顿大区）为核心战场，配套巨额CapEx与供应链锁定策略，最终指向2027–2028年的CPO/DWDM时代与更高毛利结构。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街“阴谋论”：沃什故意推高长期美债收益率？</title><link>https://wallstreetcn.com/articles/3779033</link><guid>9c90d2d02ccdbfba8a21ac11eddc738c553736f150bfe199c8bfae04aaf15015</guid><pubDate>Mon, 10 Aug 2026 00:03:25 GMT</pubDate><description>&lt;p&gt;市场盛传美联储主席沃什故意通过新闻发布会推高长端美债收益率、以此收紧金融条件——美银证券对此明确表示不认同，并指出这一逻辑既不符合美联储的操作框架，也难以获得FOMC的支持。&lt;/p&gt;
+&lt;p&gt;Carpenter强调，货币政策立场与资产负债表规模是两个相互独立的维度，投资者不应混为一谈。简单地以资产负债表大小作为政策松紧的代理指标，从根本上就忽视了操作层面的复杂性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街“阴谋论”：沃什故意推高长期美债收益率？</title><link>https://wallstreetcn.com/articles/3779033</link><guid>9c90d2d02ccdbfba8a21ac11eddc738c553736f150bfe199c8bfae04aaf15015</guid><pubDate>Mon, 10 Aug 2026 00:03:25 GMT</pubDate><description>&lt;p&gt;市场盛传美联储主席沃什故意通过新闻发布会推高长端美债收益率、以此收紧金融条件——美银证券对此明确表示不认同，并指出这一逻辑既不符合美联储的操作框架，也难以获得FOMC的支持。&lt;/p&gt;
 &lt;p&gt;据追风交易台，美银证券在8月7日发布的利率研究报告中提到，7月FOMC会议结束后，长端美债收益率出现明显上行，通胀盈亏平衡利率随之走阔，部分客户由此推断这是沃什的刻意为之——其逻辑是：&lt;strong&gt;为压制通胀、对抗宽松金融条件及投资热潮，沃什需要推高长端利率，而新闻发布会正是他精心设计的工具。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美银证券利率策略师Mark Cabana及经济学家Aditya Bhave在报告中直接驳斥了这一判断，认为FOMC其他成员同样不会买账。&lt;strong&gt;上周长端利率的陡升和通胀预期的走阔，恰恰提醒了FOMC在其直接控制范围之外操作所面临的风险。&lt;/strong&gt;&lt;/p&gt;
 美联储政策框架：联邦基金利率才是核心工具
@@ -320,7 +285,42 @@ AI收入占比突破30%，MaaS成增长新引擎
 &lt;p&gt;商业化层面，阿里云的收入结构正在加速向AI倾斜。&lt;/p&gt;
 &lt;p&gt;今年5月份，阿里巴巴CEO吴泳铭在第四财季财报电话会上表示：&amp;quot;AI正在驱动阿里云全业务升级，增长动力从传统的计算存储，全面转向模型、算力与Agent服务。&lt;/p&gt;
 &lt;p&gt;&amp;quot;本季度，&lt;strong&gt;AI相关产品收入在阿里云外部商业化收入中的占比首次突破30%&lt;/strong&gt;，季度收入达89.71亿元，AI业务年化收入突破358亿元。&lt;/p&gt;
-&lt;p&gt;吴泳铭预计，包含百炼MaaS平台在内的AI模型与应用服务年化经常性收入（ARR）将于6月份季度突破100亿元，年底突破300亿元。他指出，这部分收入的高利润率优势正逐渐凸显，将成为&amp;quot;未来收入健康、高质量的增长支柱&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位</title><link>https://wallstreetcn.com/articles/3779052</link><guid>555f002ea49a5b1b205b9d340682427d7a4bbce62ad2abc55cd9795e0d26cf19</guid><pubDate>Mon, 10 Aug 2026 06:44:08 GMT</pubDate><description>&lt;p&gt;美国就业数据意外疲软压低加息预期，科技股领涨推动全球股市延续升势；与此同时，伊朗拒绝与美方谈判，霍尔木兹海峡重开协议悬而未决，油价连续第四个交易日上涨。&lt;/p&gt;
+&lt;p&gt;吴泳铭预计，包含百炼MaaS平台在内的AI模型与应用服务年化经常性收入（ARR）将于6月份季度突破100亿元，年底突破300亿元。他指出，这部分收入的高利润率优势正逐渐凸显，将成为&amp;quot;未来收入健康、高质量的增长支柱&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储芯片企业北京君正通过港交所聆讯</title><link>https://wallstreetcn.com/articles/3779075</link><guid>bdbee2e1611fb245898a6eaac575b3bb569c08ee919848d9f00790e2d54d9991</guid><pubDate>Mon, 10 Aug 2026 08:16:52 GMT</pubDate><description>&lt;p&gt;8月9日，北京君正集成电路股份有限公司通过港交所主板上市聆讯。公司此次赴港，正处于业绩明显回升阶段。&lt;/p&gt;
+&lt;p&gt;根据公司此前披露的业绩预告，2026年上半年预计实现营业总收入约39.89亿元，同比增长约77%；归母净利润预计10.79亿元至12.82亿元，同比增长431.03%至531.34%。&lt;/p&gt;
+&lt;p&gt;从业务结构看，北京君正目前已形成“存储+计算+模拟”三条主要产品线，采用Fabless模式，主要负责芯片设计研发，生产及封测由外部晶圆厂和封测厂完成。&lt;/p&gt;
+&lt;p&gt;存储芯片包括DRAM、SRAM和Flash，主要应用于汽车、工业医疗等领域；计算芯片包括智能视觉SoC、嵌入式MPU等，主要面向安防、AIoT；模拟芯片则主要包括LED驱动芯片和Combo芯片。&lt;/p&gt;
+&lt;p&gt;其中，存储业务仍是公司最主要的收入来源。&lt;/p&gt;
+&lt;p&gt;2025年，北京君正实现收入47.41亿元，其中存储芯片收入29.11亿元，占比61.4%；计算芯片收入12.93亿元，占比27.3%；模拟芯片收入5.06亿元，占比10.7%。&lt;/p&gt;
+&lt;p&gt;进入2026年后，存储和计算业务同时提速。&lt;/p&gt;
+&lt;p&gt;一季度公司收入15.60亿元，同比增长47.1%。其中，存储芯片收入10.18亿元，同比增长53.6%；计算芯片收入4.03亿元，同比增长49.1%。&lt;/p&gt;
+&lt;p&gt;利润增速明显快于收入。2026年一季度，公司期内利润由上年同期的0.74亿元增至3.20亿元，净利率由6.9%升至20.5%；综合毛利率则由35.0%提高至42.6%。&lt;/p&gt;
+&lt;p&gt;这一变化首先来自存储芯片的量价齐升。&lt;/p&gt;
+&lt;p&gt;一季度存储芯片销量由1.38亿颗增至1.91亿颗，平均售价由每颗4.8元升至5.3元。公司在聆讯资料中表示，工业和车规级存储产品供应偏紧，是价格上涨的重要原因之一。&lt;/p&gt;
+&lt;p&gt;计算芯片的价格弹性更为明显。一季度平均售价由11.4元提高至15.1元，毛利率由32.5%升至51.9%。 &lt;/p&gt;
+&lt;p&gt;不过，公司同时披露，当期销售的较多计算芯片使用了原材料涨价前采购的库存，因此售价上涨已经体现，而成本尚未完全同步上升。由此看，一季度较高的毛利率包含一定的成本时滞因素，后续能否维持仍需观察。&lt;/p&gt;
+&lt;p&gt;从下游看，北京君正的收入来源相对分散。2026年一季度，汽车、工业医疗和消费领域收入占比分别约为33.0%、24.5%和33.6%。汽车业务仍是重要基本盘，而消费端的增长更多受到安防、AIoT及端侧AI需求推动。&lt;/p&gt;
+&lt;p&gt;公司当前增长也带有明显的行业周期特征。存储芯片本身具有较强周期性，2026年以来DRAM供应趋紧、部分Flash需求增加，加上计算芯片上游KGD短缺，共同推高了产品价格和盈利水平。这也是上半年利润增速远高于收入增速的重要背景。&lt;/p&gt;
+&lt;p&gt;渠道方面，2026年一季度公司经销收入占比达到81.1%，前五大客户贡献50.3%的销售收入；前五大供应商占采购额41.6%。 这意味着，公司虽然客户和供应商集中度近年来有所下降，但经营仍较依赖经销体系及外部供应链。&lt;/p&gt;
+&lt;p&gt;整体来看，北京君正此次赴港时，业绩正处于近年较强的上行阶段，但当前增长不能完全脱离价格和供给周期理解。&lt;/p&gt;
+&lt;p&gt;短期看，存储量价齐升和计算芯片提价改善了盈利；中长期则仍要看高密度DRAM、Flash、车规芯片和端侧计算产品能否形成持续增量，以及原材料成本重新传导后毛利率能维持在什么水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛</title><link>https://wallstreetcn.com/articles/3779081</link><guid>6fef8cda9d85ef5c0317394a7cbb608893c641da971467bb0b2a2882b8999aad</guid><pubDate>Mon, 10 Aug 2026 10:22:27 GMT</pubDate><description>&lt;p&gt;Meta首席执行官马克·扎克伯格周一宣布，公司将很快恢复发布部分开源AI模型，并推出新型轻量级模型Muse Glimmer，同时呼吁美国政府降低对开源AI的政策限制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新模型名为Muse Glimmer，是Meta旗下Muse Spark 1.2模型的精简版本，拥有300亿参数，仅需一块显卡即可运行，主要面向日程管理、文件整理等代理任务。&lt;/strong&gt;模型权重将在Hugging Face平台开放下载，Meta同时计划开放更强大的Muse Spark版本的权重。&lt;/p&gt;
+&lt;p&gt;在治理层面，扎克伯格宣布Meta将建立一套新的治理结构，赋予公司独立董事会批准模型发布安全标准的权力，以回应外界对开放权重模型安全风险的持续关切。&lt;/p&gt;
+
+扎克伯格：美国政策须减少额外阻力
+
+&lt;p&gt;扎克伯格在声明中直指政策层面的结构性障碍。他表示，由于美国实验室在训练数据方面须遵守诸多额外限制，外国实验室在开放权重领域目前拥有多项优势。&lt;strong&gt;&amp;quot;美国政策必须减少这种额外的阻力。&amp;quot;他同时强调，限制对外国开源模型的访问并非有效解决方案。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国初创企业目前在开放权重模型竞争中处于领先地位，月之暗面的Kimi K3、阿里巴巴的Qwen3.8-Max以及DeepSeek的V4-Flash，其性能均可与美国AI实验室的顶尖系统相媲美。相比之下，OpenAI、Anthropic及Alphabet旗下Google的领先模型均为闭源。&lt;/p&gt;
+&lt;p&gt;据路透社两位熟悉相关讨论的消息人士透露，特朗普政府本月早些时候已告知AI开发者，不会对开放权重AI模型进行自愿性安全测试，此举被部分业界人士视为对开源路线的间接背书。&lt;/p&gt;
+
+开放权重模式获市场关注
+
+&lt;p&gt;与OpenAI、Anthropic等&amp;quot;前沿实验室&amp;quot;的领先闭源模型相比，开放权重模型通常成本更低，且核心组件对外公开，便于用户定制。随着企业对持续膨胀的AI开支日益警惕，以及近期涉及多家主流AI平台的网络安全事件引发关注，这一模式正获得越来越多的市场认可。&lt;/p&gt;
+&lt;p&gt;AI编程协作平台Hugging Face上月披露，在遭遇OpenAI失控模型入侵后，该平台使用了一款中国开放权重模型加以应对，原因是闭源模型在网络安全应用场景中存在功能限制。&lt;strong&gt;扎克伯格在声明中还明确倡导AI模型蒸馏技术——即利用强大AI系统训练规模更小的模型——这正是Muse Glimmer的核心技术路径。&lt;/strong&gt;&lt;/p&gt;
+
+千亿投入寻求长期回报
+
+&lt;p&gt;Muse Glimmer的发布背后，是Meta在AI基础设施上持续加码的资本逻辑。Meta与亚马逊、Alphabet、微软一道，已承诺累计投入逾2万亿美元扩充AI能力，相关支出涵盖硬件采购与数据中心建设。Meta正规划一项云基础设施业务，计划仿照亚马逊云服务模式，向外部客户出售AI算力与模型访问权限。&lt;/p&gt;
+&lt;p&gt;与此同时，Meta周一宣布设立10亿美元基金，用于投资其拥有并运营数据中心的美国社区。此前，包括Meta和谷歌在内的超大规模云计算企业在美国多地扩张数据中心时，已因资源占用问题遭遇本地阻力，此次基金设立被视为缓和地方关系的举措之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位</title><link>https://wallstreetcn.com/articles/3779052</link><guid>555f002ea49a5b1b205b9d340682427d7a4bbce62ad2abc55cd9795e0d26cf19</guid><pubDate>Mon, 10 Aug 2026 06:44:08 GMT</pubDate><description>&lt;p&gt;美国就业数据意外疲软压低加息预期，科技股领涨推动全球股市延续升势；与此同时，伊朗拒绝与美方谈判，霍尔木兹海峡重开协议悬而未决，油价连续第四个交易日上涨。&lt;/p&gt;
 &lt;p&gt;韩国首尔综指收盘涨0.7%，报6299.66点。MSCI全球指数周一小幅上涨0.1%，过去八个交易日内七度收涨，逼近历史高位。亚太市场跟随华尔街升势，MSCI亚洲指数上涨0.4%。上周五，标普500指数收于历史新高，美国股指期货周一显示温和涨势，欧洲市场则预计平开。&lt;/p&gt;
 &lt;p&gt;据&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=18139775039628065379&amp;amp;channelId=1119"&gt;央视新闻&lt;/a&gt;8月10日报道，美国总统特朗普9日接受采访时表示，目前正在“低调处理”伊朗问题。与此同时，据&lt;a href="https://www.thepaper.cn/newsDetail_forward_33749015"&gt;新华社&lt;/a&gt;同日报道，伊朗外长阿拉格齐明确否认双方存在任何直接谈判，称“目前伊美没有进行任何谈判”，“信息交换是通过中间人进行的”。布伦特原油上涨0.5%至约每桶84美元，此前三个交易日累计涨幅已超5%。受油价上涨带动，美国国债收益率小幅回吐上周五涨幅，10年期收益率上行1个基点至4.66%，美元兑G10货币普遍走强。&lt;/p&gt;
 &lt;p&gt;市场焦点本周将转向美国消费者价格数据。在此之前，上周五的就业报告已有效缓解了投资者对美联储近期加息的担忧。三菱UFJ摩根士丹利高级投资策略师Kohei Onishi表示，&amp;quot;就业数据有助于缓解加息担忧，这正促使投资者重建科技股仓位。&amp;quot;&lt;/p&gt;
@@ -352,4 +352,4 @@ AI收入占比突破30%，MaaS成增长新引擎
 &lt;p&gt;AMP Ltd.经济学家My Bui在客户报告中写道，鉴于特朗普支持率已跌至新低，投资者不宜过度看空，因为他很可能再度从威胁中退缩。&amp;quot;目前来看，市场仍维持常态，股市受到稳健基本面、强劲经济增长和生产率提升的支撑。&amp;quot;&lt;/p&gt;
 &lt;p&gt;彭博策略师Mark Cranfield则指出，油价周一走强，但交易员对油价能否持续上涨持怀疑态度。&amp;quot;7月净多头石油头寸仅出现温和反弹，且已在各原油合约中有所削减。&amp;quot;&lt;/p&gt;
 &lt;p&gt;在其他市场，美国国债周一小幅回吐上周五涨幅，10年期美债收益率上行1个基点至4.66%，2年期收益率上行2个基点至4.21%。黄金跌约0.5%，报4320美元/盎司附近，此前上周累计涨逾7%，创1月以来最大单周涨幅。&lt;/p&gt;
-&lt;p&gt;持续更新中&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 不高尚价投，不神话茅台</title><link>http://xueqiu.com/7913104177/404351961</link><guid>a03adc4035b05205b63cb57f13769d27c4895cc8c183f92c78a8ebbfe4113f6b</guid><pubDate>Mon, 10 Aug 2026 10:10:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;          核心区和老酒资源是茅台最大的核心竞争力。核心区意味着品质，不然系列酒用同样人工，同样工艺，同样不计成本，为啥竞争力远不如飞天碾压。茅台1935加上飞天基酒和不加飞天基酒是两种酒。有人相信茅台可以根据需求无限扩产且不影响品质，我肯定是不相信的，这不符合基本常识。问题关键在于管理层信不信。&lt;/p&gt;</description></item><item><title>[今日雪球] 看懂比价指标：成长与红利的钟摆，已经摆到极端位置</title><link>http://xueqiu.com/9610521692/404319075</link><guid>a98f0802375e43c94ede120ef6444dc2c568c7b2044844f5f884479bedb9aeb3</guid><pubDate>Mon, 10 Aug 2026 10:09:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;泡面艺术家&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;做投资，我们很容易被盘面每天的涨跌、各大平台的热点叙事裹挟，被短期的赚钱效应带着情绪走。想要客观看清成长和红利两大风格所处的位置，我们可以借助一个简单却很有效的观察工具：创业板指与中证红利低波动指数（H30269）比价。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;持续更新中&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AAOI财报精读，“10倍扩产”的真相是什么？</title><link>http://xueqiu.com/8730228692/404330200</link><guid>094bf39644ceecbdd8bef23e6b6e75414456ec62a8304cdb3dfc5fae8871a017</guid><pubDate>Mon, 10 Aug 2026 10:08:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;火碱&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这场（2026年Q2）财报电话会，管理层反复强化的主线非常清晰：&lt;b&gt;公司当下与未来一段时间的营收上限，不取决于市场需求，而几乎完全取决于“产能 + 供应链 + 认证/导入节奏”&lt;/b&gt;。因此，AAOI（Applied Optoelectronics, 下文简称AAOI/AOI）正在用“扩产”把增长瓶颈从“有没有订单”彻底切换为“能不能按时交付”。扩产不是单点动作，而是一套覆盖&lt;b&gt;收发器（800G/1.6T）、激光器（InP）、以及CPO/ELSFP模块&lt;/b&gt;的系统工程，并以德州（休斯顿大区）为核心战场，配套巨额CapEx与供应链锁定策略，最终指向2027–2028年的CPO/DWDM时代与更高毛利结构。&lt;/p&gt;</description></item><item><title>[今日雪球] 不高尚价投，不神话茅台</title><link>http://xueqiu.com/7913104177/404351961</link><guid>a03adc4035b05205b63cb57f13769d27c4895cc8c183f92c78a8ebbfe4113f6b</guid><pubDate>Mon, 10 Aug 2026 10:10:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;          核心区和老酒资源是茅台最大的核心竞争力。核心区意味着品质，不然系列酒用同样人工，同样工艺，同样不计成本，为啥竞争力远不如飞天碾压。茅台1935加上飞天基酒和不加飞天基酒是两种酒。有人相信茅台可以根据需求无限扩产且不影响品质，我肯定是不相信的，这不符合基本常识。问题关键在于管理层信不信。&lt;/p&gt;</description></item><item><title>[今日雪球] 看懂比价指标：成长与红利的钟摆，已经摆到极端位置</title><link>http://xueqiu.com/9610521692/404319075</link><guid>a98f0802375e43c94ede120ef6444dc2c568c7b2044844f5f884479bedb9aeb3</guid><pubDate>Mon, 10 Aug 2026 10:09:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;泡面艺术家&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;做投资，我们很容易被盘面每天的涨跌、各大平台的热点叙事裹挟，被短期的赚钱效应带着情绪走。想要客观看清成长和红利两大风格所处的位置，我们可以借助一个简单却很有效的观察工具：创业板指与中证红利低波动指数（H30269）比价。&lt;/p&gt;</description></item></channel></rss>
