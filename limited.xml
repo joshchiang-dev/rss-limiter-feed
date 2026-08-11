@@ -1,35 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 11 Aug 2026 23:29:33 GMT</lastBuildDate><item><title>[华尔街见闻] Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”</title><link>https://wallstreetcn.com/articles/3779226</link><guid>2c8a6b2f9fc2a95606f0a972db1091c2e24bde4546a485403fa468db65d93628</guid><pubDate>Tue, 11 Aug 2026 23:04:19 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779219"&gt;华尔街见闻提及&lt;/a&gt;，美东时间11日周二美股盘后，光通信芯片制造商Lumentum公布第四财季业绩，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益同比大增267%至3.23美元，较分析师预期高近9%。&lt;/p&gt;
-&lt;p&gt;值得注意的是，非GAAP毛利率达50.4%，而原计划是在20亿美元的季度营收规模时才能达到这一门槛。&lt;/p&gt;
-&lt;p&gt;强劲的业绩直接体现在了未来指引上。业绩电话会上，CFO Wajid Ali预估，2027财年第一季度（下一季度），Lumentum的净营收将在12.25亿美元至12.75亿美元之间。&lt;/p&gt;
-&lt;p&gt;Hurlston强调：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 11 Aug 2026 23:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”</title><link>https://wallstreetcn.com/articles/3779226</link><guid>2c8a6b2f9fc2a95606f0a972db1091c2e24bde4546a485403fa468db65d93628</guid><pubDate>Tue, 11 Aug 2026 23:31:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Lumentum季报营收破十亿美元，AI光学需求爆发推动利润率提前达标。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779219"&gt;华尔街见闻提及&lt;/a&gt;，美东时间11日周二美股盘后，光通信芯片制造商Lumentum公布第四财季业绩，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益同比大增267%至3.23美元，较分析师预期高近9%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;值得注意的是，非GAAP毛利率达50.4%，而原计划是在20亿美元的季度营收规模时才能达到这一门槛。强劲的业绩直接体现在了未来指引上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;业绩电话会上，CFO Wajid Ali预估，2027财年第一季度（下一季度），Lumentum的净营收将在12.25亿美元至12.75亿美元之间。公司首席执行官Michael Hurlston则强调：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;受到AI收入急剧加速的推动，我们第一季度营收指引的中位数（12.5亿美元）比原计划提前了一个多季度达到目标。此外，我们Q1的非公认会计准则营业利润率指引（39.5%至40.5%）超过了我们与该营收水平相关的目标模型的上限。这些结果证明了两件事：我们的差异化技术拥有绝对溢价，我们的运营模型带来了超乎寻常的杠杆效应。&lt;/p&gt;
+&lt;p&gt;我们的差异化技术拥有绝对溢价，我们的运营模型带来了超乎寻常的杠杆效应。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Michael Hurlston强调Lumentum正处于行业长期转变的中心，他指出：&lt;/p&gt;
+&lt;p&gt;此外，Michael Hurlston认为Lumentum正处于行业长期转变的中心，&lt;strong&gt;当前核心光器件供需极度失衡。&lt;/strong&gt;他指出：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;随着AI计算工作负载在速度和带宽上的增加，数据中心架构师正将光链路作为主要的连接手段。我们第四季度的业绩反映了这一转变的早期阶段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;泵浦激光器的出货量同比猛增超过80%。尽管我们正在全力扩产能，但在可预见的未来，产能仍将被全部占满，处于供不应求的状态。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Hurlston在电话会议上专门就共封装光学（CPO）和近封装光学（NPO）的市场动态进行了阐述，称这两项技术的演进趋势直接契合公司的核心优势。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CPO方面&lt;/strong&gt;，公司管理层表示需求信号较上次更新有所增强，预计用于超高功率激光芯片的需求将于2027年下半年启动放量，领先客户的规模化部署预计于2028年展开。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NPO方面&lt;/strong&gt;，Hurlston表示，该技术为公司提供完全增量的市场机会。公司正与多个客户推进高速NPO商务接洽，其最大CPO客户亦在为特定新应用场景评估NPO方案。公司全球业务部门总裁Wupen Yuen预计NPO将在2027至2028年进入市场。&lt;/p&gt;
 AI算力重塑网络：1.6T光模块放量，“泵浦激光器彻底售罄”
-&lt;p&gt;市场最为关注的订单和核心业务增量方面，Lumentum展示了极强的能见度。在云收发器（Cloud transceivers）方面，公司实现了创纪录的800G出货量，同时已按计划开始生产下一代1.6T模块。&lt;/p&gt;
-&lt;p&gt;Hurlston向投资者描绘了极为清晰的路线图：“我们对未来云收发器需求的可见度比以往任何时候都更加清晰。事实上，我们预计1.6T收发器的采用将从第一财季开始加剧，并持续到2027个自然年。通过使用改进的设计工程技术，我们在许多情况下似乎比大型竞争对手率先进入市场，这给了我们一个能够在整个周期中保持的市场份额优势。”&lt;/p&gt;
-&lt;p&gt;在基础组件端，由于大模型推理和训练应用正推动数据中心之间的全速率连接，泵浦激光器（Pump lasers）的出货量同比激增了80%以上。&lt;/p&gt;
-&lt;p&gt;Hurlston用一个极具冲击力的数据向市场解释了这种疯狂的需求：“为了让大家有个直观概念，对于一个主要的超大规模云厂商来说，仅仅连接两个AI数据中心站点的网络容量，就是他们过去十年建设的全球骨干网总容量的两倍。”&lt;/p&gt;
-&lt;p&gt;他补充道：“尽管我们正在快速扩充产能，但在可预见的未来，我们仍将处于彻底售罄（effectively sold out）的状态。我们预计在未来几个季度，泵浦激光器的出货量将增加四倍，以满足不断升级的需求。”&lt;/p&gt;
+&lt;p&gt;市场最为关注的订单和核心业务增量方面，Lumentum展示了极强的能见度。&lt;/p&gt;
+&lt;p&gt;在云收发器（Cloud transceivers）方面，公司实现了创纪录的800G出货量，同时已按计划开始生产下一代1.6T模块。&lt;/p&gt;
+&lt;p&gt;Hurlston向投资者描绘了未来路线图：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们对未来云收发器需求的可见度比以往任何时候都更加清晰。&lt;strong&gt;事实上，我们预计1.6T收发器的采用将从第一财季开始加剧，并持续到2027个自然年。通过使用改进的设计工程技术，我们在许多情况下似乎比大型竞争对手率先进入市场，这给了我们一个能够在整个周期中保持的市场份额优势。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在基础组件端，由于大模型推理和训练应用正推动数据中心之间的全速率连接，泵浦激光器（Pump lasers）的出货量同比激增了80%以上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hurlston用一个极具冲击力的数据向市场解释了这种疯狂的需求：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;为了让大家有个直观概念，对于一个主要的超大规模云厂商来说，仅仅连接两个AI数据中心站点的网络容量，就是他们过去十年建设的全球骨干网总容量的两倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他补充道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;尽管我们正在快速扩充产能，但在可预见的未来，我们仍将处于彻底售罄（effectively sold out）的状态。&lt;strong&gt;我们预计在未来几个季度，泵浦激光器的出货量将增加四倍，以满足不断升级的需求。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 市场焦点NPO/CPO：“机会完全是增量的”，首获ELS订单
 &lt;p&gt;针对近期市场上关于共封装光学（CPO）和近封装光学（NPO）的技术路线杂音，管理层在会上给予了正面且强硬的回应，这直接关系到Lumentum未来的想象空间。&lt;/p&gt;
-&lt;p&gt;首先是CPO方面，Hurlston确认其主要CPO客户的生产计划“非常按计划进行”，且需求信号比上次更新时有所增加。公司重申，预计在2027年下半年超大功率激光器芯片的需求将迎来爬坡。&lt;/p&gt;
-&lt;p&gt;令人瞩目的是，Lumentum透露：“我们最近获得了第一个外部光源（ELS）模块的采购订单，将于2027年下半年交付。” 从单一卖激光器芯片走向卖更高ASP（平均售价）的ELS模块，标志着公司TAM（总可供市场）的实质性扩大。&lt;/p&gt;
-&lt;p&gt;而在NPO架构方面，市场迎来了最大的预期差。Hurlston指出，当前广泛的客户群体正将NPO作为最终采用CPO的过渡步骤优先考虑。“NPO机会对我们来说完全是增量的，显著增加了光学的TAM。我们看到了NPO在多个高频互动中的强劲势头……甚至我们最大的CPO客户也在为特定的新用例考虑NPO，进一步增加了该账户的光学TAM。”&lt;/p&gt;
-&lt;p&gt;对于NPO技术的门槛，全球业务部总裁Wupen Yuen解释道：“每个NPO的带宽约为6.4T，相当于1.6T模块的四倍。将所有东西塞进一个小光引擎中所需的集成度、功率密度和效率是巨大的。因此，你真的需要最好的激光技术和最好的效率。这正是基于我们独特的高功率技术定位来应对的市场。”&lt;/p&gt;
-&lt;p&gt;管理层坦言，目前由于需求的加速爆发，超大功率激光器的供需失衡已经严重拉大，公司正处于“出货量远远落后于需求”的状态，为此甚至在近期与供应商AXT签署了协议，以确保更多的磷化铟（InP）衬底供应。&lt;/p&gt;
+&lt;p&gt;首先是CPO方面，Hurlston确认其主要CPO客户的生产“按计划进行”，且需求信号比上次更新时有所增加。&lt;strong&gt;公司重申，预计在2027年下半年超大功率激光器芯片的需求将迎来爬坡。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;令人瞩目的是，Lumentum透露：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我们最近获得了第一个外部光源（ELS）模块的采购订单，将于2027年下半年交付。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从单一卖激光器芯片走向卖更高平均售价的ELS模块，标志着公司总可供市场规模正实质性扩大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;而在NPO架构方面，市场迎来了最大的预期差。&lt;/strong&gt;Hurlston指出，当前广泛的客户群体正将NPO作为最终采用CPO的过渡步骤优先考虑。Hurlston表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NPO机会对我们来说完全是增量的，显著增加了光学的总可供市场规模。我们看到了NPO在多个高频互动中的强劲势头……&lt;strong&gt;甚至我们最大的CPO客户也在为特定的新用例考虑NPO，进一步增加了该账户的光学总可供市场规模。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于NPO技术的门槛，全球业务部总裁Wupen Yuen解释道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每个NPO的带宽约为6.4T，相当于1.6T模块的四倍。将所有东西塞进一个小光引擎中所需的集成度、功率密度和效率是巨大的。因此，你真的需要最好的激光技术和最好的效率。这正是基于我们独特的高功率技术定位来应对的市场。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;管理层坦言，目前由于需求的加速爆发，超大功率激光器的供需失衡已经严重拉大，公司正处于“出货量远远落后于需求”的状态，为此甚至在近期与供应商AXT签署了协议，以确保更多的磷化铟（InP）衬底供应。&lt;/strong&gt;&lt;/p&gt;
 光路交换机（OCS）与产能：无惧新晋对手
-&lt;p&gt;除了光模块和激光器，被视为下一代数据中心互联神器的高级光路交换机（OCS）也迎来了里程碑。CFO Wajid Ali确认：“在第一季度的指引中，我们预计将迎来首个三位数（即突破1亿美元）的OCS营收季度。”&lt;/p&gt;
+&lt;p&gt;除了光模块和激光器，被视为下一代数据中心互联神器的高级光路交换机（OCS）也迎来了里程碑。&lt;/p&gt;
+&lt;p&gt;CFO Wajid Ali确认：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在第一季度的指引中，我们预计将突破1亿美元的OCS营收季度。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;在被问及其他国家新建InP晶圆厂带来的潜在竞争时，Hurlston显得十分从容，并表示尚未看到任何影响：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我们在EML上非常强大，在NPO和CPO所需的高/中功率激光器上，差异化同样非常明显……我们的规格宽度非常窄，这为客户带来了好得多的收发器良率。因此，我们能够获得可观的价格溢价。我还要提醒大家，一些抛出庞大数字的激光器供应商今天并未在市场上真正交付。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;总体而言，Lumentum凭借从晶圆级制造到高端封装的垂直整合能力，不仅抓住了当下800G到1.6T的确定性红利，更在NPO/CPO等光学革命的深水区拿到了核心门票。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lumentum Q4财季电话会全文（AI辅助翻译）：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -135,10 +162,10 @@ AI算力重塑网络：1.6T光模块放量，“泵浦激光器彻底售罄”
 &lt;p&gt;&lt;strong&gt;Michael Hurlston（总裁兼CEO）：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本季度确实有一些重新定价，大部分长期协议（LTA）对价格的影响偏向于前瞻性安排。正如Wajid在发言中所说，定价对毛利率有一定贡献，且仍有进一步发挥的空间。但本季度毛利率的主要驱动因素是产品组合，即我们高价值元器件的出货占比大幅提升。我们认为这一趋势将持续，毛利率仍有上升空间。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Simon Leopold（追问）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们近期听到越来越多关于中国企业建设新磷化铟晶圆厂的消息，您如何看待这一新兴竞争态势？&lt;/p&gt;
+&lt;p&gt;我们近期听到越来越多关于其他国家企业建设新磷化铟晶圆厂的消息，您如何看待这一新兴竞争态势？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Michael Hurlston（总裁兼CEO）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们也听到了类似消息。目前尚未看到对我们业务数据的任何影响，也不预计会有影响。我们在EML方面有明显的差异化优势，在NPO和CPO所需的高功率及中功率激光器方面同样具有很强的差异化。即便在CW激光器方面，我们也感到意外——我们的定价能力强于预期，因为客户确实看到了更高的良率，这得益于我们的激光器性能高度一致、规格偏差极小，从而显著提升了收发模块的制造良率。因此，我们能够保持相当的价格溢价，预计在中国竞争对手进入市场后也能维持。&lt;/p&gt;
-&lt;p&gt;还需要提醒大家注意，一些中国激光器供应商目前尚未向市场实际出货，因此他们公布的大数字缺乏验证。到目前为止，我们还没有看到他们有任何可靠的实际产出。&lt;/p&gt;
+&lt;p&gt;我们也听到了类似消息。目前尚未看到对我们业务数据的任何影响，也不预计会有影响。我们在EML方面有明显的差异化优势，在NPO和CPO所需的高功率及中功率激光器方面同样具有很强的差异化。即便在CW激光器方面，我们也感到意外——我们的定价能力强于预期，因为客户确实看到了更高的良率，这得益于我们的激光器性能高度一致、规格偏差极小，从而显著提升了收发模块的制造良率。因此，我们能够保持相当的价格溢价，预计在竞争对手进入市场后也能维持。&lt;/p&gt;
+&lt;p&gt;还需要提醒大家注意，一些激光器供应商目前尚未向市场实际出货，因此他们公布的大数字缺乏验证。到目前为止，我们还没有看到他们有任何可靠的实际产出。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt;&lt;/p&gt;
 
@@ -710,22 +737,7 @@ AI敞口四年翻四倍，集中度风险陡升
 
 &lt;p&gt;并非所有市场参与者都认同杠杆ETF已构成系统性威胁。Susquehanna International Group衍生品策略联席主管Chris Murphy表示，使用者理解这类产品的机械化交易规则固然重要，&amp;quot;但相比市场中其他风险，我不会花太多时间担忧杠杆ETF。封装在透明且流动性良好的ETF中的杠杆敞口，比其他地方的隐性敞口更容易被理解和评估。&amp;quot;&lt;/p&gt;
 &lt;p&gt;Fishman也认为，外界对杠杆ETF的广泛担忧有所夸大。这类产品确实&amp;quot;有可能产生反馈循环，但这是早已存在多年的效应&amp;quot;，其潜在再平衡冲击&amp;quot;在经济意义上并不比过去几年更高&amp;quot;。他同时指出，&amp;quot;理论上它们或许有朝一日会成长为系统重要性因素，但我们距离那一步还很远。&amp;quot;&lt;/p&gt;
-&lt;p&gt;对于杠杆ETF投资者自身而言，风险则更为直接明确：这类产品的收益承诺仅在单日内成立。管理费用持续拖累净值，而&amp;quot;波动率损耗&amp;quot;效应意味着，一旦标的资产反复震荡，基金净值将随时间不断侵蚀——即便标的最终回到原点，持有人也可能已遭受实质性亏损。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔200亿美元增发获美国商务部支持，但美政府不参与认购</title><link>https://wallstreetcn.com/articles/3779218</link><guid>bbd5f4945642ce07264956d27244b8ba94e9db18cbb7c5046ca74ed728c85f97</guid><pubDate>Tue, 11 Aug 2026 22:34:44 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779124?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94"&gt;英特尔宣布200亿美元股票增发&lt;/a&gt;，背后有美国政府的默许与支持，既为公司AI扩张提供弹药，也验证了Tan主导的战略转型正获市场认可。&lt;/p&gt;
-&lt;p&gt;据semafor援引知情人士透露，&lt;strong&gt;英特尔首席执行官Lip-Bu Tan在上周宣布这一计划前，专程致电公司最大股东——美国商务部长Howard Lutnick寻求背书。Lutnick对此表示认可，但政府最终决定不参与认购。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次增发规模已从最初的150亿美元扩大至200亿美元，成为史上第二大股票再融资，仅次于谷歌近期的增发规模。&lt;/p&gt;
-&lt;p&gt;商务部一年前入股以来的账面回报已达375%。此次增发将摊薄美国政府持有的9.9%股权，但同时也是一个信号——英特尔有能力依靠私人资本维持运营。英特尔已确定一名基石投资者为此次增发提供支撑。&lt;/p&gt;
-&lt;p&gt;消息公布后，英特尔股价下跌4%，增发带来的稀释效应是市场短期承压的直接原因，周二英特尔最终收涨0.19%。分析人士指出，投资者总体上对公司当前的交易管线持正面态度。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Tan此前曾明确表态，&lt;strong&gt;英特尔不会轻易寻求额外融资，除非晶圆代工业务已出现明确的客户需求，且公司确需更多资本来满足该需求。&lt;/strong&gt;此次增发的落地，意味着这一条件已被公司内部视为达成，向市场传递出需求侧改善的积极信号。&lt;/p&gt;
-
-政府背书稳住市场信心，Tan地位趋于稳固
-
-&lt;p&gt;此次增发所募资金将用于资助英特尔旗下AI相关项目，包括其进度滞后的俄亥俄州芯片工厂。&lt;/p&gt;
-&lt;p&gt;这是英特尔自1971年以来首次进行股票公开增发，选择在这一时机落地，折射出公司认为外部条件已趋于成熟。&lt;/p&gt;
-&lt;p&gt;Lutnick的认可具有重要象征意义。英特尔与华盛顿的关系在前任首席执行官Pat Gelsinger执掌期间一度陷入停滞，如今已在Tan的主导下有所改善。&lt;/p&gt;
-&lt;p&gt;外界对于Tan职位的疑虑也随之逐步消散。&lt;/p&gt;
-&lt;p&gt;去年夏天，特朗普曾公开要求Tan辞职，但从当前局面来看，Tan的位置已相当稳固。&lt;strong&gt;其对华盛顿关系的妥善处理，以及在两年内推动英特尔业务实现持续增长，被视为其执掌以来最重要的两项成就。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次与政府的沟通亦展示出Tan的务实风格——在宣布重大市场行动前主动知会最大股东，争取政策层面的默契，这种处理方式有效降低了政治风险，也为英特尔的后续融资计划创造了更稳定的外部环境。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落</title><link>https://wallstreetcn.com/articles/3779161</link><guid>8ed343bd7ce365822819cccc3adf4c6c9c668d4e8e46d96f92162a0fad85be0c</guid><pubDate>Tue, 11 Aug 2026 22:20:53 GMT</pubDate><description>&lt;p&gt;美股周二承压回落，大型科技股领跌，与此同时油价因霍尔木兹海峡局势反复而走高，市场在关键通胀数据公布前夕普遍保持观望。&lt;/p&gt;
+&lt;p&gt;对于杠杆ETF投资者自身而言，风险则更为直接明确：这类产品的收益承诺仅在单日内成立。管理费用持续拖累净值，而&amp;quot;波动率损耗&amp;quot;效应意味着，一旦标的资产反复震荡，基金净值将随时间不断侵蚀——即便标的最终回到原点，持有人也可能已遭受实质性亏损。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落</title><link>https://wallstreetcn.com/articles/3779161</link><guid>8ed343bd7ce365822819cccc3adf4c6c9c668d4e8e46d96f92162a0fad85be0c</guid><pubDate>Tue, 11 Aug 2026 22:20:53 GMT</pubDate><description>&lt;p&gt;美股周二承压回落，大型科技股领跌，与此同时油价因霍尔木兹海峡局势反复而走高，市场在关键通胀数据公布前夕普遍保持观望。&lt;/p&gt;
 &lt;p&gt;美债则罕见地逆油价上涨方向走强，受疲弱的成屋销售数据推动，10年期美债收益率下行2个基点至4.69%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;霍尔木兹海峡局势持续成为盘面主线。伊朗最高国家安全委员会新任秘书当日重申，在美方改变立场并接受伊方条件之前，海峡将继续关闭。&lt;/p&gt;
@@ -924,4 +936,25 @@ AI敞口四年翻四倍，集中度风险陡升
 美国煤炭出口预测上调
 &lt;p&gt;煤炭方面，美国4月和5月煤炭出口大幅增长，促使EIA将&lt;strong&gt;2026年美国煤炭出口预测上调至1.02亿短吨&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;其中，冶金煤出口在2026年上半年持续增长，主要受新矿和重启煤矿支撑；动力煤出口则在第一季度下降后于第二季度回升。&lt;/p&gt;
-&lt;p&gt;EIA表示，欧洲和亚洲天然气转煤等全球市场变化改善了美国煤炭出口商面临的市场环境。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;EIA表示，欧洲和亚洲天然气转煤等全球市场变化改善了美国煤炭出口商面临的市场环境。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国7月成屋销售降至三个月低点，房价创同期新高，贷款利率升至一年高位</title><link>https://wallstreetcn.com/articles/3779200</link><guid>934ab46786be791db57fd6a83e322985af4614ee7e86f66c6ca1b42d25c7d68d</guid><pubDate>Tue, 11 Aug 2026 14:40:46 GMT</pubDate><description>&lt;p&gt;美国成屋市场持续低迷。7月成屋销售量跌至三个月新低，高企的房价与借贷成本令大量潜在买家望而却步，市场自2022年底以来几乎一直徘徊于年化400万套的低位区间。&lt;/p&gt;
+&lt;p&gt;美国全国房地产经纪人协会（NAR）周二公布数据显示，&lt;strong&gt;7月成屋销售合同交割量环比下降1.7%，折年率为406万套，符合彭博调查经济学家的预期中值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，7月成屋销售中位价同比上涨2%，至434100美元，创历年7月最高纪录。30年期抵押贷款利率自今年2月底以来持续攀升，近期已触及6.81%的一年高位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NAR首席经济学家Lawrence Yun表示，&amp;quot;在过去几个月抵押贷款利率持续上升的环境下，成屋销售保持了相当的稳定性&amp;quot;，并指出&amp;quot;若30年期抵押贷款利率能够回落至6%附近，房市无疑将迎来明显复苏&amp;quot;。然而从当前走势看，这一前景尚难实现。&lt;/p&gt;
+
+贷款利率攀升至一年高位，买家观望情绪浓厚
+
+&lt;p&gt;房贷融资成本的持续上行是压制成屋销售的核心因素之一。30年期抵押贷款利率自今年2月底以来持续攀升，近期已触及6.81%的一年高位。&lt;/p&gt;
+&lt;p&gt;成本上升与高房价叠加，使众多潜在买家迟迟无法入市。&lt;strong&gt;NAR数据显示，首次购房者在7月成屋销售中占比仅为29%，较上月的33%明显下滑，反映出这一对利率最为敏感的买家群体正加速撤离市场。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自2022年底以来，美国成屋销售年化折合率长期胶着于400万套附近，市场等待能够引发持续反弹的催化剂，但迄今尚未出现。&lt;/p&gt;
+
+库存偏低局面未有改善，价格上行压力犹存
+
+&lt;p&gt;供给端同样未能提供有效支撑。&lt;strong&gt;7月成屋库存同比小幅下降0.6%至154万套，仍低于疫情前水平，有限的房源供应持续推高成交价格。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7月成屋销售中位价434100美元不仅创下7月历史新高，也延续了自2023年夏季以来房价同比持续上涨的趋势。此前另一份报告同样显示，今年二季度全美成屋中位价同比上涨1.5%。&lt;/p&gt;
+&lt;p&gt;分地区看，成屋销售最大区域南部地区7月销售量环比下降3.1%，跌至四个月低位；中西部地区下降2%；西部地区持平；东北部地区则录得小幅增长。&lt;/p&gt;
+
+可负担性略现改善，但涨息已侵蚀部分利好
+
+&lt;p&gt;尽管整体环境承压，可负担性指标仍出现边际改善迹象。&lt;strong&gt;NAR住房可负担性指数——衡量典型家庭收入能否满足中位价房产抵押贷款资格的综合指标——7月同比上升5.1%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First American Financial Corp.首席经济学家Mark Fleming在近期指出，随着家庭收入增速总体超过房价涨幅，与去年相比，全美住房可负担性紧张状况已有所缓解。但他同时提示，近期贷款利率的再度上行已部分侵蚀了上述改善成果。&lt;/p&gt;
+&lt;p&gt;在借贷成本高位运行、库存持续偏紧的背景下，美国成屋市场短期内难以摆脱低迷格局，复苏前景仍有赖于利率走向的实质性转变。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
