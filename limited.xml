@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 11 Aug 2026 15:29:39 GMT</lastBuildDate><item><title>[华尔街见闻] 台积电“CoWoS先生”：ABF基板未来几年短缺程度或仅次于存储</title><link>https://wallstreetcn.com/articles/3779199</link><guid>5cf453bb102080c170bb8c9050bf83837577affa442b6db2e9d1c34afe254670</guid><pubDate>Tue, 11 Aug 2026 14:40:24 GMT</pubDate><description>&lt;p&gt;台积电先进封装持续扩产，CoWoS供需缺口正在收窄，但供应链“卡点”正从存储转向基板材料。&lt;/p&gt;
-&lt;p&gt;台积电先进封装副总裁何军——业界称其为“CoWoS先生”——表示，&lt;strong&gt;未来几年ABF基板短缺程度可能仅次于存储，成为先进封装供应链的第二大瓶颈。&lt;/strong&gt;与此同时，台积电CoWoS产能已连续三年翻倍，目前供给已“非常接近”市场需求，但仍未完全满足。&lt;/p&gt;
-&lt;p&gt;随着CoWoS产能逐步追上需求，先进封装的瓶颈正向上游材料转移。&lt;strong&gt;AI加速器尺寸和封装复杂度持续提升，进一步推高ABF基板需求，使其成为制约先进封装扩产的关键环节。&lt;/strong&gt;&lt;/p&gt;
-CoWoS供需缺口收窄，14倍光罩方案2029年前推出
-&lt;p&gt;何军表示，台积电CoWoS产能已连续三年实现年度翻倍，目前供给已非常接近市场需求。5.5倍光罩尺寸CoWoS已实现量产，在多个AI客户产品上的良率超过98%；&lt;strong&gt;按照技术路线图，14倍光罩尺寸CoWoS预计在2029年前推出。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着封装尺寸扩大，供应链对材料和制造精度的要求也同步提高。何军指出，当封装尺寸超过3倍光罩后，所有组件的质量标准都需达到汽车级以上，以将失效率控制在可接受范围。&lt;/p&gt;
-ABF基板接棒存储，成先进封装新瓶颈
-&lt;p&gt;在供应链端，&lt;strong&gt;何军预计，未来几年ABF基板短缺程度将仅次于存储，成为先进封装的第二大瓶颈。&lt;/strong&gt;目前客户已开始从多家供应商采购基板以保障供给，但不同供应商在热学、机械性能等方面存在差异，也给制造一致性带来新的挑战。&lt;/p&gt;
-&lt;p&gt;与此同时，台积电正加速推进SoIC混合键合技术。该技术去年已实现6微米间距量产，计划在2029年前进一步缩小至4.5微米，并应用于A14芯片堆叠。何军称，SoIC互连密度可达到传统方案的50倍，能效提升约5倍。&lt;/p&gt;
-Chiplet智能配对，先进封装迈向系统级协同
-&lt;p&gt;随着封装复杂度提升，台积电正通过Chiplet“智能配对”技术，将性能互补的芯片裸片重新组合，以减少因单颗芯片性能差异造成的浪费，提高整体良率和有效产出。&lt;/p&gt;
-&lt;p&gt;中介层的功能也在从单纯互连向集成化演进，未来有望进一步承载电压调节器、电容及硅光子器件。与此同时，台积电正推动客户、供应商与晶圆厂并行开发，在量产前六个季度提前发布系统规格指引，并要求供应商在晶圆厂附近配置研发团队，以加快热学、机械及功耗等问题的协同解决。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浙商证券谈A股下阶段策略：从“K型”到“菱形”</title><link>https://wallstreetcn.com/articles/3779168</link><guid>36b6c461742c7dae9b587781f3672281d738206fe0cafd4684d1f8c0cb5b7984</guid><pubDate>Tue, 11 Aug 2026 07:07:21 GMT</pubDate><description>&lt;p&gt;AI叙事斜率转向、市场微观结构恶化、流动性扰动三重压力叠加，A股正站在策略范式切换的关键关口。&lt;strong&gt;浙商证券策略团队提出&amp;quot;菱形策略&amp;quot;框架，认为此前资金向AI科技一端极致集中的&amp;quot;K型&amp;quot;分化格局已难以持续，市场有望逐步从两端集中向中部增厚演绎，但这一过程不等于全面牛市，且伴随反复。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 11 Aug 2026 15:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 浙商证券谈A股下阶段策略：从“K型”到“菱形”</title><link>https://wallstreetcn.com/articles/3779168</link><guid>36b6c461742c7dae9b587781f3672281d738206fe0cafd4684d1f8c0cb5b7984</guid><pubDate>Tue, 11 Aug 2026 07:07:21 GMT</pubDate><description>&lt;p&gt;AI叙事斜率转向、市场微观结构恶化、流动性扰动三重压力叠加，A股正站在策略范式切换的关键关口。&lt;strong&gt;浙商证券策略团队提出&amp;quot;菱形策略&amp;quot;框架，认为此前资金向AI科技一端极致集中的&amp;quot;K型&amp;quot;分化格局已难以持续，市场有望逐步从两端集中向中部增厚演绎，但这一过程不等于全面牛市，且伴随反复。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7月全球资产的&amp;quot;镜像&amp;quot;行情是分化逆转的先行信号。5至6月领涨的科创50、创业板指与韩国KOSPI于7月悉数转跌，科创50自上涨40.5%回落25.9%；而5至6月分别下跌8.19%和11.23%的恒生科技与恒生指数，7月则分别逆势上涨8.0%和13.1%。行业层面同构，科技板块涨跌互换，银行、石油石化等价值板块相对占优，两段区间涨跌幅呈显著负相关。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;8月初反弹如约而至，但浙商证券策略团队警示，&amp;quot;K型&amp;quot;裂口的收敛并非一次完成，而是&amp;quot;收敛→反弹→再收敛&amp;quot;的往复过程。基于此，团队将下阶段配置思路归纳为三条主线：科技分化、深度价值与困境反转。&lt;/p&gt;
@@ -171,26 +160,7 @@ MLCC概念集体爆发：AI驱动涨价周期加速
 
 &lt;p&gt;尽管10亿美元积压的具体说法存疑，苹果所面临的供应端压力已由管理层公开承认。苹果给出的第四财季营收指引为同比增长9%至11%，低于分析师此前预期的约12.1%，公司将外汇波动与供应限制列为两大主要拖累。&lt;/p&gt;
 &lt;p&gt;Kevan Parekh表示，受供应限制影响，相关产品增速将落入约15%的两位数区间；剔除约2.5%外汇影响后，服务业务增速预计与三季度12%的水平基本持平。库克则将这一局面描述为需求表现超出预期、而供应链弹性大幅下降的结果，&amp;quot;iPhone和Mac的实际表现均明显优于公司预期，我们一直在提前拉动供应，但到某个阶段，这是有极限的。&amp;quot;&lt;/p&gt;
-&lt;p&gt;据报道，为缓解内存短缺，苹果近期开始测试使用长鑫存储的存储芯片，目标是在中国销售的部分iPhone和MacBook中使用这些芯片，并已与长鑫存储进行初步洽谈。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 新美联储通讯社：沃什“嘴硬”也敌不过数据，两份通胀报告或决定9月加息命运</title><link>https://wallstreetcn.com/articles/3779153</link><guid>166a6320623221547091aeaf9d1c46e90076ede526b5f17795ed54bfc3d3b199</guid><pubDate>Tue, 11 Aug 2026 03:32:27 GMT</pubDate><description>&lt;p&gt;即将发布的两份通胀数据，将成为美联储主席沃什信誉的一次真实压力测试。&lt;/p&gt;
-&lt;p&gt;据华尔街日报最新报道，有&amp;quot;新美联储通讯社&amp;quot;之称的经济报道记者Nick Timiraos认为，沃什一直将压低通胀作为其执掌美联储的核心施政主题，但上月议息会议后的一场语焉不详的新闻发布会，令市场对他是否真有意愿以行动兑现强硬表态产生了明显疑虑。&lt;/p&gt;
-&lt;p&gt;未来一个月内相继发布的7月消费者价格指数（CPI）及美联储首选通胀指标核心PCE，将直接决定联储官员在9月会议上是选择加息，还是继续按兵不动。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;若数据偏热，沃什将面临两难困境：要么以加息证明自己言出必行，要么在承受更多内部异见的同时维持利率不变，届时7月会议留下的信誉裂痕将更难弥合。若数据温和，则可为他赢得喘息空间，并在本月杰克逊霍尔年会上主动阐明政策思路，而非被迫回应市场压力。&lt;/strong&gt;&lt;/p&gt;
-数据门槛：0.2%是分水岭
-&lt;p&gt;经济学家预期，7月核心CPI环比涨幅为0.2%。Timiraos指出，等于或低于这一水平，意味着通胀走势与美联储2%的目标相符；一旦超出，则将构成明显的政策压力信号。&lt;/p&gt;
-&lt;p&gt;CPI数据将进一步传导至美联储更为倚重的通胀指标，后者将于本月晚些时候公布。值得注意的是，美联储首选通胀指标中的核心通胀率在6月已升至3.3%，较一年前的2.8%明显走高。&lt;/p&gt;
-&lt;p&gt;Nick Timiraos表示，&lt;strong&gt;当前数据之所以备受关注，在于此前多位官员的预判已出现偏差。&lt;/strong&gt;他们原本预期关税冲击将是一次性的、能源价格将随油价回落，通胀无需进一步收紧政策便可自行回归目标。然而，上述冲击不仅持续存在，还与人工智能建设热潮带动的科技设备及软件价格飙升相互叠加，令官员们的预测愈发难以自圆其说。&lt;/p&gt;
-新闻发布会失误，市场信心受损
-&lt;p&gt;Nick Timiraos认为，7月议息会议后，沃什的表现令市场大失所望。当被问及若通胀未能回落是否会以加息应对时，他的回答模糊而迂回——暗示债券收益率上升已在一定程度上替代了货币政策的紧缩效果，并隐约提及可能重新界定美联储的通胀目标。&lt;/p&gt;
-&lt;p&gt;市场的反应颇为罕见：30年期美国国债收益率在沃什发言期间走高，此后未见回落。BNP Paribas首席美国经济学家James Egelhof表示，这种走势在议息会议前后并不寻常，暗示&amp;quot;市场对沃什领导下的美联储的认知，正在发生某种更为根本性的转变&amp;quot;。&lt;/p&gt;
-&lt;p&gt;前Pimco首席经济学家Paul McCulley则直言，&lt;strong&gt;沃什惯于以宏观原则代替具体表态，反而压缩了自己的政策空间。&amp;quot;他说话太过高调，实际上已经在实操层面限制了自己的选项，&amp;quot;McCulley说。&lt;/strong&gt;&lt;/p&gt;
-内部分歧浮现，异见票数上升
-&lt;p&gt;会议结束后，19位与会官员中有10位——包括12位投票委员中的半数——在随后数日内公开发声，主动补充了沃什未能在发布会上说清楚的政策逻辑。&lt;/p&gt;
-&lt;p&gt;目前，至少有6位投票委员已公开表示，若通胀未见改善，他们可能支持最终加息；其中3位在7月会议上已投票支持立即加息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nick Timiraos表示，部分了解沃什的人士承认，7月新闻发布会造成的沟通混乱有待修复，杰克逊霍尔年会或许是一个合适的窗口。&lt;/strong&gt;不过，也有人认为市场反应有所夸大——前美联储副主席Donald Kohn指出，基于市场的通胀预期指标变化不大，&amp;quot;市场反应并没有评论人士描述的那么悲观。但你也不希望走进那场发布会，然后得到那样的结果：长端利率上行，短端利率下行。&amp;quot;&lt;/p&gt;
-沟通哲学与现实压力的碰撞
-&lt;p&gt;沃什就任之初便有意改变美联储的沟通方式。他认为，向市场预先说明触发政策行动的条件和因素，反而会束缚央行的手脚，并干扰一个有价值的信号——即市场自身对经济走势的判断。减少前瞻指引，在他看来，能够提供更为纯粹的市场读数。&lt;/p&gt;
-&lt;p&gt;然而，Kohn对此提出了质疑：“如果你不阐明自己的思考框架，你又如何知道自己的判断何时未能得到验证？”&lt;/p&gt;
-&lt;p&gt;从日程来看，若9月会议选择不加息，下一次会议将在中期选举前数日召开——届时官员们可能不愿在选举敏感期首次出手加息。这意味着，一旦9月错过窗口，决策将实际上被推迟至12月，而届时需要支撑这一等待决定的，将是一份连沃什同僚们自己都已难以坚守的通胀预测。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器需求持续释放，工业富联上半年净利润同比增长96%｜财报见闻</title><link>https://wallstreetcn.com/articles/3779179</link><guid>96eee0e56369a0a929f3658edd31f40c14143b14992d30e84d14c813d066ba90</guid><pubDate>Tue, 11 Aug 2026 09:26:47 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据报道，为缓解内存短缺，苹果近期开始测试使用长鑫存储的存储芯片，目标是在中国销售的部分iPhone和MacBook中使用这些芯片，并已与长鑫存储进行初步洽谈。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器需求持续释放，工业富联上半年净利润同比增长96%｜财报见闻</title><link>https://wallstreetcn.com/articles/3779179</link><guid>96eee0e56369a0a929f3658edd31f40c14143b14992d30e84d14c813d066ba90</guid><pubDate>Tue, 11 Aug 2026 09:26:47 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;工业富联交出一份高增长的中期成绩单。2026年上半年，&lt;strong&gt;公司实现营业收入5578.61亿元，同比增长54.63%；归属于上市公司股东的净利润237.40亿元，同比增长95.99%，接近翻倍。&lt;/strong&gt;扣除非经常性损益后的净利润为229.84亿元，同比增长96.99%，业绩增长主要来自主营业务扩张。&lt;/p&gt;
 &lt;p&gt;从业务端看，AI相关需求仍是公司业绩增长的核心驱动力。公司公告显示，&lt;strong&gt;上半年云计算业务营业收入同比增长75.7%，AI相关业务贡献持续扩大。云服务商AI服务器营业收入同比增长2.3倍，GPU AI机柜出货量同比增长3.2倍；ASIC AI机柜出货量同比增长3倍，ASIC CPU服务器出货量同比增长2.5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;随着GPU及ASIC业务同步放量，工业富联AI服务器产品出货量大幅增长，全球AI服务器市场的领先地位进一步巩固。&lt;/p&gt;
@@ -202,7 +172,18 @@ MLCC概念集体爆发：AI驱动涨价周期加速
 暂不分红，利润留存支持扩张
 &lt;p&gt;分红方面，&lt;strong&gt;公司董事会决议显示，2026年上半年不派发现金红利、不送红股，也不进行资本公积金转增股本。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在净利润同比接近翻倍的情况下，公司选择留存利润，意味着资金将更多用于业务扩张和再投资。随着AI服务器、云计算等业务持续增长，公司仍处于较强的资本投入阶段。&lt;/p&gt;
-&lt;p&gt;整体来看，工业富联上半年呈现出&lt;strong&gt;营收高速增长、利润增速更快、ROE提升以及经营现金流改善&lt;/strong&gt;的特征，AI服务器等高增长业务对公司业绩的拉动仍在持续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic宣布Claude生成内容将嵌入隐形水印，复制粘贴后仍可追踪</title><link>https://wallstreetcn.com/articles/3779160</link><guid>ec09ea3e0e6dbde7120b076fea4ef15a0036391725d3a12b05fe7b076208cbdf</guid><pubDate>Tue, 11 Aug 2026 05:58:46 GMT</pubDate><description>&lt;p&gt;Anthropic正在为其旗下Claude系列AI模型引入机器可读标记技术，所有由Claude生成的文本将被嵌入隐形水印，图片等文件则附加经数字签名的溯源元数据。这一举措标志着AI内容透明度监管进入实质落地阶段。&lt;/p&gt;
+&lt;p&gt;整体来看，工业富联上半年呈现出&lt;strong&gt;营收高速增长、利润增速更快、ROE提升以及经营现金流改善&lt;/strong&gt;的特征，AI服务器等高增长业务对公司业绩的拉动仍在持续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 台积电“CoWoS先生”：ABF基板未来几年短缺程度或仅次于存储</title><link>https://wallstreetcn.com/articles/3779199</link><guid>5cf453bb102080c170bb8c9050bf83837577affa442b6db2e9d1c34afe254670</guid><pubDate>Tue, 11 Aug 2026 14:40:24 GMT</pubDate><description>&lt;p&gt;台积电先进封装持续扩产，CoWoS供需缺口正在收窄，但供应链“卡点”正从存储转向基板材料。&lt;/p&gt;
+&lt;p&gt;台积电先进封装副总裁何军——业界称其为“CoWoS先生”——表示，&lt;strong&gt;未来几年ABF基板短缺程度可能仅次于存储，成为先进封装供应链的第二大瓶颈。&lt;/strong&gt;与此同时，台积电CoWoS产能已连续三年翻倍，目前供给已“非常接近”市场需求，但仍未完全满足。&lt;/p&gt;
+&lt;p&gt;随着CoWoS产能逐步追上需求，先进封装的瓶颈正向上游材料转移。&lt;strong&gt;AI加速器尺寸和封装复杂度持续提升，进一步推高ABF基板需求，使其成为制约先进封装扩产的关键环节。&lt;/strong&gt;&lt;/p&gt;
+CoWoS供需缺口收窄，14倍光罩方案2029年前推出
+&lt;p&gt;何军表示，台积电CoWoS产能已连续三年实现年度翻倍，目前供给已非常接近市场需求。5.5倍光罩尺寸CoWoS已实现量产，在多个AI客户产品上的良率超过98%；&lt;strong&gt;按照技术路线图，14倍光罩尺寸CoWoS预计在2029年前推出。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着封装尺寸扩大，供应链对材料和制造精度的要求也同步提高。何军指出，当封装尺寸超过3倍光罩后，所有组件的质量标准都需达到汽车级以上，以将失效率控制在可接受范围。&lt;/p&gt;
+ABF基板接棒存储，成先进封装新瓶颈
+&lt;p&gt;在供应链端，&lt;strong&gt;何军预计，未来几年ABF基板短缺程度将仅次于存储，成为先进封装的第二大瓶颈。&lt;/strong&gt;目前客户已开始从多家供应商采购基板以保障供给，但不同供应商在热学、机械性能等方面存在差异，也给制造一致性带来新的挑战。&lt;/p&gt;
+&lt;p&gt;与此同时，台积电正加速推进SoIC混合键合技术。该技术去年已实现6微米间距量产，计划在2029年前进一步缩小至4.5微米，并应用于A14芯片堆叠。何军称，SoIC互连密度可达到传统方案的50倍，能效提升约5倍。&lt;/p&gt;
+Chiplet智能配对，先进封装迈向系统级协同
+&lt;p&gt;随着封装复杂度提升，台积电正通过Chiplet“智能配对”技术，将性能互补的芯片裸片重新组合，以减少因单颗芯片性能差异造成的浪费，提高整体良率和有效产出。&lt;/p&gt;
+&lt;p&gt;中介层的功能也在从单纯互连向集成化演进，未来有望进一步承载电压调节器、电容及硅光子器件。与此同时，台积电正推动客户、供应商与晶圆厂并行开发，在量产前六个季度提前发布系统规格指引，并要求供应商在晶圆厂附近配置研发团队，以加快热学、机械及功耗等问题的协同解决。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic宣布Claude生成内容将嵌入隐形水印，复制粘贴后仍可追踪</title><link>https://wallstreetcn.com/articles/3779160</link><guid>ec09ea3e0e6dbde7120b076fea4ef15a0036391725d3a12b05fe7b076208cbdf</guid><pubDate>Tue, 11 Aug 2026 05:58:46 GMT</pubDate><description>&lt;p&gt;Anthropic正在为其旗下Claude系列AI模型引入机器可读标记技术，所有由Claude生成的文本将被嵌入隐形水印，图片等文件则附加经数字签名的溯源元数据。这一举措标志着AI内容透明度监管进入实质落地阶段。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;根据Anthropic在8月11日发布的官方说明，该水印直接编织于文本内容本身，而非附加在元数据层面，&lt;strong&gt;这意味着文本被复制粘贴至其他平台后水印依然随之传播，并可能在经过部分编辑后仍然留存。&lt;/strong&gt;这一特性使得AI生成内容的追踪能力大幅提升，超越了此前依赖元数据标注的同类方案。&lt;/p&gt;
 &lt;p&gt;上述计划的直接触发因素是Anthropic签署了欧盟《人工智能法案》第50条第2款《AI生成内容透明度行为准则》。依据该准则，&lt;strong&gt;2026年8月2日起在欧盟推出的新Claude模型须在发布之日起即支持内容标记。&lt;/strong&gt;Anthropic同时表示，标记机制将在全球范围内适用，覆盖Claude所有产品线及合作云平台，并非仅限于欧盟地区。&lt;/p&gt;
@@ -323,4 +304,21 @@ AI敞口四年翻四倍，集中度风险陡升
 
 &lt;p&gt;并非所有市场参与者都认同杠杆ETF已构成系统性威胁。Susquehanna International Group衍生品策略联席主管Chris Murphy表示，使用者理解这类产品的机械化交易规则固然重要，&amp;quot;但相比市场中其他风险，我不会花太多时间担忧杠杆ETF。封装在透明且流动性良好的ETF中的杠杆敞口，比其他地方的隐性敞口更容易被理解和评估。&amp;quot;&lt;/p&gt;
 &lt;p&gt;Fishman也认为，外界对杠杆ETF的广泛担忧有所夸大。这类产品确实&amp;quot;有可能产生反馈循环，但这是早已存在多年的效应&amp;quot;，其潜在再平衡冲击&amp;quot;在经济意义上并不比过去几年更高&amp;quot;。他同时指出，&amp;quot;理论上它们或许有朝一日会成长为系统重要性因素，但我们距离那一步还很远。&amp;quot;&lt;/p&gt;
-&lt;p&gt;对于杠杆ETF投资者自身而言，风险则更为直接明确：这类产品的收益承诺仅在单日内成立。管理费用持续拖累净值，而&amp;quot;波动率损耗&amp;quot;效应意味着，一旦标的资产反复震荡，基金净值将随时间不断侵蚀——即便标的最终回到原点，持有人也可能已遭受实质性亏损。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 相信企业的内在价值</title><link>http://xueqiu.com/1641200866/404570322</link><guid>f7d1725d71458c3f0b0de5921db9dadf3a5db4e9cdcc6c99cfd40cd753a59358</guid><pubDate>Tue, 11 Aug 2026 10:05:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;烟花易冷破红尘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;藏格矿业中报已经出来，营业收入：20.65亿元，同比+23.05%，归母净利润：36.38亿元，同比+102.09%（翻倍）扣非归母净利润：37.06亿元，同比+104.92%，经营现金流净额：9.84亿元，同比+17.99%。- &lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达5000亿美元融资的思考</title><link>http://xueqiu.com/5332385101/404491061</link><guid>7e85469f39ea5cf5044229fa6db52d9b15523d3ac33cc654971f512425c2e041</guid><pubDate>Tue, 11 Aug 2026 09:55:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股AI再迎寒意，英伟达在抛出一份震撼的5000亿美元融资方案后，股价不涨反跌近3%，甚至其CDS价格创下两周最大单日升幅。英特尔150亿美元定增方案公布后下跌超4%。而此前强势的光通信承压，Lumentum、Coherent分别下跌超8%和14%，美光、海力士均下跌近2%。&lt;/p&gt;</description></item><item><title>[今日雪球] 洋河的投资机会</title><link>http://xueqiu.com/7913104177/404578601</link><guid>21ba6fe4b47295d6e594d63dd128095efe773aa6ad2f782e13c3ec084c42fcd0</guid><pubDate>Tue, 11 Aug 2026 09:56:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2025年，洋河净利润22亿，按PE30计算市值660亿，现市值619亿。2025年五粮液净利润89亿，按PE30计算市值2670亿，现市值2911亿。这不是巧合，而是市场根据现有财报信息给予公允报价，为什么没有溢价，因为一个改分红，一个修账本。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对于杠杆ETF投资者自身而言，风险则更为直接明确：这类产品的收益承诺仅在单日内成立。管理费用持续拖累净值，而&amp;quot;波动率损耗&amp;quot;效应意味着，一旦标的资产反复震荡，基金净值将随时间不断侵蚀——即便标的最终回到原点，持有人也可能已遭受实质性亏损。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 比亚迪闪充开抢10万级市场</title><link>https://wallstreetcn.com/articles/3779205</link><guid>b59beeb5473b9ab4e95c251935dceeaf256f902a44a46bdde202f3262f61b870</guid><pubDate>Tue, 11 Aug 2026 15:55:00 GMT</pubDate><description>&lt;p&gt;比亚迪把闪充车型的起售价压到了10.99万元。&lt;/p&gt;
+&lt;p&gt;8月11日晚，比亚迪2027款海豹06上市，共推出EV和DM-i两套动力、12款车型，售价9.99万—15.59万元。其中，DM-i版9.99万元起，EV版10.99万元起。EV版搭载第二代刀片电池和闪充平台，最快5分钟可将电量从10%充至70%，最高续航达到630公里。&lt;/p&gt;
+&lt;p&gt;这意味着，比亚迪闪充开始大举进军10万元级主流家轿。&lt;/p&gt;
+&lt;p&gt;高配海豹06还加入了激光雷达辅助驾驶和云辇-C。过去更多用于中高端车型制造差异的补能、智驾和底盘配置，正在加速进入10万—15万元市场。&lt;/p&gt;
+&lt;p&gt;比亚迪选择此时下放闪充，与纯电市场正在发生的结构变化有关。&lt;/p&gt;
+&lt;p&gt;乘联分会2026年7月数据显示，7月B级电动车批发销量达到29.9万辆，同比增长35%，占纯电动车批发销量的31%；A00级电动车销量则同比下降50%，A级电动车下降2.1%。纯电市场的增长不再主要依靠低价微型车，需求正向空间更大、更接近家庭主力用车的产品集中。&lt;/p&gt;
+&lt;p&gt;这也解释了为什么10万—15万元会成为新的争夺中心。这个价格带既有最大的家庭用户基本盘，又对价格高度敏感。过去车企主要用降价、加大电池和增加舒适配置争夺消费者，现在快充、辅助驾驶和底盘技术也被拉进了比较表。&lt;/p&gt;
+&lt;p&gt;乘联分会还提到，新势力纯电动车在10万—15万元价格带的销量占比大幅增长。小鹏、零跑、吉利等品牌已经把更长续航和智能驾驶带到这一市场。海豹06加入后，比亚迪提供的差异不再只是成本更低，而是用闪充补上纯电车最容易劝退家庭用户的一环。&lt;/p&gt;
+&lt;p&gt;对家庭用户来说，续航数字继续增加的吸引力正在减弱，补能时间则直接决定一辆纯电车能否承担跨城和长途出行。继续增加电池容量会带来成本和车重，提升充电速度则提供了另一条路径。&lt;/p&gt;
+&lt;p&gt;这会抬高10万级纯电车的竞争成本。车企不仅要控制整车价格，还要承担高压平台、电池热管理、充电设备和辅助驾驶硬件的投入。对于供应链整合能力较弱的品牌，要么压缩利润跟进，要么在配置上留下明显差距。价格战并没有因此消失，它开始更多地通过配置和技术成本表现出来。&lt;/p&gt;
+&lt;p&gt;比亚迪也需要这款车守住国内主流市场。乘联分会口径下，比亚迪7月狭义乘用车国内零售约22.3万辆，同比下降18.6%。这一降幅略好于大盘，但说明比亚迪同样面对需求偏弱和竞品增多的压力。把闪充放进海豹06，比单纯再降几千元更容易重新建立产品差异。&lt;/p&gt;
+&lt;p&gt;海豹06同时保留EV和DM-i两条产品线。9.99万元起的DM-i继续覆盖没有稳定充电条件、看重长途出行的用户；10.99万元起的EV则进入当前表现更强的纯电市场。两种动力的起售价只差1万元，比亚迪把选择留给消费者，也减少了押注单一路线带来的风险。&lt;/p&gt;
+&lt;p&gt;真正的考验仍然在供应端。&lt;/p&gt;
+&lt;p&gt;比亚迪方面对华尔街见闻表示，第二代刀片电池目前仍处于产能爬坡阶段。闪充下探到10.99万元后，海豹06面对的是一个规模远大于中高端市场的用户群。电池产量如果跟不上，发布会上的技术优势就难以转化为持续交付。&lt;/p&gt;
+&lt;p&gt;补能网络也决定了闪充的实际价值。截至6月底，比亚迪在全国已经建成7018座闪充站，覆盖325座城市。&lt;/p&gt;
+&lt;p&gt;海豹06如果它能够稳定走量，10万—15万元纯电车的门槛将被整体抬高：快充会像长续航一样，从少数车型的卖点变成主流产品的必选项。&lt;/p&gt;
+&lt;p&gt;届时，行业比拼的将不只是价格。谁能以更低的成本生产电池、铺设充电网络，并持续交付，谁才有能力留在10万级市场的牌桌上。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 相信企业的内在价值</title><link>http://xueqiu.com/1641200866/404570322</link><guid>f7d1725d71458c3f0b0de5921db9dadf3a5db4e9cdcc6c99cfd40cd753a59358</guid><pubDate>Tue, 11 Aug 2026 10:05:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;烟花易冷破红尘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;藏格矿业中报已经出来，营业收入：20.65亿元，同比+23.05%，归母净利润：36.38亿元，同比+102.09%（翻倍）扣非归母净利润：37.06亿元，同比+104.92%，经营现金流净额：9.84亿元，同比+17.99%。- &lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达5000亿美元融资的思考</title><link>http://xueqiu.com/5332385101/404491061</link><guid>7e85469f39ea5cf5044229fa6db52d9b15523d3ac33cc654971f512425c2e041</guid><pubDate>Tue, 11 Aug 2026 09:55:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股AI再迎寒意，英伟达在抛出一份震撼的5000亿美元融资方案后，股价不涨反跌近3%，甚至其CDS价格创下两周最大单日升幅。英特尔150亿美元定增方案公布后下跌超4%。而此前强势的光通信承压，Lumentum、Coherent分别下跌超8%和14%，美光、海力士均下跌近2%。&lt;/p&gt;</description></item><item><title>[今日雪球] 洋河的投资机会</title><link>http://xueqiu.com/7913104177/404578601</link><guid>21ba6fe4b47295d6e594d63dd128095efe773aa6ad2f782e13c3ec084c42fcd0</guid><pubDate>Tue, 11 Aug 2026 09:56:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2025年，洋河净利润22亿，按PE30计算市值660亿，现市值619亿。2025年五粮液净利润89亿，按PE30计算市值2670亿，现市值2911亿。这不是巧合，而是市场根据现有财报信息给予公允报价，为什么没有溢价，因为一个改分红，一个修账本。&lt;/p&gt;</description></item></channel></rss>
