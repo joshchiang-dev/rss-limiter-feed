@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 11 Aug 2026 21:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻</title><link>https://wallstreetcn.com/articles/3779219</link><guid>c21639b90344952282e57984da2b6102f5a6b3397c9da860cf2347d506975a5d</guid><pubDate>Tue, 11 Aug 2026 21:25:06 GMT</pubDate><description>&lt;p&gt;光通信概念股Lumentum公布的上一财季业绩和本季指引整体增长比华尔街预期的还迅猛，体现了AI光通信需求的强劲推动势头。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 11 Aug 2026 21:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻</title><link>https://wallstreetcn.com/articles/3779219</link><guid>c21639b90344952282e57984da2b6102f5a6b3397c9da860cf2347d506975a5d</guid><pubDate>Tue, 11 Aug 2026 21:25:06 GMT</pubDate><description>&lt;p&gt;光通信概念股Lumentum公布的上一财季业绩和本季指引整体增长比华尔街预期的还迅猛，体现了AI光通信需求的强劲推动势头。&lt;/p&gt;
 &lt;p&gt;美东时间11日周二美股盘后，Lumentum公布，截至2026年6月27日的公司第四财季，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益（EPS）同比大增267%至3.23美元，较分析师预期高近9%。&lt;/p&gt;
 &lt;p&gt;利润率表现同样亮眼。第四财季非GAAP口径毛利率达到50.4%，同比提升1260个基点；非GAAP经营利润率36.6%，同比提升2160个基点；调整后EBITDA为4.064亿美元，对应EBITDA利润率约40%。非GAAP净利润同比增长415%至3.263亿美元。&lt;/p&gt;
 &lt;p&gt;不过，因Lumentum将部分可转换票据转换为股权、产生一笔78亿美元的一次性非现金债务清偿亏损，第四财季GAAP口径下录得净亏损为72亿美元。&lt;/p&gt;
 &lt;p&gt;Lumentum本财季的指引明显强于预期。公司预计第一财季营收12.3亿至12.8亿美元，指引区间中值较市场预期高逾8%；调整后EPS预计4.05至4.35美元，指引中值较市场预期高逾16%；非GAAP经营利润率预计39.5%至40.5%。这意味着公司不仅收入继续加速，利润率也有望迈向40%附近。&lt;/p&gt;
-&lt;p&gt;Lumentum CEO Michael Hurlston表示，第四次财季业绩展现了广泛的市场进展，关键增长动力——如OCS解决方案和云模块业务也已开始贡献增量。“对超高功率CPO激光器的需求增长、ELS模块的首批订单，以及公司在NPO领域广泛的业务布局，均表明光学技术正开始渗透至机架内连接领域，这将显著扩大我们的光学技术潜在市场规模（TAM）。”&lt;/p&gt;
+&lt;p&gt;Lumentum CEO Michael Hurlston表示，第四财季业绩展现了广泛的市场进展，关键增长动力——如OCS解决方案和云模块业务也已开始贡献增量。“对超高功率CPO激光器的需求增长、ELS模块的首批订单，以及我们在NPO领域广泛的业务布局，均是光学技术正开始渗透至机架内连接领域的初期迹象，这将显著扩大我们的光学技术潜在市场规模（TAM）。”&lt;/p&gt;
 &lt;p&gt;财报公布后，周二收涨近0.9%的Lumentum的股价并未直线上行，而是剧烈震荡，盘后先曾转跌并一度跌超5%，后很快转涨，盘后曾涨超5%，后又转跌。股价表现反映出市场一方面认可AI光通信需求和强劲指引，另一方面也在消化GAAP巨亏、前期预期偏高和估值压力。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;分析认为，股价盘后波动本质上是三股力量在拉扯：AI光通信需求与强指引带来的基本面上修，GAAP巨亏数字带来的短线冲击，以及高估值、高预期资产在财报季常见的获利了结。后续股价能否稳定，市场大概率会继续盯住第一财季指引兑现情况、40%左右经营利润率能否维持，以及CPO、ELS、NPO相关需求从早期订单走向规模化收入的速度。&lt;/p&gt;
@@ -132,7 +132,7 @@ CPO、ELS、NPO：光学需求正向机架内互联渗透
 &lt;/ul&gt;
 &lt;p&gt;AI集群规模扩大后，数据中心内部的带宽、功耗和延迟压力快速上升。传统电连接在更高速率、更高密度场景下面临瓶颈，光互联开始从机架间、交换机间连接进一步向机架内、近芯片方向渗透。&lt;/p&gt;
 &lt;p&gt;这也是Lumentum这份财报最具想象力的部分：如果光学需求不再局限于传统数据中心互联，而是进入机架内连接和近封装架构，公司潜在市场空间将被重新评估。&lt;/p&gt;
-&lt;p&gt;不过，Lumentum也用了“初期迹象这一表述，说明这些方向仍处于早期验证和订单转化阶段。市场后续会重点关注这些CPO、ELS、NPO机会能否从初始订单和项目接洽，转化为可持续的规模化收入。&lt;/p&gt;
+&lt;p&gt;不过，Lumentum也用了“初期迹象”（first signs）这一表述，说明这些方向仍处于早期验证和订单转化阶段。市场后续会重点关注这些CPO、ELS、NPO机会能否从初始订单和项目接洽，转化为可持续的规模化收入。&lt;/p&gt;
 
 GAAP巨亏来自一次性非现金债务清偿损失
 
@@ -395,4 +395,4 @@ AI敞口四年翻四倍，集中度风险陡升
 后续通胀路径：0.2%基准预期，上行风险来自油市
 
 &lt;p&gt;展望未来数月，&lt;strong&gt;高盛预计核心CPI将维持每月约0.2%的增幅，&lt;/strong&gt;主要支撑因素包括：住房分项通胀继续降温、关税相关价格涨价贡献逐步收窄，以及前期航油价格上涨对机票的推升压力随之消退。&lt;/p&gt;
-&lt;p&gt;不过，高盛同时提示上行风险。报告指出，若油市供应中断持续时间超出预期，进而带动油价持续走高，通胀路径可能明显偏离基准预测。从本次机票价格分项来看，油价波动向CPI的传导渠道已相当直接，这一风险因素不容忽视。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达5000亿美元融资的思考</title><link>http://xueqiu.com/5332385101/404491061</link><guid>7e85469f39ea5cf5044229fa6db52d9b15523d3ac33cc654971f512425c2e041</guid><pubDate>Tue, 11 Aug 2026 09:55:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股AI再迎寒意，英伟达在抛出一份震撼的5000亿美元融资方案后，股价不涨反跌近3%，甚至其CDS价格创下两周最大单日升幅。英特尔150亿美元定增方案公布后下跌超4%。而此前强势的光通信承压，Lumentum、Coherent分别下跌超8%和14%，美光、海力士均下跌近2%。&lt;/p&gt;</description></item><item><title>[今日雪球] 洋河的投资机会</title><link>http://xueqiu.com/7913104177/404578601</link><guid>21ba6fe4b47295d6e594d63dd128095efe773aa6ad2f782e13c3ec084c42fcd0</guid><pubDate>Tue, 11 Aug 2026 09:56:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;酒金岁月&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2025年，洋河净利润22亿，按PE30计算市值660亿，现市值619亿。2025年五粮液净利润89亿，按PE30计算市值2670亿，现市值2911亿。这不是巧合，而是市场根据现有财报信息给予公允报价，为什么没有溢价，因为一个改分红，一个修账本。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;不过，高盛同时提示上行风险。报告指出，若油市供应中断持续时间超出预期，进而带动油价持续走高，通胀路径可能明显偏离基准预测。从本次机票价格分项来看，油价波动向CPI的传导渠道已相当直接，这一风险因素不容忽视。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
