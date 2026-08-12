@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 12 Aug 2026 06:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”</title><link>https://wallstreetcn.com/articles/3779226</link><guid>2c8a6b2f9fc2a95606f0a972db1091c2e24bde4546a485403fa468db65d93628</guid><pubDate>Tue, 11 Aug 2026 23:31:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 12 Aug 2026 07:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”</title><link>https://wallstreetcn.com/articles/3779226</link><guid>2c8a6b2f9fc2a95606f0a972db1091c2e24bde4546a485403fa468db65d93628</guid><pubDate>Tue, 11 Aug 2026 23:31:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Lumentum季报营收破十亿美元，AI光学需求爆发推动利润率提前达标。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779219"&gt;华尔街见闻提及&lt;/a&gt;，美东时间11日周二美股盘后，光通信芯片制造商Lumentum公布第四财季业绩，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益同比大增267%至3.23美元，较分析师预期高近9%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;值得注意的是，非GAAP毛利率达50.4%，而原计划是在20亿美元的季度营收规模时才能达到这一门槛。强劲的业绩直接体现在了未来指引上。&lt;/strong&gt;&lt;/p&gt;
@@ -895,7 +895,36 @@ GAAP巨亏来自一次性非现金债务清偿损失
 &lt;p&gt;英伟达称，量化后的版本可以在4张B200上部署。这样的模型既是产品，也是Blackwell低精度能力、显存体系和推理软件的演示负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;开放之后，外部开发者又会替英伟达继续优化这套负载。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新的模型架构先在CUDA、PyTorch、vLLM、SGLang和TensorRT-LLM上跑通，优化回流到英伟达平台，后来者面对的就不再是一颗GPU的性能差距，而是一套已经被数千个项目打磨过的生产环境。&lt;/p&gt;
-&lt;p&gt;英伟达今年展示的案例中，Blackwell运行DeepSeek V4的每token成本在一个月内最多下降到原来的五分之一；多项软件优化叠加，吞吐量最高可提升20倍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 百年历史规律显示美股迎来“有利窗口”，分析师看好未来18个月走势</title><link>https://wallstreetcn.com/articles/3779242</link><guid>4b8a0b29a3a04491c1816d1a6afc8824287d70321881227c01ebe590e8d50fce</guid><pubDate>Wed, 12 Aug 2026 01:48:02 GMT</pubDate><description>&lt;p&gt;历史数据显示，美股或许即将进入一段持续18个月的“有利”周期。&lt;/p&gt;
+&lt;p&gt;英伟达今年展示的案例中，Blackwell运行DeepSeek V4的每token成本在一个月内最多下降到原来的五分之一；多项软件优化叠加，吞吐量最高可提升20倍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 如何看“NPO vs CPO”？光通信巨头Lumentum：增量而非替代，都是重要机遇</title><link>https://wallstreetcn.com/articles/3779261</link><guid>4e53d6905a94db37d7430d34cd6fd62de8708b6ef33c2774ab1ceaa33fa5e978</guid><pubDate>Wed, 12 Aug 2026 06:35:42 GMT</pubDate><description>&lt;p&gt;光通信核心供应商Lumentum Holdings对市场最关注的架构之争给出明确定性：NPO与CPO并非零和竞争，而是相互叠加的增量机遇，两条赛道共同构成其未来营收增长的核心驱动力。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，据花旗研究在Lumentum六月季度财报电话会议后与管理层的沟通回顾，管理层明确指出，非英伟达客户的NPO部署强度已显著高于目前来自英伟达的订单需求，使新兴NPO机遇在聚合口径下展现出更高的光学强度乘数效应。与此同时，管理层驳斥了市场将公司扩展互联（scale-up）出货节奏与英伟达Kyber机架时间表强行绑定的做法，重申两者并不存在直接依赖关系。&lt;/p&gt;
+&lt;p&gt;上述表态意味着，市场此前对&amp;quot;NPO崛起将蚕食CPO需求&amp;quot;的担忧存在误判。对投资者而言，Lumentum的潜在可寻址市场规模可能被低估，花旗研究维持对该股的买入评级，目标价1100美元，较当前股价820.59美元隐含约34%上行空间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+NPO与CPO并行推进，出货节奏逐步清晰
+
+&lt;p&gt;管理层对两类架构的出货时间表给出了较为具体的指引。&lt;/p&gt;
+&lt;p&gt;在CPO方向，面向英伟达等客户的机架间（north-south）NPO相关机遇预计于2027年第四季度开始出货，并延续至2028年初放量。&lt;strong&gt;机架内（in-rack）CPO连接——即与scale-up应用相关的垂直互联——则维持此前指引，预计于2028年下半年出货，对应2029年部署落地。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;管理层特别强调，多机架配置的存在本身即构成机架间北南向光互联需求的充分条件，该机遇与Kyber机架的具体推出时间无关。这一表态直接回应了市场对Kyber进度滞后可能拖累Lumentum出货节奏的疑虑。&lt;/p&gt;
+&lt;p&gt;值得注意的是，管理层同时确认，当前scale-out CPO出货已在进行中，scale-up需求持续超过供给，领头客户方面未观察到任何需求犹豫迹象。&lt;/p&gt;
+
+非英伟达NPO客户带来额外增量，光学强度更高
+
+&lt;p&gt;管理层在阐释NPO机遇时引入了&amp;quot;收入机遇×光学强度&amp;quot;的分析框架，这一视角揭示了非英伟达NPO客户的独特价值。&lt;/p&gt;
+&lt;p&gt;对于英伟达而言，CPO及scale-up机遇中仅有较小比例预期采用外部光源（ELS）方案；而对于其他客户，ELS在整体机遇中占据的份额要大得多，在部分情况下覆盖全部需求。管理层据此判断，即便近期英伟达订单的规模优势更为显著，&lt;strong&gt;非英伟达NPO客户在聚合口径下所呈现的吸引力同样不容忽视。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，管理层还指出，部分非英伟达NPO客户选择将激光器直接内嵌于光学引擎内部，而非采用外部光源方案。这一技术路径催生了中功率嵌入式激光器（120mW至150mW）的需求，构成英伟达客户群之外的额外增量客户集合。&lt;/p&gt;
+
+中功率嵌入式激光器：暂无直接竞争，时间窗口较晚
+
+&lt;p&gt;&lt;strong&gt;在120至150mW低功率嵌入式激光器细分市场，管理层表示目前尚未看到直接竞争对手，但同时承认该领域尚处早期阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从技术壁垒角度，管理层认为将400mW激光器向下调整至120至150mW，在结构上要比将70至100mW的低功率产品向上扩展至120mW更为可行，原因在于高功率端的可靠性要求与目标功率段相当甚至更为严格，具备技术衍生优势。&lt;/p&gt;
+&lt;p&gt;在量产节奏上，该细分市场的出货时间晚于ELS驱动的CPO和NPO机遇，管理层预计出货可能发生在2028年上半年，量产爬坡则在下半年推进。管理层坦承，公司尚未在该嵌入式引擎类别中正式赢得设计定点，但出货时间节点隐含这些项目指向scale-up应用场景。&lt;/p&gt;
+
+日本晶圆厂产能再分配：战略性捕获CW增量收入
+
+&lt;p&gt;管理层披露了一项重要的产能调配决策：&lt;strong&gt;将日本晶圆厂10%至20%的过剩产能从EML（电吸收调制激光器）转向CW（连续波）激光器生产。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一决策在表面上存在一定反常规之处——EML毛利率更高，且公司EML供给仍处于明显受限状态。管理层为此给出两点战略依据：其一，经过芯片尺寸重新设计与产线改造，CW激光器的利润率已显著改善，与EML之间的差距收窄；其二，随着大多数收发器向硅光子路线切换，CW的市场规模预计在2027年前将大幅扩张。&lt;/p&gt;
+&lt;p&gt;管理层强调，此次产能再分配并不反映EML需求前景发生任何变化，而是在EML供需紧张格局延续的前提下，主动捕获CW增量收入的战略选择。&lt;/p&gt;
+&lt;p&gt;花旗研究采用40倍市盈率对Lumentum进行估值，较AI光学同行当前35倍远期市盈率均值溢价约14%。花旗援引的依据是，预计Lumentum在2025至2028年间的每股收益增速将达到同行的2至3倍，在盈利增长调整后的相对估值框架下，溢价具备合理性。目标价维持1100美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 百年历史规律显示美股迎来“有利窗口”，分析师看好未来18个月走势</title><link>https://wallstreetcn.com/articles/3779242</link><guid>4b8a0b29a3a04491c1816d1a6afc8824287d70321881227c01ebe590e8d50fce</guid><pubDate>Wed, 12 Aug 2026 01:48:02 GMT</pubDate><description>&lt;p&gt;历史数据显示，美股或许即将进入一段持续18个月的“有利”周期。&lt;/p&gt;
 &lt;p&gt;据MarketWatch最新报道，SentimenTrader技术策略师Jay Kaeppel在发给客户及MarketWatch的研究报告中指出，基于过去106年的历史数据，美股存在一个七年周期规律。按照这一规律，下一个“有利”阶段将于2026年10月30日正式开启。&lt;/p&gt;
 &lt;p&gt;Kaeppel写道：“超过100年的历史表明，今年10月30日之后，牛市出现的概率将会提升。”&lt;/p&gt;
 七年周期怎么运作？
@@ -908,48 +937,4 @@ GAAP巨亏来自一次性非现金债务清偿损失
 &lt;p&gt;Kaeppel本人对此保持审慎。他坦承，自己&amp;quot;一直难以解释为何这一七年周期看起来如此有效&amp;quot;。&lt;/p&gt;
 &lt;p&gt;这并不罕见。市场研究者发现的日历效应本就不少，七年周期只是其中之一。Kaeppel的态度是：有时候，投资中最务实的做法，就是顺应那些历史上行之有效的规律，而不必强求一个理论解释。&lt;/p&gt;
 &lt;p&gt;值得注意的是，历史规律并非预言。过去的表现不保证未来的结果，这一点Kaeppel在报告中也明确提示。&lt;/p&gt;
-&lt;p&gt;周二美股整体走低。标普500下跌0.32%，道琼斯工业平均指数跌0.34%，纳斯达克综合指数跌0.60%。小盘股罗素2000指数则逆势上涨0.32%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI带来美国“就业末日”？美银：目前没有证据，但年轻人、信息业与金融业已现压力</title><link>https://wallstreetcn.com/articles/3779241</link><guid>442df63985099347fba532310ea89f5cca046f40a0a96122bdf46404f4908b39</guid><pubDate>Wed, 12 Aug 2026 02:13:35 GMT</pubDate><description>&lt;p&gt;美国劳动力市场尚未被AI打穿，但裂缝正在特定群体和行业中浮现。美银最新研究显示，AI对就业的冲击更多体现为结构性分化，而非总量崩塌——高AI暴露行业招聘偏弱，入门岗位压力上升，但全行业层面的系统性岗位摧毁，目前缺乏数据支撑。&lt;/p&gt;
-&lt;p&gt;据追风交易台，美国银行证券经济学家Stephen Juneau在8月11日发布的报告中指出：&amp;quot;&lt;strong&gt;技术冲击主要替代的是任务，而非整个职业或劳动力需求。&lt;/strong&gt;&amp;quot;自ChatGPT 3.5于2022年11月推出以来，AI暴露度最高行业的就业水平大体横盘，AI暴露度最低行业则录得约2%的就业增长。但将206个行业逐项拆解后，AI暴露程度与就业增长之间几乎不存在统计相关性。&lt;/p&gt;
-&lt;p&gt;与此同时，风险已悄然换位。&lt;strong&gt;22至27岁年轻大学毕业生失业率已高于2019年水平，信息业与金融和保险业在AI使用率居高的同时，劳动力需求出现下滑。&lt;/strong&gt;另一面，AI驱动的资本开支正在建筑和制造业反向创造岗位，年初至今合计新增约12.7万个就业，约占今年私营部门新增岗位总量的四分之一。&lt;/p&gt;
-
-高AI暴露行业没崩，只是没怎么招人
-
-&lt;p&gt;AI对就业的潜在冲击之所以引发格外强烈的焦虑，在于它瞄准的是白领和服务业岗位。服务业占美国私营部门就业近84%，与过去机器替代工厂流水线的技术冲击不同，AI替代的是文书、分析、客服、编码和后台流程，直接指向中产阶层的核心岗位。&lt;/p&gt;
-&lt;p&gt;然而，就业数据尚未给出&amp;quot;系统性坍塌&amp;quot;的证据。&lt;/p&gt;
-&lt;p&gt;依据Felten、Raj和Seamans于2021年构建的AI暴露指数，AI暴露度最高的行业自ChatGPT 3.5发布后就业基本停止增长，与低暴露行业约2%的增幅相比，差距明显。但这一分组结果放大了叙事：将206个行业全部拆开后，两者之间的相关性几乎消失。&lt;strong&gt;这意味着高暴露行业招聘疲弱，可能部分源于这些行业在2019年后曾过度扩张，随后进入自然消化期，而非完全由AI主导。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;工时数据同样未见明显恶化。若AI正在大规模替代劳动，企业除减少招聘外，还可能压缩现有员工工时。但总工时变化与AI暴露程度之间同样缺乏清晰关联。至少到目前，企业尚未在&amp;quot;人头&amp;quot;与&amp;quot;工时&amp;quot;两个维度上同步收缩。&lt;/p&gt;
-
-AI用得多，不等于劳动力需求一定弱
-
-&lt;p&gt;更直接的问题是：即便AI尚未消灭岗位，是否已在压低企业用工需求？&lt;/p&gt;
-&lt;p&gt;以&amp;quot;就业人数加职位空缺&amp;quot;近似衡量劳动力需求，对照美国人口普查局BTOS调查所采集的企业AI使用率数据，2026年1月至6月的结论依旧不极端——AI使用率与劳动力需求变化之间没有清晰的线性关系。&lt;/p&gt;
-&lt;p&gt;分行业数据呈现明显分化：信息业AI使用率最高，达42.1%，同期劳动力需求下降1.9%；金融和保险业AI使用率34.8%，劳动力需求下降1.1%；而专业、科学和技术服务业AI使用率同样高达37.7%，劳动力需求却增长1.2%。教育服务业使用率34.6%，需求基本持平；制造业17.9%，持平；建筑业12.3%，需求增长0.9%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;信息业与金融和保险业的组合——高AI使用率叠加劳动力需求下滑——确实呈现出通过AI压低人力成本的特征。但专业技术服务业的反例表明，AI对用工的影响更接近行业与岗位层面的分化，而非一条简单的负向直线。&lt;/strong&gt;&lt;/p&gt;
-
-年轻毕业生是最脆弱的一环
-
-&lt;p&gt;总量就业没有被AI打穿，但入门岗位已承压。&lt;/p&gt;
-&lt;p&gt;纽约联储与美国劳工统计局数据显示，&lt;strong&gt;22至27岁年轻大学毕业生失业率已高于2019年水平，且自2023年低点反弹后改善有限。&lt;/strong&gt;整体大学毕业生失业率随不确定性消退有所回落，但这一年龄段近期毕业生的改善幅度明显偏小。&lt;/p&gt;
-&lt;p&gt;这为AI的影响留下了空间。初级岗位的核心价值，往往集中于可标准化、可拆解的任务：整理资料、初步分析、撰写基础文档、处理标准流程。AI未必替代一个完整职业，却可能率先替代新人进入职场时最常承担的那部分工作内容。&lt;/p&gt;
-&lt;p&gt;这也是整套相对乐观判断中最令人不安的部分：若企业持续倾向于用AI完成初级任务，年轻人获得第一份白领工作的门槛将抬高，长期影响将不止于短期失业率，而是延伸至技能积累与职业路径的起点。&lt;/p&gt;
-
-AI资本开支正在反向创造制造业岗位
-
-&lt;p&gt;AI并非只在替代劳动，它同步推动了一轮以数据中心建设为核心的实物投资扩张。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;年初至今，美国非住宅建筑业新增9.5万个岗位，数据中心建设是重要拉动力；AI相关制造业同期新增3.2万个岗位。两者合计约占今年新增私营部门岗位总量的25%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;制造业内部亦有分化。服务于AI和数据中心建设的制造业，就业表现明显强于非AI制造业。AI资本开支正从科技公司的财务科目，转化为建筑工地、设备制造与相关供应链上的实际岗位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;短期内，这条对冲线仍具支撑。资本开支计划仍在上修，数据中心及相关制造需求不会骤然消退。至少在现阶段，这一增量足以部分抵消AI带来的岗位替代压力，也在相当程度上解释了为何宏观就业总量尚未显著恶化。&lt;/p&gt;
-
-风险已从总量转向结构
-
-&lt;p&gt;这组数据最重要的含义，在于将就业风险从&amp;quot;总量崩塌&amp;quot;重新定位至&amp;quot;结构性挤压&amp;quot;。&lt;/p&gt;
-&lt;p&gt;总量层面，AI尚未造成净岗位摧毁：高暴露行业就业横盘而非大规模裁员，AI使用率高也不必然对应需求下滑，建筑与制造业新增岗位持续提供现实对冲。&lt;/p&gt;
-&lt;p&gt;结构层面，压力已然清晰：年轻毕业生就业更难，信息业与金融和保险业值得持续跟踪。AI替代任务的速度，可能快于劳动力重新适配新任务的速度。这个差距不会直接体现在宏观就业总数里，却会体现在第一份工作、晋升路径和岗位内容的实质变化中。&lt;/p&gt;
-&lt;p&gt;对投资者而言，当前证据指向的是行业与人群层面的分化交易，而非押注整体就业市场的方向性判断。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;周二美股整体走低。标普500下跌0.32%，道琼斯工业平均指数跌0.34%，纳斯达克综合指数跌0.60%。小盘股罗素2000指数则逆势上涨0.32%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
