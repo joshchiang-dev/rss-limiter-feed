@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 12 Aug 2026 04:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”</title><link>https://wallstreetcn.com/articles/3779226</link><guid>2c8a6b2f9fc2a95606f0a972db1091c2e24bde4546a485403fa468db65d93628</guid><pubDate>Tue, 11 Aug 2026 23:31:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 12 Aug 2026 04:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”</title><link>https://wallstreetcn.com/articles/3779226</link><guid>2c8a6b2f9fc2a95606f0a972db1091c2e24bde4546a485403fa468db65d93628</guid><pubDate>Tue, 11 Aug 2026 23:31:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Lumentum季报营收破十亿美元，AI光学需求爆发推动利润率提前达标。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779219"&gt;华尔街见闻提及&lt;/a&gt;，美东时间11日周二美股盘后，光通信芯片制造商Lumentum公布第四财季业绩，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益同比大增267%至3.23美元，较分析师预期高近9%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;值得注意的是，非GAAP毛利率达50.4%，而原计划是在20亿美元的季度营收规模时才能达到这一门槛。强劲的业绩直接体现在了未来指引上。&lt;/strong&gt;&lt;/p&gt;
@@ -840,20 +840,7 @@ GAAP巨亏来自一次性非现金债务清偿损失
 &lt;p&gt;英伟达称，量化后的版本可以在4张B200上部署。这样的模型既是产品，也是Blackwell低精度能力、显存体系和推理软件的演示负载。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;开放之后，外部开发者又会替英伟达继续优化这套负载。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新的模型架构先在CUDA、PyTorch、vLLM、SGLang和TensorRT-LLM上跑通，优化回流到英伟达平台，后来者面对的就不再是一颗GPU的性能差距，而是一套已经被数千个项目打磨过的生产环境。&lt;/p&gt;
-&lt;p&gt;英伟达今年展示的案例中，Blackwell运行DeepSeek V4的每token成本在一个月内最多下降到原来的五分之一；多项软件优化叠加，吞吐量最高可提升20倍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 百年历史规律显示美股迎来“有利窗口”，分析师看好未来18个月走势</title><link>https://wallstreetcn.com/articles/3779242</link><guid>4b8a0b29a3a04491c1816d1a6afc8824287d70321881227c01ebe590e8d50fce</guid><pubDate>Wed, 12 Aug 2026 01:48:02 GMT</pubDate><description>&lt;p&gt;历史数据显示，美股或许即将进入一段持续18个月的“有利”周期。&lt;/p&gt;
-&lt;p&gt;据MarketWatch最新报道，SentimenTrader技术策略师Jay Kaeppel在发给客户及MarketWatch的研究报告中指出，基于过去106年的历史数据，美股存在一个七年周期规律。按照这一规律，下一个“有利”阶段将于2026年10月30日正式开启。&lt;/p&gt;
-&lt;p&gt;Kaeppel写道：“超过100年的历史表明，今年10月30日之后，牛市出现的概率将会提升。”&lt;/p&gt;
-七年周期怎么运作？
-&lt;p&gt;这一周期的逻辑是，每个七年周期被拆分为两段各3.5年的子周期，每段子周期再细分为一个18个月的&amp;quot;有利期&amp;quot;和一个18个月的&amp;quot;不利期&amp;quot;。&lt;/p&gt;
-&lt;p&gt;数据显示，在过去106年里，&amp;quot;有利期&amp;quot;内标普500上涨的概率为90%，平均涨幅达26.8%，中位涨幅29.1%；而&amp;quot;不利期&amp;quot;内上涨概率69%，平均涨幅只有4.9%。&lt;/p&gt;
-&lt;p&gt;差距不止于此。&amp;quot;有利期&amp;quot;内最大亏损仅为-26%，而&amp;quot;不利期&amp;quot;最大亏损高达-69.5%。换句话说，&amp;quot;有利期&amp;quot;不仅涨得更多，跌起来也更温和。&lt;/p&gt;
-&lt;p&gt;有意思的是，当前正处于&amp;quot;不利期&amp;quot;——自2025年2月13日该阶段开启以来，标普500已累计上涨逾26%，据FactSet数据显示，这一涨幅已超过历史上&amp;quot;有利期&amp;quot;的平均水平。&lt;/p&gt;
-&lt;p&gt;这意味着，即便在理论上表现较弱的阶段，市场也交出了亮眼成绩单。部分投资者担忧，这轮由人工智能驱动的牛市在即将迎来四周年之际，是否已经&amp;quot;老态渐显&amp;quot;。但Kaeppel的研究给出了另一种视角。&lt;/p&gt;
-规律有效，但原因成谜
-&lt;p&gt;Kaeppel本人对此保持审慎。他坦承，自己&amp;quot;一直难以解释为何这一七年周期看起来如此有效&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这并不罕见。市场研究者发现的日历效应本就不少，七年周期只是其中之一。Kaeppel的态度是：有时候，投资中最务实的做法，就是顺应那些历史上行之有效的规律，而不必强求一个理论解释。&lt;/p&gt;
-&lt;p&gt;值得注意的是，历史规律并非预言。过去的表现不保证未来的结果，这一点Kaeppel在报告中也明确提示。&lt;/p&gt;
-&lt;p&gt;周二美股整体走低。标普500下跌0.32%，道琼斯工业平均指数跌0.34%，纳斯达克综合指数跌0.60%。小盘股罗素2000指数则逆势上涨0.32%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克：AI收入下月将超越SpaceX全部其他业务，五年后AI占SpaceX价值99%</title><link>https://wallstreetcn.com/articles/3779250</link><guid>7cae28ffb86ad3d3c8716b33210dba221d3eafb4dd0652380b7fca6ef3fedebb</guid><pubDate>Wed, 12 Aug 2026 02:53:25 GMT</pubDate><description>&lt;p&gt;8月12日凌晨，SpaceX发布了马斯克在公司内部全员会议上的讲话视频，时长约半小时。马斯克在回顾公司发展历程之后，将话锋转向AI，并给出了一系列具体的收入预测和时间表。&lt;/p&gt;
+&lt;p&gt;英伟达今年展示的案例中，Blackwell运行DeepSeek V4的每token成本在一个月内最多下降到原来的五分之一；多项软件优化叠加，吞吐量最高可提升20倍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克：AI收入下月将超越SpaceX全部其他业务，五年后AI占SpaceX价值99%</title><link>https://wallstreetcn.com/articles/3779250</link><guid>7cae28ffb86ad3d3c8716b33210dba221d3eafb4dd0652380b7fca6ef3fedebb</guid><pubDate>Wed, 12 Aug 2026 02:53:25 GMT</pubDate><description>&lt;p&gt;8月12日凌晨，SpaceX发布了马斯克在公司内部全员会议上的讲话视频，时长约半小时。马斯克在回顾公司发展历程之后，将话锋转向AI，并给出了一系列具体的收入预测和时间表。&lt;/p&gt;
 &lt;p&gt;马斯克在会上说：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;“不是可能，肯定地——我们的AI收入将在大概九月，就是下个月，超过SpaceX所有其他收入，并在第四季度将大幅超过SpaceX所有其他收入。”&lt;/strong&gt;&lt;/p&gt;
@@ -1074,4 +1061,28 @@ AI资本开支正在反向创造制造业岗位
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 预测市场独角兽Kalshi寻求400亿美元估值，世界杯豪赌推动营收翻倍</title><link>https://wallstreetcn.com/articles/3779252</link><guid>440a00199108ee17a6a3727d49554b7a5a24ee5024a97f368c66203e3981489f</guid><pubDate>Wed, 12 Aug 2026 04:01:16 GMT</pubDate><description>&lt;p&gt;一场世界杯豪赌，让Kalshi的估值野心翻了一番。&lt;/p&gt;
+&lt;p&gt;预测市场平台Kalshi的年化营收在今年7月突破40亿美元，较两个月前翻倍，公司随即启动新一轮融资谈判，目标估值400亿美元——这一数字将超过加密交易所Coinbase的市值。&lt;/p&gt;
+&lt;p&gt;8月11日，据Theinformation援引知情人士透露，营收暴增的核心驱动力是2026年FIFA世界杯。Kalshi在赛事进行中途拿下赞助协议，在球场、电视及网络平台投放广告，并启动了一轮以演员Timothée Chalamet和球星Lionel Messi为主角的大规模营销攻势。&lt;/p&gt;
+&lt;p&gt;然而，高速增长的背后是同样惊人的烧钱速度，加之多个州的监管诉讼接踵而至，这家预测市场独角兽正站在扩张与风险的交叉口。&lt;/p&gt;
+营收翻倍，估值冲刺400亿
+&lt;p&gt;据知情人士向媒体透露，Kalshi年化营收从5月的逾20亿美元，在7月跃升至逾40亿美元。&lt;/p&gt;
+&lt;p&gt;400亿美元的目标估值，较Kalshi今年5月完成的融资轮估值翻近一倍。5月那轮融资由Coatue领投，融资额达10亿美元；此前在2025年底，Kalshi还以110亿美元估值完成了另一轮10亿美元融资。&lt;/p&gt;
+&lt;p&gt;如果本轮融资顺利完成，Kalshi的私募估值将超越Coinbase市值，并与市值约850亿美元的Robinhood形成直接对比。《金融时报》6月曾报道Kalshi正探索400亿美元估值的新融资，最快可在第三季度完成。Kalshi发言人Elisabeth Diana拒绝置评。&lt;/p&gt;
+&lt;p&gt;快速增长也让Kalshi开始与银行家进行非正式接触，讨论最早明年启动IPO的可能性。&lt;/p&gt;
+烧钱换增长，6月单月支出3亿美元
+&lt;p&gt;营收翻倍的代价是高昂的营销投入。&lt;/p&gt;
+&lt;p&gt;知情人士透露，Kalshi今年6月单月运营支出达3亿美元，主要来自营销费用。若维持这一节奏，年化运营支出将达36亿美元——与其40亿美元的年化营收相比，利润空间极为有限。&lt;/p&gt;
+&lt;p&gt;Kalshi的收入模式主要依赖对交易活动收取手续费。随着Robinhood、DraftKings等竞争对手相继入场，营销已成为争夺用户的核心战场。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Robinhood已将部分预测市场订单从Kalshi转移至自家与Susquehanna International Group合资的交易所Rothera。据Artemis数据，Robinhood订单在今年第二季度仅占Kalshi交易量的17.5%，而去年同期这一比例接近50%。&lt;/p&gt;
+监管风暴：多州起诉，税收悬局
+&lt;p&gt;高速扩张正引发监管层面的强烈反弹。&lt;/p&gt;
+&lt;p&gt;Kalshi目前深陷多起州级监管诉讼。纽约州上月以&amp;quot;非法赌博&amp;quot;为由起诉Kalshi，要求法院下令其停止在未获纽约州博彩委员会许可的情况下运营，并没收其收益。&lt;/p&gt;
+&lt;p&gt;Kalshi的回应立场明确：&amp;quot;我们受商品期货交易委员会（CFTC）监管，州监管机构无权关闭一家联邦持牌交易所。&amp;quot;CFTC已站在Kalshi一边，援引紧急权力指示其继续运营，以&amp;quot;确保市场稳定&amp;quot;。&lt;/p&gt;
+&lt;p&gt;税收问题是另一条潜在出路，但同样意味着成本上升。北卡罗来纳州上月通过立法，对预测市场净交易手续费收入征收6%的税，允许其在CFTC许可下继续经营。肯塔基州也通过了类似税收法规，但包括Kalshi和竞争对手Polymarket在内的联盟已提起诉讼，寻求阻止该法规实施。&lt;/p&gt;
+&lt;p&gt;据知情人士透露，在纽约州提起诉讼之前，Kalshi曾主动提议向纽约州缴税，承诺未来五年可能为该州带来数十亿美元税收。&lt;/p&gt;
+体育之外：新赛道与新麻烦
+&lt;p&gt;体育押注目前占Kalshi交易量的80%以上，但公司正在积极拓展边界。&lt;/p&gt;
+&lt;p&gt;近期，Kalshi推出了药物临床试验结果和GPU算力价格等合约，并开始向企业用户推销，将预测市场合约定位为对冲业务风险的工具。&lt;/p&gt;
+&lt;p&gt;不过，新麻烦也随之而来。飞行数据公司FlightAware本周对Kalshi提起诉讼，指控其未经授权使用飞行追踪数据，并称航班延误合约可能诱导用户蓄意扰乱航班。此外，Kalshi还面临外界对其结算基准及市场操纵风险的质疑。&lt;/p&gt;
+&lt;p&gt;与此同时，竞争对手Polymarket据彭博上周报道，正在洽谈以200亿美元估值融资约10亿美元。预测市场的军备竞赛，正在全面提速。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
