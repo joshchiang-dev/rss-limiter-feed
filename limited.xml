@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 05:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 05:59:35 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt; Cerebras第二季度呈现明显分化：云业务高速增长、硬件收入承压，但管理层仍上调全年指引，并把2027年“增长3倍以上”的目标押在快速推理、产能扩张和超大规模客户拓展上。&lt;/p&gt;
 &lt;p&gt;美国当地时间8月12日，AI芯片公司Cerebras公布&lt;a href="https://wallstreetcn.com/articles/3779313"&gt;2026年第二季度财报&lt;/a&gt;并举行电话会。公司GAAP营收为1.801亿美元，同比增长74%；硬件收入5410万美元，同比下降23%，成为市场关注的主要压力点。财报公布后，公司股价盘后一度跌约17%。&lt;/p&gt;
 &lt;p&gt;不过，按公司“核心”口径，第二季度收入达到2.099亿美元，同比增长103%，超过此前指引。其中核心云及其他服务收入1.277亿美元，同比增长287%；核心硬件收入8210万美元，同比增长17%。&lt;/p&gt;
@@ -128,7 +128,42 @@ AWS明年一季度上线，OpenAI营收占比将逐渐下降
 &lt;p&gt;A - Andrew Feldman&lt;br&gt;是的，当然。我认为我们每天都在全球范围内寻找数据中心容量。我们这样做是因为我们对快速推理有巨大的需求。我们部署得越快，收入增长就越快。这不仅适用于我们的云业务，也适用于我们客户的本地部署业务，对吧，他们获得数据中心的越快，我们就能越快地向他们发货硬件。所以这是头等大事。这是我花费大量时间的事情。我们现在有一个完整的团队。我们在全球范围内追逐数据中心方面已经相当擅长。一旦你签约了，你的工作并没有结束。正如您所熟知的。我们每天都有人在现场。我们在每个阶段都与开发商和建筑公司接触，尽力让他们按计划进行。因此，我们做得越快，我想我们就能越快提升收入。&lt;/p&gt;
 &lt;p&gt;Q - Vijay Rakesh&lt;br&gt;明白了。然后，关于合作伙伴关系，我知道您提到了超大规模企业，但还有一群新兴的Neocloud（新型云服务商）正在涌现，他们正在获得融资。华尔街正在开发许多融资结构。您认为这个渠道对您来说发展如何？谢谢。&lt;/p&gt;
 &lt;p&gt;A - Andrew Feldman&lt;br&gt;当然，对吧。我认为早期，Neocloud非常专注于NVIDIA。我认为随着业务对投资者变得更加清晰，一些Neocloud正在多元化，并发现自己对单一硬件供应商的依赖程度降低。所以我们在这一类别中的机会很大。有采用多供应商的Neocloud，有只采用AMD的Neocloud，还有由拥有电力资产的人创办的Neocloud，我认为在2027年，这将是我们业务的重要组成部分。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报点燃“AI云”，CoreWeave、Nebius双双大涨</title><link>https://wallstreetcn.com/articles/3779322</link><guid>2d2d6e2b20ffc4d52823beb716d191dfc6ba60058472c5be6d9cf3067c8985e0</guid><pubDate>Thu, 13 Aug 2026 00:07:26 GMT</pubDate><description>&lt;p&gt;两家AI云计算公司季报远超预期，推动新云计算板块集体反弹，重燃市场对AI基础设施需求的信心。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻</title><link>https://wallstreetcn.com/articles/3779354</link><guid>11ef45bb0a28c4eea88072b0adf58e84434fbd7b1d408c495157eca16ea660d8</guid><pubDate>Thu, 13 Aug 2026 05:29:43 GMT</pubDate><description>&lt;p&gt;联想集团发布2026/27财年第一财季业绩，三大业务集团同步创季度新高，AI驱动的基础设施业务利润率大幅扩张，带动公司股价盘中一度涨超17%，市值突破4200亿港元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;业绩公告显示，&lt;strong&gt;联想第一财季实现营收269.43亿美元，同比增长43%，大幅超出市场预估的224.2亿美元；经调整净利润同比增长176%至10.75亿美元，首次突破10亿美元，经调整净利润率达4%，同比接近翻倍。&lt;/strong&gt;公司同时上调全年展望，预计本财年营收有望突破1000亿美元，提前兑现此前设定的&amp;quot;两年内营收超千亿美元&amp;quot;目标。&lt;/p&gt;
+&lt;p&gt;业绩核心亮点集中于基础设施业务。联想ISG（基础设施方案业务集团）第一财季营收同比增长98%至85亿美元，运营利润率升至9.1%，较上季提升5.5个百分点；&lt;strong&gt;AI服务器在手订单储备达540亿美元，按季增长157%，折合人民币约3600亿元。&lt;/strong&gt;公司表示，&lt;strong&gt;AI相关业务收入同比增长60%，占集团整体营收的35%&lt;/strong&gt;，混合式AI战略已进入价值兑现阶段。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+ISG业务利润率跃升，AI服务器订单储备季度翻倍
+
+&lt;p&gt;联想ISG业务本季度的表现是整份财报中最受市场关注的部分。营收85亿美元同比翻倍的背后，是运营利润从去年同期亏损8552万美元，一举扭转并大幅跃升至7.77亿美元，运营利润率提升至9.1%，同比改善11.1个百分点。&lt;/p&gt;
+&lt;p&gt;驱动这一跨越式增长的核心动力在于需求端加速。&lt;strong&gt;公司披露，AI服务器项目储备按季增长157%至540亿美元，覆盖超大规模云服务商、AI云及企业AI三类客户群体。&lt;/strong&gt;剔除去年同期中国区销售国际GPU服务器收入的基数影响后，AI服务器收入在国际市场录得三位数同比增长。&lt;/p&gt;
+&lt;p&gt;在制造布局上，联想北卡罗来纳州智能园区已正式启用，进一步加强其在美洲区的&amp;quot;全球资源、本地交付&amp;quot;能力，以把握超大规模云服务商及企业客户的本地化基础设施需求。&lt;/p&gt;
+
+IDG业务保持韧性，PC市占率连续十季度扩大领先优势
+
+&lt;p&gt;联想IDG（智能设备业务集团）第一财季营收171亿美元，同比增长27%，运营利润率稳定维持在7.1%，在零部件供需失衡及市场竞争加剧的双重压力下展现出较强的盈利韧性。&lt;/p&gt;
+&lt;p&gt;PC业务继续强化市场主导地位。&lt;strong&gt;依据IDC数据，联想第一财季全球PC市场份额达24.2%，同比提升0.5个百分点，连续十个季度持续扩大相对第二大厂商的领先差距。&lt;/strong&gt;AI PC全球市场份额达到25.1%，同样创第一财季新高。&lt;/p&gt;
+&lt;p&gt;智能手机方面，摩托罗拉品牌收入创第一财季新高。高端产品线——包括Razr、Signature及Edge系列——贡献了智能手机收入的37%，占比创历史新高。公司表示，过去两年全球设备装机量实现12.4%的复合年增长率，显著超越整体设备市场增速。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+SSG业务利润率再创新高，AI服务收入三位数增长
+
+&lt;p&gt;联想SSG（方案服务业务集团）第一财季营收29亿美元，同比增长28%，运营利润6.97亿美元，运营利润率达24.2%，均创季度新高。&lt;/p&gt;
+&lt;p&gt;运维服务和项目与解决方案合计占SSG总收入的比例升至62.4%的历史新高，TruScale基础设施即服务订单高速增长，主要受益于AI工厂在AI云端及企业客户领域的拓展。公司援引Gartner、IDC等机构数据称，&lt;strong&gt;AI相关商机带动SSG本财年潜在市场总规模新增逾2000亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在标志性案例方面，联想作为2026年FIFA世界杯唯一官方技术合作伙伴，以FIFA AI Pro等自研AI技术为全部104场赛事提供运营支持，管理超25000台设备，受众覆盖逾60亿球迷，进一步强化其在大型端到端AI解决方案领域的品牌影响力。&lt;/p&gt;
+
+报告净亏损源于认股权证非现金重估，不影响经营实质
+
+&lt;p&gt;值得关注的是，联想本季度在IFRS口径下录得公司权益持有人应占净亏损6.09亿美元，与经调整净利润之间存在显著差异。公司解释称，亏损主要源于认股权证相关衍生金融负债的非现金公允值重估亏损16.90亿美元——这一项目直接与联想股价上涨挂钩，股价越高，账面重估亏损越大。&lt;/p&gt;
+&lt;p&gt;公司管理层指出，该非现金项目预期将持续至2027/28财年末，并不反映集团经营业绩的实质变化。在剔除认股权证重估及可换股债券名义利息等非现金项目后，经调整经营利润率达5.7%，经调整净利润率为4.0%。&lt;/p&gt;
+&lt;p&gt;资产负债层面，截至2026年6月底，联想总资产为701亿美元，现金及银行存款合计60.81亿美元，较上季末增加约10亿美元。受可换股债券扩张影响，净债务规模从上季末的净现金2.42亿美元转为净负债1.79亿美元，贷款权益比率升至0.77。&lt;/p&gt;
+
+全年展望与竞争格局
+
+&lt;p&gt;联想预计本财年营收有望突破1000亿美元，提前达成&amp;quot;两年内营收超千亿美元&amp;quot;的既定目标。公司表示，将继续推进混合式AI战略，并在设备、基础设施、解决方案及服务领域持续提升盈利能力。&lt;/p&gt;
+&lt;p&gt;在区域表现上，美洲区同比增速最为突出，收入同比增长58%；欧洲—中东—非洲市场增长53%；中国市场增长25%。联想在欧洲—中东—非洲市场已连续17个季度保持PC市场第一。&lt;/p&gt;
+&lt;p&gt;国联民生证券电子组分析师薛宏伟、李少青及仇方君对联想维持买入评级，&lt;strong&gt;认为ISG业务成长性充足，IDG业务韧性强，并以下半年至明年Rubin GPU平台放量作为潜在催化剂，目标市值7000亿港元。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报点燃“AI云”，CoreWeave、Nebius双双大涨</title><link>https://wallstreetcn.com/articles/3779322</link><guid>2d2d6e2b20ffc4d52823beb716d191dfc6ba60058472c5be6d9cf3067c8985e0</guid><pubDate>Thu, 13 Aug 2026 00:07:26 GMT</pubDate><description>&lt;p&gt;两家AI云计算公司季报远超预期，推动新云计算板块集体反弹，重燃市场对AI基础设施需求的信心。&lt;/p&gt;
 &lt;p&gt;8月12日周三，CoreWeave收涨19%至107.73美元，Nebius单日暴涨34%至247.05美元，均创近期新高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;两家公司的第二季度业绩均大幅超越华尔街预期。CoreWeave销售积压订单攀升至1040亿美元，Nebius营收同比增长454%。&lt;/p&gt;
@@ -697,51 +732,4 @@ AI推理需求成为Cerebras增长核心
 
 &lt;p&gt;即便白宫有意推动，两项方案在中期选举前实现立法的概率依然偏低。分析人士指出，高昂的财政成本、在参众两院推进税收立法的难度，以及国会在11月选举前所剩无几的会期，共同构成重大障碍。&lt;/p&gt;
 &lt;p&gt;更深层的政治风险在于，这些减税政策的主要受益群体——高收入房主和投资者——与共和党试图争取的普通选民之间存在明显错位。&lt;/p&gt;
-&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板、科创50均涨1%，CRO、创新药爆发，算力硬件延续强势，恒科指震荡涨0.3%，腾讯跌近4%</title><link>https://wallstreetcn.com/articles/3779335</link><guid>4d36d329f68670fa460998d16d0fd9517f91e9ed04dfd3882d3ab59973369b7f</guid><pubDate>Thu, 13 Aug 2026 04:03:57 GMT</pubDate><description>&lt;p&gt;在隔夜美股AI算力租赁商业绩大超预期、国内创新药新临床进展密集落地双重催化下，A股算力硬件产业链、创新药强势拉升。&lt;/p&gt;
-&lt;p&gt;8月13日，A股早盘高开震荡，三大股指集体上涨，创业板涨超1%，在算力硬件产业链的拉升下，科创50指数亦涨超1%。医药医疗、算力租赁、算力硬件、半导体等板块领涨；贵金属、油气、教育、房地产等板块领跌。&lt;/p&gt;
-&lt;p&gt;港股早盘震荡回升，恒指低开之后盘初转涨，恒科指也震荡走高，权重科网股分化，腾讯跌近4%，触及逾两周盘中低位，&lt;a href="https://wallstreetcn.com/articles/3779275"&gt;最新财报&lt;/a&gt;显示，算力采购大幅推高资本开支至527.8亿元，自由现金流转负。债市方面，国债期货全线反弹。商品方面，国内商品期货分化。核心市场走势：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.42%，深成指涨0.73%，创业板指涨1.61%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.07%，恒科指涨0.30%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线走高，截至发稿，30年期主力合约涨0.40%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至发稿，玻璃跌近3%，纯碱跌超2%，氧化铝、铸造铝、焦煤跌超1%，尿素、不锈钢、沪铝跌近1%。合成橡胶涨超2%，纸浆、甲醇、集运欧线涨近2%，PTA、对二甲苯、鸡蛋、短纤、塑料、燃料油、SC原油涨超1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;11:41&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股跌多涨少，沪深京三市超3000股飘绿，上午半天成交1.6万亿。沪深两市半日成交额1.59万亿，较上个交易日放量超2000亿。板块方面，CRO、创新药概念股持续爆发；算力硬件、半导体产业链反弹，CPO、GPU方向领涨；脑机接口、大消费、商业航天概念股活跃。工业金属、黄金、油气、地产、煤炭板块跌幅靠前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;医药板块是今日最亮眼的方向，CRO概念早盘涨超6%，减肥药、创新药、生物制品等概念涨幅居前。&lt;/p&gt;
-&lt;p&gt;博济医药20cm涨停；近岸蛋白、南模生物、万邦医药、陇神戎发同步20cm涨停；誉衡药业5天4板，亚泰集团3连板。CRO龙头药明康德涨近3%，恒瑞医药、百济神州跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;催化逻辑清晰。海思科、以岭药业、恒瑞医药、苑东生物、悦康药业等多家药企相继披露创新药新临床进展，覆盖小分子、多肽、生物制剂、siRNA、PROTAC等多种技术类型的自研产品取得阶段性突破，展现国内创新药研发多点开花的态势。叠加此前药明康德美国法院禁令利好、BD出海持续升温，创新药板块维持高热度。&lt;/p&gt;
-&lt;p&gt;算力硬件产业链延续近期强势，算力租赁概念继续活跃，光通信、CPO、半导体、PCB方向集体走高。&lt;/p&gt;
-&lt;p&gt;算力租赁方向，利通电子涨停，年内累计涨幅超590%；立昂技术20cm涨停；城地香江3连板；群兴玩具一字涨停；金开新能涨停；寒武纪、浪潮信息、润泽科技等跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;光通信、CPO方向同步走强，源杰科技涨超8%，天孚通信盘中涨超8%，新易盛涨超4%，中际旭创涨超2%；光芯片华西股份涨停。半导体板块华虹宏力涨超6%，普冉股份、寒武纪涨超3%，中芯国际、兆易创新涨超2%，长鑫科技、澜起科技涨超1%。PCB方向方邦股份涨超3%，华正新材、生益科技、沪电股份跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;核心催化来自美股AI算力租赁商业绩大超预期。Nebius第二季度营收5.823亿美元，同比大增454%，隔夜股价暴涨超34%；CoreWeave第二财季营收翻倍增长至25.8亿美元，公司表示第二季度新签算力合同的毛利率比前几个季度高出5至10个百分点，隔夜股价涨超19%。这一业绩直接验证了AI算力基础设施的高景气，推动A股算力产业链做多情绪升温。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10:24&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;创业板指涨逾2%，天孚通信涨逾11%，新易盛涨逾5%，中际旭创涨近5%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10:08&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早盘AI应用端走强，榕基软件、理工能科涨停，利欧股份、盛视科技、每日互动、汉鑫科技、立方控股跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:49&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;创业板指、科创50均涨超2%，沪指涨0.45%，深成指涨1.08%，算力租赁、CPO、半导体、PCB等方向涨幅居前，沪深京三市上涨个股超2200只。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:48&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;腾讯跌超2%，盘初一度触及逾两周盘中低位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利称，腾讯坚实的核心基本面被人工智能前置投资所抵消，预计公司下半年至2027年盈利将持平，将公司目标价下调逾15%至550港元，维持超配评级。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:28&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;算力租赁概念继续活跃，城地香江3连板，群兴玩具一字涨停，中鼎股份、行云科技、宏景科技、鸿博股份涨幅靠前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上证指数高开0.27%，创业板指涨1.52%。算力硬件产业链走强，PCB、存储器、CPO方向领涨；算力租赁、光刻机、太空光伏、商业航天概念股活跃。医药商业、创新药、煤炭、油气、白酒板块走弱。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生指数低开0.6%，恒生科技指数跌0.29%。腾讯控股、京东集团、理想汽车、零跑汽车跌幅靠前；联想集团、华虹宏力、智谱、中芯国际走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，腾讯控股Q2营收同比增长11%，AI支出引发疑虑，季度自由现金流罕见转负。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
