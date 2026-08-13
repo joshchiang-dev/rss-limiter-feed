@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 03:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 04:29:37 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt; Cerebras第二季度呈现明显分化：云业务高速增长、硬件收入承压，但管理层仍上调全年指引，并把2027年“增长3倍以上”的目标押在快速推理、产能扩张和超大规模客户拓展上。&lt;/p&gt;
 &lt;p&gt;美国当地时间8月12日，AI芯片公司Cerebras公布&lt;a href="https://wallstreetcn.com/articles/3779313"&gt;2026年第二季度财报&lt;/a&gt;并举行电话会。公司GAAP营收为1.801亿美元，同比增长74%；硬件收入5410万美元，同比下降23%，成为市场关注的主要压力点。财报公布后，公司股价盘后一度跌约17%。&lt;/p&gt;
 &lt;p&gt;不过，按公司“核心”口径，第二季度收入达到2.099亿美元，同比增长103%，超过此前指引。其中核心云及其他服务收入1.277亿美元，同比增长287%；核心硬件收入8210万美元，同比增长17%。&lt;/p&gt;
@@ -128,6 +128,110 @@ AWS明年一季度上线，OpenAI营收占比将逐渐下降
 &lt;p&gt;A - Andrew Feldman&lt;br&gt;是的，当然。我认为我们每天都在全球范围内寻找数据中心容量。我们这样做是因为我们对快速推理有巨大的需求。我们部署得越快，收入增长就越快。这不仅适用于我们的云业务，也适用于我们客户的本地部署业务，对吧，他们获得数据中心的越快，我们就能越快地向他们发货硬件。所以这是头等大事。这是我花费大量时间的事情。我们现在有一个完整的团队。我们在全球范围内追逐数据中心方面已经相当擅长。一旦你签约了，你的工作并没有结束。正如您所熟知的。我们每天都有人在现场。我们在每个阶段都与开发商和建筑公司接触，尽力让他们按计划进行。因此，我们做得越快，我想我们就能越快提升收入。&lt;/p&gt;
 &lt;p&gt;Q - Vijay Rakesh&lt;br&gt;明白了。然后，关于合作伙伴关系，我知道您提到了超大规模企业，但还有一群新兴的Neocloud（新型云服务商）正在涌现，他们正在获得融资。华尔街正在开发许多融资结构。您认为这个渠道对您来说发展如何？谢谢。&lt;/p&gt;
 &lt;p&gt;A - Andrew Feldman&lt;br&gt;当然，对吧。我认为早期，Neocloud非常专注于NVIDIA。我认为随着业务对投资者变得更加清晰，一些Neocloud正在多元化，并发现自己对单一硬件供应商的依赖程度降低。所以我们在这一类别中的机会很大。有采用多供应商的Neocloud，有只采用AMD的Neocloud，还有由拥有电力资产的人创办的Neocloud，我认为在2027年，这将是我们业务的重要组成部分。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 盈利超预期、回购破纪录、散户回归——Citadel十大理由看多8月美股</title><link>https://wallstreetcn.com/articles/3779352</link><guid>d3c72a2e7949b91126b601d0b22f9e64f9b75df87e985b07e7f45e948de0bdcb</guid><pubDate>Thu, 13 Aug 2026 04:08:45 GMT</pubDate><description>&lt;p&gt;8月13日，Citadel Securities首席股票与衍生品策略师Scott Rubner发布最新市场研判报告。&lt;/p&gt;
+&lt;p&gt;在宏观风险犹存、市场分歧极大的背景下，Scott Rubner给出了一份10条理由的多头清单。他认为，在一轮成熟的去杠杆化完成后，多个需求来源正在同时增强，而卖压正在消退。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;宏观层面的担忧有很多，大多数来询问我的人都在问同一个问题：什么会出错？这个问题仍然重要。但&lt;strong&gt;8月，我认为有一个更值得关注的问题：谁会在更高的价格成为买家？&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;strong&gt;盈利撑起涨幅，估值反而在压缩&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;理由1：盈利好于预期&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;标普500指数Q2每股盈利增速约为33%，为后衰退复苏期以外最强水平。&lt;/p&gt;
+&lt;p&gt;更关键的是，Rubner指出，企业不只是在超越已经很高的预期，而是正走在&amp;quot;自2000年以来最陡峭的盈利上修路径&amp;quot;上。截至8月9日，503家成分股中已有429家披露业绩，覆盖指数74%的权重。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;来自美国企业的信息非常简单：盈利好于预期，而且幅度很大。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;S&amp;amp;P 500 EPS – Quarterly Revision Paths&amp;quot;图，即标普500每季度盈利修正路径&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理由2：估值——是盈利在撑，不是估值扩张&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;标普500在创历史新高的同时，12个月远期市盈率却从去年10月的约23.1倍压缩至当前约20.1倍，压缩幅度约15%。&lt;/p&gt;
+&lt;p&gt;原因直接：盈利预期上修的速度快于股价涨幅。&lt;/p&gt;
+&lt;p&gt;等权重标普500远期市盈率约17.1倍；纳斯达克100远期市盈率低于10年均值，处于过去一年的第11百分位。&lt;/p&gt;
+&lt;p&gt;Rubner表示：&amp;quot;这与1999年是截然不同的格局。目前是盈利在做主要贡献，而非估值扩张。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+杠杆与资金：卖压已过，买力重建
+&lt;p&gt;&lt;strong&gt;理由3：杠杆——重置已趋成熟&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rubner认为，全球杠杆重置&amp;quot;看起来越来越成熟&amp;quot;。系统性去杠杆的冲击已大部分完成，规则驱动的卖压悬顶已经缩小。&lt;/p&gt;
+&lt;p&gt;逻辑是：随着波动率继续下行、趋势重建，系统性策略（如CTA、风险平价）将重新具备加仓能力。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;下一个有意义的机械性资金流动，可能是再杠杆化，而不是去杠杆化。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Leveraged ETF Assets Under Management&amp;quot;杠杆ETF资产规模图&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理由4：散户——买家回来了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上周，散户在Citadel Securities平台上重新成为净买家，逆转了6月底的抛售。&lt;/p&gt;
+&lt;p&gt;但Rubner更关注的信号在期权市场：散户在期权市场的看涨/看跌方向比，为今年4月以来首次偏向看涨，且为3月底低点以来的最低看跌读数。&lt;/p&gt;
+&lt;p&gt;与此同时，宽基ETF期权活动量激增。本月平均每日合约量达到月均水平的3.1倍，创历史纪录；平均每日净看跌期权权利金约为2900万美元，约为一年均值的8倍、历史均值的近10倍。&lt;/p&gt;
+&lt;p&gt;Rubner的判断是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;散户在重新买入市场，但仍在为下行风险付费。参与度回来了，但信心还没有完全跟上。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他同时提示了一个潜在的路径：市场可以很快从谨慎，走向参与，再走向追涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Retail Cash Equities – Net Notional图&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理由5：被动资金——从未离场&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;家庭被动ETF需求极为强劲。&lt;/p&gt;
+&lt;p&gt;年初至今ETF净流入约1.6万亿美元，折合每日约75亿美元，较此前纪录高出55%。&lt;/p&gt;
+&lt;p&gt;7月单月净流入近3500亿美元，创单月历史纪录。2026年已有4个月跻身有记录以来单月净流入前十。&lt;/p&gt;
+&lt;p&gt;Rubner的结论简洁：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;结构性被动买家从未离场。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ETF Net Inflows – Strongest Yearly Pace in History图&lt;/p&gt;
+回购与结构：超万亿企业买盘重返市场
+&lt;p&gt;&lt;strong&gt;理由6：回购——1万亿美元重新开窗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本周，企业回购窗口重新打开，已公告的授权规模超过1万亿美元，为该日历节点有记录以来最大规模。&lt;/p&gt;
+&lt;p&gt;历史上，8月是回购执行较强的月份之一，回购规模应超过股票发行量，持续吸收市场供给。&lt;/p&gt;
+&lt;p&gt;值得注意的是，这不是一个科技行业独有的故事。年初至今最大规模回购授权中，近70%来自科技行业以外。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;企业买盘正在回归，而且应该会越来越多地惠及普通股票。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Projected Buyback Window图&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理由7：指数结构——标普500不等于平均股票&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rubner认为，这是理解当前市场&amp;quot;为何如此难以把握&amp;quot;最重要的一点。&lt;/p&gt;
+&lt;p&gt;今年，当费城半导体指数（SOX）单日跌幅超过3%时，标普500平均仅下跌0.8%，而过去20年的历史均值为下跌2.4%。软件板块在这些日子里平均表现为正，这是自2001年以来的首次。&lt;/p&gt;
+&lt;p&gt;原因在于指数构成、权重集中度，以及边际被动资金的流向。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;你可以同时看到一个内部惨烈的市场，和一个表现稳健的指数。两者都是真实的。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Average SPX Move on SOX Selloff Days&amp;quot;图&lt;/p&gt;
+市场结构改善：广度、波动率与期权
+&lt;p&gt;&lt;strong&gt;理由8：广度上升，相关性创低&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;超过70%的标普500成分股站上200日均线，为2024年12月以来最强的市场广度。&lt;/p&gt;
+&lt;p&gt;与此同时，1个月和3个月实现相关性均接近历史最低水平。&lt;/p&gt;
+&lt;p&gt;Rubner的解读：广度上升+相关性下降+离散度高，这一组合为个股选股创造了更丰富的环境，单股Alpha的机会集在扩大。&lt;/p&gt;
+&lt;p&gt;等权重标普500（SPW）近一年表现已超越市值加权标普500（SPX）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;S&amp;amp;P 500 – % of Members Above Their 200-Day Moving Averages图&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理由9：波动率——低于15改变了数学&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;波动率正在从结果变成输入变量。&lt;/p&gt;
+&lt;p&gt;低波动率通常被视为股市上涨的结果。但当30日和60日实现波动率窗口下移后，低波动率本身会为系统性策略创造额外的加仓空间——这是一个正反馈机制。&lt;/p&gt;
+&lt;p&gt;与此同时，半导体和存储芯片板块的极端隐含波动率开始正常化。本月标普500前10大SOX成分股的平均3个月平值隐含波动率下降了近20个百分点；VIXEQ与VIX之间的价差也从历史高位大幅收窄。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;低波动率不再只是在描述市场，它开始改变资金流动的数学。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Semiconductor Leadership Implied Volatility图&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理由10：期权——开始对冲上行&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是Rubner最密切关注的信号。&lt;/p&gt;
+&lt;p&gt;8月4日是SPX看涨期权有史以来成交量最高的单日，成交量约为一年均值的2倍，比此前5月的纪录高出10%。7月30日至8月5日的五个交易日，也是SPX看涨期权有史以来五日累计成交量最大的时段。&lt;/p&gt;
+&lt;p&gt;更关键的数据：近35%的标普500成分股出现3个月看涨偏斜倒挂（即看涨期权隐含波动率高于看跌），这一比例为有记录以来最高。&lt;/p&gt;
+&lt;p&gt;Rubner表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;投资者不只是在减少为下行保护付费。在部分市场，他们愿意为上行凸性支付更多。这种行为转变很重要，这是一种截然不同的心理。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;SPX Call Volumes 图&lt;/p&gt;
+底线：买家名单在变长
+&lt;p&gt;Rubner在报告结尾总结：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这仍然是一个困难的市场。宏观风险是真实的，路径不会是线性的。但在梳理完这份清单后，有一件事很突出：资金流向的天平正在向更积极的方向倾斜。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他同时提示了9月的风险：季节性转差，仓位可能更满，如果8月演变成追涨，今天的买入能力届时将已被消耗。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;8月可能是买家回归的月份。9月可能要问的是，还剩多少买入弹药。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报点燃“AI云”，CoreWeave、Nebius双双大涨</title><link>https://wallstreetcn.com/articles/3779322</link><guid>2d2d6e2b20ffc4d52823beb716d191dfc6ba60058472c5be6d9cf3067c8985e0</guid><pubDate>Thu, 13 Aug 2026 00:07:26 GMT</pubDate><description>&lt;p&gt;两家AI云计算公司季报远超预期，推动新云计算板块集体反弹，重燃市场对AI基础设施需求的信心。&lt;/p&gt;
 &lt;p&gt;8月12日周三，CoreWeave收涨19%至107.73美元，Nebius单日暴涨34%至247.05美元，均创近期新高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -593,70 +697,51 @@ AI推理需求成为Cerebras增长核心
 
 &lt;p&gt;即便白宫有意推动，两项方案在中期选举前实现立法的概率依然偏低。分析人士指出，高昂的财政成本、在参众两院推进税收立法的难度，以及国会在11月选举前所剩无几的会期，共同构成重大障碍。&lt;/p&gt;
 &lt;p&gt;更深层的政治风险在于，这些减税政策的主要受益群体——高收入房主和投资者——与共和党试图争取的普通选民之间存在明显错位。&lt;/p&gt;
-&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本PPI连续高位运行，日央行9月加息预期升温</title><link>https://wallstreetcn.com/articles/3779347</link><guid>9da4e56d798a5e079574cc7467f872410f7eec24360e3a045da1ecd620e1d436</guid><pubDate>Thu, 13 Aug 2026 03:18:34 GMT</pubDate><description>&lt;p&gt;日本生产者价格持续高位运行，为日本央行（BOJ）进一步收紧货币政策提供了新的依据。&lt;/p&gt;
-&lt;p&gt;日本央行周四公布数据显示，&lt;strong&gt;7月企业商品价格指数（PPI）同比上涨7.2%，略低于6月经修正后的7.3%&lt;/strong&gt;——后者为2023年3月以来最高水平。在通胀上行风险持续的背景下，日央行行长植田和男已明确释放信号，最早可能于9月采取加息行动。与此同时，日元疲软进一步加剧了进口成本压力，上月一度触及40年低位。&lt;/p&gt;
-&lt;p&gt;PPI数据的持续高企，意味着企业将成本转嫁给消费者的压力仍未消退，市场对日央行9月加息的预期随之升温。&lt;/p&gt;
-PPI同比涨幅维持高位，环比增速放缓
-&lt;p&gt;日本央行数据显示，7月PPI同比上涨7.2%，环比上涨0.1%，低于6月经修正后的环比涨幅0.5%。&lt;strong&gt;此次涨幅主要由石油及煤炭产品、化工产品以及有色金属三大类别驱动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;日央行在最新的价格与增长展望报告中指出，受中东冲突推升油价、以及全球人工智能相关需求扩张带动有色金属和机械价格上涨等因素影响，生产者价格出现大幅攀升。与此同时，劳动力市场持续偏紧，雇主在招募和留用员工方面竞争激烈，工资上行压力也未见明显缓解。&lt;/p&gt;
-成本转嫁困难，通胀型破产创历史新高
-&lt;p&gt;高企的投入成本正在对部分企业的生存能力构成威胁。据帝国数据银行统计，今年上半年，共有556家企业因无法将燃料、原材料等上涨的投入成本转嫁给客户而宣告破产，为2018年有记录以来同期最高水平。这一趋势在7月延续，当月破产案例达121起，创单月历史纪录。&lt;/p&gt;
-&lt;p&gt;上述数据表明，尽管部分大型企业具备一定的成本转嫁能力，但中小企业所承受的压力已达到临界点，通胀对实体经济的结构性冲击正在显现。&lt;/p&gt;
-日元疲软加剧输入性通胀，干预效果有限
-&lt;p&gt;日元汇率的持续走弱进一步放大了进口价格压力。上月，日元兑美元汇率一度跌至40年低位。尽管日本与美国随后联合入市干预以支撑日元，但截至周四东京早盘，日元仍在159.32附近，此前干预带来的涨幅已大部分回吐。&lt;/p&gt;
-&lt;p&gt;日元贬值直接推高了大宗商品及原材料的进口成本，与国内劳动力成本上升形成叠加效应，共同构成日央行维持加息路径的重要依据。&lt;/p&gt;
-植田和男释放9月加息信号
-&lt;p&gt;&lt;strong&gt;在上月维持政策不变后，植田和男明确表示，若通胀上行风险持续，日央行最早可能于9月采取下一步加息行动，并提及加息节奏存在加快的可能性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;7月PPI数据与日央行的政策判断方向一致，进一步强化了市场对9月加息的预期。当前，企业成本压力、工资上涨动能与日元贬值三重因素相互叠加，为日央行继续推进货币政策正常化提供了支撑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街解读腾讯财报：基本盘稳住了，但AI投入周期拉长，利润兑现仍需时间</title><link>https://wallstreetcn.com/articles/3779342</link><guid>8f90827d6b6ac55f15de5a7b237776b2a61043ffa32e54af6fbbf22affef9448</guid><pubDate>Thu, 13 Aug 2026 03:02:24 GMT</pubDate><description>&lt;p&gt;腾讯控股二季度财报显示，广告和国内游戏仍在支撑增长与利润，但AI投资已从战略布局进入重资本投入阶段。华尔街的共识是，&lt;strong&gt;腾讯基本盘并未失速，问题在于AI账单已先行体现，商业化回报仍需等待。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;8月12日港股收盘后，腾讯发布2026年第二季度业绩。公司当季营收2047.85亿元，同比增长11%；Non-IFRS经营利润756.4亿元，同比增长9%。收入和利润均略高于市场预期，但利润增速低于收入增速，反映AI相关投入正在侵蚀部分经营杠杆。&lt;/p&gt;
-&lt;p&gt;财报发布后，腾讯控股股价8月13日低开，跌逾3%。市场关注点已从单季业绩是否超预期，转向资本开支上行、自由现金流转负，以及AI产品何时形成可验证收入。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛、瑞银、杰富瑞和摩根大通均维持对腾讯的积极评级，但普遍下调或重估短期盈利预期及目标价框架。&lt;strong&gt;四家机构的分歧不在于腾讯是否具备AI竞争力，而在于微信生态、混元模型、生产力工具和云服务的商业化速度，能否覆盖持续上升的训练、推理和基础设施成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板、科创50均涨1%，CRO、创新药爆发，算力硬件延续强势，恒科指震荡涨0.3%，腾讯跌近4%</title><link>https://wallstreetcn.com/articles/3779335</link><guid>4d36d329f68670fa460998d16d0fd9517f91e9ed04dfd3882d3ab59973369b7f</guid><pubDate>Thu, 13 Aug 2026 04:03:57 GMT</pubDate><description>&lt;p&gt;在隔夜美股AI算力租赁商业绩大超预期、国内创新药新临床进展密集落地双重催化下，A股算力硬件产业链、创新药强势拉升。&lt;/p&gt;
+&lt;p&gt;8月13日，A股早盘高开震荡，三大股指集体上涨，创业板涨超1%，在算力硬件产业链的拉升下，科创50指数亦涨超1%。医药医疗、算力租赁、算力硬件、半导体等板块领涨；贵金属、油气、教育、房地产等板块领跌。&lt;/p&gt;
+&lt;p&gt;港股早盘震荡回升，恒指低开之后盘初转涨，恒科指也震荡走高，权重科网股分化，腾讯跌近4%，触及逾两周盘中低位，&lt;a href="https://wallstreetcn.com/articles/3779275"&gt;最新财报&lt;/a&gt;显示，算力采购大幅推高资本开支至527.8亿元，自由现金流转负。债市方面，国债期货全线反弹。商品方面，国内商品期货分化。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.42%，深成指涨0.73%，创业板指涨1.61%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.07%，恒科指涨0.30%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线走高，截至发稿，30年期主力合约涨0.40%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至发稿，玻璃跌近3%，纯碱跌超2%，氧化铝、铸造铝、焦煤跌超1%，尿素、不锈钢、沪铝跌近1%。合成橡胶涨超2%，纸浆、甲醇、集运欧线涨近2%，PTA、对二甲苯、鸡蛋、短纤、塑料、燃料油、SC原油涨超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;11:41&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股跌多涨少，沪深京三市超3000股飘绿，上午半天成交1.6万亿。沪深两市半日成交额1.59万亿，较上个交易日放量超2000亿。板块方面，CRO、创新药概念股持续爆发；算力硬件、半导体产业链反弹，CPO、GPU方向领涨；脑机接口、大消费、商业航天概念股活跃。工业金属、黄金、油气、地产、煤炭板块跌幅靠前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;医药板块是今日最亮眼的方向，CRO概念早盘涨超6%，减肥药、创新药、生物制品等概念涨幅居前。&lt;/p&gt;
+&lt;p&gt;博济医药20cm涨停；近岸蛋白、南模生物、万邦医药、陇神戎发同步20cm涨停；誉衡药业5天4板，亚泰集团3连板。CRO龙头药明康德涨近3%，恒瑞医药、百济神州跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;催化逻辑清晰。海思科、以岭药业、恒瑞医药、苑东生物、悦康药业等多家药企相继披露创新药新临床进展，覆盖小分子、多肽、生物制剂、siRNA、PROTAC等多种技术类型的自研产品取得阶段性突破，展现国内创新药研发多点开花的态势。叠加此前药明康德美国法院禁令利好、BD出海持续升温，创新药板块维持高热度。&lt;/p&gt;
+&lt;p&gt;算力硬件产业链延续近期强势，算力租赁概念继续活跃，光通信、CPO、半导体、PCB方向集体走高。&lt;/p&gt;
+&lt;p&gt;算力租赁方向，利通电子涨停，年内累计涨幅超590%；立昂技术20cm涨停；城地香江3连板；群兴玩具一字涨停；金开新能涨停；寒武纪、浪潮信息、润泽科技等跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;光通信、CPO方向同步走强，源杰科技涨超8%，天孚通信盘中涨超8%，新易盛涨超4%，中际旭创涨超2%；光芯片华西股份涨停。半导体板块华虹宏力涨超6%，普冉股份、寒武纪涨超3%，中芯国际、兆易创新涨超2%，长鑫科技、澜起科技涨超1%。PCB方向方邦股份涨超3%，华正新材、生益科技、沪电股份跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;核心催化来自美股AI算力租赁商业绩大超预期。Nebius第二季度营收5.823亿美元，同比大增454%，隔夜股价暴涨超34%；CoreWeave第二财季营收翻倍增长至25.8亿美元，公司表示第二季度新签算力合同的毛利率比前几个季度高出5至10个百分点，隔夜股价涨超19%。这一业绩直接验证了AI算力基础设施的高景气，推动A股算力产业链做多情绪升温。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:24&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指涨逾2%，天孚通信涨逾11%，新易盛涨逾5%，中际旭创涨近5%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:08&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘AI应用端走强，榕基软件、理工能科涨停，利欧股份、盛视科技、每日互动、汉鑫科技、立方控股跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:49&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指、科创50均涨超2%，沪指涨0.45%，深成指涨1.08%，算力租赁、CPO、半导体、PCB等方向涨幅居前，沪深京三市上涨个股超2200只。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:48&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;腾讯跌超2%，盘初一度触及逾两周盘中低位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-基本盘仍稳，广告与国内游戏托住业绩
-
-&lt;p&gt;腾讯二季度的核心业务表现好于市场此前担忧。&lt;/p&gt;
-&lt;p&gt;营销服务收入435.65亿元，同比增长21.8%，较一季度20%的增速进一步提升。高盛、杰富瑞和摩根大通均将广告视为本季度最重要的增长引擎之一。&lt;strong&gt;AI增强推荐、自动化投放工具AIM+、更高eCPM的广告形式，以及视频号广告加载率提升，共同带动广告变现效率改善。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;视频号仍是腾讯广告业务的主要增量空间。高盛指出，视频号使用时长同比增长超过20%，但广告加载率仍低于行业水平，意味着腾讯在不显著影响用户体验的情况下，仍有提升变现密度的余地。&lt;/p&gt;
-&lt;p&gt;游戏业务的亮点主要来自国内市场。二季度国内游戏收入473.14亿元，同比增长17.2%，明显快于一季度的6%。《Delta Force》《VALORANT》《Roco Kingdom: World》等产品提供增量，既有游戏的运营和内容更新也支撑了收入恢复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;国际游戏则相对疲弱。当季国际游戏收入按人民币口径同比下降约1%，&lt;/strong&gt;按固定汇率口径增长4%。部分Supercell游戏表现偏弱，抵消了《Wuthering Waves》和《VALORANT》PC版的增长。高盛因此将国际游戏相关估值倍数下调，认为海外业务短期难以继续按更高成长预期定价。&lt;/p&gt;
-&lt;p&gt;金融科技及企业服务收入602.86亿元，同比增长8.6%，表现相对稳定。云业务增速已进入低二十个百分点区间，但尚不足以改变集团整体利润结构。&lt;/p&gt;
-
-AI投入加速，现金流和利润率先承压
-
-&lt;p&gt;相比收入端的小幅超预期，市场更关注腾讯资本开支的快速上升。&lt;/p&gt;
-&lt;p&gt;腾讯二季度资本开支约528亿元，高于一季度的319亿元，占当季营收约26%，同比增长176%。摩根大通指出，腾讯当季自由现金流转为负138亿元，净现金由一季度末的1469亿元降至582亿元，AI投入已从长期战略叙事变为现金流和资产负债表上的现实成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞银的测算显示，腾讯二季度资本开支升至约530亿元，全年资本开支预期已由此前的1700亿元上调至2500亿元。高盛也大幅上调了腾讯未来数年的资本开支预测，预计2026年、2027年和2028年资本开支分别为2100亿元、2450亿元和2470亿元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不同机构对具体数值的判断存在差异，但方向一致：腾讯的AI投资强度高于此前预期，且下半年仍可能继续上行。&lt;/p&gt;
-&lt;p&gt;二季度，新AI产品投入约105亿元，高于一季度的88亿元。瑞银认为，若剔除AI投入影响，腾讯调整后经营利润同比增速可达19%，而表观Non-IFRS经营利润增速仅为9%。摩根大通同样指出，剔除新AI产品后，腾讯Non-IFRS经营利润可达861亿元，同比增长19%。&lt;/p&gt;
-&lt;p&gt;这意味着，腾讯传统业务仍在产生利润弹性，但AI正在吸收这部分增量。当前的核心问题并非腾讯有没有能力继续投入，而是利润率承压的周期会持续多久。&lt;/p&gt;
-
-从模型到微信Agent，变现路径仍待验证
-
-&lt;p&gt;腾讯本轮AI投入并非主要面向外部出租算力，而是优先服务内部模型训练、AI原生应用和微信生态。&lt;/p&gt;
-&lt;p&gt;高盛认为，腾讯正将更多资源投向混元模型、WorkBuddy、CodeBuddy、元宝以及微信“小微”等产品。&lt;strong&gt;这类投入与直接向外部客户出租GPU不同，后者通常更容易形成短期收入，而内部模型和应用的价值兑现更多依赖用户规模、留存、付费率和生态协同。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;混元模型是第一条观察线。瑞银指出，HY3已于7月上线，日Token消耗量较预览版增长6倍；更大规模的HY4可能加快推出。市场将关注其在复杂工作流、Agent能力、推理成本和实际应用效果上的表现，而非单纯模型排名。&lt;/p&gt;
-&lt;p&gt;生产力工具是第二条线。WorkBuddy和CodeBuddy已成为腾讯AI商业化的重要载体。瑞银称，腾讯PC端生产力AI工具6月交互量达到2750万次，高于其所列第二大同业的1280万次。&lt;strong&gt;摩根大通则认为，WorkBuddy的用户增长、留存和Token付费意愿提供了初步积极信号，但尚不足以构成集团层面的收入证明。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微信“小微”则是最具长期想象力、也最难量化的变量。&lt;/strong&gt;腾讯正在测试由定制化WeLM模型驱动的微信Agent，希望将AI能力嵌入微信的内容发现、服务执行和交易闭环。高盛认为，若微信逐步向AI-first生态演进，Agent驱动的服务和交易可能成为新的商业入口。&lt;/p&gt;
-&lt;p&gt;但这一构想也意味着持续推理成本。高盛测算，“小微”在2026年第四季度的增量推理成本可能相当于腾讯EBIT的0至5%，到2027年，影响区间可能扩大至EBIT的0至14%。区间之所以较大，正是因为用户渗透率、Token价格和产品使用频率仍存在高度不确定性。&lt;/p&gt;
-
-云业务正在受益，但尚难覆盖AI账单
-
-&lt;p&gt;腾讯云是AI投入中最接近收入兑现的一环，但当前规模仍不足以完全对冲资本开支压力。&lt;/p&gt;
-&lt;p&gt;二季度，腾讯云收入增速进入低二十个百分点区间，受AI需求、国际扩张和通用云服务使用增长推动。高盛称，截至8月，腾讯云MaaS平台TokenHub日Token使用量已达到25万亿，两个月增长5倍，AI需求正逐步转化为GPU租赁、MaaS和生产力工具相关收入。&lt;/p&gt;
-&lt;p&gt;管理层还提到，5月以来云业务的价格环境有所改善，提价和折扣减少有助于优化定价。&lt;/p&gt;
-&lt;p&gt;不过，投行普遍认为，云收入加速不等于AI投资已具备完整回报。AI云、模型服务和生产力工具可以提供部分盈利支撑，但短期仍难覆盖大规模服务器采购、折旧、训练和推理成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞银的判断是，腾讯AI业务目前更接近“收入期权”，而非可显著拉动集团利润的成熟业务。市场已经看见成本，却尚未看到足够规模、可审计的AI收入线。&lt;/strong&gt;&lt;/p&gt;
-
-短期盈利预测承压，重估取决于验证节点
-
-&lt;p&gt;高盛已将腾讯2026年至2028年净利润预测下调1%至4%，其中2026年EPS预测由30.07元下调至29.73元，2027年由32.55元下调至31.19元。该行预计，腾讯2026年第三季度和第四季度EPS增速可能分别仅为4%和0%。&lt;/p&gt;
-&lt;p&gt;瑞银预计，腾讯2026年下半年收入增速约为7%至8%，调整后经营利润同比可能下降约1%；2027年收入预计增长10%，但调整后经营利润大致持平。短期内，AI投资对利润表的挤压仍将持续。&lt;/p&gt;
-&lt;p&gt;在估值层面，四家机构仍维持积极评级，但目标价反映出对短期盈利兑现的谨慎。高盛维持“买入”评级，目标价由700港元下调至670港元；瑞银维持Buy评级，目标价由780港元下调至770港元；杰富瑞维持Buy评级，目标价750港元；摩根大通维持“增持”评级，目标价690港元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摩根大通的判断更接近当前市场的核心情绪：腾讯拥有更坚实的盈利底线，也已明确披露AI投入的规模和边界，因此适合以12个月维度持有；但在缺少明确催化日期和可审计AI收入之前，股价仍可能处于“估值不高、但难以迅速重估”的阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;接下来，市场将重点观察混元后续模型进展、WorkBuddy和CodeBuddy的留存与付费数据、微信“小微”的用户采用情况，以及腾讯云能否持续提升AI相关收入。腾讯已经证明基本盘可以支撑投入，下一步需要证明的是，持续上升的AI账单能否最终对应一条足够清晰的收入和利润曲线。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;摩根士丹利称，腾讯坚实的核心基本面被人工智能前置投资所抵消，预计公司下半年至2027年盈利将持平，将公司目标价下调逾15%至550港元，维持超配评级。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:28&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;算力租赁概念继续活跃，城地香江3连板，群兴玩具一字涨停，中鼎股份、行云科技、宏景科技、鸿博股份涨幅靠前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数高开0.27%，创业板指涨1.52%。算力硬件产业链走强，PCB、存储器、CPO方向领涨；算力租赁、光刻机、太空光伏、商业航天概念股活跃。医药商业、创新药、煤炭、油气、白酒板块走弱。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.6%，恒生科技指数跌0.29%。腾讯控股、京东集团、理想汽车、零跑汽车跌幅靠前；联想集团、华虹宏力、智谱、中芯国际走强。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面，腾讯控股Q2营收同比增长11%，AI支出引发疑虑，季度自由现金流罕见转负。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
