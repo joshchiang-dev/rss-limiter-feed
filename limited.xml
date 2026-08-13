@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 03:29:40 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 03:59:37 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt; Cerebras第二季度呈现明显分化：云业务高速增长、硬件收入承压，但管理层仍上调全年指引，并把2027年“增长3倍以上”的目标押在快速推理、产能扩张和超大规模客户拓展上。&lt;/p&gt;
 &lt;p&gt;美国当地时间8月12日，AI芯片公司Cerebras公布&lt;a href="https://wallstreetcn.com/articles/3779313"&gt;2026年第二季度财报&lt;/a&gt;并举行电话会。公司GAAP营收为1.801亿美元，同比增长74%；硬件收入5410万美元，同比下降23%，成为市场关注的主要压力点。财报公布后，公司股价盘后一度跌约17%。&lt;/p&gt;
 &lt;p&gt;不过，按公司“核心”口径，第二季度收入达到2.099亿美元，同比增长103%，超过此前指引。其中核心云及其他服务收入1.277亿美元，同比增长287%；核心硬件收入8210万美元，同比增长17%。&lt;/p&gt;
@@ -199,59 +199,7 @@ AWS明年一季度上线，OpenAI营收占比将逐渐下降
 &lt;p&gt;Natixis北美首席美国经济学家Christopher Hodge表示，尽管近期每次美联储会议都需将政策意外的可能性纳入定价，&amp;quot;但我们仍倾向于认为美联储能够勉强避免再次加息&amp;quot;。&lt;/p&gt;
 &lt;p&gt;他援引通胀向目标水平的渐进回落、消费端降温以及就业前景趋于脆弱作为支撑论据。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本月底在怀俄明州杰克逊霍尔举行的美联储年度央行研讨会将受到市场密切关注。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gregory Faranello指出，尽管美联储主席沃什自今年初执掌以来刻意回避向市场提供政策路径指引，此次会议仍将是他&amp;quot;微调通胀信息传递&amp;quot;的重要窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6</title><link>https://wallstreetcn.com/articles/3779306</link><guid>25226ffec731bd5098e750da1ee89132d9b3af039cdba4ab18316dc32d08848b</guid><pubDate>Wed, 12 Aug 2026 15:54:05 GMT</pubDate><description>&lt;p&gt;DeepSeek V4 Pro正式版似乎在毫无预告的情况下突然上线。&lt;/p&gt;
-&lt;p&gt;北京时间8月12日周三深夜，&lt;strong&gt;DeepSeek官网API文档悄然更新，模型版本已经从此前的V4-Pro预览版切换至DeepSeek-V4-Pro-0813&lt;/strong&gt;。官方“模型 &amp;amp; 价格”页面目前已经将deepseek-v4-pro对应的模型版本明确标为DeepSeek-V4-Pro-0813，同时API价格暂未出现明显上调。&lt;/p&gt;
-&lt;p&gt;这意味着，&lt;strong&gt;DeepSeek V4 Pro正式版很可能已经开始通过API灰度或正式提供服务&lt;/strong&gt;。多家科技媒体援引DeepSeek官方群流出的评测对比表称，新模型在多项智能体（Agent）测试中的表现已经逼近Anthropic前沿模型Claude Fable 5，部分项目甚至超过Fable 5；相比此前的V4 Pro预览版，整体表现明显提升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更巧合的是，DeepSeek这次更新几乎与马斯克旗下SpaceXAI发布Grok 4.6同步。&lt;strong&gt;两款主打高性价比的模型几乎同时冲击前沿模型第一梯队，AI大模型价格与性能竞争再度升温。&lt;/strong&gt;&lt;/p&gt;
-API文档悄然换版，官方仍未发布正式更新日志
-&lt;p&gt;从DeepSeek官网的变化来看，这次V4 Pro正式版上线颇为低调。&lt;/p&gt;
-&lt;p&gt;目前DeepSeek API官方“模型 &amp;amp; 价格”页面已经显示，deepseek-v4-pro对应的模型版本为DeepSeek-V4-Pro-0813；该模型支持1M上下文、最高384K输出，并支持JSON Output、Tool Calls、Responses API、Anthropic API以及FIM等功能。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;官方“首次调用API”页面也已经将可调用模型列为deepseek-v4-pro，并给出了使用该模型进行思考模式调用的示例。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;但值得注意的是，&lt;strong&gt;DeepSeek目前并没有同步发布V4-Pro-0813的官方更新日志&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;DeepSeek的更新日志页面最新一条仍是7月31日的V4-Flash正式版更新。该公告当时明确表示，7月31日仅升级V4-Flash API，&lt;strong&gt;V4-Pro API及App/Web端模型并未改变，并称“DeepSeek-V4-Pro正式版将会尽快发布”&lt;/strong&gt;。截至目前，这一更新日志页面仍未出现V4-Pro-0813的正式发布说明。&lt;/p&gt;
-&lt;p&gt;由于最先发现变化的并不是DeepSeek官方公告，而是API文档和实际调用端。因此，严格来说，现阶段更适合将此次事件视为DeepSeek V4 Pro正式版已通过API上线，而并非DeepSeek已发布完整、正式的V4 Pro产品公告。&lt;/p&gt;
-多项智能体测试逼近Fable 5，预览版到正式版提升明显
-&lt;p&gt;真正引发市场关注的，是已经在AI社区流传的评测对比表。&lt;/p&gt;
-&lt;p&gt;媒体援引DeepSeek官方群发布的评测表称，&lt;strong&gt;DeepSeek V4 Pro正式版，即DeepSeek-V4-Pro-0813，在多项测试中已经接近Fable 5水平，相比此前的V4 Pro预览版能力出现大幅提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其中尤其值得关注的是智能体相关测试。&lt;/p&gt;
-&lt;p&gt;与传统大模型主要考察知识问答、数学推理不同，智能体测试更加接近AI“真正干活”的能力，包括能否调用工具、执行多步骤任务、编写和修改代码，以及持续推进复杂工作。&lt;/p&gt;
-&lt;p&gt;这也是DeepSeek V4系列从一开始就重点押注的方向。&lt;/p&gt;
-&lt;p&gt;DeepSeek在4月发布V4预览版时就强调，V4 Pro在Agentic Coding评测中达到当时开源模型领先水平，并针对Claude Code、OpenClaw、OpenCode、CodeBuddy等主流Agent产品进行了适配和优化。V4 Pro同时支持1M上下文以及思考模式，可通过reasoning_effort调整思考强度。&lt;/p&gt;
-&lt;p&gt;7月31日发布V4 Flash正式版时，DeepSeek又披露了智能体能力的大幅增强，包括Terminal Bench 2.1达到82.7、NL2Repo达到54.2、DeepSWE达到54.4、Toolathlon verified达到70.3等，并明确表示正式版智能体能力远超V4-Pro-Preview。&lt;/p&gt;
-&lt;p&gt;如今V4 Pro正式版进一步向Fable 5靠拢，意味着DeepSeek此前在Agent方向的积累正在通过后训练和工程优化转化为更强的实际任务执行能力。&lt;/p&gt;
-&lt;p&gt;不过，由于目前流传的新版评测表主要来自官方群及社区，&lt;strong&gt;DeepSeek尚未在官方更新日志中公布完整的V4-Pro-0813基准成绩，因此这些具体分数仍应视为非官方披露数据，而不能与DeepSeek正式发布的基准成绩完全等同。&lt;/strong&gt;&lt;/p&gt;
-价格暂未上调，但官网已经预告近期将大幅涨价
-&lt;p&gt;价格是这次V4 Pro正式版上线的另一大看点。&lt;/p&gt;
-&lt;p&gt;截至目前，DeepSeek官方API价格页面仍显示，V4 Pro每百万Token的&lt;strong&gt;缓存命中输入价格为0.003625美元，缓存未命中输入价格为0.435美元，输出价格为0.87美元&lt;/strong&gt;；按照此前人民币计价口径，大致对应3元/百万Token输入、6元/百万Token输出。&lt;/p&gt;
-&lt;p&gt;也就是说，&lt;strong&gt;新版V4 Pro目前并没有因为模型能力提升而同步涨价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此前DeepSeek已经把V4 Pro API价格从首发价格永久下调至原价的四分之一，输入缓存命中、输入缓存未命中和输出价格分别降至0.025元、3元和6元/百万Token。&lt;/p&gt;
-&lt;p&gt;不过，这次官网实际上埋下了一个值得关注的伏笔。&lt;/p&gt;
-&lt;p&gt;DeepSeek目前在价格页面明确写明：“我们计划在不久的将来上调DeepSeek API服务的整体价格”，而且“预计涨幅较大”，但具体价格仍需等待官方通知。&lt;/p&gt;
-&lt;p&gt;因此，当前V4 Pro正式版“能力升级、价格暂不变”的状态，未必能够长期维持。&lt;/p&gt;
-&lt;p&gt;这也让此次更新更像是一场&lt;strong&gt;在涨价之前的性能升级与产品切换&lt;/strong&gt;：DeepSeek先把新模型推向API用户，随后再根据算力供给、调用量和商业化情况调整价格。&lt;/p&gt;
-一边是DeepSeek，一边是Grok：前沿模型竞争突然“撞车”
-&lt;p&gt;如果没有Grok 4.6，这次DeepSeek V4 Pro的突然上线可能已经足够引发市场关注。&lt;/p&gt;
-&lt;p&gt;但时间点实在太巧。&lt;/p&gt;
-&lt;p&gt;就在DeepSeek V4 Pro-0813悄然上线前几个小时，SpaceXAI刚刚发布Grok 4.6。&lt;/p&gt;
-&lt;p&gt;Grok 4.6在Artificial Analysis推出的GDPVal-AA v2——一项面向真实世界专业知识工作的AI智能体评估——中取得&lt;strong&gt;1753 Elo，排名第一&lt;/strong&gt;，超过OpenAI前沿模型GPT-5.6 Sol Max的1728分，以及Anthropic的Claude Fable 5的1741分。SpaceXAI同时称，Grok 4.6在Artificial Analysis Intelligence Index中取得61分，与GPT-5.6 Sol Max持平。&lt;/p&gt;
-&lt;p&gt;更重要的是价格：Grok 4.6 API定价为每百万输入Token 2美元、输出6美元，SpaceXAI直接将其定位为其他前沿模型的一半价格。&lt;/p&gt;
-&lt;p&gt;如今DeepSeek V4 Pro-0813又在多项测试中逼近Fable 5，而且目前仍维持每百万Token输入3元、输出6元的价格。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两款模型几乎在同一时间向市场释放了类似信号：前沿模型的能力差距正在缩小，而价格优势正在成为新的竞争武器。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这对OpenAI、Anthropic等传统前沿模型厂商而言，压力并不仅仅来自“谁的跑分更高”。&lt;/p&gt;
-&lt;p&gt;此前AI模型竞争更多围绕“最强模型”展开，而随着DeepSeek和Grok不断把性能推向第一梯队，市场开始出现另一种竞争逻辑：&lt;strong&gt;如果性能已经足够接近，开发者为什么要为更贵的模型支付数倍成本？&lt;/strong&gt;&lt;/p&gt;
-从“便宜”到“能干活”，DeepSeek重新冲击智能体市场
-&lt;p&gt;DeepSeek V4 Pro此次升级的意义，也可能超过一次普通的模型版本迭代。&lt;/p&gt;
-&lt;p&gt;今年4月V4发布时，DeepSeek就已经把重点从传统聊天模型转向Agent，并将百万Token上下文、代码工程和工具调用能力作为核心卖点。&lt;/p&gt;
-&lt;p&gt;随后V4 Flash正式版上线，又重点强化Code Agent和Search Agent等能力。DeepSeek在7月31日的更新中甚至直接表示，V4 Flash正式版的智能体能力大幅增强，并在多项智能体基准测试中明显超过V4-Pro-Preview。&lt;/p&gt;
-&lt;p&gt;如今V4 Pro正式版继续向Fable 5等顶级闭源模型靠拢，说明DeepSeek的竞争目标已经不再只是“做一个更便宜的通用大模型”，而是&lt;strong&gt;试图在AI从聊天走向实际工作的过程中，争夺Agent基础模型的位置。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;而这恰恰也是Grok 4.6此次升级的核心方向。&lt;/p&gt;
-&lt;p&gt;Grok 4.6同样将长时间运行的智能体、复杂编程和知识工作作为重点，并在Cursor等开发者入口直接提供服务。&lt;/p&gt;
-&lt;p&gt;因此，DeepSeek V4 Pro-0813与Grok 4.6的“同日撞车”，某种程度上也折射出AI行业竞争的新阶段：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;前沿模型的竞争正在从单纯比拼参数和聊天能力，转向比拼智能体执行能力、Token成本以及开发者生态。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;而这场竞争，可能才刚刚开始。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 思科上季营收创纪录，AI订单爆发，但全年AI营收预测令市场失望，盘后股价跌超4%｜财报见闻</title><link>https://wallstreetcn.com/articles/3779315</link><guid>010026f7f63ac4b3b6074ffe86bf3bac0466b1d9bb460aadc57501d871eaafa9</guid><pubDate>Thu, 13 Aug 2026 00:01:17 GMT</pubDate><description>思科AI订单亮眼但营收指引令市场失望，盘后股价跌约4%
+&lt;p&gt;Gregory Faranello指出，尽管美联储主席沃什自今年初执掌以来刻意回避向市场提供政策路径指引，此次会议仍将是他&amp;quot;微调通胀信息传递&amp;quot;的重要窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 思科上季营收创纪录，AI订单爆发，但全年AI营收预测令市场失望，盘后股价跌超4%｜财报见闻</title><link>https://wallstreetcn.com/articles/3779315</link><guid>010026f7f63ac4b3b6074ffe86bf3bac0466b1d9bb460aadc57501d871eaafa9</guid><pubDate>Thu, 13 Aug 2026 00:01:17 GMT</pubDate><description>思科AI订单亮眼但营收指引令市场失望，盘后股价跌约4%
 &lt;p&gt;思科公布了强劲的第四财季业绩，但首次披露的全年AI营收预测远低于市场基于订单数据的预期，令投资者感到失望，盘后股价下跌约4%。&lt;/p&gt;
 &lt;p&gt;美东时间周三盘后，思科公布截至2026年7月25日的第四财季营收同比增长18%至173亿美元，创单季纪录，调整后每股收益（EPS）为1.22美元，均超出分析师预期。非GAAP口径下调整后每股收益（EPS）同比增长23%至1.22美元，较市场预期高逾4%；调整后营业利润同比增长23%至62亿美元，较市场预期高近6%，调整后营业利润率达到35.9%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;AI成为本季度最大亮点。&lt;/strong&gt;思科第四财季来自超大规模云服务商（hyperscalers）的&lt;strong&gt;AI基础设施订单达到40亿美元，占2026财年全年此类订单额93亿美元的43%&lt;/strong&gt;。与此同时，产品订单同比增长35%，剔除超大规模云服务商后仍增长25%，显示需求并非完全依赖AI大客户拉动。&lt;/p&gt;
@@ -645,45 +593,70 @@ AI推理需求成为Cerebras增长核心
 
 &lt;p&gt;即便白宫有意推动，两项方案在中期选举前实现立法的概率依然偏低。分析人士指出，高昂的财政成本、在参众两院推进税收立法的难度，以及国会在11月选举前所剩无几的会期，共同构成重大障碍。&lt;/p&gt;
 &lt;p&gt;更深层的政治风险在于，这些减税政策的主要受益群体——高收入房主和投资者——与共和党试图争取的普通选民之间存在明显错位。&lt;/p&gt;
-&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回暖，韩股重回技术牛市，三星电子、SK海力士双双涨逾4%</title><link>https://wallstreetcn.com/articles/3779338</link><guid>8fbf7b4b204fa36b1a7dc657095b139d101ea78adb19b640bb612ec4e0a51488</guid><pubDate>Thu, 13 Aug 2026 02:40:51 GMT</pubDate><description>&lt;p&gt;AI交易回暖推动存储芯片股大幅反弹，亚太股市全线走高，韩国股市领涨。&lt;/p&gt;
-&lt;p&gt;此外美国劳工部周三公布数据显示，7月核心通胀率降至2021年3月以来最低水平，&lt;strong&gt;货币市场显示9月加息概率已降至50%以下，为市场风险偏好情绪提供支撑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周四亚太时段，MSCI亚太指数整体上涨约1%，日经225指数上涨1.2%，欧洲斯托克50期货上扬0.3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;韩国综合股价指数领涨，盘中一度涨逾4.8%，较7月30日低点累计反弹约22%，正式进入技术性牛市区间。三星电子和SK海力士双双涨逾4%，两家芯片巨头共同驱动本轮升势。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-韩国股市进入牛市，AI交易全面回暖
-
-&lt;p&gt;韩国股市的强势反弹。韩国综合指数自7月下旬的历史性抛售中强劲复苏，短短约十个交易日累计反弹逾22%，正式跨入技术性牛市门槛。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;三星电子和SK海力士是上涨的主要驱动力。全球科技巨头最新财报显示AI资本开支持续高位运行，提振了市场对存储芯片需求前景的信心。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Baillie Gifford新兴市场股票投资专家Qian Zhang表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;由于AI代理和物理AI的兴起，存储需求已大幅攀升，但我们进入这一阶段时供给能力相当有限——这正是瓶颈所在，而全球只有少数几家公司能够破解这一难题。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Fundstrat Global Advisors技术策略主管Mark Newton指出，iShares MSCI韩国ETF已突破关键技术位，确认反转形态。Mark Newton表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;从技术面看，近期进一步上涨颇具吸引力。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Newton同时表示，存储股开始跑赢更广泛科技板块，这是&amp;quot;短期内存储板块领涨科技行业的积极信号&amp;quot;，韩国市场和存储股目前&amp;quot;是近期风险偏好暴露的合适载体&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，市场参与者对持续性仍存分歧。Life资管公司首席执行官Kang DaeKwun认为：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;市场在杠杆仓位平仓过程中超跌，当前反弹是资金流稳定后的自然修复。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他警告称，在AI叙事和美国利率走势明朗化之前，维持持续上涨将存在难度。&lt;/p&gt;
-
-其他市场动态
-
-&lt;p&gt;大宗商品方面，布伦特原油下跌1%至每桶88.06美元，终结六连阳；WTI原油跌逾1%至每桶82.23美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;周四亚太时段，现货黄金一度上涨0.5%，随后涨幅回落至0.12%，仍持稳于4400美元上方。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美国劳工部周三公布数据显示，7月CPI环比上涨0.2%，符合经济学家预期，核心通胀率降至2021年3月以来最低水平。这一数据进一步压低了市场对美联储9月加息的押注，&lt;strong&gt;为金价反弹提供了支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本PPI连续高位运行，日央行9月加息预期升温</title><link>https://wallstreetcn.com/articles/3779347</link><guid>9da4e56d798a5e079574cc7467f872410f7eec24360e3a045da1ecd620e1d436</guid><pubDate>Thu, 13 Aug 2026 03:18:34 GMT</pubDate><description>&lt;p&gt;日本生产者价格持续高位运行，为日本央行（BOJ）进一步收紧货币政策提供了新的依据。&lt;/p&gt;
+&lt;p&gt;日本央行周四公布数据显示，&lt;strong&gt;7月企业商品价格指数（PPI）同比上涨7.2%，略低于6月经修正后的7.3%&lt;/strong&gt;——后者为2023年3月以来最高水平。在通胀上行风险持续的背景下，日央行行长植田和男已明确释放信号，最早可能于9月采取加息行动。与此同时，日元疲软进一步加剧了进口成本压力，上月一度触及40年低位。&lt;/p&gt;
+&lt;p&gt;PPI数据的持续高企，意味着企业将成本转嫁给消费者的压力仍未消退，市场对日央行9月加息的预期随之升温。&lt;/p&gt;
+PPI同比涨幅维持高位，环比增速放缓
+&lt;p&gt;日本央行数据显示，7月PPI同比上涨7.2%，环比上涨0.1%，低于6月经修正后的环比涨幅0.5%。&lt;strong&gt;此次涨幅主要由石油及煤炭产品、化工产品以及有色金属三大类别驱动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日央行在最新的价格与增长展望报告中指出，受中东冲突推升油价、以及全球人工智能相关需求扩张带动有色金属和机械价格上涨等因素影响，生产者价格出现大幅攀升。与此同时，劳动力市场持续偏紧，雇主在招募和留用员工方面竞争激烈，工资上行压力也未见明显缓解。&lt;/p&gt;
+成本转嫁困难，通胀型破产创历史新高
+&lt;p&gt;高企的投入成本正在对部分企业的生存能力构成威胁。据帝国数据银行统计，今年上半年，共有556家企业因无法将燃料、原材料等上涨的投入成本转嫁给客户而宣告破产，为2018年有记录以来同期最高水平。这一趋势在7月延续，当月破产案例达121起，创单月历史纪录。&lt;/p&gt;
+&lt;p&gt;上述数据表明，尽管部分大型企业具备一定的成本转嫁能力，但中小企业所承受的压力已达到临界点，通胀对实体经济的结构性冲击正在显现。&lt;/p&gt;
+日元疲软加剧输入性通胀，干预效果有限
+&lt;p&gt;日元汇率的持续走弱进一步放大了进口价格压力。上月，日元兑美元汇率一度跌至40年低位。尽管日本与美国随后联合入市干预以支撑日元，但截至周四东京早盘，日元仍在159.32附近，此前干预带来的涨幅已大部分回吐。&lt;/p&gt;
+&lt;p&gt;日元贬值直接推高了大宗商品及原材料的进口成本，与国内劳动力成本上升形成叠加效应，共同构成日央行维持加息路径的重要依据。&lt;/p&gt;
+植田和男释放9月加息信号
+&lt;p&gt;&lt;strong&gt;在上月维持政策不变后，植田和男明确表示，若通胀上行风险持续，日央行最早可能于9月采取下一步加息行动，并提及加息节奏存在加快的可能性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7月PPI数据与日央行的政策判断方向一致，进一步强化了市场对9月加息的预期。当前，企业成本压力、工资上涨动能与日元贬值三重因素相互叠加，为日央行继续推进货币政策正常化提供了支撑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街解读腾讯财报：基本盘稳住了，但AI投入周期拉长，利润兑现仍需时间</title><link>https://wallstreetcn.com/articles/3779342</link><guid>8f90827d6b6ac55f15de5a7b237776b2a61043ffa32e54af6fbbf22affef9448</guid><pubDate>Thu, 13 Aug 2026 03:02:24 GMT</pubDate><description>&lt;p&gt;腾讯控股二季度财报显示，广告和国内游戏仍在支撑增长与利润，但AI投资已从战略布局进入重资本投入阶段。华尔街的共识是，&lt;strong&gt;腾讯基本盘并未失速，问题在于AI账单已先行体现，商业化回报仍需等待。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月12日港股收盘后，腾讯发布2026年第二季度业绩。公司当季营收2047.85亿元，同比增长11%；Non-IFRS经营利润756.4亿元，同比增长9%。收入和利润均略高于市场预期，但利润增速低于收入增速，反映AI相关投入正在侵蚀部分经营杠杆。&lt;/p&gt;
+&lt;p&gt;财报发布后，腾讯控股股价8月13日低开，跌逾3%。市场关注点已从单季业绩是否超预期，转向资本开支上行、自由现金流转负，以及AI产品何时形成可验证收入。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛、瑞银、杰富瑞和摩根大通均维持对腾讯的积极评级，但普遍下调或重估短期盈利预期及目标价框架。&lt;strong&gt;四家机构的分歧不在于腾讯是否具备AI竞争力，而在于微信生态、混元模型、生产力工具和云服务的商业化速度，能否覆盖持续上升的训练、推理和基础设施成本。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美元兑日元再度逼近160附近，市场对日本当局再度入市干预的戒备情绪持续。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Manulife资管公司的Nathan Thooft表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;日本当局已展示出行动意愿，包括与美国财政部的协调干预，接近或突破近期干预区间的汇率水平将持续令交易者保持谨慎。我们确实仍处于干预观察状态。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+
+基本盘仍稳，广告与国内游戏托住业绩
+
+&lt;p&gt;腾讯二季度的核心业务表现好于市场此前担忧。&lt;/p&gt;
+&lt;p&gt;营销服务收入435.65亿元，同比增长21.8%，较一季度20%的增速进一步提升。高盛、杰富瑞和摩根大通均将广告视为本季度最重要的增长引擎之一。&lt;strong&gt;AI增强推荐、自动化投放工具AIM+、更高eCPM的广告形式，以及视频号广告加载率提升，共同带动广告变现效率改善。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;视频号仍是腾讯广告业务的主要增量空间。高盛指出，视频号使用时长同比增长超过20%，但广告加载率仍低于行业水平，意味着腾讯在不显著影响用户体验的情况下，仍有提升变现密度的余地。&lt;/p&gt;
+&lt;p&gt;游戏业务的亮点主要来自国内市场。二季度国内游戏收入473.14亿元，同比增长17.2%，明显快于一季度的6%。《Delta Force》《VALORANT》《Roco Kingdom: World》等产品提供增量，既有游戏的运营和内容更新也支撑了收入恢复。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国际游戏则相对疲弱。当季国际游戏收入按人民币口径同比下降约1%，&lt;/strong&gt;按固定汇率口径增长4%。部分Supercell游戏表现偏弱，抵消了《Wuthering Waves》和《VALORANT》PC版的增长。高盛因此将国际游戏相关估值倍数下调，认为海外业务短期难以继续按更高成长预期定价。&lt;/p&gt;
+&lt;p&gt;金融科技及企业服务收入602.86亿元，同比增长8.6%，表现相对稳定。云业务增速已进入低二十个百分点区间，但尚不足以改变集团整体利润结构。&lt;/p&gt;
+
+AI投入加速，现金流和利润率先承压
+
+&lt;p&gt;相比收入端的小幅超预期，市场更关注腾讯资本开支的快速上升。&lt;/p&gt;
+&lt;p&gt;腾讯二季度资本开支约528亿元，高于一季度的319亿元，占当季营收约26%，同比增长176%。摩根大通指出，腾讯当季自由现金流转为负138亿元，净现金由一季度末的1469亿元降至582亿元，AI投入已从长期战略叙事变为现金流和资产负债表上的现实成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瑞银的测算显示，腾讯二季度资本开支升至约530亿元，全年资本开支预期已由此前的1700亿元上调至2500亿元。高盛也大幅上调了腾讯未来数年的资本开支预测，预计2026年、2027年和2028年资本开支分别为2100亿元、2450亿元和2470亿元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不同机构对具体数值的判断存在差异，但方向一致：腾讯的AI投资强度高于此前预期，且下半年仍可能继续上行。&lt;/p&gt;
+&lt;p&gt;二季度，新AI产品投入约105亿元，高于一季度的88亿元。瑞银认为，若剔除AI投入影响，腾讯调整后经营利润同比增速可达19%，而表观Non-IFRS经营利润增速仅为9%。摩根大通同样指出，剔除新AI产品后，腾讯Non-IFRS经营利润可达861亿元，同比增长19%。&lt;/p&gt;
+&lt;p&gt;这意味着，腾讯传统业务仍在产生利润弹性，但AI正在吸收这部分增量。当前的核心问题并非腾讯有没有能力继续投入，而是利润率承压的周期会持续多久。&lt;/p&gt;
+
+从模型到微信Agent，变现路径仍待验证
+
+&lt;p&gt;腾讯本轮AI投入并非主要面向外部出租算力，而是优先服务内部模型训练、AI原生应用和微信生态。&lt;/p&gt;
+&lt;p&gt;高盛认为，腾讯正将更多资源投向混元模型、WorkBuddy、CodeBuddy、元宝以及微信“小微”等产品。&lt;strong&gt;这类投入与直接向外部客户出租GPU不同，后者通常更容易形成短期收入，而内部模型和应用的价值兑现更多依赖用户规模、留存、付费率和生态协同。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;混元模型是第一条观察线。瑞银指出，HY3已于7月上线，日Token消耗量较预览版增长6倍；更大规模的HY4可能加快推出。市场将关注其在复杂工作流、Agent能力、推理成本和实际应用效果上的表现，而非单纯模型排名。&lt;/p&gt;
+&lt;p&gt;生产力工具是第二条线。WorkBuddy和CodeBuddy已成为腾讯AI商业化的重要载体。瑞银称，腾讯PC端生产力AI工具6月交互量达到2750万次，高于其所列第二大同业的1280万次。&lt;strong&gt;摩根大通则认为，WorkBuddy的用户增长、留存和Token付费意愿提供了初步积极信号，但尚不足以构成集团层面的收入证明。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微信“小微”则是最具长期想象力、也最难量化的变量。&lt;/strong&gt;腾讯正在测试由定制化WeLM模型驱动的微信Agent，希望将AI能力嵌入微信的内容发现、服务执行和交易闭环。高盛认为，若微信逐步向AI-first生态演进，Agent驱动的服务和交易可能成为新的商业入口。&lt;/p&gt;
+&lt;p&gt;但这一构想也意味着持续推理成本。高盛测算，“小微”在2026年第四季度的增量推理成本可能相当于腾讯EBIT的0至5%，到2027年，影响区间可能扩大至EBIT的0至14%。区间之所以较大，正是因为用户渗透率、Token价格和产品使用频率仍存在高度不确定性。&lt;/p&gt;
+
+云业务正在受益，但尚难覆盖AI账单
+
+&lt;p&gt;腾讯云是AI投入中最接近收入兑现的一环，但当前规模仍不足以完全对冲资本开支压力。&lt;/p&gt;
+&lt;p&gt;二季度，腾讯云收入增速进入低二十个百分点区间，受AI需求、国际扩张和通用云服务使用增长推动。高盛称，截至8月，腾讯云MaaS平台TokenHub日Token使用量已达到25万亿，两个月增长5倍，AI需求正逐步转化为GPU租赁、MaaS和生产力工具相关收入。&lt;/p&gt;
+&lt;p&gt;管理层还提到，5月以来云业务的价格环境有所改善，提价和折扣减少有助于优化定价。&lt;/p&gt;
+&lt;p&gt;不过，投行普遍认为，云收入加速不等于AI投资已具备完整回报。AI云、模型服务和生产力工具可以提供部分盈利支撑，但短期仍难覆盖大规模服务器采购、折旧、训练和推理成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瑞银的判断是，腾讯AI业务目前更接近“收入期权”，而非可显著拉动集团利润的成熟业务。市场已经看见成本，却尚未看到足够规模、可审计的AI收入线。&lt;/strong&gt;&lt;/p&gt;
+
+短期盈利预测承压，重估取决于验证节点
+
+&lt;p&gt;高盛已将腾讯2026年至2028年净利润预测下调1%至4%，其中2026年EPS预测由30.07元下调至29.73元，2027年由32.55元下调至31.19元。该行预计，腾讯2026年第三季度和第四季度EPS增速可能分别仅为4%和0%。&lt;/p&gt;
+&lt;p&gt;瑞银预计，腾讯2026年下半年收入增速约为7%至8%，调整后经营利润同比可能下降约1%；2027年收入预计增长10%，但调整后经营利润大致持平。短期内，AI投资对利润表的挤压仍将持续。&lt;/p&gt;
+&lt;p&gt;在估值层面，四家机构仍维持积极评级，但目标价反映出对短期盈利兑现的谨慎。高盛维持“买入”评级，目标价由700港元下调至670港元；瑞银维持Buy评级，目标价由780港元下调至770港元；杰富瑞维持Buy评级，目标价750港元；摩根大通维持“增持”评级，目标价690港元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根大通的判断更接近当前市场的核心情绪：腾讯拥有更坚实的盈利底线，也已明确披露AI投入的规模和边界，因此适合以12个月维度持有；但在缺少明确催化日期和可审计AI收入之前，股价仍可能处于“估值不高、但难以迅速重估”的阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;接下来，市场将重点观察混元后续模型进展、WorkBuddy和CodeBuddy的留存与付费数据、微信“小微”的用户采用情况，以及腾讯云能否持续提升AI相关收入。腾讯已经证明基本盘可以支撑投入，下一步需要证明的是，持续上升的AI账单能否最终对应一条足够清晰的收入和利润曲线。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
