@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 09:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 10:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt; Cerebras第二季度呈现明显分化：云业务高速增长、硬件收入承压，但管理层仍上调全年指引，并把2027年“增长3倍以上”的目标押在快速推理、产能扩张和超大规模客户拓展上。&lt;/p&gt;
 &lt;p&gt;美国当地时间8月12日，AI芯片公司Cerebras公布&lt;a href="https://wallstreetcn.com/articles/3779313"&gt;2026年第二季度财报&lt;/a&gt;并举行电话会。公司GAAP营收为1.801亿美元，同比增长74%；硬件收入5410万美元，同比下降23%，成为市场关注的主要压力点。财报公布后，公司股价盘后一度跌约17%。&lt;/p&gt;
 &lt;p&gt;不过，按公司“核心”口径，第二季度收入达到2.099亿美元，同比增长103%，超过此前指引。其中核心云及其他服务收入1.277亿美元，同比增长287%；核心硬件收入8210万美元，同比增长17%。&lt;/p&gt;
@@ -501,56 +501,7 @@ AI财报提振情绪，芯片与云计算领涨
 &lt;p&gt;（8月12日 欧美主要股指表现）&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cerebras大跌！硬件营收意外下滑，“挑战英伟达”之路遇需求波动｜财报见闻</title><link>https://wallstreetcn.com/articles/3779313</link><guid>c918ce6eef4306e6c9df5b39e3c45f17a1dfd66357c0177ed31cbbd54bc50b31</guid><pubDate>Wed, 12 Aug 2026 22:15:52 GMT</pubDate><description>&lt;p&gt;Cerebras Systems硬件销售意外下滑，暴露其芯片产品销售的不稳定性，但云计算业务的强劲增长在一定程度上缓冲了市场担忧。&lt;/p&gt;
-&lt;p&gt;Cerebras周三公布的2026年第二季度财报显示，公司GAAP营收同比增长74%至1.801亿美元。公司核心口径营收则达到2.1亿美元，同比增长103%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;二季度硬件收入为5410万美元，同比下降23%，而云计算及其他服务收入达到1.260亿美元，同比增长281%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一结果也暴露出Cerebras商业模式正在发生变化：云计算业务已经超过硬件业务，成为公司最大的收入来源。Cerebras首席执行官Andrew Feldman表示，硬件业务将呈现“颠簸式”增长，这本身就是该业务的特性。&lt;/p&gt;
-&lt;p&gt;Cerebras股价盘后一度大跌17%，此前周三收涨11.6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-硬件收入意外下滑，云业务成为最大亮点
-&lt;p&gt;从业务结构来看，Cerebras二季度最值得关注的变化，是硬件与云业务之间的反差。&lt;/p&gt;
-&lt;p&gt;财报显示，二季度硬件收入从去年同期的7030万美元降至5410万美元，下降23%。与此同时，云计算及其他服务收入从3300万美元大幅增至1.260亿美元，增长281%。核心口径下，云及其他服务收入为1.277亿美元，同比增长287%。&lt;/p&gt;
-&lt;p&gt;这意味着Cerebras已经不再是一家单纯依靠销售AI计算系统获取收入的芯片公司。随着OpenAI等客户扩大AI推理计算需求，公司正在通过云端提供算力服务，并从中获得越来越多收入。&lt;/p&gt;
-&lt;p&gt;Cerebras首席执行官Andrew Feldman表示，公司仍将坚持硬件和数据中心服务“双轨并行”的模式，“我们希望在客户增长最快的地方满足他们的需求”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不过，硬件业务的下降仍然成为市场关注的核心问题。Cerebras此前一直将其晶圆级芯片WSE定位为英伟达GPU的挑战者，而硬件销售下降意味着这一业务尚未形成稳定、线性的增长轨迹。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Feldman对此表示，硬件业务本身就会存在较大波动。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-业绩指引超预期
-&lt;p&gt;尽管硬件业务出现下滑，Cerebras给出的未来指引却明显强于市场预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公司预计第三季度核心营收约为2.14亿至2.16亿美元，中值为2.15亿美元，高于市场平均预期的2.12亿美元；核心毛利率预计为38%至40%，也高于市场约36%的预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;全年指引同样被上调。Cerebras预计2026年核心营收为8.80亿至8.90亿美元，此前预测为8.55亿至8.65亿美元。&lt;/p&gt;
-&lt;p&gt;全年核心毛利率预计为41%至43%，此前为38%至41%，分析师此前预计Cerebras全年调整后毛利率仅为35.89%。&lt;/p&gt;
-&lt;p&gt;换言之，&lt;strong&gt;从未来业绩指引来看，Cerebras给出的数字明显好于市场预期；但从当季业务结构来看，硬件收入的意外下降又给投资者敲响了警钟。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司财报显示，二季度核心总营收为2.099亿美元，同比增长103%；核心毛利率达到40.6%，较去年同期提高约9.4个百分点。核心净亏损则从去年同期的4050万美元大幅收窄至690.8万美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么股价仍在盘后大跌？
-&lt;p&gt;市场对财报的反应说明，投资者关注的不只是Cerebras能否超过下一季度的营收预期，也在重新评估这家公司增长的质量和持续性。&lt;/p&gt;
-&lt;p&gt;Cerebras在IPO后股价已经经历大幅上涨，市场此前押注其能够凭借独特的晶圆级芯片架构，在AI推理市场从英伟达手中抢夺份额。因此，当硬件收入同比下降23%时，即使云业务快速增长、全年指引上调，也容易触发获利回吐。&lt;/p&gt;
-&lt;p&gt;这表明，&lt;strong&gt;市场对Cerebras的估值已经包含了相当高的增长预期，单纯“超预期”的指引可能不足以抵消核心硬件业务出现下滑带来的担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尤其值得注意的是，公司二季度GAAP硬件毛利率只有1.8%，尽管核心口径下硬件毛利率达到38.8%。&lt;/p&gt;
-&lt;p&gt;财报显示，Cerebras对核心指标进行了客户认股权证摊销、股票薪酬及数据中心费用等调整，因此GAAP与核心口径之间存在明显差异。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI推理需求成为Cerebras增长核心
-&lt;p&gt;Cerebras目前正在押注AI推理市场。&lt;/p&gt;
-&lt;p&gt;与训练大型模型相比，推理发生在用户向聊天机器人等AI应用发出请求之后。随着AI应用从模型训练逐步走向规模化商业部署，对低延迟、高吞吐推理算力的需求正在快速增长。&lt;/p&gt;
-&lt;p&gt;Cerebras的核心产品WSE采用晶圆级架构，将大量计算资源集成在一块巨大的芯片上。公司认为，这种架构能够减少传统GPU系统中大量芯片之间的数据传输，并提高AI推理速度。&lt;/p&gt;
-&lt;p&gt;公司表示，其系统目前已经能够以每秒750个token的速度支持OpenAI的GPT-5.6 Sol，并与AMD合作开发分离式推理方案，预计2026年第四季度投入生产。与此同时，公司计划在2027年第一季度将相关技术引入AWS的Amazon Bedrock。&lt;/p&gt;
-&lt;p&gt;Cerebras还表示，目前已经签署新的云计算容量协议，客户包括AI编程公司Cognition和Lovable，并已服务Block、Figma、AlphaSense、GSK以及CrowdStrike等客户。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-不使用HBM，成为成本和供应链上的优势
-&lt;p&gt;在AI芯片行业普遍受到HBM高带宽内存供应紧张及价格上涨影响的情况下，Cerebras还试图利用自身架构获得成本优势。&lt;/p&gt;
-&lt;p&gt;公司表示，其晶圆级架构不依赖HBM，也不使用CoWoS先进封装和3纳米制程，而这些都是目前AI芯片产业链中的紧缺环节。&lt;/p&gt;
-&lt;p&gt;Feldman表示，英伟达AI芯片价格大幅上涨与HBM成本上升有关，而Cerebras由于不采用HBM，因此在组件价格上涨的环境下可能获得一定优势。&lt;/p&gt;
-&lt;p&gt;不过，这种优势能否最终转化为持续的硬件销量增长，仍需要进一步验证。此次硬件收入同比下降，恰恰说明Cerebras在从技术优势转化为稳定商业收入方面仍面临挑战。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-手握254亿美元剩余订单，下一阶段关键在交付能力
-&lt;p&gt;Cerebras目前最大的底气来自巨额订单和资本储备。&lt;/p&gt;
-&lt;p&gt;截至6月底，公司剩余履约义务达到254亿美元，意味着未来已经签约、但尚未确认收入的合同规模十分可观。&lt;strong&gt;公司表示，计划在2027年实现营收增长超过三倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，公司在今年IPO中获得约64亿美元融资，截至6月底拥有现金、现金等价物、受限现金及短期投资合计约86亿美元，并拥有8.5亿美元债务融资额度。&lt;/p&gt;
-&lt;p&gt;为了兑现这些订单，公司正在快速扩充产能。&lt;/p&gt;
-&lt;p&gt;Cerebras表示，2026年制造产能将扩大10倍以上，并已经在Flex、Sanmina和Rocket EMS新增生产线；截至今年6月底，公司已签约、正在建设或已经投入使用、计划在2027年底前交付的数据中心容量超过600MW。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻</title><link>https://wallstreetcn.com/articles/3779354</link><guid>11ef45bb0a28c4eea88072b0adf58e84434fbd7b1d408c495157eca16ea660d8</guid><pubDate>Thu, 13 Aug 2026 05:29:43 GMT</pubDate><description>&lt;p&gt;联想集团发布2026/27财年第一财季业绩，三大业务集团同步创季度新高，AI驱动的基础设施业务利润率大幅扩张，带动公司股价盘中一度涨超17%，市值突破4200亿港元。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻</title><link>https://wallstreetcn.com/articles/3779354</link><guid>11ef45bb0a28c4eea88072b0adf58e84434fbd7b1d408c495157eca16ea660d8</guid><pubDate>Thu, 13 Aug 2026 05:29:43 GMT</pubDate><description>&lt;p&gt;联想集团发布2026/27财年第一财季业绩，三大业务集团同步创季度新高，AI驱动的基础设施业务利润率大幅扩张，带动公司股价盘中一度涨超17%，市值突破4200亿港元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;业绩公告显示，&lt;strong&gt;联想第一财季实现营收269.43亿美元，同比增长43%，大幅超出市场预估的224.2亿美元；经调整净利润同比增长176%至10.75亿美元，首次突破10亿美元，经调整净利润率达4%，同比接近翻倍。&lt;/strong&gt;公司同时上调全年展望，预计本财年营收有望突破1000亿美元，提前兑现此前设定的&amp;quot;两年内营收超千亿美元&amp;quot;目标。&lt;/p&gt;
 &lt;p&gt;业绩核心亮点集中于基础设施业务。联想ISG（基础设施方案业务集团）第一财季营收同比增长98%至85亿美元，运营利润率升至9.1%，较上季提升5.5个百分点；&lt;strong&gt;AI服务器在手订单储备达540亿美元，按季增长157%，折合人民币约3600亿元。&lt;/strong&gt;公司表示，&lt;strong&gt;AI相关业务收入同比增长60%，占集团整体营收的35%&lt;/strong&gt;，混合式AI战略已进入价值兑现阶段。&lt;/p&gt;
@@ -731,4 +682,26 @@ SSG业务利润率再创新高，AI服务收入三位数增长
 
 &lt;p&gt;即便白宫有意推动，两项方案在中期选举前实现立法的概率依然偏低。分析人士指出，高昂的财政成本、在参众两院推进税收立法的难度，以及国会在11月选举前所剩无几的会期，共同构成重大障碍。&lt;/p&gt;
 &lt;p&gt;更深层的政治风险在于，这些减税政策的主要受益群体——高收入房主和投资者——与共和党试图争取的普通选民之间存在明显错位。&lt;/p&gt;
-&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 连续5年跑赢全球市场，腾讯游戏凭什么稳增长？</title><link>http://xueqiu.com/6150575800/404768925</link><guid>55dbe4ff19ad73324b8330fc8a42d1d46c8685df0b83c97664c8764354534615</guid><pubDate>Thu, 13 Aug 2026 09:41:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;格雷费舍&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8 月 12 日，腾讯控股发布 2026 年第二季度财报，游戏板块延续稳健增长态势。&lt;/p&gt;</description></item><item><title>[今日雪球] 对Nebius和Coherent财报解读与思考</title><link>http://xueqiu.com/5332385101/404811658</link><guid>9feaf7fd5700e9405e6a7764bf6f4946d5cf8cf35b77c7ca7c9de400fd6a72ca</guid><pubDate>Thu, 13 Aug 2026 09:41:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美CPI数据公布，7月核心CPI环比上涨0.2%，同比上涨2.5%，创21年3月以来最慢涨速。温和通胀数据令市场对9月加息预期大幅收缩（货币市场定价概率已低于50%）。&lt;/p&gt;</description></item><item><title>[今日雪球] 恒生科技变形记：从外卖走向硬科技？（08.13）</title><link>http://xueqiu.com/9391624441/404852662</link><guid>ceed106ae8834aa9952608c88fa6b10e3342a06724ef1057996066ca0d523364</guid><pubDate>Thu, 13 Aug 2026 09:41:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;从历史发展看，港股作为中国资本市场的桥头堡，帮助泛科技企业的融资与壮大，提供了极为重要的平台和工具。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;面对高企的食品和能源价格，选民对经济负担的关切集中在日常消费层面，资本利得税减免对这一群体的实质帮助极为有限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国股市10天涨22%进入技术性牛市，AI芯片行情强势回归？</title><link>https://wallstreetcn.com/articles/3779364</link><guid>ff03e5958753726061f5651aed99da07108ee75fb2e349a86df861c94ca2be5f</guid><pubDate>Thu, 13 Aug 2026 07:43:06 GMT</pubDate><description>&lt;p&gt;韩国基准股指KOSPI周四上涨3.6%，自7月30日低点累计反弹约22%，正式进入技术性牛市。三星电子和SK Hynix是此轮反弹的核心驱动力，两只重量级芯片股单日涨幅均接近或超过5%。&lt;/p&gt;
+&lt;p&gt;这一反弹发生在极端动荡之后。KOSPI在7月单月暴跌22%，创下全球金融危机以来最差单月表现。彼时，杠杆芯片仓位被强制平仓，引发连锁交易熔断，散户财富大幅缩水。&lt;/p&gt;
+&lt;p&gt;此轮反弹的背后，是多重利好因素叠加：全球科技巨头最新财报显示AI资本开支持续高企，美国通胀数据温和缓解了市场对美联储加息的担忧，监管层收紧单股杠杆ETF规则，以及市场预期三星和SK海力士即将公布股东回报计划。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+从暴跌到牛市：一个月内的戏剧性逆转
+&lt;p&gt;就在一个月前，韩国股市还深陷泥潭。KOSPI在7月单月下跌22%，创下自全球金融危机以来最差单月表现。&lt;/p&gt;
+&lt;p&gt;暴跌的导火索是杠杆头寸的强制平仓。散户投资者大量持有与芯片股挂钩的单股杠杆ETF，当行情逆转时，连锁平仓引发日内波动超过5%的情况频繁出现，交易所多次触发熔断机制，数十亿美元的散户财富在短时间内蒸发。&lt;/p&gt;
+&lt;p&gt;监管层随即出手。当局收紧了单股杠杆ETF的最低保证金要求，相关产品的日成交额大幅萎缩。与此同时，投资者主动降低融资杠杆，市场波动率已回落至4月以来最低水平。&lt;/p&gt;
+&lt;p&gt;Life Asset Management首席执行官Kang DaeKwun表示：&amp;quot;我认为市场在杠杆头寸平仓过程中超跌了，随着资金流动趋于稳定，目前的反弹是自然修复。&amp;quot;&lt;/p&gt;
+AI支出不减，芯片需求逻辑依然成立
+&lt;p&gt;这轮反弹的根本支撑，来自AI需求端的持续强劲。&lt;/p&gt;
+&lt;p&gt;全球科技巨头最新财报显示，AI基础设施投入并未放缓，这直接提振了对高带宽内存（HBM）等AI芯片的需求预期。韩国股市今年以来累计涨幅已超60%，主要由散户主导，但即便如此，KOSPI距6月底高点仍有约25%的差距。&lt;/p&gt;
+&lt;p&gt;Baillie Gifford新兴市场股票投资专家Qian Zhang指出：&amp;quot;由于AI智能体和实体AI的兴起，内存需求已经爆发式增长，但我们进入这一阶段时供给能力相当有限——瓶颈就在这里。&amp;quot;&amp;quot;我们并不是说全球会永远以这种速度建设数据中心，但这是一个真实存在的物理瓶颈，全球只有少数几家公司能够解决。&amp;quot;&lt;/p&gt;
+&lt;p&gt;中国竞争威胁的上升曾给内存股的强劲涨势泼了一盆冷水，但分析人士认为近期需求前景依然稳固。AI向更多应用场景渗透、日常使用频率提升，正在持续推动芯片需求增长。&lt;/p&gt;
+股东回报预期升温，三星SK海力士或推百万亿韩元级计划
+&lt;p&gt;除AI叙事外，两大芯片巨头即将公布的股东回报计划，也成为近期市场情绪的重要催化剂。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三星电子&lt;/strong&gt;方面，公司在二季度业绩电话会议上表示，&amp;quot;董事会和管理层正在积极讨论包括特别股息在内的具体执行方案及下一期股东回报政策&amp;quot;。其现行2024至2026年三年期政策今年到期。&lt;/p&gt;
+&lt;p&gt;据DS投资证券测算，三星电子今年自由现金流（FCF）预计达263.2万亿韩元，扣除定期股息后，三年累计FCF的50%对应的额外回报空间约为131.8万亿韩元。KB证券则预测，三星年度股东回报规模最低100万亿、最高可达200万亿韩元，较现行每年9.8万亿韩元的规模扩大逾10倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SK海力士&lt;/strong&gt;方面，公司已公告称&amp;quot;正积极研究追加股东回报方案，具体内容将于三季度内确定并公布&amp;quot;。未来资产证券预计SK海力士今年FCF达180万亿韩元，年末净现金173万亿韩元，估算可用于回报的资金约40万亿韩元。大信证券则认为，若将自购股票注销与特别股息合并计算，最高可实现100万亿韩元的回报空间。&lt;/p&gt;
+&lt;p&gt;未来资产证券研究员Kim Young-gun指出，三星电子&amp;quot;股价较高点下跌39%，当前时点是推进股东回报的正当性、收益率和实际效用感均显著提升的阶段&amp;quot;。他同时表示，SK海力士&amp;quot;股价较高点下跌51%，是回购等回报措施的最佳时机，且回报规模越大，市场越会将其解读为公司对未来现金创造能力的信心&amp;quot;。&lt;/p&gt;
+外资态度微妙，市场能否持续仍存变数
+&lt;p&gt;外资动向值得关注。周四外国投资者净买入韩国股票，但年初至今仍为净卖出，累计撤资超过1000亿美元——此前市场过热、估值偏高是主要原因。随着此轮下跌将估值压至更具吸引力的水平，部分海外资金开始回流。&lt;/p&gt;
+&lt;p&gt;不过，市场能否延续涨势，仍面临不确定性。Kang DaeKwun表示：“在AI叙事和美国利率出现一定程度的稳定之前，市场要维持持续上涨将是困难的。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 连续5年跑赢全球市场，腾讯游戏凭什么稳增长？</title><link>http://xueqiu.com/6150575800/404768925</link><guid>55dbe4ff19ad73324b8330fc8a42d1d46c8685df0b83c97664c8764354534615</guid><pubDate>Thu, 13 Aug 2026 09:41:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;格雷费舍&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8 月 12 日，腾讯控股发布 2026 年第二季度财报，游戏板块延续稳健增长态势。&lt;/p&gt;</description></item><item><title>[今日雪球] 对Nebius和Coherent财报解读与思考</title><link>http://xueqiu.com/5332385101/404811658</link><guid>9feaf7fd5700e9405e6a7764bf6f4946d5cf8cf35b77c7ca7c9de400fd6a72ca</guid><pubDate>Thu, 13 Aug 2026 09:41:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美CPI数据公布，7月核心CPI环比上涨0.2%，同比上涨2.5%，创21年3月以来最慢涨速。温和通胀数据令市场对9月加息预期大幅收缩（货币市场定价概率已低于50%）。&lt;/p&gt;</description></item><item><title>[今日雪球] 恒生科技变形记：从外卖走向硬科技？（08.13）</title><link>http://xueqiu.com/9391624441/404852662</link><guid>ceed106ae8834aa9952608c88fa6b10e3342a06724ef1057996066ca0d523364</guid><pubDate>Thu, 13 Aug 2026 09:41:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;从历史发展看，港股作为中国资本市场的桥头堡，帮助泛科技企业的融资与壮大，提供了极为重要的平台和工具。&lt;/p&gt;</description></item></channel></rss>
