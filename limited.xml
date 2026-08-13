@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 00:29:32 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 00:59:36 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt; Cerebras第二季度呈现明显分化：云业务高速增长、硬件收入承压，但管理层仍上调全年指引，并把2027年“增长3倍以上”的目标押在快速推理、产能扩张和超大规模客户拓展上。&lt;/p&gt;
 &lt;p&gt;美国当地时间8月12日，AI芯片公司Cerebras公布&lt;a href="https://wallstreetcn.com/articles/3779313"&gt;2026年第二季度财报&lt;/a&gt;并举行电话会。公司GAAP营收为1.801亿美元，同比增长74%；硬件收入5410万美元，同比下降23%，成为市场关注的主要压力点。财报公布后，公司股价盘后一度跌约17%。&lt;/p&gt;
 &lt;p&gt;不过，按公司“核心”口径，第二季度收入达到2.099亿美元，同比增长103%，超过此前指引。其中核心云及其他服务收入1.277亿美元，同比增长287%；核心硬件收入8210万美元，同比增长17%。&lt;/p&gt;
@@ -248,34 +248,7 @@ RPO和现金流改善，股东回报保持稳定
 &lt;p&gt;除了收入、利润和订单，思科的剩余履约义务和现金流也有改善。&lt;/p&gt;
 &lt;p&gt;第四财季公司剩余履约义务（RPO）为467亿美元，同比增长7%。RPO通常被视为未来收入可见度的重要指标，增长意味着已签约但尚未确认的收入规模扩大。&lt;/p&gt;
 &lt;p&gt;经营现金流为54亿美元，同比增长27%，显示利润增长具备较好现金含量。第四财季公司还向股东返还32亿美元，包括每股0.42美元股息等资本回报安排。&lt;/p&gt;
-&lt;p&gt;对一家成熟科技硬件公司而言，强现金流和持续分红仍是投资者评估估值的重要支撑。思科的增长叙事正在被AI重新打开，但其股东回报属性并未消失。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期国债发行收益率创2007年金融危机以来最高</title><link>https://wallstreetcn.com/articles/3779316</link><guid>cfcca2a172aa85cd29df9b300a1a0a75187d7f99a099317dec17376263a0926f</guid><pubDate>Wed, 12 Aug 2026 21:40:53 GMT</pubDate><description>&lt;p&gt;美国国债市场正面临多重压力的叠加考验。&lt;/p&gt;
-&lt;p&gt;周三，&lt;strong&gt;美国财政部完成420亿美元10年期国债拍卖，中标收益率达4.683%，创下自2007年（全球金融危机）以来的最高水平。&lt;/strong&gt;投资者要求更高回报以承接政府融资需求的趋势愈发明显。&lt;/p&gt;
-&lt;p&gt;与此同时，当日公布的消费者价格指数（CPI）数据基本符合预期，令市场对美联储9月加息的押注有所降温，互换市场显示加息概率从此前约50%降至40%左右。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;上述拍卖结果为周四即将进行的30年期国债销售奠定基调——该拍卖预计将创下四分之一个世纪以来最高融资利率。&lt;/strong&gt;通胀持续高于美联储目标以及财政赤字不断扩大，是压制长端债券价格、推升长期收益率的主要因素。&lt;/p&gt;
-&lt;p&gt;拍卖结果显示，此次10年期债券得标利率仅略高于纽约时间下午1时竞标截止前的市场二级水平，表明需求仅小幅不及预期，当日多数国债价格收盘基本持平。&lt;/p&gt;
-
-赤字与通胀压制收益率回落空间
-
-&lt;p&gt;AmeriVet Securities美国利率交易与策略主管Gregory Faranello表示：&lt;strong&gt;&amp;quot;在财政赤字规模偏大、经济增长稳健、地缘冲突持续以及通胀高于美联储目标的背景下，收益率仍难以下行。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;通胀与财政双重压力构成当前长端利率的核心支撑。&lt;/p&gt;
-&lt;p&gt;美国劳工统计局数据显示，7月份剔除食品和能源的核心CPI环比上涨0.2%，同比涨幅为2.5%，与2021年3月以来最慢增速持平。尽管如此，通胀仍运行于美联储目标之上，叠加政府融资需求持续扩张，长端收益率的下行空间受到明显压缩。&lt;/p&gt;
-&lt;p&gt;Hirtle &amp;amp; Co.首席投资官Brad Conger表示，该公司已在收益率突破5%时增持20年期国债敞口，&amp;quot;基于我们对多重因素将抑制广泛性通胀的判断——最值得关注的是实际工资持平这一现实&amp;quot;。&lt;/p&gt;
-
-9月加息预期降温，年内仍存变数
-
-&lt;p&gt;周三CPI数据公布后，市场对美联储9月会议加息的押注明显收缩。对联邦基金利率最为敏感的2年期国债收益率当日下行不足2个基点，报4.2%。然而，投资者仍将年内至少一次加息完全计入定价，折射出市场对美国经济价格压力的持续担忧。&lt;/p&gt;
-&lt;p&gt;Aviva Investors高级固定收益组合经理Steve Ryder指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;此次数据应能维持9月加息预期的讨论，但也未给美联储立即行动提供足够的紧迫性。政策制定者在作出年内是否需要进一步收紧的决定前，可能会更多倚重下一次CPI数据和劳动力市场报告。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;上周末，7月份劳动力市场数据弱于预期，引发债券市场一轮反弹，市场同步下调了对今年加息的预期。由于美联储下次利率投票须等到9月，市场焦点现已转向8月份的月度通胀与就业数据。&lt;/p&gt;
-
-杰克逊霍尔会议或提供政策信号
-
-&lt;p&gt;Natixis北美首席美国经济学家Christopher Hodge表示，尽管近期每次美联储会议都需将政策意外的可能性纳入定价，&amp;quot;但我们仍倾向于认为美联储能够勉强避免再次加息&amp;quot;。&lt;/p&gt;
-&lt;p&gt;他援引通胀向目标水平的渐进回落、消费端降温以及就业前景趋于脆弱作为支撑论据。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;本月底在怀俄明州杰克逊霍尔举行的美联储年度央行研讨会将受到市场密切关注。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Gregory Faranello指出，尽管美联储主席沃什自今年初执掌以来刻意回避向市场提供政策路径指引，此次会议仍将是他&amp;quot;微调通胀信息传递&amp;quot;的重要窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨</title><link>https://wallstreetcn.com/articles/3779257</link><guid>c1fb28a98d881682956a164bf9c42b4021230777b0daba0a1f4daae57909a0e3</guid><pubDate>Wed, 12 Aug 2026 23:06:33 GMT</pubDate><description>&lt;p&gt;温和的通胀数据为市场提供了喘息空间，美股指涨跌不一，标普500指数逼近历史高位，纳斯达克100指数触及近一个月高点。与此同时，美联储加息预期明显降温，短端美债收益率下行。&lt;/p&gt;
+&lt;p&gt;对一家成熟科技硬件公司而言，强现金流和持续分红仍是投资者评估估值的重要支撑。思科的增长叙事正在被AI重新打开，但其股东回报属性并未消失。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨</title><link>https://wallstreetcn.com/articles/3779257</link><guid>c1fb28a98d881682956a164bf9c42b4021230777b0daba0a1f4daae57909a0e3</guid><pubDate>Wed, 12 Aug 2026 23:06:33 GMT</pubDate><description>&lt;p&gt;温和的通胀数据为市场提供了喘息空间，美股指涨跌不一，标普500指数逼近历史高位，纳斯达克100指数触及近一个月高点。与此同时，美联储加息预期明显降温，短端美债收益率下行。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;7月核心CPI环比上涨0.2%，同比上涨2.5%，与预期吻合，创下2021年3月以来最慢涨速。&lt;/p&gt;
 &lt;p&gt;这一数据与上周疲软的非农就业报告形成组合，令市场对美联储9月加息的押注大幅收缩——货币市场目前定价9月加息概率已低于50%。高盛预计，通胀数据将令美联储9月维持不动，并可能在年内持续按兵不动。&lt;/p&gt;
@@ -466,7 +439,34 @@ AI推理需求成为Cerebras增长核心
 &lt;p&gt;与此同时，公司在今年IPO中获得约64亿美元融资，截至6月底拥有现金、现金等价物、受限现金及短期投资合计约86亿美元，并拥有8.5亿美元债务融资额度。&lt;/p&gt;
 &lt;p&gt;为了兑现这些订单，公司正在快速扩充产能。&lt;/p&gt;
 &lt;p&gt;Cerebras表示，2026年制造产能将扩大10倍以上，并已经在Flex、Sanmina和Rocket EMS新增生产线；截至今年6月底，公司已签约、正在建设或已经投入使用、计划在2027年底前交付的数据中心容量超过600MW。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6</title><link>https://wallstreetcn.com/articles/3779306</link><guid>25226ffec731bd5098e750da1ee89132d9b3af039cdba4ab18316dc32d08848b</guid><pubDate>Wed, 12 Aug 2026 15:54:05 GMT</pubDate><description>&lt;p&gt;DeepSeek V4 Pro正式版似乎在毫无预告的情况下突然上线。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期国债发行收益率创2007年金融危机以来最高</title><link>https://wallstreetcn.com/articles/3779316</link><guid>cfcca2a172aa85cd29df9b300a1a0a75187d7f99a099317dec17376263a0926f</guid><pubDate>Wed, 12 Aug 2026 21:40:53 GMT</pubDate><description>&lt;p&gt;美国国债市场正面临多重压力的叠加考验。&lt;/p&gt;
+&lt;p&gt;周三，&lt;strong&gt;美国财政部完成420亿美元10年期国债拍卖，中标收益率达4.683%，创下自2007年（全球金融危机）以来的最高水平。&lt;/strong&gt;投资者要求更高回报以承接政府融资需求的趋势愈发明显。&lt;/p&gt;
+&lt;p&gt;与此同时，当日公布的消费者价格指数（CPI）数据基本符合预期，令市场对美联储9月加息的押注有所降温，互换市场显示加息概率从此前约50%降至40%左右。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上述拍卖结果为周四即将进行的30年期国债销售奠定基调——该拍卖预计将创下四分之一个世纪以来最高融资利率。&lt;/strong&gt;通胀持续高于美联储目标以及财政赤字不断扩大，是压制长端债券价格、推升长期收益率的主要因素。&lt;/p&gt;
+&lt;p&gt;拍卖结果显示，此次10年期债券得标利率仅略高于纽约时间下午1时竞标截止前的市场二级水平，表明需求仅小幅不及预期，当日多数国债价格收盘基本持平。&lt;/p&gt;
+
+赤字与通胀压制收益率回落空间
+
+&lt;p&gt;AmeriVet Securities美国利率交易与策略主管Gregory Faranello表示：&lt;strong&gt;&amp;quot;在财政赤字规模偏大、经济增长稳健、地缘冲突持续以及通胀高于美联储目标的背景下，收益率仍难以下行。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通胀与财政双重压力构成当前长端利率的核心支撑。&lt;/p&gt;
+&lt;p&gt;美国劳工统计局数据显示，7月份剔除食品和能源的核心CPI环比上涨0.2%，同比涨幅为2.5%，与2021年3月以来最慢增速持平。尽管如此，通胀仍运行于美联储目标之上，叠加政府融资需求持续扩张，长端收益率的下行空间受到明显压缩。&lt;/p&gt;
+&lt;p&gt;Hirtle &amp;amp; Co.首席投资官Brad Conger表示，该公司已在收益率突破5%时增持20年期国债敞口，&amp;quot;基于我们对多重因素将抑制广泛性通胀的判断——最值得关注的是实际工资持平这一现实&amp;quot;。&lt;/p&gt;
+
+9月加息预期降温，年内仍存变数
+
+&lt;p&gt;周三CPI数据公布后，市场对美联储9月会议加息的押注明显收缩。对联邦基金利率最为敏感的2年期国债收益率当日下行不足2个基点，报4.2%。然而，投资者仍将年内至少一次加息完全计入定价，折射出市场对美国经济价格压力的持续担忧。&lt;/p&gt;
+&lt;p&gt;Aviva Investors高级固定收益组合经理Steve Ryder指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;此次数据应能维持9月加息预期的讨论，但也未给美联储立即行动提供足够的紧迫性。政策制定者在作出年内是否需要进一步收紧的决定前，可能会更多倚重下一次CPI数据和劳动力市场报告。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上周末，7月份劳动力市场数据弱于预期，引发债券市场一轮反弹，市场同步下调了对今年加息的预期。由于美联储下次利率投票须等到9月，市场焦点现已转向8月份的月度通胀与就业数据。&lt;/p&gt;
+
+杰克逊霍尔会议或提供政策信号
+
+&lt;p&gt;Natixis北美首席美国经济学家Christopher Hodge表示，尽管近期每次美联储会议都需将政策意外的可能性纳入定价，&amp;quot;但我们仍倾向于认为美联储能够勉强避免再次加息&amp;quot;。&lt;/p&gt;
+&lt;p&gt;他援引通胀向目标水平的渐进回落、消费端降温以及就业前景趋于脆弱作为支撑论据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本月底在怀俄明州杰克逊霍尔举行的美联储年度央行研讨会将受到市场密切关注。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gregory Faranello指出，尽管美联储主席沃什自今年初执掌以来刻意回避向市场提供政策路径指引，此次会议仍将是他&amp;quot;微调通胀信息传递&amp;quot;的重要窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6</title><link>https://wallstreetcn.com/articles/3779306</link><guid>25226ffec731bd5098e750da1ee89132d9b3af039cdba4ab18316dc32d08848b</guid><pubDate>Wed, 12 Aug 2026 15:54:05 GMT</pubDate><description>&lt;p&gt;DeepSeek V4 Pro正式版似乎在毫无预告的情况下突然上线。&lt;/p&gt;
 &lt;p&gt;北京时间8月12日周三深夜，&lt;strong&gt;DeepSeek官网API文档悄然更新，模型版本已经从此前的V4-Pro预览版切换至DeepSeek-V4-Pro-0813&lt;/strong&gt;。官方“模型 &amp;amp; 价格”页面目前已经将deepseek-v4-pro对应的模型版本明确标为DeepSeek-V4-Pro-0813，同时API价格暂未出现明显上调。&lt;/p&gt;
 &lt;p&gt;这意味着，&lt;strong&gt;DeepSeek V4 Pro正式版很可能已经开始通过API灰度或正式提供服务&lt;/strong&gt;。多家科技媒体援引DeepSeek官方群流出的评测对比表称，新模型在多项智能体（Agent）测试中的表现已经逼近Anthropic前沿模型Claude Fable 5，部分项目甚至超过Fable 5；相比此前的V4 Pro预览版，整体表现明显提升。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
