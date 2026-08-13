@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 04:59:34 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 05:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras电话会：“快速推理需求是无限的”，明年一季度上线AWS Bedrock</title><link>https://wallstreetcn.com/articles/3779320</link><guid>9e7dd7ea4fe617362baa4fe03a50eef423d137332f2c7021ac5a4311efd930c0</guid><pubDate>Wed, 12 Aug 2026 23:00:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt; Cerebras第二季度呈现明显分化：云业务高速增长、硬件收入承压，但管理层仍上调全年指引，并把2027年“增长3倍以上”的目标押在快速推理、产能扩张和超大规模客户拓展上。&lt;/p&gt;
 &lt;p&gt;美国当地时间8月12日，AI芯片公司Cerebras公布&lt;a href="https://wallstreetcn.com/articles/3779313"&gt;2026年第二季度财报&lt;/a&gt;并举行电话会。公司GAAP营收为1.801亿美元，同比增长74%；硬件收入5410万美元，同比下降23%，成为市场关注的主要压力点。财报公布后，公司股价盘后一度跌约17%。&lt;/p&gt;
 &lt;p&gt;不过，按公司“核心”口径，第二季度收入达到2.099亿美元，同比增长103%，超过此前指引。其中核心云及其他服务收入1.277亿美元，同比增长287%；核心硬件收入8210万美元，同比增长17%。&lt;/p&gt;
@@ -128,6 +128,50 @@ AWS明年一季度上线，OpenAI营收占比将逐渐下降
 &lt;p&gt;A - Andrew Feldman&lt;br&gt;是的，当然。我认为我们每天都在全球范围内寻找数据中心容量。我们这样做是因为我们对快速推理有巨大的需求。我们部署得越快，收入增长就越快。这不仅适用于我们的云业务，也适用于我们客户的本地部署业务，对吧，他们获得数据中心的越快，我们就能越快地向他们发货硬件。所以这是头等大事。这是我花费大量时间的事情。我们现在有一个完整的团队。我们在全球范围内追逐数据中心方面已经相当擅长。一旦你签约了，你的工作并没有结束。正如您所熟知的。我们每天都有人在现场。我们在每个阶段都与开发商和建筑公司接触，尽力让他们按计划进行。因此，我们做得越快，我想我们就能越快提升收入。&lt;/p&gt;
 &lt;p&gt;Q - Vijay Rakesh&lt;br&gt;明白了。然后，关于合作伙伴关系，我知道您提到了超大规模企业，但还有一群新兴的Neocloud（新型云服务商）正在涌现，他们正在获得融资。华尔街正在开发许多融资结构。您认为这个渠道对您来说发展如何？谢谢。&lt;/p&gt;
 &lt;p&gt;A - Andrew Feldman&lt;br&gt;当然，对吧。我认为早期，Neocloud非常专注于NVIDIA。我认为随着业务对投资者变得更加清晰，一些Neocloud正在多元化，并发现自己对单一硬件供应商的依赖程度降低。所以我们在这一类别中的机会很大。有采用多供应商的Neocloud，有只采用AMD的Neocloud，还有由拥有电力资产的人创办的Neocloud，我认为在2027年，这将是我们业务的重要组成部分。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报点燃“AI云”，CoreWeave、Nebius双双大涨</title><link>https://wallstreetcn.com/articles/3779322</link><guid>2d2d6e2b20ffc4d52823beb716d191dfc6ba60058472c5be6d9cf3067c8985e0</guid><pubDate>Thu, 13 Aug 2026 00:07:26 GMT</pubDate><description>&lt;p&gt;两家AI云计算公司季报远超预期，推动新云计算板块集体反弹，重燃市场对AI基础设施需求的信心。&lt;/p&gt;
+&lt;p&gt;8月12日周三，CoreWeave收涨19%至107.73美元，Nebius单日暴涨34%至247.05美元，均创近期新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;两家公司的第二季度业绩均大幅超越华尔街预期。CoreWeave销售积压订单攀升至1040亿美元，Nebius营收同比增长454%。&lt;/p&gt;
+&lt;p&gt;此番上涨迅速蔓延至整个AI基础设施板块：芯片制造商美光科技涨4.9%，云计算同业IREN劲升9.9%，标普500信息技术板块领涨，推动大盘小幅走高0.3%。&lt;/p&gt;
+&lt;p&gt;（AI板块涨势以算力基础设施、存储及半导体为主导）&lt;/p&gt;
+&lt;p&gt;市场由此开始重新审视此前弥漫的过度建设担忧，至少在短期内，AI算力需求已被证明是有合同支撑、有预付款背书的真实需求，而非停留于假设。&lt;/p&gt;
+
+空头回补点火，涨势一触即发
+
+&lt;p&gt;此轮行情的爆发有结构性因素加持。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据Hazeltree旗下逾700家基金客户的仓位数据，CoreWeave、Nebius以及超微电脑在整个7月持续高居做空榜前十。高度集中的空头头寸，在亮眼的财报发布后成为推涨的燃料。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nebius约24%的空头持仓比例，令其股价在单一交易日内从193美元跳涨至247美元。CoreWeave在周二盘后率先大幅拉升，随即引发整个新云计算板块的连锁买入。&lt;/p&gt;
+&lt;p&gt;这与7月份的市场背景形成鲜明对比。彼时美国芯片股单月下跌约20%，韩国综合股价指数跌22%，两者均创2008年以来最差单月表现，市场普遍担忧AI云计算公司存在过度建设和估值虚高问题。&lt;/p&gt;
+
+订单积压印证需求强劲
+
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://wallstreetcn.com/articles/3779221"&gt;华尔街见闻提及&lt;/a&gt;，CoreWeave的财务数据在规模上尤为亮眼。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司第二季度营收达25.8亿美元，略超市场预期的25.6亿美元，创下连续第五个季度营收新高；每股亏损1.14美元，好于预期的1.41美元。&lt;/p&gt;
+&lt;p&gt;订单层面的数据更具说服力：当季销售积压订单升至1040亿美元，较去年11月近乎翻番；更值得关注的是，尚未计入第二季度财报的当前季度新增客户承诺已达250亿美元。&lt;/p&gt;
+&lt;p&gt;公司同步上调全年营收指引至124亿至132亿美元，此前区间为120亿至130亿美元。管理层还透露，托管推理业务的年化经常性收入已从上线时的约100万美元，在数月内迅速突破1亿美元，并以2.5亿美元作为年底目标。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779305"&gt;Nebius同样表现出色&lt;/a&gt;。公司第二季度营收5.823亿美元，同比增长454%；调整后EBITDA达2.36亿美元，利润率41%。&lt;/p&gt;
+&lt;p&gt;当季完成四笔平均规模逾10亿美元的大单，客户预付款覆盖资本支出的50%至60%；一次算力竞价拍卖的成交价较此前最高Blackwell报价高出15%。&lt;/p&gt;
+&lt;p&gt;Raymond James分析师团队在报告发布后重申125美元目标价，并表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;投资者低估了CoreWeave发展为领先超大规模云服务商的潜力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+多空分歧：资本回报之争
+
+&lt;p&gt;&lt;strong&gt;多头的逻辑在于需求持续跑赢供给，定价能力不断强化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据报道，英伟达正主导一项规模约5000亿美元的基础设施融资计划，重点面向AI云专业服务商。Piper Sandler将CoreWeave目标价上调至153美元，列为首选股票；Citizens维持180美元目标价。&lt;/p&gt;
+&lt;p&gt;Wealth Enhancement高级投资策略师Ayako Yoshioka表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;至少在近期，需求正全面压倒供给。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;CoreWeave联合创始人兼首席发展官Brannin McBee亦指出，公司近期以接近全价签署了一批2020年发布的英伟达A100芯片合同，期限延伸至2029年，显示旧代AI芯片的保值能力依然强劲。McBee说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在推理和工程需求的双重驱动下，老一代GPU的使用周期正在延长，我们在整个机队中都观察到这一现象。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;空头方面则持保留意见。&lt;/strong&gt;DA Davidson维持中性评级，目标价100美元，认为CoreWeave约9%的资本成本高于约4%的隐含回报率，意味着&amp;quot;每建设一座数据中心都在持续损毁价值&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Bernstein维持跑输大盘的评级，指出资本支出增速快于营收增速。CFRA Research高级副总裁Angelo Zino亦警告：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们正在建设如此大规模的算力，供需之间潜在的错配问题依然存在。&lt;strong&gt;一旦泡沫破裂早于市场预期，受冲击最重的恰恰是新云计算公司。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 盈利超预期、回购破纪录、散户回归——Citadel十大理由看多8月美股</title><link>https://wallstreetcn.com/articles/3779352</link><guid>d3c72a2e7949b91126b601d0b22f9e64f9b75df87e985b07e7f45e948de0bdcb</guid><pubDate>Thu, 13 Aug 2026 04:08:45 GMT</pubDate><description>&lt;p&gt;8月13日，Citadel Securities首席股票与衍生品策略师Scott Rubner发布最新市场研判报告。&lt;/p&gt;
 &lt;p&gt;在宏观风险犹存、市场分歧极大的背景下，Scott Rubner给出了一份10条理由的多头清单。他认为，在一轮成熟的去杠杆化完成后，多个需求来源正在同时增强，而卖压正在消退。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -232,50 +276,6 @@ AWS明年一季度上线，OpenAI营收占比将逐渐下降
 &lt;p&gt;他同时提示了9月的风险：季节性转差，仓位可能更满，如果8月演变成追涨，今天的买入能力届时将已被消耗。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;8月可能是买家回归的月份。9月可能要问的是，还剩多少买入弹药。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报点燃“AI云”，CoreWeave、Nebius双双大涨</title><link>https://wallstreetcn.com/articles/3779322</link><guid>2d2d6e2b20ffc4d52823beb716d191dfc6ba60058472c5be6d9cf3067c8985e0</guid><pubDate>Thu, 13 Aug 2026 00:07:26 GMT</pubDate><description>&lt;p&gt;两家AI云计算公司季报远超预期，推动新云计算板块集体反弹，重燃市场对AI基础设施需求的信心。&lt;/p&gt;
-&lt;p&gt;8月12日周三，CoreWeave收涨19%至107.73美元，Nebius单日暴涨34%至247.05美元，均创近期新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;两家公司的第二季度业绩均大幅超越华尔街预期。CoreWeave销售积压订单攀升至1040亿美元，Nebius营收同比增长454%。&lt;/p&gt;
-&lt;p&gt;此番上涨迅速蔓延至整个AI基础设施板块：芯片制造商美光科技涨4.9%，云计算同业IREN劲升9.9%，标普500信息技术板块领涨，推动大盘小幅走高0.3%。&lt;/p&gt;
-&lt;p&gt;（AI板块涨势以算力基础设施、存储及半导体为主导）&lt;/p&gt;
-&lt;p&gt;市场由此开始重新审视此前弥漫的过度建设担忧，至少在短期内，AI算力需求已被证明是有合同支撑、有预付款背书的真实需求，而非停留于假设。&lt;/p&gt;
-
-空头回补点火，涨势一触即发
-
-&lt;p&gt;此轮行情的爆发有结构性因素加持。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据Hazeltree旗下逾700家基金客户的仓位数据，CoreWeave、Nebius以及超微电脑在整个7月持续高居做空榜前十。高度集中的空头头寸，在亮眼的财报发布后成为推涨的燃料。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nebius约24%的空头持仓比例，令其股价在单一交易日内从193美元跳涨至247美元。CoreWeave在周二盘后率先大幅拉升，随即引发整个新云计算板块的连锁买入。&lt;/p&gt;
-&lt;p&gt;这与7月份的市场背景形成鲜明对比。彼时美国芯片股单月下跌约20%，韩国综合股价指数跌22%，两者均创2008年以来最差单月表现，市场普遍担忧AI云计算公司存在过度建设和估值虚高问题。&lt;/p&gt;
-
-订单积压印证需求强劲
-
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://wallstreetcn.com/articles/3779221"&gt;华尔街见闻提及&lt;/a&gt;，CoreWeave的财务数据在规模上尤为亮眼。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司第二季度营收达25.8亿美元，略超市场预期的25.6亿美元，创下连续第五个季度营收新高；每股亏损1.14美元，好于预期的1.41美元。&lt;/p&gt;
-&lt;p&gt;订单层面的数据更具说服力：当季销售积压订单升至1040亿美元，较去年11月近乎翻番；更值得关注的是，尚未计入第二季度财报的当前季度新增客户承诺已达250亿美元。&lt;/p&gt;
-&lt;p&gt;公司同步上调全年营收指引至124亿至132亿美元，此前区间为120亿至130亿美元。管理层还透露，托管推理业务的年化经常性收入已从上线时的约100万美元，在数月内迅速突破1亿美元，并以2.5亿美元作为年底目标。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779305"&gt;Nebius同样表现出色&lt;/a&gt;。公司第二季度营收5.823亿美元，同比增长454%；调整后EBITDA达2.36亿美元，利润率41%。&lt;/p&gt;
-&lt;p&gt;当季完成四笔平均规模逾10亿美元的大单，客户预付款覆盖资本支出的50%至60%；一次算力竞价拍卖的成交价较此前最高Blackwell报价高出15%。&lt;/p&gt;
-&lt;p&gt;Raymond James分析师团队在报告发布后重申125美元目标价，并表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;投资者低估了CoreWeave发展为领先超大规模云服务商的潜力。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-多空分歧：资本回报之争
-
-&lt;p&gt;&lt;strong&gt;多头的逻辑在于需求持续跑赢供给，定价能力不断强化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据报道，英伟达正主导一项规模约5000亿美元的基础设施融资计划，重点面向AI云专业服务商。Piper Sandler将CoreWeave目标价上调至153美元，列为首选股票；Citizens维持180美元目标价。&lt;/p&gt;
-&lt;p&gt;Wealth Enhancement高级投资策略师Ayako Yoshioka表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;至少在近期，需求正全面压倒供给。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;CoreWeave联合创始人兼首席发展官Brannin McBee亦指出，公司近期以接近全价签署了一批2020年发布的英伟达A100芯片合同，期限延伸至2029年，显示旧代AI芯片的保值能力依然强劲。McBee说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在推理和工程需求的双重驱动下，老一代GPU的使用周期正在延长，我们在整个机队中都观察到这一现象。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;空头方面则持保留意见。&lt;/strong&gt;DA Davidson维持中性评级，目标价100美元，认为CoreWeave约9%的资本成本高于约4%的隐含回报率，意味着&amp;quot;每建设一座数据中心都在持续损毁价值&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Bernstein维持跑输大盘的评级，指出资本支出增速快于营收增速。CFRA Research高级副总裁Angelo Zino亦警告：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们正在建设如此大规模的算力，供需之间潜在的错配问题依然存在。&lt;strong&gt;一旦泡沫破裂早于市场预期，受冲击最重的恰恰是新云计算公司。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期国债发行收益率创2007年金融危机以来最高</title><link>https://wallstreetcn.com/articles/3779316</link><guid>cfcca2a172aa85cd29df9b300a1a0a75187d7f99a099317dec17376263a0926f</guid><pubDate>Wed, 12 Aug 2026 21:40:53 GMT</pubDate><description>&lt;p&gt;美国国债市场正面临多重压力的叠加考验。&lt;/p&gt;
 &lt;p&gt;周三，&lt;strong&gt;美国财政部完成420亿美元10年期国债拍卖，中标收益率达4.683%，创下自2007年（全球金融危机）以来的最高水平。&lt;/strong&gt;投资者要求更高回报以承接政府融资需求的趋势愈发明显。&lt;/p&gt;
 &lt;p&gt;与此同时，当日公布的消费者价格指数（CPI）数据基本符合预期，令市场对美联储9月加息的押注有所降温，互换市场显示加息概率从此前约50%降至40%左右。&lt;/p&gt;
