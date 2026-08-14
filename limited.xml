@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 14 Aug 2026 04:59:32 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东</title><link>https://wallstreetcn.com/articles/3779419</link><guid>d1759e5aa23061cb66e261ebb85680b3905169b3cedac6372f2e0ed75cdc70c8</guid><pubDate>Fri, 14 Aug 2026 00:39:38 GMT</pubDate><description>&lt;p&gt;闪迪刚刚交出了一份令华尔街瞩目的“投资者日”答卷，发布了一系列远超市场预期的长期财务目标与资本回报计划，股价当日大涨近14%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 14 Aug 2026 05:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东</title><link>https://wallstreetcn.com/articles/3779419</link><guid>d1759e5aa23061cb66e261ebb85680b3905169b3cedac6372f2e0ed75cdc70c8</guid><pubDate>Fri, 14 Aug 2026 00:39:38 GMT</pubDate><description>&lt;p&gt;闪迪刚刚交出了一份令华尔街瞩目的“投资者日”答卷，发布了一系列远超市场预期的长期财务目标与资本回报计划，股价当日大涨近14%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，高盛在8月13日的研报中指出，闪迪不仅给出了远超市场预期的长期财务指引（&lt;strong&gt;80%毛利率、75%营业利润率&lt;/strong&gt;），更抛出了将&lt;strong&gt;100%超额自由现金流回馈股东&lt;/strong&gt;的重磅承诺。此外，&lt;strong&gt;其针对AI推理的下一代HBF（高带宽闪存）技术路线图为公司带来了巨大的上行潜力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛重申对闪迪的“买入”评级，&lt;strong&gt;给出高达2200美元的12个月目标价（基于110美元常态化每股收益的20倍市盈率）&lt;/strong&gt;，较当前1528美元的股价意味着约44%的上涨空间。&lt;/p&gt;
@@ -243,7 +243,49 @@ HBF押注AI推理，存储板块集体大涨
 
 &lt;p&gt;OpenAI当前正与Anthropic展开激烈的企业客户争夺战。&lt;/p&gt;
 &lt;p&gt;曾被视为挑战者的Anthropic凭借包括编程工具在内的一系列AI产品逐渐打开市场，并于今年5月宣布其年化营收已突破470亿美元。两家公司在年化营收的统计口径上或存在差异。&lt;/p&gt;
-&lt;p&gt;两家公司均已提交IPO保密申报文件。据报道，Anthropic预计最快于今年秋季率先上市，时间节点领先于OpenAI。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板冲高回落涨0.65%，稀土拉升，算力硬件大涨，恒科指跌近2%，京东大跌10%、华虹宏力跌12%</title><link>https://wallstreetcn.com/articles/3779421</link><guid>0eccd90e13f51515b49a232893bd909e51422801962a2d7aed6069ea316dae55</guid><pubDate>Fri, 14 Aug 2026 04:17:33 GMT</pubDate><description>&lt;p&gt;8月14日，A股高开后震荡分化，三大股指盘初集体上涨，盘中走势分化，沪指转跌，深成指、创业板涨幅收窄，创业板一度涨超1%，稀土、有色金属拉升，芯片半导体盘中活跃，存储股走高，长鑫科技、德明利、兆易创新等上涨，算力硬件拉升，光通信、光电路交换机、覆铜板等上涨，电力、制药等陷入调整。&lt;/p&gt;
+&lt;p&gt;两家公司均已提交IPO保密申报文件。据报道，Anthropic预计最快于今年秋季率先上市，时间节点领先于OpenAI。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] FDE×Harness --从模型能力转向企业规模化部署</title><link>https://wallstreetcn.com/articles/3779425</link><guid>a629ce32a76c20358487ea075202a9a77c5c7f8a69a8372b78575168c484b2de</guid><pubDate>Fri, 14 Aug 2026 03:42:12 GMT</pubDate><description>&lt;p&gt;企业AI的核心矛盾正在发生位移。模型能力持续提升，但制约AI商业化落地的瓶颈，已经从&amp;quot;能不能用&amp;quot;转向&amp;quot;能不能把AI稳定嵌入核心业务流程、持续交付可验证的结果&amp;quot;。在此背景下，FDE（前线部署工程师）与Agent运行时系统Harness的协同模式，正成为推动企业AI规模化部署的关键路径。&lt;/p&gt;
+&lt;p&gt;国泰海通证券计算机行业分析师杨林在8月13日的研报中指出：&lt;strong&gt;FDE负责深入业务场景并沉淀行业经验，Harness负责保障智能体稳定执行与能力复用，两者协同有望推动企业AI实现更高效、更可复制的规模化部署。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一判断背后，价值链的迁移方向已经清晰——从&amp;quot;谁的模型更强&amp;quot;，转向&amp;quot;谁更懂业务、谁能交付生产系统、谁能把一次项目经验复用到下一次&amp;quot;。对市场而言，这意味着单纯拥有模型或API访问能力的公司，估值逻辑面临重估。&lt;/p&gt;
+&lt;p&gt;投资线索也随之调整。真正值得跟踪的是两类公司：能深入行业现场、将AI做进客户核心流程的交付方，以及拥有Agent Runtime、AIOS、Ontology等底座、能把交付经验转化为可复用软件资产的平台方。&lt;/p&gt;
+
+渗透率与规模化之间存在明显落差
+
+&lt;p&gt;AI应用渗透率高，并不等同于AI商业化成熟。&lt;/p&gt;
+&lt;p&gt;McKinsey《The State of AI 2025》的数据呈现出一个明显剪刀差：接近九成受访企业已在至少一个业务职能中常态化使用AI，62%的企业开始试验AI Agent，但真正进入全企业规模化阶段的仅约三分之一。即便在收入超过50亿美元的大型企业中，完成规模化部署的比例也不到一半。&lt;/p&gt;
+&lt;p&gt;商业价值的兑现同样有限。虽然许多企业已在局部场景中看到成本节约或收入提升，但只有39%的受访者表示AI已对整体EBIT产生影响，且多数企业AI贡献的EBIT占比仍低于5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;问题的根源在于流程重构不足。McKinsey分析的25项影响生成式AI价值兑现的因素中，重新设计业务工作流与EBIT改善的相关性较高，但目前只有21%的生成式AI使用企业对至少部分工作流做了根本性重构。&lt;strong&gt;高绩效企业的共同特征是：不只是加载一个AI工具，而是围绕AI重写流程、数据、权限、人机分工和KPI。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent进入生产环境后，风险被进一步放大。调查显示，51%的AI使用企业至少经历过一种负面后果，接近三分之一遭遇过AI输出不准确带来的问题。Copilot类辅助工具尚可依赖人工兜底，但Agent需要调用工具、操作系统、跨步骤执行任务，错误累积、状态漂移、权限误用都会演变为生产风险。&lt;/p&gt;
+
+FDE的核心价值在于将现场经验转化为可复用资产
+
+&lt;p&gt;FDE不是传统售前，也不同于一般实施角色。传统售前解决&amp;quot;客户为何购买&amp;quot;，实施团队解决&amp;quot;产品如何部署&amp;quot;，咨询公司解决&amp;quot;客户应当怎么做&amp;quot;。FDE需要同时回答三个问题：&lt;strong&gt;哪些业务问题值得用AI解决，如何将AI真正做出来，上线后业务指标是否改善。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这类角色长期站在客户业务现场与产品研发之间，承担场景识别、原型验证、系统集成、生产部署和效果评估。其产出具有双重属性：对客户是业务结果，对厂商是可复用资产。&lt;/p&gt;
+&lt;p&gt;区分FDE模式与外包模式的关键，在于经验的沉淀方式。项目结束后只留下客户定制系统，本质仍接近外包；带回经验但无法复用，仍是项目制。&lt;strong&gt;FDE模式成立的前提，是把现场经验转化为Skill、连接器、行业模板、测试集、工作流、Ontology或平台能力，使同类客户的交付成本持续下降。&lt;/strong&gt;衡量FDE规模化的真实指标，是同类客户上线更快、FDE人天更少、可复用资产占比更高，最终客户收入增速超过交付人员规模增速。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;AI Coding和Agent工具正在重塑深度定制的经济性。&lt;strong&gt;代码、接口、测试用例、文档等重复性工作可以被部分自动化，FDE得以将更多精力投入需求澄清、架构判断和行业知识抽象。&lt;/strong&gt;这正是OpenAI、AWS等头部厂商加速扩建FDE组织的内在逻辑。据报道，OpenAI成立Deployment Company并计划收购企业AI咨询与工程公司Tomoro，后者带来约150名经验丰富的FDE和Deployment Specialists，同时联合19家投资机构、咨询公司和系统集成商投入超过40亿美元扩大企业AI部署能力；AWS则投入10亿美元成立Forward Deployed Engineering组织，目标是将Agent部署周期从以月计压缩至以天计。&lt;/p&gt;
+
+Harness决定Agent能否在生产环境中持续运行
+
+&lt;p&gt;Harness是包裹在基础模型外的Agent运行时系统。模型负责理解与推理，Harness负责上下文管理、记忆管理、工具调用、状态维护、权限控制、结果验证、异常恢复和长程任务管理。它决定模型能看到什么、可调用什么、何时行动，以及出错后如何恢复。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;任务复杂度的提升，会成倍放大Harness的重要性。简单Chatbot只需输入、生成、输出；生产级Agent需要规划、检索、调用工具、接收环境反馈、再次决策，有时连续运行数小时。任务链条越长，单点错误越容易演变为系统性风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic的实验数据直观呈现了Harness的代价与价值：同样使用Opus 4.5开发应用，单Agent运行约20分钟、成本约9美元；包含Planner、Generator和Evaluator的完整Harness运行约6小时、成本约200美元，成本超过20倍，但应用完整度、可用性和核心功能正确性显著提升。这将竞争指标从单Token价格，引向&amp;quot;Cost per Successful Task&amp;quot;——即每次成功完成任务的综合成本。&lt;/p&gt;
+&lt;p&gt;Microsoft已将Harness产品化，将Function Invocation、History Persistence、Context Compaction、Tool Approval、Telemetry等能力集成进统一运行时，开发者完成模型、指令和工具的配置即可获得相对完整的Agent Runtime。值得注意的是，Harness的竞争重点不会停留在组件数量。随着模型能力持续演进，Harness中的部分任务拆解和Context处理可逐步交还给模型本身，但Planner、Evaluator在超出模型可靠边界的任务上仍具不可替代的价值。Anthropic的观点是，Harness应随模型能力变化持续重测、删减、调整，而不是固定流程。&lt;/p&gt;
+
+FDE与Harness协同构成企业AI商业化闭环
+
+&lt;p&gt;FDE与Harness分别解决不同层面的问题，但只有二者协同，才能形成可持续的商业化闭环。&lt;/p&gt;
+&lt;p&gt;逻辑链条如下：FDE进入客户现场，获取真实业务知识——流程结构、权限设置、必须人工介入的异常类型、需要可解释的结果、可证明ROI的指标。Harness将这些知识编码为Agent可执行能力：Skill、Tool、Workflow、Ontology、权限规则、运行约束和评测集。&lt;/p&gt;
+&lt;p&gt;上线后，生产环境持续产生真实反馈——工具调用失败、状态丢失、流程异常、边界案例、人工接管记录。FDE判断失败根源并将新经验再次沉淀回Harness和平台。这构成一个飞轮：现场知识进入系统，系统运行产生反馈，反馈被抽象为可复用资产。随着同类客户积累，新项目从重新开发转向配置加少量定制，最终比拼的不是谁派出更多工程师，而是谁能更快将人的现场经验转化为机器能力。&lt;/p&gt;
+&lt;p&gt;海外厂商已将这条路径跑出不同形态。Palantir以Ontology为核心，FDE将业务对象、数据结构和决策约束映射至包含Data、Logic、Action和Security的企业运营层，AIP提供端到端可观测能力。&lt;strong&gt;Microsoft则将FDE与行业伙伴深度绑定，与EY联合投入超过10亿美元部署Agentic AI，涵盖Finance、Tax、Risk、HR、Supply Chain等核心职能，EY作为Client Zero在自身组织内率先验证技术，Copilot早期覆盖15万名员工并带来约15%的生产率提升。&lt;/strong&gt;AWS形成两层Harness架构：AgentCore Harness解决单个Agent稳定运行，Delivery Harness沉淀Domain Ontology、Evaluation Framework和Context Graph，使合作伙伴能够独立复制交付。&lt;/p&gt;
+
+国内厂商路径分化，行业现场与治理底座是核心差异
+
+&lt;p&gt;国内厂商在FDE与Harness方向上已形成差异化布局，核心分野在于行业现场积累的深度和治理底座的完整性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;腾讯云ADP从RAG、Workflow演进至自然语言构建，并引入云端Agent Harness，支持7×24小时中心化运行、云端Sandbox和长时任务执行。&lt;/strong&gt;其CodeBuddy/WorkBuddy客户成功团队覆盖管理层认知、业务流程梳理和效果评测全链条，部分头部客户已在工具采购之外单独为FDE陪跑服务付费。阿里云已正式以&amp;quot;前沿部署工程师FDE&amp;quot;招聘，百炼支持Agent和Workflow两类开发模式，悟空定位企业级AI原生工作平台，推动Agent进入跨系统复杂任务。&lt;/p&gt;
+&lt;p&gt;金蝶国际将Harness内生于ERP底座，灵基AIOS在OS内核中集成Harness体系，向上提供多Agent编排、Skill Hub、MCP网关和AI效果评估，核心是把企业业务Context、权限、Workflow和治理能力沉淀下来。赛意信息将FDE部署于工业现场，通过SDD规范开发平台和统一DevOps底座沉淀交付能力，交付周期最高压缩36%，人力投入平均降低16%以上。&lt;/p&gt;
+&lt;p&gt;软通动力提出&amp;quot;AI Factory+FDE&amp;quot;模式，将AI咨询、数据智能、Agent开发和大模型部署调优串联。科大讯飞在国家能源集团智能招采项目中，将专家经验转化为12类标准化知识库，采购项目智能评审系统累计稳定运行超过21万个项目，智能评审准确率达97%。易鑫集团将Harness用于金融Agent治理，截至2026年5月底AI平台累计调用超过1.25亿次，智能体自主交付业务占比达到65%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板冲高回落涨0.65%，稀土拉升，算力硬件大涨，恒科指跌近2%，京东大跌10%、华虹宏力跌12%</title><link>https://wallstreetcn.com/articles/3779421</link><guid>0eccd90e13f51515b49a232893bd909e51422801962a2d7aed6069ea316dae55</guid><pubDate>Fri, 14 Aug 2026 04:17:33 GMT</pubDate><description>&lt;p&gt;8月14日，A股高开后震荡分化，三大股指盘初集体上涨，盘中走势分化，沪指转跌，深成指、创业板涨幅收窄，创业板一度涨超1%，稀土、有色金属拉升，芯片半导体盘中活跃，存储股走高，长鑫科技、德明利、兆易创新等上涨，算力硬件拉升，光通信、光电路交换机、覆铜板等上涨，电力、制药等陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指双双下跌，恒科指跌近2%，科网股多数，京东大跌10%，华虹宏力跌12%，中芯国际、兆易创新等逆势走强。债市方面，国债期货震荡分化。商品方面，国内商品期货多数下跌，贵金属期货跌幅居前。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.21%，深成指涨0.08%，创业板指涨0.65%。&lt;/p&gt;
@@ -289,49 +331,7 @@ HBF押注AI推理，存储板块集体大涨
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数低开0.7%，恒生科技指数跌0.6%。京东集团跌逾6%，联想集团跌逾4%；中芯国际涨近5%，MINIMAX涨逾3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] FDE×Harness --从模型能力转向企业规模化部署</title><link>https://wallstreetcn.com/articles/3779425</link><guid>a629ce32a76c20358487ea075202a9a77c5c7f8a69a8372b78575168c484b2de</guid><pubDate>Fri, 14 Aug 2026 03:42:12 GMT</pubDate><description>&lt;p&gt;企业AI的核心矛盾正在发生位移。模型能力持续提升，但制约AI商业化落地的瓶颈，已经从&amp;quot;能不能用&amp;quot;转向&amp;quot;能不能把AI稳定嵌入核心业务流程、持续交付可验证的结果&amp;quot;。在此背景下，FDE（前线部署工程师）与Agent运行时系统Harness的协同模式，正成为推动企业AI规模化部署的关键路径。&lt;/p&gt;
-&lt;p&gt;国泰海通证券计算机行业分析师杨林在8月13日的研报中指出：&lt;strong&gt;FDE负责深入业务场景并沉淀行业经验，Harness负责保障智能体稳定执行与能力复用，两者协同有望推动企业AI实现更高效、更可复制的规模化部署。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一判断背后，价值链的迁移方向已经清晰——从&amp;quot;谁的模型更强&amp;quot;，转向&amp;quot;谁更懂业务、谁能交付生产系统、谁能把一次项目经验复用到下一次&amp;quot;。对市场而言，这意味着单纯拥有模型或API访问能力的公司，估值逻辑面临重估。&lt;/p&gt;
-&lt;p&gt;投资线索也随之调整。真正值得跟踪的是两类公司：能深入行业现场、将AI做进客户核心流程的交付方，以及拥有Agent Runtime、AIOS、Ontology等底座、能把交付经验转化为可复用软件资产的平台方。&lt;/p&gt;
-
-渗透率与规模化之间存在明显落差
-
-&lt;p&gt;AI应用渗透率高，并不等同于AI商业化成熟。&lt;/p&gt;
-&lt;p&gt;McKinsey《The State of AI 2025》的数据呈现出一个明显剪刀差：接近九成受访企业已在至少一个业务职能中常态化使用AI，62%的企业开始试验AI Agent，但真正进入全企业规模化阶段的仅约三分之一。即便在收入超过50亿美元的大型企业中，完成规模化部署的比例也不到一半。&lt;/p&gt;
-&lt;p&gt;商业价值的兑现同样有限。虽然许多企业已在局部场景中看到成本节约或收入提升，但只有39%的受访者表示AI已对整体EBIT产生影响，且多数企业AI贡献的EBIT占比仍低于5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;问题的根源在于流程重构不足。McKinsey分析的25项影响生成式AI价值兑现的因素中，重新设计业务工作流与EBIT改善的相关性较高，但目前只有21%的生成式AI使用企业对至少部分工作流做了根本性重构。&lt;strong&gt;高绩效企业的共同特征是：不只是加载一个AI工具，而是围绕AI重写流程、数据、权限、人机分工和KPI。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent进入生产环境后，风险被进一步放大。调查显示，51%的AI使用企业至少经历过一种负面后果，接近三分之一遭遇过AI输出不准确带来的问题。Copilot类辅助工具尚可依赖人工兜底，但Agent需要调用工具、操作系统、跨步骤执行任务，错误累积、状态漂移、权限误用都会演变为生产风险。&lt;/p&gt;
-
-FDE的核心价值在于将现场经验转化为可复用资产
-
-&lt;p&gt;FDE不是传统售前，也不同于一般实施角色。传统售前解决&amp;quot;客户为何购买&amp;quot;，实施团队解决&amp;quot;产品如何部署&amp;quot;，咨询公司解决&amp;quot;客户应当怎么做&amp;quot;。FDE需要同时回答三个问题：&lt;strong&gt;哪些业务问题值得用AI解决，如何将AI真正做出来，上线后业务指标是否改善。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这类角色长期站在客户业务现场与产品研发之间，承担场景识别、原型验证、系统集成、生产部署和效果评估。其产出具有双重属性：对客户是业务结果，对厂商是可复用资产。&lt;/p&gt;
-&lt;p&gt;区分FDE模式与外包模式的关键，在于经验的沉淀方式。项目结束后只留下客户定制系统，本质仍接近外包；带回经验但无法复用，仍是项目制。&lt;strong&gt;FDE模式成立的前提，是把现场经验转化为Skill、连接器、行业模板、测试集、工作流、Ontology或平台能力，使同类客户的交付成本持续下降。&lt;/strong&gt;衡量FDE规模化的真实指标，是同类客户上线更快、FDE人天更少、可复用资产占比更高，最终客户收入增速超过交付人员规模增速。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;AI Coding和Agent工具正在重塑深度定制的经济性。&lt;strong&gt;代码、接口、测试用例、文档等重复性工作可以被部分自动化，FDE得以将更多精力投入需求澄清、架构判断和行业知识抽象。&lt;/strong&gt;这正是OpenAI、AWS等头部厂商加速扩建FDE组织的内在逻辑。据报道，OpenAI成立Deployment Company并计划收购企业AI咨询与工程公司Tomoro，后者带来约150名经验丰富的FDE和Deployment Specialists，同时联合19家投资机构、咨询公司和系统集成商投入超过40亿美元扩大企业AI部署能力；AWS则投入10亿美元成立Forward Deployed Engineering组织，目标是将Agent部署周期从以月计压缩至以天计。&lt;/p&gt;
-
-Harness决定Agent能否在生产环境中持续运行
-
-&lt;p&gt;Harness是包裹在基础模型外的Agent运行时系统。模型负责理解与推理，Harness负责上下文管理、记忆管理、工具调用、状态维护、权限控制、结果验证、异常恢复和长程任务管理。它决定模型能看到什么、可调用什么、何时行动，以及出错后如何恢复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;任务复杂度的提升，会成倍放大Harness的重要性。简单Chatbot只需输入、生成、输出；生产级Agent需要规划、检索、调用工具、接收环境反馈、再次决策，有时连续运行数小时。任务链条越长，单点错误越容易演变为系统性风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic的实验数据直观呈现了Harness的代价与价值：同样使用Opus 4.5开发应用，单Agent运行约20分钟、成本约9美元；包含Planner、Generator和Evaluator的完整Harness运行约6小时、成本约200美元，成本超过20倍，但应用完整度、可用性和核心功能正确性显著提升。这将竞争指标从单Token价格，引向&amp;quot;Cost per Successful Task&amp;quot;——即每次成功完成任务的综合成本。&lt;/p&gt;
-&lt;p&gt;Microsoft已将Harness产品化，将Function Invocation、History Persistence、Context Compaction、Tool Approval、Telemetry等能力集成进统一运行时，开发者完成模型、指令和工具的配置即可获得相对完整的Agent Runtime。值得注意的是，Harness的竞争重点不会停留在组件数量。随着模型能力持续演进，Harness中的部分任务拆解和Context处理可逐步交还给模型本身，但Planner、Evaluator在超出模型可靠边界的任务上仍具不可替代的价值。Anthropic的观点是，Harness应随模型能力变化持续重测、删减、调整，而不是固定流程。&lt;/p&gt;
-
-FDE与Harness协同构成企业AI商业化闭环
-
-&lt;p&gt;FDE与Harness分别解决不同层面的问题，但只有二者协同，才能形成可持续的商业化闭环。&lt;/p&gt;
-&lt;p&gt;逻辑链条如下：FDE进入客户现场，获取真实业务知识——流程结构、权限设置、必须人工介入的异常类型、需要可解释的结果、可证明ROI的指标。Harness将这些知识编码为Agent可执行能力：Skill、Tool、Workflow、Ontology、权限规则、运行约束和评测集。&lt;/p&gt;
-&lt;p&gt;上线后，生产环境持续产生真实反馈——工具调用失败、状态丢失、流程异常、边界案例、人工接管记录。FDE判断失败根源并将新经验再次沉淀回Harness和平台。这构成一个飞轮：现场知识进入系统，系统运行产生反馈，反馈被抽象为可复用资产。随着同类客户积累，新项目从重新开发转向配置加少量定制，最终比拼的不是谁派出更多工程师，而是谁能更快将人的现场经验转化为机器能力。&lt;/p&gt;
-&lt;p&gt;海外厂商已将这条路径跑出不同形态。Palantir以Ontology为核心，FDE将业务对象、数据结构和决策约束映射至包含Data、Logic、Action和Security的企业运营层，AIP提供端到端可观测能力。&lt;strong&gt;Microsoft则将FDE与行业伙伴深度绑定，与EY联合投入超过10亿美元部署Agentic AI，涵盖Finance、Tax、Risk、HR、Supply Chain等核心职能，EY作为Client Zero在自身组织内率先验证技术，Copilot早期覆盖15万名员工并带来约15%的生产率提升。&lt;/strong&gt;AWS形成两层Harness架构：AgentCore Harness解决单个Agent稳定运行，Delivery Harness沉淀Domain Ontology、Evaluation Framework和Context Graph，使合作伙伴能够独立复制交付。&lt;/p&gt;
-
-国内厂商路径分化，行业现场与治理底座是核心差异
-
-&lt;p&gt;国内厂商在FDE与Harness方向上已形成差异化布局，核心分野在于行业现场积累的深度和治理底座的完整性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;腾讯云ADP从RAG、Workflow演进至自然语言构建，并引入云端Agent Harness，支持7×24小时中心化运行、云端Sandbox和长时任务执行。&lt;/strong&gt;其CodeBuddy/WorkBuddy客户成功团队覆盖管理层认知、业务流程梳理和效果评测全链条，部分头部客户已在工具采购之外单独为FDE陪跑服务付费。阿里云已正式以&amp;quot;前沿部署工程师FDE&amp;quot;招聘，百炼支持Agent和Workflow两类开发模式，悟空定位企业级AI原生工作平台，推动Agent进入跨系统复杂任务。&lt;/p&gt;
-&lt;p&gt;金蝶国际将Harness内生于ERP底座，灵基AIOS在OS内核中集成Harness体系，向上提供多Agent编排、Skill Hub、MCP网关和AI效果评估，核心是把企业业务Context、权限、Workflow和治理能力沉淀下来。赛意信息将FDE部署于工业现场，通过SDD规范开发平台和统一DevOps底座沉淀交付能力，交付周期最高压缩36%，人力投入平均降低16%以上。&lt;/p&gt;
-&lt;p&gt;软通动力提出&amp;quot;AI Factory+FDE&amp;quot;模式，将AI咨询、数据智能、Agent开发和大模型部署调优串联。科大讯飞在国家能源集团智能招采项目中，将专家经验转化为12类标准化知识库，采购项目智能评审系统累计稳定运行超过21万个项目，智能评审准确率达97%。易鑫集团将Harness用于金融Agent治理，截至2026年5月底AI平台累计调用超过1.25亿次，智能体自主交付业务占比达到65%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 迅雷二季度营收增长近4成，海外直播扩张压低毛利率</title><link>https://wallstreetcn.com/articles/3779427</link><guid>65b040ccebdf03af20ee8305fa513c2fb1d43e66ad8249e818d3353f2c69c723</guid><pubDate>Fri, 14 Aug 2026 03:19:40 GMT</pubDate><description>&lt;p&gt;8月13日晚，迅雷发布2026年第二季度未经审计财报。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 迅雷二季度营收增长近4成，海外直播扩张压低毛利率</title><link>https://wallstreetcn.com/articles/3779427</link><guid>65b040ccebdf03af20ee8305fa513c2fb1d43e66ad8249e818d3353f2c69c723</guid><pubDate>Fri, 14 Aug 2026 03:19:40 GMT</pubDate><description>&lt;p&gt;8月13日晚，迅雷发布2026年第二季度未经审计财报。&lt;/p&gt;
 &lt;p&gt;随着云计算业务不再并表，迅雷当前的收入结构已收缩至订阅服务、海外语音直播及虎扑广告等面向消费者的业务。二季度，公司营收为1.027亿美元，同比增长38.9%，但收入增长尚未转化为利润改善，经营层面由盈转亏。&lt;/p&gt;
 &lt;p&gt;需要注意的是，迅雷今年调整了比较口径。今年3月，公司出售深圳市网心科技有限公司50%股权，持股比例由70%降至20%，网心科技经营的云计算业务被列为终止经营。因此，财报所列去年同期7392万美元收入已经剔除云计算业务，与2025年二季度财报当时披露的1.04亿美元并非同一口径。&lt;/p&gt;
 &lt;p&gt;从业务构成看，订阅服务仍是迅雷相对稳定的收入来源。&lt;/p&gt;
