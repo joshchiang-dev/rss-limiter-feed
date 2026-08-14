@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 13 Aug 2026 23:59:33 GMT</lastBuildDate><item><title>[华尔街见闻] 闪迪押注AI重塑闪存市场：规模或从600亿飙至5000亿美元，预计FY2028-30营收中高双位数增长</title><link>https://wallstreetcn.com/articles/3779397</link><guid>26782b84632e1cc8a5c90671416ca869f83c1a0bdd8f2e3f290b1f5e8b03b26e</guid><pubDate>Thu, 13 Aug 2026 23:49:21 GMT</pubDate><description>&lt;p&gt;AI推理需求持续推高存储需求之际，闪迪给出了极为激进的长期财务目标。&lt;/p&gt;
-&lt;p&gt;美东时间23日周四，闪迪在2026年投资者日公布长期财务模型，提出一系列2028财年至2030财年将要达到的财务目标，包括这期间内，公司&lt;strong&gt;营收&lt;/strong&gt;将保持&lt;strong&gt;中高双位数增长&lt;/strong&gt;。闪迪还澄清市场对比特增长的疑虑，提出&lt;strong&gt;可供销售比特量将根据盈利优化需要调整&lt;/strong&gt;，同时承诺，在完成业务投资后，将把100%的剩余现金返还股东。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 14 Aug 2026 00:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 这个投资者日，闪迪的“炸裂数字”震撼市场</title><link>https://wallstreetcn.com/articles/3779397</link><guid>26782b84632e1cc8a5c90671416ca869f83c1a0bdd8f2e3f290b1f5e8b03b26e</guid><pubDate>Thu, 13 Aug 2026 23:49:21 GMT</pubDate><description>&lt;p&gt;AI推理需求持续推高存储需求之际，闪迪给出了极为激进的长期财务目标。&lt;/p&gt;
+&lt;p&gt;美东时间13日周四，闪迪在2026年投资者日公布长期财务模型，提出一系列2028财年至2030财年将要达到的财务目标，包括这期间内，公司&lt;strong&gt;营收&lt;/strong&gt;将保持&lt;strong&gt;中高双位数增长&lt;/strong&gt;。闪迪还澄清市场对比特增长的疑虑，提出&lt;strong&gt;可供销售比特量将根据盈利优化需要调整&lt;/strong&gt;，同时承诺，在完成业务投资后，将把100%的剩余现金返还股东。&lt;/p&gt;
 &lt;p&gt;消息公布后，市场迅速用股价投票。闪迪（SNDK）周四盘中涨幅一度扩大至&lt;strong&gt;17.6%&lt;/strong&gt;；存储板块同步走强。到收盘，闪迪涨近14%，SK海力士和西部数据涨超7%，希捷科技涨近5%，美光科技涨逾4%，&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 FY2028-30目标：毛利率80%、营业利润率75%
@@ -83,24 +83,24 @@ AI已经进入费用表，但尚未进入独立收入表
 &lt;p&gt;因此，接下来判断京东AI是否有效，不能只看研发费用和产品数量，而应看三组指标：平台广告和佣金收入能否持续快于商品收入；库存及履约效率能否随AI渗透而改善；AI产品是否开始披露付费客户、收入和续约率。&lt;/p&gt;
 &lt;p&gt;从本次财报和电话会看，京东已经出现利润修复，但还没有形成完整的增长闭环。&lt;/p&gt;
 &lt;p&gt;外卖证明了公司可以少亏，平台业务证明了收入结构可以变轻，AI则证明了京东愿意继续投入。尚待证明的是，这三者能否共同产生新的收入增长，而不只是让一份收入下降的财报看起来更赚钱。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 费城半导体指数即将重回“牛市”，分析师泼冷水</title><link>https://wallstreetcn.com/articles/3779375</link><guid>b6285f7d2c6ebd55d972b03aa51312681129bdae9c9ccf113b5dfe5d9d6bc159</guid><pubDate>Thu, 13 Aug 2026 12:12:04 GMT</pubDate><description>&lt;p&gt;美股芯片板块在强劲财报的推动下大幅反弹，距离技术性牛市仅一步之遥，但部分分析师警告，订单积压数字未必等同于已实现收入，AI基础设施投资的可持续性仍存疑问。&lt;/p&gt;
-&lt;p&gt;周三，费城半导体指数（SOX）收涨2.49%，报12399.38点，&lt;strong&gt;距离进入牛市所需的12536.99点仅差约1.1%&lt;/strong&gt;。此轮涨势由CoreWeave、Super Micro Computer及Lumentum的财报点燃，三家公司均显示AI支出依然强劲，股价单日分别大涨约19%、19%和13%。&lt;/p&gt;
-&lt;p&gt;然而，投资咨询机构Portfolio Thinking创始人Dan Kemp给市场情绪泼了盆冷水。&lt;/p&gt;
-&lt;p&gt;他指出，&lt;strong&gt;CoreWeave将全年资本支出计划从310亿至350亿美元上调至350亿至390亿美元，但营收指引却“远为保守”，且该公司当季净利息支出高达6.4亿美元，而调整后营业利润仅为1.28亿美元。&lt;/strong&gt;他表示：“我们尚未看到足以支撑如此规模承诺的消费者和企业支出。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI链条下游财报提振板块情绪
-&lt;p&gt;周三，芯片股涨势覆盖面广泛。存储芯片领域，闪迪涨约6%，美光科技涨约5%，SK海力士的美国存托凭证大涨9%；AI芯片龙头英伟达上涨3%。&lt;/p&gt;
-&lt;p&gt;此轮上涨的直接催化剂来自周二盘后发布的多份财报。Zacks Investment Management首席市场策略师Brian Mulberry在书面评论中表示，&lt;strong&gt;这些财报“有助于确认AI交易的覆盖面正在扩大，而不仅仅是规模变大”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他解释称，CoreWeave证实GPU需求依然强劲，而Lumentum则展示了这一需求如何进一步拉动数据中心供电和运营基础设施的需求。&lt;/p&gt;
-&lt;p&gt;Dan Kemp也认同，&lt;strong&gt;CoreWeave、Super Micro等处于AI产业链下游、负责芯片连接与安装的公司，其财报为投资者提供了观察真实芯片需求的窗口，进一步支撑了市场对该板块的乐观情绪。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，他认为，周三公布的美国消费者价格指数（CPI）数据与华尔街预期基本吻合，也对芯片股涨势有所助益。&lt;/p&gt;
-订单积压数字引发质疑
-&lt;p&gt;尽管市场情绪高涨，部分分析师仍对订单积压数字的含金量持保留态度。CoreWeave和Super Micro均在财报中强调不断增长的订单积压，其中Super Micro重申，其6月季度新订单超过600亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dan Kemp对上述数字持怀疑态度，理由是部分订单存在取消或推迟的可能性。&lt;/strong&gt;“投资者有权将庞大的订单积压视为积极信号，但应将其定价为一系列可能的结果，而非已经实现的收入，”他说。&lt;/p&gt;
-&lt;p&gt;他进一步指出，对于长期投资者而言，核心问题在于需求增速是否快于股价所隐含的预期。他表示：“在这一点上，证据远没有那么令人放心。”&lt;/p&gt;
-基本面分化，并非所有芯片股同等受益
-&lt;p&gt;Brian Mulberry强调，&lt;strong&gt;并非所有芯片公司都能从此轮AI热潮中均等受益，基本面最终将比单纯的价格动能更为重要。&lt;/strong&gt;他表示，投资者目前寻求的是增长加速，而非单纯追逐涨势。&lt;/p&gt;
-&lt;p&gt;在他看来，基本面最为扎实的公司包括英伟达、博通以及光网络供应商Coherent——后者周三股价上涨逾8%。Dan Kemp也持类似观点，认为&lt;strong&gt;需求增速与估值之间的匹配程度，才是判断长期投资价值的关键所在。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 扩充AI竞赛“弹药库”！AMD被曝酝酿最大投资级发债、募资多达50亿</title><link>https://wallstreetcn.com/articles/3779401</link><guid>8df31b9b30e2547431778e3b0ad0e7f4aa4414e0f8ac67b8b82a2b76b30c937d</guid><pubDate>Thu, 13 Aug 2026 15:28:50 GMT</pubDate><description>&lt;p&gt;AI算力需求持续飙升之际，AMD正加速扩充融资“弹药库”。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 冲刺IPO，OpenAI年化收入已达400亿美元</title><link>https://wallstreetcn.com/articles/3779413</link><guid>cfc98d821ca6faf31899e7ec1c924e3f88064af9c47272986703262279dd3ef4</guid><pubDate>Fri, 14 Aug 2026 00:04:13 GMT</pubDate><description>&lt;p&gt;OpenAI的营收增长势头正在加速。&lt;/p&gt;
+&lt;p&gt;8月13日，据彭博社援引知情人士透露，&lt;strong&gt;OpenAI当前年化营收已超过400亿美元，较2025年底翻倍，为其即将到来的IPO构筑更坚实的基本面。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;推动这一增长的核心动力来自AI编程软件、订阅销售及刚起步的广告业务，核心消费者业务亦保持扩张。&lt;/p&gt;
+&lt;p&gt;OpenAI联合创始人兼总裁Greg Brockman在一份内部公告中透露，&lt;strong&gt;公司年化营收在7月环比增速超过20%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI首席财务官Sarah Friar此前曾表示，公司去年底年化营收已超200亿美元。&lt;/p&gt;
+
+营收翻倍，AI Agent需求激增
+
+&lt;p&gt;近期增长的重要驱动力之一，是企业客户对AI Agent的强劲需求。&lt;/p&gt;
+&lt;p&gt;OpenAI旗下用于编程的Codex及面向多类任务的ChatGPT Work均录得需求明显提升。&lt;/p&gt;
+&lt;p&gt;与此同时，公司已对部分模型下调定价，以在价格敏感型客户市场上更有效地抗衡Anthropic及一众开源模型竞争对手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同一天，OpenAI宣布任命新一任首席营收官——这已是公司不到一年内第二次更换该职位。新&lt;/strong&gt;任人选来自网络安全行业，旨在加快企业销售增长。&lt;/p&gt;
+
+与Anthropic的竞争格局
+
+&lt;p&gt;OpenAI当前正与Anthropic展开激烈的企业客户争夺战。&lt;/p&gt;
+&lt;p&gt;曾被视为挑战者的Anthropic凭借包括编程工具在内的一系列AI产品逐渐打开市场，并于今年5月宣布其年化营收已突破470亿美元。两家公司在年化营收的统计口径上或存在差异。&lt;/p&gt;
+&lt;p&gt;两家公司均已提交IPO保密申报文件。据报道，Anthropic预计最快于今年秋季率先上市，时间节点领先于OpenAI。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 扩充AI竞赛“弹药库”！AMD被曝酝酿最大投资级发债、募资多达50亿</title><link>https://wallstreetcn.com/articles/3779401</link><guid>8df31b9b30e2547431778e3b0ad0e7f4aa4414e0f8ac67b8b82a2b76b30c937d</guid><pubDate>Thu, 13 Aug 2026 15:28:50 GMT</pubDate><description>&lt;p&gt;AI算力需求持续飙升之际，AMD正加速扩充融资“弹药库”。&lt;/p&gt;
 &lt;p&gt;美东时间13日周四，彭博社获悉，AMD计划通过发行美元投资级债券募资最多50亿美元。路透社随后报道称，AMD拟通过此次债券发行筹资约40亿至50亿美元。若消息属实，这将成为一波与AI热潮相关的债务融资浪潮中的最新一笔大额交易。&lt;/p&gt;
 &lt;p&gt;如果按最高50亿美元的规模完成发行，这可能成为AMD有史以来规模最大的美元投资级债券发行。彭博援引知情人士称，AMD尚未就最终发行规模作出决定，具体金额仍可能根据市场需求调整。&lt;/p&gt;
 &lt;p&gt;此次发债正值AMD加大投入、满足AI热潮带来的计算能力需求之际。AMD近期相继宣布与Anthropic和微软扩大合作，并承诺最高向Anthropic投资50亿美元。AMD在周四稍早递交美国证监会SEC的文件中表示，发债所得将用于一般公司用途，其中可能包括偿还债务。该司目前有8.75亿美元债券将于下月到期。&lt;/p&gt;
