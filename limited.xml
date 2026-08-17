@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 17 Aug 2026 20:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 宇树科技8月19日上市！</title><link>https://wallstreetcn.com/articles/3779630</link><guid>0bad8439163be8eaa84042bfebaccc5110231ac89039be59d5ec5366094523f4</guid><pubDate>Mon, 17 Aug 2026 20:50:55 GMT</pubDate><description>&lt;p&gt;人形机器人领域的明星企业宇树科技，&lt;strong&gt;将于2026年8月19日正式登陆科创板。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 17 Aug 2026 21:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 宇树科技8月19日上市！</title><link>https://wallstreetcn.com/articles/3779630</link><guid>0bad8439163be8eaa84042bfebaccc5110231ac89039be59d5ec5366094523f4</guid><pubDate>Mon, 17 Aug 2026 20:50:55 GMT</pubDate><description>&lt;p&gt;人形机器人领域的明星企业宇树科技，&lt;strong&gt;将于2026年8月19日正式登陆科创板。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;公司以150.80元/股的发行价完成定价，对应发行后总市值约609.93亿元，发行市盈率高达219倍，&lt;/strong&gt;远超通用设备制造业约38倍的行业平均水平。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;上市初期无限售流通股仅3008.77万股、占总股本的7.44%。&lt;/strong&gt;网上中签率0.0181%创下科创板历史新低。根据衍生品数据，目前预计开盘市值约为416.6亿美元，较其IPO估值高出约360%。&lt;/p&gt;
 &lt;p&gt;公司以人形机器人和四足机器人研发、生产及销售为核心业务，由创始人、董事长兼首席技术官王兴兴掌舵，通过特别表决权安排，其上市后合计控制公司约65.31%的表决权。&lt;/p&gt;
@@ -120,33 +120,7 @@ Rubin开始出货，真正影响可能在明年
 &lt;p&gt;“一个吉利”能否真正落地，关键不在于共享平台和品牌数量，而在于技术、采购、供应链、渠道和售后等资源能否在实际经营中减少重复投入，并最终转化为上市公司的效率和业绩。&lt;/p&gt;
 &lt;p&gt;这也是“做大做强吉利汽车，回报广大股东”的现实落点。吉利希望通过集中资源、明确权责和提高协同效率，让集团汽车业务更多地在上市公司层面体现。对股东而言，最终需要看到的不是组织架构本身，而是上市公司的经营结果、资源使用效率和治理透明度。&lt;/p&gt;
 &lt;p&gt;从行业现状看，国内不少民营车企仍带有强烈的创始人色彩，创业者通常同时掌握股权、战略方向和日常经营。吉利此次调整的特殊之处在于，李书福保留控股股东和控股集团董事长身份，但上市公司的董事会和经营层开始由内部培养的职业经理人负责。&lt;/p&gt;
-&lt;p&gt;这意味着，吉利正在把企业传承从人选安排推进到治理安排。创始人保留集团层面的战略掌控，职业经理人负责上市公司的董事会与日常经营，这为仍由创业者亲自站在经营一线的民营车企，提供了一个新的治理观察样本。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI高管接连离职引担忧，总裁“灭火”：其实很正常，只是我们太受关注</title><link>https://wallstreetcn.com/articles/3779640</link><guid>95287c5cc76d4301068e86429341ec9cdf0343042c656365e5bf131898d16fe1</guid><pubDate>Mon, 17 Aug 2026 20:05:58 GMT</pubDate><description>&lt;p&gt;OpenAI联合创始人兼总裁Greg Brockman周一表示，近期公司高管接连离职并不罕见，公司业务增长势头依然强劲，并正积极应对一起涉及旗下AI模型的网络安全事件。&lt;/p&gt;
-&lt;p&gt;Brockman在接受采访时表示&lt;strong&gt;，OpenAI&amp;quot;处于高度关注之下，因此每一次离职都会受到异常严格的审视&amp;quot;，他认为这波人事变动&amp;quot;实际上并不算异常&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;过去数周，OpenAI收入负责人Denise Dresser在任职仅八个月后突然离职，紧随其后的是效力公司长达八年的执行官Brad Lightcap宣布离开，此前产品与业务负责人Fidji Simo亦已因病请辞。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;密集的高管出走引发外界对这家估值8520亿美元的AI巨头内部稳定性的担忧。&lt;/p&gt;
-&lt;p&gt;与此同时，OpenAI披露其AI模型卷入一起&amp;quot;前所未有的网络安全事件&amp;quot;，模型在测试环境中突破隔离限制，最终访问了开源开发者平台Hugging Face。&lt;/p&gt;
-
-近期OpenAI多位高管离职
-
-&lt;p&gt;本轮人事变动涵盖多位核心高管。Dresser原本负责领导OpenAI企业业务部门的扩张，该业务被视为公司高利润率业务线，直接对标竞争对手Anthropic。她的离职发生在Lightcap宣布出走两天之后。&lt;/p&gt;
-&lt;p&gt;此前，今年4月OpenAI已宣布Lightcap从首席运营官职位转向负责&amp;quot;特别项目&amp;quot;，Dresser在彼时接手了其部分职能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI随后任命Dali Rajic为新任首席营收官。Rajic此前担任网络安全公司Wiz的首席运营官，该公司已于今年早些时候以320亿美元被谷歌收购。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fidji Simo上月宣布因&amp;quot;慢性疾病严重恶化&amp;quot;而请辞，&lt;strong&gt;Brockman正式接手其产品与业务负责人职责，意味着他目前统管公司最重要、最具盈利潜力的业务线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Brockman在周一采访中强调，领导层的连续性是公司的核心支柱。&amp;quot;不同阶段会有不同的领导团队，但我是一个常量，Sam也是一个常量，我认为正是这种韧性和多样性让我们更加强大。&amp;quot;&lt;/p&gt;
-
-业务增速强劲，IPO准备推进中
-
-&lt;p&gt;尽管人事动荡，OpenAI公布的财务数据显示业务扩张势头不减。&lt;/p&gt;
-&lt;p&gt;Brockman与首席财务官Sarah Friar上周五在投资者会议上透露，OpenAI 7月份的年化营收环比增长20%，企业客户增速更达32%。Brockman周一对上述数据予以确认。&lt;/p&gt;
-&lt;p&gt;OpenAI已于6月向美国证券交易委员会（SEC）秘密提交上市招股说明书，但公司尚未对外披露具体挂牌时间。&lt;/p&gt;
-&lt;p&gt;目前公司估值为8520亿美元，市场普遍预期其IPO将成为近年来规模最大的科技股上市案例之一。&lt;/p&gt;
-
-AI模型越界事件引发安全关注
-
-&lt;p&gt;安全层面，OpenAI披露，旗下AI模型在7月发生了一起被其定性为&amp;quot;前所未有&amp;quot;的网络安全事件。&lt;/p&gt;
-&lt;p&gt;模型从受限的隔离测试环境出逃，通过串联多个漏洞突破至开放网络，并最终访问了开源平台Hugging Face，在业界引发广泛震动。&lt;/p&gt;
-&lt;p&gt;Brockman表示，公司正&amp;quot;极为认真地&amp;quot;对待这一事件，并已发布博客文章，协助外部机构了解防御措施。&lt;/p&gt;
-&lt;p&gt;&amp;quot;有时候我们所看到的是积极信号，有时候则是风险预警，&amp;quot;他说，&amp;quot;这一次，系统与外部世界的交互方式让我们感到意外，但我们同样认为，这是必须向外界提供的重要信息。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 30年期美债收益率创2007年来新高，8月美国投资级债券发行创同期新高</title><link>https://wallstreetcn.com/articles/3779638</link><guid>5ef616cc3110e8ff1ed8eb92ebb04e9e816545d0ce7f90119f6d5d0c843d5171</guid><pubDate>Mon, 17 Aug 2026 19:13:17 GMT</pubDate><description>&lt;p&gt;美国国债长端收益率持续走高，折射出市场对财政赤字扩张、长期通胀风险及美联储政策路径的深层忧虑。&lt;/p&gt;
+&lt;p&gt;这意味着，吉利正在把企业传承从人选安排推进到治理安排。创始人保留集团层面的战略掌控，职业经理人负责上市公司的董事会与日常经营，这为仍由创业者亲自站在经营一线的民营车企，提供了一个新的治理观察样本。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 30年期美债收益率创2007年来新高，8月美国投资级债券发行创同期新高</title><link>https://wallstreetcn.com/articles/3779638</link><guid>5ef616cc3110e8ff1ed8eb92ebb04e9e816545d0ce7f90119f6d5d0c843d5171</guid><pubDate>Mon, 17 Aug 2026 19:13:17 GMT</pubDate><description>&lt;p&gt;美国国债长端收益率持续走高，折射出市场对财政赤字扩张、长期通胀风险及美联储政策路径的深层忧虑。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;30年期美债收益率周一升破5.31%，创2007年6月以来最高水平，延续上周的抛售势头。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;就在此前，美国财政部以5.216%的收益率完成250亿美元30年期国债拍卖，为2001年以来同类拍卖的最高利率；10年期拍卖利率亦触及2007年以来峰值。&lt;/p&gt;
@@ -298,4 +272,21 @@ AI存储需求从“倚重英伟达”走向“多元分散”
 &lt;p&gt;上半年，今世缘经营活动现金流净额16.16亿元，同比增长50.31%。公司解释称，主要由于预收客户货款同比增加，以及所得税现金支出同比减少。&lt;/p&gt;
 &lt;p&gt;但同期，公司销售商品、提供劳务收到的现金为65.95亿元，低于去年同期的67.00亿元，整体销售回款并未增长。渠道仍更像是结构性分化，而非全面恢复补库。&lt;/p&gt;
 &lt;p&gt;费用端也体现出调整期的收缩。上半年今世缘销售费用9.33亿元，同比下降9.43%，管理费用同比下降12.55%；营业成本同比下降9.97%，降幅快于收入。&lt;/p&gt;
-&lt;p&gt;对今世缘而言，二季度修复能否延续，仍取决于江苏基本盘的终端动销、渠道库存和价盘能否同步改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 一文看清：红利、低波、现金流ETF，附清单（08.17）</title><link>http://xueqiu.com/9391624441/405263329</link><guid>426dff13539bd7a378c8b5f5ebe585859f4cc635fb148035d07a89afe01cd9e2</guid><pubDate>Mon, 17 Aug 2026 10:41:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;上一期红利数据发布时（06.29），正处市场割裂行情的顶点，当时红利、低波、现金流类指数大都有较大回撤。&lt;/p&gt;</description></item><item><title>[今日雪球] 磷化铟产业研究：需求，产能与价格</title><link>http://xueqiu.com/3576712780/405227104</link><guid>dba61c5673f8b7d4c825986eae276b4ef78c748185543229859ac4bee9c8bf02</guid><pubDate>Mon, 17 Aug 2026 10:41:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;调研爱好者&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年以来，关于磷化铟的供需一直讨论度很高，AXT基本从高位的143跌下来到36，又在财报后很快涨到60。磷化铟今年以来宣布要做的公司又很多（宿迁联盛、兴业科技），大家对磷化铟过剩的讨论在增加。刚好AXTI的二季报出来，目前规划要做的公司也都陆续有信息了，可以重新在现在这个时间点去梳理一下磷化铟的产能和需求到底是多少。&lt;/p&gt;</description></item><item><title>[今日雪球] 回看行情满眼皆是机会，身在局中处处是难关：投资的确定性，源自基本面</title><link>http://xueqiu.com/9498737718/405239858</link><guid>3c31c167e4efdcc95d2629c5ba5199590c9fc3a3589fb2427d00fa47d1129a4b</guid><pubDate>Mon, 17 Aug 2026 10:41:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;厚恩投资张延昆&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;很多人回头翻看过去的行情，总觉得股市赚钱是一件很简单的事情。对着过往的K线，哪里是低点，哪里是高点，看得清清楚楚。仿佛低点买入，高点卖出，轻轻松松就能赚几倍，甚至拿到十倍收益。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对今世缘而言，二季度修复能否延续，仍取决于江苏基本盘的终端动销、渠道库存和价盘能否同步改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 锅圈下调开店目标，“社区央厨”继续算店效账</title><link>https://wallstreetcn.com/articles/3779628</link><guid>bb631cb36b13177d5f37dcde0466704f0765a4888a379a3cef18f10a6541b89a</guid><pubDate>Mon, 17 Aug 2026 12:00:40 GMT</pubDate><description>&lt;p&gt;立志成为“社区央厨”的锅圈还在继续修整门店模型。&lt;/p&gt;
+&lt;p&gt;8月17日，锅圈披露2026年中报。上半年实现收入39.47亿元，同比增长21.8%；核心经营利润2.25亿元，同比增长18.3%。&lt;/p&gt;
+&lt;p&gt;但毛利率由去年同期的22.1%下降至21.5%，净利率也由5.9%降至5.4%。&lt;/p&gt;
+&lt;p&gt;截至6月底，锅圈拥有12198家门店，上半年新开997家、关闭365家，净增632家。与此同时，公司已经完成684家门店的大店模式升级。&lt;/p&gt;
+&lt;p&gt;相比业绩增速，更值得关注的是锅圈对全年开店目标的调整。&lt;/p&gt;
+&lt;p&gt;最新中报显示，锅圈将目标调整为年底门店超过13100家、全年净增超过1534家，较年初目标减少约1400家。&lt;/p&gt;
+&lt;p&gt;公司仍预计关店率低于4%，但明确提出，下半年新增门店将以大店模式为主。&lt;/p&gt;
+&lt;p&gt;相比继续向更低线市场铺店，锅圈正在给现有门店装入更多东西。&lt;/p&gt;
+&lt;p&gt;上半年，公司推出139个火锅及烧烤新品SKU，同时增加NFC果汁、精酿啤酒、风味茶饮等产品。&lt;/p&gt;
+&lt;p&gt;其中，“锅圈农场”是锅圈向更高频家庭食品消费延伸的新业务，主要通过线上选品和直播引流，覆盖水果、生鲜、蛋品、冰品等过去不属于火锅烧烤核心货盘的商品。&lt;/p&gt;
+&lt;p&gt;上半年，锅圈农场全渠道已付GMV达到2.4亿元，同比增长超过600%，金枕榴莲果肉、榴莲千层、海鸭蛋等成为代表性产品。&lt;/p&gt;
+&lt;p&gt;农场业务的价值并不只是增加一类商品，而是利用水果、生鲜等更高频商品把消费者重新带回门店，再产生火锅、烧烤等关联消费。&lt;/p&gt;
+&lt;p&gt;但新品类带来的增长也有代价。&lt;/p&gt;
+&lt;p&gt;锅圈上半年毛利率下降0.6个百分点至21.5%。公司直接将原因指向金枕榴莲果肉等非传统火锅烧烤商品毛利率较低，以及部分原材料价格上涨。&lt;/p&gt;
+&lt;p&gt;与此同时，大店改造也推高了费用：上半年销售及分销开支同比增加24.6%，公司称其中包括新增的大店调改费用。&lt;/p&gt;
+&lt;p&gt;目前锅圈仍准备继续拓宽边界。除了乡镇大店和社区大店，公司上半年已有96个露营网点营业，未来还计划继续推进锅圈小炒；海外则将中国香港作为门店经营试点。&lt;/p&gt;
+&lt;p&gt;下半年，它仍然要开店，但衡量这轮扩张的关键已经不只是门店数量。&lt;/p&gt;
+&lt;p&gt;当锅圈从一家火锅烧烤食材店变成越来越大的“社区央厨”，能否用更多品类持续提高老店店效，同时控制新品类和大店扩张带来的毛利压力，会比多开一千家门店更重要。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 一文看清：红利、低波、现金流ETF，附清单（08.17）</title><link>http://xueqiu.com/9391624441/405263329</link><guid>426dff13539bd7a378c8b5f5ebe585859f4cc635fb148035d07a89afe01cd9e2</guid><pubDate>Mon, 17 Aug 2026 10:41:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;上一期红利数据发布时（06.29），正处市场割裂行情的顶点，当时红利、低波、现金流类指数大都有较大回撤。&lt;/p&gt;</description></item><item><title>[今日雪球] 磷化铟产业研究：需求，产能与价格</title><link>http://xueqiu.com/3576712780/405227104</link><guid>dba61c5673f8b7d4c825986eae276b4ef78c748185543229859ac4bee9c8bf02</guid><pubDate>Mon, 17 Aug 2026 10:41:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;调研爱好者&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年以来，关于磷化铟的供需一直讨论度很高，AXT基本从高位的143跌下来到36，又在财报后很快涨到60。磷化铟今年以来宣布要做的公司又很多（宿迁联盛、兴业科技），大家对磷化铟过剩的讨论在增加。刚好AXTI的二季报出来，目前规划要做的公司也都陆续有信息了，可以重新在现在这个时间点去梳理一下磷化铟的产能和需求到底是多少。&lt;/p&gt;</description></item><item><title>[今日雪球] 回看行情满眼皆是机会，身在局中处处是难关：投资的确定性，源自基本面</title><link>http://xueqiu.com/9498737718/405239858</link><guid>3c31c167e4efdcc95d2629c5ba5199590c9fc3a3589fb2427d00fa47d1129a4b</guid><pubDate>Mon, 17 Aug 2026 10:41:59 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;厚恩投资张延昆&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;很多人回头翻看过去的行情，总觉得股市赚钱是一件很简单的事情。对着过往的K线，哪里是低点，哪里是高点，看得清清楚楚。仿佛低点买入，高点卖出，轻轻松松就能赚几倍，甚至拿到十倍收益。&lt;/p&gt;</description></item></channel></rss>
