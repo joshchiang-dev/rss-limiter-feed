@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 01:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] 长鑫市值重回4万亿≈2.5个茅台，AI存储的红利才刚开始？</title><link>https://wallstreetcn.com/articles/3779636</link><guid>c14a7fad0250282429fe13c2255f96c13040ead99bb2fc2101b52496e75479df</guid><pubDate>Mon, 17 Aug 2026 15:12:25 GMT</pubDate><description>&lt;p&gt;长鑫科技市值再次突破4万亿元，登顶A股&amp;quot;市值一哥&amp;quot;，同时超越港股腾讯，这背后是AI驱动的DRAM景气周期、国产替代加速与产能扩张三重逻辑的共振——而分析师认为，这场行情远未到终点。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 02:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 中国AI基础设施的价值洼地：占全球85%的算力流量，仅10%的市场收入</title><link>https://wallstreetcn.com/articles/3779659</link><guid>453bd84ee9541723269c1c5edf80339b4fd20e398d28dd08347260434af49df5</guid><pubDate>Tue, 18 Aug 2026 02:18:48 GMT</pubDate><description>&lt;p&gt;中国AI模型已悄然主导全球算力消耗，但其基础设施的市场估值却与这一体量严重背离——这或许是当前AI投资领域最被忽视的套利机会。&lt;/p&gt;
+&lt;p&gt;据zerohedge周二报道，OpenRouter数据显示，中国开源模型承载了全球85%至89%的智能体与代码生成token流量，但对应的算力消费收入占比仅为10%至16%。换言之，&lt;strong&gt;市场目前定价的是一个10%的变现故事，而其背后支撑的是一个85%的流量现实。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，美国AI算力基础设施的企业价值合计约1750亿美元，中国同类资产仅约200亿美元——单一CoreWeave的市值，足以买下中国头部算力三巨头近四倍。&lt;/p&gt;
+&lt;p&gt;基本面正在出现拐点。GDS（万国数据）刚刚录得上半年创纪录的470兆瓦新签预订量，并上调全年业绩指引，同时恢复盈利；VNET（世纪互联）将于8月18日发布财报。估值洼地已然存在，基本面的向上拐折正在成为催化剂。&lt;/p&gt;
+流量领先，变现滞后
+&lt;p&gt;中国开源模型在全球AI使用量中的主导地位，已超出多数投资者的认知。&lt;/p&gt;
+&lt;p&gt;在OpenRouter平台——目前追踪开源模型使用情况最具代表性的公开数据源——中国模型承载了全球85%至89%的智能体任务与代码生成token流量，但对应收入占比仅为10%至16%。这一剪刀差揭示出一个结构性错位：市场定价反映的是当前变现能力，而非底层流量规模。&lt;/p&gt;
+&lt;p&gt;分发端的数据同样印证了这一趋势。阿里巴巴旗下Qwen模型在过去六个月内累计下载量突破30亿次，超过Meta与谷歌同期下载量之和。&lt;/p&gt;
+&lt;p&gt;这一逻辑的演进路径清晰：&lt;strong&gt;先以规模赢得流量，再以流量驱动变现。&lt;/strong&gt;&lt;/p&gt;
+前沿性能，分数级定价
+&lt;p&gt;高流量并非来自低质量模型的堆砌。中国开源模型已跻身全球顶级代码能力排行榜，Kimi K3目前位居Arena前端代码排名榜首，Qwen 3.8 Max紧随其后。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而在定价上，中国前沿模型的API调用费用约为每百万token 0.20至2.30美元，而美国头部模型的对应价格为4至8美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一价差正在收窄。智谱AI（Zhipu）年初至今已累计提价约110%，并指引年化经常性收入（ARR）从2.5亿美元增长至年底约10亿美元。&lt;/p&gt;
+&lt;p&gt;定价策略的逻辑与流量策略一脉相承：先以低价锁定用户，再逐步提升货币化率。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+算力约束的方向正在对调
+&lt;p&gt;此前看空中国AI的核心逻辑是：缺乏顶级芯片，无法参与前沿模型竞赛。这一约束正在松动。&lt;/p&gt;
+&lt;p&gt;美团旗下LongCat 2.0已完全基于5万张华为Atlas 950芯片完成端到端训练。据高盛预测，中国AI芯片自给率将从当前的42%提升至2030年的约70%。&lt;/p&gt;
+&lt;p&gt;与此同时，美国的约束方向恰好相反。高盛预计，美国可用电力冗余容量将在2030年收缩至约130吉瓦，而中国同期将扩张至约400吉瓦。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;芯片差距在缩小，电力差距在扩大。&lt;/strong&gt;&lt;/p&gt;
+估值错位：一个CoreWeave买下中国四倍
+&lt;p&gt;估值差距在具体数字面前更为直观。&lt;/p&gt;
+&lt;p&gt;美国AI算力企业的市值区间约为90亿至750亿美元，中国同类企业仅为20亿至70亿美元。以企业价值计，美国约1750亿美元，中国约200亿美元。&lt;/p&gt;
+&lt;p&gt;单以CoreWeave的市值，可以买下中国头部算力三家公司近四倍。&lt;/p&gt;
+&lt;p&gt;收入层面的对比同样耐人寻味。Applied Digital（APLD）年收入仅数亿美元，市值却高于指引年收入约17亿美元的GDS。&lt;/p&gt;
+&lt;p&gt;同样是AI基础设施建设周期，定价却截然不同。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+买基础设施，而非模型本身
+&lt;p&gt;这一错位在产业链上移一层后同样存在，且方向更为极端。&lt;/p&gt;
+&lt;p&gt;投资者愿意为智谱AI等中国模型实验室支付约177倍经常性收入的估值，而托管这些模型的阿里巴巴、腾讯等基础设施层，市盈率仅约15至17倍。&lt;/p&gt;
+&lt;p&gt;每一个增量token，最终都需要算力来承载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以177倍买模型，不如以15倍持有向所有模型收取&amp;quot;租金&amp;quot;的基础设施层。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;廉价本身不构成投资逻辑，需要基本面的配合。GDS刚刚公布上半年创纪录的470兆瓦新签预订量，另有600兆瓦处于预留状态，同时上调业绩指引并恢复盈利。VNET将于8月18日发布财报，届时将提供进一步的基本面验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长鑫市值重回4万亿≈2.5个茅台，AI存储的红利才刚开始？</title><link>https://wallstreetcn.com/articles/3779636</link><guid>c14a7fad0250282429fe13c2255f96c13040ead99bb2fc2101b52496e75479df</guid><pubDate>Mon, 17 Aug 2026 15:12:25 GMT</pubDate><description>&lt;p&gt;长鑫科技市值再次突破4万亿元，登顶A股&amp;quot;市值一哥&amp;quot;，同时超越港股腾讯，这背后是AI驱动的DRAM景气周期、国产替代加速与产能扩张三重逻辑的共振——而分析师认为，这场行情远未到终点。&lt;/p&gt;
 &lt;p&gt;8月17日，长鑫科技收涨12%，股价创新高，总市值再次突破4万亿元，约为昔日“股王”贵州茅台总市值的2.5倍。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;华创证券首次覆盖给予&amp;quot;强推&amp;quot;评级，目标价72.97元；国盛证券首次覆盖给予&amp;quot;买入&amp;quot;评级。&lt;strong&gt;两家机构均指出，公司正处于国产替代、AI算力扩张与存储周期上行和产能扩张三重共振阶段，成长确定性显著强化。&lt;/strong&gt;&lt;/p&gt;
@@ -33,50 +65,7 @@
 &lt;p&gt;在估值层面，华创证券参考海外存储类可比公司（美光、闪迪、西部数据、希捷科技）27年PE均值9.88倍，以及晶圆代工/IDM模式可比公司（台积电、中芯国际、华润微）27年PE均值69.63倍。&lt;/p&gt;
 &lt;p&gt;综合考虑公司稀缺性及国产替代空间，给予长鑫科技27年20倍PE，目标价72.97元。&lt;/p&gt;
 &lt;p&gt;国盛证券则以三星电子、SK海力士、美光科技为可比公司，2026至2028年可比公司平均PE为9/5/5倍，认为长鑫科技享有显著的国产替代溢价。&lt;/p&gt;
-&lt;p&gt;风险方面，两家机构均提示DRAM行业的强周期属性——历史上头部厂商集中扩产往往导致供给过剩，行业随即进入下行周期，价格波动可能对公司盈利造成较大冲击。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行</title><link>https://wallstreetcn.com/articles/3779638</link><guid>5ef616cc3110e8ff1ed8eb92ebb04e9e816545d0ce7f90119f6d5d0c843d5171</guid><pubDate>Mon, 17 Aug 2026 23:15:30 GMT</pubDate><description>&lt;p&gt;美国国债长端收益率持续走高，折射出市场对财政赤字扩张、长期通胀风险及美联储政策路径的深层忧虑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周一，30年期美债收益率收盘报5.310%，创下2007年6月以来最高收盘水平。与此同时，美国基准原油WTI当日上涨2.6%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，30年期收益率已连续30个交易日站上5%关口。StoneX欧非中东地区利率业务主管Shriya Samarth表示，油价走势表明&amp;quot;通胀将以某种形式长期存在&amp;quot;，市场将不得不重新适应这一交易环境。&lt;/p&gt;
-&lt;p&gt;收益率上行已向实体经济传导，推高按揭贷款及其他信贷成本。特朗普政府官员去年初曾预言财政政策将压低长端利率，但市场走势与此判断背道而驰。与此同时，加拿大30年期国债收益率升至2010年以来最高，欧洲债市亦出现联动。&lt;/p&gt;
-
-油价与长端利率高度联动，通胀预期重燃
-
-&lt;p&gt;通常情况下，油价上涨会推升短端利率，原因是市场预期美联储将加息或推迟降息以遏制通胀。然而，近期长端美债对油价的敏感度显著上升，这一转变值得市场关注。&lt;/p&gt;
-&lt;p&gt;数据显示，截至上周五，WTI原油与30年期收益率的10日相关系数达到0.85，10年期收益率与WTI的相关系数同样高达0.87。而在7月23日前后，上述相关系数均接近零，意味着两者之间此前几乎不存在统计意义上的联动关系。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关性在短期内从接近零骤升至0.85以上，反映出市场定价逻辑正在发生深层转变。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Shriya Samarth认为，&lt;strong&gt;这一现象表明，油价正在成为市场判断通胀走向的核心变量，而非短期扰动因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，也有分析人士指出，当前油价绝对水平并不构成直接威胁——WTI目前报每桶84.50美元，远低于4月间每桶112.95美元的高点。此外，上周五公布的零售销售数据偏软，7月薪资增速数据亦较为温和，理论上应压低市场对通胀传导风险的定价。&lt;/p&gt;
-&lt;p&gt;然而，BMO资本市场美国利率策略主管Ian Lyngen指出，&amp;quot;即便宏观数据的总体轨迹已出现改善，市场仍不愿将收益率明显压低。&amp;quot;他补充称，&amp;quot;能源板块依然是触发债市进一步下行的潜在催化剂。&amp;quot;&lt;/p&gt;
-
-供给压力高企，期限溢价升至近年高位
-
-&lt;p&gt;除油价因素外，国债供给的持续放量正成为压制债市的另一核心变量。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;上周，投资者需消化高达1250亿美元的中长期美国国债。大规模的债务融资需求，推高了市场要求的期限溢价——即投资者持有较高风险的长期债券相对于短期债券所要求的额外回报。截至上周三，期限溢价升至0.83%，接近2026年高点区间的上沿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;22V Research经济学家Gerard MacDonell表示，&amp;quot;债务规模越大，意味着债券市场需要消化的久期供给越多，在其他条件不变的情况下，这意味着市场要求的超额回报——即期限溢价——将相应上升。&amp;quot;&lt;/p&gt;
-&lt;p&gt;期限溢价的抬升在结构上具有一定粘性，不会因单次数据改善而迅速回落，这也意味着长端利率的上行压力并非短期现象。&lt;/p&gt;
-&lt;strong&gt;美国高评级债券发行量创8月历史新高&lt;/strong&gt;
-&lt;p&gt;美国投资级债券发行量连续第三个月刷新月度纪录。随着企业持续加大对人工智能基础设施建设的投入，公司融资需求不断上升，美国高评级债券市场正以历史最快速度发行债券。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;根据彭博汇编的数据，截至8月17日，8月美国高评级债券发行量已达到1452亿美元，超过2020年8月创下的1360亿美元月度纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今年以来，美国投资级债券累计发行规模达到1.46万亿美元，较2020年同期高出8.5%。2020年，由于疫情推动企业大量融资，美国投资级债券发行全年创下历史纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;科技公司成为主要融资力量。数据显示，8月债券发行的最大单笔交易来自Alphabet，其发行规模达到250亿美元。&lt;/p&gt;
-&lt;p&gt;这也是今年以来第8笔规模达到或超过250亿美元的美国投资级债券发行，而且这8笔大型交易全部来自科技公司。&lt;/p&gt;
-&lt;p&gt;未来科技企业的融资需求仍可能进一步增加。摩根大通近期将其对2026年科技、媒体和电信（TMT）企业美元债发行规模的预测上调约20%至5400亿美元。&lt;/p&gt;
-&lt;strong&gt;多重压力叠加，长端利率易升难降&lt;/strong&gt;
-&lt;p&gt;此轮长端抛售并非单一因素驱动。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美国联邦政府近2万亿美元的年度财政赤字持续推升国债供给，而企业为支撑人工智能投资热潮大规模发债，进一步加剧长久期债券市场的供需失衡。与此同时，传统长债买家需求萎缩，加剧了市场消化压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;巴克莱利率策略主管Anshul Pradhan表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们一直建议不要轻易押注长端抛售终结，这一立场未有改变。若想对长端持乐观看法，需要同时具备财政超预期收缩、人工智能相关发债放缓、财政部发债策略调整，以及经济数据持续走软等多重条件的组合。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Citadel Securities欧洲、中东和非洲地区固定收益销售主管Nohshad Shah在客户报告中指出，尽管政策利率已较峰值低175个基点，长端收益率仍维持近20年高位。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;这在我看来反映了市场的判断：无论是美联储还是财政当局，面对艰难抉择时往往倾向于走更轻松的路。只要这种预期持续存在，就将对整个市场构成风险。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;strong&gt;全球共振，资产配置逻辑重估&lt;/strong&gt;
-&lt;p&gt;此轮长端利率上行已演变为全球性现象，各国投资者均在要求更高溢价以对冲持续通胀风险。&lt;/p&gt;
-&lt;p&gt;加拿大、欧洲债市均出现联动，显示全球债券市场的结构性重定价仍在进行。&lt;/p&gt;
-&lt;p&gt;Shah就人工智能投资趋势指出，他认为投资逻辑正从前沿模型开发转向云基础设施，微软、谷歌等超大规模云服务商有望通过算力、推理和分发能力实现AI货币化，相比OpenAI、Anthropic等前沿AI开发商，可提供更为清晰的回报预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美联储2%通胀目标对应的个人消费支出价格指数7月读数将于8月26日公布，届时将为市场提供进一步的政策方向参考。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻</title><link>https://wallstreetcn.com/articles/3779635</link><guid>b81ad5aee2e34e865e56c71ed27b88e21e9a78c415351e3c8dbb1f6557164e4e</guid><pubDate>Mon, 17 Aug 2026 23:54:43 GMT</pubDate><description>&lt;p&gt;美伊停火协议窗口期周一到期，双方谈判仍陷入僵局。与此同时，特朗普将矛头指向长期承担美伊斡旋角色的阿曼。&lt;/p&gt;
+&lt;p&gt;风险方面，两家机构均提示DRAM行业的强周期属性——历史上头部厂商集中扩产往往导致供给过剩，行业随即进入下行周期，价格波动可能对公司盈利造成较大冲击。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻</title><link>https://wallstreetcn.com/articles/3779635</link><guid>b81ad5aee2e34e865e56c71ed27b88e21e9a78c415351e3c8dbb1f6557164e4e</guid><pubDate>Mon, 17 Aug 2026 23:54:43 GMT</pubDate><description>&lt;p&gt;美伊停火协议窗口期周一到期，双方谈判仍陷入僵局。与此同时，特朗普将矛头指向长期承担美伊斡旋角色的阿曼。&lt;/p&gt;
 &lt;p&gt;据央视新闻， 当地时间8月17日，美国总统特朗普&lt;strong&gt;明确表示不寻求延长与伊朗的谅解备忘录&lt;/strong&gt;，并称&lt;strong&gt;解决伊朗问题&amp;quot;没有时间表&amp;quot;，他&amp;quot;并不着急&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此外，特朗普指出如果阿曼“阻碍美国重新开放霍尔木兹海峡、结束伊朗战争的努力”，美国将对阿曼实施轰炸。据悉，&lt;strong&gt;特朗普表示：“如果阿曼阻碍我们，我们将狠狠轰炸他们。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;特朗普重申，美方&amp;quot;控制&amp;quot;霍尔木兹海峡，并将该战略水道定性为美方&amp;quot;领土&amp;quot;范畴内的&amp;quot;想法&amp;quot;。他强调伊朗&amp;quot;绝不能以任何方式、任何形式拥有核武器&amp;quot;，但承认伊朗&amp;quot;不会达成他认为必要的那种协议&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
@@ -145,104 +134,135 @@
 &lt;p&gt;宇树科技过去两年的财务数据呈现出爆发式增长。公司2023年至2025年营业收入的两年复合增长率达226.78%，由2023年的约1.59亿元跃升至2025年的约16.99亿元；同期主营业务毛利率由44.22%提升至60.13%，扣非后归母净利润亦由亏损约1802万元增长至约5.91亿元。&lt;/p&gt;
 &lt;p&gt;然而，进入2026年后增长有所放缓。2026年一季度，公司营收同比增速降至68.49%，扣非后净利润同比下降52.55%，公司将其归因于期间费用的较快增长。&lt;/p&gt;
 &lt;p&gt;2026年上半年，公司实现营收约11.52亿元，同比增长48.54%，但扣非后净利润约2.44亿元，同比下降19.34%。半年报显示，研发费用同比增加约8204万元，销售费用亦大幅上升，公司将后者部分归因于借助2026年央视春晚等平台开展品牌推广。&lt;/p&gt;
-&lt;p&gt;招股文件指出，上述下滑趋势的潜在成因包括：行业热度逐步缓和、市场竞争日趋激烈、产品价格面临下行压力，以及通用机器人商业化进度的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cursor一夜“干掉了”GitHub</title><link>https://wallstreetcn.com/articles/3779651</link><guid>4c431e537b8013097dc570c815286fa02b969510522c178a4f6e9d40ac59cff1</guid><pubDate>Tue, 18 Aug 2026 00:38:02 GMT</pubDate><description>&lt;p&gt;今天，全球程序员集体经历了一场「荒诞剧」。&lt;/p&gt;
-&lt;p&gt;美东时间上午9点40分，GitHub全面瘫痪，连带Copilot全线阵亡。&lt;/p&gt;
-&lt;p&gt;整整7个小时，核心服务瘫痪长达3小时，码农们直接停摆，代码拉不下、AI用不了.....&lt;/p&gt;
+&lt;p&gt;招股文件指出，上述下滑趋势的潜在成因包括：行业热度逐步缓和、市场竞争日趋激烈、产品价格面临下行压力，以及通用机器人商业化进度的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行</title><link>https://wallstreetcn.com/articles/3779638</link><guid>5ef616cc3110e8ff1ed8eb92ebb04e9e816545d0ce7f90119f6d5d0c843d5171</guid><pubDate>Mon, 17 Aug 2026 23:15:30 GMT</pubDate><description>&lt;p&gt;美国国债长端收益率持续走高，折射出市场对财政赤字扩张、长期通胀风险及美联储政策路径的深层忧虑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周一，30年期美债收益率收盘报5.310%，创下2007年6月以来最高收盘水平。与此同时，美国基准原油WTI当日上涨2.6%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，30年期收益率已连续30个交易日站上5%关口。StoneX欧非中东地区利率业务主管Shriya Samarth表示，油价走势表明&amp;quot;通胀将以某种形式长期存在&amp;quot;，市场将不得不重新适应这一交易环境。&lt;/p&gt;
+&lt;p&gt;收益率上行已向实体经济传导，推高按揭贷款及其他信贷成本。特朗普政府官员去年初曾预言财政政策将压低长端利率，但市场走势与此判断背道而驰。与此同时，加拿大30年期国债收益率升至2010年以来最高，欧洲债市亦出现联动。&lt;/p&gt;
+
+油价与长端利率高度联动，通胀预期重燃
+
+&lt;p&gt;通常情况下，油价上涨会推升短端利率，原因是市场预期美联储将加息或推迟降息以遏制通胀。然而，近期长端美债对油价的敏感度显著上升，这一转变值得市场关注。&lt;/p&gt;
+&lt;p&gt;数据显示，截至上周五，WTI原油与30年期收益率的10日相关系数达到0.85，10年期收益率与WTI的相关系数同样高达0.87。而在7月23日前后，上述相关系数均接近零，意味着两者之间此前几乎不存在统计意义上的联动关系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关性在短期内从接近零骤升至0.85以上，反映出市场定价逻辑正在发生深层转变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shriya Samarth认为，&lt;strong&gt;这一现象表明，油价正在成为市场判断通胀走向的核心变量，而非短期扰动因素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，也有分析人士指出，当前油价绝对水平并不构成直接威胁——WTI目前报每桶84.50美元，远低于4月间每桶112.95美元的高点。此外，上周五公布的零售销售数据偏软，7月薪资增速数据亦较为温和，理论上应压低市场对通胀传导风险的定价。&lt;/p&gt;
+&lt;p&gt;然而，BMO资本市场美国利率策略主管Ian Lyngen指出，&amp;quot;即便宏观数据的总体轨迹已出现改善，市场仍不愿将收益率明显压低。&amp;quot;他补充称，&amp;quot;能源板块依然是触发债市进一步下行的潜在催化剂。&amp;quot;&lt;/p&gt;
+
+供给压力高企，期限溢价升至近年高位
+
+&lt;p&gt;除油价因素外，国债供给的持续放量正成为压制债市的另一核心变量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上周，投资者需消化高达1250亿美元的中长期美国国债。大规模的债务融资需求，推高了市场要求的期限溢价——即投资者持有较高风险的长期债券相对于短期债券所要求的额外回报。截至上周三，期限溢价升至0.83%，接近2026年高点区间的上沿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;22V Research经济学家Gerard MacDonell表示，&amp;quot;债务规模越大，意味着债券市场需要消化的久期供给越多，在其他条件不变的情况下，这意味着市场要求的超额回报——即期限溢价——将相应上升。&amp;quot;&lt;/p&gt;
+&lt;p&gt;期限溢价的抬升在结构上具有一定粘性，不会因单次数据改善而迅速回落，这也意味着长端利率的上行压力并非短期现象。&lt;/p&gt;
+&lt;strong&gt;美国高评级债券发行量创8月历史新高&lt;/strong&gt;
+&lt;p&gt;美国投资级债券发行量连续第三个月刷新月度纪录。随着企业持续加大对人工智能基础设施建设的投入，公司融资需求不断上升，美国高评级债券市场正以历史最快速度发行债券。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;根据彭博汇编的数据，截至8月17日，8月美国高评级债券发行量已达到1452亿美元，超过2020年8月创下的1360亿美元月度纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今年以来，美国投资级债券累计发行规模达到1.46万亿美元，较2020年同期高出8.5%。2020年，由于疫情推动企业大量融资，美国投资级债券发行全年创下历史纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科技公司成为主要融资力量。数据显示，8月债券发行的最大单笔交易来自Alphabet，其发行规模达到250亿美元。&lt;/p&gt;
+&lt;p&gt;这也是今年以来第8笔规模达到或超过250亿美元的美国投资级债券发行，而且这8笔大型交易全部来自科技公司。&lt;/p&gt;
+&lt;p&gt;未来科技企业的融资需求仍可能进一步增加。摩根大通近期将其对2026年科技、媒体和电信（TMT）企业美元债发行规模的预测上调约20%至5400亿美元。&lt;/p&gt;
+&lt;strong&gt;多重压力叠加，长端利率易升难降&lt;/strong&gt;
+&lt;p&gt;此轮长端抛售并非单一因素驱动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国联邦政府近2万亿美元的年度财政赤字持续推升国债供给，而企业为支撑人工智能投资热潮大规模发债，进一步加剧长久期债券市场的供需失衡。与此同时，传统长债买家需求萎缩，加剧了市场消化压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;巴克莱利率策略主管Anshul Pradhan表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们一直建议不要轻易押注长端抛售终结，这一立场未有改变。若想对长端持乐观看法，需要同时具备财政超预期收缩、人工智能相关发债放缓、财政部发债策略调整，以及经济数据持续走软等多重条件的组合。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Citadel Securities欧洲、中东和非洲地区固定收益销售主管Nohshad Shah在客户报告中指出，尽管政策利率已较峰值低175个基点，长端收益率仍维持近20年高位。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;这在我看来反映了市场的判断：无论是美联储还是财政当局，面对艰难抉择时往往倾向于走更轻松的路。只要这种预期持续存在，就将对整个市场构成风险。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;strong&gt;全球共振，资产配置逻辑重估&lt;/strong&gt;
+&lt;p&gt;此轮长端利率上行已演变为全球性现象，各国投资者均在要求更高溢价以对冲持续通胀风险。&lt;/p&gt;
+&lt;p&gt;加拿大、欧洲债市均出现联动，显示全球债券市场的结构性重定价仍在进行。&lt;/p&gt;
+&lt;p&gt;Shah就人工智能投资趋势指出，他认为投资逻辑正从前沿模型开发转向云基础设施，微软、谷歌等超大规模云服务商有望通过算力、推理和分发能力实现AI货币化，相比OpenAI、Anthropic等前沿AI开发商，可提供更为清晰的回报预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美联储2%通胀目标对应的个人消费支出价格指数7月读数将于8月26日公布，届时将为市场提供进一步的政策方向参考。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指早盘齐跌，半导体硅片活跃，频准激光上市首日暴涨超500%，恒科指跌超1%，AI大模型双雄重挫</title><link>https://wallstreetcn.com/articles/3779668</link><guid>742db947560d7f20c4d8ba2591b1477b82867b6c0a8823cec88ce4206e6051e5</guid><pubDate>Tue, 18 Aug 2026 02:10:10 GMT</pubDate><description>&lt;p&gt;8月18日，A股震荡下跌，三大股指早盘齐跌，创业板跌近1%，半导体产业链局部活跃，半导体硅片概念股拉升，玻璃基板概念股走强，农业板块大涨，能源设备、石油天然气、煤炭、海运等板块上涨，AI应用、航天军工、生物科技等板块陷入调整。频准激光IPO首日开盘暴涨近500%，单签浮盈约45.66万元，创新股首日收益历史纪录。&lt;/p&gt;
+&lt;p&gt;港股低开低走，恒指、恒科指双双下跌，恒科指跌超1%，权重科网股普遍下跌，京东、美团跌超2%。AI大模型双雄重挫，智谱跌超11%，MINIMAX跌近10%。债市方面，国债期货普涨。商品方面，国内商品期货分化，燃油、原油涨幅居前。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.07%，深成指跌0.58%，创业板指跌0.79%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;好巧不巧，就在今天，Cursor正式宣战GitHub！&lt;/p&gt;
-&lt;p&gt;正式并入SpaceXAI后，原班人马甩出了全新&lt;strong&gt;「代码托管平台」Origin。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.58%，恒科指跌1.23%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Origin到底是什么，快速划重点：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线反弹，截至发稿，30年期主力合约涨0.31%，10年期主力合约涨0.04%，5年期主力合约涨0.04%，2年期主力合约涨0.02%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌互现，截至发稿，原油、燃油涨幅居前，沥青、集运指数、豆粕涨超1%，碳酸锂、焦炭、锰硅、铂金、沪金、焦煤、沪银、不锈钢、菜籽、热轧卷板、烧碱、橡胶等纷纷走高。纸浆、沪镍、螺纹钢、玻璃、沪铝、多晶硅、工业硅、钯金、氧化铝等品种下跌，&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;09:51&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生科技指数日内跌幅扩大至1%。智谱跌超12%，MINIMAX跌超9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:38&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中际旭创港股周二早盘一度升3.9%，创上市以来新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:36&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘机器人概念异动拉升，嵘泰股份涨停，此前正裕工业3连板，日丰股份涨停，亚太股份、上纬新材、世运电路、丰光精密跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;PCB概念反复活跃，金禄电子涨超13%，瑞丰高材涨超10%，迅捷兴、贤丰控股、平安电工跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;CPO概念反复活跃，中石科技20cm3连板，此前金字火腿涨停，中石科技逼近20cm涨停，优讯股份、迅捷兴、联讯仪器、中瓷电子等跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:28&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新股N频准在上海证券交易所科创板上市，开盘大涨488.61%，报1100元，当前总市值达440亿元。单签盈利超45万。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;上海频准激光科技股份有限公司成立于2017年11月，主营业务为精准激光器的研发、生产与销售，产品主要服务量子科技、半导体、前沿科研等领域，助力我国相关产业链国产化，公司已实现激光器全链条关键技术自主研发，构建了完善的技术体系。&lt;/p&gt;
+&lt;p&gt;本次频准激光公开发行人民币普通股1000万股，占发行后总股本的25%，发行价格为186.88元/股，发行市盈率为49.42倍。&lt;/p&gt;
+&lt;p&gt;本次发行募集资金扣除发行费用后，将投资于精准激光系统产业化建设项目、研发中心建设项目、武汉研发中心建设项目及补充流动资金，募集资金到位后将进一步提升公司的产业化能力和技术研发实力，为公司长期战略目标的实现提供支撑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.08%，创业板指跌0.25%。医药商业、太空光伏、AI应用、金融科技概念股走弱；油气、存储器、工业金属、核电、CPO概念股走强。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.33%，恒生科技指数跌0.28%。京东集团、小米集团、美团跌幅靠前；百度集团、小鹏集团涨幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从技术故事到资本故事：AI建设周期的下一个主战场</title><link>https://wallstreetcn.com/articles/3779666</link><guid>d0da39cf24e9895d71734688d9ecc171a7401ab71087a0ba79c808072615f5dc</guid><pubDate>Tue, 18 Aug 2026 02:13:28 GMT</pubDate><description>&lt;p&gt;8月17日，摩根士丹利首席固定收益策略师Vishwanath Tirupattur在最新报告中指出，&lt;strong&gt;AI投资周期正在从技术驱动转向资本驱动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;超大规模云厂商大幅上调资本支出计划，公开和私募信贷市场在AI基础设施融资中承担了更大份额，投资者开始对不同借款主体和商业模式作出更细致的区分，而融资结构也在快速迭代，触角延伸至价值链更深处，并越来越多地聚焦在芯片等单一组件层面。&lt;/p&gt;
+&lt;p&gt;Tirupattur写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AI投资的规模早已表明，传统融资渠道单凭一己之力将难以为继。真正令人印象深刻的，是市场响应的速度、广度和创造力。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;AI已不再只是技术故事，正在演变为资本市场故事，理解资本流向的重要性将不亚于理解技术创新本身。&lt;/p&gt;
+融资缺口持续扩大，信用发行压力不减
+&lt;p&gt;算力供给持续跟不上需求，推动超大规模云厂商不断追加资本支出以锁定未来产能。&lt;/p&gt;
+&lt;p&gt;摩根士丹利股票研究团队最新估算，微软、Alphabet、亚马逊、Meta四大超大规模云厂商2027年合计资本支出将较2026年&lt;strong&gt;增长57%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这些支出计划背后，是对投资回报的强烈信心。摩根士丹利互联网分析师Brian Nowak在报告《通往25%-50%生成式AI投资回报率的路径》中指出，相关投资有望实现&lt;strong&gt;25%以上的投入资本回报率（ROIC）&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;但问题在于，资本支出的部署与货币化之间存在明显时间差，导致近期自由现金流承压。摩根士丹利分析师对四大超大规模云厂商2027年自由现金流的预测持续下调。资本支出上升、现金流下降，两者之间的&lt;strong&gt;融资缺口在2027年将进一步扩大&lt;/strong&gt;，分析师认为，AI相关信用债发行规模将维持高位，甚至需要进一步增加。&lt;/p&gt;
+信用利差分化：谁在承压，谁在抗压
+&lt;p&gt;今夏信用市场的表现，揭示了AI融资生态内部的结构性差异。&lt;/p&gt;
+&lt;p&gt;AI相关信用利差大幅走阔：高评级发行人利差一度较年初&lt;strong&gt;扩大约35个基点&lt;/strong&gt;，低评级名称则&lt;strong&gt;扩大约50个基点&lt;/strong&gt;，随后在最近两周出现明显回收。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更值得关注的是不同融资渠道之间的分化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高评级无担保债券&lt;/strong&gt;受冲击最大。原因在于发行量急剧放量，且投资者面临的风险敞口更广泛，与AI投资周期的整体不确定性直接挂钩。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据中心ABS和CMBS&lt;/strong&gt;则相对抗压。这类结构化产品背后是已建成、已通电、已出租的运营资产，合同现金流基本确定，加之发行节奏较为克制，有效隔离了无担保市场的波动。&lt;/p&gt;
+&lt;p&gt;Tirupattur进一步区分了两类发行主体的行为差异：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;定位：专门给Agent时代设计的Git代码托管平台，深度集成Cursor编辑器&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高评级端&lt;/strong&gt;：微软、Alphabet、亚马逊、Meta等超大规模云厂商平均评级约为AA，融资需求大但评级弹性充足。英伟达、博通等头部半导体公司也归入此类。鉴于其ROIC预期，这些发行人对融资成本的小幅变化并不敏感，利差走阔不会实质性放缓其融资节奏。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;核心能力：堆叠式PR、合并队、机器可读审查状态、MCP协议支持、事件驱动自动化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;低评级端&lt;/strong&gt;：如Oracle（各评级机构给予中低BBB评级），以及前比特币矿商、REITs等数据中心开发商，资产负债表灵活性有限，对融资成本更为敏感。对这类借款人而言，利差走阔构成实质约束，&lt;strong&gt;融资成本本身成为供给的天然稳定器&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+融资前沿前移：从数据中心到芯片
+&lt;p&gt;分析师Tirupattur指出，AI融资的下一阶段将呈现明显的结构性转变。&lt;/p&gt;
+&lt;p&gt;增量资本支出的重心，正在从数据中心外壳转向&lt;strong&gt;算力设备（服务器与芯片）以及能源资产&lt;/strong&gt;。这类资产天然适合资产层面的融资安排，为私人资本提供了更大的介入空间。&lt;/p&gt;
+&lt;p&gt;近期市场已出现明确信号：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;英伟达宣布推出算力基础设施融资平台；&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;兼容：GitHub双向实时同步，现有工作流不用动&lt;/p&gt;
+&lt;p&gt;博通支持的&lt;strong&gt;350亿美元芯片融资交易&lt;/strong&gt;落地，规模创纪录；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2025年底的Beignet交易，以及近期的Sopaipilla交易，均代表融资结构创新的新方向。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从今天起，Origin测试版向所有Pro/Teams/Enterprise付费用户开放&lt;/p&gt;
-&lt;p&gt;原以为，Cursor只是想干掉VS Code，但现在看来，&lt;strong&gt;GitHub才是它真正的「终极猎物」。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;几乎同一时间，微软股价跌超3%，超1120亿美元瞬间蒸发。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Cursor版Github，上线了
-&lt;p&gt;Origin不是「Cursor云端存了个代码副本」，它是一个完整的git托管平台。&lt;/p&gt;
-&lt;p&gt;早期测试版，能干的事非常多——&lt;/p&gt;
-&lt;p&gt;建仓库、用标准git做clone/push/pull、从GitHub同步仓库、在浏览器里浏览和搜索代码、开PR、review、合并、管权限。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一整套GitHub核心动作，重做了一遍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;用法也很简单，在新的Codebase标签页点「+New」建个仓库。&lt;/p&gt;
-&lt;p&gt;页面会直接告诉你怎么装 CLI、怎么把本地项目推上去。&lt;/p&gt;
-&lt;p&gt;首次给codebase起的名字，会变成每个仓库网址的一部分，比如，cursor.com/codebase/acme-corp。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI自动合并，人类审查都省了&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;和GitHub一样，在Origin中，每个代码仓库都有PR，主要亮点功能有三点。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;堆叠式PR&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;堆叠式PR允许把一个大变更拆成多个小PR，按依赖关系堆叠，Origin用可视化依赖图展示。&lt;/p&gt;
-&lt;p&gt;这对Agent太关键了。Agent天然喜欢大批量改代码，一次改50个文件是常态。全塞一个PR里？人类reviewer看到直接相关页面。堆叠式PR把这个问题拆开了。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;合并队列&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一个仓库里10个Agent各自改了一批代码，各自提了PR，CI跑完全是绿的。&lt;/p&gt;
-&lt;p&gt;问题来了：先合哪个？合完一个，剩下9个的测试结果还能信吗？&lt;/p&gt;
-&lt;p&gt;传统GitHub处理这种局面非常痛苦，动不动就合并冲突、CI重跑、反复rebase。Origin的合并队列自动排序和检测冲突，保证主干永远CI绿。&lt;/p&gt;
-&lt;p&gt;更狠的是，遇到跨几十个文件的冲突分支，Origin在合并层直接内置了AI引擎自动解决冲突，连人工介入都省了。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;机器可读的审查状态&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;GitHub的审查状态本质上是给人看的，就是一个绿勾加一段评论文字。&lt;/p&gt;
-&lt;p&gt;Agent想判断一个PR能不能合并，得去解析评论内容。Origin把审查状态做成了结构化API，Agent直接读写，不用猜。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一个按钮，一键搬空GitHub&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最关键的是，老项目也不用搬家，Origin支持直接镜像GitHub仓库。&lt;/p&gt;
-&lt;p&gt;git历史、分支、标签全带过来，PR还能双向同步。&lt;/p&gt;
-&lt;p&gt;刚同步过来的时候，GitHub仍然是权威数据源（source of truth）。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;简单讲，同一份代码可以存在很多地方，但总得有一份说了算：出了分歧以谁为准、CI从哪儿拉、上线部署认哪一份。&lt;/p&gt;
-&lt;p&gt;过去二十年，全世界绝大多数团队的「权威数据源」，都在GitHub手里。&lt;/p&gt;
-&lt;p&gt;如今，Origin彻底颠覆了这一格局。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;只要点击「Detach from GitHub」&lt;/strong&gt;，Origin就会反客为主，成为真正的「代码大本营」！&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这足以说明，它不是给GitHub套了层Cursor的皮。它是真的在建自己的「地基」。&lt;/p&gt;
-&lt;p&gt;这一次，Origin还打通了App生态，首批接了Vercel、Depot、Buildkite。&lt;/p&gt;
-&lt;p&gt;Vercel负责每个PR自动出预览部署；Depot和Buildkite负责CI，而且这俩都能跑你现成的GitHub Actions workflow。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;给Agent跑的地基&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不仅如此，Origin原生支持MCP，Agent可以像调API一样驱动整个forge，不局限于IDE。&lt;/p&gt;
-&lt;p&gt;性能数据这块，是说给Agent听的。&lt;/p&gt;
-&lt;p&gt;每小时296,000次clone、81,000次push，每秒22.6次commit，全球同步延迟低于400毫秒，自动故障转移10毫秒。&lt;/p&gt;
-&lt;p&gt;每秒commit 22次，听着离谱，但对一支Agent军团来说刚好够用。&lt;/p&gt;
-&lt;strong&gt;写代码的主力不是人了&lt;/strong&gt;
-&lt;p&gt;Cursor之所以要做Origin，根本原因在于，GitHub已经跟不上Agent的速度了。&lt;/p&gt;
-&lt;p&gt;今年3月Truell公开过一个内部数字：Cursor合并的PR里，35%-40%是Agent在云端虚拟机上自主完成的。&lt;/p&gt;
-&lt;p&gt;换句话就是，Agent自己开分支、自己提交、自己开PR。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;反观GitHub，这套2008年设计的工作流，骨子里是为「人」打造的。&lt;/p&gt;
-&lt;p&gt;一个人写完，找一两个人审，排队等合并，节奏以小时和天计。&lt;/p&gt;
-&lt;p&gt;但显然，Agent不按这个节奏来，十几个同时涌进一个仓库，时间尺度是秒。&lt;/p&gt;
-&lt;p&gt;Origin就是为这个现实建的。&lt;/p&gt;
-&lt;p&gt;代码、PR和Agent在同一个地方，在Cursor里写代码的时候，Agent可以直接改代码、更新PR、推分支，不用跳出去操作另一个平台。&lt;/p&gt;
-那么，你今天要不要搬家？
-&lt;p&gt;先别急。短期内没有哪个团队会把核心项目从GitHub整个搬走。&lt;/p&gt;
-&lt;p&gt;如果你已经在用Cursor的云端Agent跑后台任务，值得试一下Origin。&lt;/p&gt;
-&lt;p&gt;而且搬家成本几乎为零，仓库设置里点一下Detach from GitHub，主客就易位了。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;SpaceXAI研究员直接贴脸开大：GitHub崩了，不如看看Origin！&lt;/p&gt;
-&lt;p&gt;GitHub趴了那天，Cursor开门迎客。&lt;/p&gt;
-&lt;p&gt;下一次GitHub再趴，你可能已经不需要等它恢复了。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/Q0k88Fbe7CYj9k3-YZhK1A"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元有基本面支撑吗？</title><link>https://wallstreetcn.com/articles/3779653</link><guid>3c92b01047f65954a5cb5523f5d44763406fa35686461f57005bdc3751e50ebc</guid><pubDate>Tue, 18 Aug 2026 00:23:49 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;去年热烈演绎“去美元化”的宏大叙事，今年似乎戛然而止了。&lt;/strong&gt;看着“后视镜”，今年美元走强的理由有很多：美国经济增速较去年底回升，地缘冲突推升能源通胀、带动美联储加息预期再度回摆等等。&lt;strong&gt;但在这些显性因素以外，我们注意到全球美元流动机制正在发生潜移默化的结构性演变，这为美元形成了不易被市场察觉的底部支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tirupattur认为，大规模组件融资的兴起，将在很大程度上依赖高评级发行人发挥其评级和资产负债表优势——通过提供&lt;strong&gt;兜底安排、信用支持和残值担保&lt;/strong&gt;，帮助私人资本承销规模越来越大的AI基础设施资产池。&lt;/p&gt;
+资本流向，将与技术创新同等重要
+&lt;p&gt;&lt;strong&gt;随着AI从技术周期演变为资本周期，理解融资的细节正变得越来越重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI融资生态正在快速扩张，但并非均匀扩张。不同信用渠道吸收的风险各异，发行人行为将因资本需求、评级弹性和融资成本敏感度的不同而加速分化。最终结果是一个&lt;strong&gt;更复杂、更分层的市场&lt;/strong&gt;，融资结果将越来越多地决定竞争结果。&lt;/p&gt;
+&lt;p&gt;正如Tirupattur所言：“在AI建设周期的下一阶段，理解资本流向，几乎与理解创新流向同等重要。AI不再只是技术故事，它正日益成为资本市场故事。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元有基本面支撑吗？</title><link>https://wallstreetcn.com/articles/3779653</link><guid>3c92b01047f65954a5cb5523f5d44763406fa35686461f57005bdc3751e50ebc</guid><pubDate>Tue, 18 Aug 2026 00:23:49 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;去年热烈演绎“去美元化”的宏大叙事，今年似乎戛然而止了。&lt;/strong&gt;看着“后视镜”，今年美元走强的理由有很多：美国经济增速较去年底回升，地缘冲突推升能源通胀、带动美联储加息预期再度回摆等等。&lt;strong&gt;但在这些显性因素以外，我们注意到全球美元流动机制正在发生潜移默化的结构性演变，这为美元形成了不易被市场察觉的底部支撑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;其中，美国境外私人部门与官方（海外多国央行等，下同）储备的资产配置行为正在出现分化。&lt;/strong&gt;两股力量的博弈下，即便在“去美元化”叙事持续发酵下，美元买盘也很难真正枯竭，这也正是叙事预期与汇率现实出现背离的重要原因。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 一、全球美元流动机制的结构演变
@@ -303,7 +323,53 @@ Cursor版Github，上线了
 &lt;p&gt;&lt;strong&gt;下行期（踩踏与流动性挤兑）：&lt;/strong&gt;一旦宏观环境发生边际逆转——例如美联储政策意料外紧缩、美债收益率剧烈波动、美股高估值回调，抑或是离岸融资成本骤升——大量高杠杆、高敏感度的私人头寸将面临强平与集中止损。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这种集体行为容易触发跨境资金的剧烈摆动，不仅会放大海外资产市场波动，也会反向冲击全球外汇与跨境流动性环境，这也是当前美元体系潜藏的脆弱性来源。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;综上，我们认为，私人部门占优的美元流动性体系，其稳定根基已从传统的“国家信用与官方储备”演变为“市场情绪与资产回报”。&lt;/strong&gt;这种由逐利资本与套息杠杆构筑的顺周期循环，将大幅放大海外资产市场的波动率，更会反向冲击全球外汇与离岸流动性环境。&lt;strong&gt;离岸美元体系在获得短期高收益支撑的同时，也正面临着比传统央行主导时代更为剧烈、更为不可预测的尾部冲击与波动考验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/y7VzVxox6eoF_ZfXJqjJ4A"&gt;川阅全球宏观&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400</title><link>https://wallstreetcn.com/articles/3779603</link><guid>27c823e1b2a30537f8d3982740f9248f763940763ccfdc97019385d6e37a1707</guid><pubDate>Mon, 17 Aug 2026 23:06:55 GMT</pubDate><description>&lt;p&gt;美伊停火到期叠加双方强硬表态，油价飙升推升通胀预期，长端美债收益率走高，美股承压回落。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/y7VzVxox6eoF_ZfXJqjJ4A"&gt;川阅全球宏观&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美对冲基金二季度持仓大曝光：SpaceX成最强共识多头，Alphabet迎史上最集中加仓潮，英伟达遭减持</title><link>https://wallstreetcn.com/articles/3779661</link><guid>6814f14c385e45aea17e87ce2c391bda7c95800aa67cf8536ed15c7f7aa35c78</guid><pubDate>Tue, 18 Aug 2026 02:23:32 GMT</pubDate><description>&lt;p&gt;随着美国二季度13F持仓报告集中披露，逾三十家对冲基金和主权财富基金截至6月30日的持仓全面曝光。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;争抢SpaceX、集体押注Alphabet、悄然撤离英伟达——成为一个主要调仓特征。与此同时，AI硬件龙头博通减持信号更为明确，而亚马逊则成为本季度最大的多空分歧所在。资金的另一个方向是向AI产业链存储与基础设施层流动——希捷科技、CoreWeave等存储与算力基础设施标的迎来集中建仓。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从宏观视角看，本季度13F的一个显著信号是：价值派与宏观型基金显著向科技股靠拢，而部分成长型基金则趁高兑现。&lt;/p&gt;
+&lt;strong&gt;SpaceX：零卖出的单边共识&lt;/strong&gt;
+&lt;p&gt;SpaceX是美国本轮13F季度披露中最干净的一笔交易——在追踪的对冲基金中，&lt;strong&gt;9家机构同步建仓，没有一家减持。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;持仓规模最大的是沙特阿拉伯主权财富基金（Public Investment Fund），披露持股1.542亿股。D1 Capital以1.26亿股紧随其后，英伟达则以1.228亿股跻身前三，且系以战略股东身份入场。此外，AMD也披露了持有330万股的新建仓。&lt;/p&gt;
+&lt;p&gt;对冲基金方面，Altimeter Capital建仓178万股，Viking Global建仓120万股，Tiger Global建仓37.5万股，Appaloosa建仓23万股，Third Point建仓18万股。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上述持仓均为SpaceX上市后在二级市场买入，系首个披露季度。&lt;/strong&gt;主权基金、两家芯片巨头和五家顶级对冲基金在同一个上市季度集中现身，SpaceX瞬间跻身成长股阵营中共识度最高的多头标的之一。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;Alphabet：最集中的加仓潮&lt;/strong&gt;
+&lt;p&gt;在所有大市值科技股中，谷歌母公司Alphabet&lt;strong&gt;的买卖比例最为悬殊——11家买入，6家卖出。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;巴菲特的伯克希尔哈撒韦是最大的推手。&lt;/strong&gt;其谷歌持仓从5425万股增至7879万股，谷歌持仓从359万股跳升至2719万股，合计仓位增幅逾60%。&lt;/p&gt;
+&lt;p&gt;其他买入方阵容同样厚重：Third Point将持仓从18万股扩大至103万股，增幅超五倍；Duquesne（Stanley Druckenmiller旗下）新建仓33.6万股；Altimeter新建仓18万股；TCI、D1 Capital、Baupost、Lone Pine、Soros基金和Appaloosa均有增持。就连John Paulson也象征性地开设了一个5000股的谷歌新仓位。&lt;/p&gt;
+&lt;p&gt;卖出方则集中在成长型基金：Pershing Square（Bill Ackman）完全清仓，Viking Global退出240万股，Tiger Global将持仓从1063万股砍至581万股，减幅接近一半，Leon Cooperman也清仓离场。&lt;/p&gt;
+&lt;p&gt;整体格局清晰：价值派和宏观派基金大举涌入，部分长期成长股持有者借强势行情兑现离场。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;亚马逊：多空最激烈的战场&lt;/strong&gt;
+&lt;p&gt;亚马逊是本季度在追踪样本中成交最频繁的标的——&lt;strong&gt;共18家基金有所动作，买卖双方各9家，完美对半分。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;买方阵营：&lt;/strong&gt;Appaloosa从432万股增持至500万股；Viking Global从120万股大幅增持至370万股，接近三倍；Baupost、Glenview、Altimeter、Corvex、Lansdowne、Discovery均有增持；Duquesne的亚马逊持仓则从4.6万股飙升至54.2万股（另持有看涨期权）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;卖方阵营：&lt;/strong&gt;Pershing Square从1150万股减至860万股；Tiger Global有所削减；D1 Capital从181万股减至62.8万股；Soros基金、Third Point、Meritage、Iconiq和Scopia亦有减持。&lt;/p&gt;
+&lt;p&gt;David Tepper（Appaloosa）与Andreas Halvorsen（Viking）实际上站在了Bill Ackman和Chase Coleman减仓对立面。亚马逊已演变为一个真正的多空交锋场。&lt;/p&gt;
+&lt;strong&gt;英伟达与AI硬件：净减持信号浮现&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;英伟达的整体持仓变动悄然偏向负面。博通也遭减持，资金沿产业链向存储与基础设施层迁移。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;卖出方：&lt;/strong&gt;D1 Capital、Discovery Capital和Third Point全部清仓；Tiger Global从1201万股小幅减至1120万股；Iconiq Capital将持仓从110万股削减至14.2万股。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;买入方相对有限：&lt;/strong&gt;Appaloosa从147万股微增至153万股；Altimeter从934万股小幅增至941万股；Soros Capital和Mizuho亦有少量增持。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;博通的减持信号更为明显。&lt;/strong&gt;D1 Capital、Altimeter、Duquesne和Third Point全部清仓，Iconiq和Soros Capital有所修剪，买方仅Appaloosa一家新建了小仓位，呈六卖一买格局。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;台积电则六六开：&lt;/strong&gt;Appaloosa、Altimeter、Third Point、Duquesne、Lansdowne、Soros Capital买入，Tiger Global、Viking Global、Lone Pine、SoftBank、SRS Capital减持，D1 Capital清仓。AMD方向亦两面：Tiger Global新建仓67.5万股，Appaloosa、Glenview、SRS Capital减持，Iconiq清仓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;值得单独关注的是英特尔&lt;/strong&gt;：SoftBank维持8697万股战略持仓，英伟达持有2.148亿股未动，Tiger Global从164万股加仓至425万股，但Kerrisdale、Duquesne和Glenview均已清仓退出。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;资金下移：Seagate、CoreWeave及算力基础设施成新宠&lt;/strong&gt;
+&lt;p&gt;本季度更值得关注的结构性移动，是资金向AI产业链存储与基础设施层转移。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;希捷科技Seagate零减持&lt;/strong&gt;，吸引五家机构建仓或增持：Tiger Global新建仓28.5万股，D1 Capital新建仓3万股，Lone Pine新建仓100万股，Sachem Head新建仓47万股，Duquesne增持至12.2万股。这一集中动作背后，是市场对内存/存储供应紧张主题的押注——散布在多份文件中的闪迪和美光的零星增持也印证了这一逻辑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CoreWeave也获资金青睐&lt;/strong&gt;：D1 Capital和Appaloosa新建仓，Altimeter从450万股大幅增至607万股，英伟达则持有4721万股未动，仅Viking Global退出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CBRS&lt;/strong&gt; 成为本季度最突出的集群式新建仓标的：Tiger Global（300万股）、Altimeter（723万股）、D1 Capital、AMD和Soros基金在同一季度同时建仓，信号颇为集中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;算力能源外围&lt;/strong&gt;方向（WULF、CIFR、APLD、CORZ、RIOT、BTDR等）也迎来新资金：Tiger Global、Duquesne、Discovery Capital和Soros Capital均有建仓。显示机构对AI基础设施投资的触角正在向更广泛的生态链延伸。&lt;/p&gt;
+&lt;strong&gt;消费互联网与支付：Netflix、Uber、Visa各有看点&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;Uber&lt;/strong&gt;延续积累逻辑：Pershing Square从3,000万股增至3,433万股，Appaloosa从633万股增至769万股，Glenview Capital和Marathon Partners均有增持。沙特PIF持有7,284万股维持不变。减持方仅为Altimeter和Soros Fund，幅度有限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visa&lt;/strong&gt;悄然重获机构青睐：Pershing Square确认新建330万股仓位，并同步新建万事达卡（MA/212万股）仓位；Tiger Global新建79.9万股；TCI Fund Management和Lone Pine均有小幅增持，仅Soros Capital有少量减持。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Netflix&lt;/strong&gt;存在明显分歧：Pershing Square新建仓位达1,308万股，是本季度单笔最大新仓之一；与此同时，Tiger Global却完全清仓退出（减持244万股）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软&lt;/strong&gt;同样多空并存：Pershing Square从565万股增至621万股，Altimeter和Meritage Group均有增持；TCI Fund Management则完全退出（减仓270万股），Tiger Global和Viking Global小幅削减。&lt;/p&gt;
+&lt;strong&gt;主要机构操作速览&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;伯克希尔·哈撒韦（Berkshire Hathaway）&lt;/strong&gt;：除大幅增持Alphabet外，还新建达美航空仓位至5,732万股，增持梅西百货、莱纳房屋和纽约时报，退出星座品牌，继续削减美国银行、克罗格、Capital One等仓位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pershing Square（Bill Ackman）&lt;/strong&gt;：本季度操作最为密集，新建Netflix（1,308万股）、Visa（327万股）、标普全球（SPGI/259万股）、万事达（MA/212万股）四个仓位，同时完全退出Alphabet。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tiger Global（Chase Coleman）&lt;/strong&gt;：在增持英特尔、Coupang的同时，退出Zillow、Netflix、PCOR、Zscaler等多只成长股，持仓结构调整幅度在本季度最为突出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duquesne（Stanley Druckenmiller）&lt;/strong&gt;：新建仓位数量最多，包括BTDR、Riot Platforms、Fox、达美航空等逾20个新标的，同时退出英特尔、博通、Cohere等多只AI相关股票。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Himalaya Capital（Li Lu）&lt;/strong&gt;：大幅增持拼多多从460万股至1,080万股，同时清仓美国银行、西方石油、标普全球、穆迪等多只仓位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400</title><link>https://wallstreetcn.com/articles/3779603</link><guid>27c823e1b2a30537f8d3982740f9248f763940763ccfdc97019385d6e37a1707</guid><pubDate>Mon, 17 Aug 2026 23:06:55 GMT</pubDate><description>&lt;p&gt;美伊停火到期叠加双方强硬表态，油价飙升推升通胀预期，长端美债收益率走高，美股承压回落。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;标普500跌0.50%报7746.97点，道指跌0.51%报53459.78点，纳指跌0.31%报26646.74点，三大指数连续第二个交易日收跌。存储与光通信芯片逆势走强，闪迪涨8.88%，微软、Meta等科技巨头遭抛售。&lt;/p&gt;
 &lt;p&gt;停火谅解备忘录周一到期，特朗普威胁若阿曼阻碍美国控制霍尔木兹海峡将&amp;quot;轰炸&amp;quot;该国，伊朗高官则对路透表示已从防御转向&amp;quot;全面进攻&amp;quot;。WTI原油涨2.00%报84.05美元，布伦特涨2.82%报91.02美元，双双突破上周高点。&lt;/p&gt;
@@ -457,111 +523,101 @@ Cursor版Github，上线了
 &lt;p&gt;在上述宏观催化剂之外，闪迪上周投资者日释放的行业信号，同样成为本轮重估的重要依据。&lt;/p&gt;
 &lt;p&gt;美国银行分析师Vivek Arya在客户报告中表示，&lt;strong&gt;闪迪的投资者日活动&amp;quot;表明该行业可能正在进入一个相对更为持久的阶段&amp;quot;，有别于过去周期性明显的繁荣与萧条更替。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Arya指出，闪迪提出的年销售额增长15%目标，以及在新客户协议和供应策略支撑下毛利率在本十年剩余时间内维持80%以上的展望，提供了&amp;quot;投资者最终如何看待存储股&amp;quot;的估值参考框架。&lt;/p&gt;
-&lt;p&gt;不过，Friedman对于追涨态度审慎。他提醒，该板块个股在7月曾下跌30%至40%，&amp;quot;在两个方向上都如此剧烈波动的股票往往会持续如此，今天的反弹无论多么有新闻面支撑，都无法改变其内在的高波动特性。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达OpenAI数据中心担保上限为1050亿美元，较原方案缩水过半</title><link>https://wallstreetcn.com/articles/3779633</link><guid>e8d270b3138efe7232bcdd082c687ef1198e90447797a69de9063b6f6a32a847</guid><pubDate>Mon, 17 Aug 2026 13:48:50 GMT</pubDate><description>&lt;p&gt;英伟达正在把竞争边界从芯片和服务器，进一步推进到AI数据中心最底层的土地、电力和建筑。&lt;/p&gt;
-&lt;p&gt;8月17日，&lt;strong&gt;英伟达宣布与SB Energy达成战略合作，为俄亥俄州PORTS-Pike科技园区提供信用担保，&lt;/strong&gt;&lt;strong&gt;信用担保额度最高1050亿美元。&lt;/strong&gt;&lt;strong&gt;将其建设为专属英伟达AI计算基础设施的超大规模数据中心，OpenAI将作为唯一租户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次披露的担保规模低于此前媒体的报道。据CNBC此前报道，英伟达为该项目的担保额度达到2500亿美元。据《华尔街日报》上周报道，英伟达已决定将该担保额度&lt;a href="https://wallstreetcn.com/articles/3779526?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;削减至1200亿美元以下&lt;/a&gt;。&lt;strong&gt;最终证券文件披露担保上限为1050亿美元，进一步低于上述预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;近期对英伟达循环融资的担忧是市场的核心关注之一，此前，媒体首次报道2500亿美元担保计划后，英伟达股价当日即下跌5%。周一截止发稿，英伟达上涨0.43%。&lt;/p&gt;
+&lt;p&gt;不过，Friedman对于追涨态度审慎。他提醒，该板块个股在7月曾下跌30%至40%，&amp;quot;在两个方向上都如此剧烈波动的股票往往会持续如此，今天的反弹无论多么有新闻面支撑，都无法改变其内在的高波动特性。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cursor一夜“干掉了”GitHub</title><link>https://wallstreetcn.com/articles/3779651</link><guid>4c431e537b8013097dc570c815286fa02b969510522c178a4f6e9d40ac59cff1</guid><pubDate>Tue, 18 Aug 2026 00:38:02 GMT</pubDate><description>&lt;p&gt;今天，全球程序员集体经历了一场「荒诞剧」。&lt;/p&gt;
+&lt;p&gt;美东时间上午9点40分，GitHub全面瘫痪，连带Copilot全线阵亡。&lt;/p&gt;
+&lt;p&gt;整整7个小时，核心服务瘫痪长达3小时，码农们直接停摆，代码拉不下、AI用不了.....&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，英伟达向SB Energy投资15亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英伟达此次直接切入土地、电力与厂房（LPS）这一底层基础设施环节，其意义远超一般的数据中心投资。核心变化在于，英伟达正以其自身信用为AI基础设施融资提供“背书”，以此换取长期且独占的算力部署空间。&lt;strong&gt;这标志着芯片巨头正从单纯的AI硬件供应商，向“AI工厂”基础设施的核心参与者和组织者延伸。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;项目初始部署容量为4.25 IT-GW，英伟达拥有进一步扩展3.75 IT-GW的选择权，园区总规划容量达到8 IT-GW。&lt;/strong&gt;英伟达披露，每一代部署于PORTS-Pike的AI工厂系统约包含150万块GPU，对应约1500亿至2000亿美元的英伟达营收机会。&lt;/p&gt;
-从卖芯片到锁定“AI工厂”
-&lt;p&gt;英伟达将AI工厂称为“智能时代的决定性基础设施”，并把LPS视为继芯片、封装、内存和网络之后的下一类战略资源。其逻辑与传统供应链管理类似：&lt;strong&gt;在客户需求具有较高可见度时，提前锁定关键投入要素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PORTS-Pike将独家部署英伟达全栈DSX AI工厂平台，覆盖GPU、CPU、网络及基础设施软件。对于英伟达而言，园区一旦锁定，底层土地、电力和建筑等长期资产即可支撑多代GPU持续升级，而不是随着单一代芯片生命周期结束而失去价值。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;换句话说，英伟达正在尝试把AI基础设施从一次性的“建机房、买GPU”，变成可以随着GPU代际更新持续滚动的长期资产。&lt;/strong&gt;&lt;/p&gt;
-OpenAI需求成为项目支点
-&lt;p&gt;此次合作背后，是前沿AI公司的算力需求正在快速突破传统资产负债表的承载能力。&lt;/p&gt;
-&lt;p&gt;英伟达明确指出，部分前沿AI实验室的计算需求增速已经超过其自身资产负债表和长期信用状况能够支撑的范围，因而难以独立完成大规模基础设施融资。&lt;/p&gt;
-&lt;p&gt;PORTS-Pike协议实际上提供了一种新的融资模式：由英伟达利用自身规模、信用和长期需求可见性，为基础设施融资提供部分信用支持，再由OpenAI通过长期租赁锁定算力容量。&lt;/p&gt;
-&lt;p&gt;在算力规模上，OpenAI目前已承诺到2030年前部署约12吉瓦（GW）的英伟达算力。根据英伟达披露，如果PORTS-Pike安排在首期4.25 GW之外进一步扩展，&lt;strong&gt;OpenAI的相关部署规模有望提升至约16 GW。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达预计，在这一规模下，相关算力机会到2030年将对应约6000亿美元的英伟达计算业务收入。&lt;/strong&gt;换言之，PORTS-Pike并非单纯的基础设施融资安排，而是英伟达围绕核心客户需求，将算力采购、基础设施建设和融资能力进一步绑定起来。&lt;/p&gt;
-&lt;p&gt;这也解释了英伟达为何愿意介入此前并非自身核心业务的基础设施融资：只要客户需求足够确定，锁定LPS就等于提前锁定未来多代GPU的部署空间。&lt;/p&gt;
-8GW园区如何落地
-&lt;p&gt;PORTS-Pike位于俄亥俄州派克县，毗邻已经退役的朴茨茅斯气体扩散工厂旧址，园区横跨私有土地和联邦土地，开发由SB Energy主导，合作方包括AEP Ohio、美国能源部和美国商务部。&lt;/p&gt;
-&lt;p&gt;项目将分阶段建设，首期预计在2028年至2030年间陆续上线。SB Energy将通过20年期租约向OpenAI提供数据中心建设、运营和托管服务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从商业模式看，OpenAI负责长期租赁和使用，SB Energy负责园区开发及运营，而英伟达则通过投资和有限信用担保确保英伟达算力能够在园区持续部署。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;项目同时包含较大规模的社区投入，包括8000万美元的初始社区收益基金以及数亿美元的长期社区投资承诺，并预计创造数万个就业岗位。&lt;/p&gt;
-英伟达担保并非“兜底”
-&lt;p&gt;市场更需要关注的是，英伟达究竟承担了多大风险。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达明确表示，其信用支持并非覆盖整个园区成本，也不是为OpenAI的全部租赁义务兜底，而是限定在租约和电力付款的特定部分，以及一项特定的残值承诺。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着OpenAI支付租金、数据中心逐步上线，英伟达的或有敞口也将随之下降。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果未来OpenAI不再使用部分容量，英伟达认为，基于CUDA生态的广泛适配性，这些算力设施仍可以转租给云服务商、企业客户、其他AI实验室和初创公司。因此，园区本身并不完全依赖单一租户的长期信用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这也是英伟达强调其LPS策略“战略性与纪律性”的原因：公司并不准备全面承担客户的数据中心建设成本，而是只针对那些需求高度可见、持续时间足够长、能够支撑多代英伟达算力部署的核心站点提供支持。&lt;/p&gt;
-AI基础设施竞争进入下一阶段
-&lt;p&gt;过去几年，AI产业争夺的核心是GPU、HBM、先进封装和高速网络；随着算力需求持续爆发，土地、电力和数据中心建设周期正在成为新的瓶颈。&lt;/p&gt;
-&lt;p&gt;PORTS-Pike的意义因此并不只在于一个8GW数据中心项目。&lt;/p&gt;
-&lt;p&gt;更重要的是，&lt;strong&gt;英伟达正在尝试建立一套“芯片+网络+软件+基础设施”的完整AI工厂体系。&lt;/strong&gt;对于客户而言，这意味着从采购GPU转向直接获得可持续升级的整套AI算力基础设施；对于英伟达而言，则意味着通过提前锁定LPS资源，将未来数年的GPU需求进一步绑定到自身平台。&lt;/p&gt;
-&lt;p&gt;如果这一模式能够复制，英伟达的角色或将发生一个重要变化：它不再只是向数据中心出售GPU，而是开始参与决定这些GPU未来“在哪里落地、由谁建设、用什么电力运行”。&lt;/p&gt;
-&lt;p&gt;这可能才是PORTS-Pike项目最值得关注的地方。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI高管接连离职引担忧，总裁“灭火”：其实很正常，只是我们太受关注</title><link>https://wallstreetcn.com/articles/3779640</link><guid>95287c5cc76d4301068e86429341ec9cdf0343042c656365e5bf131898d16fe1</guid><pubDate>Mon, 17 Aug 2026 20:05:58 GMT</pubDate><description>&lt;p&gt;OpenAI联合创始人兼总裁Greg Brockman周一表示，近期公司高管接连离职并不罕见，公司业务增长势头依然强劲，并正积极应对一起涉及旗下AI模型的网络安全事件。&lt;/p&gt;
-&lt;p&gt;Brockman在接受采访时表示&lt;strong&gt;，OpenAI&amp;quot;处于高度关注之下，因此每一次离职都会受到异常严格的审视&amp;quot;，他认为这波人事变动&amp;quot;实际上并不算异常&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;过去数周，OpenAI收入负责人Denise Dresser在任职仅八个月后突然离职，紧随其后的是效力公司长达八年的执行官Brad Lightcap宣布离开，此前产品与业务负责人Fidji Simo亦已因病请辞。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;密集的高管出走引发外界对这家估值8520亿美元的AI巨头内部稳定性的担忧。&lt;/p&gt;
-&lt;p&gt;与此同时，OpenAI披露其AI模型卷入一起&amp;quot;前所未有的网络安全事件&amp;quot;，模型在测试环境中突破隔离限制，最终访问了开源开发者平台Hugging Face。&lt;/p&gt;
-
-近期OpenAI多位高管离职
-
-&lt;p&gt;本轮人事变动涵盖多位核心高管。Dresser原本负责领导OpenAI企业业务部门的扩张，该业务被视为公司高利润率业务线，直接对标竞争对手Anthropic。她的离职发生在Lightcap宣布出走两天之后。&lt;/p&gt;
-&lt;p&gt;此前，今年4月OpenAI已宣布Lightcap从首席运营官职位转向负责&amp;quot;特别项目&amp;quot;，Dresser在彼时接手了其部分职能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI随后任命Dali Rajic为新任首席营收官。Rajic此前担任网络安全公司Wiz的首席运营官，该公司已于今年早些时候以320亿美元被谷歌收购。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fidji Simo上月宣布因&amp;quot;慢性疾病严重恶化&amp;quot;而请辞，&lt;strong&gt;Brockman正式接手其产品与业务负责人职责，意味着他目前统管公司最重要、最具盈利潜力的业务线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Brockman在周一采访中强调，领导层的连续性是公司的核心支柱。&amp;quot;不同阶段会有不同的领导团队，但我是一个常量，Sam也是一个常量，我认为正是这种韧性和多样性让我们更加强大。&amp;quot;&lt;/p&gt;
-
-业务增速强劲，IPO准备推进中
-
-&lt;p&gt;尽管人事动荡，OpenAI公布的财务数据显示业务扩张势头不减。&lt;/p&gt;
-&lt;p&gt;Brockman与首席财务官Sarah Friar上周五在投资者会议上透露，OpenAI 7月份的年化营收环比增长20%，企业客户增速更达32%。Brockman周一对上述数据予以确认。&lt;/p&gt;
-&lt;p&gt;OpenAI已于6月向美国证券交易委员会（SEC）秘密提交上市招股说明书，但公司尚未对外披露具体挂牌时间。&lt;/p&gt;
-&lt;p&gt;目前公司估值为8520亿美元，市场普遍预期其IPO将成为近年来规模最大的科技股上市案例之一。&lt;/p&gt;
-
-AI模型越界事件引发安全关注
-
-&lt;p&gt;安全层面，OpenAI披露，旗下AI模型在7月发生了一起被其定性为&amp;quot;前所未有&amp;quot;的网络安全事件。&lt;/p&gt;
-&lt;p&gt;模型从受限的隔离测试环境出逃，通过串联多个漏洞突破至开放网络，并最终访问了开源平台Hugging Face，在业界引发广泛震动。&lt;/p&gt;
-&lt;p&gt;Brockman表示，公司正&amp;quot;极为认真地&amp;quot;对待这一事件，并已发布博客文章，协助外部机构了解防御措施。&lt;/p&gt;
-&lt;p&gt;&amp;quot;有时候我们所看到的是积极信号，有时候则是风险预警，&amp;quot;他说，&amp;quot;这一次，系统与外部世界的交互方式让我们感到意外，但我们同样认为，这是必须向外界提供的重要信息。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI大战转折点？与管理层会面后，华尔街的感受：腾讯在打“中途岛战役”</title><link>https://wallstreetcn.com/articles/3779652</link><guid>0abb1560e579ec609aca347d4bc8220c0adafcbc96fde2285e4d5711e2e8c34c</guid><pubDate>Tue, 18 Aug 2026 00:38:52 GMT</pubDate><description>&lt;p&gt;在AI军备竞赛中长期被视为追赶者的腾讯，正在迎来一个潜在的战略转折点。&lt;/p&gt;
-&lt;p&gt;据追风交易台，美银美林报告在最新报告指出，在腾讯2026年第二季度业绩发布后，美银美林在香港组织了一场投资者路演，邀请腾讯首席战略官Jame Mitchell、首席财务官John Lo及投资者关系团队与机构投资者面对面交流。&lt;/p&gt;
-&lt;p&gt;据报告，投资者提问几乎清一色聚焦于AI战略——资本开支前景、AI变现路径、算力市场动态及模型进展。会后，维持腾讯&amp;quot;买入&amp;quot;评级及780港元目标价，&lt;strong&gt;并将这一时刻定性为腾讯AI竞争格局中的&amp;quot;中途岛战役&amp;quot;——战争尚未终结，但力量对比已开始悄然转变。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美银美林分析师Alex Liu和Joanna Du在报告中指出，腾讯年内在模型能力和算力积累上的快速追赶，标志着长期竞争格局的潜在拐点。尽管市场目前仍将目光集中在&amp;quot;云计算/芯片&amp;quot;赛道的领先者身上，但腾讯的AI期权价值（包括token及云收入上行空间）与核心业务韧性，尚未充分反映在当前不足13倍的2026/2027年市盈率估值中。腾讯股价目前报440港元，距目标价780港元仍有逾77%的上行空间。&lt;/p&gt;
-算力布局：战略资产，而非单纯成本
-&lt;p&gt;算力建设是本次投资者会议的核心议题之一。管理层表示，腾讯在2026年第二季度大幅提升了AI基础设施资本开支，并为抢在行业价格上涨前锁定算力和内存供应，提前支付了大量预付款。管理层指出，预付款主要用于锁定内存及其他算力资源，目前大部分资本开支部署在境内。&lt;/p&gt;
-&lt;p&gt;报告据此将腾讯2026/2027年资本开支预测分别上调至人民币2100亿元和2600亿元（此前预测为1850亿元和2250亿元）。&lt;strong&gt;不过，分析师认为，来自算力投入的季度现金压力将在2026年第二至三季度见顶，此后随着预付款性质的非经常性支出逐步正常化，2027年经营性现金流有望趋于稳定。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;管理层强调，腾讯将算力所有权视为战略资产，其价值不仅体现在云变现层面，更支撑着基础模型竞争力、AI应用及更广泛的生态系统。腾讯还具备跨云客户、模型训练和推理工作负载动态分配算力资源的灵活性，可根据需求和预期回报进行调度。&lt;/p&gt;
-混元模型：以推理效率换生态规模
-&lt;p&gt;在模型策略上，腾讯并未选择单纯追逐基准测试排名，而是将重心放在提升模型能力的同时保持有吸引力的推理成本效率。管理层指出，随着前沿AI模型在基准测试表现上日趋收敛，市场对具备良好推理经济性的模型——尤其是DeepSeek和混元（Hy）——的需求保持稳定。&lt;/p&gt;
-&lt;p&gt;混元模型预计将进入更快的迭代周期，HY4版本有望在未来三个月内发布，进一步缩小与国内参数规模更大的顶尖模型之间的能力差距。对于微信AI助手&amp;quot;小微&amp;quot;（Xiaowei）所采用的WeLM底层模型，管理层强调其专为高度成本效率而设计，所需算力资源更少，且兼容更广泛的GPU类型，因此随着使用规模扩大，推理成本仍处于可控范围。&lt;/p&gt;
-AI应用落地：WorkBuddy与小微的双线推进
-&lt;p&gt;在AI应用商业化层面，管理层将WorkBuddy定位为腾讯最重要的AI应用机会之一。该产品受益于用户参与度提升、变现能力改善，以及与混元模型生态之间形成的正向反馈循环——真实用户交互产生的数据有助于提升模型智能，进而改善产品性能和用户体验。&lt;strong&gt;管理层表示，WorkBuddy的变现目前仍处于早期阶段，但用户规模扩张、功能拓展和体验优化均有较大空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微信AI助手小微同样处于发展初期，腾讯采取审慎渐进的方式推进功能上线和生态整合。管理层强调其结构性优势，包括较低的用户获取成本和推理成本。小微将逐步向更多用户开放，最早有望在2026年第四季度实现全面推广，具体时间表也将受合作伙伴进展影响。目前正在探索的潜在应用场景包括旅行规划、比价购物及其他日常消费者生产力场景。&lt;/p&gt;
-盈利预测下调：折旧压力侵蚀利润空间
-&lt;p&gt;激进的AI投资在推动长期增长预期的同时，也带来了近期盈利压力。&lt;strong&gt;报告将腾讯2026至2028年非国际财务报告准则净利润预测下调2%至6%，主要原因是折旧费用将在未来数个季度显著提速。&lt;/strong&gt;分析师目前预计，腾讯2027年非国际财务报告准则净利润将同比持平。&lt;/p&gt;
-&lt;p&gt;具体而言，预计腾讯2026/2027年非国际财务报告准则摊薄每股收益分别为29.30元和29.81元人民币（此前预测为29.80元和31.20元）。云及企业服务收入方面，随着手头算力增加及WorkBuddy加速落地，预计腾讯云收入增速将在2026年下半年至2027年进一步提速，超越2026年第二季度约20%出头的同比增速。&lt;/p&gt;
-&lt;p&gt;美银美林维持腾讯买入评级及780港元目标价，基于分部加总估值法，对应2026年预测市盈率约23倍。分析师列出三大近期催化剂：未来三个月内的混元模型升级、未来六个月内小微的大规模推广，以及未来十二个月内WorkBuddy和云收入的加速增长。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] API开放还是封锁？Anthropic与OpenAI的战略抉择令企业客户忧虑</title><link>https://wallstreetcn.com/articles/3779658</link><guid>e006b9c2463a9e35eaf913a82b27592a0856ca7afff2622b9691970ddc43ad23</guid><pubDate>Tue, 18 Aug 2026 00:51:31 GMT</pubDate><description>&lt;p&gt;Anthropic与OpenAI正加速布局垂直行业应用，与自身API客户形成直接竞争，企业客户处境日益尴尬。&lt;/p&gt;
-&lt;p&gt;设计工具Canva是最新一个陷入这一困境的企业——其核心功能正与Anthropic自研应用形成正面竞争。8月17日，据The Information报道，这种&amp;quot;供应商即竞争对手&amp;quot;的局面，已让越来越多依赖前沿模型的开发者开始重新审视自身的技术路线。&lt;/p&gt;
-&lt;p&gt;目前，API业务仍是Anthropic和OpenAI数十亿美元量级的核心收入来源。但据The Information近期与多位前沿实验室研究人员及应用开发者的对话，这一现状能否持续，已成为业界公开的疑问。&lt;/p&gt;
-安全顾虑：API收紧的第一重压力
-&lt;p&gt;限制API访问，并非只是商业考量，安全因素同样在推动这一趋势。&lt;/p&gt;
-&lt;p&gt;特朗普政府已向Anthropic和OpenAI施压，要求对部分新模型采取&amp;quot;分阶段发布&amp;quot;策略，理由是担忧模型被网络犯罪分子或其他恶意行为者利用。在此期间，客户须逐一审批方可获得访问权限。特朗普政府近期还预告了一套专门针对主要AI公司的模型发布前测试流程。&lt;/p&gt;
-&lt;p&gt;即便模型公开发布后，Anthropic和OpenAI也可能出于类似的安全理由，主动降低模型在特定任务上的性能表现。这种情况已有先例——Anthropic旗下的Fable模型，在网络安全相关任务上的能力已被刻意削弱。&lt;/p&gt;
-&lt;p&gt;值得注意的是，两家公司自己使用这些模型驱动专有应用时，并不需要做同样的性能降级。&lt;/p&gt;
-&lt;p&gt;两家公司均已公开警告，未来模型可能在黑客攻击、生物武器研发等领域具备危险能力。报道指出，一旦恶意行为者突破防线，后果将极为严重——届时，彻底切断高级模型的外部访问，或许会被视为更安全的选择。&lt;/p&gt;
-防蒸馏：API收紧的第二重压力
-&lt;p&gt;除安全因素外，&amp;quot;模型蒸馏&amp;quot;问题同样令Anthropic和OpenAI如芒在背。&lt;/p&gt;
-&lt;p&gt;所谓蒸馏，是指竞争对手利用商业可用模型的输出结果，训练出性能相近的新模型。这实际上是一种低成本&amp;quot;复制&amp;quot;先进AI能力的手段。&lt;/p&gt;
-&lt;p&gt;Anthropic在上周发布的AI潜在灾难性风险报告中明确指出：&amp;quot;如果蒸馏所得模型继承了原始模型的风险相关能力，但在部署时缺乏足够的安全防护，即便原始模型本身有严格的防滥用机制，也可能对世界造成下游风险。&amp;quot;&lt;/p&gt;
-&lt;p&gt;然而，一位前Anthropic研究人员告诉The Information，要完全阻止蒸馏&amp;quot;基本上是不可能的&amp;quot;。&lt;/p&gt;
-&lt;p&gt;对此，开源软件倡导者持不同立场。他们认为，包括从Anthropic模型蒸馏而来的开源模型，实际上有助于开发者抵御网络安全攻击——Hugging Face遭OpenAI智能体入侵一事，便是佐证。&lt;/p&gt;
-商业利益：最现实的封锁动机
-&lt;p&gt;安全之外，还有一个更直接的商业逻辑。&lt;/p&gt;
-&lt;p&gt;据此前报道，部分投资者已向开发者发出警告：Anthropic可能会保留最先进的技术，专门用于发展自有竞争性应用，而非继续通过API对外开放。Anthropic甚至已涉足AI驱动的药物研发等新兴领域。&lt;/p&gt;
-&lt;p&gt;如果Anthropic作为AI API市场的绝对领导者，选择以这种方式限制竞争对手，将面临大规模反垄断调查。&lt;/p&gt;
-&lt;p&gt;从财务数据来看，API业务的战略价值不言而喻。据彭博报道，Anthropic二季度营收约为115亿美元，同比增长约14倍（去年同期为7.87亿美元，一季度为47.3亿美元），并已实现调整后经营利润层面的盈利。放弃这一收入来源，代价极高。&lt;/p&gt;
-&lt;p&gt;但AI驱动的垂直应用，可能提供更为丰厚的回报——这正是两家公司加速布局的根本原因。&lt;/p&gt;
-开发者自救：自训模型成新趋势
-&lt;p&gt;面对API访问权限的不确定性，头部AI应用开发商已开始行动。&lt;/p&gt;
-&lt;p&gt;法律AI公司Harvey和代码编辑工具Cursor均已着手训练自有内部模型，以减少对Anthropic和OpenAI的依赖。The Information认为，更多开发者将跟进这一路径。&lt;/p&gt;
-&lt;p&gt;这一趋势的逻辑并不复杂：当核心基础设施的供应方随时可能成为竞争对手，或单方面改变服务条款，构建自主可控的技术能力，就成为企业的必然选择。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;好巧不巧，就在今天，Cursor正式宣战GitHub！&lt;/p&gt;
+&lt;p&gt;正式并入SpaceXAI后，原班人马甩出了全新&lt;strong&gt;「代码托管平台」Origin。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Origin到底是什么，快速划重点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;定位：专门给Agent时代设计的Git代码托管平台，深度集成Cursor编辑器&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;核心能力：堆叠式PR、合并队、机器可读审查状态、MCP协议支持、事件驱动自动化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;兼容：GitHub双向实时同步，现有工作流不用动&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从今天起，Origin测试版向所有Pro/Teams/Enterprise付费用户开放&lt;/p&gt;
+&lt;p&gt;原以为，Cursor只是想干掉VS Code，但现在看来，&lt;strong&gt;GitHub才是它真正的「终极猎物」。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;几乎同一时间，微软股价跌超3%，超1120亿美元瞬间蒸发。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Cursor版Github，上线了
+&lt;p&gt;Origin不是「Cursor云端存了个代码副本」，它是一个完整的git托管平台。&lt;/p&gt;
+&lt;p&gt;早期测试版，能干的事非常多——&lt;/p&gt;
+&lt;p&gt;建仓库、用标准git做clone/push/pull、从GitHub同步仓库、在浏览器里浏览和搜索代码、开PR、review、合并、管权限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一整套GitHub核心动作，重做了一遍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;用法也很简单，在新的Codebase标签页点「+New」建个仓库。&lt;/p&gt;
+&lt;p&gt;页面会直接告诉你怎么装 CLI、怎么把本地项目推上去。&lt;/p&gt;
+&lt;p&gt;首次给codebase起的名字，会变成每个仓库网址的一部分，比如，cursor.com/codebase/acme-corp。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI自动合并，人类审查都省了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;和GitHub一样，在Origin中，每个代码仓库都有PR，主要亮点功能有三点。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;堆叠式PR&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;堆叠式PR允许把一个大变更拆成多个小PR，按依赖关系堆叠，Origin用可视化依赖图展示。&lt;/p&gt;
+&lt;p&gt;这对Agent太关键了。Agent天然喜欢大批量改代码，一次改50个文件是常态。全塞一个PR里？人类reviewer看到直接相关页面。堆叠式PR把这个问题拆开了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;合并队列&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一个仓库里10个Agent各自改了一批代码，各自提了PR，CI跑完全是绿的。&lt;/p&gt;
+&lt;p&gt;问题来了：先合哪个？合完一个，剩下9个的测试结果还能信吗？&lt;/p&gt;
+&lt;p&gt;传统GitHub处理这种局面非常痛苦，动不动就合并冲突、CI重跑、反复rebase。Origin的合并队列自动排序和检测冲突，保证主干永远CI绿。&lt;/p&gt;
+&lt;p&gt;更狠的是，遇到跨几十个文件的冲突分支，Origin在合并层直接内置了AI引擎自动解决冲突，连人工介入都省了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;机器可读的审查状态&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GitHub的审查状态本质上是给人看的，就是一个绿勾加一段评论文字。&lt;/p&gt;
+&lt;p&gt;Agent想判断一个PR能不能合并，得去解析评论内容。Origin把审查状态做成了结构化API，Agent直接读写，不用猜。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一个按钮，一键搬空GitHub&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最关键的是，老项目也不用搬家，Origin支持直接镜像GitHub仓库。&lt;/p&gt;
+&lt;p&gt;git历史、分支、标签全带过来，PR还能双向同步。&lt;/p&gt;
+&lt;p&gt;刚同步过来的时候，GitHub仍然是权威数据源（source of truth）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;简单讲，同一份代码可以存在很多地方，但总得有一份说了算：出了分歧以谁为准、CI从哪儿拉、上线部署认哪一份。&lt;/p&gt;
+&lt;p&gt;过去二十年，全世界绝大多数团队的「权威数据源」，都在GitHub手里。&lt;/p&gt;
+&lt;p&gt;如今，Origin彻底颠覆了这一格局。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;只要点击「Detach from GitHub」&lt;/strong&gt;，Origin就会反客为主，成为真正的「代码大本营」！&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这足以说明，它不是给GitHub套了层Cursor的皮。它是真的在建自己的「地基」。&lt;/p&gt;
+&lt;p&gt;这一次，Origin还打通了App生态，首批接了Vercel、Depot、Buildkite。&lt;/p&gt;
+&lt;p&gt;Vercel负责每个PR自动出预览部署；Depot和Buildkite负责CI，而且这俩都能跑你现成的GitHub Actions workflow。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;给Agent跑的地基&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不仅如此，Origin原生支持MCP，Agent可以像调API一样驱动整个forge，不局限于IDE。&lt;/p&gt;
+&lt;p&gt;性能数据这块，是说给Agent听的。&lt;/p&gt;
+&lt;p&gt;每小时296,000次clone、81,000次push，每秒22.6次commit，全球同步延迟低于400毫秒，自动故障转移10毫秒。&lt;/p&gt;
+&lt;p&gt;每秒commit 22次，听着离谱，但对一支Agent军团来说刚好够用。&lt;/p&gt;
+&lt;strong&gt;写代码的主力不是人了&lt;/strong&gt;
+&lt;p&gt;Cursor之所以要做Origin，根本原因在于，GitHub已经跟不上Agent的速度了。&lt;/p&gt;
+&lt;p&gt;今年3月Truell公开过一个内部数字：Cursor合并的PR里，35%-40%是Agent在云端虚拟机上自主完成的。&lt;/p&gt;
+&lt;p&gt;换句话就是，Agent自己开分支、自己提交、自己开PR。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;反观GitHub，这套2008年设计的工作流，骨子里是为「人」打造的。&lt;/p&gt;
+&lt;p&gt;一个人写完，找一两个人审，排队等合并，节奏以小时和天计。&lt;/p&gt;
+&lt;p&gt;但显然，Agent不按这个节奏来，十几个同时涌进一个仓库，时间尺度是秒。&lt;/p&gt;
+&lt;p&gt;Origin就是为这个现实建的。&lt;/p&gt;
+&lt;p&gt;代码、PR和Agent在同一个地方，在Cursor里写代码的时候，Agent可以直接改代码、更新PR、推分支，不用跳出去操作另一个平台。&lt;/p&gt;
+那么，你今天要不要搬家？
+&lt;p&gt;先别急。短期内没有哪个团队会把核心项目从GitHub整个搬走。&lt;/p&gt;
+&lt;p&gt;如果你已经在用Cursor的云端Agent跑后台任务，值得试一下Origin。&lt;/p&gt;
+&lt;p&gt;而且搬家成本几乎为零，仓库设置里点一下Detach from GitHub，主客就易位了。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;SpaceXAI研究员直接贴脸开大：GitHub崩了，不如看看Origin！&lt;/p&gt;
+&lt;p&gt;GitHub趴了那天，Cursor开门迎客。&lt;/p&gt;
+&lt;p&gt;下一次GitHub再趴，你可能已经不需要等它恢复了。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/Q0k88Fbe7CYj9k3-YZhK1A"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
