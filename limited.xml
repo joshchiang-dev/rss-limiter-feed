@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 23:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！</title><link>https://wallstreetcn.com/articles/3779727</link><guid>0c4583338dddd4878b10be4ae1446bb8e50a19d94953716296da7b3624b85127</guid><pubDate>Tue, 18 Aug 2026 15:01:14 GMT</pubDate><description>&lt;p&gt;OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 23:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！</title><link>https://wallstreetcn.com/articles/3779727</link><guid>0c4583338dddd4878b10be4ae1446bb8e50a19d94953716296da7b3624b85127</guid><pubDate>Tue, 18 Aug 2026 15:01:14 GMT</pubDate><description>&lt;p&gt;OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。&lt;/p&gt;
 &lt;p&gt;8月17至18日，&lt;strong&gt;OpenAI与OpenRouter及Vercel AI Gateway合作，在两个平台上对GPT-5.6 Sol提供50%限时折扣，有效期至2026年9月18日。折扣自动生效，开发者无需修改代码即可享受。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI官方API定价维持不变，Azure、Bedrock等其他渠道亦未跟进调整。&lt;/p&gt;
 &lt;p&gt;行业分析机构SemiAnalysis随即在X平台提出一种引人关注的解读：&lt;strong&gt;OpenRouter与Vercel在OpenAI总用量中占比极小，但二者恰恰是业界估算AI模型市场份额所依赖的主要公开数据源。&lt;/strong&gt;&lt;/p&gt;
@@ -19,10 +19,10 @@
 &lt;p&gt;此次促销最受关注的，是SemiAnalysis提出的动机质疑。该机构在X平台指出，OpenRouter与Vercel尽管在OpenAI总token用量中占比极低，却是行业内估算各AI实验室及模型市场份额的两大主要公开数据来源，其影响力远超其实际体量。&lt;/p&gt;
 &lt;p&gt;SemiAnalysis认为，若半价能在一个月内令Sol在这两个平台的用量实现两倍以上增长，投资者可能会将此误读为OpenAI在与Anthropic竞争中取得显著优势，从而影响市场对OpenAI竞争地位的判断。&lt;/p&gt;
 &lt;p&gt;需要指出的是，上述解读来自第三方分析，OpenAI与两个平台均未公开说明促销动机。&lt;/p&gt;
-&lt;p&gt;折扣已生效是确定事实，但促销背后的意图并无官方依据。无论动机如何，对用户而言，在9月18日之前通过OpenRouter或Vercel AI Gateway调用GPT-5.6 Sol，费用减半且无需任何代码改动，是当前可确认的全部事实。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技信用利差扩大打压美股，美股指三连跌，芯片指数重挫5%，美长债走V，原油三连涨</title><link>https://wallstreetcn.com/articles/3779677</link><guid>38a7d30ca2e00a4f4b38f7d4d1dff6645778c52c61948ba9a5d812a392d89dce</guid><pubDate>Tue, 18 Aug 2026 22:40:12 GMT</pubDate><description>&lt;p&gt;AI债务化担忧是当日市场核心矛盾。华尔街日报披露九大科技公司约3万亿美元表外AI承诺，叠加高盛统计的今年4890亿美元AI债券供给，投资者开始为AI资本开支的债务风险定价。&lt;/p&gt;
-&lt;p&gt;标普500跌0.67%，道指跌0.22%，纳指跌1.33%，三大指数连续第三个交易日收跌。费城半导体指数重挫6%，存储与光通信芯片集体跳水，能源与医疗板块逆势领涨，埃克森美孚涨2.58%。&lt;/p&gt;
+&lt;p&gt;折扣已生效是确定事实，但促销背后的意图并无官方依据。无论动机如何，对用户而言，在9月18日之前通过OpenRouter或Vercel AI Gateway调用GPT-5.6 Sol，费用减半且无需任何代码改动，是当前可确认的全部事实。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨</title><link>https://wallstreetcn.com/articles/3779677</link><guid>38a7d30ca2e00a4f4b38f7d4d1dff6645778c52c61948ba9a5d812a392d89dce</guid><pubDate>Tue, 18 Aug 2026 22:40:12 GMT</pubDate><description>&lt;p&gt;债市担忧下美股再挫，三大美国股指三连阴、齐创两周新低，纳指跌超1%。&lt;/p&gt;
+&lt;p&gt;高收益科技债利差吹出至474.9个基点，英伟达信用违约互换报价几乎追平Meta，费城半导体指数重挫6%，存储与光通信芯片集体跳水，能源与医疗板块逆势领涨。&lt;/p&gt;
+&lt;p&gt;中东风险持续，欧美长债收益率高企，中长期德债收益率继续创2011年来新高；美债收益率盘中冲高回落，30年期美债收益率再创2007年来新高后转降。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;长端美债盘中走出一波惊险行情。美伊停火到期叠加财政赤字高企，30年期收益率一度升至5.34%的2007年以来最高，10年期升至4.75%的19个月高位。高收益科技债利差吹出至474.9个基点，英伟达信用违约互换报价几乎追平Meta，科技股应声下挫。&lt;/p&gt;
 &lt;p&gt;油价与债市罕见脱钩，柴油成为焦点。特朗普称无与伊朗会谈但坚称霍尔木兹海峡开放，原油价格基本持平，柴油裂解价差却飙至70美元逼近2022年危机高点。&lt;/p&gt;
 &lt;p&gt;标普500能源指数逆势上涨1.8%创3月以来新高，黄金跌破4400美元，比特币则盘中冲上一周高位。市场焦点转向周三美联储会议纪要。&lt;/p&gt;
 AI债务化担忧发酵，科技信用利差压垮芯片股
