@@ -1,5 +1,120 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 07:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 中国AI基础设施的价值洼地：占全球85%的算力流量，仅10%的市场收入</title><link>https://wallstreetcn.com/articles/3779659</link><guid>453bd84ee9541723269c1c5edf80339b4fd20e398d28dd08347260434af49df5</guid><pubDate>Tue, 18 Aug 2026 02:18:48 GMT</pubDate><description>&lt;p&gt;中国AI模型已悄然主导全球算力消耗，但其基础设施的市场估值却与这一体量严重背离——这或许是当前AI投资领域最被忽视的套利机会。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 07:59:19 GMT</lastBuildDate><item><title>[华尔街见闻] Harness决定AI Agent表现关键！华尔街实测千问办公和Workbuddy</title><link>https://wallstreetcn.com/articles/3779691</link><guid>3aa3332f3f656463da7d0272173959f5a5e98658af93afd8839752b1cbef2bcb</guid><pubDate>Tue, 18 Aug 2026 07:48:49 GMT</pubDate><description>&lt;p&gt;华尔街投行杰富瑞的分析师，最近给市面上八个主流中美AI Agent做了一场实测，看谁真正能把活干好。&lt;/p&gt;
+&lt;p&gt;结果有点出乎意料：&lt;strong&gt;拿了第一名的，是阿里的千问办公，尽管它背后的模型智能分只排到第四&lt;/strong&gt;；模型能力第一的Claude Opus 5，它的Agent产品Claude Cowork拿了第二；另一个反直觉的结果是，最近大火的Workbuddy，这轮测试中隐含的Harness分在中国Agent里反而垫底。&lt;/p&gt;
+&lt;p&gt;杰富瑞的核心结论，用一句话概括：&lt;strong&gt;决定一个AI Agent好不好用，往往不是背后那个模型，Harness做得好是可以弥补模型智能差距的。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;strong&gt;Harness是什么：Agent里除了模型，剩下的都是它&lt;/strong&gt;
+
+
+
+&lt;p&gt;一个AI Agent干活的流程，可以拆成两半：一半是模型，负责&amp;quot;想&amp;quot;；另一半是harness，负责&amp;quot;管&amp;quot;。&lt;/p&gt;
+&lt;p&gt;杰富瑞把harness拆成了六层，每一层管的都是模型自己管不了的事：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;指令&lt;/strong&gt;：告诉Agent这个活是什么，红线在哪&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;上下文&lt;/strong&gt;：Agent干活时能看到的背景信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;工具&lt;/strong&gt;：Agent能用什么去完成这个任务&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;边界&lt;/strong&gt;：Agent能行动的范围划在哪&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;反馈&lt;/strong&gt;：告诉Agent哪里做错了，让它自己纠正、重新规划&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;治理&lt;/strong&gt;：让组织能管住一整批Agent&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这六层，正好对应了雇一个员工之后，公司要做的那些事——交代任务、给信息、给工具、划权限、给反馈、做管理。模型就是那个新来的聪明人，harness就是这套管理机制。聪明人再厉害，扔进一个没有管理的公司，也干不好活。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;来看一组控制变量的证据——模型不动，只换harness，看Agent表现怎么变。&lt;/p&gt;
+&lt;p&gt;结果：同一个Claude Opus 4.6，套上不同的harness，在Terminal-Bench 2.0这个基准上，得分从58.0%一路到76.4%，最高最低差了18.4个百分点。Gemini 3 Pro同样只换harness，得分从56.0%到69.4%，差13.4个百分点。&lt;/p&gt;
+
+
+
+&lt;strong&gt;实测八个中美Agent&lt;/strong&gt;
+
+
+
+&lt;p&gt;这次实测，杰富瑞挑了八个中美Agent。美国三个：Anthropic的Claude Cowork、OpenAI的Codex、谷歌的Gemini Spark。中国五个：腾讯的Workbuddy、阿里的千问办公、字节的豆包、月之暗面的Kimi Work、MiniMax的Code。&lt;/p&gt;
+&lt;p&gt;考卷是五项任务，每一项对应企业里真实存在的一类活。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一项，多文件检索。&lt;/strong&gt;丢给Agent一堆文件，让它写一份金蝶软件2025年报的一页摘要，覆盖营收、增长、毛利率、净利润、2026年指引、AI进展。要求很严：每条事实必须标明来自哪个文件；不同文件数字打架，必须指出冲突、说明哪个更可信；不许悄悄把矛盾数字抹平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二项，自主联网研究。&lt;/strong&gt;让它上网比较微软、Meta、谷歌三家最近季度的营收增速，以及2026年的资本开支指引。必须用一手来源，产出一张表，还要明确区分哪些是官方报的数字，哪些是自己估算的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三项，控制浏览器。&lt;/strong&gt;让它用真实的桌面浏览器，从OpenAI官网一路点到新闻页，找出最新一篇文章，读完全文，生成一个Word文件，含标题、日期、分类、链接、150到200字摘要和三条要点。不许用API或爬虫抄近路，必须真的用浏览器点进去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四项，做PPT。&lt;/strong&gt;给它一份文件，做5页英文PPT，要有故事线，第一页要用文件数据画图，不许编造数据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第五项，生成营销海报。&lt;/strong&gt;给它一张鞋的照片做参考，为虚构篮球鞋品牌做原创海报，去掉所有Nike、Jordan的logo，不抄商标口号，3:4竖版，适合发小红书。&lt;/p&gt;
+&lt;p&gt;这五项，从读文件、查资料、操作软件、做PPT到作图，几乎覆盖了企业里最常见的几类工作。&lt;/p&gt;
+&lt;p&gt;打分方式也讲究。每项任务拆成5个维度，维度跟着任务走，不是通用模板，每个维度0到20分，一项满分100，五项平均得出总分。&lt;/p&gt;
+
+
+
+
+&lt;strong&gt;结果：模型最弱的，拿了第一&lt;/strong&gt;
+
+
+
+&lt;p&gt;前三名分别是：千问办公95分，Claude Cowork 94分，Codex 92分。接下来依次是Kimi Work 86分，豆包77分、MiniMax Code 71分，Workbuddy和谷歌的Gemini Spark并列垫底，都是66分。值得一提的是千问办公的“逆袭”。它背后的模型Qwen 3.8 Max，智能分只有56。而Claude Cowork背后是Claude Opus 5，61分；Codex背后是GPT-5.6 Sol，59分。模型差着五六分，Agent总分反而高出一两分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这也说明，Harness优势，足以抵消模型智能的差距。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了验证这一点，杰富瑞做了一个拆解：把Agent能力分成模型和Harness两块，给模型60%权重、Harness 40%权重，用Agent总分反推出每个产品的&amp;quot;隐含Harness分&amp;quot;。结果千问办公的Harness分最高，超过了美国的Claude Cowork和Codex。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;实测还发现了一些中美Agent的能力差异。&lt;/p&gt;
+&lt;p&gt;第五项营销海报，是美国Agent的滑铁卢。Claude Cowork和Gemini Spark都在这里翻车，而千问办公和豆包这类中国Agent做得更好。&lt;/p&gt;
+&lt;p&gt;第二项控制浏览器，是中国Agent的弱点。Workbuddy和MiniMax Code在这里栽了跟头，美国三家的表现更稳。&lt;/p&gt;
+&lt;p&gt;速度上也有差异。美国那边，Gemini Spark最快，Codex次之，Claude Cowork最慢。中国这边，Workbuddy最快，豆包和MiniMax相当，Kimi Work和千问办公偏慢。另外，Claude Cowork的&amp;quot;品味&amp;quot;最好，PPT排版和配色最讲究，但这个归功于模型能力，跟Harness无关。&lt;/p&gt;
+&lt;p&gt;价格是另一重碾压。千问办公背后的Qwen 3.8 Max，API价格每百万token约1.1美元；GPT-5.6 Sol是4.4美元，Opus 5是3.9美元。&lt;/p&gt;
+
+
+
+&lt;strong&gt;Workbuddy的错位&lt;/strong&gt;
+
+
+
+&lt;p&gt;报告里另一个值得细看的对象，是腾讯的Workbuddy。&lt;/p&gt;
+&lt;p&gt;它的数据很漂亮：6月月访问量约2100万，中国同类Agent里排第一。但在这份实测里，Workbuddy的隐含Harness分，在中国Agent里垫底。&lt;/p&gt;
+&lt;p&gt;访问量第一，Harness垫底，这个错位怎么解释？&lt;/p&gt;
+&lt;p&gt;杰富瑞给了三个原因。&lt;/p&gt;
+&lt;p&gt;第一，Workbuddy深度嵌在腾讯自家的生态里，腾讯文档、IMA、企业微信，入口都在手上。&lt;/p&gt;
+&lt;p&gt;第二，它走的是模型无关的路线，用户可以在harness里随意切换Kimi K3、DeepSeek V4、GLM 5.2这些开源模型，用别人的强模型补自己的短板。&lt;/p&gt;
+&lt;p&gt;第三，腾讯的营销投入很猛。&lt;/p&gt;
+&lt;p&gt;这三条，跟Harness工程做得好不好，没有直接关系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告的判断是：短期看，Workbuddy赢在入口和分发；长期看，2100万的用户基础会沉淀出海量真实使用数据，这些数据反过来能帮腾讯改进Harness，甚至训练自己的模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在中国市场这个阶段，分发能力暂时跑在了Harness工程前面。但决定一个Agent最终能走多远的，还是Harness。&lt;/p&gt;
+&lt;strong&gt;中国在Harness上有优势，也有绕不开的短板&lt;/strong&gt;
+&lt;p&gt;报告把中国和美国的Harness打法做了个对比：中国在几个结构性的地方领先，但也有几块短板压着。&lt;/p&gt;
+&lt;p&gt;先说优势，四个。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;超级App集成。&lt;/strong&gt; 美国Agent接工具，一般靠connector去连。中国不一样，很多Agent直接嵌在企微、飞书、钉钉这些平台里，数据、分发、变现一条线全打通。这是中国厂商独有的地基。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;模型无关的Harness。&lt;/strong&gt; 腾讯Workbuddy、字节Trae走的都是这条路——harness自己不带模型，用户按任务的难度、延迟、成本随便切换Kimi K3、DeepSeek V4、GLM 5.2这些第三方模型。用别人的强模型，补自己的短板。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;低token价格。&lt;/strong&gt; 出口管制逼着中国实验室走高效的MoE架构和推理优化，加上国内竞争卷得厉害，中国模型的token价格平均比美国低70%到80%。token便宜，那些消耗大量推理的agent工作流才跑得起，这也加快了企业采纳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;迭代速度快。&lt;/strong&gt; Hrness的质量，是靠在真实场景里一次次失败试出来的。中国厂商用户量大、碰到的失败案例多，迭代反而更快。&lt;/p&gt;
+&lt;p&gt;再说短板，也有四个。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;模型差距还在。 &lt;/strong&gt;Harness-Bench的数据显示，强模型的平均分更高、跨Harness的方差更小；弱模型更依赖Harness。中国模型整体还落后美国，得靠更出色的Harness才能把Agent能力顶上去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;产品定价低。&lt;/strong&gt; 中国企业软件市场一向变现难，中小企业对价格敏感，大型央国企又偏爱定制项目、不太认订阅制。这拖累的不只是利润，还有持续投入Harness工程的动力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;出海难。&lt;/strong&gt; Workbuddy、Qoder在国内用户涨得快，但要把这套成功复制到海外很难——中国Agent是为本地生态和用户习惯优化的，而美国的Harness受益于全球标准化的软件栈。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;算力瓶颈。&lt;/strong&gt; Agent工作流对推理算力的消耗，比普通对话高得多。中国厂商高端算力短缺，可能导致服务不稳定，也反过来限制变现能力。&lt;/p&gt;
+
+
+
+&lt;strong&gt;Harness为什么越来越重要&lt;/strong&gt;
+
+
+&lt;p&gt;最后再提一嘴Harness的价值，主要是三个方面：&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;粘性。&lt;/strong&gt; 模型能力越来越趋同，但harness不一样。客户的工作习惯、对话历史、记忆、连接器、技能、自动化，全都沉淀在harness里。用得越久，换走的成本越高。模型可以随时换，harness是换不掉的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据飞轮。&lt;/strong&gt; 每一次Agent运行，都会产生一条trace——调了什么工具、什么失败了、人怎么纠正的。这些数据能喂给下一代的强化学习，也能用来改进harness本身。用户越多，数据越多，Agent越好，用户更多。这是一个正循环。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;付费意愿。&lt;/strong&gt; 报告点破了一件事：企业和消费者买的不是&amp;quot;智能&amp;quot;，他们自己没有开发应用的能力。他们买的是&amp;quot;harness + 模型&amp;quot;打包好的完整Agent产品。这也是为什么Claude Code、Claude Cowork、Workbuddy这类产品用户增长快——客户为harness付钱，模型只是顺带。&lt;/p&gt;
+&lt;p&gt;而对于一家公司来说，AI落地的关键在工程层，不在模型层。真正的机会在&amp;quot;把harness做好&amp;quot;这件事上——管好指令、上下文、工具、边界、反馈、治理这六件事，比追最强的模型更可能做出落地的东西。&lt;/p&gt;
+
+
+&lt;p&gt;&lt;strong&gt;本文来自微信公众号&lt;/strong&gt;「&lt;strong&gt;&lt;a href="https://mp.weixin.qq.com/s/k_z796yasqZpB5fOXah5Cg"&gt;AI原生Lab&lt;/a&gt;&lt;/strong&gt;」&lt;strong&gt;，持续拆解真实AI落地案例，分享企业AI实践与方法论。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国AI基础设施的价值洼地：占全球85%的算力流量，仅10%的市场收入</title><link>https://wallstreetcn.com/articles/3779659</link><guid>453bd84ee9541723269c1c5edf80339b4fd20e398d28dd08347260434af49df5</guid><pubDate>Tue, 18 Aug 2026 02:18:48 GMT</pubDate><description>&lt;p&gt;中国AI模型已悄然主导全球算力消耗，但其基础设施的市场估值却与这一体量严重背离——这或许是当前AI投资领域最被忽视的套利机会。&lt;/p&gt;
 &lt;p&gt;据zerohedge周二报道，OpenRouter数据显示，中国开源模型承载了全球85%至89%的智能体与代码生成token流量，但对应的算力消费收入占比仅为10%至16%。换言之，&lt;strong&gt;市场目前定价的是一个10%的变现故事，而其背后支撑的是一个85%的流量现实。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，美国AI算力基础设施的企业价值合计约1750亿美元，中国同类资产仅约200亿美元——单一CoreWeave的市值，足以买下中国头部算力三巨头近四倍。&lt;/p&gt;
 &lt;p&gt;基本面正在出现拐点。GDS（万国数据）刚刚录得上半年创纪录的470兆瓦新签预订量，并上调全年业绩指引，同时恢复盈利；VNET（世纪互联）将于8月18日发布财报。估值洼地已然存在，基本面的向上拐折正在成为催化剂。&lt;/p&gt;
@@ -96,36 +211,7 @@
 &lt;p&gt;彭博策略师Mark Cranfield亦表示，亚洲股市整体情绪明显偏负面，韩国综合股价指数早盘涨幅消失是一个缩影。&amp;quot;油市扩散效应持续推升通胀压力并抬高长期国债收益率，这才是股市面临的更大隐忧。&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此外，美元小幅反弹，此前曾于周一跌至5月以来最低水平；黄金下跌0.6%，报约每盎司4390美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10年美债收益率逼近5%，“债券义警”蠢蠢欲动！Yardeni：已进入关键警戒区</title><link>https://wallstreetcn.com/articles/3779680</link><guid>d41aee737c8c2864d612192c0bc5fc7d03e68a7bbd5acc6324e9ac168a4ceb05</guid><pubDate>Tue, 18 Aug 2026 06:51:10 GMT</pubDate><description>&lt;p&gt;美国国债收益率再度逼近5%关键关口，&amp;quot;债券义警&amp;quot;重燃市场警惕情绪。&lt;/p&gt;
-&lt;p&gt;Yardeni Research周二表示，尽管投资者对美国政府债务攀升的担忧持续升温，但目前尚无必要触发恐慌。该机构首席策略师Ed Yardeni领衔的团队在研究报告中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们还没有按下恐慌键，但正在密切监测债券义警是否会这样做。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;美国10年期国债收益率目前报4.73%，逼近逾一年高位。Yardeni Research维持此前判断，认为美债收益率应在4%至5%的正常区间内运行，不会对经济和企业盈利造成实质性负面影响，但强调随着收益率接近区间上沿，警戒级别已显著提升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-三重压力推升收益率
-
-&lt;p&gt;推动美债收益率走高的因素正在多点汇聚。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首先是财政压力。&lt;/strong&gt;美国政府支出持续扩张，利息支付规模已升至历史高位，市场对财政可持续性的质疑不断加剧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其次是通胀风险。&lt;/strong&gt;Yardeni Research指出，一旦油价因伊朗战争延长而再度上涨，通胀压力将进一步累积，并强化美联储加息预期。该机构同时对美联储能否在油价反弹背景下保持对通胀的足够警惕性提出疑问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三是企业借贷激增。&lt;/strong&gt;人工智能浪潮推动科技巨头（超大规模云计算企业）大举融资，令华盛顿与硅谷在同一资本池中形成竞争，加剧了债券市场的供需压力。&lt;/p&gt;
-
-2023年经历或提供参照
-
-&lt;p&gt;Yardeni Research援引2023年夏季经历，为当前局面提供了历史参照。&lt;/p&gt;
-&lt;p&gt;该机构指出，2023年美国10年期收益率在数月内从4%急升至5%，彼时该水平最终吸引了大批买盘入场。据此，&lt;strong&gt;该机构认为，若收益率再度触及5%附近，类似的买入机会或将重现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该机构策略师写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们坚持认为，美债收益率应继续在4%至5%的正常区间内交易，不会对经济和企业盈利产生不利影响。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-影响蔓延全球市场
-
-&lt;p&gt;美债收益率走高的溢出效应正在向全球传导。Yardeni Research表示，&lt;strong&gt;由于美国国债是全球债务定价的基准，美国利率上升将直接推升世界各地的主权债、企业债及抵押贷款成本。&lt;/strong&gt;与此同时，较高的美国利率吸引全球资本流向美元，令日本在阻止日元跌破160兑1美元方面的努力更加复杂。&lt;/p&gt;
-&lt;p&gt;&amp;quot;债券义警&amp;quot;（bond vigilantes）一词由Ed Yardeni本人于1980年代首创，用以描述那些通过抛售国债来抗议政府通胀性政策的投资者。这一行为压低债券价格、推高收益率，从而迫使当局回归财政约束轨道。&lt;/p&gt;
-&lt;p&gt;在全球范围内，债券义警活跃程度近月来明显上升。Yardeni Research指出，这一现象表明市场对政府债务的担忧并不局限于美国。英国和日本因债务负担相对于经济体量尤为沉重，债券义警在这两个市场表现尤为活跃。&lt;/p&gt;
-&lt;p&gt;30年期美国国债收益率近期已触及近二十年来最高水平，折射出投资者对长期财政前景的深度忧虑。Yardeni Research表示，当前尚未按下恐慌键，但监测力度已切实加强——区间上沿的每一个基点，都在为市场积累新的变数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树科技8月19日上市！</title><link>https://wallstreetcn.com/articles/3779630</link><guid>0bad8439163be8eaa84042bfebaccc5110231ac89039be59d5ec5366094523f4</guid><pubDate>Mon, 17 Aug 2026 20:50:55 GMT</pubDate><description>&lt;p&gt;人形机器人领域的明星企业宇树科技，&lt;strong&gt;将于2026年8月19日正式登陆科创板。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树科技8月19日上市！</title><link>https://wallstreetcn.com/articles/3779630</link><guid>0bad8439163be8eaa84042bfebaccc5110231ac89039be59d5ec5366094523f4</guid><pubDate>Mon, 17 Aug 2026 20:50:55 GMT</pubDate><description>&lt;p&gt;人形机器人领域的明星企业宇树科技，&lt;strong&gt;将于2026年8月19日正式登陆科创板。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;公司以150.80元/股的发行价完成定价，对应发行后总市值约609.93亿元，发行市盈率高达219倍，&lt;/strong&gt;远超通用设备制造业约38倍的行业平均水平。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;上市初期无限售流通股仅3008.77万股、占总股本的7.44%。&lt;/strong&gt;网上中签率0.0181%创下科创板历史新低。根据衍生品数据，目前预计开盘市值约为416.6亿美元，较其IPO估值高出约360%。&lt;/p&gt;
 &lt;p&gt;公司以人形机器人和四足机器人研发、生产及销售为核心业务，由创始人、董事长兼首席技术官王兴兴掌舵，通过特别表决权安排，其上市后合计控制公司约65.31%的表决权。&lt;/p&gt;
@@ -237,19 +323,36 @@
 &lt;p&gt;所谓&amp;quot;VaR冲击&amp;quot;政策，是指美国官员（有时也包括伊朗官员）持续、高频地向原油市场释放指引信号，为试图囤积石油风险的投机者制造高度不确定的交易环境。Frank Monkam指出，该政策在遏制油价方面已取得一定成效，但同时也对市场微观结构造成了显著影响。对投资者而言，这意味着单纯依赖地缘风险溢价押注油价大幅上扬的策略，正面临更高的不确定性。&lt;/p&gt;
 &lt;p&gt;交易员目光同时聚焦于美国原油库存动向。高盛报告显示，全球原油库存仍处于历史低位。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;上周公布的数据显示，美国原油库存意外升至近两个月最高水平，对油价构成一定压力。由行业支持的美国石油协会将于周二晚些时候发布最新库存预估数据，官方数据则将于本周中段公布。若库存继续累积，可能进一步削弱油价的上涨动能。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传音吃到窗口期：手机先涨价，存储成本还没追上</title><link>https://wallstreetcn.com/articles/3779683</link><guid>1f1a345de2ff1d3711fee31b639aaeb963420df059987eefd8473052fd4cf0c8</guid><pubDate>Tue, 18 Aug 2026 06:58:30 GMT</pubDate><description>&lt;p&gt;智能手机卖得更少了，传音控股却交出了近年来最好看的一份半年报。&lt;/p&gt;
-&lt;p&gt;2026年上半年，传音营收354.31亿元，同比增长21.85%；归母净利润17.73亿元，同比大增46.22%；扣非净利润增速更是达到64.98%。&lt;/p&gt;
-&lt;p&gt;这个数据的背后是传音正站在一个成本滞后窗口上：把存储涨价的账单，先转给非洲和南亚的消费者，后转给未来的利润表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;销售端，手机卖得更少，但每一台卖得更贵。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在全球智能手机出货量下滑的背景下，2026年上半年传音全球智能手机市场份额为7.1%，较2025年同期下滑了0.8个百分点，排名第六。&lt;/p&gt;
-&lt;p&gt;“2026年上半年，公司根据成本变化和市场竞争策略相应做了产品价格调整，智能手机产品平均销售价格有所上涨，收入同比增长。”传音控股表示。&lt;/p&gt;
-&lt;p&gt;这推动了利润的增长，但这当中需要打上时间差。&lt;/p&gt;
-&lt;p&gt;具体来看，今年上半年利润改善不仅来自手机提价，也来自一部分尚未完全传导至利润表的成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;按照传音披露的会计政策，公司发出存货采用移动加权平均法计价。简单来说，当价格更高的新一批存储等原材料进入库存后，并不会立刻全部按照最新采购价格进入手机成本，而是与此前库存的历史成本重新加权，再随着产品销售逐步结转。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这意味着，在存储价格快速上涨的过程中，如果企业此前储备了大量价格更低的库存，历史低价库存就会暂时稀释新采购原材料涨价带来的冲击，原材料价格向营业成本的传导存在一定滞后。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这种滞后性提升了传音控股的毛利表现，2026年上半年毛利率达到22.63%，同比提升了2.54个百分点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;整体来看，2026年上半年传音恰好站在这段时间差更有利的一端：销售端已经根据存储涨价调整手机售价，成本端却还在消化一部分历史库存。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;真正检验这轮增长质量的时间点，可能是当低价库存红利逐步消退，如果传音仍能维持当前的毛利率，才意味着这轮提价真正转化成了更强的盈利能力；反之，如果高价存储开始集中进入成本，今天被时间差暂时挡住的压力仍会重新回到利润表。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩拆解中国AI算力账：自建3年回本，云厂ROIC可达13%-20%，阿里云最具优势</title><link>https://wallstreetcn.com/articles/3779676</link><guid>e1488d4b8e65d02831ac04b231585cdc5b0b284f9b3d0805e52a8bcd45ebc67a</guid><pubDate>Tue, 18 Aug 2026 06:27:11 GMT</pubDate><description>&lt;p&gt;算力投资的回报之争正在进入量化阶段。&lt;/p&gt;
+&lt;p&gt;上周公布的数据显示，美国原油库存意外升至近两个月最高水平，对油价构成一定压力。由行业支持的美国石油协会将于周二晚些时候发布最新库存预估数据，官方数据则将于本周中段公布。若库存继续累积，可能进一步削弱油价的上涨动能。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10年美债收益率逼近5%，“债券义警”蠢蠢欲动！Yardeni：已进入关键警戒区</title><link>https://wallstreetcn.com/articles/3779680</link><guid>d41aee737c8c2864d612192c0bc5fc7d03e68a7bbd5acc6324e9ac168a4ceb05</guid><pubDate>Tue, 18 Aug 2026 06:51:10 GMT</pubDate><description>&lt;p&gt;美国国债收益率再度逼近5%关键关口，&amp;quot;债券义警&amp;quot;重燃市场警惕情绪。&lt;/p&gt;
+&lt;p&gt;Yardeni Research周二表示，尽管投资者对美国政府债务攀升的担忧持续升温，但目前尚无必要触发恐慌。该机构首席策略师Ed Yardeni领衔的团队在研究报告中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们还没有按下恐慌键，但正在密切监测债券义警是否会这样做。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;美国10年期国债收益率目前报4.73%，逼近逾一年高位。Yardeni Research维持此前判断，认为美债收益率应在4%至5%的正常区间内运行，不会对经济和企业盈利造成实质性负面影响，但强调随着收益率接近区间上沿，警戒级别已显著提升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+三重压力推升收益率
+
+&lt;p&gt;推动美债收益率走高的因素正在多点汇聚。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首先是财政压力。&lt;/strong&gt;美国政府支出持续扩张，利息支付规模已升至历史高位，市场对财政可持续性的质疑不断加剧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其次是通胀风险。&lt;/strong&gt;Yardeni Research指出，一旦油价因伊朗战争延长而再度上涨，通胀压力将进一步累积，并强化美联储加息预期。该机构同时对美联储能否在油价反弹背景下保持对通胀的足够警惕性提出疑问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三是企业借贷激增。&lt;/strong&gt;人工智能浪潮推动科技巨头（超大规模云计算企业）大举融资，令华盛顿与硅谷在同一资本池中形成竞争，加剧了债券市场的供需压力。&lt;/p&gt;
+
+2023年经历或提供参照
+
+&lt;p&gt;Yardeni Research援引2023年夏季经历，为当前局面提供了历史参照。&lt;/p&gt;
+&lt;p&gt;该机构指出，2023年美国10年期收益率在数月内从4%急升至5%，彼时该水平最终吸引了大批买盘入场。据此，&lt;strong&gt;该机构认为，若收益率再度触及5%附近，类似的买入机会或将重现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该机构策略师写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们坚持认为，美债收益率应继续在4%至5%的正常区间内交易，不会对经济和企业盈利产生不利影响。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+影响蔓延全球市场
+
+&lt;p&gt;美债收益率走高的溢出效应正在向全球传导。Yardeni Research表示，&lt;strong&gt;由于美国国债是全球债务定价的基准，美国利率上升将直接推升世界各地的主权债、企业债及抵押贷款成本。&lt;/strong&gt;与此同时，较高的美国利率吸引全球资本流向美元，令日本在阻止日元跌破160兑1美元方面的努力更加复杂。&lt;/p&gt;
+&lt;p&gt;&amp;quot;债券义警&amp;quot;（bond vigilantes）一词由Ed Yardeni本人于1980年代首创，用以描述那些通过抛售国债来抗议政府通胀性政策的投资者。这一行为压低债券价格、推高收益率，从而迫使当局回归财政约束轨道。&lt;/p&gt;
+&lt;p&gt;在全球范围内，债券义警活跃程度近月来明显上升。Yardeni Research指出，这一现象表明市场对政府债务的担忧并不局限于美国。英国和日本因债务负担相对于经济体量尤为沉重，债券义警在这两个市场表现尤为活跃。&lt;/p&gt;
+&lt;p&gt;30年期美国国债收益率近期已触及近二十年来最高水平，折射出投资者对长期财政前景的深度忧虑。Yardeni Research表示，当前尚未按下恐慌键，但监测力度已切实加强——区间上沿的每一个基点，都在为市场积累新的变数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩拆解中国AI算力账：自建3年回本，云厂ROIC可达13%-20%，阿里云最具优势</title><link>https://wallstreetcn.com/articles/3779676</link><guid>e1488d4b8e65d02831ac04b231585cdc5b0b284f9b3d0805e52a8bcd45ebc67a</guid><pubDate>Tue, 18 Aug 2026 06:27:11 GMT</pubDate><description>&lt;p&gt;算力投资的回报之争正在进入量化阶段。&lt;/p&gt;
 &lt;p&gt;摩根士丹利最新报告将北美ROIC框架引入中国云计算市场，对自建GPU基础设施、租用第三方算力以及模型即服务（MaaS）三条路径逐一拆解得出结论&lt;strong&gt;：中国云厂商的ROIC区间为13%至20%&lt;/strong&gt;&lt;strong&gt;，现金回收期约为3年。尽管受制于更高的服务器硬件成本，回报率低于美国同业的25%-50%，但摩根士丹利认为，随着算力需求持续强劲，更高的资本开支将在中期驱动可观回报。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报告认为，阿里凭借最大规模的AI基础设施、成熟的云业务体系以及经验证的通义千问（Qwen）模型能力，有能力穿越三种场景均实现可观回报，这一组合也支撑其估值溢价。分析师给予阿里巴巴美股评级&amp;quot;增持&amp;quot;，目标价180美元，较当前价格有约45%的上涨空间。&lt;/p&gt;
 &lt;p&gt;值得关注的是，报告同步指出腾讯资本开支已折年化超过2000亿元人民币，这将对阿里的资本开支计划形成上行压力，但分析师认为阿里对IaaS和MaaS的聚焦使其ROIC可见度相对更高。在MaaS场景下，阿里目标年末MaaS年化经常性收入（ARR）超过300亿元人民币，若实现这一目标，云业务利润率存在显著改善空间——当前阿里云利润率仅为11%至12%。&lt;/p&gt;
@@ -282,7 +385,19 @@ MaaS：利润率最高，但对推理比例和吞吐量高度敏感
 
 &lt;p&gt;摩根士丹利的跨市场比较揭示了一个结构性制约：在IaaS场景下，中美两国每GW收入规模大体相当，但中国服务器资本开支远高于美国，导致折旧成本压制整体回报。中国ROIC（13%）约为美国（31%）的42%，现金回收期也长于美国的2.2年。&lt;/p&gt;
 &lt;p&gt;在MaaS场景下，中国在token吞吐量方面略胜一筹（4000 TPS/GPU对比美国2750），部分受益于规模更小的模型、更广泛的MoE/注意力机制应用及更高的KV缓存效率。但受制于推理占比较低（50%对比美国65%）和更具竞争压力的定价环境，中国MaaS的NOPAT约为美国的69%，ROIC为19.5%，而美国为46.2%。&lt;/p&gt;
-&lt;p&gt;分析师认为，缩小这一差距的三条核心路径在于：GPU硬件成本的持续下降、模型迭代效率的提升，以及算力分配从训练向推理的加速转移。随着这三大变量逐步改善，中国云厂商AI算力投资的回报曲线存在显著上行弹性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元有基本面支撑吗？</title><link>https://wallstreetcn.com/articles/3779653</link><guid>3c92b01047f65954a5cb5523f5d44763406fa35686461f57005bdc3751e50ebc</guid><pubDate>Tue, 18 Aug 2026 00:23:49 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;去年热烈演绎“去美元化”的宏大叙事，今年似乎戛然而止了。&lt;/strong&gt;看着“后视镜”，今年美元走强的理由有很多：美国经济增速较去年底回升，地缘冲突推升能源通胀、带动美联储加息预期再度回摆等等。&lt;strong&gt;但在这些显性因素以外，我们注意到全球美元流动机制正在发生潜移默化的结构性演变，这为美元形成了不易被市场察觉的底部支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师认为，缩小这一差距的三条核心路径在于：GPU硬件成本的持续下降、模型迭代效率的提升，以及算力分配从训练向推理的加速转移。随着这三大变量逐步改善，中国云厂商AI算力投资的回报曲线存在显著上行弹性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传音吃到窗口期：手机先涨价，存储成本还没追上</title><link>https://wallstreetcn.com/articles/3779683</link><guid>1f1a345de2ff1d3711fee31b639aaeb963420df059987eefd8473052fd4cf0c8</guid><pubDate>Tue, 18 Aug 2026 06:58:30 GMT</pubDate><description>&lt;p&gt;智能手机卖得更少了，传音控股却交出了近年来最好看的一份半年报。&lt;/p&gt;
+&lt;p&gt;2026年上半年，传音营收354.31亿元，同比增长21.85%；归母净利润17.73亿元，同比大增46.22%；扣非净利润增速更是达到64.98%。&lt;/p&gt;
+&lt;p&gt;这个数据的背后是传音正站在一个成本滞后窗口上：把存储涨价的账单，先转给非洲和南亚的消费者，后转给未来的利润表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;销售端，手机卖得更少，但每一台卖得更贵。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在全球智能手机出货量下滑的背景下，2026年上半年传音全球智能手机市场份额为7.1%，较2025年同期下滑了0.8个百分点，排名第六。&lt;/p&gt;
+&lt;p&gt;“2026年上半年，公司根据成本变化和市场竞争策略相应做了产品价格调整，智能手机产品平均销售价格有所上涨，收入同比增长。”传音控股表示。&lt;/p&gt;
+&lt;p&gt;这推动了利润的增长，但这当中需要打上时间差。&lt;/p&gt;
+&lt;p&gt;具体来看，今年上半年利润改善不仅来自手机提价，也来自一部分尚未完全传导至利润表的成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;按照传音披露的会计政策，公司发出存货采用移动加权平均法计价。简单来说，当价格更高的新一批存储等原材料进入库存后，并不会立刻全部按照最新采购价格进入手机成本，而是与此前库存的历史成本重新加权，再随着产品销售逐步结转。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着，在存储价格快速上涨的过程中，如果企业此前储备了大量价格更低的库存，历史低价库存就会暂时稀释新采购原材料涨价带来的冲击，原材料价格向营业成本的传导存在一定滞后。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这种滞后性提升了传音控股的毛利表现，2026年上半年毛利率达到22.63%，同比提升了2.54个百分点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体来看，2026年上半年传音恰好站在这段时间差更有利的一端：销售端已经根据存储涨价调整手机售价，成本端却还在消化一部分历史库存。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;真正检验这轮增长质量的时间点，可能是当低价库存红利逐步消退，如果传音仍能维持当前的毛利率，才意味着这轮提价真正转化成了更强的盈利能力；反之，如果高价存储开始集中进入成本，今天被时间差暂时挡住的压力仍会重新回到利润表。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元有基本面支撑吗？</title><link>https://wallstreetcn.com/articles/3779653</link><guid>3c92b01047f65954a5cb5523f5d44763406fa35686461f57005bdc3751e50ebc</guid><pubDate>Tue, 18 Aug 2026 00:23:49 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;去年热烈演绎“去美元化”的宏大叙事，今年似乎戛然而止了。&lt;/strong&gt;看着“后视镜”，今年美元走强的理由有很多：美国经济增速较去年底回升，地缘冲突推升能源通胀、带动美联储加息预期再度回摆等等。&lt;strong&gt;但在这些显性因素以外，我们注意到全球美元流动机制正在发生潜移默化的结构性演变，这为美元形成了不易被市场察觉的底部支撑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;其中，美国境外私人部门与官方（海外多国央行等，下同）储备的资产配置行为正在出现分化。&lt;/strong&gt;两股力量的博弈下，即便在“去美元化”叙事持续发酵下，美元买盘也很难真正枯竭，这也正是叙事预期与汇率现实出现背离的重要原因。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 一、全球美元流动机制的结构演变
@@ -366,73 +481,4 @@ MaaS：利润率最高，但对推理比例和吞吐量高度敏感
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;专业REITs、零售REITs及工业REITs是净卖出规模最大的子板块，医疗保健REITs及多元化REITs则录得小幅净买入。&lt;strong&gt;目前美国房地产股票的多空比率为1.70&lt;/strong&gt;，处于过去一年第82百分位及过去三年第78百分位，估值相对拥挤或是资金获利了结的重要背景。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;能源和公用事业板块同样遭到净卖出，与信息技术、通信服务等成长及顺周期板块的强势形成鲜明对比，进一步印证本轮对冲基金调仓的顺周期方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超1%，农业股逆势爆发，频准激光上市首日暴涨超500%，恒科指跌2%，AI大模型双雄重挫</title><link>https://wallstreetcn.com/articles/3779668</link><guid>742db947560d7f20c4d8ba2591b1477b82867b6c0a8823cec88ce4206e6051e5</guid><pubDate>Tue, 18 Aug 2026 04:03:43 GMT</pubDate><description>&lt;p&gt;8月18日，A股早盘冲高回落，三大指数普跌，创业板一度跌超2%，半导体产业链局部活跃，半导体硅片概念股拉升，农业板块大涨，摩根大通&amp;quot;全球粮食危机&amp;quot;警告点燃种业与粮食概念，资金由高位科技转向农业、油气等低位方向。&lt;/p&gt;
-&lt;p&gt;此外，能源设备、石油天然气、煤炭、海运等板块上涨，AI应用、航天军工、生物科技等板块陷入调整。频准激光IPO首日开盘暴涨近500%，单签浮盈约45.66万元，创新股首日收益历史纪录。&lt;/p&gt;
-&lt;p&gt;港股低开低走，恒指、恒科指双双下跌，恒科指跌2%，权重科网股普遍下跌，京东、美团跌超3%。AI大模型双雄重挫，智谱跌超16%，MINIMAX跌12%。债市方面，国债期货普涨。商品方面，国内商品期货分化，燃油、原油涨幅居前。核心市场走势：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.39%，深成指跌1.09%，创业板指跌1.30%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.65%，恒科指跌1.99%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线反弹，截至发稿，30年期主力合约涨0.34%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.03%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至发稿，能源品涨幅居前，原油涨5.61%；化工品全部上涨，乙二醇涨3.16%；油脂油料多数上涨，豆二涨2.71%；黑色系多数上涨，焦炭涨1.20%；航运期货全部上涨，集运指数(欧线)涨0.99%；非金属建材全部上涨，PVC涨0.90%；基本金属跌幅居前，锡跌1.53%；新能源材料全部下跌，多晶硅跌1.17%；农副产品多数下跌，鸡蛋跌0.91%；贵金属多数下跌，钯跌0.61%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;12:01&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，权重科网股全线下跌，美团、快手、哔哩哔哩跌超3%，芯片半导体亦下挫，天数智芯跌超7%，澜起科技跌6%，AI大模型双雄重挫，智谱跌超16%，MINIMAX跌超12%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11:44&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股跌多涨少，沪深京三市约4000股飘绿，上午半天成交1.65万亿。沪深两市半日成交额1.64万亿，较上个交易日放量近1400亿。板块方面，金融科技、AI应用、网络安全、商业航天、锂电池、电商概念股纷纷下挫；种业、工业金属、半导体设备、机器人题材活跃。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;具体来看，农业板块逆势爆发，是早盘最强主线。秋乐种业30cm涨停，神农种业、华绿生物20cm涨停，金健米业、农发种业2连板，万向德农、亚盛集团、登海种业涨停，转基因、玉米、粮食概念涨幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据新华社报道，美国金融机构摩根大通日前发布最新报告预计，全球食品价格通胀率将从今年上半年的2.8%提升至明年上半年的5%。&lt;/p&gt;
-&lt;p&gt;摩根大通在报告中警告，中东战事导致霍尔木兹海峡通行受阻，加之强厄尔尼诺可能造成农作物减产，多重因素叠加将冲击农业生产，导致食品价格在2027年上半年居高不下。&lt;/p&gt;
-&lt;p&gt;主持这项研究的经济学家诺拉·森蒂瓦尼说，今年全球能源供应面临的冲击可能会让“超级厄尔尼诺现象”给食品价格带来的冲击加倍。报告预计，2027年上半年食品价格通胀率将达到5%，推动整体通胀率上升0.6个百分点。&lt;/p&gt;
-&lt;p&gt;油气概念逆势走强，石化机械直线涨停，海油工程、科力股份、石化油服、通源石油、山东墨龙跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;催化来自两方面：美伊谈判僵局推升油价，隔夜WTI涨2.55%至84.5美元、布伦特涨2.65%至90.87美元；发改委、能源局印发《石油天然气发展&amp;quot;十五五&amp;quot;规划》，提出2030年国内油气供应量达4.4亿吨油当量。&lt;/p&gt;
-&lt;p&gt;AI应用与算力租赁成主要出清对象，鸿博股份跌超9%，群兴玩具跌逾5%，前一日放量大涨后的获利回吐，压制风险偏好。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;深信服、润和软件、长亮科技、同花顺等软件股走低。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;创新药概念下挫，贝达药业跌停；光纤概念走低，金时科技跌停。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;消息面，据&lt;a href="https://mp.weixin.qq.com/s/wVLfgukaQBWLVcWgejfc7g"&gt;券商中国&lt;/a&gt;，这可能与美股市场一只叫EyePoint的股票有关，该股昨晚大跌67%。昨晚，该公司公布了LUGANO的主要结果，这是Duravyu（vorolanib玻璃体内植入剂）治疗湿性年龄相关性黄斑变性（湿性AMD）的首个关键性Ⅲ期临床试验，未能达到主要目标。而据此前的券商研报，贝达药业与EyePoint合作开发的伏罗尼布眼科缓释制剂EYP-1901治疗wAMD。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;年内最贵新股频准激光登陆科创板，盘中一度涨超595%、最高触及1300元，中一签浮盈最高超55万元，创A股全面注册制以来新股首日收益纪录。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11:10&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;创业板指跌超2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10:46&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生科技指数日内跌幅扩大至2%，智谱跌超15%，MINIMAX跌超13%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:51&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生科技指数日内跌幅扩大至1%。智谱跌超12%，MINIMAX跌超9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:38&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;中际旭创港股周二早盘一度升3.9%，创上市以来新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:36&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早盘机器人概念异动拉升，嵘泰股份涨停，此前正裕工业3连板，日丰股份涨停，亚太股份、上纬新材、世运电路、丰光精密跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;PCB概念反复活跃，金禄电子涨超13%，瑞丰高材涨超10%，迅捷兴、贤丰控股、平安电工跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;CPO概念反复活跃，中石科技20cm3连板，此前金字火腿涨停，中石科技逼近20cm涨停，优讯股份、迅捷兴、联讯仪器、中瓷电子等跟涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:28&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新股N频准在上海证券交易所科创板上市，开盘大涨488.61%，报1100元，当前总市值达440亿元。单签盈利超45万。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;上海频准激光科技股份有限公司成立于2017年11月，主营业务为精准激光器的研发、生产与销售，产品主要服务量子科技、半导体、前沿科研等领域，助力我国相关产业链国产化，公司已实现激光器全链条关键技术自主研发，构建了完善的技术体系。&lt;/p&gt;
-&lt;p&gt;本次频准激光公开发行人民币普通股1000万股，占发行后总股本的25%，发行价格为186.88元/股，发行市盈率为49.42倍。&lt;/p&gt;
-&lt;p&gt;本次发行募集资金扣除发行费用后，将投资于精准激光系统产业化建设项目、研发中心建设项目、武汉研发中心建设项目及补充流动资金，募集资金到位后将进一步提升公司的产业化能力和技术研发实力，为公司长期战略目标的实现提供支撑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上证指数低开0.08%，创业板指跌0.25%。医药商业、太空光伏、AI应用、金融科技概念股走弱；油气、存储器、工业金属、核电、CPO概念股走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生指数低开0.33%，恒生科技指数跌0.28%。京东集团、小米集团、美团跌幅靠前；百度集团、小鹏集团涨幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;能源和公用事业板块同样遭到净卖出，与信息技术、通信服务等成长及顺周期板块的强势形成鲜明对比，进一步印证本轮对冲基金调仓的顺周期方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
