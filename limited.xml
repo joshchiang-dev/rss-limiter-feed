@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 18 Aug 2026 23:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！</title><link>https://wallstreetcn.com/articles/3779727</link><guid>0c4583338dddd4878b10be4ae1446bb8e50a19d94953716296da7b3624b85127</guid><pubDate>Tue, 18 Aug 2026 15:01:14 GMT</pubDate><description>&lt;p&gt;OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 19 Aug 2026 00:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！</title><link>https://wallstreetcn.com/articles/3779727</link><guid>0c4583338dddd4878b10be4ae1446bb8e50a19d94953716296da7b3624b85127</guid><pubDate>Tue, 18 Aug 2026 15:01:14 GMT</pubDate><description>&lt;p&gt;OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。&lt;/p&gt;
 &lt;p&gt;8月17至18日，&lt;strong&gt;OpenAI与OpenRouter及Vercel AI Gateway合作，在两个平台上对GPT-5.6 Sol提供50%限时折扣，有效期至2026年9月18日。折扣自动生效，开发者无需修改代码即可享受。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI官方API定价维持不变，Azure、Bedrock等其他渠道亦未跟进调整。&lt;/p&gt;
 &lt;p&gt;行业分析机构SemiAnalysis随即在X平台提出一种引人关注的解读：&lt;strong&gt;OpenRouter与Vercel在OpenAI总用量中占比极小，但二者恰恰是业界估算AI模型市场份额所依赖的主要公开数据源。&lt;/strong&gt;&lt;/p&gt;
@@ -131,7 +131,57 @@ AI债务化担忧发酵，科技信用利差压垮芯片股
 &lt;p&gt;招股书引用的弗若斯特沙利文数据显示，按交易额计，乐摩科技2024年在中国机器按摩服务市场的份额为42.9%。但规模扩大后，增长质量更多取决于场景选择和单点效率。&lt;/p&gt;
 &lt;p&gt;公司已提出优化高价值场景，并在泰国、印度尼西亚和中国香港试水；截至2025年末，海外业务仍处早期阶段。&lt;/p&gt;
 &lt;p&gt;从收入数据看，上半年尚未出现收缩，但低速增长不足以覆盖成本增量。下半年需要观察的是，公司能否改善网点结构和设备效率，并在继续研发投入的同时稳定毛利率。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中信建投上半年营收增51%、净利增69%，交易及财富管理成增长主引擎｜财报见闻</title><link>https://wallstreetcn.com/articles/3779714</link><guid>d95e18059119b4e7d4881f4d6ac92c8d6efa1f413dba0a1be70d9eb7871e31b5</guid><pubDate>Tue, 18 Aug 2026 14:38:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银全球基金经理调查：债市已进ICU，股市依旧KTV</title><link>https://wallstreetcn.com/articles/3779694</link><guid>36133aa2e8c767b5d6ff12be5ccad53c51adbd934f1a7980f9ba4cbc1e369765</guid><pubDate>Wed, 19 Aug 2026 00:10:51 GMT</pubDate><description>&lt;p&gt;全球债市警报频响，全球股票基金经理却在“开派对”。&lt;/p&gt;
+&lt;p&gt;美银证券8月全球基金经理调查显示，投资者情绪为2022年以来第三度最乐观，全球股票配置升至2021年11月以来最高，现金占比降至史上第六低的3.5%。&lt;/p&gt;
+&lt;p&gt;美银首席投资策略师Michael Hartnett总结道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;8月FMS是2022年以来第三大看多调查；现金水平从3.6%降至超低的3.5%；全球股票配置飙升至2021年11月以来最高（净超配56%）&lt;strong&gt;；市场共识是：无宏观着陆、不加息、AI资本开支不削减、民主党不横扫、没有熊市……&lt;/strong&gt;因此，仓位持续建议投资者撤退或在风险资产内部轮动，不建议继续加仓。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;但与此同时，风险信号愈发清晰：“债券收益率无序上行”以27%的比例跻升第二大尾部风险，仅次于连续两个月居首的“AI泡沫”（32%）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本次调查于8月7日至13日进行，共有203位基金经理参与，管理资产规模合计5810亿美元。调查结果触发美银两大逆向指标——FMS现金规则与牛熊指标——同步发出“卖出”信号，凸显当前仓位拥挤程度已接近历史极端水平。美银策略师建议，投资者与其继续加仓，不如考虑撤退或在风险资产内部进行轮动。&lt;/p&gt;
+&lt;p&gt;在政策预期方面，&lt;strong&gt;72%的受访者认为美联储在中期选举前不会加息，而对于即将于8月27日至29日举行的杰克逊霍尔年会，53%的投资者预计美联储主席沃什（Kevin Warsh）将保持中性立场，但偏鹰派预期（31%）显著高于偏鸽派（7%），利率路径的不确定性仍是市场潜在扰动因素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英国《金融时报》旗下Alphaville专栏对当前的市场现象评论道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;霍尔木兹海峡仍处于封锁状态；美国经济靠AI热潮支撑，而这股热潮越来越多地建立在表外敞口之上；美联储可能加息；全球收益率全线攀升，日本正经历债券危机；私募信贷承压；几乎所有杠杆指标都已过度膨胀；亚洲地缘政治乱象丛生；欧洲依然是欧洲，英国则以“特别英式”的方式自顾自。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;面对这份触目惊心的全球风险清单，全球股债表现分化。债市已进ICU，股市依旧KTV。&lt;/p&gt;
+极度乐观情绪下的拥挤风险&lt;strong&gt;：近三十年来现金最少的时刻之一&lt;/strong&gt;
+
+&lt;p&gt;当前调查呈现出典型的过热特征。全球股票净超配比例升至56%，为连续第14个月超配；现金占比3.5%为2026年2月以来最低，亦是1998年有记录以来第六低水平。美银FMS现金规则在现金占比降至4.0%或以下时触发卖出信号，该信号目前持续有效；牛熊指标读数升至9.3，同样处于卖出区间（高于8.0即触发）。&lt;/p&gt;
+&lt;p&gt;企业盈利乐观情绪同样达到2021年以来最高水平——而彼时，正是上一轮泡沫的顶峰。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从仓位结构看，最拥挤交易为&amp;quot;做多全球半导体&amp;quot;，53%的受访者持此观点，尽管较上月历史峰值82%大幅回落。第二大拥挤交易为&amp;quot;做空日元&amp;quot;（12%），第三为&amp;quot;做多Magnificent 7&amp;quot;（11%）。美银逆向交易建议包括：做多债券/做空大宗商品、做多必需消费品/做空科技股、做多英国股票/做空美国股票。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+债市失控风险跃升，与AI泡沫并列核心威胁
+
+&lt;p&gt;尾部风险格局出现值得关注的变化。&amp;quot;AI泡沫&amp;quot;以32%的占比连续第二个月居首，但&amp;quot;债券收益率无序上行&amp;quot;从上月第三位跃升至第二位，占比27%，超越&amp;quot;第二波通胀&amp;quot;（25%）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一变化尤为值得警惕——全球收益率正在全线攀升，日本债券危机已然爆发，但基金经理们的反应不是减仓，而是继续加码股票、削减债券持仓。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，企业资产负债表健康状况引发担忧。净19%的受访者认为企业资产负债表存在过度杠杆问题，为2023年3月以来最高，较上月的7%大幅上升。当被问及若民主党在中期选举中横扫两院，最可能的市场反应时，37%的受访者选择&amp;quot;债券收益率上行、股市下跌&amp;quot;，这一预期本身即反映出市场对财政扩张及其对债市冲击的高度警惕。&lt;/p&gt;
+
+AI：既是最大威胁，也是最强信念
+
+&lt;p&gt;AI相关议题在本次调查中呈现出鲜明的分裂态势。&lt;/p&gt;
+&lt;p&gt;一方面，“AI泡沫”蝉联最大尾部风险；“AI超大规模算力资本开支”连续第二个月被视为系统性信用事件最可能来源（38%），其次是私募信贷（23%）。&lt;/p&gt;
+&lt;p&gt;另一方面，71%的受访者不认为任何AI超大规模企业将在2026年宣布削减资本开支，较上月的61%进一步提升；58%认为AI对劳动力市场的广泛冲击不会早于2028年出现；31%甚至认为AI根本不会对劳动力市场造成实质性干扰。&lt;strong&gt;用Alphaville的话说：“资本开支派对从未停歇（Ain&amp;#x27;t no party like a capex party, because apparently a capex party don&amp;#x27;t stop）。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这种“既担忧泡沫、又不愿减仓”的矛盾心理，与当前整体仓位的极度拥挤形成呼应。&lt;/p&gt;
+
+宏观预期：无衰退叙事达历史峰值
+
+&lt;p&gt;宏观层面，乐观情绪持续升温。创纪录的56%受访者预期全球经济在未来12个月实现“无着陆”，较上月的54%进一步上升，连续两个月成为主流共识；预期“经济繁荣”（高于趋势增长、高于趋势通胀）的比例升至43%，为2022年2月以来最高；预期未来12个月企业盈利实现两位数增长的净比例达37%，为2021年8月以来最高。&lt;/p&gt;
+&lt;p&gt;与此同时，49%的受访者预期“滞胀”（低于趋势增长、高于趋势通胀），较上月的47%小幅上升。这一看似矛盾的组合——繁荣预期与滞胀担忧并存——折射出当前宏观叙事的内在张力。油价预期方面，受访者将2026年底布伦特原油目标价从71美元/桶上调至76美元/桶。&lt;/p&gt;
+
+资产配置：增持美股及商品，减持债券
+
+&lt;p&gt;配置动向上，受访者在8月加大对科技、银行及能源板块的配置，同时削减工业及医疗保健仓位，并对必需消费品和可选消费品进行空头回补。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;区域股票方面，美国股票净超配升至27%，为2024年12月以来最高；新兴市场净超配34%；英国股票净低配33%，相对历史处于1.5个标准差的低位。债券净低配进一步扩大至39%。商品净超配24%，为长期均值以上1.4个标准差。值得关注的是，净16%的受访者认为黄金被低估，为2023年3月以来最高，凸显市场对避险资产的潜在需求。美元方面，净39%认为美元被高估，较上月的34%进一步上升。&lt;/p&gt;
+
+中期选举：分裂国会为基准情景
+
+&lt;p&gt;政治风险方面，47%的受访者预计中期选举结果为&amp;quot;民主党控制众议院、共和党保留参议院&amp;quot;的分裂格局，民主党横扫两院的预期从27%降至23%。若民主党实现横扫，37%的受访者预计债券收益率上行、股市下跌，仅9%预期出现股债双升的&amp;quot;繁荣&amp;quot;情景，反映投资者对潜在财政扩张的债市压力高度警惕。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中信建投上半年营收增51%、净利增69%，交易及财富管理成增长主引擎｜财报见闻</title><link>https://wallstreetcn.com/articles/3779714</link><guid>d95e18059119b4e7d4881f4d6ac92c8d6efa1f413dba0a1be70d9eb7871e31b5</guid><pubDate>Tue, 18 Aug 2026 14:38:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;中信建投证券交出了一份亮眼的2026年半年报。上半年，&lt;strong&gt;公司实现营业收入162.29亿元，同比增长51.11%；归属于母公司股东的净利润76.39亿元，同比增长69.44%。&lt;/strong&gt;加权平均净资产收益率（ROE）升至8.27%，较上年同期提升3.17个百分点；基本每股收益0.92元，同比增长76.92%。&lt;/p&gt;
 &lt;p&gt;与此同时，公司总资产突破8604亿元，较年初增长27.13%，资产负债表继续扩张。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;从收入结构来看，交易及机构客户服务业务成为最大增长引擎。&lt;/strong&gt;上半年，该业务实现营业收入90.72亿元，同比增长94.12%，占公司总营收超过五成。财富管理、资产管理业务也保持较快增长，分别实现营收46.66亿元和9.05亿元，同比增长26.83%和41.14%。相比之下，投资银行业务营收11.13亿元，同比增长仅0.86%，明显落后于其他板块。&lt;/p&gt;
@@ -372,26 +422,4 @@ AI进入商业化早期，暂不急于变现
 &lt;p&gt;刚才您说，您谈到了开源模型和智能机器人工厂已经投入使用，那么对于小米机器人，其在公司内部的定位是什么？它是降低成本的手段，还是未来会成为新的收入来源？你们对此业务有没有量化的评估目标？嗯，我认为对于机器人，最终的大规模成熟和发展，嗯，我认为需要更长的时间，很难分享一些短期目标。其次，我们将继续投资，我们对未来方向持积极态度，它将与我们现有的业务整合，所以这就是我们要投资它的原因。到目前为止，我们还没有想到在没有机器人技术的情况下做外卖配送工作。我们有自己的工厂，未来会有许多应用场景出现。我们的许多能力实现将与机器人技术整合，例如大模型。它也会产生协同效应，以及芯片和系统。我认为机器人发展也会反馈给我们的大模型能力。所以我认为我们期望与其他业务有很大的协同效应，但在这个阶段，我认为我们不会设定太多具体或特定的目标。我们会更加务实。&lt;/p&gt;
 &lt;p&gt;谢谢大家的提问。我们将在此结束今天的会议。感谢大家的时间。希望大家继续大力支持小米集团。&lt;/p&gt;
 &lt;p&gt;好的，谢谢大家。活动结束。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宏观策略凸显抗震荡能力，桥水中国全天候基金7月仅受“轻伤”</title><link>https://wallstreetcn.com/articles/3779736</link><guid>3bc5d00db9a8d562c9344b04aaee3e2744323fb1298fb08b73b6d751bc44ac38</guid><pubDate>Tue, 18 Aug 2026 18:33:37 GMT</pubDate><description>&lt;p&gt;中国市场波动加剧之际，多资产配置的宏观对冲策略再次展现出相对抗跌的一面。&lt;/p&gt;
-&lt;p&gt;据美东时间18日周二的美媒报道，今年7月，管理规模超过600亿元人民币的桥水中国旗下全天候增强策略出现回撤，但截至7月底，仍保持年内正收益。与此同时，私募排排网追踪的宏观对冲基金整体跌幅也明显小于股票市场。&lt;/p&gt;
-&lt;p&gt;报道援引一封桥水中国致投资者的信函称，截至7月31日，桥水中国全天候增强策略7月扣除费用前报亏2.8%，但今年以来仍涨约3%。由前桥水员工管理的文璟私募7月下跌4.4%，年内仍上涨12%；杭州波粒二象旗下小红掌基金7月下跌1%，年内回报率仍达到10.6%。&lt;/p&gt;
-&lt;p&gt;从行业整体表现来看，排排网追踪的309只宏观对冲基金7月平均下跌3.5%，但年内仍录得1.9%的涨幅。相比之下，中国对冲基金整体7月平均亏损7.3%，宏观策略的相对抗跌性由此更加突出。&lt;/p&gt;
-桥水中国7月回撤2.8%，年内仍保持正收益
-&lt;p&gt;桥水中国此次表现的关键，并不在于完全规避亏损，而在于控制回撤幅度。&lt;/p&gt;
-&lt;p&gt;根据投资者信函，全天候增强策略7月费用扣除前亏损2.8%，但年内截至7月底仍上涨约3%。该策略自2023年7月成立以来年化回报率达到26.3%，最大回撤为9.9%。&lt;/p&gt;
-&lt;p&gt;更值得关注的是，桥水中国此前已经交出过强劲的年度成绩单。&lt;/p&gt;
-&lt;p&gt;2025年，桥水中国境内基金全年回报率达到约45%，创五年来最佳表现。&lt;a href="https://wallstreetcn.com/articles/3763801"&gt;华尔街见闻文章&lt;/a&gt;提到，桥水境内全天候增强基金扣费前2025年回报率约44.5%，其中系统化全天候组合贡献25.8%，主动管理贡献约17%。这一表现也明显高于同期沪深300指数约18%的涨幅。&lt;/p&gt;
-&lt;p&gt;因此，今年以来经历市场波动后，桥水中国全天候策略依然能够保持正收益，进一步体现出其多资产配置框架在控制组合波动方面的特点。&lt;/p&gt;
-分散配置提供“缓冲垫”
-&lt;p&gt;桥水全天候策略的核心是风险平价，即通过股票、债券、大宗商品等不同资产类别的组合配置，尽量避免投资组合过度依赖某一种资产。&lt;/p&gt;
-&lt;p&gt;桥水中国在致投资者信函中表示，全天候增强基金通过多资产配置，有效缓冲了单一资产类别的剧烈波动。7月，该基金从债券投资中获得收益，同时部分大宗商品价格上涨也带来了正向贡献。&lt;/p&gt;
-&lt;p&gt;这正是宏观基金区别于单一资产策略的重要特征：当某一类资产表现不佳时，其他资产的收益能够在一定程度上对冲损失。&lt;/p&gt;
-&lt;p&gt;从排排网的数据来看，309只宏观对冲基金7月平均下跌3.5%，但年内仍保持1.9%的涨幅，明显好于中国对冲基金的整体表现。&lt;/p&gt;
-&lt;p&gt;不过，宏观基金并非天然低波动，不同产品的策略差异依然很大。完全依赖主观判断的基金可能出现较大幅度的阶段性回撤。例如，上海半夏旗下平衡宏观基金7月上涨11%，但年内仍下跌14%；上海久期投资旗下宏观对冲一号基金今年7月则下跌44%。&lt;/p&gt;
-系统化配置之外，主动管理同样贡献收益
-&lt;p&gt;桥水中国的业绩也并非完全来自机械化的资产配置。&lt;/p&gt;
-&lt;p&gt;根据投资者信函，截至6月30日的第二季度，桥水团队主动管理贡献了2.4%的收益，而系统化全天候组合下跌0.5%，最终整体实现2.3%的季度回报。&lt;/p&gt;
-&lt;p&gt;这意味着，桥水中国在多资产风险平价框架之外，也通过基金经理的主动判断捕捉宏观市场机会。&lt;/p&gt;
-&lt;p&gt;文璟私募的表现同样体现了这一特点。其季度投资者信函显示，第二季度宏观配置策略贡献3.6%的收益，量化策略则贡献3.5%。&lt;/p&gt;
-&lt;p&gt;对于宏观基金而言，这种“系统化分散风险+主动捕捉机会”的组合方式，使其既能在不同资产之间分散风险，又能够根据宏观环境变化进行动态调整。&lt;/p&gt;
-&lt;p&gt;在经历市场大幅波动后，宏观策略的核心优势因此再次受到关注：目标并非完全避免亏损，而是在单一资产或市场出现剧烈波动时，尽可能控制组合回撤，并保留参与下一轮行情的能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮存储反弹的思考</title><link>http://xueqiu.com/5332385101/405405711</link><guid>1b6665962268266d017c0626c8c956def81f49eeafaad08fba386613ebae4139</guid><pubDate>Tue, 18 Aug 2026 13:12:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，美股三大指数均连续第二个交易日收跌，其中纳指跌幅相对温和。而存储、光通信逆势大涨，闪迪涨近9%、美光涨超4%重回千元上方，连涨5日（累计17.5%）创1月以来最长连涨；光通信方面，Coherent、Lumentum分别涨近8%和5%。&lt;/p&gt;</description></item><item><title>[今日雪球] 兆易创新半年报解读——聊点纯干货</title><link>http://xueqiu.com/7516820417/405521414</link><guid>f2d9d9f4fbaea1a08e09244fabec251e453954b572de5254c78394333954f48a</guid><pubDate>Tue, 18 Aug 2026 13:11:20 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;评研阁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;业绩的炸裂大家都看到了，这些数据在业绩预告时都有，没什么新意，看完接近200页的半年报，聊点很多人忽视的东西。&lt;/p&gt;</description></item><item><title>[今日雪球] 腾讯惊险一跃4：暴增的token</title><link>http://xueqiu.com/8315851674/405445115</link><guid>07e5b4224076f83fd6e1edf162b4afdf7ddce7e342d5d9341de089032016fa63</guid><pubDate>Tue, 18 Aug 2026 13:12:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浊静徐清&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Token正在成为衡量一个公司、一个个人、一个家庭、一个国家AI化率的标准。&lt;/p&gt;</description></item></channel></rss>
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮存储反弹的思考</title><link>http://xueqiu.com/5332385101/405405711</link><guid>1b6665962268266d017c0626c8c956def81f49eeafaad08fba386613ebae4139</guid><pubDate>Tue, 18 Aug 2026 13:12:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，美股三大指数均连续第二个交易日收跌，其中纳指跌幅相对温和。而存储、光通信逆势大涨，闪迪涨近9%、美光涨超4%重回千元上方，连涨5日（累计17.5%）创1月以来最长连涨；光通信方面，Coherent、Lumentum分别涨近8%和5%。&lt;/p&gt;</description></item><item><title>[今日雪球] 兆易创新半年报解读——聊点纯干货</title><link>http://xueqiu.com/7516820417/405521414</link><guid>f2d9d9f4fbaea1a08e09244fabec251e453954b572de5254c78394333954f48a</guid><pubDate>Tue, 18 Aug 2026 13:11:20 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;评研阁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;业绩的炸裂大家都看到了，这些数据在业绩预告时都有，没什么新意，看完接近200页的半年报，聊点很多人忽视的东西。&lt;/p&gt;</description></item><item><title>[今日雪球] 腾讯惊险一跃4：暴增的token</title><link>http://xueqiu.com/8315851674/405445115</link><guid>07e5b4224076f83fd6e1edf162b4afdf7ddce7e342d5d9341de089032016fa63</guid><pubDate>Tue, 18 Aug 2026 13:12:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;浊静徐清&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Token正在成为衡量一个公司、一个个人、一个家庭、一个国家AI化率的标准。&lt;/p&gt;</description></item></channel></rss>
