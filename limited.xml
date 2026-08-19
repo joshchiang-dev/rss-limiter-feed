@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 19 Aug 2026 01:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！</title><link>https://wallstreetcn.com/articles/3779727</link><guid>0c4583338dddd4878b10be4ae1446bb8e50a19d94953716296da7b3624b85127</guid><pubDate>Tue, 18 Aug 2026 15:01:14 GMT</pubDate><description>&lt;p&gt;OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 19 Aug 2026 02:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！</title><link>https://wallstreetcn.com/articles/3779727</link><guid>0c4583338dddd4878b10be4ae1446bb8e50a19d94953716296da7b3624b85127</guid><pubDate>Tue, 18 Aug 2026 15:01:14 GMT</pubDate><description>&lt;p&gt;OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。&lt;/p&gt;
 &lt;p&gt;8月17至18日，&lt;strong&gt;OpenAI与OpenRouter及Vercel AI Gateway合作，在两个平台上对GPT-5.6 Sol提供50%限时折扣，有效期至2026年9月18日。折扣自动生效，开发者无需修改代码即可享受。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI官方API定价维持不变，Azure、Bedrock等其他渠道亦未跟进调整。&lt;/p&gt;
 &lt;p&gt;行业分析机构SemiAnalysis随即在X平台提出一种引人关注的解读：&lt;strong&gt;OpenRouter与Vercel在OpenAI总用量中占比极小，但二者恰恰是业界估算AI模型市场份额所依赖的主要公开数据源。&lt;/strong&gt;&lt;/p&gt;
@@ -154,7 +154,50 @@ AI债务化担忧发酵，科技信用利差压垮芯片股
 &lt;p&gt;欧洲STOXX 600指数的所有成分股中，Soitec收跌14.83%，奥特斯股份跌14.17%，Huber+Suhner公司跌11.35%，德国爱思强股份跌8.77%，英飞凌跌幅第五大。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “债市风暴”席卷美欧日，长债收益率逼近数十年高点</title><link>https://wallstreetcn.com/articles/3779754</link><guid>c179bdd6838b4f1bc9089b01dde1dd980831da22179d581ea2f17bda39e66334</guid><pubDate>Wed, 19 Aug 2026 00:52:42 GMT</pubDate><description>&lt;p&gt;全球主权债券市场正经历数十年来最猛烈的抛售浪潮，长端收益率在通胀忧虑、财政扩张与需求结构性萎缩的三重压力下持续攀升，各国政府融资成本骤然上升。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “AI股神”崩盘记：闻到“血腥味”后，华尔街“秃鹫”开启围猎</title><link>https://wallstreetcn.com/articles/3779755</link><guid>57a1fa9eef699308b945cd6e259d74b6d9a375485d3403fe732c5914e93ebdd5</guid><pubDate>Wed, 19 Aug 2026 01:58:45 GMT</pubDate><description>&lt;p&gt;在华尔街，真正的危机往往不是从一纸公告开始，而是从绝望的“私下询价”开始。&lt;/p&gt;
+&lt;p&gt;据《华尔街日报》复盘，7月29日下午，正坐在出租车赶往拉瓜迪亚机场的David Mann接到了这样一通电话。对方急切地询问，他是否有意连夜接手对“AI股神”对冲基金Situational Awareness持有的Anthropic股权。&lt;/p&gt;
+&lt;p&gt;Mann当即明白了一切，因为没有人会在一家AI巨头估值接近1万亿美元时急着抛售Pre-IPO股份，“除非他已经走投无路”。他意识到，这家基金背后的“AI先知”Leopold Aschenbrenner正遭遇致命的流动性危机。&lt;/p&gt;
+&lt;p&gt;这通电话，就此成为华尔街嗅到血腥气味的信号枪。&lt;/p&gt;
+&lt;p&gt;消息迅速扩散，Steve Cohen等顶级投资者相继听闻，空头与竞争对手如同闻到血腥味的鲨鱼般蜂拥而至。“感觉他正在被围猎，”有知情者这样形容当时的窒息氛围。&lt;strong&gt;在银行追加保证金的夺命连环Call下，一场针对这只高杠杆基金的绞杀战迅速成形。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7月30日美股开盘前20分钟，走投无路的Situational Awareness被迫与Citadel签署文件，将其重仓的芯片股组合折价抛售。短短72小时内，这场高度拥挤的AI杠杆交易彻底崩盘，最终造成约350亿美元的惊天损失。Aschenbrenner的名字就此跻身全球史上最大交易亏损排行榜的顶端——这是一个没有任何人想登上的榜单。&lt;/p&gt;
+从“AI先知”到“千亿豪赌”
+&lt;p&gt;故事的起点，是一篇论文。&lt;/p&gt;
+&lt;p&gt;2024年，Aschenbrenner——这位前OpenAI员工——发布了一篇长达165页的文章《Situational Awareness: The Decade Ahead》，系统预判了AI发展路径，在硅谷和华尔街引发轰动。他随即以此为基石，创立了同名对冲基金Situational Awareness。&lt;/p&gt;
+&lt;p&gt;基金的逻辑简单而激进：重仓押注AI产业链受益者——芯片制造商、数据中心运营商、电力供应商；同时做空他认为将被AI颠覆的软件公司。这不是为保守的养老金设计的产品。正如早期投资人、Pfeffer Capital联合创始人John Pfeffer所说：&amp;quot;这是一场对AI的激进押注，我们都知道会有剧烈波动。&amp;quot;&lt;/p&gt;
+&lt;p&gt;华尔街对这位年轻人张开了双臂。高盛从一开始就为Situational提供融资，并在2025年3月的奥兰多新兴基金经理会议上为其站台。摩根大通、美国银行、花旗集团也相继向其提供贷款。摩根士丹利正在洽谈将其纳为客户。&lt;/p&gt;
+&lt;p&gt;资金滚滚而来，基金规模从2025年夏天的约15亿美元，膨胀至7月初的逾450亿美元。与此同时，杠杆率也水涨船高——据知情人士透露，&lt;strong&gt;Situational每持有1美元自有资本，便借入约3美元甚至更多，部分时期杠杆率高达400%，&lt;/strong&gt;远超同类基金的通行水平。基金还购入了&amp;quot;弹性期权&amp;quot;（flex options）等定制化衍生品，进一步放大押注。&lt;/p&gt;
+超过半仓押注闪迪和美光，集中度埋下祸根
+&lt;p&gt;根据上周五披露的13F监管文件，崩盘前夕，Situational的持仓集中度令人咋舌。&lt;/p&gt;
+&lt;p&gt;截至6月底，闪迪以57亿美元高居基金美股持仓榜首，美光科技以56亿美元紧随其后。两只内存芯片股合计占基金持仓比例超过56%——超过半仓押注在同一赛道的两家公司。&lt;/p&gt;
+&lt;p&gt;其余前五大持仓同样是AI基础设施概念股：Bloom Energy、台积电（TSM）和Nebius Group。此外，基金还持有7.45亿美元的CoreWeave。&lt;/p&gt;
+&lt;p&gt;这些重仓股在7月集体崩塌：闪迪单月暴跌近47%，美光下跌约29%，Bloom Energy跌32%，Nebius跌31%，台积电跌15%。与此同时，基金做空的软件股——Adobe、AppLovin、Figma——却开始反弹，双向亏损叠加，令局面急速恶化。&lt;/p&gt;
+&lt;p&gt;需要说明的是，13F只披露截至6月底的美国上市多头仓位，无法完整呈现该基金的整体风险、空头、衍生品和盘中交易。但这份文件足以说明一个核心事实：在崩盘前夕，Situational Awareness的风险暴露高度集中在AI基础设施链条，尤其是内存芯片。&lt;/p&gt;
+&lt;p&gt;当拥挤交易遇到价格反转，杠杆让下跌从“回撤”变成“求生”。&lt;/p&gt;
+华尔街&amp;quot;秃鹫&amp;quot;闻血而动
+&lt;p&gt;信息在华尔街的传播速度，远比任何人预想的都快。&lt;/p&gt;
+&lt;p&gt;每天，主经纪商都会向客户分发报告，汇总旗下对冲基金客户的持仓变动。7月，这些报告显示科技板块杠杆率持续下降——这是一个清晰的信号：某个重仓科技股的大基金正在被迫去杠杆。&lt;/p&gt;
+&lt;p&gt;做空者迅速锁定目标。他们盯住Aschenbrenner的重仓股，当这些股票开始下跌，便判断他已陷入困境，随即加大做空力度。与此同时，市场上出现了大量与Situational持仓相关的看跌期权，交易量异常。&lt;/p&gt;
+&lt;p&gt;7月27日那周，Situational开始抛售股票以应对贷款方的追加保证金通知（margin call）。Nebius、Bloom Energy、闪迪和Core Scientific在7月24日至28日间跌幅达9%至24%。&lt;/p&gt;
+&lt;p&gt;Steve Cohen和Daniel Loeb等顶级投资人也听说了Anthropic股权出售的消息。&amp;quot;感觉他正在被猎杀，&amp;quot;Pfeffer Capital的John Pfeffer说。&lt;/p&gt;
+72小时生死局：Citadel半夜抄底
+&lt;p&gt;7月29日（周三），已是公开的秘密：华尔街至少有一家大型基金正在&amp;quot;去杠杆&amp;quot;，大规模抛售资产。&lt;/p&gt;
+&lt;p&gt;Aschenbrenner和团队开始紧急谈判，试图出售基金持有的约50亿美元Anthropic股权。但他们面临一道枷锁：Anthropic对股权转让拥有审批权，因此只能向已持有Anthropic股份的机构兜售。当天，Situational接触了Sequoia、Greenoaks、Michael Dell家族办公室DFO Management以及纽约投资机构XN，开出九折优惠，并设定12小时截止期限。Greenoaks团队彻夜工作，交易定于次日早8时完成，Anthropic已签字批准。&lt;/p&gt;
+&lt;p&gt;然而，就在Anthropic股权谈判推进的同时，Aschenbrenner悄悄开启了另一条线——与Citadel和Millennium Management谈判出售股票投资组合。&lt;/p&gt;
+&lt;p&gt;7月28日，Citadel一名高管主动联系了Situational的Sven Khatri。谈判迅速推进：从Citadel收购全部流动股票组合，到最终只收购由杠杆融资的仓位。Ken Griffin本人从伦敦加入了谈判。Aschenbrenner不愿放弃太多——他相信危机过后仍有上行空间，希望尽量保留持仓。&lt;/p&gt;
+&lt;p&gt;7月30日（周四）凌晨，Citadel以约九折价格拿下了这笔交易。&lt;/p&gt;
+&lt;p&gt;当天早上，Aschenbrenner通知那些原本等待完成Anthropic股权交割的投资者：他已与Citadel达成了更好的安排。部分投资者勃然大怒。&lt;/p&gt;
+&lt;p&gt;Situational与Citadel在上午9时10分左右完成文件签署，距美股开盘仅剩约20分钟。&lt;/p&gt;
+史上最大对冲基金爆仓，损失高达350亿美元
+&lt;p&gt;随后，Situational向投资者披露了这个月的成绩单：7月单月亏损约67%，折合约300亿美元；若计入更广泛的资产损失，总损失规模约达350亿美元。&lt;/p&gt;
+&lt;p&gt;据英国《金融时报》整理的史上最大交易亏损排行榜&lt;strong&gt;，Aschenbrenner的亏损规模已跻身全球历史前列，超越了众多银行流氓交易员和对冲基金崩盘案例，成为有记录以来最大的对冲基金单月亏损事件之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这场崩盘的冲击波蔓延至整个华尔街。作为Situational投资者之一的Jane Street，据报道在7月损失约150亿美元，其中大部分源于对Aschenbrenner基金的敞口。&lt;/p&gt;
+&lt;p&gt;基金规模从7月高峰时的逾450亿美元，在Citadel交易完成后骤降至约100亿至150亿美元。这是继Archegos Capital爆仓之后，华尔街又一堂关于杠杆风险的血腥课。&lt;/p&gt;
+婚礼上的苦涩玩笑，以及重建
+&lt;p&gt;那个周末，Aschenbrenner在加州卡梅尔的海边，迎娶了Anthropic创始人Dario Amodei的幕僚长Avital Balwit。&lt;/p&gt;
+&lt;p&gt;婚礼祝酒词中，有人半开玩笑地提到了Ken Griffin和Citadel——感谢他们&amp;quot;让这一天成为可能&amp;quot;。&lt;/p&gt;
+&lt;p&gt;目前，Aschenbrenner和管理团队正在逐一会见投资者，解释基金为何在如此短的时间内损失如此之多。他们表示正在进行事后复盘，并重新评估未来的风险承受边界。&lt;/p&gt;
+&lt;p&gt;基金正在重建投资组合。Situational近期向初创公司Source Foundry投入4亿美元，并开始买入SharonAI的股票。在致投资者的信中，Aschenbrenner表示基金已采取必要措施以确保存续，并承诺从这次经历中汲取教训。&lt;/p&gt;
+&lt;p&gt;从基金成立到2026年6月底，Situational的累计回报率超过1000%。然而，一个月的溃败，几乎将一切归零。这或许是这个故事最残酷的注脚：在杠杆的世界里，神话与灾难之间，只隔着市场情绪的一次转向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “债市风暴”席卷美欧日，长债收益率逼近数十年高点</title><link>https://wallstreetcn.com/articles/3779754</link><guid>c179bdd6838b4f1bc9089b01dde1dd980831da22179d581ea2f17bda39e66334</guid><pubDate>Wed, 19 Aug 2026 00:52:42 GMT</pubDate><description>&lt;p&gt;全球主权债券市场正经历数十年来最猛烈的抛售浪潮，长端收益率在通胀忧虑、财政扩张与需求结构性萎缩的三重压力下持续攀升，各国政府融资成本骤然上升。&lt;/p&gt;
 &lt;p&gt;美国30年期国债收益率本周触及5.33%，创2007年以来最高水平；法国同期限国债收益率升至2008年以来峰值；德国30年期债券收益率回到2011年水平；英国同期限金边债券收益率逼近6%；日本30年期国债收益率则升至1999年以来最高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;华尔街见闻文章写道，&lt;strong&gt;全球政府债综合收益率回到2007年水平&lt;/strong&gt;。另外，据彭博汇编的数据显示，&lt;strong&gt;投资级主权债券基准组合的平均收益率已飙升至约4.5%，为2015年有记录以来最高。&lt;/strong&gt;&lt;/p&gt;
@@ -215,7 +258,23 @@ AI债务化担忧发酵，科技信用利差压垮芯片股
 &lt;p&gt;招股书引用的弗若斯特沙利文数据显示，按交易额计，乐摩科技2024年在中国机器按摩服务市场的份额为42.9%。但规模扩大后，增长质量更多取决于场景选择和单点效率。&lt;/p&gt;
 &lt;p&gt;公司已提出优化高价值场景，并在泰国、印度尼西亚和中国香港试水；截至2025年末，海外业务仍处早期阶段。&lt;/p&gt;
 &lt;p&gt;从收入数据看，上半年尚未出现收缩，但低速增长不足以覆盖成本增量。下半年需要观察的是，公司能否改善网点结构和设备效率，并在继续研发投入的同时稳定毛利率。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 不和京东健康拼卖药，平安好医生换了条路</title><link>https://wallstreetcn.com/articles/3779758</link><guid>2768c4a30a8aa0aff4589d514cb7a8833e1ad2137a37d71d776d8060827ea368</guid><pubDate>Wed, 19 Aug 2026 01:03:22 GMT</pubDate><description>&lt;p&gt;8月18日晚，平安好医生发布2026年中期业绩，上半年实现收入24.84亿元，同比微降0.7%；同期归母净利润2.19亿元，同比增长63.5%。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树科技上市首日高开630%，中一签赚近50w，市值超4400亿</title><link>https://wallstreetcn.com/articles/3779761</link><guid>5f65eacae3ac4bbc24b21300b1de7fe8ad4de0afe8a81afc3a8a3ebf68b21cf9</guid><pubDate>Wed, 19 Aug 2026 02:00:02 GMT</pubDate><description>&lt;p&gt;8月19日，“人形机器人第一股”宇树科技登陆科创板，开盘上涨近630%，股价报1100元，总市值超4400亿。按开盘价计算，中一签（500股）宇树科技新股浮盈将达到47.46万元。宇树科技发行价格为150.80元/股。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据中新经纬，此次作为“杭州六小龙”之一的宇树科技上市，背后股东可谓明星云集。梁文锋旗下深度求索、幻方量化和九章资产通过战略配售、网下打新合计获配约119.16万股。以发行价计算，&lt;strong&gt;梁文锋打新宇树科技浮盈超11亿元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此前，宇树科技新股发行备受市场关注，获得投资者积极申购和认购。&lt;strong&gt;网上中签率0.0181%创下科创板历史新低，有效申购倍数8288倍，吸引978.46万户散户参与。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司以人形机器人和四足机器人研发、生产及销售为核心业务，在人形机器人领域，公司2025年度出货量已超5500台（纯人形，不含轮式双臂机器人），出货量全球第一。&lt;/p&gt;
+&lt;p&gt;招股书显示，公司2026年一季度营收同比增幅降至68.49%，扣非后净利润同比下降52.55%；2025年全年营收则同比增长335.36%，毛利率逼近60%。&lt;/p&gt;
+&lt;p&gt;值得注意的是，在挂牌前夕，公司于8月17日发布名为&lt;a href="https://wallstreetcn.com/articles/3779619"&gt;&amp;quot;超人&amp;quot;的人形机器人新品&lt;/a&gt;，演示视频显示其原地跳高2米、极限速度达12.66m/s，两项指标均打破人类纪录，进一步点燃市场热情。&lt;/p&gt;
+&lt;p&gt;根据交易规则，科创板股票交易实行价格涨跌幅限制，涨跌幅限制比例为20%，首次公开发行上市的股票上市后的前5个交易日不设价格涨跌幅限制，科创板股票存在股价波动幅度较剧烈的风险。&lt;/p&gt;
+宇树科技发行概况：流通比例偏低
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3779630"&gt;华尔街见闻文章&lt;/a&gt;此前写道，发行价格150.80元/股对应的摊薄后市盈率为219.23倍，市销率为35.89倍，均显著高于可比上市公司。&lt;/p&gt;
+&lt;p&gt;招股文件显示，以优必选和越疆为参照的可比公司2025年市销率算术平均值仅约4.92倍，而宇树科技的市销率溢价超过七倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本次宇树科技公开发行股票4044.64万股，占发行后总股本的10%，募集资金总额约60.99亿元，扣除发行费用后净额约59.17亿元。&lt;/p&gt;
+&lt;p&gt;发行后总股本约4.04亿股，其中&lt;strong&gt;上市初期无限售流通股数量仅3008.7720万股，占总股本比例约7.44%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;王兴兴通过直接持股及员工持股平台上海宇翼间接持股的方式，发行后合计持有公司约31.29%的股份，但凭借特别表决权安排（A类股份每股对应10票表决权），其合计控制的表决权比例达到约65.31%。&lt;/p&gt;
+&lt;p&gt;发行前机构股东阵容显示，宁波红杉持股约5.59%，Astrend IV、经纬壹号、金石成长等机构持股比例均在3%至4%之间。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 不和京东健康拼卖药，平安好医生换了条路</title><link>https://wallstreetcn.com/articles/3779758</link><guid>2768c4a30a8aa0aff4589d514cb7a8833e1ad2137a37d71d776d8060827ea368</guid><pubDate>Wed, 19 Aug 2026 01:03:22 GMT</pubDate><description>&lt;p&gt;8月18日晚，平安好医生发布2026年中期业绩，上半年实现收入24.84亿元，同比微降0.7%；同期归母净利润2.19亿元，同比增长63.5%。&lt;/p&gt;
 &lt;p&gt;利润增速显著高于收入的主因在于：一方面是收入结构的调整减轻了成本压力，另一方面则来自去年同期多项减值及损失形成的低基数。&lt;/p&gt;
 &lt;p&gt;2026年上半年，平安好医生的核心业务商保协同创收15.84亿元，与去年同期基本持平，仍然是最大的收入来源。&lt;/p&gt;
 &lt;p&gt;同期，平安好医生的企业健管业务收入则达到7.14亿元，同比增长超6成。&lt;/p&gt;
@@ -331,41 +390,4 @@ AI：既是最大威胁，也是最强信念
 
 中期选举：分裂国会为基准情景
 
-&lt;p&gt;政治风险方面，47%的受访者预计中期选举结果为&amp;quot;民主党控制众议院、共和党保留参议院&amp;quot;的分裂格局，民主党横扫两院的预期从27%降至23%。若民主党实现横扫，37%的受访者预计债券收益率上行、股市下跌，仅9%预期出现股债双升的&amp;quot;繁荣&amp;quot;情景，反映投资者对潜在财政扩张的债市压力高度警惕。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中信建投上半年营收增51%、净利增69%，交易及财富管理成增长主引擎｜财报见闻</title><link>https://wallstreetcn.com/articles/3779714</link><guid>d95e18059119b4e7d4881f4d6ac92c8d6efa1f413dba0a1be70d9eb7871e31b5</guid><pubDate>Tue, 18 Aug 2026 14:38:20 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;中信建投证券交出了一份亮眼的2026年半年报。上半年，&lt;strong&gt;公司实现营业收入162.29亿元，同比增长51.11%；归属于母公司股东的净利润76.39亿元，同比增长69.44%。&lt;/strong&gt;加权平均净资产收益率（ROE）升至8.27%，较上年同期提升3.17个百分点；基本每股收益0.92元，同比增长76.92%。&lt;/p&gt;
-&lt;p&gt;与此同时，公司总资产突破8604亿元，较年初增长27.13%，资产负债表继续扩张。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从收入结构来看，交易及机构客户服务业务成为最大增长引擎。&lt;/strong&gt;上半年，该业务实现营业收入90.72亿元，同比增长94.12%，占公司总营收超过五成。财富管理、资产管理业务也保持较快增长，分别实现营收46.66亿元和9.05亿元，同比增长26.83%和41.14%。相比之下，投资银行业务营收11.13亿元，同比增长仅0.86%，明显落后于其他板块。&lt;/p&gt;
-&lt;p&gt;公司同时公布中期分红方案：以77.57亿股为基数，每10股派发现金红利2.90元（含税），该方案尚需股东会审议。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-交易及机构业务：营收接近翻倍
-&lt;p&gt;市场活跃度回升，是中信建投交易及机构业务爆发的核心背景。&lt;strong&gt;2026年上半年，A股市场日均交易量约3.25万亿元，同比增长98.55%。受此带动，公司交易及机构客户服务业务实现营收90.72亿元，同比增长94.12%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;股票销售及交易方面，公司完成19家A股主承销项目的销售，累计销售金额320.37亿元；场外期权、衍生品及做市业务持续扩容，做市品种覆盖ETF、期权、期货及股票等。固定收益业务保持较强竞争力，债券销售规模稳居行业前三，公司还成为港交所美元兑人民币外汇期货券商类流动性企业。&lt;/p&gt;
-&lt;p&gt;机构服务方面，截至期末，公司PB系统存续客户数达到2.70万户，同比增长30.20%；35家公募基金和13家保险资管机构使用公司算法交易服务。公募基金托管规模达到2984.54亿元，位居行业前三，上半年新增托管公募基金24只，位居行业第一。&lt;/p&gt;
-财富管理：新开发客户同比增144%
-&lt;p&gt;市场回暖也带动财富管理业务加速增长。&lt;/p&gt;
-&lt;p&gt;上半年，中信建投证券新开发客户202.65万户，同比增长143.92%；其中线上获客数量同比增长231.39%，新增高净值客户数量同比增长157.38。截至期末，公司累计客户数突破1900万户。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;财富管理转型同样取得进展。&lt;/strong&gt;上半年，公司投顾收入同比增长143.52%，定制业务保有规模同比增长266.94%，金融产品全口径保有规模突破4770亿元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;融资融券业务亦明显扩张&lt;/strong&gt;。截至期末，公司两融余额达到1086.14亿元，较年初增长27.61%，市场占有率3.60%；整体维持担保比例为322.89%，风险水平保持稳定。&lt;/p&gt;
-投行业务：股权融资承压，债券承销保持前三
-&lt;p&gt;&lt;strong&gt;与其他业务高速增长相比，投资银行业务表现相对平淡。&lt;/strong&gt;上半年，公司投行业务实现营业收入11.13亿元，同比增长0.86%，成为四大业务板块中增速最低的一项。&lt;/p&gt;
-&lt;p&gt;股权融资方面，公司完成16家A股股权融资项目，主承销金额277.48亿元，行业排名第三至第四位。截至期末，公司在审IPO项目38家，位居行业第三。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债券承销则继续保持竞争力。&lt;/strong&gt;上半年，公司完成债券主承销项目2355单，主承销金额8342.17亿元，均位居行业第三。其中，“五篇大文章”主题债券总承销规模达到1055.90亿元，同样位居行业第三。&lt;/p&gt;
-&lt;p&gt;并购重组业务也有亮点。上半年，公司完成3单A股重大资产重组项目，并服务宏创控股完成规模635.18亿元的重大资产重组项目。&lt;/p&gt;
-资管业务：AUM突破6255亿元
-&lt;p&gt;资产管理业务延续增长态势。截至期末，公司客户资产管理规模达到6255.75亿元，同比增长28.92%。&lt;/p&gt;
-&lt;p&gt;公募基金子公司中信建投基金实现重要突破，推出中信建投首农商业REIT，为北京首单此类产品。截至期末，中信建投基金管理规模达到1726.96亿元，其中公募基金规模1041.53亿元。&lt;/p&gt;
-&lt;p&gt;私募股权业务同样保持扩张。上半年，公司新增基金管理规模45.01亿元，行业排名第四；完成项目投资19.13亿元，同比增长91.49%，其中科技类项目投资15.38亿元，重点布局集成电路、新材料、信息技术及智能装备等领域。截至期末，公司在管备案基金86只，基金管理规模超过824亿元。&lt;/p&gt;
-&lt;p&gt;整体来看，&lt;strong&gt;中信建投上半年业绩高增，核心驱动力已经从传统投行业务进一步转向交易、机构服务和财富管理。随着市场成交活跃度提升，公司高弹性的经纪交易及机构业务正在成为业绩增长的关键支撑。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 舍得酒业调整继续：控库存、稳价格、推大众酒</title><link>https://wallstreetcn.com/articles/3779724</link><guid>c01c7213e908a05dbcbbff2faa1e28bb9869addba5a0effa54d775b86db08c20</guid><pubDate>Tue, 18 Aug 2026 14:34:18 GMT</pubDate><description>&lt;p&gt;白酒行业仍在调整，舍得酒业开始把更多增长希望放在大众价格带。&lt;/p&gt;
-&lt;p&gt;8月18日，舍得酒业发布2026年半年度报告。上半年，公司实现营业收入22.87亿元，同比下降15.34%；归母净利润1.45亿元，同比下降67.26%。&lt;/p&gt;
-&lt;p&gt;对于业绩下滑，舍得酒业将其归因于行业调整以及主动控货。公司表示，2026年上半年白酒行业仍处于深度调整期，消费动能偏弱，产品销售持续承压。&lt;/p&gt;
-&lt;p&gt;为稳定渠道价格和库存，公司继续实施“控量挺价”，适度控制发货，并支持经销商消化库存。&lt;/p&gt;
-&lt;p&gt;在中高端需求承压的同时，舍得正在把更多资源向大众消费倾斜。&lt;/p&gt;
-&lt;p&gt;上半年，公司酒类业务实现收入20.37亿元，上年同期为24.18亿元。其中，中高档酒收入15.39亿元，同比下降约22%；普通酒收入4.98亿元，同比增长约12%。&lt;/p&gt;
-&lt;p&gt;一降一增背后，是舍得对当前消费结构变化的判断。公司在半年报中明确将大众消费视为优先复苏的市场机会，并重点提及沱牌特级T68等核心产品的发展。&lt;/p&gt;
-&lt;p&gt;渠道端，舍得继续执行“稳价格、控库存、强动销”的策略，并推进经销商分级分类管理。&lt;/p&gt;
-&lt;p&gt;截至6月底，舍得酒业账面存货为61.51亿元，较2025年末的59.04亿元增加约4.2%。&lt;/p&gt;
-&lt;p&gt;回款端的压力则更为明显，应收账款由2025年末的2.86亿元增至3.75亿元，增长31.3%。舍得酒业解释，主要由于对部分经销商采用信用销售模式，赊销形成的应收款项增加。&lt;/p&gt;
-&lt;p&gt;这意味着，在控量发货、帮助经销商消化库存的同时，舍得也在通过信用销售为渠道提供支持，回款压力随之上升。上半年，公司经营活动产生的现金流量净额由上年同期的6737万元转为-2658万元。&lt;/p&gt;
-&lt;p&gt;利润端承受的压力更大。上半年，舍得酒业销售费用达到5.86亿元，上年同期为5.72亿元，在收入下降的同时仍同比增加；销售费用率由约21.2%升至25.6%。公司称，当前仍在加大消费者培育和市场投入。&lt;/p&gt;
-&lt;p&gt;由此看，舍得当前的经营思路已经比较清晰：一边通过“控量挺价”、支持渠道去库存稳住市场，一边继续投入消费者培育，并把更多增长希望放在沱牌及大众价格带上。&lt;/p&gt;
-&lt;p&gt;这套调整能否奏效，最终仍取决于大众酒的增量能否覆盖中高端下滑，以及渠道库存、价格和回款能否同步改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;政治风险方面，47%的受访者预计中期选举结果为&amp;quot;民主党控制众议院、共和党保留参议院&amp;quot;的分裂格局，民主党横扫两院的预期从27%降至23%。若民主党实现横扫，37%的受访者预计债券收益率上行、股市下跌，仅9%预期出现股债双升的&amp;quot;繁荣&amp;quot;情景，反映投资者对潜在财政扩张的债市压力高度警惕。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
