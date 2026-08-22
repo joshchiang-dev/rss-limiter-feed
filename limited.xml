@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 22 Aug 2026 00:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 瑞士央行官员：必要时将重启负利率，AI短期或推高通胀</title><link>https://wallstreetcn.com/articles/3780033</link><guid>46f98141026525a34a16a8e1e75366a1c8663d465ddc79d00e29ff61f37edc33</guid><pubDate>Fri, 21 Aug 2026 20:51:17 GMT</pubDate><description>&lt;p&gt;瑞士央行政策委员会成员表示，若有必要，瑞士央行将再度将利率降至零以下，以维持通胀在目标区间内。与此同时，她警告人工智能在短期内可能对价格构成上行压力。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 22 Aug 2026 01:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 瑞士央行官员：必要时将重启负利率，AI短期或推高通胀</title><link>https://wallstreetcn.com/articles/3780033</link><guid>46f98141026525a34a16a8e1e75366a1c8663d465ddc79d00e29ff61f37edc33</guid><pubDate>Fri, 21 Aug 2026 20:51:17 GMT</pubDate><description>&lt;p&gt;瑞士央行政策委员会成员表示，若有必要，瑞士央行将再度将利率降至零以下，以维持通胀在目标区间内。与此同时，她警告人工智能在短期内可能对价格构成上行压力。&lt;/p&gt;
 &lt;p&gt;8月21日，瑞士央行政策委员会成员Petra Tschudin在接受瑞士报纸Finanz und Wirtschaft采访时明确表示：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;如果为了在中期内将通胀维持在0%至2%之间，而有必要将利率降至零以下，我们就会这样做。&lt;/strong&gt;&lt;/p&gt;
@@ -190,31 +190,7 @@ AI投资热潮加剧资本争夺
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI 算力开支与高收入消费“双轮驱动”，经济学家上调美国三季度GDP预期至2.5%</title><link>https://wallstreetcn.com/articles/3780020</link><guid>1ba0a2dc87fb8385a13a3b1edd7eef3595cd8a810ea8c0d3adc556854ec319d3</guid><pubDate>Fri, 21 Aug 2026 13:21:38 GMT</pubDate><description>&lt;p&gt;美国经济增长预期获得多重支撑。彭博最新月度经济学家调查显示，受人工智能相关投资与高收入群体消费升温共同拉动，受访经济学家集体上调美国三季度GDP增速预测，叠加通胀逐步降温，美联储年内加息预期亦随之降温。&lt;/p&gt;
-&lt;p&gt;据彭博月度经济学家调查，&lt;strong&gt;受访者将美国第三季度GDP环比折年率预测从此前的2%上调至2.5%。&lt;/strong&gt;荷兰国际集团首席国际经济学家James Knightley指出，&lt;strong&gt;科技及AI相关投资是企业资本支出走强的主要驱动力，而高收入家庭消费则贡献了消费端增长的大部分动能。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;通胀数据的边际改善也在重塑利率预期。受访经济学家目前预计美联储将维持利率不变至明年7月，新任美联储主席沃什被认为加息意愿有限，市场对9月加息的定价已降至50%以下。与此同时，伊朗战事升级构成主要下行风险，一旦油价与消费价格被进一步推高，将令政策制定者陷入两难。&lt;/p&gt;
-
-AI资本开支浪潮托举商业投资
-
-&lt;p&gt;人工智能正在成为本轮美国商业资本支出扩张的核心引擎。据彭博行业分析师估算，今年全球AI相关资本支出总额可能突破1万亿美元，并有望在2027年进一步攀升至1.5万亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;James Knightley将科技及AI相关投资列为此轮企业资本支出上行的&amp;quot;主要因素&amp;quot;。&lt;/strong&gt;这一趋势已在宏观预测中得到体现——经济学家在上调三季度GDP增速的同时，也将私人投资前景纳入主要支撑变量。&lt;/p&gt;
-&lt;p&gt;不过，AI投资对整体增长的提振并未全面渗透至各季度预测。彭博调查显示，2027年底前各季度GDP增速预测变动有限，预期区间维持在2%至2.2%的窄幅区间内，暗示经济学家对中期增长前景持相对审慎态度。&lt;/p&gt;
-
-高收入消费撑起需求端半壁江山
-
-&lt;p&gt;消费侧的支撑同样呈现明显结构性特征。James Knightley指出，高收入家庭消费是当前消费支出增长的主要来源，这也意味着整体消费复苏的基础并不均衡，&lt;strong&gt;低收入群体对消费的贡献相对有限。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，劳动力市场延续降温态势。本次调查显示，经济学家将今年月均新增非农就业人数预测下调至6.6万人，并预计2027年月均就业增长将维持相近水平。就业增速的放缓在一定程度上也印证了消费动能向高收入群体集中的结构性判断。&lt;/p&gt;
-
-通胀降温开启，加息预期退潮
-
-&lt;p&gt;通胀走势是本次预测调整的另一条重要主线。受访经济学家预计，剔除食品与能源的核心PCE物价指数今年将平均录得3.2%，并在2027年逐步回落至年均2.5%。尽管核心通胀仍高于美联储2%的政策目标，但下行趋势已初步确立。&lt;/p&gt;
-&lt;p&gt;在此背景下，经济学家普遍预计美联储将按兵不动，利率维持不变的预期延伸至明年7月。James Knightley补充称，就业及通胀数据双双降温，加之市场对新任主席沃什加息意愿的预判偏向保守，9月加息的市场定价已跌破50%。&lt;/p&gt;
-
-伊朗战事构成最大外部风险
-
-&lt;p&gt;尽管基准预测趋于乐观，伊朗战事升级被明确列为当前美国经济前景的主要下行风险。冲突若持续扩大，可能推升油价及消费价格，并对经济增长形成拖累。&lt;/p&gt;
-&lt;p&gt;在通胀尚未回归政策目标的背景下，外部供给冲击的延续将令美联储的政策选择空间更加逼仄——既难以容忍通胀反弹，又面临增长承压的制约。经济学家的调查虽对基准情境保持相对乐观，但这一地缘政治变量的演变仍值得密切关注。&lt;/p&gt;
-&lt;p&gt;本次彭博调查于8月14日至19日进行，共有多达85位经济学家参与。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月综合PMI初值超预期升至逾四年新高，服务业强劲扩张抵消制造业疲软</title><link>https://wallstreetcn.com/articles/3780022</link><guid>c5049a5d875f8be9dcc557b45807f9467e749c12f18c0b3ca24e96f76da6783a</guid><pubDate>Fri, 21 Aug 2026 14:07:20 GMT</pubDate><description>&lt;p&gt;美国商业活动在8月明显提速，综合PMI升至四年多来最高水平，服务业强劲扩张成为经济增长的主要支撑，就业市场也同步回暖。与此同时，企业价格压力有所缓和，显示经济增长加速之际，通胀压力暂未进一步升温。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月综合PMI初值超预期升至逾四年新高，服务业强劲扩张抵消制造业疲软</title><link>https://wallstreetcn.com/articles/3780022</link><guid>c5049a5d875f8be9dcc557b45807f9467e749c12f18c0b3ca24e96f76da6783a</guid><pubDate>Fri, 21 Aug 2026 14:07:20 GMT</pubDate><description>&lt;p&gt;美国商业活动在8月明显提速，综合PMI升至四年多来最高水平，服务业强劲扩张成为经济增长的主要支撑，就业市场也同步回暖。与此同时，企业价格压力有所缓和，显示经济增长加速之际，通胀压力暂未进一步升温。&lt;/p&gt;
 &lt;p&gt;标普全球8月21日公布的初步数据显示，&lt;strong&gt;美国8月综合PMI产出指数升至56.0，较7月的54.5明显上升，创2022年4月以来最高。服务业商业活动指数从54.6升至56.8，为2024年12月以来最高；制造业PMI则由53.9降至53.2，制造业产出指数更降至51.9，为13个月低位。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;标普全球首席商业经济学家Chris Williamson表示，最新调查显示，美国第三季度GDP折年增速可能接近3.0%，明显高于第二季度的1.5%。这意味着美国经济增长动能正在从制造业向服务业切换。&lt;/p&gt;
 &lt;p&gt;值得注意的是，&lt;strong&gt;就业市场也出现明显改善。&lt;/strong&gt;综合就业指数录得今年以来最大单月涨幅，新增就业规模创2025年1月以来最大增幅；与此同时，企业对未来12个月产出的预期升至去年11月以来最高。&lt;/p&gt;
@@ -294,36 +270,7 @@ AI资本开支浪潮托举商业投资
 &lt;p&gt;加拿大保守党党魁Pierre Poilievre也公开要求卡尼不要接受一份“不公平的协议”，并警告单方面关税可能让加拿大企业处于竞争劣势。&lt;/p&gt;
 &lt;p&gt;对于卡尼政府而言，真正棘手之处在于：如果最终接受目前披露的方案，加拿大钢铁行业虽然能够摆脱50%关税的全面压力，但仍需接受配额内25%、超额50%的关税结构；汽车行业的实际有效关税也仍可能在7.5%左右。&lt;/p&gt;
 &lt;p&gt;而作为交换，加拿大则需要在钢铁反制关税、第三国钢铁进口、美国酒类、乳制品、关键矿产、军工采购以及能源出口等多个领域作出让步。&lt;/p&gt;
-&lt;p&gt;随着最后期限临近，美加谈判已经进入决定性阶段。&lt;strong&gt;400万吨钢铁配额及25%配额内税率能否最终写入协议、汽车15%关税及美国内容豁免如何落实，以及铝、木材等行业能否获得进一步减免，将成为双方最后几个小时谈判的关键。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元区8月综合PMI初值创9个月新高，制造业强势反弹成最大推手</title><link>https://wallstreetcn.com/articles/3780001</link><guid>6ec23044699148881bbd26d7373261bb3a3df0fac90645d42df6249c080ae0e8</guid><pubDate>Fri, 21 Aug 2026 13:01:19 GMT</pubDate><description>&lt;p&gt;欧元区经济活动8月意外小幅改善，制造业表现尤其亮眼，成为整体数据超预期的主要推手。与此同时，企业招聘重新恢复、价格压力继续缓和，但通胀仍明显高于欧洲央行目标，令后续货币政策路径依然充满不确定性。&lt;/p&gt;
-&lt;p&gt;8月21日公布的数据显示，&lt;strong&gt;标普全球编制的欧元区综合PMI初值升至52.1，高于7月的52.0，创9个月新高，也高于彭博调查的51.7，连续第二个月处于扩张区间。&lt;/strong&gt;其中，制造业PMI从51.9升至52.8，创2022年5月以来新高；制造业产出指数则升至53.4，为54个月来最高。服务业PMI为51.7，与7月持平。&lt;/p&gt;
-&lt;p&gt;数据公布后，欧洲债市小幅走高。互换市场显示，&lt;strong&gt;交易员小幅下调对欧洲央行明年累计加息幅度的押注，但9月加息25个基点的预期仍接近确定。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-制造业强势反弹，AI与国防需求提供支撑
-&lt;p&gt;制造业成为8月欧元区经济数据中最亮眼的部分。&lt;/p&gt;
-&lt;p&gt;标普全球市场情报首席商业经济学家Chris Williamson表示，&lt;strong&gt;制造业“再度成为明星表现者”，增长创四年半来最强。除了企业预防性补库存外，AI相关科技产品需求回升以及国防支出增加，也正在推动设备需求改善。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;制造业新订单连续第二个月增加，增速升至40个月来最高；与此同时，新出口订单时隔四年半首次恢复增长。这意味着制造业改善不仅来自库存因素，外部需求也开始出现回暖迹象。&lt;/p&gt;
-&lt;p&gt;这一变化对德国制造业尤其重要。&lt;strong&gt;德国8月制造业产出增速创2022年1月以来最快，设备需求回升正进一步改善德国工业表现。&lt;/strong&gt;不过，供应链压力仍然存在，企业交付时间明显延长，导致制造商补充库存的能力受到限制。&lt;/p&gt;
-&lt;p&gt;欧元区内部表现依然分化。德国经济活动小幅扩张，而法国经济活动进一步收缩；相比之下，除德国和法国以外的其他欧元区经济体增速创2022年4月以来最快。服务业方面，旅游支出增加正成为德国、法国以外地区经济增长的重要支撑。&lt;/p&gt;
-&lt;p&gt;从整体经济表现看，欧元区仍展现出一定韧性。二季度经济产出环比增长0.4%，高于此前预期。&lt;strong&gt;Williamson预计，8月PMI所反映的经济活动强度，意味着欧元区三季度GDP环比增幅可能达到约0.3%。&lt;/strong&gt;&lt;/p&gt;
-企业重新招聘，经济改善出现更多积极信号
-&lt;p&gt;PMI的改善不仅体现在产出和订单上，就业市场也出现转机。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;8月欧元区企业就业人数自2026年以来首次增加。&lt;/strong&gt;服务业招聘速度有所加快，制造业就业则结束了持续38个月的下降趋势，出现小幅增长。德国就业人数趋于稳定，而法国就业仍在下降，新增就业主要来自其他欧元区成员国。&lt;/p&gt;
-&lt;p&gt;不过，企业信心并未同步明显改善。&lt;strong&gt;欧元区企业对未来一年的产出预期在8月降至三个月低点，且低于长期平均水平。服务业信心走弱，而制造业信心则升至六个月高点。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，当前经济活动的改善仍带有一定脆弱性，企业对未来增长前景依然保持谨慎。&lt;/p&gt;
-通胀压力继续缓和，但仍远高于目标
-&lt;p&gt;经济活动改善并不意味着欧洲央行可以高枕无忧，通胀仍是政策制定者面临的主要问题。&lt;/p&gt;
-&lt;p&gt;7月欧元区通胀率升至2.9%，明显高于欧洲央行2%的目标。欧洲央行6月已加息25个基点，在通胀重新走高的背景下，是否需要进一步收紧货币政策，成为市场关注焦点。&lt;/p&gt;
-&lt;p&gt;从PMI价格分项看，&lt;strong&gt;8月欧元区企业投入成本通胀率降至2月以来最低，制造业投入成本涨幅也降至六个月低点。企业产出价格涨幅则连续第三个月放缓，降至3月以来最低，制造业和服务业的售价压力均有所缓解。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，投入成本涨幅仍较为明显，且仍显著高于中东战争爆发前的水平。这意味着能源、供应链等外部冲击对企业成本的影响尚未完全消退。&lt;/p&gt;
-&lt;p&gt;Williamson表示，&lt;strong&gt;随着三季度经济增长预计保持强劲、企业今年以来首次恢复招聘，同时通胀按历史标准仍处于高位，欧洲央行内部的鹰派倾向可能继续维持，近期进一步加息仍不能排除。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;欧洲央行此前也警告，能源价格冲击的完整影响尚未完全显现。未来欧元区经济和通胀走势，仍将高度取决于外部环境，尤其是中东局势、供应链以及能源市场的进一步变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债扩大回购宣布前，资产管理公司增持5年期和10年期期货多头</title><link>https://wallstreetcn.com/articles/3780038</link><guid>62feda50b01c8df8b509db1527fa4c15512f88dbc57ef7011e5fb445bb5a414f</guid><pubDate>Fri, 21 Aug 2026 22:10:20 GMT</pubDate><description>&lt;p&gt;据美国商品期货交易委员会（CFTC）数据，在美国财政部意外宣布扩大长期美债回购规模之前，资产管理公司已增加部分美国国债期货的净多头敞口，而投机者则削减了相关敞口。&lt;/p&gt;
-&lt;p&gt;CFTC截至8月18日当周的数据显示，&lt;strong&gt;资产管理公司在5年期和10年期美债期货上的净多头头寸均有所增加。其中，10年期美债期货净多头增加约3.1万张，5年期增加约4.3万张。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，资产管理公司在2年期美债期货上的净多头减少约6万张，因此其仓位变化并非所有期限均呈增持趋势。&lt;/p&gt;
-&lt;p&gt;与资产管理公司的仓位变化相比，&lt;strong&gt;杠杆基金等投机资金在部分长久期美债期货上的净头寸进一步转向空头。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;整体来看，财政部宣布扩大回购之前，美债市场已经出现长期资金增持部分长端合约、投机资金偏空的仓位分化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国财政部于8月19日宣布，将10年至30年期名义国债流动性支持回购操作规模至少扩大一倍，每次操作规模上限由20亿美元提高至至少40亿美元，计划于9月9日至11月4日实施。&lt;/p&gt;
-&lt;p&gt;财政部此次意外加码回购的背景是长期美债收益率持续攀升。8月19日前，美国30年期美债收益率一度升至5.34%，创2007年以来新高。财政部宣布扩大回购后，长端收益率一度明显回落，但随后重新走高，显示市场对回购措施能否持续缓解美债供需压力仍存疑虑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素</title><link>https://wallstreetcn.com/articles/3780042</link><guid>29e9f3d5e58fd36ef6225aaec6d4af888b41d7210a5d3aa4d2a92dfa2446ebfe</guid><pubDate>Fri, 21 Aug 2026 23:04:40 GMT</pubDate><description>&lt;p&gt;Anthropic正准备登陆公开市场，但当前越来越多的美国人对人工智能感到担忧，并强烈反对新建数据中心。&lt;/p&gt;
+&lt;p&gt;随着最后期限临近，美加谈判已经进入决定性阶段。&lt;strong&gt;400万吨钢铁配额及25%配额内税率能否最终写入协议、汽车15%关税及美国内容豁免如何落实，以及铝、木材等行业能否获得进一步减免，将成为双方最后几个小时谈判的关键。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素</title><link>https://wallstreetcn.com/articles/3780042</link><guid>29e9f3d5e58fd36ef6225aaec6d4af888b41d7210a5d3aa4d2a92dfa2446ebfe</guid><pubDate>Fri, 21 Aug 2026 23:04:40 GMT</pubDate><description>&lt;p&gt;Anthropic正准备登陆公开市场，但当前越来越多的美国人对人工智能感到担忧，并强烈反对新建数据中心。&lt;/p&gt;
 &lt;p&gt;据CNBC援引知情人士透露，&lt;strong&gt;这种公众的反弹情绪预计将成为Anthropic IPO招股书中的一项关键风险因素。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic一直在旧金山与银行家和投资者进行初步的“试探性推介”会议。在会议中，首席财务官Krishna Rao被反复问及&lt;strong&gt;竞争问题、开源模型带来的利润率压力，以及数据中心建设放缓可能产生的影响。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;知情人士称，投资者预计Anthropic可能会打破SpaceX创下的IPO纪录，并预测该公司的上市估值或高达2万亿美元左右。&lt;/p&gt;
@@ -343,19 +290,49 @@ AI资本开支浪潮托举商业投资
 &lt;p&gt;期货机构金瑞期货的分析师在报告中写道：&lt;strong&gt;“市场对海外锌供应中断的担忧依然存在。”他们补充称，“因此，支撑LME锌价相对强势的驱动力依然存在，同时宏观经济情绪也加剧了市场的波动性。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;除了锌市场之外，资深大宗商品策略师杰夫·柯里（Jeff Currie）周四在社交平台X上发布了一系列帖子。他指出，实物市场紧缺、货币贬值以及政策干预的交汇，正是大宗商品结构性牛市周期的典型特征。&lt;/p&gt;
 &lt;p&gt;柯里呼吁他的粉丝们：“赶紧做多，系好安全带：下一轮行情将伴随着更高的波动率，更多市场将创下更高的高点。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7月“血洗”后，对AI的信仰还在！高盛：对冲基金重押大科技，亚马逊连续11季最受宠</title><link>https://wallstreetcn.com/articles/3780003</link><guid>1c9b50cdeb88fa855a807774445fa4e8b4aa6056e3973e9465c970270c1f176e</guid><pubDate>Fri, 21 Aug 2026 13:00:21 GMT</pubDate><description>&lt;p&gt;7月美股剧烈震荡并未动摇对冲基金对AI交易的信心。高盛最新报告显示，&lt;strong&gt;尽管经历大规模去杠杆和仓位清理，对冲基金依然重押大型科技股，AI仍是最核心的投资主线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛对近1000只对冲基金、合计5.4万亿美元股票多空敞口的监测显示，截至8月19日，对冲基金今年以来整体回报率仍达到10%。不过，7月剧烈回调也令行业遭遇近20年来相对标普500表现最差的单月之一，拥挤交易的脆弱性由此暴露。&lt;/p&gt;
-&lt;p&gt;但资金并未因此大举撤离。高盛数据显示，&lt;strong&gt;亚马逊连续第11个季度成为对冲基金最受欢迎的个股；其最受青睐的前十大股票中，有9只与AI主题相关。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，对冲基金开始通过降低整体杠杆、扩大板块配置来分散风险。医疗、金融和能源三大板块的净配置均升至近十年高位，显示资金正在AI主线之外增加防御空间。&lt;/p&gt;
-7月大幅去杠杆，热门AI仓位跌得最深
-&lt;p&gt;高盛投资组合策略研究团队负责人Ben Snider表示，7月是“过去十年中对冲基金去杠杆最为剧烈的时期之一”。&lt;/p&gt;
-&lt;p&gt;此次调整并非简单降低净敞口，而是对整个交易账簿进行收缩，基金不仅减少方向性押注，也同步压缩整体仓位规模。&lt;/p&gt;
-&lt;p&gt;半导体板块走弱，以及超大规模云计算企业集中发布财报，是触发仓位清理的重要因素。市场一度开始质疑AI资本开支的高增长能否持续，前期涨幅较大的AI交易随之承压。&lt;/p&gt;
-&lt;p&gt;高盛指出，&lt;strong&gt;二季度表现最好的AI相关仓位，恰恰也是基金当季加仓最多的方向，随后在7月回调中跌幅最深。这意味着，资金越集中的热门交易，在市场波动放大时越容易出现踩踏。&lt;/strong&gt;&lt;/p&gt;
-亚马逊连续11季霸榜，十大热门股九只与AI相关
-&lt;p&gt;尽管7月市场经历剧烈波动，对冲基金的整体投资方向并未因此发生根本性转变，对大型科技股的偏好依然稳固。&lt;/p&gt;
-&lt;p&gt;根据高盛最新数据，亚马逊连续第11个季度蝉联最受欢迎个股，而在前十大热门持仓中，有九只与人工智能主题密切相关，唯一的例外是Visa。这表明，AI依旧是当前最核心的投资主线。&lt;/p&gt;
-&lt;p&gt;与此同时，资金正沿着AI产业链进一步延伸布局。二季度数据显示，数据中心、AI基础设施以及相关电力设备公司的受欢迎程度显著提升，反映出机构正在从算力、应用等环节持续挖掘结构性机会。&lt;/p&gt;
-&lt;p&gt;此外，&lt;strong&gt;部分此前未进入热门持仓前50名的成长股也开始获得关注，涵盖软件、电商、媒体和航空等领域，说明资金并非放弃成长风格，而是在AI主线之外适度拓宽配置范围。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从整体仓位看，尽管对冲基金的净杠杆率有所回落，但其市场总敞口仍高于历史均值。高盛指出，ETF多头仓位占比已升至5.6%，为2008年全球金融危机以来的最高水平。&lt;strong&gt;与此同时，医疗保健、金融和能源三大板块的净倾斜指标均升至近十年高位，显示资金正在系统性地向非科技领域分散风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;综合来看，7月的市场动荡更多促使对冲基金优化组合结构，而非逆转投资方向。AI仍是压倒性的主线，但面对高度拥挤的科技股交易，机构正通过增加其他板块配置来平衡组合风险，整体策略在坚持核心主题的同时，呈现出更明显的多元化和防御性特征。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从“AI股神”抄底的“带血筹码”，Citadel已卖掉80%！</title><link>https://wallstreetcn.com/articles/3780034</link><guid>fcacbc591837738a96fc4ef2032a12c62c256e238514add2c81e9d8fd01b843a</guid><pubDate>Fri, 21 Aug 2026 21:08:05 GMT</pubDate><description>&lt;p&gt;城堡证券（Citadel）创始人Ken Griffin向客户披露，公司已大幅削减从对冲基金Situational Awareness收购的资产组合中的风险敞口，同时确认旗舰基金7月份表现强劲。&lt;/p&gt;&lt;p&gt;据CNBC，Griffin在周五致客户的信中表示，&lt;strong&gt;城堡证券已通过逾100笔大宗交易（市值合计超过40亿美元）将上述收购组合的整体风险敞口削减逾80%。这是Griffin首次就收购Situational Awareness资产一事公开表态。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Griffin在信中同时确认，&lt;strong&gt;旗舰多策略基金Wellington 7月份回报率达5.94%，为2022年以来最佳单月表现。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;城堡证券介入Situational Awareness的时机正值AI相关交易遭遇剧烈震荡。此后，AI板块出现反弹，&lt;strong&gt;市场普遍认为Situational Awareness的被迫清仓标志着本轮自6月开始的抛售触及阶段性底部。&lt;/strong&gt;&lt;/p&gt;AI交易失利引爆连锁平仓&lt;p&gt;Situational Awareness由25岁的Leopold Aschenbrenner创立，基金重仓AI相关主题，其投资逻辑建立在Aschenbrenner对人工智能将从根本上重塑世界与经济的判断之上。&lt;/p&gt;&lt;p&gt;与此同时，基金对部分软件公司持有空头仓位，押注这些公司将受AI冲击。&lt;/p&gt;&lt;p&gt;然而，AI相关交易在6月至7月间急转直下——彼时大盘指数整体表现平稳——基金重仓的闪迪和Bloom Energy等个股跌幅均逾50%。与此同时，Adobe等软件股反弹，导致基金多空两端同时亏损。&lt;/p&gt;&lt;p&gt;双向失利最终触发保证金追缴及强制平仓。&lt;/p&gt;城堡证券接手后，AI板块随之反弹&lt;p&gt;城堡证券于7月29日与Situational Awareness就收购部分持仓一事展开磋商。&lt;/p&gt;&lt;p&gt;次日，Situational Awareness因遭受重大损失，被迫出售全部公开市场股票仓位，城堡证券随后被证实为上述资产的买方。&lt;/p&gt;&lt;p&gt;城堡证券接手Situational Awareness的公开市场资产后，AI相关交易随即出现反弹，市场将Situational Awareness的被迫出售视为本轮始于6月的下跌行情的阶段性低点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：AI债务发行激增，数据中心相关债券的利差持续走阔</title><link>https://wallstreetcn.com/articles/3780029</link><guid>5d34b7cb4c88c200347271a634939536814298ffe1779266f29692e7c6aedc66</guid><pubDate>Fri, 21 Aug 2026 20:25:12 GMT</pubDate><description>&lt;p&gt;数据中心相关债务市场正面临新的定价压力。随着AI驱动的借贷需求持续攀升，浮动利率单一资产单一借款人（SASB）商业地产抵押贷款支持证券（CMBS）市场中，数据中心资产的利差已出现走阔，摩根大通对相关AAA级证券的配置态度也随之趋于保守。&lt;/p&gt;
+&lt;p&gt;据摩根大通分析师Chong Sin与Terrell Bobb在周五发布的报告中指出，&lt;strong&gt;浮动利率SASB CMBS市场整体保持&amp;quot;相当稳定&amp;quot;，但数据中心板块利差已有所扩大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他们认为，&lt;strong&gt;这一走阔趋势的背后，是AI及数据中心相关债务整体供给激增带来的市场压力，而非数据中心SASB本身的供给过剩。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对投资者而言，这一格局意味着，评估CMBS数据中心的技术面时，必须将其他市场中数据中心及相邻领域的融资活动一并纳入考量。&lt;/p&gt;
+&lt;p&gt;摩根大通表示，鉴于今年以来杠杆率有所上升，该行已对AAA级SASB数据中心证券采取更为审慎的选择策略。&lt;/p&gt;
+
+供给压力来自其他市场，SASB本身并非症结
+
+&lt;p&gt;摩根大通的数据显示，今年迄今数据中心SASB新发行规模仅为49亿美元，约占私人标签发行总量的4%，远低于去年7.1%的占比。&lt;/p&gt;
+&lt;p&gt;由此可见，CMBS数据中心的一级市场供给并未构成明显压力。&lt;/p&gt;
+&lt;p&gt;真正的压力源头在于更广泛的AI相关债务市场。&lt;/p&gt;
+&lt;p&gt;ABS（资产支持证券）领域中数据中心相关发行已达116亿美元，而2025年全年合计规模为155亿美元。两相对照，不同融资渠道之间的体量差异显著，投资者在判断CMBS数据中心技术面时，需对各类融资形式形成整体认知。&lt;/p&gt;
+
+利差走阔背后：杠杆上升引发定价重估
+
+&lt;p&gt;尽管SASB供给可控，但数据中心CMBS利差仍随AI借贷潮整体走阔。摩根大通将这一现象部分归因于今年以来整体杠杆率的上升，并据此对AAA级SASB数据中心证券的配置变得更具选择性。&lt;/p&gt;
+&lt;p&gt;不过，该行并未全面看空这一资产类别。报告指出，以1个月期有担保隔夜融资利率（Term SOFR）加170个基点定价的证券，相较于工业类或多户住宅类等核心SASB板块的AAA级证券，仍具备较为可观的利差收益（carry）吸引力。&lt;/p&gt;
+&lt;p&gt;这一表述意味着，摩根大通对数据中心CMBS的态度是&amp;quot;有条件参与&amp;quot;，而非全面回避，关键在于具体证券的定价是否充分补偿了当前的风险溢价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债扩大回购宣布前，资产管理公司增持5年期和10年期期货多头</title><link>https://wallstreetcn.com/articles/3780038</link><guid>62feda50b01c8df8b509db1527fa4c15512f88dbc57ef7011e5fb445bb5a414f</guid><pubDate>Fri, 21 Aug 2026 22:10:20 GMT</pubDate><description>&lt;p&gt;据美国商品期货交易委员会（CFTC）数据，在美国财政部意外宣布扩大长期美债回购规模之前，资产管理公司已增加部分美国国债期货的净多头敞口，而投机者则削减了相关敞口。&lt;/p&gt;
+&lt;p&gt;CFTC截至8月18日当周的数据显示，&lt;strong&gt;资产管理公司在5年期和10年期美债期货上的净多头头寸均有所增加。其中，10年期美债期货净多头增加约3.1万张，5年期增加约4.3万张。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，资产管理公司在2年期美债期货上的净多头减少约6万张，因此其仓位变化并非所有期限均呈增持趋势。&lt;/p&gt;
+&lt;p&gt;与资产管理公司的仓位变化相比，&lt;strong&gt;杠杆基金等投机资金在部分长久期美债期货上的净头寸进一步转向空头。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体来看，财政部宣布扩大回购之前，美债市场已经出现长期资金增持部分长端合约、投机资金偏空的仓位分化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国财政部于8月19日宣布，将10年至30年期名义国债流动性支持回购操作规模至少扩大一倍，每次操作规模上限由20亿美元提高至至少40亿美元，计划于9月9日至11月4日实施。&lt;/p&gt;
+&lt;p&gt;财政部此次意外加码回购的背景是长期美债收益率持续攀升。8月19日前，美国30年期美债收益率一度升至5.34%，创2007年以来新高。财政部宣布扩大回购后，长端收益率一度明显回落，但随后重新走高，显示市场对回购措施能否持续缓解美债供需压力仍存疑虑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达拟斥资60亿美元获Poolside AI模型授权，另投10亿美元并吸纳百余名员工</title><link>https://wallstreetcn.com/articles/3780040</link><guid>528db371ec7822029d4d9acc2f035f76c9dbe4f9b3864eb87b29c86d4bafe51b</guid><pubDate>Fri, 21 Aug 2026 22:59:10 GMT</pubDate><description>&lt;p&gt;英伟达正以一种规避传统并购审查的方式，持续向人工智能行业注入巨量资金。&lt;/p&gt;
+&lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;英伟达已同意向AI初创公司Poolside支付60亿美元的模型许可费，并将向其逾100名员工发出工作邀约。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，英伟达还以120亿美元估值（不含许可费）对Poolside追加10亿美元战略投资。&lt;/strong&gt;此次交易完成后，Poolside现有股东将从英伟达的资金中获得一笔派息，而Poolside本身将继续独立运营。&lt;/p&gt;
+&lt;p&gt;此次交易结构与英伟达此前收购芯片初创公司Groq的模式颇为相似，引发了部分立法者的批评，认为此类安排实质上是在绕过并购监管审查。&lt;/p&gt;
+
+许可费加股权，英伟达深度绑定Poolside
+
+&lt;p&gt;此次交易呈现出&amp;quot;许可费+股权投资+人才引进&amp;quot;的复合结构。&lt;/p&gt;
+&lt;p&gt;据知情人士透露，60亿美元许可费与10亿美元投资系相互独立的安排，英伟达在获得Poolside AI模型授权的同时，将向其百余名员工提供入职邀请。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Poolside在美国和巴黎均设有办公室，专注于开发面向计算机编程自动化的AI模型，尤其针对政府及国防软件领域。该公司的技术方向与英伟达拓展AI应用场景的战略高度契合。&lt;/strong&gt;&lt;/p&gt;
+
+战略逻辑：锁定需求，押注开源
+
+&lt;p&gt;作为全球市值最高的上市公司，英伟达近期正加速向AI行业输出资本。作为AI处理器的主导厂商，英伟达将推动AI技术在更广泛经济领域的普及视为保障未来芯片及计算系统需求的核心战略。&lt;/p&gt;
+&lt;p&gt;英伟达近期将战略重心转向支持开源模型，致力于使相关技术更广泛可得，并避免AI产品过度集中于少数大型企业。&lt;/p&gt;
+&lt;p&gt;除芯片之外，这家总部位于加州圣克拉拉的公司还提供涵盖AI模型、数据及自研软件在内的多元化产品组合。&lt;/p&gt;
+
+交易结构存争议，或面临监管审视
+
+&lt;p&gt;此次交易的结构与据报道英伟达收购Groq的方式如出一辙——后者据报道以约200亿美元获取了Groq芯片设计的非独占许可，并吸纳了该公司绝大多数员工及创始人。&lt;/p&gt;
+&lt;p&gt;这类交易模式已引发立法者的质疑。批评者认为，以许可协议替代直接收购，实质上使相关交易绕过了并购反垄断审查机制。&lt;/p&gt;
+&lt;p&gt;随着英伟达此类交易数量不断增加，其所面临的监管压力或将持续上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
