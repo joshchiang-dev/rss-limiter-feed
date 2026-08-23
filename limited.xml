@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 06:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 07:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
 &lt;p&gt;3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈：&lt;strong&gt;电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SemiAnalysis在推文表示：&lt;strong&gt;“钼不是一种优化，是300层以上NAND的必选项。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在高深宽比结构中更好的填充能力。这三点恰好对应钨在深层堆叠中暴露出的三个核心缺陷，使得材料替换具有技术必然性，而非可选的工程改进。&lt;/p&gt;
@@ -130,7 +130,25 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;韩国央行利率决议与欧洲央行货币政策会议纪要&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “我们遭到了袭击！”加拿大强力反制：对美等额关税9月8日生效，午夜紧急召回谈判团队</title><link>https://wallstreetcn.com/articles/3780061</link><guid>02ed32fa706c837a5745d3556801a9a74969a6057d0bfdd20aa640861f73460d</guid><pubDate>Sun, 23 Aug 2026 01:58:55 GMT</pubDate><description>&lt;p&gt;加美贸易谈判宣告破裂，双方关税对抗迅速升级为近年来最严峻的贸易冲突。&lt;/p&gt;
+&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 李辉就任宏利基金总经理，公募老将开拓新局面</title><link>https://wallstreetcn.com/articles/3780078</link><guid>3f65b97444157b01651895e4b1505a45109de7073791514f5f1c8cd89d8499c5</guid><pubDate>Sun, 23 Aug 2026 02:24:06 GMT</pubDate><description>&lt;p&gt;2026 年 8 月 21 日，宏利基金正式发布公告，任命李辉为新任总经理（法定代表人）及财务负责人，原总经理丁闻聪因工作调动离任。李辉是宏利基金完成独资转型后的第三任总经理，亦是经验丰富的业内总经理，由此带来业界对宏利基金下一步发展的期待。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+宏利基金现高管更替
+&lt;p&gt;根据宏利基金8月22日发布的公告，公司近期变更了总经理（法定代表人）、财务负责人的相关信息。&lt;/p&gt;
+&lt;p&gt;前兴业基金总经理李辉接掌两个岗位，原任宏利基金总经理的DING WEN CONG（丁闻聪）已因工作安排离任，两者交接棒时间为8月21日。&lt;/p&gt;
+&lt;p&gt;另外，因宏利基金原督察长于 2026 年 6 月 10 日离任，由公司总经理代为履行督察长职务，本次高级管理人员变更后，公司新任总经理李辉将继续代为履行督察长职务。&lt;/p&gt;
+资深公募老将上任
+&lt;p&gt;李辉是公募基金业内的资深总经理，业务和管理经验丰富。&lt;/p&gt;
+&lt;p&gt;他早年曾任职于中宏人寿、海康人寿、AIG等机构，2010年至2013年李辉任职于国泰基金，并出任分管市场业务的副总经理，在他任上，国泰基金规模和产品类型都有较大突破。&lt;/p&gt;
+&lt;p&gt;2023年9月至2026年7月，李辉出任兴业基金管理公司的总经理，统揽公司业务。在他任职期间，兴业基金的公募受托规模从不足3000亿增长到5500亿以上，行业排名上升至2026年中的第23位。&lt;/p&gt;
+&lt;p&gt;而现在这位管理经验丰富的老将，将率领一支中西合璧的外资独资机构，走上新的征程。&lt;/p&gt;
+独资公募格局待变
+&lt;p&gt;自2020年贝莱德基金获批成立国内首个外商独资基金以来，业内的外商独资公募机构渐渐成为行业一个特定群体，进而备受关注。&lt;/p&gt;
+&lt;p&gt;一方面，他们的股东都是业内外知名的全球外资资管机构，享有较高的全球声誉。另一方面，作为国内公募行业的后来者，一个竞争极为激烈的行业的参与者，独资公募也没有办法仅仅因为股东知名而就此开启顺遂的成长过程，相反，他们同样面临行业的一系列挑战。&lt;/p&gt;
+&lt;p&gt;而仅从近三年的发展看，近10家机构组成的外资独资公募群体渐渐分化成了三个群体，由合资基金转行而来的摩根基金、宏利基金；业内较早完成设立且产品线较为扎实的贝莱德、路博迈、富达基金等，以及其他机构。&lt;/p&gt;
+&lt;p&gt;能否在当下的行业发展挑战期，把握到稍纵即逝的成长机遇，进一步打开发展空间，可能是摆在李辉、周文秱 （摩根士丹利总经理）、王琼慧（摩根基金总经理）等面前共同的时代之问。而此番宏利基金果断出手更换总经理，或许意味着对他们而言，思路已经着手了。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “我们遭到了袭击！”加拿大强力反制：对美等额关税9月8日生效，午夜紧急召回谈判团队</title><link>https://wallstreetcn.com/articles/3780061</link><guid>02ed32fa706c837a5745d3556801a9a74969a6057d0bfdd20aa640861f73460d</guid><pubDate>Sun, 23 Aug 2026 01:58:55 GMT</pubDate><description>&lt;p&gt;加美贸易谈判宣告破裂，双方关税对抗迅速升级为近年来最严峻的贸易冲突。&lt;/p&gt;
 &lt;p&gt;据央视新闻8月23日消息，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。&lt;/p&gt;
 &lt;p&gt;卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，&lt;strong&gt;加拿大的等额报复性关税计划于9月8日正式生效执行&lt;/strong&gt;，涵盖乳制品、钢铁、家电、纸浆与造纸及电子产品等多个领域。&lt;/p&gt;
 &lt;p&gt;此前，美国依据《斯穆特-霍利关税法》第338条款，对约200亿美元加拿大商品加征50%关税，已于美东时间8月22日凌晨生效。卡尼在全国电视讲话中以强硬措辞回应，称加拿大&amp;quot;遭到了袭击&amp;quot;，并强调加拿大正减少对美依赖、&amp;quot;正变得越来越强大&amp;quot;。&lt;/p&gt;
@@ -196,7 +214,23 @@
 &lt;p&gt;AI投资的高资本需求正在向信用市场传导，并与政府债融资争夺资金。美国财报季虽然进一步验证了AI投资对企业盈利和资本开支的支撑，但如果科技企业债市场持续承压，其融资成本和风险偏好的变化可能反过来影响股票市场。因此，&lt;strong&gt;科技企业债能否企稳，将成为下周股市能否守住的重要外部指标。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此外，&lt;strong&gt;杰克逊霍尔年会上沃什对资产负债表政策（QT）的表态同样值得关注。&lt;/strong&gt;如果他释放出继续收缩资产负债表、避免向金融市场注入过多流动性的信号，可能进一步收紧流动性环境，并对权益市场形成压力。其一贯警惕过度流动性导致资产价格扭曲的立场，使这一风险尤其值得关注。&lt;/p&gt;
  
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普投资账户6月交易上千笔，金融股成重仓方向</title><link>https://wallstreetcn.com/articles/3780076</link><guid>19c22ee9dd00243ce54f32b37a65c9764cce44d27c42476d4db797bca10f4f63</guid><pubDate>Sun, 23 Aug 2026 06:10:15 GMT</pubDate><description>&lt;p&gt;特朗普6月投资账户完成逾千笔股票交易，金融板块成为最大买入方向，白宫坚称总统本人对交易决策毫不知情。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 七年来首次！阿里拟配售800亿港元新股，全部投入AI建设</title><link>https://wallstreetcn.com/articles/3780075</link><guid>b03311ee32b44dc166993a0988f59426b71cc1a2c9f18d9a67c9028b45a33aff</guid><pubDate>Sun, 23 Aug 2026 05:34:46 GMT</pubDate><description>&lt;p&gt;阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。&lt;/p&gt;
+&lt;p&gt;8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售&lt;strong&gt;。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI正在成为驱动阿里加速增长的核心引擎，8月20日阿里发布的最新财报显示，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币（73亿美元），预计下季度达到100亿美元。阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。近期，全球投资者纷纷看多阿里巴巴作为国内AI领导者地位并上调目标价。&lt;/p&gt;
+新股配售获超额认购
+&lt;p&gt;据硬AI消息，据悉此轮配售已获超额认购，&lt;strong&gt;其中主权财富基金等高质量长线做多投资者需求强劲。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;知情人士称，本次配售启动后很快获得超额认购。主权财富基金等高质量长线做多投资者的踊跃认购，源于阿里AI投入清晰可见的回报路径——在算力持续供不应求、AI相关产品收入和毛利持续提升的支撑下，资本开支预计3年内，甚至2.5年到2年即可收回。因此，相比短期摊薄，AI增长的确定性、投资回报的可见性推动了这次市场认购热情。&lt;/p&gt;
+AI收入加速，商业化逻辑初步验证
+&lt;p&gt;三天前，阿里最新业绩刚刚出炉。&lt;/p&gt;
+&lt;p&gt;截至6月的季度，阿里云收入同比增长45%，AI相关产品年化收入（ARR）达495亿元人民币（约73亿美元），在阿里云外部商业化收入中占比升至35%。这一数字已连续12个季度实现三位数同比增长。&lt;/p&gt;
+&lt;p&gt;CEO吴泳铭在业绩电话会上表示，AI商业化已从上季度的“跨越拐点”，进入本季度“增长提速、利润率攀升”的阶段。云业务EBITA利润率环比升至12%，AI相关产品毛利率“显著高于云产品平均水平”。&lt;/p&gt;
+&lt;p&gt;管理层还给出了更长期的目标：阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。&lt;/p&gt;
+资本开支前置，三年计划已过半
+&lt;p&gt;此次配股，本质上是为已经启动的大规模资本支出计划补充弹药。&lt;/p&gt;
+&lt;p&gt;首席财务官徐宏在电话会上解释了这一逻辑：&lt;strong&gt;“必须是capex先行，才能获得后面的业务增长。”&lt;/strong&gt;无论是AI软件订阅、大模型API推理还是GPU租用，商业化都建立在算力中心等基础设施之上。&lt;/p&gt;
+&lt;p&gt;阿里巴巴于2025年2月公布了三年3800亿元人民币的投资计划。截至2026年6月季度末，已累计投入约1900亿元，整体进度符合预期。&lt;/p&gt;
+&lt;p&gt;在投资回报方面，吴泳铭表示，&lt;strong&gt;AI算力资产目前预计约三年回收成本，随着AI相关产品毛利率持续提升，回收周期有望进一步缩短至约2.5年，“甚至两年左右”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;徐宏援引实际运营数据称，公司2018年采购的V100和2020年采购的A100目前仍接近满载运行，显示AI算力资产的实际使用寿命&amp;quot;明显长于理论折旧周期&amp;quot;——这意味着三年回本之后，资产仍可持续贡献正向自由现金流。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普投资账户6月交易上千笔，金融股成重仓方向</title><link>https://wallstreetcn.com/articles/3780076</link><guid>19c22ee9dd00243ce54f32b37a65c9764cce44d27c42476d4db797bca10f4f63</guid><pubDate>Sun, 23 Aug 2026 06:10:15 GMT</pubDate><description>&lt;p&gt;特朗普6月投资账户完成逾千笔股票交易，金融板块成为最大买入方向，白宫坚称总统本人对交易决策毫不知情。&lt;/p&gt;
 &lt;p&gt;据《华尔街日报》8月22日报道，根据最新政府披露文件，美国总统特朗普的投资账户在今年6月完成了逾1000笔股票交易，买入笔数超过550笔，卖出笔数超过450笔。他的证券买入总额超过4900万美元，而卖出总额至少为2850万美元。&lt;/p&gt;
 &lt;p&gt;这份文件于当地时间周六公开发布。白宫随即表示，总统本人在上述交易中不扮演任何角色，所有操作均由独立管理人通过计算机模型自动执行，以复制主流股票指数的表现。&lt;/p&gt;
 6月18日：单日大额买卖同步发生
