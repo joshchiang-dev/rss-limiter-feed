@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 12:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 02:14:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 13:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 13:16:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观方面，杰克逊霍尔年会&lt;/strong&gt;是下周最大宏观锚点。美联储主席&lt;strong&gt;沃什&lt;/strong&gt;8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。&lt;strong&gt;美联储“最爱通胀指标”7月PCE&lt;/strong&gt;与二季度GDP修正值8月26日公布。与此同时，&lt;strong&gt;美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划&lt;/strong&gt;，地缘风险溢价与财政路径双线夹击能源与避险资产。&lt;/p&gt;
@@ -366,7 +366,7 @@ OpenAI大单：锁定需求，也带来“循环融资”疑问
 &lt;p&gt;贝森特认为日元走弱是1990年代后半叶亚洲货币危机的原因之一，并致力于防止风险重演。这与1998年时任财长鲁宾（Robert Rubin）拒绝联合干预导致日元暴跌形成对比。&lt;/p&gt;
 
 &lt;p&gt;花旗分析师高岛修在其报告中，特别分析了此次干预的地缘政治与经济政策背景。日本财务省国际局局长三村淳将此次干预称为&amp;quot;日美货币同盟的集大成之举&amp;quot;，并将其纳入美日经济安全同盟框架。&lt;/p&gt;
-&lt;p&gt;历史参照清晰而令人警醒：1998年日本金融危机期间，时任美国财政部长鲁宾始终拒绝参与协调干预，日元最终出现从147兑美元一路暴跌至108的剧烈崩溃，导火索是长期资本管理公司（LTCM）危机。&lt;/p&gt;
+&lt;p&gt;历史参照清晰而令人警醒：1998年日本金融危机期间，时任美国财政部长鲁宾始终拒绝参与协调干预，日元汇率最终出现从108一路暴跌至145的剧烈崩溃，导火索是长期资本管理公司（LTCM）危机。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;彼时鲁宾开出的&amp;quot;协调干预条件&amp;quot;是日本清理坏账。这一次，贝森特开出的条件，则是要求高市政府放弃再通胀立场。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次干预还涉及一个新的技术层面：美国财政部通过外汇稳定基金（ESF）卖出欧元/日元（EUR/JPY），这将改变ESF的外币资产构成。&lt;/p&gt;
 &lt;p&gt;截至2026年6月，ESF持有的欧元资产约为11.7亿美元（含存款与证券），日元资产约为5.8亿美元（含存款与证券）。&lt;/p&gt;
@@ -380,7 +380,7 @@ OpenAI大单：锁定需求，也带来“循环融资”疑问
 &lt;p&gt;本周日元仍然偏弱，但日本股市跌幅在G3市场中最大，下跌3.3%，美国和欧洲分别下跌1.9%和1.1%。与此同时，10年期美债收益率上行1个基点，欧洲国债收益率上行5个基点，而日本10年期国债收益率反而下行3个基点。这一背离，部分反映了市场对日本政策的预期变化。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;问题在于，如果日本效仿美国，通过减少长期国债发行等供需手段压低国债收益率，副作用可能以日元贬值的形式释放出来。&lt;/strong&gt;由于日本国债市场中日本央行的持仓比例接近50%，其对债市的控制能力实际上远强于美联储，但这也意味着市场扭曲可能更多体现在汇率端。&lt;/p&gt;
 &lt;p&gt;更值得警惕的是，日元本身已经是弱势货币，而非美元这样的关键储备货币。松泽中将当前环境类比于1990年代科技繁荣时期亚洲货币危机加剧的背景，并指出：&lt;strong&gt;如果日本政策出现偏差，日本从资本流入地转变为资本回流源头的风险相当高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在此背景下，他认为，日本至少需要明确表态放弃反通胀的大规模政策信贷，这是稳定市场预期的最低必要条件。&lt;/p&gt;
+&lt;p&gt;在此背景下，他认为，日本至少需要明确表态放弃再通胀的大规模政策信贷，这是稳定市场预期的最低必要条件。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 日银加息预期升温，AI资本开支加剧信用市场资金争夺
 &lt;p&gt;本周，市场对日本央行加息路径的定价进一步升温：&lt;strong&gt;9月加息概率升至约80%，同时已计入未来三次加息、政策利率最终升至1.75%的预期；日本最终利率预期（2年远期OIS）也由2.19%升至2.23%。&lt;/strong&gt;日本央行近期释放的信号确实偏鹰派，市场甚至开始讨论加快加息节奏。&lt;/p&gt;
