@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 18:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 13:16:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 18:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 13:16:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观方面，杰克逊霍尔年会&lt;/strong&gt;是下周最大宏观锚点。美联储主席&lt;strong&gt;沃什&lt;/strong&gt;8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。&lt;strong&gt;美联储“最爱通胀指标”7月PCE&lt;/strong&gt;与二季度GDP修正值8月26日公布。与此同时，&lt;strong&gt;美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划&lt;/strong&gt;，地缘风险溢价与财政路径双线夹击能源与避险资产。&lt;/p&gt;
@@ -114,23 +114,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;韩国央行利率决议与欧洲央行货币政策会议纪要&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
-&lt;p&gt;3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈：&lt;strong&gt;电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SemiAnalysis在推文表示：&lt;strong&gt;“钼不是一种优化，是300层以上NAND的必选项。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在高深宽比结构中更好的填充能力。这三点恰好对应钨在深层堆叠中暴露出的三个核心缺陷，使得材料替换具有技术必然性，而非可选的工程改进。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-行业现状：量产仍在2xx层，转折点已至
-&lt;p&gt;SemiAnalysis梳理了当前各大厂商的层数位置：铠侠/闪迪（Kioxia/SanDisk）处于218层，美光（Micron）276层，三星（Samsung）286层，SK海力士以321层处于行业前沿。&lt;/p&gt;
-&lt;p&gt;向3xx至4xx层的跃迁正在启动。SemiAnalysis估计，钼在NAND总产能中的占比将从2025年的中个位数百分比，增长至2027年的约30%。&lt;/p&gt;
-三大厂商全面押注
-&lt;p&gt;主要NAND制造商均已明确承诺转向钼工艺，时间表清晰：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三星&lt;/strong&gt;是先行者，钼字线产品自2024年起已进入量产阶段。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美光&lt;/strong&gt;于2025年在Lam Research的ALTUS Halo设备上启动大规模量产。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SK海力士&lt;/strong&gt;计划于2026年底推出采用钼工艺的375层NAND。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-设备商：超10亿美元的新增市场
-&lt;p&gt;每一次从钨到钼的转换，都意味着需要新的沉积设备。SemiAnalysis估计，仅2027年一年，NAND钼沉积设备的销售额就将超过10亿美元，并随着DRAM和逻辑芯片的跟进，到2030年增长至约20亿美元/年。&lt;/p&gt;
-&lt;p&gt;受益格局方面，Lam Research最先获益，TEL（东京电子）紧随其后；AMAT（应用材料）、ASMI及中国设备商Naura（北方华创）则更多受益于后续DRAM和逻辑芯片的转型浪潮。SemiAnalysis表示，完整的细分市场层面测算已纳入其前道设备（WFE）模型。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？</title><link>https://wallstreetcn.com/articles/3780081</link><guid>97af15de3c570da1f1e3607d2261c2d0b1c3ce397240e11f7ccd09846205b4f8</guid><pubDate>Sun, 23 Aug 2026 08:40:11 GMT</pubDate><description>&lt;p&gt;一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。&lt;/p&gt;
+&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？</title><link>https://wallstreetcn.com/articles/3780081</link><guid>97af15de3c570da1f1e3607d2261c2d0b1c3ce397240e11f7ccd09846205b4f8</guid><pubDate>Sun, 23 Aug 2026 08:40:11 GMT</pubDate><description>&lt;p&gt;一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。&lt;/p&gt;
 &lt;p&gt;一款名为Ox Alpha的匿名AI模型悄然出现在OpenRouter平台，免费开放、性能强劲，迅速在开发者圈引发热议。国内网友因“Ox”即“牛”，给它起了个接地气的外号——&lt;strong&gt;“牛来”大模型。&lt;/strong&gt;&lt;/p&gt;
 免费+强大，开发者蜂拥而至
 &lt;p&gt;美东时间8月20日深夜（北京时间8月21日凌晨），Ox Alpha以“stealth model”（隐身模型）身份低调上架OpenRouter，提供方为匿名第三方。&lt;/p&gt;
