@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 07:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
-&lt;p&gt;3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈：&lt;strong&gt;电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SemiAnalysis在推文表示：&lt;strong&gt;“钼不是一种优化，是300层以上NAND的必选项。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在高深宽比结构中更好的填充能力。这三点恰好对应钨在深层堆叠中暴露出的三个核心缺陷，使得材料替换具有技术必然性，而非可选的工程改进。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-行业现状：量产仍在2xx层，转折点已至
-&lt;p&gt;SemiAnalysis梳理了当前各大厂商的层数位置：铠侠/闪迪（Kioxia/SanDisk）处于218层，美光（Micron）276层，三星（Samsung）286层，SK海力士以321层处于行业前沿。&lt;/p&gt;
-&lt;p&gt;向3xx至4xx层的跃迁正在启动。SemiAnalysis估计，钼在NAND总产能中的占比将从2025年的中个位数百分比，增长至2027年的约30%。&lt;/p&gt;
-三大厂商全面押注
-&lt;p&gt;主要NAND制造商均已明确承诺转向钼工艺，时间表清晰：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三星&lt;/strong&gt;是先行者，钼字线产品自2024年起已进入量产阶段。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美光&lt;/strong&gt;于2025年在Lam Research的ALTUS Halo设备上启动大规模量产。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SK海力士&lt;/strong&gt;计划于2026年底推出采用钼工艺的375层NAND。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-设备商：超10亿美元的新增市场
-&lt;p&gt;每一次从钨到钼的转换，都意味着需要新的沉积设备。SemiAnalysis估计，仅2027年一年，NAND钼沉积设备的销售额就将超过10亿美元，并随着DRAM和逻辑芯片的跟进，到2030年增长至约20亿美元/年。&lt;/p&gt;
-&lt;p&gt;受益格局方面，Lam Research最先获益，TEL（东京电子）紧随其后；AMAT（应用材料）、ASMI及中国设备商Naura（北方华创）则更多受益于后续DRAM和逻辑芯片的转型浪潮。SemiAnalysis表示，完整的细分市场层面测算已纳入其前道设备（WFE）模型。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 02:14:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 07:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 02:14:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观方面，杰克逊霍尔年会&lt;/strong&gt;是下周最大宏观锚点。美联储主席&lt;strong&gt;沃什&lt;/strong&gt;8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。&lt;strong&gt;美联储“最爱通胀指标”7月PCE&lt;/strong&gt;与二季度GDP修正值8月26日公布。与此同时，&lt;strong&gt;美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划&lt;/strong&gt;，地缘风险溢价与财政路径双线夹击能源与避险资产。&lt;/p&gt;
@@ -25,7 +9,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;美股：英伟达、中概股拼多多&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;拼多多&lt;/strong&gt;（8月24日周一盘前，电话会北京时间19:30）——中概电商龙头Q2，市场关注Temu GMV与盈利、国内主站竞争；&lt;strong&gt;英伟达&lt;/strong&gt;（8月26日美东盘后=北京时间8月27日04:00）——AI资本开支周期的“终极验证”，聚焦Blackwell出货与数据中心收入指引；同日&lt;strong&gt;Salesforce、CrowdStrike、Synopsys&lt;/strong&gt;盘后放榜，分别检验企业软件AI变现、AI安全需求与EDA景气；&lt;strong&gt;Marvell&lt;/strong&gt;（8月28日盘后）为定制AI芯片新贵。&lt;/p&gt;
+&lt;p&gt;中概电商龙头拼多多Q2财报将发布；&lt;strong&gt;英伟达&lt;/strong&gt;北京时间8月27日04:00财报出炉——AI资本开支周期的“终极验证”，聚焦Blackwell出货与数据中心收入指引；同日&lt;strong&gt;Salesforce、CrowdStrike、Synopsys&lt;/strong&gt;盘后放榜，定制AI芯片新贵&lt;strong&gt;Marvell财报&lt;/strong&gt;8月28日盘后发布。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;数据来源：Bloomberg&lt;/p&gt;
 &lt;ul&gt;
@@ -130,7 +114,23 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;韩国央行利率决议与欧洲央行货币政策会议纪要&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 李辉就任宏利基金总经理，公募老将开拓新局面</title><link>https://wallstreetcn.com/articles/3780078</link><guid>3f65b97444157b01651895e4b1505a45109de7073791514f5f1c8cd89d8499c5</guid><pubDate>Sun, 23 Aug 2026 02:24:06 GMT</pubDate><description>&lt;p&gt;2026 年 8 月 21 日，宏利基金正式发布公告，任命李辉为新任总经理（法定代表人）及财务负责人，原总经理丁闻聪因工作调动离任。李辉是宏利基金完成独资转型后的第三任总经理，亦是经验丰富的业内总经理，由此带来业界对宏利基金下一步发展的期待。&lt;/p&gt;
+&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
+&lt;p&gt;3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈：&lt;strong&gt;电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SemiAnalysis在推文表示：&lt;strong&gt;“钼不是一种优化，是300层以上NAND的必选项。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在高深宽比结构中更好的填充能力。这三点恰好对应钨在深层堆叠中暴露出的三个核心缺陷，使得材料替换具有技术必然性，而非可选的工程改进。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+行业现状：量产仍在2xx层，转折点已至
+&lt;p&gt;SemiAnalysis梳理了当前各大厂商的层数位置：铠侠/闪迪（Kioxia/SanDisk）处于218层，美光（Micron）276层，三星（Samsung）286层，SK海力士以321层处于行业前沿。&lt;/p&gt;
+&lt;p&gt;向3xx至4xx层的跃迁正在启动。SemiAnalysis估计，钼在NAND总产能中的占比将从2025年的中个位数百分比，增长至2027年的约30%。&lt;/p&gt;
+三大厂商全面押注
+&lt;p&gt;主要NAND制造商均已明确承诺转向钼工艺，时间表清晰：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三星&lt;/strong&gt;是先行者，钼字线产品自2024年起已进入量产阶段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美光&lt;/strong&gt;于2025年在Lam Research的ALTUS Halo设备上启动大规模量产。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SK海力士&lt;/strong&gt;计划于2026年底推出采用钼工艺的375层NAND。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+设备商：超10亿美元的新增市场
+&lt;p&gt;每一次从钨到钼的转换，都意味着需要新的沉积设备。SemiAnalysis估计，仅2027年一年，NAND钼沉积设备的销售额就将超过10亿美元，并随着DRAM和逻辑芯片的跟进，到2030年增长至约20亿美元/年。&lt;/p&gt;
+&lt;p&gt;受益格局方面，Lam Research最先获益，TEL（东京电子）紧随其后；AMAT（应用材料）、ASMI及中国设备商Naura（北方华创）则更多受益于后续DRAM和逻辑芯片的转型浪潮。SemiAnalysis表示，完整的细分市场层面测算已纳入其前道设备（WFE）模型。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 李辉就任宏利基金总经理，公募老将开拓新局面</title><link>https://wallstreetcn.com/articles/3780078</link><guid>3f65b97444157b01651895e4b1505a45109de7073791514f5f1c8cd89d8499c5</guid><pubDate>Sun, 23 Aug 2026 02:24:06 GMT</pubDate><description>&lt;p&gt;2026 年 8 月 21 日，宏利基金正式发布公告，任命李辉为新任总经理（法定代表人）及财务负责人，原总经理丁闻聪因工作调动离任。李辉是宏利基金完成独资转型后的第三任总经理，亦是经验丰富的业内总经理，由此带来业界对宏利基金下一步发展的期待。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 宏利基金现高管更替
 &lt;p&gt;根据宏利基金8月22日发布的公告，公司近期变更了总经理（法定代表人）、财务负责人的相关信息。&lt;/p&gt;
@@ -214,7 +214,7 @@
 &lt;p&gt;AI投资的高资本需求正在向信用市场传导，并与政府债融资争夺资金。美国财报季虽然进一步验证了AI投资对企业盈利和资本开支的支撑，但如果科技企业债市场持续承压，其融资成本和风险偏好的变化可能反过来影响股票市场。因此，&lt;strong&gt;科技企业债能否企稳，将成为下周股市能否守住的重要外部指标。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此外，&lt;strong&gt;杰克逊霍尔年会上沃什对资产负债表政策（QT）的表态同样值得关注。&lt;/strong&gt;如果他释放出继续收缩资产负债表、避免向金融市场注入过多流动性的信号，可能进一步收紧流动性环境，并对权益市场形成压力。其一贯警惕过度流动性导致资产价格扭曲的立场，使这一风险尤其值得关注。&lt;/p&gt;
  
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 七年来首次！阿里拟配售800亿港元新股，全部投入AI建设</title><link>https://wallstreetcn.com/articles/3780075</link><guid>b03311ee32b44dc166993a0988f59426b71cc1a2c9f18d9a67c9028b45a33aff</guid><pubDate>Sun, 23 Aug 2026 05:34:46 GMT</pubDate><description>&lt;p&gt;阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设</title><link>https://wallstreetcn.com/articles/3780075</link><guid>b03311ee32b44dc166993a0988f59426b71cc1a2c9f18d9a67c9028b45a33aff</guid><pubDate>Sun, 23 Aug 2026 05:34:46 GMT</pubDate><description>&lt;p&gt;阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。&lt;/p&gt;
 &lt;p&gt;8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售&lt;strong&gt;。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI正在成为驱动阿里加速增长的核心引擎，8月20日阿里发布的最新财报显示，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币（73亿美元），预计下季度达到100亿美元。阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。近期，全球投资者纷纷看多阿里巴巴作为国内AI领导者地位并上调目标价。&lt;/p&gt;
 新股配售获超额认购
