@@ -1,48 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 00:29:11 GMT</lastBuildDate><item><title>[今日雪球] 冰火两重天，为什么铝企的业绩差异这么大？</title><link>http://xueqiu.com/2735055577/405965243</link><guid>054f2b06bbdb8f99d13f693abe64742060c3af216fa1e9ff236772c082981d6d</guid><pubDate>Sat, 22 Aug 2026 14:02:51 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼乱投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在铝价保持高位的当下，各大铝企2026年中报的业绩增长却相差很大，已经发布了中报的神火净利润是增长了152%，而相比之下很多铝企则明显不如神火，天山铝业业绩预增是102%，中铝只有58%—73%，南山铝业甚至连预增公告都没有（另外云铝是171%—182%）。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌</title><link>https://wallstreetcn.com/articles/3780064</link><guid>e251ec513d0f1205e03115d6b5be7e2d4b5f779256d4eae831fba3c96619d441</guid><pubDate>Sat, 22 Aug 2026 12:49:53 GMT</pubDate><description>&lt;p&gt;Moderna正押注癌症疫苗，试图为公司打开第二增长曲线。&lt;/p&gt;
-&lt;p&gt;8月19日，Moderna公布了与默克共同开发的个性化mRNA黑色素瘤疫苗关键临床结果。&lt;strong&gt;数据显示，与单独使用Keytruda相比，这一疗法可将高风险黑色素瘤患者复发或死亡风险降低44%。消息公布后，Moderna股价大涨，公司市值一度增加约440亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两天后，《华尔街日报》8月21日的一篇深度报道还原了结果公布当天的现场：Moderna总部4500名员工临时聚集到公司餐厅，等待管理层宣布这个酝酿了十余年的结果。CEO Stéphane Bancel甚至拿着卡片发言；有人拥抱、落泪，现场还开了香槟。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对Moderna而言，这不仅是一项临床突破，也是一场长期豪赌终于迎来的关键时刻。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新冠疫苗曾让Moderna在短短几年内获得约360亿美元销售额，也为其持续押注癌症等高风险项目提供了充足现金。但随着疫情红利消退，公司经历销售暴跌、裁员、削减研发项目和股价重挫，市场一度开始质疑其新冠时代之后还能靠什么增长。&lt;/p&gt;
-&lt;p&gt;如今，Moderna终于等到了一个有分量的答案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报道指出，公司的豪赌远未结束。疗效能否持续、个性化疫苗能否规模化生产、成本能否被市场接受，以及这项技术能否复制到更多癌种，都将决定这次突破究竟是短暂反弹，还是Moderna真正打开第二增长曲线。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-一场押注十余年的癌症豪赌
-&lt;p&gt;《华尔街日报》回顾称，Moderna很早就开始研究mRNA癌症疗法，但公司成立初期并没有把肿瘤领域作为重点。&lt;strong&gt;原因并不难理解：癌症疫苗此前已经经历过大量失败尝试，研发周期长、成本高，成功率却十分有限。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;直到2013年，一名对冲基金经理帕特里克·德戈尔斯因妻子因肺癌去世，决定向Moderna的肿瘤项目投入50万美元，公司才进一步推进这一方向。&lt;/p&gt;
-&lt;p&gt;真正改变项目命运的是2016年与默克达成的合作。当时，默克投入2亿美元，双方开始探索mRNA癌症疫苗与Keytruda联合使用的效果。对于当时仍处于早期阶段的Moderna而言，这笔资金以及与成熟癌症免疫疗法的结合，为项目继续推进提供了重要支持。&lt;/p&gt;
-&lt;p&gt;随后到来的新冠疫情，则意外为这场长期豪赌提供了充足弹药。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Moderna的新冠疫苗在疫情最初两年创造约360亿美元销售额，大量现金随后被投入肿瘤等新业务。某种意义上，如果没有新冠疫苗带来的巨额现金流，Moderna或许很难将这场高风险的癌症押注坚持到今天。&lt;/strong&gt;&lt;/p&gt;
-mRNA开始从“打疫苗”走向“治癌”
-&lt;p&gt;这款癌症疫苗与传统疫苗最大的区别，在于它并不是所有患者使用同一种配方，而是针对每名患者的肿瘤特征进行定制。&lt;/p&gt;
-&lt;p&gt;根据《华尔街日报》的报道，医生首先对患者肿瘤进行测序，寻找癌细胞特有的突变，再通过算法筛选值得攻击的靶点，最多可以选择34个。随后，这些信息被写入mRNA，并通过脂质纳米颗粒递送进入人体。&lt;/p&gt;
-&lt;p&gt;简单来说，它试图给免疫系统提供一份针对特定肿瘤的“识别名单”，帮助T细胞更加精准地找到并攻击癌细胞。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这也是这项技术真正值得关注的地方：如果这种个性化模式能够在更多癌种中得到验证，那么mRNA的商业价值就可能从此前高度依赖新冠疫苗，进一步拓展至更大的肿瘤治疗市场。&lt;/strong&gt;&lt;/p&gt;
-市场曾经已经不相信Moderna
-&lt;p&gt;而就在这组数据公布之前，市场对Moderna的态度其实相当悲观。随着新冠疫苗需求快速下降，公司收入承压，不得不持续裁员和削减成本，市场对mRNA技术商业前景的质疑也越来越多。&lt;/p&gt;
-&lt;p&gt;《华尔街日报》援引市场数据称，今年早些时候，Moderna股票的做空比例一度达到20%左右。背后的核心问题其实很明确：&lt;strong&gt;没有了新冠疫苗，Moderna还能靠什么赚钱？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，当Moderna公布癌症疫苗积极数据后，市场迅速重新定价并不难理解。如果mRNA平台能够在癌症治疗领域复制类似的成功，Moderna就有机会证明，自己并不是一家依靠疫情红利短暂崛起的疫苗公司，而是一家拥有持续研发能力和商业化潜力的生物科技企业。&lt;/p&gt;
-&lt;p&gt;不过，科学界仍然保持谨慎。&lt;strong&gt;报道援引mRNA技术先驱、诺贝尔奖得主德鲁·韦斯曼的观点指出，目前的数据仍不足以回答疗效能够持续多久等关键问题。换言之，44%的复发或死亡风险下降无疑是一个重要信号，但距离证明这项技术能够真正改变癌症治疗，仍有更多临床数据需要验证。&lt;/strong&gt;&lt;/p&gt;
-真正的大考，在获批之后
-&lt;p&gt;即便临床结果继续向好，Moderna还要面对另一个更加现实的问题：这款疫苗究竟能不能成为一门好生意。&lt;/p&gt;
-&lt;p&gt;个性化治疗意味着，每名患者都可能需要根据自身肿瘤突变重新设计疫苗。相比能够大规模生产的传统药物，这种模式天然更加复杂，也意味着更高的制造和供应链成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;《华尔街日报》援引专家观点称，这类个性化疗法未来可能面临较高的治疗成本。这意味着，Moderna下一阶段面对的挑战已经不只是“能不能治”，还包括能不能规模化生产、医保能否覆盖，以及患者能否负担。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Moderna与默克计划进一步公布相关临床数据，并推动这类疗法在黑色素瘤之外进入肺癌、肾癌和胰腺癌等领域。如果后续试验能够持续验证疗效，那么Moderna这场持续十余年的豪赌，或许终于到了兑现的关键阶段。&lt;/p&gt;
-&lt;p&gt;对于一家曾经靠新冠疫苗一飞冲天、又因疫情退潮陷入低谷的公司而言，真正值得关注的并不是股价一天上涨了多少，而是它能否借助癌症疫苗证明：&lt;strong&gt;mRNA的故事，或许才刚刚开始。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 买格力，买的是以后能分走的现金</title><link>http://xueqiu.com/5788816642/406146920</link><guid>5adc08104bef352d0744ff8028b9e0cd13a58249268ce6787af8b0dd264e9658</guid><pubDate>Sat, 22 Aug 2026 14:03:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;老叶智道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SZ000651"&gt;$格力电器(SZ000651)$&lt;/a&gt; 「老叶智道」叙述商业故事，沉淀投资智道。&lt;/p&gt;</description></item><item><title>[今日雪球] 2026年8月总结 - 昏招跌出后满仓黄金股</title><link>http://xueqiu.com/7448161277/406176316</link><guid>a0e99bcc308aec542d330a814399d6b8216d6d6de22ffc13fed89bb0698bd03b</guid><pubDate>Sat, 22 Aug 2026 14:03:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;波西米亚弗雷迪&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一、本月交易及今年收益率&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶</title><link>https://wallstreetcn.com/articles/3780065</link><guid>5c03aca1edd5fb4d8eb8a73892e360f6dc744b5d4aaf6b6446599d16eb5df315</guid><pubDate>Sat, 22 Aug 2026 12:55:29 GMT</pubDate><description>&lt;p&gt;美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。&lt;/p&gt;
-&lt;p&gt;据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。&lt;/p&gt;
-&lt;p&gt;与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示，&lt;strong&gt;过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲击可能小于表面航运数据所反映的程度。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更值得关注的是，在伊朗供应持续受限之际，其他海湾产油国的原油装载量正在快速恢复。当前市场面临的并非简单的供应总量骤降，而是区域原油供应格局正在重构。&lt;/p&gt;
-可见油轮流量仍处低位
-&lt;p&gt;据瑞银Evidence Lab数据，过去两天霍尔木兹海峡油气船只平均过境4.0艘次，高于8月均值3.7艘，但明显低于7月均值6.4艘。按载重吨估算，过去两天海湾出口流量约为150万桶油当量/日，不仅低于8月均值190万桶油当量/日，也远低于7月均值360万桶油当量/日。&lt;/p&gt;
-&lt;p&gt;不过，储罐和装载数据表明，过去一周“暗流”运输量已升至500万至600万桶/日，在一定程度上弥补了可见运输的下降，使霍尔木兹海峡整体过境量仍略高于600万桶/日。&lt;strong&gt;曼德海峡船只通行量同样低于正常水平，但红海方向的进出口流量近期有所回升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，海湾其他产油国的原油装载正在明显恢复。过去两天，&lt;strong&gt;海湾地区非伊朗产油国原油装载量均值升至1020万桶/日，远高于此前两天的360万桶/日，也超过7月均值450万桶/日；8月以来的7日均值已突破600万桶/日，升至冲突以来高位。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与之形成鲜明对比的是，伊朗原油装载量仍处于极低水平。同期伊朗录得零装载，8月均值仅约20万桶/日，低于7月的90万桶/日，更明显低于正常情况下约170万至180万桶/日的水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这表明，当前海湾供应正在呈现明显的结构性分化：伊朗出口持续受限，其他产油国则通过提高装载量，在一定程度上对冲供应缺口。&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;
-能源供应仍面临扰动
-&lt;p&gt;与此同时，区域能源基础设施此前遭遇的多轮扰动，仍是市场评估供应风险的重要背景。部分海湾能源设施和炼化产能曾受到袭击影响，虽然部分产能已逐步恢复，但相关扰动仍使海湾原油及成品油运输低于正常水平。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;接下来市场关注的重点，已从单一事件转向供应恢复能力：一方面，美国新一轮制裁能否进一步压缩伊朗原油出口；另一方面，海湾其他产油国能否持续提高供应、弥补伊朗留下的缺口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果伊朗出口进一步收缩，而替代产能释放不足，原油市场的供应压力仍可能继续上升，霍尔木兹海峡的运输变化也将成为影响油价的重要观察窗口。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 00:59:07 GMT</lastBuildDate><item><title>[今日雪球] 冰火两重天，为什么铝企的业绩差异这么大？</title><link>http://xueqiu.com/2735055577/405965243</link><guid>054f2b06bbdb8f99d13f693abe64742060c3af216fa1e9ff236772c082981d6d</guid><pubDate>Sat, 22 Aug 2026 14:02:51 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼乱投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在铝价保持高位的当下，各大铝企2026年中报的业绩增长却相差很大，已经发布了中报的神火净利润是增长了152%，而相比之下很多铝企则明显不如神火，天山铝业业绩预增是102%，中铝只有58%—73%，南山铝业甚至连预增公告都没有（另外云铝是171%—182%）。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达服务器被曝涨价15%，部分客户已收到涨价通知</title><link>https://wallstreetcn.com/articles/3780066</link><guid>07e16235170749cd0f8f56ed15a59b0b454c536e4cb681a1ca4535263b57d2e2</guid><pubDate>Sun, 23 Aug 2026 00:49:31 GMT</pubDate><description>&lt;p&gt;英伟达的部分最大客户已被告知，由于存储芯片成本飙升，&lt;strong&gt;搭载英伟达人工智能芯片的服务器价格在大部分情况下将涨价超过15%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月22日，据彭博援引知情人士报道称，&lt;strong&gt;此次涨价将从明年初出货的系统开始生效，影响范围包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;给微软、谷歌和甲骨文等大厂代工服务器的工厂，已经发出了涨价通知。具体涨幅将取决于英伟达芯片的代际和存储配置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;价格上涨不仅将推高AI数据中心的建设成本，也为英伟达将于8月26日公布的第二财季业绩增添了新的市场关注焦点。&lt;/p&gt;
 
+内存短缺是核心推手
 
+&lt;p&gt;此轮涨价的根本驱动力在于DRAM内存供应的结构性紧张。&lt;/p&gt;
+&lt;p&gt;英伟达的AI加速处理器性能高度依赖所搭配的动态随机存取内存（DRAM）容量，而全球DRAM产能几乎由三星、SK海力士和美光三家瓜分。&lt;/p&gt;
+&lt;p&gt;尽管三家企业持续扩产，但产能增速仍远落后于AI基础设施需求的爆发式增长，导致这一本属大宗商品属性的芯片价格大幅攀升。&lt;/p&gt;
+&lt;p&gt;据彭博新闻报道，内存芯片商借助供需失衡获得了前所未有的议价筹码。&lt;/p&gt;
+&lt;p&gt;英伟达未能守住价格或消化成本上涨，恰恰揭示出三星、SK海力士和美光在当前AI浪潮中所处的强势地位。近期苹果和高通均表示，已因芯片短缺被迫提高产品售价。&lt;/p&gt;
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+英伟达利润丰厚，仍难独力承压
+
+&lt;p&gt;英伟达是半导体行业盈利能力最强的企业之一，毛利率高达75%。&lt;/p&gt;
+&lt;p&gt;凭借台积电代工的供不应求，其AI加速芯片售价动辄数万美元。&lt;/p&gt;
+&lt;p&gt;这款最初脱胎于PC游戏显卡的产品，因持续旺盛的需求和竞争替代品的匮乏，价格一路水涨船高。英伟达近期还上调了面向游戏市场的PC显卡价格。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;面对此次涨价，亚马逊、微软、谷歌和Meta等主要客户的反应至关重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述企业均在推进自研芯片计划，寻求降低对英伟达的依赖，但目前数据中心建设仍高度依赖英伟达的采购。&lt;/p&gt;
+&lt;p&gt;据彭博新闻报道，这些客户能否实现更大独立性，同样取决于其能否从三星、SK海力士和美光处获得足够的内存供应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;价格上涨将进一步增加AI数据中心大规模扩张的复杂性。&lt;/strong&gt;项目延误、劳动力短缺、资本市场收紧以及社区阻力，已令众多建设计划受到干扰，此番成本压力上升无疑雪上加霜。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英伟达作为全球市值最高的上市公司，将于下周发布财季业绩，其最新动态历来是科技行业及大量押注AI基础设施投资者的重要参考指标。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 买格力，买的是以后能分走的现金</title><link>http://xueqiu.com/5788816642/406146920</link><guid>5adc08104bef352d0744ff8028b9e0cd13a58249268ce6787af8b0dd264e9658</guid><pubDate>Sat, 22 Aug 2026 14:03:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;老叶智道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SZ000651"&gt;$格力电器(SZ000651)$&lt;/a&gt; 「老叶智道」叙述商业故事，沉淀投资智道。&lt;/p&gt;</description></item><item><title>[今日雪球] 2026年8月总结 - 昏招跌出后满仓黄金股</title><link>http://xueqiu.com/7448161277/406176316</link><guid>a0e99bcc308aec542d330a814399d6b8216d6d6de22ffc13fed89bb0698bd03b</guid><pubDate>Sat, 22 Aug 2026 14:03:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;波西米亚弗雷迪&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;一、本月交易及今年收益率&lt;/b&gt;&lt;/p&gt;</description></item></channel></rss>
