@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 09:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？</title><link>https://wallstreetcn.com/articles/3780081</link><guid>97af15de3c570da1f1e3607d2261c2d0b1c3ce397240e11f7ccd09846205b4f8</guid><pubDate>Sun, 23 Aug 2026 08:40:11 GMT</pubDate><description>&lt;p&gt;一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。&lt;/p&gt;
-&lt;p&gt;一款名为Ox Alpha的匿名AI模型悄然出现在OpenRouter平台，免费开放、性能强劲，迅速在开发者圈引发热议。国内网友因“Ox”即“牛”，给它起了个接地气的外号——&lt;strong&gt;“牛来”大模型。&lt;/strong&gt;&lt;/p&gt;
-免费+强大，开发者蜂拥而至
-&lt;p&gt;美东时间8月20日深夜（北京时间8月21日凌晨），Ox Alpha以“stealth model”（隐身模型）身份低调上架OpenRouter，提供方为匿名第三方。&lt;/p&gt;
-&lt;p&gt;配置相当豪华：&lt;strong&gt;100万token上下文窗口、支持文本+图像+视频多模态输入、工具调用全支持、推理强制开启。价格更离谱——完全免费。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博报道，Ox Alpha免费开放一周，使用量“近乎无限”。AI编程工具OpenCode官方公告称，其背后提供方每天拥有100万亿（100T）tokens的算力——这大约是Visa公司整整一个月AI token使用量的100倍。&lt;/p&gt;
-&lt;p&gt;Stripe CEO Patrick Collison亲自上手测试后，在X上直接写道：“非常令人印象深刻。”&lt;/p&gt;
-编码测试：超过GPT-5.6和Claude
-&lt;p&gt;AI编程框架fable的作者davis7用DeepSWE官方评测跑了10道题，结果让他自己都懵了。他在X上写道：“我非常困惑（I am very confused）。”&lt;/p&gt;
-&lt;p&gt;数据说明一切：&lt;strong&gt;Ox Alpha得分80%，Claude Fable 65%，GPT-5.6 Sol 52%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一个匿名模型，把两个知名闭源前沿模型甩开15个百分点。社区随后有人独立复测，结论基本一致：4道通过、4道接近通过、2道失败，与8/10的结果吻合。&lt;/p&gt;
-&lt;p&gt;两组独立测试，指向同一结论：这个神秘模型的编码能力，确实处于前沿区间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-24小时指纹侦探战：五条证据指向智谱
-&lt;p&gt;身份成谜，社区开始“人肉”。&lt;/p&gt;
-&lt;p&gt;据Atomstorm.ai的创始人、前百度/阿里高管lizikk_zhu在X平台上的详细分析，社区仅用24小时，就通过公开API的技术指纹比对，锁定了最大嫌疑人。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最强的一击来自视频编码器。&lt;/strong&gt;将同一组受控测试视频分别喂给不同模型，记录各自消耗的token数——Ox Alpha与智谱GLM-5V-Turbo逐token完全一致：296、296、884、1064，一个不差。该分析指出，这匹配了帧采样策略、时长缩放、分辨率缩放三个独立设计特征，“巧合的概率约等于零”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其余四条证据接连出现：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;文本tokenizer：&lt;/strong&gt;25个特殊字符串（含CJK、emoji、西里尔字母），token数与GLM-5.3完全一致&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报错码：&lt;/strong&gt;传入错误参数时返回[1210]错误——据分析这是&lt;a href="https://z.ai/"&gt;Z.ai&lt;/a&gt;独有的错误码&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;中文后端：&lt;/strong&gt;触发图片解析错误时，后端直接返回中文：“图片输入格式/解析错误”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;审查口径：&lt;/strong&gt;问敏感问题给出官方口径&lt;/p&gt;
-&lt;p&gt;五条证据来自完全不同的技术层面，却全部指向智谱。lizikk_zhu据此判断，Ox Alpha大概率是智谱尚未发布的GLM-5.3视觉版（或GLM-5.5），置信度70-80%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据Business Insider报道，Wccftech等科技媒体也指出，智谱此前曾以“Pony Alpha”为代号匿名测试GLM-5，开发者在Ox Alpha中发现了相似的tokenizer行为和响应模式。&lt;/p&gt;
-但谜底未必是智谱
-&lt;p&gt;疑点同样存在。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，算力对不上。&lt;/strong&gt; 100T tokens/天免费运行一周，多方分析认为以智谱当前算力储备难以独立支撑。社区由此提出“合成假说”：GLM权重+巨头算力托管——模型是智谱的，服务器可能是小米或腾讯的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，有人预告反转。&lt;/strong&gt; AI圈知名爆料人士Mia在X上发文称：“我已经确认了Ox Alpha是谁家的，但现在不能说。你们都会非常兴奋——它不是你们想的那样。”该帖子底下随即涌现大量问号。&lt;/p&gt;
-&lt;p&gt;据Business Insider报道，AI分析师Andrew Curran在X上写道，周五晚间GLM还是主流猜测，但到周六早上，&lt;strong&gt;“大家似乎对任何事情都不那么确定了”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Wccftech后来也补充了另一种分析：Ox Alpha的tokenizer特征也&lt;strong&gt;可能指向微软的MAI系列模型。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;谜底大概率在8月28日揭晓&lt;/strong&gt;——那天智谱GLM-5.3权重正式开源，模型卡一出，身份或将自见分晓。&lt;/p&gt;
-数据去哪了？留存政策自相矛盾
-&lt;p&gt;在猜测身份之外，还有一个更实际的问题悬而未决：用户数据的去向。&lt;/p&gt;
-&lt;p&gt;据lizikk_zhu的分析，OpenRouter模型卡白纸黑字写明：“Prompts and completions are retained by the provider, not used for training.”（对话内容会被提供方留存，但不用于训练。）&lt;/p&gt;
-&lt;p&gt;而OpenCode的官方公告则声称：“Zero Data Retention.”（零数据留存。）&lt;/p&gt;
-&lt;p&gt;两个官方渠道，两种说法，至少有一个不完整。“不用于训练”与“零数据留存”是两个概念：前者意味着对话仍在提供方手中，留存期限不透明；后者才是企业合规意义上的“请求结束即删除、可审计”。&lt;/p&gt;
-匿名上架，已成行业惯例
-&lt;p&gt;据彭博报道，这并非孤立现象。字节跳动、Sea、阿里巴巴等公司今年均曾在不公开来源的情况下发布模型，以便在更少约束下测试新服务。&lt;/p&gt;
-&lt;p&gt;lizikk_zhu梳理的时间线显示，这套剧本已有多个先例：Hunter Alpha后来被证实是小米的MiMo-V2-Pro，Owl Alpha是美团LongCat 2.0，Pony Alpha是智谱GLM-5，就连OpenAI也曾以Quasar Alpha为代号测试GPT-4.1。&lt;/p&gt;
-&lt;p&gt;其背后逻辑清晰：匿名上架规避品牌风险，免费换取真实生产流量，压测反馈比内测数据更有价值，最后认领发布完成变现。&lt;/p&gt;
-&lt;p&gt;如果Ox Alpha最终如分析师预测拿到AA智能指数61分，将成为开源权重模型中首个突破60分的模型，直接触及闭源前沿的门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 02:14:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 23 Aug 2026 09:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了</title><link>https://wallstreetcn.com/articles/3779970</link><guid>ec07f081f76c1dd160ad5e3bc2fc9a4fbdcfba7a4934970f2b7721450387ee9b</guid><pubDate>Sun, 23 Aug 2026 02:14:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观方面，杰克逊霍尔年会&lt;/strong&gt;是下周最大宏观锚点。美联储主席&lt;strong&gt;沃什&lt;/strong&gt;8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。&lt;strong&gt;美联储“最爱通胀指标”7月PCE&lt;/strong&gt;与二季度GDP修正值8月26日公布。与此同时，&lt;strong&gt;美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划&lt;/strong&gt;，地缘风险溢价与财政路径双线夹击能源与避险资产。&lt;/p&gt;
@@ -155,7 +114,48 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;韩国央行利率决议与欧洲央行货币政策会议纪要&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
+&lt;p&gt;在存储超级周期带动出口高增背景下，8月27日，韩国央行政策取向影响韩元与亚太利率；同时关注其对AI芯片周期与通胀的看法。8月28日，欧央行公布最新会议纪要——欧元区通胀降温与增长放缓背景下，纪要措辞影响欧元与欧债定价，为杰克逊霍尔年会后欧洲政策路径提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？</title><link>https://wallstreetcn.com/articles/3780081</link><guid>97af15de3c570da1f1e3607d2261c2d0b1c3ce397240e11f7ccd09846205b4f8</guid><pubDate>Sun, 23 Aug 2026 08:40:11 GMT</pubDate><description>&lt;p&gt;一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。&lt;/p&gt;
+&lt;p&gt;一款名为Ox Alpha的匿名AI模型悄然出现在OpenRouter平台，免费开放、性能强劲，迅速在开发者圈引发热议。国内网友因“Ox”即“牛”，给它起了个接地气的外号——&lt;strong&gt;“牛来”大模型。&lt;/strong&gt;&lt;/p&gt;
+免费+强大，开发者蜂拥而至
+&lt;p&gt;美东时间8月20日深夜（北京时间8月21日凌晨），Ox Alpha以“stealth model”（隐身模型）身份低调上架OpenRouter，提供方为匿名第三方。&lt;/p&gt;
+&lt;p&gt;配置相当豪华：&lt;strong&gt;100万token上下文窗口、支持文本+图像+视频多模态输入、工具调用全支持、推理强制开启。价格更离谱——完全免费。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博报道，Ox Alpha免费开放一周，使用量“近乎无限”。AI编程工具OpenCode官方公告称，其背后提供方每天拥有100万亿（100T）tokens的算力——这大约是Visa公司整整一个月AI token使用量的100倍。&lt;/p&gt;
+&lt;p&gt;Stripe CEO Patrick Collison亲自上手测试后，在X上直接写道：“非常令人印象深刻。”&lt;/p&gt;
+编码测试：超过GPT-5.6和Claude
+&lt;p&gt;AI编程框架fable的作者davis7用DeepSWE官方评测跑了10道题，结果让他自己都懵了。他在X上写道：“我非常困惑（I am very confused）。”&lt;/p&gt;
+&lt;p&gt;数据说明一切：&lt;strong&gt;Ox Alpha得分80%，Claude Fable 65%，GPT-5.6 Sol 52%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个匿名模型，把两个知名闭源前沿模型甩开15个百分点。社区随后有人独立复测，结论基本一致：4道通过、4道接近通过、2道失败，与8/10的结果吻合。&lt;/p&gt;
+&lt;p&gt;两组独立测试，指向同一结论：这个神秘模型的编码能力，确实处于前沿区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+24小时指纹侦探战：五条证据指向智谱
+&lt;p&gt;身份成谜，社区开始“人肉”。&lt;/p&gt;
+&lt;p&gt;据Atomstorm.ai的创始人、前百度/阿里高管lizikk_zhu在X平台上的详细分析，社区仅用24小时，就通过公开API的技术指纹比对，锁定了最大嫌疑人。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最强的一击来自视频编码器。&lt;/strong&gt;将同一组受控测试视频分别喂给不同模型，记录各自消耗的token数——Ox Alpha与智谱GLM-5V-Turbo逐token完全一致：296、296、884、1064，一个不差。该分析指出，这匹配了帧采样策略、时长缩放、分辨率缩放三个独立设计特征，“巧合的概率约等于零”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其余四条证据接连出现：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文本tokenizer：&lt;/strong&gt;25个特殊字符串（含CJK、emoji、西里尔字母），token数与GLM-5.3完全一致&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报错码：&lt;/strong&gt;传入错误参数时返回[1210]错误——据分析这是&lt;a href="https://z.ai/"&gt;Z.ai&lt;/a&gt;独有的错误码&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中文后端：&lt;/strong&gt;触发图片解析错误时，后端直接返回中文：“图片输入格式/解析错误”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;审查口径：&lt;/strong&gt;问敏感问题给出官方口径&lt;/p&gt;
+&lt;p&gt;五条证据来自完全不同的技术层面，却全部指向智谱。lizikk_zhu据此判断，Ox Alpha大概率是智谱尚未发布的GLM-5.3视觉版（或GLM-5.5），置信度70-80%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据Business Insider报道，Wccftech等科技媒体也指出，智谱此前曾以“Pony Alpha”为代号匿名测试GLM-5，开发者在Ox Alpha中发现了相似的tokenizer行为和响应模式。&lt;/p&gt;
+但谜底未必是智谱
+&lt;p&gt;疑点同样存在。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，算力对不上。&lt;/strong&gt; 100T tokens/天免费运行一周，多方分析认为以智谱当前算力储备难以独立支撑。社区由此提出“合成假说”：GLM权重+巨头算力托管——模型是智谱的，服务器可能是小米或腾讯的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，有人预告反转。&lt;/strong&gt; AI圈知名爆料人士Mia在X上发文称：“我已经确认了Ox Alpha是谁家的，但现在不能说。你们都会非常兴奋——它不是你们想的那样。”该帖子底下随即涌现大量问号。&lt;/p&gt;
+&lt;p&gt;据Business Insider报道，AI分析师Andrew Curran在X上写道，周五晚间GLM还是主流猜测，但到周六早上，&lt;strong&gt;“大家似乎对任何事情都不那么确定了”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wccftech后来也补充了另一种分析：Ox Alpha的tokenizer特征也&lt;strong&gt;可能指向微软的MAI系列模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谜底大概率在8月28日揭晓&lt;/strong&gt;——那天智谱GLM-5.3权重正式开源，模型卡一出，身份或将自见分晓。&lt;/p&gt;
+数据去哪了？留存政策自相矛盾
+&lt;p&gt;在猜测身份之外，还有一个更实际的问题悬而未决：用户数据的去向。&lt;/p&gt;
+&lt;p&gt;据lizikk_zhu的分析，OpenRouter模型卡白纸黑字写明：“Prompts and completions are retained by the provider, not used for training.”（对话内容会被提供方留存，但不用于训练。）&lt;/p&gt;
+&lt;p&gt;而OpenCode的官方公告则声称：“Zero Data Retention.”（零数据留存。）&lt;/p&gt;
+&lt;p&gt;两个官方渠道，两种说法，至少有一个不完整。“不用于训练”与“零数据留存”是两个概念：前者意味着对话仍在提供方手中，留存期限不透明；后者才是企业合规意义上的“请求结束即删除、可审计”。&lt;/p&gt;
+匿名上架，已成行业惯例
+&lt;p&gt;据彭博报道，这并非孤立现象。字节跳动、Sea、阿里巴巴等公司今年均曾在不公开来源的情况下发布模型，以便在更少约束下测试新服务。&lt;/p&gt;
+&lt;p&gt;lizikk_zhu梳理的时间线显示，这套剧本已有多个先例：Hunter Alpha后来被证实是小米的MiMo-V2-Pro，Owl Alpha是美团LongCat 2.0，Pony Alpha是智谱GLM-5，就连OpenAI也曾以Quasar Alpha为代号测试GPT-4.1。&lt;/p&gt;
+&lt;p&gt;其背后逻辑清晰：匿名上架规避品牌风险，免费换取真实生产流量，压测反馈比内测数据更有价值，最后认领发布完成变现。&lt;/p&gt;
+&lt;p&gt;如果Ox Alpha最终如分析师预测拿到AA智能指数61分，将成为开源权重模型中首个突破60分的模型，直接触及闭源前沿的门槛。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SemiAnalysis：闪存制造正“由钨转钼”</title><link>https://wallstreetcn.com/articles/3780077</link><guid>4ea8015f59a604beb9bfee10441cda9e82f45ecb33adce10eb39ccbb76a55c68</guid><pubDate>Sun, 23 Aug 2026 06:40:54 GMT</pubDate><description>&lt;p&gt;8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。&lt;/p&gt;
 &lt;p&gt;3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈：&lt;strong&gt;电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SemiAnalysis在推文表示：&lt;strong&gt;“钼不是一种优化，是300层以上NAND的必选项。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在高深宽比结构中更好的填充能力。这三点恰好对应钨在深层堆叠中暴露出的三个核心缺陷，使得材料替换具有技术必然性，而非可选的工程改进。&lt;/p&gt;
