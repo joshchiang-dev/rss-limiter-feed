@@ -1,48 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 24 Aug 2026 19:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI</title><link>https://wallstreetcn.com/articles/3780177</link><guid>b112f9ecccf4533463d3006549119c2072db28ad744ae2860bcef54193af82a5</guid><pubDate>Mon, 24 Aug 2026 16:51:22 GMT</pubDate><description>&lt;p&gt;英伟达正在加速把AI基础设施的竞争，从传统的模型训练和推理性能，推进到围绕智能体AI（Agentic AI）的Token生成速度、能耗和成本展开的新阶段。&lt;/p&gt;
-&lt;p&gt;美东时间24日周一，英伟达宣布面向交互式AI推理的Groq 3 LPX正式全面投产。作为Vera Rubin平台的重要组成部分，Groq 3 LPX主打超低延迟Token生成，英伟达称，在Artificial Analysis测试中，搭载Gemma 4 31B模型、100,000 Token上下文时，Groq 3 LPX实现每秒3400个输出Token，为该模型创下最高纪录；针对智能体编程等低延迟工作负载，其响应速度最高达到最近竞争平台的4倍。&lt;/p&gt;
-&lt;p&gt;同时，英伟达公布Vera Rubin NVL72在真实智能体工作负载下的新测试结果：基于SemiAnalysis的AgentX工作负载、采用DeepSeek V4 Pro模型，Vera Rubin每兆瓦（MW）吞吐量最高达到上一代GB300 NVL72的30倍，每Token成本最高降低35倍。英伟达强调，智能体任务不同于传统聊天或摘要，任务上下文会随着数百个步骤不断累积，甚至达到数十万Token。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;同一天，英伟达还宣布SpaceXAI将采用Vera CPU加速下一代智能体AI应用，并扩大基于Vera Rubin的平台建设，随着其算力规模向数GW扩张；此外，SpaceXAI计划将优化版Vera Rubin NVL72延伸至太空，用于首代Starmind AI卫星。&lt;/p&gt;
-Groq 3 LPX全面投产，英伟达补齐智能体“最后一公里”
-&lt;p&gt;英伟达此次将Groq 3 LPX正式推向全面生产，核心目的并不是用专用推理芯片取代GPU，而是为Vera Rubin补充传统GPU架构在&lt;strong&gt;低延迟Token生成&lt;/strong&gt;方面的能力。&lt;/p&gt;
-&lt;p&gt;对于智能体而言，一次任务往往不再是“一问一答”：智能体需要读取文件、调用工具、执行代码、检查结果，再根据结果继续推理，可能循环数百甚至数千个步骤。在这一过程中，每一步Token生成的速度都会影响整个任务的完成时间。&lt;/p&gt;
-&lt;p&gt;英伟达称，智能体AI因此带来了两个不同的计算挑战：一方面需要高效处理不断增长的大规模上下文，另一方面需要以极低延迟持续生成Token。Vera Rubin NVL72负责更广泛的训练、推理以及上下文处理，而Groq 3 LPX则针对单用户交互速度进行优化，提升Token生成速率。&lt;/p&gt;
-&lt;p&gt;英伟达最新测试显示，Groq 3 LPX在Gemma 4 31B、100K上下文条件下达到3400个输出Token/秒；在智能体任务和其他延迟敏感型工作负载中，响应速度最高达到最近竞争平台的4倍。英伟达称，这种速度可以让智能体更快完成代码编写、测试、工具调用和结果验证等连续任务。&lt;/p&gt;
-&lt;p&gt;商业化方面，AI云服务商Nebius将成为首个采用Groq 3 LPX的云厂商，并计划将其部署到Nebius Token Factory生产推理平台。Groq也计划成为该平台最早一批采用者之一。&lt;/p&gt;
-&lt;p&gt;这意味着，随着Groq 3 LPX进入全面投产，英伟达此前收购Groq技术所形成的能力，开始真正嵌入Vera Rubin的数据中心产品体系。&lt;/p&gt;
-30倍不是“速度”30倍，而是每兆瓦能完成更多智能体工作
-&lt;p&gt;相比3400 Token/秒这样的单项性能指标，英伟达此次更值得关注的，是其对&lt;strong&gt;每兆瓦吞吐量和Token成本&lt;/strong&gt;的强调。&lt;/p&gt;
-&lt;p&gt;英伟达公布的测试数据显示，在SemiAnalysis AgentX工作负载下，Vera Rubin NVL72每兆瓦吞吐量最高达到GB300 NVL72的30倍，对应每Token成本最高降低35倍。该测试使用真实的智能体编程轨迹，保留了实际的上下文增长、工具调用和子智能体生成等环节。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;因此，每兆瓦吞吐量最高提升30倍只是AI推理效率大幅提升的一种体现，并不是单纯意味着芯片的推理速度提高30倍。&lt;/p&gt;
-&lt;p&gt;这一指标对于AI数据中心的意义尤其突出。&lt;/p&gt;
-&lt;p&gt;传统大模型服务更多关注单次请求的延迟和吞吐量，而智能体工作负载会持续消耗Token。英伟达援引OpenRouter数据称，智能体AI工作负载消耗的Token数量可以达到简单聊天请求的15倍。原因在于，一个智能体可能先查询数据库，再搜索新闻和文件，调用子智能体进行分析，运行代码并反复验证，整个过程中上下文不断累积。&lt;/p&gt;
-&lt;p&gt;这也使得AI基础设施的经济性开始出现新的衡量方式：&lt;strong&gt;同样一兆瓦电力，到底能够完成多少有效智能体任务？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于电力和数据中心资源日益成为AI扩张瓶颈的背景而言，提高单位电力能够产生的Token数量，可能比单纯提高峰值算力更加重要。&lt;/p&gt;
-Vera Rubin从“GPU平台”变成完整AI工厂
-&lt;p&gt;从架构来看，Groq 3 LPX并不是孤立的产品，而是英伟达Vera Rubin“极致协同设计”路线的一部分。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;英伟达此前已经将Vera Rubin定义为面向智能体AI时代的AI工厂平台。整个系统并非单纯由GPU组成，而是围绕计算、网络、存储和软件进行协同设计，涵盖Rubin GPU、Vera CPU、Groq 3 LPX、BlueField-4 DPU、Spectrum-6 SPX等不同组件。&lt;/p&gt;
-&lt;p&gt;其中，Rubin GPU承担大规模训练、推理以及上下文处理等任务；Groq 3 LPX负责高速Token生成；Vera CPU则处理智能体在模型调用之间产生的大量CPU密集型工作，包括工具编排、代码执行、数据处理和模拟。&lt;/p&gt;
-&lt;p&gt;英伟达此前公布的架构信息显示，Vera Rubin平台通过七款芯片和五种专用机架进行协同设计，目的就是让不同硬件分别承担最适合自己的任务，而不是让一类处理器包办整个AI工作负载。&lt;/p&gt;
-&lt;p&gt;这意味着，英伟达正在把AI基础设施从“GPU集群”进一步升级为一个&lt;strong&gt;异构计算系统&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;对于AI云厂商而言，这种架构的意义在于，可以针对训练、长上下文推理、Token生成、工具调用等不同阶段进行资源配置，从而提高整座数据中心的利用率和经济回报。&lt;/p&gt;
-SpaceXAI加码Vera：智能体AI从数据中心走向太空
-&lt;p&gt;就在Groq 3 LPX全面投产之际，SpaceXAI也宣布进一步采用英伟达Vera Rubin体系。&lt;/p&gt;
-&lt;p&gt;英伟达8月24日宣布，SpaceXAI将部署Vera CPU，用于下一代智能体AI应用。Vera专门针对模型推理之外的CPU工作负载进行设计，包括工具调用、代码执行、数据处理、任务编排和模拟。&lt;/p&gt;
-&lt;p&gt;Vera采用88颗英伟达自主设计的Olympus核心，并配备高带宽LPDDR5X内存，带宽最高达到1.2TB/s。英伟达称，在智能体AI、强化学习和数据处理等工作负载中，Vera任务完成速度最高可达到x86 CPU的1.8倍。&lt;/p&gt;
-&lt;p&gt;对于SpaceXAI而言，Vera的价值并不仅仅在于提高CPU性能。&lt;/p&gt;
-&lt;p&gt;智能体运行过程中，大量任务发生在GPU推理之间，例如执行代码、处理数据、调用工具和协调不同智能体。如果这些任务由CPU处理速度不足，就可能导致GPU等待，从而降低整个AI工厂的利用率。&lt;/p&gt;
-&lt;p&gt;因此，SpaceXAI希望利用Vera处理这些“模型之外”的工作，让GPU更多地专注于模型训练和推理，从而提高整个系统的效率。&lt;/p&gt;
-&lt;p&gt;SpaceXAI同时计划扩大基于Vera Rubin的Grok AI基础设施，随着计算能力向数GW规模扩张；更进一步，该公司还计划将优化版Vera Rubin NVL72用于首代Starmind AI卫星。&lt;/p&gt;
-&lt;p&gt;这意味着英伟达的加速计算体系正在从地面数据中心向轨道计算延伸。&lt;/p&gt;
-从“聊天机器人”到“自主执行”，AI算力需求正在换挡
-&lt;p&gt;从Groq 3 LPX全面投产，到Vera Rubin公布30倍每兆瓦吞吐量，再到SpaceXAI将Vera Rubin延伸至Starmind卫星，英伟达此次连续释放的信息背后，指向的是同一个变化：&lt;strong&gt;AI应用正在从生成内容走向自主完成任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在聊天和摘要场景中，用户往往只需要模型快速给出一段文字；而在智能体场景中，模型需要持续推理、调用工具、执行代码、访问外部数据并不断验证结果。&lt;/p&gt;
-&lt;p&gt;这意味着，未来AI基础设施的核心指标也可能发生变化——从过去关注“训练一个更大的模型”，逐渐转向关注&lt;strong&gt;单位电力能够产生多少有效Token、单位成本能够完成多少任务，以及智能体完成一项复杂任务究竟需要多长时间&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;英伟达此次把Groq 3 LPX、Vera CPU和Rubin GPU放进同一套AI工厂体系，正是在针对这一变化重新设计基础设施。&lt;/p&gt;
-&lt;p&gt;而SpaceXAI则提供了一个更具想象力的应用方向：如果这套体系最终能够从地面数据中心延伸到轨道，AI计算的边界也将不再局限于传统的数据中心机房。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌</title><link>https://wallstreetcn.com/articles/3780114</link><guid>8aab9f83e6ea8970f6268dfccaba6b4373dd5b23fcc71e6dc1a25ee5f4a5a50d</guid><pubDate>Mon, 24 Aug 2026 13:34:48 GMT</pubDate><description>&lt;p&gt;科技股承压、美联储政策走向不明，令全球股市在关键一周开局走低。纳指100期货走低，欧股低开，亚太主要股市普遍收跌，美债收益率小幅回落，金价延续涨势，市场整体处于等待模式。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 24 Aug 2026 19:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌</title><link>https://wallstreetcn.com/articles/3780114</link><guid>8aab9f83e6ea8970f6268dfccaba6b4373dd5b23fcc71e6dc1a25ee5f4a5a50d</guid><pubDate>Mon, 24 Aug 2026 13:34:48 GMT</pubDate><description>&lt;p&gt;科技股承压、美联储政策走向不明，令全球股市在关键一周开局走低。纳指100期货走低，欧股低开，亚太主要股市普遍收跌，美债收益率小幅回落，金价延续涨势，市场整体处于等待模式。&lt;/p&gt;
 &lt;p&gt;周一，美股三大股指开盘涨跌不一，道指涨0.13%，标普500指数跌0.19%，纳指跌0.4%。存储芯片股集体走低，闪迪跌约6%，美光科技跌约3%；光通信概念下挫，Lumentum跌超5%；小鹏集团跌超3%，拼多多涨超2%，阿里巴巴跌2%。&lt;/p&gt;
 &lt;p&gt;与此同时，布油下跌约1%至每桶约91.85美元，美国10年期国债收益率小幅下行2个基点至4.71%。&lt;/p&gt;
 &lt;p&gt;地缘方面，据新华社、央视新闻及CCTV国际时讯，美国预计将于当地时间8月24日宣布对伊朗所谓“毁灭性经济行动”、“史无前例经济孤立”的具体措施。美国财政部长贝森特23日晚在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，直至德黑兰“孤立无援”。当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国对伊朗继续发动经济战，则没有石油会通过霍尔木兹海峡乃至波斯湾地区出口。受此影响，伊朗货币里亚尔兑美元跌破200万关口，创历史新低。&lt;/p&gt;
@@ -91,7 +48,50 @@ AI投资回报问题成焦点，英伟达财报举足轻重
 &lt;p&gt;黄金延续上周涨势，现报每盎司约4640美元，接近三个月高位。美国财政部对债券市场的干预重新引发市场对美元贬值的担忧，推动投资者转向黄金等替代资产。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Pepperstone研究策略师Dilin Wu认为，债券市场走势&amp;quot;已走在美联储前面&amp;quot;，美债收益率上升是经济结构性问题的体现，而非单纯的周期性波动。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小鹏集团Q2营收197.4亿元，毛利率20.7％超预期 | 财报见闻</title><link>https://wallstreetcn.com/articles/3780156</link><guid>a9898bc38f6a071fb3d91562148132e9195be283a71c608f8db35f869714cf19</guid><pubDate>Mon, 24 Aug 2026 14:54:02 GMT</pubDate><description>&lt;p&gt;小鹏汽车公布的二季度毛利率表现亮眼，但三季度交付量和营收指引均显著低于市场预期。公司同步宣布旗下机器人子公司完成9亿美元融资，并将正式布局人形机器人赛道。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI</title><link>https://wallstreetcn.com/articles/3780177</link><guid>b112f9ecccf4533463d3006549119c2072db28ad744ae2860bcef54193af82a5</guid><pubDate>Mon, 24 Aug 2026 16:51:22 GMT</pubDate><description>&lt;p&gt;英伟达正在加速把AI基础设施的竞争，从传统的模型训练和推理性能，推进到围绕智能体AI（Agentic AI）的Token生成速度、能耗和成本展开的新阶段。&lt;/p&gt;
+&lt;p&gt;美东时间24日周一，英伟达宣布面向交互式AI推理的Groq 3 LPX正式全面投产。作为Vera Rubin平台的重要组成部分，Groq 3 LPX主打超低延迟Token生成，英伟达称，在Artificial Analysis测试中，搭载Gemma 4 31B模型、100,000 Token上下文时，Groq 3 LPX实现每秒3400个输出Token，为该模型创下最高纪录；针对智能体编程等低延迟工作负载，其响应速度最高达到最近竞争平台的4倍。&lt;/p&gt;
+&lt;p&gt;同时，英伟达公布Vera Rubin NVL72在真实智能体工作负载下的新测试结果：基于SemiAnalysis的AgentX工作负载、采用DeepSeek V4 Pro模型，Vera Rubin每兆瓦（MW）吞吐量最高达到上一代GB300 NVL72的30倍，每Token成本最高降低35倍。英伟达强调，智能体任务不同于传统聊天或摘要，任务上下文会随着数百个步骤不断累积，甚至达到数十万Token。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;同一天，英伟达还宣布SpaceXAI将采用Vera CPU加速下一代智能体AI应用，并扩大基于Vera Rubin的平台建设，随着其算力规模向数GW扩张；此外，SpaceXAI计划将优化版Vera Rubin NVL72延伸至太空，用于首代Starmind AI卫星。&lt;/p&gt;
+Groq 3 LPX全面投产，英伟达补齐智能体“最后一公里”
+&lt;p&gt;英伟达此次将Groq 3 LPX正式推向全面生产，核心目的并不是用专用推理芯片取代GPU，而是为Vera Rubin补充传统GPU架构在&lt;strong&gt;低延迟Token生成&lt;/strong&gt;方面的能力。&lt;/p&gt;
+&lt;p&gt;对于智能体而言，一次任务往往不再是“一问一答”：智能体需要读取文件、调用工具、执行代码、检查结果，再根据结果继续推理，可能循环数百甚至数千个步骤。在这一过程中，每一步Token生成的速度都会影响整个任务的完成时间。&lt;/p&gt;
+&lt;p&gt;英伟达称，智能体AI因此带来了两个不同的计算挑战：一方面需要高效处理不断增长的大规模上下文，另一方面需要以极低延迟持续生成Token。Vera Rubin NVL72负责更广泛的训练、推理以及上下文处理，而Groq 3 LPX则针对单用户交互速度进行优化，提升Token生成速率。&lt;/p&gt;
+&lt;p&gt;英伟达最新测试显示，Groq 3 LPX在Gemma 4 31B、100K上下文条件下达到3400个输出Token/秒；在智能体任务和其他延迟敏感型工作负载中，响应速度最高达到最近竞争平台的4倍。英伟达称，这种速度可以让智能体更快完成代码编写、测试、工具调用和结果验证等连续任务。&lt;/p&gt;
+&lt;p&gt;商业化方面，AI云服务商Nebius将成为首个采用Groq 3 LPX的云厂商，并计划将其部署到Nebius Token Factory生产推理平台。Groq也计划成为该平台最早一批采用者之一。&lt;/p&gt;
+&lt;p&gt;这意味着，随着Groq 3 LPX进入全面投产，英伟达此前收购Groq技术所形成的能力，开始真正嵌入Vera Rubin的数据中心产品体系。&lt;/p&gt;
+30倍不是“速度”30倍，而是每兆瓦能完成更多智能体工作
+&lt;p&gt;相比3400 Token/秒这样的单项性能指标，英伟达此次更值得关注的，是其对&lt;strong&gt;每兆瓦吞吐量和Token成本&lt;/strong&gt;的强调。&lt;/p&gt;
+&lt;p&gt;英伟达公布的测试数据显示，在SemiAnalysis AgentX工作负载下，Vera Rubin NVL72每兆瓦吞吐量最高达到GB300 NVL72的30倍，对应每Token成本最高降低35倍。该测试使用真实的智能体编程轨迹，保留了实际的上下文增长、工具调用和子智能体生成等环节。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;因此，每兆瓦吞吐量最高提升30倍只是AI推理效率大幅提升的一种体现，并不是单纯意味着芯片的推理速度提高30倍。&lt;/p&gt;
+&lt;p&gt;这一指标对于AI数据中心的意义尤其突出。&lt;/p&gt;
+&lt;p&gt;传统大模型服务更多关注单次请求的延迟和吞吐量，而智能体工作负载会持续消耗Token。英伟达援引OpenRouter数据称，智能体AI工作负载消耗的Token数量可以达到简单聊天请求的15倍。原因在于，一个智能体可能先查询数据库，再搜索新闻和文件，调用子智能体进行分析，运行代码并反复验证，整个过程中上下文不断累积。&lt;/p&gt;
+&lt;p&gt;这也使得AI基础设施的经济性开始出现新的衡量方式：&lt;strong&gt;同样一兆瓦电力，到底能够完成多少有效智能体任务？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于电力和数据中心资源日益成为AI扩张瓶颈的背景而言，提高单位电力能够产生的Token数量，可能比单纯提高峰值算力更加重要。&lt;/p&gt;
+Vera Rubin从“GPU平台”变成完整AI工厂
+&lt;p&gt;从架构来看，Groq 3 LPX并不是孤立的产品，而是英伟达Vera Rubin“极致协同设计”路线的一部分。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;英伟达此前已经将Vera Rubin定义为面向智能体AI时代的AI工厂平台。整个系统并非单纯由GPU组成，而是围绕计算、网络、存储和软件进行协同设计，涵盖Rubin GPU、Vera CPU、Groq 3 LPX、BlueField-4 DPU、Spectrum-6 SPX等不同组件。&lt;/p&gt;
+&lt;p&gt;其中，Rubin GPU承担大规模训练、推理以及上下文处理等任务；Groq 3 LPX负责高速Token生成；Vera CPU则处理智能体在模型调用之间产生的大量CPU密集型工作，包括工具编排、代码执行、数据处理和模拟。&lt;/p&gt;
+&lt;p&gt;英伟达此前公布的架构信息显示，Vera Rubin平台通过七款芯片和五种专用机架进行协同设计，目的就是让不同硬件分别承担最适合自己的任务，而不是让一类处理器包办整个AI工作负载。&lt;/p&gt;
+&lt;p&gt;这意味着，英伟达正在把AI基础设施从“GPU集群”进一步升级为一个&lt;strong&gt;异构计算系统&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;对于AI云厂商而言，这种架构的意义在于，可以针对训练、长上下文推理、Token生成、工具调用等不同阶段进行资源配置，从而提高整座数据中心的利用率和经济回报。&lt;/p&gt;
+SpaceXAI加码Vera：智能体AI从数据中心走向太空
+&lt;p&gt;就在Groq 3 LPX全面投产之际，SpaceXAI也宣布进一步采用英伟达Vera Rubin体系。&lt;/p&gt;
+&lt;p&gt;英伟达8月24日宣布，SpaceXAI将部署Vera CPU，用于下一代智能体AI应用。Vera专门针对模型推理之外的CPU工作负载进行设计，包括工具调用、代码执行、数据处理、任务编排和模拟。&lt;/p&gt;
+&lt;p&gt;Vera采用88颗英伟达自主设计的Olympus核心，并配备高带宽LPDDR5X内存，带宽最高达到1.2TB/s。英伟达称，在智能体AI、强化学习和数据处理等工作负载中，Vera任务完成速度最高可达到x86 CPU的1.8倍。&lt;/p&gt;
+&lt;p&gt;对于SpaceXAI而言，Vera的价值并不仅仅在于提高CPU性能。&lt;/p&gt;
+&lt;p&gt;智能体运行过程中，大量任务发生在GPU推理之间，例如执行代码、处理数据、调用工具和协调不同智能体。如果这些任务由CPU处理速度不足，就可能导致GPU等待，从而降低整个AI工厂的利用率。&lt;/p&gt;
+&lt;p&gt;因此，SpaceXAI希望利用Vera处理这些“模型之外”的工作，让GPU更多地专注于模型训练和推理，从而提高整个系统的效率。&lt;/p&gt;
+&lt;p&gt;SpaceXAI同时计划扩大基于Vera Rubin的Grok AI基础设施，随着计算能力向数GW规模扩张；更进一步，该公司还计划将优化版Vera Rubin NVL72用于首代Starmind AI卫星。&lt;/p&gt;
+&lt;p&gt;这意味着英伟达的加速计算体系正在从地面数据中心向轨道计算延伸。&lt;/p&gt;
+从“聊天机器人”到“自主执行”，AI算力需求正在换挡
+&lt;p&gt;从Groq 3 LPX全面投产，到Vera Rubin公布30倍每兆瓦吞吐量，再到SpaceXAI将Vera Rubin延伸至Starmind卫星，英伟达此次连续释放的信息背后，指向的是同一个变化：&lt;strong&gt;AI应用正在从生成内容走向自主完成任务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在聊天和摘要场景中，用户往往只需要模型快速给出一段文字；而在智能体场景中，模型需要持续推理、调用工具、执行代码、访问外部数据并不断验证结果。&lt;/p&gt;
+&lt;p&gt;这意味着，未来AI基础设施的核心指标也可能发生变化——从过去关注“训练一个更大的模型”，逐渐转向关注&lt;strong&gt;单位电力能够产生多少有效Token、单位成本能够完成多少任务，以及智能体完成一项复杂任务究竟需要多长时间&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;英伟达此次把Groq 3 LPX、Vera CPU和Rubin GPU放进同一套AI工厂体系，正是在针对这一变化重新设计基础设施。&lt;/p&gt;
+&lt;p&gt;而SpaceXAI则提供了一个更具想象力的应用方向：如果这套体系最终能够从地面数据中心延伸到轨道，AI计算的边界也将不再局限于传统的数据中心机房。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小鹏集团Q2营收197.4亿元，毛利率20.7％超预期 | 财报见闻</title><link>https://wallstreetcn.com/articles/3780156</link><guid>a9898bc38f6a071fb3d91562148132e9195be283a71c608f8db35f869714cf19</guid><pubDate>Mon, 24 Aug 2026 14:54:02 GMT</pubDate><description>&lt;p&gt;小鹏汽车公布的二季度毛利率表现亮眼，但三季度交付量和营收指引均显著低于市场预期。公司同步宣布旗下机器人子公司完成9亿美元融资，并将正式布局人形机器人赛道。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2026年第二季度，小鹏总收入为197.4亿元人民币，低于市场预估的202亿元，同比增长8%，环比增长51.5%。毛利率为20.7%，高于预估的19.2%，较上年同期提升3.4个百分点。然而，净亏损从上年同期的4.8亿元扩大至13.4亿元，同比扩大近1.8倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;对于三季度，&lt;strong&gt;公司预计总收入在217亿至234亿元之间，车辆交付量在11.5万至12.1万辆之间，&lt;/strong&gt;环比均有明显提升。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
