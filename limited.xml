@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 24 Aug 2026 02:29:23 GMT</lastBuildDate><item><title>[华尔街见闻] “拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了</title><link>https://wallstreetcn.com/articles/3780106</link><guid>0f35f1a3e20ab254a124849ef6be2549a84f9b514e92804cae048164f0ed5457</guid><pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate><description>&lt;p&gt;贝森特出手救债市，结果救了黄金和比特币——现在，所有人都在等沃什。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 24 Aug 2026 02:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] “拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了</title><link>https://wallstreetcn.com/articles/3780106</link><guid>0f35f1a3e20ab254a124849ef6be2549a84f9b514e92804cae048164f0ed5457</guid><pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate><description>&lt;p&gt;贝森特出手救债市，结果救了黄金和比特币——现在，所有人都在等沃什。&lt;/p&gt;
 &lt;p&gt;上周，美国财政部长贝森特宣布将至少翻倍扩大长期美债回购规模，试图压制持续攀升的长端收益率。效果立竿见影，但只持续了不到一天——收益率随后重返高位，整周基本持平。&lt;/p&gt;
 &lt;p&gt;贝森特事后接受采访时称市场&amp;quot;有点过度反应&amp;quot;，并强调财政部拥有&amp;quot;强大的工具箱&amp;quot;。但市场用行动给出了不同的答案：美元当周下跌近1%，黄金突破4600美元，比特币单周涨超25%。&lt;/p&gt;
 &lt;p&gt;这一组合被野村证券的Charlie McElligott定性为&amp;quot;压力释放阀&amp;quot;——当局试图稳住长端利率，市场的焦虑情绪转而在别处宣泄。&lt;/p&gt;
@@ -66,7 +66,70 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;消息面，这家从网络零售转入AI赛道的巨头以每股112.7港元的价格配售了7.1亿股新股，较阿里巴巴美国存托凭证(ADR)上周五收盘价折让3.6%，较其港股收盘价折让8.4%。&lt;/p&gt;
 &lt;p&gt;根据彭博汇编的数据，这是香港史上最大的上市公司增发交易，也是自2021年科技投资公司Prosus NV出售147亿美元腾讯控股股份以来，香港最大的股票出售交易。&lt;/p&gt;
-&lt;p&gt;因电影《大空头》而广为人知的投资人Michael Burry称，他“无法赞同”阿里巴巴此次增发。“这对阿里巴巴来说又是一个新范式，其投入资本回报率(ROIC)将继续下降，”他周日在社交媒体帖子中写道。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett警告：贝森特若压不住长端利率，美元暴跌与资产抛售将接踵而至</title><link>https://wallstreetcn.com/articles/3780113</link><guid>d37461398f7cc97b9d5cd5459a5494c698b488303424fc8b5ac4f8beb9a14ebf</guid><pubDate>Mon, 24 Aug 2026 01:42:45 GMT</pubDate><description>&lt;p&gt;美国财政部长贝森特上周宣布将长端国债回购规模翻倍，美银首席投资策略师Michael Hartnett在其最新一期Flow Show报告中将此举定性为“准量化宽松”（quasi-QE）。与此同时，美国国债总规模首次突破40万亿美元，且以每季度1万亿美元的速度持续攀升。&lt;/p&gt;
+&lt;p&gt;因电影《大空头》而广为人知的投资人Michael Burry称，他“无法赞同”阿里巴巴此次增发。“这对阿里巴巴来说又是一个新范式，其投入资本回报率(ROIC)将继续下降，”他周日在社交媒体帖子中写道。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 三星制定“三阶段HBM路线图”：迈向真正的3D ZHBM，将DRAM直接堆叠在计算芯片上</title><link>https://wallstreetcn.com/articles/3780121</link><guid>77d9f69de7f07bd52a8be0c722749d02987be65523c33669069dbd0c8d109490</guid><pubDate>Mon, 24 Aug 2026 02:49:31 GMT</pubDate><description>&lt;p&gt;近日，在Hot Chips技术大会上，三星DRAM设计团队的Sangwook Han发表演讲，正式披露三星HBM演进的三阶段路线图。这一路线图的终点，是一种名为zHBM的全新架构——将DRAM直接垂直堆叠在GPU、TPU等计算芯片之上，彻底取消2.5D中介层（interposer）。&lt;/p&gt;
+&lt;p&gt;据wccftech 8月23日报道，三星方面表示，相较于标准HBM4E，&lt;strong&gt;zHBM方案宣称可实现70%的功耗降低、230%的DRAM带宽提升，以及每个DRAM模组节省100W功耗，同时为GPU释放8.3%的额外功率空间。&lt;/strong&gt;&lt;/p&gt;
+HBM是什么，瓶颈在哪里
+&lt;p&gt;HBM，即高带宽内存，是目前AI训练和推理系统中最关键的存储组件之一。它由两类芯片构成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C-die（核心芯片）&lt;/strong&gt;：包含DRAM存储单元，可垂直堆叠最多16层&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;B-die（基础芯片/Base Die）&lt;/strong&gt;：位于整个堆叠结构底部，负责处理各类DRAM控制功能，并通过PHY（物理接口层）与GPU等计算芯片通信&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;两者之间通过TSV（Through-Silicon Via，硅通孔）连接——这是一种穿透芯片的垂直导电通道。&lt;/p&gt;
+&lt;p&gt;据Wccftech报道，当前HBM4每个堆叠的带宽已超过3TB/s，HBM4E进一步推进至4TB/s区间，HBM5则在HBM4基础上将带宽翻倍，容量超过60GB。&lt;/p&gt;
+&lt;p&gt;然而，带宽的持续扩展正面临两大硬约束：&lt;strong&gt;TSV数量与间距的物理极限&lt;/strong&gt;，以及&lt;strong&gt;Base Die内PHY接口的I/O数量与速度上限&lt;/strong&gt;。与此同时，B-die与计算芯片（xPU SoC）之间的制程代差正在逐代收窄，这既是挑战，也为三星的路线图提供了切入口。&lt;/p&gt;
+第一阶段：为计算芯片“腾地方”
+&lt;p&gt;三星路线图的第一阶段，核心目标是&lt;strong&gt;从xPU（计算芯片）那里&amp;quot;抢回&amp;quot;硅面积&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;三星已将D1c与4nm逻辑工艺应用于HBM4的Base Die（B-die），主要目的是降低功耗、缩减有效面积。这是DRAM与先进逻辑工艺真正融合的起点。&lt;/p&gt;
+&lt;p&gt;具体措施包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用D2D接口替换传统HBM PHY，缩短信道长度，直接改善能效，同时为XPU释放宝贵硅片空间&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将内存控制器从XPU卸载至cHBM的B-die，预计可为XPU释放5%至10%的面积，对应10%至20%的性能提升&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;引入基于SRAM的细粒度修复方案（Near-MC SRAM-Based Cell Repair），利用B-die上的闲置空间部署SRAM修复资源&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;面积缩减带来的副作用是热点问题。对此，三星已推出Heat Path Block（HPB）技术，构建于cHBM4方案之上，可将峰值温度降低逾35%，覆盖50%的PHY区域。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+第二阶段：B-die开始“长出”计算能力
+&lt;p&gt;第二阶段的重点从&amp;quot;腾空间&amp;quot;转向&amp;quot;加功能&amp;quot;，三星将其定义为&lt;strong&gt;功能扩展阶段&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;扩展内存容量。&lt;/strong&gt; 随着AI大模型的上下文窗口（context window）急剧扩大，KV缓存（Key-Value Cache，模型推理时用于存储中间状态的内存区域）的需求呈指数级增长。三星计划在Base Die的闲置硅面积上集成内存扩展控制器与PHY，通过外接LPDDR或HBM等方案扩充系统可用内存容量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;集成处理单元（PE）。&lt;/strong&gt; 三星还提出在Base Die上集成部分计算处理单元（Processing Elements），将部分原本需要在xPU上完成的计算卸载至内存侧，从而降低D2D带宽需求、减少功耗与热负担。这一形态被称为AHBM（Advanced HBM，进阶高带宽内存）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;强化可靠性与测试能力。&lt;/strong&gt; 第二阶段还包括在Base Die上集成先进的RAS（Reliability, Availability, Serviceability，可靠性、可用性与可维护性）传感器与实时遥测功能，以及片上自测试（ATIP）能力，提升良率与测试覆盖率。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+第三阶段：zHBM——消灭中介层，DRAM直接压在计算芯片上
+&lt;p&gt;第三阶段是整个路线图的终极形态：&lt;strong&gt;zHBM&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当前主流AI系统采用2.5D封装架构，GPU与HBM并排放置在同一块中介层（interposer）上，通过横向互连传输数据。zHBM的思路是将这一结构&amp;quot;竖起来&amp;quot;——把DRAM堆叠直接压在xPU芯片之上，形成真正的3D垂直集成。&lt;/p&gt;
+&lt;p&gt;三星描述的zHBM关键特性包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;分布式I/O&lt;/strong&gt;：最小化HBM栈内数据传输距离&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3D结构&lt;/strong&gt;：消除传统2D接口，大幅提升系统效率&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I/O功耗目标约0.5 pJ/bit&lt;/strong&gt;：通过移除SerDes等冗余模块实现&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;带宽提升超2.3倍，系统热余量达100W&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;三星演示的方案为四栈zHBM叠加在一颗XPU之上。&lt;/p&gt;
+&lt;p&gt;为实现上述目标，三星正在研发两项关键封装技术：&lt;strong&gt;WoW（Wafer on Wafer）&lt;/strong&gt;与&lt;strong&gt;HCB（Hybrid Cube Bonding）&lt;/strong&gt;，以实现超高I/O密度，并最终构建统一的SoC-DRAM协同设计体系。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+路线图背后的核心逻辑
+&lt;p&gt;三星此次演讲的核心叙事，是将HBM的Base Die从一个&amp;quot;被动的数据中转站&amp;quot;重新定位为&amp;quot;具备主动计算能力的智能伙伴&amp;quot;。&lt;/p&gt;
+&lt;p&gt;三个阶段的演进逻辑清晰：先通过制程升级压缩面积、释放xPU空间（第一阶段）；再利用释放出的空间集成更多功能、扩展容量与计算能力（第二阶段）；最终通过3D垂直集成彻底重构系统架构，在功耗、带宽与热管理三个维度同步突破（第三阶段）。&lt;/p&gt;
+&lt;p&gt;三星在演讲总结中表示：&amp;quot;通过掌握先进封装与统一SoC-DRAM协同设计，我们将突破制约AI系统的功耗、面积与容量瓶颈，为未来数年更高效率、更高性能、更强可扩展性铺平道路。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett警告：贝森特若压不住长端利率，美元暴跌与资产抛售将接踵而至</title><link>https://wallstreetcn.com/articles/3780113</link><guid>d37461398f7cc97b9d5cd5459a5494c698b488303424fc8b5ac4f8beb9a14ebf</guid><pubDate>Mon, 24 Aug 2026 01:42:45 GMT</pubDate><description>&lt;p&gt;美国财政部长贝森特上周宣布将长端国债回购规模翻倍，美银首席投资策略师Michael Hartnett在其最新一期Flow Show报告中将此举定性为“准量化宽松”（quasi-QE）。与此同时，美国国债总规模首次突破40万亿美元，且以每季度1万亿美元的速度持续攀升。&lt;/p&gt;
 &lt;p&gt;Hartnett直言，贝森特的“3-3-3”经济框架目前三项指标全部未达标，政策公信力正通过债券和汇率市场的双重走弱加以体现——&lt;strong&gt;“收益率上升、货币走弱，意味着公信力正在下滑。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;他判断：这轮“准QE”应能短暂压制利率，但无法真正压低美债收益率。&lt;strong&gt;若30年期美债收益率无法下行至5%以下，美元将面临大幅下挫，市场将迎来一轮系统性的风险资产抛售。市场将转向做空风险资产、做空AI超大规模算力、私人信贷及做空金融股。同时，Hartnett对黄金及冷门长久期资产持多头立场。&lt;/strong&gt;&lt;/p&gt;
 “3-3-3”计划：三箭齐发，三箭落空
@@ -149,48 +212,36 @@
 高速增长掩盖隐忧，IPO前景存变数
 &lt;p&gt;尽管面临上述压力，Anthropic的整体增长势头依然强劲。该公司营收自年初以来增长近七倍，并在第二季度录得首次经调整后的运营盈利，且已向投资者表示第三季度有望再度实现盈利。据知情人士透露，Anthropic还告知投资者，其年支出达10万美元及以上的客户数量已达6000家。&lt;/p&gt;
 &lt;p&gt;然而，Fable 5需求疲软所揭示的结构性问题，令市场对Anthropic商业模式的可持续性产生疑问。前沿AI实验室长期将数十亿美元研发支出集中于训练规模更大、更复杂的模型，若企业客户持续转向低价替代品，这一逻辑将面临根本性挑战。&lt;/p&gt;
-&lt;p&gt;Kharazian坦言，预测Anthropic未来数月的走势&amp;quot;几乎是不可能完成的任务&amp;quot;。&amp;quot;如果沿用此前趋势外推，你会预期Anthropic主导市场。但由于OpenAI最新模型表现出色而Fable表现不及预期，结果恰恰相反。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国平安业绩会实录：现在是AI价值创造的阶段，寿险产品进入“黄金时代”，</title><link>https://wallstreetcn.com/articles/3780107</link><guid>75da0b01ee175f09d6b409ac3f34f48ebceefee802b3554c4bc0b9dad8e7b295</guid><pubDate>Sun, 23 Aug 2026 14:56:30 GMT</pubDate><description>&lt;p&gt;头部保险集团的业绩发布会，当然会引人关注。&lt;/p&gt;
-&lt;p&gt;日前，中国平安举行2026年中期业绩发布会。董事长马明哲、联席首席执行官郭晓涛、总经理兼联席首席执行官谢永林、副总经理兼首席财务官付欣等出席，详细解读了平安的业绩和业务走向，而且回答了投资者和市场关心的诸多关键问题。&lt;/p&gt;
-&lt;p&gt;会上透露出平安关于保险行业的几个关键判断：低利率时期，寿险产品发展面临黄金时期；平安对未来2-3年的NBV持续增长“有非常强的信心”；当下已经到了AI价值创造的阶段；平安管理层认为，当下的市值远远没有反映平安的“真实价值”等等。&lt;/p&gt;
-“综合金融+医疗养老”战略
-&lt;p&gt;付欣表示，面对复杂多变的市场环境，平安2026年上半年持续深化“综合金融+医疗养老”战略。核心主业方面，寿险坚持价值转型，新业务价值（NBV）达成248.47亿元，同比增长11.2%，实现量质齐升；产险综合成本率（COR）为95.1%，是五年来最优水平。投资端，保险资金非年化综合投资收益率2.1%，收益稳健、穿越周期。&lt;/p&gt;
-&lt;p&gt;从营运利润看，上半年归母营运利润841.96亿元，同比增长8.3%，增速较一季度进一步提升。付欣指出，寿险NBV量价提升、产险COR持续优化、银行净息差持续领先等前瞻性指标，为营运利润的可持续增长提供了信心。净利润方面，归母净利润925.85亿元、增长36.1%，&lt;strong&gt;净利润表现源于两大驱动：一是主业增速稳健，二是长期稳健的投资回报与投资布局&lt;/strong&gt;。&lt;/p&gt;
-增长向高值
-&lt;p&gt;谢永林用三句话概括上半年业绩：“整体业绩稳健、增长向高值、服务创造价值。”&lt;/p&gt;
-&lt;p&gt;“整体业绩”方面，他列举归母营运利润、营业收入、归母净利润、归母净资产、股东回报、综合投资收益率、新业务价值、产险综合成本率八个核心财务指标，均实现正向增长。&lt;/p&gt;
-&lt;p&gt;“增长向高值”体现在两个层面：一是核心主业稳健，寿险非代理人渠道业务贡献近40%，“放在三年前是无法想象的”；分红险占比与长交期产品占比明显提升，产险COR在低位再降0.1个百分点，新能源车“十辆车中约四辆由平安承保”；二是综合金融威力显现，资管板块营收与利润贡献显著提升，集团营收与利润来源更加多元。&lt;/p&gt;
-&lt;p&gt;“服务创造价值”方面，谢永林举例，一站式AI服务助手覆盖88%业务场景，近五千万人次享受服务；全球急难救援上半年受理案件超1500笔，为87名客户实施跨境医疗转运，并从中东危险地区护送36名同胞安全回国。他表示，下半年将围绕“高值增长、服务创新、科技领先、守法合规”十六字方针，进一步夯实业务基础。&lt;/p&gt;
-过去十年平均综合投资收益率4.9%
-&lt;p&gt;关于平安集团的投资业务，付欣表示，截至2026年6月30日，公司保险资金投资组合规模6.61万亿元，较年初增长1.9%。资产配置以固收、权益和另类为主，结构稳健。拉长周期看，&lt;strong&gt;过去十年平安平均综合投资收益率4.9%、平均净投资收益率4.8%&lt;/strong&gt;，均高于内部精算要求的投资回报假设，处于同业领先水平。&lt;/p&gt;
-&lt;p&gt;分资产看：固收端，公司积累了高收益长久期债券，形成“安全垫和底仓”；权益端占比20%，坚持“双哑铃”配置，股票投资中FVOCI占比达66%，较年初提升9个百分点，高股息资产持续贡献分红收益；另类占比7%，其中不动产投资余额3.1%，近85%投向一二线城市收租物业，回报稳健。偿付能力方面，截至6月末，在偿二代二期口径下，平安集团及平安产险等均高于监管要求2倍以上；归母净资产较年初提升2.8%，达到10280.84亿元，资产负债表扎实稳健。&lt;/p&gt;
-投资贯彻六大匹配
-&lt;p&gt;郭晓涛在回应投资方面的问题时亦表示，平安保险投资资产6.61万亿元，投资的核心是资产负债匹配，“让投资回报能够穿越周期”。他介绍，&lt;strong&gt;平安坚持六个匹配原则——久期匹配、收益率匹配、流动性匹配、资本匹配、账户匹配、监管匹配&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;其中账户匹配为新增，源于负债端已全面转向分红型产品，分红型账户与传统账户、万能账户对投资的要求不同。&lt;/p&gt;
-&lt;p&gt;在资产配置上，固收占比70%以上、权益约20%、另类约7%。面对上半年资本市场波动与板块轮动，郭晓涛强调均衡配置：以高息股作为坚实底仓，再配置成长股，长期看好科技、AI、高端制造、创新药、医药、能源、资源类板块。同时通过一二级市场联动，与优质PE管理人合作，提前布局中后期成熟科创项目，“把产业资本和金融资本有效结合”。&lt;/p&gt;
-寿险业务多元渠道显效
-&lt;p&gt;关于首先业务，付欣表示，寿险NBV（新业务价值）的双位数增长来源于过去几年坚定不移的高质量转型。上半年NBV增速11.2%，连续三年保持双位数增长。在“量”上规模扩张，在“质”上更值得一提：为顺应低利率环境，新业务中分红险占比超过九成，与客户共享投资能力和超额收益，同时增强了资产负债表的灵活性。公司还主动优化业务结构，提升高Margin、长久期的期交业务占比，代理人新业务价值率环比提升3.5个百分点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;多元渠道转型是寿险的关键看点。上半年非代理人渠道贡献占比达38%&lt;/strong&gt;，较年初提升多个百分点、接近四成。拆开来看：代理人渠道人均新业务价值同比增长14.1%，人均产能双位数增长；银保渠道产能市场第一，月人均保费接近50万元，为市场代理人平均水平的25倍、头部外资险企代理人的15倍，队伍以高素质、高产能、高收入见长，留存率近乎百分之百；社区金融渠道坚持“农夫式”深耕存量客户，上半年新业务价值同比增长109.8%、实现翻番。&lt;/p&gt;
-产险业务新能源车险领先
-&lt;p&gt;上半年，平安产险原保险保费收入1787.51亿元，同比增长4%，增速领先市场；综合成本率95.1%，同比优化0.1个百分点，为五年来最优水平，其中车险COR达94.9%，同比优化0.6个百分点，品质连续第16个年头保持“双优”。&lt;/p&gt;
-&lt;p&gt;新能源车险表现突出，保费增速21.5%，市场份额达28%并持续提升。付欣特别提到，新能源车主的平均年龄比同业年轻2.5岁，“说明我们通过差异化的产品和服务，获得了更多年轻群体的支持”。&lt;/p&gt;
-银行业务息差达到1.8%
-&lt;p&gt;银行板块收入利润双增，净息差领先行业。在全行业息差持续收窄至约1.4%的背景下，平安银行净息差维持在1.8%，为行业数一数二的水平，带动营收与利润双增，净利润同比增长3.3%。非息业务收入占比提升至37.3%，为优化资本消耗、持续提高ROE奠定基础。&lt;/p&gt;
-&lt;p&gt;资产质量方面，不良贷款率1.05%，处于行业较好水平；不良生成率1.15%，上半年同比优化49个基点，不良生成已企稳。&lt;/p&gt;
-下半年推出“生命尊严服务”
-&lt;p&gt;综合金融战略方面，平安的客户基数达2.53亿，其中高价值客户持续增长、结构优化，客均合同提升80.6%。在“服务年”主题下，使用平安差异化服务的客户，客均资产同比增长39%、客均保费同比增长53.9%。&lt;/p&gt;
-&lt;p&gt;获客生态方面，上半年围绕信用卡、宠物保险打造的宠物生态，新增客户中年轻群体占比超七成，线下队伍两个月获客超10万。服务升级方面，“九九归一”快捷服务覆盖集团综合金融88%的业务场景；全球急难救援服务覆盖7588万客户。付欣还透露，&lt;strong&gt;下半年还将推出“生命尊严服务”，已规划七大类、18项服务流程。&lt;/strong&gt;&lt;/p&gt;
-低利率时代是寿险黄金发展期
-&lt;p&gt;郭晓涛还在会上透露了一个关键判断，低利率是当下及可预见未来的长期状态，利差将持续收窄，金融行业进入存量化阶段；而寿险行业“恰恰相反，进入黄金发展期”，因为&lt;strong&gt;寿险产品是低利率环境下能够提供长期持续稳定保底收益率的金融产品&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;他介绍，平安寿险坚持四大策略：一是均衡渠道，除代理人、银保、社区网格外，还在孵化兼职代理人渠道、线上渠道；二是均衡产品，从传统型转向分红型，并均衡配置保障型、储蓄型、养老型产品；三是差异化服务，上半年推出“居家2.0”服务，聚焦健康管理、睡眠管理、饮食管理、安全守护等七项一键服务；四是AI赋能，通过智能营销工具帮助代理人了解客户需求、提高产能。&lt;/p&gt;
-&lt;p&gt;郭晓涛表示，个险代理人上半年人均产能同比增长14.1%，“这一系列策略是寿险NBV不仅现在可持续增长、未来也可持续增长的重要布局”。&lt;/p&gt;
-股价远没有反映平安真实价值
-&lt;p&gt;在回应市值方面的问题时，付欣表示，&lt;strong&gt;市值管理是管理层“第一要务”&lt;/strong&gt;。上半年股价波动主要源于金融板块与高成长科技板块的轮动。她透露，摩根士丹利、摩根大通、花旗、汇丰等大行对平安的估值“比现在远高50%以上”，“现在的股价远远没有反映我们真实的价值”。&lt;/p&gt;
-&lt;p&gt;付欣提出“三看”：看行业，寿险处于黄金发展期；看公司，战略清晰，“综合金融+医疗养老”带来多元收入与利润来源；看价值，随着利润与股东回报持续释放，价值终将反映到股价中。她转述董事长马明哲的话说：“是金子总会发光的。”&lt;/p&gt;
-现在是AI价值创造的阶段
-&lt;p&gt;香港媒体关注中报首次披露的Token消耗量与AI算力投入策略。郭晓涛回应，对全年及未来2—3年NBV持续增长“有非常强的信心”。他回顾，2017年董事长马明哲即判断“AI的成功取决于数据、算法、算力、场景四个要素”，平安的优势在数据与场景。平安AI的核心逻辑，是在不同业务场景下发挥垂直领域数据优势、为业务赋能，聚焦智能化运营、管理、经营、服务、营销五个方向，即“AI in ALL”战略的深化。&lt;/p&gt;
-&lt;p&gt;郭晓涛介绍，平安经历了“百亿投入、千亿Token”的转型，积累了金融、医疗、健康、养老等九大数据库，AI基建已完成，“现在是在AI赋能价值创造的阶段”。其投入逻辑与服务一致——先看场景赋能价值，再倒推投入规模。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开发者平台Hugging Face寻求出售，估值或超130亿美元</title><link>https://wallstreetcn.com/articles/3780119</link><guid>f795a46125eacfa2df5bd5c1b19b7237113efd498ee18979a603805d435f084f</guid><pubDate>Mon, 24 Aug 2026 02:20:02 GMT</pubDate><description>&lt;p&gt;AI基础设施领域的并购热潮正在向开发者平台蔓延。&lt;/p&gt;
+&lt;p&gt;Kharazian坦言，预测Anthropic未来数月的走势&amp;quot;几乎是不可能完成的任务&amp;quot;。&amp;quot;如果沿用此前趋势外推，你会预期Anthropic主导市场。但由于OpenAI最新模型表现出色而Fable表现不及预期，结果恰恰相反。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：AI动能衰退，欧日银行股与黄金股等硬资产成下一轮交易主线</title><link>https://wallstreetcn.com/articles/3780118</link><guid>969ef55300343ff48ca8560318983e8d76bb8f4ebdcce52bb1cef5e6fbe6fdd9</guid><pubDate>Mon, 24 Aug 2026 02:31:35 GMT</pubDate><description>&lt;p&gt;AI交易的黄金时代正在悄然落幕，市场轮动的信号愈发清晰。&lt;/p&gt;
+&lt;p&gt;高盛资深交易员Natasha Tiwana在最新报告中警告，AI主题的动能结构已发生根本性转变——动量因子中半导体与AI复合板块正从多头转入空头，软件板块取而代之成为短期动量的最大权重。&lt;/p&gt;
+&lt;p&gt;与此同时，高盛建议投资者将目光转向此前被市场冷落的领域：欧洲与日本银行股、黄金矿企及铜矿股等硬资产敞口，以及法国政治风险相关的对冲布局。&lt;/p&gt;
+&lt;p&gt;上述策略转向的背景是，2026年8月市场经历了一轮剧烈的去杠杆行情。高盛高贝塔动量组合（GSPRHIMO）单周下跌12%，AI多空对冲组合五日跌幅达10%。高盛指出，2026年动量因子出现5%以上单日跌幅的次数，已超过过去五年的总和，市场正被迫在AI叙事之外寻求更广泛的多元化配置。&lt;/p&gt;
+AI交易进入精细化操作阶段
+&lt;p&gt;高盛明确表示，AI交易并未终结，但其构成、动能特征与安全边际均在实时重写。&lt;/p&gt;
+&lt;p&gt;报告指出，市场争论的焦点正从&amp;quot;谁是大规模资本开支的赢家&amp;quot;快速转向&amp;quot;谁是AI大规模普及的赢家&amp;quot;，背后的驱动力是算力成本的持续下降。在此背景下，高盛建议对AI建出受益标的采取更具战术性的操作方式，&lt;strong&gt;重点关注价格与每股收益（EPS）出现较大背离的机会，其中存储芯片（GSTMTMEM）和数据中心（GSTMTDAT）板块的性价比最为突出。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达二季度财报是近期最重要的催化剂，此后密集的九月行业会议季亦将提供支撑。在AI应用层面，MRNA与MRK本周宣布的合作消息引发市场对医疗健康AI的广泛关注，相关受益标的（GSXGHDDD）的盈利预期修正广度明显提升，泛化投资者对AI药物研发赛道的兴趣正在升温。&lt;/p&gt;
+动量因子悄然换血，软件取代半导体
+&lt;p&gt;动量因子内部的结构性重组是本轮行情最值得关注的信号之一。&lt;/p&gt;
+&lt;p&gt;高盛数据显示，12个月赢家与3个月赢家之间的重叠度已降至多年低点，&lt;strong&gt;而12个月赢家与3个月输家之间的重叠度则接近历史高位。&lt;/strong&gt;具体而言，软件板块已成为短期动量多头（GSXUHMO3）的最大权重，而半导体与AI复合板块则已移入空头端（GSXULMO3）。&lt;/p&gt;
+&lt;p&gt;高盛认为，这一多空结构的重新洗牌，折射出投资者对下一阶段市场领导力的深度重估，并导致因子波动率持续高企。在此环境下，市场对精细化对冲工具的需求明显上升，相较于简单的指数工具，投资者更倾向于采用因子对冲组合来管理敞口。&lt;/p&gt;
+欧日银行股：利率红利叠加估值洼地
+&lt;p&gt;在“拓宽”配置的逻辑下，高盛将欧洲与日本银行股列为核心推荐。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告指出，过去一个月市场已收回对美联储加息的定价预期，而欧洲与日本的利率预期走势则与美国出现分化。&lt;/strong&gt;在此背景下，欧洲银行指数（SX7E）和日本银行股组合（GSXAJMEB）受益于&amp;quot;更高更久&amp;quot;利率环境下的净息差（NII）改善，同时非息收入基本面持续向好——手续费收入强劲增长、效率比率提升、股东回报潜力可观。&lt;/p&gt;
+&lt;p&gt;数据显示，日本银行股过去三个月跑赢东证指数（TOPIX）及日本半导体板块，且波动率更低。欧洲银行股整体较美国银行股折价约15%，而高盛在欧洲区域内最看好的价值机会是希腊银行股——其估值正在向欧元区核心国同业靠拢，但仍有约10%的折价空间，且存在并购带来的额外上行潜力。值得注意的是，欧洲银行股当前仓位处于近两年最低水平，反向布局的时机窗口正在打开。&lt;/p&gt;
+黄金矿企与铜矿股：硬资产补涨逻辑清晰
+&lt;p&gt;高盛对硬资产板块的看法同样积极，并给出了具体的估值支撑依据。&lt;/p&gt;
+&lt;p&gt;黄金矿企组合（GSXGOLDM）月内已上涨32%，但距历史高点仍有约12%的差距，当前远期市盈率仅为11倍，较五年均值折价约20%。&lt;strong&gt;高盛认为，美国财政部扩大国债回购计划所带来的美元走弱预期，将驱动金矿股的下一轮上涨。&lt;/strong&gt;此外，高盛衍生品团队亦注意到市场对黄金作为年末避险对冲工具的需求升温，一个2026年12月到期、金矿股涨超5%且标普500跌破4%的双重数字期权报价约为6%（中间价4.25%）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;铜矿股方面，铜价本周创下历史新高，但铜矿股组合（GSXGCOPP）自2月以来持续落后于大宗商品本身及其扎实的基本面盈利表现，主要拖累来自中东局势升级与AI板块抛售的情绪传导。高盛认为，供需偏紧的微观结构具有支撑性，而一旦美联储转向鸽派，工业金属敞口将直接受益。&lt;/p&gt;
+法国政治风险：被低估的尾部敞口
+&lt;p&gt;高盛还专门提示了法国政治风险这一被市场忽视的潜在扰动因素。&lt;/p&gt;
+&lt;p&gt;法国国债与德国国债的利差（OAT-Bund spread）自6月初以来持续走阔，目前已达约85个基点的阶段性高位，但法国本土股票组合（GSXEFRDO）迄今基本未受波及。&lt;strong&gt;高盛警告，这一平静可能难以为继，法国本土股估值已处于五年历史的90百分位，意味着当前定价几乎未反映任何选举不确定性溢价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛指出，随着近期政治日程密集排布（包括8月27日法国企业主联合会夏季会议及8月30日司法部长Darmanin的夏季聚会），相关头条风险最早下周便可能升温。历史数据显示，在政治不确定性时期，法国本土股对信用利差的相关性会显著跳升，其对国内风险的反应远比CAC指数更为敏感。&lt;/p&gt;
+九月将是检验轮动持续性的关键窗口
+&lt;p&gt;高盛总结认为，当前所有信号均指向同一方向：市场正被迫走出AI单一叙事，向更广泛的多元化配置迁移。&lt;/p&gt;
+&lt;p&gt;动量因子向软件的悄然轮动、欧日银行股（尤其是希腊银行股的残余折价）的结构性买盘、仍被低估的黄金矿企与滞涨的铜矿股，以及被严重低估的法国政治风险溢价，共同勾勒出一幅市场格局深度重构的图景。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛强调，AI交易的&amp;quot;躺赢&amp;quot;阶段已经结束，&lt;/strong&gt;唯一残存的超额收益空间在于精选价格与EPS轨迹背离过大的个股进行战术性低吸。九月的财报季与会议日历，将最终裁定这轮调整究竟只是一次健康的仓位清洗，还是一场更持久的市场风格切换的开端。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI开发者平台Hugging Face寻求出售，估值或超130亿美元</title><link>https://wallstreetcn.com/articles/3780119</link><guid>f795a46125eacfa2df5bd5c1b19b7237113efd498ee18979a603805d435f084f</guid><pubDate>Mon, 24 Aug 2026 02:20:02 GMT</pubDate><description>&lt;p&gt;AI基础设施领域的并购热潮正在向开发者平台蔓延。&lt;/p&gt;
 &lt;p&gt;据Business Insider报道，知情人士透露，AI模型开发者平台Hugging Face正在探索出售事宜，&lt;strong&gt;潜在估值或达130亿美元乃至更高&lt;/strong&gt;。该公司已委托一家银行评估潜在买家的兴趣，但目前尚未达成任何交易。&lt;strong&gt;这一估值较其2023年的最新融资估值45亿美元大幅跃升，涨幅接近三倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此次出售探索折射出市场对AI生态系统基础设施层的重新定价。&lt;/strong&gt;在OpenAI、Anthropic、Meta等大模型厂商之外，Hugging Face这类为开发者提供模型发现、共享与构建服务的平台，正被视为AI产业成熟化进程中不可或缺的关键节点。&lt;/p&gt;
 &lt;p&gt;分析认为，继支付巨头&lt;a href="https://wallstreetcn.com/articles/3779862"&gt;Stripe近期同意以约80亿美元收购AI模型市场平台OpenRouter&lt;/a&gt;之后，Hugging Face的潜在出售进一步表明，投资者愿意为AI生态系统的核心枢纽支付高溢价，即便这些公司本身并不开发前沿模型。&lt;/p&gt;
@@ -228,7 +279,7 @@
 &lt;p&gt;物流重组带来的成本上升，正在亚洲买家中引发明显分化。&lt;/p&gt;
 &lt;p&gt;据报道，有交易商透露，对于关键的亚洲市场，沙特的整体原油分配量仍远低于伊朗战争爆发前的水平，沙特整体出口量也持续低于战前水平。&lt;strong&gt;高企的运输成本令部分买家开始重新评估采购计划——至少一家东亚炼油商正考虑因额外费用而放弃下月的沙特原油提货。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，能源安全考量在一定程度上压制了成本顾虑。据交易商表示，日本和韩国炼油商基本确定将于下月在锡迪克里尔提取沙特原油，能源安全的优先级高于成本压力。&lt;/p&gt;
-&lt;p&gt;与亚洲买家的困境形成对比，欧洲炼油商在此轮物流重组中意外占得先机。过去一周，多家欧洲炼油商已足额收到9月份的沙特原油分配通知，此前因供应提名流程延迟约一周而引发的担忧得以消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 看破虚妄，抓主要矛盾-特变半年报</title><link>http://xueqiu.com/9941162276/406209685</link><guid>466c4d58e72713973e8cb91c92aa2d6ebd01897447ccd4c99571d50e4fb68271</guid><pubDate>Sun, 23 Aug 2026 14:30:51 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;特变8000亿&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH600089"&gt;$特变电工(SH600089)$&lt;/a&gt; 特变电工半年报公布后，利润不及预期，收入超预期，输变电超预期、煤炭和电费不及预期，多晶硅超预期，储能不及预期，黄金符合预期，多空交织，然而整体怎么样，同样观点多样，看好和不看好的观点相互碰撞。&lt;/p&gt;</description></item><item><title>[今日雪球] 阿里巴巴配售是重大利空？</title><link>http://xueqiu.com/5068022281/406218626</link><guid>63459b0fb790d2a77cf583b927b386547bdad92df2a782dc930ab645d8a58bfe</guid><pubDate>Sun, 23 Aug 2026 14:30:14 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;CobraAntony&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;我之前说过很多平安，小米，还有很多股票的配售或者发债。其实这些行为，它本质上是中性。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年8月24日</title><link>https://wallstreetcn.com/articles/3780045</link><guid>8c0e77a4025ba2887e166b640fa92e317bc7e43d17c05f859d44225c4d76d77b</guid><pubDate>Sun, 23 Aug 2026 23:00:08 GMT</pubDate><description>华见早安之声
+&lt;p&gt;与亚洲买家的困境形成对比，欧洲炼油商在此轮物流重组中意外占得先机。过去一周，多家欧洲炼油商已足额收到9月份的沙特原油分配通知，此前因供应提名流程延迟约一周而引发的担忧得以消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年8月24日</title><link>https://wallstreetcn.com/articles/3780045</link><guid>8c0e77a4025ba2887e166b640fa92e317bc7e43d17c05f859d44225c4d76d77b</guid><pubDate>Sun, 23 Aug 2026 23:00:08 GMT</pubDate><description>华见早安之声
 
 &lt;p&gt;&lt;/p&gt;
 市场概述
