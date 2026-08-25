@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 25 Aug 2026 12:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 小鹏交付回升，机器人启动首轮融资</title><link>https://wallstreetcn.com/articles/3780253</link><guid>126c88f0b406ef48b7c0ec0f131e8203b66e6433800ca1a5888b430a5048ddb2</guid><pubDate>Tue, 25 Aug 2026 10:00:54 GMT</pubDate><description>&lt;p&gt;智能汽车行业的竞争边界，正从卖车延伸至AI与机器人。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 25 Aug 2026 12:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 小鹏交付回升，机器人启动首轮融资</title><link>https://wallstreetcn.com/articles/3780253</link><guid>126c88f0b406ef48b7c0ec0f131e8203b66e6433800ca1a5888b430a5048ddb2</guid><pubDate>Tue, 25 Aug 2026 10:00:54 GMT</pubDate><description>&lt;p&gt;智能汽车行业的竞争边界，正从卖车延伸至AI与机器人。&lt;/p&gt;
 &lt;p&gt;8月24日，小鹏集团发布2026年第二季度财报，并宣布旗下人形机器人业务与多家投资者签署首轮股权融资协议。&lt;/p&gt;
 &lt;p&gt;两件事发生在同一天，勾勒出小鹏现阶段的两条业务线。一方面，汽车交付量从一季度低点明显回升，新车型、海外市场和技术服务收入共同支撑营收；另一方面，机器人业务引入外部资本，获得单独的市场化估值，开始为量产和商业化准备资金。&lt;/p&gt;
 &lt;p&gt;财报显示，小鹏二季度实现营收197.4亿元，同比增长8.0%、环比增长51.5%；综合毛利率为20.7%，连续两个季度保持在20%以上。&lt;/p&gt;
@@ -475,29 +475,7 @@ Agent架构重构：复杂性下沉，界面趋简
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点</title><link>https://wallstreetcn.com/articles/3780195</link><guid>e1e16b72222cfc89f22514020eeb5921310dbd3eb74d34b4f3c4fa3927480d6d</guid><pubDate>Tue, 25 Aug 2026 00:30:39 GMT</pubDate><description>&lt;p&gt;油价走势、英伟达财报与美联储年会，构成本周市场三大变量——但在高盛看来，权重并不相等。&lt;/p&gt;
-&lt;p&gt;高盛One-Delta对冲基金业务主管Rich Privorotsky在最新客户报告中指出，&lt;strong&gt;对于更广泛的股票市场而言，本周油价的重要性很可能超过杰克逊霍尔年会。&lt;/strong&gt;他将美国财政部对伊朗制裁的最新动向列为市场焦点，并警告若制裁直接针对亚洲炼油商，可能在增添新的贸易摩擦。与此同时，英伟达周三发布财报，Privorotsky将其定性为“好坏参半的催化剂”。&lt;/p&gt;
-&lt;p&gt;市场情绪已在上周明显转向。纳斯达克持续跑输大盘，科技股遭遇大规模减仓，AI叙事面临估值重估压力。Privorotsky认为，价格下跌本身正在强化看空叙事——&lt;strong&gt;“价格驱动叙事，跌得够多之后，关于价格通缩、饱和与竞争的老论调突然开始听起来很有说服力。”&lt;/strong&gt;&lt;/p&gt;
-油价：平抑债市的最直接工具
-&lt;p&gt;Privorotsky将油价置于本周所有风险变量之首。他的逻辑链条清晰：上周滞胀篮子资产急剧走高，根源在于能源价格上涨与经济增长走弱的叠加。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“如果美国真的想稳定债券市场，压低能源价格可能是最实际的路径，”&lt;/strong&gt;他写道。他估算，油价每下跌10美元，将有助于改善通胀预期、提振消费者信心、压低长端收益率，并对股市形成支撑。&lt;/p&gt;
-&lt;p&gt;在他看来，AI资本开支垂直拉升之外，宏观基本面并不乐观——劳动力市场走软、消费者表现平庸、财政与库存顺风正在消退。尽管如此，每年逾1万亿美元的AI基础设施投资仍为名义GDP提供支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-英伟达：强劲需求之外的隐忧
-&lt;p&gt;英伟达周三财报是本周科技板块最受关注的事件。&lt;strong&gt;Privorotsky预计需求数据将“强劲得离谱”，营收规模庞大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但他对两个问题存有保留。其一，英伟达正逐渐被市场定位为&amp;quot;AI的中央银行&amp;quot;，围绕其生态系统的融资承诺规模引发关注。其二是内存成本问题——若成本持续上升，英伟达究竟会选择自行吸收、转嫁下游，还是从工程层面降低内存依赖度？&amp;quot;这对内存板块的交易至关重要。&amp;quot;&lt;/p&gt;
-&lt;p&gt;更宏观的AI/半导体板块压力已有迹可循。上周，一个无人知晓开发者身份的免费前沿模型Ox Alpha引发市场关注；OpenAI随后下调GPT-5.6 Sol的API定价。硅数据LLM Token支出指数（SDLLMTK Index）自6月底以来已累计下跌近40%。&lt;/p&gt;
-&lt;p&gt;Privorotsky指出，目前尚无企业表示将削减硬件支出，但股票估值已在主动压缩。博通上周完成600亿美元债务融资，AI建设所需的庞大发债规模开始引发市场警觉——&amp;quot;如果你给&amp;#x27;企业最终无法为所有计划融资&amp;#x27;这一情景赋予任何概率，答案要么是更多股权稀释，要么是削减资本开支，两者都不支持更高的估值倍数。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-杰克逊霍尔：事件风险有限
-&lt;p&gt;杰克逊霍尔年会主要看点将于周五随沃什的主旨演讲落地。Privorotsky对此次会议的事件风险评估偏低。&lt;/p&gt;
-&lt;p&gt;他预计周三公布的7月PCE数据将基本符合预期，核心PCE环比约20个基点，与市场共识一致。&lt;/p&gt;
-&lt;p&gt;对于沃什的演讲，他认为，鉴于美联储已明确转向淡化前瞻指引，&lt;strong&gt;除非沃什大幅偏离其一贯立场，否则难以产生重大市场冲击。&lt;/strong&gt;“大多数人预期基调中性，略带鹰派尾部风险——尽管具体形式尚不明朗，或许体现在资产负债表表态上。”&lt;/p&gt;
-财政干预：象征意义大于实质
-&lt;p&gt;上周市场的核心主线仍是利率。财政部长贝森特的市场干预效果有所消退，但收益率仍低于其介入前水平。&lt;/p&gt;
-&lt;p&gt;Privorotsky认为，此次干预的象征意义对美元和黄金的影响更为深远。&amp;quot;这巩固了一条干预主义路径，而非真正解决财政超支这一根本失衡。&amp;quot;他将长端通胀互换/盈亏平衡利率的上涨以及贵金属的超预期走强，均归因于市场对这一判断的定价。&lt;/p&gt;
-&lt;p&gt;在上述框架下，Privorotsky维持其核心配置观点不变：做多金融股与工业股，持有名义资产，并假设大幅削减赤字的可能性依然有限。“标普+黄金的组合仍然合理，”他写道。对于债券，他倾向于做空，但表示更愿意等待月末更好的技术性入场时机。&lt;/p&gt;
-&lt;p&gt;对于半导体板块，他的判断是：估值最终会提供支撑，但在盈利增长追上当前估值倍数之前——这一过程可能随投资者将目光转向2027年业绩预测而加速——&lt;strong&gt;他难以看到该板块持续突破新高的动力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第三方基金代销机构加速出清，曾经“金牌照”如今淡如水</title><link>https://wallstreetcn.com/articles/3780259</link><guid>685a903c345e9e0fc195a88a99d8e425c91aae8ae0a2d6085154d98cb7cc8427</guid><pubDate>Tue, 25 Aug 2026 10:53:50 GMT</pubDate><description>&lt;p&gt;基金代销行业的中小机构，正在遭遇更快的出清节奏。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第三方基金代销机构加速出清，曾经“金牌照”如今淡如水</title><link>https://wallstreetcn.com/articles/3780259</link><guid>685a903c345e9e0fc195a88a99d8e425c91aae8ae0a2d6085154d98cb7cc8427</guid><pubDate>Tue, 25 Aug 2026 10:53:50 GMT</pubDate><description>&lt;p&gt;基金代销行业的中小机构，正在遭遇更快的出清节奏。&lt;/p&gt;
 &lt;p&gt;近期，景顺长城、汇添富、华夏、浦银基金发布公告，陆续终止与浦领基金销售有限公司（后简称浦领基金）的基金销售业务合作。&lt;/p&gt;
 &lt;p&gt;而在此之前，自2026年2季度以来，浦领基金已对外发布提示公告，称因公司业务战略调整，将停止公募基金销售相关业务，并定于2026年8月31日后正式停止公募基金销售全部服务。&lt;/p&gt;
 &lt;p&gt;这也标志着各方追逐的代销牌照，逐步到了价值回归，业务分化的境地，而浦领基金的“出清”并非个例。&lt;/p&gt;
@@ -532,7 +510,15 @@ Agent架构重构：复杂性下沉，界面趋简
 &lt;p&gt;下周，库克将正式开启苹果生涯的新篇章，以执行董事长身份继续参与公司事务。苹果在公告中表示，库克&amp;quot;将协助公司处理特定事务，包括与全球政策制定者的沟通&amp;quot;。&lt;/p&gt;
 &lt;p&gt;至于Ternus将如何带领苹果走向不同的方向，目前尚不明朗。但据多位知情人士透露，他们预计苹果高层在短期内不会有大的变化，并用一个词来概括这次权力交接：&lt;strong&gt;延续（continuity）&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;这一基调甚至体现在最细节之处——据两位知情人士透露，库克的行政助理将继续留任，为Ternus服务。&lt;/p&gt;
-&lt;p&gt;库克本人在上月最后一次以CEO身份主持的财报电话会议上表示：&amp;quot;交接进展顺畅，我对John即将走马上任、带领苹果迈入新时代感到无比期待。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 农夫山泉上半年营收同比增16%，净利润88.9亿超预期，茶饮料成增长引擎｜财报见闻</title><link>https://wallstreetcn.com/articles/3780263</link><guid>27bb6c1b9ce5c242b9f29d5e73fa3ec75361c7950905d20d66ae69b610b62565</guid><pubDate>Tue, 25 Aug 2026 11:44:44 GMT</pubDate><description>&lt;p&gt;农夫山泉成立30周年之际，交出一份稳健增长的中期成绩单。&lt;/p&gt;
+&lt;p&gt;库克本人在上月最后一次以CEO身份主持的财报电话会议上表示：&amp;quot;交接进展顺畅，我对John即将走马上任、带领苹果迈入新时代感到无比期待。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重演2022危机？高盛：储量过低，欧洲气价今冬或突破100欧元！</title><link>https://wallstreetcn.com/articles/3780262</link><guid>508eb3c41ab0c62e9290b970e4c0e721404c42cfb4fb775469218648dce47f02</guid><pubDate>Tue, 25 Aug 2026 12:10:45 GMT</pubDate><description>&lt;p&gt;欧洲天然气市场正面临新一轮供应压力。高盛警告，若霍尔木兹海峡LNG出口持续受阻，2026年12月TTF天然气期货价格可能突破每兆瓦时100欧元，较此前50欧元的基准预测高出一倍以上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一极端情景背后，是欧洲偏低的储气水平与全球LNG供应趋紧的双重压力。&lt;/strong&gt;荷兰TTF前月期货周一早间一度升至每兆瓦时67欧元，创2023年初以来新高。与此同时，欧洲天然气储气率仅为61.68%，明显低于15年季节性均值72.5%，且8月以来储气注入持续落后于预期。&lt;/p&gt;
+&lt;p&gt;高盛大宗商品分析师Samantha Dart表示，若霍尔木兹海峡出口状况迟迟无法改善，欧洲气价需要进一步上涨，从而吸引更多货源转向欧洲。&lt;/p&gt;
+&lt;p&gt;在最悲观情景下，即波斯湾能源出口直到2027年才缓慢恢复，高盛预计2026年12月TTF价格可能超过每兆瓦时100欧元。&lt;strong&gt;Dart指出，由于LNG价格此前仅在2022年欧洲能源危机期间达到过如此高位，因此对100欧元以上价格下的需求响应规模仍缺乏足够把握，更倾向于将其视为一个“价格发现过程”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+霍尔木兹海峡成关键变量
+&lt;p&gt;高盛认为，霍尔木兹海峡LNG流量能否恢复，是决定欧洲气价后续走势的核心变量。若出口持续受限，欧洲与亚洲之间对LNG的争夺将进一步加剧，TTF需要通过更高价格提升欧洲对LNG现货的吸引力。&lt;/p&gt;
+&lt;p&gt;近期局势出现一定缓和迹象。TotalEnergies首席执行官周一表示，原油目前正“非常平静地”通过这一关键水道。&lt;strong&gt;不过，局势缓和能否进一步带动LNG供应实质性恢复，仍有待观察。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛同时提醒，能源市场的压力并不局限于天然气，&lt;strong&gt;柴油市场同样面临供应紧张。&lt;/strong&gt;对欧洲而言，当前偏低的库存叠加LNG供应受限，使霍尔木兹海峡局势成为决定今冬能源价格与供应安全的关键观察窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 农夫山泉上半年营收同比增16%，净利润88.9亿超预期，茶饮料成增长引擎｜财报见闻</title><link>https://wallstreetcn.com/articles/3780263</link><guid>27bb6c1b9ce5c242b9f29d5e73fa3ec75361c7950905d20d66ae69b610b62565</guid><pubDate>Tue, 25 Aug 2026 11:44:44 GMT</pubDate><description>&lt;p&gt;农夫山泉成立30周年之际，交出一份稳健增长的中期成绩单。&lt;/p&gt;
 &lt;p&gt;8月25日，公司披露2026年中期业绩。&lt;strong&gt;上半年实现营收297.18亿元，同比增长16.0%；净利润88.87亿元，同比增长16.6%，分别高于市场预期的293亿元和86.3亿元。&lt;/strong&gt;毛利同比增长17.1%至180.99亿元，基本每股收益增长16.7%至0.79元。&lt;/p&gt;
 &lt;p&gt;从业务结构看，茶饮料已取代包装饮用水，成为农夫山泉最大的收入来源。上半年茶饮料营收131.22亿元，同比增长30.1%，占总营收的比重升至44.2%；包装饮用水营收96.41亿元，同比增长2.1%，占比降至32.4%。&lt;strong&gt;随着“东方树叶”等产品持续扩张，茶饮料正在成为公司增长的核心引擎。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与此同时，公司整体盈利能力保持稳定。&lt;/strong&gt;上半年毛利率为60.9%，同比提升0.6个百分点，主要受益于高毛利茶饮料占比提升，以及果汁、糖等原材料采购成本下降。行政开支占营收比率则由4.2%降至3.8%，运营效率进一步改善。&lt;/p&gt;
