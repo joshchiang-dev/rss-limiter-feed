@@ -1,55 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 25 Aug 2026 02:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 过去三周，投资机构买入黄金期货规模创纪录！</title><link>https://wallstreetcn.com/articles/3780196</link><guid>80679c290f204e44a3a3eec0ed27ae33a13d8afb3a4a6a20364bfae4471e5155</guid><pubDate>Tue, 25 Aug 2026 00:27:12 GMT</pubDate><description>&lt;p&gt;过去三周，投机性买盘涌入黄金期货市场，规模之大令市场侧目。据高盛期货交易台交易员Robert Quinn援引商品期货交易委员会（COT）持仓报告，7月28日至8月18日，管理型资金、其他类别及非报告类合计净买入黄金期货&lt;strong&gt;222亿美元&lt;/strong&gt;，为逾十年来名义金额最高纪录。&lt;/p&gt;
-&lt;p&gt;这轮买盘由两部分构成：做多增仓贡献136亿美元，空头回补贡献86亿美元。截至统计截止日，黄金净多头仓位在两年回溯区间内已处于&lt;strong&gt;93%分位&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;与此同时，高盛大宗商品策略师此前已向客户表示，对其2026年底4900美元/盎司的黄金目标价存在&amp;quot;显著上行风险&amp;quot;。高盛与瑞银均看多黄金中长期走势，但同时提示短期仓位过热风险，杰克逊霍尔会议成为最大近期变量。&lt;/p&gt;
-三类资金全面入场，CTA被逼空
-&lt;p&gt;据高盛数据，此轮买盘并非单一资金主导，而是三类投资者同步参与：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;管理型资金（Managed Money）：+109亿美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;其他类别（Other）：+85亿美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;非报告类（Non-Reportable）：+28亿美元&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Robert Quinn指出，宏观因素是此轮买盘的主要催化剂。7月美联储议息会议偏鸽派，叠加通胀与就业数据温和，市场下调了2026年多次加息的预期。与此同时，长端利率因经济韧性、AI资本开支、财政压力及全球溢出效应而走高，美债收益率曲线陡峭化。管理型资金和其他类别的多头增仓，与美国2年期至30年期利差（2s30s）呈现正相关。&lt;/p&gt;
-&lt;p&gt;CTA（商品交易顾问）方面同样出现明显转向。高盛CTA模型显示买入信号急剧升温——此前这类系统性策略持有黄金空头，随着金价突破关键技术位，被迫回补空头，进一步放大了上行动能。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-财政部操作点火，金价单周跳涨近6%
-&lt;p&gt;8月18日至21日，行情出现新的加速。&lt;/p&gt;
-&lt;p&gt;美国财政部宣布扩大10年至30年期国债回购规模，长端利率随之上行，美债曲线出现回撤——2s30s单周收窄8个基点。然而黄金并未跟随回调，反而&lt;strong&gt;单周上涨5.9%&lt;/strong&gt;，XAUUSD现货黄金首次突破4500美元/盎司。&lt;/p&gt;
-&lt;p&gt;据瑞银交易台S&amp;amp;T专家Jonathan Garber在周一早间报告中指出，财政部此举被部分市场参与者解读为&amp;quot;试图影响长端定价与曲线走势&amp;quot;，由此引发市场对美元信心的担忧，并强化了对黄金等实物资产的需求。他写道：&lt;strong&gt;&amp;quot;自美国财政部公告以来，我们已看到更多买盘涌现，预计黄金将继续走高。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;黄金总持仓（aggregate open interest）在此期间连续多个交易日上升，累计增加&lt;strong&gt;89亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;8月19日（财政部公告次日）成为当周成交最集中的一天，占全周电子交易量的&lt;strong&gt;27%&lt;/strong&gt;。对冲基金当天执行了其周度成交量的&lt;strong&gt;30%以上&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-瑞银：ETF持续流入，官方储备增持提供支撑
-&lt;p&gt;Jonathan Garber在报告中表示，黄金的上涨&amp;quot;主要通过期货市场驱动，而非场外渠道&amp;quot;，EFP（实物交割溢价）维持高位，期货仓位贡献了市场强势的主要部分。他同时指出，&amp;quot;这一分化解释了为何价格大幅上涨，而客户参与度和场外流量仍相对参差不齐。&amp;quot;&lt;/p&gt;
-&lt;p&gt;不过，瑞银认为ETF需求是当前最强劲的支撑因素之一。黄金ETF持仓已回升至2026年5月高点附近，买入在整个上涨过程中保持持续，与价格走势相互印证。&lt;/p&gt;
-&lt;p&gt;此外，中国央行黄金储备增持速度创2023年以来最快月度纪录，官方部门需求持续存在。&lt;/p&gt;
-&lt;p&gt;在借贷与融资市场，亚洲方面也出现积极信号：新加坡黄金交易溢价高于场外市场，亚洲客户借入伦敦黄金，借贷需求延伸至1至18个月各期限。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-期权市场偏向看涨，但短期风险不容忽视
-&lt;p&gt;期权市场的结构同样发生转变。&lt;/p&gt;
-&lt;p&gt;黄金3个月隐含波动率走高，25 delta看跌/看涨期权偏斜（put-call skew）降至五个月低点，意味着看涨期权相对看跌期权变得更贵，市场对上行敞口的需求明显增强。此外，已实现波动率近期超过隐含波动率，凸显现货市场受消息驱动时的快速波动特征。&lt;/p&gt;
-&lt;p&gt;然而，高盛的Robert Quinn明确提示风险：看涨情绪的快速积聚，意味着一旦出现负面催化剂，战术性平仓的风险随之上升。他特别点名美联储主席Warsh即将在杰克逊霍尔的首次公开亮相——若Warsh释放出对通胀的强硬立场，或对近期市场走势表达不适，可能触发仓位回撤。&lt;/p&gt;
-&lt;p&gt;瑞银同样建议在急涨后保持观望，预计金价将在当前水平附近整固，逐步形成更高的交易区间，而非立即单边上行。&lt;/p&gt;
-预测市场：年内触及5000美元概率超60%
-&lt;p&gt;随着金价持续走强，预测市场的赔率也在快速移动。&lt;/p&gt;
-&lt;p&gt;据预测市场数据，黄金年内触及&lt;strong&gt;5000美元/盎司&lt;/strong&gt;的市场隐含概率，从一周前的&lt;strong&gt;40%&lt;/strong&gt;跳升至目前的&lt;strong&gt;逾60%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;瑞银给出的近期技术参考位如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;阻力位&lt;/strong&gt;：4670、4770、4890&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;支撑位&lt;/strong&gt;：4520、4380、4305&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI</title><link>https://wallstreetcn.com/articles/3780177</link><guid>b112f9ecccf4533463d3006549119c2072db28ad744ae2860bcef54193af82a5</guid><pubDate>Mon, 24 Aug 2026 16:51:22 GMT</pubDate><description>&lt;p&gt;英伟达正在加速把AI基础设施的竞争，从传统的模型训练和推理性能，推进到围绕智能体AI（Agentic AI）的Token生成速度、能耗和成本展开的新阶段。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 25 Aug 2026 03:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI</title><link>https://wallstreetcn.com/articles/3780177</link><guid>b112f9ecccf4533463d3006549119c2072db28ad744ae2860bcef54193af82a5</guid><pubDate>Mon, 24 Aug 2026 16:51:22 GMT</pubDate><description>&lt;p&gt;英伟达正在加速把AI基础设施的竞争，从传统的模型训练和推理性能，推进到围绕智能体AI（Agentic AI）的Token生成速度、能耗和成本展开的新阶段。&lt;/p&gt;
 &lt;p&gt;美东时间24日周一，英伟达宣布面向交互式AI推理的Groq 3 LPX正式全面投产。作为Vera Rubin平台的重要组成部分，Groq 3 LPX主打超低延迟Token生成，英伟达称，在Artificial Analysis测试中，搭载Gemma 4 31B模型、100,000 Token上下文时，Groq 3 LPX实现每秒3400个输出Token，为该模型创下最高纪录；针对智能体编程等低延迟工作负载，其响应速度最高达到最近竞争平台的4倍。&lt;/p&gt;
 &lt;p&gt;同时，英伟达公布Vera Rubin NVL72在真实智能体工作负载下的新测试结果：基于SemiAnalysis的AgentX工作负载、采用DeepSeek V4 Pro模型，Vera Rubin每兆瓦（MW）吞吐量最高达到上一代GB300 NVL72的30倍，每Token成本最高降低35倍。英伟达强调，智能体任务不同于传统聊天或摘要，任务上下文会随着数百个步骤不断累积，甚至达到数十万Token。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -119,7 +69,57 @@ Robotaxi跑通内测，剑指2027年无安全员运营
 &lt;p&gt;转型叙事的另一面是主业压力。二季度小鹏总收入197.4亿元，同比增长8%，环比增长51.5%；&lt;strong&gt;毛利率20.7%，同比提升3.4个百分点，连续两个季度维持在20%以上。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;但净亏损13.4亿元，较上年同期的4.8亿元同比扩大近1.8倍，环比则收窄25.1%；非美国通用会计准则下净亏损12.4亿元。&lt;/p&gt;
 &lt;p&gt;更受关注的是前瞻指引：&lt;strong&gt;公司预计三季度营收217亿至234亿元、交付量11.5万至12.1万辆，显著低于市场预估的272.6亿元与14.7万辆。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小鹏集团副董事长及联席总裁顾宏地表示，行业成本压力下公司依托高端化与国际化突破保持稳定经营，&lt;strong&gt;未来一年将加快物理AI技术量产与商业化，形成业务正向循环。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点</title><link>https://wallstreetcn.com/articles/3780195</link><guid>e1e16b72222cfc89f22514020eeb5921310dbd3eb74d34b4f3c4fa3927480d6d</guid><pubDate>Tue, 25 Aug 2026 00:30:39 GMT</pubDate><description>&lt;p&gt;油价走势、英伟达财报与美联储年会，构成本周市场三大变量——但在高盛看来，权重并不相等。&lt;/p&gt;
+&lt;p&gt;小鹏集团副董事长及联席总裁顾宏地表示，行业成本压力下公司依托高端化与国际化突破保持稳定经营，&lt;strong&gt;未来一年将加快物理AI技术量产与商业化，形成业务正向循环。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 过去三周，投资机构买入黄金期货规模创纪录！</title><link>https://wallstreetcn.com/articles/3780196</link><guid>80679c290f204e44a3a3eec0ed27ae33a13d8afb3a4a6a20364bfae4471e5155</guid><pubDate>Tue, 25 Aug 2026 00:27:12 GMT</pubDate><description>&lt;p&gt;过去三周，投机性买盘涌入黄金期货市场，规模之大令市场侧目。据高盛期货交易台交易员Robert Quinn援引商品期货交易委员会（COT）持仓报告，7月28日至8月18日，管理型资金、其他类别及非报告类合计净买入黄金期货&lt;strong&gt;222亿美元&lt;/strong&gt;，为逾十年来名义金额最高纪录。&lt;/p&gt;
+&lt;p&gt;这轮买盘由两部分构成：做多增仓贡献136亿美元，空头回补贡献86亿美元。截至统计截止日，黄金净多头仓位在两年回溯区间内已处于&lt;strong&gt;93%分位&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;与此同时，高盛大宗商品策略师此前已向客户表示，对其2026年底4900美元/盎司的黄金目标价存在&amp;quot;显著上行风险&amp;quot;。高盛与瑞银均看多黄金中长期走势，但同时提示短期仓位过热风险，杰克逊霍尔会议成为最大近期变量。&lt;/p&gt;
+三类资金全面入场，CTA被逼空
+&lt;p&gt;据高盛数据，此轮买盘并非单一资金主导，而是三类投资者同步参与：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;管理型资金（Managed Money）：+109亿美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他类别（Other）：+85亿美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非报告类（Non-Reportable）：+28亿美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Robert Quinn指出，宏观因素是此轮买盘的主要催化剂。7月美联储议息会议偏鸽派，叠加通胀与就业数据温和，市场下调了2026年多次加息的预期。与此同时，长端利率因经济韧性、AI资本开支、财政压力及全球溢出效应而走高，美债收益率曲线陡峭化。管理型资金和其他类别的多头增仓，与美国2年期至30年期利差（2s30s）呈现正相关。&lt;/p&gt;
+&lt;p&gt;CTA（商品交易顾问）方面同样出现明显转向。高盛CTA模型显示买入信号急剧升温——此前这类系统性策略持有黄金空头，随着金价突破关键技术位，被迫回补空头，进一步放大了上行动能。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+财政部操作点火，金价单周跳涨近6%
+&lt;p&gt;8月18日至21日，行情出现新的加速。&lt;/p&gt;
+&lt;p&gt;美国财政部宣布扩大10年至30年期国债回购规模，长端利率随之上行，美债曲线出现回撤——2s30s单周收窄8个基点。然而黄金并未跟随回调，反而&lt;strong&gt;单周上涨5.9%&lt;/strong&gt;，XAUUSD现货黄金首次突破4500美元/盎司。&lt;/p&gt;
+&lt;p&gt;据瑞银交易台S&amp;amp;T专家Jonathan Garber在周一早间报告中指出，财政部此举被部分市场参与者解读为&amp;quot;试图影响长端定价与曲线走势&amp;quot;，由此引发市场对美元信心的担忧，并强化了对黄金等实物资产的需求。他写道：&lt;strong&gt;&amp;quot;自美国财政部公告以来，我们已看到更多买盘涌现，预计黄金将继续走高。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;黄金总持仓（aggregate open interest）在此期间连续多个交易日上升，累计增加&lt;strong&gt;89亿美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;8月19日（财政部公告次日）成为当周成交最集中的一天，占全周电子交易量的&lt;strong&gt;27%&lt;/strong&gt;。对冲基金当天执行了其周度成交量的&lt;strong&gt;30%以上&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+瑞银：ETF持续流入，官方储备增持提供支撑
+&lt;p&gt;Jonathan Garber在报告中表示，黄金的上涨&amp;quot;主要通过期货市场驱动，而非场外渠道&amp;quot;，EFP（实物交割溢价）维持高位，期货仓位贡献了市场强势的主要部分。他同时指出，&amp;quot;这一分化解释了为何价格大幅上涨，而客户参与度和场外流量仍相对参差不齐。&amp;quot;&lt;/p&gt;
+&lt;p&gt;不过，瑞银认为ETF需求是当前最强劲的支撑因素之一。黄金ETF持仓已回升至2026年5月高点附近，买入在整个上涨过程中保持持续，与价格走势相互印证。&lt;/p&gt;
+&lt;p&gt;此外，中国央行黄金储备增持速度创2023年以来最快月度纪录，官方部门需求持续存在。&lt;/p&gt;
+&lt;p&gt;在借贷与融资市场，亚洲方面也出现积极信号：新加坡黄金交易溢价高于场外市场，亚洲客户借入伦敦黄金，借贷需求延伸至1至18个月各期限。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+期权市场偏向看涨，但短期风险不容忽视
+&lt;p&gt;期权市场的结构同样发生转变。&lt;/p&gt;
+&lt;p&gt;黄金3个月隐含波动率走高，25 delta看跌/看涨期权偏斜（put-call skew）降至五个月低点，意味着看涨期权相对看跌期权变得更贵，市场对上行敞口的需求明显增强。此外，已实现波动率近期超过隐含波动率，凸显现货市场受消息驱动时的快速波动特征。&lt;/p&gt;
+&lt;p&gt;然而，高盛的Robert Quinn明确提示风险：看涨情绪的快速积聚，意味着一旦出现负面催化剂，战术性平仓的风险随之上升。他特别点名美联储主席Warsh即将在杰克逊霍尔的首次公开亮相——若Warsh释放出对通胀的强硬立场，或对近期市场走势表达不适，可能触发仓位回撤。&lt;/p&gt;
+&lt;p&gt;瑞银同样建议在急涨后保持观望，预计金价将在当前水平附近整固，逐步形成更高的交易区间，而非立即单边上行。&lt;/p&gt;
+预测市场：年内触及5000美元概率超60%
+&lt;p&gt;随着金价持续走强，预测市场的赔率也在快速移动。&lt;/p&gt;
+&lt;p&gt;据预测市场数据，黄金年内触及&lt;strong&gt;5000美元/盎司&lt;/strong&gt;的市场隐含概率，从一周前的&lt;strong&gt;40%&lt;/strong&gt;跳升至目前的&lt;strong&gt;逾60%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;瑞银给出的近期技术参考位如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;阻力位&lt;/strong&gt;：4670、4770、4890&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;支撑位&lt;/strong&gt;：4520、4380、4305&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点</title><link>https://wallstreetcn.com/articles/3780195</link><guid>e1e16b72222cfc89f22514020eeb5921310dbd3eb74d34b4f3c4fa3927480d6d</guid><pubDate>Tue, 25 Aug 2026 00:30:39 GMT</pubDate><description>&lt;p&gt;油价走势、英伟达财报与美联储年会，构成本周市场三大变量——但在高盛看来，权重并不相等。&lt;/p&gt;
 &lt;p&gt;高盛One-Delta对冲基金业务主管Rich Privorotsky在最新客户报告中指出，&lt;strong&gt;对于更广泛的股票市场而言，本周油价的重要性很可能超过杰克逊霍尔年会。&lt;/strong&gt;他将美国财政部对伊朗制裁的最新动向列为市场焦点，并警告若制裁直接针对亚洲炼油商，可能在增添新的贸易摩擦。与此同时，英伟达周三发布财报，Privorotsky将其定性为“好坏参半的催化剂”。&lt;/p&gt;
 &lt;p&gt;市场情绪已在上周明显转向。纳斯达克持续跑输大盘，科技股遭遇大规模减仓，AI叙事面临估值重估压力。Privorotsky认为，价格下跌本身正在强化看空叙事——&lt;strong&gt;“价格驱动叙事，跌得够多之后，关于价格通缩、饱和与竞争的老论调突然开始听起来很有说服力。”&lt;/strong&gt;&lt;/p&gt;
 油价：平抑债市的最直接工具
@@ -227,7 +227,36 @@ Robotaxi跑通内测，剑指2027年无安全员运营
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;09:21&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.46%，恒生科技指数涨0.18%。零跑汽车、阿里巴巴、小米集团走强。小鹏集团跌逾8%，联想集团、理想汽车跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从增收不增利到净利增近五成，石头科技利润开始修复</title><link>https://wallstreetcn.com/articles/3780208</link><guid>150c06b424efe2f6b18f57cc709092854851b26a52ce5ae827f1950c16a7be06</guid><pubDate>Tue, 25 Aug 2026 01:19:39 GMT</pubDate><description>&lt;p&gt;8月24日，石头科技披露2026年半年报。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 字节加入企业办公Agent大战：发布“豆包工作”</title><link>https://wallstreetcn.com/articles/3780216</link><guid>1a345204c2b7465302d30aa7630fff7a0c78d60636613ded0dafdbb2635f7f57</guid><pubDate>Tue, 25 Aug 2026 03:00:20 GMT</pubDate><description>&lt;p&gt;8月25日，字节跳动旗下豆包正式发布面向企业办公场景的Agent——豆包工作。&lt;/p&gt;
+&lt;p&gt;“豆包工作”定位为面向生产力场景的企业级Agent产品。据官方介绍，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。目前，豆包工作电脑版已可通过官网下载，用户也可在最新豆包电脑版中直接使用。下载登录或升级后，可免费领取30天订阅权益。&lt;/p&gt;
+&lt;p&gt;这场由腾讯、阿里、百度已经打响的办公Agent争夺战，又多了一个重量级玩家。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+能做什么：从生成内容到操控电脑
+&lt;p&gt;豆包工作的基础能力覆盖写方案、整理会议纪要、起草报告、做调研总结、表格分析等日常办公场景。&lt;/p&gt;
+&lt;p&gt;在内容生成类型上，据官方介绍，豆包工作支持文档、表格、PPT、图片、视频、网页和应用等多种内容生成及编辑。&lt;/p&gt;
+&lt;p&gt;编辑方式上，豆包工作提供“指哪改哪”的协作编辑能力——用户框选文档、表格、PPT或网页中的任意部分即可定点修改，无需重新生成整个内容。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在更复杂的任务场景中，豆包工作可在用户授权后直接操作浏览器和电脑，跨软件处理数据、收集信息、填写表单、比对资料。长时间任务还可调用云电脑持续执行，即使本机关机也不中断。此外，用户可通过手机远程操控电脑，在外出时继续推进未完成的工作。&lt;/p&gt;
+&lt;p&gt;多Agent协作方面，用户可调用数据分析、内容策划、科研、金融等不同专业方向的工具，也可组建多个专业Agent“工作小队”分工协作，例如制作数据调研报告时，联动数据、研究、设计类智能体协同推进。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+与飞书打通：企业上下文是核心差异
+&lt;p&gt;豆包工作区别于一般Agent工具的关键，在于与飞书的深度打通。&lt;/p&gt;
+&lt;p&gt;用飞书账号登录后，豆包工作可在用户权限范围内调用飞书中沉淀的聊天记录、文档、会议纪要、日程等信息，基于真实企业上下文完成任务，而不只是依赖用户输入的一句指令。&lt;/p&gt;
+&lt;p&gt;官方表示，用户与豆包工作共同创作的内容和知识，也会持续沉淀回飞书，成为可二次编辑、分享和复用的企业知识资产。豆包工作发布后，飞书内原有的豆包企业版入口已同步升级为豆包工作。&lt;/p&gt;
+&lt;p&gt;在安全层面，豆包工作继承飞书既有权限体系，用户只可在本人权限范围内读取数据和使用工具，个人数据与企业数据相互隔离，覆盖设备接入、权限设置、额度管控、数据加密、操作审计全链路。目前，豆包工作已成为国内首批通过办公智能体能力与云端基准测试双项认证的办公智能体。&lt;/p&gt;
+办公Agent大战进入“四国杀”
+&lt;p&gt;&lt;strong&gt;阿里千问办公、腾讯WorkBuddy、百度“库库AI”的竞争已经白热化。&lt;/strong&gt;豆包工作的发布，是字节在一场已经激烈展开的竞争中正式亮牌。&lt;/p&gt;
+&lt;p&gt;8月14日，阿里千问办公宣布上线智谱GLM-5.3和DeepSeek V4 Pro两款外部模型；同日，百度文库旗下通用智能体正式启用中文名“库库AI”，并推出独立桌面端，同样引入DeepSeek、智谱GLM等外部模型。腾讯WorkBuddy的内置模型池则已涵盖混元Hy3、智谱GLM、MiniMax、Kimi、DeepSeek等多个系列。&lt;/p&gt;
+&lt;p&gt;字节旗下此前已有TRAE Work，内置模型包括字节Seed系列、智谱GLM、DeepSeek及千问等。此次豆包工作的发布，是字节在企业办公Agent赛道上的进一步布局。&lt;/p&gt;
+&lt;p&gt;从腾讯、字节到阿里、百度，国内头部厂商的办公Agent正在不约而同走向模型聚合模式。据&lt;a href="https://wallstreetcn.com/articles/3779573?keyword=agent"&gt;华尔街见闻文章分析&lt;/a&gt;，“过去大模型产品争的是‘谁家的模型更强’，到了办公Agent阶段，竞争逻辑开始出现变化：先把不同模型放进同一个工作台，让更多用户愿意把真实工作交进来。”&lt;/p&gt;
+&lt;p&gt;真实工作流数据，正成为这场竞争的核心筹码。&lt;/p&gt;
+&lt;p&gt;百度集团副总裁、个人超级智能事业群总裁王颖表示，“随着公共数据逐渐被模型充分学习，AI继续提升的过程中人产生的新知识、新经验和新想法会越来越重要。”&lt;/p&gt;
+&lt;p&gt;但聚合模型只是第一步。下一个关键问题是路由——同一项任务该调用哪个模型。&lt;strong&gt;大模型落地存在效果、速度、成本三者难以兼顾的权衡，“办公Agent一旦进入大规模使用，几分钱、几毛钱的单次调用差异，都会随着任务量被不断放大。”&lt;/strong&gt;&lt;/p&gt;
+高盛调研：Agent进入执行时代，AI竞争转向工作流
+&lt;p&gt;这一判断，与高盛近期对硅谷AI产业链的实地考察结论方向一致。&lt;/p&gt;
+&lt;p&gt;高盛认为AI商业化正从“按席位订阅”转向按消费量、交易量和结果收费；与此同时，Agent正从辅助工具走向工作流执行者，产业价值也在从模型本身向专有数据、业务上下文和领域专业能力迁移。&lt;/p&gt;
+&lt;p&gt;这意味着，AI产业竞争正在从“谁的模型更强”转向“谁能真正掌握工作流”。模型能力依然重要，但能否进入企业生产环境、理解业务上下文并稳定完成任务，将成为更关键的竞争壁垒。&lt;/p&gt;
+&lt;p&gt;高盛预计，未来5年算力需求可能增长约24倍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从增收不增利到净利增近五成，石头科技利润开始修复</title><link>https://wallstreetcn.com/articles/3780208</link><guid>150c06b424efe2f6b18f57cc709092854851b26a52ce5ae827f1950c16a7be06</guid><pubDate>Tue, 25 Aug 2026 01:19:39 GMT</pubDate><description>&lt;p&gt;8月24日，石头科技披露2026年半年报。&lt;/p&gt;
 &lt;p&gt;上半年，公司实现营业收入100.84亿元，同比增长27.60%；归母净利润9.86亿元，同比增长45.60%；扣非归母净利润8.03亿元，同比增长60.74%。经营活动产生的现金流量净额为3.98亿元，较上年同期的-8.23亿元转正。&lt;/p&gt;
 &lt;p&gt;这份半年报更值得关注的，是利润增速重新超过收入增速。&lt;/p&gt;
 &lt;p&gt;2025年，石头科技曾经历明显的“增收不增利”，全年营收186.95亿元，同比增长56.51%，归母净利润却下降31.03%至13.63亿元；2025年上半年归母净利润也同比下降39.55%。&lt;/p&gt;
@@ -255,23 +284,4 @@ Robotaxi跑通内测，剑指2027年无安全员运营
 行业分化加剧，超大规模云厂商占据双重优势
 &lt;p&gt;Citadel Securities的分析勾勒出AI行业日益清晰的两极格局：&lt;strong&gt;一端是OpenAI、Anthropic等纯前沿实验室，以智能本身为产品；另一端是谷歌、微软等多元化超大规模云厂商，无论哪个模型最终胜出，均可通过覆盖全栈实现变现。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在这一框架下，前沿模型将专注于高价值任务，包括规划、推理、编程与任务编排，在较小的token份额上获取溢价收益；而更廉价或开源模型则承担高并发的执行层工作。前沿实验室或在高端任务上保有定价权，但超大规模云厂商和推理服务提供商则同时受益于两个层级——因为无论何种工作负载，都离不开芯片、内存、网络与电力。&lt;/p&gt;
-&lt;p&gt;这一逻辑的落脚点在于：前沿模型负责规划，廉价模型负责执行，而&amp;quot;已通电算力&amp;quot;的拥有者，将同时收割两端的经济价值。对于投资者而言，在AI商业化路径仍存不确定性的背景下，掌握物理算力基础设施的超大规模云厂商，或许是这场竞赛中风险收益比最为确定的标的。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元：还能涨多少？</title><link>https://wallstreetcn.com/articles/3780202</link><guid>f08ea0945304444b0f97934fd9560b73d1ab5cf7c91eb45f8c68c48c67e63069</guid><pubDate>Tue, 25 Aug 2026 01:35:52 GMT</pubDate><description>上周欧元表现亮眼，突破前期1.16的关键阻力位后冲高到1.17上方，周五晚间略有回落。本周一开盘后欧元继续回落，是中场休息，还是上涨已结束？
-一、欧元本轮上涨的推动因素
-&lt;p&gt;第一，欧美经济预期差持续走阔，对欧元构成基本面支撑。欧元区8月经济数据全面回暖：制造业PMI初值升至52.8，创2022年5月以来新高；服务业PMI维持51.7；综合PMI录得52.1，刷新9个月高位。反观美国，非农就业、零售销售等核心数据持续走弱，欧美花旗经济意外指数之差上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;第二，欧美利差利好欧元，2年德美利差自7月以来上行30bp，推动EURUSD上行。利率市场定价欧央行9月加息概率高达95%，加息基本落地。而美联储9月加息概率仅35%，叠加美国经济数据持续转弱，9月大概率暂停加息。受11月中期选举影响，如果9月美联储不加息，那么10月也不太可能开启加息周期，历史上美联储从未在国会选举的前一次议息会议上启动加息周期。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;第三，美元信用担忧升温，美元多头持续撤退。本轮欧元突破200日均线上行的诱因是美国财政部宣布翻倍加码长债回购。此举引发市场对美国债务隐患、美元信用体系的担忧，拥挤的欧元空头平仓。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-二、后续能否延续上涨行情？
-&lt;p&gt;上述利多欧元因素预计仍将在中长期支持欧元上涨，从期权市场定价来看，EURUSD RR走高，3M 25D RR来到今年3月以来的高位，预示市场仍看多欧元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;不过，短期欧元回调风险加大，上方压制因素包括：&lt;/p&gt;
-&lt;p&gt;一方面，能源价格维持高位，利空欧元区贸易条件。当前布油价格仍在90美元上方，欧洲天然气价格维持高位。不排除在中期选举前伊朗局势进一步升级风险。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;另一方面，德国政治不确定性抑制上行空间。9月份德国将进行秋季州选举，若选择党（AfD）选举表现超预期，将导致欧洲政治风险升温、利空欧元。&lt;/p&gt;
-三、总结
-&lt;p&gt;1. 尽管欧元中期利好逻辑未变（欧洲经济超预期、欧央行加息，以及美国债务问题对美元信誉的担忧），但短期内这部分利好可能已经消化，短期内欧元想要单边上涨突破1.18缺乏进一步推动因素。&lt;/p&gt;
-&lt;p&gt;2.能源价格持续维持高位对欧元上方构成压制，技术面上EURUSD可能会先需要回踩1.16-1.1630附近，建议等回调布局多头。&lt;/p&gt;
-&lt;p&gt;3. 本周重点关注事件是杰克逊霍尔会议，主题为“金融创新：对支付与政策的影响”。美联储主席沃什（北京时间8月28日晚上10点讲话）大概率不会对9月会议提供暗示，市场波动可能有限，预计本周市场可能会延续低波动行情。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="http://mp.weixin.qq.com/s?__biz=MzI5NTk2MTQ1OA==&amp;amp;mid=2247498939&amp;amp;idx=1&amp;amp;sn=8ba1e006b60a186f86cdbb89fa0fcc0d&amp;amp;chksm=ede8b39966586bdf8afd1256b20e09dd6784e1e40b16318c9e539268a479a1afd845cea8a5d8&amp;amp;scene=126&amp;amp;sessionid=1787614062"&gt;早安汇市&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这一逻辑的落脚点在于：前沿模型负责规划，廉价模型负责执行，而&amp;quot;已通电算力&amp;quot;的拥有者，将同时收割两端的经济价值。对于投资者而言，在AI商业化路径仍存不确定性的背景下，掌握物理算力基础设施的超大规模云厂商，或许是这场竞赛中风险收益比最为确定的标的。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
