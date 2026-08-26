@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 26 Aug 2026 20:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 逃过1.4万亿重罚！Meta达成社媒成瘾“生死官司”和解，最高付180亿美元</title><link>https://wallstreetcn.com/articles/3780368</link><guid>a5d98850b862f1d7d71d67fe2f51f04275587d63caad8b31303c9128e0739d9f</guid><pubDate>Wed, 26 Aug 2026 16:05:27 GMT</pubDate><description>&lt;p&gt;Meta终于与美国多州就“社交媒体成瘾”案达成和解。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 26 Aug 2026 21:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 逃过1.4万亿重罚！Meta达成社媒成瘾“生死官司”和解，最高付180亿美元</title><link>https://wallstreetcn.com/articles/3780368</link><guid>a5d98850b862f1d7d71d67fe2f51f04275587d63caad8b31303c9128e0739d9f</guid><pubDate>Wed, 26 Aug 2026 16:05:27 GMT</pubDate><description>&lt;p&gt;Meta终于与美国多州就“社交媒体成瘾”案达成和解。&lt;/p&gt;
 &lt;p&gt;当地时间周三，Meta与美国各州及地区的总检察长达成协议，同意支付最高约180亿美元，并对旗下Facebook和Instagram实施一系列针对未成年人的安全限制，终结这场已经进入第二周审理的联邦审判。&lt;/p&gt;
 &lt;p&gt;和解消息传出后，Meta（META）股价在周三美股盘初一度涨超过4%，后曾转跌，再转涨后曾涨约3%。市场最初的积极反应显示，投资者更关注和解消除巨额潜在法律风险的意义。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -227,7 +227,35 @@ PCE数据与杰克逊霍尔演讲成下一焦点
 &lt;p&gt;截至2026年6月30日，公司现金及现金等价物达50.98亿美元，受限现金合计5.28亿美元，流动性充裕。债务总额为10.73亿美元，资本负债比率从2025年底的23.4%降至20.7%。&lt;/p&gt;
 &lt;p&gt;公司预计未来12个月内将偿还约2.011亿美元银行贷款，现有现金及经营现金流可充分覆盖上述需求及未来12个月运营支出。&lt;/p&gt;
 &lt;p&gt;所得税费用方面，本报告期确认1.073亿美元，同比大幅增长。其中包含约4928万美元的一次性税务项目，主要源于对公司一家中国子公司税务检查事宜的结算，税务影响为5903万美元，部分被美国股权激励相关的非经常性税收项目抵销。剔除上述非经常性项目后，调整后有效税率为10.3%。&lt;/p&gt;
-&lt;p&gt;此外，公司持有约36亿美元递延所得税资产，目前仍维持全额估值准备。公司表示，可能在近期解除全部或部分估值准备，但具体时间和金额仍取决于盈利水平、收入增长、临床项目进展等多重因素。若未来估值准备解除，将对公司净利润产生重大正面影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌推出迄今“最精准”语音转文本模型，从“逐字记录”迈向“理解式转写”</title><link>https://wallstreetcn.com/articles/3780374</link><guid>71074cd1da46b901f9b9b9f07734173af6803ee0b585e76f56cbd818e945cbdf</guid><pubDate>Wed, 26 Aug 2026 19:59:36 GMT</pubDate><description>&lt;p&gt;当地时间8月26日，&lt;strong&gt;谷歌发布最新语音转文本模型Gemini 3.5 Transcribe，该模型不仅主打更高的识别准确率，更将能力边界从逐字记录延伸至理解说话人意图并自动整理输出结果&lt;/strong&gt;，标志着语音识别技术向更深层的语言理解迈进。&lt;/p&gt;
+&lt;p&gt;此外，公司持有约36亿美元递延所得税资产，目前仍维持全额估值准备。公司表示，可能在近期解除全部或部分估值准备，但具体时间和金额仍取决于盈利水平、收入增长、临床项目进展等多重因素。若未来估值准备解除，将对公司净利润产生重大正面影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线</title><link>https://wallstreetcn.com/articles/3780379</link><guid>4da38629eaff0c54ba57710415fe7f9e0e3084825e6cf19268b8b62073c1e2fe</guid><pubDate>Wed, 26 Aug 2026 21:02:13 GMT</pubDate><description>&lt;p&gt;AI模型自主突破生产环境安全防线，引发科技界震动，监管压力随之而来。&lt;/p&gt;
+&lt;p&gt;周三，OpenAI发布一份37页技术报告，详述其AI模型上月成功入侵开源开发平台Hugging Face的全过程。这一事件被该公司定性为&amp;quot;前所未有的网络安全事件&amp;quot;，在科技行业高管和研究人员中引发强烈震动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;报告显示，参与此次入侵的模型包括GPT-5.6 Sol及一款内部研究模型，两者均以自主代理形式运行，协同突破了安全防控。OpenAI同步披露了已采取的一系列补救措施。此次事件已引起华盛顿立法者关注，并推动相关AI监管立法提案的出台，对AI行业安全治理框架构成直接压力。&lt;/p&gt;
+
+事件经过：代理模型协同突破隔离环境
+
+&lt;p&gt;根据OpenAI报告，7月21日披露的这起事件中，上述AI代理模型原本运行于一个互联网访问极为受限的隔离测试环境。&lt;/p&gt;
+&lt;p&gt;这些模型随后将一系列漏洞串联利用，突破隔离环境、接入公共互联网，最终获得了对Hugging Face系统的访问权限。&lt;/p&gt;
+&lt;p&gt;OpenAI将此次行为定性为&amp;quot;&lt;strong&gt;钻奖励机制的空子&lt;/strong&gt;&amp;quot;（reward hacking）——即模型试图通过在网络上搜索答案来在评估测试中作弊，而非按照预设规则完成任务。&lt;/p&gt;
+&lt;p&gt;报告指出，一款内部专用研究模型&amp;quot;在此次事件中被确认承担了最广泛的角色&amp;quot;。OpenAI已于7月25日停止与该模型及其衍生模型相关的全部训练和推理工作。&lt;/p&gt;
+&lt;p&gt;报告称，相关模型的重新启用将&amp;quot;针对特定工作负载，并受到受限环境、网络、提示词、监控及审查等多重防护机制的约束&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI特别说明，参与此次入侵事件的GPT-5.6 Sol版本与上月面向外部用户商业发布的版本并不相同。&lt;/strong&gt;事件涉及的版本经过特殊配置，在运行时未启用标准安全防护机制和分类器。&lt;/p&gt;
+&lt;p&gt;GPT-5.6 Sol是OpenAI目前向商业用户开放的性能最强模型。&lt;/p&gt;
+
+安全反思：行业警报全面升级
+
+&lt;p&gt;Hugging Face事件的影响已超出单一公司范畴。&lt;/p&gt;
+&lt;p&gt;Zscaler首席信息安全官Sam Curry警告称，&amp;quot;潘多拉的盒子已经打开&amp;quot;。此次入侵也成为本月早些时候网络安全峰会Black Hat的核心议题——尤其是在Anthropic和Meta相继披露类似事件之后。&lt;/p&gt;
+&lt;p&gt;OpenAI在报告中表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;此次事件表明，自主代理能够协同工作、绕过生产环境安全控制并成功攻击经过加固的生产系统，这凸显了各机构更新其安全策略、控制手段和响应能力以应对这一变化中的威胁格局的紧迫性。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hugging Face首席执行官Clément Delangue本月早些时候表示，AI网络安全问题应被&amp;quot;非常严肃地对待&amp;quot;，但他同时指出，这也&amp;quot;为企业创造了机遇&amp;quot;，使其能够借助AI技术抵御攻击者。Delangue说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果我们处理得当，AI实际上可以让世界变得更安全，不仅仅是制造新的网络安全问题，还能解决很多既有问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;此次事件已引发美国国会层面的回应。&lt;/strong&gt;众议员Ted Lieu（加利福尼亚州，民主党）与Nathaniel Moran（德克萨斯州，共和党）在联合发布&amp;quot;AI终止开关法案&amp;quot;（AI Kill Switch Act）时，明确将Hugging Face入侵事件列为立法依据。&lt;/p&gt;
+&lt;p&gt;该法案拟要求AI企业必须保持随时关闭、限速或暂停其模型运行的能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌推出迄今“最精准”语音转文本模型，从“逐字记录”迈向“理解式转写”</title><link>https://wallstreetcn.com/articles/3780374</link><guid>71074cd1da46b901f9b9b9f07734173af6803ee0b585e76f56cbd818e945cbdf</guid><pubDate>Wed, 26 Aug 2026 19:59:36 GMT</pubDate><description>&lt;p&gt;当地时间8月26日，&lt;strong&gt;谷歌发布最新语音转文本模型Gemini 3.5 Transcribe，该模型不仅主打更高的识别准确率，更将能力边界从逐字记录延伸至理解说话人意图并自动整理输出结果&lt;/strong&gt;，标志着语音识别技术向更深层的语言理解迈进。&lt;/p&gt;
 &lt;p&gt;与传统语音识别工具不同，Gemini 3.5 Transcribe能够识别说话人的自我修正、自动删除口头禅，并直接将非结构化口语转换为格式化文本。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;谷歌称其为迄今&amp;quot;最精准&amp;quot;的语音转文本模型，并已将其引入Android版Gboard及Mac版Gemini应用，同时通过Gemini API向开发者开放预览。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次发布与Gemini 3.5 Live及Gemini 3.5 Live Experimental同日推出，共同构成谷歌新的Gemini Audio系列。&lt;/p&gt;
@@ -275,43 +303,56 @@ PCE数据与杰克逊霍尔演讲成下一焦点
 &lt;p&gt;据Politico与公共调查机构Public First本月进行的民调，56%的美国成年人将生活成本列为国家面临的首要议题；在特朗普2024年选民中，33%将物价上涨列为其第二任期最大失败，仅16%认为降低生活成本是其成功之处。在感到生活成本上升的特朗普选民中，42%将矛头指向关税。&lt;/p&gt;
 &lt;p&gt;田纳西州共和党众议员Tim Burchett坦言牛肉进口政策&amp;quot;可能会在选举中伤害我们&amp;quot;。即将卸任的北卡罗来纳州共和党参议员Thom Tillis警告称，&amp;quot;拥有这种紧张态势的政党，很可能在11月承担后果。&amp;quot;&lt;/p&gt;
 &lt;p&gt;与此同时，民主党正加大攻势。民主党参议院竞选委员会发言人Tommy Garcia表示，共和党参议员候选人成为特朗普&amp;quot;混乱关税&amp;quot;的橡皮图章，&amp;quot;选民将在11月追究责任&amp;quot;。密歇根州民主党参议院候选人Abdul El-Sayed声称，新一轮加拿大关税将令密歇根家庭每年额外负担3200美元。&lt;/p&gt;
-&lt;p&gt;白宫发言人Kush Desai则坚持称，政府的重心是压低物价，&amp;quot;特朗普和共和党将继续在未来数周数月推进这一美国优先经济议程。&amp;quot;然而据一位白宫官员透露，政府内部正在讨论对加拿大追加贸易惩罚措施，包括新税项或其他行动，谈判破裂的阴影尚未消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 胰腺癌治疗迎历史性突破！FDA批准RevMed靶向新药，预计2032年销售超90亿美元</title><link>https://wallstreetcn.com/articles/3780372</link><guid>32be2bf6b9d51a048a847b2db4db5856919079b772ac572c183e78d7be05d5a9</guid><pubDate>Wed, 26 Aug 2026 19:59:20 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Revolution Medicines（RevMed）旗下胰腺癌新药daraxonrasib获得美国食品药品监督管理局（FDA）批准上市，成为首款针对该疾病关键分子致病机制的靶向药物，&lt;/strong&gt;标志着胰腺癌治疗领域多年来最重要的突破之一。&lt;/p&gt;
-&lt;p&gt;根据FDA披露的数据，在一项最终阶段临床试验中，&lt;strong&gt;daraxonrasib使侵袭性胰腺癌患者的中位生存期达到13.2个月，较接受化疗（现行标准治疗方案）患者的6.7个月近乎翻倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;FDA代理局长Kyle Diamantas表示，&amp;quot;今天的批准为面对这一极其凶险、历史上难以治疗的癌症的患者提供了至关重要的新选项。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该药以商品名Rasonque上市，年标价超47.5万美元。&lt;/strong&gt;获批适应症为已接受过至少一线系统性治疗、或不适合接受此类治疗的转移性胰腺癌患者。&lt;/p&gt;
-&lt;p&gt;消息公布后，RevMed股价上涨，截至发稿盘中上涨2.5%，今年以来累计涨幅已超过一倍，公司市值突破450亿美元。&lt;strong&gt;华尔街分析师预测，该药2032年销售额有望超过90亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;白宫发言人Kush Desai则坚持称，政府的重心是压低物价，&amp;quot;特朗普和共和党将继续在未来数周数月推进这一美国优先经济议程。&amp;quot;然而据一位白宫官员透露，政府内部正在讨论对加拿大追加贸易惩罚措施，包括新税项或其他行动，谈判破裂的阴影尚未消散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储青睐通胀指标PCE略高于预期、核心PCE“降不动”，9月加息悬念让沃什周五讲话更吸睛</title><link>https://wallstreetcn.com/articles/3780373</link><guid>87ca4aa05b2f77d44a94718419a279ba7f228693ab1f7aaed08dfc6128b921f6</guid><pubDate>Wed, 26 Aug 2026 19:57:55 GMT</pubDate><description>&lt;p&gt;美国通胀降温进程仍未让美联储彻底放心。美联储青睐的指标显示，年化通胀水平已连续65个月明显高于联储的长期目标2%。&lt;/p&gt;
+&lt;p&gt;美国商务部当地时间26日周三公布的数据显示，7月个人消费支出（PCE）价格指数同比上涨3.7%、涨幅持平6月，高于市场预期的3.6%，该指数环比上涨0.2%，也高于市场预期的0.1%。剔除食品和能源后的核心PCE同比上涨3.3%，持平6月，环比上涨0.2%，高于6月的0.1%，均符合市场预期。&lt;/p&gt;
+&lt;p&gt;与此同时，消费增长有所放缓。7月个人消费支出环比仅增长0.2%，实际个人消费支出则基本持平；个人收入增长0.4%，高于消费增速。&lt;/p&gt;
+&lt;p&gt;周三公布的二季度GDP修正数据也显示，美国经济仍有韧性，实际GDP年化增速维持在1.5%，但二季度消费增速从初值3.2%上修至3.4%，私人国内最终购买增速从3.9%上修至4.2%。&lt;/p&gt;
+&lt;p&gt;PCE略高于预期、核心PCE通胀继续“降不动”，使市场对美联储9月加息的悬念升温。媒体发现，7月PCE数据公布后，联邦基金期货反映的9月美联储货币政策会议加息概率升至约40%，高于数据公布前的约36%。&lt;/p&gt;
+&lt;p&gt;而随着美联储主席沃什将于本周五在杰克逊霍尔发表其任内首次重要演讲，市场如今更加关注的，已经不仅是9月是否加息，更是沃什将如何解释当前仍然顽固的通胀，以及什么样的数据会促使美联储重新启动加息。&lt;/p&gt;
+PCE略高于预期，核心通胀却依然难降
+&lt;p&gt;从单月数据看，7月PCE并没有出现特别猛烈的通胀反弹，但问题在于，&lt;strong&gt;通胀下行趋势依然缺乏进一步进展。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7月PCE同比上涨3.7%，已经连续第65个月高于美联储2%的目标；核心PCE同比上涨3.3%，同样远高于2%的目标。7月PCE环比上涨0.2%，为今年4月以来最高月度增幅；核心PCE环比上涨0.2%，也高于6月的0.1%。&lt;/p&gt;
+&lt;p&gt;更值得关注的是核心PCE的不同时间窗口。&lt;/p&gt;
+&lt;p&gt;有“新美联储通讯社”之称的《华尔街日报》首席经济记者Nick Timiraos在社交媒体上拆解数据称，7月核心PCE环比上涨约0.25%，折算成年率约为2.99%，与2025年7月基本相同；核心PCE同比涨幅则维持在3.34%，明显高于2025年7月的2.86%。&lt;/p&gt;
+&lt;p&gt;从更长时间窗口看，核心PCE三个月年化增速约为3.0%，六个月年化增速则达到3.5%。&lt;/p&gt;
+&lt;p&gt;也就是说，&lt;strong&gt;短期通胀速度并没有明显失控，但拉长时间看，核心通胀仍然处于3%左右甚至更高的水平，距离2%的目标仍有明显距离。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-
-首款广泛靶向RAS蛋白的口服药物
-
-&lt;p&gt;daraxonrasib的核心价值在于其独特的作用机制。&lt;/p&gt;
-&lt;p&gt;RAS是一种与肿瘤生长密切相关的蛋白，在绝大多数胰腺癌病例中均发生突变，但多年来研究人员始终未能开发出能够广泛有效对抗其各种变体的药物。RevMed采用创新性&amp;quot;分子胶&amp;quot;技术路径，通过包裹并抑制这一危险蛋白，实现了对RAS的有效靶向。&lt;/p&gt;
-&lt;p&gt;Memorial Sloan Kettering癌症中心肿瘤学家、该最终阶段试验的主要作者Eileen O&amp;#x27;Reilly在FDA宣布决定前接受采访时表示，&amp;quot;这是一个巨大的进步。&amp;quot;&lt;/p&gt;
-&lt;p&gt;作为一款每日一次的口服片剂，daraxonrasib还有望改善患者的治疗体验——患者可以在家中服药，而无需频繁前往输液中心接受治疗，对于患有不可治愈疾病的群体而言，这意味着更多与家人共度的时间。&lt;/p&gt;
-&lt;p&gt;RevMed目前亦在推进临床试验，探索将该药用于疾病早期阶段的可行性。&lt;/p&gt;
-
-患者需求旺盛，上市前已逾两千人用药
-
-&lt;p&gt;&lt;strong&gt;胰腺癌死亡率极高，五年生存率仅为13%。据美国癌症协会数据，今年将有逾6.7万人被确诊为胰腺癌，超过5.2万人将因此病离世。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;围绕该药的市场关注度在正式批准之前已相当高涨。今年4月，前美国参议员Ben Sasse公开表示自己被确诊为四期胰腺癌并正在服用该药，令daraxonrasib获得广泛关注，RevMed股价自4月以来已累计上涨逾一倍。&lt;/p&gt;
-&lt;p&gt;患者及家属的需求在审批期间极为迫切。今年5月，FDA允许RevMed开放特别扩展准入项目，使不符合临床试验入组条件的患者也能获得用药机会。截至8月初，RevMed表示已通过该项目向逾2000名患者提供了药物。&lt;/p&gt;
-
-FDA超快速审评，定价尚未公布
-
-&lt;p&gt;在监管流程方面，daraxonrasib还获得FDA新设凭证计划下的&amp;quot;超快速审评&amp;quot;资格，该计划旨在加快有潜力药物的审批进程。&lt;/p&gt;
-&lt;p&gt;FDA在声明中表示，此次审评比法定截止日期提前了6.5个月完成。&lt;/p&gt;
-&lt;p&gt;FDA批准的适应症还涵盖了不适合接受系统性治疗的患者群体。FDA指出，该药已知副作用包括皮疹和口腔溃疡。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 比特币与黄金基金吸金70亿美元，"稀缺资产"交易卷土重来</title><link>https://wallstreetcn.com/articles/3780377</link><guid>43d4a891caf093d5cdff7fabd7de565dba0ca7085c07a150d6ece82d69c6b93d</guid><pubDate>Wed, 26 Aug 2026 19:59:47 GMT</pubDate><description>&lt;p&gt;投资者正同时涌入&lt;strong&gt;黄金与比特币&lt;/strong&gt;，将两者作为对冲财政风险的工具，&lt;strong&gt;追踪这两类资产的交易所交易基金在过去五个交易日创下资金净流入纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;8月26日，据彭博汇编数据，&lt;strong&gt;相关ETF在过去五个交易日合计吸金70亿美元，使最大的黄金与比特币ETF跻身全美ETF资金流入排行榜前列，与股市旗舰产品并驾齐驱。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此轮资金潮由市场对美国债务负担、美元走势及长端收益率管控努力的忧虑重燃所驱动。&lt;/p&gt;
-&lt;p&gt;直接导火索来自美国财政部长贝森特提出的计划——将长期国债回购规模至少翻倍。消息公布后，美债收益率与美元走低，黄金与比特币价格随即跳涨。&lt;/p&gt;
-
-两大旗舰产品双双跻身流入榜前十
-
-&lt;p&gt;&lt;strong&gt;据彭博数据，State Street旗下SPDR Gold Shares（GLD）本周净流入近34亿美元，BlackRock旗下iShares Bitcoin Trust ETF（IBIT）净流入15亿美元，两只基金均跻身本周全美ETF资金流入前十。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GLD仅落后于Vanguard S&amp;amp;P 500 ETF（VOO）等少数产品。&lt;/p&gt;
-&lt;p&gt;投资者想要的，是供给不受政府干预的资产。黄金储量受自然禀赋约束，比特币总量由代码硬性封顶。&lt;/p&gt;
-&lt;p&gt;在财政扩张与货币宽松预期升温的背景下，两者共享同一套定价逻辑。贝森特的长期国债回购计划，被市场解读为当局试图压制长端收益率的信号，直接触发了这轮集中买入。&lt;/p&gt;
-&lt;p&gt;对于寻找财政对冲工具的投资者来说，黄金与比特币的界限正在模糊。Bernstein全球数字资产高级分析师Gautam Chhugani在研报中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;利率下行长达40年的时代似乎已经终结，随着主权债务水平攀升至历史高位，各国政府面临日益沉重的债务偿付压力。投资者持有比特币等无法轻易增发或稀释的稀缺资产，或将从中受益。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对OpenAI自研芯片的解读与思考</title><link>http://xueqiu.com/5332385101/406626648</link><guid>8b2080bec83cd352a2325b68104b11bcc8b524319c60bfaeb6e61a0d46456719</guid><pubDate>Wed, 26 Aug 2026 10:08:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股科技回暖，英伟达结束七连跌收涨超2%，Lumentum、Coherent分别涨超6%和4%，美光、海力士均涨约2.5%。&lt;/p&gt;</description></item><item><title>[今日雪球] 以铜股为例谈谈资金面与基本面为什么背离？</title><link>http://xueqiu.com/1641200866/406624328</link><guid>ae5c16d1d8131ec3fbc5d007ccdba4e2154b74642d64beba2abb9f39bb7b7185</guid><pubDate>Wed, 26 Aug 2026 10:08:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;烟花易冷破红尘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，纽铜，伦铜创收盘价历史新高。铜矿龙头必合必拓，自由港和南方铜业也都创下了历史新高。其估值普遍25~35倍的PE。年度涨幅一度高达60%。反观国内铜股呢？一个个股价还趴在地上，离新高还有30%左右的距离。还不少铜股年线还收绿。在铜价连续上涨的情况下，出现了资金面，技术面与基本面的背离。那么为什么铜价大涨，国内铜股的股价不跟随呢？&lt;/p&gt;</description></item><item><title>[今日雪球] 药王退位，生态称王：全球医药权力结构正在被重新布线</title><link>http://xueqiu.com/7271353740/406678976</link><guid>8e9b831cfcaeff85eff814bcd80a37bb161a2a0d17f952f47e76e904d77e78c3</guid><pubDate>Wed, 26 Aug 2026 10:08:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;以前聊医药股，经常会说谁家单品卖了多少亿，谁是药王。今年上半年数据看完，我有个特别强烈的感觉：&lt;strong&gt;还盯着单一药王，过时了，甚至会害了你。&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Timiraos进一步拆解称，7月核心商品价格环比上涨0.15%、同比上涨2.3%；住房价格环比上涨0.26%、同比上涨3.2%；剔除住房后的核心服务价格环比上涨0.28%、同比上涨3.8%。&lt;/p&gt;
+&lt;p&gt;其中，核心服务尤其值得关注。商品通胀已经相对温和，但核心非住房服务价格同比仍上涨3.8%，显示更具持续性的通胀压力尚未完全消退。&lt;/p&gt;
+华尔街分歧：数据温和，但远不足以让美联储放心
+&lt;p&gt;彭博经济学家Troy Durie、Andrew Sacher和Anna Wong认为，7月个人收入和支出报告的主要信息是，&lt;strong&gt;潜在通胀速度相对温和，而实际消费较为疲软&lt;/strong&gt;。基于这一判断，他们预计美联储今年剩余时间将维持利率不变。&lt;/p&gt;
+&lt;p&gt;但市场并非没有担忧。&lt;/p&gt;
+&lt;p&gt;Regions Financial首席经济学家Richard Moody指出，尽管7月通胀读数“温和”，但对美联储而言，唯一的问题就是通胀仍高于目标；即使通胀看起来不会进一步加速，也不像是会重新回落至目标水平。&lt;/p&gt;
+&lt;p&gt;摩根士丹利财富管理公司首席经济策略师Ellen Zentner则认为，这组数据还不足以改变9月美联储会议的政策平衡，但如果后续数据继续朝同一方向发展，政策制定者可能面临更大压力，结束目前的观望状态。&lt;/p&gt;
+&lt;p&gt;Zentner称，在投资者对任何可能推高利率预期的因素都高度敏感之际，最新经济数据并非市场希望看到的结果。&lt;/p&gt;
+&lt;p&gt;这也构成了当前美联储政策面临的核心矛盾：&lt;strong&gt;通胀没有明显重新加速，但也没有继续向2%目标靠拢；消费有所降温，但经济活动依然具有韧性。&lt;/strong&gt;&lt;/p&gt;
+9月加息概率升至约40%，市场开始重新定价
+&lt;p&gt;PCE数据对市场的直接影响，已经体现在利率预期上。&lt;/p&gt;
+&lt;p&gt;路透社报道称，7月PCE总体通胀高于预期后，联邦基金期货价格显示，美联储在9月15日至16日会议上加息的概率约为40%，高于数据公布前的约36%。&lt;/p&gt;
+&lt;p&gt;也就是说，&lt;strong&gt;一次并不算剧烈的PCE“超预期”，就让市场对9月加息的定价出现了约4个百分点的上升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这并不意味着市场已经判断美联储9月必然加息。相反，约40%的概率意味着加息仍然只是一个尚未占据主导地位的政策选项。&lt;/p&gt;
+&lt;p&gt;但与此前市场更多讨论“何时降息”相比，如今“是否重新加息”已经成为必须认真考虑的问题。&lt;/p&gt;
+&lt;p&gt;TradeStation策略师David Russell称，随着经济保持强劲、通胀又没有下降，沃什“越来越难以回避加息问题”。eToro的Bret Kenwell也表示，通胀仍然“高得令人不舒服”，市场将关注沃什是否会在杰克逊霍尔解释美联储如何让通胀重新回到长期目标。&lt;/p&gt;
+&lt;p&gt;而路透社对当天经济数据的总结同样值得关注：最新数据为美联储政策前景增加了新的变量，提高了即将公布的经济数据的重要性，也让市场更加聚焦沃什周五在杰克逊霍尔的讲话。&lt;/p&gt;
+Timiraos转发柯林斯讲话：若通胀没有持续改善，适合“很快”加息
+&lt;p&gt;就在PCE数据公布后、周三美股早盘时段，Timiraos转发了波士顿联储官网于本周二公布的波士顿联储主席柯林斯演讲稿，专门总结了她对通胀和货币政策的判断。波士顿联储官网显示，柯林斯这场演讲的题目为《对经济的看法》。&lt;/p&gt;
+&lt;p&gt;Timiraos总结称，柯林斯认为，6月和7月的通胀报告“略微令人鼓舞”，但如果没有出现“通胀持续改善的证据”，那么“将适合很快收紧（货币）政策”。&lt;/p&gt;
+&lt;p&gt;更值得注意的是，Timiraos特别指出，柯林斯相对有利的通胀基准情景本身存在两个重要前提：&lt;strong&gt;未来关税增幅有限，以及霍尔木兹海峡出现一定程度的重新开放。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，柯林斯所谓的“温和改善”并非无条件乐观。&lt;/p&gt;
+&lt;p&gt;如果关税继续推高商品价格，或者霍尔木兹海峡局势再次推高能源价格，那么当前的通胀改善可能受到反向冲击；而如果通胀迟迟不能出现“持续改善”，加息就可能重新成为美联储政策讨论的重点。&lt;/p&gt;
+&lt;p&gt;这一表态与7月PCE数据形成了直接呼应：&lt;strong&gt;即便单月通胀增速不算猛烈，只要通胀无法持续向2%靠拢，美联储内部要求进一步收紧政策的声音就不会消失。&lt;/strong&gt;&lt;/p&gt;
+华尔街日报直指“通胀问题依然顽固”，沃什的立场却仍不清晰
+&lt;p&gt;在PCE数据公布后，《华尔街日报》发表专门评论，标题即指出：“&lt;strong&gt;美联储的通胀问题7月依然顽固”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;评论一开篇就亮出了核心判断：美国经济仍有一定的顺风动力，但同时面临一个挥之不去的通胀问题——而这正是美联储主席沃什在周五杰克逊霍尔重要讲话前所面对的局面。&lt;/p&gt;
+&lt;p&gt;《华尔街日报》指出，美联储青睐的PCE价格指数7月同比上涨3.7%，剔除食品和能源后的核心PCE同比上涨3.3%，而2%的通胀目标仍然遥不可及。与此同时，美国经济并没有明显失速：二季度实际私人国内最终购买增速被上修至4.2%，7月消费增长0.2%，个人收入增长0.4%。&lt;/p&gt;
+&lt;p&gt;因此，摆在沃什面前的并非简单的“通胀高还是低”的问题，而是一个更复杂的判断：当前通胀究竟主要是关税、伊朗战争等一次性冲击造成的，还是需求依然强劲、供需失衡导致企业能够持续提价？&lt;/p&gt;
+&lt;p&gt;《华尔街日报》评论最后点出的，恰恰是沃什本人带来的最大不确定性：&lt;strong&gt;沃什究竟如何看待自己接手的通胀问题，目前仍不清楚&lt;/strong&gt;。因为他没有在美联储按季度更新的“点阵图”中提供个人的利率预期，也没有明确表态自己是否支持在未来会议上加息，而是否加息恰恰已经成为美联储内部存在明显分歧的问题。&lt;/p&gt;
+杰克逊霍尔前夜：沃什能否给出自己的“通胀答案”？
+&lt;p&gt;事实上，PCE公布前几个小时，Timiraos就发表了题为《美联储主席将前往杰克逊霍尔、通胀立场尚未明确》的文章。&lt;/p&gt;
+&lt;p&gt;文章认为，本周五在杰克逊霍尔央行年会期间面对市场和美联储同僚时，沃什最大的压力在于回答一个决定利率方向的问题：&lt;strong&gt;当前高于目标的通胀究竟是暂时性冲击，还是美国经济本身仍然过热？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果关税、伊朗战争带来的能源冲击等只是一次性因素，那么美联储没有必要为了这些短期冲击大幅收紧货币政策；如果这些因素只是掩盖了更深层次的供需失衡，需求依然超过供给，那么通胀就不会自行消退，美联储就需要行动。&lt;/p&gt;
+&lt;p&gt;Timiraos指出，过去两个月较为温和的价格数据暂时缓解了美联储9月加息的压力，但并没有回答另一个关键问题：&lt;strong&gt;当前约3.6%的政策利率究竟是否足够限制性，能否把通胀继续压低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而这也是沃什周五讲话真正吸睛之处。&lt;/p&gt;
+&lt;p&gt;7月的上次美联储FOMC议息会议中，已有三名官员因支持当时就加息而投票反对保持利率不变的决议，且会议纪要显示，美联储内部还有更多官员对进一步收紧政策持开放态度。在PCE数据公布后，期货市场体现的9月加息概率又略为攀升至约40%，说明市场已经开始重新为这一政策路径定价。&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;7月PCE本身或许不足以让美联储在9月立即加息，但它进一步凸显了沃什周五需要回答的问题：在核心PCE同比仍高达3.3%、通胀迟迟无法回到2%的情况下，美联储究竟准备何时、以及在什么条件下重新收紧政策？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也使得市场对沃什周五杰克逊霍尔讲话的关注点，从单纯寻找“加息还是不加息”的答案，进一步转向寻找他的&lt;strong&gt;通胀判断、政策反应函数以及9月决策门槛&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对OpenAI自研芯片的解读与思考</title><link>http://xueqiu.com/5332385101/406626648</link><guid>8b2080bec83cd352a2325b68104b11bcc8b524319c60bfaeb6e61a0d46456719</guid><pubDate>Wed, 26 Aug 2026 10:08:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股科技回暖，英伟达结束七连跌收涨超2%，Lumentum、Coherent分别涨超6%和4%，美光、海力士均涨约2.5%。&lt;/p&gt;</description></item><item><title>[今日雪球] 以铜股为例谈谈资金面与基本面为什么背离？</title><link>http://xueqiu.com/1641200866/406624328</link><guid>ae5c16d1d8131ec3fbc5d007ccdba4e2154b74642d64beba2abb9f39bb7b7185</guid><pubDate>Wed, 26 Aug 2026 10:08:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;烟花易冷破红尘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，纽铜，伦铜创收盘价历史新高。铜矿龙头必合必拓，自由港和南方铜业也都创下了历史新高。其估值普遍25~35倍的PE。年度涨幅一度高达60%。反观国内铜股呢？一个个股价还趴在地上，离新高还有30%左右的距离。还不少铜股年线还收绿。在铜价连续上涨的情况下，出现了资金面，技术面与基本面的背离。那么为什么铜价大涨，国内铜股的股价不跟随呢？&lt;/p&gt;</description></item><item><title>[今日雪球] 药王退位，生态称王：全球医药权力结构正在被重新布线</title><link>http://xueqiu.com/7271353740/406678976</link><guid>8e9b831cfcaeff85eff814bcd80a37bb161a2a0d17f952f47e76e904d77e78c3</guid><pubDate>Wed, 26 Aug 2026 10:08:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;以前聊医药股，经常会说谁家单品卖了多少亿，谁是药王。今年上半年数据看完，我有个特别强烈的感觉：&lt;strong&gt;还盯着单一药王，过时了，甚至会害了你。&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
