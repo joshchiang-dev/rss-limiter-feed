@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 26 Aug 2026 11:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 理想汽车Q2营收257亿元超预期，毛利率收窄至11％，三季度指引低于预期 | 财报见闻</title><link>https://wallstreetcn.com/articles/3780343</link><guid>d3499791b39d5164562f152afb48c5c3cbf3b06144fc6805c05364c86838d6e0</guid><pubDate>Wed, 26 Aug 2026 08:42:51 GMT</pubDate><description>&lt;p&gt;理想汽车公布的第二季度业绩显示，营收同比下滑、毛利率腰斩，调整后净利润由盈转亏，第三季度营收指引较市场预期低出逾15%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 26 Aug 2026 11:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 理想汽车Q2营收257亿元超预期，毛利率收窄至11％，三季度指引低于预期 | 财报见闻</title><link>https://wallstreetcn.com/articles/3780343</link><guid>d3499791b39d5164562f152afb48c5c3cbf3b06144fc6805c05364c86838d6e0</guid><pubDate>Wed, 26 Aug 2026 08:42:51 GMT</pubDate><description>&lt;p&gt;理想汽车公布的第二季度业绩显示，营收同比下滑、毛利率腰斩，调整后净利润由盈转亏，第三季度营收指引较市场预期低出逾15%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;理想汽车第二季度营收256.7亿元，同比下降15%，&lt;/strong&gt;略超市场预估的249.6亿元；净亏损17.1亿元，而上年同期为净利润11.0亿元；调整后净亏损15.0亿元，上年同期为调整后净利润14.7亿元，亏损额超出市场预估的11.5亿元。毛利率从上年同期的20.1%大幅收窄至11%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;公司预计第三季度营收介于266亿至280亿元之间，中值较彭博综合预期的322.6亿元低约17%；预计交付量为9.5万至10万辆，同样显著低于市场预估的约12.19万辆。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;首席财务官李铁表示，随着产品结构优化，以及下半年Livis车型销售占比提升、纯电新车型及Li i9相继推出，公司预计利润率将逐步改善。&lt;/p&gt;
@@ -28,29 +28,39 @@
 
 &lt;p&gt;首席执行官李想表示，公司已完成Li L系列的升级换代，并正着手刷新纯电动车型阵容。2026年6月，公司推出全新Li L8，提供Ultra及Livis两款配置，售价分别为36.98万元及42.98万元，均搭载第三代增程系统及高通骁龙8797芯片，并配备线控转向及后轮转向功能。7月，公司发布新款Li L6，定价24.98万元，搭载MACH M100芯片并采用增程专属磷酸铁锂超充电池。&lt;/p&gt;
 &lt;p&gt;在智能化布局方面，公司于6月举办&amp;quot;Livis Day&amp;quot;发布会，展示了自研语言智能模型MACH Mind-Pro及MACH Mind-Edge、机器智能模型MACH VLA，以及全球首款动态数据流AI芯片MACH M100。&lt;/p&gt;
-&lt;p&gt;7月单月交付量为30468辆，公司对新款Li L6的市场表现表示乐观。李铁表示，伴随Livis高端配置销售贡献提升及纯电新车型推出，公司预计下半年毛利率将进一步扩张，盈利能力亦将逐步改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 智谱“认领”神秘AI模型Ox Alpha“牛来”，使用量已达DeepSeek两倍以上</title><link>https://wallstreetcn.com/articles/3780350</link><guid>dcc2db2fd3c2532f3fd8806e9f328ebcae83f09eadb902e84a7c77cec363c883</guid><pubDate>Wed, 26 Aug 2026 10:51:05 GMT</pubDate><description>&lt;p&gt;智谱正式确认，近日席卷开发者社区的神秘模型Ox Alpha出自其麾下，并宣布当晚公开发布模型权重，为这场持续数日的&amp;quot;模型侦探战&amp;quot;画上句号。&lt;/p&gt;
-&lt;p&gt;周三，智谱向彭博社表示，&lt;strong&gt;Ox Alpha是其GLM系列的全新迭代版本，模型代号灵感来源于国内近期热映电影《牛来》。&lt;/strong&gt;该模型自上周末以匿名形式上架AI模型平台OpenRouter以来，凭借免费开放与强劲性能迅速攀升至该平台使用量榜首，&lt;strong&gt;当前使用量已超过DeepSeek的两倍以上。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;智谱计划于下周一发布首份详细财报，覆盖今年1月上市以来的前六个月业绩。&lt;/p&gt;
-
-匿名发布，使用量爆发
-
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3780081?keyword=%E7%89%9B%E6%9D%A5#from=android"&gt;华尔街见闻此前消息&lt;/a&gt;，美东时间8月20日深夜，一款名为Ox Alpha的模型以&amp;quot;隐身模型&amp;quot;（stealth model）身份低调上架OpenRouter，发布方显示为匿名第三方，成为该平台历史上规模最大的一次发布。&lt;/p&gt;
-&lt;p&gt;该模型配置豪华：100万token上下文窗口、支持文本、图像与视频多模态输入、推理能力强制开启，且完全免费使用。AI编程工具OpenCode官方公告显示，其背后提供方每天拥有100万亿（100T）tokens的算力供给。免费开放推动使用量迅速跃升，根据OpenRouter排行榜数据，Ox Alpha使用量已超越DeepSeek逾一倍。&lt;/p&gt;
+&lt;p&gt;7月单月交付量为30468辆，公司对新款Li L6的市场表现表示乐观。李铁表示，伴随Livis高端配置销售贡献提升及纯电新车型推出，公司预计下半年毛利率将进一步扩张，盈利能力亦将逐步改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股“股王”联讯仪器上半年营收同比增长208.71%，净利润暴增903% | 财报见闻</title><link>https://wallstreetcn.com/articles/3780354</link><guid>010ba3029a4edfe1cafcdc2636887eff1041f9441e05e9bbcb1619e51a04dea7</guid><pubDate>Wed, 26 Aug 2026 11:19:03 GMT</pubDate><description>&lt;p&gt;A股科创板&amp;quot;股王&amp;quot;联讯仪器交出一份业绩爆发式增长的半年报，营收与利润均实现数倍扩张，经营质量同步大幅改善。&lt;/p&gt;
+&lt;p&gt;公司公告显示，&lt;strong&gt;2026年上半年营业收入达15.31亿元，同比增长208.71%；归属于上市公司股东的净利润为5.67亿元，同比增长903.00%。扣除非经常性损益后净利润为5.62亿元，增幅更高达944.35%。&lt;/strong&gt;公司经营活动产生的现金流量净额达5.48亿元，而上年同期为负值。&lt;/p&gt;
+&lt;p&gt;公司同步宣布，拟以资本公积向全体股东每10股转增4.8股，不派发现金红利，不送红股。转增方案通常被市场解读为公司对未来发展信心的信号，亦有助于改善股票流动性。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Stripe首席执行官Patrick Collison亲自上手测试后，&lt;strong&gt;在X平台上直接评价称&amp;quot;非常令人印象深刻&amp;quot;。&lt;/strong&gt;值得注意的是，Stripe正在收购OpenRouter。&lt;/p&gt;
 
-编码能力居前沿，社区24小时破解身份
+营收利润双双实现三位数增长
 
-&lt;p&gt;在性能层面，Ox Alpha的表现令开发者社区颇为震动。&lt;strong&gt;AI编程框架fable作者davis7使用DeepSWE官方评测对10道题进行测试，Ox Alpha得分80%，高于Claude Fable的65%和GPT-5.6 Sol的52%，独立复测结论基本一致。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;模型身份公布之前，开发者社区已通过技术指纹比对，将嫌疑锁定在智谱。据Atomstorm.ai创始人、前百度及阿里高管lizikk_zhu在X平台的详细分析，五条来自不同技术层面的证据均指向智谱。其中最具说服力的一项来自视频编码器测试：将相同视频输入Ox Alpha与智谱GLM-5V-Turbo后，两者消耗的token数逐一吻合，涵盖帧采样策略、时长缩放与分辨率缩放三个独立设计特征。此外，文本tokenizer特征、独特的错误码[1210]、后端中文报错信息以及特定敏感问题的回复口径，均与智谱已有模型高度吻合。&lt;/p&gt;
-&lt;p&gt;Wccftech等科技媒体亦指出，智谱此前曾以&amp;quot;Pony Alpha&amp;quot;为代号匿名测试GLM-5，开发者在Ox Alpha中发现了相似的tokenizer行为与响应模式。&lt;/p&gt;
+&lt;p&gt;联讯仪器此次半年报数据显示，&lt;strong&gt;2026年上半年营业收入15.31亿元，较上年同期4.96亿元增长约10.35亿元；净利润5.67亿元，较上年同期5655万元增长超5.1亿元，增幅高达903%&lt;/strong&gt;，净利润增速远超营收增速，体现出显著的规模效应。&lt;/p&gt;
+&lt;p&gt;利润总额方面，公司上半年实现6.14亿元，同比增长961.32%。基本每股收益为6.63元，较上年同期0.73元增长808.22%。加权平均净资产收益率达31.10%，较上年同期提升23.10个百分点，盈利能力大幅跃升。&lt;/p&gt;
+&lt;p&gt;资产规模方面，截至报告期末，公司总资产达55.32亿元，较上年末18.00亿元增长207.57%；归属于上市公司股东的净资产为33.88亿元，较上年末8.97亿元增长277.56%，资产规模在半年内实现三倍扩张。&lt;/p&gt;
+&lt;p&gt;报告称，联讯仪器营业收入增长，主要系受益于人工智能技术发展、全球算力需求提升以及数据中心建设进程加速，&lt;strong&gt;高速光通信产品需求持续高速增长，光模块、光芯片厂商扩产意愿强烈，拉动公司通信测试仪器产品及光电子器件测试设备产品的市场需求快速增长，推动公司销售规模和营业收入增长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;联讯仪器成立于2017年，在光通信测试领域的核心优势在于其对产业链模块、芯片、晶圆三大核心测试环节的同步覆盖，这一能力在国内属于极少数。二级市场上，自4月24日上市以来，联讯仪器股价一路震荡上行，累计上涨超199%。截至8月26日收盘，联讯仪器报2259元/股，位居A股榜首，总市值2319亿元。&lt;/p&gt;
 
-匿名测试，已成行业惯例
+资本结构与股东情况
 
-&lt;p&gt;智谱此次采用的发布策略，在国内科技公司中已有迹可循。字节跳动、阿里巴巴、小米等公司今年均曾以不公开来源的方式发布模型，以便在较少品牌约束的环境下测试新服务。&lt;/p&gt;
-&lt;p&gt;lizikk_zhu梳理的时间线显示，同类操作已有多个先例：Hunter Alpha后被证实为小米的MiMo-V2-Pro，Owl Alpha是美团LongCat 2.0，Pony Alpha是智谱GLM-5，就连OpenAI也曾以Quasar Alpha为代号测试GPT-4.1。匿名上架可规避品牌风险，免费开放换取真实生产流量，压测所获反馈比内部测试数据更具参考价值，最终认领并完成商业化。&lt;/p&gt;
-&lt;p&gt;智谱方面表示，Ox Alpha免费使用期为一周，此后定价尚未公布。本月早些时候，智谱已发布最新旗舰模型GLM-5.3，并称其在部分基准测试上可与Anthropic的Fable 5相抗衡。&lt;/p&gt;
-&lt;p&gt;智谱于今年1月完成上市。数据显示，即便在近期有所回调之后，智谱的股价涨幅仍大幅领先AI同业竞争对手。&lt;/p&gt;
+&lt;p&gt;截至报告期末，公司股东总数为13,928户。第一大股东胡海洋持股比例为15.41%，持股数量1582万股，均为有限售条件股份。前十大股东中，胡海洋、黄建军、杨建及多家关联合伙企业为一致行动人关系，合计持股比例较高，股权结构相对集中。&lt;/p&gt;
+&lt;p&gt;公司本次拟实施的转增方案，以权益分派股权登记日登记的总股本为基数，每10股转增4.8股，不涉及现金分红及送红股。转增完成后，公司总股本将相应扩大，每股价格将随之调整。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亨通光电上半年净利润同比增长93.38%，章建平新进前五大股东 | 财报见闻</title><link>https://wallstreetcn.com/articles/3780357</link><guid>0016ecdeaabb519b9f7b066c7d680ada14de2477c08856f3ecc22151725a6221</guid><pubDate>Wed, 26 Aug 2026 11:43:33 GMT</pubDate><description>&lt;p&gt;亨通光电业绩大幅跃升，印证光纤光缆及相关业务需求持续旺盛。&lt;/p&gt;
+&lt;p&gt;公司公告显示，&lt;strong&gt;2026年上半年归属于上市公司股东的净利润达31.2亿元，同比增长93.38%&lt;/strong&gt;，增幅接近翻倍；&lt;strong&gt;营业收入为420.26亿元，同比增长31.13%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;扣除非经常性损益后净利润同比增长100.62%，增幅更超过100%，表明核心业务而非一次性收益为此次业绩增长的主要驱动力。此外，基本每股收益由上年同期的0.66元升至1.29元，增幅达95.45%，加权平均净资产收益率较上年同期提升3.96个百分点至9.43%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在业绩爆发的同时，&lt;strong&gt;知名投资人章建平在第二季度新进成为公司第五大股东，持股比例1.40%，&lt;/strong&gt;市场对此高度关注。&lt;/p&gt;
+
+营收利润双双大幅跃升
+
+&lt;p&gt;根据亨通光电发布的2026年半年度报告摘要，报告期内公司营业收入为420.26亿元，较上年同期的320.49亿元增长31.13%；利润总额为35.85亿元，同比增长92.87%；归属于上市公司股东的净利润为31.20亿元，同比增长93.38%。&lt;/p&gt;
+&lt;p&gt;值得注意的是，扣除非经常性损益后的净利润为31.51亿元，同比增长100.62%，略高于未扣除口径下的增幅，意味着公司业绩增长更多依赖主营业务的实质性提升，而非依赖资产处置或其他非经常性项目。&lt;/p&gt;
+&lt;p&gt;截至报告期末，公司总资产为778.83亿元，较上年末增长7.63%；归属于上市公司股东的净资产为337.07亿元，较上年末增长6.06%。&lt;/p&gt;
+&lt;p&gt;尽管盈利指标亮眼，报告期内公司经营活动产生的现金流量净额为-8.65亿元，而上年同期为491万元，由正转负且规模较大。&lt;/p&gt;
+
+章建平新进第五大股东
+
+&lt;p&gt;股东结构方面，据半年报显示，知名投资人章建平于第二季度新进成为公司第五大股东，持有3441.61万股，占总股本比例1.40%。&lt;/p&gt;
+&lt;p&gt;截至报告期末，公司股东总数为590,607户。控股股东亨通集团有限公司持股24.07%，持有5.94亿股，其中3.69亿股处于质押状态；公司实际控制人崔根良持股3.86%，与亨通集团及崔巍为一致行动关系。前十大股东中其余席位由香港中央结算、多只指数基金及混合型基金占据。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达财报今夜揭晓，AI牛市关键一战，该如何交易？</title><link>https://wallstreetcn.com/articles/3780342</link><guid>91a24bb7eca8fe37d708b4d744a17d38062d72e0e72ee868dd962c642fa6600c</guid><pubDate>Wed, 26 Aug 2026 08:41:51 GMT</pubDate><description>&lt;p&gt;英伟达本季财报大概率仍是一份强劲成绩单，但市场的问题已经不是&amp;quot;超不超预期&amp;quot;，而是超预期之后能否给出足够的答案。从期权定价到机构分歧，从循环融资争议到电力瓶颈，这份财报正在成为AI牛市能否进入下一阶段的试金石。&lt;/p&gt;
 &lt;p&gt;美东时间周三盘后，英伟达将披露2027财年第二季度财报。华尔街一致预期季度营收约920亿美元，同比近乎翻倍；调整后每股收益预期2.09美元，数据中心营收预期约854亿美元。Jefferies预计营收将高于一致预期，达到950亿美元；花旗亦上调预测并维持300美元目标价。但高盛警告，8月股价已涨逾12%，&lt;strong&gt;&amp;quot;业绩超预期加上调指引&amp;quot;不足以驱动股价上行，还需同时释放超大规模云厂商盈利改善、客户融资可控以及大规模资本回报三重利好。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;期权市场的定价印证了这种谨慎。根据ORATS数据，&lt;strong&gt;英伟达财报前的隐含波动幅度约为5.4%，为2021年8月以来最低，显著低于过去12个季度7.4%的历史均值。&lt;/strong&gt;&lt;/p&gt;
@@ -88,7 +98,30 @@ Rubin周期：下一轮估值叙事的关键词
 
 &lt;p&gt;&lt;strong&gt;在宏观叙事之外，英伟达约90%的AI加速器市场份额正面临多路围攻。谷歌、Meta等云巨头加速推进自研AI芯片；据报道，OpenAI与博通联合开发的&amp;quot;Jalapeño&amp;quot;推理芯片在部分基准测试中已超越Nvidia Blackwell；Cerebras Systems等新兴芯片公司今年完成上市，同样在争夺市场份额。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bespoke Investment Group指出，英伟达股价表现与半导体板块已出现明显脱节，&amp;quot;过去数月中，半导体股多次出现与英伟达反向运动的情形&amp;quot;。PHLX半导体指数自6月下旬高点以来已持续低迷，英伟达此前经历的七连跌也是自2022年10月本轮牛市启动以来最长的连续下跌。&lt;/p&gt;
-&lt;p&gt;这些竞争格局的结构性变化，或将成为超越单季财报数字、对英伟达长期盈利轨迹影响更为深远的风险变量。管理层对竞争态势的表态，将是电话会上投资者最不愿错过的部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同</title><link>https://wallstreetcn.com/articles/3780336</link><guid>77eee3a10a6ffb5386bbac4e106c13a80c6b4fe04d772e545ff2859f01a1a6e1</guid><pubDate>Wed, 26 Aug 2026 08:07:40 GMT</pubDate><description>&lt;p&gt;阿里巴巴一次配股，引发市场对中国AI资本支出周期经济性的担忧——但摩根大通认为，这一反应严重超出了实际代价所应对应的程度。&lt;/p&gt;
+&lt;p&gt;这些竞争格局的结构性变化，或将成为超越单季财报数字、对英伟达长期盈利轨迹影响更为深远的风险变量。管理层对竞争态势的表态，将是电话会上投资者最不愿错过的部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 智谱“认领”神秘AI模型Ox Alpha“牛来”，使用量已达DeepSeek两倍以上</title><link>https://wallstreetcn.com/articles/3780350</link><guid>dcc2db2fd3c2532f3fd8806e9f328ebcae83f09eadb902e84a7c77cec363c883</guid><pubDate>Wed, 26 Aug 2026 10:51:05 GMT</pubDate><description>&lt;p&gt;智谱正式确认，近日席卷开发者社区的神秘模型Ox Alpha出自其麾下，并宣布当晚公开发布模型权重，为这场持续数日的&amp;quot;模型侦探战&amp;quot;画上句号。&lt;/p&gt;
+&lt;p&gt;周三，智谱向彭博社表示，&lt;strong&gt;Ox Alpha是其GLM系列的全新迭代版本，模型代号灵感来源于国内近期热映电影《牛来》。&lt;/strong&gt;该模型自上周末以匿名形式上架AI模型平台OpenRouter以来，凭借免费开放与强劲性能迅速攀升至该平台使用量榜首，&lt;strong&gt;当前使用量已超过DeepSeek的两倍以上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;智谱计划于下周一发布首份详细财报，覆盖今年1月上市以来的前六个月业绩。&lt;/p&gt;
+
+匿名发布，使用量爆发
+
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3780081?keyword=%E7%89%9B%E6%9D%A5#from=android"&gt;华尔街见闻此前消息&lt;/a&gt;，美东时间8月20日深夜，一款名为Ox Alpha的模型以&amp;quot;隐身模型&amp;quot;（stealth model）身份低调上架OpenRouter，发布方显示为匿名第三方，成为该平台历史上规模最大的一次发布。&lt;/p&gt;
+&lt;p&gt;该模型配置豪华：100万token上下文窗口、支持文本、图像与视频多模态输入、推理能力强制开启，且完全免费使用。AI编程工具OpenCode官方公告显示，其背后提供方每天拥有100万亿（100T）tokens的算力供给。免费开放推动使用量迅速跃升，根据OpenRouter排行榜数据，Ox Alpha使用量已超越DeepSeek逾一倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Stripe首席执行官Patrick Collison亲自上手测试后，&lt;strong&gt;在X平台上直接评价称&amp;quot;非常令人印象深刻&amp;quot;。&lt;/strong&gt;值得注意的是，Stripe正在收购OpenRouter。&lt;/p&gt;
+
+编码能力居前沿，社区24小时破解身份
+
+&lt;p&gt;在性能层面，Ox Alpha的表现令开发者社区颇为震动。&lt;strong&gt;AI编程框架fable作者davis7使用DeepSWE官方评测对10道题进行测试，Ox Alpha得分80%，高于Claude Fable的65%和GPT-5.6 Sol的52%，独立复测结论基本一致。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;模型身份公布之前，开发者社区已通过技术指纹比对，将嫌疑锁定在智谱。据Atomstorm.ai创始人、前百度及阿里高管lizikk_zhu在X平台的详细分析，五条来自不同技术层面的证据均指向智谱。其中最具说服力的一项来自视频编码器测试：将相同视频输入Ox Alpha与智谱GLM-5V-Turbo后，两者消耗的token数逐一吻合，涵盖帧采样策略、时长缩放与分辨率缩放三个独立设计特征。此外，文本tokenizer特征、独特的错误码[1210]、后端中文报错信息以及特定敏感问题的回复口径，均与智谱已有模型高度吻合。&lt;/p&gt;
+&lt;p&gt;Wccftech等科技媒体亦指出，智谱此前曾以&amp;quot;Pony Alpha&amp;quot;为代号匿名测试GLM-5，开发者在Ox Alpha中发现了相似的tokenizer行为与响应模式。&lt;/p&gt;
+
+匿名测试，已成行业惯例
+
+&lt;p&gt;智谱此次采用的发布策略，在国内科技公司中已有迹可循。字节跳动、阿里巴巴、小米等公司今年均曾以不公开来源的方式发布模型，以便在较少品牌约束的环境下测试新服务。&lt;/p&gt;
+&lt;p&gt;lizikk_zhu梳理的时间线显示，同类操作已有多个先例：Hunter Alpha后被证实为小米的MiMo-V2-Pro，Owl Alpha是美团LongCat 2.0，Pony Alpha是智谱GLM-5，就连OpenAI也曾以Quasar Alpha为代号测试GPT-4.1。匿名上架可规避品牌风险，免费开放换取真实生产流量，压测所获反馈比内部测试数据更具参考价值，最终认领并完成商业化。&lt;/p&gt;
+&lt;p&gt;智谱方面表示，Ox Alpha免费使用期为一周，此后定价尚未公布。本月早些时候，智谱已发布最新旗舰模型GLM-5.3，并称其在部分基准测试上可与Anthropic的Fable 5相抗衡。&lt;/p&gt;
+&lt;p&gt;智谱于今年1月完成上市。数据显示，即便在近期有所回调之后，智谱的股价涨幅仍大幅领先AI同业竞争对手。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：市场对阿里配股反应过度，阿里、腾讯、百度AI融资路径各不相同</title><link>https://wallstreetcn.com/articles/3780336</link><guid>77eee3a10a6ffb5386bbac4e106c13a80c6b4fe04d772e545ff2859f01a1a6e1</guid><pubDate>Wed, 26 Aug 2026 08:07:40 GMT</pubDate><description>&lt;p&gt;阿里巴巴一次配股，引发市场对中国AI资本支出周期经济性的担忧——但摩根大通认为，这一反应严重超出了实际代价所应对应的程度。&lt;/p&gt;
 &lt;p&gt;阿里巴巴于8月24日以每股112.70港元完成7.1亿股配售，募集800亿港元（约103亿美元），发行价较前一交易日收盘价折让8.4%。次日港股重挫8.5%，腾讯和恒生科技指数当日分别下跌2.2%和2.1%&lt;strong&gt;。摩根大通测算，在阿里当日股价跌幅中，仅约0.3%可归因于配售折价本身；扣除同业联动影响后，现有股东所承受的异常重新定价规模约达190亿美元，大约是此次募资金额的两倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根大通认为，&lt;strong&gt;阿里巴巴的AI投资周期或比预期更长，但相关算力的经济效益依然具有吸引力，三大云服务商的融资风险亦存在实质差异。该行维持对阿里巴巴、腾讯和百度的&amp;quot;增持&amp;quot;评级，并建议投资者在9月季度业绩发布前买入阿里巴巴股票。&lt;/strong&gt;&lt;/p&gt;
 
@@ -283,60 +316,4 @@ PCE数据与杰克逊霍尔演讲成下一焦点
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什将在杰克逊霍尔首次发声，美联储与财政部能否达成新版“财政-货币协议”？</title><link>https://wallstreetcn.com/articles/3780320</link><guid>85e8c60cc9872cca9ad3227349c71c59e6980e323ba76a4a32bb41720b104b94</guid><pubDate>Wed, 26 Aug 2026 05:42:13 GMT</pubDate><description>&lt;p&gt;美联储主席沃什本周五将在杰克逊霍尔全球央行年会上首度公开发声，而此时美国财政部已悄然启动债务管理转型，两大政策机构之间的非正式协调框架正逐步成形。市场正密切关注，一份现代版&amp;quot;财政-货币协议&amp;quot;是否将借这一场合得以正式确立。&lt;/p&gt;
-&lt;p&gt;沃什的讲话是其7月利率决议争议以来的首次公开表态。与此同时，&lt;strong&gt;财政部长贝森特上周以计划外增加债券回购的方式直接干预市场，并明确表示&amp;quot;收益率未能反映基本面&amp;quot;，与沃什此前&amp;quot;收益率上升是好事&amp;quot;的立场形成明显分歧。两大机构之间的张力，令市场对政策协调的迫切性判断大幅升温。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当前局面对两方均构成压力。美联储正面临缩减资产负债表的艰难选择，任何激进行动都可能进一步推高长端收益率；财政部则背负着每年约2万亿美元的赤字压力，并持续将债务发行向短端转移，由此对货币政策宽松形成强烈依赖。市场目前已将年内加息概率定价至78%，令这一协调的难度与必要性同步上升。&lt;/p&gt;
-
-沃什面临信誉考验，长端收益率成症结所在
-
-&lt;p&gt;杰克逊霍尔会议今年的主题为&amp;quot;金融创新：对支付与政策的影响&amp;quot;，议程本身并不直接指向货币政策路径。但外界对沃什讲话内容的期待，已远超议题框架本身。&lt;/p&gt;
-&lt;p&gt;自7月利率决议以来，美国长期国债收益率持续走高，部分市场人士将其归咎于沃什的沟通风格。&lt;strong&gt;批评者认为，在通胀持续超过目标五年有余的背景下，他迄今未能提供清晰可信的控通胀路线图。期限溢价——即投资者持有长期债券所要求的额外回报——已随之攀升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国银行全球研究美国利率策略主管Mark Cabana表示：&amp;quot;沃什对降低通胀的&amp;#x27;坚定承诺&amp;#x27;，对市场而言远远不够。我们需要听到美联储面对持续未达目标的局面，将如何推动通胀回落的具体计划。&amp;quot;&lt;/p&gt;
-&lt;p&gt;沃什曾表示，&lt;strong&gt;收益率上升是市场在美联储取消官方前瞻指引后&amp;quot;自行摸索&amp;quot;的积极信号。然而，这一表态与贝森特的立场形成直接对立——后者上周在财政部计划外扩大债券回购后明确指出，收益率水平与基本面存在背离。&lt;/strong&gt;&lt;/p&gt;
-
-财政部&amp;quot;扭曲操作&amp;quot;，债务结构悄然重塑
-
-&lt;p&gt;上周财政部的债券回购行动，是一场更大范围债务管理转型的组成部分。财政部宣布，自9月起将把长期低流动性债券的回购规模翻倍，每季度额外回购规模可达约160亿美元。这一操作将以发行新的短期国债（T-bills）来提供资金，市场将其定性为从长端向短端的&amp;quot;扭曲操作&amp;quot;。&lt;/p&gt;
-&lt;p&gt;事实上，更大规模的扭曲操作早已在推进之中。财政部持续举行长期债券例行拍卖，同时大幅增加短期国债发行以应对新增借贷需求。今年预计将额外发行约5000亿美元短期国债，若长期债券拍卖规模不相应扩大，这一数字到2028年将突破1万亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债务结构向短端集中，意味着美联储维持低利率的压力显著上升。Cabana指出，若沃什能够通过生产率驱动的增长与低通胀组合实现低利率，美国在利息支出上可节省数万亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，当前形势并不乐观。中东局势冲击导致今年通胀整体呈上行走势，部分政策制定者已明确倾向加息。市场目前定价显示，年内加息概率高达78%，与短端债务依赖逻辑形成明显冲突。&lt;/p&gt;
-&lt;p&gt;此外，短端债务能否找到足够需求本身也是问题。贝森特正将稳定币视为需求侧的重要支撑——相关发行机构依规须购买美国国债，而稳定币规模目前约为3000亿美元，被预测将实现快速增长。今年杰克逊霍尔会议的主题设定与《Genius Act》正式立法背景，使这一议题的讨论预计将成为重要看点。&lt;/p&gt;
-
-资产负债表收缩方向未定，协调需求倒逼政策接轨
-
-&lt;p&gt;在财政部增加短期国债供给的同时，美联储此前一直通过&amp;quot;储备管理购买&amp;quot;（Reserve Management Purchases，RMPs）机制购入T-bills，以维持回购市场顺畅运转所需的充裕准备金水平。今年原本预计购买2000亿至3000亿美元短期国债。&lt;/p&gt;
-&lt;p&gt;然而，纽约联储数周前宣布，8月中旬至9月中旬期间RMPs将归零。Cabana对此表示：&amp;quot;目前融资条件宽松，这解释了美联储暂停RMPs的原因。但我预计下半年购买将恢复，以配合经济增长和银行信贷扩张所需的资产负债表扩张。&amp;quot;&lt;/p&gt;
-&lt;p&gt;美联储资产负债表的长期走向仍存在较大不确定性。沃什设立的工作组预计将于年底前提交缩表建议方案。加拿大帝国商业银行美国利率策略主管Michael Cloherty表示：&amp;quot;量化紧缩最早可能于明年底启动。第一步是推进流动性监管规则的修订，这应能降低准备金需求，推动其回落至充裕区间之内，从而为美联储缩减资产创造条件。&amp;quot;&lt;/p&gt;
-&lt;p&gt;美联储目前仍持有约1.6万亿美元的10年期及以上美国国债。若未来寻求将这部分资产重新投放市场，将对长期收益率形成进一步上行压力。因此，&lt;strong&gt;沃什周五在长端收益率问题上措辞的松紧，本身将成为一个重要信号——映射出那份可能到来的&amp;quot;新协议&amp;quot;究竟有多大概率真正落地。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 舜宇光学科技上半年营收同比增长11.5%，净利润增长9.9%，机器视觉业务成增长新引擎 | 财报见闻</title><link>https://wallstreetcn.com/articles/3780353</link><guid>46e4b5dcf6cf084638073b3fa6b806b234e056085eb10e4cadfcad8eada2c75e</guid><pubDate>Wed, 26 Aug 2026 11:03:02 GMT</pubDate><description>&lt;p&gt;舜宇光学科技发布截至2026年6月30日止六个月的中期业绩，交出了一份稳健增长的成绩单。&lt;/p&gt;
-&lt;p&gt;报告期内，&lt;strong&gt;集团实现收入约人民币219.06亿元，同比增长约11.5%；毛利约42.69亿元，同比增长约9.6%；本公司股东应佔溢利约18.08亿元，同比增长约9.9%。&lt;/strong&gt;三项核心指标全面正增长，印证了舜宇在光学赛道的持续竞争力。&lt;/p&gt;
-
-&lt;p&gt;从增长结构来看，本次业绩最大的看点并非传统手机业务，而是汽车产品与&amp;quot;其他产品&amp;quot;两大板块的强势崛起。&lt;strong&gt;汽车产品收入同比增长约10.6%，其他产品收入更是从约21.43亿元暴增至约40.39亿元，&lt;/strong&gt;近乎翻倍。这一结构性转变，折射出舜宇在多元化布局上的战略成效，也为市场提供了更清晰的估值想象空间。&lt;/p&gt;
-&lt;p&gt;盈利质量方面，&lt;strong&gt;集团每股基本盈利从151.56人民币分提升至168.03人民币分，增幅约10.9%。&lt;/strong&gt;值得注意的是，集团大幅提高末期股息派发，2026年已付2025年末期股息为每股120.60港仙，较上年度的53.20港仙大幅增加，显示管理层对公司财务状况的充分信心，以及回馈股东的积极姿态。&lt;/p&gt;
-
-手机失速，汽车与&amp;quot;其他&amp;quot;接棒
-
-&lt;p&gt;集团本期对分部披露框架进行了重组，由原来的&amp;quot;光学零件、光电产品、光学仪器&amp;quot;三分法，调整为&amp;quot;手机、汽车、XR、其他产品&amp;quot;四大板块，以更贴合实际业务发展方向。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;手机业务在高基数下小幅下滑，分部利润更从约19.00亿元降至约16.15亿元，压力不容忽视——这与整体智能手机市场竞争加剧、产品价格压力持续有关。&lt;/p&gt;
-&lt;p&gt;相比之下，汽车产品以双位数增速稳步前进，分部利润维持在约11.39亿元的高位，盈利能力坚实；XR产品虽体量仍小，但同样录得增长，受益于全球XR设备出货量回暖；&amp;quot;其他产品&amp;quot;的近乎翻倍表现尤为惊人，成为本期最大亮点，或涉及机器视觉、工业光学等新兴领域的快速放量。&lt;/p&gt;
-
-欧洲与北美增长提速，海外化加速
-
-&lt;p&gt;地区收入结构显示，集团正在加速拓展海外市场，尤其是欧美地区表现亮眼。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;北美收入同比翻倍，欧洲增速超过40%，表明集团在全球供应链重构背景下，正积极受益于海外客户的多元化采购需求。中国市场虽仍是基本盘，但其收入占比已从71.9%小幅下降至68.9%，收入结构多元化趋势明显。&lt;/p&gt;
-
-盈利能力：毛利率微承压，研发投入维持高位
-
-&lt;p&gt;报告期内，集团整体毛利率约为19.5%，较去年同期的19.8%略有下降。手机业务分部利润的下滑是主要拖累因素。与此同时，融资成本从约2.44亿元大幅降至约1.64亿元，降幅约32.8%，有效减轻了盈利端压力，反映出集团资产负债表管理的优化成效。&lt;/p&gt;
-&lt;p&gt;研发投入方面，集团本期研发开支约16.51亿元，同比小幅增长约1.0%，占收入比例约7.5%。尽管增速放缓，但绝对规模仍然可观，显示集团在光学核心技术上持续投入的战略定力不变。此外，政府补助同比增长约45.8%至约1.30亿元，一定程度上体现了集团技术研发项目获得政府层面的认可与支持。&lt;/p&gt;
-
-税务与支柱二规则：全球最低税带来额外负担
-
-&lt;p&gt;值得关注的是，本期所得税开支从约1.41亿元大幅上升至约2.52亿元，增幅约78.8%，有效税率从约7.6%跳升至约11.5%。&lt;/p&gt;
-&lt;p&gt;这背后的重要原因之一，是全球最低补足税支柱二规则的影响。集团本期确认与支柱二相关的即期税项开支达约5070万元，较去年同期的约1049万元增加近四倍，涉及集团在实际税率低于15%的国家和地区的业务。随着全球反避税规则的深化落地，这一税负压力预计将持续存在，是投资者在评估集团未来盈利时不可忽视的变量。&lt;/p&gt;
-
-资产负债表：财务结构稳健，现金管理结构调整
-
-&lt;p&gt;截至2026年6月30日，集团资产净值约295.98亿元，较2025年底的297.64亿元略有下降。流动资产中，现金及现金等值项目从约74.82亿元降至约34.99亿元，但与此同时，按公允值计入损益的金融资产从约114.07亿元增至约133.27亿元，显示集团将部分现金转入流动性管理产品，整体可动用流动性资源依然充裕。&lt;/p&gt;
-&lt;p&gt;负债端，贸易及其他应付款项从约215.59亿元降至约163.74亿元，非流动银行借贷从约14.06亿元降至约5.00亿元，资产负债结构持续优化，财务杠杆风险可控。集团继续保持不派发中期股息的惯例，将盈利留存用于支撑后续扩张与研发投入。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对OpenAI自研芯片的解读与思考</title><link>http://xueqiu.com/5332385101/406626648</link><guid>8b2080bec83cd352a2325b68104b11bcc8b524319c60bfaeb6e61a0d46456719</guid><pubDate>Wed, 26 Aug 2026 10:08:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股科技回暖，英伟达结束七连跌收涨超2%，Lumentum、Coherent分别涨超6%和4%，美光、海力士均涨约2.5%。&lt;/p&gt;</description></item><item><title>[今日雪球] 以铜股为例谈谈资金面与基本面为什么背离？</title><link>http://xueqiu.com/1641200866/406624328</link><guid>ae5c16d1d8131ec3fbc5d007ccdba4e2154b74642d64beba2abb9f39bb7b7185</guid><pubDate>Wed, 26 Aug 2026 10:08:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;烟花易冷破红尘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，纽铜，伦铜创收盘价历史新高。铜矿龙头必合必拓，自由港和南方铜业也都创下了历史新高。其估值普遍25~35倍的PE。年度涨幅一度高达60%。反观国内铜股呢？一个个股价还趴在地上，离新高还有30%左右的距离。还不少铜股年线还收绿。在铜价连续上涨的情况下，出现了资金面，技术面与基本面的背离。那么为什么铜价大涨，国内铜股的股价不跟随呢？&lt;/p&gt;</description></item><item><title>[今日雪球] 药王退位，生态称王：全球医药权力结构正在被重新布线</title><link>http://xueqiu.com/7271353740/406678976</link><guid>8e9b831cfcaeff85eff814bcd80a37bb161a2a0d17f952f47e76e904d77e78c3</guid><pubDate>Wed, 26 Aug 2026 10:08:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;以前聊医药股，经常会说谁家单品卖了多少亿，谁是药王。今年上半年数据看完，我有个特别强烈的感觉：&lt;strong&gt;还盯着单一药王，过时了，甚至会害了你。&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对OpenAI自研芯片的解读与思考</title><link>http://xueqiu.com/5332385101/406626648</link><guid>8b2080bec83cd352a2325b68104b11bcc8b524319c60bfaeb6e61a0d46456719</guid><pubDate>Wed, 26 Aug 2026 10:08:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股科技回暖，英伟达结束七连跌收涨超2%，Lumentum、Coherent分别涨超6%和4%，美光、海力士均涨约2.5%。&lt;/p&gt;</description></item><item><title>[今日雪球] 以铜股为例谈谈资金面与基本面为什么背离？</title><link>http://xueqiu.com/1641200866/406624328</link><guid>ae5c16d1d8131ec3fbc5d007ccdba4e2154b74642d64beba2abb9f39bb7b7185</guid><pubDate>Wed, 26 Aug 2026 10:08:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;烟花易冷破红尘&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;近期，纽铜，伦铜创收盘价历史新高。铜矿龙头必合必拓，自由港和南方铜业也都创下了历史新高。其估值普遍25~35倍的PE。年度涨幅一度高达60%。反观国内铜股呢？一个个股价还趴在地上，离新高还有30%左右的距离。还不少铜股年线还收绿。在铜价连续上涨的情况下，出现了资金面，技术面与基本面的背离。那么为什么铜价大涨，国内铜股的股价不跟随呢？&lt;/p&gt;</description></item><item><title>[今日雪球] 药王退位，生态称王：全球医药权力结构正在被重新布线</title><link>http://xueqiu.com/7271353740/406678976</link><guid>8e9b831cfcaeff85eff814bcd80a37bb161a2a0d17f952f47e76e904d77e78c3</guid><pubDate>Wed, 26 Aug 2026 10:08:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;以前聊医药股，经常会说谁家单品卖了多少亿，谁是药王。今年上半年数据看完，我有个特别强烈的感觉：&lt;strong&gt;还盯着单一药王，过时了，甚至会害了你。&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
