@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 27 Aug 2026 15:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌</title><link>https://wallstreetcn.com/articles/3780415</link><guid>c444e1669870d905db76fb4633f4a66477057c618ee7ebf6e8a0384db8e64692</guid><pubDate>Thu, 27 Aug 2026 13:35:04 GMT</pubDate><description>&lt;p&gt;英伟达发布强劲财季业绩及乐观前景展望，提振投资者对人工智能支出扩张周期延续的信心。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 27 Aug 2026 15:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌</title><link>https://wallstreetcn.com/articles/3780415</link><guid>c444e1669870d905db76fb4633f4a66477057c618ee7ebf6e8a0384db8e64692</guid><pubDate>Thu, 27 Aug 2026 13:35:04 GMT</pubDate><description>&lt;p&gt;英伟达发布强劲财季业绩及乐观前景展望，提振投资者对人工智能支出扩张周期延续的信心。&lt;/p&gt;
 &lt;p&gt;周四，美股开盘三大股指涨跌不一，道指跌0.1%，标普500指数涨0.34%，纳指涨0.87%。英伟达上涨近7%，市值增加3590亿美元；CrowdStrike涨约10%，公司大幅上调全年指引。&lt;/p&gt;
 &lt;p&gt;与此同时，债市情绪偏谨慎。美国核心PCE数据显示通胀仍高于美联储目标，交易员随即小幅加码年内加息押注，美债收益率曲线整体下滑，对利率敏感的两年期美债收益率上行一个基点至4.22%，货币市场已完全定价12月加息。美联储主席沃什将在杰克逊霍尔年会上发表首次重要讲话，市场对其政策立场的清晰度寄予高度关注。&lt;/p&gt;
 &lt;p&gt;Pepperstone Group策略师Dilin Wu在报告中指出，&amp;quot;关键不在于简单判断鹰派还是鸽派，而在于沃什如何在通胀、就业、长端利率与美联储公信力之间寻求平衡。若市场开始担忧政策失误，美国股市可能继续承压。&amp;quot;&lt;/p&gt;
@@ -52,25 +52,7 @@
 &lt;p&gt;GLM-5.3-Flash的发布，恰逢中国AI模型市场一轮集体涨价之后。Kimi K3输出价格高达每百万token 100元，超过前代K2.6三倍以上；DeepSeek V4 Pro从6元涨至13.5元，高峰时段达27元；DeepSeek V4 Flash输出价格从2元涨至4.5元，高峰时段9元。&lt;/p&gt;
 &lt;p&gt;据《晚点LatePost》，DeepSeek V4 Flash提价后，在OpenCode平台上的调用量下滑了一半，这部分外溢需求成为国产模型厂商新的增长空间。&lt;/p&gt;
 &lt;p&gt;GLM-5.3-Flash的定价策略正是瞄准这一缺口。该模型每百万token输入0.8元，输出2.8元，缓存命中价格0.23元，为GLM-5.3的十分之一，上线前两周实行半价。智谱表示，限时折扣期内定价为GLM-5.3的1/20，为Claude Opus 4.8的1/40。与调价后的DeepSeek V4 Flash相比，GLM-5.3-Flash在绝大多数常规调用场景下更为便宜。&lt;/p&gt;
-&lt;p&gt;智谱计划于下周一发布首份详细财报，覆盖今年1月上市以来的前六个月业绩。此次GLM-5.3-Flash的发布及其市场表现，将为投资者提供评估公司商业化进展的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破“SaaS末日论”！Salesforce财报超预期盘前大涨10%，机构大幅上调目标价</title><link>https://wallstreetcn.com/articles/3780466</link><guid>0d4d1b2209008401067015c2fcd1e8b487fd7969e3466f4ba6ca15e0590fa692</guid><pubDate>Thu, 27 Aug 2026 12:37:08 GMT</pubDate><description>&lt;p&gt;Salesforce以超预期的财报和前瞻性的 AI 结盟，&lt;strong&gt;强力击碎了华尔街对 SaaS 行业陷入“末日衰退”（SaaSpocalypse）的悲观叙事，重新确立了企业软件巨头在 AI 时代的增长锚点与定价权。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最新公布的第二财季业绩及第三财季指引全面超越市场预期，推动公司股价在周三美股盘后大涨约13%，周四美股盘前仍保持10%的涨幅。这一强劲表现不仅证明了核心订阅业务的韧性，更直接缓解了市场对传统 SaaS 企业被生成式 AI 颠覆取代的深层焦虑。&lt;/p&gt;
-&lt;p&gt;与此同时，公司宣布与 AI 独角兽Anthropic建立全新合作伙伴关系，为其 AI 产品线注入强心剂。在机构集体上调目标价与大规模股票回购计划的共振下，&lt;strong&gt;Salesforce正成为整个SaaS板块情绪反转的关键催化剂。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，在软件板块情绪回暖的表象下，市场对 AI 公司年度经常性收入（ARR）计算方式的质疑正在发酵。这一争议不仅关乎单一企业的财务透明度，更可能对 AI 及 SaaS 板块的整体估值逻辑产生深远影响。&lt;/p&gt;
-业绩与指引双超预期，盘后大涨击碎衰退魔咒
-&lt;p&gt;此前，宏观经济放缓导致企业削减软件支出的担忧不断加剧，市场甚至衍生出 SaaS 行业极端衰退的悲观预期。Salesforce 的最新财报直接打破了这一魔咒。&lt;/p&gt;
-&lt;p&gt;数据显示&lt;strong&gt;，Salesforce 第二财季总营收达到 113.5 亿美元，同比增长 11%；调整后每股收益（EPS）为 5.90 美元，大幅超出华尔街预期。&lt;/strong&gt;更具前瞻性的是，&lt;strong&gt;公司给出的第三财季营收指引在 114.2 亿至 115 亿美元之间，显著高于分析师的平均预期。&lt;/strong&gt;此外，当前剩余履约义务（RPO）预计将增长约 14%，直接反映了客户对未来服务的承诺与需求粘性。&lt;/p&gt;
-&lt;p&gt;超预期的基本面引发了资本市场与衍生品市场的积极反馈。财报发布前后，Salesforce 单只股票的期权合约成交量超过了整个 IGV 软件 ETF，其中看涨期权的权利金占比高达 61%，隐含波动率预期财报后股价波动约 7.8%。&lt;/p&gt;
-&lt;p&gt;在机构上调评级的背后，是公司激进的资本回报计划提供的底部支撑。Salesforce 宣布启动高达 250 亿美元的加速股票回购协议（ASR），并通过发行约 248.42 亿美元债券进行融资。尽管此举将非流动债务推高至 392.8 亿美元，但大规模回购向市场传递了管理层对未来现金流和盈利能力的强烈信心。&lt;/p&gt;
-联手 Anthropic 深化布局，化解 AI 替代焦虑
-&lt;p&gt;在稳固基本盘的同时，Salesforce 正在加速将其 AI 战略转化为实际的商业护城河。公司最新宣布与 AI 领域头部企业 Anthropic 建立全新的合作伙伴关系，成为此次财报季的核心增量。&lt;/p&gt;
-&lt;p&gt;这一合作并非简单的技术叠加，而&lt;strong&gt;是 Salesforce 强化其 AI 产品线、深化企业级 AI 应用落地的关键一步。&lt;/strong&gt;通过引入 Anthropic 先进的底层大模型能力，Salesforce 能够进一步丰富其 AI 产品的功能矩阵，提升企业客户在自动化、数据分析及客户交互等场景下的效率。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，与 Anthropic 的结盟提供了保持乐观的实质性理由。在生成式 AI 竞争日益白热化的当下，市场曾担忧传统 SaaS 软件会被 AI 原生应用取代。Salesforce 通过外部强强联合与内部产品迭代的双轮驱动，正加速构建其在 AI 时代的差异化竞争优势，成功将“被 AI 取代”的焦虑转化为“利用 AI 赋能”的增长逻辑。&lt;/p&gt;
-机构集体上调目标价，ARR 估值争议暗藏重估风险
-&lt;p&gt;CNBC投资团队把本次业绩当作一次重大胜利，将目标股提高到每股250美元。&lt;/p&gt;
-&lt;p&gt;除此以外，多家华尔街机构纷纷上调了对 Salesforce 的目标价，重申对其长期增长潜力的看好，标志着资金正在重新审视并定价 SaaS 龙头的长期价值。&lt;/p&gt;
-&lt;p&gt;但在乐观情绪之外，市场对 AI 公司财务指标的计算方式正产生深刻质疑&lt;strong&gt;。以硅谷偏好的年度经常性收入（ARR）指标为例，市场指出，当前许多 AI 公司基于使用量的定价模式，并不适用传统的 ARR 乘数计算方式。此外，简单的单月收入年化计算也未充分考虑业务的季节性波动因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由于未上市 AI 公司在财务披露上缺乏统一的公认标准，企业可以选择性披露财务指标并加入乐观假设。这种财务披露标准的缺失和 ARR 计算方式的争议，可能导致部分 AI 公司的实际营收质量被高估。&lt;/p&gt;
-&lt;p&gt;这一争议不仅关乎 Anthropic 等 AI 独角兽的估值合理性，更对整体 AI 及 SaaS 板块的估值体系提出了挑战。投资者在拥抱 Salesforce 等 SaaS 龙头基本面反转的同时，也需警惕 AI 板块因估值逻辑瑕疵而潜在的定价修正风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指均涨超1%，科创50大涨超3%，算力硬件、半导体集体爆发，港股AI大模型双雄拉升、智谱涨12%</title><link>https://wallstreetcn.com/articles/3780403</link><guid>1e5ca4248175237475c146d25c4f93b4b5b86fe8d9252adb5a3494214706b342</guid><pubDate>Thu, 27 Aug 2026 08:20:41 GMT</pubDate><description>&lt;p&gt;国务院《关于深入实施&amp;quot;人工智能+&amp;quot;行动的意见》落地，再加上隔夜英伟达业绩指引碾压市场预期，算力硬件链（PCB、CPO、光纤）全线爆发。&lt;/p&gt;
+&lt;p&gt;智谱计划于下周一发布首份详细财报，覆盖今年1月上市以来的前六个月业绩。此次GLM-5.3-Flash的发布及其市场表现，将为投资者提供评估公司商业化进展的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指均涨超1%，科创50大涨超3%，算力硬件、半导体集体爆发，港股AI大模型双雄拉升、智谱涨12%</title><link>https://wallstreetcn.com/articles/3780403</link><guid>1e5ca4248175237475c146d25c4f93b4b5b86fe8d9252adb5a3494214706b342</guid><pubDate>Thu, 27 Aug 2026 08:20:41 GMT</pubDate><description>&lt;p&gt;国务院《关于深入实施&amp;quot;人工智能+&amp;quot;行动的意见》落地，再加上隔夜英伟达业绩指引碾压市场预期，算力硬件链（PCB、CPO、光纤）全线爆发。&lt;/p&gt;
 &lt;p&gt;8月27日，A股全天震荡上涨，三大股指午后进一步拉升，沪指、深成指、创业板均涨超1%，在算力硬件、芯片半导体拉升的带动下，科创50大涨超3%，光通信、光模块、HBM、光电路交换机、存储芯片等概念股集体大涨，电工电网、光伏、储能、银行等板块调整。&lt;/p&gt;
 &lt;p&gt;港股高开低走，全天震荡下跌，恒指、恒科指双双收跌，科网股分化，百度逆势涨超6%，小米跌超3%。受到英伟达业绩提振，光通信、芯片半导体等概念股集体反弹，澜起科技、兆易创新涨幅居前。AI大模型双雄亦反弹，智谱涨12%，智谱旗舰模型 GLM-5.3 将在8月28日上午10点开源。此外，中际旭创H股涨3%，此前上交所及深交所宣布，将中际旭创（H股）调入沪港通下港股通标的，自8月27日起生效。&lt;/p&gt;
 &lt;p&gt;债市方面，国债期货全线下跌。商品方面，国内商品期货涨跌不一。&lt;/p&gt;
@@ -168,7 +150,25 @@
 &lt;p&gt;这笔交易，英伟达用两个季度的毛利率，买了一个它最看重的东西，增长的确定性。需求翻倍，供应只能给70%，它选择先锁住供应，再谈利润率。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;胜负手在四季度。如果毛利率能在71%附近企稳，72%到73%的修复兑现，这笔交易就赢了，英伟达用两个季度的利润率，换来了未来两年的确定性。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;证伪条件同样清楚。内存涨价失控，修复落空；下游需求撑不起那70%的承诺，2790亿的采购底仓从弹药变成库存包袱；更远一点，OpenAI的自研芯片、谷歌的TPU、华为的昇腾，正在推理侧一点一点啃它的定价权。四季度毛利率能不能在71%附近企稳，就是第一个观测窗口。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：英伟达27年指引大超预期，毛利率“靴子落地”，上调目标价至300美元</title><link>https://wallstreetcn.com/articles/3780418</link><guid>b5131762562cc12741e3cde29cc04b1436d97b822ae21f93288c464d5c604264</guid><pubDate>Thu, 27 Aug 2026 06:18:14 GMT</pubDate><description>&lt;p&gt;英伟达交出一份强劲季报，高盛认为三大催化剂将推动股价持续跑赢大市。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破“SaaS末日论”！Salesforce财报超预期盘前大涨10%，机构大幅上调目标价</title><link>https://wallstreetcn.com/articles/3780466</link><guid>0d4d1b2209008401067015c2fcd1e8b487fd7969e3466f4ba6ca15e0590fa692</guid><pubDate>Thu, 27 Aug 2026 12:37:08 GMT</pubDate><description>&lt;p&gt;Salesforce以超预期的财报和前瞻性的 AI 结盟，&lt;strong&gt;强力击碎了华尔街对 SaaS 行业陷入“末日衰退”（SaaSpocalypse）的悲观叙事，重新确立了企业软件巨头在 AI 时代的增长锚点与定价权。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最新公布的第二财季业绩及第三财季指引全面超越市场预期，推动公司股价在周三美股盘后大涨约13%，周四美股盘前仍保持10%的涨幅。这一强劲表现不仅证明了核心订阅业务的韧性，更直接缓解了市场对传统 SaaS 企业被生成式 AI 颠覆取代的深层焦虑。&lt;/p&gt;
+&lt;p&gt;与此同时，公司宣布与 AI 独角兽Anthropic建立全新合作伙伴关系，为其 AI 产品线注入强心剂。在机构集体上调目标价与大规模股票回购计划的共振下，&lt;strong&gt;Salesforce正成为整个SaaS板块情绪反转的关键催化剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，在软件板块情绪回暖的表象下，市场对 AI 公司年度经常性收入（ARR）计算方式的质疑正在发酵。这一争议不仅关乎单一企业的财务透明度，更可能对 AI 及 SaaS 板块的整体估值逻辑产生深远影响。&lt;/p&gt;
+业绩与指引双超预期，盘后大涨击碎衰退魔咒
+&lt;p&gt;此前，宏观经济放缓导致企业削减软件支出的担忧不断加剧，市场甚至衍生出 SaaS 行业极端衰退的悲观预期。Salesforce 的最新财报直接打破了这一魔咒。&lt;/p&gt;
+&lt;p&gt;数据显示&lt;strong&gt;，Salesforce 第二财季总营收达到 113.5 亿美元，同比增长 11%；调整后每股收益（EPS）为 5.90 美元，大幅超出华尔街预期。&lt;/strong&gt;更具前瞻性的是，&lt;strong&gt;公司给出的第三财季营收指引在 114.2 亿至 115 亿美元之间，显著高于分析师的平均预期。&lt;/strong&gt;此外，当前剩余履约义务（RPO）预计将增长约 14%，直接反映了客户对未来服务的承诺与需求粘性。&lt;/p&gt;
+&lt;p&gt;超预期的基本面引发了资本市场与衍生品市场的积极反馈。财报发布前后，Salesforce 单只股票的期权合约成交量超过了整个 IGV 软件 ETF，其中看涨期权的权利金占比高达 61%，隐含波动率预期财报后股价波动约 7.8%。&lt;/p&gt;
+&lt;p&gt;在机构上调评级的背后，是公司激进的资本回报计划提供的底部支撑。Salesforce 宣布启动高达 250 亿美元的加速股票回购协议（ASR），并通过发行约 248.42 亿美元债券进行融资。尽管此举将非流动债务推高至 392.8 亿美元，但大规模回购向市场传递了管理层对未来现金流和盈利能力的强烈信心。&lt;/p&gt;
+联手 Anthropic 深化布局，化解 AI 替代焦虑
+&lt;p&gt;在稳固基本盘的同时，Salesforce 正在加速将其 AI 战略转化为实际的商业护城河。公司最新宣布与 AI 领域头部企业 Anthropic 建立全新的合作伙伴关系，成为此次财报季的核心增量。&lt;/p&gt;
+&lt;p&gt;这一合作并非简单的技术叠加，而&lt;strong&gt;是 Salesforce 强化其 AI 产品线、深化企业级 AI 应用落地的关键一步。&lt;/strong&gt;通过引入 Anthropic 先进的底层大模型能力，Salesforce 能够进一步丰富其 AI 产品的功能矩阵，提升企业客户在自动化、数据分析及客户交互等场景下的效率。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，与 Anthropic 的结盟提供了保持乐观的实质性理由。在生成式 AI 竞争日益白热化的当下，市场曾担忧传统 SaaS 软件会被 AI 原生应用取代。Salesforce 通过外部强强联合与内部产品迭代的双轮驱动，正加速构建其在 AI 时代的差异化竞争优势，成功将“被 AI 取代”的焦虑转化为“利用 AI 赋能”的增长逻辑。&lt;/p&gt;
+机构集体上调目标价，ARR 估值争议暗藏重估风险
+&lt;p&gt;CNBC投资团队把本次业绩当作一次重大胜利，将目标股提高到每股250美元。&lt;/p&gt;
+&lt;p&gt;除此以外，多家华尔街机构纷纷上调了对 Salesforce 的目标价，重申对其长期增长潜力的看好，标志着资金正在重新审视并定价 SaaS 龙头的长期价值。&lt;/p&gt;
+&lt;p&gt;但在乐观情绪之外，市场对 AI 公司财务指标的计算方式正产生深刻质疑&lt;strong&gt;。以硅谷偏好的年度经常性收入（ARR）指标为例，市场指出，当前许多 AI 公司基于使用量的定价模式，并不适用传统的 ARR 乘数计算方式。此外，简单的单月收入年化计算也未充分考虑业务的季节性波动因素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;由于未上市 AI 公司在财务披露上缺乏统一的公认标准，企业可以选择性披露财务指标并加入乐观假设。这种财务披露标准的缺失和 ARR 计算方式的争议，可能导致部分 AI 公司的实际营收质量被高估。&lt;/p&gt;
+&lt;p&gt;这一争议不仅关乎 Anthropic 等 AI 独角兽的估值合理性，更对整体 AI 及 SaaS 板块的估值体系提出了挑战。投资者在拥抱 Salesforce 等 SaaS 龙头基本面反转的同时，也需警惕 AI 板块因估值逻辑瑕疵而潜在的定价修正风险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：英伟达27年指引大超预期，毛利率“靴子落地”，上调目标价至300美元</title><link>https://wallstreetcn.com/articles/3780418</link><guid>b5131762562cc12741e3cde29cc04b1436d97b822ae21f93288c464d5c604264</guid><pubDate>Thu, 27 Aug 2026 06:18:14 GMT</pubDate><description>&lt;p&gt;英伟达交出一份强劲季报，高盛认为三大催化剂将推动股价持续跑赢大市。&lt;/p&gt;
 &lt;p&gt;英伟达公布的第二季度营收达962亿美元，超出华尔街预期。管理层随即给出2027日历年营收增长70%的全年展望，远超高盛此前预估的55%及市场普遍预期的44%。受此提振，英伟达股价盘后上涨约4%。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，高盛在最新研报中重申对英伟达的买入评级，&lt;strong&gt;并将12个月目标价从285美元上调至300美元，隐含较当前股价约38%的潜在总回报空间。&lt;/strong&gt;高盛分析师James Schneider领衔的团队认为，&lt;strong&gt;2027年营收指引与最乐观的买方预期相符，同时毛利率展望明朗化及管理层对客户财务承诺的披露，将共同为股票估值提供更坚实支撑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
