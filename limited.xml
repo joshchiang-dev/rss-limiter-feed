@@ -1,29 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 27 Aug 2026 22:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell Q2营收同比增长37%超预期，Q3指引31.5亿美元远超预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3780501</link><guid>e3ed71ce8967465ea13e7004abc8ae35710961df8e894c3787412797696c1236</guid><pubDate>Thu, 27 Aug 2026 20:56:40 GMT</pubDate><description>&lt;p&gt;Marvell科技公布了强劲的财季业绩，但由于市场预期已被大幅推高，公司小幅超出预期的表现未能令投资者满意，股票在盘后交易中出现下跌。&lt;/p&gt;
-&lt;p&gt;8月27日美股盘后，Marvell科技公布第二财季业绩报告，&lt;strong&gt;营收同比增长37%至27.4亿美元，调整后每股收益为0.94美元，均略超分析师预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三财季业绩指引为31.5亿美元，远高于分析师此前预测的30.3至30.4亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管如此，公司盘后股价一度承压下跌约1.7%，随后小幅转涨。值得注意的是，在发布财报前，Marvell科技股价今年以来已累计上涨184%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Marvell科技是本轮人工智能交易浪潮中的核心受益标的之一，既从事定制芯片设计，也向AI服务器集群提供光学网络互联技术。然而随着近几周AI相关交易出现回调，投资者显然对业绩抱有更高期待，略超预期的数据难以提振信心。&lt;/p&gt;
-
-数据中心业务强劲，营收增长提速
-
-&lt;p&gt;Marvell科技第二财季数据中心业务营收同比增长46%至22亿美元，成为整体业绩的主要驱动力。通信及其他业务板块营收为5.678亿美元，同比增长10%。&lt;/p&gt;
-&lt;p&gt;利润方面，净利润达8.659亿美元，高于分析师预期的8.52亿美元；调整后每股收益0.94美元，较上年同期的0.67美元增长约40%，略超市场共识预期的0.92至0.93美元。&lt;/p&gt;
-&lt;p&gt;毛利率方面，非GAAP毛利率为58.9%，较上年同期下降50个基点；GAAP毛利率则上升270个基点至53.1%。&lt;/p&gt;
-
-第三财季指引超预期，定制业务加速提速
-
-&lt;p&gt;Marvell科技预计第三财季营收约为31.5亿美元（上下浮动5%），远高于分析师此前预测的30.3至30.4亿美元。调整后每股收益指引为1.10美元（上下浮动0.05美元），亦高于市场预期的1.07至1.08美元。&lt;/p&gt;
-&lt;p&gt;公司还预计第三财季GAAP毛利率区间为52.9%至53.9%，非GAAP毛利率为57.5%至58.5%；GAAP运营支出约为10.2亿美元，非GAAP运营支出约为6.55亿美元。&lt;/p&gt;
-&lt;p&gt;Marvell科技首席执行官Matt Murphy在财报声明中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们看到数据中心业务组合呈现全面增长态势，包括互联业务的强劲需求，以及定制业务从2027财年下半年开始的显著提速。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;上周，谷歌获得认购Marvell科技价值122亿美元股份的认股权证，推动公司股价上涨。&lt;/p&gt;
-&lt;p&gt;双方在谷歌AI张量处理单元（TPU）的相关业务上保持紧密合作，这一合作关系进一步巩固了Marvell科技的定制芯片设计业务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情重燃，英伟达涨近9%力撑纳指大涨，软件股集体爆发，赛富时飙涨超22%</title><link>https://wallstreetcn.com/articles/3780415</link><guid>c444e1669870d905db76fb4633f4a66477057c618ee7ebf6e8a0384db8e64692</guid><pubDate>Thu, 27 Aug 2026 21:45:46 GMT</pubDate><description>&lt;p&gt;英伟达发布强劲财季业绩及乐观前景展望，提振投资者对人工智能支出扩张周期延续的信心。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 27 Aug 2026 23:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] AI热情重燃，英伟达涨近9%力撑纳指大涨，软件股集体爆发，Salesforce飙涨23%</title><link>https://wallstreetcn.com/articles/3780415</link><guid>c444e1669870d905db76fb4633f4a66477057c618ee7ebf6e8a0384db8e64692</guid><pubDate>Thu, 27 Aug 2026 21:45:46 GMT</pubDate><description>&lt;p&gt;英伟达发布强劲财季业绩及乐观前景展望，提振投资者对人工智能支出扩张周期延续的信心。&lt;/p&gt;
 &lt;p&gt;周四，美股三大指数集体收涨，纳指涨1.57%报26541点，标普500涨0.71%报7730点，道指涨0.20%报53569点。&lt;/p&gt;
-&lt;p&gt;领涨阵营集中在软件与AI——英伟达涨8.70%、赛富时涨22.58%、Okta涨28.63%、CrowdStrike涨20.50%。&lt;strong&gt;但标普500指数11个板块中仅科技板块上涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;领涨阵营集中在软件与AI。英伟达涨8.70%、Salesforce飙升23%、Okta涨28.63%、CrowdStrike涨20.50%。&lt;strong&gt;但标普500指数11个板块中仅科技板块上涨。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;WTI盘中冲至84美元后回落收涨1.58%。10年期美债收益率上行约3个基点报4.67%，市场焦点转向明日美联储主席沃什在杰克逊霍尔的首次主题演讲。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 英伟达2028营收指引增70%引爆AI买盘，半导体全线大涨
@@ -89,7 +67,29 @@
 &lt;p&gt;美元指数日内测试前一交易日高点后回落，最终基本持平，收于99.16。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币日内大涨约2.9%，重新逼近81000美元关口。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破“SaaS末日论”！Salesforce财报超预期盘前大涨10%，机构大幅上调目标价</title><link>https://wallstreetcn.com/articles/3780466</link><guid>0d4d1b2209008401067015c2fcd1e8b487fd7969e3466f4ba6ca15e0590fa692</guid><pubDate>Thu, 27 Aug 2026 12:37:08 GMT</pubDate><description>&lt;p&gt;Salesforce以超预期的财报和前瞻性的 AI 结盟，&lt;strong&gt;强力击碎了华尔街对 SaaS 行业陷入“末日衰退”（SaaSpocalypse）的悲观叙事，重新确立了企业软件巨头在 AI 时代的增长锚点与定价权。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Marvell Q2营收同比增长37%超预期，Q3指引31.5亿美元远超预期｜财报见闻</title><link>https://wallstreetcn.com/articles/3780501</link><guid>e3ed71ce8967465ea13e7004abc8ae35710961df8e894c3787412797696c1236</guid><pubDate>Thu, 27 Aug 2026 20:56:40 GMT</pubDate><description>&lt;p&gt;Marvell科技公布了强劲的财季业绩，但由于市场预期已被大幅推高，公司小幅超出预期的表现未能令投资者满意，股票在盘后交易中出现下跌。&lt;/p&gt;
+&lt;p&gt;8月27日美股盘后，Marvell科技公布第二财季业绩报告，&lt;strong&gt;营收同比增长37%至27.4亿美元，调整后每股收益为0.94美元，均略超分析师预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三财季业绩指引为31.5亿美元，远高于分析师此前预测的30.3至30.4亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管如此，公司盘后股价一度承压下跌约1.7%，随后小幅转涨。值得注意的是，在发布财报前，Marvell科技股价今年以来已累计上涨184%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Marvell科技是本轮人工智能交易浪潮中的核心受益标的之一，既从事定制芯片设计，也向AI服务器集群提供光学网络互联技术。然而随着近几周AI相关交易出现回调，投资者显然对业绩抱有更高期待，略超预期的数据难以提振信心。&lt;/p&gt;
+
+数据中心业务强劲，营收增长提速
+
+&lt;p&gt;Marvell科技第二财季数据中心业务营收同比增长46%至22亿美元，成为整体业绩的主要驱动力。通信及其他业务板块营收为5.678亿美元，同比增长10%。&lt;/p&gt;
+&lt;p&gt;利润方面，净利润达8.659亿美元，高于分析师预期的8.52亿美元；调整后每股收益0.94美元，较上年同期的0.67美元增长约40%，略超市场共识预期的0.92至0.93美元。&lt;/p&gt;
+&lt;p&gt;毛利率方面，非GAAP毛利率为58.9%，较上年同期下降50个基点；GAAP毛利率则上升270个基点至53.1%。&lt;/p&gt;
+
+第三财季指引超预期，定制业务加速提速
+
+&lt;p&gt;Marvell科技预计第三财季营收约为31.5亿美元（上下浮动5%），远高于分析师此前预测的30.3至30.4亿美元。调整后每股收益指引为1.10美元（上下浮动0.05美元），亦高于市场预期的1.07至1.08美元。&lt;/p&gt;
+&lt;p&gt;公司还预计第三财季GAAP毛利率区间为52.9%至53.9%，非GAAP毛利率为57.5%至58.5%；GAAP运营支出约为10.2亿美元，非GAAP运营支出约为6.55亿美元。&lt;/p&gt;
+&lt;p&gt;Marvell科技首席执行官Matt Murphy在财报声明中表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们看到数据中心业务组合呈现全面增长态势，包括互联业务的强劲需求，以及定制业务从2027财年下半年开始的显著提速。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上周，谷歌获得认购Marvell科技价值122亿美元股份的认股权证，推动公司股价上涨。&lt;/p&gt;
+&lt;p&gt;双方在谷歌AI张量处理单元（TPU）的相关业务上保持紧密合作，这一合作关系进一步巩固了Marvell科技的定制芯片设计业务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 打破“SaaS末日论”！Salesforce财报超预期盘前大涨10%，机构大幅上调目标价</title><link>https://wallstreetcn.com/articles/3780466</link><guid>0d4d1b2209008401067015c2fcd1e8b487fd7969e3466f4ba6ca15e0590fa692</guid><pubDate>Thu, 27 Aug 2026 12:37:08 GMT</pubDate><description>&lt;p&gt;Salesforce以超预期的财报和前瞻性的 AI 结盟，&lt;strong&gt;强力击碎了华尔街对 SaaS 行业陷入“末日衰退”（SaaSpocalypse）的悲观叙事，重新确立了企业软件巨头在 AI 时代的增长锚点与定价权。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;最新公布的第二财季业绩及第三财季指引全面超越市场预期，推动公司股价在周三美股盘后大涨约13%，周四美股盘前仍保持10%的涨幅。这一强劲表现不仅证明了核心订阅业务的韧性，更直接缓解了市场对传统 SaaS 企业被生成式 AI 颠覆取代的深层焦虑。&lt;/p&gt;
 &lt;p&gt;与此同时，公司宣布与 AI 独角兽Anthropic建立全新合作伙伴关系，为其 AI 产品线注入强心剂。在机构集体上调目标价与大规模股票回购计划的共振下，&lt;strong&gt;Salesforce正成为整个SaaS板块情绪反转的关键催化剂。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，在软件板块情绪回暖的表象下，市场对 AI 公司年度经常性收入（ARR）计算方式的质疑正在发酵。这一争议不仅关乎单一企业的财务透明度，更可能对 AI 及 SaaS 板块的整体估值逻辑产生深远影响。&lt;/p&gt;
@@ -301,33 +301,7 @@ SQM诉讼落幕：法律路径穷尽，转向动态评估
 &lt;p&gt;上月，他曾将国债收益率的上行视为债券市场自发收紧金融条件的证据。但若收益率的走势现已掺入财政部主动干预的因素，上述市场信号的纯粹性将大打折扣。&lt;/p&gt;
 &lt;p&gt;沃什就任以来已成立五个工作组，对美联储的政策制定与数据运营展开审查。贝森特此前盛赞沃什是&amp;quot;新任执法官&amp;quot;，两人每周定期共进早餐，上任前便已相识，且均与知名投资人Stanley Druckenmiller有过密切合作。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;历史上，美联储并非始终独立于财政部。&lt;/strong&gt;二战期间，美联储曾配合压低国债收益率以资助战争，这一安排于1951年在朝鲜战争融资争议中以一份协议告终，该协议被视为美联储独立性的历史起点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;沃什去年曾提及，有意撰写一份1951年协议的更新版本。如今，他在又一场战争引发新一轮通胀压力之际，面对着主导相关经济外交的贝森特，历史的回响显得格外深重。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 三位美联储官员警告：当前利率可能偏宽松，通胀压力仍需应对</title><link>https://wallstreetcn.com/articles/3780455</link><guid>3c9a4154f1f6cc7fd5866466788e804524f05fe207c57bc50f52807f3dbff763</guid><pubDate>Thu, 27 Aug 2026 22:06:21 GMT</pubDate><description>&lt;p&gt;美联储内部鹰派声音持续升温。三位联储官员警告称，当前利率水平未能对经济形成实质性约束，在通胀仍高于2%目标的背景下，政策制定者应尽快采取行动。&lt;/p&gt;
-&lt;p&gt;堪萨斯城联储主席Jeff Schmid周四表示，&lt;strong&gt;当前短端利率水平&amp;quot;可能处于宽松区间&amp;quot;&lt;/strong&gt;，并直言&amp;quot;我们还有工作要做&amp;quot;。Schmid表示，他倾向于支持在上次会议中投票赞成加息的几位同僚立场，&amp;quot;我大概会把自己归入那个阵营&amp;quot;。&lt;/p&gt;
-&lt;p&gt;克利夫兰联储主席Beth Hammack同日重申其鹰派立场。Hammack是上月议息会议中三位投票反对维持利率不变的官员之一，她表示，&lt;strong&gt;当前利率水平对经济的抑制力度不足以使通胀自行回落，政策制定者应&amp;quot;现在就采取行动&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;波士顿联储主席Susan Collins表示：&lt;strong&gt;“如果我看到当前形势没有提供我所期待的持续去通胀证据，我愿意支持加息。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;三位官员的表态恰在杰克逊霍尔年会前夕发出，市场对美联储主席沃什将于周五发表的主旨演讲高度关注，以寻找政策路径的进一步线索。&lt;/p&gt;
-
-Schmid：中期选举不会影响10月决策
-
-&lt;p&gt;Schmid同时就Warsh 7月新闻发布会表现引发债券市场动荡、外界质疑联储公信力一事作出回应，称&amp;quot;我个人并不认同这一看法&amp;quot;。&lt;/p&gt;
-&lt;p&gt;美联储政策制定者下次会议定于9月15日至16日召开，此后还将在十月下旬——中期选举前夕——再度开会。&lt;/p&gt;
-&lt;p&gt;Schmid明确表示，选举因素不会影响联储的决策，&amp;quot;进入那个房间，我们能够坦诚表达对经济的判断，选举根本不在考量之列，至少对我而言如此。&amp;quot;&lt;/p&gt;
-
-Hammack与Collins：关注通胀，倾向加息
-
-&lt;p&gt;Hammack在周四稍晚接受采访时进一步阐明其政策逻辑，强调通胀持续超出目标的时间越长，将其压回目标的难度就越大。&amp;quot;我们需要施加一定的政策约束，以帮助通胀回归目标，&amp;quot;她表示。&lt;/p&gt;
-&lt;p&gt;对于通胀前景，Hammack的预测较为审慎：今年底约为3%，明年&amp;quot;最多降至2%出头&amp;quot;，并不预期出现&amp;quot;实质性进展&amp;quot;。&lt;/p&gt;
-&lt;p&gt;对于劳动力市场，Hammack表示，美国劳动力市场大体上是平衡的，也是稳定的。&lt;/p&gt;
-&lt;p&gt;Collins本周撰文指出，如果没有证据表明通胀正在持续改善，美联储“很快”收紧货币政策将是合适的。周四当其被问及这是否意味着未来一两次会议内可能采取行动时，她回答：“有可能，是的。”&lt;/p&gt;
-&lt;p&gt;Collins今年没有利率决策投票权，但参与美联储政策讨论。&lt;/p&gt;
-
-通胀数据持续偏高，政策分歧浮出水面
-
-&lt;p&gt;美联储首选通胀指标——个人消费支出（PCE）价格指数截至7月的同比涨幅为3.7%，该数据于周三公布，延续了通胀高于目标的态势。&lt;/p&gt;
-&lt;p&gt;在上月举行的议息会议上，联邦公开市场委员会（FOMC）投票决定将基准联邦基金利率维持在3.5%至3.75%的区间不变，但有三位官员投票反对，明确支持加息。&lt;/p&gt;
-&lt;p&gt;会议纪要显示，包括无投票权官员在内的多位成员支持加息，另有多位官员表示，若通胀未能下行，进一步收紧政策将有必要。&lt;/p&gt;
-&lt;p&gt;经济学界目前对联储是否需要在未来数月内加息仍存在分歧，但鹰派官员的集体发声无疑为下一次会议的讨论增添了压力。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什杰克逊霍尔讲话料乏善可陈，沃勒9月表态或更具交易价值</title><link>https://wallstreetcn.com/articles/3780503</link><guid>c8b09241cfe2284a53277c3c9dcc12e9361c8e03b245f38dba50d19d080967c4</guid><pubDate>Thu, 27 Aug 2026 21:13:56 GMT</pubDate><description>&lt;p&gt;周五，美联储主席凯文·沃什将在杰克逊霍尔讲话，可能将再度令寄望于明确政策信号的债券交易员失望。&lt;strong&gt;真正具有交易价值的时刻，或许要等到理事沃勒下周开口才会到来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;沃什去年曾提及，有意撰写一份1951年协议的更新版本。如今，他在又一场战争引发新一轮通胀压力之际，面对着主导相关经济外交的贝森特，历史的回响显得格外深重。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什杰克逊霍尔讲话料乏善可陈，沃勒9月表态或更具交易价值</title><link>https://wallstreetcn.com/articles/3780503</link><guid>c8b09241cfe2284a53277c3c9dcc12e9361c8e03b245f38dba50d19d080967c4</guid><pubDate>Thu, 27 Aug 2026 21:13:56 GMT</pubDate><description>&lt;p&gt;周五，美联储主席凯文·沃什将在杰克逊霍尔讲话，可能将再度令寄望于明确政策信号的债券交易员失望。&lt;strong&gt;真正具有交易价值的时刻，或许要等到理事沃勒下周开口才会到来。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;多重迹象显示，沃什将延续其上任以来惜字如金的沟通风格，不就利率走向发出明确信号。这意味着金融市场在相当程度上仍需依赖新公布的经济数据自行研判政策方向。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;若讲话后美债出现抛售，市场人士认为，这更多反映的是投资者对&amp;quot;无前瞻指引&amp;quot;新框架的适应过程，而非美联储抗通胀公信力的实质性动摇。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;彭博分析指出，能够为市场提供更多可操作线索的，是&lt;strong&gt;沃勒定于9月3日发表的讲话。届时距9月15日至16日FOMC会议前静默期开启仅剩两天，其表态的市场权重将因此大幅提升。&lt;/strong&gt;&lt;/p&gt;
@@ -366,4 +340,34 @@ Hammack与Collins：关注通胀，倾向加息
 &lt;p&gt;此外，旗下综合经营牌照的表现显现分化：上银理财产品规模增至4460.89亿元，上半年实现净利润1.27亿元；上银基金公募管理规模达2,653.05亿元，上半年实现净利润1.70亿元。&lt;/p&gt;
 &lt;p&gt;与此同时，旗下闵行上银村镇银行与衢州衢江上银村镇银行分别亏损304.40万元和850.28万元，县域金融板块的整合压力显现。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;整体来看，上海银行正处于资产结构向对公、科技与绿色领域调整，同时应对存量地产不良的阶段；&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;后续几个季度其不良贷款生成的控制情况以及拨备消耗速度，仍是市场关注的焦点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;后续几个季度其不良贷款生成的控制情况以及拨备消耗速度，仍是市场关注的焦点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 群核科技上半年经调整净利大增211%，AI新应用收入同比增长177%｜财报见闻</title><link>https://wallstreetcn.com/articles/3780457</link><guid>b06a9cc8e850ce048e0ab562d4ecee7024cf017ebcb885870ad241688202cf58</guid><pubDate>Thu, 27 Aug 2026 12:03:00 GMT</pubDate><description>&lt;p&gt;群核科技上市后的首份中期业绩，释放出一个明确信号：&lt;strong&gt;收入增长仍然温和，但盈利能力和AI业务正在加速改善。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月27日，群核科技发布2026年中期业绩。上半年，公司实现收入4.05亿元，同比增长1.5%；经调整净利润5542万元，同比增长210.9%，接近去年全年水平。按国际财务报告准则（IFRS）计算，&lt;strong&gt;公司同期净亏损1.46亿元，但较上年同期大幅收窄35.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;盈利改善之外，AI新应用正在成为新的增长点。&lt;/strong&gt;上半年，公司AI新应用及新产品收入同比增长177%至3100万元；AI智能设计平台订单金额超过2000万元。5月上线的AI视频创作平台LuxReal增长尤其迅猛，单月注册用户数和收入环比均实现大幅增长。&lt;/p&gt;
+&lt;p&gt;公司联合创始人、董事长黄晓煌表示：“空间智能是AGI的关键拼图，也是AI从数字世界通往物理世界的桥梁。过去三年，群核科技已从空间智能应用层向技术基础设施底层纵深发展。未来，公司将持续加码世界模型研发投入、拓宽应用边界，做好空间智能时代的基础设施 ‘卖水人’。”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+经调整净利润大增，经营质量持续改善
+&lt;p&gt;从利润表现来看，此次中报最亮眼的指标并非收入，而是经调整净利润。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上半年，公司经调整净利润达到5542万元，同比增长210.9%；经营亏损为8214万元。IFRS口径下，公司净亏损1.46亿元，较去年同期2.26亿元收窄35.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;需要注意的是，IFRS亏损中包含较大的非现金因素。随着公司4月完成港股上市，原有可转换可赎回优先股已经全部转为普通股，此前由相关负债账面价值变动造成的利润拖累也将消失。&lt;/p&gt;
+&lt;p&gt;剔除上市开支、股份支付等非经常性项目后，公司经营层面的盈利能力已经明显改善。&lt;/p&gt;
+AI新应用成为增长新引擎
+&lt;p&gt;相比传统业务收入基本持平，AI业务正在展现更快的增长速度。&lt;/p&gt;
+&lt;p&gt;上半年，公司AI新应用及新产品收入达到3100万元，同比增长177%。AI智能设计平台订单金额超过2000万元，月活用户数较去年12月增长50%。&lt;/p&gt;
+&lt;p&gt;LuxReal的增长更为突出。该平台今年5月上线后，单月注册用户数环比增长超过270%，单月收入环比增长超过470%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着群核科技正在从传统空间设计软件，进一步向AI驱动的空间智能平台拓展。AI产品能否持续从用户增长转化为规模化收入，将成为公司未来几个季度的重要观察指标。&lt;/strong&gt;&lt;/p&gt;
+订阅收入占比超97%，大客户仍是基本盘
+&lt;p&gt;群核科技目前仍是一家高度订阅化的SaaS公司。&lt;/p&gt;
+&lt;p&gt;上半年，公司订阅收入3.93亿元，占总收入97.1%，同比增长0.8%。其中企业客户订阅收入3.30亿元，个人客户订阅收入6325万元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;专业服务收入规模虽然较小，但增长更快，主要来自SpatialVerse合成数据业务，从去年同期913.6万元增至1181万元，同比增长29.3%，显示公司正在探索空间数据在AI训练领域的商业化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至6月底，公司企业客户达到48617名，个人客户达到434086名。其中年贡献收入超过20万元的大客户达到411名，贡献收入占比达到46%；大客户净收入留存率达到101.8%，客户留存率达到99.0%，头部客户黏性较强。&lt;/p&gt;
+&lt;p&gt;不过，公司整体净收入留存率从去年同期的100.3%降至94.4%，企业客户净收入留存率也从101.6%降至96.4%，意味着存量客户消费增速有所放缓。&lt;/p&gt;
+毛利率升至83%，算力效率优势显现
+&lt;p&gt;收入增长有限的情况下，公司毛利率却由82.1%提升至83.0%，毛利达到3.36亿元。&lt;/p&gt;
+&lt;p&gt;营业成本由7146万元降至6902万元，主要受服务器成本下降以及实施交付人力成本压缩影响。订阅服务毛利率从82.8%升至83.8%，专业服务毛利率则从50.6%升至55.1%。&lt;/p&gt;
+&lt;p&gt;公司较早布局GPU基础设施的优势也开始体现。&lt;strong&gt;上半年GPU集群日均处理约1290万项计算任务，随着软硬件协同优化，计算资源利用效率进一步提升，有助于降低AI业务扩张过程中的算力成本。&lt;/strong&gt;&lt;/p&gt;
+从空间智能应用走向世界模型
+&lt;p&gt;群核科技正在构建“算力—模型—应用”的全栈式空间智能体系。&lt;/p&gt;
+&lt;p&gt;目前，公司已经实现L1空间重建，并向L2空间理解、L3空间生成推进，同时加速向L4空间行动演进。近期，公司发布自主研发的3D生成模型Lux3D，并启动世界模型产品内测，采用3D显式路线。&lt;/p&gt;
+&lt;p&gt;应用层面，Aholo空间智能平台、Aholo Viewer以及LuxReal等产品陆续落地。7月日均Token消耗量约24亿，开发者生态开始形成早期规模。&lt;/p&gt;
+&lt;p&gt;研发投入也在持续强化技术壁垒。上半年，公司有8篇学术成果入选ECCV、CVPR、SIGGRAPH等顶级会议，研发人员占员工总数约42%，累计拥有259项专利。&lt;/p&gt;
+&lt;p&gt;对于群核科技而言，下一阶段的核心看点，将是&lt;strong&gt;如何把空间智能和世界模型的技术投入进一步转化为商业收入&lt;/strong&gt;。管理层预计，下半年将重点推动从“静态空间生成”向“可交互空间生成”升级，并加速LuxReal、AI智能设计平台等产品的商业化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
