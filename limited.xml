@@ -1,28 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 28 Aug 2026 07:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] Salesforce击碎Sass末日论？美银泼冷水：传统“按席位收费”模式仍遭AI侵蚀，新业务还撑不起高估值</title><link>https://wallstreetcn.com/articles/3780534</link><guid>a91d060cfc1f1ac6eed0b2d6c8349ae10a1124fe054c1b5e00d0c692c8b42181</guid><pubDate>Fri, 28 Aug 2026 06:36:49 GMT</pubDate><description>&lt;p&gt;Salesforce最新季报打消了市场对&amp;quot;AI将颠覆CRM平台&amp;quot;的极端担忧，但美银认为，AI对传统“按席位收费”模式的结构性侵蚀仍在继续，且新兴AI业务的体量尚不足以支撑其当前的高估值。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，美银分析师Tal Liani在8月27日的研报中指出，Salesforce本季度业绩的意义不在于超预期的幅度，而在于它&lt;strong&gt;挑战了&amp;quot;AI将取代Salesforce&amp;quot;的悲观叙事——市场争论的焦点正从&amp;quot;CRM平台会不会被AI替代&amp;quot;转向&amp;quot;Salesforce能否有效将AI变现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;然而，美银同时强调，AI对营收的实质贡献仍处于早期阶段，&lt;strong&gt;核心的&amp;quot;按席位收费&amp;quot;商业模式依然面临代理式AI（Agentic AI）的结构性侵蚀&lt;/strong&gt;，而公司当前估值已处于同业高位，风险回报并不对称。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3780380"&gt;华尔街见闻文章&lt;/a&gt;写道，最新财报数据显示，Salesforce第二财季总营收同比增长10.8%至113.45亿美元，略超市场预期；有机营收增速为6.4%，管理层指引第三财季有机增速约7.4%，全年营收指引上调3亿美元，但其中仅1亿美元来自有机改善。美银认为，Agentforce年度经常性收入（ARR）同比增长逾240%，但&lt;strong&gt;绝对规模仅15亿美元，相对于460亿美元的营收基数仍属微小&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;在估值方面，美银&lt;strong&gt;维持跑输大盘评级&lt;/strong&gt;，指出Salesforce目前的估值处于同业的高端，其企业价值倍数（EV/FCF）约为13倍。&lt;strong&gt;美银给出的160美元目标价，是基于对该公司2027日历年预期EV/FCF的9倍设定的，这一倍数处于软件同业8至14倍平均水平的下端，主要归因于该公司相对较弱的增长前景。&lt;/strong&gt;&lt;/p&gt;
-季报表现：稳而不惊，细节喜忧参半
-&lt;p&gt;美银认为，本季度财务数据整体略超预期，但结构上并不均衡。总营收113.45亿美元，同比增长10.8%，超出市场预期的10.6%；订阅及支持收入同比增长11.7%，亦高于预期的11.3%。当前剩余履约义务（cRPO）同比增长13.9%，与市场预期的13.7%基本持平，按固定汇率计算增长14%，超出市场预期的13%。&lt;/p&gt;
-&lt;p&gt;该行称，&lt;strong&gt;利润端则略显逊色。&lt;/strong&gt;毛利率为80.0%，低于市场预期的80.6%；经营利润率为34.1%，略低于预期的34.2%。值得注意的是，本季度每股收益（EPS）达5.90美元，大幅超出市场预期的3.26美元，但这一差异主要源于战略投资收益大幅波动（当季战略投资净收益达26.13亿美元），并非来自核心经营改善，对评估公司基本面意义有限。&lt;/p&gt;
-&lt;p&gt;报道称，剩余履约义务（RPO）同比增长10.7%，低于市场预期的12.6%，&lt;strong&gt;是本季度相对偏弱的一项指标&lt;/strong&gt;。专业服务收入同比下滑3.8%，延续疲软态势。&lt;/p&gt;
-AI变现：方向正确，但体量仍小
-&lt;p&gt;Agentforce是本季度最受关注的AI叙事核心。美银数据显示，Agentforce ARR同比增长超240%，平台使用量持续扩张，与Anthropic的合作伙伴关系也在多个应用层面拓展了上下文能力。管理层指出，约半数Agentforce预订来自积分补充（credit refills），显示客户参与度和重复使用意愿较为积极。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;美银对此保持审慎。&lt;/strong&gt;Agentforce ARR目前仅为15亿美元，&lt;strong&gt;相对于Salesforce约460亿美元的营收基数，占比极低。&lt;/strong&gt;美银明确表示，&lt;strong&gt;AI对营收曲线的实质影响&amp;quot;尚处于过早阶段&amp;quot;（too nascent to impact the revenue profile），短期内难以成为驱动估值重估的核心催化剂。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从客户行为来看，大额交易、高端席位升级、Flex Credit购买以及席位扩张等信号均指向稳定的购买模式，美国、英国、日本等成熟市场的强劲表现也表明，AI目前更多是在增强而非替代Salesforce的核心产品。但美银强调，&lt;strong&gt;这一格局同时意味着传统席位制模式的增长天花板依然存在。&lt;/strong&gt;&lt;/p&gt;
-结构性隐忧：席位模式承压，护城河靠&amp;quot;壁垒&amp;quot;而非&amp;quot;增长&amp;quot;
-&lt;p&gt;美银在报告中明确点出Salesforce面临的核心结构性矛盾：&lt;strong&gt;代理式AI（Agentic AI）正在从根本上侵蚀以席位数量为基础的变现模式。&lt;/strong&gt;AI驱动的自动化直接压制净新增席位增长、续约提价空间以及追加销售的经济逻辑。&lt;/p&gt;
-&lt;p&gt;美银认为，&lt;strong&gt;Salesforce当前的竞争优势越来越依赖于客户迁移成本带来的&amp;quot;壁垒式防守&amp;quot;，而非业务本身的增长动能，这一特征更符合成熟期企业的估值框架，而非高成长科技公司的溢价逻辑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;有机营收增速6.4%，&lt;/strong&gt;对于一家在成熟市场中交易于约13倍EV/FCF的行业龙头而言，美银认为&lt;strong&gt;仍属温和&lt;/strong&gt;。管理层预期下半年将有所改善，cRPO和订阅收入增速均超预期，全年营收指引上调，但有机改善部分仅占上调总量的三分之一，其余来自Informatica并购贡献。&lt;/p&gt;
-&lt;p&gt;展望未来&lt;strong&gt;，美银认为Salesforce通过Agentforce、Slack以及覆盖数据、应用、代理和界面层的并购策略，在AI下一阶段的竞争中具备一定的战略卡位优势。&lt;/strong&gt;管理层对下半年持乐观态度，第三财季营收增速指引为11.7%（含Informatica贡献约4个百分点），cRPO增速指引14%，均略超市场预期。&lt;/p&gt;
-&lt;p&gt;然而，美银的核心判断并未改变：&lt;strong&gt;在AI变现路径尚未清晰兑现、有机增速仍处个位数、估值已在高位的背景下，当前股价的风险回报对投资者并不友好。&lt;/strong&gt;季报证明了Salesforce的韧性，但尚不足以证明其值得更高的估值溢价。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 市场等待沃什讲话定调，韩股收跌1.79%，Marvell盘后跌超7%，黄金小幅回落，美债承压</title><link>https://wallstreetcn.com/articles/3780532</link><guid>9879d827f280bb295418e968942b543bd13178f1a17c80318cf080225040c1bf</guid><pubDate>Fri, 28 Aug 2026 07:11:56 GMT</pubDate><description>&lt;p&gt;市场情绪转趋谨慎，美债收益率维持高位，全球市场在联储主席沃什杰克逊霍尔讲话前普遍按兵不动。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 28 Aug 2026 07:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 市场等待沃什讲话定调，韩股收跌1.79%，Marvell盘后跌超7%，黄金小幅回落，美债承压</title><link>https://wallstreetcn.com/articles/3780532</link><guid>9879d827f280bb295418e968942b543bd13178f1a17c80318cf080225040c1bf</guid><pubDate>Fri, 28 Aug 2026 07:11:56 GMT</pubDate><description>&lt;p&gt;市场情绪转趋谨慎，美债收益率维持高位，全球市场在联储主席沃什杰克逊霍尔讲话前普遍按兵不动。&lt;/p&gt;
 &lt;p&gt;周五，韩国综合股价指数收跌1.79%。纳斯达克100期货下跌0.2%，Marvell在盘后交易中下跌逾7%，拖累市场情绪。日本两年期国债拍卖认购倍数降至2.97，远低于过去12个月均值3.74，拍卖尾差扩至0.034，创2016年以来最阔，显示市场对日本央行收紧政策的预期持续升温。&lt;/p&gt;
 &lt;p&gt;全球投资者的目光更多集中在即将登场的美联储主席讲话上。美国国债收益率维持周四涨幅，两年期收益率稳守4.23%，市场担忧通胀持续与美国财政前景，对长端利率走向高度警惕。美股期货则微跌，英伟达财报引发的AI交易热情已初现消退迹象。&lt;/p&gt;
 &lt;p&gt;Brown Brothers Harriman &amp;amp; Co.的Elias Haddad认为，鉴于沃什一贯不愿提供前瞻性指引，明确政策信号未必会出现。他预计沃什或将预告联储五个工作组在沟通机制、资产负债表、经济数据、生产率与就业，以及通胀框架方面的初步研究成果。&lt;/p&gt;
@@ -69,7 +46,30 @@ AI交易热情降温，市场情绪转趋谨慎
 
 &lt;p&gt;其他资产方面，黄金小幅下跌，报每盎司约4580美元；比特币跌至略低于80000美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;布伦特原油下跌0.5%至每桶约89.30美元，尽管围绕霍尔木兹海峡的外交斡旋遭遇新障碍。据彭博援引知情人士消息，委内瑞拉正在密切研究退出欧佩克的计划。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 前OpenAI研究副总裁：人类研究员的时间还剩2年，整个AI研究迅速走向自动化</title><link>https://wallstreetcn.com/articles/3780530</link><guid>15b44078147218dc59af0123d8015c196025a042ad2797020201f32652f636ac</guid><pubDate>Fri, 28 Aug 2026 06:01:04 GMT</pubDate><description>&lt;p&gt;在当前的人工智能领域，研究员们正面临着一种前所未有的撕裂感：一方面是技术一日千里的狂飙突进；另一方面，则是被无尽的代码与实验压榨至极限的疲惫。&lt;/p&gt;
+&lt;p&gt;布伦特原油下跌0.5%至每桶约89.30美元，尽管围绕霍尔木兹海峡的外交斡旋遭遇新障碍。据彭博援引知情人士消息，委内瑞拉正在密切研究退出欧佩克的计划。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Salesforce击碎Sass末日论？美银泼冷水：传统“按席位收费”模式仍遭AI侵蚀，新业务还撑不起高估值</title><link>https://wallstreetcn.com/articles/3780534</link><guid>a91d060cfc1f1ac6eed0b2d6c8349ae10a1124fe054c1b5e00d0c692c8b42181</guid><pubDate>Fri, 28 Aug 2026 06:36:49 GMT</pubDate><description>&lt;p&gt;Salesforce最新季报打消了市场对&amp;quot;AI将颠覆CRM平台&amp;quot;的极端担忧，但美银认为，AI对传统“按席位收费”模式的结构性侵蚀仍在继续，且新兴AI业务的体量尚不足以支撑其当前的高估值。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，美银分析师Tal Liani在8月27日的研报中指出，Salesforce本季度业绩的意义不在于超预期的幅度，而在于它&lt;strong&gt;挑战了&amp;quot;AI将取代Salesforce&amp;quot;的悲观叙事——市场争论的焦点正从&amp;quot;CRM平台会不会被AI替代&amp;quot;转向&amp;quot;Salesforce能否有效将AI变现&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;然而，美银同时强调，AI对营收的实质贡献仍处于早期阶段，&lt;strong&gt;核心的&amp;quot;按席位收费&amp;quot;商业模式依然面临代理式AI（Agentic AI）的结构性侵蚀&lt;/strong&gt;，而公司当前估值已处于同业高位，风险回报并不对称。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3780380"&gt;华尔街见闻文章&lt;/a&gt;写道，最新财报数据显示，Salesforce第二财季总营收同比增长10.8%至113.45亿美元，略超市场预期；有机营收增速为6.4%，管理层指引第三财季有机增速约7.4%，全年营收指引上调3亿美元，但其中仅1亿美元来自有机改善。美银认为，Agentforce年度经常性收入（ARR）同比增长逾240%，但&lt;strong&gt;绝对规模仅15亿美元，相对于460亿美元的营收基数仍属微小&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在估值方面，美银&lt;strong&gt;维持跑输大盘评级&lt;/strong&gt;，指出Salesforce目前的估值处于同业的高端，其企业价值倍数（EV/FCF）约为13倍。&lt;strong&gt;美银给出的160美元目标价，是基于对该公司2027日历年预期EV/FCF的9倍设定的，这一倍数处于软件同业8至14倍平均水平的下端，主要归因于该公司相对较弱的增长前景。&lt;/strong&gt;&lt;/p&gt;
+季报表现：稳而不惊，细节喜忧参半
+&lt;p&gt;美银认为，本季度财务数据整体略超预期，但结构上并不均衡。总营收113.45亿美元，同比增长10.8%，超出市场预期的10.6%；订阅及支持收入同比增长11.7%，亦高于预期的11.3%。当前剩余履约义务（cRPO）同比增长13.9%，与市场预期的13.7%基本持平，按固定汇率计算增长14%，超出市场预期的13%。&lt;/p&gt;
+&lt;p&gt;该行称，&lt;strong&gt;利润端则略显逊色。&lt;/strong&gt;毛利率为80.0%，低于市场预期的80.6%；经营利润率为34.1%，略低于预期的34.2%。值得注意的是，本季度每股收益（EPS）达5.90美元，大幅超出市场预期的3.26美元，但这一差异主要源于战略投资收益大幅波动（当季战略投资净收益达26.13亿美元），并非来自核心经营改善，对评估公司基本面意义有限。&lt;/p&gt;
+&lt;p&gt;报道称，剩余履约义务（RPO）同比增长10.7%，低于市场预期的12.6%，&lt;strong&gt;是本季度相对偏弱的一项指标&lt;/strong&gt;。专业服务收入同比下滑3.8%，延续疲软态势。&lt;/p&gt;
+AI变现：方向正确，但体量仍小
+&lt;p&gt;Agentforce是本季度最受关注的AI叙事核心。美银数据显示，Agentforce ARR同比增长超240%，平台使用量持续扩张，与Anthropic的合作伙伴关系也在多个应用层面拓展了上下文能力。管理层指出，约半数Agentforce预订来自积分补充（credit refills），显示客户参与度和重复使用意愿较为积极。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;美银对此保持审慎。&lt;/strong&gt;Agentforce ARR目前仅为15亿美元，&lt;strong&gt;相对于Salesforce约460亿美元的营收基数，占比极低。&lt;/strong&gt;美银明确表示，&lt;strong&gt;AI对营收曲线的实质影响&amp;quot;尚处于过早阶段&amp;quot;（too nascent to impact the revenue profile），短期内难以成为驱动估值重估的核心催化剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从客户行为来看，大额交易、高端席位升级、Flex Credit购买以及席位扩张等信号均指向稳定的购买模式，美国、英国、日本等成熟市场的强劲表现也表明，AI目前更多是在增强而非替代Salesforce的核心产品。但美银强调，&lt;strong&gt;这一格局同时意味着传统席位制模式的增长天花板依然存在。&lt;/strong&gt;&lt;/p&gt;
+结构性隐忧：席位模式承压，护城河靠&amp;quot;壁垒&amp;quot;而非&amp;quot;增长&amp;quot;
+&lt;p&gt;美银在报告中明确点出Salesforce面临的核心结构性矛盾：&lt;strong&gt;代理式AI（Agentic AI）正在从根本上侵蚀以席位数量为基础的变现模式。&lt;/strong&gt;AI驱动的自动化直接压制净新增席位增长、续约提价空间以及追加销售的经济逻辑。&lt;/p&gt;
+&lt;p&gt;美银认为，&lt;strong&gt;Salesforce当前的竞争优势越来越依赖于客户迁移成本带来的&amp;quot;壁垒式防守&amp;quot;，而非业务本身的增长动能，这一特征更符合成熟期企业的估值框架，而非高成长科技公司的溢价逻辑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有机营收增速6.4%，&lt;/strong&gt;对于一家在成熟市场中交易于约13倍EV/FCF的行业龙头而言，美银认为&lt;strong&gt;仍属温和&lt;/strong&gt;。管理层预期下半年将有所改善，cRPO和订阅收入增速均超预期，全年营收指引上调，但有机改善部分仅占上调总量的三分之一，其余来自Informatica并购贡献。&lt;/p&gt;
+&lt;p&gt;展望未来&lt;strong&gt;，美银认为Salesforce通过Agentforce、Slack以及覆盖数据、应用、代理和界面层的并购策略，在AI下一阶段的竞争中具备一定的战略卡位优势。&lt;/strong&gt;管理层对下半年持乐观态度，第三财季营收增速指引为11.7%（含Informatica贡献约4个百分点），cRPO增速指引14%，均略超市场预期。&lt;/p&gt;
+&lt;p&gt;然而，美银的核心判断并未改变：&lt;strong&gt;在AI变现路径尚未清晰兑现、有机增速仍处个位数、估值已在高位的背景下，当前股价的风险回报对投资者并不友好。&lt;/strong&gt;季报证明了Salesforce的韧性，但尚不足以证明其值得更高的估值溢价。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 前OpenAI研究副总裁：人类研究员的时间还剩2年，整个AI研究迅速走向自动化</title><link>https://wallstreetcn.com/articles/3780530</link><guid>15b44078147218dc59af0123d8015c196025a042ad2797020201f32652f636ac</guid><pubDate>Fri, 28 Aug 2026 06:01:04 GMT</pubDate><description>&lt;p&gt;在当前的人工智能领域，研究员们正面临着一种前所未有的撕裂感：一方面是技术一日千里的狂飙突进；另一方面，则是被无尽的代码与实验压榨至极限的疲惫。&lt;/p&gt;
 &lt;p&gt;“你现在经常能听到AI领域的研究员们在重复这句话：‘我们的工作只剩最后几天了，趁现在还能干就多干点，之后我们就可以全都休息了。’”前OpenAI研究副总裁 Jerry Tworek 在近期的访谈中抛出了这个略带黑色幽默的观点。&lt;/p&gt;
 &lt;p&gt;在他看来，这绝非一句简单的玩笑。随着“原生智能体（agent-native）”时代的到来，AI自身正迅速接管研发工作。&lt;strong&gt;“我粗略估计，人类研究员在AI研究发现过程中继续扮演重要角色，至少还有两年的时间。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;离开效力七年的OpenAI后，Jerry 创立了 Core Automation。他的野心不止于研发下一个大语言模型，而是试图重构AI公司的运转范式——用AI来研发AI，打造完全自动化的“第三代AI实验室”。&lt;/p&gt;
