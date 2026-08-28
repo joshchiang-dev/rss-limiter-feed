@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 28 Aug 2026 01:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 2028财年冲刺10000亿美元收入？英伟达点燃华尔街新预期</title><link>https://wallstreetcn.com/articles/3780513</link><guid>fb0f2d5d208121a617c147bf7498e808d30b91b2115b9d47460d5b0523462eb9</guid><pubDate>Fri, 28 Aug 2026 01:10:28 GMT</pubDate><description>&lt;p&gt;英伟达再度以超预期业绩震动市场，并抛出一份令华尔街重新定价的远期展望。&lt;/p&gt;
-&lt;p&gt;公司在最新财报电话会议上预告，截至2028年1月的财年收入增幅可能超过70%，远高于FactSet此前约45%的市场一致预期。这一前瞻指引被TD Cowen分析师Joshua Buchalter称为&amp;quot;股价潜在的重要催化剂&amp;quot;，并直接推动英伟达股价周四大涨8.7%——创下2024年5月以来最大单日涨幅。当日收盘，英伟达市值升至5.49万亿美元，单日市值增加4415亿美元，这是有史以来公司第二大单日市值增幅。&lt;/p&gt;
-&lt;p&gt;更引人注目的是，部分分析师已将目光投向更远处。Raymond James分析师Simon Leopold在研报中写道，&lt;strong&gt;英伟达在截至2029年1月的财年实现1万亿美元收入“似乎是可能的”&lt;/strong&gt;，而FactSet截至周三的市场一致预期该年度收入不足7500亿美元。&lt;/p&gt;
-70%增长指引：供应约束下的保守预测
-&lt;p&gt;英伟达管理层在财报电话会议上明确表示，70%的增长预测已将供应紧张因素纳入考量，若不存在供应瓶颈，实际数字将更高。摩根大通亦指出，&lt;strong&gt;尽管业绩指引已远超预期，但可能仍属保守估计，公司明确将现阶段定性为&amp;quot;供应受限&amp;quot;状态，若供应不受约束，实际需求节奏将显著更高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛分析师James Schneider认为，若英伟达持续与科技公司合作推进数据中心建设、进一步弥合客户需求与供应之间的缺口，公司有望在2028财年实现超出指引的表现。&lt;/p&gt;
-&lt;p&gt;在毛利率方面，英伟达预计当前财年剩余时间将出现一定压缩，但同时预告下一财年毛利率将稳定在72%至73%区间。Simon Leopold认为，这一水平虽低于近期高点，但足以打消市场的悲观顾虑，并指出考虑到内存芯片价格上涨及定制芯片竞争加剧，该指引区间&amp;quot;优于最坏情形预期&amp;quot;。&lt;/p&gt;
-Rubin平台与生态护城河：多重增长引擎成形
-&lt;p&gt;Buchalter则将这一指引解读为英伟达对自身业务能见度的&amp;quot;强烈信心信号&amp;quot;，背景是公司新一代芯片平台Vera Rubin已开始量产出货。Vera Rubin是英伟达继Blackwell之后的下一代人工智能芯片平台。&lt;/p&gt;
-&lt;p&gt;Bernstein分析师Stacy Rasgon表示，英伟达7月季度业绩“应当提醒投资者为何持有这只股票”。他在研报中指出，&lt;strong&gt;需求正在加速，而这一趋势恰逢Rubin平台成为英伟达历史上“规模最大的即将到来的产品周期”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rasgon还强调，英伟达的资产负债表正在成为&amp;quot;与其技术同等重要的护城河&amp;quot;。公司不仅通过股权投资和收入分成协议为价值数千亿美元的产品锁定客户，还能够&amp;quot;支持并壮大其产品周围的生态系统&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Simon Leopold认为，在收入贡献上，Vera Rubin芯片自身营收预计在第三财季将达到数据中心营收的约20%。同期，Groq 3 LPX已进入满产状态，本季度晚些时候将开始大批量出货，新兴云服务商Nebius成为首批采用者。Rubin及LPU的产能爬坡速度均快于此前模型预测，并已据此上调相关估算。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Simon Leopold进一步指出，英伟达在CPU业务上的进展同样超出预期&lt;/strong&gt;。Grace CPU过去十二个月滚动营收已突破50亿美元，下一代产品Vera CPU目前已进入满产阶段。根据订单情况，英伟达CPU业务的年化收入已达到200亿美元规模，随着供应持续改善，28财年CPU收入有望实现翻倍以上增长。&lt;/p&gt;
-华尔街多空分歧犹存，但多头积累更多筹码
-&lt;p&gt;尽管英伟达的强劲表现令多头信心大增，市场分歧并未完全消弭。Buchalter坦言，英伟达为生态系统合作伙伴提供融资支持的策略&amp;quot;不太可能说服空头&amp;quot;，但他本人对AI基础设施支出多元化的持续性以及英伟达作为&amp;quot;核心赋能者&amp;quot;的地位持&amp;quot;建设性&amp;quot;看法。&lt;/p&gt;
-&lt;p&gt;综合来看，&lt;strong&gt;Buchalter认为此次财报&amp;quot;多头净得分更多&amp;quot;，并直言英伟达股价&amp;quot;存在明显低估&amp;quot;。高盛的Schneider则补充称，此次展望&amp;quot;可能令投资者对高资本支出成本的担忧得到缓解&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析师预计英伟达本财年收入将达4035亿美元。从当前财年到1万亿美元目标，英伟达能否将供应约束转化为释放空间，将是决定这一预期能否兑现的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Salesforce大涨23%引爆SaaS反弹，华尔街重新押注传统软件</title><link>https://wallstreetcn.com/articles/3780518</link><guid>e594d9e236db0cfcf2c446d421be490c4c3fcb6bad0dbaead06250bc82923eaf</guid><pubDate>Fri, 28 Aug 2026 01:46:13 GMT</pubDate><description>&lt;p&gt;SaaS股票集体反弹，Salesforce单日大涨23%，华尔街重燃软件股热情。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 28 Aug 2026 02:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] Salesforce大涨23%引爆SaaS反弹，华尔街重新押注传统软件</title><link>https://wallstreetcn.com/articles/3780518</link><guid>e594d9e236db0cfcf2c446d421be490c4c3fcb6bad0dbaead06250bc82923eaf</guid><pubDate>Fri, 28 Aug 2026 01:46:13 GMT</pubDate><description>&lt;p&gt;SaaS股票集体反弹，Salesforce单日大涨23%，华尔街重燃软件股热情。&lt;/p&gt;
 &lt;p&gt;Salesforce发布好于预期的季度业绩后，软件股周四迎来大幅反弹，此前被AI替代威胁论压制的SaaS板块出现明显的情绪逆转。&lt;/p&gt;
 &lt;p&gt;Salesforce股价单日暴涨23%，一举将年内跌幅收窄至约4%。而在此之前，该股较2025年底收盘价一度下跌43%。&lt;/p&gt;
 &lt;p&gt;（Salesforce股价大涨，年内跌幅收窄至约4%）&lt;/p&gt;
@@ -38,7 +22,68 @@ Rubin平台与生态护城河：多重增长引擎成形
 &lt;p&gt;Salesforce财报引发的市场关注，并非近期科技行业的唯一焦点。&lt;/p&gt;
 &lt;p&gt;据The Information报道，英伟达已同意以129亿美元收购开源AI平台Hugging Face，成为近18个月来科技行业并购潮中的最新案例。&lt;/p&gt;
 &lt;p&gt;这一并购浪潮还包括：Stripe据报以70亿美元收购OpenRouter、SpaceX收购Cursor、Salesforce收购Informatica，以及谷歌收购Wiz。&lt;/p&gt;
-&lt;p&gt;如今的监管环境已截然不同。科技公司显然意识到，当前宽松的反垄断态势窗口期有限，预计还有约两年时间，这也在相当程度上推动了当前的并购提速。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大涨超8%，市值飙升4400亿美元！英伟达打破“财报日诅咒”，拯救科技股</title><link>https://wallstreetcn.com/articles/3780510</link><guid>565fe974edf07c8ddaf900e5725a32ed3644598960807dec40955e54411bea16</guid><pubDate>Fri, 28 Aug 2026 00:09:43 GMT</pubDate><description>&lt;p&gt;英伟达用一份爆炸性财报，一举驱散了笼罩在AI交易上空的阴霾。&lt;/p&gt;
+&lt;p&gt;如今的监管环境已截然不同。科技公司显然意识到，当前宽松的反垄断态势窗口期有限，预计还有约两年时间，这也在相当程度上推动了当前的并购提速。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从“利率交易”转向“美元贬值交易” ，黄金上涨的逻辑变了</title><link>https://wallstreetcn.com/articles/3780521</link><guid>3ee7edcdfd490ac4773b178a90e289f6bf17c5506c3e62d4956137e79dcd2d8f</guid><pubDate>Fri, 28 Aug 2026 02:22:33 GMT</pubDate><description>&lt;p&gt;8月迄今，黄金上演了高达17%的强劲反弹。然而，瑞银认为，&lt;strong&gt;比涨幅更重要的是&lt;/strong&gt;：驱动黄金这轮涨势的逻辑在中途发生了根本性转变&lt;strong&gt;——市场正在从传统的“利率交易”转向“美元贬值交易”（Debasement Trade）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（现货黄金日线图）&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，瑞银8月27日的贵金属研报中，将本轮黄金夏末反弹拆解为&amp;quot;两幕剧&amp;quot;：&lt;strong&gt;第一幕&lt;/strong&gt;是基本面修复驱动的技术性反弹，由仓位极轻、实物需求韧性、央行购金以及美国经济数据走软共同催化；&lt;strong&gt;第二幕&lt;/strong&gt;则是性质截然不同的&amp;quot;货币贬值交易&amp;quot;——美国财政部宣布将长期国债回购规模翻倍，触发市场对财政可持续性的深层担忧，黄金与利率的传统负相关关系随之松动。&lt;/p&gt;
+&lt;p&gt;该行认为，黄金定价逻辑已从&lt;strong&gt;&amp;quot;机会成本框架&amp;quot;（即实际利率越高、黄金越承压）向&amp;quot;财政信用框架&amp;quot;&lt;/strong&gt;切换。即便长端实际利率维持高位，只要市场认为高利率源于财政风险而非经济强劲，黄金就可能继续上涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;瑞银维持黄金价格看涨判断，并&lt;strong&gt;明确指出中长期预测的上行风险正在上升&lt;/strong&gt;。瑞银将2026年黄金年末目标价从5000美元/盎司下调至4675美元/盎司（降幅6%），但2027年及以后预测维持不变，&lt;strong&gt;上行情景目标最高达6500美元/盎司&lt;/strong&gt;。值得注意的是，该行指出，美联储鹰派立场是最主要的近期下行风险，但瑞银明确表示，若因加息预期引发回调，应视为&lt;strong&gt;加仓机会&lt;/strong&gt;而非趋势逆转。&lt;/p&gt;
+第一幕：基本面修复筑底——仓位、需求与央行构成三重支撑
+&lt;p&gt;报告称，在8月反弹启动之前，黄金市场的净持仓处于极度偏轻状态。持续的通胀压力令市场担忧美联储可能重启加息，投资者既不敢大举买入，也缺乏做空的底气，整体处于观望状态。尽管金价从年内高点回调约30%，中长期投资者的情绪仍然偏多，大多在等待更好的入场时机。&lt;/p&gt;
+&lt;p&gt;瑞银认为，金价多次尝试跌破4000美元/盎司均告失败，这一反复验证的过程逐步重建了市场信心，并确立了坚实的底部。底部的形成得益于超预期的需求韧性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;官方部门逢低吸纳：&lt;/strong&gt;更重要的是，官方部门（即各国央行）在价格下跌时加速买入，为这一底部提供了实质性支撑——中国央行购金量随价格下跌而上升，呈现出明显的&amp;quot;逢低买入&amp;quot;策略。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;实物需求强劲：&lt;/strong&gt;中国黄金进口量持续高于去年同期及历史均值，反映出官方、机构和零售投资需求的共同支撑。印度方面，进口受到监管障碍的压制，但季节性需求规律正在显现，预计下半年及节庆季将带来更强的基本面支撑。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;美国经济数据走软提供催化剂：&lt;/strong&gt;8月初公布的疲软美国经济数据促使市场下调对美联储加息的预期，成为金价突破的直接导火索。初期由空头回补驱动，随后吸引新多头入场。不过，&lt;strong&gt;由于夏季流动性偏薄，市场参与者整体较为谨慎，获利了结较为迅速。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+第二幕：叙事切换——&amp;quot;货币贬值交易&amp;quot;重返舞台
+&lt;p&gt;报告指出，当金价在4400美元/盎司附近企稳整固之际，第二轮上涨的导火索出现了：&lt;strong&gt;美国财政部宣布将长期国债回购规模翻倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这一举措本身规模相对于整个美债市场而言并不算大，最初设计目的也仅是流动性管理，但其释放的信号意义远超操作本身——&lt;strong&gt;市场将其解读为财政部有意在长端利率承压时主动介入，财政可持续性与债务可信度的讨论由此重回核心议题。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;传统框架下，实际利率上升意味着持有黄金的机会成本上升，金价承压。但此次不同：&lt;strong&gt;利率上升的原因变了&lt;/strong&gt;。当长端收益率的上行反映的是财政风险和主权债务信心下降，而非经济强劲，投资者便更愿意&amp;quot;穿越&amp;quot;这一机会成本，继续持有黄金。&lt;/p&gt;
+&lt;p&gt;与此同时，美元走弱形成额外顺风，进一步强化了黄金作为法币替代品的角色。&lt;strong&gt;无论将这一逻辑称为&amp;quot;去美元化&amp;quot;、&amp;quot;去法币化&amp;quot;还是&amp;quot;货币贬值对冲&amp;quot;，其投资组合含义是一致的：黄金可以在更广泛的宏观情景下充当多元化配置工具、硬资产和韧性来源。&lt;/strong&gt;&lt;/p&gt;
+上行风险正在积聚：什么情景会让瑞银更看多？
+&lt;p&gt;瑞银明确表示，维持黄金价格上行的基本判断，并承认中长期预测的上行风险已经上升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最清晰的上行情景&lt;/strong&gt;是：财政和债务问题被嵌入战略资产配置决策，推动更广泛、更持久的黄金持仓增加，使涨势在幅度和时间上均超出基准预测。以下因素将强化这一结果：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;央行持续购金的证据；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;亚洲实物需求的持续韧性；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;美元进一步走弱。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;其他看多情景&lt;/strong&gt;包括：经济数据持续走软、美联储意外转鸽，或市场对美联储独立性的担忧重燃。&lt;/p&gt;
+&lt;p&gt;值得关注的是，目前货币政策与财政政策信号方向相悖：&lt;strong&gt;美联储仍专注于通胀管控，而财政部已采取行动缓解长端压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场将密切解读美联储主席沃什（Kevin Warsh）在杰克逊霍尔会议上的讲话，以及财政部的后续表态。&lt;strong&gt;由于缺乏前瞻指引，每一个经济数据的发布都将对美联储政策预期及金价走势产生更大影响。&lt;/strong&gt;&lt;/p&gt;
+近期最大风险：鹰派美联储，但回调是机会
+&lt;p&gt;瑞银明确指出，黄金并非对鹰派美联储免疫。若今年出现加息，或美联储释放大幅提升加息概率的信号，可能通过推高实际利率和美元走强触发金价急跌。夏季流动性偏薄、8月涨幅较快，可能放大这一回调幅度。&lt;/p&gt;
+&lt;p&gt;然而，瑞银的判断是：&lt;strong&gt;这类回调应被视为买入机会，而非持续熊市的开端&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;更关键的下行风险在于：&lt;strong&gt;若人工智能投资带来远超预期的经济增长，美联储将有充足空间大幅加息以压制通胀，这一情景对黄金的冲击将更为深远和持久。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;总结来看，报告称，当市场开始将黄金视为对冲财政信用风险和货币贬值的工具，而非单纯的通胀对冲或利率交易，其在投资组合中的战略地位便发生了质的变化。&lt;/p&gt;
+&lt;p&gt;瑞银的研究显示，整体市场对黄金的配置仍然偏低，管理资产规模的增长为进一步多元化配置创造了空间。&lt;strong&gt;若财政和债务可持续性问题成为更持久的战略配置驱动因素，黄金的上涨空间将远超当前基准预测。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大涨超8%，市值飙升4400亿美元！英伟达打破“财报日诅咒”，拯救科技股</title><link>https://wallstreetcn.com/articles/3780510</link><guid>565fe974edf07c8ddaf900e5725a32ed3644598960807dec40955e54411bea16</guid><pubDate>Fri, 28 Aug 2026 00:09:43 GMT</pubDate><description>&lt;p&gt;英伟达用一份爆炸性财报，一举驱散了笼罩在AI交易上空的阴霾。&lt;/p&gt;
 &lt;p&gt;周四，英伟达股价单日暴涨8.7%，创下2025年4月以来最大单日涨幅，市值一日之内飙升4420亿美元。这一增量仅次于微软今年7月创下的4500亿美元单日市值增幅——后者是有史以来最大的单日市值增长纪录。英伟达强劲的第二季度业绩及对明年半导体销售的乐观展望，带动标普500信息技术板块单日上涨3.4%，成为当日唯一收涨的行业板块，并推动大盘指数整体走高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;英伟达此前发布的强劲前景展望——公司预测下一财年营收增速约为70%，大幅超出市场此前约45%的增长预期。华尔街机构岁后普遍上调评级与目标价，并称此番指引&amp;quot;令人咋舌&amp;quot;，意味着当前市场预期存在逾千亿美元的上调空间。&lt;strong&gt;摩根大通则指出，尽管前景展望已远超预期，但可能仍属保守估计，因为公司明确将现阶段定性为&amp;quot;供应受限&amp;quot;状态，若供应不受约束，实际需求节奏将显著更高。&lt;/strong&gt;&lt;/p&gt;
@@ -148,7 +193,23 @@ Rubin平台与生态护城河：多重增长引擎成形
 &lt;p&gt;我们看到数据中心业务组合呈现全面增长态势，包括互联业务的强劲需求，以及定制业务从2027财年下半年开始的显著提速。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;上周，谷歌获得认购Marvell科技价值122亿美元股份的认股权证，推动公司股价上涨。&lt;/p&gt;
-&lt;p&gt;双方在谷歌AI张量处理单元（TPU）的相关业务上保持紧密合作，这一合作关系进一步巩固了Marvell科技的定制芯片设计业务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “当红研究机构”Citrini：“美国财政部-美联储”将达成新协议，几个月后点燃美债</title><link>https://wallstreetcn.com/articles/3780517</link><guid>5a19f65d857f5f75de8c725cd2f5b122109040060abd19e286021b377229c0e5</guid><pubDate>Fri, 28 Aug 2026 01:10:38 GMT</pubDate><description>&lt;p&gt;美国财政部与美联储之间一场悄然酝酿的政策协调，正被视为推动长期美债上涨的潜在催化剂。&lt;/p&gt;
+&lt;p&gt;双方在谷歌AI张量处理单元（TPU）的相关业务上保持紧密合作，这一合作关系进一步巩固了Marvell科技的定制芯片设计业务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2028财年冲刺10000亿美元收入？英伟达点燃华尔街新预期</title><link>https://wallstreetcn.com/articles/3780513</link><guid>fb0f2d5d208121a617c147bf7498e808d30b91b2115b9d47460d5b0523462eb9</guid><pubDate>Fri, 28 Aug 2026 01:10:28 GMT</pubDate><description>&lt;p&gt;英伟达再度以超预期业绩震动市场，并抛出一份令华尔街重新定价的远期展望。&lt;/p&gt;
+&lt;p&gt;公司在最新财报电话会议上预告，截至2028年1月的财年收入增幅可能超过70%，远高于FactSet此前约45%的市场一致预期。这一前瞻指引被TD Cowen分析师Joshua Buchalter称为&amp;quot;股价潜在的重要催化剂&amp;quot;，并直接推动英伟达股价周四大涨8.7%——创下2024年5月以来最大单日涨幅。当日收盘，英伟达市值升至5.49万亿美元，单日市值增加4415亿美元，这是有史以来公司第二大单日市值增幅。&lt;/p&gt;
+&lt;p&gt;更引人注目的是，部分分析师已将目光投向更远处。Raymond James分析师Simon Leopold在研报中写道，&lt;strong&gt;英伟达在截至2029年1月的财年实现1万亿美元收入“似乎是可能的”&lt;/strong&gt;，而FactSet截至周三的市场一致预期该年度收入不足7500亿美元。&lt;/p&gt;
+70%增长指引：供应约束下的保守预测
+&lt;p&gt;英伟达管理层在财报电话会议上明确表示，70%的增长预测已将供应紧张因素纳入考量，若不存在供应瓶颈，实际数字将更高。摩根大通亦指出，&lt;strong&gt;尽管业绩指引已远超预期，但可能仍属保守估计，公司明确将现阶段定性为&amp;quot;供应受限&amp;quot;状态，若供应不受约束，实际需求节奏将显著更高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛分析师James Schneider认为，若英伟达持续与科技公司合作推进数据中心建设、进一步弥合客户需求与供应之间的缺口，公司有望在2028财年实现超出指引的表现。&lt;/p&gt;
+&lt;p&gt;在毛利率方面，英伟达预计当前财年剩余时间将出现一定压缩，但同时预告下一财年毛利率将稳定在72%至73%区间。Simon Leopold认为，这一水平虽低于近期高点，但足以打消市场的悲观顾虑，并指出考虑到内存芯片价格上涨及定制芯片竞争加剧，该指引区间&amp;quot;优于最坏情形预期&amp;quot;。&lt;/p&gt;
+Rubin平台与生态护城河：多重增长引擎成形
+&lt;p&gt;Buchalter则将这一指引解读为英伟达对自身业务能见度的&amp;quot;强烈信心信号&amp;quot;，背景是公司新一代芯片平台Vera Rubin已开始量产出货。Vera Rubin是英伟达继Blackwell之后的下一代人工智能芯片平台。&lt;/p&gt;
+&lt;p&gt;Bernstein分析师Stacy Rasgon表示，英伟达7月季度业绩“应当提醒投资者为何持有这只股票”。他在研报中指出，&lt;strong&gt;需求正在加速，而这一趋势恰逢Rubin平台成为英伟达历史上“规模最大的即将到来的产品周期”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rasgon还强调，英伟达的资产负债表正在成为&amp;quot;与其技术同等重要的护城河&amp;quot;。公司不仅通过股权投资和收入分成协议为价值数千亿美元的产品锁定客户，还能够&amp;quot;支持并壮大其产品周围的生态系统&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Simon Leopold认为，在收入贡献上，Vera Rubin芯片自身营收预计在第三财季将达到数据中心营收的约20%。同期，Groq 3 LPX已进入满产状态，本季度晚些时候将开始大批量出货，新兴云服务商Nebius成为首批采用者。Rubin及LPU的产能爬坡速度均快于此前模型预测，并已据此上调相关估算。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon Leopold进一步指出，英伟达在CPU业务上的进展同样超出预期&lt;/strong&gt;。Grace CPU过去十二个月滚动营收已突破50亿美元，下一代产品Vera CPU目前已进入满产阶段。根据订单情况，英伟达CPU业务的年化收入已达到200亿美元规模，随着供应持续改善，28财年CPU收入有望实现翻倍以上增长。&lt;/p&gt;
+华尔街多空分歧犹存，但多头积累更多筹码
+&lt;p&gt;尽管英伟达的强劲表现令多头信心大增，市场分歧并未完全消弭。Buchalter坦言，英伟达为生态系统合作伙伴提供融资支持的策略&amp;quot;不太可能说服空头&amp;quot;，但他本人对AI基础设施支出多元化的持续性以及英伟达作为&amp;quot;核心赋能者&amp;quot;的地位持&amp;quot;建设性&amp;quot;看法。&lt;/p&gt;
+&lt;p&gt;综合来看，&lt;strong&gt;Buchalter认为此次财报&amp;quot;多头净得分更多&amp;quot;，并直言英伟达股价&amp;quot;存在明显低估&amp;quot;。高盛的Schneider则补充称，此次展望&amp;quot;可能令投资者对高资本支出成本的担忧得到缓解&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师预计英伟达本财年收入将达4035亿美元。从当前财年到1万亿美元目标，英伟达能否将供应约束转化为释放空间，将是决定这一预期能否兑现的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “当红研究机构”Citrini：“美国财政部-美联储”将达成新协议，几个月后点燃美债</title><link>https://wallstreetcn.com/articles/3780517</link><guid>5a19f65d857f5f75de8c725cd2f5b122109040060abd19e286021b377229c0e5</guid><pubDate>Fri, 28 Aug 2026 01:10:38 GMT</pubDate><description>&lt;p&gt;美国财政部与美联储之间一场悄然酝酿的政策协调，正被视为推动长期美债上涨的潜在催化剂。&lt;/p&gt;
 &lt;p&gt;当红研究机构Citrini Research在最新报告中指出，财政部与美联储正朝着更协调的政策框架迈进，核心逻辑是将政府借贷重心转向短期债券、压缩长期美债供给，从而为30年期美债的上涨行情铺路。&lt;strong&gt;Citrini将这一框架称为新版&amp;quot;财政部-美联储协议&amp;quot;（Treasury-Fed Accord）&lt;/strong&gt;，该机构已建议客户押注30年期美债跑赢5年期美债，即做多两者之间的收益率利差收窄。&lt;/p&gt;
 &lt;p&gt;Citrini由James Van Geelen创立，今年早些时候凭借一份描绘人工智能驱动经济崩溃的&amp;quot;反乌托邦&amp;quot;报告而声名大噪，跻身市场最受关注的独立研究机构之列。&lt;/p&gt;
 &lt;p&gt;这一判断的直接触发点，是财政部长贝森特上周出人意料地宣布计划加大对长期债券的回购力度。在贝森特所称的&amp;quot;财政部扭转操作&amp;quot;（Treasury twist）下，政府可能以短期国库券替换部分长期债务，以缓解30年期美债收益率攀升至近二十年高位所带来的市场压力。Citrini预计，&lt;strong&gt;未来三个月内，即在11月4日财政部下一次再融资公告发布前后，5年期与30年期美债的收益率利差将明显收窄，届时&amp;quot;扭转操作&amp;quot;的效果将对市场充分显现。&lt;/strong&gt;&lt;/p&gt;
@@ -355,23 +416,4 @@ Rubin平台与生态护城河：多重增长引擎成形
 &lt;p&gt;此外，旗下综合经营牌照的表现显现分化：上银理财产品规模增至4460.89亿元，上半年实现净利润1.27亿元；上银基金公募管理规模达2,653.05亿元，上半年实现净利润1.70亿元。&lt;/p&gt;
 &lt;p&gt;与此同时，旗下闵行上银村镇银行与衢州衢江上银村镇银行分别亏损304.40万元和850.28万元，县域金融板块的整合压力显现。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;整体来看，上海银行正处于资产结构向对公、科技与绿色领域调整，同时应对存量地产不良的阶段；&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;后续几个季度其不良贷款生成的控制情况以及拨备消耗速度，仍是市场关注的焦点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什杰克逊霍尔讲话料乏善可陈，沃勒9月表态或更具交易价值</title><link>https://wallstreetcn.com/articles/3780503</link><guid>c8b09241cfe2284a53277c3c9dcc12e9361c8e03b245f38dba50d19d080967c4</guid><pubDate>Thu, 27 Aug 2026 21:13:56 GMT</pubDate><description>&lt;p&gt;周五，美联储主席凯文·沃什将在杰克逊霍尔讲话，可能将再度令寄望于明确政策信号的债券交易员失望。&lt;strong&gt;真正具有交易价值的时刻，或许要等到理事沃勒下周开口才会到来。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多重迹象显示，沃什将延续其上任以来惜字如金的沟通风格，不就利率走向发出明确信号。这意味着金融市场在相当程度上仍需依赖新公布的经济数据自行研判政策方向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;若讲话后美债出现抛售，市场人士认为，这更多反映的是投资者对&amp;quot;无前瞻指引&amp;quot;新框架的适应过程，而非美联储抗通胀公信力的实质性动摇。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博分析指出，能够为市场提供更多可操作线索的，是&lt;strong&gt;沃勒定于9月3日发表的讲话。届时距9月15日至16日FOMC会议前静默期开启仅剩两天，其表态的市场权重将因此大幅提升。&lt;/strong&gt;&lt;/p&gt;
-
-沃什风格已成市场痼疾，债市苦于政策方向不明
-
-&lt;p&gt;自执掌美联储以来，沃什刻意保持措辞模糊，将政策信号的解读权更多留给市场和数据，而非通过前瞻指引主动引导预期。这一风格在债市引发持续困扰。&lt;/p&gt;
-&lt;p&gt;当前，30年期美债收益率已接近近20年高位，是市场在政策不确定性下最容易遭受冲击的方向之一。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，SOFR期货定价显示，美联储9月加息的概率超过30%，短期利率预期相对稳定，而长端则更为脆弱。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-沃勒曾将模糊转化为信号，本次讲话背景更为关键
-
-&lt;p&gt;如果说沃什定义了美联储当前的沟通风格，那么沃勒承担的则是政策反应函数的传达角色。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今年7月，在6月CPI数据公布前，沃勒曾将沃什的含糊立场转化为市场可以直接交易的信息。他明确表示，若核心通胀再度偏热，美联储将需要考虑近期加息。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而此后形势发生变化。核心CPI同比增速在6月与7月均出现回落，本周三公布的PCE数据亦表现温和，令加息预期有所降温。&lt;/p&gt;
-&lt;p&gt;这使得沃勒下周讲话的分量更加突出。值得注意的是，本次活动的主题正是通胀前景与美联储政策应对，切中当前市场最核心的关切。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;9月3日的讲话距FOMC会议前静默期开始仅有两天，是本轮会议前官员公开发声的最后实质性窗口。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;后续几个季度其不良贷款生成的控制情况以及拨备消耗速度，仍是市场关注的焦点。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
