@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 18:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 铠侠甩出“谈判王牌”：要扩产，签长协！</title><link>https://wallstreetcn.com/articles/3780636</link><guid>b69e441275ca3e5bb38b71656caf70245d195166f1392f90c5d584fd33e9f503</guid><pubDate>Sat, 29 Aug 2026 10:13:17 GMT</pubDate><description>&lt;p&gt;近期，铠侠（Kioxia）联合SanDisk公布截至2033财年的5万亿日元扩产计划，瑞银（UBS）在8月28日发布的最新研报中认为，此举释放的关键信号是：铠侠具备扩产能力，但无意立即执行——这将成为其在NAND长协（LTA）谈判中对超大规模云厂商的核心筹码。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 19:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 铠侠甩出“谈判王牌”：要扩产，签长协！</title><link>https://wallstreetcn.com/articles/3780636</link><guid>b69e441275ca3e5bb38b71656caf70245d195166f1392f90c5d584fd33e9f503</guid><pubDate>Sat, 29 Aug 2026 10:13:17 GMT</pubDate><description>&lt;p&gt;近期，铠侠（Kioxia）联合SanDisk公布截至2033财年的5万亿日元扩产计划，瑞银（UBS）在8月28日发布的最新研报中认为，此举释放的关键信号是：铠侠具备扩产能力，但无意立即执行——这将成为其在NAND长协（LTA）谈判中对超大规模云厂商的核心筹码。&lt;/p&gt;
 &lt;p&gt;当前，AI模型上下文长度的持续扩展正驱动推理侧NAND需求快速增长，且没有放缓迹象。&lt;/p&gt;
 &lt;p&gt;瑞银判断，2027年NAND供需将较2026年进一步收紧，超大规模客户在长协谈判中将是更可能让步的一方，铠侠有望据此锁定有利条款。&lt;/p&gt;
 5万亿日元怎么花
@@ -8,23 +8,7 @@
 &lt;p&gt;瑞银测算，上述投资可为332层BiCS10世代新增月产能20-22万片，为4xx层世代新增18-20万片。以2028财年末月产能35万片为基准，投资全部到位后有望恢复至55万片，市场份额下滑风险较低。铠侠同时将bit growth预期从约20%小幅上调至20%出头。&lt;/p&gt;
 为什么说是&amp;quot;谈判王牌&amp;quot;
 &lt;p&gt;超大规模客户在长协谈判中自然希望铠侠提前扩产以保障供应。但铠侠最新公告的姿态恰恰相反：扩产能力和规划都摆上了台面，投产时间表却不急。&lt;/p&gt;
-&lt;p&gt;在供给偏紧的格局下，产能&amp;quot;按兵不动&amp;quot;让主动权向供给侧倾斜。瑞银据此判断，铠侠有望以有利条款达成长协——超大规模客户要想锁定未来的NAND产能，就需要在价格和合约期限上做出让步。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “竞争格局缓和”下的美团：本地商业利润率远超预期，新业务亏损收窄</title><link>https://wallstreetcn.com/articles/3780623</link><guid>5935df31199d5ed575b92d37f4e150b2c65b925e2d135d36135d2a1743c7063d</guid><pubDate>Sat, 29 Aug 2026 07:16:40 GMT</pubDate><description>&lt;p&gt;二季度，美团交出了一份远超华尔街预期的亮眼财报。&lt;/p&gt;
-&lt;p&gt;其中，核心本地商业经营利润56.7亿元，同比增长52%，利润率7.9%，而华尔街预期仅34亿元，实际超出近七成。亮眼财报表现的背后，是行业竞争的阶段性降温——外卖补贴趋于正常化，单位经济模型（UE）快速修复。&lt;/p&gt;
-&lt;p&gt;具体数据来看，二季度，美团总营收1046.4亿元，同比增14.4%，环比增14.9%，超预期约3.5%。调整后净利润25.2亿元，利润率从一季度的-5.5%回升至2.4%，远超市场此前仅3.4亿元的盈利预期；经调整EBITDA达41亿元，利润率3.9%，花旗此前预期仅0.6%。新业务亏损收窄至17.4亿元，同样好于预期的24亿元。&lt;/p&gt;
-本地商业：利润从何而来
-&lt;p&gt;核心本地商业收入同比增10.1%至715.3亿元，市场此前预期增速仅5%左右。利润率从一季度的-3.2%回升至7.9%，同比也高于去年的5.7%。花旗指出，CLC经营利润分别超出该行及一致预期76%和66%，体现了美团在经历一轮激烈行业竞争后运营效率的快速恢复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;外卖是利润改善的主要来源。&lt;/strong&gt;高盛分析认为，外卖UE恢复、配送补贴正常化和营销效率提升共同推动了利润改善。配送服务收入同比增13.1%至267.8亿元。另据财报后的电话会，管理层认为外卖行业正从补贴竞争转向服务、品质和创新驱动，二季度美团在订单量和GTV的市场份额环比提升，中高客单价区间表现尤为突出。不过管理层也指出，行业补贴率相比2024年仍处高位，完全正常化仍需数个季度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;到店酒旅方面，&lt;/strong&gt;美团以ROI为导向追求高质量增长，覆盖超过800万商户和200多个品类。据电话会，竞争对手面向价格敏感用户的激进补贴对其核心用户和商户未产生实质影响。高盛在报告中指出，到店酒旅领域的竞争强度亦有缓和迹象——抖音生活服务竞争力度减弱，携程取消了高端酒店独家合作——这为美团该板块利润率的回升提供了更有利的外部环境。&lt;/p&gt;
-新业务：亏损好于预期，Keeta海外提速
-&lt;p&gt;新业务收入同比增25%至331.1亿元，亏损17.4亿元，亏损率从一季度的-7.8%收窄至-5.3%，好于市场预期的24亿元。高盛认为，国内买菜和海外Keeta运营效率的持续提升是亏损改善的主因。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Keeta的海外盈利时间线在缩短。&lt;/strong&gt;据财报后电话会，Keeta香港2023年5月上线，2025年10月盈亏平衡，耗时29个月；沙特2024年9月启动，2026年7月盈利，仅22个月。管理层认为沙特市场规模大于香港且表现良好。巴西是全球前五大外卖市场之一，当前集中资源于圣保罗（占巴西市场约25%）。管理层预计2026年新业务整体亏损将少于2025年。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;国内新零售方面，&lt;/strong&gt;小象超市已覆盖68个城市并开出5家线下门店，去年12月开设首店，此后陆续落地杭州、宁波，最新一家深圳门店于业绩发布当日开业。&lt;strong&gt;社区生鲜业态快乐猴运营40家门店，定位社区邻里模式。管理层认为两者具有差异化定位和协同效应。&lt;/strong&gt;&lt;/p&gt;
-三季度展望与AI布局
-&lt;p&gt;Jefferies预计三季度总营收同比增20%至1150亿元。外卖UE将面临季节性环比压力——天气推高骑手成本，暑期促销增加，职业伤害保险支出上升。管理层表示三季度外卖UE同比仍将改善，预计维持正值。&lt;/p&gt;
-&lt;p&gt;到店酒旅方面，管理层将把部分营销费用从二季度转至三季度，以抓住暑期旺季并加固核心用户群，下半年还将进一步加大投入。Jefferies预计该板块三季度利润率从二季度的约30%降至25%左右。新业务三季度亏损预计与二季度持平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI投入持续加码。&lt;/strong&gt;美团推出LongCat 2.0，开放权重架构，参数规模达万亿级，训练全部使用国产芯片。App内AI助手&amp;quot;小团&amp;quot;采用率持续上升。管理层以ROI为导向评估AI投入，优先方向是提升内部生产效率和用户、商户体验。集团层面未分配亏损从一季度的23亿元收窄至12亿元，部分投资净收益被AI投入增加所对冲。&lt;/p&gt;
-&lt;p&gt;亮眼财报表现下，几家投行纷纷给到了买入评级。高盛认为，美团在本地生活服务市场保持整体领先，即时零售的可及市场仍在扩大；Jefferies认为竞争格局缓和下美团的长期投资逻辑依然成立。当前，美团持有约700亿元投资组合，管理层表示部分资产具备释放价值的空间。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润</title><link>https://wallstreetcn.com/articles/3780632</link><guid>78e6de675f4bab3a9493d8eafb2c7494fd12b918b1fcc228309ae97a47ae277d</guid><pubDate>Sat, 29 Aug 2026 08:51:47 GMT</pubDate><description>&lt;p&gt;AI模型公司每赚100美元，约35-40美元以推理计算费用的形式流向AWS、Azure、GCP三大云厂商。云厂商从这笔收入中赚取10-20美元营业利润，对应营业利润率约35%-45%。&lt;/p&gt;
+&lt;p&gt;在供给偏紧的格局下，产能&amp;quot;按兵不动&amp;quot;让主动权向供给侧倾斜。瑞银据此判断，铠侠有望以有利条款达成长协——超大规模客户要想锁定未来的NAND产能，就需要在价格和合约期限上做出让步。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润</title><link>https://wallstreetcn.com/articles/3780632</link><guid>78e6de675f4bab3a9493d8eafb2c7494fd12b918b1fcc228309ae97a47ae277d</guid><pubDate>Sat, 29 Aug 2026 08:51:47 GMT</pubDate><description>&lt;p&gt;AI模型公司每赚100美元，约35-40美元以推理计算费用的形式流向AWS、Azure、GCP三大云厂商。云厂商从这笔收入中赚取10-20美元营业利润，对应营业利润率约35%-45%。&lt;/p&gt;
 &lt;p&gt;这是巴克莱在8月28日发布的AI行业单位经济学研报中的核心发现。&lt;/p&gt;
 &lt;p&gt;与此同时，AI实验室的付费推理利润率已从2025年的十几个百分点飙升至2026年的50%-65%以上，调整后毛利率同比提升30-50个百分点。驱动力来自企业级客户和agentic工作流成为市场上的&amp;quot;必买&amp;quot;产品。&lt;/p&gt;
 &lt;p&gt;巴克莱分析师Ross Sandler认为，当前实际利润率可能比报告估算还要高，但随着前沿竞争加剧和算力供给增加，预计将逐步回落。&lt;/p&gt;
