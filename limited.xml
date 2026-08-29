@@ -1,13 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 22:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔14A传来重大进展：缺陷下降速度创22纳米以来最佳</title><link>https://wallstreetcn.com/articles/3780638</link><guid>a751aa6ae9291c2997c9e30d4c90c63c2aa45416c47cedf8f63f956077bb50fc</guid><pubDate>Sat, 29 Aug 2026 11:12:36 GMT</pubDate><description>&lt;p&gt;英特尔14A（1.4纳米级）制程的缺陷密度下降速度超出公司预期，创下22纳米以来最佳表现。CFO David Zinsner在德意志银行2026年科技大会上称，&amp;quot;自22nm以来从未见过这样的表现&amp;quot;。&lt;/p&gt;
-&lt;p&gt;14A计划2027年下半年风险量产，2028年进入大规模量产。距投产尚有约两年，客户端已出现实质性变化：英特尔内部设计团队开始在14A上开发产品，外部代工客户从评估技术数据转向询问产能分配。&lt;/p&gt;
-对标22纳米：好消息与三重限定
-&lt;p&gt;&amp;quot;14A的缺陷密度优于我们设定的目标曲线，缺陷下降速度也优于此前任何节点。自22纳米以来，我们没见过这种表现——而22纳米可以说是英特尔推出过的最好制程之一。&amp;quot;Zinsner在会上表示。&lt;/p&gt;
-&lt;p&gt;22纳米是英特尔首个FinFET制程，推出时领先全行业——竞争对手直到2014至2015年的14/16纳米节点才跟进。Ivy Bridge处理器2012年上市后大获成功，22纳米为英特尔CPU产线服务至2016年，之后继续用于其他产品线。&lt;/p&gt;
-&lt;p&gt;但Zinsner的比较有严格边界。他对标的是14A在距量产约两年时的缺陷下降轨迹，与22纳米在约2010年同期阶段的表现，而非两代工艺绝对缺陷水平的直接比较。同时，16年间晶圆检测设备的进步已改变了&amp;quot;缺陷&amp;quot;的计量口径，而缺陷密度本身也不直接等同于良率。&lt;/p&gt;
-&lt;p&gt;14A的工艺复杂度让这组数据更有看头：第二代环栅（GAA）RibbonFET晶体管、第二代背面供电PowerDirect、High-NA EUV光刻，技术难度远超22纳米。在这样的工艺组合下仍能快速压低缺陷密度，放在英特尔近年的制程记录中格外突出——此前，14纳米因良率不足推迟一年，初代10纳米失败，20A取消，18A量产时缺陷仍偏高，Intel 4和Intel 3几乎未公开过进展。&lt;/p&gt;
-客户：从&amp;quot;看数据&amp;quot;到&amp;quot;要产能&amp;quot;
-&lt;p&gt;Zinsner透露，英特尔内部设计团队已在14A上开发产品。他称这群内部客户&amp;quot;大概是所有人里最挑剔的&amp;quot;，&amp;quot;他们选择在14A上设计产品，对我们也是很大的信心提振。&amp;quot;&lt;/p&gt;
-&lt;p&gt;外部代工客户的态度也在发生质变。据Zinsner介绍，CEO陈立武和团队目前每周与客户会面，&amp;quot;客户已从看数据，转向了&amp;#x27;我能拿到多少产能？供应节奏怎么安排？&amp;#x27;我们现在对14A的外部客户也有了确信（conviction）。&amp;quot;&lt;/p&gt;
-&lt;p&gt;14A距大规模量产仍有约两年。英特尔方面表示，该节点有望像22纳米一样，成为一个长寿制程。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 23:29:11 GMT</lastBuildDate></channel></rss>
