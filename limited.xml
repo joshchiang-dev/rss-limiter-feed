@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 16:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 沃什“放鹰”，高盛依旧不信“9月加息”、摩根大通称“还是要看8月非农和CPI”</title><link>https://wallstreetcn.com/articles/3780629</link><guid>e33cd03aca6ab8fc9aaf2f38e0a7a1338dfdeffcddbb978ea312dda933df4129</guid><pubDate>Sat, 29 Aug 2026 05:21:40 GMT</pubDate><description>&lt;p&gt;美联储主席沃什（Kevin Warsh）首次以主席身份亮相Jackson Hole，&lt;strong&gt;发出了比7月FOMC新闻发布会更为鹰派的信号&lt;/strong&gt;：通胀&amp;quot;令人担忧&amp;quot;，美联储当前的&amp;quot;首要焦点应当放在物价上&amp;quot;，若基本通胀趋势不能以&amp;quot;足够的速度&amp;quot;回落至目标，&amp;quot;我们还有工作要做&amp;quot;。&lt;/p&gt;
-&lt;p&gt;讲话公布后，&lt;strong&gt;2年期美债收益率跳升约7个基点&lt;/strong&gt;——近年来Jackson Hole讲话引发的最大市场反应之一。与此同时，&lt;strong&gt;9&lt;/strong&gt;&lt;strong&gt;月加息概率从演讲前的约30%攀升至50%以上&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;不过，华尔街两大行均未跟随市场定价转向。&lt;strong&gt;摩根大通维持12月加息的基准预测&lt;/strong&gt;，&lt;strong&gt;经济学家Michael Feroli称，决定9月会议结果的&amp;quot;更重要的消息&amp;quot;是即将公布的8月非农就业和CPI报告。高盛预计8月核心CPI和核心PCE环比涨幅均在0.2%左右，按此路径FOMC将按兵不动。&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;通胀是&amp;quot;首要关切&amp;quot;：基本趋势未见实质改善&lt;/strong&gt;
-&lt;p&gt;沃什将演讲的相当篇幅用于通胀。他承认今年夏季的PCE和CPI读数&amp;quot;好于预期&amp;quot;，但话锋一转：&lt;strong&gt;&amp;quot;这并不能告诉我基本趋势已有实质性改善。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他拿出一组数据佐证：过去12个月中，&lt;strong&gt;PCE篮子里价格涨幅超过3%的商品和服务占比达到54%&lt;/strong&gt;，低于疫情后约77%的高峰，但仍远高于疫情前二十年32%的水平。摩根大通的Feroli认为，相较于沃什此前引用的截尾均值PCE（trimmed-mean PCE），这一指标的选择&amp;quot;不那么投机取巧&amp;quot;——截尾均值已回归正常区间，但&lt;strong&gt;超过3%的占比仍远超金融危机前水平&lt;/strong&gt;。高盛则指出，该计算在一定程度上反映了关税效应。&lt;/p&gt;
-&lt;p&gt;沃什承认工资增速&amp;quot;温和&amp;quot;，但表示工资&amp;quot;很长时间以来都未能成为未来通胀的可靠指标&amp;quot;——言下之意，温和的工资数据并不构成通胀前景改善的有力证据。&lt;/p&gt;
-&lt;strong&gt;纠偏7月两大争议表态&lt;/strong&gt;
-&lt;p&gt;沃什在演讲中主动修正了7月FOMC新闻发布会上引发市场不安的两个表述。&lt;/p&gt;
-&lt;p&gt;此前他曾对2%通胀目标的未来表示质疑，此次明确声明：&lt;strong&gt;&amp;quot;不应有任何误解——美联储以PCE价格指数衡量的2%物价稳定目标，是一个坚定不移的固定目标。&amp;quot;&lt;/strong&gt; 同样，此前他在政策工具选择上态度模糊，此次则确认&amp;quot;短期利率是实现双重使命的首要工具&amp;quot;。摩根大通评价，两项澄清合在一起，信号清晰——更高的通胀将以更高的联邦基金利率来应对。&lt;/p&gt;
-&lt;p&gt;演讲中沃什还列出了指导政策的七项原则，重申对货币总量的关注，质疑前瞻指引在常规时期的作用，并在尾声呼吁建立一个&amp;quot;更安静、在沟通上更有目的性的美联储&amp;quot;。摩根大通称，这是自2018年以来篇幅最长的美联储主席Jackson Hole演讲。&lt;/p&gt;
-&lt;strong&gt;经济&amp;quot;令人印象深刻&amp;quot;，金融条件&amp;quot;谈不上紧缩&amp;quot;&lt;/strong&gt;
-&lt;p&gt;沃什用约四分之一的篇幅谈论经济状况，语气颇为传统。摩根大通称，这部分&amp;quot;听起来像传统技术官僚型的美联储主席讲话&amp;quot;，比如讨论了私人国内最终购买（private domestic final purchases）这类指标。&lt;/p&gt;
-&lt;p&gt;沃什对经济的判断是&amp;quot;印象深刻，经济似乎已经走强&amp;quot;：实际消费支出&amp;quot;尽管遭受冲击但依然健康&amp;quot;，企业资本开支&amp;quot;正在快速增长&amp;quot;——&lt;strong&gt;今年超过一半的资本开支增长可归因于AI相关建设&lt;/strong&gt;。他引用的私人国内最终购买增速今年以来接近3%，不过高盛提示，该指标目前受到AI投资相关科技品进口的上行扭曲。&lt;/p&gt;
-&lt;p&gt;劳动力市场方面，沃什认为&amp;quot;相当稳定&amp;quot;&amp;quot;与充分就业一致&amp;quot;，失业率&amp;quot;按历史标准仍处于低位&amp;quot;。他的总体判断是，&lt;strong&gt;&amp;quot;很难将当前广义金融条件描述为紧缩性的&amp;quot;&lt;/strong&gt;——这一表态较6月新闻发布会上的态度有了明显转变，当时他将同一问题推给了工作组。&lt;/p&gt;
-&lt;strong&gt;高盛、摩根大通：9月加息仍非基准情景&lt;/strong&gt;
-&lt;p&gt;沃什在演讲中透露，7月FOMC会议上&amp;quot;我和大多数同事都认为，更明智的做法是等待会议间隔期的新信息，再决定是否有必要调整利率政策&amp;quot;。&lt;/p&gt;
-&lt;p&gt;摩根大通维持12月加息预测。Feroli承认，鉴于越来越多美联储官员释放鹰派信号，&lt;strong&gt;提前行动&amp;quot;也并非不合理&amp;quot;&lt;/strong&gt;，但关键变量是8月就业和CPI数据。&lt;/p&gt;
-&lt;p&gt;高盛的判断更为明确：&lt;strong&gt;9月加息仅在8月CPI和PPI数据超预期走强时才有可能&lt;/strong&gt;。该行预计8月核心通胀环比涨幅在0.2%左右，FOMC大概率继续按兵不动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 铠侠甩出“谈判王牌”：要扩产，签长协！</title><link>https://wallstreetcn.com/articles/3780636</link><guid>b69e441275ca3e5bb38b71656caf70245d195166f1392f90c5d584fd33e9f503</guid><pubDate>Sat, 29 Aug 2026 10:13:17 GMT</pubDate><description>&lt;p&gt;近期，铠侠（Kioxia）联合SanDisk公布截至2033财年的5万亿日元扩产计划，瑞银（UBS）在8月28日发布的最新研报中认为，此举释放的关键信号是：铠侠具备扩产能力，但无意立即执行——这将成为其在NAND长协（LTA）谈判中对超大规模云厂商的核心筹码。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 17:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 铠侠甩出“谈判王牌”：要扩产，签长协！</title><link>https://wallstreetcn.com/articles/3780636</link><guid>b69e441275ca3e5bb38b71656caf70245d195166f1392f90c5d584fd33e9f503</guid><pubDate>Sat, 29 Aug 2026 10:13:17 GMT</pubDate><description>&lt;p&gt;近期，铠侠（Kioxia）联合SanDisk公布截至2033财年的5万亿日元扩产计划，瑞银（UBS）在8月28日发布的最新研报中认为，此举释放的关键信号是：铠侠具备扩产能力，但无意立即执行——这将成为其在NAND长协（LTA）谈判中对超大规模云厂商的核心筹码。&lt;/p&gt;
 &lt;p&gt;当前，AI模型上下文长度的持续扩展正驱动推理侧NAND需求快速增长，且没有放缓迹象。&lt;/p&gt;
 &lt;p&gt;瑞银判断，2027年NAND供需将较2026年进一步收紧，超大规模客户在长协谈判中将是更可能让步的一方，铠侠有望据此锁定有利条款。&lt;/p&gt;
 5万亿日元怎么花
