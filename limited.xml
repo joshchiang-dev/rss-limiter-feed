@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 21:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 铠侠甩出“谈判王牌”：要扩产，签长协！</title><link>https://wallstreetcn.com/articles/3780636</link><guid>b69e441275ca3e5bb38b71656caf70245d195166f1392f90c5d584fd33e9f503</guid><pubDate>Sat, 29 Aug 2026 10:13:17 GMT</pubDate><description>&lt;p&gt;近期，铠侠（Kioxia）联合SanDisk公布截至2033财年的5万亿日元扩产计划，瑞银（UBS）在8月28日发布的最新研报中认为，此举释放的关键信号是：铠侠具备扩产能力，但无意立即执行——这将成为其在NAND长协（LTA）谈判中对超大规模云厂商的核心筹码。&lt;/p&gt;
-&lt;p&gt;当前，AI模型上下文长度的持续扩展正驱动推理侧NAND需求快速增长，且没有放缓迹象。&lt;/p&gt;
-&lt;p&gt;瑞银判断，2027年NAND供需将较2026年进一步收紧，超大规模客户在长协谈判中将是更可能让步的一方，铠侠有望据此锁定有利条款。&lt;/p&gt;
-5万亿日元怎么花
-&lt;p&gt;5万亿日元总投资中，铠侠出资60%，SanDisk出资40%。1.8万亿日元明确投向K3新工厂，土地平整已启动，计划2030财年投产；其余3.2万亿日元的目标厂区尚未披露。&lt;/p&gt;
-&lt;p&gt;投资节奏分两阶段。2027-2029财年，三年合计维持此前公布的1.4万亿日元不变，年均约4500-5000亿日元，但部分原定2029财年的支出将提前至2027和2028财年；2030-2033财年，年投资额可能大幅升至约1.25万亿日元。&lt;/p&gt;
-&lt;p&gt;瑞银测算，上述投资可为332层BiCS10世代新增月产能20-22万片，为4xx层世代新增18-20万片。以2028财年末月产能35万片为基准，投资全部到位后有望恢复至55万片，市场份额下滑风险较低。铠侠同时将bit growth预期从约20%小幅上调至20%出头。&lt;/p&gt;
-为什么说是&amp;quot;谈判王牌&amp;quot;
-&lt;p&gt;超大规模客户在长协谈判中自然希望铠侠提前扩产以保障供应。但铠侠最新公告的姿态恰恰相反：扩产能力和规划都摆上了台面，投产时间表却不急。&lt;/p&gt;
-&lt;p&gt;在供给偏紧的格局下，产能&amp;quot;按兵不动&amp;quot;让主动权向供给侧倾斜。瑞银据此判断，铠侠有望以有利条款达成长协——超大规模客户要想锁定未来的NAND产能，就需要在价格和合约期限上做出让步。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔14A传来重大进展：缺陷下降速度创22纳米以来最佳</title><link>https://wallstreetcn.com/articles/3780638</link><guid>a751aa6ae9291c2997c9e30d4c90c63c2aa45416c47cedf8f63f956077bb50fc</guid><pubDate>Sat, 29 Aug 2026 11:12:36 GMT</pubDate><description>&lt;p&gt;英特尔14A（1.4纳米级）制程的缺陷密度下降速度超出公司预期，创下22纳米以来最佳表现。CFO David Zinsner在德意志银行2026年科技大会上称，&amp;quot;自22nm以来从未见过这样的表现&amp;quot;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 29 Aug 2026 22:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔14A传来重大进展：缺陷下降速度创22纳米以来最佳</title><link>https://wallstreetcn.com/articles/3780638</link><guid>a751aa6ae9291c2997c9e30d4c90c63c2aa45416c47cedf8f63f956077bb50fc</guid><pubDate>Sat, 29 Aug 2026 11:12:36 GMT</pubDate><description>&lt;p&gt;英特尔14A（1.4纳米级）制程的缺陷密度下降速度超出公司预期，创下22纳米以来最佳表现。CFO David Zinsner在德意志银行2026年科技大会上称，&amp;quot;自22nm以来从未见过这样的表现&amp;quot;。&lt;/p&gt;
 &lt;p&gt;14A计划2027年下半年风险量产，2028年进入大规模量产。距投产尚有约两年，客户端已出现实质性变化：英特尔内部设计团队开始在14A上开发产品，外部代工客户从评估技术数据转向询问产能分配。&lt;/p&gt;
 对标22纳米：好消息与三重限定
 &lt;p&gt;&amp;quot;14A的缺陷密度优于我们设定的目标曲线，缺陷下降速度也优于此前任何节点。自22纳米以来，我们没见过这种表现——而22纳米可以说是英特尔推出过的最好制程之一。&amp;quot;Zinsner在会上表示。&lt;/p&gt;
