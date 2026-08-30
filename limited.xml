@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 30 Aug 2026 02:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报</title><link>https://wallstreetcn.com/articles/3780528</link><guid>d368e25d2b2285780fb0f8a240c4cf93977a1d0c6daed64aa41e9ee63760e8c1</guid><pubDate>Sun, 30 Aug 2026 01:06:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月30日 - 09月07日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 30 Aug 2026 02:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报</title><link>https://wallstreetcn.com/articles/3780528</link><guid>d368e25d2b2285780fb0f8a240c4cf93977a1d0c6daed64aa41e9ee63760e8c1</guid><pubDate>Sun, 30 Aug 2026 01:06:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月30日 - 09月07日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观数据方面，关注中国PMI与美国非农。&lt;/strong&gt;中国8月官方制造业PMI率先出炉——7月已回落至49.2收缩区间，据中国银河宏观观点有效需求不足仍是主要矛盾；美国8月非农随后登场——7月意外减少2.3万、为年内最差，据彭博一致预期8月或增5.5万人，作为FOMC前最后一份就业报告，将直接决定9月降息节奏的定价。美国ADP、ISM、初请等高频数据同步校准利率路径。此外，&lt;strong&gt;韩国8月半导体出口数据&lt;/strong&gt;同样值得关注。&lt;/p&gt;
@@ -186,7 +186,57 @@
 缺席者：拉加德、植田和男与鲍威尔
 &lt;p&gt;本届杰克逊霍尔会议出现了几位引人注目的缺席者。&lt;/p&gt;
 &lt;p&gt;欧洲央行行长拉加德与日本央行行长植田和男均未出席，两人计划出席本周一（8月31日）至周二（9月1日）在北卡罗来纳州举行的二十国集团财长及央行行长会议。&lt;/p&gt;
-&lt;p&gt;美联储方面，唯一缺席的政策制定者是前主席鲍威尔。鲍威尔在今年5月主席任期届满后，打破惯例选择留任美联储理事会成员，但&lt;strong&gt;正如其此前承诺，已基本淡出公众视野。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选之后，“特朗普交易”要反噬了？</title><link>https://wallstreetcn.com/articles/3780643</link><guid>d931518ac3d3d66f9101cade3ae30c4c1fb3f9368a5415feccb1322e79187f5f</guid><pubDate>Sun, 30 Aug 2026 01:27:00 GMT</pubDate><description>&lt;p&gt;过去一年，跟随特朗普政府入股上市公司的投资者赚得盆满钵满。但随着中期选举临近、民主党有望夺回国会至少一院，这场由政府背书驱动的股价盛宴正面临多重风险——&lt;strong&gt;诉讼、国会听证、政治反弹，任何一项都可能逆转相关股票的涨势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美联储方面，唯一缺席的政策制定者是前主席鲍威尔。鲍威尔在今年5月主席任期届满后，打破惯例选择留任美联储理事会成员，但&lt;strong&gt;正如其此前承诺，已基本淡出公众视野。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克解决发电瓶颈！SpaceX要自产“燃气轮机叶片”</title><link>https://wallstreetcn.com/articles/3780646</link><guid>2a1bc2d45e0061c96fcc628e81e26238277eeca63c21202348ac2b252308c6ec</guid><pubDate>Sun, 30 Aug 2026 02:29:10 GMT</pubDate><description>&lt;p&gt;面对AI数据中心电力短缺这一全行业痛点，马斯克正以一贯的垂直整合逻辑，试图从供应链最薄弱的环节入手，强行打通瓶颈。&lt;/p&gt;
+&lt;p&gt;8月30日，据科技媒体The Information报道，&lt;strong&gt;SpaceX正在德克萨斯州Bastrop筹建一座铸造厂，专门生产大型燃气轮机的叶片与导叶（blades and vanes）&lt;/strong&gt;——这是全球涡轮机供应链中技术壁垒最高、产能最为稀缺的核心零部件。&lt;/p&gt;
+&lt;p&gt;报道发布后，马斯克在社交平台X上亲自确认了这一计划，并表示SpaceX自主铸造叶片和导叶，&lt;strong&gt;可将燃气轮机的上线时间最多提前18个月，&amp;quot;这是一个深刻的游戏规则改变者&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;马斯克同时表示，SpaceX和特斯拉正在以最快速度各自建设年产100GW的太阳能产能，但&lt;strong&gt;&amp;quot;未来数年内，天然气仍将是补充和引导太阳能的必要选项&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;与此同时，摩根士丹利分析师Adam Jonas的研究也印证了上述报道，并指出&lt;strong&gt;该铸造厂还将兼顾SpaceX火箭发动机Raptor涡轮泵的铸件需求&lt;/strong&gt;，实现航天与AI业务的成本共摊。&lt;/p&gt;
+叶片：卡住全球AI算力扩张的&amp;quot;隐形瓶颈&amp;quot;
+&lt;p&gt;报道称，燃气轮机叶片和导叶须在华氏3000至3600度（约1650至1980摄氏度）的极端高温下运行，&lt;strong&gt;比材料自身熔点还高出约800华氏度&lt;/strong&gt;，对铸造工艺要求极为苛刻。&lt;/p&gt;
+&lt;p&gt;目前，全球仅有四家铸造企业掌握这一技术，形成高度垄断格局。这一寡头结构直接导致GE Vernova等大型涡轮机制造商的订单已排至2030年，成为AI基础设施建设提速的核心障碍之一。&lt;/p&gt;
+&lt;p&gt;马斯克今年2月在一档播客中曾直言，叶片和导叶是涡轮机更快交付的&lt;strong&gt;&amp;quot;限制性因素&amp;quot;&lt;/strong&gt;，并警告称，按当前产能推进，&amp;quot;我不确定是否有足够的可用电力来开启所有正在生产的AI芯片&amp;quot;。&lt;/p&gt;
+Bastrop：从卫星工厂到涡轮铸造基地
+&lt;p&gt;据报道，SpaceX已在Bastrop——距奥斯汀约30英里——布局多项工业设施。该公司此前已在当地运营一座与Starlink卫星业务相关的工厂。&lt;/p&gt;
+&lt;p&gt;据AI基础设施研究通讯Measured AI的尽职调查专家Corey Trinetti披露，&lt;strong&gt;SpaceX在今年3月至6月间购入了周边约830英亩土地&lt;/strong&gt;，卫星图像显示，毗邻Starlink工厂的两栋新建筑已于7月出现，而一年前该位置尚无任何建筑。&lt;/p&gt;
+&lt;p&gt;在招聘层面，SpaceX近期发布多个职位，包括负责新铸造厂&amp;quot;建设、扩建及运营爬坡&amp;quot;的高级运营工程师、高级材料工程师、自动化工程师、高级工装工程师，以及一名负责在Bastrop新建&lt;strong&gt;&amp;quot;工业燃气轮机（IGT）叶片与导叶制造线&amp;quot;&lt;/strong&gt;上进行高温超合金铣削编程的程序员。&lt;/p&gt;
+&lt;p&gt;不过，Trinetti表示，目前尚未在德克萨斯州环保或建筑档案中找到铸造厂的许可证或施工申报文件，&lt;strong&gt;SpaceX是否已启动审批流程尚不明朗&lt;/strong&gt;。&lt;/p&gt;
+双重用途：航天与AI的成本共摊逻辑
+&lt;p&gt;摩根士丹利的Adam Jonas在本月报告中指出，SpaceX在德克萨斯州建立涡轮零部件铸造厂，同时服务于数据中心需求和Raptor火箭发动机涡轮泵的铸件生产。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;Raptor涡轮泵铸件与数据中心涡轮翼型件使用相同的合金、熔炉和熟练工人，单一铸造厂可将固定成本分摊至航天和AI两项业务，&amp;quot;&lt;/strong&gt; Jonas表示。&lt;/p&gt;
+&lt;p&gt;这一双重用途逻辑，使得该铸造厂的商业可行性显著提升，也令外界对SpaceX能否真正复制Precision Castparts等行业领导者数十年积累的铸造工艺，保持审慎观察。&lt;/p&gt;
+过渡期：通过收购与合作获取桥接电力
+&lt;p&gt;在自建铸造产能落地之前，马斯克正通过多条渠道寻求数吉瓦级的过渡电力供应。据The Information报道，马斯克近期与华尔街对冲基金Fortress Investment Group低调合作，后者已投资至少两家涡轮机供应商。&lt;/p&gt;
+&lt;p&gt;根据美国联邦贸易委员会今年5月的备案文件，&lt;strong&gt;Fortress已将移动工业涡轮机供应商APR Energy出售给马斯克本人&lt;/strong&gt;。APR Energy今年1月表示，其机队约有1GW的涡轮机，意味着这批资产将向马斯克开放。&lt;/p&gt;
+&lt;p&gt;此外，&lt;strong&gt;SpaceX可能还在向FTAI Aviation采购涡轮机——该公司专门改装和翻新商用航空发动机。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FTAI由另一家Fortress旗下公司分拆而来，今年7月通过其中国合资伙伴宣布了一笔14.65亿美元的涡轮机销售合同，买方为&amp;quot;一家领先的国际云服务提供商&amp;quot;。Adam Jonas已将FTAI列为SpaceX的潜在供应商。&lt;/p&gt;
+&lt;p&gt;摩根士丹利估计，马斯克可通过一系列采购协议，&lt;strong&gt;在2027年底前获取约3至4GW的电力&lt;/strong&gt;。&lt;/p&gt;
+碳排放争议与行业分歧
+&lt;p&gt;不过，报道也指出，马斯克进一步释放化石燃料发电产能的举措，引发低碳能源倡导者的担忧。&lt;/p&gt;
+&lt;p&gt;BloombergNEF估计，若已规划的数据中心离网天然气项目全部落地，&lt;strong&gt;将使美国二氧化碳排放量增加20%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这一数字尚未将马斯克最新计划纳入统计，但已包含SpaceX旗下xAI部门在田纳西州孟菲斯地区数据中心计划于年底前投入运行的2GW离网天然气装机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;围绕马斯克能否真正实现这一宏大计划，业界存在明显分歧。&lt;/strong&gt;半导体研究机构SemiAnalysis的创始人Dylan Patel表示相信马斯克能够做到；而曾主导拜登政府能源贷款办公室的清洁能源企业家Jigar Shah则直接反驳称：&amp;quot;这是因为你根本不知道如何建设基础设施。&amp;quot;&lt;/p&gt;
+&lt;p&gt;马斯克此前已以Memphis Colossus数据中心的快速落地震惊业界——&lt;strong&gt;尽管设施品质并非顶级，但SpaceX目前已通过向Anthropic出租该设施获得可观收益&lt;/strong&gt;。分析指出，此次在电力端的豪赌，能否再度复制这一速度，市场正在密切观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 原油"回来了"，成品油"回不来"，全球炼油缺口正在扩大</title><link>https://wallstreetcn.com/articles/3780647</link><guid>a9cf1b4e782ee2f191eeffb727ac3e0b96df7c8da2e77ea265aeb63242c11f0c</guid><pubDate>Sun, 30 Aug 2026 02:51:23 GMT</pubDate><description>&lt;p&gt;原油正通过暗船与替代航线重新流向市场，但&lt;strong&gt;下游炼油产能的缺口无法靠物流手段填补&lt;/strong&gt;。高盛据此大幅上调2027年柴油利润率预测，锁定柴油溢价&amp;quot;更高更久&amp;quot;的长期格局。&lt;/p&gt;
+&lt;p&gt;高盛在8月29日的报告中将2027年美国柴油对布伦特原油的利润率预期从2月预测的27美元/桶上调至63美元/桶，欧洲从19美元/桶上调至49美元/桶，两者均较此前预测翻倍有余。&lt;/p&gt;
+&lt;p&gt;高盛作出这一调整的直接背景是&lt;strong&gt;全球成品油出口同比下降约600万桶/日（约25%）&lt;/strong&gt;，其中波斯湾贡献320万桶/日、俄罗斯110万桶/日，合计约占全球缺口的四分之三。&lt;/p&gt;
+&lt;p&gt;报告指出，波斯湾原油出口已恢复至战前水平的70%至80%，&lt;strong&gt;成品油出口却仅恢复约40%&lt;/strong&gt;。高盛预计全球炼油厂开工率要到2027年下半年才能恢复正常，柴油的结构性短缺将在更长时间内持续定价。&lt;/p&gt;
+原油&amp;quot;回来&amp;quot;了，成品油&amp;quot;没回来&amp;quot;
+&lt;p&gt;波斯湾原油出口已恢复至战前水平的70%至80%，成品油出口仍停留在约40%。&lt;/p&gt;
+&lt;p&gt;高盛估算波斯湾实际原油出口量约为每日1500万至1600万桶，较3月低点高出500万至600万桶/日，且明显高于实时油轮追踪数据——越来越多油轮关闭AIS应答器、船对船转运增加，伊朗与阿曼正推进霍尔木兹临时航运走廊，海湾产油国也在扩建绕开海峡的替代路线。&lt;/p&gt;
+&lt;p&gt;原油与成品油的走势由此背离：&lt;strong&gt;全球原油出口同比仅下降10%，柴油、航空煤油、燃料油出口则分别下降22%、20%和32%&lt;/strong&gt;。价格端同样分化——&lt;strong&gt;柴油利润率同比上涨225%、航空煤油上涨234%，原油仅34%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛认为，&lt;strong&gt;持续增加的&amp;quot;暗流&amp;quot;供应与尚在推进的替代路线，可能限制原油价格的上行空间，即便中东供应扰动持续。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;全球成品油出口同比下降约600万桶/日（约25%），波斯湾与俄罗斯合计贡献约四分之三的降幅。俄罗斯炼厂遭遇袭击已触发汽油和柴油出口限制，中东炼厂仍处受损状态，霍尔木兹海峡与红海航线亦受扰动。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;高盛认为，&lt;strong&gt;原油可以绕道而行，炼厂却无法搬走——这正是本轮缺口与以往原油供给冲击最大的不同。&lt;/strong&gt;&lt;/p&gt;
+炼油瓶颈锁定长期高利润
+&lt;p&gt;供给端修复尚需时日。全球炼厂停工较季节性正常水平高出约60%，高盛估算全球炼油运行量同比下降近700万桶/日。备用产能稀缺：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美国炼厂已接近满负荷运行，亚洲炼厂面临原油供应约束，新增产能不足以抵消持续的停工。六个月的供给不足已开始冲击库存，美国柴油与汽油库存同比分别下降9%和7%。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自2月以来，柴油贡献了全球成品油价格每桶40美元涨幅中的40%以上，迫使高盛大幅上调预测。&lt;strong&gt;高盛预计全球炼厂开工率要到2027年下半年才能恢复季节性正常水平，新增产能也不足以弥补缺口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，报告称，波斯湾至中国的2027年5月期租运费合约一个月内上涨约5倍，显示航运市场并未定价快速恢复正常。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选之后，“特朗普交易”要反噬了？</title><link>https://wallstreetcn.com/articles/3780643</link><guid>d931518ac3d3d66f9101cade3ae30c4c1fb3f9368a5415feccb1322e79187f5f</guid><pubDate>Sun, 30 Aug 2026 01:27:00 GMT</pubDate><description>&lt;p&gt;过去一年，跟随特朗普政府入股上市公司的投资者赚得盆满钵满。但随着中期选举临近、民主党有望夺回国会至少一院，这场由政府背书驱动的股价盛宴正面临多重风险——&lt;strong&gt;诉讼、国会听证、政治反弹，任何一项都可能逆转相关股票的涨势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;8月29日，据彭博社报道，民调显示民主党胜算上升，市场策略师警告，一旦民主党控制参议院或众议院，针对政府持股企业的国会调查将接踵而至，企业品牌与股价均面临冲击。与此同时，一场股东诉讼正在法院挑战政府入股英特尔的合法性——&lt;strong&gt;若法院裁定《芯片法案》不赋予商务部以股权换补贴的权力，整个政府持股组合的法律基础将受到动摇&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;市场策略师指出，这些股票的涨幅大多来自消息公布后的短暂爆发，随后便大幅回落，说明政府背书带来的股价动能本身就相当脆弱。研究机构Veda Partners联合创始人Henrietta Treyz直言，&lt;strong&gt;民主党主导的委员会传唤企业高管和政府官员出席听证，&amp;quot;是投资者眼下最需要关注的风险之一&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 政府入股潮：涨幅惊人，但多为昙花一现
