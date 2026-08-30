@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 30 Aug 2026 05:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报</title><link>https://wallstreetcn.com/articles/3780528</link><guid>d368e25d2b2285780fb0f8a240c4cf93977a1d0c6daed64aa41e9ee63760e8c1</guid><pubDate>Sun, 30 Aug 2026 01:06:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月30日 - 09月07日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 30 Aug 2026 05:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报</title><link>https://wallstreetcn.com/articles/3780528</link><guid>d368e25d2b2285780fb0f8a240c4cf93977a1d0c6daed64aa41e9ee63760e8c1</guid><pubDate>Sun, 30 Aug 2026 01:06:19 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;08月30日 - 09月07日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观数据方面，关注中国PMI与美国非农。&lt;/strong&gt;中国8月官方制造业PMI率先出炉——7月已回落至49.2收缩区间，据中国银河宏观观点有效需求不足仍是主要矛盾；美国8月非农随后登场——7月意外减少2.3万、为年内最差，据彭博一致预期8月或增5.5万人，作为FOMC前最后一份就业报告，将直接决定9月降息节奏的定价。美国ADP、ISM、初请等高频数据同步校准利率路径。此外，&lt;strong&gt;韩国8月半导体出口数据&lt;/strong&gt;同样值得关注。&lt;/p&gt;
@@ -152,7 +152,57 @@
 &lt;p&gt;&lt;strong&gt;Anthropic IPO 公开招股书&lt;/strong&gt;（9月7日，据The Information，目标估值1.5-2万亿美元）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;9月机圈新品潮：华为 Mate XT 2 三折叠发布&lt;/strong&gt;（9月7日，首发HarmonyOS 7，小米18 Fold等跟进）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加拿大对美约200亿美元商品反制关税生效&lt;/strong&gt;（9月8日，15%/25%/50%，据新华社/央视）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;苹果2026秋季新品发布会&lt;/strong&gt;（iPhone Fold首秀+iPhone 18 Pro，特努斯首秀，北京时间9月10日凌晨）&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 杰克逊霍尔大会结束了，除了沃什“放鹰”，还有这些要点</title><link>https://wallstreetcn.com/articles/3780642</link><guid>1f4d5d1e1234374de9bc986bd5c99558d7f3061c480e8377f7a4ba6bfadd5d39</guid><pubDate>Sun, 30 Aug 2026 00:56:16 GMT</pubDate><description>&lt;p&gt;美联储年度杰克逊霍尔经济研讨会落幕，除了联储主席沃什（Kevin Warsh）首秀放鹰之外，多位全球央行官员也释放了关键信号，且政治风波亦未平息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;苹果2026秋季新品发布会&lt;/strong&gt;（iPhone Fold首秀+iPhone 18 Pro，特努斯首秀，北京时间9月10日凌晨）&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 八月惊涛：贝森特出手干预，政策底牌悄然揭开</title><link>https://wallstreetcn.com/articles/3780650</link><guid>55a84edf364b86d67fa923cca50f8216b6b4210508a8e22bed156a9d68c38187</guid><pubDate>Sun, 30 Aug 2026 05:37:13 GMT</pubDate><description>&lt;p&gt;八月本应是市场的淡季，却演变为一场深刻的政策信号释放。&lt;/p&gt;
+&lt;p&gt;美国财政部长贝森特（Scott Bessent）相继介入美元兑日元汇率与美债长端，向市场传递出一个清晰信息：当局宁可选择货币贬值，也不会让债券市场崩溃。这一表态重塑了投资者的定位逻辑，黄金、比特币与大宗金属随之成为市场焦点，而人工智能的叙事也正从&amp;quot;建设期&amp;quot;向&amp;quot;应用期&amp;quot;加速切换。高盛合伙人Mark Wilson&lt;strong&gt;将这一系列事件定性为&amp;quot;后果严重的八月事件序列&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;Wilson认为，&lt;strong&gt;贝森特的干预是本月最重要的政策节点。&lt;/strong&gt;他先是介入美元兑日元，随后推动美债长端回购——即所谓的&amp;quot;扭曲操作&amp;quot;（twist）——同时配合扩大银行资产负债表容量、压缩美联储资产负债表规模等举措，向市场展示政策工具箱远未见底。高盛利率团队指出，&lt;strong&gt;这些回购操作或可改善长端供需，但并未触及推动全球（而非仅美国）长端收益率上行的根本驱动因素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场对这一政策信号的反应迅速而直接&lt;/strong&gt;。过去十天，投资者对&amp;quot;价值储存&amp;quot;资产的敞口不足产生了明显焦虑，&lt;strong&gt;黄金、比特币与金属&lt;/strong&gt;的投资逻辑重回每一场投资者对话的核心。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，英伟达单日市值暴增近5000亿美元，软件ETF IGV录得二十年来最佳单日涨幅，但标普500指数中剔除AI相关股票后当日下跌0.7%，市场广度之差为本世纪罕见——&lt;strong&gt;两条截然不同的叙事正在同一个市场中并行运行。&lt;/strong&gt;&lt;/p&gt;
+政策底牌：贝森特&amp;quot;扭曲操作&amp;quot;的真实含义
+&lt;p&gt;长端收益率持续上行，是已经拉长的股票牛市面临的显性风险，在发达经济体财政状况普遍恶化的背景下尤为如此。贝森特的一系列干预，标志着一个重要的政策拐点。&lt;/p&gt;
+&lt;p&gt;Mark Wilson指出，贝森特的&amp;quot;扭曲操作&amp;quot;与其他近期政策举措共同传递出一个核心信息：&lt;strong&gt;美联储与财政部的政策协调已变得更加明确，当局将以一切手段托底名义增长。&lt;/strong&gt; 这不是几百亿美元的国债回购能改变债务存量的问题，而是政策反应函数变得更加清晰——官方将在债券市场破裂之前选择货币贬值。&lt;/p&gt;
+&lt;p&gt;高盛利率团队明确表示，此次回购操作或可在边际上改善长端供需，但全球长端收益率上行的根本驱动因素——即发达经济体的财政算术——并未因此改变。然而，这一干预在定位层面的意义远超其技术层面的效果：&lt;strong&gt;它告诉投资者，名义增长将被政策背书，而那些在&amp;quot;价值储存&amp;quot;资产上敞口不足的人，已经落后于形势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wilson认为，过去十天，黄金、比特币与金属的投资逻辑重回市场对话核心，&lt;strong&gt;正是这一政策信号的直接映射。&lt;/strong&gt;&lt;/p&gt;
+名义增长：英伟达与AI资本开支的宏观叙事
+&lt;p&gt;贝森特干预的政策目标指向明确：托底美国强劲的名义增长。Wilson称，而在微观层面，&lt;strong&gt;没有什么比英伟达更能体现这一叙事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛在英伟达发布亮眼二季度业绩后，将其2028年营收预测上调至9550亿美元，较此前预测提高1650亿美元——相当于一夜之间凭空创造出一个梅赛德斯-奔驰或英国石油（BP）规模的企业（以营收计）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更令人瞩目的是，高盛预测英伟达未来两年营收将增长5430亿美元（从2026年的4120亿美元增至2028年的9550亿美元），这相当于在两年内创造出欧洲营收最大的两家企业——大众汽车与壳牌——的体量之和。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，八月份投资级债券发行创下历史新高，超大规模云计算企业（hyperscalers）贡献显著。英伟达宣布成立5000亿美元融资联盟，为GPU残值提供背书，这一举措意义更为深远：&lt;strong&gt;它将推动算力规格与容量的标准化，消除融资瓶颈对增长的潜在制约，并有效降低AI基础设施最大建设者的资本成本。&lt;/strong&gt;&lt;/p&gt;
+AI叙事转向：从&amp;quot;建设期&amp;quot;到&amp;quot;应用期&amp;quot;
+&lt;p&gt;两则企业公告为AI发展进入新阶段提供了鲜明注脚。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月19日，Moderna股价单日暴涨175%，创标普500成分股有史以来最大单日涨幅&lt;/strong&gt;，原因是该公司公布了个性化疫苗预防黑色素瘤复发的研究结果，展示了定制化、高效个人癌症治疗的可行性。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;同日，Stripe宣布收购OpenRouter，并在致股东信中写道：&amp;quot;我们认定1月1日标志着奇点的开始……我们看到了长期趋势的重大拐点……AI的承诺与集体希望在于它将带来更大的物质繁荣与丰裕。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Mark Wilson认为，这两则公告清晰揭示了AI从&amp;quot;建设&amp;quot;阶段向&amp;quot;有用性&amp;quot;阶段迈进的创新可能性。&lt;strong&gt;AI不再只是聊天机器人，Moderna式的应用与Stripe对&amp;quot;奇点&amp;quot;的表述，已不再是科幻小说。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场的注意力正在从AI建设期的受益者（内存、半导体、硬件）转向AI部署期的真正受益者——那些股价尚未反映这一转变的公司。&lt;/strong&gt;&lt;/p&gt;
+市场裂痕：两条叙事，一个市场
+&lt;p&gt;尽管上述事件整体指向积极，八月的风险管理却远非一帆风顺。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;英伟达业绩发布后，其市值单日暴增近5000亿美元，随后在次日回吐约2500亿美元；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IGV软件ETF录得二十年最佳单日涨幅；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;然而，&lt;strong&gt;当日市场广度极差——本世纪仅有一次标普500上涨超过60个基点时，成分股上涨数量如此之少。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;quot;标普500剔除AI&amp;quot;当日下跌0.7%，高盛构建的&amp;quot;AI赢家vs AI风险&amp;quot;配对组合当日下跌3%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mark Wilson对此的解读是：英伟达惊人的营收增长很可能正在蚕食其他领域的支出，正如Salesforce的业绩显示软件本身也将在部分领域成为AI的关键受益者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;围绕AI敞口的定位与预测难度无疑在上升&lt;/strong&gt;——软件在高盛12个月动量因子的空头端仍有大量配置，但在3个月动量因子的多头端权重已与之相当。AI赢家与动量因子在六七月份的高度相关性，意味着共识仓位的出清可能比预期更为漫长，总敞口压缩或将随之而来。&lt;/p&gt;
+&lt;p&gt;总结来看，Wilson认为，综合八月的全部事件，方向是一致的：&lt;strong&gt;政府将托底名义增长，AI资本开支不会暂停，&amp;quot;有用性&amp;quot;阶段已不再是科幻。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;市场并非在为一个故事定价，而是在为两个故事定价，而这两个故事并不存在于同一条行情带上。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;超大规模云计算企业创纪录的投资级债券发行、5000亿美元的GPU残值背书、软件二十年最佳单日表现——与此同时，标普500剔除AI后下跌，市场广度为本世纪最差之列，AI赢家配对组合遭到重创。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wilson认为，&lt;strong&gt;这不是一个干净的牛市。这是一个市场已经确信国家不会让长端或名义增长失守，但正在逐个争论谁能真正从中获益的市场。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 杰克逊霍尔大会结束了，除了沃什“放鹰”，还有这些要点</title><link>https://wallstreetcn.com/articles/3780642</link><guid>1f4d5d1e1234374de9bc986bd5c99558d7f3061c480e8377f7a4ba6bfadd5d39</guid><pubDate>Sun, 30 Aug 2026 00:56:16 GMT</pubDate><description>&lt;p&gt;美联储年度杰克逊霍尔经济研讨会落幕，除了联储主席沃什（Kevin Warsh）首秀放鹰之外，多位全球央行官员也释放了关键信号，且政治风波亦未平息。&lt;/p&gt;
 &lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3780593"&gt;华尔街见闻文章&lt;/a&gt;写道，沃什在主旨演讲中明确将抑制通胀列为美联储首要任务，并警告通胀尚未出现实质性放缓，若无法确认通胀正以足够速度向目标靠拢，美联储&amp;quot;还有工作要做&amp;quot;。这一表态立即推高市场对近期加息的预期，市场目光迅速转向&lt;strong&gt;9月11日公布的消费者通胀数据，以及随后9月15日至16日的美联储政策会议。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;欧洲央行官员在会议间隙发出通胀警告，倾向于9月加息；英国央行行长贝利（Andrew Bailey）则态度相对温和，暗示不急于行动。&lt;/strong&gt;此外，特朗普政府试图解雇美联储理事库克（Lisa Cook）的政治风波在会议前夕再度升温，为本届大会增添了额外变数。&lt;/p&gt;
 &lt;p&gt;值得注意的是，欧洲央行行长拉加德（Christine Lagarde）与日本央行行长植田和男缺席本次会议，美联储前主席鲍威尔（Jerome Powell）同样未出席。&lt;/p&gt;
@@ -248,27 +298,7 @@ Bastrop：从卫星工厂到涡轮铸造基地
 &lt;p&gt;克鲁格曼认为，货币政策是全球讨论最为充分的政策领域之一，&lt;strong&gt;&amp;quot;这些任务组几乎不可能告诉我们任何我们没有听过数百遍的东西&amp;quot;&lt;/strong&gt;，并直接将其定性为&amp;quot;买时间的举动&amp;quot;。&lt;/p&gt;
 加拿大关税：克鲁格曼警告或重创美国汽车业
 &lt;p&gt;在采访尾声，克鲁格曼就加拿大对美国商品加征关税一事发表看法。他表示，目前关税虽具破坏性，但覆盖范围相对有限；然而一旦局势升级，后果将不容小觑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;如果把特朗普威胁要加征的关税和加拿大威胁的报复措施全部落地，基本上会摧毁美国汽车工业。&amp;quot;&lt;/strong&gt; 克鲁格曼表示，目前局势仍处于&amp;quot;荒诞成分大于实质影响&amp;quot;的阶段，但走向充满不确定性，&amp;quot;谁也不知道这会走多远&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 原油"回来了"，成品油"回不来"，全球炼油缺口正在扩大</title><link>https://wallstreetcn.com/articles/3780647</link><guid>a9cf1b4e782ee2f191eeffb727ac3e0b96df7c8da2e77ea265aeb63242c11f0c</guid><pubDate>Sun, 30 Aug 2026 02:51:23 GMT</pubDate><description>&lt;p&gt;原油正通过暗船与替代航线重新流向市场，但&lt;strong&gt;下游炼油产能的缺口无法靠物流手段填补&lt;/strong&gt;。高盛据此大幅上调2027年柴油利润率预测，锁定柴油溢价&amp;quot;更高更久&amp;quot;的长期格局。&lt;/p&gt;
-&lt;p&gt;高盛在8月29日的报告中将2027年美国柴油对布伦特原油的利润率预期从2月预测的27美元/桶上调至63美元/桶，欧洲从19美元/桶上调至49美元/桶，两者均较此前预测翻倍有余。&lt;/p&gt;
-&lt;p&gt;高盛作出这一调整的直接背景是&lt;strong&gt;全球成品油出口同比下降约600万桶/日（约25%）&lt;/strong&gt;，其中波斯湾贡献320万桶/日、俄罗斯110万桶/日，合计约占全球缺口的四分之三。&lt;/p&gt;
-&lt;p&gt;报告指出，波斯湾原油出口已恢复至战前水平的70%至80%，&lt;strong&gt;成品油出口却仅恢复约40%&lt;/strong&gt;。高盛预计全球炼油厂开工率要到2027年下半年才能恢复正常，柴油的结构性短缺将在更长时间内持续定价。&lt;/p&gt;
-原油&amp;quot;回来&amp;quot;了，成品油&amp;quot;没回来&amp;quot;
-&lt;p&gt;波斯湾原油出口已恢复至战前水平的70%至80%，成品油出口仍停留在约40%。&lt;/p&gt;
-&lt;p&gt;高盛估算波斯湾实际原油出口量约为每日1500万至1600万桶，较3月低点高出500万至600万桶/日，且明显高于实时油轮追踪数据——越来越多油轮关闭AIS应答器、船对船转运增加，伊朗与阿曼正推进霍尔木兹临时航运走廊，海湾产油国也在扩建绕开海峡的替代路线。&lt;/p&gt;
-&lt;p&gt;原油与成品油的走势由此背离：&lt;strong&gt;全球原油出口同比仅下降10%，柴油、航空煤油、燃料油出口则分别下降22%、20%和32%&lt;/strong&gt;。价格端同样分化——&lt;strong&gt;柴油利润率同比上涨225%、航空煤油上涨234%，原油仅34%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛认为，&lt;strong&gt;持续增加的&amp;quot;暗流&amp;quot;供应与尚在推进的替代路线，可能限制原油价格的上行空间，即便中东供应扰动持续。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;全球成品油出口同比下降约600万桶/日（约25%），波斯湾与俄罗斯合计贡献约四分之三的降幅。俄罗斯炼厂遭遇袭击已触发汽油和柴油出口限制，中东炼厂仍处受损状态，霍尔木兹海峡与红海航线亦受扰动。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;高盛认为，&lt;strong&gt;原油可以绕道而行，炼厂却无法搬走——这正是本轮缺口与以往原油供给冲击最大的不同。&lt;/strong&gt;&lt;/p&gt;
-炼油瓶颈锁定长期高利润
-&lt;p&gt;供给端修复尚需时日。全球炼厂停工较季节性正常水平高出约60%，高盛估算全球炼油运行量同比下降近700万桶/日。备用产能稀缺：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美国炼厂已接近满负荷运行，亚洲炼厂面临原油供应约束，新增产能不足以抵消持续的停工。六个月的供给不足已开始冲击库存，美国柴油与汽油库存同比分别下降9%和7%。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;自2月以来，柴油贡献了全球成品油价格每桶40美元涨幅中的40%以上，迫使高盛大幅上调预测。&lt;strong&gt;高盛预计全球炼厂开工率要到2027年下半年才能恢复季节性正常水平，新增产能也不足以弥补缺口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，报告称，波斯湾至中国的2027年5月期租运费合约一个月内上涨约5倍，显示航运市场并未定价快速恢复正常。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选之后，“特朗普交易”要反噬了？</title><link>https://wallstreetcn.com/articles/3780643</link><guid>d931518ac3d3d66f9101cade3ae30c4c1fb3f9368a5415feccb1322e79187f5f</guid><pubDate>Sun, 30 Aug 2026 01:27:00 GMT</pubDate><description>&lt;p&gt;过去一年，跟随特朗普政府入股上市公司的投资者赚得盆满钵满。但随着中期选举临近、民主党有望夺回国会至少一院，这场由政府背书驱动的股价盛宴正面临多重风险——&lt;strong&gt;诉讼、国会听证、政治反弹，任何一项都可能逆转相关股票的涨势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;如果把特朗普威胁要加征的关税和加拿大威胁的报复措施全部落地，基本上会摧毁美国汽车工业。&amp;quot;&lt;/strong&gt; 克鲁格曼表示，目前局势仍处于&amp;quot;荒诞成分大于实质影响&amp;quot;的阶段，但走向充满不确定性，&amp;quot;谁也不知道这会走多远&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选之后，“特朗普交易”要反噬了？</title><link>https://wallstreetcn.com/articles/3780643</link><guid>d931518ac3d3d66f9101cade3ae30c4c1fb3f9368a5415feccb1322e79187f5f</guid><pubDate>Sun, 30 Aug 2026 01:27:00 GMT</pubDate><description>&lt;p&gt;过去一年，跟随特朗普政府入股上市公司的投资者赚得盆满钵满。但随着中期选举临近、民主党有望夺回国会至少一院，这场由政府背书驱动的股价盛宴正面临多重风险——&lt;strong&gt;诉讼、国会听证、政治反弹，任何一项都可能逆转相关股票的涨势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;8月29日，据彭博社报道，民调显示民主党胜算上升，市场策略师警告，一旦民主党控制参议院或众议院，针对政府持股企业的国会调查将接踵而至，企业品牌与股价均面临冲击。与此同时，一场股东诉讼正在法院挑战政府入股英特尔的合法性——&lt;strong&gt;若法院裁定《芯片法案》不赋予商务部以股权换补贴的权力，整个政府持股组合的法律基础将受到动摇&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;市场策略师指出，这些股票的涨幅大多来自消息公布后的短暂爆发，随后便大幅回落，说明政府背书带来的股价动能本身就相当脆弱。研究机构Veda Partners联合创始人Henrietta Treyz直言，&lt;strong&gt;民主党主导的委员会传唤企业高管和政府官员出席听证，&amp;quot;是投资者眼下最需要关注的风险之一&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 政府入股潮：涨幅惊人，但多为昙花一现
@@ -304,7 +334,27 @@ Bastrop：从卫星工厂到涡轮铸造基地
 &lt;/blockquote&gt;
 &lt;p&gt;BCA Research地缘政治与美国政治分析主管Matt Gertken则将当前局面定性为一个尚未在美国体制内充分检验和消化的&amp;quot;干预主义路径&amp;quot;。&amp;quot;这个过程会有起伏，&amp;quot;他说。&lt;/p&gt;
 &lt;p&gt;从更宏观的视角看，特朗普政府的策略颠覆了政府介入私营企业的传统逻辑——过去是救助，现在是扶持。&lt;/p&gt;
-&lt;p&gt;这一转变在短期内制造了可观的股价涨幅，但也埋下了政治、法律与市场三重风险叠加的隐患。分析认为，随着中期选举倒计时，投资者正在重新评估：&lt;strong&gt;这场由政府背书驱动的交易，究竟还能走多远。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 强制“5天模拟交易”！为了“降温”杠杆ETF，韩国“花样百出”</title><link>https://wallstreetcn.com/articles/3780644</link><guid>7fde6118227072c085228f20021bc2cf1d8f6bb45e5278e2adac4ec58291afa4</guid><pubDate>Sun, 30 Aug 2026 01:42:13 GMT</pubDate><description>&lt;p&gt;韩国监管层正通过一系列繁琐的准入门槛，压制曾令市场剧烈震荡的杠杆ETF热潮。强制模拟交易要求成为压垮散户参与意愿的&amp;quot;最后一根稻草&amp;quot;，相关产品交易额已从峰值骤降逾九成。&lt;/p&gt;
+&lt;p&gt;这一转变在短期内制造了可观的股价涨幅，但也埋下了政治、法律与市场三重风险叠加的隐患。分析认为，随着中期选举倒计时，投资者正在重新评估：&lt;strong&gt;这场由政府背书驱动的交易，究竟还能走多远。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 原油"回来了"，成品油"回不来"，全球炼油缺口正在扩大</title><link>https://wallstreetcn.com/articles/3780647</link><guid>a9cf1b4e782ee2f191eeffb727ac3e0b96df7c8da2e77ea265aeb63242c11f0c</guid><pubDate>Sun, 30 Aug 2026 02:51:23 GMT</pubDate><description>&lt;p&gt;原油正通过暗船与替代航线重新流向市场，但&lt;strong&gt;下游炼油产能的缺口无法靠物流手段填补&lt;/strong&gt;。高盛据此大幅上调2027年柴油利润率预测，锁定柴油溢价&amp;quot;更高更久&amp;quot;的长期格局。&lt;/p&gt;
+&lt;p&gt;高盛在8月29日的报告中将2027年美国柴油对布伦特原油的利润率预期从2月预测的27美元/桶上调至63美元/桶，欧洲从19美元/桶上调至49美元/桶，两者均较此前预测翻倍有余。&lt;/p&gt;
+&lt;p&gt;高盛作出这一调整的直接背景是&lt;strong&gt;全球成品油出口同比下降约600万桶/日（约25%）&lt;/strong&gt;，其中波斯湾贡献320万桶/日、俄罗斯110万桶/日，合计约占全球缺口的四分之三。&lt;/p&gt;
+&lt;p&gt;报告指出，波斯湾原油出口已恢复至战前水平的70%至80%，&lt;strong&gt;成品油出口却仅恢复约40%&lt;/strong&gt;。高盛预计全球炼油厂开工率要到2027年下半年才能恢复正常，柴油的结构性短缺将在更长时间内持续定价。&lt;/p&gt;
+原油&amp;quot;回来&amp;quot;了，成品油&amp;quot;没回来&amp;quot;
+&lt;p&gt;波斯湾原油出口已恢复至战前水平的70%至80%，成品油出口仍停留在约40%。&lt;/p&gt;
+&lt;p&gt;高盛估算波斯湾实际原油出口量约为每日1500万至1600万桶，较3月低点高出500万至600万桶/日，且明显高于实时油轮追踪数据——越来越多油轮关闭AIS应答器、船对船转运增加，伊朗与阿曼正推进霍尔木兹临时航运走廊，海湾产油国也在扩建绕开海峡的替代路线。&lt;/p&gt;
+&lt;p&gt;原油与成品油的走势由此背离：&lt;strong&gt;全球原油出口同比仅下降10%，柴油、航空煤油、燃料油出口则分别下降22%、20%和32%&lt;/strong&gt;。价格端同样分化——&lt;strong&gt;柴油利润率同比上涨225%、航空煤油上涨234%，原油仅34%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛认为，&lt;strong&gt;持续增加的&amp;quot;暗流&amp;quot;供应与尚在推进的替代路线，可能限制原油价格的上行空间，即便中东供应扰动持续。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;全球成品油出口同比下降约600万桶/日（约25%），波斯湾与俄罗斯合计贡献约四分之三的降幅。俄罗斯炼厂遭遇袭击已触发汽油和柴油出口限制，中东炼厂仍处受损状态，霍尔木兹海峡与红海航线亦受扰动。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;高盛认为，&lt;strong&gt;原油可以绕道而行，炼厂却无法搬走——这正是本轮缺口与以往原油供给冲击最大的不同。&lt;/strong&gt;&lt;/p&gt;
+炼油瓶颈锁定长期高利润
+&lt;p&gt;供给端修复尚需时日。全球炼厂停工较季节性正常水平高出约60%，高盛估算全球炼油运行量同比下降近700万桶/日。备用产能稀缺：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美国炼厂已接近满负荷运行，亚洲炼厂面临原油供应约束，新增产能不足以抵消持续的停工。六个月的供给不足已开始冲击库存，美国柴油与汽油库存同比分别下降9%和7%。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自2月以来，柴油贡献了全球成品油价格每桶40美元涨幅中的40%以上，迫使高盛大幅上调预测。&lt;strong&gt;高盛预计全球炼厂开工率要到2027年下半年才能恢复季节性正常水平，新增产能也不足以弥补缺口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，报告称，波斯湾至中国的2027年5月期租运费合约一个月内上涨约5倍，显示航运市场并未定价快速恢复正常。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 强制“5天模拟交易”！为了“降温”杠杆ETF，韩国“花样百出”</title><link>https://wallstreetcn.com/articles/3780644</link><guid>7fde6118227072c085228f20021bc2cf1d8f6bb45e5278e2adac4ec58291afa4</guid><pubDate>Sun, 30 Aug 2026 01:42:13 GMT</pubDate><description>&lt;p&gt;韩国监管层正通过一系列繁琐的准入门槛，压制曾令市场剧烈震荡的杠杆ETF热潮。强制模拟交易要求成为压垮散户参与意愿的&amp;quot;最后一根稻草&amp;quot;，相关产品交易额已从峰值骤降逾九成。&lt;/p&gt;
 &lt;p&gt;据彭博8月29日报道，&lt;strong&gt;与三星电子和SK海力士挂钩的单股杠杆ETF，8月合并交易额已跌至6月峰值的4%，并将录得上市以来首次月度资金净流出。&lt;/strong&gt; 截至8月27日，相关ETF合并资产管理规模已从6月底峰值的114亿美元缩水至50亿美元，&lt;strong&gt;8月单月净流出规模约达10亿美元&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;监管收紧的最新举措是自8月19日起生效的强制模拟交易规定&lt;/strong&gt;——投资者须在仅支持Windows系统的PC端下载专用程序，每天至少完成一小时的虚拟交易练习，连续坚持五天方可获得交易资格。多名韩国散户投资者表示，这一门槛&amp;quot;太麻烦了&amp;quot;，直接打消了他们的参与念头。彭博智库分析师Rebecca Sin表示，&amp;quot;随着监管层持续收紧规则，资金外流短期内或将延续。韩国当局已从支持这类产品转向主动抑制。&amp;quot;&lt;/p&gt;
 &lt;p&gt;值得关注的是，监管降温已初见成效。韩国综合股价指数（Kospi）波动率指标已从6月底峰值97回落至约50的四个月低位，市场稳定性明显改善。&lt;/p&gt;
