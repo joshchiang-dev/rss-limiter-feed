@@ -1,16 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 31 Aug 2026 03:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指齐跌，AI应用爆发，房地产一度拉升，有色金属下挫，恒科指跌超1%，科网股普跌</title><link>https://wallstreetcn.com/articles/3780681</link><guid>da984198cd25d1bd68df9421596c893ebdaa83847eb6bbb140fd515a0cdf0cc2</guid><pubDate>Mon, 31 Aug 2026 03:09:25 GMT</pubDate><description>&lt;p&gt;8月31日，A股全线下跌，早盘低开低走，三大股指盘初进一步下跌，深成指、创业板指跌超1%，AI应用、算力硬件股等逆势活跃，房地产大幅高开后回落，有色金属、光伏、生物医药等板块陷入调整。&lt;/p&gt;
-&lt;p&gt;港股亦低开低走，恒指、恒科指双双下挫，且均跌超1%，权重科网股普遍走低，存储芯片也回落。生物医药跌幅居前，恒生生物科技指数大跌超3%。债市方面，国债期货震荡下跌。商品方面，国内商品期货多数走高。核心市场走势：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 31 Aug 2026 04:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指齐跌，液冷服务器、传媒逆势爆发，房地产高开低走，恒科指跌1%，科网股普跌</title><link>https://wallstreetcn.com/articles/3780681</link><guid>da984198cd25d1bd68df9421596c893ebdaa83847eb6bbb140fd515a0cdf0cc2</guid><pubDate>Mon, 31 Aug 2026 04:04:59 GMT</pubDate><description>&lt;p&gt;国内首部全AI制作30集长剧《后西游记》登陆湖南卫视黄金档及芒果TV。消息后，传媒板块暴涨。算力硬件股中，液冷服务器爆发，驱动来自央视财经报道：随万卡智算中心加速落地，AI芯片功耗突破1000W，传统风冷已无法满足散热需求，液冷成为算力部署的&amp;quot;必选项&amp;quot;。&lt;/p&gt;
+&lt;p&gt;8月31日，A股弱势震荡，早盘低开低走，三大股指盘中维持跌势，深成指、创业板指跌超1%，液冷服务器与短剧逆势走强，地产链高开低走，有色金属、光伏、生物医药等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股亦低开低走，恒指、恒科指双双下跌，恒科指跌1%，权重科网股普遍走低，存储芯片也回落。生物医药跌幅居前，恒生生物科技指数大跌超3%。债市方面，国债期货震荡下跌。商品方面，国内商品期货多数走高。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.37%，深成指跌1.20%，创业板指跌1.53%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.20%，深成指跌1.00%，创业板指跌1.29%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.76%，恒科指跌1.29%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.71%，恒科指跌1.03%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约涨0.08%，10年期主力合约跌0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货多数下跌，截至发稿，30年期主力合约涨0.04%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普涨，截至发稿，原油涨超6%，焦煤涨5%，沥青、燃油、碳酸锂涨3%，焦炭涨2%，玻璃、氧化铝、热轧卷板、螺纹钢、锰硅等涨超1%，纸浆、鸡蛋、集运指数、铁矿石、烧碱、豆粕、沪铝等纷纷走高，橡胶、不锈钢、工业硅、沪铜等品种下跌，沪锡、沪镍、铂金、菜籽等跌超1%，沪金、多晶硅、沪银跌超3%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至发稿，能源品涨幅居前，LPG涨7.28%；黑色系多数上涨，焦煤涨6.07%；非金属建材全部上涨，PVC涨6.00%；化工品全部上涨，乙二醇涨5.98%；航运期货全部上涨，集运指数(欧线)涨3.08%；新能源材料多数上涨，碳酸锂涨2.62%；基本金属多数上涨，氧化铝涨1.98%；油脂油料全部上涨，豆一涨1.76%；农副产品多数上涨，苹果涨1.24%；贵金属跌幅居前，白银跌3.97%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;12:03&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大型科网股多数下跌，腾讯、百度、快手跌超1%，小米、阿里巴巴小幅走低，美团、京东飘红；内房股受重磅政策利好刺激早盘大幅高开，但随后快速回落，中国金茂、绿城中国、越秀地产等多股转跌超10%以上；现货黄金失守4400美元，黄金股带领有色金属股齐跌。另外，国有银行次季业绩胜预期，内银股大涨撑市，邮储银行劲升超7%领衔，中国银行刷新历史新高！&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:45&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股跌多涨少，沪深京三市超3000股飘绿，上午半天成交1.32万亿。沪深两市半日成交额1.31万亿，较上个交易日缩量1121亿。板块方面，地产板块高开低走，黄金、光伏、金属、医药板块领跌。中际旭创、宁德时代低迷抑制创业板表现。银行、煤炭、家电等红利板块受青睐，中国银行、陕西煤业创新高。油气、种业股同样活跃。AI阵营中，传媒、液冷服务器分支炒作积极。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;具体来看，液冷服务器概念盘中持续走高，荣亿精密触及30cm涨停，冠龙节能、康盛股份、金富科技、金帝股份涨停，精研科技涨超12%，同飞股份、科创新源涨超10%，艾华集团、捷荣技术等10cm涨停。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;驱动来自央视财经报道：随万卡智算中心加速落地，AI芯片功耗突破1000W，传统风冷已无法满足散热需求，液冷成为算力部署的&amp;quot;必选项&amp;quot;。&lt;/p&gt;
+&lt;p&gt;山东、广东等地液冷产线满产运行，核心设备CDU订单已排至2026年底，部分交付周期展望至2027年，产业景气预期被持续上修。&lt;/p&gt;
+&lt;p&gt;短剧概念震荡走强，芒果超媒、中广天择、欢瑞世纪、上海电影、博纳影业等多股涨停。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，IMAX中国2026年暑期档创下进入中国25年来最强纪录，截至8月29日暑期档票房突破7.23亿元，同比增长39%。同时，首部AIGC长剧《后西游记》于8月31日起上线芒果TV并登陆湖南卫视黄金档，为&amp;quot;广电21条&amp;quot;发布后全国首部&amp;quot;边审边播&amp;quot;剧集，内容供给端的模式创新带动板块情绪。&lt;/p&gt;
+&lt;p&gt;国金证券指出，“过往AI内容主要集中在短视频、漫剧等小屏场景，本次全AI长剧上星播出具备标志性意义。”AI内容已正式进入主流长内容播出体系，但商业化仍处早期，后续口碑与模式复制能力是核心观察变量。&lt;/p&gt;
+&lt;p&gt;房地产板块大幅高开，盘初多股一字涨停，但随后明显回落。截至午盘，仅我爱我家、深物业A封死涨停；特发服务早盘一度封20cm涨停，收盘涨10.26%（开板）；渝开发涨4.32%、世联行涨5.58%、金融街涨3.14%，均较高点大幅回落；香江控股更由涨停跳水转跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;驱动来自8月28日住建部、央行、金融监管总局、证监会等多部门密集落地房地产新政（现房销售制、封顶预售、主办银行制等），但板块呈典型&amp;quot;利好兑现、高开低走&amp;quot;走势，政策暖风难改行业基本面羸弱的现实。&lt;/p&gt;
+&lt;p&gt;黄金概念大幅下挫，盛达资源触及跌停，湖南白银、白银有色跌停，紫金矿业跌超4%、西部矿业跌超2%，招金黄金、湖南黄金、赤峰黄金、西部黄金、中金黄金跌超6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;逻辑在于北京时间8月28日晚美联储主席沃什在Jackson Hole全球央行年会发表鹰派演讲，重申以PCE衡量的2%通胀目标，美元大涨、黄金大跌。&lt;/p&gt;
+&lt;p&gt;CRO概念延续调整，百花医药跌停，誉衡药业触及跌停；光伏设备震荡走低，中信博跌超10%，阳光电源跌超7%，德业股份跌超6%，受海外大电力系统设备供应政策扰动拖累。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10:48&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A股“股王”联讯仪器股价大涨5%，重回2400元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -99,35 +123,7 @@ AI短剧漫剧赛道高速扩张，商业化数据已有支撑
 &lt;p&gt;尽管市场情绪高涨，国金证券对AI长内容的商业化前景保持审慎。&lt;/p&gt;
 &lt;p&gt;该团队明确指出，“AI长内容依旧面临叙事打磨、用户接受度、工业化管线成熟度等现实挑战。”&lt;/p&gt;
 &lt;p&gt;《后西游记》能否真正跑通，取决于两个核心变量：一是播出后的口碑与用户反馈数据；二是这套生产模式能否被行业快速复制。国金证券表示，“若播出、口碑数据表现亮眼，有望加速行业复制AI长剧生产范式，打开平台降本增效空间。”&lt;/p&gt;
-&lt;p&gt;该团队同时列出主要风险：AI内容用户接受度不及预期、行业竞争加剧、监管政策变动、内容口碑不及预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Salesforce为例，AI改变软件“定价模式”</title><link>https://wallstreetcn.com/articles/3780678</link><guid>7da826c37d8220dcdeac06087d9ce84e656f6994afbe83a767ae7021d39ed7e4</guid><pubDate>Mon, 31 Aug 2026 01:08:17 GMT</pubDate><description>&lt;p&gt;人工智能正在颠覆软件行业沿用逾二十年的订阅收费逻辑。以Salesforce为代表的企业软件巨头，正被迫从按用户数收取固定订阅费的模式，转向按使用量乃至按实际业务成果收费——这一转变既是机遇，也充满变数。&lt;/p&gt;
-&lt;p&gt;据科技媒体The Information 8月30日报道，Salesforce首席执行官Marc Benioff上周在投资者电话会议上表示，公司正允许企业客户自主选择其AI产品Agentforce的付费方式，包括签订定制化合同，按AI帮助销售人员促成更多交易所带来的收入增长，或通过自动化客服所节省的成本来计费。&lt;/p&gt;
-&lt;p&gt;&amp;quot;客户希望以不同方式购买和定价，这是我最近深刻认识到的，&amp;quot;Benioff说。这番表态折射出AI时代软件定价模式的深层不确定性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一转变已在行业内引发连锁反应。&lt;/strong&gt;据报道，知情人士透露，&lt;strong&gt;OpenAI&lt;/strong&gt;近几个月已开始向部分大客户提供仅在AI完成任务后才付费的选项；&lt;strong&gt;客户管理初创公司Sierra和Fin&lt;/strong&gt;（Salesforce正以36亿美元收购后者）同样采用任务完成后才收费的模式；&lt;strong&gt;编程助手Cognition&lt;/strong&gt;则承诺，若未能为企业客户交付至少等值于付费金额的工程成果，将提供最高1000万美元的抵扣额度。&lt;/p&gt;
-&lt;p&gt;Salesforce股价自上周财报发布后已累计上涨约23%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-订阅模式走向终结
-&lt;p&gt;Salesforce此番转型，标志着其亲手缔造的软件即服务（SaaS）商业模式正面临根本性挑战。&lt;/p&gt;
-&lt;p&gt;二十五年前，正是Salesforce引领了软件行业从一次性买断授权向按员工数量收取订阅费的历史性转变。这一模式降低了中小企业的前期成本，并将软件升级维护的负担转移至供应商一侧，由此开启了SaaS行业长达二十年的繁荣周期。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;AI的崛起正在将这一逻辑倒置。&lt;/strong&gt;随着企业越来越多地使用Anthropic的Claude等先进AI智能体处理涉及Salesforce等应用的复杂任务，员工与这些应用直接交互的频率下降，按用户席位收费的订阅模式随之失去根基。&lt;/p&gt;
-&lt;p&gt;Benioff坦承，软件定价正处于一个充满不确定性的时期，而Salesforce正在跟随初创公司的步伐，而非引领变革。&lt;/p&gt;
-向&amp;quot;成果定价&amp;quot;靠拢
-&lt;p&gt;Salesforce目前正在探索的新模式，与数据分析软件公司Palantir长期以来的做法高度相似。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Palantir与企业客户签订高度定制化合同，将固定费用与基于使用量及业务成果的收费相结合。&lt;/strong&gt;Benioff表示，这种灵活定价方式已帮助Salesforce&amp;quot;签下了非常大额的交易&amp;quot;，并指出供应商在这一模式下可以为产品&amp;quot;获得极高的定价&amp;quot;——Palantir过去一年收入的大幅增长印证了这一判断。&lt;/p&gt;
-&lt;p&gt;Benioff进一步阐释了其对&amp;quot;成果定价&amp;quot;的理解层次：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们不只是想说&amp;#x27;完成了这么多通电话，所以收2美元&amp;#x27;，我们希望能够说&amp;#x27;我们帮你提升了这么多收入，所以收2美元，因为我们帮你赚了20美元或40美元&amp;#x27;。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这意味着Salesforce的目标是将自身收益与客户业务成果深度绑定，而非仅停留于任务完成层面的计量收费。&lt;/p&gt;
-Claudeforce：新战场上的新布局
-&lt;p&gt;面对Anthropic等AI原生竞争者的压力，Salesforce上周推出了Claudeforce——一项允许客户直接使用Claude完成大量涉及Salesforce应用的任务、而无需直接操作这些应用的服务。&lt;/p&gt;
-&lt;p&gt;据报道，知情人士透露，Salesforce计划通过Claudeforce构建一套收益机制：&lt;strong&gt;每当第三方AI调用Salesforce应用内的数据时，Salesforce均可从中获益；客户需升级至更高订阅层级方可启用该功能。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一布局的战略意图在于，即便用户不再直接使用Salesforce界面，公司仍能在AI生态中保持数据层面的核心地位，将潜在的用户流失风险转化为新的变现入口。&lt;/p&gt;
-归因之争：新模式的潜在隐患
-&lt;p&gt;报道称，成果定价模式在理论上具有吸引力，但在&lt;strong&gt;实际执行层面可能引发复杂的归因争议。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;支付服务商Stripe已就此发布指引，明确指出销售转化或其他业务成果&amp;quot;可能源于产品调整、营销活动或季节性因素&amp;quot;，而非软件本身的贡献。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;除非归因规则明确，否则客户可能会就成果是否应归功于软件供应商产生争议&lt;/strong&gt;，&amp;quot;Stripe表示。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一隐患并非没有先例。&lt;/strong&gt;软件监控公司Splunk在从授权模式向订阅模式转型期间，曾经历收入的阶段性下滑。分析认为，当前这场定价模式的实验，&lt;strong&gt;其结果将在很大程度上决定Salesforce等老牌企业软件公司能否在AI浪潮的冲击下完成自我重塑。&lt;/strong&gt;&lt;/p&gt;
-延展一下图片 调高清晰度&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国8月制造业PMI回升至49.8，高技术制造业持续扩张，非制造业PMI持稳于49</title><link>https://wallstreetcn.com/articles/3780682</link><guid>16e6e812f74c6e8076d8cce4f735e44a5ecb1ea08b0e2bf43bbe475578396276</guid><pubDate>Mon, 31 Aug 2026 01:44:54 GMT</pubDate><description>&lt;p&gt;中国制造业景气度在8月出现明显改善，但整体经济活动仍维持在荣枯线以下。&lt;/p&gt;
+&lt;p&gt;该团队同时列出主要风险：AI内容用户接受度不及预期、行业竞争加剧、监管政策变动、内容口碑不及预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国8月制造业PMI回升至49.8，高技术制造业持续扩张，非制造业PMI持稳于49</title><link>https://wallstreetcn.com/articles/3780682</link><guid>16e6e812f74c6e8076d8cce4f735e44a5ecb1ea08b0e2bf43bbe475578396276</guid><pubDate>Mon, 31 Aug 2026 01:44:54 GMT</pubDate><description>&lt;p&gt;中国制造业景气度在8月出现明显改善，但整体经济活动仍维持在荣枯线以下。&lt;/p&gt;
 &lt;p&gt;国家统计局8月31日公布的数据显示，8月制造业采购经理指数（PMI）升至49.8%，较上月上升0.6个百分点，为近期景气水平的明显回暖。&lt;/p&gt;
 &lt;p&gt;值得关注的是，制造业生产指数和新订单指数双双重返扩张区间，价格指数亦明显反弹，出厂价格指数时隔数月重返荣枯线以上。国家统计局服务业调查中心首席统计师霍丽慧表示，8月制造业行业景气度明显改善，在调查的21个行业中有16个行业PMI较上月上升。&lt;/p&gt;
 &lt;p&gt;从行业维度看，&lt;strong&gt;电气机械器材、计算机通信电子设备等行业的生产指数与新订单指数均高于53.0%，产需保持较快释放&lt;/strong&gt;。新动能行业表现持续强劲。&lt;strong&gt;装备制造业和高技术制造业PMI分别为51.4%和52.9%，继续位于扩张区间。&lt;/strong&gt;&lt;/p&gt;
@@ -165,7 +161,26 @@ Claudeforce：新战场上的新布局
 &lt;p&gt;&lt;/p&gt;
 综合PMI产出指数有所回升
 &lt;p&gt;8月份，综合PMI产出指数为49.5%，比上月上升0.2个百分点，我国企业生产经营景气水平总体有所回升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 光向芯片靠拢：NPO与CPO重塑AI算力互联格局，产业链价值加速重分配</title><link>https://wallstreetcn.com/articles/3780683</link><guid>0f5209ab6583be8344c4a21a98c99797e38c35aa8db280228f39d4fcb69c2180</guid><pubDate>Mon, 31 Aug 2026 02:30:41 GMT</pubDate><description>&lt;p&gt;AI推理需求的爆发式增长，正在把数据中心互联推向一个新的临界点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 极端高温重创欧洲经济：死亡人数超3.5万，葡萄歉收、工厂减产，GDP增速或被拖累0.2个百分点</title><link>https://wallstreetcn.com/articles/3780693</link><guid>bb1c12c76784a5c295cedf2f94461961d09559607da571eacf8aa31666729ecd</guid><pubDate>Mon, 31 Aug 2026 03:56:56 GMT</pubDate><description>&lt;p&gt;2026年夏季，一场史无前例的极端高温席卷欧洲，正在以可量化的方式重塑这片大陆的经济版图。&lt;/p&gt;
+&lt;p&gt;据《华尔街日报》最新报道，牛津经济研究院经济学家Tomas Dvorak估算，此轮创纪录高温将推高欧元区食品通胀1至2个百分点，并拖累第三季度GDP增速约0.2个百分点。在欧洲经济本已增长乏力的背景下，&amp;quot;这可能足以令经济陷入停滞&amp;quot;。与此同时，荷兰可持续发展银行Triodos发布分析报告称，&lt;strong&gt;此次热浪与干旱或将使欧盟全年GDP损失约1%，折合约1800亿欧元（约合2080亿美元）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据《卫报》报道，截至8月25日，&lt;strong&gt;欧洲今夏连续四轮创纪录热浪已造成至少3.5万人超额死亡，&lt;/strong&gt;且这一数字仅覆盖欧洲大陆约一半地区，8月数据尚未完整纳入，实际死亡人数预计将大幅高于现有统计。&lt;/p&gt;
+&lt;p&gt;农业层面，欧盟委员会联合研究中心（JRC）8月24日发布的最新农业监测报告显示，持续高温与极端水分亏缺已严重损害西欧及中欧大部分地区的夏季作物前景，部分重灾区面临绝收风险。&lt;/p&gt;
+死亡人数触目惊心，德法西班牙首当其冲
+&lt;p&gt;据《卫报》报道，德国、法国、西班牙三国超额死亡人数合计已超过2.5万。其中德国情况最为严峻——德国罗伯特·科赫研究所（RKI）数据显示，4月6日至8月9日期间，德国估计有约1.4万人死于高温 相关原因，仅6月22日至28日一周，死亡人数即达9600人，创下德国有记录以来最高单周热浪死亡纪录。&lt;/p&gt;
+&lt;p&gt;西班牙卡洛斯三世健康研究所的监测数据显示，5月至今已有4947人死亡可归因于高温，使2026年成为西班牙有记录以来热浪致死最严重的年份，超过2022年的4520人。法国方面，其国家卫生机构公布的初步数据显示，5月下旬至7月22日期间&amp;quot;全因&amp;quot;超额死亡人数为7300人，8月数据尚未纳入。&lt;/p&gt;
+&lt;p&gt;世界卫生组织今年5月曾指出，过去20年间欧洲地区热浪相关死亡率已上升逾30%，并预计随着气候危机加剧和人口老龄化，这一数字将持续攀升。&lt;/p&gt;
+农业全线告急，糖产量跌至38年最低
+&lt;p&gt;法国糖业巨头Tereos预计，&lt;strong&gt;今夏极端高温与干旱将导致其法国种植户的甜菜产量较去年下降逾20%，较过去五个季度平均水平低约15%。&lt;/strong&gt;Tereos表示，将把旗下八家法国工厂的糖生产周期从去年的130天缩短至平均100天，并推迟开工时间，以期让甜菜作物争取更多生长时间。Tereos商务总监Pierre-Henri Dietz表示，目前已出现销售价格上涨的初步迹象，有望推动行业恢复更均衡的盈利水平。&lt;/p&gt;
+&lt;p&gt;欧盟委员会联合研究中心8月24日发布的最新MARS农业监测公报显示，法国、德国南部、意大利北部和中部、奥地利、捷克、斯洛伐克、匈牙利及罗马尼亚西部均遭受严重冲击，高温叠加降水不足严重影响夏季作物的开花和产量形成，导致育性下降、生物量积累受阻、灌浆不良及提前枯熟。&lt;strong&gt;公报指出，欧盟所有夏季作物的产量预测均大幅下调，较五年平均水平最多偏低14%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在法国波尔多，拥有700年历史的Château Carbonnieux酒庄联合所有人Philibert Perrin表示，今年6月气温一度飙升至华氏108度（约42摄氏度），他不得不破天荒地动用拖拉机和水管为葡萄藤灌溉，每日成本约1500欧元。&lt;strong&gt;即便如此，他估计今年白葡萄产量将减少三分之一，红葡萄产量将减少一半。&lt;/strong&gt;&lt;/p&gt;
+干旱蔓延，河运受阻冲击工业供应链
+&lt;p&gt;据美联社报道，荷兰泽兰省农民Maarten Janse的农场正在持续干涸，荷兰大部分地区的农民已被禁止从溪流和排水渠取水灌溉。另一位农民Hendrik Jan ten Cate种植的土豆提前一个月成熟，但产量大幅缩水，且个头偏小，难以满足薯条加工商的规格要求。&lt;/p&gt;
+&lt;p&gt;此轮高温对整体经济增长的最大冲击，可能并非直接来自农业，而是来自莱茵河水位骤降对德国制造业物流的干扰。莱茵河、卢瓦尔河、多瑙河、波河四条欧洲著名河流均在8月创下历史低位，河运受阻对波兰、捷克、斯洛伐克等国的供应商和客户产生连锁影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在罗马尼亚，多瑙河水位创历史新低，导致粮食运输受阻，港口终端严重拥堵。&lt;/strong&gt;粮食咨询公司Agricolumn创始人Cezar Gheorghe表示，农民正处于&amp;quot;恐慌模式&amp;quot;，无处存放即将收获的玉米和葵花籽。在捷克，该国最大啤酒生产商Plzeňský Prazdroj预计因啤酒花减产而蒙受损失，其可持续发展经理Jakub Zaoral警告，若类似情况连续出现三年，&amp;quot;对啤酒花种植者而言可能成为生死存亡的问题&amp;quot;。&lt;/p&gt;
+法国经济承压，山火雪上加霜
+&lt;p&gt;《华尔街日报》援引法国环境部长Monique Barbut的话称，热浪、干旱与山火的叠加冲击预计将使法国损失高达150亿欧元，相当于GDP的0.5%，令本已捉襟见肘的法国公共财政雪上加霜。&lt;/p&gt;
+&lt;p&gt;在法国西南部，一场山火烧毁逾10万英亩土地，迫使22.4万人疏散，约1000万棵松树付之一炬，相当于当地一整年的采伐量。当地森林协会DFCI Aquitaine主席Bruno Lafon表示，该地区松树产业涉及6万个就业岗位和每年100亿欧元的收入，转型难度极大。法国政府已承诺提供1200万欧元即时援助，并可能追加至1亿欧元。&lt;/p&gt;
+&lt;p&gt;牛津经济研究院的Dvorak指出，从更长远来看，气温每在30至35摄氏度区间上升1度，工人生产率将下降3%，这一数据来自德国保险商安联集团的研究。安联估算，若过去十年最热的五年气温在未来五年重演，法国等脆弱经济体到2030年的累计GDP损失可能达到5%至7%，约合2400亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 光向芯片靠拢：NPO与CPO重塑AI算力互联格局，产业链价值加速重分配</title><link>https://wallstreetcn.com/articles/3780683</link><guid>0f5209ab6583be8344c4a21a98c99797e38c35aa8db280228f39d4fcb69c2180</guid><pubDate>Mon, 31 Aug 2026 02:30:41 GMT</pubDate><description>&lt;p&gt;AI推理需求的爆发式增长，正在把数据中心互联推向一个新的临界点。&lt;/p&gt;
 &lt;p&gt;8月29日，中泰证券分析师王芳、孙悦文发布研报《光学向芯片靠近：AI 算力互联的演进主线从铜互联、可插拔光模块到NPO与CPO》认为，AI推理Token需求爆炸式增长，Google两年内月处理量从9.7万亿增至超3200万亿，倒逼算力互联从铜缆向近封装光学加速演进。而技术演进主线不是简单地“用光替代铜”，更重要的是&lt;strong&gt;“逐步把光电转换位置从前面板移向ASIC附近，以减少越来越难以补偿的高速电信号传输”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从铜互联、可插拔光模块，到NPO（近封装光学）、CPO（共同封装光学），每一步技术迭代背后，都是同一个驱动力：&lt;strong&gt;高速电信号越来越难传，光学就得越来越靠近芯片。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;产业链价值将从传统可插拔光模块向高功率CW激光器、FAU、高密度连接、先进封装等环节重新分配，但业绩兑现仍需以客户定点和批量交付为依据。&lt;/p&gt;
@@ -241,26 +256,35 @@ CPO：更深的集成，更高的门槛
 机构共识：从分散警示到集体呼吁
 &lt;p&gt;&lt;strong&gt;值得关注的是，此轮商品看涨论述已不再是个别机构的孤立判断，而是正在演变为华尔街的主流叙事。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据报道，巴克莱警告称&amp;quot;下一场商品冲击正在成形&amp;quot;；汇丰发出&amp;quot;缓冲储备正在迅速耗尽&amp;quot;的预警，并指出全球粮食冲击风险正在酝酿；瑞银则明确建议客户为商品上行周期进行仓位布局。与此同时，AI产业链所依赖的关键原材料——如钨——的全球供应已被描述为&amp;quot;接近耗尽&amp;quot;。&lt;/p&gt;
-&lt;p&gt;然而，尽管上述信号持续累积，大多数交易员目前仍对商品市场保持观望，注意力依然集中于科技股。这种认知落差，或许正是LaFemina等人所强调的历史性机会所在——也是潜在风险最终释放时市场反应可能尤为剧烈的原因。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛看好混元Hy4：编码与Agent能力显著提升，“产品+模型闭环”成腾讯AI差异化关键</title><link>https://wallstreetcn.com/articles/3780679</link><guid>0574b3c5ffa9a9c98c110f7b0c589e6e16a0954e2bb7f382cb26b91e6c45b2a9</guid><pubDate>Mon, 31 Aug 2026 01:27:49 GMT</pubDate><description>&lt;p&gt;高盛认为，混元Hy4预览版的发布标志着该模型家族迄今最大幅度的代际能力跃升，并将腾讯独特的&amp;quot;产品+模型闭环&amp;quot;策略视为其在AI Agent时代建立差异化竞争优势的核心路径。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛在8月31日发布的研究报告中指出，混元Hy4预览版的发布时间早于分析师预期，延续了自Hy3预览版以来约两个月一次的发布节奏。在编码能力方面，Hy4预览版在Code Arena WebDev全球排行榜上跃升至第6位，而Hy3仅排名第28位，提升幅度尤为突出。&lt;/p&gt;
-&lt;p&gt;高盛分析师Ronald Keung、Lincoln Kong等人认为，&lt;strong&gt;这一进展将成为腾讯未来12个月股价的重要驱动因素之一，&lt;/strong&gt;并维持12个月基于SOTP方法的目标价港币670元，较当前股价港币455.20元隐含约47.2%的上行空间。&lt;/p&gt;
-&lt;p&gt;尽管资本开支强度上升及AI长期投资将对近期利润增长形成压制——该行预计腾讯2026年三季度及四季度每股盈利同比增速分别仅为4%和0%——但混元模型的持续迭代、WorkBuddy用户指标的强劲表现，以及微信小微的逐步推广，将共同支撑腾讯的中期估值逻辑。&lt;/p&gt;
-参数规模大幅扩张，编码能力实现代际跨越
-&lt;p&gt;混元Hy4预览版在模型规模上实现显著扩张，总参数量从Hy3的2950亿/210亿激活参数，增至7700亿总参数/490亿激活参数，增幅约2.6倍；上下文长度亦从256K tokens扩展至100万tokens。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;腾讯将此次发布定性为混元模型家族有史以来最大幅度的代际能力提升，预训练与后训练均经历了实质性规模扩张。&lt;/strong&gt;在编码能力方面，Hy4预览版在Code Arena WebDev全球排行榜排名第6，较Hy3的第28位大幅跃升，使混元重新跻身开源模型第一梯队。&lt;/p&gt;
-&lt;p&gt;在专业任务覆盖面上，Hy4预览版在软件工程、办公生产力、游戏开发及科学研究等多个领域均实现了有意义的能力提升。腾讯通过与内部专家团队合作，利用专有领域知识构建围绕真实工作流的训练数据，并与WorkBuddy、CodeBuddy等工作区产品协同设计，以获取有机用户反馈用于模型迭代。&lt;/p&gt;
-成本效率维持竞争优势，架构创新支撑推理效率
-&lt;p&gt;尽管模型规模大幅扩张，Hy4预览版在成本效率方面仍保持竞争力，其混合定价约为每100万tokens 0.45美元，在同等规模的开源同类产品中处于较低水平，且性能表现相当甚至更优。&lt;/p&gt;
-&lt;p&gt;在架构层面，腾讯引入多项推理效率创新，包括受DeepSeek和GLM启发的门控DSA注意力机制（Gated DSA Attention）、用于提升长上下文计算效率的IndexCache，以及用于增强层间信息流的iHC（identity Hyper-Connections）。上述架构创新有助于腾讯在持续扩大模型规模的同时，维持对同类开源模型的成本优势。&lt;/p&gt;
-&amp;quot;产品+模型闭环&amp;quot;构筑差异化护城河
-&lt;p&gt;&lt;strong&gt;报告中着重强调腾讯的差异化策略——预览版模型优先通过腾讯自有生态及AI原生应用（WorkBuddy、CodeBuddy）分发，在大规模真实用户场景中收集数据，再将这些数据反哺至后续的预训练和后训练迭代，形成正向数据飞轮。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一闭环方法在生产力和编码工作负载场景中尤具价值，因为真实任务轨迹、用户交互及评估信号，正是AI Agent时代模型差异化的核心驱动力。腾讯云及智慧产业集团管理层近期在媒体采访中亦重申，腾讯AI战略日益聚焦于通过持续投入产品、场景和用户采用来创造长期价值，致力于解决真实世界问题并建立持久差异化。&lt;/p&gt;
-&lt;p&gt;腾讯将于9月1日参加高盛亚洲领袖会议的炉边对话，投资者关注焦点预计将集中于算力资源分配与折旧压力的平衡方式、混元的差异化模型策略、WorkBuddy的规模化路径、微信小微的推广进展，以及游戏和AI驱动广告的前景。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 游艇、私宴、家族信托……小银行正在悄悄拿下“县域富豪”</title><link>https://wallstreetcn.com/articles/3780690</link><guid>63af6834b7f599deb16b4a03e9a83f243619d5ddbafb5b8c8a8efbd4960daa96</guid><pubDate>Mon, 31 Aug 2026 02:58:42 GMT</pubDate><description>&lt;p&gt;长期以来，手握千万资产的私人银行客户，作为国内银行金字塔尖客群，过去总是与国有大行、头部股份制银行深度绑定。&lt;/p&gt;
+&lt;p&gt;然而，尽管上述信号持续累积，大多数交易员目前仍对商品市场保持观望，注意力依然集中于科技股。这种认知落差，或许正是LaFemina等人所强调的历史性机会所在——也是潜在风险最终释放时市场反应可能尤为剧烈的原因。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Salesforce为例，AI改变软件“定价模式”</title><link>https://wallstreetcn.com/articles/3780678</link><guid>7da826c37d8220dcdeac06087d9ce84e656f6994afbe83a767ae7021d39ed7e4</guid><pubDate>Mon, 31 Aug 2026 01:08:17 GMT</pubDate><description>&lt;p&gt;人工智能正在颠覆软件行业沿用逾二十年的订阅收费逻辑。以Salesforce为代表的企业软件巨头，正被迫从按用户数收取固定订阅费的模式，转向按使用量乃至按实际业务成果收费——这一转变既是机遇，也充满变数。&lt;/p&gt;
+&lt;p&gt;据科技媒体The Information 8月30日报道，Salesforce首席执行官Marc Benioff上周在投资者电话会议上表示，公司正允许企业客户自主选择其AI产品Agentforce的付费方式，包括签订定制化合同，按AI帮助销售人员促成更多交易所带来的收入增长，或通过自动化客服所节省的成本来计费。&lt;/p&gt;
+&lt;p&gt;&amp;quot;客户希望以不同方式购买和定价，这是我最近深刻认识到的，&amp;quot;Benioff说。这番表态折射出AI时代软件定价模式的深层不确定性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一转变已在行业内引发连锁反应。&lt;/strong&gt;据报道，知情人士透露，&lt;strong&gt;OpenAI&lt;/strong&gt;近几个月已开始向部分大客户提供仅在AI完成任务后才付费的选项；&lt;strong&gt;客户管理初创公司Sierra和Fin&lt;/strong&gt;（Salesforce正以36亿美元收购后者）同样采用任务完成后才收费的模式；&lt;strong&gt;编程助手Cognition&lt;/strong&gt;则承诺，若未能为企业客户交付至少等值于付费金额的工程成果，将提供最高1000万美元的抵扣额度。&lt;/p&gt;
+&lt;p&gt;Salesforce股价自上周财报发布后已累计上涨约23%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+订阅模式走向终结
+&lt;p&gt;Salesforce此番转型，标志着其亲手缔造的软件即服务（SaaS）商业模式正面临根本性挑战。&lt;/p&gt;
+&lt;p&gt;二十五年前，正是Salesforce引领了软件行业从一次性买断授权向按员工数量收取订阅费的历史性转变。这一模式降低了中小企业的前期成本，并将软件升级维护的负担转移至供应商一侧，由此开启了SaaS行业长达二十年的繁荣周期。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;AI的崛起正在将这一逻辑倒置。&lt;/strong&gt;随着企业越来越多地使用Anthropic的Claude等先进AI智能体处理涉及Salesforce等应用的复杂任务，员工与这些应用直接交互的频率下降，按用户席位收费的订阅模式随之失去根基。&lt;/p&gt;
+&lt;p&gt;Benioff坦承，软件定价正处于一个充满不确定性的时期，而Salesforce正在跟随初创公司的步伐，而非引领变革。&lt;/p&gt;
+向&amp;quot;成果定价&amp;quot;靠拢
+&lt;p&gt;Salesforce目前正在探索的新模式，与数据分析软件公司Palantir长期以来的做法高度相似。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Palantir与企业客户签订高度定制化合同，将固定费用与基于使用量及业务成果的收费相结合。&lt;/strong&gt;Benioff表示，这种灵活定价方式已帮助Salesforce&amp;quot;签下了非常大额的交易&amp;quot;，并指出供应商在这一模式下可以为产品&amp;quot;获得极高的定价&amp;quot;——Palantir过去一年收入的大幅增长印证了这一判断。&lt;/p&gt;
+&lt;p&gt;Benioff进一步阐释了其对&amp;quot;成果定价&amp;quot;的理解层次：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们不只是想说&amp;#x27;完成了这么多通电话，所以收2美元&amp;#x27;，我们希望能够说&amp;#x27;我们帮你提升了这么多收入，所以收2美元，因为我们帮你赚了20美元或40美元&amp;#x27;。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这意味着Salesforce的目标是将自身收益与客户业务成果深度绑定，而非仅停留于任务完成层面的计量收费。&lt;/p&gt;
+Claudeforce：新战场上的新布局
+&lt;p&gt;面对Anthropic等AI原生竞争者的压力，Salesforce上周推出了Claudeforce——一项允许客户直接使用Claude完成大量涉及Salesforce应用的任务、而无需直接操作这些应用的服务。&lt;/p&gt;
+&lt;p&gt;据报道，知情人士透露，Salesforce计划通过Claudeforce构建一套收益机制：&lt;strong&gt;每当第三方AI调用Salesforce应用内的数据时，Salesforce均可从中获益；客户需升级至更高订阅层级方可启用该功能。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一布局的战略意图在于，即便用户不再直接使用Salesforce界面，公司仍能在AI生态中保持数据层面的核心地位，将潜在的用户流失风险转化为新的变现入口。&lt;/p&gt;
+归因之争：新模式的潜在隐患
+&lt;p&gt;报道称，成果定价模式在理论上具有吸引力，但在&lt;strong&gt;实际执行层面可能引发复杂的归因争议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;支付服务商Stripe已就此发布指引，明确指出销售转化或其他业务成果&amp;quot;可能源于产品调整、营销活动或季节性因素&amp;quot;，而非软件本身的贡献。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;除非归因规则明确，否则客户可能会就成果是否应归功于软件供应商产生争议&lt;/strong&gt;，&amp;quot;Stripe表示。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一隐患并非没有先例。&lt;/strong&gt;软件监控公司Splunk在从授权模式向订阅模式转型期间，曾经历收入的阶段性下滑。分析认为，当前这场定价模式的实验，&lt;strong&gt;其结果将在很大程度上决定Salesforce等老牌企业软件公司能否在AI浪潮的冲击下完成自我重塑。&lt;/strong&gt;&lt;/p&gt;
+延展一下图片 调高清晰度&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 游艇、私宴、家族信托……小银行正在悄悄拿下“县域富豪”</title><link>https://wallstreetcn.com/articles/3780690</link><guid>63af6834b7f599deb16b4a03e9a83f243619d5ddbafb5b8c8a8efbd4960daa96</guid><pubDate>Mon, 31 Aug 2026 02:58:42 GMT</pubDate><description>&lt;p&gt;长期以来，手握千万资产的私人银行客户，作为国内银行金字塔尖客群，过去总是与国有大行、头部股份制银行深度绑定。&lt;/p&gt;
 &lt;p&gt;然而，这批“顶级”财富，也开始被下沉市场的金融机构所笼络。&lt;/p&gt;
 &lt;p&gt;2026年7月，陕西咸阳农商银行正式挂牌成立私人银行部，这成为国内农信系统少数的私行部门。当服务农村经济一线、实力最有待提升的农信机构、农商也开始杀入高净值人群的服务市场。这显然预示着一场全新的财富抢夺战，正从沿海发达地区延伸至东北、西北腹地。&lt;/p&gt;
 &lt;p&gt;这些“泥腿子”银行，能提供怎样的特色服务？&lt;/p&gt;
@@ -321,7 +345,26 @@ CPO：更深的集成，更高的门槛
 &lt;p&gt;对于诸多新进入这个领域的农商行而言，未来进一步拓展私行业务仍需跨越几道现实门槛： &lt;/p&gt;
 &lt;p&gt;首先是&lt;strong&gt;“硬实力”&lt;/strong&gt;的补足。包括理财产品、金融服务能力的提升。通常而言，受限于自身能力和监管要求，普通农商行难以大规模开发专属私行产品，高度依赖代销外部机构产品，自主资产配置能力亟待提升。 &lt;/p&gt;
 &lt;p&gt;其次是&lt;strong&gt;“软实力”&lt;/strong&gt;的升级。真正的顶级服务依赖于顶级的财富顾问，良好的客户服务也需要顶级的客户经理。部分农商行的私行业务仍和零售财富团队并线，如何打造专职、高精尖的私行投顾团队也是重要考验。&lt;/p&gt;
-&lt;p&gt;当然对于农商行而言，试水私人银行这条财富新赛道，不应是盲目追求规模扩张的面子工程。唯有扬长避短，将本土化的人情温度与专业化的金融深度相结合，做懂本地企业家的“顶级财富管家”，小银行才能在财富管理的大海中，开辟出属于自己的蓝海.&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 曾经的常胜将军失灵：华尔街动量交易的骤然瓦解</title><link>https://wallstreetcn.com/articles/3780687</link><guid>5ad90efe31716ffd5980e44c9f9cb5f50172f7abcaaf5300d9542d8a466bbbcc</guid><pubDate>Mon, 31 Aug 2026 02:50:14 GMT</pubDate><description>&lt;p&gt;多年来，买入上涨股票、做空下跌股票的&amp;quot;动量交易&amp;quot;屡试不爽。今年上半年，这一策略更是风光无限——投资者蜂拥买入美光科技、英伟达、超微半导体等AI明星股，同时做空那些可能被AI浪潮淘汰的公司。标普500动量指数在第二季度飙升44%，创下有史以来最佳季度表现，过去五年累计涨幅达133%，几乎是大盘的两倍。&lt;/p&gt;
+&lt;p&gt;当然对于农商行而言，试水私人银行这条财富新赛道，不应是盲目追求规模扩张的面子工程。唯有扬长避短，将本土化的人情温度与专业化的金融深度相结合，做懂本地企业家的“顶级财富管家”，小银行才能在财富管理的大海中，开辟出属于自己的蓝海.&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛看好混元Hy4：编码与Agent能力显著提升，“产品+模型闭环”成腾讯AI差异化关键</title><link>https://wallstreetcn.com/articles/3780679</link><guid>0574b3c5ffa9a9c98c110f7b0c589e6e16a0954e2bb7f382cb26b91e6c45b2a9</guid><pubDate>Mon, 31 Aug 2026 01:27:49 GMT</pubDate><description>&lt;p&gt;高盛认为，混元Hy4预览版的发布标志着该模型家族迄今最大幅度的代际能力跃升，并将腾讯独特的&amp;quot;产品+模型闭环&amp;quot;策略视为其在AI Agent时代建立差异化竞争优势的核心路径。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛在8月31日发布的研究报告中指出，混元Hy4预览版的发布时间早于分析师预期，延续了自Hy3预览版以来约两个月一次的发布节奏。在编码能力方面，Hy4预览版在Code Arena WebDev全球排行榜上跃升至第6位，而Hy3仅排名第28位，提升幅度尤为突出。&lt;/p&gt;
+&lt;p&gt;高盛分析师Ronald Keung、Lincoln Kong等人认为，&lt;strong&gt;这一进展将成为腾讯未来12个月股价的重要驱动因素之一，&lt;/strong&gt;并维持12个月基于SOTP方法的目标价港币670元，较当前股价港币455.20元隐含约47.2%的上行空间。&lt;/p&gt;
+&lt;p&gt;尽管资本开支强度上升及AI长期投资将对近期利润增长形成压制——该行预计腾讯2026年三季度及四季度每股盈利同比增速分别仅为4%和0%——但混元模型的持续迭代、WorkBuddy用户指标的强劲表现，以及微信小微的逐步推广，将共同支撑腾讯的中期估值逻辑。&lt;/p&gt;
+参数规模大幅扩张，编码能力实现代际跨越
+&lt;p&gt;混元Hy4预览版在模型规模上实现显著扩张，总参数量从Hy3的2950亿/210亿激活参数，增至7700亿总参数/490亿激活参数，增幅约2.6倍；上下文长度亦从256K tokens扩展至100万tokens。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;腾讯将此次发布定性为混元模型家族有史以来最大幅度的代际能力提升，预训练与后训练均经历了实质性规模扩张。&lt;/strong&gt;在编码能力方面，Hy4预览版在Code Arena WebDev全球排行榜排名第6，较Hy3的第28位大幅跃升，使混元重新跻身开源模型第一梯队。&lt;/p&gt;
+&lt;p&gt;在专业任务覆盖面上，Hy4预览版在软件工程、办公生产力、游戏开发及科学研究等多个领域均实现了有意义的能力提升。腾讯通过与内部专家团队合作，利用专有领域知识构建围绕真实工作流的训练数据，并与WorkBuddy、CodeBuddy等工作区产品协同设计，以获取有机用户反馈用于模型迭代。&lt;/p&gt;
+成本效率维持竞争优势，架构创新支撑推理效率
+&lt;p&gt;尽管模型规模大幅扩张，Hy4预览版在成本效率方面仍保持竞争力，其混合定价约为每100万tokens 0.45美元，在同等规模的开源同类产品中处于较低水平，且性能表现相当甚至更优。&lt;/p&gt;
+&lt;p&gt;在架构层面，腾讯引入多项推理效率创新，包括受DeepSeek和GLM启发的门控DSA注意力机制（Gated DSA Attention）、用于提升长上下文计算效率的IndexCache，以及用于增强层间信息流的iHC（identity Hyper-Connections）。上述架构创新有助于腾讯在持续扩大模型规模的同时，维持对同类开源模型的成本优势。&lt;/p&gt;
+&amp;quot;产品+模型闭环&amp;quot;构筑差异化护城河
+&lt;p&gt;&lt;strong&gt;报告中着重强调腾讯的差异化策略——预览版模型优先通过腾讯自有生态及AI原生应用（WorkBuddy、CodeBuddy）分发，在大规模真实用户场景中收集数据，再将这些数据反哺至后续的预训练和后训练迭代，形成正向数据飞轮。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一闭环方法在生产力和编码工作负载场景中尤具价值，因为真实任务轨迹、用户交互及评估信号，正是AI Agent时代模型差异化的核心驱动力。腾讯云及智慧产业集团管理层近期在媒体采访中亦重申，腾讯AI战略日益聚焦于通过持续投入产品、场景和用户采用来创造长期价值，致力于解决真实世界问题并建立持久差异化。&lt;/p&gt;
+&lt;p&gt;腾讯将于9月1日参加高盛亚洲领袖会议的炉边对话，投资者关注焦点预计将集中于算力资源分配与折旧压力的平衡方式、混元的差异化模型策略、WorkBuddy的规模化路径、微信小微的推广进展，以及游戏和AI驱动广告的前景。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 曾经的常胜将军失灵：华尔街动量交易的骤然瓦解</title><link>https://wallstreetcn.com/articles/3780687</link><guid>5ad90efe31716ffd5980e44c9f9cb5f50172f7abcaaf5300d9542d8a466bbbcc</guid><pubDate>Mon, 31 Aug 2026 02:50:14 GMT</pubDate><description>&lt;p&gt;多年来，买入上涨股票、做空下跌股票的&amp;quot;动量交易&amp;quot;屡试不爽。今年上半年，这一策略更是风光无限——投资者蜂拥买入美光科技、英伟达、超微半导体等AI明星股，同时做空那些可能被AI浪潮淘汰的公司。标普500动量指数在第二季度飙升44%，创下有史以来最佳季度表现，过去五年累计涨幅达133%，几乎是大盘的两倍。&lt;/p&gt;
 &lt;p&gt;然而，华尔街最炙手可热的策略，突然风向骤变。&lt;/p&gt;
 &lt;strong&gt;骤然逆转：25年来最差季度&lt;/strong&gt;
 &lt;p&gt;据《华尔街日报》8月30日报道自7月1日以来，标普500动量指数已累计下跌逾9%，而同期标普500指数上涨2.8%。该指数正面临25年来最大的季度跑输幅度。&lt;/p&gt;
@@ -373,24 +416,4 @@ CPO：更深的集成，更高的门槛
 &lt;p&gt;委内瑞拉本身的石油史即是一部充满警示的历史。&lt;/p&gt;
 &lt;p&gt;该国曾是全球最大原油出口国之一，外资公司一度生产其约94%的石油，由此引发数十年的利益分配争议。1970年代，委内瑞拉将石油工业国有化；2000年代，时任总统查韦斯再度将油田收归国有，并指控美国&amp;quot;统治、剥削和掠夺&amp;quot;。埃克森美孚和康菲石油的资产均在政治动荡中遭到没收，雪佛龙是唯一保留立足点的美国钻探商。&lt;/p&gt;
 &lt;p&gt;据媒体报道，纽约大学历史学副教授Alejandro Velasco将当前局面与20世纪上半叶联合果品公司在中美洲的种植园模式相提并论，后者催生了&amp;quot;香蕉共和国&amp;quot;这一概念，并为危地马拉等国带来数十年的威权统治与内战。&lt;strong&gt;&amp;quot;委内瑞拉人完全处于美国政府及其背后公司的摆布之下，&amp;quot;他说，&amp;quot;委内瑞拉现在是一个附庸国。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;丹佛大学委内瑞拉经济学家Francisco Rodríguez则表示，委内瑞拉&amp;quot;实际上已成为美国的保护国&amp;quot;，这一安排&amp;quot;服务的不是委内瑞拉人的利益，而是美国的经济和安全利益&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头</title><link>https://wallstreetcn.com/articles/3780669</link><guid>f6b6fef34d0cd49412913c8e5221c0290f1ee3d0ba96c8f832db886169438943</guid><pubDate>Mon, 31 Aug 2026 00:11:02 GMT</pubDate><description>&lt;p&gt;美元走强再度将日元推破160关口，市场对干预预期升温之际，美国财政部长贝森特出面定调。&lt;/p&gt;
-&lt;p&gt;日元周一跌至160.11，触发市场对美日再度联合干预的广泛猜测。贝森特周日在接受路透采访时表示，近期日元走势&amp;quot;已相当程度上得到控制&amp;quot;，并非此前触发干预的那种&amp;quot;失序&amp;quot;行情。他同时表示，&lt;strong&gt;预计日本央行行长植田和男将在货币政策上&amp;quot;做正确的事&amp;quot;，并计划在本周G20财长会议期间与其会面。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;贝森特的表态在一定程度上缓和了市场对即时干预的预期，但他同时释放出更深层的政策信号——他明确指出，日本&amp;quot;安倍经济学&amp;quot;时代已走到尽头，日本经济正在向更具市场化特征的新阶段过渡。&lt;/p&gt;
-日元再破160，贝森特称日元走势“已得到控制”
-&lt;p&gt;日元再度跌破市场普遍视为干预警戒线的160关口。此轮贬值的直接导火索，是美联储主席沃什发表鹰派讲话，表态将坚定推进通胀目标，提振美元走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;160这一关口具有重要的市场心理意义。就在上月，美日两国刚刚实施了罕见的联合买入日元干预行动，以阻止日元和日本国债的抛售蔓延至全球市场。此次日元再度逼近并跌破该水平，自然引发市场对当局是否会再度出手的高度关注。&lt;/p&gt;
-&lt;p&gt;不过，分析人士指出，此轮日元走弱的根源在于美元走强及美国利率上行预期，而非日本自身因素，这使得当局在干预决策上可能保持一定观望。&lt;/p&gt;
-&lt;p&gt;面对市场的干预猜测，贝森特在路透专访中明确表态，&lt;strong&gt;当前日元走势&amp;quot;相当程度上已得到控制&amp;quot;，与上月触发联合干预的&amp;quot;失序&amp;quot;局面有所不同。&lt;/strong&gt;这一表态意在向市场传递信号：美日两国目前并不认为当前的日元贬值达到需要立即出手的程度。&lt;/p&gt;
-贝森特：日本央行“将做正确的事”
-&lt;p&gt;贝森特同时透露，他计划在本周一于北卡罗来纳州阿什维尔举行的G20财长和央行行长两天会议期间，与植田和男进行双边会谈。&lt;/p&gt;
-&lt;p&gt;贝森特对植田给予高度评价，称“我认识他15年了，他是一位出色的经济学家，市场对他的敏锐程度估计不足”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;值得注意的是，贝森特此前曾多次公开呼吁日本央行加息以应对通胀和日元贬值，这些表态已推动市场几乎完全定价9月政策会议加息的可能性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在此次G20会议前夕，贝森特还就上月的联合干预行动作出公开辩护。据悉，他回函民主党参议员Elizabeth Warren，解释了美国参与日元干预的理由。&lt;/p&gt;
-&lt;p&gt;贝森特在信中指出，日元若出现失序贬值，可能迫使日本被动抛售美国国债，最终推高美国家庭和企业的借贷成本。这一表述清晰阐明了美国参与干预的利益逻辑——维护日元稳定，本质上也是在维护美国国债市场的稳定。&lt;/p&gt;
-&amp;quot;安倍经济学&amp;quot;终结，&amp;quot;高市经济学&amp;quot;开启新篇
-&lt;p&gt;贝森特在专访中释放的另一重要信号，是对日本经济政策框架的定性判断。他表示，日本已经&amp;quot;征服&amp;quot;了通货紧缩，&amp;quot;安倍经济学&amp;quot;这一以大规模货币刺激、财政扩张和增长改革为核心的再通胀政策框架，已经走到历史终点。&lt;/p&gt;
-&lt;p&gt;&amp;quot;我认为我们大概已经到了安倍经济学的终点，那是一个再通胀计划，&amp;quot;贝森特说。&lt;/p&gt;
-&lt;p&gt;他表示，&lt;strong&gt;日本正在首相高市早苗领导下转向&amp;quot;高市经济学&amp;quot;（Takaichi-nomics）——这一新框架更具股东友好特征，尤其在劳动力领域推进了大幅放松管制，政府干预程度更低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;贝森特对日本财政政策的建议言简意赅：&amp;quot;我认为他们应该坐下来，享受安倍经济学的成果，让它自然运行。&amp;quot;&lt;/p&gt;
-&lt;p&gt;在货币政策方面，贝森特虽拒绝直接指令日本央行激进加息，但措辞中透露出对植田和男的信任与期待：&amp;quot;我不会告诉他们该怎么做，但我确实认为，植田行长将在首相高市早苗的支持下，做出正确的事。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;丹佛大学委内瑞拉经济学家Francisco Rodríguez则表示，委内瑞拉&amp;quot;实际上已成为美国的保护国&amp;quot;，这一安排&amp;quot;服务的不是委内瑞拉人的利益，而是美国的经济和安全利益&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
