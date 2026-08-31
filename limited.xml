@@ -1,5 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 31 Aug 2026 10:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 博通财报在即，摩根大通坚定看好：市场严重低估AI业务增长，谷歌TPU“失宠”担忧过头</title><link>https://wallstreetcn.com/articles/3780714</link><guid>d18734265375e248c5ef6080112aa6ba87315d4429dd786c201dd0c939c76d6b</guid><pubDate>Mon, 31 Aug 2026 07:26:45 GMT</pubDate><description>&lt;p&gt;博通即将发布的季度财报或成为重新定价其AI业务价值的关键节点。摩根大通在最新研究报告中指出，&lt;strong&gt;市场对博通竞争地位的担忧被严重高估，而其AI收入的规模、持续性与增长潜力均被低估。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 31 Aug 2026 11:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 云端商业化提速，智谱上半年营收同比增近400%，开放平台及API收入暴增2736%｜财报见闻</title><link>https://wallstreetcn.com/articles/3780732</link><guid>5bf402953f6a7fc52707ae504ed9a64ba055416d383a683be55dfc6749bea836</guid><pubDate>Mon, 31 Aug 2026 11:00:38 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;北京智谱华章科技股份有限公司8月31日发布上市后首份中期业绩公告。&lt;strong&gt;截至2026年6月30日止六个月，公司实现总收入9.54亿元，同比增长399.7%；同期净亏损收窄至20.7亿元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;收入高速增长的同时，公司业务结构也发生明显变化。报告期内，&lt;strong&gt;开放平台及API业务收入达到8.25亿元，同比增长2735.7%，占总收入的比例由去年同期的15.2%提升至86.5%&lt;/strong&gt;；同期，企业级通用大模型（本地化部署）收入由1.48亿元降至6704万元。&lt;/p&gt;
+&lt;p&gt;换言之，&lt;strong&gt;智谱AI的商业化重心正在从一次性本地化部署，明显转向按调用量计费的云端MaaS业务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一变化也体现在用户和调用量上。截至公告日期，MaaS平台付费日活用户数较年初增长603%，前十大用户日均调用量较年初增长98倍；平台Token调用量较年初增长超过40倍。与此同时，API平均售价较年初提升约101%，显示收入增长并非单纯依赖价格下调换取规模。&lt;/p&gt;
+&lt;p&gt;模型能力仍是公司下一阶段投入的重点。报告期内，智谱AI持续迭代GLM系列模型，并将资源更多投入后训练、强化学习以及长程任务环境建设。&lt;/p&gt;
+&lt;p&gt;公司称，GLM-5.3与GLM-5.2在架构、总参数和激活参数保持一致的情况下，通过扩大后训练规模，端到端编码完成率提升超过50%。此外，&lt;strong&gt;公司正推进下一代基座模型训练，重点方向包括更大的有效规模、更长的原生上下文以及原生多模态统一建模。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+收入结构明显向MaaS倾斜
+&lt;p&gt;本次财报最显著的变化，是收入结构的快速调整。&lt;/p&gt;
+&lt;p&gt;报告期内，开放平台及API收入由去年同期的2910万元增至8.25亿元，同比增长2735.7%。与之相对应的是，企业级通用大模型收入由1.48亿元下降54.6%至6704万元。&lt;/p&gt;
+&lt;p&gt;这一变化意味着，随着模型能力提升，智谱AI的商业化模式正在从本地化部署逐步向云端调用迁移。&lt;strong&gt;公司将这一过程概括为“卖模型→卖调用→卖订阅→卖端到端任务结果”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从运营数据来看，MaaS业务的增长已经开始形成一定规模。截至公告日期，平台付费日活用户数较年初增长603%，前十大用户日均调用量增长98倍，Token调用量增长超过40倍。同时，API平均售价较年初提升约101%，Coding Plan订阅价格也有所上调。&lt;/p&gt;
+&lt;p&gt;企业级智能体业务也保持增长，收入由1374万元增至5556万元，同比增长304.4%，但目前占整体收入的比重仍然较低。&lt;/p&gt;
+云端业务毛利率由负转正
+&lt;p&gt;收入结构变化也对盈利能力产生了明显影响。&lt;/p&gt;
+&lt;p&gt;报告期内，公司整体毛利率由去年同期的50.0%下降至26.4%。&lt;strong&gt;主要原因在于，毛利率相对较高的本地化部署业务占比下降，而处于快速扩张阶段的开放平台及API业务占比大幅提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，从单项业务来看，云端业务的盈利能力正在改善。开放平台及API业务毛利率由去年同期的-0.4%提升至24.6%，实现由负转正。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司表示，Token调用量增长、产品定价提升以及推理成本下降，是毛利率改善的主要因素。&lt;/strong&gt;报告期内，公司单位Token推理成本较年初下降约80%，并通过“All-in-Infra”战略扩大国产芯片在推理算力中的应用。&lt;/p&gt;
+&lt;p&gt;成本端，公司销售成本由9545万元增至7.02亿元，同比增长635.4%，主要受到计算服务费用增加的影响。研发开支则同比增长33.6%至21.31亿元，仍然明显高于当期收入，研发费用率超过200%。&lt;/p&gt;
+&lt;p&gt;与此同时，销售及营销开支同比下降14.8%，一般及行政开支同比下降44.2%，显示公司在收入快速扩张的同时，部分运营费用有所收缩。&lt;/p&gt;
+亏损仍高企，研发投入维持高位
+&lt;p&gt;尽管收入大幅增长，智谱AI目前仍处于亏损阶段。&lt;/p&gt;
+&lt;p&gt;报告期内，&lt;strong&gt;公司净亏损20.72亿元，同比收窄12.1%。剔除股份支付等非现金项目后，经调整净亏损为19.64亿元，较去年同期有所扩大，主要与研发投入增加有关。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从亏损结构来看，公司仍在将大量资金投入模型研发和算力基础设施。上半年研发开支达到21.31亿元，同比增长33.6%，约为同期收入的2.2倍。&lt;/p&gt;
+&lt;p&gt;因此，对于智谱AI而言，&lt;strong&gt;当前业绩的核心变化仍然不是利润端，而是收入规模扩大以及云端业务毛利率改善能否持续。随着MaaS收入占比快速提升，公司未来盈利能力将更多取决于模型调用规模、API定价、推理成本以及研发投入之间的平衡。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告期结束后，公司于7月完成配售，以每股1588港元的价格募资约314亿港元，为后续模型训练、算力基础设施及产品研发提供资金支持。&lt;/p&gt;
+模型迭代从“堆参数”转向强化后训练
+&lt;p&gt;技术层面，智谱AI在报告期内密集迭代GLM系列模型，发布GLM-5、GLM-5.2、GLM-5.3及GLM-5.3-Flash等模型。&lt;/p&gt;
+&lt;p&gt;其中，GLM-5.3与GLM-5.2的对比体现了公司当前的技术路线。公司称，&lt;strong&gt;在保持两款模型架构、总参数量和激活参数量一致的情况下，通过扩大长程任务环境和强化学习规模，GLM-5.3的端到端编码完成率提升超过50%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，在当前模型规模不断扩大的背景下，公司开始更加重视后训练、强化学习以及任务环境建设，希望通过提高模型的实际任务完成能力，而不仅仅是继续增加参数规模来推动性能提升。&lt;/p&gt;
+&lt;p&gt;GLM-5.3-Flash则主要针对推理效率和成本。该模型总参数量为3200亿，激活参数180亿，采用稀疏注意力与线性注意力等架构，并使用30万亿级多模态预训练语料。公司称，其定价约为GLM-5.2的十分之一，同时在多项能力上实现提升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在算力方面，智谱AI进一步推进国产芯片的规模化应用。&lt;/strong&gt;公司表示，GLM-5.3-Flash已在10万级国产芯片规模的集群上提供推理服务，端到端服务性能较初始基线提升3倍。&lt;/p&gt;
+从Coding向Agent和Co-work延伸
+&lt;p&gt;在商业化路径上，Coding是智谱AI目前重点突破的应用场景。&lt;/p&gt;
+&lt;p&gt;公司认为，大模型的商业化空间可以从Chat进一步向Coding、Agent、Co-work以及更高程度的自主化任务执行延伸。其中，Coding既是模型能力的重要验证场景，也是目前较容易形成付费模式的应用之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;智谱AI表示，公司正在通过ZCode等产品，将模型能力从代码辅助进一步延伸至软件开发的完整流程，并尝试让模型承担更长链条、更复杂的工程任务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网络安全则是公司向Agent和Co-work拓展的另一个方向。报告期内，公司在CyberGym基准上取得84.5%的成绩，并在ExploitGym完成130项任务。截至报告期末，公司联合多家安全团队累计发现漏洞2436个，其中中高危漏洞1097个。&lt;/p&gt;
+&lt;p&gt;相比Coding，法律、金融、教育等领域目前仍处于早期阶段，尚未形成规模化收入。随着模型能力进一步提升，这些场景能否从技术验证转化为稳定商业收入，将成为公司后续商业化的重要观察点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 博通财报在即，摩根大通坚定看好：市场严重低估AI业务增长，谷歌TPU“失宠”担忧过头</title><link>https://wallstreetcn.com/articles/3780714</link><guid>d18734265375e248c5ef6080112aa6ba87315d4429dd786c201dd0c939c76d6b</guid><pubDate>Mon, 31 Aug 2026 07:26:45 GMT</pubDate><description>&lt;p&gt;博通即将发布的季度财报或成为重新定价其AI业务价值的关键节点。摩根大通在最新研究报告中指出，&lt;strong&gt;市场对博通竞争地位的担忧被严重高估，而其AI收入的规模、持续性与增长潜力均被低估。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据摩根大通报告，博通FY26全年AI收入将超过560亿美元，FY27 AI收入有望达到1300亿美元以上，&lt;strong&gt;较管理层此前给出的&amp;quot;超过1000亿美元&amp;quot;框架存在显著上行空间&lt;/strong&gt;。摩根大通同时重申对博通的增持评级，并将12月目标价维持在580美元，较当前股价368.79美元隐含约57%的上涨空间。&lt;/p&gt;
 &lt;p&gt;报告指出，博通年初至今股价涨幅仅约7%，大幅落后于费城半导体指数同期约69%的涨幅，主要拖累因素来自市场对谷歌TPU业务潜在份额流失的担忧。摩根大通认为，&lt;strong&gt;这一担忧与实际情况不符，并预计即将发布的F3Q26财报将有力驳斥上述疑虑，推动市场重新评估博通的AI成长逻辑。&lt;/strong&gt;&lt;/p&gt;
 谷歌TPU竞争担忧被夸大，五年协议构筑护城河
@@ -51,7 +89,60 @@ AI热潮与市场财富效应构成中期支撑
 &lt;p&gt;&lt;strong&gt;本周五的月度就业报告是接下来最关键的变量，此前数据显示截至3月的一年美国就业增长较此前报告更为温和。&lt;/strong&gt;沃什表示美国就业&amp;quot;表现良好&amp;quot;，他更担心价格稳定一侧，并称近期通胀数据虽好转但尚未形成有意义的趋势。&lt;/p&gt;
 &lt;p&gt;DWS Americas固定收益主管George Catrambone提醒，市场存在&amp;quot;替美联储干活&amp;quot;的风险，即过度定价加息、而美联储因数据平淡并不兑现；在他看来，近期零售销售与就业等报告并未显示经济重新加速，美债&amp;quot;相当有吸引力&amp;quot;。&lt;/p&gt;
 &lt;p&gt;高盛分析师（包括George Cole）强调跟进的重要性：&amp;quot;如果没有明确利好的通胀消息，跟进将是关键。若9月被视为胜负难分，而美联储再次按兵不动且未给出清晰解释，曲线重演7月FOMC情形的风险将相当大。&amp;quot;Markets Live宏观策略师Edward Harrison则指出，鉴于30年期收益率在沃什鹰派讲话后最初下行，这表明美联储信誉有所增强，最终可能通过压低实际收益率与盈亏平衡通胀率，帮助长久期固收资产。&lt;/p&gt;
-&lt;p&gt;接下来可关注本周五就业报告及后续通胀数据对9月加息定价的进一步修正。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指低开高走收涨0.9%，液冷服务器、传媒双线爆发，港股AI大模型股午后大涨、MINIMAX飙升17%</title><link>https://wallstreetcn.com/articles/3780681</link><guid>da984198cd25d1bd68df9421596c893ebdaa83847eb6bbb140fd515a0cdf0cc2</guid><pubDate>Mon, 31 Aug 2026 09:04:21 GMT</pubDate><description>&lt;p&gt;国内首部全AI制作30集长剧《后西游记》登陆湖南卫视黄金档及芒果TV。消息后，传媒板块暴涨。算力硬件股中，液冷服务器爆发，驱动来自央视财经报道：随万卡智算中心加速落地，AI芯片功耗突破1000W，传统风冷已无法满足散热需求，液冷成为算力部署的&amp;quot;必选项&amp;quot;。&lt;/p&gt;
+&lt;p&gt;接下来可关注本周五就业报告及后续通胀数据对9月加息定价的进一步修正。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Kimi向微软、亚马逊、谷歌要30%分成，开源模型开始“海外收租”了</title><link>https://wallstreetcn.com/articles/3780733</link><guid>ff5d489f6dc97a5484a28540de5394ec4b9a8586ade80caeb0a5eb263aee1282</guid><pubDate>Mon, 31 Aug 2026 11:08:46 GMT</pubDate><description>&lt;p&gt;近日，外媒披露，月之暗面正在与微软、亚马逊和谷歌谈判，希望让Kimi K3进入Azure、AWS和Google Cloud，并从这些平台销售K3相关服务获得的收入中拿走最高30%的分成。如果最终达成，这可能成为中国AI公司与美国大型云厂商之间第一批重要的模型收入分成协议。&lt;/p&gt;
+&lt;p&gt;目前谈判仍处于早期阶段：双方还没有完全谈妥收入按照什么口径分、月之暗面能够获得哪些使用数据，以及云厂商销售出去的Token如何审计。三家云厂商和月之暗面均拒绝对谈判发表评论。&lt;/p&gt;
+&lt;p&gt;与此同时，月之暗面已经与部分规模较小的云平台签署了类似协议，中国IT服务商中软国际此前也公开宣布“与月之暗面围绕 &lt;strong&gt;Kimi大模型产生的Token收益及其他合作衍生收入进行分成”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;过去一年，中国开源模型出海最重要的任务是让海外开发者先用起来：开放权重、降低API价格、进入Hugging Face和OpenRouter、尽可能让更多推理平台上线模型，从而获得海外影响力。&lt;/p&gt;
+&lt;p&gt;但是，模型开源以后，到底怎么从庞大的海外生态里持续挣钱呢？&lt;/p&gt;
+&lt;p&gt;从这条消息来看，月之暗面的尝试是把模型的海外使用量变成一种新的收费权：云厂商可以自己购买GPU、部署Kimi，再向客户出售推理服务，但当这门生意做到足够大以后，开源模型公司也可以从中分钱。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;图片由AI生成&lt;/p&gt;
+&lt;strong&gt;01 &lt;/strong&gt;&lt;strong&gt;已经从中小平台开始试水？&lt;/strong&gt;
+&lt;p&gt;除了三大云厂商的谈判消息之外，月之暗面自己的开发者网站现在已经专门设置了“Access Kimi models anywhere”入口，并明确表示K3可以通过第三方inference partners调用。&lt;/p&gt;
+&lt;p&gt;结合目前各家平台的公开信息，K3已经进入Together AI、Fireworks、DigitalOcean、Modal、Baseten、DeepInfra等一批推理服务商；如果再把其他已经提供K3 API的中小型推理平台计算在内，市场上可以找到的Provider已经达到10家以上。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;图：Kimi 的推理合作伙伴&lt;/p&gt;
+&lt;p&gt;这里有一个很重要、但很容易被忽略的区别：这些公司并不都是API reseller。&lt;/p&gt;
+&lt;p&gt;所谓API reseller，本质上只是渠道商。用户在A平台购买Kimi服务，但A平台自己并不运行Kimi，而是把请求继续转发给月之暗面或者另一个真正运行模型的上游Provider。它赚的是API采购价和零售价之间的差价，模型实际跑在哪里、怎么优化推理，都与它无关。&lt;/p&gt;
+&lt;p&gt;真正的模型托管完全不同。Provider会直接拿到K3的开放权重，把这套2.8万亿参数模型部署到自己的GPU集群上，自己处理模型并行、推理引擎、显存管理、扩缩容和稳定性等问题，最后用自己的API向客户出售Token。此时模型厂商，比如月之暗面不再承担每一次调用的推理成本，云厂商才是真正的算力提供方。&lt;/p&gt;
+&lt;p&gt;目前已经能确认，相当一部分K3 Provider属于后一种。&lt;/p&gt;
+&lt;p&gt;Together AI在7月底宣布与月之暗面建立战略合作，并明确使用自己的美国基础设施“natively serve” Kimi模型。K3之外，未来月之暗面发布的开放权重模型也将继续进入Together的平台。Modal同样表示，他们与Moonshot和vLLM合作完成K3的day-zero支持，并提供共享API和独立部署两种方式。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;图：Together AI × Moonshot 战略合作官宣页面&lt;/p&gt;
+&lt;p&gt;DigitalOcean披露，为了上线K3，它需要自己选择硬件、调整推理栈、完成模型优化，再按照Moonshot的基准进行验证。也就是说，用户通过DigitalOcean调用K3时，背后的GPU和推理基础设施属于DigitalOcean，而不是Moonshot。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;图：DigitalOcean 的 Kimi K3 推理部署架构，接入了DigitalOcean自有推理代理和分布式推理栈，并为K3的动态工具调用单独做了适配。图源：DigitalOcean。&lt;/p&gt;
+&lt;p&gt;目前可以确认的是，月之暗面已经先建立起十家左右乃至更多的第三方推理渠道，其中多家是真正自行承担算力的K3托管商；与此同时，部分中小云平台已经进一步接受了收入分成式商业协议。&lt;/p&gt;
+&lt;strong&gt;02 &lt;/strong&gt;&lt;strong&gt;Kimi已经隐约形成了一套海外渠道体系&lt;/strong&gt;
+&lt;p&gt;从这些合作里，也能看出Kimi正在尝试一种比自己卖API更轻的出海方式。过去模型公司要自己租GPU、建设推理集群，再向开发者出售Token；现在，月之暗面不必自己在全球铺设一整套昂贵的推理网络，就可以借助云厂商现成的算力和企业渠道进入海外市场。&lt;/p&gt;
+&lt;p&gt;真正让这套模式成立的，是Kimi在开放权重之外又加了一道商业门槛。&lt;/p&gt;
+&lt;p&gt;Kimi K3采用月之暗面自定义的Kimi K3 License。协议前半部分沿用了类似MIT的宽松授权方式，允许使用、修改、部署和商业化，但同时增加了针对大型MaaS企业的额外商业条件。如果从事Model as a Service业务的公司及其关联企业连续12个月总收入超过2000万美元，就需要重新与月之暗面签署商业协议。&lt;/p&gt;
+&lt;p&gt;2000万美元只是触发谈判的门槛，并不意味着超过以后自动抽取30%；外媒披露的“最高30%”，是月之暗面目前对大型客户提出的具体商业条件之一。&lt;/p&gt;
+&lt;p&gt;围绕K3的另一处细节也值得注意。目前多家独立推理平台销售K3的价格异常接近：月之暗面官方API约为每百万Token输入3美元、输出15美元，Together和Modal等平台也基本处于同一价格带，DigitalOcean等部分Provider则略低。&lt;/p&gt;
+&lt;p&gt;不同推理公司的GPU采购成本、规模和推理框架并不相同，对于开放权重模型，它们理论上完全可以独立定价。因此，这种价格集中并不是开源模型天然会出现的结果。&lt;/p&gt;
+&lt;p&gt;虽然目前还没有证据证明月之暗面对合作伙伴设置了统一价格，但至少可以看出，K3并不是被各家云厂商完全独立地下载、部署和销售，而是在Moonshot参与技术适配和合作运营的情况下进入这些平台。&lt;/p&gt;
+&lt;p&gt;一个渠道体系已经开始显现：Moonshot负责训练模型、维护模型品牌和与Provider进行技术适配，推理平台负责购买算力、部署模型和寻找客户，最后部分合作伙伴再按照协议与模型厂商分享商业收入。&lt;/p&gt;
+&lt;p&gt;如果AWS、Azure和Google Cloud最终加入，Kimi得到的就不只是三个新增API入口，而是一张从中小型专业推理平台延伸到全球大型企业云市场的分销网络。&lt;/p&gt;
+&lt;strong&gt;03 &lt;/strong&gt;&lt;strong&gt;三大云“好谈”吗？&lt;/strong&gt;
+&lt;p&gt;相比已经快速上线K3的中小推理平台，微软、亚马逊和谷歌目前仍停留在谈判阶段。外媒披露的主要分歧集中在收入分配、数据访问和Token使用量审计三个问题。&lt;/p&gt;
+&lt;p&gt;这些事情到了大型云平台上会复杂很多。Together这样的推理平台主要直接按照Token出售模型服务，K3产生了多少钱相对容易计算。&lt;/p&gt;
+&lt;p&gt;但AWS和Azure面对大型企业时还存在年度合同、企业折扣、预留容量以及多种AI产品的组合销售。如果K3只是一份数千万美元云合同中的一个模型，究竟有多少收入应该计入Kimi，直接决定Moonshot能够拿到多少分成。&lt;/p&gt;
+&lt;p&gt;Token审计也涉及数据边界。Moonshot需要确认云平台实际销售了多少K3服务，才能完成结算；云厂商又需要保护企业客户数据。&lt;/p&gt;
+&lt;p&gt;这些问题解决起来都会比中小云厂商复杂很多。&lt;/p&gt;
+&lt;strong&gt;04 &lt;/strong&gt;&lt;strong&gt;Qwen也在探索相同的模式&lt;/strong&gt;
+&lt;p&gt;月之暗面也已经不是唯一开始重新设计开源商业模式的中国模型公司。据报道，阿里同样在考虑对大型Qwen商业用户采用收入分成机制，而新的Qwen许可证已经开始对大型MaaS和AI Work Assistant业务设置单独商业授权门槛。&lt;/p&gt;
+&lt;p&gt;其中，阿里对AI Work Assistant的定义包括AI Coding和办公生产力类独立产品。&lt;strong&gt;这意味着未来模型公司的收费对象可能不止AWS或者Together这样的云平台，也可能包括大量建立在开放模型之上的Coding工具、办公Agent和其他AI应用。&lt;/strong&gt;MiniMax也采取了类似思路，对达到一定收入规模的商业用户要求重新取得书面授权。&lt;/p&gt;
+&lt;p&gt;但并不是所有中国模型公司都在往“规模收费”方向走。腾讯最新的Hy4 preview和阶跃星辰Step 3.7 Flash均采用标准Apache 2.0协议，没有针对大型MaaS设置额外营收门槛；DeepSeek V4 pro继续采用MIT License，同样没有要求第三方业务做大后重新授权或分享收入。&lt;/p&gt;
+&lt;p&gt;这意味着一家海外云厂商即使自行部署这些模型并靠出售Token形成大规模业务，仅从模型许可证来看，也不需要因为收入增长再向模型公司交一笔钱。&lt;/p&gt;
+&lt;p&gt;智谱最新旗舰GLM-5.3已经从此前部分模型使用的MIT切换到自定义GLM-5.3 License，新增的门槛看起来并不是为了收费：只有经营MaaS业务、且公司及关联方连续12个月总收入超过100亿美元时，才需要在商业使用前通过Z.AI的安全审查。这个极高的门槛实际上主要指向全球超大型云平台，体现的更像是模型治理和安全控制，并不是收入分成。&lt;/p&gt;
+&lt;p&gt;中国开放模型由此开始出现两条不同路线。一种继续把免费和宽松许可本身作为最大的竞争武器，以最低门槛争取部署量和市场份额；也开始尝试“免费扩散、规模收费”，先让模型进入尽可能多的云平台和AI应用，再从已经形成规模商业价值的参与者手中收费。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;05 &lt;/strong&gt;&lt;strong&gt;“模型版税”能不能最终成立？&lt;/strong&gt;
+&lt;p&gt;从收入角度看，这套模式很诱人。假设未来全球第三方云平台一年卖出10亿美元的Kimi服务，如果Moonshot平均拿到20%的收入分成，就意味着2亿美元收入；如果达到30%，则是3亿美元。更重要的是，这部分收入不需要月之暗面独自承担全球推理基础设施的全部投入。&lt;/p&gt;
+&lt;p&gt;但它的限制也同样明显：开放模型的替代速度非常快。今天Kimi性能领先，云厂商可能愿意接受较高的商业许可费用；几个月之后，如果DeepSeek、混元、Qwen或者另一款开放模型达到相近性能，同时推理成本更低、License更宽松，Kimi的议价能力就会下降。&lt;/p&gt;
+&lt;p&gt;因此，30%更像一个模型在强势阶段能够提出的最高报价，而不是已经确立的长期“模型税”。模型公司能不能真正建立类似软件授权或者芯片IP的持续收入，最终还是取决于模型有多难被替代，以及开发者和企业迁移到竞争模型的成本有多高。&lt;/p&gt;
+&lt;p&gt;如果这种收入分成模式最终在三大云成立，中国开源模型出海的商业逻辑会出现一次明显变化。过去模型公司主要靠自己的API卖Token，未来可能把模型直接交给全球云厂商部署，再持续分享这些渠道产生的收入。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/QsHGxtFHu7l7VVg4LwOJ2g"&gt;腾讯科技&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指低开高走收涨0.9%，液冷服务器、传媒双线爆发，港股AI大模型股午后大涨、MINIMAX飙升17%</title><link>https://wallstreetcn.com/articles/3780681</link><guid>da984198cd25d1bd68df9421596c893ebdaa83847eb6bbb140fd515a0cdf0cc2</guid><pubDate>Mon, 31 Aug 2026 09:04:21 GMT</pubDate><description>&lt;p&gt;国内首部全AI制作30集长剧《后西游记》登陆湖南卫视黄金档及芒果TV。消息后，传媒板块暴涨。算力硬件股中，液冷服务器爆发，驱动来自央视财经报道：随万卡智算中心加速落地，AI芯片功耗突破1000W，传统风冷已无法满足散热需求，液冷成为算力部署的&amp;quot;必选项&amp;quot;。&lt;/p&gt;
 &lt;p&gt;8月31日，A股走出&amp;quot;低开高走、午后逆转&amp;quot;的行情。早盘三大指数集体走弱，深成指、创业板指均跌超1%，午后资金大举回流科技成长与金融方向，主要指数全线翻红。午后服务器、银行、煤炭等板块活跃，液冷服务器与短剧大爆发，地产链高开低走，光伏、生物医药等板块陷入调整。另外受美联储主席沃什鹰牌发言影响，金银期货大跌，带动贵金属板块领跌两市。&lt;/p&gt;
 &lt;p&gt;港股全天亦低开高走，午后回暖，恒指、恒科指双双收窄跌幅，恒科指此前跌超1%，权重科网股多数承压。生物医药跌幅居前，恒生生物科技指数大跌超3%。AI大模型股午后爆发，MINIMAX大涨16%，智谱涨近10%。债市方面，国债期货震荡反弹。商品方面，国内商品期货多数走高，贵金属逆势下跌，受累于国际现货黄金、白银的下跌。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -128,7 +219,7 @@ AI热潮与市场财富效应构成中期支撑
 &lt;p&gt;报告期内，公司投资活动产生的现金流量净额为482.72亿元。其中，投资基金及其他金融工具取得非利息收益或处置收到的现金为5273.06亿元，投资基金及其他金融资产支付的现金为4606.30亿元。&lt;/p&gt;
 &lt;p&gt;融资活动方面，上半年公司取得借款收到的现金为666.46亿元，发行债券收到的现金为179.97亿元；偿还借款支付的现金为99.14亿元，偿还债券支付的现金为176.79亿元，分配利润支付的现金为747.07亿元。&lt;/p&gt;
 &lt;p&gt;截至6月末，公司现金及现金等价物余额为1548.57亿元，较上年同期的1506.30亿元增加2.81%。&lt;/p&gt;
-&lt;p&gt;整体来看，&lt;strong&gt;2026年上半年，华为营业收入保持增长，但营业成本及部分期间费用增速高于收入增速；研发投入继续增加，研发费用率进一步提高。&lt;/strong&gt;现金流方面，经营活动现金流量净额由正转负，投资活动现金净流入增加；资产负债表方面，公司总资产保持增长，负债规模较年初有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 白酒行业大环境及对白酒投资的观点（散户乙2026.08.30）</title><link>http://xueqiu.com/6452929041/407318833</link><guid>0a20e6d4aab84ea514014203894c9534331202e78096adae81a5da17cd0ebc61</guid><pubDate>Mon, 31 Aug 2026 10:28:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;半个胡桃&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;聊聊白酒行业的大环境与我对白酒投资的观点（非事实）。&lt;/p&gt;</description></item><item><title>[今日雪球] （周记347）50%止盈一笔丨简聊万华化学、乖宝宠物丨一组对比图片</title><link>http://xueqiu.com/1643044849/407338777</link><guid>4113299ac237d7bb5cbf51b808de6a50ee12b79e89cd61705f6d5771156b13d0</guid><pubDate>Mon, 31 Aug 2026 10:28:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;终身黑白&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;声明：&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什鹰派发言提振加息预期，美股期指下跌，美债收益率小幅走低，中东局势升温油价急涨</title><link>https://wallstreetcn.com/articles/3780702</link><guid>5acce7972b4624a2326dbd635908b42b6464c7555e0dcac1a1cb32ef22bb7e6e</guid><pubDate>Mon, 31 Aug 2026 09:55:01 GMT</pubDate><description>&lt;p&gt;交易员们正在评估美联储主席凯文·沃什在杰克逊霍尔会议上发表的鹰派通胀言论后利率前景，美国国债收益率小幅走低。中东紧张局势急剧恶化则推动油价大涨，令通胀前景更加复杂。&lt;/p&gt;
+&lt;p&gt;整体来看，&lt;strong&gt;2026年上半年，华为营业收入保持增长，但营业成本及部分期间费用增速高于收入增速；研发投入继续增加，研发费用率进一步提高。&lt;/strong&gt;现金流方面，经营活动现金流量净额由正转负，投资活动现金净流入增加；资产负债表方面，公司总资产保持增长，负债规模较年初有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什鹰派发言提振加息预期，美股期指下跌，美债收益率小幅走低，中东局势升温油价急涨</title><link>https://wallstreetcn.com/articles/3780702</link><guid>5acce7972b4624a2326dbd635908b42b6464c7555e0dcac1a1cb32ef22bb7e6e</guid><pubDate>Mon, 31 Aug 2026 09:55:01 GMT</pubDate><description>&lt;p&gt;交易员们正在评估美联储主席凯文·沃什在杰克逊霍尔会议上发表的鹰派通胀言论后利率前景，美国国债收益率小幅走低。中东紧张局势急剧恶化则推动油价大涨，令通胀前景更加复杂。&lt;/p&gt;
 &lt;p&gt;周一，美股期指走低，标普500指数期货下跌0.18%，纳斯达克100指数期货跌0.12%。对利率变动最为敏感的两年期美国国债收益率下跌3个基点，部分回吐了上周五的涨幅。&lt;/p&gt;
 &lt;p&gt;沃什上周五在杰克逊霍尔发表讲话，称通胀尚未出现实质性放缓，政策制定者仍有&amp;quot;工作要做&amp;quot;。据彭博汇编的掉期数据，市场对美联储9月加息的押注概率从沃什讲话前的约34%跃升至60%，并已消化未来一年至少再加息一次的预期。与此同时，美军周日空袭伊朗火箭发射阵地，伊朗随即发动报复性打击，布伦特原油单日大涨2.5%。&lt;/p&gt;
 &lt;p&gt;亚股市场上，MSCI亚太区股票指数下跌0.7%，韩国KOSPI指数现跌0.1%，此前一度跌至3.6%。三星证券股票销售交易员Roy Lim表示，养老基金在尾盘交易中明显买入KOSPI股票，主要集中于科技股。Lim称，养老基金在20分钟内净买入约1200亿韩元的股票。欧洲股指期货及纳斯达克100指数期货均指向进一步下跌。黄金跌至约每盎司4437美元，比特币下滑至约7.75万美元。&lt;/p&gt;
@@ -325,100 +416,4 @@ Claudeforce：新战场上的新布局
 &lt;p&gt;&lt;/p&gt;
 综合PMI产出指数有所回升
 &lt;p&gt;8月份，综合PMI产出指数为49.5%，比上月上升0.2个百分点，我国企业生产经营景气水平总体有所回升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传媒板块大涨！首部AI长剧上星，芒果TV押注AIGC内容能否跑通工业化路径</title><link>https://wallstreetcn.com/articles/3780697</link><guid>aca6f4606b87a989bcbd1b099ae9e84615f26108e7d2a115a5ff7831a51e3ed2</guid><pubDate>Mon, 31 Aug 2026 03:53:48 GMT</pubDate><description>&lt;p&gt;国内首部全AI制作长剧《后西游记》8月31日起登陆湖南卫视黄金档及芒果TV，消息直接点燃传媒板块——芒果超媒当日涨停，中文在线、上海电影、捷成股份等AI影视相关标的同步走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这部剧由芒果TV AIGC创新内容中心制作，Seedance 2.0/2.5提供技术支持，全程无真人演员参与。更值得关注的是，它采用“边制作、边审核、边播出”模式，是“广电21条”出台后国内首部以此机制落地的剧集。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI长剧首登卫视黄金档，范式意义大于内容本身
-&lt;p&gt;《后西游记》改编自明末清初同名神魔小说，第一季共30集，每集40分钟，讲述“西游二代”再次集结取经的故事。率先播出的“花果山篇”共5集，8月31日18时上线芒果TV，当晚20时登陆湖南卫视黄金档。&lt;/p&gt;
-&lt;p&gt;国金证券传媒互联网团队（朱珺团队）指出，&lt;strong&gt;“过往AI内容主要集中在短视频、漫剧等小屏场景，本次全AI长剧上星播出具备标志性意义。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其核心逻辑在于三个层面的同步突破：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;政策层面&lt;/strong&gt;：“广电21条”下边审边播机制落地，为AI长内容生产释放制度空间；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;技术层面&lt;/strong&gt;：多模态模型迭代完善视频生成、角色一致性、叙事管线能力，持续压缩长内容制作周期与生产成本；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;平台层面&lt;/strong&gt;：从试验性内容走向规模化排播，AI内容工业化生产逻辑得到验证。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-AI短剧漫剧赛道高速扩张，商业化数据已有支撑
-&lt;p&gt;《后西游记》是AI影视赛道整体提速的缩影。&lt;/p&gt;
-&lt;p&gt;据国金证券数据，2026年上半年，国内AI短剧漫剧前5个月同比增速达138%。上市公司层面，商业化兑现已较为显著：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;昆仑万维AI短剧平台上半年收入&lt;strong&gt;15.34亿元&lt;/strong&gt;，同比增长&lt;strong&gt;163.28%&lt;/strong&gt;，6月单月流水突破&lt;strong&gt;6500万美元&lt;/strong&gt;，平台超90%剧集由AI生成；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;中文在线短剧及IP衍生品（含AI短剧）上半年收入&lt;strong&gt;4.11亿元&lt;/strong&gt;，同比增长&lt;strong&gt;108.72%&lt;/strong&gt;，海外平台实现月度经营性盈亏平衡。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;国金证券指出，&lt;strong&gt;产业重心由单纯生成效果，转向叙事连贯性、工业化管线、合规备案；具备IP储备、渠道平台、成熟AIGC工作流的企业竞争优势持续放大。&lt;/strong&gt;&lt;/p&gt;
-商业化仍处早期，口碑与复制能力是关键变量
-&lt;p&gt;尽管市场情绪高涨，国金证券对AI长内容的商业化前景保持审慎。&lt;/p&gt;
-&lt;p&gt;该团队明确指出，“AI长内容依旧面临叙事打磨、用户接受度、工业化管线成熟度等现实挑战。”&lt;/p&gt;
-&lt;p&gt;《后西游记》能否真正跑通，取决于两个核心变量：一是播出后的口碑与用户反馈数据；二是这套生产模式能否被行业快速复制。国金证券表示，“若播出、口碑数据表现亮眼，有望加速行业复制AI长剧生产范式，打开平台降本增效空间。”&lt;/p&gt;
-&lt;p&gt;该团队同时列出主要风险：AI内容用户接受度不及预期、行业竞争加剧、监管政策变动、内容口碑不及预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 光向芯片靠拢：NPO与CPO重塑AI算力互联格局，产业链价值加速重分配</title><link>https://wallstreetcn.com/articles/3780683</link><guid>0f5209ab6583be8344c4a21a98c99797e38c35aa8db280228f39d4fcb69c2180</guid><pubDate>Mon, 31 Aug 2026 02:30:41 GMT</pubDate><description>&lt;p&gt;AI推理需求的爆发式增长，正在把数据中心互联推向一个新的临界点。&lt;/p&gt;
-&lt;p&gt;8月29日，中泰证券分析师王芳、孙悦文发布研报《光学向芯片靠近：AI 算力互联的演进主线从铜互联、可插拔光模块到NPO与CPO》认为，AI推理Token需求爆炸式增长，Google两年内月处理量从9.7万亿增至超3200万亿，倒逼算力互联从铜缆向近封装光学加速演进。而技术演进主线不是简单地“用光替代铜”，更重要的是&lt;strong&gt;“逐步把光电转换位置从前面板移向ASIC附近，以减少越来越难以补偿的高速电信号传输”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从铜互联、可插拔光模块，到NPO（近封装光学）、CPO（共同封装光学），每一步技术迭代背后，都是同一个驱动力：&lt;strong&gt;高速电信号越来越难传，光学就得越来越靠近芯片。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;产业链价值将从传统可插拔光模块向高功率CW激光器、FAU、高密度连接、先进封装等环节重新分配，但业绩兑现仍需以客户定点和批量交付为依据。&lt;/p&gt;
-为什么互联成了算力瓶颈？
-&lt;p&gt;分析师援引Google数据称，其各产品端月度处理量由2024年5月的9.7万亿增至2025年5月约480万亿，并在2026年5月超过3,200万亿，&lt;strong&gt;两年增长超过300倍&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;Token量暴增的直接后果是：GPU之间需要更频繁、更快速地协同工作。分析师指出，&lt;strong&gt;“Token增加会显著提高多卡协同的重要性，GPU越快、专家数量越多、推理并发越高，系统越需要低时延、高带宽的全互联网络。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;资本开支数据印证了这一判断。截至2026年二季度，Google将全年资本开支预期提升至1,950亿—2,050亿美元，Amazon预计约2,200亿美元，Meta预计1,300亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，互联架构也在分化为两条主线。分析师区分了Scale-up与Scale-out的不同角色：&amp;quot;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Scale-up把一组XPU组织成低时延、紧耦合的计算域，强调单芯片注入带宽、尾时延、确定性流控以及集体通信效率；&lt;/p&gt;
-&lt;p&gt;Scale-out把更多服务器、机柜和计算域连接起来，强调网络规模、跨域吞吐、路由弹性和开放互操作。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;两者都需要光互联，但对功耗、故障边界和维修方式的要求并不相同。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-铜的边界在哪里？
-&lt;p&gt;单通道速率的提升，正在压缩铜互联能覆盖的距离。&lt;/p&gt;
-&lt;p&gt;分析师援引华为数据指出，随着SerDes由25G NRZ向50G、100G、200G PAM4演进，PCB、DAC等纯电互联的有效距离持续缩短。Broadcom在特定场景中估算，100Gbps/lane DAC约可覆盖4米，提升至200Gbps/lane后可能缩短至2米；OIF对224G/lane接口给出的无源铜目标则集中在约1米。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;铜的退出不是一刀切。分析师强调，&lt;strong&gt;“铜转光不是统一时点，而是不同距离层级依次重新计算经济性”——封装内和板级连接厘米到米级，机架内跨越数米到数十米，叶脊网络和数据中心互联距离更长，光纤低损耗和标准化的优势才更加突出。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;可插拔光模块是铜向光演进的第一次大规模产品化，但它的瓶颈也在显现。分析师指出，“交换容量每翻倍一次，若继续依靠相同粒度的可插拔端口，模块数量、DSP功耗和前面板散热同步上升”。有限的面板空间无法同时容纳更多端口和更大的散热结构。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-NPO：过渡平台，不是终点
-&lt;p&gt;NPO（Near-Packaged Optics，近封装光学）的核心逻辑，是把光引擎从前面板“搬”到ASIC旁边，但保留可分离的边界。&lt;/p&gt;
-&lt;p&gt;分析师解释：&lt;strong&gt;“NPO把可独立制造、测试和更换的光引擎部署在ASIC附近，在缩短电通道的同时，保留了部件筛选、良率隔离和一定的维修弹性。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这带来两项直接收益：&lt;strong&gt;一是降低电通道损耗，二是良率解耦&lt;/strong&gt;——“高价值ASIC、光引擎、FAU和外置光源可以分别形成Known Good Die或合格子组件，再在系统装配阶段组合；某颗光引擎异常时，可分离设计有机会只更换失效部件，避免把局部光学缺陷放大为整套ASIC封装报废。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;链路损耗数据更直观。分析师援引OIF在112G/lane示例中的数据：前面板可插拔的bump-to-bump损耗约为22—24dB，NPO约13dB，CPO约10dB。“NPO已经通过缩短主板通道获得大部分改善。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;但NPO并不简单。分析师指出，其产业化难点“并不局限于光引擎本身，还包括224G高速电接口、PIC与EIC封装、外置光源、高通道FAU、板内光纤、冷却以及管理测试等系统接口”。&lt;/p&gt;
-&lt;p&gt;光源的位置尤为关键。外置ELS/ELSFP把激光器放在较低温且可更换的位置，但“增加保偏光纤、连接器、分光和耦合损耗，需要更高纤耦输出功率及更完整的光功率闭环”。&lt;/p&gt;
-&lt;p&gt;在技术路线上，硅光与VCSEL并行发展，并非非此即彼。分析师认为，“短距、高并行、光纤数量可接受的场景可以优先评估VCSEL；需要WDM、更长覆盖或更高前面板带宽密度的系统更适合硅光。设备商也可能在同一超节点内为不同链路层级采用不同光学平台。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从产业进展看，阿里已公开以3.2T NPO作为试点起点，并同步推进6.4T UPO与接口标准化；腾讯则同时验证3.2T硅光和VCSEL链路；华为Hi-ONE平台同时布局VCSEL与硅光路线，并把光引擎、外置光源、连接、冷却和链路监测放入同一系统框架。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;分析师强调，“当前3.2T NPO主要承担试点和运行数据积累功能，向6.4T、7.2T升级则意味着电气、光学、封装和测试体系整体换代”。NPO能否从样品走向通用平台，“最终取决于接口标准、装配良率、长期运行数据和现场维修成本”。&lt;/p&gt;
-CPO：更深的集成，更高的门槛
-&lt;p&gt;CPO（Co-Packaged Optics，共封装光学）&lt;strong&gt;把交换ASIC与光引擎纳入共同封装，把高速电路径压缩至毫米级或封装级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;功耗收益可量化。分析师援引Cisco在特定51.2T系统口径下的估算：CPO相较可插拔架构可降低约25%—30%的整机功耗。Broadcom在特定576 GPU互联情景中给出的数据更具体：DSP可插拔、LRO和CPO光学功耗分别约为16.2kW、11.7kW和7.1kW。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;面板密度的变化同样直观。分析师指出，“四只800G OSFP模块能够提供3.2T带宽，一只3.2T CPO光引擎也能提供相同数量级的带宽，但后者不再需要在前面板保留完整模块外壳、笼子和模块散热器。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;英伟达是目前CPO落地最具代表性的案例。分析师详述：英伟达已落地Quantum-X800-Q3450和Spectrum-X两代CPO交换机，分别用于InfiniBand及以太网。Quantum-X整机搭载4颗Quantum-3交换ASIC，整机聚合总带宽115.2Tbps，整机含72颗光引擎OE。Spectrum-X中，单OE带宽提升至3.2Tbps，整机有效带宽32×3.2T=102.4Tbps。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;台积电COUPE平台是支撑CPO规模化的关键制造基础。分析师指出，COUPE“正逐渐成为CPO/OIO主流选择方案”——英伟达在GTC 2025大会上展示了COUPE光引擎，成为首批上市的COUPE产品；博通未来技术路线图也已从其原有供应链转向COUPE平台；Ayar Labs也将COUPE纳入发展规划。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但量产门槛不低。&lt;/strong&gt;分析师列出五道门槛：联合良率、热管理、外置光源、测试诊断、维修。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其中良率是核心。“CPO把高价值ASIC、PIC、EIC、光纤耦合结构和先进封装放入同一产品边界，任何一处缺陷都可能放大报废损失。”&lt;/strong&gt;联合良率并非各部件良率的简单相乘，“大尺寸基板、中介层、微凸点和多材料堆叠在回流焊与热循环中会产生翘曲和热膨胀失配，光纤耦合对微米级位移高度敏感。”&lt;/p&gt;
-&lt;p&gt;维修问题同样不可回避。“CPO若缺少可分离子组件，局部光学缺陷可能演变为整块交换板或共同封装返厂。CPO必须证明节省的功耗和空间足以覆盖更高的故障处置成本。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-谁受益？产业链价值如何重分配？
-&lt;p&gt;光学内移不是光模块价值量的平移，而是“功能位置、器件规格和制造责任同时重构”。&lt;/p&gt;
-&lt;p&gt;分析师梳理了几个关键增量方向：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高功率CW激光器&lt;/strong&gt;是外置光源路线中相对明确的增量。集中供光可以减少激光器颗数，却提高单颗功率、可靠性和ELS系统价值。古河电工公开的8通道ELS样机在55°C壳温下实现每通道20dBm纤耦输出。分析师提醒，“研究应关注单位光源输出功率、冗余比例、ELS价值量和客户定点，而不能直接把端口数量映射为激光器颗数”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;保偏光纤&lt;/strong&gt;需求集中在外置光源至偏振敏感硅光调制器之间的供光链。但分析师特别指出，Intel OCI光I/O芯粒公开采用SMF-28且不需要PMF，“进一步说明保偏光纤具有明确的路线依赖，不能外推为所有CPO出纤的普遍变化”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;FAU和高密度连接&lt;/strong&gt;的增量逻辑“更具普适性”。光纤进入ASIC周围的高热流、高密度区域后，需要在大尺寸基板翘曲、热循环、振动和污染环境下维持微米级对准和低插损，由此带动V形槽、透镜或微光学、MT插芯、MPO/MTP、光纤带、盲插连接器等整条链条升级。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;先进封装、测试和热管理&lt;/strong&gt;的价值将在量产阶段进一步放大。NPO需要高性能有机基板、LGA或插座、夹持结构；CPO更依赖大尺寸基板、中介层或嵌入式桥、微凸点、低翘曲材料。&lt;/p&gt;
-&lt;p&gt;分析师最后强调，产业链价值重分配的逻辑清晰，但“最终业绩兑现仍需以客户定点、批量交付、良率和可靠性数据为依据”。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 业绩增长背后，五粮液切换了增长方式</title><link>http://xueqiu.com/9210717241/407334402</link><guid>559e17d508572dd325318ab596a2e3c25122b376206175cec4fa79571b64e750</guid><pubDate>Mon, 31 Aug 2026 10:28:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;公子豹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;不可否认，当下我国白酒产业仍处于深度调整期，资本市场对白酒股的担忧情绪也仍为浓厚，但在五粮液的半年报中，我们依然还是能够看到行业龙头的韧性。 &lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 白酒行业大环境及对白酒投资的观点（散户乙2026.08.30）</title><link>http://xueqiu.com/6452929041/407318833</link><guid>0a20e6d4aab84ea514014203894c9534331202e78096adae81a5da17cd0ebc61</guid><pubDate>Mon, 31 Aug 2026 10:28:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;半个胡桃&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;聊聊白酒行业的大环境与我对白酒投资的观点（非事实）。&lt;/p&gt;</description></item><item><title>[今日雪球] （周记347）50%止盈一笔丨简聊万华化学、乖宝宠物丨一组对比图片</title><link>http://xueqiu.com/1643044849/407338777</link><guid>4113299ac237d7bb5cbf51b808de6a50ee12b79e89cd61705f6d5771156b13d0</guid><pubDate>Mon, 31 Aug 2026 10:28:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;终身黑白&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;声明：&lt;/p&gt;</description></item><item><title>[今日雪球] 业绩增长背后，五粮液切换了增长方式</title><link>http://xueqiu.com/9210717241/407334402</link><guid>559e17d508572dd325318ab596a2e3c25122b376206175cec4fa79571b64e750</guid><pubDate>Mon, 31 Aug 2026 10:28:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;公子豹&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;不可否认，当下我国白酒产业仍处于深度调整期，资本市场对白酒股的担忧情绪也仍为浓厚，但在五粮液的半年报中，我们依然还是能够看到行业龙头的韧性。 &lt;/p&gt;</description></item></channel></rss>
