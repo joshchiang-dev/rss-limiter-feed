@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 01 Sep 2026 22:29:07 GMT</lastBuildDate><item><title>[华尔街见闻] 8月电车成绩单：零跑再破10万辆蝉联销冠，小鹏、理想反超蔚来，鸿蒙智行同比转负</title><link>https://wallstreetcn.com/articles/3780832</link><guid>2a7c2efb2abbdabecff225d52c2d9048d5c008fb2aac33ddc10c13aabd557fce</guid><pubDate>Tue, 01 Sep 2026 12:48:33 GMT</pubDate><description>&lt;p&gt;9月1日，中国主要新能源汽车品牌8月成绩单集中出炉。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 01 Sep 2026 22:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 8月电车成绩单：零跑再破10万辆蝉联销冠，小鹏、理想反超蔚来，鸿蒙智行同比转负</title><link>https://wallstreetcn.com/articles/3780832</link><guid>2a7c2efb2abbdabecff225d52c2d9048d5c008fb2aac33ddc10c13aabd557fce</guid><pubDate>Tue, 01 Sep 2026 12:48:33 GMT</pubDate><description>&lt;p&gt;9月1日，中国主要新能源汽车品牌8月成绩单集中出炉。&lt;/p&gt;
 &lt;p&gt;零跑汽车以全球103129辆的交付量蝉联造车新势力销冠，同比增长80.7%，连续第二个月站上10万辆；小鹏集团与理想汽车分别交付39107辆（同比+4%）和37679辆（同比+32%），双双反超蔚来公司的35836辆（同比+14.5%）。鸿蒙智行交付42101辆，较上年同期的44579辆下降5.6%，是头部阵营中唯一同比转负的一家。&lt;/p&gt;
 &lt;p&gt;乘联分会此前分析指出，8月并非车市传统旺季，暑期高温叠加台风等极端天气，市场总量仍处低位，但修复动能逐步积聚。燃油车受高油价与产品老化影响持续承压，预计仍维持较大同比降幅。&lt;/p&gt;
 零跑再破10万辆，也是唯一盈利的一家
@@ -287,7 +287,87 @@
 &lt;p&gt;本次电话会议到此结束。您现在可以挂断电话。&lt;/p&gt;
 &lt;p&gt;谢谢。&lt;/p&gt;
 &lt;p&gt;活动已结束。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊冲突升级油价飙升5%，美国股债双杀，半导体与软件重挫，黄金失守4350美元</title><link>https://wallstreetcn.com/articles/3780783</link><guid>22cfbe9db9056c23777f8d07eec7d447adc5bf309bce3cbd5d2706ea48edd472</guid><pubDate>Tue, 01 Sep 2026 21:58:16 GMT</pubDate><description>&lt;p&gt;美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复杂任务最高降本45%，编程与科研能力大幅提升，Fable 5.1如何撑起Anthropic 2万亿美元估值</title><link>https://wallstreetcn.com/articles/3780853</link><guid>ac83f93897bf09817639da1a0b8c2f3be6b5bf2b0f675284a69272d198cb3991</guid><pubDate>Tue, 01 Sep 2026 22:34:32 GMT</pubDate><description>&lt;p&gt;Anthropic周二发布旗舰AI模型新版本Fable 5.1，在大幅削减使用成本的同时提升编程与科研能力。冲刺2万亿美元估值超级IPO在即，Anthropic期待通过“极致性能+大幅降本”的组合拳，构筑更深的商业护城河。&lt;/p&gt;
+&lt;p&gt;新版本最核心的变化在于定价策略调整：&lt;strong&gt;Anthropic对模型重新调用已处理信息这一环节的收费下调75%，公司表示这将带来整体运行成本的&amp;quot;大幅下降&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该公司产品管理负责人Dianne Penn指出，&lt;strong&gt;这一环节在部分复杂长任务中占据一半甚至更高比例的token消耗，是客户反馈最为集中的痛点之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，Anthropic还宣布将允许企业客户在自有云基础设施上保留数据，同时仍接受Anthropic的安全审查，这一政策标志着公司对此前数据留存规定的重大转向。&lt;/p&gt;
+&lt;p&gt;此外，邀请制高阶模型Mythos 5.1也将于同日向部分预选用户小范围开放。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic公布的数据显示，Fable 5.1多项基准测试的表现均优于上一代旗舰Fable 5和竞争对手OpenAI的GPT-5.6 Sol，尤其是编程和科研能力提升明显，继续刷新LLM的能力“天花板”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+降价逻辑：积极应对竞争，加速争夺企业客户
+
+&lt;p&gt;Fable 5.1对新输入token的收费与前代Fable 5保持一致，价格调整主要集中在&amp;quot;缓存命中&amp;quot;（cache reads）部分——即模型重新读取此前已处理内容时的计费环节，降幅达75%。&lt;/p&gt;
+&lt;p&gt;Anthropic表示，&lt;strong&gt;对于按Token（词元）计费的典型工作负载，Fable 5.1的预期使用成本将比Fable 5低25%。对于复杂Agent任务，节省幅度会更大，最高可达到约45%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Dianne Penn表示，该环节在软件开发、代码审查等需要模型遍历整个应用代码库的任务中，往往消耗超过一半的token用量。&amp;quot;这是我们希望改进的一个领域，也是在回应客户反馈。&amp;quot;她说。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;除降价外，新模型本身也经过优化，旨在以更少的token完成相同任务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一调整背景清晰：&lt;strong&gt;模型竞争日趋激烈；同时企业买家在AI支出上愈发审慎，迫切需要更可预期的成本结构。&lt;/strong&gt;&lt;/p&gt;
+
+能力升级：编程与科研场景双线突破
+
+&lt;p&gt;在性能层面，Fable 5.1重点强化了两类专业场景。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;编程方面，新模型更擅长处理跨越完整代码库的长链路任务，涵盖大型软件项目开发及系统性代码审查等。科研方面，模型在实验方案设计、实验过程模拟以及读取高密度图表数据等任务上的表现均有所提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尤其是科研能力，Fable 5.1在Terminal-Bench-Science上达到52.6%，相比Fable 5的24.7%超过翻倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;安全分类器也得到同步优化——误报率显著下降。这意味着从事网络安全和生物学相关工作的用户将减少被系统误拦截的情况，作业效率有望提高。&lt;/p&gt;
+&lt;p&gt;值得注意的背景是，美国政府此前因安全顾虑，曾于6月对Fable和Mythos两款模型实施访问限制。Fable 5在加入可识别和屏蔽更多网络安全任务的分类器后，限制随即解除；Mythos 5的访问权限后来也得以恢复，但开放范围相对更小。&lt;/p&gt;
+
+数据政策转向：企业主权诉求获回应
+
+&lt;p&gt;&lt;strong&gt;Anthropic宣布的数据留存政策调整，或是此次更新中对企业客户吸引力最大的变化之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新政策允许企业用户在使用Anthropic最强能力模型时，将数据保留在自有云计算基础设施上，而非强制存放于Anthropic服务器——同时Anthropic仍将对相关数据执行安全检查。&lt;/p&gt;
+&lt;p&gt;此前的政策设计初衷是降低网络安全风险，但也因此令部分对数据主权有严格要求的企业客户望而却步。&lt;/p&gt;
+
+IPO在即，收入扩张成估值支撑关键
+&lt;p&gt;Anthropic与OpenAI均已提交不公开上市申请文件，此前有报道称，Anthropic计划在下周美国劳动节后公开招股书，这意味着公司最快将在9月底登陆美股市场，目标估值为2万亿美元或更高。&lt;/p&gt;
+
+&lt;p&gt;Fable 5.1的发布，是Anthropic与OpenAI竞相拓展企业客户、覆盖编程、网络安全、金融服务、科学及医疗健康等专业场景这一更宏观战略的组成部分。&lt;/p&gt;
+&lt;p&gt;Anthropic预计年化收入将突破650亿美元，较2025年底的运营节奏增长逾七倍。&lt;/p&gt;
+&lt;p&gt;在上市窗口临近之际，持续扩大企业市场份额、将高估值转化为可见的收入增长，对两家公司均至关重要。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔大涨！全年指引超预期上调，Q2营收创历史新高，AI服务器需求爆发｜财报见闻</title><link>https://wallstreetcn.com/articles/3780858</link><guid>5ca0dda47e731947eb97d4995fb6ed12e4c460213588aad54f55aa3ce26cee81</guid><pubDate>Tue, 01 Sep 2026 20:22:21 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;戴尔科技因人工智能服务器需求强劲，大幅上调全年营收预期，盘后股价随即跳涨约10%，进一步印证数据中心基础设施投资热潮持续升温。&lt;/p&gt;
+&lt;p&gt;戴尔公布截至7月31日的2027财年第二季度业绩。&lt;strong&gt;公司当季营收达到470亿美元，同比增长58%，创历史新高，高于市场预期的448亿美元；按非GAAP口径计算，每股收益为7.04美元，同比增长203%，远高于市场预期的4.90美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更受市场关注的是，&lt;strong&gt;戴尔将2027财年全年营收指引从此前约1670亿美元大幅上调至1920亿美元，一次性提高250亿美元，同比增长约69%，明显高于分析师平均预期的1738亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司预计全年非GAAP每股收益达到25.50美元，较上年增长148%，同样远高于市场预期的19.10美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;戴尔首席财务官David Kennedy表示，上调业绩指引原因是AI需求正在加速。&lt;/p&gt;
+&lt;p&gt;戴尔盘后一度大涨11%。尽管自8月13日创下的高点以来已回落14%，但今年以来其股价涨幅仍超过两倍。戴尔的强劲业绩也带动其他服务器制造商股价在盘后走高，惠普和超微电脑均出现上涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+AI服务器订单创纪录，积压订单达到950亿美元
+&lt;p&gt;AI服务器继续成为戴尔业绩增长的核心驱动力。&lt;/p&gt;
+&lt;p&gt;第二财季，&lt;strong&gt;戴尔AI优化服务器营收达到164亿美元，同比增长100%；公司当季AI服务器订单金额达到创纪录的609亿美元，季度末AI服务器积压订单达到950亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;戴尔首席运营官Jeff Clarke表示，过去12个月公司累计获得的AI服务器订单已经超过1300亿美元。仅过去两个季度，传统服务器和网络业务创造的收入就几乎相当于公司此前历史上任何一个完整财年的规模。&lt;/p&gt;
+&lt;p&gt;公司预计，&lt;strong&gt;2027财年全年AI服务器销售额将达到约740亿美元，较此前财年的规模增长约三倍。&lt;/strong&gt;这意味着AI服务器将成为戴尔未来营收增长最重要的来源之一。&lt;/p&gt;
+&lt;p&gt;戴尔目前正受益于AI数据中心建设热潮，公司向CoreWeave、Nscale等AI基础设施运营商，以及大型企业和AI公司供应搭载英伟达AI芯片的服务器。&lt;/p&gt;
+&lt;p&gt;同时，传统服务器需求也明显回暖，其中CPU服务器对于运行和管理AI Agent等工作负载具有重要作用。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+基础设施业务全面加速
+&lt;p&gt;AI服务器之外，戴尔的传统基础设施业务同样出现强劲增长。&lt;/p&gt;
+&lt;p&gt;第二财季，&lt;strong&gt;基础设施解决方案集团（ISG）营收达到318亿美元，同比增长89%。&lt;/strong&gt;其中：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;AI优化服务器营收164亿美元，同比增长100%；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;传统服务器和网络业务营收105亿美元，同比增长122%；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;存储业务营收49亿美元，同比增长26%；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ISG营业利润达到48亿美元，同比增长225%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这意味着戴尔的AI业务增长并没有孤立发生，而是在带动服务器、网络和存储等整个数据中心业务同步扩张。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+PC业务营收增长20%，通过涨价对冲内存成本
+&lt;p&gt;戴尔的个人电脑业务同样表现强劲。&lt;/p&gt;
+&lt;p&gt;第二财季，客户解决方案集团（CSG）营收达到150亿美元，同比增长20%，其中商业客户营收132亿美元，同比增长22%；消费业务营收18亿美元，同比增长7%。&lt;/p&gt;
+&lt;p&gt;该部门营业利润达到11亿美元，同比增长42%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;戴尔表示，尽管全球PC出货量正在下降，但行业销售额仍在增长，主要原因之一是价格上涨。面对内存芯片成本上升，公司通过提高PC售价将部分成本转嫁给客户，从而保护利润率。&lt;/p&gt;
+&lt;p&gt;与此同时，戴尔还通过精简产品线和增加产品功能，改善存储业务的盈利能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊冲突升级油价飙升5%，美国股债双杀，半导体与软件重挫，黄金失守4350美元</title><link>https://wallstreetcn.com/articles/3780783</link><guid>22cfbe9db9056c23777f8d07eec7d447adc5bf309bce3cbd5d2706ea48edd472</guid><pubDate>Tue, 01 Sep 2026 21:58:16 GMT</pubDate><description>&lt;p&gt;美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;WTI原油结算价涨5.2%报90.22美元/桶，是7月23日以来的最高收盘；布伦特涨4.6%报94.65美元/桶。成品油市场的反应比原油还要剧烈。&lt;/p&gt;
 &lt;p&gt;当天日本10年期国债收益率三十年来第一次突破3%，德法英三国的长端收益率同步创下多年新高，美国10年期美债收益率升到4.792%，为2025年1月以来最高。&lt;/p&gt;
@@ -343,50 +423,7 @@
 &lt;p&gt;黄金是当天被抛售的资产之一。现货黄金跌2.71%报4328.49美元/盎司，跌回4400美元下方。10年期美国实际利率升到2.4320%，持有不生息资产的机会成本随之抬高。现货白银跌2.54%报64.812美元/盎司。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;《股票交易者年鉴》创始人Jeff Hirsch提醒，黄金在历史上往往在7月中站稳之后，进入一段持续到秋季和年底的季节性强势。First Eagle投资组合经理Idanna Appio则指出，黄金与实际利率之间的背离已经持续了一段时间，两者终归要收敛。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔大涨！全年指引超预期上调，Q2营收创历史新高，AI服务器需求爆发｜财报见闻</title><link>https://wallstreetcn.com/articles/3780858</link><guid>5ca0dda47e731947eb97d4995fb6ed12e4c460213588aad54f55aa3ce26cee81</guid><pubDate>Tue, 01 Sep 2026 20:22:21 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;戴尔科技因人工智能服务器需求强劲，大幅上调全年营收预期，盘后股价随即跳涨约10%，进一步印证数据中心基础设施投资热潮持续升温。&lt;/p&gt;
-&lt;p&gt;戴尔公布截至7月31日的2027财年第二季度业绩。&lt;strong&gt;公司当季营收达到470亿美元，同比增长58%，创历史新高，高于市场预期的448亿美元；按非GAAP口径计算，每股收益为7.04美元，同比增长203%，远高于市场预期的4.90美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更受市场关注的是，&lt;strong&gt;戴尔将2027财年全年营收指引从此前约1670亿美元大幅上调至1920亿美元，一次性提高250亿美元，同比增长约69%，明显高于分析师平均预期的1738亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公司预计全年非GAAP每股收益达到25.50美元，较上年增长148%，同样远高于市场预期的19.10美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;戴尔首席财务官David Kennedy表示，上调业绩指引原因是AI需求正在加速。&lt;/p&gt;
-&lt;p&gt;戴尔盘后一度大涨11%。尽管自8月13日创下的高点以来已回落14%，但今年以来其股价涨幅仍超过两倍。戴尔的强劲业绩也带动其他服务器制造商股价在盘后走高，惠普和超微电脑均出现上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI服务器订单创纪录，积压订单达到950亿美元
-&lt;p&gt;AI服务器继续成为戴尔业绩增长的核心驱动力。&lt;/p&gt;
-&lt;p&gt;第二财季，&lt;strong&gt;戴尔AI优化服务器营收达到164亿美元，同比增长100%；公司当季AI服务器订单金额达到创纪录的609亿美元，季度末AI服务器积压订单达到950亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;戴尔首席运营官Jeff Clarke表示，过去12个月公司累计获得的AI服务器订单已经超过1300亿美元。仅过去两个季度，传统服务器和网络业务创造的收入就几乎相当于公司此前历史上任何一个完整财年的规模。&lt;/p&gt;
-&lt;p&gt;公司预计，&lt;strong&gt;2027财年全年AI服务器销售额将达到约740亿美元，较此前财年的规模增长约三倍。&lt;/strong&gt;这意味着AI服务器将成为戴尔未来营收增长最重要的来源之一。&lt;/p&gt;
-&lt;p&gt;戴尔目前正受益于AI数据中心建设热潮，公司向CoreWeave、Nscale等AI基础设施运营商，以及大型企业和AI公司供应搭载英伟达AI芯片的服务器。&lt;/p&gt;
-&lt;p&gt;同时，传统服务器需求也明显回暖，其中CPU服务器对于运行和管理AI Agent等工作负载具有重要作用。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-基础设施业务全面加速
-&lt;p&gt;AI服务器之外，戴尔的传统基础设施业务同样出现强劲增长。&lt;/p&gt;
-&lt;p&gt;第二财季，&lt;strong&gt;基础设施解决方案集团（ISG）营收达到318亿美元，同比增长89%。&lt;/strong&gt;其中：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;AI优化服务器营收164亿美元，同比增长100%；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;传统服务器和网络业务营收105亿美元，同比增长122%；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;存储业务营收49亿美元，同比增长26%；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ISG营业利润达到48亿美元，同比增长225%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这意味着戴尔的AI业务增长并没有孤立发生，而是在带动服务器、网络和存储等整个数据中心业务同步扩张。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-PC业务营收增长20%，通过涨价对冲内存成本
-&lt;p&gt;戴尔的个人电脑业务同样表现强劲。&lt;/p&gt;
-&lt;p&gt;第二财季，客户解决方案集团（CSG）营收达到150亿美元，同比增长20%，其中商业客户营收132亿美元，同比增长22%；消费业务营收18亿美元，同比增长7%。&lt;/p&gt;
-&lt;p&gt;该部门营业利润达到11亿美元，同比增长42%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;戴尔表示，尽管全球PC出货量正在下降，但行业销售额仍在增长，主要原因之一是价格上涨。面对内存芯片成本上升，公司通过提高PC售价将部分成本转嫁给客户，从而保护利润率。&lt;/p&gt;
-&lt;p&gt;与此同时，戴尔还通过精简产品线和增加产品功能，改善存储业务的盈利能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel：9月美股或迎“战术性下行窗口”，建议逢高减仓、低价买保护</title><link>https://wallstreetcn.com/articles/3780833</link><guid>f57a31c889d81a4e56cb657c37c2de1dafdc719ad786bdd97147de61c3505650</guid><pubDate>Tue, 01 Sep 2026 11:57:18 GMT</pubDate><description>&lt;p&gt;自3月低点以来标普500指数累计涨幅约22%、新增市值约12万亿美元，但支撑这一涨势的多重顺风因素正在同步消退。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Citadel：9月美股或迎“战术性下行窗口”，建议逢高减仓、低价买保护</title><link>https://wallstreetcn.com/articles/3780833</link><guid>f57a31c889d81a4e56cb657c37c2de1dafdc719ad786bdd97147de61c3505650</guid><pubDate>Tue, 01 Sep 2026 11:57:18 GMT</pubDate><description>&lt;p&gt;自3月低点以来标普500指数累计涨幅约22%、新增市值约12万亿美元，但支撑这一涨势的多重顺风因素正在同步消退。&lt;/p&gt;
 &lt;p&gt;Citadel Securities首席股票及衍生品策略师Scott Rubner在最新报告中表示，他对美股的长期建设性判断未变，但近期风险收益比已发生转变。Rubner指出，&lt;strong&gt;进入9月，财报季利好基本出尽，零售与企业回购需求历史上均在该月明显走弱，系统性资金的重建空间也已大幅收窄，而宏观事件日历正密集回归，季节性规律则显示9月是全年最弱的月份。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Rubner明确建议，这是他自7月调整以来首次倾向于&amp;quot;逢高减仓、低价买保护&amp;quot;，而非追涨。他将9月定性为&amp;quot;战术性下行窗口&amp;quot;，而非更广泛熊市转折的起点，并预计这一窗口过后，市场或于10月中旬前后迎来更具建设性的布局机会。&lt;/p&gt;
 
@@ -427,38 +464,7 @@ PC业务营收增长20%，通过涨价对冲内存成本
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;宏观日历亦显著转向。继杰克逊霍尔会议后，9月4日非农就业数据、9月10日PPI、9月11日CPI以及9月16日联储议息决定将密集登场。与财报季大量正向惊喜不同，宏观催化剂提供的是双向风险，右尾上涨空间远不如此前明确。&lt;/p&gt;
 &lt;p&gt;从长期历史季节性看，自1928年以来，9月是标普500指数唯一一个下跌概率超过上涨概率的月份——收跌比例为55%，月均回报为负1.1%，平均最大跌幅为负4.7%，且弱势通常集中于下半月。中期选举年的9月表现历史上更弱，平均回报为负1.5%，平均最大跌幅为负6.2%。Rubner表示，这一路径与他的判断高度吻合：&lt;strong&gt;先经历战术性弱势，再于10月中旬前后迎来更具建设性的布局格局，但并不意味着更广泛股票趋势的逆转。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic推出Fable 5.1：“缓存命中”环节降价75%，强化编程与科研能力</title><link>https://wallstreetcn.com/articles/3780853</link><guid>ac83f93897bf09817639da1a0b8c2f3be6b5bf2b0f675284a69272d198cb3991</guid><pubDate>Tue, 01 Sep 2026 19:20:34 GMT</pubDate><description>&lt;p&gt;Anthropic周二发布旗舰AI模型新版本Fable 5.1，在大幅削减部分使用成本的同时提升编程与科研能力，此举直接回应来自企业客户的价格压力，也折射出美国AI模型厂商日趋激烈的市场竞争。&lt;/p&gt;
-&lt;p&gt;新版本最核心的变化在于定价策略调整：&lt;strong&gt;Anthropic对模型重新调用已处理信息这一环节的收费下调75%，公司表示这将带来整体运行成本的&amp;quot;大幅下降&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该公司产品管理负责人Dianne Penn指出，&lt;strong&gt;这一环节在部分复杂长任务中占据一半甚至更高比例的token消耗，是客户反馈最为集中的痛点之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Anthropic还宣布将允许企业客户在自有云基础设施上保留数据，同时仍接受Anthropic的安全审查，这一政策标志着公司对此前数据留存规定的重大转向。&lt;/p&gt;
-&lt;p&gt;此外，邀请制高阶模型Mythos 5.1也将于同日向部分预选用户小范围开放。&lt;/p&gt;
-
-降价逻辑：应对成本压力与竞争态势
-
-&lt;p&gt;Fable 5.1对新输入token的收费与前代Fable 5保持一致，价格调整主要集中在&amp;quot;缓存命中&amp;quot;（cache reads）部分——即模型重新读取此前已处理内容时的计费环节，降幅达75%。&lt;/p&gt;
-&lt;p&gt;Dianne Penn表示，该环节在软件开发、代码审查等需要模型遍历整个应用代码库的任务中，往往消耗超过一半的token用量。&amp;quot;这是我们希望改进的一个领域，也是在回应客户反馈。&amp;quot;她说。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;除降价外，新模型本身也经过优化，旨在以更少的token完成相同任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一调整背景清晰：&lt;strong&gt;模型竞争日趋激烈；同时企业买家在AI支出上愈发审慎，迫切需要更可预期的成本结构。&lt;/strong&gt;&lt;/p&gt;
-
-能力升级：编程与科研场景双线突破
-
-&lt;p&gt;在性能层面，Fable 5.1重点强化了两类专业场景。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;编程方面，新模型更擅长处理跨越完整代码库的长链路任务，涵盖大型软件项目开发及系统性代码审查等。科研方面，模型在实验方案设计、实验过程模拟以及读取高密度图表数据等任务上的表现均有所提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;安全分类器也得到同步优化——误报率显著下降。这意味着从事网络安全和生物学相关工作的用户将减少被系统误拦截的情况，作业效率有望提高。&lt;/p&gt;
-&lt;p&gt;值得注意的背景是，美国政府此前因安全顾虑，曾于6月对Fable和Mythos两款模型实施访问限制。Fable 5在加入可识别和屏蔽更多网络安全任务的分类器后，限制随即解除；Mythos 5的访问权限后来也得以恢复，但开放范围相对更小。&lt;/p&gt;
-
-数据政策转向：企业主权诉求获回应
-
-&lt;p&gt;&lt;strong&gt;Anthropic宣布的数据留存政策调整，或是此次更新中对企业客户吸引力最大的变化之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新政策允许企业用户在使用Anthropic最强能力模型时，将数据保留在自有云计算基础设施上，而非强制存放于Anthropic服务器——同时Anthropic仍将对相关数据执行安全检查。&lt;/p&gt;
-&lt;p&gt;此前的政策设计初衷是降低网络安全风险，但也因此令部分对数据主权有严格要求的企业客户望而却步。&lt;/p&gt;
-
-IPO在即，收入扩张成估值支撑关键
-
-&lt;p&gt;Fable 5.1的发布，是Anthropic与OpenAI竞相拓展企业客户、覆盖编程、网络安全、金融服务、科学及医疗健康等专业场景这一更宏观战略的组成部分。&lt;/p&gt;
-&lt;p&gt;Anthropic预计年化收入将突破650亿美元，较2025年底的运营节奏增长逾七倍。&lt;/p&gt;
-&lt;p&gt;Anthropic与OpenAI均已提交不公开上市申请文件，其中Anthropic最快有望于今年秋季完成上市。&lt;/p&gt;
-&lt;p&gt;在上市窗口临近之际，持续扩大企业市场份额、将高估值转化为可见的收入增长，对两家公司均至关重要。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月ISM制造业指数小幅回落，不及预期，但仍维持在近四年高位</title><link>https://wallstreetcn.com/articles/3780842</link><guid>322c3c04922d0cf49d3ced05bb3369873dee912436b216c7499b62de3fd7c5e6</guid><pubDate>Tue, 01 Sep 2026 15:04:13 GMT</pubDate><description>&lt;p&gt;8月份，美国制造业活动连续第八个月保持扩张，增速较四年来的最快水平仅出现微幅放缓。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月ISM制造业指数小幅回落，不及预期，但仍维持在近四年高位</title><link>https://wallstreetcn.com/articles/3780842</link><guid>322c3c04922d0cf49d3ced05bb3369873dee912436b216c7499b62de3fd7c5e6</guid><pubDate>Tue, 01 Sep 2026 15:04:13 GMT</pubDate><description>&lt;p&gt;8月份，美国制造业活动连续第八个月保持扩张，增速较四年来的最快水平仅出现微幅放缓。&lt;/p&gt;
 &lt;p&gt;根据周二公布的数据，&lt;strong&gt;美国供应管理协会（ISM）的制造业指数在8月份下降1点至54.6，低于预期的55.2。尽管如此，这仍是自2022年以来的第二高读数。&lt;/strong&gt;该指数高于50即表明制造业处于扩张状态。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;生产指数创下自2021年底以来的第二好成绩。&lt;strong&gt;作为需求风向标的新订单指数虽为3月份以来最弱，但仍显示处于扩张区间。&lt;/strong&gt;ISM制造业新订单指数53.7，预期57，前值56.7。 &lt;/p&gt;
