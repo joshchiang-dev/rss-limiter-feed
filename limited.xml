@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 01 Sep 2026 07:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 智谱电话会：ARR年底指引24亿美元，坦言落后Anthropic 17个月，API提价101%后调用量仍增40倍</title><link>https://wallstreetcn.com/articles/3780798</link><guid>8cc2356f9fdefeaae9d98404e5134823714c4e0b47633f00a2830bd87370ad80</guid><pubDate>Tue, 01 Sep 2026 03:25:01 GMT</pubDate><description>&lt;p&gt;8月31日，&lt;a href="https://wallstreetcn.com/articles/3780732"&gt;智谱发布港股上市后首份中期业绩&lt;/a&gt;后，随即召开“中期业绩发布会”以及面向分析师的“Call back深入交流会”。两场会议给出了财报之外的几个关键信息：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 01 Sep 2026 07:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 智谱电话会：ARR年底指引24亿美元，坦言落后Anthropic 17个月，API提价101%后调用量仍增40倍</title><link>https://wallstreetcn.com/articles/3780798</link><guid>8cc2356f9fdefeaae9d98404e5134823714c4e0b47633f00a2830bd87370ad80</guid><pubDate>Tue, 01 Sep 2026 03:25:01 GMT</pubDate><description>&lt;p&gt;8月31日，&lt;a href="https://wallstreetcn.com/articles/3780732"&gt;智谱发布港股上市后首份中期业绩&lt;/a&gt;后，随即召开“中期业绩发布会”以及面向分析师的“Call back深入交流会”。两场会议给出了财报之外的几个关键信息：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ARR指引首披露：&lt;/strong&gt;8月末ARR已达16亿美元，“Call back会”上首次给出年底&lt;strong&gt;24亿美元&lt;/strong&gt;官方指引；&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;量价同步爆发&lt;/strong&gt;：API&lt;strong&gt;均价提升约101%&lt;/strong&gt;的同时，token调用量较年初增长超&lt;strong&gt;40倍&lt;/strong&gt;；&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;毛利率目标&lt;/strong&gt;：董秘肖磊在“Call back会”上首次给出明确毛利率方向性指引，12-18个月内奔向&lt;strong&gt;50%&lt;/strong&gt;；&lt;/p&gt;
@@ -58,7 +58,30 @@
 &lt;p&gt;业绩发布会还披露了一个细节：GLM-5.3 Flash在正式发布前，以匿名模型“Ox-Alpha（牛来模型）”的身份上线OpenRouter和OpenCoder进行测试，“历史性的超大流量”——六天调用量超过&lt;strong&gt;62万亿token&lt;/strong&gt;，上线首日冲至OpenRouter榜首。&lt;/p&gt;
 &lt;p&gt;这次测试的另一层意义在于算力：GLM-5.3 Flash是&lt;strong&gt;“第一次在超大规模真实流量中全面使用国产芯片集群提供服务的模型”&lt;/strong&gt;。公司已实现&lt;strong&gt;10万卡级&lt;/strong&gt;国产芯片的规模化推理，单位token推理成本较年初下降&lt;strong&gt;80%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;智谱的董事长刘德斌在业绩发布会上说：“成本曲线已经开始掌握在我们自己手里。”&lt;/p&gt;
-&lt;p&gt;肖磊在问答环节补充，下一阶段的重点不是“国产卡能不能跑”，而是“怎么去验证国产卡的经济性”。他预计未来三到六个月，先进国产芯片厂商可能开始放量，异构并行计算环境有望显著改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普500站稳200日均线，9月可能躲过“最差月份”的大跌魔咒</title><link>https://wallstreetcn.com/articles/3780807</link><guid>29c56d2b99d003c473ccc3d62d5bc5fb77c73c560123700604cc2d3072a70598</guid><pubDate>Tue, 01 Sep 2026 06:43:17 GMT</pubDate><description>&lt;p&gt;美股牛市在技术面上迎来一道重要防线。历史数据显示，9月是标普500全年表现最差的月份，但当指数以高于200日均线的位置进入9月时，其下跌风险将大幅收窄——而这正是当前市场所处的状态。&lt;/p&gt;
+&lt;p&gt;肖磊在问答环节补充，下一阶段的重点不是“国产卡能不能跑”，而是“怎么去验证国产卡的经济性”。他预计未来三到六个月，先进国产芯片厂商可能开始放量，异构并行计算环境有望显著改善。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元连跌两月，美国财政部回购逼退投机多头，沃什鹰派仅换来一日反弹</title><link>https://wallstreetcn.com/articles/3780763</link><guid>83a27582278d29b935af657566c9aa0dabe211cd17440f81e45391649e113b28</guid><pubDate>Mon, 31 Aug 2026 20:53:30 GMT</pubDate><description>&lt;p&gt;在美联储重申抗通胀决心与美国财政部加速国债回购的政策信号交织下，美元8月延续跌势，录得连续第二个月下跌。&lt;/p&gt;
+&lt;p&gt;8月，美国财政部长贝森特初出人意料地宣布扩大国债回购计划，震动海外投资者，并重新点燃市场对美国政策意在引导美元走弱的猜测。&lt;/p&gt;
+&lt;p&gt;对冲基金、资管机构及其他投机者随之削减美元看涨头寸。周一，贝森特又公开表示，他与美联储主席沃什在债券问题上&amp;quot;步调一致&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这一系列信号压制了美元的反弹动能。尽管沃什上周五誓言将美国通胀率恢复至2%目标、推动美元单日大涨，但周一美元即回落0.2%；彭博美元现货指数8月累计下跌0.9%，延续7月1.3%的跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;交易员已加大对美联储今年加息的押注，市场对9月加息的定价概率超过50%。但富国银行策略师Erik Nelson警告，若美联储无法兑现市场已定价的加息幅度，美元弱势可能在9月延续。&lt;/p&gt;
+美国财政部回购引发多头平仓，干预主义主导美元定价
+&lt;p&gt;彭博美元现货指数8月下跌0.9%，延续7月1.3%的跌幅，今年前八个月中有五个月录得下跌，正创下2月以来最长连跌纪录。&lt;/p&gt;
+&lt;p&gt;颓势的核心催化剂来自美国财政部的债务管理操作。贝森特本月初宣布扩大政府债券回购计划，震动海外投资者，重新引发市场对美国政策旨在引导货币走弱的猜测。&lt;/p&gt;
+&lt;p&gt;Markets Live宏观策略师Tatiana Darie指出，&lt;strong&gt;沃什重申通胀目标缓解了市场对货币政策信誉的担忧，但贝森特的最新表态提醒投资者，其干预主义手段正给美元带来另一种维度的政策风险。&lt;/strong&gt;&lt;/p&gt;
+
+鹰派表态暂缓跌势，加息预期升温
+
+&lt;p&gt;沃什上周就通胀目标发表的强硬表态令美元短暂反弹，并推动市场重新为加息定价。交易员目前押注美联储9月加息的概率已升至50%以上。&lt;/p&gt;
+&lt;p&gt;富国银行策略师Erik Nelson认为，这一定价可能并不持久。他表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美联储在9月可能不会兑现市场已定价的加息预期，美元将在9月走弱。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;值得注意的是，沃什一贯不喜欢前瞻性指引，这意味着每一项经济数据都可能成为市场重新定价的触发点，美元指数一个月期隐含波动率在过去两个交易日已明显上升。&lt;/p&gt;
+政策信号交织，非农数据成关键变量
+&lt;p&gt;在美联储与财政部政策信号相互交织的格局下，市场对宏观数据的敏感度正急剧上升。&lt;/p&gt;
+&lt;p&gt;本周焦点转向周五发布的美国非农就业报告。由于沃什表现出对前瞻指引的厌恶，每一个即将公布的数据点都更加重要，并可能成为市场催化剂。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国银行外汇策略师Alex Cohen表示，美国8月数据将是关键，疲软的就业与通胀可以抑制加息，但任何上行意外都将为美联储带来又一次重大信誉考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周五的非农就业报告，将是检验美元后续走势的第一个关键时点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普500站稳200日均线，9月可能躲过“最差月份”的大跌魔咒</title><link>https://wallstreetcn.com/articles/3780807</link><guid>29c56d2b99d003c473ccc3d62d5bc5fb77c73c560123700604cc2d3072a70598</guid><pubDate>Tue, 01 Sep 2026 06:43:17 GMT</pubDate><description>&lt;p&gt;美股牛市在技术面上迎来一道重要防线。历史数据显示，9月是标普500全年表现最差的月份，但当指数以高于200日均线的位置进入9月时，其下跌风险将大幅收窄——而这正是当前市场所处的状态。&lt;/p&gt;
 &lt;p&gt;奥本海默公司（Oppenheimer &amp;amp; Co.）在上周末的研究报告中指出，&amp;quot;9月份最糟糕的回报，往往发生在标普500以低于200日均线的位置开始这个月的情况下，而目前并非如此。&amp;quot;周一，标普500指数收于7,686.14点，尽管当日下跌0.3%，但仍远高于7,122.92点的200日移动均线。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;奥本海默技术分析主管Ari Wald在周一接受采访时表示，&lt;strong&gt;指数近期的上行趋势令其处于相对有利的位置，美股目前并未出现&amp;quot;重大破位&amp;quot;迹象，这至少有助于指数在9月避免&amp;quot;大幅下跌的极端情形&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
@@ -83,30 +106,7 @@
 
 &lt;p&gt;随着标普500成份股二季度财报季接近尾声，市场关注焦点将在9月转向宏观层面。Natixis Investment Managers多资产组合经理Jack Janasiewicz在周一的采访中表示，&lt;strong&gt;投资者将密切关注通胀数据，因为通胀仍处于高位，使得美联储加息的可能性尚未完全排除。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;地缘政治风险同样不容忽视。周一美股普跌，标普500、道琼斯工业平均指数及纳斯达克综合指数均收低，原因之一是中东局势升温推动油价上涨。据悉，美国与伊朗在上周末发生交火，这是该冲突逾一个月以来首次出现较为重大的军事行动。&lt;/p&gt;
-&lt;p&gt;Colas指出，从当前至2027年1月底的100个交易日，市场将横跨&amp;quot;历来波动剧烈的9月&amp;quot;与季节性较强的四季度，这两种特征交织叠加，将使这一阶段成为市场需要审慎应对的关键窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元连跌两月，美国财政部回购逼退投机多头，沃什鹰派仅换来一日反弹</title><link>https://wallstreetcn.com/articles/3780763</link><guid>83a27582278d29b935af657566c9aa0dabe211cd17440f81e45391649e113b28</guid><pubDate>Mon, 31 Aug 2026 20:53:30 GMT</pubDate><description>&lt;p&gt;在美联储重申抗通胀决心与美国财政部加速国债回购的政策信号交织下，美元8月延续跌势，录得连续第二个月下跌。&lt;/p&gt;
-&lt;p&gt;8月，美国财政部长贝森特初出人意料地宣布扩大国债回购计划，震动海外投资者，并重新点燃市场对美国政策意在引导美元走弱的猜测。&lt;/p&gt;
-&lt;p&gt;对冲基金、资管机构及其他投机者随之削减美元看涨头寸。周一，贝森特又公开表示，他与美联储主席沃什在债券问题上&amp;quot;步调一致&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这一系列信号压制了美元的反弹动能。尽管沃什上周五誓言将美国通胀率恢复至2%目标、推动美元单日大涨，但周一美元即回落0.2%；彭博美元现货指数8月累计下跌0.9%，延续7月1.3%的跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;交易员已加大对美联储今年加息的押注，市场对9月加息的定价概率超过50%。但富国银行策略师Erik Nelson警告，若美联储无法兑现市场已定价的加息幅度，美元弱势可能在9月延续。&lt;/p&gt;
-美国财政部回购引发多头平仓，干预主义主导美元定价
-&lt;p&gt;彭博美元现货指数8月下跌0.9%，延续7月1.3%的跌幅，今年前八个月中有五个月录得下跌，正创下2月以来最长连跌纪录。&lt;/p&gt;
-&lt;p&gt;颓势的核心催化剂来自美国财政部的债务管理操作。贝森特本月初宣布扩大政府债券回购计划，震动海外投资者，重新引发市场对美国政策旨在引导货币走弱的猜测。&lt;/p&gt;
-&lt;p&gt;Markets Live宏观策略师Tatiana Darie指出，&lt;strong&gt;沃什重申通胀目标缓解了市场对货币政策信誉的担忧，但贝森特的最新表态提醒投资者，其干预主义手段正给美元带来另一种维度的政策风险。&lt;/strong&gt;&lt;/p&gt;
-
-鹰派表态暂缓跌势，加息预期升温
-
-&lt;p&gt;沃什上周就通胀目标发表的强硬表态令美元短暂反弹，并推动市场重新为加息定价。交易员目前押注美联储9月加息的概率已升至50%以上。&lt;/p&gt;
-&lt;p&gt;富国银行策略师Erik Nelson认为，这一定价可能并不持久。他表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美联储在9月可能不会兑现市场已定价的加息预期，美元将在9月走弱。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;值得注意的是，沃什一贯不喜欢前瞻性指引，这意味着每一项经济数据都可能成为市场重新定价的触发点，美元指数一个月期隐含波动率在过去两个交易日已明显上升。&lt;/p&gt;
-政策信号交织，非农数据成关键变量
-&lt;p&gt;在美联储与财政部政策信号相互交织的格局下，市场对宏观数据的敏感度正急剧上升。&lt;/p&gt;
-&lt;p&gt;本周焦点转向周五发布的美国非农就业报告。由于沃什表现出对前瞻指引的厌恶，每一个即将公布的数据点都更加重要，并可能成为市场催化剂。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美国银行外汇策略师Alex Cohen表示，美国8月数据将是关键，疲软的就业与通胀可以抑制加息，但任何上行意外都将为美联储带来又一次重大信誉考验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周五的非农就业报告，将是检验美元后续走势的第一个关键时点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国AI模型监测：升级加速、用量猛增，云端进入新一轮上行周期</title><link>https://wallstreetcn.com/articles/3780788</link><guid>28726b6738aadd407589573a3ec076db7d01e9aea989d9eb1759cfd581c7138d</guid><pubDate>Tue, 01 Sep 2026 02:57:50 GMT</pubDate><description>&lt;p&gt;中国AI模型市场正在经历一轮密集的技术迭代与用量爆发，并由此推动云计算基础设施投资进入新的扩张周期。&lt;/p&gt;
+&lt;p&gt;Colas指出，从当前至2027年1月底的100个交易日，市场将横跨&amp;quot;历来波动剧烈的9月&amp;quot;与季节性较强的四季度，这两种特征交织叠加，将使这一阶段成为市场需要审慎应对的关键窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国AI模型监测：升级加速、用量猛增，云端进入新一轮上行周期</title><link>https://wallstreetcn.com/articles/3780788</link><guid>28726b6738aadd407589573a3ec076db7d01e9aea989d9eb1759cfd581c7138d</guid><pubDate>Tue, 01 Sep 2026 02:57:50 GMT</pubDate><description>&lt;p&gt;中国AI模型市场正在经历一轮密集的技术迭代与用量爆发，并由此推动云计算基础设施投资进入新的扩张周期。&lt;/p&gt;
 &lt;p&gt;据追风交易台，美银美林最新发布的中国AI模型月度监测报告显示，&lt;strong&gt;8月份模型快速升级、算力需求趋紧、云端资本开支大幅攀升三条主线同步演进，共同勾勒出中国AI产业从模型竞争向商业变现加速跃迁的图景。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在最新动态方面，腾讯、阿里巴巴等云端巨头与DeepSeek、智谱等独立AI实验室均在8月密集推出新版模型，部分厂商同步上调token定价。与此同时，腾讯与阿里巴巴二季度资本开支分别达到人民币530亿元和680亿元，云收入增速亦显著提速——腾讯同比增长约20%出头，阿里巴巴则达到45%。&lt;/p&gt;
 &lt;p&gt;美银美林预计，中国头部四大云平台合计资本开支将在2026年和2027年分别同比增长98%和44%。过去30天内，市场对腾讯和阿里巴巴未来12个月资本开支的一致预期分别上调了25%和29%，云业务上行空间正在被市场重新定价。&lt;/p&gt;
