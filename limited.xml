@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 01:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 戴尔电话会：“缺的就是DRAM、DRAM、DRAM！” ，AI积压订单逼近千亿，全年指引大幅上调</title><link>https://wallstreetcn.com/articles/3780870</link><guid>0117ed0abd5203c8d89f79602823feaf07ac7022b20b1ebecb07b04ba835ca9f</guid><pubDate>Wed, 02 Sep 2026 01:51:00 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 02:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 戴尔电话会：“缺的就是DRAM、DRAM、DRAM！” ，AI积压订单逼近千亿，全年指引大幅上调</title><link>https://wallstreetcn.com/articles/3780870</link><guid>0117ed0abd5203c8d89f79602823feaf07ac7022b20b1ebecb07b04ba835ca9f</guid><pubDate>Wed, 02 Sep 2026 01:51:00 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;戴尔2027财年第二季度业绩全面爆发，AI服务器订单创下历史新高，强劲的落地需求促使公司大幅上调全年营收指引，并揭示了当前AI供应链面临的极限施压状态。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3780858"&gt;华尔街见闻提及&lt;/a&gt;，9月1日美股盘后，戴尔公布截至7月31日的2027财年第二季度业绩。&lt;strong&gt;公司当季营收达到470亿美元，同比增长58%，创历史新高，高于市场预期的448亿美元；按非GAAP口径计算，每股收益为7.04美元，同比增长203%，远高于市场预期的4.90美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;基于强劲业绩，戴尔将全年营收指引上调250亿美元至1920亿美元中值，同比增幅约70%；全年摊薄每股收益预期提升至25.50美元，同比涨幅约150%。第三财季营收指引中值为490亿美元，同比增幅约80%。&lt;/p&gt;
@@ -255,24 +255,7 @@ AI叙事仍是主线
 &lt;p&gt;&lt;strong&gt;其次，软件股整体仍面临估值压力。&lt;/strong&gt;2026年以来，软件板块表现承压，投资者更加关注利润率、现金流和增长确定性，而不是单纯追逐收入扩张。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第三，Atlas增速前景仍是争议焦点。虽然本季度Atlas收入同比增长28.9%，但公司此前对全年Atlas增速的指引区间为21%至23%，意味着未来可能出现一定正常化。对于依赖Atlas叙事的MongoDB而言，这一潜在放缓足以影响估值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后，AI基础设施投资正在向算力、服务器和芯片等环节集中。&lt;/strong&gt;比如近期戴尔业绩受AI服务器需求推动而超预期，显示企业AI支出正在快速增长。但MongoDB所处的数据软件层能否同步捕捉预算，仍需要更多季度数据验证。&lt;/p&gt;
-&lt;p&gt;市场正在重新评估：AI支出究竟会多大比例流向数据库和开发者平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CEO称万亿“安全债”亟待偿还，Palo Alto业绩超预期</title><link>https://wallstreetcn.com/articles/3780871</link><guid>c38d4ff5201b3504bd23dbf5baf8a4bbda67f48a7583111361de2f84e4a17f64</guid><pubDate>Wed, 02 Sep 2026 01:26:10 GMT</pubDate><description>&lt;p&gt;人工智能加速网络攻击自动化，正推动企业重估安全投入。Palo Alto Networks给出的年度盈利和季度营收展望均超过市场预期，显示AI相关防御需求已开始转化为订单动能。&lt;/p&gt;
-&lt;p&gt;网络安全公司Palo Alto Networks周二发布2026财年第四季度及全年业绩，全年调整后每股盈利指引为4.16至4.19美元，高于分析师平均预期的4.11美元。与此同时，公司第一财季营收指引区间为33亿至33.1亿美元，同样超出分析师预期的32.1亿美元。&lt;/p&gt;
-&lt;p&gt;首席执行官Nikesh Arora在财报电话会上表示，AI领域的最新进展正将网络安全推至企业CIO优先级列表的首位，将成为“持久的顺风”。&lt;strong&gt;他同时表示，全球约1万亿美元的网络安全基础设施尚未做好应对AI威胁的准备，这一缺口将为行业带来长期增长空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;受业绩发布影响，Palo Alto Networks盘后股价一度上涨逾6%，但随后转跌约2%收场。该股今年以来截至周二收盘已累计上涨近一倍，自4月7日以来涨幅达113%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-业绩超预期，毛利率收窄成隐忧
-&lt;p&gt;Palo Alto Networks第四财季整体表现稳健，下一代安全年度经常性收入同样高于市场预期。然而，毛利率出现收窄——第四季度总毛利率降至74.8%，低于全财年的75.8%。&lt;/p&gt;
-&lt;p&gt;首席财务官Dipak Golechha将此归因于公司向软件即服务（SaaS）模式的战略转型，&lt;strong&gt;并表示这一转变将在2027财年推动云托管成本增速超过总营收增速。&lt;/strong&gt;这一表态或是盘后股价由涨转跌的重要原因之一。&lt;/p&gt;
-&lt;p&gt;公司还于同日宣布完成对Console的收购，该公司专注于帮助企业构建可自动化内部IT任务的AI代理。&lt;/p&gt;
-万亿美元“网络安全债务”待偿
-&lt;p&gt;Arora在财报电话会及接受CNBC采访时均着重强调了AI对网络安全需求的结构性提振。他表示，&lt;strong&gt;&amp;quot;七到十年前部署的任何系统都没有准备好以机器速度应对AI威胁&amp;quot;，企业必须重新思考其网络安全架构。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;全球约有1万亿美元的网络安全债务亟待现代化改造，以抵御以即时速度运行的自动化威胁，&amp;quot;Arora在电话会上表示。&lt;/p&gt;
-&lt;p&gt;他将Anthropic今年早些时候推出的Mythos模型视为行业认知的转折点。该模型因可被轻易用于利用软件漏洞而引发广泛关注，促使企业加速重视网络安全投入。Arora表示，Palo Alto已就其&amp;quot;Frontier AI Critical Defense Program&amp;quot;与约2000家企业展开对话，该项目于今年8月正式推出，旨在利用先进AI模型测试客户防御能力、识别漏洞并协助推进基础设施现代化。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Arora同时提示投资者保持耐心——&amp;quot;并非所有事情都会在下个季度发生&amp;quot;，但他强调，AI从根本上扩大了网络安全行业的机遇规模与持续时长，&amp;quot;这改变的不仅是Palo Alto，而是整个行业的长期增长率和持续时间&amp;quot;。&lt;/p&gt;
-AI威胁升级，同业普遍受益
-&lt;p&gt;Palo Alto的强劲表现并非孤例，整个网络安全行业正受益于AI驱动的安全需求升温。CrowdStrike Holdings上周发布的第三季度业绩指引超出分析师预期，Okta则二度上调全年营收展望，并录得历史最高积压订单。&lt;/p&gt;
-&lt;p&gt;AI模型的攻击能力持续引发市场警觉。Anthropic、OpenAI及Meta Platforms近期相继披露，其模型在测试期间曾突破测试环境、访问公开互联网并入侵真实目标。这些事件进一步强化了企业对AI安全防御的紧迫感，也为Palo Alto等网络安全厂商提供了更为清晰的需求叙事。&lt;/p&gt;
-&lt;p&gt;Arora对此不无自嘲：&amp;quot;九个月前，我们被认定为濒死，因为AI将吞噬我们的一切。现在看来并非如此——我们将与AI共享这场盛宴。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫</title><link>https://wallstreetcn.com/articles/3780783</link><guid>22cfbe9db9056c23777f8d07eec7d447adc5bf309bce3cbd5d2706ea48edd472</guid><pubDate>Tue, 01 Sep 2026 23:28:59 GMT</pubDate><description>&lt;p&gt;美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。&lt;/p&gt;
+&lt;p&gt;市场正在重新评估：AI支出究竟会多大比例流向数据库和开发者平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫</title><link>https://wallstreetcn.com/articles/3780783</link><guid>22cfbe9db9056c23777f8d07eec7d447adc5bf309bce3cbd5d2706ea48edd472</guid><pubDate>Tue, 01 Sep 2026 23:28:59 GMT</pubDate><description>&lt;p&gt;美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美伊冲突升级，三大美股指三连阴，纳指跌1%。戴尔全年指引超预期大幅上调，Q2营收创历史新高，AI服务器需求爆发，盘后一度涨超10%。&lt;/p&gt;
 &lt;p&gt;WTI原油结算价涨5.2%报90.22美元/桶，是7月23日以来的最高收盘；布伦特涨4.6%报94.65美元/桶。成品油市场的反应比原油还要剧烈。&lt;/p&gt;
@@ -577,7 +560,24 @@ AI威胁升级，同业普遍受益
 &lt;p&gt;本次电话会议到此结束。您现在可以挂断电话。&lt;/p&gt;
 &lt;p&gt;谢谢。&lt;/p&gt;
 &lt;p&gt;活动已结束。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从百亿市值到廉价卖身！GoPro将以2.85亿美元卖身光模块公司Starman</title><link>https://wallstreetcn.com/articles/3780864</link><guid>08afddafd6bf42fabb13df79567979fb979540d812787b1a8b792a93bba2ff7a</guid><pubDate>Wed, 02 Sep 2026 00:38:53 GMT</pubDate><description>&lt;p&gt;运动相机先驱GoPro与光学硬件公司Starman Optical达成2.85亿美元现金收购协议，结束了这家公司自2014年上市以来长达十年的持续衰退。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CEO称万亿“安全债”亟待偿还，Palo Alto业绩超预期</title><link>https://wallstreetcn.com/articles/3780871</link><guid>c38d4ff5201b3504bd23dbf5baf8a4bbda67f48a7583111361de2f84e4a17f64</guid><pubDate>Wed, 02 Sep 2026 01:26:10 GMT</pubDate><description>&lt;p&gt;人工智能加速网络攻击自动化，正推动企业重估安全投入。Palo Alto Networks给出的年度盈利和季度营收展望均超过市场预期，显示AI相关防御需求已开始转化为订单动能。&lt;/p&gt;
+&lt;p&gt;网络安全公司Palo Alto Networks周二发布2026财年第四季度及全年业绩，全年调整后每股盈利指引为4.16至4.19美元，高于分析师平均预期的4.11美元。与此同时，公司第一财季营收指引区间为33亿至33.1亿美元，同样超出分析师预期的32.1亿美元。&lt;/p&gt;
+&lt;p&gt;首席执行官Nikesh Arora在财报电话会上表示，AI领域的最新进展正将网络安全推至企业CIO优先级列表的首位，将成为“持久的顺风”。&lt;strong&gt;他同时表示，全球约1万亿美元的网络安全基础设施尚未做好应对AI威胁的准备，这一缺口将为行业带来长期增长空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;受业绩发布影响，Palo Alto Networks盘后股价一度上涨逾6%，但随后转跌约2%收场。该股今年以来截至周二收盘已累计上涨近一倍，自4月7日以来涨幅达113%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+业绩超预期，毛利率收窄成隐忧
+&lt;p&gt;Palo Alto Networks第四财季整体表现稳健，下一代安全年度经常性收入同样高于市场预期。然而，毛利率出现收窄——第四季度总毛利率降至74.8%，低于全财年的75.8%。&lt;/p&gt;
+&lt;p&gt;首席财务官Dipak Golechha将此归因于公司向软件即服务（SaaS）模式的战略转型，&lt;strong&gt;并表示这一转变将在2027财年推动云托管成本增速超过总营收增速。&lt;/strong&gt;这一表态或是盘后股价由涨转跌的重要原因之一。&lt;/p&gt;
+&lt;p&gt;公司还于同日宣布完成对Console的收购，该公司专注于帮助企业构建可自动化内部IT任务的AI代理。&lt;/p&gt;
+万亿美元“网络安全债务”待偿
+&lt;p&gt;Arora在财报电话会及接受CNBC采访时均着重强调了AI对网络安全需求的结构性提振。他表示，&lt;strong&gt;&amp;quot;七到十年前部署的任何系统都没有准备好以机器速度应对AI威胁&amp;quot;，企业必须重新思考其网络安全架构。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;全球约有1万亿美元的网络安全债务亟待现代化改造，以抵御以即时速度运行的自动化威胁，&amp;quot;Arora在电话会上表示。&lt;/p&gt;
+&lt;p&gt;他将Anthropic今年早些时候推出的Mythos模型视为行业认知的转折点。该模型因可被轻易用于利用软件漏洞而引发广泛关注，促使企业加速重视网络安全投入。Arora表示，Palo Alto已就其&amp;quot;Frontier AI Critical Defense Program&amp;quot;与约2000家企业展开对话，该项目于今年8月正式推出，旨在利用先进AI模型测试客户防御能力、识别漏洞并协助推进基础设施现代化。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Arora同时提示投资者保持耐心——&amp;quot;并非所有事情都会在下个季度发生&amp;quot;，但他强调，AI从根本上扩大了网络安全行业的机遇规模与持续时长，&amp;quot;这改变的不仅是Palo Alto，而是整个行业的长期增长率和持续时间&amp;quot;。&lt;/p&gt;
+AI威胁升级，同业普遍受益
+&lt;p&gt;Palo Alto的强劲表现并非孤例，整个网络安全行业正受益于AI驱动的安全需求升温。CrowdStrike Holdings上周发布的第三季度业绩指引超出分析师预期，Okta则二度上调全年营收展望，并录得历史最高积压订单。&lt;/p&gt;
+&lt;p&gt;AI模型的攻击能力持续引发市场警觉。Anthropic、OpenAI及Meta Platforms近期相继披露，其模型在测试期间曾突破测试环境、访问公开互联网并入侵真实目标。这些事件进一步强化了企业对AI安全防御的紧迫感，也为Palo Alto等网络安全厂商提供了更为清晰的需求叙事。&lt;/p&gt;
+&lt;p&gt;Arora对此不无自嘲：&amp;quot;九个月前，我们被认定为濒死，因为AI将吞噬我们的一切。现在看来并非如此——我们将与AI共享这场盛宴。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从百亿市值到廉价卖身！GoPro将以2.85亿美元卖身光模块公司Starman</title><link>https://wallstreetcn.com/articles/3780864</link><guid>08afddafd6bf42fabb13df79567979fb979540d812787b1a8b792a93bba2ff7a</guid><pubDate>Wed, 02 Sep 2026 00:38:53 GMT</pubDate><description>&lt;p&gt;运动相机先驱GoPro与光学硬件公司Starman Optical达成2.85亿美元现金收购协议，结束了这家公司自2014年上市以来长达十年的持续衰退。&lt;/p&gt;
 &lt;p&gt;9月1日，GoPro宣布，已与光学收发器制造商Starman Optical签署合并协议，&lt;strong&gt;GoPro股东将获得每股1.14美元的现金收购价，&lt;/strong&gt;&lt;strong&gt;较周一收盘价溢价约30%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GoPro创始人兼首席执行官Nicholas Woodman表示，&lt;strong&gt;此次合并将推动GoPro在消费、商业和国防市场实现增长，成为&amp;quot;一家领先的美国成像与光学解决方案公司&amp;quot;，并涉及摄像头、光学器件和人工智能基础设施等国家安全领域。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;收购完成后，GoPro将保持上市公司地位，同时偿还全部9200万美元未偿债务。&lt;/strong&gt;受此消息提振，GoPro股价一度暴涨80%，随后涨幅回落，收盘仍涨逾40%。&lt;/p&gt;
