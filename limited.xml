@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 16:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 戴尔增长逻辑变了！高盛：AI驱动企业换机，传统服务器需求超预期爆发！</title><link>https://wallstreetcn.com/articles/3780902</link><guid>59cd3d1c39ae1da04fb56b9f0e5ec976986ef7cd9676aa80cf5f7680d22ae497</guid><pubDate>Wed, 02 Sep 2026 08:49:07 GMT</pubDate><description>&lt;p&gt;AI需求与企业IT硬件换机潮的双轮驱动，正在重塑戴尔的增长曲线。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 17:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，网安模型瞄准自动修复</title><link>https://wallstreetcn.com/articles/3780934</link><guid>d90eb751809f104f7f59e985806a414b828850dfa223487212be04772f7d9443</guid><pubDate>Wed, 02 Sep 2026 16:47:05 GMT</pubDate><description>&lt;p&gt;谷歌又一次加快了Gemini模型的迭代速度。&lt;/p&gt;
+&lt;p&gt;美东时间9月2日周三，谷歌宣布推出Gemini 3.8 Flash和Gemini 3.8 Flash Cyber两款新模型，分别瞄准长周期编程、智能体工作流与复杂推理，以及网络安全漏洞发现和自动修复。谷歌称，Gemini 3.8是其迄今“最强的推理和编程模型”，两款模型均通过长时间运行的智能体循环，不断评估和优化任务执行结果。&lt;/p&gt;
+&lt;p&gt;距离上一代Gemini 3.7 Flash发布仅过去三周，谷歌就再次推出新版本。谷歌表示，此次是其&lt;strong&gt;六周内第三次发布Flash模型&lt;/strong&gt;；独立AI基准测试机构Artificial Analysis则指出，3.8 Flash已是谷歌不到四个月内推出的第四款Flash模型。&lt;/p&gt;
+&lt;p&gt;在性能提升的同时，谷歌继续维持低价策略：Gemini 3.8 Flash的引导价格与3.7 Flash相同，为每百万输入Token 0.75美元、每百万输出Token 3.75美元，优惠持续至今年年底。Artificial Analysis评测显示，3.8 Flash高推理档在其综合智能指数中获得59分，较3.7 Flash提高3分，并以每项任务约0.58美元的成本进入“智能程度—任务成本”性价比前沿。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+从长周期编程到自主智能体，3.8 Flash更强调“把事做完”
+&lt;p&gt;Gemini 3.8 Flash此次的核心升级，是从单次代码生成进一步转向长周期的软件工程和自主智能体。&lt;/p&gt;
+&lt;p&gt;谷歌表示，3.8 Flash在DeepSWE v1.1长周期软件工程测试中，能够自主解决复杂工程问题并完成端到端任务，表现超过多数规模更大的前沿模型。与此同时，新模型在金融、法律等专业领域的智能体测试中也有所提升，在HLE-Verified测试中的得分达到54.9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这背后的关键变化，是谷歌让模型“做得更多”。&lt;/p&gt;
+&lt;p&gt;谷歌称，3.8 Flash在复杂任务上会执行更多推理步骤，并反复调用工具；模型还可以通过长时间运行的智能体循环，对自身结果进行评估和优化。也就是说，相比简单地给出一段代码或一个答案，3.8 Flash更强调规划、执行、检查和修正这一完整过程。&lt;/p&gt;
+&lt;p&gt;谷歌展示的案例也更加接近实际生产环境，包括通过Antigravity仅凭一个提示生成可运行的3D游戏、生成能够运行的DOS版Google Maps，以及在AI Studio中生成硬件拆解的交互式3D可视化工具。&lt;/p&gt;
+&lt;p&gt;这也意味着，Flash系列的定位正在发生变化：它不再只是一个追求速度和低成本的“小模型”，而是逐渐成为谷歌推动AI智能体落地的重要底层模型。&lt;/p&gt;
+独立评测：智能指数升至59分，但“多做事”也意味着更高Token消耗
+&lt;p&gt;Artificial Analysis的独立测试进一步印证了3.8 Flash的能力提升。&lt;/p&gt;
+&lt;p&gt;该机构数据显示，Gemini 3.8 Flash高推理档的Artificial Analysis Intelligence Index得分为59分，比3.7 Flash的56分高3分；中推理档得分57分，低推理档则为52分。高推理档的输出速度约为305 Token/秒，位居其评测模型前列。&lt;/p&gt;
+&lt;p&gt;不过，性能提升并非完全没有代价。&lt;/p&gt;
+&lt;p&gt;Artificial Analysis指出，虽然谷歌维持了3.7 Flash的Token价格，但3.8 Flash高推理档每项任务的实际成本约为0.58美元，较3.7 Flash的0.40美元高约40%。原因在于，新模型平均每项任务的输出Token数量增加约30%，同时智能体评测中的交互轮数也有所增加。&lt;/p&gt;
+&lt;p&gt;换句话说，&lt;strong&gt;单价没有上涨，但模型为了完成更复杂的任务“思考得更多、调用得更多”，实际使用成本反而有所增加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也解释了谷歌为什么同时保留不同推理档位。Artificial Analysis数据显示，3.8 Flash中推理档每项任务成本约0.41美元，低推理档约0.24美元。对于追求成本效率的应用，开发者可以降低推理强度，或者继续使用3.7 Flash。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+3.8 Flash Cyber瞄准网络安全：漏洞发现与自动打补丁
+&lt;p&gt;与通用版3.8 Flash同步发布的，是专门面向网络安全领域的Gemini 3.8 Flash Cyber。&lt;/p&gt;
+&lt;p&gt;谷歌称，新模型具备“前沿水平”的漏洞发现和自动修复能力，并重点强化了防御侧应用。其在CyberGym行业基准中的漏洞自主发现表现超过Gemini 3.5 Flash Cyber以及规模明显更大的前沿模型。&lt;/p&gt;
+&lt;p&gt;在谷歌内部覆盖20种编程语言的真实漏洞测试中，3.8 Flash Cyber的成功率超过70%；在CWE-Bench自动补丁测试中，pass@1达到47.2%，接近领先前沿模型的47.8%，但成本明显更低。&lt;/p&gt;
+&lt;p&gt;谷歌还公布了几个实际应用案例。&lt;/p&gt;
+&lt;p&gt;Chrome安全团队发现，3.8 Flash Cyber生成的正确漏洞补丁数量，是规模更大的商业模型的2.6倍；网络安全公司Wiz的内部渗透测试显示，该模型的召回率比其他前沿模型高7.5至9.7%，成本则低2.3至5.2倍。&lt;/p&gt;
+&lt;p&gt;谷歌云漏洞研究团队甚至利用该模型在不到两小时内发现了一项关键基础设施漏洞，而谷歌称这类漏洞过去通常需要数月才能完成研究和发现。&lt;/p&gt;
+Fairwind计划启动，650多家机构获网络安全AI“优先通道”
+&lt;p&gt;伴随Gemini 3.8 Flash Cyber发布，谷歌还推出了Fairwind计划，将网络安全AI进一步推向政府、关键基础设施和大型企业。&lt;/p&gt;
+&lt;p&gt;根据谷歌公告，Fairwind是一个限制访问的项目，面向政府机构以及可信赖的云客户和网络安全合作伙伴开放。参与者可以使用Gemini 3.8 Flash Cyber，并结合谷歌的CodeMender工具，实现漏洞发现、验证和自动修复。&lt;/p&gt;
+&lt;p&gt;谷歌表示，参与机构需要将模型访问权限限制在内部网络安全、事件响应或渗透测试团队，并部署多因素身份验证等安全措施。目前Fairwind已经拥有&lt;strong&gt;超过650家全球合作伙伴&lt;/strong&gt;，覆盖政府、关键基础设施以及核心技术平台。&lt;/p&gt;
+&lt;p&gt;这意味着谷歌此次并不只是发布一个网络安全模型，而是在尝试建立一个面向防御方的AI安全生态。&lt;/p&gt;
+&lt;p&gt;尤其值得注意的是，谷歌强调Fairwind将首先为政府和对社会韧性至关重要的企业提供访问权限，包括医疗、电信、能源和金融等关键基础设施运营商，以及维护广泛软件基础设施的技术平台。&lt;/p&gt;
+Flash高频迭代，谷歌押注“更便宜的智能体”落地
+&lt;p&gt;从3.6 Flash到3.7 Flash，再到如今的3.8 Flash，谷歌正在明显加快Flash系列的更新节奏。&lt;/p&gt;
+&lt;p&gt;而与早期Flash模型强调“快”和“便宜”相比，如今的3.8 Flash更加突出长周期推理、工具调用、软件工程和自主智能体能力。谷歌试图证明的是：&lt;strong&gt;不一定需要最大规模的模型，才能完成越来越复杂的真实工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;价格则成为谷歌扩大这一战略的重要杠杆。&lt;/p&gt;
+&lt;p&gt;3.8 Flash继续维持每百万输入Token 0.75美元、输出Token 3.75美元的年底前引导价格，同时提供1M Token上下文窗口，并支持文本、图像、语音和视频输入。消费者可以通过谷歌AI Pro和Ultra订阅使用，开发者则可以通过Antigravity、谷歌AI Studio和Android Studio调用，企业用户可通过Gemini Enterprise使用。&lt;/p&gt;
+&lt;p&gt;对于谷歌而言，这种策略的意义在于：在AI竞争从“谁的模型最强”逐渐转向“谁能让智能体以合理成本完成更多实际任务”的过程中，Flash系列可以凭借成本和速度优势抢占更大规模的应用入口。&lt;/p&gt;
+&lt;p&gt;而此次同时推出通用智能体模型和网络安全专用模型，也显示谷歌正在把Gemini的竞争重点从单纯的聊天和问答，进一步推向&lt;strong&gt;编程、企业工作流以及能够直接创造经济价值的AI执行任务&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔增长逻辑变了！高盛：AI驱动企业换机，传统服务器需求超预期爆发！</title><link>https://wallstreetcn.com/articles/3780902</link><guid>59cd3d1c39ae1da04fb56b9f0e5ec976986ef7cd9676aa80cf5f7680d22ae497</guid><pubDate>Wed, 02 Sep 2026 08:49:07 GMT</pubDate><description>&lt;p&gt;AI需求与企业IT硬件换机潮的双轮驱动，正在重塑戴尔的增长曲线。&lt;/p&gt;
 &lt;p&gt;戴尔2027财年第二季度（F2Q27）业绩全面超预期。公司Non-GAAP每股收益达7.04美元，大幅超越高盛预估的4.96美元、市场共识的4.92美元及公司自身指引区间4.70至4.90美元。收入达470亿美元，同样超出高盛预估的448亿美元及指引上限450亿美元。值得关注的是，公司同步大幅上调全年展望，将FY27传统服务器收入增速指引从&amp;quot;超过60%&amp;quot;提升至&amp;quot;超过100%&amp;quot;，存储业务增速预期从中低个位数上调至中双位数。&lt;/p&gt;
 &lt;p&gt;高盛评论认为，企业IT硬件的持续换机需求与AI相关基础设施投入的叠加，为戴尔提供了差异化的长期增长支撑。分析师维持戴尔买入评级，并将12个月目标价从510美元上调至570美元，同时将FY27至FY29三年平均每股收益预测上调38%。高盛认为，&lt;/p&gt;
 
@@ -313,27 +354,4 @@ AI热潮进入回报验证期
 
 &lt;p&gt;在日元持续承压的背景下，据报道高市政府对日本央行最快于9月采取加息行动持支持态度。&lt;/p&gt;
 &lt;p&gt;美国财政部长斯科特·贝森特则表示，他预期日本央行行长植田和男将在货币政策上&amp;quot;做出正确决定&amp;quot;。&lt;/p&gt;
-&lt;p&gt;他同时将近期日元波动定性为&amp;quot;相当可控&amp;quot;，并为美方参与支撑日元的立场进行辩护，指出日元若出现极端波动，可能会传导至美国利率上行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 道指五个月来首次跌破50日均线，技术面发出警示信号</title><link>https://wallstreetcn.com/articles/3780891</link><guid>0a6d22e6530f0314c8ae5ed22735ccedd38612062b3282c619b58ec855c4f989</guid><pubDate>Wed, 02 Sep 2026 06:44:51 GMT</pubDate><description>&lt;p&gt;道琼斯工业平均指数周二跌破关键技术支撑位，释放出市场趋势可能发生逆转的警示信号，近期股市疲软已不再只是普通波动。&lt;/p&gt;
-&lt;p&gt;道指当日收跌0.8%，报52766.88点，为近五个月来首次收于50日移动均线下方——根据FactSet数据，该均线当日位于52849.85点。与此同时，标普500指数和纳斯达克综合指数亦双双走低，均仅勉强守在各自50日均线上方不足1%的位置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场分析人士警告，50日均线一旦被有效跌破，往往意味着短期趋势由升转跌，可能引发技术性卖盘进一步放大跌势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此轮下跌背后，中东局势升温推高油价、顽固通胀施压消费者，加之美国国债规模持续膨胀共同推动长期美债收益率走高，多重压力叠加令市场承压。10年期美债收益率目前报4.809%，部分分析人士已警告5%关口或将再度被触及，这对利率敏感的科技板块尤为不利。&lt;/p&gt;
-
-50日均线失守，技术信号转向
-
-&lt;p&gt;50日移动均线是市场广泛用于追踪股票或指数短期趋势的技术工具。当某一标的在长期运行于该均线上方后出现跌破，通常被视为趋势由涨转跌的预警。&lt;/p&gt;
-&lt;p&gt;JonesTrading首席市场策略师Mike O&amp;#x27;Rourke指出，&lt;strong&gt;当50日均线等被市场广泛关注的移动均线被打破时，&amp;quot;可能会看到沿突破方向的短期动能，因为部分技术交易者和量化交易模型&amp;quot;会顺势押注趋势延续。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;道指此前自4月11日起便持续收于50日均线上方，该支撑线在6月和7月的两次回调中均经受住了考验。7月29日那次尤为惊险——道指当日收盘仅比50日均线高出不足2点，但正是这一守住反而确认了该均线的支撑有效性。此后道指在5个交易日内大涨2291点，累计上涨4.4%，并于8月5日创下54349.12点的历史收盘纪录。&lt;/p&gt;
-&lt;p&gt;道指上一次收于50日均线下方是在4月10日，而那正是一轮调整行情接近尾声之际。截至周二收盘，道指较历史高点仅低2.9%，但已是7月31日以来的最低收盘水平。&lt;/p&gt;
-
-利率压力是核心变量
-
-&lt;p&gt;LPL Financial首席技术策略师Adam Turnquist在接受MarketWatch采访时直言：&lt;strong&gt;&amp;quot;眼下最大的问题就是利率。&amp;quot;他表示，10年期美债收益率处于4.8%的水平，&amp;quot;在我看来，意味着我们将重新测试5%——而这对科技板块等领域而言是个麻烦。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此轮美债收益率的攀升，由通胀数据持续偏高与美国政府债务规模不断扩张共同驱动。较高的长期利率不仅推升居民和企业的借贷成本，还为投资者提供了更具吸引力的&amp;quot;安全&amp;quot;替代资产，进一步削弱了股票估值的相对吸引力。&lt;/p&gt;
-&lt;p&gt;与此同时，中东局势的紧张态势也成为市场的不确定性来源之一，国际油价近期走高，在通胀尚未完全消退的背景下，为消费者带来额外压力。&lt;/p&gt;
-
-标普与纳指亦岌岌可危
-
-&lt;p&gt;道指并非孤立承压。周二标普500指数下跌0.7%，收于7631.47点，仅比其50日均线7570.61点高出约0.8%；纳斯达克综合指数下跌1.0%，收于26099.77点，距50日均线25954.52点仅有0.6%的缓冲空间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两大指数均处于50日均线的临界边缘，一旦跟随道指跌破该支撑，可能进一步触发量化模型和技术型投资者的卖出操作，加剧短期市场调整压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;道指此前曾于2月10日创下50188.14点的当时历史收盘纪录，随后一路下挫5012.50点，跌幅约10%，于3月27日触及45166.64点的七个月低点。市场普遍将该轮修正的终结时间定格于4月10日，即道指重返50日均线上方之时。此后道指反弹超过20%，直至8月5日再创历史新高。当前局面是否重演彼时的技术性破位后的深度调整，仍有待市场进一步检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达投资联发科的解读与思考</title><link>http://xueqiu.com/5332385101/407505906</link><guid>ce28e4178d055aba1a0e0c7d763d7d9be60017932aed8b0ed52cfe23970a64ac</guid><pubDate>Wed, 02 Sep 2026 09:23:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;八月最后一个交易日，美股三大指数收跌，但纳指单月仍累涨近4%。存储走强，闪迪涨5.5%，美光、闪迪分别涨约2.8%和2.2%。英伟达涨近1.5%，单月累涨近10%。&lt;/p&gt;</description></item><item><title>[今日雪球] 谁的保险业务做得最好？——保险股2026年中报总结（2）</title><link>http://xueqiu.com/7543024848/407663671</link><guid>8e4fc2e171ca2e8adbb8fedf22874653da2e41444fd2a5d4f6158f4eeb889bc6</guid><pubDate>Wed, 02 Sep 2026 09:23:04 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼价投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在分析完六大保险公司的中报之后，按照老规矩，我继续对六家公司的各大重要指标进行横向对比。&lt;/p&gt;</description></item><item><title>[今日雪球] 政府公文角度解读8.28地产新政文件</title><link>http://xueqiu.com/1259880472/407682033</link><guid>41addef73490165e23b01f6868709e95bf26e4a52fd94c3b2c22a3547ccb4154</guid><pubDate>Wed, 02 Sep 2026 09:23:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大愚小呆_&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这几天关于地产新政的讨论很多，基本上新政未来如何影响房企的IRR和规模天花板已经分析的很透彻了。但关于新政究竟如何落地，具体时间点如何划分，好像还都一头雾水，甚至觉得政策是不是出了BUG。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;他同时将近期日元波动定性为&amp;quot;相当可控&amp;quot;，并为美方参与支撑日元的立场进行辩护，指出日元若出现极端波动，可能会传导至美国利率上行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达投资联发科的解读与思考</title><link>http://xueqiu.com/5332385101/407505906</link><guid>ce28e4178d055aba1a0e0c7d763d7d9be60017932aed8b0ed52cfe23970a64ac</guid><pubDate>Wed, 02 Sep 2026 09:23:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;八月最后一个交易日，美股三大指数收跌，但纳指单月仍累涨近4%。存储走强，闪迪涨5.5%，美光、闪迪分别涨约2.8%和2.2%。英伟达涨近1.5%，单月累涨近10%。&lt;/p&gt;</description></item><item><title>[今日雪球] 谁的保险业务做得最好？——保险股2026年中报总结（2）</title><link>http://xueqiu.com/7543024848/407663671</link><guid>8e4fc2e171ca2e8adbb8fedf22874653da2e41444fd2a5d4f6158f4eeb889bc6</guid><pubDate>Wed, 02 Sep 2026 09:23:04 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼价投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在分析完六大保险公司的中报之后，按照老规矩，我继续对六家公司的各大重要指标进行横向对比。&lt;/p&gt;</description></item><item><title>[今日雪球] 政府公文角度解读8.28地产新政文件</title><link>http://xueqiu.com/1259880472/407682033</link><guid>41addef73490165e23b01f6868709e95bf26e4a52fd94c3b2c22a3547ccb4154</guid><pubDate>Wed, 02 Sep 2026 09:23:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大愚小呆_&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这几天关于地产新政的讨论很多，基本上新政未来如何影响房企的IRR和规模天花板已经分析的很透彻了。但关于新政究竟如何落地，具体时间点如何划分，好像还都一头雾水，甚至觉得政策是不是出了BUG。&lt;/p&gt;</description></item></channel></rss>
