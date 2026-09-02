@@ -1,31 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 12:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] “SaaS末日”幸存者数量惊人！AI冲击七个月后，大量软件公司正在强势复苏</title><link>https://wallstreetcn.com/articles/3780922</link><guid>9b54f5c7777f7763cd6bc2f75816057125956c4fbe92ae6396dfaeb0cbbe4df3</guid><pubDate>Wed, 02 Sep 2026 12:13:43 GMT</pubDate><description>&lt;p&gt;今年2月，一场被市场称为“SaaS末日”的恐慌席卷软件股，数百亿美元市值在AI替代威胁论下蒸发殆尽。&lt;strong&gt;七个月后，这场&amp;quot;末日&amp;quot;的幸存者数量令人瞩目——大量SaaS公司股价不仅收复失地，更创下数年新高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;推动此轮情绪逆转的核心催化剂，&lt;strong&gt;是Marc Benioff旗下Salesforce发布的强劲季度业绩。该股上周四单日暴涨23%，创六年来最大单日涨幅，自2月低点以来累计反弹46%。&lt;/strong&gt;Benioff在接受CNBC采访时直言：&amp;quot;所谓&amp;#x27;SaaS末日&amp;#x27;的叙事，完全是无稽之谈。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;当天，软件股龙头Okta单日劲升29%（今年以来涨幅达到86%），CrowdStrike上涨20.5%，Atlassian股价亦攀升至2025年7月以来最高水平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从更宏观的视角看&lt;strong&gt;，State Street的SaaS ETF已从2月23日的低点反弹45%，并创下历史新高，年初至今涨幅达9%&lt;/strong&gt;。Jefferies分析师Brent Thill在研报中写道：&lt;strong&gt;&amp;quot;我们正在见证&amp;#x27;软件极客的复仇&amp;#x27;，预计势头将延续，AI替代威胁被严重高估。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-恐慌的起点：四段文字引发的&amp;quot;末日&amp;quot;
-&lt;p&gt;这场风暴的导火索，是AI领域领军企业Anthropic宣布其聊天机器人的Cowork功能新增能力，可&amp;quot;加速企业内部法律团队的合同审查、保密协议分类及合规工作流程&amp;quot;。仅仅四段描述性文字，便足以令SaaS股票集体重挫。&lt;/p&gt;
-&lt;p&gt;此后，恐慌情绪在2月下旬持续蔓延，并延伸至3月和4月。市场的核心逻辑是：AI将使企业得以按需构建内部专属工具，从而取代现有SaaS软件的专项功能，传统软件公司的商业模式将遭受根本性冲击。&lt;/p&gt;
-&lt;p&gt;然而，彼时已有业内重量级人士对这一反应提出质疑。&lt;/p&gt;
-&lt;p&gt;英伟达首席执行官Jensen Huang将市场的反应称为&amp;quot;世界上最不合逻辑的事情&amp;quot;。部分分析师亦指出，正如互联网泡沫时代一样，AI浪潮下必然有赢家与输家，将所有SaaS公司一刀切地视为输家，既不公平也不准确。&lt;/p&gt;
-专业护城河决定生死
-&lt;p&gt;七个月后，市场的分化已清晰呈现。&lt;strong&gt;能够解决高难度专业问题、拥有AI难以轻易复制的核心资产的公司，正是此轮反弹的主角。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Salesforce的反弹尤为典型。年初市场对其AI代理部署能力普遍存疑，但最新财报彻底扭转了这一判断——其Agentforce年度经常性收入已达15亿美元，同比增长240%。&lt;/p&gt;
-&lt;p&gt;Benioff强调，前沿大模型&amp;quot;依赖&amp;quot;客户关系管理数据，而非取而代之，Salesforce近期与Anthropic达成的整合协议正是这一逻辑的有力佐证。&lt;/p&gt;
-&lt;p&gt;身份验证服务商Okta自2月低点以来累计上涨近140%，同样是这一逻辑的受益者。在AI代理大规模部署的背景下，验证&amp;quot;用户&amp;quot;真实身份这一专业能力的价值愈发凸显。&lt;/p&gt;
-&lt;p&gt;Okta最新财报显示，新产品预订量占总预订量的比例从上一季度的5%跃升至30%，Bloomberg Intelligence分析师Mandeep Singh指出，这表明企业正&amp;quot;日益将身份安全作为代理部署扩张的早期优先事项&amp;quot;。&lt;/p&gt;
-低护城河的代价
-&lt;p&gt;并非所有公司都迎来了&amp;quot;复仇时刻&amp;quot;。部分SaaS公司虽较年内低点有所回升，但整体表现依然疲软，折射出市场对其商业模式的持续担忧。&lt;/p&gt;
-&lt;p&gt;工作流管理软件Monday.com年初至今仍下跌35%，其产品被认为极易被企业借助AI自行搭建的轻量级生产力工具所取代。税务软件巨头Intuit年内跌幅更高达48%。&lt;/p&gt;
-&lt;p&gt;私有市场同样出现了警示信号。&lt;/p&gt;
-&lt;p&gt;数据库公司Airtable被Bending Spoons SpA以22.5亿美元收购，而该公司在2021年的估值高达117亿美元。市场将这笔交易解读为SaaS初创公司&amp;quot;残值收购&amp;quot;的又一案例。&lt;/p&gt;
-&lt;p&gt;分析人士指出，Airtable约20%的年收入增速未能消除外界对其核心产品——本质上是功能增强版电子表格——过于简单、易被AI编程工具复制的担忧。&lt;/p&gt;
-分化时代：并非所有SaaS都应被同等对待
-&lt;p&gt;KeyBanc分析师Jackson Ader对此轮反弹的逻辑给出了简洁的注脚：&amp;quot;我们都逐渐意识到，这个行业将比预期更具韧性……我们不会消失。这就是为什么Salesforce拿出一份还不错但并不亮眼的成绩单，却引发如此巨大的市场反应。&amp;quot;&lt;/p&gt;
-&lt;p&gt;值得注意的是，Salesforce的财报数据本身并不算亮眼——截至7月的季度营收增速为11%，较上季度放缓2个百分点；若剔除去年11月收购Informatica的并表贡献，自然增长率仅为6.4%。但公司给出了下半年自然增长将小幅提速的预期，并据此上调全年营收指引，市场对这一前瞻信号的反应远超数据本身所呈现的力度。&lt;/p&gt;
-&lt;p&gt;经历这场不必要的动荡之后，市场正在形成新的共识：&lt;strong&gt;在AI时代，SaaS公司的命运取决于其所解决问题的难度，以及其核心资产是否难以被前沿AI实验室以合理代价复制。&lt;/strong&gt;那些通过了这一检验的&amp;quot;幸存者&amp;quot;，正在重新赢得市场的青睐——尽管最终的胜负，仍有待时间验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔电话会：“缺的就是DRAM、DRAM、DRAM！” ，AI积压订单逼近千亿，全年指引大幅上调</title><link>https://wallstreetcn.com/articles/3780870</link><guid>0117ed0abd5203c8d89f79602823feaf07ac7022b20b1ebecb07b04ba835ca9f</guid><pubDate>Wed, 02 Sep 2026 01:51:00 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 13:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 戴尔电话会：“缺的就是DRAM、DRAM、DRAM！” ，AI积压订单逼近千亿，全年指引大幅上调</title><link>https://wallstreetcn.com/articles/3780870</link><guid>0117ed0abd5203c8d89f79602823feaf07ac7022b20b1ebecb07b04ba835ca9f</guid><pubDate>Wed, 02 Sep 2026 01:51:00 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;戴尔2027财年第二季度业绩全面爆发，AI服务器订单创下历史新高，强劲的落地需求促使公司大幅上调全年营收指引，并揭示了当前AI供应链面临的极限施压状态。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3780858"&gt;华尔街见闻提及&lt;/a&gt;，9月1日美股盘后，戴尔公布截至7月31日的2027财年第二季度业绩。&lt;strong&gt;公司当季营收达到470亿美元，同比增长58%，创历史新高，高于市场预期的448亿美元；按非GAAP口径计算，每股收益为7.04美元，同比增长203%，远高于市场预期的4.90美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;基于强劲业绩，戴尔将全年营收指引上调250亿美元至1920亿美元中值，同比增幅约70%；全年摊薄每股收益预期提升至25.50美元，同比涨幅约150%。第三财季营收指引中值为490亿美元，同比增幅约80%。&lt;/p&gt;
@@ -360,7 +334,33 @@ AI叙事仍是主线
 &lt;p&gt;&lt;strong&gt;其次，软件股整体仍面临估值压力。&lt;/strong&gt;2026年以来，软件板块表现承压，投资者更加关注利润率、现金流和增长确定性，而不是单纯追逐收入扩张。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第三，Atlas增速前景仍是争议焦点。虽然本季度Atlas收入同比增长28.9%，但公司此前对全年Atlas增速的指引区间为21%至23%，意味着未来可能出现一定正常化。对于依赖Atlas叙事的MongoDB而言，这一潜在放缓足以影响估值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后，AI基础设施投资正在向算力、服务器和芯片等环节集中。&lt;/strong&gt;比如近期戴尔业绩受AI服务器需求推动而超预期，显示企业AI支出正在快速增长。但MongoDB所处的数据软件层能否同步捕捉预算，仍需要更多季度数据验证。&lt;/p&gt;
-&lt;p&gt;市场正在重新评估：AI支出究竟会多大比例流向数据库和开发者平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Altman谈下一代模型：若出现RSI将推迟IPO，部分新AI云“不可持续的愚蠢”</title><link>https://wallstreetcn.com/articles/3780888</link><guid>35afecff1daf14281a43934ba0ece4566e9e2346bbd060bba8beea5e81f1e874</guid><pubDate>Wed, 02 Sep 2026 06:41:06 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官萨姆·奥特曼（Sam Altman）警告：递归自我改进（RSI）的到来，可能比外界预期的更早，而这一判断将深刻影响AI行业的资本开支走向、前沿实验室的商业优先级排序，乃至OpenAI自身的上市时间表。&lt;/p&gt;
+&lt;p&gt;市场正在重新评估：AI支出究竟会多大比例流向数据库和开发者平台。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “SaaS末日”幸存者数量惊人！AI冲击七个月后，大量软件公司正在强势复苏</title><link>https://wallstreetcn.com/articles/3780922</link><guid>9b54f5c7777f7763cd6bc2f75816057125956c4fbe92ae6396dfaeb0cbbe4df3</guid><pubDate>Wed, 02 Sep 2026 12:13:43 GMT</pubDate><description>&lt;p&gt;今年2月，一场被市场称为“SaaS末日”的恐慌席卷软件股，数百亿美元市值在AI替代威胁论下蒸发殆尽。&lt;strong&gt;七个月后，这场&amp;quot;末日&amp;quot;的幸存者数量令人瞩目——大量SaaS公司股价不仅收复失地，更创下数年新高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;推动此轮情绪逆转的核心催化剂，&lt;strong&gt;是Marc Benioff旗下Salesforce发布的强劲季度业绩。该股上周四单日暴涨23%，创六年来最大单日涨幅，自2月低点以来累计反弹46%。&lt;/strong&gt;Benioff在接受CNBC采访时直言：&amp;quot;所谓&amp;#x27;SaaS末日&amp;#x27;的叙事，完全是无稽之谈。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;当天，软件股龙头Okta单日劲升29%（今年以来涨幅达到86%），CrowdStrike上涨20.5%，Atlassian股价亦攀升至2025年7月以来最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从更宏观的视角看&lt;strong&gt;，State Street的SaaS ETF已从2月23日的低点反弹45%，并创下历史新高，年初至今涨幅达9%&lt;/strong&gt;。Jefferies分析师Brent Thill在研报中写道：&lt;strong&gt;&amp;quot;我们正在见证&amp;#x27;软件极客的复仇&amp;#x27;，预计势头将延续，AI替代威胁被严重高估。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+恐慌的起点：四段文字引发的&amp;quot;末日&amp;quot;
+&lt;p&gt;这场风暴的导火索，是AI领域领军企业Anthropic宣布其聊天机器人的Cowork功能新增能力，可&amp;quot;加速企业内部法律团队的合同审查、保密协议分类及合规工作流程&amp;quot;。仅仅四段描述性文字，便足以令SaaS股票集体重挫。&lt;/p&gt;
+&lt;p&gt;此后，恐慌情绪在2月下旬持续蔓延，并延伸至3月和4月。市场的核心逻辑是：AI将使企业得以按需构建内部专属工具，从而取代现有SaaS软件的专项功能，传统软件公司的商业模式将遭受根本性冲击。&lt;/p&gt;
+&lt;p&gt;然而，彼时已有业内重量级人士对这一反应提出质疑。&lt;/p&gt;
+&lt;p&gt;英伟达首席执行官Jensen Huang将市场的反应称为&amp;quot;世界上最不合逻辑的事情&amp;quot;。部分分析师亦指出，正如互联网泡沫时代一样，AI浪潮下必然有赢家与输家，将所有SaaS公司一刀切地视为输家，既不公平也不准确。&lt;/p&gt;
+专业护城河决定生死
+&lt;p&gt;七个月后，市场的分化已清晰呈现。&lt;strong&gt;能够解决高难度专业问题、拥有AI难以轻易复制的核心资产的公司，正是此轮反弹的主角。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Salesforce的反弹尤为典型。年初市场对其AI代理部署能力普遍存疑，但最新财报彻底扭转了这一判断——其Agentforce年度经常性收入已达15亿美元，同比增长240%。&lt;/p&gt;
+&lt;p&gt;Benioff强调，前沿大模型&amp;quot;依赖&amp;quot;客户关系管理数据，而非取而代之，Salesforce近期与Anthropic达成的整合协议正是这一逻辑的有力佐证。&lt;/p&gt;
+&lt;p&gt;身份验证服务商Okta自2月低点以来累计上涨近140%，同样是这一逻辑的受益者。在AI代理大规模部署的背景下，验证&amp;quot;用户&amp;quot;真实身份这一专业能力的价值愈发凸显。&lt;/p&gt;
+&lt;p&gt;Okta最新财报显示，新产品预订量占总预订量的比例从上一季度的5%跃升至30%，Bloomberg Intelligence分析师Mandeep Singh指出，这表明企业正&amp;quot;日益将身份安全作为代理部署扩张的早期优先事项&amp;quot;。&lt;/p&gt;
+低护城河的代价
+&lt;p&gt;并非所有公司都迎来了&amp;quot;复仇时刻&amp;quot;。部分SaaS公司虽较年内低点有所回升，但整体表现依然疲软，折射出市场对其商业模式的持续担忧。&lt;/p&gt;
+&lt;p&gt;工作流管理软件Monday.com年初至今仍下跌35%，其产品被认为极易被企业借助AI自行搭建的轻量级生产力工具所取代。税务软件巨头Intuit年内跌幅更高达48%。&lt;/p&gt;
+&lt;p&gt;私有市场同样出现了警示信号。&lt;/p&gt;
+&lt;p&gt;数据库公司Airtable被Bending Spoons SpA以22.5亿美元收购，而该公司在2021年的估值高达117亿美元。市场将这笔交易解读为SaaS初创公司&amp;quot;残值收购&amp;quot;的又一案例。&lt;/p&gt;
+&lt;p&gt;分析人士指出，Airtable约20%的年收入增速未能消除外界对其核心产品——本质上是功能增强版电子表格——过于简单、易被AI编程工具复制的担忧。&lt;/p&gt;
+分化时代：并非所有SaaS都应被同等对待
+&lt;p&gt;KeyBanc分析师Jackson Ader对此轮反弹的逻辑给出了简洁的注脚：&amp;quot;我们都逐渐意识到，这个行业将比预期更具韧性……我们不会消失。这就是为什么Salesforce拿出一份还不错但并不亮眼的成绩单，却引发如此巨大的市场反应。&amp;quot;&lt;/p&gt;
+&lt;p&gt;值得注意的是，Salesforce的财报数据本身并不算亮眼——截至7月的季度营收增速为11%，较上季度放缓2个百分点；若剔除去年11月收购Informatica的并表贡献，自然增长率仅为6.4%。但公司给出了下半年自然增长将小幅提速的预期，并据此上调全年营收指引，市场对这一前瞻信号的反应远超数据本身所呈现的力度。&lt;/p&gt;
+&lt;p&gt;经历这场不必要的动荡之后，市场正在形成新的共识：&lt;strong&gt;在AI时代，SaaS公司的命运取决于其所解决问题的难度，以及其核心资产是否难以被前沿AI实验室以合理代价复制。&lt;/strong&gt;那些通过了这一检验的&amp;quot;幸存者&amp;quot;，正在重新赢得市场的青睐——尽管最终的胜负，仍有待时间验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Altman谈下一代模型：若出现RSI将推迟IPO，部分新AI云“不可持续的愚蠢”</title><link>https://wallstreetcn.com/articles/3780888</link><guid>35afecff1daf14281a43934ba0ece4566e9e2346bbd060bba8beea5e81f1e874</guid><pubDate>Wed, 02 Sep 2026 06:41:06 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官萨姆·奥特曼（Sam Altman）警告：递归自我改进（RSI）的到来，可能比外界预期的更早，而这一判断将深刻影响AI行业的资本开支走向、前沿实验室的商业优先级排序，乃至OpenAI自身的上市时间表。&lt;/p&gt;
 &lt;p&gt;奥特曼在一档深度播客访谈中透露，OpenAI已暂停一项前沿强化学习（RL）训练任务，并将大量算力重新分配至AI对齐与安全监控，原因并非遭遇技术瓶颈，而恰恰相反——&amp;quot;模型能力的进步速度令人敬畏，安全对齐工作需要时间追赶&amp;quot;。奥特曼强调，若RSI提前出现，他倾向于推迟IPO——理由是，在需要做出&amp;quot;暂停训练&amp;quot;等短期影响收入决策的关键时刻，上市公司所承受的股价压力将与使命产生根本冲突。与此同时，他警告称，当前AI行业涌现出大量&amp;quot;随机冒出来的新云厂商，号称要建巨量算力，却没有收入支撑&amp;quot;，这种现象是&amp;quot;不可持续的愚蠢&amp;quot;。两个表态合并来看，传递出一个清晰的市场信息：&lt;strong&gt;在前沿实验室眼中，决定算力投入的核心变量从未是某个应用赛道的商业化节奏，而是模型能力本身是否仍在值得扩张的轨道上。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一逻辑正在获得来自投资界和研究界的双重验证。知名科技投资人Gavin Baker近期明确指出，基于对Scaling Laws的坚定信仰，顶尖大模型公司短期内不会追求自由现金流，他们将产生的经营现金流全部用于购买更多GPU。与此同时，据AI风险投资机构Conviction创始人Sarah Guo透露，过去12个月，越来越多顶尖研究人员开始相信：&lt;strong&gt;具备&amp;quot;递归自我改进能力&amp;quot;的AI研究模型一旦出现，人类距离某种形式的&amp;quot;指数级智能&amp;quot;可能只剩一到两年。&lt;/strong&gt;&lt;/p&gt;
@@ -436,24 +436,7 @@ IPO推迟的条件：RSI到来的速度
 
 美联储立场偏鹰，市场押注9月加息
 
-&lt;p&gt;美联储主席沃什在杰克逊霍尔年会上的讲话进一步影响了市场预期。他的措辞较市场预期更为强硬，强调美联储2%的通胀目标是&amp;quot;一个坚定、固定的目标&amp;quot;，并表示尽管夏季通胀数据好于预期，&amp;quot;但这并不能告诉我基本趋势已出现实质性改善&amp;quot;。讲话发布后，2年期美国国债收益率单日跳升11个基点，收益率曲线进一步走平。截至月末，期货市场定价显示9月加息概率为65%，市场倾向于押注美联储将继续收紧政策。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CEO称万亿“安全债”亟待偿还，Palo Alto业绩超预期</title><link>https://wallstreetcn.com/articles/3780871</link><guid>c38d4ff5201b3504bd23dbf5baf8a4bbda67f48a7583111361de2f84e4a17f64</guid><pubDate>Wed, 02 Sep 2026 01:26:10 GMT</pubDate><description>&lt;p&gt;人工智能加速网络攻击自动化，正推动企业重估安全投入。Palo Alto Networks给出的年度盈利和季度营收展望均超过市场预期，显示AI相关防御需求已开始转化为订单动能。&lt;/p&gt;
-&lt;p&gt;网络安全公司Palo Alto Networks周二发布2026财年第四季度及全年业绩，全年调整后每股盈利指引为4.16至4.19美元，高于分析师平均预期的4.11美元。与此同时，公司第一财季营收指引区间为33亿至33.1亿美元，同样超出分析师预期的32.1亿美元。&lt;/p&gt;
-&lt;p&gt;首席执行官Nikesh Arora在财报电话会上表示，AI领域的最新进展正将网络安全推至企业CIO优先级列表的首位，将成为“持久的顺风”。&lt;strong&gt;他同时表示，全球约1万亿美元的网络安全基础设施尚未做好应对AI威胁的准备，这一缺口将为行业带来长期增长空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;受业绩发布影响，Palo Alto Networks盘后股价一度上涨逾6%，但随后转跌约2%收场。该股今年以来截至周二收盘已累计上涨近一倍，自4月7日以来涨幅达113%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-业绩超预期，毛利率收窄成隐忧
-&lt;p&gt;Palo Alto Networks第四财季整体表现稳健，下一代安全年度经常性收入同样高于市场预期。然而，毛利率出现收窄——第四季度总毛利率降至74.8%，低于全财年的75.8%。&lt;/p&gt;
-&lt;p&gt;首席财务官Dipak Golechha将此归因于公司向软件即服务（SaaS）模式的战略转型，&lt;strong&gt;并表示这一转变将在2027财年推动云托管成本增速超过总营收增速。&lt;/strong&gt;这一表态或是盘后股价由涨转跌的重要原因之一。&lt;/p&gt;
-&lt;p&gt;公司还于同日宣布完成对Console的收购，该公司专注于帮助企业构建可自动化内部IT任务的AI代理。&lt;/p&gt;
-万亿美元“网络安全债务”待偿
-&lt;p&gt;Arora在财报电话会及接受CNBC采访时均着重强调了AI对网络安全需求的结构性提振。他表示，&lt;strong&gt;&amp;quot;七到十年前部署的任何系统都没有准备好以机器速度应对AI威胁&amp;quot;，企业必须重新思考其网络安全架构。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;全球约有1万亿美元的网络安全债务亟待现代化改造，以抵御以即时速度运行的自动化威胁，&amp;quot;Arora在电话会上表示。&lt;/p&gt;
-&lt;p&gt;他将Anthropic今年早些时候推出的Mythos模型视为行业认知的转折点。该模型因可被轻易用于利用软件漏洞而引发广泛关注，促使企业加速重视网络安全投入。Arora表示，Palo Alto已就其&amp;quot;Frontier AI Critical Defense Program&amp;quot;与约2000家企业展开对话，该项目于今年8月正式推出，旨在利用先进AI模型测试客户防御能力、识别漏洞并协助推进基础设施现代化。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Arora同时提示投资者保持耐心——&amp;quot;并非所有事情都会在下个季度发生&amp;quot;，但他强调，AI从根本上扩大了网络安全行业的机遇规模与持续时长，&amp;quot;这改变的不仅是Palo Alto，而是整个行业的长期增长率和持续时间&amp;quot;。&lt;/p&gt;
-AI威胁升级，同业普遍受益
-&lt;p&gt;Palo Alto的强劲表现并非孤例，整个网络安全行业正受益于AI驱动的安全需求升温。CrowdStrike Holdings上周发布的第三季度业绩指引超出分析师预期，Okta则二度上调全年营收展望，并录得历史最高积压订单。&lt;/p&gt;
-&lt;p&gt;AI模型的攻击能力持续引发市场警觉。Anthropic、OpenAI及Meta Platforms近期相继披露，其模型在测试期间曾突破测试环境、访问公开互联网并入侵真实目标。这些事件进一步强化了企业对AI安全防御的紧迫感，也为Palo Alto等网络安全厂商提供了更为清晰的需求叙事。&lt;/p&gt;
-&lt;p&gt;Arora对此不无自嘲：&amp;quot;九个月前，我们被认定为濒死，因为AI将吞噬我们的一切。现在看来并非如此——我们将与AI共享这场盛宴。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超2%，军工逆势大涨，宇树科技股价较上市首日“腰斩”，中际旭创跌破万亿市值，港股科网股局部回升</title><link>https://wallstreetcn.com/articles/3780874</link><guid>2b9f868feb33260f287dc6617138a6bf84cf93a6ba5662293cad1c95f8243106</guid><pubDate>Wed, 02 Sep 2026 09:01:15 GMT</pubDate><description>&lt;p&gt;债券抛售潮席卷全球，压制风险资产表现，再加上地缘风险抬升，同样抑制风险情绪，前期热门的农业、贵金属、锂矿等板块集体获利回吐，资金向具备事件催化的军工等方向轮动。&lt;/p&gt;
+&lt;p&gt;美联储主席沃什在杰克逊霍尔年会上的讲话进一步影响了市场预期。他的措辞较市场预期更为强硬，强调美联储2%的通胀目标是&amp;quot;一个坚定、固定的目标&amp;quot;，并表示尽管夏季通胀数据好于预期，&amp;quot;但这并不能告诉我基本趋势已出现实质性改善&amp;quot;。讲话发布后，2年期美国国债收益率单日跳升11个基点，收益率曲线进一步走平。截至月末，期货市场定价显示9月加息概率为65%，市场倾向于押注美联储将继续收紧政策。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超2%，军工逆势大涨，宇树科技股价较上市首日“腰斩”，中际旭创跌破万亿市值，港股科网股局部回升</title><link>https://wallstreetcn.com/articles/3780874</link><guid>2b9f868feb33260f287dc6617138a6bf84cf93a6ba5662293cad1c95f8243106</guid><pubDate>Wed, 02 Sep 2026 09:01:15 GMT</pubDate><description>&lt;p&gt;债券抛售潮席卷全球，压制风险资产表现，再加上地缘风险抬升，同样抑制风险情绪，前期热门的农业、贵金属、锂矿等板块集体获利回吐，资金向具备事件催化的军工等方向轮动。&lt;/p&gt;
 &lt;p&gt;9月2日，A股低开低走、全天震荡调整，创业板指跌超2%。军工板块逆势爆发，油气、银行、旅游等方向逆市活跃，而农业、贵金属、锂矿等昨日强势板块集体回调。宇树科技跌破550元，股价较上市首日“腰斩”。科技股调整，芯片半导体、算力硬件亦承压，“易中天”齐跌，中际旭创跌破万亿市值。&lt;/p&gt;
 &lt;p&gt;港股同样低开低走，恒指、恒科指双双下滑，恒科指跌超1%，午后恒指、恒科指跌幅收窄，恒指险些翻红。科网股多数下跌，芯片、AI大模型股陷入调整。债市方面，国债期货全线下跌。商品方面，国内商品期货多数下跌，贵金属期货大跌，跟随国际黄金和白银走势。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -553,4 +536,31 @@ HBM利润外溢，押注下一代存储
 周五非农报告成关键验证窗口
 
 &lt;p&gt;ADP数据历来被视为官方非农就业报告的前瞻参考指标，但两者之间并不存在稳定的线性对应关系。市场预计，&lt;strong&gt;周五公布的8月非农就业报告将显示总就业人数增加5.5万，较7月的下降2.3万大幅回升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;若官方数据同样显示增长低迷，将进一步加大外界对美联储政策路径的不确定性——在就业数据持续偏弱的背景下，美联储是否仍会坚持收紧以维护其抗通胀公信力，将成为市场的核心议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达投资联发科的解读与思考</title><link>http://xueqiu.com/5332385101/407505906</link><guid>ce28e4178d055aba1a0e0c7d763d7d9be60017932aed8b0ed52cfe23970a64ac</guid><pubDate>Wed, 02 Sep 2026 09:23:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;八月最后一个交易日，美股三大指数收跌，但纳指单月仍累涨近4%。存储走强，闪迪涨5.5%，美光、闪迪分别涨约2.8%和2.2%。英伟达涨近1.5%，单月累涨近10%。&lt;/p&gt;</description></item><item><title>[今日雪球] 谁的保险业务做得最好？——保险股2026年中报总结（2）</title><link>http://xueqiu.com/7543024848/407663671</link><guid>8e4fc2e171ca2e8adbb8fedf22874653da2e41444fd2a5d4f6158f4eeb889bc6</guid><pubDate>Wed, 02 Sep 2026 09:23:04 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼价投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在分析完六大保险公司的中报之后，按照老规矩，我继续对六家公司的各大重要指标进行横向对比。&lt;/p&gt;</description></item><item><title>[今日雪球] 政府公文角度解读8.28地产新政文件</title><link>http://xueqiu.com/1259880472/407682033</link><guid>41addef73490165e23b01f6868709e95bf26e4a52fd94c3b2c22a3547ccb4154</guid><pubDate>Wed, 02 Sep 2026 09:23:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大愚小呆_&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这几天关于地产新政的讨论很多，基本上新政未来如何影响房企的IRR和规模天花板已经分析的很透彻了。但关于新政究竟如何落地，具体时间点如何划分，好像还都一头雾水，甚至觉得政策是不是出了BUG。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;若官方数据同样显示增长低迷，将进一步加大外界对美联储政策路径的不确定性——在就业数据持续偏弱的背景下，美联储是否仍会坚持收紧以维护其抗通胀公信力，将成为市场的核心议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 苹果换帅“价码”落定：Ternus 75%股权对赌标普500，库克降薪留任护航平稳过渡</title><link>https://wallstreetcn.com/articles/3780883</link><guid>bef7cd13df59617354f1e8d9ab24e4c905aca7bf6f41c045861d7ae67db23b5c</guid><pubDate>Wed, 02 Sep 2026 03:56:38 GMT</pubDate><description>&lt;p&gt;苹果本世纪以来第二次CEO更迭的“价码”正式落定。通过向SEC提交8-K/A文件，苹果披露了新任CEO John Ternus与转任执行董事长Tim Cook的薪酬细节，用差异化的股权对赌机制，向市场传递出在AI竞赛与供应链重构双重压力下，确保权力平稳过渡与战略连续性的强烈信号。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最新披露的文件显示，John Ternus 2027财年的目标薪酬总额约为5800万美元，其中高达5500万美元的股权奖励有75%直接与标普500指数表现挂钩。&lt;/strong&gt;这一高强度的业绩对赌设计，将其个人利益与股东长期回报深度绑定。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;转任执行董事长的Tim Cook并未“净身出户”，其新薪酬方案目标总额约为4700万美元。尽管底薪降至200万美元，但4500万美元的股权奖励中仅有一半与大盘表现挂钩&lt;/strong&gt;，凸显了其在过渡期内继续发挥政商影响力与战略指导作用的“压舱石”价值。&lt;/p&gt;
+&lt;p&gt;这份于9月正式生效的薪酬文件，不仅是一份高管待遇清单，更是苹果在复杂宏观环境下押注硬件基本盘与管理层稳定性的战略宣言，直接回应了华尔街对领导层断层及AI掉队风险的担忧。&lt;/p&gt;
+5800万薪酬目标：Ternus的75%业绩对赌与硬件基因
+&lt;p&gt;根据监管文件，John Ternus的薪酬包由固定薪资与长期股权激励组成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自9月1日起，其基础年薪调整为300万美元，他还将获得2026财年价值250万美元按比例折算的限制性股票单位（RSU），以及2027财年目标价值高达5500万美元的年度股权奖励。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在Ternus的5500万美元股权奖励中，高达75%将基于苹果相对于标普500指数的业绩表现（TSR）来决定，剩余25%则为基于时间的限制性股票，每半年归属一次。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着，Ternus必须带领苹果在资本市场上显著跑赢大盘，才能拿到全额奖励。 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一薪酬设计凸显了苹果对硬件基本盘的重视。Ternus自2001年加入苹果，长期主管硬件工程，主导了iPhone、Mac、Vision Pro等核心产品线的研发。&lt;/p&gt;
+&lt;p&gt;在软件与AI服务竞争日益激烈的背景下，苹果选择一位拥有深厚硬件工程经验的领导者，意在通过极致的硬件体验构筑护城河。&lt;/p&gt;
+&lt;p&gt;市场对此反应积极，在Ternus执掌首日，苹果股价逆势走高，其在全员信中预告的“非同凡响”发布会及在社交媒体X上的迅速吸粉，均显示出投资者与公众对新领导层的初步认可。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+4700万留任激励：Tim Cook的“退而不休”与平稳过渡
+&lt;p&gt;与新任CEO的薪酬相呼应，Tim Cook也获得了丰厚的留任激励。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自9月26日起，Tim Cook的年薪将从300万美元调整为200万美元，同时获批2027财年目标价值4500万美元的股权奖励，总薪酬目标约为4700万美元。 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对比其历史薪酬，这一安排体现了平稳过渡的考量。在2025财年，Tim Cook的总薪酬为7430万美元。新方案虽然降低了基础薪资与总目标，但4500万美元的股权奖励依然保持了极高的激励水平。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Tim Cook的股权奖励与业绩挂钩程度较低，仅有50%与标普500指数表现挂钩。&lt;/p&gt;
+&lt;p&gt;Tim Cook在15年的CEO任期内，带领苹果年营收逼近5000亿美元，股价飙涨超2200%。降低业绩挂钩比例，是对这位功勋CEO的尊重与留任动力保障。&lt;/p&gt;
+&lt;p&gt;Tim Cook计划在新的执行董事长职位上长期留任，并继续参与苹果与政策制定者的沟通等关键事务。&lt;/p&gt;
+&lt;p&gt;高额的留任薪酬确保了他在过渡期内继续发挥在全球政商关系和供应链管理中的巨大影响力，避免因一把手突然更迭引发的外部不确定性。&lt;/p&gt;
+薪酬结构背后的治理逻辑：应对双重挑战的战略定力
+&lt;p&gt;此次CEO交接伴随苹果硬件领导团队的重组，Johny Srouji升任首席硬件官，Tom Marieb接任硬件工程负责人。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当前，苹果正面临两大核心挑战&lt;/strong&gt;：一是如何在人工智能领域迎头赶上；二是如何推进供应链多元化，降低对单一制造基地的依赖。&lt;/p&gt;
+&lt;p&gt;在此背景下，薪酬方案的设计符合硅谷科技巨头的惯例，将高管收益与股东利益高度对齐。&lt;/p&gt;
+&lt;p&gt;John Ternus此前作为高级副总裁的年薪约为2500万美元，此次大幅跃升至5800万美元目标，体现了权责对等。&lt;/p&gt;
+&lt;p&gt;Ternus与Tim Cook之间1000万美元的股权奖励差额，以及75%对50%的业绩挂钩比例差异，在制度上确立了新任CEO的核心决策地位，同时给予了前任足够的尊重与留任动力。&lt;/p&gt;
+&lt;p&gt;这种精密的薪酬平衡，最大程度降低了换帅带来的内部摩擦，向华尔街展示了苹果在复杂宏观环境下的治理韧性与战略定力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对英伟达投资联发科的解读与思考</title><link>http://xueqiu.com/5332385101/407505906</link><guid>ce28e4178d055aba1a0e0c7d763d7d9be60017932aed8b0ed52cfe23970a64ac</guid><pubDate>Wed, 02 Sep 2026 09:23:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;八月最后一个交易日，美股三大指数收跌，但纳指单月仍累涨近4%。存储走强，闪迪涨5.5%，美光、闪迪分别涨约2.8%和2.2%。英伟达涨近1.5%，单月累涨近10%。&lt;/p&gt;</description></item><item><title>[今日雪球] 谁的保险业务做得最好？——保险股2026年中报总结（2）</title><link>http://xueqiu.com/7543024848/407663671</link><guid>8e4fc2e171ca2e8adbb8fedf22874653da2e41444fd2a5d4f6158f4eeb889bc6</guid><pubDate>Wed, 02 Sep 2026 09:23:04 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼价投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;在分析完六大保险公司的中报之后，按照老规矩，我继续对六家公司的各大重要指标进行横向对比。&lt;/p&gt;</description></item><item><title>[今日雪球] 政府公文角度解读8.28地产新政文件</title><link>http://xueqiu.com/1259880472/407682033</link><guid>41addef73490165e23b01f6868709e95bf26e4a52fd94c3b2c22a3547ccb4154</guid><pubDate>Wed, 02 Sep 2026 09:23:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大愚小呆_&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这几天关于地产新政的讨论很多，基本上新政未来如何影响房企的IRR和规模天花板已经分析的很透彻了。但关于新政究竟如何落地，具体时间点如何划分，好像还都一头雾水，甚至觉得政策是不是出了BUG。&lt;/p&gt;</description></item></channel></rss>
