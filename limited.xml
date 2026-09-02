@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 01 Sep 2026 23:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫</title><link>https://wallstreetcn.com/articles/3780783</link><guid>22cfbe9db9056c23777f8d07eec7d447adc5bf309bce3cbd5d2706ea48edd472</guid><pubDate>Tue, 01 Sep 2026 23:28:59 GMT</pubDate><description>&lt;p&gt;美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 00:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫</title><link>https://wallstreetcn.com/articles/3780783</link><guid>22cfbe9db9056c23777f8d07eec7d447adc5bf309bce3cbd5d2706ea48edd472</guid><pubDate>Tue, 01 Sep 2026 23:28:59 GMT</pubDate><description>&lt;p&gt;美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美伊冲突升级，三大美股指三连阴，纳指跌1%。戴尔全年指引超预期大幅上调，Q2营收创历史新高，AI服务器需求爆发，盘后一度涨超10%。&lt;/p&gt;
 &lt;p&gt;WTI原油结算价涨5.2%报90.22美元/桶，是7月23日以来的最高收盘；布伦特涨4.6%报94.65美元/桶。成品油市场的反应比原油还要剧烈。&lt;/p&gt;
@@ -344,44 +344,57 @@
 &lt;p&gt;本次电话会议到此结束。您现在可以挂断电话。&lt;/p&gt;
 &lt;p&gt;谢谢。&lt;/p&gt;
 &lt;p&gt;活动已结束。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复杂任务最高降本45%，编程与科研能力大幅提升，Fable 5.1如何撑起Anthropic 2万亿美元估值</title><link>https://wallstreetcn.com/articles/3780853</link><guid>ac83f93897bf09817639da1a0b8c2f3be6b5bf2b0f675284a69272d198cb3991</guid><pubDate>Tue, 01 Sep 2026 22:34:32 GMT</pubDate><description>&lt;p&gt;Anthropic周二发布旗舰AI模型新版本Fable 5.1，在大幅削减使用成本的同时提升编程与科研能力。冲刺2万亿美元估值超级IPO在即，Anthropic期待通过“极致性能+大幅降本”的组合拳，构筑更深的商业护城河。&lt;/p&gt;
-&lt;p&gt;新版本最核心的变化在于定价策略调整：&lt;strong&gt;Anthropic对模型重新调用已处理信息这一环节的收费下调75%，公司表示这将带来整体运行成本的&amp;quot;大幅下降&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该公司产品管理负责人Dianne Penn指出，&lt;strong&gt;这一环节在部分复杂长任务中占据一半甚至更高比例的token消耗，是客户反馈最为集中的痛点之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Anthropic还宣布将允许企业客户在自有云基础设施上保留数据，同时仍接受Anthropic的安全审查，这一政策标志着公司对此前数据留存规定的重大转向。&lt;/p&gt;
-&lt;p&gt;此外，邀请制高阶模型Mythos 5.1也将于同日向部分预选用户小范围开放。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic公布的数据显示，Fable 5.1多项基准测试的表现均优于上一代旗舰Fable 5和竞争对手OpenAI的GPT-5.6 Sol，尤其是编程和科研能力提升明显，继续刷新LLM的能力“天花板”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-降价逻辑：积极应对竞争，加速争夺企业客户
-
-&lt;p&gt;Fable 5.1对新输入token的收费与前代Fable 5保持一致，价格调整主要集中在&amp;quot;缓存命中&amp;quot;（cache reads）部分——即模型重新读取此前已处理内容时的计费环节，降幅达75%。&lt;/p&gt;
-&lt;p&gt;Anthropic表示，&lt;strong&gt;对于按Token（词元）计费的典型工作负载，Fable 5.1的预期使用成本将比Fable 5低25%。对于复杂Agent任务，节省幅度会更大，最高可达到约45%。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地</title><link>https://wallstreetcn.com/articles/3780853</link><guid>ac83f93897bf09817639da1a0b8c2f3be6b5bf2b0f675284a69272d198cb3991</guid><pubDate>Wed, 02 Sep 2026 00:25:07 GMT</pubDate><description>&lt;p&gt;Anthropic在IPO窗口临近之际，以一次全方位的产品更新向市场发出信号。&lt;/p&gt;
+&lt;p&gt;周二（9月1日），这家AI公司发布旗舰模型新版本Fable 5.1，在8项公开基准测试中全部夺冠，同步大幅削减企业使用成本，并推出针对模型蒸馏攻击的新安全机制，构成迄今最具分量的一次迭代升级。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;性能层面&lt;/strong&gt;，Fable 5.1在编程与科研两大核心场景上明显领先前代旗舰Fable 5及竞争对手OpenAI的GPT-5.6 Sol；以中低推理程度运行的Fable 5.1，表现已基本相当于此前的Mythos 5在极高推理程度下的水准。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;成本层面&lt;/strong&gt;，缓存读取价格削减75%，对于智能体化程度较高的工作负载，整体使用成本最多可下降45%。&lt;/p&gt;
+&lt;p&gt;与此同时，Anthropic宣布允许企业客户将数据保留在自有云基础设施上，并新增对思维链签名验证的反蒸馏保护机制。邀请制高阶模型Mythos 5.1也于同日向部分预选用户开放。&lt;/p&gt;
+&lt;p&gt;上述调整落地之际，Anthropic据报正计划于下周美国劳动节后公开招股书，&lt;strong&gt;最快有望在9月底登陆美股市场，目标估值达2万亿美元或更高&lt;/strong&gt;。分析指出，此番&amp;quot;极致性能+大幅降本+数据政策松绑&amp;quot;的组合，被市场解读为公司在上市前夕加速争夺企业客户、为高估值提供收入支撑的关键举措。&lt;/p&gt;
+性能跃升：8项基准居首，&amp;quot;牢Fable&amp;quot;实力越级
+&lt;p&gt;Anthropic公布的数据显示，Fable 5.1在全部8项公开基准测试中均排名第一，尤其在编程和科研两项上与Fable 5及GPT-5.6 Sol之间的差距最为显著。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Dianne Penn表示，该环节在软件开发、代码审查等需要模型遍历整个应用代码库的任务中，往往消耗超过一半的token用量。&amp;quot;这是我们希望改进的一个领域，也是在回应客户反馈。&amp;quot;她说。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;除降价外，新模型本身也经过优化，旨在以更少的token完成相同任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一调整背景清晰：&lt;strong&gt;模型竞争日趋激烈；同时企业买家在AI支出上愈发审慎，迫切需要更可预期的成本结构。&lt;/strong&gt;&lt;/p&gt;
-
-能力升级：编程与科研场景双线突破
-
-&lt;p&gt;在性能层面，Fable 5.1重点强化了两类专业场景。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;编程方面，新模型更擅长处理跨越完整代码库的长链路任务，涵盖大型软件项目开发及系统性代码审查等。科研方面，模型在实验方案设计、实验过程模拟以及读取高密度图表数据等任务上的表现均有所提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尤其是科研能力，Fable 5.1在Terminal-Bench-Science上达到52.6%，相比Fable 5的24.7%超过翻倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;安全分类器也得到同步优化——误报率显著下降。这意味着从事网络安全和生物学相关工作的用户将减少被系统误拦截的情况，作业效率有望提高。&lt;/p&gt;
-&lt;p&gt;值得注意的背景是，美国政府此前因安全顾虑，曾于6月对Fable和Mythos两款模型实施访问限制。Fable 5在加入可识别和屏蔽更多网络安全任务的分类器后，限制随即解除；Mythos 5的访问权限后来也得以恢复，但开放范围相对更小。&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;科研能力方面&lt;/strong&gt;，Fable 5.1在Terminal-Bench-Science上得分为52.6%，而前代Fable 5仅为24.7%，增幅超过一倍。编程方面，新模型更擅长处理跨越完整代码库的长链路任务，涵盖大型软件项目开发及系统性代码审查等场景。&lt;/p&gt;
+&lt;p&gt;Anthropic将这一跃升归结于模型在多步骤任务上稳定性的提升：&lt;strong&gt;在此类任务中，早期的微小错误往往会随步骤累积放大，导致最终输出崩溃；Fable 5.1被设计为能够全程维持稳定输出，遇到无法解决的问题时会主动告知用户已尝试的路径及卡点所在。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;写作方面&lt;/strong&gt;，研究员Flix Rieseberg指出，Fable 5.1减少使用粗体、标题、列表和引号，对风格提示词的遵循程度更高。此外，新模型本身经过优化，可在消耗更少token的前提下完成相同任务。&lt;/p&gt;
+降价逻辑：缓存读取降75%，剑指企业智能体市场
+&lt;p&gt;定价调整是此次更新中最具直接商业意义的变化。Fable 5.1的输入和输出价格与前代保持不变，分别为每百万token 10美元和50美元；调整集中于&amp;quot;缓存命中&amp;quot;环节，即模型重新读取此前已处理内容时的计费，降幅达75%，降至每百万token 0.25美元。&lt;/p&gt;
+&lt;p&gt;Anthropic表示，对于典型工作负载，Fable 5.1的预期使用成本将比Fable 5低约25%；对于高度智能体化的任务，节省幅度最高可达45%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;公司产品管理负责人Dianne Penn解释了这一调整的背景：&lt;strong&gt;在软件开发、代码审查等需要模型遍历整个应用代码库的任务中，缓存读取往往消耗超过一半的token用量，是客户反馈最为集中的痛点之一&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;这是我们希望改进的一个领域，也是在回应客户反馈。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这一调整的背景清晰：模型竞争日趋激烈，企业买家在AI支出上愈发审慎，需要更可预期的成本结构。&lt;/p&gt;
 数据政策转向：企业主权诉求获回应
-
-&lt;p&gt;&lt;strong&gt;Anthropic宣布的数据留存政策调整，或是此次更新中对企业客户吸引力最大的变化之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新政策允许企业用户在使用Anthropic最强能力模型时，将数据保留在自有云计算基础设施上，而非强制存放于Anthropic服务器——同时Anthropic仍将对相关数据执行安全检查。&lt;/p&gt;
-&lt;p&gt;此前的政策设计初衷是降低网络安全风险，但也因此令部分对数据主权有严格要求的企业客户望而却步。&lt;/p&gt;
-
-IPO在即，收入扩张成估值支撑关键
-&lt;p&gt;Anthropic与OpenAI均已提交不公开上市申请文件，此前有报道称，Anthropic计划在下周美国劳动节后公开招股书，这意味着公司最快将在9月底登陆美股市场，目标估值为2万亿美元或更高。&lt;/p&gt;
-
-&lt;p&gt;Fable 5.1的发布，是Anthropic与OpenAI竞相拓展企业客户、覆盖编程、网络安全、金融服务、科学及医疗健康等专业场景这一更宏观战略的组成部分。&lt;/p&gt;
-&lt;p&gt;Anthropic预计年化收入将突破650亿美元，较2025年底的运营节奏增长逾七倍。&lt;/p&gt;
-&lt;p&gt;在上市窗口临近之际，持续扩大企业市场份额、将高估值转化为可见的收入增长，对两家公司均至关重要。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔大涨！全年指引超预期上调，Q2营收创历史新高，AI服务器需求爆发｜财报见闻</title><link>https://wallstreetcn.com/articles/3780858</link><guid>5ca0dda47e731947eb97d4995fb6ed12e4c460213588aad54f55aa3ce26cee81</guid><pubDate>Tue, 01 Sep 2026 20:22:21 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic宣布的数据留存政策调整，或是此次更新中对企业客户吸引力最大的变化之一。&lt;/p&gt;
+&lt;p&gt;新政策允许企业用户在使用Anthropic最强能力模型时，将数据保留在自有云计算基础设施上，而非强制存放于Anthropic服务器——与此同时，Anthropic仍将对相关数据执行安全检查。&lt;/p&gt;
+&lt;p&gt;此前的政策设计初衷是降低网络安全风险，但也因此令部分对数据主权有严格要求的企业客户望而却步。新政策标志着公司对此前数据留存规定的重大转向。&lt;/p&gt;
+安全更新：误报率大降，反蒸馏机制落地
+&lt;p&gt;&lt;strong&gt;安全机制方面&lt;/strong&gt;，Fable 5.1的网络安全误报率比Fable 5降低了60%，现在允许用于发现软件漏洞，但仍禁止开发漏洞利用程序；基础生物学和医学问题的误报率降低了85%。&lt;/p&gt;
+&lt;p&gt;这意味着从事网络安全和生物学相关工作的用户将减少被系统误拦截的情况。&lt;/p&gt;
+&lt;p&gt;值得注意的是，美国政府此前因安全顾虑曾对Fable和Mythos两款模型实施访问限制，Fable 5在加入相关分类器后限制解除，Mythos 5的权限后来也得以部分恢复。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次更新的一项重要新增是反蒸馏机制。&lt;/strong&gt;从即日起，&lt;strong&gt;新注册的API账户无法在多轮对话中手动编辑Claude上下文的同时保留思维链记录&lt;/strong&gt;——这堵住了一种此前已被公开记录的攻击手法：&lt;strong&gt;通过在多轮对话中篡改历史上下文但保留思维链，在对抗性指令下重放模型此前的推理过程。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;具体实现方式是为每个思维链区块加入签名（signature）验证，校验当前模型是否有权读取该区块，以及生成时的完整对话上下文是否保持一致。对话中任何内容被修改，签名校验即告失败。&lt;/p&gt;
+&lt;p&gt;失败后的处理方式由开发者通过参数prefix_mismatch_behavior控制：默认值&amp;quot;error&amp;quot;直接返回400状态码；&amp;quot;drop_block&amp;quot;则静默丢弃相关区块并继续执行请求，被丢弃部分不计费。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;会触发校验失败的操作包括：&lt;/strong&gt;编辑、重排或删除任何历史消息，改动顶层系统提示词，对工具列表做增删改名，以及从对话中间抽走思维链区块。追加新消息、修改请求参数、增减缓存控制标记等操作则不受影响。&lt;/p&gt;
+&lt;p&gt;Anthropic为直接调用Messages API的开发者提供了一系列替代方案，并建议将messages数组严格作为只追加（append-only）的结构来使用。使用Claude Code、claude.ai等官方产品的用户无需作出任何调整。&lt;/p&gt;
+科研实战：蛋白质设计、金星地图与GPU加速
+&lt;p&gt;除基准测试外，Anthropic还展示了Fable 5.1和Mythos 5.1在科研场景中的实际应用成果。&lt;/p&gt;
+&lt;p&gt;蛋白质设计方面，Anthropic让Mythos 5.1使用开源工具设计高亲和力结合蛋白，并送至两家外部机构做实验验证。在三个靶标上，Mythos 5.1设计的结合亲和力是Adaptyv Bio蛋白质设计竞赛最佳方案的10倍；在全部12个靶标上，命中率接近50%，而当前该领域的典型命中率在10%至15%之间。高亲和力结合蛋白是许多常见药物开发流程的第一步，直接影响药物所需的有效剂量。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;天文学方面&lt;/strong&gt;，Fable 5.1基于NASA麦哲伦号30多年前拍摄的雷达图像，训练神经网络为金星三分之一的表面生成了新的高分辨率地形图，分辨率从此前的10至20公里提升至2至3公里，高度精度提高了25%。该地图已以CC协议开源发布，供即将到来的NASA VERITAS和ESA EnVision任务参考。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;计算生物学方面&lt;/strong&gt;，Mythos 5.1通过编写自定义GPU内核并缓存中间结果，将7个开源深度学习模型的运行速度提升了最高2.5倍，可将GPU成本降低30%至60%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这类优化通常需要一个性能工程团队花费数周完成，许多学术实验室无力负担，而&lt;strong&gt;Mythos 5.1仅用数天便完成，且仅依赖公开源代码。&lt;/strong&gt;Anthropic计划近期将相关优化开源。&lt;/p&gt;
+IPO前夕：收入扩张成估值支撑关键
+&lt;p&gt;Fable 5.1的发布，是Anthropic在IPO窗口临近之际一系列动作的缩影。据报道，Anthropic与OpenAI均已提交不公开上市申请文件，Anthropic计划在劳动节后公开招股书，最快有望于9月底登陆美股市场，目标估值为2万亿美元或更高。&lt;/p&gt;
+&lt;p&gt;Anthropic预计年化收入将突破650亿美元，较2025年底的运营节奏增长逾七倍。在上市窗口临近之际，持续扩大企业市场份额、将高估值转化为可见的收入增长，对公司至关重要。&lt;/p&gt;
+&lt;p&gt;Fable 5.1的发布是Anthropic争夺编程、网络安全、金融服务、科学及医疗健康等专业场景企业客户这一更宏观战略的组成部分。而此时，竞争对手OpenAI的新模型Astra尚未就绪，仅发出预告。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔大涨！全年指引超预期上调，Q2营收创历史新高，AI服务器需求爆发｜财报见闻</title><link>https://wallstreetcn.com/articles/3780858</link><guid>5ca0dda47e731947eb97d4995fb6ed12e4c460213588aad54f55aa3ce26cee81</guid><pubDate>Tue, 01 Sep 2026 20:22:21 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;戴尔科技因人工智能服务器需求强劲，大幅上调全年营收预期，盘后股价随即跳涨约10%，进一步印证数据中心基础设施投资热潮持续升温。&lt;/p&gt;
 &lt;p&gt;戴尔公布截至7月31日的2027财年第二季度业绩。&lt;strong&gt;公司当季营收达到470亿美元，同比增长58%，创历史新高，高于市场预期的448亿美元；按非GAAP口径计算，每股收益为7.04美元，同比增长203%，远高于市场预期的4.90美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
