@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 19:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，网安模型瞄准自动修复</title><link>https://wallstreetcn.com/articles/3780934</link><guid>d90eb751809f104f7f59e985806a414b828850dfa223487212be04772f7d9443</guid><pubDate>Wed, 02 Sep 2026 16:47:05 GMT</pubDate><description>&lt;p&gt;谷歌又一次加快了Gemini模型的迭代速度。&lt;/p&gt;
-&lt;p&gt;美东时间9月2日周三，谷歌宣布推出Gemini 3.8 Flash和Gemini 3.8 Flash Cyber两款新模型，分别瞄准长周期编程、智能体工作流与复杂推理，以及网络安全漏洞发现和自动修复。谷歌称，Gemini 3.8是其迄今“最强的推理和编程模型”，两款模型均通过长时间运行的智能体循环，不断评估和优化任务执行结果。&lt;/p&gt;
-&lt;p&gt;距离上一代Gemini 3.7 Flash发布仅过去三周，谷歌就再次推出新版本。谷歌表示，此次是其&lt;strong&gt;六周内第三次发布Flash模型&lt;/strong&gt;；独立AI基准测试机构Artificial Analysis则指出，3.8 Flash已是谷歌不到四个月内推出的第四款Flash模型。&lt;/p&gt;
-&lt;p&gt;在性能提升的同时，谷歌继续维持低价策略：Gemini 3.8 Flash的引导价格与3.7 Flash相同，为每百万输入Token 0.75美元、每百万输出Token 3.75美元，优惠持续至今年年底。Artificial Analysis评测显示，3.8 Flash高推理档在其综合智能指数中获得59分，较3.7 Flash提高3分，并以每项任务约0.58美元的成本进入“智能程度—任务成本”性价比前沿。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-从长周期编程到自主智能体，3.8 Flash更强调“把事做完”
-&lt;p&gt;Gemini 3.8 Flash此次的核心升级，是从单次代码生成进一步转向长周期的软件工程和自主智能体。&lt;/p&gt;
-&lt;p&gt;谷歌表示，3.8 Flash在DeepSWE v1.1长周期软件工程测试中，能够自主解决复杂工程问题并完成端到端任务，表现超过多数规模更大的前沿模型。与此同时，新模型在金融、法律等专业领域的智能体测试中也有所提升，在HLE-Verified测试中的得分达到54.9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这背后的关键变化，是谷歌让模型“做得更多”。&lt;/p&gt;
-&lt;p&gt;谷歌称，3.8 Flash在复杂任务上会执行更多推理步骤，并反复调用工具；模型还可以通过长时间运行的智能体循环，对自身结果进行评估和优化。也就是说，相比简单地给出一段代码或一个答案，3.8 Flash更强调规划、执行、检查和修正这一完整过程。&lt;/p&gt;
-&lt;p&gt;谷歌展示的案例也更加接近实际生产环境，包括通过Antigravity仅凭一个提示生成可运行的3D游戏、生成能够运行的DOS版Google Maps，以及在AI Studio中生成硬件拆解的交互式3D可视化工具。&lt;/p&gt;
-&lt;p&gt;这也意味着，Flash系列的定位正在发生变化：它不再只是一个追求速度和低成本的“小模型”，而是逐渐成为谷歌推动AI智能体落地的重要底层模型。&lt;/p&gt;
-独立评测：智能指数升至59分，但“多做事”也意味着更高Token消耗
-&lt;p&gt;Artificial Analysis的独立测试进一步印证了3.8 Flash的能力提升。&lt;/p&gt;
-&lt;p&gt;该机构数据显示，Gemini 3.8 Flash高推理档的Artificial Analysis Intelligence Index得分为59分，比3.7 Flash的56分高3分；中推理档得分57分，低推理档则为52分。高推理档的输出速度约为305 Token/秒，位居其评测模型前列。&lt;/p&gt;
-&lt;p&gt;不过，性能提升并非完全没有代价。&lt;/p&gt;
-&lt;p&gt;Artificial Analysis指出，虽然谷歌维持了3.7 Flash的Token价格，但3.8 Flash高推理档每项任务的实际成本约为0.58美元，较3.7 Flash的0.40美元高约40%。原因在于，新模型平均每项任务的输出Token数量增加约30%，同时智能体评测中的交互轮数也有所增加。&lt;/p&gt;
-&lt;p&gt;换句话说，&lt;strong&gt;单价没有上涨，但模型为了完成更复杂的任务“思考得更多、调用得更多”，实际使用成本反而有所增加。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这也解释了谷歌为什么同时保留不同推理档位。Artificial Analysis数据显示，3.8 Flash中推理档每项任务成本约0.41美元，低推理档约0.24美元。对于追求成本效率的应用，开发者可以降低推理强度，或者继续使用3.7 Flash。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-3.8 Flash Cyber瞄准网络安全：漏洞发现与自动打补丁
-&lt;p&gt;与通用版3.8 Flash同步发布的，是专门面向网络安全领域的Gemini 3.8 Flash Cyber。&lt;/p&gt;
-&lt;p&gt;谷歌称，新模型具备“前沿水平”的漏洞发现和自动修复能力，并重点强化了防御侧应用。其在CyberGym行业基准中的漏洞自主发现表现超过Gemini 3.5 Flash Cyber以及规模明显更大的前沿模型。&lt;/p&gt;
-&lt;p&gt;在谷歌内部覆盖20种编程语言的真实漏洞测试中，3.8 Flash Cyber的成功率超过70%；在CWE-Bench自动补丁测试中，pass@1达到47.2%，接近领先前沿模型的47.8%，但成本明显更低。&lt;/p&gt;
-&lt;p&gt;谷歌还公布了几个实际应用案例。&lt;/p&gt;
-&lt;p&gt;Chrome安全团队发现，3.8 Flash Cyber生成的正确漏洞补丁数量，是规模更大的商业模型的2.6倍；网络安全公司Wiz的内部渗透测试显示，该模型的召回率比其他前沿模型高7.5至9.7%，成本则低2.3至5.2倍。&lt;/p&gt;
-&lt;p&gt;谷歌云漏洞研究团队甚至利用该模型在不到两小时内发现了一项关键基础设施漏洞，而谷歌称这类漏洞过去通常需要数月才能完成研究和发现。&lt;/p&gt;
-Fairwind计划启动，650多家机构获网络安全AI“优先通道”
-&lt;p&gt;伴随Gemini 3.8 Flash Cyber发布，谷歌还推出了Fairwind计划，将网络安全AI进一步推向政府、关键基础设施和大型企业。&lt;/p&gt;
-&lt;p&gt;根据谷歌公告，Fairwind是一个限制访问的项目，面向政府机构以及可信赖的云客户和网络安全合作伙伴开放。参与者可以使用Gemini 3.8 Flash Cyber，并结合谷歌的CodeMender工具，实现漏洞发现、验证和自动修复。&lt;/p&gt;
-&lt;p&gt;谷歌表示，参与机构需要将模型访问权限限制在内部网络安全、事件响应或渗透测试团队，并部署多因素身份验证等安全措施。目前Fairwind已经拥有&lt;strong&gt;超过650家全球合作伙伴&lt;/strong&gt;，覆盖政府、关键基础设施以及核心技术平台。&lt;/p&gt;
-&lt;p&gt;这意味着谷歌此次并不只是发布一个网络安全模型，而是在尝试建立一个面向防御方的AI安全生态。&lt;/p&gt;
-&lt;p&gt;尤其值得注意的是，谷歌强调Fairwind将首先为政府和对社会韧性至关重要的企业提供访问权限，包括医疗、电信、能源和金融等关键基础设施运营商，以及维护广泛软件基础设施的技术平台。&lt;/p&gt;
-Flash高频迭代，谷歌押注“更便宜的智能体”落地
-&lt;p&gt;从3.6 Flash到3.7 Flash，再到如今的3.8 Flash，谷歌正在明显加快Flash系列的更新节奏。&lt;/p&gt;
-&lt;p&gt;而与早期Flash模型强调“快”和“便宜”相比，如今的3.8 Flash更加突出长周期推理、工具调用、软件工程和自主智能体能力。谷歌试图证明的是：&lt;strong&gt;不一定需要最大规模的模型，才能完成越来越复杂的真实工作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;价格则成为谷歌扩大这一战略的重要杠杆。&lt;/p&gt;
-&lt;p&gt;3.8 Flash继续维持每百万输入Token 0.75美元、输出Token 3.75美元的年底前引导价格，同时提供1M Token上下文窗口，并支持文本、图像、语音和视频输入。消费者可以通过谷歌AI Pro和Ultra订阅使用，开发者则可以通过Antigravity、谷歌AI Studio和Android Studio调用，企业用户可通过Gemini Enterprise使用。&lt;/p&gt;
-&lt;p&gt;对于谷歌而言，这种策略的意义在于：在AI竞争从“谁的模型最强”逐渐转向“谁能让智能体以合理成本完成更多实际任务”的过程中，Flash系列可以凭借成本和速度优势抢占更大规模的应用入口。&lt;/p&gt;
-&lt;p&gt;而此次同时推出通用智能体模型和网络安全专用模型，也显示谷歌正在把Gemini的竞争重点从单纯的聊天和问答，进一步推向&lt;strong&gt;编程、企业工作流以及能够直接创造经济价值的AI执行任务&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 戴尔增长逻辑变了！高盛：AI驱动企业换机，传统服务器需求超预期爆发！</title><link>https://wallstreetcn.com/articles/3780902</link><guid>59cd3d1c39ae1da04fb56b9f0e5ec976986ef7cd9676aa80cf5f7680d22ae497</guid><pubDate>Wed, 02 Sep 2026 08:49:07 GMT</pubDate><description>&lt;p&gt;AI需求与企业IT硬件换机潮的双轮驱动，正在重塑戴尔的增长曲线。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 02 Sep 2026 19:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 戴尔增长逻辑变了！高盛：AI驱动企业换机，传统服务器需求超预期爆发！</title><link>https://wallstreetcn.com/articles/3780902</link><guid>59cd3d1c39ae1da04fb56b9f0e5ec976986ef7cd9676aa80cf5f7680d22ae497</guid><pubDate>Wed, 02 Sep 2026 08:49:07 GMT</pubDate><description>&lt;p&gt;AI需求与企业IT硬件换机潮的双轮驱动，正在重塑戴尔的增长曲线。&lt;/p&gt;
 &lt;p&gt;戴尔2027财年第二季度（F2Q27）业绩全面超预期。公司Non-GAAP每股收益达7.04美元，大幅超越高盛预估的4.96美元、市场共识的4.92美元及公司自身指引区间4.70至4.90美元。收入达470亿美元，同样超出高盛预估的448亿美元及指引上限450亿美元。值得关注的是，公司同步大幅上调全年展望，将FY27传统服务器收入增速指引从&amp;quot;超过60%&amp;quot;提升至&amp;quot;超过100%&amp;quot;，存储业务增速预期从中低个位数上调至中双位数。&lt;/p&gt;
 &lt;p&gt;高盛评论认为，企业IT硬件的持续换机需求与AI相关基础设施投入的叠加，为戴尔提供了差异化的长期增长支撑。分析师维持戴尔买入评级，并将12个月目标价从510美元上调至570美元，同时将FY27至FY29三年平均每股收益预测上调38%。高盛认为，&lt;/p&gt;
 
@@ -122,7 +81,48 @@ AI举债热潮加剧债市压力
 &lt;p&gt;日本10年期国债收益率升破3%这一30年来未见的高位，令市场将目光投向首相高市早苗（Sanae Takaichi）及其激进的投资计划。德国国债期货跌至2011年以来最低，法国OAT期货跌至历史低位，英国国债收益率则于周二触及2008年以来最高水平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;汇丰首席亚洲经济学家Fred Neumann表示，JGB收益率上升不仅折射出投资者对日本财政前景的忧虑，也体现了长期融资成本所受的全球性压力。Chanana则进一步指出：&amp;quot;日本与英国看起来处于最前线，因为收益率上升与财政压力及货币政策转向正面发生碰撞；法国鉴于其债务轨迹，同样处于脆弱位置。&amp;quot;&lt;/p&gt;
-&lt;p&gt;Gama Asset Management全球宏观组合经理Rajeev De Mello总结道：&amp;quot;债券收益率本已在上行，美伊交火及其对油价的冲击令投资者对债市愈加忧虑。在当前水平上，更高的收益率对亚洲股市、尤其是久期较长的科技股构成明显逆风。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “SaaS末日”幸存者数量惊人！AI冲击七个月后，大量软件公司正在强势复苏</title><link>https://wallstreetcn.com/articles/3780922</link><guid>9b54f5c7777f7763cd6bc2f75816057125956c4fbe92ae6396dfaeb0cbbe4df3</guid><pubDate>Wed, 02 Sep 2026 12:13:43 GMT</pubDate><description>&lt;p&gt;今年2月，一场被市场称为“SaaS末日”的恐慌席卷软件股，数百亿美元市值在AI替代威胁论下蒸发殆尽。&lt;strong&gt;七个月后，这场&amp;quot;末日&amp;quot;的幸存者数量令人瞩目——大量SaaS公司股价不仅收复失地，更创下数年新高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gama Asset Management全球宏观组合经理Rajeev De Mello总结道：&amp;quot;债券收益率本已在上行，美伊交火及其对油价的冲击令投资者对债市愈加忧虑。在当前水平上，更高的收益率对亚洲股市、尤其是久期较长的科技股构成明显逆风。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 才三周Flash就换代！谷歌上新两款Gemini 3.8：编程与推理能力升级，网安模型瞄准自动修复</title><link>https://wallstreetcn.com/articles/3780934</link><guid>d90eb751809f104f7f59e985806a414b828850dfa223487212be04772f7d9443</guid><pubDate>Wed, 02 Sep 2026 16:47:05 GMT</pubDate><description>&lt;p&gt;谷歌又一次加快了Gemini模型的迭代速度。&lt;/p&gt;
+&lt;p&gt;美东时间9月2日周三，谷歌宣布推出Gemini 3.8 Flash和Gemini 3.8 Flash Cyber两款新模型，分别瞄准长周期编程、智能体工作流与复杂推理，以及网络安全漏洞发现和自动修复。谷歌称，Gemini 3.8是其迄今“最强的推理和编程模型”，两款模型均通过长时间运行的智能体循环，不断评估和优化任务执行结果。&lt;/p&gt;
+&lt;p&gt;距离上一代Gemini 3.7 Flash发布仅过去三周，谷歌就再次推出新版本。谷歌表示，此次是其&lt;strong&gt;六周内第三次发布Flash模型&lt;/strong&gt;；独立AI基准测试机构Artificial Analysis则指出，3.8 Flash已是谷歌不到四个月内推出的第四款Flash模型。&lt;/p&gt;
+&lt;p&gt;在性能提升的同时，谷歌继续维持低价策略：Gemini 3.8 Flash的引导价格与3.7 Flash相同，为每百万输入Token 0.75美元、每百万输出Token 3.75美元，优惠持续至今年年底。Artificial Analysis评测显示，3.8 Flash高推理档在其综合智能指数中获得59分，较3.7 Flash提高3分，并以每项任务约0.58美元的成本进入“智能程度—任务成本”性价比前沿。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+从长周期编程到自主智能体，3.8 Flash更强调“把事做完”
+&lt;p&gt;Gemini 3.8 Flash此次的核心升级，是从单次代码生成进一步转向长周期的软件工程和自主智能体。&lt;/p&gt;
+&lt;p&gt;谷歌表示，3.8 Flash在DeepSWE v1.1长周期软件工程测试中，能够自主解决复杂工程问题并完成端到端任务，表现超过多数规模更大的前沿模型。与此同时，新模型在金融、法律等专业领域的智能体测试中也有所提升，在HLE-Verified测试中的得分达到54.9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这背后的关键变化，是谷歌让模型“做得更多”。&lt;/p&gt;
+&lt;p&gt;谷歌称，3.8 Flash在复杂任务上会执行更多推理步骤，并反复调用工具；模型还可以通过长时间运行的智能体循环，对自身结果进行评估和优化。也就是说，相比简单地给出一段代码或一个答案，3.8 Flash更强调规划、执行、检查和修正这一完整过程。&lt;/p&gt;
+&lt;p&gt;谷歌展示的案例也更加接近实际生产环境，包括通过Antigravity仅凭一个提示生成可运行的3D游戏、生成能够运行的DOS版Google Maps，以及在AI Studio中生成硬件拆解的交互式3D可视化工具。&lt;/p&gt;
+&lt;p&gt;这也意味着，Flash系列的定位正在发生变化：它不再只是一个追求速度和低成本的“小模型”，而是逐渐成为谷歌推动AI智能体落地的重要底层模型。&lt;/p&gt;
+独立评测：智能指数升至59分，但“多做事”也意味着更高Token消耗
+&lt;p&gt;Artificial Analysis的独立测试进一步印证了3.8 Flash的能力提升。&lt;/p&gt;
+&lt;p&gt;该机构数据显示，Gemini 3.8 Flash高推理档的Artificial Analysis Intelligence Index得分为59分，比3.7 Flash的56分高3分；中推理档得分57分，低推理档则为52分。高推理档的输出速度约为305 Token/秒，位居其评测模型前列。&lt;/p&gt;
+&lt;p&gt;不过，性能提升并非完全没有代价。&lt;/p&gt;
+&lt;p&gt;Artificial Analysis指出，虽然谷歌维持了3.7 Flash的Token价格，但3.8 Flash高推理档每项任务的实际成本约为0.58美元，较3.7 Flash的0.40美元高约40%。原因在于，新模型平均每项任务的输出Token数量增加约30%，同时智能体评测中的交互轮数也有所增加。&lt;/p&gt;
+&lt;p&gt;换句话说，&lt;strong&gt;单价没有上涨，但模型为了完成更复杂的任务“思考得更多、调用得更多”，实际使用成本反而有所增加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也解释了谷歌为什么同时保留不同推理档位。Artificial Analysis数据显示，3.8 Flash中推理档每项任务成本约0.41美元，低推理档约0.24美元。对于追求成本效率的应用，开发者可以降低推理强度，或者继续使用3.7 Flash。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+3.8 Flash Cyber瞄准网络安全：漏洞发现与自动打补丁
+&lt;p&gt;与通用版3.8 Flash同步发布的，是专门面向网络安全领域的Gemini 3.8 Flash Cyber。&lt;/p&gt;
+&lt;p&gt;谷歌称，新模型具备“前沿水平”的漏洞发现和自动修复能力，并重点强化了防御侧应用。其在CyberGym行业基准中的漏洞自主发现表现超过Gemini 3.5 Flash Cyber以及规模明显更大的前沿模型。&lt;/p&gt;
+&lt;p&gt;在谷歌内部覆盖20种编程语言的真实漏洞测试中，3.8 Flash Cyber的成功率超过70%；在CWE-Bench自动补丁测试中，pass@1达到47.2%，接近领先前沿模型的47.8%，但成本明显更低。&lt;/p&gt;
+&lt;p&gt;谷歌还公布了几个实际应用案例。&lt;/p&gt;
+&lt;p&gt;Chrome安全团队发现，3.8 Flash Cyber生成的正确漏洞补丁数量，是规模更大的商业模型的2.6倍；网络安全公司Wiz的内部渗透测试显示，该模型的召回率比其他前沿模型高7.5至9.7%，成本则低2.3至5.2倍。&lt;/p&gt;
+&lt;p&gt;谷歌云漏洞研究团队甚至利用该模型在不到两小时内发现了一项关键基础设施漏洞，而谷歌称这类漏洞过去通常需要数月才能完成研究和发现。&lt;/p&gt;
+Fairwind计划启动，650多家机构获网络安全AI“优先通道”
+&lt;p&gt;伴随Gemini 3.8 Flash Cyber发布，谷歌还推出了Fairwind计划，将网络安全AI进一步推向政府、关键基础设施和大型企业。&lt;/p&gt;
+&lt;p&gt;根据谷歌公告，Fairwind是一个限制访问的项目，面向政府机构以及可信赖的云客户和网络安全合作伙伴开放。参与者可以使用Gemini 3.8 Flash Cyber，并结合谷歌的CodeMender工具，实现漏洞发现、验证和自动修复。&lt;/p&gt;
+&lt;p&gt;谷歌表示，参与机构需要将模型访问权限限制在内部网络安全、事件响应或渗透测试团队，并部署多因素身份验证等安全措施。目前Fairwind已经拥有&lt;strong&gt;超过650家全球合作伙伴&lt;/strong&gt;，覆盖政府、关键基础设施以及核心技术平台。&lt;/p&gt;
+&lt;p&gt;这意味着谷歌此次并不只是发布一个网络安全模型，而是在尝试建立一个面向防御方的AI安全生态。&lt;/p&gt;
+&lt;p&gt;尤其值得注意的是，谷歌强调Fairwind将首先为政府和对社会韧性至关重要的企业提供访问权限，包括医疗、电信、能源和金融等关键基础设施运营商，以及维护广泛软件基础设施的技术平台。&lt;/p&gt;
+Flash高频迭代，谷歌押注“更便宜的智能体”落地
+&lt;p&gt;从3.6 Flash到3.7 Flash，再到如今的3.8 Flash，谷歌正在明显加快Flash系列的更新节奏。&lt;/p&gt;
+&lt;p&gt;而与早期Flash模型强调“快”和“便宜”相比，如今的3.8 Flash更加突出长周期推理、工具调用、软件工程和自主智能体能力。谷歌试图证明的是：&lt;strong&gt;不一定需要最大规模的模型，才能完成越来越复杂的真实工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;价格则成为谷歌扩大这一战略的重要杠杆。&lt;/p&gt;
+&lt;p&gt;3.8 Flash继续维持每百万输入Token 0.75美元、输出Token 3.75美元的年底前引导价格，同时提供1M Token上下文窗口，并支持文本、图像、语音和视频输入。消费者可以通过谷歌AI Pro和Ultra订阅使用，开发者则可以通过Antigravity、谷歌AI Studio和Android Studio调用，企业用户可通过Gemini Enterprise使用。&lt;/p&gt;
+&lt;p&gt;对于谷歌而言，这种策略的意义在于：在AI竞争从“谁的模型最强”逐渐转向“谁能让智能体以合理成本完成更多实际任务”的过程中，Flash系列可以凭借成本和速度优势抢占更大规模的应用入口。&lt;/p&gt;
+&lt;p&gt;而此次同时推出通用智能体模型和网络安全专用模型，也显示谷歌正在把Gemini的竞争重点从单纯的聊天和问答，进一步推向&lt;strong&gt;编程、企业工作流以及能够直接创造经济价值的AI执行任务&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “SaaS末日”幸存者数量惊人！AI冲击七个月后，大量软件公司正在强势复苏</title><link>https://wallstreetcn.com/articles/3780922</link><guid>9b54f5c7777f7763cd6bc2f75816057125956c4fbe92ae6396dfaeb0cbbe4df3</guid><pubDate>Wed, 02 Sep 2026 12:13:43 GMT</pubDate><description>&lt;p&gt;今年2月，一场被市场称为“SaaS末日”的恐慌席卷软件股，数百亿美元市值在AI替代威胁论下蒸发殆尽。&lt;strong&gt;七个月后，这场&amp;quot;末日&amp;quot;的幸存者数量令人瞩目——大量SaaS公司股价不仅收复失地，更创下数年新高。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;推动此轮情绪逆转的核心催化剂，&lt;strong&gt;是Marc Benioff旗下Salesforce发布的强劲季度业绩。该股上周四单日暴涨23%，创六年来最大单日涨幅，自2月低点以来累计反弹46%。&lt;/strong&gt;Benioff在接受CNBC采访时直言：&amp;quot;所谓&amp;#x27;SaaS末日&amp;#x27;的叙事，完全是无稽之谈。&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;当天，软件股龙头Okta单日劲升29%（今年以来涨幅达到86%），CrowdStrike上涨20.5%，Atlassian股价亦攀升至2025年7月以来最高水平。&lt;/p&gt;
