@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 20:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 高贝塔美股大爆发，盘中Snowflake涨26%、特斯拉涨近8%，AI财报叠加沃勒“转鸽”点燃风险偏好</title><link>https://wallstreetcn.com/articles/3781036</link><guid>4586418bd402d942316d88df4ca2bcb2c155f1d38c860dfadeb819e3e19d57ea</guid><pubDate>Thu, 03 Sep 2026 20:15:09 GMT</pubDate><description>&lt;p&gt;美东时间9月3日周四，美股市场风险偏好明显回升，高贝塔成长股成为盘面最抢眼的一批资产。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 20:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 高贝塔美股大爆发，盘中Snowflake涨26%、特斯拉涨近8%，AI财报叠加沃勒“转鸽”点燃风险偏好</title><link>https://wallstreetcn.com/articles/3781036</link><guid>4586418bd402d942316d88df4ca2bcb2c155f1d38c860dfadeb819e3e19d57ea</guid><pubDate>Thu, 03 Sep 2026 20:15:09 GMT</pubDate><description>&lt;p&gt;美东时间9月3日周四，美股市场风险偏好明显回升，高贝塔成长股成为盘面最抢眼的一批资产。&lt;/p&gt;
 &lt;p&gt;盘中三大美股指均涨超1%，而刚公布绩优财报的AI数据云龙头Snowflake一度涨近26%，AI基础设施热潮的受益者Bloom Energy曾涨近10%，特斯拉在举行Cybercab发布会前曾涨近8%，比特币持币“大户”Strategy等加密货币概念股两位数大涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这轮高贝塔行情背后，一端是戴尔科技、Snowflake接连公布超预期业绩，强化市场对AI基础设施和企业AI需求的信心；另一端则是美联储理事沃勒释放出相对鸽派的政策信号，称如果8月通胀数据继续改善，他倾向于支持维持利率不变。市场对9月加息的预期随之明显降温，美债收益率回落，为高估值、高波动成长股打开上涨空间。&lt;/p&gt;
@@ -240,7 +240,67 @@ AI&amp;quot;中间层&amp;quot;的价值之争
 &lt;p&gt;Stripe以逾80亿美元将其收入囊中，较OpenRouter今年5月B轮融资时13亿美元的估值溢价约5.4倍。&lt;/p&gt;
 &lt;p&gt;两笔交易共同指向同一判断：当模型层竞争白热化，模型托管、路由调度、推理优化等&amp;quot;中间件&amp;quot;，理论上可实现旱涝保收。这是&amp;quot;卖铲子&amp;quot;逻辑在AI时代的现实投射。&lt;/p&gt;
 &lt;p&gt;然而这一逻辑并非没有风险。若未来市场收敛至少数几个主流模型，路由层的价值将大打折扣；若模型分发从下载权重文件转向纯API形式，模型托管平台的必要性同样面临根本性挑战。&lt;/p&gt;
-&lt;p&gt;这些中间层资产究竟是如Cloudflare般的&amp;quot;永久性位置价值&amp;quot;，还是AI基础设施尚未固化时期的&amp;quot;时间窗口价值&amp;quot;，目前市场尚无定论。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级</title><link>https://wallstreetcn.com/articles/3781033</link><guid>e0822d4dceda84ee90b5f80d3b37b11f8db568f10d3ad43a9337b7cf4ca61e82</guid><pubDate>Thu, 03 Sep 2026 18:00:52 GMT</pubDate><description>&lt;p&gt;美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。OpenAI总裁Greg Brockman更进一步表示，人们未来或许会回头将“这个时间、这个模型”视为人工通用智能（AGI）到来的节点，并在发布会最后称：“欢迎进入AGI时代。”&lt;/p&gt;
+&lt;p&gt;这些中间层资产究竟是如Cloudflare般的&amp;quot;永久性位置价值&amp;quot;，还是AI基础设施尚未固化时期的&amp;quot;时间窗口价值&amp;quot;，目前市场尚无定论。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球投资者美元对冲比率触及十年低点，美元面临抛售压力</title><link>https://wallstreetcn.com/articles/3781037</link><guid>ca7411e7c0f694ff4eddb28a975c25a83965512c539a0d8017f7fe0edc8b23ce</guid><pubDate>Thu, 03 Sep 2026 20:35:14 GMT</pubDate><description>&lt;p&gt;全球大型机构投资者持有巨量美国资产，却对美元贬值几乎毫无防护，这一格局正在给美元埋下系统性风险。&lt;/p&gt;
+&lt;p&gt;据彭博基于六个市场数据的测算，&lt;strong&gt;截至今年6月30日，日本、加拿大等主要市场的养老金和保险机构对外汇敞口的对冲比率仅为41%，为2015年以来最低水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，一旦市场情绪逆转，大规模的对冲补建将直接转化为美元抛售压力。&lt;strong&gt;彭博估算，上述六个市场的外币持仓规模合计约4.6万亿美元，对冲比率每上升5个百分点，将触发约2300亿美元的交易流量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，两大支撑低对冲策略的核心逻辑，&lt;strong&gt;高对冲成本&lt;/strong&gt;与&lt;strong&gt;美元避险地位&lt;/strong&gt;正同时受到动摇。美元本季度已对所有G10货币走弱，累计跌幅约2.6%。&lt;/p&gt;
+&lt;p&gt;与此同时，投资者对美联储加息路径的预期混乱、美国财政部支撑长端债券市场的举措以及美元避险属性的下滑，共同加剧了市场对&amp;quot;美元贬值交易&amp;quot;的押注。&lt;/p&gt;
+
+低对冲比率积聚风险
+
+&lt;p&gt;过去十年，机构投资者普遍选择持有大量无对冲的美元资产，逻辑在于：&lt;strong&gt;美元在市场动荡时往往升值，天然充当风险缓冲垫；且对冲成本高昂，主动保护得不偿失。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，这一策略的有效性正被质疑。Nuveen管理着1.4万亿美元资产，其伦敦宏观信用主管Laura Cooper表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鉴于外国投资者持有美国资产的规模，对冲比率不需要发生剧烈变化就能产生实质影响。即便对冲比率的微小变动，也能驱动可观的外汇流量。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;值得注意的是，彭博的测算尚未涵盖英国和欧元区等主要市场，但所覆盖的国家已代表美国资产持仓的相当大比重。&lt;/p&gt;
+&lt;p&gt;日本是全球最大的美国国债海外持有国，约占境外持仓总量的10%，加拿大同样跻身前十。&lt;/p&gt;
+
+对冲成本下降，重建对冲的动力上升
+
+&lt;p&gt;推动对冲比率从四年前逾50%持续下滑的关键因素，正在悄然逆转。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;利率差收窄是其中最直接的变量。以日元计价的投资者进行三个月美元对冲的成本，已从2023年10月高峰时的6%降至目前的2.75%，创四年低位；欧元区投资者的对冲成本亦跌至1.32%，为两年最低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manulife投资管理多资产解决方案团队首席投资官Nathan Thooft表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;若市场持续消化美联储不加息的预期、利差进一步收窄，投资者可能开始重建对冲。这将形成持续的美元抛售压力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同时，来自伊朗战争及能源价格飙升的通胀压力，正推动全球央行转向更紧缩立场，进一步压缩与美国的利率差距，削弱持有无对冲美元资产的相对吸引力。&lt;/p&gt;
+
+美元避险地位遭到质疑
+
+&lt;p&gt;&lt;strong&gt;除成本因素外，美元的结构性避险逻辑也正受到更深层的挑战。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国财政部推进大规模长债购买计划以压制借贷成本，以及美日协调汇率干预行动，令市场对美国当局是否愿意以牺牲美元为代价维护金融稳定产生疑虑。&lt;/p&gt;
+&lt;p&gt;Equiti Group首席市场策略师Noureldeen AlHammoury指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;若投资者对美元在市场压力期间可靠升值的信心下降，他们将更难以容忍大规模无对冲的货币敞口。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他同时强调，投资者并不需要抛售美国资产本身。&lt;strong&gt;他们可以在持有股票或国债的同时，通过远期卖出美元来增加货币对冲。&lt;/strong&gt;Noureldeen AlHammoury补充：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这一区别非常重要，因为它意味着即便美元承压，美国资产的需求仍可能保持相对稳健。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;澳大利亚最大政府系资产管理机构之一QIC Ltd.的多资产解决方案主管Stuart Simmons表示，依赖一个70%敞口集中于美元的外币篮子作为防御工具，可能已经不再奏效。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在地缘政治不确定性加剧的时代，你真的有信心美元将继续成为防御性的主要表达方式吗？我们建议审视一些替代选项，确保外币篮子具备更充分的多元化。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+日本或成关键引爆点
+
+&lt;p&gt;在潜在的对冲重建浪潮中，日本的风险敞口尤为突出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据德意志银行估算，日本投资者今年上半年对新增境外债券购买的对冲比率仅为41%，较2024年的62%大幅下滑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;德意志银行日本固定收益首席策略师Shoki Omori指出，&lt;strong&gt;上一次对冲比率如此之低是在2013年，彼时美元随即开启了长达十年的牛市。&lt;/strong&gt;&amp;quot;而今天的宏观环境，看起来更像是那段历史的镜像。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Omori识别出&lt;strong&gt;三个&lt;/strong&gt;可能触发对冲重建的催化剂：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日本央行进一步加息压缩利率差距；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美元急跌使亏损加深，迫使风险委员会要求追加保护；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以及新偿付能力监管框架对保险公司汇率波动容忍度的限制。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;富国银行策略师Erik Nelson则提示，对冲行为对美元的影响程度不宜过度解读，货币政策走向仍是更具主导性的长期驱动力。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但他同时指出，鉴于欧洲基金持有大量无对冲的美国股票头寸，随着做空美元成本下降，投资者增加对冲的空间正在扩大，欧元可能成为主要受益方。Erik Nelson强调：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;任何美元在避险情绪中表现落后的迹象，都可能触发外汇对冲行为的快速切换，进而加速美元下行。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级</title><link>https://wallstreetcn.com/articles/3781033</link><guid>e0822d4dceda84ee90b5f80d3b37b11f8db568f10d3ad43a9337b7cf4ca61e82</guid><pubDate>Thu, 03 Sep 2026 18:00:52 GMT</pubDate><description>&lt;p&gt;美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。OpenAI总裁Greg Brockman更进一步表示，人们未来或许会回头将“这个时间、这个模型”视为人工通用智能（AGI）到来的节点，并在发布会最后称：“欢迎进入AGI时代。”&lt;/p&gt;
 &lt;p&gt;Astra的核心变化不只是回答问题的能力更强，而是能够直接操作计算机和软件，替用户完成编程、科学研究、金融建模、制作演示文稿和电子表格等复杂任务。OpenAI称，Astra在软件工程、科学、推理、计算机操作和网络安全等领域均取得领先表现，并使用超过10万块GPU在得州Stargate基地完成训练。&lt;/p&gt;
 &lt;p&gt;与此同时，Astra也是OpenAI首个达到内部“关键”（Critical）网络安全能力门槛的模型，意味着它已经具备发现此前未知漏洞、开发漏洞利用程序的能力。出于安全考虑，OpenAI对其最先进的网络安全能力设置了更严格的访问限制。&lt;/p&gt;
 从聊天机器人到“数字员工”：Astra直接进入软件环境
@@ -292,52 +352,7 @@ AI&amp;quot;中间层&amp;quot;的价值之争
 &lt;p&gt;外汇市场参与者普遍认为，日本央行可能超预期加息的预期，是本轮日元走强的主要基本面支撑。&lt;/p&gt;
 &lt;p&gt;日本央行政策委员会高田创此前暗示，官员倾向于在9月17日至18日的会议上决定加息，且幅度可能超出市场预估的25个基点，后续会议或将持续跟进。这一连续加息的前景正在重新定价日元资产。&lt;/p&gt;
 &lt;p&gt;与此同时，美国财长贝森特公开表示，日本应逐步摆脱&amp;quot;高桥经济学&amp;quot;式的再通胀政策。这番措辞令市场对日本汇率、货币及财政政策可能承受外部压力保持警觉，在一定程度上进一步强化了日元的升值动能。&lt;/p&gt;
-&lt;p&gt;两股力量的交汇——内部货币政策转向与外部政策压力——共同构成日元近期行情的叙事主线，也令市场对155关口能否守住保持高度关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指勉强收涨，两市成交再度低于2万亿，航运逆势拉升，液冷、培育钻石大涨，恒科指跌超1%，医药股活跃</title><link>https://wallstreetcn.com/articles/3780971</link><guid>f6b9f6fe0f04f962b7cf67d5a0949a447bb29f004168067bdf895d05c03b5304</guid><pubDate>Thu, 03 Sep 2026 08:45:00 GMT</pubDate><description>&lt;p&gt;9月3日，A股三大指数早盘集体高开后冲高回落，午后一度纷纷转跌，尾盘，三大股指勉强收红，科创50指数下跌，盘中跌幅扩大至1%。具备事件催化的航运油运、政策与产业趋势支撑的液冷、以及低位轮动的零售、黄金等表现活跃；而前期高位人气股（教育、乳业、农业及部分连板标的）集体退潮跌停。&lt;/p&gt;
-&lt;p&gt;港股全天高开低走，恒指回落，恒科指转跌，盘初一度涨超1%，午后双双扩大跌幅，恒科指跌超1%。科网股多数下跌，阿里、腾讯、美团、京东等纷纷走低。生物科技板块反弹，恒生生物科技指数涨超1%，和黄医药涨14%。债市方面，国债期货全线反弹，商品方面，国内商品期货分化。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指涨0.02%，深成指涨0.10%，创业板指涨0.01%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，个股跌多涨少，沪深京三市超3500股飘绿，今日成交1.78万亿。沪深两市成交额1.76万亿，较上一个交易日缩量323亿，连续两个交易日成交额低于2万亿。板块方面，培育钻石、保险、航运、液冷服务器等板块涨幅居前，军工、农业、教育、传媒等板块跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，&lt;strong&gt;高位人气股下挫，传智教育、一鸣食品、&lt;/strong&gt;&lt;strong&gt;爱丽家居等多股跌停&lt;/strong&gt;。其中，爱丽家居开盘“一”字跌停，截至收盘，报30.03元/股，最新市值为72.75亿元。深中华A开盘一字跌停，截至收盘，报10.58元/股，总市值72.92亿元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至收盘，恒指跌0.39%，恒科指跌1.08%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;盘面上，权重科网股普跌，腾讯控股、阿里巴巴、小米集团、网易、携程集团集体下滑。银行、煤炭板块走弱，生物科技、地产、有色金属、交通运输板块走强。希音上市第三天，再跌近9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线上涨，截至收盘，30年期主力合约涨0.41%，10年期主力合约涨0.12%，5年期主力合约跌0.05%，2年期主力合约涨0.02%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至收盘，贵金属涨幅居前，钯涨4.24%；基本金属多数上涨，镍涨1.80%；农副产品多数上涨，生猪涨0.90%；航运期货跌幅居前，集运指数(欧线)跌7.18%；能源品多数下跌，燃油跌3.98%；黑色系涨跌参半，焦炭跌3.75%；新能源材料多数下跌，碳酸锂跌3.71%；化工品多数下跌，沥青跌2.22%；油脂油料多数下跌，菜油跌1.08%；非金属建材全部下跌，PVC跌0.69%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-航运/油运：中东冲突升级，板块逆势掀涨停潮
-&lt;p&gt;航运是全天确定性最强的一条主线。板块指数单日大涨2.99%，个股层面海通发展收盘涨停，凤凰航运、中远海能、招商轮船等跟涨，北交所国航远洋涨超8%。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;逻辑链一：事件催化，中东冲突推升地缘溢价与运距拉长。据媒体报道，一艘油轮近日在阿曼湾塞卜以东17海里处遭3枚不明投射物袭击；此前美军对伊朗境内伊斯兰革命卫队目标发动新一轮打击，伊朗反击袭击地区内美军基地并击落一架美军MQ-9无人机。&lt;/p&gt;
-&lt;p&gt;逻辑链二：运价硬数据，VLCC与BDI双双爆发。截至8月底，沙特—中国VLCC航线日收益已升至约65.6万美元/天，较一年前上涨超过10倍；阿曼—中国VLCC航线日收益也从一个月前约13.1万美元升至约22万美元。&lt;/p&gt;
-&lt;p&gt;与此同时，波罗的海干散货运价指数（BDI）升至3331点，创2023年12月以来新高，环比上涨5.51%；其中海岬型船运价指数涨至5642点，同样创2023年12月以来最高。运价上涨的核心变量在于有效运力偏紧——航道通行效率下降、船舶等待时间增加、原油贸易改走更远路线，均消耗现有运力。&lt;/p&gt;
-&lt;p&gt;逻辑链三：景气已兑现至利润表。2026年上半年，中远海能实现营收151.46亿元，同比增长30.03%，归母净利润45.45亿元，同比增长143.21%；招商轮船同期归母净利润达69.6亿元，同比增长227.57%。高景气正从运价向企业业绩实质性传导。&lt;/p&gt;
-液冷服务器：AI算力散热刚需，连板梯队最强
-&lt;p&gt;液冷服务器是当日连板高度最密集、持续性最突出的科技题材。个股层面，集泰股份4连板，金帝股份4天3板，宏盛股份4天2板，金富科技4天2板，新朋股份涨停，思泉新材20CM涨停，鸿富瀚涨超15%、同飞股份涨逾9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;逻辑链一：&lt;/strong&gt;功耗拐点，液冷由“可选”变“必选”。随着万卡智算中心加速落地，AI芯片功耗突破1000W，传统风冷已无法满足散热需求，液冷成为算力部署的&amp;quot;必选项&amp;quot;。单机功率超过100千瓦后冷板式液冷压力明显增加，机柜功率达200千瓦以上浸没式方案更优。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;逻辑链二：&lt;/strong&gt;订单验证，产线满产、交付排至明年。据央视财经报道，山东、广东等地液冷产线满产运行，核心设备CDU订单已排至2026年底，部分交付周期展望至2027年；广东佛山一家液冷部件企业今年订单、产值和交付量同比均接近100%增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;逻辑链三：&lt;/strong&gt;市场空间量化。赛迪顾问数据显示，2025年中国液冷数据中心市场规模达159.8亿元，同比增长45.2%；据行业机构预测，2026年全球智算液冷市场规模或将突破千亿元。&lt;/p&gt;
-&lt;p&gt;中金公司研报称，看好AI算力集群持续扩容背景下光通信散热赛道的高成长性，重点关注光模块VC、液冷Cage及共封装交换机液冷机会。&lt;/p&gt;
-&lt;p&gt;国泰海通研报指出，液冷具散热能力强、机柜密度高、风机能耗低和余热回收条件好等优势，正由高性能计算的&amp;quot;可选方案&amp;quot;转变为高密度AI机柜的必要基础设施，国内液冷产业正由政策引导向标准化、规模化应用过渡。&lt;/p&gt;
-&lt;p&gt;东方证券研报认为，英伟达VR及谷歌TPU v7/v8的出货爬坡将成为液冷需求释放的核心驱动力，有望带动全球液冷产业链从小批量出货向规模化量产迈进，三季度起数据中心液冷需求有望加速释放，国内液冷产业链公司下半年逐步进入订单落地和量产阶段。&lt;/p&gt;
-培育钻石：金刚石散热商用化元年，AI芯片逻辑重估
-&lt;p&gt;培育钻石概念延续强势，恒盛能源直线涨停，北交所惠丰钻石涨超10%，四方达（+7.28%）、沃尔德（+8.93%）、力量钻石（+5.56%）跟涨，黄河旋风收涨7.93%（盘中一度涨停）。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;逻辑链：散热材料代入AI芯片，产业链协同延伸。2026年被业内视作金刚石散热材料商用化落地元年。据中泰证券测算，2026年全球AI芯片用金刚石散热片市场约87亿元人民币，到2030年有望增至592亿元，年复合增长率超50%。&lt;/p&gt;
-&lt;p&gt;机构研报进一步指出，培育钻石与工业金刚石共享同一套高温高压合成技术，又可结合CVD外延技术制备半导体级金刚石晶圆，产业链协同性较强，培育钻石企业具备较强产业延伸能力和转产基础，金刚石功能材料需求快速增长，有望通过产业链协同效应向培育钻石环节传导。&lt;/p&gt;
-大金融盘中活跃
-&lt;p&gt;大金融方向，保险板块领涨，板块涨幅超2%，中国太保、中国人寿、中国平安、新华保险均涨超2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;今年上半年，据央视财经数据，五大险企合计实现归母净利润3173.87亿元，同比增长78.12%，与此同时，五家险企均推出中期分红方案，合计派现总额超过390亿元。&lt;/p&gt;
-&lt;p&gt;中信建投表示，回顾保险板块2026年上半年业绩，负债端寿险NBV和财险承保利润均保持稳健增长，资产端权益市场向好带动总投资收益率普遍改善。&lt;/p&gt;
-&lt;p&gt;国信证券表示，行业负债端持续深化产品、渠道与成本的全方位转型，分红险转型与渠道质态改善稳步推进，承保盈利韧性不断增强。资产端方面，险资长久期资产配置与高股息底仓需求延续，资产结构再平衡稳步推进，盈利稳定性逐步提升。&lt;/p&gt;
-&lt;p&gt;银行板块获利盘逐步兑现，四大行、邮储银行、交通银行尾盘持续扩大跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔接棒后首次详谈伯克希尔投资：100亿美元加仓Alphabet，96岁巴菲特仍参与决策，五大商社拟持有数十年</title><link>https://wallstreetcn.com/articles/3781010</link><guid>610e44ccf872f03e2207aed42b509dabd246666f160a7d5799bec9d69afa24a6</guid><pubDate>Thu, 03 Sep 2026 10:57:53 GMT</pubDate><description>&lt;p&gt;伯克希尔资本配置的几个关键方向，正在阿贝尔接任CEO后逐渐浮出水面。9月2日，阿贝尔在东京接受CNBC专访，谈及日本商社、百亿美元投资Alphabet、日元债务及AI数据中心等布局。&lt;/p&gt;
+&lt;p&gt;两股力量的交汇——内部货币政策转向与外部政策压力——共同构成日元近期行情的叙事主线，也令市场对155关口能否守住保持高度关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔接棒后首次详谈伯克希尔投资：100亿美元加仓Alphabet，96岁巴菲特仍参与决策，五大商社拟持有数十年</title><link>https://wallstreetcn.com/articles/3781010</link><guid>610e44ccf872f03e2207aed42b509dabd246666f160a7d5799bec9d69afa24a6</guid><pubDate>Thu, 03 Sep 2026 10:57:53 GMT</pubDate><description>&lt;p&gt;伯克希尔资本配置的几个关键方向，正在阿贝尔接任CEO后逐渐浮出水面。9月2日，阿贝尔在东京接受CNBC专访，谈及日本商社、百亿美元投资Alphabet、日元债务及AI数据中心等布局。&lt;/p&gt;
 &lt;p&gt;Alphabet是伯克希尔近期最受关注的科技投资。阿贝尔透露，伯克希尔最初买入Alphabet由巴菲特约15个月前启动。&lt;strong&gt;今年5月底，在获得参与一笔股权融资的机会后，阿贝尔立即与巴菲特沟通，最终提出投资100亿美元，并要求较市场价格折让6.5%，交易随后落地。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这笔交易也再次显示，&lt;strong&gt;巴菲特虽然已经卸任CEO，但仍参与伯克希尔的重要投资讨论。阿贝尔透露&lt;/strong&gt;，他飞往东京前刚参加完巴菲特96岁生日聚会，两人期间还谈到了日本投资；抵达东京后，两人当天又通了电话。&lt;/p&gt;
 &lt;p&gt;日本市场则是伯克希尔长期布局的另一条主线。阿贝尔此次访日先赴福岛考察旗下工业切削刀具企业泰珂洛（Tungaloy），随后拜访五大商社和东京海上保险。六年前首次披露投资时，伯克希尔对五大商社的持股刚刚超过5%，如今均已超过10%。&lt;strong&gt;阿贝尔表示，这些投资的持有期限将以几十年计，双方也正从股东关系进一步走向商业合作。&lt;/strong&gt;&lt;/p&gt;
