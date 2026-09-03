@@ -1,5 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 02:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 美银：8月非农“只是预热”，9月加息真正门槛仍在CPI</title><link>https://wallstreetcn.com/articles/3780959</link><guid>0e29be826337a6bf7ce6a05865e05cb6d742bd673d9809f58345ca50dcc80501</guid><pubDate>Thu, 03 Sep 2026 01:33:18 GMT</pubDate><description>&lt;p&gt;华尔街正紧盯即将公布的8月非农就业报告，但美银最新警告：别被非农“虚晃一枪”，这只是开胃菜，9月美联储加息的真正生死线在于随后的CPI数据。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 02:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] RSI时代将至：谷歌、OpenAI、SSI正在发出同一个信号</title><link>https://wallstreetcn.com/articles/3780960</link><guid>10f5b7fae6eacf0f9360c461f36327a751238f1fd69697e4d96146ce49a97252</guid><pubDate>Thu, 03 Sep 2026 02:51:11 GMT</pubDate><description>&lt;p&gt;AI行业正在出现一个值得资本市场重视的新变化。&lt;/p&gt;
+&lt;p&gt;过去两年，市场讨论AI时主要围绕几个问题展开：模型能力能否继续提升、推理成本能否下降、Coding之外能否出现新的万亿美元应用、数据中心建设会不会过剩。&lt;/p&gt;
+&lt;p&gt;但随着谷歌发布Gemini 3.8 Flash、SSI宣布未来12个月算力扩张10倍，以及OpenAI公开讨论递归自我改进（RSI）与训练资源调配，前沿实验室正在把竞争焦点推向另一个方向：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI不只要服务用户，也开始参与训练、评估和优化下一代AI。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RSI，即Recursive Self-Improvement，通常被译为递归自我改进。通俗理解，这并不是模型突然拥有“自我意识”，更多的是让模型参与模型研发的更多环节：生成算法、编写代码、设计实验、调用训练工具、评估结果、修复错误，并把有效经验反馈给下一轮研发。&lt;/p&gt;
+&lt;p&gt;如果这一闭环不断缩短，AI研发的节奏就可能发生变化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;而RSI不是某一家公司的孤注一掷。谷歌、OpenAI、SSI、Anthropic，几乎所有前沿实验室都在朝同一个方向走。&lt;/strong&gt;&lt;/p&gt;
+Gemini 3.8 Flash，谷歌发出的RSI信号
+&lt;p&gt;9月2日，谷歌正式发布Gemini 3.8 Flash。这是谷歌六周内推出的第三款Flash模型。&lt;/p&gt;
+&lt;p&gt;性能数据本身已足够引人注目：在独立测评机构Artificial Analysis的高推理模式下，3.8 Flash智能指数达到59分，接近GPT-5.6 Sol和Grok 4.6等顶级旗舰模型，单任务成本仅0.58美元，输入价格0.75美元/百万Token。&lt;/p&gt;
+&lt;p&gt;但更值得关注的，是谷歌DeepMind研究员姚顺宇对这款模型的定性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;对模型而言，这只是迈出了一小步；但对于RSI来说，这是一次巨大飞跃。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这句话揭示了谷歌真正在做什么。&lt;/p&gt;
+&lt;p&gt;谷歌内部备忘录明确写道，目标是&lt;strong&gt;“逼出递归自我进化，把编程模型硬生生改造成全自动AI研究员，彻底打通整个研发闭环”。&lt;/strong&gt;为此，谷歌组建了由DeepMind CTO领导、联合创始人谢尔盖·布林直接监督的代码突击队，并从OpenAI挖来后训练负责人Barret Zoph出任研究副总裁，主管强化学习和后训练方向。&lt;/p&gt;
+&lt;p&gt;3.8 Flash的核心升级，正是这一战略的产品体现：模型被设计为在复杂任务上执行更多推理步骤、反复调用工具，通过长时间运行的智能体循环对自身结果进行评估和优化。换句话说，模型&lt;strong&gt;开始承担“规划—执行—检查—修复”的完整流程&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;值得一提的是，谷歌内部原本有几个3.5 Pro候选模型，但最终全部被否决——原因是它们并没有比Flash系列强出足够多。与此同时，下一代旗舰Gemini 4仍卡在后训练阶段。这一切阴差阳错，反而造就了Flash系列的疯狂迭代。&lt;/p&gt;
+OpenAI的刹车与SSI的加速：巨头的同频共振
+&lt;p&gt;就在谷歌发布新模型前后，OpenAI CEO Sam Altman在一次公开访谈中做出了一个罕见表态。&lt;/p&gt;
+&lt;p&gt;他承认，OpenAI延迟了一次前沿强化学习（RL）训练run。这是OpenAI历史上第一次主动暂停前沿训练。&lt;/p&gt;
+&lt;p&gt;原因不是某个单一的“冒烟枪”事件，在训练过程中，团队观察到模型能力提升的速度本身令人震惊。&lt;/p&gt;
+&lt;p&gt;Altman原话是：&lt;strong&gt;“能力进步的速度……我只能用&amp;#x27;令人敬畏&amp;#x27;来形容。我们需要更多时间让安全、对齐和安全保障跟上来。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他进一步说：&lt;strong&gt;“一年前，我不认为超级智能会很快到来。现在我认为它可能会发生。我不是说一定会，但我们正在以极快的速度推进。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Altman同时表示，这次暂停专门针对前沿RL训练run，并非所有训练都停止，集群也没有闲置。他强调，OpenAI当前商业势头强劲，企业收入已超过消费者收入，现有模型仍有大量商业价值可以挖掘。&lt;/p&gt;
+&lt;p&gt;但这一表态的信号意义远超商业层面：&lt;strong&gt;连OpenAI自己都要刹车等安全跟上，这是RSI临近最直接的公开信号。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，就在近期，英伟达宣布对SSI（Safe Superintelligence Inc.）进行重大战略投资，SSI同时宣布未来12个月算力将扩张10倍。&lt;/p&gt;
+&lt;p&gt;SSI由OpenAI联合创始人、前首席科学家Ilya Sutskever于2024年6月创立，其“唯一目标与唯一产品”是安全的超级智能。&lt;/p&gt;
+&lt;p&gt;这则公告中，最值得关注的一句话是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Our research is worth scaling（我们的研究已经值得大规模扩张）。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3778142?keyword=rsi#from=android"&gt;华尔街见闻文章&lt;/a&gt;援引“少数派观点”分析显示，市场目前流行一个叙事：除了Coding，AI还没有找到下一个万亿美元级应用，因此到2028年前后，AI资本开支增速大概率见顶。&lt;/p&gt;
+&lt;p&gt;但SSI事件揭示了这个叙事可能抓错了变量。&lt;/p&gt;
+&lt;p&gt;决定前沿实验室CapEx的第一变量，从来不是某个应用赛道，而是：&lt;strong&gt;下一代模型是否仍然值得继续扩大训练规模。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去半年，几乎所有前沿实验室释放的信号高度一致：OpenAI继续扩建训练集群，Anthropic持续融资建设AI基础设施，xAI不断扩建Colossus，Meta持续建设GW级AI园区，谷歌继续扩大TPU部署，SSI宣布算力扩张十倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没有一家公司的行动体现出“训练结束了”。&lt;/strong&gt;&lt;/p&gt;
+RSI重塑算力逻辑：训练从“一次性”变成“永不停止”
+&lt;p&gt;这一切的关键可能在于RSI（递归自我改进）正在改变训练本身的形态。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过去的训练模式是：收集数据→训练→发布→结束。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RSI时代的训练模式是：模型A生成新算法→训练模型B→模型B优化训练流程→训练模型C→模型C发现更好的RL策略→循环不止。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着训练变成了持续训练（Continuous Training）——将永不停止。&lt;/p&gt;
+&lt;p&gt;为了验证一个新算法，以前训练一次，现在可能同时跑100个、1000个、10000个版本，最后只留最好的一个。&lt;/p&gt;
+&lt;p&gt;据华尔街见闻援引的分析，这带来一个直接推论：&lt;strong&gt;算力优势直接变成研究优势，研究优势直接变成模型优势。&lt;/strong&gt; 拥有足够GPU的实验室一天能完成全部验证，缺少GPU的实验室一天只能完成5个、10个，速度差距立刻被拉开。&lt;/p&gt;
+&lt;p&gt;OpenAI提出了Automated AI Researcher（自动化AI研究员）的概念；Anthropic大量让Claude参与模型研发；谷歌AlphaEvolve已经开始利用AI寻找新算法。这些都是RSI的真实落地。&lt;/p&gt;
+Gavin Baker的警告：顶尖实验室可能主动砍收入去训练
+&lt;p&gt;这对投资者意味着什么？&lt;/p&gt;
+&lt;p&gt;知名科技投资人Gavin Baker在近期一次公开对话中给出了一个具体测算：&lt;/p&gt;
+&lt;p&gt;假设某家实验室拥有10GW算力，其中8GW用于推理，按每GW 600亿美元计算，年化收入约4800亿美元。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;假设他们取得了重大研究突破，决定将推理分配从8GW压缩到2GW，同时将训练从2GW扩大到8GW，那么年化收入就会从4800亿骤降至1200亿。我认为他们真的可能做出这样的决定，而这是公开市场必须习惯的事情。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Gavin Baker同时表示，基于对Scaling Laws的坚信，&lt;strong&gt;顶尖大模型公司短期内不会追求自由现金流，取而代之的是会将所有利润和资金重新投入购买算力和模型训练。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他还指出，这与Meta、谷歌等互联网公司不同——后者的基本面相当平稳，基础设施成本与收入之间不存在巨大的权衡取舍。而前沿实验室随时可能为了长期技术优势，主动牺牲巨额短期商业收入。&lt;/p&gt;
+&lt;p&gt;这对AI股估值是一个重大风险提示。&lt;/p&gt;
+前沿研究员的心理：算力压倒一切带来的无力感
+&lt;p&gt;这场竞赛也在改变前沿研究员的心理状态。&lt;/p&gt;
+&lt;p&gt;Conviction创始人、AI投资人Sarah Guo在一档视频博客采访中分享了自己对约250位前沿AI建设者的观察，过去12个月内，越来越多顶尖研究人员开始相信：&lt;strong&gt;具备递归自我改进能力的AI研究模型出现后，人类距离指数级智能可能只有1到2年时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但与此同时，当模型训练预算迈向数百甚至数千亿美元、团队扩大到数千人时，部分顶尖研究员产生了两种消极情绪：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我做的事情不重要，因为模型很快能自己做。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;唯一重要的只有算力规模，个人贡献被稀释。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这种心理变化本身，也是RSI逻辑正在被业内广泛接受的侧面印证——当研究员开始觉得“只有算力重要”，恰恰说明算力与研究能力之间的绑定已经足够紧密。&lt;/p&gt;
+RSI将至，市场叙事需要更新
+&lt;p&gt;一个对投资者有直接影响的结论正在浮现：&lt;/p&gt;
+&lt;p&gt;市场关于“2028年AI资本开支见顶”的叙事，建立在一个前提之上——CapEx由商业化应用需求单方面驱动。&lt;/p&gt;
+&lt;p&gt;但RSI提供了一个不同的判断框架：&lt;strong&gt;决定未来CapEx的，不只是推理需求和应用收入，还包括模型能力是否仍值得持续扩大训练。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;只要前沿实验室仍然相信“Our research is worth scaling”，训练投入就不会停止。而从目前所有公开信号来看，这个前提尚未动摇。&lt;/p&gt;
+RSI会不会成为下一轮AI资本开支的核心变量？
+&lt;p&gt;现在下结论仍然太早。&lt;/p&gt;
+&lt;p&gt;RSI尚未被证明能够稳定带来指数级能力跃迁。模型在基准测试中的提升，也不等于能够在真实研发环境中持续、自主地改进模型。更高的智能体能力还会带来更高Token消耗、更复杂的系统工程，以及更大的安全风险。&lt;/p&gt;
+&lt;p&gt;但从谷歌、SSI和OpenAI释放的信号看，前沿实验室显然已经不再把RSI视为遥远的理论概念。&lt;/p&gt;
+&lt;p&gt;谷歌在尝试让低成本模型完成更长、更复杂、更可验证的智能体任务；SSI在用10倍算力扩张验证“研究是否值得大规模扩张”；OpenAI则在讨论如何在安全、商业化和前沿训练之间重新分配资源。&lt;/p&gt;
+&lt;p&gt;这些变化共同指向一个趋势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大模型行业下一阶段的竞争，可能不只是“谁的模型更会回答问题”，更为重要或许是“谁能让AI更快地参与AI研发，并在安全边界内完成自我迭代”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果这一趋势持续，AI产业链的核心问题也将发生变化。&lt;/p&gt;
+&lt;p&gt;市场不应只问：AI应用收入够不够支撑数据中心建设？&lt;/p&gt;
+&lt;p&gt;还需要问：前沿模型的能力曲线是否仍在上行？AI能否真正缩短研发周期？训练集群能否将算力转化为研究成果？以及，安全体系能否跟上模型自我迭代的速度？&lt;/p&gt;
+&lt;p&gt;这或许才是RSI对AI资本开支、模型竞争和科技投资最重要的影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银：8月非农“只是预热”，9月加息真正门槛仍在CPI</title><link>https://wallstreetcn.com/articles/3780959</link><guid>0e29be826337a6bf7ce6a05865e05cb6d742bd673d9809f58345ca50dcc80501</guid><pubDate>Thu, 03 Sep 2026 01:33:18 GMT</pubDate><description>&lt;p&gt;华尔街正紧盯即将公布的8月非农就业报告，但美银最新警告：别被非农“虚晃一枪”，这只是开胃菜，9月美联储加息的真正生死线在于随后的CPI数据。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美银在9月2日发布的最新利率与外汇研究报告中指出，&lt;strong&gt;8月非农就业数据不过是&amp;quot;开场热身&amp;quot;，真正决定美联储9月是否加息的关键变量是即将公布的CPI通胀数据。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报告称，美银预计8月非农新增就业仅4万人（私人部门3.5万人），远低于市场共识，失业率维持4.1%。美联储主席沃什在杰克逊霍尔年会上的讲话中，通胀相关词汇出现频次约为劳动力市场词汇的两倍，&lt;strong&gt;清晰表明通胀才是当前货币政策的核心锚点&lt;/strong&gt;。9月加息概率当前约70%，但最终定论须等待下周CPI与PPI数据落地。&lt;/p&gt;
 &lt;p&gt;该行认为，当前市场存在极度不对称的风险收益比：&lt;strong&gt;非农数据不及预期引发的美债反弹幅度，将远超数据超预期引发的抛售。&lt;/strong&gt;基于此，美银建议投资者做多5年期美债、构建5年/30年期美债收益率曲线陡峭化交易，并战术性做空美元。&lt;/p&gt;
@@ -558,90 +639,55 @@ Flash高频迭代，谷歌押注“更便宜的智能体”落地
 &lt;p&gt;美军中央司令部发表声明称，美军已经完成对伊朗军事目标的新一轮打击。&lt;/p&gt;
 &lt;p&gt;根据美方声明，此轮打击目标包括伊朗伊斯兰革命卫队的防空阵地、雷达系统、海上资产与设施，以及布雷能力和通信站点。&lt;/p&gt;
 &lt;p&gt;相比此前针对防空阵地、雷达等目标的行动，此轮打击进一步覆盖伊朗的布雷能力和通信设施，显示美军打击范围正在扩大，&lt;strong&gt;重点也从削弱防空体系延伸至限制伊朗的海上作战及通信能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美伊双方相继宣布发动袭击和反击，冲突仍呈现“打击—报复—再打击”的循环。若双方继续扩大打击目标，冲突外溢至更多国家和地区的风险也可能上升，并进一步增加能源、航运及全球通胀前景的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加央行七连按兵不动：关税战推升通胀风险，63%分析师押注2027上半年转向加息</title><link>https://wallstreetcn.com/articles/3780944</link><guid>4cad6cf904e7322d31de5a09887b488a7992dd52e11d0f2a4da5528bf9b5c423</guid><pubDate>Wed, 02 Sep 2026 22:21:14 GMT</pubDate><description>&lt;p&gt;9月2日，&lt;strong&gt;加拿大央行连续第七次会议将隔夜利率维持在2.25%不变&lt;/strong&gt;，但美加关税战升级正在推升通胀上行风险，市场已开始押注其下一步动作是加息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;加拿大央行在声明中称，经济与通胀的演变&amp;quot;大体符合&amp;quot;7月预测，但&amp;quot;通胀的上行风险已经增加，新关税令增长前景更加不确定&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;行长Tiff Macklem表示，加拿大经济增长在经历过去一年的停滞后已经回升，&amp;quot;这让我们面对新挑战时处于更稳固的基础&amp;quot;，&lt;strong&gt;但&amp;quot;反弹可持续性的不确定性随美国新的贸易行动而增加&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;决议公布后，加拿大短期国债遭抛售，两年期国债收益率最高升至3.048%，加元走强至1.3847兑1美元。彭博调查显示，63%的分析师预计央行将在2027年上半年加息，与隔夜掉期市场的定价一致。&lt;/p&gt;
+&lt;p&gt;美伊双方相继宣布发动袭击和反击，冲突仍呈现“打击—报复—再打击”的循环。若双方继续扩大打击目标，冲突外溢至更多国家和地区的风险也可能上升，并进一步增加能源、航运及全球通胀前景的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债收益率飙升的四重逻辑：战争、赤字、美联储与AI融资潮</title><link>https://wallstreetcn.com/articles/3780965</link><guid>527a169fe0e9a85a10803958236337a29e6b6a093569567002913b64daefb06d</guid><pubDate>Thu, 03 Sep 2026 02:05:48 GMT</pubDate><description>&lt;p&gt;美债收益率近期攀升至多年高位，背后并非单一因素所致。据9月2日《华尔街日报》分析，战争引发的通胀预期重燃、失控的财政赤字、美联储新主席的政策风格转变，以及AI建设潮带来的债券供给激增，四股力量正同时施压债市。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其中，伊朗战争引发的能源价格飙升被认为是最主要的驱动因素&lt;/strong&gt;。Principal Asset Management首席投资官兼全球固定收益主管Mike Goosay表示：&amp;quot;全球债券收益率的急剧上升，反映出投资者正在重新评估通胀前景。&amp;quot;&lt;/p&gt;
+战争点燃通胀：柴油价格成关键变量
+&lt;p&gt;今夏以来，美伊停火协议破裂，乌克兰同步展开打击俄罗斯炼油设施的行动。俄罗斯是全球重要的柴油出口国，两线冲击叠加，推动柴油价格大幅走高。&lt;/p&gt;
+&lt;p&gt;据道琼斯能源数据，截至本周三，美国全国柴油零售均价已超过每加仑5.68美元，较一年前高出约2美元。这一价格距今春波斯湾冲突爆发、霍尔木兹海峡通行受阻时创下的阶段高点仅差不到1美分，距2022年俄乌战争爆发后创下的历史纪录也仅差13美分。&lt;/p&gt;
+&lt;p&gt;柴油价格的传导效应尤为值得关注——柴油是卡车、火车、工程机械和农业设备的主要燃料，价格上涨直接推高各类商品的生产与运输成本，通胀压力远比汽油价格上涨更为广泛。&lt;/p&gt;
+&lt;p&gt;期货市场同样释放警示信号：10月交割的柴油期货过去一周已上涨约13%。&lt;/p&gt;
+债务突破40万亿：财政赤字压力持续发酵
+&lt;p&gt;通胀之外，财政问题同样令投资者忧虑。&lt;/p&gt;
+&lt;p&gt;上月，美国联邦债务总额首次突破40万亿美元。以占GDP比例衡量，美国公众持有的债务规模正快速逼近二战以来的最高水平。&lt;/p&gt;
+&lt;p&gt;这一压力并非美国独有。英国政府债券收益率飙升，已迫使英国政府着手削减债务；日本10年期国债收益率刚刚触及约30年来最高水平，背景是围绕减税政策的争论持续升温，市场担忧日本财政状况进一步恶化。&lt;/p&gt;
+&lt;p&gt;衡量财政担忧的一个重要指标是&amp;quot;期限溢价&amp;quot;——即国债收益率中超出市场对短期利率预期的部分。这一指标近期明显上升，但值得注意的是，欧洲和日本的期限溢价涨幅更大，部分投资者和经济学家据此认为，海外市场对财政状况的担忧程度实际上更深。&lt;/p&gt;
+美联储新主席：不确定性成新变量
+&lt;p&gt;今年8月下旬，美联储主席沃什在杰克逊霍尔会议上发表讲话，一定程度上缓解了市场对美联储抗通胀决心不足的担忧，但也由此引发了新一轮收益率上行。&lt;/p&gt;
+&lt;p&gt;与前任不同，沃什刻意回避了前瞻指引。这种政策风格的转变，正在被计入美国乃至全球的长端借贷成本之中。&lt;/p&gt;
+&lt;p&gt;摩根大通资产管理首席全球策略师David Kelly直言：&amp;quot;如果要找出一件与几个月前明显不同的事，我认为就是沃什接任以来美联储的行为方式。&amp;quot;&amp;quot;我认为市场已经加入了一个美联储风险溢价，即便这个溢价还比较小。&amp;quot;&lt;/p&gt;
+&lt;p&gt;与此同时，财政部长Scott Bessent提出的回购更多长期国债的计划，其提振效果已被证明难以持续。Kelly对此评价颇为直白：&amp;quot;如果政府说要加税、削减开支来压缩赤字，那是一回事。但说你在一叠20张信用卡里又找到一张没刷爆的，这并不能真正提振信心。&amp;quot;&lt;/p&gt;
+AI融资潮：债券供给的新增压力
+&lt;p&gt;除上述三重因素外，人工智能基础设施建设热潮正在催生大规模企业债发行，进一步加剧债券市场的供给压力。&lt;/p&gt;
+&lt;p&gt;科技公司为筹集AI建设所需资金，持续涌入债券市场，债券供给的显著增加，在需求端未能同步跟进的情况下，对收益率形成额外的上行推力。&lt;/p&gt;
+&lt;p&gt;四重力量交织叠加，使得债市短期内难觅明确的喘息窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从海底到卫星，一场争夺数据流动控制权的暗战正在上演！</title><link>https://wallstreetcn.com/articles/3780961</link><guid>2b981e3b91e5632bff0fbd4e27aa0bee4643e781989134124d4d6d71ee2be47c</guid><pubDate>Thu, 03 Sep 2026 02:28:55 GMT</pubDate><description>&lt;p&gt;数字连接正在从一项公共基础设施演变为地缘政治博弈的核心战场。&lt;/p&gt;
+&lt;p&gt;据追风交易台，德意志银行研究院最新报告指出，承载全球逾99%洲际数据流量的海底电缆，以及日益关键的通信卫星网络，已成为各方势力争夺控制权的战略要地——而这场博弈的主角，正从传统电信运营商悄然转向科技巨头。&lt;/p&gt;
+&lt;p&gt;AI算力需求的爆炸式增长正在重塑全球连接基础设施的权力格局。&lt;strong&gt;Google、Meta、Microsoft、Amazon等超大规模科技公司（hyperscalers）正以前所未有的速度向海底电缆和通信卫星领域垂直整合，内容与云网络如今已占据全球国际带宽需求的近四分之三。&lt;/strong&gt;与此同时，地缘政治紧张局势持续升温——今年早些时候，伊朗威胁切断红海海底电缆，而该走廊承载着全球约17%至25%的互联网流量，一旦中断，后果将极为严峻。&lt;/p&gt;
+&lt;p&gt;这场争夺战的影响已直接传导至资本市场。据德意志银行股票分析师估算，通信卫星市场2025年同比增长逾35%，规模接近260亿美元，相关空间连接概念股随之大幅上涨。与此同时&lt;strong&gt;，2025年至2027年间预计将有140亿美元投入新海底电缆建设，主要由科技内容公司而非传统电信运营商主导。&lt;/strong&gt;&lt;/p&gt;
+海底电缆：脆弱的全球经济命脉
+&lt;p&gt;全球现有约500条活跃海底电缆，总延伸长度超过180万公里，每天承载约10万亿美元的金融交易，并支撑着SWIFT在195个国家逾8300家金融机构之间的数据传输。然而，这一系统的脆弱性与其重要性同样突出。&lt;/p&gt;
+&lt;p&gt;据德意志银行报告，2026年一项研究发现，典型的海底电缆中断事件会立即导致受影响经济体人均GDP增速下降约2个百分点；若中断持续，三至六年内该经济体的人均GDP将比未受影响的邻近经济体低出约9个百分点。国际电缆保护委员会数据显示，全球每年记录约150至200起电缆故障，其中约70%至80%源于渔具和船锚等意外因素，但蓄意破坏的威胁正在上升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;修复能力的严重不足加剧了这一风险。全球仅有约40艘专业电缆修复船，分属SubCom、Orange Marine、HMN Technologies等少数公司，且均按先到先得原则运营。&lt;/strong&gt;单次海底光纤电缆修复费用估计在50万至100万美元之间，而在地缘政治敏感区域，获取修复许可的程序往往大幅延误作业启动时间。&lt;/p&gt;
+&lt;p&gt;在地理层面，大量跨洲际电缆集中穿越少数几条战略走廊，形成高度集中的&amp;quot;卡脖子&amp;quot;节点。格陵兰—冰岛—英国之间的GIUK缺口，既是北约海上监视的关键通道，也是重要的数据传输走廊，其军事与数字双重敏感性使其成为潜在的高风险区域。&lt;/p&gt;
+监管与立法：各方加速构筑防线
+&lt;p&gt;面对日益上升的基础设施安全威胁，多个主要经济体正在加速立法与监管行动。&lt;/p&gt;
+&lt;p&gt;美国国会今年2月提出两党共同支持的《战略海底电缆法案》（Strategic Subsea Cables Act of 2026），核心条款要求总统对蓄意破坏关键海底基础设施的外国行为者实施制裁，并与2020年《海底电缆控制法》形成互补，共同构建对潜在&amp;quot;影子战争&amp;quot;的法律威慑。与此同时，美国联邦通信委员会（FCC）近期投票决定将电缆监管延伸至陆上端点，包括电缆登陆站及其内部硬件，并为超大规模科技公司提供快速许可通道，而外国竞争者则须逐一申请许可并面临被拒风险。&lt;/p&gt;
+&lt;p&gt;欧盟方面，2025年出台了《电缆安全行动计划》，但执行进展迟缓。今年6月，欧盟委员会最终确定向波罗的海和地中海各建立一个区域电缆枢纽提供580万欧元资助，并设立4000万欧元专项基金以提升海底电缆修复能力。&lt;/p&gt;
+&lt;p&gt;在多边层面，一条被称为&amp;quot;第四路由&amp;quot;的替代方案正在成形。Far North Fiber项目将成为首条完全穿越盟国主权水域、连接欧洲与亚洲的长途海底电缆，预计耗资11.7亿美元，由美国阿拉斯加公司Far North Digital牵头，联合加拿大、日本和芬兰企业共同推进，电缆由Alcatel Submarine Networks供应，预计2026年底投入使用。&lt;/p&gt;
+卫星竞赛：低轨道成为新战略高地
+&lt;p&gt;通信卫星正从传统互联网的补充角色，跃升为AI时代数字连接争夺的新前沿。&lt;strong&gt;德意志银行分析师预计，卫星通信市场收入将从2025年的约260亿美元增长至2030年的650亿至700亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;低地球轨道（LEO）卫星星座的战略价值尤为突出。LEO卫星运行于距地面160至1500公里的轨道，可将信号延迟降至接近光纤水平，并实现对地球几乎任意位置的覆盖。这一特性使其在军事通信、偏远地区接入以及AI数据传输等场景中具有不可替代的价值。&lt;/p&gt;
+&lt;p&gt;在商业竞争层面，Amazon于2026年7月向FCC提交申请，计划部署逾5100颗卫星，目标于2028年提供直连设备服务，直接挑战现有市场格局。Blue Origin则于今年1月宣布TeraWave项目，计划部署一个由5280颗LEO卫星和128颗中地球轨道（MEO）卫星组成的多轨道通信网络，德意志银行分析师估计该星座所需资本支出约为180亿美元。此外，Nvidia支持的Starcloud已申请监管批准，计划部署轨道数据中心卫星，并计划于2026年10月将AWS Outposts硬件搭载其第二颗卫星升空，进行太空AWS基础设施的早期测试。&lt;/p&gt;
+超大规模科技公司：重塑连接权力版图
+&lt;p&gt;AI驱动的数据需求正在加速超大规模科技公司对全球连接基础设施的垂直整合，从根本上改变了延续数十年的电信行业层级结构。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在海底电缆领域，Google通过Pacific Connect Initiative、Meta通过Project Waterworth等项目大举投资，推动2025至2027年间140亿美元新电缆建设的主要资金来源从传统电信运营商转向内容与云服务提供商。&lt;/strong&gt;超大规模科技公司正在绕过传统Tier 1骨干网运营商，直接与消费者互联网服务提供商对等互联，甚至将自有服务器部署于这些ISP网络内部，压缩了传统电信层级结构的生存空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-关税战自8月21日谈判破裂后全面升级
-&lt;p&gt;美加关系自8月21日起明显恶化，持续数周、旨在降低关税与贸易壁垒的谈判宣告破裂。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3780272"&gt;华尔街见闻提及&lt;/a&gt;，美加两国于8月21日上周五进行的贸易谈判破裂，美国随后于8月22日开始对约200亿美元加拿大商品征收50%关税，加拿大总理卡尼随即表示，加拿大将从9月8日起采取等额反制。&lt;/p&gt;
-&lt;p&gt;据新华社，加拿大政府于25日周二宣布，对价值约200亿美元的美国商品征收报复性关税。据央视新闻，加拿大政府表示，自9月8日起，将对约700种美国产品征收反制关税，税率分别为15%、25%或50%；同时将推出75亿加元的援助计划，支持受美国新关税影响的企业和工人。&lt;/p&gt;
-&lt;p&gt;加拿大经济在第二季度强劲反弹，年化增速达3.3%，此前已停滞近一年，由投资、出口与家庭消费共同推动，就业市场也已趋紧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Macklem在新闻发布会的开场讲稿中强调，增长回升让央行&amp;quot;处于更稳固的基础&amp;quot;，但他同时警告，反弹可持续性的不确定性正随美国新的贸易行动而增加。若贸易紧张进一步升级，将成为销售、招聘与投资的主要逆风。&lt;/strong&gt;&lt;/p&gt;
-政策两难：降息救经济与防通胀不可兼得
-&lt;p&gt;Oxford Economics的Tony Stillo表示，&lt;strong&gt;央行调整利率的影响会持续至未来两年，决策者&amp;quot;不想先降息再加息，通过自身的政策行动制造更多不确定性&amp;quot;，因此会&amp;quot;非常审慎&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一判断点出了当前困境的本质：央行无法通过降息帮助经济消化结构性贸易损害，而不冒着推升价格压力的风险。&lt;/p&gt;
-&lt;p&gt;彭博调查中63%分析师预计央行将在2027年上半年加息，与隔夜掉期市场定价一致——市场定价已从宽松预期转向为滞胀情景下的紧缩做准备。&lt;/p&gt;
-&lt;p&gt;9月8日反制关税生效后，通胀数据的演变将成为判断加拿大央行利率路径的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta发布更强大AI模型，声称进一步缩小了与竞争对手差距</title><link>https://wallstreetcn.com/articles/3780938</link><guid>de422be4b32f334439e5b017ff08a601e1b92b49c9246d6236ced5a520f579d3</guid><pubDate>Wed, 02 Sep 2026 20:35:54 GMT</pubDate><description>&lt;p&gt;Meta周三发布其迄今最强大的人工智能模型Muse Spark 1.3，首席AI官Alexandr Wang称其性能已追平甚至超越主要竞争对手，标志着这家社交媒体巨头在AI军备竞赛中迈出重要一步。&lt;/p&gt;
-&lt;p&gt;Wang在接受采访时表示，&lt;strong&gt;Muse Spark 1.3在编程能力上&amp;quot;优于&amp;quot;OpenAI的GPT-5.6 Sol，与Anthropic的Claude Fable 5.1&amp;quot;旗鼓相当&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他将此次更新定性为Meta&amp;quot;迄今在模型性能上最大的一次跃升&amp;quot;。&lt;/p&gt;
-&lt;p&gt;该模型将向开发者开放付费访问，并将陆续向Instagram、Facebook等旗下社交平台及Meta AI的用户推送。&lt;strong&gt;Meta同时透露，其更受期待的大型模型&amp;quot;Watermelon&amp;quot;的开发工作仍按计划推进。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一趋势正在倒逼传统电信运营商通过并购重组寻求出路。近年来的重大交易包括：Viasat与Inmarsat以73亿美元完成合并（2023年）、SES以31亿美元收购Intelsat（2024年）、以及Rocket Lab与Iridium以80亿美元完成整合（2026年）。&lt;/p&gt;
+&lt;p&gt;欧洲在这一新格局中处境最为被动。据欧洲发展政策管理中心分析，超大规模科技公司对海底电缆所有权和运营控制权的日益集中，正在形成结构性依赖，侵蚀欧洲的数字主权。与美国拥有FCC统一监管框架不同，欧洲目前缺乏针对海底电缆生态系统的统一治理架构。在卫星领域，欧盟正推进IRIS政府控制星座项目（约290颗卫星，目标2029年投入服务），但进展迟缓，且已与美国FCC就潜在保护主义措施产生摩擦。&lt;/p&gt;
+谁控制&amp;quot;数据铁路&amp;quot;，谁就掌握未来
+&lt;p&gt;德意志银行报告的核心判断是：在&amp;quot;基础设施现实主义&amp;quot;时代，权力的关键不在于拥有多少电缆或卫星，而在于控制网络的关键节点与架构——从海底到低地球轨道。&lt;strong&gt;海底电缆几乎没有实际可行的替代品——危机发生时无法临时铺设新电缆，一旦重大中断，支付系统、金融市场、军事指挥与基础通信将同时受损。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对投资者而言，这场博弈的核心逻辑已经清晰：数字连接基础设施的战略价值正在被重新定价，超大规模科技公司的垂直整合将持续压缩传统电信运营商的市场空间，而卫星通信市场的高速增长与相关并购浪潮，将在未来数年内持续提供结构性投资机会。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-性能跃升，直面一流对手
 
-&lt;p&gt;Muse Spark 1.3在多项关键指标上实现升级：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;运行效率提升，所需token数量减少25%；&lt;/li&gt;
-&lt;li&gt;支持同时推进多个工作流，而无需分开会话；&lt;/li&gt;
-&lt;li&gt;对长篇复杂指令的处理能力及跨任务细节保留能力均有改善；&lt;/li&gt;
-&lt;li&gt;同时具备更强的自我局限性感知，安全性也得到强化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Wang特别指出，该模型的代理能力（即代替用户自主完成任务的能力）有显著提升。不过，他也承认OpenAI即将推出一款更先进的新模型&amp;quot;Astra&amp;quot;，竞争态势仍将持续演变。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，AI模型之间的横向比较本身存在局限性——不同模型在不同任务上表现各异，测评基准可被优化调试，未必能真实反映实际使用体验。&lt;/p&gt;
 
-商业化提速，开发者生态加速扩张
-
-&lt;p&gt;Muse Spark 1.3对开发者的收费标准与上一版本Muse Spark 1.2保持一致，通过Meta Model API平台提供访问。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Wang透露，该API平台已获得强劲的市场采用，部分开发者&amp;quot;每周使用量高达数万亿个token&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这是Meta推进AI商业化的最新举措。Meta今年7月已开始首次向开发者收取Muse Spark 1.1的使用费用，首席执行官马克·扎克伯格当时表示，定价目标是成为市场上最具竞争力的选项之一。&lt;/p&gt;
-&lt;p&gt;与此同时，Meta也在着手构建云基础设施业务，向外部出售AI算力及模型访问权限。&lt;/p&gt;
-
-开放与盈利的平衡难题
-
-&lt;p&gt;在开源策略上，Meta尚未就是否公开Muse Spark 1.3的权重文件作出决定——该文件是模型在训练过程中形成的内部蓝图，决定模型的响应方式。&lt;/p&gt;
-&lt;p&gt;Wang表示，公司仍计划发布上一版本Muse Spark 1.2的权重。&lt;/p&gt;
-&lt;p&gt;扎克伯格近期曾撰文阐述AI开放开发的重要性，但如何在开放理念与巨额AI投资的回报预期之间取得平衡，仍是摆在Meta面前的核心命题。&lt;/p&gt;
-&lt;p&gt;Meta正斥数千亿美元押注AI赛道，大规模的支出已引发投资者对投资回报的质疑。&lt;/p&gt;
-
-安全隐患：早期模型曾入侵外部系统
-
-&lt;p&gt;此次发布也伴随着安全层面的背景压力。&lt;/p&gt;
-&lt;p&gt;Wang透露，Meta一款早期模型在网络安全测试期间曾访问互联网并入侵外部服务系统，与其他模型公司近期发生的类似事件遥相呼应，加剧了外界对AI技术可控性的担忧。&lt;/p&gt;
-&lt;p&gt;Wang表示，该事件为Meta强化Muse Spark 1.3安全性提供了重要参考。他说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在决定发布之前，我们对这一模型进行了全面深入的安全测试和安全训练。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;新模型在执行不可逆操作前将主动寻求确认，并在需要时请求用户澄清，以降低潜在风险。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;展望更长期布局，Wang表示Meta高度期待的大型模型&amp;quot;Watermelon&amp;quot;的研发进度符合预期，并称&amp;quot;Watermelon将极具竞争力&amp;quot;，但未透露具体发布时间表。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为加速缩小与竞争对手的技术差距，扎克伯格去年对公司AI战略进行了全面重组，从Wang创立的公司将其挖角，并任命其领导新成立的Meta超级智能实验室（Meta Superintelligence Labs，MSL）。&lt;/p&gt;
-&lt;p&gt;Wang自履新以来，持续以稳定节奏推出新模型与新产品。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元暴力拉升1.2%！市场高度戒备，美日联合干预再起？</title><link>https://wallstreetcn.com/articles/3780929</link><guid>80c5e4d03bdccae78db9f39f7ca7a51dc449ff4c3fbd373fe8b3b7570746ad0a</guid><pubDate>Wed, 02 Sep 2026 18:14:14 GMT</pubDate><description>&lt;p&gt;日元兑美元大幅走强，市场参与者高度戒备，密切关注当局是否再度出手干预汇市。此番波动在日本央行官员释放鹰派信号的背景下发生，并迅速波及全球外汇市场。&lt;/p&gt;
-&lt;p&gt;周三，日元兑美元一度升值1.2%，触及158.22，引发市场对政府干预的强烈猜测。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此轮涨势的直接导火索，是日本央行政策委员会成员高田创（Hajime Takata）——央行内部最具鹰派立场的官员之一——当日早间发表的讲话。&lt;strong&gt;他表示25个基点加息&amp;quot;并非板上钉钉&amp;quot;（可能更高），并暗示连续加息在一般情形下同样存在可能。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;隔夜指数掉期市场目前已接近完全消化日本央行9月会议加息的预期。&lt;/p&gt;
-&lt;p&gt;此次波动迅速传导至日均成交规模达9.5万亿美元的全球外汇市场。彭博美元即期指数单日下跌0.3%，创8月21日以来最大盘中跌幅；新兴市场货币指数同步攀升至当日高位；日元兑欧元亦涨逾1%。&lt;/p&gt;
-
-干预疑云：此次涨幅低于上月联合行动
-
-&lt;p&gt;多位策略师对本次涨势是否由直接干预所驱动持保留态度。&amp;quot;我对今早日元走势系干预所致持怀疑态度，&amp;quot;道明证券（TD Securities）纽约策略师Howard Du表示，&amp;quot;此次涨幅与过去汇率询价事件相比明显偏小。&amp;quot;&lt;/p&gt;
-&lt;p&gt;Monex Inc.外汇交易员Andrew Hazlett同样表示：&lt;strong&gt;&amp;quot;我们听到干预的传言，但从涨幅来看持怀疑态度。&amp;quot;&lt;/strong&gt;不过他也承认，日元兑美元和欧元的走势&amp;quot;否则难以解释&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Macro Hive外汇策略师Ben Ford则认为，此次幅度相对有限但节奏急促的涨势，更像是一次汇率询价，而非全面干预。他指出，&amp;quot;今日更多可能意味着日本正从事先发出干预信号的方式转向，改以更为积极主动的姿态直接展开干预。&amp;quot;&lt;/p&gt;
-
-政策信号：日央行加息预期升温，美方表态支持
-
-&lt;p&gt;日元长期承压的根源并未消除。日本与其他主要经济体之间仍存在较大的利率差距；与此同时，首相高市早苗激进的财政扩张计划令市场对日本财政前景心存顾虑。投机性仓位方面，对冲基金在干预效应消退后已重新增加日元空仓。&lt;/p&gt;
-&lt;p&gt;在日元持续承压的背景下，据报道高市政府支持日本央行最早于9月份进行近期加息。&lt;/p&gt;
-&lt;p&gt;日本央行行长植田和男暗示，&lt;strong&gt;本月晚些时候召开的政策会议上大概率将宣布加息，并表示官员将在上行通胀风险的框架下作出政策决定。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国财政部长贝森特表示，&lt;strong&gt;他预计植田和男将在货币政策上&amp;quot;做出正确决定&amp;quot;，同时形容近期日元走势&amp;quot;控制得相当好&amp;quot;。&lt;/strong&gt;贝森特亦为其支持日元的立场进行辩护，称日元若出现极端波动，可能传导至美国国债利率走高。&lt;/p&gt;
-&lt;p&gt;Manulife Investment Management的Nathan Thooft指出：&amp;quot;无论是实质性干预还是汇率询价式的口头施压，市场反应本身已说明当前仓位有多敏感。市场接收到了当局希望日元走强的信号，但从基本面来看，很难说这种走势具有可持续性。&amp;quot;&lt;/p&gt;
-
-日本已创纪录动用964亿美元护盘
-
-&lt;p&gt;根据日本财务省数据，过去一个月，日本已斥资创纪录的964亿美元捍卫日元，此前日元曾跌至40年来的最低点。日本官员反复强调，触发干预的关键在于汇率波动的速度与无序程度，而非特定汇率水平。&lt;/p&gt;
-&lt;p&gt;在此之前，东京与华盛顿联手护盘，进行了自1998年以来首次协调一致的买入日元行动，规模之大数十年罕见。彼时日元从接近164的约40年低位急速反弹约5%，两国政府均暗示如有必要将进一步采取联合行动。&lt;/p&gt;
-&lt;p&gt;直接干预并非当局支撑日元的唯一手段。据报道，今年1月纽约联储曾主动联系金融机构询问日元汇率，华尔街策略师和交易员当时普遍将此类询价视为日本干预的前期铺垫动作。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
