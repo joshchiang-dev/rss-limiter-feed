@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 21:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 沃勒发言打击加息预期，美股指两连涨，标普创月内最大涨幅，日元急升2%，黄金大涨</title><link>https://wallstreetcn.com/articles/3780985</link><guid>a54a039210ddc797b4ee60f4e73631ae854fe590230746f6b5af9b85fdbde284</guid><pubDate>Thu, 03 Sep 2026 21:45:16 GMT</pubDate><description>&lt;p&gt;美联储理事沃勒表示，近期数据终于显示出通胀放缓的迹象，如果未来两周的数据延续这一趋势，他会倾向于支持把联邦基金利率目标维持在当前的3.50%至3.75%区间。这番表态让9月加息预期迅速降温，美股、美债、黄金与比特币同步走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 22:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 沃勒发言打击加息预期，美股指两连涨，标普创月内最大涨幅，日元急升2%，黄金大涨</title><link>https://wallstreetcn.com/articles/3780985</link><guid>a54a039210ddc797b4ee60f4e73631ae854fe590230746f6b5af9b85fdbde284</guid><pubDate>Thu, 03 Sep 2026 21:45:16 GMT</pubDate><description>&lt;p&gt;美联储理事沃勒表示，近期数据终于显示出通胀放缓的迹象，如果未来两周的数据延续这一趋势，他会倾向于支持把联邦基金利率目标维持在当前的3.50%至3.75%区间。这番表态让9月加息预期迅速降温，美股、美债、黄金与比特币同步走高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;标普500指数涨1.07%收于7748.27点，为8月4日以来最大单日涨幅；纳斯达克综合指数涨1.40%，道琼斯工业平均指数涨1.18%。三大指数连续第二个交易日收高。&lt;/p&gt;
@@ -172,57 +172,7 @@ AI数据中心“缺电”逻辑再升温，Bloom Energy盘中涨近10%
 &lt;p&gt;她同时补充，贝森特在会谈中并未对日本提出绝对要求，无论是要求采取行动还是停止行动。&lt;/p&gt;
 上轮干预规模创纪录
 &lt;p&gt;作为背景，日本约一个月前刚刚完成一轮规模空前的市场干预行动，累计动用约15.4万亿日元（约合985亿美元），且美国时隔28年首次协同支撑日元。当局每次入市通常力求在首轮干预中推动汇率移动约5日元，随后辅以多次规模较小的跟进操作。&lt;/p&gt;
-&lt;p&gt;此次周三不足1日元的波动幅度，与上述干预模式相去甚远，也从侧面印证了央行账户数据所传递的信号：市场的躁动，源于交易员自身，而非东京的出手。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大厂Agent集体杀入金融腹地</title><link>https://wallstreetcn.com/articles/3781012</link><guid>a47ebd62e427a277b16fd8f514557c1465cba59908d6106b93b9f3b8fd609056</guid><pubDate>Thu, 03 Sep 2026 10:24:43 GMT</pubDate><description>&lt;p&gt;金融人的桌面正在成为大厂争夺的新入口。&lt;/p&gt;
-&lt;p&gt;9月3日，腾讯正式推出WorkBuddy金融版，面向银行、券商、保险等机构上线80多个金融专家及专家团。从对公信贷尽调、基金研究，到保险代理人的客户经营，腾讯试图让Agent真正进入金融机构的业务流程。&lt;/p&gt;
-&lt;p&gt;不到一个月前，百度刚刚为通用智能体GenFlow启用中文名“库库AI”，并上线独立办公端。金融被百度选作库库AI从通用办公走向专业办公的第一个重点场景。&lt;/p&gt;
-&lt;p&gt;更早之前，字节旗下扣子也已经引入华泰证券、广发证券、国信证券等机构的金融Agent和Skill，将行情、财务数据、ETF筛选、基金对比等能力搬进Agent平台。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从字节、百度到腾讯，通用Agent的竞争正在迅速向金融行业下沉。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;大厂选择金融并不难理解。在投行、投研、信贷和保险等业务中，大量高成本的专业时间仍被消耗在查数据、翻公告、核口径、更新模型和制作材料上。只要Agent能够接手其中一部分，就有机会直接转化为金融机构愿意付费的效率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但金融也是一块难啃的市场。数据准确度、结论可溯源，执行的权限等都要经得起考验，一个在开放网络上表现不错的通用Agent进入金融业务现场后未必依然可靠。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前大厂之间对于金融是否值得单独做一个Agent版本，仍未形成共识。&lt;/strong&gt;&lt;/p&gt;
-客群分野
-&lt;p&gt;尽管字节、百度和腾讯都已经把Agent伸向金融，但目前瞄准的并不是同一块市场。&lt;/p&gt;
-&lt;p&gt;目前字节旗下的扣子、百度的库库AI在金融场景中的主要落点仍然更偏向C端。&lt;/p&gt;
-&lt;p&gt;扣子的打法是把专业金融能力直接装进Agent。目前扣子技能商店已经上线来自广发证券、国信证券等机构的一系列金融Skill。例如广发证券提供的8项Skill覆盖财务对比、龙虎榜、ETF筛选、ETF资金异动、基金定投等高频投研场景。&lt;/p&gt;
-&lt;p&gt;这意味着这些原本需要进入券商App、金融终端或者不同数据页面完成的动作，被拆成了Agent可以直接调用的能力。&lt;/p&gt;
-&lt;p&gt;用户只需要告诉扣子想研究什么，它就可以调用相应Skill查询行情和财务数据、比较公司、筛选ETF或者整理基金信息。多个Skill还可以进一步组合进连续任务中，用于盘前信息整理、盘中监控和盘后复盘。&lt;/p&gt;
-&lt;p&gt;百度同样从C端用户切入。库库AI依托的是百度文库、百度学术和百度网盘积累的内容、文件与存储能力，内置了上市公司、股票行情、财报、研报等金融数据。&lt;/p&gt;
-&lt;p&gt;用户提出一个研究任务后，库库AI可以继续完成资料检索、数据处理和内容生成，最终直接交付Word研报、金融分析PPT或者财务模型Excel，长时间盯盘等任务还可以留在云端继续执行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;腾讯WorkBuddy金融版切入的则是B端市场：银行、券商、保险等金融机构。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在对公信贷尽调中，WorkBuddy可生成材料清单、识别缺失项，调用工商、财务和司法等数据交叉核验风险，再按照银行内部模板形成保留依据的尽调初稿；在基金研究场景中，其则能完成基金筛选、组合诊断等；到了保险场景，还可以连接客户资料、产品信息、营销内容合规等。&lt;/p&gt;
-&lt;p&gt;据腾讯介绍，今年3月以来，WorkBuddy已经陆续进入中金公司、国投证券、平安银行、中国太平等100多家金融机构。&lt;/p&gt;
-&lt;p&gt;不过这一应用或仍集中在金融机构的小范围之内。据全天候科技向多家券商求证，目前内部尚未大范围应用WorkBuddy等办公Agent。&lt;/p&gt;
-共识尚未达成
-&lt;p&gt;大厂之间对于金融到底值不值得被单独做成一个Agent版本，其实还没有形成共识。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;至少从目前的产品形态来看，除了腾讯，字节、百度等大厂在Agent的布局上都尚未针对金融场景推出独立的“金融版”Agent。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一名库库AI内部人士向全天候科技表示，库库AI的定位仍然是通用办公Agent，金融更多被当作一个展示复杂任务能力的“样本”。&lt;/p&gt;
-&lt;p&gt;原因并不难理解。金融专业性强、数据量大，一项任务往往需要经过检索、数据处理、交叉验证、分析再到最终交付等多个步骤。如果Agent能够把金融这样的复杂任务跑通，也可以更直观地证明一套通用Agent究竟能够把工作做到什么程度。&lt;/p&gt;
-&lt;p&gt;上述人士表示，库库AI后续仍会面向更多行业扩充专业知识和Skill，而不是只围绕金融继续向下开发。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这其实反映出办公Agent走向垂直行业时仍未解决的一个问题：通用Agent究竟应该依靠数据连接、知识库和Skill等不断扩展能力，还是应该继续往下挖，为金融、法律、医疗等高价值行业分别重做一套更深的产品。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;答案还没有出现，但金融的确是最容易让厂商产生“再往下一层”冲动的行业之一。&lt;/p&gt;
-&lt;p&gt;一方面，投行、投研、资管、信贷等岗位的单位工时价值较高，但大量时间被用于查找公告、摘录数据、更新模型、核对工商司法信息、整理会议纪要和制作材料等流程上。&lt;/p&gt;
-&lt;p&gt;另一方面，金融的大量工作本来就建立在数字化资料之上。行情、财报、公告、研报、工商司法信息乃至机构内部的研究材料，大多已经以结构化数据或电子文档存在。&lt;/p&gt;
-&lt;p&gt;或许正是看到了这些优势，此次WorkBuddy直接推出金融版，把银行、券商、保险等机构单独拿出来做一套产品。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这也是一种更激进的试水：如果金融机构愿意为一个专门的行业Agent付费，就意味着办公Agent有机会从卖通用生产力工具进一步进入按行业定价的市场。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但金融行业的难度还在于其不仅是高价值行业，也是强监管行业。&lt;/p&gt;
-&lt;p&gt;今年6月，国家金融监督管理总局发布《关于银行业保险业人工智能安全开发应用的指导意见》，将资金交易、资产评估、信贷审批、承保理赔、风险管理等列为人工智能高风险应用，并要求关键环节建立人工监督和干预机制。&lt;/p&gt;
-&lt;p&gt;对于涉及客户权益或产生实质性财务影响的关键决策，监管要求设置人工复核节点，并保留原始数据、推理路径等记录。文件还专门提出，智能体系统需要防范数据泄露、身份越权、工具滥用和运行失控等风险。&lt;/p&gt;
-&lt;p&gt;这都对金融Agent提出了更高的要求。一方面金融可能是Agent落地中比较容易算清商业账的一块市场，另一方面也是最早逼着厂商回答数据安全、模型可靠性、权限治理和责任边界的行业。&lt;/p&gt;
-华尔街率先定价
-&lt;p&gt;对于金融到底应该作为通用Agent中的一个专业场景，还是进一步单独做成行业产品，海外大厂同样没有形成一致答案。&lt;/p&gt;
-&lt;p&gt;OpenAI更偏向前一种路径，即通过Investment Banking插件将ChatGPT带入投行场景，可以完成公司概览、可比公司分析、Pitchbook和尽调材料等任务；同时又与普华永道合作，将Agent延伸至预测、报告、月末结账等CFO工作流。&lt;/p&gt;
-&lt;p&gt;Anthropic也是建立在Claude的通用产品体系之上打造金融场景能力。&lt;/p&gt;
-&lt;p&gt;今年，Anthropic推出10套金融Agent模板，覆盖Pitchbook、KYC、财务建模、估值审核和月末结账等场景，同时将Claude接入Excel、PowerPoint、Word以及FactSet、S&amp;amp;P Capital IQ、MSCI等专业金融数据源。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与之不同的是，Google则选择直接往行业版走。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年8月，Google推出Gemini Enterprise for Financial Services，专门面向资本市场和公司银行业务，内置超过50项金融Skill，并连接FactSet、Moody’s、MSCI、PitchBook等专业数据源。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尽管行业尚未达成共识，但华尔街已率先为此定价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2025年4月，金融AI公司Rogo完成5000万美元B轮融资，估值约3.5亿美元；到今年估值已经升至约20亿美元，一年左右升至原来的近6倍。&lt;/p&gt;
-&lt;p&gt;资本不断抬高估值的背后，Rogo真正解决的是基础模型与金融工作之间的那一层断点。&lt;/p&gt;
-&lt;p&gt;向下，Rogo连接Capital IQ、FactSet等专业数据库；向上，它可以生成直接使用的Excel模型、PPT和研究报告，同时保留数据来源和原文引用，让分析师能够重新回到财报、电话会和投资者材料中核验结果。&lt;/p&gt;
-&lt;p&gt;目前Rogo已经服务超过300家机构，覆盖4万多名金融专业人士。&lt;/p&gt;
-&lt;p&gt;整体来看，金融Agent最终应该以什么产品形态存在，目前还没有标准答案。它可以是通用Agent里的Skill，可以是一套金融Agent模板，也可以像Google和WorkBuddy一样被单独做成一个行业版本。&lt;/p&gt;
-&lt;p&gt;如果金融机构最终愿意为更深的数据连接、工作流适配和安全治理额外付费，那么金融版Agent就可能从今天的试水产品，演变成一个独立的软件品类，更多高价值行业也会沿着这条路径被重新切分。&lt;/p&gt;
-&lt;p&gt;但如果通用Agent依靠更强的模型、更丰富的Skill和数据连接器就足以覆盖大部分金融需求，那么所谓“行业版”的空间也可能被重新压缩。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达同意收购Hugging Face，黄仁勋：允许自由上传、下载模型，不强制使用英伟达硬件</title><link>https://wallstreetcn.com/articles/3781018</link><guid>9d502de61139e72295faf0ce22e91a774559d8d7279ad0a998afc9579201794e</guid><pubDate>Thu, 03 Sep 2026 12:04:25 GMT</pubDate><description>&lt;p&gt;英伟达正以130亿美元级别的代价，押注开源AI生态的未来话语权。&lt;/p&gt;
+&lt;p&gt;此次周三不足1日元的波动幅度，与上述干预模式相去甚远，也从侧面印证了央行账户数据所传递的信号：市场的躁动，源于交易员自身，而非东京的出手。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达同意收购Hugging Face，黄仁勋：允许自由上传、下载模型，不强制使用英伟达硬件</title><link>https://wallstreetcn.com/articles/3781018</link><guid>9d502de61139e72295faf0ce22e91a774559d8d7279ad0a998afc9579201794e</guid><pubDate>Thu, 03 Sep 2026 12:04:25 GMT</pubDate><description>&lt;p&gt;英伟达正以130亿美元级别的代价，押注开源AI生态的未来话语权。&lt;/p&gt;
 
 &lt;p&gt;周四，&lt;strong&gt;英伟达宣布同意以129.3亿美元收购AI开源平台Hugging Face，这是英伟达迄今规模最大的单笔收购&lt;/strong&gt;。英伟达CEO黄仁勋表示，&lt;strong&gt;公司将维持Hugging Face平台的开放性，允许开发者自由上传、下载模型与数据集，且不强制要求使用英伟达硬件。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次收购适逢AI基础设施并购浪潮的高峰期。就在交易消息公布前数日，支付巨头Stripe以逾80亿美元收购AI模型路由平台OpenRouter。两笔大型交易在同一时间窗口内接连落地，清晰勾勒出一条共同逻辑：随着模型层竞争加剧、利润收窄，卡在模型与用户之间的&amp;quot;中间层&amp;quot;基础设施，正成为大公司战略抢购的核心标的。&lt;/p&gt;
@@ -261,7 +211,34 @@ AI&amp;quot;中间层&amp;quot;的价值之争
 &lt;p&gt;Stripe以逾80亿美元将其收入囊中，较OpenRouter今年5月B轮融资时13亿美元的估值溢价约5.4倍。&lt;/p&gt;
 &lt;p&gt;两笔交易共同指向同一判断：当模型层竞争白热化，模型托管、路由调度、推理优化等&amp;quot;中间件&amp;quot;，理论上可实现旱涝保收。这是&amp;quot;卖铲子&amp;quot;逻辑在AI时代的现实投射。&lt;/p&gt;
 &lt;p&gt;然而这一逻辑并非没有风险。若未来市场收敛至少数几个主流模型，路由层的价值将大打折扣；若模型分发从下载权重文件转向纯API形式，模型托管平台的必要性同样面临根本性挑战。&lt;/p&gt;
-&lt;p&gt;这些中间层资产究竟是如Cloudflare般的&amp;quot;永久性位置价值&amp;quot;，还是AI基础设施尚未固化时期的&amp;quot;时间窗口价值&amp;quot;，目前市场尚无定论。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国30年房贷利率升至6.71%，创逾一年新高</title><link>https://wallstreetcn.com/articles/3781039</link><guid>9d45bded22ddc873eeee52ced0099e72b9489ae5d04e574f22229060d21a6d50</guid><pubDate>Thu, 03 Sep 2026 21:01:57 GMT</pubDate><description>&lt;p&gt;美国住房负担能力面临新一轮压力。抵押贷款利率攀升至一年多来最高水平，与此同时，中东局势再度紧张推动能源价格上涨，通胀压力持续高企，美联储政策路径的不确定性仍未消散。&lt;/p&gt;
+&lt;p&gt;这些中间层资产究竟是如Cloudflare般的&amp;quot;永久性位置价值&amp;quot;，还是AI基础设施尚未固化时期的&amp;quot;时间窗口价值&amp;quot;，目前市场尚无定论。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石与Cliffwater私募基金再次触发5%赎回上限，行业今年新募资规模骤降82%</title><link>https://wallstreetcn.com/articles/3781032</link><guid>5d43bd1c15fd7f7d333d1748de2c4e011d418fe7da05c97418a11c7901334207</guid><pubDate>Thu, 03 Sep 2026 22:01:56 GMT</pubDate><description>&lt;p&gt;私人信贷市场的赎回压力仍未消退。&lt;strong&gt;黑石集团与Cliffwater LLC旗舰私人信贷基金周四双双披露，第三季度再度将赎回上限锁定在5%&lt;/strong&gt;，凸显出这一规模1.8万亿美元市场所面临的持续性压力。&lt;/p&gt;
+&lt;p&gt;黑石旗下规模770亿美元的Blackstone Private Credit Fund（BCRED）披露，本季度投资者&lt;strong&gt;申请赎回比例达10%&lt;/strong&gt;，但实际获批仅为申请量的一半。&lt;/p&gt;
+&lt;p&gt;与此同时，规模310亿美元的Cliffwater Corporate Lending Fund&lt;strong&gt;约有16%的份额面临赎回申请，&lt;/strong&gt;最终获批比例约为申请量的三分之一。两只基金均为各自类别中规模最大的产品。&lt;/p&gt;
+&lt;p&gt;两项披露共同印证了市场此前的预期——&lt;strong&gt;行业整体赎回积压规模约150亿美元&lt;/strong&gt;，短期内难以实质性压缩。尽管各基金坏账比例依然较低，但非交易型商业发展公司（BDC）的募资规模今年已大幅萎缩，投资者信心修复仍需时日。&lt;/p&gt;
+
+两大旗舰基金同日披露，赎回压力如出一辙
+
+&lt;p&gt;据周四提交的文件，BCRED本季度再度将赎回上限设定在5%，与上一季度结果完全一致。黑石在致股东信中表示，过去两个季度提出赎回申请的投资者，约90天内已累计获偿约75%的资金。&lt;/p&gt;
+&lt;p&gt;该基金同时强调，&amp;quot;BCRED资本充足，贷款偿还与资金流入总量已超过已回购份额规模&amp;quot;，并指出自成立以来年化回报率为9%，较杠杆贷款高出近3个百分点。&lt;/p&gt;
+&lt;p&gt;不过，BCRED的净资产值在此期间持续下滑，从1月末的每份24.68美元降至7月末的23.64美元。本季度的赎回款项将以9月季末净资产值为基准计算。&lt;/p&gt;
+&lt;p&gt;Cliffwater方面，该基金本季约16%的份额面临赎回申请，实际获批约为申请量的三分之一，与上季度投资者申请赎回约17%时的结果基本持平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cliffwater首席执行官Stephen Nesbitt在信中表示，&amp;quot;我们对私人信贷的韧性保持乐观&amp;quot;，&lt;/strong&gt;并指出该基金自2019年成立以来年化回报率为9.23%，跑赢杠杆贷款与投资级债券。&lt;/p&gt;
+&lt;p&gt;该基金还指出，自第一季度以来持续申请赎回的投资者已累计收回78%的资金。&lt;/p&gt;
+
+积压难消，募资骤降，市场防御态势延续
+
+&lt;p&gt;两只基金的披露结果表明，私人信贷市场的赎回压力呈现出结构性特征——虽然此前持续排队赎回的投资者正逐步收回更多资金，但随着新增持有人加入退出队列，约150亿美元的整体赎回积压规模可能维持不变。&lt;/p&gt;
+&lt;p&gt;投资者情绪的转变有迹可循。今年以来，私人信贷市场整体承压，市场对承销标准及对传统软件企业敞口的担忧令投资者持续保持谨慎。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;非交易型BDC的募资规模今年已大幅下滑约82%，较低的预期回报促使投资者将资金转向其他资产类别。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在二级市场，公开交易BDC的表现出现一定修复。根据标普BDC指数，相关股票较今年早些时候触及的多年低点已反弹约10%。但这一回暖能否向非交易型产品传导，仍存在不确定性。&lt;/p&gt;
+
+基金方强调资产质量，着眼新兴领域布局
+
+&lt;p&gt;面对赎回压力，两只基金均着力向投资者传递资产质量稳健的信号。各基金指出，账面不良贷款占比依然偏低，市场最悲观的预期尚未成真。&lt;/p&gt;
+&lt;p&gt;BCRED表示，今年上半年已完成逾60亿美元的新增部署，重点布局领域包括人工智能、数字基础设施、航空航天与国防及生命科学。该基金还指出，来自机构投资者对私人信贷的整体需求依然强劲。&lt;/p&gt;
+&lt;p&gt;值得关注的是，Cliffwater Corporate Lending Fund是私人信贷市场规模最大的所谓&amp;quot;间隔基金&amp;quot;，其快速崛起曾被视为直接借贷市场的一个缩影——通过广泛募资并将资金分散投入各类贷款及基金。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该基金第一季度曾将赎回上限设定在7%，随后在第二季度将其下调至5%，与非交易型BDC的行业惯例保持一致。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于私人信贷市场而言，当前的核心挑战已从能否守住资产质量，逐步转向如何重建投资者信心、重启募资增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国30年房贷利率升至6.71%，创逾一年新高</title><link>https://wallstreetcn.com/articles/3781039</link><guid>9d45bded22ddc873eeee52ced0099e72b9489ae5d04e574f22229060d21a6d50</guid><pubDate>Thu, 03 Sep 2026 21:01:57 GMT</pubDate><description>&lt;p&gt;美国住房负担能力面临新一轮压力。抵押贷款利率攀升至一年多来最高水平，与此同时，中东局势再度紧张推动能源价格上涨，通胀压力持续高企，美联储政策路径的不确定性仍未消散。&lt;/p&gt;
 &lt;p&gt;房地美（Freddie Mac）周四公布数据显示，美国30年期固定抵押贷款平均利率本周升至6.71%，高于上周的6.66%，为2025年7月以来最高水平。&lt;/p&gt;
 &lt;p&gt;抵押贷款利率走势与美国国债收益率高度挂钩，后者近期因多重因素承压而持续攀升。&lt;/p&gt;
 &lt;p&gt;美联储理事Christopher Waller周四发表讲话，表示最近两个月通胀读数显示出明显缓和迹象，9月15至16日的会议上或无需加息。&lt;/p&gt;
@@ -282,25 +259,7 @@ AI&amp;quot;中间层&amp;quot;的价值之争
 &lt;p&gt;国债收益率上涨受多重因素驱动：市场担忧政府借债规模或已超出其偿还能力，企业大规模投资人工智能基础设施带来资本竞争，以及美伊冲突升级可能进一步推升通胀预期。&lt;/p&gt;
 &lt;p&gt;10年期国债收益率周三一度升至4.818%，为2023年11月以来新高，周四在Waller讲话后有所回落。然而，利率走势仍高度依赖即将公布的通胀数据。&lt;/p&gt;
 &lt;p&gt;Waller表示，若8月通胀读数延续近期降温趋势，他将对9月会议维持利率不变感到&amp;quot;满意&amp;quot;。这一措辞较此前市场所预期的加息立场明显偏鸽，触发国债收益率短线下行。&lt;/p&gt;
-&lt;p&gt;然而，Waller的表态并非承诺，数据依然是决定政策走向的核心变量。对于购房者、按揭市场及整体住房行业而言，利率能否出现实质性回落，仍有待后续通胀数据加以验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元兑日元大跌逼近155关口，CME：若跌破155，期权卖压或加速日元涨势</title><link>https://wallstreetcn.com/articles/3781034</link><guid>56fbc65e70b052fcbf014cce698712bdab5ec07e4271171a563f4a85ac1ce0ac</guid><pubDate>Thu, 03 Sep 2026 19:19:23 GMT</pubDate><description>&lt;p&gt;美元兑日元汇率周四大幅下挫，盘中一度触及155.34的逾月低位，单日跌幅达2.1%。155关口的期权卖压正在积聚，若该关口被有效跌破，技术面与衍生品双重压力或驱动美元进一步下行。&lt;/p&gt;
-&lt;p&gt;推动日元走强的核心动力来自两个方向：&lt;strong&gt;市场对日本央行加息幅度的预期显著升温，以及美国财长贝森特就日本政策走向发表的表态引发市场警觉。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CME指出，&lt;strong&gt;周四全天155日元行权价的期权需求持续累积，其中隔夜美元认沽期权成交最为活跃，若美元认沽期权被触发，日元涨势或进一步加速。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;日元此轮涨势于周三开始积累，周四美元兑日元跌幅进一步扩大。&lt;strong&gt;若美元兑日元进一步跌破155.23，将击穿日本当局最近一轮买入日元干预时触及的低点，市场关注度料将随之骤升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周三市场已涌现出东京当局可能已入市干预的猜测，周四的日元持续走强进一步强化了这一猜测。截至发稿，美元兑日元下跌2.08%，报155.40。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-期权压力在155关口集中释放
-
-&lt;p&gt;&lt;strong&gt;据CME，周四全天155日元行权价的期权需求持续累积，其中隔夜美元认沽期权成交最为活跃，并成为当日成交量最大的合约。CME指出，随着卖出美元的期权陆续被触发，日元涨势进一步加速。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在美元兑日元跌破156.25之后，市场对155行权价的兴趣明显升温——156.25在当日早些时候同样吸引了大量期权需求，两个关键节点之间形成了连锁触发效应。&lt;/p&gt;
-&lt;p&gt;市场参与者指出，155是日元的重要阻力位。今年4月日本当局入市干预时，未能将汇率推破该关口，因此若155被有效跌穿，将释放明确的技术性看空信号，并可能触发更大规模的程序化抛售。&lt;/p&gt;
-
-日美双重政策信号提振日元预期
-
-&lt;p&gt;外汇市场参与者普遍认为，日本央行可能超预期加息的预期，是本轮日元走强的主要基本面支撑。&lt;/p&gt;
-&lt;p&gt;日本央行政策委员会高田创此前暗示，官员倾向于在9月17日至18日的会议上决定加息，且幅度可能超出市场预估的25个基点，后续会议或将持续跟进。这一连续加息的前景正在重新定价日元资产。&lt;/p&gt;
-&lt;p&gt;与此同时，美国财长贝森特公开表示，日本应逐步摆脱&amp;quot;高桥经济学&amp;quot;式的再通胀政策。这番措辞令市场对日本汇率、货币及财政政策可能承受外部压力保持警觉，在一定程度上进一步强化了日元的升值动能。&lt;/p&gt;
-&lt;p&gt;两股力量的交汇——内部货币政策转向与外部政策压力——共同构成日元近期行情的叙事主线，也令市场对155关口能否守住保持高度关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级</title><link>https://wallstreetcn.com/articles/3781033</link><guid>e0822d4dceda84ee90b5f80d3b37b11f8db568f10d3ad43a9337b7cf4ca61e82</guid><pubDate>Thu, 03 Sep 2026 18:00:52 GMT</pubDate><description>&lt;p&gt;美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。OpenAI总裁Greg Brockman更进一步表示，人们未来或许会回头将“这个时间、这个模型”视为人工通用智能（AGI）到来的节点，并在发布会最后称：“欢迎进入AGI时代。”&lt;/p&gt;
+&lt;p&gt;然而，Waller的表态并非承诺，数据依然是决定政策走向的核心变量。对于购房者、按揭市场及整体住房行业而言，利率能否出现实质性回落，仍有待后续通胀数据加以验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级</title><link>https://wallstreetcn.com/articles/3781033</link><guid>e0822d4dceda84ee90b5f80d3b37b11f8db568f10d3ad43a9337b7cf4ca61e82</guid><pubDate>Thu, 03 Sep 2026 18:00:52 GMT</pubDate><description>&lt;p&gt;美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。OpenAI总裁Greg Brockman更进一步表示，人们未来或许会回头将“这个时间、这个模型”视为人工通用智能（AGI）到来的节点，并在发布会最后称：“欢迎进入AGI时代。”&lt;/p&gt;
 &lt;p&gt;Astra的核心变化不只是回答问题的能力更强，而是能够直接操作计算机和软件，替用户完成编程、科学研究、金融建模、制作演示文稿和电子表格等复杂任务。OpenAI称，Astra在软件工程、科学、推理、计算机操作和网络安全等领域均取得领先表现，并使用超过10万块GPU在得州Stargate基地完成训练。&lt;/p&gt;
 &lt;p&gt;与此同时，Astra也是OpenAI首个达到内部“关键”（Critical）网络安全能力门槛的模型，意味着它已经具备发现此前未知漏洞、开发漏洞利用程序的能力。出于安全考虑，OpenAI对其最先进的网络安全能力设置了更严格的访问限制。&lt;/p&gt;
 从聊天机器人到“数字员工”：Astra直接进入软件环境
@@ -516,4 +475,22 @@ AI数据中心：真正的瓶颈不是发电，而是能源基础设施
 &lt;p&gt;美联储主席Kevin Warsh在怀俄明州杰克逊霍尔年会上警告称，通胀尚未出现实质性放缓，政策制定者必须对此保持信心，否则美联储&amp;quot;仍有工作要做&amp;quot;，暗示货币政策维持紧缩取向。&lt;/p&gt;
 &lt;p&gt;Bessent对日本加息日益公开的施压，也令日本央行会议的市场风险异常突出。&lt;/p&gt;
 &lt;p&gt;彭博市场策略师Mark Cranfield指出&lt;strong&gt;，若日本央行未能回应Bessent已几近明牌的加息呼声，不仅将令交易员措手不及，更将引发日元急剧下挫。&lt;/strong&gt;他同时指出，要在涵盖美联储与日本央行两次会议的这一周之后维持日元升势，难度极高，可能需要美联储意外转鸽、同时日本央行明确释放连续加息信号，两者同时成立的概率有限。&lt;/p&gt;
-&lt;p&gt;SBI FX Trade总裁上田真人（Marito Ueda）表示，&amp;quot;市场在进入美联储与日本央行会议窗口期、叠加日本长假之际，正处于干预高度警戒状态。一旦美元兑日元重回160区间，干预完全可能发生。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;SBI FX Trade总裁上田真人（Marito Ueda）表示，&amp;quot;市场在进入美联储与日本央行会议窗口期、叠加日本长假之际，正处于干预高度警戒状态。一旦美元兑日元重回160区间，干预完全可能发生。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美元兑日元大跌逼近155关口，CME：若跌破155，期权卖压或加速日元涨势</title><link>https://wallstreetcn.com/articles/3781034</link><guid>56fbc65e70b052fcbf014cce698712bdab5ec07e4271171a563f4a85ac1ce0ac</guid><pubDate>Thu, 03 Sep 2026 19:19:23 GMT</pubDate><description>&lt;p&gt;美元兑日元汇率周四大幅下挫，盘中一度触及155.34的逾月低位，单日跌幅达2.1%。155关口的期权卖压正在积聚，若该关口被有效跌破，技术面与衍生品双重压力或驱动美元进一步下行。&lt;/p&gt;
+&lt;p&gt;推动日元走强的核心动力来自两个方向：&lt;strong&gt;市场对日本央行加息幅度的预期显著升温，以及美国财长贝森特就日本政策走向发表的表态引发市场警觉。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CME指出，&lt;strong&gt;周四全天155日元行权价的期权需求持续累积，其中隔夜美元认沽期权成交最为活跃，若美元认沽期权被触发，日元涨势或进一步加速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日元此轮涨势于周三开始积累，周四美元兑日元跌幅进一步扩大。&lt;strong&gt;若美元兑日元进一步跌破155.23，将击穿日本当局最近一轮买入日元干预时触及的低点，市场关注度料将随之骤升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周三市场已涌现出东京当局可能已入市干预的猜测，周四的日元持续走强进一步强化了这一猜测。截至发稿，美元兑日元下跌2.08%，报155.40。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+期权压力在155关口集中释放
+
+&lt;p&gt;&lt;strong&gt;据CME，周四全天155日元行权价的期权需求持续累积，其中隔夜美元认沽期权成交最为活跃，并成为当日成交量最大的合约。CME指出，随着卖出美元的期权陆续被触发，日元涨势进一步加速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在美元兑日元跌破156.25之后，市场对155行权价的兴趣明显升温——156.25在当日早些时候同样吸引了大量期权需求，两个关键节点之间形成了连锁触发效应。&lt;/p&gt;
+&lt;p&gt;市场参与者指出，155是日元的重要阻力位。今年4月日本当局入市干预时，未能将汇率推破该关口，因此若155被有效跌穿，将释放明确的技术性看空信号，并可能触发更大规模的程序化抛售。&lt;/p&gt;
+
+日美双重政策信号提振日元预期
+
+&lt;p&gt;外汇市场参与者普遍认为，日本央行可能超预期加息的预期，是本轮日元走强的主要基本面支撑。&lt;/p&gt;
+&lt;p&gt;日本央行政策委员会高田创此前暗示，官员倾向于在9月17日至18日的会议上决定加息，且幅度可能超出市场预估的25个基点，后续会议或将持续跟进。这一连续加息的前景正在重新定价日元资产。&lt;/p&gt;
+&lt;p&gt;与此同时，美国财长贝森特公开表示，日本应逐步摆脱&amp;quot;高桥经济学&amp;quot;式的再通胀政策。这番措辞令市场对日本汇率、货币及财政政策可能承受外部压力保持警觉，在一定程度上进一步强化了日元的升值动能。&lt;/p&gt;
+&lt;p&gt;两股力量的交汇——内部货币政策转向与外部政策压力——共同构成日元近期行情的叙事主线，也令市场对155关口能否守住保持高度关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
