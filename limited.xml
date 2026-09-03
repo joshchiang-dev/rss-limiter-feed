@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 01:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] 博通电话会：未来两年AI收入将连续翻倍至2300亿美元，明年Anthropic或成最大芯片客户、算力部署将达5GW</title><link>https://wallstreetcn.com/articles/3780943</link><guid>2ec001c4409472b28062e9733ab324b41436af657d9f97a8f638afb472836376</guid><pubDate>Wed, 02 Sep 2026 23:19:09 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 03 Sep 2026 01:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 美银：8月非农“只是预热”，9月加息真正门槛仍在CPI</title><link>https://wallstreetcn.com/articles/3780959</link><guid>0e29be826337a6bf7ce6a05865e05cb6d742bd673d9809f58345ca50dcc80501</guid><pubDate>Thu, 03 Sep 2026 01:33:18 GMT</pubDate><description>&lt;p&gt;华尔街正紧盯即将公布的8月非农就业报告，但美银最新警告：别被非农“虚晃一枪”，这只是开胃菜，9月美联储加息的真正生死线在于随后的CPI数据。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，美银在9月2日发布的最新利率与外汇研究报告中指出，&lt;strong&gt;8月非农就业数据不过是&amp;quot;开场热身&amp;quot;，真正决定美联储9月是否加息的关键变量是即将公布的CPI通胀数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告称，美银预计8月非农新增就业仅4万人（私人部门3.5万人），远低于市场共识，失业率维持4.1%。美联储主席沃什在杰克逊霍尔年会上的讲话中，通胀相关词汇出现频次约为劳动力市场词汇的两倍，&lt;strong&gt;清晰表明通胀才是当前货币政策的核心锚点&lt;/strong&gt;。9月加息概率当前约70%，但最终定论须等待下周CPI与PPI数据落地。&lt;/p&gt;
+&lt;p&gt;该行认为，当前市场存在极度不对称的风险收益比：&lt;strong&gt;非农数据不及预期引发的美债反弹幅度，将远超数据超预期引发的抛售。&lt;/strong&gt;基于此，美银建议投资者做多5年期美债、构建5年/30年期美债收益率曲线陡峭化交易，并战术性做空美元。&lt;/p&gt;
+8月非农预测：季节性疲软，但失业率料维持稳定
+&lt;p&gt;美银预计8月非农新增就业&lt;strong&gt;4万人&lt;/strong&gt;（私人部门&lt;strong&gt;3.5万人&lt;/strong&gt;），低于市场共识，但与近年夏季季节性偏软的规律相符。历史数据显示，8月非农数据历来倾向于下行惊喜，近年来尤其受到夏季残余季节性因素的拖累，ADP数据也持续偏软。&lt;/p&gt;
+&lt;p&gt;尽管如此，私人部门就业3个月均值仍将维持在约3万人，接近经济盈亏平衡水平。&lt;strong&gt;失业率（U3）预计维持4.1%&lt;/strong&gt;，但若劳动参与率出现反弹，则可能被推升至4.2%。&lt;/p&gt;
+&lt;p&gt;美银明确指出，鉴于沃什对劳动力市场韧性的最新表态，即便非农数据偏弱，对9月加息定价的影响也将十分有限。&lt;/p&gt;
+沃什杰克逊霍尔讲话定调：通胀优先于就业
+&lt;p&gt;美银分析师对沃什在杰克逊霍尔年会上的讲话进行了词频统计，结果极具说服力：通胀相关词汇（包括inflation、prices、price stability、PCE、CPI及inflation expectations等）共出现&lt;strong&gt;61次&lt;/strong&gt;，而劳动力市场相关词汇（包括labor、employment、unemployment、jobs、wages及workers等）仅出现&lt;strong&gt;30次&lt;/strong&gt;，前者约为后者的&lt;strong&gt;两倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一数据直接揭示了美联储当前的政策优先级排序：&lt;strong&gt;通胀高于就业&lt;/strong&gt;。沃什在讲话中将当前劳动力市场描述为接近充分就业状态，着重强调了申请失业救济人数平稳和失业率稳定，而非将疲软的新增就业数字视为主要风险信号。&lt;/p&gt;
+&lt;p&gt;这意味着，即便8月非农数据偏弱，对9月加息预期的冲击也将相当有限。&lt;/p&gt;
+利率市场的不对称博弈：非农只是“开场秀”，CPI才是“主秀”
+&lt;p&gt;在美银看来，非农充其量只是“开场秀”，下周的CPI才是决定9月FOMC会议走向的“主秀”。&lt;/p&gt;
+&lt;p&gt;值得注意的是，美银特别提示了一个关键的时间窗口问题：&lt;strong&gt;8月非农报告是美联储官员进入“静默期”前最后一个重要数据节点&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这意味着，非农数据公布后，美联储官员将有短暂机会就劳动力市场数据的政策含义进行公开表态。然而，等到下周CPI数据公布时，官员们将已进入静默期，无法再向市场提供额外指引。&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;非农数据发布后的任何美联储官员评论，都将对市场解读CPI数据、形成9月政策预期产生超乎寻常的重要影响&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;针对当前的利率市场，美银的核心判断是：&lt;strong&gt;非农数据对利率市场的影响呈现明显非对称性&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;具体而言：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;若失业率升至&lt;strong&gt;4.2%&lt;/strong&gt;，2年期美债收益率预计下行5至12个基点，10年期下行5至10个基点；&lt;/li&gt;
+&lt;li&gt;若失业率降至&lt;strong&gt;4.0%&lt;/strong&gt;，2年期美债收益率预计上行5至6个基点，10年期上行5至8个基点；&lt;/li&gt;
+&lt;li&gt;若失业率维持&lt;strong&gt;4.1%&lt;/strong&gt;，各期限收益率双向波动幅度均约为5个基点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这种非对称性的背后有两重逻辑：&lt;strong&gt;其一&lt;/strong&gt;，CTA（商品交易顾问）和主动型债券基金目前仍持有相对偏空的久期敞口，意味着市场在数据不及预期时更容易触发空头回补；&lt;strong&gt;其二&lt;/strong&gt;，即便非农数据强劲，也不足以完全锁定9月加息，市场仍将在CPI公布前保持不确定性。&lt;/p&gt;
+&lt;p&gt;此外，&lt;strong&gt;历史规律也对加息节点构成了约束。&lt;/strong&gt;美银还指出一个重要的政治日历约束：&lt;strong&gt;自1990年以来，美联储从未在紧邻全国大选的FOMC会议上启动新一轮加息周期&lt;/strong&gt;。若9月不加息，下一个“活跃”会议窗口可能推迟至12月，因为10月会议距离中期选举过近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+交易策略与外汇前瞻：做多5年期美债，战术性看空美元
+&lt;p&gt;基于上述不对称风险和美联储重塑的信誉，美银建议做多5年期美债，构建5年/30年期美债收益率曲线陡峭化交易。美银预计，&lt;strong&gt;疲软的非农将导致收益率曲线牛市陡峭化，而强劲的数据则会导致熊市平坦化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在外汇层面，美银的判断与利率策略逻辑一脉相承：&lt;strong&gt;美元面临非对称风险，在同等幅度的数据超预期/不及预期情景下，下行空间大于上行空间&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当前背景下，9月加息概率已定价约70%，投机性美元多头仓位（IMM数据）仍处于净多头状态，但近期美国经济数据持续偏软。美银指出，今夏美元走势更多受美国政策事件驱动，而非实际数据。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美银还指出，美元在杰克逊霍尔之后的重新定价中出现滞后，可能反映了8月下旬意外国债回购公告带来的持续看空情绪。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;若美联储最终兑现加息，将有效压制&amp;quot;美元贬值&amp;quot;叙事；若重蹈7月FOMC鸽派覆辙，则杰克逊霍尔重建的公信力将迅速瓦解，美元将随之走低。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 博通电话会：未来两年AI收入将连续翻倍至2300亿美元，明年Anthropic或成最大芯片客户、算力部署将达5GW</title><link>https://wallstreetcn.com/articles/3780943</link><guid>2ec001c4409472b28062e9733ab324b41436af657d9f97a8f638afb472836376</guid><pubDate>Wed, 02 Sep 2026 23:19:09 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;博通2026财年第三季度财报展现了其在定制AI芯片（XPU）领域的爆炸性增长，凭借出色的性价比对传统GPU形成强势替代，公司高管更罕见地给出了未来两年AI收入连续翻倍的超预期指引。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3780939"&gt;华尔街见闻提及&lt;/a&gt;，美东时间3日周三美股盘后，博通公布，截至2026年8月2日的公司2026财年第三财季，净营收同比增长86%至295.91亿美元，&lt;strong&gt;继续创单季营收新高，略高于市场预期的约294.5亿美元，刷新前一季所创的九年多来最高单季增速&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;这一惊人业绩的绝对驱动力来自于AI半导体业务。该季度博通AI半导体收入同比飙升221%，环比增长54%，达到167亿美元。博通预计Q4总营收将达到348亿美元，其中AI收入将达到217亿美元，同比激增236%。&lt;/p&gt;
@@ -485,28 +529,7 @@ Flash高频迭代，谷歌押注“更便宜的智能体”落地
 &lt;p&gt;美军中央司令部发表声明称，美军已经完成对伊朗军事目标的新一轮打击。&lt;/p&gt;
 &lt;p&gt;根据美方声明，此轮打击目标包括伊朗伊斯兰革命卫队的防空阵地、雷达系统、海上资产与设施，以及布雷能力和通信站点。&lt;/p&gt;
 &lt;p&gt;相比此前针对防空阵地、雷达等目标的行动，此轮打击进一步覆盖伊朗的布雷能力和通信设施，显示美军打击范围正在扩大，&lt;strong&gt;重点也从削弱防空体系延伸至限制伊朗的海上作战及通信能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美伊双方相继宣布发动袭击和反击，冲突仍呈现“打击—报复—再打击”的循环。若双方继续扩大打击目标，冲突外溢至更多国家和地区的风险也可能上升，并进一步增加能源、航运及全球通胀前景的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI新模型“Astra”：核心技术“循环深度”可实现超强推理，但允许不再完整输出“思维链”</title><link>https://wallstreetcn.com/articles/3780955</link><guid>9ec139f249d4e9bf4990464b3a08c54752d9dbe1525f2756ba29a4163293c998</guid><pubDate>Thu, 03 Sep 2026 00:45:26 GMT</pubDate><description>&lt;p&gt;OpenAI即将推出的新模型“Astra”正在AI研究圈引发广泛关注与争议——它在性能上可能带来自GPT-4以来最大的一次飞跃，但其背后的新型推理技术却同时引发了对AI安全监控能力下降的担忧。&lt;/p&gt;
-&lt;p&gt;据科技媒体The Information 9月2日报道，Astra搭载了一项创新技术，核心在于突破模型“思考”复杂问题的上限。部分研究人员认为，Astra在编码和计算机使用能力上的提升，&lt;strong&gt;可能堪比OpenAI 2023年发布GPT-4时带来的性能飞跃，远超去年夏天GPT-5发布时的表现。&lt;/strong&gt;这对于依赖AI生产力提升来支撑数据中心大规模建设投资的整个行业而言，无疑是一个积极信号。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;这一技术突破也带来了不容忽视的隐患。&lt;/strong&gt;新技术&lt;strong&gt;允许模型在不完整输出“思维链”的情况下完成深度推理&lt;/strong&gt;，这意味着研究人员&lt;strong&gt;可能无法像以往那样有效监控模型的推理过程，从而削弱现有的安全审查机制。&lt;/strong&gt;目前，OpenAI正采取措施确保Astra的思维链仍保持可见，但业界对这一权衡的长期走向仍存在分歧。&lt;/p&gt;
-性能突破：新推理技术或复现GPT-4级飞跃
-&lt;p&gt;Astra的核心技术突破与&lt;strong&gt;“循环深度”（recurrent depth）及“循环变换器”（loop transformers）&lt;/strong&gt;等概念密切相关。&lt;/p&gt;
-&lt;p&gt;据The Information报道，该技术通过将问题反复传递至模型数学运算的各个“层”中进行处理，再生成答案中的下一个词，从而&lt;strong&gt;使模型能够在不显著增加参数规模的情况下&lt;/strong&gt;，展现出远超自身体量的推理能力——&lt;strong&gt;其效果相当于一个规模大得多的模型。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;部分研究人员认为，Astra凭借更强的编码与计算机使用能力，其性能提升幅度可能与2023年GPT-4发布时的跨越式进步相当，远超去年夏天GPT-5上线时相对平稳的市场反应。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一进展对整个AI产业链具有重要意义。&lt;/strong&gt;当前全球数据中心的大规模建设，其底层逻辑正是押注于AI能力的持续提升将带动生产力增长，进而转化为更高的商业收益。若Astra的性能表现达到预期，将为这一投资逻辑提供有力支撑。&lt;/p&gt;
-&lt;p&gt;值得注意的是，&lt;strong&gt;这一技术并非全新概念。&lt;/strong&gt;AI研究先驱Jürgen Schmidhuber在社交平台X上指出，&lt;strong&gt;“循环深度”的核心思路实质上早已见于他2015年的论文&lt;/strong&gt;《On Learning to Think》（arXiv:1511.09249）。&lt;/p&gt;
-&lt;p&gt;他表示，该论文中的控制网络C本质上是一个提示工程师，&lt;strong&gt;通过学习查询独立的神经世界模型来进行抽象推理，生成的提示和回答是内部自生成的向量序列，无需以自然语言呈现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-安全隐患：思维链监控机制面临挑战
-&lt;p&gt;新技术在带来性能提升的同时，也对现有的AI安全监控框架构成了潜在冲击。&lt;/p&gt;
-&lt;p&gt;报道称，目前，主流AI模型在处理复杂问题时，通常会以文字形式输出其推理过程，即“思维链”（chain of thought）。这一机制不仅提升了模型的可解释性，也是研究人员监控模型行为、防范异常操作的重要手段。&lt;/p&gt;
-&lt;p&gt;据The Information报道，思维链监控正是OpenAI在今年7月Hugging Face黑客事件发生后，提出的防止类似安全事故重演的主要解决方案之一。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;Astra所采用的新推理技术，在模型深度“思考”时可能不会完整输出推理步骤，而是在模型内部“静默”完成运算。&lt;/strong&gt;这意味着，模型越依赖这一新技术，其推理过程对外部监控者而言就越不透明。&lt;/p&gt;
-&lt;p&gt;对此，OpenAI目前正采取措施加以平衡。据悉，&lt;strong&gt;该公司正指导模型减少问题在运算层中的循环次数，以确保Astra的思维链仍保持一定程度的可见性——循环次数越少，模型“静默思考”的空间就越小。&lt;/strong&gt;&lt;/p&gt;
-各大实验室已在跟进，长期监控方案仍待解
-&lt;p&gt;这一技术趋势的影响或将远不止于OpenAI一家。据The Information报道，上述新型推理技术已成为各大主要AI实验室内部讨论的热点话题，Anthropic、谷歌等机构采用类似技术路线的可能性不容低估。&lt;/p&gt;
-&lt;p&gt;多位研究人员指出，思维链监控本就不会是AI行为监控的终极解决方案。随着模型能力的持续演进，模型以文字形式输出思维过程这一特征，在很大程度上只是当前训练方式的副产品。&lt;/p&gt;
-&lt;p&gt;随着模型开发者探索新的优化方向和架构设计，模型自发输出思维链的倾向可能会逐渐减弱，研究人员届时将不得不开发新的监控手段。&lt;/p&gt;
-&lt;p&gt;报道指出，当前的核心问题在于：&lt;strong&gt;在性能竞争日趋激烈的压力下，各大AI开发商是否会为追求更强的推理能力而主动放弃现有的安全保障措施？这一问题的答案，将在很大程度上决定下一阶段AI安全治理的走向。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加央行七连按兵不动：关税战推升通胀风险，63%分析师押注2027上半年转向加息</title><link>https://wallstreetcn.com/articles/3780944</link><guid>4cad6cf904e7322d31de5a09887b488a7992dd52e11d0f2a4da5528bf9b5c423</guid><pubDate>Wed, 02 Sep 2026 22:21:14 GMT</pubDate><description>&lt;p&gt;9月2日，&lt;strong&gt;加拿大央行连续第七次会议将隔夜利率维持在2.25%不变&lt;/strong&gt;，但美加关税战升级正在推升通胀上行风险，市场已开始押注其下一步动作是加息。&lt;/p&gt;
+&lt;p&gt;美伊双方相继宣布发动袭击和反击，冲突仍呈现“打击—报复—再打击”的循环。若双方继续扩大打击目标，冲突外溢至更多国家和地区的风险也可能上升，并进一步增加能源、航运及全球通胀前景的不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加央行七连按兵不动：关税战推升通胀风险，63%分析师押注2027上半年转向加息</title><link>https://wallstreetcn.com/articles/3780944</link><guid>4cad6cf904e7322d31de5a09887b488a7992dd52e11d0f2a4da5528bf9b5c423</guid><pubDate>Wed, 02 Sep 2026 22:21:14 GMT</pubDate><description>&lt;p&gt;9月2日，&lt;strong&gt;加拿大央行连续第七次会议将隔夜利率维持在2.25%不变&lt;/strong&gt;，但美加关税战升级正在推升通胀上行风险，市场已开始押注其下一步动作是加息。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加拿大央行在声明中称，经济与通胀的演变&amp;quot;大体符合&amp;quot;7月预测，但&amp;quot;通胀的上行风险已经增加，新关税令增长前景更加不确定&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;行长Tiff Macklem表示，加拿大经济增长在经历过去一年的停滞后已经回升，&amp;quot;这让我们面对新挑战时处于更稳固的基础&amp;quot;，&lt;strong&gt;但&amp;quot;反弹可持续性的不确定性随美国新的贸易行动而增加&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;决议公布后，加拿大短期国债遭抛售，两年期国债收益率最高升至3.048%，加元走强至1.3847兑1美元。彭博调查显示，63%的分析师预计央行将在2027年上半年加息，与隔夜掉期市场的定价一致。&lt;/p&gt;
