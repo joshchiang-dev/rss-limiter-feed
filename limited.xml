@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 05 Sep 2026 10:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”</title><link>https://wallstreetcn.com/articles/3781151</link><guid>d29a1811a87aecf9b642374bf7a52d71aac922ebc6c545e7e4c2db0abc7ddf64</guid><pubDate>Sat, 05 Sep 2026 09:55:47 GMT</pubDate><description>&lt;p&gt;OpenAI总裁格雷格·布罗克曼在Astra发布前夕接受深度专访，&lt;strong&gt;首度披露这款新模型是OpenAI史上首个在逾10万块GPU上完成训练的模型，并直言AI已跨越&amp;quot;电脑使用&amp;quot;的应用门槛&lt;/strong&gt;——&lt;strong&gt;这意味着AI从此不再需要依赖API连接器，而是可以像人一样操作任何软件。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 05 Sep 2026 10:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] GPT-6 Astra上线首日翻车：付费用户被“拒之门外”，Altman紧急道歉</title><link>https://wallstreetcn.com/articles/3781131</link><guid>9faab392a39755e896a437180ee259e0a1dd837e3f226b7166cf2bb1862174f2</guid><pubDate>Sat, 05 Sep 2026 01:51:50 GMT</pubDate><description>&lt;p&gt;OpenAI的最新旗舰模型GPT-6 Astra甫一发布，便陷入舆论风波。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781033"&gt;华尔街见闻提及&lt;/a&gt;，美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。&lt;/p&gt;
+&lt;p&gt;然而，CEO Sam Altman在上线数小时内即公开道歉，承认此次为&amp;quot;混乱的发布&amp;quot;，大批付费订阅用户在期待已久后却无缘第一时间使用该模型。这是OpenAI近年来多次重大产品发布受挫的又一次重演。&lt;/p&gt;
+&lt;p&gt;OpenAI此次采取了分阶段发布策略，优先向特定企业客户，即接入其Daybreak网络安全平台的用户开放访问权限，&lt;strong&gt;其余Plus、Pro、Business及Enterprise订阅用户，以及通过OpenAI API、微软Azure和AWS Bedrock接入的用户，需等待&amp;quot;未来数天&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一安排迅速引发了付费用户的强烈不满，尤其是习惯于在新品首发时获得优先访问权的高价Pro计划用户。&lt;/p&gt;
+&lt;p&gt;截至发稿，Altman及其他OpenAI员工均未就扩大访问权限给出明确时间表。Altman在X平台发文称，&amp;quot;希望&amp;quot;用户能在本周末使用Astra，但&amp;quot;目前无法承诺&amp;quot;。&lt;/p&gt;
+
+分阶段发布策略引发付费用户强烈反弹
+
+&lt;p&gt;Astra的发布从一开始就因优先次序问题埋下隐患。&lt;/p&gt;
+&lt;p&gt;按照OpenAI的安排，企业级客户，尤其是接入Daybreak网络安全平台的用户率先获得访问权限，而&lt;strong&gt;月费更高的Pro计划用户反而需要排队等待。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这与OpenAI此前建立的用户预期形成明显落差：Pro计划用户长期以来被视为&amp;quot;新功能首发受益者&amp;quot;。OpenAI员工在X平台发布的发布公告下方，迅速被大量投诉评论淹没。&lt;/p&gt;
+&lt;p&gt;Altman在X平台发帖回应称，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们正尽一切努力尽快让所有人都能使用Astra，我知道这令人沮丧，感谢大家的耐心，应该不会太久。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Astra的发布并非仅面临用户访问层面的问题。&lt;/strong&gt;Altman坦承，博客文章在上线过程中出现了&amp;quot;小插曲&amp;quot;。&lt;/p&gt;
+&lt;p&gt;与此同时，OpenAI还面临来自安全倡导者的强烈批评。争议焦点在于，OpenAI承认Astra的推理过程比其他模型更难以监控。&lt;/p&gt;
+&lt;p&gt;这一特性被认为尤为令人担忧，背景是此前OpenAI的AI代理曾攻击Hugging Face，而相关关键细节正是通过此类监控手段才得以披露。OpenAI表示，正是为了在这一安全漏洞发生后强化安全特性，公司已将Astra的发布推迟了数周。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，延迟发布并未能让此次上线更为顺畅，反而叠加了访问混乱与安全质疑的双重压力。&lt;/strong&gt;&lt;/p&gt;
+
+重大发布屡遭挫折，成OpenAI的惯性难题
+
+&lt;p&gt;此次风波并非OpenAI的首次重大发布失利。&lt;/p&gt;
+&lt;p&gt;Altman去年在回顾GPT-5发布时曾表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我认为我们在发布的某些环节上彻底搞砸了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GPT-5上线时同样饱受技术问题困扰，而临时下架广受用户喜爱的GPT-4o模型的决定更是激起轩然大波。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Astra的此番遭遇与上述前例如出一辙：高调预热、雄心勃勃的定位，随后是混乱的执行和公开致歉。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于不断扩大的付费订阅用户群而言，这一模式正在持续消耗用户信任，并为竞争对手提供了可乘之机。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”</title><link>https://wallstreetcn.com/articles/3781151</link><guid>d29a1811a87aecf9b642374bf7a52d71aac922ebc6c545e7e4c2db0abc7ddf64</guid><pubDate>Sat, 05 Sep 2026 09:55:47 GMT</pubDate><description>&lt;p&gt;OpenAI总裁格雷格·布罗克曼在Astra发布前夕接受深度专访，&lt;strong&gt;首度披露这款新模型是OpenAI史上首个在逾10万块GPU上完成训练的模型，并直言AI已跨越&amp;quot;电脑使用&amp;quot;的应用门槛&lt;/strong&gt;——&lt;strong&gt;这意味着AI从此不再需要依赖API连接器，而是可以像人一样操作任何软件。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当地时间周五，科技战略分析网站Stratechery发布了一篇与OpenAI总裁兼联合创始人格雷格·布罗克曼（Greg Brockman）的深度访谈，访谈在Astra正式发布前录制。这是迄今为止布罗克曼对Astra及OpenAI最新战略最为详尽的一次公开表达。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;华尔街见闻梳理访谈要点如下：&lt;/strong&gt;&lt;/p&gt;
@@ -240,37 +270,7 @@
 &lt;p&gt;GB：非常感谢，谢谢你邀请我。&lt;/p&gt;
 
 &lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GPT-6 Astra上线首日翻车：付费用户被“拒之门外”，Altman紧急道歉</title><link>https://wallstreetcn.com/articles/3781131</link><guid>9faab392a39755e896a437180ee259e0a1dd837e3f226b7166cf2bb1862174f2</guid><pubDate>Sat, 05 Sep 2026 01:51:50 GMT</pubDate><description>&lt;p&gt;OpenAI的最新旗舰模型GPT-6 Astra甫一发布，便陷入舆论风波。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781033"&gt;华尔街见闻提及&lt;/a&gt;，美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。&lt;/p&gt;
-&lt;p&gt;然而，CEO Sam Altman在上线数小时内即公开道歉，承认此次为&amp;quot;混乱的发布&amp;quot;，大批付费订阅用户在期待已久后却无缘第一时间使用该模型。这是OpenAI近年来多次重大产品发布受挫的又一次重演。&lt;/p&gt;
-&lt;p&gt;OpenAI此次采取了分阶段发布策略，优先向特定企业客户，即接入其Daybreak网络安全平台的用户开放访问权限，&lt;strong&gt;其余Plus、Pro、Business及Enterprise订阅用户，以及通过OpenAI API、微软Azure和AWS Bedrock接入的用户，需等待&amp;quot;未来数天&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一安排迅速引发了付费用户的强烈不满，尤其是习惯于在新品首发时获得优先访问权的高价Pro计划用户。&lt;/p&gt;
-&lt;p&gt;截至发稿，Altman及其他OpenAI员工均未就扩大访问权限给出明确时间表。Altman在X平台发文称，&amp;quot;希望&amp;quot;用户能在本周末使用Astra，但&amp;quot;目前无法承诺&amp;quot;。&lt;/p&gt;
-
-分阶段发布策略引发付费用户强烈反弹
-
-&lt;p&gt;Astra的发布从一开始就因优先次序问题埋下隐患。&lt;/p&gt;
-&lt;p&gt;按照OpenAI的安排，企业级客户，尤其是接入Daybreak网络安全平台的用户率先获得访问权限，而&lt;strong&gt;月费更高的Pro计划用户反而需要排队等待。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这与OpenAI此前建立的用户预期形成明显落差：Pro计划用户长期以来被视为&amp;quot;新功能首发受益者&amp;quot;。OpenAI员工在X平台发布的发布公告下方，迅速被大量投诉评论淹没。&lt;/p&gt;
-&lt;p&gt;Altman在X平台发帖回应称，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们正尽一切努力尽快让所有人都能使用Astra，我知道这令人沮丧，感谢大家的耐心，应该不会太久。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Astra的发布并非仅面临用户访问层面的问题。&lt;/strong&gt;Altman坦承，博客文章在上线过程中出现了&amp;quot;小插曲&amp;quot;。&lt;/p&gt;
-&lt;p&gt;与此同时，OpenAI还面临来自安全倡导者的强烈批评。争议焦点在于，OpenAI承认Astra的推理过程比其他模型更难以监控。&lt;/p&gt;
-&lt;p&gt;这一特性被认为尤为令人担忧，背景是此前OpenAI的AI代理曾攻击Hugging Face，而相关关键细节正是通过此类监控手段才得以披露。OpenAI表示，正是为了在这一安全漏洞发生后强化安全特性，公司已将Astra的发布推迟了数周。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，延迟发布并未能让此次上线更为顺畅，反而叠加了访问混乱与安全质疑的双重压力。&lt;/strong&gt;&lt;/p&gt;
-
-重大发布屡遭挫折，成OpenAI的惯性难题
-
-&lt;p&gt;此次风波并非OpenAI的首次重大发布失利。&lt;/p&gt;
-&lt;p&gt;Altman去年在回顾GPT-5发布时曾表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我认为我们在发布的某些环节上彻底搞砸了。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;GPT-5上线时同样饱受技术问题困扰，而临时下架广受用户喜爱的GPT-4o模型的决定更是激起轩然大波。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Astra的此番遭遇与上述前例如出一辙：高调预热、雄心勃勃的定位，随后是混乱的执行和公开致歉。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对于不断扩大的付费订阅用户群而言，这一模式正在持续消耗用户信任，并为竞争对手提供了可乘之机。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器需求强劲，鸿海8月营收同比飙升52%，创历年同期新高</title><link>https://wallstreetcn.com/articles/3781146</link><guid>2f773f73f2915adcbc732d3e00c818aa5f00ed75d56773889d8c2299dcebbcbf</guid><pubDate>Sat, 05 Sep 2026 08:01:41 GMT</pubDate><description>&lt;p&gt;鸿海AI产品拉货持续强劲，8月营收创历年同期新高。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器需求强劲，鸿海8月营收同比飙升52%，创历年同期新高</title><link>https://wallstreetcn.com/articles/3781146</link><guid>2f773f73f2915adcbc732d3e00c818aa5f00ed75d56773889d8c2299dcebbcbf</guid><pubDate>Sat, 05 Sep 2026 08:01:41 GMT</pubDate><description>&lt;p&gt;鸿海AI产品拉货持续强劲，8月营收创历年同期新高。&lt;/p&gt;
 &lt;p&gt;9月5日，鸿海精密公布的数据显示，&lt;strong&gt;2026年8月营收为9218亿新台币，同比增长51.98%，为历年单月次高，并创历年同期新高。&lt;/strong&gt;尽管受消费智能产品新旧产品转换影响，8月营收环比下降2.61%，但整体规模仍维持高位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;前8个月，鸿海累计营收达到6.51万亿新台币，同比增长39.73%，以美元计价同比增长约38.4%，同样刷新历年同期纪录。&lt;/strong&gt;此前同期高点为2025年前8个月的4.66万亿新台币。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -279,7 +279,26 @@ AI服务器需求强劲，鸿海三季度营收有望延续高增长
 &lt;p&gt;消费智能产品同样保持明显同比增长，主要受拉货动能及出货价格提升带动，但受主要产品进入新旧产品转换期影响，8月环比有所回落。元件及其他产品则受相关零组件及其他收入增加带动，月比、年比均显著增长；电脑终端产品虽然同比仍明显增长，但增幅在四大产品类别中相对落后。&lt;/p&gt;
 &lt;p&gt;整体来看，AI需求持续放量正推动鸿海营收维持高增长。今年3月、6月、7月及8月，公司营收分别同比增长45.57%、52.11%、54.19%和51.98%。&lt;/p&gt;
 &lt;p&gt;展望第三季度，鸿海释放出更积极的信号。公司表示，目前对第三季度的能见度较前月提升，整体表现“可望优于市场预期”。&lt;strong&gt;一方面，AI需求预计延续增长；另一方面，ICT产品进入下半年传统旺季，两大因素有望共同支撑第三季度营运表现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，鸿海也提醒，全球政经局势仍存在较大不确定性，相关变化仍可能对后续运营带来影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元反转能走多远？高盛：结构性修复“刚刚启动”，美银预测年底升至149</title><link>https://wallstreetcn.com/articles/3781139</link><guid>0cf71fe33f63274a772e5ff3cb3f95a5705a78ce2e02f4ce1580da503ccd9134</guid><pubDate>Sat, 05 Sep 2026 05:42:16 GMT</pubDate><description>&lt;p&gt;日元在短短数个交易日内急涨约3%，日本央行加息预期升温与政府养老金投资基金（GPIF）可能增配国内资产，成为推动本轮升势的两大主线。&lt;/p&gt;
+&lt;p&gt;不过，鸿海也提醒，全球政经局势仍存在较大不确定性，相关变化仍可能对后续运营带来影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “个性化癌症疫苗”突破！“肿瘤测序”站上风口</title><link>https://wallstreetcn.com/articles/3781154</link><guid>5dee033703ccbfe6229bd43790e8986ae2ad4ee572ddec7757241d20e6967b66</guid><pubDate>Sat, 05 Sep 2026 10:44:54 GMT</pubDate><description>&lt;p&gt;Moderna与Merck在个性化mRNA癌症疫苗领域的突破性进展，正引发一场医疗保健领域的投资热潮，将提供肿瘤测序服务的诊断公司推向了利润丰厚的市场中心。&lt;/p&gt;
+&lt;p&gt;在Moderna和Merck公布其晚期黑色素瘤试验的积极结果后，&lt;strong&gt;这两家制药公司的总市值激增了超过500亿美元&lt;/strong&gt;。这一突破直接引爆了其诊断合作伙伴的资本市场表现，在数据公布后的几周内，&lt;strong&gt;Tempus AI的股价大幅飙升了24%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一连锁反应在并购市场引发了罕见的异动。作为Moderna临床项目的肿瘤测序合作伙伴，Personalis的股价一度飙升至18美元，突破了Tempus AI此前给出的每股16.25美元的收购价。这种溢价表明，投资者正在押注更高的收购报价或潜在的竞购战。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;随着个性化癌症疗法展现出成为重磅药物的潜力，为其提供基因图谱的诊断公司有望在每一次治疗中占据关键的“收费站”地位，这使得相关标的迅速成为华尔街资金追逐的焦点。&lt;/p&gt;
+&lt;strong&gt;疫苗突破催生测序需求&lt;/strong&gt;
+&lt;p&gt;个性化癌症疗法的核心在于为每位患者提供定制的基因图谱。&lt;strong&gt;医疗机构必须对肿瘤进行测序，以确定疫苗应当靶向的突变基因。&lt;/strong&gt;据《华尔街日报》报道，&lt;strong&gt;Tempus AI已确认，如果Moderna与Merck的疫苗获得批准，该公司将被选为测序合作伙伴。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一潜在市场的商业价值正被华尔街重新评估。Piper Sandler估计，如果该疫苗在黑色素瘤领域获得批准，每年将带来至少5000万美元的测序收入。BTIG分析师Mark Massaro进一步预测，如果这种疗法扩展到肺癌、膀胱癌和肾癌，相关测序收入可能会超过6亿美元，而这一巨大的市场机遇目前在股价中尚未得到充分反映。&lt;/p&gt;
+&lt;strong&gt;并购战局暗流涌动&lt;/strong&gt;
+&lt;p&gt;在行业风口下，Tempus AI对Personalis的收购案正面临市场的不确定性。今年7月20日，Tempus AI同意以每股16.25美元的价格收购Personalis，扣除Tempus AI现有股份后，该交易估值为15亿美元。然而，随着Personalis股价突破收购价，市场对交易生变的预期正在升温。&lt;/p&gt;
+&lt;p&gt;Tempus AI本周发布的交易代理文件证实了投资者的猜测。文件显示，在同意Tempus AI的交易之前，Personalis曾与多个潜在买家接洽，甚至收到过每股17美元的口头报价。华尔街分析师推测，Natera或Guardant Health等竞争对手可能是潜在的竞购方。&lt;/p&gt;
+&lt;p&gt;目前，Tempus AI持有Personalis 12%的股份，加上Merck同意将其13%的股份投票支持该交易，这意味着约四分之一的投票权已锁定。然而，其他股东仍可能推动更高的报价。对此，Tempus AI发言人表示：“正如Personalis关于此次交易的披露所述，其他独立方进行了广泛的尽职调查，要么拒绝参与，要么提出了Personalis董事会认为吸引力较低的报价。”&lt;/p&gt;
+&lt;strong&gt;瞄准百亿级MRD检测市场&lt;/strong&gt;
+&lt;p&gt;对于Tempus AI创始人Eric Lefkofsky而言，&lt;strong&gt;收购Personalis不仅是为了获取前端的测序费用，更是为了打破公司的估值困境。&lt;/strong&gt;目前，Tempus AI的市销率约为6倍，而其增长更快的同行市销率约为13倍。Eric Lefkofsky此前创立Groupon的背景也给公司带来了一定包袱，他在Groupon IPO时套现超过3亿美元，但该公司的百亿美元估值在上市后不久便大幅缩水。&lt;/p&gt;
+&lt;p&gt;Personalis为Tempus AI提供了一座通往更高估值的桥梁，其真正的战略目标是微小残留病灶（MRD）检测。这是一种血液检测技术，用于在治疗后寻找循环肿瘤DNA的微小痕迹，有可能在影像学扫描发现之前检测到癌症复发。投资者将MRD视为一个价值数十亿美元的巨大市场，目前该领域主要由市值450亿美元的巨头Natera主导。&lt;/p&gt;
+&lt;p&gt;持有Tempus AI和Personalis股份的生命科学价值投资公司Bioaxia首席执行官Douglas Eby解释称，如果mRNA业务腾飞，Tempus AI将获得进入MRD领域的强大切入点。mRNA疫苗业务可以作为一个客户获取漏斗：最初的测序将患者引入Tempus AI的生态系统，而经常性的MRD检测则可以让他们在未来多年的监测中留在该系统中。&lt;/p&gt;
+&lt;strong&gt;商业化前景与潜在风险&lt;/strong&gt;
+&lt;p&gt;尽管前景广阔，但mRNA癌症治疗领域仍存在不确定性。就在Moderna发布利好消息几周后，竞争对手BioNTech在一项结直肠癌疫苗的中期试验中遭遇挫折，凸显了该领域的临床风险。&lt;/p&gt;
+&lt;p&gt;此外，长期的商业模式仍有待观察。目前尚不清楚制药公司最终是否会将部分测序工作转移到内部，或者将工作量分配给多个相互竞争的诊断实验室。对于Eric Lefkofsky而言，Personalis确实为他提供了一张进入精准癌症治疗领域的入场券，但前提是他必须先完成这笔交易，而市场的定价表现表明，这注定不会是一段平坦的旅程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元反转能走多远？高盛：结构性修复“刚刚启动”，美银预测年底升至149</title><link>https://wallstreetcn.com/articles/3781139</link><guid>0cf71fe33f63274a772e5ff3cb3f95a5705a78ce2e02f4ce1580da503ccd9134</guid><pubDate>Sat, 05 Sep 2026 05:42:16 GMT</pubDate><description>&lt;p&gt;日元在短短数个交易日内急涨约3%，日本央行加息预期升温与政府养老金投资基金（GPIF）可能增配国内资产，成为推动本轮升势的两大主线。&lt;/p&gt;
 &lt;p&gt;据追风交易台，高盛认为，这轮上涨并非单纯由短期利差交易驱动，而是日本国内政策环境正在发生变化：日本央行加息预期升温，同时GPIF潜在的资产再配置可能带来持续的日元买盘。这意味着，过去长期压制日元的部分因素，正在逐步转变为支撑力量。因此，&lt;strong&gt;高盛判断，日元长期结构性低估的修复可能才刚刚开始&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;美国银行最新报告亦看好日元，认为日本央行加息节奏加快、国内资金回流及政策托底将持续提供支撑，&lt;strong&gt;若9月加息并释放鹰派信号，美元兑日元年底有望降至149。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;相比之下，&lt;strong&gt;摩根大通虽然同样看好日元短期表现，却认为市场对日本央行加息和GPIF重配的预期已经计入较多，一旦政策兑现不及预期，日元可能迅速回撤。&lt;/strong&gt;&lt;/p&gt;
@@ -529,11 +548,4 @@ Astra剑指AGI，AI竞争从价格战转向“智能战”
 
 &lt;p&gt;Chip与Summer Wilson近年来通过家族办公室&amp;quot;House of Wilson&amp;quot;向不列颠哥伦比亚省公园基金会捐款1.34亿加元（约合9700万美元），该慈善机构称其为加拿大自然保育史上最大规模的私人捐款。&lt;/p&gt;
 &lt;p&gt;两人均被列为该家族办公室的联合创始人。2024年，温哥华市将每年10月3日定为&amp;quot;Summer与Chip Wilson日&amp;quot;以示表彰。&lt;/p&gt;
-&lt;p&gt;Summer Wilson现年52岁，曾担任Lululemon创始首席设计师，在公司奠基阶段发挥了重要作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚洲疯狂扫货 ，迪拜油价逼近100美元</title><link>https://wallstreetcn.com/articles/3781145</link><guid>3657cfe8a5ce65471b6d9ddd312cf23004344a8fb6f1dd8b174935b3e0c9aed1</guid><pubDate>Sat, 05 Sep 2026 08:53:09 GMT</pubDate><description>&lt;p&gt;中东供应持续收紧，亚洲原油市场的抢货行情正在升温。随着买家加大采购，区域原油价格快速走高，供应紧张开始向价格端集中体现。&lt;/p&gt;
-&lt;p&gt;9月5日，据彭博援引多位不具名交易员报道，亚洲精炼商对中东原油的需求强劲，正推动相关基准价格快速上涨。&lt;strong&gt;阿联酋基准Murban期货目前报每桶106.10美元，面向亚洲市场的DME阿曼原油报每桶99.18美元，逼近100美元关口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;中东冲突僵持、霍尔木兹海峡持续受阻，加之沙特石油出口降至2017年以来低位，部分原油货物还出现交付延迟，由8月推迟至9月甚至10月，供应收紧进一步加剧了亚洲市场的抢货压力。&lt;/p&gt;
-亚洲炼厂加速抢货，替代供应竞争升温
-&lt;p&gt;据彭博，印度石油公司（Indian Oil ）等大型炼厂，以及韩国、日本炼厂，正成为本轮中东原油采购增长的主要买家。&lt;/p&gt;
-&lt;p&gt;与此同时，霍尔木兹海峡的原油运输量仍明显低于正常水平。&lt;strong&gt;过去一周，经由该海峡运输的原油日均量仅约600万至800万桶。船舶追踪机构Kpler和Vortexa数据显示，沙特石油出口量也已降至2017年以来最低水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;供应收紧之下，亚洲买家开始扩大替代货源。印度等买家增加巴西、加拿大和阿根廷原油进口的同时，也在加大俄罗斯原油采购。&lt;/p&gt;
-&lt;p&gt;其中，俄罗斯ESPO原油的竞争尤为激烈。据彭博，相关货物溢价已升至纪录高位，显示在传统供应渠道受阻之际，亚洲炼厂正在为有限的替代货源展开更激烈的争夺。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 论消费股新周期启动</title><link>http://xueqiu.com/1899393123/408162491</link><guid>e713cdd3b954ee441f9e3b666a38e652733f30143873124081ad73694ea9bb11</guid><pubDate>Sat, 05 Sep 2026 07:08:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;罗佳华&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;春江水暖鸭先知，消费股大部分在6月见底，市场已经在交易复苏，新一轮消费增长已经开始。股票一般提前经济数据6个月，等大家看到数据，就晚了，等听到布谷鸟叫，春天已经过去了。&lt;/p&gt;</description></item><item><title>[今日雪球] 油运投资假想敌</title><link>http://xueqiu.com/4531216350/408172826</link><guid>41c231419f84d34f4e7e64a8c973c41f3baa9fbe445ada0e180e0f37da191d77</guid><pubDate>Sat, 05 Sep 2026 07:07:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;莫问是谁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;全市场油运逻辑与基本面最硬、确定性最强，性价比最高，可担不住有的水手总是顾虑重重，前怕狼后怕虎，担心这个担心那个，树立了一个又一个假想敌。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Summer Wilson现年52岁，曾担任Lululemon创始首席设计师，在公司奠基阶段发挥了重要作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 论消费股新周期启动</title><link>http://xueqiu.com/1899393123/408162491</link><guid>e713cdd3b954ee441f9e3b666a38e652733f30143873124081ad73694ea9bb11</guid><pubDate>Sat, 05 Sep 2026 07:08:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;罗佳华&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;春江水暖鸭先知，消费股大部分在6月见底，市场已经在交易复苏，新一轮消费增长已经开始。股票一般提前经济数据6个月，等大家看到数据，就晚了，等听到布谷鸟叫，春天已经过去了。&lt;/p&gt;</description></item><item><title>[今日雪球] 油运投资假想敌</title><link>http://xueqiu.com/4531216350/408172826</link><guid>41c231419f84d34f4e7e64a8c973c41f3baa9fbe445ada0e180e0f37da191d77</guid><pubDate>Sat, 05 Sep 2026 07:07:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;莫问是谁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;全市场油运逻辑与基本面最硬、确定性最强，性价比最高，可担不住有的水手总是顾虑重重，前怕狼后怕虎，担心这个担心那个，树立了一个又一个假想敌。&lt;/p&gt;</description></item></channel></rss>
