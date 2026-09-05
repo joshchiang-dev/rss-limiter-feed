@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 05 Sep 2026 17:29:07 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”</title><link>https://wallstreetcn.com/articles/3781151</link><guid>d29a1811a87aecf9b642374bf7a52d71aac922ebc6c545e7e4c2db0abc7ddf64</guid><pubDate>Sat, 05 Sep 2026 09:55:47 GMT</pubDate><description>&lt;p&gt;OpenAI总裁格雷格·布罗克曼在Astra发布前夕接受深度专访，&lt;strong&gt;首度披露这款新模型是OpenAI史上首个在逾10万块GPU上完成训练的模型，并直言AI已跨越&amp;quot;电脑使用&amp;quot;的应用门槛&lt;/strong&gt;——&lt;strong&gt;这意味着AI从此不再需要依赖API连接器，而是可以像人一样操作任何软件。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 05 Sep 2026 17:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”</title><link>https://wallstreetcn.com/articles/3781151</link><guid>d29a1811a87aecf9b642374bf7a52d71aac922ebc6c545e7e4c2db0abc7ddf64</guid><pubDate>Sat, 05 Sep 2026 09:55:47 GMT</pubDate><description>&lt;p&gt;OpenAI总裁格雷格·布罗克曼在Astra发布前夕接受深度专访，&lt;strong&gt;首度披露这款新模型是OpenAI史上首个在逾10万块GPU上完成训练的模型，并直言AI已跨越&amp;quot;电脑使用&amp;quot;的应用门槛&lt;/strong&gt;——&lt;strong&gt;这意味着AI从此不再需要依赖API连接器，而是可以像人一样操作任何软件。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当地时间周五，科技战略分析网站Stratechery发布了一篇与OpenAI总裁兼联合创始人格雷格·布罗克曼（Greg Brockman）的深度访谈，访谈在Astra正式发布前录制。这是迄今为止布罗克曼对Astra及OpenAI最新战略最为详尽的一次公开表达。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;华尔街见闻梳理访谈要点如下：&lt;/strong&gt;&lt;/p&gt;
@@ -240,37 +240,7 @@
 &lt;p&gt;GB：非常感谢，谢谢你邀请我。&lt;/p&gt;
 
 &lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元反转能走多远？高盛：结构性修复“刚刚启动”，美银预测年底升至149</title><link>https://wallstreetcn.com/articles/3781139</link><guid>0cf71fe33f63274a772e5ff3cb3f95a5705a78ce2e02f4ce1580da503ccd9134</guid><pubDate>Sat, 05 Sep 2026 05:42:16 GMT</pubDate><description>&lt;p&gt;日元在短短数个交易日内急涨约3%，日本央行加息预期升温与政府养老金投资基金（GPIF）可能增配国内资产，成为推动本轮升势的两大主线。&lt;/p&gt;
-&lt;p&gt;据追风交易台，高盛认为，这轮上涨并非单纯由短期利差交易驱动，而是日本国内政策环境正在发生变化：日本央行加息预期升温，同时GPIF潜在的资产再配置可能带来持续的日元买盘。这意味着，过去长期压制日元的部分因素，正在逐步转变为支撑力量。因此，&lt;strong&gt;高盛判断，日元长期结构性低估的修复可能才刚刚开始&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;美国银行最新报告亦看好日元，认为日本央行加息节奏加快、国内资金回流及政策托底将持续提供支撑，&lt;strong&gt;若9月加息并释放鹰派信号，美元兑日元年底有望降至149。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;相比之下，&lt;strong&gt;摩根大通虽然同样看好日元短期表现，却认为市场对日本央行加息和GPIF重配的预期已经计入较多，一旦政策兑现不及预期，日元可能迅速回撤。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;眼下的关键在于，日元这轮由日本政策转向驱动的升势，能否进一步演变为持续的行情。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-高盛：日元强势“才刚开始”，政策转向是关键
-&lt;p&gt;高盛认为，本轮日元上涨主要由两条主线推动：日本央行加息预期升温，以及市场押注GPIF可能将资产配置进一步向国内倾斜。&lt;/p&gt;
-&lt;p&gt;其中，GPIF可能带来的资金流动尤其值得关注。报告援引2020年经验指出，GPIF当年在3月底正式宣布调整外债配置目标，但相关资金流动早在1月至2月便已出现，意味着实际资金调整可能早于政策官宣。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;因此，报告特别关注9月7日公布的8月国际证券交易（ITS）数据，认为其中可能出现GPIF资金轮动的早期信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛认为，过去数年日元疲软，很大程度上源于美国经济韧性和日美利差扩大；如今，日本央行政策转向，加上GPIF潜在的国内资产配置调整，日元此前面临的结构性逆风正在减弱，甚至可能转化为支撑。&lt;/p&gt;
-美银：日银转鹰叠加政策托底，日元升势有望延续
-&lt;p&gt;美银最新政策研判认为，日元本轮升势仍有延续空间。&lt;/p&gt;
-&lt;p&gt;随着日本央行立场趋于鹰派，此前持续压制日元的因素正在逐步消退。美银预计，日本央行可能维持每季度加息的节奏，市场目前已定价政策利率到2027年7月升至2%。若日银9月加息并释放鹰派信号，做空日元的逻辑将进一步弱化。&lt;/p&gt;
-&lt;p&gt;在此背景下，&lt;strong&gt;美银预计美元兑日元（USD/JPY）年底将回落至149，并将155视为关键技术水平。一旦跌破155，日元买盘可能进一步加速。&lt;/strong&gt;与此同时，日本经济基本面改善、加息预期升温，以及日本投资者从海外债券转向日本国债的潜在资产轮动，都可能进一步支撑日元。&lt;/p&gt;
-&lt;p&gt;政策层面，&lt;strong&gt;日本政府扭转日元弱势的意愿正在增强。&lt;/strong&gt;美银认为，财务省此前暂未进行激进干预，可能是希望先为日本央行加快加息创造条件。若加息路径进一步明确、但日元仍持续走弱，财务省可能通过买入日元进行干预。因此，即使美元获得支撑，美元兑日元的上行空间也可能受到政策制约。&lt;/p&gt;
-摩根大通：短期看多，但日元升势面临政策兑现考验
-&lt;p&gt;不过，在GPIF资产重配这一变量上，摩根大通的判断明显更为谨慎。&lt;/p&gt;
-&lt;p&gt;8月31日公布的议程显示，GPIF于8月21日召开管理委员会，这是七年来首次在8月召开会议；此前已于3月得出“无需审查”结论的基本组合验证工作，也重新进入讨论。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摩根大通认为，这意味着GPIF可能正在重新评估资产配置，但近期更可能是在现有配置区间内调整，而非正式修改基本组合。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;若国内债券配置从26.91%升至区间上限31%，理论上对应约12.3万亿日元的日元买盘；若日本股票从23.81%升至31%，对应约21.6万亿日元，合计约33.8万亿日元。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;摩根大通认为日本央行加息预期已经偏热。&lt;/strong&gt;9月加息已接近完全定价，1年1年互换利率升至约2.13%，隐含的紧缩节奏甚至高于该行自身预测。若这一预期开始降温，日元反而可能承压。&lt;/p&gt;
-摩根大通重拾美元多头：利率优势仍被低估，9月CPI成关键变量
-&lt;p&gt;摩根大通对美元的中期判断偏积极。&lt;strong&gt;该行认为，美元相对于利率基差仍被低估约3%至4%，而美国经济韧性并未被当前美元汇率充分反映。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国失业率维持在4.1%，低于美联储年底预测的4.3%。&lt;strong&gt;报告预计，在美联储年内仅加息一次的情景下，美元收益率仍将高于全球超过50%的货币，接近25年来的高位；若加息达到三次，这一比例将升至约58%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;接下来，美国8月CPI将成为关键变量。9月11日CPI公布后，9月16日FOMC、9月17日英国央行和9月18日日本央行将接连登场，主要央行政策预期可能在短时间内密集重定价。美联储内部政策分歧仍然明显，通胀数据将进一步检验市场对未来政策路径的押注。&lt;/p&gt;
-&lt;p&gt;对美元而言，后续走势将取决于美国经济数据与美联储政策预期的变化。&lt;strong&gt;若美国通胀和就业数据继续保持韧性，美元的利率优势有望得到进一步支撑；反之，若通胀降温推动市场重新押注宽松政策，美元则可能承压。&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器需求强劲，鸿海8月营收同比飙升52%，创历年同期新高</title><link>https://wallstreetcn.com/articles/3781146</link><guid>2f773f73f2915adcbc732d3e00c818aa5f00ed75d56773889d8c2299dcebbcbf</guid><pubDate>Sat, 05 Sep 2026 08:01:41 GMT</pubDate><description>&lt;p&gt;鸿海AI产品拉货持续强劲，8月营收创历年同期新高。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI服务器需求强劲，鸿海8月营收同比飙升52%，创历年同期新高</title><link>https://wallstreetcn.com/articles/3781146</link><guid>2f773f73f2915adcbc732d3e00c818aa5f00ed75d56773889d8c2299dcebbcbf</guid><pubDate>Sat, 05 Sep 2026 08:01:41 GMT</pubDate><description>&lt;p&gt;鸿海AI产品拉货持续强劲，8月营收创历年同期新高。&lt;/p&gt;
 &lt;p&gt;9月5日，鸿海精密公布的数据显示，&lt;strong&gt;2026年8月营收为9218亿新台币，同比增长51.98%，为历年单月次高，并创历年同期新高。&lt;/strong&gt;尽管受消费智能产品新旧产品转换影响，8月营收环比下降2.61%，但整体规模仍维持高位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;前8个月，鸿海累计营收达到6.51万亿新台币，同比增长39.73%，以美元计价同比增长约38.4%，同样刷新历年同期纪录。&lt;/strong&gt;此前同期高点为2025年前8个月的4.66万亿新台币。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -393,15 +363,7 @@ Astra剑指AGI，AI竞争从价格战转向“智能战”
 &lt;p&gt;据彭博，印度石油公司（Indian Oil ）等大型炼厂，以及韩国、日本炼厂，正成为本轮中东原油采购增长的主要买家。&lt;/p&gt;
 &lt;p&gt;与此同时，霍尔木兹海峡的原油运输量仍明显低于正常水平。&lt;strong&gt;过去一周，经由该海峡运输的原油日均量仅约600万至800万桶。船舶追踪机构Kpler和Vortexa数据显示，沙特石油出口量也已降至2017年以来最低水平。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;供应收紧之下，亚洲买家开始扩大替代货源。印度等买家增加巴西、加拿大和阿根廷原油进口的同时，也在加大俄罗斯原油采购。&lt;/p&gt;
-&lt;p&gt;其中，俄罗斯ESPO原油的竞争尤为激烈。据彭博，相关货物溢价已升至纪录高位，显示在传统供应渠道受阻之际，亚洲炼厂正在为有限的替代货源展开更激烈的争夺。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：Anthropic将推迟至10月中旬上市，“史上最大IPO”还得再等等</title><link>https://wallstreetcn.com/articles/3781138</link><guid>c4efe9a54e4d6d06be3a220cce8685b2852c7ef5933bf81af7bd49f9021048eb</guid><pubDate>Sat, 05 Sep 2026 05:32:48 GMT</pubDate><description>&lt;p&gt;Anthropic这宗潜在规模高达2万亿美元、或跻身史上最大IPO之列的上市交易，进程正在放缓。&lt;/p&gt;
-&lt;p&gt;9月5日，据路透援引知情人士，&lt;strong&gt;公司原计划最快于下周公开招股说明书，但目前预计推迟至9月下旬。招股说明书披露后，上市路演最早将于10月中旬启动，最终挂牌时间则可能落在11月美国中期选举前数日。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，Anthropic留给路演、定价和上市准备的时间窗口进一步收窄。作为当前最受市场关注的AI公司之一，其IPO也被视为AI投资热潮能否进一步向公开市场延续的重要观察窗口。&lt;/p&gt;
-&lt;p&gt;市场此前预计，Anthropic上市估值最高可能达到2万亿美元。若最终实现，将跻身全球规模最大的IPO之列；作为参照，SpaceX今年6月上市时估值达到1.77万亿美元。&lt;/p&gt;
-150亿美元信贷额度尚待落实，IPO时间表后移
-&lt;p&gt;此次延期与Anthropic正在推进的融资安排有关。&lt;/p&gt;
-&lt;p&gt;据报道援引知情人士，&lt;strong&gt;公司正寻求敲定一笔150亿美元的循环信贷额度。&lt;/strong&gt;按照惯例，参与信贷安排的银行分析师通常需要在融资落实后与公司会面，随后公司才会公开招股说明书，两者之间一般间隔数周。&lt;/p&gt;
-&lt;p&gt;不过，由于相关分析师此前已对Anthropic有较深入了解，这一准备窗口预计可能有所缩短。报道称，摩根士丹利、高盛、摩根大通和花旗均参与Anthropic此次IPO承销。&lt;/p&gt;
-&lt;p&gt;目前，Anthropic的目标是在11月美国中期选举前数日完成挂牌。不过，知情人士强调，包括上市时间在内的相关计划均可能调整，市场环境、监管审查及其他筹备工作都可能影响最终时间表。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谁将赢得“史上最大IPO”投行竞赛？Anthropic接近选择大摩和高盛</title><link>https://wallstreetcn.com/articles/3781147</link><guid>d1e3ca8293266109f30b097f3b4ff137a1153220481476d258e9fbb6f60c341c</guid><pubDate>Sat, 05 Sep 2026 08:07:07 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic即将启动华尔街史上规模最大的IPO，一场顶级投行之间的承销席位争夺战已接近落幕。&lt;/p&gt;
+&lt;p&gt;其中，俄罗斯ESPO原油的竞争尤为激烈。据彭博，相关货物溢价已升至纪录高位，显示在传统供应渠道受阻之际，亚洲炼厂正在为有限的替代货源展开更激烈的争夺。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谁将赢得“史上最大IPO”投行竞赛？Anthropic接近选择大摩和高盛</title><link>https://wallstreetcn.com/articles/3781147</link><guid>d1e3ca8293266109f30b097f3b4ff137a1153220481476d258e9fbb6f60c341c</guid><pubDate>Sat, 05 Sep 2026 08:07:07 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic即将启动华尔街史上规模最大的IPO，一场顶级投行之间的承销席位争夺战已接近落幕。&lt;/p&gt;
 &lt;p&gt;周六，据英国《金融时报》援引四位知情人士消息，&lt;strong&gt;摩根士丹利处于获得此次IPO最重要的&amp;quot;左一主承销商&amp;quot;（lead left）席位的有利位置，高盛则有望担任稳定代理商，负责监管Anthropic上市初期的关键交易阶段。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;投资者预计，&lt;strong&gt;Anthropic上市估值将达到2万亿美元或以上，届时将超越SpaceX，成为史上规模最大的IPO。&lt;/strong&gt;若估值成真，早期投资者将坐收数百亿美元的账面收益。Anthropic的上市表现，也将成为当前市场对高速增长AI企业风险偏好的重要风向标。&lt;/p&gt;
 大摩领跑，高盛护盘，摩根大通等亦入列
@@ -421,4 +383,11 @@ Astra剑指AGI，AI竞争从价格战转向“智能战”
 下一场争夺：OpenAI IPO席位已在视野之内
 &lt;p&gt;此次Anthropic IPO的承销席位争夺，不过是更大格局竞争的前奏。摩根士丹利和高盛同样将角逐OpenAI的IPO承销资格——后者预计将于明年初上市。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;左一主承销商&amp;quot;席位不仅意味着丰厚的直接收益，更是投行在AI赛道上积累客户关系与市场声誉的战略布局。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在AI企业上市潮来临之际，谁能率先锁定头部标的，将在这场旷日持久的竞争中占据先机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在AI企业上市潮来临之际，谁能率先锁定头部标的，将在这场旷日持久的竞争中占据先机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI下一轮赢家浮现？PIMCO避开美股巨头，重押亚洲“卖铲人”</title><link>https://wallstreetcn.com/articles/3781140</link><guid>f2f38b879894979a3e9f522f67a9983c8b41fe207f01339548634b637d884ff0</guid><pubDate>Sat, 05 Sep 2026 06:33:20 GMT</pubDate><description>&lt;p&gt;AI资本支出狂潮仍在延续，但资金押注的方向正在发生变化：相比估值高企的美国科技巨头，亚洲半导体、数据中心基础设施等AI供应链正受到更多关注。&lt;/p&gt;
+&lt;p&gt;据彭博，Pimco基金经理Emmanuel Sharef正加码亚洲市场。&lt;strong&gt;他认为，相较美国科技股，亚洲资产拥有更低的估值、更强的盈利增长，以及更直接的数据中心建设敞口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;Sharef正低配大多数超大规模云计算商及“科技七巨头”成员。&lt;/strong&gt;在他看来，持续攀升的AI资本支出正在推高这些公司的债务负担、挤压自由现金流，并带来信用风险，使其高企的估值面临更大压力。&lt;/p&gt;
+&lt;p&gt;Sharef表示：“你不一定需要持有最贵的股票，才能捕捉某个特定主题或市场趋势。”该基金规模约190亿美元，过去三年业绩超过97%的同类产品。&lt;/p&gt;
+AI行情从巨头向“卖铲人”扩散，亚洲供应链迎来机会
+&lt;p&gt;Sharef更看重AI资本支出向产业链的传导。&lt;strong&gt;随着数据中心持续扩张，半导体组件、冷却设备、线缆、光学设备、电源、建筑机械及金属材料等环节都将获得新增需求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;基于这一判断，该基金去年大举买入三星电子、SK海力士和台积电，目前约60%的股票仓位配置于相关资产。这些企业估值相对更低，同时能够更直接受益于AI基础设施投资。&lt;/p&gt;
+&lt;p&gt;在Sharef看来，AI交易正从美国科技巨头向供应链扩散。&lt;strong&gt;当AI资本支出继续向数据中心、芯片及基础设施倾斜，真正受益的或不只是最受关注的科技巨头，亚洲这些“卖铲人”也可能成为下一轮AI行情的赢家。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
