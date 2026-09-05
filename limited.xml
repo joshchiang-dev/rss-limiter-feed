@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 05 Sep 2026 04:29:07 GMT</lastBuildDate><item><title>[华尔街见闻] 非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%</title><link>https://wallstreetcn.com/articles/3781080</link><guid>1529926a21038d06447a6177734bb1b7a4c6330f040706a40a6b45b3a05dd9b2</guid><pubDate>Fri, 04 Sep 2026 22:03:33 GMT</pubDate><description>&lt;p&gt;美国8月非农就业数据大幅超出预期，将9月加息的可能性重新摆上台面，令债券市场短端承压，但资金并未全面撤离权益市场——半导体板块逆势走强，存储与光通信成为最强主线，消费品牌和能源板块则在各自的压力下走低。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 05 Sep 2026 04:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%</title><link>https://wallstreetcn.com/articles/3781080</link><guid>1529926a21038d06447a6177734bb1b7a4c6330f040706a40a6b45b3a05dd9b2</guid><pubDate>Fri, 04 Sep 2026 22:03:33 GMT</pubDate><description>&lt;p&gt;美国8月非农就业数据大幅超出预期，将9月加息的可能性重新摆上台面，令债券市场短端承压，但资金并未全面撤离权益市场——半导体板块逆势走强，存储与光通信成为最强主线，消费品牌和能源板块则在各自的压力下走低。&lt;/p&gt;
 &lt;p&gt;（美股基准股指本周走势）&lt;/p&gt;
 &lt;p&gt;8月非农新增就业16.2万，远超市场预期的5.3万，失业率维持4.1%，前两月数据合计上修5.5万，薪资同比增长3.1%。这份报告直接动摇了美联储理事沃勒前一天&amp;quot;倾向支持9月暂停加息&amp;quot;的表态。&lt;/p&gt;
 &lt;p&gt;芝商所FedWatch显示，9月加息概率从49.4%升至58%，2年期美债收益率盘中触及4.416%，为2025年1月以来最高。&lt;/p&gt;
@@ -121,37 +121,7 @@ AI硬件的“护城河”：盈利增长暂时压过利率压力
 &lt;p&gt;这也是为什么三大指数全部收跌之际，费城半导体指数却上涨3.4%，而闪迪能够暴涨约12%。Reuters数据显示，周五半导体板块是市场最明显的赢家之一；《巴伦周刊》则指出，半导体指数涨幅约3%，而软件ETF却下跌超过2%。&lt;/p&gt;
 &lt;p&gt;对AI硬件而言，接下来真正的考验并不是单次非农，而是&lt;strong&gt;高利率环境能否最终传导至企业资本开支&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;如果未来数据证明经济仍然足够强劲、AI投资继续扩张，那么这类硬件公司反而可能成为“强经济+高利率”环境下的相对受益者；但如果利率持续上行最终开始压制企业融资和数据中心资本开支，那么目前这条强势主线也将面临估值与需求的双重考验。&lt;/p&gt;
-&lt;p&gt;至少在9月4日这一天，市场给出的答案非常明确：&lt;strong&gt;大盘在交易加息，AI硬件在交易AI。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GPT-6 Astra上线首日翻车：付费用户被“拒之门外”，Altman紧急道歉</title><link>https://wallstreetcn.com/articles/3781131</link><guid>9faab392a39755e896a437180ee259e0a1dd837e3f226b7166cf2bb1862174f2</guid><pubDate>Sat, 05 Sep 2026 01:51:50 GMT</pubDate><description>&lt;p&gt;OpenAI的最新旗舰模型GPT-6 Astra甫一发布，便陷入舆论风波。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781033"&gt;华尔街见闻提及&lt;/a&gt;，美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。&lt;/p&gt;
-&lt;p&gt;然而，CEO Sam Altman在上线数小时内即公开道歉，承认此次为&amp;quot;混乱的发布&amp;quot;，大批付费订阅用户在期待已久后却无缘第一时间使用该模型。这是OpenAI近年来多次重大产品发布受挫的又一次重演。&lt;/p&gt;
-&lt;p&gt;OpenAI此次采取了分阶段发布策略，优先向特定企业客户，即接入其Daybreak网络安全平台的用户开放访问权限，&lt;strong&gt;其余Plus、Pro、Business及Enterprise订阅用户，以及通过OpenAI API、微软Azure和AWS Bedrock接入的用户，需等待&amp;quot;未来数天&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一安排迅速引发了付费用户的强烈不满，尤其是习惯于在新品首发时获得优先访问权的高价Pro计划用户。&lt;/p&gt;
-&lt;p&gt;截至发稿，Altman及其他OpenAI员工均未就扩大访问权限给出明确时间表。Altman在X平台发文称，&amp;quot;希望&amp;quot;用户能在本周末使用Astra，但&amp;quot;目前无法承诺&amp;quot;。&lt;/p&gt;
-
-分阶段发布策略引发付费用户强烈反弹
-
-&lt;p&gt;Astra的发布从一开始就因优先次序问题埋下隐患。&lt;/p&gt;
-&lt;p&gt;按照OpenAI的安排，企业级客户，尤其是接入Daybreak网络安全平台的用户率先获得访问权限，而&lt;strong&gt;月费更高的Pro计划用户反而需要排队等待。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这与OpenAI此前建立的用户预期形成明显落差：Pro计划用户长期以来被视为&amp;quot;新功能首发受益者&amp;quot;。OpenAI员工在X平台发布的发布公告下方，迅速被大量投诉评论淹没。&lt;/p&gt;
-&lt;p&gt;Altman在X平台发帖回应称，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们正尽一切努力尽快让所有人都能使用Astra，我知道这令人沮丧，感谢大家的耐心，应该不会太久。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Astra的发布并非仅面临用户访问层面的问题。&lt;/strong&gt;Altman坦承，博客文章在上线过程中出现了&amp;quot;小插曲&amp;quot;。&lt;/p&gt;
-&lt;p&gt;与此同时，OpenAI还面临来自安全倡导者的强烈批评。争议焦点在于，OpenAI承认Astra的推理过程比其他模型更难以监控。&lt;/p&gt;
-&lt;p&gt;这一特性被认为尤为令人担忧，背景是此前OpenAI的AI代理曾攻击Hugging Face，而相关关键细节正是通过此类监控手段才得以披露。OpenAI表示，正是为了在这一安全漏洞发生后强化安全特性，公司已将Astra的发布推迟了数周。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，延迟发布并未能让此次上线更为顺畅，反而叠加了访问混乱与安全质疑的双重压力。&lt;/strong&gt;&lt;/p&gt;
-
-重大发布屡遭挫折，成OpenAI的惯性难题
-
-&lt;p&gt;此次风波并非OpenAI的首次重大发布失利。&lt;/p&gt;
-&lt;p&gt;Altman去年在回顾GPT-5发布时曾表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我认为我们在发布的某些环节上彻底搞砸了。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;GPT-5上线时同样饱受技术问题困扰，而临时下架广受用户喜爱的GPT-4o模型的决定更是激起轩然大波。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Astra的此番遭遇与上述前例如出一辙：高调预热、雄心勃勃的定位，随后是混乱的执行和公开致歉。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对于不断扩大的付费订阅用户群而言，这一模式正在持续消耗用户信任，并为竞争对手提供了可乘之机。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街怎么看8月非农？强就业未终结9月加息悬念，下周CPI有“决定性意义”</title><link>https://wallstreetcn.com/articles/3781113</link><guid>8243cbbcea086e64653c75beeb10661dd95f793f8987cde3706bf0904a30b8db</guid><pubDate>Fri, 04 Sep 2026 18:34:31 GMT</pubDate><description>&lt;p&gt;美国8月非农就业报告意外强劲，令市场重新评估美联储9月加息可能性，但华尔街并未因此认为政策悬念已经揭晓。&lt;strong&gt;在多家机构人士看来，强劲就业数据确实给美联储鹰派阵营增添了筹码，却不足以单独决定9月议息结果，接下来真正可能“决定方向”的仍是下周公布的CPI。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;至少在9月4日这一天，市场给出的答案非常明确：&lt;strong&gt;大盘在交易加息，AI硬件在交易AI。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街怎么看8月非农？强就业未终结9月加息悬念，下周CPI有“决定性意义”</title><link>https://wallstreetcn.com/articles/3781113</link><guid>8243cbbcea086e64653c75beeb10661dd95f793f8987cde3706bf0904a30b8db</guid><pubDate>Fri, 04 Sep 2026 18:34:31 GMT</pubDate><description>&lt;p&gt;美国8月非农就业报告意外强劲，令市场重新评估美联储9月加息可能性，但华尔街并未因此认为政策悬念已经揭晓。&lt;strong&gt;在多家机构人士看来，强劲就业数据确实给美联储鹰派阵营增添了筹码，却不足以单独决定9月议息结果，接下来真正可能“决定方向”的仍是下周公布的CPI。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美国劳工统计局周五公布：8月非农就业人数增加16.2万，远超市场预期增幅5.6万；此前两个月新增就业者合计上修5.5万，其中7月就业人数从减少2.3万大幅修正为增加2.1万；8月劳动力参与率小幅升至61.6%，略高于市场预期；8月失业率企稳于7月的4.1%，8月平均时薪环比上涨0.3%、同比涨3.1%，均符合市场预期。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;数据公布后，市场对美联储9月15日至16日会议加息的押注明显升温，联邦基金期货隐含的加息概率从数据公布前的约55%升至约59%至60%。对利率最敏感的2年期美债收益率一度上涨约5个基点至4.38%，显示债券市场迅速重新计入更高的政策利率风险。&lt;/p&gt;
@@ -211,7 +181,61 @@ AI硬件的“护城河”：盈利增长暂时压过利率压力
 &lt;p&gt;他表示，当前股市“更多关注的是分子，而不是分母”——也就是企业盈利及盈利增长，以及AI技术浪潮带来的生产率和盈利能力提升。只要信用质量保持良好、信用利差仍然偏紧，单次25个基点的加息也未必足以改变风险资产的整体逻辑。&lt;/p&gt;
 &lt;p&gt;因此，&lt;strong&gt;华尔街对8月非农的真正解读，并不是“美联储9月一定加息”，而是就业端已经重新给鹰派提供了足够筹码，接下来决定筹码能否转化为实际政策行动的，是通胀。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;目前市场对9月加息的押注已经重新升至六成左右，但这个概率仍远未达到“板上钉钉”的程度。下周PPI、尤其是9月11日公布的CPI，将成为美联储9月会议前最后一轮关键经济数据。&lt;/p&gt;
-&lt;p&gt;正如多位机构人士反复强调的那样：&lt;strong&gt;非农已经把“加息”重新摆上桌面，而CPI才可能真正决定，美联储最终是动手，还是继续按兵不动。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月非农表面强劲，实际有多少“水分”？</title><link>https://wallstreetcn.com/articles/3781132</link><guid>da357dfa87e82b439b1bb12d5ce9f3aa76d20943083dfc5a7c7f2171e2580496</guid><pubDate>Sat, 05 Sep 2026 03:31:29 GMT</pubDate><description>&lt;p&gt;美国8月非农就业数据表面亮眼，但新增岗位高度集中于低薪行业，实际工资持续跑输通胀。巴克莱更是直言8月非农就业数据存在夸大成分，9月加息概率边际上升。&lt;/p&gt;
+&lt;p&gt;正如多位机构人士反复强调的那样：&lt;strong&gt;非农已经把“加息”重新摆上桌面，而CPI才可能真正决定，美联储最终是动手，还是继续按兵不动。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GPT-6 Astra上线首日翻车：付费用户被“拒之门外”，Altman紧急道歉</title><link>https://wallstreetcn.com/articles/3781131</link><guid>9faab392a39755e896a437180ee259e0a1dd837e3f226b7166cf2bb1862174f2</guid><pubDate>Sat, 05 Sep 2026 01:51:50 GMT</pubDate><description>&lt;p&gt;OpenAI的最新旗舰模型GPT-6 Astra甫一发布，便陷入舆论风波。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781033"&gt;华尔街见闻提及&lt;/a&gt;，美东时间9月3日周四，OpenAI正式发布新一代旗舰模型GPT-6 Astra，并将其称为一次“代际跃迁”。&lt;/p&gt;
+&lt;p&gt;然而，CEO Sam Altman在上线数小时内即公开道歉，承认此次为&amp;quot;混乱的发布&amp;quot;，大批付费订阅用户在期待已久后却无缘第一时间使用该模型。这是OpenAI近年来多次重大产品发布受挫的又一次重演。&lt;/p&gt;
+&lt;p&gt;OpenAI此次采取了分阶段发布策略，优先向特定企业客户，即接入其Daybreak网络安全平台的用户开放访问权限，&lt;strong&gt;其余Plus、Pro、Business及Enterprise订阅用户，以及通过OpenAI API、微软Azure和AWS Bedrock接入的用户，需等待&amp;quot;未来数天&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一安排迅速引发了付费用户的强烈不满，尤其是习惯于在新品首发时获得优先访问权的高价Pro计划用户。&lt;/p&gt;
+&lt;p&gt;截至发稿，Altman及其他OpenAI员工均未就扩大访问权限给出明确时间表。Altman在X平台发文称，&amp;quot;希望&amp;quot;用户能在本周末使用Astra，但&amp;quot;目前无法承诺&amp;quot;。&lt;/p&gt;
+
+分阶段发布策略引发付费用户强烈反弹
+
+&lt;p&gt;Astra的发布从一开始就因优先次序问题埋下隐患。&lt;/p&gt;
+&lt;p&gt;按照OpenAI的安排，企业级客户，尤其是接入Daybreak网络安全平台的用户率先获得访问权限，而&lt;strong&gt;月费更高的Pro计划用户反而需要排队等待。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这与OpenAI此前建立的用户预期形成明显落差：Pro计划用户长期以来被视为&amp;quot;新功能首发受益者&amp;quot;。OpenAI员工在X平台发布的发布公告下方，迅速被大量投诉评论淹没。&lt;/p&gt;
+&lt;p&gt;Altman在X平台发帖回应称，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们正尽一切努力尽快让所有人都能使用Astra，我知道这令人沮丧，感谢大家的耐心，应该不会太久。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Astra的发布并非仅面临用户访问层面的问题。&lt;/strong&gt;Altman坦承，博客文章在上线过程中出现了&amp;quot;小插曲&amp;quot;。&lt;/p&gt;
+&lt;p&gt;与此同时，OpenAI还面临来自安全倡导者的强烈批评。争议焦点在于，OpenAI承认Astra的推理过程比其他模型更难以监控。&lt;/p&gt;
+&lt;p&gt;这一特性被认为尤为令人担忧，背景是此前OpenAI的AI代理曾攻击Hugging Face，而相关关键细节正是通过此类监控手段才得以披露。OpenAI表示，正是为了在这一安全漏洞发生后强化安全特性，公司已将Astra的发布推迟了数周。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，延迟发布并未能让此次上线更为顺畅，反而叠加了访问混乱与安全质疑的双重压力。&lt;/strong&gt;&lt;/p&gt;
+
+重大发布屡遭挫折，成OpenAI的惯性难题
+
+&lt;p&gt;此次风波并非OpenAI的首次重大发布失利。&lt;/p&gt;
+&lt;p&gt;Altman去年在回顾GPT-5发布时曾表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我认为我们在发布的某些环节上彻底搞砸了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;GPT-5上线时同样饱受技术问题困扰，而临时下架广受用户喜爱的GPT-4o模型的决定更是激起轩然大波。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Astra的此番遭遇与上述前例如出一辙：高调预热、雄心勃勃的定位，随后是混乱的执行和公开致歉。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于不断扩大的付费订阅用户群而言，这一模式正在持续消耗用户信任，并为竞争对手提供了可乘之机。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元反转能走多远？高盛：结构性修复“刚刚启动”，大摩警告政策兑现不及预期、重拾美元多头</title><link>https://wallstreetcn.com/articles/3781139</link><guid>0cf71fe33f63274a772e5ff3cb3f95a5705a78ce2e02f4ce1580da503ccd9134</guid><pubDate>Sat, 05 Sep 2026 03:48:00 GMT</pubDate><description>&lt;p&gt;日元在短短数个交易日内急涨约3%，日本央行加息预期升温与政府养老金投资基金（GPIF）可能增配国内资产，成为推动本轮升势的两大主线。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛认为，这轮上涨并非单纯由短期利差交易驱动，而是日本国内政策环境正在发生变化：日本央行加息预期升温，同时GPIF潜在的资产再配置可能带来持续的日元买盘。这意味着，过去长期压制日元的部分因素，正在逐步转变为支撑力量。&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;高盛判断，日元长期结构性低估的修复可能才刚刚开始&lt;/strong&gt;。相比之下，&lt;strong&gt;摩根大通虽然同样看好日元短期表现，却认为市场对日本央行加息和GPIF重配的预期已经计入较多，一旦政策兑现不及预期，日元可能迅速回撤。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;眼下的关键在于，日元这轮由日本政策转向驱动的升势，能否进一步演变为持续的行情。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+高盛：日元强势“才刚开始”，政策转向是关键
+&lt;p&gt;高盛认为，本轮日元上涨主要由两条主线推动：日本央行加息预期升温，以及市场押注GPIF可能将资产配置进一步向国内倾斜。&lt;/p&gt;
+&lt;p&gt;其中，GPIF可能带来的资金流动尤其值得关注。报告援引2020年经验指出，GPIF当年在3月底正式宣布调整外债配置目标，但相关资金流动早在1月至2月便已出现，意味着实际资金调整可能早于政策官宣。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此，报告特别关注9月7日公布的8月国际证券交易（ITS）数据，认为其中可能出现GPIF资金轮动的早期信号。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛认为，过去数年日元疲软，很大程度上源于美国经济韧性和日美利差扩大；如今，日本央行政策转向，加上GPIF潜在的国内资产配置调整，日元此前面临的结构性逆风正在减弱，甚至可能转化为支撑。&lt;/p&gt;
+摩根大通：短期看多，但日元升势面临政策兑现考验
+&lt;p&gt;不过，在GPIF资产重配这一变量上，摩根大通的判断明显更为谨慎。&lt;/p&gt;
+&lt;p&gt;8月31日公布的议程显示，GPIF于8月21日召开管理委员会，这是七年来首次在8月召开会议；此前已于3月得出“无需审查”结论的基本组合验证工作，也重新进入讨论。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根大通认为，这意味着GPIF可能正在重新评估资产配置，但近期更可能是在现有配置区间内调整，而非正式修改基本组合。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;若国内债券配置从26.91%升至区间上限31%，理论上对应约12.3万亿日元的日元买盘；若日本股票从23.81%升至31%，对应约21.6万亿日元，合计约33.8万亿日元。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;摩根大通认为日本央行加息预期已经偏热。&lt;/strong&gt;9月加息已接近完全定价，1年1年互换利率升至约2.13%，隐含的紧缩节奏甚至高于该行自身预测。若这一预期开始降温，日元反而可能承压。&lt;/p&gt;
+摩根大通重拾美元多头：利率优势仍被低估，9月CPI成关键变量
+&lt;p&gt;摩根大通对美元的中期判断偏积极。&lt;strong&gt;该行认为，美元相对于利率基差仍被低估约3%至4%，而美国经济韧性并未被当前美元汇率充分反映。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国失业率维持在4.1%，低于美联储年底预测的4.3%。&lt;strong&gt;报告预计，在美联储年内仅加息一次的情景下，美元收益率仍将高于全球超过50%的货币，接近25年来的高位；若加息达到三次，这一比例将升至约58%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;接下来，美国8月CPI将成为关键变量。9月11日CPI公布后，9月16日FOMC、9月17日英国央行和9月18日日本央行将接连登场，主要央行政策预期可能在短时间内密集重定价。美联储内部政策分歧仍然明显，通胀数据将进一步检验市场对未来政策路径的押注。&lt;/p&gt;
+&lt;p&gt;对美元而言，后续走势将取决于美国经济数据与美联储政策预期的变化。&lt;strong&gt;若美国通胀和就业数据继续保持韧性，美元的利率优势有望得到进一步支撑；反之，若通胀降温推动市场重新押注宽松政策，美元则可能承压。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月非农表面强劲，实际有多少“水分”？</title><link>https://wallstreetcn.com/articles/3781132</link><guid>da357dfa87e82b439b1bb12d5ce9f3aa76d20943083dfc5a7c7f2171e2580496</guid><pubDate>Sat, 05 Sep 2026 03:31:29 GMT</pubDate><description>&lt;p&gt;美国8月非农就业数据表面亮眼，但新增岗位高度集中于低薪行业，实际工资持续跑输通胀。巴克莱更是直言8月非农就业数据存在夸大成分，9月加息概率边际上升。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781105"&gt;华尔街见闻提及&lt;/a&gt;，9月4日，美国劳工统计局公布数据显示，8月非农就业人数增加16.2万，远超巴克莱预测的2.5万及市场共识预期的5.5万，前两个月数据合计上调5.5万，其中7月读数由此前的-2.3万修正至+2.1万。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新增就业岗位中约10.3万个，近三分之二来自酒店餐饮等低薪服务业及地方政府教育部门的季节性招聘。&lt;/strong&gt;与此同时，&lt;strong&gt;本应受益于人工智能热潮的高薪信息技术行业，就业人数实际出现下滑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;追风交易台消息，就业数据公布后，巴克莱银行Marc Giannoni团队发表研报，指出&lt;strong&gt;部分强劲增长源于休闲与酒店业及地方教育业就业的阶段性反弹，并非反映持续改善的劳动力需求，本月数据对劳动市场实际强度存在一定夸大。&lt;/strong&gt;&lt;/p&gt;
@@ -279,7 +303,35 @@ AI硬件的“护城河”：盈利增长暂时压过利率压力
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大对美出口份额跌至66.3%，创1997年以来新低</title><link>https://wallstreetcn.com/articles/3781129</link><guid>505a3b70884623d8a1bd325cc4d8de80c0746fc5b496c4e06feda0bda3d496ee</guid><pubDate>Sat, 05 Sep 2026 01:53:13 GMT</pubDate><description>&lt;p&gt;贸易战阴云正笼罩加拿大夏季。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大8月就业人数意外减少超4万人，仅制造业录的增长，加央行加息预期降温</title><link>https://wallstreetcn.com/articles/3781114</link><guid>d5705ec5fce76b1e2a7d5325f2a66223b96cbd8d1e58a22ba2448aeb3501049e</guid><pubDate>Fri, 04 Sep 2026 19:53:16 GMT</pubDate><description>&lt;p&gt;加拿大8月劳动力市场意外走软，就业人数下滑逾4万，加元随即承压下跌，市场对加拿大央行加息预期迅速降温。&lt;/p&gt;
+&lt;p&gt;加拿大统计局周五公布数据显示，&lt;strong&gt;8月就业人数减少41,700人，为今年4月以来首次下降，远低于彭博调查经济学家预测的增加15,000人，失业率维持6.4%不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;就业萎缩主要集中在金融保险及房地产、零售、批发贸易和餐饮酒店等行业，公共部门就业人数连续第三个月下滑，8月单月减少20,000人。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数据公布后，加元对美元大幅走低；与此同时，美国同日公布的非农就业人数增加162,000人，超出所有经济学家预期，进一步加剧加元压力。&lt;/p&gt;
+&lt;p&gt;这份疲弱报告令市场对加拿大央行加息预期明显降温。本周早些时候，央行行长Tiff Macklem就通胀前景发表偏鹰派表态，推动两年期加拿大国债收益率上行；但就业数据公布后，该债券迅速反弹，收益率回落至3.076%。&lt;/p&gt;
+&lt;p&gt;Manulife Investment Management宏观策略高级总监Dominique Lapointe表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;若央行意图暗示即将加息，这份就业数据清楚表明，此类警告或许为时过早，经济基本面仍较脆弱。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+就业下滑集中于金融与公共部门，制造业逆势扩张
+
+&lt;p&gt;8月就业减少主要集中在安大略省和魁北克省。金融、保险及房地产类别减少近10,000个职位，零售、批发贸易及酒店餐饮业也录得下滑。公共部门就业人数自5月以来累计减少78,000人，显示政府端用工持续收缩。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;制造业是8月唯一录得显著增长的行业，新增就业22,100人，增量大部分集中于安大略省，在整体低迷的背景下形成明显对比。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;加拿大帝国商业银行经济学家Andrew Grantham在致投资者报告中写道，&amp;quot;今日数据似乎与其他指标——包括出口及月度GDP——相互印证，表明经济再度放缓。&amp;quot;&lt;/p&gt;
+
+贸易战升级，复苏可持续性存疑
+
+&lt;p&gt;尽管单月数据偏弱，但8月就业总量较一年前仍增加217,000人，5月至7月三个月间累计新增约181,000个职位，显示中期趋势仍具韧性。&lt;/p&gt;
+&lt;p&gt;加拿大失业率7月曾降至6.4%，为两年来最低，经济在今年二季度亦实现年化3.3%的实际GDP增长。&lt;/p&gt;
+&lt;p&gt;然而，贸易摩擦的持续升级正令这一复苏轨迹面临新的考验。美国于8月21日谈判破裂后，对价值200亿美元的加拿大商品加征50%关税，加方的反制关税措施也将于下周对数百种美国商品生效。&lt;/p&gt;
+&lt;p&gt;报告显示，&lt;strong&gt;依赖美国出口需求的行业，过去12个月裁员率平均为0.9%，高于其他行业的0.7%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;央行行长Macklem本周表示，&lt;strong&gt;加拿大在此轮贸易紧张局势中的起点相对较好，但&amp;quot;对于复苏可持续性的不确定性已经上升&amp;quot;，并预计关税冲击将集中体现在部分行业。&lt;/strong&gt;&lt;/p&gt;
+
+薪资增速放缓，加息预期承压
+
+&lt;p&gt;工资数据同样指向降温。8月全职永久雇员平均时薪同比增长2%，低于上月3%的增速，也低于经济学家2.9%的预测。核心劳动年龄男性（25至54岁）失业率从5.8%升至6%，因更多男性重新进入求职市场。&lt;/p&gt;
+&lt;p&gt;加拿大蒙特利尔银行首席经济学家Doug Porter在致投资者报告中表示，&amp;quot;在一连串令人意外的亮眼就业数据之后，加拿大似乎到了该接受现实检验的时候&amp;quot;，并指出这份疲弱报告&amp;quot;远非意外，在一定程度上反映了劳动力人口持续下滑的趋势&amp;quot;。&lt;/p&gt;
+&lt;p&gt;加拿大帝国商业银行的Andrew Grantham亦指出，考虑到美国贸易前景的高度不确定性，&lt;strong&gt;&amp;quot;我们仍认为加拿大央行将维持利率不变，即便政策制定者本周早些时候对通胀前景表达了更多关切。&amp;quot;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大对美出口份额跌至66.3%，创1997年以来新低</title><link>https://wallstreetcn.com/articles/3781129</link><guid>505a3b70884623d8a1bd325cc4d8de80c0746fc5b496c4e06feda0bda3d496ee</guid><pubDate>Sat, 05 Sep 2026 01:53:13 GMT</pubDate><description>&lt;p&gt;贸易战阴云正笼罩加拿大夏季。&lt;/p&gt;
 &lt;p&gt;周四，加拿大统计局公布的数据显示，&lt;strong&gt;7月对美出口环比下降6.6%，为2025年4月以来最大月度降幅。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;对美出口占总出口的比重降至66.3%，创1997年以来新低。&lt;/strong&gt;黄金与能源出口的下滑是主要拖累，非货币用金、银、铂及其合金出口下降13.1%，&lt;strong&gt;能源出口下降4.4%、连续第三个月下滑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;整体来看，加拿大对全球出口下降2.3%、进口上升2.2%，贸易顺差收窄至7.69亿加元（约5.57亿美元）。&lt;/strong&gt;&lt;/p&gt;
@@ -315,35 +367,7 @@ AI硬件的“护城河”：盈利增长暂时压过利率压力
 &lt;p&gt;面对来自美国的经济与安全压力，卡尼政府此前在7月初密集出牌。&lt;/p&gt;
 &lt;p&gt;加拿大政府宣布新建一条从油砂到温哥华地区港口的输油管道，指定国有企业Trans Mountain承建，目标是将阿尔伯塔省能源资源更多地输送至亚洲市场，降低对美国这一最大买家的依赖。&lt;/p&gt;
 &lt;p&gt;与此同时，政府选定德挪联合方案，授出新一批海军潜艇舰队的建造合同。此举是加拿大在遭受美国长期批评后加速提升国防开支的组成部分，该国国防开支占GDP比例近期才达到北约要求的2%目标。&lt;/p&gt;
-&lt;p&gt;两个项目均属长期战略部署，折射出加拿大在贸易与安全两个维度上降低对美依赖的政策方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大8月就业人数意外减少超4万人，仅制造业录的增长，加央行加息预期降温</title><link>https://wallstreetcn.com/articles/3781114</link><guid>d5705ec5fce76b1e2a7d5325f2a66223b96cbd8d1e58a22ba2448aeb3501049e</guid><pubDate>Fri, 04 Sep 2026 19:53:16 GMT</pubDate><description>&lt;p&gt;加拿大8月劳动力市场意外走软，就业人数下滑逾4万，加元随即承压下跌，市场对加拿大央行加息预期迅速降温。&lt;/p&gt;
-&lt;p&gt;加拿大统计局周五公布数据显示，&lt;strong&gt;8月就业人数减少41,700人，为今年4月以来首次下降，远低于彭博调查经济学家预测的增加15,000人，失业率维持6.4%不变。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;就业萎缩主要集中在金融保险及房地产、零售、批发贸易和餐饮酒店等行业，公共部门就业人数连续第三个月下滑，8月单月减少20,000人。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数据公布后，加元对美元大幅走低；与此同时，美国同日公布的非农就业人数增加162,000人，超出所有经济学家预期，进一步加剧加元压力。&lt;/p&gt;
-&lt;p&gt;这份疲弱报告令市场对加拿大央行加息预期明显降温。本周早些时候，央行行长Tiff Macklem就通胀前景发表偏鹰派表态，推动两年期加拿大国债收益率上行；但就业数据公布后，该债券迅速反弹，收益率回落至3.076%。&lt;/p&gt;
-&lt;p&gt;Manulife Investment Management宏观策略高级总监Dominique Lapointe表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;若央行意图暗示即将加息，这份就业数据清楚表明，此类警告或许为时过早，经济基本面仍较脆弱。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-就业下滑集中于金融与公共部门，制造业逆势扩张
-
-&lt;p&gt;8月就业减少主要集中在安大略省和魁北克省。金融、保险及房地产类别减少近10,000个职位，零售、批发贸易及酒店餐饮业也录得下滑。公共部门就业人数自5月以来累计减少78,000人，显示政府端用工持续收缩。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;制造业是8月唯一录得显著增长的行业，新增就业22,100人，增量大部分集中于安大略省，在整体低迷的背景下形成明显对比。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;加拿大帝国商业银行经济学家Andrew Grantham在致投资者报告中写道，&amp;quot;今日数据似乎与其他指标——包括出口及月度GDP——相互印证，表明经济再度放缓。&amp;quot;&lt;/p&gt;
-
-贸易战升级，复苏可持续性存疑
-
-&lt;p&gt;尽管单月数据偏弱，但8月就业总量较一年前仍增加217,000人，5月至7月三个月间累计新增约181,000个职位，显示中期趋势仍具韧性。&lt;/p&gt;
-&lt;p&gt;加拿大失业率7月曾降至6.4%，为两年来最低，经济在今年二季度亦实现年化3.3%的实际GDP增长。&lt;/p&gt;
-&lt;p&gt;然而，贸易摩擦的持续升级正令这一复苏轨迹面临新的考验。美国于8月21日谈判破裂后，对价值200亿美元的加拿大商品加征50%关税，加方的反制关税措施也将于下周对数百种美国商品生效。&lt;/p&gt;
-&lt;p&gt;报告显示，&lt;strong&gt;依赖美国出口需求的行业，过去12个月裁员率平均为0.9%，高于其他行业的0.7%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;央行行长Macklem本周表示，&lt;strong&gt;加拿大在此轮贸易紧张局势中的起点相对较好，但&amp;quot;对于复苏可持续性的不确定性已经上升&amp;quot;，并预计关税冲击将集中体现在部分行业。&lt;/strong&gt;&lt;/p&gt;
-
-薪资增速放缓，加息预期承压
-
-&lt;p&gt;工资数据同样指向降温。8月全职永久雇员平均时薪同比增长2%，低于上月3%的增速，也低于经济学家2.9%的预测。核心劳动年龄男性（25至54岁）失业率从5.8%升至6%，因更多男性重新进入求职市场。&lt;/p&gt;
-&lt;p&gt;加拿大蒙特利尔银行首席经济学家Doug Porter在致投资者报告中表示，&amp;quot;在一连串令人意外的亮眼就业数据之后，加拿大似乎到了该接受现实检验的时候&amp;quot;，并指出这份疲弱报告&amp;quot;远非意外，在一定程度上反映了劳动力人口持续下滑的趋势&amp;quot;。&lt;/p&gt;
-&lt;p&gt;加拿大帝国商业银行的Andrew Grantham亦指出，考虑到美国贸易前景的高度不确定性，&lt;strong&gt;&amp;quot;我们仍认为加拿大央行将维持利率不变，即便政策制定者本周早些时候对通胀前景表达了更多关切。&amp;quot;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 强劲非农数据难阻涨势：新兴市场货币连涨10周，创2007年以来最长连涨纪录</title><link>https://wallstreetcn.com/articles/3781117</link><guid>8b4c25d0128ecb30f367019f44e97276b405c64c67105d9c59179f9077b78a25</guid><pubDate>Fri, 04 Sep 2026 19:53:02 GMT</pubDate><description>&lt;p&gt;新兴市场货币强势延续，即便美国强劲就业数据短暂搅动全球市场，也未能阻断这一轮涨势。市场目光现已转向下周美国通胀数据，其结果将对美联储下一步政策走向具有决定性影响。&lt;/p&gt;
+&lt;p&gt;两个项目均属长期战略部署，折射出加拿大在贸易与安全两个维度上降低对美依赖的政策方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 强劲非农数据难阻涨势：新兴市场货币连涨10周，创2007年以来最长连涨纪录</title><link>https://wallstreetcn.com/articles/3781117</link><guid>8b4c25d0128ecb30f367019f44e97276b405c64c67105d9c59179f9077b78a25</guid><pubDate>Fri, 04 Sep 2026 19:53:02 GMT</pubDate><description>&lt;p&gt;新兴市场货币强势延续，即便美国强劲就业数据短暂搅动全球市场，也未能阻断这一轮涨势。市场目光现已转向下周美国通胀数据，其结果将对美联储下一步政策走向具有决定性影响。&lt;/p&gt;
 &lt;p&gt;MSCI新兴市场货币指数周五上涨0.4%，有望录得本周0.7%的涨幅，由此实现连续第10周上涨——这是该指数自2007年以来最长的连涨纪录。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国非农就业报告公布后，强劲数据短暂推高美元、压制新兴市场货币，但南非兰特、墨西哥比索等货币随后迅速收复失地。&lt;/strong&gt;&lt;/p&gt;
@@ -408,34 +432,7 @@ AI建设投资驱动商品生产就业提速
 
 &lt;p&gt;不过，分析人士提示，当前的就业回暖需置于更长时间维度下审视。&lt;/p&gt;
 &lt;p&gt;EY-Parthenon首席经济学家Gregory Daco指出，此轮制造业就业增长之前，该行业已经历长达三年的持续裁员，近期的反弹更多是低基数效应与特定投资周期共振的结果，其可持续性仍有待观察。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，制造业与建筑业就业的结构性回升，在一定程度上印证了AI资本开支向实体经济传导的逻辑，但整体劳动力市场的分化走势，仍将是美联储评估经济韧性、研判利率路径的重要参考变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 刷新2022年纪录！美国柴油价格创历史新高，特朗普中选“能源牌”打不下去了？</title><link>https://wallstreetcn.com/articles/3781133</link><guid>a5f9b80bd0486c34eda8c6dda108afa0769d08a4418614b456374f1062b55646</guid><pubDate>Sat, 05 Sep 2026 01:44:30 GMT</pubDate><description>&lt;p&gt;美国柴油价格正突破历史高位，并将能源成本上涨的影响进一步传导至通胀、农业和物流等领域，也给特朗普政府带来新的政治压力。距离美国国会中期选举仅剩不到两个月，燃料价格持续走高可能成为政府难以回避的议题。&lt;/p&gt;
-&lt;p&gt;据美国汽车协会（AAA）数据，&lt;strong&gt;美国柴油零售均价周五首次触及每加仑5.85美元，超过2022年创下的历史高点。&lt;/strong&gt;与此同时，美国汽油零售均价也升至每加仑4.15美元，创同期历史最高水平。&lt;/p&gt;
-&lt;p&gt;能源咨询机构Energy Aspects创始人Amrita Sen表示，除非高价格开始抑制需求，否则目前看不到解决柴油供应紧张问题的明显路径。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;柴油价格飙升的冲击已经开始向实体经济传导。&lt;/strong&gt;食品巨头J.M. Smucker和Campbell&amp;#x27;s均向分析师表示，物流成本通胀高于预期，其中Campbell&amp;#x27;s预计2027财年物流成本涨幅将达到两位数。美国农业部上周四公布的数据则显示，2026年美国农民实际收入预计下降2.5%，与此同时，燃料成本预计上涨近30%，化肥成本预计上涨15%。&lt;/p&gt;
-&lt;p&gt;对于曾承诺压低能源价格、降低生活成本的特朗普政府而言，柴油价格持续走高无疑带来新的政治压力。&lt;/p&gt;
-供应端多重冲击叠加，柴油供应短期难有缓解
-&lt;p&gt;此轮柴油价格创纪录上涨，核心矛盾在于全球炼油产能受到多重冲击，成品油供应持续收紧。&lt;/p&gt;
-&lt;p&gt;霍尔木兹海峡持续受阻，压缩了原油运往亚洲大型炼厂的通道；中东多处大型炼油设施遭袭损毁；俄罗斯多座炼厂遭袭停产。据报道，&lt;strong&gt;能源行业高管近期表示，全球目前约有500万桶/日的炼油产能处于停产状态。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，美国和欧洲过去一年也相继关闭部分炼厂。S&amp;amp;P Global分析师William O&amp;#x27;Neil表示，仅加利福尼亚州就因炼厂关闭损失了约17%的炼油产能。加拿大最大炼厂目前也处于季节性维护状态，而其超过一半的产品出口至美国东北部。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;O&amp;#x27;Neil表示，美国柴油供应“非常紧张”，目前几乎没有办法避免大范围、持续性的价格压力。&lt;/strong&gt;&lt;/p&gt;
-出口激增进一步挤压美国国内供应，库存降至历史低位
-&lt;p&gt;在全球柴油供应紧张的背景下，美国正成为重要的供应来源，但出口增加也进一步压缩了国内库存。&lt;/p&gt;
-&lt;p&gt;据美国能源信息署（EIA）数据，截至8月28日的四周内，美国柴油日均出口量达到177万桶，较去年同期增加约31%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，美国国内柴油库存持续下降。&lt;/strong&gt;新英格兰及大西洋沿岸南部地区的柴油库存上周降至EIA自1990年开始追踪该数据以来的最低水平；加利福尼亚州库存也从一年前的173万桶降至116万桶。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lipow Oil Associates总裁Andy Lipow表示，在库存缓冲空间已经非常有限的情况下，“任何供应中断都可能产生放大效应”。&lt;/strong&gt;&lt;/p&gt;
-季节性需求高峰临近，柴油价格压力或进一步上升
-&lt;p&gt;当前的供应紧张，正值美国柴油需求即将进入季节性高峰。&lt;/p&gt;
-&lt;p&gt;随着农民准备进入秋季收割季，农业用柴油需求将明显增加；美国东北部大部分地区距离开始使用取暖油也已不足一个月。与此同时，部分炼厂进入季节性检修期，可能进一步压缩市场可用供应。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Energy Aspects预计，从10月开始，柴油市场将同时面临收割季、初冬取暖需求以及炼厂计划维护三重压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该机构指出，欧洲各国迄今仅释放了中东冲突初期承诺的7300万桶燃料储备中的约10%。如果冬季燃料价格进一步飙升，欧洲各国可能加快释放剩余储备，以缓解供应压力。&lt;/p&gt;
-特朗普政府选项有限，柴油出口限制争议再起
-&lt;p&gt;面对创纪录的燃料价格，特朗普政府本周召集炼油行业高管举行会谈，敦促企业采取更多措施压低燃料价格，包括考虑建设新的炼厂。但炼油企业目前已经在尽可能提高现有产能利用率，以获取更高利润，对于耗资数十亿美元的新建炼厂项目兴趣有限。&lt;/p&gt;
-&lt;p&gt;报道援引分析人士指出，&lt;strong&gt;若要在短期内缓解美国国内柴油价格压力，特朗普政府可动用的政策工具相当有限，限制柴油出口是其中一个选项。这也使出口限制的争议再度升温。&lt;/strong&gt;美国能源部长Chris Wright此前已多次公开反对限制能源出口。&lt;/p&gt;
-&lt;p&gt;Energy Aspects则建议，特朗普政府可以考虑放宽部分燃料监管要求，以提高柴油产量，同时加强对柴油油轮通过霍尔木兹海峡的护航力度。&lt;/p&gt;
-通胀与政治压力叠加，中期选举前景承压
-&lt;p&gt;柴油价格飙升正逐步将能源成本压力转化为政治压力。大西洋理事会指出，美国农村地区正受到柴油价格上涨的明显冲击，其中怀俄明州、北达科他州和阿拉斯加州在2024年人均柴油消费量位居全美前列。&lt;/p&gt;
-&lt;p&gt;据报道，国会联合经济委员会民主党议员7月表示，美国农民仅在播种季就因柴油价格上涨额外支出14亿美元。波士顿卡车司机Scott Litchfield表示，他所接触的货运公司目前每天因燃料价格上涨额外支出480至640美元，并已开始向部分客户上调运费。&lt;/p&gt;
-&lt;p&gt;自美伊冲突爆发以来，美国柴油价格累计上涨56%，较一年前每加仑高出2.14美元。尽管经通胀调整后，当前价格尚未超过2022年的实际高点，但&lt;strong&gt;对于曾承诺压低美国能源价格、以更低生活成本作为重要政治诉求的特朗普政府而言，柴油价格持续走高无疑构成新的压力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伊朗战事再起，对冲基金加大对油价上涨的押注，多头头寸创5月以来最高</title><link>https://wallstreetcn.com/articles/3781123</link><guid>e7bbabcd5be0bec30417b959720dc9540d6ed81474ea63151cc4297f8db443a7</guid><pubDate>Fri, 04 Sep 2026 22:02:58 GMT</pubDate><description>&lt;p&gt;随着美国与伊朗新一轮冲突加剧，市场对霍尔木兹海峡能源运输可能遭到长期扰乱的担忧升温，对冲基金对布伦特原油的看涨程度升至5月以来最高水平。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，制造业与建筑业就业的结构性回升，在一定程度上印证了AI资本开支向实体经济传导的逻辑，但整体劳动力市场的分化走势，仍将是美联储评估经济韧性、研判利率路径的重要参考变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伊朗战事再起，对冲基金加大对油价上涨的押注，多头头寸创5月以来最高</title><link>https://wallstreetcn.com/articles/3781123</link><guid>e7bbabcd5be0bec30417b959720dc9540d6ed81474ea63151cc4297f8db443a7</guid><pubDate>Fri, 04 Sep 2026 22:02:58 GMT</pubDate><description>&lt;p&gt;随着美国与伊朗新一轮冲突加剧，市场对霍尔木兹海峡能源运输可能遭到长期扰乱的担忧升温，对冲基金对布伦特原油的看涨程度升至5月以来最高水平。&lt;/p&gt;
 &lt;p&gt;洲际交易所（ICE）欧洲期货交易所公布的期权和期货周度数据显示，截至9月1日当周，&lt;strong&gt;基金经理持有的布伦特原油净多头头寸增加37,837手，至261,435手，创逾三个月来最高水平。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;美国商品期货交易委员会（CFTC）数据显示，原油净多头押注也升至6月以来最高。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本周以来，&lt;strong&gt;原油价格重新走强。美国持续展开轰炸行动，伊朗则对美军基地发动报复性袭击，使得恢复通过这一全球最重要能源运输咽喉的航运活动更加困难。&lt;/strong&gt;&lt;/p&gt;
