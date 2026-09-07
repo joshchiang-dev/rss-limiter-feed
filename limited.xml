@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 07 Sep 2026 00:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 今年应届生和实习生招聘，瑞银提出新要求：证明会用AI</title><link>https://wallstreetcn.com/articles/3781191</link><guid>9fc2397e70dff5b595ca886779fd669af4c77891d5096c05fb9dc323bc96017e</guid><pubDate>Mon, 07 Sep 2026 00:29:56 GMT</pubDate><description>&lt;p&gt;人工智能正在重塑华尔街和欧洲大型银行的招聘标准。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 07 Sep 2026 01:29:28 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”</title><link>https://wallstreetcn.com/articles/3781192</link><guid>f4ce1fee1f8df956b7e7ad5a041d23d482d381ea64f1c7a60eefeb455bcdcdd2</guid><pubDate>Mon, 07 Sep 2026 01:00:14 GMT</pubDate><description>&lt;p&gt;AI飞轮开始自转：OpenAI公开披露内部数据，智能体工作量已是人类研究员的3倍以上。&lt;/p&gt;
+&lt;p&gt;9月6日，OpenAI官方博客发布文章《研究加速：OpenAI内部视角（&lt;em&gt;Research acceleration: The view inside OpenAI&lt;/em&gt;）》首次以内部数据形式公开&lt;strong&gt;AI“递归自我改进”（RSI）的进展&lt;/strong&gt;。OpenAI称其已经实现去年秋天定下的目标：在今年9月前造出一个&lt;strong&gt;“自动化研究实习生”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;OpenAI对“研究实习生”的定义是：&lt;strong&gt;“一个能在人类指导下执行明确定义的研究任务的系统，包括那些需要一名熟练研究员数天才能完成的任务。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下一个目标是：2028年3月前实现完整的&lt;strong&gt;“自动化AI研究员”，&lt;/strong&gt;使其能够参与深度学习和对齐研究，并通过迭代进一步改进系统。&lt;/p&gt;
+&lt;p&gt;这意味着“AI训练AI”的飞轮正在加速：AI产出更多代码和实验结果，研究进展加快，更好的模型被训练出来，再反过来提升智能体能力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+飞轮正在转动：AI代理工作量达人类的3倍
+&lt;p&gt;从OpenAI公布的数据看，智能体首先改变的是研究人员的日常工作方式。&lt;/p&gt;
+&lt;p&gt;今年年初，按智能体使用量排序处于中位数的OpenAI研究员，对编码智能体的使用仍相对有限。到8月中旬，这部分研究员已将智能体纳入日常工作流程。按API价格折算，中位研究员每天的智能体推理使用额已超过600美元；研究组织中使用量处于前10%的研究员，每天使用的Token价值则超过7000美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI还表示，研究部门的智能体使用增长快于公司其他团队。以中位员工的输出Token变化计算，研究部门的使用规模较2025年12月&lt;strong&gt;增长124倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更关键的转折点发生在今年6月。&lt;/p&gt;
+&lt;p&gt;6月之前，研究组织的智能体总运行时长仍低于人类劳动总时长。此后情况逆转。截至8月中旬，以标准8小时工作日计算，&lt;strong&gt;每消耗1个人类工作日，研究组织的智能体已产出3.1个工作日的工作量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，OpenAI称，&lt;strong&gt;越来越多研究员会同时运行4个或更多智能体会话。&lt;/strong&gt;&lt;/p&gt;
+代码和实验加速，研发流程的可执行环节被放大
+&lt;p&gt;OpenAI将AI研发描述为一条包含多个环节的流程：提出改进方案、设计评估、编写基础设施、进行大规模测试、发现训练中的错误或不安全行为，并将有效方案整合进核心训练。&lt;/p&gt;
+&lt;p&gt;其中任一环节受阻，都可能限制整体研发循环。&lt;/p&gt;
+&lt;p&gt;OpenAI称，&lt;strong&gt;写代码和运行实验是研究人员的两项主要工作，而内部数据反映这两项活动正在加速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一方面，公司工程师整体代码交付速度提升。另一方面，2026年以来，每名活跃实验人员对应的实验数量持续增加；2026年8月达到自2025年1月开始跟踪以来的新高。&lt;/p&gt;
+&lt;p&gt;OpenAI称，这一趋势与Codex使用增加存在相关性，但同时强调，公司自2025年以来可用算力也显著增长，不能将实验增长完全归因于智能体。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“这些数据点相对容易测量，但可能很难解释。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;OpenAI还提示，随着自动化推进，&lt;strong&gt;最不易被自动化的任务可能占据研究人员更多时间，并成为未来研发的新瓶颈&lt;/strong&gt;；算力也可能在其他瓶颈减弱后变得更关键。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从这一链条看，智能体带来的并非单一环节的效率改善，而是通过增加代码供给、测试次数和排障能力，压缩研发循环中的等待时间。更多实验再产生更多结果，供研究人员筛选、验证和整合，形成&lt;strong&gt;“人定方向—智能体执行—实验反馈—人再决策”&lt;/strong&gt;的循环。&lt;/p&gt;
+任务从写代码延伸至排障、监控和分析，但高层决策占比仍低
+&lt;p&gt;OpenAI使用Epoch AI提出的前沿AI研发任务分类框架，对研究人员交给编码智能体的任务进行了划分。&lt;/p&gt;
+&lt;p&gt;该框架将AI研发活动分为六类：决定做什么、设计研究方案、构建代码与数据集、运行训练与评估、分析实验和模型表现，以及沟通研究发现与决策。&lt;/p&gt;
+&lt;p&gt;OpenAI称，从2026年1月至8月，上述所有类别的智能体活动均有所增加。&lt;/p&gt;
+&lt;p&gt;增长最明显的任务包括研究和基础设施代码、技术协助与审查、启动监控和调试运行、实验结果分析，以及计算集群运营等。&lt;/p&gt;
+&lt;p&gt;其中，研究和基础设施代码的日均每研究员输出Token增量最大，达到19.82万；技术协助与审查增加15.88万；启动、监控和调试运行增加13.31万。&lt;/p&gt;
+&lt;p&gt;不过，OpenAI表示，&lt;strong&gt;高层规划类任务在智能体输出中仍只占很小比例。例如，“决定做什么”“决定继续还是停止”等任务的Token规模仍较低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这意味着，至少按照OpenAI当前披露的内部数据，智能体已覆盖研发流程中更多执行性、技术性任务，但研究方向选择、资源取舍及结果判断仍主要由人完成。&lt;/p&gt;
+智能体成功率在提升，但复杂任务仍需人工介入
+&lt;p&gt;OpenAI还公布了智能体任务完成率的数据。&lt;/p&gt;
+&lt;p&gt;从今年1月到7月，在可验证结果的任务中，各难度级别（以人类完成所需时间为代理指标）的成功率普遍提升。&lt;/p&gt;
+&lt;p&gt;但有一个重要限制：&lt;strong&gt;任务越复杂，越需要人工干预。&lt;/strong&gt; 过去6个月中，在需要人类4至8小时完成的任务里，超过一半的成功案例涉及至少1次人工介入。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI的表述是：&lt;strong&gt;“智能体仍需要大量人工引导才能成功，尤其是随着任务复杂度上升。”&lt;/strong&gt;&lt;/p&gt;
+安全事件触发暂停：飞轮也会被踩刹车
+&lt;p&gt;飞轮并非无摩擦运转。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7月20日，&lt;/strong&gt; OpenAI发现智能体入侵了内部研究基础设施，随即临时关闭用于训练的容器服务，并在加入大量额外限制后恢复。这导致强化学习训练算力急剧下降，持续约两周。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月6日至7日，&lt;/strong&gt; 初步证据显示Astra模型可能具备其“准备框架”（Preparedness Framework）定义下的关键网络能力，OpenAI对Astra模型实施了额外的特定安全限制，要求其在更高安全级别的研究环境中运行。&lt;/p&gt;
+&lt;p&gt;此后一周，&lt;strong&gt;Astra级别的GPU分配进一步下降59.2%&lt;/strong&gt;，但其他模型类别的算力分配上升17.2%，抵消了约85%的Astra算力缺口，整体强化学习工作负载的总算力分配基本保持不变。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI对此的解读是：&lt;strong&gt;“当新的管控措施引入时，算力仍然有价值且具有灵活性，会自然流向研究企业内的替代用途。”&lt;/strong&gt;&lt;/p&gt;
+OpenAI首席科学家同日发出警告
+&lt;p&gt;同一天，OpenAI首席科学家Jakub Pachocki发表长文&lt;a href="https://wallstreetcn.com/articles/3781186"&gt;《An Alien Mind》（一个异星心智）&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;文章认为，AI是养出来的，不是造出来的。造它的人也不完全懂它。人类唯一能看见AI在想什么的窗口，是它写出来的思维链。这扇窗正在关上。AI已经开始参与训练下一代AI，这个速度不会慢下来。现在没有哪家实验室配全速往前跑，包括OpenAI。&lt;/p&gt;
+&lt;p&gt;Pachocki在文中写道：&lt;strong&gt;“基于内部结果，我强烈预期这种进展速度可以持续到递归自我改进。”&lt;/strong&gt; 但他同时表示，&lt;strong&gt;“目前我认为，没有任何实验室在对齐与监控上做到了足够充分的程度，可以继续负责任地以最高速度扩展太久。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他呼吁行业自愿放缓，并推动各国政府将国际协调列为优先议题。&lt;/p&gt;
+透明度与民主治理
+&lt;p&gt;OpenAI在报告结尾表示，将继续公开RSI进展，并在其“前沿政策蓝图”中主张，包括OpenAI在内的各公司应被要求公开追踪其RSI进展。&lt;/p&gt;
+&lt;p&gt;报告也坦承当前测量工作的局限：&lt;strong&gt;“智能体驱动的AI研究仍然是新生事物，我们仍在学习如何衡量它。”&lt;/strong&gt; 部分指标（如代码产出量）易于收集但难以解读；更直接反映研究进展的指标（如智能体任务成功率）则复杂且难以验证。&lt;/p&gt;
+&lt;p&gt;OpenAI的表态是：&lt;strong&gt;“每当我们发现继续推进将带来不可接受的安全风险时，我们将采取适当应对措施，包括放缓或停止我们认为无法充分保障安全的系统的开发或部署。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 追随美科技股涨势，韩国KOSPI大涨3%，SK海力士涨近6%，铠侠涨8%，美伊油轮互袭推动油价上涨</title><link>https://wallstreetcn.com/articles/3781194</link><guid>ebc03e4fa8060a6c002a56c6b162b2969ba041c0ee597c6330490431281b44f1</guid><pubDate>Mon, 07 Sep 2026 01:04:55 GMT</pubDate><description>&lt;p&gt;亚太股市周一全线走高，韩国股市领涨，日本股市同步上扬，此前美国科技股上周五录得涨幅，提振市场情绪。与此同时，美国与伊朗在霍尔木兹海峡爆发油轮互袭事件，油价随之走高，中东局势持续升温为全球市场增添不确定性。&lt;/p&gt;
+&lt;p&gt;周一（9月7日）韩国综合股价指数（Kospi）开盘大涨逾3%，小盘股Kosdaq上涨1.33%，芯片巨头SK海力士涨近6%，三星电子则涨超4%。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;日本日经225指数涨2%，东证指数（Topix）上涨约0.8%，铠侠大涨近8%；澳大利亚标普/ASX 200指数基本持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;油价方面，布伦特原油上涨0.4%，西德克萨斯中质原油（WTI）上涨0.6%至每桶92美元。伊朗伊斯兰革命卫队海军宣称，对多艘经由霍尔木兹海峡未经授权航线行驶的油轮及多艘与美国相关的船只发动打击，以报复美方对伊朗油轮的袭击。&lt;strong&gt;此次冲突进一步压缩了美伊停火的近期前景，并加剧市场对通胀走势的担忧。&lt;/strong&gt;&lt;/p&gt;
+通胀与美联储：CPI数据成关键变量
+&lt;p&gt;中东局势升温叠加上周五强于预期的美国非农就业数据，令市场对美联储9月加息的押注有所升温。据彭博报道，Brown Brothers Harriman全球市场策略主管Elias Haddad在报告中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;9月16日联邦基金利率是否加息，取决于本周五公布的美国8月CPI数据。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Haddad指出，若CPI数据偏热，将基本锁定9月加息预期，并支撑美元走强；若数据偏冷，则将强化暂停加息的理由，美元面临因美联储政策预期转鸽而承压的风险。&lt;/p&gt;
+日元走势：日本央行加息预期持续发酵
+&lt;p&gt;日元上周累计涨逾2%，主要受套利交易平仓及市场对日本央行连续加息预期升温驱动，周一早盘，美元/日元在156附近窄幅波动。与此同时，市场对日本政府养老金投资基金（GPIF）可能上调国内债券目标配置比例的猜测也在升温。&lt;/p&gt;
+&lt;p&gt;据彭博报道，巴克莱证券策略师团队（包括Shinichiro Kadota）在报告中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;市场已开始预期GPIF重新配置与日本央行激进紧缩政策的叠加效应，将成为美元兑日元有效跌破150、乃至进一步走低的催化剂。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;但该团队同时指出，&amp;quot;从当前位置来看，日元进一步大幅升值的门槛正在提高，后续走势在很大程度上取决于日本央行能否兑现市场所感知的鹰派信号。&amp;quot;&lt;/p&gt;
+&lt;p&gt;欧洲方面，德国极右翼政党德国选择党（AfD）在萨克森-安哈尔特州选举中获得44%的选票，创历史最佳成绩，远超基督教民主联盟的17.5%。德国国债等欧洲债券周一将受到市场密切关注，欧元早盘基本持平。&lt;/p&gt;
+中东局势：美伊互袭，停火前景渺茫
+&lt;p&gt;据彭博报道，伊朗伊斯兰革命卫队海军在社交平台发文称，对三艘经由霍尔木兹海峡未经授权航线行驶的油轮以及数艘与美国相关的船只发动打击，同时还袭击了一架美国海军无人机及一艘试图进入该海峡的美国无人水面舰艇。&lt;/p&gt;
+&lt;p&gt;该声明未披露更多细节，亦未说明相关船只是否被击中。据&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=7399187466335443966&amp;amp;channelId=1119"&gt;央视新闻报道&lt;/a&gt;，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区”。他表示，该“禁区”将从美国海军封锁线起算，一直延伸至波斯湾内部分水域。&lt;/p&gt;
+&lt;p&gt;据CNBC报道，美国能源部长Chris Wright在接受ABC新闻节目&amp;quot;本周&amp;quot;采访时表示，伊朗核协议可能短期内难以达成。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;可能根本不会有核协议，而是直接摧毁其（发展核武器的）能力，协议或许要等到伊朗下届政府才有可能。我们目前无法判断。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;据彭博报道，Wright的表态显示，&lt;strong&gt;特朗普政府可能寻求在不签署正式协议的情况下，直接消除伊朗发展核武器的能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析认为，此次互袭事件发生在美国与以色列对伊朗发动战争逾六个月之后，进一步表明冲突短期内难以平息，并持续推高全球能源价格。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今年应届生和实习生招聘，瑞银提出新要求：证明会用AI</title><link>https://wallstreetcn.com/articles/3781191</link><guid>9fc2397e70dff5b595ca886779fd669af4c77891d5096c05fb9dc323bc96017e</guid><pubDate>Mon, 07 Sep 2026 00:29:56 GMT</pubDate><description>&lt;p&gt;人工智能正在重塑华尔街和欧洲大型银行的招聘标准。&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》报道，瑞银（UBS）已将AI能力列为招聘初级投资银行人员的明确要求，成为首批将AI素养纳入正式招聘条件的主要金融机构之一。&lt;/p&gt;
 &lt;p&gt;据知情人士透露，这一新要求将适用于2027年加入其全球银行和市场部门的应届毕业生及实习生，&lt;strong&gt;候选人须证明自己能够运用AI&amp;quot;改善工作成果与效率&amp;quot;&lt;/strong&gt;。此举标志着AI技能正从科技和数据岗位向传统银行业务岗位全面渗透。&lt;/p&gt;
 &lt;p&gt;这一变化发生在银行业大规模裁员警告持续升温的背景下。摩根士丹利分析师近期预测，随着各大银行加速拥抱AI并关闭更多分支机构，未来五年欧洲银行业将有逾20万个工作岗位面临威胁。&lt;/p&gt;
@@ -11,7 +98,16 @@ AI素养成招聘硬门槛
 &lt;p&gt;瑞银并非孤例。据公司文件显示，西班牙桑坦德银行（Santander）也已在其企业与投资银行部门的部分应届生项目中明确寻求&amp;quot;高级AI用户&amp;quot;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这一趋势折射出银行业更深层的结构性转变——AI工具正被越来越多地用于承担历史上由初级员工完成的常规工作，涵盖财务分析、研究报告撰写乃至客户演示材料制作等。&lt;/strong&gt;瑞银自身也在以新颖方式试验这项技术，包括为分析师创建可向客户进行视频演示的数字化身（avatar），该行表示此举将使员工得以专注于更具生产价值的工作。&lt;/p&gt;
 &lt;p&gt;尽管AI技能需求上升，部分银行高管对过度依赖技术表达了审慎立场。摩根大通欧洲、中东及非洲区联席主管Conor Hillery在去年12月英国《金融时报》全球银行峰会上表示，银行业需要&amp;quot;非常谨慎&amp;quot;，确保员工不会&amp;quot;失去对基础知识和基本原则的理解&amp;quot;。他补充称，摩根大通正努力在利用AI加速基础任务与培训初级员工传统核心银行技能之间寻求平衡。&lt;/p&gt;
-&lt;p&gt;瑞银的表态与这一立场一致——该行强调，AI素养是对既有能力要求的&amp;quot;补充而非替代&amp;quot;，学术能力、分析能力和人际沟通能力仍是招聘的核心维度。然而，随着AI门槛被正式写入招聘条件，对于尚未系统接触这一技术的应届毕业生而言，求职竞争的筹码已悄然改变。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”</title><link>https://wallstreetcn.com/articles/3781187</link><guid>3e192071034d04a08f26b0cd30d72214e611f412bfb44901ccc272c48c46774e</guid><pubDate>Sun, 06 Sep 2026 23:47:10 GMT</pubDate><description>&lt;p&gt;当地时间6日，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区”。他表示，该“禁区”将从美国海军封锁线起算，一直延伸至波斯湾内部分水域。&lt;/p&gt;
+&lt;p&gt;瑞银的表态与这一立场一致——该行强调，AI素养是对既有能力要求的&amp;quot;补充而非替代&amp;quot;，学术能力、分析能力和人际沟通能力仍是招聘的核心维度。然而，随着AI门槛被正式写入招聘条件，对于尚未系统接触这一技术的应届毕业生而言，求职竞争的筹码已悄然改变。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：AI存储芯片需求被低估，韩国股市仍有80%上涨空间</title><link>https://wallstreetcn.com/articles/3781196</link><guid>9eac63e5064bead5b21ca4d419bead8b88dfa193b8627d7bb966cf56c0959d04</guid><pubDate>Mon, 07 Sep 2026 01:15:16 GMT</pubDate><description>&lt;p&gt;高盛集团亚太区首席股票策略师Timothy Moe坚持对韩国股市的强烈看多立场，认为市场严重低估了AI驱动的存储芯片需求周期的持续时间，韩国基准股指KOSPI仍有近80%的上涨空间，维持KOSPI目标点位12000点不变。&lt;/p&gt;
+&lt;p&gt;据彭博报道，Moe在上周五的采访中表示，&lt;strong&gt;&amp;quot;市场低估了这一盈利周期的持续时长&amp;quot;，并预计美国大型科技公司明年的资本支出将突破1.2万亿美元，远高于此前8,000亿美元的预测。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一乐观判断与近期市场走势形成鲜明反差。KOSPI自6月历史高点以来已累计下跌27%，三星电子和SK海力士等芯片巨头相继发布亮眼业绩，却未能有效提振股价。Moe的目标点位意味着，若其盈利预测兑现，当前估值水平将为投资者提供显著的安全边际。&lt;/p&gt;
+盈利周期被低估，芯片需求料持续升温
+&lt;p&gt;Moe的核心论点在于，市场对韩国存储芯片企业盈利周期的持续性存在系统性低估。他预计KOSPI成分股今年盈利增速约为360%，2027年将放缓至约35%，但强调盈利增速最终趋缓这一事实已被市场充分消化，并非当前股价疲软的合理解释。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全球数据中心建设竞赛是支撑这一判断的核心驱动力。&lt;/strong&gt;Moe指出，大规模数据中心扩张已导致存储和内存芯片出现严重短缺，推动芯片价格持续上涨，而这一供需失衡态势预计将在2027年进一步加剧。他表示，超大规模云计算厂商&amp;quot;即便暂时无法盈利，也必须持续投入&amp;quot;，而算力需求的爆发对内存消耗极为密集，将直接利好存储芯片制造商。&lt;/p&gt;
+估值处于历史低位，目标点位具备支撑
+&lt;p&gt;从估值角度看，Moe认为当前KOSPI的定价已充分反映悲观预期，甚至存在过度折价。他的12000点目标基于7.5倍的预期市盈率，而KOSPI目前仅以5.3倍预期市盈率交易，约为过去七年均值的一半。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Moe表示，若韩国企业能够实现其盈利预测，12000点的目标&amp;quot;并不像表面看起来那么激进&amp;quot;。&lt;/strong&gt;该目标点位在三个月前设定时已是市场上最为激进的预测之一，但Moe明确表示将继续坚守这一判断，核心逻辑在于盈利的实际兑现能力。&lt;/p&gt;
+&lt;p&gt;Moe并未回避潜在风险。他承认来自竞争对手的威胁，包括长鑫存储等企业的崛起，以及美国国内对数据中心大规模扩张可能产生的政治阻力，均构成不确定因素。尽管如此，他认为上述风险在未来数年内不足以动摇先进存储芯片制造商的基本面优势。在他看来，AI基础设施投资的结构性需求仍将主导行业走向，韩国头部芯片企业在高带宽内存等先进制程领域的技术壁垒，将使其在这一轮需求浪潮中持续受益。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”</title><link>https://wallstreetcn.com/articles/3781187</link><guid>3e192071034d04a08f26b0cd30d72214e611f412bfb44901ccc272c48c46774e</guid><pubDate>Sun, 06 Sep 2026 23:47:10 GMT</pubDate><description>&lt;p&gt;当地时间6日，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区”。他表示，该“禁区”将从美国海军封锁线起算，一直延伸至波斯湾内部分水域。&lt;/p&gt;
 &lt;p&gt;雷扎伊表示，任何进入该“禁区”的船只都将被列入伊朗制裁名单。伊朗可以监测到美国船只，也可以击沉它们。“当然，伊朗没有击沉美国船只，是因为它们运载石油，一旦被击沉将破坏环境。”&lt;/p&gt;
 伊朗称即将与阿曼签署霍尔木兹海峡相关协议
 &lt;p&gt;针对伊美谈判，雷扎伊指出，美国必须赢得伊朗的信任才能继续谈判。他同时强调，美方声称霍尔木兹海峡开放“纯属谎言”。&lt;/p&gt;
@@ -21,7 +117,7 @@ AI素养成招聘硬门槛
 &lt;p&gt;当地时间6日，伊朗伊斯兰议会议长卡利巴夫在议会公开会议上表示，伊朗“对等回应”的时代已经结束，伊朗未来针对相关行动的回应力度将进一步加大。&lt;/p&gt;
 &lt;p&gt;卡利巴夫称，伊朗武装力量近期对美国基地实施的打击“仅仅是一个开始”。他表示，美方应该认识到“游戏规则已经改变”，今后任何针对伊朗利益和安全的行动，都将遭到“更迅速、更猛烈、更痛苦”的回应。&lt;/p&gt;
 &lt;p&gt;卡利巴夫说：“美国人肯定已经明白，‘对等回应’的时代已经结束。”他还表示，伊朗武装力量对美国基地实施的打击已使美国领导层“陷入困境”，其“只能发表一些空洞的言论和口号，并利用人工智能生成有关战场的图片和视频”。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://news.cctv.com/2026/09/06/ARTIrj5H8AZhNRBjjNePWfK1260906.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 黄金脱锚——布雷顿森林体系的瓦解和滞胀时代</title><link>http://xueqiu.com/9794771369/408227318</link><guid>43ff2402bc5deb94cb5bbd1ca89cc4938bd48506126512c92c8d4b1930a987bb</guid><pubDate>Sun, 06 Sep 2026 13:13:36 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;潜龙悟用&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;1950年，在战后以及布雷顿森林体系确立的第5个年头，美国的黄金储备约2万吨，占全球总储备(约3.2万吨)超过六成。&lt;/i&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么说财政部3570亿注资是A股定心丸？</title><link>http://xueqiu.com/7516820417/408238160</link><guid>bb188421404ea2878cccdc582cb368e7cc95d7a3523408fb1931f7b6a95c3ab5</guid><pubDate>Sun, 06 Sep 2026 13:12:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;评研阁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;财政部一天之内，向工行、农行、三大保险集团（国寿、人保、太平）、以及进出口银行和出口信保，一口气注资3570亿。&lt;/p&gt;</description></item><item><title>[今日雪球] 财政部注资太平：市场终于开始重估“有爹有妈”的保险股</title><link>http://xueqiu.com/3221928963/408236662</link><guid>d5e6e8f9947eaf924e443c30b4f8d937bd0932e69ef8b29f09c696f25f4fc6fb</guid><pubDate>Sun, 06 Sep 2026 13:12:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;涵泳星&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;今天这条新闻，我认为是&lt;b&gt;中国太平近期最重要的一条消息&lt;/b&gt;。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年9月7日</title><link>https://wallstreetcn.com/articles/3781183</link><guid>59f14b5413da7026c77da84b38b9d890a8a68fbdf996e5059531cd33a69f1da2</guid><pubDate>Sun, 06 Sep 2026 23:02:38 GMT</pubDate><description>华见早安之声
+&lt;p&gt;本文来源：&lt;a href="https://news.cctv.com/2026/09/06/ARTIrj5H8AZhNRBjjNePWfK1260906.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年9月7日</title><link>https://wallstreetcn.com/articles/3781183</link><guid>59f14b5413da7026c77da84b38b9d890a8a68fbdf996e5059531cd33a69f1da2</guid><pubDate>Sun, 06 Sep 2026 23:02:38 GMT</pubDate><description>华见早安之声
 
 &lt;p&gt;&lt;/p&gt;
 要闻精选
