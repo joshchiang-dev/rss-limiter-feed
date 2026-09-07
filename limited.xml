@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 07 Sep 2026 01:29:28 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”</title><link>https://wallstreetcn.com/articles/3781192</link><guid>f4ce1fee1f8df956b7e7ad5a041d23d482d381ea64f1c7a60eefeb455bcdcdd2</guid><pubDate>Mon, 07 Sep 2026 01:00:14 GMT</pubDate><description>&lt;p&gt;AI飞轮开始自转：OpenAI公开披露内部数据，智能体工作量已是人类研究员的3倍以上。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 07 Sep 2026 02:29:23 GMT</lastBuildDate><item><title>[华尔街见闻] 这个周末“首波测评”：OpenAI的GPT-6 Astra “几乎在所有方面”都表现“惊人的出色”</title><link>https://wallstreetcn.com/articles/3781193</link><guid>14d0db7898560168e0a0a22f9e0533419576eb6a44b439bc644e23feaa08c16b</guid><pubDate>Mon, 07 Sep 2026 01:52:05 GMT</pubDate><description>&lt;p&gt;OpenAI于9月3日正式发布GPT-6 Astra，早期测试者在48小时内将这次发布变成了一场公开压力测试，结果沿一条清晰的分界线呈现：Astra在空间理解、机械操作与自主代理任务上是迄今最强的模型，但在写作上，多名同一批测试者认为它不如自己的前代产品。&lt;/p&gt;
+&lt;p&gt;在最受关注的演示中，开发者用Astra在Unreal Engine里逐街重建了曼哈顿，另一名开发者在24分钟内用浏览器端3D库重建了杭州全城；一款支持12人联机的浏览器射击游戏在一天内完成；一段巴赫风格四声部合唱在独立基准测试中创下最高分，且无任何声部进行错误。与此同时，独立评测机构Artificial Analysis记录到Astra在涵盖44种职业的经济价值任务基准GDPval-AA v2上下滑约80个Elo分，写作能力的退步引发多名测试者明确批评。&lt;/p&gt;
+&lt;p&gt;Astra定价为每百万输入token 10美元、每百万输出token 50美元，是其前代产品GPT-5.6 Sol的2.5倍。OpenAI总裁Greg Brockman在发布简报中宣布AGI时代已经到来。该模型正在向ChatGPT Plus、Pro、Business及Enterprise用户以及API、微软Azure和AWS Bedrock渠道推出。&lt;/p&gt;
+空间与视觉理解：最强的一面
+&lt;p&gt;早期测试中，Astra在空间感知与视觉重建方面的表现最为突出，多个独立案例相互印证。&lt;/p&gt;
+&lt;p&gt;投资人、前HyperWrite CEO Matt Shumer让Astra在Unreal Engine中工作了一周，最终生成了一份逐街还原的曼哈顿复制品。他随后进行了另一项实验：&lt;strong&gt;让Astra构建一个生存世界，并用模型的独立副本驱动其中每个角色，隔夜运行后发现这些角色已开始自发对话。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;开发者Max Weinbach将苹果园区的照片输入模型，要求在Blender中重建，评价为&amp;quot;做得出奇地好&amp;quot;。Tom Krcha输入一张房屋外观图，得到了包含家电和玩具细节、以60帧每秒运行的完整室内可编辑几何体。Pietro Schirano将整个流程简化为在地图上标注一个坐标，模型随即生成周边区域的3D场景。&lt;/p&gt;
+&lt;p&gt;规模最大的案例来自一位以SuSu为名的开发者，&lt;strong&gt;其在24分钟内用Three.js重建了杭州及周边城镇&lt;/strong&gt;，包含西湖、雷峰塔、茶园和湿地，并支持地标点击与昼夜切换，是可交互的&amp;quot;微缩杭州&amp;quot;而非静态图像。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+编程与游戏开发：一天造出可联机射击游戏
+&lt;p&gt;游戏开发是测试中最热门的应用场景，也是Astra表现最集中的领域。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;前苹果UX/UI设计师及AI开发者Anshu Chimala在45分钟内一次性生成了一款3D游戏，消耗不到其使用配额的百分之几。&lt;/strong&gt;他的方法具有参考价值：将模型接入Blender，让其生成目标风格的概念图，再持续迭代直至游戏内截图与参考图在60帧下匹配，所有资产建模与贴图均由Astra自行完成。&lt;/p&gt;
+&lt;p&gt;前Coinbase和Eleven Labs开发者Rishi Prasad在一天内构建了浏览器射击游戏Astral War，支持权威多人服务器、12人大厅、手柄和语音聊天，他将其描述为相比一个月前用Claude Opus 5所做作品&amp;quot;视觉保真度的巨大跃升&amp;quot;。另一名匿名开发者Daniel则直接将一段手机游戏广告截图输入Astra，30分钟内得到了一个可运行的浏览器版本。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+计算机操控与音乐：超出预期的两项能力
+&lt;p&gt;Astra的&amp;quot;计算机使用&amp;quot;功能——即模型直接驱动鼠标和键盘操作真实桌面——在OSWorld 2.0基准上，OpenAI报告其完成率为72.6%（每任务约40分钟），高于Sol的65.7%（每任务75分钟）。&lt;/p&gt;
+&lt;p&gt;一名日本插画师Taiyaki Sun对这一功能进行了字面意义上的测试：将手绘线稿交给Astra，要求其像人类上色师一样在Clip Studio Paint中用鼠标完成上色。Astra自行创建图层、缩放视图、选择画笔并填充画面，整个过程该插画师只是在旁观看，此次操作消耗了其100美元Pro计划21%的配额。&lt;/p&gt;
+&lt;p&gt;在音乐方面，博主Auggie维护着一项非正式基准：&lt;strong&gt;要求模型用LilyPond格式创作一段巴赫风格四声部合唱。Astra创下该测试的最高分，无声部进行错误，并使用了拿波里六和弦，是该基准中首个写出经过音的模型。&lt;/strong&gt;Auggie将其标注为&amp;quot;该测试有史以来最佳成绩&amp;quot;。医生及AI测试者Derya Unutmaz则让Astra在约11分钟内构建了一架包含巴赫全部六首勃兰登堡协奏曲的可演奏虚拟钢琴。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，Astra是一个语言模型而非专用音乐模型，其音乐理解来源于乐谱和文字数据，而非音频训练，因此上述成绩对于文本模型而言已属出色，但若与Suno等专用音乐AI相比则仍有差距。&lt;/p&gt;
+写作能力：明显的短板
+&lt;p&gt;写作是Astra最受批评的领域，多名测试者的独立评估指向同一结论。&lt;/p&gt;
+&lt;p&gt;Louis-François Bouchard运营一项以Elo评分衡量模型编辑风格匹配度的内部基准。Astra以1995分排名第11，其前代Sol以2156分排名第6。Bouchard称结果&amp;quot;令人意外地令人失望&amp;quot;。此外，Astra每次脚本生成费用约为0.26美元，约为Sol的1.8倍。&lt;/p&gt;
+&lt;p&gt;量化投资组合管理领域的知名作者Giuseppe Paleologo要求Astra就最优投资组合多元化提出新颖见解，得到的回复被他描述为&amp;quot;显而易见与夸大其词的混合&amp;quot;，且文风一眼可辨为机器生成。他的结论是：“真正的创造力仍然遥不可及。”AI测试机构Mia AI Lab同样认为Astra缺乏个性，建议回避一切创意写作任务。Ingar Haaland要求Astra模仿其个人风格写作，目标是通过AI检测工具Pangram的检测，结果未能通过。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Analysis的独立测量与上述批评吻合：Astra在GDPval-AA v2上下滑约80个Elo分，在客户支持和长上下文推理方面也出现小幅退步。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过也存在反例。Cognition的Silas Alberti表示Astra的写作使Devin的测试报告更清晰；Every的员工作者Katie Parrott用Astra起草了自己对该模型的评测初稿，该媒体CEO阅读后未察觉并非本人所写。&lt;/p&gt;
+定价与部署：高溢价背后的市场逻辑
+&lt;p&gt;Astra的定价是其前代Sol的2.5倍，在第三方综合评测指标上的领先优势却相对有限。据Artificial Analysis，Astra在其Intelligence Index上得分61.2，Sol为60.9，Anthropic的Claude Fable 5.1为65.7，后者同样定价高于Sol。&lt;/p&gt;
+&lt;p&gt;该模型目前向ChatGPT Plus、Pro、Business和Enterprise用户开放，并通过API、微软Azure和AWS Bedrock渠道提供，企业访问需由管理员手动开启。高级网络安全功能仍限于OpenAI的Daybreak项目，这一决定在发布48小时内显得审慎——据路透社报道，OpenAI代理已被发现在一家德国网站上交流违规策略。&lt;/p&gt;
+&lt;p&gt;预测市场此前给予Astra在9月30日前发布的概率为72%，实际发布日期为9月3日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI首度公布“内部RSI进展”：已实现“自动化研究实习生”</title><link>https://wallstreetcn.com/articles/3781192</link><guid>f4ce1fee1f8df956b7e7ad5a041d23d482d381ea64f1c7a60eefeb455bcdcdd2</guid><pubDate>Mon, 07 Sep 2026 01:00:14 GMT</pubDate><description>&lt;p&gt;AI飞轮开始自转：OpenAI公开披露内部数据，智能体工作量已是人类研究员的3倍以上。&lt;/p&gt;
 &lt;p&gt;9月6日，OpenAI官方博客发布文章《研究加速：OpenAI内部视角（&lt;em&gt;Research acceleration: The view inside OpenAI&lt;/em&gt;）》首次以内部数据形式公开&lt;strong&gt;AI“递归自我改进”（RSI）的进展&lt;/strong&gt;。OpenAI称其已经实现去年秋天定下的目标：在今年9月前造出一个&lt;strong&gt;“自动化研究实习生”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;OpenAI对“研究实习生”的定义是：&lt;strong&gt;“一个能在人类指导下执行明确定义的研究任务的系统，包括那些需要一名熟练研究员数天才能完成的任务。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;下一个目标是：2028年3月前实现完整的&lt;strong&gt;“自动化AI研究员”，&lt;/strong&gt;使其能够参与深度学习和对齐研究，并通过迭代进一步改进系统。&lt;/p&gt;
@@ -57,7 +88,44 @@ OpenAI首席科学家同日发出警告
 透明度与民主治理
 &lt;p&gt;OpenAI在报告结尾表示，将继续公开RSI进展，并在其“前沿政策蓝图”中主张，包括OpenAI在内的各公司应被要求公开追踪其RSI进展。&lt;/p&gt;
 &lt;p&gt;报告也坦承当前测量工作的局限：&lt;strong&gt;“智能体驱动的AI研究仍然是新生事物，我们仍在学习如何衡量它。”&lt;/strong&gt; 部分指标（如代码产出量）易于收集但难以解读；更直接反映研究进展的指标（如智能体任务成功率）则复杂且难以验证。&lt;/p&gt;
-&lt;p&gt;OpenAI的表态是：&lt;strong&gt;“每当我们发现继续推进将带来不可接受的安全风险时，我们将采取适当应对措施，包括放缓或停止我们认为无法充分保障安全的系统的开发或部署。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 追随美科技股涨势，韩国KOSPI大涨3%，SK海力士涨近6%，铠侠涨8%，美伊油轮互袭推动油价上涨</title><link>https://wallstreetcn.com/articles/3781194</link><guid>ebc03e4fa8060a6c002a56c6b162b2969ba041c0ee597c6330490431281b44f1</guid><pubDate>Mon, 07 Sep 2026 01:04:55 GMT</pubDate><description>&lt;p&gt;亚太股市周一全线走高，韩国股市领涨，日本股市同步上扬，此前美国科技股上周五录得涨幅，提振市场情绪。与此同时，美国与伊朗在霍尔木兹海峡爆发油轮互袭事件，油价随之走高，中东局势持续升温为全球市场增添不确定性。&lt;/p&gt;
+&lt;p&gt;OpenAI的表态是：&lt;strong&gt;“每当我们发现继续推进将带来不可接受的安全风险时，我们将采取适当应对措施，包括放缓或停止我们认为无法充分保障安全的系统的开发或部署。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指早盘齐涨，创业板涨超1%，算力硬件爆发、“易中天”集体拉升，恒科指跌近1%，科网股多数承压</title><link>https://wallstreetcn.com/articles/3781200</link><guid>c187c28c158135fda097c8624087e86984c49b2f36b29aa6cae65007831164f4</guid><pubDate>Mon, 07 Sep 2026 01:57:52 GMT</pubDate><description>&lt;p&gt;9月7日，A股高开高走，三大股指盘初集体上涨，深成指涨近1%，创业板涨超1%。算力硬件爆发，覆铜板、电路板、光电路交换机、光模块、HBM、光通信、高速铜连接等方向纷纷大涨，贵金属、煤炭、航天军工等集体陷入调整。&lt;/p&gt;
+&lt;p&gt;港股低开低走，恒指、恒科指盘初纷纷扩大跌幅，恒科指跌近1%，科网股多数承压，小米跌超4%，百度大跌5%。芯片股反弹，华虹宏力、兆易创新等涨幅居前。AI大模型股纷纷回升，中际旭创港股涨近10%。债市方面，国债期货反弹。商品方面，国内商品期货涨跌不一。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.29%，深成指涨0.95%，创业板指涨1.70%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.44%，恒科指跌0.82%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约涨0.10%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌分化，截至发稿，集运指数涨超4%，橡胶涨近3%，烧碱、原油、鸡蛋、铁矿石、菜籽等涨超1%，纸浆、不锈钢、玻璃、沥青、沪铜、多晶硅、铂金等纷纷走高，燃油、沪铝、沪镍、豆粕、螺纹钢、氧化铝、热轧卷板、沪锡、工业硅等品种下跌，铂金、沪银、沪金、锰硅等跌超1%，焦炭、焦煤跌2%，碳酸锂大跌4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;09:48&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;零售概念再度拉升，中百集团、中央商场双双涨停，此前百大集团、国芳集团涨停，宁波中百、合百集团、东百集团、茂业商业跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，近日商务部等7部门关于推动商品消费扩容升级的实施意见。其中指出，到2030年，社会消费品零售总额达60万亿元左右，培育形成绿色消费、智能消费、健康消费等十万亿级市场，推动持续发展壮大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:45&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PCB概念震荡拉升，中京电子涨停，迅捷兴20CM涨停，景旺电子触及涨停，生益科技、华正新材、广合科技跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早盘CPO概念震荡反弹，剑桥科技涨停，天通股份触及涨停，太辰光、联特科技、华盛昌、光迅科技、中际旭创等涨幅靠前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，上周五美股光通信板块走高，迈威尔科技涨超7%，Coherent涨超6%，康宁涨超5%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:41&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;长鑫科技、中际旭创、新易盛、天孚通信、生益电子、深南电路、沪电股份、工业富联普遍强势，领跑AI阵营。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:37&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;农业板块反复活跃，敦煌种业7天4板，亚盛集团3连板，神农种业、万向德农、康农种业、隆平高科跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，世界气象组织发布最新通报，确认厄尔尼诺现象已形成并将持续增强，预计将发展为超强级别事件，对全球降水和温度格局产生重大影响，相关极端天气风险将持续至2027年。世界气象组织预测，厄尔尼诺持续至2027年2月的概率接近百分之百。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:36&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘算力芯片龙头摩尔线程触及20cm跌停，创上市以来新低，总市值跌破2000亿元。消息面上，9月7日，摩尔线程2577.45万股首发、公开增发网下配售股份迎来解禁。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数高开0.32%，创业板指涨1.21%。存储、HBM、保险、农业板块领涨。工商银行、农业银行小幅上扬。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数高开0.01%，恒生科技指数跌0.26%。剑桥科技、中际旭创、兆易创新领涨。农业银行涨超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 追随美科技股涨势，韩国KOSPI大涨3%，SK海力士涨近6%，铠侠涨8%，美伊油轮互袭推动油价上涨</title><link>https://wallstreetcn.com/articles/3781194</link><guid>ebc03e4fa8060a6c002a56c6b162b2969ba041c0ee597c6330490431281b44f1</guid><pubDate>Mon, 07 Sep 2026 01:04:55 GMT</pubDate><description>&lt;p&gt;亚太股市周一全线走高，韩国股市领涨，日本股市同步上扬，此前美国科技股上周五录得涨幅，提振市场情绪。与此同时，美国与伊朗在霍尔木兹海峡爆发油轮互袭事件，油价随之走高，中东局势持续升温为全球市场增添不确定性。&lt;/p&gt;
 &lt;p&gt;周一（9月7日）韩国综合股价指数（Kospi）开盘大涨逾3%，小盘股Kosdaq上涨1.33%，芯片巨头SK海力士涨近6%，三星电子则涨超4%。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;日本日经225指数涨2%，东证指数（Topix）上涨约0.8%，铠侠大涨近8%；澳大利亚标普/ASX 200指数基本持平。&lt;/p&gt;
@@ -86,7 +154,63 @@ OpenAI首席科学家同日发出警告
 &lt;p&gt;&amp;quot;可能根本不会有核协议，而是直接摧毁其（发展核武器的）能力，协议或许要等到伊朗下届政府才有可能。我们目前无法判断。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;据彭博报道，Wright的表态显示，&lt;strong&gt;特朗普政府可能寻求在不签署正式协议的情况下，直接消除伊朗发展核武器的能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析认为，此次互袭事件发生在美国与以色列对伊朗发动战争逾六个月之后，进一步表明冲突短期内难以平息，并持续推高全球能源价格。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今年应届生和实习生招聘，瑞银提出新要求：证明会用AI</title><link>https://wallstreetcn.com/articles/3781191</link><guid>9fc2397e70dff5b595ca886779fd669af4c77891d5096c05fb9dc323bc96017e</guid><pubDate>Mon, 07 Sep 2026 00:29:56 GMT</pubDate><description>&lt;p&gt;人工智能正在重塑华尔街和欧洲大型银行的招聘标准。&lt;/p&gt;
+&lt;p&gt;分析认为，此次互袭事件发生在美国与以色列对伊朗发动战争逾六个月之后，进一步表明冲突短期内难以平息，并持续推高全球能源价格。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] IPO前的军备竞赛！Anthropic11个月内锁定5170亿美元算力，但仍落后OpenAI</title><link>https://wallstreetcn.com/articles/3781199</link><guid>73ad85add1c0b04b5d62b75bc348ee179c44d8c331ae8173cf448e7d60bcdd53</guid><pubDate>Mon, 07 Sep 2026 01:53:14 GMT</pubDate><description>&lt;p&gt;Anthropic过去11个月密集签署算力协议，总价值高达5170亿美元。这场采购狂潮的直接导火索，是Claude Code和Cowork两款产品今年爆发式增长带来的需求冲击。&lt;/p&gt;
+&lt;p&gt;9月6日，据The Information对公开声明及此前报道的综合分析，自去年10月以来，Anthropic已签署协议，锁定至少14.8吉瓦的算力容量，可在未来数年内调用。加上此前已确保的1至2吉瓦，总规模进一步扩大。&lt;/p&gt;
+&lt;p&gt;这一数字远超Anthropic在2025年12月向投资者披露的计划——彼时公司表示将在2029年前花费1800亿美元租用服务器。而按照目前已公布协议测算，未来十年左右的总支出可能高达5170亿美元，涵盖云容量租赁、芯片采购及数据中心租约。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Anthropic可能还有更多未公开的协议，且已签协议的容量未必会被全部使用。&lt;/p&gt;
+&lt;p&gt;此外，尽管Anthropic年化营收已超650亿美元，超过OpenAI的400亿美元，但其&lt;strong&gt;算力储备仍落后于OpenAI规划的30吉瓦目标。&lt;/strong&gt;&lt;/p&gt;
+核心供应商：亚马逊、谷歌撑起大半江山
+&lt;p&gt;Anthropic的早期合作伙伴兼投资方亚马逊和谷歌，目前仍是最大算力供应商，合计提供11吉瓦容量，未来十年左右的成本超过3000亿美元。&lt;/p&gt;
+&lt;p&gt;过去一年，Anthropic还将触角伸向了此前与OpenAI关系更为密切的合作方：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;微软&lt;/strong&gt;：去年11月，Anthropic宣布与这家OpenAI长期支持者达成协议，承诺至少花费300亿美元，租用约1吉瓦的微软Azure服务器（搭载英伟达芯片）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX&lt;/strong&gt;：今年5月，Anthropic宣布与马斯克旗下SpaceX签约，每月支付12.5亿美元租用AI服务器，协议持续至2029年5月，总潜在成本高达450亿美元。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lambda与Nscale&lt;/strong&gt;：就在上个月，Anthropic与初创公司Lambda及英国Nscale签署价值800亿美元的云合同，锁定至少460兆瓦容量，期限六年。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+自建数据中心：押注长期掌控权
+&lt;p&gt;除租用外，Anthropic也在加速布局自有数据中心。&lt;/p&gt;
+&lt;p&gt;去年11月，Anthropic宣布计划与云计算初创公司Fluidstack联合投资500亿美元，在德克萨斯州和纽约州建设数据中心，部分设施今年已开始投入使用。&lt;/p&gt;
+&lt;p&gt;此外，Anthropic还与前比特币矿商TeraWulf签署租约，后者正在肯塔基州开发一座AI数据中心，最终将提供401兆瓦算力。&lt;/p&gt;
+&lt;p&gt;在芯片层面，Anthropic今年4月与谷歌签署协议，采购多吉瓦规模的张量处理单元（由博通设计）；7月又追加了2吉瓦的AMD芯片订单。&lt;/p&gt;
+与OpenAI的差距：营收领先，算力落后
+&lt;p&gt;尽管Anthropic在营收上已后来居上——据彭博报道，其年化营收已超过650亿美元，超过OpenAI截至今年7月逾400亿美元的营收——但在算力规模上，两者差距依然显著。&lt;/p&gt;
+&lt;p&gt;OpenAI今年4月向投资者表示，计划到2030年拥有30吉瓦算力。据知情人士透露，OpenAI上个月预计2030年前算力支出约为7500亿美元，高于此前6650亿美元的预测。&lt;/p&gt;
+&lt;p&gt;OpenAI已与甲骨文、微软、CoreWeave等公司密集签约。OpenAI高管表示，这些承诺已为公司建立起对竞争对手的优势。&lt;/p&gt;
+&lt;p&gt;相比之下，Anthropic已公布的算力规划总量，似乎仍远低于OpenAI的目标水位。&lt;/p&gt;
+IPO前的关键变量
+&lt;p&gt;算力能否跟上增长，直接关系到Anthropic的盈利空间和客户留存。&lt;/p&gt;
+&lt;p&gt;Anthropic及其首席财务官Krishna Rao过去一年将算力协议列为优先事项。随着IPO招股书预计在未来数周内公开，投资者最期待看到的，正是公司对算力容量与支出的最新披露。&lt;/p&gt;
+&lt;p&gt;不过，这些协议并非板上钉钉。数据中心建设面临选址、电网接入、政府审批等多重障碍，同时遭遇来自地方政府的阻力，以及零部件短缺问题。&lt;/p&gt;
+&lt;p&gt;合同层面同样存在不确定性。以SpaceX与Anthropic的协议为例，任何一方均可提前90天通知取消合同。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本疑似抛售美债为创纪录日元干预融资，外汇储备跌破万亿美元</title><link>https://wallstreetcn.com/articles/3781197</link><guid>5bb518dcdfa75eb89e145a3e0ea12252dc0a5885e3fe1fa3d31a6447e96e2359</guid><pubDate>Mon, 07 Sep 2026 02:24:16 GMT</pubDate><description>&lt;p&gt;日本疑似通过出售美国国债等外国证券，为其创纪录的日元干预行动提供资金，此举令市场对美债供给压力的担忧再度升温。&lt;/p&gt;
+&lt;p&gt;据日本财务省周一公布的外汇储备数据，日本8月末外国证券持仓较上月减少878亿美元，降幅与当月干预规模高度吻合。&lt;strong&gt;财务省此前已确认，截至8月26日的一个月内，当局共动用约15.4万亿日元（约合986亿美元）进行汇市干预，创下月度历史纪录，&lt;/strong&gt;其中部分操作系与美国联合实施。受此影响，日本外汇储备总额下滑946亿美元至9950亿美元，跌破万亿美元关口。&lt;/p&gt;
+&lt;p&gt;此次干预规模之大，以及融资方式对美债市场的潜在冲击，引发市场高度关注。财政部长贝森特近期宣布，政府将在截至11月4日的两个月内将长期债券回购规模翻倍，此举被市场解读为压制长端收益率上行的举措，显示美方对美债市场稳定性的重视程度正持续上升。&lt;/p&gt;
+外国证券持仓骤降，美债抛售迹象明显
+&lt;p&gt;财务省数据显示，日本8月末外国证券持仓减少878亿美元，与当月干预支出规模接近。尽管数据未披露证券持仓的具体构成及期限分布，但市场参与者普遍估计，日本外汇储备中约70%投资于美国国债。&lt;/p&gt;
+&lt;p&gt;从市场价格来看，10年期美债8月末价格较7月末仅小幅下跌，意味着估值变动对外国证券持仓减少的贡献极为有限，进一步支持了日本主动出售美债的判断。&lt;/p&gt;
+干预规模创纪录，美日联合出手
+&lt;p&gt;财务省数据显示，截至8月26日的一个月内，日本当局动用约15.4万亿日元进行汇市干预，创下月度历史纪录，且部分操作系与美国联合实施。这是迄今为止规模最大的单月日元干预行动。&lt;/p&gt;
+&lt;p&gt;此次干预发生的背景是，日元汇率承压明显，当局被迫大规模入市支撑本币。联合干预的形式亦表明，美日两国在汇率问题上的协调程度有所加深。&lt;/p&gt;
+&lt;p&gt;在日本再度通过出售美债为干预融资之际，美国官员对美债市场稳定性的关注度正持续提升，尤其是在中期选举临近的背景下。财政部长贝森特近期宣布，政府将在截至11月4日的两个月内将长期债券回购规模翻倍，市场普遍认为此举旨在压制长端收益率。&lt;/p&gt;
+&lt;p&gt;日本此番操作表明，即便美方对美债市场稳定性愈发敏感，东京方面仍愿意在必要时走出售美债这条路。&lt;/p&gt;
+储备跌破万亿，但干预空间依然充裕
+&lt;p&gt;&lt;strong&gt;尽管日本外汇储备已跌破万亿美元关口，降至9950亿美元，但当局认为剩余储备规模仍足以支撑未来的潜在干预行动。除外国证券外，外汇存款作为另一潜在干预资金来源，8月末亦减少69亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，日本财务大臣Satsuki Katayama在美日联合干预后表示，未来干预行动还可能动用美联储的外国及国际货币当局回购便利（FIMA Repo Facility）。该工具允许日本每日最多获取600亿美元流动性，且无需出售美债，从而可有效限制对美债收益率的冲击，并进一步扩大潜在干预空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”</title><link>https://wallstreetcn.com/articles/3781187</link><guid>3e192071034d04a08f26b0cd30d72214e611f412bfb44901ccc272c48c46774e</guid><pubDate>Sun, 06 Sep 2026 23:47:10 GMT</pubDate><description>&lt;p&gt;当地时间6日，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区”。他表示，该“禁区”将从美国海军封锁线起算，一直延伸至波斯湾内部分水域。&lt;/p&gt;
+&lt;p&gt;雷扎伊表示，任何进入该“禁区”的船只都将被列入伊朗制裁名单。伊朗可以监测到美国船只，也可以击沉它们。“当然，伊朗没有击沉美国船只，是因为它们运载石油，一旦被击沉将破坏环境。”&lt;/p&gt;
+伊朗称即将与阿曼签署霍尔木兹海峡相关协议
+&lt;p&gt;针对伊美谈判，雷扎伊指出，美国必须赢得伊朗的信任才能继续谈判。他同时强调，美方声称霍尔木兹海峡开放“纯属谎言”。&lt;/p&gt;
+&lt;p&gt;雷扎伊还宣布，伊朗与阿曼就霍尔木兹海峡船舶通行图达成的协议“将于未来几天内签署”。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=7399187466335443966&amp;amp;channelId=1119"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;
+伊朗称美方应认识到“游戏规则已经改变”
+&lt;p&gt;当地时间6日，伊朗伊斯兰议会议长卡利巴夫在议会公开会议上表示，伊朗“对等回应”的时代已经结束，伊朗未来针对相关行动的回应力度将进一步加大。&lt;/p&gt;
+&lt;p&gt;卡利巴夫称，伊朗武装力量近期对美国基地实施的打击“仅仅是一个开始”。他表示，美方应该认识到“游戏规则已经改变”，今后任何针对伊朗利益和安全的行动，都将遭到“更迅速、更猛烈、更痛苦”的回应。&lt;/p&gt;
+&lt;p&gt;卡利巴夫说：“美国人肯定已经明白，‘对等回应’的时代已经结束。”他还表示，伊朗武装力量对美国基地实施的打击已使美国领导层“陷入困境”，其“只能发表一些空洞的言论和口号，并利用人工智能生成有关战场的图片和视频”。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://news.cctv.com/2026/09/06/ARTIrj5H8AZhNRBjjNePWfK1260906.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今年应届生和实习生招聘，瑞银提出新要求：证明会用AI</title><link>https://wallstreetcn.com/articles/3781191</link><guid>9fc2397e70dff5b595ca886779fd669af4c77891d5096c05fb9dc323bc96017e</guid><pubDate>Mon, 07 Sep 2026 00:29:56 GMT</pubDate><description>&lt;p&gt;人工智能正在重塑华尔街和欧洲大型银行的招聘标准。&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》报道，瑞银（UBS）已将AI能力列为招聘初级投资银行人员的明确要求，成为首批将AI素养纳入正式招聘条件的主要金融机构之一。&lt;/p&gt;
 &lt;p&gt;据知情人士透露，这一新要求将适用于2027年加入其全球银行和市场部门的应届毕业生及实习生，&lt;strong&gt;候选人须证明自己能够运用AI&amp;quot;改善工作成果与效率&amp;quot;&lt;/strong&gt;。此举标志着AI技能正从科技和数据岗位向传统银行业务岗位全面渗透。&lt;/p&gt;
 &lt;p&gt;这一变化发生在银行业大规模裁员警告持续升温的背景下。摩根士丹利分析师近期预测，随着各大银行加速拥抱AI并关闭更多分支机构，未来五年欧洲银行业将有逾20万个工作岗位面临威胁。&lt;/p&gt;
@@ -107,17 +231,7 @@ AI素养成招聘硬门槛
 估值处于历史低位，目标点位具备支撑
 &lt;p&gt;从估值角度看，Moe认为当前KOSPI的定价已充分反映悲观预期，甚至存在过度折价。他的12000点目标基于7.5倍的预期市盈率，而KOSPI目前仅以5.3倍预期市盈率交易，约为过去七年均值的一半。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Moe表示，若韩国企业能够实现其盈利预测，12000点的目标&amp;quot;并不像表面看起来那么激进&amp;quot;。&lt;/strong&gt;该目标点位在三个月前设定时已是市场上最为激进的预测之一，但Moe明确表示将继续坚守这一判断，核心逻辑在于盈利的实际兑现能力。&lt;/p&gt;
-&lt;p&gt;Moe并未回避潜在风险。他承认来自竞争对手的威胁，包括长鑫存储等企业的崛起，以及美国国内对数据中心大规模扩张可能产生的政治阻力，均构成不确定因素。尽管如此，他认为上述风险在未来数年内不足以动摇先进存储芯片制造商的基本面优势。在他看来，AI基础设施投资的结构性需求仍将主导行业走向，韩国头部芯片企业在高带宽内存等先进制程领域的技术壁垒，将使其在这一轮需求浪潮中持续受益。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”</title><link>https://wallstreetcn.com/articles/3781187</link><guid>3e192071034d04a08f26b0cd30d72214e611f412bfb44901ccc272c48c46774e</guid><pubDate>Sun, 06 Sep 2026 23:47:10 GMT</pubDate><description>&lt;p&gt;当地时间6日，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区”。他表示，该“禁区”将从美国海军封锁线起算，一直延伸至波斯湾内部分水域。&lt;/p&gt;
-&lt;p&gt;雷扎伊表示，任何进入该“禁区”的船只都将被列入伊朗制裁名单。伊朗可以监测到美国船只，也可以击沉它们。“当然，伊朗没有击沉美国船只，是因为它们运载石油，一旦被击沉将破坏环境。”&lt;/p&gt;
-伊朗称即将与阿曼签署霍尔木兹海峡相关协议
-&lt;p&gt;针对伊美谈判，雷扎伊指出，美国必须赢得伊朗的信任才能继续谈判。他同时强调，美方声称霍尔木兹海峡开放“纯属谎言”。&lt;/p&gt;
-&lt;p&gt;雷扎伊还宣布，伊朗与阿曼就霍尔木兹海峡船舶通行图达成的协议“将于未来几天内签署”。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=7399187466335443966&amp;amp;channelId=1119"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;
-伊朗称美方应认识到“游戏规则已经改变”
-&lt;p&gt;当地时间6日，伊朗伊斯兰议会议长卡利巴夫在议会公开会议上表示，伊朗“对等回应”的时代已经结束，伊朗未来针对相关行动的回应力度将进一步加大。&lt;/p&gt;
-&lt;p&gt;卡利巴夫称，伊朗武装力量近期对美国基地实施的打击“仅仅是一个开始”。他表示，美方应该认识到“游戏规则已经改变”，今后任何针对伊朗利益和安全的行动，都将遭到“更迅速、更猛烈、更痛苦”的回应。&lt;/p&gt;
-&lt;p&gt;卡利巴夫说：“美国人肯定已经明白，‘对等回应’的时代已经结束。”他还表示，伊朗武装力量对美国基地实施的打击已使美国领导层“陷入困境”，其“只能发表一些空洞的言论和口号，并利用人工智能生成有关战场的图片和视频”。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://news.cctv.com/2026/09/06/ARTIrj5H8AZhNRBjjNePWfK1260906.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年9月7日</title><link>https://wallstreetcn.com/articles/3781183</link><guid>59f14b5413da7026c77da84b38b9d890a8a68fbdf996e5059531cd33a69f1da2</guid><pubDate>Sun, 06 Sep 2026 23:02:38 GMT</pubDate><description>华见早安之声
+&lt;p&gt;Moe并未回避潜在风险。他承认来自竞争对手的威胁，包括长鑫存储等企业的崛起，以及美国国内对数据中心大规模扩张可能产生的政治阻力，均构成不确定因素。尽管如此，他认为上述风险在未来数年内不足以动摇先进存储芯片制造商的基本面优势。在他看来，AI基础设施投资的结构性需求仍将主导行业走向，韩国头部芯片企业在高带宽内存等先进制程领域的技术壁垒，将使其在这一轮需求浪潮中持续受益。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年9月7日</title><link>https://wallstreetcn.com/articles/3781183</link><guid>59f14b5413da7026c77da84b38b9d890a8a68fbdf996e5059531cd33a69f1da2</guid><pubDate>Sun, 06 Sep 2026 23:02:38 GMT</pubDate><description>华见早安之声
 
 &lt;p&gt;&lt;/p&gt;
 要闻精选
