@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 06:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 07:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
 &lt;p&gt;Murphy周二在CNBC节目中表示，&lt;strong&gt;在这个市场，超大规模云厂商及其周边生态，本质上建立在信任之上。&lt;/strong&gt;我认为信任在我们的品牌和信誉中发挥了至关重要的作用。他强调，超大规模云厂商需要确信供应商能够按时、大规模地交付日益复杂的芯片，而Marvell正是凭借这一能力赢得了市场认可。&lt;/p&gt;
 &lt;p&gt;这一信任优势已转化为实质性的业务增长。根据FactSet数据，Marvell数据中心营收预计在2027财年增长60%，并在2028财年进一步加速至61%的增速。公司计划于10月初举办投资者日，届时有望披露更多长期财务目标，市场对此高度关注。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -82,42 +82,28 @@ Helios超额订单：算力需求的微观验证
 技术迭代缩小与英伟达差距，与Cerebras合作深耕推理市场
 &lt;p&gt;面向英伟达的生态壁垒，AMD正通过技术迭代与外部合作缩小追赶差距。管理层透露，正与三大核心客户就下一代MI500及MI600芯片开展深入技术合作。&lt;/p&gt;
 &lt;p&gt;此外，AMD还披露了与Cerebras的合作关系，并透露内部已有尚未公开的计划，旨在进一步深耕低延迟推理市场。&lt;/p&gt;
-&lt;p&gt;随着MI450 GPU本季度发布并在第四季度放量，Helios的季度出货斜率能否兑现，将是检验这份翻倍TAM预期成色的第一个观测点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停</title><link>https://wallstreetcn.com/articles/3781396</link><guid>36212b359aac413ad489acec749c13dd92f31675e7482a8bb8ab76858bbb5ac0</guid><pubDate>Wed, 09 Sep 2026 06:15:50 GMT</pubDate><description>&lt;p&gt;GPT-6 Astra的发布正在引发一场算力与容量危机。OpenAI核心产品负责人Tibo公开示警：&lt;strong&gt;Astra的用户需求已超出历史经验，公司可能不得不暂停新的Pro订阅。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tibo在X平台发文称，“Astra的需求真的是前所未有。我们已经在拉动所有能拉的杠杆来维持服务，但直到现在，我从未见过任何类似的情况——而我们此前已经经历过非常陡峭的增长。”他表示，首要原则是确保现有用户的服务质量，但如果需求持续，“我们可能不得不暂时暂停新的Pro订阅”。这是OpenAI高管首次就单一模型需求公开发出供给预警。&lt;/p&gt;
-&lt;p&gt;市场影响不止于此。摩根士丹利在9月7日的报告中指出，&lt;strong&gt;GPT-6 Astra的重要性在于它将AI的瓶颈叙事，从“已知需求需要多少基础设施”扭转为“随着模型智能提升，有多少新工作负载将变得经济上可行”——前者是需求侧质疑，后者是供给侧压力。这对算力、电力和半导体产业链的定价逻辑均构成直接影响。&lt;/strong&gt;&lt;/p&gt;
-
-Tibo是谁：从“额度之神”到OpenAI核心产品掌舵人
-
-&lt;p&gt;Tibo全名Thibault Sottiaux，2024年从Google DeepMind加入OpenAI。在DeepMind的六年间，他参与搭建了支撑AlphaGo、AlphaStar等项目的基础设施，并在离职前短暂领导了Gemini的人类数据团队。&lt;/p&gt;
-&lt;p&gt;加入OpenAI后，他迅速从内部工具开发转向面向用户的产品。&lt;strong&gt;他率领一支最初仅30至40人的团队构建了Codex，并于2025年5月将其公开发布。Codex活跃用户随后以每天百万级的速度增长，至今年7月已达800万，远早于此前预测的9月里程碑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2026年5月OpenAI内部大重组后，Tibo的职责进一步扩大——ChatGPT、Codex与开发者API三条产品线全部合并，统一由他负责执行，Greg Brockman负责整体产品战略。这意味着他掌管的是一个面向近10亿用户的超级应用入口。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo在X平台上以频繁为用户重置Codex额度著称，被开发者社区戏称为“赛博义父”和“掌管Token水龙头的神”，甚至出现了专门追踪其重置动态的民间网站TiboGPT。&lt;/strong&gt;这种高度透明的公开互动，已成为Codex产品体验的组成部分。&lt;/p&gt;
-
-Astra的能力跃升：从Answer Engine到AI Agent
-
-&lt;p&gt;GPT-6 Astra的发布标志着一次实质性的能力边界扩张。OpenAI明确描述其能力为：操作计算机、浏览网页、使用软件、编写和运行代码、完成复杂工作流，并在科学、网络安全和专业领域执行长程任务。&lt;/p&gt;
-&lt;p&gt;在OSWorld 2.0测试中——该测试由CMU及斯坦福等团队提出，考察AI Agent在数字环境中完成复杂任务的能力并与人类专家基线对比——Astra得分72.6%，高于GPT-5.6 Sol的65.7%；完成任务的模拟时间从约75分钟压缩至约40分钟。&lt;/p&gt;
-&lt;p&gt;这一变化的核心意义在于：&lt;strong&gt;AI正在从“回答得更好”，走向“成功把事情做完”。&lt;/strong&gt;AI的工作模式由此从“人→AI→答案”，演变为“人→AI Agent→任务→执行→结果”。Tibo本人在公开分享中透露，他每天向Codex分配超过100个复杂任务，包括整理资源、检查值班轮换、分析发布计划等，并使用Codex生成个性化的每日工作简报。&lt;/p&gt;
-
-Token需求的乘数效应：工作能力提升与消耗成正比
-
-&lt;p&gt;Astra的能力跃升，将从根本上改变AI需求的测算逻辑。在Answer Engine时代，AI需求可以近似用“用户数×ARPU”衡量；但在AI Agent时代，这一公式已经失效。&lt;/p&gt;
-&lt;p&gt;Token总需求可以粗略表达为：Agent数量 × 每Agent任务数 × 每任务Token消耗。这三个变量在Astra发布后均面临同步扩张的压力。&lt;/p&gt;
-&lt;p&gt;首先是Agent数量的增加。&lt;strong&gt;一个人可能同时运行个人助理、编程、研究、财务等多个Agent，企业端则可能从数十个扩展至数千个。其次是单个Agent承接的任务复杂度上升——模型越能完成复杂任务，用户就越倾向于将更重、更长的工作交给Agent执行。第三是Agent从“偶尔调用”变为“持续运行”：任务越复杂，推理链越长，上下文越大，工具调用越多，Token消耗越大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着完全可能出现Agent数量增长20%、但Token总需求增长300%的情形。Tibo对Astra需求的预警，与这一逻辑高度吻合：能力提升直接驱动消耗放大，两者呈正相关。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指震荡走高，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，恒科指跌0.6%，海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 04:04:50 GMT</pubDate><description>&lt;p&gt;光通信大涨，长飞光纤一度涨停，此前&lt;a href="https://wallstreetcn.com/articles/3781337"&gt;华尔街见闻文章&lt;/a&gt;写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案&lt;/p&gt;
-&lt;p&gt;9月9日，A股三大指数早盘走势分化，沪指震荡走强、深成指与创业板指高开低走转绿，算力硬件局部爆发，高速铜连接、电路板、光通信等概念股集体拉升，航运、煤炭等板块活跃，AI应用、文化传媒、房地产等板块陷入调整。&lt;/p&gt;
-&lt;p&gt;港股震荡下跌，恒指震荡回升，恒科指延续跌势，科网股多数走低，芯片半导体反弹，海底捞低开低走，盘初一度跌超10%。值得注意的是，宁德时代A股和H股延续跌势。债市方面，国债期货全线反弹。商品方面，国内商品期货多数下跌，贵金属期货跌幅居前。核心市场走势：&lt;/p&gt;
+&lt;p&gt;随着MI450 GPU本季度发布并在第四季度放量，Helios的季度出货斜率能否兑现，将是检验这份翻倍TAM预期成色的第一个观测点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指午后集体翻绿，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，恒科指跌1%，海底捞大跌10%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 05:31:16 GMT</pubDate><description>&lt;p&gt;光通信大涨，长飞光纤一度涨停，此前&lt;a href="https://wallstreetcn.com/articles/3781337"&gt;华尔街见闻文章&lt;/a&gt;写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案&lt;/p&gt;
+&lt;p&gt;9月9日，A股午后震荡走低，三大股指集体翻绿，算力硬件局部爆发，高速铜连接、电路板、光通信等概念股集体拉升，航运、煤炭等板块活跃，AI应用、文化传媒、房地产等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股午后亦震荡下跌，恒指回落，恒科指跌幅扩大至1%，科网股多数走低，芯片半导体反弹，海底捞低开低走，盘初一度跌超10%。值得注意的是，宁德时代A股和H股延续跌势。债市方面，国债期货全线反弹。商品方面，国内商品期货多数下跌，贵金属期货跌幅居前。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.24%，深成指跌0.06%，创业板指跌0.34%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.04%，深成指跌0.30%，创业板指跌0.64%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指持平，恒科指跌0.58%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.30%，恒科指跌1.00%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线反弹，截至发稿，30年期主力合约涨0.02%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至发稿，能源品涨幅居前，原油涨4.75%；化工品多数上涨，苯乙烯涨2.32%；航运期货全部上涨，集运指数(欧线)涨1.47%；非金属建材多数上涨，PVC涨0.77%；基本金属多数上涨，氧化铝涨0.54%；贵金属跌幅居前，钯跌2.86%；黑色系涨跌参半，硅铁跌2.40%；油脂油料多数下跌，棕榈油跌1.39%；农副产品多数下跌，红枣跌1.01%；新能源材料多数下跌，碳酸锂跌0.73%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;13:30&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科创综指、科创50均跌超1%，联讯仪器、沐曦股份、盛合晶微、摩尔线程、佰维存储明显承压。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A股三大指数午后集体翻绿。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;恒生科技指数午后跌超1%，京东健康、理想汽车、美团、小米集团、比亚迪电子、网易领跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;12:02&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;大型科网股走势分化，百度涨超3%，阿里巴巴、腾讯飘红，美团跌2.6%，小米跌超2%，京东跌1.8%；光通信概念股、PCB概念股、存储半导体股再度活跃领涨，长飞光纤、中际旭创皆强势。另外，海底捞大跌超9%拖累餐饮股走低，内银股集体回调。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -158,7 +144,30 @@ Token需求的乘数效应：工作能力提升与消耗成正比
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;09:21&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.04%，恒生科技指数涨0.1%。中际旭创、剑桥科技、长飞光纤光缆、潍柴动力走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停</title><link>https://wallstreetcn.com/articles/3781396</link><guid>36212b359aac413ad489acec749c13dd92f31675e7482a8bb8ab76858bbb5ac0</guid><pubDate>Wed, 09 Sep 2026 06:15:50 GMT</pubDate><description>&lt;p&gt;GPT-6 Astra的发布正在引发一场算力与容量危机。OpenAI核心产品负责人Tibo公开示警：&lt;strong&gt;Astra的用户需求已超出历史经验，公司可能不得不暂停新的Pro订阅。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tibo在X平台发文称，“Astra的需求真的是前所未有。我们已经在拉动所有能拉的杠杆来维持服务，但直到现在，我从未见过任何类似的情况——而我们此前已经经历过非常陡峭的增长。”他表示，首要原则是确保现有用户的服务质量，但如果需求持续，“我们可能不得不暂时暂停新的Pro订阅”。这是OpenAI高管首次就单一模型需求公开发出供给预警。&lt;/p&gt;
+&lt;p&gt;市场影响不止于此。摩根士丹利在9月7日的报告中指出，&lt;strong&gt;GPT-6 Astra的重要性在于它将AI的瓶颈叙事，从“已知需求需要多少基础设施”扭转为“随着模型智能提升，有多少新工作负载将变得经济上可行”——前者是需求侧质疑，后者是供给侧压力。这对算力、电力和半导体产业链的定价逻辑均构成直接影响。&lt;/strong&gt;&lt;/p&gt;
+
+Tibo是谁：从“额度之神”到OpenAI核心产品掌舵人
+
+&lt;p&gt;Tibo全名Thibault Sottiaux，2024年从Google DeepMind加入OpenAI。在DeepMind的六年间，他参与搭建了支撑AlphaGo、AlphaStar等项目的基础设施，并在离职前短暂领导了Gemini的人类数据团队。&lt;/p&gt;
+&lt;p&gt;加入OpenAI后，他迅速从内部工具开发转向面向用户的产品。&lt;strong&gt;他率领一支最初仅30至40人的团队构建了Codex，并于2025年5月将其公开发布。Codex活跃用户随后以每天百万级的速度增长，至今年7月已达800万，远早于此前预测的9月里程碑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026年5月OpenAI内部大重组后，Tibo的职责进一步扩大——ChatGPT、Codex与开发者API三条产品线全部合并，统一由他负责执行，Greg Brockman负责整体产品战略。这意味着他掌管的是一个面向近10亿用户的超级应用入口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tibo在X平台上以频繁为用户重置Codex额度著称，被开发者社区戏称为“赛博义父”和“掌管Token水龙头的神”，甚至出现了专门追踪其重置动态的民间网站TiboGPT。&lt;/strong&gt;这种高度透明的公开互动，已成为Codex产品体验的组成部分。&lt;/p&gt;
+
+Astra的能力跃升：从Answer Engine到AI Agent
+
+&lt;p&gt;GPT-6 Astra的发布标志着一次实质性的能力边界扩张。OpenAI明确描述其能力为：操作计算机、浏览网页、使用软件、编写和运行代码、完成复杂工作流，并在科学、网络安全和专业领域执行长程任务。&lt;/p&gt;
+&lt;p&gt;在OSWorld 2.0测试中——该测试由CMU及斯坦福等团队提出，考察AI Agent在数字环境中完成复杂任务的能力并与人类专家基线对比——Astra得分72.6%，高于GPT-5.6 Sol的65.7%；完成任务的模拟时间从约75分钟压缩至约40分钟。&lt;/p&gt;
+&lt;p&gt;这一变化的核心意义在于：&lt;strong&gt;AI正在从“回答得更好”，走向“成功把事情做完”。&lt;/strong&gt;AI的工作模式由此从“人→AI→答案”，演变为“人→AI Agent→任务→执行→结果”。Tibo本人在公开分享中透露，他每天向Codex分配超过100个复杂任务，包括整理资源、检查值班轮换、分析发布计划等，并使用Codex生成个性化的每日工作简报。&lt;/p&gt;
+
+Token需求的乘数效应：工作能力提升与消耗成正比
+
+&lt;p&gt;Astra的能力跃升，将从根本上改变AI需求的测算逻辑。在Answer Engine时代，AI需求可以近似用“用户数×ARPU”衡量；但在AI Agent时代，这一公式已经失效。&lt;/p&gt;
+&lt;p&gt;Token总需求可以粗略表达为：Agent数量 × 每Agent任务数 × 每任务Token消耗。这三个变量在Astra发布后均面临同步扩张的压力。&lt;/p&gt;
+&lt;p&gt;首先是Agent数量的增加。&lt;strong&gt;一个人可能同时运行个人助理、编程、研究、财务等多个Agent，企业端则可能从数十个扩展至数千个。其次是单个Agent承接的任务复杂度上升——模型越能完成复杂任务，用户就越倾向于将更重、更长的工作交给Agent执行。第三是Agent从“偶尔调用”变为“持续运行”：任务越复杂，推理链越长，上下文越大，工具调用越多，Token消耗越大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着完全可能出现Agent数量增长20%、但Token总需求增长300%的情形。Tibo对Astra需求的预警，与这一逻辑高度吻合：能力提升直接驱动消耗放大，两者呈正相关。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
 &lt;p&gt;苹果新任CEO John Ternus今晚将登上他接掌帅印后的第一个发布会舞台。他在上周&lt;a href="https://wallstreetcn.com/articles/3781109?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;致员工的信&lt;/a&gt;中写道：“我对公司即将推出的一系列重磅新品充满期待。下周我们将迎来一场堪称非凡的发布盛会，而更令我振奋的，是那之后的更多惊喜——既有那些已蓄势待发的杰出产品，也有我们尚未构想的新品。”&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美银证券分析师Wamsi Mohan在9月8日发布的研究报告中指出，今晚发布会的三大核心看点分别是：&lt;strong&gt;苹果首款折叠iPhone、Pro系列潜在的大幅涨价，以及将低价iPhone机型推迟至2027年春季发布的节奏调整。&lt;/strong&gt;三件事叠加在一起，让这场发布会成为近年来看点最密集的一次。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
