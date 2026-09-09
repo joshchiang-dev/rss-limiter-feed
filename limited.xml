@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 09:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] Deepseek官宣降价！缓存命中单价0.02元、未命中1元，价差50倍</title><link>https://wallstreetcn.com/articles/3781407</link><guid>c10d944bcb75c400a14fa9942611861afa30be9a50c2ef36985dc84a9db63b96</guid><pubDate>Wed, 09 Sep 2026 09:27:35 GMT</pubDate><description>&lt;p&gt;DeepSeek再度调整API定价策略，这次并非简单的全面降价，而是将降价重点放在“缓存命中”上，同时引入高峰、空闲时段差异化计费，进一步瞄准高频调用和长上下文场景。&lt;/p&gt;
-&lt;p&gt;根据DeepSeek开放平台公告，Flash系列将于北京时间2026年9月10日12:00起实施新定价。&lt;strong&gt;空闲时段输入缓存命中单价降至0.02元/千token，缓存未命中单价为1元，二者价差达到50倍；输出单价为4元。&lt;/strong&gt;高峰时段（北京时间周一至周五9:00-12:00、14:00-18:00）各项价格均为闲时的2倍。&lt;/p&gt;
-&lt;p&gt;这意味着，&lt;strong&gt;对于能够反复复用相同上下文的应用，API成本可能出现明显下降。&lt;/strong&gt;简单来说，所谓“缓存命中”，就是模型此前已经处理过的一部分内容，在后续请求中无需重新完整计算，系统可以直接复用相关结果。对于长提示词、固定系统指令或持续对话等场景，这部分内容往往占据输入token的大头，&lt;strong&gt;因此缓存命中率越高，降本效果越明显。&lt;/strong&gt;&lt;/p&gt;
-新定价结构：让价格跟着使用方式走
-&lt;p&gt;此次调整最明显的变化，是API价格不再只由调用量决定，而是与&lt;strong&gt;调用时间和内容是否重复&lt;/strong&gt;同时挂钩。&lt;/p&gt;
-&lt;p&gt;对于开发者而言，这意味着同样调用100万token，如果大部分内容能够被缓存，成本可能远低于每次都重新输入。尤其是RAG、代码助手、客服机器人、Agent等应用，往往存在大量重复的系统指令、知识库和历史上下文，更容易从这一机制中受益。&lt;/p&gt;
-&lt;p&gt;这也会改变开发者的成本优化方式。过去主要是选择更便宜的模型、减少token消耗；现在则可以进一步通过固定上下文、拆分动态内容等方式提高缓存命中率。换言之，&lt;strong&gt;API成本管理开始从“少用token”延伸到“让token尽可能复用”。&lt;/strong&gt;&lt;/p&gt;
-降价背后：既抢用户，也调算力
-&lt;p&gt;从平台角度看，缓存和时段优惠并不只是给用户“打折”，背后还有明显的算力调度逻辑。&lt;/p&gt;
-&lt;p&gt;缓存命中意味着部分输入无需重复计算，可以降低相同请求反复处理带来的算力消耗；而闲时折扣则是在价格层面鼓励用户错峰，把部分非实时任务从工作日高峰转移出去。&lt;strong&gt;两者结合，本质上都是在提高有限算力资源的利用效率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于DeepSeek而言，这种模式还有另一层意义：它重点优惠的是能够形成稳定、高频调用的用户，而不是无差别降低所有请求的价格。RAG、代码助手、客服和Agent等应用一旦建立在API之上，迁移成本通常也会随着调用量和业务深度增加，因此这类用户的长期价值更高。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 10:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
 &lt;p&gt;Murphy周二在CNBC节目中表示，&lt;strong&gt;在这个市场，超大规模云厂商及其周边生态，本质上建立在信任之上。&lt;/strong&gt;我认为信任在我们的品牌和信誉中发挥了至关重要的作用。他强调，超大规模云厂商需要确信供应商能够按时、大规模地交付日益复杂的芯片，而Marvell正是凭借这一能力赢得了市场认可。&lt;/p&gt;
 &lt;p&gt;这一信任优势已转化为实质性的业务增长。根据FactSet数据，Marvell数据中心营收预计在2027财年增长60%，并在2028财年进一步加速至61%的增速。公司计划于10月初举办投资者日，届时有望披露更多长期财务目标，市场对此高度关注。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -54,7 +44,17 @@
 更大问题悬而未决
 &lt;p&gt;除规模之外，市场还在等待更多信息。&lt;/p&gt;
 &lt;p&gt;8月19日的声明曾提及，更新后的回购暂定计划“将于稍后发布”，但至今未见。此外，回购资金来源同样不明——市场普遍假设财政部将增发短期国库券（期限不超过12个月），但也有猜测认为财政部可能动用其一般账户现金余额。&lt;/p&gt;
-&lt;p&gt;鉴于上月的突然行动，部分投资者预计财政部此次将不会给出超出本次回购之外的更多指引，继续维持逐案处理的方式。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 9月加息，美联储最不坏的选择？</title><link>https://wallstreetcn.com/articles/3781373</link><guid>54e4825eec530d5e396af36aa5e20f53580dff3f5bbccd6ca6fc9cf59ba894fc</guid><pubDate>Wed, 09 Sep 2026 02:54:31 GMT</pubDate><description>&lt;p&gt;超预期非农数据将美联储9月加息概率推至60%，令美联储主席沃什陷入&amp;quot;辜负市场&amp;quot;还是&amp;quot;辜负特朗普&amp;quot;的两难困境。&lt;/p&gt;
+&lt;p&gt;鉴于上月的突然行动，部分投资者预计财政部此次将不会给出超出本次回购之外的更多指引，继续维持逐案处理的方式。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Deepseek官宣降价！缓存命中单价0.02元、未命中1元，价差50倍</title><link>https://wallstreetcn.com/articles/3781407</link><guid>c10d944bcb75c400a14fa9942611861afa30be9a50c2ef36985dc84a9db63b96</guid><pubDate>Wed, 09 Sep 2026 09:27:35 GMT</pubDate><description>&lt;p&gt;DeepSeek再度调整API定价策略，这次并非简单的全面降价，而是将降价重点放在“缓存命中”上，同时引入高峰、空闲时段差异化计费，进一步瞄准高频调用和长上下文场景。&lt;/p&gt;
+&lt;p&gt;根据DeepSeek开放平台公告，Flash系列将于北京时间2026年9月10日12:00起实施新定价。&lt;strong&gt;空闲时段输入缓存命中单价降至0.02元/千token，缓存未命中单价为1元，二者价差达到50倍；输出单价为4元。&lt;/strong&gt;高峰时段（北京时间周一至周五9:00-12:00、14:00-18:00）各项价格均为闲时的2倍。&lt;/p&gt;
+&lt;p&gt;这意味着，&lt;strong&gt;对于能够反复复用相同上下文的应用，API成本可能出现明显下降。&lt;/strong&gt;简单来说，所谓“缓存命中”，就是模型此前已经处理过的一部分内容，在后续请求中无需重新完整计算，系统可以直接复用相关结果。对于长提示词、固定系统指令或持续对话等场景，这部分内容往往占据输入token的大头，&lt;strong&gt;因此缓存命中率越高，降本效果越明显。&lt;/strong&gt;&lt;/p&gt;
+新定价结构：让价格跟着使用方式走
+&lt;p&gt;此次调整最明显的变化，是API价格不再只由调用量决定，而是与&lt;strong&gt;调用时间和内容是否重复&lt;/strong&gt;同时挂钩。&lt;/p&gt;
+&lt;p&gt;对于开发者而言，这意味着同样调用100万token，如果大部分内容能够被缓存，成本可能远低于每次都重新输入。尤其是RAG、代码助手、客服机器人、Agent等应用，往往存在大量重复的系统指令、知识库和历史上下文，更容易从这一机制中受益。&lt;/p&gt;
+&lt;p&gt;这也会改变开发者的成本优化方式。过去主要是选择更便宜的模型、减少token消耗；现在则可以进一步通过固定上下文、拆分动态内容等方式提高缓存命中率。换言之，&lt;strong&gt;API成本管理开始从“少用token”延伸到“让token尽可能复用”。&lt;/strong&gt;&lt;/p&gt;
+降价背后：既抢用户，也调算力
+&lt;p&gt;从平台角度看，缓存和时段优惠并不只是给用户“打折”，背后还有明显的算力调度逻辑。&lt;/p&gt;
+&lt;p&gt;缓存命中意味着部分输入无需重复计算，可以降低相同请求反复处理带来的算力消耗；而闲时折扣则是在价格层面鼓励用户错峰，把部分非实时任务从工作日高峰转移出去。&lt;strong&gt;两者结合，本质上都是在提高有限算力资源的利用效率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于DeepSeek而言，这种模式还有另一层意义：它重点优惠的是能够形成稳定、高频调用的用户，而不是无差别降低所有请求的价格。RAG、代码助手、客服和Agent等应用一旦建立在API之上，迁移成本通常也会随着调用量和业务深度增加，因此这类用户的长期价值更高。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 9月加息，美联储最不坏的选择？</title><link>https://wallstreetcn.com/articles/3781373</link><guid>54e4825eec530d5e396af36aa5e20f53580dff3f5bbccd6ca6fc9cf59ba894fc</guid><pubDate>Wed, 09 Sep 2026 02:54:31 GMT</pubDate><description>&lt;p&gt;超预期非农数据将美联储9月加息概率推至60%，令美联储主席沃什陷入&amp;quot;辜负市场&amp;quot;还是&amp;quot;辜负特朗普&amp;quot;的两难困境。&lt;/p&gt;
 &lt;p&gt;申银万国研究在9月8日的最新报告中指出，历史规律表明，一旦市场加息预期超过40%，加息从未落空；&lt;strong&gt;若此次预期落空，期限溢价或将大幅上行，市场面临“反噬”风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;9月4日公布的8月非农就业数据显示新增就业16.2万人，远超市场预期的5.5万人，直接触发市场对美联储9月加息预期的剧烈重定价。与此同时，油价反弹与AI通胀粘性令8月CPI大幅回落的概率仅约10.6%，&lt;strong&gt;这意味着市场的高加息预期在CPI数据公布后大概率难以消退。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在此背景下，申银万国认为，9月加息或是美联储当前&amp;quot;最不坏的选择&amp;quot;——不加息的代价可能是期限溢价上行与市场反噬，而加息落地若未带来加息路径的大幅上修，对市场的冲击则相对有限。&lt;/p&gt;
@@ -96,7 +96,42 @@
 竞争与争议：与Anthropic团队的优先权之争
 &lt;p&gt;此次突破背后，还存在一段与Anthropic团队有关的优先权插曲。OpenAI称，公司启动相关工作的直接诱因，是听闻Anthropic员工Levent Alpöge与纽约大学数学教授Tristan Buckmaster可能已经解决相关问题。&lt;/p&gt;
 &lt;p&gt;OpenAI在9月6日完成证明并通过Lean验证后，主动联系两人，希望协调联合发布并承认对方可能拥有的优先权。但双方随后发现，Alpöge与Buckmaster研究的是有外力欧拉方程问题，而非纳维-斯托克斯方程本身。&lt;/p&gt;
-&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指缩量涨0.3%，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，港股海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 08:21:01 GMT</pubDate><description>&lt;p&gt;动力煤CCI指数全线上扬驱动的煤炭板块，云煤能源、郑州煤电、大有能源集体涨停，逻辑核心是现货煤价突破970元/吨叠加冬储预期等多重因素；BDI高位与全球航运规则重构共振的航运港口，海通发展录得5天3板，催化来自干散货运价持续走强与&amp;quot;影子船队&amp;quot;冲击现有航运秩序的警告。&lt;/p&gt;
+&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股盘前走低，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 09:58:31 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
+&lt;p&gt;美军中央司令部当天宣布，美军摧毁了五艘运载原油的伊朗油轮，这是对伊朗两度试图以弹道导弹袭击美国海军舰艇的反制行动。伊朗随即向约旦发射导弹，并对波斯湾水域船只发出警告，局势进一步激化。受此影响，布伦特原油盘中一度上涨2.3%，正式迈过百元关口。&lt;/p&gt;
+&lt;p&gt;油价飙升令市场通胀预期骤然升温，美股期货承压，标普500指数期货下跌0.1%，纳斯达克100指数期货回吐了早盘高达0.3%的涨幅，欧洲斯托克600指数下跌0.4%，消费品及其他经济敏感板块拖累尤为明显。高盛已就此发出警告，若航运中断持续，油价可能进一步上冲至每桶120美元。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;标普500指数期货下跌0.1%，纳斯达克100指数期货回吐了早盘高达0.3%的涨幅。&lt;/li&gt;
+&lt;li&gt;欧洲斯托克50指数开盘跌0.65%，德国DAX指数跌0.6%，英国富时100指数跌0.4%，法国CAC 40指数跌0.7%。&lt;/li&gt;
+&lt;li&gt;日元兑美元报153.40，涨幅0.4%&lt;/li&gt;
+&lt;li&gt;10年期美国国债收益率上涨1个基点，至4.80%&lt;/li&gt;
+&lt;li&gt;布伦特原油自7月24日以来首次触及每桶100美元，日内涨幅超2%。&lt;/li&gt;
+&lt;li&gt;WTI原油涨近2%，报94.73美元/桶。&lt;/li&gt;
+&lt;li&gt;现货黄金上涨1.1%，至每盎司4,406.03美元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+美伊军事冲突升级，波斯湾紧张态势加剧
+
+&lt;p&gt;中东地缘局势的最新演变是此次油价突破关键心理关口的直接导火索。根据美军中央司令部声明，美方军事行动系回应伊朗对美国海军舰艇发动的弹道导弹袭击。事件发生后，伊朗不仅对约旦实施导弹打击，更对波斯湾航行船只发出安全威胁，令这一全球重要原油运输通道的风险溢价显著攀升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Bannockburn Capital Markets大宗商品董事总经理Darrell Fletcher表示，&amp;quot;油价阻力最小的方向是强劲而稳定地持续走高。&amp;quot;他指出，能源产品的基本面依然偏多，全球库存与战略储备持续下降，而&amp;quot;美伊之间的反复交锋与相互警告已成惯常模式&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+高盛上调预警，油价120美元目标浮出水面
+
+&lt;p&gt;随着中东紧张局势外溢至航运领域，市场对供应中断的担忧正在定价层面充分体现。高盛已就航运扰动可能带来的影响发出预警，认为若局势持续恶化，布伦特原油有望进一步上涨至每桶120美元。&lt;/p&gt;
+&lt;p&gt;该行全球大宗商品研究联席主管Samantha Dart此前亦就中东地缘风险及其对能源市场的传导路径发表分析。从基本面来看，全球原油库存趋降的格局，叠加中国石油买盘近期的明显回暖，为油价提供了较为坚实的多头支撑。&lt;/p&gt;
+
+通胀忧虑压制风险情绪，美股欧股承压
+
+&lt;p&gt;油价破百在金融市场引发连锁反应，通胀担忧重新成为市场定价的核心变量。美股方面，标普500期货几乎持平，纳斯达克100期货小幅上涨0.1%，亚洲科技股的早盘涨势随后有所回落。欧洲市场跌幅更为明显，斯托克600指数下挫0.4%，受消费品及经济周期敏感类板块拖累。&lt;/p&gt;
+&lt;p&gt;美国国债市场则相对平静，交投变化不大。据悉，交易员正等待美国财政部公布周四针对10年期和20年期国债的回购操作规模。财政部长Scott Bessent一直寻求通过国债回购计划来压制美国收益率，当前10年期国债收益率已徘徊于2023年以来高位附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+日元连续三日走强，美元指数小幅回落
+
+&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指缩量涨0.3%，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，港股海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 08:21:01 GMT</pubDate><description>&lt;p&gt;动力煤CCI指数全线上扬驱动的煤炭板块，云煤能源、郑州煤电、大有能源集体涨停，逻辑核心是现货煤价突破970元/吨叠加冬储预期等多重因素；BDI高位与全球航运规则重构共振的航运港口，海通发展录得5天3板，催化来自干散货运价持续走强与&amp;quot;影子船队&amp;quot;冲击现有航运秩序的警告。&lt;/p&gt;
 &lt;p&gt;光通信概念股全天活跃，长飞光纤一度涨停，此前&lt;a href="https://wallstreetcn.com/articles/3781337"&gt;华尔街见闻文章&lt;/a&gt;写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案。&lt;/p&gt;
 &lt;p&gt;9月9日，A股三大指数全天窄幅震荡，三大股指午后一度集体翻绿，尾盘沪指、深成指微幅上涨，创业板、科创50承压，权重周期方向托底指数，但题材与高位成长普遍回落。算力硬件局部爆发，高速铜连接、电路板、光通信等概念股集体拉升，航运、煤炭等板块活跃，AI应用、文化传媒、房地产等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，全天维持震荡下跌势头，恒指、恒科指集体收跌，恒科指盘中跌幅一度扩大至1%，科网股多数走低，海底捞低开低走，盘初一度跌超10%。债市方面，国债期货多数反弹。商品方面，国内商品期货多数上涨，能源品期货涨幅居前。&lt;/p&gt;
@@ -161,42 +196,7 @@ AI竞争轴心转移：从聊天机器人转向办公助手
 &lt;p&gt;&lt;strong&gt;野村指出，中国互联网巨头的AI竞争重心正从AI聊天机器人加速转向AI办公助手。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据QuestMobile数据，字节跳动旗下Doubao维持中国AI聊天机器人赛道DAU第一，7月DAU为1.68亿，同比增长3.6倍，但环比增速降至持平，终结了自2025年8月以来的连续增长势头。野村认为，这一信号表明AI聊天机器人领域的竞争热度有所降温。&lt;/p&gt;
 &lt;p&gt;在AI办公助手布局上，阿里巴巴将QoderWork、MuleRun及悟空整合为QwenWork，依托钉钉触达企业工作流；腾讯将WorkBuddy定位为通用AI办公助手旗舰产品，并逐步与微信、企业微信、腾讯文档及腾讯会议整合；字节跳动于8月25日正式推出豆包Work，同时将飞书产品团队与豆包合并，飞书销售团队并入火山引擎。&lt;/p&gt;
-&lt;p&gt;在传统办公应用层面，据QuestMobile数据，钉钉7月DAU约7700万（同比下降1%），企业微信DAU同比增长9%至7200万，与钉钉的差距持续收窄；飞书DAU同比增幅最高，达51%至1000万，但基数相对较小。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股欧股承压，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 07:49:31 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
-&lt;p&gt;美军中央司令部当天宣布，美军摧毁了五艘运载原油的伊朗油轮，这是对伊朗两度试图以弹道导弹袭击美国海军舰艇的反制行动。伊朗随即向约旦发射导弹，并对波斯湾水域船只发出警告，局势进一步激化。受此影响，布伦特原油盘中一度上涨2.3%，正式迈过百元关口。&lt;/p&gt;
-&lt;p&gt;油价飙升令市场通胀预期骤然升温，美股期货承压，标普500指数期货几乎持平，欧洲斯托克600指数下跌0.4%，消费品及其他经济敏感板块拖累尤为明显。高盛已就此发出警告，若航运中断持续，油价可能进一步上冲至每桶120美元。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;标普500期货几乎持平，纳斯达克100期货小幅上涨0.1%。&lt;/li&gt;
-&lt;li&gt;欧洲斯托克50指数开盘跌0.65%，德国DAX指数跌0.6%，英国富时100指数跌0.4%，法国CAC 40指数跌0.7%。&lt;/li&gt;
-&lt;li&gt;日元兑美元报153.40，涨幅0.4%&lt;/li&gt;
-&lt;li&gt;10年期美国国债收益率上涨1个基点，至4.80%&lt;/li&gt;
-&lt;li&gt;布伦特原油自7月24日以来首次触及每桶100美元，日内涨幅超2%。&lt;/li&gt;
-&lt;li&gt;WTI原油涨近2%，报94.73美元/桶。&lt;/li&gt;
-&lt;li&gt;现货黄金上涨1.1%，至每盎司4,406.03美元&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-美伊军事冲突升级，波斯湾紧张态势加剧
-
-&lt;p&gt;中东地缘局势的最新演变是此次油价突破关键心理关口的直接导火索。根据美军中央司令部声明，美方军事行动系回应伊朗对美国海军舰艇发动的弹道导弹袭击。事件发生后，伊朗不仅对约旦实施导弹打击，更对波斯湾航行船只发出安全威胁，令这一全球重要原油运输通道的风险溢价显著攀升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Bannockburn Capital Markets大宗商品董事总经理Darrell Fletcher表示，&amp;quot;油价阻力最小的方向是强劲而稳定地持续走高。&amp;quot;他指出，能源产品的基本面依然偏多，全球库存与战略储备持续下降，而&amp;quot;美伊之间的反复交锋与相互警告已成惯常模式&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-高盛上调预警，油价120美元目标浮出水面
-
-&lt;p&gt;随着中东紧张局势外溢至航运领域，市场对供应中断的担忧正在定价层面充分体现。高盛已就航运扰动可能带来的影响发出预警，认为若局势持续恶化，布伦特原油有望进一步上涨至每桶120美元。&lt;/p&gt;
-&lt;p&gt;该行全球大宗商品研究联席主管Samantha Dart此前亦就中东地缘风险及其对能源市场的传导路径发表分析。从基本面来看，全球原油库存趋降的格局，叠加中国石油买盘近期的明显回暖，为油价提供了较为坚实的多头支撑。&lt;/p&gt;
-
-通胀忧虑压制风险情绪，美股欧股承压
-
-&lt;p&gt;油价破百在金融市场引发连锁反应，通胀担忧重新成为市场定价的核心变量。美股方面，标普500期货几乎持平，纳斯达克100期货小幅上涨0.1%，亚洲科技股的早盘涨势随后有所回落。欧洲市场跌幅更为明显，斯托克600指数下挫0.4%，受消费品及经济周期敏感类板块拖累。&lt;/p&gt;
-&lt;p&gt;美国国债市场则相对平静，交投变化不大。据悉，交易员正等待美国财政部公布周四针对10年期和20年期国债的回购操作规模。财政部长Scott Bessent一直寻求通过国债回购计划来压制美国收益率，当前10年期国债收益率已徘徊于2023年以来高位附近。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-日元连续三日走强，美元指数小幅回落
-
-&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
+&lt;p&gt;在传统办公应用层面，据QuestMobile数据，钉钉7月DAU约7700万（同比下降1%），企业微信DAU同比增长9%至7200万，与钉钉的差距持续收窄；飞书DAU同比增幅最高，达51%至1000万，但基数相对较小。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
 &lt;p&gt;苹果新任CEO John Ternus今晚将登上他接掌帅印后的第一个发布会舞台。他在上周&lt;a href="https://wallstreetcn.com/articles/3781109?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;致员工的信&lt;/a&gt;中写道：“我对公司即将推出的一系列重磅新品充满期待。下周我们将迎来一场堪称非凡的发布盛会，而更令我振奋的，是那之后的更多惊喜——既有那些已蓄势待发的杰出产品，也有我们尚未构想的新品。”&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美银证券分析师Wamsi Mohan在9月8日发布的研究报告中指出，今晚发布会的三大核心看点分别是：&lt;strong&gt;苹果首款折叠iPhone、Pro系列潜在的大幅涨价，以及将低价iPhone机型推迟至2027年春季发布的节奏调整。&lt;/strong&gt;三件事叠加在一起，让这场发布会成为近年来看点最密集的一次。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
