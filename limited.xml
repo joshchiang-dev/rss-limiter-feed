@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 06:29:43 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 06:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
 &lt;p&gt;Murphy周二在CNBC节目中表示，&lt;strong&gt;在这个市场，超大规模云厂商及其周边生态，本质上建立在信任之上。&lt;/strong&gt;我认为信任在我们的品牌和信誉中发挥了至关重要的作用。他强调，超大规模云厂商需要确信供应商能够按时、大规模地交付日益复杂的芯片，而Marvell正是凭借这一能力赢得了市场认可。&lt;/p&gt;
 &lt;p&gt;这一信任优势已转化为实质性的业务增长。根据FactSet数据，Marvell数据中心营收预计在2027财年增长60%，并在2028财年进一步加速至61%的增速。公司计划于10月初举办投资者日，届时有望披露更多长期财务目标，市场对此高度关注。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -82,28 +82,30 @@ Helios超额订单：算力需求的微观验证
 技术迭代缩小与英伟达差距，与Cerebras合作深耕推理市场
 &lt;p&gt;面向英伟达的生态壁垒，AMD正通过技术迭代与外部合作缩小追赶差距。管理层透露，正与三大核心客户就下一代MI500及MI600芯片开展深入技术合作。&lt;/p&gt;
 &lt;p&gt;此外，AMD还披露了与Cerebras的合作关系，并透露内部已有尚未公开的计划，旨在进一步深耕低延迟推理市场。&lt;/p&gt;
-&lt;p&gt;随着MI450 GPU本季度发布并在第四季度放量，Helios的季度出货斜率能否兑现，将是检验这份翻倍TAM预期成色的第一个观测点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元这轮反弹不靠干预靠资本回流？挪威主权基金固收配置或从美债转向日债</title><link>https://wallstreetcn.com/articles/3781394</link><guid>7ebb0692a11fb90cad4e885d985945747f6a8cf57c42af7d42d0271512aebbdc</guid><pubDate>Wed, 09 Sep 2026 05:58:02 GMT</pubDate><description>&lt;p&gt;日元正在经历一场与以往截然不同的升值——这一次，没有央行出手，没有政府烧钱，而是真实的资本回流在驱动。&lt;/p&gt;
-&lt;p&gt;上周，美元兑日元急跌，跌幅与此前两次官方干预相当，但目前尚未出现明显回调。与此前不同的是，此轮升值并非日本当局购债操作的产物。&lt;strong&gt;挪威主权财富基金Norges Fund据报正在调整其固定收益配置，方向或从美国国债转向日本债券，由此引发市场对更多国际资金回流东京的广泛猜测。&lt;/strong&gt;在此背景下，日元兑美元维持在154附近。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;分析人士认为，日元升值具备持续性。投资研究机构Gavekal的Anatole Kaletsky将日元描述为&amp;quot;现代历史上最被低估的主要货币&amp;quot;，并指出上周的反弹发生于美国强劲非农就业数据公布之后——而在过去，这样的数据几乎必然导致日元走弱、美元走强。日本央行预计将于下周加息，市场目前预期未来12个月内隔夜利率将上升整整一个百分点至1.9%。&lt;/p&gt;
+&lt;p&gt;随着MI450 GPU本季度发布并在第四季度放量，Helios的季度出货斜率能否兑现，将是检验这份翻倍TAM预期成色的第一个观测点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停</title><link>https://wallstreetcn.com/articles/3781396</link><guid>36212b359aac413ad489acec749c13dd92f31675e7482a8bb8ab76858bbb5ac0</guid><pubDate>Wed, 09 Sep 2026 06:15:50 GMT</pubDate><description>&lt;p&gt;GPT-6 Astra的发布正在引发一场算力与容量危机。OpenAI核心产品负责人Tibo公开示警：&lt;strong&gt;Astra的用户需求已超出历史经验，公司可能不得不暂停新的Pro订阅。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tibo在X平台发文称，“Astra的需求真的是前所未有。我们已经在拉动所有能拉的杠杆来维持服务，但直到现在，我从未见过任何类似的情况——而我们此前已经经历过非常陡峭的增长。”他表示，首要原则是确保现有用户的服务质量，但如果需求持续，“我们可能不得不暂时暂停新的Pro订阅”。这是OpenAI高管首次就单一模型需求公开发出供给预警。&lt;/p&gt;
+&lt;p&gt;市场影响不止于此。摩根士丹利在9月7日的报告中指出，&lt;strong&gt;GPT-6 Astra的重要性在于它将AI的瓶颈叙事，从“已知需求需要多少基础设施”扭转为“随着模型智能提升，有多少新工作负载将变得经济上可行”——前者是需求侧质疑，后者是供给侧压力。这对算力、电力和半导体产业链的定价逻辑均构成直接影响。&lt;/strong&gt;&lt;/p&gt;
 
-空头回补打响第一枪，资本回流接力
+Tibo是谁：从“额度之神”到OpenAI核心产品掌舵人
 
-&lt;p&gt;日元此番升值，导火索在于极度拥挤的空头仓位被迫平仓。&lt;/p&gt;
-&lt;p&gt;据瑞穗银行的Masayuki Nakajima分析，本月初杠杆基金对日元的空头头寸已处于极高水平，而8月那次官方干预虽耗资巨大——日本外汇储备单月降幅创历史之最——却仍留下大量脆弱的看空仓位。一旦市场波动性回归，大量交易者不得不削减空头，由此形成日元上涨的初始动能。&lt;/p&gt;
-&lt;p&gt;但更深层的驱动力来自资金流向的实质性转变。Norges Fund调整固收配置的消息成为关键催化剂，引发市场对更多主权级别资金流入日本债市的联想。与此同时，Japan Optimist通讯作者Jesper Koll指出，&lt;strong&gt;日本债券收益率的上升已令国内最大的准国家资产管理机构——俗称&amp;quot;鲸鱼&amp;quot;的机构投资者——账面出现浮亏，可能迫使其出售海外资产。一旦这些机构将美元资产换回日元，升值行情将有更大空间延伸。这将是自2011年（彼时由外汇损失触发）以来首次被迫抛售。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tibo全名Thibault Sottiaux，2024年从Google DeepMind加入OpenAI。在DeepMind的六年间，他参与搭建了支撑AlphaGo、AlphaStar等项目的基础设施，并在离职前短暂领导了Gemini的人类数据团队。&lt;/p&gt;
+&lt;p&gt;加入OpenAI后，他迅速从内部工具开发转向面向用户的产品。&lt;strong&gt;他率领一支最初仅30至40人的团队构建了Codex，并于2025年5月将其公开发布。Codex活跃用户随后以每天百万级的速度增长，至今年7月已达800万，远早于此前预测的9月里程碑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026年5月OpenAI内部大重组后，Tibo的职责进一步扩大——ChatGPT、Codex与开发者API三条产品线全部合并，统一由他负责执行，Greg Brockman负责整体产品战略。这意味着他掌管的是一个面向近10亿用户的超级应用入口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tibo在X平台上以频繁为用户重置Codex额度著称，被开发者社区戏称为“赛博义父”和“掌管Token水龙头的神”，甚至出现了专门追踪其重置动态的民间网站TiboGPT。&lt;/strong&gt;这种高度透明的公开互动，已成为Codex产品体验的组成部分。&lt;/p&gt;
 
-日本首相力推资产回流，政策风向助推日元
+Astra的能力跃升：从Answer Engine到AI Agent
 
-&lt;p&gt;日本首相高市早苗明确表态，要将储蓄引导回国内市场，美方亦表示支持。在这一政策信号下，大型机构正在作出回应。&lt;/p&gt;
-&lt;p&gt;从宏观经济层面看，日本的通胀格局也在悄然改变。核心通胀（剔除食品与能源）已升至三十年来的最高水平，尽管仍低于2%。市场化通胀预期进一步强化了这一趋势——五年期盈亏平衡通胀率在过去一年持续高于2%，市场开始认为日本将遵循与其他经济体相同的通胀规律运行。&lt;/p&gt;
-&lt;p&gt;更为关键的是，实际薪资开始正增长，名义薪资增速亦为数十年来最强——瑞穗金融集团的数据对此有所印证。在这一背景下，日本央行加息或许更多是在防范通胀预期失控，而非扼杀经济复苏。&lt;/p&gt;
+&lt;p&gt;GPT-6 Astra的发布标志着一次实质性的能力边界扩张。OpenAI明确描述其能力为：操作计算机、浏览网页、使用软件、编写和运行代码、完成复杂工作流，并在科学、网络安全和专业领域执行长程任务。&lt;/p&gt;
+&lt;p&gt;在OSWorld 2.0测试中——该测试由CMU及斯坦福等团队提出，考察AI Agent在数字环境中完成复杂任务的能力并与人类专家基线对比——Astra得分72.6%，高于GPT-5.6 Sol的65.7%；完成任务的模拟时间从约75分钟压缩至约40分钟。&lt;/p&gt;
+&lt;p&gt;这一变化的核心意义在于：&lt;strong&gt;AI正在从“回答得更好”，走向“成功把事情做完”。&lt;/strong&gt;AI的工作模式由此从“人→AI→答案”，演变为“人→AI Agent→任务→执行→结果”。Tibo本人在公开分享中透露，他每天向Codex分配超过100个复杂任务，包括整理资源、检查值班轮换、分析发布计划等，并使用Codex生成个性化的每日工作简报。&lt;/p&gt;
 
-套息交易时代或走向终结，全球资金需再适应
+Token需求的乘数效应：工作能力提升与消耗成正比
 
-&lt;p&gt;数十年来，日本一直是全球金融体系的廉价融资来源。超低利率和疲软的日元，催生了规模庞大的套息交易——借入日元，投向全球高收益资产。这一逻辑正在瓦解。&lt;/p&gt;
-&lt;p&gt;日元在经过多年充当全球廉价融资货币之后，已处于历史性低位。以剔除通胀因素、对一篮子货币计算的实际有效汇率衡量，日元仍有相当大的升值空间。Kaletsky的判断是&lt;strong&gt;，日元从这一&amp;quot;荒谬廉价&amp;quot;的起点出发，反弹之路远未走完。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果日本加快推进海外资产回流，全球其他市场将不得不学会在没有日本廉价资金支撑的环境下运转——这对依赖日元套息的交易策略、以及长期受益于日本买盘的美债市场而言，均构成不可忽视的结构性压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指震荡走高，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，恒科指跌0.6%，海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 04:04:50 GMT</pubDate><description>&lt;p&gt;光通信大涨，长飞光纤一度涨停，此前&lt;a href="https://wallstreetcn.com/articles/3781337"&gt;华尔街见闻文章&lt;/a&gt;写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案&lt;/p&gt;
+&lt;p&gt;Astra的能力跃升，将从根本上改变AI需求的测算逻辑。在Answer Engine时代，AI需求可以近似用“用户数×ARPU”衡量；但在AI Agent时代，这一公式已经失效。&lt;/p&gt;
+&lt;p&gt;Token总需求可以粗略表达为：Agent数量 × 每Agent任务数 × 每任务Token消耗。这三个变量在Astra发布后均面临同步扩张的压力。&lt;/p&gt;
+&lt;p&gt;首先是Agent数量的增加。&lt;strong&gt;一个人可能同时运行个人助理、编程、研究、财务等多个Agent，企业端则可能从数十个扩展至数千个。其次是单个Agent承接的任务复杂度上升——模型越能完成复杂任务，用户就越倾向于将更重、更长的工作交给Agent执行。第三是Agent从“偶尔调用”变为“持续运行”：任务越复杂，推理链越长，上下文越大，工具调用越多，Token消耗越大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这意味着完全可能出现Agent数量增长20%、但Token总需求增长300%的情形。Tibo对Astra需求的预警，与这一逻辑高度吻合：能力提升直接驱动消耗放大，两者呈正相关。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指震荡走高，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，恒科指跌0.6%，海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 04:04:50 GMT</pubDate><description>&lt;p&gt;光通信大涨，长飞光纤一度涨停，此前&lt;a href="https://wallstreetcn.com/articles/3781337"&gt;华尔街见闻文章&lt;/a&gt;写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案&lt;/p&gt;
 &lt;p&gt;9月9日，A股三大指数早盘走势分化，沪指震荡走强、深成指与创业板指高开低走转绿，算力硬件局部爆发，高速铜连接、电路板、光通信等概念股集体拉升，航运、煤炭等板块活跃，AI应用、文化传媒、房地产等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股震荡下跌，恒指震荡回升，恒科指延续跌势，科网股多数走低，芯片半导体反弹，海底捞低开低走，盘初一度跌超10%。值得注意的是，宁德时代A股和H股延续跌势。债市方面，国债期货全线反弹。商品方面，国内商品期货多数下跌，贵金属期货跌幅居前。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -156,109 +158,7 @@ Helios超额订单：算力需求的微观验证
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;09:21&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.04%，恒生科技指数涨0.1%。中际旭创、剑桥科技、长飞光纤光缆、潍柴动力走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 03:53:00 GMT</pubDate><description>&lt;p&gt;中东局势急剧恶化，布伦特原油逼近100美元关口，而亚洲芯片股则在AI交易持续火热的带动下延续涨势。&lt;/p&gt;
-&lt;p&gt;周三韩国综合指数日内涨幅扩大至2%，三星电子和SK海力士双双走强，此前费城半导体指数周二在美股交易中上涨1.3%。MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据新华社报道，美军周二摧毁了五艘伊朗原油油轮，以报复伊朗伊斯兰革命卫队在过去两天内两度向美国军舰发射弹道导弹。受此影响，布伦特原油一度攀升1.8%至每桶99.67美元，今年以来累计涨幅已超60%。&lt;/p&gt;
-
-AI投资热情支撑亚洲科技板块
-
-&lt;p&gt;芯片股延续近期强势，成为亚太市场的主要亮点。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781335"&gt;华尔街见闻提及&lt;/a&gt;，高通宣布与亚马逊共同开发用于AWS人工智能基础设施的定制芯片，合作横跨多代产品，既包括运行AI服务的芯片，也包括负责计算机内部组件互联的芯片。高通表示，未来十年相关芯片订单金额最高可达600亿美元。&lt;/p&gt;
-&lt;p&gt;AI投资热情在周三早盘延续，韩国综合股指盘中一度涨超2%，MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;SK海力士与三星电子均录得上涨，前者一度涨近5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;日经225指数与东证指数冲高回落，早盘涨幅回落至0.3%，而澳大利亚S&amp;amp;P/ASX 200下跌0.3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-油价高位盘整，日元保持强势
-
-&lt;p&gt;能源市场仍是当日关注焦点。&lt;/p&gt;
-&lt;p&gt;据新华社报道，美国军队周二摧毁了五艘伊朗原油油轮，以报复伊朗革命卫队在过去两天内两度向美国军舰发射弹道导弹。伊朗随后向约旦发射导弹，并通过伊朗国家电视台援引伊斯兰革命卫队声明，警告科威特和巴林码头附近的所有油轮船员立即弃船。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;布伦特原油一度涨1.8%至每桶99.67美元，WTI原油则涨逾1.3%至每桶94美元上方。&lt;/strong&gt;能源基础设施遭受持续攻击的风险，令霍尔木兹海峡这一全球关键石油出口通道的供应前景更加不确定。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Bannockburn Capital Markets大宗商品业务董事总经理Darrell Fletcher表示，油价&amp;quot;阻力最小的方向是强劲而稳定地走高&amp;quot;。他指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;产品基本面依然偏多，全球库存与储备持续下滑。按照惯常模式，美国与伊朗将继续相互反击与警告。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;油价上涨正在放大市场对通胀与利率路径的担忧。&lt;strong&gt;10年期美国国债收益率&lt;/strong&gt;周二一度突破4.8%这一关键关口，并在亚洲早盘交易中维持在该水平附近。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;外汇市场方面，&lt;strong&gt;日元&lt;/strong&gt;连续第三日走强，兑美元升至153.4附近。&lt;strong&gt;彭博美元即期指数&lt;/strong&gt;小幅下滑0.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781372"&gt;华尔街见闻提及&lt;/a&gt;，美国财政部长贝森特公开挑战市场中的空头，声称自己在做出市场判断时实际上掌握着内部信息，此举在一定程度上提振了日元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;黄金&lt;/strong&gt;现货价涨0.54%至每盎司4372.77美元；&lt;strong&gt;比特币&lt;/strong&gt;小幅上涨0.4%，报78803美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;现货白银&lt;/strong&gt;价一度冲高超1%，随后涨幅回落至0.8%，仍处震荡三角形区间内。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根士丹利：日元升值不足以颠覆新兴市场套利交易</title><link>https://wallstreetcn.com/articles/3781390</link><guid>f1a8197ec322c4f8cfc3a546475957ad72b5f13b615472264a6931f3e5b1f5a5</guid><pubDate>Wed, 09 Sep 2026 03:32:46 GMT</pubDate><description>&lt;p&gt;日元近期大幅走强，但这不足以动摇新兴市场套利交易的根基。摩根士丹利策略师认为，只要不出现引发更广泛波动的额外催化剂，该交易策略仍具备足够韧性。&lt;/p&gt;
-&lt;p&gt;摩根士丹利全球外汇及新兴市场策略主管James Lord团队在最新研究报告中指出，&lt;strong&gt;套利交易的表现更多取决于全球货币波动率的整体走向、全球经济增长前景、股票市场表现，以及新兴市场经济体自身的基本面逻辑，而非日元汇率的单一变动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;“全球增长、全球股市表现以及主要新兴市场的自下而上趋势，对新兴市场套利交易的影响远大于日元走势，”该团队写道，“在这些方面，我们维持建设性判断。”&lt;/p&gt;
-&lt;p&gt;目前市场已出现韧性迹象。尽管巴西雷亚尔和哥伦比亚比索自7月29日以来兑日元分别贬值5.1%和3.4%，但两者兑美元却分别升值0.7%和2.4%，显示新兴市场货币的整体压力相对可控。&lt;/p&gt;
-日元升至逾半年高位，加息预期升温
-&lt;p&gt;日元周二一度升至152.89兑1美元，创2月中旬以来最强水平，目前报153.46.此后涨幅有所收窄。此轮升势的背后，是交易员持续加码对日本央行加息的押注，并对当局进一步采取支撑日元行动保持警惕。&lt;/p&gt;
-&lt;p&gt;套利交易的核心逻辑在于，借入低息货币并将资金投入高息资产以赚取利差。日元长期以来是该策略最主要的融资货币之一，日本央行的加息预期因此对这一交易构成潜在压力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-融资货币多元化，套利交易结构更具弹性
-&lt;p&gt;摩根士丹利策略师指出，投资者已在主动分散融资货币来源，欧元和瑞士法郎正日益成为替代选项，用于为高息资产头寸提供融资。这一结构性转变意味着，套利交易对单一融资货币波动的敏感度已有所下降，整体策略的抗风险能力相应增强。&lt;/p&gt;
-&lt;p&gt;据彭博此前报道，&lt;strong&gt;新兴市场套利交易近期已录得自2008年以来最长连涨纪录，市场参与热度持续高涨。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利团队维持对新兴市场的积极看法，建议投资者在回调时逢低布局。&amp;quot;自下而上的基本面支撑、可观的利差收益以及具有韧性的全球增长，将持续吸引投资者参与这一资产类别，&amp;quot;策略师表示。&lt;/p&gt;
-&lt;p&gt;该团队强调，对新兴市场套利交易构成真正威胁的，是能够引发更广泛市场波动的系统性冲击，而非日元的阶段性升值本身。在全球增长预期尚未出现明显恶化的背景下，该策略的基本逻辑依然成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI发布ChatGPT Images 2.5：生成速度最高提升50%，AI修图“指哪改哪”</title><link>https://wallstreetcn.com/articles/3781351</link><guid>b3bdc525d9ddddda4edf72d4556a71c34db2a535d97e33f5698067f4ea367ce3</guid><pubDate>Tue, 08 Sep 2026 18:37:35 GMT</pubDate><description>&lt;p&gt;美东时间9月8日周二，OpenAI正式推出ChatGPT Images 2.5，新一代图像生成模型主打更快生成、更高保真度和更精准的多轮编辑。&lt;/p&gt;
-&lt;p&gt;OpenAI称，相比上一代Images 2.0，Images 2.5的生成延迟最高降低50%，同时能够更好地保留人物、宠物等参考对象的外貌特征，并在连续多次修改后保持画面细节和构图的一致性。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI披露，目前用户每周通过ChatGPT Images以及API中的GPT-Image系列模型生成的图片已经超过30亿张。在这一庞大使用规模的基础上，OpenAI此次进一步升级图像模型，希望将AI图像生成从“一次性出图”推向更加连续、可控的创作流程。&lt;/p&gt;
-&lt;p&gt;这次升级的重点并不只是“生成一张更漂亮的图片”，而是进一步降低AI图像创作的操作门槛。&lt;/p&gt;
-&lt;p&gt;OpenAI新增名为Sketch的功能，用户可以直接在ChatGPT中画出草图，让AI据此生成完整图片；新增的模板则可以帮助用户快速制作海报、商品图等常见视觉内容。此外，用户现在可以直接在图片上添加评论、圈出需要修改的位置，让AI只改变指定部分，而无需反复重写提示词。&lt;/p&gt;
-&lt;p&gt;OpenAI还同步面向开发者推出GPT-Image-2.5 Flare和GPT-Image-2.5 Sunburst两款API模型。其中，Flare兼顾速度、质量和编辑能力，生成延迟较GPT-Image-2最高降低50%；Sunburst则针对需要更精细控制的专业创作场景，允许更长的生成时间换取更高精度。&lt;/p&gt;
-不只是“画得更好”：人物、宠物和细节保真度进一步提升
-&lt;p&gt;OpenAI此次首先强化的是图像生成的“保真度”。&lt;/p&gt;
-&lt;p&gt;OpenAI表示，Images 2.5能够更好地利用参考照片，将熟悉的人物、宠物等对象转换到不同场景、视觉风格和构图中，同时提高对光线、纹理以及人物独特特征的保留能力。对于需要持续制作系列素材的商业用户，这意味着同一个人物、产品或品牌视觉元素在多次生成和修改后，更不容易“变脸”。&lt;/p&gt;
-&lt;p&gt;这一点也是此前AI图像生成器的一大痛点：模型可能第一次生成得很好，但一旦用户要求修改某个局部，人物五官、宠物外貌甚至整体构图都可能发生变化。&lt;/p&gt;
-&lt;p&gt;OpenAI此次特别强调了“多轮编辑一致性”。在连续对话中，Images 2.5能够更好地记住此前已经完成的修改，让后续调整建立在上一版本基础上，而不是每一次都重新生成一张“差不多”的图片。&lt;/p&gt;
-&lt;p&gt;在提前体验中，媒体Axios也观察到了类似变化。该媒体测试了人物、宠物照片、纹身设计和Logo等任务，发现Images 2.5在保留人物和宠物特征以及进行局部修改方面明显改善。比如，Axios将一只猫的照片转换为电影黑色、彩色玻璃和文艺复兴肖像等不同风格，模型仍能较好地抓住原照片中猫的特征。&lt;/p&gt;
-“圈哪里、改哪里”：AI修图从改提示词变成直接操作图片
-&lt;p&gt;相比画质提升，更值得关注的是Images 2.5对编辑方式的改变。&lt;/p&gt;
-&lt;p&gt;OpenAI新增了直接在图片上添加评论的功能。用户可以在画面中指定一个位置，然后告诉AI“删除这里”“把这里改成蓝色”等，模型只针对指定区域进行修改，同时尽可能保持其余部分不变。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Axios的实际测试显示，这一方式尤其适合需要反复调整的创作场景。例如，在纹身设计测试中，用户上传已有纹身照片，再要求AI增加新的元素，并通过圈选特定区域要求调整颜色和细节，模型可以根据这些局部指令继续修改。&lt;/p&gt;
-&lt;p&gt;TechRadar则认为，这可能是Images 2.5最实用的升级之一。其测试发现，用户过去需要不断重新描述“把这里变亮”“删除背景中的人”等要求，而现在可以直接指出图片中的具体位置再进行修改；编辑工具还包括删除背景、擦除对象、调整尺寸等功能，并能够回溯此前的不同版本。&lt;/p&gt;
-&lt;p&gt;这意味着AI修图正在从“语言驱动”进一步走向“视觉交互”：用户不必准确描述一个物体在图片中的位置，只需直接指出它。&lt;/p&gt;
-不会画画也能创作：Sketch把“草图”变成成品
-&lt;p&gt;Images 2.5的另一个重要变化，是新增Sketch功能。&lt;/p&gt;
-&lt;p&gt;用户可以直接在ChatGPT中画一个非常粗略的草图，例如画出房间布局、服装轮廓或者一个简单的物体，然后让AI根据这张草图生成完整图片。OpenAI表示，用户只需在ChatGPT中输入“@Sketch”即可使用。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;TechRadar实际测试认为，Sketch并不需要用户具备绘画能力，即便只是用鼠标或手指画出简单轮廓，也可以作为AI生成图片的视觉参考。生成之后，用户还可以继续进入编辑模式进行调整。&lt;/p&gt;
-&lt;p&gt;Axios也将Sketch视为此次更新的重要变化之一。OpenAI图像产品负责人Adele Li向Axios表示，Sketch和模板的设计目的之一，是让用户更多参与创作过程，而不是让用户成为一个完全被动的生成者。&lt;/p&gt;
-&lt;p&gt;她表示，OpenAI希望改变所谓的“单一AI审美”，并称：“我不希望在现实世界里一眼就能看出这是ChatGPT生成的东西，我希望人们能够生成并表达自己的个性。”&lt;/p&gt;
-&lt;p&gt;这也透露出OpenAI对AI图像产品定位的变化：AI不只是替用户“做图”，而是试图成为创作过程中的工具，让用户保留更多控制权。&lt;/p&gt;
-模板降低创作门槛，AI图像开始瞄准“实际用途”
-&lt;p&gt;除了Sketch，OpenAI还加入了模板功能。&lt;/p&gt;
-&lt;p&gt;用户可以从海报、商品图等常见视觉格式开始，而不必面对一块完全空白的画布，再逐步补充文字、设计元素和风格。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;TechRadar测试了商品图模板：用户上传产品照片后，可以进一步选择清洁摄影棚、编辑风格、生活方式等视觉风格，再选择具体场景，由ChatGPT完成生成。该媒体认为，对于那些已经明确“想做什么”但不知道如何开始的用户，模板能够明显降低使用门槛。&lt;/p&gt;
-&lt;p&gt;OpenAI也在进一步加强图像在商业工作流中的适用性。公司称，Images 2.5不仅适用于个人创作，也针对营销、零售、媒体等场景进行了优化，包括品牌素材、网站视觉、产品展示图以及系列化内容生产等。&lt;/p&gt;
-&lt;p&gt;OpenAI官方数据显示，目前用户每周通过ChatGPT Images以及API中的GPT-Image系列模型生成超过30亿张图片。&lt;/p&gt;
-API同步升级：Flare主打速度，Sunburst瞄准专业创作
-&lt;p&gt;在ChatGPT产品升级之外，OpenAI也在API端推出两款新模型。&lt;/p&gt;
-&lt;p&gt;GPT-Image-2.5 Flare主打速度、质量和编辑能力，是面向大多数应用的默认选择。OpenAI称，Flare相比GPT-Image-2能够提供更高质量的图片，同时延迟降低50%，适合社交内容、创作者应用、商品体验、视觉搜索以及大规模图片生成等场景。&lt;/p&gt;
-&lt;p&gt;GPT-Image-2.5 Sunburst则定位更加专业。OpenAI表示，该模型针对需要更精细控制的高端视觉工作流设计，适用于广告创意、生产级营销素材和精细商品图片等场景，以更长的生成时间换取更高的控制精度。&lt;/p&gt;
-&lt;p&gt;OpenAI披露，Higgsfield AI、Adobe和Manus已经开始使用新模型。其中，Manus表示，其评估显示Flare的生成速度是GPT-Image-2的2至4倍，同时透明背景生成能力也有所提升。&lt;/p&gt;
-&lt;p&gt;价格方面，两款模型目前采用相同的API定价：图片输入每百万Token 8美元，缓存图片输入每百万Token 2美元，图片输出每百万Token 30美元；文本输入每百万Token 5美元，缓存文本输入每百万Token 1.25美元。&lt;/p&gt;
-&lt;p&gt;作为对比，上一代GPT-Image-2的图片输入价格为每百万Token 4美元、缓存图片输入1美元、图片输出15美元；文本输入为2.5美元、缓存文本输入0.625美元。也就是说，GPT-Image-2.5两款新模型的标准API价格基本是上一代的&lt;strong&gt;两倍&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;从产品定位看，这一价格差异也与两款新模型更加偏向高质量生产和复杂编辑的定位相吻合。对于开发者而言，Flare更适合对响应速度和规模化生成有要求的应用，而Sunburst则更适合对最终视觉效果和编辑精度要求更高的专业工作流。&lt;/p&gt;
-“更像工具”而非“更像画师”，OpenAI押注下一阶段AI创作
-&lt;p&gt;从Images 2.0到2.5，OpenAI此次并没有简单追求模型“画得更逼真”，而是把大量升级集中在&lt;strong&gt;控制、修改和连续创作&lt;/strong&gt;上。&lt;/p&gt;
-&lt;p&gt;TechRadar在连续24小时测试后认为，这次升级虽然未必达到“Images 3.0”式的跨代变化，但改进已经足以改变日常使用方式；尤其是局部编辑、Sketch和模板，更可能成为用户频繁使用的功能。&lt;/p&gt;
-&lt;p&gt;Axios的体验则显示，随着模型对人物特征、局部细节和连续修改的掌控能力增强，AI生成图片与传统设计工具之间的界限正在进一步模糊。该媒体同时指出，AI生成图像仍然存在明显的伦理争议，包括模型训练所使用的艺术作品是否得到创作者授权和补偿等问题。&lt;/p&gt;
-&lt;p&gt;而OpenAI显然希望通过Sketch、模板和可视化编辑，把用户重新拉回创作流程。&lt;/p&gt;
-&lt;p&gt;如果说早期AI图像生成解决的是“&lt;strong&gt;我说一句话，你帮我画出来&lt;/strong&gt;”，那么Images 2.5正在尝试解决的是“&lt;strong&gt;我告诉你哪里不对，你帮我把它改对&lt;/strong&gt;”。&lt;/p&gt;
-&lt;p&gt;这或许才是此次更新最值得关注的地方：AI图像生成正在从一次性的“出图工具”，进一步变成可以持续沟通、反复修改并服务于真实创作流程的&lt;strong&gt;交互式设计工具&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
 &lt;p&gt;苹果新任CEO John Ternus今晚将登上他接掌帅印后的第一个发布会舞台。他在上周&lt;a href="https://wallstreetcn.com/articles/3781109?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;致员工的信&lt;/a&gt;中写道：“我对公司即将推出的一系列重磅新品充满期待。下周我们将迎来一场堪称非凡的发布盛会，而更令我振奋的，是那之后的更多惊喜——既有那些已蓄势待发的杰出产品，也有我们尚未构想的新品。”&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美银证券分析师Wamsi Mohan在9月8日发布的研究报告中指出，今晚发布会的三大核心看点分别是：&lt;strong&gt;苹果首款折叠iPhone、Pro系列潜在的大幅涨价，以及将低价iPhone机型推迟至2027年春季发布的节奏调整。&lt;/strong&gt;三件事叠加在一起，让这场发布会成为近年来看点最密集的一次。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -389,4 +289,67 @@ PPI环比由降转涨，同比涨幅扩大
 &lt;p&gt;在商业模式上，Muse提供免费版与付费版两档选择，付费版月费分别为20美元和100美元，可使用更强算力。Wang和Singleton预计多数用户将停留在免费版，付费版面向有更高需求的用户群体。&lt;/p&gt;
 &lt;p&gt;在人才储备上，Meta旗下的Meta Superintelligence Labs（MSL）持续大举招募顶尖AI工程师。&lt;/p&gt;
 &lt;p&gt;去年，Meta挖来苹果AI模型业务高管Ruoming Pang，并从OpenAI引进多名知名研究人员；Singleton亦于今年加盟并主导Muse的工程研发。&lt;/p&gt;
-&lt;p&gt;Meta同时预告，Muse将于今年晚些时候推出Confidential VM版本，通过端对端加密进一步强化隐私保护，此举或将成为其在AI智能体安全赛道上的重要差异化筹码。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Meta同时预告，Muse将于今年晚些时候推出Confidential VM版本，通过端对端加密进一步强化隐私保护，此举或将成为其在AI智能体安全赛道上的重要差异化筹码。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 03:53:00 GMT</pubDate><description>&lt;p&gt;中东局势急剧恶化，布伦特原油逼近100美元关口，而亚洲芯片股则在AI交易持续火热的带动下延续涨势。&lt;/p&gt;
+&lt;p&gt;周三韩国综合指数日内涨幅扩大至2%，三星电子和SK海力士双双走强，此前费城半导体指数周二在美股交易中上涨1.3%。MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据新华社报道，美军周二摧毁了五艘伊朗原油油轮，以报复伊朗伊斯兰革命卫队在过去两天内两度向美国军舰发射弹道导弹。受此影响，布伦特原油一度攀升1.8%至每桶99.67美元，今年以来累计涨幅已超60%。&lt;/p&gt;
+
+AI投资热情支撑亚洲科技板块
+
+&lt;p&gt;芯片股延续近期强势，成为亚太市场的主要亮点。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781335"&gt;华尔街见闻提及&lt;/a&gt;，高通宣布与亚马逊共同开发用于AWS人工智能基础设施的定制芯片，合作横跨多代产品，既包括运行AI服务的芯片，也包括负责计算机内部组件互联的芯片。高通表示，未来十年相关芯片订单金额最高可达600亿美元。&lt;/p&gt;
+&lt;p&gt;AI投资热情在周三早盘延续，韩国综合股指盘中一度涨超2%，MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;SK海力士与三星电子均录得上涨，前者一度涨近5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;日经225指数与东证指数冲高回落，早盘涨幅回落至0.3%，而澳大利亚S&amp;amp;P/ASX 200下跌0.3%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+油价高位盘整，日元保持强势
+
+&lt;p&gt;能源市场仍是当日关注焦点。&lt;/p&gt;
+&lt;p&gt;据新华社报道，美国军队周二摧毁了五艘伊朗原油油轮，以报复伊朗革命卫队在过去两天内两度向美国军舰发射弹道导弹。伊朗随后向约旦发射导弹，并通过伊朗国家电视台援引伊斯兰革命卫队声明，警告科威特和巴林码头附近的所有油轮船员立即弃船。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;布伦特原油一度涨1.8%至每桶99.67美元，WTI原油则涨逾1.3%至每桶94美元上方。&lt;/strong&gt;能源基础设施遭受持续攻击的风险，令霍尔木兹海峡这一全球关键石油出口通道的供应前景更加不确定。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Bannockburn Capital Markets大宗商品业务董事总经理Darrell Fletcher表示，油价&amp;quot;阻力最小的方向是强劲而稳定地走高&amp;quot;。他指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;产品基本面依然偏多，全球库存与储备持续下滑。按照惯常模式，美国与伊朗将继续相互反击与警告。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;油价上涨正在放大市场对通胀与利率路径的担忧。&lt;strong&gt;10年期美国国债收益率&lt;/strong&gt;周二一度突破4.8%这一关键关口，并在亚洲早盘交易中维持在该水平附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;外汇市场方面，&lt;strong&gt;日元&lt;/strong&gt;连续第三日走强，兑美元升至153.4附近。&lt;strong&gt;彭博美元即期指数&lt;/strong&gt;小幅下滑0.1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781372"&gt;华尔街见闻提及&lt;/a&gt;，美国财政部长贝森特公开挑战市场中的空头，声称自己在做出市场判断时实际上掌握着内部信息，此举在一定程度上提振了日元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黄金&lt;/strong&gt;现货价涨0.54%至每盎司4372.77美元；&lt;strong&gt;比特币&lt;/strong&gt;小幅上涨0.4%，报78803美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现货白银&lt;/strong&gt;价一度冲高超1%，随后涨幅回落至0.8%，仍处震荡三角形区间内。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 30年期国债5.82%！英国借贷成本飙升至1998年来高点，财政预算压力骤增</title><link>https://wallstreetcn.com/articles/3781378</link><guid>e8f5e55f191af73aeb6c08939c50ce5909d003a0a57e14180518155c4ae16753</guid><pubDate>Wed, 09 Sep 2026 02:09:45 GMT</pubDate><description>&lt;p&gt;英国长期借贷成本升至近三十年来最高水平，全球债券抛售潮正将压力直接传导至英国公共财政。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周二，英国债务管理局（DMO）完成一笔40亿英镑的30年期国债发行，定价收益率高达5.82%，创下DMO自1998年成立以来最高发行利率。&lt;/strong&gt;这一数字不仅标志着英国长端借贷成本触及三十年高点，也令即将到来的财政预算案面临更大约束。&lt;/p&gt;
+&lt;p&gt;基金经理Gordon Shannon表示，此次英国国债收益率的上行与全球市场走势直接挂钩，但&amp;quot;国内借贷成本的大幅跳升无疑将压缩政府在下月预算案中的政策空间&amp;quot;。&lt;/p&gt;
+&lt;p&gt;与此同时，英国10年期国债收益率已升至5.2%，为七国集团（G7）中最高。英国财政大臣John Healey周一发表讲话时坦言，&lt;strong&gt;英国每年债务利息支出已高达1100亿英镑，超过除医疗以外的所有主要政府支出领域，并承诺在预算案中&amp;quot;诚实面对&amp;quot;控制开支的必要性。&lt;/strong&gt;&lt;/p&gt;
+发行获市场追捧，高收益吸引投资者
+&lt;p&gt;尽管市场环境动荡，本次国债发行仍获得投资者积极认购。据发送给投资者的早期信息显示，此次银团发行的总订单规模超过850亿英镑，认购倍数远超发行量。&lt;/p&gt;
+&lt;p&gt;Aegon Asset Management首席投资官Stephen Jones表示：“对某些人而言是痛苦，对另一些人而言则是机遇。投资者认为，当前英国国债提供的收益率已足够吸引人，值得增持。”&lt;/p&gt;
+&lt;p&gt;DMO首席执行官Jessica Pulay亦表示，此次交易在波动市场环境下顺利完成，&amp;quot;进一步证明了英国国债市场持续的强度与深度，以及市场参与者对融资计划的有力支持&amp;quot;。&lt;/p&gt;
+&lt;p&gt;DMO今年计划共发行2500亿英镑国债，以支撑政府支出计划。&lt;/p&gt;
+全球债券抛售潮推波助澜
+&lt;p&gt;英国借贷成本飙升并非孤立事件，而是全球债券市场持续承压的缩影。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此轮全球债券抛售潮的核心驱动力，在于伊朗战争爆发后能源价格的大幅攀升&lt;/strong&gt;——布伦特原油价格已重新逼近每桶100美元，令市场对主要央行降息的预期大幅降温，并对全球经济增长和通胀前景构成持续冲击。&lt;/p&gt;
+&lt;p&gt;欧洲其他主要经济体长端利率同样在周二创下新高：法国30年期国债收益率升至5.02%，为2008年9月以来最高；德国30年期国债收益率升至3.86%，为2011年以来最高。&lt;/p&gt;
+&lt;p&gt;就英国而言，市场定价显示，交易员预计英国银行（BoE）年内至少还将加息25个基点。此次加息预计不会在本月会议上落地，但投资者普遍预期BoE将放缓其国债出售（量化紧缩）的节奏，因为该操作已对长端国债收益率形成额外上行压力。&lt;/p&gt;
+债务利息压力倒逼财政整合
+&lt;p&gt;高企的借贷成本正在将英国公共财政推向更为严峻的境地。英国每年1100亿英镑的债务利息支出已成为政府预算中的&amp;quot;第二大部门&amp;quot;——财政大臣John Healey在周一的讲话中以此为喻，&lt;strong&gt;指出若将债务利息视为一个政府部门，其规模将仅次于卫生部，超过国防部、内政部与司法部的总和。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自新冠疫情以来，英国长端收益率已经历一轮持续上行，伊朗战争引发的能源价格冲击以及市场对全球债务供给过剩的担忧，进一步加速了这一趋势。此次30年期国债以5.82%定价，将这一三十年高点正式&amp;quot;锁定&amp;quot;在新发债券的票面成本之上，意味着未来数十年的财政负担将因此加重。&lt;/p&gt;
+&lt;p&gt;在此背景下，即将举行的财政预算案料将面临更为有限的政策腾挪空间，政府在支出扩张与财政整合之间的取舍将更加两难。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根士丹利：日元升值不足以颠覆新兴市场套利交易</title><link>https://wallstreetcn.com/articles/3781390</link><guid>f1a8197ec322c4f8cfc3a546475957ad72b5f13b615472264a6931f3e5b1f5a5</guid><pubDate>Wed, 09 Sep 2026 03:32:46 GMT</pubDate><description>&lt;p&gt;日元近期大幅走强，但这不足以动摇新兴市场套利交易的根基。摩根士丹利策略师认为，只要不出现引发更广泛波动的额外催化剂，该交易策略仍具备足够韧性。&lt;/p&gt;
+&lt;p&gt;摩根士丹利全球外汇及新兴市场策略主管James Lord团队在最新研究报告中指出，&lt;strong&gt;套利交易的表现更多取决于全球货币波动率的整体走向、全球经济增长前景、股票市场表现，以及新兴市场经济体自身的基本面逻辑，而非日元汇率的单一变动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“全球增长、全球股市表现以及主要新兴市场的自下而上趋势，对新兴市场套利交易的影响远大于日元走势，”该团队写道，“在这些方面，我们维持建设性判断。”&lt;/p&gt;
+&lt;p&gt;目前市场已出现韧性迹象。尽管巴西雷亚尔和哥伦比亚比索自7月29日以来兑日元分别贬值5.1%和3.4%，但两者兑美元却分别升值0.7%和2.4%，显示新兴市场货币的整体压力相对可控。&lt;/p&gt;
+日元升至逾半年高位，加息预期升温
+&lt;p&gt;日元周二一度升至152.89兑1美元，创2月中旬以来最强水平，目前报153.46.此后涨幅有所收窄。此轮升势的背后，是交易员持续加码对日本央行加息的押注，并对当局进一步采取支撑日元行动保持警惕。&lt;/p&gt;
+&lt;p&gt;套利交易的核心逻辑在于，借入低息货币并将资金投入高息资产以赚取利差。日元长期以来是该策略最主要的融资货币之一，日本央行的加息预期因此对这一交易构成潜在压力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+融资货币多元化，套利交易结构更具弹性
+&lt;p&gt;摩根士丹利策略师指出，投资者已在主动分散融资货币来源，欧元和瑞士法郎正日益成为替代选项，用于为高息资产头寸提供融资。这一结构性转变意味着，套利交易对单一融资货币波动的敏感度已有所下降，整体策略的抗风险能力相应增强。&lt;/p&gt;
+&lt;p&gt;据彭博此前报道，&lt;strong&gt;新兴市场套利交易近期已录得自2008年以来最长连涨纪录，市场参与热度持续高涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;摩根士丹利团队维持对新兴市场的积极看法，建议投资者在回调时逢低布局。&amp;quot;自下而上的基本面支撑、可观的利差收益以及具有韧性的全球增长，将持续吸引投资者参与这一资产类别，&amp;quot;策略师表示。&lt;/p&gt;
+&lt;p&gt;该团队强调，对新兴市场套利交易构成真正威胁的，是能够引发更广泛市场波动的系统性冲击，而非日元的阶段性升值本身。在全球增长预期尚未出现明显恶化的背景下，该策略的基本逻辑依然成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
