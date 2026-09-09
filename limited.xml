@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 11:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 11:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
 &lt;p&gt;Murphy周二在CNBC节目中表示，&lt;strong&gt;在这个市场，超大规模云厂商及其周边生态，本质上建立在信任之上。&lt;/strong&gt;我认为信任在我们的品牌和信誉中发挥了至关重要的作用。他强调，超大规模云厂商需要确信供应商能够按时、大规模地交付日益复杂的芯片，而Marvell正是凭借这一能力赢得了市场认可。&lt;/p&gt;
 &lt;p&gt;这一信任优势已转化为实质性的业务增长。根据FactSet数据，Marvell数据中心营收预计在2027财年增长60%，并在2028财年进一步加速至61%的增速。公司计划于10月初举办投资者日，届时有望披露更多长期财务目标，市场对此高度关注。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -115,15 +115,16 @@
 竞争与争议：与Anthropic团队的优先权之争
 &lt;p&gt;此次突破背后，还存在一段与Anthropic团队有关的优先权插曲。OpenAI称，公司启动相关工作的直接诱因，是听闻Anthropic员工Levent Alpöge与纽约大学数学教授Tristan Buckmaster可能已经解决相关问题。&lt;/p&gt;
 &lt;p&gt;OpenAI在9月6日完成证明并通过Lean验证后，主动联系两人，希望协调联合发布并承认对方可能拥有的优先权。但双方随后发现，Alpöge与Buckmaster研究的是有外力欧拉方程问题，而非纳维-斯托克斯方程本身。&lt;/p&gt;
-&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股盘前走低，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 09:58:31 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
+&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股盘前走低、欧股跌幅扩大，2年期美债收益率升至两年来新高</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 11:39:48 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
 &lt;p&gt;美军中央司令部当天宣布，美军摧毁了五艘运载原油的伊朗油轮，这是对伊朗两度试图以弹道导弹袭击美国海军舰艇的反制行动。伊朗随即向约旦发射导弹，并对波斯湾水域船只发出警告，局势进一步激化。受此影响，布伦特原油盘中一度上涨2.3%，正式迈过百元关口。&lt;/p&gt;
 &lt;p&gt;油价飙升令市场通胀预期骤然升温，美股期货承压，标普500指数期货下跌0.1%，纳斯达克100指数期货回吐了早盘高达0.3%的涨幅，欧洲斯托克600指数下跌0.4%，消费品及其他经济敏感板块拖累尤为明显。高盛已就此发出警告，若航运中断持续，油价可能进一步上冲至每桶120美元。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;标普500指数期货下跌0.1%，纳斯达克100指数期货回吐了早盘高达0.3%的涨幅。&lt;/li&gt;
-&lt;li&gt;欧洲斯托克50指数开盘跌0.65%，德国DAX指数跌0.6%，英国富时100指数跌0.4%，法国CAC 40指数跌0.7%。&lt;/li&gt;
+&lt;li&gt;欧股跌幅扩大，法国CAC 40指数跌2%，欧洲斯托克50指数跌近2%，德国DAX指数跌1.6%。欧洲斯托克600指数跌1.5%，创两个月来最大跌幅。美国2年期国债收益率升至4.42%，为2024年7月以来最高水平。&lt;/li&gt;
 &lt;li&gt;日元兑美元报153.40，涨幅0.4%&lt;/li&gt;
-&lt;li&gt;10年期美国国债收益率上涨1个基点，至4.80%&lt;/li&gt;
+&lt;li&gt;美国2年期国债收益率升至4.42%，为2024年7月以来最高水平，&lt;/li&gt;
+&lt;li&gt;英国国债下跌，英国10年期国债收益率上涨5个基点至5.23%。&lt;/li&gt;
 &lt;li&gt;布伦特原油自7月24日以来首次触及每桶100美元，日内涨幅超2%。&lt;/li&gt;
 &lt;li&gt;WTI原油涨近2%，报94.73美元/桶。&lt;/li&gt;
 &lt;li&gt;现货黄金上涨1.1%，至每盎司4,406.03美元&lt;/li&gt;
@@ -150,7 +151,27 @@
 
 日元连续三日走强，美元指数小幅回落
 
-&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
+&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI自研AI芯片再进一步！与三星合作扩大，或从HBM延伸至晶圆代工</title><link>https://wallstreetcn.com/articles/3781414</link><guid>21c3a1ceba8a06164b6039cdadd8e2d35788093770fac66b2dd17358dade08fa</guid><pubDate>Wed, 09 Sep 2026 11:14:02 GMT</pubDate><description>&lt;p&gt;OpenAI正加速推进自研芯片战略，与三星电子的合作正在向更广泛的半导体领域延伸。&lt;/p&gt;
+&lt;p&gt;据路透社报道，OpenAI韩国区总经理Harrison Kim于9月9日在首尔新闻发布会上表示，&lt;strong&gt;OpenAI与三星电子在下一代芯片的联合生产与研究方面&amp;quot;取得了最显著的进展&amp;quot;。&lt;/strong&gt;这是OpenAI迄今为止对双方芯片合作最为明确的公开表态。&lt;/p&gt;
+&lt;p&gt;Harrison Kim同时强调，随着对更先进芯片的需求持续上升，内存芯片需求将持续增长，与韩国半导体供应商的合作已成为OpenAI的优先议题。分析人士认为，此次表态或预示三星在OpenAI芯片供应链中的角色将从内存供货进一步扩展至晶圆代工及先进封装业务。&lt;/p&gt;
+
+芯片合作框架：从Stargate到Jalapeño
+
+&lt;p&gt;双方合作的基础早在去年已经奠定。据MS TODAY报道，三星电子与OpenAI于2025年10月签署合作意向书，三星以战略内存合作伙伴身份加入OpenAI的Stargate项目，负责供应高性能、低功耗内存。彼时，三星估计OpenAI的内存需求最终可能高达每月90万片DRAM晶圆。&lt;/p&gt;
+&lt;p&gt;在OpenAI首款自研芯片Jalapeño上，这一合作已有具体落地。据MS TODAY及Aju News报道，Jalapeño由OpenAI与博通联合开发，定位于AI推理加速，借助AI模型辅助在约九个月内完成流片，由台积电负责制造，三星则据报提供第六代HBM4高带宽内存。OpenAI于今年6月正式发布该芯片。&lt;/p&gt;
+&lt;p&gt;值得关注的是，Jalapeño仅是OpenAI自研芯片路线图的起点。OpenAI今年8月披露，第二代芯片正处于深度研发阶段，第三代芯片亦已进入规划。&lt;/p&gt;
+
+合作边界：内存之外的想象空间
+
+&lt;p&gt;随着合作的深入，外界对三星能否进一步承接OpenAI芯片代工订单的讨论持续升温。MS TODAY指出，&lt;strong&gt;此次合作有望为三星在AI内存之外开辟新机遇，涵盖晶圆代工及先进封装业务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，该报道同时提示，现阶段将上述合作解读为三星已获得OpenAI自研芯片代工订单，仍为时过早——制造商、制程节点及产能规模等关键细节均尚未披露。目前，台积电仍是Jalapeño的既定制造方。&lt;/p&gt;
+&lt;p&gt;三星晶圆代工业务同时吸引到其他AI巨头的目光。据The Information及韩联社报道，Anthropic正就其Claude模型所需的定制芯片与三星晶圆代工接触，探索其2纳米制程及先进封装能力，但相关讨论仍处于早期阶段，尚未进入详细设计、测试或量产环节。&lt;/p&gt;
+
+韩国市场布局：企业AI渗透提速
+
+&lt;p&gt;除芯片合作外，OpenAI在韩国企业市场的拓展同样提速。Harrison Kim在发布会上透露，截至今年8月底，韩国企业和机构的ChatGPT企业版用户数较一年前激增约28倍，企业对AI的应用正从个人任务向全公司范围的运营加速渗透，覆盖法务、销售、财务、营销及运营等多个职能条线。&lt;/p&gt;
+&lt;p&gt;据OpenAI披露，去年底韩国已成为美国以外付费ChatGPT订阅用户最多的国家。OpenAI表示，随着9月4日最新模型GPT-6 Astra的上线，预计用户采用率将进一步加速，新模型在计算机使用、专业工作、科学研究、编程及网络安全等方面均有性能提升。&lt;/p&gt;
+&lt;p&gt;三星内部对OpenAI产品的应用亦在扩大。Harrison Kim透露，三星是&amp;quot;全球规模最大的ChatGPT企业部署之一&amp;quot;，旗下员工在研发、营销及销售等多个领域将ChatGPT用于日常工作。三星方面则在声明中表示，无法确认与客户相关的信息。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
 &lt;p&gt;苹果新任CEO John Ternus今晚将登上他接掌帅印后的第一个发布会舞台。他在上周&lt;a href="https://wallstreetcn.com/articles/3781109?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;致员工的信&lt;/a&gt;中写道：“我对公司即将推出的一系列重磅新品充满期待。下周我们将迎来一场堪称非凡的发布盛会，而更令我振奋的，是那之后的更多惊喜——既有那些已蓄势待发的杰出产品，也有我们尚未构想的新品。”&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，美银证券分析师Wamsi Mohan在9月8日发布的研究报告中指出，今晚发布会的三大核心看点分别是：&lt;strong&gt;苹果首款折叠iPhone、Pro系列潜在的大幅涨价，以及将低价iPhone机型推迟至2027年春季发布的节奏调整。&lt;/strong&gt;三件事叠加在一起，让这场发布会成为近年来看点最密集的一次。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -298,16 +319,4 @@ PPI环比由降转涨，同比涨幅扩大
 债务利息压力倒逼财政整合
 &lt;p&gt;高企的借贷成本正在将英国公共财政推向更为严峻的境地。英国每年1100亿英镑的债务利息支出已成为政府预算中的&amp;quot;第二大部门&amp;quot;——财政大臣John Healey在周一的讲话中以此为喻，&lt;strong&gt;指出若将债务利息视为一个政府部门，其规模将仅次于卫生部，超过国防部、内政部与司法部的总和。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;自新冠疫情以来，英国长端收益率已经历一轮持续上行，伊朗战争引发的能源价格冲击以及市场对全球债务供给过剩的担忧，进一步加速了这一趋势。此次30年期国债以5.82%定价，将这一三十年高点正式&amp;quot;锁定&amp;quot;在新发债券的票面成本之上，意味着未来数十年的财政负担将因此加重。&lt;/p&gt;
-&lt;p&gt;在此背景下，即将举行的财政预算案料将面临更为有限的政策腾挪空间，政府在支出扩张与财政整合之间的取舍将更加两难。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根士丹利：日元升值不足以颠覆新兴市场套利交易</title><link>https://wallstreetcn.com/articles/3781390</link><guid>f1a8197ec322c4f8cfc3a546475957ad72b5f13b615472264a6931f3e5b1f5a5</guid><pubDate>Wed, 09 Sep 2026 03:32:46 GMT</pubDate><description>&lt;p&gt;日元近期大幅走强，但这不足以动摇新兴市场套利交易的根基。摩根士丹利策略师认为，只要不出现引发更广泛波动的额外催化剂，该交易策略仍具备足够韧性。&lt;/p&gt;
-&lt;p&gt;摩根士丹利全球外汇及新兴市场策略主管James Lord团队在最新研究报告中指出，&lt;strong&gt;套利交易的表现更多取决于全球货币波动率的整体走向、全球经济增长前景、股票市场表现，以及新兴市场经济体自身的基本面逻辑，而非日元汇率的单一变动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;“全球增长、全球股市表现以及主要新兴市场的自下而上趋势，对新兴市场套利交易的影响远大于日元走势，”该团队写道，“在这些方面，我们维持建设性判断。”&lt;/p&gt;
-&lt;p&gt;目前市场已出现韧性迹象。尽管巴西雷亚尔和哥伦比亚比索自7月29日以来兑日元分别贬值5.1%和3.4%，但两者兑美元却分别升值0.7%和2.4%，显示新兴市场货币的整体压力相对可控。&lt;/p&gt;
-日元升至逾半年高位，加息预期升温
-&lt;p&gt;日元周二一度升至152.89兑1美元，创2月中旬以来最强水平，目前报153.46.此后涨幅有所收窄。此轮升势的背后，是交易员持续加码对日本央行加息的押注，并对当局进一步采取支撑日元行动保持警惕。&lt;/p&gt;
-&lt;p&gt;套利交易的核心逻辑在于，借入低息货币并将资金投入高息资产以赚取利差。日元长期以来是该策略最主要的融资货币之一，日本央行的加息预期因此对这一交易构成潜在压力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-融资货币多元化，套利交易结构更具弹性
-&lt;p&gt;摩根士丹利策略师指出，投资者已在主动分散融资货币来源，欧元和瑞士法郎正日益成为替代选项，用于为高息资产头寸提供融资。这一结构性转变意味着，套利交易对单一融资货币波动的敏感度已有所下降，整体策略的抗风险能力相应增强。&lt;/p&gt;
-&lt;p&gt;据彭博此前报道，&lt;strong&gt;新兴市场套利交易近期已录得自2008年以来最长连涨纪录，市场参与热度持续高涨。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;摩根士丹利团队维持对新兴市场的积极看法，建议投资者在回调时逢低布局。&amp;quot;自下而上的基本面支撑、可观的利差收益以及具有韧性的全球增长，将持续吸引投资者参与这一资产类别，&amp;quot;策略师表示。&lt;/p&gt;
-&lt;p&gt;该团队强调，对新兴市场套利交易构成真正威胁的，是能够引发更广泛市场波动的系统性冲击，而非日元的阶段性升值本身。在全球增长预期尚未出现明显恶化的背景下，该策略的基本逻辑依然成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在此背景下，即将举行的财政预算案料将面临更为有限的政策腾挪空间，政府在支出扩张与财政整合之间的取舍将更加两难。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
