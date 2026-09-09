@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 05:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 06:29:23 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
 &lt;p&gt;Murphy周二在CNBC节目中表示，&lt;strong&gt;在这个市场，超大规模云厂商及其周边生态，本质上建立在信任之上。&lt;/strong&gt;我认为信任在我们的品牌和信誉中发挥了至关重要的作用。他强调，超大规模云厂商需要确信供应商能够按时、大规模地交付日益复杂的芯片，而Marvell正是凭借这一能力赢得了市场认可。&lt;/p&gt;
 &lt;p&gt;这一信任优势已转化为实质性的业务增长。根据FactSet数据，Marvell数据中心营收预计在2027财年增长60%，并在2028财年进一步加速至61%的增速。公司计划于10月初举办投资者日，届时有望披露更多长期财务目标，市场对此高度关注。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -82,26 +82,7 @@ Helios超额订单：算力需求的微观验证
 技术迭代缩小与英伟达差距，与Cerebras合作深耕推理市场
 &lt;p&gt;面向英伟达的生态壁垒，AMD正通过技术迭代与外部合作缩小追赶差距。管理层透露，正与三大核心客户就下一代MI500及MI600芯片开展深入技术合作。&lt;/p&gt;
 &lt;p&gt;此外，AMD还披露了与Cerebras的合作关系，并透露内部已有尚未公开的计划，旨在进一步深耕低延迟推理市场。&lt;/p&gt;
-&lt;p&gt;随着MI450 GPU本季度发布并在第四季度放量，Helios的季度出货斜率能否兑现，将是检验这份翻倍TAM预期成色的第一个观测点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 性能追平却逆势提价2.5倍：OpenAI“按效果收费”能否打破企业付费天花板？</title><link>https://wallstreetcn.com/articles/3781344</link><guid>2887be3f25401bde5c5c8142c3a52e68cf2facc9ba46bc0fb499c401f69b9017</guid><pubDate>Tue, 08 Sep 2026 18:02:03 GMT</pubDate><description>&lt;p&gt;9月3日，OpenAI发布GPT-6 Astra。据Artificial Analysis最新综合榜单，在独立评测中，Astra与Anthropic的Claude Fable 5.1并列第一，重新追平技术叙事。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Astra与Fable 5.1性能不分伯仲，定价策略却走向两极。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI没有延续此前旗舰模型的降价路线，&lt;strong&gt;而是把Astra的API单价定为前代GPT-5.6 Sol的2.5倍&lt;/strong&gt;，并开始探索&amp;quot;按任务效果收费&amp;quot;——在性能仅追平而非碾压对手的节点，这更像一场对市场付费底线的大胆试探。&lt;/p&gt;
-&lt;p&gt;官方称在部分评测中Astra能用更少输出token取得更好结果，估算每项任务的API成本反而更低。&lt;/p&gt;
-&lt;p&gt;Anthropic则选择相反方向：&lt;strong&gt;Fable 5.1未调整基础单价，但把缓存读取价格降至0.25美元/百万token、较Fable 5下调75%&lt;/strong&gt;，预计使典型工作负载成本下降约25%、高度Agent化任务的成本最高下降45%。&lt;/p&gt;
-&lt;p&gt;在两家公司双双秘密提交IPO、冲击万亿美元估值的关口，这一分歧直指大模型商业化的核心命题：企业客户为&amp;quot;额外智能&amp;quot;付费的意愿正逼近上限，&amp;quot;更贵但更强&amp;quot;的溢价叙事能否成立，将决定谁能把模型能力真正兑现为持续收入。&lt;/p&gt;
-追平之后，定价逆势翻倍
-&lt;p&gt;OpenAI对Astra的定价没有延续前几代旗舰持续降价的思路，而是对最高端能力重新建立价格溢价。&lt;/p&gt;
-&lt;p&gt;其长远意图不止于提高token单价——从按量收费转向按任务完成效果收费，商业模式有望演变为基于项目复杂度、耗时或产出价值的定价体系。&lt;/p&gt;
-&lt;p&gt;支撑这一定价的是空前规模的投入。Astra在得克萨斯州Stargate基地使用超10万块GPU完成训练，远超GPT-5.6 Sol；&lt;/p&gt;
-&lt;p&gt;Astra ARC-AGI-3通用推理测试达到99.9%（前代为7.8%），成为此次发布中最醒目的单项能力变化。高企的硬件成本与能耗，直接推高了后续的API定价。&lt;/p&gt;
-Anthropic反向降价，卡住性价比
-&lt;p&gt;Fable 5.1的输入和输出价格与前代保持不变，分别为每百万token 10美元和50美元；调整集中于&amp;quot;缓存命中&amp;quot;环节，即模型重新读取此前已处理内容时的计费，降幅达75%，降至每百万token 0.25美元。&lt;/p&gt;
-&lt;p&gt;Anthropic表示，对于典型工作负载，Fable 5.1的预期使用成本将比Fable 5低约25%；对于高度智能体化的任务，节省幅度最高可达45%。&lt;/p&gt;
-&lt;p&gt;这一&amp;quot;以价换量&amp;quot;的策略，正对应企业客户为&amp;quot;额外智能&amp;quot;付费意愿接近上限的判断：当头部模型达到一定能力门槛后，企业更关心性价比，而非单纯为更高的Benchmark分数支付溢价。&lt;/p&gt;
-估值与付费意愿的双重考验
-&lt;p&gt;两家公司如今都已秘密提交IPO申请、冲击万亿美元估值，Anthropic最新一轮融资后估值已达9650亿美元，反超OpenAI的8520亿美元。&lt;/p&gt;
-&lt;p&gt;在资本市场的定价逻辑下，胜负手不再是谁多拿几个Benchmark第一，而是谁能把昂贵的模型能力更稳定地转化为持续收入。&lt;/p&gt;
-&lt;p&gt;OpenAI用2.5倍提价测试&amp;quot;按效果付费&amp;quot;的接受度，Anthropic则用降价换取企业工作流的渗透率——两条路线谁先跑通，谁就更可能占据下一阶段竞争的制高点。&lt;/p&gt;
-&lt;p&gt;后续焦点将落在Astra&amp;quot;按效果收费&amp;quot;模式的实际落地进度，以及企业客户在&amp;quot;更贵但可能更有效&amp;quot;与&amp;quot;更便宜且够用&amp;quot;之间的真实选择上。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元这轮反弹不靠干预靠资本回流？挪威主权基金固收配置或从美债转向日债</title><link>https://wallstreetcn.com/articles/3781394</link><guid>7ebb0692a11fb90cad4e885d985945747f6a8cf57c42af7d42d0271512aebbdc</guid><pubDate>Wed, 09 Sep 2026 05:58:02 GMT</pubDate><description>&lt;p&gt;日元正在经历一场与以往截然不同的升值——这一次，没有央行出手，没有政府烧钱，而是真实的资本回流在驱动。&lt;/p&gt;
+&lt;p&gt;随着MI450 GPU本季度发布并在第四季度放量，Helios的季度出货斜率能否兑现，将是检验这份翻倍TAM预期成色的第一个观测点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元这轮反弹不靠干预靠资本回流？挪威主权基金固收配置或从美债转向日债</title><link>https://wallstreetcn.com/articles/3781394</link><guid>7ebb0692a11fb90cad4e885d985945747f6a8cf57c42af7d42d0271512aebbdc</guid><pubDate>Wed, 09 Sep 2026 05:58:02 GMT</pubDate><description>&lt;p&gt;日元正在经历一场与以往截然不同的升值——这一次，没有央行出手，没有政府烧钱，而是真实的资本回流在驱动。&lt;/p&gt;
 &lt;p&gt;上周，美元兑日元急跌，跌幅与此前两次官方干预相当，但目前尚未出现明显回调。与此前不同的是，此轮升值并非日本当局购债操作的产物。&lt;strong&gt;挪威主权财富基金Norges Fund据报正在调整其固定收益配置，方向或从美国国债转向日本债券，由此引发市场对更多国际资金回流东京的广泛猜测。&lt;/strong&gt;在此背景下，日元兑美元维持在154附近。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;分析人士认为，日元升值具备持续性。投资研究机构Gavekal的Anatole Kaletsky将日元描述为&amp;quot;现代历史上最被低估的主要货币&amp;quot;，并指出上周的反弹发生于美国强劲非农就业数据公布之后——而在过去，这样的数据几乎必然导致日元走弱、美元走强。日本央行预计将于下周加息，市场目前预期未来12个月内隔夜利率将上升整整一个百分点至1.9%。&lt;/p&gt;
@@ -367,4 +348,45 @@ PPI环比由降转涨，同比涨幅扩大
 &lt;p&gt;8月份，工业生产者出厂价格中，生产资料价格环比上涨0.4%，影响工业生产者出厂价格总水平上涨约0.32个百分点。其中，采掘工业价格上涨2.7%，原材料工业价格上涨0.8%，加工工业价格持平。生活资料价格上涨0.2%，影响工业生产者出厂价格总水平上涨约0.04个百分点。其中，食品和衣着价格均持平，一般日用品价格下降0.2%，耐用消费品价格上涨0.6%。&lt;/p&gt;
 &lt;p&gt;工业生产者购进价格中，燃料动力类价格上涨1.4%，有色金属材料及电线类价格上涨0.8%，纺织原料类价格上涨0.6%；黑色金属材料类价格下降0.6%，化工原料类价格下降0.4%；农副产品类、建筑材料及非金属类价格均持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta推出个人AI智能体Muse，扎克伯格：个人AI助手是Meta最大的商业机遇</title><link>https://wallstreetcn.com/articles/3781354</link><guid>19173b0ef9327de1ee84c7853c9ee722bd7cf8356f77a301582594a1dca9af82</guid><pubDate>Tue, 08 Sep 2026 21:26:23 GMT</pubDate><description>&lt;p&gt;Meta Platforms正式发布面向个人用户的AI智能体Muse，这是马克·扎克伯格将人工智能嵌入日常生活愿景的最新落地产品，也是该公司在消费级AI助手赛道上的重要押注。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muse于周二向美国用户开放，可代替用户执行网购、购买电影票、预约球课乃至填写学校活动授权单等日常任务。Meta首席AI官Alexandr Wang表示，该产品的核心设计原则是&amp;quot;对普通用户而言极易上手&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;扎克伯格上月发布的一份逾6500字的纲领性文章中明确表态，&lt;strong&gt;消费端个人AI助手是Meta最大的商业机遇&lt;/strong&gt;，并勾勒出其愿景：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;每个人都将拥有一个极具能力的个人智能体，它了解你、你的目标，以及一切你在乎的事情。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Meta最终目标是将Muse触达旗下Instagram、Facebook和WhatsApp的数十亿现有用户。&lt;/p&gt;
+&lt;p&gt;Meta周二收跌0.53%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+核心功能：从任务执行到目标管理
+
+&lt;p&gt;Muse的设计目标是成为一款无需技术背景即可上手的智能体工具。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;用户通过Muse专属应用或直接在WhatsApp中以对话方式向其下达指令，&lt;/strong&gt;Muse便可自主执行操作——包括打开浏览器、填写表单、发送电子邮件及代为谈判。&lt;/p&gt;
+&lt;p&gt;该产品底层由Meta最新旗舰模型Muse Spark驱动，专为现实世界的自主任务场景而构建。&lt;/p&gt;
+&lt;p&gt;对于耗时较长的任务，Muse在用户关闭应用后仍可持续运行，待出现进展或需要用户授权时——例如在发送邮件或完成购买前——会主动返回提示。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muse还具备跨应用的记忆与关联能力。&lt;/strong&gt;用户在Instagram上收藏的食谱视频，可被Muse自动转化为购物清单；用户提及朋友的饮食禁忌，Muse在发送聚餐邀请前会将其纳入考量。&lt;/p&gt;
+&lt;p&gt;Meta将这一功能定位为&amp;quot;仅凭一次提及便能记住要点&amp;quot;的主动感知能力。&lt;/p&gt;
+架构与隐私：运行于云端，用户数据仅自己能访问
+&lt;p&gt;在隐私与安全架构上，Meta为Muse专门构建了一套名为Muse Secure VM的虚拟机系统，&lt;strong&gt;将用户数据与其他用户严格隔离。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta同时表示，&lt;strong&gt;今年晚些时候将推出Muse Confidential VM，届时用户数据将以仅自己持有的密钥加密，连Meta本身也无法访问。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wang称这是&amp;quot;极为安全的架构&amp;quot;——Muse保留操作记录与待执行计划，不与Meta广告系统共享数据，并在处理敏感操作前主动向用户确认。&lt;/p&gt;
+&lt;p&gt;在非敏感事务上，Muse可自主运行。Wang本人将自己的智能体命名为Euler（取自他养的狗的名字），用于识别并购买新家的家具、规划饮食和制定健身计划。&amp;quot;我真的把它当作第二个大脑在用，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;用户可为智能体自定义名称与头像、设置沟通风格，并将其接入邮件、健身追踪器等应用，使其在后台持续推进用户设定的目标。&lt;/p&gt;
+
+生态接入：从Ticketmaster到Google全家桶
+
+&lt;p&gt;&lt;strong&gt;Muse已打通多个主流服务平台，包括Ticketmaster、OpenTable，以及Google旗下的Gmail、Google日历和云端硬盘等。同时，Muse与Meta自有生态深度整合，可无缝调用Instagram和WhatsApp。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;负责个人智能体工程开发的David Singleton此前担任Stripe首席技术官及AI初创公司Dreamer的CEO，今年早些时候加入Meta。&lt;/p&gt;
+&lt;p&gt;他表示，若用户使用的服务具备API接口，&amp;quot;可以直接让Muse为你构建一个自定义连接器&amp;quot;，同时团队也将持续扩展官方合作伙伴与服务接入。&lt;/p&gt;
+&lt;p&gt;Muse由Meta最新AI模型Muse Spark 1.3驱动，未来还将集成至Meta的AI智能眼镜。&lt;/p&gt;
+
+战略定位：迈向&amp;quot;个人超级智能&amp;quot;的第一步
+
+&lt;p&gt;&lt;strong&gt;Meta在发布声明中将个人超级智能定性为&amp;quot;一生中最具变革性的技术之一&amp;quot;，并将Muse定义为通往这一愿景的第一步。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从市场布局来看，Meta选择将Muse直接嵌入WhatsApp这一拥有庞大用户基础的通讯平台，力图在无需用户改变使用习惯的前提下完成产品渗透。&lt;/p&gt;
+&lt;p&gt;在商业模式上，Muse提供免费版与付费版两档选择，付费版月费分别为20美元和100美元，可使用更强算力。Wang和Singleton预计多数用户将停留在免费版，付费版面向有更高需求的用户群体。&lt;/p&gt;
+&lt;p&gt;在人才储备上，Meta旗下的Meta Superintelligence Labs（MSL）持续大举招募顶尖AI工程师。&lt;/p&gt;
+&lt;p&gt;去年，Meta挖来苹果AI模型业务高管Ruoming Pang，并从OpenAI引进多名知名研究人员；Singleton亦于今年加盟并主导Muse的工程研发。&lt;/p&gt;
+&lt;p&gt;Meta同时预告，Muse将于今年晚些时候推出Confidential VM版本，通过端对端加密进一步强化隐私保护，此举或将成为其在AI智能体安全赛道上的重要差异化筹码。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
