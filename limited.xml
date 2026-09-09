@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 08:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 09:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] Marvell股价一年飙升241%，CEO：与超大规模云厂商建立信任是核心驱动力</title><link>https://wallstreetcn.com/articles/3781382</link><guid>4624066c40aeeaf1ed483f26032ff577011b60ea130ac12c43a0ab2e581ea2d7</guid><pubDate>Wed, 09 Sep 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;芯片制造商Marvell Technology过去一年股价累计上涨约241%，远超竞争对手博通同期6.6%的涨幅。公司CEO Matt Murphy将这一亮眼表现归因于一项历经十年积累的核心资产——与全球顶级科技公司之间建立的深度信任关系。&lt;/p&gt;
 &lt;p&gt;Murphy周二在CNBC节目中表示，&lt;strong&gt;在这个市场，超大规模云厂商及其周边生态，本质上建立在信任之上。&lt;/strong&gt;我认为信任在我们的品牌和信誉中发挥了至关重要的作用。他强调，超大规模云厂商需要确信供应商能够按时、大规模地交付日益复杂的芯片，而Marvell正是凭借这一能力赢得了市场认可。&lt;/p&gt;
 &lt;p&gt;这一信任优势已转化为实质性的业务增长。根据FactSet数据，Marvell数据中心营收预计在2027财年增长60%，并在2028财年进一步加速至61%的增速。公司计划于10月初举办投资者日，届时有望披露更多长期财务目标，市场对此高度关注。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -106,7 +106,29 @@ Helios超额订单：算力需求的微观验证
 竞争与争议：与Anthropic团队的优先权之争
 &lt;p&gt;此次突破背后，还存在一段与Anthropic团队有关的优先权插曲。OpenAI称，公司启动相关工作的直接诱因，是听闻Anthropic员工Levent Alpöge与纽约大学数学教授Tristan Buckmaster可能已经解决相关问题。&lt;/p&gt;
 &lt;p&gt;OpenAI在9月6日完成证明并通过Lean验证后，主动联系两人，希望协调联合发布并承认对方可能拥有的优先权。但双方随后发现，Alpöge与Buckmaster研究的是有外力欧拉方程问题，而非纳维-斯托克斯方程本身。&lt;/p&gt;
-&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指缩量涨0.3%，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，港股海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 08:21:01 GMT</pubDate><description>&lt;p&gt;动力煤CCI指数全线上扬驱动的煤炭板块，云煤能源、郑州煤电、大有能源集体涨停，逻辑核心是现货煤价突破970元/吨叠加冬储预期等多重因素；BDI高位与全球航运规则重构共振的航运港口，海通发展录得5天3板，催化来自干散货运价持续走强与&amp;quot;影子船队&amp;quot;冲击现有航运秩序的警告。&lt;/p&gt;
+&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] iPhone Duo、iPhone Fold还是iPhone Ultra？苹果折叠屏手机命名之争</title><link>https://wallstreetcn.com/articles/3781403</link><guid>6b868bc536b9011ec3484a748f1a4ea8499633974209c3a99597aaeee7c489a7</guid><pubDate>Wed, 09 Sep 2026 08:32:26 GMT</pubDate><description>&lt;p&gt;苹果首款折叠屏iPhone即将亮相，但这款划时代产品究竟叫什么名字，至今仍是悬案。&lt;/p&gt;
+&lt;p&gt;9月9日，据Mashable报道，&lt;strong&gt;围绕&amp;quot;iPhone Fold&amp;quot;&amp;quot;iPhone Ultra&amp;quot;与&amp;quot;iPhone Duo&amp;quot;三个候选名称&lt;/strong&gt;，科技媒体与业内人士争论不休，而这场命名之争背后，折射出苹果在高端产品线布局上的深层考量。&lt;/p&gt;
+&lt;p&gt;据悉，&lt;strong&gt;这款折叠屏iPhone起售价预计约为2000美元，最高配置版本售价接近3000美元，最快将于今年10月正式开售&lt;/strong&gt;。在功能层面，该机将支持多任务处理及Apple Pencil，定位明确指向苹果产品线中的旗舰高端档位。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;高达2000至3000美元的价格区间，使这款设备成为苹果史上最昂贵的iPhone&lt;/strong&gt;，也令其命名选择更具战略意义——&lt;strong&gt;一个响亮且差异化的名字，将直接影响消费者对这款产品的定位认知与购买决策。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;strong&gt;&lt;em&gt;Surprise and Shine&lt;/em&gt;&lt;/strong&gt;）”为主题的秋季特别活动，届时谜底将揭晓。&lt;/p&gt;
+&amp;quot;iPhone Fold&amp;quot;：最直白，却可能最不可能
+&lt;p&gt;&amp;quot;iPhone Fold&amp;quot;长期以来是科技媒体报道这款未发布设备时最常用的名称，逻辑简单直接——这是一部可折叠的iPhone。&lt;/p&gt;
+&lt;p&gt;然而，这一名称恰恰因其直白而存在明显短板。三星旗下折叠屏产品线同样以&amp;quot;Fold&amp;quot;命名，如Galaxy Z Fold 8。尽管三星并不对&amp;quot;Fold&amp;quot;一词拥有专有权，但苹果历来刻意回避与竞争对手产生直接的名称联想，以免引发消费者混淆或被动与三星产品形成比较。&lt;strong&gt;基于这一逻辑，&amp;quot;iPhone Fold&amp;quot;被认为是三个候选名称中落地可能性最低的选项。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在Mashable面向读者发起的调查中，仅27%的受访者预测该设备将命名为&amp;quot;iPhone Fold&amp;quot;，另有5%选择了&amp;quot;The Fold&amp;quot;这一变体。&lt;/p&gt;
+&amp;quot;iPhone Ultra&amp;quot;：内部叫法，呼声最高
+&lt;p&gt;在过去数月的报道周期中，&amp;quot;iPhone Ultra&amp;quot;逐渐成为业内最主流的预测名称，且有较为扎实的信源支撑。&lt;/p&gt;
+&lt;p&gt;据Mashable报道，消息灵通的苹果记者Mark Gurman今年早些时候在X平台透露，苹果内部员工普遍以&amp;quot;Ultra&amp;quot;称呼这款设备。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;另外，MacWorld亦报道称，苹果正在筹备一个全新的&amp;quot;Ultra&amp;quot;产品层级，而这款折叠屏手机理论上将成为该层级的首款产品。&lt;/p&gt;
+&lt;p&gt;值得注意的是，&amp;quot;iPhone Ultra&amp;quot;预计不会沿用其他新款iPhone的&amp;quot;18&amp;quot;数字编号，以示其独立于常规产品线之外的特殊定位。在Mashable读者调查中，&amp;quot;iPhone Ultra&amp;quot;获得了38%的支持率，位居三个候选名称之首。&lt;/p&gt;
+&amp;quot;iPhone Duo&amp;quot;：后来者，充满变数
+&lt;p&gt;就在发布活动临近之际，&amp;quot;iPhone Duo&amp;quot;这一名称开始在网络上悄然流传，为原本看似已有定论的命名预测增添了新的变量。&lt;/p&gt;
+&lt;p&gt;目前，支持&amp;quot;iPhone Duo&amp;quot;的具体报道依据相对有限，尚无经过充分核实的信源明确指向这一名称。然而，&lt;strong&gt;考虑到折叠屏设备&amp;quot;双屏&amp;quot;的产品形态，&amp;quot;Duo&amp;quot;在命名逻辑上具有一定合理性，不排除苹果在外界普遍押注&amp;quot;Ultra&amp;quot;之际，以&amp;quot;Duo&amp;quot;完成一次出人意料的命名转向。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，市场上还流传着&amp;quot;iPhone Ultra Fold&amp;quot;或&amp;quot;iPhone 18 Ultra&amp;quot;等组合变体名称，进一步加大了预测难度。&lt;/p&gt;
+2000美元起售：苹果最贵iPhone定价逻辑
+&lt;p&gt;无论最终命名如何落定，这款折叠屏iPhone的价格定位已基本明朗——起售价约2000美元，顶配版本接近3000美元，价格区间远超现有任何一款iPhone。&lt;/p&gt;
+&lt;p&gt;从功能配置来看，该机将支持多任务处理与Apple Pencil，契合其面向专业及高端用户群体的产品定位。&lt;strong&gt;最快10月的上市时间节点&lt;/strong&gt;，也意味着苹果将在年末消费旺季前完成这一重磅产品的市场投放。&lt;/p&gt;
+&lt;p&gt;分析指出，超高售价在拉升苹果硬件平均销售单价（ASP）的同时，也意味着其潜在受众相对有限，初期销量预期或将保守。&lt;strong&gt;命名能否有效传递产品的高端属性与差异化价值，将在一定程度上影响市场对这款设备商业前景的判断。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指缩量涨0.3%，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，港股海底捞大跌9%</title><link>https://wallstreetcn.com/articles/3781379</link><guid>3eee6019c0dc24e3b538cc8a4b720cef6f65d124fbc0d62cff3f005a2371d8ef</guid><pubDate>Wed, 09 Sep 2026 08:21:01 GMT</pubDate><description>&lt;p&gt;动力煤CCI指数全线上扬驱动的煤炭板块，云煤能源、郑州煤电、大有能源集体涨停，逻辑核心是现货煤价突破970元/吨叠加冬储预期等多重因素；BDI高位与全球航运规则重构共振的航运港口，海通发展录得5天3板，催化来自干散货运价持续走强与&amp;quot;影子船队&amp;quot;冲击现有航运秩序的警告。&lt;/p&gt;
 &lt;p&gt;光通信概念股全天活跃，长飞光纤一度涨停，此前&lt;a href="https://wallstreetcn.com/articles/3781337"&gt;华尔街见闻文章&lt;/a&gt;写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案。&lt;/p&gt;
 &lt;p&gt;9月9日，A股三大指数全天窄幅震荡，三大股指午后一度集体翻绿，尾盘沪指、深成指微幅上涨，创业板、科创50承压，权重周期方向托底指数，但题材与高位成长普遍回落。算力硬件局部爆发，高速铜连接、电路板、光通信等概念股集体拉升，航运、煤炭等板块活跃，AI应用、文化传媒、房地产等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，全天维持震荡下跌势头，恒指、恒科指集体收跌，恒科指盘中跌幅一度扩大至1%，科网股多数走低，海底捞低开低走，盘初一度跌超10%。债市方面，国债期货多数反弹。商品方面，国内商品期货多数上涨，能源品期货涨幅居前。&lt;/p&gt;
@@ -147,81 +169,7 @@ Helios超额订单：算力需求的微观验证
 &lt;p&gt;其一，工信部印发《信息通信行业发展“十五五”规划》，提出“推进算力传输通道建设，部署400G及以上高速传输技术，建设光纤直达链路，推动100G光网设备下沉”；&lt;/p&gt;
 &lt;p&gt;其二，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案，以支持AI基础设施的规模和带宽需求（高通还将合作开发高性能光连接解决方案）。&lt;/p&gt;
 &lt;p&gt;另外，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 抖音首次在使用时长上超越微信，字节系拿下中国移动互联网“时间份额”第一</title><link>https://wallstreetcn.com/articles/3781399</link><guid>5226b78cb97b1c690673a6dec0da3a83b761ae056d7b421790e1fa34bb9dc8f0</guid><pubDate>Wed, 09 Sep 2026 08:15:21 GMT</pubDate><description>&lt;p&gt;抖音在月度使用总时长上首次超越微信，字节跳动旗下应用矩阵在中国移动互联网的&amp;quot;时间争夺战&amp;quot;中确立领先地位。&lt;/p&gt;
-&lt;p&gt;野村证券援引QuestMobile数据，&lt;strong&gt;2026年7月，抖音月度使用总时长同比增长29%，以19.4%的时间份额首次超越腾讯微信的18.8%，成为中国使用时长最长的应用。&lt;/strong&gt;字节跳动旗下五款应用——抖音、抖音极速版、红果短剧、今日头条及番茄免费小说——&lt;strong&gt;合计占据中国移动互联网前50大应用时间份额的40.9%，较2025年7月的33.6%大幅提升，远超腾讯阵营的29.1%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这一数据对互联网行业的投资逻辑具有直接影响：字节跳动在内容消费领域的渗透持续深化，而腾讯在社交及内容生态的时间份额正面临持续压力。与此同时，各大互联网巨头的竞争战场正加速向AI办公助手领域转移。&lt;/p&gt;
-
-抖音超越微信：DAU差距仍大，时长增长驱动不同
-
-&lt;p&gt;野村援引QuestMobile数据指出，&lt;strong&gt;抖音月度使用总时长的29%同比增幅，由日活跃用户数（DAU）19%的增长与每DAU日均使用时长（DTSD）8%的增长共同驱动。微信月度使用总时长同比增长3%，主要依赖DAU 3%的同比增长支撑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在用户规模上，微信仍保持绝对优势。微信DAU为9.31亿，抖音DAU为7.14亿，两者差距依然显著。&lt;/strong&gt;这意味着抖音在使用时长上的反超，主要来自单用户使用深度的持续加大。&lt;/p&gt;
-&lt;p&gt;在月活用户渗透率方面，微信以90.2%的渗透率排名第一，抖音以80.6%位居第二。&lt;/p&gt;
-&lt;p&gt;QuestMobile数据同时显示，2026年7月，中国月活智能手机用户数（MAS）同比增长1.3%至12.8亿，近几个月保持稳定。移动互联网月度使用总时长同比增长8.8%，较上月8.6%的增速小幅加快。&lt;/p&gt;
-
-字节系矩阵：短剧强势崛起，免费小说增速趋缓
-
-&lt;p&gt;字节跳动旗下短剧应用红果短剧的表现尤为突出。据野村援引QuestMobile数据，7月红果短剧DAU达1.68亿，同比增长107%，环比增长8%，月度使用总时长同比增幅高达157%。红果短剧DAU已超过腾讯视频、优酷、芒果TV及爱奇艺四家长视频平台DAU的总和。&lt;/p&gt;
-&lt;p&gt;长视频平台普遍承压。爱奇艺、腾讯视频、优酷、芒果TV的月度使用总时长分别同比下降27%、31%、47%和24%，DAU亦相应录得不同程度下滑。&lt;/p&gt;
-&lt;p&gt;红果短剧近期还推出了专注于AI动画短剧的子应用&amp;quot;红果AI动画剧&amp;quot;，7月DAU环比增长37%至1600万，显示出快速获客势头。&lt;/p&gt;
-&lt;p&gt;与此同时，字节跳动旗下免费阅读应用番茄免费小说的增速出现放缓迹象。7月其DAU同比增长6%至1.44亿，较6月8%的同比增速有所回落。野村认为，这可能意味着经历多年快速扩张后，该应用用户增长已接近天花板，来自AI动画短剧的竞争也对文学类应用形成分流压力。&lt;/p&gt;
-
-AI竞争轴心转移：从聊天机器人转向办公助手
-
-&lt;p&gt;&lt;strong&gt;野村指出，中国互联网巨头的AI竞争重心正从AI聊天机器人加速转向AI办公助手。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据QuestMobile数据，字节跳动旗下Doubao维持中国AI聊天机器人赛道DAU第一，7月DAU为1.68亿，同比增长3.6倍，但环比增速降至持平，终结了自2025年8月以来的连续增长势头。野村认为，这一信号表明AI聊天机器人领域的竞争热度有所降温。&lt;/p&gt;
-&lt;p&gt;在AI办公助手布局上，阿里巴巴将QoderWork、MuleRun及悟空整合为QwenWork，依托钉钉触达企业工作流；腾讯将WorkBuddy定位为通用AI办公助手旗舰产品，并逐步与微信、企业微信、腾讯文档及腾讯会议整合；字节跳动于8月25日正式推出豆包Work，同时将飞书产品团队与豆包合并，飞书销售团队并入火山引擎。&lt;/p&gt;
-&lt;p&gt;在传统办公应用层面，据QuestMobile数据，钉钉7月DAU约7700万（同比下降1%），企业微信DAU同比增长9%至7200万，与钉钉的差距持续收窄；飞书DAU同比增幅最高，达51%至1000万，但基数相对较小。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] iPhone Duo、iPhone Fold还是iPhone Ultra？苹果折叠屏手机命名之争</title><link>https://wallstreetcn.com/articles/3781403</link><guid>6b868bc536b9011ec3484a748f1a4ea8499633974209c3a99597aaeee7c489a7</guid><pubDate>Wed, 09 Sep 2026 08:32:26 GMT</pubDate><description>&lt;p&gt;苹果首款折叠屏iPhone即将亮相，但这款划时代产品究竟叫什么名字，至今仍是悬案。&lt;/p&gt;
-&lt;p&gt;9月9日，据Mashable报道，&lt;strong&gt;围绕&amp;quot;iPhone Fold&amp;quot;&amp;quot;iPhone Ultra&amp;quot;与&amp;quot;iPhone Duo&amp;quot;三个候选名称&lt;/strong&gt;，科技媒体与业内人士争论不休，而这场命名之争背后，折射出苹果在高端产品线布局上的深层考量。&lt;/p&gt;
-&lt;p&gt;据悉，&lt;strong&gt;这款折叠屏iPhone起售价预计约为2000美元，最高配置版本售价接近3000美元，最快将于今年10月正式开售&lt;/strong&gt;。在功能层面，该机将支持多任务处理及Apple Pencil，定位明确指向苹果产品线中的旗舰高端档位。&lt;/p&gt;
-&lt;p&gt;报道称，&lt;strong&gt;高达2000至3000美元的价格区间，使这款设备成为苹果史上最昂贵的iPhone&lt;/strong&gt;，也令其命名选择更具战略意义——&lt;strong&gt;一个响亮且差异化的名字，将直接影响消费者对这款产品的定位认知与购买决策。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;strong&gt;&lt;em&gt;Surprise and Shine&lt;/em&gt;&lt;/strong&gt;）”为主题的秋季特别活动，届时谜底将揭晓。&lt;/p&gt;
-&amp;quot;iPhone Fold&amp;quot;：最直白，却可能最不可能
-&lt;p&gt;&amp;quot;iPhone Fold&amp;quot;长期以来是科技媒体报道这款未发布设备时最常用的名称，逻辑简单直接——这是一部可折叠的iPhone。&lt;/p&gt;
-&lt;p&gt;然而，这一名称恰恰因其直白而存在明显短板。三星旗下折叠屏产品线同样以&amp;quot;Fold&amp;quot;命名，如Galaxy Z Fold 8。尽管三星并不对&amp;quot;Fold&amp;quot;一词拥有专有权，但苹果历来刻意回避与竞争对手产生直接的名称联想，以免引发消费者混淆或被动与三星产品形成比较。&lt;strong&gt;基于这一逻辑，&amp;quot;iPhone Fold&amp;quot;被认为是三个候选名称中落地可能性最低的选项。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在Mashable面向读者发起的调查中，仅27%的受访者预测该设备将命名为&amp;quot;iPhone Fold&amp;quot;，另有5%选择了&amp;quot;The Fold&amp;quot;这一变体。&lt;/p&gt;
-&amp;quot;iPhone Ultra&amp;quot;：内部叫法，呼声最高
-&lt;p&gt;在过去数月的报道周期中，&amp;quot;iPhone Ultra&amp;quot;逐渐成为业内最主流的预测名称，且有较为扎实的信源支撑。&lt;/p&gt;
-&lt;p&gt;据Mashable报道，消息灵通的苹果记者Mark Gurman今年早些时候在X平台透露，苹果内部员工普遍以&amp;quot;Ultra&amp;quot;称呼这款设备。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;另外，MacWorld亦报道称，苹果正在筹备一个全新的&amp;quot;Ultra&amp;quot;产品层级，而这款折叠屏手机理论上将成为该层级的首款产品。&lt;/p&gt;
-&lt;p&gt;值得注意的是，&amp;quot;iPhone Ultra&amp;quot;预计不会沿用其他新款iPhone的&amp;quot;18&amp;quot;数字编号，以示其独立于常规产品线之外的特殊定位。在Mashable读者调查中，&amp;quot;iPhone Ultra&amp;quot;获得了38%的支持率，位居三个候选名称之首。&lt;/p&gt;
-&amp;quot;iPhone Duo&amp;quot;：后来者，充满变数
-&lt;p&gt;就在发布活动临近之际，&amp;quot;iPhone Duo&amp;quot;这一名称开始在网络上悄然流传，为原本看似已有定论的命名预测增添了新的变量。&lt;/p&gt;
-&lt;p&gt;目前，支持&amp;quot;iPhone Duo&amp;quot;的具体报道依据相对有限，尚无经过充分核实的信源明确指向这一名称。然而，&lt;strong&gt;考虑到折叠屏设备&amp;quot;双屏&amp;quot;的产品形态，&amp;quot;Duo&amp;quot;在命名逻辑上具有一定合理性，不排除苹果在外界普遍押注&amp;quot;Ultra&amp;quot;之际，以&amp;quot;Duo&amp;quot;完成一次出人意料的命名转向。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，市场上还流传着&amp;quot;iPhone Ultra Fold&amp;quot;或&amp;quot;iPhone 18 Ultra&amp;quot;等组合变体名称，进一步加大了预测难度。&lt;/p&gt;
-2000美元起售：苹果最贵iPhone定价逻辑
-&lt;p&gt;无论最终命名如何落定，这款折叠屏iPhone的价格定位已基本明朗——起售价约2000美元，顶配版本接近3000美元，价格区间远超现有任何一款iPhone。&lt;/p&gt;
-&lt;p&gt;从功能配置来看，该机将支持多任务处理与Apple Pencil，契合其面向专业及高端用户群体的产品定位。&lt;strong&gt;最快10月的上市时间节点&lt;/strong&gt;，也意味着苹果将在年末消费旺季前完成这一重磅产品的市场投放。&lt;/p&gt;
-&lt;p&gt;分析指出，超高售价在拉升苹果硬件平均销售单价（ASP）的同时，也意味着其潜在受众相对有限，初期销量预期或将保守。&lt;strong&gt;命名能否有效传递产品的高端属性与差异化价值，将在一定程度上影响市场对这款设备商业前景的判断。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价自7月来首破100美元！美伊互袭油轮，汇丰：霍尔木兹中断将成新常态</title><link>https://wallstreetcn.com/articles/3781401</link><guid>35fa3413321cb0e29275643b0ddac27bee2bbecae4678e7b33ab0dbd9bebc6c0</guid><pubDate>Wed, 09 Sep 2026 08:17:34 GMT</pubDate><description>&lt;p&gt;美伊在霍尔木兹海峡的军事对抗急剧升温，全球油市再度面临供应冲击。布伦特原油9日盘中突破100美元/桶，为7月24日以来首次，市场对中东供应中断的担忧重新主导油价定价。&lt;/p&gt;
-&lt;p&gt;9月9日，布伦特原油盘中一度上涨2.3%，突破100美元/桶；截至发稿，涨幅收窄至1.82%，报99.7美元/桶。&lt;/p&gt;
-&lt;p&gt;据新华社，伊朗伊斯兰革命卫队9日发表声明说，作为对美军在波斯湾打击伊朗油轮的回应，革命卫队当天对两艘美国军舰和8艘油轮实施打击，还对10艘违规船只实施了打击。另据央视报道，美国中央司令部8日表示，美军当天摧毁了5艘伊朗原油运输船。&lt;/p&gt;
-&lt;p&gt;冲突升级之际，汇丰在8日发布的报告中指出，&lt;strong&gt;霍尔木兹海峡的供应中断可能已经从短期冲击演变为“新常态”&lt;/strong&gt;，油市将在更长时间内维持偏紧格局。该行将&lt;strong&gt;布伦特原油2026年全年均价预测从80美元/桶上调至90美元/桶&lt;/strong&gt;，2027年预测则从65美元大幅上调至85美元。&lt;/p&gt;
-&lt;p&gt;高盛亦警告，&lt;strong&gt;若航运扰动持续恶化，布伦特油价可能进一步升至120美元/桶。&lt;/strong&gt;与此同时，全球原油库存持续下降，也为油价提供基本面支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-美伊互袭，冲突烈度持续攀升
-&lt;p&gt;本轮冲突升级呈现明显的&amp;quot;以牙还牙&amp;quot;态势。&lt;/p&gt;
-&lt;p&gt;据央视报道，9月8日，美国中央司令部发文称，&lt;strong&gt;美军部队于当天摧毁了5艘伊朗原油运输船。&lt;/strong&gt;此前两天，&lt;strong&gt;伊朗伊斯兰革命卫队（IRGC）两次使用弹道导弹袭击一艘美国海军军舰。&lt;/strong&gt;美中央司令部称，美国军舰成功躲避了伊朗方面的袭击，并继续在该地区海域执行巡逻任务。袭击未造成任何美方人员伤亡。&lt;/p&gt;
-&lt;p&gt;当地时间8日晚，伊朗方面消息称，&lt;strong&gt;一艘伊朗油轮在距离哈尔克岛4英里处遭到美军导弹袭击。&lt;/strong&gt;报道援引当地消息人士称，事件中无人伤亡，油轮船员正在撤离。相关部门正在调查有关事件的具体情况。&lt;/p&gt;
-霍尔木兹&amp;quot;新常态&amp;quot;：通道受损已成结构性问题
-&lt;p&gt;汇丰报告指出，自7月停火协议破裂以来，霍尔木兹海峡液体流量已稳定在冲突前约30%的水平，但日内波动剧烈。目前经海峡运输的液体约为600万桶/日，远低于冲突前的1900万至2000万桶/日。&lt;/p&gt;
-&lt;p&gt;报告将这一状态定义为“中断”而非“封锁”——海峡既未完全关闭，也未完全恢复通航，而是处于持续受损状态。该行基准情景认为，美伊最终可能达成脆弱谅解，但协议仍会反复破裂，安全局势持续动荡。由此预计，&lt;strong&gt;霍尔木兹海峡流量将从当前约600万桶/日逐步回升至年底的800万桶/日，并于2027年中期升至950万桶/日，仍明显低于冲突前水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;绕行管道将成为缓解供应压力的重要补充。&lt;/strong&gt;报告预计，沙特东西向管道、阿联酋ADCOP管道等现有及在建项目，可推动绕行流量从目前逾400万桶/日升至2027年中期的680万桶/日，届时海湾地区总出口量有望达到约1650万桶/日。不过，这仍不足以完全弥补海峡流量损失，报告&lt;strong&gt;预计市场要到2027年中期才能恢复平衡，意味着未来数个季度库存仍将持续下降。&lt;/strong&gt;&lt;/p&gt;
-三种情景，价格区间从70到120美元
-&lt;p&gt;报告围绕霍尔木兹流量走势设定了三种情景，对应截然不同的油价路径。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;基准情景&lt;/strong&gt;下，布伦特原油预计在今年剩余时间维持在90美元/桶中段，2027年随市场逐步趋于平衡而温和回落。2026年四季度预测定为95美元/桶，2027年全年均价85美元/桶，2028年起降至75美元/桶。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;僵局情景&lt;/strong&gt;下，若外交谈判持续失败，霍尔木兹流量维持在当前低位，全球库存将逼近最低操作水平，布伦特原油可能升至110至120美元/桶区间，并在2027年三季度需求破坏与非欧佩克供应增长推动市场再平衡后才会回落。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;复苏情景&lt;/strong&gt;下，若2026年四季度达成持久停火，海湾出口大幅恢复，市场可能在年底前重回平衡，并于2027年形成逾3mbd的供应过剩，布伦特原油届时将跌回70美元/桶区间。&lt;/p&gt;
-成品油市场更紧，炼油利润创历史新高
-&lt;p&gt;报告指出，成品油市场的紧张程度甚至超过原油市场，且这一局面预计将延续至2027年。&lt;/p&gt;
-&lt;p&gt;欧洲柴油裂解价差于9月1日突破90美元/桶，创历史新高，部分原因在于俄罗斯将柴油、汽油及航空燃油出口禁令延长至2027年1月31日（据路透社8月29日报道）。汽油裂解价差近期也接近90美元/桶，航空燃油利润同样突破90美元/桶，与柴油大致持平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;运输与保险成本的飙升是炼油利润高企的另一重要原因。&lt;/strong&gt;报告援引TotalEnergies首席执行官的估算称，以&amp;quot;暗行&amp;quot;模式穿越霍尔木兹的成本约为10美元/桶（据路透社8月24日报道），从海湾运至亚洲还需额外支付6至9美元/桶，整段运输成本约为16至19美元/桶，约为冲突前的十倍。&lt;/p&gt;
-&lt;p&gt;俄罗斯方面，据Kpler 7月数据，约60%的俄罗斯炼油产能已遭无人机袭击或受到影响，离线产能估计达150至200万桶/日。俄罗斯8月海运柴油及瓦斯油出口量仅为15万桶/日，同比下降61万桶/日，较五年均值低81%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报告大幅上调2026至2028年炼油利润假设&lt;/strong&gt;，预计西北欧综合炼油利润2026年全年均值将达31.7美元/桶，远高于此前预测的20.9美元/桶，并预计成品油市场紧张局面将持续至2027年，届时才会随海湾炼厂逐步恢复正常运营而缓解。&lt;/p&gt;
-对冲基金正大举加码石油及成品油多头仓位
-&lt;p&gt;据KempEnergy研究公司援引监管机构和交易所最新持仓数据，由于库存持续偏低，加之炼油选择空间有限，成品油市场——尤其是汽油——已成为对冲基金及其他资金管理者的重点押注方向。&lt;/p&gt;
-&lt;p&gt;截至9月1日，基金经理们在三大汽油和中间馏分油品种的期货及期权合约中，累计持有净多头头寸约1.77亿桶。相比之下，基金对原油市场的态度则显谨慎，持仓基本持平甚至略偏空，净多头仅为3.8亿桶。&lt;/p&gt;
-&lt;p&gt;在燃料板块中，汽油的看涨情绪最为浓厚，净多头头寸高达8900万桶，不仅高于2011年以来约90%的周度历史水平，也处于2020年初疫情爆发以来的高位区间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI总裁Greg Brockman：AI已能生成新知识，智能体采用曲线“垂直上升”</title><link>https://wallstreetcn.com/articles/3781398</link><guid>b52e27e6c2131bc2422317a0f360bee113012630e68a29e9a5ffad4d9b810193</guid><pubDate>Wed, 09 Sep 2026 08:38:10 GMT</pubDate><description>&lt;p&gt;OpenAI正站在一个新的能力拐点上。从破解数学千禧年难题到计算机使用能力的跨越式提升，这家公司正试图向外界证明：AI已不仅仅是聊天工具，而是能够真正替用户完成工作的智能体。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI总裁Greg Brockman：AI已能生成新知识，智能体采用曲线“垂直上升”</title><link>https://wallstreetcn.com/articles/3781398</link><guid>b52e27e6c2131bc2422317a0f360bee113012630e68a29e9a5ffad4d9b810193</guid><pubDate>Wed, 09 Sep 2026 08:38:10 GMT</pubDate><description>&lt;p&gt;OpenAI正站在一个新的能力拐点上。从破解数学千禧年难题到计算机使用能力的跨越式提升，这家公司正试图向外界证明：AI已不仅仅是聊天工具，而是能够真正替用户完成工作的智能体。&lt;/p&gt;
 &lt;p&gt;OpenAI联合创始人兼总裁Greg Brockman近日在一档播客访谈中表示，公司旗下模型已成功找到纳维-斯托克斯方程（Navier-Stokes）的反例，证实这一流体力学核心方程在特定条件下存在奇点，从而攻克了七大&amp;quot;千禧年数学难题&amp;quot;之一。他将这一突破定性为&amp;quot;AI能够生成新知识&amp;quot;的里程碑，并认为这预示着AI在攻克疾病、开发新药等领域的雄心将发生&amp;quot;真正的变化&amp;quot;。与此同时，他透露，自ChatGPT Work推出以来，智能体的采用曲线&amp;quot;几乎垂直上升&amp;quot;，ChatGPT每周活跃用户已&amp;quot;远超10亿&amp;quot;。&lt;/p&gt;
 &lt;p&gt;Brockman表示，公司正将聊天与智能体两种模式加速融合，推动AI从&amp;quot;对话工具&amp;quot;转向&amp;quot;能真正主动、持续替用户分担工作&amp;quot;的形态。他认为，这才是AI长期以来真正的承诺——&amp;quot;让计算机真正按照你的目标和愿望运转&amp;quot;。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -309,30 +257,31 @@ Operator并非失败，而是计算机使用能力的&amp;quot;迭代基石&amp;
 &lt;p&gt;&lt;strong&gt;Greg Brockman&lt;/strong&gt;：不客气，这确实是OpenAI很多很多人共同努力的成果，是我们真正想要凝聚起来的东西——我觉得这也是我们作为一家公司真正看重的东西：我们始终高度聚焦于我们的使命，认真思考我们所做的每一件事，是否真正在为实现这个使命添砖加瓦。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主持人&lt;/strong&gt;：非常感谢你抽空来和我们聊天，很高兴见到你，我们很快再聊，Greg。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Greg Brockman&lt;/strong&gt;：谢谢，祝你今天接下来一切顺利，再见。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停</title><link>https://wallstreetcn.com/articles/3781396</link><guid>36212b359aac413ad489acec749c13dd92f31675e7482a8bb8ab76858bbb5ac0</guid><pubDate>Wed, 09 Sep 2026 06:15:50 GMT</pubDate><description>&lt;p&gt;GPT-6 Astra的发布正在引发一场算力与容量危机。OpenAI核心产品负责人Tibo公开示警：&lt;strong&gt;Astra的用户需求已超出历史经验，公司可能不得不暂停新的Pro订阅。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tibo在X平台发文称，“Astra的需求真的是前所未有。我们已经在拉动所有能拉的杠杆来维持服务，但直到现在，我从未见过任何类似的情况——而我们此前已经经历过非常陡峭的增长。”他表示，首要原则是确保现有用户的服务质量，但如果需求持续，“我们可能不得不暂时暂停新的Pro订阅”。这是OpenAI高管首次就单一模型需求公开发出供给预警。&lt;/p&gt;
-&lt;p&gt;市场影响不止于此。摩根士丹利在9月7日的报告中指出，&lt;strong&gt;GPT-6 Astra的重要性在于它将AI的瓶颈叙事，从“已知需求需要多少基础设施”扭转为“随着模型智能提升，有多少新工作负载将变得经济上可行”——前者是需求侧质疑，后者是供给侧压力。这对算力、电力和半导体产业链的定价逻辑均构成直接影响。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 抖音首次在使用时长上超越微信，字节系拿下中国移动互联网“时间份额”第一</title><link>https://wallstreetcn.com/articles/3781399</link><guid>5226b78cb97b1c690673a6dec0da3a83b761ae056d7b421790e1fa34bb9dc8f0</guid><pubDate>Wed, 09 Sep 2026 08:15:21 GMT</pubDate><description>&lt;p&gt;抖音在月度使用总时长上首次超越微信，字节跳动旗下应用矩阵在中国移动互联网的&amp;quot;时间争夺战&amp;quot;中确立领先地位。&lt;/p&gt;
+&lt;p&gt;野村证券援引QuestMobile数据，&lt;strong&gt;2026年7月，抖音月度使用总时长同比增长29%，以19.4%的时间份额首次超越腾讯微信的18.8%，成为中国使用时长最长的应用。&lt;/strong&gt;字节跳动旗下五款应用——抖音、抖音极速版、红果短剧、今日头条及番茄免费小说——&lt;strong&gt;合计占据中国移动互联网前50大应用时间份额的40.9%，较2025年7月的33.6%大幅提升，远超腾讯阵营的29.1%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一数据对互联网行业的投资逻辑具有直接影响：字节跳动在内容消费领域的渗透持续深化，而腾讯在社交及内容生态的时间份额正面临持续压力。与此同时，各大互联网巨头的竞争战场正加速向AI办公助手领域转移。&lt;/p&gt;
 
-Tibo是谁：从“额度之神”到OpenAI核心产品掌舵人
+抖音超越微信：DAU差距仍大，时长增长驱动不同
 
-&lt;p&gt;Tibo全名Thibault Sottiaux，2024年从Google DeepMind加入OpenAI。在DeepMind的六年间，他参与搭建了支撑AlphaGo、AlphaStar等项目的基础设施，并在离职前短暂领导了Gemini的人类数据团队。&lt;/p&gt;
-&lt;p&gt;加入OpenAI后，他迅速从内部工具开发转向面向用户的产品。&lt;strong&gt;他率领一支最初仅30至40人的团队构建了Codex，并于2025年5月将其公开发布。Codex活跃用户随后以每天百万级的速度增长，至今年7月已达800万，远早于此前预测的9月里程碑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2026年5月OpenAI内部大重组后，Tibo的职责进一步扩大——ChatGPT、Codex与开发者API三条产品线全部合并，统一由他负责执行，Greg Brockman负责整体产品战略。这意味着他掌管的是一个面向近10亿用户的超级应用入口。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo在X平台上以频繁为用户重置Codex额度著称，被开发者社区戏称为“赛博义父”和“掌管Token水龙头的神”，甚至出现了专门追踪其重置动态的民间网站TiboGPT。&lt;/strong&gt;这种高度透明的公开互动，已成为Codex产品体验的组成部分。&lt;/p&gt;
+&lt;p&gt;野村援引QuestMobile数据指出，&lt;strong&gt;抖音月度使用总时长的29%同比增幅，由日活跃用户数（DAU）19%的增长与每DAU日均使用时长（DTSD）8%的增长共同驱动。微信月度使用总时长同比增长3%，主要依赖DAU 3%的同比增长支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在用户规模上，微信仍保持绝对优势。微信DAU为9.31亿，抖音DAU为7.14亿，两者差距依然显著。&lt;/strong&gt;这意味着抖音在使用时长上的反超，主要来自单用户使用深度的持续加大。&lt;/p&gt;
+&lt;p&gt;在月活用户渗透率方面，微信以90.2%的渗透率排名第一，抖音以80.6%位居第二。&lt;/p&gt;
+&lt;p&gt;QuestMobile数据同时显示，2026年7月，中国月活智能手机用户数（MAS）同比增长1.3%至12.8亿，近几个月保持稳定。移动互联网月度使用总时长同比增长8.8%，较上月8.6%的增速小幅加快。&lt;/p&gt;
 
-Astra的能力跃升：从Answer Engine到AI Agent
+字节系矩阵：短剧强势崛起，免费小说增速趋缓
 
-&lt;p&gt;GPT-6 Astra的发布标志着一次实质性的能力边界扩张。OpenAI明确描述其能力为：操作计算机、浏览网页、使用软件、编写和运行代码、完成复杂工作流，并在科学、网络安全和专业领域执行长程任务。&lt;/p&gt;
-&lt;p&gt;在OSWorld 2.0测试中——该测试由CMU及斯坦福等团队提出，考察AI Agent在数字环境中完成复杂任务的能力并与人类专家基线对比——Astra得分72.6%，高于GPT-5.6 Sol的65.7%；完成任务的模拟时间从约75分钟压缩至约40分钟。&lt;/p&gt;
-&lt;p&gt;这一变化的核心意义在于：&lt;strong&gt;AI正在从“回答得更好”，走向“成功把事情做完”。&lt;/strong&gt;AI的工作模式由此从“人→AI→答案”，演变为“人→AI Agent→任务→执行→结果”。Tibo本人在公开分享中透露，他每天向Codex分配超过100个复杂任务，包括整理资源、检查值班轮换、分析发布计划等，并使用Codex生成个性化的每日工作简报。&lt;/p&gt;
+&lt;p&gt;字节跳动旗下短剧应用红果短剧的表现尤为突出。据野村援引QuestMobile数据，7月红果短剧DAU达1.68亿，同比增长107%，环比增长8%，月度使用总时长同比增幅高达157%。红果短剧DAU已超过腾讯视频、优酷、芒果TV及爱奇艺四家长视频平台DAU的总和。&lt;/p&gt;
+&lt;p&gt;长视频平台普遍承压。爱奇艺、腾讯视频、优酷、芒果TV的月度使用总时长分别同比下降27%、31%、47%和24%，DAU亦相应录得不同程度下滑。&lt;/p&gt;
+&lt;p&gt;红果短剧近期还推出了专注于AI动画短剧的子应用&amp;quot;红果AI动画剧&amp;quot;，7月DAU环比增长37%至1600万，显示出快速获客势头。&lt;/p&gt;
+&lt;p&gt;与此同时，字节跳动旗下免费阅读应用番茄免费小说的增速出现放缓迹象。7月其DAU同比增长6%至1.44亿，较6月8%的同比增速有所回落。野村认为，这可能意味着经历多年快速扩张后，该应用用户增长已接近天花板，来自AI动画短剧的竞争也对文学类应用形成分流压力。&lt;/p&gt;
 
-Token需求的乘数效应：工作能力提升与消耗成正比
+AI竞争轴心转移：从聊天机器人转向办公助手
 
-&lt;p&gt;Astra的能力跃升，将从根本上改变AI需求的测算逻辑。在Answer Engine时代，AI需求可以近似用“用户数×ARPU”衡量；但在AI Agent时代，这一公式已经失效。&lt;/p&gt;
-&lt;p&gt;Token总需求可以粗略表达为：Agent数量 × 每Agent任务数 × 每任务Token消耗。这三个变量在Astra发布后均面临同步扩张的压力。&lt;/p&gt;
-&lt;p&gt;首先是Agent数量的增加。&lt;strong&gt;一个人可能同时运行个人助理、编程、研究、财务等多个Agent，企业端则可能从数十个扩展至数千个。其次是单个Agent承接的任务复杂度上升——模型越能完成复杂任务，用户就越倾向于将更重、更长的工作交给Agent执行。第三是Agent从“偶尔调用”变为“持续运行”：任务越复杂，推理链越长，上下文越大，工具调用越多，Token消耗越大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着完全可能出现Agent数量增长20%、但Token总需求增长300%的情形。Tibo对Astra需求的预警，与这一逻辑高度吻合：能力提升直接驱动消耗放大，两者呈正相关。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股欧股承压，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 07:49:31 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;野村指出，中国互联网巨头的AI竞争重心正从AI聊天机器人加速转向AI办公助手。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据QuestMobile数据，字节跳动旗下Doubao维持中国AI聊天机器人赛道DAU第一，7月DAU为1.68亿，同比增长3.6倍，但环比增速降至持平，终结了自2025年8月以来的连续增长势头。野村认为，这一信号表明AI聊天机器人领域的竞争热度有所降温。&lt;/p&gt;
+&lt;p&gt;在AI办公助手布局上，阿里巴巴将QoderWork、MuleRun及悟空整合为QwenWork，依托钉钉触达企业工作流；腾讯将WorkBuddy定位为通用AI办公助手旗舰产品，并逐步与微信、企业微信、腾讯文档及腾讯会议整合；字节跳动于8月25日正式推出豆包Work，同时将飞书产品团队与豆包合并，飞书销售团队并入火山引擎。&lt;/p&gt;
+&lt;p&gt;在传统办公应用层面，据QuestMobile数据，钉钉7月DAU约7700万（同比下降1%），企业微信DAU同比增长9%至7200万，与钉钉的差距持续收窄；飞书DAU同比增幅最高，达51%至1000万，但基数相对较小。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股欧股承压，金银齐升</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 07:49:31 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
 &lt;p&gt;美军中央司令部当天宣布，美军摧毁了五艘运载原油的伊朗油轮，这是对伊朗两度试图以弹道导弹袭击美国海军舰艇的反制行动。伊朗随即向约旦发射导弹，并对波斯湾水域船只发出警告，局势进一步激化。受此影响，布伦特原油盘中一度上涨2.3%，正式迈过百元关口。&lt;/p&gt;
 &lt;p&gt;油价飙升令市场通胀预期骤然升温，美股期货承压，标普500指数期货几乎持平，欧洲斯托克600指数下跌0.4%，消费品及其他经济敏感板块拖累尤为明显。高盛已就此发出警告，若航运中断持续，油价可能进一步上冲至每桶120美元。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -367,4 +316,94 @@ Token需求的乘数效应：工作能力提升与消耗成正比
 
 日元连续三日走强，美元指数小幅回落
 
-&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
+&lt;p&gt;苹果新任CEO John Ternus今晚将登上他接掌帅印后的第一个发布会舞台。他在上周&lt;a href="https://wallstreetcn.com/articles/3781109?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;致员工的信&lt;/a&gt;中写道：“我对公司即将推出的一系列重磅新品充满期待。下周我们将迎来一场堪称非凡的发布盛会，而更令我振奋的，是那之后的更多惊喜——既有那些已蓄势待发的杰出产品，也有我们尚未构想的新品。”&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，美银证券分析师Wamsi Mohan在9月8日发布的研究报告中指出，今晚发布会的三大核心看点分别是：&lt;strong&gt;苹果首款折叠iPhone、Pro系列潜在的大幅涨价，以及将低价iPhone机型推迟至2027年春季发布的节奏调整。&lt;/strong&gt;三件事叠加在一起，让这场发布会成为近年来看点最密集的一次。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+折叠屏：苹果最贵的iPhone来了
+&lt;p&gt;折叠屏iPhone无疑是今晚发布会的绝对主角。据媒体报道，这款设备内部被称为“iPhone Ultra”，也可能以“Fold”命名。&lt;/p&gt;
+&lt;p&gt;美银证券报告援引媒体报道称，&lt;strong&gt;其基础配置起售价约为2099美元（约合14085人民币），将成为苹果有史以来最贵的iPhone。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;硬件规格方面，分析师预计该机搭载书本式折叠设计，配备5.5英寸外屏OLED与7.8英寸内屏OLED，处理器为2nm制程的A20 Pro芯片，内存12GB，存储选项涵盖256GB、512GB、1TB及2TB四档，并随附iOS 27系统。&lt;/p&gt;
+&lt;p&gt;背景素材显示，这款折叠机展开厚度约4.5mm，折叠后约9mm，苹果将&lt;strong&gt;“轻薄”&lt;/strong&gt;列为核心设计目标。为此做出的取舍包括：Face ID被取消，改为侧边Touch ID；后置摄像头从Pro系列的三摄缩减为双摄，砍掉了长焦镜头。&lt;/p&gt;
+&lt;p&gt;iOS 27针对折叠形态新增了并排App与类iPad多任务布局，但该设备运行的仍是iOS而非iPadOS。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，美银认为，市场对这款产品的反应将在很大程度上取决于折叠屏需求的实际表现及管理层的相关表态。&lt;/p&gt;
+&lt;p&gt;不过，中国市场可能是这款手机最难攻克的市场之一。华为、荣耀、OPPO、vivo等国产厂商已在折叠屏领域深耕多年，从铰链工艺、折痕控制到影像能力、快充速度，竞争维度已相当成熟。&lt;/p&gt;
+Pro系列：外观不变，内里升级，价格要涨
+&lt;p&gt;iPhone 18 Pro与Pro Max今年不会带来外观上的大变化。报告指出，两款机型将延续6.3英寸与6.9英寸的屏幕尺寸，搭载2nm A20 Pro处理器、更大电池、更小的灵动岛，并升级摄像头系统。&lt;/p&gt;
+&lt;p&gt;核心变化藏在内部：A20 Pro是苹果首款采用2nm工艺的iPhone芯片，其意义不仅在于性能提升，更在于为AI本地运算、影像计算等高负载任务降低功耗。此外，Pro Max预计将首次配备机械可变光圈，可实现更精细的曝光控制与景深调节。而这一功能此前已在华为、小米、三星等安卓旗舰上出现过。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;价格方面，涨价几乎已成定局。美银证券&lt;strong&gt;预计iPhone 18 Pro/Pro Max售价将上涨150至200美元&lt;/strong&gt;，原因是内存与存储成本大幅上升。这一涨幅若成真，将是近年来Pro系列最显著的一次提价。&lt;/p&gt;
+发布节奏重构：秋季只剩“贵的”，不会出现标准版iPhone 18
+&lt;p&gt;今年发布会另一个值得关注的变化，是苹果对iPhone发布节奏的重大调整。今年秋季发布会上，不会出现标准版iPhone 18。&lt;/p&gt;
+&lt;p&gt;美银指出，标准版iPhone 18、iPhone 18 Air及iPhone 18e据报道将推迟至2027年春季发布。这意味着今年秋季假日销售季，消费者能买到的全新iPhone只有Pro系列和折叠屏机型——入门价格直接从Pro起跳。&lt;/p&gt;
+&lt;p&gt;分析师认为，这种“分拆发布”策略有助于提升产品组合结构与平均售价（ASP），但也存在一定风险：“&lt;strong&gt;对价格敏感的消费者可能会推迟升级，等待低价机型上市。&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;从出货天数来看，分析师估算，若iPhone 18系列于9月19日开始发货，本季度内的新机发货天数仅为8天，略少于去年iPhone 17系列的9天。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Apple智能进中国：对国行用户或比折叠屏更重要
+&lt;p&gt;对中国用户而言，今晚发布会上另一个值得高度关注的信号，&lt;strong&gt;是Apple智能能否正式落地国行iPhone。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apple Intelligence于2024年发布，但国行iPhone至今无法使用这一功能，缺席时间接近两年。与此同时，华为、小米、OPPO、vivo、荣耀等国产厂商已将AI功能深度整合进系统，覆盖通知读取、屏幕理解、照片整理、跨应用操作等场景。&lt;/p&gt;
+&lt;p&gt;今年7月，国家网信办公布新一批手机端侧生成式人工智能服务备案名单，“Apple智能”正式出现，备案主体为苹果技术开发（上海）有限公司。阿里随后确认，千问模型将整合进中国大陆版Apple智能，为iOS、iPadOS、macOS和visionOS提供文本及图像理解与生成能力；百度也确认正在参与苹果中国版AI功能的开发。苹果中国官网已出现&amp;quot;在Mac上配合Apple智能使用千问&amp;quot;的官方帮助页面。&lt;/p&gt;
+&lt;p&gt;不过，&lt;a href="https://wallstreetcn.com/articles/3780806?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;有分析指出，Apple智能在中国上线，并不等于苹果在WWDC 2026展示的所有Siri AI功能同步开放&lt;/a&gt;。苹果已明确表示，新一代Siri AI今年晚些时候将首先以英文Beta形式推出。科技自媒体硅星人Pro认为，“即便9月发布会上苹果正式宣布Apple智能进入中国，仍需确认：第一批开放哪些功能？千问和百度分别参与到系统的哪一层？”&lt;/p&gt;
+其他看点：Apple Watch、AirPods与智能家居
+&lt;p&gt;除iPhone外，美银预计今晚还可能发布Apple Watch Series 12和/或Ultra 4，以及AirPods 5。此外，苹果或将预告或发布更新版Apple TV 4K与HomePod mini等智能家居产品。&lt;/p&gt;
+&lt;p&gt;Apple Watch Series 12将新增配色与陶瓷表壳，并搭载更强芯片以支持AI版Siri所需算力；AirPods 5将推出普通版与主动降噪版两个版本，此前传言的内置摄像头版AirPods今年大概率不会出现。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+股价怎么走？历史规律与今年变量
+&lt;p&gt;美银援引历史数据指出，苹果股价在iPhone发布会后往往出现小幅“利好出尽”式回调，但随后在30至60天内通常会收复失地。&lt;/p&gt;
+&lt;p&gt;今年的情况略有不同。数据显示，截至9月3日收盘，苹果股价较发布会前60天已下跌约6%，较前30天同样下跌约6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;分析师认为，今年投资者的反应将主要取决于三个因素：涨价幅度是否超出预期、Siri AI功能的用户采纳情况，以及管理层对折叠屏需求的表态。&lt;/p&gt;
+&lt;p&gt;该行维持对苹果的买入评级，目标价380美元（当前股价319.97美元），理由包括强劲的资本回报、AI端侧能力的长期领导潜力，以及新产品带来的期权价值。该行预计苹果2026财年每股收益为8.85美元，同比增长约19%。&lt;/p&gt;
+Ternus时代的第一张答卷
+&lt;p&gt;John Ternus于今年9月1日正式接任苹果CEO，距离今晚发布会仅隔数日。这一时间安排并非巧合——据报道，苹果将CEO交接节点刻意设在发布会前夕，正是为了让Ternus亲自站台，发布由他主导研发的产品线。&lt;/p&gt;
+&lt;p&gt;过去15年，苹果的产品策略以打磨现有产品线为主，Apple Watch和AirPods是为数不多的全新品类。这一局面正在改变。据报道，Ternus在担任硬件工程高级副总裁期间，主导了苹果当前这一轮密集新品的研发工作。&lt;/p&gt;
+&lt;p&gt;据报道，苹果未来数年的新品路线图涵盖折叠屏iPhone、触控屏MacBook、内置摄像头AirPods、带屏智能家居中枢，乃至配备机械臂的桌面机器人和AR眼镜。今晚的发布会，只是这条路线图的第一页。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%</title><link>https://wallstreetcn.com/articles/3781380</link><guid>c17438d28b5252e9df578f672e30fb0cdf27cf55d7e23c3dca05b30ea290b0f7</guid><pubDate>Wed, 09 Sep 2026 01:47:50 GMT</pubDate><description>&lt;p&gt;中国价格数据在8月份出现同步改善，消费端和生产端通胀指标均较前月回升。&lt;/p&gt;
+&lt;p&gt;国家统计局数据显示，8月CPI同比上涨0.8%，涨幅较上月扩大0.3个百分点；PPI同比上涨3.8%，涨幅较上月扩大0.3个百分点。两项指标的环比均由降转涨，CPI环比上涨0.4%，PPI环比上涨0.4%。&lt;/p&gt;
+&lt;p&gt;此轮回升主要由能源价格驱动。国际油价上行推动国内汽油价格环比大幅反弹，带动CPI能源分项同比涨幅从0.6%跳升至4.1%；国际原油及有色金属价格上涨则经由输入性渠道传导至生产端，&lt;strong&gt;成为PPI环比由负转正的最主要支撑&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;另外，国家统计局城市司首席统计师董莉娟称，&lt;strong&gt;受算力需求快速增长等因素影响，移动电话机、平板电脑、数据存储设备价格分别上涨2.3%、2.1%和2.1%，合计拉动CPI上涨约0.03个百分点&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国家统计局城市司首席统计师董莉娟解读2026年8月份CPI和PPI数据&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;8月份，受国际市场价格变动、食品价格季节性上涨等因素影响，居民消费价格指数（CPI）环比由上月下降0.1%转为上涨0.4%，同比涨幅回升至0.8%；扣除食品和能源价格的核心CPI同比涨幅回升至1.0%。受国际大宗商品价格上行传导、国内产业转型升级带动部分行业需求增加等因素影响，工业生产者出厂价格指数（PPI）环比由上月下降0.7%转为上涨0.4%，同比涨幅扩大至3.8%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一、CPI环比由降转涨，同比温和回升&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从环比看，全国CPI由上月下降0.1%转为上涨0.4%。受国际市场价格变动影响，国内汽油价格由上月下降10.7%转为上涨7.2%，影响CPI环比上涨约0.21个百分点；黄金饰品价格由上月下降2.6%转为上涨7.6%，影响CPI环比上涨约0.04个百分点。&lt;strong&gt;受算力需求快速增长等因素影响，移动电话机、平板电脑、数据存储设备价格分别上涨2.3%、2.1%和2.1%，合计拉动CPI上涨约0.03个百分点&lt;/strong&gt;。食品价格由上月持平转为上涨0.4%，影响CPI环比上涨约0.07个百分点。食品中，受高温多雨天气以及应季蔬菜换茬等影响，鲜菜价格上涨5.5%，涨幅比上月扩大4.2个百分点；受蛋鸡夏季歇伏、生猪出栏减少等因素影响，鸡蛋价格由上月下降2.1%转为上涨2.4%，猪肉价格上涨1.3%；上述三项合计影响CPI环比上涨约0.12个百分点。应季水果供应充足，鲜果价格下降2.5%；部分海域休渔期结束供应增加，水产品价格下降0.9%；上述两项合计影响CPI环比下降约0.07个百分点。服务价格上涨0.1%，涨幅比上月回落0.3个百分点，影响CPI环比上涨约0.04个百分点。服务中，暑假期间出行服务价格继续上涨，交通工具租赁、飞机票、宾馆住宿价格分别上涨3.3%、3.0%和1.0%。&lt;/p&gt;
+&lt;p&gt;从同比看，&lt;strong&gt;全国CPI上涨0.8%，涨幅比上月扩大0.3个百分点，主要是受能源价格涨幅扩大影响。能源价格涨幅由上月的0.6%扩大至本月的4.1%，影响CPI同比上涨约0.28个百分点，对CPI的上拉影响比上月增加约0.24个百分点。&lt;/strong&gt;其中，汽油价格上涨9.3%，涨幅扩大8.3个百分点。扣除能源的工业消费品价格上涨1.8%，涨幅扩大0.3个百分点，影响CPI同比上涨约0.42个百分点。其中，黄金饰品价格上涨33.6%，涨幅扩大9.0个百分点；平板电脑、计算机和移动电话机价格分别上涨21.5%、19.6%和11.0%，涨幅均有扩大。服务价格上涨0.8%，涨幅比上月扩大0.1个百分点，影响CPI同比上涨约0.38个百分点。服务中，出行服务价格上涨1.3%，涨幅扩大1.2个百分点；医疗服务价格上涨4.0%，涨幅回落0.3个百分点。食品价格下降1.4%，降幅比上月收窄0.1个百分点，影响CPI同比下降约0.24个百分点。食品中，猪肉价格下降11.8%，降幅收窄1.5个百分点，影响CPI同比下降约0.22个百分点；鲜菜、鲜果、粮食、食用油、水产品、奶类价格降幅在0.5%—2.8%之间，合计影响CPI同比下降约0.10个百分点；鸡蛋价格上涨18.5%，涨幅扩大0.7个百分点，影响CPI同比上涨约0.07个百分点；羊肉、牛肉和禽肉类价格涨幅在1.1%—6.3%之间，合计影响CPI同比上涨约0.07个百分点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二、PPI环比由降转涨，同比涨幅扩大&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从环比看，&lt;strong&gt;全国PPI由上月下降0.7%转为上涨0.4%。&lt;/strong&gt;本月PPI环比运行的主要特点：&lt;strong&gt;一是输入性因素影响国内相关行业价格上涨。&lt;/strong&gt;国际原油及有色金属价格上行带动国内相关行业价格上涨，其中石油开采、精炼石油产品制造、有机化学原料制造价格分别上涨10.4%、4.1%和0.9%，有色金属冶炼和压延加工业价格上涨0.8%，4个行业合计影响PPI环比上涨约0.31个百分点。&lt;strong&gt;二是产业转型升级带动部分行业需求增加、价格上涨。&lt;/strong&gt;新动能加快培育，产业发展含“智”量、含“绿”量持续提升，电子电路制造价格上涨3.5%，虚拟现实设备制造价格上涨1.9%，服务消费机器人制造价格上涨0.3%；生物质燃料加工、废弃资源综合利用业价格均上涨0.3%。&lt;strong&gt;三是部分行业价格走势呈季节性特点。&lt;/strong&gt;8月份用电用煤需求季节性增加，带动煤炭开采和洗选业价格上涨2.8%，电力供应价格上涨1.4%；高温雨水天气影响建筑项目施工，黑色金属冶炼和压延加工业、非金属矿物制品业价格分别下降0.9%和0.2%。&lt;/p&gt;
+&lt;p&gt;从同比看，全国PPI上涨3.8%，涨幅比上月扩大0.3个百分点。分主要行业看，价格上涨的行业中，煤炭开采和洗选业上涨26.6%，有色金属冶炼和压延加工业上涨20.8%，石油和天然气开采业、石油煤炭及其他燃料加工业、化学原料和化学制品制造业分别上涨10.5%、11.1%和9.1%，电气机械和器材制造业上涨5.9%，&lt;strong&gt;计算机通信和其他电子设备制造业上涨5.3%，7个行业合计影响PPI同比上涨约4.24个百分点，上拉影响比上月增加0.37个百分点。&lt;/strong&gt;价格下拉影响最大的6个行业为：电力热力生产和供应业、汽车制造业、非金属矿物制品业、医药制造业、酒饮料和精制茶制造业、农副食品加工业，降幅在1.7%—5.3%之间，合计影响PPI同比下降约0.74个百分点。&lt;/p&gt;
+&lt;/blockquote&gt;
+CPI环比由降转涨，同比温和回升
+&lt;p&gt;2026年8月份，全国居民消费价格同比上涨0.8%。其中，城市上涨0.8%，农村上涨0.7%；食品价格下降1.4%，非食品价格上涨1.2%；消费品价格上涨0.8%，服务价格上涨0.8%。1—8月平均，全国居民消费价格比上年同期上涨0.9%。&lt;/p&gt;
+&lt;p&gt;8月份，全国居民消费价格环比上涨0.4%。其中，城市上涨0.4%，农村上涨0.4%；食品价格上涨0.4%，非食品价格上涨0.3%；消费品价格上涨0.6%，服务价格上涨0.1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一、各类商品及服务价格同比变动情况&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月份，食品烟酒及在外餐饮类价格同比下降0.7%，影响CPI（居民消费价格指数）下降约0.21个百分点。食品中，畜肉类价格下降5.1%，影响CPI下降约0.21个百分点，其中猪肉价格下降11.8%；鲜菜价格下降2.8%，影响CPI下降约0.05个百分点；奶类价格下降1.4%，影响CPI下降约0.01个百分点；水产品价格下降0.6%，影响CPI下降约0.01个百分点；蛋类价格上涨15.0%，影响CPI上涨约0.07个百分点。&lt;/p&gt;
+&lt;p&gt;其他七大类价格同比六涨一降。其中，其他用品及服务、医疗保健、交通通信价格分别上涨7.3%、2.7%和2.5%，教育文化娱乐、衣着、生活用品及服务价格分别上涨1.4%、1.3%和0.7%；居住价格下降0.3%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二、各类商品及服务价格环比变动情况&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月份，食品烟酒及在外餐饮类价格环比上涨0.3%，影响CPI上涨约0.07个百分点。食品中，鲜菜价格上涨5.5%，影响CPI上涨约0.09个百分点；蛋类价格上涨2.0%，影响CPI上涨约0.01个百分点；畜肉类价格上涨0.9%，影响CPI上涨约0.03个百分点，其中猪肉价格上涨1.3%；鲜果价格下降2.5%，影响CPI下降约0.05个百分点；水产品价格下降0.9%，影响CPI下降约0.02个百分点。&lt;/p&gt;
+&lt;p&gt;其他七大类价格环比两涨三平两降。其中，交通通信、其他用品及服务价格分别上涨1.7%和1.5%；居住、教育文化娱乐、医疗保健价格均持平；生活用品及服务、衣着价格分别下降0.2%和0.1%。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+PPI环比由降转涨，同比涨幅扩大
+&lt;p&gt;2026年8月份，全国工业生产者出厂价格同比上涨3.8%，环比上涨0.4%。工业生产者购进价格同比上涨5.8%，环比上涨0.3%。1—8月平均，工业生产者出厂价格比上年同期上涨2.0%，工业生产者购进价格上涨3.2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一、工业生产者价格同比变动情况&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月份，工业生产者出厂价格中，生产资料价格同比上涨5.0%，影响工业生产者出厂价格总水平上涨约3.92个百分点。其中，采掘工业价格上涨17.8%，原材料工业价格上涨6.7%，加工工业价格上涨3.1%。生活资料价格下降0.5%，影响工业生产者出厂价格总水平下降约0.10个百分点。其中，食品价格下降2.3%，衣着价格下降1.2%，一般日用品价格下降0.8%，耐用消费品价格上涨1.2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;工业生产者购进价格中，有色金属材料及电线类价格上涨19.8%，燃料动力类价格上涨9.8%，化工原料类价格上涨9.5%，纺织原料类价格上涨3.8%，黑色金属材料类价格上涨0.3%；建筑材料及非金属类价格下降3.2%，农副产品类价格下降0.5%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二、工业生产者价格环比变动情况&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8月份，工业生产者出厂价格中，生产资料价格环比上涨0.4%，影响工业生产者出厂价格总水平上涨约0.32个百分点。其中，采掘工业价格上涨2.7%，原材料工业价格上涨0.8%，加工工业价格持平。生活资料价格上涨0.2%，影响工业生产者出厂价格总水平上涨约0.04个百分点。其中，食品和衣着价格均持平，一般日用品价格下降0.2%，耐用消费品价格上涨0.6%。&lt;/p&gt;
+&lt;p&gt;工业生产者购进价格中，燃料动力类价格上涨1.4%，有色金属材料及电线类价格上涨0.8%，纺织原料类价格上涨0.6%；黑色金属材料类价格下降0.6%，化工原料类价格下降0.4%；农副产品类、建筑材料及非金属类价格均持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
