@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 12:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 布油自7月来首破100美元，9月加息概率升至60%：美联储议息前夜“缓和叙事”被击碎</title><link>https://wallstreetcn.com/articles/3781417</link><guid>bae3150d8c532b11c1731be1a259a39610499fa42122193b40922be3fec50f89</guid><pubDate>Wed, 09 Sep 2026 12:08:38 GMT</pubDate><description>&lt;p&gt;此前市场对美伊局势缓和、霍尔木兹航运逐步恢复的定价，被布伦特原油自7月24日以来首次重回100美元/桶的现实撕碎，能源通胀预期重燃，令美联储9月议息会议前的利率前景再生变数。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 09 Sep 2026 12:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 布油自7月来首破100美元，9月加息概率升至60%：美联储议息前夜“缓和叙事”被击碎</title><link>https://wallstreetcn.com/articles/3781417</link><guid>bae3150d8c532b11c1731be1a259a39610499fa42122193b40922be3fec50f89</guid><pubDate>Wed, 09 Sep 2026 12:08:38 GMT</pubDate><description>&lt;p&gt;此前市场对美伊局势缓和、霍尔木兹航运逐步恢复的定价，被布伦特原油自7月24日以来首次重回100美元/桶的现实撕碎，能源通胀预期重燃，令美联储9月议息会议前的利率前景再生变数。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;布伦特原油周三盘中突破100美元/桶关口，日内涨超2%，为自7月24日以来首次。&lt;/strong&gt;霍尔木兹海峡日均原油通过量已从正常约1800万桶骤降至490万桶，航运梗阻非但未缓解反而恶化；美联储主席沃什聚焦控制物价，CME FedWatch数据显示市场对9月加息25个基点的概率已升至60.4%，与此前的降息预期形成尖锐反差。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美股股指期货周三交投平淡，道指E-minis下跌84点（0.16%），标普500 E-minis持平，纳指100 E-minis微涨0.04%。摩根士丹利首席美国股票策略师Mike Wilson警告，&lt;strong&gt;&amp;quot;油价和利率上升仍是近期股市的主要风险&amp;quot;，并称战略储备已被大幅动用以缓冲油价。&lt;/strong&gt;&lt;/p&gt;
@@ -93,7 +93,32 @@
 竞争与争议：与Anthropic团队的优先权之争
 &lt;p&gt;此次突破背后，还存在一段与Anthropic团队有关的优先权插曲。OpenAI称，公司启动相关工作的直接诱因，是听闻Anthropic员工Levent Alpöge与纽约大学数学教授Tristan Buckmaster可能已经解决相关问题。&lt;/p&gt;
 &lt;p&gt;OpenAI在9月6日完成证明并通过Lean验证后，主动联系两人，希望协调联合发布并承认对方可能拥有的优先权。但双方随后发现，Alpöge与Buckmaster研究的是有外力欧拉方程问题，而非纳维-斯托克斯方程本身。&lt;/p&gt;
-&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股盘前走低、欧股跌幅扩大，2年期美债收益率升至两年来新高</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 11:39:48 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
+&lt;p&gt;据参与协调的人士发帖，OpenAI曾提出让对方优先发布、邀请Tristan Buckmaster担任OpenAI证明改写版本第一作者等方案，但双方最终未能达成一致。OpenAI则表示，其团队及智能体没有以任何方式获取对方的研究内容，同时认为对方使用OpenAI产品产生的去标识化数据影响模型训练的可能性极低。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧洲天然气豪赌：十五年最低库存，宁赌暖冬也不高位接盘天然气</title><link>https://wallstreetcn.com/articles/3781419</link><guid>eafe80e795e3b2ad65a2324634cee6b530d5cd5ea1c00a3abb071d49e39a160e</guid><pubDate>Wed, 09 Sep 2026 12:52:01 GMT</pubDate><description>&lt;p&gt;面对四年内第二次能源危机，欧洲却选择以史上最低库存水位迎接冬季——这是一场有意为之的豪赌，而非疏忽大意。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欧洲天然气库存目前仅为67%，较一年前低13个百分点，为15年来最低水平。&lt;/strong&gt;欧盟上周发表声明，称当前低库存&amp;quot;无需担忧&amp;quot;，理由是自2022年以来欧洲已大幅降低对天然气的依赖。这一表态背后，是部分欧洲国家政府主动选择&amp;quot;以逸待劳&amp;quot;——宁愿押注暖冬降临，也不愿在高位重蹈2022年大规模囤气、巨亏数十亿欧元的覆辙。&lt;/p&gt;
+&lt;p&gt;这一策略直接影响全球能源市场格局。若欧洲的赌注落空，被迫入冬后大规模转向现货市场补货，美国液化天然气（LNG）出口商将从中受益，欧洲天然气价格则可能大幅攀升；若押注成功，已较6月底上涨75%的欧洲天然气现货价格或将得到抑制。&lt;/p&gt;
+
+低库存背后：欧洲的主动选择
+
+&lt;p&gt;欧洲储气水位之所以处于历史低位，部分原因在于市场预期落空。据悉，欧洲买家此前寄望于霍尔木兹海峡届时恢复通航，卡塔尔LNG重回市场，从而压低价格，让欧洲可以在最后关头以较低成本完成补库。然而这一预期至今未能实现。&lt;/p&gt;
+&lt;p&gt;与此同时，欧盟方面为低库存提供了结构性依据。自2022年能源危机以来，欧洲持续调整能源结构，冬季天然气需求已较2022年下降17%，可再生能源在能源结构中占比提升是重要推动因素。据伍德麦肯兹（Wood Mackenzie）数据，欧洲如今维持供暖季所需的储气量本就低于过去，持有较低库存具备一定合理性。&lt;/p&gt;
+
+德国的伤疤：6.7亿欧元教训催生谨慎
+
+&lt;p&gt;&lt;strong&gt;德国是此轮&amp;quot;不高位接盘&amp;quot;策略最具代表性的国家。其储气率目前仅约50%，远低于葡萄牙和波兰逾90%的水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一取向与2022年的惨痛经历密切相关。当年夏季，欧洲天然气价格创下历史纪录，德国市场运营商TradingHub Europe在6月至10月间斥资87亿欧元（约合当前101亿美元）高价购气注库，此后两个冬季将这批天然气售回市场，估计总收入仅约20亿欧元。据标普全球能源执行董事Laurent Ruseckas估算，这一&amp;quot;买在高点、卖在低点&amp;quot;的操作造成约67亿欧元亏损，最终大部分由德国天然气用户承担，政府也承担了部分损失。&lt;/p&gt;
+&lt;p&gt;德国政府显然有意避免重演这一局面——额外成本一旦转嫁至企业和消费者，将直接推高通胀。而欧洲天然气现货价格自6月底已累计上涨75%，若此时仓促补库，价格可能进一步冲高。&lt;/p&gt;
+
+风险图景：最坏情形下，明春库存或跌至14%
+
+&lt;p&gt;欧洲的策略并非没有代价，其风险同样显而易见。&lt;/p&gt;
+&lt;p&gt;据伍德麦肯兹最乐观情景预测，若卡塔尔和阿联酋LNG出货尽快恢复、并于11月前后抵达欧洲市场，到2027年4月1日供暖季结束时，欧洲储气率仍可能跌至21%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若霍尔木兹海峡在今年剩余时间内持续关闭，这一数字可能低至14%。&lt;/strong&gt;一旦届时中东LNG供应仍未恢复正常，欧盟将面临在供应紧张的市场中以高价填充近乎见底的储气库，代价将极为沉重。&lt;/p&gt;
+
+谁是赢家：美国LNG出口商待机获利
+
+&lt;p&gt;对于美国LNG出口商而言，欧洲的豪赌提供了潜在的巨大机遇。若欧洲被迫转向现货市场大规模采购，Venture Global和Cheniere Energy等美国出口商将直接受益于价格上涨。其中Venture Global因对现货价格敞口较高，获益空间尤为突出。&lt;/p&gt;
+&lt;p&gt;不过，一个潜在的缓冲因素正在酝酿中。预计今冬强厄尔尼诺气候系统将推动欧洲气温高于正常水平，若暖冬成真，天然气需求将受到压制，为欧洲争取更多时间等待中东LNG供应恢复正常，从而降低被迫高价补库的概率。&lt;/p&gt;
+&lt;p&gt;欧洲在2022年已经历过恐慌性抢购的代价。这一次，它押注的是：保持冷静，等待时机，或许才是代价最小的选择。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 光通信更新与光电博览会前瞻</title><link>http://xueqiu.com/5332385101/408555906</link><guid>6e0a82af0780c93e2e8bbe195b4c1037b00786a2d709055f11ee77189bf3fab6</guid><pubDate>Wed, 09 Sep 2026 12:02:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股芯片与AI基建逆市上涨，英特尔涨超9%；光通信方面，Lumentum涨超11%，康宁、Coherent均涨超7%；存储涨跌不一，海力士涨近5%，美光跌约1.6%。&lt;/p&gt;</description></item><item><title>[今日雪球] 谁的估值最低？——保险股2026年中报总结（7）</title><link>http://xueqiu.com/7543024848/408548571</link><guid>51ffcaaa414aa531c4e71fc85c22cacd34cf408f6af262960e6d6b0d847a33fb</guid><pubDate>Wed, 09 Sep 2026 12:02:05 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼价投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有小伙伴批评我，说我只讲基本面，但不讲估值。脱离估值讲基本面类似耍流氓。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊军事冲突升级，布油冲破百元关口，美股盘前走低、欧股跌幅扩大，2年期美债收益率升至两年来新高</title><link>https://wallstreetcn.com/articles/3781389</link><guid>840515c029c2342dc56feecbccef874e48bcf9faea62a8818d943ed56ee47c90</guid><pubDate>Wed, 09 Sep 2026 11:39:48 GMT</pubDate><description>&lt;p&gt;布伦特原油周三突破每桶100美元，创下自2024年7月以来的新高，美伊军事冲突升级与石油需求回暖成为本轮上涨的双重驱动力，通胀担忧随之蔓延至全球股市。&lt;/p&gt;
 &lt;p&gt;美军中央司令部当天宣布，美军摧毁了五艘运载原油的伊朗油轮，这是对伊朗两度试图以弹道导弹袭击美国海军舰艇的反制行动。伊朗随即向约旦发射导弹，并对波斯湾水域船只发出警告，局势进一步激化。受此影响，布伦特原油盘中一度上涨2.3%，正式迈过百元关口。&lt;/p&gt;
 &lt;p&gt;油价飙升令市场通胀预期骤然升温，美股期货承压，标普500指数期货下跌0.1%，纳斯达克100指数期货回吐了早盘高达0.3%的涨幅，欧洲斯托克600指数下跌0.4%，消费品及其他经济敏感板块拖累尤为明显。高盛已就此发出警告，若航运中断持续，油价可能进一步上冲至每桶120美元。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -129,74 +154,7 @@
 
 日元连续三日走强，美元指数小幅回落
 
-&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 霍尔木兹海峡风险骤升！伊朗称将设立新的海上“制裁区域”，布油重返100美元</title><link>https://wallstreetcn.com/articles/3781415</link><guid>84caa6668ea0bcd68cc9f06810cb61470a69b05a7d475acb3a964b36235a75ff</guid><pubDate>Wed, 09 Sep 2026 11:30:43 GMT</pubDate><description>&lt;p&gt;伊朗捕获美军先进无人潜航器、美军打击伊朗油轮——中东地区在数日之内密集爆发多起军事对抗，霍尔木兹海峡及周边海域局势急剧恶化，全球能源市场承压。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://baijiahao.baidu.com/s?id=1875852611476994674"&gt;新华社&lt;/a&gt;，伊朗伊斯兰革命卫队发言人9日表示，&lt;strong&gt;伊朗将设立新的海上“制裁区域”，该区域从恰巴哈尔港开始，延伸到阿曼湾和阿拉伯海部分海域。&lt;/strong&gt;坐标另行公布。&lt;/p&gt;
-&lt;p&gt;此前据&lt;a href="https://wallstreetcn.com/livenews/3162543"&gt;新华社&lt;/a&gt;9日报道，伊朗伊斯兰革命卫队发言人穆赫比8日晚宣称，&lt;strong&gt;伊方当天凌晨在霍尔木兹海峡入口捕获美军最先进的无人潜航器，任何先进技术都无法突破伊朗在该海峡的多层监控体系。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，美军对伊朗卡尔格岛及贾斯克附近油轮实施打击，伊朗随即向约旦境内美军基地发射弹道导弹。布伦特原油价格在上述事态冲击下大幅攀升，超过每桶100美元。&lt;/p&gt;
-
-伊朗捕获美军无人潜航器，双方互相打击升级
-
-&lt;p&gt;据新华社报道，伊朗伊斯兰革命卫队发言人穆赫比表示，伊方将此次行动定性为&amp;quot;复杂的情报与作战行动&amp;quot;，并称&amp;quot;波斯湾的主导权属于我们的科技青年&amp;quot;。伊朗方面公布了相关图片，所显示的无人潜航器与美国国防企业Anduril Industries生产的Dive-LD高度吻合。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Dive-LD于2025年始交付美国军方，属于大排水量自主水下航行器，单次可持续作业最长达十天，最大工作深度约6000米，具备海底地图绘制及快速定位水雷等功能。据悉，美方精锐海豹突击队近期正在执行一项为期四个月的任务，目标是清除伊朗在霍尔木兹海峡布设的水雷。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美方一名不具名官员随后表示，一架美军水下无人机在一天多前于中东地区发生故障，但并未正式确认该设备已被伊方缴获。此外，伊朗伊斯兰革命卫队还声称当天击落了一架美制MQ-1无人侦察机，五角大楼目前尚未就此作出明确回应。在水面方向，据《华尔街日报》报道，伊朗于周一对美国舰船发动了未公开的第二次袭击，但未有美国舰船被击中。&lt;/p&gt;
-
-美军打击伊朗油轮，经济施压意图明显
-
-&lt;p&gt;美军对卡尔格岛附近及贾斯克海岸水域的伊朗商业船只发动打击。FOX新闻援引美国高级官员表示，此次打击目标包括伊朗油轮，是&amp;quot;从经济上打压伊朗这一更大战略的组成部分&amp;quot;，策略包括击沉和瘫痪伊朗原油运输船只。&lt;/p&gt;
-&lt;p&gt;伊朗半官方媒体Mehr通讯社报道称，卡尔格岛锚地附近听到多声爆炸，卡尔格岛是伊朗重要的石油出口枢纽。伊朗随即对约旦境内美军基地发射弹道导弹予以报复，伊朗塔斯尼姆通讯社称约旦多处传出爆炸声。&lt;/p&gt;
-&lt;p&gt;布伦特原油价格在上述消息冲击下快速上涨逾1%，超过每桶100美元，市场对伊朗出口中断及霍尔木兹海峡通行受阻的担忧持续升温。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 光通信更新与光电博览会前瞻</title><link>http://xueqiu.com/5332385101/408555906</link><guid>6e0a82af0780c93e2e8bbe195b4c1037b00786a2d709055f11ee77189bf3fab6</guid><pubDate>Wed, 09 Sep 2026 12:02:11 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股芯片与AI基建逆市上涨，英特尔涨超9%；光通信方面，Lumentum涨超11%，康宁、Coherent均涨超7%；存储涨跌不一，海力士涨近5%，美光跌约1.6%。&lt;/p&gt;</description></item><item><title>[今日雪球] 谁的估值最低？——保险股2026年中报总结（7）</title><link>http://xueqiu.com/7543024848/408548571</link><guid>51ffcaaa414aa531c4e71fc85c22cacd34cf408f6af262960e6d6b0d847a33fb</guid><pubDate>Wed, 09 Sep 2026 12:02:05 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;多鱼价投&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;有小伙伴批评我，说我只讲基本面，但不讲估值。脱离估值讲基本面类似耍流氓。&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新CEO”首秀，折叠屏亮相--一文读懂今晚的苹果发布会看点</title><link>https://wallstreetcn.com/articles/3781374</link><guid>8b86096a29cad978168050e224e2566a606be101c72385e479ca88ea4e32b586</guid><pubDate>Wed, 09 Sep 2026 00:48:37 GMT</pubDate><description>&lt;p&gt;北京时间9月10日凌晨1点，苹果将举行以“亮新篇，来耀眼（&lt;em&gt;Surpriseandshine&lt;/em&gt;）”为主题的秋季特别活动。&lt;/p&gt;
-&lt;p&gt;苹果新任CEO John Ternus今晚将登上他接掌帅印后的第一个发布会舞台。他在上周&lt;a href="https://wallstreetcn.com/articles/3781109?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;致员工的信&lt;/a&gt;中写道：“我对公司即将推出的一系列重磅新品充满期待。下周我们将迎来一场堪称非凡的发布盛会，而更令我振奋的，是那之后的更多惊喜——既有那些已蓄势待发的杰出产品，也有我们尚未构想的新品。”&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，美银证券分析师Wamsi Mohan在9月8日发布的研究报告中指出，今晚发布会的三大核心看点分别是：&lt;strong&gt;苹果首款折叠iPhone、Pro系列潜在的大幅涨价，以及将低价iPhone机型推迟至2027年春季发布的节奏调整。&lt;/strong&gt;三件事叠加在一起，让这场发布会成为近年来看点最密集的一次。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-折叠屏：苹果最贵的iPhone来了
-&lt;p&gt;折叠屏iPhone无疑是今晚发布会的绝对主角。据媒体报道，这款设备内部被称为“iPhone Ultra”，也可能以“Fold”命名。&lt;/p&gt;
-&lt;p&gt;美银证券报告援引媒体报道称，&lt;strong&gt;其基础配置起售价约为2099美元（约合14085人民币），将成为苹果有史以来最贵的iPhone。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;硬件规格方面，分析师预计该机搭载书本式折叠设计，配备5.5英寸外屏OLED与7.8英寸内屏OLED，处理器为2nm制程的A20 Pro芯片，内存12GB，存储选项涵盖256GB、512GB、1TB及2TB四档，并随附iOS 27系统。&lt;/p&gt;
-&lt;p&gt;背景素材显示，这款折叠机展开厚度约4.5mm，折叠后约9mm，苹果将&lt;strong&gt;“轻薄”&lt;/strong&gt;列为核心设计目标。为此做出的取舍包括：Face ID被取消，改为侧边Touch ID；后置摄像头从Pro系列的三摄缩减为双摄，砍掉了长焦镜头。&lt;/p&gt;
-&lt;p&gt;iOS 27针对折叠形态新增了并排App与类iPad多任务布局，但该设备运行的仍是iOS而非iPadOS。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，美银认为，市场对这款产品的反应将在很大程度上取决于折叠屏需求的实际表现及管理层的相关表态。&lt;/p&gt;
-&lt;p&gt;不过，中国市场可能是这款手机最难攻克的市场之一。华为、荣耀、OPPO、vivo等国产厂商已在折叠屏领域深耕多年，从铰链工艺、折痕控制到影像能力、快充速度，竞争维度已相当成熟。&lt;/p&gt;
-Pro系列：外观不变，内里升级，价格要涨
-&lt;p&gt;iPhone 18 Pro与Pro Max今年不会带来外观上的大变化。报告指出，两款机型将延续6.3英寸与6.9英寸的屏幕尺寸，搭载2nm A20 Pro处理器、更大电池、更小的灵动岛，并升级摄像头系统。&lt;/p&gt;
-&lt;p&gt;核心变化藏在内部：A20 Pro是苹果首款采用2nm工艺的iPhone芯片，其意义不仅在于性能提升，更在于为AI本地运算、影像计算等高负载任务降低功耗。此外，Pro Max预计将首次配备机械可变光圈，可实现更精细的曝光控制与景深调节。而这一功能此前已在华为、小米、三星等安卓旗舰上出现过。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;价格方面，涨价几乎已成定局。美银证券&lt;strong&gt;预计iPhone 18 Pro/Pro Max售价将上涨150至200美元&lt;/strong&gt;，原因是内存与存储成本大幅上升。这一涨幅若成真，将是近年来Pro系列最显著的一次提价。&lt;/p&gt;
-发布节奏重构：秋季只剩“贵的”，不会出现标准版iPhone 18
-&lt;p&gt;今年发布会另一个值得关注的变化，是苹果对iPhone发布节奏的重大调整。今年秋季发布会上，不会出现标准版iPhone 18。&lt;/p&gt;
-&lt;p&gt;美银指出，标准版iPhone 18、iPhone 18 Air及iPhone 18e据报道将推迟至2027年春季发布。这意味着今年秋季假日销售季，消费者能买到的全新iPhone只有Pro系列和折叠屏机型——入门价格直接从Pro起跳。&lt;/p&gt;
-&lt;p&gt;分析师认为，这种“分拆发布”策略有助于提升产品组合结构与平均售价（ASP），但也存在一定风险：“&lt;strong&gt;对价格敏感的消费者可能会推迟升级，等待低价机型上市。&lt;/strong&gt;”&lt;/p&gt;
-&lt;p&gt;从出货天数来看，分析师估算，若iPhone 18系列于9月19日开始发货，本季度内的新机发货天数仅为8天，略少于去年iPhone 17系列的9天。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Apple智能进中国：对国行用户或比折叠屏更重要
-&lt;p&gt;对中国用户而言，今晚发布会上另一个值得高度关注的信号，&lt;strong&gt;是Apple智能能否正式落地国行iPhone。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Apple Intelligence于2024年发布，但国行iPhone至今无法使用这一功能，缺席时间接近两年。与此同时，华为、小米、OPPO、vivo、荣耀等国产厂商已将AI功能深度整合进系统，覆盖通知读取、屏幕理解、照片整理、跨应用操作等场景。&lt;/p&gt;
-&lt;p&gt;今年7月，国家网信办公布新一批手机端侧生成式人工智能服务备案名单，“Apple智能”正式出现，备案主体为苹果技术开发（上海）有限公司。阿里随后确认，千问模型将整合进中国大陆版Apple智能，为iOS、iPadOS、macOS和visionOS提供文本及图像理解与生成能力；百度也确认正在参与苹果中国版AI功能的开发。苹果中国官网已出现&amp;quot;在Mac上配合Apple智能使用千问&amp;quot;的官方帮助页面。&lt;/p&gt;
-&lt;p&gt;不过，&lt;a href="https://wallstreetcn.com/articles/3780806?keyword=%E6%8A%98%E5%8F%A0%E5%B1%8F"&gt;有分析指出，Apple智能在中国上线，并不等于苹果在WWDC 2026展示的所有Siri AI功能同步开放&lt;/a&gt;。苹果已明确表示，新一代Siri AI今年晚些时候将首先以英文Beta形式推出。科技自媒体硅星人Pro认为，“即便9月发布会上苹果正式宣布Apple智能进入中国，仍需确认：第一批开放哪些功能？千问和百度分别参与到系统的哪一层？”&lt;/p&gt;
-其他看点：Apple Watch、AirPods与智能家居
-&lt;p&gt;除iPhone外，美银预计今晚还可能发布Apple Watch Series 12和/或Ultra 4，以及AirPods 5。此外，苹果或将预告或发布更新版Apple TV 4K与HomePod mini等智能家居产品。&lt;/p&gt;
-&lt;p&gt;Apple Watch Series 12将新增配色与陶瓷表壳，并搭载更强芯片以支持AI版Siri所需算力；AirPods 5将推出普通版与主动降噪版两个版本，此前传言的内置摄像头版AirPods今年大概率不会出现。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-股价怎么走？历史规律与今年变量
-&lt;p&gt;美银援引历史数据指出，苹果股价在iPhone发布会后往往出现小幅“利好出尽”式回调，但随后在30至60天内通常会收复失地。&lt;/p&gt;
-&lt;p&gt;今年的情况略有不同。数据显示，截至9月3日收盘，苹果股价较发布会前60天已下跌约6%，较前30天同样下跌约6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;分析师认为，今年投资者的反应将主要取决于三个因素：涨价幅度是否超出预期、Siri AI功能的用户采纳情况，以及管理层对折叠屏需求的表态。&lt;/p&gt;
-&lt;p&gt;该行维持对苹果的买入评级，目标价380美元（当前股价319.97美元），理由包括强劲的资本回报、AI端侧能力的长期领导潜力，以及新产品带来的期权价值。该行预计苹果2026财年每股收益为8.85美元，同比增长约19%。&lt;/p&gt;
-Ternus时代的第一张答卷
-&lt;p&gt;John Ternus于今年9月1日正式接任苹果CEO，距离今晚发布会仅隔数日。这一时间安排并非巧合——据报道，苹果将CEO交接节点刻意设在发布会前夕，正是为了让Ternus亲自站台，发布由他主导研发的产品线。&lt;/p&gt;
-&lt;p&gt;过去15年，苹果的产品策略以打磨现有产品线为主，Apple Watch和AirPods是为数不多的全新品类。这一局面正在改变。据报道，Ternus在担任硬件工程高级副总裁期间，主导了苹果当前这一轮密集新品的研发工作。&lt;/p&gt;
-&lt;p&gt;据报道，苹果未来数年的新品路线图涵盖折叠屏iPhone、触控屏MacBook、内置摄像头AirPods、带屏智能家居中枢，乃至配备机械臂的桌面机器人和AR眼镜。今晚的发布会，只是这条路线图的第一页。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%</title><link>https://wallstreetcn.com/articles/3781380</link><guid>c17438d28b5252e9df578f672e30fb0cdf27cf55d7e23c3dca05b30ea290b0f7</guid><pubDate>Wed, 09 Sep 2026 01:47:50 GMT</pubDate><description>&lt;p&gt;中国价格数据在8月份出现同步改善，消费端和生产端通胀指标均较前月回升。&lt;/p&gt;
+&lt;p&gt;在汇率市场，日元实现连续三日升值，兑美元报153.40，涨幅0.4%，彭博美元指数同步下滑0.1%。此轮日元走强的背后，是Bessent近日向市场发出的强烈信号——他公开表示，在提振日元汇率的问题上，他实际上掌握着内部信息，并向试图做空日元的交易员发出挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国8月CPI同比涨幅扩大至0.8%，PPI同比涨3.8%，环比双双转正，算力需求增长推动数据存储设备价格环比上涨2.1%</title><link>https://wallstreetcn.com/articles/3781380</link><guid>c17438d28b5252e9df578f672e30fb0cdf27cf55d7e23c3dca05b30ea290b0f7</guid><pubDate>Wed, 09 Sep 2026 01:47:50 GMT</pubDate><description>&lt;p&gt;中国价格数据在8月份出现同步改善，消费端和生产端通胀指标均较前月回升。&lt;/p&gt;
 &lt;p&gt;国家统计局数据显示，8月CPI同比上涨0.8%，涨幅较上月扩大0.3个百分点；PPI同比上涨3.8%，涨幅较上月扩大0.3个百分点。两项指标的环比均由降转涨，CPI环比上涨0.4%，PPI环比上涨0.4%。&lt;/p&gt;
 &lt;p&gt;此轮回升主要由能源价格驱动。国际油价上行推动国内汽油价格环比大幅反弹，带动CPI能源分项同比涨幅从0.6%跳升至4.1%；国际原油及有色金属价格上涨则经由输入性渠道传导至生产端，&lt;strong&gt;成为PPI环比由负转正的最主要支撑&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;另外，国家统计局城市司首席统计师董莉娟称，&lt;strong&gt;受算力需求快速增长等因素影响，移动电话机、平板电脑、数据存储设备价格分别上涨2.3%、2.1%和2.1%，合计拉动CPI上涨约0.03个百分点&lt;/strong&gt;。&lt;/p&gt;
@@ -295,4 +253,16 @@ PPI环比由降转涨，同比涨幅扩大
 债务利息压力倒逼财政整合
 &lt;p&gt;高企的借贷成本正在将英国公共财政推向更为严峻的境地。英国每年1100亿英镑的债务利息支出已成为政府预算中的&amp;quot;第二大部门&amp;quot;——财政大臣John Healey在周一的讲话中以此为喻，&lt;strong&gt;指出若将债务利息视为一个政府部门，其规模将仅次于卫生部，超过国防部、内政部与司法部的总和。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;自新冠疫情以来，英国长端收益率已经历一轮持续上行，伊朗战争引发的能源价格冲击以及市场对全球债务供给过剩的担忧，进一步加速了这一趋势。此次30年期国债以5.82%定价，将这一三十年高点正式&amp;quot;锁定&amp;quot;在新发债券的票面成本之上，意味着未来数十年的财政负担将因此加重。&lt;/p&gt;
-&lt;p&gt;在此背景下，即将举行的财政预算案料将面临更为有限的政策腾挪空间，政府在支出扩张与财政整合之间的取舍将更加两难。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 拼多多未来利润还能增长吗？增长质量怎么样？</title><link>http://xueqiu.com/6308001210/408548035</link><guid>b2d05338640c21524ffa63a0c35f012d054b6d1709de9c6cb48a8598e188672c</guid><pubDate>Wed, 09 Sep 2026 12:01:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;czy710&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;衡量一个企业未来中长期是价值增长型的企业还是价值毁灭型的企业，核心看这个企业未来的增长质量如何，每投入1美元，若能得到超过1美元的折现值，是价值增长型的企业。每投入1美元，得到的折现值小于1美元，就是价值毁灭型的企业。中长期看航空行业是一个典型的价值毁灭型的行业，中长期利润增长质量很差，不利于股东中长期持有。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在此背景下，即将举行的财政预算案料将面临更为有限的政策腾挪空间，政府在支出扩张与财政整合之间的取舍将更加两难。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根士丹利：日元升值不足以颠覆新兴市场套利交易</title><link>https://wallstreetcn.com/articles/3781390</link><guid>f1a8197ec322c4f8cfc3a546475957ad72b5f13b615472264a6931f3e5b1f5a5</guid><pubDate>Wed, 09 Sep 2026 03:32:46 GMT</pubDate><description>&lt;p&gt;日元近期大幅走强，但这不足以动摇新兴市场套利交易的根基。摩根士丹利策略师认为，只要不出现引发更广泛波动的额外催化剂，该交易策略仍具备足够韧性。&lt;/p&gt;
+&lt;p&gt;摩根士丹利全球外汇及新兴市场策略主管James Lord团队在最新研究报告中指出，&lt;strong&gt;套利交易的表现更多取决于全球货币波动率的整体走向、全球经济增长前景、股票市场表现，以及新兴市场经济体自身的基本面逻辑，而非日元汇率的单一变动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“全球增长、全球股市表现以及主要新兴市场的自下而上趋势，对新兴市场套利交易的影响远大于日元走势，”该团队写道，“在这些方面，我们维持建设性判断。”&lt;/p&gt;
+&lt;p&gt;目前市场已出现韧性迹象。尽管巴西雷亚尔和哥伦比亚比索自7月29日以来兑日元分别贬值5.1%和3.4%，但两者兑美元却分别升值0.7%和2.4%，显示新兴市场货币的整体压力相对可控。&lt;/p&gt;
+日元升至逾半年高位，加息预期升温
+&lt;p&gt;日元周二一度升至152.89兑1美元，创2月中旬以来最强水平，目前报153.46.此后涨幅有所收窄。此轮升势的背后，是交易员持续加码对日本央行加息的押注，并对当局进一步采取支撑日元行动保持警惕。&lt;/p&gt;
+&lt;p&gt;套利交易的核心逻辑在于，借入低息货币并将资金投入高息资产以赚取利差。日元长期以来是该策略最主要的融资货币之一，日本央行的加息预期因此对这一交易构成潜在压力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+融资货币多元化，套利交易结构更具弹性
+&lt;p&gt;摩根士丹利策略师指出，投资者已在主动分散融资货币来源，欧元和瑞士法郎正日益成为替代选项，用于为高息资产头寸提供融资。这一结构性转变意味着，套利交易对单一融资货币波动的敏感度已有所下降，整体策略的抗风险能力相应增强。&lt;/p&gt;
+&lt;p&gt;据彭博此前报道，&lt;strong&gt;新兴市场套利交易近期已录得自2008年以来最长连涨纪录，市场参与热度持续高涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;摩根士丹利团队维持对新兴市场的积极看法，建议投资者在回调时逢低布局。&amp;quot;自下而上的基本面支撑、可观的利差收益以及具有韧性的全球增长，将持续吸引投资者参与这一资产类别，&amp;quot;策略师表示。&lt;/p&gt;
+&lt;p&gt;该团队强调，对新兴市场套利交易构成真正威胁的，是能够引发更广泛市场波动的系统性冲击，而非日元的阶段性升值本身。在全球增长预期尚未出现明显恶化的背景下，该策略的基本逻辑依然成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 拼多多未来利润还能增长吗？增长质量怎么样？</title><link>http://xueqiu.com/6308001210/408548035</link><guid>b2d05338640c21524ffa63a0c35f012d054b6d1709de9c6cb48a8598e188672c</guid><pubDate>Wed, 09 Sep 2026 12:01:31 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;czy710&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;衡量一个企业未来中长期是价值增长型的企业还是价值毁灭型的企业，核心看这个企业未来的增长质量如何，每投入1美元，若能得到超过1美元的折现值，是价值增长型的企业。每投入1美元，得到的折现值小于1美元，就是价值毁灭型的企业。中长期看航空行业是一个典型的价值毁灭型的行业，中长期利润增长质量很差，不利于股东中长期持有。&lt;/p&gt;</description></item></channel></rss>
