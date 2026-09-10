@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 10 Sep 2026 10:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指集体下跌，成交额不足1.7万亿，银行、电力逆势走强，存储芯片活跃，恒科指跌超2%，智谱大跌10%</title><link>https://wallstreetcn.com/articles/3781464</link><guid>0f80fb282f4e6a57d34d4089678d9739ec08d1d5bba71b50d51723db14171fad</guid><pubDate>Thu, 10 Sep 2026 08:56:18 GMT</pubDate><description>&lt;p&gt;多只银行股逆势创历史新高、电力（算电协同）逆势走强。高盛对存储芯片板块转为积极，触发周三存储股全线上涨，SK海力士美股领涨，逆势跑赢大盘，A股存储芯片股表现活跃。此外，隔夜，布伦特原油突破每桶101美元，中东局势持续升温加剧了市场对能源供应中断的担忧，推动国内能源品期货大涨。港股AI大模型股重挫，DeepSeek V4.1 Flash模型正式发布，与上一代模型相比，对HBM的需求减少到1/4，对SSD的需求减少到1/8。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 10 Sep 2026 10:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指集体下跌，成交额不足1.7万亿，银行、电力逆势走强，存储芯片活跃，恒科指跌超2%，智谱大跌10%</title><link>https://wallstreetcn.com/articles/3781464</link><guid>0f80fb282f4e6a57d34d4089678d9739ec08d1d5bba71b50d51723db14171fad</guid><pubDate>Thu, 10 Sep 2026 08:56:18 GMT</pubDate><description>&lt;p&gt;多只银行股逆势创历史新高、电力（算电协同）逆势走强。高盛对存储芯片板块转为积极，触发周三存储股全线上涨，SK海力士美股领涨，逆势跑赢大盘，A股存储芯片股表现活跃。此外，隔夜，布伦特原油突破每桶101美元，中东局势持续升温加剧了市场对能源供应中断的担忧，推动国内能源品期货大涨。港股AI大模型股重挫，DeepSeek V4.1 Flash模型正式发布，与上一代模型相比，对HBM的需求减少到1/4，对SSD的需求减少到1/8。&lt;/p&gt;
 &lt;p&gt;9月10日，A股三大指数全体震荡盘整，三大股指集体收跌，北证50跌超2.8%。逆势走强的是电力、玻璃玻纤、银行、旅游、煤炭、航运、油气及部分科技硬件（CPO、存储、PCB）；而农业、文化传媒、游戏、房地产、创新药与折叠屏等前期热门方向集体退潮，。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指双双下挫，恒科指跌超2%，权重科网股、新能源汽车股集体下挫，新消费、苹果概念股等亦承压，AI大模型股双雄齐跌，智谱跌10%、MINIMAX跌9%，据报道，DeepSeek接连传出大消息，公司据悉启动A股科创板IPO准备，模型端已经进入DeepSeek V4阶段。债市方面，国债期货全线下跌。商品方面，国内商品期货涨幅互现，原油、燃油等能源品爆发，因隔夜原油突破100美元关口。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -867,39 +867,7 @@ Tibo 如何使用 Codex
 &lt;p&gt;请查看下方节目说明，其中包含关于 Codex、Claude Code、Cursor 构建方式及其他相关主题的深度解析。&lt;/p&gt;
 &lt;p&gt;如果你喜欢本期内容，请在你使用的播客播放器中留下评分。这对我和节目都意义重大。&lt;/p&gt;
 &lt;p&gt;谢谢，我们下期再见。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “贝森特带着豌豆射手打坦克战”，美债回购碰壁，10年期美债收益率三年新高</title><link>https://wallstreetcn.com/articles/3781446</link><guid>fa8482f18a400aac9ab467f35f200e2fa3b0ab5bc8be5155721da2b5eb2ce25d</guid><pubDate>Wed, 09 Sep 2026 22:51:25 GMT</pubDate><description>&lt;p&gt;美国财政部长贝森特大幅扩大国债回购规模的举措，在市场面前碰壁。&lt;/p&gt;
-&lt;p&gt;周三，财政部宣布将单次长期国债回购上限提升至60亿美元，较上月原定规模翻三倍，但这一力度仍未能遏制债市抛售势头。10年期美债收益率盘中触及三年新高，当日国债回购声明公布后跌势反而延续。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;贝森特此前明确将压低长端收益率列为施政目标，但当前局面与之背道而驰——&lt;strong&gt;高油价加剧通胀担忧、市场对美联储加息预期升温、财政赤字高企，多重压力叠加，令收益率持续承压走高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;债市的困局直接传导至实体经济，&lt;a href="https://wallstreetcn.com/articles/3781434"&gt;美国抵押贷款利率已升至逾一年高位&lt;/a&gt;。&lt;/p&gt;
-
-&amp;quot;震慑效果&amp;quot;落空，市场要价更高
-
-&lt;p&gt;&lt;strong&gt;此次扩大回购力度，缘于贝森特近期公开暗示回购规模可能突破40亿美元，一度&lt;a href="https://wallstreetcn.com/articles/3781364?keyword=%E7%BE%8E"&gt;令华尔街预期单次操作空间可达100亿美元&lt;/a&gt;。相比之下，60亿美元的上限令市场感到失望。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;就像财政部创造了一头怪兽，现在不得不不断喂食，&amp;quot;德意志银行策略师Steven Zeng表示。他指出，60亿美元的公告未能带来投资者期待的&amp;quot;震慑效果&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Brown Brothers Harriman &amp;amp; Co.的Elias Haddad措辞更为直接：&lt;strong&gt;&amp;quot;就目前而言，财政部带着一把豌豆射手来打坦克战。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场对更大回购规模的呼声，折射出当前长端利率的顽固程度。周三稍晚，美国财政部以4.834%的收益率拍卖390亿美元10年期国债，创下该期限拍卖历史最高收益率纪录。&lt;/p&gt;
-
-贝森特承认无法左右收益率&amp;quot;均衡&amp;quot;价格
-
-&lt;p&gt;面对市场的强烈反应，&lt;strong&gt;贝森特本人在周二一场德克萨斯州活动上承认，他无法改变国债的&amp;quot;均衡&amp;quot;价格，其目标仅在于放缓价格波动节奏、防止有害叙事固化蔓延。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他将长端利率的快速攀升归因于市场对&amp;quot;美国无力偿债&amp;quot;的恐慌情绪，称这种担忧&amp;quot;荒谬，但一度成为主导叙事&amp;quot;。&lt;/p&gt;
-&lt;p&gt;在此背景下，贝森特将此次扩大回购计划定性为&amp;quot;财政部扭转操作&amp;quot;（Treasury Twist），借鉴美联储历史上压低长期借贷成本的Operation Twist。他同时表示，回购操作有助于银行卸载流动性较差的证券，从而为其腾出空间参与新债拍卖。&lt;/p&gt;
-&lt;p&gt;Evercore ISI经济学主管Krishna Guha及其团队在客户报告中写道，周三的公告&amp;quot;表明贝森特正在接受回购操作的有限角色&amp;quot;，&lt;strong&gt;并认为他&amp;quot;很可能已意识到，美国无法持久阻止基本面主导收益率走势&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-
-压低收益率仍需多重条件配合
-
-&lt;p&gt;富国银行宏观策略师Angelo Manolatos和Francis Brown在研报中指出，&amp;quot;还需要其他催化剂才能推动长端收益率走低&amp;quot;，&lt;strong&gt;并列举了几项可能条件：增长与通胀放缓、能源价格下行、美联储政策不确定性降低、财政整顿，或企业债发行规模收缩。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;就短期政策信号而言，财政部周三表示，本财季其余六次长期名义国债回购操作的单次最高规模将不低于40亿美元，措辞与8月19日首次意外公告时一致，&lt;strong&gt;未释放进一步扩大规模的明确信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一名引述Fox Business报道的特朗普政府官员表示，&lt;strong&gt;财政部将例行监测回购操作效果，并根据市场运行情况和流动性需要适时调整规模。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，60亿美元为上限而非确定采购量，但据统计，自2024年回购项目重启以来，财政部在52次长期名义国债回购中仅有两次未完成全额操作，通常倾向于买足上限。&lt;/p&gt;
-&lt;p&gt;德意志银行的Zeng还指出，财政部当日上午11时发布的&amp;quot;最终回购公告&amp;quot;可取代&amp;quot;初步公告&amp;quot;，最终实际购买量存在超出上限的可能性。&lt;/p&gt;
-
-活跃干预风格引发市场争议
-
-&lt;p&gt;8月19日的意外扩规公告发布于财政部季度例行公告时间窗口之外，令投资者措手不及，也由此引发外界对美国债务管理风格转向&amp;quot;更具干预主义色彩&amp;quot;的讨论，与财政部长期坚持的&amp;quot;定期、可预期&amp;quot;原则形成明显反差。&lt;/p&gt;
-&lt;p&gt;多位投资者和分析人士将此次加码回购，解读为特朗普政府在11月国会选举前对长期借贷成本走高的焦虑外化。随着美债收益率持续上行，美国抵押贷款利率已升至一年多以来最高水平，对普通消费者形成直接冲击。&lt;/p&gt;
-&lt;p&gt;贝森特在9月1日接受Newsmax采访时表示：&amp;quot;我在确保不会出现重大、严重的不良后果。&amp;quot;但从当前债市的表现来看，这场与市场的博弈远未结束。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对Citi全球TMT大会的总结与思考</title><link>http://xueqiu.com/5332385101/408711920</link><guid>5bfcaa4e8b22f9d6db83a91b54cc8fc02a010c45f38c98030bfe453c675afce9</guid><pubDate>Thu, 10 Sep 2026 09:49:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股三大指数三连跌，存储逆势走强，海力士涨超7%创新高，较正股溢价超40%，美光、闪迪分别涨超2.7%和1.5%；Meta发布个人AI智能体Muse，可替用户完成发送邮件、预订行程等任务，涨超6.5%。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战事升温，布油涨至102美元，美股期指涨跌互现，美债收益率维持高位</title><link>https://wallstreetcn.com/articles/3781481</link><guid>8d22be35df94deb4e1e22bbc6c6f191badac67d611e2224d0451221a2e2c83e3</guid><pubDate>Thu, 10 Sep 2026 09:20:21 GMT</pubDate><description>&lt;p&gt;油价突破百元关口、通胀忧虑重燃，令市场承受多重压力。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊战事升温，布油涨至102美元，美股期指涨跌互现，美债收益率维持高位，伦铜跌近3%</title><link>https://wallstreetcn.com/articles/3781481</link><guid>8d22be35df94deb4e1e22bbc6c6f191badac67d611e2224d0451221a2e2c83e3</guid><pubDate>Thu, 10 Sep 2026 10:38:45 GMT</pubDate><description>&lt;p&gt;油价突破百元关口、通胀忧虑重燃，令市场承受多重压力。&lt;/p&gt;
 &lt;p&gt;周四，美股期指涨跌互现，标普500指数期货上涨0.14%，纳斯达克100指数期货跌0.16%。美国国债高位震荡，美元汇率基本持平。&lt;/p&gt;
 &lt;p&gt;据央视新闻，美国总统特朗普当地时间9月9日表示，美国可能会打击伊朗的“镐山”核设施，并敦促德黑兰方面保持谨慎。特朗普此前于7月多次威胁将打击伊朗的“镐山”核设施，但至今未付诸实践。“镐山”位于伊朗中部伊斯法罕省纳坦兹核设施附近，被认为是伊朗最坚固的地下核设施之一。受此影响，油价走高，布油涨1%至102美元。&lt;/p&gt;
 &lt;p&gt;市场焦点正高度集中于周五即将发布的美国消费者价格指数（CPI）数据。当前油价高企与债券收益率走高并存，使通胀前景愈加复杂，联储局能否在9月15日至16日议息会议上加息，或将由这份数据最终定夺。利率掉期市场目前隐含联储局本月加息25个基点的概率约为62%。&lt;/p&gt;
@@ -913,8 +881,9 @@ Tibo 如何使用 Codex
 &lt;li&gt;德国10年期国债收益率上涨8个基点，至3.44%&lt;/li&gt;
 &lt;li&gt;美元指数微跌0.1%&lt;/li&gt;
 &lt;li&gt;日元兑美元几乎没有变化，为153.59&lt;/li&gt;
-&lt;li&gt;布伦特原油下跌0.7%，至每桶100.49美元&lt;/li&gt;
-&lt;li&gt;现货黄金上涨0.7%，报每盎司4,429.02美元&lt;/li&gt;
+&lt;li&gt;布油涨1%至102美元&lt;/li&gt;
+&lt;li&gt;COMEX铜期货跌超4%，伦铜跌近3%&lt;/li&gt;
+&lt;li&gt;现货黄金日内跌幅达0.5%，报4379.54美元/盎司&lt;/li&gt;
 &lt;li&gt;比特币跌至78299美元，日内跌幅0.8%。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -986,7 +955,7 @@ CPI数据成本周最大风险事件
 &lt;p&gt;谢谢！&lt;/p&gt;
 
 &lt;p&gt;本文来源：&lt;a href="http://www.china.com.cn/zhibo/content_118687707.htm"&gt;中国网&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）</title><link>http://xueqiu.com/9391624441/408726466</link><guid>7c5adb0ad86c78c1c949be5b455210236d298267032750dc5524dcf844d32613</guid><pubDate>Thu, 10 Sep 2026 09:49:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;各位朋友好，我是六亿居士。&lt;/p&gt;</description></item><item><title>[今日雪球] 中金黄金2026年中报分析：拐点时刻到来</title><link>http://xueqiu.com/2828641690/408796148</link><guid>290b2fa376dbf349ef137761aac47ec28f24459aafb36281480c38479e79303a</guid><pubDate>Thu, 10 Sep 2026 09:50:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;阿果产业视角&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1、业绩情况&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声</title><link>https://wallstreetcn.com/articles/3781482</link><guid>51b077dc1f3ce5b89d5a45fb0bba13e4d4f4f6f86e9257bc4caa073a0797db97</guid><pubDate>Thu, 10 Sep 2026 08:45:35 GMT</pubDate><description>&lt;p&gt;9月10日（星期四）下午3时，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，请中国人民银行副行长陆磊，金融监管总局副局长丛林，中国证监会副主席李超，国家外汇局新闻发言人、副局长李斌介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况，并答记者问。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声</title><link>https://wallstreetcn.com/articles/3781482</link><guid>51b077dc1f3ce5b89d5a45fb0bba13e4d4f4f6f86e9257bc4caa073a0797db97</guid><pubDate>Thu, 10 Sep 2026 08:45:35 GMT</pubDate><description>&lt;p&gt;9月10日（星期四）下午3时，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，请中国人民银行副行长陆磊，金融监管总局副局长丛林，中国证监会副主席李超，国家外汇局新闻发言人、副局长李斌介绍金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况，并答记者问。&lt;/p&gt;
 &lt;p&gt;中国人民银行副行长陆磊表示，近日，《金融强国建设“十五五”规划》正式出台。为实施好相关部署，中国人民银行制定印发了《中国人民银行“十五五”改革发展规划》，配套出台了9份相关领域的行动方案。&lt;/p&gt;
 &lt;p&gt;《规划》的整体规划是：&lt;strong&gt;到2030年，金融调控政策协同有效，金融风险防控精准高效，金融业的国际影响力和竞争力持续提高。到2035年，基本建成具有高度适应性、竞争力、普惠性的中国特色现代金融体系。&lt;/strong&gt;&lt;/p&gt;
 证监会：全力维护资本市场平稳运行
@@ -1250,7 +1219,12 @@ CPI数据成本周最大风险事件
 &lt;p&gt;我就回答这么多，谢谢！&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛评苹果折叠iPhone：定价“Affordable”，今年出货最高可达3500万台</title><link>https://wallstreetcn.com/articles/3781479</link><guid>cb088cea989ed3a1f3a7009929299a820dcd5c52e6e9bb23bc10e1e1c8b0620b</guid><pubDate>Thu, 10 Sep 2026 06:36:27 GMT</pubDate><description>&lt;p&gt;苹果首款折叠屏iPhone正式亮相，高盛认为其定价策略和产品设计均超出预期，有望打开大众市场，并对大中华区供应链构成显著利好。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股逼近新高，资金却仍在观望？野村揭示“负面风险三角”</title><link>https://wallstreetcn.com/articles/3781480</link><guid>239c88afeafa5216bcfb10ed1e238f64624fe75e0715ab3804c0d5387ccdd854</guid><pubDate>Thu, 10 Sep 2026 08:36:20 GMT</pubDate><description>&lt;p&gt;美国股市徘徊于历史高位附近，但市场情绪却与价格走势形成罕见背离——仓位低迷、对冲需求上升、机构投资者普遍按兵不动。野村证券策略师Charlie McElligott将这一现象背后的核心压力归结为三重叠加的&amp;quot;负面风险三角&amp;quot;，并警示市场存在潜在的去杠杆触发点。&lt;/p&gt; &lt;p&gt;McElligott在最新研报中指出，所谓&amp;quot;负面风险三角&amp;quot;，是指当前市场同时面临地缘政治紧张、利率上行压力以及通胀前景不确定性三大并发风险的组合性压制。这三重隐患相互叠加，导致机构投资者净敞口维持在极低水平——据高盛Prime Brokerage数据，美国基本面多空基金的净杠杆率仅处于过去一年的第6百分位，已回落至&amp;quot;解放日&amp;quot;（Liberation Day）前后的低点附近。与此同时，高盛情绪指标重返负值区间，创3月以来新低。&lt;/p&gt; &lt;p&gt;市场情绪的低迷也在衍生品市场有所体现。高盛美洲股票销售交易主管John Flood指出，标普500指数每次试图突破新高时，盘中涨势的波动率几乎是下跌波动率的两倍，看涨期权隐含波动率与现货的相关性显著高于历史均值——这并非一个&amp;quot;仓位饱满&amp;quot;市场应有的表现。此外，纳斯达克期货空头自6月中旬以来已增加35%，标普500成分股中位数的空头持仓也处于高位。&lt;/p&gt; 
+&amp;quot;负面风险三角&amp;quot;：三重压力叠加压制情绪  &lt;p&gt;McElligott将当前市场情绪低迷的根源，&lt;strong&gt;明确归结为三重并发的下行风险压力：地缘政治紧张、利率持续走高的威胁，以及通胀路径的不确定性。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;这一判断与高盛方面的观察高度吻合。John Flood表示，上述三类担忧几乎出现在他每一次与客户的对话中。在经历7月历史性的动量崩溃以及8月表现惨淡之后，投资者普遍缺乏&amp;quot;进攻意愿&amp;quot;，仓位与情绪均处于受压状态。&lt;/p&gt; &lt;p&gt;摩根大通仓位情报主管John Schlegel也在最新研报中指出，尽管上周市场出现波动，整体仓位层面变化不大，零售与机构情绪均出现掉头向下或停滞迹象。高盛Prime Brokerage则显示，美国基本面多空基金的总杠杆与净杠杆分别为207%和49.8%，处于过去一年的第20和第6百分位，以及过去三年的第59和第10百分位。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; 
+日元套息交易平仓：股市&amp;quot;无形压力&amp;quot;的另一来源  &lt;p&gt;除三重风险叙事外，McElligott及多位高盛交易员还指向另一潜在压力源：&lt;strong&gt;日元套息交易的加速平仓。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;高盛Delta-One主管Rich Privorotsky指出，美国财政部长贝森特近期态度异常明确，表示&amp;quot;我现在就是庄家……你可以跟我对赌&amp;quot;，并称财政部在掌握日本政策制定者及日本央行动向方面具有信息优势。在此背景下，市场正顺势押注日本央行收紧政策及资金回流，日元持续升值。&lt;/p&gt; &lt;p&gt;Privorotsky认为，对股市而言，更值得关注的二阶效应在于：&lt;strong&gt;随着日元融资的套息仓位被平仓并回流至日本债券和股票市场，相关资金将从美股中流出。他直言，&amp;quot;标普500及大市值科技股板块近期表现出一种莫名的沉重感，缺乏清晰的基本面解释——这背后可能只是杠杆与套息交易在悄然消散。&amp;quot;&lt;/strong&gt;&lt;/p&gt; 
+AI科技期权&amp;quot;神秘买家&amp;quot;重出江湖  &lt;p&gt;尽管整体情绪谨慎，市场部分角落已出现值得关注的逆向信号。McElligott透露，上周五及劳工节假期后重新开市以来，野村交易台观察到大量Flex Call期权在多只&amp;quot;集中型AI&amp;quot;个股上成交，涉及的标的正是今夏崩跌期间遭大规模平仓的那批名称。&lt;/p&gt; &lt;p&gt;据野村追踪数据，这位&amp;quot;神秘买家&amp;quot;目前已累计买入约3.15亿美元期权权利金、1.1亿美元Delta敞口及580万美元Vega敞口。过去48小时内，相关个股大幅反弹，包括AMD（+10.9%）、INTC（+14%）、CRWV（+18%）等。&lt;/p&gt; &lt;p&gt;这一&amp;quot;AI/科技期权买盘回归&amp;quot;的现象，正再度催生&amp;quot;现货上涨、波动率同步上行&amp;quot;的正相关动态。在此前单一科技股波动率遭受重创之后，该动态为波动率离散交易（空相关性策略）重新带来正贡献。&lt;/p&gt; 
+韩国市场同步回暖，资金加速流入半导体  &lt;p&gt;同样的&amp;quot;加仓&amp;quot;逻辑也在亚洲市场得到印证。McElligott指出，韩国市场在周日/周一重开后录得有数据以来第二大单日外资净流入规模（叠加创纪录的股票回购），仅次于7月31日大规模&amp;quot;逢低买入&amp;quot;的那一天。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;这与美国市场AI期权买盘重启的信号相互呼应——机构资金正加速回流至韩国、半导体及内存板块。McElligott认为这一现象&amp;quot;值得高度关注&amp;quot;。&lt;/p&gt; &lt;p&gt;不过，他也提示，随着净敞口从极低水平回升，投资者手中&amp;quot;有了可以对冲的东西&amp;quot;。目前3个月看涨期权偏斜已升至历史第91百分位，显示市场开始为潜在的上行突破购买保险，但整体去杠杆触发阈值仍近在咫尺。&lt;/p&gt; 
+高盛持更乐观立场：基本面与IPO或成催化剂  &lt;p&gt;相较于McElligott的谨慎收尾，高盛John Flood的判断则明显偏向乐观，认为当前谨慎情绪已过度定价风险。&lt;/p&gt; &lt;p&gt;从基本面来看，&lt;strong&gt;Flood指出标普500成分股在2026年第二季度（即最新完整财报季）的每股盈利同比增速约达30%；超大规模云服务商及AI基础设施公司的盈利同比增长54%，约占标普500整体盈利增长的50%；剔除能源板块后，其余成分股盈利同比增速也达14%。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;然而，当前市场对这一强劲基本面的反映明显不足：共同基金现金占比虽然较低，但绝对规模仍高于历史均值；机构投资者对AI相关股票普遍低配；个人投资者情绪持续停留在看空区域。Flood认为，即将到来的IPO浪潮有望成为激活机构与零售投资者重新&amp;quot;进攻&amp;quot;的催化剂。&lt;/p&gt; &lt;p&gt;与此同时，McElligott则留下了另一警示：若动能型CTA策略在横盘震荡的股指期货中继续流失趋势信号，则多只全球期货的多头信号与&amp;quot;去杠杆触发点&amp;quot;之间的距离正在缩短，一旦市场走弱，将产生类似&amp;quot;合成负Gamma&amp;quot;的顺势抛售效应。&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛评苹果折叠iPhone：定价“Affordable”，今年出货最高可达3500万台</title><link>https://wallstreetcn.com/articles/3781479</link><guid>cb088cea989ed3a1f3a7009929299a820dcd5c52e6e9bb23bc10e1e1c8b0620b</guid><pubDate>Thu, 10 Sep 2026 06:36:27 GMT</pubDate><description>&lt;p&gt;苹果首款折叠屏iPhone正式亮相，高盛认为其定价策略和产品设计均超出预期，有望打开大众市场，并对大中华区供应链构成显著利好。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，据高盛大中华科技团队于9月10日发布的研究报告，苹果折叠新机命名为&amp;quot;iPhone Duo&amp;quot;，起售价为1999美元，低于三星Galaxy Z Fold 8 Ultra在美国的起售价2099.99美元。高盛分析师Allen Chang、Verena Jeng等人将此定价描述为&lt;strong&gt;&amp;quot;Affordable&amp;quot;（实惠），认为苹果在高内存成本和强规格配置的制约下仍实现了具竞争力的定价，有望吸引更广泛的消费群体。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛维持对折叠iPhone出货量的预测：&lt;strong&gt;2026年基准情景下出货1400万台，乐观情景下出货3500万台。&lt;/strong&gt;报告同步给予大中华区多家苹果供应链公司&amp;quot;买入&amp;quot;评级，包括被列入确信买入名单的鸿海和南亚电路板股份有限公司。&lt;/p&gt;
 
@@ -1275,4 +1249,4 @@ AirPods与Apple Watch：功能升级，定价趋于平稳
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对Citi全球TMT大会的总结与思考</title><link>http://xueqiu.com/5332385101/408711920</link><guid>5bfcaa4e8b22f9d6db83a91b54cc8fc02a010c45f38c98030bfe453c675afce9</guid><pubDate>Thu, 10 Sep 2026 09:49:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股三大指数三连跌，存储逆势走强，海力士涨超7%创新高，较正股溢价超40%，美光、闪迪分别涨超2.7%和1.5%；Meta发布个人AI智能体Muse，可替用户完成发送邮件、预订行程等任务，涨超6.5%。&lt;/p&gt;</description></item><item><title>[今日雪球] A股价值指数怎么选？300价值、国证价值100、国信价值有何不同？（09.10）</title><link>http://xueqiu.com/9391624441/408726466</link><guid>7c5adb0ad86c78c1c949be5b455210236d298267032750dc5524dcf844d32613</guid><pubDate>Thu, 10 Sep 2026 09:49:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;各位朋友好，我是六亿居士。&lt;/p&gt;</description></item><item><title>[今日雪球] 中金黄金2026年中报分析：拐点时刻到来</title><link>http://xueqiu.com/2828641690/408796148</link><guid>290b2fa376dbf349ef137761aac47ec28f24459aafb36281480c38479e79303a</guid><pubDate>Thu, 10 Sep 2026 09:50:03 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;阿果产业视角&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1、业绩情况&lt;/b&gt;&lt;/p&gt;</description></item></channel></rss>
