@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 11 Sep 2026 01:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 甲骨文电话会：单季交付850兆瓦算力，GPU续约溢价20%，RPO将大规模转化为真实收入</title><link>https://wallstreetcn.com/articles/3781541</link><guid>0e7e50d04b687d154b502859294e0899d18bc55cfb56f5cd71d7dbe43599507e</guid><pubDate>Fri, 11 Sep 2026 00:37:14 GMT</pubDate><description>&lt;p&gt;9月10日，甲骨文第一财季报告发布，营收193亿美元同比增长30%创下历史新高；云基础设施部门营收74亿美元，同比大涨121%，高于市场预期的71.9亿美元。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 11 Sep 2026 01:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 甲骨文电话会：单季交付850兆瓦算力，GPU续约溢价20%，RPO将大规模转化为真实收入</title><link>https://wallstreetcn.com/articles/3781541</link><guid>0e7e50d04b687d154b502859294e0899d18bc55cfb56f5cd71d7dbe43599507e</guid><pubDate>Fri, 11 Sep 2026 00:37:14 GMT</pubDate><description>&lt;p&gt;9月10日，甲骨文第一财季报告发布，营收193亿美元同比增长30%创下历史新高；云基础设施部门营收74亿美元，同比大涨121%，高于市场预期的71.9亿美元。&lt;/p&gt;
 &lt;p&gt;财报发布后，甲骨文股价盘后一度上涨近8%，现回落至4%。在随后的分析师电话会上，首席财务官Hilary Maxson&lt;strong&gt;用一个词概括本季度：“加速（acceleration）。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;面对外界对新墨西哥州和威斯康星州数据中心延误的担忧，甲骨文管理层逐一驳回称“两大站点不影响FY27业绩”，表示“所有鸡蛋不在一个篮子里”。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -566,28 +566,7 @@ AI战略加速落地，月活用户突破十亿里程碑
 美联储决议成近期最大变量
 &lt;p&gt;Palfrey表示，在本周与机构投资者的电话会议中，利率问题被反复提及。他指出，过去投资者面对利率风险时更多采取“再等等”的态度，但如今这一问题已经以更加实质性的方式进入讨论，包括资本成本上升、市盈率下行以及人口结构变化等因素。&lt;/p&gt;
 &lt;p&gt;对于下周的美联储利率决议，他警告称，即便市场目前已经计入约60%的加息概率，如果美联储重新强调通胀压力以及进一步加息的必要性，仍可能令市场感到意外。&lt;/p&gt;
-&lt;p&gt;“我认为这将继续给近期股市泼一盆冷水。”Palfrey表示。当前投资者在日常交易中更多围绕人工智能建设主线进行布局，对宏观经济数据的敏感度相对有限，但&lt;strong&gt;一旦利率叙事发生变化，市场对盈利基本面的乐观情绪仍可能受到压制。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响</title><link>https://wallstreetcn.com/articles/3781543</link><guid>5c608c3f8f7fc85a1b80847513f13757fc70299a86c5e04f062defa42433d460</guid><pubDate>Fri, 11 Sep 2026 00:31:24 GMT</pubDate><description>&lt;p&gt;OpenAI旗下产品Astra引发罕见需求冲击，迫使公司采取限流措施。&lt;/p&gt;
-&lt;p&gt;9月11日，OpenAI首席产品官Tibo在X上发文称，为确保现有用户获得良好体验并流畅访问GPT-6 Astra，将暂停接受200美元档Pro 20X订阅服务的新增订阅。&lt;/p&gt;
-&lt;p&gt;他表示，现有订阅用户不受影响，其他所有套餐及API服务维持正常。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这一突如其来的限制也引发了社区的调侃。有网友晒出 Tibo 此前信誓旦旦表示“别担心，我们算力充足（Do not worry, we have compute）”的推文贴图，Tibo 本人则在下方无奈回应：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;确实不该低估 Astra。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;事实上，此举距 Tibo 首次公开预警仅相隔两天。&lt;a href="https://wallstreetcn.com/articles/3781396"&gt;华尔街见闻提及&lt;/a&gt;，9月9日，他曾发文称Astra需求&amp;quot;前所未有&amp;quot;，并暗示若压力持续，可能被迫暂停新增Pro订阅。如今预警成真，对于试图订阅这一OpenAI最高级别付费计划的用户而言，入口已暂时关闭。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Astra的能力跃升，将“AI叙事”从“需求争论”拉回“物理瓶颈”
-&lt;p&gt;GPT-6 Astra的发布标志着一次实质性的能力边界扩张。&lt;/p&gt;
-&lt;p&gt;OpenAI明确描述其能力为：操作计算机、浏览网页、使用软件、编写和运行代码、完成复杂工作流，并在科学、网络安全和专业领域执行长程任务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Astra的能力跃升，将从根本上改变AI需求的测算逻辑。&lt;/strong&gt;在Answer Engine时代，AI需求可以近似用“用户数×ARPU”衡量；但在AI Agent时代，这一公式已经失效。&lt;/p&gt;
-&lt;p&gt;Token总需求可以粗略表达为：Agent数量 × 每Agent任务数 × 每任务Token消耗。这三个变量在Astra发布后均面临同步扩张的压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首先是Agent数量的增加。&lt;/strong&gt;一个人可能同时运行个人助理、编程、研究、财务等多个Agent，企业端则可能从数十个扩展至数千个。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其次是单个Agent承接的任务复杂度上升&lt;/strong&gt;。模型越能完成复杂任务，用户就越倾向于将更重、更长的工作交给Agent执行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三是Agent从“偶尔调用”变为“持续运行”。&lt;/strong&gt;任务越复杂，推理链越长，上下文越大，工具调用越多，Token消耗越大。&lt;/p&gt;
-&lt;p&gt;这意味着完全可能出现Agent数量增长20%、但Token总需求增长300%的情形。OpenAI暂停200美元Pro 20X的新增订阅与这一逻辑高度吻合：&lt;strong&gt;能力提升直接驱动消耗放大，两者呈正相关。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781381"&gt;华尔街见闻提及&lt;/a&gt;，摩根士丹利此前报告指出，GPT-6 Astra的重要性在于它将AI的瓶颈叙事，从“已知需求需要多少基础设施”扭转为“随着模型智能提升，有多少新工作负载将变得经济上可行”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;前者是需求侧质疑，后者是供给侧压力。这对算力、电力和半导体产业链的定价逻辑均构成直接影响。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文大涨！Q1云业务增长121%超预期，RPO达6640亿美元，上调全年业绩指引｜财报见闻</title><link>https://wallstreetcn.com/articles/3781526</link><guid>c180a4c6f1be83a0ff0373c98aedb847fcba094f45483eefb02ef821d795f054</guid><pubDate>Thu, 10 Sep 2026 21:25:55 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;“我认为这将继续给近期股市泼一盆冷水。”Palfrey表示。当前投资者在日常交易中更多围绕人工智能建设主线进行布局，对宏观经济数据的敏感度相对有限，但&lt;strong&gt;一旦利率叙事发生变化，市场对盈利基本面的乐观情绪仍可能受到压制。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文大涨！Q1云业务增长121%超预期，RPO达6640亿美元，上调全年业绩指引｜财报见闻</title><link>https://wallstreetcn.com/articles/3781526</link><guid>c180a4c6f1be83a0ff0373c98aedb847fcba094f45483eefb02ef821d795f054</guid><pubDate>Thu, 10 Sep 2026 21:25:55 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;当地时间周四，甲骨文公布的第一财季（Q1）业绩和指引均好于市场预期，AI基础设施需求继续推动云业务高速增长。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;甲骨文第一财季云基础设施部门收入同比跳升121%至74亿美元，高于分析师平均预期71.9亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;剩余履约义务（RPO）继续大幅增长。截至8月底，RPO达到6640亿美元，高于上一季度末的6380亿美元，也高于分析师预期的约6399亿美元。&lt;/p&gt;
@@ -681,4 +660,25 @@ AI自主越界行为正在多点蔓延
 &lt;p&gt;全球煤炭市场的未来轨迹目前高度依赖于中东运输中断的持续时间。IEA强调，市场前景存在极大的不确定性，核心变量在于霍尔木兹海峡的航运交通能否恢复。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;如果地缘政治紧张局势得到缓解，液化天然气运输恢复并带动天然气价格回落，IEA预计2027年全球煤炭需求将下降0.4%，至89.1亿吨。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，如果霍尔木兹海峡在很大程度上继续对液化天然气运输保持封闭状态，全球煤炭需求则面临进一步攀升的可能。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 需求过大，OpenAI宣布暂停200美元Pro 20X新增订阅，已订用户不受影响</title><link>https://wallstreetcn.com/articles/3781543</link><guid>5c608c3f8f7fc85a1b80847513f13757fc70299a86c5e04f062defa42433d460</guid><pubDate>Fri, 11 Sep 2026 00:31:24 GMT</pubDate><description>&lt;p&gt;OpenAI旗下产品Astra引发罕见需求冲击，迫使公司采取限流措施。&lt;/p&gt;
+&lt;p&gt;9月11日，OpenAI首席产品官Tibo在X上发文称，为确保现有用户获得良好体验并流畅访问GPT-6 Astra，将暂停接受200美元档Pro 20X订阅服务的新增订阅。&lt;/p&gt;
+&lt;p&gt;他表示，现有订阅用户不受影响，其他所有套餐及API服务维持正常。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一突如其来的限制也引发了社区的调侃。有网友晒出 Tibo 此前信誓旦旦表示“别担心，我们算力充足（Do not worry, we have compute）”的推文贴图，Tibo 本人则在下方无奈回应：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;确实不该低估 Astra。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;事实上，此举距 Tibo 首次公开预警仅相隔两天。&lt;a href="https://wallstreetcn.com/articles/3781396"&gt;华尔街见闻提及&lt;/a&gt;，9月9日，他曾发文称Astra需求&amp;quot;前所未有&amp;quot;，并暗示若压力持续，可能被迫暂停新增Pro订阅。如今预警成真，对于试图订阅这一OpenAI最高级别付费计划的用户而言，入口已暂时关闭。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Astra的能力跃升，将“AI叙事”从“需求争论”拉回“物理瓶颈”
+&lt;p&gt;GPT-6 Astra的发布标志着一次实质性的能力边界扩张。&lt;/p&gt;
+&lt;p&gt;OpenAI明确描述其能力为：操作计算机、浏览网页、使用软件、编写和运行代码、完成复杂工作流，并在科学、网络安全和专业领域执行长程任务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Astra的能力跃升，将从根本上改变AI需求的测算逻辑。&lt;/strong&gt;在Answer Engine时代，AI需求可以近似用“用户数×ARPU”衡量；但在AI Agent时代，这一公式已经失效。&lt;/p&gt;
+&lt;p&gt;Token总需求可以粗略表达为：Agent数量 × 每Agent任务数 × 每任务Token消耗。这三个变量在Astra发布后均面临同步扩张的压力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首先是Agent数量的增加。&lt;/strong&gt;一个人可能同时运行个人助理、编程、研究、财务等多个Agent，企业端则可能从数十个扩展至数千个。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其次是单个Agent承接的任务复杂度上升&lt;/strong&gt;。模型越能完成复杂任务，用户就越倾向于将更重、更长的工作交给Agent执行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三是Agent从“偶尔调用”变为“持续运行”。&lt;/strong&gt;任务越复杂，推理链越长，上下文越大，工具调用越多，Token消耗越大。&lt;/p&gt;
+&lt;p&gt;这意味着完全可能出现Agent数量增长20%、但Token总需求增长300%的情形。OpenAI暂停200美元Pro 20X的新增订阅与这一逻辑高度吻合：&lt;strong&gt;能力提升直接驱动消耗放大，两者呈正相关。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781381"&gt;华尔街见闻提及&lt;/a&gt;，摩根士丹利此前报告指出，GPT-6 Astra的重要性在于它将AI的瓶颈叙事，从“已知需求需要多少基础设施”扭转为“随着模型智能提升，有多少新工作负载将变得经济上可行”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;前者是需求侧质疑，后者是供给侧压力。这对算力、电力和半导体产业链的定价逻辑均构成直接影响。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
