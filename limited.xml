@@ -1,42 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 13 Sep 2026 14:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 美联储会“连续加息”？1980年代末“紧缩周期”会重演吗？</title><link>https://wallstreetcn.com/articles/3781640</link><guid>b6c75eb58a884cd04029e74ea8d76c2c08a554ca45e67bed78dc3b2d17ab1326</guid><pubDate>Sun, 13 Sep 2026 03:02:08 GMT</pubDate><description>&lt;p&gt;市场对美联储重启加息的担忧正在升温，令历史上一段颇具警示意味的周期重回投资者视野。花旗研究最新量化宏观策略报告显示，当前宏观环境与1988至1989年紧缩周期的相似程度明显上升，同时叠加中东局势再度升级与美国通胀压力重燃，跨资产配置逻辑正在悄然生变。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，花旗研究分析师Alex Saunders与Vinh Vo在9月11日发布的报告中指出，尽管其宏观模型（Regime Model）整体仍停留在&amp;quot;正常&amp;quot;（Normal）区间，&lt;strong&gt;但通胀动能趋强、经济意外指数温和回落，加之金融条件小幅收紧，令模型识别出的历史近似时期正在向1988至1989年靠拢。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，&lt;strong&gt;在1988年3月至1989年5/6月的这轮紧缩周期中，美联储共计加息16次。&lt;/strong&gt;据天风证券孙彬彬团队统计，1988年3月，美联储为防止再次进入高通胀，选择提前紧缩。1988年3月30日，FOMC会议将联邦基金利率上调25bp至6.75%，此后共计加息16次，最终联邦基金利率目标上调至9.8125%，共计加息331.25bp。&lt;/p&gt;
-&lt;p&gt;1980年代末时期的典型特征是&lt;strong&gt;：经济维持韧性、通胀压力逐步积累，最终促使美联储持续加息，随后经济活动放缓，政策才转向宽松。&lt;/strong&gt;报告同时将1976至1977年、1996至1997年及2013至2014年列为其他参照历史区间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在资产配置层面，上述宏观背景驱使模型进一步增持风险资产，并确立了鲜明的结构性偏好：做多新兴市场与美国股票、做多日本和英国久期，同时将美国投资级信用债的空头维持在最大权重，以能源为核心做多大宗商品，并转向偏好美元。&lt;/p&gt;
-
-1988至1989年紧缩周期重回视野
-&lt;p&gt;“新美联储通讯社”Nick Timiraos最新撰文称，投资者已基本认定美联储下周将进行三年来首次加息，更难的问题是之后会怎样。&lt;a href="https://wallstreetcn.com/articles/3781605"&gt;自1990年代以来，美联储仅有一次“一次性”加息。&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;花旗研究的历史近似分析也显示，1988至1989年在本月明显变得更为突出。报告描述，这一时期呈现出经济韧性与通胀压力并存的组合——正是这一组合促使美联储在1988年持续收紧货币政策，直至次年经济活动放缓后才转向降息。&lt;/p&gt;
-&lt;p&gt;这与当前宏观状态高度契合。&lt;strong&gt;模型显示，经济增长指标温和改善，PMI z分数平均值仍处于强劲水平，经济意外指数虽略有回落，但绝对水平依然积极；与此同时，通胀动能在过去一个月有所回升，金融条件小幅收紧，整体仍处于长期均值以下约0.55个标准差。&lt;/strong&gt;报告将当前宏观状态定性为&amp;quot;经济过热&amp;quot;症状——增长与通胀指标均略高于长期均值，但尚未触发模型切换。&lt;/p&gt;
-&lt;p&gt;报告同时保留了其他三个历史参照区间：1976至1977年（前沃尔克时代，通胀下行与宽松金融条件并存，初期支撑股市，但随后通胀和政策利率大幅上升）；1996至1997年（互联网扩张初期）；以及2013至2014年（美联储缩减购债预期推动美国利率重定价）。值得注意的是，去年关税冲击在最新模型中已不再构成有意义的近似历史参照，花旗研究认为这反映出跨资产长期波动率仍处于相对低位。&lt;/p&gt;
-
-模型坚守“正常”区间，股票仓位进一步提升
-
-&lt;p&gt;尽管市场对加息的担忧升温，花旗研究的K近邻（KNN）模型仍维持在&amp;quot;正常&amp;quot;区间，并未向&amp;quot;金融条件收紧&amp;quot;区间切换。报告指出，&lt;strong&gt;在本月更新后，模型将股票超配比例从2.8%进一步上调至4.0%，债券与大宗商品维持正配置（但有所削减），信用债空头仓位则保持不变。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告同时提示了潜在的下行路径：若能源冲击以持续性主题延续——无论是补库需求驱动还是供应流中断——金融条件收紧与信用利差走阔或将成为通往滞胀情景的传导链条。&lt;/p&gt;
-&lt;p&gt;在不同模型下的历史夏普比率表现方面，&amp;quot;正常&amp;quot;区间的资产表现与无条件历史均值相近，债券属性略占优势，而美国股票相对其他地区具有一定优势。&lt;/p&gt;
-
-跨资产配置：能源领衔，美元取代日元成偏好货币
-
-&lt;p&gt;在具体资产配置上，花旗研究模型呈现出高度差异化的结构。&lt;strong&gt;股票方面，新兴市场获得最高配置，美国股票保持小幅多头，欧洲、日本和英国股票则被做空。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;利率方面，债券整体超配3.7%，日本和英国久期获最大多头配置，美国国债则被最大化做空，欧洲债券小幅做空。这一配置逻辑部分与欧洲央行加息后的鹰派前瞻指引及法国国债风险溢价上升有关。&lt;/p&gt;
-&lt;p&gt;大宗商品方面，能源是当前最强预期表现资产，模型集中超配能源，辅以小幅基本金属多头和贵金属小幅空头。报告指出，能源在相对持有成本（carry）维度上的优势远超其他商品子类，而基本金属和贵金属的carry则明显为负。&lt;/p&gt;
-&lt;p&gt;在外汇方面，报告指出市场对日元的热情已明显消退，英镑、日元和欧元对美元的预期夏普比率均为负值，使美元成为当前首选货币。这一转变部分源于美国财政部长贝森特在日本干预问题上的表态，以及市场对日本央行（BoJ）更早、更快收紧政策的预期推动日元阶段性升值后的动能减弱。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-趋势跟踪策略年初至今维持正收益，系统性策略表现分化
-
-&lt;p&gt;从量化策略表现来看，趋势跟踪策略在过去一个月录得正收益，大宗商品和债券的强劲涨幅足以覆盖股票的损失以及基本持平的外汇贡献。值得关注的是，债券趋势跟踪策略在本月的收益完全逆转了此前的年初至今负收益，推动综合策略整体转正。大宗商品仍是年初至今最大贡献来源，股票则表现最弱。&lt;/p&gt;
-&lt;p&gt;套息（carry）策略过去一个月综合表现为正，商品和债券贡献了主要收益，外汇和股票套息则承压。报告同时指出，商品价值策略年初至今持续领涨，但股票和债券价值策略仍为负收益，且随着中东局势再度升级推动市场重新定价通胀与政策风险，债券价值策略进一步走弱。&lt;/p&gt;
-&lt;p&gt;在CTA定位方面，信用债维持最大多头，股票和大宗商品多头被削减至接近中性。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 智谱以零息+溢价转股形式融资50亿美元，主要用于算力基础设施与模型研发</title><link>https://wallstreetcn.com/articles/3781656</link><guid>92ecceb721b3315c3db8eb84cbdd0c27bc7a153e2f320d90265fa6aab6795024</guid><pubDate>Sun, 13 Sep 2026 10:59:37 GMT</pubDate><description>&lt;p&gt;智谱9月13日公告，公司完成约50亿美元（人民币约335亿元）新一轮融资，由约20亿美元股份配售与约30亿美元零息可转债共同构成。距离上一次7月配售融资约40亿美元，时隔仅两个月。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 13 Sep 2026 15:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 智谱以零息+溢价转股形式融资50亿美元，主要用于算力基础设施与模型研发</title><link>https://wallstreetcn.com/articles/3781656</link><guid>92ecceb721b3315c3db8eb84cbdd0c27bc7a153e2f320d90265fa6aab6795024</guid><pubDate>Sun, 13 Sep 2026 10:59:37 GMT</pubDate><description>&lt;p&gt;智谱9月13日公告，公司完成约50亿美元（人民币约335亿元）新一轮融资，由约20亿美元股份配售与约30亿美元零息可转债共同构成。距离上一次7月配售融资约40亿美元，时隔仅两个月。&lt;/p&gt;
 &lt;p&gt;这是智谱自今年1月登陆港交所以来的第三次股权融资动作。从IPO到两次再融资，募资节奏持续提速，资金流向也高度一致——算力、模型研发与基础设施。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 融资结构：折价配售叠加零息溢价转债
@@ -107,7 +70,7 @@
 
 &lt;p&gt;中国数据方面，9月15日，8月规模以上工业增加值、社零、全国房地产开发投资、70城房价等经济数据出炉。中金宏观预测，社零增速有望回升，工业增加值同比增速或为4.6%。&lt;/p&gt;
 &lt;p&gt;印度8月通胀数据将于周一发布，市场关注价格压力是否进一步扩散，以研判印度储备银行的加息时间窗口。&lt;/p&gt;
-&lt;p&gt;拉丁美洲方面，巴西央行料于周三宣布连续第五次下调基准利率25个基点，将Selic利率降至13.75%。尽管如此，高于目标的通胀与顽固的通胀预期，仍将使该行难以给出更为宽松的政策承诺。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么开店选址也是泡泡玛特的护城河，因为你看到的可能只是冰山一角（纯手打）</title><link>http://xueqiu.com/3631818965/409100060</link><guid>3408856fe024b0d67740402878bf759f790bbfa96d8e3861f0fd8e29b3d3c895</guid><pubDate>Sun, 13 Sep 2026 14:13:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;月如懿&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/09992"&gt;$泡泡玛特(09992)$&lt;/a&gt; 为什么开店选址，也是泡泡玛特的护城河。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 我们距离RSI还有多远？来自AI一线的观点</title><link>https://wallstreetcn.com/articles/3781652</link><guid>81cd74fab4c0242f5ba1bc1b5ac71f719920dd6f3f687aee3f86097bf549a0a2</guid><pubDate>Sun, 13 Sep 2026 11:15:22 GMT</pubDate><description>&lt;p&gt;AI递归自我改进（RSI）的时间表，正成为业界最具争议的核心命题。&lt;/p&gt;
+&lt;p&gt;拉丁美洲方面，巴西央行料于周三宣布连续第五次下调基准利率25个基点，将Selic利率降至13.75%。尽管如此，高于目标的通胀与顽固的通胀预期，仍将使该行难以给出更为宽松的政策承诺。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 我们距离RSI还有多远？来自AI一线的观点</title><link>https://wallstreetcn.com/articles/3781652</link><guid>81cd74fab4c0242f5ba1bc1b5ac71f719920dd6f3f687aee3f86097bf549a0a2</guid><pubDate>Sun, 13 Sep 2026 11:15:22 GMT</pubDate><description>&lt;p&gt;AI递归自我改进（RSI）的时间表，正成为业界最具争议的核心命题。&lt;/p&gt;
 &lt;p&gt;在播客主持人Dwarkesh Patel与三位AI研究者的深度对谈中，OpenAI联合创始人、现Thinking Machines首席科学家John Schulman预判：&lt;strong&gt;距离AI在所有可在计算机上完成的认知工作中全面超越顶尖人类专家，可能只需3至4年。&lt;/strong&gt;与此同时，三人一致认为，&lt;strong&gt;在AI研究者生产力提升方面，两年内实现10倍效率提升具有相当的可信度。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，通往RSI的道路并非坦途。对话揭示出一个核心矛盾：当前AI体系在&amp;quot;做什么&amp;quot;方面已接近人类水平，但在&amp;quot;决定做什么&amp;quot;这一更高层次的目标设定能力上，仍面临根本性挑战。三位研究者的判断在多个关键问题上出现分歧，反映出这一领域深层的不确定性。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -621,7 +584,7 @@ RSI的技术瓶颈在哪里
 &lt;p&gt;非常感谢你们做这个，伙计们。我觉得这是一个很好的形式，让不同的专家不同意、辩论和一起讨论。非常有成效。&lt;/p&gt;
 &lt;p&gt;John Schulman：&lt;/p&gt;
 &lt;p&gt;谢谢邀请我们。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “AI交易”周一要遭暴击？三巨头支持“放缓”、OpenAI推迟IPO引热议</title><link>https://wallstreetcn.com/articles/3781643</link><guid>904dde402c70427ba8da66e6199f417b9b4e0aa65f0a73995d741edabba5c8e2</guid><pubDate>Sun, 13 Sep 2026 04:17:32 GMT</pubDate><description>&lt;p&gt;周六，Anthropic首席执行官Dario Amodei发文呼吁全球AI行业主动放缓前沿模型开发节奏，随后获得埃隆·马斯克与Sam Altman公开背书。Altman同时向《财富》杂志表示，OpenAI今年不会推进IPO计划，理由是“当前安全形势下，现在上市是不明智的”。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么开店选址也是泡泡玛特的护城河，因为你看到的可能只是冰山一角（纯手打）</title><link>http://xueqiu.com/3631818965/409100060</link><guid>3408856fe024b0d67740402878bf759f790bbfa96d8e3861f0fd8e29b3d3c895</guid><pubDate>Sun, 13 Sep 2026 14:13:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;月如懿&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/09992"&gt;$泡泡玛特(09992)$&lt;/a&gt; 为什么开店选址，也是泡泡玛特的护城河。&lt;/p&gt;</description></item><item><title>[华尔街见闻] “AI交易”周一要遭暴击？三巨头支持“放缓”、OpenAI推迟IPO引热议</title><link>https://wallstreetcn.com/articles/3781643</link><guid>904dde402c70427ba8da66e6199f417b9b4e0aa65f0a73995d741edabba5c8e2</guid><pubDate>Sun, 13 Sep 2026 04:17:32 GMT</pubDate><description>&lt;p&gt;周六，Anthropic首席执行官Dario Amodei发文呼吁全球AI行业主动放缓前沿模型开发节奏，随后获得埃隆·马斯克与Sam Altman公开背书。Altman同时向《财富》杂志表示，OpenAI今年不会推进IPO计划，理由是“当前安全形势下，现在上市是不明智的”。&lt;/p&gt;
 &lt;p&gt;从追求极致增长向强调安全降速的突然转向，已在交易社区引发连锁反应。早期市场指标显示，在“AI降速”消息传出后，HyperliquidX平台上的相关资产应声下跌，&lt;strong&gt;OpenAI和Anthropic的跌幅分别达到7%和2.8%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;多位市场观察人士和投资者已在社交媒体上发出预警，担忧该消息将于周一对英伟达、博通、AMD等AI相关股票造成显著冲击。&lt;strong&gt;X平台知名科技投资人Jason直接发帖称“AI股票周一早盘将下跌10%以上”，并表示Amodei的博文“一举瓦解了AI交易”。&lt;/strong&gt;&lt;/p&gt;
