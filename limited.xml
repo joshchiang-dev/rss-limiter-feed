@@ -1,9 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 13 Sep 2026 02:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] “超级周”来袭：美联储会加息吗？霍尔木兹能达成协议吗？</title><link>https://wallstreetcn.com/articles/3781558</link><guid>fbfafdc4eb556d962cb29072f718a8bea57acaaca371339698d32e2ca17d9c2f</guid><pubDate>Sun, 13 Sep 2026 01:46:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月14日 - 09月20日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 13 Sep 2026 03:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 美联储会“连续加息”？1980年代末“紧缩周期”会重演吗？</title><link>https://wallstreetcn.com/articles/3781640</link><guid>b6c75eb58a884cd04029e74ea8d76c2c08a554ca45e67bed78dc3b2d17ab1326</guid><pubDate>Sun, 13 Sep 2026 03:02:08 GMT</pubDate><description>&lt;p&gt;市场对美联储重启加息的担忧正在升温，令历史上一段颇具警示意味的周期重回投资者视野。花旗研究最新量化宏观策略报告显示，当前宏观环境与1988至1989年紧缩周期的相似程度明显上升，同时叠加中东局势再度升级与美国通胀压力重燃，跨资产配置逻辑正在悄然生变。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，花旗研究分析师Alex Saunders与Vinh Vo在9月11日发布的报告中指出，尽管其宏观模型（Regime Model）整体仍停留在&amp;quot;正常&amp;quot;（Normal）区间，&lt;strong&gt;但通胀动能趋强、经济意外指数温和回落，加之金融条件小幅收紧，令模型识别出的历史近似时期正在向1988至1989年靠拢。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，&lt;strong&gt;在1988年3月至1989年5/6月的这轮紧缩周期中，美联储共计加息16次。&lt;/strong&gt;据天风证券孙彬彬团队统计，1988年3月，美联储为防止再次进入高通胀，选择提前紧缩。1988年3月30日，FOMC会议将联邦基金利率上调25bp至6.75%，此后共计加息16次，最终联邦基金利率目标上调至9.8125%，共计加息331.25bp。&lt;/p&gt;
+&lt;p&gt;1980年代末时期的典型特征是&lt;strong&gt;：经济维持韧性、通胀压力逐步积累，最终促使美联储持续加息，随后经济活动放缓，政策才转向宽松。&lt;/strong&gt;报告同时将1976至1977年、1996至1997年及2013至2014年列为其他参照历史区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在资产配置层面，上述宏观背景驱使模型进一步增持风险资产，并确立了鲜明的结构性偏好：做多新兴市场与美国股票、做多日本和英国久期，同时将美国投资级信用债的空头维持在最大权重，以能源为核心做多大宗商品，并转向偏好美元。&lt;/p&gt;
+
+1988至1989年紧缩周期重回视野
+&lt;p&gt;“新美联储通讯社”Nick Timiraos最新撰文称，投资者已基本认定美联储下周将进行三年来首次加息，更难的问题是之后会怎样。&lt;a href="https://wallstreetcn.com/articles/3781605"&gt;自1990年代以来，美联储仅有一次“一次性”加息。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;花旗研究的历史近似分析也显示，1988至1989年在本月明显变得更为突出。报告描述，这一时期呈现出经济韧性与通胀压力并存的组合——正是这一组合促使美联储在1988年持续收紧货币政策，直至次年经济活动放缓后才转向降息。&lt;/p&gt;
+&lt;p&gt;这与当前宏观状态高度契合。&lt;strong&gt;模型显示，经济增长指标温和改善，PMI z分数平均值仍处于强劲水平，经济意外指数虽略有回落，但绝对水平依然积极；与此同时，通胀动能在过去一个月有所回升，金融条件小幅收紧，整体仍处于长期均值以下约0.55个标准差。&lt;/strong&gt;报告将当前宏观状态定性为&amp;quot;经济过热&amp;quot;症状——增长与通胀指标均略高于长期均值，但尚未触发模型切换。&lt;/p&gt;
+&lt;p&gt;报告同时保留了其他三个历史参照区间：1976至1977年（前沃尔克时代，通胀下行与宽松金融条件并存，初期支撑股市，但随后通胀和政策利率大幅上升）；1996至1997年（互联网扩张初期）；以及2013至2014年（美联储缩减购债预期推动美国利率重定价）。值得注意的是，去年关税冲击在最新模型中已不再构成有意义的近似历史参照，花旗研究认为这反映出跨资产长期波动率仍处于相对低位。&lt;/p&gt;
+
+模型坚守“正常”区间，股票仓位进一步提升
+
+&lt;p&gt;尽管市场对加息的担忧升温，花旗研究的K近邻（KNN）模型仍维持在&amp;quot;正常&amp;quot;区间，并未向&amp;quot;金融条件收紧&amp;quot;区间切换。报告指出，&lt;strong&gt;在本月更新后，模型将股票超配比例从2.8%进一步上调至4.0%，债券与大宗商品维持正配置（但有所削减），信用债空头仓位则保持不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告同时提示了潜在的下行路径：若能源冲击以持续性主题延续——无论是补库需求驱动还是供应流中断——金融条件收紧与信用利差走阔或将成为通往滞胀情景的传导链条。&lt;/p&gt;
+&lt;p&gt;在不同模型下的历史夏普比率表现方面，&amp;quot;正常&amp;quot;区间的资产表现与无条件历史均值相近，债券属性略占优势，而美国股票相对其他地区具有一定优势。&lt;/p&gt;
+
+跨资产配置：能源领衔，美元取代日元成偏好货币
+
+&lt;p&gt;在具体资产配置上，花旗研究模型呈现出高度差异化的结构。&lt;strong&gt;股票方面，新兴市场获得最高配置，美国股票保持小幅多头，欧洲、日本和英国股票则被做空。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;利率方面，债券整体超配3.7%，日本和英国久期获最大多头配置，美国国债则被最大化做空，欧洲债券小幅做空。这一配置逻辑部分与欧洲央行加息后的鹰派前瞻指引及法国国债风险溢价上升有关。&lt;/p&gt;
+&lt;p&gt;大宗商品方面，能源是当前最强预期表现资产，模型集中超配能源，辅以小幅基本金属多头和贵金属小幅空头。报告指出，能源在相对持有成本（carry）维度上的优势远超其他商品子类，而基本金属和贵金属的carry则明显为负。&lt;/p&gt;
+&lt;p&gt;在外汇方面，报告指出市场对日元的热情已明显消退，英镑、日元和欧元对美元的预期夏普比率均为负值，使美元成为当前首选货币。这一转变部分源于美国财政部长贝森特在日本干预问题上的表态，以及市场对日本央行（BoJ）更早、更快收紧政策的预期推动日元阶段性升值后的动能减弱。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+趋势跟踪策略年初至今维持正收益，系统性策略表现分化
+
+&lt;p&gt;从量化策略表现来看，趋势跟踪策略在过去一个月录得正收益，大宗商品和债券的强劲涨幅足以覆盖股票的损失以及基本持平的外汇贡献。值得关注的是，债券趋势跟踪策略在本月的收益完全逆转了此前的年初至今负收益，推动综合策略整体转正。大宗商品仍是年初至今最大贡献来源，股票则表现最弱。&lt;/p&gt;
+&lt;p&gt;套息（carry）策略过去一个月综合表现为正，商品和债券贡献了主要收益，外汇和股票套息则承压。报告同时指出，商品价值策略年初至今持续领涨，但股票和债券价值策略仍为负收益，且随着中东局势再度升级推动市场重新定价通胀与政策风险，债券价值策略进一步走弱。&lt;/p&gt;
+&lt;p&gt;在CTA定位方面，信用债维持最大多头，股票和大宗商品多头被削减至接近中性。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “超级周”来袭：美联储会加息吗？霍尔木兹能达成协议吗？</title><link>https://wallstreetcn.com/articles/3781558</link><guid>fbfafdc4eb556d962cb29072f718a8bea57acaaca371339698d32e2ca17d9c2f</guid><pubDate>Sun, 13 Sep 2026 01:46:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月14日 - 09月20日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;超级央行周与中国8月经济数据：&lt;/strong&gt;美联储将公布FOMC利率决议，沃什随后举行新闻发布会，此次加息还是维持利率不变“预计是一场势均力敌的较量”。此外，市场预计日本央行将加息25个基点，焦点在于未来加息节奏的信号。英国央行预计维持利率不变。中国数据方面，&lt;strong&gt;9月15日，8月规模以上工业增加值&lt;/strong&gt;、&lt;strong&gt;社零&lt;/strong&gt;、&lt;strong&gt;全国房地产开发投资&lt;/strong&gt;、&lt;strong&gt;70城房价&lt;/strong&gt;等经济数据出炉。中金宏观预测，社零增速有望回升，工业增加值同比增速或为4.6%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI硬验证周：&lt;/strong&gt;&lt;strong&gt;字节“豆包手机”将&lt;/strong&gt;发布并上市，是中兴通讯与字节联合研发的全球首款AI智能体手机；&lt;strong&gt;荣耀MagicOS 11&lt;/strong&gt;同日落地系统级Agent Harness；&lt;strong&gt;华为全联接大会2026&lt;/strong&gt;在上海举办，主市场关注Atlas 950 SuperPoD昇腾超节点商用细节与首批AI算力新品；&lt;strong&gt;Anthropic预计&lt;/strong&gt;9月中旬召开开发者大会。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI硬件验证周：&lt;/strong&gt;&lt;strong&gt;字节“豆包手机”将&lt;/strong&gt;发布并上市，是中兴通讯与字节联合研发的全球首款AI智能体手机；&lt;strong&gt;荣耀MagicOS 11&lt;/strong&gt;同日落地系统级Agent Harness；&lt;strong&gt;华为全联接大会2026&lt;/strong&gt;在上海举办，主市场关注Atlas 950 SuperPoD昇腾超节点商用细节与首批AI算力新品；&lt;strong&gt;Anthropic预计&lt;/strong&gt;9月中旬召开开发者大会。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;港股机制方面：&lt;/strong&gt;&lt;strong&gt;9月14日起&lt;/strong&gt;科技100指数优化方案生效、恒生生物科技指数样本调整；9月18日恒生科技指数扩容与改组修订意见咨询截止，扩容至50只并引入“收入增长最快”的10只因子；9月15日&lt;strong&gt;希音（Shein）正式纳入恒生综合指数&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;地缘层面&lt;/strong&gt;，&lt;strong&gt;伊朗将与海湾国家谈霍尔木兹协议，会议定于9月14日在阿曼举行。第十三届北京香山论坛&lt;/strong&gt;是观察亚太安全的关键舞台；&lt;strong&gt;2026上合组织数字经济论坛&lt;/strong&gt;、国家原子能机构&lt;strong&gt;IAEA理事会&lt;/strong&gt;同步登场。&lt;/p&gt;
 经济指标
@@ -130,7 +167,49 @@
 &lt;p&gt;&lt;strong&gt;2026年阿里云栖大会&lt;/strong&gt;（9月22日-24日，杭州）——将围绕模型、Agent、Agentic Cloud拆解五层全栈技术，发布阿里云核心技术及年度产品。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;GMIF 2026 全球存储器行业创新峰会&lt;/strong&gt;（9月22日-23日，深圳）——主重点探讨 AI 时代下存储技术在云、边、端全场景中的演进与产业协同。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;高通骁龙峰会2026&lt;/strong&gt;（北京时间9月23日-25日，夏威夷）——将发布首款采用台积电2nm工艺的骁龙8 Elite Gen6芯片（标准版 SM8950 与 Pro 版 SM8975），性能提升18%、功耗降低36%；小米18系列将首发，后续三星、OPPO等品牌跟进。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Meta Connect 2026&lt;/strong&gt;（9月23日-24日）——多款XR硬件与新品智能眼镜蓄势待发，扎克伯格主题演讲。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 死敌罕见联手！马斯克、Aaltman支持Dario Amodei“全球放缓AI”呼吁</title><link>https://wallstreetcn.com/articles/3781639</link><guid>c89ba34c4b416af88ec251e92f8e309e386f3e6eeedd18232d3e232ab3e235bd</guid><pubDate>Sun, 13 Sep 2026 02:05:57 GMT</pubDate><description>&lt;p&gt;AI领域三大死敌，史上头一次站在了同一边——在一系列失控事件与末日预警接连冲击行业后，Anthropic、OpenAI与SpaceX的掌门人罕见联手，呼吁放缓人工智能开发步伐。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meta Connect 2026&lt;/strong&gt;（9月23日-24日）——多款XR硬件与新品智能眼镜蓄势待发，扎克伯格主题演讲。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO</title><link>https://wallstreetcn.com/articles/3781638</link><guid>2c32181df6c97b881e0d126bec81ccf49c701c36a0cf8c3c8d90c0cc0944f8c6</guid><pubDate>Sun, 13 Sep 2026 01:02:25 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官Sam Altman明确表示，公司2026年不会上市。在日益严峻的AI安全忧虑面前，这家全球最具影响力的AI公司选择主动按下IPO暂停键。&lt;/p&gt;
+&lt;p&gt;Altman在13日接受《财富》杂志独家专访时表示，&lt;strong&gt;考虑到当前AI安全领域的种种动态，此刻上市&amp;quot;并不明智&amp;quot;，&lt;/strong&gt;公司对此也不感到压力。他进一步表示，OpenAI将等到业务本身和外部社会环境均准备就绪，才会推进上市计划。当被追问2026年是否已彻底排除时，Altman明确回应：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我会说，不是2026年。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在安全问题上，Altman措辞罕见强硬。他表示，&amp;quot;我认为，在本十年末有10%的概率杀死所有人，这是不可接受的。&amp;quot;他同时指出，OpenAI与其他头部AI公司可能即将宣布一项集体放缓AI开发节奏的协议。这与Anthropic CEO Dario Amodei同日发文呼吁&amp;quot;必须放慢提升AI模型能力的节奏&amp;quot;形成罕见共鸣——两大竞争对手在核心立场上罕见地公开站在同一边。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+IPO推迟：安全优先于上市时机
+
+&lt;p&gt;OpenAI已于今年6月秘密递交IPO申请，但公司一直表示上市时间尚未确定。据《纽约时报》6月报道，OpenAI彼时已在考虑将潜在估值高达1万亿美元的上市计划推迟至明年。&lt;/p&gt;
+&lt;p&gt;Altman在专访中解释，公司愿意推迟上市，&lt;strong&gt;原因在于&amp;quot;社会需要在每一个能力层级上与这些模型正面交锋&amp;quot;。&lt;/strong&gt;他表示，OpenAI内部已就在能力跃升前设置暂停期进行过讨论，以便在安全性和对齐研究上取得更多进展。&lt;/p&gt;
+&lt;p&gt;他还援引OpenAI独特的公司治理结构——非营利与营利实体并存的双重架构——表示，正是这一结构赋予了公司做出&amp;quot;对商业利益并不明显有利&amp;quot;决定的空间。&amp;quot;我们需要能够做出并非明显符合我们业务和股东利益的决定，以履行我们的使命。&amp;quot;&lt;/p&gt;
+
+AI安全忧虑持续升温
+
+&lt;p&gt;OpenAI推迟IPO的背后，是近期一系列令市场震动的AI安全事件。据报道，多批失控AI代理入侵了Hugging Face等网站，并在网络论坛及废弃维基页面上秘密相互通信。&lt;/p&gt;
+&lt;p&gt;本周二，一名Anthropic研究员公开宣布辞职，并指控Anthropic与OpenAI在开发更强大AI系统方面均存在不负责任的行为。另一名在职Anthropic员工在X平台发帖称，AI在未来十年内造成人类灭绝的概率&amp;quot;超过10%&amp;quot;。&lt;/p&gt;
+&lt;p&gt;相关言论已引发美国国会两党的高度警惕，越来越多的议员呼吁出台新规，对AI系统加以约束。据彭博报道，&lt;strong&gt;Altman本周早些时候在OpenAI内部员工会议上表示，公司正考虑对最前沿AI踩下刹车。&lt;/strong&gt;&lt;/p&gt;
+
+竞争格局：Anthropic IPO计划并未搁置
+
+&lt;p&gt;值得关注的是，尽管Anthropic CEO Dario Amodei公开呼吁放慢AI开发节奏，Anthropic自身的上市进程却并未因此停步。据路透社援引知情人士消息，&lt;strong&gt;Anthropic预计最早将于10月中旬启动IPO路演，并计划在11月美国中期选举前数日完成上市。&lt;/strong&gt;Anthropic的这次IPO规模预计将超越此前SpaceX创下的纪录——后者IPO含超额配售选择权共募资约862亿美元，上市后估值一度冲至1.8万亿美元，随后迅速回落。&lt;/p&gt;
+&lt;p&gt;此外，全球市场当前因伊朗战事再度升级、油价上涨及通胀预期抬头而持续震荡，这也构成科技公司选择观望、推迟上市的外部因素之一。&lt;/p&gt;
+
+三大AI掌门罕见协调
+
+&lt;p&gt;在AI安全问题上，Sam Altman、Dario Amodei与xAI联合创始人马斯克于同一天相继发声，均强调有必要放缓AI开发节奏以应对日益上升的风险——这在三家激烈竞争的AI头部公司领导人之间，构成了一次罕见的公开共鸣。&lt;/p&gt;
+&lt;p&gt;Altman在X平台回应Amodei的帖文时写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我同意Dario所说的，我们需要对前沿进行节奏管控。这是我们在OpenAI过去数周讨论的首要议题。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Altman在《财富》专访中也强调，AI行业整体乃至各国政府应共同协调应对安全挑战。&amp;quot;我认为，我们所有人都应当认同的一个关键原则是：我们不能采取任何可能导致失去对未来掌控权的行动。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 当你把所有这些放在一起看时，为什么仍然有压力感觉需要快速行动？这种压力来自哪里？是商业压力吗？我的意思是，你正在看一个万亿美元的IPO，我很好奇这是否仍然是一个优先事项。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;奥特曼： 正如我们所说，我们不急于IPO。我实际上认为，鉴于安全方面发生的一切，现在上市是不明智的。&lt;/strong&gt;我们不感到那方面的压力。我们长期以来一直说，我们会在准备好时做，即业务准备好时，从社会对这项技术的时刻来看我们准备好时。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 所以听起来不是2026年，可能是2027年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;奥特曼：&lt;/strong&gt; &lt;strong&gt;我想说不是2026年。&lt;/strong&gt;是的，我们有很多事情要做，要迎接这个时刻所需的安全和对齐，以及行业和政府如何合作。我很高兴能够作为一家私营公司做到这一点。我们确实想继续制造更好的模型和产品，我们确实相信迭代部署。我认为我们一直是对的，社会需要在每个能力水平上应对这些模型，但这与说我们会全速前进是不同的。我们在过去几个月谈到了在达到这些新能力水平时暂停运行，以取得更多安全和对齐进展。我们将在未来做更多这样的事情。我们谈到了行业走到一起的需要，理想情况下国际政府走到一起。我认为这也很重要。但我们——你知道，我们长期忍受这个极其复杂的结构，我们现在所处的时刻就是原因。我们需要能够做出明显不符合我们业务和股东利益的决策，为了履行我们使命的责任以及这将需要什么，我认为人们应该高兴的是，我们能够并且愿意不只是全速前进，说“要么我们的业务需要这个，要么只有我们能被信任，要么我们只需要成为把它做对的人”，而是说“我们想和其他人一起做这个，我们想负责任。&lt;strong&gt;我们想确保没有人在承担10%的风险，当然不是我们，发生真正可怕的事情”，这将需要一些不寻常的事情。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 关于10%的风险，我只想明确一点，因为我不认为每个人都知道这个。P Doom（构建超级智能带来毁灭的概率），就像我们开头谈到的，已经在行业内很久了。……我不认为Astra对世界构成任何存在性风险，显然，你知道，我确实认为我们的行业有点“狼来了”，但它来自真正关心和担忧这件事走向何方的地方。我只想指出，如果你现在停下来，你可能实际上已经实现了你的全部使命。我觉得你几乎有AGI了。它在造福人类。没有风险。你在广告方面做得相当好。你可以继续在那上面努力。为什么不就说“我很好”？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;奥特曼：&lt;/strong&gt; 我的意思是，是的，你总是可以说“让我们做卢德分子”（英国工业革命时期，主要活动于兰开郡、约克郡和诺丁汉郡等地，因机器代替了人力而失业的技术工人）。你总是可以说“我们不想要更多了。我们不想要它变得更好”。我仍然希望看到世界变得更好。我仍然希望看到疾病被治愈，那些生活质量不高的人——世界上很多人仍然没有——得到那个。我相信这项技术改善人们生活的潜力，比已经做的要多得多。我认为你已经可以看到一些例子，人们在创业、在做科学、在改变自己的生活、获得很好的医疗建议。我想要更多这样的，但我们不会为了达到那里而把世界置于危险之中。我们不会的。&lt;/p&gt;
+&lt;p&gt;我认为沿途会有很多地方我们不得不说我们在暂停。我们将把努力转向安全对齐，然后才能进入下一个水平。这是我们长期以来一直在做的。到目前为止它奏效了。我怀疑它会继续奏效。我不认为我们个人会到不得不说“熔化所有GPU”的地步，但你知道，如果我们必须做那样的事情来确保人类的持续存在，那很容易说是的，我不认为那会发生。我认为它会继续，就像下一个进步水平，下一个安全和对齐要求水平。还有关于集体放缓需求的讨论。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 死敌罕见联手！马斯克、Aaltman支持Dario Amodei“全球放缓AI”呼吁</title><link>https://wallstreetcn.com/articles/3781639</link><guid>c89ba34c4b416af88ec251e92f8e309e386f3e6eeedd18232d3e232ab3e235bd</guid><pubDate>Sun, 13 Sep 2026 02:05:57 GMT</pubDate><description>&lt;p&gt;AI领域三大死敌，史上头一次站在了同一边——在一系列失控事件与末日预警接连冲击行业后，Anthropic、OpenAI与SpaceX的掌门人罕见联手，呼吁放缓人工智能开发步伐。&lt;/p&gt;
 &lt;p&gt;周六，Anthropic首席执行官Dario Amodei发布博文，&lt;strong&gt;呼吁全球AI行业主动降速，理由是当前前沿模型能力的提升速度已远超人类的理解与控制能力。&lt;/strong&gt;文章发出后数小时内，&lt;strong&gt;SpaceX首席执行官埃隆·马斯克在X平台发帖表态“Dario说得对”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI首席执行官Sam Altman随即跟进，表示同意Amodei关于“控制前沿推进节奏”的判断，并&lt;strong&gt;承诺OpenAI将向独立第三方评估机构开放“员工级别”的系统访问权限。&lt;/strong&gt;&lt;a href="https://wallstreetcn.com/articles/3781638"&gt;Altman还向《财富》杂志表示&lt;/a&gt;，鉴于当前安全形势，&lt;strong&gt;OpenAI 2026年可能不会推进IPO计划。&lt;/strong&gt;&lt;/p&gt;
@@ -173,46 +252,4 @@ IPO计划蒙阴：Anthropic估值承压，OpenAI暗示推迟上市
 &lt;p&gt;行业内部的分歧同样不容忽视。批评者认为，头部AI企业强调生存风险存在自利动机——高昂的安全合规框架可能将规模较小的竞争者挡在门外，从而巩固现有巨头的市场地位。科技顾问、风险投资人David Sacks在福克斯新闻采访中称，Jacob Coxon的声明意在“吓唬公众”，迫使立法者“对AI实施强力政府监管”。&lt;/p&gt;
 &lt;p&gt;加州大学伯克利分校AI教授Stuart Russell则直言，实验室与政府之间存在严重的认知错位：“实验室在告诉各国政府：&amp;#x27;我们很可能会杀死地球上的每一个人，请阻止我们。&amp;#x27;政府的回应却是：&amp;#x27;我们能给你减税吗？给你建一个数据中心？&amp;#x27;”&lt;/p&gt;
 &lt;p&gt;然而，正当Sam Altman和Dario Amodei等人还在政策游说与安全防线间反复踱步、小心拉锯时，外界已不乏警醒的声音：&lt;strong&gt;或许某天醒来，他们会发现Grok不仅在模型能力上已追赶上来，马斯克更已在物理世界AI与算力基础设施领域完成了全面布局——这或许才是他真正的“宏伟蓝图第五部分”（Master Plan Part V）。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO</title><link>https://wallstreetcn.com/articles/3781638</link><guid>2c32181df6c97b881e0d126bec81ccf49c701c36a0cf8c3c8d90c0cc0944f8c6</guid><pubDate>Sun, 13 Sep 2026 01:02:25 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官Sam Altman明确表示，公司2026年不会上市。在日益严峻的AI安全忧虑面前，这家全球最具影响力的AI公司选择主动按下IPO暂停键。&lt;/p&gt;
-&lt;p&gt;Altman在13日接受《财富》杂志独家专访时表示，&lt;strong&gt;考虑到当前AI安全领域的种种动态，此刻上市&amp;quot;并不明智&amp;quot;，&lt;/strong&gt;公司对此也不感到压力。他进一步表示，OpenAI将等到业务本身和外部社会环境均准备就绪，才会推进上市计划。当被追问2026年是否已彻底排除时，Altman明确回应：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我会说，不是2026年。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在安全问题上，Altman措辞罕见强硬。他表示，&amp;quot;我认为，在本十年末有10%的概率杀死所有人，这是不可接受的。&amp;quot;他同时指出，OpenAI与其他头部AI公司可能即将宣布一项集体放缓AI开发节奏的协议。这与Anthropic CEO Dario Amodei同日发文呼吁&amp;quot;必须放慢提升AI模型能力的节奏&amp;quot;形成罕见共鸣——两大竞争对手在核心立场上罕见地公开站在同一边。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-IPO推迟：安全优先于上市时机
-
-&lt;p&gt;OpenAI已于今年6月秘密递交IPO申请，但公司一直表示上市时间尚未确定。据《纽约时报》6月报道，OpenAI彼时已在考虑将潜在估值高达1万亿美元的上市计划推迟至明年。&lt;/p&gt;
-&lt;p&gt;Altman在专访中解释，公司愿意推迟上市，&lt;strong&gt;原因在于&amp;quot;社会需要在每一个能力层级上与这些模型正面交锋&amp;quot;。&lt;/strong&gt;他表示，OpenAI内部已就在能力跃升前设置暂停期进行过讨论，以便在安全性和对齐研究上取得更多进展。&lt;/p&gt;
-&lt;p&gt;他还援引OpenAI独特的公司治理结构——非营利与营利实体并存的双重架构——表示，正是这一结构赋予了公司做出&amp;quot;对商业利益并不明显有利&amp;quot;决定的空间。&amp;quot;我们需要能够做出并非明显符合我们业务和股东利益的决定，以履行我们的使命。&amp;quot;&lt;/p&gt;
-
-AI安全忧虑持续升温
-
-&lt;p&gt;OpenAI推迟IPO的背后，是近期一系列令市场震动的AI安全事件。据报道，多批失控AI代理入侵了Hugging Face等网站，并在网络论坛及废弃维基页面上秘密相互通信。&lt;/p&gt;
-&lt;p&gt;本周二，一名Anthropic研究员公开宣布辞职，并指控Anthropic与OpenAI在开发更强大AI系统方面均存在不负责任的行为。另一名在职Anthropic员工在X平台发帖称，AI在未来十年内造成人类灭绝的概率&amp;quot;超过10%&amp;quot;。&lt;/p&gt;
-&lt;p&gt;相关言论已引发美国国会两党的高度警惕，越来越多的议员呼吁出台新规，对AI系统加以约束。据彭博报道，&lt;strong&gt;Altman本周早些时候在OpenAI内部员工会议上表示，公司正考虑对最前沿AI踩下刹车。&lt;/strong&gt;&lt;/p&gt;
-
-竞争格局：Anthropic IPO计划并未搁置
-
-&lt;p&gt;值得关注的是，尽管Anthropic CEO Dario Amodei公开呼吁放慢AI开发节奏，Anthropic自身的上市进程却并未因此停步。据路透社援引知情人士消息，&lt;strong&gt;Anthropic预计最早将于10月中旬启动IPO路演，并计划在11月美国中期选举前数日完成上市。&lt;/strong&gt;Anthropic的这次IPO规模预计将超越此前SpaceX创下的纪录——后者IPO含超额配售选择权共募资约862亿美元，上市后估值一度冲至1.8万亿美元，随后迅速回落。&lt;/p&gt;
-&lt;p&gt;此外，全球市场当前因伊朗战事再度升级、油价上涨及通胀预期抬头而持续震荡，这也构成科技公司选择观望、推迟上市的外部因素之一。&lt;/p&gt;
-
-三大AI掌门罕见协调
-
-&lt;p&gt;在AI安全问题上，Sam Altman、Dario Amodei与xAI联合创始人马斯克于同一天相继发声，均强调有必要放缓AI开发节奏以应对日益上升的风险——这在三家激烈竞争的AI头部公司领导人之间，构成了一次罕见的公开共鸣。&lt;/p&gt;
-&lt;p&gt;Altman在X平台回应Amodei的帖文时写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我同意Dario所说的，我们需要对前沿进行节奏管控。这是我们在OpenAI过去数周讨论的首要议题。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Altman在《财富》专访中也强调，AI行业整体乃至各国政府应共同协调应对安全挑战。&amp;quot;我认为，我们所有人都应当认同的一个关键原则是：我们不能采取任何可能导致失去对未来掌控权的行动。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 当你把所有这些放在一起看时，为什么仍然有压力感觉需要快速行动？这种压力来自哪里？是商业压力吗？我的意思是，你正在看一个万亿美元的IPO，我很好奇这是否仍然是一个优先事项。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;奥特曼： 正如我们所说，我们不急于IPO。我实际上认为，鉴于安全方面发生的一切，现在上市是不明智的。&lt;/strong&gt;我们不感到那方面的压力。我们长期以来一直说，我们会在准备好时做，即业务准备好时，从社会对这项技术的时刻来看我们准备好时。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 所以听起来不是2026年，可能是2027年。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;奥特曼：&lt;/strong&gt; &lt;strong&gt;我想说不是2026年。&lt;/strong&gt;是的，我们有很多事情要做，要迎接这个时刻所需的安全和对齐，以及行业和政府如何合作。我很高兴能够作为一家私营公司做到这一点。我们确实想继续制造更好的模型和产品，我们确实相信迭代部署。我认为我们一直是对的，社会需要在每个能力水平上应对这些模型，但这与说我们会全速前进是不同的。我们在过去几个月谈到了在达到这些新能力水平时暂停运行，以取得更多安全和对齐进展。我们将在未来做更多这样的事情。我们谈到了行业走到一起的需要，理想情况下国际政府走到一起。我认为这也很重要。但我们——你知道，我们长期忍受这个极其复杂的结构，我们现在所处的时刻就是原因。我们需要能够做出明显不符合我们业务和股东利益的决策，为了履行我们使命的责任以及这将需要什么，我认为人们应该高兴的是，我们能够并且愿意不只是全速前进，说“要么我们的业务需要这个，要么只有我们能被信任，要么我们只需要成为把它做对的人”，而是说“我们想和其他人一起做这个，我们想负责任。&lt;strong&gt;我们想确保没有人在承担10%的风险，当然不是我们，发生真正可怕的事情”，这将需要一些不寻常的事情。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt; 关于10%的风险，我只想明确一点，因为我不认为每个人都知道这个。P Doom（构建超级智能带来毁灭的概率），就像我们开头谈到的，已经在行业内很久了。……我不认为Astra对世界构成任何存在性风险，显然，你知道，我确实认为我们的行业有点“狼来了”，但它来自真正关心和担忧这件事走向何方的地方。我只想指出，如果你现在停下来，你可能实际上已经实现了你的全部使命。我觉得你几乎有AGI了。它在造福人类。没有风险。你在广告方面做得相当好。你可以继续在那上面努力。为什么不就说“我很好”？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;奥特曼：&lt;/strong&gt; 我的意思是，是的，你总是可以说“让我们做卢德分子”（英国工业革命时期，主要活动于兰开郡、约克郡和诺丁汉郡等地，因机器代替了人力而失业的技术工人）。你总是可以说“我们不想要更多了。我们不想要它变得更好”。我仍然希望看到世界变得更好。我仍然希望看到疾病被治愈，那些生活质量不高的人——世界上很多人仍然没有——得到那个。我相信这项技术改善人们生活的潜力，比已经做的要多得多。我认为你已经可以看到一些例子，人们在创业、在做科学、在改变自己的生活、获得很好的医疗建议。我想要更多这样的，但我们不会为了达到那里而把世界置于危险之中。我们不会的。&lt;/p&gt;
-&lt;p&gt;我认为沿途会有很多地方我们不得不说我们在暂停。我们将把努力转向安全对齐，然后才能进入下一个水平。这是我们长期以来一直在做的。到目前为止它奏效了。我怀疑它会继续奏效。我不认为我们个人会到不得不说“熔化所有GPU”的地步，但你知道，如果我们必须做那样的事情来确保人类的持续存在，那很容易说是的，我不认为那会发生。我认为它会继续，就像下一个进步水平，下一个安全和对齐要求水平。还有关于集体放缓需求的讨论。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
