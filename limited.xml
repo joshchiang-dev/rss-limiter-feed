@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 13 Sep 2026 04:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 美联储会“连续加息”？1980年代末“紧缩周期”会重演吗？</title><link>https://wallstreetcn.com/articles/3781640</link><guid>b6c75eb58a884cd04029e74ea8d76c2c08a554ca45e67bed78dc3b2d17ab1326</guid><pubDate>Sun, 13 Sep 2026 03:02:08 GMT</pubDate><description>&lt;p&gt;市场对美联储重启加息的担忧正在升温，令历史上一段颇具警示意味的周期重回投资者视野。花旗研究最新量化宏观策略报告显示，当前宏观环境与1988至1989年紧缩周期的相似程度明显上升，同时叠加中东局势再度升级与美国通胀压力重燃，跨资产配置逻辑正在悄然生变。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 13 Sep 2026 04:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 美联储会“连续加息”？1980年代末“紧缩周期”会重演吗？</title><link>https://wallstreetcn.com/articles/3781640</link><guid>b6c75eb58a884cd04029e74ea8d76c2c08a554ca45e67bed78dc3b2d17ab1326</guid><pubDate>Sun, 13 Sep 2026 03:02:08 GMT</pubDate><description>&lt;p&gt;市场对美联储重启加息的担忧正在升温，令历史上一段颇具警示意味的周期重回投资者视野。花旗研究最新量化宏观策略报告显示，当前宏观环境与1988至1989年紧缩周期的相似程度明显上升，同时叠加中东局势再度升级与美国通胀压力重燃，跨资产配置逻辑正在悄然生变。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，花旗研究分析师Alex Saunders与Vinh Vo在9月11日发布的报告中指出，尽管其宏观模型（Regime Model）整体仍停留在&amp;quot;正常&amp;quot;（Normal）区间，&lt;strong&gt;但通胀动能趋强、经济意外指数温和回落，加之金融条件小幅收紧，令模型识别出的历史近似时期正在向1988至1989年靠拢。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;值得注意的是，&lt;strong&gt;在1988年3月至1989年5/6月的这轮紧缩周期中，美联储共计加息16次。&lt;/strong&gt;据天风证券孙彬彬团队统计，1988年3月，美联储为防止再次进入高通胀，选择提前紧缩。1988年3月30日，FOMC会议将联邦基金利率上调25bp至6.75%，此后共计加息16次，最终联邦基金利率目标上调至9.8125%，共计加息331.25bp。&lt;/p&gt;
 &lt;p&gt;1980年代末时期的典型特征是&lt;strong&gt;：经济维持韧性、通胀压力逐步积累，最终促使美联储持续加息，随后经济活动放缓，政策才转向宽松。&lt;/strong&gt;报告同时将1976至1977年、1996至1997年及2013至2014年列为其他参照历史区间。&lt;/p&gt;
@@ -183,8 +183,8 @@
 
 &lt;p&gt;&lt;/p&gt;
 估值逻辑生变，IPO计划遇阻
-&lt;p&gt;降速呼吁与公开市场对高增长的渴望之间存在天然矛盾，这直接构成了OpenAI等巨头推迟IPO的核心逻辑。CNBC记者Deirdre Bosa指出，这是该叙事的自然发展结果。&lt;strong&gt;当OpenAI和Anthropic认为商业压力会促使AI公司发展过快时，它们就越难以上市。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公开市场会带来额外的压力，包括增长预期，季度报告以及每秒都在波动的股价。Bosa表示，向投资者宣告“我们需要放缓增长”，是一个极其艰难的上市公司模型：&lt;/p&gt;
+&lt;p&gt;降速呼吁与公开市场对高增长的渴望之间存在天然矛盾，&lt;strong&gt;这正是OpenAI推迟IPO的核心症结所在&lt;/strong&gt;。CNBC记者Deirdre Bosa指出，&lt;strong&gt;这并不令人意外，而是该叙事走向的必然结果&lt;/strong&gt;：当OpenAI和Anthropic自己承认商业压力会促使AI公司发展过快时，它们就越难以在公开市场上自圆其说。&lt;/p&gt;
+&lt;p&gt;公开市场会带来额外的压力，包括增长预期、季度报告以及每秒都在波动的股价。Bosa表示，向投资者宣告“我们需要放缓增长”，是一个极其艰难的上市公司叙事：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“尽管安全开发可能比最大化财富创造更重要，但这些公司目前的庞大私募估值，资金需求及巨额回报预期，均是建立在高速推进的基础之上。”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -192,11 +192,13 @@
 &lt;p&gt;用户David Chie提出关于“降速是指放缓增长还是放缓前沿模型训练”的疑问，Bosa则强调，这些公司的估值在很大程度上与前沿技术的持续进步紧密挂钩，尤其是在开源权重模型紧随其后的竞争格局下，&lt;strong&gt;放缓前沿开发将直接动摇其高估值的根基。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 资本支出放缓还是预期管理？
-&lt;p&gt;除了安全层面的考量，交易社区对此次“三巨头”罕见联手的潜在商业动机保持审视。用户Jason Choi指出，Anthropic一直对安全问题直言不讳，但在此时提出具体的降速计划引发了市场猜测。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;部分观点认为，这可能是一场监管博弈。明确放缓前沿模型开发，实际上给了竞争对手缩小能力差距的时间：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;除了安全层面的考量，交易社区对此次三方罕见联手的潜在商业动机保持审视。用户Jason Choi指出，Anthropic一直对安全问题直言不讳，&lt;strong&gt;但选择在此时提出具体的降速方案，时机本身就值得推敲。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这里存在一个内在矛盾需要厘清&lt;/strong&gt;：明确放缓前沿模型开发，客观上给了竞争对手缩小能力差距的时间——这对于靠技术领先支撑高估值的公司而言，本是一种自我削弱。&lt;strong&gt;那么，为何三方仍选择联合发声？&lt;/strong&gt;一种更具说服力的解读是：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;这一举动在本质上是企业层面的“IPO预期管理”，并为未来削减资本支出（capex）提供了选项。在AI基础设施投入日益庞大的背景下，以安全为由放慢步伐，或许能为这些估值高企的初创企业缓解持续烧钱的财务压力。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“我们是为了安全主动放缓”，远比“我们烧不起钱了”更易被市场接受。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当然，安全与商业动机并不必然互斥。但对于投资者而言，真正需要判断的是：这场“降速”究竟是AI发展的真实拐点，还是一次有利于巨头自身的叙事重构？答案或许将在周一的市场表现中初见分晓。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 死敌罕见联手！马斯克、Aaltman支持Dario Amodei“全球放缓AI”呼吁</title><link>https://wallstreetcn.com/articles/3781639</link><guid>c89ba34c4b416af88ec251e92f8e309e386f3e6eeedd18232d3e232ab3e235bd</guid><pubDate>Sun, 13 Sep 2026 02:05:57 GMT</pubDate><description>&lt;p&gt;AI领域三大死敌，史上头一次站在了同一边——在一系列失控事件与末日预警接连冲击行业后，Anthropic、OpenAI与SpaceX的掌门人罕见联手，呼吁放缓人工智能开发步伐。&lt;/p&gt;
 &lt;p&gt;周六，Anthropic首席执行官Dario Amodei发布博文，&lt;strong&gt;呼吁全球AI行业主动降速，理由是当前前沿模型能力的提升速度已远超人类的理解与控制能力。&lt;/strong&gt;文章发出后数小时内，&lt;strong&gt;SpaceX首席执行官埃隆·马斯克在X平台发帖表态“Dario说得对”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
