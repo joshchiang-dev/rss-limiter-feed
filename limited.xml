@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 16 Sep 2026 03:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 今晚，“鸽派加息”？</title><link>https://wallstreetcn.com/articles/3781862</link><guid>dacc18f63a1a184a83341d32ab5658e8ab7b2fe9c6e9bb28bdd9f7bbed3734d5</guid><pubDate>Wed, 16 Sep 2026 03:53:19 GMT</pubDate><description>&lt;p&gt;华尔街正屏息等待周三美联储的利率决议。花旗与高盛罕见地在核心判断上高度趋同：此次加息几成定局，但这将是一次“鸽派加息”——加息本身不是重点，重点是加息之后美联储说了什么，或者，没说什么。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 16 Sep 2026 04:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 今晚，“鸽派加息”？</title><link>https://wallstreetcn.com/articles/3781862</link><guid>dacc18f63a1a184a83341d32ab5658e8ab7b2fe9c6e9bb28bdd9f7bbed3734d5</guid><pubDate>Wed, 16 Sep 2026 03:53:19 GMT</pubDate><description>&lt;p&gt;华尔街正屏息等待周三美联储的利率决议。花旗与高盛罕见地在核心判断上高度趋同：此次加息几成定局，但这将是一次“鸽派加息”——加息本身不是重点，重点是加息之后美联储说了什么，或者，没说什么。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，花旗在9月15日的最新研报指出，基准预测显示，&lt;strong&gt;美联储将把此次加息定义为一次“微调（calibration）”，并暗示未来没有进一步加息的必然性&lt;/strong&gt;。高盛则在9月13日的研报中指出，&lt;strong&gt;今晚将是一次“无信号加息”&lt;/strong&gt;，并明确表示，不认为此次加息有充分经济基础，通胀超出2%目标的部分可全部归因于一次性因素，经济并未过热。&lt;/p&gt;
 &lt;p&gt;花旗与高盛均预计，&lt;strong&gt;中位数点阵图将显示2026年仅剩一次额外加息，降息将于2027年恢复。核心PCE预测因方法论修订料将较6月数据向下修正，为停止加息提供数据背书。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;尽管基准情形偏鸽，但沃什的新闻发布会将是市场最大的悬念。&lt;/strong&gt;花旗认为，若美联储主席沃什拒绝提供明确前瞻指引、仅强调&amp;quot;还有工作要做&amp;quot;，市场可能重新定价10月和12月连续加息，引发资产价格剧烈波动。高盛认为，沃什需要在发布会上强调委员会将“仔细评估”即将到来的数据，以暗示等待更多信息，从而&lt;strong&gt;引导市场放弃对10月加息的过度自信。&lt;/strong&gt;&lt;/p&gt;
@@ -221,18 +221,41 @@ AI 越来越会写算子了
 &lt;p&gt;但哪怕这样，我还是要继续坚持写算子、以及不断引入 AI Agent 写算子。一是因为“我当然希望自己不要被革命，但如果非被革命不可的话，我希望革我自己命的人是我自己”（被别人淘汰不如自我进化）；二是因为我还是希望我们（或者其他同样秉持着开放共享理念的 AI 公司）能够先于某些公司，做出最强大的智能，惠及所有人。我还是相信我原文中关于共产主义和 2077 的论调，也希望这个世界能尽量离 2077 那端远一些。爱好兴趣是一回事儿，理想信念则是另一回事儿了，因此我也将继续在这个领域开拓下去。我在未来也会尽量尝试重新对齐爱好、特长和时代需求的方向，尝试在属于 AI 的时代找到属于自己的乐土。在不得不把才华埋葬在昨天后，我还有明天的光明可以追逐。在被这场世末的凉雨淋湿后，我仍会用回温的心灵驱散阴霾，寻找越过黑夜后渐变的那一抹蓝色 [1]。&lt;/p&gt;
 &lt;p&gt;[1] 化用了 COP 的《世末歌者》等歌曲的歌词。&lt;/p&gt;
 
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板涨近2%，科创50大涨3%，半导体、算力硬件反弹，宁德时代、赛力斯再大跌，港股科网股多数承压</title><link>https://wallstreetcn.com/articles/3781856</link><guid>9cf0496beff244ab267bff10e09a7ab1a39802662b9e189985f1d27ad5299750</guid><pubDate>Wed, 16 Sep 2026 03:13:42 GMT</pubDate><description>&lt;p&gt;9月16日，A股早盘震荡下滑，三大股指盘初集体走低，科创50逆势涨超1%，盘中三大股指集体拉升，创业板涨近2%，科创50大涨3%，半导体产业链、光通信、光芯片等算力硬件反弹，生物医药拉升，CRO概念股大涨，此外，宁德时代、赛力斯继续下挫。工程机械、网络安全、新能源汽车等板块陷入调整。&lt;/p&gt;
-&lt;p&gt;港股高开低走，恒指、恒科指早盘双双下跌，恒科指盘中转涨，科网股多数承压，芯片股反弹，AI大模型双雄反弹，智谱、MINIMAX均涨超5%，宁德时代、赛力斯H股均延续跌势，均跌超4%。债市方面，国债期货震荡下跌。商品方面，国内商品期货多数走高。核心市场走势：&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板涨超2%，科创50暴涨逾4%，半导体、算力硬件爆发，宁德时代再下挫，恒科指一度涨1%</title><link>https://wallstreetcn.com/articles/3781856</link><guid>9cf0496beff244ab267bff10e09a7ab1a39802662b9e189985f1d27ad5299750</guid><pubDate>Wed, 16 Sep 2026 04:04:53 GMT</pubDate><description>&lt;p&gt;9月16日，A股低开高走，三大股指早盘探底回升，盘中集体翻红，创业板大涨超2%，科创50半日大涨4.5%，科技股吹响反攻号角。半导体、CPO/光模块等算力硬件链全线爆发，硅片涨价与光博会订单能见度是核心驱动。此外，宁德时代、赛力斯继续下挫。工程机械、网络安全、新能源汽车等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股恒指、恒科指早盘双双下跌，恒科指、恒指盘中先后转涨，权重科网股多数承压，但是芯片股大幅反弹，AI大模型双雄拉升，智谱、MINIMAX均涨超5%，宁德时代、赛力斯H股均延续跌势，目前跌幅有所收窄。债市方面，国债期货震荡下跌。商品方面，国内商品期货多数走高。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.20%，深成指涨0.95%，创业板指涨1.82%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.57%，深成指涨1.42%，创业板指涨2.35%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.24%，恒科指跌0.59%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.12%，恒科指涨0.87%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货震荡上涨，截至发稿，30年期主力合约跌0.03%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约持平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货震荡上涨，截至发稿，30年期主力合约跌0.03%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数走高，截至发稿，沥青涨超3%，燃油、豆粕涨2%，原油、纸浆涨超1%，钯金、沪银、螺纹钢、烧碱、橡胶、铂金、菜籽、沪铜、沪铝、热轧卷板、氧化铝、沪锡、鸡蛋等纷纷走高，沪金、多晶硅、集运指数、焦煤、铁矿石、工业硅、锰硅、焦炭下跌，不锈钢、玻璃、沪镍跌超1%，碳酸锂跌超3%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至发稿，油脂油料涨幅居前，豆粕涨2.52%；贵金属全部上涨，白银涨2.36%；化工品多数上涨，乙二醇涨2.10%；基本金属多数上涨，锡涨1.23%；农副产品多数上涨，红枣涨1.08%；黑色系多数上涨，螺纹钢涨0.77%；新能源材料多数上涨，多晶硅涨0.50%；能源品跌幅居前，原油跌1.32%；航运期货全部下跌，集运指数(欧线)跌1.31%；非金属建材全部下跌，C玻璃跌1.30%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;12:02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，半导体、光通信、PCB概念股是今日港股科技股反弹的核心力量，剑桥科技、中际旭创、长飞光纤光缆皆大涨，铜业股带领有色金属股反弹。另外，突发利空！工程机械龙头纷纷下挫，三一重工大跌近8%领衔下跌，石油股、猪肉概念股、煤炭股普跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:54&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股涨多跌少，沪深京三市近4200股飘红，上午半天成交1.17万亿。沪深两市半日成交额1.17万亿，较上个交易日放量1082亿。板块方面，中际旭创、新易盛、天孚通信崛起，带热光通信板块。半导体阵营普遍亢奋，中芯国际、寒武纪、海光信息携手并进。银行、家电、煤炭等红利板块暂时休整。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;具体来看，半导体产业链全线走强，有研硅20cm涨停，中晶科技2连板、有研新材涨停，露笑科技、西陇科学涨停，上海合晶涨超13%、天岳先进涨超11%、晶升股份涨逾12%，中芯国际涨超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;中信证券预计，较为紧缺的重掺硅片下半年有望继续涨，相关公司可能在9月到10月调涨明年长协价格，涨价周期至少持续到2027年。&lt;/p&gt;
+&lt;p&gt;CPO/光模块全线爆发，东田微涨超14%创历史新高，光迅科技涨停，永鼎股份、中瓷电子、青山纸业涨停，杰普特涨超12%，新易盛涨超7%，天孚通信、中际旭创涨超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;中金公司称，&amp;quot;锁订单&amp;quot;&amp;quot;锁物料&amp;quot;成为第27届光博会调研关键词，2027年需求确定性进一步提高，光模块订单能见度覆盖2027年及以后。中信证券表示，CIOE 2026验证了光通信行业的高景气度，全产业链仍处于快速成长期。&lt;/p&gt;
+&lt;p&gt;PCB概念反复活跃，澳弘电子4连板，威尔高、中岩大地涨停，华正新材、双星新材涨停，一博科技、金禄电子等跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;浙商证券研报显示，随着PCB上游材料价格持续上涨，涨价开始向部分PCB品类传导，涨价效果自2026年第三季度起将逐步体现。中信证券看好PCB/CCL景气周期的持续性及增长性，2026年下半年业绩有望表现强势。&lt;/p&gt;
+&lt;p&gt;工程机械集体重挫，三一重工盘中逼近跌停、跌超7%，柳工、恒立液压跌超7%，徐工机械跌超6%，主因美国商务部对中国线性液压缸发起反倾销反补贴调查，叠加上半年汇兑损失拖累。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;汽车整车走弱，安凯客车跌8%领跌，宁德时代跌3.81%、盘中一度跌超5%；银行、保险普跌，宁波银行跌超2%领跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:51&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;智谱、中际旭创、联想集团、剑桥科技、长飞光纤光缆、江波龙高举高打，提振港股科技阵营。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11:10&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新易盛、东山精密、中际旭创、天孚通信、北方华创等核心标的获主力资金持续净流入，A股AI硬件侧继续扩大升势。港股方面，剑桥科技、长飞光纤光缆、江波龙、立讯精密等同样表现突出。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -266,7 +289,40 @@ AI 越来越会写算子了
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.50%、恒生科技指数涨0.47%。联想集团、潍柴动力、澜起科技走强。宁德时代、赛力斯、福耀玻璃调整。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光高管：存储决定AI上限，实质性新增产能要到2028年后</title><link>https://wallstreetcn.com/articles/3781849</link><guid>2660d5ad28476f19f1ad31a3ddd6b6e7087abbdef0866666cf1ad531d8cf9140</guid><pubDate>Wed, 16 Sep 2026 03:22:52 GMT</pubDate><description>&lt;p&gt;随着AI浪潮从数据中心向边缘侧和机器人领域蔓延，美光高管警告称，存储已成为决定AI性能上限的最核心瓶颈，而由于新建产能周期漫长且工艺极度复杂，行业供需失衡的局面至少要到2028年后才能迎来实质性的新增产能释放。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 香港发布首个五年规划：聚焦人工智能产业，强化全球最大离岸人民币枢纽功能</title><link>https://wallstreetcn.com/articles/3781865</link><guid>9506a8e006feea53211ab17dfbd5f0b323dcd17e1fa5cbde1e8ab8d6f3211f31</guid><pubDate>Wed, 16 Sep 2026 04:13:12 GMT</pubDate><description>&lt;p&gt;香港特区政府发布首份经济和社会发展五年规划，以人工智能产业和深化大湾区融合为核心抓手，为2026至2030年的发展路径划定清晰框架。&lt;/p&gt;
+&lt;p&gt;9月15日，香港特区政府正式公布《香港特别行政区经济和社会发展第一个五年规划（2026-2030年）》，&lt;strong&gt;这是香港有史以来首次以五年规划形式系统阐述其经济和社会发展蓝图。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;行政长官李家超公布的这份规划共约6万字，分7篇58章，设立&lt;strong&gt;六大目标，涵盖经济突破、国际竞争力提升、北部都会区建设加速，以及民生福祉改善等方向&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李家超表示，2026至2030年间，香港实际GDP增长将力争保持在合理区间，并将本地创新活动总开支占GDP的比例目标设定为2030年后达至3%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;规划将人工智能列为香港未来发展的重要产业&lt;/strong&gt;，并明确提出参与国产飞机研制与认证工作、推动大湾区低空跨境物流等具体战略部署。&lt;/p&gt;
+&lt;p&gt;在金融领域，&lt;strong&gt;规划明确提出强化离岸人民币枢纽地位，并优化证券市场以吸引更多内地及海外龙头企业赴港上市，直接关乎香港资本市场的长期竞争力。&lt;/strong&gt;&lt;/p&gt;
+
+人工智能：多维布局谋求产业升级
+
+&lt;p&gt;&lt;strong&gt;规划将推动人工智能列为核心战略，目标是以&amp;quot;人工智能+&amp;quot;赋能各行各业，并从基础设施、法律配套及人才培育等多个维度构建完整生态。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在算力基础设施层面&lt;/strong&gt;，规划提出建设沙岭数据园区，为香港发展人工智能产业提供算力支撑。与此同时，当局计划检视相关法律框架，确保其切合人工智能及智能化发展需要，为产业应用提供规范保障。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;规划还明确提出支持中小企业加快应用人工智能，并将提升市民人工智能素养纳入政策议程&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在产业方向上&lt;/strong&gt;，当局以生命健康和具身智能为切入点，制定人工智能推动产业转型的专项策略，并强调加强数据资源开发利用，深化与内地的协同发展。&lt;/p&gt;
+
+金融中心地位强化，资本市场开放提速
+
+&lt;p&gt;在金融领域，规划提出多项举措以巩固香港国际金融中心地位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当局将致力强化全球离岸人民币业务枢纽功能，并深化国际资产及财富管理中心、国际风险管理中心建设。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;资本市场互联互通方面&lt;/strong&gt;，规划提出深化香港交易所与前海股权交易中心的对接合作，支持更多内地优质企业通过香港上市平台对接国际资本。&lt;/p&gt;
+&lt;p&gt;同时，规划明确扩展金融市场互联互通机制，拓展与共建&amp;quot;一带一路&amp;quot;国家及全球南方等新兴经济体的经贸与金融合作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在高端金融服务层面&lt;/strong&gt;，规划提出加快发展绿色金融、数字金融，并构建大宗商品交易生态圈和高增值供应链服务中心。&lt;/p&gt;
+
+北部都会区与大湾区：融合发展主平台
+
+&lt;p&gt;&lt;strong&gt;规划将北部都会区定位为香港融入国家发展大局的核心平台，加速推进这一毗邻深圳的战略区域建设。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在低空经济领域&lt;/strong&gt;，规划提出充分利用粤港澳大湾区的产业基础和地理优势，拓展低空跨境物流应用场景，目标是形成覆盖整个大湾区的整合规模化低空跨境物流网络。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李家超表示，香港将凭借与邻近内地城市合作的先行探索经验，连结大湾区三地资源要素。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一战略部署意在将香港的国际联通优势与内地庞大的产业腹地相结合，&lt;strong&gt;为跨境物流和新兴产业提供规模化发展空间。&lt;/strong&gt;&lt;/p&gt;
+
+航空产业：从维修交易到国产机认证
+
+&lt;p&gt;&lt;strong&gt;在航空领域，规划提出打造具国际竞争力的航空产业生态圈，其中一项具有战略信号意义的部署是积极参与国产飞机的研制及认证工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;规划明确，香港将发挥&amp;quot;桥梁&amp;quot;角色，助力国产飞机借道香港打入国际市场&lt;/strong&gt;。与此同时，当局计划构建飞机部件处理及交易产业生态系统，打造&amp;quot;前店后厂&amp;quot;产业集群，并将香港定位为亚洲首个飞机部件处理及交易中心。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在可持续航空燃料（SAF）领域&lt;/strong&gt;，规划提出发挥香港SAF生产基地落户东莞的产业建设作用，推动粤港澳大湾区SAF产业链建设，并计划在香港兴建燃料混合设施，以支持国家在这一新兴领域的发展布局。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7400万元采购、108条AI流水线 银行Agent进入批量生产阶段</title><link>https://wallstreetcn.com/articles/3781852</link><guid>72f3eeff3b43ef395671aecb0275ff45d0f02ab70b6d08f39ecfc92f64102260</guid><pubDate>Wed, 16 Sep 2026 01:37:05 GMT</pubDate><description>&lt;p&gt;银行Agent的落地方式，正在从单点试验转向更系统的工程化建设。&lt;/p&gt; &lt;p&gt;9月初，浙商银行一笔Agent基础软硬件项目披露中标结果，接近6500万元的报价，成为年内公开可查金融机构Agent项目中，金额最大的一笔；&lt;/p&gt; &lt;p&gt;叠加此前落地的财富及供应链Agent项目，浙商银行在Agent上的公开采购金额已合计超过7400万元。&lt;/p&gt; &lt;p&gt;这并不是孤例，上海银行、浦发银行、恒丰银行近期均有大额采购落地，加码Agent工作站、创设平台和运行观测等环节。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;银行正在为Agent花更多的钱，&lt;/strong&gt;&lt;strong&gt;而这些钱正在&lt;/strong&gt;&lt;strong&gt;投向更底层的工程能力。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;几乎同期，服贸会、外滩大会上，银行高管开始更多讨论如何批量开发Agent、上线后怎么评估、怎样持续管理；&lt;/p&gt; &lt;p&gt;部分金融科技公司甚至将Agent平台定义为“超级工厂”，欲把开发、部署、评测和管理纳入同一套体系。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;资金流向和行业讨论指向了同一个变化：银行&lt;/strong&gt;&lt;strong&gt;的目标正在从落地&lt;/strong&gt;&lt;strong&gt;零散&lt;/strong&gt;&lt;strong&gt;的&lt;/strong&gt;&lt;strong&gt;Agent，转向一套能够反复生产、调用和管理Agent的基础能力。&lt;/strong&gt;&lt;/p&gt; &lt;strong&gt;资金流向底座&lt;/strong&gt; &lt;p&gt;真实业务中，Agent需要调用知识、工具、业务系统执行任务；&lt;/p&gt; &lt;p&gt;这套规则落地银行业时的特殊性在于，银行不仅要检查输出结果，也要控制任务的执行过程。&lt;/p&gt; &lt;p&gt;一家股份行数据架构师向枢纽表示，不是所有场景都适合直接交给Agent；&lt;/p&gt; &lt;p&gt;例如，意图识别、合同要素抽取等“非标准输入、标准输出”的任务容易落地，但信贷审批、理财规划等复杂流程，需要把模型嵌入既有工作流，由规则、权限和人工节点共同控制。&lt;/p&gt; &lt;p&gt;这也改变了银行科技项目固有的研发与交付方式。&lt;/p&gt; &lt;p&gt;传统科技项目通常由业务提出需求、科技负责开发；&lt;/p&gt; &lt;p&gt;Agent进入生产后，业务规则、SOP和经验判断需要被转化为模型能够识别和执行的逻辑，业务人员需要深地参与测试和调整。&lt;/p&gt; &lt;p&gt;上述数据架构师表示，在Agent的金融场景开发模式中，业务专家需要深度参与知识和规则的沉淀，科技人员则负责将这些经验转化为可执行的流程和工具，双方的协作早已经由需求交付，延伸到共同开发和持续调整。&lt;/p&gt; &lt;p&gt;而当Agent从试点走向批量，原本由各个项目分别完成的开发、评测和运行管理，也随之出现标准化需求。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;近期的采购已经出现对应变化。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;枢纽统计发现，今年上半年，金融行业大模型中标项目达到406个，同比增长110%，其中银行机构在项目数量和金额上的占比均接近半数；&lt;/p&gt; &lt;p&gt;自去年下半年开始，Agent类应用项目明显增加，银行AI建设逐渐由模型部署和算力扩容，走向更具体的应用层。&lt;/p&gt; &lt;p&gt;这其中，浙商银行接近6500万元的Agent基础软硬件项目，已经覆盖算力、知识工程、模型和Agent运行环节，建设范围延伸至支撑后续Agent开发和运行的基础环境；&lt;/p&gt; &lt;p&gt;同时，浦发银行采购Agent创设平台，重点落在Agent的批量创建和管理；&lt;/p&gt; &lt;p&gt;恒丰银行则单独建设Agent观测能力，把投入延伸到上线后的运行监测。&lt;/p&gt; &lt;p&gt;上述几类项目，分别落在Agent生产体系的不同环节，说明银行的投入对象正在由具体应用，继续向开发和运行基础设施延伸。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;相似的变化，也&lt;/strong&gt;&lt;strong&gt;反映在&lt;/strong&gt;&lt;strong&gt;了&lt;/strong&gt;&lt;strong&gt;科技部门职责和招聘需求上。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;一位金融科技公司人士向枢纽反映，随着Agent数量增加，银行科技部门需要提供统一的开发和运行环境，并处理资源调用、Agent协同和治理等问题。&lt;/p&gt; &lt;p&gt;枢纽注意到，近期宁波银行相关岗位出现Agent工作流构建和技术框架研发；&lt;/p&gt; &lt;p&gt;平安银行则招聘AI Agent评测工程师，职责涉及工具调用、多步推理以及安全和性能评测。&lt;/p&gt; &lt;p&gt;从岗位设置看，Agent进入批量建设后，银行对工程能力的需求已经延伸到工作流、工具调用、评测和运行管理等环节。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;财富、信贷、客服仍按照各自的知识、流程和风险边界开发，但其开发、验证和运行管理，正逐渐形成一套相对统一的方法&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;当Agent进入规模化建设，这套生产方法本身，也将成为银行AI投入的新底座。&lt;/p&gt; &lt;strong&gt;流程重新接线&lt;/strong&gt; &lt;p&gt;Agent进入银行核心业务后，真正复杂的，是原有流程里的工作怎样重新拆分。&lt;/p&gt; &lt;p&gt;信贷是一个典型场景。&lt;/p&gt; &lt;p&gt;今年以来，苏州银行相继推进文档识别、尽调、AI审批、放款审核和贷后管理等项目；&lt;/p&gt; &lt;p&gt;上海银行也在对公授信的营销、尽调和贷后环节布局Agent。&lt;/p&gt; &lt;p&gt;这些项目分布在一笔授信的不同阶段：&lt;/p&gt; &lt;p&gt;材料读取、数据提取、财务分析等任务相对标准，更容易交给机器，越往风险判断和审批环节走，对业务经验的依赖越高；&lt;/p&gt; &lt;p&gt;&lt;strong&gt;一组财务指标是否异常、哪些问题需要继续追问、同样的指标放在不同产业周期中意味着什么，往往没有固定答案，很多判断沉淀在资深信贷人员长期积累的经验里。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;目前，亦有金融科技公司在尝试把这类经验判断进一步拆解、沉淀，并重新嵌入信贷流程。&lt;/p&gt; &lt;p&gt;神州信息AI创新中心总经理晋梅介绍，其公司推出CreditMind方案会把历史尽调报告、审批意见以及贷款后续表现重新组织，从中提取资深信贷人员判断风险时使用的逻辑和经验，再用于新的审批任务。&lt;/p&gt; &lt;p&gt;在新的授信流程中，系统先处理客户材料和基础分析，再调用历史案例和专家经验补充风险提示，最终交由审批人员判断；&lt;/p&gt; &lt;p&gt;这类尝试的价值，在于把过去主要沉淀在个人经验中的部分判断，转化成可以被Agent调用的Skill，再重新放回审批流程。&lt;/p&gt; &lt;p&gt;不过，能够被沉淀的主要是相对明确的判断逻辑，真正依赖具体客户、行业环境和长期经验形成的判断，仍然需要人完成。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;在这套组织架构之下，&lt;/strong&gt;&lt;strong&gt;Agent进入信贷流程，&lt;/strong&gt;&lt;strong&gt;将&lt;/strong&gt;&lt;strong&gt;把原有工作拆成更细的任务：标准化信息处理给机器&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;可&lt;/strong&gt;&lt;strong&gt;提炼经验转成Skill&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;关键风险判断留给人。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;可以观察到的是，&lt;/strong&gt;&lt;strong&gt;这种拆分&lt;/strong&gt;&lt;strong&gt;已&lt;/strong&gt;&lt;strong&gt;向更大范围扩展。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;浦发银行披露，今年上半年已有超过440个AI应用，其中220个Agent实现工程化落地，同时上线108条AI流水线，数字劳动力承担的工作量超过2500人年。&lt;/p&gt; &lt;p&gt;“AI流水线”比单个Agent数量更能反映流程层面的变化：不同AI能力按照业务顺序被重新组织，机器连续承担其中一部分任务，再在需要判断、授权和承担责任的节点交回人工。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;浦发银行首席人工智能科学家郑波将金融AI进入生产概括为三个标准：进入核心业务流程，承担过去由人完成的关键任务，并改善客户体验、经营效率或风险管理。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;对银行而言，Agent深入业务的程度，越来越取决于流程能被拆得多细。&lt;/p&gt; &lt;p&gt;哪些工作可以稳定交给机器，哪些经验能够沉淀成Skill，哪些判断必须留给人，这些边界越清楚，Agent越有可能真正嵌入核心业务。&lt;/p&gt; &lt;strong&gt;进入运营之后&lt;/strong&gt; &lt;p&gt;Agent进入业务流程后，银行管理的对象，不只是一套系统能否正常运行，还包括它的业务效果能否持续满足要求、是否值得继续投入，以及出现异常后流程能不能被顺利接住。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;首先要解决的是持续校正。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Agent上线时通过测试，并不代表后续效果会保持不变；&lt;/p&gt; &lt;p&gt;业务规则、知识内容、客户表达都在变化，实际使用中还会不断出现新的反面案例，银行需要继续判断，问题究竟来自知识缺失、流程设计，还是模型能力，再针对性调整。&lt;/p&gt; &lt;p&gt;来自金融科技公司的王军（化名）向枢纽表示，传统软件上线后更多围绕“运维”展开，Agent则需要持续“运营”；&lt;/p&gt; &lt;p&gt;这种运营关注的不只是系统是否在线，还包括输出是否符合业务要求、问题出现在哪里，以及后续该怎么修正。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;这也让Agent上线后的评价变得更重要。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;郑波谈及金融AI未来几年的竞争时，将生产能力、价值运营能力和组织进化列为关键；&lt;/p&gt; &lt;p&gt;浙商银行董事长陈海强则表示，科技投入要成为降本增效的收益项，通过使用频率、承担的工作量、处理效率，以及客户转化和风险管理效果等数据，判断科技实际产出。&lt;/p&gt; &lt;p&gt;这些结果会进一步影响资源配置：能够稳定承担工作、形成业务价值的Agent可以继续迭代，长期低频、效果有限的应用，则需要调整甚至退出。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;对银行而言，另一项运营要求是业务连续性。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;以授信为例，若Agent已经参与材料读取、尽调分析和审批流转，发生异常时，银行需要明确任务停在哪一步、哪些结果已经进入后续流程、是否触发过审批动作，以及接下来由谁继续处理；&lt;/p&gt; &lt;p&gt;涉及交易和系统操作时，还要确认指令是否已经执行，避免人工接管后重复操作，或者因状态不清引发新的操作风险。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;王军表示，目前业内已经开始讨论给Agent设置kill switch，但更难的是Agent停下来以后，业务怎么继续。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;枢纽注意到，如今&lt;/strong&gt;&lt;strong&gt;这类需求&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;也&lt;/strong&gt;&lt;strong&gt;已经进入银行的建设范围。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;恒丰银行单独建设Agent观测能力，反映出银行对Agent的关注已经延伸到上线后的运行状态和异常监测。&lt;/p&gt; &lt;p&gt;只有清楚Agent正在处理什么、执行到了哪里，异常发生后才有条件及时接管；&lt;/p&gt; &lt;p&gt;持续校正决定一个Agent能不能越用越准，价值评价决定它值不值得继续留下，异常接管则决定银行敢不敢把更多工作交给它。&lt;/p&gt; &lt;p&gt;当Agent真正成为业务流程中的长期节点，运营能力也就成为规模化落地之后新的分水岭。&lt;/p&gt; &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光高管：存储决定AI上限，实质性新增产能要到2028年后</title><link>https://wallstreetcn.com/articles/3781849</link><guid>2660d5ad28476f19f1ad31a3ddd6b6e7087abbdef0866666cf1ad531d8cf9140</guid><pubDate>Wed, 16 Sep 2026 03:22:52 GMT</pubDate><description>&lt;p&gt;随着AI浪潮从数据中心向边缘侧和机器人领域蔓延，美光高管警告称，存储已成为决定AI性能上限的最核心瓶颈，而由于新建产能周期漫长且工艺极度复杂，行业供需失衡的局面至少要到2028年后才能迎来实质性的新增产能释放。&lt;/p&gt;
 &lt;p&gt;9月15日，在Six Five Summit 2026的半导体聚焦论坛上，美光公司CEO高级顾问Sumit Sadana接受了分析师Patrick Moorhead的采访，详细拆解了AI时代下存储行业的供需格局、资本支出计划以及未来的核心增量市场。&lt;/p&gt;
 &lt;p&gt;在过去的一年里，整个科技行业对存储的认知发生了根本性重塑。这种重塑的根源在于，算力早已不再是衡量AI系统能力的唯一标尺。Sadana在访谈中一针见血地指出了当前AI硬件的底层逻辑：“如今，人工智能系统的性能首先取决于内存子系统的性能和内存容量。这两点真正决定了人工智能子系统的性能水平。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;他解释称，由于AI模型需要存储在内存中，且海量数据需要在内存间来回传输，处理器与内存之间的带宽已成为性能的关键瓶颈。&lt;/strong&gt;同时，存储市场正面临着长达数十年积累下来的结构性失衡——上世纪90年代初有多达20多家DRAM公司，如今只剩下寥寥几家；而目前设计处理器的公司却已超过20家。这种“少对多”的漏斗型供给格局，使得面对爆发式的AI需求时，存储供应链显得极为脆弱。&lt;/p&gt;
@@ -375,111 +431,7 @@ AI走向边缘，人形机器人将成最大增量市场
 高盛建议顶级客户启动对冲
 &lt;p&gt;此次预警的受众范围本身即传递出信号。据悉，高盛此份报告并非面向普通卖方分发名单，而是定向发送给银行最顶级的销售与交易客户，优先级远高于常规研究分发渠道。&lt;/p&gt;
 &lt;p&gt;在具体操作建议上，高盛提示，对于投资组合中存在AI敞口的客户，可考虑通过GSXUHMOM或GSTMTAIP的看跌期权进行对冲。以GSTMTAIP为例，一个月期、95%行权价的看跌期权指示性成本约为2.02%，期限27天，对冲成本相对可控。&lt;/p&gt;
-&lt;p&gt;高盛同时强调，当前动量因子的波动率相对于大盘指数波动率已显著偏高，这一背离本身即构成对冲的合理依据。在标普500指数当日跌幅不足30个基点的背景下，动量因子内部的剧烈震荡凸显了该因子当前的脆弱性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：“开源冲击”、“AI安全”都不是问题，未来两年资本开支仍有空间，半导体设备将成“新瓶颈”</title><link>https://wallstreetcn.com/articles/3781863</link><guid>2d2226c89357b796c5852baefa4a54abf78341c4079580eda0a3e3bb27755b1c</guid><pubDate>Wed, 16 Sep 2026 03:13:27 GMT</pubDate><description>&lt;p&gt;市场近期对AI基础设施投资的信心出现动摇。开源大模型的崛起、AI安全监管呼声升温，以及超大规模云厂商自由现金流转负——三重压力叠加，令科技硬件板块情绪持续低迷。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根大通分析师Gokul Hariharan等在9月16日发布的亚洲科技策略报告中，对上述三大疑虑逐一作出回应，结论是：&lt;strong&gt;算力需求的基本面并未动摇，AI安全监管担忧属短期扰动，资本开支周期仍将延续，半导体设备将在2027年前后成为整条供应链最关键的瓶颈。&lt;/strong&gt;&lt;/p&gt;
-“购买算力”同样是门好生意
-&lt;p&gt;市场的第一个疑虑，是&amp;quot;卖算力&amp;quot;固然赚钱，&amp;quot;买算力&amp;quot;（即AI模型厂商和垂直AI应用商）是否也能持续盈利。&lt;/p&gt;
-&lt;p&gt;分析师指出，当前推理业务的毛利率已有多份报告显示达到60%至80%。&lt;/p&gt;
-&lt;p&gt;报告进一步测算：&lt;strong&gt;假设一家模型厂商通过出售AI token，每GW算力每年可产生200亿至400亿美元收入&lt;/strong&gt;，远高于2025年的每GW约100亿美元。&lt;/p&gt;
-&lt;p&gt;报告还援引Sapphire Venture的数据称，已有逾80家垂直AI公司在极短时间内实现年经常性收入（ARR）突破1亿美元，印证了算力消费下游的价值创造。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-开源不是威胁，是需求催化剂
-&lt;p&gt;第二个市场担忧，是开源大模型的兴起将压低token价格，侵蚀模型厂商的盈利空间。&lt;/p&gt;
-&lt;p&gt;摩根大通对此持相反看法。分析师认为，开源模型历史上推动了token成本持续下降（每token成本长期下降幅度达80%至90%），这一趋势会加速AI在各行业的渗透，而非削弱整体算力需求。&lt;/p&gt;
-&lt;p&gt;分析师指出三个逻辑：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;在当前算力供给仍然紧张的环境下，专有前沿模型与开源模型的token消耗量都将保持强劲增长；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;开源的普及将推动AI向更广泛的应用层下沉；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;更多垂直AI应用公司将利用低成本的开源token，解决特定行业问题，形成新的收入层。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;分析师特别指出，2026年上半年token成本出现阶段性反弹，属于算力严重短缺叠加智能体AI兴起所导致的&amp;quot;异常值&amp;quot;，并非趋势逆转。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-AI安全监管：短期扰动，不改训练节奏
-&lt;p&gt;第三个担忧来自监管层面。据彭博报道，Anthropic首席执行官近期公开呼吁放缓AI模型改进的节奏，引发市场对算力需求前景的担忧。&lt;/p&gt;
-&lt;p&gt;分析师认为，这一担忧同样被放大了。&lt;/p&gt;
-&lt;p&gt;他判断：&amp;quot;&lt;strong&gt;AI模型正在以更快的速度演进，RSI（递归自我改进）的临近，恰恰说明技术演进和AI扩展定律并未放缓。&lt;/strong&gt;&amp;quot;&lt;/p&gt;
-&lt;p&gt;分析师进一步指出，即便新模型的推出可能受到对齐限制等因素的约束，前沿模型的训练节奏本身不太可能减慢。与此同时，开源模型也不会停下脚步，这反而会倒逼前沿模型实验室加快训练以保持领先。&lt;/p&gt;
-&lt;p&gt;摩根大通认为，AI安全议题的背后，是技术演进速度过快引发的监管跟进，而非需求萎缩的信号。报告预计，未来1至2年内，生成式AI有望开辟类似过去18个月编程和智能体工作流那样的全新市场空间。&lt;/p&gt;
-资本开支：杠杆仍低，现金流在加速
-&lt;p&gt;超大规模云厂商的资本开支融资能力，是市场的第四个疑虑。多家云厂商已进入自由现金流为负的阶段，外部融资压力上升。&lt;/p&gt;
-&lt;p&gt;摩根大通的判断是：&lt;strong&gt;未来几年资本开支仍有增长空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;理由有三：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;大型超大规模云厂商的净债务/股权比目前仅为13%，杠杆水平仍然偏低；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;公有云业务增速正在加快，且定价更高，将成为经营性现金流增长的重要来源；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;超大规模云厂商及算力下游买家的股权融资，可提供额外的资金支撑。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;分析师预测，亚马逊、微软、谷歌、Meta、甲骨文、Coreweave和SpaceX七家公司合计资本开支，将从2025年的4430亿美元增至2026年预估的9330亿美元，2027年进一步升至1.577万亿美元，同比增速分别为71%、110%和69%。&lt;/p&gt;
-&lt;p&gt;分析师同时提示，利率上行环境及部分AI基础设施融资领域风险偏好的变化，仍是需要持续关注的变量。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-半导体设备：下一个瓶颈正在形成
-&lt;p&gt;在供应链层面，摩根大通认为，展望2027年，&lt;strong&gt;半导体设备（SPE）将从此前的&amp;quot;洁净室及其他领域&amp;quot;瓶颈，转变为整条供应链最核心的制约因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;需求端驱动因素包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;台积电将大幅加码N2、N3及A14制程的设备投入；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;英特尔、三星晶圆代工及Terafab等挑战者也将增加资本开支；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;成熟制程晶圆厂启动四年来首个新投资周期；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;DRAM和NAND Flash厂商将在2027至2028年随洁净室产能上线而快速扩大设备采购；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;中国存储器投资也将在未来两年显著提速。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;供给端，摩根大通指出，半导体设备厂商已开始享受罕见的涨价红利——原因是产能紧张、投入成本上升，以及来自多家客户的加急订单。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-封装与基板：瓶颈持续，光互连崛起
-&lt;p&gt;在元器件层面，摩根大通认为IC基板和先进封装仍是关键瓶颈。&lt;/p&gt;
-&lt;p&gt;基板供给高度集中于Unimicron、Ibiden等一线厂商，产能扩建周期长达约2.5年。随着AI加速芯片推动单封装基板用量提升，以及2027年底EMIB-T封装技术的引入，供需缺口预计将进一步扩大。&lt;/p&gt;
-&lt;p&gt;光互连方面，摩根大通预计谷歌、AWS及英伟达将在未来两年全面采用NPO（近封装光学）方案，以解决GPU间、GPU与CPU间及存储互连的性能瓶颈。CPO（共封装光学）是长期方向，但供应链成熟仍需时间。&lt;/p&gt;
-存储：基本面健康，但情绪仍需修复
-&lt;p&gt;存储子板块是摩根大通态度相对审慎的领域。&lt;/p&gt;
-&lt;p&gt;报告指出，HBM降规格担忧、算法效率提升（如循环Transformer等）对内存用量的压缩，以及KV缓存向DDR或NAND等低层级存储的迁移，使该板块投资逻辑较为嘈杂。&lt;/p&gt;
-&lt;p&gt;但基本面并不悲观：供需平衡预计不会早于2028年出现，价格应持续上涨至2027年。摩根大通认为，若AI情绪在2026年四季度回暖，存储股有望跟随上涨。但在此之前，投资者的参与意愿可能仍低于其他科技子板块。&lt;/p&gt;
-2027年哪些环节涨价更强？
-&lt;p&gt;摩根大通梳理了2027年相较2026年价格涨幅有望扩大的细分领域：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;晶圆代工&lt;/strong&gt;：台积电预计在2027年对所有制程节点提价（2026年仅限先进制程）；8英寸成熟制程涨幅或达10%至15%，高于2026年的8%至10%；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;OSAT&lt;/strong&gt;：涨价范围扩大至引线键合及成熟倒装芯片封装；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;基板&lt;/strong&gt;：涨价周期启动，EMIB-T的引入将进一步收紧供需；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;高端CCL&lt;/strong&gt;（M7及以上）：AI需求与服务器规格升级双轮驱动，供给增速持续落后于需求；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;存储&lt;/strong&gt;：涨价节奏预计放缓；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PCB材料&lt;/strong&gt;：涨价动能同样趋弱。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;分析师指出，&lt;strong&gt;亚洲科技硬件供应链的EPS修正趋势依然健康，估值具有吸引力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当前市场情绪偏弱，但尚未看到资本开支下行周期即将到来的明确信号。推动下一轮行情的关键催化剂，仍将来自模型层和AI应用层持续变现能力的更多验证。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7400万元采购、108条AI流水线 银行Agent进入批量生产阶段</title><link>https://wallstreetcn.com/articles/3781852</link><guid>72f3eeff3b43ef395671aecb0275ff45d0f02ab70b6d08f39ecfc92f64102260</guid><pubDate>Wed, 16 Sep 2026 01:37:05 GMT</pubDate><description>&lt;p&gt;银行Agent的落地方式，正在从单点试验转向更系统的工程化建设。&lt;/p&gt; &lt;p&gt;9月初，浙商银行一笔Agent基础软硬件项目披露中标结果，接近6500万元的报价，成为年内公开可查金融机构Agent项目中，金额最大的一笔；&lt;/p&gt; &lt;p&gt;叠加此前落地的财富及供应链Agent项目，浙商银行在Agent上的公开采购金额已合计超过7400万元。&lt;/p&gt; &lt;p&gt;这并不是孤例，上海银行、浦发银行、恒丰银行近期均有大额采购落地，加码Agent工作站、创设平台和运行观测等环节。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;银行正在为Agent花更多的钱，&lt;/strong&gt;&lt;strong&gt;而这些钱正在&lt;/strong&gt;&lt;strong&gt;投向更底层的工程能力。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;几乎同期，服贸会、外滩大会上，银行高管开始更多讨论如何批量开发Agent、上线后怎么评估、怎样持续管理；&lt;/p&gt; &lt;p&gt;部分金融科技公司甚至将Agent平台定义为“超级工厂”，欲把开发、部署、评测和管理纳入同一套体系。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;资金流向和行业讨论指向了同一个变化：银行&lt;/strong&gt;&lt;strong&gt;的目标正在从落地&lt;/strong&gt;&lt;strong&gt;零散&lt;/strong&gt;&lt;strong&gt;的&lt;/strong&gt;&lt;strong&gt;Agent，转向一套能够反复生产、调用和管理Agent的基础能力。&lt;/strong&gt;&lt;/p&gt; &lt;strong&gt;资金流向底座&lt;/strong&gt; &lt;p&gt;真实业务中，Agent需要调用知识、工具、业务系统执行任务；&lt;/p&gt; &lt;p&gt;这套规则落地银行业时的特殊性在于，银行不仅要检查输出结果，也要控制任务的执行过程。&lt;/p&gt; &lt;p&gt;一家股份行数据架构师向枢纽表示，不是所有场景都适合直接交给Agent；&lt;/p&gt; &lt;p&gt;例如，意图识别、合同要素抽取等“非标准输入、标准输出”的任务容易落地，但信贷审批、理财规划等复杂流程，需要把模型嵌入既有工作流，由规则、权限和人工节点共同控制。&lt;/p&gt; &lt;p&gt;这也改变了银行科技项目固有的研发与交付方式。&lt;/p&gt; &lt;p&gt;传统科技项目通常由业务提出需求、科技负责开发；&lt;/p&gt; &lt;p&gt;Agent进入生产后，业务规则、SOP和经验判断需要被转化为模型能够识别和执行的逻辑，业务人员需要深地参与测试和调整。&lt;/p&gt; &lt;p&gt;上述数据架构师表示，在Agent的金融场景开发模式中，业务专家需要深度参与知识和规则的沉淀，科技人员则负责将这些经验转化为可执行的流程和工具，双方的协作早已经由需求交付，延伸到共同开发和持续调整。&lt;/p&gt; &lt;p&gt;而当Agent从试点走向批量，原本由各个项目分别完成的开发、评测和运行管理，也随之出现标准化需求。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;近期的采购已经出现对应变化。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;枢纽统计发现，今年上半年，金融行业大模型中标项目达到406个，同比增长110%，其中银行机构在项目数量和金额上的占比均接近半数；&lt;/p&gt; &lt;p&gt;自去年下半年开始，Agent类应用项目明显增加，银行AI建设逐渐由模型部署和算力扩容，走向更具体的应用层。&lt;/p&gt; &lt;p&gt;这其中，浙商银行接近6500万元的Agent基础软硬件项目，已经覆盖算力、知识工程、模型和Agent运行环节，建设范围延伸至支撑后续Agent开发和运行的基础环境；&lt;/p&gt; &lt;p&gt;同时，浦发银行采购Agent创设平台，重点落在Agent的批量创建和管理；&lt;/p&gt; &lt;p&gt;恒丰银行则单独建设Agent观测能力，把投入延伸到上线后的运行监测。&lt;/p&gt; &lt;p&gt;上述几类项目，分别落在Agent生产体系的不同环节，说明银行的投入对象正在由具体应用，继续向开发和运行基础设施延伸。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;相似的变化，也&lt;/strong&gt;&lt;strong&gt;反映在&lt;/strong&gt;&lt;strong&gt;了&lt;/strong&gt;&lt;strong&gt;科技部门职责和招聘需求上。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;一位金融科技公司人士向枢纽反映，随着Agent数量增加，银行科技部门需要提供统一的开发和运行环境，并处理资源调用、Agent协同和治理等问题。&lt;/p&gt; &lt;p&gt;枢纽注意到，近期宁波银行相关岗位出现Agent工作流构建和技术框架研发；&lt;/p&gt; &lt;p&gt;平安银行则招聘AI Agent评测工程师，职责涉及工具调用、多步推理以及安全和性能评测。&lt;/p&gt; &lt;p&gt;从岗位设置看，Agent进入批量建设后，银行对工程能力的需求已经延伸到工作流、工具调用、评测和运行管理等环节。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;财富、信贷、客服仍按照各自的知识、流程和风险边界开发，但其开发、验证和运行管理，正逐渐形成一套相对统一的方法&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;当Agent进入规模化建设，这套生产方法本身，也将成为银行AI投入的新底座。&lt;/p&gt; &lt;strong&gt;流程重新接线&lt;/strong&gt; &lt;p&gt;Agent进入银行核心业务后，真正复杂的，是原有流程里的工作怎样重新拆分。&lt;/p&gt; &lt;p&gt;信贷是一个典型场景。&lt;/p&gt; &lt;p&gt;今年以来，苏州银行相继推进文档识别、尽调、AI审批、放款审核和贷后管理等项目；&lt;/p&gt; &lt;p&gt;上海银行也在对公授信的营销、尽调和贷后环节布局Agent。&lt;/p&gt; &lt;p&gt;这些项目分布在一笔授信的不同阶段：&lt;/p&gt; &lt;p&gt;材料读取、数据提取、财务分析等任务相对标准，更容易交给机器，越往风险判断和审批环节走，对业务经验的依赖越高；&lt;/p&gt; &lt;p&gt;&lt;strong&gt;一组财务指标是否异常、哪些问题需要继续追问、同样的指标放在不同产业周期中意味着什么，往往没有固定答案，很多判断沉淀在资深信贷人员长期积累的经验里。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;目前，亦有金融科技公司在尝试把这类经验判断进一步拆解、沉淀，并重新嵌入信贷流程。&lt;/p&gt; &lt;p&gt;神州信息AI创新中心总经理晋梅介绍，其公司推出CreditMind方案会把历史尽调报告、审批意见以及贷款后续表现重新组织，从中提取资深信贷人员判断风险时使用的逻辑和经验，再用于新的审批任务。&lt;/p&gt; &lt;p&gt;在新的授信流程中，系统先处理客户材料和基础分析，再调用历史案例和专家经验补充风险提示，最终交由审批人员判断；&lt;/p&gt; &lt;p&gt;这类尝试的价值，在于把过去主要沉淀在个人经验中的部分判断，转化成可以被Agent调用的Skill，再重新放回审批流程。&lt;/p&gt; &lt;p&gt;不过，能够被沉淀的主要是相对明确的判断逻辑，真正依赖具体客户、行业环境和长期经验形成的判断，仍然需要人完成。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;在这套组织架构之下，&lt;/strong&gt;&lt;strong&gt;Agent进入信贷流程，&lt;/strong&gt;&lt;strong&gt;将&lt;/strong&gt;&lt;strong&gt;把原有工作拆成更细的任务：标准化信息处理给机器&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;可&lt;/strong&gt;&lt;strong&gt;提炼经验转成Skill&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;关键风险判断留给人。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;可以观察到的是，&lt;/strong&gt;&lt;strong&gt;这种拆分&lt;/strong&gt;&lt;strong&gt;已&lt;/strong&gt;&lt;strong&gt;向更大范围扩展。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;浦发银行披露，今年上半年已有超过440个AI应用，其中220个Agent实现工程化落地，同时上线108条AI流水线，数字劳动力承担的工作量超过2500人年。&lt;/p&gt; &lt;p&gt;“AI流水线”比单个Agent数量更能反映流程层面的变化：不同AI能力按照业务顺序被重新组织，机器连续承担其中一部分任务，再在需要判断、授权和承担责任的节点交回人工。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;浦发银行首席人工智能科学家郑波将金融AI进入生产概括为三个标准：进入核心业务流程，承担过去由人完成的关键任务，并改善客户体验、经营效率或风险管理。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;对银行而言，Agent深入业务的程度，越来越取决于流程能被拆得多细。&lt;/p&gt; &lt;p&gt;哪些工作可以稳定交给机器，哪些经验能够沉淀成Skill，哪些判断必须留给人，这些边界越清楚，Agent越有可能真正嵌入核心业务。&lt;/p&gt; &lt;strong&gt;进入运营之后&lt;/strong&gt; &lt;p&gt;Agent进入业务流程后，银行管理的对象，不只是一套系统能否正常运行，还包括它的业务效果能否持续满足要求、是否值得继续投入，以及出现异常后流程能不能被顺利接住。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;首先要解决的是持续校正。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Agent上线时通过测试，并不代表后续效果会保持不变；&lt;/p&gt; &lt;p&gt;业务规则、知识内容、客户表达都在变化，实际使用中还会不断出现新的反面案例，银行需要继续判断，问题究竟来自知识缺失、流程设计，还是模型能力，再针对性调整。&lt;/p&gt; &lt;p&gt;来自金融科技公司的王军（化名）向枢纽表示，传统软件上线后更多围绕“运维”展开，Agent则需要持续“运营”；&lt;/p&gt; &lt;p&gt;这种运营关注的不只是系统是否在线，还包括输出是否符合业务要求、问题出现在哪里，以及后续该怎么修正。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;这也让Agent上线后的评价变得更重要。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;郑波谈及金融AI未来几年的竞争时，将生产能力、价值运营能力和组织进化列为关键；&lt;/p&gt; &lt;p&gt;浙商银行董事长陈海强则表示，科技投入要成为降本增效的收益项，通过使用频率、承担的工作量、处理效率，以及客户转化和风险管理效果等数据，判断科技实际产出。&lt;/p&gt; &lt;p&gt;这些结果会进一步影响资源配置：能够稳定承担工作、形成业务价值的Agent可以继续迭代，长期低频、效果有限的应用，则需要调整甚至退出。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;对银行而言，另一项运营要求是业务连续性。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;以授信为例，若Agent已经参与材料读取、尽调分析和审批流转，发生异常时，银行需要明确任务停在哪一步、哪些结果已经进入后续流程、是否触发过审批动作，以及接下来由谁继续处理；&lt;/p&gt; &lt;p&gt;涉及交易和系统操作时，还要确认指令是否已经执行，避免人工接管后重复操作，或者因状态不清引发新的操作风险。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;王军表示，目前业内已经开始讨论给Agent设置kill switch，但更难的是Agent停下来以后，业务怎么继续。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;枢纽注意到，如今&lt;/strong&gt;&lt;strong&gt;这类需求&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;也&lt;/strong&gt;&lt;strong&gt;已经进入银行的建设范围。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;恒丰银行单独建设Agent观测能力，反映出银行对Agent的关注已经延伸到上线后的运行状态和异常监测。&lt;/p&gt; &lt;p&gt;只有清楚Agent正在处理什么、执行到了哪里，异常发生后才有条件及时接管；&lt;/p&gt; &lt;p&gt;持续校正决定一个Agent能不能越用越准，价值评价决定它值不值得继续留下，异常接管则决定银行敢不敢把更多工作交给它。&lt;/p&gt; &lt;p&gt;当Agent真正成为业务流程中的长期节点，运营能力也就成为规模化落地之后新的分水岭。&lt;/p&gt; &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本被曝拟将防务开支翻倍至GDP 3.5%，防务省否认，日债收益率仍创三十年新高</title><link>https://wallstreetcn.com/articles/3781830</link><guid>ec64b0f90306939d499cd084749437d17d458a927c81078bf644e7bd100e54e3</guid><pubDate>Tue, 15 Sep 2026 22:17:06 GMT</pubDate><description>&lt;p&gt;当地时间25日周二传出日本考虑大幅提升防务开支中期目标的消息，本已承压的日本国债市场再度剧烈震荡。市场对日本财政可持续性的担忧骤然升温，基准日债收益率体现的长期利率指标又创三十年新高。在首相高市早苗同步推进减税与扩军的政策组合下，日本债务管理面临的挑战正引发投资者的高度警惕。&lt;/p&gt;
+&lt;p&gt;高盛同时强调，当前动量因子的波动率相对于大盘指数波动率已显著偏高，这一背离本身即构成对冲的合理依据。在标普500指数当日跌幅不足30个基点的背景下，动量因子内部的剧烈震荡凸显了该因子当前的脆弱性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本被曝拟将防务开支翻倍至GDP 3.5%，防务省否认，日债收益率仍创三十年新高</title><link>https://wallstreetcn.com/articles/3781830</link><guid>ec64b0f90306939d499cd084749437d17d458a927c81078bf644e7bd100e54e3</guid><pubDate>Tue, 15 Sep 2026 22:17:06 GMT</pubDate><description>&lt;p&gt;当地时间25日周二传出日本考虑大幅提升防务开支中期目标的消息，本已承压的日本国债市场再度剧烈震荡。市场对日本财政可持续性的担忧骤然升温，基准日债收益率体现的长期利率指标又创三十年新高。在首相高市早苗同步推进减税与扩军的政策组合下，日本债务管理面临的挑战正引发投资者的高度警惕。&lt;/p&gt;
 &lt;p&gt;据彭博报道，知情人士透露，日本防务官员已在与美国的会谈中释放出大幅增加防务开支的意愿。其中一个方案是对标韩国承诺，在十年内将防务开支提升至GDP的3.5%；另一个较低目标为3%。&lt;/p&gt;
 &lt;p&gt;消息公布后，日本防卫省新闻秘书Kimihito Aguin随即在新闻发布会上予以否认，称日本并未向美方表达将开支大幅提升至3.5%的意向，并强调防务建设“基于日本自身独立判断”，“不应从预设的支出数字出发”。&lt;/p&gt;
 &lt;p&gt;尽管日本官员否认，市场对上述消息的反应仍迅速而剧烈。日本基准10年期国债收益率周二创1996年以来新高，当天收于3.04%，较一年前水平翻倍；日元兑美元一度贬至155.24，创逾一周新低。与此同时，防务板块逆势走强，IHI Corp和川崎重工分别收涨1.8%和0.9%，此前两只个股均一度下跌逾2%。&lt;/p&gt;
