@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 16 Sep 2026 04:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 今晚，“鸽派加息”？</title><link>https://wallstreetcn.com/articles/3781862</link><guid>dacc18f63a1a184a83341d32ab5658e8ab7b2fe9c6e9bb28bdd9f7bbed3734d5</guid><pubDate>Wed, 16 Sep 2026 03:53:19 GMT</pubDate><description>&lt;p&gt;华尔街正屏息等待周三美联储的利率决议。花旗与高盛罕见地在核心判断上高度趋同：此次加息几成定局，但这将是一次“鸽派加息”——加息本身不是重点，重点是加息之后美联储说了什么，或者，没说什么。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 16 Sep 2026 04:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 今晚，“鸽派加息”？</title><link>https://wallstreetcn.com/articles/3781862</link><guid>dacc18f63a1a184a83341d32ab5658e8ab7b2fe9c6e9bb28bdd9f7bbed3734d5</guid><pubDate>Wed, 16 Sep 2026 03:53:19 GMT</pubDate><description>&lt;p&gt;华尔街正屏息等待周三美联储的利率决议。花旗与高盛罕见地在核心判断上高度趋同：此次加息几成定局，但这将是一次“鸽派加息”——加息本身不是重点，重点是加息之后美联储说了什么，或者，没说什么。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，花旗在9月15日的最新研报指出，基准预测显示，&lt;strong&gt;美联储将把此次加息定义为一次“微调（calibration）”，并暗示未来没有进一步加息的必然性&lt;/strong&gt;。高盛则在9月13日的研报中指出，&lt;strong&gt;今晚将是一次“无信号加息”&lt;/strong&gt;，并明确表示，不认为此次加息有充分经济基础，通胀超出2%目标的部分可全部归因于一次性因素，经济并未过热。&lt;/p&gt;
 &lt;p&gt;花旗与高盛均预计，&lt;strong&gt;中位数点阵图将显示2026年仅剩一次额外加息，降息将于2027年恢复。核心PCE预测因方法论修订料将较6月数据向下修正，为停止加息提供数据背书。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;尽管基准情形偏鸽，但沃什的新闻发布会将是市场最大的悬念。&lt;/strong&gt;花旗认为，若美联储主席沃什拒绝提供明确前瞻指引、仅强调&amp;quot;还有工作要做&amp;quot;，市场可能重新定价10月和12月连续加息，引发资产价格剧烈波动。高盛认为，沃什需要在发布会上强调委员会将“仔细评估”即将到来的数据，以暗示等待更多信息，从而&lt;strong&gt;引导市场放弃对10月加息的过度自信。&lt;/strong&gt;&lt;/p&gt;
@@ -322,7 +322,7 @@ AI 越来越会写算子了
 
 &lt;p&gt;&lt;strong&gt;在航空领域，规划提出打造具国际竞争力的航空产业生态圈，其中一项具有战略信号意义的部署是积极参与国产飞机的研制及认证工作。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;规划明确，香港将发挥&amp;quot;桥梁&amp;quot;角色，助力国产飞机借道香港打入国际市场&lt;/strong&gt;。与此同时，当局计划构建飞机部件处理及交易产业生态系统，打造&amp;quot;前店后厂&amp;quot;产业集群，并将香港定位为亚洲首个飞机部件处理及交易中心。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在可持续航空燃料（SAF）领域&lt;/strong&gt;，规划提出发挥香港SAF生产基地落户东莞的产业建设作用，推动粤港澳大湾区SAF产业链建设，并计划在香港兴建燃料混合设施，以支持国家在这一新兴领域的发展布局。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 7400万元采购、108条AI流水线 银行Agent进入批量生产阶段</title><link>https://wallstreetcn.com/articles/3781852</link><guid>72f3eeff3b43ef395671aecb0275ff45d0f02ab70b6d08f39ecfc92f64102260</guid><pubDate>Wed, 16 Sep 2026 01:37:05 GMT</pubDate><description>&lt;p&gt;银行Agent的落地方式，正在从单点试验转向更系统的工程化建设。&lt;/p&gt; &lt;p&gt;9月初，浙商银行一笔Agent基础软硬件项目披露中标结果，接近6500万元的报价，成为年内公开可查金融机构Agent项目中，金额最大的一笔；&lt;/p&gt; &lt;p&gt;叠加此前落地的财富及供应链Agent项目，浙商银行在Agent上的公开采购金额已合计超过7400万元。&lt;/p&gt; &lt;p&gt;这并不是孤例，上海银行、浦发银行、恒丰银行近期均有大额采购落地，加码Agent工作站、创设平台和运行观测等环节。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;银行正在为Agent花更多的钱，&lt;/strong&gt;&lt;strong&gt;而这些钱正在&lt;/strong&gt;&lt;strong&gt;投向更底层的工程能力。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;几乎同期，服贸会、外滩大会上，银行高管开始更多讨论如何批量开发Agent、上线后怎么评估、怎样持续管理；&lt;/p&gt; &lt;p&gt;部分金融科技公司甚至将Agent平台定义为“超级工厂”，欲把开发、部署、评测和管理纳入同一套体系。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;资金流向和行业讨论指向了同一个变化：银行&lt;/strong&gt;&lt;strong&gt;的目标正在从落地&lt;/strong&gt;&lt;strong&gt;零散&lt;/strong&gt;&lt;strong&gt;的&lt;/strong&gt;&lt;strong&gt;Agent，转向一套能够反复生产、调用和管理Agent的基础能力。&lt;/strong&gt;&lt;/p&gt; &lt;strong&gt;资金流向底座&lt;/strong&gt; &lt;p&gt;真实业务中，Agent需要调用知识、工具、业务系统执行任务；&lt;/p&gt; &lt;p&gt;这套规则落地银行业时的特殊性在于，银行不仅要检查输出结果，也要控制任务的执行过程。&lt;/p&gt; &lt;p&gt;一家股份行数据架构师向枢纽表示，不是所有场景都适合直接交给Agent；&lt;/p&gt; &lt;p&gt;例如，意图识别、合同要素抽取等“非标准输入、标准输出”的任务容易落地，但信贷审批、理财规划等复杂流程，需要把模型嵌入既有工作流，由规则、权限和人工节点共同控制。&lt;/p&gt; &lt;p&gt;这也改变了银行科技项目固有的研发与交付方式。&lt;/p&gt; &lt;p&gt;传统科技项目通常由业务提出需求、科技负责开发；&lt;/p&gt; &lt;p&gt;Agent进入生产后，业务规则、SOP和经验判断需要被转化为模型能够识别和执行的逻辑，业务人员需要深地参与测试和调整。&lt;/p&gt; &lt;p&gt;上述数据架构师表示，在Agent的金融场景开发模式中，业务专家需要深度参与知识和规则的沉淀，科技人员则负责将这些经验转化为可执行的流程和工具，双方的协作早已经由需求交付，延伸到共同开发和持续调整。&lt;/p&gt; &lt;p&gt;而当Agent从试点走向批量，原本由各个项目分别完成的开发、评测和运行管理，也随之出现标准化需求。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;近期的采购已经出现对应变化。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;枢纽统计发现，今年上半年，金融行业大模型中标项目达到406个，同比增长110%，其中银行机构在项目数量和金额上的占比均接近半数；&lt;/p&gt; &lt;p&gt;自去年下半年开始，Agent类应用项目明显增加，银行AI建设逐渐由模型部署和算力扩容，走向更具体的应用层。&lt;/p&gt; &lt;p&gt;这其中，浙商银行接近6500万元的Agent基础软硬件项目，已经覆盖算力、知识工程、模型和Agent运行环节，建设范围延伸至支撑后续Agent开发和运行的基础环境；&lt;/p&gt; &lt;p&gt;同时，浦发银行采购Agent创设平台，重点落在Agent的批量创建和管理；&lt;/p&gt; &lt;p&gt;恒丰银行则单独建设Agent观测能力，把投入延伸到上线后的运行监测。&lt;/p&gt; &lt;p&gt;上述几类项目，分别落在Agent生产体系的不同环节，说明银行的投入对象正在由具体应用，继续向开发和运行基础设施延伸。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;相似的变化，也&lt;/strong&gt;&lt;strong&gt;反映在&lt;/strong&gt;&lt;strong&gt;了&lt;/strong&gt;&lt;strong&gt;科技部门职责和招聘需求上。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;一位金融科技公司人士向枢纽反映，随着Agent数量增加，银行科技部门需要提供统一的开发和运行环境，并处理资源调用、Agent协同和治理等问题。&lt;/p&gt; &lt;p&gt;枢纽注意到，近期宁波银行相关岗位出现Agent工作流构建和技术框架研发；&lt;/p&gt; &lt;p&gt;平安银行则招聘AI Agent评测工程师，职责涉及工具调用、多步推理以及安全和性能评测。&lt;/p&gt; &lt;p&gt;从岗位设置看，Agent进入批量建设后，银行对工程能力的需求已经延伸到工作流、工具调用、评测和运行管理等环节。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;财富、信贷、客服仍按照各自的知识、流程和风险边界开发，但其开发、验证和运行管理，正逐渐形成一套相对统一的方法&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;当Agent进入规模化建设，这套生产方法本身，也将成为银行AI投入的新底座。&lt;/p&gt; &lt;strong&gt;流程重新接线&lt;/strong&gt; &lt;p&gt;Agent进入银行核心业务后，真正复杂的，是原有流程里的工作怎样重新拆分。&lt;/p&gt; &lt;p&gt;信贷是一个典型场景。&lt;/p&gt; &lt;p&gt;今年以来，苏州银行相继推进文档识别、尽调、AI审批、放款审核和贷后管理等项目；&lt;/p&gt; &lt;p&gt;上海银行也在对公授信的营销、尽调和贷后环节布局Agent。&lt;/p&gt; &lt;p&gt;这些项目分布在一笔授信的不同阶段：&lt;/p&gt; &lt;p&gt;材料读取、数据提取、财务分析等任务相对标准，更容易交给机器，越往风险判断和审批环节走，对业务经验的依赖越高；&lt;/p&gt; &lt;p&gt;&lt;strong&gt;一组财务指标是否异常、哪些问题需要继续追问、同样的指标放在不同产业周期中意味着什么，往往没有固定答案，很多判断沉淀在资深信贷人员长期积累的经验里。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;目前，亦有金融科技公司在尝试把这类经验判断进一步拆解、沉淀，并重新嵌入信贷流程。&lt;/p&gt; &lt;p&gt;神州信息AI创新中心总经理晋梅介绍，其公司推出CreditMind方案会把历史尽调报告、审批意见以及贷款后续表现重新组织，从中提取资深信贷人员判断风险时使用的逻辑和经验，再用于新的审批任务。&lt;/p&gt; &lt;p&gt;在新的授信流程中，系统先处理客户材料和基础分析，再调用历史案例和专家经验补充风险提示，最终交由审批人员判断；&lt;/p&gt; &lt;p&gt;这类尝试的价值，在于把过去主要沉淀在个人经验中的部分判断，转化成可以被Agent调用的Skill，再重新放回审批流程。&lt;/p&gt; &lt;p&gt;不过，能够被沉淀的主要是相对明确的判断逻辑，真正依赖具体客户、行业环境和长期经验形成的判断，仍然需要人完成。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;在这套组织架构之下，&lt;/strong&gt;&lt;strong&gt;Agent进入信贷流程，&lt;/strong&gt;&lt;strong&gt;将&lt;/strong&gt;&lt;strong&gt;把原有工作拆成更细的任务：标准化信息处理给机器&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;可&lt;/strong&gt;&lt;strong&gt;提炼经验转成Skill&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;关键风险判断留给人。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;可以观察到的是，&lt;/strong&gt;&lt;strong&gt;这种拆分&lt;/strong&gt;&lt;strong&gt;已&lt;/strong&gt;&lt;strong&gt;向更大范围扩展。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;浦发银行披露，今年上半年已有超过440个AI应用，其中220个Agent实现工程化落地，同时上线108条AI流水线，数字劳动力承担的工作量超过2500人年。&lt;/p&gt; &lt;p&gt;“AI流水线”比单个Agent数量更能反映流程层面的变化：不同AI能力按照业务顺序被重新组织，机器连续承担其中一部分任务，再在需要判断、授权和承担责任的节点交回人工。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;浦发银行首席人工智能科学家郑波将金融AI进入生产概括为三个标准：进入核心业务流程，承担过去由人完成的关键任务，并改善客户体验、经营效率或风险管理。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;对银行而言，Agent深入业务的程度，越来越取决于流程能被拆得多细。&lt;/p&gt; &lt;p&gt;哪些工作可以稳定交给机器，哪些经验能够沉淀成Skill，哪些判断必须留给人，这些边界越清楚，Agent越有可能真正嵌入核心业务。&lt;/p&gt; &lt;strong&gt;进入运营之后&lt;/strong&gt; &lt;p&gt;Agent进入业务流程后，银行管理的对象，不只是一套系统能否正常运行，还包括它的业务效果能否持续满足要求、是否值得继续投入，以及出现异常后流程能不能被顺利接住。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;首先要解决的是持续校正。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Agent上线时通过测试，并不代表后续效果会保持不变；&lt;/p&gt; &lt;p&gt;业务规则、知识内容、客户表达都在变化，实际使用中还会不断出现新的反面案例，银行需要继续判断，问题究竟来自知识缺失、流程设计，还是模型能力，再针对性调整。&lt;/p&gt; &lt;p&gt;来自金融科技公司的王军（化名）向枢纽表示，传统软件上线后更多围绕“运维”展开，Agent则需要持续“运营”；&lt;/p&gt; &lt;p&gt;这种运营关注的不只是系统是否在线，还包括输出是否符合业务要求、问题出现在哪里，以及后续该怎么修正。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;这也让Agent上线后的评价变得更重要。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;郑波谈及金融AI未来几年的竞争时，将生产能力、价值运营能力和组织进化列为关键；&lt;/p&gt; &lt;p&gt;浙商银行董事长陈海强则表示，科技投入要成为降本增效的收益项，通过使用频率、承担的工作量、处理效率，以及客户转化和风险管理效果等数据，判断科技实际产出。&lt;/p&gt; &lt;p&gt;这些结果会进一步影响资源配置：能够稳定承担工作、形成业务价值的Agent可以继续迭代，长期低频、效果有限的应用，则需要调整甚至退出。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;对银行而言，另一项运营要求是业务连续性。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;以授信为例，若Agent已经参与材料读取、尽调分析和审批流转，发生异常时，银行需要明确任务停在哪一步、哪些结果已经进入后续流程、是否触发过审批动作，以及接下来由谁继续处理；&lt;/p&gt; &lt;p&gt;涉及交易和系统操作时，还要确认指令是否已经执行，避免人工接管后重复操作，或者因状态不清引发新的操作风险。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;王军表示，目前业内已经开始讨论给Agent设置kill switch，但更难的是Agent停下来以后，业务怎么继续。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;枢纽注意到，如今&lt;/strong&gt;&lt;strong&gt;这类需求&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;也&lt;/strong&gt;&lt;strong&gt;已经进入银行的建设范围。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;恒丰银行单独建设Agent观测能力，反映出银行对Agent的关注已经延伸到上线后的运行状态和异常监测。&lt;/p&gt; &lt;p&gt;只有清楚Agent正在处理什么、执行到了哪里，异常发生后才有条件及时接管；&lt;/p&gt; &lt;p&gt;持续校正决定一个Agent能不能越用越准，价值评价决定它值不值得继续留下，异常接管则决定银行敢不敢把更多工作交给它。&lt;/p&gt; &lt;p&gt;当Agent真正成为业务流程中的长期节点，运营能力也就成为规模化落地之后新的分水岭。&lt;/p&gt; &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光高管：存储决定AI上限，实质性新增产能要到2028年后</title><link>https://wallstreetcn.com/articles/3781849</link><guid>2660d5ad28476f19f1ad31a3ddd6b6e7087abbdef0866666cf1ad531d8cf9140</guid><pubDate>Wed, 16 Sep 2026 03:22:52 GMT</pubDate><description>&lt;p&gt;随着AI浪潮从数据中心向边缘侧和机器人领域蔓延，美光高管警告称，存储已成为决定AI性能上限的最核心瓶颈，而由于新建产能周期漫长且工艺极度复杂，行业供需失衡的局面至少要到2028年后才能迎来实质性的新增产能释放。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在可持续航空燃料（SAF）领域&lt;/strong&gt;，规划提出发挥香港SAF生产基地落户东莞的产业建设作用，推动粤港澳大湾区SAF产业链建设，并计划在香港兴建燃料混合设施，以支持国家在这一新兴领域的发展布局。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光高管：存储决定AI上限，实质性新增产能要到2028年后</title><link>https://wallstreetcn.com/articles/3781849</link><guid>2660d5ad28476f19f1ad31a3ddd6b6e7087abbdef0866666cf1ad531d8cf9140</guid><pubDate>Wed, 16 Sep 2026 03:22:52 GMT</pubDate><description>&lt;p&gt;随着AI浪潮从数据中心向边缘侧和机器人领域蔓延，美光高管警告称，存储已成为决定AI性能上限的最核心瓶颈，而由于新建产能周期漫长且工艺极度复杂，行业供需失衡的局面至少要到2028年后才能迎来实质性的新增产能释放。&lt;/p&gt;
 &lt;p&gt;9月15日，在Six Five Summit 2026的半导体聚焦论坛上，美光公司CEO高级顾问Sumit Sadana接受了分析师Patrick Moorhead的采访，详细拆解了AI时代下存储行业的供需格局、资本支出计划以及未来的核心增量市场。&lt;/p&gt;
 &lt;p&gt;在过去的一年里，整个科技行业对存储的认知发生了根本性重塑。这种重塑的根源在于，算力早已不再是衡量AI系统能力的唯一标尺。Sadana在访谈中一针见血地指出了当前AI硬件的底层逻辑：“如今，人工智能系统的性能首先取决于内存子系统的性能和内存容量。这两点真正决定了人工智能子系统的性能水平。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;他解释称，由于AI模型需要存储在内存中，且海量数据需要在内存间来回传输，处理器与内存之间的带宽已成为性能的关键瓶颈。&lt;/strong&gt;同时，存储市场正面临着长达数十年积累下来的结构性失衡——上世纪90年代初有多达20多家DRAM公司，如今只剩下寥寥几家；而目前设计处理器的公司却已超过20家。这种“少对多”的漏斗型供给格局，使得面对爆发式的AI需求时，存储供应链显得极为脆弱。&lt;/p&gt;
@@ -540,4 +540,74 @@ AI走向边缘，人形机器人将成最大增量市场
 &lt;p&gt;长期美债收益率上升，会通过抵押贷款、企业债券以及其他信贷市场传导至实体经济。&lt;/p&gt;
 &lt;p&gt;美国30年期固定抵押贷款利率已经受到10年期美债收益率突破5%的影响，住房市场复苏因此面临更高融资成本的约束。&lt;/p&gt;
 &lt;p&gt;对于股票市场而言，长期国债收益率走高也意味着估值所使用的折现率上升，理论上尤其不利于依赖远期盈利预期的成长股。&lt;/p&gt;
-&lt;p&gt;不过目前美股仍受到企业盈利增长以及AI投资热潮支撑，尚未出现与债市波动相匹配的明显风险厌恶。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;不过目前美股仍受到企业盈利增长以及AI投资热潮支撑，尚未出现与债市波动相匹配的明显风险厌恶。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策</title><link>https://wallstreetcn.com/articles/3781779</link><guid>cc8d5b0aac4cee195fde2920fc405b155e31a983f17740e81939a304757ac049</guid><pubDate>Tue, 15 Sep 2026 22:14:47 GMT</pubDate><description>&lt;p&gt;美股周二延续跌势，油价大涨与十年期美债收益率突破5%双重压制之下，市场全面转入避险模式。能源板块独善其身，其余十大板块悉数收跌，投资者在美联储利率决议前普遍选择观望。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;当日最核心的市场驱动力来自原油市场。由于中东地缘局势持续恶化、外交谈判实质进展阙如，WTI原油收涨4.4%，突破106美元，触及4月高点；布伦特原油涨2.9%，收于109美元附近。&lt;/p&gt;
+&lt;p&gt;油价飙升推动柴油期货创下历史新高，通胀压力进一步向债市传导，十年期美债收益率盘中触及5.04%，创近20年最高水平。&lt;/p&gt;
+&lt;p&gt;据CME FedWatch工具显示，市场当前定价本周美联储加息25个基点的概率已升至95%，12月加息概率也涨至7成。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Principal资管策略师Seema Shah表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;市场争论已从&amp;#x27;是否&amp;#x27;转向&amp;#x27;需要多大幅度&amp;#x27;的紧缩才能恢复价格稳定。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+多重供应冲击叠加，WTI原油触及4月高点
+
+&lt;p&gt;推动油价上行的因素在周二进一步累积。中东方面，伊朗明确表示在己方诉求获满足前拒绝谈判，此前市场对外交降温的期待落空。&lt;/p&gt;
+&lt;p&gt;作为美伊战事期间绕开霍尔木兹海峡的关键通道，沙特输油管道仍处于关闭状态，市场对其恢复时间表的判断出现分歧。与此同时，据知情人士透露，沙特阿美正推迟向部分欧洲客户本月的原油供应；利比亚因哈马达-扎维亚管道关闭，被迫关停多个油田，并可能宣布不可抗力。&lt;/p&gt;
+&lt;p&gt;CIBC Private Wealth Group资深能源交易员Rebecca Babin指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原油市场夹在持续指向供应损失的实物现实与暗示潜在降级的言辞之间。最终，市场会将更多权重赋予实际桶数和基础设施。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;周二WTI原油收涨4.4%，突破106美元，触及4月高点；布伦特原油涨2.9%，收于109美元附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;精炼油品市场的压力尤为突出。尽管外界传出能源停火呼声，乌克兰与俄罗斯仍在持续打击对方关键基础设施。基辅方面称当夜袭击了俄罗斯伏尔加河地区的Syzran炼油厂。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国柴油价格随之创下历史新高，零售价格升至每加仑6.26美元，九个月内累计上涨超80%&lt;/strong&gt;。由此引发的连锁效应，运输成本上升、食品通胀加剧，对CPI构成直接上行压力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;野村策略师Charlie McElligott警告称，油市已成&amp;quot;烫手山芋&amp;quot;，有引发利率波动剧烈冲击的风险。他特别指出&amp;quot;柴油与能源短缺冲击&amp;quot;正在实质化，红海航运受阻进一步切断亚洲供应流，市场已开始定价美国政府动用&amp;quot;核选项&amp;quot;，即禁止原油出口的可能性，WTI对布伦特的价差由此被推至大幅溢价。&lt;/p&gt;
+
+20年期美债标售需求创历史新低，10年期收益率逼近20年高点
+
+&lt;p&gt;美国债市周二承压。当日举行的130亿美元20年期美债标售结果惨淡，境外需求降至历史最低水平，拍卖收益率创下历史最高，令债市雪上加霜。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;十年期美债收益率盘中触及5.04%，为2007年以来最高水平，债券波动率随之攀升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;富国银行的Darrell Cronk以&amp;quot;&lt;strong&gt;马拉松套踝沙袋&lt;/strong&gt;&amp;quot;形容当前股票面临的处境：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;更高的利率提升了投资者折现未来盈利所用的折现率，而更高的能源成本则抽走消费者购买力，并压缩利润率。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;他总结认为，结果是市场必须&amp;quot;更加努力&amp;quot;才能实现盈利增长，而与此同时，投资者却越来越不愿意支付溢价估值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Murphy &amp;amp; Sylvest高级财富顾问Paul Nolte表示，当前局面&amp;quot;不太可能是一次性加息，而更可能是一系列加息&amp;quot;，并指出油价才是通胀的根源，且正开始向市场其他领域渗透。&lt;/p&gt;
+
+美股能源独涨，科技承压，全线转入防御
+
+&lt;p&gt;美国主要股指在美股开盘前一度上涨，但随后立即遭到抛售，原因是市场对美联储明日的声明、点阵图和新闻发布会感到担忧。&lt;/p&gt;
+&lt;p&gt;Chase总裁Peter Tuz将当前市场犹豫情绪归结为三重压力叠加：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;燃料价格上涨（尤其是柴油），明日加息几成定局，以及AI生态系统潜在放缓的担忧——在这些不确定性消散之前，投资者为何要积极入市？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;三大股指周二悉数收跌。道琼斯工业平均指数跌328.09点，跌幅0.63%，收报52,093.11点；标普500指数跌34.25点，跌幅0.45%，收报7,585.73点；纳斯达克综合指数跌204.84点，跌幅0.78%，收报25,981.57点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;标普500十一大板块中，能源板块受益于油价上涨，收涨2.3%，为当日唯一录得涨幅的板块；消费者可选板块跌幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;AI概念股盘初一度试图企稳反弹，但随后跌势再度扩大，收盘普遍回落至与大盘同步下跌的水平。费城半导体指数仅收涨0.4%，未能从周一的大跌中实质性修复。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;软件板块今日再次跑赢半导体板块。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;大型股抹去了昨日的涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从期权结构看，标普500的Gamma敞口持续恶化，在7,625点以下已进入负Gamma区间，意味着指数若进一步下行，做市商将被动卖出期货，加剧跌势，7,600点以下被视为高风险区域。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;个股层面，Dave &amp;amp; Buster&amp;#x27;s因第二季度营收不及预期，大跌19%；Waystar在路透报道其正寻求包括出售在内的战略选项后，涨7.1%。&lt;/p&gt;
+&lt;p&gt;加密股承压，Coinbase跌10.1%，Strategy跌5.4%。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781823"&gt;华尔街见闻提及&lt;/a&gt;，美国参议院未能推进加密货币综合立法，CLARITY法案在程序性投票中以一票之差未获通过，预测市场对该法案最终过关的概率随即大幅下挫。&lt;/p&gt;
+
+比特币重挫，美元充当避险港湾
+
+&lt;p&gt;外汇市场上，美元在避险需求推动下升至前一日高位，成为当日少数受益资产之一。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;比特币周二大幅回撤，将前一交易日全部涨幅悉数吐出，跌回近一个月低点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;黄金则基本持平，在4,300美元附近徘徊，美元走强未能对金价形成显著提振。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
