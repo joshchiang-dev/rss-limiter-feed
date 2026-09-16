@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 16 Sep 2026 14:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇</title><link>https://wallstreetcn.com/articles/3781871</link><guid>be4e0499fc456be018c54ab74cf10b0863f6bffa289f867dde317b6490148b4c</guid><pubDate>Wed, 16 Sep 2026 13:35:42 GMT</pubDate><description>&lt;p&gt;美联储议息会议进入倒计时，美国股债市场小幅回暖，与此同时，近期持续走强的油价涨势暂时停滞。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 16 Sep 2026 15:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 美联储决议倒计时，美股走高，存储芯片股、光通信股普涨，10年期美债收益率小幅下行，油价涨势暂歇</title><link>https://wallstreetcn.com/articles/3781871</link><guid>be4e0499fc456be018c54ab74cf10b0863f6bffa289f867dde317b6490148b4c</guid><pubDate>Wed, 16 Sep 2026 13:35:42 GMT</pubDate><description>&lt;p&gt;美联储议息会议进入倒计时，美国股债市场小幅回暖，与此同时，近期持续走强的油价涨势暂时停滞。&lt;/p&gt;
 &lt;p&gt;周三，美股盘初，纳指涨0.5%，道指涨0.1%，标普500指数涨0.3%。费城半导体指数涨1.4%，英特尔涨约6%，SK海力士涨约3%。SK海力士称，赴美与英特尔合作“尚无定论”。存储芯片股普涨，闪迪涨约2%，西部数据涨约3%，希捷科技涨约1%。光通信股普涨，迈威尔科技涨约2%，康宁涨约2%。&lt;/p&gt;
 &lt;p&gt;债市方面，美国10年期国债收益率下行至4.96%。利率掉期市场显示，交易员押注美联储本次加息的概率已超过90%。&lt;/p&gt;
 &lt;p&gt;本次利率决议备受市场关注。上周公布的核心通胀数据高于预期，加之市场对政府财政状况的担忧，进一步强化了美联储主席沃什收紧货币政策的预期。若加息落地，高企的能源价格与更高的利率水平将共同增加市场压力：前者可能进一步推升通胀，后者则可能推高债券收益率和融资成本，从而对股市形成压制。&lt;/p&gt;
@@ -461,7 +461,33 @@ NAND：eSSD强劲需求叠加供给克制，供需缺口显著扩大
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月零售销售超预期反弹至1.2%，消费韧性支撑经济增长预期</title><link>https://wallstreetcn.com/articles/3781904</link><guid>ddf25ef421a61983af7552ecc91a8d40307ddc36cb995c2cafab685e283e32bf</guid><pubDate>Wed, 16 Sep 2026 13:00:37 GMT</pubDate><description>&lt;p&gt;美国8月零售销售数据强劲反弹，超出市场普遍预期，显示消费者在能源价格高企和通胀持续的背景下，消费支出依然具备韧性。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息概率升至92%，最大风险却是沃什偏鸽：分析师警告长端美债抛售</title><link>https://wallstreetcn.com/articles/3781914</link><guid>6e5ae2efc9b5f9d2abd92f1dbdbfc996cefa3bc59a369b355fdda0184c184e77</guid><pubDate>Wed, 16 Sep 2026 15:19:27 GMT</pubDate><description>&lt;p&gt;美联储预计将于周三宣布2023年以来首次加息，将基准利率上调25个基点至3.75%-4.00%区间。市场定价显示此次加息概率已超过92%，但分析师警告，真正决定市场走向的，或许不是加息本身，而是美联储主席沃什在新闻发布会上的表态。&lt;/p&gt;
+&lt;p&gt;当前通胀连续五年高于2%目标，10年期美债收益率周二已攀升至5%上方，创19年新高。在此背景下，外界对沃什是否愿意顶住特朗普降息压力展现反通胀意志的质疑，使得本次会议的措辞风险远超利率决定本身。&lt;/p&gt;
+&lt;p&gt;Brookings Institution高级研究员Robin Brooks在Substack撰文指出，&lt;strong&gt;当前市场已定价美联储在明年6月前累计加息四次，&amp;quot;若沃什的表态相对市场预期偏鸽，结果将是长端美债遭到抛售，恰恰与此次加息试图锚定长端收益率的目标背道而驰。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+
+加息几成定局，通胀僵局难破
+
+&lt;p&gt;支持此次加息的逻辑已相当充分。美联储用于衡量2%通胀目标的个人消费支出（PCE）价格指数，去年以来持续走高，今年6月和7月年化增速均为3.7%，9月30日即将公布的最新数据预计几乎没有改善。&lt;/p&gt;
+&lt;p&gt;在7月28日至29日的货币政策会议上，已有三名官员投票支持加息，另有多名官员表示，若通胀近期未显示下降迹象，他们已准备好支持加息行动。&lt;/p&gt;
+&lt;p&gt;国际油价重返每桶100美元上方、特朗普宣布对加拿大加征新关税并威胁扩大进口关税范围，以及AI支出驱动的经济持续扩张，进一步强化了官员采取行动的理由。&lt;/p&gt;
+&lt;p&gt;沃什在上月怀俄明州Jackson Hole经济研讨会的讲话中已释放信号，称决策者需要确信&amp;quot;基础通胀正在以清晰且足够快的速度向目标回归&amp;quot;，并指出近期数据&amp;quot;未能表明基础趋势有实质性改善&amp;quot;。&lt;/p&gt;
+
+全球债市形成压力，倒逼联储行动
+
+&lt;p&gt;全球债券市场的联动是推动美联储加息的另一重力量。10年期美国国债收益率本周已突破5%，为近19年来最高水平。&lt;/p&gt;
+&lt;p&gt;多位经济学家和投资者认为，全球借贷成本的全面上升已呈现出独立于通胀因素的长期结构性趋势，这意味着短端利率若不跟进上调，货币政策实际上将趋于宽松。&lt;/p&gt;
+&lt;p&gt;目前，包括沃什在内的多位美联储官员认为，当前政策立场对经济的约束力度已相当有限。从这一角度看，此次上调利率不过是维持政策立场的必要校准。&lt;/p&gt;
+&lt;p&gt;全球债市动态或许也使特朗普政府对本次加息暗中默许。若美联储打破已高度一致的市场预期、选择维持不变，反而可能引发投资者对沃什反通胀公信力的质疑，进而推高长端利率。&lt;/p&gt;
+&lt;p&gt;而高企的抵押贷款利率，始终是特朗普&amp;quot;让生活更可负担&amp;quot;承诺面临的最大现实挑战，在11月国会中期选举临近之际，其政治代价不容小觑。&lt;/p&gt;
+
+措辞比决定更关键，鸽派风险是最大隐患
+
+&lt;p&gt;PGIM首席美国经济学家Robert Sockin表示，若此次加息以全票通过，且季度经济预测（点阵图）显示今年还有至少一次加息、2027年可能再度出台行动，将向市场发出强烈信号。他预计美联储今年合计加息三次。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;真正棘手的是，如果沃什的措辞偏鸽，把这次加息定性为小幅校准，市场的反应将会很差，&amp;quot;&lt;/strong&gt;Sockin表示，并将此次预期定调为Jackson Hole讲话精神的延续——&amp;quot;如果通胀未能以足够快的速度回落，我们还有更多工作要做。&amp;quot;&lt;/p&gt;
+&lt;p&gt;值得注意的是，沃什本人对点阵图持保留态度，在6月公布的预测中未提交自己的利率路径预测，且曾警告官员不应落入&amp;quot;镜厅陷阱&amp;quot;——即政策立场反过来被本就在跟随联储信号的市场预期所绑架。&lt;/p&gt;
+&lt;p&gt;渣打银行分析师John Davies和Steve Englander在研究报告中认为，在近期新增数据有限的情况下，市场对加息的预期升温更多源于&amp;quot;回声效应&amp;quot;，主张美联储本周应按兵不动，&amp;quot;等待的代价极低&amp;quot;。&lt;/p&gt;
+&lt;p&gt;然而，无论本周决策结果如何，Brooks的判断点明了核心风险所在：新闻发布会上，记者将反复追问沃什对后续加息路径的看法，&amp;quot;我不确定他有什么好的应答方式。&lt;/p&gt;
+&lt;p&gt;最大的风险在于——他在已经加息的情况下，表态依然偏鸽，那么长端美债将迎来抛售，而他加息的初衷，恰恰是为了锚定这些收益率。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月零售销售超预期反弹至1.2%，消费韧性支撑经济增长预期</title><link>https://wallstreetcn.com/articles/3781904</link><guid>ddf25ef421a61983af7552ecc91a8d40307ddc36cb995c2cafab685e283e32bf</guid><pubDate>Wed, 16 Sep 2026 13:00:37 GMT</pubDate><description>&lt;p&gt;美国8月零售销售数据强劲反弹，超出市场普遍预期，显示消费者在能源价格高企和通胀持续的背景下，消费支出依然具备韧性。&lt;/p&gt;
 &lt;p&gt;据美国人口普查局周三公布的数据，&lt;strong&gt;8月零售销售额环比增长1.2%，为近五个月以来最大单月涨幅，大幅好于彭博调查经济学家给出的0.8%中位数预期，此前7月数据则经修正后为下降0.5%。&lt;/strong&gt;13个零售类别中有12个录得环比增长，覆盖范围广泛。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;数据公布后，美元指数短线小幅走低至99.70，现货黄金小幅走高至4341.06美元/盎司，美国10年期国债收益率维持在4.979%附近波动不大。整体来看，此次数据强化了消费端支撑经济增长的叙事，对风险资产情绪形成温和提振。&lt;/p&gt;
@@ -506,19 +532,4 @@ NAND：eSSD强劲需求叠加供给克制，供需缺口显著扩大
 &lt;p&gt;KPMG首席经济学家Yael Selfin表示，&lt;strong&gt;能源价格上涨可能考验英国央行的“观望策略”。&lt;/strong&gt;她认为，目前价格上涨并不像是由经济过热或二轮效应驱动，但如果通胀持续，央行可能在11月进行一次预防性加息；在此之前，能源价格冲击仍属于央行难以直接控制的外部因素。&lt;/p&gt;
 &lt;p&gt;牛津经济研究院英国经济学家Andrew Goodwin也表示，8月数据尚未显示二轮效应，但外部价格压力的上升幅度已经如此明显，MPC越来越可能被迫采取行动。&lt;/p&gt;
 &lt;p&gt;通胀与利率压力也进一步传导至财政端。高企的国债收益率正在侵蚀政府财政空间，而生活成本压力则增加了政府缓解家庭负担的政治压力。财政大臣John Healey表示，中东冲突正在全球范围内推高通胀，政府已提前采取措施帮助家庭和企业；影子财政大臣Andrew Griffith则批评称，3.1%的通胀意味着家庭正在承受更高的生活成本。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;英国央行周四大概率仍将选择按兵不动，但随着能源价格继续向通胀数据传导，能够容忍通胀继续上行的空间正在缩小。接下来，核心通胀、服务价格和工资增速能否继续保持稳定，将成为判断央行能否延续观望立场的关键。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本8月出口增19.3%，但高油价推高贸易逆差</title><link>https://wallstreetcn.com/articles/3781867</link><guid>574f0f7e1ffae6a1a489a4a358b3b48e8f578ab75deaf625af6f1666de21bb41</guid><pubDate>Wed, 16 Sep 2026 06:27:07 GMT</pubDate><description>&lt;p&gt;日本8月出口延续两位数增长，对美、对华出货增速均跑赢整体，但进口成本在油价与日元弱势作用下加速攀升，贸易逆差扩大至1.1万亿日元，连续第四个月录得赤字。半导体出口的强劲动能正与能源进口的价格冲击形成对冲。&lt;/p&gt;
-&lt;p&gt;日本财务省周三公布的数据显示，&lt;strong&gt;8月出口同比增长19.3%，为连续第12个月增长，但较7月的23.2%有所放缓，高于经济学家18.4%的预期中值。&lt;/strong&gt;进口同比大增28%，远超出口增速，推动未经调整的贸易逆差从7月修正后的6383亿日元扩大至1.1万亿日元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;半导体等电子元件出口同比飙升52%，成为整体增长的核心引擎；&lt;/strong&gt;对美出口增长24.9%，对华出口增长20.6%，对欧出口增长11%。但这些高增长仍不足以抵消能源进口成本的上行——8月石油进口额增长约59%，而进口量仅微增3.6%，价格因素几乎贡献了全部增量。&lt;/p&gt;
-&lt;p&gt;伊藤忠研究所首席经济学家Atsushi Takeda指出，高油价正在推高进口成本、扩大贸易逆差，随着原油价格突破每桶100美元，贸易逆差将继续扩大，回归顺差将愈发困难。&lt;/p&gt;
-半导体出口激增52%，对美出货领跑
-&lt;p&gt;以半导体为代表的电子元件是8月出口增长的核心驱动。电子元件出口同比上升52%，其中对华半导体出口增长超过一倍，对美国和欧盟的半导体制造设备出口增幅也超过100%。汽车出口虽继续增长，但增速较前几个月放缓。&lt;/p&gt;
-&lt;p&gt;从目的地看，对美出口增长24.9%，对华出口增长20.6%，对欧出口增长11%，主要市场需求保持稳固。&lt;/p&gt;
-油价破百，逆差连续第四个月扩大
-&lt;p&gt;8月贸易逆差扩大的直接推手是能源进口。&lt;strong&gt;当月石油进口额增长约59%，而进口量仅微增3.6%。&lt;/strong&gt;8月布伦特原油均价约在每桶88美元，仍处相对高位；而进入9月后，受霍尔木兹海峡袭击事件升级、美伊对峙持续影响，布伦特原油上周已突破每桶100美元。&lt;/p&gt;
-&lt;p&gt;日本正加速原油采购来源的多元化。8月日本自美国进口的原油金额增长超过1000%，达4000亿日元；来自中东的原油进口金额仅增3.7%，进口量则下滑约31%。美国内政部长Doug Burgum本周早些时候表示，若认为出口禁令能真正压低国内油价才会考虑实施，但事实并非如此。&lt;/p&gt;
-日元从弱势转向升值，进口成本与出口竞争力的角力
-&lt;p&gt;财务省数据显示，8月日元兑美元均价为160.64，较去年同期贬值8.7%。弱势日元一方面抬高以日元计价的进口原材料成本，另一方面为出口商提供海外价格竞争力。&lt;/p&gt;
-&lt;p&gt;但9月以来日元走势出现转折：截至9月，日元兑美元已升值超过3%，成为同期亚洲表现最佳货币。周三东京早盘，日元约在155.18兑1美元附近交投，仍远低于126.55的10年均值。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Takeda认为，AI相关产品需求预计将保持强劲，出口将因此获得支撑。&lt;/p&gt;
-&lt;p&gt;后续关注油价在100美元上方的持续性，以及日元升值能否缓解以日元计价的进口成本压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] H2的WCLC核心PPT解读</title><link>http://xueqiu.com/1222910358/409414977</link><guid>3ff420a10badad03be0baee6a2b36b31a0c3e8fa2df80226e351d057b4d49e60</guid><pubDate>Wed, 16 Sep 2026 10:02:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Trociz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026 年 9 月 15 日，韩国首尔，世界肺癌大会（WCLC）现场，周彩存教授代表研究组做了 HARMONi-2 总生存期（OS）期中分析的口头报告。数据截止 2026 年 8 月 20 日，中位随访 36 个月，共发生 234 例 OS 事件。这是全球第一个在总生存期上“头对头”击败帕博利珠单抗（K 药）的 III 期研究。&lt;/p&gt;</description></item><item><title>[今日雪球] 产业价值捕获者（一）：如何在产业升级中发现未被定价的价值</title><link>http://xueqiu.com/1574262287/409469193</link><guid>b2eec686aab17e1126eddacf38769094bc9bcd336cff0aa0cf373d0580c6f1a3</guid><pubDate>Wed, 16 Sep 2026 10:02:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;羽界之家&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去一段时间，“羽界之家投资方法论”试图回答的是一个相对完整的问题：在资本市场中，我们应该用什么样的框架，去寻找那些尚未被市场充分定价、但未来具备高成长潜力的公司。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想358 迎接加息挑战</title><link>http://xueqiu.com/1438190065/409422968</link><guid>17f75287ff1559fd98f4f8aca029fd21a9c682bc0e7ee58a70f912d195ea2f98</guid><pubDate>Wed, 16 Sep 2026 10:02:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;目前市场对美联储9月加息25个基点的预计概率约为94%，若如期加息，联邦基金利率区间将升至3.75%至4%。德意志银行策略师表示，若美联储维持利率不变，可能成为1994年开始正式公布议息决定以来，例行会议上最大的“鸽派意外”。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;因此，&lt;strong&gt;英国央行周四大概率仍将选择按兵不动，但随着能源价格继续向通胀数据传导，能够容忍通胀继续上行的空间正在缩小。接下来，核心通胀、服务价格和工资增速能否继续保持稳定，将成为判断央行能否延续观望立场的关键。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] H2的WCLC核心PPT解读</title><link>http://xueqiu.com/1222910358/409414977</link><guid>3ff420a10badad03be0baee6a2b36b31a0c3e8fa2df80226e351d057b4d49e60</guid><pubDate>Wed, 16 Sep 2026 10:02:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Trociz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026 年 9 月 15 日，韩国首尔，世界肺癌大会（WCLC）现场，周彩存教授代表研究组做了 HARMONi-2 总生存期（OS）期中分析的口头报告。数据截止 2026 年 8 月 20 日，中位随访 36 个月，共发生 234 例 OS 事件。这是全球第一个在总生存期上“头对头”击败帕博利珠单抗（K 药）的 III 期研究。&lt;/p&gt;</description></item><item><title>[今日雪球] 产业价值捕获者（一）：如何在产业升级中发现未被定价的价值</title><link>http://xueqiu.com/1574262287/409469193</link><guid>b2eec686aab17e1126eddacf38769094bc9bcd336cff0aa0cf373d0580c6f1a3</guid><pubDate>Wed, 16 Sep 2026 10:02:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;羽界之家&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去一段时间，“羽界之家投资方法论”试图回答的是一个相对完整的问题：在资本市场中，我们应该用什么样的框架，去寻找那些尚未被市场充分定价、但未来具备高成长潜力的公司。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想358 迎接加息挑战</title><link>http://xueqiu.com/1438190065/409422968</link><guid>17f75287ff1559fd98f4f8aca029fd21a9c682bc0e7ee58a70f912d195ea2f98</guid><pubDate>Wed, 16 Sep 2026 10:02:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;目前市场对美联储9月加息25个基点的预计概率约为94%，若如期加息，联邦基金利率区间将升至3.75%至4%。德意志银行策略师表示，若美联储维持利率不变，可能成为1994年开始正式公布议息决定以来，例行会议上最大的“鸽派意外”。&lt;/p&gt;</description></item></channel></rss>
