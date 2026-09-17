@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 20:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 日元156告破，日本央行被迫提前紧缩的临界点到了？</title><link>https://wallstreetcn.com/articles/3781999</link><guid>4bf16a8231640f2dc014715391a42550e78baf8ec99d18d27df43007283c4eda</guid><pubDate>Thu, 17 Sep 2026 11:41:04 GMT</pubDate><description>&lt;p&gt;美元兑日元跌破156关口，日本央行加息压力进一步上升。美联储加息25个基点并释放鹰派信号后，美日利差扩大的预期重新升温，日元一度下跌1%至156.42。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 21:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑</title><link>https://wallstreetcn.com/articles/3782022</link><guid>211e5bfa90793e7c5a8608540e06f685db3048c6df196032221031d3b75d8374</guid><pubDate>Thu, 17 Sep 2026 21:13:33 GMT</pubDate><description>&lt;p&gt;9月17日，Anthropic旗下编程助手Claude Code正式推出Projects功能重大升级，将AI辅助开发从单次对话模式升级为多线程自动化工作流，标志着AI编程工具向自主项目管理迈出实质性一步。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本次更新的核心增量在于执行方式：用户不再需要逐个开启对话、手动跟踪每个子任务，只需描述&amp;quot;需要做什么&amp;quot;，Claude 就会拆解任务、分配线程、并行推进。官方公告称，&lt;strong&gt;这些线程在用户关闭笔记本电脑后仍会继续工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic表示，该功能目前以测试版向部分Claude Pro和Max订阅用户开放。未来数周内将逐步扩大访问权限，并最终覆盖Team和Enterprise计划用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于开发者而言，这一升级直接改变了多任务项目的协作方式。过去需要手动切换会话、拼接输出结果的工作流程，现在可以交由Claude统一调度，潜在影响涵盖从个人开发者到企业工程团队的各类用户群体。&lt;/p&gt;
+
+线程架构：Claude扮演&amp;quot;参谋长&amp;quot;角色
+
+&lt;p&gt;新版Projects的核心设计是&amp;quot;协调者+工作线程&amp;quot;双层架构。&lt;/p&gt;
+&lt;p&gt;用户在项目主聊天界面发出高层指令，Claude充当参谋长角色，将任务路由至新建或已有的工作线程；每条线程则是一个独立的Claude Code云端会话，在各自的代码分支和仓库副本上执行具体工作。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以实际场景为例&lt;/strong&gt;：用户可以设定目标为降低应用结账环节的P75延迟，Claude随即会分配多个并行线程分别对各接口进行性能分析、测试优化方案并提交Pull Request。&lt;/p&gt;
+&lt;p&gt;又或者同时连接API、Web和移动端三个代码仓库，由Claude为每个仓库创建独立线程，完成废弃接口的迁移、测试和PR提交，并告知用户哪些PR需要优先合并。&lt;/p&gt;
+&lt;p&gt;若不同线程修改了同一段代码，系统将以标准合并冲突的方式处理，与常规PR流程保持一致。&lt;strong&gt;此外，单条线程还可进一步调用子代理、循环和工作流来拆分大型任务，以加快完成速度。&lt;/strong&gt;&lt;/p&gt;
+
+共享记忆：上下文跨会话持续积累
+
+&lt;p&gt;&lt;strong&gt;新版Projects专为长周期或代理式工作流设计，支持跨时间、跨会话的上下文积累。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所有线程共享同一记忆池，Claude会随时间推移不断沉淀项目细节，例如记住发布日期调整为周五、某功能被废弃的原因，或在修改账单服务前需要知会哪位同事，从而减少用户反复编写提示词的负担。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在个性化层面&lt;/strong&gt;，Claude还会记住用户的工作风格和沟通偏好。用户可以要求它调整进度汇报频率、新建线程的节奏以及更新内容的详细程度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与记忆功能并行，Projects还新增了&amp;quot;Library&amp;quot;（素材库）&lt;/strong&gt;，自动归集用户上传的文件以及Claude生成的各类产出物，方便后续工作调取历史材料、在已有成果基础上继续推进。&lt;/p&gt;
+
+使用限制与后续计划
+
+&lt;p&gt;由于一个项目可同时运行多条线程，且每条线程均为完整的Claude Code云端会话，&lt;strong&gt;Projects的用量消耗速度较单一会话模式明显加快。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic提示用户注意项目级别的用量监控，并支持分别为协调者聊天和工作线程选择模型及算力等级，以便灵活管控成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在功能路线图方面&lt;/strong&gt;，Anthropic表示线程&lt;strong&gt;目前仅在云端运行&lt;/strong&gt;，支持在本地机器上运行、调用本地工具和代码、以及接入内网的功能即将推出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;就当前的测试版访问资格而言，仅限在Claude Code中使用云端会话、且在网页端或桌面端尚无已有Projects的Pro和Max用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;已有Projects的用户仍可正常使用现有功能，Anthropic将在后续扩展至聊天和Cowork功能时统一完成升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元156告破，日本央行被迫提前紧缩的临界点到了？</title><link>https://wallstreetcn.com/articles/3781999</link><guid>4bf16a8231640f2dc014715391a42550e78baf8ec99d18d27df43007283c4eda</guid><pubDate>Thu, 17 Sep 2026 11:41:04 GMT</pubDate><description>&lt;p&gt;美元兑日元跌破156关口，日本央行加息压力进一步上升。美联储加息25个基点并释放鹰派信号后，美日利差扩大的预期重新升温，日元一度下跌1%至156.42。&lt;/p&gt;
 &lt;p&gt;与此同时，日本央行9月17日至18日政策会议临近，市场对加息的预期已接近确定。&lt;strong&gt;隔夜指数掉期市场显示，日本央行将基准利率从1%上调25个基点的概率达到98.2%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在加息25个基点几乎被市场完全计价的情况下，投资者关注的重点已经转向植田和男会释放怎样的政策信号。&lt;strong&gt;市场将重点观察日本央行是否暗示后续连续加息，甚至是否存在一次性加息50个基点的可能。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;日元再度走弱也增加了日本央行的政策压力。汇率贬值会推高进口成本，进一步向国内物价传导；而如果日本央行加息力度低于预期，日元又可能继续承压。&lt;/p&gt;
@@ -110,11 +138,11 @@ QT规模或大幅收缩，主动售债或退场
 &lt;p&gt;&amp;quot;我确实认为最终贷款人将在某个时刻需要出手支持英国国债。如果英国债券收益率持续上行，届时将不得不采取行动。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;此外，部分市场人士警告，英国央行可能不会对现行策略做出大幅调整。&lt;strong&gt;花旗集团策略师Jamie Searle表示，尽管调整策略存在可能性，但他倾向于认为英国央行会&amp;quot;维持现状，以避免模糊货币政策对QT的控制边界&amp;quot;。市场担忧，若央行为配合政府财政需求而修改售债策略，可能引发外界对其独立性的质疑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英国央行的既定目标是最终清空其持有的全部国债存量，并为此设定了三项指导原则：利率仍是货币政策委员会的主要工具；售债操作不得扰乱市场正常运转；以及以渐进、可预期的方式推进。如何在上述原则与市场现实之间寻求平衡，将是本次决议的核心考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期TIPS实际收益率创2008年危机来最高，财政赤字与企业债务扩张引关注</title><link>https://wallstreetcn.com/articles/3782019</link><guid>cc5ba075e86e50becbad11aa7f24d2e06a125631b7df54f68191166788b1f508</guid><pubDate>Thu, 17 Sep 2026 18:58:32 GMT</pubDate><description>&lt;p&gt;美国财政部周四发行190亿美元10年期通胀保值国债（TIPS），&lt;strong&gt;中标实际收益率升至2.653%，创2008年以来最高&lt;/strong&gt;，且高于发行前市场水平，显示投资者对这批国债要求更高的实际回报。&lt;/p&gt;
+&lt;p&gt;英国央行的既定目标是最终清空其持有的全部国债存量，并为此设定了三项指导原则：利率仍是货币政策委员会的主要工具；售债操作不得扰乱市场正常运转；以及以渐进、可预期的方式推进。如何在上述原则与市场现实之间寻求平衡，将是本次决议的核心考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期TIPS拍卖得标利率创2008年危机来最高，财政赤字与企业债务扩张引关注</title><link>https://wallstreetcn.com/articles/3782019</link><guid>cc5ba075e86e50becbad11aa7f24d2e06a125631b7df54f68191166788b1f508</guid><pubDate>Thu, 17 Sep 2026 20:43:30 GMT</pubDate><description>&lt;p&gt;美国财政部周四发行190亿美元10年期通胀保值国债（TIPS），&lt;strong&gt;中标实际收益率升至2.653%，创2008年以来最高&lt;/strong&gt;，且高于发行前市场水平，显示投资者对这批国债要求更高的实际回报。&lt;/p&gt;
 &lt;p&gt;具体来看，本次TIPS中标收益率为2.653%，较纽约时间下午1点投标截止时的发行前交易收益率（WI）高约1.9个基点。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;投标倍数为2.24，低于前三次标售平均的2.43，表明需求较此前有所降温。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从投资者结构来看，一级交易商获配比例升至12.2%，高于此前三次拍卖；间接投标人获配比例降至59.1%，直接投标人获配比例则升至28.7%。&lt;/p&gt;
-&lt;p&gt;此次拍卖受到市场关注，核心在于TIPS实际收益率进一步走高。与普通美国国债不同，&lt;strong&gt;TIPS的本金会根据通胀进行调整，因此其收益率通常被视为投资者要求的“实际收益率”。&lt;/strong&gt;收益率升至2.653%，意味着在获得通胀保护之外，投资者仍要求较高的实际回报。&lt;/p&gt;
+&lt;p&gt;此次拍卖受到市场关注，核心在于TIPS实际收益率进一步走高。与普通美国国债不同，&lt;strong&gt;TIPS的本金会根据通胀进行调整，因此其收益率通常被视为投资者要求的“实际收益率”。&lt;/strong&gt;中标收益率升至2.653%，意味着在获得通胀保护之外，投资者仍要求较高的实际回报。&lt;/p&gt;
 &lt;p&gt;美联储周三刚宣布自2023年以来首次加息，10年期美债收益率创近20年新高，周四回落约6个基点，截至发稿报4.948%。当前10年期通胀盈亏平衡率约为2.3%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
@@ -125,12 +153,52 @@ QT规模或大幅收缩，主动售债或退场
 &lt;p&gt;关税冲击导致实际收益率短暂急升，但市场在数月内基本消化了这一影响。相比之下，与伊朗的军事冲突因其引发的通胀风险及政府借贷需求骤增，对实际收益率造成了更为持久和深度的抬升压力。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
-近18年最高实际收益率背后，市场隐忧不容忽视
+近18年最高拍卖实际收益率背后，市场隐忧不容忽视
 
 &lt;p&gt;上一次10年期TIPS拍卖实际收益率超过此次结果是在2008年10月，彼时收益率为2.85%，正值全球金融危机最为严峻的时刻。&lt;/p&gt;
 &lt;p&gt;与2008年不同，当前并无明显的系统性金融危机迹象，但美国政府及企业借贷规模的快速扩张已引发市场关注。&lt;/p&gt;
 &lt;p&gt;实际和名义收益率同步走高，本质上反映的是通胀未能有效受控、以及财政赤字持续扩大的市场预期。&lt;/p&gt;
-&lt;p&gt;该TIPS将于11月19日进行下一次再开标拍卖，新一轮10年期TIPS发行则定于2027年1月21日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北汽极狐再攻15万元级市场</title><link>https://wallstreetcn.com/articles/3782006</link><guid>41bcef15ac77c0556263a97f50904caae664ab411efd75d55c9862fcff34e481</guid><pubDate>Thu, 17 Sep 2026 13:22:32 GMT</pubDate><description>&lt;p&gt;北汽极狐补齐了其大五座SUV的产线空白。&lt;/p&gt;
+&lt;p&gt;该TIPS将于11月19日进行下一次再开标拍卖，新一轮10年期TIPS发行则定于2027年1月21日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银“鹰派加息”定性不改黄金长期看涨：分阶段目标最高5400美元，4000美元附近是增持良机</title><link>https://wallstreetcn.com/articles/3782025</link><guid>412ae04569ae04ae4945b878f4dd7c071d8ca5aa66ed5c02183b918d58ebf691</guid><pubDate>Thu, 17 Sep 2026 21:13:25 GMT</pubDate><description>&lt;p&gt;黄金近期面临来自美联储政策收紧的逆风，但瑞银认为这不足以动摇金属的长期投资逻辑。&lt;/p&gt;
+&lt;p&gt;华尔街见闻提及，9月16日，美联储将联邦基金利率目标区间上调25个基点至3.75%-4.00%，并暗示年内可能再度加息。&lt;/p&gt;
+&lt;p&gt;瑞银策略师Giovanni Staunovo将此次会议定性为&amp;quot;结束长期暂停的鹰派加息&amp;quot;，&lt;strong&gt;认为美国实际利率上升和美元走强将在短期内压制金价，同时警告8月大量流入黄金ETF的资金或面临流出风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，Staunovo同时指出，此次加息早在市场预期之内，并不改变黄金的长期投资价值。&lt;/strong&gt;他将全球债务水平上升、美元中期走弱预期以及明年美联储降息前景列为支撑黄金需求的核心因素，并&lt;strong&gt;将价格回调至每盎司4000美元附近视为增持机会。&lt;/strong&gt;&lt;/p&gt;
+
+加息落地，短期调整难以回避，长期逻辑未被动摇
+
+&lt;p&gt;美联储此次加息决议符合市场此前的普遍预期，但最新点阵图显示多数官员预计年内至少还将再加息一次，令鹰派信号进一步强化。&lt;/p&gt;
+&lt;p&gt;Staunovo表示，这一背景&amp;quot;仍是近期黄金的利空因素&amp;quot;，因为持有无息资产的机会成本随之上升。&lt;/p&gt;
+&lt;p&gt;他同时注意到，8月黄金ETF录得可观净流入，背后驱动因素主要是市场对美联储独立性的担忧以及不断攀升的政府债务水平。&lt;strong&gt;然而，随着本周会议呈现出的鹰派基调，上述部分仓位或面临获利了结或流出的压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Staunovo认为，短期波动掩盖不了黄金更深层的结构性支撑。他将以下因素列为长期利多：&lt;strong&gt;全球债务持续膨胀带来的财政可持续性隐忧、美元长期走弱的预期、美联储明年降息的可能性，以及持续高企的地缘政治不确定性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他还指出，黄金在实际利率上行期间所表现出的韧性说明，传统基于利率的估值模型&amp;quot;只反映了故事的一部分&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;储备资产可及性方面的顾虑、制裁风险以及对财政可持续性的质疑，正在推动各方逐步降低美元资产集中度，而黄金作为不依附于任何机构信用的资产，从中受益。&lt;/p&gt;
+
+央行购金提供结构性支撑，目标价最高看至5400美元
+
+&lt;p&gt;央行需求依然是金价的重要支柱。数据显示，中国人民银行8月增持黄金约20公吨，连续购入已达22个月；波兰国家银行与乌兹别克斯坦央行各增持约8公吨。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Staunovo维持对央行年度购金量750至1000公吨的预测，认为这将为金价提供&amp;quot;重要的结构性支撑&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以9月18日现货价每盎司4342美元为基准，瑞银设定了一系列分阶段价格目标：&lt;strong&gt;2026年12月达到4600美元，2027年3月升至5000美元，2027年6月进一步升至5200美元，2027年9月触及5400美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Staunovo写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们认为黄金的长期投资价值依然正面，价格若回落至4000美元附近，将提供增持的良机。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX考虑从倒闭初创公司购买数据，为Grok AI模型扩充训练资源</title><link>https://wallstreetcn.com/articles/3782023</link><guid>b36e8425cfe44efb3924414e8b293fdf260ac80c9fadd64d6c9e7a958ae81b2b</guid><pubDate>Thu, 17 Sep 2026 21:03:56 GMT</pubDate><description>&lt;p&gt;SpaceX正在探索从陷入困境或已倒闭的初创企业购买数据，以更低成本扩充其人工智能模型的训练资源。这一策略标志着该公司在AI数据获取方式上的重要转变，也折射出其在AI军备竞赛中加速追赶的迫切态势。&lt;/p&gt;
+&lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;SpaceX旗下AI部门SpaceXAI内部已就此展开讨论，目标是收购问题初创企业的客户信息及运营数据。相关讨论目前仍属非正式性质，尚未确定是否会达成实际交易。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SpaceXAI的上述做法与谷歌此前的操作如出一辙——谷歌曾在廉价航空公司Spirit Airlines停止运营后，出价1000万美元购买其业务数据用于AI训练，尽管此举引发了部分前机组人员的数据隐私质疑。&lt;/p&gt;
+&lt;p&gt;马斯克在近期一次内部会议上向SpaceX员工表示，&lt;strong&gt;&amp;quot;我们将用SpaceX所有信息的总和来训练Grok，它将以你们为师。&amp;quot;&lt;/strong&gt;这番表态表明，外部数据采购与内部数据挖掘将并行推进，共同服务于Grok模型的迭代升级。&lt;/p&gt;
+&lt;p&gt;周四，SpaceX收涨2.6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+争夺AI市场，Grok面临激烈竞争
+
+&lt;p&gt;SpaceX目前正全力推进AI业务，试图在与Anthropic、OpenAI等头部机构的竞争中争夺更多企业客户。高质量训练数据是提升AI模型在各类任务上表现的核心要素，也是各家AI公司争夺的关键资源。&lt;/p&gt;
+&lt;p&gt;SpaceXAI此前主要依赖马斯克旗下社交平台X的数据，以及内部&amp;quot;AI导师&amp;quot;团队来训练和优化模型。此次考虑引入外部数据集，是对原有数据战略的一次明显拓展。&lt;/p&gt;
+&lt;p&gt;值得注意的是，知情人士透露SpaceXAI仍在继续使用内部导师团队，协助工程师提升AI系统在金融、科学乃至幽默等专业领域的能力。&lt;/p&gt;
+
+&amp;quot;AI导师&amp;quot;团队经历动荡，管理架构重整
+
+&lt;p&gt;SpaceXAI于今年6月暂停了AI导师岗位的招聘，随后更换了团队领导层。在Starlink卫星互联网服务部门工作多年的Jack Garabedian接任团队负责人，接替了前任工程师Diego Pasini。&lt;/p&gt;
+&lt;p&gt;Garabedian上任后着力平息团队内部的不满情绪，通过建立工作流程、定期会议机制以及明确AI训练数据目标等方式，逐步稳定团队运营。&lt;/p&gt;
+&lt;p&gt;据悉数据团队在7月份的工作简报中总结了阶段性成果，包括在新AI模型和代码智能体方面取得的进展。简报写道：&amp;quot;这些成果的落地，离不开这个团队每天默默进行的精细标注、偏好对齐与验证工作。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北汽极狐再攻15万元级市场</title><link>https://wallstreetcn.com/articles/3782006</link><guid>41bcef15ac77c0556263a97f50904caae664ab411efd75d55c9862fcff34e481</guid><pubDate>Thu, 17 Sep 2026 13:22:32 GMT</pubDate><description>&lt;p&gt;北汽极狐补齐了其大五座SUV的产线空白。&lt;/p&gt;
 &lt;p&gt;9月16日，北汽极狐推出阿尔法T7，共有9款车型，官方指导价13.68万至17.28万元，上市补贴价13.28万至16.88万元。新车提供纯电、增程两种动力，部分版本搭载华为乾崑ADS 5 Pro辅助驾驶系统。&lt;/p&gt;
 &lt;p&gt;阿尔法T7进入的是当前新能源汽车销量最集中的市场。&lt;/p&gt;
 &lt;p&gt;2025年，国内10万至20万元新能源车型销量达到694.1万辆，同比增长24%；其中10万至15万元车型销量354.9万辆，同比增长59.5%。这一价格带覆盖首购、家庭增购等需求，市场容量大，也汇集了车企最密集的产品投放。&lt;/p&gt;
@@ -156,122 +224,4 @@ QT规模或大幅收缩，主动售债或退场
 量化紧缩：年度缩表规模或降至500亿英镑
 &lt;p&gt;英国央行自2022年2月启动量化紧缩，通过主动出售和债券到期减少国债持仓，目前国债持仓已从约8950亿英镑降至4890亿英镑。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此前一年的缩减目标为700亿英镑，市场普遍预计本次将进一步放缓至500亿英镑，其中主动出售规模约为200亿英镑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英国央行近期研究显示，量化紧缩已推动10年期英国国债收益率上升约20至30个基点。据报道，英国央行或考虑停止长期限国债的主动出售，以避免干扰政府债券发行计划。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 需求担忧缓解，iPhone 18系列预售交货期延长</title><link>https://wallstreetcn.com/articles/3782003</link><guid>b048ae46669286a56ff7cc83291868fa8d242ed70df74902c74ef9bdbc5bf2bb</guid><pubDate>Thu, 17 Sep 2026 11:51:53 GMT</pubDate><description>&lt;p&gt;iPhone 18 Pro系列预售交货期在开售首周中段出现显著扩张，与去年同期基本持平，此前市场对需求疲软的担忧正在消退。&lt;/p&gt;
-&lt;p&gt;据摩根大通9月17日发布的产品可用性追踪报告，iPhone 18 Pro和18 Pro Max的全球平均交货期自9月12日预售首日至9月16日周中检查节点，&lt;strong&gt;分别扩张12天和7天&lt;/strong&gt;，Pro Max交货期已与去年iPhone 17周期持平，Pro机型也大幅收窄差距。&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Samik Chatterjee认为，&lt;strong&gt;首周交货期偏短反映的是初始备货向高端机型集中配置的结果，而非需求疲软信号，随后的交货期扩张与需求消化库存的节奏相符。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;苹果股价截至9月16日报332.41美元，摩根大通维持&amp;quot;增持&amp;quot;评级。&lt;/p&gt;
-交货期扩张幅度超越去年同期
-&lt;p&gt;据摩根大通数据，iPhone 18 Pro和18 Pro Max在预售首日后的四天内，交货期分别扩张12天和7天，明显超过去年iPhone 17 Pro和17 Pro Max同期扩张的5天和2天。&lt;/p&gt;
-&lt;p&gt;从绝对水平看，截至9月16日周中检查节点，18 Pro和18 Pro Max的全球平均到家交货期分别为19天和26天，而去年同期17 Pro和17 Pro Max的对应数据分别为20天和26天，两者已基本持平。&lt;/p&gt;
-&lt;p&gt;此外，&lt;strong&gt;早期预售中不同颜色版本交货期存在明显分化的现象已基本消失。&lt;/strong&gt;此前在美国，Glacier、Silver和Black Pro等颜色可在9月18日正式发售当天到货，而其他颜色则需等待更长时间；截至周中检查节点，所有颜色在摩根大通追踪的每个市场均已报出相同的交货窗口。&lt;/p&gt;
-美国与欧洲均小幅领先去年同期
-&lt;p&gt;在美国市场，18 Pro和18 Pro Max的交货期分别为17天和24天，高于预售首日的2天和22天，也略超去年同期17 Pro和17 Pro Max的16天和23天。美国约占iPhone全球出货量的34%。门店自提方面，18 Pro全部颜色版本均可在9月18日发售当天到店取货，18 Pro Max则暂无门店自提选项。&lt;/p&gt;
-&lt;p&gt;欧洲方面，德国18 Pro和18 Pro Max交货期分别升至18天和25天，高于去年同期的16天和24天，小幅领先；英国两款机型交货期分别为17天和24天，与去年同期持平。德国和英国分别约占iPhone全球出货量的3%和4%。&lt;/p&gt;
-中国市场仍是最大同比缺口
-&lt;p&gt;中国市场是目前各追踪地区中同比差距最为显著的市场。截至9月16日&lt;strong&gt;，18 Pro和18 Pro Max在中国的交货期分别为25天和29天，虽较预售首日的13天和21天有所扩张，但仍明显低于去年同期17 Pro和17 Pro Max各32天的水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;门店自提方面，中国市场18 Pro和18 Pro Max均无法在门店取货。中国约占iPhone全球出货量的19%。摩根大通指出，&lt;strong&gt;中国市场的同比差距较首周有所收窄，但仍是当前需求追踪中的主要隐忧。&lt;/strong&gt;&lt;/p&gt;
-iPhone Duo预计10月16日开启预售
-&lt;p&gt;摩根大通在报告中提及，iPhone 18系列中的Duo机型将于10月16日开启预售，目前尚未纳入本次交货期追踪范围。当前的交货期数据主要反映18 Pro和18 Pro Max两款机型的市场需求状况。&lt;/p&gt;
-&lt;p&gt;摩根大通表示，将持续追踪各地区交货期数据，以评估iPhone 18系列整体需求走势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息落地，美股高开，纳指涨1.5%，存储芯片、光通信股普涨，布油跌3%，黄金逼近4370</title><link>https://wallstreetcn.com/articles/3781940</link><guid>425896926e963bf7c1d3123c4d358835522091ce895624e8b88947f4a76aae0c</guid><pubDate>Thu, 17 Sep 2026 13:35:32 GMT</pubDate><description>&lt;p&gt;美联储加息落地并释放进一步收紧货币政策的信号后，油价继续下跌，通胀最坏预期有所消退，市场风险情绪回暖，美股、美债同步走强。&lt;/p&gt;
-&lt;p&gt;周四，美股高开，道指涨0.9%，标普500指数涨1.2%，纳指涨1.5%。存储芯片股普涨，SK海力士涨约5%。光通信股普涨，迈威尔科技涨约5%。10年期美债收益率走低至4.95%，美元小幅走弱，黄金上涨，布伦特原油下跌3%。随着美联储利率决议落地，市场正转向评估加息及其持续抑制通胀的承诺将如何影响后续资产走势。&lt;/p&gt;
-&lt;p&gt;美联储联邦公开市场委员会周四凌晨以12比0全票通过加息25个基点，将联邦基金利率目标区间上调至3.75%至4%。利率点阵图显示，年内可能再加息一次。目前，货币市场定价显示，美联储10月再次加息的概率约为50%。&lt;/p&gt;
-&lt;p&gt;Panmure Liberum策略师Joachim Klement表示，市场目前对2027年进一步加息的预期可能过高。他认为，债券收益率下一步可能回落，而收益率下行将反过来为股市提供支撑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;核心市场走势如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;美股高开，道指涨0.9%，标普500指数涨1.2%，纳指涨1.5%。&lt;/li&gt;
-&lt;li&gt;欧洲斯托克600指数开盘涨0.4%，德国DAX指数涨0.4%，英国富时100指数涨0.4%，法国CAC 40指数涨0.45%。&lt;/li&gt;
-&lt;li&gt;日经225指数收盘涨0.3%，报64136.25点。日本东证指数收盘涨0.8%，报4094.19点。韩国首尔综指收盘几无变动，报6715.41点。&lt;/li&gt;
-&lt;li&gt;10年期美国国债收益率下降8个基点至4.95%。&lt;/li&gt;
-&lt;li&gt;彭博美元现货指数下跌0.2%。&lt;/li&gt;
-&lt;li&gt;布伦特原油日内跌幅达4.0%，报101.59美元/桶。WTI原油跌近3%，报94.64美元/桶。&lt;/li&gt;
-&lt;li&gt;现货黄金上涨2.4%，至每盎司4366美元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-美联储超预期鹰派强化连续加息预期，美股指仍持续走高
-&lt;p&gt;美股高开，道指涨0.9%，标普500指数涨1.2%。Generac涨约31%，亚马逊获得认股权证，可购买价值高达3.4亿美元的Generac股票。Nebius涨约10%，此前Nebius宣布将于10月1日起全面上调旗下GPU云服务定价，平均涨幅约20%。&lt;/p&gt;
-&lt;p&gt;美联储9月会议超预期鹰派，迫使高盛迅速修正预测——将原本认为&amp;quot;仅此一次&amp;quot;的加息路径，改写为9月、10月连续加息的基准情景。&lt;/p&gt;
-&lt;p&gt;美联储9月16日全票通过，将联邦基金利率上调25个基点至3.75%-4.00%。会议的鹰派程度超出市场及高盛自身预判：18名委员中16人预计年内至少再加息一次，点阵图中值显示2027年维持利率不变，中性利率预测中值从3.06%跳升至3.25%；主席沃什在新闻发布会上三度使用&amp;quot;去除了一剂宽松&amp;quot;的措辞，强调当前金融条件&amp;quot;远未达到限制性水平&amp;quot;。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-债市短端承压，澳新国债跟跌
-&lt;p&gt;美国十年期国债收益率下行至4.95%。周四亚洲早盘时段，澳大利亚和新西兰政府债券走弱，跟随美债同步调整，澳大利亚十年期国债收益率小幅下行2个基点至5.33%。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此次加息是否意味着新一轮持续收紧周期的开始，市场观点尚未统一。&lt;/p&gt;
-&lt;p&gt;Laffer Tengler Investments固定收益主管Byron Anderson认为，美联储此次加息并非主动开启新一轮收紧周期，而更多是为了稳定债市情绪。他写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美联储别无选择，要么加息，要么面临债市更大规模的抛售，12比0的投票结果已经说明这一点，美联储是在试图平息债市，而非宣告一轮加息周期的开始。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Janus Henderson Investors投资组合经理Daniel Siluk则关注政策声明的措辞变化。他说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;委员会删去了将通胀归因于供给冲击的表述，这表明决策者越来越聚焦于更广泛、更具持续性的通胀压力，而非将近期价格上涨主要视为暂时性或外部因素驱动。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Northlight资管首席投资官Chris Zaccarelli则表示，历史规律显示美联储一旦开始加息，往往会多次出手，Chris Zaccarelli说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;但具体模式是连续加息还是间隔操作，目前并不明朗。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;TruStage首席经济学家Steve Rick同样持审慎态度。他指出，中东冲突持续推高油价可能令通胀居高不下，但货币政策传导存在时滞，若继续加息将对消费者和企业造成更大压力。他说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美联储应给这次加息留出时间发挥效果，再评估是否需要进一步收紧。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-油价走低，金银上涨
-
-&lt;p&gt;大宗商品市场方面，原油价格在近期强劲反弹后出现回调，主要受供应端预期改善提振。布伦特原油日内跌幅达4.0%，报101.59美元/桶。WTI原油跌近3%，报94.64美元/桶。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据报道，沙特阿拉伯正寻求在数日内恢复受无人机袭击的东西输油管道约一半的输送能力，并有望在约六周内完全恢复运营。&lt;/p&gt;
-&lt;p&gt;与此同时，伊朗局势仍具不确定性。据伊斯兰共和国通讯社报道，伊朗周三表示将&amp;quot;战斗至最后一滴血&amp;quot;，地区紧张态势短期内难以完全消退。&lt;/p&gt;
-&lt;p&gt;现货黄金上涨2.4%，至每盎司4366美元。现货白银日内涨幅达4.0%，报65.49美元/盎司。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 土耳其多管齐下紧急“灭火”：近200亿美元基金清算、高管被捕、交易禁令</title><link>https://wallstreetcn.com/articles/3782020</link><guid>a5df40aef43794255e252a7e16c2c988968d2a0cf4182ba3db88f039ca5eabde</guid><pubDate>Thu, 17 Sep 2026 18:52:08 GMT</pubDate><description>&lt;p&gt;土耳其政府从基金清算、市场监管到央行流动性支持多管齐下，试图为基金业流动性危机“灭火”，阻止市场动荡向更广泛的金融体系蔓延。&lt;/p&gt;
-&lt;p&gt;据报道，当地时间17日周四，土耳其资本市场委员会宣布，将清算由Tera、Pusula等七家资产管理公司管理的逾百只基金，涉及规模接近200亿美元。与此同时，调查范围进一步扩大，多名金融机构高管遭逮捕、拘留或被限制出境。&lt;/p&gt;
-&lt;p&gt;监管层还对涉嫌操纵股价的行为采取行动。报道称，土耳其资本市场委员会对38人提出刑事指控，并对其实施为期两年的交易禁令，涉及Katilimevim、Gundogdu Gida和Destek Finans Faktoring三家公司股票。&lt;/p&gt;
-&lt;p&gt;紧急措施公布后，土耳其股市出现分化：基准BIST 100指数收涨3%，银行股指数盘中一度涨超9%，但大量中小盘股仍持续下跌，显示政策托底尚未完全消除市场压力。&lt;/p&gt;
-&lt;p&gt;这场危机的核心矛盾在于，部分基金此前集中持有流通股比例较低、流动性相对不足的股票，并通过借款放大投资敞口。当监管收紧促使基金被动减仓、投资者又集中赎回时，原本看似惊人的投资回报，迅速暴露出资产难以变现的风险。&lt;/p&gt;
-七家资管机构逾百只基金进入清算程序，监管调查同步升级
-&lt;p&gt;土耳其监管机构暂停并下令清算七家资产管理公司的多只投资基金，涉及Tera Portfoy、Pusula Portfoy和Hedef Portfoy等机构。&lt;/p&gt;
-&lt;p&gt;知情人士向一家媒体透露，拟清算基金的投资组合总规模约8910亿里拉，折合约214亿美元，涉及约35.3万名投资者。另一媒体报道，监管机构计划清算的基金规模接近200亿美元。两家媒体的数字略有差异，均显示此次处置范围覆盖相当规模的基金资产。&lt;/p&gt;
-&lt;p&gt;清算之外，监管层还对相关基金暂停交易，并针对涉嫌操纵股价的行为采取措施。彭博社报道称，土耳其资本市场委员会对Tera和Pusula相关管理人员实施交易禁令，涉及Katilimevim、Gundogdu Gida和Destek Finans Faktoring等股票。&lt;/p&gt;
-&lt;p&gt;与此同时，调查已从基金交易扩展至金融机构高层。报道称，Pusula Portfoy董事长Muhammed Yariz被捕，Hedef Holding董事长Namik Kemal Gokalp、Destek Holding大股东Altunc Kumova及Tera Portfoy副首席执行官Ibrahim Bekci遭拘留；Tera Holding董事长Emre Tezmen则被限制出境。&lt;/p&gt;
-&lt;p&gt;这些措施表明，土耳其当局不仅试图缓解赎回压力，也在追查危机背后的交易行为及相关责任。&lt;/p&gt;
-央行加码里拉流动性，银行资本要求同步松绑
-&lt;p&gt;基金清算和调查之外，土耳其央行也迅速采取行动，为市场提供流动性支持。&lt;/p&gt;
-&lt;p&gt;据报道，土耳其央行将回购融资规模提高至3000亿里拉，并将银行在银行间货币市场的借款限额提高至原来的10倍，以确保市场里拉流动性充足。央行还表示，必要时将采取进一步措施。&lt;/p&gt;
-&lt;p&gt;土耳其资本市场委员会还暂时下调了保证金交易的最低权益维持要求：从35%降至20%，措施持续至10月2日。根据监管安排，券商可依据自身风险政策采用较低门槛。&lt;/p&gt;
-&lt;p&gt;银行监管部门则允许在土耳其证券交易所上市的银行，在年底前对股票回购计划享有资本充足率计算方面的临时灵活性。彭博社报道称，银行可将相关回购股票排除在核心资本要求的计算之外。&lt;/p&gt;
-&lt;p&gt;这套政策组合分别针对市场流动性、杠杆交易和银行资本约束，意在降低短期资金压力，避免基金赎回及股票抛售进一步冲击金融体系。&lt;/p&gt;
-三日跌近10%后基准股指反弹，中小盘仍承压
-&lt;p&gt;政策出台后，土耳其股市出现反弹，但修复并不均衡。&lt;/p&gt;
-&lt;p&gt;行情显示，土耳其BIST 100指数周四收涨约3%，因此前连续三个交易日下跌、累跌近10%，本周迄今仍累跌6.9%、或将创2025年3月以来最差单周表现；银行股在政府政策公布后明显反弹，银行股指数周四盘中一度涨9.4%。&lt;/p&gt;
-&lt;p&gt;然而，指数回升并不意味着抛售压力全面消退。&lt;/p&gt;
-&lt;p&gt;在超过550家土耳其上市公司中，有367只个股周四下跌，其中约170只跌幅达到或超过5%；逾百只小盘股接近监管规定的10%日跌幅限制。&lt;/p&gt;
-&lt;p&gt;分析人士指出，基金监管规则调整后，部分流动性较差股票价格大幅下跌，使持有这些股票的基金难以获得现金，继而被迫出售核心持仓以满足赎回需求。&lt;/p&gt;
-&lt;p&gt;市场的分化反映出一个关键问题：监管和央行措施能够缓解整体资金压力，但对于缺乏流动性的个股而言，集中抛售形成的压力仍然存在。&lt;/p&gt;
-Tera成为风暴中心：三年回报逾66000%，高杠杆押注关联公司
-&lt;p&gt;此次危机的焦点之一，是资产管理规模迅速扩张的Tera Portfoy。&lt;/p&gt;
-&lt;p&gt;报道称，Tera由Emre Tezmen创立，管理资产规模约7300亿里拉，约合150亿美元。其旗舰基金过去三年回报率超过66000%，在伊斯坦布尔金融圈备受关注。&lt;/p&gt;
-&lt;p&gt;但这类惊人回报背后，是高度集中的投资策略：基金将数十亿里拉投入一小批关联公司，并通过借入资金放大投资敞口。&lt;/p&gt;
-&lt;p&gt;当持仓集中于公开流通股比例较低、交易深度有限的股票时，资产价格上涨与资金退出能力之间可能出现明显落差。一旦市场转向，基金就可能难以在不显著冲击价格的情况下出售持仓。&lt;/p&gt;
-&lt;p&gt;报道称，Tera周三表示，其货币市场基金和股票基金已无法按要求履行赎回付款；此前一天，Pusula Portfoy也披露了类似困难。&lt;/p&gt;
-&lt;p&gt;Tezmen则在社交媒体上为公司辩护，称部分基金只是出现“暂时性流动性问题”，并指称公司遭到有组织的投机攻击。这是其个人对事件的表述，尚不能据此认定危机成因。&lt;/p&gt;
-监管收紧触发减仓，流动性风险如何演变为市场冲击？
-&lt;p&gt;危机的导火索可追溯至8月。&lt;/p&gt;
-&lt;p&gt;据报道，土耳其监管机构8月收紧了针对股票基金的规则，重点涉及那些集中持有上市公司股票、而相关股票公开流通比例较低的基金。&lt;/p&gt;
-&lt;p&gt;规则变化迫使部分基金出售持仓，市场随之出现退出压力。当基金投资者集中赎回时，管理人需要筹集现金；若持仓股票交易不活跃，卖出又可能进一步压低价格，形成“净值下跌—赎回增加—被迫抛售”的反馈链条。&lt;/p&gt;
-&lt;p&gt;分析人士指出，部分基金在流动性较差的股票上持仓集中，是本轮市场动荡的重要背景。&lt;/p&gt;
-&lt;p&gt;这也让土耳其快速发展的基金行业面临更严格审视：当基金规模扩张、杠杆使用和持仓集中同时发生时，市场繁荣时期的高回报并不必然意味着压力时期能够顺利兑现。&lt;/p&gt;
-财长称风险“暂时且可控”，市场仍等待进一步政策效果
-&lt;p&gt;土耳其金融稳定委员会在财政与财政部长Mehmet Simsek主持的紧急会议后表示，当前问题集中于基金市场的特定领域，性质“暂时且可控”，并否认存在更广泛的结构性风险。&lt;/p&gt;
-&lt;p&gt;但分析人士对后续走势仍保持谨慎。&lt;/p&gt;
-&lt;p&gt;ITC Markets高级外汇分析师Piotr Matys称，央行和监管机构果断回应为股票投资者带来喘息空间，但现在就断言抛售已经结束还为时过早。&lt;/p&gt;
-&lt;p&gt;Tellimer新兴市场股票策略负责人Hasnain Malik则表示，机构之间相互关联的贷款、抵押品及潜在传染风险难以准确预测，不过目前的动荡看起来与宏观经济状况关系不大，不应造成系统性风险。&lt;/p&gt;
-&lt;p&gt;与此同时，MSCI今年6月曾表示，仍关注土耳其股市的股东透明度和协同交易问题，并称若监管改革缺乏可信进展，可能重新评估土耳其市场的相关待遇。&lt;/p&gt;
-&lt;p&gt;土耳其政府当前的政策目标，是将基金赎回危机控制在特定市场领域，避免演变为更广泛的金融系统压力。短期来看，股指和银行股的反弹提供了一定缓冲；但小盘股持续下跌、基金清算规模庞大，以及监管调查不断扩大，都意味着市场信心的修复仍有待观察。&lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对9月FOMC决议的解读与思考</title><link>http://xueqiu.com/5332385101/409576500</link><guid>bb0ee335018b8f8897327af701bd01bed843f57bedb7070eac6c3d0cb85aa7aa</guid><pubDate>Thu, 17 Sep 2026 09:45:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，9月FOMC最终以12票全票通过，将联邦基金利率目标区间上调25个基点至3.75%——4.00%，这也是美联储三年来首次加息。&lt;/p&gt;</description></item><item><title>[今日雪球] 61指数温度重大更新，让决策更有效？（09.17）</title><link>http://xueqiu.com/9391624441/409591185</link><guid>90ed5d034a26524ceaa1faaee2551533f4bfc070c8f8f596037731abf2037928</guid><pubDate>Thu, 17 Sep 2026 09:45:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;指数温度到底是怎么计算的？这上一期一个朋友的留言。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;英国央行近期研究显示，量化紧缩已推动10年期英国国债收益率上升约20至30个基点。据报道，英国央行或考虑停止长期限国债的主动出售，以避免干扰政府债券发行计划。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对9月FOMC决议的解读与思考</title><link>http://xueqiu.com/5332385101/409576500</link><guid>bb0ee335018b8f8897327af701bd01bed843f57bedb7070eac6c3d0cb85aa7aa</guid><pubDate>Thu, 17 Sep 2026 09:45:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，9月FOMC最终以12票全票通过，将联邦基金利率目标区间上调25个基点至3.75%——4.00%，这也是美联储三年来首次加息。&lt;/p&gt;</description></item><item><title>[今日雪球] 61指数温度重大更新，让决策更有效？（09.17）</title><link>http://xueqiu.com/9391624441/409591185</link><guid>90ed5d034a26524ceaa1faaee2551533f4bfc070c8f8f596037731abf2037928</guid><pubDate>Thu, 17 Sep 2026 09:45:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;指数温度到底是怎么计算的？这上一期一个朋友的留言。&lt;/p&gt;</description></item></channel></rss>
