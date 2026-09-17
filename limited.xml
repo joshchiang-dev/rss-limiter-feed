@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 23:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 日元156告破，日本央行被迫提前紧缩的临界点到了？</title><link>https://wallstreetcn.com/articles/3781999</link><guid>4bf16a8231640f2dc014715391a42550e78baf8ec99d18d27df43007283c4eda</guid><pubDate>Thu, 17 Sep 2026 11:41:04 GMT</pubDate><description>&lt;p&gt;美元兑日元跌破156关口，日本央行加息压力进一步上升。美联储加息25个基点并释放鹰派信号后，美日利差扩大的预期重新升温，日元一度下跌1%至156.42。&lt;/p&gt;
-&lt;p&gt;与此同时，日本央行9月17日至18日政策会议临近，市场对加息的预期已接近确定。&lt;strong&gt;隔夜指数掉期市场显示，日本央行将基准利率从1%上调25个基点的概率达到98.2%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在加息25个基点几乎被市场完全计价的情况下，投资者关注的重点已经转向植田和男会释放怎样的政策信号。&lt;strong&gt;市场将重点观察日本央行是否暗示后续连续加息，甚至是否存在一次性加息50个基点的可能。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;日元再度走弱也增加了日本央行的政策压力。汇率贬值会推高进口成本，进一步向国内物价传导；而如果日本央行加息力度低于预期，日元又可能继续承压。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-美日利差压力重新升温，日本央行加息已近乎板上钉钉
-&lt;p&gt;据彭博报道，美联储在结束为期两天的联邦公开市场委员会会议后宣布加息25个基点。美联储主席Kevin Warsh表示，通胀仍然过高且持续时间过长，暗示未来仍存在进一步加息的可能。&lt;/p&gt;
-&lt;p&gt;美联储重新收紧货币政策，强化了美日利差扩大的预期。&lt;strong&gt;ACCM研究主管Glen Yin表示，日本面临较大压力，需要通过加息和释放鹰派信号减轻日元贬值冲击；如果日本央行政策力度低于市场预期，日元短期向160关口移动的风险将上升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，日本央行加息25个基点的概率已达98.2%，因此本次会议的核心变量并非是否加息，而是植田会后的表态以及对后续加息节奏的指引。若日本央行释放连续加息信号，市场对日元和日本国债的定价都可能随之调整。&lt;/p&gt;
-&lt;p&gt;日本央行此前通过负利率、收益率曲线控制和大规模购债，在美联储加息周期中压低国内融资成本，部分缓冲了美国利率变化的冲击。随着这些非常规政策于2024年退出，美国利率变化如今能够更加直接地传导至日本汇率和债券市场。&lt;/p&gt;
-&lt;p&gt;在这一背景下，日元跌破156不仅是汇率层面的变化，也进一步凸显了日本央行加快货币政策正常化所面临的压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑</title><link>https://wallstreetcn.com/articles/3782022</link><guid>211e5bfa90793e7c5a8608540e06f685db3048c6df196032221031d3b75d8374</guid><pubDate>Thu, 17 Sep 2026 21:13:33 GMT</pubDate><description>&lt;p&gt;9月17日，Anthropic旗下编程助手Claude Code正式推出Projects功能重大升级，将AI辅助开发从单次对话模式升级为多线程自动化工作流，标志着AI编程工具向自主项目管理迈出实质性一步。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 23:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑</title><link>https://wallstreetcn.com/articles/3782022</link><guid>211e5bfa90793e7c5a8608540e06f685db3048c6df196032221031d3b75d8374</guid><pubDate>Thu, 17 Sep 2026 21:13:33 GMT</pubDate><description>&lt;p&gt;9月17日，Anthropic旗下编程助手Claude Code正式推出Projects功能重大升级，将AI辅助开发从单次对话模式升级为多线程自动化工作流，标志着AI编程工具向自主项目管理迈出实质性一步。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本次更新的核心增量在于执行方式：用户不再需要逐个开启对话、手动跟踪每个子任务，只需描述&amp;quot;需要做什么&amp;quot;，Claude 就会拆解任务、分配线程、并行推进。官方公告称，&lt;strong&gt;这些线程在用户关闭笔记本电脑后仍会继续工作。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Anthropic表示，该功能目前以测试版向部分Claude Pro和Max订阅用户开放。未来数周内将逐步扩大访问权限，并最终覆盖Team和Enterprise计划用户。&lt;/strong&gt;&lt;/p&gt;
@@ -168,7 +158,18 @@
 &lt;p&gt;&lt;strong&gt;现货白银&lt;/strong&gt;涨3.83%至65.66美元/盎司，盘中一度涨5%至66.13美元。&lt;/p&gt;
 &lt;p&gt;High Ridge Futures金属交易主管David Meger表示，黄金近期与能源价格保持着紧密的反向关系，能源价格当天大幅回落，正是这些更低的能源价格卸下了压在黄金市场身上的一部分压力。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;回到76677美元附近，从前一日美联储会议期间的沉寂中恢复。周五市场将面临日本央行议息与三重巫日两个变量，日本央行被广泛预期将在9月18日加息。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期TIPS拍卖得标利率创2008年危机来最高，财政赤字与企业债务扩张引关注</title><link>https://wallstreetcn.com/articles/3782019</link><guid>cc5ba075e86e50becbad11aa7f24d2e06a125631b7df54f68191166788b1f508</guid><pubDate>Thu, 17 Sep 2026 20:43:30 GMT</pubDate><description>&lt;p&gt;美国财政部周四发行190亿美元10年期通胀保值国债（TIPS），&lt;strong&gt;中标实际收益率升至2.653%，创2008年以来最高&lt;/strong&gt;，且高于发行前市场水平，显示投资者对这批国债要求更高的实际回报。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北汽极狐再攻15万元级市场</title><link>https://wallstreetcn.com/articles/3782006</link><guid>41bcef15ac77c0556263a97f50904caae664ab411efd75d55c9862fcff34e481</guid><pubDate>Thu, 17 Sep 2026 13:22:32 GMT</pubDate><description>&lt;p&gt;北汽极狐补齐了其大五座SUV的产线空白。&lt;/p&gt;
+&lt;p&gt;9月16日，北汽极狐推出阿尔法T7，共有9款车型，官方指导价13.68万至17.28万元，上市补贴价13.28万至16.88万元。新车提供纯电、增程两种动力，部分版本搭载华为乾崑ADS 5 Pro辅助驾驶系统。&lt;/p&gt;
+&lt;p&gt;阿尔法T7进入的是当前新能源汽车销量最集中的市场。&lt;/p&gt;
+&lt;p&gt;2025年，国内10万至20万元新能源车型销量达到694.1万辆，同比增长24%；其中10万至15万元车型销量354.9万辆，同比增长59.5%。这一价格带覆盖首购、家庭增购等需求，市场容量大，也汇集了车企最密集的产品投放。&lt;/p&gt;
+&lt;p&gt;过去，15万元级新能源SUV主要围绕价格、续航和使用成本竞争。随着电池、智能驾驶硬件和电子电气架构成本下降，大尺寸车身、800V平台和城区领航辅助驾驶开始进入这一市场。零跑C11、深蓝S07、比亚迪宋Ultra等车型持续更新，产品竞争由单项参数转向空间、补能、智能化与渠道服务的综合较量。&lt;/p&gt;
+&lt;p&gt;阿尔法T7延续了北汽极狐向主流家用市场扩展的产品思路。此前，北汽极狐已经通过T1、T5和S5等车型覆盖小型车、中型SUV及轿车市场。T7补充了一款大五座SUV，并以纯电、增程双动力扩大用户范围。&lt;/p&gt;
+&lt;p&gt;从参数看，阿尔法T7车长5020毫米、轴距3040毫米。增程版CLTC纯电续航320公里，综合续航1315公里；纯电版提供650公里和715公里两种续航，并采用800V高压平台。9款车型中有4款乾崑版，华为乾崑ADS 5 Pro可提供城区领航、高速领航及泊车辅助等功能。&lt;/p&gt;
+&lt;p&gt;北汽极狐近年来的销量基盘也在扩大。2025年，品牌销量达到16.10万辆，同比增长98.68%。今年1至7月，累计交付10.41万辆，同比增长80.25%；7月交付2.35万辆，同比增长150.45%。产品数量增加后，北汽极狐的增长重点正在从单款车型上量，转向多车型共同支撑。&lt;/p&gt;
+&lt;p&gt;从母公司经营情况看，今年上半年北汽蓝谷销量9.89万辆，同比增长47.27%；营业收入115.97亿元，同比增长21.86%。归母净亏损由上年同期的23.08亿元收窄至19.38亿元。销量增长和产品结构调整正在推动亏损收窄，阿尔法T7进入主流价格带后，将进一步承担扩大规模的任务。&lt;/p&gt;
+&lt;p&gt;北汽极狐称，阿尔法T7预售21天订单超过6万辆。为承接新品上市，公司已将全国经销店扩展至700家以上，并计划在年底前把售后服务网络扩大至1000家以上。对于面向家庭用户的主流车型，门店密度和售后覆盖有助于提高试驾、交付和维保效率。&lt;/p&gt;
+&lt;p&gt;阿尔法T7的上市进一步增加了15万元级新能源SUV的产品密度。这款车补齐了大尺寸主流SUV产品，并将华为辅助驾驶、双动力和长续航带入品牌的走量区间。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期TIPS拍卖得标利率创2008年危机来最高，财政赤字与企业债务扩张引关注</title><link>https://wallstreetcn.com/articles/3782019</link><guid>cc5ba075e86e50becbad11aa7f24d2e06a125631b7df54f68191166788b1f508</guid><pubDate>Thu, 17 Sep 2026 20:43:30 GMT</pubDate><description>&lt;p&gt;美国财政部周四发行190亿美元10年期通胀保值国债（TIPS），&lt;strong&gt;中标实际收益率升至2.653%，创2008年以来最高&lt;/strong&gt;，且高于发行前市场水平，显示投资者对这批国债要求更高的实际回报。&lt;/p&gt;
 &lt;p&gt;具体来看，本次TIPS中标收益率为2.653%，较纽约时间下午1点投标截止时的发行前交易收益率（WI）高约1.9个基点。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;投标倍数为2.24，低于前三次标售平均的2.43，表明需求较此前有所降温。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从投资者结构来看，一级交易商获配比例升至12.2%，高于此前三次拍卖；间接投标人获配比例降至59.1%，直接投标人获配比例则升至28.7%。&lt;/p&gt;
@@ -188,18 +189,7 @@
 &lt;p&gt;上一次10年期TIPS拍卖实际收益率超过此次结果是在2008年10月，彼时收益率为2.85%，正值全球金融危机最为严峻的时刻。&lt;/p&gt;
 &lt;p&gt;与2008年不同，当前并无明显的系统性金融危机迹象，但美国政府及企业借贷规模的快速扩张已引发市场关注。&lt;/p&gt;
 &lt;p&gt;实际和名义收益率同步走高，本质上反映的是通胀未能有效受控、以及财政赤字持续扩大的市场预期。&lt;/p&gt;
-&lt;p&gt;该TIPS将于11月19日进行下一次再开标拍卖，新一轮10年期TIPS发行则定于2027年1月21日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北汽极狐再攻15万元级市场</title><link>https://wallstreetcn.com/articles/3782006</link><guid>41bcef15ac77c0556263a97f50904caae664ab411efd75d55c9862fcff34e481</guid><pubDate>Thu, 17 Sep 2026 13:22:32 GMT</pubDate><description>&lt;p&gt;北汽极狐补齐了其大五座SUV的产线空白。&lt;/p&gt;
-&lt;p&gt;9月16日，北汽极狐推出阿尔法T7，共有9款车型，官方指导价13.68万至17.28万元，上市补贴价13.28万至16.88万元。新车提供纯电、增程两种动力，部分版本搭载华为乾崑ADS 5 Pro辅助驾驶系统。&lt;/p&gt;
-&lt;p&gt;阿尔法T7进入的是当前新能源汽车销量最集中的市场。&lt;/p&gt;
-&lt;p&gt;2025年，国内10万至20万元新能源车型销量达到694.1万辆，同比增长24%；其中10万至15万元车型销量354.9万辆，同比增长59.5%。这一价格带覆盖首购、家庭增购等需求，市场容量大，也汇集了车企最密集的产品投放。&lt;/p&gt;
-&lt;p&gt;过去，15万元级新能源SUV主要围绕价格、续航和使用成本竞争。随着电池、智能驾驶硬件和电子电气架构成本下降，大尺寸车身、800V平台和城区领航辅助驾驶开始进入这一市场。零跑C11、深蓝S07、比亚迪宋Ultra等车型持续更新，产品竞争由单项参数转向空间、补能、智能化与渠道服务的综合较量。&lt;/p&gt;
-&lt;p&gt;阿尔法T7延续了北汽极狐向主流家用市场扩展的产品思路。此前，北汽极狐已经通过T1、T5和S5等车型覆盖小型车、中型SUV及轿车市场。T7补充了一款大五座SUV，并以纯电、增程双动力扩大用户范围。&lt;/p&gt;
-&lt;p&gt;从参数看，阿尔法T7车长5020毫米、轴距3040毫米。增程版CLTC纯电续航320公里，综合续航1315公里；纯电版提供650公里和715公里两种续航，并采用800V高压平台。9款车型中有4款乾崑版，华为乾崑ADS 5 Pro可提供城区领航、高速领航及泊车辅助等功能。&lt;/p&gt;
-&lt;p&gt;北汽极狐近年来的销量基盘也在扩大。2025年，品牌销量达到16.10万辆，同比增长98.68%。今年1至7月，累计交付10.41万辆，同比增长80.25%；7月交付2.35万辆，同比增长150.45%。产品数量增加后，北汽极狐的增长重点正在从单款车型上量，转向多车型共同支撑。&lt;/p&gt;
-&lt;p&gt;从母公司经营情况看，今年上半年北汽蓝谷销量9.89万辆，同比增长47.27%；营业收入115.97亿元，同比增长21.86%。归母净亏损由上年同期的23.08亿元收窄至19.38亿元。销量增长和产品结构调整正在推动亏损收窄，阿尔法T7进入主流价格带后，将进一步承担扩大规模的任务。&lt;/p&gt;
-&lt;p&gt;北汽极狐称，阿尔法T7预售21天订单超过6万辆。为承接新品上市，公司已将全国经销店扩展至700家以上，并计划在年底前把售后服务网络扩大至1000家以上。对于面向家庭用户的主流车型，门店密度和售后覆盖有助于提高试驾、交付和维保效率。&lt;/p&gt;
-&lt;p&gt;阿尔法T7的上市进一步增加了15万元级新能源SUV的产品密度。这款车补齐了大尺寸主流SUV产品，并将华为辅助驾驶、双动力和长续航带入品牌的走量区间。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 私募信贷违约率：1%、6%还是19%，取决于你问谁</title><link>https://wallstreetcn.com/articles/3782027</link><guid>b33144163ffc0fc6a8cad87798dc037001ff1928aea0fc8d3603dd2777a07d2d</guid><pubDate>Thu, 17 Sep 2026 21:54:07 GMT</pubDate><description>&lt;p&gt;私募信贷市场不同机构给出的违约率从不足1%到近19%不等，巨大落差不仅揭示了这一规模达1.8万亿美元资产类别的数据透明度困境，也在零售投资者加速撤资之际，令市场对风险的判断愈发复杂。&lt;/p&gt;
+&lt;p&gt;该TIPS将于11月19日进行下一次再开标拍卖，新一轮10年期TIPS发行则定于2027年1月21日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 私募信贷违约率：1%、6%还是19%，取决于你问谁</title><link>https://wallstreetcn.com/articles/3782027</link><guid>b33144163ffc0fc6a8cad87798dc037001ff1928aea0fc8d3603dd2777a07d2d</guid><pubDate>Thu, 17 Sep 2026 21:54:07 GMT</pubDate><description>&lt;p&gt;私募信贷市场不同机构给出的违约率从不足1%到近19%不等，巨大落差不仅揭示了这一规模达1.8万亿美元资产类别的数据透明度困境，也在零售投资者加速撤资之际，令市场对风险的判断愈发复杂。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;惠誉评级本周将私募信贷违约率上调至创纪录的6.3%，&lt;/strong&gt;信用评级机构KBRA的最新数据同样指向新高。&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;太平洋投资管理公司（Pimco）自建的&amp;quot;影子&amp;quot;违约率指标显示，面向零售投资者的商业发展公司（BDC）违约率已从2022年的约14%攀升至19%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;而投资银行Houlihan Lokey的测算则截然相反——若以贷款规模加权计算，违约率仍低于1%，因为体量最大的借款人依然表现稳健。&lt;/strong&gt;&lt;/p&gt;
@@ -230,23 +220,7 @@
 &lt;p&gt;对于投资者而言，更关键的问题或许不是违约率的精确数值，而是压力上升何时开始侵蚀回报，乃至威胁更广泛的金融体系稳定。&lt;/p&gt;
 &lt;p&gt;ING Groep NV信用策略师Timothy Rahill表示，考虑到私募信贷天然面向高杠杆借款人，管理人或能承受8%至9%的违约率。&lt;strong&gt;但若在重大经济冲击后违约率向12%至15%攀升，&amp;quot;那时系统性风险的问题就会真正摆上台面&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Credit Benchmark的研究则揭示了另一层矛盾：过去两年，BDC的平均风险评估下降了5%，而其底层持仓的违约风险却同期上升了12%——两组数据的背离，本身便是当前私募信贷市场估值与风险认知之间裂痕的缩影。&lt;/p&gt;
-&lt;p&gt;高杠杆企业在低息时代大举融资，如今面临的融资成本或将长期维持高位，通胀与地缘政治风险的交织也令利率前景愈加扑朔迷离。在这一背景下，厘清私募信贷市场的真实违约水平，已不再是学术讨论，而是直接关乎投资者资产配置决策的现实命题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 需求担忧缓解，iPhone 18系列预售交货期延长</title><link>https://wallstreetcn.com/articles/3782003</link><guid>b048ae46669286a56ff7cc83291868fa8d242ed70df74902c74ef9bdbc5bf2bb</guid><pubDate>Thu, 17 Sep 2026 11:51:53 GMT</pubDate><description>&lt;p&gt;iPhone 18 Pro系列预售交货期在开售首周中段出现显著扩张，与去年同期基本持平，此前市场对需求疲软的担忧正在消退。&lt;/p&gt;
-&lt;p&gt;据摩根大通9月17日发布的产品可用性追踪报告，iPhone 18 Pro和18 Pro Max的全球平均交货期自9月12日预售首日至9月16日周中检查节点，&lt;strong&gt;分别扩张12天和7天&lt;/strong&gt;，Pro Max交货期已与去年iPhone 17周期持平，Pro机型也大幅收窄差距。&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Samik Chatterjee认为，&lt;strong&gt;首周交货期偏短反映的是初始备货向高端机型集中配置的结果，而非需求疲软信号，随后的交货期扩张与需求消化库存的节奏相符。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;苹果股价截至9月16日报332.41美元，摩根大通维持&amp;quot;增持&amp;quot;评级。&lt;/p&gt;
-交货期扩张幅度超越去年同期
-&lt;p&gt;据摩根大通数据，iPhone 18 Pro和18 Pro Max在预售首日后的四天内，交货期分别扩张12天和7天，明显超过去年iPhone 17 Pro和17 Pro Max同期扩张的5天和2天。&lt;/p&gt;
-&lt;p&gt;从绝对水平看，截至9月16日周中检查节点，18 Pro和18 Pro Max的全球平均到家交货期分别为19天和26天，而去年同期17 Pro和17 Pro Max的对应数据分别为20天和26天，两者已基本持平。&lt;/p&gt;
-&lt;p&gt;此外，&lt;strong&gt;早期预售中不同颜色版本交货期存在明显分化的现象已基本消失。&lt;/strong&gt;此前在美国，Glacier、Silver和Black Pro等颜色可在9月18日正式发售当天到货，而其他颜色则需等待更长时间；截至周中检查节点，所有颜色在摩根大通追踪的每个市场均已报出相同的交货窗口。&lt;/p&gt;
-美国与欧洲均小幅领先去年同期
-&lt;p&gt;在美国市场，18 Pro和18 Pro Max的交货期分别为17天和24天，高于预售首日的2天和22天，也略超去年同期17 Pro和17 Pro Max的16天和23天。美国约占iPhone全球出货量的34%。门店自提方面，18 Pro全部颜色版本均可在9月18日发售当天到店取货，18 Pro Max则暂无门店自提选项。&lt;/p&gt;
-&lt;p&gt;欧洲方面，德国18 Pro和18 Pro Max交货期分别升至18天和25天，高于去年同期的16天和24天，小幅领先；英国两款机型交货期分别为17天和24天，与去年同期持平。德国和英国分别约占iPhone全球出货量的3%和4%。&lt;/p&gt;
-中国市场仍是最大同比缺口
-&lt;p&gt;中国市场是目前各追踪地区中同比差距最为显著的市场。截至9月16日&lt;strong&gt;，18 Pro和18 Pro Max在中国的交货期分别为25天和29天，虽较预售首日的13天和21天有所扩张，但仍明显低于去年同期17 Pro和17 Pro Max各32天的水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;门店自提方面，中国市场18 Pro和18 Pro Max均无法在门店取货。中国约占iPhone全球出货量的19%。摩根大通指出，&lt;strong&gt;中国市场的同比差距较首周有所收窄，但仍是当前需求追踪中的主要隐忧。&lt;/strong&gt;&lt;/p&gt;
-iPhone Duo预计10月16日开启预售
-&lt;p&gt;摩根大通在报告中提及，iPhone 18系列中的Duo机型将于10月16日开启预售，目前尚未纳入本次交货期追踪范围。当前的交货期数据主要反映18 Pro和18 Pro Max两款机型的市场需求状况。&lt;/p&gt;
-&lt;p&gt;摩根大通表示，将持续追踪各地区交货期数据，以评估iPhone 18系列整体需求走势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Claude已“主导”Anthropic 26% AI研发工作，3万Agent同时上岗，RSI仍未实现</title><link>https://wallstreetcn.com/articles/3782030</link><guid>ebdd1f5bab8134550b6ecf2adce33e2392e9d8b1a48616637ba0ad0a431696e2</guid><pubDate>Thu, 17 Sep 2026 22:04:41 GMT</pubDate><description>&lt;p&gt;AI正在越来越多地参与开发下一代AI。&lt;/p&gt;
+&lt;p&gt;高杠杆企业在低息时代大举融资，如今面临的融资成本或将长期维持高位，通胀与地缘政治风险的交织也令利率前景愈加扑朔迷离。在这一背景下，厘清私募信贷市场的真实违约水平，已不再是学术讨论，而是直接关乎投资者资产配置决策的现实命题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Claude已“主导”Anthropic 26% AI研发工作，3万Agent同时上岗，RSI仍未实现</title><link>https://wallstreetcn.com/articles/3782030</link><guid>ebdd1f5bab8134550b6ecf2adce33e2392e9d8b1a48616637ba0ad0a431696e2</guid><pubDate>Thu, 17 Sep 2026 22:04:41 GMT</pubDate><description>&lt;p&gt;AI正在越来越多地参与开发下一代AI。&lt;/p&gt;
 &lt;p&gt;当地时间周四，Anthropic公布了一组用于追踪前沿AI实验室研发进展的新指标。数据显示，&lt;strong&gt;截至今年8月，Claude已经“主导”Anthropic约26%的AI研发工作；与此同时，约3万个AI Agent在该公司同时开展研究和工程工作。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，Anthropic的数据也显示，AI距离完全自主开展AI研发仍有明显距离。&lt;strong&gt;截至8月，Claude尚未在任何被测AI研发工作中达到完全自主运行的水平。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic表示，希望通过持续披露这些指标，缩小前沿AI实验室内部实际进展与公众所能了解的信息之间的差距。&lt;/p&gt;
@@ -293,4 +267,39 @@ AI研发越自动化，安全问题越受关注
 &lt;p&gt;Staunovo写道：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我们认为黄金的长期投资价值依然正面，价格若回落至4000美元附近，将提供增持的良机。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX考虑从倒闭初创公司购买数据，为Grok AI模型扩充训练资源</title><link>https://wallstreetcn.com/articles/3782023</link><guid>b36e8425cfe44efb3924414e8b293fdf260ac80c9fadd64d6c9e7a958ae81b2b</guid><pubDate>Thu, 17 Sep 2026 21:03:56 GMT</pubDate><description>&lt;p&gt;SpaceX正在探索从陷入困境或已倒闭的初创企业购买数据，以更低成本扩充其人工智能模型的训练资源。这一策略标志着该公司在AI数据获取方式上的重要转变，也折射出其在AI军备竞赛中加速追赶的迫切态势。&lt;/p&gt;
+&lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;SpaceX旗下AI部门SpaceXAI内部已就此展开讨论，目标是收购问题初创企业的客户信息及运营数据。相关讨论目前仍属非正式性质，尚未确定是否会达成实际交易。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SpaceXAI的上述做法与谷歌此前的操作如出一辙——谷歌曾在廉价航空公司Spirit Airlines停止运营后，出价1000万美元购买其业务数据用于AI训练，尽管此举引发了部分前机组人员的数据隐私质疑。&lt;/p&gt;
+&lt;p&gt;马斯克在近期一次内部会议上向SpaceX员工表示，&lt;strong&gt;&amp;quot;我们将用SpaceX所有信息的总和来训练Grok，它将以你们为师。&amp;quot;&lt;/strong&gt;这番表态表明，外部数据采购与内部数据挖掘将并行推进，共同服务于Grok模型的迭代升级。&lt;/p&gt;
+&lt;p&gt;周四，SpaceX收涨2.6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+争夺AI市场，Grok面临激烈竞争
+
+&lt;p&gt;SpaceX目前正全力推进AI业务，试图在与Anthropic、OpenAI等头部机构的竞争中争夺更多企业客户。高质量训练数据是提升AI模型在各类任务上表现的核心要素，也是各家AI公司争夺的关键资源。&lt;/p&gt;
+&lt;p&gt;SpaceXAI此前主要依赖马斯克旗下社交平台X的数据，以及内部&amp;quot;AI导师&amp;quot;团队来训练和优化模型。此次考虑引入外部数据集，是对原有数据战略的一次明显拓展。&lt;/p&gt;
+&lt;p&gt;值得注意的是，知情人士透露SpaceXAI仍在继续使用内部导师团队，协助工程师提升AI系统在金融、科学乃至幽默等专业领域的能力。&lt;/p&gt;
+
+&amp;quot;AI导师&amp;quot;团队经历动荡，管理架构重整
+
+&lt;p&gt;SpaceXAI于今年6月暂停了AI导师岗位的招聘，随后更换了团队领导层。在Starlink卫星互联网服务部门工作多年的Jack Garabedian接任团队负责人，接替了前任工程师Diego Pasini。&lt;/p&gt;
+&lt;p&gt;Garabedian上任后着力平息团队内部的不满情绪，通过建立工作流程、定期会议机制以及明确AI训练数据目标等方式，逐步稳定团队运营。&lt;/p&gt;
+&lt;p&gt;据悉数据团队在7月份的工作简报中总结了阶段性成果，包括在新AI模型和代码智能体方面取得的进展。简报写道：&amp;quot;这些成果的落地，离不开这个团队每天默默进行的精细标注、偏好对齐与验证工作。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 城堡证券：美股最坏时刻将过，AI板块将在10月领涨</title><link>https://wallstreetcn.com/articles/3782012</link><guid>bf01892ee8481a0acd1a94262cacf6cfd78d7d9798fc2daaa132327b8c1b3602</guid><pubDate>Thu, 17 Sep 2026 15:52:00 GMT</pubDate><description>&lt;p&gt;城堡证券策略师Scott Rubner认为，美股正处于阶段性低点，市场结构开始向好转变，投资者应把握月底前的进一步回调窗口，逢低增持核心资产。&lt;/p&gt;
+&lt;p&gt;Rubner在致客户报告中表示，尽管9月弱势尚未结束，未来两周股市仍可能继续承压，但市场的供需格局正悄然改变。他预计，&lt;strong&gt;此前受重创的人工智能板块将率先在10月企稳回升，随后带动更广泛市场跟进。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，标普500指数9月累计下跌约1.8%，较8月中旬高点回落3.2%，指数11个板块中有9个本月录得跌幅。Rubner指出，&lt;strong&gt;此轮回撤&amp;quot;表现为结构性轮动，而非无序抛售&amp;quot;，这一特征为后市反弹奠定了基础。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当前华尔街对美股后市判断存在分歧。美国银行策略师Savita Subramanian近期上调了标普500年终目标价，而被视为华尔街知名多头的Ed Yardeni则在风险累积背景下下调了预测。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+9月仍有下行风险，但布局时机临近
+
+&lt;p&gt;Rubner明确表示，月底前的技术面和供需格局仍不利于股市。&amp;quot;月底的供需结构依然不利，技术面仍在制约股价，未来两周美股仍有下行空间。&amp;quot;他在报告中写道，&amp;quot;但格局正在开始转变。&amp;quot;&lt;/p&gt;
+&lt;p&gt;这一判断延续了他约三周前的预警逻辑。彼时，Rubner与多位市场人士共同示警，提醒投资者防范9月这一历史上美股表现最差月份的季节性压力，并建议进行短期战术性仓位重置，同时维持对股市的长期乐观立场。&lt;/p&gt;
+&lt;p&gt;城堡证券基于1930年以来的回测分析显示，&lt;strong&gt;标普500指数在9月最后两周平均下跌约1.1%，随后在10月展开复苏，且反弹动能在大选日前后持续加速。在历次中期选举年中，从9月30日低点至年底，标普500平均累计涨幅达5.6%。&lt;/strong&gt;&lt;/p&gt;
+
+AI板块&amp;quot;过剩&amp;quot;已消化，科技股有望领涨
+
+&lt;p&gt;&lt;strong&gt;Rubner认为，近期人工智能概念股的集中抛售已基本消化了板块内的估值&amp;quot;泡沫&amp;quot;，为后续反弹创造了条件。&lt;/strong&gt;以科技股为重心的纳斯达克100指数近七个交易日中有五日下跌，较6月初高点已累计下挫近6%。&lt;/p&gt;
+&lt;p&gt;这轮AI股调整的导火索，在于市场对该技术潜在能力的忧虑情绪急剧升温，导致投资者仓位和杠杆水平明显压缩。Rubner指出，这一势头正为反转积累动能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;三个月前，风险在于所有人都挤在同一笔交易里，&amp;quot;他写道，&amp;quot;而如今，风险在于所有人都已站到了同一边——看空。&amp;quot;&lt;/strong&gt;这种极度一致的悲观预期本身，恰恰构成了潜在的反向催化剂。&lt;/p&gt;
+&lt;p&gt;他补充称，科技与通信服务股合计占标普500总市值约五成，一旦人工智能领域的领涨态势在财报季得到印证并扩散，&amp;quot;反弹幅度将有望远超第一波行情的领涨个股范畴&amp;quot;。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
