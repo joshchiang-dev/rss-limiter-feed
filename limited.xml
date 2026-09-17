@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 04:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指集体冲高回落，CRO、创新药大涨，贵金属下挫，恒科指盘中跌超1%，AI大模型股双雄反弹</title><link>https://wallstreetcn.com/articles/3781953</link><guid>854111c51af1af553e928c782dfdc4968f117173fd914952b6287214fec7cdd7</guid><pubDate>Thu, 17 Sep 2026 04:01:01 GMT</pubDate><description>&lt;p&gt;在美联储偏鹰加息的冲击下，A股和港股市场风险情绪承压，但A股市场结构性主线清晰：创新药、汽车整车与玻纤电子布逆势活跃，前期强势的黄金股则集体重挫。港股AI大模型股反弹，智谱盘中涨7%，得益于智谱9月16日表示，有信心将年末ARR（年度经常性收入）指引从24亿美元上调至30亿美元。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 05:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指集体冲高回落，CRO、创新药大涨，贵金属下挫，恒科指盘中跌超1%，AI大模型股双雄反弹</title><link>https://wallstreetcn.com/articles/3781953</link><guid>854111c51af1af553e928c782dfdc4968f117173fd914952b6287214fec7cdd7</guid><pubDate>Thu, 17 Sep 2026 04:01:01 GMT</pubDate><description>&lt;p&gt;在美联储偏鹰加息的冲击下，A股和港股市场风险情绪承压，但A股市场结构性主线清晰：创新药、汽车整车与玻纤电子布逆势活跃，前期强势的黄金股则集体重挫。港股AI大模型股反弹，智谱盘中涨7%，得益于智谱9月16日表示，有信心将年末ARR（年度经常性收入）指引从24亿美元上调至30亿美元。&lt;/p&gt;
 &lt;p&gt;9月17日，A股早盘集体低开，三大股指盘初一度上冲，创业板涨超1%，随后震荡回落，生物医药板块大涨，CRO、减肥药、创新药等集体拉升，玻璃纤维、玻璃基板、电子布等概念股活跃，贵金属、油气股等纷纷调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指早盘双双跌超1%，科网股集体下挫，美团、阿里、腾讯、网易、百度等权重科网股齐跌，AI大模型股逆势反弹，智谱一度涨7%，MINIMAX同样大涨。债市方面，国债期货震荡上涨。商品方面，国内商品期货涨跌不一。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -70,39 +70,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数低开0.94%，恒生科技指数跌1.03%。小米、美团、腾讯控股、百度集体调整。京东健康跌超2%，携程、阿里健康、美团跌1.9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GPU云服务掀涨价潮：Nebius再提价20%，算力供给侧迎议价权反转</title><link>https://wallstreetcn.com/articles/3781962</link><guid>f9397a8c864fe60dc81bcb81fc1fc5f8d0a459bff0afc3e1b86d4746c0065232</guid><pubDate>Thu, 17 Sep 2026 04:05:30 GMT</pubDate><description>&lt;p&gt;Nebius宣布将于10月1日起全面上调旗下GPU云服务定价，平均涨幅约20%，叠加英伟达发布强劲季度财报，推动该股盘后大涨近7%，AI算力供需格局持续偏紧的市场判断进一步获得印证。&lt;/p&gt;
-&lt;p&gt;此轮提价覆盖H100、H200、B200及B300多款芯片型号，是Nebius今年5月以来的第二轮涨价。市场将此解读为AI算力需求持续过热、供给仍然紧张的强烈信号，受此提振，Coreweave盘后续涨近4%，光通信板块亦普遍走强，AAOI、Credo Technology涨近3%，迈威尔科技、Astera Labs涨超2%，Coherent涨近2%。&lt;/p&gt;
-&lt;p&gt;涨价消息与英伟达亮眼业绩指引高度重合，进一步强化了市场对AI数据中心建设周期延续的信心，带动整个云计算与算力基础设施板块情绪全面回暖。与此同时，数据中心运营商的议价能力正在上升，合同条款的天平开始向供给侧倾斜，行业格局正在悄然生变。&lt;/p&gt;
-
-涨价细节：多款GPU型号价格大幅上调
-
-&lt;p&gt;根据X平台用户流传的定价截图，此轮调价幅度显著。H100每GPU小时价格从3.85美元上调至4.50美元，涨幅约16.9%；H200从4.50美元升至5.40美元，涨幅20%；B200从7.15美元升至8.50美元，涨幅约18.9%；B300则从7.85美元升至9.50美元，涨幅约21%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这已是Nebius数月内的第二轮提价。今年5月，该公司曾宣布对按需容量平均提价29%，对可抢占容量提价51%。&lt;strong&gt;若以B300为例，其价格从5月前的约6.10美元/小时计算，至今累计涨幅已达约56%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nebius在5月发给客户的邮件中表示，调价&amp;quot;反映了对高端GPU算力持续强劲的需求，即便在更新定价后，Nebius仍能提供市场上最具竞争力的GPU基础设施价格之一&amp;quot;。据Stocktwits报道，截至发稿，Nebius方面尚未就最新一轮涨价传闻作出公开回应。&lt;/p&gt;
-
-供需逻辑：需求能见度超24个月，容量持续告急
-
-&lt;p&gt;市场分析人士指出，此轮涨价背后折射出更深层的供需逻辑。据X平台用户@MelvinInvests分析，Nebius此前曾尝试手动调价，但管理层表示需求之强劲使价格调整仍不足以平衡供需。随后，公司对稀缺的Blackwell算力进行拍卖测试，客户实际支付价格比此前最高定价高出15%至20%，以确保获得访问权限。&lt;/p&gt;
-&lt;p&gt;该分析人士还指出，Nebius管理层透露，已有客户预订2028年一季度和二季度的算力，部分订单涉及数万块GPU，公司当前的需求能见度已超过24个月，较此前约18个月明显拉长。&lt;/p&gt;
-&lt;p&gt;值得关注的是，此次涨价同时覆盖较旧的Hopper架构GPU和较新的Blackwell系列，表明市场需求并不局限于某一代芯片，而是广泛分布于多种AI算力类型之上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;Nebius正同时受益于两股力量——一方面持续扩充算力容量，另一方面对现有容量提高收费，&lt;/strong&gt;&amp;quot;@MelvinInvests写道。这意味着在利用率维持高位的前提下，每个可用GPU小时所能产生的收入将显著提升，有助于改善利润率并加速基础设施投资回收。&lt;/p&gt;
-
-基本面背书：大单在手，扩张持续提速
-
-&lt;p&gt;Nebius近期的基本面亦为市场情绪提供了支撑。据Stocktwits报道，该公司自去年9月获得微软重要合同后持续加速扩张，相继收购Staryps、Eigen AI及Tavily。今年3月，Nebius宣布与Meta Platforms签订270亿美元合同，并获得英伟达20亿美元战略投资。&lt;/p&gt;
-&lt;p&gt;英伟达周三发布的季度财报进一步印证了上游需求持续强劲的判断，大型科技公司AI数据中心建设热潮将持续带动算力供应链需求的市场逻辑由此得到强化。&lt;/p&gt;
-&lt;p&gt;X平台用户Jonah Lupton评论称，&lt;strong&gt;Nebius平均约20%的涨价幅度意味着AI生态系统中算力供给仍存在显著瓶颈，并据此推算Nebius当前短期客户合同价格可能已达每兆瓦6000万美元以上，未来Vera Rubin架构产品的合同价格或将突破每兆瓦8000万美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nebius今年以来股价累计涨幅已达约150%，成为AI概念股中表现最为突出的标的之一。Stocktwits数据显示，过去30天内NBIS相关讨论量激增逾120%，关注人数增加7.3%，截至周四早间，散户情绪维持&amp;quot;看多&amp;quot;评级，消息量处于&amp;quot;高位&amp;quot;水平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-议价权转移：数据中心运营商合同条款开始反转
-
-&lt;p&gt;Nebius涨价折射出的供需失衡，正在重塑整个数据中心行业的合同谈判格局。&lt;/p&gt;
-&lt;p&gt;此前，大型云厂商在谈判中占据强势地位，其要求往往极为苛刻：每个服务器机架的运行时间须接近100%，机房温度和湿度亦设有极为严格的标准。一位数据中心高管透露，他曾见过这样的合同条款：只要一个机架因断电、过热或交换机故障而宕机，云厂商即可取消六个月的租金；若服务水平协议（SLA）违约累积到一定程度，云厂商甚至可以直接终止租约。&lt;/p&gt;
-&lt;p&gt;这位高管指出，谈判SLA本质上是在&amp;quot;最优价格&amp;quot;与&amp;quot;合同耐久性&amp;quot;之间做取舍——条款越严苛，价格越高，但风险也越大。&amp;quot;能争取到惩罚力度更轻的SLA，就算价格低一点也值得。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而随着运营商议价能力上升，这些极端条款正在被逐步软化。&lt;/strong&gt;付款条款方面同样出现了转向迹象。据报道援引一位信贷高管的说法，他见过这样的案例：某客户仅租用一栋大型数据中心的一小部分，但合同规定，一旦该客户未能按时付款，就必须承担整栋设施一段时间内的全部租金。对于这一要求，数据中心业主自己也直言不讳：&amp;quot;他说，&amp;#x27;听着，我们知道这很离谱……但我们就是能做到。&amp;#x27;&amp;quot;&lt;/p&gt;
-&lt;p&gt;随着微软等云厂商迫切希望英伟达服务器机架尽快投入运行，CoreWeave等数据中心运营商的议价筹码正在上升，算力供给侧在合同谈判中的主动权正日益增强。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通全球宏观大会：央行可能比预期“更快更大幅度加息”，但“股票与债券收益率”可能“齐涨”</title><link>https://wallstreetcn.com/articles/3781943</link><guid>6180c835375c9c942ba67df1227a7983517916906bdeda44167cb637b1d7e3e9</guid><pubDate>Thu, 17 Sep 2026 03:57:44 GMT</pubDate><description>&lt;p&gt;据追风交易台消息，摩根大通摩根大通战略研究部发布摩根大通全球宏观大会的会议纪要，称本次大会释放的最核心信号，可以用一句话概括：股票与美债收益率可以同时上行，至少目前如此。全球央行，尤其是美联储，可能不得不以比市场预期更快、更大幅度的节奏加息。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通全球宏观大会：央行可能比预期“更快更大幅度加息”，但“股票与债券收益率”可能“齐涨”</title><link>https://wallstreetcn.com/articles/3781943</link><guid>6180c835375c9c942ba67df1227a7983517916906bdeda44167cb637b1d7e3e9</guid><pubDate>Thu, 17 Sep 2026 03:57:44 GMT</pubDate><description>&lt;p&gt;据追风交易台消息，摩根大通摩根大通战略研究部发布摩根大通全球宏观大会的会议纪要，称本次大会释放的最核心信号，可以用一句话概括：股票与美债收益率可以同时上行，至少目前如此。全球央行，尤其是美联储，可能不得不以比市场预期更快、更大幅度的节奏加息。&lt;/p&gt;
 &lt;p&gt;报告称，15位宏观与市场演讲者围绕美国经济前景、美联储政策、AI资本支出及地缘政治风险展开深度讨论，形成两大高确信度判断：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;第一，央行——尤其是美联储——可能不得不以比市场预期更快、更大幅度的节奏加息。&lt;/strong&gt;&lt;/p&gt;
@@ -382,7 +350,39 @@ AI很重要，但政策决定不属于美联储
 &lt;p&gt;&lt;strong&gt;沃什&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;所以那里有很多。让我看看我是否不能做一点点。首先，我们认为失业率基本上与充分就业一致。我不认为我们需要损害劳动力市场来实现我们的目标。我不认为我们使命的两个部分——价格稳定和充分就业——在中期内的工作是相互交叉的。所以经济增长，就是确保持续、可持续、持久的经济增长，这就是我们所处的行业，也是我们今天所做的工作，我们将继续确保价格稳定，这意味着可持续、持久的经济增长可以持续更长时间。经济可以变得更强大。正如我之前提到的，最不富裕的人可以从中受益。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛交易员快评沃什表态：若“Q4通胀趋势不变”，那就不止“再加一次”了</title><link>https://wallstreetcn.com/articles/3781937</link><guid>4cb8ea7a76df6b1fbdc71d590493661ea81e38847fa740bfb002303ae035e507</guid><pubDate>Thu, 17 Sep 2026 00:52:21 GMT</pubDate><description>&lt;p&gt;美联储时隔三年重启加息，但点阵图释放的鹰派信号令市场措手不及。高盛交易员快评直言，这次远非&amp;quot;鸽式加息&amp;quot;。&lt;/p&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781919"&gt;华尔街见闻提及&lt;/a&gt;，美联储9月会议全票通过，将基准利率上调25个基点至3.75%-4.00%区间，为2023年7月以来首次加息。&lt;/p&gt;&lt;p&gt;会后公布的经济预测摘要（SEP）显示，委员会中值预测暗示2026年内还将再加息一次，且2027年不降息，整体立场明显强于市场此前预期。&lt;/p&gt;&lt;p&gt;追风交易台消息，9月16日，高盛固定收益与股票部门Giulio Esposito在会后快评中指出，&lt;strong&gt;此次结果比高盛预期更为鹰派。高盛原本预期此次为&amp;quot;鸽式加息&amp;quot;，即加息的同时释放后续空间有限的信号。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高盛认为市场接下来需要重点关注&lt;strong&gt;，若通胀走势在四季度未能出现实质性改变，更具进攻性的前置加息路径或将取代当前&amp;quot;再加一次&amp;quot;的基准预期。&lt;/strong&gt;&lt;/p&gt;点阵图比预期更鹰，&amp;quot;两次加息&amp;quot;成为主流&lt;p&gt;本次点阵图结果明显超出市场及高盛自身预判。&lt;/p&gt;&lt;p&gt;在18名委员中，12名委员预计2026年全年共加息两次（含本次），4名委员预计加息三次，仅2名委员维持&amp;quot;全年仅加息一次&amp;quot;的较为温和立场。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;高盛会前预期的基准情景为10比8多数支持&amp;quot;仅加息一次&amp;quot;，实际结果与此出入显著。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;从利率路径中值来看&lt;/strong&gt;，2026年末利率预计落于4.00%-4.25%区间，2027年维持不变，2028年回落至3.75%-4.00%，2029年进一步降至3.50%-3.75%。&lt;/p&gt;&lt;p&gt;中性利率中值小幅上调，从3.06%升至3.25%。值得注意的是，沃什本人与6月会议相同，再次未提交点阵图预测。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;与点阵图的鹰派基调相呼应，本次SEP对经济基本面的预测同步上调：&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;整体PCE通胀&lt;/strong&gt;（2026年）：上调0.1个百分点至3.7%；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;核心PCE通胀&lt;/strong&gt;（2026年）：上调0.1个百分点至3.4%；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;GDP增速&lt;/strong&gt;（2026年）：上调0.1个百分点至2.3%；（2027年）：上调0.1个百分点至2.4%；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;失业率&lt;/strong&gt;（2026年）：下调0.2个百分点至4.1%；（2027年）：同样下调0.2个百分点至4.1%。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781923"&gt;华尔街见闻提及&lt;/a&gt;，FOMC声明在措辞上仍较为简短，未提供明确的前瞻指引。新增了&amp;quot;国内支出具有韧性&amp;quot;的表述，并将本次加息定性为&amp;quot;支持更及时地回归委员会2%目标&amp;quot;。&lt;/p&gt;沃什措辞鹰派，通胀容忍度下降&lt;p&gt;发布会上，沃什的表态是市场最为关注的焦点。&lt;/p&gt;&lt;p&gt;他明确将当前金融条件定性为&amp;quot;远未达到限制性水平&amp;quot;，并将本次加息描述为仅是&amp;quot;去除了一剂宽松&amp;quot;，暗示货币政策收紧空间仍然充足。&lt;/p&gt;&lt;p&gt;他对通胀的措辞尤为强硬，直言&amp;quot;通胀过高且持续时间过长&amp;quot;，指出当前PCE预计达3.7%，仍有过多分项超过3%，同时对大宗商品价格上涨表示担忧，认为通胀风险整体偏向上行。&lt;/p&gt;&lt;p&gt;Esposito在快评中特别点出一个值得警惕的信号：&lt;strong&gt;沃什鹰派表态与SEP显示通胀直至2029年才回落至2%之间存在明显的内在矛盾。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;这一背离意味着，若四季度通胀趋势无法出现实质性转变，美联储可能走向比当前点阵图所示更为激进的前置加息路径，而非仅再加息一次即告一段落。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息落地，亚太股市走强，东证股指涨1%，债市承压，金银反弹</title><link>https://wallstreetcn.com/articles/3781940</link><guid>425896926e963bf7c1d3123c4d358835522091ce895624e8b88947f4a76aae0c</guid><pubDate>Thu, 17 Sep 2026 01:42:10 GMT</pubDate><description>&lt;p&gt;美联储时隔三年重启加息，全球金融市场随即重新定价。澳大利亚和新西兰政府债券在亚洲早盘走弱，跟随隔夜美债走势同步调整。亚太股市整体小幅走高。黄金反弹、收复昨日跌幅。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GPU云服务掀涨价潮：Nebius再提价20%，算力供给侧迎议价权反转</title><link>https://wallstreetcn.com/articles/3781962</link><guid>f9397a8c864fe60dc81bcb81fc1fc5f8d0a459bff0afc3e1b86d4746c0065232</guid><pubDate>Thu, 17 Sep 2026 04:05:30 GMT</pubDate><description>&lt;p&gt;Nebius宣布将于10月1日起全面上调旗下GPU云服务定价，平均涨幅约20%，叠加英伟达发布强劲季度财报，推动该股盘后大涨近7%，AI算力供需格局持续偏紧的市场判断进一步获得印证。&lt;/p&gt;
+&lt;p&gt;此轮提价覆盖H100、H200、B200及B300多款芯片型号，是Nebius今年5月以来的第二轮涨价。市场将此解读为AI算力需求持续过热、供给仍然紧张的强烈信号，受此提振，Coreweave盘后续涨近4%，光通信板块亦普遍走强，AAOI、Credo Technology涨近3%，迈威尔科技、Astera Labs涨超2%，Coherent涨近2%。&lt;/p&gt;
+&lt;p&gt;涨价消息与英伟达亮眼业绩指引高度重合，进一步强化了市场对AI数据中心建设周期延续的信心，带动整个云计算与算力基础设施板块情绪全面回暖。与此同时，数据中心运营商的议价能力正在上升，合同条款的天平开始向供给侧倾斜，行业格局正在悄然生变。&lt;/p&gt;
+
+涨价细节：多款GPU型号价格大幅上调
+
+&lt;p&gt;根据X平台用户流传的定价截图，此轮调价幅度显著。H100每GPU小时价格从3.85美元上调至4.50美元，涨幅约16.9%；H200从4.50美元升至5.40美元，涨幅20%；B200从7.15美元升至8.50美元，涨幅约18.9%；B300则从7.85美元升至9.50美元，涨幅约21%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这已是Nebius数月内的第二轮提价。今年5月，该公司曾宣布对按需容量平均提价29%，对可抢占容量提价51%。&lt;strong&gt;若以B300为例，其价格从5月前的约6.10美元/小时计算，至今累计涨幅已达约56%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nebius在5月发给客户的邮件中表示，调价&amp;quot;反映了对高端GPU算力持续强劲的需求，即便在更新定价后，Nebius仍能提供市场上最具竞争力的GPU基础设施价格之一&amp;quot;。据Stocktwits报道，截至发稿，Nebius方面尚未就最新一轮涨价传闻作出公开回应。&lt;/p&gt;
+
+供需逻辑：需求能见度超24个月，容量持续告急
+
+&lt;p&gt;市场分析人士指出，此轮涨价背后折射出更深层的供需逻辑。据X平台用户@MelvinInvests分析，Nebius此前曾尝试手动调价，但管理层表示需求之强劲使价格调整仍不足以平衡供需。随后，公司对稀缺的Blackwell算力进行拍卖测试，客户实际支付价格比此前最高定价高出15%至20%，以确保获得访问权限。&lt;/p&gt;
+&lt;p&gt;该分析人士还指出，Nebius管理层透露，已有客户预订2028年一季度和二季度的算力，部分订单涉及数万块GPU，公司当前的需求能见度已超过24个月，较此前约18个月明显拉长。&lt;/p&gt;
+&lt;p&gt;值得关注的是，此次涨价同时覆盖较旧的Hopper架构GPU和较新的Blackwell系列，表明市场需求并不局限于某一代芯片，而是广泛分布于多种AI算力类型之上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;Nebius正同时受益于两股力量——一方面持续扩充算力容量，另一方面对现有容量提高收费，&lt;/strong&gt;&amp;quot;@MelvinInvests写道。这意味着在利用率维持高位的前提下，每个可用GPU小时所能产生的收入将显著提升，有助于改善利润率并加速基础设施投资回收。&lt;/p&gt;
+
+基本面背书：大单在手，扩张持续提速
+
+&lt;p&gt;Nebius近期的基本面亦为市场情绪提供了支撑。据Stocktwits报道，该公司自去年9月获得微软重要合同后持续加速扩张，相继收购Staryps、Eigen AI及Tavily。今年3月，Nebius宣布与Meta Platforms签订270亿美元合同，并获得英伟达20亿美元战略投资。&lt;/p&gt;
+&lt;p&gt;英伟达周三发布的季度财报进一步印证了上游需求持续强劲的判断，大型科技公司AI数据中心建设热潮将持续带动算力供应链需求的市场逻辑由此得到强化。&lt;/p&gt;
+&lt;p&gt;X平台用户Jonah Lupton评论称，&lt;strong&gt;Nebius平均约20%的涨价幅度意味着AI生态系统中算力供给仍存在显著瓶颈，并据此推算Nebius当前短期客户合同价格可能已达每兆瓦6000万美元以上，未来Vera Rubin架构产品的合同价格或将突破每兆瓦8000万美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nebius今年以来股价累计涨幅已达约150%，成为AI概念股中表现最为突出的标的之一。Stocktwits数据显示，过去30天内NBIS相关讨论量激增逾120%，关注人数增加7.3%，截至周四早间，散户情绪维持&amp;quot;看多&amp;quot;评级，消息量处于&amp;quot;高位&amp;quot;水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+议价权转移：数据中心运营商合同条款开始反转
+
+&lt;p&gt;Nebius涨价折射出的供需失衡，正在重塑整个数据中心行业的合同谈判格局。&lt;/p&gt;
+&lt;p&gt;此前，大型云厂商在谈判中占据强势地位，其要求往往极为苛刻：每个服务器机架的运行时间须接近100%，机房温度和湿度亦设有极为严格的标准。一位数据中心高管透露，他曾见过这样的合同条款：只要一个机架因断电、过热或交换机故障而宕机，云厂商即可取消六个月的租金；若服务水平协议（SLA）违约累积到一定程度，云厂商甚至可以直接终止租约。&lt;/p&gt;
+&lt;p&gt;这位高管指出，谈判SLA本质上是在&amp;quot;最优价格&amp;quot;与&amp;quot;合同耐久性&amp;quot;之间做取舍——条款越严苛，价格越高，但风险也越大。&amp;quot;能争取到惩罚力度更轻的SLA，就算价格低一点也值得。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而随着运营商议价能力上升，这些极端条款正在被逐步软化。&lt;/strong&gt;付款条款方面同样出现了转向迹象。据报道援引一位信贷高管的说法，他见过这样的案例：某客户仅租用一栋大型数据中心的一小部分，但合同规定，一旦该客户未能按时付款，就必须承担整栋设施一段时间内的全部租金。对于这一要求，数据中心业主自己也直言不讳：&amp;quot;他说，&amp;#x27;听着，我们知道这很离谱……但我们就是能做到。&amp;#x27;&amp;quot;&lt;/p&gt;
+&lt;p&gt;随着微软等云厂商迫切希望英伟达服务器机架尽快投入运行，CoreWeave等数据中心运营商的议价筹码正在上升，算力供给侧在合同谈判中的主动权正日益增强。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛交易员快评沃什表态：若“Q4通胀趋势不变”，那就不止“再加一次”了</title><link>https://wallstreetcn.com/articles/3781937</link><guid>4cb8ea7a76df6b1fbdc71d590493661ea81e38847fa740bfb002303ae035e507</guid><pubDate>Thu, 17 Sep 2026 00:52:21 GMT</pubDate><description>&lt;p&gt;美联储时隔三年重启加息，但点阵图释放的鹰派信号令市场措手不及。高盛交易员快评直言，这次远非&amp;quot;鸽式加息&amp;quot;。&lt;/p&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781919"&gt;华尔街见闻提及&lt;/a&gt;，美联储9月会议全票通过，将基准利率上调25个基点至3.75%-4.00%区间，为2023年7月以来首次加息。&lt;/p&gt;&lt;p&gt;会后公布的经济预测摘要（SEP）显示，委员会中值预测暗示2026年内还将再加息一次，且2027年不降息，整体立场明显强于市场此前预期。&lt;/p&gt;&lt;p&gt;追风交易台消息，9月16日，高盛固定收益与股票部门Giulio Esposito在会后快评中指出，&lt;strong&gt;此次结果比高盛预期更为鹰派。高盛原本预期此次为&amp;quot;鸽式加息&amp;quot;，即加息的同时释放后续空间有限的信号。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高盛认为市场接下来需要重点关注&lt;strong&gt;，若通胀走势在四季度未能出现实质性改变，更具进攻性的前置加息路径或将取代当前&amp;quot;再加一次&amp;quot;的基准预期。&lt;/strong&gt;&lt;/p&gt;点阵图比预期更鹰，&amp;quot;两次加息&amp;quot;成为主流&lt;p&gt;本次点阵图结果明显超出市场及高盛自身预判。&lt;/p&gt;&lt;p&gt;在18名委员中，12名委员预计2026年全年共加息两次（含本次），4名委员预计加息三次，仅2名委员维持&amp;quot;全年仅加息一次&amp;quot;的较为温和立场。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;高盛会前预期的基准情景为10比8多数支持&amp;quot;仅加息一次&amp;quot;，实际结果与此出入显著。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;从利率路径中值来看&lt;/strong&gt;，2026年末利率预计落于4.00%-4.25%区间，2027年维持不变，2028年回落至3.75%-4.00%，2029年进一步降至3.50%-3.75%。&lt;/p&gt;&lt;p&gt;中性利率中值小幅上调，从3.06%升至3.25%。值得注意的是，沃什本人与6月会议相同，再次未提交点阵图预测。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;与点阵图的鹰派基调相呼应，本次SEP对经济基本面的预测同步上调：&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;整体PCE通胀&lt;/strong&gt;（2026年）：上调0.1个百分点至3.7%；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;核心PCE通胀&lt;/strong&gt;（2026年）：上调0.1个百分点至3.4%；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;GDP增速&lt;/strong&gt;（2026年）：上调0.1个百分点至2.3%；（2027年）：上调0.1个百分点至2.4%；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;失业率&lt;/strong&gt;（2026年）：下调0.2个百分点至4.1%；（2027年）：同样下调0.2个百分点至4.1%。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781923"&gt;华尔街见闻提及&lt;/a&gt;，FOMC声明在措辞上仍较为简短，未提供明确的前瞻指引。新增了&amp;quot;国内支出具有韧性&amp;quot;的表述，并将本次加息定性为&amp;quot;支持更及时地回归委员会2%目标&amp;quot;。&lt;/p&gt;沃什措辞鹰派，通胀容忍度下降&lt;p&gt;发布会上，沃什的表态是市场最为关注的焦点。&lt;/p&gt;&lt;p&gt;他明确将当前金融条件定性为&amp;quot;远未达到限制性水平&amp;quot;，并将本次加息描述为仅是&amp;quot;去除了一剂宽松&amp;quot;，暗示货币政策收紧空间仍然充足。&lt;/p&gt;&lt;p&gt;他对通胀的措辞尤为强硬，直言&amp;quot;通胀过高且持续时间过长&amp;quot;，指出当前PCE预计达3.7%，仍有过多分项超过3%，同时对大宗商品价格上涨表示担忧，认为通胀风险整体偏向上行。&lt;/p&gt;&lt;p&gt;Esposito在快评中特别点出一个值得警惕的信号：&lt;strong&gt;沃什鹰派表态与SEP显示通胀直至2029年才回落至2%之间存在明显的内在矛盾。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;这一背离意味着，若四季度通胀趋势无法出现实质性转变，美联储可能走向比当前点阵图所示更为激进的前置加息路径，而非仅再加息一次即告一段落。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息落地，亚太股市走强，东证股指涨1%，债市承压，金银反弹</title><link>https://wallstreetcn.com/articles/3781940</link><guid>425896926e963bf7c1d3123c4d358835522091ce895624e8b88947f4a76aae0c</guid><pubDate>Thu, 17 Sep 2026 01:42:10 GMT</pubDate><description>&lt;p&gt;美联储时隔三年重启加息，全球金融市场随即重新定价。澳大利亚和新西兰政府债券在亚洲早盘走弱，跟随隔夜美债走势同步调整。亚太股市整体小幅走高。黄金反弹、收复昨日跌幅。&lt;/p&gt;
 &lt;p&gt;联邦公开市场委员会周三以12比0全票通过，将基准利率上调25个基点至3.75%至4%区间。利率点阵图显示，今年内或将再加息一次，货币市场目前已定价约50%的概率于10月再度出手。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美股盘后期货率先企稳，为亚太市场情绪提供支撑。&lt;/strong&gt;标普500期货上涨0.5%，纳斯达克100期货上涨0.4%，道指期货微涨72点。&lt;/p&gt;
