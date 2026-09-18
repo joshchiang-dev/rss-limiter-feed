@@ -1,33 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 17 Sep 2026 23:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑</title><link>https://wallstreetcn.com/articles/3782022</link><guid>211e5bfa90793e7c5a8608540e06f685db3048c6df196032221031d3b75d8374</guid><pubDate>Thu, 17 Sep 2026 21:13:33 GMT</pubDate><description>&lt;p&gt;9月17日，Anthropic旗下编程助手Claude Code正式推出Projects功能重大升级，将AI辅助开发从单次对话模式升级为多线程自动化工作流，标志着AI编程工具向自主项目管理迈出实质性一步。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;本次更新的核心增量在于执行方式：用户不再需要逐个开启对话、手动跟踪每个子任务，只需描述&amp;quot;需要做什么&amp;quot;，Claude 就会拆解任务、分配线程、并行推进。官方公告称，&lt;strong&gt;这些线程在用户关闭笔记本电脑后仍会继续工作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic表示，该功能目前以测试版向部分Claude Pro和Max订阅用户开放。未来数周内将逐步扩大访问权限，并最终覆盖Team和Enterprise计划用户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于开发者而言，这一升级直接改变了多任务项目的协作方式。过去需要手动切换会话、拼接输出结果的工作流程，现在可以交由Claude统一调度，潜在影响涵盖从个人开发者到企业工程团队的各类用户群体。&lt;/p&gt;
-
-线程架构：Claude扮演&amp;quot;参谋长&amp;quot;角色
-
-&lt;p&gt;新版Projects的核心设计是&amp;quot;协调者+工作线程&amp;quot;双层架构。&lt;/p&gt;
-&lt;p&gt;用户在项目主聊天界面发出高层指令，Claude充当参谋长角色，将任务路由至新建或已有的工作线程；每条线程则是一个独立的Claude Code云端会话，在各自的代码分支和仓库副本上执行具体工作。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;以实际场景为例&lt;/strong&gt;：用户可以设定目标为降低应用结账环节的P75延迟，Claude随即会分配多个并行线程分别对各接口进行性能分析、测试优化方案并提交Pull Request。&lt;/p&gt;
-&lt;p&gt;又或者同时连接API、Web和移动端三个代码仓库，由Claude为每个仓库创建独立线程，完成废弃接口的迁移、测试和PR提交，并告知用户哪些PR需要优先合并。&lt;/p&gt;
-&lt;p&gt;若不同线程修改了同一段代码，系统将以标准合并冲突的方式处理，与常规PR流程保持一致。&lt;strong&gt;此外，单条线程还可进一步调用子代理、循环和工作流来拆分大型任务，以加快完成速度。&lt;/strong&gt;&lt;/p&gt;
-
-共享记忆：上下文跨会话持续积累
-
-&lt;p&gt;&lt;strong&gt;新版Projects专为长周期或代理式工作流设计，支持跨时间、跨会话的上下文积累。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所有线程共享同一记忆池，Claude会随时间推移不断沉淀项目细节，例如记住发布日期调整为周五、某功能被废弃的原因，或在修改账单服务前需要知会哪位同事，从而减少用户反复编写提示词的负担。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在个性化层面&lt;/strong&gt;，Claude还会记住用户的工作风格和沟通偏好。用户可以要求它调整进度汇报频率、新建线程的节奏以及更新内容的详细程度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与记忆功能并行，Projects还新增了&amp;quot;Library&amp;quot;（素材库）&lt;/strong&gt;，自动归集用户上传的文件以及Claude生成的各类产出物，方便后续工作调取历史材料、在已有成果基础上继续推进。&lt;/p&gt;
-
-使用限制与后续计划
-
-&lt;p&gt;由于一个项目可同时运行多条线程，且每条线程均为完整的Claude Code云端会话，&lt;strong&gt;Projects的用量消耗速度较单一会话模式明显加快。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic提示用户注意项目级别的用量监控，并支持分别为协调者聊天和工作线程选择模型及算力等级，以便灵活管控成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在功能路线图方面&lt;/strong&gt;，Anthropic表示线程&lt;strong&gt;目前仅在云端运行&lt;/strong&gt;，支持在本地机器上运行、调用本地工具和代码、以及接入内网的功能即将推出。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;就当前的测试版访问资格而言，仅限在Claude Code中使用云端会话、且在网页端或桌面端尚无已有Projects的Pro和Max用户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;已有Projects的用户仍可正常使用现有功能，Anthropic将在后续扩展至聊天和Cowork功能时统一完成升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息后买什么？历史上美股能源、科技占优，地产落后，高盛：决定美股的是加息速度</title><link>https://wallstreetcn.com/articles/3782015</link><guid>707d4baa7b4f5b3fc9493f6e9e065bc87e0484142f0aa099a44a5df075b0c94d</guid><pubDate>Thu, 17 Sep 2026 17:36:03 GMT</pubDate><description>&lt;p&gt;美联储自2023年7月以来首次加息落地后，投资者要回答的问题已从“会不会加息”转向“加息之后买什么”。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 18 Sep 2026 00:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 今天，日本必加息？市场关心的是：鸽派还是鹰派？</title><link>https://wallstreetcn.com/articles/3782035</link><guid>9f78e7a52f2ff638a7f862892243a3d8d54d66e3bbde50a49657f8f4e1afdd46</guid><pubDate>Thu, 17 Sep 2026 23:56:17 GMT</pubDate><description>&lt;p&gt;日本央行加息已是板上钉钉，但这不是今天真正的悬念所在。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场普遍预计日本央行将于周五把政策利率从1%上调至1.25%，创1995年以来最高水平。&lt;/strong&gt;这将是三个月以来的首次加息，也是日本央行持续退出超低利率政策的又一步。然而，由于加息预期早已被市场充分消化，投资者的目光已完全转向会后记者会——&lt;strong&gt;行长植田和男的表态，将决定日元接下来的走向是涨是跌&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当前市场利率曲线已隐含未来一年约四次25个基点加息的预期，相当于在2027年7月前每隔一次会议加息一次。&lt;/strong&gt;这一激进路径为植田和男设置了极高的表态门槛：他必须明确确认日本央行将踏上异常快速的紧缩轨道，才能支撑日元进一步走强。若植田和男的表态令市场失望，美元兑日元可能收复9月以来的全部跌幅。&lt;/p&gt;
+加息几乎确定，但这只是&amp;quot;起点&amp;quot;
+&lt;p&gt;目前，市场普遍预计在周五结束的为期两天的政策会议上，日本央行将把政策利率上调25个基点至1.25%。若成真，&lt;strong&gt;这将是日本政策利率自1995年以来的最高点&lt;/strong&gt;，同时也将使利率正式进入日本央行估算的名义中性利率区间（1.1%至2.5%）的下沿。&lt;/p&gt;
+&lt;p&gt;日本央行自2024年结束长达十年的宽松政策以来，已数次加息，频率约为每年两次。此次加息距上次（6月）仅三个月，节奏有所加快。值得注意的是，据路透报道，6月曾投下反对票的审议委员浅田统一郎此次可能再次持异议。&lt;/p&gt;
+&lt;p&gt;即便完成本次加息，日本央行政策利率仍远低于其他主要央行——美联储最新利率区间为3.75%至4.00%，欧洲央行上周已将关键利率上调至2.5%。&lt;/p&gt;
+&lt;p&gt;据报道，&lt;strong&gt;推动日本央行此次加息的背景因素错综复杂，且正在叠加强化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;伊朗战争引发能源成本飙升，已导致日本批发通胀急剧上升，预计将进一步向消费者物价传导。与此同时，日元持续疲软推高进口成本，加剧了输入性通胀压力。批评者认为，日本央行过于缓慢的加息步伐本身就是日元疲软的原因之一。&lt;/p&gt;
+&lt;p&gt;美联储的动向则带来了额外的外部压力。美联储本周加息，并维持市场对年内进一步加息的预期，这意味着美日利差可能进一步扩大，对日元构成下行压力，并通过进口成本渠道再度推高日本通胀。Kansai Mirai Bank策略师Takeshi Ishida表示，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“在美联储加息并维持市场对进一步加息的预期后，日本央行将面临巨大压力，植田在新闻发布会上面临的挑战加大。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此外，据路透报道，美国财政部长贝森特本月在G20财长会议期间与植田和男会晤时，明确表示强烈支持采取&amp;quot;果断&amp;quot;的货币政策措施来应对日元贬值，这一表态进一步增加了日本央行的外部压力。&lt;/p&gt;
+真正的悬念：植田和男今天怎么说
+&lt;p&gt;加息本身已不构成市场惊喜，&lt;strong&gt;植田和男的前瞻指引才是今天最大的变量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博报道，自夏季以来，市场对日本央行政策路径的预期已经历大幅重估。美元兑日元本月早些时候一度跌至152.89，反映出市场对日本央行加快紧缩的强烈押注。目前市场隐含的路径是：在2027年7月前，每隔一次会议加息25个基点。&lt;/p&gt;
+&lt;p&gt;彭博最新Pulse Survey调查（9月16至17日，共144名受访者）显示，近一半受访者预计此轮加息周期的政策利率峰值将落在1.5%至1.75%区间，另有约17%预计峰值达到2%。&lt;/p&gt;
+&lt;p&gt;路透调查的分析师则预计，日本央行明年3月底前将利率升至1.5%，2027年第二季度进一步升至1.75%，大多数分析师认为最终利率至少将达到1.75%。&lt;/p&gt;
+&lt;p&gt;然而，包括植田和男在内的多位日本央行官员迄今仍未明确未来加息的速度与幅度，强调这将在很大程度上取决于通胀前景及此前加息对金融状况的影响。&lt;/p&gt;
+&lt;p&gt;据报道，&lt;strong&gt;现在的门槛已从&amp;quot;说服市场相信9月会加息&amp;quot;，变成了&amp;quot;说服他们相信9月加息将开启更快的节奏&amp;quot;。&lt;/strong&gt;若植田和男无法做到这一点，美元兑日元就可能进一步回吐本月跌幅，尤其是在美联储正朝着相反方向发力的背景下。&lt;/p&gt;
+&lt;p&gt;富国银行亚太宏观策略主管Chidu Narayanan在报告中明确表示，“我们仍然怀疑日本央行能比市场已经隐含的激进紧缩路径更鹰派，日本央行要满足这些预期的门槛很高，要超越更难。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息后买什么？历史上美股能源、科技占优，地产落后，高盛：决定美股的是加息速度</title><link>https://wallstreetcn.com/articles/3782015</link><guid>707d4baa7b4f5b3fc9493f6e9e065bc87e0484142f0aa099a44a5df075b0c94d</guid><pubDate>Thu, 17 Sep 2026 17:36:03 GMT</pubDate><description>&lt;p&gt;美联储自2023年7月以来首次加息落地后，投资者要回答的问题已从“会不会加息”转向“加息之后买什么”。&lt;/p&gt;
 &lt;p&gt;对历次紧缩周期的历史统计给出的回答是：美股&lt;strong&gt;能源与信息技术最抗压，房地产与可选消费最脆弱，而决定板块命运的关键并非利率的绝对水平，而是收益率上涨的速度。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当地时间9月16日，美联储将联邦基金利率目标区间上调25个基点至3.75%—4.00%，为2023年7月以来首次加息。多数官员仍预期利率存在进一步上行空间。&lt;/p&gt;
 &lt;p&gt;历史统计中，&lt;strong&gt;杰富瑞数据显示首次加息后12个月美股能源板块平均回报22.4%居首、信息技术15.4%次之；嘉信理财的统计则显示房地产板块相对标普500的中位数表现落后4.3个百分点，为11个板块中最差。&lt;/strong&gt;&lt;/p&gt;
@@ -67,7 +60,58 @@
 &lt;p&gt;本次融资是AI基础设施建设浪潮下一轮密集融资活动的缩影。&lt;/p&gt;
 &lt;p&gt;据彭博数据，&lt;strong&gt;仅今年一年，企业已在全球债务市场累计借款约4190亿美元用于AI相关领域，带动部分融资成本因需求降温而上升，投资者的资金投放意愿也开始出现疲态迹象。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;今年7月，CoreWeave在完成一笔26亿美元杠杆贷款时曾被迫提高利差以吸引投资者。&lt;/p&gt;
-&lt;p&gt;尽管如此，AI主题的融资热情依然将美国可转债市场推至历史高位。美国上市公司今年通过可转债累计融资1373亿美元，刷新年度历史纪录。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国30年期房贷利率冲上7%！房地产市场困境加剧</title><link>https://wallstreetcn.com/articles/3782031</link><guid>a619d3b267e9c715b1156d27cd278cc12ca1ac9287d758a9e6cddc2d6838b5bf</guid><pubDate>Thu, 17 Sep 2026 23:07:34 GMT</pubDate><description>&lt;p&gt;美国住房市场正面临严峻的利率压力。&lt;/p&gt;
+&lt;p&gt;尽管如此，AI主题的融资热情依然将美国可转债市场推至历史高位。美国上市公司今年通过可转债累计融资1373亿美元，刷新年度历史纪录。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑</title><link>https://wallstreetcn.com/articles/3782022</link><guid>211e5bfa90793e7c5a8608540e06f685db3048c6df196032221031d3b75d8374</guid><pubDate>Thu, 17 Sep 2026 21:13:33 GMT</pubDate><description>&lt;p&gt;9月17日，Anthropic旗下编程助手Claude Code正式推出Projects功能重大升级，将AI辅助开发从单次对话模式升级为多线程自动化工作流，标志着AI编程工具向自主项目管理迈出实质性一步。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本次更新的核心增量在于执行方式：用户不再需要逐个开启对话、手动跟踪每个子任务，只需描述&amp;quot;需要做什么&amp;quot;，Claude 就会拆解任务、分配线程、并行推进。官方公告称，&lt;strong&gt;这些线程在用户关闭笔记本电脑后仍会继续工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic表示，该功能目前以测试版向部分Claude Pro和Max订阅用户开放。未来数周内将逐步扩大访问权限，并最终覆盖Team和Enterprise计划用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于开发者而言，这一升级直接改变了多任务项目的协作方式。过去需要手动切换会话、拼接输出结果的工作流程，现在可以交由Claude统一调度，潜在影响涵盖从个人开发者到企业工程团队的各类用户群体。&lt;/p&gt;
+
+线程架构：Claude扮演&amp;quot;参谋长&amp;quot;角色
+
+&lt;p&gt;新版Projects的核心设计是&amp;quot;协调者+工作线程&amp;quot;双层架构。&lt;/p&gt;
+&lt;p&gt;用户在项目主聊天界面发出高层指令，Claude充当参谋长角色，将任务路由至新建或已有的工作线程；每条线程则是一个独立的Claude Code云端会话，在各自的代码分支和仓库副本上执行具体工作。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以实际场景为例&lt;/strong&gt;：用户可以设定目标为降低应用结账环节的P75延迟，Claude随即会分配多个并行线程分别对各接口进行性能分析、测试优化方案并提交Pull Request。&lt;/p&gt;
+&lt;p&gt;又或者同时连接API、Web和移动端三个代码仓库，由Claude为每个仓库创建独立线程，完成废弃接口的迁移、测试和PR提交，并告知用户哪些PR需要优先合并。&lt;/p&gt;
+&lt;p&gt;若不同线程修改了同一段代码，系统将以标准合并冲突的方式处理，与常规PR流程保持一致。&lt;strong&gt;此外，单条线程还可进一步调用子代理、循环和工作流来拆分大型任务，以加快完成速度。&lt;/strong&gt;&lt;/p&gt;
+
+共享记忆：上下文跨会话持续积累
+
+&lt;p&gt;&lt;strong&gt;新版Projects专为长周期或代理式工作流设计，支持跨时间、跨会话的上下文积累。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所有线程共享同一记忆池，Claude会随时间推移不断沉淀项目细节，例如记住发布日期调整为周五、某功能被废弃的原因，或在修改账单服务前需要知会哪位同事，从而减少用户反复编写提示词的负担。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在个性化层面&lt;/strong&gt;，Claude还会记住用户的工作风格和沟通偏好。用户可以要求它调整进度汇报频率、新建线程的节奏以及更新内容的详细程度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与记忆功能并行，Projects还新增了&amp;quot;Library&amp;quot;（素材库）&lt;/strong&gt;，自动归集用户上传的文件以及Claude生成的各类产出物，方便后续工作调取历史材料、在已有成果基础上继续推进。&lt;/p&gt;
+
+使用限制与后续计划
+
+&lt;p&gt;由于一个项目可同时运行多条线程，且每条线程均为完整的Claude Code云端会话，&lt;strong&gt;Projects的用量消耗速度较单一会话模式明显加快。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic提示用户注意项目级别的用量监控，并支持分别为协调者聊天和工作线程选择模型及算力等级，以便灵活管控成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在功能路线图方面&lt;/strong&gt;，Anthropic表示线程&lt;strong&gt;目前仅在云端运行&lt;/strong&gt;，支持在本地机器上运行、调用本地工具和代码、以及接入内网的功能即将推出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;就当前的测试版访问资格而言，仅限在Claude Code中使用云端会话、且在网页端或桌面端尚无已有Projects的Pro和Max用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;已有Projects的用户仍可正常使用现有功能，Anthropic将在后续扩展至聊天和Cowork功能时统一完成升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价与利率齐升，但美股依旧相信TACO</title><link>https://wallstreetcn.com/articles/3782036</link><guid>b5e15e5935d589cf04f1a59e277fd2ade5a1c13e8b6c614ceb3d3ff7dfd0ff87</guid><pubDate>Fri, 18 Sep 2026 00:16:52 GMT</pubDate><description>&lt;p&gt;油价突破百元、美联储启动加息，华尔街却仍在押注特朗普会再次退让，这一被称为“TACO”的交易策略正面临自诞生以来最严峻的考验。&lt;/p&gt;
+&lt;p&gt;美国与伊朗的冲突已持续近七个月，霍尔木兹海峡与红海局势持续升温，西德克萨斯中质原油价格徘徊于每桶逾100美元，美联储三年来首次加息，10年期美国国债收益率逼近4.946%的关键关口。&lt;/p&gt;
+&lt;p&gt;据新华社，美国多家媒体17日报道，尽管美国和伊朗仍处于交战状态，但美国政府已同意伊朗领导人参加下周在纽约举行的联合国大会高级别会议。&lt;strong&gt;特朗普周三曾表示，他希望这场战争&amp;quot;即将结束&amp;quot;，并称已与伊朗&amp;quot;直接&amp;quot;沟通，&lt;/strong&gt;其表态一度令油价回落。但市场的真正问题在于：如果这一次特朗普没有退让，TACO交易将如何收场？&lt;/p&gt;
+&lt;p&gt;地缘政治咨询机构Signum Global研究主管Andrew Bishop表示，该机构追踪美伊局势降级信号的&amp;quot;霍尔木兹TACO指数&amp;quot;目前仍在闪烁警示，但私下谈判可能已在进行之中。XTB研究总监Kathleen Brooks则指出，&lt;strong&gt;一旦美伊达成协议，油价可能迅速回落，债券市场或随之反弹、收益率下行，这将为股市提供重要支撑。&lt;/strong&gt;&lt;/p&gt;
+TACO交易：从玩笑到市场主力
+&lt;p&gt;&amp;quot;TACO&amp;quot;是&amp;quot;Trump Always Chickens Out&amp;quot;（特朗普总是退缩）的缩写，最初由英国《金融时报》一位专栏作家以调侃口吻提出，如今已演变为华尔街一股不可忽视的交易力量。&lt;/p&gt;
+&lt;p&gt;这一策略的逻辑起点，是特朗普对金融市场表现的高度敏感性。他历来将股市走势视为自身施政成效的晴雨表，而市场普遍认为，他对可能冲击共和党中期选举前景的市场动荡尤为警惕。&lt;/p&gt;
+&lt;p&gt;TACO交易的标志性时刻发生在2025年4月9日——特朗普宣布对大多数贸易伙伴暂停对等关税加征90天，及时叫停了一场将主要股指推至熊市边缘的抛售潮。此后，&lt;strong&gt;每逢市场承压，投资者便倾向于逢低买入，押注特朗普将再度转向。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Signum Global据此构建了一套数学模型，并以此预测特朗普的政策转向时机。该模型今年7月曾成功预判一次降级信号——华盛顿与德黑兰短暂收手，双方代表团赴卡塔尔展开间接谈判。然而，围绕替代航运通道及所谓美方绕道行为的争议，令紧张局势随后再度升温。&lt;/p&gt;
+股市韧性削弱特朗普退让动力
+&lt;p&gt;TACO交易的核心前提，是股市下跌会倒逼特朗普寻求和解。但眼下，这一传导机制正在弱化。&lt;/p&gt;
+&lt;p&gt;美联储周三宣布加息，美股随之录得三个月来最差单日表现，但随后迅速企稳回升。道琼斯工业平均指数本月累计下跌2.6%，但标普500指数和纳斯达克综合指数跌幅分别仅为0.6%和0.1%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这恰恰构成了一个棘手的悖论：正因为股市尚未大幅下挫，特朗普推动和谈的压力也相应减轻。据MarketWatch报道，部分市场人士担忧，股市的相对抗跌反而可能令特朗普在对伊立场上更趋强硬。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brooks表示，交易员已逐渐放弃对特朗普此轮退让的押注。&amp;quot;随着霍尔木兹海峡和红海局势与袭击事件持续升级，市场对TACO的期待正在消退。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+债市才是真正的压力阀
+&lt;p&gt;在股市尚能维持韧性的背景下，债券市场成为观察特朗普政策转向的更关键指标。&lt;/p&gt;
+&lt;p&gt;10年期美国国债收益率已攀升至4.946%，逼近市场普遍视为股市修正触发点的关键阈值。Bishop指出，国债收益率处于这一水平，历史上往往引发股市调整。&lt;/p&gt;
+&lt;p&gt;收益率上行的影响远不止于股市。更高的利率直接推升政府借贷成本，同时抬高美国家庭的房贷、车贷及信用卡利率，令特朗普第二任期着力推进的&amp;quot;可负担性&amp;quot;议程愈发难以兑现。&lt;/p&gt;
+&lt;p&gt;与此同时，美国消费者目前平均每加仑汽油支出已达4.40美元。高油价历来是执政党在选举中的政治包袱，共和党在中期选举前面临的民意压力正在积聚。&lt;/p&gt;
+谈判或在幕后推进
+&lt;p&gt;尽管市场情绪趋于悲观，Signum Global认为，降级进程或许已在水面之下悄然展开。&lt;/p&gt;
+&lt;p&gt;Andrew Bishop对MarketWatch表示：&amp;quot;人们往往忘记，此前每一轮降级的确切起始时间，都是在私下谈判公开之后才得以厘清。&amp;quot;他补充说，原定周一在阿曼举行的海湾与伊朗领导人会议虽已推迟，但据其了解，谈判仍在继续，且&amp;quot;正在取得进展&amp;quot;。&lt;/p&gt;
+&lt;p&gt;特朗普周三晚间告诉记者：&amp;quot;希望我们已接近战争尾声。他们想要达成协议，我们拭目以待。&amp;quot;他还表示已与德黑兰&amp;quot;直接&amp;quot;沟通，但未透露细节。此番表态叠加沙特阿拉伯寻求恢复遭胡塞武装袭击后中断的跨国输油管道约半数产能的消息，共同推动油价周四走低。&lt;/p&gt;
+&lt;p&gt;对投资者而言，当前局面的核心矛盾在于：&lt;strong&gt;TACO交易赖以成立的市场压力尚未充分积聚，而地缘政治风险却在持续累积。这一次，华尔街的耐心或许比以往任何时候都更难得到回报。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国30年期房贷利率冲上7%！房地产市场困境加剧</title><link>https://wallstreetcn.com/articles/3782031</link><guid>a619d3b267e9c715b1156d27cd278cc12ca1ac9287d758a9e6cddc2d6838b5bf</guid><pubDate>Thu, 17 Sep 2026 23:07:34 GMT</pubDate><description>&lt;p&gt;美国住房市场正面临严峻的利率压力。&lt;/p&gt;
 &lt;p&gt;据Mortgage News Daily数据，美国30年期固定抵押贷款平均利率9月16日升至7.24%，较一周前的6.97%大幅上升27个基点。9月17日，该利率小幅回落至7.19%，但仍明显高于7%关口。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，房地美周四公布，截至9月17日当周，美国30年期固定抵押贷款平均利率升至6.95%，较前一周的6.76%上升19个基点，创2025年1月以来最高水平。&lt;/p&gt;
@@ -80,7 +124,18 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美国联邦债务突破40万亿美元，AI资本开支推动企业大规模发债形成资金竞争，以及高油价推升通胀更高更久的预期——这些结构性因素共同推升长端利率。&lt;/p&gt;
 &lt;p&gt;一方面，月供压力直接削弱购房意愿；另一方面，数年前以不足现行利率一半的成本完成再融资的现有房主，面临&amp;quot;卖房即失去低息贷款&amp;quot;的困境，倾向于按兵不动。&lt;/p&gt;
-&lt;p&gt;目前美国房价仍处于高位、抵押贷款利率高企，现有房主面临&amp;quot;卖房即失去低息贷款&amp;quot;的困境，卖房意愿较弱，住房市场正面临“买不起、卖不动”的双重压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%</title><link>https://wallstreetcn.com/articles/3781940</link><guid>425896926e963bf7c1d3123c4d358835522091ce895624e8b88947f4a76aae0c</guid><pubDate>Thu, 17 Sep 2026 23:21:29 GMT</pubDate><description>&lt;p&gt;美联储加息后的市场恐慌情绪迅速消退。油价连续第二日下跌，为通胀预期降温提供支撑，美股、美债周四双双反弹，标普500指数创下六周最大单日涨幅。&lt;/p&gt;
+&lt;p&gt;目前美国房价仍处于高位、抵押贷款利率高企，现有房主面临&amp;quot;卖房即失去低息贷款&amp;quot;的困境，卖房意愿较弱，住房市场正面临“买不起、卖不动”的双重压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北汽极狐再攻15万元级市场</title><link>https://wallstreetcn.com/articles/3782006</link><guid>41bcef15ac77c0556263a97f50904caae664ab411efd75d55c9862fcff34e481</guid><pubDate>Thu, 17 Sep 2026 13:22:32 GMT</pubDate><description>&lt;p&gt;北汽极狐补齐了其大五座SUV的产线空白。&lt;/p&gt;
+&lt;p&gt;9月16日，北汽极狐推出阿尔法T7，共有9款车型，官方指导价13.68万至17.28万元，上市补贴价13.28万至16.88万元。新车提供纯电、增程两种动力，部分版本搭载华为乾崑ADS 5 Pro辅助驾驶系统。&lt;/p&gt;
+&lt;p&gt;阿尔法T7进入的是当前新能源汽车销量最集中的市场。&lt;/p&gt;
+&lt;p&gt;2025年，国内10万至20万元新能源车型销量达到694.1万辆，同比增长24%；其中10万至15万元车型销量354.9万辆，同比增长59.5%。这一价格带覆盖首购、家庭增购等需求，市场容量大，也汇集了车企最密集的产品投放。&lt;/p&gt;
+&lt;p&gt;过去，15万元级新能源SUV主要围绕价格、续航和使用成本竞争。随着电池、智能驾驶硬件和电子电气架构成本下降，大尺寸车身、800V平台和城区领航辅助驾驶开始进入这一市场。零跑C11、深蓝S07、比亚迪宋Ultra等车型持续更新，产品竞争由单项参数转向空间、补能、智能化与渠道服务的综合较量。&lt;/p&gt;
+&lt;p&gt;阿尔法T7延续了北汽极狐向主流家用市场扩展的产品思路。此前，北汽极狐已经通过T1、T5和S5等车型覆盖小型车、中型SUV及轿车市场。T7补充了一款大五座SUV，并以纯电、增程双动力扩大用户范围。&lt;/p&gt;
+&lt;p&gt;从参数看，阿尔法T7车长5020毫米、轴距3040毫米。增程版CLTC纯电续航320公里，综合续航1315公里；纯电版提供650公里和715公里两种续航，并采用800V高压平台。9款车型中有4款乾崑版，华为乾崑ADS 5 Pro可提供城区领航、高速领航及泊车辅助等功能。&lt;/p&gt;
+&lt;p&gt;北汽极狐近年来的销量基盘也在扩大。2025年，品牌销量达到16.10万辆，同比增长98.68%。今年1至7月，累计交付10.41万辆，同比增长80.25%；7月交付2.35万辆，同比增长150.45%。产品数量增加后，北汽极狐的增长重点正在从单款车型上量，转向多车型共同支撑。&lt;/p&gt;
+&lt;p&gt;从母公司经营情况看，今年上半年北汽蓝谷销量9.89万辆，同比增长47.27%；营业收入115.97亿元，同比增长21.86%。归母净亏损由上年同期的23.08亿元收窄至19.38亿元。销量增长和产品结构调整正在推动亏损收窄，阿尔法T7进入主流价格带后，将进一步承担扩大规模的任务。&lt;/p&gt;
+&lt;p&gt;北汽极狐称，阿尔法T7预售21天订单超过6万辆。为承接新品上市，公司已将全国经销店扩展至700家以上，并计划在年底前把售后服务网络扩大至1000家以上。对于面向家庭用户的主流车型，门店密度和售后覆盖有助于提高试驾、交付和维保效率。&lt;/p&gt;
+&lt;p&gt;阿尔法T7的上市进一步增加了15万元级新能源SUV的产品密度。这款车补齐了大尺寸主流SUV产品，并将华为辅助驾驶、双动力和长续航带入品牌的走量区间。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%</title><link>https://wallstreetcn.com/articles/3781940</link><guid>425896926e963bf7c1d3123c4d358835522091ce895624e8b88947f4a76aae0c</guid><pubDate>Thu, 17 Sep 2026 23:21:29 GMT</pubDate><description>&lt;p&gt;美联储加息后的市场恐慌情绪迅速消退。油价连续第二日下跌，为通胀预期降温提供支撑，美股、美债周四双双反弹，标普500指数创下六周最大单日涨幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;标普500指数上涨1.1%，纳斯达克100指数涨1.7%，费城半导体指数领涨3.1%。&lt;/p&gt;
 &lt;p&gt;10年期美国国债收益率结束八连升，从2007年以来最高水平回落9个基点至4.93%。布伦特原油收盘跌至105美元下方，黄金上涨1.9%。&lt;/p&gt;
@@ -158,18 +213,7 @@
 &lt;p&gt;&lt;strong&gt;现货白银&lt;/strong&gt;涨3.83%至65.66美元/盎司，盘中一度涨5%至66.13美元。&lt;/p&gt;
 &lt;p&gt;High Ridge Futures金属交易主管David Meger表示，黄金近期与能源价格保持着紧密的反向关系，能源价格当天大幅回落，正是这些更低的能源价格卸下了压在黄金市场身上的一部分压力。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;回到76677美元附近，从前一日美联储会议期间的沉寂中恢复。周五市场将面临日本央行议息与三重巫日两个变量，日本央行被广泛预期将在9月18日加息。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 北汽极狐再攻15万元级市场</title><link>https://wallstreetcn.com/articles/3782006</link><guid>41bcef15ac77c0556263a97f50904caae664ab411efd75d55c9862fcff34e481</guid><pubDate>Thu, 17 Sep 2026 13:22:32 GMT</pubDate><description>&lt;p&gt;北汽极狐补齐了其大五座SUV的产线空白。&lt;/p&gt;
-&lt;p&gt;9月16日，北汽极狐推出阿尔法T7，共有9款车型，官方指导价13.68万至17.28万元，上市补贴价13.28万至16.88万元。新车提供纯电、增程两种动力，部分版本搭载华为乾崑ADS 5 Pro辅助驾驶系统。&lt;/p&gt;
-&lt;p&gt;阿尔法T7进入的是当前新能源汽车销量最集中的市场。&lt;/p&gt;
-&lt;p&gt;2025年，国内10万至20万元新能源车型销量达到694.1万辆，同比增长24%；其中10万至15万元车型销量354.9万辆，同比增长59.5%。这一价格带覆盖首购、家庭增购等需求，市场容量大，也汇集了车企最密集的产品投放。&lt;/p&gt;
-&lt;p&gt;过去，15万元级新能源SUV主要围绕价格、续航和使用成本竞争。随着电池、智能驾驶硬件和电子电气架构成本下降，大尺寸车身、800V平台和城区领航辅助驾驶开始进入这一市场。零跑C11、深蓝S07、比亚迪宋Ultra等车型持续更新，产品竞争由单项参数转向空间、补能、智能化与渠道服务的综合较量。&lt;/p&gt;
-&lt;p&gt;阿尔法T7延续了北汽极狐向主流家用市场扩展的产品思路。此前，北汽极狐已经通过T1、T5和S5等车型覆盖小型车、中型SUV及轿车市场。T7补充了一款大五座SUV，并以纯电、增程双动力扩大用户范围。&lt;/p&gt;
-&lt;p&gt;从参数看，阿尔法T7车长5020毫米、轴距3040毫米。增程版CLTC纯电续航320公里，综合续航1315公里；纯电版提供650公里和715公里两种续航，并采用800V高压平台。9款车型中有4款乾崑版，华为乾崑ADS 5 Pro可提供城区领航、高速领航及泊车辅助等功能。&lt;/p&gt;
-&lt;p&gt;北汽极狐近年来的销量基盘也在扩大。2025年，品牌销量达到16.10万辆，同比增长98.68%。今年1至7月，累计交付10.41万辆，同比增长80.25%；7月交付2.35万辆，同比增长150.45%。产品数量增加后，北汽极狐的增长重点正在从单款车型上量，转向多车型共同支撑。&lt;/p&gt;
-&lt;p&gt;从母公司经营情况看，今年上半年北汽蓝谷销量9.89万辆，同比增长47.27%；营业收入115.97亿元，同比增长21.86%。归母净亏损由上年同期的23.08亿元收窄至19.38亿元。销量增长和产品结构调整正在推动亏损收窄，阿尔法T7进入主流价格带后，将进一步承担扩大规模的任务。&lt;/p&gt;
-&lt;p&gt;北汽极狐称，阿尔法T7预售21天订单超过6万辆。为承接新品上市，公司已将全国经销店扩展至700家以上，并计划在年底前把售后服务网络扩大至1000家以上。对于面向家庭用户的主流车型，门店密度和售后覆盖有助于提高试驾、交付和维保效率。&lt;/p&gt;
-&lt;p&gt;阿尔法T7的上市进一步增加了15万元级新能源SUV的产品密度。这款车补齐了大尺寸主流SUV产品，并将华为辅助驾驶、双动力和长续航带入品牌的走量区间。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期TIPS拍卖得标利率创2008年危机来最高，财政赤字与企业债务扩张引关注</title><link>https://wallstreetcn.com/articles/3782019</link><guid>cc5ba075e86e50becbad11aa7f24d2e06a125631b7df54f68191166788b1f508</guid><pubDate>Thu, 17 Sep 2026 20:43:30 GMT</pubDate><description>&lt;p&gt;美国财政部周四发行190亿美元10年期通胀保值国债（TIPS），&lt;strong&gt;中标实际收益率升至2.653%，创2008年以来最高&lt;/strong&gt;，且高于发行前市场水平，显示投资者对这批国债要求更高的实际回报。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10年期TIPS拍卖得标利率创2008年危机来最高，财政赤字与企业债务扩张引关注</title><link>https://wallstreetcn.com/articles/3782019</link><guid>cc5ba075e86e50becbad11aa7f24d2e06a125631b7df54f68191166788b1f508</guid><pubDate>Thu, 17 Sep 2026 20:43:30 GMT</pubDate><description>&lt;p&gt;美国财政部周四发行190亿美元10年期通胀保值国债（TIPS），&lt;strong&gt;中标实际收益率升至2.653%，创2008年以来最高&lt;/strong&gt;，且高于发行前市场水平，显示投资者对这批国债要求更高的实际回报。&lt;/p&gt;
 &lt;p&gt;具体来看，本次TIPS中标收益率为2.653%，较纽约时间下午1点投标截止时的发行前交易收益率（WI）高约1.9个基点。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;投标倍数为2.24，低于前三次标售平均的2.43，表明需求较此前有所降温。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从投资者结构来看，一级交易商获配比例升至12.2%，高于此前三次拍卖；间接投标人获配比例降至59.1%，直接投标人获配比例则升至28.7%。&lt;/p&gt;
@@ -244,47 +288,7 @@ AI研发越自动化，安全问题越受关注
 &lt;p&gt;Anthropic此次披露的数据提供了一个观察AI产业发展的新角度：市场过去主要通过模型参数、基准测试成绩和用户数量衡量AI进步，而Anthropic开始尝试衡量AI究竟在多大程度上参与了开发下一代AI。&lt;/p&gt;
 &lt;p&gt;从目前的数据来看，AI已经深度进入前沿AI实验室的研发流程，大量Agent正在承担研究和工程任务，但完全由AI独立完成整个研发过程仍未实现。&lt;/p&gt;
 &lt;p&gt;这也意味着，当前AI产业正在经历的变化，与其说是“AI已经能够自主研发AI”，不如说是AI正在快速提高自身参与AI研发的程度。&lt;/p&gt;
-&lt;p&gt;随着这一比例继续提升，如何衡量研发自动化程度、如何监督AI Agent行为，以及如何确保安全投入跟上研发自动化速度，可能成为前沿AI实验室未来需要持续回答的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银“鹰派加息”定性不改黄金长期看涨：分阶段目标最高5400美元，4000美元附近是增持良机</title><link>https://wallstreetcn.com/articles/3782025</link><guid>412ae04569ae04ae4945b878f4dd7c071d8ca5aa66ed5c02183b918d58ebf691</guid><pubDate>Thu, 17 Sep 2026 21:13:25 GMT</pubDate><description>&lt;p&gt;黄金近期面临来自美联储政策收紧的逆风，但瑞银认为这不足以动摇金属的长期投资逻辑。&lt;/p&gt;
-&lt;p&gt;华尔街见闻提及，9月16日，美联储将联邦基金利率目标区间上调25个基点至3.75%-4.00%，并暗示年内可能再度加息。&lt;/p&gt;
-&lt;p&gt;瑞银策略师Giovanni Staunovo将此次会议定性为&amp;quot;结束长期暂停的鹰派加息&amp;quot;，&lt;strong&gt;认为美国实际利率上升和美元走强将在短期内压制金价，同时警告8月大量流入黄金ETF的资金或面临流出风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不过，Staunovo同时指出，此次加息早在市场预期之内，并不改变黄金的长期投资价值。&lt;/strong&gt;他将全球债务水平上升、美元中期走弱预期以及明年美联储降息前景列为支撑黄金需求的核心因素，并&lt;strong&gt;将价格回调至每盎司4000美元附近视为增持机会。&lt;/strong&gt;&lt;/p&gt;
-
-加息落地，短期调整难以回避，长期逻辑未被动摇
-
-&lt;p&gt;美联储此次加息决议符合市场此前的普遍预期，但最新点阵图显示多数官员预计年内至少还将再加息一次，令鹰派信号进一步强化。&lt;/p&gt;
-&lt;p&gt;Staunovo表示，这一背景&amp;quot;仍是近期黄金的利空因素&amp;quot;，因为持有无息资产的机会成本随之上升。&lt;/p&gt;
-&lt;p&gt;他同时注意到，8月黄金ETF录得可观净流入，背后驱动因素主要是市场对美联储独立性的担忧以及不断攀升的政府债务水平。&lt;strong&gt;然而，随着本周会议呈现出的鹰派基调，上述部分仓位或面临获利了结或流出的压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Staunovo认为，短期波动掩盖不了黄金更深层的结构性支撑。他将以下因素列为长期利多：&lt;strong&gt;全球债务持续膨胀带来的财政可持续性隐忧、美元长期走弱的预期、美联储明年降息的可能性，以及持续高企的地缘政治不确定性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他还指出，黄金在实际利率上行期间所表现出的韧性说明，传统基于利率的估值模型&amp;quot;只反映了故事的一部分&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;储备资产可及性方面的顾虑、制裁风险以及对财政可持续性的质疑，正在推动各方逐步降低美元资产集中度，而黄金作为不依附于任何机构信用的资产，从中受益。&lt;/p&gt;
-
-央行购金提供结构性支撑，目标价最高看至5400美元
-
-&lt;p&gt;央行需求依然是金价的重要支柱。数据显示，中国人民银行8月增持黄金约20公吨，连续购入已达22个月；波兰国家银行与乌兹别克斯坦央行各增持约8公吨。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Staunovo维持对央行年度购金量750至1000公吨的预测，认为这将为金价提供&amp;quot;重要的结构性支撑&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以9月18日现货价每盎司4342美元为基准，瑞银设定了一系列分阶段价格目标：&lt;strong&gt;2026年12月达到4600美元，2027年3月升至5000美元，2027年6月进一步升至5200美元，2027年9月触及5400美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Staunovo写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们认为黄金的长期投资价值依然正面，价格若回落至4000美元附近，将提供增持的良机。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX考虑从倒闭初创公司购买数据，为Grok AI模型扩充训练资源</title><link>https://wallstreetcn.com/articles/3782023</link><guid>b36e8425cfe44efb3924414e8b293fdf260ac80c9fadd64d6c9e7a958ae81b2b</guid><pubDate>Thu, 17 Sep 2026 21:03:56 GMT</pubDate><description>&lt;p&gt;SpaceX正在探索从陷入困境或已倒闭的初创企业购买数据，以更低成本扩充其人工智能模型的训练资源。这一策略标志着该公司在AI数据获取方式上的重要转变，也折射出其在AI军备竞赛中加速追赶的迫切态势。&lt;/p&gt;
-&lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;SpaceX旗下AI部门SpaceXAI内部已就此展开讨论，目标是收购问题初创企业的客户信息及运营数据。相关讨论目前仍属非正式性质，尚未确定是否会达成实际交易。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SpaceXAI的上述做法与谷歌此前的操作如出一辙——谷歌曾在廉价航空公司Spirit Airlines停止运营后，出价1000万美元购买其业务数据用于AI训练，尽管此举引发了部分前机组人员的数据隐私质疑。&lt;/p&gt;
-&lt;p&gt;马斯克在近期一次内部会议上向SpaceX员工表示，&lt;strong&gt;&amp;quot;我们将用SpaceX所有信息的总和来训练Grok，它将以你们为师。&amp;quot;&lt;/strong&gt;这番表态表明，外部数据采购与内部数据挖掘将并行推进，共同服务于Grok模型的迭代升级。&lt;/p&gt;
-&lt;p&gt;周四，SpaceX收涨2.6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-争夺AI市场，Grok面临激烈竞争
-
-&lt;p&gt;SpaceX目前正全力推进AI业务，试图在与Anthropic、OpenAI等头部机构的竞争中争夺更多企业客户。高质量训练数据是提升AI模型在各类任务上表现的核心要素，也是各家AI公司争夺的关键资源。&lt;/p&gt;
-&lt;p&gt;SpaceXAI此前主要依赖马斯克旗下社交平台X的数据，以及内部&amp;quot;AI导师&amp;quot;团队来训练和优化模型。此次考虑引入外部数据集，是对原有数据战略的一次明显拓展。&lt;/p&gt;
-&lt;p&gt;值得注意的是，知情人士透露SpaceXAI仍在继续使用内部导师团队，协助工程师提升AI系统在金融、科学乃至幽默等专业领域的能力。&lt;/p&gt;
-
-&amp;quot;AI导师&amp;quot;团队经历动荡，管理架构重整
-
-&lt;p&gt;SpaceXAI于今年6月暂停了AI导师岗位的招聘，随后更换了团队领导层。在Starlink卫星互联网服务部门工作多年的Jack Garabedian接任团队负责人，接替了前任工程师Diego Pasini。&lt;/p&gt;
-&lt;p&gt;Garabedian上任后着力平息团队内部的不满情绪，通过建立工作流程、定期会议机制以及明确AI训练数据目标等方式，逐步稳定团队运营。&lt;/p&gt;
-&lt;p&gt;据悉数据团队在7月份的工作简报中总结了阶段性成果，包括在新AI模型和代码智能体方面取得的进展。简报写道：&amp;quot;这些成果的落地，离不开这个团队每天默默进行的精细标注、偏好对齐与验证工作。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 城堡证券：美股最坏时刻将过，AI板块将在10月领涨</title><link>https://wallstreetcn.com/articles/3782012</link><guid>bf01892ee8481a0acd1a94262cacf6cfd78d7d9798fc2daaa132327b8c1b3602</guid><pubDate>Thu, 17 Sep 2026 15:52:00 GMT</pubDate><description>&lt;p&gt;城堡证券策略师Scott Rubner认为，美股正处于阶段性低点，市场结构开始向好转变，投资者应把握月底前的进一步回调窗口，逢低增持核心资产。&lt;/p&gt;
+&lt;p&gt;随着这一比例继续提升，如何衡量研发自动化程度、如何监督AI Agent行为，以及如何确保安全投入跟上研发自动化速度，可能成为前沿AI实验室未来需要持续回答的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 城堡证券：美股最坏时刻将过，AI板块将在10月领涨</title><link>https://wallstreetcn.com/articles/3782012</link><guid>bf01892ee8481a0acd1a94262cacf6cfd78d7d9798fc2daaa132327b8c1b3602</guid><pubDate>Thu, 17 Sep 2026 15:52:00 GMT</pubDate><description>&lt;p&gt;城堡证券策略师Scott Rubner认为，美股正处于阶段性低点，市场结构开始向好转变，投资者应把握月底前的进一步回调窗口，逢低增持核心资产。&lt;/p&gt;
 &lt;p&gt;Rubner在致客户报告中表示，尽管9月弱势尚未结束，未来两周股市仍可能继续承压，但市场的供需格局正悄然改变。他预计，&lt;strong&gt;此前受重创的人工智能板块将率先在10月企稳回升，随后带动更广泛市场跟进。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;目前，标普500指数9月累计下跌约1.8%，较8月中旬高点回落3.2%，指数11个板块中有9个本月录得跌幅。Rubner指出，&lt;strong&gt;此轮回撤&amp;quot;表现为结构性轮动，而非无序抛售&amp;quot;，这一特征为后市反弹奠定了基础。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当前华尔街对美股后市判断存在分歧。美国银行策略师Savita Subramanian近期上调了标普500年终目标价，而被视为华尔街知名多头的Ed Yardeni则在风险累积背景下下调了预测。&lt;/p&gt;
