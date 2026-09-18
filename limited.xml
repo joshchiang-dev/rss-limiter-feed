@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 18 Sep 2026 20:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：加息并不足以终结美股涨势，长端利率、财政与地缘才是真正的风险</title><link>https://wallstreetcn.com/articles/3782077</link><guid>96df60cdddce184c1efd326b0b84582f46e68967f518acb13afc6bb3fafbd0c1</guid><pubDate>Fri, 18 Sep 2026 09:50:06 GMT</pubDate><description>&lt;p&gt;美联储于当地时间周三宣布加息25个基点后，市场并未延续此前的避险交易，反而在次日出现剧烈反转：美国股市、债市同步走高，AI芯片股领涨科技板块，空头集中平仓进一步放大涨势。周四，标普500指数收复50日均线，纳斯达克指数领涨主要股指，此前遭抛售的AI芯片股也出现强劲反弹。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 18 Sep 2026 20:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 美债收益率上涨之际，短期美债借券成本飙升，交易员大举布局空仓</title><link>https://wallstreetcn.com/articles/3782100</link><guid>adc42ea12a5a496f5fdd05117e71d81a9eb23592143ded2cd88ef762e46addd0</guid><pubDate>Fri, 18 Sep 2026 20:46:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;随着投资者大量借入近期发行的部分美债以建立空头头寸，关键短期美债的借贷成本正在飙升&lt;/strong&gt;，这一现象可能有助于支撑下周美国国债的发行。&lt;/p&gt;
+&lt;p&gt;随着美债收益率回升至多年来的高点，周末借入当前2年期和5年期国债的成本已变得更加昂贵。周五，2年期美债收益率上升7个基点至4.74%，创下2024年中期以来的最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;借贷成本上升表明，在回购市场中，与其他抵押品相比，交易员愿意支付更高的成本来借入特定的美债。这意味着这些债券正在以所谓的“特殊”状态交易，是市场需求增加的一个信号。&lt;/p&gt;
+&lt;p&gt;牛津经济研究院分析师John Canavan在研报中指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;两年期和五年期国债有望在周末前出现出人意料的特殊交易状态，交易员正在为下周两年期、五年期和七年期国债拍卖提前布局。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+收益率攀升推动空头布局
+
+&lt;p&gt;收益率持续上行是本轮回购成本上涨的核心驱动力之一。随着国债各期限收益率普遍走高，交易员被激励在回购市场借入特定国债以建立空头仓位，从而愿意接受更高的借贷成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;根据经纪商ICAP的数据，周五借入两年期当期国债的隔夜回购利率约为0.79%，较当天早些时候（纽约时间早7时30分左右）的0.95%进一步走低；五年期当期国债的回购利率更一度降至负0.85%，此前报0.29%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相比之下，普通国债的回购利率约为3.88%。回购利率越低，意味着借入该券种的需求越旺盛。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据CME集团数据，美联储议息会议后的抛售行情中，前端至中期国债期货新增了大量风险敞口，与新建空头仓位的信号一致。&lt;/p&gt;
+
+&amp;quot;待发行&amp;quot;机制加剧供给紧张
+
+&lt;p&gt;除空头布局外，国债拍卖前的&amp;quot;待发行&amp;quot;（when-issued）交易机制也是回购成本走高的重要原因。&lt;/p&gt;
+&lt;p&gt;已公告但尚未实际发行的国债，往往在拍卖前就会在市场上交易。华尔街交易商用待发行国债进行对冲和报价，但由于实物券尚不存在，实际供给极为有限，这迫使交易商在回购市场支付更高的借贷成本。&lt;/p&gt;
+&lt;p&gt;这一供给紧张局面通常被视为拍卖前景向好的先兆：回购利率下降也可能意味着持券人减少了可供借出的券量，进一步收紧了市场流动性。&lt;/p&gt;
+
+回购违约额上升，美联储持仓提供缓冲
+
+&lt;p&gt;市场紧张态势也体现在结算层面。根据美国存管信托及清算公司（DTCC）数据，9月17日美国国债回购违约（fails）日总额升至676亿美元，高于前一交易日的367亿美元，并超过五日移动均值547亿美元。&lt;/p&gt;
+&lt;p&gt;不过，美联储的持仓在一定程度上为市场提供了缓冲。自美联储于2025年停止缩表并持续在拍卖中续入到期证券以来，其持有最近一期两年期和五年期国债的比例均约为11.4%，分别对应约89亿美元和90亿美元。&lt;/p&gt;
+&lt;p&gt;周四美联储每日证券借出操作中，经销商对两年期和五年期国债的竞标均获足额满足，表明当前供给尚能应对市场需求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：加息并不足以终结美股涨势，长端利率、财政与地缘才是真正的风险</title><link>https://wallstreetcn.com/articles/3782077</link><guid>96df60cdddce184c1efd326b0b84582f46e68967f518acb13afc6bb3fafbd0c1</guid><pubDate>Fri, 18 Sep 2026 09:50:06 GMT</pubDate><description>&lt;p&gt;美联储于当地时间周三宣布加息25个基点后，市场并未延续此前的避险交易，反而在次日出现剧烈反转：美国股市、债市同步走高，AI芯片股领涨科技板块，空头集中平仓进一步放大涨势。周四，标普500指数收复50日均线，纳斯达克指数领涨主要股指，此前遭抛售的AI芯片股也出现强劲反弹。&lt;/p&gt;
 &lt;p&gt;市场的剧烈反转，也与摩根大通战略研究部9月10日举行的2026年全球宏观会议形成呼应。会议汇集15位宏观与市场领域的演讲者，&lt;strong&gt;核心判断是：在当前周期，股票与长端美债收益率可以同步上升，单纯的加息并不足以终结美股涨势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根大通认为，AI资本开支扩张和企业盈利仍是支撑权益市场的核心力量，而财政赤字、国债供给增加及期限溢价上升则持续推高长端收益率。&lt;strong&gt;真正值得警惕的并非收益率继续上行本身，而是10年期美债收益率突破5.5%-6%，尤其是以过快速度上冲这一“恐惧线”。&lt;/strong&gt;&lt;/p&gt;
 加息未必压垮美股，5.5%-6%才是关键阈值
@@ -102,33 +128,7 @@ AI代理账户成为新的权限枢纽
 &lt;p&gt;在日本国债市场，加息公告发布后，30年期国债期货抹去此前涨幅，20年期国债收益率报3.835%，10年期国债收益率跌幅收窄至约1.5个基点，两年期国债收益率下行2.5个基点至1.835%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
  
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什是如何在不激怒特朗普的情况下加息的</title><link>https://wallstreetcn.com/articles/3782071</link><guid>e5fadcd45080ab39743e4c8aeee81a55d65a3e7af95ee1be7b3aefd8b12c0153</guid><pubDate>Fri, 18 Sep 2026 08:53:03 GMT</pubDate><description>&lt;p&gt;美联储与白宫三年来首次真正意义上的政策摩擦，以一种出人意料的平静收场。&lt;/p&gt;
-&lt;p&gt;美联储周三宣布三年来首次加息，特朗普的回应却出奇温和。这与他此前数月持续抨击美联储利率政策的姿态形成鲜明对比，也是美联储主席沃什自今年5月上任以来，重塑央行与白宫关系的最直接体现。&lt;strong&gt;特朗普不仅未发动攻势，反而将自己描绘成主动&amp;quot;放行&amp;quot;的一方，声称他提前与沃什通话后表示&amp;quot;你不如跟着委员会投票，因为结果不会有什么不同&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一罕见局面的背后，是沃什与特朗普之间远比前任鲍威尔更为紧密的私人关系。据彭博及《华尔街日报》报道，&lt;strong&gt;特朗普在美联储会议召开前数日主动致电沃什，对话由私人寒暄延伸至加息预期。华盛顿私人俱乐部Ned内，多名政府官员当晚守着手机观看特朗普的表态，并对他未公开批评沃什明显感到如释重负。&lt;/strong&gt;然而，这种脆弱的平衡能否持续，市场与政策界均存有疑虑。&lt;/p&gt;
-
-电话通话：和解还是干预
-
-&lt;p&gt;据一名白宫高级官员透露，&lt;strong&gt;特朗普在美联储会议前数日主动联系沃什，通话最初以友好叙旧的方式展开，随后转向加息预期。&lt;/strong&gt;这一通话的存在，对许多总统核心顾问而言原本是未知的——部分高级官员是在特朗普周三于北卡罗来纳州向媒体提及时才得知此事。&lt;/p&gt;
-&lt;p&gt;特朗普随后在公开场合将此次加息定性为&amp;quot;针对特朗普的加息&amp;quot;，并将自己塑造为一个明知无法阻止却仍予以默许的角色，声称沃什面对的是一个&amp;quot;非常强硬的、反对白宫的&amp;quot;委员会。&lt;/p&gt;
-&lt;p&gt;沃什本人在新闻发布会上拒绝讨论任何与特朗普的对话内容。他将加息定性为美联储自身审议的结果，称这是&amp;quot;一个审慎的、严肃的、负责任的决定，是我自5月到任以来一直在准备和思考的&amp;quot;。他强调，自己的决策依据是经济状况，而非政治压力。白宫发言人Kush Desai则表示，特朗普&amp;quot;一再肯定对沃什的信任&amp;quot;，同时保留就政策发表意见的权利。&lt;/p&gt;
-
-关系管理：沃什的策略与鲍威尔的前车之鉴
-
-&lt;p&gt;与前任鲍威尔相比，沃什选择了一条截然不同的路径。据与沃什有过接触的人士描述，&lt;strong&gt;他自信能够按经济需要行事，同时以避免正面冲突的方式处理与总统的关系。&lt;/strong&gt;他刻意回避任何可能将政府拖入美联储内部争议的表态，并将央行独立性定位为一种需要&amp;quot;付诸实践而非公开宣示&amp;quot;的原则。&lt;/p&gt;
-&lt;p&gt;鲍威尔的情况形成对比。他在2018年美联储首次加息后的蜜月期仅维持约五个月，此后特朗普的攻击持续升级。鲍威尔虽接听总统来电，但态度疏离，既不主动维系关系，也不充当特朗普的经济顾问。在特朗普眼中，这被解读为一种对抗姿态。&lt;/p&gt;
-&lt;p&gt;前美联储顾问、现任杜克大学教授Ellen Meade认为，在当前环境下，&lt;strong&gt;维护美联储独立性或许需要的是&amp;quot;管理总统&amp;quot;而非&amp;quot;与其保持距离&amp;quot;。&lt;/strong&gt;她表示，提前告知白宫不利消息、避免让特朗普在政策公告发布后&amp;quot;立即暴跳如雷&amp;quot;，可以成为一种可行策略。但她同时划定了清晰边界：提前通气是一回事，主动寻求总统&amp;quot;首肯&amp;quot;则是另一回事，后者将从根本上损害央行独立性。她也坦言，&amp;quot;我不认为沃什能用鲍威尔那种方式来做这份工作。&amp;quot;&lt;/p&gt;
-
-历史先例：格林斯潘模式的参照与风险
-
-&lt;p&gt;沃什的路径并非没有历史参照。前美联储主席格林斯潘曾横跨四届政府，与历任总统及其顾问保持密切关系，同时在政策上保持独立判断。1992年，他与老布什政府决裂——后者公开批评美联储降息过慢，并将连任失败部分归咎于格林斯潘，留下了&amp;quot;我重新任命了他，他却让我失望&amp;quot;的著名表述。&lt;/p&gt;
-&lt;p&gt;然而，沃什的处境存在额外的政治风险。前美联储顾问Meade警告，若让白宫认为加息是被&amp;quot;强加&amp;quot;给沃什的，而非他主动主导的决策，可能反而会鼓励政府进一步向其他美联储官员施压。&lt;/p&gt;
-&lt;p&gt;特朗普政府去年曾尝试解雇美联储理事Lisa Cook，虽被最高法院今夏阻止，但据报道白宫近期已采取行动准备再次尝试。部分美联储内部人士还对即将发布的硅谷银行倒闭调查报告感到不安，担心其结论将被白宫用作解雇前监管副主席Michael Barr的依据。&lt;/p&gt;
-
-分歧犹存：沃什的领导力受到质疑
-
-&lt;p&gt;即便特朗普未发动直接攻击，沃什仍面临来自总统圈子内部的批评。特朗普贸易顾问Peter Navarro在接受采访时表示，他&amp;quot;试图理解为什么沃什会做出如此违背历史先例、如此与基本经济逻辑相悖的决定&amp;quot;。Navarro还补充称，沃什本可以以&amp;quot;更好的方式&amp;quot;执行总统的意思，例如&amp;quot;在声明中释放信号，表明自己更倾向于不加息，只是顺应了委员会&amp;quot;。&lt;/p&gt;
-&lt;p&gt;美国企业研究所经济学家Michael Strain则将特朗普关于通话的叙述定性为&amp;quot;挽回颜面的说法&amp;quot;，并认为暗示沃什无法主导自己委员会的说法&amp;quot;既荒谬又失实&amp;quot;。&lt;/p&gt;
-&lt;p&gt;特朗普的表述也让市场投资者对一个核心问题产生疑虑：沃什究竟是在领导美联储，还是在被美联储裹挟前行。一名高级政府官员的警告更为这种不确定性增添了变数：若美联储在10月——中期选举前夕——再次加息，沃什将面临来自特朗普和其顾问更大的审视压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 暴赚17000%的神话破灭！“土耳其版高盛”轰然崩塌，140亿美元惨遭清算</title><link>https://wallstreetcn.com/articles/3782106</link><guid>10c4ac3058371acf2d8fc848d51da0a2f9de87816204269217322b9374013a78</guid><pubDate>Fri, 18 Sep 2026 20:15:45 GMT</pubDate><description>&lt;p&gt;在金融市场里，那些反直觉的超高收益，往往都暗中标好了毁灭的代价。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 暴赚17000%的神话破灭！“土耳其版高盛”轰然崩塌，140亿美元惨遭清算</title><link>https://wallstreetcn.com/articles/3782106</link><guid>10c4ac3058371acf2d8fc848d51da0a2f9de87816204269217322b9374013a78</guid><pubDate>Fri, 18 Sep 2026 20:15:45 GMT</pubDate><description>&lt;p&gt;在金融市场里，那些反直觉的超高收益，往往都暗中标好了毁灭的代价。&lt;/p&gt;
 &lt;p&gt;最近，一家立志成为“土耳其版高盛”的投行Tera Group，用一场惊天崩盘，再次向全球投资者验证了这个常识。&lt;/p&gt;
 &lt;p&gt;从一年暴涨2000%的妖股，到被司法部定性为“类庞氏骗局”，这家狂飙突进的金融集团不仅将自己送上了末路，更在土耳其金融系统引发了一场罕见的超级地震。&lt;/p&gt;
 
