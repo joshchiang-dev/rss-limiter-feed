@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 18 Sep 2026 06:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨</title><link>https://wallstreetcn.com/articles/3782052</link><guid>665496a5d11cbf5a4121cdfd276748cc39866332a59a4bcc347574f1d386e1fb</guid><pubDate>Fri, 18 Sep 2026 04:19:05 GMT</pubDate><description>&lt;p&gt;日本央行周五（9月18日）将基准利率上调25个基点至1.25%，为1995年以来最高水平，也是自2024年3月退出负利率政策以来的第六次加息。此次加息速度创下1990年以来最快纪录，标志着日本货币正常化进程进入新阶段。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 18 Sep 2026 06:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨</title><link>https://wallstreetcn.com/articles/3782052</link><guid>665496a5d11cbf5a4121cdfd276748cc39866332a59a4bcc347574f1d386e1fb</guid><pubDate>Fri, 18 Sep 2026 04:19:05 GMT</pubDate><description>&lt;p&gt;日本央行周五（9月18日）将基准利率上调25个基点至1.25%，为1995年以来最高水平，也是自2024年3月退出负利率政策以来的第六次加息。此次加息速度创下1990年以来最快纪录，标志着日本货币正常化进程进入新阶段。&lt;/p&gt;
 &lt;p&gt;决策并非全票通过。&lt;strong&gt;九名委员中，日本首相高市早苗任命的两位再通胀派委员浅田统一郎和佐藤绫野投了不同意见票，主张按兵不动，&lt;/strong&gt;反映出行内对进一步紧缩的分歧犹存。分析认为，这释放出了鸽派信号：主张刺激经济的高市早苗可能不愿看到未来加息步伐过快。&lt;/p&gt;
 &lt;p&gt;在日本央行决议宣布后，日元短线走弱，目前再度跌破157关口，市场将两票反对解读为未来加息阻力加大的信号。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -122,7 +122,28 @@
 &lt;p&gt;Anthropic提示用户注意项目级别的用量监控，并支持分别为协调者聊天和工作线程选择模型及算力等级，以便灵活管控成本。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在功能路线图方面&lt;/strong&gt;，Anthropic表示线程&lt;strong&gt;目前仅在云端运行&lt;/strong&gt;，支持在本地机器上运行、调用本地工具和代码、以及接入内网的功能即将推出。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;就当前的测试版访问资格而言，仅限在Claude Code中使用云端会话、且在网页端或桌面端尚无已有Projects的Pro和Max用户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;已有Projects的用户仍可正常使用现有功能，Anthropic将在后续扩展至聊天和Cowork功能时统一完成升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指重返3900点，创业板涨超2%，半导体爆发，创新药拉升，恒科指涨超1%，联想创新高，MINIMAX涨13%</title><link>https://wallstreetcn.com/articles/3782045</link><guid>9121e2c154ffbd94afffe07e6acddd04c9f22f84f55296b51d74099ddccc3375</guid><pubDate>Fri, 18 Sep 2026 05:48:37 GMT</pubDate><description>&lt;p&gt;9月18日，A股早盘放量普涨，三大股指全线走高，盘中集体涨超1%，创业板涨超2%，沪指重新站上3900点，科创50半日大涨近4%领跑全场。半导体设备、先进封装、存储芯片、算力芯片全线爆发，CPO光模块、创新药、大消费共振走强，前期强势的农业、汽车高位股则集体回吐。&lt;/p&gt;
+&lt;p&gt;已有Projects的用户仍可正常使用现有功能，Anthropic将在后续扩展至聊天和Cowork功能时统一完成升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 3个人+Claude，攻进OpenAI核心代码库！AI正在降低黑客门槛</title><link>https://wallstreetcn.com/articles/3782062</link><guid>2a712285bccd1ea84ae52eae378ffe855fe1a3b0f9d8f91bcea3db87b8e1140f</guid><pubDate>Fri, 18 Sep 2026 06:27:11 GMT</pubDate><description>&lt;p&gt;人工智能工具正在重塑网络攻击的门槛与边界。一支仅由三人组成的独立安全研究团队，借助Anthropic的Claude软件成功侵入OpenAI员工账户，并获得了访问该公司核心代码库的权限。&lt;/p&gt;
+&lt;p&gt;据《华尔街日报》17日披露，&lt;strong&gt;安全研究公司Hacktron AI的三名研究人员通过OpenAI的漏洞赏金计划，于今年7月以AI辅助手段突破了OpenAI的防线，成功访问了该公司名为&amp;quot;Monorepo&amp;quot;的私有代码库。OpenAI向该团队支付了6500美元的赏金，并确认相关漏洞已全部修复。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一事件发生在另一起AI安全事故仅两周之后——当时一批AI代理在OpenAI失控出逃，随后攻击了AI平台Hugging Face。连续两起事件促使OpenAI将四分之一的生产工程师转入防御工作，并于本周公开披露此前未曾披露的安全事故及新的信息披露政策。&lt;/p&gt;
+&lt;p&gt;OpenAI联合创始人兼总裁Greg Brockman表示，公司在此次安全审计中发现了&amp;quot;若干严重问题&amp;quot;并已予以修复。&lt;/p&gt;
+
+漏洞链条：从论坛图片处理到核心代码库
+
+&lt;p&gt;此次攻击始于7月23日，Hacktron AI研究人员在OpenAI社区讨论论坛的托管服务Discourse中，发现了一个与图片文件处理方式相关的漏洞。研究人员使用了一个面向合格网络安全从业者开放的特殊版本Claude Opus 4.8，要求其编写利用该漏洞的攻击代码，但初次尝试并未成功。&lt;/p&gt;
+&lt;p&gt;当晚，Anthropic发布了Opus 5，次日Claude便找到了可行的漏洞利用路径。生成的攻击代码使研究人员得以进入托管OpenAI讨论论坛的Discourse服务器，并从中获取用户的身份验证令牌（token）——这些由字母和数字组成的唯一数字串，是用户访问在线服务的凭证。&lt;/p&gt;
+&lt;p&gt;出乎研究人员意料的是，&lt;strong&gt;这些令牌在ChatGPT上同样有效，且部分令牌属于OpenAI员工。&lt;/strong&gt;这些令牌还可被用于访问OpenAI的GitHub服务——即其软件代码仓库。Discourse方面表示，该漏洞已于7月25日（即收到通知当天）完成修复。OpenAI则表示，其对GitHub的审查结果显示，私有代码库元数据及代码变更仅存在&amp;quot;有限读取&amp;quot;。&lt;/p&gt;
+
+&amp;quot;Monorepo&amp;quot;：OpenAI的算法秘密武器
+
+&lt;p&gt;据媒体援引知情人士介绍，研究人员所访问的&amp;quot;Monorepo&amp;quot;是OpenAI的大型软件代码库，存储着该公司的算法核心机密，是提升模型速度与效率的关键所在。不过，上述知情人士指出，&lt;strong&gt;该库并不包含模型权重——这才是OpenAI真正的核心资产，是大型语言模型中数以万亿计的参数数字，决定着模型如何对信息进行筛选和处理。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研究人员以ChatGPT为操作界面读取了Monorepo中的文件，并在意识到可能触碰敏感数据后主动停止了操作。此前，他们已通过聊天机器人发出一条&amp;quot;pull request&amp;quot;（代码修改请求），建议在某一文档文件中加入&amp;quot;Hacktron AI Team PoC&amp;quot;字样及相关人员的社交媒体账户链接，以此作为成功访问的证明。该修改请求未被接受。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我们不认为我们的能力能与其他的威胁行为者相提并论，&amp;quot;Hacktron AI首席技术官Mohan Pedhapati说，&amp;quot;我们只是三个拥有Claude和Codex订阅账户的普通人。&amp;quot;&lt;/p&gt;
+
+AI工具拉低攻击门槛，安全威胁风险陡升
+
+&lt;p&gt;此次事件反映出更宏观的网络安全隐忧。AI安全公司Abundant Security首席技术官Joshua Saxe在审阅了Hacktron AI的事件报告后表示，&lt;strong&gt;全球软件系统中漏洞密布，过去之所以未能被全部发现，是因为直到去年，能够发现这些漏洞的专家级人才也不过数千人。&amp;quot;现在，AI代理正在让这种能力向技术水平较低的人群扩散，&amp;quot;他说。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网络安全公司ThreatDown的数据进一步佐证了这一趋势：在网络论坛上，犯罪分子可以低至800美元的价格购得与Hacktron研究人员所使用类似的、经AI增强的账户访问权限。&lt;/p&gt;
+&lt;p&gt;在AI竞争持续升温的背景下，参与此次攻击的研究人员警告称，此案表明，高水平网络攻击团队极有可能以类似方式窃取AI核心机密。OpenAI CEO山姆·奥特曼（Sam Altman）等科技公司高管已于上周六联署呼吁暂停AI开发，认为当前的推进速度已超出各公司安全管控的能力范围。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指重返3900点，创业板涨超2%，半导体爆发，创新药拉升，恒科指涨超1%，联想创新高，MINIMAX涨13%</title><link>https://wallstreetcn.com/articles/3782045</link><guid>9121e2c154ffbd94afffe07e6acddd04c9f22f84f55296b51d74099ddccc3375</guid><pubDate>Fri, 18 Sep 2026 05:48:37 GMT</pubDate><description>&lt;p&gt;9月18日，A股早盘放量普涨，三大股指全线走高，盘中集体涨超1%，创业板涨超2%，沪指重新站上3900点，科创50半日大涨近4%领跑全场。半导体设备、先进封装、存储芯片、算力芯片全线爆发，CPO光模块、创新药、大消费共振走强，前期强势的农业、汽车高位股则集体回吐。&lt;/p&gt;
 &lt;p&gt;港股早盘高开高走，恒指、恒科指双双上涨，恒科指亦涨超1%，权重科网股多数上涨，联想集团大涨超7%，创历史新高，市值超越美团，芯片股反弹，兆易创新、华虹宏力等涨幅居前。AI大模型股再度走高，MINIMAX暴涨13%。债市方面，国债期货多数上涨。商品方面，国内商品期货多数下跌，贵金属期货逆势走高，隔夜国际黄金大涨，逼近4400美元关口。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨1.00%，深成指涨1.75%，创业板指涨2.42%。&lt;/p&gt;
@@ -425,80 +446,4 @@
 &lt;p&gt;&lt;strong&gt;现货白银&lt;/strong&gt;涨3.83%至65.66美元/盎司，盘中一度涨5%至66.13美元。&lt;/p&gt;
 &lt;p&gt;High Ridge Futures金属交易主管David Meger表示，黄金近期与能源价格保持着紧密的反向关系，能源价格当天大幅回落，正是这些更低的能源价格卸下了压在黄金市场身上的一部分压力。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;回到76677美元附近，从前一日美联储会议期间的沉寂中恢复。周五市场将面临日本央行议息与三重巫日两个变量，日本央行被广泛预期将在9月18日加息。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息后第二日，美国股债齐升、黄金反弹，发生了什么？</title><link>https://wallstreetcn.com/articles/3782033</link><guid>0d08e25c1c637ec1c6b539bc13f0fcec505c6ab991d4294d7e1870186d28bad4</guid><pubDate>Thu, 17 Sep 2026 23:44:44 GMT</pubDate><description>&lt;p&gt;美联储加息后第二日，市场上演剧烈反转。股市、债市、黄金同步走高，AI芯片股领涨科技板块，空头遭遇大规模逼仓，恐慌情绪迅速消退。&lt;/p&gt;
-&lt;p&gt;周四，标普500指数收复50日均线，纳斯达克指数领涨主要指数，此前遭抛售最重的AI芯片股强势反弹。英特尔单日涨逾7.7%，Arm涨8.6%，AMD涨6.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，美国国债收益率全线回落，10年期收益率抹去前一日涨幅，30年期收益率较周二收盘下行8个基点，长端利率逼空行情显著。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;现货黄金涨2.3%，从前一交易日的近六周低位反弹、逼近4400美元关口。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;分析认为此轮反弹的核心逻辑有三：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;其一&lt;/strong&gt;，&lt;strong&gt;原油价格下滑&lt;/strong&gt;缓解了市场对能源供应危机的担忧，初步改善了风险偏好；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;其二&lt;/strong&gt;，&lt;strong&gt;长端利率下行信号&lt;/strong&gt;令市场对加息路径的预期边际软化，数据中心建设等资本开支密集领域的估值压力随之减轻；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;其三&lt;/strong&gt;，&lt;strong&gt;空头被迫平仓止损&lt;/strong&gt;，客观上构成了推高股价的被动动能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;高盛数据显示，被做空程度最重的股票组合当日大涨，创六周以来最大单日涨幅。但高盛交易台给出的市场活跃度评分仅为 4/10，暗示本轮反弹可能缺乏后劲。&lt;/strong&gt;&lt;/p&gt;
-
-原油回落打开风险偏好空间
-
-&lt;p&gt;周四市场走势的起点，是原油价格的隔夜下跌。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782018"&gt;华尔街见闻提及&lt;/a&gt;，沙特被曝向胡塞武装提议两周停火。此外据新华社，王毅周三同伊朗外长会谈时表示，中方不希望地区紧张向也门和红海方向进一步外溢，呼吁通过对话谈判解决问题。&lt;/p&gt;
-&lt;p&gt;上述消息令现货布伦特原油在前两日内大幅回落，缓解了实物市场的部分恐慌情绪。&lt;/p&gt;
-&lt;p&gt;美国WTI原油盘中跌破100美元关口，刷新日低时跌至99.1美元，日内跌近3.3%；布伦特原油刷新日低至101.53美元，日内跌幅近4.1%，后逐步收窄盘中多数跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;成品油产品价格涨跌互现，汽油价格创下周期新高，而柴油价格暴跌，取暖油价格也出现下滑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;然而，供应面的根本风险并未消除。CIBC私人财富集团的高级能源交易员Rebecca Babin表示，供应整体仍偏紧，对价格形成支撑，美伊冲突持续扰乱中东能源流通，俄乌局势亦未见明朗。&lt;/p&gt;
-&lt;p&gt;Global Risk Management首席分析师Arne Lohmann Rasmussen表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们将此视为原油及成品油的逢低买入机会，价格有所回落，但潜在的供应风险并未消失。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;摩根大通分析师Natasha Kaneva在报告中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;自伊朗冲突爆发以来，我们第一次没有基准预测……我们根本不知道如何对结局建模。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-长端利率下行为市场背书
-
-&lt;p&gt;美联储加息后第二日，美债市场走出了与加息方向相反的行情。&lt;/p&gt;
-&lt;p&gt;美国长债收益率领跌，30年期国债收益率较周二收盘下行8个基点，抹去前一日涨幅，并于尾盘加速走强。与此同时，疲软的美国房屋数据强化了对经济前景的谨慎预期。&lt;/p&gt;
-&lt;p&gt;英国国债同日上涨、长端收益率下行逾10个基点，进一步带动美债情绪好转。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;花旗分析师Michael Chang表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美联储在对抗通胀尾部风险方面显示出可信度，这对债券投资者是正面信号。长期通胀预期在昨日和今日均有所回落，正是这一逻辑的体现。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此次加息是本世纪以来的第四轮加息周期，也是20世纪50年代中期以来的第15轮。据德意志银行梳理历史数据，过去加息周期平均持续22个月，中位数15个月，平均累计加息478个基点，中位数313个基点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当前市场定价反映的是一轮极为克制的紧缩路径。未来12个月累计加息约95个基点，若成真将是现代史上最浅的加息周期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，历史一再表明，&lt;strong&gt;加息周期的最终程度在启动之初往往难以预判，最终结果几乎总是超出市场最初的预期&lt;/strong&gt;。从首次加息起算，历史上经济衰退平均约在3至3.5年后到来，但区间波动较大。&lt;/p&gt;
-&lt;p&gt;10月加息概率目前维持在55%左右，12月加息概率约75%，但本轮加息周期是否会就此见顶，仍是当前市场最大的分歧所在。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-AI芯片股成为最大赢家，逼空行情主导盘面
-
-&lt;p&gt;周四科技板块领涨大盘的背后，AI芯片股的反弹尤为突出。&lt;/p&gt;
-&lt;p&gt;费城半导体指数涨3.14%至11599.05点，是当天表现最强的主要指数。存储与逻辑芯片同步走强。超威半导体涨6.36%，闪迪涨6.21%，美光涨5.50%，迈威尔科技涨4.81%，西部数据涨1.65%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;D.A. Davidson董事总经理Gil Luria指出，油价下跌与美债收益率回落，共同&amp;quot;消除了投资者在周三美联储会议后的部分担忧&amp;quot;。&lt;/strong&gt;他表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;数据中心建设对利率高度敏感，因此任何利率上行空间减少的信号，对数据中心扩建以及半导体公司而言都是利好。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;高盛数据显示，当日行情高度集中，标普500剔除AI相关成分股后几乎原地踏步，较周二收盘仍下跌近1%，&lt;strong&gt;这意味着整体反弹几乎全部由AI相关股票贡献，而非行业层面的全面扩散。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此外周四反弹的关键机制，在于空头仓位的集中回补&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛交易台观察到盘面呈现&amp;quot;逼仓倾向&amp;quot;，&lt;strong&gt;被做空程度最重的股票组合当日涨幅创六周新高&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;就连之前一年跌得最惨的高弹性股票也跟着暴涨，这两点都说明这波行情只是纯粹的技术性超跌反弹，没有基本面资金在进场布局。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从仓位结构来看，此次反弹发生在一个相对&amp;quot;干净&amp;quot;的起点上——市场此前几乎没有任何持仓负担：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;高盛数据显示，CTA 策略基金的美股多头头寸仅为 373 亿美元，处于近一年来的底部区域。&lt;/li&gt;
-&lt;li&gt;基本面对冲基金的净杠杆率更是砸到了第5分位数的极低水平，这意味着机构手头的加仓空间极其充裕。&lt;/li&gt;
-&lt;li&gt;情绪面同样处于低位，高盛援引美国散户协会（AAII）情绪调查称，当前牛熊差处于2026年新低，为2025年5月以来最悲观水平，也是ChatGPT时代以来最低区间之一。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不过，高盛Prime业务数据也显示，对冲基金上周刚刚大举净卖出宏观资产，抛售规模创下去年2月份以来的新高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这意味着，今天的猛烈拉升虽然让系统性抛压暂时缓解，但远未彻底解除。据高盛测算，即便未来一周美股横盘震荡，CTA 资金仍将根据模型自动卖出约300亿美元的美股。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
