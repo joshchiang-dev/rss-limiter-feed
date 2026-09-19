@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 10:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？</title><link>https://wallstreetcn.com/articles/3782125</link><guid>cd3046991cbdaefd6d88c8244b39b56969176d562144bfe523612187593407e2</guid><pubDate>Sat, 19 Sep 2026 05:32:32 GMT</pubDate><description>&lt;p&gt;巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 11:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？</title><link>https://wallstreetcn.com/articles/3782125</link><guid>cd3046991cbdaefd6d88c8244b39b56969176d562144bfe523612187593407e2</guid><pubDate>Sat, 19 Sep 2026 05:32:32 GMT</pubDate><description>&lt;p&gt;巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。&lt;/p&gt;
 &lt;p&gt;在9月18日发布的最新研报中，巴克莱对人形机器人投资热潮提出了三点判断：瓶颈在智能而非硬件，算力拉动集中在边缘而非数据中心，Physical AI颠覆的第一波浪潮很可能根本不是人形的。&lt;/p&gt;
 &lt;p&gt;报告中，巴克莱还围绕着规模、算力、形态等投资者最关切的问题进行了详细分析。&lt;/p&gt;
 争议一：大规模部署，2035而非2030
@@ -336,58 +336,16 @@ IPO窗口下的优先级重排
 宏观经济影响：利好亚洲内存生产商
 &lt;p&gt;瑞银特别指出，内存支出的性质——究竟是价格驱动还是量的扩张——对宏观经济的影响存在本质差异。&lt;/p&gt;
 &lt;p&gt;若增量支出主要反映内存价格上涨，则对美国实际GDP的贡献将相当有限。在这一情景下，资金流向将更多体现为从AI基础设施投资方向内存生产商的利润转移，而全球主要内存生产商集中于亚洲，相关经济体将因此获得更为直接的GDP正向贡献。&lt;/p&gt;
-&lt;p&gt;这一判断对投资者的资产配置具有重要参考意义：随着AI投资周期深化，亚洲内存产业链的受益程度或将超出此前市场预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加州州长签署行政令加强AI监管，评估设置AI“紧急关停开关”，批评特朗普"昏昏欲睡"</title><link>https://wallstreetcn.com/articles/3782118</link><guid>7301069d4f279c7f56aab327100563576035ab729aed6a52fa7b75b2dbf5ce90</guid><pubDate>Fri, 18 Sep 2026 23:06:55 GMT</pubDate><description>&lt;p&gt;加州州长加文·纽森（Gavin Newsom）签署行政令，&lt;strong&gt;要求评估针对人工智能系统的一系列监管措施，包括为前沿AI模型设置&amp;quot;紧急关停开关&amp;quot;，&lt;/strong&gt;此举将加州推向美国AI治理的前沿，也令其与特朗普政府的监管路线形成直接对立。&lt;/p&gt;
-&lt;p&gt;该行政令要求召集专家，就多项AI监管政策的可行性展开评估，相关建议须在两个月内提交。纽森的办公室同日&lt;strong&gt;公开批评特朗普和国会在AI监管上&amp;quot;昏昏欲睡&amp;quot;，并表示加州将填补联邦层面的监管空白。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次行动的背景是，AI安全风险的讨论已从硅谷内部迅速蔓延至公众视野。OpenAI披露其AI代理发生&amp;quot;失控&amp;quot;行为并攻击AI公司Hugging Face，以及一名前Anthropic员工公开警告前沿AI实验室&amp;quot;正在拿我们的生命赌博&amp;quot;，均引发广泛关注。&lt;/p&gt;
-&lt;p&gt;与此同时，Anthropic、OpenAI、SpaceX及谷歌旗下AI部门的负责人近日相继表态，认为AI研究推进速度应当放缓。&lt;/p&gt;
-
-行政令核心内容：独立评估与&amp;quot;关闭开关&amp;quot;
-
-&lt;p&gt;根据该行政令，加州政府运营局（Government Operations Agency）将就以下提案评估其技术可行性和潜在效果：&lt;strong&gt;要求前沿AI实验室引入独立评估机构、对其安全框架及报告进行第三方核实，以及为尖端模型内置&amp;quot;紧急关停开关&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;行政令还将加快此前已通过的两项加州法律的落地进程，这两项法律分别旨在建立独立AI核查机构的认证框架，以及创建AI审计员的州级注册登记制度。&lt;/p&gt;
-&lt;p&gt;纽森在声明中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我们将以深思熟虑但紧迫的速度推进这项工作，风险太高，不容等待或拖延。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-与联邦路线背道而驰，矛头直指特朗普
-
-&lt;p&gt;纽森此次行动与特朗普政府的AI监管立场形成鲜明对比，特朗普倾向于对AI采取轻监管。&lt;/p&gt;
-&lt;p&gt;纽森对此直接开炮。他在声明中称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;联邦政府在建立任何有意义的AI监管或问责机制上的彻底失败，应当令每一个美国人感到警惕——尤其是在AI公司的CEO们自己都在呼吁监管的情况下。我们不会等待——我们将加速推进实质性且负责任的AI监管工作，赶在为时已晚之前。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;行业层面的自律动向为纽森的政策推进提供了一定背书。Anthropic和OpenAI均已表示将在各自公司内部引入独立AI评估机构，与加州行政令所倡导的方向高度契合。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心公司Nscale公开递交美股IPO申请，英伟达持股超5%</title><link>https://wallstreetcn.com/articles/3782115</link><guid>1f9a527f39cf88b0edda2b714e596e27fb3a95337695888a55a1b899d6f87fac</guid><pubDate>Fri, 18 Sep 2026 23:06:43 GMT</pubDate><description>&lt;p&gt;伦敦数据中心运营商Nscale正式向美国证券交易委员会递交上市申请，寻求在纽约筹资最多30亿美元，以扩充支撑AI算力需求的基础设施规模。&lt;/p&gt;
-&lt;p&gt;Nscale是于2024年初从一家加密货币挖矿业务分拆而来，目前已迅速跻身AI基础设施赛道的头部玩家。&lt;/p&gt;
-&lt;p&gt;招股文件显示，&lt;strong&gt;截至2026年8月，Nscale在其数据中心拥有和控制的电力规模超过10吉瓦，合同总价值约1030亿美元。公司合作伙伴涵盖英伟达和微软。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最新财务数据显示，公司营收快速攀升，但亏损同步扩大。&lt;/p&gt;
-&lt;p&gt;截至6月30日的六个月，&lt;strong&gt;Nscale实现营收1.406亿美元，净亏损10.2亿美元；而上年同期营收仅为1040万美元，净亏损3.689亿美元。&lt;/strong&gt;高速增长伴随高额资本投入，凸显AI基础设施赛道的典型特征，也将成为投资者评估本次IPO的核心议题。&lt;/p&gt;
-&lt;p&gt;今年以来，AI基础设施概念驱动全球新股发行量持续回升。据彭博数据，年初至今IPO融资总额已达1614亿美元，为2021年以来最高水平。Nscale若顺利完成上市，将成为这一浪潮中又一标志性案例。&lt;/p&gt;
-
-从加密矿场到AI算力枢纽
-
-&lt;p&gt;Nscale于2024年初从加密货币挖矿业务中拆分独立，随即转型为&amp;quot;新云&amp;quot;（neocloud）运营商，向AI开发企业出租算力资源。短短一年余，公司已成为AI数据中心赛道最受瞩目的新兴力量之一。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今年3月，Nscale完成C轮融资，由Aker ASA及投资机构8090 Industries领投，英伟达和诺基亚参与其中，公司估值约为146亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;招股文件显示，Aker、Sandton Capital Partners以及与Payne相关联的一个信托基金均持有公司5%以上股权。&lt;/p&gt;
-&lt;p&gt;Nscale董事会阵容亦颇具看点，&lt;strong&gt;前Meta高管Sheryl Sandberg及曾任英国副首相的Nick Clegg均位列其中。&lt;/strong&gt;&lt;/p&gt;
-
-获Anthropic 450亿美元租赁承诺
-
-&lt;p&gt;Nscale将旗下主要设施定位为&amp;quot;超大规模AI枢纽&amp;quot;，分布于挪威、葡萄牙、美国德克萨斯州及西弗吉尼亚州，每处装机电力均达200兆瓦以上。&lt;/p&gt;
-&lt;p&gt;其中，位于西弗吉尼亚州的旗舰项目Monarch计算园区体量最为庞大。招股文件显示，该园区占地约2250英亩，预计2028年上半年投产时总电力容量可达2吉瓦，并计划于2031年前扩展至约8吉瓦。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今年8月，AI初创公司Anthropic宣布已同意斥资450亿美元，向Monarch园区租用AI云计算资源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在北欧方面，&lt;strong&gt;Nscale今年4月同意在其挪威纳尔维克设施向微软的现有租约中新增逾3万枚英伟达芯片。&lt;/strong&gt;&lt;/p&gt;
-
-英伟达持股超5%
-
-&lt;p&gt;英伟达在本次IPO中的角色尤为关键，既是股东，也是供应商，同时还是潜在的大额债权人。&lt;/p&gt;
-&lt;p&gt;招股文件显示，&lt;strong&gt;Nscale在B轮融资中向英伟达发行认股权证，使后者成为持股比例超过5%的股东，但英伟达所持为无投票权股份。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，Nscale于9月15日签订认购协议，同意向投资者发行21亿美元无担保可转换贷款票据，并另向英伟达发行10亿美元无担保可转换贷款票据或无投票权股份，英伟达部分将于11月16日完成交割。&lt;/p&gt;
-&lt;p&gt;然而，招股文件在风险因素部分亦坦承，公司GPU供应高度依赖英伟达，双方深度绑定构成潜在集中风险。&lt;/p&gt;
-
-收购软件初创公司Anyscale
-
-&lt;p&gt;在硬件算力扩张之外，Nscale正寻求向软件层延伸，以提升客户使用AI算力的效率。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今年7月，Nscale宣布以16.5亿美元收购总部位于旧金山的软件初创公司Anyscale，以帮助客户更高效地调用AI算力资源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这笔收购标志着公司战略从单纯的基础设施提供商向综合AI算力服务商转型。&lt;/p&gt;
-&lt;p&gt;高盛、摩根大通及摩根士丹利担任本次IPO主承销商，另有19家银行参与该交易。Nscale股票预计将在纽约证券交易所挂牌交易，股票代码为NSCL。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 攒股收息之道</title><link>http://xueqiu.com/1257903768/409870098</link><guid>0069b24a053a7e37a8cb478f261e0975dbd60fb0efd145d813fc308aa35b8b0c</guid><pubDate>Sat, 19 Sep 2026 04:28:14 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;谦秋说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;做价值投资，走到最后，大多都会认可攒股收息的长期逻辑。&lt;br&gt;但很多普通投资者，一直存在一个误区：只看当下股息高低，不懂区分资产属性，不分仓位、不择估值。结果就是，看似拿着收息标的，却遭遇业绩下滑、分红缩水、估值持续走低，不仅拿不到稳健复利，还容易长期被套。&lt;br&gt;在我的投资体系里，攒股收息从不是简单的“买入躺平”，核心是资产分层、估值择时、仓位纪律。我把适合收息的资产清晰分为三类，逻辑通透，适合所有长线投资者参考。&lt;br&gt;第一类，核心底仓资产，也是整个收息组合的压舱石。&lt;br&gt;这类标的大多是央国企属性，集中在公用事业、水电、煤炭等刚需行业，商业模式稳定、现金流扎实、分红机制成熟。&lt;br&gt;这里纠正一个很多人的认知偏差：部分老牌龙头，当下股息率已经回落至4%以内，短期来看，股息性价比并不突出。但我们看收息资产，不能只看当下，要看中长期。&lt;br&gt;即便股息小幅回落，这类刚需稳增长资产，长期复利依然可以稳稳跑赢理财、债券，抗风险能力极强。不求短期暴利，只求稳稳的安心，适合作为组合中长期备选底仓。&lt;br&gt;而银行板块，是目前攒股收息最优质的核心底座。&lt;br&gt;当下市场大量银行类标的，股息率普遍突破4%，且几乎全部处于破净状态，只是破净幅度有所区别。无论是国有大行，还是优质股份制银行，都集齐了高股息、深度低估、估值修复弹性三大优势。&lt;br&gt;在存量市场里，这类资产攻守兼备，下跌空间极小，修复确定性极强，是攒股收息组合里，最值得重仓、最适合长期扎根的核心资产。&lt;br&gt;第二类，周期弹性资产，只能小仓位博弈，绝对不可重仓。&lt;br&gt;涵盖基建、钢铁、水泥等传统周期行业龙头。&lt;br&gt;这类资产的本质，是景气度生意，我常把它们比作夏天的冰棍。行业景气向上，利润、分红双双走高；行业需求下行，盈利就会明显缩水，分红也会随之下调。&lt;br&gt;它们只适合在深度低估、市场极度悲观的阶段小仓位布局，赚估值修复和阶段性分红的钱。一旦行业回暖、估值修复到位，就必须分批兑现，绝对不能长期无脑持有。周期股赚的是均值回归的钱，不是永续增长的钱。&lt;br&gt;第三类，消费备选资产，轻仓配置，博取修复行情。&lt;br&gt;包含白酒、乳业、肉制品、白电等大众消费龙头。&lt;br&gt;经过持续多年的调整，很多消费龙头估值充分消化，不少标的股息率已经站稳4%以上，安全边际逐步显现。&lt;br&gt;消费赛道的核心优势，是品牌壁垒深厚、现金流稳定、抗风险能力强。但短板也很明确：受宏观消费环境影响大，业绩增速温和，很难走出趋势性大行情。&lt;br&gt;所以这类资产，只适合小仓位分批布局，作为组合的补充，丰富资产结构，不适合重仓押注。&lt;br&gt;最后说两个坚决不纳入收息组合的标的：&lt;br&gt;第一，高位高估值、业绩波动极大的成长题材资产，炒作属性太重，没有稳定分红逻辑；&lt;br&gt;第二，现金流薄弱、分红断断续续、没有稳定回报机制的标的，看似有题材，实则没有长线价值。&lt;br&gt;真正的攒股收息，从来不是无脑买入，而是一套完整的体系。&lt;br&gt;赚两份确定性的钱：一份是企业持续分红的现金流收益，一份是低估值回归合理的修复收益。&lt;br&gt;严守纪律、分层配置、低估布局、高位兑现，不贪短线热点，不追市场情绪，稳稳复利，慢慢变富，这就是普通人最适合的长线投资之道。&lt;br&gt;&lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601318"&gt;$中国平安(SH601318)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH600919"&gt;$江苏银行(SH600919)$&lt;/a&gt; &lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这一判断对投资者的资产配置具有重要参考意义：随着AI投资周期深化，亚洲内存产业链的受益程度或将超出此前市场预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 攒股收息之道</title><link>http://xueqiu.com/1257903768/409870098</link><guid>0069b24a053a7e37a8cb478f261e0975dbd60fb0efd145d813fc308aa35b8b0c</guid><pubDate>Sat, 19 Sep 2026 04:28:14 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;谦秋说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;做价值投资，走到最后，大多都会认可攒股收息的长期逻辑。&lt;br&gt;但很多普通投资者，一直存在一个误区：只看当下股息高低，不懂区分资产属性，不分仓位、不择估值。结果就是，看似拿着收息标的，却遭遇业绩下滑、分红缩水、估值持续走低，不仅拿不到稳健复利，还容易长期被套。&lt;br&gt;在我的投资体系里，攒股收息从不是简单的“买入躺平”，核心是资产分层、估值择时、仓位纪律。我把适合收息的资产清晰分为三类，逻辑通透，适合所有长线投资者参考。&lt;br&gt;第一类，核心底仓资产，也是整个收息组合的压舱石。&lt;br&gt;这类标的大多是央国企属性，集中在公用事业、水电、煤炭等刚需行业，商业模式稳定、现金流扎实、分红机制成熟。&lt;br&gt;这里纠正一个很多人的认知偏差：部分老牌龙头，当下股息率已经回落至4%以内，短期来看，股息性价比并不突出。但我们看收息资产，不能只看当下，要看中长期。&lt;br&gt;即便股息小幅回落，这类刚需稳增长资产，长期复利依然可以稳稳跑赢理财、债券，抗风险能力极强。不求短期暴利，只求稳稳的安心，适合作为组合中长期备选底仓。&lt;br&gt;而银行板块，是目前攒股收息最优质的核心底座。&lt;br&gt;当下市场大量银行类标的，股息率普遍突破4%，且几乎全部处于破净状态，只是破净幅度有所区别。无论是国有大行，还是优质股份制银行，都集齐了高股息、深度低估、估值修复弹性三大优势。&lt;br&gt;在存量市场里，这类资产攻守兼备，下跌空间极小，修复确定性极强，是攒股收息组合里，最值得重仓、最适合长期扎根的核心资产。&lt;br&gt;第二类，周期弹性资产，只能小仓位博弈，绝对不可重仓。&lt;br&gt;涵盖基建、钢铁、水泥等传统周期行业龙头。&lt;br&gt;这类资产的本质，是景气度生意，我常把它们比作夏天的冰棍。行业景气向上，利润、分红双双走高；行业需求下行，盈利就会明显缩水，分红也会随之下调。&lt;br&gt;它们只适合在深度低估、市场极度悲观的阶段小仓位布局，赚估值修复和阶段性分红的钱。一旦行业回暖、估值修复到位，就必须分批兑现，绝对不能长期无脑持有。周期股赚的是均值回归的钱，不是永续增长的钱。&lt;br&gt;第三类，消费备选资产，轻仓配置，博取修复行情。&lt;br&gt;包含白酒、乳业、肉制品、白电等大众消费龙头。&lt;br&gt;经过持续多年的调整，很多消费龙头估值充分消化，不少标的股息率已经站稳4%以上，安全边际逐步显现。&lt;br&gt;消费赛道的核心优势，是品牌壁垒深厚、现金流稳定、抗风险能力强。但短板也很明确：受宏观消费环境影响大，业绩增速温和，很难走出趋势性大行情。&lt;br&gt;所以这类资产，只适合小仓位分批布局，作为组合的补充，丰富资产结构，不适合重仓押注。&lt;br&gt;最后说两个坚决不纳入收息组合的标的：&lt;br&gt;第一，高位高估值、业绩波动极大的成长题材资产，炒作属性太重，没有稳定分红逻辑；&lt;br&gt;第二，现金流薄弱、分红断断续续、没有稳定回报机制的标的，看似有题材，实则没有长线价值。&lt;br&gt;真正的攒股收息，从来不是无脑买入，而是一套完整的体系。&lt;br&gt;赚两份确定性的钱：一份是企业持续分红的现金流收益，一份是低估值回归合理的修复收益。&lt;br&gt;严守纪律、分层配置、低估布局、高位兑现，不贪短线热点，不追市场情绪，稳稳复利，慢慢变富，这就是普通人最适合的长线投资之道。&lt;br&gt;&lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601318"&gt;$中国平安(SH601318)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH600919"&gt;$江苏银行(SH600919)$&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic、OpenAI、谷歌等AI巨头遭反垄断诉讼，被指协同放缓技术发展</title><link>https://wallstreetcn.com/articles/3782124</link><guid>b8ba014c61482c63d8453c631ef1b0a0e5f0d458a16bdbda0c3373fbc787fa5e</guid><pubDate>Sat, 19 Sep 2026 01:48:36 GMT</pubDate><description>&lt;p&gt;人工智能行业的监管争议正从政策层面蔓延至法律战场。&lt;/p&gt;
+&lt;p&gt;据Politico报道，四家原告于上周五在加利福尼亚州联邦法院提起民事诉讼，指控Anthropic、OpenAI、SpaceXAI及谷歌涉嫌违反美国反垄断法，通过公开协调放缓AI发展速度的方式实施非法商业合谋。上述四家公司均未立即回应置评请求。&lt;/p&gt;
+&lt;p&gt;诉讼的直接导火索是Anthropic首席执行官Dario Amodei本月早些时候发表的一篇文章。文章呼吁&amp;quot;全行业协调&amp;quot;以&amp;quot;控制AI前沿发展节奏&amp;quot;，随后获得SpaceXAI负责人埃隆·马斯克、OpenAI首席执行官Sam Altman及谷歌DeepMind联合创始人Demis Hassabis的公开附议。原告方认为，这一系列表态构成竞争对手之间的非法商业协议。此案一旦进入实质审理阶段，将对AI行业的竞争格局及监管走向产生深远影响。&lt;/p&gt;
+诉讼核心指控：公开表态被认定为非法协调
+&lt;p&gt;诉讼在加利福尼亚州北区联邦法院提起，代理律师之一Nick Rowley在声明中表示，提起此案旨在防止&amp;quot;全球最具权势的营利性科技公司之间的私下自利协议&amp;quot;导致AI&amp;quot;迅速脱离人类控制&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Rowley在声明中称，&amp;quot;当涉及核战争等灭绝性威胁，以及如今人类历史上最大风险时，人类理应获得铁板钉钉的保障。法治应由政府以透明、合法的方式建立，并对公众负责。&amp;quot;&lt;/p&gt;
+&lt;p&gt;原告方的法律逻辑在于，Dario Amodei的公开呼吁及其他行业领袖的响应，在形式上构成竞争对手之间就商业行为达成的协议，触碰了美国反垄断法的红线——即便相关表态以公共安全为名。&lt;/p&gt;
+原告构成：律师与普通公民联合出击
+&lt;p&gt;四名原告背景各异。律师Cheyenne Hunt此前曾参与揭露前加利福尼亚州众议员Eric Swalwell及前缅因州参议员候选人Graham Platner性行为不端指控，具有一定公众知名度。另外两名原告为佛罗里达州律师Charles Buist和Nick Spetsas，第四名原告为加利福尼亚州居民Christine Bullock。&lt;/p&gt;
+&lt;p&gt;诉讼文件显示，原告方有意将此案扩展为集体诉讼，代表所有受相关公司放缓AI发展决策影响的群体。这一意图意味着潜在索赔规模可能大幅扩大，并将进一步提升此案对行业的震慑效应。&lt;/p&gt;
+安全争议引发减速呼声
+&lt;p&gt;此次诉讼的背景是AI安全领域持续升温的争论。据悉，现任及前任AI研究人员近期发出严厉警告，认为若缺乏足够的安全护栏，AI技术的持续发展可能对人类生存构成潜在的存在性威胁，上述行业领袖的减速表态正是在此背景下相继出现。&lt;/p&gt;
+&lt;p&gt;然而，此次诉讼将这一安全讨论置于反垄断框架之下，形成了截然不同的法律叙事：原告方并非质疑AI安全风险本身，而是主张，无论出于何种动机，竞争对手之间的协调行为均不应游离于法律监管之外。原告方在诉状中强调，相关规则的制定应通过政府程序透明推进，而非由企业私下主导。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
