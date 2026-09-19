@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 17:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 日本央行加息之际，对冲基金近一年多来首次看涨日元</title><link>https://wallstreetcn.com/articles/3782135</link><guid>af24bc666ba372208543da9a8d13df7e0b82a0c593d5e1ceef50b1e9bbf08dd6</guid><pubDate>Sat, 19 Sep 2026 11:57:21 GMT</pubDate><description>&lt;p&gt;对冲基金对日元的立场出现重大转向，自2025年7月以来首次转为净多头，折射出美日两国当局市场干预后市场情绪的深层变化。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 18:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 日本央行加息之际，对冲基金近一年多来首次看涨日元</title><link>https://wallstreetcn.com/articles/3782135</link><guid>af24bc666ba372208543da9a8d13df7e0b82a0c593d5e1ceef50b1e9bbf08dd6</guid><pubDate>Sat, 19 Sep 2026 11:57:21 GMT</pubDate><description>&lt;p&gt;对冲基金对日元的立场出现重大转向，自2025年7月以来首次转为净多头，折射出美日两国当局市场干预后市场情绪的深层变化。&lt;/p&gt;
 &lt;p&gt;据彭博报道，根据美国商品期货交易委员会（CFTC）周五公布的数据，截至9月15日当周，杠杆交易商已清空此前的日元空头头寸，并开始建立看涨仓位。彭博汇总数据显示，相关基金目前持有约2510亿日元（约合16亿美元）的日元多头头寸。&lt;/p&gt;
 &lt;p&gt;这一立场转变发生在美联储与日本央行本周相继上调利率之前。然而，日本央行的表态令部分押注其持续加息的市场参与者感到失望，令此前转向看多的交易商面临被动局面。日元周五一度下跌1.3%，随后收窄跌幅，纽约尾盘报约156.80兑1美元。据日经新闻报道，日本央行已就汇率水平向市场参与者进行询价，此举通常被视为官方干预的前兆。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -130,27 +130,7 @@ AI巨头现金流压力浮现
 &lt;p&gt;在ZCode和Grok Build的场景里，点下“同意”按钮的是开发者个人，承担数据泄露后果的是他的雇主和客户，后者从头到尾没有出现在任何一个同意流程里，也没有任何渠道知道自己的代码曾经被打包上传。&lt;/p&gt;
 &lt;p&gt;风险的承担者和授权者不是同一个人，个人层面的知情同意在结构上就解不了这个问题，无论弹窗写得多清楚、开关放得多显眼。&lt;/p&gt;
 &lt;p&gt;现实的走向大概率是分层。&lt;/p&gt;
-&lt;p&gt;大型企业会在采购合同中加入数据行为条款和审计权，为此付出的成本最终会体现在价格里；个人开发者使用的消费版则继续处于一个没人来审、也没有人为之负责的状态，但这恰好是绝大多数人在工作之余继续写代码的地方，也正是他们最容易用个人账号打开公司项目的地方。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从“减速”到“加油”！Astra两周抢占13%份额，Anthropic考虑IPO前发布新模型应战</title><link>https://wallstreetcn.com/articles/3782129</link><guid>ee138cfb4b0f5250b05f6398693febed48aefc3b3fd639e75585cb5d46881f63</guid><pubDate>Sat, 19 Sep 2026 06:14:45 GMT</pubDate><description>&lt;p&gt;喊出&amp;quot;放缓&amp;quot;仅七天，Anthropic就面临打乱自身发布节奏的压力。&lt;/p&gt;
-&lt;p&gt;据路透社报道，在OpenAI新模型GPT-6 Astra上线仅两周、企业端份额急剧流失的背景下，Anthropic正在评估提前发布新模型的可能性。这一转变折射出一个现实：&lt;strong&gt;在IPO倒计时与激烈的市场竞争面前，增长曲线的优先级高于安全宣言。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据路透社报道，Anthropic内部已就提前发布新模型展开讨论，消息人士还透露，AI助手Claude正深度参与下一代模型的研发工作。与此同时，报道指出Anthropic的IPO计划可能推迟至11月。&lt;/p&gt;
-&lt;p&gt;这一动态的直接诱因来自OpenRouter的用户数据。Astra上线约两周，已占据约13%的企业AI支出份额，而Anthropic旗下Fable系列仅约8%。OpenRouter分析主管Peter Walker公开发布图表显示，自Astra上线后，OpenAI份额快速攀升，至9月第一周约达65%，而Anthropic已降至约35%——这是时隔两年半，OpenAI首次在该平台反超Anthropic。&lt;/p&gt;
-
-Astra两周完成份额逆转
-
-&lt;p&gt;今年9月初，两家公司在发布节奏上展开了密集交锋。9月1日，Anthropic发布Fable 5.1，定位&amp;quot;最强编程与知识工作模型&amp;quot;，并将缓存读取价格下调75%，意在以性价比巩固企业客户基础。仅两天后，OpenAI于9月3日发布Astra，CEO Sam Altman表示&amp;quot;正努力尽快把Astra交到每个人手里&amp;quot;。&lt;/p&gt;
-&lt;p&gt;OpenRouter的周度token使用份额数据显示，2026年1月至6月，Anthropic稳定保持50%以上的平台份额；Astra上线后，OpenAI份额快速拉升，9月第一周升至约65%，Anthropic同期跌至约35%。这一逆转仅用了约两周时间。&lt;/p&gt;
-&lt;p&gt;对Anthropic而言，问题不只是新模型的冲击，更在于此前旗舰产品已出现滞销迹象。Fable 5发布两个月，企业客户对最高定价旗舰版的升级意愿低于预期，份额长期徘徊在11%左右，更多用户选择了更具性价比的Opus 5。Astra的到来，可能连&amp;quot;够用&amp;quot;这一市场位置也一并动摇。&lt;/p&gt;
-
-&amp;quot;放缓&amp;quot;叙事与商业压力的裂痕
-
-&lt;p&gt;这场防御性动作的背景，令外界格外关注。9月12日，Anthropic CEO Dario Amodei发表长文，公开呼吁放慢AI发展速度。Sam Altman与埃隆·马斯克随后罕见公开附和，表示&amp;quot;Dario是对的&amp;quot;。&lt;/p&gt;
-&lt;p&gt;然而，仅七天之后，路透社报道了Anthropic正在考虑打乱既定发布节奏、提前推出新模型。这一转变暴露了Anthropic品牌叙事与商业现实之间的张力：安全与负责任开发的旗帜，并不能阻挡企业客户以实际使用量投票。&lt;/p&gt;
-&lt;p&gt;对于一家将&amp;quot;负责任AI&amp;quot;作为核心品牌标签、同时正在推进IPO的公司而言，提前发模型是商业上合理的防御动作，但也意味着它在两周内不得不重新评估自己公开批评过的&amp;quot;加速竞赛&amp;quot;逻辑。&lt;/p&gt;
-
-IPO窗口下的优先级重排
-
-&lt;p&gt;据路透社报道，Anthropic的IPO时间表可能推迟至11月，这进一步压缩了公司在发布策略上的腾挪空间。在上市前夕，收入增长和市场份额的可见性，对估值和投资者信心至关重要。&lt;/p&gt;
-&lt;p&gt;从企业客户数据来看，Fable系列的增长势头已经放缓；Astra上线后，Anthropic在OpenRouter平台上的份额被快速侵蚀。在这一背景下，&lt;strong&gt;提前推出新模型，是Anthropic在商业逻辑与IPO节奏双重压力下，不得不考虑的选项。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息之际，美元创6月以来最强的一周</title><link>https://wallstreetcn.com/articles/3782130</link><guid>3450ac91724ebb98a44f9c886b4b01bb0bdb2cedf995d608ce6f37a8cb7273e8</guid><pubDate>Sat, 19 Sep 2026 07:53:52 GMT</pubDate><description>&lt;p&gt;美元本周大幅走强，录得6月以来最佳单周涨幅，美联储释放的持续加息信号成为核心驱动力。&lt;/p&gt;
+&lt;p&gt;大型企业会在采购合同中加入数据行为条款和审计权，为此付出的成本最终会体现在价格里；个人开发者使用的消费版则继续处于一个没人来审、也没有人为之负责的状态，但这恰好是绝大多数人在工作之余继续写代码的地方，也正是他们最容易用个人账号打开公司项目的地方。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储加息之际，美元创6月以来最强的一周</title><link>https://wallstreetcn.com/articles/3782130</link><guid>3450ac91724ebb98a44f9c886b4b01bb0bdb2cedf995d608ce6f37a8cb7273e8</guid><pubDate>Sat, 19 Sep 2026 07:53:52 GMT</pubDate><description>&lt;p&gt;美元本周大幅走强，录得6月以来最佳单周涨幅，美联储释放的持续加息信号成为核心驱动力。&lt;/p&gt;
 &lt;p&gt;据彭博报道，彭博美元即期指数本周累计上涨1.1%，强劲的美国经济增长数据与美联储抗通胀立场形成共振。美联储本周宣布逾三年来首次加息，并明确暗示后续仍有更多加息举措。这一表态直接扫清了美元进一步走强的最大障碍。&lt;/p&gt;
 &lt;p&gt;摩根大通、渣打银行及Brown Brothers Harriman均认为，此次加息决定消除了压制美元的关键不确定性，为汇率上行打开空间。&lt;/p&gt;
 加息落地，美元阻力消除
