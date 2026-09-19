@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 12:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 日本央行加息之际，对冲基金近一年多来首次看涨日元</title><link>https://wallstreetcn.com/articles/3782135</link><guid>af24bc666ba372208543da9a8d13df7e0b82a0c593d5e1ceef50b1e9bbf08dd6</guid><pubDate>Sat, 19 Sep 2026 11:57:21 GMT</pubDate><description>&lt;p&gt;对冲基金对日元的立场出现重大转向，自2025年7月以来首次转为净多头，折射出美日两国当局市场干预后市场情绪的深层变化。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 13:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 日本央行加息之际，对冲基金近一年多来首次看涨日元</title><link>https://wallstreetcn.com/articles/3782135</link><guid>af24bc666ba372208543da9a8d13df7e0b82a0c593d5e1ceef50b1e9bbf08dd6</guid><pubDate>Sat, 19 Sep 2026 11:57:21 GMT</pubDate><description>&lt;p&gt;对冲基金对日元的立场出现重大转向，自2025年7月以来首次转为净多头，折射出美日两国当局市场干预后市场情绪的深层变化。&lt;/p&gt;
 &lt;p&gt;据彭博报道，根据美国商品期货交易委员会（CFTC）周五公布的数据，截至9月15日当周，杠杆交易商已清空此前的日元空头头寸，并开始建立看涨仓位。彭博汇总数据显示，相关基金目前持有约2510亿日元（约合16亿美元）的日元多头头寸。&lt;/p&gt;
 &lt;p&gt;这一立场转变发生在美联储与日本央行本周相继上调利率之前。然而，日本央行的表态令部分押注其持续加息的市场参与者感到失望，令此前转向看多的交易商面临被动局面。日元周五一度下跌1.3%，随后收窄跌幅，纽约尾盘报约156.80兑1美元。据日经新闻报道，日本央行已就汇率水平向市场参与者进行询价，此举通常被视为官方干预的前兆。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -11,7 +11,16 @@
 &lt;p&gt;日元周五盘中跌幅一度扩大至1.3%。据日经新闻报道，日本央行已向市场参与者询问汇率水平，该举动通常被解读为官方干预前的预警信号，消息公布后日元跌幅有所收窄。&lt;/p&gt;
 美元多头情绪同步降温
 &lt;p&gt;与此同时，包括资产管理机构和非商业交易商在内的投机性交易商，截至9月15日已将美元净多头头寸削减至3月以来最低水平。然而，美元本周随后强势反弹，单周涨幅创三个月之最，令此前减持美元的交易商同样面临压力。&lt;/p&gt;
-&lt;p&gt;CFTC数据为投资者提供了观察日均成交规模达9.5万亿美元的外汇市场情绪的窗口，反映出对冲基金与资产管理机构通过衍生品工具所建立的整体仓位方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？</title><link>https://wallstreetcn.com/articles/3782125</link><guid>cd3046991cbdaefd6d88c8244b39b56969176d562144bfe523612187593407e2</guid><pubDate>Sat, 19 Sep 2026 05:32:32 GMT</pubDate><description>&lt;p&gt;巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。&lt;/p&gt;
+&lt;p&gt;CFTC数据为投资者提供了观察日均成交规模达9.5万亿美元的外汇市场情绪的窗口，反映出对冲基金与资产管理机构通过衍生品工具所建立的整体仓位方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文180亿AI贷款折价滞销，AI融资链压力浮现</title><link>https://wallstreetcn.com/articles/3782134</link><guid>c82698750148c3539fb809ed0bfd83e1a7e7f361a4c50d07a451cefd7b9bb951</guid><pubDate>Sat, 19 Sep 2026 13:25:31 GMT</pubDate><description>&lt;p&gt;甲骨文（Oracle）新墨西哥州Project Jupiter数据中心约180亿美元银团贷款的分销陷入停滞，银行报价已降至面值的89至91美分，对应贷款市值约160亿至164亿美元。甲骨文股价隔夜逆势下跌2%，近期走势显著弱于AI板块整体。&lt;/p&gt;
+&lt;p&gt;这笔贷款去年底由银行联贷团提供，用于启动Project Jupiter的建设。该项目隶属&amp;quot;星际之门&amp;quot;（Stargate）计划——由OpenAI、软银和甲骨文共同主导的5000亿美元AI基础设施项目，目标是在美国各地大规模建设AI算力基础设施。&lt;/p&gt;
+&lt;p&gt;市场对甲骨文持续举债和信用状况转弱的担忧正在加剧。今年7月标普下调甲骨文企业信用评级，目前距垃圾级仅一个级别。银行试图将这笔贷款出售给更广泛投资者群体的努力已陷入停滞，据《金融时报》报道，银行被迫在自身资产负债表上保留超出原计划的甲骨文相关债务敞口。&lt;/p&gt;
+AI巨头现金流压力浮现
+&lt;p&gt;不只是甲骨文。据《金融时报》报道，OpenAI在今年7月一份内部演示文稿中披露，预计2026至2030年间累计负自由现金流将达2780亿美元。尽管其收入预计从2026年的360亿美元增长至2030年的3500亿美元，但对算力的大规模投入将远远超出收入规模。&lt;/p&gt;
+&lt;p&gt;据《华尔街日报》18日报道，Anthropic计划将IPO推迟至今年11月，此前市场预期为10月进行创纪录规模的首次公开发行。知情人士称，推迟原因之一是AI行业最大几家公司的负责人呼吁放缓技术发展步伐。&lt;/p&gt;
+万亿级融资需求考验信用市场
+&lt;p&gt;AI投资仍在扩张，但资金并非没有瓶颈。美国五大云计算公司2026年资本开支指引合计超过7500亿美元，预计2027年突破1.1万亿美元；到2030年，AI资本开支累计规模可能达到5.5万亿美元。&lt;/p&gt;
+&lt;p&gt;摩根大通预计，未来五年投资级企业信用市场将为数据中心提供超过2.1万亿美元融资，高收益债和杠杆贷款还将贡献约3500亿美元。甲骨文180亿美元贷款的折价和分销停滞，发生在这轮融资浪潮的起步阶段。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？</title><link>https://wallstreetcn.com/articles/3782125</link><guid>cd3046991cbdaefd6d88c8244b39b56969176d562144bfe523612187593407e2</guid><pubDate>Sat, 19 Sep 2026 05:32:32 GMT</pubDate><description>&lt;p&gt;巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。&lt;/p&gt;
 &lt;p&gt;在9月18日发布的最新研报中，巴克莱对人形机器人投资热潮提出了三点判断：瓶颈在智能而非硬件，算力拉动集中在边缘而非数据中心，Physical AI颠覆的第一波浪潮很可能根本不是人形的。&lt;/p&gt;
 &lt;p&gt;报告中，巴克莱还围绕着规模、算力、形态等投资者最关切的问题进行了详细分析。&lt;/p&gt;
 争议一：大规模部署，2035而非2030
@@ -51,27 +60,7 @@
 &lt;p&gt;进入2026年，这种分化继续延续。第二季度，昂跑服饰和配件销售额分别同比增长47.7%和88.3%，鞋类则增长10.9%。&lt;/p&gt;
 &lt;p&gt;同期公司整体净销售额同比增长13.5%，较2025年全年的30%明显放缓；剔除汇率影响后，第二季度增速为21.6%。&lt;/p&gt;
 &lt;p&gt;公司此前表示，在促销竞争较强的市场环境下，正主动控制部分批发渠道进货，以维持全价销售和高端定位。&lt;/p&gt;
-&lt;p&gt;年销售额站上30亿瑞士法郎之后，昂跑需要证明的，已经不只是还能把跑鞋生意做多大，而是离开跑步这个最熟悉的主场后，这套高端运动品牌的增长逻辑还能不能继续成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 胜宏科技 半梦半醒</title><link>http://xueqiu.com/1334287437/409872262</link><guid>3aa5a9846f79480b6197ec09d761a07bddab335079971c294c65f9071666d33b</guid><pubDate>Sat, 19 Sep 2026 04:28:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;巍卓铭诚&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;会议：2026 年第三次临时股东会 · 2026-09-18 14:30 惠州行诚科技园 &lt;/p&gt;</description></item><item><title>[华尔街见闻] 昨天发布会的“三个字”和“一句回答”--整个华尔街都在琢磨“沃什的路数”</title><link>https://wallstreetcn.com/articles/3782120</link><guid>093f11fa79887f5784e716c19317ca7e0f454ce345cd88f9c16eff220264067b</guid><pubDate>Sat, 19 Sep 2026 01:25:12 GMT</pubDate><description>&lt;p&gt;昨天加息后的新闻发布会上，美联储主席沃什用三个字撤回&amp;quot;dose of accommodation&amp;quot;（一剂宽松）定义了本次加息的性质，被追问利率相对于中性利率的位置时，他的回应同样耐人寻味：这一概念&amp;quot;在学术上有用&amp;quot;，但&amp;quot;对我们今天的决策没有任何操作层面的效果&amp;quot;。&lt;/p&gt;
-&lt;p&gt;三个词加一句回答，正在迫使华尔街重新理解这届美联储的加息路径和政策框架。&lt;/p&gt;
-&lt;p&gt;在沃什的框架里，目标区间升至3.75%-4%之后，政策立场依然具有刺激性——加息只是撤回了其中&amp;quot;一剂&amp;quot;。而中性利率——过去十多年美联储判断政策松紧的核心锚——被从操作层面搁置。&lt;/p&gt;
-&lt;p&gt;CME FedWatch数据显示，10月再次加息的概率已从一周前的42%跳升至约58%。高盛和美银先后追加加息预期，美银还预计12月再加一次。期货隐含的2027年底利率为4.635%，指向还有三到四次加息。&lt;/p&gt;
-
-&amp;quot;Dose of Accommodation&amp;quot;：加息只是移除了一剂宽松
-&lt;p&gt;沃什在发布会上多次重复这一表述，并指出做出加息决定的基础是美国经济看起来已经&amp;quot;走强&amp;quot;（strengthened），且金融条件变得不那么紧缩。&lt;/p&gt;
-&lt;p&gt;Evercore ISI经济学与央行策略主管Krishna Guha在客户报告中称，这是发布会&amp;quot;最突出的鹰派元素&amp;quot;。&amp;quot;这不是口误。他多次重复，显然经过深思熟虑，&amp;quot;Guha写道，&amp;quot;这种框架与美联储近年来使用的表述有实质性区别，暗示加息次数可能是开放式的。&amp;quot;&lt;/p&gt;
-&lt;p&gt;BNP Paribas Securities首席美国经济学家James Egelhof的解读称：在美联储的辞典里，accommodation就是stimulus（刺激）。&amp;quot;这意味着当前货币政策立场具有显著的刺激性。在政策起点具有刺激性、周期性动力强劲、通胀持续的条件下，可能需要大幅加息——或许超过我们预期的三次——才能稳定失业率、防止明年经济过热。&amp;quot;&lt;/p&gt;
-&lt;p&gt;如果按字面意思理解沃什的框架——Guha进一步指出——&amp;quot;利率可能必须持续上升，直到私人部门面临的金融条件不再是&amp;#x27;宽松的&amp;#x27;——无论如何定义。这是一个相当开放式的前景。&amp;quot;&lt;/p&gt;
-中性利率出局，货币主义登场
-&lt;p&gt;发布会上，CNBC记者Steve Liesman追问当前利率距中性利率（r*）有多远。&lt;/p&gt;
-&lt;p&gt;沃什说，他作为经济学学生研究过中性利率，即以瑞典经济学家维克塞尔命名的&amp;quot;Wicksellian real rate&amp;quot;。这个概念&amp;quot;在学术上有用，是帮助我们思考政策的讨论&amp;quot;，但&amp;quot;对我们今天做出的决策没有任何操作层面的效果&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这句话需要放在背景里理解。自伯南克时代以来，中性利率一直是美联储制定政策的核心参照系——利率高于中性水平即为紧缩，低于即为宽松，政策讨论围绕这个看不见的基准展开。沃什将它定性为纯学术讨论，相当于拆掉了这套运行十余年的定位系统。&lt;/p&gt;
-&lt;p&gt;有分析指出，沃什正在将美联储的决策逻辑向货币主义方向牵引，称之为一次&amp;quot;地震级转向&amp;quot;（seismic shift）。他的前任鲍威尔——现以理事身份留在FOMC——曾多次明确拒绝货币主义的基本原则。而沃什早在8月杰克逊霍尔会议上就已亮出方向，提出货币供应量变化与经济活动及通胀之间存在关联。&lt;/p&gt;
-&lt;p&gt;本次发布会进一步确认了这一取向。沃什阐明了几项与货币主义高度一致的立场：食品、能源等个别价格变动不&amp;quot;导致&amp;quot;通胀，美联储要确保这些相对价格变化不产生二阶、三阶效应；单个数据点&amp;quot;充满噪声&amp;quot;，重要的是趋势；美联储处理总量问题——劳动力市场、GDP、总支出和整体通胀，但他同时承认，没有金融资产、靠薪水生活的最低收入群体将从物价稳定中获益最多。&lt;/p&gt;
-&lt;p&gt;货币供应量的数据已经提供了线索。沃什在发布会上至少两次表示，近几个月他很难将金融条件描述为&amp;quot;紧缩的&amp;quot;。分析指出，过去6至9个月美国广义货币供应量增速维持在6%-8%区间，明显过高——要实现2%的通胀目标，这一增速需降至6%左右。相比抽象且不可观测的中性利率，货币供应增速提供了更直接的政策判断依据。&lt;/p&gt;
-华尔街在定价什么
-&lt;p&gt;Natixis Investment Managers首席组合策略师Jack Janasiewicz认为，&amp;quot;dose of accommodation&amp;quot;的表述&amp;quot;强化了鹰派基调，暗示委员会不再认为政策是适度紧缩的&amp;quot;，但他&amp;quot;不相信这是一个激进新紧缩周期的开始&amp;quot;，而更倾向于理解为&amp;quot;撤回美联储在2025年秋季实施的保险性降息&amp;quot;。&lt;/p&gt;
-&lt;p&gt;如果期货定价兑现，沃什的美联储至少将逆转前任鲍威尔在任时批准的多数降息。但当下分歧的焦点已超越加息次数本身——当中性利率退出操作层面、货币供应量走上前台，市场需要适应的是一整套新的政策坐标体系。三场发布会之后，沃什给出了他的框架轮廓，但加息的终点在哪里，他没有给出答案。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2张反对票意味着什么？日本这次加息“最值得玩味的问题”</title><link>https://wallstreetcn.com/articles/3782127</link><guid>894fce95b88b2ccd1901105337d365c658d15d64ac3f5a993dcc2f92327b02cd</guid><pubDate>Sat, 19 Sep 2026 05:42:49 GMT</pubDate><description>&lt;p&gt;在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”：&lt;strong&gt;鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;年销售额站上30亿瑞士法郎之后，昂跑需要证明的，已经不只是还能把跑鞋生意做多大，而是离开跑步这个最熟悉的主场后，这套高端运动品牌的增长逻辑还能不能继续成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 胜宏科技 半梦半醒</title><link>http://xueqiu.com/1334287437/409872262</link><guid>3aa5a9846f79480b6197ec09d761a07bddab335079971c294c65f9071666d33b</guid><pubDate>Sat, 19 Sep 2026 04:28:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;巍卓铭诚&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;会议：2026 年第三次临时股东会 · 2026-09-18 14:30 惠州行诚科技园 &lt;/p&gt;</description></item><item><title>[华尔街见闻] 2张反对票意味着什么？日本这次加息“最值得玩味的问题”</title><link>https://wallstreetcn.com/articles/3782127</link><guid>894fce95b88b2ccd1901105337d365c658d15d64ac3f5a993dcc2f92327b02cd</guid><pubDate>Sat, 19 Sep 2026 05:42:49 GMT</pubDate><description>&lt;p&gt;在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”：&lt;strong&gt;鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据追风交易台，花旗银行日本经济分析师Sosuke Nakamura 18日发布研究报告，深度复盘日本央行（BoJ）9月议息会议。日本央行如期将政策利率从1.00%上调至1.25%，但此次会议最值得玩味之处，恰恰不在于加息本身，而在于两张反对票。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;由于鹰派委员将于2027年7月退休，且后续可能被鸽派接替，日本央行必须在“窗口期”关闭前完成加息任务。叠加美联储本周意外加息的外部压力，&lt;strong&gt;花旗研究大幅上调加息预期节奏，将终端利率达成时间从原先预期的2027年12月提前至2027年7月，维持2.00%的终端利率预测不变，并预计加息节点分别落在2026年12月、2027年3月和2027年7月。&lt;/strong&gt;&lt;/p&gt;
 
