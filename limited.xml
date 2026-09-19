@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 06:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 大众大跌！大幅下调2026年盈利预期，保时捷减值60亿欧元</title><link>https://wallstreetcn.com/articles/3782113</link><guid>423def44678662721a8dfe09865ac34eadc443944ff87e4baa9850cc8e4fac3e</guid><pubDate>Fri, 18 Sep 2026 21:44:14 GMT</pubDate><description>&lt;p&gt;大众汽车集团再次下调全年盈利预期，保时捷业务减值、中国车企竞争力提升以及重组成本上升是主要原因。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 19 Sep 2026 07:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 大众大跌！大幅下调2026年盈利预期，保时捷减值60亿欧元</title><link>https://wallstreetcn.com/articles/3782113</link><guid>423def44678662721a8dfe09865ac34eadc443944ff87e4baa9850cc8e4fac3e</guid><pubDate>Fri, 18 Sep 2026 21:44:14 GMT</pubDate><description>&lt;p&gt;大众汽车集团再次下调全年盈利预期，保时捷业务减值、中国车企竞争力提升以及重组成本上升是主要原因。&lt;/p&gt;
 &lt;p&gt;当地时间9月18日，大众集团发布公告称，预计2026年集团销售收入约3150亿欧元，营业销售回报率最高仅为1%，远低于分析师预期4.29%，也远低于此前预计的4%至5.5%。&lt;/p&gt;
 &lt;p&gt;公司预计全年特殊项目将对营业利润造成约100亿欧元的影响，其中约60亿欧元来自保时捷业务商誉的非现金减值。&lt;/p&gt;
 &lt;p&gt;受业绩预期下调影响，大众股价周五一度大跌7.5%，最终收跌5.6%，保时捷股价下跌4.9%，欧洲汽车及零部件板块跌幅达到3.4%。&lt;/p&gt;
@@ -50,27 +50,7 @@
 
 &lt;p&gt;市场紧张态势也体现在结算层面。根据美国存管信托及清算公司（DTCC）数据，9月17日美国国债回购违约（fails）日总额升至676亿美元，高于前一交易日的367亿美元，并超过五日移动均值547亿美元。&lt;/p&gt;
 &lt;p&gt;不过，美联储的持仓在一定程度上为市场提供了缓冲。自美联储于2025年停止缩表并持续在拍卖中续入到期证券以来，其持有最近一期两年期和五年期国债的比例均约为11.4%，分别对应约89亿美元和90亿美元。&lt;/p&gt;
-&lt;p&gt;周四美联储每日证券借出操作中，经销商对两年期和五年期国债的竞标均获足额满足，表明当前供给尚能应对市场需求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从“减速”到“加油”！Astra两周抢占13%份额，Anthropic考虑IPO前发布新模型应战</title><link>https://wallstreetcn.com/articles/3782129</link><guid>ee138cfb4b0f5250b05f6398693febed48aefc3b3fd639e75585cb5d46881f63</guid><pubDate>Sat, 19 Sep 2026 06:14:45 GMT</pubDate><description>&lt;p&gt;喊出&amp;quot;放缓&amp;quot;仅七天，Anthropic就面临打乱自身发布节奏的压力。&lt;/p&gt;
-&lt;p&gt;据路透社报道，在OpenAI新模型GPT-6 Astra上线仅两周、企业端份额急剧流失的背景下，Anthropic正在评估提前发布新模型的可能性。这一转变折射出一个现实：&lt;strong&gt;在IPO倒计时与激烈的市场竞争面前，增长曲线的优先级高于安全宣言。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据路透社报道，Anthropic内部已就提前发布新模型展开讨论，消息人士还透露，AI助手Claude正深度参与下一代模型的研发工作。与此同时，报道指出Anthropic的IPO计划可能推迟至11月。&lt;/p&gt;
-&lt;p&gt;这一动态的直接诱因来自OpenRouter的用户数据。Astra上线约两周，已占据约13%的企业AI支出份额，而Anthropic旗下Fable系列仅约8%。OpenRouter分析主管Peter Walker公开发布图表显示，自Astra上线后，OpenAI份额快速攀升，至9月第一周约达65%，而Anthropic已降至约35%——这是时隔两年半，OpenAI首次在该平台反超Anthropic。&lt;/p&gt;
-
-Astra两周完成份额逆转
-
-&lt;p&gt;今年9月初，两家公司在发布节奏上展开了密集交锋。9月1日，Anthropic发布Fable 5.1，定位&amp;quot;最强编程与知识工作模型&amp;quot;，并将缓存读取价格下调75%，意在以性价比巩固企业客户基础。仅两天后，OpenAI于9月3日发布Astra，CEO Sam Altman表示&amp;quot;正努力尽快把Astra交到每个人手里&amp;quot;。&lt;/p&gt;
-&lt;p&gt;OpenRouter的周度token使用份额数据显示，2026年1月至6月，Anthropic稳定保持50%以上的平台份额；Astra上线后，OpenAI份额快速拉升，9月第一周升至约65%，Anthropic同期跌至约35%。这一逆转仅用了约两周时间。&lt;/p&gt;
-&lt;p&gt;对Anthropic而言，问题不只是新模型的冲击，更在于此前旗舰产品已出现滞销迹象。Fable 5发布两个月，企业客户对最高定价旗舰版的升级意愿低于预期，份额长期徘徊在11%左右，更多用户选择了更具性价比的Opus 5。Astra的到来，可能连&amp;quot;够用&amp;quot;这一市场位置也一并动摇。&lt;/p&gt;
-
-&amp;quot;放缓&amp;quot;叙事与商业压力的裂痕
-
-&lt;p&gt;这场防御性动作的背景，令外界格外关注。9月12日，Anthropic CEO Dario Amodei发表长文，公开呼吁放慢AI发展速度。Sam Altman与埃隆·马斯克随后罕见公开附和，表示&amp;quot;Dario是对的&amp;quot;。&lt;/p&gt;
-&lt;p&gt;然而，仅七天之后，路透社报道了Anthropic正在考虑打乱既定发布节奏、提前推出新模型。这一转变暴露了Anthropic品牌叙事与商业现实之间的张力：安全与负责任开发的旗帜，并不能阻挡企业客户以实际使用量投票。&lt;/p&gt;
-&lt;p&gt;对于一家将&amp;quot;负责任AI&amp;quot;作为核心品牌标签、同时正在推进IPO的公司而言，提前发模型是商业上合理的防御动作，但也意味着它在两周内不得不重新评估自己公开批评过的&amp;quot;加速竞赛&amp;quot;逻辑。&lt;/p&gt;
-
-IPO窗口下的优先级重排
-
-&lt;p&gt;据路透社报道，Anthropic的IPO时间表可能推迟至11月，这进一步压缩了公司在发布策略上的腾挪空间。在上市前夕，收入增长和市场份额的可见性，对估值和投资者信心至关重要。&lt;/p&gt;
-&lt;p&gt;从企业客户数据来看，Fable系列的增长势头已经放缓；Astra上线后，Anthropic在OpenRouter平台上的份额被快速侵蚀。在这一背景下，&lt;strong&gt;提前推出新模型，是Anthropic在商业逻辑与IPO节奏双重压力下，不得不考虑的选项。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？</title><link>https://wallstreetcn.com/articles/3782125</link><guid>cd3046991cbdaefd6d88c8244b39b56969176d562144bfe523612187593407e2</guid><pubDate>Sat, 19 Sep 2026 05:32:32 GMT</pubDate><description>&lt;p&gt;巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。&lt;/p&gt;
+&lt;p&gt;周四美联储每日证券借出操作中，经销商对两年期和五年期国债的竞标均获足额满足，表明当前供给尚能应对市场需求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？</title><link>https://wallstreetcn.com/articles/3782125</link><guid>cd3046991cbdaefd6d88c8244b39b56969176d562144bfe523612187593407e2</guid><pubDate>Sat, 19 Sep 2026 05:32:32 GMT</pubDate><description>&lt;p&gt;巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。&lt;/p&gt;
 &lt;p&gt;在9月18日发布的最新研报中，巴克莱对人形机器人投资热潮提出了三点判断：瓶颈在智能而非硬件，算力拉动集中在边缘而非数据中心，Physical AI颠覆的第一波浪潮很可能根本不是人形的。&lt;/p&gt;
 &lt;p&gt;报告中，巴克莱还围绕着规模、算力、形态等投资者最关切的问题进行了详细分析。&lt;/p&gt;
 争议一：大规模部署，2035而非2030
@@ -95,7 +75,7 @@ IPO窗口下的优先级重排
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 胜宏科技 半梦半醒</title><link>http://xueqiu.com/1334287437/409872262</link><guid>3aa5a9846f79480b6197ec09d761a07bddab335079971c294c65f9071666d33b</guid><pubDate>Sat, 19 Sep 2026 04:28:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;巍卓铭诚&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;会议：2026 年第三次临时股东会 · 2026-09-18 14:30 惠州行诚科技园 &lt;/p&gt;</description></item><item><title>[华尔街见闻] 2张反对票意味着什么？日本这次加息“最值得玩味的问题”</title><link>https://wallstreetcn.com/articles/3782127</link><guid>894fce95b88b2ccd1901105337d365c658d15d64ac3f5a993dcc2f92327b02cd</guid><pubDate>Sat, 19 Sep 2026 05:42:49 GMT</pubDate><description>&lt;p&gt;在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”：&lt;strong&gt;鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2张反对票意味着什么？日本这次加息“最值得玩味的问题”</title><link>https://wallstreetcn.com/articles/3782127</link><guid>894fce95b88b2ccd1901105337d365c658d15d64ac3f5a993dcc2f92327b02cd</guid><pubDate>Sat, 19 Sep 2026 05:42:49 GMT</pubDate><description>&lt;p&gt;在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”：&lt;strong&gt;鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据追风交易台，花旗银行日本经济分析师Sosuke Nakamura 18日发布研究报告，深度复盘日本央行（BoJ）9月议息会议。日本央行如期将政策利率从1.00%上调至1.25%，但此次会议最值得玩味之处，恰恰不在于加息本身，而在于两张反对票。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;由于鹰派委员将于2027年7月退休，且后续可能被鸽派接替，日本央行必须在“窗口期”关闭前完成加息任务。叠加美联储本周意外加息的外部压力，&lt;strong&gt;花旗研究大幅上调加息预期节奏，将终端利率达成时间从原先预期的2027年12月提前至2027年7月，维持2.00%的终端利率预测不变，并预计加息节点分别落在2026年12月、2027年3月和2027年7月。&lt;/strong&gt;&lt;/p&gt;
 
@@ -273,7 +253,7 @@ CFTC同步松绑，监管“绕道”推进
 &lt;p&gt;进入2026年，这种分化继续延续。第二季度，昂跑服饰和配件销售额分别同比增长47.7%和88.3%，鞋类则增长10.9%。&lt;/p&gt;
 &lt;p&gt;同期公司整体净销售额同比增长13.5%，较2025年全年的30%明显放缓；剔除汇率影响后，第二季度增速为21.6%。&lt;/p&gt;
 &lt;p&gt;公司此前表示，在促销竞争较强的市场环境下，正主动控制部分批发渠道进货，以维持全价销售和高端定位。&lt;/p&gt;
-&lt;p&gt;年销售额站上30亿瑞士法郎之后，昂跑需要证明的，已经不只是还能把跑鞋生意做多大，而是离开跑步这个最熟悉的主场后，这套高端运动品牌的增长逻辑还能不能继续成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 昨天发布会的“三个字”和“一句回答”--整个华尔街都在琢磨“沃什的路数”</title><link>https://wallstreetcn.com/articles/3782120</link><guid>093f11fa79887f5784e716c19317ca7e0f454ce345cd88f9c16eff220264067b</guid><pubDate>Sat, 19 Sep 2026 01:25:12 GMT</pubDate><description>&lt;p&gt;昨天加息后的新闻发布会上，美联储主席沃什用三个字撤回&amp;quot;dose of accommodation&amp;quot;（一剂宽松）定义了本次加息的性质，被追问利率相对于中性利率的位置时，他的回应同样耐人寻味：这一概念&amp;quot;在学术上有用&amp;quot;，但&amp;quot;对我们今天的决策没有任何操作层面的效果&amp;quot;。&lt;/p&gt;
+&lt;p&gt;年销售额站上30亿瑞士法郎之后，昂跑需要证明的，已经不只是还能把跑鞋生意做多大，而是离开跑步这个最熟悉的主场后，这套高端运动品牌的增长逻辑还能不能继续成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 胜宏科技 半梦半醒</title><link>http://xueqiu.com/1334287437/409872262</link><guid>3aa5a9846f79480b6197ec09d761a07bddab335079971c294c65f9071666d33b</guid><pubDate>Sat, 19 Sep 2026 04:28:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;巍卓铭诚&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;会议：2026 年第三次临时股东会 · 2026-09-18 14:30 惠州行诚科技园 &lt;/p&gt;</description></item><item><title>[华尔街见闻] 昨天发布会的“三个字”和“一句回答”--整个华尔街都在琢磨“沃什的路数”</title><link>https://wallstreetcn.com/articles/3782120</link><guid>093f11fa79887f5784e716c19317ca7e0f454ce345cd88f9c16eff220264067b</guid><pubDate>Sat, 19 Sep 2026 01:25:12 GMT</pubDate><description>&lt;p&gt;昨天加息后的新闻发布会上，美联储主席沃什用三个字撤回&amp;quot;dose of accommodation&amp;quot;（一剂宽松）定义了本次加息的性质，被追问利率相对于中性利率的位置时，他的回应同样耐人寻味：这一概念&amp;quot;在学术上有用&amp;quot;，但&amp;quot;对我们今天的决策没有任何操作层面的效果&amp;quot;。&lt;/p&gt;
 &lt;p&gt;三个词加一句回答，正在迫使华尔街重新理解这届美联储的加息路径和政策框架。&lt;/p&gt;
 &lt;p&gt;在沃什的框架里，目标区间升至3.75%-4%之后，政策立场依然具有刺激性——加息只是撤回了其中&amp;quot;一剂&amp;quot;。而中性利率——过去十多年美联储判断政策松紧的核心锚——被从操作层面搁置。&lt;/p&gt;
 &lt;p&gt;CME FedWatch数据显示，10月再次加息的概率已从一周前的42%跳升至约58%。高盛和美银先后追加加息预期，美银还预计12月再加一次。期货隐含的2027年底利率为4.635%，指向还有三到四次加息。&lt;/p&gt;
@@ -293,67 +273,27 @@ CFTC同步松绑，监管“绕道”推进
 华尔街在定价什么
 &lt;p&gt;Natixis Investment Managers首席组合策略师Jack Janasiewicz认为，&amp;quot;dose of accommodation&amp;quot;的表述&amp;quot;强化了鹰派基调，暗示委员会不再认为政策是适度紧缩的&amp;quot;，但他&amp;quot;不相信这是一个激进新紧缩周期的开始&amp;quot;，而更倾向于理解为&amp;quot;撤回美联储在2025年秋季实施的保险性降息&amp;quot;。&lt;/p&gt;
 &lt;p&gt;如果期货定价兑现，沃什的美联储至少将逆转前任鲍威尔在任时批准的多数降息。但当下分歧的焦点已超越加息次数本身——当中性利率退出操作层面、货币供应量走上前台，市场需要适应的是一整套新的政策坐标体系。三场发布会之后，沃什给出了他的框架轮廓，但加息的终点在哪里，他没有给出答案。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从家电产业发展历史看当下的中国汽车产业发展阶段</title><link>http://xueqiu.com/2021998461/409847177</link><guid>ff4c37c35d0482cd6d6e0e41a6ab423470ae10befa6dcca58e43f9df68ee430c</guid><pubDate>Sat, 19 Sep 2026 04:30:53 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;一线指战员&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/01211"&gt;$比亚迪股份(01211)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ002594"&gt;$比亚迪(SZ002594)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/00175"&gt;$吉利汽车(00175)$&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本又要出手？日央行被曝汇率摸底，日元收窄跌幅，高市早苗的“鸽派牌”埋到明年7月</title><link>https://wallstreetcn.com/articles/3782104</link><guid>6a68799268e0cfc1cec11cbd146acf22a4cade8af0fdf5fd95bea09a9a423193</guid><pubDate>Fri, 18 Sep 2026 19:01:36 GMT</pubDate><description>&lt;p&gt;日本央行加息后日元仍承压，凸显日本货币政策在抑制通胀、支持经济与稳定汇率之间的多重制约。日本央行据称已进行汇率摸底，日元盘中跌势缓和，市场对日本当局再度干预汇市的关注升温。&lt;/p&gt;
-&lt;p&gt;美东时间9月18日周五美股早盘尾声时，日媒爆料称，日本央行在外汇市场向市场参与者询问汇率水平。日元随即加速收窄日内跌幅，美股午盘之初，美元兑日元汇率回到156.80下方，盘中涨幅收窄至约0.5%，此后涨幅曾达到0.3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此前，美元兑日元在欧股交易时段一度突破158.00、创两周新低，日内涨超1%。尽管传出日本央行进行汇率摸底的消息，日元仍势将最近五个交易日内第四日下跌收官。&lt;/p&gt;
-&lt;p&gt;到周五，日元最近五个交易日内已有四日走弱，周五盘中回落逾1%发生在日本央行9月政策会议之后。两名决策者对市场普遍预期的加息决定投下反对票，令市场对日本央行后续收紧货币政策的预期受到关注。&lt;/p&gt;
-&lt;p&gt;此次汇率摸底消息，将市场视线重新引向日本政府可能采取的汇市行动，以及首相高市早苗对日本央行未来政策走向的长期影响。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从“减速”到“加油”！Astra两周抢占13%份额，Anthropic考虑IPO前发布新模型应战</title><link>https://wallstreetcn.com/articles/3782129</link><guid>ee138cfb4b0f5250b05f6398693febed48aefc3b3fd639e75585cb5d46881f63</guid><pubDate>Sat, 19 Sep 2026 06:14:45 GMT</pubDate><description>&lt;p&gt;喊出&amp;quot;放缓&amp;quot;仅七天，Anthropic就面临打乱自身发布节奏的压力。&lt;/p&gt;
+&lt;p&gt;据路透社报道，在OpenAI新模型GPT-6 Astra上线仅两周、企业端份额急剧流失的背景下，Anthropic正在评估提前发布新模型的可能性。这一转变折射出一个现实：&lt;strong&gt;在IPO倒计时与激烈的市场竞争面前，增长曲线的优先级高于安全宣言。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据路透社报道，Anthropic内部已就提前发布新模型展开讨论，消息人士还透露，AI助手Claude正深度参与下一代模型的研发工作。与此同时，报道指出Anthropic的IPO计划可能推迟至11月。&lt;/p&gt;
+&lt;p&gt;这一动态的直接诱因来自OpenRouter的用户数据。Astra上线约两周，已占据约13%的企业AI支出份额，而Anthropic旗下Fable系列仅约8%。OpenRouter分析主管Peter Walker公开发布图表显示，自Astra上线后，OpenAI份额快速攀升，至9月第一周约达65%，而Anthropic已降至约35%——这是时隔两年半，OpenAI首次在该平台反超Anthropic。&lt;/p&gt;
 
+Astra两周完成份额逆转
 
+&lt;p&gt;今年9月初，两家公司在发布节奏上展开了密集交锋。9月1日，Anthropic发布Fable 5.1，定位&amp;quot;最强编程与知识工作模型&amp;quot;，并将缓存读取价格下调75%，意在以性价比巩固企业客户基础。仅两天后，OpenAI于9月3日发布Astra，CEO Sam Altman表示&amp;quot;正努力尽快把Astra交到每个人手里&amp;quot;。&lt;/p&gt;
+&lt;p&gt;OpenRouter的周度token使用份额数据显示，2026年1月至6月，Anthropic稳定保持50%以上的平台份额；Astra上线后，OpenAI份额快速拉升，9月第一周升至约65%，Anthropic同期跌至约35%。这一逆转仅用了约两周时间。&lt;/p&gt;
+&lt;p&gt;对Anthropic而言，问题不只是新模型的冲击，更在于此前旗舰产品已出现滞销迹象。Fable 5发布两个月，企业客户对最高定价旗舰版的升级意愿低于预期，份额长期徘徊在11%左右，更多用户选择了更具性价比的Opus 5。Astra的到来，可能连&amp;quot;够用&amp;quot;这一市场位置也一并动摇。&lt;/p&gt;
 
+&amp;quot;放缓&amp;quot;叙事与商业压力的裂痕
 
+&lt;p&gt;这场防御性动作的背景，令外界格外关注。9月12日，Anthropic CEO Dario Amodei发表长文，公开呼吁放慢AI发展速度。Sam Altman与埃隆·马斯克随后罕见公开附和，表示&amp;quot;Dario是对的&amp;quot;。&lt;/p&gt;
+&lt;p&gt;然而，仅七天之后，路透社报道了Anthropic正在考虑打乱既定发布节奏、提前推出新模型。这一转变暴露了Anthropic品牌叙事与商业现实之间的张力：安全与负责任开发的旗帜，并不能阻挡企业客户以实际使用量投票。&lt;/p&gt;
+&lt;p&gt;对于一家将&amp;quot;负责任AI&amp;quot;作为核心品牌标签、同时正在推进IPO的公司而言，提前发模型是商业上合理的防御动作，但也意味着它在两周内不得不重新评估自己公开批评过的&amp;quot;加速竞赛&amp;quot;逻辑。&lt;/p&gt;
 
+IPO窗口下的优先级重排
 
-汇率摸底释放干预警报，但不等于日本政府已经入场
-&lt;p&gt;据《日经新闻》报道，日本央行已在外汇市场进行汇率摸底，向市场参与者询问汇率水平。&lt;/p&gt;
-&lt;p&gt;媒体发现，上述消息传出后，日元兑美元汇率一度跳涨逾1日元。&lt;/p&gt;
-&lt;p&gt;不过，汇率摸底并不等于日本政府已经实际买入日元。日本央行负责执行相关操作，外汇干预的决策权主要在日本财务省。此次消息传出后，日元只是收窄盘中跌幅，并未完全抹去跌幅、转涨。&lt;/p&gt;
-&lt;p&gt;美国银行外汇策略师Alex Cohen表示，日元在日本央行加息后仍大幅贬值，“今天的汇率摸底是向市场发出的又一次警告。” 他指出，日本财务省已经展现出动用大量外储进行干预的意愿，这应当再次令市场保持警惕。&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Brendan Fagan则表示：“这种干预政策会让交易员在追逐日元贬值时三思，尤其是在（美元兑日元）汇率接近160的情况下。”&lt;/p&gt;
-&lt;p&gt;汇率摸底对日元的影响，首先体现在交易者对干预风险的重新定价上。若市场认为日本当局可能在日元进一步走弱时入场，做空日元的交易者可能提前平仓，从而推动日元收窄跌幅。假日期间市场流动性下降，也可能放大相关操作的短期影响。&lt;/p&gt;
-&lt;p&gt;但这种支撑未必持久。如果日本央行后续加息路径仍不明确，而美联储继续维持偏紧的政策立场，日美利差所带来的日元贬值压力仍可能存在。&lt;/p&gt;
-加息未能提振日元，日央行面临政策两难
-&lt;p&gt;日本央行周五加息后，日元仍然走弱，反映出市场关注的焦点已不只是当次利率决定，而是后续货币政策能否继续收紧。&lt;/p&gt;
-&lt;p&gt;日本央行行长植田和男表示，政策制定已经进入“新阶段”，并未排除10月再次加息的可能性，也没有排除未来某个时点采取幅度更大的加息行动。&lt;/p&gt;
-&lt;p&gt;但植田和男同时表示，当前紧缩周期的最终利率水平难以判断。市场认为，这些表态未能充分回应投资者日益偏向鹰派的预期。&lt;/p&gt;
-&lt;p&gt;日本央行决议还遭到两名委员反对。委员浅田统一郎和佐藤绫乃均投票反对本次加息，两人均由日本首相高市早苗任命。两张反对票不仅增加了本次决策的不确定性，也令市场关注未来日本央行内部对进一步加息的支持程度。&lt;/p&gt;
-&lt;p&gt;彭博社指出，植田和男正在承受来自美国财长贝森特和日本首相高市早苗的不同政策压力：贝森特希望日元走强，以减轻日本资金可能抛售美债、推高美国融资成本的压力；高市早苗则更关注经济增长和扩大支出，高利率可能增加政府债务偿付成本，并对经济活动形成约束。&lt;/p&gt;
-&lt;p&gt;日本央行前外汇部门负责人竹内淳表示：“植田和男面临的平衡极其困难。他夹在高市早苗和贝森特的压力之间。”他还指出，与美国和欧洲相比，日本的通胀压力较弱，如果日本央行跟随其他央行竞相加息，可能会付出代价。&lt;/p&gt;
-&lt;p&gt;德意志银行日本固定收益策略主管大森翔希则表示：“植田和男的工作几乎已经困难到了极点。没有任何一种政策节奏能够同时令投资者、华盛顿和日本政府满意。”&lt;/p&gt;
-两鹰派票委明年7月离任 央行人事与财政扩张将影响紧缩节奏
-&lt;p&gt;日本央行的政策走向不仅取决于通胀和经济数据，也面临着未来人事变动与政府财政政策的长期影响。高市早苗已通过委员任命，在日本央行内部形成了反对进一步加息的声音，而明年7月两名鹰派委员离任后，央行决策层的政策平衡可能面临新的变化。&lt;/p&gt;
-&lt;p&gt;彭博社指出，鹰派委员高田创和田村直树均预计于2027年7月离任。届时，高市早苗将有机会任命继任者。如果新任委员与本次投票反对加息的两名委员立场相近，可能改变日本央行内部对进一步加息的支持程度。&lt;/p&gt;
-&lt;p&gt;不过，这并不意味着高市早苗届时必然能够扭转日本央行的紧缩方向。委员任命并不等于对未来利率决策的直接控制，通胀、工资、经济增长和金融市场状况仍将影响政策选择。更准确地说，明年7月是日本央行内部政策平衡可能发生变化的一个时间节点，而非货币政策转向的确定时点。&lt;/p&gt;
-&lt;p&gt;高市早苗的另一张长期政策牌，则是扩大财政支出空间。&lt;/p&gt;
-&lt;p&gt;彭博社指出，高市早苗调整了日本政府主要债务指标的表述方式，为扩大支出争取空间。其政策思路是通过财政投资促进经济增长、提高企业利润和家庭收入，进而增加税收收入。&lt;/p&gt;
-
-
- 
-
-
-&lt;p&gt;但这一政策路径存在明显的市场约束。&lt;/p&gt;
-&lt;p&gt;首先，财政扩张可能与日本央行的紧缩目标形成拉扯。 如果政府扩大支出、减税刺激需求，进而加大通胀压力，日本央行可能需要维持更高利率，甚至加快加息。这意味着高市早苗希望通过宽松财政支持经济的同时，也可能增加货币政策收紧的压力。&lt;/p&gt;
-&lt;p&gt;其次，国债市场可能成为财政政策与货币政策冲突的集中体现。 日本公共债务规模庞大，长期国债收益率处于高位。若减税和支出扩张加大财政融资需求，市场可能要求更高的收益率来补偿供给和财政风险；而日本央行加息、缩减购债，也会增加政府的债务融资成本。&lt;/p&gt;
-&lt;p&gt;最后，财政与货币政策的组合可能进一步影响日元。 如果市场认为日本财政扩张将持续，而日本央行又因经济增长顾虑而放慢加息，日美利差可能继续维持在较高水平，日元便难以仅靠汇率干预获得持续支撑。反过来，如果财政刺激推高通胀并促使日本央行加快紧缩，日元可能获得利差层面的支持，但日本政府的利息负担也将随之增加。&lt;/p&gt;
-&lt;p&gt;因此，高市早苗的人事布局和财政政策，可能共同影响日本央行未来数年的政策环境。明年7月的委员更替为政策平衡变化提供了一个观察节点，而财政扩张能否在不加剧债务和汇率压力的情况下推动经济增长，则是另一项长期考验。&lt;/p&gt;
-日美联合干预后，汇率稳定与货币政策更加纠缠
-&lt;p&gt;此次汇率摸底发生在日美联合干预日元后不久。&lt;/p&gt;
-&lt;p&gt;今年7月末，日本财务省确认，日本与美国财政部于7月31日协调实施买入日元干预。这是自1998年以来首次日美联合买入日元行动。日本财务省公布的数据还显示，7月30日至8月26日期间，日本政府投入15.4万亿日元干预外汇市场，创下单月干预金额新高。&lt;/p&gt;
-&lt;p&gt;贝森特此前公开支持日元走强，并表示日本政府无需为外汇干预而出售美国资产。他称：“日元走强意味着日本政府无需出售美国资产来为外汇干预融资。”&lt;/p&gt;
-&lt;p&gt;日本是美国最大的海外美债持有国，持仓规模超过1万亿美元。贝森特对日元汇率的关注，因而不仅涉及日本货币政策，也与美国国债市场及融资成本有关。&lt;/p&gt;
-&lt;p&gt;但日美在汇率问题上的利益并不完全一致。日本政府希望避免日元过度贬值，而日本央行需要兼顾国内通胀、经济增长和金融条件；美国则希望日元走强，降低日本资金因汇率压力而出售美债的风险。&lt;/p&gt;
-&lt;p&gt;哈佛大学经济学教授Kenneth Rogoff评论称，美国财长试图通过言论推动亚洲主要货币升值，并不罕见；但外国力量介入日本央行独立性，则值得质疑。&lt;/p&gt;
-假期流动性或放大干预效果，长期支撑仍取决于利差
-&lt;p&gt;日本即将进入持续至下周三的假期时段，市场流动性可能趋于稀薄。媒体指出，日本政府曾在5月黄金周假期前后采取干预行动，当时日元在假期前跌破160关口，随后政府又似乎在流动性较低的交易时段再次入场。&lt;/p&gt;
-&lt;p&gt;在流动性偏低的市场中，官方干预可能更容易引发短期汇率波动，并迫使投机性空头平仓。但其能否带来持续的日元升值，仍取决于货币政策及日美利差的变化。&lt;/p&gt;
-&lt;p&gt;日本央行加息的同时，美联储也采取了偏鹰派的政策立场。彭博社指出，若投资者认为日本央行难以跟上美联储的紧缩步伐，美元兑日元可能再度向160靠近。&lt;/p&gt;
-&lt;p&gt;此外，日元空头仓位已较此前有所减少。美国商品期货交易委员会（CFTC）数据显示，截至9月8日当周，杠杆基金的日元看空押注减半。这意味着，如果日本当局再度干预，能够被迫平仓的空头头寸可能少于此前。&lt;/p&gt;
-&lt;p&gt;日本央行的政策困境由此更加突出：加息有助于缩小日美利差、为日元提供基本面支撑，却可能增加日本经济和财政负担；汇率干预能够在短期内改变市场预期，但难以独立消除利差带来的压力。&lt;/p&gt;
-&lt;p&gt;汇率摸底消息传出后，日元跌幅收窄，显示市场仍对日本当局的行动保持敏感。但要让日元获得持续支撑，市场最终仍需判断日本央行是否会继续收紧政策，以及日本与美国之间的利差能否真正收窄。&lt;/p&gt;
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 闪迪暴涨11%，存储和芯片股“短期期权”爆巨量，“AI股神”又出手了？</title><link>https://wallstreetcn.com/articles/3782123</link><guid>408c2149aa2a3b1ac88d59d3c50ffb091df2c5f97951c8002be1e690d3e616d3</guid><pubDate>Sat, 19 Sep 2026 03:27:00 GMT</pubDate><description>&lt;p&gt;周五，约9600万美元短期看涨期权集中涌入闪迪（SanDisk）、美光（Micron）、英特尔（Intel）和Marvell四只AI芯片股。盘中，闪迪涨幅一度暴涨11%。&lt;/p&gt;
+&lt;p&gt;据路透社报道，Anthropic的IPO时间表可能推迟至11月，这进一步压缩了公司在发布策略上的腾挪空间。在上市前夕，收入增长和市场份额的可见性，对估值和投资者信心至关重要。&lt;/p&gt;
+&lt;p&gt;从企业客户数据来看，Fable系列的增长势头已经放缓；Astra上线后，Anthropic在OpenRouter平台上的份额被快速侵蚀。在这一背景下，&lt;strong&gt;提前推出新模型，是Anthropic在商业逻辑与IPO节奏双重压力下，不得不考虑的选项。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从家电产业发展历史看当下的中国汽车产业发展阶段</title><link>http://xueqiu.com/2021998461/409847177</link><guid>ff4c37c35d0482cd6d6e0e41a6ab423470ae10befa6dcca58e43f9df68ee430c</guid><pubDate>Sat, 19 Sep 2026 04:30:53 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;一线指战员&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/01211"&gt;$比亚迪股份(01211)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ002594"&gt;$比亚迪(SZ002594)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/00175"&gt;$吉利汽车(00175)$&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[华尔街见闻] 闪迪暴涨11%，存储和芯片股“短期期权”爆巨量，“AI股神”又出手了？</title><link>https://wallstreetcn.com/articles/3782123</link><guid>408c2149aa2a3b1ac88d59d3c50ffb091df2c5f97951c8002be1e690d3e616d3</guid><pubDate>Sat, 19 Sep 2026 03:27:00 GMT</pubDate><description>&lt;p&gt;周五，约9600万美元短期看涨期权集中涌入闪迪（SanDisk）、美光（Micron）、英特尔（Intel）和Marvell四只AI芯片股。盘中，闪迪涨幅一度暴涨11%。&lt;/p&gt;
 &lt;p&gt;看着这波“爆巨量”的短期期权交易流，CNBC主持人Jim Cramer在社交平台X上发文感叹道：“看这架势，活脱脱Leopold杀回来了！”&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;如果你一直在关注全球AI算力和大模型赛道的投资机会，你一定不会对Leopold Aschenbrenner感到陌生。&lt;/p&gt;
@@ -413,4 +353,53 @@ CFTC同步松绑，监管“绕道”推进
 &lt;p&gt;一旦OpenAI的融资节奏出现迟滞，相关企业的业绩预期亦将承压。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在资本市场层面&lt;/strong&gt;，OpenAI此前曾计划于今年秋季上市，并于6月向美国证券交易委员会（SEC）秘密提交了上市申请文件，但随后推迟了这一进程，官方理由是公众对人工智能快速发展所带来的风险日益关注。&lt;/p&gt;
 &lt;p&gt;然而据部分投资者透露，延迟背后还有另一层考量：&lt;strong&gt;市场对于一家持续亏损的公司能否给出合理估值，内部存在顾虑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，竞争对手Anthropic预计将于今年秋季上市，且有望创下史上最大规模科技IPO纪录，这无疑增加了OpenAI选择最佳上市时机的复杂性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 攒股收息之道</title><link>http://xueqiu.com/1257903768/409870098</link><guid>0069b24a053a7e37a8cb478f261e0975dbd60fb0efd145d813fc308aa35b8b0c</guid><pubDate>Sat, 19 Sep 2026 04:28:14 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;谦秋说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;做价值投资，走到最后，大多都会认可攒股收息的长期逻辑。&lt;br&gt;但很多普通投资者，一直存在一个误区：只看当下股息高低，不懂区分资产属性，不分仓位、不择估值。结果就是，看似拿着收息标的，却遭遇业绩下滑、分红缩水、估值持续走低，不仅拿不到稳健复利，还容易长期被套。&lt;br&gt;在我的投资体系里，攒股收息从不是简单的“买入躺平”，核心是资产分层、估值择时、仓位纪律。我把适合收息的资产清晰分为三类，逻辑通透，适合所有长线投资者参考。&lt;br&gt;第一类，核心底仓资产，也是整个收息组合的压舱石。&lt;br&gt;这类标的大多是央国企属性，集中在公用事业、水电、煤炭等刚需行业，商业模式稳定、现金流扎实、分红机制成熟。&lt;br&gt;这里纠正一个很多人的认知偏差：部分老牌龙头，当下股息率已经回落至4%以内，短期来看，股息性价比并不突出。但我们看收息资产，不能只看当下，要看中长期。&lt;br&gt;即便股息小幅回落，这类刚需稳增长资产，长期复利依然可以稳稳跑赢理财、债券，抗风险能力极强。不求短期暴利，只求稳稳的安心，适合作为组合中长期备选底仓。&lt;br&gt;而银行板块，是目前攒股收息最优质的核心底座。&lt;br&gt;当下市场大量银行类标的，股息率普遍突破4%，且几乎全部处于破净状态，只是破净幅度有所区别。无论是国有大行，还是优质股份制银行，都集齐了高股息、深度低估、估值修复弹性三大优势。&lt;br&gt;在存量市场里，这类资产攻守兼备，下跌空间极小，修复确定性极强，是攒股收息组合里，最值得重仓、最适合长期扎根的核心资产。&lt;br&gt;第二类，周期弹性资产，只能小仓位博弈，绝对不可重仓。&lt;br&gt;涵盖基建、钢铁、水泥等传统周期行业龙头。&lt;br&gt;这类资产的本质，是景气度生意，我常把它们比作夏天的冰棍。行业景气向上，利润、分红双双走高；行业需求下行，盈利就会明显缩水，分红也会随之下调。&lt;br&gt;它们只适合在深度低估、市场极度悲观的阶段小仓位布局，赚估值修复和阶段性分红的钱。一旦行业回暖、估值修复到位，就必须分批兑现，绝对不能长期无脑持有。周期股赚的是均值回归的钱，不是永续增长的钱。&lt;br&gt;第三类，消费备选资产，轻仓配置，博取修复行情。&lt;br&gt;包含白酒、乳业、肉制品、白电等大众消费龙头。&lt;br&gt;经过持续多年的调整，很多消费龙头估值充分消化，不少标的股息率已经站稳4%以上，安全边际逐步显现。&lt;br&gt;消费赛道的核心优势，是品牌壁垒深厚、现金流稳定、抗风险能力强。但短板也很明确：受宏观消费环境影响大，业绩增速温和，很难走出趋势性大行情。&lt;br&gt;所以这类资产，只适合小仓位分批布局，作为组合的补充，丰富资产结构，不适合重仓押注。&lt;br&gt;最后说两个坚决不纳入收息组合的标的：&lt;br&gt;第一，高位高估值、业绩波动极大的成长题材资产，炒作属性太重，没有稳定分红逻辑；&lt;br&gt;第二，现金流薄弱、分红断断续续、没有稳定回报机制的标的，看似有题材，实则没有长线价值。&lt;br&gt;真正的攒股收息，从来不是无脑买入，而是一套完整的体系。&lt;br&gt;赚两份确定性的钱：一份是企业持续分红的现金流收益，一份是低估值回归合理的修复收益。&lt;br&gt;严守纪律、分层配置、低估布局、高位兑现，不贪短线热点，不追市场情绪，稳稳复利，慢慢变富，这就是普通人最适合的长线投资之道。&lt;br&gt;&lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601318"&gt;$中国平安(SH601318)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH600919"&gt;$江苏银行(SH600919)$&lt;/a&gt; &lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;与此同时，竞争对手Anthropic预计将于今年秋季上市，且有望创下史上最大规模科技IPO纪录，这无疑增加了OpenAI选择最佳上市时机的复杂性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 暴赚17000%的神话破灭！“土耳其版高盛”轰然崩塌，140亿美元惨遭清算</title><link>https://wallstreetcn.com/articles/3782106</link><guid>10c4ac3058371acf2d8fc848d51da0a2f9de87816204269217322b9374013a78</guid><pubDate>Fri, 18 Sep 2026 20:15:45 GMT</pubDate><description>&lt;p&gt;在金融市场里，那些反直觉的超高收益，往往都暗中标好了毁灭的代价。&lt;/p&gt;
+&lt;p&gt;最近，一家立志成为“土耳其版高盛”的投行Tera Group，用一场惊天崩盘，再次向全球投资者验证了这个常识。&lt;/p&gt;
+&lt;p&gt;从一年暴涨2000%的妖股，到被司法部定性为“类庞氏骗局”，这家狂飙突进的金融集团不仅将自己送上了末路，更在土耳其金融系统引发了一场罕见的超级地震。&lt;/p&gt;
+
+令人倒吸一口凉气的“造富神话”
+
+&lt;p&gt;在暴雷之前，Tera Group及其资管部门Tera Portfoy在土耳其国内无疑是一个传奇。&lt;/p&gt;
+&lt;p&gt;这家原本鲜为人知的券商，在过去两年里凭借着惊人的收益率声名鹊起。在社交媒体上，它的旗舰基金甚至拥有了一批“死忠粉”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自2025年初以来，该基金的回报率竟然超过了不可思议的17,000%！&lt;/strong&gt; 此外，其相关股票在去年也创下了高达2000%的涨幅，甚至有媒体曾报道过其相关股票飙升40,000%的疯狂景象。&lt;/p&gt;
+&lt;p&gt;凭借着这些夸张的收益数据，Tera的高管们在伊斯坦布尔四处宣扬他们的野心：&lt;strong&gt;我们要成为“土耳其的高盛”。&lt;/strong&gt;公司创始人Emre Tezmen更是将自己包装成这套投资技术的“总设计师”。&lt;/p&gt;
+&lt;p&gt;在接受彭博社采访时，特兹曼曾傲慢地反问：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我赚了钱，投资者也赚了钱，国家又损失了什么？这根本没有任何问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他还曾向外界吹嘘自己与安卡拉高层的密切关系，尤其是与土耳其财政部长Mehmet Simsek的“私交”。&lt;/p&gt;
+&lt;p&gt;但在聚光灯的背后，这个“神话”的内核却经不起任何专业推敲。&lt;/p&gt;
+
+“左手倒右手”的致命杠杆游戏
+
+&lt;p&gt;超高收益的底牌到底是什么？答案极其简单：&lt;strong&gt;坐庄流动性差的股票。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tera的策略简单粗暴且极具迷惑性：&lt;strong&gt;他们将数十亿里拉的资金，疯狂倾注到一个由关联公司组成的紧密圈子里，并通过杠杆不断放大赌注。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这些基金重仓持有的，正是母公司Tera、Tera的子公司，以及Tera旗下券商协助上市的公司股票。监管文件披露了一个极其荒谬的细节：&lt;strong&gt;在2023年的某个时期，该基金竟然将其99%的资产，全部押注在母公司Tera Yatirim的股票上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这就是一场经典的“左手倒右手”游戏。&lt;strong&gt;只要资金不断涌入，股价就能不断推高；只要股价推高，基金净值就能实现指数级膨胀。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但问题在于，这种建立在缺乏流动性的股票和高杠杆之上的繁荣，就像是在针尖上建高楼。&lt;/p&gt;
+
+监管出手，多米诺骨牌倒塌
+
+&lt;p&gt;最先发出警告的，是国际投资者。他们敏锐地察觉到了这种异常的交易活动。国际权威指数机构MSCI甚至发出警告：如果不做出改变，土耳其可能会被从追踪新兴市场的股票基准中剔除。&lt;/p&gt;
+&lt;p&gt;今年8月，土耳其监管机构终于出手，收紧了针对重仓非流动性股票的股票基金的监管规则。&lt;/p&gt;
+&lt;p&gt;这一动作成为了戳破泡沫的那根针。新规迫使基金不得不抛售部分仓位，随之而来的便是投资者的挤兑狂潮。&lt;strong&gt;Tera旗下的基金很快宣布：他们无法满足客户的赎回要求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;崩盘以极其惨烈的方式发生： 土耳其司法部长承诺严厉打击这种“类庞氏骗局”。&lt;strong&gt;Tera资管部门约680亿里拉（约合140亿美元）的资金被迫清算，公司一名高管被当局逮捕。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这场崩盘迅速传染了整个土耳其金融系统，触发了股指熔断机制。&lt;/strong&gt;在实行10%跌停板制度的土耳其股市中，上周五伊斯坦布尔全股指中每六家公司就有一家跌停。Tera Yatirim的股价在三天内暴跌27%，大盘也创下了一年多来的最差单周表现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大火甚至烧到了土耳其最受欢迎的足球俱乐部之一，贝西克塔斯。&lt;/strong&gt;仅仅几个月前，Tera刚刚成为该俱乐部的球衣背后赞助商。随着危机爆发，贝西克塔斯在欧联杯比赛中紧急撤下了Tera的标志，而该俱乐部的股价也在本周蒸发了三分之一。&lt;/p&gt;
+
+一地鸡毛：35万人的漫长等待
+
+&lt;p&gt;目前，土耳其官方正试图阻止这场危机蔓延至更广泛的金融业。财政部长希姆谢克出面安抚市场，称已经“隔离了问题区域，不存在系统性风险”。当局已指派两家大型银行来监督Tera Portfoy等公司旗下100多只基金的清算工作。&lt;/p&gt;
+&lt;p&gt;但这背后，是涉及超过180亿美元资金、约35万名投资者的血汗钱。许多土耳其储户至今仍不知道自己的资产究竟还剩多少。&lt;/p&gt;
+&lt;p&gt;北南资本（North of South Capital LLP）合伙人卡米尔·迪米奇一针见血地指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这将是一个警示故事。它的基金和相关股票曾为投资者赚取了大量账面财富，但如今这些财富已在一夜之间蒸发。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这本是一场可以避免的灾难。土耳其金融犯罪监管机构Masak前副主席拉马赞·巴萨克痛斥这是一次“监管失败”，&lt;strong&gt;他本人曾因投诉Tera而被当局拘留过两次。&lt;/strong&gt;在大崩盘前，伊斯坦布尔的基金经理圈子里甚至形成了一条潜规则：&lt;strong&gt;绝不在公开场合谈论Tera。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大西洋理事会高级主管德芙妮·阿斯兰将此称为土耳其金融市场的“重大分水岭时刻”。它赤裸裸地暴露了当杠杆在一个高度集中的股票生态系统中断裂时，资金的恐慌速度能有多快。&lt;/p&gt;
+&lt;p&gt;至于那位高傲的创始人特兹曼，至今仍坚称自己是“臭名昭著的恶意势力投机性攻击”的受害者。&lt;/p&gt;
+&lt;p&gt;但这已经不重要了。正如OMG Capital Advisors首席执行官穆拉特·古尔坎所总结的那样：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;庞氏骗局就像骑自行车。它们要么保持移动（不断膨胀），要么，就会彻底坠毁。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于那35万名被困在局中的投资者来说，那辆疯狂的自行车，已经彻底散架了。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 美联储追认市场：一场"被迫加息"背后的定价权转移</title><link>http://xueqiu.com/7271353740/409774135</link><guid>7e73aa38b4f2e8143f7775090548799e7bf90f2e31ef4e0e9d48c20f836fe4d8</guid><pubDate>Sat, 19 Sep 2026 04:29:16 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;入市二十多年，见过太多“靴子落地”的戏码，但&lt;strong&gt;这次有点不一样。&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
