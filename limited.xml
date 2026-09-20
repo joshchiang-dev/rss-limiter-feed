@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 09:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 09:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
 &lt;p&gt;“降低词元成本最有效的方式，绝非降低 GPU 售价或使用低成本网络，而是每一代都交付大幅提升的算力性能。如果将节点或机架的性能提升 10 倍到 30 倍，这种性能提升会直接作用于计算公式的分子，从而降低整个数据中心每个词元的成本。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解析&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;传统 IT 采购习惯通过压低硬件单价来控制成本。然而在 AI 工厂时代，算力性能的提升呈指数级（10 倍至 30 倍），对 TCO 的拉动作用远超芯片单价的微调。因此，通过提升性能来摊薄单位算力成本，远比单纯采购低价硬件更为高效。&lt;/p&gt;
@@ -222,7 +222,103 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;&lt;strong&gt;下下周（9/28-10/4）事件提前提醒：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;9月29日（周二）&lt;/strong&gt;：&lt;strong&gt;OpenAI DevDay 2026（旧金山&lt;/strong&gt;）——据OpenAI官网，本届聚焦技术深度与开发者生态，作为AI资本化关键节点，关注新API与模型发布。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10月1日（周四）凌晨4:30&lt;/strong&gt;：&lt;strong&gt;美光2026财年第四季度财报&lt;/strong&gt;——美东9月30日16:30召开电话会，为存储链景气与HBM需求的关键验证节点。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？</title><link>https://wallstreetcn.com/articles/3782152</link><guid>97a0d62cba77009d547bd82030688777d42fbebb9932f62ef9cbf067b0e9d200</guid><pubDate>Sun, 20 Sep 2026 06:44:58 GMT</pubDate><description>&lt;p&gt;OpenAI正在就新一轮私募融资与投资者展开初步接触，潜在估值或达1.2万亿美元以上。在已累计募资逾1800亿美元、现有大股东普遍面临资本支出压力的背景下，谁能为这轮融资压阵，成为最大悬念。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Jev周末爆了：一个参与造出GPT的人，开始反思RLHF—AI不该永远需要人盯着</title><link>https://wallstreetcn.com/articles/3782158</link><guid>28815c8018b007776a0d5ff10a7ae34b9af1045b5b00ce470d4df543671f05ef</guid><pubDate>Sun, 20 Sep 2026 09:49:57 GMT</pubDate><description>&lt;p&gt;这两天，一个有点反常的AI模型突然刷屏了。&lt;/p&gt;
+&lt;p&gt;它叫 &lt;strong&gt;Jev&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;不会聊天，不写代码，甚至不会像ChatGPT一样给你生成一大段答案。它只干一件事：&lt;strong&gt;做判断。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但就是这样一个看起来“能力被砍了一大半”的模型，却突然在开发者圈火了。&lt;/p&gt;
+&lt;p&gt;有人用它40秒分析724条实时广告，总共做出8724次判断；有人把它接进Claude Code，专门清理没用的上下文；还有人让它给AI Agent当“裁判”，检查任务到底有没有真的完成。LangChain也已经开始测试Jev作为Agent评估器的表现。&lt;/p&gt;
+&lt;p&gt;更夸张的是速度和价格。&lt;/p&gt;
+&lt;p&gt;TypeSafe公布的测试中，Jev最高提速约193.6倍，成本最多降低444.6倍。输入每百万Token只要0.042美元，输出Token甚至免费。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一个能力看起来更少的AI，为什么反而火了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因为到了Agent时代，AI真正需要的可能不只是“深思熟虑”，还有&lt;strong&gt;海量、快速、便宜的判断&lt;/strong&gt;：下一步做什么、该调用哪个工具、任务到底完成没有。更重要的是，这些判断未来需要AI自己在后台完成，不再需要人一直坐在屏幕前盯着。Jev看上的，就是这些每天可能发生几百万次的小决定。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更有意思的是，&lt;/strong&gt;Jev模型创始人Diogo Almeida&lt;strong&gt;，恰恰参与过RLHF，而现在他开始反思RLHF：这套让ChatGPT变得好用的训练方式，可能并不适合AI真正走向自动化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个多月前，Almeida做过一场演讲。现在回头再看，那场演讲几乎就是Jev的“思想说明书”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+01 AI都会做高等数学了，为什么还做不好客服？
+&lt;p&gt;Diogo Almeida的履历很特殊。&lt;/p&gt;
+&lt;p&gt;他曾在OpenAI工作，是GPT-4、ChatGPT以及InstructGPT/RLHF相关工作的参与者。也就是说，他曾亲手参与构建了今天大模型最重要的一套后训练范式。&lt;/p&gt;
+&lt;p&gt;但在那场演讲里，他上来就调侃自己，是OpenAI内部少数几个公开“黑”ChatGPT的人之一。&lt;/p&gt;
+&lt;p&gt;他的演讲主题更加直接：&lt;strong&gt;What&amp;#x27;s Next After RLHF？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diogo先提出了一个看起来很矛盾的问题。&lt;/p&gt;
+&lt;p&gt;今天的大模型已经可以挑战非常难的数学题，代码、推理和各种benchmark一路往上走。&lt;/p&gt;
+&lt;p&gt;可到了很多企业真正想自动化的业务里，人却始终拿不掉。&lt;/p&gt;
+&lt;p&gt;比如客服。&lt;/p&gt;
+&lt;p&gt;让AI查资料、总结文档、起草回复，没问题。&lt;/p&gt;
+&lt;p&gt;但如果让AI自己决定：&lt;strong&gt;这笔钱到底退不退？这个用户要不要赔偿？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;企业一下就谨慎起来了。&lt;/p&gt;
+&lt;p&gt;明明这些事情看起来比高等数学简单得多，为什么反而不敢交给AI？&lt;/p&gt;
+&lt;p&gt;Diogo给出的答案很简单：&lt;strong&gt;Today&amp;#x27;s AI is incredible at assistance, not automation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天的AI很会&lt;strong&gt;帮你干活&lt;/strong&gt;，却还不太能&lt;strong&gt;自己把活干完&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这两件事看起来只差一点，实际上完全不同。&lt;/p&gt;
+&lt;p&gt;Claude Code再强，你通常还是坐在电脑前。它写代码，你看；它改文件，你检查；错了，你再让它改。&lt;/p&gt;
+&lt;p&gt;所以在Diogo看来，Claude Code依然属于ChatGPT开启的“协助时代”。&lt;/p&gt;
+&lt;p&gt;真正的自动化是什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人根本不在场。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI在后台自己判断、自己执行，一天可能运行几十万甚至几百万次，你甚至永远不会看到它做了什么。&lt;/p&gt;
+&lt;p&gt;问题也就来了：为什么今天的AI这么聪明，却偏偏离不开人？&lt;/p&gt;
+&lt;p&gt;Diogo把矛头指向了一个自己非常熟悉的东西——&lt;strong&gt;RLHF。&lt;/strong&gt;&lt;/p&gt;
+02 我们训练AI的时候，就把人塞进了回路里
+&lt;p&gt;这件事多少有点讽刺。&lt;/p&gt;
+&lt;p&gt;因为RLHF，恰恰是Diogo当年参与推动的技术路线之一。&lt;/p&gt;
+&lt;p&gt;RLHF的基本逻辑其实不复杂：&lt;strong&gt;收集人的偏好，然后让模型越来越符合人的偏好。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所以Diogo在演讲里给出了一个非常直白的解释：为什么今天的大模型总需要有人在回路里？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因为训练它的时候，我们字面意义上就把人塞进了那个回路里。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;模型从一开始就在学习：什么样的回答，人更喜欢？&lt;/p&gt;
+&lt;p&gt;这也解释了大模型一个我们已经非常熟悉的特点——&lt;strong&gt;哪怕不知道，它也经常能说得特别像那么回事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diogo在现场举了一个很损的例子。&lt;/p&gt;
+&lt;p&gt;有人给ChatGPT发了一段放屁的录音，告诉它这是自己创作的一首音乐，请它“真诚、坦率”地评价。&lt;/p&gt;
+&lt;p&gt;结果ChatGPT一本正经地夸了起来，说这是一首很有阴森、诡异氛围感的环境音乐。&lt;/p&gt;
+&lt;p&gt;Diogo甚至用了一句话总结：&lt;strong&gt;“Overpromising is a feature.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过度承诺不是Bug，是feature。&lt;/p&gt;
+&lt;p&gt;对于聊天产品来说，这未必致命。用户还在屏幕前，错了可以纠正。&lt;/p&gt;
+&lt;p&gt;但真正的自动化系统完全不同。&lt;/p&gt;
+&lt;p&gt;机器不关心你的回答好不好听，它只需要知道两件事：&lt;strong&gt;到底该怎么做，&lt;/strong&gt;以及&lt;strong&gt;你到底有多大把握？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也就解释了，为什么一个多月后发布的Jev，看起来会如此反常。&lt;/p&gt;
+03 所以，Jev干脆不让AI“说话”了
+&lt;p&gt;普通大模型哪怕最终只需要回答“A还是B”，往往也要经过生成Token的过程。&lt;/p&gt;
+&lt;p&gt;Jev直接把这部分砍掉。&lt;/p&gt;
+&lt;p&gt;它目前主要做三件事：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Noul，回答Yes还是No；&lt;/li&gt;
+&lt;li&gt;Choice，从几个选项里选一个；&lt;/li&gt;
+&lt;li&gt;Score，按照标准打分。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后直接返回&lt;strong&gt;判断和概率&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;不给你写小作文，也不陪你聊天。&lt;/p&gt;
+&lt;p&gt;官方公布的端到端延迟低至70—500毫秒，相比前沿模型快20—200倍，价格低40—400倍。&lt;/p&gt;
+&lt;p&gt;但真正关键的，其实不是“快”，是后面那个&lt;strong&gt;概率&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为此，TypeSafe提出了一套新的训练方法：&lt;strong&gt;RLCD，Reinforcement Learning for Calibrated Decisions，校准决策强化学习。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;它想解决的问题非常现实：如果AI告诉你一件事有80%的概率发生，&lt;strong&gt;这个80%到底能不能信？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;理想情况下，模型判断为80%概率的一批事情，最后就应该大约有80%真的发生。&lt;/p&gt;
+&lt;p&gt;这在自动化系统里非常重要。&lt;/p&gt;
+&lt;p&gt;99%的把握，可以直接执行。&lt;/p&gt;
+&lt;p&gt;51%的把握，可以扔给更强、更贵的大模型，甚至转给人。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正麻烦的不是AI不知道，是AI不知道自己不知道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所以Jev真正想改变的，是AI输出的对象。&lt;/p&gt;
+&lt;p&gt;过去ChatGPT生成的答案，主要是&lt;strong&gt;给人看的&lt;/strong&gt;。Jev给出的判断和概率，则是准备&lt;strong&gt;直接交给软件用的&lt;/strong&gt;。&lt;/p&gt;
+04 Agent时代，可能需要的不是一个更大的大脑
+&lt;p&gt;这也解释了为什么Jev偏偏在现在火了。&lt;/p&gt;
+&lt;p&gt;因为Agent真正运行起来以后，会产生海量的小判断：&lt;/p&gt;
+&lt;p&gt;下一步调用哪个工具？这个网页该点哪个按钮？这条信息还有没有用？任务到底完成没有？结果要不要重新检查？&lt;/p&gt;
+&lt;p&gt;这些问题单个看都不难，但一个Agent一天可能需要判断几十万、几百万次。&lt;/p&gt;
+&lt;p&gt;如果每一次都叫最强的大模型，花几秒钟“深思熟虑”，再吐出一大段Token，成本和延迟很快就上去了。&lt;/p&gt;
+&lt;p&gt;Jev想抢的，就是这一层。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大量高频的小决定交给Jev，真正需要复杂推理的任务，再交给大模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也是为什么TypeSafe把Jev叫做 &lt;strong&gt;System One Model&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这个概念来自丹尼尔·卡尼曼的“系统1”和“系统2”：一个负责快速、直觉式的判断，一个负责慢速、复杂的思考。&lt;/p&gt;
+&lt;p&gt;Jev甚至连名字都来自“杰文斯悖论”：&lt;/p&gt;
+&lt;p&gt;一种资源变得越来越便宜，人们未必会少用，反而可能用得更多。&lt;/p&gt;
+&lt;p&gt;如果调用一次AI很贵，你只会把它用在最重要的地方。&lt;/p&gt;
+&lt;p&gt;但如果一次AI判断便宜到几乎可以忽略呢？&lt;/p&gt;
+&lt;p&gt;一封邮件、一条日志、一次工具调用、一个网页按钮、Agent执行的每一步，都可能加入一次AI判断。&lt;/p&gt;
+&lt;p&gt;当然，现在就说Jev代表下一代AI，还太早。&lt;/p&gt;
+&lt;p&gt;它所谓的“零幻觉”，更多意味着不会跳出规定的答案类型乱编，不代表不会选错；193.6倍、444.6倍这样的极端数据，也主要来自TypeSafe自己的测试。&lt;/p&gt;
+&lt;p&gt;但Jev这次爆火真正值得关注的，可能不是它能不能挑战GPT或者Claude。&lt;/p&gt;
+&lt;p&gt;而是一个参与造出ChatGPT的人，正在重新追问一个更底层的问题：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过去几年，整个行业都在想，怎样让AI想得更久、说得更多。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但如果未来真正需要的是几十亿次机器之间的判断，&lt;strong&gt;AI为什么每一次都要先“说一段话”？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT教会了机器怎么和人说话。&lt;/p&gt;
+&lt;p&gt;而Jev押注的下一步是：&lt;strong&gt;当人不再坐在屏幕前，机器能不能自己做决定？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？</title><link>https://wallstreetcn.com/articles/3782152</link><guid>97a0d62cba77009d547bd82030688777d42fbebb9932f62ef9cbf067b0e9d200</guid><pubDate>Sun, 20 Sep 2026 06:44:58 GMT</pubDate><description>&lt;p&gt;OpenAI正在就新一轮私募融资与投资者展开初步接触，潜在估值或达1.2万亿美元以上。在已累计募资逾1800亿美元、现有大股东普遍面临资本支出压力的背景下，谁能为这轮融资压阵，成为最大悬念。&lt;/p&gt;
 &lt;p&gt;本周据The Information报道，&lt;strong&gt;OpenAI目前正与投资者就新一轮私募融资进行早期谈判，该公司在此轮融资中的估值可能达到1.2万亿美元或更高。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;就在此轮融资消息传出前，OpenAI首席执行官Sam Altman公开表示，公司今年不会进行IPO。&lt;/p&gt;
 &lt;p&gt;通过维持私有化状态，OpenAI能够争取更多时间来提升销售额，同时免于向公开市场披露其高昂的增长成本，例如为从竞争对手Anthropic手中争夺业务而提供的严重挤压利润率的折扣。&lt;/p&gt;
@@ -254,7 +350,7 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;在现有大股东普遍受限的情况下，OpenAI的芯片与算力供应商群体成为外界关注的潜在融资来源。其逻辑在于：&lt;strong&gt;若OpenAI业务持续增长，这些供应商本身就是直接受益者，以投资换深度绑定具有战略价值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其中，博通与OpenAI正在合作开发定制芯片，截至今年8月持有约240亿美元的现金及等价物，是少数几家仍有腾挪空间的潜在买方。&lt;/p&gt;
 &lt;p&gt;不过，OpenAI的营收能否真正加速依然是最大的未知数。该公司近期虽推出了Codex编程产品，并发布了5.6和Astra等新模型，但同步下调价格的举措令营收前景蒙上了阴影。&lt;/p&gt;
-&lt;p&gt;更令市场关注的是，OpenAI内部已有研究人员公开呼吁放缓模型开发节奏，以等待安全实践跟上。这一内部分歧，无疑为这家公司的下一步走向增添了更多变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 胡塞猛攻沙特，美国警告“迅速升级”，沙特紧急向多国求援</title><link>https://wallstreetcn.com/articles/3782155</link><guid>0bb21aa0b76d2fe93e7a53d9548f76c2310cda16899f412562f8f5acf936f5a0</guid><pubDate>Sun, 20 Sep 2026 09:22:01 GMT</pubDate><description>&lt;p&gt;也门胡塞武装与沙特的军事冲突可能“迅速升级”，叠加霍尔木兹海峡持续封锁，全球能源运输正面临数十年来最严峻的双峡锁喉局面。&lt;/p&gt;
+&lt;p&gt;更令市场关注的是，OpenAI内部已有研究人员公开呼吁放缓模型开发节奏，以等待安全实践跟上。这一内部分歧，无疑为这家公司的下一步走向增添了更多变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 胡塞新一轮袭击，美国警告“迅速升级”，沙特紧急向多国求援</title><link>https://wallstreetcn.com/articles/3782155</link><guid>0bb21aa0b76d2fe93e7a53d9548f76c2310cda16899f412562f8f5acf936f5a0</guid><pubDate>Sun, 20 Sep 2026 09:22:01 GMT</pubDate><description>&lt;p&gt;也门胡塞武装与沙特的军事冲突可能“迅速升级”，叠加霍尔木兹海峡持续封锁，全球能源运输正面临数十年来最严峻的双峡锁喉局面。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.news.cn/world/20260920/4c050353feea4663ac24e82b90010044/c.html"&gt;据新华社&lt;/a&gt;，美国驻中东多国大使馆19日发布新的安全警报称，&lt;strong&gt;也门胡塞武装对沙特发动了新一轮袭击，军事冲突有可能“迅速升级”，建议身处中东地区的美国人“保持高度警惕”，并为可能出现的旅行中断做好准备。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782143"&gt;华尔街见闻提及&lt;/a&gt;，也门胡塞武装19日发表声明说，当天对沙特首都利雅得的“敏感目标”以及沙特阿美公司位于延布的设施发动了两次军事行动，使用了大量弹道导弹、巡航导弹和无人机。&lt;/p&gt;
 &lt;p&gt;据&lt;a href="https://www.news.cn/20260920/6220f4fc5f4542348efacab971a84ea6/c.html"&gt;新华社&lt;/a&gt;援引美联社等媒体报道，沙特已经请求法国、英国、巴基斯坦和埃及提供防空支援，帮忙防御胡塞武装及其他武装发射的导弹和无人机。一名官员说，之所以向上述国家求援，是因为沙特最主要盟友及武器供应国美国自顾不暇，其自身拦截弹库存已经因伊朗战事大幅下降。&lt;/p&gt;
@@ -556,48 +652,4 @@ VLCC运价演绎史诗级狂飙，货运市场高度承压
 &lt;/blockquote&gt;
 &lt;p&gt;Anthropic旗下研究员Jacob Coxon近日宣布辞职，理由是担忧该公司及其竞争对手正在竞相构建他们即将无法控制的系统。&lt;/p&gt;
 &lt;p&gt;OpenAI的Sam Altman也警告称，AI进步的惊人速度可能&amp;quot;非常糟糕&amp;quot;，人类可能失去对未来的掌控。他表示欢迎建立&amp;quot;对前沿AI设定一致安全要求的联邦框架&amp;quot;，并强调&amp;quot;任何美国竞争压力都不应成为鲁莽行事的理由&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此外，微软发布了一份临时行为准则，旨在规范新AI模型训练过程；前总统奥巴马则在科尔盖特大学的演讲中公开支持对AI发展实施检查，并背书政府加强监管的呼声。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “炼油”成为全球能源瓶颈，美国距离“出口禁令”不远了？</title><link>https://wallstreetcn.com/articles/3782139</link><guid>9eb83b7839785447e865ae0b0f1b94a6f8a26d721b7a197b1cc7bdcf36a0d63e</guid><pubDate>Sun, 20 Sep 2026 00:59:40 GMT</pubDate><description>&lt;p&gt;俄乌与中东两场战争同步冲击全球炼油体系，引发柴油供应紧缺与价格飙升，美国正面临成为&amp;quot;最后补给方&amp;quot;的压力，同时全美政界呼声渐起，要求禁止出口以平抑国内油价。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781623"&gt;华尔街见闻提及&lt;/a&gt;，美国柴油零售价上周首次突破每加仑6美元，并于本周五进一步攀升至6.45美元，创历史新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;巴西农村、利比亚及部分非洲国家已出现加油站短缺现象，全球工业、运输与农业赖以运转的这一关键燃料正面临严峻考验。&lt;/p&gt;
-&lt;p&gt;在此背景下，美国国会内部正出现限制出口的立法动向。众议员Tim Burchett本周提出柴油出口禁令法案，参议院多数党领袖John Thune表示对该提议持开放态度。&lt;/p&gt;
-&lt;p&gt;分析人士警告，一旦美国实施出口禁令，将推动全球其他地区价格进一步暴涨，并可能引发亚洲主要出口国的连锁跟进。&lt;/p&gt;
-
-中东与俄罗斯，十年扩张后遭遇战争重创
-
-&lt;p&gt;过去十年，波斯湾产油国与俄罗斯斥巨资扩张炼油能力，大幅抢占全球柴油出口市场份额，而两场战争的爆发令这一供应格局骤然逆转。&lt;/p&gt;
-&lt;p&gt;科威特国家石油公司在Al-Zour建成全球最大炼油厂之一，阿联酋扩建了Ruwais炼厂，伊拉克在卡尔巴拉新开一座炼厂，沙特阿美则在红海沿岸兴建两座炼厂。&lt;/p&gt;
-&lt;p&gt;这一系列投资使中东柴油出口量在2017年至2025年间翻逾一番，该地区以19%的全球出口份额跃升为全球最大柴油出口地区，超越北美。俄罗斯同期通过升级现有炼厂，将出口量提升三分之一。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，今年2月美以联合对伊朗发动打击后，霍尔木兹海峡通行受阻，科威特、阿联酋和伊拉克被迫大幅削减出口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;胡塞武装袭击升级，还压缩了沙特阿美旗下红海炼厂的出口，这恰是绕开霍尔木兹海峡的主要替代通道。&lt;/p&gt;
-&lt;p&gt;与此同时，乌克兰对俄炼厂的无人机打击持续奏效，几乎使俄罗斯的出口陷于停滞。IEA高级油市分析师David Martin表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;我们正在见证可能是有史以来最为紧张的柴油市场格局。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-西方炼能不足，难以弥补供应缺口
-
-&lt;p&gt;&lt;strong&gt;中东和俄罗斯的大规模炼油投资，长期压低了西方炼油商的利润空间，导致其资本投入持续萎缩，如今在危机时刻难堪重任。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;咨询公司Wood Mackenzie炼油、化工及油市业务高级副总裁Alan Gelder指出，国家石油公司兴建炼厂时，投资回报率往往并非首要考量，政府更关注的是提供就业与保障能源安全。&lt;/p&gt;
-&lt;p&gt;而西方大型石油公司已近三十年未新建炼厂，2015年以来美国和欧洲已有逾十家炼厂相继关闭。Gelder说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们看到各大石油公司实际上在压缩对该行业的敞口，因为实际资本回报率一直欠佳。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Gelder进一步引用行业流传的说法：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;怎样把一大笔财富变成一小笔？去建一座炼厂。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;目前，西方炼厂虽已接近满负荷运转，并将产能向柴油生产倾斜，减少汽油和航空煤油的比重，但仍无法有效填补中东和俄罗斯留下的供应缺口。&lt;/strong&gt;&lt;/p&gt;
-
-出口禁令之争，解国内之急或祸及全球
-
-&lt;p&gt;面对高涨的国内油价，美国政界的出口禁令呼声正在加剧这场全球供应博弈的不确定性。&lt;/p&gt;
-&lt;p&gt;特朗普本周将柴油价格上涨的主要原因归咎于俄乌战争，称&amp;quot;全球柴油价格上涨主要由俄乌战争引发，而非伊朗&amp;quot;。&lt;strong&gt;然而IEA数据显示，波斯湾受阻柴油量约为俄罗斯缺口的三倍，两者判断存在明显出入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析人士警告，如果美国对柴油出口实施禁令，全球其他地区价格将进一步大幅上涨，并可能推动主要出口国效仿跟进，令本已趋紧的全球柴油市场雪上加霜。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国石油协会早在2022年致时任能源部长Jennifer Granholm的信中就明确指出，出口限制将推高国内油价。战略与国际研究中心今年早些时候发布的报告，以及达拉斯联储和哥伦比亚大学全球能源政策中心针对原油出口限制的研究，均得出相同结论。&lt;/p&gt;
-&lt;p&gt;结构性问题是核心障碍。美国炼油产能高度集中于墨西哥湾沿岸，其基础设施本就面向出口市场设计。将产品从该地区输送至全国其他地区的管道，目前已处于满负荷或接近满负荷运行状态，全球油轮运力的紧张也限制了美国国内调配的灵活性。&lt;/p&gt;
-&lt;p&gt;战略与国际研究中心在报告中指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;面对无利可图（甚至亏损）的经营环境，墨西哥湾沿岸炼油商必然会大幅削减炼油活动，加工更少的原油，输出更少的成品油。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;这将导致“国内汽油供应量反而低于没有禁令时的水平，部分乃至完全抵消初期的库存积累，并对禁令本欲压制的价格形成上行压力。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此外，微软发布了一份临时行为准则，旨在规范新AI模型训练过程；前总统奥巴马则在科尔盖特大学的演讲中公开支持对AI发展实施检查，并背书政府加强监管的呼声。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
