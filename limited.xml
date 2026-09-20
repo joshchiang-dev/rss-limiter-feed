@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 13:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 13:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
 &lt;p&gt;“降低词元成本最有效的方式，绝非降低 GPU 售价或使用低成本网络，而是每一代都交付大幅提升的算力性能。如果将节点或机架的性能提升 10 倍到 30 倍，这种性能提升会直接作用于计算公式的分子，从而降低整个数据中心每个词元的成本。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解析&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;传统 IT 采购习惯通过压低硬件单价来控制成本。然而在 AI 工厂时代，算力性能的提升呈指数级（10 倍至 30 倍），对 TCO 的拉动作用远超芯片单价的微调。因此，通过提升性能来摊薄单位算力成本，远比单纯采购低价硬件更为高效。&lt;/p&gt;
@@ -257,44 +257,7 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;如今，面向中国的6款新车有了专门的技术合作安排。对这支团队而言，市场端收到的需求，需要进入产品开发和成本安排，才能转化为展厅里可卖的车。单靠销售端调整，能够使用的手段终究有限。&lt;/p&gt;
 &lt;p&gt;共享技术和采购，则为产品调整留出成本空间。沃尔沃计划，到2030年将零部件完全共用比例从当前的10%提高至约30%，预计由此带来约5%的材料成本节约。对于正在保护成交价格的沃尔沃，减少每款新车独自承担的投入，可以为产品配置和定价保留更多回旋余地。&lt;/p&gt;
 &lt;p&gt;沃尔沃希望减少对价格让步的依赖，调整也就必须从销售端向前延伸。中国团队接到的六款新车计划，承载着重新争取客户的任务。展厅里的价格能否站稳，越来越取决于新车进入展厅之前的产品和成本选择。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LPR“连续16个月持平”，央行主管媒体刊评“直接下调政策利率的必要性不高”</title><link>https://wallstreetcn.com/articles/3782160</link><guid>b8f9be4db06a4fb749be7764f4c67d60a0e93f0a089bc4e8c5eb44e4d700cb44</guid><pubDate>Sun, 20 Sep 2026 10:34:24 GMT</pubDate><description>&lt;p&gt;中国贷款市场报价利率（LPR）9月再度按兵不动，自2025年6月以来已连续16个月维持不变。在全球主要央行普遍转向紧缩的外部背景下，国内经济韧性尚存、银行净息差承压、政策利率锚未动，多重因素叠加令短期降息窗口趋于收窄。&lt;/p&gt;
-&lt;p&gt;9月20日，中国人民银行授权全国银行间同业拆借中心公布最新LPR报价：1年期为3.0%，5年期以上为3.5%，均与上月持平。央行主管媒体《金融时报》援引分析人士观点指出，&lt;strong&gt;8月新发放贷款实际利率已出现边际回落，&amp;quot;直接下调政策利率的必要性不高&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多位受访经济学家判断，美联储9月加息25个基点、将联邦基金利率目标区间上调至3.75%—4.00%，进一步加剧中美利差倒挂，短期内LPR大概率维持不变。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但分析人士同时强调，我国货币政策坚持&amp;quot;以我为主&amp;quot;基调未变，若后续国内经济下行压力加大，降准或先于降息落地，届时LPR仍有跟进下调空间。&lt;/strong&gt;&lt;/p&gt;
-
-定价基础未动，报价行缺乏主动下调动力
-
-&lt;p&gt;&lt;strong&gt;此次LPR持平，首要原因在于定价锚稳定。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;东方金诚首席宏观分析师王青在接受《金融时报》采访时指出，自上月LPR报价公布以来，央行7天期逆回购利率持续维持在1.40%，&amp;quot;这意味着9月LPR报价的定价基础稳定，已在很大程度上预示当月LPR报价会继续按兵不动&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从商业银行自身经营状况来看，报价行主动压缩加点的意愿同样不足。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数据显示，9月以来货币市场隔夜资金利率DR001均值较上月小幅上行，1年期商业银行（AAA级）同业存单到期收益率也略有走高，批发融资成本有所上升。&lt;/p&gt;
-&lt;p&gt;二季度商业银行净息差较一季度回升0.01个百分点至1.41%，为2022年一季度以来首次回升，但仍处历史低位附近。&lt;/p&gt;
-&lt;p&gt;招联首席经济学家董希淼亦表示，&lt;strong&gt;商业银行净息差降至1.41%的低位，&amp;quot;报价行从维护稳健经营、防范风险的角度出发，主动压缩加点的意愿不足&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-
-经济具备韧性，政策利率下调紧迫性不强
-
-&lt;p&gt;&lt;strong&gt;经济基本面的阶段性稳固，为LPR按兵不动提供了另一层支撑。&lt;/strong&gt;2026年上半年国内生产总值（GDP）同比增长4.7%，位于全年4.5%至5.0%目标区间之内，前期出台的存量政策仍处于效果观察期。&lt;/p&gt;
-&lt;p&gt;中国民生银行首席经济学家温彬进一步援引高频数据支撑这一判断。8月出口当月同比增速连续第三个月保持在20%以上，且较7月继续提速；8月CPI和PPI同比增速均出现回暖；工业增加值当月同比增速明显回升，制造业PMI中生产和新订单分项重返荣枯线上方。&lt;/p&gt;
-&lt;p&gt;温彬同时指出，8月企业和个人住房新发放贷款利率均延续低位，叠加CPI和PPI同比小幅回升，各项贷款实际利率出现边际回落，&amp;quot;对实体经济支持作用有所加强，直接下调政策利率的必要性不高&amp;quot;。&lt;/p&gt;
-&lt;p&gt;他还提到，9月新型政策性金融工具已逐步落地拨付，将带动政金债提速发行及配套贷款投入，货币政策重心更多在于保持流动性充裕，并以结构性工具形成协同效应。&lt;/p&gt;
-
-美联储加息强化外部制约，中美利差倒挂加剧
-
-&lt;p&gt;&lt;strong&gt;外部环境的变化是当前制约LPR下行的另一关键变量。&lt;/strong&gt;9月美联储加息25个基点，欧洲、日本央行亦在上调政策利率，全球主要央行货币政策集体转向紧缩。王青指出，&lt;strong&gt;这使中美利差倒挂进一步加大，人民币汇率和跨境资本流动面临压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;董希淼表示，美联储加息&amp;quot;客观上压缩了我国央行降息及LPR下降的空间，短期内LPR下降的可能性确实更小&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不过，分析人士普遍认为，外部紧缩对国内货币政策的传导效果不应高估。&lt;/strong&gt;王青强调，国内外物价走势存在根本差异，1至8月国内CPI累计同比仅为0.9%，持续低于2.0%左右的目标水平；而同期美国、欧元区CPI累计同比分别达3.3%和2.7%，持续偏高。&amp;quot;这在很大程度上决定了当前国内外货币政策会存在方向性差别。&amp;quot;&lt;/p&gt;
-&lt;p&gt;王青还指出，我国已建立跨境资金流动&amp;quot;宏观审慎+微观监管&amp;quot;两位一体监管框架，因货币政策周期错位引发的大规模跨境资金流动将得到有效控制，其对人民币汇率的影响&amp;quot;不必高估&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;民生银行温彬也表示，我国债市和人民币汇率的运行态势反映出国内资产较高的安全属性，有助于货币政策坚持&amp;quot;以我为主&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-
-短期维稳概率大，降准或先于降息落地
-
-&lt;p&gt;尽管短期降息窗口收窄，分析人士对后续政策空间仍持较为积极的看法。&lt;/p&gt;
-&lt;p&gt;董希淼认为，若后续国内经济下行压力加大，央行&amp;quot;有可能先通过降准释放流动性，再择机小幅下降政策利率10个基点，届时LPR有望跟进调整，降幅或在5个基点左右&amp;quot;。他同时强调，我国货币政策工具箱丰富，适度宽松的基调未变。&lt;/p&gt;
-&lt;p&gt;王青则指出，不排除接下来出台新一轮增量政策的可能。具体路径包括两条：一是结构性货币政策工具继续降价、增量、扩围，定向支持科技融资、普惠金融；二是实施降息降准，估计降息幅度为10个基点，降准0.5个百分点，届时LPR报价将跟进下调。&lt;/p&gt;
-&lt;p&gt;董希淼总结称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美联储加息强化外部制约，短期内LPR大概率维持不变；未来是否下降，取决于国内经济修复、物价走势、银行息差及外部环境变化。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Jev周末爆了：一个参与造出GPT的人，开始反思RLHF—AI不该永远需要人盯着</title><link>https://wallstreetcn.com/articles/3782158</link><guid>28815c8018b007776a0d5ff10a7ae34b9af1045b5b00ce470d4df543671f05ef</guid><pubDate>Sun, 20 Sep 2026 09:49:57 GMT</pubDate><description>&lt;p&gt;这两天，一个有点反常的AI模型突然刷屏了。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Jev周末爆了：一个参与造出GPT的人，开始反思RLHF—AI不该永远需要人盯着</title><link>https://wallstreetcn.com/articles/3782158</link><guid>28815c8018b007776a0d5ff10a7ae34b9af1045b5b00ce470d4df543671f05ef</guid><pubDate>Sun, 20 Sep 2026 09:49:57 GMT</pubDate><description>&lt;p&gt;这两天，一个有点反常的AI模型突然刷屏了。&lt;/p&gt;
 &lt;p&gt;它叫 &lt;strong&gt;Jev&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;不会聊天，不写代码，甚至不会像ChatGPT一样给你生成一大段答案。它只干一件事：&lt;strong&gt;做判断。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;但就是这样一个看起来“能力被砍了一大半”的模型，却突然在开发者圈火了。&lt;/p&gt;
@@ -390,7 +353,44 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;&lt;strong&gt;过去几年，整个行业都在想，怎样让AI想得更久、说得更多。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;但如果未来真正需要的是几十亿次机器之间的判断，&lt;strong&gt;AI为什么每一次都要先“说一段话”？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;ChatGPT教会了机器怎么和人说话。&lt;/p&gt;
-&lt;p&gt;而Jev押注的下一步是：&lt;strong&gt;当人不再坐在屏幕前，机器能不能自己做决定？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] CPO/NPO：75%的ELSFP外置光源➕25%的ILS内置光源</title><link>http://xueqiu.com/4945521207/409940530</link><guid>aea5cbdc2a6daaaae9ced356aef7e45c04c2f2d1d00821127005535049f274dc</guid><pubDate>Sun, 20 Sep 2026 10:59:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;光通信蜗牛&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近似乎出现了一股风潮，宣扬在cpo/npo领域会以内置光源为主。其实这个问题本没有讨论的必要，最简单的就是放上9.9日LITE与花旗的会议原文就可以盖棺定论了，但是还是有很多人存在疑惑，那本文就结合会议原文来解释一下。&lt;/p&gt;</description></item><item><title>[今日雪球] 奇怪了！利率不断走低，美元走高！人民币却破了6.7</title><link>http://xueqiu.com/1843761023/409916036</link><guid>4ab2804003cfcaa0eddc7902be59824afd9f56e1c81be4ea4b0051c327b2e9e7</guid><pubDate>Sun, 20 Sep 2026 10:59:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;睿知睿见&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;今年以来，10年国债利率不断走低，但人民币却不断升值，本周还破了6.7！&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？</title><link>https://wallstreetcn.com/articles/3782152</link><guid>97a0d62cba77009d547bd82030688777d42fbebb9932f62ef9cbf067b0e9d200</guid><pubDate>Sun, 20 Sep 2026 06:44:58 GMT</pubDate><description>&lt;p&gt;OpenAI正在就新一轮私募融资与投资者展开初步接触，潜在估值或达1.2万亿美元以上。在已累计募资逾1800亿美元、现有大股东普遍面临资本支出压力的背景下，谁能为这轮融资压阵，成为最大悬念。&lt;/p&gt;
+&lt;p&gt;而Jev押注的下一步是：&lt;strong&gt;当人不再坐在屏幕前，机器能不能自己做决定？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LPR“连续16个月持平”，央行主管媒体刊评“直接下调政策利率的必要性不高”</title><link>https://wallstreetcn.com/articles/3782160</link><guid>b8f9be4db06a4fb749be7764f4c67d60a0e93f0a089bc4e8c5eb44e4d700cb44</guid><pubDate>Sun, 20 Sep 2026 10:34:24 GMT</pubDate><description>&lt;p&gt;中国贷款市场报价利率（LPR）9月再度按兵不动，自2025年6月以来已连续16个月维持不变。在全球主要央行普遍转向紧缩的外部背景下，国内经济韧性尚存、银行净息差承压、政策利率锚未动，多重因素叠加令短期降息窗口趋于收窄。&lt;/p&gt;
+&lt;p&gt;9月20日，中国人民银行授权全国银行间同业拆借中心公布最新LPR报价：1年期为3.0%，5年期以上为3.5%，均与上月持平。央行主管媒体《金融时报》援引分析人士观点指出，&lt;strong&gt;8月新发放贷款实际利率已出现边际回落，&amp;quot;直接下调政策利率的必要性不高&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;多位受访经济学家判断，美联储9月加息25个基点、将联邦基金利率目标区间上调至3.75%—4.00%，进一步加剧中美利差倒挂，短期内LPR大概率维持不变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但分析人士同时强调，我国货币政策坚持&amp;quot;以我为主&amp;quot;基调未变，若后续国内经济下行压力加大，降准或先于降息落地，届时LPR仍有跟进下调空间。&lt;/strong&gt;&lt;/p&gt;
+
+定价基础未动，报价行缺乏主动下调动力
+
+&lt;p&gt;&lt;strong&gt;此次LPR持平，首要原因在于定价锚稳定。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;东方金诚首席宏观分析师王青在接受《金融时报》采访时指出，自上月LPR报价公布以来，央行7天期逆回购利率持续维持在1.40%，&amp;quot;这意味着9月LPR报价的定价基础稳定，已在很大程度上预示当月LPR报价会继续按兵不动&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从商业银行自身经营状况来看，报价行主动压缩加点的意愿同样不足。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数据显示，9月以来货币市场隔夜资金利率DR001均值较上月小幅上行，1年期商业银行（AAA级）同业存单到期收益率也略有走高，批发融资成本有所上升。&lt;/p&gt;
+&lt;p&gt;二季度商业银行净息差较一季度回升0.01个百分点至1.41%，为2022年一季度以来首次回升，但仍处历史低位附近。&lt;/p&gt;
+&lt;p&gt;招联首席经济学家董希淼亦表示，&lt;strong&gt;商业银行净息差降至1.41%的低位，&amp;quot;报价行从维护稳健经营、防范风险的角度出发，主动压缩加点的意愿不足&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+
+经济具备韧性，政策利率下调紧迫性不强
+
+&lt;p&gt;&lt;strong&gt;经济基本面的阶段性稳固，为LPR按兵不动提供了另一层支撑。&lt;/strong&gt;2026年上半年国内生产总值（GDP）同比增长4.7%，位于全年4.5%至5.0%目标区间之内，前期出台的存量政策仍处于效果观察期。&lt;/p&gt;
+&lt;p&gt;中国民生银行首席经济学家温彬进一步援引高频数据支撑这一判断。8月出口当月同比增速连续第三个月保持在20%以上，且较7月继续提速；8月CPI和PPI同比增速均出现回暖；工业增加值当月同比增速明显回升，制造业PMI中生产和新订单分项重返荣枯线上方。&lt;/p&gt;
+&lt;p&gt;温彬同时指出，8月企业和个人住房新发放贷款利率均延续低位，叠加CPI和PPI同比小幅回升，各项贷款实际利率出现边际回落，&amp;quot;对实体经济支持作用有所加强，直接下调政策利率的必要性不高&amp;quot;。&lt;/p&gt;
+&lt;p&gt;他还提到，9月新型政策性金融工具已逐步落地拨付，将带动政金债提速发行及配套贷款投入，货币政策重心更多在于保持流动性充裕，并以结构性工具形成协同效应。&lt;/p&gt;
+
+美联储加息强化外部制约，中美利差倒挂加剧
+
+&lt;p&gt;&lt;strong&gt;外部环境的变化是当前制约LPR下行的另一关键变量。&lt;/strong&gt;9月美联储加息25个基点，欧洲、日本央行亦在上调政策利率，全球主要央行货币政策集体转向紧缩。王青指出，&lt;strong&gt;这使中美利差倒挂进一步加大，人民币汇率和跨境资本流动面临压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;董希淼表示，美联储加息&amp;quot;客观上压缩了我国央行降息及LPR下降的空间，短期内LPR下降的可能性确实更小&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，分析人士普遍认为，外部紧缩对国内货币政策的传导效果不应高估。&lt;/strong&gt;王青强调，国内外物价走势存在根本差异，1至8月国内CPI累计同比仅为0.9%，持续低于2.0%左右的目标水平；而同期美国、欧元区CPI累计同比分别达3.3%和2.7%，持续偏高。&amp;quot;这在很大程度上决定了当前国内外货币政策会存在方向性差别。&amp;quot;&lt;/p&gt;
+&lt;p&gt;王青还指出，我国已建立跨境资金流动&amp;quot;宏观审慎+微观监管&amp;quot;两位一体监管框架，因货币政策周期错位引发的大规模跨境资金流动将得到有效控制，其对人民币汇率的影响&amp;quot;不必高估&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;民生银行温彬也表示，我国债市和人民币汇率的运行态势反映出国内资产较高的安全属性，有助于货币政策坚持&amp;quot;以我为主&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+
+短期维稳概率大，降准或先于降息落地
+
+&lt;p&gt;尽管短期降息窗口收窄，分析人士对后续政策空间仍持较为积极的看法。&lt;/p&gt;
+&lt;p&gt;董希淼认为，若后续国内经济下行压力加大，央行&amp;quot;有可能先通过降准释放流动性，再择机小幅下降政策利率10个基点，届时LPR有望跟进调整，降幅或在5个基点左右&amp;quot;。他同时强调，我国货币政策工具箱丰富，适度宽松的基调未变。&lt;/p&gt;
+&lt;p&gt;王青则指出，不排除接下来出台新一轮增量政策的可能。具体路径包括两条：一是结构性货币政策工具继续降价、增量、扩围，定向支持科技融资、普惠金融；二是实施降息降准，估计降息幅度为10个基点，降准0.5个百分点，届时LPR报价将跟进下调。&lt;/p&gt;
+&lt;p&gt;董希淼总结称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美联储加息强化外部制约，短期内LPR大概率维持不变；未来是否下降，取决于国内经济修复、物价走势、银行息差及外部环境变化。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] CPO/NPO：75%的ELSFP外置光源➕25%的ILS内置光源</title><link>http://xueqiu.com/4945521207/409940530</link><guid>aea5cbdc2a6daaaae9ced356aef7e45c04c2f2d1d00821127005535049f274dc</guid><pubDate>Sun, 20 Sep 2026 10:59:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;光通信蜗牛&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近似乎出现了一股风潮，宣扬在cpo/npo领域会以内置光源为主。其实这个问题本没有讨论的必要，最简单的就是放上9.9日LITE与花旗的会议原文就可以盖棺定论了，但是还是有很多人存在疑惑，那本文就结合会议原文来解释一下。&lt;/p&gt;</description></item><item><title>[今日雪球] 奇怪了！利率不断走低，美元走高！人民币却破了6.7</title><link>http://xueqiu.com/1843761023/409916036</link><guid>4ab2804003cfcaa0eddc7902be59824afd9f56e1c81be4ea4b0051c327b2e9e7</guid><pubDate>Sun, 20 Sep 2026 10:59:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;睿知睿见&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;今年以来，10年国债利率不断走低，但人民币却不断升值，本周还破了6.7！&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？</title><link>https://wallstreetcn.com/articles/3782152</link><guid>97a0d62cba77009d547bd82030688777d42fbebb9932f62ef9cbf067b0e9d200</guid><pubDate>Sun, 20 Sep 2026 06:44:58 GMT</pubDate><description>&lt;p&gt;OpenAI正在就新一轮私募融资与投资者展开初步接触，潜在估值或达1.2万亿美元以上。在已累计募资逾1800亿美元、现有大股东普遍面临资本支出压力的背景下，谁能为这轮融资压阵，成为最大悬念。&lt;/p&gt;
 &lt;p&gt;本周据The Information报道，&lt;strong&gt;OpenAI目前正与投资者就新一轮私募融资进行早期谈判，该公司在此轮融资中的估值可能达到1.2万亿美元或更高。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;就在此轮融资消息传出前，OpenAI首席执行官Sam Altman公开表示，公司今年不会进行IPO。&lt;/p&gt;
 &lt;p&gt;通过维持私有化状态，OpenAI能够争取更多时间来提升销售额，同时免于向公开市场披露其高昂的增长成本，例如为从竞争对手Anthropic手中争夺业务而提供的严重挤压利润率的折扣。&lt;/p&gt;
@@ -442,29 +442,7 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;这些垂类项目采用了相似的运营路径：平台识别内容趋势或专业作者，引入行业资源和用户参与，再通过挑战赛、线下拍摄或品牌合作，将单条内容扩展为系列项目。&lt;/p&gt;
 &lt;p&gt;变现端的变化集中在巨量星图。抖音推出新的优质内容营销产品体系，将商单内容划分为种草、测评和创意三类，并分别匹配价格体系、效果指标和运营服务。&lt;/p&gt;
 &lt;p&gt;创作者服务方面，升级后的AI创作和服务助手可承接13类主要问题和700余类细分问题，抖音称该功能的问题解决率由45%提高至61%。&lt;/p&gt;
-&lt;p&gt;从近两届大会释放的信息看，抖音创作者运营的重点正在从流量激励转向长期资源供给，场景探访、赛事运营和品牌对接成为新的投入方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 胡塞武装称对沙特首都及关键原油设施发动袭击</title><link>https://wallstreetcn.com/articles/3782143</link><guid>ea639ae16d529a2dba568edbef6fa354f6ac0466d8f5792d76692df7676044e8</guid><pubDate>Sun, 20 Sep 2026 01:31:12 GMT</pubDate><description>&lt;p&gt;胡塞武装袭击利雅得机场，沙特油气出口通道承压。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=17237791629268719845&amp;amp;channelId=1215"&gt;据央视新闻&lt;/a&gt;，也门胡塞武装19日发表声明说，当天对沙特首都利雅得的“敏感目标”以及沙特阿美公司位于&lt;strong&gt;延布&lt;/strong&gt;的设施发动了两次军事行动，使用了大量弹道导弹、巡航导弹和无人机。&lt;/p&gt;
-&lt;p&gt;声明说，此次行动是对沙特方面持续发动空袭以及“指责也门袭击麦加”等行为的回应。&lt;/p&gt;
-&lt;p&gt;随后&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;t=1789852453550&amp;amp;item_id=14370505622233102945&amp;amp;channelId=1215"&gt;央视报道&lt;/a&gt;，当地时间9月19日，沙特主导的多国联军发言人图尔基·马利基发表声明称，沙特防空系统已拦截并摧毁胡塞武装发射的一枚弹道导弹，并击退了针对巴伊什、塔伊夫、法拉桑及延布的多起袭击。&lt;/p&gt;
-&lt;p&gt;然而，胡塞武装宣称，第一次行动以沙特首都利雅得的“敏感目标”为目标，第二次行动以沙特阿美公司位于延布的设施为目标。&lt;strong&gt;声明称，两次行动均“取得成功”，目标区域发生大规模火灾。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781659"&gt;华尔街见闻提及&lt;/a&gt;，延布是红海沿岸的重要港口城市，坐落有炼油厂及与沙特东西向输油管道相连的石油出口码头。在此之前，一架来自伊拉克的无人机已击中该条关键输油管道。&lt;/p&gt;
-攻势背后，胡塞武装的战略逻辑
-&lt;p&gt;胡塞武装将此次行动定性为对沙特持续空袭的报复。&lt;/p&gt;
-&lt;p&gt;声明称，沙特方面动用F-15及&amp;quot;台风&amp;quot;战斗机，从海米斯穆谢特和塔伊夫两处基地累计发动732次空袭，造成平民伤亡及民用基础设施受损。&lt;/p&gt;
-&lt;p&gt;胡塞武装于今年9月初重启攻势，攻势节奏明显加速。利雅得此前曾在2017年、2018年及2020年多次遭到胡塞武装的导弹袭击，但&lt;strong&gt;据报道，此次是利雅得首次启动防空警报，显示威胁烈度出现新的台阶式提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本周三，胡塞武装还宣称击落一架沙特F-15战斗机，并公布了疑似残骸的画面。&lt;/p&gt;
-机场与延布，核心能源节点遭受压力
-&lt;p&gt;此次袭击的选点具有明显战略意图。&lt;/p&gt;
-&lt;p&gt;利雅得哈立德国王国际机场航空燃油设施是沙特民用航空保障的关键节点，而延布既是红海重要港口，亦是连接沙特东西部的原油管道终端及沙特阿美的重要出口门户。&lt;/p&gt;
-&lt;p&gt;胡塞武装此前已夺取红海港口城市莫哈及曼德海峡南端的佩里姆岛，据此对沙特红海原油出口通道形成钳制。&lt;/p&gt;
-&lt;p&gt;与此同时，一架由伊拉克发射的无人机已于此前袭击了沙特至关重要的东西向输油管道。两条出口路线相继承压，令沙特能源出口面临双线威胁。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据彭博报道，伊朗及其盟友的一系列行动被认为意在压缩沙特出口能力，以放大对美国及全球经济的冲击。&lt;/strong&gt;伊朗本身正面临美国海军封锁，其波斯湾原油出口受阻，相关代理武装的协同行动由此引发更广泛的市场关注。&lt;/p&gt;
-冲突背景，也门战争持续逾十年
-&lt;p&gt;也门内战自2014年胡塞武装占领萨那后延续至今，沙特主导的阿拉伯联军于2015年介入，支持也门国际承认政府。这场冲突已造成逾15万人死亡，数百万人流离失所，也门被推至大规模饥荒边缘。&lt;/p&gt;
-&lt;p&gt;近年来，双方曾维持一段脆弱的停火局面。期间，沙特向也门政府官员（包括萨那官员）支付薪资，胡塞武装则在加沙冲突期间将打击目标扩展至以色列及红海过往船只。然而，9月初的新一轮攻势宣告这一相对稳定的局面已告终结。&lt;/p&gt;
-&lt;p&gt;美国中央司令部司令、海军上将Brad Cooper周六发表视频声明称，尽管面临伊朗袭击，超过10亿桶来自美国盟友的原油已成功通过霍尔木兹海峡运出。&lt;/p&gt;
-&lt;p&gt;但他未披露该数字的具体计算依据，商业船运追踪机构通常给出的估算较此偏低，部分原因在于多艘船只关闭应答器或采取规避动作，增加了追踪难度。&lt;/p&gt;
-&lt;p&gt;沙特目前已寻求国际支持以应对胡塞武装威胁，但迄今尚未形成大规模反击。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 超级油轮短缺！全球油运成本“从未如此之高”，“海事史上最大豪赌”赚翻了</title><link>https://wallstreetcn.com/articles/3782146</link><guid>127379e4f1729f5301f468d71a24653268a7f018b7d79be055038101b150efe5</guid><pubDate>Sun, 20 Sep 2026 03:25:40 GMT</pubDate><description>&lt;p&gt;全球超级油轮市场正经历前所未有的供需紧张，运费飙升正令部分远洋原油贸易失去经济可行性，并深刻改变全球能源流向格局。&lt;/p&gt;
+&lt;p&gt;从近两届大会释放的信息看，抖音创作者运营的重点正在从流量激励转向长期资源供给，场景探访、赛事运营和品牌对接成为新的投入方向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 超级油轮短缺！全球油运成本“从未如此之高”，“海事史上最大豪赌”赚翻了</title><link>https://wallstreetcn.com/articles/3782146</link><guid>127379e4f1729f5301f468d71a24653268a7f018b7d79be055038101b150efe5</guid><pubDate>Sun, 20 Sep 2026 03:25:40 GMT</pubDate><description>&lt;p&gt;全球超级油轮市场正经历前所未有的供需紧张，运费飙升正令部分远洋原油贸易失去经济可行性，并深刻改变全球能源流向格局。&lt;/p&gt;
 &lt;p&gt;俄乌与中东两场战争同步冲击全球炼油体系，使得8月份全球柴油利润率达到历史新高，本周美国柴油平均价格涨至6.45美元，创历史新高。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如今从休斯顿运往亚洲的一船原油，每桶运费约达26美元，合每船5200万美元，约占WTI原油期货价格的四分之一。&lt;/p&gt;
@@ -652,4 +630,39 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;&lt;strong&gt;Josh Schiffrin&lt;/strong&gt;：是啊，我有时会想，我家里曾经有一部老式家用电话，那也是当年的新科技。那是我成长的方式——大家都等着轮流接电话，你要找个安静的地方说话。现在有了手机，一切都不一样了，有时我还真的会怀念那个时候。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tony Pasquariello&lt;/strong&gt;：好的，就到这里。Josh、Dominic，谢谢你们今天的参与。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dominic Wilson&lt;/strong&gt;：谢谢。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”</title><link>https://wallstreetcn.com/articles/3782144</link><guid>12c1d6320a7c8dbffaf7b072c04a8b8b6387ac14bd83e4af82398e82f504e016</guid><pubDate>Sun, 20 Sep 2026 02:26:04 GMT</pubDate><description>&lt;p&gt;特朗普在业界警告声与选民疑虑升温的双重压力下宣布组建联邦AI专属机构，但政策走向仍不明朗，市场观察人士对其实际效力持怀疑态度。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.news.cn/world/20260920/45e3d72453ce4cb4aaae255ee09c3e30/c.html"&gt;据新华社&lt;/a&gt;，美国总统特朗普19日在社交媒体发文称，&lt;strong&gt;他将组建一支“人工智能部队”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特朗普说，为组建“人工智能部队”，他将在不久后任命一名人工智能事务“总管”。&lt;/strong&gt;他称，人工智能代表着下一场工业革命或互联网浪潮，其规模和影响力将更大，甚至可能占到美国国内生产总值的25%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特朗普还在帖文中抨击激进的民主党人“企图摧毁人工智能”，称“我们绝不会以任何方式阻碍或扼杀这个令人瞩目的产业发展。&lt;/strong&gt;相反，我们要珍视它、扶持它，并守护它的成长”。他同时表示，&lt;strong&gt;美国将借现有的刑事与民事司法体系，严惩人工智能相关不法行为。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781745"&gt;华尔街见闻提及&lt;/a&gt;，本周一在美国洛杉矶举行的“All-In Summit”峰会上，黄仁勋在台上接到了特朗普的电话。特朗普电话中将AI危险论斥为&amp;quot;骗局&amp;quot;，并将放缓AI发展的呼声定性为政治操弄，“我们绝不会让他们得逞”。&lt;/p&gt;
+
+机构定位模糊，政策走向不清
+
+&lt;p&gt;特朗普周六在社媒Truth Social上宣布，将仿照其第一任期内创立太空部队的模式，成立“人工智能部队”。&lt;/p&gt;
+&lt;p&gt;特朗普此番宣布成立人工智能部队，是其首次提出专门针对人工智能设立联邦机构，但目前该机构的职能边界、资金规模以及潜在负责人均尚未明确。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前，白宫科技政策办公室、商务部与国防部均已各自承担部分科技政策职责&lt;/strong&gt;。美国国防部旗下的首席数字与人工智能办公室更是已专注于AI事务。多名科技业高管表示，新机构与既有体系之间的关系尚不清晰。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人工智能事务“总管”人选方面同样存在空白。&lt;/strong&gt;此前，特朗普任命投资人David Sacks出任AI与加密货币“总管”，但Sacks已卸任该职，转任总统科学与技术顾问委员会联席主席，仍以顾问身份参与AI政策制定。&lt;/p&gt;
+
+内部路线分歧，政策摇摆难测
+
+&lt;p&gt;据了解情况的科技业高管表示，特朗普内部顾问团队在AI监管问题上存在明显分歧。&lt;/p&gt;
+&lt;p&gt;一派担忧AI模型能力快速提升带来的网络安全风险，另一派以Sacks为代表，力主将监管降至最低。这一内部张力导致白宫AI政策立场频繁变动，市场难以预判。&lt;/p&gt;
+&lt;p&gt;科技行业团体Chamber of Progress负责人Adam Kovacevich直言：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没人知道这意味着什么。&lt;strong&gt;他需要一名总管，是因为过去六个月白宫在没有人工智能事务总管的情况下推进AI政策，简直是一团混乱。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Kovacevich补充称，这一仓促发帖表明特朗普感到必须在AI问题上有所行动，但尚不清楚该怎么做，Kovacevich说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;他和所有人一样在读民调数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+业界警告声密集，安全诉求升温
+
+&lt;p&gt;在特朗普宣布上述计划之前，多位AI行业领袖已密集发声，呼吁放缓开发节奏。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781639"&gt;华尔街见闻提及&lt;/a&gt;，Anthropic首席执行官Dario Amodei近期在个人博客发文，建议AI行业放缓尖端工具的开发速度，并提出多项具体措施，包括民主国家之间加强全球协调、引入第三方安全评估机构。他写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我相信，如果放缓能为我们多争取一两年时间，并将这段时间用于推进对齐研究，我们就能大幅降低出现严重问题的风险。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Anthropic旗下研究员Jacob Coxon近日宣布辞职，理由是担忧该公司及其竞争对手正在竞相构建他们即将无法控制的系统。&lt;/p&gt;
+&lt;p&gt;OpenAI的Sam Altman也警告称，AI进步的惊人速度可能&amp;quot;非常糟糕&amp;quot;，人类可能失去对未来的掌控。他表示欢迎建立&amp;quot;对前沿AI设定一致安全要求的联邦框架&amp;quot;，并强调&amp;quot;任何美国竞争压力都不应成为鲁莽行事的理由&amp;quot;。&lt;/p&gt;
+&lt;p&gt;此外，微软发布了一份临时行为准则，旨在规范新AI模型训练过程；前总统奥巴马则在科尔盖特大学的演讲中公开支持对AI发展实施检查，并背书政府加强监管的呼声。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
