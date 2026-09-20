@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 06:30:14 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 06:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
 &lt;p&gt;“降低词元成本最有效的方式，绝非降低 GPU 售价或使用低成本网络，而是每一代都交付大幅提升的算力性能。如果将节点或机架的性能提升 10 倍到 30 倍，这种性能提升会直接作用于计算公式的分子，从而降低整个数据中心每个词元的成本。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解析&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;传统 IT 采购习惯通过压低硬件单价来控制成本。然而在 AI 工厂时代，算力性能的提升呈指数级（10 倍至 30 倍），对 TCO 的拉动作用远超芯片单价的微调。因此，通过提升性能来摊薄单位算力成本，远比单纯采购低价硬件更为高效。&lt;/p&gt;
@@ -202,7 +202,39 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;&lt;strong&gt;下下周（9/28-10/4）事件提前提醒：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;9月29日（周二）&lt;/strong&gt;：&lt;strong&gt;OpenAI DevDay 2026（旧金山&lt;/strong&gt;）——据OpenAI官网，本届聚焦技术深度与开发者生态，作为AI资本化关键节点，关注新API与模型发布。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10月1日（周四）凌晨4:30&lt;/strong&gt;：&lt;strong&gt;美光2026财年第四季度财报&lt;/strong&gt;——美东9月30日16:30召开电话会，为存储链景气与HBM需求的关键验证节点。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：市场“定价4次加息”过于悲观，年底有“全资产上涨”交易窗口</title><link>https://wallstreetcn.com/articles/3782148</link><guid>73c4eac0ac0d78fac1da36e0c2cf2e73e8adc65f8a7b9203dcb41a9baff851af</guid><pubDate>Sun, 20 Sep 2026 04:46:19 GMT</pubDate><description>&lt;p&gt;高盛策略师认为，当前市场对加息路径的定价已过于悲观，随着通胀压力潜在缓解，年底前存在&amp;quot;全资产上涨&amp;quot;的交易窗口。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？</title><link>https://wallstreetcn.com/articles/3782152</link><guid>97a0d62cba77009d547bd82030688777d42fbebb9932f62ef9cbf067b0e9d200</guid><pubDate>Sun, 20 Sep 2026 06:44:58 GMT</pubDate><description>&lt;p&gt;OpenAI正在就新一轮私募融资与投资者展开初步接触，潜在估值或达1.2万亿美元以上。在已累计募资逾1800亿美元、现有大股东普遍面临资本支出压力的背景下，谁能为这轮融资压阵，成为最大悬念。&lt;/p&gt;
+&lt;p&gt;本周据The Information报道，&lt;strong&gt;OpenAI目前正与投资者就新一轮私募融资进行早期谈判，该公司在此轮融资中的估值可能达到1.2万亿美元或更高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;就在此轮融资消息传出前，OpenAI首席执行官Sam Altman公开表示，公司今年不会进行IPO。&lt;/p&gt;
+&lt;p&gt;通过维持私有化状态，OpenAI能够争取更多时间来提升销售额，同时免于向公开市场披露其高昂的增长成本，例如为从竞争对手Anthropic手中争夺业务而提供的严重挤压利润率的折扣。&lt;/p&gt;
+&lt;p&gt;然而，此轮融资面临的核心难题在于：&lt;strong&gt;谁能为这笔巨额交易充当压舱石？&lt;/strong&gt;OpenAI已累计获得或承诺融资高达1820亿美元，远超Anthropic的1300亿美元，创下私营企业融资历史纪录。但其主要现有投资者正各自面临资本压力，能够再度大笔出手的空间有限。&lt;/p&gt;
+
+为何选择继续留在私募市场
+
+&lt;p&gt;Sam Altman近期明确表态，IPO今年不会发生。对于OpenAI而言，维持私有化状态提供了一个关键缓冲：无需向公众股东披露增长背后的代价。&lt;/p&gt;
+&lt;p&gt;据The Information分析，OpenAI目前正以降价换增长。这一策略有助于用户规模扩张，但对实际现金回收并无太大帮助。其7月份的年化营收增速已超过400亿美元，但仍落后于Anthropic的650亿美元。&lt;/p&gt;
+&lt;p&gt;与此同时，OpenAI此前预测，仅AI模型训练所需的服务器租赁成本，就将在2028年前累计消耗约1700亿美元。&lt;/p&gt;
+&lt;p&gt;若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元。这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报。&lt;/p&gt;
+
+现有大股东各有各的烦恼
+
+&lt;p&gt;过去几轮融资中，OpenAI已将市场上几乎所有大型机构投资者纳入股东名册。&lt;/p&gt;
+&lt;p&gt;今年3月宣布的1220亿美元融资中，参与方多达近30家，涵盖T. Rowe Price、Fidelity、BlackRock等资产管理巨头，Coatue Management、D1 Capital Partners、Dragoneer Investment Group等跨界基金，以及Andreessen Horowitz、Sequoia Capital等硅谷顶级风投。&lt;/p&gt;
+&lt;p&gt;但上述机构中，真正具备数百亿美元出手能力的寥寥无几。而目前规模最大的几位股东，恰恰都面临自身的资本压力：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;软银&lt;/strong&gt;为交付其对OpenAI承诺的最后100亿美元投资，已申请了近120亿美元的贷款。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;亚马逊&lt;/strong&gt;今年7月预计资本支出将达2000亿美元，大概率远超其运营现金流。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;英伟达&lt;/strong&gt;则正为OpenAI位于俄亥俄州的大型数据中心提供高达1050亿美元的信贷支持，这已是一笔沉重的表外负担。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上述公司若再大举增持OpenAI股权，势必引发各自债权人和股东的警惕。&lt;/p&gt;
+
+供应商能否成为新的接盘方
+
+&lt;p&gt;在现有大股东普遍受限的情况下，OpenAI的芯片与算力供应商群体成为外界关注的潜在融资来源。其逻辑在于：&lt;strong&gt;若OpenAI业务持续增长，这些供应商本身就是直接受益者，以投资换深度绑定具有战略价值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中，博通与OpenAI正在合作开发定制芯片，截至今年8月持有约240亿美元的现金及等价物，是少数几家仍有腾挪空间的潜在买方。&lt;/p&gt;
+&lt;p&gt;不过，OpenAI的营收能否真正加速依然是最大的未知数。该公司近期虽推出了Codex编程产品，并发布了5.6和Astra等新模型，但同步下调价格的举措令营收前景蒙上了阴影。&lt;/p&gt;
+&lt;p&gt;更令市场关注的是，OpenAI内部已有研究人员公开呼吁放缓模型开发节奏，以等待安全实践跟上。这一内部分歧，无疑为这家公司的下一步走向增添了更多变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：市场“定价4次加息”过于悲观，年底有“全资产上涨”交易窗口</title><link>https://wallstreetcn.com/articles/3782148</link><guid>73c4eac0ac0d78fac1da36e0c2cf2e73e8adc65f8a7b9203dcb41a9baff851af</guid><pubDate>Sun, 20 Sep 2026 04:46:19 GMT</pubDate><description>&lt;p&gt;高盛策略师认为，当前市场对加息路径的定价已过于悲观，随着通胀压力潜在缓解，年底前存在&amp;quot;全资产上涨&amp;quot;的交易窗口。&lt;/p&gt;
 &lt;p&gt;（&lt;strong&gt;左&lt;/strong&gt;：高盛研究部高级顾问Dominic Wilson；&lt;strong&gt;中&lt;/strong&gt;：高盛对冲基金业务全球主管Tony Pasquariello；&lt;strong&gt;右&lt;/strong&gt;：全球风险主管Josh Schiffrin）&lt;/p&gt;
 &lt;p&gt;9月17日，高盛研究部高级顾问Dominic Wilson与全球风险主管Josh Schiffrin在高盛播客节目中表示，&lt;strong&gt;市场目前定价的约四次累计加息&amp;quot;明显偏多&amp;quot;，两人均认为本轮加息周期实际落地次数更可能为两次。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dominic Wilson明确表示，&lt;strong&gt;若要在&amp;quot;两次&amp;quot;与&amp;quot;六次&amp;quot;之间判断概率分布，答案&amp;quot;非常清楚地倒向两次一侧&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
