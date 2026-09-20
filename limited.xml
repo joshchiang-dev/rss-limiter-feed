@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 09:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 10:29:24 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进</title><link>https://wallstreetcn.com/articles/3782151</link><guid>5b39d5006d4a81acd04e7fde5d9324217e1cb6057f2f35ecf54a24f7ef7fe13d</guid><pubDate>Sun, 20 Sep 2026 06:07:58 GMT</pubDate><description>AI 时代的硬件降本逻辑重构
 &lt;p&gt;“降低词元成本最有效的方式，绝非降低 GPU 售价或使用低成本网络，而是每一代都交付大幅提升的算力性能。如果将节点或机架的性能提升 10 倍到 30 倍，这种性能提升会直接作用于计算公式的分子，从而降低整个数据中心每个词元的成本。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解析&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;传统 IT 采购习惯通过压低硬件单价来控制成本。然而在 AI 工厂时代，算力性能的提升呈指数级（10 倍至 30 倍），对 TCO 的拉动作用远超芯片单价的微调。因此，通过提升性能来摊薄单位算力成本，远比单纯采购低价硬件更为高效。&lt;/p&gt;
@@ -99,27 +99,7 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 展望未来：按年度节奏交付AI基础设施路线图
 &lt;p&gt;NVIDIA始终坚持严格按一年为周期推进路线图。在Vera Rubin之后，我们接下来的演讲将介绍Vera Rubin Ultra，随后是Feynman架构以及Feynman Ultra。您可以确信NVIDIA将保持年度发布节奏，持续推进AI词元工厂、推理以及数据中心规模的智能体基础设施建设。&lt;/p&gt;
 &lt;p&gt;非常感谢大家的时间。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=Mzg3MDY0OTQ0NA==&amp;amp;mid=2247517677&amp;amp;idx=1&amp;amp;sn=bb5758ce2c40db5e19cc51ca3517fc22&amp;amp;chksm=cf4a8bd1214fbc9ad4fa906257a69d814fc677458f11e678c658dfa2de5f9e0bda9890577c53&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0920ta25sD39pphwgW2XriOH&amp;amp;sharer_shareinfo=b242597943a6bd001a8f45c9cd3a0f11&amp;amp;sharer_shareinfo_first=b242597943a6bd001a8f45c9cd3a0f11#rd"&gt;Andy730&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃尔沃启动史上最大产品攻势</title><link>https://wallstreetcn.com/articles/3782156</link><guid>9d49e5e4c32079728717d43615fca61bad8b8cbde67e0ba26133684b7934bc06</guid><pubDate>Sun, 20 Sep 2026 09:12:42 GMT</pubDate><description>&lt;p&gt;沃尔沃准备以一轮密集的新车投放，推动增长和盈利修复。&lt;/p&gt;
-&lt;p&gt;当地时间9月17日，沃尔沃汽车宣布一项战略更新，宣布计划到2030年底推出13款全新车型，覆盖纯电动和第三代混合动力产品。&lt;/p&gt;
-&lt;p&gt;沃尔沃方面将其称为99年历史上规模最大的全球产品攻势，新车还将进入新的细分市场，扩大品牌的产品覆盖范围。&lt;/p&gt;
-&lt;p&gt;“到2030年，我们的展厅将呈现截然不同的面貌。”沃尔沃汽车总裁兼CEO哈肯·塞缪尔森表示，这将是公司有史以来最强大的产品阵容，并针对不同区域的需求开发。&lt;/p&gt;
-&lt;p&gt;这轮扩张有一项明确的财务要求：在推出更多新车的同时，降低技术和制造投入。沃尔沃提出，长期要建设一家能够实现超过8%息税前利润率、并产生强劲现金流的公司。&lt;/p&gt;
-&lt;p&gt;销量端的压力已经显现。今年6月至8月，沃尔沃全球销量为14.82万辆，同比下降7.4%；同期纯电动和插电式混合动力车型销量增长13%，占总销量的53.5%。新能源产品的增长，尚未抵消整体销量的下滑。&lt;/p&gt;
-&lt;p&gt;面对不同市场的电动化节奏，沃尔沃选择同时推进纯电与混动。纯电车型用于扩大市场覆盖，第三代混动车型则面向尚不愿完全转向纯电的客户。产品计划也将按区域需求展开，让动力和技术配置更贴近当地市场。&lt;/p&gt;
-&lt;p&gt;“我们将通过更快推进电动化实现增长。”塞缪尔森表示，与吉利合作，是沃尔沃开发这13款新车的重要条件。他将共享平台与扩大产品阵容直接联系起来。&lt;/p&gt;
-&lt;p&gt;分别开发产品容易增加投入，沃尔沃给出的办法是复用既有平台，并扩大与吉利的协同。按照规划，面向西方市场的7款新车将继续利用SPA2、SPA3架构及此前投入，公司预计相关技术和制造投资将从当前水平下降。已经投入的平台，需要通过更多车型分摊开发成本。&lt;/p&gt;
-&lt;p&gt;另外6款新车面向中国。它们将利用与吉利共享的平台、中国专用软件体系、零部件和供应链开发。&lt;/p&gt;
-&lt;p&gt;沃尔沃汽车CFO Fredrik Hansson谈到了中国竞争带来的变化。他指出，一些不久前还未被视为豪华品牌的品牌，旗下单一车系的销量已超过沃尔沃在华全部车型的销量。在他看来，合适的产品、技术和价格，能够帮助新品牌卖出高价汽车。&lt;/p&gt;
-&lt;p&gt;沃尔沃的计划，是将自身品牌、安全等优势与吉利技术结合。“我们正在做六次这样的尝试。”Hansson用这句话解释六款中国新车的安排。&lt;/p&gt;
-&lt;p&gt;这份产品计划公布之际，沃尔沃中国管理团队也已接连调整。今年5月，段建军接替袁小林，担任沃尔沃汽车大中华区总裁兼CEO；9月8日，何阔接替于柯鑫，出任大中华区销售公司总裁，全面负责在华销售业务。四个月内，中国业务和销售条线相继换帅。&lt;/p&gt;
-&lt;p&gt;新班子面对的，是销量与价格的两难。沃尔沃在9月初的销量公告中，将中国市场竞争加剧及宏观环境疲弱列为销量承压的原因，并明确表示，面对中国和美国的市场状况，优先保护成交价格，而非追求销量增长。&lt;/p&gt;
-&lt;p&gt;保护价格，给新销售团队提出了更高要求。当客户有越来越多替代选择时，减少优惠需要产品吸引力支撑；继续用折扣促成交易，又会压缩厂家和渠道的收益空间。何阔接手销售业务的同时，产品供给能否跟上中国市场的变化，也成了这轮调整的重要一环。&lt;/p&gt;
-&lt;p&gt;中国车市的需求结构已经走得很远。据乘联分会数据显示，8月新能源车在国内乘用车市场的零售渗透率达到65.2%，比去年同期提高9.9个百分点；自主品牌的新能源零售渗透率为83.9%，豪华车为38.9%。&lt;/p&gt;
-&lt;p&gt;对于沃尔沃，这意味着守住现有燃油车客户之外，还需要拿出足够有竞争力的新能源产品。过去积累的豪华品牌销售经验仍有价值，但可供销售的新车、动力选择和使用体验，正在更早地决定客户是否走进展厅。&lt;/p&gt;
-&lt;p&gt;如今，面向中国的6款新车有了专门的技术合作安排。对这支团队而言，市场端收到的需求，需要进入产品开发和成本安排，才能转化为展厅里可卖的车。单靠销售端调整，能够使用的手段终究有限。&lt;/p&gt;
-&lt;p&gt;共享技术和采购，则为产品调整留出成本空间。沃尔沃计划，到2030年将零部件完全共用比例从当前的10%提高至约30%，预计由此带来约5%的材料成本节约。对于正在保护成交价格的沃尔沃，减少每款新车独自承担的投入，可以为产品配置和定价保留更多回旋余地。&lt;/p&gt;
-&lt;p&gt;沃尔沃希望减少对价格让步的依赖，调整也就必须从销售端向前延伸。中国团队接到的六款新车计划，承载着重新争取客户的任务。展厅里的价格能否站稳，越来越取决于新车进入展厅之前的产品和成本选择。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：全球聚焦中美</title><link>https://wallstreetcn.com/articles/3782053</link><guid>1f64f16f912dd73d3f2559119a85a3b2cabbdba0d1a84580a4583d9c13a696ab</guid><pubDate>Sun, 20 Sep 2026 00:55:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月21日 - 09月27日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=Mzg3MDY0OTQ0NA==&amp;amp;mid=2247517677&amp;amp;idx=1&amp;amp;sn=bb5758ce2c40db5e19cc51ca3517fc22&amp;amp;chksm=cf4a8bd1214fbc9ad4fa906257a69d814fc677458f11e678c658dfa2de5f9e0bda9890577c53&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0920ta25sD39pphwgW2XriOH&amp;amp;sharer_shareinfo=b242597943a6bd001a8f45c9cd3a0f11&amp;amp;sharer_shareinfo_first=b242597943a6bd001a8f45c9cd3a0f11#rd"&gt;Andy730&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：全球聚焦中美</title><link>https://wallstreetcn.com/articles/3782053</link><guid>1f64f16f912dd73d3f2559119a85a3b2cabbdba0d1a84580a4583d9c13a696ab</guid><pubDate>Sun, 20 Sep 2026 00:55:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月21日 - 09月27日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;见闻财经日历提醒下周重点关注：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首先关注外交大事和地缘政治。据央视新闻，国务院副总理何立峰将于9月19日至23日率团赴美国与美方举行经贸磋商。外交部表示中美双方就年内元首互动安排保持着沟通。&lt;/strong&gt;这一节点发生在联合国大会的背景下：第81届联大高级别周9月22日在纽约拉开帷幕，美国政府已同意伊朗领导人出席，伊朗总统佩泽希齐扬预计23日发言；泽连斯基计划21日至23日在纽约与特朗普会晤讨论能源领域停火。中东战事、俄乌局势与大国互动集中在一周之内，油价、黄金与避险资产将随表态剧烈波动。&lt;/p&gt;
@@ -222,6 +202,26 @@ Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进
 &lt;p&gt;&lt;strong&gt;下下周（9/28-10/4）事件提前提醒：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;9月29日（周二）&lt;/strong&gt;：&lt;strong&gt;OpenAI DevDay 2026（旧金山&lt;/strong&gt;）——据OpenAI官网，本届聚焦技术深度与开发者生态，作为AI资本化关键节点，关注新API与模型发布。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10月1日（周四）凌晨4:30&lt;/strong&gt;：&lt;strong&gt;美光2026财年第四季度财报&lt;/strong&gt;——美东9月30日16:30召开电话会，为存储链景气与HBM需求的关键验证节点。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃尔沃启动史上最大产品攻势</title><link>https://wallstreetcn.com/articles/3782156</link><guid>9d49e5e4c32079728717d43615fca61bad8b8cbde67e0ba26133684b7934bc06</guid><pubDate>Sun, 20 Sep 2026 09:12:42 GMT</pubDate><description>&lt;p&gt;沃尔沃准备以一轮密集的新车投放，推动增长和盈利修复。&lt;/p&gt;
+&lt;p&gt;当地时间9月17日，沃尔沃汽车宣布一项战略更新，宣布计划到2030年底推出13款全新车型，覆盖纯电动和第三代混合动力产品。&lt;/p&gt;
+&lt;p&gt;沃尔沃方面将其称为99年历史上规模最大的全球产品攻势，新车还将进入新的细分市场，扩大品牌的产品覆盖范围。&lt;/p&gt;
+&lt;p&gt;“到2030年，我们的展厅将呈现截然不同的面貌。”沃尔沃汽车总裁兼CEO哈肯·塞缪尔森表示，这将是公司有史以来最强大的产品阵容，并针对不同区域的需求开发。&lt;/p&gt;
+&lt;p&gt;这轮扩张有一项明确的财务要求：在推出更多新车的同时，降低技术和制造投入。沃尔沃提出，长期要建设一家能够实现超过8%息税前利润率、并产生强劲现金流的公司。&lt;/p&gt;
+&lt;p&gt;销量端的压力已经显现。今年6月至8月，沃尔沃全球销量为14.82万辆，同比下降7.4%；同期纯电动和插电式混合动力车型销量增长13%，占总销量的53.5%。新能源产品的增长，尚未抵消整体销量的下滑。&lt;/p&gt;
+&lt;p&gt;面对不同市场的电动化节奏，沃尔沃选择同时推进纯电与混动。纯电车型用于扩大市场覆盖，第三代混动车型则面向尚不愿完全转向纯电的客户。产品计划也将按区域需求展开，让动力和技术配置更贴近当地市场。&lt;/p&gt;
+&lt;p&gt;“我们将通过更快推进电动化实现增长。”塞缪尔森表示，与吉利合作，是沃尔沃开发这13款新车的重要条件。他将共享平台与扩大产品阵容直接联系起来。&lt;/p&gt;
+&lt;p&gt;分别开发产品容易增加投入，沃尔沃给出的办法是复用既有平台，并扩大与吉利的协同。按照规划，面向西方市场的7款新车将继续利用SPA2、SPA3架构及此前投入，公司预计相关技术和制造投资将从当前水平下降。已经投入的平台，需要通过更多车型分摊开发成本。&lt;/p&gt;
+&lt;p&gt;另外6款新车面向中国。它们将利用与吉利共享的平台、中国专用软件体系、零部件和供应链开发。&lt;/p&gt;
+&lt;p&gt;沃尔沃汽车CFO Fredrik Hansson谈到了中国竞争带来的变化。他指出，一些不久前还未被视为豪华品牌的品牌，旗下单一车系的销量已超过沃尔沃在华全部车型的销量。在他看来，合适的产品、技术和价格，能够帮助新品牌卖出高价汽车。&lt;/p&gt;
+&lt;p&gt;沃尔沃的计划，是将自身品牌、安全等优势与吉利技术结合。“我们正在做六次这样的尝试。”Hansson用这句话解释六款中国新车的安排。&lt;/p&gt;
+&lt;p&gt;这份产品计划公布之际，沃尔沃中国管理团队也已接连调整。今年5月，段建军接替袁小林，担任沃尔沃汽车大中华区总裁兼CEO；9月8日，何阔接替于柯鑫，出任大中华区销售公司总裁，全面负责在华销售业务。四个月内，中国业务和销售条线相继换帅。&lt;/p&gt;
+&lt;p&gt;新班子面对的，是销量与价格的两难。沃尔沃在9月初的销量公告中，将中国市场竞争加剧及宏观环境疲弱列为销量承压的原因，并明确表示，面对中国和美国的市场状况，优先保护成交价格，而非追求销量增长。&lt;/p&gt;
+&lt;p&gt;保护价格，给新销售团队提出了更高要求。当客户有越来越多替代选择时，减少优惠需要产品吸引力支撑；继续用折扣促成交易，又会压缩厂家和渠道的收益空间。何阔接手销售业务的同时，产品供给能否跟上中国市场的变化，也成了这轮调整的重要一环。&lt;/p&gt;
+&lt;p&gt;中国车市的需求结构已经走得很远。据乘联分会数据显示，8月新能源车在国内乘用车市场的零售渗透率达到65.2%，比去年同期提高9.9个百分点；自主品牌的新能源零售渗透率为83.9%，豪华车为38.9%。&lt;/p&gt;
+&lt;p&gt;对于沃尔沃，这意味着守住现有燃油车客户之外，还需要拿出足够有竞争力的新能源产品。过去积累的豪华品牌销售经验仍有价值，但可供销售的新车、动力选择和使用体验，正在更早地决定客户是否走进展厅。&lt;/p&gt;
+&lt;p&gt;如今，面向中国的6款新车有了专门的技术合作安排。对这支团队而言，市场端收到的需求，需要进入产品开发和成本安排，才能转化为展厅里可卖的车。单靠销售端调整，能够使用的手段终究有限。&lt;/p&gt;
+&lt;p&gt;共享技术和采购，则为产品调整留出成本空间。沃尔沃计划，到2030年将零部件完全共用比例从当前的10%提高至约30%，预计由此带来约5%的材料成本节约。对于正在保护成交价格的沃尔沃，减少每款新车独自承担的投入，可以为产品配置和定价保留更多回旋余地。&lt;/p&gt;
+&lt;p&gt;沃尔沃希望减少对价格让步的依赖，调整也就必须从销售端向前延伸。中国团队接到的六款新车计划，承载着重新争取客户的任务。展厅里的价格能否站稳，越来越取决于新车进入展厅之前的产品和成本选择。&lt;/p&gt;
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Jev周末爆了：一个参与造出GPT的人，开始反思RLHF—AI不该永远需要人盯着</title><link>https://wallstreetcn.com/articles/3782158</link><guid>28815c8018b007776a0d5ff10a7ae34b9af1045b5b00ce470d4df543671f05ef</guid><pubDate>Sun, 20 Sep 2026 09:49:57 GMT</pubDate><description>&lt;p&gt;这两天，一个有点反常的AI模型突然刷屏了。&lt;/p&gt;
 &lt;p&gt;它叫 &lt;strong&gt;Jev&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;不会聊天，不写代码，甚至不会像ChatGPT一样给你生成一大段答案。它只干一件事：&lt;strong&gt;做判断。&lt;/strong&gt;&lt;/p&gt;
