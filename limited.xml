@@ -1,11 +1,173 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 00:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 甲骨文180亿AI贷款折价滞销，AI融资链压力浮现</title><link>https://wallstreetcn.com/articles/3782134</link><guid>c82698750148c3539fb809ed0bfd83e1a7e7f361a4c50d07a451cefd7b9bb951</guid><pubDate>Sat, 19 Sep 2026 13:25:31 GMT</pubDate><description>&lt;p&gt;甲骨文（Oracle）新墨西哥州Project Jupiter数据中心约180亿美元银团贷款的分销陷入停滞，银行报价已降至面值的89至91美分，对应贷款市值约160亿至164亿美元。甲骨文股价隔夜逆势下跌2%，近期走势显著弱于AI板块整体。&lt;/p&gt;
-&lt;p&gt;这笔贷款去年底由银行联贷团提供，用于启动Project Jupiter的建设。该项目隶属&amp;quot;星际之门&amp;quot;（Stargate）计划——由OpenAI、软银和甲骨文共同主导的5000亿美元AI基础设施项目，目标是在美国各地大规模建设AI算力基础设施。&lt;/p&gt;
-&lt;p&gt;市场对甲骨文持续举债和信用状况转弱的担忧正在加剧。今年7月标普下调甲骨文企业信用评级，目前距垃圾级仅一个级别。银行试图将这笔贷款出售给更广泛投资者群体的努力已陷入停滞，据《金融时报》报道，银行被迫在自身资产负债表上保留超出原计划的甲骨文相关债务敞口。&lt;/p&gt;
-AI巨头现金流压力浮现
-&lt;p&gt;不只是甲骨文。据《金融时报》报道，OpenAI在今年7月一份内部演示文稿中披露，预计2026至2030年间累计负自由现金流将达2780亿美元。尽管其收入预计从2026年的360亿美元增长至2030年的3500亿美元，但对算力的大规模投入将远远超出收入规模。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》18日报道，Anthropic计划将IPO推迟至今年11月，此前市场预期为10月进行创纪录规模的首次公开发行。知情人士称，推迟原因之一是AI行业最大几家公司的负责人呼吁放缓技术发展步伐。&lt;/p&gt;
-万亿级融资需求考验信用市场
-&lt;p&gt;AI投资仍在扩张，但资金并非没有瓶颈。美国五大云计算公司2026年资本开支指引合计超过7500亿美元，预计2027年突破1.1万亿美元；到2030年，AI资本开支累计规模可能达到5.5万亿美元。&lt;/p&gt;
-&lt;p&gt;摩根大通预计，未来五年投资级企业信用市场将为数据中心提供超过2.1万亿美元融资，高收益债和杠杆贷款还将贡献约3500亿美元。甲骨文180亿美元贷款的折价和分销停滞，发生在这轮融资浪潮的起步阶段。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 20 Sep 2026 01:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：全球聚焦中美</title><link>https://wallstreetcn.com/articles/3782053</link><guid>1f64f16f912dd73d3f2559119a85a3b2cabbdba0d1a84580a4583d9c13a696ab</guid><pubDate>Sun, 20 Sep 2026 00:55:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月21日 - 09月27日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;见闻财经日历提醒下周重点关注：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首先关注外交大事和地缘政治。据央视新闻，国务院副总理何立峰将于9月19日至23日率团赴美国与美方举行经贸磋商。外交部表示中美双方就年内元首互动安排保持着沟通。&lt;/strong&gt;这一节点发生在联合国大会的背景下：第81届联大高级别周9月22日在纽约拉开帷幕，美国政府已同意伊朗领导人出席，伊朗总统佩泽希齐扬预计23日发言；泽连斯基计划21日至23日在纽约与特朗普会晤讨论能源领域停火。中东战事、俄乌局势与大国互动集中在一周之内，油价、黄金与避险资产将随表态剧烈波动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其次是AI与半导体的“产业周”。&lt;/strong&gt;下周，&lt;strong&gt;阿里2026云栖大会&lt;/strong&gt;在杭州召开，围绕模型、Agent与Agentic Cloud拆解“五层全栈”技术；&lt;strong&gt;GMIF 2026全球存储器行业创新峰会&lt;/strong&gt;在深圳举行，主题“AI存储，驱动未来”；&lt;strong&gt;高通骁龙峰会&lt;/strong&gt;或发布首款2nm骁龙8 Elite Gen6；&lt;strong&gt;Meta Connect 2026&lt;/strong&gt;或推出XR与智能眼镜新品。叠加AICC人工智能计算大会、全球AI芯片峰会GACS与第五届全球数字贸易博览会，下周是模型、Agent、算力与存储四条线同时发声的窗口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后是数据与交易节奏的“休市周”。&lt;/strong&gt;中国9月LPR21日出炉，此前已连续15个月维持不变；韩国9月出口20天同比将验证半导体出口的高增是否延续；欧元区9月制造业PMI初值与美国初请失业金陆续发布。&lt;strong&gt;A股25日至27日中秋休市、28日开市，全周仅三个交易日&lt;/strong&gt;；郑商所已自21日结算时起上调PTA、甲醇、对二甲苯合约保证金与涨跌停板，节前杠杆与流动性需留意。&lt;/p&gt;
+经济指标
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9月21日，中国9月LPR出炉。&lt;/strong&gt;此前，LPR已经连续第15个月维持不变，5年期以上3.5%，1年期3%。&lt;/p&gt;
+&lt;p&gt;此外，韩国关税厅9月21日公布9月前20天出口同比，前值增56%。据韩国关税厅，9月前10天出口同比增82.6%至349.7亿美元，其中半导体出口同比增270.1%、占出口总值47.1%，为历年同期最高。欧元区9月制造业PMI初值与美国初请失业金下周也将陆续发布。&lt;/p&gt;
+财经事件
+
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;外交部发言人：中美双方就年内元首互动安排保持着沟通&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下周或将迎来年内最重磅的外交事件。据央视，外交部发言人郭嘉昆表示，中美双方就年内元首互动安排保持着沟通。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;商务部：何立峰将于9月19日—23日率团赴美国与美方举行经贸磋商&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;据央视新闻，商务部新闻发言人表示，经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于9月19日—23日率团赴美国与美方举行经贸磋商。双方将以两国元首重要共识为引领，就彼此关心的经贸问题开展磋商。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;联合国大会（美国纽约），伊朗领导人将出席，高市早苗预计会晤特朗普&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;据新华社援引美国多家媒体17日报道，尽管美国和伊朗仍处于交战状态，但美国政府已同意伊朗领导人参加下周在纽约举行的联合国大会高级别会议。第81届联合国大会一般性辩论将于22日拉开帷幕。伊朗总统佩泽希齐扬预计23日在联合国大会上发表讲话。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;鉴于近期中东战事紧张（特朗普甚至公开提及面临对伊战事的重大抉择）&lt;/strong&gt;，油价、黄金以及海外“紧缩/防弹”资产将在下周因联大期间的表态而面临剧烈波动。&lt;/p&gt;
+&lt;p&gt;此外据NHK，&lt;strong&gt;日本首相高市早苗正在安排下周联合国大会期间与美国总统特朗普会晤；共同社报道称，正在安排于9月22日举行会晤。&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;乌克兰总统泽连斯基计划与特朗普会晤，讨论俄乌停火&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;据央视新闻，当地时间9月14日，乌克兰总统泽连斯基表示，对能源领域停火持开放态度，并计划于9月21日至23日在纽约与美国总统特朗普会晤时就此进行讨论。特朗普13日要求泽连斯基停止袭击俄罗斯柴油燃料设施，称相关袭击正在导致俄罗斯柴油燃料短缺。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GMIF 2026 全球存储器行业创新峰会于深圳举行&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第五届 GMIF 2026 全球存储器行业创新峰会将于 2026 年 9 月 22 日至 23 日在中国深圳（深圳湾万丽酒店）举行。本届峰会以“AI存储，驱动未来”为主题，重点探讨 AI 时代下存储技术在云、边、端全场景中的演进与产业协同。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高通骁龙峰会&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;高通骁龙峰会是高通公司每年举办的旗舰处理器发布会，2026年峰会定于9月22-24日（北京时间9月23-25日）在夏威夷举行。 此次峰会将发布首款采用台积电2nm工艺的骁龙8 Elite Gen6芯片，分为标准版（SM8950）和Pro版（SM8975），性能提升18%、功耗降低36%。小米18系列将首发该芯片，后续三星、OPPO等品牌跟进。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meta Connect 2026&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meta Connect 2026正式定档9月23-24日，多款XR硬件、VR头显与新品智能眼镜蓄势待发。&lt;/p&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt; &lt;strong&gt;阿里2026年云栖大会9月22日至24日在杭州举行&lt;/strong&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;9月22日至24日，2026年云栖大会将在杭州举行，主题为“智以致用”。大会的看点在于“五层全栈”的技术发布，将围绕模型、Agent、Agentic Cloud拆解五层全栈技术，发布阿里云核心技术及年度产品。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;纳指季度再平衡生效，SpaceX权重将升至2.82%&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;纳斯达克100指数季度再平衡将于9月21日美股开盘前生效，届时SpaceX在该指数中的权重将升至2.82%，较目前约1.28%的权重大幅提高。权重提高之所以重要，是因为追踪该基准的被动型基金必须相应调整持仓。其中包括规模达4,820亿美元的Invesco QQQ Trust Series 1，也就是QQQ，这是全球规模最大的ETF之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同日，标普道琼斯指数公司季度再平衡生效，标普100纳入Palo Alto Networks、Arista Networks、闪迪、戴尔&lt;/strong&gt;，标普500纳入Bloom Energy、Illumina。调整属例行换仓，生效日被动资金调仓或带动相关科技股量价波动，Arista、Palo Alto等获被动增配。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;多位美联储政策制定者将于下周发表讲话&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;多位美联储政策制定者将于下周发表讲话，&lt;strong&gt;鉴于美联储主席沃什本人已表示希望避免就利率路径提供前瞻性指引，任何有关央行本轮加息周期计划的线索都将变得更加重要。&lt;/strong&gt;美联储副主席杰斐逊在2026年美债市场会议发表讲话。FOMC票委、克利夫兰联储主席哈玛克、FOMC永久票委、纽约联储主席威廉姆斯等发表讲话。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt; &lt;strong&gt;AICC 2026人工智能计算大会&lt;/strong&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AICC 2026人工智能计算大会将于2026年9月21日在北京中关村国际创新中心正式举行。本届大会聚焦智能体（Agent）时代的AI计算底座与体系变革。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;第二届上海AI应用生态大会&lt;/strong&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第二届上海AI应用生态大会将于 2026年9月21日至22日 举办。主要聚焦企业智能体（Agent）技术实践、应用场景生态共建以及产业成果规模化复制，致力于打通人工智能技术与企业业务的深度融合。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;strong&gt;星河动力航天将于近期择机实施谷神星一号海射型（遥八）运载火箭发射任务（待定）&lt;/strong&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;9月17日，星河动力航天宣布，将于近期择机实施“谷神星一号海射型（遥八）”商业运载火箭发射任务，任务名：海对羊城阔。该公司主要为航天领域客户提供航天发射服务，核心产品包括“智神星”系列中大型重复使用液体运载火箭、“谷神星”系列轻小型固体运载火箭等。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt; &lt;strong&gt;特朗普为共和党筹款活动发表主题演讲&lt;/strong&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;据Politico，特朗普将于9月21日在纽约市为共和党筹款活动发表主题演讲。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;strong&gt;苹果新款Mac mini、Mac Studio9月22日正式发售&lt;/strong&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;8月25日，苹果推出时隔两年更新的便携型台式主机Mac mini，推出搭载M6或M5 Pro芯片的新款Mac mini，以及搭载M5 Ultra或M5 Max芯片的升级版Mac Studio。两款产品均于8月27日上午9点开启预购，并将于9月22日正式发售。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;中秋节：沪深北三大交易所9月25日至27日休市&lt;/strong&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;沪深北三大交易所均发布2026年中秋节、国庆节休市安排：9月25日(星期五)至9月27日(星期日)休市，9月28日(星期一)起照常开市，10月1日(星期四)至10月7日(星期三)休市，10月8日(星期四)起照常开市。&lt;/p&gt;
+提前预警
+
+&lt;p&gt;&lt;strong&gt;下下周（9/28-10/4）事件提前提醒：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9月29日（周二）&lt;/strong&gt;：&lt;strong&gt;OpenAI DevDay 2026（旧金山&lt;/strong&gt;）——据OpenAI官网，本届聚焦技术深度与开发者生态，作为AI资本化关键节点，关注新API与模型发布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10月1日（周四）凌晨4:30&lt;/strong&gt;：&lt;strong&gt;美光2026财年第四季度财报&lt;/strong&gt;——美东9月30日16:30召开电话会，为存储链景气与HBM需求的关键验证节点。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 胡塞武装称对沙特首都及关键原油设施发动袭击</title><link>https://wallstreetcn.com/articles/3782143</link><guid>ea639ae16d529a2dba568edbef6fa354f6ac0466d8f5792d76692df7676044e8</guid><pubDate>Sun, 20 Sep 2026 01:31:12 GMT</pubDate><description>&lt;p&gt;胡塞武装袭击利雅得机场，沙特油气出口通道承压。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=17237791629268719845&amp;amp;channelId=1215"&gt;据央视新闻&lt;/a&gt;，也门胡塞武装19日发表声明说，当天对沙特首都利雅得的“敏感目标”以及沙特阿美公司位于&lt;strong&gt;延布&lt;/strong&gt;的设施发动了两次军事行动，使用了大量弹道导弹、巡航导弹和无人机。&lt;/p&gt;
+&lt;p&gt;声明说，此次行动是对沙特方面持续发动空袭以及“指责也门袭击麦加”等行为的回应。&lt;/p&gt;
+&lt;p&gt;随后&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;t=1789852453550&amp;amp;item_id=14370505622233102945&amp;amp;channelId=1215"&gt;央视报道&lt;/a&gt;，当地时间9月19日，沙特主导的多国联军发言人图尔基·马利基发表声明称，沙特防空系统已拦截并摧毁胡塞武装发射的一枚弹道导弹，并击退了针对巴伊什、塔伊夫、法拉桑及延布的多起袭击。&lt;/p&gt;
+&lt;p&gt;然而，胡塞武装宣称，第一次行动以沙特首都利雅得的“敏感目标”为目标，第二次行动以沙特阿美公司位于延布的设施为目标。&lt;strong&gt;声明称，两次行动均“取得成功”，目标区域发生大规模火灾。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781659"&gt;华尔街见闻提及&lt;/a&gt;，延布是红海沿岸的重要港口城市，坐落有炼油厂及与沙特东西向输油管道相连的石油出口码头。在此之前，一架来自伊拉克的无人机已击中该条关键输油管道。&lt;/p&gt;
+攻势背后，胡塞武装的战略逻辑
+&lt;p&gt;胡塞武装将此次行动定性为对沙特持续空袭的报复。&lt;/p&gt;
+&lt;p&gt;声明称，沙特方面动用F-15及&amp;quot;台风&amp;quot;战斗机，从海米斯穆谢特和塔伊夫两处基地累计发动732次空袭，造成平民伤亡及民用基础设施受损。&lt;/p&gt;
+&lt;p&gt;胡塞武装于今年9月初重启攻势，攻势节奏明显加速。利雅得此前曾在2017年、2018年及2020年多次遭到胡塞武装的导弹袭击，但&lt;strong&gt;据报道，此次是利雅得首次启动防空警报，显示威胁烈度出现新的台阶式提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本周三，胡塞武装还宣称击落一架沙特F-15战斗机，并公布了疑似残骸的画面。&lt;/p&gt;
+机场与延布，核心能源节点遭受压力
+&lt;p&gt;此次袭击的选点具有明显战略意图。&lt;/p&gt;
+&lt;p&gt;利雅得哈立德国王国际机场航空燃油设施是沙特民用航空保障的关键节点，而延布既是红海重要港口，亦是连接沙特东西部的原油管道终端及沙特阿美的重要出口门户。&lt;/p&gt;
+&lt;p&gt;胡塞武装此前已夺取红海港口城市莫哈及曼德海峡南端的佩里姆岛，据此对沙特红海原油出口通道形成钳制。&lt;/p&gt;
+&lt;p&gt;与此同时，一架由伊拉克发射的无人机已于此前袭击了沙特至关重要的东西向输油管道。两条出口路线相继承压，令沙特能源出口面临双线威胁。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据彭博报道，伊朗及其盟友的一系列行动被认为意在压缩沙特出口能力，以放大对美国及全球经济的冲击。&lt;/strong&gt;伊朗本身正面临美国海军封锁，其波斯湾原油出口受阻，相关代理武装的协同行动由此引发更广泛的市场关注。&lt;/p&gt;
+冲突背景，也门战争持续逾十年
+&lt;p&gt;也门内战自2014年胡塞武装占领萨那后延续至今，沙特主导的阿拉伯联军于2015年介入，支持也门国际承认政府。这场冲突已造成逾15万人死亡，数百万人流离失所，也门被推至大规模饥荒边缘。&lt;/p&gt;
+&lt;p&gt;近年来，双方曾维持一段脆弱的停火局面。期间，沙特向也门政府官员（包括萨那官员）支付薪资，胡塞武装则在加沙冲突期间将打击目标扩展至以色列及红海过往船只。然而，9月初的新一轮攻势宣告这一相对稳定的局面已告终结。&lt;/p&gt;
+&lt;p&gt;美国中央司令部司令、海军上将Brad Cooper周六发表视频声明称，尽管面临伊朗袭击，超过10亿桶来自美国盟友的原油已成功通过霍尔木兹海峡运出。&lt;/p&gt;
+&lt;p&gt;但他未披露该数字的具体计算依据，商业船运追踪机构通常给出的估算较此偏低，部分原因在于多艘船只关闭应答器或采取规避动作，增加了追踪难度。&lt;/p&gt;
+&lt;p&gt;沙特目前已寻求国际支持以应对胡塞武装威胁，但迄今尚未形成大规模反击。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “炼油”成为全球能源瓶颈，美国距离“出口禁令”不远了？</title><link>https://wallstreetcn.com/articles/3782139</link><guid>9eb83b7839785447e865ae0b0f1b94a6f8a26d721b7a197b1cc7bdcf36a0d63e</guid><pubDate>Sun, 20 Sep 2026 00:59:40 GMT</pubDate><description>&lt;p&gt;俄乌与中东两场战争同步冲击全球炼油体系，引发柴油供应紧缺与价格飙升，美国正面临成为&amp;quot;最后补给方&amp;quot;的压力，同时全美政界呼声渐起，要求禁止出口以平抑国内油价。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781623"&gt;华尔街见闻提及&lt;/a&gt;，美国柴油零售价上周首次突破每加仑6美元，并于本周五进一步攀升至6.45美元，创历史新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;巴西农村、利比亚及部分非洲国家已出现加油站短缺现象，全球工业、运输与农业赖以运转的这一关键燃料正面临严峻考验。&lt;/p&gt;
+&lt;p&gt;在此背景下，美国国会内部正出现限制出口的立法动向。众议员Tim Burchett本周提出柴油出口禁令法案，参议院多数党领袖John Thune表示对该提议持开放态度。&lt;/p&gt;
+&lt;p&gt;分析人士警告，一旦美国实施出口禁令，将推动全球其他地区价格进一步暴涨，并可能引发亚洲主要出口国的连锁跟进。&lt;/p&gt;
+
+中东与俄罗斯，十年扩张后遭遇战争重创
+
+&lt;p&gt;过去十年，波斯湾产油国与俄罗斯斥巨资扩张炼油能力，大幅抢占全球柴油出口市场份额，而两场战争的爆发令这一供应格局骤然逆转。&lt;/p&gt;
+&lt;p&gt;科威特国家石油公司在Al-Zour建成全球最大炼油厂之一，阿联酋扩建了Ruwais炼厂，伊拉克在卡尔巴拉新开一座炼厂，沙特阿美则在红海沿岸兴建两座炼厂。&lt;/p&gt;
+&lt;p&gt;这一系列投资使中东柴油出口量在2017年至2025年间翻逾一番，该地区以19%的全球出口份额跃升为全球最大柴油出口地区，超越北美。俄罗斯同期通过升级现有炼厂，将出口量提升三分之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，今年2月美以联合对伊朗发动打击后，霍尔木兹海峡通行受阻，科威特、阿联酋和伊拉克被迫大幅削减出口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;胡塞武装袭击升级，还压缩了沙特阿美旗下红海炼厂的出口，这恰是绕开霍尔木兹海峡的主要替代通道。&lt;/p&gt;
+&lt;p&gt;与此同时，乌克兰对俄炼厂的无人机打击持续奏效，几乎使俄罗斯的出口陷于停滞。IEA高级油市分析师David Martin表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我们正在见证可能是有史以来最为紧张的柴油市场格局。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+西方炼能不足，难以弥补供应缺口
+
+&lt;p&gt;&lt;strong&gt;中东和俄罗斯的大规模炼油投资，长期压低了西方炼油商的利润空间，导致其资本投入持续萎缩，如今在危机时刻难堪重任。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;咨询公司Wood Mackenzie炼油、化工及油市业务高级副总裁Alan Gelder指出，国家石油公司兴建炼厂时，投资回报率往往并非首要考量，政府更关注的是提供就业与保障能源安全。&lt;/p&gt;
+&lt;p&gt;而西方大型石油公司已近三十年未新建炼厂，2015年以来美国和欧洲已有逾十家炼厂相继关闭。Gelder说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们看到各大石油公司实际上在压缩对该行业的敞口，因为实际资本回报率一直欠佳。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Gelder进一步引用行业流传的说法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;怎样把一大笔财富变成一小笔？去建一座炼厂。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;目前，西方炼厂虽已接近满负荷运转，并将产能向柴油生产倾斜，减少汽油和航空煤油的比重，但仍无法有效填补中东和俄罗斯留下的供应缺口。&lt;/strong&gt;&lt;/p&gt;
+
+出口禁令之争，解国内之急或祸及全球
+
+&lt;p&gt;面对高涨的国内油价，美国政界的出口禁令呼声正在加剧这场全球供应博弈的不确定性。&lt;/p&gt;
+&lt;p&gt;特朗普本周将柴油价格上涨的主要原因归咎于俄乌战争，称&amp;quot;全球柴油价格上涨主要由俄乌战争引发，而非伊朗&amp;quot;。&lt;strong&gt;然而IEA数据显示，波斯湾受阻柴油量约为俄罗斯缺口的三倍，两者判断存在明显出入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析人士警告，如果美国对柴油出口实施禁令，全球其他地区价格将进一步大幅上涨，并可能推动主要出口国效仿跟进，令本已趋紧的全球柴油市场雪上加霜。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国石油协会早在2022年致时任能源部长Jennifer Granholm的信中就明确指出，出口限制将推高国内油价。战略与国际研究中心今年早些时候发布的报告，以及达拉斯联储和哥伦比亚大学全球能源政策中心针对原油出口限制的研究，均得出相同结论。&lt;/p&gt;
+&lt;p&gt;结构性问题是核心障碍。美国炼油产能高度集中于墨西哥湾沿岸，其基础设施本就面向出口市场设计。将产品从该地区输送至全国其他地区的管道，目前已处于满负荷或接近满负荷运行状态，全球油轮运力的紧张也限制了美国国内调配的灵活性。&lt;/p&gt;
+&lt;p&gt;战略与国际研究中心在报告中指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;面对无利可图（甚至亏损）的经营环境，墨西哥湾沿岸炼油商必然会大幅削减炼油活动，加工更少的原油，输出更少的成品油。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这将导致“国内汽油供应量反而低于没有禁令时的水平，部分乃至完全抵消初期的库存积累，并对禁令本欲压制的价格形成上行压力。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
