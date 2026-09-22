@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 22:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 23:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;阿里巴巴CEO吴泳铭在大会上提出2032年将数据中心总功耗扩张至20GW的目标，较2022年扩大约10倍。这一表态被三家投行视为本次大会最具增量价值的信息，直接触发了各方对云收入长期天花板的重新测算。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;花旗认为，20GW目标可对应2033财年约1600亿美元的外部云收入，较其此前对2031财年1000亿美元的预测增加约600亿美元；瑞银则基于不同假设，将同一目标对应的2032年外部云收入测算为约1700亿美元，两者均隐含约40%的年复合增长率。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -167,23 +167,7 @@ AI模型竞争从“拼旗舰”进入“拼规模”
 &lt;p&gt;同在本周二，Anthropic也推出新模型Claude Opus 5.5，并强调更低的运行成本。&lt;/p&gt;
 &lt;p&gt;两家头部AI公司同一天推出更具成本竞争力的模型，显示AI行业的竞争正在从单纯争夺旗舰模型能力，进一步转向性能、速度与成本的综合竞争。&lt;/p&gt;
 &lt;p&gt;对于OpenAI而言，Astra负责树立GPT-6的能力上限，Sol和Luna则负责把这些能力以更低成本推向更广泛的工作场景。&lt;/p&gt;
-&lt;p&gt;一边讨论如何放慢AI发展的速度，一边加快模型迭代、扩大使用范围并压低调用成本，AI行业正在进入能力与成本同时加速下探的新阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 软银借道债市为AI帝国输血，垃圾债市场迎来历史级考验</title><link>https://wallstreetcn.com/articles/3782300</link><guid>3165cc8f5f1a792e7d805d5f030ff6caa78778bf4db81f95c5f9f0ec2138b5b6</guid><pubDate>Tue, 22 Sep 2026 11:00:35 GMT</pubDate><description>&lt;p&gt;软银大规模债券发行，正成为债市检验投资者AI投资热情与风险承受能力的一场关键测试。&lt;/p&gt;
-&lt;p&gt;9月22日，据彭博援引知情人士透露，&lt;strong&gt;软银集团此次债券发行已吸引逾200亿美元的初步投资意向，有望跻身史上规模最大的垃圾债交易之列。此次发行募资将主要用于支持软银对OpenAI的巨额投资，投资者正争相锁定可能创下纪录的高收益率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述需求仅代表投资者早期、非约束性的认购意向，主要作为正式定价前的参考，最终定价预计于周四完成。&lt;strong&gt;此次发行规模超110亿美元，包括100亿美元美元债和10亿欧元（约合11亿美元）欧元债。软银方面表示，交易进展顺利、需求强劲，但目前暂无扩大规模的计划。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次交易正值全球市场借贷成本普遍上升、AI前景与风险持续引发市场波动之际，其最终定价及市场反应，也将成为观察投资者对AI资产信心的重要窗口。&lt;/p&gt;
-收益率或创纪录，定价讨论仍在进行
-&lt;p&gt;据彭博援引知情人士消息，软银及其主承销商已就此次发行的潜在定价与投资者展开沟通。其中，&lt;strong&gt;期限最长的美元部分为7.5年期票据，讨论中的潜在收益率最高约10%；期限最长的欧元部分为6年期，讨论区间在8%中段附近。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;若最终按照上述水平定价，将创下相应货币及期限下的收益率纪录。不过，知情人士指出，上述数字仍处于试探性沟通阶段，尚未进入正式的初始价格指引环节，最终定价仍存在变数。软银周一已面向全球投资者举行路演电话会议，并将于周二继续进行。&lt;/p&gt;
-&lt;p&gt;承销团队阵容强大。花旗集团担任美元部分的主账簿管理人及联席全球协调人，高盛集团、摩根大通及摩根士丹利亦参与其中。欧元部分由摩根大通担任主账簿管理人，联席全球协调人包括高盛及德意志银行。&lt;/p&gt;
-软银AI融资版图持续扩张
-&lt;p&gt;此次债券发行，是软银近期密集融资行动的最新一环。软银创始人孙正义领导的集团已向OpenAI累计承诺投入近650亿美元，使其成为全球最大的AI投资方之一。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为支撑庞大的AI投资布局，软银今年以来持续加码融资。&lt;/strong&gt;今年3月，软银签署400亿美元过桥贷款，以追加对OpenAI的投资，并已偿还其中259亿美元的未偿余额。上周，软银又将一笔以旗下芯片子公司Arm股份为抵押的保证金贷款规模扩大50亿美元至250亿美元，同时将一条现有信贷额度增加4.5亿美元至65亿美元。&lt;/p&gt;
-&lt;p&gt;此外，阿波罗全球管理公司正在洽谈将对软银的一笔贷款规模扩大36亿美元至90亿美元，以协助其为OpenAI投资融资；软银还获得了一笔118.7亿美元的贷款，同样用于支持其OpenAI投资。&lt;/p&gt;
-&lt;p&gt;据彭博汇编数据，&lt;strong&gt;今年以来软银已跨币种发行近150亿美元债券，成为2026年迄今全球垃圾评级借款人中债券市场融资规模最大的企业。&lt;/strong&gt;&lt;/p&gt;
-AI不确定性与信用风险受市场关注
-&lt;p&gt;尽管认购需求旺盛，市场对软银信用风险的担忧也在同步升温。据彭博汇编数据，&lt;strong&gt;软银2031年到期美元债券的收益率本月早些时候一度升至8.2%，较1月份的低点6.7%大幅上行，反映出信用利差走阔与美债基准收益率上升的双重压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，部分全球顶级AI平台负责人近期出于安全考量呼吁放缓AI发展步伐，为AI投资前景增添不确定性，并推动软银债务违约保险成本升至三年来最高水平。&lt;strong&gt;OpenAI首席执行官Sam Altman表示，公司今年不会上市，这意味着软银对OpenAI的巨额投资短期内仍无法通过公开市场实现退出，相关资产的流动性也受到市场关注。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;信用评级方面，软银目前获标普及惠誉评为BB+，处于投机级最高档。相比之下，2026年迄今企业债发行规模最大的两家公司——Alphabet及Amazon——评级分别为AA+和AA，均高于日本主权信用评级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中金：2C Agent从对话迈向任务执行，Meta Muse的核心优势是36亿用户的分发和信任基建</title><link>https://wallstreetcn.com/articles/3782308</link><guid>b3d99b02d5ee30097034ab999914cfb44d4352da89f92df8f3595aabc666f07e</guid><pubDate>Tue, 22 Sep 2026 13:35:07 GMT</pubDate><description>&lt;p&gt;AI Agent正在从对话工具进一步走向任务执行，Meta推出个人AI Agent Muse，也让2C Agent的竞争焦点开始从模型能力延伸至真实事务的连接、执行和持续跟进。&lt;/p&gt;
+&lt;p&gt;一边讨论如何放慢AI发展的速度，一边加快模型迭代、扩大使用范围并压低调用成本，AI行业正在进入能力与成本同时加速下探的新阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中金：2C Agent从对话迈向任务执行，Meta Muse的核心优势是36亿用户的分发和信任基建</title><link>https://wallstreetcn.com/articles/3782308</link><guid>b3d99b02d5ee30097034ab999914cfb44d4352da89f92df8f3595aabc666f07e</guid><pubDate>Tue, 22 Sep 2026 13:35:07 GMT</pubDate><description>&lt;p&gt;AI Agent正在从对话工具进一步走向任务执行，Meta推出个人AI Agent Muse，也让2C Agent的竞争焦点开始从模型能力延伸至真实事务的连接、执行和持续跟进。&lt;/p&gt;
 &lt;p&gt;相较于此前Agent产品，&lt;strong&gt;Muse的核心变化在于进一步承接真实事务&lt;/strong&gt;。中金研究指出，Muse具备后台异步执行与长期记忆、真实账户连接、隔离执行与审批门控等能力，Ideas与Feed则展现出推荐式Agent的雏形。Meta还拥有36亿日活用户的分发基础，以及WhatsApp、Instagram和Facebook积累的长期内容与行为上下文。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;换句话说，Muse的核心优势不只是AI能力，更在于Meta既有的用户分发和信任基础设施，这也是其他Agent产品较难快速复制的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中金研究认为，2C Agent是AI应用继对话之后的重要演进方向，关键不在方向，而在时机。随着模型和Agent能力提升、Token成本下降，技术与成本条件持续改善，但用户对任务效果、错误容忍度及迁移成本仍存在不确定性。&lt;strong&gt;技术效果和使用成本何时同时跨过用户阈值，将决定2C Agent走向规模化的速度。&lt;/strong&gt;&lt;/p&gt;
@@ -285,7 +269,24 @@ Meta的优势：分发、上下文与执行基础
 &lt;p&gt;尽管美元走强，黄金价格仍收高，午后市场情绪恶化时，黄金价格日内V形反转、强劲反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币隔夜触及 87,000 美元高点后小幅回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：苹果开发新型健身追踪器原型机，目标直指Whoop</title><link>https://wallstreetcn.com/articles/3782323</link><guid>472be7c9d8c3be8da4e779a184d1e2f39d18c8c1065bdb7af1c7c35fc803051a</guid><pubDate>Tue, 22 Sep 2026 20:10:40 GMT</pubDate><description>&lt;p&gt;苹果公司正在悄然布局无屏健身追踪器市场，将竞争目标直接指向Whoop。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩详解“AI时代的广告业”：从注意力争夺到交易闭环</title><link>https://wallstreetcn.com/articles/3782314</link><guid>76cc0797edbe66c88b60bc41539606ba5c28dd7a790486cc6ceb1938e10961b1</guid><pubDate>Tue, 22 Sep 2026 16:52:15 GMT</pubDate><description>&lt;p&gt;AI正在重塑中国互联网广告的预算流向，但至少在2030年前，它更像是一场存量市场的重新分配，而非新的广告增量周期。&lt;/p&gt;
+&lt;p&gt;摩根士丹利亚洲团队9月发布的中国互联网行业深度研究显示，在已使用或计划采用AI的广告主中，72%表示广告总预算没有变化，74%认为跨平台广告支出正在进一步集中。在总预算增长有限的情况下，AI首先改变的是广告预算的配置方式。&lt;/p&gt;
+&lt;p&gt;这一趋势已经体现在广告主的实际应用中。2025年，74%的受访广告主使用AI进行内容生成，62%用于广告活动管理，而商品Feed/目录优化、生成式引擎优化的渗透率分别仅为9%和5%。&lt;strong&gt;当前AI对广告行业的主要作用仍是提升效率，而不是创造新的广告入口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着AI从内容生成、投放优化进一步走向Agent，广告平台的竞争也将逐渐延伸至用户决策和交易环节。&lt;strong&gt;对于互联网平台而言，真正值得关注的不是AI本身带来多少新增预算，而是谁能够借助AI获得更多存量预算，并进一步打开广告之外的商业化空间。&lt;/strong&gt;&lt;/p&gt;
+AI先改变预算流向，广告增量尚未打开
+&lt;p&gt;摩根士丹利基于第六期AlphaWise中国广告主调研得出的结论相当明确：&lt;strong&gt;AI正在改变广告预算分配，但尚未显著扩大广告总盘子。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;调研显示，50%的广告主认为AI已经带来ROI提升，46%认为客户咨询处理以及售前、售后承接有所改善。但在预算层面，72%的广告主表示总广告支出没有变化，更多是在既有预算内部调整投放结构。&lt;/p&gt;
+&lt;p&gt;与此同时，74%的广告主认为跨平台广告支出更加集中。&lt;strong&gt;随着广告主越来越重视投放效率和结果可衡量性，预算正在向能够提供更高转化效率、更完整数据反馈的平台集中。&lt;/strong&gt;因此，AI当前带来的首先是份额变化，而不是市场整体扩容。&lt;/p&gt;
+&lt;p&gt;这一阶段的另一个特征是，AI应用仍主要停留在广告生产和管理环节。内容生成、广告活动管理已经成为较成熟的使用场景，而商品Feed优化、生成式引擎优化等更接近AI原生广告的模式，渗透率仍然较低。&lt;strong&gt;只有当AI进一步参与用户发现、商品决策和交易执行，新的商业收入空间才可能真正释放。&lt;/strong&gt;&lt;/p&gt;
+2030年看预算迁移，2040年才体现增量
+&lt;p&gt;摩根士丹利预计，到2030年，可单独识别的AI总变现规模约为2910亿元人民币，其中候选集广告约100亿元，AI归因交易佣金约2810亿元。&lt;/p&gt;
+&lt;p&gt;需要注意的是，这一预测并不包括预测式AI提升现有广告库存变现效率所带来的收入增长。&lt;strong&gt;也就是说，如果AI提高了广告点击率、转化率或投放效率，这部分增量仍将体现为传统广告业务收入，而非新的AI独立收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;真正的增量空间来自Agent进一步进入交易链路。&lt;strong&gt;到2040年，随着AI参与发现、决策和交易执行，AI促成的广告收入预计达到3190亿元，AI归因交易佣金规模则可能达到1.24万亿元。&lt;/strong&gt;不过，扣除传统业务被替代、激励支出以及合作伙伴分成后，最终形成的净市场扩张规模将低于上述总量。&lt;/p&gt;
+&lt;p&gt;因此，两个阶段对应不同的商业逻辑：2030年前主要是预算迁移，2040年前后才更多体现AI对商业模式和市场空间的重构。2040年的预测更适合作为长期情景锚点，而非精确的时间节点。&lt;/p&gt;
+模型之外，商业闭环决定价值获取
+&lt;p&gt;当AI从广告投放工具进一步变成能够理解需求并执行任务的Agent后，平台竞争的核心将转向对商业链路的控制。摩根士丹利将其归纳为四个关键节点：&lt;strong&gt;谁发起需求、谁决定候选集、谁完成交易，以及谁掌握结果数据和回写权限&lt;/strong&gt;。从广告、赞助排序，到交易佣金、支付和商家服务，不同环节对应着不同的价值获取方式。&lt;/p&gt;
+&lt;p&gt;这也是独立AI与嵌入式AI的主要差异。独立AI能够聚合跨领域用户意图，但嵌入业务体系的AI距离商品、商家、支付和交易更近，更容易把用户需求转化为可量化的商业结果。调研显示，&lt;strong&gt;47%的广告主认为AI创造的价值将由各参与方共同分享，37%认为平台将成为最大的单一受益方。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：苹果开发新型健身追踪器原型机，目标直指Whoop</title><link>https://wallstreetcn.com/articles/3782323</link><guid>472be7c9d8c3be8da4e779a184d1e2f39d18c8c1065bdb7af1c7c35fc803051a</guid><pubDate>Tue, 22 Sep 2026 20:10:40 GMT</pubDate><description>&lt;p&gt;苹果公司正在悄然布局无屏健身追踪器市场，将竞争目标直接指向Whoop。&lt;/p&gt;
 &lt;p&gt;9月22日据彭博社援引知情人士透露，苹果公司正在开发一款无屏幕的健康与健身追踪器，类似于Whoop的手腕佩戴设备。苹果已探索该品类数月，目前正在开发原型机。&lt;/p&gt;
 &lt;p&gt;该计划获得了包括苹果执行董事长蒂姆·库克和服务主管Eddy Cue在内的高层支持，但苹果尚未决定是否发布该产品。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;该项目仍处于内部称为“技术调查”的初步阶段。如果苹果继续推进发布，该设备最早也要到2028年才会亮相。&lt;/strong&gt;&lt;/p&gt;
@@ -314,45 +315,7 @@ Meta的优势：分发、上下文与执行基础
 &lt;p&gt;参与该追踪器早期工程工作的，包括苹果Vision硬件团队成员，该团队除开发Vision Pro头显外，还在推进首款苹果智能眼镜以及配备摄像头的AirPods，两款产品均瞄准2027年发布。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3763869"&gt;华尔街见闻提及&lt;/a&gt;，苹果此前还在开发一款配备摄像头的AI别针设备，该设备原本可供用户佩戴于颈间或别于衣物，以采集视觉数据供新版Siri处理，但目前该项目已被推迟。&lt;/p&gt;
 &lt;p&gt;在智能手表方面，苹果正筹划最早于2027年底推出一次较大幅度的产品线重设计，以打破近年来以渐进式迭代为主的产品节奏。&lt;/p&gt;
-&lt;p&gt;Apple Watch Series 10两年前实现了机身减薄，但更大尺寸的Ultra型号自四年前亮相以来外观未有实质性变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩详解“AI时代的广告业”：从注意力争夺到交易闭环</title><link>https://wallstreetcn.com/articles/3782314</link><guid>76cc0797edbe66c88b60bc41539606ba5c28dd7a790486cc6ceb1938e10961b1</guid><pubDate>Tue, 22 Sep 2026 16:52:15 GMT</pubDate><description>&lt;p&gt;AI正在重塑中国互联网广告的预算流向，但至少在2030年前，它更像是一场存量市场的重新分配，而非新的广告增量周期。&lt;/p&gt;
-&lt;p&gt;摩根士丹利亚洲团队9月发布的中国互联网行业深度研究显示，在已使用或计划采用AI的广告主中，72%表示广告总预算没有变化，74%认为跨平台广告支出正在进一步集中。在总预算增长有限的情况下，AI首先改变的是广告预算的配置方式。&lt;/p&gt;
-&lt;p&gt;这一趋势已经体现在广告主的实际应用中。2025年，74%的受访广告主使用AI进行内容生成，62%用于广告活动管理，而商品Feed/目录优化、生成式引擎优化的渗透率分别仅为9%和5%。&lt;strong&gt;当前AI对广告行业的主要作用仍是提升效率，而不是创造新的广告入口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着AI从内容生成、投放优化进一步走向Agent，广告平台的竞争也将逐渐延伸至用户决策和交易环节。&lt;strong&gt;对于互联网平台而言，真正值得关注的不是AI本身带来多少新增预算，而是谁能够借助AI获得更多存量预算，并进一步打开广告之外的商业化空间。&lt;/strong&gt;&lt;/p&gt;
-AI先改变预算流向，广告增量尚未打开
-&lt;p&gt;摩根士丹利基于第六期AlphaWise中国广告主调研得出的结论相当明确：&lt;strong&gt;AI正在改变广告预算分配，但尚未显著扩大广告总盘子。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;调研显示，50%的广告主认为AI已经带来ROI提升，46%认为客户咨询处理以及售前、售后承接有所改善。但在预算层面，72%的广告主表示总广告支出没有变化，更多是在既有预算内部调整投放结构。&lt;/p&gt;
-&lt;p&gt;与此同时，74%的广告主认为跨平台广告支出更加集中。&lt;strong&gt;随着广告主越来越重视投放效率和结果可衡量性，预算正在向能够提供更高转化效率、更完整数据反馈的平台集中。&lt;/strong&gt;因此，AI当前带来的首先是份额变化，而不是市场整体扩容。&lt;/p&gt;
-&lt;p&gt;这一阶段的另一个特征是，AI应用仍主要停留在广告生产和管理环节。内容生成、广告活动管理已经成为较成熟的使用场景，而商品Feed优化、生成式引擎优化等更接近AI原生广告的模式，渗透率仍然较低。&lt;strong&gt;只有当AI进一步参与用户发现、商品决策和交易执行，新的商业收入空间才可能真正释放。&lt;/strong&gt;&lt;/p&gt;
-2030年看预算迁移，2040年才体现增量
-&lt;p&gt;摩根士丹利预计，到2030年，可单独识别的AI总变现规模约为2910亿元人民币，其中候选集广告约100亿元，AI归因交易佣金约2810亿元。&lt;/p&gt;
-&lt;p&gt;需要注意的是，这一预测并不包括预测式AI提升现有广告库存变现效率所带来的收入增长。&lt;strong&gt;也就是说，如果AI提高了广告点击率、转化率或投放效率，这部分增量仍将体现为传统广告业务收入，而非新的AI独立收入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;真正的增量空间来自Agent进一步进入交易链路。&lt;strong&gt;到2040年，随着AI参与发现、决策和交易执行，AI促成的广告收入预计达到3190亿元，AI归因交易佣金规模则可能达到1.24万亿元。&lt;/strong&gt;不过，扣除传统业务被替代、激励支出以及合作伙伴分成后，最终形成的净市场扩张规模将低于上述总量。&lt;/p&gt;
-&lt;p&gt;因此，两个阶段对应不同的商业逻辑：2030年前主要是预算迁移，2040年前后才更多体现AI对商业模式和市场空间的重构。2040年的预测更适合作为长期情景锚点，而非精确的时间节点。&lt;/p&gt;
-模型之外，商业闭环决定价值获取
-&lt;p&gt;当AI从广告投放工具进一步变成能够理解需求并执行任务的Agent后，平台竞争的核心将转向对商业链路的控制。摩根士丹利将其归纳为四个关键节点：&lt;strong&gt;谁发起需求、谁决定候选集、谁完成交易，以及谁掌握结果数据和回写权限&lt;/strong&gt;。从广告、赞助排序，到交易佣金、支付和商家服务，不同环节对应着不同的价值获取方式。&lt;/p&gt;
-&lt;p&gt;这也是独立AI与嵌入式AI的主要差异。独立AI能够聚合跨领域用户意图，但嵌入业务体系的AI距离商品、商家、支付和交易更近，更容易把用户需求转化为可量化的商业结果。调研显示，&lt;strong&gt;47%的广告主认为AI创造的价值将由各参与方共同分享，37%认为平台将成为最大的单一受益方。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”</title><link>https://wallstreetcn.com/articles/3782318</link><guid>a2a3459aee4a6350cdaf0535f5c77ca973601cdc003f18ef654804accdabfd46</guid><pubDate>Tue, 22 Sep 2026 20:10:01 GMT</pubDate><description>&lt;p&gt;美联储里士满联储主席Tom Barkin周二警告称，通胀冲击的消退不会一蹴而就，当前高企的通胀水平存在向未来预期传导并形成固化的风险。&lt;/p&gt;
-&lt;p&gt;Barkin在巴尔的摩发表的演讲中表示，美联储上周的加息举措有助于压制通胀，但他未就是否需要进一步收紧政策明确表态。他强调，供给侧冲击已不再是一次性或暂时性事件，经济体内的价格压力具有持续性。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;这些压力或许终将消退，但我预计需要一段时间，在此期间，当前高企的通胀水平可能影响未来的通胀走势。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Barkin今年在联邦公开市场委员会（FOMC）不具投票权。关于后续政策路径，他表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;将通胀可持续地压回2%目标，是我们的承诺。上周的加息将有所帮助。&lt;strong&gt;至于是否还需要进一步加息，以及加多少，我们将视情况而定。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-两种情景并存，前景不确定性犹存
-
-&lt;p&gt;Barkin就通胀走势描绘了两种路径。&lt;/p&gt;
-&lt;p&gt;乐观情景下，近期冲击逐步消退，价格压力迅速降温——消费者支出触及上限、投资放缓、就业市场出现松动，均可能加速这一进程。&lt;/p&gt;
-&lt;p&gt;悲观情景下，通胀可能更为顽固。Barkin指出，暂时性冲击可能拖延，新的成本压力可能涌现，需求端的持续强劲以及当前通胀本身的二次传导效应，都可能进一步推高价格。&lt;/p&gt;
-&lt;p&gt;供给冲击不再是一次性事件，是Barkin演讲的核心判断。他认为，这正是通胀压力在整个经济体中持续蔓延的深层原因。&lt;/p&gt;
-
-经济基本面仍具韧性
-
-&lt;p&gt;尽管通胀前景充满不确定性，Barkin对经济整体形势持相对乐观的态度。&lt;strong&gt;&amp;quot;经济和劳动力市场仍站稳脚跟，&amp;quot;他表示，&amp;quot;我们从企业那里听到的反馈是，经济状况如果有什么变化的话，是在进一步走强。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美联储官员上周投票一致通过加息决定，这是三年多来的首次，联邦基金利率目标区间升至3.75%至4%。官员们对通胀问题的担忧持续上升——通胀已连续五年半未能回落至2%的政策目标，部分官员明确警示价格压力的持续性。&lt;/p&gt;
-&lt;p&gt;在上周决议发布的最新利率点阵图中，官员中位数预测显示年内还将有一次加息。2027年的中位数预测指向基准利率不再进一步上调，但有八位官员认为届时利率将比当前水平高出50个基点，官员内部的分歧依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
+&lt;p&gt;Apple Watch Series 10两年前实现了机身减薄，但更大尺寸的Ultra型号自四年前亮相以来外观未有实质性变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
 &lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
 &lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -434,4 +397,43 @@ AI先改变预算流向，广告增量尚未打开
 &lt;p&gt;聊天框的时代，用户问的是：AI聪不聪明？&lt;/p&gt;
 &lt;p&gt;智能体时代，用户问的是：我敢不敢把活交给它？&lt;/p&gt;
 &lt;p&gt;留给OpenAI的问题只有一个：怎么让10亿用户放心把钥匙交出来。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;amp;mid=2652728622&amp;amp;idx=2&amp;amp;sn=01490753676698df799bbcd259610457&amp;amp;chksm=f0e4469cd474fb917c7c9891ef6697ccec198080a3ee17d467e21fab15162dcc0bf8f4f20f59&amp;amp;scene=0&amp;amp;xtrack=1#rd"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;amp;mid=2652728622&amp;amp;idx=2&amp;amp;sn=01490753676698df799bbcd259610457&amp;amp;chksm=f0e4469cd474fb917c7c9891ef6697ccec198080a3ee17d467e21fab15162dcc0bf8f4f20f59&amp;amp;scene=0&amp;amp;xtrack=1#rd"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 估值跌至十年低点！黄仁勋称英伟达是"全球首只成长价值股"，但投资者似乎并不买账</title><link>https://wallstreetcn.com/articles/3782301</link><guid>a0b0a9ab467ba277bfaa60bfbee74dd4f0f3615702f2f18f6701faeeca3b145b</guid><pubDate>Tue, 22 Sep 2026 11:48:26 GMT</pubDate><description>&lt;p&gt;英伟达股票估值已降至逾十年来较低水平。尽管公司营收和利润仍保持较快增长，但市场对其盈利增长能否持续的关注正在上升。&lt;/p&gt;
+&lt;p&gt;据彭博汇编数据，英伟达当前市盈率已降至17倍以下，约为2025年水平的一半，也明显低于今年5月逾25倍的水平。与此同时，半导体板块整体表现强劲，费城半导体指数今年以来累计涨幅接近76%，而英伟达同期涨幅约20%，在指数成分股中排名倒数第五。&lt;/p&gt;
+&lt;p&gt;在本月早些时候的高盛科技大会上，英伟达首席执行官黄仁勋谈及公司的市场定位。&lt;strong&gt;他称英伟达是“全球首只也是唯一一只成长型价值股”，并表示公司“被严重误解”。从近期估值和股价表现来看，投资者仍在关注英伟达当前的盈利水平能否延续。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+基本面依然强劲，估值持续承压
+&lt;p&gt;从财务数据来看，英伟达的增长势头仍然较强。&lt;strong&gt;公司营收预计在截至明年1月的2027财年同比增长90%，净利润增幅预计达到99%，均高于上一财年65%的增速。&lt;/strong&gt;在上月公布的第二季度财报中，英伟达还预计2028财年销售额将增长70%，明显高于此前市场预期的45%。&lt;/p&gt;
+&lt;p&gt;但强劲的业绩预期并未对应股价的同步上涨。英伟达今年以来上涨约22%，苹果同期涨幅约25%，而英特尔和超微半导体同期涨幅均超过180%。&lt;/p&gt;
+&lt;p&gt;TCW主题股票及持久增长股票高级投资组合经理Eli Horton表示，估值的大幅下降反映出市场对英伟达当前盈利水平能否持续存在一定疑问。&lt;strong&gt;“考虑到基本面如此强劲，股价表现令人意外，但这说明市场预期仍低于当前分析师共识。”&lt;/strong&gt;&lt;/p&gt;
+毛利率面临压力，竞争格局也在变化
+&lt;p&gt;除了估值变化，盈利能力本身也受到市场关注。据彭博汇编的分析师平均预测，&lt;strong&gt;英伟达第二季度毛利率约为75%，预计到第四季度将降至72%以下，此后才有望逐步回升。内存芯片等关键零部件成本上涨，是毛利率面临压力的因素之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TradeStation全球市场策略主管David Russell认为，毛利率变化是影响英伟达估值的重要因素之一。同时，客户自研芯片也可能改变竞争格局。Meta Platforms和Alphabet均在推进自研AI芯片，一些大型客户也在寻求降低对英伟达的依赖。&lt;/p&gt;
+&lt;p&gt;Russell表示，&lt;strong&gt;随着客户增加替代方案，英伟达的市场份额和定价能力可能面临一定压力，这也使其毛利率能否进一步改善存在不确定性。他认为&lt;/strong&gt;，估值倍数能否重新扩张，将取决于公司未来盈利增长以及竞争格局的变化。&lt;/p&gt;
+AI资本开支仍是关键变量，短期放缓信号尚不明显
+&lt;p&gt;市场对英伟达前景的另一项关注来自AI基础设施投资。随着数据中心建设规模扩大，市场开始关注当前较高水平的AI资本开支能否持续，高利率环境也增加了相关投资的资金成本。&lt;/p&gt;
+&lt;p&gt;本月早些时候，部分AI领域人士呼吁放缓最先进AI模型的开发，一度引发半导体板块调整，费城半导体指数9月14日单日跌幅接近6%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，目前尚未出现AI基础设施投资明显放缓的信号。&lt;/strong&gt;Meta旗下新款AI智能体早期表现积极，也使市场对AI芯片需求的预期有所改善，推动费城半导体指数周一上涨4.3%，创8月4日以来最大单日涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Horton认为，&lt;strong&gt;英伟达当前的估值已经反映了一部分AI资本开支放缓的预期。进一步验证这一担忧，需要看到超大规模云厂商明显削减资本开支，或者监管政策出现较大变化，而目前尚未出现这两方面的明显变化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去四年，英伟达股价累计涨幅超过1600%，公司一度成为全球市值最高的企业。与此同时，其营收也从2023财年的约270亿美元增长至2027财年预计的约4100亿美元。随着英伟达成为AI投资周期中最具代表性的公司之一，其盈利增长、毛利率变化以及客户需求也持续受到市场关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”</title><link>https://wallstreetcn.com/articles/3782318</link><guid>a2a3459aee4a6350cdaf0535f5c77ca973601cdc003f18ef654804accdabfd46</guid><pubDate>Tue, 22 Sep 2026 20:10:01 GMT</pubDate><description>&lt;p&gt;美联储里士满联储主席Tom Barkin周二警告称，通胀冲击的消退不会一蹴而就，当前高企的通胀水平存在向未来预期传导并形成固化的风险。&lt;/p&gt;
+&lt;p&gt;Barkin在巴尔的摩发表的演讲中表示，美联储上周的加息举措有助于压制通胀，但他未就是否需要进一步收紧政策明确表态。他强调，供给侧冲击已不再是一次性或暂时性事件，经济体内的价格压力具有持续性。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;这些压力或许终将消退，但我预计需要一段时间，在此期间，当前高企的通胀水平可能影响未来的通胀走势。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Barkin今年在联邦公开市场委员会（FOMC）不具投票权。关于后续政策路径，他表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;将通胀可持续地压回2%目标，是我们的承诺。上周的加息将有所帮助。&lt;strong&gt;至于是否还需要进一步加息，以及加多少，我们将视情况而定。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+两种情景并存，前景不确定性犹存
+
+&lt;p&gt;Barkin就通胀走势描绘了两种路径。&lt;/p&gt;
+&lt;p&gt;乐观情景下，近期冲击逐步消退，价格压力迅速降温——消费者支出触及上限、投资放缓、就业市场出现松动，均可能加速这一进程。&lt;/p&gt;
+&lt;p&gt;悲观情景下，通胀可能更为顽固。Barkin指出，暂时性冲击可能拖延，新的成本压力可能涌现，需求端的持续强劲以及当前通胀本身的二次传导效应，都可能进一步推高价格。&lt;/p&gt;
+&lt;p&gt;供给冲击不再是一次性事件，是Barkin演讲的核心判断。他认为，这正是通胀压力在整个经济体中持续蔓延的深层原因。&lt;/p&gt;
+
+经济基本面仍具韧性
+
+&lt;p&gt;尽管通胀前景充满不确定性，Barkin对经济整体形势持相对乐观的态度。&lt;strong&gt;&amp;quot;经济和劳动力市场仍站稳脚跟，&amp;quot;他表示，&amp;quot;我们从企业那里听到的反馈是，经济状况如果有什么变化的话，是在进一步走强。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美联储官员上周投票一致通过加息决定，这是三年多来的首次，联邦基金利率目标区间升至3.75%至4%。官员们对通胀问题的担忧持续上升——通胀已连续五年半未能回落至2%的政策目标，部分官员明确警示价格压力的持续性。&lt;/p&gt;
+&lt;p&gt;在上周决议发布的最新利率点阵图中，官员中位数预测显示年内还将有一次加息。2027年的中位数预测指向基准利率不再进一步上调，但有八位官员认为届时利率将比当前水平高出50个基点，官员内部的分歧依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
