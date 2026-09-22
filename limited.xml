@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 14:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 15:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;阿里巴巴CEO吴泳铭在大会上提出2032年将数据中心总功耗扩张至20GW的目标，较2022年扩大约10倍。这一表态被三家投行视为本次大会最具增量价值的信息，直接触发了各方对云收入长期天花板的重新测算。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;花旗认为，20GW目标可对应2033财年约1600亿美元的外部云收入，较其此前对2031财年1000亿美元的预测增加约600亿美元；瑞银则基于不同假设，将同一目标对应的2032年外部云收入测算为约1700亿美元，两者均隐含约40%的年复合增长率。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -158,107 +158,7 @@ AI应用掀涨停潮
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;消息面，阿里巴巴CEO吴泳铭在云栖大会表示，当前客户AI需求非常强劲，将全力投入AI基础设施建设，目标到2032年阿里云运营的全球数据中心规模超过20GW。平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。据悉，平头哥AI芯片的年出货量将大幅提升。&lt;/p&gt;
 &lt;p&gt;腾讯周二在一份声明中表示，Hy Image 3.5 Preview模型在性能上较其前代产品有所提升，目前正被整合到腾讯的各项产品中，包括元宝以及视频编辑和设计工具。&lt;/p&gt;
-&lt;p&gt;此次发布表明，腾讯正加速探索文本以外的应用领域，同时致力于实现其愿景，即为微信生态系统中超过10亿的用户构建能够执行各项任务的AI。Meta推出智能体Muse本周一举跃居移动应用商店下载榜首，凸显出市场对代理AI的兴趣，此类AI能够为用户量身定制内容，并帮助他们完成购物、叫车等任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Semianalysis硬核拆解：AI回答你一句话，背后发生了什么</title><link>https://wallstreetcn.com/articles/3782261</link><guid>6cfac6b86b02adbc163fe14fa1f4162c7ed05a3c9d1f653f4dd3da62db62245a</guid><pubDate>Tue, 22 Sep 2026 03:11:44 GMT</pubDate><description>&lt;p&gt;当你向AI提问并收到回复，这个看似瞬间完成的交互背后，是一套横跨计算、存储、内存与网络调度的复杂工业体系。&lt;/p&gt;
-&lt;p&gt;9月22日，研究机构SemiAnalysis发布深度技术报告，系统拆解了大模型推理服务的底层架构。从用户发出请求到AI生成每一个token，每个环节如何运作、哪里是瓶颈、什么样的硬件在什么阶段真正创造价值。&lt;/p&gt;
-&lt;p&gt;报告指出，推理服务并非一个整体，而是由&lt;strong&gt;预填充（Prefill）&lt;/strong&gt;、&lt;strong&gt;中间填充（Midfill）&lt;/strong&gt;、&lt;strong&gt;解码注意力（Decode Attention）&lt;/strong&gt;和&lt;strong&gt;解码专家（Decode Experts）&lt;/strong&gt;四个工作阶段构成的&amp;quot;Token工厂&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这一分析框架对于理解AI基础设施竞争的核心逻辑具有重要参考价值。每个阶段对算力、内存带宽和网络的需求截然不同，混同处理将损失混合专家（MoE）模型架构的结构性优势。&lt;/p&gt;
-&lt;p&gt;报告以英伟达Blackwell系列GPU为案例进行推演，其结论对硬件设计者、云服务商和模型部署方均具有直接指导意义。&lt;/p&gt;
-
-&amp;quot;专家工厂&amp;quot;的诞生：MoE改变了什么
-
-&lt;p&gt;过去，我们讨论大模型，习惯用参数量说话——千亿、万亿，数字越大越震撼。但MoE的出现，让这种比较方式变得苍白。它真正改变的，不再是参数的总量，关键是哪些参数在哪个时刻被激活。&lt;/p&gt;
-&lt;p&gt;具体来说：每次处理一个词元Token（可以简单理解为一个词或一个字），MoE模型不会让全部参数都参与计算。它有一个&amp;quot;路由器&amp;quot;，会为每个Token精准定位出少数几个最合适的&amp;quot;专家模块&amp;quot;，让这些专家各司其职，处理完再把结果汇总。&lt;/p&gt;
-&lt;p&gt;这就好比一家超级医院，每个病人进门不是被所有科室的医生轮流问诊，而是智能分诊系统直接把他送到最对口的两三位专科医生面前。&lt;/p&gt;
-&lt;p&gt;这个机制带来了一系列连锁反应：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;哪些数据必须&amp;quot;住&amp;quot;在离计算最近的地方，发生了根本变化；&lt;/li&gt;
-&lt;li&gt;内存、带宽、存储的价值权重，被彻底重新排列；&lt;/li&gt;
-&lt;li&gt;调度系统的复杂度，从线性增长变成了指数级跃迁。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;换句话说，MoE让整个推理系统变成了一座需要精密协调的&amp;quot;智能工厂&amp;quot;。&lt;/p&gt;
-
-
-推理服务是一座分工明确的流水线工厂
-
-
-&lt;p&gt;SemiAnalysis报告指出，AI推理服务是一个由多个专用工作节点池构成的循环系统，而非运行在单一服务器上的程序。&lt;/p&gt;
-&lt;p&gt;用户或其代理发出请求后，&lt;strong&gt;调度层&lt;/strong&gt;（如英伟达Dynamo或Mooncake）将其放入队列，分配给输入&lt;strong&gt;填充工作节点&lt;/strong&gt;处理。该节点负责将用户输入连同历史对话状态转化为新的上下文，再交由&lt;strong&gt;解码工作节点&lt;/strong&gt;反复读取已积累的状态、逐步生成回答token。&lt;/p&gt;
-&lt;p&gt;在智能体（Agent）场景下，这一流程还会与工具调用、外部搜索等环节交织，形成每小时可达数千次的对话轮次。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（推理服务中模型阶段的概述）&lt;/p&gt;
-&lt;p&gt;每一轮对话产生的&amp;quot;记忆&amp;quot;，在系统内部以一种叫做KV状态的形式存储。这些状态被设计成不可变的数据块（blob），像区块链账本上的记录一样，一旦生成便不再修改，只会不断追加。&lt;/p&gt;
-&lt;p&gt;（预填充和中间填充与 KV 缓存边界处紧密耦合的解码环路分离）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为什么要这样设计？因为AI对话天然是因果推进的——后一句话的理解，依赖于前面所有内容的积累。不可变结构，完美契合了这种单向流动的特性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更炫技的是这套存储的层级设计：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;最高频调用的实时数据&lt;/strong&gt;（当前正在计算的上下文）住在GPU的HBM（高带宽内存）里，这里是寸土寸金的&amp;quot;黄金地段&amp;quot;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;次高频的中间态数据&lt;/strong&gt;（刚完成的对话轮次）被迅速转移到CPU的DRAM，进行中转暂存；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;低频沉淀的历史数据&lt;/strong&gt;则被推入SSD或网络存储池，等待被召唤。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（KV 数据块在存储和工作内存中移动）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这套动态分级，让昂贵的HBM永远只服务于&amp;quot;正在赚钱的数据&amp;quot;，而不是白白浪费在存档上。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告引用SemiAnalysis AgentX数据集的真实追踪数据显示，智能体对话过程中上下文的增长速度极快，但也会因压缩等模型行为产生大幅波动。边界模型供应商的领先AI公司被观察到正在反复压缩上下文以维持在百万Token限制之内。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在成本结构上，报告明确指出，HBM比DDR内存贵出数倍且供应受限，频繁复用的通用数据块（如系统提示）应保留在共享CPU内存或近端缓存设备中，而非占用昂贵的HBM资源。&lt;/strong&gt;&lt;/p&gt;
-
-四个工作阶段，对硬件的需求天差地别
-&lt;p&gt;SemiAnalysis报告最核心的贡献之一，是将推理过程细分为四个截然不同的计算区间，并指出将它们作为同一工作负载处理会造成严重的效率损失。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;预填充（Prefill）&lt;/strong&gt;对应用户首次发起请求的场景，模型需要处理一整批新token。由于大量token共享权重加载，矩阵运算效率高，算术强度高，通常受计算能力约束，而非内存带宽。&lt;/p&gt;
-
-&lt;p&gt;（通过 MoE 预填充层的流程）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;中间填充（Midfill）&lt;/strong&gt;在智能体工作流中日益重要。它在已有的长缓存前缀基础上追加少量新token——前缀可能已达数十万token，而新输入仅有数百至数千token。这一阶段兼具解码阶段的大规模KV状态读取和预填充阶段的权重复用特性，算术强度可达单token解码的数百倍，但缓存状态的流量也远超同等规模的初始预填充。&lt;/p&gt;
-&lt;p&gt;（Midfill 将解码的缓存状态读取与足够的新标记相结合，以批量处理模型和专家工作）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;解码注意力&lt;/strong&gt;是生成回答token的核心环节，每次前向传播仅处理一个或少数几个token。随着上下文长度增长，注意力读取的数据量甚至可以超过模型权重本身的大小——在长上下文场景下，注意力是现代解码过程中最重的内存操作之一，尽管大多数模型参数实际上位于专家层。&lt;/p&gt;
-&lt;p&gt;（通过一个 MoE 解码层的流程）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;解码专家（Decode Experts）&lt;/strong&gt;是MoE架构特有的环节。路由器根据当前token的激活值，从庞大的专家库中选取少数几个专家执行计算。专家权重不携带任何查询历史，仅依赖当前激活，这使其可以在更广泛的GPU范围内分布部署。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这四道工序的神奇之处在于：它们对硬件的需求截然不同。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;预填充是计算密集型的，中间填充是计算与内存的双重考验，而解码则几乎完全被内存带宽所主宰。把它们混为一谈，就像让短跑运动员和马拉松选手用同一套训练方案，必然是一场浪费。&lt;/strong&gt;&lt;/p&gt;
-
-内存带宽比内存容量更值钱
-
-&lt;p&gt;报告专门辟节讨论内存带宽与内存容量的经济权衡，得出一个对硬件设计和采购决策具有反直觉意义的结论：&lt;strong&gt;在许多推理场景下，带宽比容量更能创造收益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据在被处理时创造收益，在内存中闲置时只产生成本。&lt;/strong&gt;一块内存吞吐极高的加速器，即便容量较小，其生成token的速率也可能超过低带宽高容量配置。&lt;/p&gt;
-&lt;p&gt;在达到&amp;quot;够用&amp;quot;的容量门槛之前，每增加一份内存都能显著提升收益；越过这个门槛后，曲线逐渐走平，继续堆容量的边际效益越来越低，最终可能变成一种浪费。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（每台机器的收入与本地快速内存容量的关系）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报告给出了一个2027年的实用设计基准：以每token约70KB的KV状态、200万token的聚合活跃上下文计算，单个流水线阶段的KV状态需求约为140GB，加入双缓冲后接近280GB；再叠加模型权重、激活值、路由表和运行余量，单阶段约需400至500GB的本地快速内存。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一基准同时说明，加速器HBM（高带宽内存）的最优用途是承载当前正在赚取收益的活跃批次数据。已完成处理的KV数据块应及时迁移至CPU DRAM，再转入更廉价的网络附加存储。将昂贵的HBM用于存储闲置上下文，是对稀缺资源的低效使用。&lt;/p&gt;
-
-调度稳定性决定工厂级吞吐效率
-
-&lt;p&gt;即便硬件配置完善，推理服务的实际效率在很大程度上取决于调度层的设计质量。报告特别警告了一种在大规模推理集群中容易出现的系统性风险：&lt;strong&gt;延迟反馈震荡（retirement-gated oscillation）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;首先要承认一个现实，预填充和中间填充是可预测的，只要知道输入长度和缓存大小，处理时间就能被精确估算。但解码是随机的，没有人知道模型什么时候会输出终止符号，一个回答可能3句话结束，也可能写出一篇论文。&lt;/p&gt;
-&lt;p&gt;这种不对称，给调度系统带来了巨大挑战。如果解码速度变慢（比如某个超长回答还没写完），后续的Prefill请求就会积压，整个流水线开始拥堵。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;更糟糕的是，一旦出现延迟，系统可能过度补偿，突然放入大量新任务，导致新一轮拥堵。这是经典的延迟反馈震荡，就像交通信号灯控制失当时的道路潮汐现象。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;工程师们的解法充满智慧：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在各个阶段之间设置&amp;quot;就绪缓冲区&amp;quot;，让预填充完成的结果先在缓冲区等待，而不是直接堵在解码入口；&lt;/li&gt;
-&lt;li&gt;平滑化入场控制，不根据单次请求的完成情况来决定下一批任务的数量，而是观察整体积压趋势；&lt;/li&gt;
-&lt;li&gt;分层控制时间尺度：微秒级的硬件调度、毫秒级的Token流控制、秒级的缓冲管理、分钟级的工作节点重配置。绝对不能让慢变量去追快噪声。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（从延迟反馈震荡到稳定流动）&lt;/p&gt;
-&lt;p&gt;值得注意的是，高交互性和高利用率并不天然矛盾。只要调度系统足够聪明，完全可以在保持每个用户低延迟体验的同时，让机器整体保持高负荷运转。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关键在于，调度器要有足够的&amp;quot;视野&amp;quot;和足够快的&amp;quot;反应速度&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-
-聚合还是分离：一场没有标准答案的辩论
-
-&lt;p&gt;在推理系统的架构设计上，目前存在两种主流哲学的激烈交锋。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分离式（Disaggregated）架构主张让不同类型的工作节点各司其职&lt;/strong&gt;：专门为Prefill优化的机器，专门为Decode优化的机器，各自配置最适合自己工作模式的硬件。&lt;/p&gt;
-&lt;p&gt;Prefill机器可以更注重计算力，Decode机器可以更注重内存带宽。任务来了，调度器决定送到哪台机器，完成后搬走KV缓存，交接给下一台。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;聚合式（Aggregated）架构则主张一次对话的整个处理过程，尽量在同一台机器上完成。&lt;/strong&gt;好处是显而易见的，不需要在不同机器之间搬运动辄几十GB的KV缓存，没有网络传输的延迟和开销，专家层可以天然共享，调度器的决策也简单得多。&lt;/p&gt;
-&lt;p&gt;聚合式的软肋同样明显，一台机器需要同时擅长高强度计算（服务Prefill）和高带宽内存访问（服务Decode），而这两种能力在硬件设计上往往存在取舍。&lt;/p&gt;
-&lt;p&gt;如果一台机器在其中某方面有短板，它就会在对应的工作模式下&amp;quot;跑不满&amp;quot;，白白浪费算力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这场辩论的结论，取决于你能否造出那块&amp;quot;全能明星芯片&amp;quot;。 如果未来某款加速器能同时拥有极高的计算密度和极高的内存带宽，聚合式架构将获得压倒性优势。否则，分离式架构仍然是在现有硬件条件下最务实的选择。&lt;/strong&gt;&lt;/p&gt;
-
-实例分析：预测 Kimi K3 在 Blackwell 系统上的性能
-
-&lt;p&gt;报告通过SemiAnalysis推理模拟器，对Kimi K3模型在B200、B300与GB200系统上采用16至64块GPU的不同配置进行了性能投影，覆盖交互延迟、吞吐量、能耗与内存占用四个维度。需要说明的是，这些均为工作负载与硬件的模拟预测，并非实测基准数据。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在解码阶段&lt;/strong&gt;，GB200在延迟-吞吐权衡曲线的大部分区间表现领先，B200和B300亦提供具竞争力的配置点。最低延迟配置通常结合流水线与张量并行；而吞吐量导向的配置则倾向于每GPU单个注意力实例，不采用张量或流水线并行，同时保持尽可能宽的专家并行度。&lt;/p&gt;
-&lt;p&gt;（解码、中间填充和预填充的预计交互性和吞吐量边界。来源：SemiAnalysis 推理模拟器）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在中间填充阶段&lt;/strong&gt;（127k缓存输入Token加1k新Token追加），GB200凭借NVL72架构将扩展带宽延伸至整个机架，在低首Token延迟区间领先；B300在吞吐量导向端追平差距。B200与B300通常采用PP=4配置，将专家全对全通信限制在节点内部的NVLink网络。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内存占用方面&lt;/strong&gt;，投影结果显示大多数前沿配置的每GPU HBM峰值驻留量维持在80GB以下，支持了报告的核心论点：相较于最大化每块加速器的HBM容量，带宽管理与存储编排往往具有更高的经济价值。&lt;/p&gt;
-&lt;p&gt;（模拟边界上每个 GPU 的 HBM 峰值驻留时间预测。来源：SemiAnalysis 推理模拟器）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;能耗分析方面&lt;/strong&gt;，解码阶段因每个查询需约1000次模型前向传播而成为最大能耗来源；中间填充阶段因仅需对现有长上下文追加短序列，反而是能耗最低的模式。&lt;/p&gt;
-&lt;p&gt;（ 相同解码、中间填充和预填充边界下每次查询的预计能量。来源：SemiAnalysis 推理模拟器）&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 软银借道债市为AI帝国输血，垃圾债市场迎来历史级考验</title><link>https://wallstreetcn.com/articles/3782300</link><guid>3165cc8f5f1a792e7d805d5f030ff6caa78778bf4db81f95c5f9f0ec2138b5b6</guid><pubDate>Tue, 22 Sep 2026 11:00:35 GMT</pubDate><description>&lt;p&gt;软银大规模债券发行，正成为债市检验投资者AI投资热情与风险承受能力的一场关键测试。&lt;/p&gt;
+&lt;p&gt;此次发布表明，腾讯正加速探索文本以外的应用领域，同时致力于实现其愿景，即为微信生态系统中超过10亿的用户构建能够执行各项任务的AI。Meta推出智能体Muse本周一举跃居移动应用商店下载榜首，凸显出市场对代理AI的兴趣，此类AI能够为用户量身定制内容，并帮助他们完成购物、叫车等任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 软银借道债市为AI帝国输血，垃圾债市场迎来历史级考验</title><link>https://wallstreetcn.com/articles/3782300</link><guid>3165cc8f5f1a792e7d805d5f030ff6caa78778bf4db81f95c5f9f0ec2138b5b6</guid><pubDate>Tue, 22 Sep 2026 11:00:35 GMT</pubDate><description>&lt;p&gt;软银大规模债券发行，正成为债市检验投资者AI投资热情与风险承受能力的一场关键测试。&lt;/p&gt;
 &lt;p&gt;9月22日，据彭博援引知情人士透露，&lt;strong&gt;软银集团此次债券发行已吸引逾200亿美元的初步投资意向，有望跻身史上规模最大的垃圾债交易之列。此次发行募资将主要用于支持软银对OpenAI的巨额投资，投资者正争相锁定可能创下纪录的高收益率。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上述需求仅代表投资者早期、非约束性的认购意向，主要作为正式定价前的参考，最终定价预计于周四完成。&lt;strong&gt;此次发行规模超110亿美元，包括100亿美元美元债和10亿欧元（约合11亿美元）欧元债。软银方面表示，交易进展顺利、需求强劲，但目前暂无扩大规模的计划。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次交易正值全球市场借贷成本普遍上升、AI前景与风险持续引发市场波动之际，其最终定价及市场反应，也将成为观察投资者对AI资产信心的重要窗口。&lt;/p&gt;
@@ -575,20 +475,7 @@ HBM之后，存储战场的真正竞争者是闪存
 &lt;p&gt;非常对。好的，Mr. Bubble，非常感谢你来参加节目。非常有趣。感谢你陪我聊天，并分享了你的独家见解。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mr. Bubble：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当然。谢谢你，Logan。感谢你邀请我。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
-&lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
-&lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-2.5MW覆盖核心机架需求，认证有望提升项目竞争力
-&lt;p&gt;此次认证的一个重要意义，在于2.5兆瓦CDU的容量与英伟达AI工厂的机架级功耗需求较为匹配。&lt;/p&gt;
-&lt;p&gt;据报道，AI工厂中单个服务器机架的功耗约为120千瓦，20个机架合计功耗约2.4兆瓦，接近单台2.5兆瓦CDU的覆盖能力。&lt;strong&gt;因此，在面向这一功率等级的AI数据中心项目中，获得认证的产品有望具备更直接的技术适配性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LG电子并非只有2.5兆瓦这一款产品。此前，其600千瓦和1兆瓦CDU产品也已获得其他数据中心相关认证，可以覆盖不同规模的数据中心冷却需求，逐步形成从中小功率到大型AI数据中心的产品矩阵。&lt;/p&gt;
-以CDU为核心，LG电子加码液冷全链条
-&lt;p&gt;CDU是LG电子AI数据中心液冷方案的核心设备，主要负责冷却液循环和热量交换，将GPU等高功耗芯片产生的热量带走。&lt;/p&gt;
-&lt;p&gt;围绕CDU，LG电子还在推进冷水机组（chiller）、计算机机房空气处理单元（CRAH）以及直接接触芯片进行散热的冷板（cold plate）等产品和技术，试图从单一设备进一步延伸至完整的液冷解决方案。&lt;/p&gt;
-&lt;p&gt;市场研究机构TrendForce预计，AI数据中心液冷解决方案采用率将从2024年的14%提升至2025年的60%。&lt;strong&gt;随着AI服务器功耗持续提升，液冷在数据中心中的应用范围也在扩大，为LG电子扩大相关业务提供了市场基础。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LG电子ES业务部门负责人Lee Jae-sung表示，公司将以此次英伟达DSX认证为起点，向全球大型科技公司提供更加可靠、高效的冷却解决方案，并计划在下一代液冷市场确立领先地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，美股高开，纳指涨0.3%创新高，美油跌幅收窄至2%，黄金走低</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 13:41:41 GMT</pubDate><description>&lt;p&gt;AI投资热潮再度升温，美股指走高，同时油价回落缓解市场对能源冲击的担忧，地缘局势仍是市场关注焦点。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，美股高开，纳指涨0.3%创新高，美油跌幅收窄至2%，黄金走低</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 13:41:41 GMT</pubDate><description>&lt;p&gt;AI投资热潮再度升温，美股指走高，同时油价回落缓解市场对能源冲击的担忧，地缘局势仍是市场关注焦点。&lt;/p&gt;
 &lt;p&gt;周二，美股小幅高开，道指涨0.49%，标普500指数涨0.09%，纳指涨0.19%。纳斯达克综合指数盘初涨幅扩大至0.34%，续刷记录新高。苹果美股盘初一度涨超1.7%，突破历史新高。WTI原油日内一度下跌3.0%至89.55美元/桶，随后跌幅收窄至2%。&lt;/p&gt;
 &lt;p&gt;市场受到霍尔木兹海峡可能重新开放的消息提振。据CCTV国际时讯援引路透社今天（9月22日）报道，一名伊朗高级官员告诉该媒体，如果美国减轻军事压力并解除对伊朗的海上封锁，伊朗可以在7天之内重新开放霍尔木兹海峡。日本共同社亦援引同一消息源作出类似报道。不过，伊朗方面随后传出不同说法。据伊朗法尔斯通讯社援引消息人士报道，关于霍尔木兹海峡重新开放协议的相关报道并不属实。&lt;/p&gt;
 &lt;p&gt;此外，Meta旗下新一代AI智能体Muse的推出重新点燃市场对AI应用的热情，成为推动科技股走强的重要因素。&lt;/p&gt;
@@ -658,4 +545,74 @@ Muse爆款逻辑：从聊天到交付的范式跃迁
 &lt;p&gt;中金研报引入产品创新周期框架，将2C Agent的发展划分为四个阶段：探索期（技术效果与成本均未达阈值）、过渡创新期（技术效果达阈值但成本仍高）、全能创新期（效果与成本双双突破阈值）、强者恒强期（技术曲线趋于平缓）。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;报告以黑莓与iPhone的历史路径为参照：过渡创新期对应黑莓聚焦企业邮件、削减非核心功能的打法，黑莓营收由2004年的6亿美元增至2011年高点200亿美元；全能创新期则对应iPhone的多合一融合，对过渡式产品形成生态碾压。&lt;/p&gt;
-&lt;p&gt;中金研报认为，AI模型能力持续精进、Token算力成本下行，是当前确定性较高的因素；更难把握的是用户对Agent解决任务的错误容忍率、对既有习惯的迁移意愿，以及用户成本阈值。基于此，2C Agent存在两种发展情形：其一是先经历过渡创新阶段，从泛办公刚需切入后逐步延伸至综合场景；其二是技术与成本曲线同步快速下行，直接跨越过渡期进入全能创新阶段——届时，坐拥分发优势与生态深度的Meta、腾讯等巨头将率先受益。中金研报强调，从过渡阶段到全能阶段的间隔越短，互联网巨头越占优势；反之，创业公司则有更多时间构筑壁垒。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;中金研报认为，AI模型能力持续精进、Token算力成本下行，是当前确定性较高的因素；更难把握的是用户对Agent解决任务的错误容忍率、对既有习惯的迁移意愿，以及用户成本阈值。基于此，2C Agent存在两种发展情形：其一是先经历过渡创新阶段，从泛办公刚需切入后逐步延伸至综合场景；其二是技术与成本曲线同步快速下行，直接跨越过渡期进入全能创新阶段——届时，坐拥分发优势与生态深度的Meta、腾讯等巨头将率先受益。中金研报强调，从过渡阶段到全能阶段的间隔越短，互联网巨头越占优势；反之，创业公司则有更多时间构筑壁垒。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当模型开始“够用”，AI的下一场战争打什么？</title><link>https://wallstreetcn.com/articles/3782278</link><guid>803310da9b45bbec7adf818c5993e67e207a362922714b0fc526c49a86f26bff</guid><pubDate>Tue, 22 Sep 2026 04:19:23 GMT</pubDate><description>&lt;p&gt;9月21日，Meta收涨超11%，创去年4月以来最大单日涨幅，市值单日增加超1900亿美元。&lt;/p&gt;
+&lt;p&gt;行情的导火索是Meta近期推出的个人智能体Muse。Sensor Tower数据显示，应用上线六天它在美国iOS累计下载超90.2万次，远超Meta上一代产品的数据表现；到周一，Muse同时坐在美国iOS与Google Play免费榜第一，把ChatGPT挤了下去。&lt;/p&gt;
+&lt;p&gt;市场为Muse的大热疯狂买单。科技分析师Ben Thompson在文章《Frontier Overhangs》中评价道：&lt;strong&gt;“Muse Spark 1.3并非最顶尖的模型，但这正是值得警惕的信号——一个并不领先的模型，已经足够支撑一款极具粘性的个人Agent产品。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thompson认为，当下前沿模型能力已经出现“过剩”，模型能力不再是AI企业最重要的护城河，下一个赛点或许是“应用时刻”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;模型能力跨过临界点之后，AI竞争的重心正在发生位移。&lt;strong&gt;从C端的Meta Muse到B端的腾讯WorkBuddy，一个共同信号浮现：决定产品价值的，越来越不是模型本身，而是Harness、工作流与用户入口的控制权。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9月22日，腾讯呼应了隔夜Meta的涨势，早盘港股跳涨超6%，盘中最高463.40港元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，咨询机构和风险资本的研究正在从不同维度验证同一判断。Gartner警告，到2030年，高达2340亿美元的企业软件支出面临“Agent套利”风险；a16z明确建议&lt;strong&gt;AI应用公司停止按Token定价，转向按结果收费&lt;/strong&gt;；ICONIQ调研的300余家AI软件公司数据显示，&lt;strong&gt;应用层已成为行业建设重心&lt;/strong&gt;，AI产品毛利率正从2025年的45%向2026年预计53%攀升。&lt;/p&gt;
+&lt;strong&gt;“应用时刻”将临？&lt;/strong&gt;
+&lt;p&gt;Thompson提出了一个关键概念：当前沿模型的能力持续提升，但实际产品和用户场景对模型能力的消化速度跟不上时，就会出现“frontier overhang”——模型能力过剩。&lt;/p&gt;
+&lt;p&gt;他援引了一个具体案例：AI叙事游戏公司Fable推出了新一代模型，但市场需求反应平淡。这不是因为产品质量差，而是因为现有模型能力对于该场景已经“够用”，更强的模型并未带来用户可感知的体验提升，自然也就无法转化为更高的付费意愿或更大的市场份额。&lt;/p&gt;
+&lt;p&gt;Thompson认为，性能还不够用时，谁把模型和应用层（harness）绑得紧谁赢；&lt;strong&gt;一旦越过“够用”那条线，客户开始在意上市速度、便利、定制、数据怎么处置，模块化就占便宜了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个细节具有指示意义。它说明，在某些场景下，模型能力的边际价值正在递减。&lt;strong&gt;当“更强的模型”不再等于“更好的产品体验”，模型层的竞争优势就开始与应用层的商业价值脱钩。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thompson进一步指出，在这种背景下，真正重要的是“应用层（harness）”——即如何将模型能力有效地组织、调度和封装，使其能够在具体场景中稳定、可靠地完成任务。模型是引擎，Harness是传动系统。没有后者，前者的马力再大也无法有效输出。这一框架，为理解Meta Muse和腾讯WorkBuddy的产品逻辑提供了清晰的坐标。&lt;/p&gt;
+C端：Meta Muse的产品赌注
+&lt;p&gt;Meta推出Muse，是一次典型的“应用层押注”。根据Meta官方介绍，Muse定位为个人AI Agent，其底层模型为Muse Spark 1.3，&lt;strong&gt;但产品的核心卖点并不是模型参数规模或基准测试成绩，而是Agent能够实际完成任务的能力——帮用户制定计划、执行步骤、追踪进度，在用户的日常生活场景中真正“干活”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一定位的背后，是Meta对AI产品竞争格局的一个判断：在模型能力已经相对充裕的当下，用户真正稀缺的不是“更聪明的模型”，而是“能帮我把事情做完的工具”。Muse试图成为用户的个人执行层，而不仅仅是一个问答界面。&lt;/p&gt;
+&lt;p&gt;更进一步看，Muse的产品重心，实际上将C端Agent的突破口从“模型是否足够聪明”，转向了“用户能否放心交付任务、产品能否连接真实事务”。Muse Spark系列模型帮助Meta补上了基础能力，但决定Agent能否进入用户日常生活的，并不只是推理和生成能力，还包括授权、信任与执行链路。为此，Muse将独立运行环境、凭据保护和关键动作审批纳入产品设计，以建立清晰的授权边界；同时结合长期记忆与后台执行能力，让Agent能够围绕用户目标持续推进任务，而非止步于一次性的问答或指令响应。&lt;/p&gt;
+&lt;p&gt;从商业逻辑看，这种设计有其深意。&lt;strong&gt;个人Agent一旦深度嵌入用户的日常工作流，就会积累大量个人数据、偏好和使用习惯，形成难以迁移的用户粘性。这种粘性，才是真正意义上的护城河——而不是某个特定版本的模型能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场对Muse发布的积极反应，在一定程度上印证了这一逻辑：投资者对“能用”的Agent产品的兴趣，已经超过了对“更强”模型的关注。&lt;/p&gt;
+B端：腾讯WorkBuddy的企业路径
+&lt;p&gt;在企业端，腾讯WorkBuddy呈现出相似的产品逻辑。根据腾讯云官方介绍，WorkBuddy企业版的核心能力不在于提供一个通用聊天界面，而在于能够连接企业内部的各类系统和流程，跨平台执行工作任务，将AI能力真正嵌入企业的日常运营。&lt;/p&gt;
+&lt;p&gt;这代表着企业AI从“工具”向“执行层”的一次关键跃迁。过去，企业购买AI产品，本质上是购买一个更智能的搜索或问答工具；而WorkBuddy所代表的方向，是让AI成为能够主动发起、执行和完成工作任务的Agent，直接参与业务流程。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这一转变的商业含义同样深远。当AI能够跨越多个软件系统完成任务，传统企业软件的“功能价值”就面临直接挑战。Gartner在2026年7月的报告中明确指出，Agentic AI的兴起使高达2340亿美元的企业应用软件支出面临风险——因为Agent可以绕过或替代原本需要多个独立软件才能完成的工作流程，传统软件的“功能护城河”可能因此被侵蚀。&lt;/p&gt;
+&lt;p&gt;对于企业软件公司而言，这是一个需要认真对待的结构性压力。&lt;/p&gt;
+商业价值的重新定价：从Token到结果
+&lt;p&gt;模型能力的&amp;quot;够用化&amp;quot;，正在推动AI商业模式发生根本性转变。&lt;/p&gt;
+&lt;p&gt;风险投资机构a16z在其报告《You are not a model. Don&amp;#x27;t price per token.》中直接点明了这一趋势：AI应用的真实价值，来自其所整合的数据、工具、工作流以及最终交付的可量化结果，而不是来自调用了哪个模型、消耗了多少Token。换言之，&lt;strong&gt;“卖模型能力”的定价逻辑正在让位于“卖结果”的定价逻辑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;a16z给出三种收费模式：卖模型访问，按 token 计价；把模型变成有用的工作，按客户认得出的价值单位计价，通常是积分；交付清晰可归因的业务结果，按结果计价。而受访的50位企业AI技术买家，27人偏好“和可辨认的工作量挂钩的积分”，14人偏好按token付费。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这对AI产业的价值链分布有直接影响。如果模型本身逐渐成为一种基础能力——类似于云计算早期的算力——那么真正能够捕获商业价值的，将是那些能够在模型之上构建出具体产品、垂直工作流和可验证ROI的应用层公司。&lt;/p&gt;
+&lt;p&gt;McKinsey在其报告《Where AI agents pay off》中提供了企业视角的佐证：随着Token成本持续下降，企业在评估AI投入时，关注的核心问题已经从“这个模型有多强”转向“这个Agent能带来多少可量化的效率提升和经济回报”。ROI的可验证性，正在成为企业AI采购决策的核心标准。&lt;/p&gt;
+&lt;p&gt;这意味着，AI应用公司需要回答的问题，已经从“我们用了什么模型”变成了“我们能帮客户省多少钱、提多少效”。&lt;/p&gt;
+产业格局：多模型时代的应用层竞争
+&lt;p&gt;ICONIQ在其《2026 State of AI Report》中对300多家AI软件公司进行了调查，结果揭示了一个清晰的产业趋势：接近三分之二的受访公司正在开发横向或垂直AI应用，多模型使用已经成为常态。&lt;/p&gt;
+&lt;p&gt;“多模型使用成为常态”这一数据，本身就是模型商品化趋势的有力注脚。当企业可以根据任务需求灵活切换不同模型，模型提供商的议价能力就会受到压制，而能够有效整合多模型、构建稳定工作流的应用层平台，反而获得了更强的议价地位。&lt;/p&gt;
+&lt;p&gt;ICONIQ的报告同时追踪了AI收入和毛利率的变化。这一数据维度的重要性在于：它将帮助市场判断，应用层的商业价值捕获是否真的在发生，还是仍停留在叙事层面。对于投资者而言，这是区分“AI应用故事”与“AI应用生意”的关键指标。&lt;/p&gt;
+&lt;p&gt;从产业结构看，当前正在形成的格局是：模型层（OpenAI、Anthropic、Google、Meta等）提供基础能力，应用层（各类垂直Agent和工作流平台）负责将能力转化为可交付的结果，而传统企业软件公司则面临被绕过或被替代的压力。这三层之间的价值分配，将是未来数年AI产业最值得持续观察的动态。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+传统SaaS的座席逻辑正在被穿透
+
+&lt;p&gt;如果Agent可以跨系统完成任务，企业员工就不必频繁进入每一个传统软件界面。软件仍在运行，但界面可能退到后台。&lt;/p&gt;
+&lt;p&gt;Gartner预计，到2030年，最高2340亿美元企业应用软件支出将面临Agentic AI带来的风险，约占企业应用SaaS支出的20%。&lt;/p&gt;
+&lt;p&gt;Gartner管理合伙人George Brocklehurst说：“Agentic AI改变了软件的经济逻辑。Agent系统直接交付结果，绕开重度依赖用户界面的应用，让软件变得不可见。”座席数量与软件收入增长之间的传统联系，可能因此被削弱。&lt;/p&gt;
+&lt;p&gt;压力首先落在依赖仪表盘、功能模块和座席授权收费的厂商身上。企业买家不会因为多了一个AI按钮就增加预算；他们会追问，Agent是否减少人工操作、是否缩短流程、是否提高转化率、是否降低单位成本。&lt;/p&gt;
+&lt;p&gt;但这不是传统SaaS的终结。拥有行业数据、客户关系、系统连接和业务流程控制权的厂商，仍可将自身重构为Agent执行层。风险在于守着界面收费，机会在于占住任务执行和结果交付的位置。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+模型领先，还能直接变现吗？
+&lt;p&gt;需要明确的是，上述分析并不指向“模型不重要”的结论。前沿模型能力仍然是整个AI产业的基础，没有足够强的模型，应用层的构建无从谈起。真正值得讨论的问题是：&lt;strong&gt;模型领先，是否还能直接转化为产品优势和商业价值？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从当前的证据看，这条转化路径正在变得更长、更复杂。Fable新模型需求不佳的案例说明，在某些场景下，更强的模型已经无法带来可感知的用户价值提升；Meta Muse和腾讯WorkBuddy的产品逻辑说明，头部科技公司已经在用“Harness应用层+工作流+用户入口”来构建差异化，而不是单纯依赖模型能力；a16z和McKinsey的研究说明，企业客户的付费逻辑正在从“模型能力”转向“可量化结果”。&lt;/p&gt;
+&lt;p&gt;这意味着，AI产业的竞争正在进入一个新阶段：模型能力是必要条件，但不再是充分条件。谁能把通用模型转化为具体的产品体验、稳定的工作流和可验证的商业回报，谁才能在下一阶段的竞争中真正占据有利位置。&lt;/p&gt;
+&lt;p&gt;而这一变化提示了一个值得重新审视的估值框架：在AI领域，模型参数规模和基准测试排名固然重要，但应用层的工作流深度、用户入口的粘性，以及ROI的可验证性，可能正在成为更具预测力的商业价值指标。当模型开始“够用”，下一场战争的战场，已经悄然转移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
+&lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
+&lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+2.5MW覆盖核心机架需求，认证有望提升项目竞争力
+&lt;p&gt;此次认证的一个重要意义，在于2.5兆瓦CDU的容量与英伟达AI工厂的机架级功耗需求较为匹配。&lt;/p&gt;
+&lt;p&gt;据报道，AI工厂中单个服务器机架的功耗约为120千瓦，20个机架合计功耗约2.4兆瓦，接近单台2.5兆瓦CDU的覆盖能力。&lt;strong&gt;因此，在面向这一功率等级的AI数据中心项目中，获得认证的产品有望具备更直接的技术适配性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LG电子并非只有2.5兆瓦这一款产品。此前，其600千瓦和1兆瓦CDU产品也已获得其他数据中心相关认证，可以覆盖不同规模的数据中心冷却需求，逐步形成从中小功率到大型AI数据中心的产品矩阵。&lt;/p&gt;
+以CDU为核心，LG电子加码液冷全链条
+&lt;p&gt;CDU是LG电子AI数据中心液冷方案的核心设备，主要负责冷却液循环和热量交换，将GPU等高功耗芯片产生的热量带走。&lt;/p&gt;
+&lt;p&gt;围绕CDU，LG电子还在推进冷水机组（chiller）、计算机机房空气处理单元（CRAH）以及直接接触芯片进行散热的冷板（cold plate）等产品和技术，试图从单一设备进一步延伸至完整的液冷解决方案。&lt;/p&gt;
+&lt;p&gt;市场研究机构TrendForce预计，AI数据中心液冷解决方案采用率将从2024年的14%提升至2025年的60%。&lt;strong&gt;随着AI服务器功耗持续提升，液冷在数据中心中的应用范围也在扩大，为LG电子扩大相关业务提供了市场基础。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LG电子ES业务部门负责人Lee Jae-sung表示，公司将以此次英伟达DSX认证为起点，向全球大型科技公司提供更加可靠、高效的冷却解决方案，并计划在下一代液冷市场确立领先地位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
