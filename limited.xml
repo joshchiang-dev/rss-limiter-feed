@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 03:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] Semianalysis硬核拆解：AI回答你一句话，背后发生了什么</title><link>https://wallstreetcn.com/articles/3782261</link><guid>6cfac6b86b02adbc163fe14fa1f4162c7ed05a3c9d1f653f4dd3da62db62245a</guid><pubDate>Tue, 22 Sep 2026 03:11:44 GMT</pubDate><description>&lt;p&gt;当你向AI提问并收到回复，这个看似瞬间完成的交互背后，是一套横跨计算、存储、内存与网络调度的复杂工业体系。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 03:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] Semianalysis硬核拆解：AI回答你一句话，背后发生了什么</title><link>https://wallstreetcn.com/articles/3782261</link><guid>6cfac6b86b02adbc163fe14fa1f4162c7ed05a3c9d1f653f4dd3da62db62245a</guid><pubDate>Tue, 22 Sep 2026 03:11:44 GMT</pubDate><description>&lt;p&gt;当你向AI提问并收到回复，这个看似瞬间完成的交互背后，是一套横跨计算、存储、内存与网络调度的复杂工业体系。&lt;/p&gt;
 &lt;p&gt;9月22日，研究机构SemiAnalysis发布深度技术报告，系统拆解了大模型推理服务的底层架构。从用户发出请求到AI生成每一个token，每个环节如何运作、哪里是瓶颈、什么样的硬件在什么阶段真正创造价值。&lt;/p&gt;
 &lt;p&gt;报告指出，推理服务并非一个整体，而是由&lt;strong&gt;预填充（Prefill）&lt;/strong&gt;、&lt;strong&gt;中间填充（Midfill）&lt;/strong&gt;、&lt;strong&gt;解码注意力（Decode Attention）&lt;/strong&gt;和&lt;strong&gt;解码专家（Decode Experts）&lt;/strong&gt;四个工作阶段构成的&amp;quot;Token工厂&amp;quot;。&lt;/p&gt;
 &lt;p&gt;这一分析框架对于理解AI基础设施竞争的核心逻辑具有重要参考价值。每个阶段对算力、内存带宽和网络的需求截然不同，混同处理将损失混合专家（MoE）模型架构的结构性优势。&lt;/p&gt;
@@ -149,6 +149,7 @@
 
 &lt;p&gt;吴泳铭宣布，阿里巴巴&lt;strong&gt;目标在2032年将阿里云运营的全球数据中心规模扩展至超过20GW&lt;/strong&gt;，并同步披露&lt;strong&gt;计划训练参数规模达5至10万亿的新一代AI模型&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;与此同时，旗下芯片部门平头哥&lt;strong&gt;当天发布最新AI芯片真武V900，算力较前代M890提升3倍，单一集群可扩展至50万卡规模&lt;/strong&gt;，阿里表示预计平头哥AI芯片年出货量将大幅提升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;吴泳铭判断，未来机器供给的思考总量将达到人类的1000倍以上，而当前行业中长期需求已远超供给能力，全球AI数据中心相关供应链的紧缺正制约算力增速。这一供需缺口，正是阿里巴巴此番大规模扩张的核心依据。&lt;/p&gt;
 &lt;p&gt;消息公布后，阿里巴巴港股股价持续走强，一度涨逾4%、创月内新高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -179,7 +180,12 @@
 
 &lt;p&gt;在集群扩展性方面，基于真武V900构建的单一集群可扩展至惊人的50万卡，足以支撑前沿超级模型的训练和推理。&lt;strong&gt;对于未来的业绩指引，阿里方面预计，随着平头哥芯片产品线的成熟和客户的广泛应用，其AI芯片的年出货量将大幅提升。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在AI大模型的进展上&lt;/strong&gt;，Qwen团队正在探索通往超级人工智能（ASI）的具体技术路径，递归式自我改进（RSI）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;阿里披露，计划训练5到10万亿参数规模的全新模型，目标是能够完成更复杂、更长程的任务。同时，理解与生成一体化的多模态模型也成为核心研发方向。&lt;/p&gt;
+&lt;p&gt;吴泳铭表示未来AI 还会进一步融入桌面端和移动端。他强调：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在桌面端&lt;/strong&gt;，我们开源的Qwen27B模型是全球最受开发者欢迎的模型。未来，我们还将持续优化这类模型，支持开发者和企业的本地化部署。在&lt;strong&gt;移动端，我们今天将正式发布 Qwen Intelligence，为合作伙伴提供AI解决方案，让移动设备能够完成各类复杂任务。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 “机器思考总量将达人类1000倍”
 &lt;p&gt;除了具体的业务数据，吴泳铭在演讲中对AI产业周期的宏观研判同样引发市场关注。他将当前的AI发展类比为早期的电力时代。&lt;/p&gt;
@@ -320,87 +326,7 @@
 &lt;p&gt;这就是我们每天在进行投资时都在讨论的问题，也是为什么我们专注于技术栈最底层——计算——的原因之一，因为我们对这部分最有信心。&lt;/p&gt;
 &lt;p&gt;那么，真正的&amp;quot;核心&amp;quot;是什么？就是芯片、数据中心和电力。而在这之上，真正的核心是投资回报。&lt;strong&gt;我们将继续看到应用场景的增加、需求的持续增长，而这正是这项巨额投资的合理性所在。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;最后，我们依然用那张&amp;quot;北极星&amp;quot;幻灯片来结束——我们常说的&amp;quot;一切都关乎回报&amp;quot;。自从 Pete 和 Steve 40 年前创立这家公司以来，我们始终致力于为客户创造价值。Steve 每天都在提醒我们这一点。这就是我们撰写备忘录的原因，这就是我们周末阅读备忘录的原因，这就是我们花费大量时间思考世界将走向何方的原因。&lt;/p&gt;
-&lt;p&gt;感恩是永恒的价值观。我们对在座的各位都充满感激。希望你今天余下的时间过得愉快，再次感谢。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Muse“加持”，纳指“安静的暴涨”，市场对“重返AI交易”将信将疑，下周的美光财报成焦点</title><link>https://wallstreetcn.com/articles/3782270</link><guid>120de3ce7dd3af4b99e23e863df75596ebbc57cbb9e8a64dd3f0ccd455b5b5d1</guid><pubDate>Tue, 22 Sep 2026 02:36:03 GMT</pubDate><description>&lt;p&gt;Meta AI智能体Muse上线仅12天，日活跃用户峰值达44.8万，单日下载量创26.4万纪录，远超ChatGPT同期表现，引爆市场对消费级AI进入主流拐点的押注。&lt;/p&gt;
-&lt;p&gt;9月21日，纳指100单日收涨约2.83%，重新站上3万点，创6月以来新高。但高盛交易台分析师Peter Callahan指出这是一次&lt;strong&gt;“安静的暴涨”&lt;/strong&gt;——成交活跃度只有3分（满分10分），S&amp;amp;P等权重指数仅涨约18个基点，涨幅高度集中于大市值科技股。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是我记忆中少有的一次“安静的”约3%纳指涨幅。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Muse类产品的爆发，直接打开了CPU芯片的新需求空间。&lt;/strong&gt;Arm Holdings当日涨超15%，英特尔涨逾12%，AMD涨近10%。&lt;/p&gt;
-&lt;p&gt;与此同时，信用市场与股市出现背离，投资级CDS利差扩至五个月最高，信用市场对本轮乐观情绪持保留态度；下周美光财报被视为AI基础设施交易能否持续的关键验证节点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Muse：从聊天机器人到“帮你干活”的智能体
-&lt;p&gt;这一切的导火索，是Meta的消费级AI智能体Muse。&lt;/p&gt;
-&lt;p&gt;Muse于9月8日上线，定位与传统对话式AI截然不同——它能自主执行多步骤任务，包括预订行程、管理日历、代为完成电商购物，在后台持续运行，而非等待用户指令。&lt;/p&gt;
-&lt;p&gt;Wells Fargo分析师Ken Gawrelski在给客户的报告中援引SensorTower数据指出：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Muse在9月19日单日下载量达26.4万次，连续第三天突破20万&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;上线第10天，日活跃用户峰值达44.8万&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;对比：ChatGPT达到20万日下载量用了近一年，达到45万日活跃用户用了49天&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ken Gawrelski将Meta目标价从640美元上调至796美元，维持“增持”评级，并写道：“&lt;strong&gt;Muse标志着消费级AI从聊天机器人向AI助手的转变&lt;/strong&gt;，而谁先到市场，谁就占优——因为AI助手用得越多，就越有价值。”&lt;/p&gt;
-&lt;p&gt;高盛交易台的Rich Privorotsky则直接点出Muse的战略意义：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Meta基本上建立了一个直接面向消费者的智能体工厂——购物、通话、订阅、行政事务，越来越多地代替你行动。最终状态很清晰：每个人都有几十个智能体帮你买菜、付账单、订假期、安排孩子上学。你的生产力变成了你加上你的智能体团队。这是巨大的效率释放，也是巨大的算力乘数。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Meta当日股价涨幅约11%至12%，创2025年10月以来新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么是CPU，不只是GPU
-&lt;p&gt;与此同时，芯片股的涨幅结构，揭示了市场对AI架构转变的押注逻辑。&lt;/p&gt;
-&lt;p&gt;9月21日，Arm Holdings单日涨超15%，英特尔涨逾12%，AMD涨近10%——这三家都是CPU领域的核心玩家，而非传统AI算力叙事中的主角英伟达。&lt;/p&gt;
-&lt;p&gt;据市场情报机构Vital Knowledge的分析：早期生成式AI主要依赖GPU处理孤立的文本和图像生成任务；而AI智能体需要持续运行后台程序、逻辑循环和本地数据调度，这使得智能体AI对CPU的需求远高于GPU密集型工作负载。&lt;/p&gt;
-&lt;p&gt;换句话说，&lt;strong&gt;Muse类产品的爆发，直接打开了CPU芯片的新需求空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AMD当日市值首次触及1万亿美元门槛，超越摩根大通，与礼来、伯克希尔哈撒韦并肩。高盛TMT交易台的Peter Callahan在快报中特别提及：“如果AMD未来超越这两家，标普500前十大公司将全部是TMT公司，且市值均超过1万亿美元。”&lt;/p&gt;
-&lt;p&gt;此外，据报道，OpenAI正在加速开发类似Muse的消费级智能体产品，行业军备竞赛的预期进一步推高了市场对整个CPU/云计算产业链的估值。&lt;/p&gt;
-“安静的暴涨”：涨幅集中，市场内部高度分化
-&lt;p&gt;高盛TMT交易台分析师Peter Callahan的快报用一句话定性了这次行情：“纳指重返3万点，但这是我记忆中少有的一次安静的约3%涨幅。”&lt;/p&gt;
-&lt;p&gt;当日数据显示：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;标普500等权重指数当日仅涨约18个基点，而标普500本身涨幅约130个基点——两者差距位列过去5年以上的单日前五&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;半导体指数SOX在5个交易日内累计涨幅接近12%，为2025年8月初反弹以来最强5日表现&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;期权活跃度创近一个月新高，AMD和英特尔单日看涨期权成交量均超过100万张，接近年内高点&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;据媒体报道，有人在开盘时大举买入科技相关看涨期权，触发了“现货涨、波动率也涨”的罕见组合——这通常是期权驱动行情的典型特征，而非基本面驱动的稳健上涨。&lt;/p&gt;
-&lt;p&gt;高盛交易台同日记录显示，当日整体买卖方向基本均衡，多头基金（LO）在通信服务和信息技术方向净买入，对冲基金（HF）在通信服务、金融和消费可选方向净买入，但整体活跃度依然偏低。&lt;/p&gt;
-投资者将信将疑：基本面扎实，但“涨太快了”
-&lt;p&gt;高盛TMT快报直接记录了当日投资者的真实反应：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;投资者承认基本面扎实，但情绪指标更为谨慎，当天收到大量“涨太快了”和“目标价在哪里”的问询。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Peter Callahan进一步指出，这与高盛近期科技会议上的对话一脉相承——投资者对于是否全面“重返AI基础设施交易”存在明显张力。原因在于，宏观层面的油价和利率压力，在近期盖过了基本面层面健康的供需评论、资本回报率数据和产品更新等积极信号，“似乎形成了一种&amp;#x27;买家在更高位置等待&amp;#x27;的行情格局”。&lt;/p&gt;
-&lt;p&gt;换句话说：基本面没问题，但宏观噪音让投资者不敢追高。&lt;/p&gt;
-信用市场发出不同信号
-&lt;p&gt;股市的乐观情绪，并未得到信用市场的背书。&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Frank Monkam分析：&lt;strong&gt;尽管标普500接近历史高位，但投资级债券的信用质量——以5年期投资级CDS衡量——已恶化至五个月最低，且自美联储本月加息以来，这一背离持续扩大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Frank Monkam写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;股市继续定价韧性增长和盈利，以及更乐观的叙事。信用市场则在做数学题，要求更高的企业风险补偿。这种明显的错误定价引发了一个问题：哪个市场对风险溢价的判断是错的？我倾向于认为，来自资本结构更高层级的信号，最终将有最后的发言权。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;两个市场，同一张企业资产负债表，给出了截然不同的答案。&lt;/p&gt;
-油价与利率：暂时的喘息，还是真正的转机？
-&lt;p&gt;本轮科技反弹的另一个宏观背景，是油价的回落。&lt;/p&gt;
-&lt;p&gt;布伦特原油跌破100美元/桶，据彭博报道，卫星数据显示沙特阿拉伯波斯湾港口的石油装载量在上周末大幅跳升，为6月以来最高，显示沙特在红海管道受无人机袭击中断后，已将出口路线切换回霍尔木兹海峡。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;油价下跌带动10年期美债收益率跌破5%关口。高盛的Rich Privorotsky将利率和利率波动率定性为“当前最大的宏观风险”，并指出：“利率与能源价格脱锚的风险依然存在——油价下来了，但二次通胀和全球利率冲击的影响已经固化。”&lt;/p&gt;
-下一个催化剂：美光财报
-&lt;p&gt;高盛TMT快报在结尾明确点出下一个市场焦点：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;远离会议和地缘政治，我雷达上的下一个催化剂是下周的美光（MU）财报。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;美光作为AI存储芯片的核心供应商，其财报将直接检验AI基础设施需求的真实强度。值得注意的是，在本轮芯片股普涨中，存储板块明显落后——闪迪当日跌约3%，西部数据和希捷科技基本持平——这与CPU芯片的爆发形成鲜明对比。&lt;/p&gt;
-&lt;p&gt;美光财报能否弥合这一分歧，将是市场判断“重返AI交易”是否可持续的重要参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板涨超2%，算力硬件、芯片半导体爆发，恒科指涨1%，腾讯大涨6%</title><link>https://wallstreetcn.com/articles/3782269</link><guid>e8a6f034a9df056671b89435957989bc72b1d170383efb6188dc3831cc4dc678</guid><pubDate>Tue, 22 Sep 2026 01:57:16 GMT</pubDate><description>&lt;p&gt;9月22日，A股早盘高开高走，三大股指盘初集体拉升，创业板涨2%，AI应用爆发，GPU概念股大涨，海光信息、摩尔线程、沐曦股份等大涨，芯片半导体拉升，MCU芯片、ASIC芯片等方向涨幅居前，航运、油气、农业等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;感恩是永恒的价值观。我们对在座的各位都充满感激。希望你今天余下的时间过得愉快，再次感谢。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板涨超2%，算力硬件、芯片半导体爆发，恒科指涨1%，腾讯大涨6%</title><link>https://wallstreetcn.com/articles/3782269</link><guid>e8a6f034a9df056671b89435957989bc72b1d170383efb6188dc3831cc4dc678</guid><pubDate>Tue, 22 Sep 2026 01:57:16 GMT</pubDate><description>&lt;p&gt;9月22日，A股早盘高开高走，三大股指盘初集体拉升，创业板涨2%，AI应用爆发，GPU概念股大涨，海光信息、摩尔线程、沐曦股份等大涨，芯片半导体拉升，MCU芯片、ASIC芯片等方向涨幅居前，航运、油气、农业等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股早盘亦集体上涨，恒科指涨超1%，权重科网股集体反弹，腾讯控股大涨6%，隔夜Meta大涨11%，旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现。债市方面，国债期货震荡上涨。商品方面，国内商品期货多数走高。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.24%，深成指涨1.17%，创业板指涨1.91%。&lt;/p&gt;
@@ -489,7 +415,87 @@ Muse：从聊天机器人到“帮你干活”的智能体
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特管道遭袭后扩大海湾出口，七艘超级油轮装1400万桶，盘中布油破百、美油跌超6%</title><link>https://wallstreetcn.com/articles/3782252</link><guid>913b704514d5897f369b4b4bd49cfc2754bc0f8608951e8541672eb1408d0439</guid><pubDate>Mon, 21 Sep 2026 21:54:51 GMT</pubDate><description>&lt;p&gt;沙特阿美以超出市场预期的速度重组原油出口路线，令此前因管道袭击事件积聚的供应中断溢价迅速消退，国际原油期货承压，本周一加速下行，布油一度跌破100美元关口。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Muse“加持”，纳指“安静的暴涨”，市场对“重返AI交易”将信将疑，下周的美光财报成焦点</title><link>https://wallstreetcn.com/articles/3782270</link><guid>120de3ce7dd3af4b99e23e863df75596ebbc57cbb9e8a64dd3f0ccd455b5b5d1</guid><pubDate>Tue, 22 Sep 2026 02:36:03 GMT</pubDate><description>&lt;p&gt;Meta AI智能体Muse上线仅12天，日活跃用户峰值达44.8万，单日下载量创26.4万纪录，远超ChatGPT同期表现，引爆市场对消费级AI进入主流拐点的押注。&lt;/p&gt;
+&lt;p&gt;9月21日，纳指100单日收涨约2.83%，重新站上3万点，创6月以来新高。但高盛交易台分析师Peter Callahan指出这是一次&lt;strong&gt;“安静的暴涨”&lt;/strong&gt;——成交活跃度只有3分（满分10分），S&amp;amp;P等权重指数仅涨约18个基点，涨幅高度集中于大市值科技股。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是我记忆中少有的一次“安静的”约3%纳指涨幅。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Muse类产品的爆发，直接打开了CPU芯片的新需求空间。&lt;/strong&gt;Arm Holdings当日涨超15%，英特尔涨逾12%，AMD涨近10%。&lt;/p&gt;
+&lt;p&gt;与此同时，信用市场与股市出现背离，投资级CDS利差扩至五个月最高，信用市场对本轮乐观情绪持保留态度；下周美光财报被视为AI基础设施交易能否持续的关键验证节点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Muse：从聊天机器人到“帮你干活”的智能体
+&lt;p&gt;这一切的导火索，是Meta的消费级AI智能体Muse。&lt;/p&gt;
+&lt;p&gt;Muse于9月8日上线，定位与传统对话式AI截然不同——它能自主执行多步骤任务，包括预订行程、管理日历、代为完成电商购物，在后台持续运行，而非等待用户指令。&lt;/p&gt;
+&lt;p&gt;Wells Fargo分析师Ken Gawrelski在给客户的报告中援引SensorTower数据指出：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Muse在9月19日单日下载量达26.4万次，连续第三天突破20万&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上线第10天，日活跃用户峰值达44.8万&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;对比：ChatGPT达到20万日下载量用了近一年，达到45万日活跃用户用了49天&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ken Gawrelski将Meta目标价从640美元上调至796美元，维持“增持”评级，并写道：“&lt;strong&gt;Muse标志着消费级AI从聊天机器人向AI助手的转变&lt;/strong&gt;，而谁先到市场，谁就占优——因为AI助手用得越多，就越有价值。”&lt;/p&gt;
+&lt;p&gt;高盛交易台的Rich Privorotsky则直接点出Muse的战略意义：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Meta基本上建立了一个直接面向消费者的智能体工厂——购物、通话、订阅、行政事务，越来越多地代替你行动。最终状态很清晰：每个人都有几十个智能体帮你买菜、付账单、订假期、安排孩子上学。你的生产力变成了你加上你的智能体团队。这是巨大的效率释放，也是巨大的算力乘数。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Meta当日股价涨幅约11%至12%，创2025年10月以来新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+为什么是CPU，不只是GPU
+&lt;p&gt;与此同时，芯片股的涨幅结构，揭示了市场对AI架构转变的押注逻辑。&lt;/p&gt;
+&lt;p&gt;9月21日，Arm Holdings单日涨超15%，英特尔涨逾12%，AMD涨近10%——这三家都是CPU领域的核心玩家，而非传统AI算力叙事中的主角英伟达。&lt;/p&gt;
+&lt;p&gt;据市场情报机构Vital Knowledge的分析：早期生成式AI主要依赖GPU处理孤立的文本和图像生成任务；而AI智能体需要持续运行后台程序、逻辑循环和本地数据调度，这使得智能体AI对CPU的需求远高于GPU密集型工作负载。&lt;/p&gt;
+&lt;p&gt;换句话说，&lt;strong&gt;Muse类产品的爆发，直接打开了CPU芯片的新需求空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AMD当日市值首次触及1万亿美元门槛，超越摩根大通，与礼来、伯克希尔哈撒韦并肩。高盛TMT交易台的Peter Callahan在快报中特别提及：“如果AMD未来超越这两家，标普500前十大公司将全部是TMT公司，且市值均超过1万亿美元。”&lt;/p&gt;
+&lt;p&gt;此外，据报道，OpenAI正在加速开发类似Muse的消费级智能体产品，行业军备竞赛的预期进一步推高了市场对整个CPU/云计算产业链的估值。&lt;/p&gt;
+“安静的暴涨”：涨幅集中，市场内部高度分化
+&lt;p&gt;高盛TMT交易台分析师Peter Callahan的快报用一句话定性了这次行情：“纳指重返3万点，但这是我记忆中少有的一次安静的约3%涨幅。”&lt;/p&gt;
+&lt;p&gt;当日数据显示：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;标普500等权重指数当日仅涨约18个基点，而标普500本身涨幅约130个基点——两者差距位列过去5年以上的单日前五&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;半导体指数SOX在5个交易日内累计涨幅接近12%，为2025年8月初反弹以来最强5日表现&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;期权活跃度创近一个月新高，AMD和英特尔单日看涨期权成交量均超过100万张，接近年内高点&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;据媒体报道，有人在开盘时大举买入科技相关看涨期权，触发了“现货涨、波动率也涨”的罕见组合——这通常是期权驱动行情的典型特征，而非基本面驱动的稳健上涨。&lt;/p&gt;
+&lt;p&gt;高盛交易台同日记录显示，当日整体买卖方向基本均衡，多头基金（LO）在通信服务和信息技术方向净买入，对冲基金（HF）在通信服务、金融和消费可选方向净买入，但整体活跃度依然偏低。&lt;/p&gt;
+投资者将信将疑：基本面扎实，但“涨太快了”
+&lt;p&gt;高盛TMT快报直接记录了当日投资者的真实反应：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;投资者承认基本面扎实，但情绪指标更为谨慎，当天收到大量“涨太快了”和“目标价在哪里”的问询。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Peter Callahan进一步指出，这与高盛近期科技会议上的对话一脉相承——投资者对于是否全面“重返AI基础设施交易”存在明显张力。原因在于，宏观层面的油价和利率压力，在近期盖过了基本面层面健康的供需评论、资本回报率数据和产品更新等积极信号，“似乎形成了一种&amp;#x27;买家在更高位置等待&amp;#x27;的行情格局”。&lt;/p&gt;
+&lt;p&gt;换句话说：基本面没问题，但宏观噪音让投资者不敢追高。&lt;/p&gt;
+信用市场发出不同信号
+&lt;p&gt;股市的乐观情绪，并未得到信用市场的背书。&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Frank Monkam分析：&lt;strong&gt;尽管标普500接近历史高位，但投资级债券的信用质量——以5年期投资级CDS衡量——已恶化至五个月最低，且自美联储本月加息以来，这一背离持续扩大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Frank Monkam写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;股市继续定价韧性增长和盈利，以及更乐观的叙事。信用市场则在做数学题，要求更高的企业风险补偿。这种明显的错误定价引发了一个问题：哪个市场对风险溢价的判断是错的？我倾向于认为，来自资本结构更高层级的信号，最终将有最后的发言权。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;两个市场，同一张企业资产负债表，给出了截然不同的答案。&lt;/p&gt;
+油价与利率：暂时的喘息，还是真正的转机？
+&lt;p&gt;本轮科技反弹的另一个宏观背景，是油价的回落。&lt;/p&gt;
+&lt;p&gt;布伦特原油跌破100美元/桶，据彭博报道，卫星数据显示沙特阿拉伯波斯湾港口的石油装载量在上周末大幅跳升，为6月以来最高，显示沙特在红海管道受无人机袭击中断后，已将出口路线切换回霍尔木兹海峡。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;油价下跌带动10年期美债收益率跌破5%关口。高盛的Rich Privorotsky将利率和利率波动率定性为“当前最大的宏观风险”，并指出：“利率与能源价格脱锚的风险依然存在——油价下来了，但二次通胀和全球利率冲击的影响已经固化。”&lt;/p&gt;
+下一个催化剂：美光财报
+&lt;p&gt;高盛TMT快报在结尾明确点出下一个市场焦点：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;远离会议和地缘政治，我雷达上的下一个催化剂是下周的美光（MU）财报。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;美光作为AI存储芯片的核心供应商，其财报将直接检验AI基础设施需求的真实强度。值得注意的是，在本轮芯片股普涨中，存储板块明显落后——闪迪当日跌约3%，西部数据和希捷科技基本持平——这与CPU芯片的爆发形成鲜明对比。&lt;/p&gt;
+&lt;p&gt;美光财报能否弥合这一分歧，将是市场判断“重返AI交易”是否可持续的重要参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特管道遭袭后扩大海湾出口，七艘超级油轮装1400万桶，盘中布油破百、美油跌超6%</title><link>https://wallstreetcn.com/articles/3782252</link><guid>913b704514d5897f369b4b4bd49cfc2754bc0f8608951e8541672eb1408d0439</guid><pubDate>Mon, 21 Sep 2026 21:54:51 GMT</pubDate><description>&lt;p&gt;沙特阿美以超出市场预期的速度重组原油出口路线，令此前因管道袭击事件积聚的供应中断溢价迅速消退，国际原油期货承压，本周一加速下行，布油一度跌破100美元关口。&lt;/p&gt;
 &lt;p&gt;据TankerTrackers.com数据，沙特阿美周日在中东海湾地区的七艘超大型原油运输船（VLCC）上共装载约1400万桶原油。媒体指出，卫星图像显示，前述油轮停靠于拉斯坦努拉港附近海域。这一装载规模释放出沙特出口部分恢复的强烈信号，直接打压油市看涨情绪，开始为沙特快速恢复出口定价。&lt;/p&gt;
 &lt;p&gt;美东时间9月21日周一，布伦特原油期货收跌3.53美元，跌幅3.4%，报100.34美元/桶，美股盘中曾自9月9日以来首次跌破100美元关口；美国WTI 10月原油收跌4.51%，报95.78美元/桶，和布油均创9月8日以来收盘新低，盘中一度触及94.22美元，日内跌幅扩大至逾6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
