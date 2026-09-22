@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 08:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 最强国产AI芯片、10万亿参数模型、20GW数据中心、千问手机来了—阿里云栖大会“火力全开”</title><link>https://wallstreetcn.com/articles/3782272</link><guid>f37d30e95d77764a6faf08fee4c321a545e1dca9ad0a833612c741bb0fd8b331</guid><pubDate>Tue, 22 Sep 2026 04:20:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;阿里巴巴正以工业革命级别的战略雄心押注人工智能基础设施。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 08:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 最强国产AI芯片、10万亿参数模型、20GW数据中心、千问手机来了—阿里云栖大会“火力全开”</title><link>https://wallstreetcn.com/articles/3782272</link><guid>f37d30e95d77764a6faf08fee4c321a545e1dca9ad0a833612c741bb0fd8b331</guid><pubDate>Tue, 22 Sep 2026 04:20:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;阿里巴巴正以工业革命级别的战略雄心押注人工智能基础设施。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据硬AI，9月22日，在2026年杭州云栖大会上，阿里巴巴集团CEO吴泳铭发出迄今最为明确的AI扩张信号，将机器智能定位为继工业革命之后人类社会最深刻的变革，并为此锚定了横跨&lt;strong&gt;AI模型&lt;/strong&gt;、&lt;strong&gt;AI芯片&lt;/strong&gt;与&lt;strong&gt;AI云&lt;/strong&gt;的全栈布局。&lt;/p&gt;
 
 
@@ -233,7 +233,40 @@ AI叙事重回主线
 
 &lt;p&gt;能源市场的波动亦在牵动投资者神经。布伦特原油在此前连续四日下跌后强势反弹1.5%，逼近每桶102美元。市场正在权衡中东供应风险与外交斡旋两方面力量——特朗普计划周二在纽约出席联合国大会，并可能于场边会见伊朗总统Masoud Pezeshkian，交易员密切关注外交努力能否为油价持续回调提供支撑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;CLSA研究主管Shaun Cochran在接受彭博电视采访时表示，&amp;quot;总体而言，市场实际上相当强劲。我们目前所见的是市场对AI革命的憧憬，正在推动对资本开支的信心。这在很大程度上是一个资本开支驱动的经济，而这正是维系风险偏好的根本所在。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “芯片网红”：AI算力瓶颈早已不是算力芯片，而是先进封装、互连延迟与存储层级</title><link>https://wallstreetcn.com/articles/3782276</link><guid>d4e55c9e149d1005659844b925f41dabe0ce1ade3a83d31f296a6925db3576b1</guid><pubDate>Tue, 22 Sep 2026 04:22:27 GMT</pubDate><description>&lt;p&gt;当市场在为科技巨头数千亿美元的AI资本支出（Capex）能否回本而焦虑时，产业最前沿的硬件工程师们却在关注另一个更本质的命题：摩尔定律的经济学已经破产，算力竞赛的真正瓶颈，从来不在芯片本身，而是从“设计更快的芯片”变成了“控制从硅片到机架的物理堆栈”。&lt;/p&gt;
+&lt;p&gt;CLSA研究主管Shaun Cochran在接受彭博电视采访时表示，&amp;quot;总体而言，市场实际上相当强劲。我们目前所见的是市场对AI革命的憧憬，正在推动对资本开支的信心。这在很大程度上是一个资本开支驱动的经济，而这正是维系风险偏好的根本所在。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2</title><link>https://wallstreetcn.com/articles/3782295</link><guid>fbe3980e2ebe755c02fb58fe6fd47ef425ead2692747acc47b2be68b3263b398</guid><pubDate>Tue, 22 Sep 2026 08:39:12 GMT</pubDate><description>&lt;p&gt;AI Agent正在从聊天窗口走进企业组织，阿里千问办公进一步补齐从“懂业务”到“能执行”的产品链条。&lt;/p&gt;
+&lt;p&gt;9月22日，阿里巴巴旗下千问办公在2026杭州云栖大会发布一系列企业级AI Agent产品，推出企业上下文、数字员工、协作空间、安全中心等功能，完善Agent从业务理解到执行协作的产品体系。硬件方面，千问办公同步发布AI Agent随身助理QwenNote A2。&lt;/p&gt;
+&lt;p&gt;其中，&lt;strong&gt;企业上下文（Enterprise Context）通过整合企业数据，帮助Agent获取与任务相关的信息，进一步构建“懂业务”的数字员工。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;阿里巴巴集团副总裁、千问办公CEO陈宇森在大会现场表示，&lt;strong&gt;“千问办公是业内首个企业级Agent产品”&lt;/strong&gt;。他指出，Agent要真正落地企业，既要懂业务，也要像人一样在企业和组织内协同，同时每一次任务执行都要有边界、可追溯。&lt;/p&gt;
+&lt;p&gt;硬件方面，陈宇森透露，上一代钉钉A1已在国内实现“大几十万台”销量，并对新款QwenNote A2提出“千万台”的销量目标，显示出千问办公对AI硬件市场的进一步布局。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+企业上下文：让Agent真正读懂业务数据
+&lt;p&gt;千问办公此次发布的核心产品之一是“企业上下文”（Enterprise Context），定位为面向企业的上下文数据管理产品。&lt;/p&gt;
+&lt;p&gt;其核心逻辑在于，企业往往积累了大量数据，但Agent执行具体任务时，需要的并非全量信息，而是与当前任务最相关的内容。&lt;strong&gt;企业上下文通过内置专属模型，以较低的Token成本对企业数据进行压缩和结构化处理，并随业务变化实时更新，让Agent能够基于最新业务信息进行判断。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一产品直接针对企业AI落地中的数据孤岛和信息过载问题。基于企业上下文与千问办公的Agent托管能力，企业可以构建“懂业务”的数字员工，并将其部署在钉钉等即时通讯平台，与员工协同完成任务。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+数字员工与协作空间：Agent走向组织化运作
+&lt;p&gt;在数字员工层面，&lt;strong&gt;千问办公为Agent赋予完整的“组织身份”：拥有名称、所属部门、负责人和岗位职责，同时具备授权范围与生命周期管理&lt;/strong&gt;，可被员工识别、被系统授权，也可由管理员停用，所有执行记录均可追溯至对应身份。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，千问办公推出“协作”功能，允许企业创建协作空间，将散落在群聊、文档和知识库中的信息统一关联，并按需加入团队成员与数字员工。在该空间内，&lt;strong&gt;员工可以直接与同事或Agent讨论，Agent之间也可以相互沟通、分工协作，任务产出与进度统一沉淀在空间中，减少信息在不同群组之间反复流转。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;针对不适合在聊天框内完成的工作场景，千问办公还推出“应用”功能，支持企业和SaaS厂商将业务系统以应用形式接入，在保留原有界面和数据的同时叠加Agent能力。用户可以直接在业务系统内修改、保存AI生成的结果，无需在多个工具之间切换。&lt;/p&gt;
+安全中心：从架构层面管控Agent风险
+&lt;p&gt;随着AI从“回答问题”走向“执行操作”，安全边界成为企业采用Agent的关键考量。陈宇森表示，企业不能只在系统外围增加防线，而应从架构设计之初就将权限越界、数据泄露和误操作等风险纳入考量。&lt;/p&gt;
+&lt;p&gt;此次发布的千问办公安全中心，可统一管理Agent的数据访问、工具调用和任务执行。&lt;strong&gt;具体机制包括：执行前通过沙箱划定运行边界，执行过程中对高风险操作进行审批与拦截，异常发生后通过操作记录与恢复机制进行处置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;结合钉钉企业安全体系，该产品还支持最小权限授予、敏感信息识别与全程审计，使企业能够追溯任务发起方、Agent使用的数据以及具体执行操作。&lt;/p&gt;
+QwenNote A2：以隐私保护为差异化卖点的AI硬件
+&lt;p&gt;硬件层面，千问办公发布AI Agent随身助理QwenNote A2，主打“真AI，不录音”，针对传统AI录音产品引发的隐私顾虑。&lt;/p&gt;
+&lt;p&gt;在隐私保护机制上，QwenNote A2采用“单次转写、转后即焚”的设计：设备默认不录音，交流结束后语音在云端完成一次文字转写，随后原始录音被永久删除；设备工作时亮起无痕小绿灯，告知对方当前仅在记笔记而非录音。该设备重67克，搭载六麦拾音阵列，支持独立联网与调用Agent，无需依赖手机即可运行。&lt;/p&gt;
+&lt;p&gt;在使用场景上，QwenNote A2支持一键将线下交流转化为云端任务。&lt;strong&gt;例如销售拜访客户后，可通过语音指令将交流内容同步至千问办公，自动生成PPT或提炼关键信息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;陈宇森披露，上一代产品钉钉A1已在国内实现“大几十万台”销量。他认为，AI录音只是一个小品类，AI笔记、AI会议智能等产品则具备更大的应用空间，未来完全有可能实现“千万台”级别的销量。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Qwen Intelligence：千问大模型进一步布局个人智能
+&lt;p&gt;与此同时，千问大模型还发布AI手机全栈解决方案Qwen Intelligence，面向手机厂商提供模型、平台及场景解决方案，推动手机Agent从简单问答进一步走向复杂任务执行。&lt;/p&gt;
+&lt;p&gt;针对手机Agent的核心需求，Qwen Intelligence首发三套解决方案：&lt;strong&gt;Mobile Planner Agent负责理解需求、拆解任务并动态规划；Mobile-Use Agent负责实际操作手机；Mobile Creative Agent则面向影像创作，将用户的一句话需求转化为完整创作流程。&lt;/strong&gt;官方数据显示，Mobile-Use Agent端到端实测任务成功率达到90%，单次任务完成时间从83.6秒缩短至59.5秒。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;目前，Qwen Intelligence已开始进入实际应用。阿里巴巴携手荣耀，以Qwen Intelligence和荣耀Magic OS为基础，共同打造面向下一代AI手机的垂域模型和解决方案。&lt;strong&gt;官方数据显示，该方案综合任务准确率达到91.8%，复杂长程任务可执行100步以上操作，端到端服务闭环率达到90%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “芯片网红”：AI算力瓶颈早已不是算力芯片，而是先进封装、互连延迟与存储层级</title><link>https://wallstreetcn.com/articles/3782276</link><guid>d4e55c9e149d1005659844b925f41dabe0ce1ade3a83d31f296a6925db3576b1</guid><pubDate>Tue, 22 Sep 2026 04:22:27 GMT</pubDate><description>&lt;p&gt;当市场在为科技巨头数千亿美元的AI资本支出（Capex）能否回本而焦虑时，产业最前沿的硬件工程师们却在关注另一个更本质的命题：摩尔定律的经济学已经破产，算力竞赛的真正瓶颈，从来不在芯片本身，而是从“设计更快的芯片”变成了“控制从硅片到机架的物理堆栈”。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;近日，在知名科技播客Frictionless Podcast by Logan Jastremski的专访中，“芯片网红”、资深芯片设计师、知名硬件分析专家“Mr. Bubble”就当前AI算力供应链的核心瓶颈、未来架构演进及AI投资的最终价值归宿进行了深度剖析。这场对话&lt;strong&gt;从晶体管密度讲到存储层级，从机架设计讲到大模型实验室的战略意图&lt;/strong&gt;，核心结论只有一个：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -533,33 +566,7 @@ Muse爆款逻辑：从聊天到交付的范式跃迁
 &lt;p&gt;中金研报引入产品创新周期框架，将2C Agent的发展划分为四个阶段：探索期（技术效果与成本均未达阈值）、过渡创新期（技术效果达阈值但成本仍高）、全能创新期（效果与成本双双突破阈值）、强者恒强期（技术曲线趋于平缓）。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;报告以黑莓与iPhone的历史路径为参照：过渡创新期对应黑莓聚焦企业邮件、削减非核心功能的打法，黑莓营收由2004年的6亿美元增至2011年高点200亿美元；全能创新期则对应iPhone的多合一融合，对过渡式产品形成生态碾压。&lt;/p&gt;
-&lt;p&gt;中金研报认为，AI模型能力持续精进、Token算力成本下行，是当前确定性较高的因素；更难把握的是用户对Agent解决任务的错误容忍率、对既有习惯的迁移意愿，以及用户成本阈值。基于此，2C Agent存在两种发展情形：其一是先经历过渡创新阶段，从泛办公刚需切入后逐步延伸至综合场景；其二是技术与成本曲线同步快速下行，直接跨越过渡期进入全能创新阶段——届时，坐拥分发优势与生态深度的Meta、腾讯等巨头将率先受益。中金研报强调，从过渡阶段到全能阶段的间隔越短，互联网巨头越占优势；反之，创业公司则有更多时间构筑壁垒。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美非正式告知亚洲炼厂：延布港原油装载即将恢复</title><link>https://wallstreetcn.com/articles/3782291</link><guid>59547bded77c31d979d2e691cee2131e407cc57e4f2d103ffd629f121da6c3ee</guid><pubDate>Tue, 22 Sep 2026 07:56:45 GMT</pubDate><description>&lt;p&gt;沙特阿美向多家亚洲炼厂发出非正式信号，延布港原油装载有望近期恢复。这是东西管道9月遭无人机袭击、被迫停运以来，沙特方面首次就供应恢复向买家传递明确预期。&lt;/p&gt;
-&lt;p&gt;据彭博引述知情交易商消息，&lt;strong&gt;至少三家亚洲燃料加工企业已从沙特阿美高管处获得非正式保证，称装载将很快重启&lt;/strong&gt;，但未给出具体时间表。这些消息人士表示，上述沟通并非正式通知，沙特阿美亦拒绝就此置评。&lt;/p&gt;
-&lt;p&gt;目前，部分亚洲炼厂已因管道停运错过延布港的原油装载档期，其船只或停泊于港口附近水域，或正在驶往当地。与此同时，欧洲买家所受冲击更为严峻——沙特阿美上周已告知至少两家欧洲炼厂，因管道受损，10月份长期协议项下的原油供应将全面暂停，且该决定适用于所有欧洲买家。&lt;/p&gt;
-
-东西管道停运，延布港供应几近中断
-
-&lt;p&gt;东西管道于9月10日遭从伊拉克方向发射的无人机袭击后被迫关闭，&lt;strong&gt;该管道此前每日向延布港输送约400万桶原油。管道停运后，延布港装载活动几近停滞。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博上周引述知情人士称，&lt;strong&gt;沙特方面正寻求在数日内将管道恢复至约一半产能，并争取在约六周内达到满负荷运营。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这条全长1200公里的管道横贯阿拉伯半岛，连接沙特东部主要油田与红海沿岸的延布港，是沙特绕开霍尔木兹海峡向欧洲及亚洲输送原油的关键通道。管道从阿布盖格（Abqaiq）附近的世界最大原油处理设施出发，穿越沙漠和汉志山脉，抵达西海岸。其中约200万桶/日的原油用于红海沿岸炼厂的国内消费。&lt;/p&gt;
-
-亚洲买家受影响较小，欧洲客户首当其冲
-
-&lt;p&gt;管道停运后，沙特增加了从波斯湾拉斯坦努拉港的对亚洲出口，相关原油经霍尔木兹海峡，在阿曼湾通过船对船转运方式交付。这一替代路径使亚洲买家的供应受阻程度相对有限。&lt;/p&gt;
-&lt;p&gt;相比之下，欧洲客户的处境更为被动。由于延布港是欧洲从沙特进口原油的主要装货地，管道停运直接导致欧洲10月长约供应全面中断。能源市场研究机构Energy Aspects分析师Nicholas Dyer指出，延布港储罐库存目前处于历史低位，沙特不太可能将储罐抽空以维持出口，这将进一步压缩延布港的可用货源。&lt;/p&gt;
-&lt;p&gt;Dyer还警告，延布港的供应收紧可能产生连锁效应，波及埃及苏伊士运河入口的锡迪·凯里尔港（Sidi Kerir）——沙特通过苏伊士运河将原油转至该港供欧洲买家提货——届时或出现更多延误和取消。&lt;/p&gt;
-
-管道安全隐患持续，重启后出口仍面临不确定性
-
-&lt;p&gt;东西管道长达1200公里，沿线安保难度极大。管道大部分路段埋深约1米，具备一定的防空袭能力，但沿线11座泵站是最脆弱的节点，管道在此处暴露于地面之上。&lt;/p&gt;
-&lt;p&gt;卫星图像显示，麦地那以南一处泵站在9月袭击中受损，但沙特官方尚未证实具体受损位置。据知情人士透露，沙特阿美正设法绕开受损路段，以便恢复部分管道产能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;即便管道顺利重启，延布港的出口能否完全恢复仍存变数。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;也门胡塞武装已威胁封锁沙特港口，并持续强化在曼德海峡附近的军事部署，对途经该水道的船只构成持续威胁。这意味着部分货物可能被迫改道北上经苏伊士运河，这对亚洲买家而言意味着更高成本和更长运输周期。&lt;/p&gt;
-
-地缘风险仍是核心变量
-
-&lt;p&gt;在外交层面，沙特王储穆罕默德·本·萨勒曼已向美国总统特朗普和英国首相Andy Burnham寻求军事援助以应对胡塞武装，但两国均未表示愿意直接介入。&lt;/p&gt;
-&lt;p&gt;对于市场参与者而言，东西管道能否按计划恢复、延布港装载何时全面重启，以及红海航运安全能否保障，仍是左右近期原油供应预期的三大核心变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”</title><link>https://wallstreetcn.com/articles/3782263</link><guid>528a640cf589a88436273f507edddc1dec5af9bc4936008309b1ef632e30fc1c</guid><pubDate>Tue, 22 Sep 2026 02:36:37 GMT</pubDate><description>&lt;p&gt;面对市场对万亿AI资本支出是否会沦为泡沫的日益担忧，黑石集团总裁Jon Gray用极具冲击力的真实回报数据给出答案：实体经济的效率飞跃正在引爆指数级的需求，而算力、电力与数据中心的“现实硬短缺”，构成了当下最核心的投资机遇。&lt;/p&gt;
+&lt;p&gt;中金研报认为，AI模型能力持续精进、Token算力成本下行，是当前确定性较高的因素；更难把握的是用户对Agent解决任务的错误容忍率、对既有习惯的迁移意愿，以及用户成本阈值。基于此，2C Agent存在两种发展情形：其一是先经历过渡创新阶段，从泛办公刚需切入后逐步延伸至综合场景；其二是技术与成本曲线同步快速下行，直接跨越过渡期进入全能创新阶段——届时，坐拥分发优势与生态深度的Meta、腾讯等巨头将率先受益。中金研报强调，从过渡阶段到全能阶段的间隔越短，互联网巨头越占优势；反之，创业公司则有更多时间构筑壁垒。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”</title><link>https://wallstreetcn.com/articles/3782263</link><guid>528a640cf589a88436273f507edddc1dec5af9bc4936008309b1ef632e30fc1c</guid><pubDate>Tue, 22 Sep 2026 02:36:37 GMT</pubDate><description>&lt;p&gt;面对市场对万亿AI资本支出是否会沦为泡沫的日益担忧，黑石集团总裁Jon Gray用极具冲击力的真实回报数据给出答案：实体经济的效率飞跃正在引爆指数级的需求，而算力、电力与数据中心的“现实硬短缺”，构成了当下最核心的投资机遇。&lt;/p&gt;
 &lt;p&gt;9月20日，黑石集团（Blackstone）总裁兼首席运营官Jon Gray在面向100多位全球顶级投资者的闭门演示中，首次全方位披露了黑石内部关于人工智能（AI）投资的专有数据与核心逻辑。&lt;/p&gt;
 &lt;p&gt;面对市场上关于“巨额AI资本支出能否为投资者带来回报”的深刻怀疑，Jon Gray借用了一则经典的超级碗广告词——“牛肉在哪儿？（Where’s the Beef?）”，直击当前AI投资的核心痛点。他明确指出，&lt;strong&gt;AI部署已经转化为企业实实在在的生产力提升和收入增长，而由此引发的需求正与现实世界的基础设施瓶颈发生剧烈碰撞。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
