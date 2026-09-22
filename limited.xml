@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 10:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指尾盘一度转跌，算力芯片掀涨停潮，AI应用拉升，恒指、恒科指小幅收涨，腾讯阿里集体反弹</title><link>https://wallstreetcn.com/articles/3782269</link><guid>e8a6f034a9df056671b89435957989bc72b1d170383efb6188dc3831cc4dc678</guid><pubDate>Tue, 22 Sep 2026 08:19:37 GMT</pubDate><description>&lt;p&gt;Meta智能体Muse爆火让市场重新评估Agent时代的算力需求结构——智能体持续在线运行主要拉动的是CPU而非GPU，直接点燃了国产算力芯片行情。港股权重科网股多数反弹，阿里涨近2%，腾讯大涨5%。消息面，腾讯周二发布AI图像模型。 &lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 11:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 软银借道债市为AI帝国输血，垃圾债市场迎来历史级考验</title><link>https://wallstreetcn.com/articles/3782300</link><guid>3165cc8f5f1a792e7d805d5f030ff6caa78778bf4db81f95c5f9f0ec2138b5b6</guid><pubDate>Tue, 22 Sep 2026 11:00:35 GMT</pubDate><description>&lt;p&gt;软银大规模债券发行，正成为债市检验投资者AI投资热情与风险承受能力的一场关键测试。&lt;/p&gt;
+&lt;p&gt;9月22日，据彭博援引知情人士透露，&lt;strong&gt;软银集团此次债券发行已吸引逾200亿美元的初步投资意向，有望跻身史上规模最大的垃圾债交易之列。此次发行募资将主要用于支持软银对OpenAI的巨额投资，投资者正争相锁定可能创下纪录的高收益率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述需求仅代表投资者早期、非约束性的认购意向，主要作为正式定价前的参考，最终定价预计于周四完成。&lt;strong&gt;此次发行规模超110亿美元，包括100亿美元美元债和10亿欧元（约合11亿美元）欧元债。软银方面表示，交易进展顺利、需求强劲，但目前暂无扩大规模的计划。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次交易正值全球市场借贷成本普遍上升、AI前景与风险持续引发市场波动之际，其最终定价及市场反应，也将成为观察投资者对AI资产信心的重要窗口。&lt;/p&gt;
+收益率或创纪录，定价讨论仍在进行
+&lt;p&gt;据彭博援引知情人士消息，软银及其主承销商已就此次发行的潜在定价与投资者展开沟通。其中，&lt;strong&gt;期限最长的美元部分为7.5年期票据，讨论中的潜在收益率最高约10%；期限最长的欧元部分为6年期，讨论区间在8%中段附近。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;若最终按照上述水平定价，将创下相应货币及期限下的收益率纪录。不过，知情人士指出，上述数字仍处于试探性沟通阶段，尚未进入正式的初始价格指引环节，最终定价仍存在变数。软银周一已面向全球投资者举行路演电话会议，并将于周二继续进行。&lt;/p&gt;
+&lt;p&gt;承销团队阵容强大。花旗集团担任美元部分的主账簿管理人及联席全球协调人，高盛集团、摩根大通及摩根士丹利亦参与其中。欧元部分由摩根大通担任主账簿管理人，联席全球协调人包括高盛及德意志银行。&lt;/p&gt;
+软银AI融资版图持续扩张
+&lt;p&gt;此次债券发行，是软银近期密集融资行动的最新一环。软银创始人孙正义领导的集团已向OpenAI累计承诺投入近650亿美元，使其成为全球最大的AI投资方之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为支撑庞大的AI投资布局，软银今年以来持续加码融资。&lt;/strong&gt;今年3月，软银签署400亿美元过桥贷款，以追加对OpenAI的投资，并已偿还其中259亿美元的未偿余额。上周，软银又将一笔以旗下芯片子公司Arm股份为抵押的保证金贷款规模扩大50亿美元至250亿美元，同时将一条现有信贷额度增加4.5亿美元至65亿美元。&lt;/p&gt;
+&lt;p&gt;此外，阿波罗全球管理公司正在洽谈将对软银的一笔贷款规模扩大36亿美元至90亿美元，以协助其为OpenAI投资融资；软银还获得了一笔118.7亿美元的贷款，同样用于支持其OpenAI投资。&lt;/p&gt;
+&lt;p&gt;据彭博汇编数据，&lt;strong&gt;今年以来软银已跨币种发行近150亿美元债券，成为2026年迄今全球垃圾评级借款人中债券市场融资规模最大的企业。&lt;/strong&gt;&lt;/p&gt;
+AI不确定性与信用风险受市场关注
+&lt;p&gt;尽管认购需求旺盛，市场对软银信用风险的担忧也在同步升温。据彭博汇编数据，&lt;strong&gt;软银2031年到期美元债券的收益率本月早些时候一度升至8.2%，较1月份的低点6.7%大幅上行，反映出信用利差走阔与美债基准收益率上升的双重压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，部分全球顶级AI平台负责人近期出于安全考量呼吁放缓AI发展步伐，为AI投资前景增添不确定性，并推动软银债务违约保险成本升至三年来最高水平。&lt;strong&gt;OpenAI首席执行官Sam Altman表示，公司今年不会上市，这意味着软银对OpenAI的巨额投资短期内仍无法通过公开市场实现退出，相关资产的流动性也受到市场关注。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;信用评级方面，软银目前获标普及惠誉评为BB+，处于投机级最高档。相比之下，2026年迄今企业债发行规模最大的两家公司——Alphabet及Amazon——评级分别为AA+和AA，均高于日本主权信用评级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指尾盘一度转跌，算力芯片掀涨停潮，AI应用拉升，恒指、恒科指小幅收涨，腾讯阿里集体反弹</title><link>https://wallstreetcn.com/articles/3782269</link><guid>e8a6f034a9df056671b89435957989bc72b1d170383efb6188dc3831cc4dc678</guid><pubDate>Tue, 22 Sep 2026 08:19:37 GMT</pubDate><description>&lt;p&gt;Meta智能体Muse爆火让市场重新评估Agent时代的算力需求结构——智能体持续在线运行主要拉动的是CPU而非GPU，直接点燃了国产算力芯片行情。港股权重科网股多数反弹，阿里涨近2%，腾讯大涨5%。消息面，腾讯周二发布AI图像模型。 &lt;/p&gt;
 &lt;p&gt;9月22日，A股全天冲高回落，早盘三大指数集体高开，创业板指盘中一度涨超2%，随后双创指数冲高回落、尾盘集体下挫，三大指数近乎平收。算力芯片、半导体、MLCC、AI应用、出版传媒、生物制品涨幅居前；航运港口、旅游酒店、贵金属、玻璃玻纤跌幅居前。&lt;/p&gt;
 &lt;p&gt;港股恒指、恒生科技指数早盘冲高后逐渐回落，恒科指盘中一度涨超1%，权重科网股多数反弹，阿里涨近2%，腾讯控股大涨超5%，隔夜Meta大涨11%，旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，芯片半导体活跃，澜起科技涨8%。债市方面，国债期货全线上涨。商品方面，国内商品期货走势分化。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -777,84 +793,4 @@ B端：腾讯WorkBuddy的企业路径
 &lt;p&gt;公司于2023年组建Seed大模型团队，2026年6月发布Seed2.1模型，并通过豆包和火山引擎向个人和企业用户提供服务。大模型研发、消费端产品和企业服务都需要技术、产品及商业化团队协同，自有园区有助于集中人员并定制办公和研发环境。&lt;/p&gt;
 &lt;p&gt;办公楼市场调整也为科技企业购置资产提供了窗口。世邦魏理仕数据显示，2025年北京办公楼平均租金同比下降10.7%，企业自用购置成为物业交易的重要支撑。但租金下降同样提高了租赁方案的吸引力，拿地自建还需承担前期资金投入和较长建设周期。&lt;/p&gt;
 &lt;p&gt;连续拿地更能说明字节希望在北京稳定配置长期办公和研发空间。从大钟寺办公集群、学院路研发用地到奥林匹克公园商务地块，字节正在形成用途有所区分的自有空间布局，具体承载哪些业务仍需等待规划和公司信息进一步披露。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Muse“加持”，纳指“安静的暴涨”，市场对“重返AI交易”将信将疑，下周的美光财报成焦点</title><link>https://wallstreetcn.com/articles/3782270</link><guid>120de3ce7dd3af4b99e23e863df75596ebbc57cbb9e8a64dd3f0ccd455b5b5d1</guid><pubDate>Tue, 22 Sep 2026 02:36:03 GMT</pubDate><description>&lt;p&gt;Meta AI智能体Muse上线仅12天，日活跃用户峰值达44.8万，单日下载量创26.4万纪录，远超ChatGPT同期表现，引爆市场对消费级AI进入主流拐点的押注。&lt;/p&gt;
-&lt;p&gt;9月21日，纳指100单日收涨约2.83%，重新站上3万点，创6月以来新高。但高盛交易台分析师Peter Callahan指出这是一次&lt;strong&gt;“安静的暴涨”&lt;/strong&gt;——成交活跃度只有3分（满分10分），S&amp;amp;P等权重指数仅涨约18个基点，涨幅高度集中于大市值科技股。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是我记忆中少有的一次“安静的”约3%纳指涨幅。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Muse类产品的爆发，直接打开了CPU芯片的新需求空间。&lt;/strong&gt;Arm Holdings当日涨超15%，英特尔涨逾12%，AMD涨近10%。&lt;/p&gt;
-&lt;p&gt;与此同时，信用市场与股市出现背离，投资级CDS利差扩至五个月最高，信用市场对本轮乐观情绪持保留态度；下周美光财报被视为AI基础设施交易能否持续的关键验证节点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Muse：从聊天机器人到“帮你干活”的智能体
-&lt;p&gt;这一切的导火索，是Meta的消费级AI智能体Muse。&lt;/p&gt;
-&lt;p&gt;Muse于9月8日上线，定位与传统对话式AI截然不同——它能自主执行多步骤任务，包括预订行程、管理日历、代为完成电商购物，在后台持续运行，而非等待用户指令。&lt;/p&gt;
-&lt;p&gt;Wells Fargo分析师Ken Gawrelski在给客户的报告中援引SensorTower数据指出：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Muse在9月19日单日下载量达26.4万次，连续第三天突破20万&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;上线第10天，日活跃用户峰值达44.8万&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;对比：ChatGPT达到20万日下载量用了近一年，达到45万日活跃用户用了49天&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ken Gawrelski将Meta目标价从640美元上调至796美元，维持“增持”评级，并写道：“&lt;strong&gt;Muse标志着消费级AI从聊天机器人向AI助手的转变&lt;/strong&gt;，而谁先到市场，谁就占优——因为AI助手用得越多，就越有价值。”&lt;/p&gt;
-&lt;p&gt;高盛交易台的Rich Privorotsky则直接点出Muse的战略意义：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Meta基本上建立了一个直接面向消费者的智能体工厂——购物、通话、订阅、行政事务，越来越多地代替你行动。最终状态很清晰：每个人都有几十个智能体帮你买菜、付账单、订假期、安排孩子上学。你的生产力变成了你加上你的智能体团队。这是巨大的效率释放，也是巨大的算力乘数。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Meta当日股价涨幅约11%至12%，创2025年10月以来新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-为什么是CPU，不只是GPU
-&lt;p&gt;与此同时，芯片股的涨幅结构，揭示了市场对AI架构转变的押注逻辑。&lt;/p&gt;
-&lt;p&gt;9月21日，Arm Holdings单日涨超15%，英特尔涨逾12%，AMD涨近10%——这三家都是CPU领域的核心玩家，而非传统AI算力叙事中的主角英伟达。&lt;/p&gt;
-&lt;p&gt;据市场情报机构Vital Knowledge的分析：早期生成式AI主要依赖GPU处理孤立的文本和图像生成任务；而AI智能体需要持续运行后台程序、逻辑循环和本地数据调度，这使得智能体AI对CPU的需求远高于GPU密集型工作负载。&lt;/p&gt;
-&lt;p&gt;换句话说，&lt;strong&gt;Muse类产品的爆发，直接打开了CPU芯片的新需求空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AMD当日市值首次触及1万亿美元门槛，超越摩根大通，与礼来、伯克希尔哈撒韦并肩。高盛TMT交易台的Peter Callahan在快报中特别提及：“如果AMD未来超越这两家，标普500前十大公司将全部是TMT公司，且市值均超过1万亿美元。”&lt;/p&gt;
-&lt;p&gt;此外，据报道，OpenAI正在加速开发类似Muse的消费级智能体产品，行业军备竞赛的预期进一步推高了市场对整个CPU/云计算产业链的估值。&lt;/p&gt;
-“安静的暴涨”：涨幅集中，市场内部高度分化
-&lt;p&gt;高盛TMT交易台分析师Peter Callahan的快报用一句话定性了这次行情：“纳指重返3万点，但这是我记忆中少有的一次安静的约3%涨幅。”&lt;/p&gt;
-&lt;p&gt;当日数据显示：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;标普500等权重指数当日仅涨约18个基点，而标普500本身涨幅约130个基点——两者差距位列过去5年以上的单日前五&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;半导体指数SOX在5个交易日内累计涨幅接近12%，为2025年8月初反弹以来最强5日表现&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;期权活跃度创近一个月新高，AMD和英特尔单日看涨期权成交量均超过100万张，接近年内高点&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;据媒体报道，有人在开盘时大举买入科技相关看涨期权，触发了“现货涨、波动率也涨”的罕见组合——这通常是期权驱动行情的典型特征，而非基本面驱动的稳健上涨。&lt;/p&gt;
-&lt;p&gt;高盛交易台同日记录显示，当日整体买卖方向基本均衡，多头基金（LO）在通信服务和信息技术方向净买入，对冲基金（HF）在通信服务、金融和消费可选方向净买入，但整体活跃度依然偏低。&lt;/p&gt;
-投资者将信将疑：基本面扎实，但“涨太快了”
-&lt;p&gt;高盛TMT快报直接记录了当日投资者的真实反应：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;投资者承认基本面扎实，但情绪指标更为谨慎，当天收到大量“涨太快了”和“目标价在哪里”的问询。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Peter Callahan进一步指出，这与高盛近期科技会议上的对话一脉相承——投资者对于是否全面“重返AI基础设施交易”存在明显张力。原因在于，宏观层面的油价和利率压力，在近期盖过了基本面层面健康的供需评论、资本回报率数据和产品更新等积极信号，“似乎形成了一种&amp;#x27;买家在更高位置等待&amp;#x27;的行情格局”。&lt;/p&gt;
-&lt;p&gt;换句话说：基本面没问题，但宏观噪音让投资者不敢追高。&lt;/p&gt;
-信用市场发出不同信号
-&lt;p&gt;股市的乐观情绪，并未得到信用市场的背书。&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Frank Monkam分析：&lt;strong&gt;尽管标普500接近历史高位，但投资级债券的信用质量——以5年期投资级CDS衡量——已恶化至五个月最低，且自美联储本月加息以来，这一背离持续扩大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Frank Monkam写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;股市继续定价韧性增长和盈利，以及更乐观的叙事。信用市场则在做数学题，要求更高的企业风险补偿。这种明显的错误定价引发了一个问题：哪个市场对风险溢价的判断是错的？我倾向于认为，来自资本结构更高层级的信号，最终将有最后的发言权。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;两个市场，同一张企业资产负债表，给出了截然不同的答案。&lt;/p&gt;
-油价与利率：暂时的喘息，还是真正的转机？
-&lt;p&gt;本轮科技反弹的另一个宏观背景，是油价的回落。&lt;/p&gt;
-&lt;p&gt;布伦特原油跌破100美元/桶，据彭博报道，卫星数据显示沙特阿拉伯波斯湾港口的石油装载量在上周末大幅跳升，为6月以来最高，显示沙特在红海管道受无人机袭击中断后，已将出口路线切换回霍尔木兹海峡。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;油价下跌带动10年期美债收益率跌破5%关口。高盛的Rich Privorotsky将利率和利率波动率定性为“当前最大的宏观风险”，并指出：“利率与能源价格脱锚的风险依然存在——油价下来了，但二次通胀和全球利率冲击的影响已经固化。”&lt;/p&gt;
-下一个催化剂：美光财报
-&lt;p&gt;高盛TMT快报在结尾明确点出下一个市场焦点：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;远离会议和地缘政治，我雷达上的下一个催化剂是下周的美光（MU）财报。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;美光作为AI存储芯片的核心供应商，其财报将直接检验AI基础设施需求的真实强度。值得注意的是，在本轮芯片股普涨中，存储板块明显落后——闪迪当日跌约3%，西部数据和希捷科技基本持平——这与CPU芯片的爆发形成鲜明对比。&lt;/p&gt;
-&lt;p&gt;美光财报能否弥合这一分歧，将是市场判断“重返AI交易”是否可持续的重要参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
