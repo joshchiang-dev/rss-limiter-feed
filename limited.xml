@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 20:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价降50%，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 20:09:44 GMT</pubDate><description>&lt;p&gt;GPT-6模型家族正在加速扩容。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 20:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价降50%，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 20:09:44 GMT</pubDate><description>&lt;p&gt;GPT-6模型家族正在加速扩容。&lt;/p&gt;
 &lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI宣布，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -299,40 +299,7 @@ AI先改变预算流向，广告增量尚未打开
 模型之外，商业闭环决定价值获取
 &lt;p&gt;当AI从广告投放工具进一步变成能够理解需求并执行任务的Agent后，平台竞争的核心将转向对商业链路的控制。摩根士丹利将其归纳为四个关键节点：&lt;strong&gt;谁发起需求、谁决定候选集、谁完成交易，以及谁掌握结果数据和回写权限&lt;/strong&gt;。从广告、赞助排序，到交易佣金、支付和商家服务，不同环节对应着不同的价值获取方式。&lt;/p&gt;
 &lt;p&gt;这也是独立AI与嵌入式AI的主要差异。独立AI能够聚合跨领域用户意图，但嵌入业务体系的AI距离商品、商家、支付和交易更近，更容易把用户需求转化为可量化的商业结果。调研显示，&lt;strong&gt;47%的广告主认为AI创造的价值将由各参与方共同分享，37%认为平台将成为最大的单一受益方。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2</title><link>https://wallstreetcn.com/articles/3782295</link><guid>fbe3980e2ebe755c02fb58fe6fd47ef425ead2692747acc47b2be68b3263b398</guid><pubDate>Tue, 22 Sep 2026 08:39:12 GMT</pubDate><description>&lt;p&gt;AI Agent正在从聊天窗口走进企业组织，阿里千问办公进一步补齐从“懂业务”到“能执行”的产品链条。&lt;/p&gt;
-&lt;p&gt;9月22日，阿里巴巴旗下千问办公在2026杭州云栖大会发布一系列企业级AI Agent产品，推出企业上下文、数字员工、协作空间、安全中心等功能，完善Agent从业务理解到执行协作的产品体系。硬件方面，千问办公同步发布AI Agent随身助理QwenNote A2。&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;企业上下文（Enterprise Context）通过整合企业数据，帮助Agent获取与任务相关的信息，进一步构建“懂业务”的数字员工。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;阿里巴巴集团副总裁、千问办公CEO陈宇森在大会现场表示，&lt;strong&gt;“千问办公是业内首个企业级Agent产品”&lt;/strong&gt;。他指出，Agent要真正落地企业，既要懂业务，也要像人一样在企业和组织内协同，同时每一次任务执行都要有边界、可追溯。&lt;/p&gt;
-&lt;p&gt;硬件方面，陈宇森透露，上一代钉钉A1已在国内实现“大几十万台”销量，并对新款QwenNote A2提出“千万台”的销量目标，显示出千问办公对AI硬件市场的进一步布局。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-企业上下文：让Agent真正读懂业务数据
-&lt;p&gt;千问办公此次发布的核心产品之一是“企业上下文”（Enterprise Context），定位为面向企业的上下文数据管理产品。&lt;/p&gt;
-&lt;p&gt;其核心逻辑在于，企业往往积累了大量数据，但Agent执行具体任务时，需要的并非全量信息，而是与当前任务最相关的内容。&lt;strong&gt;企业上下文通过内置专属模型，以较低的Token成本对企业数据进行压缩和结构化处理，并随业务变化实时更新，让Agent能够基于最新业务信息进行判断。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一产品直接针对企业AI落地中的数据孤岛和信息过载问题。基于企业上下文与千问办公的Agent托管能力，企业可以构建“懂业务”的数字员工，并将其部署在钉钉等即时通讯平台，与员工协同完成任务。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-数字员工与协作空间：Agent走向组织化运作
-&lt;p&gt;在数字员工层面，&lt;strong&gt;千问办公为Agent赋予完整的“组织身份”：拥有名称、所属部门、负责人和岗位职责，同时具备授权范围与生命周期管理&lt;/strong&gt;，可被员工识别、被系统授权，也可由管理员停用，所有执行记录均可追溯至对应身份。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，千问办公推出“协作”功能，允许企业创建协作空间，将散落在群聊、文档和知识库中的信息统一关联，并按需加入团队成员与数字员工。在该空间内，&lt;strong&gt;员工可以直接与同事或Agent讨论，Agent之间也可以相互沟通、分工协作，任务产出与进度统一沉淀在空间中，减少信息在不同群组之间反复流转。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;针对不适合在聊天框内完成的工作场景，千问办公还推出“应用”功能，支持企业和SaaS厂商将业务系统以应用形式接入，在保留原有界面和数据的同时叠加Agent能力。用户可以直接在业务系统内修改、保存AI生成的结果，无需在多个工具之间切换。&lt;/p&gt;
-安全中心：从架构层面管控Agent风险
-&lt;p&gt;随着AI从“回答问题”走向“执行操作”，安全边界成为企业采用Agent的关键考量。陈宇森表示，企业不能只在系统外围增加防线，而应从架构设计之初就将权限越界、数据泄露和误操作等风险纳入考量。&lt;/p&gt;
-&lt;p&gt;此次发布的千问办公安全中心，可统一管理Agent的数据访问、工具调用和任务执行。&lt;strong&gt;具体机制包括：执行前通过沙箱划定运行边界，执行过程中对高风险操作进行审批与拦截，异常发生后通过操作记录与恢复机制进行处置。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;结合钉钉企业安全体系，该产品还支持最小权限授予、敏感信息识别与全程审计，使企业能够追溯任务发起方、Agent使用的数据以及具体执行操作。&lt;/p&gt;
-QwenNote A2：以隐私保护为差异化卖点的AI硬件
-&lt;p&gt;硬件层面，千问办公发布AI Agent随身助理QwenNote A2，主打“真AI，不录音”，针对传统AI录音产品引发的隐私顾虑。&lt;/p&gt;
-&lt;p&gt;在隐私保护机制上，QwenNote A2采用“单次转写、转后即焚”的设计：设备默认不录音，交流结束后语音在云端完成一次文字转写，随后原始录音被永久删除；设备工作时亮起无痕小绿灯，告知对方当前仅在记笔记而非录音。该设备重67克，搭载六麦拾音阵列，支持独立联网与调用Agent，无需依赖手机即可运行。&lt;/p&gt;
-&lt;p&gt;在使用场景上，QwenNote A2支持一键将线下交流转化为云端任务。&lt;strong&gt;例如销售拜访客户后，可通过语音指令将交流内容同步至千问办公，自动生成PPT或提炼关键信息。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;陈宇森披露，上一代产品钉钉A1已在国内实现“大几十万台”销量。他认为，AI录音只是一个小品类，AI笔记、AI会议智能等产品则具备更大的应用空间，未来完全有可能实现“千万台”级别的销量。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Qwen Intelligence：千问大模型进一步布局个人智能
-&lt;p&gt;与此同时，千问大模型还发布AI手机全栈解决方案Qwen Intelligence，面向手机厂商提供模型、平台及场景解决方案，推动手机Agent从简单问答进一步走向复杂任务执行。&lt;/p&gt;
-&lt;p&gt;针对手机Agent的核心需求，Qwen Intelligence首发三套解决方案：&lt;strong&gt;Mobile Planner Agent负责理解需求、拆解任务并动态规划；Mobile-Use Agent负责实际操作手机；Mobile Creative Agent则面向影像创作，将用户的一句话需求转化为完整创作流程。&lt;/strong&gt;官方数据显示，Mobile-Use Agent端到端实测任务成功率达到90%，单次任务完成时间从83.6秒缩短至59.5秒。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;目前，Qwen Intelligence已开始进入实际应用。阿里巴巴携手荣耀，以Qwen Intelligence和荣耀Magic OS为基础，共同打造面向下一代AI手机的垂域模型和解决方案。&lt;strong&gt;官方数据显示，该方案综合任务准确率达到91.8%，复杂长程任务可执行100步以上操作，端到端服务闭环率达到90%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
+&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
 &lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
 &lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -345,4 +312,73 @@ Qwen Intelligence：千问大模型进一步布局个人智能
 &lt;p&gt;围绕CDU，LG电子还在推进冷水机组（chiller）、计算机机房空气处理单元（CRAH）以及直接接触芯片进行散热的冷板（cold plate）等产品和技术，试图从单一设备进一步延伸至完整的液冷解决方案。&lt;/p&gt;
 &lt;p&gt;市场研究机构TrendForce预计，AI数据中心液冷解决方案采用率将从2024年的14%提升至2025年的60%。&lt;strong&gt;随着AI服务器功耗持续提升，液冷在数据中心中的应用范围也在扩大，为LG电子扩大相关业务提供了市场基础。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;LG电子ES业务部门负责人Lee Jae-sung表示，公司将以此次英伟达DSX认证为起点，向全球大型科技公司提供更加可靠、高效的冷却解决方案，并计划在下一代液冷市场确立领先地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事</title><link>https://wallstreetcn.com/articles/3782309</link><guid>eb36d9e5a8e7984200fec61157f174bb35c3f9098d15b55a894d3fe930495ce2</guid><pubDate>Tue, 22 Sep 2026 13:30:03 GMT</pubDate><description>&lt;p&gt;你的ChatGPT里，可能马上就要多出一个「人」了！&lt;/p&gt;
+&lt;p&gt;马斯克的Bot上班一个多月，扎克伯格的Muse冲上App Store 榜首，一家邀请制小公司谈到了100亿美元估值。&lt;/p&gt;
+&lt;p&gt;短短几周，在「AI替人干活」这个赛道上，OpenAI一下成了追赶者。&lt;/p&gt;
+&lt;p&gt;据The Information爆料，OpenAI正在开发更直接对标Grok Bot的功能，内部也在讨论如何应对Meta的个人助手Muse。&lt;/p&gt;
+&lt;p&gt;这篇报道给OpenAI贴上了「追赶者」的标签。放在一年半以前，这三个字怎么也落不到它头上。&lt;/p&gt;
+&lt;p&gt;2025年1月它推出Operator时，是最早把「AI替人操作浏览器」做成消费级产品的公司。&lt;/p&gt;
+&lt;p&gt;ChatGPT更是把生成式AI送进了普通人的手机，据The Information报道，&lt;strong&gt;今年夏天周活突破10亿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在报道发出之后，常年扒ChatGPT代码的爆料博主Tibor Blaho转发了记者Stephanie Palazzolo的帖子，甩出一个词：&lt;strong&gt;Aeon。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Aeon在希腊语里是「永世」「无尽的时间」的意思。&lt;/p&gt;
+&lt;p&gt;如果这真是OpenAI给智能体起的名字，很难不让人联想到：它也要为你造一个不下班、一直在线的AI同事了。&lt;/p&gt;
+&lt;p&gt;Tibor还在帖子上附了一张截图，是他从ChatGPT客户端里翻出来的代码。&lt;/p&gt;
+&lt;p&gt;ChatGPT网页版的代码里，有这样一行：&lt;/p&gt;
+&lt;p&gt;一条消息，如果是用户发的，就记在用户的账号名下；如果不是用户发的，就记在一个叫Aeon的名下。&lt;/p&gt;
+&lt;p&gt;也就是说，&lt;strong&gt;在ChatGPT眼里，Aeon和用户是两种并列的身份。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;就在被贴上「追赶者」标签的时候，泄露的代码显示，它可能已经在ChatGPT里，为那个能替你干活的AI同事留出了工位。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;马斯克的Bot，&lt;/strong&gt;&lt;strong&gt;已经上班一个多月&lt;/strong&gt;
+&lt;p&gt;OpenAI为什么坐不住？&lt;/p&gt;
+&lt;p&gt;因为马斯克的Bot已经上班一个多月了。&lt;/p&gt;
+&lt;p&gt;8月11日SpaceXAI发布Grok Bot。官方给它的定位极简：你的始终在线智能体团队。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;注意，给你的是一群智能体，而不只是一个。它们和普通AI助手最大的差别，是有自己的电脑。&lt;/p&gt;
+&lt;p&gt;据官方介绍，同一用户名下的所有Bot，共享一台放在云端的持久电脑，文件、浏览器、登录状态都在上面。你合上笔记本去睡觉，它还在跑。&lt;/p&gt;
+&lt;p&gt;这些Bot会自己登录你的Gmail、Notion、财务软件甚至没有API的旧网站。&lt;/p&gt;
+&lt;p&gt;它们像人一样操纵鼠标、填表，把活一路干完，只有碰到需要你点头的事，才跑来问你一句。&lt;/p&gt;
+&lt;p&gt;更狠的是多Bot协作。&lt;/p&gt;
+&lt;p&gt;你可以同时开好几个Bot，一个管收件箱，一个跑销售外联，上面再放一个「幕僚长」统筹。它们能在群聊里自己分派工作。&lt;/p&gt;
+&lt;p&gt;Grok Bot真正在卖的，其实就是这么一个动作：把活儿交出去。&lt;/p&gt;
+&lt;strong&gt;代码里多出来一个「成员」&lt;/strong&gt;
+&lt;p&gt;在Tibor转发的那张代码截图中，aeonId和accountUserId并列，说明在ChatGPT的系统里，Aeon可能是某种可以被单独标识的对象，而不是一个简单的功能开关。&lt;/p&gt;
+&lt;p&gt;至于它有没有和用户同等的身份或权限，截图里看不出来。&lt;/p&gt;
+&lt;p&gt;在安卓端最近的两个连续版本里，aeonId反复出现，旁边还有一个名为memberAeonIds的字段。&lt;/p&gt;
+&lt;p&gt;member是成员，这种命名很难不让人联想到Grok Bot那种多个Bot共处一个群聊的形态。&lt;/p&gt;
+&lt;p&gt;Tibor的截图上方还有另一段测试说明：&lt;/p&gt;
+&lt;p&gt;这个测试场景专门用来保护「aeon式行为」，即能力状态要在每一个采样步骤重新捕获，而不是等到下一轮用户输入时。&lt;/p&gt;
+&lt;p&gt;普通的ChatGPT是你一句我一句，而「aeon式行为」要求系统在多步执行过程中，每一步都重新确认当下能用哪些能力。&lt;/p&gt;
+&lt;p&gt;这和一个要连续干很多步活的智能体所需的逻辑对得上。&lt;/p&gt;
+&lt;p&gt;OpenAI还没有官方表态，眼下能拿到的只有一篇媒体爆料、一个疑似代号，外加几行代码字段，但草蛇灰线，已经隐约可见。&lt;/p&gt;
+&lt;strong&gt;ChatGPT的菜单里，&lt;/strong&gt;&lt;strong&gt;只写了「聊天」&lt;/strong&gt;
+&lt;p&gt;最耐人寻味的是，媒体称OpenAI不会从零造一个新产品，而是把Codex和ChatGPT里已有的智能体技术「重新包装」。&lt;/p&gt;
+&lt;p&gt;这句话揭开了一个尴尬的事实：对手们现在卖得火热的能力，OpenAI手里其实早就有了。&lt;/p&gt;
+&lt;p&gt;今年7月9日，OpenAI已经发布了ChatGPT Work，官方介绍里就有跨应用执行任务、持续处理复杂项目、定时任务这几项，还把Codex的技术整合了进来。&lt;/p&gt;
+&lt;p&gt;官方文档也写明，选择云端运行时，任务在你关掉App或合上电脑后也会继续跑。&lt;/p&gt;
+&lt;p&gt;人才也早有布局，今年2月，OpenClaw作者Peter Steinberger加入OpenAI，奥特曼说他来负责打造下一代个人智能体。&lt;/p&gt;
+&lt;p&gt;问题是，很多OpenAI用户，未必知道有这些功能。&lt;/p&gt;
+&lt;p&gt;这就好比后厨什么菜都能做，菜单上却只写着一道「聊天」。&lt;/p&gt;
+&lt;p&gt;如果Aeon的传闻属实，真正值得追问的是：在ChatGPT Work已有的执行能力之上，它会不会多出一个能直接喊名字、给它派活的「数字成员」？&lt;/p&gt;
+&lt;p&gt;这很可能就是它对Grok Bot的回应。&lt;/p&gt;
+&lt;strong&gt;为什么OpenAI输不起？&lt;/strong&gt;
+&lt;p&gt;据The Information报道，ChatGPT的增长过去一年明显放缓，10亿周活这个目标，OpenAI原本定在去年，今年夏天才达成。&lt;/p&gt;
+&lt;p&gt;这一轮，AI大厂抢的已经不是模型排行榜上的名次了。能替你把活干完的智能体，成了各家都在抢的第二增长曲线。&lt;/p&gt;
+&lt;p&gt;马斯克的Grok Bot，要的是一台存着你所有登录状态的云电脑。&lt;/p&gt;
+&lt;p&gt;Anthropic更早，6月23日就推出了Claude Tag，让Claude以成员身份入驻Slack接活，它要的是整个团队的频道。&lt;/p&gt;
+&lt;p&gt;Meta的Muse上架两天就冲到美国区App Store免费榜第2名，截至9月22日已经登顶，把ChatGPT挤到了身后。它要的是你天天打开的聊天App。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;还有Instinct，一家邀请制初创公司，估值一个月翻了四倍。它通过短信和电话帮你订餐厅、买东西，要的是你的信用卡和密码。&lt;/p&gt;
+&lt;p&gt;四家对手，四种打法，全都押在了你的工作流上。&lt;/p&gt;
+&lt;p&gt;想象一下未来的周一早晨：8点刚过，你端起当天的第一杯咖啡，看了一眼手机。&lt;/p&gt;
+&lt;p&gt;过去，你要先回十几封邮件，再把烦人的群消息挨个静音，最后把一堆会议塞进日历。&lt;/p&gt;
+&lt;p&gt;以后，等你喝完这杯咖啡，这些事可能都已经做完了。你面前只剩一张等你点头的清单：这封邮件发不发，这笔账单付不付，这个会接不接。&lt;/p&gt;
+&lt;p&gt;谁占住了这张清单，谁就握住了你每天干活的入口。&lt;/p&gt;
+&lt;p&gt;入口一旦养成习惯，就很难再换。&lt;/p&gt;
+&lt;p&gt;如果一个Bot接管了你的收件箱，摸清了你写邮件的口气，记住了哪些客户要优先回，想换掉它，远比换一个聊天App难。&lt;/p&gt;
+&lt;p&gt;但最难跨过去的那道坎，可能在技术之外：信任。&lt;/p&gt;
+&lt;p&gt;到底有多少普通人，愿意让一个AI访问自己的个人信息、社交账号，甚至授权它代为支付？&lt;/p&gt;
+&lt;p&gt;这份犹豫，才是所有「AI同事」要攻下的最后一关。&lt;/p&gt;
+&lt;p&gt;聊天框的时代，用户问的是：AI聪不聪明？&lt;/p&gt;
+&lt;p&gt;智能体时代，用户问的是：我敢不敢把活交给它？&lt;/p&gt;
+&lt;p&gt;留给OpenAI的问题只有一个：怎么让10亿用户放心把钥匙交出来。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;amp;mid=2652728622&amp;amp;idx=2&amp;amp;sn=01490753676698df799bbcd259610457&amp;amp;chksm=f0e4469cd474fb917c7c9891ef6697ccec198080a3ee17d467e21fab15162dcc0bf8f4f20f59&amp;amp;scene=0&amp;amp;xtrack=1#rd"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
