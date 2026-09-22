@@ -1,67 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 21:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
-&lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
-&lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI称，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
-&lt;p&gt;两款模型的定位也有所区分：Sol更偏向高能力的专业工作、编码和智能体任务，Luna则更强调速度、成本和高频使用。OpenAI表示，两款模型都继承了GPT-6 Astra在专业工作、事实准确性、编码、计算机使用和对齐方面的技术进展。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;根据OpenAI公告，Sol和Luna即日起面向Plus、Pro、Business、Enterprise及Edu用户，在ChatGPT Work和Codex中提供，同时开放API；免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。不过，两款模型目前尚未开放至ChatGPT普通聊天界面。&lt;/p&gt;
-Astra发布不到三周，OpenAI再添两款GPT-6
-&lt;p&gt;从GPT-6的发布节奏看，OpenAI此次动作相当密集。&lt;/p&gt;
-&lt;p&gt;9月3日，OpenAI正式推出GPT-6 Astra，并称其在计算机和浏览器操作、软件工程、网络安全、科学和专业工作等领域达到新的能力前沿。OpenAI当时将Astra定位为GPT-6家族的旗舰模型。&lt;/p&gt;
-&lt;p&gt;仅仅不到三周，OpenAI就再次推出Sol和Luna。&lt;/p&gt;
-&lt;p&gt;OpenAI的官方账号在社交媒体表示，Sol和Luna“建立在GPT-6 Astra背后的技术进展之上”，将Astra的诸多优势带入“更快速、更实惠的模型”，以支持规模化工作。&lt;/p&gt;
-&lt;p&gt;这一产品节奏显示，OpenAI并没有将GPT-6定位成一次只有旗舰模型的单点升级，而是在Astra发布后迅速向不同性能、成本和使用场景铺开产品线。&lt;/p&gt;
-&lt;p&gt;这也与此前AI模型厂商越来越明显的产品策略相呼应：旗舰模型负责突破能力上限，而更快、更便宜的版本则负责进入更多高频工作流。&lt;/p&gt;
-从Astra到Sol、Luna，能力向更大规模场景下沉
-&lt;p&gt;与Astra强调前沿能力不同，Sol和Luna的定位更加突出&lt;strong&gt;速度、成本和规模化使用&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;OpenAI称，Astra仍然是其“各方面表现最佳”的模型，适合最困难、最重要的项目；而Sol和Luna则是把Astra背后的技术进展带入不同成本和使用规模的产品。&lt;/p&gt;
-&lt;p&gt;OpenAI表示，Sol和Luna不仅继承Astra的技术进展，还针对缓存和推理效率进行了优化。公司称，这些优化能够降低模型运行成本，并最终通过更低的API价格反馈给用户。&lt;/p&gt;
-&lt;p&gt;OpenAI还表示，两款模型在对齐能力方面同样吸收了Astra的进展，相较各自的GPT-5.6版本有所提升。&lt;/p&gt;
-&lt;p&gt;换句话说，OpenAI此次并非单纯推出两个“低价版”模型，而是试图将Astra在能力和对齐方面的部分进步，向更高频、更大规模的模型调用场景延伸。&lt;/p&gt;
-&lt;p&gt;对于开发者和企业而言，这意味着此前只有在高价值任务中才值得调用的先进模型能力，未来可能以更低的单位成本进入编码、智能体和企业自动化等大量重复性工作。&lt;/p&gt;
-API价格较GPT-5.6促销价直接腰斩
-&lt;p&gt;价格是此次发布最明确的商业信号。&lt;/p&gt;
-&lt;p&gt;OpenAI宣布，GPT-6 Sol和GPT-6 Luna的API价格，较GPT-5.6的促销价格下调50%。&lt;/p&gt;
-&lt;p&gt;目前OpenAI公布的GPT-5.6 Sol促销价格为每100万Token输入4美元、输出20美元；因此，Sol和Luna此次的价格下调意味着其API成本进一步向下。OpenAI的企业价格表也显示，GPT-5.6 Sol目前仍处于促销定价阶段。&lt;/p&gt;
-&lt;p&gt;OpenAI解释称，价格下降主要来自更高效的缓存和推理，而不是单纯的商业让利。&lt;/p&gt;
-&lt;p&gt;OpenAI官方账号称，“更高的使用额度和更低的成本”将给用户更多灵活性和迭代空间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于需要大量调用模型的开发者和企业来说，单位Token成本下降意味着同样的预算可以运行更多任务，也意味着过去因成本而被限制的智能体工作流，有望获得更大的运行空间。&lt;/p&gt;
-&lt;p&gt;这也让AI模型的竞争进一步从“谁的模型能力更强”，延伸到谁能以更低成本提供足够强的模型能力。&lt;/p&gt;
-先进入Work和Codex，免费用户可体验Luna
-&lt;p&gt;在产品覆盖上，OpenAI此次也没有立即让Sol和Luna全面进入ChatGPT普通聊天界面。&lt;/p&gt;
-&lt;p&gt;根据OpenAI的安排，Plus、Pro、Business、Enterprise及Edu用户可以在ChatGPT Work和Codex中使用两款模型，同时通过API调用。&lt;/p&gt;
-&lt;p&gt;免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。&lt;/p&gt;
-&lt;p&gt;这一安排使两款模型的首发场景明显偏向工作和开发，而不是单纯面向消费者聊天。&lt;/p&gt;
-&lt;p&gt;其中，Sol和Luna的低成本、高使用效率，也更适合需要频繁调用模型的编码任务、智能体工作流以及企业内部自动化。&lt;/p&gt;
-&lt;p&gt;相比之下，GPT-6 Astra仍然承担旗舰模型的角色。Astra发布后，OpenAI甚至因需求激增一度暂停新的Pro订阅注册，并称Astra需求“前所未有”。&lt;/p&gt;
-&lt;p&gt;因此，此次推出Sol和Luna，也可能有助于OpenAI将部分高频需求导向成本更低的模型，从而在扩大使用规模的同时降低基础设施压力。&lt;/p&gt;
-Sol主攻复杂工作，Luna瞄准高频低成本任务
-&lt;p&gt;从OpenAI公布的测试结果看，两款模型并非简单的“同一模型不同价格”。&lt;/p&gt;
-&lt;p&gt;Sol承担的是更高能力需求的任务。OpenAI称，GPT-6 Sol可以处理复杂的专业工作，同时凭借更高的使用额度和更低的成本，让用户能够进行更多轮迭代。&lt;/p&gt;
-&lt;p&gt;在AutomationBench这一测试企业跨应用工作流的基准中，GPT-6 Sol在xhigh effort下获得33.2%，高于GPT-6 Astra在low effort下的30.3%，也高于Claude Opus 5 max effort下的26.9%；OpenAI称，Sol完成每项任务的成本仅为0.27美元。&lt;/p&gt;
-&lt;p&gt;值得注意的是，无代码AI自动化平台Zapier也公布了对GPT-6 Sol的测试结果，得分同样为33.2%。&lt;/p&gt;
-&lt;p&gt;Zapier称，其测试基于真实工作流，在xhigh effort下，GPT-6 Sol的33.2%高于GPT-5.6 Sol的28.77%；同时，Sol的API输入价格为2美元/百万Token，约为GPT-5.6 Sol的一半。&lt;/p&gt;
-&lt;p&gt;从具体任务来看，Zapier称GPT-6 Sol尤其擅长运营类工作，在其测试中的得分达到58%。Zapier因此建议，正在使用GPT-5.6 Sol的工作流可以考虑升级到新模型，并强调Sol同时具备更低价格和更高测试成绩。需要指出的是，这属于Zapier自身的测试和评价，并非对所有企业工作流表现的独立结论。&lt;/p&gt;
-&lt;p&gt;在专业工作测试Agents&amp;#x27; Last Exam中，GPT-6 Sol最高获得56.4%的成绩；在DeepSWE v1.1软件工程测试中，Sol最高获得68.8%，与Claude Fable 5的最高成绩69.9%相差1.1个百分点，但OpenAI称其单项任务成本约低80%。&lt;/p&gt;
-&lt;p&gt;Luna则更突出成本效率。&lt;/p&gt;
-&lt;p&gt;OpenAI称，在AutomationBench高强度测试中，GPT-6 Luna较GPT-5.6 Luna提高5.4个百分点，同时单项任务成本降低58%；在DeepSWE v1.1中，Luna最高获得66.6%，与Claude Opus 5和Fable 5的中等强度表现相当，但每项任务成本分别低93%和96%。&lt;/p&gt;
-&lt;p&gt;此外，OpenAI表示，两款模型的事实准确性也有所提升。其内部事实性测试显示，GPT-6 Sol的错误数量约为前代一半；Luna在更高推理强度下，也可以达到GPT-5.6 Sol的水平，而成本约为后者的百分之一。需要注意的是，这一测试基于用户此前标记为事实错误的匿名ChatGPT对话，并不代表所有真实使用场景。&lt;/p&gt;
-AI模型竞争从“拼旗舰”进入“拼规模”
-&lt;p&gt;OpenAI给出的价格表显示，GPT-6 Sol输入价格从GPT-5.6 Sol促销价的4美元降至2美元/百万Token，输出价格从20美元降至10美元；Luna输入价格从0.20美元降至0.10美元，输出价格从1.20美元降至0.50美元。&lt;/p&gt;
-&lt;p&gt;这意味着两款模型的API成本并非小幅下降，而是&lt;strong&gt;直接打五折&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;OpenAI解释称，更低的价格来自缓存和推理效率的提升。公司同时进一步优化了提示词缓存，使智能体和长对话能够更多复用此前已经处理过的上下文。&lt;/p&gt;
-&lt;p&gt;对于开发者和企业客户而言，模型价格下降的意义不仅是“每次调用更便宜”，还意味着同样预算可以承载更多轮模型调用。&lt;/p&gt;
-&lt;p&gt;尤其是编码智能体和企业自动化工作流需要长时间、反复调用模型，&lt;strong&gt;模型单位成本正在成为决定智能体能否真正规模化部署的重要变量。&lt;/strong&gt;&lt;/p&gt;
-一边呼吁“慢下来”，一边把模型变得更便宜
-&lt;p&gt;值得注意的是，GPT-6 Sol和Luna发布之际，OpenAI与Anthropic实际上都在讨论“AI开发是否应该放慢”。&lt;/p&gt;
-&lt;p&gt;本月早些时候，Anthropic CEO Dario Amodei公开呼吁放慢前沿AI发展的速度，并警告快速推进可能带来风险。OpenAI CEO Sam Altman随后表示认同行业需要放慢前沿模型发展的速度、加强安全措施。OpenAI首席科学家Jakub Pachocki也曾提出，通过协调来放慢未来AI开发是确保自我改进型AI安全的重要路径。&lt;/p&gt;
-&lt;p&gt;但与此同时，OpenAI自己的产品迭代并没有放慢。&lt;/p&gt;
-&lt;p&gt;OpenAI在发布GPT-6 Astra不到三周后又推出Sol和Luna，而且此次不仅增加模型选择，还将API价格直接降低50%。&lt;/p&gt;
-&lt;p&gt;同在本周二，Anthropic也推出新模型Claude Opus 5.5，并强调更低的运行成本。&lt;/p&gt;
-&lt;p&gt;两家头部AI公司同一天推出更具成本竞争力的模型，显示AI行业的竞争正在从单纯争夺旗舰模型能力，进一步转向性能、速度与成本的综合竞争。&lt;/p&gt;
-&lt;p&gt;对于OpenAI而言，Astra负责树立GPT-6的能力上限，Sol和Luna则负责把这些能力以更低成本推向更广泛的工作场景。&lt;/p&gt;
-&lt;p&gt;一边讨论如何放慢AI发展的速度，一边加快模型迭代、扩大使用范围并压低调用成本，AI行业正在进入能力与成本同时加速下探的新阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 22:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;阿里巴巴CEO吴泳铭在大会上提出2032年将数据中心总功耗扩张至20GW的目标，较2022年扩大约10倍。这一表态被三家投行视为本次大会最具增量价值的信息，直接触发了各方对云收入长期天花板的重新测算。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;花旗认为，20GW目标可对应2033财年约1600亿美元的外部云收入，较其此前对2031财年1000亿美元的预测增加约600亿美元；瑞银则基于不同假设，将同一目标对应的2032年外部云收入测算为约1700亿美元，两者均隐含约40%的年复合增长率。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -167,7 +105,69 @@ AI模型竞争从“拼旗舰”进入“拼规模”
 &lt;p&gt;围绕Personal Agent，千问已开始将Agent能力落地到理财、运动健康、工作学习等场景。在用户授权下，千问可接入健康、运动等个人数据，为健康咨询和运动规划提供更具针对性的分析；在理财场景中，则可结合实时行情、专业机构信息及用户授权的个人持仓数据，提供个性化分析，并将金融机构的专业研究能力封装为Skill。&lt;/p&gt;
 &lt;p&gt;据介绍，针对理财等复杂任务，千问进行了专项Harness优化，回复效果提升20%；通过动态调节Harness，在处理理财、健康、生活等复杂需求时，可为每位用户节省40%的Token消耗。&lt;/p&gt;
 &lt;p&gt;在运动健康场景中，用户设定半程马拉松“跑进2小时”等目标后，千问可结合持续记录的运动状态以及授权接入的运动健康、动态血糖仪等数据，形成长期、动态的个人Context，并据此调整训练和饮食建议。&lt;/p&gt;
-&lt;p&gt;与此同时，千问持续扩展Personal Agent的开放生态。目前，千问开放平台已覆盖本地生活、物流、求职、运动、游戏等20多个领域，申请入驻伙伴超过1000家。合作伙伴可通过智能体、Skill、专业数据及硬件等方式接入千问，进一步拓展Personal Agent的应用边界。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 软银借道债市为AI帝国输血，垃圾债市场迎来历史级考验</title><link>https://wallstreetcn.com/articles/3782300</link><guid>3165cc8f5f1a792e7d805d5f030ff6caa78778bf4db81f95c5f9f0ec2138b5b6</guid><pubDate>Tue, 22 Sep 2026 11:00:35 GMT</pubDate><description>&lt;p&gt;软银大规模债券发行，正成为债市检验投资者AI投资热情与风险承受能力的一场关键测试。&lt;/p&gt;
+&lt;p&gt;与此同时，千问持续扩展Personal Agent的开放生态。目前，千问开放平台已覆盖本地生活、物流、求职、运动、游戏等20多个领域，申请入驻伙伴超过1000家。合作伙伴可通过智能体、Skill、专业数据及硬件等方式接入千问，进一步拓展Personal Agent的应用边界。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
+&lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
+&lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI称，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
+&lt;p&gt;两款模型的定位也有所区分：Sol更偏向高能力的专业工作、编码和智能体任务，Luna则更强调速度、成本和高频使用。OpenAI表示，两款模型都继承了GPT-6 Astra在专业工作、事实准确性、编码、计算机使用和对齐方面的技术进展。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;根据OpenAI公告，Sol和Luna即日起面向Plus、Pro、Business、Enterprise及Edu用户，在ChatGPT Work和Codex中提供，同时开放API；免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。不过，两款模型目前尚未开放至ChatGPT普通聊天界面。&lt;/p&gt;
+Astra发布不到三周，OpenAI再添两款GPT-6
+&lt;p&gt;从GPT-6的发布节奏看，OpenAI此次动作相当密集。&lt;/p&gt;
+&lt;p&gt;9月3日，OpenAI正式推出GPT-6 Astra，并称其在计算机和浏览器操作、软件工程、网络安全、科学和专业工作等领域达到新的能力前沿。OpenAI当时将Astra定位为GPT-6家族的旗舰模型。&lt;/p&gt;
+&lt;p&gt;仅仅不到三周，OpenAI就再次推出Sol和Luna。&lt;/p&gt;
+&lt;p&gt;OpenAI的官方账号在社交媒体表示，Sol和Luna“建立在GPT-6 Astra背后的技术进展之上”，将Astra的诸多优势带入“更快速、更实惠的模型”，以支持规模化工作。&lt;/p&gt;
+&lt;p&gt;这一产品节奏显示，OpenAI并没有将GPT-6定位成一次只有旗舰模型的单点升级，而是在Astra发布后迅速向不同性能、成本和使用场景铺开产品线。&lt;/p&gt;
+&lt;p&gt;这也与此前AI模型厂商越来越明显的产品策略相呼应：旗舰模型负责突破能力上限，而更快、更便宜的版本则负责进入更多高频工作流。&lt;/p&gt;
+从Astra到Sol、Luna，能力向更大规模场景下沉
+&lt;p&gt;与Astra强调前沿能力不同，Sol和Luna的定位更加突出&lt;strong&gt;速度、成本和规模化使用&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;OpenAI称，Astra仍然是其“各方面表现最佳”的模型，适合最困难、最重要的项目；而Sol和Luna则是把Astra背后的技术进展带入不同成本和使用规模的产品。&lt;/p&gt;
+&lt;p&gt;OpenAI表示，Sol和Luna不仅继承Astra的技术进展，还针对缓存和推理效率进行了优化。公司称，这些优化能够降低模型运行成本，并最终通过更低的API价格反馈给用户。&lt;/p&gt;
+&lt;p&gt;OpenAI还表示，两款模型在对齐能力方面同样吸收了Astra的进展，相较各自的GPT-5.6版本有所提升。&lt;/p&gt;
+&lt;p&gt;换句话说，OpenAI此次并非单纯推出两个“低价版”模型，而是试图将Astra在能力和对齐方面的部分进步，向更高频、更大规模的模型调用场景延伸。&lt;/p&gt;
+&lt;p&gt;对于开发者和企业而言，这意味着此前只有在高价值任务中才值得调用的先进模型能力，未来可能以更低的单位成本进入编码、智能体和企业自动化等大量重复性工作。&lt;/p&gt;
+API价格较GPT-5.6促销价直接腰斩
+&lt;p&gt;价格是此次发布最明确的商业信号。&lt;/p&gt;
+&lt;p&gt;OpenAI宣布，GPT-6 Sol和GPT-6 Luna的API价格，较GPT-5.6的促销价格下调50%。&lt;/p&gt;
+&lt;p&gt;目前OpenAI公布的GPT-5.6 Sol促销价格为每100万Token输入4美元、输出20美元；因此，Sol和Luna此次的价格下调意味着其API成本进一步向下。OpenAI的企业价格表也显示，GPT-5.6 Sol目前仍处于促销定价阶段。&lt;/p&gt;
+&lt;p&gt;OpenAI解释称，价格下降主要来自更高效的缓存和推理，而不是单纯的商业让利。&lt;/p&gt;
+&lt;p&gt;OpenAI官方账号称，“更高的使用额度和更低的成本”将给用户更多灵活性和迭代空间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于需要大量调用模型的开发者和企业来说，单位Token成本下降意味着同样的预算可以运行更多任务，也意味着过去因成本而被限制的智能体工作流，有望获得更大的运行空间。&lt;/p&gt;
+&lt;p&gt;这也让AI模型的竞争进一步从“谁的模型能力更强”，延伸到谁能以更低成本提供足够强的模型能力。&lt;/p&gt;
+先进入Work和Codex，免费用户可体验Luna
+&lt;p&gt;在产品覆盖上，OpenAI此次也没有立即让Sol和Luna全面进入ChatGPT普通聊天界面。&lt;/p&gt;
+&lt;p&gt;根据OpenAI的安排，Plus、Pro、Business、Enterprise及Edu用户可以在ChatGPT Work和Codex中使用两款模型，同时通过API调用。&lt;/p&gt;
+&lt;p&gt;免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。&lt;/p&gt;
+&lt;p&gt;这一安排使两款模型的首发场景明显偏向工作和开发，而不是单纯面向消费者聊天。&lt;/p&gt;
+&lt;p&gt;其中，Sol和Luna的低成本、高使用效率，也更适合需要频繁调用模型的编码任务、智能体工作流以及企业内部自动化。&lt;/p&gt;
+&lt;p&gt;相比之下，GPT-6 Astra仍然承担旗舰模型的角色。Astra发布后，OpenAI甚至因需求激增一度暂停新的Pro订阅注册，并称Astra需求“前所未有”。&lt;/p&gt;
+&lt;p&gt;因此，此次推出Sol和Luna，也可能有助于OpenAI将部分高频需求导向成本更低的模型，从而在扩大使用规模的同时降低基础设施压力。&lt;/p&gt;
+Sol主攻复杂工作，Luna瞄准高频低成本任务
+&lt;p&gt;从OpenAI公布的测试结果看，两款模型并非简单的“同一模型不同价格”。&lt;/p&gt;
+&lt;p&gt;Sol承担的是更高能力需求的任务。OpenAI称，GPT-6 Sol可以处理复杂的专业工作，同时凭借更高的使用额度和更低的成本，让用户能够进行更多轮迭代。&lt;/p&gt;
+&lt;p&gt;在AutomationBench这一测试企业跨应用工作流的基准中，GPT-6 Sol在xhigh effort下获得33.2%，高于GPT-6 Astra在low effort下的30.3%，也高于Claude Opus 5 max effort下的26.9%；OpenAI称，Sol完成每项任务的成本仅为0.27美元。&lt;/p&gt;
+&lt;p&gt;值得注意的是，无代码AI自动化平台Zapier也公布了对GPT-6 Sol的测试结果，得分同样为33.2%。&lt;/p&gt;
+&lt;p&gt;Zapier称，其测试基于真实工作流，在xhigh effort下，GPT-6 Sol的33.2%高于GPT-5.6 Sol的28.77%；同时，Sol的API输入价格为2美元/百万Token，约为GPT-5.6 Sol的一半。&lt;/p&gt;
+&lt;p&gt;从具体任务来看，Zapier称GPT-6 Sol尤其擅长运营类工作，在其测试中的得分达到58%。Zapier因此建议，正在使用GPT-5.6 Sol的工作流可以考虑升级到新模型，并强调Sol同时具备更低价格和更高测试成绩。需要指出的是，这属于Zapier自身的测试和评价，并非对所有企业工作流表现的独立结论。&lt;/p&gt;
+&lt;p&gt;在专业工作测试Agents&amp;#x27; Last Exam中，GPT-6 Sol最高获得56.4%的成绩；在DeepSWE v1.1软件工程测试中，Sol最高获得68.8%，与Claude Fable 5的最高成绩69.9%相差1.1个百分点，但OpenAI称其单项任务成本约低80%。&lt;/p&gt;
+&lt;p&gt;Luna则更突出成本效率。&lt;/p&gt;
+&lt;p&gt;OpenAI称，在AutomationBench高强度测试中，GPT-6 Luna较GPT-5.6 Luna提高5.4个百分点，同时单项任务成本降低58%；在DeepSWE v1.1中，Luna最高获得66.6%，与Claude Opus 5和Fable 5的中等强度表现相当，但每项任务成本分别低93%和96%。&lt;/p&gt;
+&lt;p&gt;此外，OpenAI表示，两款模型的事实准确性也有所提升。其内部事实性测试显示，GPT-6 Sol的错误数量约为前代一半；Luna在更高推理强度下，也可以达到GPT-5.6 Sol的水平，而成本约为后者的百分之一。需要注意的是，这一测试基于用户此前标记为事实错误的匿名ChatGPT对话，并不代表所有真实使用场景。&lt;/p&gt;
+AI模型竞争从“拼旗舰”进入“拼规模”
+&lt;p&gt;OpenAI给出的价格表显示，GPT-6 Sol输入价格从GPT-5.6 Sol促销价的4美元降至2美元/百万Token，输出价格从20美元降至10美元；Luna输入价格从0.20美元降至0.10美元，输出价格从1.20美元降至0.50美元。&lt;/p&gt;
+&lt;p&gt;这意味着两款模型的API成本并非小幅下降，而是&lt;strong&gt;直接打五折&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;OpenAI解释称，更低的价格来自缓存和推理效率的提升。公司同时进一步优化了提示词缓存，使智能体和长对话能够更多复用此前已经处理过的上下文。&lt;/p&gt;
+&lt;p&gt;对于开发者和企业客户而言，模型价格下降的意义不仅是“每次调用更便宜”，还意味着同样预算可以承载更多轮模型调用。&lt;/p&gt;
+&lt;p&gt;尤其是编码智能体和企业自动化工作流需要长时间、反复调用模型，&lt;strong&gt;模型单位成本正在成为决定智能体能否真正规模化部署的重要变量。&lt;/strong&gt;&lt;/p&gt;
+一边呼吁“慢下来”，一边把模型变得更便宜
+&lt;p&gt;值得注意的是，GPT-6 Sol和Luna发布之际，OpenAI与Anthropic实际上都在讨论“AI开发是否应该放慢”。&lt;/p&gt;
+&lt;p&gt;本月早些时候，Anthropic CEO Dario Amodei公开呼吁放慢前沿AI发展的速度，并警告快速推进可能带来风险。OpenAI CEO Sam Altman随后表示认同行业需要放慢前沿模型发展的速度、加强安全措施。OpenAI首席科学家Jakub Pachocki也曾提出，通过协调来放慢未来AI开发是确保自我改进型AI安全的重要路径。&lt;/p&gt;
+&lt;p&gt;但与此同时，OpenAI自己的产品迭代并没有放慢。&lt;/p&gt;
+&lt;p&gt;OpenAI在发布GPT-6 Astra不到三周后又推出Sol和Luna，而且此次不仅增加模型选择，还将API价格直接降低50%。&lt;/p&gt;
+&lt;p&gt;同在本周二，Anthropic也推出新模型Claude Opus 5.5，并强调更低的运行成本。&lt;/p&gt;
+&lt;p&gt;两家头部AI公司同一天推出更具成本竞争力的模型，显示AI行业的竞争正在从单纯争夺旗舰模型能力，进一步转向性能、速度与成本的综合竞争。&lt;/p&gt;
+&lt;p&gt;对于OpenAI而言，Astra负责树立GPT-6的能力上限，Sol和Luna则负责把这些能力以更低成本推向更广泛的工作场景。&lt;/p&gt;
+&lt;p&gt;一边讨论如何放慢AI发展的速度，一边加快模型迭代、扩大使用范围并压低调用成本，AI行业正在进入能力与成本同时加速下探的新阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 软银借道债市为AI帝国输血，垃圾债市场迎来历史级考验</title><link>https://wallstreetcn.com/articles/3782300</link><guid>3165cc8f5f1a792e7d805d5f030ff6caa78778bf4db81f95c5f9f0ec2138b5b6</guid><pubDate>Tue, 22 Sep 2026 11:00:35 GMT</pubDate><description>&lt;p&gt;软银大规模债券发行，正成为债市检验投资者AI投资热情与风险承受能力的一场关键测试。&lt;/p&gt;
 &lt;p&gt;9月22日，据彭博援引知情人士透露，&lt;strong&gt;软银集团此次债券发行已吸引逾200亿美元的初步投资意向，有望跻身史上规模最大的垃圾债交易之列。此次发行募资将主要用于支持软银对OpenAI的巨额投资，投资者正争相锁定可能创下纪录的高收益率。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上述需求仅代表投资者早期、非约束性的认购意向，主要作为正式定价前的参考，最终定价预计于周四完成。&lt;strong&gt;此次发行规模超110亿美元，包括100亿美元美元债和10亿欧元（约合11亿美元）欧元债。软银方面表示，交易进展顺利、需求强劲，但目前暂无扩大规模的计划。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次交易正值全球市场借贷成本普遍上升、AI前景与风险持续引发市场波动之际，其最终定价及市场反应，也将成为观察投资者对AI资产信心的重要窗口。&lt;/p&gt;
