@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 16:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 22 Sep 2026 17:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移</title><link>https://wallstreetcn.com/articles/3782305</link><guid>efce930f971e06070a033bd8ab10bd551567b3d6579fbc2fc76d83c81699822a</guid><pubDate>Tue, 22 Sep 2026 12:09:11 GMT</pubDate><description>&lt;p&gt;云栖大会落幕后，华尔街主要投行迅速跟进发布研究报告，从资本开支路径、云收入天花板及AI全栈竞争力三个维度对阿里巴巴的战略布局作出系统性解读。高盛、花旗、瑞银均维持买入评级，但三家机构对20GW算力目标所隐含的云收入规模给出了不同测算，分歧背后折射出市场对阿里AI变现节奏的核心争议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;阿里巴巴CEO吴泳铭在大会上提出2032年将数据中心总功耗扩张至20GW的目标，较2022年扩大约10倍。这一表态被三家投行视为本次大会最具增量价值的信息，直接触发了各方对云收入长期天花板的重新测算。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;花旗认为，20GW目标可对应2033财年约1600亿美元的外部云收入，较其此前对2031财年1000亿美元的预测增加约600亿美元；瑞银则基于不同假设，将同一目标对应的2032年外部云收入测算为约1700亿美元，两者均隐含约40%的年复合增长率。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -297,20 +297,7 @@ AI叙事重回主线
 &lt;p&gt;霍尔木兹海峡重开消息打压油价，伊朗方面传出否认消息后油价仍维持跌势。&lt;/p&gt;
 &lt;p&gt;据报道，伊朗高级官员说：“美国需要宣布‘希望通过外交途径解决问题’，将其正式化，然后就进程推进的时间表达成一致。”他补充说，出席联合国大会的伊朗代表团已在纽约就位，拥有恢复与美国通过外交途径解决问题的全部授权。&lt;/p&gt;
 &lt;p&gt;日本共同社亦援引同一消息源作出类似报道。不过，伊朗方面随后传出不同说法。据伊朗法尔斯通讯社援引消息人士报道，关于霍尔木兹海峡重新开放协议的相关报道并不属实。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
-&lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
-&lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-2.5MW覆盖核心机架需求，认证有望提升项目竞争力
-&lt;p&gt;此次认证的一个重要意义，在于2.5兆瓦CDU的容量与英伟达AI工厂的机架级功耗需求较为匹配。&lt;/p&gt;
-&lt;p&gt;据报道，AI工厂中单个服务器机架的功耗约为120千瓦，20个机架合计功耗约2.4兆瓦，接近单台2.5兆瓦CDU的覆盖能力。&lt;strong&gt;因此，在面向这一功率等级的AI数据中心项目中，获得认证的产品有望具备更直接的技术适配性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LG电子并非只有2.5兆瓦这一款产品。此前，其600千瓦和1兆瓦CDU产品也已获得其他数据中心相关认证，可以覆盖不同规模的数据中心冷却需求，逐步形成从中小功率到大型AI数据中心的产品矩阵。&lt;/p&gt;
-以CDU为核心，LG电子加码液冷全链条
-&lt;p&gt;CDU是LG电子AI数据中心液冷方案的核心设备，主要负责冷却液循环和热量交换，将GPU等高功耗芯片产生的热量带走。&lt;/p&gt;
-&lt;p&gt;围绕CDU，LG电子还在推进冷水机组（chiller）、计算机机房空气处理单元（CRAH）以及直接接触芯片进行散热的冷板（cold plate）等产品和技术，试图从单一设备进一步延伸至完整的液冷解决方案。&lt;/p&gt;
-&lt;p&gt;市场研究机构TrendForce预计，AI数据中心液冷解决方案采用率将从2024年的14%提升至2025年的60%。&lt;strong&gt;随着AI服务器功耗持续提升，液冷在数据中心中的应用范围也在扩大，为LG电子扩大相关业务提供了市场基础。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LG电子ES业务部门负责人Lee Jae-sung表示，公司将以此次英伟达DSX认证为起点，向全球大型科技公司提供更加可靠、高效的冷却解决方案，并计划在下一代液冷市场确立领先地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2</title><link>https://wallstreetcn.com/articles/3782295</link><guid>fbe3980e2ebe755c02fb58fe6fd47ef425ead2692747acc47b2be68b3263b398</guid><pubDate>Tue, 22 Sep 2026 08:39:12 GMT</pubDate><description>&lt;p&gt;AI Agent正在从聊天窗口走进企业组织，阿里千问办公进一步补齐从“懂业务”到“能执行”的产品链条。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2</title><link>https://wallstreetcn.com/articles/3782295</link><guid>fbe3980e2ebe755c02fb58fe6fd47ef425ead2692747acc47b2be68b3263b398</guid><pubDate>Tue, 22 Sep 2026 08:39:12 GMT</pubDate><description>&lt;p&gt;AI Agent正在从聊天窗口走进企业组织，阿里千问办公进一步补齐从“懂业务”到“能执行”的产品链条。&lt;/p&gt;
 &lt;p&gt;9月22日，阿里巴巴旗下千问办公在2026杭州云栖大会发布一系列企业级AI Agent产品，推出企业上下文、数字员工、协作空间、安全中心等功能，完善Agent从业务理解到执行协作的产品体系。硬件方面，千问办公同步发布AI Agent随身助理QwenNote A2。&lt;/p&gt;
 &lt;p&gt;其中，&lt;strong&gt;企业上下文（Enterprise Context）通过整合企业数据，帮助Agent获取与任务相关的信息，进一步构建“懂业务”的数字员工。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;阿里巴巴集团副总裁、千问办公CEO陈宇森在大会现场表示，&lt;strong&gt;“千问办公是业内首个企业级Agent产品”&lt;/strong&gt;。他指出，Agent要真正落地企业，既要懂业务，也要像人一样在企业和组织内协同，同时每一次任务执行都要有边界、可追溯。&lt;/p&gt;
@@ -343,4 +330,17 @@ Qwen Intelligence：千问大模型进一步布局个人智能
 &lt;p&gt;目前，Qwen Intelligence已开始进入实际应用。阿里巴巴携手荣耀，以Qwen Intelligence和荣耀Magic OS为基础，共同打造面向下一代AI手机的垂域模型和解决方案。&lt;strong&gt;官方数据显示，该方案综合任务准确率达到91.8%，复杂长程任务可执行100步以上操作，端到端服务闭环率达到90%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
+&lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
+&lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+2.5MW覆盖核心机架需求，认证有望提升项目竞争力
+&lt;p&gt;此次认证的一个重要意义，在于2.5兆瓦CDU的容量与英伟达AI工厂的机架级功耗需求较为匹配。&lt;/p&gt;
+&lt;p&gt;据报道，AI工厂中单个服务器机架的功耗约为120千瓦，20个机架合计功耗约2.4兆瓦，接近单台2.5兆瓦CDU的覆盖能力。&lt;strong&gt;因此，在面向这一功率等级的AI数据中心项目中，获得认证的产品有望具备更直接的技术适配性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LG电子并非只有2.5兆瓦这一款产品。此前，其600千瓦和1兆瓦CDU产品也已获得其他数据中心相关认证，可以覆盖不同规模的数据中心冷却需求，逐步形成从中小功率到大型AI数据中心的产品矩阵。&lt;/p&gt;
+以CDU为核心，LG电子加码液冷全链条
+&lt;p&gt;CDU是LG电子AI数据中心液冷方案的核心设备，主要负责冷却液循环和热量交换，将GPU等高功耗芯片产生的热量带走。&lt;/p&gt;
+&lt;p&gt;围绕CDU，LG电子还在推进冷水机组（chiller）、计算机机房空气处理单元（CRAH）以及直接接触芯片进行散热的冷板（cold plate）等产品和技术，试图从单一设备进一步延伸至完整的液冷解决方案。&lt;/p&gt;
+&lt;p&gt;市场研究机构TrendForce预计，AI数据中心液冷解决方案采用率将从2024年的14%提升至2025年的60%。&lt;strong&gt;随着AI服务器功耗持续提升，液冷在数据中心中的应用范围也在扩大，为LG电子扩大相关业务提供了市场基础。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LG电子ES业务部门负责人Lee Jae-sung表示，公司将以此次英伟达DSX认证为起点，向全球大型科技公司提供更加可靠、高效的冷却解决方案，并计划在下一代液冷市场确立领先地位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
