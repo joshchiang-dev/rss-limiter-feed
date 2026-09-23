@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 02:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 03:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI称，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
 &lt;p&gt;两款模型的定位也有所区分：Sol更偏向高能力的专业工作、编码和智能体任务，Luna则更强调速度、成本和高频使用。OpenAI表示，两款模型都继承了GPT-6 Astra在专业工作、事实准确性、编码、计算机使用和对齐方面的技术进展。&lt;/p&gt;
@@ -97,7 +97,68 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;OpenAI表示，公司正与多个潜在评估机构进行洽谈，合作对象涵盖此前有过合作及尚未合作过的组织，其中包括AI研究机构METR和Redwood Research。上述两家机构此前曾受OpenAI委托，对其模型入侵Hugging Face一事展开调查。&lt;/p&gt;
 &lt;p&gt;与此同时，竞争对手Anthropic上周宣布，将引入埃森哲（Accenture Plc）的评估人员，对其前沿AI模型进行安全测试。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;实验室有责任在保护敏感信息的同时，支持有实质意义的外部审查，&amp;quot;OpenAI在文章中表示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指早盘齐跌，房地产再爆发、万科涨停，PCB、CRO逆势拉升，恒科指跌1%，科网股齐跌</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 02:07:36 GMT</pubDate><description>&lt;p&gt;9月23日，A股震荡下跌，三大股指早盘集体走低，房地产再度爆发，万科A等涨停，CRO、玻璃基板、电路板等概念股逆势拉升，能源设备、文化传媒、AI办公等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
+&lt;p&gt;社交平台X上，谷歌工程师Patrick C Toulme据此提出一个推测：&lt;strong&gt;Opus 5.5可能经由Anthropic内部更强大的&amp;quot;教师模型&amp;quot;Model 2蒸馏而来，并可能是首个体现&amp;quot;递归自我改进&amp;quot;（RSI）路径的产品模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前没有公开证据直接证实这一推断，但Anthropic已公开确认Model 2的存在，且该公司发布的RSI相关文章显示，AI参与AI研发的程度正在快速深化，这使得上述猜测具备一定背景。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于投资者和行业观察者而言，这一事件真正值得关注的，是它将三条此前相对分散的趋势串联在了一起：&lt;strong&gt;更强的内部模型持续迭代、AI深度介入AI研发流程、以及更小更便宜的产品模型同步涌现&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果这条路径成立，模型能力提升与推理成本下降将有可能同时发生。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;strong&gt;Opus 5.5为什么值得关注？&lt;/strong&gt;
+
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782316"&gt;华尔街见闻提及&lt;/a&gt;，Anthropic将Claude Opus 5.5定位为其5.5系列的首款发布，性能在多数任务上与Claude Fable 5.1持平，但运行成本较Opus 5下降40%，输出速度提升逾30%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定价层面的降幅尤为显著&lt;/strong&gt;。输入和输出token价格分别为每百万4美元和20美元，较Opus 5下降20%；而在代理任务和编程场景中占主要成本的缓存读取，则从每百万0.50美元降至0.20美元，降幅达60%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从实际使用表现来看&lt;/strong&gt;，早期测试者完成了680,000行代码迁移，耗时不足一天，而此前类似工作需要工程团队数周；另一项测试中，Opus 5.5将一个Web应用全站页面加载时间优化成功率达到39/40，Opus 5在同等任务上则出现了改动应用行为的副作用。&lt;/p&gt;
+&lt;p&gt;在将HAProxy从C语言重写为Rust的内部测试中，Opus 5.5耗时9.5小时，较Fable 5.1的12小时缩短逾20%，成本节省51%。&lt;/p&gt;
+&lt;p&gt;Anthropic表示，效率优势还体现在token消耗层面——&lt;strong&gt;Opus 5.5不仅每个token价格更低，完成同等任务所需的token数量也更少，两者叠加共同形成了40%的综合成本降幅。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;strong&gt;Patrick所说的“教师模型”到底是什么？&lt;/strong&gt;
+
+&lt;p&gt;Patrick C Toulme在X上写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Opus 5.5显然是由一个更大的教师模型训练出来的，很可能是Model 2 Mythos。Opus 5.5是首个经过RSI训练、同时由内部教师模型蒸馏的模型。规模更小、成本更低，正是教师模型蒸馏的产物。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里涉及的核心技术概念是&amp;quot;模型蒸馏&amp;quot;：&lt;strong&gt;让能力更强的教师模型生成高质量训练信号，再用这些信号训练规模更小的学生模型，从而在保留较高能力的同时显著降低推理成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic已公开确认，其内部存在一个比Mythos 5更强大的Model 2，并被大量用于代码生成、数据生成及代理任务。&lt;/strong&gt;然而，目前没有任何公开材料直接证明Opus 5.5是由Model 2蒸馏而来。Anthropic在发布文档中也未提及具体训练方式。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Anthropic在安全条款中将&amp;quot;蒸馏攻击&amp;quot;单独列为一类威胁——即攻击者通过大量虚假账户从模型中批量提取能力，并为此在Opus 5.5上引入了&amp;quot;保留推理链&amp;quot;等反蒸馏机制。&lt;/p&gt;
+&lt;p&gt;这一细节从侧面说明，蒸馏技术本身在Anthropic的技术体系中具有相当重要的地位。&lt;/p&gt;
+
+&lt;strong&gt;AI开始参与AI研发&lt;/strong&gt;
+
+&lt;p&gt;无论Opus 5.5的具体训练路径如何，Anthropic自身发布的RSI相关文章提供了一幅更宏观的图景：&lt;strong&gt;AI介入AI研发的深度，正在以可量化的速度加快。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至2026年5月，Anthropic代码库中逾80%的代码由Claude撰写，而在2025年2月Claude Code推出研究预览版之前，这一比例仅为个位数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在工程产出层面，Anthropic工程师人均每日合并代码量较2024年增长约8倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic文章同时指出，&lt;strong&gt;2026年4月，Claude在约800小时内将某类API错误降低了1000倍，而据主导此项工作的工程师估计，人工完成同等任务需要约四年时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在研究判断力层面，Anthropic设计了一项内部测试：在研究员与Claude的协作会话中，找出人类研究员选择了&amp;quot;次优&amp;quot;方向的关键节点，再比较不同版本的Claude与人类在这些节点上的判断优劣。&lt;/p&gt;
+&lt;p&gt;结果显示，2025年11月的Opus 4.5模型在51%的情况下给出了比人类更优的下一步建议，而2026年4月的Mythos Preview这一比例升至64%。&lt;/p&gt;
+&lt;p&gt;不过，该文章也明确指出了当前的边界：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在选择哪些问题值得研究方面，Claude与人类之间仍存在较大差距。这正是今日AI与能够自主设计下一代AI的未来系统之间的距离所在。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic同时强调，完全意义上的递归自我改进目前尚未实现，也并非必然到来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛认为“美国通胀被高估”，主因“暂时性的关税”和“AI统计偏差”</title><link>https://wallstreetcn.com/articles/3782341</link><guid>1a16cc71b861cae5c7d7b68423c6699fefeb4232b3e8c887629fe39d0cf7e84f</guid><pubDate>Wed, 23 Sep 2026 03:06:17 GMT</pubDate><description>&lt;p&gt;高盛最新指出，尽管美国核心通胀表面上高于全球多数经济体，但深入拆解通胀篮子后可以发现，美国实际面临的通胀压力反而低于其他国家，当前数据在很大程度上被暂时性因素所扭曲。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛9月22日在发布的全球经济分析报告中指出，美国核心商品通胀偏高的全部超额部分，均可由两项美国独有的暂时性因素解释：&lt;strong&gt;关税推升以及AI相关的统计偏差。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛经济学家估计，关税目前令美国核心PCE商品通胀同比抬升约2.4个百分点，但这一效应预计将在明年下半年基本消退；与此同时，&lt;strong&gt;AI驱动的内存价格上涨因PCE统计口径问题被过度放大，目前对核心商品通胀贡献约1个百分点，预计将于2027年逐步消退。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一分析对市场判断美联储政策路径具有直接参考意义。报告结论显示，在剔除上述暂时性扰动后，美国通胀的内生压力实际上弱于其他主要发达经济体，而服务业通胀的粘性问题在非美经济体中更为突出，构成更持久的政策挑战。&lt;/p&gt;
+关税与AI统计偏差推高美国商品通胀
+&lt;p&gt;报告指出，核心商品通胀在新兴市场和非美发达经济体中已基本回归疫情前趋势，但在美国PCE口径下仍高出疫情前趋势约3个百分点，CPI口径下则高出约1个百分点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告将这一偏差完全归因于两项暂时性因素。&lt;/strong&gt;其一是关税效应：高盛美国经济学家估计，现行关税令核心PCE商品通胀同比抬升2.4个百分点，但随着关税影响逐步消化，这一效应预计在明年下半年大幅减退。其二是AI统计偏差：PCE统计中&amp;quot;软件及配件&amp;quot;类别权重较大，部分捕捉了企业在零售渠道的采购行为，导致今年早些时候内存价格的大幅上涨被过度反映在消费者通胀数据中。&lt;/p&gt;
+&lt;p&gt;此外，该类别未经质量调整，未能体现AI工具带来的实际性能提升。目前这一类别对核心商品通胀的同比贡献约为1个百分点，而其他发达经济体中内存价格上涨对核心商品通胀的贡献不足0.1个百分点。&lt;/p&gt;
+&lt;p&gt;高盛预计，随着其股票策略师判断内存价格进一步上行空间有限，加之美国经济分析局（BEA）将于本月底调整PCE篮子中软件及配件的权重，上述AI统计偏差将于2027年逐步消退。&lt;/p&gt;
+服务业通胀：统计口径差异掩盖美国相对优势
+&lt;p&gt;在非住房服务通胀方面，官方数据显示美国PCE口径下的读数高于多数发达经济体，但高盛认为这一比较存在统计口径失真。&lt;/p&gt;
+&lt;p&gt;报告在对医疗、金融服务等类别进行跨国口径统一处理后发现，美国的核心服务通胀实际上低于其他主要发达经济体。高盛指出，PCE对金融服务价格的处理方式与其他国家存在显著差异，且对股市波动高度敏感；医疗保险的统计方式也与其他国家不一致。剔除上述因素后，美国非住房服务通胀的表现更为温和。&lt;/p&gt;
+&lt;p&gt;更关键的前瞻指标是单位劳动力成本（ULC）增速。报告显示，美国ULC增速目前接近疫情前均值，而其他经济体则明显偏高。高盛认为，由于劳动力成本是中期非住房服务通胀的核心驱动因素，这一格局意味着美国以外的经济体面临更大的通胀持续压力。&lt;/p&gt;
+住房通胀：美国已正常化，非美发达经济体仍承压
+&lt;p&gt;在住房通胀方面，美国与新兴市场的租金通胀均已基本回归正常水平，但其他发达经济体仍显著高于长期趋势。&lt;/p&gt;
+&lt;p&gt;高盛将这一分化部分归因于移民政策的差异。报告显示，在移民净流入回落幅度较大的经济体（如美国、加拿大、新西兰），租金通胀的改善更为明显；而在移民回落相对有限的发达经济体，租金通胀自2023年以来进展迟缓。&lt;/p&gt;
+&lt;p&gt;此外，市场租金数据（不纳入官方通胀统计，但提供最及时的租金走势信号）显示，美国租金通胀的前景相对其他发达经济体更为乐观，进一步支持住房通胀持续下行的判断。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指早盘齐跌，房地产再爆发、万科涨停，PCB、CRO逆势拉升，恒科指跌1%，科网股齐跌</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 02:07:36 GMT</pubDate><description>&lt;p&gt;9月23日，A股震荡下跌，三大股指早盘集体走低，房地产再度爆发，万科A等涨停，CRO、玻璃基板、电路板等概念股逆势拉升，能源设备、文化传媒、AI办公等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指双双下挫，恒科指跌1%，权重科网股回调，阿里跌近4%，腾讯跌超2%，存储芯片股活跃，兆易创新、澜起科技等走高。债市方面，国债期货集体下跌。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.23%，深成指跌0.45%，创业板指跌0.53%。&lt;/p&gt;
@@ -136,22 +197,105 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数低开0.09%，恒生科技指数涨0.01%。金融、油气板块调整。澜起科技、凯莱英、兆易创新走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周二，Anthropic发布新一代模型Claude Opus 5.5，使用成本较前代降低约40%；OpenAI同日推出ChatGPT-6的两款低价版本Sol和Luna，定价较ChatGPT-5.6系列降低50%。&lt;/strong&gt;两家公司几乎同步出手，时间节点的高度重合，清晰勾勒出当前AI市场的竞争烈度。&lt;/p&gt;
-&lt;p&gt;此次降价攻势背后，是来自中国&amp;quot;开放权重&amp;quot;模型的持续施压——这类模型允许用户自行定制并在本地硬件上运行。与此同时，Anthropic正积极备战今秋计划中的IPO，外界预计此次上市规模将创历史之最；OpenAI则在年初增长乏力后，寄望于降价策略重燃增长动能。&lt;/p&gt;
-定价细节：Anthropic与OpenAI的价格坐标
-&lt;p&gt;在具体定价上，&lt;strong&gt;Anthropic的Opus 5.5每百万输入token收费4美元，每百万输出token收费20美元&lt;/strong&gt;，而其现有最强模型Fable 5.1的对应价格分别为10美元和50美元——与OpenAI旗舰模型Astra的定价持平。Anthropic表示，Opus 5.5在大多数任务上的表现可与Fable 5.1媲美。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI方面，Sol定价为每百万输入token 2美元、输出token 10美元；轻量版Luna则低至每百万输入token 0.10美元、输出token 0.50美元。&lt;/strong&gt; OpenAI本月初已率先发布其最强模型Astra，Sol和Luna作为该系列的低价补充版本随后跟进。&lt;/p&gt;
-&lt;p&gt;据报道，在经历了一段以极限能力为导向的全面军备竞赛之后，两大美国AI实验室正日益将竞争重心转向价格与性能的综合比拼，以争取对成本敏感的企业客户。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来自中国的&amp;quot;开放权重&amp;quot;模型构成了日益显著的竞争威胁。&lt;/strong&gt;据云应用公司Vercel的数据，这类可供用户自定义、在本地运行的模型正在从美国实验室手中抢夺市场份额。面对这一压力，OpenAI近几个月已多次下调模型价格，并声称其Astra模型是目前市场上性能最强的模型。&lt;/p&gt;
-&lt;p&gt;OpenAI此前表示，公司不太可能在2027年之前上市。年初增长放缓后，降价成为其重新激活增长的核心手段之一。&lt;/p&gt;
-&lt;p&gt;对Anthropic而言，此次发布的战略意义不止于价格竞争。&lt;strong&gt;公司正积极扩大客户基础，为今秋计划中的IPO铺路——该上市被预期将成为史上规模最大的科技IPO之一。&lt;/strong&gt; 投资者普遍猜测，新模型的发布将成为公司正式递交招股说明书的催化剂。&lt;/p&gt;
-&lt;p&gt;市场密切关注的核心问题是：在竞争持续加剧、客户对价格愈发敏感的背景下，Anthropic能否在未来数年维持其高速增长态势。&lt;/p&gt;
-安全承诺：降价同时强调风险管控
-&lt;p&gt;值得注意的是，此次发布也发生在AI安全议题持续升温的背景之下。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Opus 5.5是Anthropic首席执行官Dario Amodei公开呼吁AI实验室&amp;quot;把握发展前沿节奏&amp;quot;、并深度引入第三方测试机构之后，该公司推出的首款新模型。&lt;/strong&gt; 此前，研究人员警告称，不受约束的自我改进型超级智能竞赛可能对人类构成威胁。&lt;/p&gt;
-&lt;p&gt;Anthropic表示，新模型经过了&amp;quot;广泛的对齐测试、发布前的外部机构评估，并在网络安全和生物学等高风险领域设置了相应防护措施&amp;quot;。&lt;/p&gt;
-&lt;p&gt;OpenAI周二也公布了与独立评估机构进一步合作的优先事项，涵盖模型训练、安全防护、风险预备及事件调查等方面。此前一周，Anthropic刚刚宣布将与埃森哲合作开展安全测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 21:55:37 GMT</pubDate><description>&lt;p&gt;人工智能浪潮持续推高芯片及科技股，纳指四连涨再创新高，而&amp;quot;智能体AI&amp;quot;对金融行业的颠覆性预期则拖累银行股承压，标普横盘、道指下挫。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大空头Burry加码做空美光、Nebius，逻辑是“内存供应激增，价格将面临下行压力”</title><link>https://wallstreetcn.com/articles/3782343</link><guid>4d0d23fd507178040206a9325e931c14098df2a299232734358d8713c99fd84b</guid><pubDate>Wed, 23 Sep 2026 03:12:09 GMT</pubDate><description>&lt;p&gt;因坚信内存市场供需格局正在逆转，Michael Burry大幅扩大了对半导体板块的空头押注。&lt;/p&gt;
+&lt;p&gt;据Burry本人在Substack发文披露，他已进一步加码做空美光科技、AI基础设施公司Nebius、iShares半导体ETF以及Palantir，并强调此次操作&amp;quot;规模相当大&amp;quot;。此举的直接导火索，是宏碁CEO陈俊圣公开警告称，&lt;strong&gt;内存库存正在积累，新增供应将逐步冲击市场，并预计价格压力将于2027年底前后显现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述消息并未阻止相关股票短线上涨——美光股价当日盘中涨逾2%，SOXX上涨约1.5%，Nebius和Palantir亦小幅走高。这意味着Burry的空头仓位在短期内承压，但他表示，宏碁CEO的表态&amp;quot;与我所相信的判断相吻合&amp;quot;。&lt;/p&gt;
+做空逻辑：AI拉动HBM需求，但普通内存供给正在反弹
+&lt;p&gt;Burry的核心论点在于，此前内存市场的短缺并非需求端的结构性繁荣，而是供给端的阶段性错位。他在文中解释称，三星、SK海力士和美光等主要厂商为满足AI数据中心对高带宽内存（HBM）的旺盛需求，将大量产能从传统DRAM转向HBM，由此造成普通内存的供应紧张。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，随着厂商逐步将普通内存产能恢复，叠加全球多个地区的新增供应陆续释放，Burry认为，&amp;quot;正常DRAM&amp;quot;的产量正在回升，供需缺口将逐步收窄，并最终对价格形成下行压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;宏碁CEO陈俊圣的表态为这一逻辑提供了新的佐证。Chen在接受采访时指出，内存库存已在积累，来自多个地区的供应商正在向市场释放更多产能，这将挑战&amp;quot;当前短缺将持续数年&amp;quot;的主流预期。Burry引用该采访后写道，尽管解读这一消息&amp;quot;充满不确定性&amp;quot;，但其方向与自己的判断一致。&lt;/p&gt;
+空头布局：从英伟达到美光，押注范围持续扩大
+&lt;p&gt;Burry对半导体板块的看空布局并非一蹴而就。据披露，其旗下Scion Asset Management在2025年第三季度就已建立英伟达（NVDA）和Palantir的大额看跌期权仓位，彼时该基金随后宣告关闭。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;进入2026年，Burry以个人名义延续并扩大了这一交易。&lt;/strong&gt;2026年6月下旬，他做空英伟达、应用材料（AMAT）及iShares半导体ETF，并将SOXX看跌期权展期至2027年3月。两天后，他将美光科技纳入做空标的，以约1051美元的价格直接建立空头仓位，并解释称选择直接做空而非买入看跌期权，是因为美光的期权权利金过于昂贵。&lt;/p&gt;
+&lt;p&gt;此次加码，是Burry在上述基础上的进一步强化，标志着他对内存周期见顶的判断愈发坚定。&lt;/p&gt;
+散户情绪与Burry判断相左
+&lt;p&gt;从市场即时反应来看，散户投资者对Burry的看空逻辑并不买账。据Stocktwits数据，美光和SOXX的零售情绪在Burry发文当日均处于&amp;quot;看多&amp;quot;区间，Nebius的零售情绪同样偏多，仅Palantir的散户情绪显示为&amp;quot;看空&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这一分歧折射出当前市场对AI相关半导体股票的整体乐观预期，与Burry所押注的供给过剩、价格下行逻辑形成直接对立。对于投资者而言，核心问题在于：半导体行业的产能扩张，究竟何时才会真正追上需求——而这正是Burry整个交易逻辑的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 办公Agent不再比谁会做PPT，开始争夺“谁最懂这家公司”</title><link>https://wallstreetcn.com/articles/3782346</link><guid>a0beeb699fd36b061018d312ebd422a9e5c9637664a296a4e170da78240be9fa</guid><pubDate>Wed, 23 Sep 2026 03:12:40 GMT</pubDate><description>&lt;p&gt;9月22日的云栖大会上，千问办公一次发布了六项企业能力。&lt;/p&gt;
+&lt;p&gt;最抓眼球的是“数字员工”：它有名字、部门、负责人、岗位职责和授权范围，能被停用，执行记录也可以追溯。看起来，AI终于从一个悬浮在桌面上的工具，变成了组织架构里有工牌的同事。&lt;/p&gt;
+&lt;p&gt;但如果只盯着这张“工牌”，很容易错过发布会上更重要的四个字：企业上下文。&lt;/p&gt;
+&lt;p&gt;按照千问办公的描述，它要连接群聊、文档、知识库和业务系统，从中识别人、项目、流程和规则，再根据具体任务调取相关信息。换句话说，数字员工能不能干活，越来越取决于它背后有没有一套持续更新的公司记忆。&lt;/p&gt;
+&lt;p&gt;这意味着，办公Agent的竞争进入了一个新阶段。&lt;/p&gt;
+&lt;p&gt;过去大家比谁会做PPT、整理表格、生成报告；&lt;strong&gt;接下来真正拉开差距的，是谁知道这家公司发生过什么、现在按什么规则运转，以及一件事究竟应该找谁。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+第一轮竞争，像在考一个陌生的临时工
+
+
+
+&lt;p&gt;过去一年，办公Agent最常见的演示方式，是给它一份文件，再要求它完成一项任务：汇总销售数据、制作汇报PPT、寻找公开资料、整理会议纪要。&lt;/p&gt;
+&lt;p&gt;这种测试很直观，也容易传播。任务有明确起点和终点，几分钟后就能看到成品。&lt;/p&gt;
+&lt;p&gt;但它测出的主要是模型、工具调用和文件操作能力。放进真实公司后，问题很快会变复杂。&lt;/p&gt;
+&lt;p&gt;一笔退款算不算当季收入？华北地区那张异常订单要不要计入？同一个客户在CRM和财务系统里用了两个名字，应该怎么合并？报告里的“重点客户”，指合同金额、回款金额，还是战略等级？&lt;/p&gt;
+&lt;p&gt;这些问题靠公开知识和通用模型很难回答，因为答案藏在公司的历史、口径和权责关系里。&lt;/p&gt;
+&lt;p&gt;近期一次办公Agent横评就暴露了这个问题。同一份存在缺失部门、退款、跨季度订单和异常金额的销售流水，三款产品算出的季度总额最高相差57.7%。差异很大一部分来自它们对可疑订单采取了不同处理方式。&lt;/p&gt;
+&lt;p&gt;这组数字并不等于某一家产品更差。它真正说明的是：&lt;strong&gt;办公任务表面上是算表，底层却是在替企业做判断。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent可以读懂单元格，却未必知道财务口径；可以找到异常，却未必知道公司过去如何处理；可以交付一份完整报告，却未必清楚谁有权决定把哪笔订单算进去。&lt;/p&gt;
+&lt;p&gt;当模型能力逐渐接近，谁能取得并正确使用这些内部信息，才开始成为新的分水岭。&lt;/p&gt;
+
+
+
+“懂公司”不是多塞几份文档
+
+
+
+&lt;p&gt;企业上下文听起来很像升级版知识库，实际比知识库多了一层关系。&lt;/p&gt;
+&lt;p&gt;普通知识库解决的是“公司有哪些资料”。企业上下文还要回答：这些资料属于哪个项目，谁负责这个项目，什么规则适用于当前任务，哪些信息已经过期，谁有权看到，结果最终应该写回哪里。&lt;/p&gt;
+&lt;p&gt;千问办公给出的路径分成连接、理解和复用。&lt;/p&gt;
+&lt;p&gt;先把群聊、文档、知识库和业务系统接进来；再把里面的信息整理成人、项目、流程规则等实体；最后根据任务按需加载，而不是把整家公司一股脑塞给模型。&lt;/p&gt;
+&lt;p&gt;这套设计的价值，在古茗茶饮的案例里比较容易理解。古茗把飞书文档、知识库、答疑群和培训日程组织成门店运营知识空间，面向近万名一线员工。配方、设备巡检、开台打烊等内容被拆成实体与关系，不同岗位保留不同权限。&lt;/p&gt;
+&lt;p&gt;店员询问海报张贴规范时，系统需要做的已经不只是“搜索海报”。&lt;/p&gt;
+&lt;p&gt;它要知道提问者是谁、属于什么门店、承担什么岗位、哪些版本的规范适用，以及在一堆培训资料里哪一段才与当前问题有关。&lt;/p&gt;
+&lt;p&gt;这也是企业上下文与长上下文窗口的区别。模型一次能读多少字，解决的是容量问题；企业上下文解决的是，公司里哪些信息彼此相关，哪些规则应该在此刻生效。&lt;/p&gt;
+&lt;p&gt;古茗案例目前没有披露效率、准确率或经营改善，适合用来说明产品形态，尚不足以证明效果。&lt;strong&gt;但它展示了一个方向：办公Agent正在从“拿到文件后替你加工”，走向“长期待在组织里理解业务”&lt;/strong&gt;。&lt;/p&gt;
+
+
+
+新护城河，长在公司的日常协作里
+
+
+
+&lt;p&gt;模型可以更换，企业上下文很难在一夜之间重建。&lt;/p&gt;
+&lt;p&gt;一个真正懂公司的Agent，需要长期积累组织关系、项目记录、业务词汇、历史决策和员工反馈。它还要跟着公司变化：员工转岗、项目更名、审批规则调整、客户等级改变，都会影响后续任务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这让办公平台获得了一个天然位置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;钉钉、飞书、企业微信原本承载的只是沟通、文档和流程。Agent进入以后，这些散落的记录开始成为理解企业的原料。谁离组织的日常协作更近，谁就更容易获得新鲜、连续、带权限的信息。&lt;/p&gt;
+&lt;p&gt;因此，办公Agent的竞争重点正在发生迁移。&lt;/p&gt;
+&lt;p&gt;早期竞争看模型能不能写、工具能不能调、任务能不能跑完；下一阶段看平台能不能建立一套持续更新的企业上下文，并让不同Agent共同使用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这也会改变商业上的黏性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去企业更换办公软件，最头疼的是搬文件、改流程、培训员工。未来还要迁移一层更隐形的资产：人和项目的关系、企业自己的业务词汇、Agent使用过的规则、历史反馈形成的偏好，以及已经验证过的任务路径。&lt;/p&gt;
+&lt;p&gt;文件可以批量导出，组织关系和决策语境很难完整打包。&lt;/p&gt;
+&lt;p&gt;对于厂商来说，这是一条比单纯模型能力更深的护城河；对于企业来说，它也可能成为新的锁定成本。&lt;/p&gt;
+
+
+
+上下文越多，责任反而越重
+
+
+
+&lt;p&gt;“懂公司”并不天然等于“做得对”。&lt;/p&gt;
+&lt;p&gt;千问办公称企业上下文会继承企业在即时通信系统中的组织、身份和权限体系。这个设计可以让Agent在取数前完成权限裁剪，同时也继承了现实中的旧问题。&lt;/p&gt;
+&lt;p&gt;一个多年没人维护的群、一份权限过宽的文档、已经离职却仍在项目空间里的账号，过去只是权限管理中的隐患。进入企业上下文后，这些错误可能变成Agent完成任务时可以主动调用的信息。&lt;/p&gt;
+&lt;p&gt;关系建错、规则过期、历史材料互相矛盾，同样会被带进答案。Agent知道得更多，也可能更有把握地执行一条已经失效的规则。&lt;/p&gt;
+&lt;p&gt;前面那次销售流水测试也提醒了这一点：多拿到数据，只解决“看见”的问题；异常订单如何认定，仍需要企业提供明确口径，并让最终判断有人负责。&lt;/p&gt;
+&lt;p&gt;所以，企业上下文的质量不能用接入了多少文档来衡量。更有价值的指标是：信息能否追溯来源，权限是否随人和岗位更新，业务规则有没有负责人，出现冲突时Agent会继续猜还是把问题交还给人。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正成熟的企业上下文，既是一套知识系统，也是一套责任系统。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+企业选的不是最聪明的助手，而是最可控的公司记忆
+
+
+
+&lt;p&gt;接下来企业做办公Agent选型，同题实测仍然重要，但测试方法需要向前再走一步。&lt;/p&gt;
+&lt;p&gt;与其只给三家产品同一份Excel，不如给它们一个需要跨系统完成的真实任务：从群聊找到项目变化，从合同确认约束，从CRM核对客户身份，再按最新审批规则生成下一步动作。测试过程中临时更换负责人、撤销一份文档权限、更新一条业务规则，看系统能不能及时反映变化。&lt;/p&gt;
+&lt;p&gt;这样的测试更麻烦，却更接近企业真正购买的东西。&lt;/p&gt;
+&lt;p&gt;企业购买的不只是一个能替员工操作电脑的Agent，而是一套把组织信息转化为行动的基础设施。它要足够懂业务，也要让企业知道它为什么这样做、用了哪些信息、谁为结果负责。&lt;/p&gt;
+&lt;p&gt;同时，企业自己需要保留一份可迁移的上下文资产：业务词汇表、权限模型、流程规则、决策记录和验收样本。它们应该属于企业，而不是只存在某个办公Agent的产品内部。&lt;/p&gt;
+&lt;p&gt;办公Agent的第一轮比赛，考的是谁能像一个熟练的临时工，快速把眼前的任务做完。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二轮比赛，考的是谁能在公司里待得足够久，理解那些从未完整写进任何一份制度里的关系和规则。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;到了这一轮，最强的模型未必就是最懂公司的产品。而企业真正需要守住的，也不只是文件和数据，而是让任何一个Agent都能理解自己的那套公司语境。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文来自微信公众号&lt;/strong&gt;「&lt;strong&gt;&lt;a href="https://mp.weixin.qq.com/s/k_z796yasqZpB5fOXah5Cg"&gt;AI原生Lab&lt;/a&gt;&lt;/strong&gt;」&lt;strong&gt;，持续拆解真实AI落地案例，分享企业AI实践与方法论。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 21:55:37 GMT</pubDate><description>&lt;p&gt;人工智能浪潮持续推高芯片及科技股，纳指四连涨再创新高，而&amp;quot;智能体AI&amp;quot;对金融行业的颠覆性预期则拖累银行股承压，标普横盘、道指下挫。&lt;/p&gt;
 &lt;p&gt;与此同时，国际油价在中东外交动态的多番反转中剧烈震荡，最终收跌逾2%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数收涨0.8%，道琼斯工业平均指数下跌0.4%，标普500指数基本收平。芯片股连续第六个交易日上涨，美光科技和英伟达领涨，而金融板块则成为当日市场最大拖累。&lt;/p&gt;
@@ -217,7 +361,22 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;尽管美元走强，黄金价格仍收高，午后市场情绪恶化时，黄金价格日内V形反转、强劲反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币隔夜触及 87,000 美元高点后小幅回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Agent“重塑”服务业！Muse重燃“恐慌”，金融股“躺枪”</title><link>https://wallstreetcn.com/articles/3782330</link><guid>e3dfb24ba44cbb587fff1736fbcdeb4ffc67c114edfda2827a9c114f163e4fb4</guid><pubDate>Wed, 23 Sep 2026 01:04:01 GMT</pubDate><description>&lt;p&gt;Meta消费级AI代理Muse以压倒性下载量登顶苹果App Store，引发华尔街对AI颠覆金融服务业的新一轮担忧，银行与券商股遭遇数月来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周二，Anthropic发布新一代模型Claude Opus 5.5，使用成本较前代降低约40%；OpenAI同日推出ChatGPT-6的两款低价版本Sol和Luna，定价较ChatGPT-5.6系列降低50%。&lt;/strong&gt;两家公司几乎同步出手，时间节点的高度重合，清晰勾勒出当前AI市场的竞争烈度。&lt;/p&gt;
+&lt;p&gt;此次降价攻势背后，是来自中国&amp;quot;开放权重&amp;quot;模型的持续施压——这类模型允许用户自行定制并在本地硬件上运行。与此同时，Anthropic正积极备战今秋计划中的IPO，外界预计此次上市规模将创历史之最；OpenAI则在年初增长乏力后，寄望于降价策略重燃增长动能。&lt;/p&gt;
+定价细节：Anthropic与OpenAI的价格坐标
+&lt;p&gt;在具体定价上，&lt;strong&gt;Anthropic的Opus 5.5每百万输入token收费4美元，每百万输出token收费20美元&lt;/strong&gt;，而其现有最强模型Fable 5.1的对应价格分别为10美元和50美元——与OpenAI旗舰模型Astra的定价持平。Anthropic表示，Opus 5.5在大多数任务上的表现可与Fable 5.1媲美。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI方面，Sol定价为每百万输入token 2美元、输出token 10美元；轻量版Luna则低至每百万输入token 0.10美元、输出token 0.50美元。&lt;/strong&gt; OpenAI本月初已率先发布其最强模型Astra，Sol和Luna作为该系列的低价补充版本随后跟进。&lt;/p&gt;
+&lt;p&gt;据报道，在经历了一段以极限能力为导向的全面军备竞赛之后，两大美国AI实验室正日益将竞争重心转向价格与性能的综合比拼，以争取对成本敏感的企业客户。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来自中国的&amp;quot;开放权重&amp;quot;模型构成了日益显著的竞争威胁。&lt;/strong&gt;据云应用公司Vercel的数据，这类可供用户自定义、在本地运行的模型正在从美国实验室手中抢夺市场份额。面对这一压力，OpenAI近几个月已多次下调模型价格，并声称其Astra模型是目前市场上性能最强的模型。&lt;/p&gt;
+&lt;p&gt;OpenAI此前表示，公司不太可能在2027年之前上市。年初增长放缓后，降价成为其重新激活增长的核心手段之一。&lt;/p&gt;
+&lt;p&gt;对Anthropic而言，此次发布的战略意义不止于价格竞争。&lt;strong&gt;公司正积极扩大客户基础，为今秋计划中的IPO铺路——该上市被预期将成为史上规模最大的科技IPO之一。&lt;/strong&gt; 投资者普遍猜测，新模型的发布将成为公司正式递交招股说明书的催化剂。&lt;/p&gt;
+&lt;p&gt;市场密切关注的核心问题是：在竞争持续加剧、客户对价格愈发敏感的背景下，Anthropic能否在未来数年维持其高速增长态势。&lt;/p&gt;
+安全承诺：降价同时强调风险管控
+&lt;p&gt;值得注意的是，此次发布也发生在AI安全议题持续升温的背景之下。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Opus 5.5是Anthropic首席执行官Dario Amodei公开呼吁AI实验室&amp;quot;把握发展前沿节奏&amp;quot;、并深度引入第三方测试机构之后，该公司推出的首款新模型。&lt;/strong&gt; 此前，研究人员警告称，不受约束的自我改进型超级智能竞赛可能对人类构成威胁。&lt;/p&gt;
+&lt;p&gt;Anthropic表示，新模型经过了&amp;quot;广泛的对齐测试、发布前的外部机构评估，并在网络安全和生物学等高风险领域设置了相应防护措施&amp;quot;。&lt;/p&gt;
+&lt;p&gt;OpenAI周二也公布了与独立评估机构进一步合作的优先事项，涵盖模型训练、安全防护、风险预备及事件调查等方面。此前一周，Anthropic刚刚宣布将与埃森哲合作开展安全测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Agent“重塑”服务业！Muse重燃“恐慌”，金融股“躺枪”</title><link>https://wallstreetcn.com/articles/3782330</link><guid>e3dfb24ba44cbb587fff1736fbcdeb4ffc67c114edfda2827a9c114f163e4fb4</guid><pubDate>Wed, 23 Sep 2026 01:04:01 GMT</pubDate><description>&lt;p&gt;Meta消费级AI代理Muse以压倒性下载量登顶苹果App Store，引发华尔街对AI颠覆金融服务业的新一轮担忧，银行与券商股遭遇数月来最大单日跌幅。&lt;/p&gt;
 &lt;p&gt;9月22日，美股金融板块重挫，标普500金融板块下跌约2%，拖累大盘基本收平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;券商嘉信理财与LPL Financial各跌逾6%。摩根大通下跌3.4%，创7月以来最大单日跌幅；富国银行跌3.9%，为5月以来最大跌幅；美国银行与花旗分别下跌3%和2%。&lt;/p&gt;
@@ -280,94 +439,4 @@ AI先改变预算流向，广告增量尚未打开
 模型之外，商业闭环决定价值获取
 &lt;p&gt;当AI从广告投放工具进一步变成能够理解需求并执行任务的Agent后，平台竞争的核心将转向对商业链路的控制。摩根士丹利将其归纳为四个关键节点：&lt;strong&gt;谁发起需求、谁决定候选集、谁完成交易，以及谁掌握结果数据和回写权限&lt;/strong&gt;。从广告、赞助排序，到交易佣金、支付和商家服务，不同环节对应着不同的价值获取方式。&lt;/p&gt;
 &lt;p&gt;这也是独立AI与嵌入式AI的主要差异。独立AI能够聚合跨领域用户意图，但嵌入业务体系的AI距离商品、商家、支付和交易更近，更容易把用户需求转化为可量化的商业结果。调研显示，&lt;strong&gt;47%的广告主认为AI创造的价值将由各参与方共同分享，37%认为平台将成为最大的单一受益方。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：苹果开发新型健身追踪器原型机，目标直指Whoop</title><link>https://wallstreetcn.com/articles/3782323</link><guid>472be7c9d8c3be8da4e779a184d1e2f39d18c8c1065bdb7af1c7c35fc803051a</guid><pubDate>Tue, 22 Sep 2026 20:10:40 GMT</pubDate><description>&lt;p&gt;苹果公司正在悄然布局无屏健身追踪器市场，将竞争目标直接指向Whoop。&lt;/p&gt;
-&lt;p&gt;9月22日据彭博社援引知情人士透露，苹果公司正在开发一款无屏幕的健康与健身追踪器，类似于Whoop的手腕佩戴设备。苹果已探索该品类数月，目前正在开发原型机。&lt;/p&gt;
-&lt;p&gt;该计划获得了包括苹果执行董事长蒂姆·库克和服务主管Eddy Cue在内的高层支持，但苹果尚未决定是否发布该产品。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该项目仍处于内部称为“技术调查”的初步阶段。如果苹果继续推进发布，该设备最早也要到2028年才会亮相。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消息一出，市场即时作出反应。健身追踪设备销售商Garmin股价盘中一度下跌2.5%，随后收复日内跌幅转涨1.6%。苹果股价则冲高回落，报约340美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-原型机采用无屏设计，与Apple Watch形成差异化
-
-&lt;p&gt;据报道援引知情人士透露，该原型机配备细薄织物表带，并集成带有传感器的计算模块，外形设计与Whoop的腕戴设备高度相似。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;无屏幕是这款设备与Apple Watch最核心的区别。&lt;/strong&gt;Apple Watch以显示屏为中心，集健康追踪、应用程序、通知提醒等多项功能于一体；而这款新设备的定位则更为聚焦，专注于健身与健康数据的采集和追踪。&lt;/p&gt;
-&lt;p&gt;目前，该项目仍处于苹果内部所称&amp;quot;技术调查&amp;quot;的初步阶段，意味着产品能否最终推出仍存在相当不确定性。&lt;/p&gt;
-&lt;p&gt;这一新项目的背后，是苹果健康与可穿戴团队正在经历的一场深层变革。前首席运营官Jeff Williams此前统管手表与健康业务，已于去年年底退休；负责Apple Watch及健康产品营销的Stan Ng，以及主导苹果健身策略的Jay Blahnik，也相继离开公司。&lt;/p&gt;
-&lt;p&gt;去年年底接手苹果健康业务的Eddy Cue，已着力推动团队向Whoop等新兴竞争对手学习，将更简洁、更专注于健康追踪的产品理念引入苹果体系。&lt;/p&gt;
-&lt;p&gt;苹果最新款Apple Watch及重新设计的Health应用，已开始融入类似Whoop的功能，包括更高级的心率追踪、每日状态评估指标，以及基于健康数据估算用户生理年龄等能力。&lt;/p&gt;
-
-竞争格局生变，Whoop和Oura加速崛起
-
-&lt;p&gt;苹果此番布局无屏健身追踪器，有其明确的竞争背景。&lt;/p&gt;
-&lt;p&gt;尽管苹果在智能手表市场仍居全球前列，但Whoop和智能戒指制造商Oura正快速增长，各自拥有数百万用户。&lt;/p&gt;
-&lt;p&gt;目前，无屏健身追踪市场已形成多方竞逐格局：Garmin长期深耕位置追踪与健身设备领域；Alphabet旗下谷歌近期也推出了Fitbit Air，正式入局无屏可穿戴市场。&lt;/p&gt;
-&lt;p&gt;与此同时，Oura本月已提交IPO申请，Whoop当前估值约100亿美元，正在考虑未来上市计划。&lt;/p&gt;
-
-更大产品布局：智能眼镜、AI吊坠与手表重设计
-
-&lt;p&gt;这款无屏健身追踪器是苹果更宏观可穿戴设备战略的组成部分。&lt;/p&gt;
-&lt;p&gt;参与该追踪器早期工程工作的，包括苹果Vision硬件团队成员，该团队除开发Vision Pro头显外，还在推进首款苹果智能眼镜以及配备摄像头的AirPods，两款产品均瞄准2027年发布。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3763869"&gt;华尔街见闻提及&lt;/a&gt;，苹果此前还在开发一款配备摄像头的AI别针设备，该设备原本可供用户佩戴于颈间或别于衣物，以采集视觉数据供新版Siri处理，但目前该项目已被推迟。&lt;/p&gt;
-&lt;p&gt;在智能手表方面，苹果正筹划最早于2027年底推出一次较大幅度的产品线重设计，以打破近年来以渐进式迭代为主的产品节奏。&lt;/p&gt;
-&lt;p&gt;Apple Watch Series 10两年前实现了机身减薄，但更大尺寸的Ultra型号自四年前亮相以来外观未有实质性变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特7月原油出口升至四个月高位，俄罗斯9月海运原油出口收入三个月新高</title><link>https://wallstreetcn.com/articles/3782329</link><guid>f5ba4db92828798de7a7032f5c990b2b63a573c05a4bad41310d0f702edb3e0a</guid><pubDate>Tue, 22 Sep 2026 22:27:15 GMT</pubDate><description>&lt;p&gt;联合组织数据倡议（JODI）周二公布的数据显示，&lt;strong&gt;沙特阿拉伯7月原油出口量较6月增加约3.3%，至412.5万桶/日，为3月以来最高水平。&lt;/strong&gt;沙特原油产量则从6月的712.2万桶/日增至813.5万桶/日。&lt;/p&gt;
-&lt;p&gt;UBS分析师Giovanni Staunovo表示：“随着地区紧张局势缓和，沙特原油及成品油出口在7月均有所增加。”不过，他补充称，&lt;strong&gt;8月出口可能走弱，尤其是来自红海港口的出口，因为胡塞武装相关紧张局势重新升级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数据显示，沙特炼厂7月原油加工量从6月的249.8万桶/日下降2万桶/日，至247.8万桶/日。沙特直接燃烧原油量也从6月水平下降22403桶/日，至56.11万桶/日。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;截至9月20日的四周内，俄罗斯海运原油出口量小幅回落至每日353万桶，出口总值升至每周21亿美元，为6月14日当周以来最高，主要受全球油价上涨驱动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周二布伦特原油期货下跌1.78%至98.55美元/桶。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-沙特最新动态
-&lt;p&gt;在地缘政治方面，据&lt;a href="https://wallstreetcn.com/articles/3782296?keyword=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E2%80%9C%E7%BD%97%E7%94%9F%E9%97%A8%E2%80%9D"&gt;华尔街见闻周二文章&lt;/a&gt;，一名伊朗官员表示，如果美国缓解军事压力并解除对伊朗港口的封锁，伊朗可以在7天内重新开放霍尔木兹海峡。不过，伊朗方面随后又有消息人士否认了相关报道。&lt;/p&gt;
-&lt;p&gt;周一，也门胡塞武装试图夺取战略高地，以切断红海沿岸与沙特支持势力控制的其他地区之间的联系。据CCTV国际时讯，上周日对胡塞武装的空袭行动一度箭在弦上，但美国总统特朗普最后一刻取消了针对胡塞武装的袭击。&lt;/p&gt;
-&lt;p&gt;周二，&lt;a href="https://wallstreetcn.com/articles/3782302?keyword=%E6%B2%99%E7%89%B9%E4%B8%9C%E8%A5%BF%E8%BE%93%E6%B2%B9%E7%AE%A1%E9%81%93"&gt;沙特东西输油管道传出重启信号&lt;/a&gt;，沙特阿美正加紧修复受损泵站，延布港已出现油轮抵达迹象，目标最快本周恢复原油出口。管道重启有望缓解供应中断压力，但恢复进度及红海航线安全仍存不确定性。&lt;/p&gt;
-&lt;p&gt;此前，无人机袭击迫使沙特于9月13日关闭该输油管道。&lt;/p&gt;
-俄罗斯石油出口收入触三月高点，但沙特复产与美国关税威胁前景
-&lt;p&gt;俄罗斯石油出口收入近期攀升至三个多月来最高水平，但这一势头正面临双重压力：&lt;strong&gt;沙特阿拉伯加速恢复西海岸输油管道供应，以及美国新签署的关税授权法案令俄油最大买家印度对采购前景趋于谨慎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博数据，截至9月20日的四周内，俄罗斯海运原油出口量小幅回落至每日353万桶，出口总值升至每周21亿美元，为6月14日当周以来最高，主要受全球油价上涨驱动。&lt;/p&gt;
-&lt;p&gt;然而沙特正在绕过受损泵站、重启东西输油管道，此举已推动全球油价回落，俄罗斯原油价格随之承压。&lt;/p&gt;
-&lt;p&gt;与此同时，特朗普已签署法案，授权对俄罗斯前五大能源进口国征收最高100%的关税。作为近几个月俄罗斯海运原油最大买家，印度买家已感到警惕，可能削减进口。&lt;/p&gt;
-&lt;p&gt;据悉，印度或将近期俄罗斯原油进口占比从逾一半压缩至20%至30%，这意味着每日采购量或减少逾100万桶，迫使俄罗斯另觅买家。&lt;/p&gt;
-
-俄罗斯炼厂持续遭袭，更多原油转入出口
-
-&lt;p&gt;俄罗斯境内炼油设施连续遭受打击，加大了出口压力。&lt;/p&gt;
-&lt;p&gt;过去一周，具备每日近100万桶原油加工能力的炼厂已全部或部分停产，受袭设施涉及塞兹兰、雅罗斯拉夫尔、莫斯科、乌法及古比雪夫等地。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;上述袭击导致俄罗斯国内原油加工量下降，部分无法在国内消化的原油被转入出口渠道。彭博数据显示，今年迄今俄罗斯海运出口量较2022年俄乌战争爆发以来任何一个完整年度的均值高出近每日30万桶。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;特朗普曾公开表达对俄罗斯柴油加工能力受损的不满，将柴油上涨归咎于乌克兰对俄炼厂的打击，而非中东局势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”</title><link>https://wallstreetcn.com/articles/3782318</link><guid>a2a3459aee4a6350cdaf0535f5c77ca973601cdc003f18ef654804accdabfd46</guid><pubDate>Tue, 22 Sep 2026 20:10:01 GMT</pubDate><description>&lt;p&gt;美联储里士满联储主席Tom Barkin周二警告称，通胀冲击的消退不会一蹴而就，当前高企的通胀水平存在向未来预期传导并形成固化的风险。&lt;/p&gt;
-&lt;p&gt;Barkin在巴尔的摩发表的演讲中表示，美联储上周的加息举措有助于压制通胀，但他未就是否需要进一步收紧政策明确表态。他强调，供给侧冲击已不再是一次性或暂时性事件，经济体内的价格压力具有持续性。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;这些压力或许终将消退，但我预计需要一段时间，在此期间，当前高企的通胀水平可能影响未来的通胀走势。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Barkin今年在联邦公开市场委员会（FOMC）不具投票权。关于后续政策路径，他表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;将通胀可持续地压回2%目标，是我们的承诺。上周的加息将有所帮助。&lt;strong&gt;至于是否还需要进一步加息，以及加多少，我们将视情况而定。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-两种情景并存，前景不确定性犹存
-
-&lt;p&gt;Barkin就通胀走势描绘了两种路径。&lt;/p&gt;
-&lt;p&gt;乐观情景下，近期冲击逐步消退，价格压力迅速降温——消费者支出触及上限、投资放缓、就业市场出现松动，均可能加速这一进程。&lt;/p&gt;
-&lt;p&gt;悲观情景下，通胀可能更为顽固。Barkin指出，暂时性冲击可能拖延，新的成本压力可能涌现，需求端的持续强劲以及当前通胀本身的二次传导效应，都可能进一步推高价格。&lt;/p&gt;
-&lt;p&gt;供给冲击不再是一次性事件，是Barkin演讲的核心判断。他认为，这正是通胀压力在整个经济体中持续蔓延的深层原因。&lt;/p&gt;
-
-经济基本面仍具韧性
-
-&lt;p&gt;尽管通胀前景充满不确定性，Barkin对经济整体形势持相对乐观的态度。&lt;strong&gt;&amp;quot;经济和劳动力市场仍站稳脚跟，&amp;quot;他表示，&amp;quot;我们从企业那里听到的反馈是，经济状况如果有什么变化的话，是在进一步走强。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美联储官员上周投票一致通过加息决定，这是三年多来的首次，联邦基金利率目标区间升至3.75%至4%。官员们对通胀问题的担忧持续上升——通胀已连续五年半未能回落至2%的政策目标，部分官员明确警示价格压力的持续性。&lt;/p&gt;
-&lt;p&gt;在上周决议发布的最新利率点阵图中，官员中位数预测显示年内还将有一次加息。2027年的中位数预测指向基准利率不再进一步上调，但有八位官员认为届时利率将比当前水平高出50个基点，官员内部的分歧依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”</title><link>https://wallstreetcn.com/articles/3782334</link><guid>ac95b1e7a79cbf949dad09d550b9ca46b272174f1b02699aeb7b1bf08f6be895</guid><pubDate>Wed, 23 Sep 2026 00:10:19 GMT</pubDate><description>伊朗外长与美特使在纽约会晤
-&lt;p&gt;当地时间9月22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。&lt;/p&gt;
-&lt;p&gt;据伊朗方面消息称，此举是“应美方要求”，伊朗同意威特科夫的会晤请求，是出于“传达伊朗关于重新开放霍尔木兹海峡条件”的需要。&lt;/p&gt;
-&lt;p&gt;据悉，伊朗重新开放霍尔木兹海峡的条件包括立即解除海上封锁，立即解冻所有伊朗资产以及结束在地区各战线的战争。&lt;/p&gt;
-&lt;p&gt;美国总统特朗普表示，美国官员当天与伊朗代表举行了一场“非常好的”会谈。特朗普称，这场会谈持续了3个小时，并称会谈“非常有建设性”。他还表示，美伊双方已安排在近期再次举行会谈。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://news.cnr.cn/sq/20260923/t20260923_527822083.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;
-特朗普证实美伊官员在纽约会谈3小时
-&lt;p&gt;美国总统特朗普22日证实，美国和伊朗官员当天在纽约进行了3小时会谈，并计划很快再谈一次。&lt;/p&gt;
-&lt;p&gt;特朗普当天在联大会议期间会见乌克兰总统泽连斯基时对媒体表示，美伊当天会谈“非常顺利”“富有成效”，计划不久后再举行一次。他没有透露双方会谈内容和下次会谈时间。&lt;/p&gt;
-&lt;p&gt;据悉，美总统特使威特科夫和特朗普的女婿库什纳参加了此次会谈。威特科夫在会谈后表示，他“感觉很好”。&lt;/p&gt;
-&lt;p&gt;第81届联合国大会一般性辩论22日在纽约联合国总部开幕，特朗普在开幕当天讲话中称，不排除美伊在11月美国国会中期选举后达成结束冲突协议的可能性。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://www.news.cn/world/20260923/09761b089c9f4b72bfe6fbee6e2365fa/c.html"&gt;新华社&lt;/a&gt;&lt;/p&gt;
-特朗普：中期选举后美伊或达成协议
-&lt;p&gt;第81届联合国大会一般性辩论22日在纽约联合国总部开幕，美国总统特朗普在开幕当天讲话中称可迅速“摧毁”伊朗，但不排除双方在11月美国国会中期选举后达成结束冲突协议的可能性。&lt;/p&gt;
-&lt;p&gt;特朗普讲话大篇幅聚焦其中东政策。他为美国与以色列2月底联合对伊朗发动袭击进行辩护，称绝不会允许伊朗获得核武器。&lt;/p&gt;
-&lt;p&gt;他表示，伊朗正在“等着看我在中期选举中的表现”，伊朗没有道理不在选举后与美国达成协议。&lt;/p&gt;
-&lt;p&gt;据联合国官网日程，伊朗总统佩泽希齐扬预计于23日在联大一般性辩论发表讲话。据报道，佩泽希齐扬表示将“坚定捍卫”伊朗立场，其发言将呼吁实现世界和平、安宁以及对国家主权的尊重。&lt;/p&gt;
-&lt;p&gt;本文来源：&lt;a href="https://www.news.cn/world/20260923/77ca477139114989a935a75d440e8fe9/c.html"&gt;新华社&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
