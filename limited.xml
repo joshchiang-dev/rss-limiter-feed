@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 22:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 光纤板块回调37%后，瑞银坚定看好：市场或高估2027年“产能过剩”风险</title><link>https://wallstreetcn.com/articles/3782387</link><guid>7f0e46d39e3390c73c4561021c2a32af7c8f226c0420cceebc8ffc7226039c9e</guid><pubDate>Wed, 23 Sep 2026 13:00:01 GMT</pubDate><description>&lt;p&gt;自6月高点回调37%的中国光纤板块，正在经历一场由市场误判引发的错误定价。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 22:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] 光纤板块回调37%后，瑞银坚定看好：市场或高估2027年“产能过剩”风险</title><link>https://wallstreetcn.com/articles/3782387</link><guid>7f0e46d39e3390c73c4561021c2a32af7c8f226c0420cceebc8ffc7226039c9e</guid><pubDate>Wed, 23 Sep 2026 13:00:01 GMT</pubDate><description>&lt;p&gt;自6月高点回调37%的中国光纤板块，正在经历一场由市场误判引发的错误定价。&lt;/p&gt;
 &lt;p&gt;据追风交易台，瑞银首次覆盖中国光纤光缆行业，认为投资者对2027年产能过剩、盈利见顶的担忧被显著高估。&lt;/p&gt;
 &lt;p&gt;瑞银的核心判断是：&lt;strong&gt;光纤行业的需求引擎已从中国三大运营商的资本开支预算，切换为全球数据中心建设。这一结构性转变意味着需求更贴近实际消费，与AI基础设施建设直接挂钩，而非依赖周期性的电信采购计划。&lt;/strong&gt;与此同时，供给端的扩产速度受制于预制棒设备交期延长、人才紧缺及客户认证周期等多重瓶颈，实际落地时间将显著晚于市场预期。&lt;/p&gt;
 &lt;p&gt;在此背景下，瑞银将长飞H股目标价由290港元上调至330港元，较现价190.5港元有73%的上行空间，对应2026年/2027年预期市盈率分别为14.8倍和8.6倍，2026至2028年每股收益复合增速预计达45%。长飞A股维持中性评级，目标价由310元上调至510元。&lt;/p&gt;
@@ -197,36 +197,7 @@ AI代理焦虑继续切割美股，旅游股重挫而AI代理受益方还在涨
 &lt;p&gt;AI语音赛道上，OpenAI、亚马逊等厂商均已布局语音合成方案。谷歌此次的关键差异，在于将TTS纳入Gemini统一品牌，使其与文本理解、推理、多模态能力在同一生态内协同，而非作为独立API单品推出。&lt;/p&gt;
 &lt;p&gt;这一选择将竞争维度从单一语音合成产品的质量对比，推向更综合的层面：谁能在完整语音交互链路上以更低成本提供实时可用的体验。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;轻量版Flash-Lite TTS的推出，意味着谷歌可在可控成本下将实时语音能力下沉至车载系统、IoT设备等此前大参数模型难以覆盖的终端场景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，两款模型均已通过Gemini API和Google AI Studio向开发者开放。Flash TTS还可用于Gemini Notebook，Flash-Lite TTS已接入Google Vids，面向企业的Gemini Enterprise API支持将于后续推出。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 节前猛下“红包雨”，银行“领衔”上市公司中期分红</title><link>https://wallstreetcn.com/articles/3782375</link><guid>ce6db11eff13672a9ffe15447ce66e8c4980e70f71cf377ce4658d7aaca9d656</guid><pubDate>Wed, 23 Sep 2026 10:48:27 GMT</pubDate><description>&lt;p&gt;国庆节前的A股，迎来一波密集的分红窗口。&lt;/p&gt;
-&lt;p&gt;股权登记日落在9月21日至9月30日的上市公司中，共有147家公司将实施现金分红，累计分红规模约348亿元。&lt;/p&gt;
-&lt;p&gt;其中，平安银行、杭州银行、沪农商行等金融机构的中期分红金额均超过20亿元，甚至40亿元，是本轮现金分红的重要力量。&lt;/p&gt;
-&lt;p&gt;而三家银行合计派现超过105亿元，也成为此次国内上市公司的“标志性事件”。&lt;/p&gt;
-147家公司节前集中“发红包”
-&lt;p&gt;据Wind统计，在节前实施分红的147家上市公司中，累计现金分红规模在348亿元上下。&lt;/p&gt;
-&lt;p&gt;金融板块在这份名单中的分量尤为突出。仅平安银行、杭州银行、沪农商行三家银行，合计派现就超过105亿元，约占147家公司总分红规模的三成。&lt;/p&gt;
-&lt;p&gt;越来越多的银行，开始启动中期分红。这对投资者而言意义重大。&lt;/p&gt;
-银行中期派息将超2500亿
-&lt;p&gt;另外，今年以来，已有20余家上市银行推出中期分红方案（部分还未实施），预计将派现逾2500亿元。&lt;/p&gt;
-&lt;p&gt;六大国有银行中期分红比例由30上调至31%，中信银行以112.96亿元成为首家股份制银行中期分红突破百亿的银行。&lt;/p&gt;
-&lt;p&gt;另外，已明确分红方案的银行中，上海银行、平安银行、北京银行的股息率（年化）均已经超5%。&lt;/p&gt;
-平安银行豪气派现48.32亿
-&lt;p&gt;作为节前分红最“豪气”的银行，平安银行本次权益分派股权登记日为9月23日，除权除息日为9月24日。&lt;/p&gt;
-&lt;p&gt;公司总股本194.06亿股，每10股派发现金红利2.49元（含税），半年度分红总额达48.32亿元，不送红股、不以公积金转增股本。&lt;/p&gt;
-&lt;p&gt;截至9月18日收盘，公司最新股息率（TTM）达5.21%。&lt;/p&gt;
-&lt;p&gt;稳定分红背后是经营基本面出现改善。平安银行上半年实现归属于母公司股东的净利润256.96亿元，同比增长3.3%，营收、净利润双双重回正增长轨道。&lt;/p&gt;
-&lt;p&gt;净息差企稳至1.80%，较去年全年回升2个基点，结束连续下行态势。在盈利修复、风险可控的前提下，平安银行继续推出中期分红，将经营成果回馈股东。&lt;/p&gt;
-杭州银行分红“领跑”城商行
-&lt;p&gt;杭州银行总股本72.49亿股，每10股派发现金红利4.6元（含税），合计派现33.35亿元，占同期归母净利润约26.02%，中期分红金额同比增长21.05%。&lt;/p&gt;
-&lt;p&gt;本次权益分派股权登记日为9月24日，除权（息）日及现金红利发放日为9月28日。上半年公司实现归母净利润128.13亿元，同比增长9.87%，股息率超过4%。&lt;/p&gt;
-&lt;p&gt;杭州银行近年的业绩增长态势良好，加之上半年净息差出现筑底回升信号，令业绩韧性更加明显。&lt;/p&gt;
-&lt;p&gt;稳健向上的经营表现，成为其进一步提高中期分红规模的底气，分红规模较去年同期实现两成以上增长。&lt;/p&gt;
-沪农商行连续多年中期分红
-&lt;p&gt;沪农商行则连续第三年实施中期分红，在农商行行列中“罕有其匹”。&lt;/p&gt;
-&lt;p&gt;公司总股本约96.44亿股，这次中期每10股派发现金红利2.499元（含税），共计派现24.10亿元，中期分红比例达34.07%。&lt;/p&gt;
-&lt;p&gt;沪农商行本次权益分派股权登记日为9月23日，除权除息日为9月24日，股息率同样超过4%。&lt;/p&gt;
-&lt;p&gt;作为上海本地头部农商行，沪农商行上半年营收增速由负转正，贷款总额同比增长3.48%，零售金融资产（AUM）余额较年初增加逾314亿元。。&lt;/p&gt;
-&lt;p&gt;尽管行业仍面临息差压力，但公司整体经营运行平稳，能够连续三年落地中期分红，也体现出这家头部农商行稳定回报股东的意愿。&lt;/p&gt;
-&lt;p&gt;总体看，在业绩韧性和政策召唤的双重动力下，银行依然是中期分红的主力。投资者看股息回报，还是更多的要看银行股。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同用华为方案，岚图拿什么争50万元MPV订单？</title><link>https://wallstreetcn.com/articles/3782391</link><guid>9cbb16ba25bc1aa31e27dd8401a161b0d1390d0b0a580b1be8f652cff1dac1f8</guid><pubDate>Wed, 23 Sep 2026 13:21:29 GMT</pubDate><description>&lt;p&gt;梦想家9将岚图的高端MPV布局进一步向50万元级市场延伸。&lt;/p&gt;
+&lt;p&gt;目前，两款模型均已通过Gemini API和Google AI Studio向开发者开放。Flash TTS还可用于Gemini Notebook，Flash-Lite TTS已接入Google Vids，面向企业的Gemini Enterprise API支持将于后续推出。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同用华为方案，岚图拿什么争50万元MPV订单？</title><link>https://wallstreetcn.com/articles/3782391</link><guid>9cbb16ba25bc1aa31e27dd8401a161b0d1390d0b0a580b1be8f652cff1dac1f8</guid><pubDate>Wed, 23 Sep 2026 13:21:29 GMT</pubDate><description>&lt;p&gt;梦想家9将岚图的高端MPV布局进一步向50万元级市场延伸。&lt;/p&gt;
 &lt;p&gt;9月22日，岚图梦想家9正式上市，推出插混和纯电车型，售价41.99万至52.99万元。作为现有梦想家产品线之上的新增车型，梦想家9延续了该系列的MPV定位，并将价格、智能化和底盘配置进一步上移。&lt;/p&gt;
 &lt;p&gt;岚图选择从梦想家系列继续向上，与其现有销量结构直接相关。2025年，梦想家系列销售7.60万辆，占岚图全年销量的50.6%，是公司规模最大的产品系列。&lt;/p&gt;
 &lt;p&gt;梦想家9建立在这一市场基础上，主要面向商务用户、企业经营者和高端家庭用户，进一步扩大梦想家在高端MPV市场的覆盖范围。&lt;/p&gt;
@@ -463,4 +434,10 @@ IC设计业成本重估，转嫁能力因产品而异
 &lt;p&gt;此轮涨价亦有成本端的驱动逻辑。&lt;/p&gt;
 &lt;p&gt;据估算，台积电美国建厂成本约为中国台湾的4至5倍。台积电此前已表示，2纳米量产初期将稀释毛利率约3至4个百分点，海外晶圆厂在未来数年内亦可能带来约2至3个百分点的毛利压力，在此背景下，上调Wafer Out价格符合市场预期。&lt;/p&gt;
 &lt;p&gt;台积电董事长魏哲家曾表示，客户选择晶圆代工合作伙伴，&amp;quot;不是去7-Eleven买牛奶，今天不满意明天就换一家&amp;quot;。&lt;/p&gt;
-&lt;p&gt;供应链人士指出，Google、苹果、英伟达等大客户的转单行为多属非核心芯片或规模有限的订单，台积电主要高端制程客户的投片量并未出现明显变化。台积电对2026年需求维持高度信心，持续扩大资本支出并上修全年美元营收增幅预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;供应链人士指出，Google、苹果、英伟达等大客户的转单行为多属非核心芯片或规模有限的订单，台积电主要高端制程客户的投片量并未出现明显变化。台积电对2026年需求维持高度信心，持续扩大资本支出并上修全年美元营收增幅预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小米18 Pro系列正式发布：5999元起售</title><link>https://wallstreetcn.com/articles/3782386</link><guid>b4cabbd92eb0c51bbe8731fea3238ee24f3bae890e4b820c17579961ce11b25a</guid><pubDate>Wed, 23 Sep 2026 12:27:37 GMT</pubDate><description>&lt;p&gt;小米于周二晚间举行秋季新品发布会，正式推出Xiaomi 18 Pro系列旗舰产品。&lt;/p&gt;
+&lt;p&gt;小米合伙人、集团总裁卢伟冰在发布会上表示，小米18 Pro系列搭载高通全新2nm GAA工艺旗舰平台，并首发搭载小米澎湃OS 4操作系统。定价5999元起，延续了小米近年来持续向高端化推进的战略方向。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;18 Pro Max ProMax首发超级至尊版，CPU主频首次突破5GHz，6999起售。其中透明版发布后，在小米商城等渠道已迅速售罄，目前页面显示&amp;quot;已抢光&amp;quot;状态。 &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;更新中......&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
