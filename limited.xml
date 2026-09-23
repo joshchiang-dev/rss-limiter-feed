@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 06:59:20 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指齐跌，北证50逆势涨2%，房地产冲高回落，PCB、玻璃基板走强，恒科指跌1%，科网股集体下挫</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 04:04:10 GMT</pubDate><description>&lt;p&gt;9月23日，早盘三大指数集体收跌，北证50逆势涨超2%。覆铜板/PCB涨价逻辑最强，玻璃基板、培育钻石、CRO、黄酒多点开花，传媒影视、煤炭、海运等板块集体陷入调整。房地产冲高回落，万科A一度涨停，午盘收涨5%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 07:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指齐跌，北证50逆势涨2%，房地产冲高回落，PCB、玻璃基板走强，恒科指跌1%，科网股集体下挫</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 04:04:10 GMT</pubDate><description>&lt;p&gt;9月23日，早盘三大指数集体收跌，北证50逆势涨超2%。覆铜板/PCB涨价逻辑最强，玻璃基板、培育钻石、CRO、黄酒多点开花，传媒影视、煤炭、海运等板块集体陷入调整。房地产冲高回落，万科A一度涨停，午盘收涨5%。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指双双下跌，恒科指一度跌超1%，权重科网股回调，阿里盘中跌超4%，腾讯跌超2%，AI大模型股双雄同样下挫，智谱、MINIMAX跌超4%。债市方面，国债期货集体下跌。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.36%，深成指跌0.58%，创业板指跌0.43%。&lt;/p&gt;
@@ -63,69 +63,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数低开0.09%，恒生科技指数涨0.01%。金融、油气板块调整。澜起科技、凯莱英、兆易创新走强。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
-&lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
-&lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI称，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
-&lt;p&gt;两款模型的定位也有所区分：Sol更偏向高能力的专业工作、编码和智能体任务，Luna则更强调速度、成本和高频使用。OpenAI表示，两款模型都继承了GPT-6 Astra在专业工作、事实准确性、编码、计算机使用和对齐方面的技术进展。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;根据OpenAI公告，Sol和Luna即日起面向Plus、Pro、Business、Enterprise及Edu用户，在ChatGPT Work和Codex中提供，同时开放API；免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。不过，两款模型目前尚未开放至ChatGPT普通聊天界面。&lt;/p&gt;
-Astra发布不到三周，OpenAI再添两款GPT-6
-&lt;p&gt;从GPT-6的发布节奏看，OpenAI此次动作相当密集。&lt;/p&gt;
-&lt;p&gt;9月3日，OpenAI正式推出GPT-6 Astra，并称其在计算机和浏览器操作、软件工程、网络安全、科学和专业工作等领域达到新的能力前沿。OpenAI当时将Astra定位为GPT-6家族的旗舰模型。&lt;/p&gt;
-&lt;p&gt;仅仅不到三周，OpenAI就再次推出Sol和Luna。&lt;/p&gt;
-&lt;p&gt;OpenAI的官方账号在社交媒体表示，Sol和Luna“建立在GPT-6 Astra背后的技术进展之上”，将Astra的诸多优势带入“更快速、更实惠的模型”，以支持规模化工作。&lt;/p&gt;
-&lt;p&gt;这一产品节奏显示，OpenAI并没有将GPT-6定位成一次只有旗舰模型的单点升级，而是在Astra发布后迅速向不同性能、成本和使用场景铺开产品线。&lt;/p&gt;
-&lt;p&gt;这也与此前AI模型厂商越来越明显的产品策略相呼应：旗舰模型负责突破能力上限，而更快、更便宜的版本则负责进入更多高频工作流。&lt;/p&gt;
-从Astra到Sol、Luna，能力向更大规模场景下沉
-&lt;p&gt;与Astra强调前沿能力不同，Sol和Luna的定位更加突出&lt;strong&gt;速度、成本和规模化使用&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;OpenAI称，Astra仍然是其“各方面表现最佳”的模型，适合最困难、最重要的项目；而Sol和Luna则是把Astra背后的技术进展带入不同成本和使用规模的产品。&lt;/p&gt;
-&lt;p&gt;OpenAI表示，Sol和Luna不仅继承Astra的技术进展，还针对缓存和推理效率进行了优化。公司称，这些优化能够降低模型运行成本，并最终通过更低的API价格反馈给用户。&lt;/p&gt;
-&lt;p&gt;OpenAI还表示，两款模型在对齐能力方面同样吸收了Astra的进展，相较各自的GPT-5.6版本有所提升。&lt;/p&gt;
-&lt;p&gt;换句话说，OpenAI此次并非单纯推出两个“低价版”模型，而是试图将Astra在能力和对齐方面的部分进步，向更高频、更大规模的模型调用场景延伸。&lt;/p&gt;
-&lt;p&gt;对于开发者和企业而言，这意味着此前只有在高价值任务中才值得调用的先进模型能力，未来可能以更低的单位成本进入编码、智能体和企业自动化等大量重复性工作。&lt;/p&gt;
-API价格较GPT-5.6促销价直接腰斩
-&lt;p&gt;价格是此次发布最明确的商业信号。&lt;/p&gt;
-&lt;p&gt;OpenAI宣布，GPT-6 Sol和GPT-6 Luna的API价格，较GPT-5.6的促销价格下调50%。&lt;/p&gt;
-&lt;p&gt;目前OpenAI公布的GPT-5.6 Sol促销价格为每100万Token输入4美元、输出20美元；因此，Sol和Luna此次的价格下调意味着其API成本进一步向下。OpenAI的企业价格表也显示，GPT-5.6 Sol目前仍处于促销定价阶段。&lt;/p&gt;
-&lt;p&gt;OpenAI解释称，价格下降主要来自更高效的缓存和推理，而不是单纯的商业让利。&lt;/p&gt;
-&lt;p&gt;OpenAI官方账号称，“更高的使用额度和更低的成本”将给用户更多灵活性和迭代空间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于需要大量调用模型的开发者和企业来说，单位Token成本下降意味着同样的预算可以运行更多任务，也意味着过去因成本而被限制的智能体工作流，有望获得更大的运行空间。&lt;/p&gt;
-&lt;p&gt;这也让AI模型的竞争进一步从“谁的模型能力更强”，延伸到谁能以更低成本提供足够强的模型能力。&lt;/p&gt;
-先进入Work和Codex，免费用户可体验Luna
-&lt;p&gt;在产品覆盖上，OpenAI此次也没有立即让Sol和Luna全面进入ChatGPT普通聊天界面。&lt;/p&gt;
-&lt;p&gt;根据OpenAI的安排，Plus、Pro、Business、Enterprise及Edu用户可以在ChatGPT Work和Codex中使用两款模型，同时通过API调用。&lt;/p&gt;
-&lt;p&gt;免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。&lt;/p&gt;
-&lt;p&gt;这一安排使两款模型的首发场景明显偏向工作和开发，而不是单纯面向消费者聊天。&lt;/p&gt;
-&lt;p&gt;其中，Sol和Luna的低成本、高使用效率，也更适合需要频繁调用模型的编码任务、智能体工作流以及企业内部自动化。&lt;/p&gt;
-&lt;p&gt;相比之下，GPT-6 Astra仍然承担旗舰模型的角色。Astra发布后，OpenAI甚至因需求激增一度暂停新的Pro订阅注册，并称Astra需求“前所未有”。&lt;/p&gt;
-&lt;p&gt;因此，此次推出Sol和Luna，也可能有助于OpenAI将部分高频需求导向成本更低的模型，从而在扩大使用规模的同时降低基础设施压力。&lt;/p&gt;
-Sol主攻复杂工作，Luna瞄准高频低成本任务
-&lt;p&gt;从OpenAI公布的测试结果看，两款模型并非简单的“同一模型不同价格”。&lt;/p&gt;
-&lt;p&gt;Sol承担的是更高能力需求的任务。OpenAI称，GPT-6 Sol可以处理复杂的专业工作，同时凭借更高的使用额度和更低的成本，让用户能够进行更多轮迭代。&lt;/p&gt;
-&lt;p&gt;在AutomationBench这一测试企业跨应用工作流的基准中，GPT-6 Sol在xhigh effort下获得33.2%，高于GPT-6 Astra在low effort下的30.3%，也高于Claude Opus 5 max effort下的26.9%；OpenAI称，Sol完成每项任务的成本仅为0.27美元。&lt;/p&gt;
-&lt;p&gt;值得注意的是，无代码AI自动化平台Zapier也公布了对GPT-6 Sol的测试结果，得分同样为33.2%。&lt;/p&gt;
-&lt;p&gt;Zapier称，其测试基于真实工作流，在xhigh effort下，GPT-6 Sol的33.2%高于GPT-5.6 Sol的28.77%；同时，Sol的API输入价格为2美元/百万Token，约为GPT-5.6 Sol的一半。&lt;/p&gt;
-&lt;p&gt;从具体任务来看，Zapier称GPT-6 Sol尤其擅长运营类工作，在其测试中的得分达到58%。Zapier因此建议，正在使用GPT-5.6 Sol的工作流可以考虑升级到新模型，并强调Sol同时具备更低价格和更高测试成绩。需要指出的是，这属于Zapier自身的测试和评价，并非对所有企业工作流表现的独立结论。&lt;/p&gt;
-&lt;p&gt;在专业工作测试Agents&amp;#x27; Last Exam中，GPT-6 Sol最高获得56.4%的成绩；在DeepSWE v1.1软件工程测试中，Sol最高获得68.8%，与Claude Fable 5的最高成绩69.9%相差1.1个百分点，但OpenAI称其单项任务成本约低80%。&lt;/p&gt;
-&lt;p&gt;Luna则更突出成本效率。&lt;/p&gt;
-&lt;p&gt;OpenAI称，在AutomationBench高强度测试中，GPT-6 Luna较GPT-5.6 Luna提高5.4个百分点，同时单项任务成本降低58%；在DeepSWE v1.1中，Luna最高获得66.6%，与Claude Opus 5和Fable 5的中等强度表现相当，但每项任务成本分别低93%和96%。&lt;/p&gt;
-&lt;p&gt;此外，OpenAI表示，两款模型的事实准确性也有所提升。其内部事实性测试显示，GPT-6 Sol的错误数量约为前代一半；Luna在更高推理强度下，也可以达到GPT-5.6 Sol的水平，而成本约为后者的百分之一。需要注意的是，这一测试基于用户此前标记为事实错误的匿名ChatGPT对话，并不代表所有真实使用场景。&lt;/p&gt;
-AI模型竞争从“拼旗舰”进入“拼规模”
-&lt;p&gt;OpenAI给出的价格表显示，GPT-6 Sol输入价格从GPT-5.6 Sol促销价的4美元降至2美元/百万Token，输出价格从20美元降至10美元；Luna输入价格从0.20美元降至0.10美元，输出价格从1.20美元降至0.50美元。&lt;/p&gt;
-&lt;p&gt;这意味着两款模型的API成本并非小幅下降，而是&lt;strong&gt;直接打五折&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;OpenAI解释称，更低的价格来自缓存和推理效率的提升。公司同时进一步优化了提示词缓存，使智能体和长对话能够更多复用此前已经处理过的上下文。&lt;/p&gt;
-&lt;p&gt;对于开发者和企业客户而言，模型价格下降的意义不仅是“每次调用更便宜”，还意味着同样预算可以承载更多轮模型调用。&lt;/p&gt;
-&lt;p&gt;尤其是编码智能体和企业自动化工作流需要长时间、反复调用模型，&lt;strong&gt;模型单位成本正在成为决定智能体能否真正规模化部署的重要变量。&lt;/strong&gt;&lt;/p&gt;
-一边呼吁“慢下来”，一边把模型变得更便宜
-&lt;p&gt;值得注意的是，GPT-6 Sol和Luna发布之际，OpenAI与Anthropic实际上都在讨论“AI开发是否应该放慢”。&lt;/p&gt;
-&lt;p&gt;本月早些时候，Anthropic CEO Dario Amodei公开呼吁放慢前沿AI发展的速度，并警告快速推进可能带来风险。OpenAI CEO Sam Altman随后表示认同行业需要放慢前沿模型发展的速度、加强安全措施。OpenAI首席科学家Jakub Pachocki也曾提出，通过协调来放慢未来AI开发是确保自我改进型AI安全的重要路径。&lt;/p&gt;
-&lt;p&gt;但与此同时，OpenAI自己的产品迭代并没有放慢。&lt;/p&gt;
-&lt;p&gt;OpenAI在发布GPT-6 Astra不到三周后又推出Sol和Luna，而且此次不仅增加模型选择，还将API价格直接降低50%。&lt;/p&gt;
-&lt;p&gt;同在本周二，Anthropic也推出新模型Claude Opus 5.5，并强调更低的运行成本。&lt;/p&gt;
-&lt;p&gt;两家头部AI公司同一天推出更具成本竞争力的模型，显示AI行业的竞争正在从单纯争夺旗舰模型能力，进一步转向性能、速度与成本的综合竞争。&lt;/p&gt;
-&lt;p&gt;对于OpenAI而言，Astra负责树立GPT-6的能力上限，Sol和Luna则负责把这些能力以更低成本推向更广泛的工作场景。&lt;/p&gt;
-&lt;p&gt;一边讨论如何放慢AI发展的速度，一边加快模型迭代、扩大使用范围并压低调用成本，AI行业正在进入能力与成本同时加速下探的新阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回归，纳指创出新高，存储全线领涨</title><link>https://wallstreetcn.com/articles/3782333</link><guid>91c6c92037701875404bdb633b1caacdb9d780b4d8afc1b62f5b361bd52c8787</guid><pubDate>Wed, 23 Sep 2026 00:34:18 GMT</pubDate><description>&lt;p&gt;AI交易强势回归，叠加盈利预期持续上修，纳斯达克100指数周二收于历史新高，存储芯片板块领涨全场，NAND闪存正从大宗商品向AI基础设施核心组件加速转型。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回归，纳指创出新高，存储全线领涨</title><link>https://wallstreetcn.com/articles/3782333</link><guid>91c6c92037701875404bdb633b1caacdb9d780b4d8afc1b62f5b361bd52c8787</guid><pubDate>Wed, 23 Sep 2026 00:34:18 GMT</pubDate><description>&lt;p&gt;AI交易强势回归，叠加盈利预期持续上修，纳斯达克100指数周二收于历史新高，存储芯片板块领涨全场，NAND闪存正从大宗商品向AI基础设施核心组件加速转型。&lt;/p&gt;
 &lt;p&gt;Meta旗下Muse AI模型上线后迅速登顶苹果应用商店免费榜首，点燃市场对AI需求的乐观预期。&lt;strong&gt;纳斯达克100指数周二收涨0.8%，创下历史新高，并在盘中突破6月初的前高纪录&lt;/strong&gt;；纳斯达克综合指数则连续两日刷新峰值，周一单日涨幅达2.3%，为七周最大。与此同时，标普500指数小幅收跌，市场分化格局凸显。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;存储板块成为本轮行情最大赢家。Sandisk单日大涨6.8%，Seagate Technology涨4.8%，Western Digital涨3.7%。油价回落与美中AI谈判进展的报道，进一步为科技股提供了上行动力。&lt;/p&gt;
@@ -438,4 +376,17 @@ Muse冲榜，“消费者惯性”模式受到冲击
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大空头Burry加码做空美光、Nebius，逻辑是“内存供应激增，价格将面临下行压力”</title><link>https://wallstreetcn.com/articles/3782343</link><guid>4d0d23fd507178040206a9325e931c14098df2a299232734358d8713c99fd84b</guid><pubDate>Wed, 23 Sep 2026 03:12:09 GMT</pubDate><description>&lt;p&gt;因坚信内存市场供需格局正在逆转，Michael Burry大幅扩大了对半导体板块的空头押注。&lt;/p&gt;
+&lt;p&gt;据Burry本人在Substack发文披露，他已进一步加码做空美光科技、AI基础设施公司Nebius、iShares半导体ETF以及Palantir，并强调此次操作&amp;quot;规模相当大&amp;quot;。此举的直接导火索，是宏碁CEO陈俊圣公开警告称，&lt;strong&gt;内存库存正在积累，新增供应将逐步冲击市场，并预计价格压力将于2027年底前后显现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述消息并未阻止相关股票短线上涨——美光股价当日盘中涨逾2%，SOXX上涨约1.5%，Nebius和Palantir亦小幅走高。这意味着Burry的空头仓位在短期内承压，但他表示，宏碁CEO的表态&amp;quot;与我所相信的判断相吻合&amp;quot;。&lt;/p&gt;
+做空逻辑：AI拉动HBM需求，但普通内存供给正在反弹
+&lt;p&gt;Burry的核心论点在于，此前内存市场的短缺并非需求端的结构性繁荣，而是供给端的阶段性错位。他在文中解释称，三星、SK海力士和美光等主要厂商为满足AI数据中心对高带宽内存（HBM）的旺盛需求，将大量产能从传统DRAM转向HBM，由此造成普通内存的供应紧张。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，随着厂商逐步将普通内存产能恢复，叠加全球多个地区的新增供应陆续释放，Burry认为，&amp;quot;正常DRAM&amp;quot;的产量正在回升，供需缺口将逐步收窄，并最终对价格形成下行压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;宏碁CEO陈俊圣的表态为这一逻辑提供了新的佐证。Chen在接受采访时指出，内存库存已在积累，来自多个地区的供应商正在向市场释放更多产能，这将挑战&amp;quot;当前短缺将持续数年&amp;quot;的主流预期。Burry引用该采访后写道，尽管解读这一消息&amp;quot;充满不确定性&amp;quot;，但其方向与自己的判断一致。&lt;/p&gt;
+空头布局：从英伟达到美光，押注范围持续扩大
+&lt;p&gt;Burry对半导体板块的看空布局并非一蹴而就。据披露，其旗下Scion Asset Management在2025年第三季度就已建立英伟达（NVDA）和Palantir的大额看跌期权仓位，彼时该基金随后宣告关闭。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;进入2026年，Burry以个人名义延续并扩大了这一交易。&lt;/strong&gt;2026年6月下旬，他做空英伟达、应用材料（AMAT）及iShares半导体ETF，并将SOXX看跌期权展期至2027年3月。两天后，他将美光科技纳入做空标的，以约1051美元的价格直接建立空头仓位，并解释称选择直接做空而非买入看跌期权，是因为美光的期权权利金过于昂贵。&lt;/p&gt;
+&lt;p&gt;此次加码，是Burry在上述基础上的进一步强化，标志着他对内存周期见顶的判断愈发坚定。&lt;/p&gt;
+散户情绪与Burry判断相左
+&lt;p&gt;从市场即时反应来看，散户投资者对Burry的看空逻辑并不买账。据Stocktwits数据，美光和SOXX的零售情绪在Burry发文当日均处于&amp;quot;看多&amp;quot;区间，Nebius的零售情绪同样偏多，仅Palantir的散户情绪显示为&amp;quot;看空&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这一分歧折射出当前市场对AI相关半导体股票的整体乐观预期，与Burry所押注的供给过剩、价格下行逻辑形成直接对立。对于投资者而言，核心问题在于：半导体行业的产能扩张，究竟何时才会真正追上需求——而这正是Burry整个交易逻辑的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
