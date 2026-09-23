@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 05:29:36 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指齐跌，北证50逆势涨2%，房地产冲高回落，PCB、玻璃基板走强，恒科指跌1%，科网股集体下挫</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 04:04:10 GMT</pubDate><description>&lt;p&gt;9月23日，早盘三大指数集体收跌，北证50逆势涨超2%。覆铜板/PCB涨价逻辑最强，玻璃基板、培育钻石、CRO、黄酒多点开花，传媒影视、煤炭、海运等板块集体陷入调整。房地产冲高回落，万科A一度涨停，午盘收涨5%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 05:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指齐跌，北证50逆势涨2%，房地产冲高回落，PCB、玻璃基板走强，恒科指跌1%，科网股集体下挫</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 04:04:10 GMT</pubDate><description>&lt;p&gt;9月23日，早盘三大指数集体收跌，北证50逆势涨超2%。覆铜板/PCB涨价逻辑最强，玻璃基板、培育钻石、CRO、黄酒多点开花，传媒影视、煤炭、海运等板块集体陷入调整。房地产冲高回落，万科A一度涨停，午盘收涨5%。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指双双下跌，恒科指一度跌超1%，权重科网股回调，阿里盘中跌超4%，腾讯跌超2%，AI大模型股双雄同样下挫，智谱、MINIMAX跌超4%。债市方面，国债期货集体下跌。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.36%，深成指跌0.58%，创业板指跌0.43%。&lt;/p&gt;
@@ -161,47 +161,7 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;OpenAI表示，公司正与多个潜在评估机构进行洽谈，合作对象涵盖此前有过合作及尚未合作过的组织，其中包括AI研究机构METR和Redwood Research。上述两家机构此前曾受OpenAI委托，对其模型入侵Hugging Face一事展开调查。&lt;/p&gt;
 &lt;p&gt;与此同时，竞争对手Anthropic上周宣布，将引入埃森哲（Accenture Plc）的评估人员，对其前沿AI模型进行安全测试。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;实验室有责任在保护敏感信息的同时，支持有实质意义的外部审查，&amp;quot;OpenAI在文章中表示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
-&lt;p&gt;社交平台X上，谷歌工程师Patrick C Toulme据此提出一个推测：&lt;strong&gt;Opus 5.5可能经由Anthropic内部更强大的&amp;quot;教师模型&amp;quot;Model 2蒸馏而来，并可能是首个体现&amp;quot;递归自我改进&amp;quot;（RSI）路径的产品模型。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前没有公开证据直接证实这一推断，但Anthropic已公开确认Model 2的存在，且该公司发布的RSI相关文章显示，AI参与AI研发的程度正在快速深化，这使得上述猜测具备一定背景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于投资者和行业观察者而言，这一事件真正值得关注的，是它将三条此前相对分散的趋势串联在了一起：&lt;strong&gt;更强的内部模型持续迭代、AI深度介入AI研发流程、以及更小更便宜的产品模型同步涌现&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果这条路径成立，模型能力提升与推理成本下降将有可能同时发生。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;strong&gt;Opus 5.5为什么值得关注？&lt;/strong&gt;
-
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782316"&gt;华尔街见闻提及&lt;/a&gt;，Anthropic将Claude Opus 5.5定位为其5.5系列的首款发布，性能在多数任务上与Claude Fable 5.1持平，但运行成本较Opus 5下降40%，输出速度提升逾30%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;定价层面的降幅尤为显著&lt;/strong&gt;。输入和输出token价格分别为每百万4美元和20美元，较Opus 5下降20%；而在代理任务和编程场景中占主要成本的缓存读取，则从每百万0.50美元降至0.20美元，降幅达60%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从实际使用表现来看&lt;/strong&gt;，早期测试者完成了680,000行代码迁移，耗时不足一天，而此前类似工作需要工程团队数周；另一项测试中，Opus 5.5将一个Web应用全站页面加载时间优化成功率达到39/40，Opus 5在同等任务上则出现了改动应用行为的副作用。&lt;/p&gt;
-&lt;p&gt;在将HAProxy从C语言重写为Rust的内部测试中，Opus 5.5耗时9.5小时，较Fable 5.1的12小时缩短逾20%，成本节省51%。&lt;/p&gt;
-&lt;p&gt;Anthropic表示，效率优势还体现在token消耗层面——&lt;strong&gt;Opus 5.5不仅每个token价格更低，完成同等任务所需的token数量也更少，两者叠加共同形成了40%的综合成本降幅。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;strong&gt;Patrick所说的“教师模型”到底是什么？&lt;/strong&gt;
-
-&lt;p&gt;Patrick C Toulme在X上写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Opus 5.5显然是由一个更大的教师模型训练出来的，很可能是Model 2 Mythos。Opus 5.5是首个经过RSI训练、同时由内部教师模型蒸馏的模型。规模更小、成本更低，正是教师模型蒸馏的产物。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这里涉及的核心技术概念是&amp;quot;模型蒸馏&amp;quot;：&lt;strong&gt;让能力更强的教师模型生成高质量训练信号，再用这些信号训练规模更小的学生模型，从而在保留较高能力的同时显著降低推理成本。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic已公开确认，其内部存在一个比Mythos 5更强大的Model 2，并被大量用于代码生成、数据生成及代理任务。&lt;/strong&gt;然而，目前没有任何公开材料直接证明Opus 5.5是由Model 2蒸馏而来。Anthropic在发布文档中也未提及具体训练方式。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Anthropic在安全条款中将&amp;quot;蒸馏攻击&amp;quot;单独列为一类威胁——即攻击者通过大量虚假账户从模型中批量提取能力，并为此在Opus 5.5上引入了&amp;quot;保留推理链&amp;quot;等反蒸馏机制。&lt;/p&gt;
-&lt;p&gt;这一细节从侧面说明，蒸馏技术本身在Anthropic的技术体系中具有相当重要的地位。&lt;/p&gt;
-
-&lt;strong&gt;AI开始参与AI研发&lt;/strong&gt;
-
-&lt;p&gt;无论Opus 5.5的具体训练路径如何，Anthropic自身发布的RSI相关文章提供了一幅更宏观的图景：&lt;strong&gt;AI介入AI研发的深度，正在以可量化的速度加快。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至2026年5月，Anthropic代码库中逾80%的代码由Claude撰写，而在2025年2月Claude Code推出研究预览版之前，这一比例仅为个位数。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在工程产出层面，Anthropic工程师人均每日合并代码量较2024年增长约8倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic文章同时指出，&lt;strong&gt;2026年4月，Claude在约800小时内将某类API错误降低了1000倍，而据主导此项工作的工程师估计，人工完成同等任务需要约四年时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在研究判断力层面，Anthropic设计了一项内部测试：在研究员与Claude的协作会话中，找出人类研究员选择了&amp;quot;次优&amp;quot;方向的关键节点，再比较不同版本的Claude与人类在这些节点上的判断优劣。&lt;/p&gt;
-&lt;p&gt;结果显示，2025年11月的Opus 4.5模型在51%的情况下给出了比人类更优的下一步建议，而2026年4月的Mythos Preview这一比例升至64%。&lt;/p&gt;
-&lt;p&gt;不过，该文章也明确指出了当前的边界：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在选择哪些问题值得研究方面，Claude与人类之间仍存在较大差距。这正是今日AI与能够自主设计下一代AI的未来系统之间的距离所在。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic同时强调，完全意义上的递归自我改进目前尚未实现，也并非必然到来。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 21:55:37 GMT</pubDate><description>&lt;p&gt;人工智能浪潮持续推高芯片及科技股，纳指四连涨再创新高，而&amp;quot;智能体AI&amp;quot;对金融行业的颠覆性预期则拖累银行股承压，标普横盘、道指下挫。&lt;/p&gt;
+&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 21:55:37 GMT</pubDate><description>&lt;p&gt;人工智能浪潮持续推高芯片及科技股，纳指四连涨再创新高，而&amp;quot;智能体AI&amp;quot;对金融行业的颠覆性预期则拖累银行股承压，标普横盘、道指下挫。&lt;/p&gt;
 &lt;p&gt;与此同时，国际油价在中东外交动态的多番反转中剧烈震荡，最终收跌逾2%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数收涨0.8%，道琼斯工业平均指数下跌0.4%，标普500指数基本收平。芯片股连续第六个交易日上涨，美光科技和英伟达领涨，而金融板块则成为当日市场最大拖累。&lt;/p&gt;
@@ -267,7 +227,47 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;尽管美元走强，黄金价格仍收高，午后市场情绪恶化时，黄金价格日内V形反转、强劲反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币隔夜触及 87,000 美元高点后小幅回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
+&lt;p&gt;社交平台X上，谷歌工程师Patrick C Toulme据此提出一个推测：&lt;strong&gt;Opus 5.5可能经由Anthropic内部更强大的&amp;quot;教师模型&amp;quot;Model 2蒸馏而来，并可能是首个体现&amp;quot;递归自我改进&amp;quot;（RSI）路径的产品模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前没有公开证据直接证实这一推断，但Anthropic已公开确认Model 2的存在，且该公司发布的RSI相关文章显示，AI参与AI研发的程度正在快速深化，这使得上述猜测具备一定背景。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于投资者和行业观察者而言，这一事件真正值得关注的，是它将三条此前相对分散的趋势串联在了一起：&lt;strong&gt;更强的内部模型持续迭代、AI深度介入AI研发流程、以及更小更便宜的产品模型同步涌现&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果这条路径成立，模型能力提升与推理成本下降将有可能同时发生。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;strong&gt;Opus 5.5为什么值得关注？&lt;/strong&gt;
+
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782316"&gt;华尔街见闻提及&lt;/a&gt;，Anthropic将Claude Opus 5.5定位为其5.5系列的首款发布，性能在多数任务上与Claude Fable 5.1持平，但运行成本较Opus 5下降40%，输出速度提升逾30%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定价层面的降幅尤为显著&lt;/strong&gt;。输入和输出token价格分别为每百万4美元和20美元，较Opus 5下降20%；而在代理任务和编程场景中占主要成本的缓存读取，则从每百万0.50美元降至0.20美元，降幅达60%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从实际使用表现来看&lt;/strong&gt;，早期测试者完成了680,000行代码迁移，耗时不足一天，而此前类似工作需要工程团队数周；另一项测试中，Opus 5.5将一个Web应用全站页面加载时间优化成功率达到39/40，Opus 5在同等任务上则出现了改动应用行为的副作用。&lt;/p&gt;
+&lt;p&gt;在将HAProxy从C语言重写为Rust的内部测试中，Opus 5.5耗时9.5小时，较Fable 5.1的12小时缩短逾20%，成本节省51%。&lt;/p&gt;
+&lt;p&gt;Anthropic表示，效率优势还体现在token消耗层面——&lt;strong&gt;Opus 5.5不仅每个token价格更低，完成同等任务所需的token数量也更少，两者叠加共同形成了40%的综合成本降幅。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;strong&gt;Patrick所说的“教师模型”到底是什么？&lt;/strong&gt;
+
+&lt;p&gt;Patrick C Toulme在X上写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Opus 5.5显然是由一个更大的教师模型训练出来的，很可能是Model 2 Mythos。Opus 5.5是首个经过RSI训练、同时由内部教师模型蒸馏的模型。规模更小、成本更低，正是教师模型蒸馏的产物。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里涉及的核心技术概念是&amp;quot;模型蒸馏&amp;quot;：&lt;strong&gt;让能力更强的教师模型生成高质量训练信号，再用这些信号训练规模更小的学生模型，从而在保留较高能力的同时显著降低推理成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic已公开确认，其内部存在一个比Mythos 5更强大的Model 2，并被大量用于代码生成、数据生成及代理任务。&lt;/strong&gt;然而，目前没有任何公开材料直接证明Opus 5.5是由Model 2蒸馏而来。Anthropic在发布文档中也未提及具体训练方式。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Anthropic在安全条款中将&amp;quot;蒸馏攻击&amp;quot;单独列为一类威胁——即攻击者通过大量虚假账户从模型中批量提取能力，并为此在Opus 5.5上引入了&amp;quot;保留推理链&amp;quot;等反蒸馏机制。&lt;/p&gt;
+&lt;p&gt;这一细节从侧面说明，蒸馏技术本身在Anthropic的技术体系中具有相当重要的地位。&lt;/p&gt;
+
+&lt;strong&gt;AI开始参与AI研发&lt;/strong&gt;
+
+&lt;p&gt;无论Opus 5.5的具体训练路径如何，Anthropic自身发布的RSI相关文章提供了一幅更宏观的图景：&lt;strong&gt;AI介入AI研发的深度，正在以可量化的速度加快。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至2026年5月，Anthropic代码库中逾80%的代码由Claude撰写，而在2025年2月Claude Code推出研究预览版之前，这一比例仅为个位数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在工程产出层面，Anthropic工程师人均每日合并代码量较2024年增长约8倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic文章同时指出，&lt;strong&gt;2026年4月，Claude在约800小时内将某类API错误降低了1000倍，而据主导此项工作的工程师估计，人工完成同等任务需要约四年时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在研究判断力层面，Anthropic设计了一项内部测试：在研究员与Claude的协作会话中，找出人类研究员选择了&amp;quot;次优&amp;quot;方向的关键节点，再比较不同版本的Claude与人类在这些节点上的判断优劣。&lt;/p&gt;
+&lt;p&gt;结果显示，2025年11月的Opus 4.5模型在51%的情况下给出了比人类更优的下一步建议，而2026年4月的Mythos Preview这一比例升至64%。&lt;/p&gt;
+&lt;p&gt;不过，该文章也明确指出了当前的边界：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在选择哪些问题值得研究方面，Claude与人类之间仍存在较大差距。这正是今日AI与能够自主设计下一代AI的未来系统之间的距离所在。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic同时强调，完全意义上的递归自我改进目前尚未实现，也并非必然到来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周二，Anthropic发布新一代模型Claude Opus 5.5，使用成本较前代降低约40%；OpenAI同日推出ChatGPT-6的两款低价版本Sol和Luna，定价较ChatGPT-5.6系列降低50%。&lt;/strong&gt;两家公司几乎同步出手，时间节点的高度重合，清晰勾勒出当前AI市场的竞争烈度。&lt;/p&gt;
 &lt;p&gt;此次降价攻势背后，是来自中国&amp;quot;开放权重&amp;quot;模型的持续施压——这类模型允许用户自行定制并在本地硬件上运行。与此同时，Anthropic正积极备战今秋计划中的IPO，外界预计此次上市规模将创历史之最；OpenAI则在年初增长乏力后，寄望于降价策略重燃增长动能。&lt;/p&gt;
 定价细节：Anthropic与OpenAI的价格坐标
