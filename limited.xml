@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 03:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 03:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI称，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
 &lt;p&gt;两款模型的定位也有所区分：Sol更偏向高能力的专业工作、编码和智能体任务，Luna则更强调速度、成本和高频使用。OpenAI表示，两款模型都继承了GPT-6 Astra在专业工作、事实准确性、编码、计算机使用和对齐方面的技术进展。&lt;/p&gt;
@@ -97,47 +97,7 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;OpenAI表示，公司正与多个潜在评估机构进行洽谈，合作对象涵盖此前有过合作及尚未合作过的组织，其中包括AI研究机构METR和Redwood Research。上述两家机构此前曾受OpenAI委托，对其模型入侵Hugging Face一事展开调查。&lt;/p&gt;
 &lt;p&gt;与此同时，竞争对手Anthropic上周宣布，将引入埃森哲（Accenture Plc）的评估人员，对其前沿AI模型进行安全测试。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;实验室有责任在保护敏感信息的同时，支持有实质意义的外部审查，&amp;quot;OpenAI在文章中表示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
-&lt;p&gt;社交平台X上，谷歌工程师Patrick C Toulme据此提出一个推测：&lt;strong&gt;Opus 5.5可能经由Anthropic内部更强大的&amp;quot;教师模型&amp;quot;Model 2蒸馏而来，并可能是首个体现&amp;quot;递归自我改进&amp;quot;（RSI）路径的产品模型。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前没有公开证据直接证实这一推断，但Anthropic已公开确认Model 2的存在，且该公司发布的RSI相关文章显示，AI参与AI研发的程度正在快速深化，这使得上述猜测具备一定背景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于投资者和行业观察者而言，这一事件真正值得关注的，是它将三条此前相对分散的趋势串联在了一起：&lt;strong&gt;更强的内部模型持续迭代、AI深度介入AI研发流程、以及更小更便宜的产品模型同步涌现&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果这条路径成立，模型能力提升与推理成本下降将有可能同时发生。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;strong&gt;Opus 5.5为什么值得关注？&lt;/strong&gt;
-
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782316"&gt;华尔街见闻提及&lt;/a&gt;，Anthropic将Claude Opus 5.5定位为其5.5系列的首款发布，性能在多数任务上与Claude Fable 5.1持平，但运行成本较Opus 5下降40%，输出速度提升逾30%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;定价层面的降幅尤为显著&lt;/strong&gt;。输入和输出token价格分别为每百万4美元和20美元，较Opus 5下降20%；而在代理任务和编程场景中占主要成本的缓存读取，则从每百万0.50美元降至0.20美元，降幅达60%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从实际使用表现来看&lt;/strong&gt;，早期测试者完成了680,000行代码迁移，耗时不足一天，而此前类似工作需要工程团队数周；另一项测试中，Opus 5.5将一个Web应用全站页面加载时间优化成功率达到39/40，Opus 5在同等任务上则出现了改动应用行为的副作用。&lt;/p&gt;
-&lt;p&gt;在将HAProxy从C语言重写为Rust的内部测试中，Opus 5.5耗时9.5小时，较Fable 5.1的12小时缩短逾20%，成本节省51%。&lt;/p&gt;
-&lt;p&gt;Anthropic表示，效率优势还体现在token消耗层面——&lt;strong&gt;Opus 5.5不仅每个token价格更低，完成同等任务所需的token数量也更少，两者叠加共同形成了40%的综合成本降幅。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;strong&gt;Patrick所说的“教师模型”到底是什么？&lt;/strong&gt;
-
-&lt;p&gt;Patrick C Toulme在X上写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Opus 5.5显然是由一个更大的教师模型训练出来的，很可能是Model 2 Mythos。Opus 5.5是首个经过RSI训练、同时由内部教师模型蒸馏的模型。规模更小、成本更低，正是教师模型蒸馏的产物。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这里涉及的核心技术概念是&amp;quot;模型蒸馏&amp;quot;：&lt;strong&gt;让能力更强的教师模型生成高质量训练信号，再用这些信号训练规模更小的学生模型，从而在保留较高能力的同时显著降低推理成本。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic已公开确认，其内部存在一个比Mythos 5更强大的Model 2，并被大量用于代码生成、数据生成及代理任务。&lt;/strong&gt;然而，目前没有任何公开材料直接证明Opus 5.5是由Model 2蒸馏而来。Anthropic在发布文档中也未提及具体训练方式。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Anthropic在安全条款中将&amp;quot;蒸馏攻击&amp;quot;单独列为一类威胁——即攻击者通过大量虚假账户从模型中批量提取能力，并为此在Opus 5.5上引入了&amp;quot;保留推理链&amp;quot;等反蒸馏机制。&lt;/p&gt;
-&lt;p&gt;这一细节从侧面说明，蒸馏技术本身在Anthropic的技术体系中具有相当重要的地位。&lt;/p&gt;
-
-&lt;strong&gt;AI开始参与AI研发&lt;/strong&gt;
-
-&lt;p&gt;无论Opus 5.5的具体训练路径如何，Anthropic自身发布的RSI相关文章提供了一幅更宏观的图景：&lt;strong&gt;AI介入AI研发的深度，正在以可量化的速度加快。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至2026年5月，Anthropic代码库中逾80%的代码由Claude撰写，而在2025年2月Claude Code推出研究预览版之前，这一比例仅为个位数。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在工程产出层面，Anthropic工程师人均每日合并代码量较2024年增长约8倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic文章同时指出，&lt;strong&gt;2026年4月，Claude在约800小时内将某类API错误降低了1000倍，而据主导此项工作的工程师估计，人工完成同等任务需要约四年时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在研究判断力层面，Anthropic设计了一项内部测试：在研究员与Claude的协作会话中，找出人类研究员选择了&amp;quot;次优&amp;quot;方向的关键节点，再比较不同版本的Claude与人类在这些节点上的判断优劣。&lt;/p&gt;
-&lt;p&gt;结果显示，2025年11月的Opus 4.5模型在51%的情况下给出了比人类更优的下一步建议，而2026年4月的Mythos Preview这一比例升至64%。&lt;/p&gt;
-&lt;p&gt;不过，该文章也明确指出了当前的边界：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在选择哪些问题值得研究方面，Claude与人类之间仍存在较大差距。这正是今日AI与能够自主设计下一代AI的未来系统之间的距离所在。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic同时强调，完全意义上的递归自我改进目前尚未实现，也并非必然到来。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛认为“美国通胀被高估”，主因“暂时性的关税”和“AI统计偏差”</title><link>https://wallstreetcn.com/articles/3782341</link><guid>1a16cc71b861cae5c7d7b68423c6699fefeb4232b3e8c887629fe39d0cf7e84f</guid><pubDate>Wed, 23 Sep 2026 03:06:17 GMT</pubDate><description>&lt;p&gt;高盛最新指出，尽管美国核心通胀表面上高于全球多数经济体，但深入拆解通胀篮子后可以发现，美国实际面临的通胀压力反而低于其他国家，当前数据在很大程度上被暂时性因素所扭曲。&lt;/p&gt;
+&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛认为“美国通胀被高估”，主因“暂时性的关税”和“AI统计偏差”</title><link>https://wallstreetcn.com/articles/3782341</link><guid>1a16cc71b861cae5c7d7b68423c6699fefeb4232b3e8c887629fe39d0cf7e84f</guid><pubDate>Wed, 23 Sep 2026 03:06:17 GMT</pubDate><description>&lt;p&gt;高盛最新指出，尽管美国核心通胀表面上高于全球多数经济体，但深入拆解通胀篮子后可以发现，美国实际面临的通胀压力反而低于其他国家，当前数据在很大程度上被暂时性因素所扭曲。&lt;/p&gt;
 &lt;p&gt;据追风交易台，高盛9月22日在发布的全球经济分析报告中指出，美国核心商品通胀偏高的全部超额部分，均可由两项美国独有的暂时性因素解释：&lt;strong&gt;关税推升以及AI相关的统计偏差。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛经济学家估计，关税目前令美国核心PCE商品通胀同比抬升约2.4个百分点，但这一效应预计将在明年下半年基本消退；与此同时，&lt;strong&gt;AI驱动的内存价格上涨因PCE统计口径问题被过度放大，目前对核心商品通胀贡献约1个百分点，预计将于2027年逐步消退。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一分析对市场判断美联储政策路径具有直接参考意义。报告结论显示，在剔除上述暂时性扰动后，美国通胀的内生压力实际上弱于其他主要发达经济体，而服务业通胀的粘性问题在非美经济体中更为突出，构成更持久的政策挑战。&lt;/p&gt;
@@ -210,7 +170,65 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;此次加码，是Burry在上述基础上的进一步强化，标志着他对内存周期见顶的判断愈发坚定。&lt;/p&gt;
 散户情绪与Burry判断相左
 &lt;p&gt;从市场即时反应来看，散户投资者对Burry的看空逻辑并不买账。据Stocktwits数据，美光和SOXX的零售情绪在Burry发文当日均处于&amp;quot;看多&amp;quot;区间，Nebius的零售情绪同样偏多，仅Palantir的散户情绪显示为&amp;quot;看空&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这一分歧折射出当前市场对AI相关半导体股票的整体乐观预期，与Burry所押注的供给过剩、价格下行逻辑形成直接对立。对于投资者而言，核心问题在于：半导体行业的产能扩张，究竟何时才会真正追上需求——而这正是Burry整个交易逻辑的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 办公Agent不再比谁会做PPT，开始争夺“谁最懂这家公司”</title><link>https://wallstreetcn.com/articles/3782346</link><guid>a0beeb699fd36b061018d312ebd422a9e5c9637664a296a4e170da78240be9fa</guid><pubDate>Wed, 23 Sep 2026 03:12:40 GMT</pubDate><description>&lt;p&gt;9月22日的云栖大会上，千问办公一次发布了六项企业能力。&lt;/p&gt;
+&lt;p&gt;这一分歧折射出当前市场对AI相关半导体股票的整体乐观预期，与Burry所押注的供给过剩、价格下行逻辑形成直接对立。对于投资者而言，核心问题在于：半导体行业的产能扩张，究竟何时才会真正追上需求——而这正是Burry整个交易逻辑的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “券商一哥”掌门将换人，邹迎光接棒张佑君</title><link>https://wallstreetcn.com/articles/3782349</link><guid>73549328b289e5696fa162e6c2f0f13ee07679f7fd6739a1497db644d55e5ebe</guid><pubDate>Wed, 23 Sep 2026 03:48:18 GMT</pubDate><description>&lt;p&gt;“券商一哥”即将迎来新的一把手。&lt;/p&gt;
+&lt;p&gt;华尔街见闻多方求证获悉，9月22日中信证券内部已就相关人事调整作出安排，张佑君将退休，现任总经理邹迎光接棒。&lt;/p&gt;
+&lt;p&gt;这意味着，执掌中信证券超过十年的张佑君即将交棒。后续待履行上市公司相关程序后，中信证券管理层也将完成新一轮调整。&lt;/p&gt;
+&lt;p&gt;此次接棒并不突然。&lt;/p&gt;
+&lt;p&gt;2024年11月，中信证券董事会聘任邹迎光为总经理。此后不到两年，这名从固定收益业务成长起来的老将进一步走向中信证券管理层核心。&lt;/p&gt;
+&lt;p&gt;出生于1970年的邹迎光，职业经历颇为特别。&lt;/p&gt;
+&lt;p&gt;他本科就读于首都医科大学临床医学专业，毕业后曾在北京宣武医院担任外科医生。此后转向金融行业，并于2000年获得中央财经大学货币银行学专业经济学硕士。&lt;/p&gt;
+&lt;p&gt;在华夏证券及此后重组成立的中信建投期间，邹迎光长期从事债券及固定收益业务，历任债券业务部总经理助理、固定收益部负责人等职。&lt;/p&gt;
+&lt;p&gt;2017年，邹迎光进入中信证券并成为执行委员会委员，也曾负责固定收益业务。2023年，他一度调往中信建投，担任执行董事、执行委员会委员等职；2024年重新回到中信证券，并于当年11月出任总经理。&lt;/p&gt;
+&lt;p&gt;即将退休的张佑君则是中信证券成立之初便加入公司的老将。&lt;/p&gt;
+&lt;p&gt;1995年中信证券成立后，张佑君进入公司，此后曾担任交易部总经理、副总经理，并于2002年出任中信证券总经理。2005年华夏证券重组、中信建投成立后，他又先后出任中信建投总经理、董事长。&lt;/p&gt;
+&lt;p&gt;2015年，张佑君重新回到中信证券，并于2016年1月出任董事长，此后掌舵公司超过十年。&lt;/p&gt;
+&lt;p&gt;任职期间，中信证券继续扩张业务版图。公司完成对广州证券的收购，并持续推进财富管理、投行、资管、固定收益和国际业务布局。&lt;/p&gt;
+&lt;p&gt;截至2026年6月底，中信证券总资产达到2.47万亿元。今年上半年实现营业收入496.92亿元，同比增长50%；归母净利润233.43亿元，同比增长69.6%。&lt;/p&gt;
+&lt;p&gt;从1995年加入中信证券到此番退休，张佑君与中信证券的职业交集已超过30年。&lt;/p&gt;
+&lt;p&gt;其中，自2016年出任董事长以来，他执掌这家头部券商超过十年。&lt;/p&gt;
+&lt;p&gt;对于中信证券而言，此次人事交接也意味着新的起点。&lt;/p&gt;
+&lt;p&gt;经过三十余年的发展，中信证券已经成长为国内头部券商，并将目标指向建设国际一流的中国投资银行。随着中国资本市场双向开放持续推进，中资企业全球化程度不断加深，头部券商也迎来了进一步拓展跨境业务和全球服务能力的窗口期。&lt;/p&gt;
+&lt;p&gt;站在新的管理周期起点上，市场也期待中信证券能够继续巩固国内领先优势，并在全球资产配置、跨境金融服务和国际业务布局上取得新的突破，进一步向国际一流投资银行迈进。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
+&lt;p&gt;社交平台X上，谷歌工程师Patrick C Toulme据此提出一个推测：&lt;strong&gt;Opus 5.5可能经由Anthropic内部更强大的&amp;quot;教师模型&amp;quot;Model 2蒸馏而来，并可能是首个体现&amp;quot;递归自我改进&amp;quot;（RSI）路径的产品模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前没有公开证据直接证实这一推断，但Anthropic已公开确认Model 2的存在，且该公司发布的RSI相关文章显示，AI参与AI研发的程度正在快速深化，这使得上述猜测具备一定背景。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于投资者和行业观察者而言，这一事件真正值得关注的，是它将三条此前相对分散的趋势串联在了一起：&lt;strong&gt;更强的内部模型持续迭代、AI深度介入AI研发流程、以及更小更便宜的产品模型同步涌现&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果这条路径成立，模型能力提升与推理成本下降将有可能同时发生。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;strong&gt;Opus 5.5为什么值得关注？&lt;/strong&gt;
+
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782316"&gt;华尔街见闻提及&lt;/a&gt;，Anthropic将Claude Opus 5.5定位为其5.5系列的首款发布，性能在多数任务上与Claude Fable 5.1持平，但运行成本较Opus 5下降40%，输出速度提升逾30%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定价层面的降幅尤为显著&lt;/strong&gt;。输入和输出token价格分别为每百万4美元和20美元，较Opus 5下降20%；而在代理任务和编程场景中占主要成本的缓存读取，则从每百万0.50美元降至0.20美元，降幅达60%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从实际使用表现来看&lt;/strong&gt;，早期测试者完成了680,000行代码迁移，耗时不足一天，而此前类似工作需要工程团队数周；另一项测试中，Opus 5.5将一个Web应用全站页面加载时间优化成功率达到39/40，Opus 5在同等任务上则出现了改动应用行为的副作用。&lt;/p&gt;
+&lt;p&gt;在将HAProxy从C语言重写为Rust的内部测试中，Opus 5.5耗时9.5小时，较Fable 5.1的12小时缩短逾20%，成本节省51%。&lt;/p&gt;
+&lt;p&gt;Anthropic表示，效率优势还体现在token消耗层面——&lt;strong&gt;Opus 5.5不仅每个token价格更低，完成同等任务所需的token数量也更少，两者叠加共同形成了40%的综合成本降幅。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;strong&gt;Patrick所说的“教师模型”到底是什么？&lt;/strong&gt;
+
+&lt;p&gt;Patrick C Toulme在X上写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Opus 5.5显然是由一个更大的教师模型训练出来的，很可能是Model 2 Mythos。Opus 5.5是首个经过RSI训练、同时由内部教师模型蒸馏的模型。规模更小、成本更低，正是教师模型蒸馏的产物。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里涉及的核心技术概念是&amp;quot;模型蒸馏&amp;quot;：&lt;strong&gt;让能力更强的教师模型生成高质量训练信号，再用这些信号训练规模更小的学生模型，从而在保留较高能力的同时显著降低推理成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic已公开确认，其内部存在一个比Mythos 5更强大的Model 2，并被大量用于代码生成、数据生成及代理任务。&lt;/strong&gt;然而，目前没有任何公开材料直接证明Opus 5.5是由Model 2蒸馏而来。Anthropic在发布文档中也未提及具体训练方式。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Anthropic在安全条款中将&amp;quot;蒸馏攻击&amp;quot;单独列为一类威胁——即攻击者通过大量虚假账户从模型中批量提取能力，并为此在Opus 5.5上引入了&amp;quot;保留推理链&amp;quot;等反蒸馏机制。&lt;/p&gt;
+&lt;p&gt;这一细节从侧面说明，蒸馏技术本身在Anthropic的技术体系中具有相当重要的地位。&lt;/p&gt;
+
+&lt;strong&gt;AI开始参与AI研发&lt;/strong&gt;
+
+&lt;p&gt;无论Opus 5.5的具体训练路径如何，Anthropic自身发布的RSI相关文章提供了一幅更宏观的图景：&lt;strong&gt;AI介入AI研发的深度，正在以可量化的速度加快。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至2026年5月，Anthropic代码库中逾80%的代码由Claude撰写，而在2025年2月Claude Code推出研究预览版之前，这一比例仅为个位数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在工程产出层面，Anthropic工程师人均每日合并代码量较2024年增长约8倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic文章同时指出，&lt;strong&gt;2026年4月，Claude在约800小时内将某类API错误降低了1000倍，而据主导此项工作的工程师估计，人工完成同等任务需要约四年时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在研究判断力层面，Anthropic设计了一项内部测试：在研究员与Claude的协作会话中，找出人类研究员选择了&amp;quot;次优&amp;quot;方向的关键节点，再比较不同版本的Claude与人类在这些节点上的判断优劣。&lt;/p&gt;
+&lt;p&gt;结果显示，2025年11月的Opus 4.5模型在51%的情况下给出了比人类更优的下一步建议，而2026年4月的Mythos Preview这一比例升至64%。&lt;/p&gt;
+&lt;p&gt;不过，该文章也明确指出了当前的边界：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在选择哪些问题值得研究方面，Claude与人类之间仍存在较大差距。这正是今日AI与能够自主设计下一代AI的未来系统之间的距离所在。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic同时强调，完全意义上的递归自我改进目前尚未实现，也并非必然到来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 办公Agent不再比谁会做PPT，开始争夺“谁最懂这家公司”</title><link>https://wallstreetcn.com/articles/3782346</link><guid>a0beeb699fd36b061018d312ebd422a9e5c9637664a296a4e170da78240be9fa</guid><pubDate>Wed, 23 Sep 2026 03:12:40 GMT</pubDate><description>&lt;p&gt;9月22日的云栖大会上，千问办公一次发布了六项企业能力。&lt;/p&gt;
 &lt;p&gt;最抓眼球的是“数字员工”：它有名字、部门、负责人、岗位职责和授权范围，能被停用，执行记录也可以追溯。看起来，AI终于从一个悬浮在桌面上的工具，变成了组织架构里有工牌的同事。&lt;/p&gt;
 &lt;p&gt;但如果只盯着这张“工牌”，很容易错过发布会上更重要的四个字：企业上下文。&lt;/p&gt;
 &lt;p&gt;按照千问办公的描述，它要连接群聊、文档、知识库和业务系统，从中识别人、项目、流程和规则，再根据具体任务调取相关信息。换句话说，数字员工能不能干活，越来越取决于它背后有没有一套持续更新的公司记忆。&lt;/p&gt;
@@ -422,21 +440,4 @@ Muse冲榜，“消费者惯性”模式受到冲击
 &lt;p&gt;上周，Anthropic刚刚推出一套Claude工作流工具，已接入Schwab和Vanguard等平台。Gabelli Funds投资组合经理Macrae Sykes在邮件中写道，&amp;quot;若Schwab能够以此服务顾问、提升其建议质量和资产获取效率，最终将通过托管、客户互动等环节使公司受益&amp;quot;。&lt;/p&gt;
 &lt;p&gt;高盛策略师的判断则更为审慎：&amp;quot;这仍然比&amp;#x27;买入一切AI&amp;#x27;要复杂微妙得多。&amp;quot;&lt;/p&gt;
 &lt;p&gt;随着Anthropic和OpenAI相继推出更低成本的前沿模型，AI的下一波浪潮或不仅仅是少数实验室构建超大规模算力集群，而是由数十亿分散的智能体共同推动。&lt;/p&gt;
-&lt;p&gt;这将重塑整个AI基础设施需求的格局，而金融业将在这一进程中持续承压与调适。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩详解“AI时代的广告业”：从注意力争夺到交易闭环</title><link>https://wallstreetcn.com/articles/3782314</link><guid>76cc0797edbe66c88b60bc41539606ba5c28dd7a790486cc6ceb1938e10961b1</guid><pubDate>Tue, 22 Sep 2026 16:52:15 GMT</pubDate><description>&lt;p&gt;AI正在重塑中国互联网广告的预算流向，但至少在2030年前，它更像是一场存量市场的重新分配，而非新的广告增量周期。&lt;/p&gt;
-&lt;p&gt;摩根士丹利亚洲团队9月发布的中国互联网行业深度研究显示，在已使用或计划采用AI的广告主中，72%表示广告总预算没有变化，74%认为跨平台广告支出正在进一步集中。在总预算增长有限的情况下，AI首先改变的是广告预算的配置方式。&lt;/p&gt;
-&lt;p&gt;这一趋势已经体现在广告主的实际应用中。2025年，74%的受访广告主使用AI进行内容生成，62%用于广告活动管理，而商品Feed/目录优化、生成式引擎优化的渗透率分别仅为9%和5%。&lt;strong&gt;当前AI对广告行业的主要作用仍是提升效率，而不是创造新的广告入口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着AI从内容生成、投放优化进一步走向Agent，广告平台的竞争也将逐渐延伸至用户决策和交易环节。&lt;strong&gt;对于互联网平台而言，真正值得关注的不是AI本身带来多少新增预算，而是谁能够借助AI获得更多存量预算，并进一步打开广告之外的商业化空间。&lt;/strong&gt;&lt;/p&gt;
-AI先改变预算流向，广告增量尚未打开
-&lt;p&gt;摩根士丹利基于第六期AlphaWise中国广告主调研得出的结论相当明确：&lt;strong&gt;AI正在改变广告预算分配，但尚未显著扩大广告总盘子。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;调研显示，50%的广告主认为AI已经带来ROI提升，46%认为客户咨询处理以及售前、售后承接有所改善。但在预算层面，72%的广告主表示总广告支出没有变化，更多是在既有预算内部调整投放结构。&lt;/p&gt;
-&lt;p&gt;与此同时，74%的广告主认为跨平台广告支出更加集中。&lt;strong&gt;随着广告主越来越重视投放效率和结果可衡量性，预算正在向能够提供更高转化效率、更完整数据反馈的平台集中。&lt;/strong&gt;因此，AI当前带来的首先是份额变化，而不是市场整体扩容。&lt;/p&gt;
-&lt;p&gt;这一阶段的另一个特征是，AI应用仍主要停留在广告生产和管理环节。内容生成、广告活动管理已经成为较成熟的使用场景，而商品Feed优化、生成式引擎优化等更接近AI原生广告的模式，渗透率仍然较低。&lt;strong&gt;只有当AI进一步参与用户发现、商品决策和交易执行，新的商业收入空间才可能真正释放。&lt;/strong&gt;&lt;/p&gt;
-2030年看预算迁移，2040年才体现增量
-&lt;p&gt;摩根士丹利预计，到2030年，可单独识别的AI总变现规模约为2910亿元人民币，其中候选集广告约100亿元，AI归因交易佣金约2810亿元。&lt;/p&gt;
-&lt;p&gt;需要注意的是，这一预测并不包括预测式AI提升现有广告库存变现效率所带来的收入增长。&lt;strong&gt;也就是说，如果AI提高了广告点击率、转化率或投放效率，这部分增量仍将体现为传统广告业务收入，而非新的AI独立收入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;真正的增量空间来自Agent进一步进入交易链路。&lt;strong&gt;到2040年，随着AI参与发现、决策和交易执行，AI促成的广告收入预计达到3190亿元，AI归因交易佣金规模则可能达到1.24万亿元。&lt;/strong&gt;不过，扣除传统业务被替代、激励支出以及合作伙伴分成后，最终形成的净市场扩张规模将低于上述总量。&lt;/p&gt;
-&lt;p&gt;因此，两个阶段对应不同的商业逻辑：2030年前主要是预算迁移，2040年前后才更多体现AI对商业模式和市场空间的重构。2040年的预测更适合作为长期情景锚点，而非精确的时间节点。&lt;/p&gt;
-模型之外，商业闭环决定价值获取
-&lt;p&gt;当AI从广告投放工具进一步变成能够理解需求并执行任务的Agent后，平台竞争的核心将转向对商业链路的控制。摩根士丹利将其归纳为四个关键节点：&lt;strong&gt;谁发起需求、谁决定候选集、谁完成交易，以及谁掌握结果数据和回写权限&lt;/strong&gt;。从广告、赞助排序，到交易佣金、支付和商家服务，不同环节对应着不同的价值获取方式。&lt;/p&gt;
-&lt;p&gt;这也是独立AI与嵌入式AI的主要差异。独立AI能够聚合跨领域用户意图，但嵌入业务体系的AI距离商品、商家、支付和交易更近，更容易把用户需求转化为可量化的商业结果。调研显示，&lt;strong&gt;47%的广告主认为AI创造的价值将由各参与方共同分享，37%认为平台将成为最大的单一受益方。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由此看，AI未必会彻底改变互联网竞争格局，反而可能放大不同平台在用户需求、供给、交易和数据上的既有差异。对于广告市场而言，短期看预算向高效率平台集中，中长期则取决于平台能否把AI接入完整商业链路。随着Agent从辅助投放走向“读取需求—决策—执行—回写”，广告之外的交易佣金和商家服务收入，有望成为下一阶段更重要的增量来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这将重塑整个AI基础设施需求的格局，而金融业将在这一进程中持续承压与调适。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
