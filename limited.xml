@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 11:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 拆解Muse叙事：「新入口」逻辑并不成立</title><link>https://wallstreetcn.com/articles/3782367</link><guid>08ea99cde7c4fa8ee35b605f946da689896c59c0fca9c14e2d41a8e53103a180</guid><pubDate>Wed, 23 Sep 2026 07:55:53 GMT</pubDate><description>&lt;p&gt;作者 | 松壑&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 12:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 拆解Muse叙事：「新入口」逻辑并不成立</title><link>https://wallstreetcn.com/articles/3782367</link><guid>08ea99cde7c4fa8ee35b605f946da689896c59c0fca9c14e2d41a8e53103a180</guid><pubDate>Wed, 23 Sep 2026 07:55:53 GMT</pubDate><description>&lt;p&gt;作者 | 松壑&lt;/p&gt;
 &lt;p&gt;十年前的2016年4月，扎克伯格在旧金山的F8开发者大会上演示Messenger里的聊天机器人，给花店1-800-Flowers的机器人发消息，订了一束花。&lt;/p&gt;
 &lt;p&gt;他对台下说：“我从来没见过喜欢给商家打电话的人。”接着补充说以后订花在也不用给1-800-Flowers打电话了。&lt;/p&gt;
 &lt;p&gt;那一年Messenger月活刚过9亿，合作伙伴超过40家，包括CNN、eBay和沃尔玛。扎克伯格的判断是，没有人愿意为每一家商家都装一个App，对话框可以替代它们。&lt;/p&gt;
@@ -551,19 +551,37 @@ TIA/驱动芯片：价值部分转移，中国厂商仍有差距
 &lt;p&gt;在选择哪些问题值得研究方面，Claude与人类之间仍存在较大差距。这正是今日AI与能够自主设计下一代AI的未来系统之间的距离所在。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Anthropic同时强调，完全意义上的递归自我改进目前尚未实现，也并非必然到来。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周二，Anthropic发布新一代模型Claude Opus 5.5，使用成本较前代降低约40%；OpenAI同日推出ChatGPT-6的两款低价版本Sol和Luna，定价较ChatGPT-5.6系列降低50%。&lt;/strong&gt;两家公司几乎同步出手，时间节点的高度重合，清晰勾勒出当前AI市场的竞争烈度。&lt;/p&gt;
-&lt;p&gt;此次降价攻势背后，是来自中国&amp;quot;开放权重&amp;quot;模型的持续施压——这类模型允许用户自行定制并在本地硬件上运行。与此同时，Anthropic正积极备战今秋计划中的IPO，外界预计此次上市规模将创历史之最；OpenAI则在年初增长乏力后，寄望于降价策略重燃增长动能。&lt;/p&gt;
-定价细节：Anthropic与OpenAI的价格坐标
-&lt;p&gt;在具体定价上，&lt;strong&gt;Anthropic的Opus 5.5每百万输入token收费4美元，每百万输出token收费20美元&lt;/strong&gt;，而其现有最强模型Fable 5.1的对应价格分别为10美元和50美元——与OpenAI旗舰模型Astra的定价持平。Anthropic表示，Opus 5.5在大多数任务上的表现可与Fable 5.1媲美。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI方面，Sol定价为每百万输入token 2美元、输出token 10美元；轻量版Luna则低至每百万输入token 0.10美元、输出token 0.50美元。&lt;/strong&gt; OpenAI本月初已率先发布其最强模型Astra，Sol和Luna作为该系列的低价补充版本随后跟进。&lt;/p&gt;
-&lt;p&gt;据报道，在经历了一段以极限能力为导向的全面军备竞赛之后，两大美国AI实验室正日益将竞争重心转向价格与性能的综合比拼，以争取对成本敏感的企业客户。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来自中国的&amp;quot;开放权重&amp;quot;模型构成了日益显著的竞争威胁。&lt;/strong&gt;据云应用公司Vercel的数据，这类可供用户自定义、在本地运行的模型正在从美国实验室手中抢夺市场份额。面对这一压力，OpenAI近几个月已多次下调模型价格，并声称其Astra模型是目前市场上性能最强的模型。&lt;/p&gt;
-&lt;p&gt;OpenAI此前表示，公司不太可能在2027年之前上市。年初增长放缓后，降价成为其重新激活增长的核心手段之一。&lt;/p&gt;
-&lt;p&gt;对Anthropic而言，此次发布的战略意义不止于价格竞争。&lt;strong&gt;公司正积极扩大客户基础，为今秋计划中的IPO铺路——该上市被预期将成为史上规模最大的科技IPO之一。&lt;/strong&gt; 投资者普遍猜测，新模型的发布将成为公司正式递交招股说明书的催化剂。&lt;/p&gt;
-&lt;p&gt;市场密切关注的核心问题是：在竞争持续加剧、客户对价格愈发敏感的背景下，Anthropic能否在未来数年维持其高速增长态势。&lt;/p&gt;
-安全承诺：降价同时强调风险管控
-&lt;p&gt;值得注意的是，此次发布也发生在AI安全议题持续升温的背景之下。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Opus 5.5是Anthropic首席执行官Dario Amodei公开呼吁AI实验室&amp;quot;把握发展前沿节奏&amp;quot;、并深度引入第三方测试机构之后，该公司推出的首款新模型。&lt;/strong&gt; 此前，研究人员警告称，不受约束的自我改进型超级智能竞赛可能对人类构成威胁。&lt;/p&gt;
-&lt;p&gt;Anthropic表示，新模型经过了&amp;quot;广泛的对齐测试、发布前的外部机构评估，并在网络安全和生物学等高风险领域设置了相应防护措施&amp;quot;。&lt;/p&gt;
-&lt;p&gt;OpenAI周二也公布了与独立评估机构进一步合作的优先事项，涵盖模型训练、安全防护、风险预备及事件调查等方面。此前一周，Anthropic刚刚宣布将与埃森哲合作开展安全测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 同样都是煤矿，为什么有的矿特别值钱？</title><link>http://xueqiu.com/6858312012/410225716</link><guid>e010dde2bdc22bc9f4d1adf34d064710e230c4052d3f0a9caa54110e6fd7c77b</guid><pubDate>Wed, 23 Sep 2026 09:14:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ANDY观微知远&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;这是重新认识煤炭系列的第2篇。&lt;/i&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;但分析认为，过去模型竞争很大程度上是“谁拥有更多算力”，现在开始出现另一条路径：&lt;strong&gt;让更强的模型帮助训练和改进更便宜的模型。如果这条路径成立，模型能力提升与推理成本下降可能同时发生。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 以史为鉴，全球加息周期开启后，哪些资产表现最好？</title><link>https://wallstreetcn.com/articles/3782374</link><guid>731465672dcff61f79bb0f1fcd29b1229db2d73c5bbe8995e604d68493ecad99</guid><pubDate>Wed, 23 Sep 2026 10:51:42 GMT</pubDate><description>&lt;p&gt;美伊冲突重燃、欧美日央行相继加息，全球货币政策正站在新一轮收紧周期的入口。以史为鉴，梳理上世纪70年代以来的十轮全球同步紧缩周期，或可为当下的资产配置提供重要参照。&lt;/p&gt;
+&lt;p&gt;东方财富证券研究所于9月23日发布宏观专题报告，基于104个经济体的政策利率数据库，系统梳理了1970年代以来全球十轮同步紧缩周期的特征与规律。报告指出，当前全球净加息扩散指数虽因8月底美伊冲突升级而有所回升，但整体水平仍明显低于此前典型紧缩周期，尚未进入全面加速紧缩阶段。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在此背景下，报告认为美债具备增配空间。&lt;/strong&gt;分析师认为，前期美债收益率冲高存在定价偏差，市场已提前计价加息预期，若美伊局势有所缓和，通胀预期有望随油价回落向下收敛，期限利差也有望进一步收窄。&lt;/p&gt;
+
+十轮紧缩周期，三类驱动逻辑
+
+&lt;p&gt;东方财富证券研究所基于净加息扩散指数的变动，将1970年代以来的全球同步紧缩划分为十个主要周期，并归纳为三大类型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;抗通胀&amp;quot;&lt;/strong&gt;型包括2026年美伊冲突、2021年新冠疫情冲击以及1978年沃尔克加息，均由战争或疫情等外部事件触发供给冲击，推动全球通胀飙升，各经济体同步跟进程度较高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;抑过热&amp;quot;&lt;/strong&gt;型包括2010年欧债危机、2008年金融危机、2000年互联网泡沫、1997年亚洲金融危机，以及1980年代《广场协议》与《卢浮宫协议》后的美日德加息博弈。这类周期由资产泡沫或债务危机驱动，持续时间往往更长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;预防型&amp;quot;&lt;/strong&gt;则以2018年美国退出量化宽松及1994年美联储加息为代表，特征是经济企稳后主动收回宽松，全球同步性和利率上行幅度相对有限。&lt;/p&gt;
+&lt;p&gt;值得关注的是，当前这一轮属于&amp;quot;抗通胀&amp;quot;类型，核心矛盾在于美伊冲突引发的通胀压力，而非经济过热或资产泡沫。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+美国仍是全球政策利率的&amp;quot;牵引锚&amp;quot;
+
+&lt;p&gt;报告通过对八个代表性经济体加息节奏的系统梳理，以及对美欧日三大央行牵引能力的交叉相关分析，得出以下核心判断。&lt;/p&gt;
+&lt;p&gt;在十轮紧缩周期中，除1997—1998年及2010—2011年两轮外，其余周期美国均有参与，其中五轮（约63%）具有明显的牵引作用。交叉相关分析显示，全样本下美国政策利率变动领先其他经济体约两个月；2000年以来，这一领先优势依然稳固，领先期约为一个月，相关系数峰值达0.64。&lt;/p&gt;
+&lt;p&gt;事件研究进一步印证，&lt;strong&gt;美国转向加息后，其他经济体净加息扩散指数在约三个月内达到峰值，表明美国政策周期对全球具有较强的触发效应。&lt;/strong&gt;报告同时指出，在美国正式降息之前，其他经济体的净加息扩散指数往往已率先转负，意味着降息预期的市场扩散程度可能高于加息，&amp;quot;市场更倾向于提前交易宽松&amp;quot;。&lt;/p&gt;
+&lt;p&gt;欧元区与全球周期高度同步，交叉相关领先期为零，相关系数高达0.85，更多表现为与全球周期共振而非单向引领。日本则存在明显滞后，全样本交叉相关显示其滞后约七个月，相关性较弱，这与日本长期负利率政策有关，其政策变动对其他经济体的溢出效应也相对有限。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+当前尚未进入全面紧缩阶段，美债具备配置价值
+
+&lt;p&gt;尽管欧美日三大央行在9月&amp;quot;超级央行周&amp;quot;相继加息，&lt;strong&gt;但报告认为，这一轮并未进入全球同步加速紧缩的阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从净加息扩散指数来看，2026年6月曾出现一次较为明显的脉冲式上行，但随后快速回落，显示紧缩动能并未持续累积；当前指数整体水平明显低于此前典型紧缩周期的高点。报告指出，油价与通胀之间的传导链条是当前的关键变量，若美伊局势趋于缓和，通胀压力有望随油价回落而减弱。&lt;/p&gt;
+&lt;p&gt;在此情景下，报告对美债给出积极判断。分析师认为，前期收益率上行存在部分定价偏差，市场已提前计价加息预期；若美联储主席沃什（Waller）的确定性发言能够降低此前&amp;quot;战略模糊&amp;quot;带来的高期限溢价，长端美债的配置性价比将进一步凸显，期限利差也有望收窄。&lt;/p&gt;
+
+三大变量决定后续走向
+
+&lt;p&gt;报告提示，以下三个变量将对全球利率路径及资产定价产生关键影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美伊战事与美国中期选举的政策不确定性。&lt;/strong&gt;报告指出，美伊冲突或是当前的核心矛盾，此前随着谅解备忘录（MOU）的签署，整体加息压力一度有所回落，但局势再度升级后，通胀压力上升迫使主要央行在增长放缓与通胀反弹之间作出更艰难的权衡。与此同时，美国中期选举前景不确定，可能影响财政、债务上限博弈及全球利率路径。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日本退出零利率后的息差演绎。&lt;/strong&gt;与此前多轮紧缩周期不同，日本此次已退出零利率政策且加息概率持续走高，美日息差的变化对全球套息交易及资金流向构成潜在冲击。报告警示，一旦套息交易出现大规模平仓，可能引发日元快速升值、全球流动性收紧与风险资产波动加剧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI产业对利率走势的潜在影响。&lt;/strong&gt;AI相关融资需求与资本市场波动，可能影响央行对金融条件和利率路径的判断，成为本轮周期有别于历史的新变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 同样都是煤矿，为什么有的矿特别值钱？</title><link>http://xueqiu.com/6858312012/410225716</link><guid>e010dde2bdc22bc9f4d1adf34d064710e230c4052d3f0a9caa54110e6fd7c77b</guid><pubDate>Wed, 23 Sep 2026 09:14:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ANDY观微知远&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;这是重新认识煤炭系列的第2篇。&lt;/i&gt;&lt;/p&gt;</description></item></channel></rss>
