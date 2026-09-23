@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 01:59:25 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 02:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉</title><link>https://wallstreetcn.com/articles/3782320</link><guid>9ce0786888be6261946a9079e5502e47e28f09332431b18f3607c23ef2d82c7e</guid><pubDate>Tue, 22 Sep 2026 18:59:29 GMT</pubDate><description>&lt;p&gt;OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。&lt;/p&gt;
 &lt;p&gt;此次两款模型的另一个核心看点是价格：OpenAI称，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。&lt;/p&gt;
 &lt;p&gt;两款模型的定位也有所区分：Sol更偏向高能力的专业工作、编码和智能体任务，Luna则更强调速度、成本和高频使用。OpenAI表示，两款模型都继承了GPT-6 Astra在专业工作、事实准确性、编码、计算机使用和对齐方面的技术进展。&lt;/p&gt;
@@ -97,53 +97,46 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;OpenAI表示，公司正与多个潜在评估机构进行洽谈，合作对象涵盖此前有过合作及尚未合作过的组织，其中包括AI研究机构METR和Redwood Research。上述两家机构此前曾受OpenAI委托，对其模型入侵Hugging Face一事展开调查。&lt;/p&gt;
 &lt;p&gt;与此同时，竞争对手Anthropic上周宣布，将引入埃森哲（Accenture Plc）的评估人员，对其前沿AI模型进行安全测试。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;实验室有责任在保护敏感信息的同时，支持有实质意义的外部审查，&amp;quot;OpenAI在文章中表示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Agent“重塑”服务业！Muse重燃“恐慌”，金融股“躺枪”</title><link>https://wallstreetcn.com/articles/3782330</link><guid>e3dfb24ba44cbb587fff1736fbcdeb4ffc67c114edfda2827a9c114f163e4fb4</guid><pubDate>Wed, 23 Sep 2026 01:04:01 GMT</pubDate><description>&lt;p&gt;Meta消费级AI代理Muse以压倒性下载量登顶苹果App Store，引发华尔街对AI颠覆金融服务业的新一轮担忧，银行与券商股遭遇数月来最大单日跌幅。&lt;/p&gt;
-&lt;p&gt;9月22日，美股金融板块重挫，标普500金融板块下跌约2%，拖累大盘基本收平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;券商嘉信理财与LPL Financial各跌逾6%。摩根大通下跌3.4%，创7月以来最大单日跌幅；富国银行跌3.9%，为5月以来最大跌幅；美国银行与花旗分别下跌3%和2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;保险商Allstate、旅游预订平台Booking Holdings亦未能幸免。&lt;/p&gt;
-&lt;p&gt;市场的核心担忧在于，Muse此类AI智能体一旦大规模普及，将侵蚀那些依赖消费者行为惯性的传统商业模式——&lt;strong&gt;从财富管理、经纪服务到保险定价，均面临被绕过甚至替代的风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析人士指出，此次抛售的范围和烈度，已远超今年早些时候同类事件所引发的市场波动。&lt;/p&gt;
-
-Muse冲榜，“消费者惯性”模式受到冲击
-&lt;p&gt;Muse于9月8日正式上线，发布后六天内下载量超过90.2万次，迅速登顶苹果美国区iOS及谷歌Play免费应用榜首。&lt;/p&gt;
-&lt;p&gt;该应用可代替用户完成数字化任务，通过接入Gmail、OpenTable等第三方服务实现跨平台操作，并已与PayPal及金融科技公司Plaid建立合作。&lt;/p&gt;
-
-&lt;p&gt;Citizens金融服务与金融科技研究主管Devin Ryan指出，&lt;strong&gt;尽管没有哪款AI代理能在一夜之间颠覆整个行业，但近几个月密集的产品发布&amp;quot;让市场形成了一种叙事——世界正在改变，不确定性随之上升&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI代理对金融机构的威胁，远不止于替代人工顾问或分流渠道保费。它的真正颠覆性在于，能够替用户自动完成比价、切换服务和管理账单。这直接摧毁了依赖“消费者惯性”生存的商业模式&lt;/strong&gt;——用户在缺乏主动决策时倾向于维持现有消费习惯。&lt;/p&gt;
-&lt;p&gt;高盛交易台在研究报告中指出，随着AI代理在价格比较、出行预订和客服交互上的能力持续提升，&lt;strong&gt;电信、保险、公用事业等依赖周期性账单、可协商定价和附加服务的行业将率先承压。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周二高盛编制的&amp;quot;消费者惯性&amp;quot;风险股票篮子单日下跌2.6%，为近六个月最差表现，过去六个交易日累计跌幅已超7%。高盛风险篮子涵盖AT&amp;amp;T、T-Mobile、Allstate、Progressive、Netflix、Paramount Skydance及Expedia、Booking等标的。&lt;/p&gt;
-&lt;p&gt;Wayve资管首席策略师Rhys Williams表示：&lt;/p&gt;
+&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指早盘齐跌，房地产再爆发、万科涨停，PCB、CRO逆势拉升，恒科指跌1%，科网股齐跌</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 02:07:36 GMT</pubDate><description>&lt;p&gt;9月23日，A股震荡下跌，三大股指早盘集体走低，房地产再度爆发，万科A等涨停，CRO、玻璃基板、电路板等概念股逆势拉升，能源设备、文化传媒、AI办公等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股低开低走，恒指、恒科指双双下挫，恒科指跌1%，权重科网股回调，阿里跌近4%，腾讯跌超2%，存储芯片股活跃，兆易创新、澜起科技等走高。债市方面，国债期货集体下跌。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Muse毫无疑问对这类公司是负面因素。现在它还更像是一个新奇事物，但我认为两年后我们都会在使用代理。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-券商与财富管理首当其冲
-
-&lt;p&gt;在此次抛售中，券商股跌幅更甚。嘉信理财跌逾6%，LPL Financial下挫逾7%，Raymond James和Ameriprise Financial亦出现明显下跌。&lt;/p&gt;
-&lt;p&gt;Citizens金融服务与金融科技研究主管Devin Ryan解释称，&lt;strong&gt;威胁不仅限于AI替代人工顾问、压缩收费空间这一层面。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在他看来，&lt;strong&gt;智能体有可能更高效地替客户完成税收损失收割等资金调配操作，从而减少资金在经纪账户中的沉淀时间，压缩这些公司将客户闲置资金转化为自身收益的空间。&lt;/strong&gt;Ryan表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果一个智能体全天候优化资产配置，那么系统中的沉淀现金余额是否会被消耗殆尽？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;值得注意的是，此次恐慌并非首次。&lt;/strong&gt;今年早些时候，金融科技公司Altruist推出个性化税务策略工具时，曾引发类似抛售；今年2月Anthropic发布Claude代理工具后，软件即服务类股票亦曾遭遇一轮暴跌。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但分析人士认为，凭借Meta旗下各应用数十亿级的现有用户基础，Muse的潜在影响范围更广、渗透速度更快。&lt;/strong&gt;&lt;/p&gt;
-银行股承压，基本面隐忧叠加
-&lt;p&gt;除了AI代理带来的冲击外，银行业自身基本面也面临考验。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781734"&gt;华尔街见闻提及&lt;/a&gt;，美国银行CEO Brian Moynihan表示，第三季度销售与交易收入&amp;quot;将是我们有史以来较好的三季度之一，但与去年相比将基本持平&amp;quot;。&lt;/p&gt;
-&lt;p&gt;富国银行首席财务官Mike Santomassimo上周在巴克莱举办的金融业会议上表示，贷款等核心业务增长将持续，但增速料较上半年有所放缓。上述表态已在上周引发银行股更大范围的回调。&lt;/p&gt;
-&lt;p&gt;而美联储加息周期的背景下，收益率曲线趋平进一步压缩了银行的息差空间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.23%，深成指跌0.45%，创业板指跌0.53%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-
-多方观点：颠覆是机遇，也是威胁
-
-&lt;p&gt;面对市场恐慌，部分投资者和咨询顾问提醒不宜过度悲观。&lt;/p&gt;
-&lt;p&gt;财富管理咨询机构Pirker Partners创始人Alois Pirker表示，&lt;strong&gt;大型金融机构掌握着丰富的客户数据，本质上具备技术转型的先天优势&lt;/strong&gt;，&amp;quot;这对这些机构而言是一个巨大的机遇&amp;quot;，但转型需要时间，&amp;quot;毕竟你不能让一艘远洋邮轮在一夜之间掉头&amp;quot;。&lt;/p&gt;
-&lt;p&gt;上周，Anthropic刚刚推出一套Claude工作流工具，已接入Schwab和Vanguard等平台。Gabelli Funds投资组合经理Macrae Sykes在邮件中写道，&amp;quot;若Schwab能够以此服务顾问、提升其建议质量和资产获取效率，最终将通过托管、客户互动等环节使公司受益&amp;quot;。&lt;/p&gt;
-&lt;p&gt;高盛策略师的判断则更为审慎：&amp;quot;这仍然比&amp;#x27;买入一切AI&amp;#x27;要复杂微妙得多。&amp;quot;&lt;/p&gt;
-&lt;p&gt;随着Anthropic和OpenAI相继推出更低成本的前沿模型，AI的下一波浪潮或不仅仅是少数实验室构建超大规模算力集群，而是由数十亿分散的智能体共同推动。&lt;/p&gt;
-&lt;p&gt;这将重塑整个AI基础设施需求的格局，而金融业将在这一进程中持续承压与调适。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.89%，恒科指跌0.88%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约跌0.01%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货涨跌参半，截至发稿，沪镍、工业硅、锰硅涨超1%，铂金、不锈钢、集运指数、多晶硅、橡胶、铁矿石、沪银、氧化铝、沪锡、热轧卷板、沪金等品种纷纷走高，鸡蛋、沪铜、豆粕、螺纹钢、沪铝、焦煤、焦炭、玻璃、钯金、烧碱、菜籽等下跌，碳酸锂、纸浆、燃油、沥青跌超1%，原油跌逾3%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;10:06&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRO再度领跑概念板块，奥浦迈、益诺思升超11%，药明康德、康龙化成、凯莱英、泰格医药稳步上行。分析认为，CRO最新利好核心=十部门“十五五”规划（政策）+AI制药密集催化（主题）+业绩订单双高景气（基本面）+投融资回暖（资金）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:55&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;万科A拉升涨停。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:51&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CRO概念反复活跃，义翘神州涨超10%，南华生物触及涨停，益诺思、奥翔药业、博腾股份、和元生物跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;玻璃基板概念表现活跃，沃格光电逼近涨停，帝尔激光、彩虹股份、力诺药包、京东方A跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早盘PCB概念再度走强，大亚圣象4连板，满坤科技涨超10%，四会富仕、协和电子、澳弘电子、威尔高等涨幅靠前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:44&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;房地产板块再度拉升，我爱我家、华远控股3连板，中华企业直线涨停，万科A、华丽家族、世联行、特发服务跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:44&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;存储股升温，大普微-UW、佰维存储升超3%领跑，澜起科技、长鑫科技、江波龙、德明利集体上扬。隔夜美股存储概念股普涨，闪迪涨超6%，美光科技涨5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:36&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MLCC板块冲高，三环集团、风华高科、国瓷材料、斯迪克、洁美科技携手上行。近期，全球MLCC龙头陆续上调产品报价，核心驱动力来自算力产业链对高容量型号的强劲拉动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.02%，创业板指涨0.37%。海运、电力、油气、CRO板块调整。存储、有色金属板块活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.09%，恒生科技指数涨0.01%。金融、油气板块调整。澜起科技、凯莱英、兆易创新走强。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 同日推出"廉价模型"，OpenAI和Anthropic开打"价格战"</title><link>https://wallstreetcn.com/articles/3782332</link><guid>1af1ec961f9491d8acdcb71f18b5794094fb2e7dffc31ac75c72817c43ed7bf0</guid><pubDate>Wed, 23 Sep 2026 00:04:23 GMT</pubDate><description>&lt;p&gt;两大美国顶级AI实验室在同一天相继推出旗下主力模型的低价版本，标志着AI行业竞争已从单纯的能力军备赛，全面转向价格与性能的双线博弈。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周二，Anthropic发布新一代模型Claude Opus 5.5，使用成本较前代降低约40%；OpenAI同日推出ChatGPT-6的两款低价版本Sol和Luna，定价较ChatGPT-5.6系列降低50%。&lt;/strong&gt;两家公司几乎同步出手，时间节点的高度重合，清晰勾勒出当前AI市场的竞争烈度。&lt;/p&gt;
 &lt;p&gt;此次降价攻势背后，是来自中国&amp;quot;开放权重&amp;quot;模型的持续施压——这类模型允许用户自行定制并在本地硬件上运行。与此同时，Anthropic正积极备战今秋计划中的IPO，外界预计此次上市规模将创历史之最；OpenAI则在年初增长乏力后，寄望于降价策略重燃增长动能。&lt;/p&gt;
 定价细节：Anthropic与OpenAI的价格坐标
@@ -224,7 +217,53 @@ Muse冲榜，“消费者惯性”模式受到冲击
 &lt;p&gt;尽管美元走强，黄金价格仍收高，午后市场情绪恶化时，黄金价格日内V形反转、强劲反弹。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币隔夜触及 87,000 美元高点后小幅回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩详解“AI时代的广告业”：从注意力争夺到交易闭环</title><link>https://wallstreetcn.com/articles/3782314</link><guid>76cc0797edbe66c88b60bc41539606ba5c28dd7a790486cc6ceb1938e10961b1</guid><pubDate>Tue, 22 Sep 2026 16:52:15 GMT</pubDate><description>&lt;p&gt;AI正在重塑中国互联网广告的预算流向，但至少在2030年前，它更像是一场存量市场的重新分配，而非新的广告增量周期。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Agent“重塑”服务业！Muse重燃“恐慌”，金融股“躺枪”</title><link>https://wallstreetcn.com/articles/3782330</link><guid>e3dfb24ba44cbb587fff1736fbcdeb4ffc67c114edfda2827a9c114f163e4fb4</guid><pubDate>Wed, 23 Sep 2026 01:04:01 GMT</pubDate><description>&lt;p&gt;Meta消费级AI代理Muse以压倒性下载量登顶苹果App Store，引发华尔街对AI颠覆金融服务业的新一轮担忧，银行与券商股遭遇数月来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;9月22日，美股金融板块重挫，标普500金融板块下跌约2%，拖累大盘基本收平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;券商嘉信理财与LPL Financial各跌逾6%。摩根大通下跌3.4%，创7月以来最大单日跌幅；富国银行跌3.9%，为5月以来最大跌幅；美国银行与花旗分别下跌3%和2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;保险商Allstate、旅游预订平台Booking Holdings亦未能幸免。&lt;/p&gt;
+&lt;p&gt;市场的核心担忧在于，Muse此类AI智能体一旦大规模普及，将侵蚀那些依赖消费者行为惯性的传统商业模式——&lt;strong&gt;从财富管理、经纪服务到保险定价，均面临被绕过甚至替代的风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析人士指出，此次抛售的范围和烈度，已远超今年早些时候同类事件所引发的市场波动。&lt;/p&gt;
+
+Muse冲榜，“消费者惯性”模式受到冲击
+&lt;p&gt;Muse于9月8日正式上线，发布后六天内下载量超过90.2万次，迅速登顶苹果美国区iOS及谷歌Play免费应用榜首。&lt;/p&gt;
+&lt;p&gt;该应用可代替用户完成数字化任务，通过接入Gmail、OpenTable等第三方服务实现跨平台操作，并已与PayPal及金融科技公司Plaid建立合作。&lt;/p&gt;
+
+&lt;p&gt;Citizens金融服务与金融科技研究主管Devin Ryan指出，&lt;strong&gt;尽管没有哪款AI代理能在一夜之间颠覆整个行业，但近几个月密集的产品发布&amp;quot;让市场形成了一种叙事——世界正在改变，不确定性随之上升&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI代理对金融机构的威胁，远不止于替代人工顾问或分流渠道保费。它的真正颠覆性在于，能够替用户自动完成比价、切换服务和管理账单。这直接摧毁了依赖“消费者惯性”生存的商业模式&lt;/strong&gt;——用户在缺乏主动决策时倾向于维持现有消费习惯。&lt;/p&gt;
+&lt;p&gt;高盛交易台在研究报告中指出，随着AI代理在价格比较、出行预订和客服交互上的能力持续提升，&lt;strong&gt;电信、保险、公用事业等依赖周期性账单、可协商定价和附加服务的行业将率先承压。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周二高盛编制的&amp;quot;消费者惯性&amp;quot;风险股票篮子单日下跌2.6%，为近六个月最差表现，过去六个交易日累计跌幅已超7%。高盛风险篮子涵盖AT&amp;amp;T、T-Mobile、Allstate、Progressive、Netflix、Paramount Skydance及Expedia、Booking等标的。&lt;/p&gt;
+&lt;p&gt;Wayve资管首席策略师Rhys Williams表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Muse毫无疑问对这类公司是负面因素。现在它还更像是一个新奇事物，但我认为两年后我们都会在使用代理。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+券商与财富管理首当其冲
+
+&lt;p&gt;在此次抛售中，券商股跌幅更甚。嘉信理财跌逾6%，LPL Financial下挫逾7%，Raymond James和Ameriprise Financial亦出现明显下跌。&lt;/p&gt;
+&lt;p&gt;Citizens金融服务与金融科技研究主管Devin Ryan解释称，&lt;strong&gt;威胁不仅限于AI替代人工顾问、压缩收费空间这一层面。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在他看来，&lt;strong&gt;智能体有可能更高效地替客户完成税收损失收割等资金调配操作，从而减少资金在经纪账户中的沉淀时间，压缩这些公司将客户闲置资金转化为自身收益的空间。&lt;/strong&gt;Ryan表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果一个智能体全天候优化资产配置，那么系统中的沉淀现金余额是否会被消耗殆尽？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;值得注意的是，此次恐慌并非首次。&lt;/strong&gt;今年早些时候，金融科技公司Altruist推出个性化税务策略工具时，曾引发类似抛售；今年2月Anthropic发布Claude代理工具后，软件即服务类股票亦曾遭遇一轮暴跌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但分析人士认为，凭借Meta旗下各应用数十亿级的现有用户基础，Muse的潜在影响范围更广、渗透速度更快。&lt;/strong&gt;&lt;/p&gt;
+银行股承压，基本面隐忧叠加
+&lt;p&gt;除了AI代理带来的冲击外，银行业自身基本面也面临考验。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3781734"&gt;华尔街见闻提及&lt;/a&gt;，美国银行CEO Brian Moynihan表示，第三季度销售与交易收入&amp;quot;将是我们有史以来较好的三季度之一，但与去年相比将基本持平&amp;quot;。&lt;/p&gt;
+&lt;p&gt;富国银行首席财务官Mike Santomassimo上周在巴克莱举办的金融业会议上表示，贷款等核心业务增长将持续，但增速料较上半年有所放缓。上述表态已在上周引发银行股更大范围的回调。&lt;/p&gt;
+&lt;p&gt;而美联储加息周期的背景下，收益率曲线趋平进一步压缩了银行的息差空间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+多方观点：颠覆是机遇，也是威胁
+
+&lt;p&gt;面对市场恐慌，部分投资者和咨询顾问提醒不宜过度悲观。&lt;/p&gt;
+&lt;p&gt;财富管理咨询机构Pirker Partners创始人Alois Pirker表示，&lt;strong&gt;大型金融机构掌握着丰富的客户数据，本质上具备技术转型的先天优势&lt;/strong&gt;，&amp;quot;这对这些机构而言是一个巨大的机遇&amp;quot;，但转型需要时间，&amp;quot;毕竟你不能让一艘远洋邮轮在一夜之间掉头&amp;quot;。&lt;/p&gt;
+&lt;p&gt;上周，Anthropic刚刚推出一套Claude工作流工具，已接入Schwab和Vanguard等平台。Gabelli Funds投资组合经理Macrae Sykes在邮件中写道，&amp;quot;若Schwab能够以此服务顾问、提升其建议质量和资产获取效率，最终将通过托管、客户互动等环节使公司受益&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛策略师的判断则更为审慎：&amp;quot;这仍然比&amp;#x27;买入一切AI&amp;#x27;要复杂微妙得多。&amp;quot;&lt;/p&gt;
+&lt;p&gt;随着Anthropic和OpenAI相继推出更低成本的前沿模型，AI的下一波浪潮或不仅仅是少数实验室构建超大规模算力集群，而是由数十亿分散的智能体共同推动。&lt;/p&gt;
+&lt;p&gt;这将重塑整个AI基础设施需求的格局，而金融业将在这一进程中持续承压与调适。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩详解“AI时代的广告业”：从注意力争夺到交易闭环</title><link>https://wallstreetcn.com/articles/3782314</link><guid>76cc0797edbe66c88b60bc41539606ba5c28dd7a790486cc6ceb1938e10961b1</guid><pubDate>Tue, 22 Sep 2026 16:52:15 GMT</pubDate><description>&lt;p&gt;AI正在重塑中国互联网广告的预算流向，但至少在2030年前，它更像是一场存量市场的重新分配，而非新的广告增量周期。&lt;/p&gt;
 &lt;p&gt;摩根士丹利亚洲团队9月发布的中国互联网行业深度研究显示，在已使用或计划采用AI的广告主中，72%表示广告总预算没有变化，74%认为跨平台广告支出正在进一步集中。在总预算增长有限的情况下，AI首先改变的是广告预算的配置方式。&lt;/p&gt;
 &lt;p&gt;这一趋势已经体现在广告主的实际应用中。2025年，74%的受访广告主使用AI进行内容生成，62%用于广告活动管理，而商品Feed/目录优化、生成式引擎优化的渗透率分别仅为9%和5%。&lt;strong&gt;当前AI对广告行业的主要作用仍是提升效率，而不是创造新的广告入口。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;随着AI从内容生成、投放优化进一步走向Agent，广告平台的竞争也将逐渐延伸至用户决策和交易环节。&lt;strong&gt;对于互联网平台而言，真正值得关注的不是AI本身带来多少新增预算，而是谁能够借助AI获得更多存量预算，并进一步打开广告之外的商业化空间。&lt;/strong&gt;&lt;/p&gt;
@@ -293,20 +332,7 @@ AI先改变预算流向，广告增量尚未打开
 &lt;p&gt;俄罗斯境内炼油设施连续遭受打击，加大了出口压力。&lt;/p&gt;
 &lt;p&gt;过去一周，具备每日近100万桶原油加工能力的炼厂已全部或部分停产，受袭设施涉及塞兹兰、雅罗斯拉夫尔、莫斯科、乌法及古比雪夫等地。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;上述袭击导致俄罗斯国内原油加工量下降，部分无法在国内消化的原油被转入出口渠道。彭博数据显示，今年迄今俄罗斯海运出口量较2022年俄乌战争爆发以来任何一个完整年度的均值高出近每日30万桶。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;特朗普曾公开表达对俄罗斯柴油加工能力受损的不满，将柴油上涨归咎于乌克兰对俄炼厂的打击，而非中东局势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] LG电子AI液冷设备获英伟达认证，取得AI数据中心项目准入资格</title><link>https://wallstreetcn.com/articles/3782311</link><guid>05beb169652f245254ffe7ea46818eb7d93ff6eb410550188edc037e39c53e76</guid><pubDate>Tue, 22 Sep 2026 14:21:25 GMT</pubDate><description>&lt;p&gt;LG电子旗下2.5兆瓦冷却液分配单元（CDU）获英伟达DSX Ready认证，取得进入英伟达AI工厂相关项目的技术准入资格，为后续争取AI数据中心液冷订单提供条件。&lt;/p&gt;
-&lt;p&gt;9月22日，据《首尔经济日报》报道，&lt;strong&gt;LG电子宣布，英伟达已将其2.5兆瓦CDU列入DSX Ready认证产品。&lt;/strong&gt;DSX Ready是英伟达针对AI工厂相关基础设施产品进行的认证体系，面向英伟达整合GPU以及冷却、电力、网络和运营技术的大规模AI数据中心。&lt;/p&gt;
-&lt;p&gt;目前，全球通过2.5兆瓦等级DSX Ready认证的CDU产品仅有三款，LG电子产品位列其中。&lt;strong&gt;不过，获得认证并不意味着已经拿到英伟达订单，最终采购仍取决于英伟达及数据中心客户的实际项目需求和供应商选择。&lt;/strong&gt;消息公布后，LG电子韩股涨近7%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-2.5MW覆盖核心机架需求，认证有望提升项目竞争力
-&lt;p&gt;此次认证的一个重要意义，在于2.5兆瓦CDU的容量与英伟达AI工厂的机架级功耗需求较为匹配。&lt;/p&gt;
-&lt;p&gt;据报道，AI工厂中单个服务器机架的功耗约为120千瓦，20个机架合计功耗约2.4兆瓦，接近单台2.5兆瓦CDU的覆盖能力。&lt;strong&gt;因此，在面向这一功率等级的AI数据中心项目中，获得认证的产品有望具备更直接的技术适配性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LG电子并非只有2.5兆瓦这一款产品。此前，其600千瓦和1兆瓦CDU产品也已获得其他数据中心相关认证，可以覆盖不同规模的数据中心冷却需求，逐步形成从中小功率到大型AI数据中心的产品矩阵。&lt;/p&gt;
-以CDU为核心，LG电子加码液冷全链条
-&lt;p&gt;CDU是LG电子AI数据中心液冷方案的核心设备，主要负责冷却液循环和热量交换，将GPU等高功耗芯片产生的热量带走。&lt;/p&gt;
-&lt;p&gt;围绕CDU，LG电子还在推进冷水机组（chiller）、计算机机房空气处理单元（CRAH）以及直接接触芯片进行散热的冷板（cold plate）等产品和技术，试图从单一设备进一步延伸至完整的液冷解决方案。&lt;/p&gt;
-&lt;p&gt;市场研究机构TrendForce预计，AI数据中心液冷解决方案采用率将从2024年的14%提升至2025年的60%。&lt;strong&gt;随着AI服务器功耗持续提升，液冷在数据中心中的应用范围也在扩大，为LG电子扩大相关业务提供了市场基础。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LG电子ES业务部门负责人Lee Jae-sung表示，公司将以此次英伟达DSX认证为起点，向全球大型科技公司提供更加可靠、高效的冷却解决方案，并计划在下一代液冷市场确立领先地位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对LG电子而言，此次认证的核心价值并非订单本身，而是获得了进入英伟达AI工厂相关项目供应商体系的资格。&lt;/strong&gt;随着英伟达AI基础设施建设持续扩张，能否将认证进一步转化为实际项目和批量订单，将成为其液冷业务后续增长的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”</title><link>https://wallstreetcn.com/articles/3782318</link><guid>a2a3459aee4a6350cdaf0535f5c77ca973601cdc003f18ef654804accdabfd46</guid><pubDate>Tue, 22 Sep 2026 20:10:01 GMT</pubDate><description>&lt;p&gt;美联储里士满联储主席Tom Barkin周二警告称，通胀冲击的消退不会一蹴而就，当前高企的通胀水平存在向未来预期传导并形成固化的风险。&lt;/p&gt;
+&lt;p&gt;特朗普曾公开表达对俄罗斯柴油加工能力受损的不满，将柴油上涨归咎于乌克兰对俄炼厂的打击，而非中东局势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”</title><link>https://wallstreetcn.com/articles/3782318</link><guid>a2a3459aee4a6350cdaf0535f5c77ca973601cdc003f18ef654804accdabfd46</guid><pubDate>Tue, 22 Sep 2026 20:10:01 GMT</pubDate><description>&lt;p&gt;美联储里士满联储主席Tom Barkin周二警告称，通胀冲击的消退不会一蹴而就，当前高企的通胀水平存在向未来预期传导并形成固化的风险。&lt;/p&gt;
 &lt;p&gt;Barkin在巴尔的摩发表的演讲中表示，美联储上周的加息举措有助于压制通胀，但他未就是否需要进一步收紧政策明确表态。他强调，供给侧冲击已不再是一次性或暂时性事件，经济体内的价格压力具有持续性。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;这些压力或许终将消退，但我预计需要一段时间，在此期间，当前高企的通胀水平可能影响未来的通胀走势。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
@@ -327,29 +353,21 @@ AI先改变预算流向，广告增量尚未打开
 
 &lt;p&gt;尽管通胀前景充满不确定性，Barkin对经济整体形势持相对乐观的态度。&lt;strong&gt;&amp;quot;经济和劳动力市场仍站稳脚跟，&amp;quot;他表示，&amp;quot;我们从企业那里听到的反馈是，经济状况如果有什么变化的话，是在进一步走强。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美联储官员上周投票一致通过加息决定，这是三年多来的首次，联邦基金利率目标区间升至3.75%至4%。官员们对通胀问题的担忧持续上升——通胀已连续五年半未能回落至2%的政策目标，部分官员明确警示价格压力的持续性。&lt;/p&gt;
-&lt;p&gt;在上周决议发布的最新利率点阵图中，官员中位数预测显示年内还将有一次加息。2027年的中位数预测指向基准利率不再进一步上调，但有八位官员认为届时利率将比当前水平高出50个基点，官员内部的分歧依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国要放大招了？特朗普表态：支持柴油出口禁令</title><link>https://wallstreetcn.com/articles/3782325</link><guid>9f09a493f290c26f2342ee23e0714eb4fa117a5320a97e5433aacb5f283453e9</guid><pubDate>Wed, 23 Sep 2026 01:13:16 GMT</pubDate><description>&lt;p&gt;俄乌与中东两场战争同步冲击全球炼油体系，美国柴油价格飙升至历史高位，政治压力正将白宫推向一个充满争议的政策选择。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》报道，特朗普周二表示，&lt;strong&gt;他已在内部呼吁禁止柴油出口，并称将&amp;quot;很快&amp;quot;就是否实施禁令作出决定。财政部长贝森特随即证实，政府正在评估全面或部分禁令的可行性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一表态标志着白宫立场的急剧转向——就在前一天，白宫还坚称禁令并不在考虑范围之内。&lt;/p&gt;
-&lt;p&gt;消息迅速冲击炼油板块。Jefferies当日将Valero Energy和Marathon Petroleum评级从买入下调至持有，Valero股价下挫超4%，Marathon跌逾3%，标普1500炼油与营销指数连续第二日下跌，单日跌幅约1%。&lt;strong&gt;分析师警告，若禁令落地，将终结炼油利润率和股价的历史性上涨行情。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-价格创纪录，政治压力倒逼政策转向
-&lt;p&gt;美国汽车协会（AAA）数据显示，美国柴油零售均价周二飙升至每加仑6.53美元，较一年前的不足3.70美元上涨逾70%，创历史新高；加利福尼亚州价格更高达每加仑8.44美元。&lt;strong&gt;自今年2月底伊朗战争爆发以来，柴油价格已累计上涨超过70%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;柴油是驱动卡车、火车和农业机械的关键燃料，价格上涨直接推高农产品及消费品成本，最终由普通消费者承担。距11月国会中期选举仅剩六周，&lt;strong&gt;高企的能源价格已成为共和党内的政治痛点。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;爱荷华州共和党参议员Chuck Grassley上周在社交媒体上直言，&amp;quot;柴油高价正在扼杀农民收入&amp;quot;。阿拉斯加州参议员沙利文公开呼吁暂停柴油出口。田纳西州众议员Tim Burchett已提出立法草案，推动实施出口禁令，并在特朗普表态后表示：&amp;quot;很高兴总统站到了我们这边，这将推动更多议员支持这项法案。&amp;quot;参议院多数党领袖John Thune也表示愿意考虑禁令。&lt;/p&gt;
-&lt;p&gt;特朗普周二在联合国出席与乌克兰总统泽连斯基的双边会谈期间对记者表示：&amp;quot;我已经说了，别把柴油出口出去，我们生产很多柴油。&amp;quot;他同时透露，已在周日通话中敦促泽连斯基停止对俄罗斯炼油厂的无人机袭击，称此举&amp;quot;对俄罗斯是严重打击，但对柴油价格也是严重打击&amp;quot;。&lt;/p&gt;
-&lt;p&gt;值得注意的是，这一立场与特朗普此前的一贯主张形成鲜明反差。当拜登政府2022年因高通胀讨论限制成品油出口时，特朗普及共和党阵营曾予以猛烈批评，认为限制出口会&amp;quot;破坏自由市场&amp;quot;、&amp;quot;打击本土炼油产业&amp;quot;，并&amp;quot;损害盟友的能源安全&amp;quot;。&lt;/p&gt;
-禁令路径尚不明朗，内阁存在明显分歧
-&lt;p&gt;目前，白宫尚未就禁令的实施路径或时间表给出明确说法。特朗普和贝森特均未说明潜在禁令将通过立法还是行政手段推进。据美国国会研究服务局，总统&amp;quot;依据《紧急权力法》拥有宣布并执行出口禁令的隐含权力&amp;quot;。白宫发言人拒绝就具体细节进一步置评。&lt;/p&gt;
-&lt;p&gt;白宫内部对禁令的分歧不容忽视。能源部长Chris Wright上周警告，禁令将导致美国墨西哥湾沿岸出现产品积压，进而迫使炼油商下调开工率，快速压缩汽油产量。他表示：&amp;quot;一旦对流通设置壁垒，产量很快就会下降，供应将会减少。我们需要的是更多供应，而不是更少。&amp;quot;&lt;/p&gt;
-&lt;p&gt;内政部长Doug Burgum则警告，禁令不太可能压低油价，反而可能引发能源出口国的报复措施，而加利福尼亚州等地在一定程度上依赖这些国家的能源进口。他上周曾表示，政府&amp;quot;只有在认为禁令确实能压低价格的情况下才会考虑&amp;quot;，而目前看来并非如此。&lt;/p&gt;
-&lt;p&gt;共和党内部同样存在异议。内布拉斯加州众议员Don Bacon表示&lt;strong&gt;，&amp;quot;通常情况下，政府干预只会带来更糟糕的结果&amp;quot;，并认为高价格本身将激励更多柴油流入市场，价格最终会自我修正。&lt;/strong&gt;&lt;/p&gt;
-全球供应冲击：欧洲与发展中国家首当其冲
-&lt;p&gt;一旦禁令落地，冲击将迅速蔓延至全球市场。据研究机构Kpler数据，自今年2月底伊朗战争爆发以来，美国对欧洲的柴油出口平均跳升近50%，8月出口量更突破每日50.6万桶，创历史纪录。&lt;/p&gt;
-&lt;p&gt;Kpler分析师Matt Smith表示：&amp;quot;美国出口禁令对拉丁美洲——美国柴油的最大出口目的地——将是坏消息，对欧洲和非洲同样如此，这些地区在中东冲突期间已日益依赖美国供应。&amp;quot;&lt;/p&gt;
-&lt;p&gt;咨询机构Wood Mackenzie石油交易分析总监Jim Mitchell指出，柴油出口禁令在理论上或可短暂压低美国墨西哥湾沿岸价格，但将进一步收紧欧洲供应。&amp;quot;欧洲本身就长期存在柴油结构性短缺，且高度依赖美国出口。这对美国的一些关键盟友而言似乎相当不利。&amp;quot;&lt;/p&gt;
-&lt;p&gt;美国石油协会首席执行官Mike Sommers在特朗普表态后迅速回应，&lt;strong&gt;称限制能源出口只会加剧问题，&amp;quot;答案是更多供应和更大灵活性，而不是可能令困难局面雪上加霜的新限制措施&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-美股炼油板块面临估值重估风险
-&lt;p&gt;政策落地风险的重新定价已迅速反映在炼油股走势中。Jefferies分析师Lloyd Byrne在客户报告中写道：&amp;quot;投资者关注焦点正转向中期选举前美国实施产品出口禁令的可能性，政治支持力度正在上升。尽管此举将损害全球稳定并对美国经济产生影响，但随着各大国日益优先考虑国家利益，美国跟进的可能性客观存在。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;花旗集团分析师Vikram Bagri警告，&amp;quot;如果全面出口禁令得以实施，将很可能终结炼油利润率和股价的历史性上涨行情&amp;quot;，并指出利润率收缩将促使炼油商削减产能，进而对汽油和航空煤油价格产生连锁影响。&lt;/strong&gt;部分分析师提出折中方案，包括实施柴油出口配额制度，而非全面禁令。&lt;/p&gt;
-&lt;p&gt;技术面同样传递出警示信号。BTIG首席市场技术分析师Jonathan Krinsky指出，标普炼油指数已较其200周移动均线高出逾50%，相对强弱指数也处于高位，历史上这一组合通常预示未来8周内出现回调。&amp;quot;基本面多头可能预期一定程度的整固，但我不确定他们是否已做好迎接30%至40%回撤的准备，而我认为这是完全可能发生的。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在上周决议发布的最新利率点阵图中，官员中位数预测显示年内还将有一次加息。2027年的中位数预测指向基准利率不再进一步上调，但有八位官员认为届时利率将比当前水平高出50个基点，官员内部的分歧依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”</title><link>https://wallstreetcn.com/articles/3782334</link><guid>ac95b1e7a79cbf949dad09d550b9ca46b272174f1b02699aeb7b1bf08f6be895</guid><pubDate>Wed, 23 Sep 2026 00:10:19 GMT</pubDate><description>伊朗外长与美特使在纽约会晤
+&lt;p&gt;当地时间9月22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。&lt;/p&gt;
+&lt;p&gt;据伊朗方面消息称，此举是“应美方要求”，伊朗同意威特科夫的会晤请求，是出于“传达伊朗关于重新开放霍尔木兹海峡条件”的需要。&lt;/p&gt;
+&lt;p&gt;据悉，伊朗重新开放霍尔木兹海峡的条件包括立即解除海上封锁，立即解冻所有伊朗资产以及结束在地区各战线的战争。&lt;/p&gt;
+&lt;p&gt;美国总统特朗普表示，美国官员当天与伊朗代表举行了一场“非常好的”会谈。特朗普称，这场会谈持续了3个小时，并称会谈“非常有建设性”。他还表示，美伊双方已安排在近期再次举行会谈。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://news.cnr.cn/sq/20260923/t20260923_527822083.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;
+特朗普证实美伊官员在纽约会谈3小时
+&lt;p&gt;美国总统特朗普22日证实，美国和伊朗官员当天在纽约进行了3小时会谈，并计划很快再谈一次。&lt;/p&gt;
+&lt;p&gt;特朗普当天在联大会议期间会见乌克兰总统泽连斯基时对媒体表示，美伊当天会谈“非常顺利”“富有成效”，计划不久后再举行一次。他没有透露双方会谈内容和下次会谈时间。&lt;/p&gt;
+&lt;p&gt;据悉，美总统特使威特科夫和特朗普的女婿库什纳参加了此次会谈。威特科夫在会谈后表示，他“感觉很好”。&lt;/p&gt;
+&lt;p&gt;第81届联合国大会一般性辩论22日在纽约联合国总部开幕，特朗普在开幕当天讲话中称，不排除美伊在11月美国国会中期选举后达成结束冲突协议的可能性。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://www.news.cn/world/20260923/09761b089c9f4b72bfe6fbee6e2365fa/c.html"&gt;新华社&lt;/a&gt;&lt;/p&gt;
+特朗普：中期选举后美伊或达成协议
+&lt;p&gt;第81届联合国大会一般性辩论22日在纽约联合国总部开幕，美国总统特朗普在开幕当天讲话中称可迅速“摧毁”伊朗，但不排除双方在11月美国国会中期选举后达成结束冲突协议的可能性。&lt;/p&gt;
+&lt;p&gt;特朗普讲话大篇幅聚焦其中东政策。他为美国与以色列2月底联合对伊朗发动袭击进行辩护，称绝不会允许伊朗获得核武器。&lt;/p&gt;
+&lt;p&gt;他表示，伊朗正在“等着看我在中期选举中的表现”，伊朗没有道理不在选举后与美国达成协议。&lt;/p&gt;
+&lt;p&gt;据联合国官网日程，伊朗总统佩泽希齐扬预计于23日在联大一般性辩论发表讲话。据报道，佩泽希齐扬表示将“坚定捍卫”伊朗立场，其发言将呼吁实现世界和平、安宁以及对国家主权的尊重。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://www.news.cn/world/20260923/77ca477139114989a935a75d440e8fe9/c.html"&gt;新华社&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
