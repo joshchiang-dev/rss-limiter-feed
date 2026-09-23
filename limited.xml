@@ -1,5 +1,202 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 09:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] A股三大股指缩量下跌，北证50逆势涨逾2%，PCB掀涨停潮，恒指、恒科指齐跌超1%，AI大模型双雄下挫</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 08:21:29 GMT</pubDate><description>&lt;p&gt;9月23日，A股全天震荡走弱、三大指数集体收跌，北证50逆势涨2.60%，临近中秋、国庆假期，市场成交显著缩量。板块方面，PCB、玻璃基板、铜箔、量子科技、CRO、黄酒、家居涨幅居前；文化传媒、影视院线、煤炭、油气、离境退税跌幅居前。房地产冲高回落，万科A一度涨停，收涨近3%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 23 Sep 2026 09:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] 拆解Muse叙事：「新入口」逻辑并不成立</title><link>https://wallstreetcn.com/articles/3782367</link><guid>08ea99cde7c4fa8ee35b605f946da689896c59c0fca9c14e2d41a8e53103a180</guid><pubDate>Wed, 23 Sep 2026 07:55:53 GMT</pubDate><description>&lt;p&gt;作者 | 松壑&lt;/p&gt;
+&lt;p&gt;十年前的2016年4月，扎克伯格在旧金山的F8开发者大会上演示Messenger里的聊天机器人，给花店1-800-Flowers的机器人发消息，订了一束花。&lt;/p&gt;
+&lt;p&gt;他对台下说：“我从来没见过喜欢给商家打电话的人。”接着补充说以后订花在也不用给1-800-Flowers打电话了。&lt;/p&gt;
+&lt;p&gt;那一年Messenger月活刚过9亿，合作伙伴超过40家，包括CNN、eBay和沃尔玛。扎克伯格的判断是，没有人愿意为每一家商家都装一个App，对话框可以替代它们。&lt;/p&gt;
+&lt;p&gt;2026年9月8日，同一家公司发布了个人AI Agent产品Muse。用户在独立App或WhatsApp里给它发消息，它替用户联系商家、完成购买，逻辑与十年前颇为神似。&lt;/p&gt;
+&lt;p&gt;十年间沧海桑田，技术已有巨大进步。Muse运行在Meta云端为每个用户单独分配的虚拟机里，能操作浏览器、填表、比价下单、处理邮件，用户关掉应用后它仍在后台执行任务。&lt;/p&gt;
+&lt;p&gt;上线13天，Muse登上美国iOS和Android免费榜双第一，下载量超过250万。&lt;/p&gt;
+&lt;p&gt;Meta的股价和叙事十年间画了一个圆。&lt;/p&gt;
+&lt;p&gt;2016年的“对话式商业”没有成为入口，Messenger机器人最终沦为客服工具，依赖人工兜底的助手M在2018年初关停。&lt;/p&gt;
+&lt;p&gt;2023年，扎克伯格宣布那一年是“效率之年”，裁员、压缩管理层级、降资本开支预期，Meta股价全年涨了近200%。彼时市场奖励的是省钱；&lt;/p&gt;
+&lt;p&gt;2026年，Meta把全年资本开支指引上收到至少1300亿美元，第二季度自由现金流降至7.84亿美元。9月21日，Muse上线第13天，Meta单日上涨11.4%。这一次市场奖励的是花钱。&lt;/p&gt;
+&lt;p&gt;投资者一直在等一个能让天量资本开支见到回报的消费端用例，Muse恰好在这个时候出现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每一次AI技术跃进，科技巨头都会试图用它抢占一个面向消费者的超级入口。这个想象的力量远大于现实。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但决定一样东西能不能成为入口的，从来不只是能不能办成事，还有办成事之后谁来付钱、谁肯放行、用户会不会留下来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muse把第一个问题回答得比任何前任都好，后面三个问题，和十年前一样没有答案。&lt;/p&gt;
+&lt;strong&gt;一. 第5次入口尝试&lt;/strong&gt;
+&lt;p&gt;每隔2-3年，“AI驱动新入口”的叙事，就会以更高的技术完成度和更大的市场热情回来一次。&lt;/p&gt;
+&lt;p&gt;2014年亚马逊发布Echo后，Alexa被寄望于成为家庭消费的中枢，可到了2018年，只有约2%的Alexa设备用户用语音下过单，其中约9成没有再试第二次，亚马逊虽然不认同这组来自Information援引知情人士的数字，但也没给出替代数据。&lt;/p&gt;
+&lt;p&gt;Messenger机器人在F8发布后的两年里存在感持续走低，脸书也不再将Messenger视为商业平台的主战场推进。&lt;/p&gt;
+&lt;p&gt;ChatGPT刚出圈的2023年，GPT Store和插件被称为“AI时代的App Store”，同期Rabbit R1和Humane AI Pin带着“替代手机”的叙事发布。A股在2024年3月出现Kimi概念股涨停潮，彼时Kimi的标签除了长文本就是2C。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;结局是，GPT Store流量平淡；Humane在2025年初把资产卖给惠普，AI Pin随即停止服务；Kimi后来的主要增量来自海外API调用，化身C端入口的故事一直没有兑现。&lt;/p&gt;
+&lt;p&gt;2025年9月29日，ChatGPT上线Instant Checkout，允许用户在对话中直接完成购买，宣布当天Etsy股价涨了近16%。不到半年，OpenAI收缩了这项功能，把结账交还给商家。沃尔玛高管Daniel Danker披露，端内结账的转化率只有把用户导回沃尔玛官网的1/3。&lt;/p&gt;
+&lt;p&gt;距离这次最近的是今年春节，阿里千问用30亿元免单活动在6天里完成1.2亿笔下单，QuestMobile统计的DAU一度冲到7352万，高峰过后维持在3000万左右。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muse这回已经是第5次，过去的共同点是，市场几乎每一次都为热闹买了单，而每一次的结局都停在了“功能”，并没有走到“入口”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;失败常被归咎于技术，其实十几年前的音箱就已经听得懂“再买一包纸巾”，然而用户试过一次就不再用。&lt;/p&gt;
+&lt;p&gt;Muse的体验当然前进了一大步。大摩分析师Greg试用Muse买帽子，从发出需求到收到确认邮件不到两分钟，Muse还主动提醒他航班时间并建议加急配送。小扎十年前承诺的体验终于实现了。&lt;/p&gt;
+&lt;p&gt;但很多问题的壁垒并不在模型上。Muse上线次日，支付媒体PYMNTS让Muse去亚马逊补货、在Domino&amp;#x27;s点披萨、在Resy订位，三件事都没办成，卡住它的是账号授权、逐个连接Gmail和日历，以及结账环节。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;假如这一次入口故事仍然不成立，原因或许仍然和技术没关系。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;二. 时间，消磨或是消灭&lt;/strong&gt;
+&lt;p&gt;市场之所以相信个人Agent会成为新入口，很大程度上来自过去十年的感官经验——Feed流推荐重塑了互联网的入口格局。&lt;/p&gt;
+&lt;p&gt;抖音用算法推荐把用户时间从搜索和社交手里抢走很多，野村援引QuestMobile的数据显示，今年7月抖音日活7.14亿，日活用户人均每天使用约2个小时，总使用时长第一次超过微信。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;短视频、直播、信息流广告，本质上都在延长用户的停留时间，在停留中制造需求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但推荐流的成功的前提，是人们有大量的时间愿意被消磨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刷抖音、逛拼多多，对许多用户而言本身就是娱乐。黄峥曾在致股东信里，把拼多多描述为Costco与迪士尼的结合体，Costco的一半是效率，迪士尼的一半就是消磨时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;个人Agent的产品逻辑刚好相反。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它的价值在于消灭时间，用户把一件事交给Agent，Agent在后台把它做完，人可以去做别的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muse把这一点做到了极致，用户关掉应用后它继续工作，只在需要审批时才回来找人。&lt;/p&gt;
+&lt;p&gt;个人Agent或许可以产生需求，Muse会把用户收藏的菜谱Reels变成采购清单，给晚宴提议菜单，记住朋友的忌口，再主动发出邀请；千问向品牌开放的Agent，被设计成会做行程提醒、权益到期提醒和复购推荐。&lt;/p&gt;
+&lt;p&gt;大摩分析师也发现，Muse会主动告诉用户“我可以替你做这个”；硅基助理的推荐和提醒，有时可以能让人多买一些东西。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它产生的需求有两个特点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一是高度依附于已有的意图或记录。续订、复购、换货、换一家更便宜的保险，多半是替换性的需求，很少凭空长出来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二是它不产生停留。推荐流在人没有目的的时候留住人，每多停留一分钟就多一次曝光；Agent的全部努力是让人尽快离开，把事情做完就走。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MBI Deep Dives的一位评测者在Muse上线后很快用掉了免费档周额度的81%，他认为最好的用途是把自己所有的Gmail账户连起来。至于点外卖，他写道：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;至少一半时候他并不知道自己想吃什么，是在美国版饿了么的DoorDash上浏览的过程中才决定下来的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对已经知道自己要什么的人，Agent能提高效率；对还没想好的人，浏览本身就是决策，跳过浏览等于跳过了需求形成的那一段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正如Muse可以把菜谱Reels变成采购清单，但做饭念头是在Instagram的推荐流里产生的，Agent只是接过了执行。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI的传教再狂热，也不该因为AI更新鲜有趣，就把Instagram推荐流功劳记在Agent头上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent一旦开始主动推荐，就向推荐系统靠拢，而在电商和本地生活里，推荐位的收入天然来自卖方。&lt;/p&gt;
+&lt;p&gt;今年6月初有媒体实测，让豆包比较三个平台上同一款耳机的价格，答案底部挂出的却是自家抖音商城的商品卡。&lt;/p&gt;
+&lt;p&gt;接受谁的钱，就替谁说话，这是Agent面临的根本问题。&lt;/p&gt;
+&lt;strong&gt;三. 看不见用户的订单&lt;/strong&gt;
+&lt;p&gt;搜索引擎建立了互联网上最成功的商业模式之一。&lt;/p&gt;
+&lt;p&gt;它的核心交换关系是，用户免费获取信息，搜索引擎获取意图，商家为意图付费。&lt;/p&gt;
+&lt;p&gt;但搜索本身同样是消灭时间的工具，用户越快找到答案越好。它能成为入口，靠的是交付，与停留无关。&lt;/p&gt;
+&lt;p&gt;搜索引擎把一个带着意图的人送到商家的网站上，这个人进门后的浏览、加购、复购、会员转化和品牌印象都归商家所有；商家为这次转交付费，因为一次点击可以变成一个长期客户。&lt;/p&gt;
+&lt;p&gt;互联网入口的变现，大体只有这两条路：要么像推荐流一样消磨用户的时间，或者要么像搜索一样把用户直接转交出去，拿得起放得下。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agent两边都不站，它把时间消灭了，又想把用户留在了自己手里。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;它送给商家的是一张订单，商家看得见账号、收货地址和这笔交易，看不见那个在店里逛的人：没有浏览、停留，或者被首页别的商品吸引，没人会记住这个品牌。&lt;/p&gt;
+&lt;p&gt;下一次比价，Agent会重新比一遍，这一单的胜出不构成下一单的优势。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对商家来说，Agent代理的交易更接近一次性买卖。这个差异必然会左右商家的付费意愿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;搜索可以前端免费、后端向商家收费，因为商家拿到的是人，而服务一次查询的边际成本极低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agent前端有真实的边际成本，推理、虚拟机、浏览器渲染、失败重试都要钱；后端交给商家的，又是一份不附带用户关系的订单。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;偏偏Meta两头都想沾，现在它一边向用户收订阅，一边打算向商家收佣金。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muse目前提供三档定价，免费档每周约1亿token，Power档20美元/月，Maximum档100美元/月。Meta首席AI官Alexandr Wang说，绝大多数用户在免费档就够用，订阅档是用来帮助覆盖重度用户算力成本的。&lt;/p&gt;
+&lt;p&gt;小扎则透露，Meta最终想从Muse促成的交易里抽很小的一部分，这笔费用可能由商家承担，Muse要“帮你赚钱，帮你省钱”。&lt;/p&gt;
+&lt;p&gt;这三件事放在一起，存在一个根本矛盾。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;帮用户省钱，意味着压低商家的利润，或者把份额从一家挪到另一家，商家利润越薄就越不愿意付佣金；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;订阅只打算覆盖重度用户的算力，付费用户的规模注定不大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;已经有机构算过这笔账了。&lt;/p&gt;
+&lt;p&gt;对Meta评级中性的Oppenheimer做过一个推算：约19.1亿Muse用户，按ChatGPT约6%的付费转化率，得到约1.15亿付费用户，每人每月20美元，一年约275亿美元，对应Meta每股收益约20%的提升。&lt;/p&gt;
+&lt;p&gt;分析师自己都怀疑Muse能不能走到这一步，理由是付费转化、竞争和用户信任；他对ChatGPT付费用户的估计，也只有3300万到8800万。&lt;/p&gt;
+&lt;p&gt;大摩算的账更加不如人意，如果2028年Muse达到1亿用户，每人每天5次查询，其中10%有商业价值，每次变现0.07美元，全年收入约13亿美元，对Meta当年每股收益的贡献只有1%。&lt;/p&gt;
+&lt;p&gt;Meta今年第二季度的广告收入是593.6亿美元，年化约2370亿美元。一家机构推算的收入约为存量的12%，另一家不到1%。&lt;/p&gt;
+&lt;p&gt;哪怕在Meta收入版图中，个人Agent订阅费也只是配角。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;四. 站队是一门手艺活&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;所有试图打造个人Agent的商业模式，都要回答一个根本矛盾：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;究竟服务于消费者，还是服务于商家？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muse的演示可以帮助用户比价、砍账单还是退订阅，它的动作都站在付款的一方，对面坐着的都是收款的一方。收款的一方会不会为它开门，决定了它能走多远。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;许多定位服务于消费者的平台，在商业逻辑上都曾碰壁，最典型就是导购。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;什么值得买是一家声量不大但也做了做了十几年的内容导购平台，算是比较纯粹的买方工具之一，帮用户比价、找优惠、做购物决策。一年的12.88亿元营收中，信息推广约占40%，运营服务费约占33%，效果营销约占24%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;信息推广包括电商导购佣金和广告展示，效果营销按效果向广告主收费，运营服务费是替品牌做店铺代运营。一个替买方说话的平台，需要靠卖方的钱活着，这种商业模式上的矛盾决定了其内在上限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大厂也做过比价工具。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;阿里2010年底推出一淘，聚合全网商品比价，结果很快京东就修改爬虫规则，屏蔽了一淘，当时京东正为上市提升毛利率，一淘的比价对它的定价构成直接压力。显然平台一方不会坐视一个比价工具在自己的货架上帮用户砍价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;谷歌更早在2002年上线过比价索引Froogle，任何商品都可以被收录和比较。几经改名，到2012年变成Google Shopping，商家必须付费才能展示，买方工具又变回了卖方工具。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agent面对的困境和比价工具一脉相承。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;站在用户这边帮用户省钱，靠卖流量和广告赚钱的平台很难和它合作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9月20日，亚马逊宣布出手封禁Muse不是巧合，它给出的理由是未经授权，浏览时不表明AI身份，似乎会捕获并存储用户凭证。亚马逊表示，替顾客向其他商家下单的第三方应用，应当公开运作，并尊重服务方是否参与的决定。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果Agent转向替商家引流收费，它就不再是替用户省钱的买方代理，而是另一个广告渠道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当然，确实可以看到积极拥抱Muse的Shopify。这是因为Shopify主要靠建站工具和支付赚钱，商家的客户关系归商家，Agent带来的每一笔交易对它的中小商家来说大概率是增量。&lt;/p&gt;
+&lt;p&gt;亚马逊不同在于它自己有前台、有广告业务，用户本来就会直接来下单，Agent站到中间，拿走的正是它首页和搜索结果页上的曝光。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meta如今是苹果和梨都想要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小扎说Muse要“帮用户赚钱，帮用户省钱”，收入却指望商家的交易佣金；然后他又还提到，Muse可以连接Meta的广告系统，帮用户经营生意、投放广告，这恰恰因为Meta几乎全部收入来自广告主。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;帮用户省钱和向商家收钱，在利益上是对立的，这场游戏迟早要选边站。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;五. 入口的保质期&lt;/strong&gt;
+&lt;p&gt;一个能成为入口的东西至少需要两点：用户离不开它，竞争对手抄不走它，说白了就是要有足够的差异化。&lt;/p&gt;
+&lt;p&gt;如今MCP等标准协议让Agent接入Gmail、日历、地图、音乐的能力迅速同质化。任何一家Agent都可以帮用户查邮件、看日程、订餐厅。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;个人Agent这条路如果真走得通，最先跑出来的理应是手握Gmail、Chrome和安卓的谷歌，或者用户最多的OpenAI或者豆包，轮不到只有社交网络的Meta。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;事实上它们早就做了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI在2025年7月推出ChatGPT agent，让模型在自己的虚拟电脑上操作网页。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;谷歌今年5月19日在I/O大会上发布Gemini Spark，同样是跑在云端、全天候替用户干活的个人Agent，原生接入Gmail和日历，比Muse早了三个多月。每人一台云端虚拟机、一个看得见的浏览器，这套架构Meta并不独有。&lt;/p&gt;
+&lt;p&gt;Meta超级智能实验室的产品负责人Nat Friedman也承认，Muse在产品上深受开源Agent OpenClaw的启发，他们想做的，是一个安全、好用、能扩展到几十亿人的OpenClaw。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正拉开差距的是两样东西。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一是价格。Gemini Spark只向每月100美元的AI Ultra订阅用户开放，Muse每周免费送1亿token，再附送一台虚拟机；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在C端场景，用户对价格天然敏感。Muse的免费档很足是优势，但如果其他大厂跟进抢食只会抬高维持这项业务的成本。&lt;/p&gt;
+&lt;p&gt;然而Muse在美国最受好评的用途，反而因为搭在谷歌的资产上。更多评测者认为它最好的用途是把自己所有的Gmail账户连起来，Meta演示的填学校表格、跟进航空退款，也都要先读用户的邮箱。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;一个靠免费和分发领先的产品，把最有价值的能力搭在竞争对手的邮箱上。谷歌要追，需要改的只是价格表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二是分发，Muse可以直接在WhatsApp里用，而Meta旗下应用的日活人数有36亿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;无论价格还是渠道，这些都与产品力无关，靠的是其他业务的利润“血条”，这和千问春节的30亿元免单是同一种打法，只是把补贴从奶茶换成了算力。&lt;/p&gt;
+&lt;p&gt;何况Muse赢下的是新品的起跑，远没有撼动既有格局；CNBC援引的Sensor Tower数据，在Muse上线后的同一段13天里，ChatGPT的下载量约310万次，仍然多于Muse；Claude和Grok分别只有约40万和20万次。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;很多在个人agent上前面试过的公司，其实大多早已转身。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI把结账还给了商家，改做商品发现；豆包把收费押在PPT和数据分析这类生产力场景，豆包手机从破门退到了敲门，它们试错一次，就把收钱的地方挪到了更确定的位置。&lt;/p&gt;
+&lt;p&gt;还有观点认为个人Agent确实能积累用户的对话记忆和偏好，形成一定迁移成本，但我们通过实测发现，无论是个人数据导出，还是MCP的接入，这些对Muse这类应用来说并不构成迁移成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;可以这么理解:个人Agent作为一款2C应用其防御力并不高，很难形成类似社交、电商、短视频平台一样的网络效应。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;互联网能锁住用户往往是Agent背后的旧资产：Meta的社交图谱、微信的关系链、淘宝的购物记录和支付账号、谷歌的邮箱，Agent不过是寄生在这些旧资产上的一个功能。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对Meta来说，Muse的出现当然有意义，因为可以完善自己的交易生态，Agent让它有机会从谷歌和亚马逊手里截获一部分消费者的购买意图，同样它也需要给1300至1450亿美元的资本开支找一个故事。&lt;/p&gt;
+&lt;p&gt;Muse登顶后，富国银行分析师Ken Gawrelski认为Meta“现在有故事可讲了”。&lt;/p&gt;
+&lt;p&gt;但其第2季度自由现金流只有7.84亿美元，上半年股票回购为零，长期债务半年增加约250亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;叙事是叙事，入口是入口，资本市场为叙事定价，产品必须靠入口赚钱。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;六. 复制的阻力&lt;/strong&gt;
+&lt;p&gt;Muse出圈后，国内的讨论迅速转向中国版Muse会是谁。&lt;/p&gt;
+&lt;p&gt;但解决问题前，需要先看清中美两大市场互联网环境的几个关键差异。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一是两地互联网的基础设施状态截然不同。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国有Shopify这样中立的电商基础设施，有Stripe这样开放的支付接口，愿意被Agent调用的商家可以轻松接入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国内电商和本地生活由几家巨头各自经营，淘宝、京东、拼多多、美团、抖音，每一家都有自己的商品库、定价体系和支付工具。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agent想跨平台帮用户比价下单，首先要过的关就是这些平台愿不愿意开门。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;豆包已经两次撞到这扇门。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;2025年12月，豆包手机助手技术预览版随努比亚手机上市，靠系统级权限和模拟点击操作其他App，很快遭到微信、淘宝等App的限制，用户的微信账号一度被强制下线。&lt;/p&gt;
+&lt;p&gt;今年9月14日，豆包手机助手消费者版发布，同步推出屏幕自动化操作声明协议SAEP，公示期到10月15日，期间只操作系统应用、字节系应用和明确同意的第三方应用。实测显示微信、淘宝、美团、小红书都还无法实现应用内自动化操作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二是要考虑价格敏感度的差异。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;国内互联网用户习惯了免费产品，愿意为AI工具按月订阅的人比美国少。&lt;/p&gt;
+&lt;p&gt;千问的基础服务免费；豆包6月底推出了68元起的三档付费订阅，日常对话仍然免费。千问春节30亿元的免单补贴，力度也远超Muse的免费额度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三是要考虑用户习惯。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国人的大量正式往来仍然走邮件：机票和酒店确认、账单、银行和保险通知、学校的表格，最后都会落进邮箱，并构成一个人数字生活的总账本。&lt;/p&gt;
+&lt;p&gt;Agent拿到Gmail授权，就拿到了这本账，上下文聚拢的尤其高效，Muse产品上被称赞的也大多是这里。&lt;/p&gt;
+&lt;p&gt;国内用户日常沟通在微信，工作在钉钉、飞书，航班变动、快递和账单提醒散落在短信、App推送和服务号里，退票、改签多半在App里点几下，或者找客服。超级App已经把大部分生活服务压进一两个界面，用户自己动手往往只要一两分钟，Agent能替人省下的时间本来就少。&lt;/p&gt;
+&lt;p&gt;按月为软件付费的习惯也弱得多。视频、音乐会员之外，为工具按月掏钱的用户仍是少数。Agent想用“每月省下的钱比月费多”说服用户订阅，在中国找不到那么多可以省的订阅。这意味着个人Agent在中国的收费空间比美国更窄。&lt;/p&gt;
+&lt;strong&gt;七. 巨头的几种跟法 &lt;/strong&gt;
+&lt;p&gt;但个人Agent作为一种想象空间，仍然在被国内大厂积极尝试。&lt;/p&gt;
+&lt;p&gt;过去半年，大厂们的跟进大致分为以下几种范式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一种是在自己的帝国围城里建Agent。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5月11日，阿里宣布千问与淘宝全面打通，淘宝把搜索、订单履约、售后等能力封装成Skill交给千问调用；6月，千问又向第三方Agent和Skill开放，瑞幸、肯德基、蜜雪冰城和东方航空是首批测试的品牌。&lt;/p&gt;
+&lt;p&gt;但千问能调用的商品和服务，大部分仍在阿里生态之内，第三方品牌则是以自家Agent的身份入驻，带着自己的复购推荐和权益提醒。&lt;/p&gt;
+&lt;p&gt;对用户来说，这更像把阿里系集成到了一个交互界面，很难说是新入口。&lt;/p&gt;
+&lt;p&gt;对阿里来说，好处是用户不用离开千问去打开淘宝App；风险是Agent会绕过淘宝首页的推荐流和搜索广告位，用户直接说“帮我买一箱牛奶”，就不会再看到首页上精心排列的推广商品。&lt;/p&gt;
+&lt;p&gt;阿里截至今年6月的季度财报里，千问所在的&amp;quot;AI实验室与应用&amp;quot;分部首次单独披露，经调整EBITA亏损138.61亿元，上年同期亏损32.24亿元，阿里解释为AI能力投入和千问App推理成本增加。同季自由现金流约为负447亿元。财报发布三天后，阿里宣布配售新股募资800亿港元，全部投向AI。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二种是做连接器和生态，典型要数微信，这也是有可能最接近Muse叙事的存在。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;6月8日，微信发布开发者接入微信AI生态的指引，京东、美团、携程、滴滴、得物等相继宣布接入；6月17日，微信支付推出面向Agent的AI专属卡；6月20日，小微开始灰度。&lt;/p&gt;
+&lt;p&gt;小微的技术路线是通过微信开放平台调用小程序，不读屏或模拟点击。&lt;/p&gt;
+&lt;p&gt;小微至今仍在灰度。刘炽平在二季度电话会上表示，小微的原型在技术上可以处理复杂的Agent流程，但目前被设定为需要用户介入和多步确认，作为安全措施。&lt;/p&gt;
+&lt;p&gt;一种解释是安全考虑，另一种解释更直接——腾讯二季度营销服务收入435.65亿元，同比增长22%，公司把增长归因于AI驱动的广告推荐模型、智能投放产品和微信生态内的闭环营销。&lt;/p&gt;
+&lt;p&gt;这些收入长在视频号、朋友圈和公众号的注意力上。小微一旦让用户跳过浏览，直接说“帮我在美团订一份外卖”，这部分广告曝光的价值就会打折。电话会上已经有分析师当面问过这个问题：交易路径变短，会不会把高毛利的广告库存一起缩掉。刘炽平的解释是这些风险并不成立，AI会让微信生态变得更有价值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;小微的克制，或许恰恰是因为微信太清楚自己靠什么赚钱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三种是被调用，美团或许是代表。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;6月1日，王兴在一季度财报电话会上宣布，美团AI助手&amp;quot;小美&amp;quot;将接入腾讯元宝，用户在元宝里提出本地生活需求，由小美完成交易。他还提出&amp;quot;To A&amp;quot;概念：除了服务消费者和商家，服务AI Agent正变得越来越重要。&lt;/p&gt;
+&lt;p&gt;美团有自己的小美和小团，但没有去做跨平台的通用Agent，而是把外卖、酒旅、到店等能力封装好，等着被各家Agent调用。交易、定价、补贴和用户数据都留在美团手里，态度是开放接口，保留收银台。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四条路在打开权限上走的最激进的豆包。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为中国覆盖面最广的个人Agent，其10月起在对话里挂上抖音商城的商品卡，更早就已开始内测App内下单闭环，同时在手机系统层面做通用代理。&lt;/p&gt;
+&lt;p&gt;但豆包面对的悖论和千问类似，抖音电商的核心竞争力是兴趣推荐，用算法把不知道自己要买什么的人变成买家，用户一旦跳过信息流，直接对豆包说“帮我买一双跑鞋”，信息流的推荐价值就消失了。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;还有一个值得注意的缺席者，是拼多多。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;拼多多今年5月底悄悄上线了自然语言的“AI搜索”，但截至目前，它没有推出面向消费者的购物Agent，也没有宣布接入其他大厂的Agent平台。&lt;/p&gt;
+&lt;p&gt;作为国内电商中最依赖推荐流的平台之一，Agent意味着用户带着明确意图跳过推荐流直达商品，这对拼多多的冲击可能比对任何其他平台都大。&lt;/p&gt;
+&lt;p&gt;最依赖&amp;quot;逛&amp;quot;来赚钱的公司，在Agent这件事上最沉默。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;八. 两种成绩与奖励&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;大厂做个人Agent，技术和产品体验远远不是挑战，最危险的是做出来之后，发现自己在蚕食自己的收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;淘宝通过推荐流和搜索广告卖商家的展示位，用户在页面上多停留一秒，就多一次曝光机会；抖音的兴趣电商靠短视频和直播创造冲动购买；微信的广告长在视频号和朋友圈的注意力里。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但个人Agent越好用，这些平台最赚钱的广告曝光就越不值钱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此国内对个人Agent叙事最应该谨慎的，恰恰是那些最有能力做它的公司。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它们拥有用户、数据和技术，唯独缺少一个合理的理由，去用Agent削弱自己最赚钱的业务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muse对Meta来说更像进攻武器，因为Meta没有自己的电商交易生态，Agent帮它从谷歌和亚马逊手里截获意图，增量大于蚕食。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;即便如此，Muse最好用的那部分需求，仍然来自Instagram的推荐流，它补上的是执行，没有取代推荐流。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国大厂大多同时拥有广告业务和交易业务，Agent的增量和它蚕食的广告收入之间需要仔细算账。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;阿里&amp;quot;AI实验室与应用&amp;quot;单季亏损138亿元，腾讯二季度资本开支同比增长176%，这些投入能否产生超过被蚕食收入的新价值，目前没有任何一家公司给出答案。&lt;/p&gt;
+&lt;p&gt;2023年，扎克伯格砍资本开支、大规模裁员，宣布“效率之年”，Meta涨了近200%。&lt;/p&gt;
+&lt;p&gt;2026年，他把资本开支推到1300至1450亿美元，第二季度自由现金流不足8亿美元，上半年零回购，半年举债约250亿美元。市场因为Muse又给了11%。&lt;/p&gt;
+&lt;p&gt;市场不在乎一家公司是花钱还是省钱，它在乎的是故事能不能自圆其说。&lt;/p&gt;
+&lt;p&gt;“效率之年”的故事是：钱花对了，多余的砍掉。Muse的故事是：钱有去处了，消费端入口好像要来了。&lt;/p&gt;
+&lt;p&gt;两个故事方向相反，但都在特定时刻满足了市场的需要。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;个人Agent是个好功能，可以让已有的App更好用，也会产生一些新的需求，但它短期内很难成为一个新入口，撑不起一轮重新定价。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;入口要能生成需求，要握住收钱的能力，要能把用户留在自己这里，而且至少在用户眼里保持中立，目前的个人Agent，四样里最多沾得上1-2样。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它省下来的每一分钟注意力，都是互联网公司本来可以卖钱的资产；它留在自己手里的每一个用户，都是商家本来愿意付钱去接的人。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大摩首席互联网分析师Brian Nowak在一次内部讨论结束时说，接下来最关注的是“用户有没有真的在Muse上面买东西”。&lt;/p&gt;
+&lt;p&gt;他不关心下载量和日活，只关心成交。一个入口的价值，要看多少人掏了钱、下次还来，走进来的人数说明不了什么。&lt;/p&gt;
+&lt;p&gt;目前数据远不足以回答这个问题，Meta也还没有披露更多的Muse日活、留存和付费转化。&lt;/p&gt;
+&lt;p&gt;哪怕这些数字很好看，它面临的限制也不会消失。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商家不愿意为一份看不见用户的订单付高价，平台不愿意被绕过，用户的大部分需求并不在Agent里产生，Agent这一层可以被任何竞争对手复制。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过去几年AI叙事大行其道，市场总是喜欢在以砸钱力度来重估科技公司的价值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但在许多本不成立的入口叙事里，更稀缺的能力从来都不是花钱的勇气，而是能理解什么钱本不该花的克制。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指缩量下跌，北证50逆势涨逾2%，PCB掀涨停潮，恒指、恒科指齐跌超1%，AI大模型双雄下挫</title><link>https://wallstreetcn.com/articles/3782342</link><guid>f6009f4f5255078ef8d723231c32a71d9580aa4384527067d80a858455b4649e</guid><pubDate>Wed, 23 Sep 2026 08:21:29 GMT</pubDate><description>&lt;p&gt;9月23日，A股全天震荡走弱、三大指数集体收跌，北证50逆势涨2.60%，临近中秋、国庆假期，市场成交显著缩量。板块方面，PCB、玻璃基板、铜箔、量子科技、CRO、黄酒、家居涨幅居前；文化传媒、影视院线、煤炭、油气、离境退税跌幅居前。房地产冲高回落，万科A一度涨停，收涨近3%。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指午后双双下跌超1%，权重科网股回调，阿里跌超4%，腾讯跌超2%，AI大模型股双雄同样下挫，智谱大跌超12%，MINIMAX跌近4%。债市方面，国债期货集体下跌。商品方面，国内商品期货多数下跌。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指跌0.36%，深成指跌0.67%，创业板指跌0.68%。&lt;/p&gt;
@@ -84,38 +281,7 @@ NAND重新定价，存储迈向关键组件
 &lt;p&gt;OpenAI表示，公司正与多个潜在评估机构进行洽谈，合作对象涵盖此前有过合作及尚未合作过的组织，其中包括AI研究机构METR和Redwood Research。上述两家机构此前曾受OpenAI委托，对其模型入侵Hugging Face一事展开调查。&lt;/p&gt;
 &lt;p&gt;与此同时，竞争对手Anthropic上周宣布，将引入埃森哲（Accenture Plc）的评估人员，对其前沿AI模型进行安全测试。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;实验室有责任在保护敏感信息的同时，支持有实质意义的外部审查，&amp;quot;OpenAI在文章中表示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI主题延续热度，全球科技股领涨，债市集体走强，油价或创一年来最长跌势</title><link>https://wallstreetcn.com/articles/3782354</link><guid>973259f3e9997db9b9c379c59549ce6cedcfdb79994fb1eb6b0ba24c03271795</guid><pubDate>Wed, 23 Sep 2026 08:52:42 GMT</pubDate><description>&lt;p&gt;美国总统特朗普就伊朗问题发出强硬表态，同时释放谈判信号，油价延续跌势，亚洲债券与美债期货随之走高，全球市场进入高度敏感的观望状态。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3782334"&gt;央视新闻、新华社&lt;/a&gt;，应美方请求，美伊代表在联合国大会长谈3小时并筹备后续会晤。特朗普在联合国大会演讲中称，他面临一个重大抉择——要么与伊朗达成协议结束战争，要么“迅速摧毁伊朗”，同时表示他认为双方将在中期选举后达成协议。此前，他已表示美国官员与伊朗特使举行了&amp;quot;非常顺利&amp;quot;的会谈。布伦特原油下跌1.2%至每桶约94美元，面临近一年来最长连跌走势。&lt;/p&gt;
-&lt;p&gt;油价下行缓解了市场对通胀的担忧，此前收益率已升至数十年高位，令债券市场承压。澳大利亚和新西兰10年期国债收益率均至少下行3个基点，美债期货同步上涨，亚太股票指数小幅上涨0.1%。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;欧股集体高开， 欧洲斯托克50指数开盘涨0.48%，德国DAX指数涨0.36%，英国富时100指数涨0.32%，法国CAC 40指数涨0.362%。&lt;/li&gt;
-&lt;li&gt;韩国首尔综指上涨0.49%，回吐部分早盘涨幅，日本股市今日继续休市。&lt;/li&gt;
-&lt;li&gt;标普500期货变化不大。&lt;/li&gt;
-&lt;li&gt;美元指数连续第四个交易日上涨，升幅0.1%。&lt;/li&gt;
-&lt;li&gt;日元下跌0.1%，至157.56兑美元。&lt;/li&gt;
-&lt;li&gt;澳大利亚10年期国债收益率下降6个基点，至5.24%。&lt;/li&gt;
-&lt;li&gt;布伦特原油目前徘徊在每桶94美元附近。&lt;/li&gt;
-&lt;li&gt;西德克萨斯中质原油下跌1.9%，至每桶88.79美元。&lt;/li&gt;
-&lt;li&gt;黄金下跌0.4%至每盎司约4345美元。&lt;/li&gt;
-&lt;li&gt;比特币则上涨逾1%至约87200美元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-伊核外交进展主导市场情绪
-
-&lt;p&gt;本周经济数据日历清淡，围绕伊朗局势的地缘政治进展成为交易员的核心关注点。&lt;/p&gt;
-&lt;p&gt;The Sevens Report的Tom Essaye表示：&amp;quot;市场焦点将持续集中在地缘政治上，一旦出现美伊停火进展的确认信号，油价和收益率将进一步下跌，股市则有望反弹。&amp;quot;&lt;/p&gt;
-&lt;p&gt;布伦特原油目前徘徊在每桶94美元附近。能源价格的持续回落，有望减轻通胀压力，从而为债券市场提供喘息空间——本月早些时候，多国国债收益率一度攀升至数十年来高位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-科技股领涨，AI主题延续热度
-
-&lt;p&gt;纳斯达克100指数在芯片股带动下创下自6月以来首个历史新高，AI投资热情持续升温。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Meta Platforms旗下新款AI智能体Muse再度引发市场关注。据报道，Meta与Shopify达成合作协议，后者股价单日大涨7.1%。不过，市场同时担忧AI技术可能侵蚀金融经纪商的利润和手续费收入，相关金融股承压下行。&lt;/p&gt;
-&lt;p&gt;其他资产方面，彭博美元指数连续第四个交易日上涨，升幅0.1%。投资者正密切关注美联储理事Michael Barr的讲话，此前另一位官员已警告通胀压力或将持续。黄金下跌0.4%至每盎司约4345美元，比特币则上涨逾1%至约87200美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度</title><link>https://wallstreetcn.com/articles/3782371</link><guid>cdc0b270f7180ba8af5c2afe7f2478505c743184d3f0f4379144e4fbcd3f3bd8</guid><pubDate>Wed, 23 Sep 2026 08:23:04 GMT</pubDate><description>&lt;p&gt;OpenAI在旗舰模型发布不到三周后再度出手，将两款新模型的API价格直接砍半，剑指DeepSeek的低价护城河，大模型竞争从&amp;quot;比能力&amp;quot;全面转向&amp;quot;比成本&amp;quot;。&lt;/p&gt;
+&lt;p&gt;在安全审查机制调整的同时，OpenAI周一还呼吁美国主导联合其他国家，共同制定前沿人工智能技术标准，显示该公司正寻求在全球AI治理框架的构建中发挥更主动的作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度</title><link>https://wallstreetcn.com/articles/3782371</link><guid>cdc0b270f7180ba8af5c2afe7f2478505c743184d3f0f4379144e4fbcd3f3bd8</guid><pubDate>Wed, 23 Sep 2026 08:23:04 GMT</pubDate><description>&lt;p&gt;OpenAI在旗舰模型发布不到三周后再度出手，将两款新模型的API价格直接砍半，剑指DeepSeek的低价护城河，大模型竞争从&amp;quot;比能力&amp;quot;全面转向&amp;quot;比成本&amp;quot;。&lt;/p&gt;
 &lt;p&gt;美东时间9月22日，OpenAI正式推出GPT-6 Sol和GPT-6 Luna两款新模型，宣布其API价格较GPT-5.6促销定价再降50%。其中GPT-6 Luna的输入价格低至每百万Token 0.10美元，输出价格0.50美元，已直接切入此前被DeepSeek视为价格优势的区间，向中国竞争对手的核心阵地发起正面冲击。&lt;/p&gt;
 &lt;p&gt;此次降价并非单纯商业让利。OpenAI表示，价格下降源于缓存和推理效率的提升，公司将节省的成本直接传导至用户。与此同时，Anthropic同日推出Claude Opus 5.5并强调更低运行成本。两大头部AI公司在同一天以更具竞争力的价格入场，标志着AI行业竞争已进入性能、速度与成本&amp;quot;三线并进&amp;quot;的新阶段。&lt;/p&gt;
 
@@ -186,7 +352,38 @@ TIA/驱动芯片：价值部分转移，中国厂商仍有差距
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI隐形骨架浮出水面！大摩：CCL与铜箔赛道百亿美元增量开启</title><link>https://wallstreetcn.com/articles/3782345</link><guid>2798eabfcf2d88ba3edc2fc72b94d42d1d8cd08e372cdc8d70c3e25ac528f846</guid><pubDate>Wed, 23 Sep 2026 06:01:14 GMT</pubDate><description>&lt;p&gt;建滔积层板周三在港股逆市走强，涨超6%，报49港元，成为AI基础设施材料链上一个醒目的信号。这一涨势背后，是摩根士丹利一份深度行业报告所揭示的结构性机遇——覆铜板（CCL）与铜箔，这两种长期游离于AI投资叙事之外的基础材料，正在成为算力扩张不可或缺的&amp;quot;隐形骨架&amp;quot;。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI主题延续热度，全球科技股领涨，债市集体走强，油价或创一年来最长跌势</title><link>https://wallstreetcn.com/articles/3782354</link><guid>973259f3e9997db9b9c379c59549ce6cedcfdb79994fb1eb6b0ba24c03271795</guid><pubDate>Wed, 23 Sep 2026 08:52:42 GMT</pubDate><description>&lt;p&gt;美国总统特朗普就伊朗问题发出强硬表态，同时释放谈判信号，油价延续跌势，亚洲债券与美债期货随之走高，全球市场进入高度敏感的观望状态。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3782334"&gt;央视新闻、新华社&lt;/a&gt;，应美方请求，美伊代表在联合国大会长谈3小时并筹备后续会晤。特朗普在联合国大会演讲中称，他面临一个重大抉择——要么与伊朗达成协议结束战争，要么“迅速摧毁伊朗”，同时表示他认为双方将在中期选举后达成协议。此前，他已表示美国官员与伊朗特使举行了&amp;quot;非常顺利&amp;quot;的会谈。布伦特原油下跌1.2%至每桶约94美元，面临近一年来最长连跌走势。&lt;/p&gt;
+&lt;p&gt;油价下行缓解了市场对通胀的担忧，此前收益率已升至数十年高位，令债券市场承压。澳大利亚和新西兰10年期国债收益率均至少下行3个基点，美债期货同步上涨，亚太股票指数小幅上涨0.1%。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;欧股集体高开， 欧洲斯托克50指数开盘涨0.48%，德国DAX指数涨0.36%，英国富时100指数涨0.32%，法国CAC 40指数涨0.362%。&lt;/li&gt;
+&lt;li&gt;韩国首尔综指上涨0.49%，回吐部分早盘涨幅，日本股市今日继续休市。&lt;/li&gt;
+&lt;li&gt;标普500期货变化不大。&lt;/li&gt;
+&lt;li&gt;美元指数连续第四个交易日上涨，升幅0.1%。&lt;/li&gt;
+&lt;li&gt;日元下跌0.1%，至157.56兑美元。&lt;/li&gt;
+&lt;li&gt;澳大利亚10年期国债收益率下降6个基点，至5.24%。&lt;/li&gt;
+&lt;li&gt;布伦特原油目前徘徊在每桶94美元附近。&lt;/li&gt;
+&lt;li&gt;西德克萨斯中质原油下跌1.9%，至每桶88.79美元。&lt;/li&gt;
+&lt;li&gt;黄金下跌0.4%至每盎司约4345美元。&lt;/li&gt;
+&lt;li&gt;比特币则上涨逾1%至约87200美元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+伊核外交进展主导市场情绪
+
+&lt;p&gt;本周经济数据日历清淡，围绕伊朗局势的地缘政治进展成为交易员的核心关注点。&lt;/p&gt;
+&lt;p&gt;The Sevens Report的Tom Essaye表示：&amp;quot;市场焦点将持续集中在地缘政治上，一旦出现美伊停火进展的确认信号，油价和收益率将进一步下跌，股市则有望反弹。&amp;quot;&lt;/p&gt;
+&lt;p&gt;布伦特原油目前徘徊在每桶94美元附近。能源价格的持续回落，有望减轻通胀压力，从而为债券市场提供喘息空间——本月早些时候，多国国债收益率一度攀升至数十年来高位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+科技股领涨，AI主题延续热度
+
+&lt;p&gt;纳斯达克100指数在芯片股带动下创下自6月以来首个历史新高，AI投资热情持续升温。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Meta Platforms旗下新款AI智能体Muse再度引发市场关注。据报道，Meta与Shopify达成合作协议，后者股价单日大涨7.1%。不过，市场同时担忧AI技术可能侵蚀金融经纪商的利润和手续费收入，相关金融股承压下行。&lt;/p&gt;
+&lt;p&gt;其他资产方面，彭博美元指数连续第四个交易日上涨，升幅0.1%。投资者正密切关注美联储理事Michael Barr的讲话，此前另一位官员已警告通胀压力或将持续。黄金下跌0.4%至每盎司约4345美元，比特币则上涨逾1%至约87200美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI隐形骨架浮出水面！大摩：CCL与铜箔赛道百亿美元增量开启</title><link>https://wallstreetcn.com/articles/3782345</link><guid>2798eabfcf2d88ba3edc2fc72b94d42d1d8cd08e372cdc8d70c3e25ac528f846</guid><pubDate>Wed, 23 Sep 2026 06:01:14 GMT</pubDate><description>&lt;p&gt;建滔积层板周三在港股逆市走强，涨超6%，报49港元，成为AI基础设施材料链上一个醒目的信号。这一涨势背后，是摩根士丹利一份深度行业报告所揭示的结构性机遇——覆铜板（CCL）与铜箔，这两种长期游离于AI投资叙事之外的基础材料，正在成为算力扩张不可或缺的&amp;quot;隐形骨架&amp;quot;。&lt;/p&gt;
 &lt;p&gt;据追风交易台，摩根士丹利在最新报告中表示，该行预计全球CCL潜在市场总规模（TAM）将从2025年的190亿美元增至2030年的470亿美元，对应20%的复合年增长率，显著高于市场普遍预期的350亿至400亿美元；其中AI及数据中心应用将贡献90%的增量增长。&lt;/p&gt;
 &lt;p&gt;与此同时，摩根士丹利首次覆盖台光电子、台燿科技、金居及建滔积层板，均给予超配评级，目标价分别为新台币8,400元、2,700元、730元及75港元。&lt;/p&gt;
 &lt;p&gt;此前据摩根大通亦首次覆盖建滔积层板，给予增持评级，目标价65港元，分析师Parsley Ong等人预测其每股收益在2025至2028年间将增长8倍，核心驱动因素包括覆铜板价格上涨、产能扩张及织布机设备规模扩大75%。两大投行的同步看多，令市场对这一赛道的关注度骤然升温。&lt;/p&gt;
@@ -210,73 +407,7 @@ TAM被低估：CCL市场远不止一轮大宗商品周期
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V</title><link>https://wallstreetcn.com/articles/3782289</link><guid>fbb470f0436e65412d3c157cd5f9a5f44713a54005cf6d17878c0edb7cd00996</guid><pubDate>Tue, 22 Sep 2026 21:55:37 GMT</pubDate><description>&lt;p&gt;人工智能浪潮持续推高芯片及科技股，纳指四连涨再创新高，而&amp;quot;智能体AI&amp;quot;对金融行业的颠覆性预期则拖累银行股承压，标普横盘、道指下挫。&lt;/p&gt;
-&lt;p&gt;与此同时，国际油价在中东外交动态的多番反转中剧烈震荡，最终收跌逾2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;纳斯达克100指数收涨0.8%，道琼斯工业平均指数下跌0.4%，标普500指数基本收平。芯片股连续第六个交易日上涨，美光科技和英伟达领涨，而金融板块则成为当日市场最大拖累。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;市场对智能体AI浪潮的预期，正在制造显著的板块分化：科技股受益承接买盘，银行保险等具有&amp;quot;人力替代属性&amp;quot;的行业则遭到抛售。&lt;/p&gt;
-&lt;p&gt;油价方面，布伦特原油期货日内振幅超过4%，围绕伊朗制裁及伊朗海峡通道的外交进展反复摇摆，最终布伦特原油收于约99美元/桶，较日内高点大幅回落。&lt;/p&gt;
-&lt;p&gt;特朗普在联合国大会期间表示，美伊谈判&amp;quot;进展良好&amp;quot;，并称将在近期安排下一轮会谈，但同时又暗示协议可能要等到11月中期选举之后方能达成。黄金收涨0.4%至每盎司4361美元，比特币小幅下跌0.9%至约86196美元，美元指数收于近期高位。&lt;/p&gt;
-
-纳指创新高，智能体AI成核心叙事
-
-&lt;p&gt;推动本轮科技股上涨的核心逻辑，已从此前的&amp;quot;大规模算力军备竞赛&amp;quot;演变为对智能体AI应用层爆发的预期。&lt;/p&gt;
-&lt;p&gt;人工智能相关股票连续第四天大幅跑赢非AI板块。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;当日市场对AI相关软件、云服务商及智能体AI平台的买入热情明显高于光学网络等硬件基础设施板块。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic和OpenAI均于周二发布了新一代前沿模型，定价更低、面向企业任务设计，进一步强化了市场对推理侧需求爆发的预期。&lt;/p&gt;
-&lt;p&gt;高盛策略师Rich Privorotsky指出，这一行情&amp;quot;远比买入一切AI标的更为复杂&amp;quot;。他表示，推理层面的投资逻辑与前端训练并不完全相同，下一波浪潮或许不再是少数几家大型实验室消耗数万亿美元训练更大规模的模型，而是数十亿分散部署的智能体，这将拓宽AI基础设施需求的内涵。&lt;/p&gt;
-&lt;p&gt;随着纳斯达克指数创下新高，波动率实际上略有下降。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;纳斯达克100指数连续四个交易日大幅跑赢非AI板块，高盛将当日市场定性为&amp;quot;FOMO（错过恐惧）行情&amp;quot;，但整体交易活跃度仍处于低位，该机构交易台评分仅为10分中的3分。&lt;/p&gt;
-&lt;p&gt;值得注意的是，多头机构和对冲基金当日均呈净卖出态势，长线机构减仓主要集中在宏观产品和半导体，对冲基金则显著增加了软件股空头。&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Michael Ball评论称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;领涨板块已明显转回半导体和超大规模云计算，这足以支撑标普500和纳斯达克继续上行，但市场若要发动更具说服力的涨势，仍需更广泛的板块共同参与。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;银行及保险股成为周二市场表现最差的板块之一，道指因金融股拖累下跌0.4%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;做空者对这一板块的担忧来自两个方向&lt;/strong&gt;。首先，美联储加息与收益率曲线趋平压缩了银行的息差空间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;其次，智能体AI对财富管理、个人保险及订阅制消费服务等&amp;quot;人力密集型&amp;quot;金融业务的替代风险正在被重新定价。据高盛交易台的市场日评：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;金融股，尤其是智能体颠覆风险、美联储加息叠加曲线趋平、以及潜在的民主党在中期选举中大胜，三重因素正驱动当前所有对话。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-油价单日多次反转，伊朗谈判主导情绪
-
-&lt;p&gt;周二油价走势堪称全日最混乱的资产之一，布伦特原油在数小时内经历了至少五次方向性切换。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782313"&gt;华尔街见闻提及&lt;/a&gt;，据新华社，特朗普9月9日说，他认为美国同伊朗的战事将在11月美国国会中期选举完成后“立即结束”；9月13日特朗普又称，伊朗战事将在11月美国国会中期选举后立即结束，届时“汽油价格将会快速下跌”。&lt;/p&gt;
-&lt;p&gt;新华社提到，特朗普讲话大篇幅聚焦其中东政策。他为美国与以色列2月底联合对伊朗发动袭击进行辩护，称绝不会允许伊朗获得核武器。他表示，伊朗正在“等着看我在中期选举中的表现”，伊朗没有道理不在选举后与美国达成协议。&lt;/p&gt;
-&lt;p&gt;谈及伊朗问题，特朗普表示自己“有一个重大决定要做”，一方面可以达成协议，让伊朗重建并成为“远比过去更强大的国家”，另一方面则可能进一步采取军事行动。&lt;/p&gt;
-&lt;p&gt;此外&lt;a href="https://wallstreetcn.com/articles/3782325"&gt;华尔街见闻提及&lt;/a&gt;，特朗普还透露其顾问团队正在评估禁止柴油出口的可行性，财政部长贝森特表示正在研究全面或部分禁令的可行性。&lt;/p&gt;
-&lt;p&gt;受上述信息混杂影响，美国WTI原油最终收跌约1.2%至94.59美元/桶，布伦特原油收跌约2%至98.30美元/桶，柴油日内小幅下跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;TD证券高级大宗商品策略师Ryan McKay表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;霍尔木兹海峡日益高涨的过境流量表明伊朗的筹码正在削减，这可能意味着伊朗对达成协议更为开放，但同时也提高了其为重新掌控局面而升级紧张态势的概率。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-美联储预期与美元走势
-
-&lt;p&gt;美债收益率日内宽幅震荡后收平，10年期美债收益率收于4.96%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美联储上周宣布加息并明确表示抗通胀工作尚未完成，今日Richmond联储主席Tom Barkin警告称通胀冲击的消退可能需要更长时间，Boston联储主席Susan Collins则表示支持上周的加息决定。&lt;/p&gt;
-&lt;p&gt;高盛的Privorotsky指出，利率走势存在一个&amp;quot;奇特&amp;quot;之处：&lt;strong&gt;能源价格下行拉低了通胀预期，但市场仍要求短端和中端利率维持高位实际回报。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他认为，&lt;strong&gt;这或许反映出强劲的名义增长背景，但也可能与美国财政部发债及超大规模云计算商债券发行集中于短中端有关。&lt;/strong&gt;Privorotskys认为：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;若前端和中端利率真的开始与下行的能源价格背离，将演变为更大的问题——这将意味着市场认为经济过热，与油价无关。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;美元指数收于近期高位，接近8月初以来高点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;彭博策略师Tatiane Darie指出，基于1年1年远期OIS利率的回归模型显示，彭博美元指数的合理估值约为1268，较当前水平高出约5%，暗示美元仍有上行空间，但美元与利率预期的联动性在过去一年已明显减弱。&lt;/p&gt;
-&lt;p&gt;尽管美元走强，黄金价格仍收高，午后市场情绪恶化时，黄金价格日内V形反转、强劲反弹。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;比特币隔夜触及 87,000 美元高点后小幅回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？</title><link>https://wallstreetcn.com/articles/3782340</link><guid>6224b0316a1d74811c0cd9086237b88766fb2b7a8b501d964462a384c1a875f5</guid><pubDate>Wed, 23 Sep 2026 02:57:39 GMT</pubDate><description>&lt;p&gt;Anthropic最新发布的Claude Opus 5.5，在性能大幅跃升的同时将运行成本压低40%，这一反常规的组合引发了业界对其训练方式的密切关注。&lt;/p&gt;
 &lt;p&gt;社交平台X上，谷歌工程师Patrick C Toulme据此提出一个推测：&lt;strong&gt;Opus 5.5可能经由Anthropic内部更强大的&amp;quot;教师模型&amp;quot;Model 2蒸馏而来，并可能是首个体现&amp;quot;递归自我改进&amp;quot;（RSI）路径的产品模型。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;目前没有公开证据直接证实这一推断，但Anthropic已公开确认Model 2的存在，且该公司发布的RSI相关文章显示，AI参与AI研发的程度正在快速深化，这使得上述猜测具备一定背景。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;对于投资者和行业观察者而言，这一事件真正值得关注的，是它将三条此前相对分散的趋势串联在了一起：&lt;strong&gt;更强的内部模型持续迭代、AI深度介入AI研发流程、以及更小更便宜的产品模型同步涌现&lt;/strong&gt;。&lt;/p&gt;
@@ -331,43 +462,7 @@ TAM被低估：CCL市场远不止一轮大宗商品周期
 &lt;p&gt;值得注意的是，此次发布也发生在AI安全议题持续升温的背景之下。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Opus 5.5是Anthropic首席执行官Dario Amodei公开呼吁AI实验室&amp;quot;把握发展前沿节奏&amp;quot;、并深度引入第三方测试机构之后，该公司推出的首款新模型。&lt;/strong&gt; 此前，研究人员警告称，不受约束的自我改进型超级智能竞赛可能对人类构成威胁。&lt;/p&gt;
 &lt;p&gt;Anthropic表示，新模型经过了&amp;quot;广泛的对齐测试、发布前的外部机构评估，并在网络安全和生物学等高风险领域设置了相应防护措施&amp;quot;。&lt;/p&gt;
-&lt;p&gt;OpenAI周二也公布了与独立评估机构进一步合作的优先事项，涵盖模型训练、安全防护、风险预备及事件调查等方面。此前一周，Anthropic刚刚宣布将与埃森哲合作开展安全测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI替代潮被高估？巴克莱：仅20%职场核心技能可被高度复制，但放大效应已悄然蔓延</title><link>https://wallstreetcn.com/articles/3782358</link><guid>0b44346ff5e940758f5bde3cc266656171edb3c7c8f65d40ece58fb3353c73a8</guid><pubDate>Wed, 23 Sep 2026 06:34:34 GMT</pubDate><description>&lt;p&gt;AI对劳动力市场的冲击或许远比市场叙事更为温和，但也更为深远。巴克莱最新研究显示，真正能被AI高度复制的职场核心技能仅占约20%，大规模&amp;quot;替代潮&amp;quot;的担忧存在高估；然而AI对生产率的&amp;quot;放大效应&amp;quot;却呈现出截然不同的图景——其覆盖面远比自动化替代宽广，几乎渗透至劳动力市场的每个角落。&lt;/p&gt;
-&lt;p&gt;巴克莱于9月22日发布报告，推出&amp;quot;AI自动化与放大框架&amp;quot;（Barclays 3A Framework），以技能而非职业为核心分析单元，系统评估认知型AI与物理型AI对逾830个职业的影响。研究发现，自动化风险高度集中于少数职业群体，&lt;strong&gt;认知型AI的高度暴露职业主要集中在计算机、工程和科学类岗位，物理型AI的高度暴露职业则集中在建筑、生产、安装、维护与维修领域。&lt;/strong&gt;与此同时，美国招聘数据已出现与AI相符的结构性变化——自2022年以来，自动化暴露度最高职业的招聘职位占比已从约30%回落至25%左右。&lt;/p&gt;
-&lt;p&gt;AI技能需求的急速扩张则揭示出另一重逻辑：在美国、英国、法国和德国，要求具备AI技能的职位占比已从2019年的约2%攀升至2026年8月的6%至10%。值得注意的是，&lt;strong&gt;AI技能需求的重心正在发生漂移——2019年逾70%的AI相关职位集中于科技与数据岗位，至2026年这一比例已降至约50%，而管理类职位的占比则从约10%升至25%，显示AI正从专业技术领域向更广泛的职场生态扩散。&lt;/strong&gt;&lt;/p&gt;
-
-AI自动化或放大的是具体技能而非整个职业本身
-
-&lt;p&gt;传统的AI劳动力冲击分析多以&amp;quot;职业&amp;quot;为单位，而巴克莱认为，职业是任务的集合，任务又是技能的集合，技能才是理解AI影响的&amp;quot;原子单元&amp;quot;。AI更有可能自动化或放大的是具体技能——如信息收集、写作或数据分析——而非整个职业本身。&lt;/p&gt;
-&lt;p&gt;3A框架基于美国劳工部数据库，该数据库涵盖104项跨职业所需技能，并将其映射至逾800个职业。框架创新体现在三个维度：其一，同时纳入认知型AI和物理型AI，涵盖数字智能与实体智能两类形态；其二，以技能取代任务或职业作为基本分析单位；其三，同时捕捉&amp;quot;自动化&amp;quot;与&amp;quot;放大&amp;quot;两种效应——前者衡量AI对人类劳动的替代程度，后者衡量AI提升人类技能生产率的潜力。&lt;/p&gt;
-&lt;p&gt;研究结果显示，仅约20%的职场技能被评定为AI高度可复制，40%的技能对认知型AI呈现较强抗性，对物理型AI抗性更强的技能比例则高达70%，表明物理型AI目前的自动化影响范围仍远窄于认知型AI。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-自动化暴露高度集中，大部分劳动力相对安全
-
-&lt;p&gt;在自动化暴露分布上，巴克莱的关键发现是：&lt;strong&gt;极高暴露程度仅集中于极少数职业，大多数职业主要偏向于对认知型AI或物理型AI的一种暴露，而非两者兼具。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;认知型AI自动化暴露最高的职业包括数据科学家、统计学家和精算师，其核心技能——信息检索、模式识别、文档处理与程序化决策——与AI能力高度重合。物理型AI暴露最高的则是农业工人、纺织机器操作员、结构钢铁工人等依赖重复性体力劳动的职业。&lt;/p&gt;
-&lt;p&gt;相比之下，&lt;strong&gt;约120个职业对两类AI自动化的综合暴露均相对较低，覆盖约20%的美国劳动力，主要包括教师、儿童看护人员、教练及部分酒店与娱乐从业者——这些职业高度依赖人际互动、现场监督或娱乐表演，难以被AI复制。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-放大效应：覆盖更广，潜在收益更大
-
-&lt;p&gt;与自动化的集中分布不同，AI的放大效应呈现出更加广泛和均匀的特征。在巴克莱的模型中，放大效应在可复制技能、&lt;strong&gt;部分可复制技能与不可复制技能比例最为均衡的职业中最为显著——AI承接其中的可复制部分，同时提升剩余人类技能的价值与产出效率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;认知型AI放大效应最高的职业包括空中交通管制员、医疗健康服务经理及培训与发展经理等管理类职位，AI可接管行政文档与信息处理工作，同时放大领导、辅导和人员管理等人类核心能力。物理型AI放大效应则在多类机械与技术人员职业中最为突出，例如公共汽车和卡车机械师、工业机械师等，部分例行体力作业可被自动化，而诊断、决策和应变能力仍需人类主导。&lt;/p&gt;
-&lt;p&gt;巴克莱指出，放大效应分布的核心信息在于：AI的自动化能力集中于特定职业，而其提升生产率的能力则覆盖极为广泛的职业群体，医生、教师和工程师等迥异职业均可从AI工具中实质性获益。这一特征意味着，AI的整体生产率增益在长期可能超过其直接替代效应。&lt;/p&gt;
-
-招聘数据印证结构转变，AI技能需求向管理层扩散
-
-&lt;p&gt;劳动力市场数据已开始与上述框架形成印证。据巴克莱对LinkUp招聘数据的分析，自2022年以来，自动化暴露度最高职业的职位空缺占比从接近30%降至约25%，其中软件工程岗位的下滑贡献最为突出；自动化暴露度最低职业的职位占比则从约20%小幅上升至21%至23%。&lt;/p&gt;
-&lt;p&gt;与此同时，专项AI技能需求正在加速扩张。据Indeed Hiring Lab等基于更广泛关键词搜索的数据，美国、英国、法国和德国的AI相关职位占比，已从2019年的约2%分别升至2026年的6%至10%不等，英国升幅最为显著。&lt;/p&gt;
-&lt;p&gt;更具结构性意义的是需求主体的转变。2019年，科技与数据岗位主导逾70%的AI相关职位发布；至2026年，这一占比已降至约50%，而管理类职位占比则从约10%升至约25%。这一趋势在美国、英国、法国和德国均有体现，表明AI正以普适工作技能而非专属技术的形态向整个职场渗透。&lt;/p&gt;
-
-物理AI崛起：技能或成可授权的知识产权
-
-&lt;p&gt;报告进一步前瞻了物理型AI普及所催生的新型经济模式，并将其划分为两个阶段。&lt;/p&gt;
-&lt;p&gt;在第一阶段，人类充当&amp;quot;机器人训练师&amp;quot;——由于物理型AI缺乏等同于大语言模型训练语料的现实世界数据集，行业正通过远程操控、第一视角视频采集等方式，依赖人类示范为机器人生成训练数据。Figure&amp;#x27;s Index、Scale AI等公司已在构建这一众包生态。&lt;/p&gt;
-&lt;p&gt;在第二阶段，价值重心将向&amp;quot;操作规程&amp;quot;本身转移。随着物理型AI成熟，焦点将从硬件转向内嵌其中的技能与工作流程——焊接、手术、烹饪等人类专业知识，有望被编码为可规模化授权的&amp;quot;机器人操作手册&amp;quot;，形成一种全新的知识产权形态。Unitree的UniStore及NEURA Robotics的NeuraGym/NeuraVerse已被视为此类技能市场化的早期案例，尽管目前仍依托于人形机器人硬件厂商平台之中。&lt;/p&gt;
-&lt;p&gt;巴克莱认为，这一趋势的极端情形下，硬件将逐步商品化，真正的竞争制高点将归属于能够捕获、编码并控制高价值技能的一方——建造最多机器人的企业未必是最终赢家，而掌握&amp;quot;指令层&amp;quot;的企业或将主导这场新的技能争夺战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Agent“重塑”服务业！Muse重燃“恐慌”，金融股“躺枪”</title><link>https://wallstreetcn.com/articles/3782330</link><guid>e3dfb24ba44cbb587fff1736fbcdeb4ffc67c114edfda2827a9c114f163e4fb4</guid><pubDate>Wed, 23 Sep 2026 01:04:01 GMT</pubDate><description>&lt;p&gt;Meta消费级AI代理Muse以压倒性下载量登顶苹果App Store，引发华尔街对AI颠覆金融服务业的新一轮担忧，银行与券商股遭遇数月来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;OpenAI周二也公布了与独立评估机构进一步合作的优先事项，涵盖模型训练、安全防护、风险预备及事件调查等方面。此前一周，Anthropic刚刚宣布将与埃森哲合作开展安全测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Agent“重塑”服务业！Muse重燃“恐慌”，金融股“躺枪”</title><link>https://wallstreetcn.com/articles/3782330</link><guid>e3dfb24ba44cbb587fff1736fbcdeb4ffc67c114edfda2827a9c114f163e4fb4</guid><pubDate>Wed, 23 Sep 2026 01:04:01 GMT</pubDate><description>&lt;p&gt;Meta消费级AI代理Muse以压倒性下载量登顶苹果App Store，引发华尔街对AI颠覆金融服务业的新一轮担忧，银行与券商股遭遇数月来最大单日跌幅。&lt;/p&gt;
 &lt;p&gt;9月22日，美股金融板块重挫，标普500金融板块下跌约2%，拖累大盘基本收平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;券商嘉信理财与LPL Financial各跌逾6%。摩根大通下跌3.4%，创7月以来最大单日跌幅；富国银行跌3.9%，为5月以来最大跌幅；美国银行与花旗分别下跌3%和2%。&lt;/p&gt;
@@ -413,4 +508,25 @@ Muse冲榜，“消费者惯性”模式受到冲击
 &lt;p&gt;上周，Anthropic刚刚推出一套Claude工作流工具，已接入Schwab和Vanguard等平台。Gabelli Funds投资组合经理Macrae Sykes在邮件中写道，&amp;quot;若Schwab能够以此服务顾问、提升其建议质量和资产获取效率，最终将通过托管、客户互动等环节使公司受益&amp;quot;。&lt;/p&gt;
 &lt;p&gt;高盛策略师的判断则更为审慎：&amp;quot;这仍然比&amp;#x27;买入一切AI&amp;#x27;要复杂微妙得多。&amp;quot;&lt;/p&gt;
 &lt;p&gt;随着Anthropic和OpenAI相继推出更低成本的前沿模型，AI的下一波浪潮或不仅仅是少数实验室构建超大规模算力集群，而是由数十亿分散的智能体共同推动。&lt;/p&gt;
-&lt;p&gt;这将重塑整个AI基础设施需求的格局，而金融业将在这一进程中持续承压与调适。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 同样都是煤矿，为什么有的矿特别值钱？</title><link>http://xueqiu.com/6858312012/410225716</link><guid>e010dde2bdc22bc9f4d1adf34d064710e230c4052d3f0a9caa54110e6fd7c77b</guid><pubDate>Wed, 23 Sep 2026 09:14:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ANDY观微知远&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;这是重新认识煤炭系列的第2篇。&lt;/i&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这将重塑整个AI基础设施需求的格局，而金融业将在这一进程中持续承压与调适。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛认为“美国通胀被高估”，主因“暂时性的关税”和“AI统计偏差”</title><link>https://wallstreetcn.com/articles/3782341</link><guid>1a16cc71b861cae5c7d7b68423c6699fefeb4232b3e8c887629fe39d0cf7e84f</guid><pubDate>Wed, 23 Sep 2026 03:06:17 GMT</pubDate><description>&lt;p&gt;高盛最新指出，尽管美国核心通胀表面上高于全球多数经济体，但深入拆解通胀篮子后可以发现，美国实际面临的通胀压力反而低于其他国家，当前数据在很大程度上被暂时性因素所扭曲。&lt;/p&gt;
+&lt;p&gt;据追风交易台，高盛9月22日在发布的全球经济分析报告中指出，美国核心商品通胀偏高的全部超额部分，均可由两项美国独有的暂时性因素解释：&lt;strong&gt;关税推升以及AI相关的统计偏差。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛经济学家估计，关税目前令美国核心PCE商品通胀同比抬升约2.4个百分点，但这一效应预计将在明年下半年基本消退；与此同时，&lt;strong&gt;AI驱动的内存价格上涨因PCE统计口径问题被过度放大，目前对核心商品通胀贡献约1个百分点，预计将于2027年逐步消退。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一分析对市场判断美联储政策路径具有直接参考意义。报告结论显示，在剔除上述暂时性扰动后，美国通胀的内生压力实际上弱于其他主要发达经济体，而服务业通胀的粘性问题在非美经济体中更为突出，构成更持久的政策挑战。&lt;/p&gt;
+关税与AI统计偏差推高美国商品通胀
+&lt;p&gt;报告指出，核心商品通胀在新兴市场和非美发达经济体中已基本回归疫情前趋势，但在美国PCE口径下仍高出疫情前趋势约3个百分点，CPI口径下则高出约1个百分点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告将这一偏差完全归因于两项暂时性因素。&lt;/strong&gt;其一是关税效应：高盛美国经济学家估计，现行关税令核心PCE商品通胀同比抬升2.4个百分点，但随着关税影响逐步消化，这一效应预计在明年下半年大幅减退。其二是AI统计偏差：PCE统计中&amp;quot;软件及配件&amp;quot;类别权重较大，部分捕捉了企业在零售渠道的采购行为，导致今年早些时候内存价格的大幅上涨被过度反映在消费者通胀数据中。&lt;/p&gt;
+&lt;p&gt;此外，该类别未经质量调整，未能体现AI工具带来的实际性能提升。目前这一类别对核心商品通胀的同比贡献约为1个百分点，而其他发达经济体中内存价格上涨对核心商品通胀的贡献不足0.1个百分点。&lt;/p&gt;
+&lt;p&gt;高盛预计，随着其股票策略师判断内存价格进一步上行空间有限，加之美国经济分析局（BEA）将于本月底调整PCE篮子中软件及配件的权重，上述AI统计偏差将于2027年逐步消退。&lt;/p&gt;
+服务业通胀：统计口径差异掩盖美国相对优势
+&lt;p&gt;在非住房服务通胀方面，官方数据显示美国PCE口径下的读数高于多数发达经济体，但高盛认为这一比较存在统计口径失真。&lt;/p&gt;
+&lt;p&gt;报告在对医疗、金融服务等类别进行跨国口径统一处理后发现，美国的核心服务通胀实际上低于其他主要发达经济体。高盛指出，PCE对金融服务价格的处理方式与其他国家存在显著差异，且对股市波动高度敏感；医疗保险的统计方式也与其他国家不一致。剔除上述因素后，美国非住房服务通胀的表现更为温和。&lt;/p&gt;
+&lt;p&gt;更关键的前瞻指标是单位劳动力成本（ULC）增速。报告显示，美国ULC增速目前接近疫情前均值，而其他经济体则明显偏高。高盛认为，由于劳动力成本是中期非住房服务通胀的核心驱动因素，这一格局意味着美国以外的经济体面临更大的通胀持续压力。&lt;/p&gt;
+住房通胀：美国已正常化，非美发达经济体仍承压
+&lt;p&gt;在住房通胀方面，美国与新兴市场的租金通胀均已基本回归正常水平，但其他发达经济体仍显著高于长期趋势。&lt;/p&gt;
+&lt;p&gt;高盛将这一分化部分归因于移民政策的差异。报告显示，在移民净流入回落幅度较大的经济体（如美国、加拿大、新西兰），租金通胀的改善更为明显；而在移民回落相对有限的发达经济体，租金通胀自2023年以来进展迟缓。&lt;/p&gt;
+&lt;p&gt;此外，市场租金数据（不纳入官方通胀统计，但提供最及时的租金走势信号）显示，美国租金通胀的前景相对其他发达经济体更为乐观，进一步支持住房通胀持续下行的判断。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 同样都是煤矿，为什么有的矿特别值钱？</title><link>http://xueqiu.com/6858312012/410225716</link><guid>e010dde2bdc22bc9f4d1adf34d064710e230c4052d3f0a9caa54110e6fd7c77b</guid><pubDate>Wed, 23 Sep 2026 09:14:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ANDY观微知远&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;这是重新认识煤炭系列的第2篇。&lt;/i&gt;&lt;/p&gt;</description></item></channel></rss>
