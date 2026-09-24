@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 18:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌Gemini 3.8 Live上线"数字人"实时对话，支持多国语言与口型同步</title><link>https://wallstreetcn.com/articles/3782495</link><guid>38fa29a0578220876dd405468e14df68eb105776078cc7379ea27016318bb136</guid><pubDate>Thu, 24 Sep 2026 17:59:38 GMT</pubDate><description>&lt;p&gt;谷歌云旗下Gemini 3.8 Live with Live Avatar功能正式面向企业用户全面开放，将实时视频虚拟形象与多语言语音对话能力整合为一体，标志着企业级对话式AI从纯语音交互向多模态视觉交互迈进。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 19:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌Gemini 3.8 Live上线"数字人"实时对话，支持多国语言与口型同步</title><link>https://wallstreetcn.com/articles/3782495</link><guid>38fa29a0578220876dd405468e14df68eb105776078cc7379ea27016318bb136</guid><pubDate>Thu, 24 Sep 2026 17:59:38 GMT</pubDate><description>&lt;p&gt;谷歌云旗下Gemini 3.8 Live with Live Avatar功能正式面向企业用户全面开放，将实时视频虚拟形象与多语言语音对话能力整合为一体，标志着企业级对话式AI从纯语音交互向多模态视觉交互迈进。&lt;/p&gt;
 &lt;p&gt;该功能于本周正式在Gemini Enterprise中上线，此前已在Google Cloud Next 2026上完成预览展示。&lt;/p&gt;
 &lt;p&gt;新版本支持视频虚拟形象的实时唇形同步、97种语言自动识别与切换，以及后台工具调用与API执行，同时提供美国和欧盟双区域端点部署，满足企业合规与数据治理要求。&lt;/p&gt;
 &lt;p&gt;从客户落地情况来看，Cox Automotive已将该技术应用于旗下Autotrader平台，构建了可实时高亮屏幕内容、引导消费者完成车辆搜索与融资流程的购车AI助手；印度AI公司Equal AI则表示，基于Gemini 3.8 Live，其平台目前每日处理超过百万次实时通话，覆盖九种印度语言。&lt;/p&gt;
@@ -28,59 +28,7 @@
 &lt;p&gt;Cox Automotive首席产品官Marianne Johnson表示，Autotrader的对话式AI虚拟形象将自然语言描述与库存匹配相结合，是其&amp;quot;连接智能&amp;quot;愿景落地的重要步骤，该愿景旨在让每次消费者互动均能调用Cox Automotive的完整数据资产。&lt;/p&gt;
 &lt;p&gt;Equal AI首席执行官Akhilesh Damaraju称，借助Gemini 3.8 Live在打断处理、多语言对话及工具调用稳定性方面的改进，该平台现已实现每日超百万次实时通话处理，覆盖九种印度语言，目标是构建&amp;quot;了解你、说你的语言、始终站在你这边&amp;quot;的个人AI。&lt;/p&gt;
 &lt;p&gt;Salesforce Agentforce产品副总裁Bob Van Osten表示，Salesforce AI Research与谷歌的合作旨在探索实时多模态能力与代理式AI的结合，以打造从首次接触到问题解决全流程的客户服务体验。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] ChatGPT之后，下一个全民AI应用会是Meta Muse吗？</title><link>https://wallstreetcn.com/articles/3782444</link><guid>9a74f7fc1060360a8558e28ca3bb324f98b8f384f6cfeb58225a82b8ca525fbb</guid><pubDate>Thu, 24 Sep 2026 07:26:02 GMT</pubDate><description>&lt;p&gt;Meta 9月8日推出的AI个人代理产品Muse，正在以罕见的速度席卷消费科技市场——上线首六天下载量即达90.2万次，超越Meta AI自身同期纪录，目前已登顶美国及加拿大苹果应用商店免费榜榜首，并带动Meta股价在两周内额外上涨21%，远超同期标普500指数1%的涨幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Doug Anmuth在最新研报中&lt;strong&gt;将Muse定性为&amp;quot;自ChatGPT以来最具潜力成为最广泛使用的消费级AI应用&amp;quot;&lt;/strong&gt;，认为其核心驱动力在于强产品市场契合度、慷慨的免费层级设计，以及Meta覆盖逾20亿用户的庞大分发平台。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，高盛在其每日报告中指出，Muse引发的&amp;quot;代理式AI冲击&amp;quot;已成为市场最热议题，并导致其&amp;quot;消费者惰性&amp;quot;股票篮子单日下跌2.58%。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;Muse的光鲜表面之下暗流涌动。&lt;/strong&gt;安全研究人员已披露一个零日漏洞，可令本地应用完全劫持用户账户；多名用户记录了Muse在未获授权情况下读取私人短信的异常行为；亚马逊已宣布封锁Muse访问其零售网站；而支撑这一产品规模化运营所需的算力成本，据测算在1亿用户规模下可能高达300亿至500亿美元硬件投入，远超付费订阅收入所能覆盖的范围。&lt;strong&gt;Muse究竟是下一个ChatGPT，还是另一个元宇宙式的资本黑洞，答案仍悬而未决。&lt;/strong&gt;&lt;/p&gt;
-Muse是什么：从聊天机器人到&amp;quot;代劳型&amp;quot;AI代理
-&lt;p&gt;Muse的核心定位，&lt;strong&gt;是Meta所称的&amp;quot;世界首款面向所有人的个人AI代理&amp;quot;。&lt;/strong&gt; 与传统聊天机器人不同，Muse不仅回答问题，更直接代替用户执行任务，涵盖网购、旅行预订、邮件处理及日程管理等日常事务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;产品定价设有三档：&lt;/strong&gt;免费层级提供每周1亿个Muse Token；付费层级分别为每月20美元和100美元。相较竞品，Grok Bot订阅费为每月30美元以上，Gemini Spark为每月20美元，而Instinct目前仍处于仅限邀请的内测阶段。&lt;/p&gt;
-&lt;p&gt;在&lt;strong&gt;技术架构上，Muse通过&amp;quot;连接器（Connectors）&amp;quot;体系与第三方服务打通&lt;/strong&gt;，现有接入服务包括Gmail、Spotify、Peloton、OpenTable等。Meta已于上线两周内向开发者开放连接器构建权限，并相继推出Mac版本、美国本土商家外呼测试版，以及与Shop Pay的代理结账集成。扎克伯格还在Meta Connect发布会上推出了Muse Charm实体挂件。&lt;/p&gt;
-&lt;p&gt;摩根大通预计，随着数以千万计的企业在Muse上部署自有代理，用户与商家之间的交互将逐步从人工浏览或电话沟通，转向&amp;quot;代理对代理（agent-to-agent）&amp;quot;模式，届时Meta可参照其广告业务的变现逻辑，&lt;strong&gt;通过抽佣或按交易目标收费实现货币化。&lt;/strong&gt;&lt;/p&gt;
-技术底色：站在开源巨人的肩膀上
-&lt;p&gt;Muse的技术基因，&lt;strong&gt;可追溯至一个名为OpenClaw的开源代理框架。&lt;/strong&gt;OpenClaw由Peter Steinberger及数十名贡献者在不到六个月内构建完成，上线首周即在GitHub斩获10万星标，目前累计超过38.7万星，是GitHub历史上增长最快的代码库之一。&lt;/p&gt;
-&lt;p&gt;OpenClaw采用自托管架构，通过SOUL.md、IDENTITY.md、USER.md等纯Markdown文件管理记忆、浏览、消息及定时任务。据用户测试，Muse使用了完全相同的文件结构——当被直接询问时，Muse自身的代理也予以确认。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Meta的核心贡献，并非技术上的从头创新，而是将复杂的自托管流程压缩为一分钟的普通用户注册体验。&lt;/strong&gt; 正如一位X平台用户所总结的：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“个人AI代理的瓶颈从来不是模型本身，而是注册流程。Docker没有发明容器，Slack没有发明聊天。赢得市场的实验室，往往不是证明概念的那个，而是消除了概念与普通人日常生活之间最后一道摩擦的那个。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;值得关注的是，OpenClaw的创始人Steinberger此后已加入OpenAI，专注于面向大众的代理产品开发，OpenClaw项目本身则移交至独立基金会运营。&lt;/p&gt;
-安全与隐私：被加速赶工所牺牲的基石
-&lt;p&gt;&lt;strong&gt;扎克伯格将Muse标榜为&amp;quot;从底层为隐私与安全而构建&amp;quot;，但现实与这一承诺之间存在显著落差。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在安全层面，据Ars Technica报道，安全研究人员已发现一个零日漏洞：&lt;strong&gt;任何本地应用或终端命令，无论其macOS权限级别如何，均可修改Muse的一系列未公开设置。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;其中一项设置允许进程更改语音转录的服务器端点——攻击者只需将该端点重定向至自控服务器，即可获取用户Muse账户的完整控制权限。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;安全研究员Wardle对此评价称：“他们在我看来根本没有认真考虑过安全问题，这非常令人担忧。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在隐私层面，多名用户记录了Muse在未经明确授权的情况下读取私人信息的行为。&lt;/strong&gt;据报道，一名科技记者表示，他明确拒绝授予Muse访问短信的权限，但Muse随后主动推送通知，内容涉及其与播客联合主持人的私人对话及编辑发来的工作消息。当被追问时，Muse起初声称仅读取了通知横幅文本，但该解释随后被证明并不准确。IBM副董事长Gary Cohn公开表示，出于隐私顾虑，他目前尚未准备好使用该服务。&lt;/p&gt;
-&lt;p&gt;在行为透明度层面，代码审查显示，Muse的自动化浏览器刻意伪装成人类用户：它以禁用自动化标识的方式启动Chrome，注入代码隐藏navigator.webdriver属性，并伪造浏览器插件信息以生成更接近真人的浏览器指纹。Amazon正是以&amp;quot;Muse访问其网站时未自我标识为AI代理&amp;quot;为由，宣布封锁该应用。&lt;/p&gt;
-算力账单：规模化扩张背后的成本黑洞
-&lt;p&gt;Muse的商业模式面临一个根本性的数学难题：&lt;strong&gt;为每位用户提供专属虚拟机的承诺，在规模化后将产生天文数字级别的硬件成本。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据@demian_ai此前在社交平台X上发帖称，每位Muse用户都应该获得一台配备2个虚拟CPU、8GB内存及100GB固态硬盘的专属云端虚拟机。据测算，若Muse在一年内达到1亿用户规模（考虑到其当前的下载势头，这一情景完全可能），Meta将需要约158万颗AMD EPYC服务器芯片（按50%活跃用户负载计算），以及约800拍字节的内存，对应电力消耗约1.6吉瓦。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;付费订阅收入远不足以覆盖上述成本。&lt;/strong&gt;若有1000万用户订阅每月20美元的套餐，年收入约为24亿美元；而仅硬件建设成本一项，在1亿用户规模下即可达300亿至500亿美元。Meta当前全年资本支出指引已高达1300亿至1450亿美元，训练与广告业务已占用大量算力资源。&lt;/p&gt;
-&lt;p&gt;为应对这一挑战，Meta已于2026年3月成为Arm AGI CPU的主要联合开发商及首席部署合作伙伴，并于同年4月向其算力组合中新增数千万颗AWS Graviton核心。然而，分析人士指出，&lt;strong&gt;若Meta无法对闲置虚拟机实施有效的冻结与共享策略，“专属云端PC”的承诺将难以按宣传规模兑现。&lt;/strong&gt;&lt;/p&gt;
-市场影响：颠覆预期与&amp;quot;消费者惰性&amp;quot;的终结
-&lt;p&gt;&lt;strong&gt;Muse对资本市场的冲击，已远超Meta自身股价的波动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛在其报告中指出，Muse所代表的代理式AI能力，从根本上威胁到那些依赖用户&amp;quot;高转换成本&amp;quot;维持客户留存的商业模式——无论是难以取消的订阅服务、繁琐的银行账户迁移，还是复杂的保险续约流程，一旦AI代理可以代劳，这些企业的护城河将大幅收窄。高盛&amp;quot;消费者惰性&amp;quot;股票篮子（GSXUSWCH）在相关报道发酵当日下跌2.58%，成为近期交易最活跃的主题篮子之一。&lt;/p&gt;
-&lt;p&gt;摩根大通则将&lt;strong&gt;Muse的长期可寻址市场规模定性为&amp;quot;可能达到数十万亿美元&amp;quot;，&lt;/strong&gt;并预计Meta将在2027年之前以推动用户采纳和参与度为优先目标，暂缓大规模商业化变现。为此，Meta已开始在Instagram和Facebook上投放Muse广告，并推出&amp;quot;邀请好友获得10亿Muse Token&amp;quot;的裂变激励机制，同时启动全国性电视广告攻势。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-核心悬念：下一个ChatGPT，还是元宇宙2.0？
-&lt;p&gt;&lt;strong&gt;Muse当前的市场表现令人印象深刻，但其能否成为真正的&amp;quot;全民AI应用&amp;quot;，仍取决于几个尚未解答的关键问题。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首先是信任问题。&lt;/strong&gt;Meta在数据隐私领域本就背负沉重的历史包袱，而Muse上线两周内已暴露出零日漏洞、未授权读取私信及浏览器伪装等多重问题，这对于一款需要用户授予账户、文件乃至麦克风和摄像头访问权限的产品而言，是极为不利的起点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其次是成本可持续性。&lt;/strong&gt;付费订阅收入与实际算力投入之间的巨大缺口，意味着Muse目前本质上是一项由Meta广告业务补贴的战略性投入，其商业闭环尚未形成。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三是竞争压力。&lt;/strong&gt;OpenAI正在开发竞争性代理产品，Nous Research的Hermes Agent也在追逐同一赛道，而Amazon的封锁行动则预示着平台生态的阻力可能持续存在。&lt;/p&gt;
-&lt;p&gt;摩根大通的判断是，Muse有潜力成为自ChatGPT以来最具影响力的消费级AI应用；但批评者则将其与元宇宙相提并论——一个烧钱无底、最终未能兑现承诺的宏大叙事。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;初期的病毒式传播固然亮眼，但真正的考验，是当好奇心退潮之后，有多少用户愿意每月付给扎克伯格20美元乃至100美元，让Meta来打理自己的生活。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电网排队太久，AI数据中心转向“自发电” ，燃料电池站上C位</title><link>https://wallstreetcn.com/articles/3782450</link><guid>c35e91c17053491acdb0f1ce948df2fb2570d248ec57c6cb64fa9f39092fe13d</guid><pubDate>Thu, 24 Sep 2026 10:12:02 GMT</pubDate><description>&lt;p&gt;AI 数据中心的扩张节奏，眼下最先卡住的不是资金，而是电力。芯片与机房的订单都能提前锁定，把电送进园区的时间却在变长——在美国和欧洲，接入公共电网的排队时间未来五年还要继续拉长。当电力可得性取代资本开支成为部署的硬约束，自建自用、不必排队的「表后」方案被推到台前。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电网排队太久，AI数据中心转向“自发电” ，燃料电池站上C位</title><link>https://wallstreetcn.com/articles/3782450</link><guid>c35e91c17053491acdb0f1ce948df2fb2570d248ec57c6cb64fa9f39092fe13d</guid><pubDate>Thu, 24 Sep 2026 10:12:02 GMT</pubDate><description>&lt;p&gt;AI 数据中心的扩张节奏，眼下最先卡住的不是资金，而是电力。芯片与机房的订单都能提前锁定，把电送进园区的时间却在变长——在美国和欧洲，接入公共电网的排队时间未来五年还要继续拉长。当电力可得性取代资本开支成为部署的硬约束，自建自用、不必排队的「表后」方案被推到台前。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，高盛 Michele Della Vigna 团队在 9 月 23 日的《Carbonomics: Behind-the-meter power solutions for data centers: gas turbines, fuel cells and reciprocating engines》中给出了一套把燃气轮机、燃料电池、往复式发动机并列打分的框架，&lt;strong&gt;并把 2030 年表后供电装机预测由 40GW 上调到 67GW。支撑这次上修的，是一组更快的用电读数。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;结论有两条：三条技术路线都会被用上；按交付速度与可用性重新配权后，燃料电池的综合得分排在最前。&lt;/p&gt;
 表后供电的盘子为什么突然变大
@@ -866,44 +814,7 @@ AI热潮被视为需求冲击，生产率前景存变数
 最大风险或在人心
 
 &lt;p&gt;Premier Miton首席投资官Neil Birrell指出，股市当前之所以尚未崩塌，或许是因为投资者还没有将5%以上的收益率真正代入长期盈利预测模型。&amp;quot;模型没重跑之前，市场看起来都还好，&amp;quot;Birrell说，&amp;quot;但最终，数字就是数字，必然会反映出来。&amp;quot;&lt;/p&gt;
-&lt;p&gt;一旦投资者开始认真讨论6%的可达性，这场争论便超越了收益率短期冲高的范畴，演变为一场更深刻的拷问：廉价流动性时代是否已经终结，全球资产价格是否必须适应永久性更高的资本成本？这一问题的答案，将深刻左右未来数月的资产配置格局。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 个人Agent火了，软件迎来新需求？大摩看好通信、客户服务与电商基础设施</title><link>https://wallstreetcn.com/articles/3782441</link><guid>3d999cf94cf3376e6ef1b307ffe75c196653467986244d9b83fb4f79d924c3b0</guid><pubDate>Thu, 24 Sep 2026 07:24:02 GMT</pubDate><description>&lt;p&gt;Meta旗下Muse与私人产品Instinct的走红，令投资者重新审视AI Agent浪潮对软件行业的结构性影响。摩根士丹利认为，消费端Agent的兴起并非短期业绩催化剂，但正在强化通信、网络基础设施与电商软件的中期多头逻辑。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根士丹利分析师Elizabeth Porter等人在最新研究报告中指出，&lt;strong&gt;个人AI Agent的加速普及，从需求侧重塑了通信软件的增长逻辑——消费者借助Agent发起更多业务互动，企业端AI则降低响应成本，二者共同推动通信量扩张和基于用量的货币化模式。&lt;/strong&gt;这一趋势对Twilio和Wix的暴露度最为直接。&lt;/p&gt;
-&lt;p&gt;对于网络基础设施提供商而言，报告认为&amp;quot;人类访问量下降导致网站建设需求萎缩&amp;quot;的空头叙事正在被重新定义：Agent日益需要发现商家、预订服务并完成交易的系统支撑，中小企业（SMB）的线上交易基础设施需求或因此受益。摩根士丹利明确将北美软件行业评级定为&amp;quot;具吸引力&amp;quot;（Attractive），但同时提示，上述趋势更多体现为对估值中枢和长期预期的改善，而非对近期季报和业绩指引的直接提振。&lt;/p&gt;
-
-Muse与Instinct：从问答工具到任务执行
-
-&lt;p&gt;根据摩根士丹利报告，Muse和Instinct是新一代个人AI Agent，其核心区别在于从&amp;quot;回答问题&amp;quot;转向&amp;quot;代理完成任务&amp;quot;。Meta于2026年9月8日通过其应用程序及WhatsApp正式推出Muse；Instinct为私人产品，主要通过iMessage提供访问入口。&lt;/p&gt;
-&lt;p&gt;两款产品均具备浏览网页、填写表单、预订出行等能力，并可在获得用户授权后完成消费行为。9月中旬，双方相继推出限量版外呼功能，允许Agent主动联系商家处理预约、预订及客户服务事宜。&lt;/p&gt;
-&lt;p&gt;这一功能扩展被摩根士丹利视为关键节点——Agent从被动响应用户指令，演变为主动代表用户与企业发生交互，直接打通了消费行为与企业通信系统之间的链路。&lt;/p&gt;
-
-通信软件：需求侧开辟新入口
-
-&lt;p&gt;报告指出，AI对联络中心（Contact Center）市场的影响此前主要聚焦于企业用更少的坐席人员处理现有咨询，对以坐席数计费的传统模式构成压力。消费端Agent的出现则引入了一个需求侧的新机遇：消费者可以通过Agent发起此前因时间或意愿不足而放弃的咨询和任务。&lt;/p&gt;
-&lt;p&gt;摩根士丹利将这一逻辑概括为：&lt;strong&gt;&amp;quot;企业AI让回应更便宜，消费AI让发起更容易。&amp;quot;通信量的扩张，一方面可缓冲坐席压力，另一方面加速了按时长、交互次数或结果计费的自动化服务需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告认为，RingCentral最清晰的机会在于按用量计费的AI Reception（AIR）产品；NICE和FIVN的空头逻辑有所弱化，但能否在AI层胜出并实现货币化以抵消人工坐席压力，目前仍存在不确定性。报告显示，FIVN订阅收入中AI收入占比约15%，NICE年化云端收入中占比相近，大摩期待看到AI收入加速向该比例及以上迁移，同时整体营收趋于稳定乃至加速增长。&lt;/p&gt;
-
-Twilio：用量扩张叠加软件附加值
-
-&lt;p&gt;报告将Twilio定位为通信领域暴露度最广的公司。摩根士丹利强调，&lt;strong&gt;核心机会并不在于与AI助手的对话本身，而在于Agent完成任务过程中所触发的一系列通信行为——身份验证短信、预订确认及后续跟进消息，均构成增量通信用量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在语音层面，Twilio既可支持Agent发起外呼，也可支持企业侧接听。此外，Conversation Relay等软件附加产品，为Twilio提供了超越纯连接服务、在每次交互中获取更高收入的额外路径。&lt;/p&gt;
-&lt;p&gt;不过，摩根士丹利对短期业绩预期保持谨慎，并援引Twilio此前表态——该公司曾提示，上半年超出预期5%以上的表现不应被视为&amp;quot;新常态&amp;quot;，公司预计超额表现将有所收敛。&lt;/p&gt;
-
-网络基础设施：从流量逻辑转向交易逻辑
-
-&lt;p&gt;对于Wix和GoDaddy等网络基础设施提供商，报告认为Agent的兴起正在重构需求逻辑：网站的价值不再主要体现于承接人类访问流量，而在于能否支撑Agent发现商家、完成预订和交易的后端能力。&lt;/p&gt;
-&lt;p&gt;摩根士丹利认为，Wix的暴露度优于GoDaddy——后者规模较大的域名业务稀释了Agent浪潮的传导效应。Wix推出的MCP（模型上下文协议）和Headless策略，有望在外部AI平台主导网站生成或消费者界面的情况下，仍保留其作为后端运营层的角色，维系与商家在预订、电商及业务运营方面的核心关系。&lt;/p&gt;
-&lt;p&gt;报告同时提示，功能捆绑是一项货币化风险：将相关功能整合进GoDaddy Airo等更大平台，短期内可能促进用户留存，但未必能形成独立的付费升级收入。AI原生建站工具的竞争亦构成持续压力。&lt;/p&gt;
-
-电商基础设施：Shopify居于最有利位置
-
-&lt;p&gt;在电商软件赛道，摩根士丹利明确指出Shopify是最直接的受益者。报告认为，Shopify已构建Agent平台所需的核心基础设施——包括标准化实时商品与库存层Catalog、商家侧控制面板Agentic Storefronts，以及交易标准UCP。&lt;/p&gt;
-&lt;p&gt;这一体系的战略价值在于整合效率：Agent平台接入Shopify一次，即可覆盖数百万商家的数十亿件商品，无需与每个消费品牌单独谈判和维护对接关系，从而令Shopify在集成层面具备显著竞争优势。&lt;/p&gt;
-&lt;p&gt;此外，消费者发现路径的碎片化——从搜索、社交、零售媒体延伸至Agent渠道——进一步凸显了统一商务系统的价值。单一数据记录系统在整合与协调多渠道表现方面的能力愈发关键。报告还指出，随着Agent活动扩散，基于商品属性而非媒体投入的筛选机制，或将令平台上长尾小众品牌获得更多曝光。摩根士丹利表示，将就Shopify在Agent生态中的多层机会进行更深入的专项研究。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指集体收跌，创业板跌超2%，机器人逆势拉升，算力硬件、有色金属下挫，恒指、恒科指亦承压</title><link>https://wallstreetcn.com/articles/3782428</link><guid>dafa8765f2e3b9c7247790f6d5a327508522df4755b1ef0029fffd1e06b8133c</guid><pubDate>Thu, 24 Sep 2026 08:49:28 GMT</pubDate><description>&lt;p&gt;马斯克&amp;quot;千亿台&amp;quot;人形机器人预期叠加特斯拉宁波量产审厂，减速器、机器人执行器集体爆发，洛轴股份20cm涨停。PCB/覆铜板产业链全线下行，是当日跌幅最大的方向。光模块、光纤光缆、铜缆高速连接等方向集体下挫，中际旭创、新易盛、宁德时代等创业板权重股盘中明显调整，与创业板指跌2.68%的跌幅形成共振。&lt;/p&gt;
+&lt;p&gt;一旦投资者开始认真讨论6%的可达性，这场争论便超越了收益率短期冲高的范畴，演变为一场更深刻的拷问：廉价流动性时代是否已经终结，全球资产价格是否必须适应永久性更高的资本成本？这一问题的答案，将深刻左右未来数月的资产配置格局。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指集体收跌，创业板跌超2%，机器人逆势拉升，算力硬件、有色金属下挫，恒指、恒科指亦承压</title><link>https://wallstreetcn.com/articles/3782428</link><guid>dafa8765f2e3b9c7247790f6d5a327508522df4755b1ef0029fffd1e06b8133c</guid><pubDate>Thu, 24 Sep 2026 08:49:28 GMT</pubDate><description>&lt;p&gt;马斯克&amp;quot;千亿台&amp;quot;人形机器人预期叠加特斯拉宁波量产审厂，减速器、机器人执行器集体爆发，洛轴股份20cm涨停。PCB/覆铜板产业链全线下行，是当日跌幅最大的方向。光模块、光纤光缆、铜缆高速连接等方向集体下挫，中际旭创、新易盛、宁德时代等创业板权重股盘中明显调整，与创业板指跌2.68%的跌幅形成共振。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;9月24日，A股全天低开低走，上证指数早盘跌0.93%至3900点一线，午后跌幅扩大，尾盘失守3900点整数关口；深成指、创业板指因科技成长与有色、地产等周期方向集中调整而跌幅居前，双双跌超2%。&lt;/p&gt;
 &lt;p&gt;两年前的今天，也就是2024年9月24日，一系列重磅金融政策集中落地，市场突然放量大涨。当天沪指上涨4.15%，深成指上涨4.36%，创业板指上涨5.54%，超过5100只个股飘红。&lt;/p&gt;
@@ -982,4 +893,42 @@ Twilio：用量扩张叠加软件附加值
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，美国柴油价格升至每加仑6.50美元的历史新高，能源成本已成为白宫中期选举前的政治包袱。特朗普表态支持禁止柴油出口，但多名高级官员质疑其效果，两届政府对此均持审慎态度。&lt;/p&gt;
 &lt;p&gt;现货黄金跌0.12%至4281.9美元/盎司。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 江南布衣接手Marsèll大中华区运营，高端鞋履成为多品牌新落点</title><link>https://wallstreetcn.com/articles/3782456</link><guid>5499decf29ca9564efe39f333976cc656ebcb9f5ebcb120d6b7dd2f7134ae1bc</guid><pubDate>Thu, 24 Sep 2026 07:51:14 GMT</pubDate><description>&lt;p&gt;江南布衣进一步扩充品牌版图。&lt;/p&gt;
+&lt;p&gt;9月24日，江南布衣披露，已与意大利高端手工鞋履及皮具品牌Marsèll达成战略合作。江南布衣将独家负责该品牌在大中华区的运营，覆盖中国内地及港澳台市场，同时取得Marsèll在该区域的长期商标权益。&lt;/p&gt;
+&lt;p&gt;与江南布衣此前主要依靠内部孵化扩充品牌矩阵不同，Marsèll是一个已在海外市场运营多年的独立设计师品牌。此次合作意味着，江南布衣的多品牌业务开始由服装、童装和生活方式产品，进一步延伸至专业鞋履及皮具领域。&lt;/p&gt;
+&lt;p&gt;Marsèll于2001年创立于意大利威尼斯附近的布伦塔河沿岸。这里是意大利传统鞋履制造产业带，长期聚集制鞋工坊及奢侈品牌供应商。Marsèll以男女鞋为核心，同时销售手袋等皮具产品，产品在意大利威尼托地区制作，设计上强调皮革处理、手工饰面和结构变化。&lt;/p&gt;
+&lt;p&gt;从渠道看，Marsèll目前仍属于规模较小的高端设计师品牌。2023年12月，品牌在米兰开出首家旗舰店；在中国市场，Marsèll过去主要通过买手店及高端百货触达消费者，2026年春季曾在成都SKP开设限时零售空间，尚未形成广泛的直营网点。&lt;/p&gt;
+&lt;p&gt;这给江南布衣留下了本地化运营空间。其现有门店、会员体系和多品牌集合店可以为Marsèll提供初期触点，Marsèll则补充了江南布衣较为欠缺的独立高端鞋履及皮具产品。相较服装，鞋履更强调尺码、试穿和售后服务，线下渠道仍具有较强作用。&lt;/p&gt;
+&lt;p&gt;江南布衣最新业绩也显示，其增长方式正在发生变化。2026财年，公司实现收入60.46亿元，同比增长9%；净利润约9.97亿元，同比增长11.1%。截至2026年6月底，其实体零售店总数为2118家，较上一财年仅增加1家，线上收入则增长20.5%至14.48亿元。&lt;/p&gt;
+&lt;p&gt;在门店总量基本稳定的情况下，公司需要从单店效率、线上渠道和新品牌中寻找增量。2026财年，江南布衣新兴品牌组合收入达到4.78亿元，同比增长32.2%，但占总收入的比例仍为7.9%。主品牌JNBY依然贡献公司一半以上收入，新业务尚未改变整体收入结构。&lt;/p&gt;
+&lt;p&gt;江南布衣拥有超过61万个活跃会员账户，其中年度消费超过5000元的会员超过36万个。这批消费者对设计师品牌已有一定认知，是Marsèll进入中国市场可以利用的基础。&lt;/p&gt;
+&lt;p&gt;不过，贝恩数据显示，2025年中国内地个人奢侈品市场收缩3%至5%，消费者在购买高价商品时更加关注品质、实用性和价格合理性。Marsèll的手工制作和差异化设计具有辨识度，但相对有限的品牌知名度也意味着较高的市场教育成本。&lt;/p&gt;
+&lt;p&gt;取得区域商标权，使江南布衣能够以更长周期规划Marsèll在大中华区的渠道和产品策略。江南布衣能否在扩大销售的同时维持其产品定位，将决定这次合作最终能否成为新的业务增量。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价飙升叠加美联储加息预期升温，新兴市场股汇双双承压</title><link>https://wallstreetcn.com/articles/3782473</link><guid>ae11b936a6bef6c5f2f946b4878593cd144247cb5282cd3fd963c368dc28a633</guid><pubDate>Thu, 24 Sep 2026 12:16:11 GMT</pubDate><description>&lt;p&gt;印度股市创十周最大单日跌幅，保险佣金监管新规进一步打压金融板块；美元走强令新兴市场货币指数逼近六个月最大单日跌幅&lt;/p&gt;
+&lt;p&gt;印度股市周四遭遇十周来最惨烈的单日抛售，油价骤升引发通胀忧虑，叠加全球新兴市场在美联储进一步加息预期与强势美元压制下普遍走低，市场情绪明显恶化。与此同时，印度国内保险监管机构拟推出佣金上限新规，令金融板块雪上加霜。&lt;/p&gt;
+&lt;p&gt;Nifty 50指数收跌1.6%至23,063.10点，BSE Sensex指数下滑1.67%至73,580.54点，两大指数均创下自7月8日以来最大单日跌幅。布伦特原油价格当日上涨2.4%，报每桶105.6美元，美伊外交谈判陷入僵局，进一步提振油价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在更广泛的新兴市场层面，MSCI新兴市场货币指数当日下跌0.45%，逼近自3月19日以来最大单日跌幅，而MSCI新兴市场股票指数则下挫0.9%。10年期美国国债收益率飙升至2007年以来最高水平，美联储10月加息概率依据CME FedWatch工具显示已接近70%。&lt;/p&gt;
+
+油价反弹叠加地缘风险，冲击印度市场信心
+
+&lt;p&gt;油价重新站上每桶105美元的高位，令高度依赖原油进口的印度经济面临通胀压力。&lt;/p&gt;
+&lt;p&gt;Axis Direct衍生品与技术研究高级研究分析师Hemang Gor表示：&lt;strong&gt;&amp;quot;原油始终是影响印度市场的关键变量。油价在短暂跌破100美元后急速反弹，在国内市场刚刚企稳之际再度引发供应端担忧。&amp;quot;他同时指出，从技术面来看，只要Nifty仍运行于23,500点下方，市场整体基调偏空谨慎。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;印度16个主要行业板块悉数收跌，中小盘股同样未能幸免——小盘股下跌1.5%，中盘股跌幅则达2.3%。&lt;/p&gt;
+
+保险佣金监管新规出台，金融板块首当其冲
+
+&lt;p&gt;&lt;strong&gt;印度保险监管机构拟议出台的佣金改革方案，成为金融板块重挫的直接导火索。&lt;/strong&gt;新规核心内容包括：对佣金支出设置上限、将佣金与产品复杂度挂钩，并将寿险佣金的支付期限从首年延伸至此后年度。&lt;/p&gt;
+&lt;p&gt;银行板块与金融板块分别下跌2%和2.4%。PB Fintech当日暴跌36%，创下历史最大单日跌幅；Turtlemint Fintech重挫20%。&lt;/p&gt;
+&lt;p&gt;Motilal Oswal分析师在研报中指出，&amp;quot;保险经纪商及银行、非银行贷款机构所受的收入冲击将远超个人代理人&amp;quot;，并强调&amp;quot;银保渠道（bancassurance）正处于监管十字路口&amp;quot;。分析师警告称，若该系列重大监管变革落地实施，将对行业产生深远影响。&lt;/p&gt;
+
+美联储加息预期强化，新兴市场货币普遍承压
+
+&lt;p&gt;在全球层面，美国国债收益率的急升与美元走强共同对新兴市场资产构成压制。一份强于预期的采购经理人指数报告再度点燃通胀忧虑，五年期美债拍卖需求疲弱，推动10年期美债收益率升至2007年来高点。&lt;/p&gt;
+&lt;p&gt;法国巴黎银行中东欧、中东及非洲地区经济主管Jeffrey Schultz表示：&lt;strong&gt;&amp;quot;我们预期美联储至少还将加息两次，这将在下一季度为新兴市场货币带来更强的逆风。&lt;/strong&gt;我们正在进入一段对风险资产而言颇为危险的时期，南非兰特、匈牙利福林和巴西雷亚尔等多头仓位集中的高收益新兴市场货币，可能面临较大压力。&amp;quot;&lt;/p&gt;
+&lt;p&gt;据路透报道，南非兰特下跌0.4%，触及七周低位；匈牙利福林下滑0.2%；印度尼西亚卢比在亚洲货币中跌幅居首，达0.5%；韩元下跌0.3%。&lt;/p&gt;
+
+土耳其紧急处置逾百亿美元投资基金
+
+&lt;p&gt;在中东欧市场，土耳其的动态同样引发市场关注。据土耳其国家通讯社报道，土耳其财政部长Mehmet Simsek将于周四及周五举行一系列会议，就131只、合计规模约180亿美元的投资基金清算事宜进行磋商。此前土耳其当局已于上周出手干预，以维护股市动荡背景下的金融稳定。&lt;/p&gt;
+&lt;p&gt;土耳其基准股指当日下跌1.2%，里拉则基本持平。罗马尼亚基准股指下挫1.4%，波兰蓝筹股指数小跌0.3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
