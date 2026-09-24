@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 21:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 电网排队太久，AI数据中心转向“自发电” ，燃料电池站上C位</title><link>https://wallstreetcn.com/articles/3782450</link><guid>c35e91c17053491acdb0f1ce948df2fb2570d248ec57c6cb64fa9f39092fe13d</guid><pubDate>Thu, 24 Sep 2026 10:12:02 GMT</pubDate><description>&lt;p&gt;AI 数据中心的扩张节奏，眼下最先卡住的不是资金，而是电力。芯片与机房的订单都能提前锁定，把电送进园区的时间却在变长——在美国和欧洲，接入公共电网的排队时间未来五年还要继续拉长。当电力可得性取代资本开支成为部署的硬约束，自建自用、不必排队的「表后」方案被推到台前。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 21:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 电网排队太久，AI数据中心转向“自发电” ，燃料电池站上C位</title><link>https://wallstreetcn.com/articles/3782450</link><guid>c35e91c17053491acdb0f1ce948df2fb2570d248ec57c6cb64fa9f39092fe13d</guid><pubDate>Thu, 24 Sep 2026 10:12:02 GMT</pubDate><description>&lt;p&gt;AI 数据中心的扩张节奏，眼下最先卡住的不是资金，而是电力。芯片与机房的订单都能提前锁定，把电送进园区的时间却在变长——在美国和欧洲，接入公共电网的排队时间未来五年还要继续拉长。当电力可得性取代资本开支成为部署的硬约束，自建自用、不必排队的「表后」方案被推到台前。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，高盛 Michele Della Vigna 团队在 9 月 23 日的《Carbonomics: Behind-the-meter power solutions for data centers: gas turbines, fuel cells and reciprocating engines》中给出了一套把燃气轮机、燃料电池、往复式发动机并列打分的框架，&lt;strong&gt;并把 2030 年表后供电装机预测由 40GW 上调到 67GW。支撑这次上修的，是一组更快的用电读数。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;结论有两条：三条技术路线都会被用上；按交付速度与可用性重新配权后，燃料电池的综合得分排在最前。&lt;/p&gt;
 表后供电的盘子为什么突然变大
@@ -779,14 +779,7 @@
 &lt;p&gt;Meta强调，新工具继承了Facebook、Instagram和Horizon现有的安全基础设施。&lt;/p&gt;
 &lt;p&gt;所有生成内容在触达玩家前均须经过Meta内容安全系统审核，且安全护栏已嵌入创作流程本身。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;游戏在发布与分发前须经审核，并自动获得年龄分级，进入对应的年龄段访问层级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未成年人的保护机制，Horizon Studio正在创作者社区中进行测试，更大范围的访问权限即将开放，有意参与的用户可登记早期访问候补名单。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国房贷利率升至7%以上，创2025年初以来新高</title><link>https://wallstreetcn.com/articles/3782500</link><guid>d07d21e8b7585470da1e5f6c6f07d46a15fa896c29aff92e5b5e702e82a82143</guid><pubDate>Thu, 24 Sep 2026 18:39:28 GMT</pubDate><description>&lt;p&gt;美国抵押贷款利率自2025年1月以来首次升破7%，进一步加大了本已低迷的房地产市场压力。&lt;/p&gt;
-&lt;p&gt;房地美（Freddie Mac）周四在一份声明中表示，美国30年期固定利率抵押贷款平均利率升至7.03%，高于一周前的6.95%。一年前，该利率为6.3%。&lt;/p&gt;
-&lt;p&gt;借贷成本上升之际，美国国债市场遭遇抛售。周三10年期美债收益率上升4个基点至5.157%，再创近20年来最高水平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;不断攀升的利率正给卖家带来压力。根据Redfin汇编的数据，8月份美国市场上近五分之一的房屋出现了降价。&lt;/p&gt;
-&lt;p&gt;“当利率从6%多升到7%时，就会触及一个心理关口。”密西西比大学金融学教授Ken Johnson表示，“这意味着我们将看到市场放缓。”&lt;/p&gt;
-&lt;p&gt;Realtor高级经济学家Anthony Smith也持类似看法。他表示，7%这一关口“既是心理上的，也是数学上的”，而且这一关口恰好出现在通常买方议价能力开始增强的季节性阶段。&lt;/p&gt;
-&lt;p&gt;美国联邦政府周四公布的数据显示，&lt;a href="https://wallstreetcn.com/articles/3782487"&gt;8月份美国新屋销售中位价同比下降5.8%&lt;/a&gt;，至39.37万美元。这是自2025年7月以来最大的同比降幅，也反映出售价低于30万美元的新屋签约量有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息预期升温，全球政府债券平均收益率逼近4%，创2007年以来新高</title><link>https://wallstreetcn.com/articles/3782469</link><guid>78710e676c767d43903c394379441ee3a5ab1e27b3db1f239927b322a6af778e</guid><pubDate>Thu, 24 Sep 2026 10:42:47 GMT</pubDate><description>&lt;p&gt;全球债券市场正面临新一轮抛售压力，通胀回落不及预期、财政融资需求高企，推动市场重新评估利率路径，“高利率维持更久”的预期持续升温。&lt;/p&gt;
+&lt;p&gt;面向未成年人的保护机制，Horizon Studio正在创作者社区中进行测试，更大范围的访问权限即将开放，有意参与的用户可登记早期访问候补名单。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息预期升温，全球政府债券平均收益率逼近4%，创2007年以来新高</title><link>https://wallstreetcn.com/articles/3782469</link><guid>78710e676c767d43903c394379441ee3a5ab1e27b3db1f239927b322a6af778e</guid><pubDate>Thu, 24 Sep 2026 10:42:47 GMT</pubDate><description>&lt;p&gt;全球债券市场正面临新一轮抛售压力，通胀回落不及预期、财政融资需求高企，推动市场重新评估利率路径，“高利率维持更久”的预期持续升温。&lt;/p&gt;
 &lt;p&gt;9月24日周四，据彭博报道，&lt;strong&gt;彭博全球综合国债指数收益率周三上涨8个基点至3.99%，距离4%关口仅一步之遥，达到2007年以来罕见水平，单日涨幅创5月以来最大。&lt;/strong&gt;与此同时，美国五年期国债收益率突破5%，为2007年以来首次。互换市场目前已计入未来一年三次25个基点加息预期，第四次加息的预期也明显升温。&lt;/p&gt;
 &lt;p&gt;债市抛售的影响也正在向其他资产和实体经济传导。政府、企业及家庭的融资成本面临上行压力，更高的无风险收益率也会抬高股票等风险资产的折现率，压制其估值。与此同时，债市波动率明显攀升，ICE美银MOVE指数周三升至3月以来最高水平，进一步提高了投资者入场的谨慎程度。&lt;/p&gt;
 五年期拍卖需求疲弱，美债收益率持续走高
@@ -801,7 +794,14 @@
 高通胀与高财政需求支撑高收益率，投资者等待波动降温
 &lt;p&gt;报道援引市场人士认为，本轮债券抛售具有一定基本面支撑。Pendal Group基金经理Amy Xie Patrick表示，&lt;strong&gt;多个经济体的通胀仍然高企且具有粘性，劳动力市场保持紧张，即使燃料及各类商品价格上涨，经济仍维持良好增长，在这一背景下，债券表现与当前经济基本面相符。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;面对持续抛售，投资者策略出现分化。Ericsenz Capital首席投资官Damien Loh认为，短期债券估值已经显得便宜，但并不建议立即逆势入场；对于希望从抛售中寻找机会的投资者，他更倾向于收益率曲线陡峭化交易，例如2年/10年或5年/30年利差策略，认为其风险回报比更为合理。&lt;/p&gt;
-&lt;p&gt;TD Securities策略师Hans Mikkelsen则指出，当前固定收益市场的矛盾在于，投资者希望获得更高收益率，却不希望收益率继续快速上行。“他们害怕接住一把下落的飞刀。”不断攀升的债市波动率，正成为潜在买家迟迟不愿入场的主要障碍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市抛售加剧，30年期美债收益率创逾20年新高，美股指低开，布油涨破100</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 13:32:51 GMT</pubDate><description>&lt;p&gt;美国经济数据强劲叠加五年期美债拍卖需求疲软，引发全球债券抛售、美债收益率飙升，市场重新定价美联储加息路径，风险资产承压。&lt;/p&gt;
+&lt;p&gt;TD Securities策略师Hans Mikkelsen则指出，当前固定收益市场的矛盾在于，投资者希望获得更高收益率，却不希望收益率继续快速上行。“他们害怕接住一把下落的飞刀。”不断攀升的债市波动率，正成为潜在买家迟迟不愿入场的主要障碍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国房贷利率升至7%以上，创2025年初以来新高</title><link>https://wallstreetcn.com/articles/3782500</link><guid>d07d21e8b7585470da1e5f6c6f07d46a15fa896c29aff92e5b5e702e82a82143</guid><pubDate>Thu, 24 Sep 2026 18:39:28 GMT</pubDate><description>&lt;p&gt;美国抵押贷款利率自2025年1月以来首次升破7%，进一步加大了本已低迷的房地产市场压力。&lt;/p&gt;
+&lt;p&gt;房地美（Freddie Mac）周四在一份声明中表示，美国30年期固定利率抵押贷款平均利率升至7.03%，高于一周前的6.95%。一年前，该利率为6.3%。&lt;/p&gt;
+&lt;p&gt;借贷成本上升之际，美国国债市场遭遇抛售。周三10年期美债收益率上升4个基点至5.157%，再创近20年来最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;不断攀升的利率正给卖家带来压力。根据Redfin汇编的数据，8月份美国市场上近五分之一的房屋出现了降价。&lt;/p&gt;
+&lt;p&gt;“当利率从6%多升到7%时，就会触及一个心理关口。”密西西比大学金融学教授Ken Johnson表示，“这意味着我们将看到市场放缓。”&lt;/p&gt;
+&lt;p&gt;Realtor高级经济学家Anthony Smith也持类似看法。他表示，7%这一关口“既是心理上的，也是数学上的”，而且这一关口恰好出现在通常买方议价能力开始增强的季节性阶段。&lt;/p&gt;
+&lt;p&gt;美国联邦政府周四公布的数据显示，&lt;a href="https://wallstreetcn.com/articles/3782487"&gt;8月份美国新屋销售中位价同比下降5.8%&lt;/a&gt;，至39.37万美元。这是自2025年7月以来最大的同比降幅，也反映出售价低于30万美元的新屋签约量有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市抛售加剧，30年期美债收益率创逾20年新高，美股指低开，布油涨破100</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 13:32:51 GMT</pubDate><description>&lt;p&gt;美国经济数据强劲叠加五年期美债拍卖需求疲软，引发全球债券抛售、美债收益率飙升，市场重新定价美联储加息路径，风险资产承压。&lt;/p&gt;
 &lt;p&gt;美股三大股指集体低开，道指跌0.19%，标普500指数跌0.51%，纳指跌0.75%。甲骨文跌超5%，公司就新墨西哥州数据中心发布不可抗力声明。油价走高，布伦特原油涨2%。黄金小幅下跌0.2%，交投于每盎司4280美元附近。随着利率上升，这类不产生收益的资产吸引力有所下降。&lt;/p&gt;
 &lt;p&gt;10年期美国国债收益率上涨2个基点至5.14%，为2007年以来最高。美国30年期国债收益率升至2004年以来最高水平。彭博美元指数徘徊在7月以来高位附近，交易员押注美联储将进一步加息。美债市场的抛售也蔓延至亚太地区，日本、澳大利亚、新西兰及新兴市场债券价格普遍下跌。&lt;/p&gt;
 &lt;p&gt;富国银行投资研究所的托尼·米亚诺表示：“市场正在告诉我们，我们已经进入了一个真正的重新紧缩周期。整个收益率曲线都在同时重新定价，这意味着股票的贴现率上升，抵押贷款和企业借贷成本上升，风险资产的门槛也更高。”&lt;/p&gt;
