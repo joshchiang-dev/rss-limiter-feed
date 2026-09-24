@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 17:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] 日元再逼近160，瑞银警告：空头“洗净”后，做空窗口重启</title><link>https://wallstreetcn.com/articles/3782440</link><guid>727608a048e11eda99e9f2332a5e2b50e4155c864d91aae67a0d2b3f9e912c26</guid><pubDate>Thu, 24 Sep 2026 06:48:25 GMT</pubDate><description>&lt;p&gt;日元持续承压，干预风险重燃，而市场结构的微妙变化正在为新一轮空头攻势埋下伏笔。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 18:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌Gemini 3.8 Live上线"数字人"实时对话，支持多国语言与口型同步</title><link>https://wallstreetcn.com/articles/3782495</link><guid>38fa29a0578220876dd405468e14df68eb105776078cc7379ea27016318bb136</guid><pubDate>Thu, 24 Sep 2026 17:59:38 GMT</pubDate><description>&lt;p&gt;谷歌云旗下Gemini 3.8 Live with Live Avatar功能正式面向企业用户全面开放，将实时视频虚拟形象与多语言语音对话能力整合为一体，标志着企业级对话式AI从纯语音交互向多模态视觉交互迈进。&lt;/p&gt;
+&lt;p&gt;该功能于本周正式在Gemini Enterprise中上线，此前已在Google Cloud Next 2026上完成预览展示。&lt;/p&gt;
+&lt;p&gt;新版本支持视频虚拟形象的实时唇形同步、97种语言自动识别与切换，以及后台工具调用与API执行，同时提供美国和欧盟双区域端点部署，满足企业合规与数据治理要求。&lt;/p&gt;
+&lt;p&gt;从客户落地情况来看，Cox Automotive已将该技术应用于旗下Autotrader平台，构建了可实时高亮屏幕内容、引导消费者完成车辆搜索与融资流程的购车AI助手；印度AI公司Equal AI则表示，基于Gemini 3.8 Live，其平台目前每日处理超过百万次实时通话，覆盖九种印度语言。&lt;/p&gt;
+&lt;p&gt;这是谷歌本周第二次发布新的人工智能模型。周三，&lt;a href="https://wallstreetcn.com/articles/3782399?keyword=%E8%B0%B7%E6%AD%8C"&gt;谷歌宣布推出Gemini 3.8 Flash TTS和Gemini 3.8 Flash-Lite TTS两款文本转语音模型。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;周四截至发稿，谷歌盘中上涨0.66%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+核心功能：多模态融合，超越语音基础能力
+
+&lt;p&gt;Gemini 3.8 Live with Live Avatar在原有语音基础上引入视觉交互层，主要面向网页端、移动端及实体交互终端（interactive kiosks）等多种部署场景。&lt;/p&gt;
+&lt;p&gt;在对话连贯性方面，该模型采用原生语音到语音（speech-to-speech）架构，支持自然打断恢复，且不会丢失对话上下文或中断后台事务处理。&lt;/p&gt;
+&lt;p&gt;工具调用能力方面，模型可在持续对话的同时，在后台异步执行工具调用与API请求，让交互体验更为流畅，不因后台任务而产生明显停顿。&lt;/p&gt;
+&lt;p&gt;视觉理解方面，Live Avatar支持实时摄像头画面与屏幕共享的同步处理，可与音频输入并行分析，为服务场景提供更丰富的上下文感知能力。&lt;/p&gt;
+&lt;p&gt;语言覆盖上，97种语言支持及自动检测功能，使其具备面向全球多语言市场的规模化部署潜力。&lt;/p&gt;
+
+信任机制：水印技术与身份管控并行
+
+&lt;p&gt;针对深度伪造及身份滥用风险，谷歌在该功能的合规设计上采取了双层管控策略。&lt;/p&gt;
+&lt;p&gt;在虚拟形象使用层面，企业用户可从谷歌提供的预建虚拟形象库中进行部署；而自定义虚拟形象功能则设有严格的企业白名单与身份核验机制，&lt;/p&gt;
+&lt;p&gt;目前仅限申请通过的企业使用。在内容溯源层面，所有生成的音频与视频流均嵌入谷歌SynthID不可感知水印，以确保AI生成内容在传播过程中保持可识别性与可验证性。&lt;/p&gt;
+&lt;p&gt;这一机制的引入，一定程度上回应了企业部署对话式AI时面临的监管合规压力，尤其是在金融服务、医疗及客户服务等强监管行业。&lt;/p&gt;
+
+客户落地：从购车助手到百万级通话场景
+
+&lt;p&gt;目前已有多家企业披露基于Gemini 3.8 Live的应用进展，涵盖汽车电商、电信客服及CRM等多个垂直领域。&lt;/p&gt;
+&lt;p&gt;Cox Automotive首席产品官Marianne Johnson表示，Autotrader的对话式AI虚拟形象将自然语言描述与库存匹配相结合，是其&amp;quot;连接智能&amp;quot;愿景落地的重要步骤，该愿景旨在让每次消费者互动均能调用Cox Automotive的完整数据资产。&lt;/p&gt;
+&lt;p&gt;Equal AI首席执行官Akhilesh Damaraju称，借助Gemini 3.8 Live在打断处理、多语言对话及工具调用稳定性方面的改进，该平台现已实现每日超百万次实时通话处理，覆盖九种印度语言，目标是构建&amp;quot;了解你、说你的语言、始终站在你这边&amp;quot;的个人AI。&lt;/p&gt;
+&lt;p&gt;Salesforce Agentforce产品副总裁Bob Van Osten表示，Salesforce AI Research与谷歌的合作旨在探索实时多模态能力与代理式AI的结合，以打造从首次接触到问题解决全流程的客户服务体验。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日元再逼近160，瑞银警告：空头“洗净”后，做空窗口重启</title><link>https://wallstreetcn.com/articles/3782440</link><guid>727608a048e11eda99e9f2332a5e2b50e4155c864d91aae67a0d2b3f9e912c26</guid><pubDate>Thu, 24 Sep 2026 06:48:25 GMT</pubDate><description>&lt;p&gt;日元持续承压，干预风险重燃，而市场结构的微妙变化正在为新一轮空头攻势埋下伏笔。&lt;/p&gt;
 &lt;p&gt;美元兑日元在日本假期结束后迅速升至158上方，&lt;strong&gt;距离160关口仅一步之遥&lt;/strong&gt;。日本央行上周五&lt;a href="https://wallstreetcn.com/articles/3782052"&gt;加息25个基点&lt;/a&gt;，但行长&lt;a href="https://wallstreetcn.com/articles/3782067"&gt;植田和男随后的表态未能满足市场对进一步紧缩的预期&lt;/a&gt;，日元不升反跌，两周累计跌幅显著。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，日本10年期国债收益率周四跳升10个基点至3.075%，创1996年以来新高，全球债市抛售浪潮与国内财政压力形成共振，进一步加剧市场动荡。&lt;/p&gt;
@@ -808,36 +837,7 @@ AI热潮被视为需求冲击，生产率前景存变数
 &lt;p&gt;Jensen Huang，非常感谢你。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Jensen Huang：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;非常感谢你，Ezra，一如既往。我总是很享受我们在一起的时光，今天也是非常美好的一次。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道称美伊探讨分阶段重启霍尔木兹海峡，原油涨幅火速“腰斩”</title><link>https://wallstreetcn.com/articles/3782499</link><guid>8fac79209113071be9135a1eacc93ac2b06571e6812f1e2730b6e49e2836987a</guid><pubDate>Thu, 24 Sep 2026 17:15:14 GMT</pubDate><description>&lt;p&gt;一则有关美国和伊朗考虑分阶段重启霍尔木兹海峡的消息迅速引爆油市：此前盘中一度涨约5%的国际原油期货快速回吐多数涨幅。市场对美伊外交出现突破的预期迅速压低此前因地缘风险而积累的油价涨幅。&lt;/p&gt;
-&lt;p&gt;美东时间24日周四美股午盘之初，路透社援引伊朗消息人士、两名地区官员和两名西方外交消息人士称，美国和伊朗谈判代表正在纽约探讨一条分阶段结束战争的路径，其中包括伊朗重新开放霍尔木兹海峡、美国解除对伊朗的经济封锁，伊朗还可能获得部分被冻结资产。&lt;/p&gt;
-&lt;p&gt;消息传出后，美国WTI原油一度跌回93.30美元下方，日内涨幅收窄至约1%；布伦特原油曾跌破99美元至98.70美元下方，日内涨不到0.6%。不过回落势头未持续，此后，美油和布油的盘中涨幅分别扩大到1.5%和2%以上。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在这一消息传出前，国际原油期货在周三反弹后加速上行，周四美股早盘刷新日高时，美油涨至96.78美元，布油108.23美元，日内均涨约5%。&lt;/p&gt;
-&lt;p&gt;媒体认为，油价周四盘中曾加速反弹的一大推手是，市场认为美伊外交谈判进展有限，另一个主要原因是，也门胡塞武装向沙特发射导弹。据新华社，沙特主导的联军24日称，拦截6枚也门胡塞武装导弹。&lt;/p&gt;
-美伊探索“海峡换解封”方案曝光
-&lt;p&gt;路透社报道称，一名伊朗高级官员表示，当前打破谈判僵局最可行的方式，是达成一项分阶段安排：伊朗允许船只通过霍尔木兹海峡，作为交换，美国解除对伊朗的经济封锁，还可能解冻此前被冻结的伊方资产。&lt;/p&gt;
-&lt;p&gt;这意味着，霍尔木兹海峡的重新开放，可能成为美伊谈判中一项关键的交换条件。&lt;/p&gt;
-&lt;p&gt;路透社援引消息人士称，美伊谈判目前面临的一个主要障碍是，双方都不愿率先放弃自己的筹码。伊朗希望通过海峡通行权换取美国解除经济压力，美国则希望确保这一全球关键石油运输通道恢复稳定、自由的航运。&lt;/p&gt;
-&lt;p&gt;按照这一分阶段设想，伊朗可能首先允许船只逐步恢复通过霍尔木兹海峡，美国则相应采取解除经济封锁等措施。伊朗方面还可能获得被冻结资产。&lt;/p&gt;
-&lt;p&gt;不过，路透社强调，目前这仍是谈判中的方案，双方尚未达成协议，谈判仍存在明显分歧。&lt;/p&gt;
-&lt;p&gt;前述伊朗高官称，伊朗寻求外交解决途径，但也正为可能与美国爆发新冲突做准备，并指责美国利用经济封锁和武力威胁作为胁迫手段。该官员称：“我们已做好随时开战的准备。美国人知道自己该做什么，但由于他们提出的要求过高，通过外交手段解决这一问题的几率极低。”&lt;/p&gt;
-&lt;p&gt;此外，海湾地区的消息人士透露，伊朗愿意放弃在主协议中纳入使用霍尔木兹海峡需支付过境费这一要求，转而将其列入补充条款，因为解除封锁已成为更紧迫的优先事项。海湾国家已拒绝了关于支付过境费的提议。地区消息人士指出，任何此类安排都将是临时性的，并不代表伊朗正式放弃其既定立场。&lt;/p&gt;
-油价此前为何大涨？
-&lt;p&gt;在路透社上述消息传出之前，国际油价周四已经连续第二个交易日反弹。&lt;/p&gt;
-&lt;p&gt;此前，国际原油期货已经连续五个交易日收跌，周四在地缘风险重新升温的推动下一度明显上涨，WTI和布伦特原油盘中涨幅均一度达到约5%。&lt;/p&gt;
-&lt;p&gt;其中一个重要背景是，市场认为美伊外交谈判进展有限，意味着霍尔木兹海峡供应风险可能持续更长时间。&lt;/p&gt;
-&lt;p&gt;《华尔街日报》提及原油盘中大涨时就将“美国与伊朗外交进展有限”作为油价上涨的重要背景之一。路透社当天的报道也指出，油价周四一度涨至一周来盘中高位，原因包括伊朗支持的胡塞武装向沙特发射导弹，以及美伊外交谈判没有明显进展。&lt;/p&gt;
-&lt;p&gt;据新华社，沙特阿拉伯主导的多国联军发言人图尔基·马利基24日在社交媒体上说，多国联军当天拦截并摧毁也门胡塞武装发射的6枚弹道导弹，袭击针对沙特塔伊夫和延布两座城市。&lt;/p&gt;
-&lt;p&gt;也就是说，在路透社最新消息传出之前，油市交易的核心逻辑还是“外交缺乏进展→战争和供应风险持续→霍尔木兹海峡可能继续受扰→油价风险溢价上升”。&lt;/p&gt;
-&lt;p&gt;而随着“美伊正在研究分阶段重启霍尔木兹海峡”的消息出现，这一逻辑迅速发生变化。&lt;/p&gt;
-霍尔木兹海峡成为关键筹码
-&lt;p&gt;霍尔木兹海峡之所以能够如此迅速地撬动油价，在于它是全球最重要的能源运输通道之一。&lt;/p&gt;
-&lt;p&gt;在当前美伊冲突背景下，海峡通航状况一直是国际原油市场关注的核心变量。此前市场已经持续交易海峡受阻可能造成的供应风险，而一旦美伊谈判能够推动海峡重新开放，市场对于供应中断的担忧就可能明显降温。&lt;/p&gt;
-&lt;p&gt;因此，周四油价出现的剧烈波动，本质上是市场在两个情景之间快速切换：&lt;/p&gt;
-&lt;p&gt;此前交易的是美伊谈判进展有限、海峡风险持续；而路透社报道传出后，市场开始交易美伊存在分阶段解决方案、海峡可能重新开放。&lt;/p&gt;
-&lt;p&gt;值得注意的是，路透社报道并未意味着美伊已经达成协议。报道援引的消息人士同时指出，双方仍然存在重大分歧，尤其是如何安排双方同时释放手中的筹码。&lt;/p&gt;
-&lt;p&gt;因此，对于油市而言，后续真正重要的并不是“分阶段方案”这一消息本身，而是这一设想能否进一步转化为具体协议，以及霍尔木兹海峡能否真正恢复稳定通航。&lt;/p&gt;
-&lt;p&gt;在此之前，任何有关美伊谈判进展、海峡通航以及地区袭击事件的新消息，都可能继续引发油价的大幅波动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息预期升温，全球政府债券平均收益率逼近4%，创2007年以来新高</title><link>https://wallstreetcn.com/articles/3782469</link><guid>78710e676c767d43903c394379441ee3a5ab1e27b3db1f239927b322a6af778e</guid><pubDate>Thu, 24 Sep 2026 10:42:47 GMT</pubDate><description>&lt;p&gt;全球债券市场正面临新一轮抛售压力，通胀回落不及预期、财政融资需求高企，推动市场重新评估利率路径，“高利率维持更久”的预期持续升温。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息预期升温，全球政府债券平均收益率逼近4%，创2007年以来新高</title><link>https://wallstreetcn.com/articles/3782469</link><guid>78710e676c767d43903c394379441ee3a5ab1e27b3db1f239927b322a6af778e</guid><pubDate>Thu, 24 Sep 2026 10:42:47 GMT</pubDate><description>&lt;p&gt;全球债券市场正面临新一轮抛售压力，通胀回落不及预期、财政融资需求高企，推动市场重新评估利率路径，“高利率维持更久”的预期持续升温。&lt;/p&gt;
 &lt;p&gt;9月24日周四，据彭博报道，&lt;strong&gt;彭博全球综合国债指数收益率周三上涨8个基点至3.99%，距离4%关口仅一步之遥，达到2007年以来罕见水平，单日涨幅创5月以来最大。&lt;/strong&gt;与此同时，美国五年期国债收益率突破5%，为2007年以来首次。互换市场目前已计入未来一年三次25个基点加息预期，第四次加息的预期也明显升温。&lt;/p&gt;
 &lt;p&gt;债市抛售的影响也正在向其他资产和实体经济传导。政府、企业及家庭的融资成本面临上行压力，更高的无风险收益率也会抬高股票等风险资产的折现率，压制其估值。与此同时，债市波动率明显攀升，ICE美银MOVE指数周三升至3月以来最高水平，进一步提高了投资者入场的谨慎程度。&lt;/p&gt;
 五年期拍卖需求疲弱，美债收益率持续走高
