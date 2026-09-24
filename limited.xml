@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 12:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 日元再逼近160，瑞银警告：空头“洗净”后，做空窗口重启</title><link>https://wallstreetcn.com/articles/3782440</link><guid>727608a048e11eda99e9f2332a5e2b50e4155c864d91aae67a0d2b3f9e912c26</guid><pubDate>Thu, 24 Sep 2026 06:48:25 GMT</pubDate><description>&lt;p&gt;日元持续承压，干预风险重燃，而市场结构的微妙变化正在为新一轮空头攻势埋下伏笔。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 13:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 日元再逼近160，瑞银警告：空头“洗净”后，做空窗口重启</title><link>https://wallstreetcn.com/articles/3782440</link><guid>727608a048e11eda99e9f2332a5e2b50e4155c864d91aae67a0d2b3f9e912c26</guid><pubDate>Thu, 24 Sep 2026 06:48:25 GMT</pubDate><description>&lt;p&gt;日元持续承压，干预风险重燃，而市场结构的微妙变化正在为新一轮空头攻势埋下伏笔。&lt;/p&gt;
 &lt;p&gt;美元兑日元在日本假期结束后迅速升至158上方，&lt;strong&gt;距离160关口仅一步之遥&lt;/strong&gt;。日本央行上周五&lt;a href="https://wallstreetcn.com/articles/3782052"&gt;加息25个基点&lt;/a&gt;，但行长&lt;a href="https://wallstreetcn.com/articles/3782067"&gt;植田和男随后的表态未能满足市场对进一步紧缩的预期&lt;/a&gt;，日元不升反跌，两周累计跌幅显著。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，日本10年期国债收益率周四跳升10个基点至3.075%，创1996年以来新高，全球债市抛售浪潮与国内财政压力形成共振，进一步加剧市场动荡。&lt;/p&gt;
@@ -494,32 +494,7 @@
 &lt;p&gt;除货币政策因素外，&lt;strong&gt;日本政府的财政支出前景同样令投资者不安&lt;/strong&gt;。据悉，日本政府正考虑将中期防卫预算目标设定为GDP的3.5%，以符合北约及其他美国盟友的标准。这一消息加剧了市场对首相高市早苗整体支出计划的担忧。&lt;/p&gt;
 &lt;p&gt;在持续通胀与财政扩张预期的双重压力下，投资者要求对持有日本国债给予更高的风险溢价补偿，进一步推动了这波抛售潮。收益率的持续攀升，意味着日本政府未来的债务融资成本将显著上升，财政可持续性问题再度引发市场关注。&lt;/p&gt;
 &lt;p&gt;分析认为，此次日美债市的同步大幅走高，标志着全球主要经济体的长期借贷成本正在经历系统性重定价。&lt;/p&gt;
-&lt;p&gt;日本债市的特殊性在于，其长期以来是全球低利率环境的重要锚点。&lt;strong&gt;随着日本国债收益率加速上行，部分依赖日元套利交易的全球资产配置策略面临重新审视的压力，市场波动性或将进一步上升。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电网排队太久，AI数据中心转向“自发电” ，燃料电池站上C位</title><link>https://wallstreetcn.com/articles/3782450</link><guid>c35e91c17053491acdb0f1ce948df2fb2570d248ec57c6cb64fa9f39092fe13d</guid><pubDate>Thu, 24 Sep 2026 10:12:02 GMT</pubDate><description>&lt;p&gt;AI 数据中心的扩张节奏，眼下最先卡住的不是资金，而是电力。芯片与机房的订单都能提前锁定，把电送进园区的时间却在变长——在美国和欧洲，接入公共电网的排队时间未来五年还要继续拉长。当电力可得性取代资本开支成为部署的硬约束，自建自用、不必排队的「表后」方案被推到台前。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，高盛 Michele Della Vigna 团队在 9 月 23 日的《Carbonomics: Behind-the-meter power solutions for data centers: gas turbines, fuel cells and reciprocating engines》中给出了一套把燃气轮机、燃料电池、往复式发动机并列打分的框架，&lt;strong&gt;并把 2030 年表后供电装机预测由 40GW 上调到 67GW。支撑这次上修的，是一组更快的用电读数。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;结论有两条：三条技术路线都会被用上；按交付速度与可用性重新配权后，燃料电池的综合得分排在最前。&lt;/p&gt;
-表后供电的盘子为什么突然变大
-&lt;p&gt;需求侧的读数先变了。&lt;strong&gt;全球数据中心容量 2030 年预计达到 217GW，高于 2025 年的 101GW；美国数据中心需求同期达到 108GW。由此推算，2030 年全球数据中心用电需求较 2025 年增长 170%，其中六成以上来自美国。&lt;/strong&gt;这组增速高于此前假设，与电网的交付能力直接对撞。&lt;/p&gt;
-&lt;p&gt;电网一侧的交付能力在退化。美国电网互联申请到商业运行的周期中位数，在 2023—2024 年完成的项目上已逼近五年；新建高压输电线从 2010—2014 年的年均约 1,700 英里，降到 2020—2023 年的年均 350 英里。输电与发电设施通常要建五到十年，规划流程也跟不上这一轮涌入。&lt;/p&gt;
-&lt;p&gt;需求上修与电网变慢叠加，落在表后侧的结论就是这次预测上修：表后发电装机由 40GW 升至 67GW，且三条路线都不可或缺。&lt;/p&gt;
-三条路线各自卡在哪
-&lt;p&gt;常规燃气的瓶颈已从技术成熟度转到产能与交期。正常市况下大型燃气项目从下单到投产约需两到三年，如今联合循环燃气轮机的交付周期是四到七年，单循环为 18 至 36 个月，重型燃机普遍拉长到约五到七年。厂商扩产不足以马上改变紧平衡：GE Vernova 年底合约量将超过 125GW，2030 年产能已经售罄，2031 年过半的产能位也已预售；西门子能源的积压接近 69GW，另有 27GW 预订，隐含交期约三到四年；三菱重工在谈的项目要排到 2030 年代交付。&lt;/p&gt;
-&lt;p&gt;燃料电池的强项是落地速度与可用性，不在发电成本。模块化项目的交付窗口约 12 至 24 个月，无需并入电网，满载运行时间最高，需要多配的备用容量最少。&lt;/p&gt;
-&lt;p&gt;这套评分把交付速度（20%）、可用性（15%）、平准化电价（15%）与初始资本开支（10%）加总，逾六成权重压在执行侧而非经济性上。结果燃料电池 76.6 分居首，航改型燃气轮机 68.2 分，是最均衡的常规方案，往复式发动机 67.0 分，重型燃机与联合循环 59.6 分。评分并不掩盖短处：燃料电池的平准化电价约 117 美元/兆瓦时，比联合循环与往复式高约 45%。&lt;/p&gt;
-燃料电池的机会有多大，谁能拿到
-&lt;p&gt;按文中测算，&lt;strong&gt;燃料电池 2030 年对应美国约 12GW、全球约 18GW 的装机，折合累计设备市场约 350 亿美元（美国）与 550 亿美元（全球）。燃气表后加燃料电池合计可覆盖 2030 年美国约 28%、全球约 25% 的数据中心用电，而 2025 年这一比例接近于零。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;供给端的缺口更清楚。按满产与 85% 利用率，Bloom Energy 的 2GW 扩产到 2030 年可累计交付约 7.7GW 固体氧化物燃料电池，远低于约 18GW 的全球装机预测；要兑现预测，需要多家厂商同时扩产，包括 Ceres Power 的被许可方斗山、台达电子与潍柴动力。&lt;/p&gt;
-&lt;p&gt;受益标的按路线分开：燃料电池一侧是 Ceres Power、潍柴动力与台达电子，燃气表后一侧是 GE Vernova、西门子能源、三菱重工与 INNIO。&lt;/p&gt;
-接下来看什么
-&lt;p&gt;&lt;strong&gt;结果指标看厂商季度披露：&lt;/strong&gt;燃机与燃料电池厂商的订单、积压量与产能售罄年份，涉及 GE Vernova、西门子能源、三菱重工，以及 Ceres Power 及其被许可方斗山、台达电子、潍柴动力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机制指标看三件事：&lt;/strong&gt;数据中心自备电站的采购与并网公告是否继续增多，燃机交付周期是否继续拉长，燃料电池的单位成本与交付周期是否按预测下行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;反证条件：&lt;/strong&gt;如果公共电网扩容让接入排队显著缩短，或者燃料电池成本下降不及预期、交付周期反而拉长，表后供电占比与燃料电池份额的预测都需要下修。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;验证窗口：&lt;/strong&gt;2026年10月15日至2026年11月15日，即三季度财报窗口，以及后续自备电源采购公告的披露日。&lt;/p&gt;
-&lt;p&gt;电力瓶颈在重塑选型顺序，而选型顺序在重塑这一轮订单的归属。40GW 到 67GW 是一次上修，不是已经兑现的产能；接下来要盯的是交期与订单有没有继续往执行侧倾斜，以及燃料电池的成本曲线是否按预测下行。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浙商资管换帅，“掌门”交给30年经验券业老将</title><link>https://wallstreetcn.com/articles/3782471</link><guid>4e564c8f1c47f4151613a84ad284831606de15ead1bcfff1369dec411e317014</guid><pubDate>Thu, 24 Sep 2026 10:30:41 GMT</pubDate><description>&lt;p&gt;9月24日，浙江浙商证券资产管理有限公司（下称“浙商资管”）发布《高级管理人员变更公告》。楼小平新任董事长、总经理，盛建龙因工作调整于同日离任，且不再转任公司其他工作岗位。&lt;/p&gt;
+&lt;p&gt;日本债市的特殊性在于，其长期以来是全球低利率环境的重要锚点。&lt;strong&gt;随着日本国债收益率加速上行，部分依赖日元套利交易的全球资产配置策略面临重新审视的压力，市场波动性或将进一步上升。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 浙商资管换帅，“掌门”交给30年经验券业老将</title><link>https://wallstreetcn.com/articles/3782471</link><guid>4e564c8f1c47f4151613a84ad284831606de15ead1bcfff1369dec411e317014</guid><pubDate>Thu, 24 Sep 2026 10:30:41 GMT</pubDate><description>&lt;p&gt;9月24日，浙江浙商证券资产管理有限公司（下称“浙商资管”）发布《高级管理人员变更公告》。楼小平新任董事长、总经理，盛建龙因工作调整于同日离任，且不再转任公司其他工作岗位。&lt;/p&gt;
 &lt;p&gt;上述事项已经公司第三届董事会第四十六次会议审议通过，并按规定向监管机构备案。&lt;/p&gt;
 &lt;p&gt;一方面，浙商资管仍旧延续了“董事长、总经理一肩挑”的安排。另一方面，“挑担子”的从财务出身的盛建龙，换成资管业务出身的楼小平。&lt;/p&gt;
 &lt;strong&gt;三十年&lt;/strong&gt;&lt;strong&gt;券业&lt;/strong&gt;&lt;strong&gt;老将&lt;/strong&gt;
@@ -606,7 +581,32 @@ Muse是什么：从聊天机器人到&amp;quot;代劳型&amp;quot;AI代理
 &lt;p&gt;摩根大通的判断是，Muse有潜力成为自ChatGPT以来最具影响力的消费级AI应用；但批评者则将其与元宇宙相提并论——一个烧钱无底、最终未能兑现承诺的宏大叙事。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;初期的病毒式传播固然亮眼，但真正的考验，是当好奇心退潮之后，有多少用户愿意每月付给扎克伯格20美元乃至100美元，让Meta来打理自己的生活。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储“三把手”：年底前再度加息是“合理”的，降低通胀仍需付出更多努力</title><link>https://wallstreetcn.com/articles/3782460</link><guid>2af16ff4b758bed7bc1ee8fcb1f381fd719e25620bf87e3121c28df9f0e00801</guid><pubDate>Thu, 24 Sep 2026 08:19:53 GMT</pubDate><description>&lt;p&gt;纽约联储主席威廉姆斯周四表示，年底前再次加息的市场预期&amp;quot;合理&amp;quot;，并将人工智能热潮定性为传统需求冲击，暗示通胀压力可能因此更具韧性。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电网排队太久，AI数据中心转向“自发电” ，燃料电池站上C位</title><link>https://wallstreetcn.com/articles/3782450</link><guid>c35e91c17053491acdb0f1ce948df2fb2570d248ec57c6cb64fa9f39092fe13d</guid><pubDate>Thu, 24 Sep 2026 10:12:02 GMT</pubDate><description>&lt;p&gt;AI 数据中心的扩张节奏，眼下最先卡住的不是资金，而是电力。芯片与机房的订单都能提前锁定，把电送进园区的时间却在变长——在美国和欧洲，接入公共电网的排队时间未来五年还要继续拉长。当电力可得性取代资本开支成为部署的硬约束，自建自用、不必排队的「表后」方案被推到台前。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，高盛 Michele Della Vigna 团队在 9 月 23 日的《Carbonomics: Behind-the-meter power solutions for data centers: gas turbines, fuel cells and reciprocating engines》中给出了一套把燃气轮机、燃料电池、往复式发动机并列打分的框架，&lt;strong&gt;并把 2030 年表后供电装机预测由 40GW 上调到 67GW。支撑这次上修的，是一组更快的用电读数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;结论有两条：三条技术路线都会被用上；按交付速度与可用性重新配权后，燃料电池的综合得分排在最前。&lt;/p&gt;
+表后供电的盘子为什么突然变大
+&lt;p&gt;需求侧的读数先变了。&lt;strong&gt;全球数据中心容量 2030 年预计达到 217GW，高于 2025 年的 101GW；美国数据中心需求同期达到 108GW。由此推算，2030 年全球数据中心用电需求较 2025 年增长 170%，其中六成以上来自美国。&lt;/strong&gt;这组增速高于此前假设，与电网的交付能力直接对撞。&lt;/p&gt;
+&lt;p&gt;电网一侧的交付能力在退化。美国电网互联申请到商业运行的周期中位数，在 2023—2024 年完成的项目上已逼近五年；新建高压输电线从 2010—2014 年的年均约 1,700 英里，降到 2020—2023 年的年均 350 英里。输电与发电设施通常要建五到十年，规划流程也跟不上这一轮涌入。&lt;/p&gt;
+&lt;p&gt;需求上修与电网变慢叠加，落在表后侧的结论就是这次预测上修：表后发电装机由 40GW 升至 67GW，且三条路线都不可或缺。&lt;/p&gt;
+三条路线各自卡在哪
+&lt;p&gt;常规燃气的瓶颈已从技术成熟度转到产能与交期。正常市况下大型燃气项目从下单到投产约需两到三年，如今联合循环燃气轮机的交付周期是四到七年，单循环为 18 至 36 个月，重型燃机普遍拉长到约五到七年。厂商扩产不足以马上改变紧平衡：GE Vernova 年底合约量将超过 125GW，2030 年产能已经售罄，2031 年过半的产能位也已预售；西门子能源的积压接近 69GW，另有 27GW 预订，隐含交期约三到四年；三菱重工在谈的项目要排到 2030 年代交付。&lt;/p&gt;
+&lt;p&gt;燃料电池的强项是落地速度与可用性，不在发电成本。模块化项目的交付窗口约 12 至 24 个月，无需并入电网，满载运行时间最高，需要多配的备用容量最少。&lt;/p&gt;
+&lt;p&gt;这套评分把交付速度（20%）、可用性（15%）、平准化电价（15%）与初始资本开支（10%）加总，逾六成权重压在执行侧而非经济性上。结果燃料电池 76.6 分居首，航改型燃气轮机 68.2 分，是最均衡的常规方案，往复式发动机 67.0 分，重型燃机与联合循环 59.6 分。评分并不掩盖短处：燃料电池的平准化电价约 117 美元/兆瓦时，比联合循环与往复式高约 45%。&lt;/p&gt;
+燃料电池的机会有多大，谁能拿到
+&lt;p&gt;按文中测算，&lt;strong&gt;燃料电池 2030 年对应美国约 12GW、全球约 18GW 的装机，折合累计设备市场约 350 亿美元（美国）与 550 亿美元（全球）。燃气表后加燃料电池合计可覆盖 2030 年美国约 28%、全球约 25% 的数据中心用电，而 2025 年这一比例接近于零。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;供给端的缺口更清楚。按满产与 85% 利用率，Bloom Energy 的 2GW 扩产到 2030 年可累计交付约 7.7GW 固体氧化物燃料电池，远低于约 18GW 的全球装机预测；要兑现预测，需要多家厂商同时扩产，包括 Ceres Power 的被许可方斗山、台达电子与潍柴动力。&lt;/p&gt;
+&lt;p&gt;受益标的按路线分开：燃料电池一侧是 Ceres Power、潍柴动力与台达电子，燃气表后一侧是 GE Vernova、西门子能源、三菱重工与 INNIO。&lt;/p&gt;
+接下来看什么
+&lt;p&gt;&lt;strong&gt;结果指标看厂商季度披露：&lt;/strong&gt;燃机与燃料电池厂商的订单、积压量与产能售罄年份，涉及 GE Vernova、西门子能源、三菱重工，以及 Ceres Power 及其被许可方斗山、台达电子、潍柴动力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;机制指标看三件事：&lt;/strong&gt;数据中心自备电站的采购与并网公告是否继续增多，燃机交付周期是否继续拉长，燃料电池的单位成本与交付周期是否按预测下行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;反证条件：&lt;/strong&gt;如果公共电网扩容让接入排队显著缩短，或者燃料电池成本下降不及预期、交付周期反而拉长，表后供电占比与燃料电池份额的预测都需要下修。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;验证窗口：&lt;/strong&gt;2026年10月15日至2026年11月15日，即三季度财报窗口，以及后续自备电源采购公告的披露日。&lt;/p&gt;
+&lt;p&gt;电力瓶颈在重塑选型顺序，而选型顺序在重塑这一轮订单的归属。40GW 到 67GW 是一次上修，不是已经兑现的产能；接下来要盯的是交期与订单有没有继续往执行侧倾斜，以及燃料电池的成本曲线是否按预测下行。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储“三把手”：年底前再度加息是“合理”的，降低通胀仍需付出更多努力</title><link>https://wallstreetcn.com/articles/3782460</link><guid>2af16ff4b758bed7bc1ee8fcb1f381fd719e25620bf87e3121c28df9f0e00801</guid><pubDate>Thu, 24 Sep 2026 08:19:53 GMT</pubDate><description>&lt;p&gt;纽约联储主席威廉姆斯周四表示，年底前再次加息的市场预期&amp;quot;合理&amp;quot;，并将人工智能热潮定性为传统需求冲击，暗示通胀压力可能因此更具韧性。&lt;/p&gt;
 &lt;p&gt;威廉姆斯在伦敦NIESR主办的会议上指出，&lt;strong&gt;市场普遍预期美联储今年年底前有必要再度收紧政策，&amp;quot;在我看来，这种看法是合理的&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;威廉姆斯同时表示，短期通胀预期令人鼓舞，但长期通胀预期并未如此。他强调，&lt;strong&gt;美联储的主要挑战仍在于通胀，必须及时将其拉回目标水平。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;威廉姆斯的表态与美联储上周会议释放的信号一致。在新任主席沃什的领导下，美联储上周将政策利率上调至3.75%至4.00%区间，18位决策者中有16位暗示，2026年底前至少还需再加息一次。威廉姆斯是美联储体系内仅次于主席和副主席的核心决策者，其表态对市场具有重要参考价值。&lt;/p&gt;
@@ -1294,35 +1294,22 @@ AI热潮被视为需求冲击，生产率前景存变数
 高通胀与高财政需求支撑高收益率，投资者等待波动降温
 &lt;p&gt;报道援引市场人士认为，本轮债券抛售具有一定基本面支撑。Pendal Group基金经理Amy Xie Patrick表示，&lt;strong&gt;多个经济体的通胀仍然高企且具有粘性，劳动力市场保持紧张，即使燃料及各类商品价格上涨，经济仍维持良好增长，在这一背景下，债券表现与当前经济基本面相符。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;面对持续抛售，投资者策略出现分化。Ericsenz Capital首席投资官Damien Loh认为，短期债券估值已经显得便宜，但并不建议立即逆势入场；对于希望从抛售中寻找机会的投资者，他更倾向于收益率曲线陡峭化交易，例如2年/10年或5年/30年利差策略，认为其风险回报比更为合理。&lt;/p&gt;
-&lt;p&gt;TD Securities策略师Hans Mikkelsen则指出，当前固定收益市场的矛盾在于，投资者希望获得更高收益率，却不希望收益率继续快速上行。“他们害怕接住一把下落的飞刀。”不断攀升的债市波动率，正成为潜在买家迟迟不愿入场的主要障碍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI助手进入“抽佣时代”？Muse转向交易抽成，或打开Meta全新增长空间</title><link>https://wallstreetcn.com/articles/3782476</link><guid>fb5939ab004f6bae997e147d9e769836466cb640e13a5d6e9deffe194e7db1c2</guid><pubDate>Thu, 24 Sep 2026 12:02:15 GMT</pubDate><description>&lt;p&gt;Meta的AI助手Muse正从概念走向商业闭环，华尔街对其估值逻辑随之重构。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根大通在Meta Connect大会结束后发布研究报告，&lt;strong&gt;将Meta Platforms目标价从820美元上调至920美元，维持增持评级。&lt;/strong&gt;截至报告发布日，Meta股价报744.10美元。此次上调的核心驱动力在于Muse的变现路径日趋清晰——Meta首席执行官扎克伯格在Connect上明确表示，公司未来将对通过Muse完成的交易收取小额手续费，标志着Muse货币化模式从订阅制向交易抽成的实质性转变。&lt;/p&gt;
+&lt;p&gt;TD Securities策略师Hans Mikkelsen则指出，当前固定收益市场的矛盾在于，投资者希望获得更高收益率，却不希望收益率继续快速上行。“他们害怕接住一把下落的飞刀。”不断攀升的债市波动率，正成为潜在买家迟迟不愿入场的主要障碍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 盘前急跌！甲骨文突发“不可抗力”通知，因担忧3000亿美元数据中心项目延期</title><link>https://wallstreetcn.com/articles/3782479</link><guid>8c75de879e77a57c4655167071ed23b0b720f42a4e4aa367ef1c1a9edcfad50f</guid><pubDate>Thu, 24 Sep 2026 12:47:00 GMT</pubDate><description>&lt;p&gt;甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;消息公布后，甲骨文盘前股价随即下跌4%，Blue Owl Capital股价同步下挫2.3%，数据中心供能商Bloom Energy盘前跌幅亦达4.4%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Doug Anmuth在报告中指出，随着Muse Connector生态系统快速扩张，以及前沿模型Watermelon即将发布，Meta正在广告主业之外构建一条规模可能达数十万亿美元的全新增长曲线。此次目标价调整基于2028年预期GAAP每股收益35.44美元的约26倍市盈率估值，较此前采用的23倍明显提升。&lt;/p&gt;
-
-Muse变现路径明朗，抽成模式类比广告业务
-
-&lt;p&gt;Muse商业模式的核心逻辑正逐步成型。摩根大通报告指出，目前Muse的变现规模有限，或仅涉及少量重度使用订阅，但扎克伯格在Connect上重申，Meta将随时间推移对平台上发生的交易收取小额费用。&lt;/p&gt;
-&lt;p&gt;报告认为，&lt;strong&gt;Muse Connector是打通变现链条的关键基础设施。&lt;/strong&gt;Connector允许Muse与外部网站、应用及商家建立连接，目前已收到超过2000份接入申请。在Connect大会上，Meta宣布与Walmart、Best Buy、Sephora及Wayfair达成集成合作，此前已有OpenTable、Spotify、Ticketmaster、Peloton、Expedia及Instacart加入。Meta同步推出Muse Connector平台，向开发者开放接口，允许其将自有应用和服务接入Muse生态。&lt;/p&gt;
-&lt;p&gt;摩根大通预计，&lt;strong&gt;随着数以千万乃至数亿计的商家最终在Muse上部署自有智能体，平台上的交易将越来越多地通过智能体间（agent-to-agent）交互完成，而非传统的浏览或电话方式。&lt;/strong&gt;届时，Meta可依据交易额收取抽成或佣金，亦可根据商家的具体经营目标采用类似现有广告业务的目标导向定价模式。该行认为，这一变现逻辑与Meta广告业务的底层框架高度相似，具备规模化复制的条件。&lt;/p&gt;
-
-Watermelon模型在即，API商业化打开新空间
-
-&lt;p&gt;摩根大通预计，&lt;strong&gt;Meta最强能力的前沿模型Watermelon将于未来数周内发布。报告认为，Watermelon的推出将从两个维度强化Meta的AI商业价值：一是通过提升推理能力直接增强Muse的产品表现；二是为Meta Model API开辟更大的货币化空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，若Watermelon以显著低于竞争对手的定价提供前沿模型API访问，将对开发者和企业客户形成强吸引力，进而推动调用量大幅提升。摩根大通将Meta Model API视为独立于广告和Muse之外的第三条变现主线，并认为前沿模型的加持将使这一业务的商业潜力实质性提升。&lt;/p&gt;
-&lt;p&gt;在财务预测上，摩根大通预计Meta 2026年至2028年营收将分别达到2543亿、3053亿及3544亿美元，对应年增速为26.5%、20.0%及16.1%。调整后每股收益预计从2026年的36.46美元增长至2028年的46.07美元。值得注意的是，受大规模资本开支拖累，该行预计2026至2028年间公司自由现金流将持续为负，资本开支占营收比例预计在2027至2028年升至80%左右。&lt;/p&gt;
-
-硬件生态加速布局，可穿戴设备对接Muse入口
-
-&lt;p&gt;在Connect大会上，Meta将Reality Labs的战略重心明确转向服务于Muse和个人超级智能的可穿戴设备，并将眼镜定位为最大的硬件机会，目标触达全球20亿以上的眼镜佩戴人群。&lt;/p&gt;
-&lt;p&gt;在具体产品层面，Meta推出Ray-Ban Meta Audio，将耳机功能与AI整合至重43克的轻薄镜框中，售价349美元，10月13日开始发货。同期发布的Ray-Ban Meta（第三代）相较上一代改善了续航（9小时对比8小时），提供27种配色与镜片组合，售价449美元，目前已开放购买。此外，Meta还推出了由Kyle Jenner设计及LISA联名款眼镜，起售价均为399美元；入门款Meta Adventurer售价249美元。Meta同步宣布将眼镜销售范围扩展至新加坡、韩国、墨西哥及阿联酋，并即将进入巴西市场。&lt;/p&gt;
-&lt;p&gt;Meta还发布了掌上设备Muse Charm，配备约2英寸显示屏和板载5G模块，允许用户访问个人Muse虚拟形象，预计年底前上市销售。在VR领域，Meta发布Meta VR Glasses，重量约100克，约为Meta Quest 3的五分之一，内置Meta AI智能体，并获IMAX Enhanced认证，售价1299美元，预计2027年春季发货。&lt;/p&gt;
-
-估值重构，长期TAM支撑溢价空间
-
-&lt;p&gt;摩根大通将目标价估值倍数从23倍上调至26倍，理由是对Meta营收增长的可见性、持续的成本优化能力以及AI变现路径的确定性信心增强。报告强调，即便以2028年GAAP每股收益35.44美元作为估值基准，该预测数字本身也可能偏于保守。&lt;/p&gt;
-&lt;p&gt;在更长期的叙事框架下，&lt;strong&gt;摩根大通认为Muse有潜力成为自ChatGPT以来用户规模最大的消费级AI应用。报告援引Meta在Connect上的表述称，Muse已触达数百万用户，Meta的目标是将其打造为面向全球数十亿用户的超级智能平台，对应的潜在市场规模可能达到数十万亿美元量级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Project Jupiter是一个规模庞大的特殊目的载体（SPV）项目，计划在新墨西哥州约1400英亩土地上建设四座数据中心，为OpenAI提供总计3000亿美元的算力，融资结构涵盖债券、贷款及Blue Owl股权。&lt;/strong&gt;此次不可抗力通知的发出，令市场对该项目能否如期推进的疑虑骤然升温，相关贷款此前已跌至承压水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+不可抗力通知：防御性操作，法律效力存疑
+&lt;p&gt;据彭博援引知情人士报道，甲骨文向Stack Infrastructure发出的这份通知，核心目的在于在项目建设出现延误时，为自身确立合同层面的保护立场，以推迟潜在的付款义务。&lt;/p&gt;
+&lt;p&gt;企业援引不可抗力条款，通常是在遭遇超出自身控制范围的突发情况时，寻求免除或暂缓合同义务的法律依据。然而，知情人士同时指出，目前尚不确定这一操作能否实际免除甲骨文此前已承诺的财务责任。&lt;/p&gt;
+&lt;p&gt;对此，甲骨文发言人回应称：&amp;quot;Project Jupiter仍在按计划推进，我们对新墨西哥州的承诺坚定不移，对项目前景充满信心。&amp;quot;该发言人未就不可抗力通知本身作出具体置评。Blue Owl方面则拒绝发表评论。&lt;/p&gt;
+项目本已深陷困境，融资链压力全面显现
+&lt;p&gt;Project Jupiter在此次通知发出之前，已面临来自多方的阻力。据彭博此前报道，该项目遭遇反对声音与监管层面的挫折，相关贷款已跌至承压水平。&lt;/p&gt;
+&lt;p&gt;从项目结构来看，Project Jupiter以SPV形式运作，属于表外融资安排，将债券、贷款与Blue Owl股权捆绑在一起，涉及多家大型金融机构。这一高度杠杆化的融资结构，使得任何一个环节出现松动，都可能对整条资金链形成连锁冲击。&lt;/p&gt;
+&lt;p&gt;此次不可抗力通知发出后，市场反应迅速蔓延：甲骨文、，Blue Owl Capita、Bloom Energy集体大跌，显示投资者对项目前景的担忧已从核心参与方向周边供应链扩散。&lt;/p&gt;
+2028年上线目标蒙上阴影，项目命运存疑
+&lt;p&gt;知情人士表示，甲骨文发出不可抗力通知的直接触发点，正是对Project Jupiter能否按原计划于2028年投入运营的不确定性。该项目此前已因反对声音和监管阻碍而进展受阻，此次甲骨文的防御性动作进一步加剧了外界对项目能否落地的疑虑。&lt;/p&gt;
+&lt;p&gt;市场评论人士指出，Project Jupiter的SPV结构将多家顶级金融机构的利益深度绑定，一旦项目出现实质性延误乃至搁置，潜在的连锁反应不容低估。&lt;/p&gt;
+&lt;p&gt;目前，甲骨文坚称项目&amp;quot;按计划推进&amp;quot;，但其援引不可抗力条款的实际行动与这一表态之间的落差，已令投资者保持高度警惕。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
