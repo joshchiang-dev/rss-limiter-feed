@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 04:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街最火的“金融AI”创始人：如何做“AI时代的彭博”，为何OpenAI和Anthropic做不好金融</title><link>https://wallstreetcn.com/articles/3782347</link><guid>5c30d22353155c63200679a51d4bf0da843fbe189543ba85a9168339a3e0b56e</guid><pubDate>Thu, 24 Sep 2026 03:44:28 GMT</pubDate><description>&lt;p&gt;随着AI深入华尔街的每一个毛细血管，一家估值20亿美元的初创公司正试图通过构建垂直领域的“金融基础设施”，接管传统银行家的工作，并立志成为AI时代的彭博。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 05:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街最火的“金融AI”创始人：如何做“AI时代的彭博”，为何OpenAI和Anthropic做不好金融</title><link>https://wallstreetcn.com/articles/3782347</link><guid>5c30d22353155c63200679a51d4bf0da843fbe189543ba85a9168339a3e0b56e</guid><pubDate>Thu, 24 Sep 2026 03:44:28 GMT</pubDate><description>&lt;p&gt;随着AI深入华尔街的每一个毛细血管，一家估值20亿美元的初创公司正试图通过构建垂直领域的“金融基础设施”，接管传统银行家的工作，并立志成为AI时代的彭博。&lt;/p&gt;
 &lt;p&gt;当整个市场都在追逐OpenAI和Anthropic等通用大模型的宏大叙事时，Rogo选择了一条极其垂直且深度的道路——从帮投行做PPT、建Excel模型，到全流程处理并购交易，再到进军财富管理领域。&lt;/p&gt;
 &lt;p&gt;近日，在知名投资播客《Invest Like The Best》中，主持人、Positive Sum CEO Patrick O&amp;#x27;Shaughnessy对Rogo联合创始人Gabe Stengel进行了深度专访。详细拆解了Rogo的业务逻辑、订单商业模式，以及他对华尔街未来的终极想象。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -548,51 +548,6 @@ CoreWeave的信用成色：AI算力新贵的两面性
 &lt;p&gt;若AI算力供需格局出现变化，或CoreWeave等头部算力租户的信用状况发生恶化，市场对此类债券的定价可能进一步走高，部分融资方案的经济性将面临重新检验。对于计划通过资本市场为AI基础设施融资的开发商而言，租户的信用质量正在成为越来越难以绕开的核心变量。&lt;/p&gt;
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国PMI火热背后：价格压力创2022以来新高，供应链瓶颈严重，企业成本压力加剧</title><link>https://wallstreetcn.com/articles/3782423</link><guid>d9f26018ff29128a14155e6c1c5f282979618da335ec56dff99a0d52d7012c81</guid><pubDate>Thu, 24 Sep 2026 02:03:16 GMT</pubDate><description>&lt;p&gt;华尔街的共识再次被打破，9月美国标普全球PMI初值不仅没有如预期般小幅下滑，反而呈现出爆炸性的全面增长。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根大通在9月23日的研报中称，美国9月&lt;strong&gt;综合产出PMI飙升至58.4，创下2021年7月以来的最高水平&lt;/strong&gt;，暗示美国第三季度GDP增速可能高达4%至5%。然而，在这份看似完美的经济增长成绩单背后，高盛和摩根大通均认为，潜藏着令市场警惕的暗流：&lt;strong&gt;需求已严重超出企业产能，导致除疫情期外近二十年来最严重的供应链瓶颈。&lt;/strong&gt;更关键的是，&lt;strong&gt;投入成本通胀正以2020年以来最快的单月速度飙升，创下2022年底以来的新高&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;分析指出，当前数据传递了一个明确的信号——美国经济不仅没有衰退，反而热度惊人。但这种由强劲国内需求驱动的增长，正伴随着能源、运输和劳动力成本的剧烈上升。由于&lt;strong&gt;企业产出价格（售价）的上涨幅度不及投入成本的飙升幅度，企业利润率正面临实质性的挤压（Margin Compression）&lt;/strong&gt;。&lt;/p&gt;
-&lt;strong&gt;价格压力急剧升温，企业利润率面临挤压&lt;/strong&gt;
-&lt;p&gt;本份报告中最危险的信号在于通胀的猛烈反扑。摩根大通指出，&lt;strong&gt;9月份的通胀信号明显强于近几个月。&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;投入成本飙升：&lt;/strong&gt;全行业投入价格指数录得&lt;strong&gt;自2020年以来的最大单月涨幅，并加速至2022年底以来的最高水平&lt;/strong&gt;。高盛数据显示，服务业投入价格分项大涨7.2个点至&lt;strong&gt;66.1&lt;/strong&gt;（创2022年11月以来新高）；制造业投入价格在连续三个月下降后大幅反弹3.0个点至&lt;strong&gt;68.1&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;成本驱动因素：&lt;/strong&gt;价格上涨主要归因于近期能源价格上涨带来的&lt;strong&gt;燃料和运输成本增加&lt;/strong&gt;，同时&lt;strong&gt;工资压力&lt;/strong&gt;也有所加剧。制造业企业还特别提到了原材料成本高企和供应短缺。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;利润率挤压（Margin Compression）：&lt;/strong&gt;尽管9月份产出价格（企业售价）通胀也有所上升（高盛数据显示服务业产出价格+1.2至57.0，但制造业产出价格微降0.2至59.2），但&lt;strong&gt;其涨幅远不及投入成本的飙升幅度&lt;/strong&gt;。摩根大通明确指出，这种不对称表明&lt;strong&gt;企业的利润率正在受到挤压&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;分析指出，总体而言，9月PMI数据描绘了一幅需求旺盛但供给受限的经济图景。在强劲的订单和招聘背后，飙升的成本和受压的利润率将成为投资者在未来几个月必须直面的核心风险。&lt;/p&gt;
-&lt;strong&gt;需求远超产能，供应链与劳动力瓶颈再现&lt;/strong&gt;
-&lt;p&gt;经济的火热直接导致了供需失衡的加剧。摩根大通认为，&lt;strong&gt;当前的需求正持续超过企业的运营产能&lt;/strong&gt;。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;供应链极度紧张：&lt;/strong&gt;积压工作量以2022年5月以来的最快速度增加，供应商交货时间延长幅度达到2022年中期以来的最大值。标普新闻稿指出，&lt;strong&gt;如果排除疫情期间，当前的增长正伴随着近二十年调查历史上最严重的供应链瓶颈。&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;劳动力市场火热但招聘困难：&lt;/strong&gt;9月全行业就业指数升至&lt;strong&gt;2022年6月以来的最高水平&lt;/strong&gt;。其中，制造业就业创下2021年2月以来的最强劲增长，服务业招聘也以2022年6月以来的最快速度增长。尽管企业因工作量和积压订单增加而大力招聘，但许多企业报告称&lt;strong&gt;越来越难以找到合适的员工&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;经济活动全面爆发，远超华尔街预期&lt;/strong&gt;
-&lt;p&gt;9月份的PMI数据彻底击碎了市场对经济放缓的担忧。高盛指出，服务业和制造业PMI双双逆势上扬，打破了市场预期的小幅下降共识。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;服务业PMI：&lt;/strong&gt; 9月录得&lt;strong&gt;58.7&lt;/strong&gt;（大幅高于预期中值56.0和前值56.5），创下&lt;strong&gt;2022年3月以来的最高水平&lt;/strong&gt;。其中，新业务分项指数（+3.0至58.3）表现极为强劲。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;制造业PMI：&lt;/strong&gt; 9月录得&lt;strong&gt;57.0&lt;/strong&gt;（远超预期中值53.5和前值53.9），创下&lt;strong&gt;2022年5月以来的最高水平&lt;/strong&gt;。产出（+3.6至56.7）和新订单（+3.0至57.3）分项均出现急剧上升。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;摩根大通强调，标普新闻稿估计，最新的调查数据与&lt;strong&gt;约5%的年化GDP增速相符，并预示整个第三季度的GDP增速约为4%&lt;/strong&gt;，这甚至高于摩根大通近期上调后的3.5%的预测。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;标普评论更是直言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“如果排除新冠疫情封锁后经济重新开放带来的需求激增，&lt;strong&gt;最新的商业活动改善是自2015年初以来记录的最大增幅。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不过，高盛也提醒投资者注意数据背后的“名义偏差（Nominal bias）”——部分商业调查的强劲表现可能是由于受访者以美元（名义）而非实际数量来衡量出货量和订单，从而受到了价格上涨因素的干扰。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 腾讯WorkBuddy第一次有了专享PC，这回吃螃蟹的是华硕</title><link>https://wallstreetcn.com/articles/3782430</link><guid>fffc8ae98bbf0288cc669e6a627435edb3c2607083bd0ca206905ce6df8a5305</guid><pubDate>Thu, 24 Sep 2026 02:52:40 GMT</pubDate><description>&lt;p&gt;日前，华硕正式推出WorkBuddy专享款PC，成为首家推出WorkBuddy专享电脑的PC厂商。&lt;/p&gt; &lt;p&gt;相比用户自行下载WorkBuddy，这款产品进一步把Agent与本地模型、Skill及PC硬件能力结合起来。&lt;/p&gt; &lt;p&gt;这也不是华硕第一次把办公Agent放进AI PC。今年6月，华硕商用电脑已经与百度智能云推出“华硕×百度搭子DuMate AI解决方案”，同样强调端侧算力与Agent能力结合。&lt;/p&gt; &lt;p&gt;与此同时，荣耀、联想、小米等硬件厂商也在把自家的Agent能力延伸到PC。荣耀将YOYO Claw预置进MagicBook，联想持续升级天禧Claw，小米则把超级小爱2.0“专家模式”带到PC。&lt;/p&gt; &lt;p&gt;随着端云协同逐渐成熟，在电脑里提供一个能够直接处理文件、调用工具甚至执行任务的Agent，正在成为AI PC的新卖点。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;PC自带的Agent最终来自第三方，还是由硬件厂商自己来做，目前仍没有定论。真正决定这条路线的可能是谁先跑出一个足够高频、足够通用的“国民级Agent”。&lt;/strong&gt;&lt;/p&gt; 当办公Agent成为卖点 &lt;p&gt;此次华硕Workbuddy专享款与用户自己下载WorkBuddy的核心区别，主要落在两点：&lt;/p&gt; &lt;p&gt;一是针对英特尔平台做过适配的本地Skill，二是本地模型与云端模型之间更深的协同。&lt;/p&gt; &lt;p&gt;目前，英特尔已经在华硕专享款WorkBuddy中上线15个本地Skill。在搭载第三代英特尔酷睿Ultra处理器的华硕破晓高端系列上，还可以进一步调用本地模型。三方基于35B-A3B本地模型，已经对26个WorkBuddy高频专家进行了本地适配和优化。&lt;/p&gt; &lt;p&gt;对应到实际使用，一些本地文件处理等可以直接留在电脑上完成；遇到复杂推理、长链路任务，或者需要实时信息时，再调用云端模型。WorkBuddy会根据任务情况在两者之间进行分配。&lt;/p&gt; &lt;p&gt;腾讯云智能制造行业华东解决方案负责人马英奎对华尔街见闻·全天候科技表示，腾讯WorkBuddy可以让用户灵活选择多种模型；用户也可以自行选择本地或云端，如果本地处理效果不满意，再切换至云端。&lt;/p&gt; &lt;p&gt;马英奎进一步指出，用户不用再自己判断“买的这台PC跑什么样的模型，才能把性能发挥到最大”。部分任务放在本地，也可以减少云端资源调用，合同、金融资料等不希望上传的数据则可以留在电脑处理。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;目前，华硕Workbuddy专享款主要瞄准两类人群：一类是没有专业AI团队、但希望快速使用Agent的中小企业和创业者；另一类则是AI使用频率更高的“超级个体”，比如一个人完成文案、视频生成、剪辑和多平台发布的内容创作者。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;对华硕这类PC厂商来说，办公Agent也给AI PC提供了新卖点。&lt;/p&gt; &lt;p&gt;WorkBuddy并不是华硕今年合作的第一款办公Agent。&lt;/p&gt; &lt;p&gt;今年6月，华硕商用电脑已经与百度智能云推出“华硕×百度搭子DuMate AI解决方案”。这套方案同样以华硕商用AI PC的端侧算力为基础，将其与搭子的Agent能力结合，重点面向企业办公场景。&lt;/p&gt; &lt;p&gt;这也说明，在办公Agent还没有完全跑出胜负之前，PC厂商没有必要过早押注一家。相比单纯比拼芯片参数，谁能把电脑已有的本地算力变成用户真正会使用的功能甚至成为新的换机理由，才更容易获得PC厂商更深的适配资源。&lt;/p&gt; &lt;p&gt;不过对于腾讯来说，华硕更像是一次打样。&lt;/p&gt; &lt;p&gt;9月初，WorkBuddy开放平台上线，首批引入超过百家生态伙伴，并将能力开放至智能硬件、行业应用和开发者。&lt;/p&gt; &lt;p&gt;当时腾讯云副总裁、腾讯CodeBuddy &amp;amp; WorkBuddy负责人刘毅给出的目标是将WorkBuddy做成“面向Agent时代的操作系统”，而不是只做一个更强的工具。其硬件合作目前已经覆盖PC与平板、智能眼镜、耳机等十余个品类、超过30个品牌。&lt;/p&gt; &lt;p&gt;要实现这个目标，只做一款华硕 WorkBuddy专享电脑显然不够。&lt;/p&gt; &lt;p&gt;后续腾讯是否会联合更多PC厂商推出专享款Workbuddy的PC，正受到更多关注。&lt;/p&gt; 二、自建vs第三方 &lt;p&gt;对于沉寂已久的PC市场来说，把一个能够真正干活的Agent放进电脑，确实可能成为新的产品叙事。&lt;/p&gt; &lt;p&gt;华硕选择与WorkBuddy、百度搭子等第三方Agent合作。除此之外，一些同时拥有硬件、系统和AI能力的PC厂商，则更倾向于把自己的Agent直接延伸到电脑。&lt;/p&gt; &lt;p&gt;荣耀今年在MagicBook Pro系列2026上预置了自研YOYO Claw，主打自动部署和“开箱即用”。它可以自主规划、调度和执行任务，并接入办公、学习、自媒体等不同Skills。随后发布的MagicBook 14、MagicBook 16 2026，也已经把YOYO AI智能体列为整机主要卖点。&lt;/p&gt; &lt;p&gt;联想走得更早。&lt;/p&gt; &lt;p&gt;今年3月，联想发布天禧AI Claw，强调“零成本部署、零门槛使用”；5月进一步发布天禧AI 4.0，将智能体核心升级为天禧Claw，并继续强化“端—边—云”协同。&lt;/p&gt; &lt;p&gt;按照联想的规划，复杂任务可以在不同算力之间进行分配，同时支持本地大模型运行。&lt;/p&gt; &lt;p&gt;小米也在把自己的Agent能力往PC上延伸。&lt;/p&gt; &lt;p&gt;随着HyperOS 4发布，超级小爱2.0新增“专家模式”，可以完成深度研究、PPT制作、网页制作等任务，首批已经适配Xiaomi Book Pro 14、REDMI Book Pro 16 2026等PC。&lt;/p&gt; &lt;p&gt;几家的路径并不完全一样，但背后的考虑相近。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;对于PC厂商来说，直接把一个能够调用文件、软件和模型的Agent交到用户手里，产品卖点也更容易成立。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;而端云结合的成熟，又降低了这件事的门槛。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Agent并不需要把所有能力都塞进本地。涉及隐私、简单文件处理等任务可以优先在端侧完成，需要更大模型和实时信息时再调用云端。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;这意味着，如果能够以相对可控的硬件和云端成本，在一台PC里提供一个开机就能使用、真正能替用户完成部分工作的Agent，它确实可能成为PC厂商下一阶段的新卖点。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;至于这个Agent来自第三方，还是由硬件厂商自己来做，亦或者二者结合，目前还没有答案。&lt;/p&gt; &lt;p&gt;最后哪种方式会成为更多厂商的选择，可能还是要看什么Agent能真正跑出稳定的用户使用习惯。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌将文本转语音并入Gemini模型家族：Flash TTS主打创意场景，轻量版瞄准实时语音</title><link>https://wallstreetcn.com/articles/3782399</link><guid>2d48b0ad48c98f8f2084de6c7af5a5a9c962bf0ec02cdb5cbee2073ff911741c</guid><pubDate>Wed, 23 Sep 2026 20:27:19 GMT</pubDate><description>&lt;p&gt;谷歌正将文本转语音能力从独立功能收编进Gemini统一模型体系，以&amp;quot;模型化+生态整合&amp;quot;的方式重新定义AI语音竞争的边界。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周三，谷歌发布Gemini 3.8 Flash TTS与Gemini 3.8 Flash-Lite TTS两款文本转语音模型，前者主打声音设计与创意场景，后者针对大规模、低成本应用进行优化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次发布使语音合成正式进入与文本、多模态并列的Gemini模型序列，&amp;quot;听—想—说&amp;quot;的语音闭环由此在Gemini体系内完成。&lt;/p&gt;
@@ -677,6 +632,51 @@ CoreWeave的信用成色：AI算力新贵的两面性
 &lt;p&gt;从历史经验看，快速上升的美债收益率通常会通过提高无风险收益率、压缩股票风险溢价以及抬高企业融资成本，对股票估值产生压力。但截至目前，股票投资者并没有表现出与债市同等程度的恐慌。&lt;/p&gt;
 &lt;p&gt;这一点在当前环境下尤其值得关注：美国10年期国债收益率已经重新突破5%，油价重新站上100美元，市场对进一步加息的定价也明显升温，但VIX仍接近年内低位。MarketWatch周三同样指出，尽管油价上涨、长端美债收益率走高以及美联储进一步加息等风险因素同时存在，VIX仍处于2026年的低位附近。&lt;/p&gt;
 &lt;p&gt;这意味着，&lt;strong&gt;目前股票市场可能仍在相信强劲的企业盈利和经济增长能够抵消更高利率的压力。&lt;/strong&gt; 但如果债券收益率继续快速上行，尤其是10年期收益率进一步接近高盛所描述的敏感区间，这种“债跌股稳”的状态是否能够持续，将成为市场下一阶段的重要观察点。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国PMI火热背后：价格压力创2022以来新高，供应链瓶颈严重，企业成本压力加剧</title><link>https://wallstreetcn.com/articles/3782423</link><guid>d9f26018ff29128a14155e6c1c5f282979618da335ec56dff99a0d52d7012c81</guid><pubDate>Thu, 24 Sep 2026 02:03:16 GMT</pubDate><description>&lt;p&gt;华尔街的共识再次被打破，9月美国标普全球PMI初值不仅没有如预期般小幅下滑，反而呈现出爆炸性的全面增长。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，摩根大通在9月23日的研报中称，美国9月&lt;strong&gt;综合产出PMI飙升至58.4，创下2021年7月以来的最高水平&lt;/strong&gt;，暗示美国第三季度GDP增速可能高达4%至5%。然而，在这份看似完美的经济增长成绩单背后，高盛和摩根大通均认为，潜藏着令市场警惕的暗流：&lt;strong&gt;需求已严重超出企业产能，导致除疫情期外近二十年来最严重的供应链瓶颈。&lt;/strong&gt;更关键的是，&lt;strong&gt;投入成本通胀正以2020年以来最快的单月速度飙升，创下2022年底以来的新高&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;分析指出，当前数据传递了一个明确的信号——美国经济不仅没有衰退，反而热度惊人。但这种由强劲国内需求驱动的增长，正伴随着能源、运输和劳动力成本的剧烈上升。由于&lt;strong&gt;企业产出价格（售价）的上涨幅度不及投入成本的飙升幅度，企业利润率正面临实质性的挤压（Margin Compression）&lt;/strong&gt;。&lt;/p&gt;
+&lt;strong&gt;价格压力急剧升温，企业利润率面临挤压&lt;/strong&gt;
+&lt;p&gt;本份报告中最危险的信号在于通胀的猛烈反扑。摩根大通指出，&lt;strong&gt;9月份的通胀信号明显强于近几个月。&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;投入成本飙升：&lt;/strong&gt;全行业投入价格指数录得&lt;strong&gt;自2020年以来的最大单月涨幅，并加速至2022年底以来的最高水平&lt;/strong&gt;。高盛数据显示，服务业投入价格分项大涨7.2个点至&lt;strong&gt;66.1&lt;/strong&gt;（创2022年11月以来新高）；制造业投入价格在连续三个月下降后大幅反弹3.0个点至&lt;strong&gt;68.1&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;成本驱动因素：&lt;/strong&gt;价格上涨主要归因于近期能源价格上涨带来的&lt;strong&gt;燃料和运输成本增加&lt;/strong&gt;，同时&lt;strong&gt;工资压力&lt;/strong&gt;也有所加剧。制造业企业还特别提到了原材料成本高企和供应短缺。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;利润率挤压（Margin Compression）：&lt;/strong&gt;尽管9月份产出价格（企业售价）通胀也有所上升（高盛数据显示服务业产出价格+1.2至57.0，但制造业产出价格微降0.2至59.2），但&lt;strong&gt;其涨幅远不及投入成本的飙升幅度&lt;/strong&gt;。摩根大通明确指出，这种不对称表明&lt;strong&gt;企业的利润率正在受到挤压&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分析指出，总体而言，9月PMI数据描绘了一幅需求旺盛但供给受限的经济图景。在强劲的订单和招聘背后，飙升的成本和受压的利润率将成为投资者在未来几个月必须直面的核心风险。&lt;/p&gt;
+&lt;strong&gt;需求远超产能，供应链与劳动力瓶颈再现&lt;/strong&gt;
+&lt;p&gt;经济的火热直接导致了供需失衡的加剧。摩根大通认为，&lt;strong&gt;当前的需求正持续超过企业的运营产能&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;供应链极度紧张：&lt;/strong&gt;积压工作量以2022年5月以来的最快速度增加，供应商交货时间延长幅度达到2022年中期以来的最大值。标普新闻稿指出，&lt;strong&gt;如果排除疫情期间，当前的增长正伴随着近二十年调查历史上最严重的供应链瓶颈。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;劳动力市场火热但招聘困难：&lt;/strong&gt;9月全行业就业指数升至&lt;strong&gt;2022年6月以来的最高水平&lt;/strong&gt;。其中，制造业就业创下2021年2月以来的最强劲增长，服务业招聘也以2022年6月以来的最快速度增长。尽管企业因工作量和积压订单增加而大力招聘，但许多企业报告称&lt;strong&gt;越来越难以找到合适的员工&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;经济活动全面爆发，远超华尔街预期&lt;/strong&gt;
+&lt;p&gt;9月份的PMI数据彻底击碎了市场对经济放缓的担忧。高盛指出，服务业和制造业PMI双双逆势上扬，打破了市场预期的小幅下降共识。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;服务业PMI：&lt;/strong&gt; 9月录得&lt;strong&gt;58.7&lt;/strong&gt;（大幅高于预期中值56.0和前值56.5），创下&lt;strong&gt;2022年3月以来的最高水平&lt;/strong&gt;。其中，新业务分项指数（+3.0至58.3）表现极为强劲。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;制造业PMI：&lt;/strong&gt; 9月录得&lt;strong&gt;57.0&lt;/strong&gt;（远超预期中值53.5和前值53.9），创下&lt;strong&gt;2022年5月以来的最高水平&lt;/strong&gt;。产出（+3.6至56.7）和新订单（+3.0至57.3）分项均出现急剧上升。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;摩根大通强调，标普新闻稿估计，最新的调查数据与&lt;strong&gt;约5%的年化GDP增速相符，并预示整个第三季度的GDP增速约为4%&lt;/strong&gt;，这甚至高于摩根大通近期上调后的3.5%的预测。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;标普评论更是直言：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“如果排除新冠疫情封锁后经济重新开放带来的需求激增，&lt;strong&gt;最新的商业活动改善是自2015年初以来记录的最大增幅。&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不过，高盛也提醒投资者注意数据背后的“名义偏差（Nominal bias）”——部分商业调查的强劲表现可能是由于受访者以美元（名义）而非实际数量来衡量出货量和订单，从而受到了价格上涨因素的干扰。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌</title><link>https://wallstreetcn.com/articles/3782354</link><guid>973259f3e9997db9b9c379c59549ce6cedcfdb79994fb1eb6b0ba24c03271795</guid><pubDate>Wed, 23 Sep 2026 22:01:06 GMT</pubDate><description>&lt;p&gt;油价上涨与强劲经济数据的双重夹击，令市场对美联储将维持更长时间紧缩立场的押注急剧升温，美国国债收益率飙升至近二十年高位，美股随之承压下行。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美国采购经理人指数（PMI）数据周三远超预期，创2021年以来最快扩张速度，引发市场对经济从&amp;quot;韧性&amp;quot;转向&amp;quot;过热&amp;quot;的担忧，并触发国债市场的大规模抛售。&lt;/p&gt;
