@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 06:30:22 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 06:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
 &lt;p&gt;今年以来，Meta股价一度明显承压，但进入9月后快速反弹。&lt;strong&gt;截至9月24日，股价本月累计上涨约36%，创2013年以来最强单月表现，市值重新逼近2万亿美元，距离这一关口仅约1%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;行情反转的背后，Muse带来的AI商业化想象成为重要支撑。Muse于9月8日正式上线，能够自主执行购物、出行、邮件管理等多步骤任务。上线前六天下载量达到90.2万次，超过Meta AI同期的77.3万次，并迅速登顶美国及加拿大苹果应用商店免费榜。&lt;/p&gt;
 &lt;p&gt;但资本市场的乐观预期也在迅速升温。AI代理开始进入购物、预订等真实消费场景，传统互联网平台赖以维持用户的搜索、账号和使用习惯可能受到冲击；与此同时，Muse自身的安全漏洞、隐私争议和高昂算力成本，也让这场AI热潮面临现实约束。&lt;/p&gt;
@@ -43,18 +43,18 @@ AI代理的另一道门槛：算力成本
 &lt;p&gt;然而，报道并未解释&amp;quot;最快工作速度&amp;quot;究竟快多少，也未说明Codex访问权限的具体形式，以及Cerebras是否将最终承接该套餐的算力支持。&lt;/p&gt;
 &lt;p&gt;TestingCatalog将这一传闻与&amp;quot;长时任务&amp;quot;场景挂钩。即需要ChatGPT在较长时间内持续执行操作、而非仅回答单次提问的工作类型。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;据报道，更多细节或将在9月29日于旧金山举行的OpenAI DevDay 2026上揭晓，但这仅是该账号的推测。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在OpenAI发布的官方活动公告中，并未提及任何关于Pro Max计划的内容。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市风暴延续！日本30年期国债收益率创1999年以来新高，港股走低，恒科指跌2%</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 04:33:24 GMT</pubDate><description>&lt;p&gt;尽管油价有所回落，亚洲债券收益率周五仍持续攀升，中东冲突未见降温，市场对通胀和利率上行的担忧尚未缓解。&lt;/p&gt;
+&lt;p&gt;在OpenAI发布的官方活动公告中，并未提及任何关于Pro Max计划的内容。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市风暴延续！日本30年期国债收益率创1999年以来新高，港股走低，恒科指跌幅收窄至1.5%</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 05:49:03 GMT</pubDate><description>&lt;p&gt;尽管油价有所回落，亚洲债券收益率周五仍持续攀升，中东冲突未见降温，市场对通胀和利率上行的担忧尚未缓解。&lt;/p&gt;
 &lt;p&gt;美国国债抛售压力再次向亚洲市场蔓延。全球债券指数收益率升至4%，为2007年以来首次；纽约交易时段，30年期美债收益率升至2004年以来最高水平。受此影响，澳大利亚和新西兰10年期国债收益率均上涨约3个基点，日本30年期国债收益率升至4.21%，创1999年上市以来新高。&lt;/p&gt;
-&lt;p&gt;股市方面，香港股市午间收盘走弱，恒生指数跌1.69%，恒生科技指数跌2.14%，网易、理想汽车、小米、京东、阿里巴巴、比亚迪、快手等科技和消费股普遍下跌。日经225指数和东证指数均上涨1.2%；A股和韩国股市因假期休市。&lt;/p&gt;
+&lt;p&gt;股市方面，恒生科技指数跌幅收窄至1.5%，此前一度跌2.6%。日经225指数和东证指数均上涨1.2%；A股和韩国股市因假期休市。&lt;/p&gt;
 &lt;p&gt;拉弗·滕格勒投资公司投资组合经理拜伦·安德森表示，市场已经为收益率进一步走高做好准备。他认为，加息无法直接解决中东局势、能源价格和通胀等问题，反而会进一步推高整体融资成本；如果美联储采取更激进的政策，最终可能对就业市场和消费者形成冲击。&lt;/p&gt;
 &lt;p&gt;核心市场走势如下：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;截至午间收盘，恒指跌1.69%，恒生科技指数跌2.14%。&lt;/li&gt;
+&lt;li&gt;恒生科技指数跌幅收窄至1.5%，此前一度跌2.6%。&lt;/li&gt;
 &lt;li&gt;截至早盘收盘，日经225指数、东证指数涨1.2%。&lt;/li&gt;
-&lt;li&gt;日本30年期国债收益率升至4.21%，创1999年上市以来新高。10年期日债收益率上涨3.5个基点至3.110%，创1996年8月以来新高。&lt;/li&gt;
+&lt;li&gt;日本30年期国债收益率升至4.21%，创1999年上市以来新高。10年期日债收益率上涨3.5个基点至3.110%，创1996年8月以来新高。日本两年期国债收益率上升5个基点至1.95%。&lt;/li&gt;
 &lt;li&gt;日元短线走强。截至发稿，美元兑日元跌0.3%，报158.35。&lt;/li&gt;
-&lt;li&gt;布伦特原油跌1.3%至99美元。&lt;/li&gt;
+&lt;li&gt;国际油价跌幅扩大，布油跌2%，WTI跌超2%。&lt;/li&gt;
 &lt;li&gt;现货黄金跌0.07%至4271美元。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -64,9 +64,12 @@ AI代理的另一道门槛：算力成本
 &lt;p&gt;BMI分析师表示，债券收益率持续走高正在收紧金融环境。虽然利率上升并不意味着信贷紧缩，但融资成本长期处于高位，可能促使银行收紧对家庭和企业的信贷投放，进而压制消费和投资，并对经济增长形成压力。&lt;/p&gt;
 &lt;p&gt;能源价格仍是推动全球债券收益率上行的重要因素。中东局势升级一度推高油价，加剧市场对通胀和央行进一步收紧政策的担忧。尽管油价短线降温，尚未明显缓解债市对通胀和高利率的担忧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
- 
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+AI基建受电力掣肘，软银股价承压
+&lt;p&gt;日经225指数与东证指数均上涨1.2%，软银股价却逆势下跌3.1%。Oracle就位于新墨西哥州的“木星计划”数据中心项目发出不可抗力通知，称电力供应可能延误。该项目属于Oracle、OpenAI与软银共同参与的5000亿美元Stargate计划，Oracle此举被市场解读为规避项目无法在2028年投运所带来的违约风险。&lt;/p&gt;
+&lt;p&gt;消息进一步引发市场对AI基础设施落地能力的担忧，电力供应正成为制约数据中心扩张的关键瓶颈。软银本周刚通过发债筹集111亿美元，用于投资OpenAI，而相关AI债券利差已扩大至约115个基点，融资成本面临进一步上升压力。&lt;/p&gt;
+&lt;p&gt;与此同时，软银自身杠杆水平较高，估值对AI项目的建设和兑现节奏较为敏感。旗下SB Energy目前虽有约4300亿美元订单积压，但订单高度集中于软银和OpenAI，项目能否按计划落地仍存在不确定性。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;30年期美债收益率触及2004年以来最高水平，10年期收益率升破5.2%，2007年来首次。受此拖累，标普500指数收盘基本持平，但内部结构分化明显，多数成分股下跌。&lt;/p&gt;
 &lt;p&gt;布伦特原油结算价维持在每桶107美元附近，此前曾因有报道称美国与伊朗正就重开霍尔木兹海峡探索阶段性协议而短暂回落，但随即遭伊朗方面否认，油价随即反弹。&lt;/p&gt;
@@ -170,14 +173,7 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 &lt;p&gt;Meta强调，新工具继承了Facebook、Instagram和Horizon现有的安全基础设施。&lt;/p&gt;
 &lt;p&gt;所有生成内容在触达玩家前均须经过Meta内容安全系统审核，且安全护栏已嵌入创作流程本身。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;游戏在发布与分发前须经审核，并自动获得年龄分级，进入对应的年龄段访问层级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面向未成年人的保护机制，Horizon Studio正在创作者社区中进行测试，更大范围的访问权限即将开放，有意参与的用户可登记早期访问候补名单。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国房贷利率升至7%以上，创2025年初以来新高</title><link>https://wallstreetcn.com/articles/3782500</link><guid>d07d21e8b7585470da1e5f6c6f07d46a15fa896c29aff92e5b5e702e82a82143</guid><pubDate>Thu, 24 Sep 2026 18:39:28 GMT</pubDate><description>&lt;p&gt;美国抵押贷款利率自2025年1月以来首次升破7%，进一步加大了本已低迷的房地产市场压力。&lt;/p&gt;
-&lt;p&gt;房地美（Freddie Mac）周四在一份声明中表示，美国30年期固定利率抵押贷款平均利率升至7.03%，高于一周前的6.95%。一年前，该利率为6.3%。&lt;/p&gt;
-&lt;p&gt;借贷成本上升之际，美国国债市场遭遇抛售。周三10年期美债收益率上升4个基点至5.157%，再创近20年来最高水平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;不断攀升的利率正给卖家带来压力。根据Redfin汇编的数据，8月份美国市场上近五分之一的房屋出现了降价。&lt;/p&gt;
-&lt;p&gt;“当利率从6%多升到7%时，就会触及一个心理关口。”密西西比大学金融学教授Ken Johnson表示，“这意味着我们将看到市场放缓。”&lt;/p&gt;
-&lt;p&gt;Realtor高级经济学家Anthony Smith也持类似看法。他表示，7%这一关口“既是心理上的，也是数学上的”，而且这一关口恰好出现在通常买方议价能力开始增强的季节性阶段。&lt;/p&gt;
-&lt;p&gt;美国联邦政府周四公布的数据显示，&lt;a href="https://wallstreetcn.com/articles/3782487"&gt;8月份美国新屋销售中位价同比下降5.8%&lt;/a&gt;，至39.37万美元。这是自2025年7月以来最大的同比降幅，也反映出售价低于30万美元的新屋签约量有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债“连遭暴击”！7年期美债拍卖遇冷，财政部回购规模再度低于上限，市政债收益率创15年新高</title><link>https://wallstreetcn.com/articles/3782509</link><guid>0c6e8b3870cbd84a9c0844ad1868048d28dd3dd3a57bc72c4c63a58d717308e3</guid><pubDate>Fri, 25 Sep 2026 00:55:18 GMT</pubDate><description>&lt;p&gt;美国固定收益市场本周全线承压，多个关键指标同步恶化。7年期国债拍卖收益率创该期限历史新高，财政部第二次扩大版国债回购操作执行比例进一步滑落至68%，30年期市政债收益率突破5%关口触及2011年来最高水平，三重压力叠加，令市场对长端利率走势的担忧持续升温。&lt;/p&gt;
+&lt;p&gt;面向未成年人的保护机制，Horizon Studio正在创作者社区中进行测试，更大范围的访问权限即将开放，有意参与的用户可登记早期访问候补名单。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债“连遭暴击”！7年期美债拍卖遇冷，财政部回购规模再度低于上限，市政债收益率创15年新高</title><link>https://wallstreetcn.com/articles/3782509</link><guid>0c6e8b3870cbd84a9c0844ad1868048d28dd3dd3a57bc72c4c63a58d717308e3</guid><pubDate>Fri, 25 Sep 2026 00:55:18 GMT</pubDate><description>&lt;p&gt;美国固定收益市场本周全线承压，多个关键指标同步恶化。7年期国债拍卖收益率创该期限历史新高，财政部第二次扩大版国债回购操作执行比例进一步滑落至68%，30年期市政债收益率突破5%关口触及2011年来最高水平，三重压力叠加，令市场对长端利率走势的担忧持续升温。&lt;/p&gt;
 &lt;p&gt;周四，&lt;strong&gt;财政部440亿美元7年期国债拍卖中标收益率升至5.085%，创该期限有记录以来最高水平，尾部为今年3月以来最大，海外投资者获配比例降至2025年11月以来最低。&lt;/strong&gt;拍卖结束后，10年期美债收益率重新逼近5.15%，30年期收益率一度涨至5.49%，为2004年以来最高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;财政部当日进行的第二次扩大版&amp;quot;流动性支持&amp;quot;回购操作仅接受40.78亿美元报价，相当于60亿美元上限的68%，低于两周前首次扩大操作时约86%的执行比例。&lt;/strong&gt;市场流动性支持力度再度不及预期。&lt;/p&gt;
@@ -367,4 +363,32 @@ QLC重塑AI基础设施架构
 &lt;p&gt;&lt;strong&gt;然而，凭借1.7万亿美元的资产负债表规模及1460亿美元的市值，瑞银能够匹配的潜在合并对象极为有限。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Semafor分析指出，&lt;strong&gt;摩根士丹利是外界长期讨论的可能候选方之一&lt;/strong&gt;。该机构此前一直有意获取瑞银旗下规模达7万亿美元的财富管理账户资产。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此外，渣打银行及德意志银行也被视为成本相对较低的替代路径。&lt;/strong&gt;值得注意的是，瑞银执行董事长Colm Kelleher曾任职于摩根士丹利。&lt;/p&gt;
-&lt;p&gt;目前，瑞银盈利能力依然强劲，资本水平充足，但这场监管博弈愈发指向一个核心问题：瑞士当局究竟允许股东从瑞银未来的利润中获取多少回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;目前，瑞银盈利能力依然强劲，资本水平充足，但这场监管博弈愈发指向一个核心问题：瑞士当局究竟允许股东从瑞银未来的利润中获取多少回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储3位官员同日放鹰，市场预期10月加息概率升至69%</title><link>https://wallstreetcn.com/articles/3782502</link><guid>d95578114662183a85a4fbe1abac10e146d70497a751edc5468b763c6963947a</guid><pubDate>Thu, 24 Sep 2026 22:52:18 GMT</pubDate><description>&lt;p&gt;美联储多位官员近日密集表态，警告通胀持续高企，当前政策立场可能仍不足以将物价压回2%目标，市场对10月加息的预期随之大幅升温。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周四，费城联储主席Anna Paulson明确表示，若经济形势如预期演变，&amp;quot;适度进一步收紧政策或有必要&amp;quot;。&lt;a href="https://wallstreetcn.com/articles/3782460?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;纽约联储主席John Williams&lt;/a&gt;亦在同日发言表示，年底前再度加息是“合理”的，降低通胀仍需付出更多努力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两人的表态与美联储上周决策基调高度一致——联邦公开市场委员会（FOMC）在上次会议上一致同意加息25个基点，并发布预测显示年内至少还有一次加息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;受上述官员表态及近期强劲经济数据的共同推动，投资者对10月加息的预期概率已从上周末的53%升至约69%，&lt;/strong&gt;美联储下次政策会议将于10月28日结束，距国会中期选举仅剩六天。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;目前市场对终端利率的定价已明显高于美联储最新点阵图。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+通胀居高不下，官员措辞趋鹰
+
+&lt;p&gt;Paulson在费城出席活动时表示，剔除能源和食品的核心通胀指标依然&amp;quot;顽固地偏高&amp;quot;，目前运行区间约为2.5%至3%，几乎未见向2%目标收敛的迹象。&lt;/p&gt;
+&lt;p&gt;&amp;quot;今年关于核心通胀，我能说的最好情况是，它没有继续恶化，&amp;quot;Paulson说，&amp;quot;在此背景下，通胀持续高企的风险已经上升。&amp;quot;&lt;/p&gt;
+&lt;p&gt;她同时指出，美国经济表现出较强韧性，产出增长稳健，劳动力市场接近充分就业，甚至出现&amp;quot;动能增强&amp;quot;的迹象。但这一有利局面也意味着，货币政策有足够空间聚焦于控通胀目标，而无需过多权衡经济下行风险。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;克利夫兰联储主席Beth Hammack同日也强调，在通胀已长期偏高的环境下，外部冲击接连到来，将显著增加&amp;quot;通胀预期脱锚&amp;quot;的风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美联储理事Michael Barr周三表示，“进一步的政策调整很可能是必要的”，以确保通胀及时回到目标。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://wallstreetcn.com/articles/3782318?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;里士满联储主席Tom Barkin在周二表示&lt;/a&gt;，通胀降温不会一蹴而就，供给侧冲击已由&amp;quot;暂时性&amp;quot;演变为持续性压力，高企的通胀水平存在向未来预期固化传导的风险。&lt;/strong&gt;&lt;/p&gt;
+
+多重供给冲击叠加，通胀压力来源复杂
+
+&lt;p&gt;美联储主席沃什在上周新闻发布会上措辞简短而强硬，称&amp;quot;我们的主要关注点在于价格稳定这一使命目标，通胀过高已持续过久，这是不争的事实。&amp;quot;&lt;/p&gt;
+&lt;p&gt;从通胀驱动因素来看，以个人消费支出（PCE）价格指数衡量，美国通胀率7月同比为3.7%。&lt;/p&gt;
+&lt;p&gt;Hammack指出，当前通胀在很大程度上由贸易关税的后续影响以及能源价格飙升所驱动。与此同时，与中东地区冲突相关的价格压力以及人工智能数据中心建设带动的需求，也构成新的通胀来源。&lt;/p&gt;
+&lt;p&gt;Paulson补充道，尽管关税对消费价格的直接冲击有所缓和，但薪资增长整体仍属温和，尚不构成额外的劳动力成本型通胀压力。&lt;/p&gt;
+
+白宫与美联储分歧浮现
+
+&lt;p&gt;密集的加息信号已开始引发白宫的公开不满。美国国家经济委员会主任&lt;a href="https://wallstreetcn.com/articles/3782404?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;哈塞特周三称美联储&amp;quot;异常党派化&amp;quot;&lt;/a&gt;，表示&amp;quot;过去几天，许多并非由特朗普总统任命的官员发表讲话，表示需要更多次加息。&amp;quot;&lt;/p&gt;
+&lt;p&gt;这一表态标志着白宫与美联储之间的紧张关系进一步显性化。&lt;/p&gt;
+&lt;p&gt;Paulson是本年度FOMC的投票委员，上述多位官员的集体发声，表明美联储政策委员会内部在继续收紧的方向上存在较为广泛的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
