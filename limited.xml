@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 05:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI据报酝酿500美元“Pro Max”套餐：主打最快Work与Codex，或接入Cerebras算力</title><link>https://wallstreetcn.com/articles/3782524</link><guid>1929d37b2c443f31ca9a0963c73ed52f023c8290d7ed9fbc5ad9358f610af4f3</guid><pubDate>Fri, 25 Sep 2026 03:08:46 GMT</pubDate><description>&lt;p&gt;OpenAI可能计划推出一款定价500美元的高端订阅套餐，但该消息尚未获得官方确认。&lt;/p&gt;
-&lt;p&gt;9月24日，据科技信息追踪账号TestingCatalog报道，&lt;strong&gt;OpenAI正筹备推出名为&amp;quot;Pro Max&amp;quot;的ChatGPT订阅套餐，月费定价500美元，并可能采用Cerebras基础设施提供支持。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;若该计划最终落地，将为该公司提供一种针对高阶功能和超大计算量收取溢价的新途径。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，OpenAI官方定价页面列出的套餐仅包括Free、Go、Plus、Pro、Business及Enterprise六档，并未出现Pro Max选项。&lt;/p&gt;
-
-市场焦点转向DevDay 2026
-
-&lt;p&gt;根据TestingCatalog的描述，&lt;strong&gt;Pro Max与现有Pro套餐的主要区别在于增加了&amp;quot;Fastest Work and Codex&amp;quot;功能，同时使用额度也可能进一步提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，报道并未解释&amp;quot;最快工作速度&amp;quot;究竟快多少，也未说明Codex访问权限的具体形式，以及Cerebras是否将最终承接该套餐的算力支持。&lt;/p&gt;
-&lt;p&gt;TestingCatalog将这一传闻与&amp;quot;长时任务&amp;quot;场景挂钩。即需要ChatGPT在较长时间内持续执行操作、而非仅回答单次提问的工作类型。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据报道，更多细节或将在9月29日于旧金山举行的OpenAI DevDay 2026上揭晓，但这仅是该账号的推测。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在OpenAI发布的官方活动公告中，并未提及任何关于Pro Max计划的内容。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌Gemini 3.8 Live上线"数字人"实时对话，支持多国语言与口型同步</title><link>https://wallstreetcn.com/articles/3782495</link><guid>38fa29a0578220876dd405468e14df68eb105776078cc7379ea27016318bb136</guid><pubDate>Thu, 24 Sep 2026 17:59:38 GMT</pubDate><description>&lt;p&gt;谷歌云旗下Gemini 3.8 Live with Live Avatar功能正式面向企业用户全面开放，将实时视频虚拟形象与多语言语音对话能力整合为一体，标志着企业级对话式AI从纯语音交互向多模态视觉交互迈进。&lt;/p&gt;
-&lt;p&gt;该功能于本周正式在Gemini Enterprise中上线，此前已在Google Cloud Next 2026上完成预览展示。&lt;/p&gt;
-&lt;p&gt;新版本支持视频虚拟形象的实时唇形同步、97种语言自动识别与切换，以及后台工具调用与API执行，同时提供美国和欧盟双区域端点部署，满足企业合规与数据治理要求。&lt;/p&gt;
-&lt;p&gt;从客户落地情况来看，Cox Automotive已将该技术应用于旗下Autotrader平台，构建了可实时高亮屏幕内容、引导消费者完成车辆搜索与融资流程的购车AI助手；印度AI公司Equal AI则表示，基于Gemini 3.8 Live，其平台目前每日处理超过百万次实时通话，覆盖九种印度语言。&lt;/p&gt;
-&lt;p&gt;这是谷歌本周第二次发布新的人工智能模型。周三，&lt;a href="https://wallstreetcn.com/articles/3782399?keyword=%E8%B0%B7%E6%AD%8C"&gt;谷歌宣布推出Gemini 3.8 Flash TTS和Gemini 3.8 Flash-Lite TTS两款文本转语音模型。&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;周四截至发稿，谷歌盘中上涨0.66%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-核心功能：多模态融合，超越语音基础能力
-
-&lt;p&gt;Gemini 3.8 Live with Live Avatar在原有语音基础上引入视觉交互层，主要面向网页端、移动端及实体交互终端（interactive kiosks）等多种部署场景。&lt;/p&gt;
-&lt;p&gt;在对话连贯性方面，该模型采用原生语音到语音（speech-to-speech）架构，支持自然打断恢复，且不会丢失对话上下文或中断后台事务处理。&lt;/p&gt;
-&lt;p&gt;工具调用能力方面，模型可在持续对话的同时，在后台异步执行工具调用与API请求，让交互体验更为流畅，不因后台任务而产生明显停顿。&lt;/p&gt;
-&lt;p&gt;视觉理解方面，Live Avatar支持实时摄像头画面与屏幕共享的同步处理，可与音频输入并行分析，为服务场景提供更丰富的上下文感知能力。&lt;/p&gt;
-&lt;p&gt;语言覆盖上，97种语言支持及自动检测功能，使其具备面向全球多语言市场的规模化部署潜力。&lt;/p&gt;
-
-信任机制：水印技术与身份管控并行
-
-&lt;p&gt;针对深度伪造及身份滥用风险，谷歌在该功能的合规设计上采取了双层管控策略。&lt;/p&gt;
-&lt;p&gt;在虚拟形象使用层面，企业用户可从谷歌提供的预建虚拟形象库中进行部署；而自定义虚拟形象功能则设有严格的企业白名单与身份核验机制，&lt;/p&gt;
-&lt;p&gt;目前仅限申请通过的企业使用。在内容溯源层面，所有生成的音频与视频流均嵌入谷歌SynthID不可感知水印，以确保AI生成内容在传播过程中保持可识别性与可验证性。&lt;/p&gt;
-&lt;p&gt;这一机制的引入，一定程度上回应了企业部署对话式AI时面临的监管合规压力，尤其是在金融服务、医疗及客户服务等强监管行业。&lt;/p&gt;
-
-客户落地：从购车助手到百万级通话场景
-
-&lt;p&gt;目前已有多家企业披露基于Gemini 3.8 Live的应用进展，涵盖汽车电商、电信客服及CRM等多个垂直领域。&lt;/p&gt;
-&lt;p&gt;Cox Automotive首席产品官Marianne Johnson表示，Autotrader的对话式AI虚拟形象将自然语言描述与库存匹配相结合，是其&amp;quot;连接智能&amp;quot;愿景落地的重要步骤，该愿景旨在让每次消费者互动均能调用Cox Automotive的完整数据资产。&lt;/p&gt;
-&lt;p&gt;Equal AI首席执行官Akhilesh Damaraju称，借助Gemini 3.8 Live在打断处理、多语言对话及工具调用稳定性方面的改进，该平台现已实现每日超百万次实时通话处理，覆盖九种印度语言，目标是构建&amp;quot;了解你、说你的语言、始终站在你这边&amp;quot;的个人AI。&lt;/p&gt;
-&lt;p&gt;Salesforce Agentforce产品副总裁Bob Van Osten表示，Salesforce AI Research与谷歌的合作旨在探索实时多模态能力与代理式AI的结合，以打造从首次接触到问题解决全流程的客户服务体验。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 06:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
 &lt;p&gt;今年以来，Meta股价一度明显承压，但进入9月后快速反弹。&lt;strong&gt;截至9月24日，股价本月累计上涨约36%，创2013年以来最强单月表现，市值重新逼近2万亿美元，距离这一关口仅约1%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;行情反转的背后，Muse带来的AI商业化想象成为重要支撑。Muse于9月8日正式上线，能够自主执行购物、出行、邮件管理等多步骤任务。上线前六天下载量达到90.2万次，超过Meta AI同期的77.3万次，并迅速登顶美国及加拿大苹果应用商店免费榜。&lt;/p&gt;
 &lt;p&gt;但资本市场的乐观预期也在迅速升温。AI代理开始进入购物、预订等真实消费场景，传统互联网平台赖以维持用户的搜索、账号和使用习惯可能受到冲击；与此同时，Muse自身的安全漏洞、隐私争议和高昂算力成本，也让这场AI热潮面临现实约束。&lt;/p&gt;
@@ -72,7 +32,18 @@ AI代理的另一道门槛：算力成本
 &lt;p&gt;Meta当前估值仍相对温和。按彭博汇总的分析师一致预期，公司未来12个月预期市盈率约21倍，略低于纳斯达克100指数的22倍。&lt;/p&gt;
 &lt;p&gt;分析师预计，Meta 2026年营收增长26%至2540亿美元，净利润增长33%至806亿美元；但到2027年，营收和利润增速预计分别放缓至20%和9%。&lt;/p&gt;
 &lt;p&gt;与此同时，AI基础设施投入正在明显挤压现金流。Meta去年自由现金流为460亿美元，但受资本开支大幅增长影响，2026年预计转为-64亿美元，2027年进一步降至-292亿美元。&lt;/p&gt;
-&lt;p&gt;目前，&lt;strong&gt;彭博追踪的分析师中超过90%对Meta维持买入评级，但股价已接近分析师平均目标价。经过这一轮快速上涨后，市场对Meta的AI预期已经明显升温，Muse能否从用户增长进一步走向稳定变现，将成为下一阶段估值能否继续扩张的关键。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市风暴延续！日本30年期国债收益率创1999年以来新高，港股走低，恒科指跌2%</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 04:33:24 GMT</pubDate><description>&lt;p&gt;尽管油价有所回落，亚洲债券收益率周五仍持续攀升，中东冲突未见降温，市场对通胀和利率上行的担忧尚未缓解。&lt;/p&gt;
+&lt;p&gt;目前，&lt;strong&gt;彭博追踪的分析师中超过90%对Meta维持买入评级，但股价已接近分析师平均目标价。经过这一轮快速上涨后，市场对Meta的AI预期已经明显升温，Muse能否从用户增长进一步走向稳定变现，将成为下一阶段估值能否继续扩张的关键。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI据报酝酿500美元“Pro Max”套餐：主打最快Work与Codex，或接入Cerebras算力</title><link>https://wallstreetcn.com/articles/3782524</link><guid>1929d37b2c443f31ca9a0963c73ed52f023c8290d7ed9fbc5ad9358f610af4f3</guid><pubDate>Fri, 25 Sep 2026 03:08:46 GMT</pubDate><description>&lt;p&gt;OpenAI可能计划推出一款定价500美元的高端订阅套餐，但该消息尚未获得官方确认。&lt;/p&gt;
+&lt;p&gt;9月24日，据科技信息追踪账号TestingCatalog报道，&lt;strong&gt;OpenAI正筹备推出名为&amp;quot;Pro Max&amp;quot;的ChatGPT订阅套餐，月费定价500美元，并可能采用Cerebras基础设施提供支持。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若该计划最终落地，将为该公司提供一种针对高阶功能和超大计算量收取溢价的新途径。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，OpenAI官方定价页面列出的套餐仅包括Free、Go、Plus、Pro、Business及Enterprise六档，并未出现Pro Max选项。&lt;/p&gt;
+
+市场焦点转向DevDay 2026
+
+&lt;p&gt;根据TestingCatalog的描述，&lt;strong&gt;Pro Max与现有Pro套餐的主要区别在于增加了&amp;quot;Fastest Work and Codex&amp;quot;功能，同时使用额度也可能进一步提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，报道并未解释&amp;quot;最快工作速度&amp;quot;究竟快多少，也未说明Codex访问权限的具体形式，以及Cerebras是否将最终承接该套餐的算力支持。&lt;/p&gt;
+&lt;p&gt;TestingCatalog将这一传闻与&amp;quot;长时任务&amp;quot;场景挂钩。即需要ChatGPT在较长时间内持续执行操作、而非仅回答单次提问的工作类型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据报道，更多细节或将在9月29日于旧金山举行的OpenAI DevDay 2026上揭晓，但这仅是该账号的推测。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在OpenAI发布的官方活动公告中，并未提及任何关于Pro Max计划的内容。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市风暴延续！日本30年期国债收益率创1999年以来新高，港股走低，恒科指跌2%</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 04:33:24 GMT</pubDate><description>&lt;p&gt;尽管油价有所回落，亚洲债券收益率周五仍持续攀升，中东冲突未见降温，市场对通胀和利率上行的担忧尚未缓解。&lt;/p&gt;
 &lt;p&gt;美国国债抛售压力再次向亚洲市场蔓延。全球债券指数收益率升至4%，为2007年以来首次；纽约交易时段，30年期美债收益率升至2004年以来最高水平。受此影响，澳大利亚和新西兰10年期国债收益率均上涨约3个基点，日本30年期国债收益率升至4.21%，创1999年上市以来新高。&lt;/p&gt;
 &lt;p&gt;股市方面，香港股市午间收盘走弱，恒生指数跌1.69%，恒生科技指数跌2.14%，网易、理想汽车、小米、京东、阿里巴巴、比亚迪、快手等科技和消费股普遍下跌。日经225指数和东证指数均上涨1.2%；A股和韩国股市因假期休市。&lt;/p&gt;
 &lt;p&gt;拉弗·滕格勒投资公司投资组合经理拜伦·安德森表示，市场已经为收益率进一步走高做好准备。他认为，加息无法直接解决中东局势、能源价格和通胀等问题，反而会进一步推高整体融资成本；如果美联储采取更激进的政策，最终可能对就业市场和消费者形成冲击。&lt;/p&gt;
@@ -95,30 +66,7 @@ AI代理的另一道门槛：算力成本
 &lt;p&gt;&lt;/p&gt;
  
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中美AI共振！下半年企业级硬盘（eSSD）需求将激增</title><link>https://wallstreetcn.com/articles/3782525</link><guid>8324898aa1b7c615b4678fc4793a8e2c3bd28e106b9a4039e3e2006fbc206cc2</guid><pubDate>Fri, 25 Sep 2026 03:07:24 GMT</pubDate><description>&lt;p&gt;AI浪潮正在重塑全球存储市场格局，北美与中国两大引擎同步发力，企业级固态硬盘（eSSD）迎来结构性需求拐点。&lt;/p&gt;
-&lt;p&gt;据集邦科技（TrendForce）数据，过去两周内，&lt;strong&gt;美国主要云服务商（CSP）已相继上调eSSD采购预测，推动今年四季度eSSD订单总量有望超越三季度创下的历史纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，花旗研究在9月21日发布的报告中预测，受持续学习（continual learning）技术普及驱动，&lt;strong&gt;2027年eSSD需求将同比增长52.9%，NAND供需缺口届时将扩大至-6.1%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;需求结构亦发生质变：高容量、低成本的QLC（四层单元）产品正加速崛起，与过去主导市场的高性能TLC产品并驾齐驱，标志着eSSD的应用场景已从AI模型训练与推理扩展至更广泛的AI应用层。行业内人士表示，受NAND厂商加强产能与定价管控影响，eSSD价格上行压力预计将延续至四季度。&lt;/p&gt;
-
-两大需求引擎：北美Agent AI与中国KV缓存卸载
-
-&lt;p&gt;行业专家指出，下半年eSSD需求将由两条主线共同驱动——北美的Agent AI扩张以及中国的KV缓存卸载（KV cache offloading）技术应用。&lt;/p&gt;
-&lt;p&gt;在北美，随着Agent AI加速普及，大规模实时数据检索与缓存需求急剧攀升。TrendForce分析称，Agent AI在进行自主决策与行动时，需快速访问和存储大量上下文数据，这将显著提升对高性能eSSD的需求。花旗研究亦指出，持续学习技术要求AI系统在不断吸收新信息的同时保留历史数据，由此催生对大容量存储的持续性需求。&lt;/p&gt;
-&lt;p&gt;在中国，以DeepSeek为代表的AI企业正积极推广KV缓存卸载方案——该技术通过将推理过程中优先级较低的缓存数据从高性能内存（HBM、GDDR）迁移至高速大容量QLC固态硬盘，以降低对昂贵高性能内存的依赖，同时提升模型推理效率、压缩整体成本。&lt;/p&gt;
-
-QLC重塑AI基础设施架构
-
-&lt;p&gt;此轮需求增长的核心特征，是QLC产品的全面崛起。云服务商正积极借助QLC兼顾高容量与成本效益，其应用场景涵盖向量数据库构建——这是AI搜索与推荐系统的核心组件。TrendForce认为，这一转变或将推动AI基础设施设计以QLC为中心进行重构，影响范围已超出少数超大规模云厂商的采购调整。&lt;/p&gt;
-&lt;p&gt;花旗研究进一步指出，基于QLC的近GPU存储方案（near-GPU storage）将逐步获得市场认可，以支持AI系统在加速器附近实现更高效的数据保留与检索。此外，XL Flash、HBF等高级存储解决方案以及CXL等存储互补技术的需求也将同步上升。&lt;/p&gt;
-&lt;p&gt;从更长周期来看，&lt;strong&gt;花旗预测2027至2028年高密度eSSD需求将分别同比增长53%和41%，HDD向SSD的替代需求亦将为高密度存储采用提供额外支撑&lt;/strong&gt;。消费级NAND需求虽因PC及移动终端市场疲软而承压，但花旗认为，强劲的企业级AI需求足以抵消这一拖累。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-供给端收紧，NAND厂商定价权增强
-
-&lt;p&gt;需求扩张正驱动NAND供需天平加速向卖方倾斜。花旗研究预测，2027至2028年NAND需求分别同比增长29%和33%，而供给增速仅为21%和25%——差距来源于存储厂商普遍将资本开支优先投向DRAM及HBM产能扩张，对NAND的新增投资相对克制，由此形成2027年-6.1%、2028年-5.5%的供需缺口（2026年预估仅为-0.8%）。&lt;/p&gt;
-&lt;p&gt;TrendForce亦指出，包括三星电子、SK Hynix、美光（Micron）、铠侠（Kioxia）及长江存储（YMTC）在内的主要NAND厂商，正在加强对企业市场产能分配与定价的管控，eSSD进一步涨价的可能性较高。&lt;/p&gt;
-&lt;p&gt;今年二季度，eSSD市场格局方面，三星电子以141.54亿美元营收居首，市场份额35.1%；SK Hynix与Solidigm合计实现86.31亿美元，占比21.1%；美光以69.83亿美元位列第三，份额17.1%。在中国市场，长江存储有望凭借KV缓存卸载需求的爆发获得份额提升机会。&lt;/p&gt;
-&lt;p&gt;花旗研究对三星电子和SK Hynix均维持&amp;quot;买入&amp;quot;评级，认为两者均有望受益于NAND基本面趋紧及AI驱动的结构性存储需求增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;30年期美债收益率触及2004年以来最高水平，10年期收益率升破5.2%，2007年来首次。受此拖累，标普500指数收盘基本持平，但内部结构分化明显，多数成分股下跌。&lt;/p&gt;
 &lt;p&gt;布伦特原油结算价维持在每桶107美元附近，此前曾因有报道称美国与伊朗正就重开霍尔木兹海峡探索阶段性协议而短暂回落，但随即遭伊朗方面否认，油价随即反弹。&lt;/p&gt;
@@ -278,7 +226,30 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 日美利差仍是日元重要约束
 &lt;p&gt;日本央行9月18日将政策利率上调至1.25%，行长植田和男随后表示，不排除10月继续加息或在未来某一时点采取更大幅度行动的可能性，但市场反应相对有限。&lt;/p&gt;
 &lt;p&gt;相比之下，美联储最新利率路径仍对美元形成支撑。美联储会议后的点阵图显示，年内至少还有一次加息预期，交易员目前将美联储10月28日再度加息的概率定价至71%。&lt;strong&gt;日美利差预期的差异，仍是影响日元走势的重要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据报道，日元上周走弱后，日本金融当局曾在纽约交易时段进行汇率确认询价，向多家银行询问日元当前报价。市场通常将此类操作视为日本当局密切关注汇率走势的信号。约一年前，日美两国财长曾通过联合声明确认双方的汇率政策立场，而此次日美领导人直接讨论汇率问题，也进一步提高了市场对后续政策沟通的关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 按揭利率突破7%！高利率加剧美国“可负担危机”</title><link>https://wallstreetcn.com/articles/3782521</link><guid>cc106fbd119daad857bab866b1a2131ab709e82a8e07a6ac02e21d51add49642</guid><pubDate>Fri, 25 Sep 2026 01:59:09 GMT</pubDate><description>&lt;p&gt;美国房贷利率触及逾一年半高位，美国居民购房负担能力危机深化，选举季政治压力随之升温。&lt;/p&gt;
+&lt;p&gt;据报道，日元上周走弱后，日本金融当局曾在纽约交易时段进行汇率确认询价，向多家银行询问日元当前报价。市场通常将此类操作视为日本当局密切关注汇率走势的信号。约一年前，日美两国财长曾通过联合声明确认双方的汇率政策立场，而此次日美领导人直接讨论汇率问题，也进一步提高了市场对后续政策沟通的关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中美AI共振！下半年企业级硬盘（eSSD）需求将激增</title><link>https://wallstreetcn.com/articles/3782525</link><guid>8324898aa1b7c615b4678fc4793a8e2c3bd28e106b9a4039e3e2006fbc206cc2</guid><pubDate>Fri, 25 Sep 2026 03:07:24 GMT</pubDate><description>&lt;p&gt;AI浪潮正在重塑全球存储市场格局，北美与中国两大引擎同步发力，企业级固态硬盘（eSSD）迎来结构性需求拐点。&lt;/p&gt;
+&lt;p&gt;据集邦科技（TrendForce）数据，过去两周内，&lt;strong&gt;美国主要云服务商（CSP）已相继上调eSSD采购预测，推动今年四季度eSSD订单总量有望超越三季度创下的历史纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，花旗研究在9月21日发布的报告中预测，受持续学习（continual learning）技术普及驱动，&lt;strong&gt;2027年eSSD需求将同比增长52.9%，NAND供需缺口届时将扩大至-6.1%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;需求结构亦发生质变：高容量、低成本的QLC（四层单元）产品正加速崛起，与过去主导市场的高性能TLC产品并驾齐驱，标志着eSSD的应用场景已从AI模型训练与推理扩展至更广泛的AI应用层。行业内人士表示，受NAND厂商加强产能与定价管控影响，eSSD价格上行压力预计将延续至四季度。&lt;/p&gt;
+
+两大需求引擎：北美Agent AI与中国KV缓存卸载
+
+&lt;p&gt;行业专家指出，下半年eSSD需求将由两条主线共同驱动——北美的Agent AI扩张以及中国的KV缓存卸载（KV cache offloading）技术应用。&lt;/p&gt;
+&lt;p&gt;在北美，随着Agent AI加速普及，大规模实时数据检索与缓存需求急剧攀升。TrendForce分析称，Agent AI在进行自主决策与行动时，需快速访问和存储大量上下文数据，这将显著提升对高性能eSSD的需求。花旗研究亦指出，持续学习技术要求AI系统在不断吸收新信息的同时保留历史数据，由此催生对大容量存储的持续性需求。&lt;/p&gt;
+&lt;p&gt;在中国，以DeepSeek为代表的AI企业正积极推广KV缓存卸载方案——该技术通过将推理过程中优先级较低的缓存数据从高性能内存（HBM、GDDR）迁移至高速大容量QLC固态硬盘，以降低对昂贵高性能内存的依赖，同时提升模型推理效率、压缩整体成本。&lt;/p&gt;
+
+QLC重塑AI基础设施架构
+
+&lt;p&gt;此轮需求增长的核心特征，是QLC产品的全面崛起。云服务商正积极借助QLC兼顾高容量与成本效益，其应用场景涵盖向量数据库构建——这是AI搜索与推荐系统的核心组件。TrendForce认为，这一转变或将推动AI基础设施设计以QLC为中心进行重构，影响范围已超出少数超大规模云厂商的采购调整。&lt;/p&gt;
+&lt;p&gt;花旗研究进一步指出，基于QLC的近GPU存储方案（near-GPU storage）将逐步获得市场认可，以支持AI系统在加速器附近实现更高效的数据保留与检索。此外，XL Flash、HBF等高级存储解决方案以及CXL等存储互补技术的需求也将同步上升。&lt;/p&gt;
+&lt;p&gt;从更长周期来看，&lt;strong&gt;花旗预测2027至2028年高密度eSSD需求将分别同比增长53%和41%，HDD向SSD的替代需求亦将为高密度存储采用提供额外支撑&lt;/strong&gt;。消费级NAND需求虽因PC及移动终端市场疲软而承压，但花旗认为，强劲的企业级AI需求足以抵消这一拖累。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+供给端收紧，NAND厂商定价权增强
+
+&lt;p&gt;需求扩张正驱动NAND供需天平加速向卖方倾斜。花旗研究预测，2027至2028年NAND需求分别同比增长29%和33%，而供给增速仅为21%和25%——差距来源于存储厂商普遍将资本开支优先投向DRAM及HBM产能扩张，对NAND的新增投资相对克制，由此形成2027年-6.1%、2028年-5.5%的供需缺口（2026年预估仅为-0.8%）。&lt;/p&gt;
+&lt;p&gt;TrendForce亦指出，包括三星电子、SK Hynix、美光（Micron）、铠侠（Kioxia）及长江存储（YMTC）在内的主要NAND厂商，正在加强对企业市场产能分配与定价的管控，eSSD进一步涨价的可能性较高。&lt;/p&gt;
+&lt;p&gt;今年二季度，eSSD市场格局方面，三星电子以141.54亿美元营收居首，市场份额35.1%；SK Hynix与Solidigm合计实现86.31亿美元，占比21.1%；美光以69.83亿美元位列第三，份额17.1%。在中国市场，长江存储有望凭借KV缓存卸载需求的爆发获得份额提升机会。&lt;/p&gt;
+&lt;p&gt;花旗研究对三星电子和SK Hynix均维持&amp;quot;买入&amp;quot;评级，认为两者均有望受益于NAND基本面趋紧及AI驱动的结构性存储需求增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 按揭利率突破7%！高利率加剧美国“可负担危机”</title><link>https://wallstreetcn.com/articles/3782521</link><guid>cc106fbd119daad857bab866b1a2131ab709e82a8e07a6ac02e21d51add49642</guid><pubDate>Fri, 25 Sep 2026 01:59:09 GMT</pubDate><description>&lt;p&gt;美国房贷利率触及逾一年半高位，美国居民购房负担能力危机深化，选举季政治压力随之升温。&lt;/p&gt;
 &lt;p&gt;本周四，据房地美数据，&lt;strong&gt;美国30年期固定抵押贷款利率于升至7.03%，为2025年1月以来首次触及该水平。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;7%的利率关口正在买家、卖家与开发商之间引发连锁反应。结合今夏公布的疲软成屋销售数据与住宅开工数据，&lt;strong&gt;经济学家警告，已陷入四年销售停滞的美国楼市复苏前景愈发黯淡。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Realtor.com高级经济学家Anthony Smith表示：&lt;/p&gt;
@@ -365,4 +336,35 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 &lt;p&gt;当地居民此前并不知晓该项目与甲骨文和OpenAI存在关联。据彭博此前查阅的文件显示，开发商在获得审批后才公开了这一信息，由此引发更广泛的信任危机。&lt;/p&gt;
 &lt;p&gt;甲骨文目前已在新墨西哥州展开公关攻势，试图化解当地反对情绪，但效果尚不明朗。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国中期选举结果将成为影响项目走向的关键变量，若民主党赢得多数席位，外界普遍预期将对相关项目施加更严格的监管审查，进一步推迟建设进程。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一政治不确定性，叠加许可瓶颈、融资压力与能源供应延误，正在将Project Jupiter从一个AI投资盛景的象征，逐步演变为整个美国AI基础设施建设能否如期落地的压力测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这一政治不确定性，叠加许可瓶颈、融资压力与能源供应延误，正在将Project Jupiter从一个AI投资盛景的象征，逐步演变为整个美国AI基础设施建设能否如期落地的压力测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银考虑与外国银行合并以摆脱瑞士监管，股价应声上涨</title><link>https://wallstreetcn.com/articles/3782513</link><guid>47007c8c5a9881f4bfecd2398e380a22237382de7a72e38e312753c04ee6e2ce</guid><pubDate>Fri, 25 Sep 2026 01:53:26 GMT</pubDate><description>&lt;p&gt;瑞士议会推进严格资本要求，令瑞银与本国监管机构的对峙进一步激化。&lt;/p&gt;
+&lt;p&gt;9月24日，据Semafor援引知情人士报道，&lt;strong&gt;瑞银高层已重启有关如何令该行脱离瑞士监管机构管控的讨论，合并方案是选项之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报道发布后，瑞银在美国市场股价一度上涨1.9%。摩根士丹利股价一度迅速下跌，随后跌幅有所收窄，市场对潜在合并对象的猜测随之升温。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此番讨论的直接导火索，是瑞士议会本周推进了一项立法，要求瑞银补充最多约200亿美元的资本。&lt;/strong&gt;瑞银管理层表示，这一要求将严重削弱其盈利性贷款能力。首席执行官Sergio Ermotti以强烈措辞表达了不满：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个黑眼圈我们还能接受，但两个黑眼圈加一个断鼻梁就太多了。&lt;/p&gt;
+&lt;/blockquote&gt;
+议会表决：瑞银遭遇重大挫折
+&lt;p&gt;瑞士联邦院本周的表决结果，标志着瑞银在这场与本国监管机构长达一年以上的博弈中遭受明显失利。&lt;/p&gt;
+&lt;p&gt;此次通过的90% CET1覆盖要求，远高于瑞银所支持的替代方案——该方案仅要求50%以CET1覆盖，其余可以额外一级资本（AT1）替代。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瑞士政府此前提出了更为严格的100% CET1要求，但以23票对22票的极微弱差距被参议员否决，最终敲定的90%方案因此接近政府立场，与瑞银期望相去甚远。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更广泛的银行法修订方案以33票对10票在联邦院获得通过，但立法程序尚未终结。&lt;strong&gt;该法案仍须提交瑞士国民院（National Council）审议，后者有权修改或软化上院条款。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;立法程序推进至国民院后，瑞银仍有机会争取更为温和的最终方案。预计瑞银将继续游说，力推50%/50%的CET1与AT1混合模式，而瑞士政府则坚守100% CET1的强硬立场。&lt;/p&gt;
+资本压力：数字背后的竞争代价
+&lt;p&gt;此次监管争议的核心，在于瑞银所承担的潜在资本压力规模。&lt;/p&gt;
+&lt;p&gt;瑞银方面估算，90%的CET1覆盖要求将额外需要约160亿美元的顶级资本。加上今年其他监管措施所带来的约20亿美元，以及收购瑞士信贷后现行规定已要求的约150亿美元，瑞银在瑞士母行层面的增量CET1资本总需求，与收购瑞士信贷前相比或高达约330亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瑞银同时估计，上述收购后资本变化所带来的年度综合成本可能达到约25亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对投资者而言，被强制留存于母行的资本，意味着可用于股票回购、分红及业务扩张的资金减少，长期股东回报因此面临下行压力。&lt;strong&gt;若无法通过提高利润率、压缩成本或转向资本占用较低业务加以弥补，资本要求的提升将直接压低股本回报率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瑞银方面强调，相比美国同业，这一监管环境明显处于不利地位。&lt;/strong&gt;特朗普政府正推行去监管化政策，美国银行机构的资本束缚正逐步松绑。&lt;/p&gt;
+监管逻辑：瑞士信贷危机留下的教训
+&lt;p&gt;瑞士监管机构力推严格资本要求，根源在于2023年瑞士信贷崩溃所揭示的系统性漏洞。&lt;/p&gt;
+&lt;p&gt;监管层从中得出的结论是，当一家全球性银行陷入危机时，积存于海外子公司的资本往往难以被瑞士母行迅速动用。要求以高质量权益资本在母行层面覆盖更高比例的海外子公司价值，旨在为潜在损失构建更厚实的缓冲，从而降低纳税人再度被迫支撑问题机构的风险。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CET1之所以受到监管机构青睐，在于其主要由普通股权及留存收益构成，可即时吸收损失。AT1债券虽同样具备吸损功能，但其地位在瑞士信贷获救过程中颇具争议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;彼时约160亿瑞士法郎的AT1债务被悉数减记，而股东仍获得部分价值补偿，引发市场强烈质疑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瑞银则坚持认为，结构设计合理的AT1仍是有效的损失吸收工具，过度依赖成本更高的CET1将削弱其国际竞争力。&lt;/strong&gt;&lt;/p&gt;
+合并传言：迁出瑞士的多重路径
+&lt;p&gt;面对监管压力持续升级，&lt;strong&gt;据Semafor报道，瑞银高层已重启有关将注册地迁离瑞士的讨论，合并是其中最受关注的选项。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，凭借1.7万亿美元的资产负债表规模及1460亿美元的市值，瑞银能够匹配的潜在合并对象极为有限。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Semafor分析指出，&lt;strong&gt;摩根士丹利是外界长期讨论的可能候选方之一&lt;/strong&gt;。该机构此前一直有意获取瑞银旗下规模达7万亿美元的财富管理账户资产。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此外，渣打银行及德意志银行也被视为成本相对较低的替代路径。&lt;/strong&gt;值得注意的是，瑞银执行董事长Colm Kelleher曾任职于摩根士丹利。&lt;/p&gt;
+&lt;p&gt;目前，瑞银盈利能力依然强劲，资本水平充足，但这场监管博弈愈发指向一个核心问题：瑞士当局究竟允许股东从瑞银未来的利润中获取多少回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
