@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 08:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 08:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
 &lt;p&gt;今年以来，Meta股价一度明显承压，但进入9月后快速反弹。&lt;strong&gt;截至9月24日，股价本月累计上涨约36%，创2013年以来最强单月表现，市值重新逼近2万亿美元，距离这一关口仅约1%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;行情反转的背后，Muse带来的AI商业化想象成为重要支撑。Muse于9月8日正式上线，能够自主执行购物、出行、邮件管理等多步骤任务。上线前六天下载量达到90.2万次，超过Meta AI同期的77.3万次，并迅速登顶美国及加拿大苹果应用商店免费榜。&lt;/p&gt;
 &lt;p&gt;但资本市场的乐观预期也在迅速升温。AI代理开始进入购物、预订等真实消费场景，传统互联网平台赖以维持用户的搜索、账号和使用习惯可能受到冲击；与此同时，Muse自身的安全漏洞、隐私争议和高昂算力成本，也让这场AI热潮面临现实约束。&lt;/p&gt;
@@ -71,68 +71,26 @@ AI基建受电力掣肘，软银股价承压
 &lt;p&gt;日经225指数与东证指数均上涨1.2%，软银股价却逆势下跌3.1%。Oracle就位于新墨西哥州的“木星计划”数据中心项目发出不可抗力通知，称电力供应可能延误。该项目属于Oracle、OpenAI与软银共同参与的5000亿美元Stargate计划，Oracle此举被市场解读为规避项目无法在2028年投运所带来的违约风险。&lt;/p&gt;
 &lt;p&gt;消息进一步引发市场对AI基础设施落地能力的担忧，电力供应正成为制约数据中心扩张的关键瓶颈。软银本周刚通过发债筹集111亿美元，用于投资OpenAI，而相关AI债券利差已扩大至约115个基点，融资成本面临进一步上升压力。&lt;/p&gt;
 &lt;p&gt;与此同时，软银自身杠杆水平较高，估值对AI项目的建设和兑现节奏较为敏感。旗下SB Energy目前虽有约4300亿美元订单积压，但订单高度集中于软银和OpenAI，项目能否按计划落地仍存在不确定性。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工</title><link>https://wallstreetcn.com/articles/3782479</link><guid>8c75de879e77a57c4655167071ed23b0b720f42a4e4aa367ef1c1a9edcfad50f</guid><pubDate>Fri, 25 Sep 2026 07:30:59 GMT</pubDate><description>&lt;p&gt;甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。&lt;/p&gt;
-&lt;p&gt;据彭博报道，&lt;strong&gt;甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;报道称，&lt;strong&gt;甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;消息公布后，甲骨文股价随即下挫，日内一度跌超7%，最终收盘仍跌约3.5%，Blue Owl Capital股价同步收跌3.6%，数据中心供能商Bloom Energy跌幅亦达3.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Project Jupiter是一个规模庞大的特殊目的载体（SPV）项目，计划在新墨西哥州约1400英亩土地上建设四座数据中心，为OpenAI提供总计3000亿美元的算力，融资结构涵盖债券、贷款及Blue Owl股权。&lt;/strong&gt;此次不可抗力通知的发出，令市场对该项目能否如期推进的疑虑骤然升温，相关贷款此前已跌至承压水平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》援引知情人士报道，&lt;strong&gt;即便甲骨文未能在项目首期截止日期前完成供电接入，公司仍有合同义务向投资者支付&amp;quot;持有成本&amp;quot;，以替代租金，期限最长可达三年。&lt;/strong&gt;首期截止日期定于2027年上半年。知情人士表示，&amp;quot;供电风险由甲骨文承担，而非投资者。&amp;quot;&lt;/p&gt;
-
-合同条款明确：供电风险归属甲骨文
-
-&lt;p&gt;据媒体援引知情人士介绍，根据甲骨文与项目开发商——Blue Owl Capital旗下子公司——签订的合同，&lt;strong&gt;不可抗力条款即便允许甲骨文暂缓支付租金，也无法豁免其覆盖债务持有人利息的费用义务，以及向参与该项目的蓝猫头鹰基金提供一定股权回报的义务。相关基金已向该项目投入数十亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不可抗力条款作为合同法律惯例，旨在当不可控事件导致合同履行不可能时，解除当事方的相应义务。甲骨文援引该条款的依据是项目面临不可预见的许可审批延误，进而导致无法为项目接通电力。然而，知情人士强调，合同对于供电风险的归属已有明确约定，该风险由甲骨文而非投资者承担。&lt;/p&gt;
-
-项目本身：规模宏大，麻烦同样巨大
-
-&lt;p&gt;Project Jupiter位于新墨西哥州多纳安纳县，占地约1400英亩，&lt;strong&gt;设计算力容量达2.45吉瓦，相当于约180万户家庭的同时用电量，总投资规模约为1650亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该项目由Stack Infrastructure开发，是Blue Owl的投资组合公司，而Blue Owl本身亦承诺提供股权资金。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，项目自宣布至今近两年，已陷入多重困境：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;关键能源许可申请遭到拒绝；&lt;/li&gt;
-&lt;li&gt;当地居民对项目的供水影响和空气质量问题强烈抗议；&lt;/li&gt;
-&lt;li&gt;甲骨文签约的能源供应商Bloom Energy的燃气排放同样引发外界批评。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;据彭博此前报道，&lt;strong&gt;项目首期工程已较原定完工时间延误至少七个月，原计划于今年11月投入运营的节点已不可能实现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;雪上加霜的是，为Project Jupiter供气的Energy Transfer LP天然气管道项目，原定本月投入使用，但因新墨西哥州土地局多次拒绝批准管线路线许可，已延期至少六个月，最早于2027年2月1日才能投入服务。&lt;/p&gt;
-&lt;p&gt;Bloom Energy股价随甲骨文消息应声下跌。&lt;/p&gt;
-
-不可抗力通知：法律手段背后的财务逻辑
-
-&lt;p&gt;不可抗力条款在能源与大宗商品领域长期是应对极端事件的标准工具。&lt;/p&gt;
-&lt;p&gt;但据律所Quinn Emanuel Urquhart &amp;amp; Sullivan LLP今年6月发布的客户简报，&lt;strong&gt;此类条款正在数据中心开发领域加速普及&lt;/strong&gt;。简报指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在AI数据中心项目中，不可抗力条款已不再是合同末尾的样板条文，而是一项核心的诉讼与风险分配工具，可以决定一个延误究竟只是孤立事件，还是会级联穿透整个项目的建设、客户、电力、保险与融资文件。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;彭博指出，&lt;strong&gt;甲骨文发出该通知的意图，并非立即退出作为项目主要租户的角色，而是在Project Jupiter无法按2028年计划上线的情况下，为自身争取暂缓付款的合同依据。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，此举是否能真正豁免甲骨文此前承诺的财务义务，目前仍存在不确定性。对此，甲骨文发言人回应称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Project Jupiter仍在按计划推进，我们对新墨西哥州的承诺坚定不移，对项目前景充满信心。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此外，值得关注的是，数据中心租约通常含有条款，允许客户在服务未能按时启动的情况下退出合同。谷歌今年与SpaceX签订算力合同时，即保留了在特定日期前无法获得访问权限情形下的终止权利。&lt;/p&gt;
-
-连锁反应：星际之门蓝图与OpenAI的双重压力
-
-&lt;p&gt;&lt;strong&gt;Project Jupiter延误的影响远不止于单一项目。作为星际之门计划的旗舰园区，其进度直接牵动OpenAI的算力部署节奏。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI此前已与甲骨文和软银签署协议，支持包括新墨西哥州在内的五个数据中心的开发建设，算力缺口一旦形成，将对其产品扩张计划和商业化进程产生实质影响。&lt;/p&gt;
-&lt;p&gt;Blue Owl Capital股价随消息公布跌至近两个月低点，持续逼近历史低位。甲骨文自身财务状况亦不容乐观，公司债务规模约为1670亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;甲骨文的信用违约互换（CDS）价差已连续刷新历史高位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;星际之门计划的另一锚点项目、由软银孙正义主导的SB Energy数据中心同样麻烦缠身。&lt;/strong&gt;该项目IPO计划已因类似的延误问题被迫推迟。&lt;/p&gt;
-&lt;p&gt;SB Energy设计发电量高达8吉瓦，完工后将成为全球最大数据中心，但其落地同样面临来自地方层面的强烈阻力。甲骨文今日的不可抗力通知，或将进一步打击外界对该IPO的信心。&lt;/p&gt;
-
-政治变量：中期选举或加剧项目不确定性
-
-&lt;p&gt;项目所在的新墨西哥州正成为AI数据中心建设争议的政治风向标。&lt;/p&gt;
-&lt;p&gt;当地居民此前并不知晓该项目与甲骨文和OpenAI存在关联。据彭博此前查阅的文件显示，开发商在获得审批后才公开了这一信息，由此引发更广泛的信任危机。&lt;/p&gt;
-&lt;p&gt;甲骨文目前已在新墨西哥州展开公关攻势，试图化解当地反对情绪，但效果尚不明朗。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美国中期选举结果将成为影响项目走向的关键变量，若民主党赢得多数席位，外界普遍预期将对相关项目施加更严格的监管审查，进一步推迟建设进程。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一政治不确定性，叠加许可瓶颈、融资压力与能源供应延误，正在将Project Jupiter从一个AI投资盛景的象征，逐步演变为整个美国AI基础设施建设能否如期落地的压力测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银：美企Capex意愿触底反弹，进一步加息对经济冲击或有限</title><link>https://wallstreetcn.com/articles/3782536</link><guid>9209ec7122b6443e93e21969add6f86e55e44793d96112e9c493bdcc85261807</guid><pubDate>Fri, 25 Sep 2026 08:34:12 GMT</pubDate><description>&lt;p&gt;美国企业资本开支意愿正在从低位反弹，进一步加息对经济增长的边际拖累或因此低于历史经验。&lt;/p&gt;
+&lt;p&gt;瑞银在近期报告中指出，&lt;strong&gt;美国企业投资已经经历较长时间的疲弱，当前资本开支的起点明显低于过去周期。在这一背景下，即使利率继续上升，其对企业投资的新增压制空间也可能有限。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，AI投资仍是美国资本开支增长的主要支柱。过去8个季度，AI相关投资同比增长26%；但更值得关注的是，剔除AI因素后，企业资本开支意愿也开始回升，显示投资企稳迹象可能正从科技行业向更广泛的企业部门扩散。&lt;/p&gt;
+&lt;p&gt;瑞银认为，&lt;strong&gt;长期低迷积累的维护和更新需求、企业充裕的经营现金流，以及AI需求向其他行业扩散的可能性，都可能为资本开支修复提供支撑。&lt;/strong&gt;这意味着，判断紧缩政策的影响，不能只看利率水平，还要观察企业投资的边际变化。&lt;/p&gt;
+传统投资已持续疲弱，利率冲击空间可能收窄
+&lt;p&gt;按照美联储FRBUS模型的经验法则，利率每上升100个基点，第一年大致会令经济增长减少60个基点，两年内累计拖累最多可达150个基点。这也是市场评估进一步紧缩影响的重要依据。&lt;/p&gt;
+&lt;p&gt;但瑞银指出，&lt;strong&gt;本轮周期的不同之处在于，企业投资并不是从高位进入紧缩阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去8个季度，美国私人非住宅固定投资同比平均仅增长0.1%，远低于3.2%的长期均值；住宅投资同比平均下降2.0%，也明显低于2.2%的长期均值。除科技领域外，美国传统投资已经持续疲弱至少两年。&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;在投资本身已处低位的情况下，利率继续上升仍会形成约束，但进一步压低企业支出的空间可能已经缩小。&lt;/strong&gt;FRBUS模型所反映的利率冲击并未失效，只是历史时期较为健康的投资起点与当前情况存在明显差异。&lt;/p&gt;
+非AI资本开支意愿回升，投资出现早期转折
+&lt;p&gt;AI仍是当前美国资本开支最强劲的增长来源。过去8个季度，AI相关投资同比增长26%，表明美国企业投资并非全面收缩，而是高度集中于AI领域。&lt;/p&gt;
+&lt;p&gt;但瑞银观察到，非AI领域的资本开支意愿也开始改善。&lt;/p&gt;
+&lt;p&gt;瑞银汇总14项地区联储制造业和服务业调查中的资本开支意愿指标，并取其中位数。该指标在2025年4月之后一度跌至历史第3低百分位，到2026年8月已反弹至第36百分位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一水平仍然不高，但方向已经发生变化。&lt;/strong&gt;历史数据显示，该指标每上升1个点，约相当于1.2个标准差，通常对应资本开支增速提高约5.5个百分点。虽然意愿不等同于实际支出，但通常会领先于资本开支变化。&lt;/p&gt;
+&lt;p&gt;瑞银同时对固定资本投资进行了AI因素剔除，共剔除5类AI相关投资。不过，“非AI”口径中仍可能包含部分AI支出，因此这一变化更适合被理解为&lt;strong&gt;非科技投资出现企稳信号&lt;/strong&gt;，而不能视为AI影响已经被完全排除。&lt;/p&gt;
+更新需求与充裕现金流支撑Capex修复
+&lt;p&gt;资本开支意愿回升，一个现实原因可能是此前被推迟的维护和更新需求开始释放。非科技投资持续疲弱至少两年后，部分企业可能已难以继续推迟设备和设施更新，因此近期Capex回升未必意味着全面扩张，也可能首先来自必要支出的重新启动。&lt;/p&gt;
+&lt;p&gt;企业现金流则提供了资金基础。经营现金流同比增加8250亿美元，增幅达25%；与此同时，除超大规模云服务商（hyperscalers）外，资本开支占经营现金流的比例仍接近历史低位。&lt;/p&gt;
+&lt;p&gt;这意味着企业并非缺乏资金，而是此前没有将更多现金流转化为投资支出。&lt;strong&gt;若资本开支意愿继续回升，充裕的内部现金流有望降低企业对外部融资的依赖，减弱高利率对企业投资的直接约束。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，如果AI基础设施、软件和自动化需求继续向非科技行业扩散，资本开支修复可能进一步扩大。当前数据尚不足以证明这一趋势已经全面形成，但非AI投资意愿从历史极低水平反弹，已释放出值得关注的早期信号。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;30年期美债收益率触及2004年以来最高水平，10年期收益率升破5.2%，2007年来首次。受此拖累，标普500指数收盘基本持平，但内部结构分化明显，多数成分股下跌。&lt;/p&gt;
 &lt;p&gt;布伦特原油结算价维持在每桶107美元附近，此前曾因有报道称美国与伊朗正就重开霍尔木兹海峡探索阶段性协议而短暂回落，但随即遭伊朗方面否认，油价随即反弹。&lt;/p&gt;
@@ -251,7 +209,68 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 日美利差仍是日元重要约束
 &lt;p&gt;日本央行9月18日将政策利率上调至1.25%，行长植田和男随后表示，不排除10月继续加息或在未来某一时点采取更大幅度行动的可能性，但市场反应相对有限。&lt;/p&gt;
 &lt;p&gt;相比之下，美联储最新利率路径仍对美元形成支撑。美联储会议后的点阵图显示，年内至少还有一次加息预期，交易员目前将美联储10月28日再度加息的概率定价至71%。&lt;strong&gt;日美利差预期的差异，仍是影响日元走势的重要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据报道，日元上周走弱后，日本金融当局曾在纽约交易时段进行汇率确认询价，向多家银行询问日元当前报价。市场通常将此类操作视为日本当局密切关注汇率走势的信号。约一年前，日美两国财长曾通过联合声明确认双方的汇率政策立场，而此次日美领导人直接讨论汇率问题，也进一步提高了市场对后续政策沟通的关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中美AI共振！下半年企业级硬盘（eSSD）需求将激增</title><link>https://wallstreetcn.com/articles/3782525</link><guid>8324898aa1b7c615b4678fc4793a8e2c3bd28e106b9a4039e3e2006fbc206cc2</guid><pubDate>Fri, 25 Sep 2026 03:07:24 GMT</pubDate><description>&lt;p&gt;AI浪潮正在重塑全球存储市场格局，北美与中国两大引擎同步发力，企业级固态硬盘（eSSD）迎来结构性需求拐点。&lt;/p&gt;
+&lt;p&gt;据报道，日元上周走弱后，日本金融当局曾在纽约交易时段进行汇率确认询价，向多家银行询问日元当前报价。市场通常将此类操作视为日本当局密切关注汇率走势的信号。约一年前，日美两国财长曾通过联合声明确认双方的汇率政策立场，而此次日美领导人直接讨论汇率问题，也进一步提高了市场对后续政策沟通的关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工</title><link>https://wallstreetcn.com/articles/3782479</link><guid>8c75de879e77a57c4655167071ed23b0b720f42a4e4aa367ef1c1a9edcfad50f</guid><pubDate>Fri, 25 Sep 2026 07:30:59 GMT</pubDate><description>&lt;p&gt;甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;消息公布后，甲骨文股价随即下挫，日内一度跌超7%，最终收盘仍跌约3.5%，Blue Owl Capital股价同步收跌3.6%，数据中心供能商Bloom Energy跌幅亦达3.1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Jupiter是一个规模庞大的特殊目的载体（SPV）项目，计划在新墨西哥州约1400英亩土地上建设四座数据中心，为OpenAI提供总计3000亿美元的算力，融资结构涵盖债券、贷款及Blue Owl股权。&lt;/strong&gt;此次不可抗力通知的发出，令市场对该项目能否如期推进的疑虑骤然升温，相关贷款此前已跌至承压水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据英国《金融时报》援引知情人士报道，&lt;strong&gt;即便甲骨文未能在项目首期截止日期前完成供电接入，公司仍有合同义务向投资者支付&amp;quot;持有成本&amp;quot;，以替代租金，期限最长可达三年。&lt;/strong&gt;首期截止日期定于2027年上半年。知情人士表示，&amp;quot;供电风险由甲骨文承担，而非投资者。&amp;quot;&lt;/p&gt;
+
+合同条款明确：供电风险归属甲骨文
+
+&lt;p&gt;据媒体援引知情人士介绍，根据甲骨文与项目开发商——Blue Owl Capital旗下子公司——签订的合同，&lt;strong&gt;不可抗力条款即便允许甲骨文暂缓支付租金，也无法豁免其覆盖债务持有人利息的费用义务，以及向参与该项目的蓝猫头鹰基金提供一定股权回报的义务。相关基金已向该项目投入数十亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不可抗力条款作为合同法律惯例，旨在当不可控事件导致合同履行不可能时，解除当事方的相应义务。甲骨文援引该条款的依据是项目面临不可预见的许可审批延误，进而导致无法为项目接通电力。然而，知情人士强调，合同对于供电风险的归属已有明确约定，该风险由甲骨文而非投资者承担。&lt;/p&gt;
+
+项目本身：规模宏大，麻烦同样巨大
+
+&lt;p&gt;Project Jupiter位于新墨西哥州多纳安纳县，占地约1400英亩，&lt;strong&gt;设计算力容量达2.45吉瓦，相当于约180万户家庭的同时用电量，总投资规模约为1650亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该项目由Stack Infrastructure开发，是Blue Owl的投资组合公司，而Blue Owl本身亦承诺提供股权资金。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，项目自宣布至今近两年，已陷入多重困境：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;关键能源许可申请遭到拒绝；&lt;/li&gt;
+&lt;li&gt;当地居民对项目的供水影响和空气质量问题强烈抗议；&lt;/li&gt;
+&lt;li&gt;甲骨文签约的能源供应商Bloom Energy的燃气排放同样引发外界批评。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;据彭博此前报道，&lt;strong&gt;项目首期工程已较原定完工时间延误至少七个月，原计划于今年11月投入运营的节点已不可能实现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雪上加霜的是，为Project Jupiter供气的Energy Transfer LP天然气管道项目，原定本月投入使用，但因新墨西哥州土地局多次拒绝批准管线路线许可，已延期至少六个月，最早于2027年2月1日才能投入服务。&lt;/p&gt;
+&lt;p&gt;Bloom Energy股价随甲骨文消息应声下跌。&lt;/p&gt;
+
+不可抗力通知：法律手段背后的财务逻辑
+
+&lt;p&gt;不可抗力条款在能源与大宗商品领域长期是应对极端事件的标准工具。&lt;/p&gt;
+&lt;p&gt;但据律所Quinn Emanuel Urquhart &amp;amp; Sullivan LLP今年6月发布的客户简报，&lt;strong&gt;此类条款正在数据中心开发领域加速普及&lt;/strong&gt;。简报指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在AI数据中心项目中，不可抗力条款已不再是合同末尾的样板条文，而是一项核心的诉讼与风险分配工具，可以决定一个延误究竟只是孤立事件，还是会级联穿透整个项目的建设、客户、电力、保险与融资文件。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;彭博指出，&lt;strong&gt;甲骨文发出该通知的意图，并非立即退出作为项目主要租户的角色，而是在Project Jupiter无法按2028年计划上线的情况下，为自身争取暂缓付款的合同依据。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，此举是否能真正豁免甲骨文此前承诺的财务义务，目前仍存在不确定性。对此，甲骨文发言人回应称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Project Jupiter仍在按计划推进，我们对新墨西哥州的承诺坚定不移，对项目前景充满信心。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此外，值得关注的是，数据中心租约通常含有条款，允许客户在服务未能按时启动的情况下退出合同。谷歌今年与SpaceX签订算力合同时，即保留了在特定日期前无法获得访问权限情形下的终止权利。&lt;/p&gt;
+
+连锁反应：星际之门蓝图与OpenAI的双重压力
+
+&lt;p&gt;&lt;strong&gt;Project Jupiter延误的影响远不止于单一项目。作为星际之门计划的旗舰园区，其进度直接牵动OpenAI的算力部署节奏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI此前已与甲骨文和软银签署协议，支持包括新墨西哥州在内的五个数据中心的开发建设，算力缺口一旦形成，将对其产品扩张计划和商业化进程产生实质影响。&lt;/p&gt;
+&lt;p&gt;Blue Owl Capital股价随消息公布跌至近两个月低点，持续逼近历史低位。甲骨文自身财务状况亦不容乐观，公司债务规模约为1670亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;甲骨文的信用违约互换（CDS）价差已连续刷新历史高位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;星际之门计划的另一锚点项目、由软银孙正义主导的SB Energy数据中心同样麻烦缠身。&lt;/strong&gt;该项目IPO计划已因类似的延误问题被迫推迟。&lt;/p&gt;
+&lt;p&gt;SB Energy设计发电量高达8吉瓦，完工后将成为全球最大数据中心，但其落地同样面临来自地方层面的强烈阻力。甲骨文今日的不可抗力通知，或将进一步打击外界对该IPO的信心。&lt;/p&gt;
+
+政治变量：中期选举或加剧项目不确定性
+
+&lt;p&gt;项目所在的新墨西哥州正成为AI数据中心建设争议的政治风向标。&lt;/p&gt;
+&lt;p&gt;当地居民此前并不知晓该项目与甲骨文和OpenAI存在关联。据彭博此前查阅的文件显示，开发商在获得审批后才公开了这一信息，由此引发更广泛的信任危机。&lt;/p&gt;
+&lt;p&gt;甲骨文目前已在新墨西哥州展开公关攻势，试图化解当地反对情绪，但效果尚不明朗。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国中期选举结果将成为影响项目走向的关键变量，若民主党赢得多数席位，外界普遍预期将对相关项目施加更严格的监管审查，进一步推迟建设进程。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一政治不确定性，叠加许可瓶颈、融资压力与能源供应延误，正在将Project Jupiter从一个AI投资盛景的象征，逐步演变为整个美国AI基础设施建设能否如期落地的压力测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中美AI共振！下半年企业级硬盘（eSSD）需求将激增</title><link>https://wallstreetcn.com/articles/3782525</link><guid>8324898aa1b7c615b4678fc4793a8e2c3bd28e106b9a4039e3e2006fbc206cc2</guid><pubDate>Fri, 25 Sep 2026 03:07:24 GMT</pubDate><description>&lt;p&gt;AI浪潮正在重塑全球存储市场格局，北美与中国两大引擎同步发力，企业级固态硬盘（eSSD）迎来结构性需求拐点。&lt;/p&gt;
 &lt;p&gt;据集邦科技（TrendForce）数据，过去两周内，&lt;strong&gt;美国主要云服务商（CSP）已相继上调eSSD采购预测，推动今年四季度eSSD订单总量有望超越三季度创下的历史纪录。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，花旗研究在9月21日发布的报告中预测，受持续学习（continual learning）技术普及驱动，&lt;strong&gt;2027年eSSD需求将同比增长52.9%，NAND供需缺口届时将扩大至-6.1%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;需求结构亦发生质变：高容量、低成本的QLC（四层单元）产品正加速崛起，与过去主导市场的高性能TLC产品并驾齐驱，标志着eSSD的应用场景已从AI模型训练与推理扩展至更广泛的AI应用层。行业内人士表示，受NAND厂商加强产能与定价管控影响，eSSD价格上行压力预计将延续至四季度。&lt;/p&gt;
@@ -365,15 +384,4 @@ QLC重塑AI基础设施架构
 
 &lt;p&gt;密集的加息信号已开始引发白宫的公开不满。美国国家经济委员会主任&lt;a href="https://wallstreetcn.com/articles/3782404?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;哈塞特周三称美联储&amp;quot;异常党派化&amp;quot;&lt;/a&gt;，表示&amp;quot;过去几天，许多并非由特朗普总统任命的官员发表讲话，表示需要更多次加息。&amp;quot;&lt;/p&gt;
 &lt;p&gt;这一表态标志着白宫与美联储之间的紧张关系进一步显性化。&lt;/p&gt;
-&lt;p&gt;Paulson是本年度FOMC的投票委员，上述多位官员的集体发声，表明美联储政策委员会内部在继续收紧的方向上存在较为广泛的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 机构：全球能源需求到2060年或增逾60%，油气仍将长期占据一席之地</title><link>https://wallstreetcn.com/articles/3782538</link><guid>4d97de999bf3a90f7bdc37b5aad4a8de8de28b7724a233108149b53c6c59d500</guid><pubDate>Fri, 25 Sep 2026 08:01:07 GMT</pubDate><description>&lt;p&gt;全球能源需求仍将大幅增长，而能源转型并不意味着传统能源会快速退出，未来数十年油气仍将是全球能源体系的重要组成部分。&lt;/p&gt;
-&lt;p&gt;标普全球（S&amp;amp;P Global）最新报告显示，&lt;strong&gt;以巴西、印度、尼日利亚和印度尼西亚等新兴经济体为代表，全球总能源需求到2060年或较当前水平增长逾60%。&lt;/strong&gt;这轮增长主要来自工业化、城镇化和收入提升带来的新增能源需求。&lt;/p&gt;
-&lt;p&gt;与此同时，可再生能源正在加速扩张，但煤炭、石油和天然气并不会快速退出。标普全球副董事长Dan Yergin表示，&lt;strong&gt;多种能源将在未来能源体系中共同承担新增需求，油气的存在时间将长于许多人的预期。&lt;/strong&gt;&lt;/p&gt;
-新兴经济体推动全球能源需求持续增长
-&lt;p&gt;标普全球指出，巴西、印度、尼日利亚、印度尼西亚等新兴经济体正加快工业化和城镇化进程，能源生产和进口需求随之扩大。这些经济体新增的能源消费规模庞大，将成为未来数十年全球能源需求增长的重要来源。&lt;/p&gt;
-&lt;p&gt;与此同时，可再生能源正在加快渗透。截至2025年底，非洲、亚洲和拉丁美洲63%的新兴市场太阳能发电占比已经超过美国，巴西、智利、萨尔瓦多、摩洛哥、肯尼亚和纳米比亚等国的清洁能源转型速度尤为突出。&lt;/p&gt;
-&lt;p&gt;但能源需求增长并不会随着清洁能源扩张而消失。&lt;strong&gt;对于仍处于工业化和收入提升阶段的经济体而言，电力、交通和工业领域的能源需求仍将持续增加，全球能源消费因此仍将呈现多种能源并存的格局。&lt;/strong&gt;&lt;/p&gt;
-资金与基础设施制约能源转型，油气仍将长期存在
-&lt;p&gt;可再生能源加速发展的同时，资金和基础设施不足仍是新兴经济体能源转型面临的主要约束。即使清洁能源成本持续下降，大规模建设发电设施、电网和储能系统仍需要巨额前期投资。&lt;/p&gt;
-&lt;p&gt;Energy for Growth Hub副执行主任Katie Auth指出，&lt;strong&gt;部分新兴经济体仍面临严重的能源贫困问题，其能源需求增长与经济发展、收入提升和就业创造密切相关。在这一背景下，这些国家很难直接跳过化石燃料阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;能源供应安全也进一步强化了这一现实约束。霍尔木兹海峡关闭引发的油气市场波动，凸显了全球能源体系对传统能源供应的依赖。Dan Yergin表示，煤炭可能获得更多空间，石油和天然气也将在未来能源需求中延续更长时间。&lt;/p&gt;
-&lt;p&gt;因此，全球能源转型更可能表现为能源结构逐步调整，而非传统能源快速退出。随着新兴经济体能源需求继续增长，可再生能源份额将不断提升，但在资金、基础设施和能源安全等约束下，油气仍将在较长时期内占据重要位置。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Paulson是本年度FOMC的投票委员，上述多位官员的集体发声，表明美联储政策委员会内部在继续收紧的方向上存在较为广泛的共识。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
