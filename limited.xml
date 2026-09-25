@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 02:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 03:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] OpenAI据报酝酿500美元“Pro Max”套餐：主打最快Work与Codex，或接入Cerebras算力</title><link>https://wallstreetcn.com/articles/3782524</link><guid>1929d37b2c443f31ca9a0963c73ed52f023c8290d7ed9fbc5ad9358f610af4f3</guid><pubDate>Fri, 25 Sep 2026 03:08:46 GMT</pubDate><description>&lt;p&gt;OpenAI可能计划推出一款定价500美元的高端订阅套餐，但该消息尚未获得官方确认。&lt;/p&gt;
+&lt;p&gt;9月24日，据科技信息追踪账号TestingCatalog报道，&lt;strong&gt;OpenAI正筹备推出名为&amp;quot;Pro Max&amp;quot;的ChatGPT订阅套餐，月费定价500美元，并可能采用Cerebras基础设施提供支持。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若该计划最终落地，将为该公司提供一种针对高阶功能和超大计算量收取溢价的新途径。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，OpenAI官方定价页面列出的套餐仅包括Free、Go、Plus、Pro、Business及Enterprise六档，并未出现Pro Max选项。&lt;/p&gt;
+
+市场焦点转向DevDay 2026
+
+&lt;p&gt;根据TestingCatalog的描述，&lt;strong&gt;Pro Max与现有Pro套餐的主要区别在于增加了&amp;quot;Fastest Work and Codex&amp;quot;功能，同时使用额度也可能进一步提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，报道并未解释&amp;quot;最快工作速度&amp;quot;究竟快多少，也未说明Codex访问权限的具体形式，以及Cerebras是否将最终承接该套餐的算力支持。&lt;/p&gt;
+&lt;p&gt;TestingCatalog将这一传闻与&amp;quot;长时任务&amp;quot;场景挂钩。即需要ChatGPT在较长时间内持续执行操作、而非仅回答单次提问的工作类型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据报道，更多细节或将在9月29日于旧金山举行的OpenAI DevDay 2026上揭晓，但这仅是该账号的推测。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在OpenAI发布的官方活动公告中，并未提及任何关于Pro Max计划的内容。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
 &lt;p&gt;今年以来，Meta股价一度明显承压，但进入9月后快速反弹。&lt;strong&gt;截至9月24日，股价本月累计上涨约36%，创2013年以来最强单月表现，市值重新逼近2万亿美元，距离这一关口仅约1%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;行情反转的背后，Muse带来的AI商业化想象成为重要支撑。Muse于9月8日正式上线，能够自主执行购物、出行、邮件管理等多步骤任务。上线前六天下载量达到90.2万次，超过Meta AI同期的77.3万次，并迅速登顶美国及加拿大苹果应用商店免费榜。&lt;/p&gt;
 &lt;p&gt;但资本市场的乐观预期也在迅速升温。AI代理开始进入购物、预订等真实消费场景，传统互联网平台赖以维持用户的搜索、账号和使用习惯可能受到冲击；与此同时，Muse自身的安全漏洞、隐私争议和高昂算力成本，也让这场AI热潮面临现实约束。&lt;/p&gt;
@@ -61,7 +72,30 @@ AI代理的另一道门槛：算力成本
 &lt;p&gt;Cox Automotive首席产品官Marianne Johnson表示，Autotrader的对话式AI虚拟形象将自然语言描述与库存匹配相结合，是其&amp;quot;连接智能&amp;quot;愿景落地的重要步骤，该愿景旨在让每次消费者互动均能调用Cox Automotive的完整数据资产。&lt;/p&gt;
 &lt;p&gt;Equal AI首席执行官Akhilesh Damaraju称，借助Gemini 3.8 Live在打断处理、多语言对话及工具调用稳定性方面的改进，该平台现已实现每日超百万次实时通话处理，覆盖九种印度语言，目标是构建&amp;quot;了解你、说你的语言、始终站在你这边&amp;quot;的个人AI。&lt;/p&gt;
 &lt;p&gt;Salesforce Agentforce产品副总裁Bob Van Osten表示，Salesforce AI Research与谷歌的合作旨在探索实时多模态能力与代理式AI的结合，以打造从首次接触到问题解决全流程的客户服务体验。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债“连遭暴击”！7年期美债拍卖遇冷，财政部回购规模再度低于上限，市政债收益率创15年新高</title><link>https://wallstreetcn.com/articles/3782509</link><guid>0c6e8b3870cbd84a9c0844ad1868048d28dd3dd3a57bc72c4c63a58d717308e3</guid><pubDate>Fri, 25 Sep 2026 00:55:18 GMT</pubDate><description>&lt;p&gt;美国固定收益市场本周全线承压，多个关键指标同步恶化。7年期国债拍卖收益率创该期限历史新高，财政部第二次扩大版国债回购操作执行比例进一步滑落至68%，30年期市政债收益率突破5%关口触及2011年来最高水平，三重压力叠加，令市场对长端利率走势的担忧持续升温。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中美AI共振！下半年企业级硬盘（eSSD）需求将激增</title><link>https://wallstreetcn.com/articles/3782525</link><guid>8324898aa1b7c615b4678fc4793a8e2c3bd28e106b9a4039e3e2006fbc206cc2</guid><pubDate>Fri, 25 Sep 2026 03:07:24 GMT</pubDate><description>&lt;p&gt;AI浪潮正在重塑全球存储市场格局，北美与中国两大引擎同步发力，企业级固态硬盘（eSSD）迎来结构性需求拐点。&lt;/p&gt;
+&lt;p&gt;据集邦科技（TrendForce）数据，过去两周内，&lt;strong&gt;美国主要云服务商（CSP）已相继上调eSSD采购预测，推动今年四季度eSSD订单总量有望超越三季度创下的历史纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，花旗研究在9月21日发布的报告中预测，受持续学习（continual learning）技术普及驱动，&lt;strong&gt;2027年eSSD需求将同比增长52.9%，NAND供需缺口届时将扩大至-6.1%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;需求结构亦发生质变：高容量、低成本的QLC（四层单元）产品正加速崛起，与过去主导市场的高性能TLC产品并驾齐驱，标志着eSSD的应用场景已从AI模型训练与推理扩展至更广泛的AI应用层。行业内人士表示，受NAND厂商加强产能与定价管控影响，eSSD价格上行压力预计将延续至四季度。&lt;/p&gt;
+
+两大需求引擎：北美Agent AI与中国KV缓存卸载
+
+&lt;p&gt;行业专家指出，下半年eSSD需求将由两条主线共同驱动——北美的Agent AI扩张以及中国的KV缓存卸载（KV cache offloading）技术应用。&lt;/p&gt;
+&lt;p&gt;在北美，随着Agent AI加速普及，大规模实时数据检索与缓存需求急剧攀升。TrendForce分析称，Agent AI在进行自主决策与行动时，需快速访问和存储大量上下文数据，这将显著提升对高性能eSSD的需求。花旗研究亦指出，持续学习技术要求AI系统在不断吸收新信息的同时保留历史数据，由此催生对大容量存储的持续性需求。&lt;/p&gt;
+&lt;p&gt;在中国，以DeepSeek为代表的AI企业正积极推广KV缓存卸载方案——该技术通过将推理过程中优先级较低的缓存数据从高性能内存（HBM、GDDR）迁移至高速大容量QLC固态硬盘，以降低对昂贵高性能内存的依赖，同时提升模型推理效率、压缩整体成本。&lt;/p&gt;
+
+QLC重塑AI基础设施架构
+
+&lt;p&gt;此轮需求增长的核心特征，是QLC产品的全面崛起。云服务商正积极借助QLC兼顾高容量与成本效益，其应用场景涵盖向量数据库构建——这是AI搜索与推荐系统的核心组件。TrendForce认为，这一转变或将推动AI基础设施设计以QLC为中心进行重构，影响范围已超出少数超大规模云厂商的采购调整。&lt;/p&gt;
+&lt;p&gt;花旗研究进一步指出，基于QLC的近GPU存储方案（near-GPU storage）将逐步获得市场认可，以支持AI系统在加速器附近实现更高效的数据保留与检索。此外，XL Flash、HBF等高级存储解决方案以及CXL等存储互补技术的需求也将同步上升。&lt;/p&gt;
+&lt;p&gt;从更长周期来看，&lt;strong&gt;花旗预测2027至2028年高密度eSSD需求将分别同比增长53%和41%，HDD向SSD的替代需求亦将为高密度存储采用提供额外支撑&lt;/strong&gt;。消费级NAND需求虽因PC及移动终端市场疲软而承压，但花旗认为，强劲的企业级AI需求足以抵消这一拖累。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+供给端收紧，NAND厂商定价权增强
+
+&lt;p&gt;需求扩张正驱动NAND供需天平加速向卖方倾斜。花旗研究预测，2027至2028年NAND需求分别同比增长29%和33%，而供给增速仅为21%和25%——差距来源于存储厂商普遍将资本开支优先投向DRAM及HBM产能扩张，对NAND的新增投资相对克制，由此形成2027年-6.1%、2028年-5.5%的供需缺口（2026年预估仅为-0.8%）。&lt;/p&gt;
+&lt;p&gt;TrendForce亦指出，包括三星电子、SK Hynix、美光（Micron）、铠侠（Kioxia）及长江存储（YMTC）在内的主要NAND厂商，正在加强对企业市场产能分配与定价的管控，eSSD进一步涨价的可能性较高。&lt;/p&gt;
+&lt;p&gt;今年二季度，eSSD市场格局方面，三星电子以141.54亿美元营收居首，市场份额35.1%；SK Hynix与Solidigm合计实现86.31亿美元，占比21.1%；美光以69.83亿美元位列第三，份额17.1%。在中国市场，长江存储有望凭借KV缓存卸载需求的爆发获得份额提升机会。&lt;/p&gt;
+&lt;p&gt;花旗研究对三星电子和SK Hynix均维持&amp;quot;买入&amp;quot;评级，认为两者均有望受益于NAND基本面趋紧及AI驱动的结构性存储需求增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债“连遭暴击”！7年期美债拍卖遇冷，财政部回购规模再度低于上限，市政债收益率创15年新高</title><link>https://wallstreetcn.com/articles/3782509</link><guid>0c6e8b3870cbd84a9c0844ad1868048d28dd3dd3a57bc72c4c63a58d717308e3</guid><pubDate>Fri, 25 Sep 2026 00:55:18 GMT</pubDate><description>&lt;p&gt;美国固定收益市场本周全线承压，多个关键指标同步恶化。7年期国债拍卖收益率创该期限历史新高，财政部第二次扩大版国债回购操作执行比例进一步滑落至68%，30年期市政债收益率突破5%关口触及2011年来最高水平，三重压力叠加，令市场对长端利率走势的担忧持续升温。&lt;/p&gt;
 &lt;p&gt;周四，&lt;strong&gt;财政部440亿美元7年期国债拍卖中标收益率升至5.085%，创该期限有记录以来最高水平，尾部为今年3月以来最大，海外投资者获配比例降至2025年11月以来最低。&lt;/strong&gt;拍卖结束后，10年期美债收益率重新逼近5.15%，30年期收益率一度涨至5.49%，为2004年以来最高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;财政部当日进行的第二次扩大版&amp;quot;流动性支持&amp;quot;回购操作仅接受40.78亿美元报价，相当于60亿美元上限的68%，低于两周前首次扩大操作时约86%的执行比例。&lt;/strong&gt;市场流动性支持力度再度不及预期。&lt;/p&gt;
@@ -326,44 +360,7 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 &lt;p&gt;&lt;strong&gt;然而，凭借1.7万亿美元的资产负债表规模及1460亿美元的市值，瑞银能够匹配的潜在合并对象极为有限。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Semafor分析指出，&lt;strong&gt;摩根士丹利是外界长期讨论的可能候选方之一&lt;/strong&gt;。该机构此前一直有意获取瑞银旗下规模达7万亿美元的财富管理账户资产。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此外，渣打银行及德意志银行也被视为成本相对较低的替代路径。&lt;/strong&gt;值得注意的是，瑞银执行董事长Colm Kelleher曾任职于摩根士丹利。&lt;/p&gt;
-&lt;p&gt;目前，瑞银盈利能力依然强劲，资本水平充足，但这场监管博弈愈发指向一个核心问题：瑞士当局究竟允许股东从瑞银未来的利润中获取多少回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特对亚洲售油跳增至近1亿桶，阿美主动包运直送中印日韩：供应紧张预期遭遇现实修正</title><link>https://wallstreetcn.com/articles/3782489</link><guid>bc81341da261760a18a846905f393882f12bc7cc0f4359115810a4a66d9a90eb</guid><pubDate>Thu, 24 Sep 2026 15:15:44 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯向亚洲市场集中抛售近亿桶原油，在全球能源格局持续动荡之际为亚洲买家提供了关键缓冲。&lt;/p&gt;
-&lt;p&gt;据彭博，&lt;strong&gt;自上周中以来，沙特已向亚洲买家售出约1亿桶原油，交货期涵盖10月及11月，买家涵盖中国、印度、日本和韩国。与此同时，沙特阿美公司在此次交易中罕见地承诺包揽物流与运输，将原油直接送达亚洲客户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此前由于油价飙升，亚洲炼油厂一直在考虑降低开工率。&lt;/strong&gt;受美国封锁影响，伊朗原油供应近乎断绝，而由于政治风险上升，买家也一直在回避俄罗斯原油。此次沙特大规模供应在一定程度上化解了亚洲面临的迫在眉睫的供应短缺风险。&lt;/p&gt;
-&lt;p&gt;据国际文传电讯社，&lt;strong&gt;俄罗斯将今年石油出口预期砍掉超20%，下调2026年石油出口预期2400万吨至9850万吨。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周四截至发稿，布伦特原油期货上涨3.78%，至107美元/桶。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-管道受损迫使沙特转道霍尔木兹海峡出口
-
-&lt;p&gt;此轮集中售油的直接导火索，是沙特境内绕开霍尔木兹海峡、将原油输往红海的东西输油管道遭受攻击。&lt;/p&gt;
-&lt;p&gt;据报道，&lt;strong&gt;该管道于9月10日遭袭后迄今尚未完全恢复运营，沙特阿美正处于重启管道的早期阶段，目标是在本周六前实现有意义的恢复。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;管道受阻迫使沙特将更多原油改道经霍尔木兹海峡出口。&lt;/p&gt;
-&lt;p&gt;卫星数据显示，上周末波斯湾内的原油装载量已出现跳升。此次约1亿桶的集中销售相当于全球单日总需求量，且据交易员估算，将使沙特经霍尔木兹海峡流向亚洲的原油量较近期水平翻逾一倍。&lt;/p&gt;
-
-运输风险从买家向卖家转移
-
-&lt;p&gt;此次沙特阿美主动承揽运输的安排，折射出美伊冲突爆发以来波斯湾原油贸易格局的深层转变。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;波斯湾产油国过去通常以船上交货方式（FOB）出售原油，即由买方自行派船提货；但自冲突爆发以来，炼油商因担忧遭受攻击而普遍不愿自行派船，卖方由此逐渐承担起更多运输风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于自身不具备独立承运能力的卖家，中间商和贸易商已介入填补空缺。&lt;/p&gt;
-&lt;p&gt;据悉，TotalEnergies SE、Vitol Group、Trafigura Group以及阿布扎比国家石油公司均参与了将原油从波斯湾运出的相关业务，伊拉克国家石油销售公司SOMO亦借助上述中间方渠道完成出口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI模型放缓未必利空：传统数据中心的三条结构性顺风压过利率上行</title><link>https://wallstreetcn.com/articles/3782490</link><guid>80396f2f8dccd469656825abf926b600d3830d0720c8a359f8ead2d9021542af</guid><pubDate>Thu, 24 Sep 2026 15:21:59 GMT</pubDate><description>&lt;p&gt;AI基础设施需求的增长逻辑正在发生变化：市场对前沿模型迭代速度的关注，正逐步让位于AI向企业端和实际业务场景的持续扩散。即使模型开发节奏放缓，AI应用的广泛落地仍可能带来持续的数据中心需求。&lt;/p&gt;
-&lt;p&gt;汇丰认为，&lt;strong&gt;决定传统数据中心需求的关键并非模型迭代速度，而是AI技术的商业化扩散。&lt;/strong&gt;随着AI从训练走向推理和实际部署，需求将进一步扩展至企业IT升级、云计算和数据互联等场景，传统数据中心仍有较大的承载空间。&lt;/p&gt;
-&lt;p&gt;与此同时，供给端的电力、并网和监管约束正在加剧，数据中心新增产能难以快速释放，大量项目延期或取消，&lt;strong&gt;供需偏紧格局有望延续至2027年甚至2028年。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在此背景下，行业盈利增长仍具韧性。报告预计，&lt;strong&gt;相关数据中心REITs在2025年至2028年间的AFFO每股复合增速约为11%至12%，高于过去五年历史平均水平；即使融资成本进一步上升，对AFFO增长的拖累也较为有限。&lt;/strong&gt;&lt;/p&gt;
-推理需求崛起，AI扩散打开传统算力空间
-&lt;p&gt;AI应用从训练进入推理阶段后，算力需求的形态也随之变化。训练通常集中于少数大规模项目，而推理需要持续响应终端用户和企业业务请求，工作负载更加分散，也更依赖网络、存储和通用计算等基础设施。&lt;/p&gt;
-&lt;p&gt;微软预计，到2032年前新增数据中心容量中，由AI芯片驱动的部分将低于50%。这意味着，即使AI相关需求持续增长，新增数据中心容量也不会全部转化为高密度AI算力，传统计算工作负载仍将占据相当比重。&lt;/p&gt;
-&lt;p&gt;云服务商的资本开支也显示出类似趋势。汇丰科技团队预计，&lt;strong&gt;六大主要云服务商2027年和2028年的资本支出仍将分别增长37%和9%。AI应用扩张带来的需求并不只体现为GPU采购，也会通过云计算、数据处理和企业基础设施升级传导至传统数据中心。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，前沿模型开发趋于理性，并不意味着数据中心需求同步降温。随着AI进入更多企业和业务流程，基础设施需求反而可能从少数超大规模训练项目，扩展至更加广泛、持续的应用场景。&lt;/p&gt;
-电力与监管收紧，新增供给难以快速跟上
-&lt;p&gt;数据中心扩张正越来越受到电力条件约束。美国多个地区提高数据中心项目的用电、环保和用水要求，并要求大型用电方承担更多电厂、输电线路及电网升级成本，电力接入已经成为影响项目落地的重要因素。&lt;/p&gt;
-&lt;p&gt;监管要求收紧进一步降低了供给弹性。加州取消数据中心环境审查豁免，并要求运营商披露用水情况；得州则要求暂停相关许可证发放，直至ERCOT完成审计。&lt;strong&gt;对于资本密集型项目而言，审批和并网周期延长意味着新增容量释放速度进一步放缓。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;项目延期和取消已经开始体现这一变化。据Data Center Watch统计，2026年第二季度至少有45个、价值约680亿美元的数据中心项目被延误或取消；第一季度则至少有75个项目、涉及约1300亿美元。&lt;/p&gt;
-&lt;p&gt;供给受限的意义在于，即使需求增速出现一定波动，新增机房也难以迅速增加，现有数据中心资源的稀缺性反而可能得到维持。这为租金增长和资产利用率提供了支撑，也是行业能够保持较强盈利能力的重要原因。&lt;/p&gt;
-利率上行影响有限，AFFO增长仍有支撑
-&lt;p&gt;利率上行仍是数据中心REITs面临的主要压力。由于行业扩张需要持续投入资本并增加债务，融资成本上升会直接压缩AFFO。但报告的敏感性分析显示，&lt;strong&gt;利率变化对盈利的影响主要体现在增速边际，而非改变行业增长趋势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;假设新增债务利率较基准情景高出50个基点，2027年至2029年AFFO每股预测降幅约为0.3%至0.8%。对应来看，AFFO每股增速仅减少约10至40个基点，利率压力相对于需求和供给因素仍较为有限。&lt;/p&gt;
-&lt;p&gt;与此同时，汇丰预计相关数据中心REITs在2025年至2028年间的AFFO每股复合增速约为11%至12%，明显高于过去五年历史平均水平。较高的增长基数意味着，融资成本上升尚不足以扭转盈利增长趋势。&lt;/p&gt;
-&lt;p&gt;就行业逻辑而言，&lt;strong&gt;AI应用扩散带来的新增需求、电力和监管造成的供给约束，以及较强的AFFO增长，共同构成传统数据中心的三条结构性顺风。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储3位官员同日放鹰，市场预期10月加息概率升至69%</title><link>https://wallstreetcn.com/articles/3782502</link><guid>d95578114662183a85a4fbe1abac10e146d70497a751edc5468b763c6963947a</guid><pubDate>Thu, 24 Sep 2026 22:52:18 GMT</pubDate><description>&lt;p&gt;美联储多位官员近日密集表态，警告通胀持续高企，当前政策立场可能仍不足以将物价压回2%目标，市场对10月加息的预期随之大幅升温。&lt;/p&gt;
+&lt;p&gt;目前，瑞银盈利能力依然强劲，资本水平充足，但这场监管博弈愈发指向一个核心问题：瑞士当局究竟允许股东从瑞银未来的利润中获取多少回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储3位官员同日放鹰，市场预期10月加息概率升至69%</title><link>https://wallstreetcn.com/articles/3782502</link><guid>d95578114662183a85a4fbe1abac10e146d70497a751edc5468b763c6963947a</guid><pubDate>Thu, 24 Sep 2026 22:52:18 GMT</pubDate><description>&lt;p&gt;美联储多位官员近日密集表态，警告通胀持续高企，当前政策立场可能仍不足以将物价压回2%目标，市场对10月加息的预期随之大幅升温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周四，费城联储主席Anna Paulson明确表示，若经济形势如预期演变，&amp;quot;适度进一步收紧政策或有必要&amp;quot;。&lt;a href="https://wallstreetcn.com/articles/3782460?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;纽约联储主席John Williams&lt;/a&gt;亦在同日发言表示，年底前再度加息是“合理”的，降低通胀仍需付出更多努力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;两人的表态与美联储上周决策基调高度一致——联邦公开市场委员会（FOMC）在上次会议上一致同意加息25个基点，并发布预测显示年内至少还有一次加息。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;受上述官员表态及近期强劲经济数据的共同推动，投资者对10月加息的预期概率已从上周末的53%升至约69%，&lt;/strong&gt;美联储下次政策会议将于10月28日结束，距国会中期选举仅剩六天。&lt;/p&gt;
