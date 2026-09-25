@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 24 Sep 2026 23:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌Gemini 3.8 Live上线"数字人"实时对话，支持多国语言与口型同步</title><link>https://wallstreetcn.com/articles/3782495</link><guid>38fa29a0578220876dd405468e14df68eb105776078cc7379ea27016318bb136</guid><pubDate>Thu, 24 Sep 2026 17:59:38 GMT</pubDate><description>&lt;p&gt;谷歌云旗下Gemini 3.8 Live with Live Avatar功能正式面向企业用户全面开放，将实时视频虚拟形象与多语言语音对话能力整合为一体，标志着企业级对话式AI从纯语音交互向多模态视觉交互迈进。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 00:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌Gemini 3.8 Live上线"数字人"实时对话，支持多国语言与口型同步</title><link>https://wallstreetcn.com/articles/3782495</link><guid>38fa29a0578220876dd405468e14df68eb105776078cc7379ea27016318bb136</guid><pubDate>Thu, 24 Sep 2026 17:59:38 GMT</pubDate><description>&lt;p&gt;谷歌云旗下Gemini 3.8 Live with Live Avatar功能正式面向企业用户全面开放，将实时视频虚拟形象与多语言语音对话能力整合为一体，标志着企业级对话式AI从纯语音交互向多模态视觉交互迈进。&lt;/p&gt;
 &lt;p&gt;该功能于本周正式在Gemini Enterprise中上线，此前已在Google Cloud Next 2026上完成预览展示。&lt;/p&gt;
 &lt;p&gt;新版本支持视频虚拟形象的实时唇形同步、97种语言自动识别与切换，以及后台工具调用与API执行，同时提供美国和欧盟双区域端点部署，满足企业合规与数据治理要求。&lt;/p&gt;
 &lt;p&gt;从客户落地情况来看，Cox Automotive已将该技术应用于旗下Autotrader平台，构建了可实时高亮屏幕内容、引导消费者完成车辆搜索与融资流程的购车AI助手；印度AI公司Equal AI则表示，基于Gemini 3.8 Live，其平台目前每日处理超过百万次实时通话，覆盖九种印度语言。&lt;/p&gt;
@@ -172,34 +172,7 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 &lt;p&gt;不断攀升的利率正给卖家带来压力。根据Redfin汇编的数据，8月份美国市场上近五分之一的房屋出现了降价。&lt;/p&gt;
 &lt;p&gt;“当利率从6%多升到7%时，就会触及一个心理关口。”密西西比大学金融学教授Ken Johnson表示，“这意味着我们将看到市场放缓。”&lt;/p&gt;
 &lt;p&gt;Realtor高级经济学家Anthony Smith也持类似看法。他表示，7%这一关口“既是心理上的，也是数学上的”，而且这一关口恰好出现在通常买方议价能力开始增强的季节性阶段。&lt;/p&gt;
-&lt;p&gt;美国联邦政府周四公布的数据显示，&lt;a href="https://wallstreetcn.com/articles/3782487"&gt;8月份美国新屋销售中位价同比下降5.8%&lt;/a&gt;，至39.37万美元。这是自2025年7月以来最大的同比降幅，也反映出售价低于30万美元的新屋签约量有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价飙升叠加美联储加息预期升温，新兴市场股汇双双承压</title><link>https://wallstreetcn.com/articles/3782473</link><guid>ae11b936a6bef6c5f2f946b4878593cd144247cb5282cd3fd963c368dc28a633</guid><pubDate>Thu, 24 Sep 2026 12:16:11 GMT</pubDate><description>&lt;p&gt;印度股市创十周最大单日跌幅，保险佣金监管新规进一步打压金融板块；美元走强令新兴市场货币指数逼近六个月最大单日跌幅&lt;/p&gt;
-&lt;p&gt;印度股市周四遭遇十周来最惨烈的单日抛售，油价骤升引发通胀忧虑，叠加全球新兴市场在美联储进一步加息预期与强势美元压制下普遍走低，市场情绪明显恶化。与此同时，印度国内保险监管机构拟推出佣金上限新规，令金融板块雪上加霜。&lt;/p&gt;
-&lt;p&gt;Nifty 50指数收跌1.6%至23,063.10点，BSE Sensex指数下滑1.67%至73,580.54点，两大指数均创下自7月8日以来最大单日跌幅。布伦特原油价格当日上涨2.4%，报每桶105.6美元，美伊外交谈判陷入僵局，进一步提振油价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在更广泛的新兴市场层面，MSCI新兴市场货币指数当日下跌0.45%，逼近自3月19日以来最大单日跌幅，而MSCI新兴市场股票指数则下挫0.9%。10年期美国国债收益率飙升至2007年以来最高水平，美联储10月加息概率依据CME FedWatch工具显示已接近70%。&lt;/p&gt;
-
-油价反弹叠加地缘风险，冲击印度市场信心
-
-&lt;p&gt;油价重新站上每桶105美元的高位，令高度依赖原油进口的印度经济面临通胀压力。&lt;/p&gt;
-&lt;p&gt;Axis Direct衍生品与技术研究高级研究分析师Hemang Gor表示：&lt;strong&gt;&amp;quot;原油始终是影响印度市场的关键变量。油价在短暂跌破100美元后急速反弹，在国内市场刚刚企稳之际再度引发供应端担忧。&amp;quot;他同时指出，从技术面来看，只要Nifty仍运行于23,500点下方，市场整体基调偏空谨慎。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;印度16个主要行业板块悉数收跌，中小盘股同样未能幸免——小盘股下跌1.5%，中盘股跌幅则达2.3%。&lt;/p&gt;
-
-保险佣金监管新规出台，金融板块首当其冲
-
-&lt;p&gt;&lt;strong&gt;印度保险监管机构拟议出台的佣金改革方案，成为金融板块重挫的直接导火索。&lt;/strong&gt;新规核心内容包括：对佣金支出设置上限、将佣金与产品复杂度挂钩，并将寿险佣金的支付期限从首年延伸至此后年度。&lt;/p&gt;
-&lt;p&gt;银行板块与金融板块分别下跌2%和2.4%。PB Fintech当日暴跌36%，创下历史最大单日跌幅；Turtlemint Fintech重挫20%。&lt;/p&gt;
-&lt;p&gt;Motilal Oswal分析师在研报中指出，&amp;quot;保险经纪商及银行、非银行贷款机构所受的收入冲击将远超个人代理人&amp;quot;，并强调&amp;quot;银保渠道（bancassurance）正处于监管十字路口&amp;quot;。分析师警告称，若该系列重大监管变革落地实施，将对行业产生深远影响。&lt;/p&gt;
-
-美联储加息预期强化，新兴市场货币普遍承压
-
-&lt;p&gt;在全球层面，美国国债收益率的急升与美元走强共同对新兴市场资产构成压制。一份强于预期的采购经理人指数报告再度点燃通胀忧虑，五年期美债拍卖需求疲弱，推动10年期美债收益率升至2007年来高点。&lt;/p&gt;
-&lt;p&gt;法国巴黎银行中东欧、中东及非洲地区经济主管Jeffrey Schultz表示：&lt;strong&gt;&amp;quot;我们预期美联储至少还将加息两次，这将在下一季度为新兴市场货币带来更强的逆风。&lt;/strong&gt;我们正在进入一段对风险资产而言颇为危险的时期，南非兰特、匈牙利福林和巴西雷亚尔等多头仓位集中的高收益新兴市场货币，可能面临较大压力。&amp;quot;&lt;/p&gt;
-&lt;p&gt;据路透报道，南非兰特下跌0.4%，触及七周低位；匈牙利福林下滑0.2%；印度尼西亚卢比在亚洲货币中跌幅居首，达0.5%；韩元下跌0.3%。&lt;/p&gt;
-
-土耳其紧急处置逾百亿美元投资基金
-
-&lt;p&gt;在中东欧市场，土耳其的动态同样引发市场关注。据土耳其国家通讯社报道，土耳其财政部长Mehmet Simsek将于周四及周五举行一系列会议，就131只、合计规模约180亿美元的投资基金清算事宜进行磋商。此前土耳其当局已于上周出手干预，以维护股市动荡背景下的金融稳定。&lt;/p&gt;
-&lt;p&gt;土耳其基准股指当日下跌1.2%，里拉则基本持平。罗马尼亚基准股指下挫1.4%，波兰蓝筹股指数小跌0.3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 这一次，美债将打崩美股？</title><link>https://wallstreetcn.com/articles/3782486</link><guid>72c2638a1f7338489958a756fab2d77daa1da63582fee7366985d523f9582ce8</guid><pubDate>Thu, 24 Sep 2026 14:22:46 GMT</pubDate><description>&lt;p&gt;美国国债收益率持续攀升，正将金融市场推向一个关键临界点。彭博宏观策略师Simon White警告，随着收益率上行愈发无序，期限溢价开始扩大，债市波动的性质正在悄然发生变化。与此同时，市场观察人士指出，&lt;strong&gt;若长端利率持续走高，当前建立在低融资成本之上的股市估值体系也将面临越来越大的压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国联邦政府周四公布的数据显示，&lt;a href="https://wallstreetcn.com/articles/3782487"&gt;8月份美国新屋销售中位价同比下降5.8%&lt;/a&gt;，至39.37万美元。这是自2025年7月以来最大的同比降幅，也反映出售价低于30万美元的新屋签约量有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 这一次，美债将打崩美股？</title><link>https://wallstreetcn.com/articles/3782486</link><guid>72c2638a1f7338489958a756fab2d77daa1da63582fee7366985d523f9582ce8</guid><pubDate>Thu, 24 Sep 2026 14:22:46 GMT</pubDate><description>&lt;p&gt;美国国债收益率持续攀升，正将金融市场推向一个关键临界点。彭博宏观策略师Simon White警告，随着收益率上行愈发无序，期限溢价开始扩大，债市波动的性质正在悄然发生变化。与此同时，市场观察人士指出，&lt;strong&gt;若长端利率持续走高，当前建立在低融资成本之上的股市估值体系也将面临越来越大的压力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本轮债市抛售的导火索是9月初公布的PMI数据。数据表现明显强于预期后，美债收益率单日跳升逾10个基点，随后两日继续上行2至3个基点。10年期美债收益率一度触及5.14%，创2007年以来最高水平；30年期收益率升至约5.4%，2年期收益率也攀升至约4.9%。仅9月以来，10年期收益率累计上行约35个基点。&lt;/p&gt;
 &lt;p&gt;收益率的快速上行正在向股票、信贷、私募信贷以及消费信贷等多个市场传导。&lt;strong&gt;分析人士指出，在美国联邦债务突破40万亿美元、保证金杠杆处于历史高位的背景下，债市持续承压可能通过融资成本、资产估值和杠杆平仓等渠道引发连锁反应，其潜在冲击可能超出当前市场定价所反映的程度。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -290,38 +263,7 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 
 &lt;p&gt;摩根士丹利明确指出，上述所有测算均建立在美国实施出口禁令这一假设之上，属于情景推演而非基准预测。&lt;/p&gt;
 &lt;p&gt;报告认为，综合考量全面禁令所引发的一系列后续效应——国内汽油价格上涨、欧洲能源成本攀升、全球通胀压力扩散——这一极端举措仍与美国政府的政策基准相距甚远。目前更具可能性的路径是局部限制或时间有限的管控措施。&lt;/p&gt;
-&lt;p&gt;然而，特朗普已公开表态支持禁令方向这一事实本身，已足以令市场保持高度警惕。摩根士丹利在报告中指出，只要这一议题仍处于政策讨论阶段，油市就应为持续的价格波动做好准备。ICE柴油期货（Gasoil）价格已接近历史高位，若禁令讨论升温，短期内仍有进一步上行空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI助手进入“抽佣时代”？Muse转向交易抽成，或打开Meta全新增长空间</title><link>https://wallstreetcn.com/articles/3782476</link><guid>fb5939ab004f6bae997e147d9e769836466cb640e13a5d6e9deffe194e7db1c2</guid><pubDate>Thu, 24 Sep 2026 12:02:15 GMT</pubDate><description>&lt;p&gt;Meta的AI助手Muse正从概念走向商业闭环，华尔街对其估值逻辑随之重构。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根大通在Meta Connect大会结束后发布研究报告，&lt;strong&gt;将Meta Platforms目标价从820美元上调至920美元，维持增持评级。&lt;/strong&gt;截至报告发布日，Meta股价报744.10美元。此次上调的核心驱动力在于Muse的变现路径日趋清晰——Meta首席执行官扎克伯格在Connect上明确表示，公司未来将对通过Muse完成的交易收取小额手续费，标志着Muse货币化模式从订阅制向交易抽成的实质性转变。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Doug Anmuth在报告中指出，随着Muse Connector生态系统快速扩张，以及前沿模型Watermelon即将发布，Meta正在广告主业之外构建一条规模可能达数十万亿美元的全新增长曲线。此次目标价调整基于2028年预期GAAP每股收益35.44美元的约26倍市盈率估值，较此前采用的23倍明显提升。&lt;/p&gt;
-
-Muse变现路径明朗，抽成模式类比广告业务
-
-&lt;p&gt;Muse商业模式的核心逻辑正逐步成型。摩根大通报告指出，目前Muse的变现规模有限，或仅涉及少量重度使用订阅，但扎克伯格在Connect上重申，Meta将随时间推移对平台上发生的交易收取小额费用。&lt;/p&gt;
-&lt;p&gt;报告认为，&lt;strong&gt;Muse Connector是打通变现链条的关键基础设施。&lt;/strong&gt;Connector允许Muse与外部网站、应用及商家建立连接，目前已收到超过2000份接入申请。在Connect大会上，Meta宣布与Walmart、Best Buy、Sephora及Wayfair达成集成合作，此前已有OpenTable、Spotify、Ticketmaster、Peloton、Expedia及Instacart加入。Meta同步推出Muse Connector平台，向开发者开放接口，允许其将自有应用和服务接入Muse生态。&lt;/p&gt;
-&lt;p&gt;摩根大通预计，&lt;strong&gt;随着数以千万乃至数亿计的商家最终在Muse上部署自有智能体，平台上的交易将越来越多地通过智能体间（agent-to-agent）交互完成，而非传统的浏览或电话方式。&lt;/strong&gt;届时，Meta可依据交易额收取抽成或佣金，亦可根据商家的具体经营目标采用类似现有广告业务的目标导向定价模式。该行认为，这一变现逻辑与Meta广告业务的底层框架高度相似，具备规模化复制的条件。&lt;/p&gt;
-
-Watermelon模型在即，API商业化打开新空间
-
-&lt;p&gt;摩根大通预计，&lt;strong&gt;Meta最强能力的前沿模型Watermelon将于未来数周内发布。报告认为，Watermelon的推出将从两个维度强化Meta的AI商业价值：一是通过提升推理能力直接增强Muse的产品表现；二是为Meta Model API开辟更大的货币化空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，若Watermelon以显著低于竞争对手的定价提供前沿模型API访问，将对开发者和企业客户形成强吸引力，进而推动调用量大幅提升。摩根大通将Meta Model API视为独立于广告和Muse之外的第三条变现主线，并认为前沿模型的加持将使这一业务的商业潜力实质性提升。&lt;/p&gt;
-&lt;p&gt;在财务预测上，摩根大通预计Meta 2026年至2028年营收将分别达到2543亿、3053亿及3544亿美元，对应年增速为26.5%、20.0%及16.1%。调整后每股收益预计从2026年的36.46美元增长至2028年的46.07美元。值得注意的是，受大规模资本开支拖累，该行预计2026至2028年间公司自由现金流将持续为负，资本开支占营收比例预计在2027至2028年升至80%左右。&lt;/p&gt;
-
-硬件生态加速布局，可穿戴设备对接Muse入口
-
-&lt;p&gt;在Connect大会上，Meta将Reality Labs的战略重心明确转向服务于Muse和个人超级智能的可穿戴设备，并将眼镜定位为最大的硬件机会，目标触达全球20亿以上的眼镜佩戴人群。&lt;/p&gt;
-&lt;p&gt;在具体产品层面，Meta推出Ray-Ban Meta Audio，将耳机功能与AI整合至重43克的轻薄镜框中，售价349美元，10月13日开始发货。同期发布的Ray-Ban Meta（第三代）相较上一代改善了续航（9小时对比8小时），提供27种配色与镜片组合，售价449美元，目前已开放购买。此外，Meta还推出了由Kyle Jenner设计及LISA联名款眼镜，起售价均为399美元；入门款Meta Adventurer售价249美元。Meta同步宣布将眼镜销售范围扩展至新加坡、韩国、墨西哥及阿联酋，并即将进入巴西市场。&lt;/p&gt;
-&lt;p&gt;Meta还发布了掌上设备Muse Charm，配备约2英寸显示屏和板载5G模块，允许用户访问个人Muse虚拟形象，预计年底前上市销售。在VR领域，Meta发布Meta VR Glasses，重量约100克，约为Meta Quest 3的五分之一，内置Meta AI智能体，并获IMAX Enhanced认证，售价1299美元，预计2027年春季发货。&lt;/p&gt;
-
-估值重构，长期TAM支撑溢价空间
-
-&lt;p&gt;摩根大通将目标价估值倍数从23倍上调至26倍，理由是对Meta营收增长的可见性、持续的成本优化能力以及AI变现路径的确定性信心增强。报告强调，即便以2028年GAAP每股收益35.44美元作为估值基准，该预测数字本身也可能偏于保守。&lt;/p&gt;
-&lt;p&gt;在更长期的叙事框架下，&lt;strong&gt;摩根大通认为Muse有潜力成为自ChatGPT以来用户规模最大的消费级AI应用。报告援引Meta在Connect上的表述称，Muse已触达数百万用户，Meta的目标是将其打造为面向全球数十亿用户的超级智能平台，对应的潜在市场规模可能达到数十万亿美元量级。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 智元2万台下线后，场景开始“造”机器人</title><link>https://wallstreetcn.com/articles/3782485</link><guid>8cde6c728de28e59492889a6060733ba3e44e7b44470dabacc69c80b73728c25</guid><pubDate>Thu, 24 Sep 2026 14:07:01 GMT</pubDate><description>&lt;p&gt;9月24日，智元第20000台具身智能机器人远征A3 Ultra在横琴长隆飞船乐园正式交付。&lt;/p&gt;
+&lt;p&gt;然而，特朗普已公开表态支持禁令方向这一事实本身，已足以令市场保持高度警惕。摩根士丹利在报告中指出，只要这一议题仍处于政策讨论阶段，油市就应为持续的价格波动做好准备。ICE柴油期货（Gasoil）价格已接近历史高位，若禁令讨论升温，短期内仍有进一步上行空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 智元2万台下线后，场景开始“造”机器人</title><link>https://wallstreetcn.com/articles/3782485</link><guid>8cde6c728de28e59492889a6060733ba3e44e7b44470dabacc69c80b73728c25</guid><pubDate>Thu, 24 Sep 2026 14:07:01 GMT</pubDate><description>&lt;p&gt;9月24日，智元第20000台具身智能机器人远征A3 Ultra在横琴长隆飞船乐园正式交付。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;同一天，超过300台智元机器人在园区常态化上岗，分布在100多个交互点位，覆盖演艺、科普、导览、零售、酒店和体育竞技等场景。&lt;/p&gt;
 &lt;p&gt;从8月23日签约到正式开园，双方只有一个月。&lt;/p&gt;
@@ -381,4 +323,36 @@ Watermelon模型在即，API商业化打开新空间
 &lt;p&gt;此次沙特阿美主动承揽运输的安排，折射出美伊冲突爆发以来波斯湾原油贸易格局的深层转变。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;波斯湾产油国过去通常以船上交货方式（FOB）出售原油，即由买方自行派船提货；但自冲突爆发以来，炼油商因担忧遭受攻击而普遍不愿自行派船，卖方由此逐渐承担起更多运输风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;对于自身不具备独立承运能力的卖家，中间商和贸易商已介入填补空缺。&lt;/p&gt;
-&lt;p&gt;据悉，TotalEnergies SE、Vitol Group、Trafigura Group以及阿布扎比国家石油公司均参与了将原油从波斯湾运出的相关业务，伊拉克国家石油销售公司SOMO亦借助上述中间方渠道完成出口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;据悉，TotalEnergies SE、Vitol Group、Trafigura Group以及阿布扎比国家石油公司均参与了将原油从波斯湾运出的相关业务，伊拉克国家石油销售公司SOMO亦借助上述中间方渠道完成出口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 盘前急跌！甲骨文突发“不可抗力”通知，因担忧3000亿美元数据中心项目延期</title><link>https://wallstreetcn.com/articles/3782479</link><guid>8c75de879e77a57c4655167071ed23b0b720f42a4e4aa367ef1c1a9edcfad50f</guid><pubDate>Thu, 24 Sep 2026 12:47:00 GMT</pubDate><description>&lt;p&gt;甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;报道称，&lt;strong&gt;甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;消息公布后，甲骨文盘前股价随即下跌4%，Blue Owl Capital股价同步下挫2.3%，数据中心供能商Bloom Energy盘前跌幅亦达4.4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Jupiter是一个规模庞大的特殊目的载体（SPV）项目，计划在新墨西哥州约1400英亩土地上建设四座数据中心，为OpenAI提供总计3000亿美元的算力，融资结构涵盖债券、贷款及Blue Owl股权。&lt;/strong&gt;此次不可抗力通知的发出，令市场对该项目能否如期推进的疑虑骤然升温，相关贷款此前已跌至承压水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+不可抗力通知：防御性操作，法律效力存疑
+&lt;p&gt;据彭博援引知情人士报道，甲骨文向Stack Infrastructure发出的这份通知，核心目的在于在项目建设出现延误时，为自身确立合同层面的保护立场，以推迟潜在的付款义务。&lt;/p&gt;
+&lt;p&gt;企业援引不可抗力条款，通常是在遭遇超出自身控制范围的突发情况时，寻求免除或暂缓合同义务的法律依据。然而，知情人士同时指出，目前尚不确定这一操作能否实际免除甲骨文此前已承诺的财务责任。&lt;/p&gt;
+&lt;p&gt;对此，甲骨文发言人回应称：&amp;quot;Project Jupiter仍在按计划推进，我们对新墨西哥州的承诺坚定不移，对项目前景充满信心。&amp;quot;该发言人未就不可抗力通知本身作出具体置评。Blue Owl方面则拒绝发表评论。&lt;/p&gt;
+项目本已深陷困境，融资链压力全面显现
+&lt;p&gt;Project Jupiter在此次通知发出之前，已面临来自多方的阻力。据彭博此前报道，该项目遭遇反对声音与监管层面的挫折，相关贷款已跌至承压水平。&lt;/p&gt;
+&lt;p&gt;从项目结构来看，Project Jupiter以SPV形式运作，属于表外融资安排，将债券、贷款与Blue Owl股权捆绑在一起，涉及多家大型金融机构。这一高度杠杆化的融资结构，使得任何一个环节出现松动，都可能对整条资金链形成连锁冲击。&lt;/p&gt;
+&lt;p&gt;此次不可抗力通知发出后，市场反应迅速蔓延：甲骨文、，Blue Owl Capita、Bloom Energy集体大跌，显示投资者对项目前景的担忧已从核心参与方向周边供应链扩散。&lt;/p&gt;
+2028年上线目标蒙上阴影，项目命运存疑
+&lt;p&gt;知情人士表示，甲骨文发出不可抗力通知的直接触发点，正是对Project Jupiter能否按原计划于2028年投入运营的不确定性。该项目此前已因反对声音和监管阻碍而进展受阻，此次甲骨文的防御性动作进一步加剧了外界对项目能否落地的疑虑。&lt;/p&gt;
+&lt;p&gt;市场评论人士指出，Project Jupiter的SPV结构将多家顶级金融机构的利益深度绑定，一旦项目出现实质性延误乃至搁置，潜在的连锁反应不容低估。&lt;/p&gt;
+&lt;p&gt;目前，甲骨文坚称项目&amp;quot;按计划推进&amp;quot;，但其援引不可抗力条款的实际行动与这一表态之间的落差，已令投资者保持高度警惕。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国上周首申人数降至19.7万人，为1969年以来的最低水平之一</title><link>https://wallstreetcn.com/articles/3782482</link><guid>8d6f32d62ed22717d534834b3cf31084643a5b0fb28ce4161bad20597b2e40c3</guid><pubDate>Thu, 24 Sep 2026 13:20:30 GMT</pubDate><description>&lt;p&gt;美国劳动力市场展现出异常韧性。最新数据显示，初请失业金人数连续徘徊于历史低位附近，裁员现象依然罕见，但招聘端的不均衡态势令部分劳动者陷入两难困境。&lt;/p&gt;
+&lt;p&gt;美国劳工部周四公布数据显示，&lt;strong&gt;截至9月19日当周，初请失业金人数较前周减少1000人至19.7万，为7月以来最低水平，亦是1969年以来的历史最低读数之一。&lt;/strong&gt;彭博经济学家Eliza Winger表示，9月中旬初请失业金人数维持在极低水平，表明劳动力市场状况稳定，目前尚未看到高利率推动裁员的迹象。&lt;/p&gt;
+&lt;p&gt;数据公布后，市场对美国就业市场的担忧情绪进一步缓和。整体来看，当前劳动力市场结构性特征愈发清晰——裁员端持续受抑，而招聘端的动能仍不均衡，形成鲜明反差。&lt;/p&gt;
+
+初请数据创近期新低，四周均值同步回落
+
+&lt;p&gt;劳工部数据显示，19.7万这一读数在历史坐标系中位于极低区间。&lt;strong&gt;衡量新申请波动趋势的四周移动平均值下滑至20.225万，创六周新低，&lt;/strong&gt;进一步佐证近期申请量的下行趋势并非单周扰动。&lt;/p&gt;
+&lt;p&gt;未经季节调整的原始数据则呈现相反走势，初请人数有所上升，主要由加利福尼亚州、夏威夷州及纽约州的增量驱动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;持续申领失业金人数（衡量仍在领取救济金的群体规模）截至9月12日当周基本持平，约为172万，接近2023年以来的最低水平。&lt;/strong&gt;&lt;/p&gt;
+
+裁员稀少，但招聘冷热不均
+
+&lt;p&gt;Eliza Winger指出，目前少数处于裁员状态的行业，其动机主要集中于效率提升，而非宏观经济压力传导，高利率对就业市场的冲击尚未在利率敏感型行业显现。&lt;/p&gt;
+&lt;p&gt;然而，就业市场的稳定并不意味着活力全面恢复。过去数月间，企业普遍对解雇员工持谨慎态度，初请人数由此在历史低位附近持续盘桓。但与此同时，招聘活动表现参差不齐，为仍在观望的求职者以及那些对现有工作感到不满、却苦于缺乏跳槽机会的在职人员，提供的选择空间依然有限。&lt;/p&gt;
+&lt;p&gt;这一结构性分化意味着，劳动力市场的表面平静之下，部分群体面临的就业流动性压力仍未得到有效疏解。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
