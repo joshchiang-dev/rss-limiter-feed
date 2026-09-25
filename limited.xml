@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 21:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] AI资本开支冲向1.7万亿美元，回报要达到什么水平才算合理？高盛算了一笔账</title><link>https://wallstreetcn.com/articles/3782541</link><guid>fd18f54132ae7ccfeff3bc8849811424c0fad7406f5026228235aaa4fb8fcfad</guid><pubDate>Fri, 25 Sep 2026 11:30:34 GMT</pubDate><description>&lt;p&gt;美国超大规模云服务商的AI资本支出规模空前，但其能否获得合理回报，已成为市场最核心的投资争议。高盛最新发布的研究框架给出了一个具体数字。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 22:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] AI资本开支冲向1.7万亿美元，回报要达到什么水平才算合理？高盛算了一笔账</title><link>https://wallstreetcn.com/articles/3782541</link><guid>fd18f54132ae7ccfeff3bc8849811424c0fad7406f5026228235aaa4fb8fcfad</guid><pubDate>Fri, 25 Sep 2026 11:30:34 GMT</pubDate><description>&lt;p&gt;美国超大规模云服务商的AI资本支出规模空前，但其能否获得合理回报，已成为市场最核心的投资争议。高盛最新发布的研究框架给出了一个具体数字。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，据高盛研究报告，&lt;strong&gt;在15%年化投资资本回报率（ROIC）的基准假设下，Alphabet、微软、亚马逊、Meta、甲骨文及SpaceX六大美国超大规模云服务商，需在2028至2030年间累计实现约1.42万亿美元的收入，方能为其&amp;quot;第二阶段&amp;quot;（2026至2027年）AI算力资本支出提供合理回报。&lt;/strong&gt;换算为单位容量口径，这一门槛相当于每吉瓦（GW）年均收入约116亿美元。&lt;/p&gt;
 &lt;p&gt;高盛分析师认为，近期回报率的压缩是大规模前期投资周期的自然结果，而非AI经济结构性盈利能力低下的证据。报告同时指出，三大公有云服务商（AWS、Azure、Google Cloud）截至2026年第二季度合计已累积约1.69万亿美元的合同待执行积压订单，远超上述门槛所需的1.00万亿美元，为未来变现潜力提供了重要支撑。&lt;/p&gt;
 
@@ -48,7 +48,7 @@ ROIC框架：关键假设与测算逻辑
 &lt;p&gt;市场预计美联储10月加息的概率本周一度升至70%&lt;/p&gt;
 &lt;p&gt;美股早盘的波动明显受到美国经济数据牵动。美国9月密歇根大学消费者信心指数终值公布后，标普500和纳指均曾小幅转跌，道指曾回吐大部分涨幅，此后不久，三大指数重新稳住涨势，道指结束三连跌。&lt;/p&gt;
 &lt;p&gt;9月美国消费者信心指数终值降至48.1，为四个月低点；未来一年通胀预期则从8月的4%升至4.6%，未来5年至10年的通胀预期升至3.4%，为5月以来最高水平。评论称，消费者信心下降以及对价格和经济前景的担忧加深，削弱了油价回落带动的涨势。&lt;/p&gt;
-&lt;p&gt;虽然全周道指继续累跌，但AI交易力撑标普和纳指累涨。受益于AI智能体&lt;a href="https://wallstreetcn.com/articles/3782248"&gt;Muse火爆&lt;/a&gt;，Meta一周大涨超10%。Muse大火激发相关芯片需求热潮 ，Arm、AMD和英特尔全周也均涨超10%。&lt;/p&gt;
+&lt;p&gt;全周AI交易力撑标普和纳指累涨。受益于AI智能体&lt;a href="https://wallstreetcn.com/articles/3782248"&gt;Muse火爆&lt;/a&gt;，Meta一周大涨超10%。Muse大火激发相关芯片需求热潮 ，Arm、AMD和英特尔全周也均涨超10%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;剔除AI概念影响的个股后，标普500其他成分股本周累计跌约1%&lt;/p&gt;
 &lt;p&gt;债市方面，中长期美债收益率续创多年新高。10年期美债收益率周五连续第二日盘中升破5.22%，连续三日创2007年来新高；30年期美债收益率连续两日盘中突破5.55%，再创2004年以来新高。尽管此后10年期收益率抹平日内升幅转降，30年期收益率回吐部分升幅，全周仍大幅攀升。&lt;/p&gt;
@@ -61,8 +61,8 @@ ROIC框架：关键假设与测算逻辑
 &lt;p&gt;截至本周二，美油五连跌，周三和周四反弹，周五重回跌势、美伊技术性谈判消息后一度跌超3%&lt;/p&gt;
 美股：美消费者信心后，标普纳指曾转跌，智能体火爆带动Meta及芯片股全周大涨
 &lt;p&gt;周五开盘，美股三大指数集体高开。道指全天保持涨势，标普500和纳指在密歇根大学消费者信心数据公布后一度小幅转跌。这意味着市场面对的是一个相对棘手的组合：消费者对经济前景的信心下降，但通胀预期却重新升温。这既可能意味着经济增长担忧加剧，也可能限制美联储进一步放松政策的空间。&lt;/p&gt;
-&lt;p&gt;不过，随着美债收益率涨势暂歇、油价从高位回落，美股随后重新获得支撑。标普和道指有望最近四个交易日以来首日收涨，纳指将连涨两日。&lt;/p&gt;
-&lt;p&gt;从全周来看，截至周四收盘，标普本周四日累涨约0.7%，纳指累涨约1.6%，道指则下跌约0.6%。如果周五保持目前走势，标普有望结束此前连续两周的累跌势头，纳指有望连续第二周累涨，但道指将连续第四周累跌。&lt;/p&gt;
+&lt;p&gt;不过，随着美债收益率的升势暂歇、油价回落，美股重新获得支撑。标普和道指最近四个交易日以来首日收涨，纳指连涨两日。&lt;/p&gt;
+&lt;p&gt;本周标普结束连跌两周的势头，纳指连续第二周累涨，凭借周五反弹，此前连跌三周的道指惊险累涨。&lt;/p&gt;
 &lt;p&gt;个股方面，旗下智能体Muse近期爆红后，Meta成为市场关注焦点。Meta周四收涨4.5%，两日连涨并刷新2025年9月以来高位，但周五低开低走，收跌超3%。尽管周五收跌，Meta本周仍累涨近13%，过去一个月累涨超30%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Meta本周市值增加约2200亿美元、突破1.9万亿美元冲向2万亿关口，周四收创2025年9月以来新高&lt;/p&gt;
@@ -109,27 +109,7 @@ ROIC框架：关键假设与测算逻辑
 &lt;p&gt;美股方面，AI相关股票继续提供支撑，标普500指数和纳指截至周四仍有望录得周涨幅；但与此同时，美债收益率快速攀升，美元走强，意味着市场对通胀和利率的担忧并未消退。&lt;/p&gt;
 &lt;p&gt;债市则明显弱于股市。10年期和30年期美债收益率分别一再刷新2007年以来和2004年以来高位，长期利率上行已经成为本周全球资产价格波动的重要背景。&lt;/p&gt;
 &lt;p&gt;汇市方面，美元整体保持强势，但日元周五突然大涨，为本周市场增加了新的政策变量；原油则围绕中东供应风险和霍尔木兹海峡重开预期剧烈波动，黄金则受到高利率环境压制。&lt;/p&gt;
-&lt;p&gt;因此，截至周五盘中，市场形成了一个颇具代表性的组合：AI仍在托住美股，但5%以上的长期美债收益率、高位油价以及重新升温的通胀预期，正在不断提高风险资产继续上涨的门槛；与此同时，日美官员对弱日元的共同担忧，则让日元成为本周尾声最受关注的汇率品种之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta败诉！或面临最高2190亿美元天价罚款</title><link>https://wallstreetcn.com/articles/3782562</link><guid>17016f540b01bcb94faa133f71e1512ba737502a957ebac0a674aac84ea81e6f</guid><pubDate>Fri, 25 Sep 2026 21:25:33 GMT</pubDate><description>&lt;p&gt;Meta Platforms周四在新墨西哥州的一场审判中落败，面临天价罚款风险，成为剑桥分析数据丑闻迄今代价最高的法律后果。&lt;/p&gt;
-&lt;p&gt;据彭博报道，&lt;strong&gt;新墨西哥州总检察长Raúl Torrez表示，该裁决是追究科技巨头责任的&amp;quot;里程碑式时刻&amp;quot;，将向法院申请对Meta处以最高2190亿美元的民事罚款。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;陪审团裁定，Meta在言论及数据隐私政策上存在欺骗公众的行为，违反了州法律。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次判决波及范围广泛。陪审团认定，在裁决书列出的34项陈述中，Meta对其中大多数项目负有责任，每项违规次数在130万至210万次之间——这一数字对应新墨西哥州Facebook用户数量或2020年该州总人口数。&lt;/p&gt;
-&lt;p&gt;最终罚款金额将由圣塔菲第一司法巡回法院法官Francis Mathew裁定，每次违规最高可处以5000美元罚款。&lt;/p&gt;
-&lt;p&gt;周五，Meta收跌3.33%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-Meta已支付60亿美元和解金
-
-&lt;p&gt;Torrez是全美首位将Meta就剑桥分析丑闻诉诸庭审的州级执法官员。这一丑闻最早于2018年曝光，历史已近十年。&lt;/p&gt;
-&lt;p&gt;事件起源于一名数据科学家开发的一款问卷调查应用程序。该应用表面无害，实则在收集Facebook用户数据的同时，也抓取了其好友的信息，最终共涉及8700万份用户档案。&lt;/p&gt;
-&lt;p&gt;已解散的政治咨询公司剑桥分析随后获取了这批数据，并将其用于特朗普2016年总统竞选。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此前，Meta已支付巨额和解金以避免诉讼。协议方包括联邦贸易委员会、Facebook用户群体，以及最近达成的一项由两党州总检察长联盟主导的和解，合计约60亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新墨西哥州和华盛顿特区是仅有的两个未加入该联盟和解的司法管辖区。&lt;/p&gt;
-
-Meta：将持续抗辩，援引第一修正案
-
-&lt;p&gt;Meta方面对判决结果表示异议。其发言人在声明中表示，&lt;strong&gt;公司不认同陪审团裁决，将继续就&amp;quot;歪曲我们记录的行为&amp;quot;进行抗辩。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;我们依据第一修正案，有权以我们认为最符合社区利益的方式管理旗下平台，&amp;quot;该发言人表示，&amp;quot;这意味着优先保障言论自由、保护用户信息并赋予用户对其数据的控制权。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，2190亿美元为理论上限，实际罚款金额取决于法官的最终裁量。Torrez在新闻发布会上表示，法律团队尚未确定将向法院申请的具体金额，但将争取最高额度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%</title><link>https://wallstreetcn.com/articles/3782544</link><guid>52f92b91652f1a527d81a063b518577e7944b1491b421d6be58d5de21fef1925</guid><pubDate>Fri, 25 Sep 2026 11:03:51 GMT</pubDate><description>&lt;p&gt;美国10年期国债收益率突破5%关口，长期利率上行压力仍未消退，而美债买家结构的变化正让市场更容易出现剧烈波动。&lt;/p&gt;
+&lt;p&gt;因此，截至周五盘中，市场形成了一个颇具代表性的组合：AI仍在托住美股，但5%以上的长期美债收益率、高位油价以及重新升温的通胀预期，正在不断提高风险资产继续上涨的门槛；与此同时，日美官员对弱日元的共同担忧，则让日元成为本周尾声最受关注的汇率品种之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%</title><link>https://wallstreetcn.com/articles/3782544</link><guid>52f92b91652f1a527d81a063b518577e7944b1491b421d6be58d5de21fef1925</guid><pubDate>Fri, 25 Sep 2026 11:03:51 GMT</pubDate><description>&lt;p&gt;美国10年期国债收益率突破5%关口，长期利率上行压力仍未消退，而美债买家结构的变化正让市场更容易出现剧烈波动。&lt;/p&gt;
 &lt;p&gt;通胀仍高于目标、美国经济保持韧性，美联储重新转向加息，同时美国财政融资需求持续扩大，共同推高长期美债收益率。与此同时，&lt;strong&gt;对价格不敏感的外国官方投资者逐步减少，对冲基金等对价格更敏感的投资者承接更多美债，意味着市场对资金流向变化可能更加敏感。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本周三，美国10年期国债收益率单日上升14个基点，盘中一度突破5.1%，创2007年以来新高；5年期美债收益率也突破5%，同样达到2007年以来高位。日本10年期国债收益率周四升至1996年以来最高水平，全球债券市场同步承压。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -174,28 +154,27 @@ Meta：将持续抗辩，援引第一修正案
 &lt;p&gt;从数据表现来看，美国企业设备投资动能在今年持续增强。8月核心资本品订单增幅较7月进一步扩大，表明企业对机械、设备等资本品的需求仍然较为旺盛，也意味着企业资本支出可能继续为经济增长提供支撑。&lt;/p&gt;
 &lt;p&gt;相比之下，&lt;strong&gt;美国8月全部耐用品订单基本持平，预期-0.3%，较前值1.1%显著下滑&lt;/strong&gt;。该指标涵盖预计使用至少三年的商品，同时包括商用飞机和军用设备。波音8月获得的订单数量较7月下降，也对整体耐用品订单表现形成一定拖累。&lt;/p&gt;
 &lt;p&gt;此次数据释放的一个重要信号是，&lt;strong&gt;剔除飞机等大额、波动性较强的项目后，美国企业设备投资仍保持较强增长&lt;/strong&gt;。这意味着企业资本开支的增长并不完全依赖航空等单一行业，核心设备需求仍具有一定韧性。&lt;/p&gt;
-&lt;p&gt;在美国经济增长面临重新定价、融资成本仍处高位的背景下，核心资本品订单的强劲表现，也将成为市场观察企业投资和经济增长韧性的一个重要指标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元</title><link>https://wallstreetcn.com/articles/3782555</link><guid>2607f978ca7698c585dafd93e06a4791e1f84e72e43ca925d421c805a2ce4d87</guid><pubDate>Fri, 25 Sep 2026 19:10:14 GMT</pubDate><description>&lt;p&gt;SK海力士旗下美国子公司Solidigm正在评估上市计划，&lt;strong&gt;潜在估值最高达1500亿美元，有望成为美国半导体史上规模最大的IPO。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据路透援引知情人士透露，&lt;strong&gt;Solidigm本周已与多家投行举行竞标会议，就IPO承销角色展开角逐，标志着上市进程迈出实质性一步。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该公司计划最早于明年完成上市，目标募资规模约150亿美元。&lt;/strong&gt;消息人士提醒，包括交易规模和时间表在内的相关计划仍处于早期阶段，可能因市场状况而调整。&lt;/p&gt;
-&lt;p&gt;据彭博报道，&lt;strong&gt;今年8月，Solidigm与CoreWeave达成多年期协议，向后者提供企业级固态硬盘（SSD）容量。&lt;/strong&gt;Solidigm的其他客户还包括Vast Data、戴尔和腾讯。&lt;/p&gt;
-&lt;p&gt;若最终成行，此次上市将为这家专注于NAND闪存和企业级固态硬盘的公司提供独立估值，同时借助人工智能基础设施投资热潮吸引市场资金。&lt;/p&gt;
-&lt;p&gt;AI相关需求持续推动半导体硬件股上涨，Solidigm所在赛道正处于这一趋势的核心位置。&lt;/p&gt;
-&lt;p&gt;周五截至发稿，SK海力士美股盘中上涨2.8%。&lt;/p&gt;
+&lt;p&gt;在美国经济增长面临重新定价、融资成本仍处高位的背景下，核心资本品订单的强劲表现，也将成为市场观察企业投资和经济增长韧性的一个重要指标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta败诉！或面临最高2190亿美元天价罚款</title><link>https://wallstreetcn.com/articles/3782562</link><guid>17016f540b01bcb94faa133f71e1512ba737502a957ebac0a674aac84ea81e6f</guid><pubDate>Fri, 25 Sep 2026 21:25:33 GMT</pubDate><description>&lt;p&gt;Meta Platforms周四在新墨西哥州的一场审判中落败，面临天价罚款风险，成为剑桥分析数据丑闻迄今代价最高的法律后果。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;新墨西哥州总检察长Raúl Torrez表示，该裁决是追究科技巨头责任的&amp;quot;里程碑式时刻&amp;quot;，将向法院申请对Meta处以最高2190亿美元的民事罚款。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;陪审团裁定，Meta在言论及数据隐私政策上存在欺骗公众的行为，违反了州法律。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次判决波及范围广泛。陪审团认定，在裁决书列出的34项陈述中，Meta对其中大多数项目负有责任，每项违规次数在130万至210万次之间——这一数字对应新墨西哥州Facebook用户数量或2020年该州总人口数。&lt;/p&gt;
+&lt;p&gt;最终罚款金额将由圣塔菲第一司法巡回法院法官Francis Mathew裁定，每次违规最高可处以5000美元罚款。&lt;/p&gt;
+&lt;p&gt;周五，Meta收跌3.33%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
-估值远超同业，或刷新半导体上市纪录
+Meta已支付60亿美元和解金
 
-&lt;p&gt;1500亿美元的潜在估值将大幅超越近年半导体上市案例。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Arm Holdings于2023年上市时估值约540亿美元，Cerebras Systems于2026年IPO时全稀释估值约为560亿美元。Solidigm若按目标估值完成上市，将成为美国半导体行业有史以来规模最大的IPO。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Solidigm总部位于加利福尼亚州兰乔科多瓦，是韩国SK海力士的美国子公司，&lt;strong&gt;主营NAND闪存芯片及固态硬盘业务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该公司聚焦于面向AI应用的大容量存储产品，在服务器、云基础设施及数据中心领域供应企业级SSD，致力于通过差异化产品满足AI场景下日益增长的海量数据存储需求。&lt;/p&gt;
+&lt;p&gt;Torrez是全美首位将Meta就剑桥分析丑闻诉诸庭审的州级执法官员。这一丑闻最早于2018年曝光，历史已近十年。&lt;/p&gt;
+&lt;p&gt;事件起源于一名数据科学家开发的一款问卷调查应用程序。该应用表面无害，实则在收集Facebook用户数据的同时，也抓取了其好友的信息，最终共涉及8700万份用户档案。&lt;/p&gt;
+&lt;p&gt;已解散的政治咨询公司剑桥分析随后获取了这批数据，并将其用于特朗普2016年总统竞选。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此前，Meta已支付巨额和解金以避免诉讼。协议方包括联邦贸易委员会、Facebook用户群体，以及最近达成的一项由两党州总检察长联盟主导的和解，合计约60亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新墨西哥州和华盛顿特区是仅有的两个未加入该联盟和解的司法管辖区。&lt;/p&gt;
 
-脱胎于英特尔并购，发展为SK海力士核心存储资产
+Meta：将持续抗辩，援引第一修正案
 
-&lt;p&gt;Solidigm的业务基础源自一笔大型并购交易。&lt;strong&gt;SK海力士于2020年宣布以约90亿美元收购英特尔的NAND存储及SSD业务，并于2021年将相关业务整合后以独立子公司形式推出Solidigm。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SK海力士当时表示，此次收购将强化其NAND闪存和企业级SSD业务，并扩大其在全球存储市场的份额。&lt;/p&gt;
-&lt;p&gt;Solidigm目前已成为SK海力士存储业务组合的重要组成部分。上月，SK海力士表示正在研究提升Solidigm竞争力的相关措施，此前有媒体报道称该子公司正考虑开展约5万亿韩元（约36亿美元）的IPO前融资。&lt;/p&gt;
-&lt;p&gt;在推进上市计划的同时，Solidigm亦在考虑扩大本土生产能力。据媒体此前报道，该公司正评估在美国建设NAND闪存芯片工厂的方案，纽约州北部已成为选址的主要候选地。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本官员喊话后贝森特“撑场”：已和日财相讨论强日元“可取性”</title><link>https://wallstreetcn.com/articles/3782560</link><guid>8c85e2675a51ac361a8e8aecc3041dcead389aa5bea7dee378584fa9cc3854d9</guid><pubDate>Fri, 25 Sep 2026 18:41:01 GMT</pubDate><description>&lt;p&gt;日元在连续五个交易日下跌后迎来强劲反弹。&lt;/p&gt;
+&lt;p&gt;Meta方面对判决结果表示异议。其发言人在声明中表示，&lt;strong&gt;公司不认同陪审团裁决，将继续就&amp;quot;歪曲我们记录的行为&amp;quot;进行抗辩。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;我们依据第一修正案，有权以我们认为最符合社区利益的方式管理旗下平台，&amp;quot;该发言人表示，&amp;quot;这意味着优先保障言论自由、保护用户信息并赋予用户对其数据的控制权。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，2190亿美元为理论上限，实际罚款金额取决于法官的最终裁量。Torrez在新闻发布会上表示，法律团队尚未确定将向法院申请的具体金额，但将争取最高额度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本官员喊话后贝森特“撑场”：已和日财相讨论强日元“可取性”</title><link>https://wallstreetcn.com/articles/3782560</link><guid>8c85e2675a51ac361a8e8aecc3041dcead389aa5bea7dee378584fa9cc3854d9</guid><pubDate>Fri, 25 Sep 2026 18:41:01 GMT</pubDate><description>&lt;p&gt;日元在连续五个交易日下跌后迎来强劲反弹。&lt;/p&gt;
 &lt;p&gt;美东时间9月25日周五，美国财长贝森特在社交媒体发文称，他当天与日本财务大臣片山皋月进行了“富有成效的通话”，双方讨论了“反映日本强劲经济基本面的强势日元的可取性”，并强调继续就外汇市场保持密切沟通的重要性。&lt;/p&gt;
 &lt;p&gt;贝森特的表态进一步强化了近期美日官员围绕日元汇率释放的信号。&lt;/p&gt;
 &lt;p&gt;彭博社周五稍早报道称，片山皋月透露，特朗普本周与日本首相高市早苗会晤时均谈到了日元走弱的问题，高市还向特朗普表示，从一般原则来看，日元被低估“是有问题的”。&lt;/p&gt;
@@ -321,7 +300,55 @@ Meta：将持续抗辩，援引第一修正案
 日美利差仍是日元重要约束
 &lt;p&gt;日本央行9月18日将政策利率上调至1.25%，行长植田和男随后表示，不排除10月继续加息或在未来某一时点采取更大幅度行动的可能性，但市场反应相对有限。&lt;/p&gt;
 &lt;p&gt;相比之下，美联储最新利率路径仍对美元形成支撑。美联储会议后的点阵图显示，年内至少还有一次加息预期，交易员目前将美联储10月28日再度加息的概率定价至71%。&lt;strong&gt;日美利差预期的差异，仍是影响日元走势的重要因素。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据报道，日元上周走弱后，日本金融当局曾在纽约交易时段进行汇率确认询价，向多家银行询问日元当前报价。市场通常将此类操作视为日本当局密切关注汇率走势的信号。约一年前，日美两国财长曾通过联合声明确认双方的汇率政策立场，而此次日美领导人直接讨论汇率问题，也进一步提高了市场对后续政策沟通的关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：Anthropic洽谈租赁最高1GW数据中心容量，相关投资至少400亿美元</title><link>https://wallstreetcn.com/articles/3782561</link><guid>4c4ed771c5eac3e8495e6eb600cf4546692c880a7ef716765105f1e3e8b14191</guid><pubDate>Fri, 25 Sep 2026 21:48:21 GMT</pubDate><description>&lt;p&gt;据The Information报道，Anthropic正探讨从Stream Data Centers租赁高达1GW算力的事项。Stream是一家美国数据中心开发商，由阿波罗全球管理公司控股。&lt;/p&gt;
+&lt;p&gt;据报道，日元上周走弱后，日本金融当局曾在纽约交易时段进行汇率确认询价，向多家银行询问日元当前报价。市场通常将此类操作视为日本当局密切关注汇率走势的信号。约一年前，日美两国财长曾通过联合声明确认双方的汇率政策立场，而此次日美领导人直接讨论汇率问题，也进一步提高了市场对后续政策沟通的关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元</title><link>https://wallstreetcn.com/articles/3782555</link><guid>2607f978ca7698c585dafd93e06a4791e1f84e72e43ca925d421c805a2ce4d87</guid><pubDate>Fri, 25 Sep 2026 19:10:14 GMT</pubDate><description>&lt;p&gt;SK海力士旗下美国子公司Solidigm正在评估上市计划，&lt;strong&gt;潜在估值最高达1500亿美元，有望成为美国半导体史上规模最大的IPO。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据路透援引知情人士透露，&lt;strong&gt;Solidigm本周已与多家投行举行竞标会议，就IPO承销角色展开角逐，标志着上市进程迈出实质性一步。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该公司计划最早于明年完成上市，目标募资规模约150亿美元。&lt;/strong&gt;消息人士提醒，包括交易规模和时间表在内的相关计划仍处于早期阶段，可能因市场状况而调整。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;今年8月，Solidigm与CoreWeave达成多年期协议，向后者提供企业级固态硬盘（SSD）容量。&lt;/strong&gt;Solidigm的其他客户还包括Vast Data、戴尔和腾讯。&lt;/p&gt;
+&lt;p&gt;若最终成行，此次上市将为这家专注于NAND闪存和企业级固态硬盘的公司提供独立估值，同时借助人工智能基础设施投资热潮吸引市场资金。&lt;/p&gt;
+&lt;p&gt;AI相关需求持续推动半导体硬件股上涨，Solidigm所在赛道正处于这一趋势的核心位置。&lt;/p&gt;
+&lt;p&gt;周五截至发稿，SK海力士美股盘中上涨2.8%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+估值远超同业，或刷新半导体上市纪录
+
+&lt;p&gt;1500亿美元的潜在估值将大幅超越近年半导体上市案例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Arm Holdings于2023年上市时估值约540亿美元，Cerebras Systems于2026年IPO时全稀释估值约为560亿美元。Solidigm若按目标估值完成上市，将成为美国半导体行业有史以来规模最大的IPO。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solidigm总部位于加利福尼亚州兰乔科多瓦，是韩国SK海力士的美国子公司，&lt;strong&gt;主营NAND闪存芯片及固态硬盘业务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该公司聚焦于面向AI应用的大容量存储产品，在服务器、云基础设施及数据中心领域供应企业级SSD，致力于通过差异化产品满足AI场景下日益增长的海量数据存储需求。&lt;/p&gt;
+
+脱胎于英特尔并购，发展为SK海力士核心存储资产
+
+&lt;p&gt;Solidigm的业务基础源自一笔大型并购交易。&lt;strong&gt;SK海力士于2020年宣布以约90亿美元收购英特尔的NAND存储及SSD业务，并于2021年将相关业务整合后以独立子公司形式推出Solidigm。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SK海力士当时表示，此次收购将强化其NAND闪存和企业级SSD业务，并扩大其在全球存储市场的份额。&lt;/p&gt;
+&lt;p&gt;Solidigm目前已成为SK海力士存储业务组合的重要组成部分。上月，SK海力士表示正在研究提升Solidigm竞争力的相关措施，此前有媒体报道称该子公司正考虑开展约5万亿韩元（约36亿美元）的IPO前融资。&lt;/p&gt;
+&lt;p&gt;在推进上市计划的同时，Solidigm亦在考虑扩大本土生产能力。据媒体此前报道，该公司正评估在美国建设NAND闪存芯片工厂的方案，纽约州北部已成为选址的主要候选地。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本财务大臣：高市早苗并非"再通胀主义者，非常尊重央行独立性"</title><link>https://wallstreetcn.com/articles/3782563</link><guid>961e5f9e796362598aeb0c13e6b7fb1e781e7feedfb37a7cf4fc07128cdb6cb3</guid><pubDate>Fri, 25 Sep 2026 22:19:34 GMT</pubDate><description>&lt;p&gt;日本政府正集中火力，试图扭转市场对高市早苗政府施压日本央行、奉行宽松政策的固有印象。&lt;/p&gt;
+&lt;p&gt;日本财务大臣片山皋月（Satsuki Katayama）周五表示，&lt;strong&gt;高市早苗首相并非&amp;quot;再通胀主义者，非常尊重央行独立性&amp;quot;，并称高市本人一再要求她向海外投资者澄清这一立场，&amp;quot;我们希望确保在这一点上不存在任何误解。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;片山同时重申干预汇市、支撑日元的意愿，并淡化了近期日本国债收益率上行所引发的市场担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述表态发生在日本央行上周三度加息之后。然而，高市政府提名的两位央行委员均投票反对这一决定，进一步强化了市场对日本政府倾向于延缓加息步伐的判断。&lt;/p&gt;
+&lt;p&gt;与此同时，日元兑美元汇率已跌破央行加息前水平，日本国债收益率也攀升至1990年代中期以来最高水平，市场压力持续升温。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+政府官员密集表态，力图厘清政策立场
+
+&lt;p&gt;片山的澄清并非孤立之举。&lt;strong&gt;经济增长战略大臣Minoru Kiuchi当天早些时候也表示，日本经济已无需再通胀政策。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kiuchi在内阁中被视为再通胀立场最鲜明的成员，其发言与片山的口径高度一致，显示出政府有意统一对外叙事，以回应市场对政府干预央行政策的疑虑。&lt;/p&gt;
+&lt;p&gt;部分市场人士将高市视为已故前首相安倍晋三的政策传承者——安倍曾力推央行货币宽松与灵活财政政策，以打破日本数十年的经济停滞。&lt;/p&gt;
+&lt;p&gt;片山对此回应称，随着通胀重返日本，当前环境已与彼时截然不同，过去的政策框架不能简单套用于今日。&lt;/p&gt;
+&lt;p&gt;片山表示，&lt;strong&gt;高市本人&amp;quot;非常尊重央行独立性&amp;quot;，日常货币政策决定权归属日本央行，政府有意避免给外界留下干预央行政策的印象。&lt;/strong&gt;&lt;/p&gt;
+
+投资者质疑未散，传奇投资人德拉肯米勒与摩根大通CEO均有关切
+
+&lt;p&gt;片山透露，她近期在东京与多位美国金融界人士会面，其中包括亿万富翁投资者Stanley Druckenmiller以及摩根大通首席执行官Jamie Dimon。&lt;/p&gt;
+&lt;p&gt;谈及会面内容，她承认，部分投资者仍认为高市政府正在制约日本央行的行动空间。&lt;/p&gt;
+&lt;p&gt;正是这种疑虑，促使片山在本次专访中主动、反复地强调政府尊重央行独立性的立场。&lt;/p&gt;
+
+片山重申干预日元的准备
+
+&lt;p&gt;在汇率问题上，片山重申了干预市场的准备，并与美国财政部长贝森特于周五再次通话。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据日本财务省发布的通话摘要，双方就金融市场最新动态交换了意见，并再次确认了对日元被低估的共同关切，以及进一步深化合作的意向。&lt;/strong&gt;贝森特随后在X上表示，双方&amp;quot;讨论了反映日本强劲经济基本面的强势日元的可取性&amp;quot;。&lt;/p&gt;
+&lt;p&gt;片山当天早些时候在新闻发布会上透露，特朗普在本周于纽约举行的会谈中，向高市表达了对日元疲软的关切。但她补充称，特朗普的表态仅止于此，双方并未就后续应采取何种措施深入探讨。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于近期债券收益率的快速上行，片山认为这是一个全球性现象，部分反映了人工智能投资热潮带动的私人部门资金需求上升，并预计此轮快速上涨将是暂时性的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;她还指出，利率上升对日本家庭而言实际上意味着存款利息收入增加，相比美国人更多持有股票，日本人的储蓄更多存放在银行，因此有望从中受益。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：Anthropic洽谈租赁最高1GW数据中心容量，相关投资至少400亿美元</title><link>https://wallstreetcn.com/articles/3782561</link><guid>4c4ed771c5eac3e8495e6eb600cf4546692c880a7ef716765105f1e3e8b14191</guid><pubDate>Fri, 25 Sep 2026 21:48:21 GMT</pubDate><description>&lt;p&gt;据The Information报道，Anthropic正探讨从Stream Data Centers租赁高达1GW算力的事项。Stream是一家美国数据中心开发商，由阿波罗全球管理公司控股。&lt;/p&gt;
 &lt;p&gt;数据中心开发商表示，部署完整的1GW算力将需要至少400亿美元的资本投资。Anthropic需要为租赁提供财务担保，并为在这些数据中心内安装的芯片另行筹措资金。&lt;/p&gt;
 &lt;p&gt;Anthropic已就成为直接租户并部署由谷歌和博通联合设计的TPU进行了讨论，不过也可以使用英伟达的GPU。谷歌可能会提供信用担保，但该项支持的具体范围尚不明确。&lt;/p&gt;
 &lt;p&gt;相关洽谈仍处于初步阶段，容量和交易结构仍在谈判之中。&lt;/p&gt;
@@ -329,21 +356,4 @@ Meta：将持续抗辩，援引第一修正案
 &lt;p&gt;这项潜在的租赁协议将使Anthropic进一步延伸其摆脱仅从云服务提供商获取服务器容量的战略步调。&lt;/p&gt;
 &lt;p&gt;Anthropic已承诺在10年内向AWS投入超过1000亿美元以获取高达5GW的容量，并与AMD达成协议部署高达2GW的Instinct GPU。&lt;/p&gt;
 &lt;p&gt;Anthropic联合创始人兼首席算力官Tom Brown曾说道：“跨多元化的硬件范围运行，能让我们把合适的计算工作负载分配给合适的硬件，”&lt;/p&gt;
-&lt;p&gt;此前，Anthropic已与TeraWulf签署了一份为期20年的租赁协议，涵盖肯塔基州约401MW的关键IT负载。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 还没破百万日活，Meta Muse就频频掉链子：服务降级、Agent失败，算力瓶颈浮出水面</title><link>https://wallstreetcn.com/articles/3782546</link><guid>9c9a8e704a3eed987321c081f6220382b79f7abf267eac65ff7a94a726bfe099</guid><pubDate>Fri, 25 Sep 2026 12:00:20 GMT</pubDate><description>&lt;p&gt;Meta旗下个人AI智能体Muse用户增长迅猛，但服务端压力已经提前显现。过去11天内，Muse日活用户增长约10倍至70万，但服务降级、Agent任务失败等问题也开始出现，算力瓶颈逐渐浮出水面。&lt;/p&gt;
-&lt;p&gt;Muse近期已出现多项服务异常，&lt;strong&gt;包括资源消耗远超内部测试预期、部分功能出现降级，以及Agent在执行复杂任务时频繁失败。&lt;/strong&gt;一次压力测试中，Muse尝试同时创建120个子Agent，最终仅成功33个，显示其实际运行负载已经给服务稳定性带来压力。&lt;/p&gt;
-&lt;p&gt;据网络分析机构Similarweb数据，Muse目前日活用户约70万。值得注意的是，这一增长尚未覆盖全部潜在用户：Muse目前仅面向美国和加拿大开放，WhatsApp和Instagram也尚未全面开放注册入口。若后续进一步扩大开放范围，服务端承受的计算负载还将继续上升。&lt;/p&gt;
-&lt;p&gt;Muse的核心问题在于其高计算资源占用的运行架构。Meta为每名用户配置独立云端虚拟机，&lt;strong&gt;随着用户规模扩大，CPU、内存和存储需求将同步增长，这也使基础设施扩容成为Muse规模化必须面对的问题。&lt;/strong&gt;&lt;/p&gt;
-尚未突破百万日活，Muse已频现服务异常
-&lt;p&gt;Muse的服务压力已经出现多个具体迹象。9月9日，Meta首席AI官Alexander Wang透露，Muse早期实际使用量“远超预期”，用户消耗量约为内部测试群体的10倍，Meta随后调整token使用策略并提高额度。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;第三方状态监测平台SaaSHub目前将Muse标记为“Degraded”，即服务仍可访问，但部分用户持续报告问题，其中“无法搜索”是最常见的反馈。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent执行能力也受到并发负载考验。一名AI研究人员近期进行压力测试，要求Muse同时创建120个子Agent，最终仅成功33个，另外87次创建失败。&lt;strong&gt;测试显示，在高并发任务下，Muse的Agent编排能力存在一定限制。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这些现象并不能直接证明问题均由算力不足导致，但反映出Muse实际运行负载已明显高于早期测试预期。&lt;/p&gt;
-独立虚拟机架构推高算力需求
-&lt;p&gt;Muse的算力压力，很大程度上来自其底层架构。为降低隐私和安全风险，Meta为每名用户分配独立隔离的云端虚拟机，配置包括2个虚拟CPU、8GB内存和100GB固态硬盘，并配备专属浏览器，用于存储用户数据和凭证。&lt;/p&gt;
-&lt;p&gt;按上述配置，在不进行负载共享的理想情况下，若用户达到1亿，Meta需要约2亿个CPU核心，相当于约158万颗采用126核配置的AMD EPYC处理器，同时还需要800PB内存和1万PB固态存储。&lt;/p&gt;
-&lt;p&gt;Muse还配备名为“Sentinel”的安全机制，持续监控智能体运行环境。&lt;strong&gt;智能体完成交易前，需要同时获得Sentinel批准和用户明确确认，这套多层安全机制也增加了系统运行的计算开销。&lt;/strong&gt;&lt;/p&gt;
-用户扩张与商业化同步推进
-&lt;p&gt;Muse定位为能够执行多步骤任务的个人AI智能体，可以代替用户操作云端浏览器、浏览网页并完成相关事务，即使用户关闭应用，也能继续在后台运行。&lt;/p&gt;
-&lt;p&gt;Meta正进一步扩大Muse的交互入口。除Meta智能眼镜外，公司还在开发名为Muse Charm的钥匙链形态独立设备，预计今年12月发货。WhatsApp和Instagram目前尚未开放Muse注册，未来仍有进一步扩大用户覆盖面的空间。&lt;/p&gt;
-&lt;p&gt;商业化也已开始铺开。&lt;strong&gt;扎克伯格本周表示，Meta将从Muse促成的交易中收取少量佣金。&lt;/strong&gt;目前，Muse每周向用户提供最多1亿个免费token，重度用户的付费订阅起价约为每月20美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;随着Muse从当前规模继续向更大用户群扩张，Meta需要解决的不只是新增用户带来的需求，还包括如何维持Agent执行能力和服务稳定性。&lt;/strong&gt;独立虚拟机架构意味着CPU、内存和存储需求将随用户规模同步扩大，这也将对Meta的数据中心投入和基础设施采购提出更高要求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此前，Anthropic已与TeraWulf签署了一份为期20年的租赁协议，涵盖肯塔基州约401MW的关键IT负载。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
