@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 04:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 25 Sep 2026 04:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元</title><link>https://wallstreetcn.com/articles/3782515</link><guid>439ef8a8e0bf65026080a1a77fbe26244538c2648f8e2da33db2ee9d1af8be1a</guid><pubDate>Fri, 25 Sep 2026 01:59:42 GMT</pubDate><description>&lt;p&gt;Meta正迎来一轮由AI预期驱动的强势反弹，个人AI助手Muse的走红成为这一轮行情的重要催化剂。&lt;/p&gt;
 &lt;p&gt;今年以来，Meta股价一度明显承压，但进入9月后快速反弹。&lt;strong&gt;截至9月24日，股价本月累计上涨约36%，创2013年以来最强单月表现，市值重新逼近2万亿美元，距离这一关口仅约1%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;行情反转的背后，Muse带来的AI商业化想象成为重要支撑。Muse于9月8日正式上线，能够自主执行购物、出行、邮件管理等多步骤任务。上线前六天下载量达到90.2万次，超过Meta AI同期的77.3万次，并迅速登顶美国及加拿大苹果应用商店免费榜。&lt;/p&gt;
 &lt;p&gt;但资本市场的乐观预期也在迅速升温。AI代理开始进入购物、预订等真实消费场景，传统互联网平台赖以维持用户的搜索、账号和使用习惯可能受到冲击；与此同时，Muse自身的安全漏洞、隐私争议和高昂算力成本，也让这场AI热潮面临现实约束。&lt;/p&gt;
@@ -72,7 +72,30 @@ AI代理的另一道门槛：算力成本
 &lt;p&gt;Cox Automotive首席产品官Marianne Johnson表示，Autotrader的对话式AI虚拟形象将自然语言描述与库存匹配相结合，是其&amp;quot;连接智能&amp;quot;愿景落地的重要步骤，该愿景旨在让每次消费者互动均能调用Cox Automotive的完整数据资产。&lt;/p&gt;
 &lt;p&gt;Equal AI首席执行官Akhilesh Damaraju称，借助Gemini 3.8 Live在打断处理、多语言对话及工具调用稳定性方面的改进，该平台现已实现每日超百万次实时通话处理，覆盖九种印度语言，目标是构建&amp;quot;了解你、说你的语言、始终站在你这边&amp;quot;的个人AI。&lt;/p&gt;
 &lt;p&gt;Salesforce Agentforce产品副总裁Bob Van Osten表示，Salesforce AI Research与谷歌的合作旨在探索实时多模态能力与代理式AI的结合，以打造从首次接触到问题解决全流程的客户服务体验。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本财务大臣：特朗普对日元贬值表达了担忧，将与美方密切协调</title><link>https://wallstreetcn.com/articles/3782526</link><guid>f45a2801f1f6f358cf9b0bfc530d783afe4b491e995aaf1d76219891413d9816</guid><pubDate>Fri, 25 Sep 2026 04:10:58 GMT</pubDate><description>&lt;p&gt;日美汇率协调预期再度升温，日本政府正通过高层沟通和政策表态回应日元持续走弱。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球债市风暴延续！日本30年期国债收益率创1999年以来新高，港股走低，恒科指跌2%</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 04:33:24 GMT</pubDate><description>&lt;p&gt;尽管油价有所回落，亚洲债券收益率周五仍持续攀升，中东冲突未见降温，市场对通胀和利率上行的担忧尚未缓解。&lt;/p&gt;
+&lt;p&gt;美国国债抛售压力再次向亚洲市场蔓延。全球债券指数收益率升至4%，为2007年以来首次；纽约交易时段，30年期美债收益率升至2004年以来最高水平。受此影响，澳大利亚和新西兰10年期国债收益率均上涨约3个基点，日本30年期国债收益率升至4.21%，创1999年上市以来新高。&lt;/p&gt;
+&lt;p&gt;股市方面，香港股市午间收盘走弱，恒生指数跌1.69%，恒生科技指数跌2.14%，网易、理想汽车、小米、京东、阿里巴巴、比亚迪、快手等科技和消费股普遍下跌。日经225指数和东证指数均上涨1.2%；A股和韩国股市因假期休市。&lt;/p&gt;
+&lt;p&gt;拉弗·滕格勒投资公司投资组合经理拜伦·安德森表示，市场已经为收益率进一步走高做好准备。他认为，加息无法直接解决中东局势、能源价格和通胀等问题，反而会进一步推高整体融资成本；如果美联储采取更激进的政策，最终可能对就业市场和消费者形成冲击。&lt;/p&gt;
+&lt;p&gt;核心市场走势如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;截至午间收盘，恒指跌1.69%，恒生科技指数跌2.14%。&lt;/li&gt;
+&lt;li&gt;截至早盘收盘，日经225指数、东证指数涨1.2%。&lt;/li&gt;
+&lt;li&gt;日本30年期国债收益率升至4.21%，创1999年上市以来新高。10年期日债收益率上涨3.5个基点至3.110%，创1996年8月以来新高。&lt;/li&gt;
+&lt;li&gt;日元短线走强。截至发稿，美元兑日元跌0.3%，报158.35。&lt;/li&gt;
+&lt;li&gt;布伦特原油跌1.3%至99美元。&lt;/li&gt;
+&lt;li&gt;现货黄金跌0.07%至4271美元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+美债抛售蔓延，亚洲债市再承压
+&lt;p&gt;亚洲债市周五延续跌势，尽管国际油价有所回落，投资者对通胀和高利率的担忧仍未消退。美债收益率持续攀升并触及2007年以来高位，抛售压力进一步向亚洲市场传导，全球债市面临新一轮调整。&lt;/p&gt;
+&lt;p&gt;日本国债收益率升至多年高位，其中10年期收益率上涨3.5个基点至3.110%，创1996年8月以来新高；30年期收益率升至4.21%，创1999年上市以来新高。澳大利亚10年期国债收益率上涨3.4个基点至5.403%，新西兰10年期收益率上涨3.3个基点至5.104%。&lt;/p&gt;
+&lt;p&gt;BMI分析师表示，债券收益率持续走高正在收紧金融环境。虽然利率上升并不意味着信贷紧缩，但融资成本长期处于高位，可能促使银行收紧对家庭和企业的信贷投放，进而压制消费和投资，并对经济增长形成压力。&lt;/p&gt;
+&lt;p&gt;能源价格仍是推动全球债券收益率上行的重要因素。中东局势升级一度推高油价，加剧市场对通胀和央行进一步收紧政策的担忧。尽管油价短线降温，尚未明显缓解债市对通胀和高利率的担忧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+ 
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本财务大臣：特朗普对日元贬值表达了担忧，将与美方密切协调</title><link>https://wallstreetcn.com/articles/3782526</link><guid>f45a2801f1f6f358cf9b0bfc530d783afe4b491e995aaf1d76219891413d9816</guid><pubDate>Fri, 25 Sep 2026 04:10:58 GMT</pubDate><description>&lt;p&gt;日美汇率协调预期再度升温，日本政府正通过高层沟通和政策表态回应日元持续走弱。&lt;/p&gt;
 &lt;p&gt;9月25日，据彭博，日本财务大臣片山皋月表示，&lt;strong&gt;美国总统特朗普本周与日本首相高市早苗会晤时，对日元贬值表达了担忧；高市早苗则回应称，日元低估是一个问题。&lt;/strong&gt;片山皋月称，她在征询首相官邸意见后披露部分会谈细节，&lt;strong&gt;并表示日方将继续与美国财政部长贝森特就包括外汇在内的一系列议题保持密切沟通。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;片山皋月同时表示，具体的货币政策工具由日本央行决定。日本央行近期的加息旨在实现通胀目标，她希望日本央行在与政府保持沟通协调的同时实施适当的货币政策。对于具体汇率水平以及日本当局是否进行汇率确认询价，她拒绝置评。&lt;/p&gt;
 &lt;p&gt;与此同时，日本增长战略担当大臣木内稔(Minoru Kiuchi)表示，“安倍经济学式”的积极货币宽松和灵活财政政策时代已经结束，日本已进入物价逐步上涨、利率趋于上行的新阶段。&lt;/p&gt;
@@ -108,39 +131,7 @@ QLC重塑AI基础设施架构
 &lt;p&gt;需求扩张正驱动NAND供需天平加速向卖方倾斜。花旗研究预测，2027至2028年NAND需求分别同比增长29%和33%，而供给增速仅为21%和25%——差距来源于存储厂商普遍将资本开支优先投向DRAM及HBM产能扩张，对NAND的新增投资相对克制，由此形成2027年-6.1%、2028年-5.5%的供需缺口（2026年预估仅为-0.8%）。&lt;/p&gt;
 &lt;p&gt;TrendForce亦指出，包括三星电子、SK Hynix、美光（Micron）、铠侠（Kioxia）及长江存储（YMTC）在内的主要NAND厂商，正在加强对企业市场产能分配与定价的管控，eSSD进一步涨价的可能性较高。&lt;/p&gt;
 &lt;p&gt;今年二季度，eSSD市场格局方面，三星电子以141.54亿美元营收居首，市场份额35.1%；SK Hynix与Solidigm合计实现86.31亿美元，占比21.1%；美光以69.83亿美元位列第三，份额17.1%。在中国市场，长江存储有望凭借KV缓存卸载需求的爆发获得份额提升机会。&lt;/p&gt;
-&lt;p&gt;花旗研究对三星电子和SK Hynix均维持&amp;quot;买入&amp;quot;评级，认为两者均有望受益于NAND基本面趋紧及AI驱动的结构性存储需求增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 按揭利率突破7%！高利率加剧美国“可负担危机”</title><link>https://wallstreetcn.com/articles/3782521</link><guid>cc106fbd119daad857bab866b1a2131ab709e82a8e07a6ac02e21d51add49642</guid><pubDate>Fri, 25 Sep 2026 01:59:09 GMT</pubDate><description>&lt;p&gt;美国房贷利率触及逾一年半高位，美国居民购房负担能力危机深化，选举季政治压力随之升温。&lt;/p&gt;
-&lt;p&gt;本周四，据房地美数据，&lt;strong&gt;美国30年期固定抵押贷款利率于升至7.03%，为2025年1月以来首次触及该水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;7%的利率关口正在买家、卖家与开发商之间引发连锁反应。结合今夏公布的疲软成屋销售数据与住宅开工数据，&lt;strong&gt;经济学家警告，已陷入四年销售停滞的美国楼市复苏前景愈发黯淡。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Realtor.com高级经济学家Anthony Smith表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;对于买卖双方而言，逾一年半以来的最高抵押贷款利率，正落在一个本已处于放缓周期的市场上。7%的水平与其说是数学意义上的，不如说更多是心理层面的冲击，而且它恰好在这个本该由买方主导议价的季节节点出现。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-利率突破心理关口，楼市承压加剧
-
-&lt;p&gt;7%并不具有特定的经济学临界意义，但其心理效应不容小觑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在2022年之前，抵押贷款利率自2001年以来从未触及7%，此后逾二十年间，美国人已习惯于3%至4%的利率水平&lt;/strong&gt;。疫情期间，部分买家甚至以低于3%的利率完成置业。&lt;/p&gt;
-&lt;p&gt;2022年利率骤然飙升后，楼市陷入停滞，大量买家选择观望，期待利率回落至历史低位。&lt;strong&gt;然而四年过去，利率始终居高不下。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年2月，抵押贷款利率一度跌破6%，为2022年以来首次，由此点燃购房热情，市场普遍预期楼市将借春季旺季实现回暖。&lt;/p&gt;
-&lt;p&gt;然而，伊朗冲突爆发后，油价上涨与全球贸易扰动推高利率，令原本期待已久的春季旺季就此落空。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此后，随着利率持续攀升，成屋销售持续下滑。经济学家表示，部分迫于生活变动而不得不出手的买家。例如换工作或迎来新生儿，确实推动了市场部分改善，但整体而言，楼市依然在等待一场迟迟未至的复苏。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Homes.com首席住宅经济学家Brad Case指出，在通胀与经济不确定性持续高企的背景下，利率短期内大幅下行的可能性有限，越来越多的买家和卖家正在被迫接受这一现实。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，15年期固定抵押贷款利率本周四亦升至6.42%，为2024年5月以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-
-卖家锁定效应或重新抬头
-
-&lt;p&gt;&lt;strong&gt;过去数年，大量房主因不愿放弃低利率房贷而拒绝出售，导致楼市库存持续匮乏。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着部分卖家意识到利率短期难以回落，这一&amp;quot;锁定效应&amp;quot;一度有所松动。&lt;strong&gt;8月，美国存量成屋可售套数升至162万套，为2019年以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，7%利率关口的突破可能令这一进展功亏一篑。&lt;/strong&gt;卖家不仅仍不愿以3%的低息房贷换取7%的新贷款，更深知在买家购买力受限的市场环境下，可能不得不压低挂牌价才能吸引买盘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;经济学家预计，更多房主将倾向于留守原处，转而对现有住宅进行翻新改造，而非选择出售置换。&lt;/strong&gt;&lt;/p&gt;
-
-开发商利润空间进一步受压
-
-&lt;p&gt;高利率环境对住宅开发商同样构成多重打击。在建材与劳动力成本持续上涨、利润率已受侵蚀的背景下，开发商为刺激销售普遍采取利率补贴策略。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;抵押贷款利率的进一步走高，将使上述激励措施的成本更为高昂，直接拖累开发商盈利，并压制其扩大产能的意愿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;住房负担能力是特朗普政府的核心政策议题之一。&lt;/strong&gt;白宫已指示政府支持的房贷巨头房地美与房利美购买抵押贷款支持证券以压低借贷成本，并推行限制投资者收购独栋住宅的相关措施。&lt;/p&gt;
-&lt;p&gt;然而，据英国《金融时报》基于Zillow数据的测算，&lt;strong&gt;自特朗普就任以来，全美房价累计上涨0.5%，月租金涨幅则达4.8%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在11月中期选举临近、共和党竭力维持对参众两院掌控的关键时刻，住房成本高企的现实正持续考验选民情绪。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
+&lt;p&gt;花旗研究对三星电子和SK Hynix均维持&amp;quot;买入&amp;quot;评级，认为两者均有望受益于NAND基本面趋紧及AI驱动的结构性存储需求增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升</title><link>https://wallstreetcn.com/articles/3782452</link><guid>434c61d6aa6395e968c0df844fdeb080e3b8922a79fedb127b965fbf9fa63262</guid><pubDate>Thu, 24 Sep 2026 22:03:11 GMT</pubDate><description>&lt;p&gt;美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;30年期美债收益率触及2004年以来最高水平，10年期收益率升破5.2%，2007年来首次。受此拖累，标普500指数收盘基本持平，但内部结构分化明显，多数成分股下跌。&lt;/p&gt;
 &lt;p&gt;布伦特原油结算价维持在每桶107美元附近，此前曾因有报道称美国与伊朗正就重开霍尔木兹海峡探索阶段性协议而短暂回落，但随即遭伊朗方面否认，油价随即反弹。&lt;/p&gt;
@@ -287,38 +278,39 @@ AI资本开支扩张引发信用担忧，甲骨文成标志性信号
 
 &lt;p&gt;尽管市场整体承压，收益率升破5%也开始吸引部分机构资金关注。&lt;/p&gt;
 &lt;p&gt;Invesco负责市政债业务的首席投资官Mark Paris表示，市场参与者反馈称，一些保险公司、银行以及其他跨界投资者正在进入市场，&amp;quot;5%这个门槛对他们很重要&amp;quot;。&lt;/p&gt;
-&lt;p&gt;与此同时，供给端可能出现阶段性收缩。&lt;strong&gt;截至周四，未来30天预计进入市场定价的市政债规模约为159亿美元。&lt;/strong&gt;Belle Haven Investments高级副总裁Ryan Ciavarelli表示，在订单簿表现不佳的情况下，承销商会更加谨慎地将新债推向市场，部分发行人可能选择暂缓发行以观察市场走势。他同时指出，只要新发行债券定价仍具吸引力，市场需求依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 瑞银考虑与外国银行合并以摆脱瑞士监管，股价应声上涨</title><link>https://wallstreetcn.com/articles/3782513</link><guid>47007c8c5a9881f4bfecd2398e380a22237382de7a72e38e312753c04ee6e2ce</guid><pubDate>Fri, 25 Sep 2026 01:53:26 GMT</pubDate><description>&lt;p&gt;瑞士议会推进严格资本要求，令瑞银与本国监管机构的对峙进一步激化。&lt;/p&gt;
-&lt;p&gt;9月24日，据Semafor援引知情人士报道，&lt;strong&gt;瑞银高层已重启有关如何令该行脱离瑞士监管机构管控的讨论，合并方案是选项之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报道发布后，瑞银在美国市场股价一度上涨1.9%。摩根士丹利股价一度迅速下跌，随后跌幅有所收窄，市场对潜在合并对象的猜测随之升温。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此番讨论的直接导火索，是瑞士议会本周推进了一项立法，要求瑞银补充最多约200亿美元的资本。&lt;/strong&gt;瑞银管理层表示，这一要求将严重削弱其盈利性贷款能力。首席执行官Sergio Ermotti以强烈措辞表达了不满：&lt;/p&gt;
+&lt;p&gt;与此同时，供给端可能出现阶段性收缩。&lt;strong&gt;截至周四，未来30天预计进入市场定价的市政债规模约为159亿美元。&lt;/strong&gt;Belle Haven Investments高级副总裁Ryan Ciavarelli表示，在订单簿表现不佳的情况下，承销商会更加谨慎地将新债推向市场，部分发行人可能选择暂缓发行以观察市场走势。他同时指出，只要新发行债券定价仍具吸引力，市场需求依然存在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 按揭利率突破7%！高利率加剧美国“可负担危机”</title><link>https://wallstreetcn.com/articles/3782521</link><guid>cc106fbd119daad857bab866b1a2131ab709e82a8e07a6ac02e21d51add49642</guid><pubDate>Fri, 25 Sep 2026 01:59:09 GMT</pubDate><description>&lt;p&gt;美国房贷利率触及逾一年半高位，美国居民购房负担能力危机深化，选举季政治压力随之升温。&lt;/p&gt;
+&lt;p&gt;本周四，据房地美数据，&lt;strong&gt;美国30年期固定抵押贷款利率于升至7.03%，为2025年1月以来首次触及该水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7%的利率关口正在买家、卖家与开发商之间引发连锁反应。结合今夏公布的疲软成屋销售数据与住宅开工数据，&lt;strong&gt;经济学家警告，已陷入四年销售停滞的美国楼市复苏前景愈发黯淡。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Realtor.com高级经济学家Anthony Smith表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;一个黑眼圈我们还能接受，但两个黑眼圈加一个断鼻梁就太多了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于买卖双方而言，逾一年半以来的最高抵押贷款利率，正落在一个本已处于放缓周期的市场上。7%的水平与其说是数学意义上的，不如说更多是心理层面的冲击，而且它恰好在这个本该由买方主导议价的季节节点出现。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-议会表决：瑞银遭遇重大挫折
-&lt;p&gt;瑞士联邦院本周的表决结果，标志着瑞银在这场与本国监管机构长达一年以上的博弈中遭受明显失利。&lt;/p&gt;
-&lt;p&gt;此次通过的90% CET1覆盖要求，远高于瑞银所支持的替代方案——该方案仅要求50%以CET1覆盖，其余可以额外一级资本（AT1）替代。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞士政府此前提出了更为严格的100% CET1要求，但以23票对22票的极微弱差距被参议员否决，最终敲定的90%方案因此接近政府立场，与瑞银期望相去甚远。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更广泛的银行法修订方案以33票对10票在联邦院获得通过，但立法程序尚未终结。&lt;strong&gt;该法案仍须提交瑞士国民院（National Council）审议，后者有权修改或软化上院条款。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;立法程序推进至国民院后，瑞银仍有机会争取更为温和的最终方案。预计瑞银将继续游说，力推50%/50%的CET1与AT1混合模式，而瑞士政府则坚守100% CET1的强硬立场。&lt;/p&gt;
-资本压力：数字背后的竞争代价
-&lt;p&gt;此次监管争议的核心，在于瑞银所承担的潜在资本压力规模。&lt;/p&gt;
-&lt;p&gt;瑞银方面估算，90%的CET1覆盖要求将额外需要约160亿美元的顶级资本。加上今年其他监管措施所带来的约20亿美元，以及收购瑞士信贷后现行规定已要求的约150亿美元，瑞银在瑞士母行层面的增量CET1资本总需求，与收购瑞士信贷前相比或高达约330亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞银同时估计，上述收购后资本变化所带来的年度综合成本可能达到约25亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对投资者而言，被强制留存于母行的资本，意味着可用于股票回购、分红及业务扩张的资金减少，长期股东回报因此面临下行压力。&lt;strong&gt;若无法通过提高利润率、压缩成本或转向资本占用较低业务加以弥补，资本要求的提升将直接压低股本回报率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞银方面强调，相比美国同业，这一监管环境明显处于不利地位。&lt;/strong&gt;特朗普政府正推行去监管化政策，美国银行机构的资本束缚正逐步松绑。&lt;/p&gt;
-监管逻辑：瑞士信贷危机留下的教训
-&lt;p&gt;瑞士监管机构力推严格资本要求，根源在于2023年瑞士信贷崩溃所揭示的系统性漏洞。&lt;/p&gt;
-&lt;p&gt;监管层从中得出的结论是，当一家全球性银行陷入危机时，积存于海外子公司的资本往往难以被瑞士母行迅速动用。要求以高质量权益资本在母行层面覆盖更高比例的海外子公司价值，旨在为潜在损失构建更厚实的缓冲，从而降低纳税人再度被迫支撑问题机构的风险。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CET1之所以受到监管机构青睐，在于其主要由普通股权及留存收益构成，可即时吸收损失。AT1债券虽同样具备吸损功能，但其地位在瑞士信贷获救过程中颇具争议。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彼时约160亿瑞士法郎的AT1债务被悉数减记，而股东仍获得部分价值补偿，引发市场强烈质疑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;瑞银则坚持认为，结构设计合理的AT1仍是有效的损失吸收工具，过度依赖成本更高的CET1将削弱其国际竞争力。&lt;/strong&gt;&lt;/p&gt;
-合并传言：迁出瑞士的多重路径
-&lt;p&gt;面对监管压力持续升级，&lt;strong&gt;据Semafor报道，瑞银高层已重启有关将注册地迁离瑞士的讨论，合并是其中最受关注的选项。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，凭借1.7万亿美元的资产负债表规模及1460亿美元的市值，瑞银能够匹配的潜在合并对象极为有限。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Semafor分析指出，&lt;strong&gt;摩根士丹利是外界长期讨论的可能候选方之一&lt;/strong&gt;。该机构此前一直有意获取瑞银旗下规模达7万亿美元的财富管理账户资产。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此外，渣打银行及德意志银行也被视为成本相对较低的替代路径。&lt;/strong&gt;值得注意的是，瑞银执行董事长Colm Kelleher曾任职于摩根士丹利。&lt;/p&gt;
-&lt;p&gt;目前，瑞银盈利能力依然强劲，资本水平充足，但这场监管博弈愈发指向一个核心问题：瑞士当局究竟允许股东从瑞银未来的利润中获取多少回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工</title><link>https://wallstreetcn.com/articles/3782479</link><guid>8c75de879e77a57c4655167071ed23b0b720f42a4e4aa367ef1c1a9edcfad50f</guid><pubDate>Fri, 25 Sep 2026 01:24:11 GMT</pubDate><description>&lt;p&gt;甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。&lt;/p&gt;
+
+利率突破心理关口，楼市承压加剧
+
+&lt;p&gt;7%并不具有特定的经济学临界意义，但其心理效应不容小觑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在2022年之前，抵押贷款利率自2001年以来从未触及7%，此后逾二十年间，美国人已习惯于3%至4%的利率水平&lt;/strong&gt;。疫情期间，部分买家甚至以低于3%的利率完成置业。&lt;/p&gt;
+&lt;p&gt;2022年利率骤然飙升后，楼市陷入停滞，大量买家选择观望，期待利率回落至历史低位。&lt;strong&gt;然而四年过去，利率始终居高不下。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今年2月，抵押贷款利率一度跌破6%，为2022年以来首次，由此点燃购房热情，市场普遍预期楼市将借春季旺季实现回暖。&lt;/p&gt;
+&lt;p&gt;然而，伊朗冲突爆发后，油价上涨与全球贸易扰动推高利率，令原本期待已久的春季旺季就此落空。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此后，随着利率持续攀升，成屋销售持续下滑。经济学家表示，部分迫于生活变动而不得不出手的买家。例如换工作或迎来新生儿，确实推动了市场部分改善，但整体而言，楼市依然在等待一场迟迟未至的复苏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Homes.com首席住宅经济学家Brad Case指出，在通胀与经济不确定性持续高企的背景下，利率短期内大幅下行的可能性有限，越来越多的买家和卖家正在被迫接受这一现实。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，15年期固定抵押贷款利率本周四亦升至6.42%，为2024年5月以来最高水平。&lt;/strong&gt;&lt;/p&gt;
+
+卖家锁定效应或重新抬头
+
+&lt;p&gt;&lt;strong&gt;过去数年，大量房主因不愿放弃低利率房贷而拒绝出售，导致楼市库存持续匮乏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着部分卖家意识到利率短期难以回落，这一&amp;quot;锁定效应&amp;quot;一度有所松动。&lt;strong&gt;8月，美国存量成屋可售套数升至162万套，为2019年以来最高水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，7%利率关口的突破可能令这一进展功亏一篑。&lt;/strong&gt;卖家不仅仍不愿以3%的低息房贷换取7%的新贷款，更深知在买家购买力受限的市场环境下，可能不得不压低挂牌价才能吸引买盘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;经济学家预计，更多房主将倾向于留守原处，转而对现有住宅进行翻新改造，而非选择出售置换。&lt;/strong&gt;&lt;/p&gt;
+
+开发商利润空间进一步受压
+
+&lt;p&gt;高利率环境对住宅开发商同样构成多重打击。在建材与劳动力成本持续上涨、利润率已受侵蚀的背景下，开发商为刺激销售普遍采取利率补贴策略。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;抵押贷款利率的进一步走高，将使上述激励措施的成本更为高昂，直接拖累开发商盈利，并压制其扩大产能的意愿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;住房负担能力是特朗普政府的核心政策议题之一。&lt;/strong&gt;白宫已指示政府支持的房贷巨头房地美与房利美购买抵押贷款支持证券以压低借贷成本，并推行限制投资者收购独栋住宅的相关措施。&lt;/p&gt;
+&lt;p&gt;然而，据英国《金融时报》基于Zillow数据的测算，&lt;strong&gt;自特朗普就任以来，全美房价累计上涨0.5%，月租金涨幅则达4.8%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在11月中期选举临近、共和党竭力维持对参众两院掌控的关键时刻，住房成本高企的现实正持续考验选民情绪。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工</title><link>https://wallstreetcn.com/articles/3782479</link><guid>8c75de879e77a57c4655167071ed23b0b720f42a4e4aa367ef1c1a9edcfad50f</guid><pubDate>Fri, 25 Sep 2026 01:24:11 GMT</pubDate><description>&lt;p&gt;甲骨文援引不可抗力条款，试图为其在新墨西哥州的巨型数据中心项目筑起财务防火墙，这一举动令本已深陷困境的Project Jupiter再添变数，并迅速向整条融资链传导压力。&lt;/p&gt;
 &lt;p&gt;据彭博报道，&lt;strong&gt;甲骨文已向该项目开发商——Blue Owl Capital旗下子公司Stack Infrastructure——发出援引不可抗力条款的正式通知&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;报道称，&lt;strong&gt;甲骨文此举并非意图退出主要租户地位，而是寻求在项目无法按原计划于2028年上线的情况下，推迟相关付款义务&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;消息公布后，甲骨文股价随即下挫，日内一度跌超7%，最终收盘仍跌约3.5%，Blue Owl Capital股价同步收跌3.6%，数据中心供能商Bloom Energy跌幅亦达3.1%。&lt;/p&gt;
