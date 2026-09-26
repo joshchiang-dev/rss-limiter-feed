@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 10:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 11:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
 &lt;p&gt;高盛最新研究显示，六大超大规模云计算企业若要在2026至2027年约1.73万亿美元的AI算力资本支出上实现15%的投入资本回报率（ROIC），&lt;strong&gt;需在2028至2030年间累计创造约1.42万亿美元的收入。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛互联网与科技团队负责人Eric Sheridan在报告中指出，当前市场争论的焦点已从近期支出规模本身，转向这轮巨额投资能否在未来三年内产生可观回报。与此同时，云计算积压订单数据提供了一定支撑——截至2026年第二季度，AWS、Azure和谷歌云合计积压订单约1.69万亿美元，同比增长152%，为收入目标的可实现性提供了初步背书。&lt;/p&gt;
 &lt;p&gt;然而，高盛框架之外的变量同样不容忽视。约3万亿美元的表外承诺并未纳入ROIC分母，GPU和算力定价的持续下行压力已有所显现，而规模更为庞大的&amp;quot;第三阶段&amp;quot;资本支出（2028至2030年约4.14万亿美元）的回报问题，则被高盛明确留待另行讨论。&lt;/p&gt;
@@ -267,28 +267,7 @@
 &lt;p&gt;非常感谢邀请我们。&lt;/p&gt;
 &lt;p&gt;Daniel Newman｜29:22&lt;/p&gt;
 &lt;p&gt;也感谢各位参加 Six Five Summit 2026 的“半导体聚焦”专场。请继续关注、订阅，并观看我们其他的 Six Five Summit 讨论。感谢大家的参与，敬请期待下一场。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软把Office三件套塞进Copilot，AI助手从“插件”变“入口”，股价上涨3.7%</title><link>https://wallstreetcn.com/articles/3782567</link><guid>95c9ed92b2eeb4efe0a8cf55cecbc3689b6e703455c589d2e3fa6da04ba70407</guid><pubDate>Fri, 25 Sep 2026 23:01:55 GMT</pubDate><description>&lt;p&gt;微软正在进一步扩大Copilot的产品边界。&lt;/p&gt;
-&lt;p&gt;周五，&lt;strong&gt;微软宣布为Copilot推出多项新功能，将Word、Excel和PowerPoint直接整合进这一AI助手，同时新增编程工具Code和能够持续运行的AI代理Autopilot，试图将Copilot从单一的AI助手进一步打造为覆盖办公、编程和任务执行的一站式工作入口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软希望通过此次产品升级扩大Copilot的使用范围，并应对ChatGPT和Claude等AI产品的竞争。随着Office核心应用被纳入Copilot，微软正在尝试让用户更多地在AI助手内部完成工作，而不必频繁切换不同应用。&lt;/p&gt;
-&lt;p&gt;受消息影响，微软周五收涨3.66%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;Office三件套直接进入Copilot&lt;/strong&gt;
-&lt;p&gt;此次升级中最受关注的变化之一，是Word、Excel和PowerPoint被直接整合进Copilot。&lt;/p&gt;
-&lt;p&gt;微软表示，&lt;strong&gt;用户可以在Copilot中创建和编辑Word、Excel及PowerPoint文件，并继续与其他用户协作。相关文件能够与原有Office应用保持同步。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这意味着，Copilot不再只是调用Office应用的AI功能，而是开始成为用户进入这些办公工具的统一入口。用户可以在同一环境中进行对话、处理文件和完成办公任务。&lt;/p&gt;
-&lt;p&gt;微软此次还升级了Copilot的Home功能，将Chat和Copilot Cowork结合起来，并加入Office能力。&lt;/p&gt;
-Copilot新增编程工具和AI代理
-&lt;p&gt;除Office整合外，微软此次还为Copilot加入了两项新的AI能力。&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;Code采用与GitHub Copilot相同的技术，旨在让用户无需直接编写代码，通过自然语言创建应用、仪表盘及其他软件。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;另一项功能Autopilot则更加侧重任务执行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Autopilot是微软此前推出的Scout AI代理的升级版本，被设计为能够持续运行的数字协作者。即使用户不在电脑前，它也能够继续执行任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软表示，Autopilot将在9月底扩大至私人预览。&lt;/p&gt;
-&lt;p&gt;与传统的聊天式AI不同，Autopilot的核心变化在于从“回答问题”进一步转向“执行任务”。微软还为其设置了独立身份和权限控制，以适应企业环境下的使用需求。&lt;/p&gt;
-从AI助手向工作入口转变
-&lt;p&gt;此次升级的核心并不只是增加几个功能，而是微软正在重新定义Copilot在办公软件体系中的位置。&lt;/p&gt;
-&lt;p&gt;此前，&lt;strong&gt;AI更多以Office中的辅助功能出现，用户可以借助Copilot生成文本、分析数据或制作演示文稿。而此次微软将Word、Excel和PowerPoint直接放进Copilot，使Copilot本身成为承载这些工作的产品入口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Code将软件创建能力纳入同一平台，Autopilot则负责持续执行任务。&lt;/p&gt;
-&lt;p&gt;在这一产品结构下，用户可以在Copilot中完成从提出需求、创建内容到执行任务的一系列操作。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “Agent vs 美债”——谁将主导美股？</title><link>https://wallstreetcn.com/articles/3782574</link><guid>ff7cdbffb4766f194ed3ca890e97373bf89c18b25fe3ca15d153aaf3dbe2c8a0</guid><pubDate>Sat, 26 Sep 2026 02:22:58 GMT</pubDate><description>&lt;p&gt;AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “Agent vs 美债”——谁将主导美股？</title><link>https://wallstreetcn.com/articles/3782574</link><guid>ff7cdbffb4766f194ed3ca890e97373bf89c18b25fe3ca15d153aaf3dbe2c8a0</guid><pubDate>Sat, 26 Sep 2026 02:22:58 GMT</pubDate><description>&lt;p&gt;AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。&lt;/p&gt;
 &lt;p&gt;本周，Meta发布旗下Agentic AI模型Muse，单周市值暴增2200亿美元，推动纳斯达克100指数成为表现最强的主要股指。但与此同时，美债收益率持续走高，将利率敏感型资产打入低谷——罗素2000指数显著落后，标普500指数在7700点附近反复拉锯，始终无法实现有效突破。&lt;/p&gt;
 &lt;p&gt;市场的内部分化已达到极端程度。若剔除AI相关标的，标普500本周实际下跌约1%；纽交所新低股票数量连续9个交易日超过新高股票数量，为2023年10月以来最长连跌纪录。&lt;/p&gt;
 &lt;p&gt;高盛全球对冲基金业务负责人Tony Pasquariello将当前局面定性为&lt;strong&gt;股市与利率市场之间&amp;quot;令人沮丧的猫鼠游戏&amp;quot;，并给出明确建议：若坚持持有股票多头，需同步做空美债以对冲利率风险。&lt;/strong&gt;&lt;/p&gt;
@@ -364,31 +343,7 @@ AI存储需求爆发，重估Solidigm价值
 创纪录IPO，考验市场承接能力
 &lt;p&gt;&lt;strong&gt;若Solidigm最终以1500亿美元估值、150亿美元募资规模完成上市，将成为美股历史上规模最大的半导体IPO，也将是近年来全球科技股市场最重要的资本市场事件之一。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;作为参照，Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元，Solidigm的目标估值分别是两者的约2.8倍和2.7倍。如此体量的发行，对市场的承接能力构成相当考验，最终定价将在很大程度上取决于届时AI基础设施投资热度能否持续，以及整体半导体板块的市场情绪。&lt;/p&gt;
-&lt;p&gt;目前，IPO的具体规模、时间表及承销行名单均尚未确定，Solidigm方面拒绝置评。这场有望改写半导体IPO历史的上市计划，仍处于早期筹备阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 柴油逼近6.5美元纪录位，白宫权衡停税与放开红色柴油，出口禁令仍在评估</title><link>https://wallstreetcn.com/articles/3782569</link><guid>267630509c38a2d64addd5fb13cece0e421dfd317a93f6bc3d5a57c2cab9a63b</guid><pubDate>Fri, 25 Sep 2026 23:22:50 GMT</pubDate><description>&lt;p&gt;美国柴油价格持续高企，特朗普政府正在权衡多项干预措施，从暂停联邦燃油税到放开“红色柴油”管制，出口禁令方案亦未完全退出讨论。然而截至目前，任何政策决定均未迫在眉睫，内部辩论仍在持续。&lt;/p&gt;
-&lt;p&gt;据彭博报道，目前讨论涉及美国副总统万斯、能源部长赖特、内政部长伯格姆及财政部长贝森特等核心官员。万斯已明确敦促采取行动遏制柴油价格涨势，并主动询问可用政策选项。与此同时，赖特透露，政府正与炼厂协商，寻求以“自愿削减&amp;quot;”出口替代强制出口禁令，以规避直接行政干预引发的行业反弹。&lt;/p&gt;
-&lt;p&gt;上述动向对市场形成明显冲击。本周，特朗普公开表态支持限制柴油出口后，燃油期货出现剧烈波动；部分炼厂已开始在合同中加入保护性条款，以防范出口禁令导致无法履约的风险。欧洲等美国主要盟友亦对可能失去美国柴油供应深表忧虑，认为此举将在全球燃料供给本已趋紧的背景下进一步加剧能源压力。&lt;/p&gt;
-
-泵价逼近历史高位，多州州长率先行动
-
-&lt;p&gt;美国柴油零售价目前稳定在每加仑约6.5美元附近，接近历史纪录水平。面对高压，多位共和党州长已在联邦层面决策出台前率先采取行动。&lt;/p&gt;
-&lt;p&gt;路易斯安那州州长Jeff Landry本周初宣布进入紧急状态，暂停对农民和伐木工人在公路上使用场外柴油的处罚，期限延至10月底。&lt;/p&gt;
-&lt;p&gt;&amp;quot;我们不会袖手旁观，眼看路易斯安那州的农民以创纪录的价格收割庄稼，&amp;quot;Landry在声明中表示。&lt;/p&gt;
-&lt;p&gt;阿拉巴马州州长Kay Ivey随后跟进，指示该州执法部门停止对红色柴油的限制性执法，期限为四个月。&lt;/p&gt;
-&lt;p&gt;内布拉斯加州州长Jim Pillen则签署行政令，允许公路注册车辆免罚使用场外柴油，并宣布为运输牲畜和农产品的车辆提供柴油税退款。&lt;/p&gt;
-&lt;p&gt;红色柴油（即染色柴油）在化学成分上与普通公路柴油完全一致，区别仅在于免征州及联邦消费税，且依法不得用于公路行驶。执法部门通过燃油染色加以识别，以防止公路用户购买更廉价的场外柴油。&lt;/p&gt;
-
-停税方案呼声最高，国会休会制造阻碍
-
-&lt;p&gt;据彭博报道，石油公司高管及行业相关方已积极游说政府官员，力推暂停联邦柴油消费税方案，认为这是在11月中期选举前向消费者提供实质价格减免、同时规避出口禁令副作用的最优路径。&lt;/p&gt;
-&lt;p&gt;据美国能源信息署（EIA）数据，联邦柴油税约为每加仑24美分，加上各州平均约36美分的州税，综合税负约为每加仑60美分。若放开场外柴油管制，农民的购买价格有望降回每加仑6美元以下，较当前水平形成明显减压，但仍远高于美以对伊朗开战前不足4美元的价格区间。&lt;/p&gt;
-&lt;p&gt;然而，停税方案在政府内部遭遇阻力，核心障碍在于如何在技术层面实现减税豁免——尤其是众议院目前正处于选举前休会期，立法推进窗口受限。&lt;/p&gt;
-
-生物燃料豁免遭拒，出口禁令炼厂备战
-
-&lt;p&gt;另一项来自行业的建议——豁免或下调生物燃料混合配额——已基本被政府否决。玉米乙醇和大豆生物柴油的混合指标对美国农业腹地具有重要政治意义，政府不愿在这一议题上触碰敏感神经。&lt;/p&gt;
-&lt;p&gt;出口禁令方案尽管阻力巨大，仍未从讨论桌上撤出。部分炼厂已未雨绸缪，彭博援引知情者消息称，相关企业正在合同中加入保护性条款，以应对一旦出口暂停、无法向境外买家交货所引发的违约风险。&lt;/p&gt;
-&lt;p&gt;与此同时，欧洲方面的担忧持续升温。在美伊战争与俄乌冲突双重压制下，全球燃料供给本已趋紧，若美国柴油出口骤然收缩，欧洲市场的替代来源极为有限，潜在经济冲击不容忽视。&lt;/p&gt;
-&lt;p&gt;目前，白宫内部讨论仍呈发散态势，各方案均处于评估阶段，最终政策走向尚不明朗。市场的不确定性预计将持续，燃油期货价格波动或进一步加剧。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸</title><link>https://wallstreetcn.com/articles/3782570</link><guid>3b3a1588c23a6beff9eed2283885fcb05097978ce8af88d6485e6d6a4607af74</guid><pubDate>Sat, 26 Sep 2026 00:38:13 GMT</pubDate><description>&lt;p&gt;美伊冲突在战争与和平之间徘徊，局势或再度滑向敌对状态。&lt;/p&gt;
+&lt;p&gt;目前，IPO的具体规模、时间表及承销行名单均尚未确定，Solidigm方面拒绝置评。这场有望改写半导体IPO历史的上市计划，仍处于早期筹备阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸</title><link>https://wallstreetcn.com/articles/3782570</link><guid>3b3a1588c23a6beff9eed2283885fcb05097978ce8af88d6485e6d6a4607af74</guid><pubDate>Sat, 26 Sep 2026 00:38:13 GMT</pubDate><description>&lt;p&gt;美伊冲突在战争与和平之间徘徊，局势或再度滑向敌对状态。&lt;/p&gt;
 &lt;p&gt;周六，据媒体援引美国官员最新消息，&lt;strong&gt;特朗普已拒绝伊朗提出的7天停火方案，并向幕僚表示，他预计将在11月中期选举后恢复对伊朗的轰炸行动。&lt;/strong&gt;伊朗的停火提议原本包含重开霍尔木兹海峡、重启核谈判等条件，以换取美国解除对伊朗港口的封锁。&lt;/p&gt;
 &lt;p&gt;特朗普私下对伊朗是否能满足其要求持怀疑态度，已向幕僚表示，他认为恢复轰炸行动的可能性较大。然后，据央视新闻此前报道，一位美国官员透露，美伊双方目前仍在就霍尔木兹海峡开放及重启谈判等议题进行&amp;quot;积极且富有建设性&amp;quot;的讨论。&lt;/p&gt;
 &lt;p&gt;特朗普当前的立场表明，这场持续七个月的冲突所处的战和模糊状态，正向敌对方向倾斜。对于全球大宗商品市场而言，霍尔木兹海峡的通行前景及油价走势，将持续受到这场冲突走向的牵引。&lt;/p&gt;
@@ -427,64 +382,4 @@ AI存储需求爆发，重估Solidigm价值
 &lt;p&gt;高盛、摩根士丹利、摩根大通、Allen &amp;amp; Co.以及Jefferies Financial Group担任此次发行的联席主承销商。Oura及高盛方面均拒绝就相关事宜置评。知情人士提示，相关磋商仍在进行中，上市细节存在变动可能。&lt;/p&gt;
 有望终结逾十亿美元IPO空窗
 &lt;p&gt;据彭博汇编数据，自Jersey Mike&amp;#x27;s Subs Inc.于今年7月上市以来，美股市场尚未出现单笔募资规模超过10亿美元的IPO交易。&lt;strong&gt;若Oura顺利完成此次发行，将成为近三个月来首单突破该门槛的大型IPO，对于经历了一个沉寂九月的美股新股市场而言，具有重要的风向标意义。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Holtec Nuclear Corp.与Bamboo Insurance Services Inc.的相继撤单已令市场对IPO窗口的判断趋于谨慎，Oura此番逆势获得高倍超额认购，在一定程度上提振了市场信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年9月26日</title><link>https://wallstreetcn.com/articles/3782568</link><guid>e8d288d063bd1dc004f83d73c165960bd989d44dc144f1655c8a71464f6724f0</guid><pubDate>Fri, 25 Sep 2026 23:20:58 GMT</pubDate><description>华见早安之声
-
-&lt;p&gt;&lt;/p&gt;
-市场概述
-&lt;p&gt;美国消费者信心公布后，标普纳指曾转跌，最终和此前三连跌的道指均收涨；Meta回落跌超3%，但智能体火爆带动，全周和英特尔等芯片股均涨超10%，数据中心遭遇不可抗力的甲骨文一周跌逾7%。10年期美债收益率盘中再创2007年来新高后转降，仍连升四周；美债创19个月最差周表现。日美官员释放“弱日元有问题”信号，日元扭转五连跌。美伊技术性谈判消息后，原油一度跌超3%。全周美油跌近4%、创七周最大周跌。期金止住四连跌，全周仍跌超2%。&lt;/p&gt;
-要闻
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;习近平和彭丽媛同美国总统特朗普夫妇茶叙。&lt;/p&gt;
-&lt;p&gt;习近平向全球发展倡议5周年高级别对话会致贺信。&lt;/p&gt;
-&lt;p&gt;特朗普：今年访华感受到中国人民的热情好客，希望以同样的热情款待各位；马斯克、黄仁勋、苏世民、奥尔特曼等齐聚欢迎宴会。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;海外&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报道称美伊谈判进入技术性阶段、伊媒否认。伊朗提“七天方案”但划核红线：霍尔木兹可谈、浓缩铀不让步。&lt;/p&gt;
-&lt;p&gt;日元强势反攻！日本财务大臣：特朗普对日元贬值表达了担忧，将与美方密切协调。日本官员喊话后贝森特“撑场”：已和日财相讨论强日元“可取性”。&lt;/p&gt;
-&lt;p&gt;比尔·盖茨：AI已强大到足以造成“10亿人死亡”。&lt;/p&gt;
-&lt;p&gt;Anthropic诉特朗普政府受挫：美上诉法院维持“供应链风险”认定。&lt;/p&gt;
-&lt;p&gt;OpenAI据报酝酿500美元“Pro Max”套餐：主打最快Work与Codex，或接入Cerebras算力。GPT-6开真车考过了科目二！&lt;/p&gt;
-&lt;p&gt;马斯克放话：Colossus 2部署的英伟达芯片年底或增加一倍。报道：特斯拉Optimus机器人产能已提升10倍，目标年底周产千台。&lt;/p&gt;
-&lt;p&gt;还没破百万日活，Meta Muse就频频掉链子：服务降级、Agent失败，算力瓶颈浮出水面。Meta CTO解释Muse：回归人性交互，下一代操纵系统的核心是“意图理解”。扎克伯格谈Muse：个人Agent必须从预训练开始设计，虚拟机、记忆和权限系统是巨头的全栈护城河。&lt;/p&gt;
-&lt;p&gt;Meta数据隐私案败诉，或面临最高2190亿美元天价罚款。&lt;/p&gt;
-&lt;p&gt;报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元。&lt;/p&gt;
-&lt;/blockquote&gt;
-市场收报
-&lt;p&gt;欧美股市：标普500涨幅0.51%，报7743.41点，本周累计上涨1.21%。道指涨幅0.93%，报51828.62点，本周累计涨0.28%。纳指涨幅0.48%，报27068.716点，本周累计涨2.06%。欧洲STOXX 600指数收涨0.35%，报638.65点，本周累计上涨0.50%。&lt;/p&gt;
-&lt;p&gt;A股休市。&lt;/p&gt;
-&lt;p&gt;债市：美国10年期基准国债收益率跌3.74个基点，报5.1604%，本周累计上涨16.44个基点。两年期美债收益率跌7.27个基点，报4.8516%，本周累计涨10.83个基点。&lt;/p&gt;
-&lt;p&gt;商品：现货黄金涨0.25%，报4285.81美元/盎司，本周累计下跌2.11%。现货白银涨0.79%，报64.3172美元/盎司，本周累计跌2.93%。WTI 11月原油期货收跌2.32%，报92.41美元/桶，本周累计下跌3.82%。布伦特11月原油期货跌幅2.14%，报104.32美元/桶，本周累计跌0.43%。&lt;/p&gt;
-要闻详情
-&lt;p&gt;&lt;strong&gt;全球重磅&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782557"&gt;习近平和彭丽媛同美国总统特朗普夫妇茶叙&lt;/a&gt;。中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”。习近平指出，这次访问我们又丰富了中美关系定位的内涵，同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”，经贸领域也取得互惠互利的成果，将受到两国人民和国际社会的欢迎。特朗普表示，习近平主席此次对美国的国事访问富有建设性、非常成功。双方就美中关系和重大国际地区问题深入沟通，取得很多积极成果，对两国都有益。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782565"&gt;习近平向全球发展倡议5周年高级别对话会致贺信&lt;/a&gt;。习近平指出，当前，世界百年变局加速演进，各国人民对实现发展的愿望更加强烈。中国愿同各方一道，秉持以人民为中心的发展理念，携手推动全球发展倡议走深走实，将可持续发展目标的美好愿景转化为可感可及的现实图景，为推动构建人类命运共同体作出新的更大贡献。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782532"&gt;特朗普：今年访华感受到中国人民的热情好客，希望以同样的热情款待各位；马斯克、黄仁勋、苏世民、奥尔特曼等齐聚欢迎宴会&lt;/a&gt;。特朗普说：“愿美中两国人民能有一个更和谐、和平与繁荣的未来。”&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782523"&gt;DeepSeek Harness出桌面版了！&lt;/a&gt;DeepSeek Harness 推出官方桌面版，支持图形界面、账号登录和 API Key，并内置智能体团队、终端、子智能体、网页搜索等插件。该版本已通过苹果公证，但仍属夜间版，尚未正式官宣，暂不支持 Linux。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;海外&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782558"&gt;重开海峡“七天方案”浮现，报道称美伊谈判进入技术性阶段、伊媒否认&lt;/a&gt;。卡塔尔媒体周五称，美伊谈判已超越初步外交接触、进入具体技术性磋商，伊朗技术专家已赴纽约加入谈判。原油跌幅扩大，一度跌超3%。后伊媒称，该媒体关于美伊新谈判的报道“不属实”，西方媒体为影响市场和油价“制造新闻”。伊总统称支持恢复伊美谅解备忘录，将为实质性谈判创造条件。据此前报道，伊外长周四称，伊朗向美递交新的谈判草案，若美接受条件，时间表可启动，七天后将重开海峡，同时双方恢复更广泛的和谈。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782564"&gt;伊朗提“七天方案”但划核红线：霍尔木兹可谈、浓缩铀不让步&lt;/a&gt;。伊朗外长称，伊方已提交具体方案，若美国满足相关条件，最快七天内恢复霍尔木兹海峡正常通航，现在选择权在美方。据报道，伊朗高官称，即使美国接受重开海峡的方案，伊朗也不会在核计划上表现任何灵活性，不会放弃包括浓缩铀在内的权利，海峡将继续关闭到美国满足伊方的所有条件为止。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782547"&gt;俄发言人称俄美乌三方会晤或近期举行，泽连斯基给出“10天”时间表&lt;/a&gt;。俄罗斯与乌克兰方面均证实，美方正推动俄美乌三方技术级会晤，阿联酋被提议为可能地点。泽连斯基表示，乌方正等待美方敲定日期，并称各方将在未来10天内就具体细节取得新进展。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782551"&gt;密歇根大学9月消费者信心指数降至四个月低点，未来一年通胀预期升至4.6%&lt;/a&gt;。美国密歇根大学9月消费者信心指数终值降至48.1，创四个月新低。消费者未来一年通胀预期为4.6%，高于上个月的4%；预计未来5到10年的年化通胀率为3.4%，创5月以来最高水平。美国汽油、柴油价格攀升，房贷利率突破7%，调查负责人表示：尽管存在政治分歧，但消费者一致认为经济前景有所恶化。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782548"&gt;美国8月耐用品订单环比持平，核心资本品订单增长1.6%超预期，企业资本开支仍显韧性&lt;/a&gt;。美国8月核心资本品订单环比增长1.6%，高于市场预期，且7月增幅由此前的0.4%上修至0.6%。尽管经济面临利率高企等压力，企业资本开支仍具有一定韧性。美国8月全部耐用品订单基本持平，预期-0.3%，较前值1.1%显著下滑。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782526"&gt;日元强势反攻！日本财务大臣：特朗普对日元贬值表达了担忧，将与美方密切协调&lt;/a&gt;。日本财务大臣片山皋月表示，特朗普在与高市早苗会晤时对日元贬值表达担忧，日方将继续与美方就汇率保持沟通，并强调具体货币政策工具由日本央行决定。相关表态公布后，日元短线走强，但日美利差仍对日元走势构成重要约束。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782560"&gt;日本官员喊话后贝森特“撑场”：已和日财相讨论强日元“可取性”&lt;/a&gt;。贝森特称，他周五与日本财相片山皋月进行了“富有成效的通话”，双方讨论了“反映日本强劲经济基本面的强势日元的可取性”，并强调继续就汇市保持密切沟通的重要性。片山稍早透露，本周特朗普与高市早苗会晤时均提到日元走弱，高市称日元被低估是“有问题的”。机构认为干预风险或给日元跌势“设顶”。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782553"&gt;比尔·盖茨：AI已强大到足以造成“10亿人死亡”&lt;/a&gt;。盖茨在即将于本周末播出的节目采访中表示：“AI足够强大，能够引发造成10亿人死亡的事件，历史上从未出现过一种武器，能像坏人与最新AI工具相结合那样强大。”其还指出，行业自律是远远不够的，需要执法部门参与，明确监管措施，而且必须强制。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782559"&gt;Anthropic诉特朗普政府受挫：美上诉法院维持“供应链风险”认定&lt;/a&gt;。周五，美国联邦哥伦比亚特区巡回上诉法院周五以2比1的裁决，驳回了Anthropic对五角大楼将其列为供应链国家安全风险的异议。不过加州联邦法官此前发布的，暂停政府禁令的裁定目前仍然有效。Anthropic在声明中表示不赞同裁决，考虑寻求复审。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782561"&gt;报道：Anthropic洽谈租赁最高1GW数据中心容量，相关投资至少400亿美元&lt;/a&gt;。据媒体报道，Anthropic正探讨从Stream Data Centers租赁高达1GW算力的事项。数据中心开发商表示，部署完整的1GW算力将需要至少400亿美元的投资。Anthropic需要为该笔租赁提供财务担保，并为安装的芯片另行筹措资金。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782524"&gt;OpenAI据报酝酿500美元“Pro Max”套餐：主打最快Work与Codex，或接入Cerebras算力&lt;/a&gt;。OpenAI疑似筹备推出月费500美元的&amp;quot;Pro Max&amp;quot;高端ChatGPT订阅套餐，相较现有Pro套餐，新增&amp;quot;最快工作速度与Codex&amp;quot;功能及更高使用额度，并可能采用Cerebras基础设施支持。报道称更多细节或于9月29日DevDay 2026上披露，但OpenAI官方公告对此未作任何确认。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782542"&gt;GPT-6开真车考过了科目二！&lt;/a&gt;三个湾区年轻人搭起DrivingBench，把通用大模型塞进真车。GPT-6 Astra第二把以5分22秒开进锥桶车位，成唯一过关者，Sol、Grok、Fable全栽在看不懂锥桶上。Astra没专门学过开车，靠通用脑子通关，或意味自动驾驶数据护城河被抽干。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782549"&gt;马斯克放话：Colossus 2部署的英伟达芯片年底或增加一倍&lt;/a&gt;。马斯克表示，其AI计算集群Colossus 2目前已部署11万颗英伟达GB200和44万颗GB300，共计55万颗芯片，年底前芯片数量可能超过目前水平的两倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782550"&gt;报道：特斯拉Optimus机器人产能已提升10倍，目标年底周产千台&lt;/a&gt;。据报道，特斯拉上月Optimus周产量已达数百台，较今年二季度小批量测试阶段的每周数十台增长约十倍。管理层已向员工传达目标：年底前建立一条连续自动化生产线，实现每周逾千台的产能。然而，生产线上的技术难题、供应链约束以及AI能力不足，正在制约这款被马斯克视为公司&amp;quot;最重要产品&amp;quot;的机器人走向商业化。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782515"&gt;9月大涨36%！Meta创2013年来最佳月度表现，市值直逼2万亿美元&lt;/a&gt;。9月至今，Meta股价大幅反弹，Muse的快速走红重新点燃市场对其AI商业化的预期。Muse上线6天下载量达90.2万次，并加速切入购物、旅行等场景，市场开始押注AI代理有望打开广告之外的增长空间。但安全隐私风险和高昂算力成本，仍是后续兑现预期的关键。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782546"&gt;还没破百万日活，Meta Muse就频频掉链子：服务降级、Agent失败，算力瓶颈浮出水面&lt;/a&gt;。Meta旗下AI智能体Muse日活11天增长10倍至约70万，但服务问题已开始显现：实际资源消耗约为内部测试的10倍，SaaSHub将其标记为“服务降级”，一次压力测试中120个子Agent仅成功33个。Muse采用独立虚拟机架构，用户增长将持续推高CPU、内存和存储需求，算力扩容压力正在浮现。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782529"&gt;Meta CTO解释Muse：回归人性交互，下一代操纵系统的核心是“意图理解”&lt;/a&gt;。Andrew Bosworth表示，AI产业正陷入过度关注基准测试的误区，而Muse主打用户体验与交互质感，推动人机交互从“直接操控”迈向“意图理解”。隐私方面，Meta推出端对端加密的“私密AI处理”机制；针对AI风险与AGI，Bosworth持理性审慎态度，驳斥灭绝论并坚守开源立场。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782543"&gt;扎克伯格谈Muse：个人Agent必须从预训练开始设计，虚拟机、记忆和权限系统是巨头的全栈护城河&lt;/a&gt;。扎克伯格称，Muse从预训练开始围绕个人Agent设计，通过云端虚拟机、记忆、凭据存储和逐项授权，让Agent持续替用户执行长期任务。他强调技术扩散与权力制衡，主张让更多人用上强大AI，并称Meta正以更精简核心团队和更大算力重建模型研发。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782562"&gt;Meta败诉！或面临最高2190亿美元天价罚款&lt;/a&gt;。Meta在美国新墨西哥州败诉，陪审团裁定，Meta在言论及数据隐私政策上存在欺骗公众的行为，违反了州法律。新墨西哥州总检察长表示，该裁决是追究科技巨头责任的&amp;quot;里程碑式时刻&amp;quot;，将向法院申请对Meta处以最高2190亿美元的民事罚款。Meta表示，不认同裁决，将继续抗辩。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782479"&gt;美国“反抗浪潮”愈演愈烈！甲骨文巨型数据中心遭遇“不可抗力”，恐无法按期完工&lt;/a&gt;。甲骨文向Project Jupiter开发商发出“不可抗力”通知，担忧这一位于新墨西哥州、计划为OpenAI提供3000亿美元算力的数据中心项目无法按原计划于2028年投运。该项目此前已面临监管和融资压力，相关贷款跌至承压水平。尽管如此，分析认为甲骨文仍须依据合同条款向投资者支付相关费用。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782555"&gt;报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元&lt;/a&gt;。据媒体报道，Solidigm潜在估值最高达1500亿美元，目标募资规模150亿美元，有望成为美国半导体史上规模最大的IPO。Solidigm本周已与多家投行就IPO承销商举行竞标会议，标志着上市进程迈出实质性一步。Solidigm主营业务为NAND闪存及固态硬盘，客户包括CoreWeave、戴尔等。&lt;/p&gt;
-&lt;strong&gt;研报精选&lt;/strong&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782537"&gt;10月加息定价过头了？瑞银：核心PCE下修叠加基数效应，美联储不太可能连续加息&lt;/a&gt;。瑞银认为，美联储政策收紧的实际幅度很可能低于当前市场定价所暗示的水平，其基准情景为12月再加息一次后维持利率不变，同时预计核心PCE通胀将在年度修订中下调0.2个百分点，叠加明年上半年有利的基数效应，连续大幅加息的基础正在削弱。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782544"&gt;通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%&lt;/a&gt;。通胀高于目标、经济保持韧性和财政融资需求扩大，共同推高美债收益率。与此同时，外国官方投资者减少，对收益率和价格更敏感的对冲基金等投资者占比上升，债市波动风险随之增加。彭博调查显示，超半数受访者预计30年期美债收益率年底前可能触及6%。&lt;/p&gt;
-&lt;p&gt;&amp;lt;全文完&amp;gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Holtec Nuclear Corp.与Bamboo Insurance Services Inc.的相继撤单已令市场对IPO窗口的判断趋于谨慎，Oura此番逆势获得高倍超额认购，在一定程度上提振了市场信心。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
