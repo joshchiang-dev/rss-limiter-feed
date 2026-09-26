@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 03:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 04:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
 &lt;p&gt;高盛最新研究显示，六大超大规模云计算企业若要在2026至2027年约1.73万亿美元的AI算力资本支出上实现15%的投入资本回报率（ROIC），&lt;strong&gt;需在2028至2030年间累计创造约1.42万亿美元的收入。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛互联网与科技团队负责人Eric Sheridan在报告中指出，当前市场争论的焦点已从近期支出规模本身，转向这轮巨额投资能否在未来三年内产生可观回报。与此同时，云计算积压订单数据提供了一定支撑——截至2026年第二季度，AWS、Azure和谷歌云合计积压订单约1.69万亿美元，同比增长152%，为收入目标的可实现性提供了初步背书。&lt;/p&gt;
 &lt;p&gt;然而，高盛框架之外的变量同样不容忽视。约3万亿美元的表外承诺并未纳入ROIC分母，GPU和算力定价的持续下行压力已有所显现，而规模更为庞大的&amp;quot;第三阶段&amp;quot;资本支出（2028至2030年约4.14万亿美元）的回报问题，则被高盛明确留待另行讨论。&lt;/p&gt;
@@ -356,7 +356,18 @@ Meta：将持续抗辩，援引第一修正案
 &lt;p&gt;Solidigm的业务基础源自一笔大型并购交易。&lt;strong&gt;SK海力士于2020年宣布以约90亿美元收购英特尔的NAND存储及SSD业务，并于2021年将相关业务整合后以独立子公司形式推出Solidigm。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SK海力士当时表示，此次收购将强化其NAND闪存和企业级SSD业务，并扩大其在全球存储市场的份额。&lt;/p&gt;
 &lt;p&gt;Solidigm目前已成为SK海力士存储业务组合的重要组成部分。上月，SK海力士表示正在研究提升Solidigm竞争力的相关措施，此前有媒体报道称该子公司正考虑开展约5万亿韩元（约36亿美元）的IPO前融资。&lt;/p&gt;
-&lt;p&gt;在推进上市计划的同时，Solidigm亦在考虑扩大本土生产能力。据媒体此前报道，该公司正评估在美国建设NAND闪存芯片工厂的方案，纽约州北部已成为选址的主要候选地。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元</title><link>https://wallstreetcn.com/articles/3782575</link><guid>607d6f23a6860ec6d4c9b6e461a95c0c14e7aa89b4e9b797dc455a140e26bb4e</guid><pubDate>Sat, 26 Sep 2026 03:08:00 GMT</pubDate><description>&lt;p&gt;SK海力士旗下固态存储子公司Solidigm正筹划赴美上市，&lt;strong&gt;目标估值高达1500亿美元，拟募资150亿美元，有望刷新美股半导体IPO纪录。而这家公司的前身，正是英特尔以约88.5亿美元出售的NAND闪存业务&lt;/strong&gt;——从被剥离的非核心资产，到如今估值翻逾十倍的AI存储明星，Solidigm的蜕变折射出这轮AI基础设施投资热潮对存储赛道的深刻重塑。&lt;/p&gt;
+&lt;p&gt;在推进上市计划的同时，Solidigm亦在考虑扩大本土生产能力。据媒体此前报道，该公司正评估在美国建设NAND闪存芯片工厂的方案，纽约州北部已成为选址的主要候选地。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿波罗首席经济学家警告：美联储可能忽视了柴油价格风险</title><link>https://wallstreetcn.com/articles/3782576</link><guid>a8c341f8d5b900cc555e034f0a1d23ac5d8f9e243b8714a09d3c7546ffaea8ec</guid><pubDate>Sat, 26 Sep 2026 03:47:10 GMT</pubDate><description>&lt;p&gt;阿波罗全球管理公司首席经济学家Torsten Slok发出警告，创纪录的柴油价格对通胀构成的威胁，可能远超美联储目前的评估——因为柴油成本会渗透进核心消费者价格指数，而后者恰恰是美联储货币政策的核心参照指标。&lt;/p&gt;
+&lt;p&gt;Slok周五在彭博电视《Surveillance》节目中表示，&lt;strong&gt;柴油相关运输成本的传导路径与汽油截然不同。由于运输商品对零售供应链乃至数据中心建设均不可或缺，需求价格弹性极低，价格上涨最终将转嫁至企业和消费者。&lt;/strong&gt;“柴油价格上涨，实际上是进入了CPI篮子中能源项以外的其他分项，”他说。&lt;/p&gt;
+&lt;p&gt;这一表态与美联储内部的分歧形成呼应。芝加哥联储主席Austan Goolsbee本周警告称，央行不能忽视反复出现且持续存在的供给冲击，&amp;quot;一旦供给冲击引发的通胀变得持续，&amp;#x27;看穿&amp;#x27;逻辑的部分依据便不再成立。&amp;quot;目前美国通胀仍远高于美联储2%的目标，货币政策走向面临更大不确定性。&lt;/p&gt;
+柴油冲击核心通胀，传统框架面临挑战
+&lt;p&gt;Slok本周在一份研究报告中系统阐述了上述观点，直指传统核心通胀框架的局限性。他认为，将食品和能源价格排除在外的核心通胀指标，对于柴油这类关键燃料并不适用。&lt;/p&gt;
+&lt;p&gt;“柴油价格的上涨不会停留在CPI的能源分项，而是滞后地向核心商品和服务迁移，这正是美联储无法将其定性为暂时性因素的传导机制，”Slok在报告中写道。&lt;/p&gt;
+&lt;p&gt;据彭博数据，截至本周四，美国柴油均价今年以来已飙升83%至每加仑6.50美元，同期汽油价格涨幅为59%。美伊冲突扰乱了波斯湾原油流通，推动能源价格全面走高，但柴油用户所承受的冲击尤为剧烈。&lt;/p&gt;
+美联储内部分歧：能源冲击能否“看穿”
+&lt;p&gt;&lt;strong&gt;美联储7月联邦公开市场委员会会议纪要显示，多数与会者认为&amp;quot;此前能源价格上涨&amp;quot;将逐步消退，有助于在年内压制通胀。这一判断与Slok的警告形成直接矛盾。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，在美联储9月16日宣布加息——这也是自2023年以来的首次加息——之后，Goolsbee的表态显示内部立场已出现松动。他明确指出，当供给冲击引发的通胀具有持续性时，&amp;quot;看穿&amp;quot;策略的逻辑基础将被削弱。&lt;/p&gt;
+&lt;p&gt;Slok描述了一种美联储隐含的政策期望：寄望于伊朗战争的解决能够缓解能源价格压力，从而使央行无需进一步加息。他将这一情景称为&amp;quot;目前的孤注一掷&amp;quot;。&lt;/p&gt;
+&lt;p&gt;此外，Slok同时指出，人工智能相关支出热潮是美国经济在高利率环境下保持韧性的首要原因。他估计，AI相关活动目前为GDP增长贡献约一个百分点，约占当前总增长的一半。这一贡献涵盖数据中心建设、能源需求、软件支出以及股价高企带来的财富效应等多个渠道。值得注意的是，数据中心建设本身对柴油需求具有高度依赖性，这意味着AI驱动的经济扩张与柴油价格上涨之间存在相互强化的关系，进一步加大了通胀压力持续的可能性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元</title><link>https://wallstreetcn.com/articles/3782575</link><guid>607d6f23a6860ec6d4c9b6e461a95c0c14e7aa89b4e9b797dc455a140e26bb4e</guid><pubDate>Sat, 26 Sep 2026 03:08:00 GMT</pubDate><description>&lt;p&gt;SK海力士旗下固态存储子公司Solidigm正筹划赴美上市，&lt;strong&gt;目标估值高达1500亿美元，拟募资150亿美元，有望刷新美股半导体IPO纪录。而这家公司的前身，正是英特尔以约88.5亿美元出售的NAND闪存业务&lt;/strong&gt;——从被剥离的非核心资产，到如今估值翻逾十倍的AI存储明星，Solidigm的蜕变折射出这轮AI基础设施投资热潮对存储赛道的深刻重塑。&lt;/p&gt;
 &lt;p&gt;据路透社援引三位知情人士透露，Solidigm本周已与多家投行举行IPO承销商竞标陈述会（bake-off），标志着上市进程迈出实质性一步。最快可能于明年完成上市，但具体规模与时间表仍处于早期阶段，将视市场条件而定。SK海力士在声明中表示，&amp;quot;Solidigm正在评估各种强化业务竞争力的方案，但目前尚未确认任何具体计划。&amp;quot;&lt;/p&gt;
 &lt;p&gt;若以1500亿美元估值上市，Solidigm将远超此前的半导体IPO纪录——Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元。对投资者而言，这将是近年来规模最大、最受瞩目的半导体市场入场机会之一。&lt;/p&gt;
 从英特尔&amp;quot;弃子&amp;quot;到SK海力士核心资产
@@ -375,15 +386,4 @@ AI存储需求爆发，重估Solidigm价值
 创纪录IPO，考验市场承接能力
 &lt;p&gt;&lt;strong&gt;若Solidigm最终以1500亿美元估值、150亿美元募资规模完成上市，将成为美股历史上规模最大的半导体IPO，也将是近年来全球科技股市场最重要的资本市场事件之一。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;作为参照，Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元，Solidigm的目标估值分别是两者的约2.8倍和2.7倍。如此体量的发行，对市场的承接能力构成相当考验，最终定价将在很大程度上取决于届时AI基础设施投资热度能否持续，以及整体半导体板块的市场情绪。&lt;/p&gt;
-&lt;p&gt;目前，IPO的具体规模、时间表及承销行名单均尚未确定，Solidigm方面拒绝置评。这场有望改写半导体IPO历史的上市计划，仍处于早期筹备阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿波罗首席经济学家警告：美联储可能忽视了柴油价格风险</title><link>https://wallstreetcn.com/articles/3782576</link><guid>a8c341f8d5b900cc555e034f0a1d23ac5d8f9e243b8714a09d3c7546ffaea8ec</guid><pubDate>Sat, 26 Sep 2026 03:47:10 GMT</pubDate><description>&lt;p&gt;阿波罗全球管理公司首席经济学家Torsten Slok发出警告，创纪录的柴油价格对通胀构成的威胁，可能远超美联储目前的评估——因为柴油成本会渗透进核心消费者价格指数，而后者恰恰是美联储货币政策的核心参照指标。&lt;/p&gt;
-&lt;p&gt;Slok周五在彭博电视《Surveillance》节目中表示，&lt;strong&gt;柴油相关运输成本的传导路径与汽油截然不同。由于运输商品对零售供应链乃至数据中心建设均不可或缺，需求价格弹性极低，价格上涨最终将转嫁至企业和消费者。&lt;/strong&gt;“柴油价格上涨，实际上是进入了CPI篮子中能源项以外的其他分项，”他说。&lt;/p&gt;
-&lt;p&gt;这一表态与美联储内部的分歧形成呼应。芝加哥联储主席Austan Goolsbee本周警告称，央行不能忽视反复出现且持续存在的供给冲击，&amp;quot;一旦供给冲击引发的通胀变得持续，&amp;#x27;看穿&amp;#x27;逻辑的部分依据便不再成立。&amp;quot;目前美国通胀仍远高于美联储2%的目标，货币政策走向面临更大不确定性。&lt;/p&gt;
-柴油冲击核心通胀，传统框架面临挑战
-&lt;p&gt;Slok本周在一份研究报告中系统阐述了上述观点，直指传统核心通胀框架的局限性。他认为，将食品和能源价格排除在外的核心通胀指标，对于柴油这类关键燃料并不适用。&lt;/p&gt;
-&lt;p&gt;“柴油价格的上涨不会停留在CPI的能源分项，而是滞后地向核心商品和服务迁移，这正是美联储无法将其定性为暂时性因素的传导机制，”Slok在报告中写道。&lt;/p&gt;
-&lt;p&gt;据彭博数据，截至本周四，美国柴油均价今年以来已飙升83%至每加仑6.50美元，同期汽油价格涨幅为59%。美伊冲突扰乱了波斯湾原油流通，推动能源价格全面走高，但柴油用户所承受的冲击尤为剧烈。&lt;/p&gt;
-美联储内部分歧：能源冲击能否“看穿”
-&lt;p&gt;&lt;strong&gt;美联储7月联邦公开市场委员会会议纪要显示，多数与会者认为&amp;quot;此前能源价格上涨&amp;quot;将逐步消退，有助于在年内压制通胀。这一判断与Slok的警告形成直接矛盾。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，在美联储9月16日宣布加息——这也是自2023年以来的首次加息——之后，Goolsbee的表态显示内部立场已出现松动。他明确指出，当供给冲击引发的通胀具有持续性时，&amp;quot;看穿&amp;quot;策略的逻辑基础将被削弱。&lt;/p&gt;
-&lt;p&gt;Slok描述了一种美联储隐含的政策期望：寄望于伊朗战争的解决能够缓解能源价格压力，从而使央行无需进一步加息。他将这一情景称为&amp;quot;目前的孤注一掷&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此外，Slok同时指出，人工智能相关支出热潮是美国经济在高利率环境下保持韧性的首要原因。他估计，AI相关活动目前为GDP增长贡献约一个百分点，约占当前总增长的一半。这一贡献涵盖数据中心建设、能源需求、软件支出以及股价高企带来的财富效应等多个渠道。值得注意的是，数据中心建设本身对柴油需求具有高度依赖性，这意味着AI驱动的经济扩张与柴油价格上涨之间存在相互强化的关系，进一步加大了通胀压力持续的可能性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;目前，IPO的具体规模、时间表及承销行名单均尚未确定，Solidigm方面拒绝置评。这场有望改写半导体IPO历史的上市计划，仍处于早期筹备阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
