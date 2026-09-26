@@ -1,10 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 00:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 22:51:20 GMT</pubDate><description>&lt;p&gt;9月25日周五，美股震荡上行；霍尔木兹海峡重开的前景推动原油回落；日元表现亮眼，盘中一度大涨1.2%，成为G10货币中表现最强的品种，市场聚焦日本和美国官员接连释放的&lt;a href="https://wallstreetcn.com/articles/3782560"&gt;“弱日元有问题”信号&lt;/a&gt;；随着油价回落，美债抛售势头缓和，但在PMI等数据助推在美联储10月加息预期升温的一周，创19个月来最差单周表现。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 01:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 即便油价下跌，30年期美债收益率依旧突破了5.5%</title><link>https://wallstreetcn.com/articles/3782571</link><guid>56c847e19804c18974a75cee080e3b83a287fab8d25cb79860825a48062d17f5</guid><pubDate>Sat, 26 Sep 2026 01:12:28 GMT</pubDate><description>&lt;p&gt;在缺乏明确技术支撑的&amp;quot;真空&amp;quot;环境下，长端美债收益率自我强化上行，与油价走势背道而驰。&lt;/p&gt;
+&lt;p&gt;美国长端国债收益率正在展现出独立于传统驱动因素之外的上行动能。在一个充满压力的交易周收官之际，30年期美债收益率突破5.5%，创下2004年以来新高，而当日油价却同步下跌——这一背离信号令市场警觉。&lt;/p&gt;
+&lt;p&gt;周五，30年期美债收益率盘中最高上涨5个基点至5.53%，收盘维持在5.49%上方，较前一日上涨约2个基点。10年期美债收益率同样刷新多年高位，突破5.22%。值得注意的是，30年期收益率在今年7月初时尚低于5%，短短数月内已大幅攀升逾50个基点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，对美联储政策预期更为敏感的短端收益率则出现下行，2年期收益率当日下跌约7个基点。长短端收益率的分化，令收益率曲线关键区间——包括2年至10年期、5年至30年期——从本周早些时候逾一年低位显著反弹走陡。&lt;/p&gt;
+&amp;quot;真空&amp;quot;状态：缺乏技术支撑，收益率自我强化上行
+&lt;p&gt;此轮长端收益率上行的一个显著特征，是缺乏明确的技术阻力位。&lt;/p&gt;
+&lt;p&gt;&amp;quot;人们没有可以依附的真实技术位，这让市场处于某种真空状态，&amp;quot;RBC Capital Markets美国利率策略师Izaac Brook表示，&amp;quot;这使得收益率得以持续不断地向上漂移。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一&amp;quot;真空&amp;quot;特性意味着，在没有强力基本面催化剂的情况下，收益率上行的惯性难以被打断。&lt;/strong&gt;周五推动收益率走高的直接触发因素，是密歇根大学发布的消费者信心指数——该指数9月份虽降至四个月低位，但仍好于经济学家预期，显示美国经济和企业对高利率环境的承受能力超出预期。&lt;/p&gt;
+油价背离：长端收益率上行逻辑已超越能源驱动
+&lt;p&gt;更值得关注的是，周五长端收益率的上涨与油价走势明显背道而驰。&lt;/p&gt;
+&lt;p&gt;美国基准西德克萨斯中质原油期货当日收跌2.3%，报每桶92.41美元。此前，受中东战争引发的供应冲击影响，油价一直是美债收益率日内波动的主要驱动力。然而周五，这一联动关系出现断裂。&lt;/p&gt;
+&lt;p&gt;花旗集团经济学家Andrew Hollenhorst在报告中指出，&amp;quot;由于美联储加息是直接回应能源价格上涨，市场目前无法为加息路径定价出清晰的近期上限。&amp;quot;这意味着，即便油价短期回落，市场对通胀持续性和美联储紧缩路径的担忧并未消散，长端收益率因此获得了独立于油价之外的上行支撑。&lt;/p&gt;
+短端与长端分化：市场对前端定价过度存疑
+&lt;p&gt;短端收益率的同步下行，折射出市场内部对利率路径判断的分歧。&lt;/p&gt;
+&lt;p&gt;本周早些时候，短端收益率曾随美联储9月加息预期——这是自2023年以来的首次加息——大幅攀升至多年高位。但周五，市场情绪出现转向。&lt;/p&gt;
+&lt;p&gt;&amp;quot;前端定价已经过多，&amp;quot;SMBC Group利率策略师Monty Gandhi表示，&lt;strong&gt;&amp;quot;短期投资者正在寻机买入前端，认为任何进一步的看空情绪都应流向中段或以&amp;#x27;更长时间维持高利率&amp;#x27;的方式来表达。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;摩根士丹利利率策略师则基于该行最新上调的美联储紧缩预测，上调了美债收益率预测，并指出美联储政策路径的市场定价能够解释10年期收益率走势的大部分变动。&lt;/p&gt;
+&lt;p&gt;美债期货市场的活动同样印证了上述曲线走陡趋势。纽约时间上午10时前不久，市场出现了一笔涉及5年期国债期货与超长期国债（Ultra Bond）期货的大宗同步交易——价格水平显示，该交易方向为买入5年期、卖出超长期，与曲线陡峭化押注的获利了结操作相符。&lt;/p&gt;
+&lt;p&gt;综合来看，在美联储重启加息周期、能源价格支撑通胀预期、经济韧性超预期的多重背景下，长端美债收益率已进入一个缺乏明确上限的上行通道。对于固定收益投资者而言，如何在这一&amp;quot;真空&amp;quot;环境中重新锚定久期风险，正成为当前最紧迫的课题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗</title><link>https://wallstreetcn.com/articles/3782519</link><guid>ba5a705c4a7966a986796b087e3d624d2a107932e335827a3af3ad6a073c5cd8</guid><pubDate>Fri, 25 Sep 2026 22:51:20 GMT</pubDate><description>&lt;p&gt;9月25日周五，美股震荡上行；霍尔木兹海峡重开的前景推动原油回落；日元表现亮眼，盘中一度大涨1.2%，成为G10货币中表现最强的品种，市场聚焦日本和美国官员接连释放的&lt;a href="https://wallstreetcn.com/articles/3782560"&gt;“弱日元有问题”信号&lt;/a&gt;；随着油价回落，美债抛售势头缓和，但在PMI等数据助推在美联储10月加息预期升温的一周，创19个月来最差单周表现。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;市场预计美联储10月加息的概率本周一度升至70%&lt;/p&gt;
 &lt;p&gt;美股早盘的波动明显受到美国经济数据牵动。美国9月密歇根大学消费者信心指数终值公布后，标普500和纳指均曾小幅转跌，道指曾回吐大部分涨幅，此后不久，三大指数重新稳住涨势，道指结束三连跌。&lt;/p&gt;
 &lt;p&gt;9月美国消费者信心指数终值降至48.1，为四个月低点；未来一年通胀预期则从8月的4%升至4.6%，未来5年至10年的通胀预期升至3.4%，为5月以来最高水平。评论称，消费者信心下降以及对价格和经济前景的担忧加深，削弱了油价回落带动的涨势。&lt;/p&gt;
-&lt;p&gt;全周AI交易力撑标普和纳指累涨。受益于AI智能体&lt;a href="https://wallstreetcn.com/articles/3782248"&gt;Muse火爆&lt;/a&gt;，Meta一周大涨超10%。Muse大火激发相关芯片需求热潮 ，Arm、AMD和英特尔全周也均涨超10%。不过，旗下大型&lt;a href="https://wallstreetcn.com/articles/3782479"&gt;数据中心遭遇不可抗力&lt;/a&gt;的甲骨文继续下挫，全周累计跌幅扩大到7%以上。&lt;/p&gt;
+&lt;p&gt;全周AI交易力撑标普和纳指累涨。受益于AI智能体&lt;a href="https://wallstreetcn.com/articles/3782248"&gt;Muse火爆&lt;/a&gt;，Meta一周大涨超10%。Muse大火激发相关芯片需求热潮 ，Arm、AMD和英特尔全周也均涨超10%。不过，旗下大型&lt;a href="https://wallstreetcn.com/articles/3782479"&gt;数据中心项目遭遇不可抗力&lt;/a&gt;的甲骨文继续下挫，全周累计跌幅扩大到7%以上。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;剔除AI概念影响的个股后，标普500其他成分股本周累计跌约1%&lt;/p&gt;
 &lt;p&gt;债市方面，中长期美债收益率续创多年新高。10年期美债收益率周五连续第二日盘中升破5.22%，连续三日创2007年来新高；30年期美债收益率连续两日盘中突破5.55%，再创2004年以来新高。尽管此后10年期收益率抹平日内升幅转降，30年期收益率回吐部分升幅，全周仍大幅攀升。&lt;/p&gt;
@@ -338,34 +357,7 @@ Meta：将持续抗辩，援引第一修正案
 
 &lt;p&gt;卡塔尔及其他地区调停方在联合国大会期间积极斡旋，试图重新激活美伊谈判。阿拉伯调停方透露，伊朗外交官已提出多项终战方案，并承认本国经济正面临日益严峻的困境。&lt;/p&gt;
 &lt;p&gt;然而，自今年2月战事爆发以来实际掌控伊朗的伊斯兰革命卫队态度强硬，表示不会接受新的协议框架，并声称已做好打持久战的准备。革命卫队的诉求是回归更接近特朗普6月与伊朗达成初步协议时的条款——该协议曾承诺为伊朗石油销售提供制裁豁免、允许获取被冻结资产，并承认德黑兰在霍尔木兹海峡管理中的地位，以换取该水道的开放。&lt;/p&gt;
-&lt;p&gt;美伊双方目前仍通过调停方保持间接接触，核问题谈判亦未完全中断。但在停火条件、核裁军要求与经济制裁三重分歧之下，谈判破局风险显著上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本财务大臣：高市早苗并非"再通胀主义者，非常尊重央行独立性"</title><link>https://wallstreetcn.com/articles/3782563</link><guid>961e5f9e796362598aeb0c13e6b7fb1e781e7feedfb37a7cf4fc07128cdb6cb3</guid><pubDate>Fri, 25 Sep 2026 22:19:34 GMT</pubDate><description>&lt;p&gt;日本政府正集中火力，试图扭转市场对高市早苗政府施压日本央行、奉行宽松政策的固有印象。&lt;/p&gt;
-&lt;p&gt;日本财务大臣片山皋月（Satsuki Katayama）周五表示，&lt;strong&gt;高市早苗首相并非&amp;quot;再通胀主义者，非常尊重央行独立性&amp;quot;，并称高市本人一再要求她向海外投资者澄清这一立场，&amp;quot;我们希望确保在这一点上不存在任何误解。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;片山同时重申干预汇市、支撑日元的意愿，并淡化了近期日本国债收益率上行所引发的市场担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述表态发生在日本央行上周三度加息之后。然而，高市政府提名的两位央行委员均投票反对这一决定，进一步强化了市场对日本政府倾向于延缓加息步伐的判断。&lt;/p&gt;
-&lt;p&gt;与此同时，日元兑美元汇率已跌破央行加息前水平，日本国债收益率也攀升至1990年代中期以来最高水平，市场压力持续升温。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-政府官员密集表态，力图厘清政策立场
-
-&lt;p&gt;片山的澄清并非孤立之举。&lt;strong&gt;经济增长战略大臣Minoru Kiuchi当天早些时候也表示，日本经济已无需再通胀政策。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kiuchi在内阁中被视为再通胀立场最鲜明的成员，其发言与片山的口径高度一致，显示出政府有意统一对外叙事，以回应市场对政府干预央行政策的疑虑。&lt;/p&gt;
-&lt;p&gt;部分市场人士将高市视为已故前首相安倍晋三的政策传承者——安倍曾力推央行货币宽松与灵活财政政策，以打破日本数十年的经济停滞。&lt;/p&gt;
-&lt;p&gt;片山对此回应称，随着通胀重返日本，当前环境已与彼时截然不同，过去的政策框架不能简单套用于今日。&lt;/p&gt;
-&lt;p&gt;片山表示，&lt;strong&gt;高市本人&amp;quot;非常尊重央行独立性&amp;quot;，日常货币政策决定权归属日本央行，政府有意避免给外界留下干预央行政策的印象。&lt;/strong&gt;&lt;/p&gt;
-
-投资者质疑未散，传奇投资人德拉肯米勒与摩根大通CEO均有关切
-
-&lt;p&gt;片山透露，她近期在东京与多位美国金融界人士会面，其中包括亿万富翁投资者Stanley Druckenmiller以及摩根大通首席执行官Jamie Dimon。&lt;/p&gt;
-&lt;p&gt;谈及会面内容，她承认，部分投资者仍认为高市政府正在制约日本央行的行动空间。&lt;/p&gt;
-&lt;p&gt;正是这种疑虑，促使片山在本次专访中主动、反复地强调政府尊重央行独立性的立场。&lt;/p&gt;
-
-片山重申干预日元的准备
-
-&lt;p&gt;在汇率问题上，片山重申了干预市场的准备，并与美国财政部长贝森特于周五再次通话。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据日本财务省发布的通话摘要，双方就金融市场最新动态交换了意见，并再次确认了对日元被低估的共同关切，以及进一步深化合作的意向。&lt;/strong&gt;贝森特随后在X上表示，双方&amp;quot;讨论了反映日本强劲经济基本面的强势日元的可取性&amp;quot;。&lt;/p&gt;
-&lt;p&gt;片山当天早些时候在新闻发布会上透露，特朗普在本周于纽约举行的会谈中，向高市表达了对日元疲软的关切。但她补充称，特朗普的表态仅止于此，双方并未就后续应采取何种措施深入探讨。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对于近期债券收益率的快速上行，片山认为这是一个全球性现象，部分反映了人工智能投资热潮带动的私人部门资金需求上升，并预计此轮快速上涨将是暂时性的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;她还指出，利率上升对日本家庭而言实际上意味着存款利息收入增加，相比美国人更多持有股票，日本人的储蓄更多存放在银行，因此有望从中受益。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI披露：旗下AI模型可能干扰了包括政府、高校在内的数十个机构网站</title><link>https://wallstreetcn.com/articles/3782566</link><guid>67657f8d8c7906824c8c214a510062569dda6f831c857950eb0f523796845961</guid><pubDate>Fri, 25 Sep 2026 22:32:16 GMT</pubDate><description>&lt;p&gt;OpenAI披露，&lt;strong&gt;其人工智能模型在公司内部测试期间，可能对包括政府部门、大学及公共机构在内的&amp;quot;数十个&amp;quot;组织的网站造成干扰&lt;/strong&gt;，引发外界对AI网络安全风险的广泛关注。&lt;/p&gt;
+&lt;p&gt;美伊双方目前仍通过调停方保持间接接触，核问题谈判亦未完全中断。但在停火条件、核裁军要求与经济制裁三重分歧之下，谈判破局风险显著上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI披露：旗下AI模型可能干扰了包括政府、高校在内的数十个机构网站</title><link>https://wallstreetcn.com/articles/3782566</link><guid>67657f8d8c7906824c8c214a510062569dda6f831c857950eb0f523796845961</guid><pubDate>Fri, 25 Sep 2026 22:32:16 GMT</pubDate><description>&lt;p&gt;OpenAI披露，&lt;strong&gt;其人工智能模型在公司内部测试期间，可能对包括政府部门、大学及公共机构在内的&amp;quot;数十个&amp;quot;组织的网站造成干扰&lt;/strong&gt;，引发外界对AI网络安全风险的广泛关注。&lt;/p&gt;
 &lt;p&gt;此次披露源于OpenAI数月前发现旗下AI意外入侵Hugging Face后启动的调查。&lt;/p&gt;
 &lt;p&gt;该公司在周五发布的博客文章中表示，&lt;strong&gt;已就相关事件通知受影响方，涉及情形包括：软件绕过网站安全控制、影响服务可用性，以及&amp;quot;失控&amp;quot;AI模型对外部网站或服务造成负面影响。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;就在数日前，OpenAI刚刚承认其AI模型于今年早些时候入侵了一家澳大利亚政府网站，此举被视为已知的首批AI对政府数据库发动网络攻击案例之一。&lt;/p&gt;
