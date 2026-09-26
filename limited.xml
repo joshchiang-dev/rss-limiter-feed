@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 12:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 12:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
 &lt;p&gt;高盛最新研究显示，六大超大规模云计算企业若要在2026至2027年约1.73万亿美元的AI算力资本支出上实现15%的投入资本回报率（ROIC），&lt;strong&gt;需在2028至2030年间累计创造约1.42万亿美元的收入。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛互联网与科技团队负责人Eric Sheridan在报告中指出，当前市场争论的焦点已从近期支出规模本身，转向这轮巨额投资能否在未来三年内产生可观回报。与此同时，云计算积压订单数据提供了一定支撑——截至2026年第二季度，AWS、Azure和谷歌云合计积压订单约1.69万亿美元，同比增长152%，为收入目标的可实现性提供了初步背书。&lt;/p&gt;
 &lt;p&gt;然而，高盛框架之外的变量同样不容忽视。约3万亿美元的表外承诺并未纳入ROIC分母，GPU和算力定价的持续下行压力已有所显现，而规模更为庞大的&amp;quot;第三阶段&amp;quot;资本支出（2028至2030年约4.14万亿美元）的回报问题，则被高盛明确留待另行讨论。&lt;/p&gt;
@@ -282,28 +282,7 @@
 
 &lt;p&gt;Setser同时提示了这一趋势的另一面：&lt;strong&gt;在美国财政赤字持续扩大的背景下，海外资金对美国国债的需求却在减弱，这给美国债务融资带来潜在压力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;quot;感觉整个世界都对美国股票极度看好，&amp;quot;Setser说。&lt;/p&gt;
-&lt;p&gt;这一局面对债券市场而言并非利好信号。海外需求向股票倾斜、从国债撤出，意味着美国政府在发行大量债务之际，需要依赖更多国内买家或承受更高融资成本来消化供给。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta AI主管Alexandr Wang：为何我要做Muse</title><link>https://wallstreetcn.com/articles/3782587</link><guid>4fff83b6ed34d8b6476ad8b8dd311323e4fbeee365c5794b26f8743a4d7a60a6</guid><pubDate>Sat, 26 Sep 2026 11:50:41 GMT</pubDate><description>&lt;p&gt;Meta首席AI官Alexandr Wang近日发表公开信，阐述其主导构建Muse AI助手背后的核心理念——让每一个普通人都能实现自己的梦想。这封信与Muse的强劲市场表现一同出现在公众视野中，进一步巩固了外界对这笔高达140亿美元收购交易价值的判断。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Muse自上线以来势头迅猛。据Sensor Tower数据，该应用在美国和加拿大App Store上线首12天内累计下载量达280万次，超越ChatGPT同期130万次的成绩，并于9月19日创下单日26.4万次下载的美国纪录。受此提振，Meta过去五个交易日市值增加约2340亿美元。&lt;/p&gt;
-&lt;p&gt;Wang在公开信中写道，大多数人从未说出自己真正想要什么——不是因为没有渴望，而是因为梦想往往在繁琐的现实障碍中悄然消亡。他将Muse定位为每个人的&amp;quot;第二大脑&amp;quot;，&lt;strong&gt;一个能够听懂半句话、帮人制定计划、发送邮件、寻找资金、清除障碍的&amp;quot;全能经理人&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-一封关于&amp;quot;渴望&amp;quot;的公开信
-&lt;p&gt;Wang在信中以近乎文学化的笔触描述了人类梦想的困境：&amp;quot;每一个未实现的渴望，都是人类潜能的一场无声悲剧。&amp;quot;他写道，世界长期以来由少数&amp;quot;以某种方式将渴望变为现实的狂热者&amp;quot;所塑造，而Muse的使命，是让80亿人中的每一个人都能真正开启自己的能动性。&lt;/p&gt;
-&lt;p&gt;在他的构想中，Muse并非一个许愿的精灵，而是一个务实的执行者——&amp;quot;告诉你，这是你一生梦寐以求的事，我们去实现它，方法如下&amp;quot;，然后付诸行动。&lt;/p&gt;
-&lt;p&gt;这封信的发布时间，恰在Meta Connect 2026大会结束后不久。在那场发布会上，Meta推出了Muse Charm——一款专为语音交互设计的独立口袋设备，以及重量仅100克、售价1299美元的Meta VR眼镜，以及起售价249美元的第三代Ray-Ban Meta Gen 3智能眼镜等一系列硬件产品。&lt;/p&gt;
-从Scale AI到Meta：一笔争议收购的回报
-&lt;p&gt;Wang加入Meta的方式本身颇具戏剧性。&lt;strong&gt;2025年，Meta创始人马克·扎克伯格以143亿美元收购了热门AI初创公司Scale AI的全体员工，Wang作为Scale AI创始人，据报道个人获得约50亿美元。这笔交易在当时被部分市场人士视为天价之举。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Wang是Scale AI的联合创始人，该公司专注于为AI模型训练提供数据标注服务，曾是硅谷估值最高的AI基础设施公司之一。2025年Meta完成对Scale AI的收购后，Wang出任Meta首席AI官，主导公司AI产品战略。&lt;/p&gt;
-&lt;p&gt;科技投资人Adam Khoo在X平台上写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;当时人们认为扎克伯格疯了，花50亿美元雇用Alexandr Wang。如今，在Wang领导下开发的Meta新AI产品为公司市值增加了约2000亿美元。突然间，花重金锁定顶尖人才看起来并不那么疯狂。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这笔收购在战略层面的意义同样深远。&lt;strong&gt;这笔交易有效扭转了外界对Meta在AI领域落后的印象，使其从&amp;quot;追赶者&amp;quot;转变为&amp;quot;领跑者&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-迷彩T恤与$30的穿搭哲学
-&lt;p&gt;如果说Muse是Wang在产品层面的表达，那么他在Meta Connect 2026舞台上的着装，则意外成为另一种个人符号的输出。&lt;/p&gt;
-&lt;p&gt;Wang当天身穿一件印有鹿头图案的1990年代风格迷彩T恤，搭配迷彩Crocs和黑色长裤登台演讲。发布会结束后，这身打扮迅速在X平台引发热议，有用户猜测那件T恤是价值800美元的爱马仕单品。&lt;/p&gt;
-&lt;p&gt;Wang随即出面&amp;quot;澄清&amp;quot;，称那件衬衫来自圣克鲁斯的一家二手店，花了他30美元，Crocs约60美元，Calvin Klein内裤5美元。他将外界的奢侈品猜测定性为&amp;quot;诽谤&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据Business Insider报道，这并非Wang第一次穿着类似的鹿/迷彩风格出镜——他在此前的Core Memory采访和重要内部会议上均有类似装扮。这种&amp;quot;反精英&amp;quot;的穿搭风格，与他在X平台上以&amp;quot;推文炮&amp;quot;自称、持续用表情包轰炸式推广Muse的网络人设高度吻合，也被部分观察者视为他有意构建的品牌形象：去除企业精英的光泽，保留创始人的混乱能量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “Agent vs 美债”——谁将主导美股？</title><link>https://wallstreetcn.com/articles/3782574</link><guid>ff7cdbffb4766f194ed3ca890e97373bf89c18b25fe3ca15d153aaf3dbe2c8a0</guid><pubDate>Sat, 26 Sep 2026 02:22:58 GMT</pubDate><description>&lt;p&gt;AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。&lt;/p&gt;
+&lt;p&gt;这一局面对债券市场而言并非利好信号。海外需求向股票倾斜、从国债撤出，意味着美国政府在发行大量债务之际，需要依赖更多国内买家或承受更高融资成本来消化供给。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “Agent vs 美债”——谁将主导美股？</title><link>https://wallstreetcn.com/articles/3782574</link><guid>ff7cdbffb4766f194ed3ca890e97373bf89c18b25fe3ca15d153aaf3dbe2c8a0</guid><pubDate>Sat, 26 Sep 2026 02:22:58 GMT</pubDate><description>&lt;p&gt;AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。&lt;/p&gt;
 &lt;p&gt;本周，Meta发布旗下Agentic AI模型Muse，单周市值暴增2200亿美元，推动纳斯达克100指数成为表现最强的主要股指。但与此同时，美债收益率持续走高，将利率敏感型资产打入低谷——罗素2000指数显著落后，标普500指数在7700点附近反复拉锯，始终无法实现有效突破。&lt;/p&gt;
 &lt;p&gt;市场的内部分化已达到极端程度。若剔除AI相关标的，标普500本周实际下跌约1%；纽交所新低股票数量连续9个交易日超过新高股票数量，为2023年10月以来最长连跌纪录。&lt;/p&gt;
 &lt;p&gt;高盛全球对冲基金业务负责人Tony Pasquariello将当前局面定性为&lt;strong&gt;股市与利率市场之间&amp;quot;令人沮丧的猫鼠游戏&amp;quot;，并给出明确建议：若坚持持有股票多头，需同步做空美债以对冲利率风险。&lt;/strong&gt;&lt;/p&gt;
@@ -325,7 +304,47 @@ AI Agent引爆结构性行情，市值集中度创新高
 高盛：持股需对冲，突破仍需催化剂
 &lt;p&gt;面对上述撕裂格局，Pasquariello给出了明确的操作框架：若要持有股票显著多头敞口，需同步建立简单的美债空头头寸加以对冲。他将当前市场的投机性多头仓位在-10至+10的标准量表上标定为+3，认为整体仓位并不拥挤。&lt;/p&gt;
 &lt;p&gt;他同时指出，回购力度正在放缓，新股发行规模上升，美国散户投资者趋于观望，当前市场结构并不完美。但他也承认，考虑到近期利率走势之凶猛，股市能够守住大部分涨幅，本身已属不易。&lt;/p&gt;
-&lt;p&gt;Pasquariello的结论是：若市场出现向上突破的催化剂，快钱资金将不得不迅速追涨入场；但在此之前，股市与利率的博弈仍将持续，而ZeroHedge对此补充了最后一个字——&amp;quot;yet&amp;quot;（尚未）。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制</title><link>https://wallstreetcn.com/articles/3782583</link><guid>8cfe28a5d6076e14089a237c19d12e4e2411642fe864e5b1292d6dd7fc56e751</guid><pubDate>Sat, 26 Sep 2026 09:55:19 GMT</pubDate><description>&lt;p&gt;人工智能与人类科学家之间的竞争，正从棋盘和数学题蔓延至生命科学的核心领域。&lt;/p&gt;
+&lt;p&gt;Pasquariello的结论是：若市场出现向上突破的催化剂，快钱资金将不得不迅速追涨入场；但在此之前，股市与利率的博弈仍将持续，而ZeroHedge对此补充了最后一个字——&amp;quot;yet&amp;quot;（尚未）。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta AI主管Alexandr Wang：为何我要做Muse</title><link>https://wallstreetcn.com/articles/3782587</link><guid>4fff83b6ed34d8b6476ad8b8dd311323e4fbeee365c5794b26f8743a4d7a60a6</guid><pubDate>Sat, 26 Sep 2026 11:50:41 GMT</pubDate><description>&lt;p&gt;Meta首席AI官Alexandr Wang近日发表公开信，阐述其主导构建Muse AI助手背后的核心理念——让每一个普通人都能实现自己的梦想。这封信与Muse的强劲市场表现一同出现在公众视野中，进一步巩固了外界对这笔高达140亿美元收购交易价值的判断。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Muse自上线以来势头迅猛。据Sensor Tower数据，该应用在美国和加拿大App Store上线首12天内累计下载量达280万次，超越ChatGPT同期130万次的成绩，并于9月19日创下单日26.4万次下载的美国纪录。受此提振，Meta过去五个交易日市值增加约2340亿美元。&lt;/p&gt;
+&lt;p&gt;Wang在公开信中写道，大多数人从未说出自己真正想要什么——不是因为没有渴望，而是因为梦想往往在繁琐的现实障碍中悄然消亡。他将Muse定位为每个人的&amp;quot;第二大脑&amp;quot;，&lt;strong&gt;一个能够听懂半句话、帮人制定计划、发送邮件、寻找资金、清除障碍的&amp;quot;全能经理人&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+一封关于&amp;quot;渴望&amp;quot;的公开信
+&lt;p&gt;Wang在信中以近乎文学化的笔触描述了人类梦想的困境：&amp;quot;每一个未实现的渴望，都是人类潜能的一场无声悲剧。&amp;quot;他写道，世界长期以来由少数&amp;quot;以某种方式将渴望变为现实的狂热者&amp;quot;所塑造，而Muse的使命，是让80亿人中的每一个人都能真正开启自己的能动性。&lt;/p&gt;
+&lt;p&gt;在他的构想中，Muse并非一个许愿的精灵，而是一个务实的执行者——&amp;quot;告诉你，这是你一生梦寐以求的事，我们去实现它，方法如下&amp;quot;，然后付诸行动。&lt;/p&gt;
+&lt;p&gt;这封信的发布时间，恰在Meta Connect 2026大会结束后不久。在那场发布会上，Meta推出了Muse Charm——一款专为语音交互设计的独立口袋设备，以及重量仅100克、售价1299美元的Meta VR眼镜，以及起售价249美元的第三代Ray-Ban Meta Gen 3智能眼镜等一系列硬件产品。&lt;/p&gt;
+从Scale AI到Meta：一笔争议收购的回报
+&lt;p&gt;Wang加入Meta的方式本身颇具戏剧性。&lt;strong&gt;2025年，Meta创始人马克·扎克伯格以143亿美元收购了热门AI初创公司Scale AI的全体员工，Wang作为Scale AI创始人，据报道个人获得约50亿美元。这笔交易在当时被部分市场人士视为天价之举。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wang是Scale AI的联合创始人，该公司专注于为AI模型训练提供数据标注服务，曾是硅谷估值最高的AI基础设施公司之一。2025年Meta完成对Scale AI的收购后，Wang出任Meta首席AI官，主导公司AI产品战略。&lt;/p&gt;
+&lt;p&gt;科技投资人Adam Khoo在X平台上写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;当时人们认为扎克伯格疯了，花50亿美元雇用Alexandr Wang。如今，在Wang领导下开发的Meta新AI产品为公司市值增加了约2000亿美元。突然间，花重金锁定顶尖人才看起来并不那么疯狂。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这笔收购在战略层面的意义同样深远。&lt;strong&gt;这笔交易有效扭转了外界对Meta在AI领域落后的印象，使其从&amp;quot;追赶者&amp;quot;转变为&amp;quot;领跑者&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+迷彩T恤与$30的穿搭哲学
+&lt;p&gt;如果说Muse是Wang在产品层面的表达，那么他在Meta Connect 2026舞台上的着装，则意外成为另一种个人符号的输出。&lt;/p&gt;
+&lt;p&gt;Wang当天身穿一件印有鹿头图案的1990年代风格迷彩T恤，搭配迷彩Crocs和黑色长裤登台演讲。发布会结束后，这身打扮迅速在X平台引发热议，有用户猜测那件T恤是价值800美元的爱马仕单品。&lt;/p&gt;
+&lt;p&gt;Wang随即出面&amp;quot;澄清&amp;quot;，称那件衬衫来自圣克鲁斯的一家二手店，花了他30美元，Crocs约60美元，Calvin Klein内裤5美元。他将外界的奢侈品猜测定性为&amp;quot;诽谤&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据Business Insider报道，这并非Wang第一次穿着类似的鹿/迷彩风格出镜——他在此前的Core Memory采访和重要内部会议上均有类似装扮。这种&amp;quot;反精英&amp;quot;的穿搭风格，与他在X平台上以&amp;quot;推文炮&amp;quot;自称、持续用表情包轰炸式推广Muse的网络人设高度吻合，也被部分观察者视为他有意构建的品牌形象：去除企业精英的光泽，保留创始人的混乱能量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 主流资源股常识数据全披露：一文告诉你，锂矿股的景气周期是否已经结束！</title><link>http://xueqiu.com/9363345092/410532886</link><guid>55dccce176befd2dd20aad5a026c31cf7db3a6d618042209a8ba2611c4d1dae0</guid><pubDate>Sat, 26 Sep 2026 06:04:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ericwarn丁宁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近一段时间，锂矿股连续暴跌，供需之谜也成为了热议话题。即便是上月抄底的投资者，目前也处于“浅套”之中。接下来的问题则是：锂矿股的景气周期是否已经结束？明年开始是否会进入萧条周期？&lt;/p&gt;</description></item><item><title>[今日雪球] 凭运气赚来的钱，是如何在四轮牛熊里凭实力还回去的？</title><link>http://xueqiu.com/2884313460/410621710</link><guid>4eccb3ff392d0eddaf113af1ccf6aa99b70023c456ad5347860723315a888315</guid><pubDate>Sat, 26 Sep 2026 06:00:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;吴晓波在《大败局》的序言里写过一句话：如果你面对的是一家在几年甚至十几年的历程中一帆风顺、从未遭遇过挫折的企业，那么，要么它是一个上帝格外呵护的异类，要么它就是一个自欺欺人的泡沫。&lt;/p&gt;</description></item><item><title>[今日雪球] 加息正在验证黄金的长期逻辑：五国债务与利息成本压力测试</title><link>http://xueqiu.com/3540620772/410561898</link><guid>c31a147c3ca677446e94d484dec2573959a1e881e7750298b98abcc524a3a2d1</guid><pubDate>Sat, 26 Sep 2026 06:02:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ODYSSEY888&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;加息正在验证黄金的长期逻辑：五国债务与利息成本压力测试&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元</title><link>https://wallstreetcn.com/articles/3782575</link><guid>607d6f23a6860ec6d4c9b6e461a95c0c14e7aa89b4e9b797dc455a140e26bb4e</guid><pubDate>Sat, 26 Sep 2026 03:08:00 GMT</pubDate><description>&lt;p&gt;SK海力士旗下固态存储子公司Solidigm正筹划赴美上市，&lt;strong&gt;目标估值高达1500亿美元，拟募资150亿美元，有望刷新美股半导体IPO纪录。而这家公司的前身，正是英特尔以约88.5亿美元出售的NAND闪存业务&lt;/strong&gt;——从被剥离的非核心资产，到如今估值翻逾十倍的AI存储明星，Solidigm的蜕变折射出这轮AI基础设施投资热潮对存储赛道的深刻重塑。&lt;/p&gt;
+&lt;p&gt;据路透社援引三位知情人士透露，Solidigm本周已与多家投行举行IPO承销商竞标陈述会（bake-off），标志着上市进程迈出实质性一步。最快可能于明年完成上市，但具体规模与时间表仍处于早期阶段，将视市场条件而定。SK海力士在声明中表示，&amp;quot;Solidigm正在评估各种强化业务竞争力的方案，但目前尚未确认任何具体计划。&amp;quot;&lt;/p&gt;
+&lt;p&gt;若以1500亿美元估值上市，Solidigm将远超此前的半导体IPO纪录——Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元。对投资者而言，这将是近年来规模最大、最受瞩目的半导体市场入场机会之一。&lt;/p&gt;
+从英特尔&amp;quot;弃子&amp;quot;到SK海力士核心资产
+&lt;p&gt;Solidigm的诞生，源于英特尔一次战略收缩。&lt;/p&gt;
+&lt;p&gt;2020年10月，英特尔宣布将旗下NAND闪存及固态硬盘（SSD）业务出售给韩国SK海力士，交易总价约88.5亿美元。这笔交易分两个阶段完成：第一阶段于2021年底完成，SK海力士以66.1亿美元收购了英特尔的SSD业务及位于中国大连的NAND晶圆制造工厂，并将英特尔企业级SSD业务更名为Solidigm，以独立子公司形式运营，总部设于加利福尼亚州。&lt;/p&gt;
+&lt;p&gt;然而，第一阶段仅转让了实物资产与SSD相关业务，英特尔的NAND知识产权、研发基础设施及核心技术人员并未随之转移。直至2025年3月，交易第二阶段才最终完成——英特尔收到SK海力士支付的最终款项约19亿美元，SK海力士则正式获得英特尔的NAND相关知识产权及研发人员，使Solidigm团队得以与SK海力士在未来产品上展开更紧密的协作。至此，这笔历时近五年、总价约88.5亿美元的收购才画上句号。&lt;/p&gt;
+&lt;p&gt;Solidigm这一品牌名称，取自&amp;quot;solid&amp;quot;（固态存储）与&amp;quot;paradigm&amp;quot;（范式）的组合，寓意存储技术的范式转变。公司总部位于加利福尼亚州Rancho Cordova，专注于企业级SSD产品，服务于服务器、云基础设施及数据中心市场。&lt;/p&gt;
+AI存储需求爆发，重估Solidigm价值
+&lt;p&gt;Solidigm估值从收购价的88.5亿美元跃升至潜在IPO估值的1500亿美元，核心驱动力在于AI基础设施建设对高容量存储的爆炸性需求。&lt;/p&gt;
+&lt;p&gt;随着AI模型训练与推理所需处理的数据量持续膨胀，数据中心对企业级SSD的需求大幅攀升。&lt;strong&gt;Solidigm的战略定位正是围绕这一趋势展开——公司着力开发面向AI应用的高容量存储产品，以差异化方案切入这一快速增长的市场。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI热潮已持续推高半导体及硬件股的整体估值，为Solidigm的上市窗口提供了有利的市场环境。投资者对AI基础设施相关标的的强烈需求，是Solidigm得以寻求高估值的重要前提。&lt;/p&gt;
+上市前动作频频，融资与建厂双线推进
+&lt;p&gt;在正式启动IPO流程之前，Solidigm已在多个层面积极布局。&lt;/p&gt;
+&lt;p&gt;据路透社本月早些时候报道，Solidigm正考虑在美国建设一座NAND闪存芯片工厂，纽约州北部是目前的主要候选地点，此举旨在扩大制造产能。这一计划与美国推动半导体本土化生产的政策方向高度契合，也有助于提升公司在美国资本市场的吸引力。&lt;/p&gt;
+&lt;p&gt;与此同时，SK海力士上月表示正在研究提升Solidigm竞争力的措施，此前有媒体报道称Solidigm正探索约5万亿韩元（约36亿美元）的IPO前融资轮。这一系列动作表明，SK海力士正系统性地为Solidigm的独立上市铺路，通过引入外部资本、强化知识产权整合与扩大制造布局，全面提升这一子公司的独立运营能力与市场估值基础。&lt;/p&gt;
+创纪录IPO，考验市场承接能力
+&lt;p&gt;&lt;strong&gt;若Solidigm最终以1500亿美元估值、150亿美元募资规模完成上市，将成为美股历史上规模最大的半导体IPO，也将是近年来全球科技股市场最重要的资本市场事件之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为参照，Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元，Solidigm的目标估值分别是两者的约2.8倍和2.7倍。如此体量的发行，对市场的承接能力构成相当考验，最终定价将在很大程度上取决于届时AI基础设施投资热度能否持续，以及整体半导体板块的市场情绪。&lt;/p&gt;
+&lt;p&gt;目前，IPO的具体规模、时间表及承销行名单均尚未确定，Solidigm方面拒绝置评。这场有望改写半导体IPO历史的上市计划，仍处于早期筹备阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制</title><link>https://wallstreetcn.com/articles/3782583</link><guid>8cfe28a5d6076e14089a237c19d12e4e2411642fe864e5b1292d6dd7fc56e751</guid><pubDate>Sat, 26 Sep 2026 09:55:19 GMT</pubDate><description>&lt;p&gt;人工智能与人类科学家之间的竞争，正从棋盘和数学题蔓延至生命科学的核心领域。&lt;/p&gt;
 &lt;p&gt;Ginkgo Bioworks原本策划了一场蓄意打造&amp;quot;卡斯帕罗夫对决深蓝&amp;quot;历史时刻的蛋白质设计竞赛，计划让斯坦福大学教授Michael Jewett单独迎战OpenAI的AI智能体团队。然而，就在9月14日首轮对决前夕，这场比赛被紧急叫停，随后以一种截然不同的面貌重新登场——赛制从&amp;quot;单挑&amp;quot;变为&amp;quot;合竞&amp;quot;（coopetition），任何科学家均可报名组队参与。Ginkgo联合创始人兼总裁Reshma Shetty表示，&lt;strong&gt;调整背后的考量，是希望避免加剧当前科学界对人工智能的紧张情绪。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一转变发生于OpenAI宣布其内部AI模型在不到一周内攻克困扰数学界近百年的纳维-斯托克斯问题（Navier-Stokes）之后。该消息在全球数学界引发强烈震动，并重新点燃了有关AI与人类未来关系的激烈讨论。对Ginkgo的赛事组织者而言，这场舆论风波直接促使他们重新审视比赛定位。Ginkgo联合创始人兼CEO Jason Kelly坦言：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -360,46 +379,7 @@ Ginkgo与OpenAI：从合作到竞技的渊源
 
 &lt;p&gt;Ginkgo与OpenAI并非唯一筹备此类&amp;quot;人机竞赛&amp;quot;的机构。AI初创公司Edison Scientific的CEO兼联合创始人Sam Rodriques表示，他与同事已整理出一份利用AI有望解决的生物学难题清单。研究机构FutureHouse正组建评审团，并计划为解题者设置现金奖励。&lt;/p&gt;
 &lt;p&gt;规模更大的竞赛同样呼之欲出。本月早些时候，Anthropic与总部位于瑞士洛桑的自动化蛋白质设计实验室初创公司Adaptyv Bio宣布，将联合主办&amp;quot;全球最大规模蛋白质设计竞赛&amp;quot;，赛事于9月28日启动。Anthropic将提供价值100万美元的Claude算力额度，帮助科学家设计应对五大难题的蛋白质；Adaptyv与Anthropic将共同资助获选设计的实验室测试，赛事向所有人开放报名。Adaptyv CEO兼联合创始人Julian Englert表示，纯由AI智能体组成的团队赢得其中一项或多项挑战，在理论上完全可能实现。&lt;/p&gt;
-&lt;p&gt;哈佛医学院AI智能体研究员Marinka Zitnik认为，上述竞赛的密集涌现，折射出AI科学家能力的飞速进化。&lt;strong&gt;但她指出，真正的终极考验尚未到来——那将是一个AI系统独立作出突破性发现，并被经验丰富的科学家评定为&amp;quot;值得诺贝尔奖&amp;quot;的那一天。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 主流资源股常识数据全披露：一文告诉你，锂矿股的景气周期是否已经结束！</title><link>http://xueqiu.com/9363345092/410532886</link><guid>55dccce176befd2dd20aad5a026c31cf7db3a6d618042209a8ba2611c4d1dae0</guid><pubDate>Sat, 26 Sep 2026 06:04:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ericwarn丁宁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近一段时间，锂矿股连续暴跌，供需之谜也成为了热议话题。即便是上月抄底的投资者，目前也处于“浅套”之中。接下来的问题则是：锂矿股的景气周期是否已经结束？明年开始是否会进入萧条周期？&lt;/p&gt;</description></item><item><title>[今日雪球] 凭运气赚来的钱，是如何在四轮牛熊里凭实力还回去的？</title><link>http://xueqiu.com/2884313460/410621710</link><guid>4eccb3ff392d0eddaf113af1ccf6aa99b70023c456ad5347860723315a888315</guid><pubDate>Sat, 26 Sep 2026 06:00:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;吴晓波在《大败局》的序言里写过一句话：如果你面对的是一家在几年甚至十几年的历程中一帆风顺、从未遭遇过挫折的企业，那么，要么它是一个上帝格外呵护的异类，要么它就是一个自欺欺人的泡沫。&lt;/p&gt;</description></item><item><title>[今日雪球] 加息正在验证黄金的长期逻辑：五国债务与利息成本压力测试</title><link>http://xueqiu.com/3540620772/410561898</link><guid>c31a147c3ca677446e94d484dec2573959a1e881e7750298b98abcc524a3a2d1</guid><pubDate>Sat, 26 Sep 2026 06:02:34 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ODYSSEY888&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;加息正在验证黄金的长期逻辑：五国债务与利息成本压力测试&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元</title><link>https://wallstreetcn.com/articles/3782575</link><guid>607d6f23a6860ec6d4c9b6e461a95c0c14e7aa89b4e9b797dc455a140e26bb4e</guid><pubDate>Sat, 26 Sep 2026 03:08:00 GMT</pubDate><description>&lt;p&gt;SK海力士旗下固态存储子公司Solidigm正筹划赴美上市，&lt;strong&gt;目标估值高达1500亿美元，拟募资150亿美元，有望刷新美股半导体IPO纪录。而这家公司的前身，正是英特尔以约88.5亿美元出售的NAND闪存业务&lt;/strong&gt;——从被剥离的非核心资产，到如今估值翻逾十倍的AI存储明星，Solidigm的蜕变折射出这轮AI基础设施投资热潮对存储赛道的深刻重塑。&lt;/p&gt;
-&lt;p&gt;据路透社援引三位知情人士透露，Solidigm本周已与多家投行举行IPO承销商竞标陈述会（bake-off），标志着上市进程迈出实质性一步。最快可能于明年完成上市，但具体规模与时间表仍处于早期阶段，将视市场条件而定。SK海力士在声明中表示，&amp;quot;Solidigm正在评估各种强化业务竞争力的方案，但目前尚未确认任何具体计划。&amp;quot;&lt;/p&gt;
-&lt;p&gt;若以1500亿美元估值上市，Solidigm将远超此前的半导体IPO纪录——Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元。对投资者而言，这将是近年来规模最大、最受瞩目的半导体市场入场机会之一。&lt;/p&gt;
-从英特尔&amp;quot;弃子&amp;quot;到SK海力士核心资产
-&lt;p&gt;Solidigm的诞生，源于英特尔一次战略收缩。&lt;/p&gt;
-&lt;p&gt;2020年10月，英特尔宣布将旗下NAND闪存及固态硬盘（SSD）业务出售给韩国SK海力士，交易总价约88.5亿美元。这笔交易分两个阶段完成：第一阶段于2021年底完成，SK海力士以66.1亿美元收购了英特尔的SSD业务及位于中国大连的NAND晶圆制造工厂，并将英特尔企业级SSD业务更名为Solidigm，以独立子公司形式运营，总部设于加利福尼亚州。&lt;/p&gt;
-&lt;p&gt;然而，第一阶段仅转让了实物资产与SSD相关业务，英特尔的NAND知识产权、研发基础设施及核心技术人员并未随之转移。直至2025年3月，交易第二阶段才最终完成——英特尔收到SK海力士支付的最终款项约19亿美元，SK海力士则正式获得英特尔的NAND相关知识产权及研发人员，使Solidigm团队得以与SK海力士在未来产品上展开更紧密的协作。至此，这笔历时近五年、总价约88.5亿美元的收购才画上句号。&lt;/p&gt;
-&lt;p&gt;Solidigm这一品牌名称，取自&amp;quot;solid&amp;quot;（固态存储）与&amp;quot;paradigm&amp;quot;（范式）的组合，寓意存储技术的范式转变。公司总部位于加利福尼亚州Rancho Cordova，专注于企业级SSD产品，服务于服务器、云基础设施及数据中心市场。&lt;/p&gt;
-AI存储需求爆发，重估Solidigm价值
-&lt;p&gt;Solidigm估值从收购价的88.5亿美元跃升至潜在IPO估值的1500亿美元，核心驱动力在于AI基础设施建设对高容量存储的爆炸性需求。&lt;/p&gt;
-&lt;p&gt;随着AI模型训练与推理所需处理的数据量持续膨胀，数据中心对企业级SSD的需求大幅攀升。&lt;strong&gt;Solidigm的战略定位正是围绕这一趋势展开——公司着力开发面向AI应用的高容量存储产品，以差异化方案切入这一快速增长的市场。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI热潮已持续推高半导体及硬件股的整体估值，为Solidigm的上市窗口提供了有利的市场环境。投资者对AI基础设施相关标的的强烈需求，是Solidigm得以寻求高估值的重要前提。&lt;/p&gt;
-上市前动作频频，融资与建厂双线推进
-&lt;p&gt;在正式启动IPO流程之前，Solidigm已在多个层面积极布局。&lt;/p&gt;
-&lt;p&gt;据路透社本月早些时候报道，Solidigm正考虑在美国建设一座NAND闪存芯片工厂，纽约州北部是目前的主要候选地点，此举旨在扩大制造产能。这一计划与美国推动半导体本土化生产的政策方向高度契合，也有助于提升公司在美国资本市场的吸引力。&lt;/p&gt;
-&lt;p&gt;与此同时，SK海力士上月表示正在研究提升Solidigm竞争力的措施，此前有媒体报道称Solidigm正探索约5万亿韩元（约36亿美元）的IPO前融资轮。这一系列动作表明，SK海力士正系统性地为Solidigm的独立上市铺路，通过引入外部资本、强化知识产权整合与扩大制造布局，全面提升这一子公司的独立运营能力与市场估值基础。&lt;/p&gt;
-创纪录IPO，考验市场承接能力
-&lt;p&gt;&lt;strong&gt;若Solidigm最终以1500亿美元估值、150亿美元募资规模完成上市，将成为美股历史上规模最大的半导体IPO，也将是近年来全球科技股市场最重要的资本市场事件之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;作为参照，Arm Holdings 2023年上市时估值约540亿美元，Cerebras Systems 2026年IPO时完全稀释估值约560亿美元，Solidigm的目标估值分别是两者的约2.8倍和2.7倍。如此体量的发行，对市场的承接能力构成相当考验，最终定价将在很大程度上取决于届时AI基础设施投资热度能否持续，以及整体半导体板块的市场情绪。&lt;/p&gt;
-&lt;p&gt;目前，IPO的具体规模、时间表及承销行名单均尚未确定，Solidigm方面拒绝置评。这场有望改写半导体IPO历史的上市计划，仍处于早期筹备阶段。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸</title><link>https://wallstreetcn.com/articles/3782570</link><guid>3b3a1588c23a6beff9eed2283885fcb05097978ce8af88d6485e6d6a4607af74</guid><pubDate>Sat, 26 Sep 2026 00:38:13 GMT</pubDate><description>&lt;p&gt;美伊冲突在战争与和平之间徘徊，局势或再度滑向敌对状态。&lt;/p&gt;
-&lt;p&gt;周六，据媒体援引美国官员最新消息，&lt;strong&gt;特朗普已拒绝伊朗提出的7天停火方案，并向幕僚表示，他预计将在11月中期选举后恢复对伊朗的轰炸行动。&lt;/strong&gt;伊朗的停火提议原本包含重开霍尔木兹海峡、重启核谈判等条件，以换取美国解除对伊朗港口的封锁。&lt;/p&gt;
-&lt;p&gt;特朗普私下对伊朗是否能满足其要求持怀疑态度，已向幕僚表示，他认为恢复轰炸行动的可能性较大。然后，据央视新闻此前报道，一位美国官员透露，美伊双方目前仍在就霍尔木兹海峡开放及重启谈判等议题进行&amp;quot;积极且富有建设性&amp;quot;的讨论。&lt;/p&gt;
-&lt;p&gt;特朗普当前的立场表明，这场持续七个月的冲突所处的战和模糊状态，正向敌对方向倾斜。对于全球大宗商品市场而言，霍尔木兹海峡的通行前景及油价走势，将持续受到这场冲突走向的牵引。&lt;/p&gt;
-
-停火提议的核心条款
-
-&lt;p&gt;据知情人士透露，伊朗在上周日举行的卡塔尔会议上提出了这份7天停火方案。根据该方案，&lt;strong&gt;美国须解除海上封锁、解冻部分伊朗资产，并取消对伊朗石油出口的制裁；作为交换，伊朗将开放霍尔木兹海峡，并就核计划启动谈判。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国官员已向伊朗及相关调停方明确表态：特朗普无意解除海上封锁。美方的判断是，持续的经济压力将最终迫使德黑兰接受对华盛顿及波斯湾沿岸阿拉伯国家有利的协议条款。据美国官员表示，由美国主导的确保油轮穿越霍尔木兹海峡的行动已在一定程度上降低了各方达成协议的紧迫性。&lt;/p&gt;
-
-特朗普在战争与外交间反复横跳
-
-&lt;p&gt;特朗普在本届联合国大会上公开表示，他在对伊核问题上不会将政治因素纳入考量。&amp;quot;共和党正在参选，我会为他们助选，但我自己并不参选。在选举到来之前，我对伊朗问题绝不会、也不会给予任何政治上的考量，&amp;quot;他在纽约对各国领导人表示，&amp;quot;唯一的目标，就是伊朗永远不得拥有核武器。&amp;quot;&lt;/p&gt;
-&lt;p&gt;然而官员们指出，特朗普的立场并非铁板一块。自今年2月冲突爆发以来，这位总统在外交谈判、空袭命令与收紧制裁之间反复切换，且从未真正兑现他最强硬的威胁，包括&amp;quot;摧毁伊朗整个文明&amp;quot;的表述。官员们表示，随着战事延续，特朗普的立场可能随时改变，中期选举结果同样会对其决策产生影响。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在考虑恢复打击的同时，特朗普对全面重启大规模军事行动仍有顾虑&lt;/strong&gt;——部分原因在于美方希望为其他潜在冲突保留日益有限的弹药储备。据报道，其正在考量的打击规模目前尚无法确定。&lt;/p&gt;
-
-调停努力受阻，伊朗内部存在分歧
-
-&lt;p&gt;卡塔尔及其他地区调停方在联合国大会期间积极斡旋，试图重新激活美伊谈判。阿拉伯调停方透露，伊朗外交官已提出多项终战方案，并承认本国经济正面临日益严峻的困境。&lt;/p&gt;
-&lt;p&gt;然而，自今年2月战事爆发以来实际掌控伊朗的伊斯兰革命卫队态度强硬，表示不会接受新的协议框架，并声称已做好打持久战的准备。革命卫队的诉求是回归更接近特朗普6月与伊朗达成初步协议时的条款——该协议曾承诺为伊朗石油销售提供制裁豁免、允许获取被冻结资产，并承认德黑兰在霍尔木兹海峡管理中的地位，以换取该水道的开放。&lt;/p&gt;
-&lt;p&gt;美伊双方目前仍通过调停方保持间接接触，核问题谈判亦未完全中断。但在停火条件、核裁军要求与经济制裁三重分歧之下，谈判破局风险显著上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿波罗首席经济学家警告：美联储可能忽视了柴油价格风险</title><link>https://wallstreetcn.com/articles/3782576</link><guid>a8c341f8d5b900cc555e034f0a1d23ac5d8f9e243b8714a09d3c7546ffaea8ec</guid><pubDate>Sat, 26 Sep 2026 03:47:10 GMT</pubDate><description>&lt;p&gt;阿波罗全球管理公司首席经济学家Torsten Slok发出警告，创纪录的柴油价格对通胀构成的威胁，可能远超美联储目前的评估——因为柴油成本会渗透进核心消费者价格指数，而后者恰恰是美联储货币政策的核心参照指标。&lt;/p&gt;
+&lt;p&gt;哈佛医学院AI智能体研究员Marinka Zitnik认为，上述竞赛的密集涌现，折射出AI科学家能力的飞速进化。&lt;strong&gt;但她指出，真正的终极考验尚未到来——那将是一个AI系统独立作出突破性发现，并被经验丰富的科学家评定为&amp;quot;值得诺贝尔奖&amp;quot;的那一天。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿波罗首席经济学家警告：美联储可能忽视了柴油价格风险</title><link>https://wallstreetcn.com/articles/3782576</link><guid>a8c341f8d5b900cc555e034f0a1d23ac5d8f9e243b8714a09d3c7546ffaea8ec</guid><pubDate>Sat, 26 Sep 2026 03:47:10 GMT</pubDate><description>&lt;p&gt;阿波罗全球管理公司首席经济学家Torsten Slok发出警告，创纪录的柴油价格对通胀构成的威胁，可能远超美联储目前的评估——因为柴油成本会渗透进核心消费者价格指数，而后者恰恰是美联储货币政策的核心参照指标。&lt;/p&gt;
 &lt;p&gt;Slok周五在彭博电视《Surveillance》节目中表示，&lt;strong&gt;柴油相关运输成本的传导路径与汽油截然不同。由于运输商品对零售供应链乃至数据中心建设均不可或缺，需求价格弹性极低，价格上涨最终将转嫁至企业和消费者。&lt;/strong&gt;“柴油价格上涨，实际上是进入了CPI篮子中能源项以外的其他分项，”他说。&lt;/p&gt;
 &lt;p&gt;这一表态与美联储内部的分歧形成呼应。芝加哥联储主席Austan Goolsbee本周警告称，央行不能忽视反复出现且持续存在的供给冲击，&amp;quot;一旦供给冲击引发的通胀变得持续，&amp;#x27;看穿&amp;#x27;逻辑的部分依据便不再成立。&amp;quot;目前美国通胀仍远高于美联储2%的目标，货币政策走向面临更大不确定性。&lt;/p&gt;
 柴油冲击核心通胀，传统框架面临挑战
