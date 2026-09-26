@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 11:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 26 Sep 2026 11:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛测算：“AI第二阶段”的“资本缺口”要怎么补？</title><link>https://wallstreetcn.com/articles/3782577</link><guid>5fe6d7f1515ae2b9051393efdd0b73297763297700c21d9d87041add0a5c3434</guid><pubDate>Sat, 26 Sep 2026 03:53:27 GMT</pubDate><description>&lt;p&gt;超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&amp;quot;花多少&amp;quot;的争论，转向&amp;quot;能赚回多少&amp;quot;的核心命题。&lt;/p&gt;
 &lt;p&gt;高盛最新研究显示，六大超大规模云计算企业若要在2026至2027年约1.73万亿美元的AI算力资本支出上实现15%的投入资本回报率（ROIC），&lt;strong&gt;需在2028至2030年间累计创造约1.42万亿美元的收入。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛互联网与科技团队负责人Eric Sheridan在报告中指出，当前市场争论的焦点已从近期支出规模本身，转向这轮巨额投资能否在未来三年内产生可观回报。与此同时，云计算积压订单数据提供了一定支撑——截至2026年第二季度，AWS、Azure和谷歌云合计积压订单约1.69万亿美元，同比增长152%，为收入目标的可实现性提供了初步背书。&lt;/p&gt;
 &lt;p&gt;然而，高盛框架之外的变量同样不容忽视。约3万亿美元的表外承诺并未纳入ROIC分母，GPU和算力定价的持续下行压力已有所显现，而规模更为庞大的&amp;quot;第三阶段&amp;quot;资本支出（2028至2030年约4.14万亿美元）的回报问题，则被高盛明确留待另行讨论。&lt;/p&gt;
@@ -30,7 +30,22 @@
 &lt;p&gt;&lt;strong&gt;高盛在报告中坦承了自身框架的局限性。其ROIC测算明确排除了表外租赁义务、融资租赁、特殊目的载体（SPV）及第三方算力许可安排。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这并非小注脚。据相关数据，AI领域表外承诺规模已达约3万亿美元，且仍在快速增长。这部分承诺同样需要产生回报或至少得到偿付，信贷市场已对此有所反应。&lt;/p&gt;
 &lt;p&gt;此外，高盛的框架仅覆盖第二阶段。若将同样的收入/资本支出比率（约0.82倍）粗略应用于约4.14万亿美元的第三阶段预测，超大规模云计算企业在第二阶段1.42万亿美元收入目标之上，还需额外创造约3.4万亿美元的收入。BCA Research的Peter Berezin更进一步指出，若数据中心支出维持当前水平，可能需要每年高达10万亿美元的AI收入，才能使全部资本支出实现货币化。&lt;/p&gt;
-&lt;p&gt;高盛对六家企业均维持&amp;quot;买入&amp;quot;评级，并将近期回报压缩定性为&amp;quot;大规模前期投资周期的自然结果，而非AI经济结构性不佳的证据&amp;quot;。但这一表述，在多头和空头的叙事框架中均同样成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 即便油价下跌，30年期美债收益率依旧突破了5.5%</title><link>https://wallstreetcn.com/articles/3782571</link><guid>56c847e19804c18974a75cee080e3b83a287fab8d25cb79860825a48062d17f5</guid><pubDate>Sat, 26 Sep 2026 01:12:28 GMT</pubDate><description>&lt;p&gt;在缺乏明确技术支撑的&amp;quot;真空&amp;quot;环境下，长端美债收益率自我强化上行，与油价走势背道而驰。&lt;/p&gt;
+&lt;p&gt;高盛对六家企业均维持&amp;quot;买入&amp;quot;评级，并将近期回报压缩定性为&amp;quot;大规模前期投资周期的自然结果，而非AI经济结构性不佳的证据&amp;quot;。但这一表述，在多头和空头的叙事框架中均同样成立。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 海外资金疯买美股！过去12个月净流入9420亿美元，创1985年以来纪录</title><link>https://wallstreetcn.com/articles/3782588</link><guid>a12fc2efc226fc474ff5208f35d2f4aea16272d3b9112cde0134b7f38d5f9e7a</guid><pubDate>Sat, 26 Sep 2026 11:29:00 GMT</pubDate><description>&lt;p&gt;海外资金正以前所未有的规模涌入美国股市，同期对美国债券的需求却明显降温，这一结构性转变正在重塑全球资本流动格局。&lt;/p&gt;
+&lt;p&gt;据美国财政部数据，&lt;strong&gt;截至今年7月的过去12个月，海外投资者对美国股票及投资基金份额的净购买额达到9420亿美元，创下1985年有记录以来最高的滚动12个月总量。&lt;/strong&gt;美国经济分析局数据显示，&lt;strong&gt;今年第二季度单季净购买额跳升至4260亿美元，较2025年同期大涨62%，并刷新此前2022年创下的2990亿美元单季纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此形成对比的是，海外投资者对美国债券的需求同期出现回落——第二季度净购买美国债券1880亿美元，低于第一季度的3140亿美元。&lt;/p&gt;
+
+第二季度净买入创纪录，7月势头趋缓
+
+&lt;p&gt;从月度数据来看，海外资金买入美股的势头在第二季度持续加速——4月净买入1100亿美元，6月升至1820亿美元，但7月大幅回落至37亿美元，尽管如此，海外投资者仍连续第六个月保持净买入状态。&lt;/p&gt;
+&lt;p&gt;上述资金流入与美股同期强劲表现相互印证。截至7月的过去12个月，美股基准指数标普500上涨约20%，闪迪、西部数据及英特尔等科技股涨幅居前。第二季度标普500单季上涨14.9%——此前该指数曾因伊朗战争爆发而急剧下跌，但跌势短暂——这是该指数自2020年同期以来的最佳单季表现。&lt;/p&gt;
+&lt;p&gt;对外关系委员会高级研究员Brad Setser指出，第二季度买入额的异常放大，部分原因可能是此前第一季度较弱买入量的延后反映，但更宏观的趋势仍是海外对美股的持续创纪录买入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setser将韩国股市的强劲上涨列为重要驱动因素之一。&lt;/strong&gt;随着三星、海力士等个股大幅上涨，当地投资者触及集中度限制，被迫转向美股等全球资产进行分散配置。&amp;quot;你很少看到韩国单方向流出超过2000亿美元进入全球股市，而且大部分流向美股，&amp;quot;Setser说，&amp;quot;这种资金流动模式的转变，与美元背景下超常规的资金流入高度吻合。&amp;quot;&lt;/p&gt;
+
+美股受追捧，美债需求承压
+
+&lt;p&gt;Setser同时提示了这一趋势的另一面：&lt;strong&gt;在美国财政赤字持续扩大的背景下，海外资金对美国国债的需求却在减弱，这给美国债务融资带来潜在压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;感觉整个世界都对美国股票极度看好，&amp;quot;Setser说。&lt;/p&gt;
+&lt;p&gt;这一局面对债券市场而言并非利好信号。海外需求向股票倾斜、从国债撤出，意味着美国政府在发行大量债务之际，需要依赖更多国内买家或承受更高融资成本来消化供给。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 即便油价下跌，30年期美债收益率依旧突破了5.5%</title><link>https://wallstreetcn.com/articles/3782571</link><guid>56c847e19804c18974a75cee080e3b83a287fab8d25cb79860825a48062d17f5</guid><pubDate>Sat, 26 Sep 2026 01:12:28 GMT</pubDate><description>&lt;p&gt;在缺乏明确技术支撑的&amp;quot;真空&amp;quot;环境下，长端美债收益率自我强化上行，与油价走势背道而驰。&lt;/p&gt;
 &lt;p&gt;美国长端国债收益率正在展现出独立于传统驱动因素之外的上行动能。在一个充满压力的交易周收官之际，30年期美债收益率突破5.5%，创下2004年以来新高，而当日油价却同步下跌——这一背离信号令市场警觉。&lt;/p&gt;
 &lt;p&gt;周五，30年期美债收益率盘中最高上涨5个基点至5.53%，收盘维持在5.49%上方，较前一日上涨约2个基点。10年期美债收益率同样刷新多年高位，突破5.22%。值得注意的是，30年期收益率在今年7月初时尚低于5%，短短数月内已大幅攀升逾50个基点。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -267,7 +282,28 @@
 &lt;p&gt;非常感谢邀请我们。&lt;/p&gt;
 &lt;p&gt;Daniel Newman｜29:22&lt;/p&gt;
 &lt;p&gt;也感谢各位参加 Six Five Summit 2026 的“半导体聚焦”专场。请继续关注、订阅，并观看我们其他的 Six Five Summit 讨论。感谢大家的参与，敬请期待下一场。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “Agent vs 美债”——谁将主导美股？</title><link>https://wallstreetcn.com/articles/3782574</link><guid>ff7cdbffb4766f194ed3ca890e97373bf89c18b25fe3ca15d153aaf3dbe2c8a0</guid><pubDate>Sat, 26 Sep 2026 02:22:58 GMT</pubDate><description>&lt;p&gt;AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta AI主管Alexandr Wang：为何我要做Muse</title><link>https://wallstreetcn.com/articles/3782587</link><guid>4fff83b6ed34d8b6476ad8b8dd311323e4fbeee365c5794b26f8743a4d7a60a6</guid><pubDate>Sat, 26 Sep 2026 11:50:41 GMT</pubDate><description>&lt;p&gt;Meta首席AI官Alexandr Wang近日发表公开信，阐述其主导构建Muse AI助手背后的核心理念——让每一个普通人都能实现自己的梦想。这封信与Muse的强劲市场表现一同出现在公众视野中，进一步巩固了外界对这笔高达140亿美元收购交易价值的判断。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Muse自上线以来势头迅猛。据Sensor Tower数据，该应用在美国和加拿大App Store上线首12天内累计下载量达280万次，超越ChatGPT同期130万次的成绩，并于9月19日创下单日26.4万次下载的美国纪录。受此提振，Meta过去五个交易日市值增加约2340亿美元。&lt;/p&gt;
+&lt;p&gt;Wang在公开信中写道，大多数人从未说出自己真正想要什么——不是因为没有渴望，而是因为梦想往往在繁琐的现实障碍中悄然消亡。他将Muse定位为每个人的&amp;quot;第二大脑&amp;quot;，&lt;strong&gt;一个能够听懂半句话、帮人制定计划、发送邮件、寻找资金、清除障碍的&amp;quot;全能经理人&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+一封关于&amp;quot;渴望&amp;quot;的公开信
+&lt;p&gt;Wang在信中以近乎文学化的笔触描述了人类梦想的困境：&amp;quot;每一个未实现的渴望，都是人类潜能的一场无声悲剧。&amp;quot;他写道，世界长期以来由少数&amp;quot;以某种方式将渴望变为现实的狂热者&amp;quot;所塑造，而Muse的使命，是让80亿人中的每一个人都能真正开启自己的能动性。&lt;/p&gt;
+&lt;p&gt;在他的构想中，Muse并非一个许愿的精灵，而是一个务实的执行者——&amp;quot;告诉你，这是你一生梦寐以求的事，我们去实现它，方法如下&amp;quot;，然后付诸行动。&lt;/p&gt;
+&lt;p&gt;这封信的发布时间，恰在Meta Connect 2026大会结束后不久。在那场发布会上，Meta推出了Muse Charm——一款专为语音交互设计的独立口袋设备，以及重量仅100克、售价1299美元的Meta VR眼镜，以及起售价249美元的第三代Ray-Ban Meta Gen 3智能眼镜等一系列硬件产品。&lt;/p&gt;
+从Scale AI到Meta：一笔争议收购的回报
+&lt;p&gt;Wang加入Meta的方式本身颇具戏剧性。&lt;strong&gt;2025年，Meta创始人马克·扎克伯格以143亿美元收购了热门AI初创公司Scale AI的全体员工，Wang作为Scale AI创始人，据报道个人获得约50亿美元。这笔交易在当时被部分市场人士视为天价之举。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wang是Scale AI的联合创始人，该公司专注于为AI模型训练提供数据标注服务，曾是硅谷估值最高的AI基础设施公司之一。2025年Meta完成对Scale AI的收购后，Wang出任Meta首席AI官，主导公司AI产品战略。&lt;/p&gt;
+&lt;p&gt;科技投资人Adam Khoo在X平台上写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;当时人们认为扎克伯格疯了，花50亿美元雇用Alexandr Wang。如今，在Wang领导下开发的Meta新AI产品为公司市值增加了约2000亿美元。突然间，花重金锁定顶尖人才看起来并不那么疯狂。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这笔收购在战略层面的意义同样深远。&lt;strong&gt;这笔交易有效扭转了外界对Meta在AI领域落后的印象，使其从&amp;quot;追赶者&amp;quot;转变为&amp;quot;领跑者&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+迷彩T恤与$30的穿搭哲学
+&lt;p&gt;如果说Muse是Wang在产品层面的表达，那么他在Meta Connect 2026舞台上的着装，则意外成为另一种个人符号的输出。&lt;/p&gt;
+&lt;p&gt;Wang当天身穿一件印有鹿头图案的1990年代风格迷彩T恤，搭配迷彩Crocs和黑色长裤登台演讲。发布会结束后，这身打扮迅速在X平台引发热议，有用户猜测那件T恤是价值800美元的爱马仕单品。&lt;/p&gt;
+&lt;p&gt;Wang随即出面&amp;quot;澄清&amp;quot;，称那件衬衫来自圣克鲁斯的一家二手店，花了他30美元，Crocs约60美元，Calvin Klein内裤5美元。他将外界的奢侈品猜测定性为&amp;quot;诽谤&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据Business Insider报道，这并非Wang第一次穿着类似的鹿/迷彩风格出镜——他在此前的Core Memory采访和重要内部会议上均有类似装扮。这种&amp;quot;反精英&amp;quot;的穿搭风格，与他在X平台上以&amp;quot;推文炮&amp;quot;自称、持续用表情包轰炸式推广Muse的网络人设高度吻合，也被部分观察者视为他有意构建的品牌形象：去除企业精英的光泽，保留创始人的混乱能量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “Agent vs 美债”——谁将主导美股？</title><link>https://wallstreetcn.com/articles/3782574</link><guid>ff7cdbffb4766f194ed3ca890e97373bf89c18b25fe3ca15d153aaf3dbe2c8a0</guid><pubDate>Sat, 26 Sep 2026 02:22:58 GMT</pubDate><description>&lt;p&gt;AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。&lt;/p&gt;
 &lt;p&gt;本周，Meta发布旗下Agentic AI模型Muse，单周市值暴增2200亿美元，推动纳斯达克100指数成为表现最强的主要股指。但与此同时，美债收益率持续走高，将利率敏感型资产打入低谷——罗素2000指数显著落后，标普500指数在7700点附近反复拉锯，始终无法实现有效突破。&lt;/p&gt;
 &lt;p&gt;市场的内部分化已达到极端程度。若剔除AI相关标的，标普500本周实际下跌约1%；纽交所新低股票数量连续9个交易日超过新高股票数量，为2023年10月以来最长连跌纪录。&lt;/p&gt;
 &lt;p&gt;高盛全球对冲基金业务负责人Tony Pasquariello将当前局面定性为&lt;strong&gt;股市与利率市场之间&amp;quot;令人沮丧的猫鼠游戏&amp;quot;，并给出明确建议：若坚持持有股票多头，需同步做空美债以对冲利率风险。&lt;/strong&gt;&lt;/p&gt;
