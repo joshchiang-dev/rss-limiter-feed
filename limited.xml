@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 27 Sep 2026 11:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] “网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”</title><link>https://wallstreetcn.com/articles/3782602</link><guid>275f272ebb58f5143c6d3a11c4de12a8ec2f3982208a21495055094f2719ee62</guid><pubDate>Sun, 27 Sep 2026 11:22:01 GMT</pubDate><description>&lt;p&gt;在市场沉浸于AI超大型云厂商无休止资本支出预期的狂热中，资深分析师一针见血地指出：长达十年的需求能见度不过是“弥天大谎”，而真正扼住AI咽喉的，早已不是单纯的GPU数量，而是昂贵的存储账单、落后的电网以及被忽视的ABF载板环节。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 27 Sep 2026 11:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] “网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”</title><link>https://wallstreetcn.com/articles/3782602</link><guid>275f272ebb58f5143c6d3a11c4de12a8ec2f3982208a21495055094f2719ee62</guid><pubDate>Sun, 27 Sep 2026 11:22:01 GMT</pubDate><description>&lt;p&gt;在市场沉浸于AI超大型云厂商无休止资本支出预期的狂热中，资深分析师一针见血地指出：长达十年的需求能见度不过是“弥天大谎”，而真正扼住AI咽喉的，早已不是单纯的GPU数量，而是昂贵的存储账单、落后的电网以及被忽视的ABF载板环节。&lt;/p&gt;
 &lt;p&gt;9月26日，在最新一期的Logan Jastremski播客节目中，长期跟踪AI基础设施建设的匿名分析师、P Equity Research背后的操刀人Mr. P作为嘉宾出席。当前，以大模型为核心的AI战局正从模型参数比拼延伸至底层基础设施的终极角力，超大型云厂商（Hyperscaler）每年数以万亿计的资本支出去向，成为全球投资者最关注的焦点。在这场超过一小时的深度对谈中，Mr. P基于详实的数据与产业链调研，对AI算力缺口、存储大周期、光电之争以及地缘博弈等核心议题给出了冷思考与去魅化解读。&lt;/p&gt;
 “十年需求能见度是谎言”，存储仍难逃繁荣与萧条的周期宿命
 &lt;p&gt;过去一段时间，市场笃信AI带来的硬件投资将是一场永不枯竭的超级周期，甚至有声音称云厂商的订单能见度长达十年。对此，Mr. P给出了极为克制的判断。&lt;/p&gt;
@@ -651,7 +651,31 @@ Muse为何能“一出手就是全垒打”
 &lt;p&gt;我认为，所有实验室都会有非常强的内在动力把这件事做对。如果把激励机制和&amp;quot;极度有价值且安全&amp;quot;这个目标对齐，那就是关键所在。&lt;/p&gt;
 &lt;p&gt;主持人： 非常感谢您在这个重要的一周抽出时间。&lt;/p&gt;
 &lt;p&gt;马克： 谢谢您，谢谢。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 去宁德化之后：重新理解宁德时代的竞争壁垒</title><link>http://xueqiu.com/3549373056/410646989</link><guid>e769b458ed18c87f266f748b695be627110e86b9bd8456e216bf97bb56067ce3</guid><pubDate>Sun, 27 Sep 2026 06:53:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;DreamDAY618&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;文笔不好，用语音记录之后，发给AI帮我整理了一下。最近去宁德化很火，我也来表达一下我的观点。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情</title><link>https://wallstreetcn.com/articles/3782600</link><guid>1f2a07b763b9921f66a75d10ad4af86f60362041282711430a98e6831ffd5f72</guid><pubDate>Sun, 27 Sep 2026 08:22:50 GMT</pubDate><description>&lt;p&gt;高盛集团合伙人 Mark Wilson 日前指出，全球股市在年底前正面临日益清晰的上行机遇。市场当前已充分定价了滞胀风险，随着更为温和的“金发姑娘”经济情境逐步显现，投资者无需等待美国中期选举结束，即可重返市场参与风险资产投资。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑客盯上AI“金矿”：盗账号、劫云算力，AI资源正成为网络犯罪新生意</title><link>https://wallstreetcn.com/articles/3782604</link><guid>9721e71e590e403a342c2fb7741d11e3fb6dfec46478536f54133e5fa2782b34</guid><pubDate>Sun, 27 Sep 2026 11:47:57 GMT</pubDate><description>&lt;p&gt;AI账号和算力，正在成为网络犯罪地下市场最炙手可热的商品。黑客们盯上了价格高昂的大型语言模型，将其用于勒索、网络战和间谍活动。&lt;/p&gt;
+&lt;p&gt;近日，谷歌威胁情报集团（Google Threat Intelligence Group）首席分析师John Hultquist在接受英国《金融时报》采访时表示，今年以来，针对AI账号和计算资源的黑客攻击出现明显增长，一种被称为“LLM劫持”（LLM-jacking）的新型攻击手法正在网络犯罪地下世界形成规模。&lt;/p&gt;
+&lt;p&gt;暗网市场正在出售Anthropic、谷歌、OpenAI等公司AI模型的访问权限，折扣高达97%。与此同时，犯罪团伙和国家支持的黑客组织正入侵企业云服务器，植入自己的AI模型“白嫖”算力，手法与此前劫持他人机器挖矿如出一辙。&lt;/p&gt;
+&lt;p&gt;“我们在地下市场看到的，是一个围绕AI访问权限不断壮大的经济体。”这位拥有20年网络安全从业经验的分析师说。&lt;/p&gt;
+暗网折扣高达97%，AI账号买卖成灰色产业
+&lt;p&gt;据谷歌威胁情报集团研究人员发现，暗网市场正在出售Anthropic、谷歌、OpenAI等公司AI模型的访问权限，折扣幅度高达97%。&lt;/p&gt;
+&lt;p&gt;要知道，ChatGPT和Claude最高级版本的订阅费用，每位用户每月最高可达200美元。&lt;/p&gt;
+&lt;p&gt;更值得注意的是，由于AI公司会主动监控滥用迹象，部分卖家甚至推出了“保障访问”服务——一旦初始账号被封，承诺免费补发新凭证。这套机制让黑色产业链的运转更加稳定。&lt;/p&gt;
+劫持云服务器“白嫖”算力
+&lt;p&gt;除了倒卖账号，另一类攻击更为直接，Hultquist透露：&lt;/p&gt;
+&lt;p&gt;部分犯罪团伙和国家背景黑客组织，正在入侵企业云托管服务器，将自己的AI模型直接部署在目标系统上运行——费用由受害者承担，算力为攻击者所用。&lt;/p&gt;
+&lt;p&gt;这与早年黑客入侵他人机器“挖矿”的逻辑如出一辙。&lt;/p&gt;
+防守方面临“成本不对等”困境
+&lt;p&gt;Hultquist指出，这种攻击模式的危险性，不仅在于技术层面，更在于经济层面的失衡。&lt;/p&gt;
+&lt;p&gt;“说到底，这些行为给了他们一种经济或效率上的优势——因为他们能以低得多的成本拿到这些算力，而我们却要付全价来防守。”他说。&lt;/p&gt;
+&lt;p&gt;Anthropic最新季度的AI滥用报告显示，已在超过&lt;strong&gt;二十个国家&lt;/strong&gt;发现威胁行为者试图利用其Claude工具从事恶意活动，涉及国家包括美国、英国和也门。&lt;/p&gt;
+&lt;p&gt;Hultquist对此态度直接：“每一个威胁行为者都在用AI。”&lt;/p&gt;
+新风险窗口：AI上线初期是最佳“藏身”时机
+&lt;p&gt;随着越来越多大型企业选择自建服务器部署定制AI模型，而非租用云服务商算力，这些内部系统也将成为新的攻击目标。&lt;/p&gt;
+&lt;p&gt;Hultquist警告：“如果你在为算力付钱——而这可能非常昂贵——那它就成了威胁行为者眼中的重大潜在资源。”&lt;/p&gt;
+&lt;p&gt;他还指出，企业刚刚完成AI基础设施部署的阶段，恰恰是黑客“潜入”的最佳时机。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你可能会觉得算力使用量突然大幅上升完全正常，因为你刚刚引入了一堆AI基础设施。这给了攻击者一个藏在噪音里的真实机会。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他最后警告：“任何认为AI只是一阵风、想等它过去的人，总有一天会发现自己已经溺水。他们将遭遇比以往更多的事故、更多的告警、更多的攻击。我们必须现在就把自己的阵地整理好。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 去宁德化之后：重新理解宁德时代的竞争壁垒</title><link>http://xueqiu.com/3549373056/410646989</link><guid>e769b458ed18c87f266f748b695be627110e86b9bd8456e216bf97bb56067ce3</guid><pubDate>Sun, 27 Sep 2026 06:53:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;DreamDAY618&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;文笔不好，用语音记录之后，发给AI帮我整理了一下。最近去宁德化很火，我也来表达一下我的观点。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情</title><link>https://wallstreetcn.com/articles/3782600</link><guid>1f2a07b763b9921f66a75d10ad4af86f60362041282711430a98e6831ffd5f72</guid><pubDate>Sun, 27 Sep 2026 08:22:50 GMT</pubDate><description>&lt;p&gt;高盛集团合伙人 Mark Wilson 日前指出，全球股市在年底前正面临日益清晰的上行机遇。市场当前已充分定价了滞胀风险，随着更为温和的“金发姑娘”经济情境逐步显现，投资者无需等待美国中期选举结束，即可重返市场参与风险资产投资。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;近期市场的价格走势正印证这一乐观预期，AI带来的“错失恐惧症”（FOMO）已重返市场。&lt;/strong&gt;在 Meta 发布 Muse 产品后，市场对 AI 大规模向消费者普及的时间表预期显著加速，推动纳斯达克指数等 AI 主题资产在经历三个月的盘整以及二季度历史性大涨后的仓位削减后，于本周一实现了强势的向上突破。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与此同时，美国债券收益率再度走高。&lt;/strong&gt;与此前由政府和 AI 资本支出引发的资金竞争，或能源价格引发的通胀压力不同，本轮收益率攀升主要受到强于预期的采购经理人指数（PMI）等数据支撑，反映出美国名义经济增长持续强劲，且股市在收益率大幅波动的背景下依然顶住压力维持了涨势。&lt;/p&gt;
 &lt;p&gt;当前市场普遍担忧，长达七个月的美国十年期国债收益率连涨（创五十年来最长纪录）将最终拖累股市，且投资者倾向于在海湾局势降温和中期选举安全渡过后才愿意重新增加风险敞口。&lt;strong&gt;然而，高盛的分析打破了这一共识，指出通胀、经济增长与企业盈利三大基本面的实质性改善，正为年底的股市反弹提供坚实基础。&lt;/strong&gt;&lt;/p&gt;
