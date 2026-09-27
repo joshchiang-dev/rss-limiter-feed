@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 27 Sep 2026 13:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] “网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”</title><link>https://wallstreetcn.com/articles/3782602</link><guid>275f272ebb58f5143c6d3a11c4de12a8ec2f3982208a21495055094f2719ee62</guid><pubDate>Sun, 27 Sep 2026 11:22:01 GMT</pubDate><description>&lt;p&gt;在市场沉浸于AI超大型云厂商无休止资本支出预期的狂热中，资深分析师一针见血地指出：长达十年的需求能见度不过是“弥天大谎”，而真正扼住AI咽喉的，早已不是单纯的GPU数量，而是昂贵的存储账单、落后的电网以及被忽视的ABF载板环节。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 27 Sep 2026 13:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] “网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”</title><link>https://wallstreetcn.com/articles/3782602</link><guid>275f272ebb58f5143c6d3a11c4de12a8ec2f3982208a21495055094f2719ee62</guid><pubDate>Sun, 27 Sep 2026 11:22:01 GMT</pubDate><description>&lt;p&gt;在市场沉浸于AI超大型云厂商无休止资本支出预期的狂热中，资深分析师一针见血地指出：长达十年的需求能见度不过是“弥天大谎”，而真正扼住AI咽喉的，早已不是单纯的GPU数量，而是昂贵的存储账单、落后的电网以及被忽视的ABF载板环节。&lt;/p&gt;
 &lt;p&gt;9月26日，在最新一期的Logan Jastremski播客节目中，长期跟踪AI基础设施建设的匿名分析师、P Equity Research背后的操刀人Mr. P作为嘉宾出席。当前，以大模型为核心的AI战局正从模型参数比拼延伸至底层基础设施的终极角力，超大型云厂商（Hyperscaler）每年数以万亿计的资本支出去向，成为全球投资者最关注的焦点。在这场超过一小时的深度对谈中，Mr. P基于详实的数据与产业链调研，对AI算力缺口、存储大周期、光电之争以及地缘博弈等核心议题给出了冷思考与去魅化解读。&lt;/p&gt;
 “十年需求能见度是谎言”，存储仍难逃繁荣与萧条的周期宿命
 &lt;p&gt;过去一段时间，市场笃信AI带来的硬件投资将是一场永不枯竭的超级周期，甚至有声音称云厂商的订单能见度长达十年。对此，Mr. P给出了极为克制的判断。&lt;/p&gt;
@@ -674,32 +674,4 @@ Muse为何能“一出手就是全垒打”
 &lt;p&gt;市场此前一直试图为经济增长和盈利的显著放缓以及更高的利率定价，但宏观数据并不支持这一完美的“滞胀”叙事。相反，增长放缓、通胀威胁下降、央行立场软化以及经历了一年的估值下调，共同构成了一个有利的市场组合。&lt;/p&gt;
 &lt;p&gt;高盛认为，当前的局面与上世纪90年代中后期重大技术变革时期的市场多空博弈极为相似。&lt;/p&gt;
 &lt;p&gt;如果市场最终迎来的是“金发姑娘”情境（即经济增长恰到好处，既不过热引发通胀，也不过冷导致衰退），那么历史数据显示的中期选举后年底股市反弹的规律依然适用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mark Wilson 总结称，投资者不应等待中期选举结束才采取行动，且随着能源价格威胁的消退，欧洲和英国股市也已具备参与本轮上涨的良好条件。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 汽油价格飙升，欧洲电车销量激增，8月增速超50%</title><link>https://wallstreetcn.com/articles/3782593</link><guid>8cb8419083b29ef89b5d65edab7d167c3d60d295d3dea1ddadf23d71be137f41</guid><pubDate>Sun, 27 Sep 2026 01:49:28 GMT</pubDate><description>&lt;p&gt;油价飙升正在做到多年政策未能做到的事——让欧洲消费者大规模转向电动车。&lt;/p&gt;
-&lt;p&gt;欧洲8月纯电动汽车注册量同比激增52%，创下近年来最强劲的单月增速。这一数字背后，是汽油价格持续攀升带来的真实经济压力。&lt;/p&gt;
-&lt;p&gt;据彭博报道，欧洲汽车制造商协会（EACEA）周四公布的数据显示，德国市场增幅达75%，法国销量则同比翻倍以上。整体来看，截至8月，欧洲每三辆新车中已有逾一辆带有充电插头，而去年同期这一比例仅略高于四分之一。&lt;/p&gt;
-&lt;p&gt;Stellantis旗下雪铁龙品牌负责人Xavier Chardon在接受采访时表示：“当油价上涨，运营成本的问题对消费者来说变得非常具体。购买电动车不再是一种技术选择，而是一种经济选择。”&lt;/p&gt;
-油价创纪录，成为最强劲的“转型催化剂”
-&lt;p&gt;推动这波需求激增的核心因素，是化石燃料成本的急剧上升。&lt;/p&gt;
-&lt;p&gt;据彭博报道，美以对伊朗的军事行动正在扰乱霍尔木兹海峡的油轮通行，导致德国汽油均价升至每升2.31欧元的历史高位，折合每加仑约10美元。柴油价格更贵——乌克兰对俄罗斯炼油厂的持续打击压缩了全球供应。&lt;/p&gt;
-&lt;p&gt;柴油为欧洲约30%的汽车提供动力。市场目前还在猜测，特朗普政府可能限制美国柴油出口以缓解国内价格压力，这一预期令欧洲柴油价格面临进一步上行风险。&lt;/p&gt;
-&lt;p&gt;对于普通家庭而言，冲击已经相当直接。欧洲主要市场的燃油价格较此前上涨逾四分之一，令本已捉襟见肘的家庭雪上加霜。&lt;/p&gt;
-&lt;p&gt;法国北部海岸渔民Charles Rivière对此深有体会。这位54岁的渔民表示，往返巴黎的油费大幅上涨，迫使他不得不提高接单门槛。&lt;/p&gt;
-&lt;p&gt;“以前有12到13个巴黎客户我就能盈利，”Rivière说，“现在没有至少20个订单我就不去，而且客户越来越少。不去的时候，我的收入就是零。”&lt;/p&gt;
-消费者开始用脚投票
-&lt;p&gt;油价高企让电动车的经济优势愈发突出。&lt;/p&gt;
-&lt;p&gt;据比价网站Verivox的分析，在德国，中高档电动车在家充电的成本目前比同级别燃油车低约70%。&lt;/p&gt;
-&lt;p&gt;与此同时，车企也在加速推出更亲民的车型。雷诺的Twingo E-Tech城市电动车起售价19,490欧元（约合22,353美元），大众旗下斯柯达Elroq紧凑型SUV售价37,890欧元。&lt;/p&gt;
-&lt;p&gt;政府补贴同样在发力。德国对收入低于一定门槛的购车者提供最高6,000欧元的补贴；法国则推出了月供低于100欧元的购车方案，适用于雪铁龙ë-C3等车型。&lt;/p&gt;
-&lt;p&gt;续航焦虑也在消退。福特Capri长续航版电动SUV单次充电可行驶逾600公里，与沃尔沃EX60中配版相当。&lt;/p&gt;
-繁荣背后，欧洲车企仍深陷困境
-&lt;p&gt;然而，这波迟来的电动车热潮对欧洲传统车企而言并非全然利好。&lt;/p&gt;
-&lt;p&gt;此前，需求波动和美国监管政策的骤然转向，已令各大车企损失数百亿欧元。Stellantis去年为此计提了创纪录的254亿欧元减值损失，特朗普政府的电动车政策逆转更令其雪上加霜。&lt;/p&gt;
-&lt;p&gt;大众作为欧洲最大汽车制造商，正推进将全球裁员规模翻倍至10万人的计划。据报道，大众周五还因中国市场大幅萎缩，下调了今年的盈利预期。&lt;/p&gt;
-中国品牌趁势扩张
-&lt;p&gt;欧洲车企的困境，正在为中国品牌打开更大的空间。&lt;/p&gt;
-&lt;p&gt;据数据公司Dataforce周三公布的数据，中国品牌8月在欧洲新车销售中的份额升至近12%，创历史新高。比亚迪旗下入门级城市电动车Dolphin Surf在欧洲起售价22,990欧元，并在意大利向消费者提供最高11,600欧元的折扣。&lt;/p&gt;
-油价政治化，各国政府被迫出手
-&lt;p&gt;创纪录的油价正在重塑欧洲政治议程。&lt;/p&gt;
-&lt;p&gt;在德国，总理Friedrich Merz领导的执政联盟支持率持续下滑，联邦及各州政府上周联合推出了一项25亿欧元的驾车者和企业救助方案。在意大利，总理Giorgia Meloni的政府本月宣布削减车辆持有税，时间节点恰在明年大选之前。&lt;/p&gt;
-&lt;p&gt;法国的社会压力同样在积聚。过去一周，渔民封锁了地中海沿岸多个港口和一处燃油仓库，北部部分加油站遭到破坏。&lt;/p&gt;
-&lt;p&gt;独立加油站站主Jacques Vaysse表示：“司机们不再把油箱加满了。除非政府削减燃油税，否则将会有社会动荡。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Mark Wilson 总结称，投资者不应等待中期选举结束才采取行动，且随着能源价格威胁的消退，欧洲和英国股市也已具备参与本轮上涨的良好条件。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
