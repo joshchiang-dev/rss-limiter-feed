@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 28 Sep 2026 19:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板、科创50均跌超4%，算力硬件下挫，“易中天”集体大跌，恒指震荡收涨0.51%，权重科网股活跃</title><link>https://wallstreetcn.com/articles/3782625</link><guid>a65eb5e8baec3fc9f834e29db29cd41a9b25aa00cb85e3b4db78a647aeccdee1</guid><pubDate>Mon, 28 Sep 2026 08:18:10 GMT</pubDate><description>&lt;p&gt;A股科技成长与高位题材集体退潮，算力硬件股全线下挫，CPO、PCB等概念股大跌，因国庆长假前市场流动性退潮，叠加高位科技股估值修复和，资金避险情绪升温。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 28 Sep 2026 19:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板、科创50均跌超4%，算力硬件下挫，“易中天”集体大跌，恒指震荡收涨0.51%，权重科网股活跃</title><link>https://wallstreetcn.com/articles/3782625</link><guid>a65eb5e8baec3fc9f834e29db29cd41a9b25aa00cb85e3b4db78a647aeccdee1</guid><pubDate>Mon, 28 Sep 2026 08:18:10 GMT</pubDate><description>&lt;p&gt;A股科技成长与高位题材集体退潮，算力硬件股全线下挫，CPO、PCB等概念股大跌，因国庆长假前市场流动性退潮，叠加高位科技股估值修复和，资金避险情绪升温。&lt;/p&gt;
 &lt;p&gt;9月28日是国庆长假前最后一个交易周的首个交易日，A股三大股指全天低开低走、午后一度加速下探，沪指盘中跌逾2%考验3800点支撑，创业板指一度跌近5%创下今年3月以来新低。深证成指一度跌近4%，刷新2025年11月以来新低。科创50指数亦跌超4%。算力硬件大幅下挫，光通信、光模块、电路板、覆铜板、光电路交换机、玻璃纤维等全线杀跌，芯片半导体、有色金属等板块亦陷入调整，房地产、电力、银行、煤炭、汽车等板块活跃。&lt;/p&gt;
 &lt;p&gt;港股走势，恒指盘初一度涨超1%，恒科指高开低走，午后一度翻红，尾盘小幅收跌，权重科网股多数上涨，芯片半导体、光模块等概念股同样迎来大幅调整，长飞光纤重挫16%，中际旭创、剑桥科技等跌幅居前。AI大模型双雄承压，MINIMAX跌超9%。债市方面，国债期货全线下跌。商品方面，国内商品期货普遍下跌。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -186,40 +186,7 @@ Anthropic签约规模凸显头部AI客户需求强度
 &lt;strong&gt;本周两项数据将检验加息预期&lt;/strong&gt;
 &lt;p&gt;政策层面，美国财政部长Scott Bessent呼吁美联储对利率路径保持开放态度，并认为人工智能带来的生产率提升和放松监管有助于抑制通胀，其判断与当前市场对进一步加息的预期存在差异。&lt;/p&gt;
 &lt;p&gt;与此同时，美国9月消费者信心降至四个月低点，消费者对物价和经济前景的担忧有所升温。&lt;/p&gt;
-&lt;p&gt;市场接下来将聚焦本周三公布的8月PCE通胀数据，以及周五发布的9月非农就业报告。两项数据将为美联储10月议息提供重要参考，也将成为黄金短期走势的重要催化因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 电网等不起，高盛：数据中心自备电厂或将成主流，燃气轮机订单已排到2031年</title><link>https://wallstreetcn.com/articles/3782643</link><guid>b474f3eb14f4071c62447a7e03f6b3aab03029d5e6438eed68c70a421864858a</guid><pubDate>Mon, 28 Sep 2026 07:32:24 GMT</pubDate><description>&lt;p&gt;AI基础设施的电力危机正在催生一场能源供给革命。高盛认为，受制于电网扩张严重滞后，数据中心&amp;quot;自备电厂&amp;quot;模式正从边缘选项走向行业主流，预计到2030年将承担全球25%的数据中心电力需求——而这一比例在2025年几乎为零。&lt;/p&gt;
-&lt;p&gt;9月27日，高盛旗下Carbonomics团队在一份长达50页的报告中，将全球数据中心表后发电（Behind-The-Meter，BTM）容量预测从40GW大幅上调至67GW，并&lt;strong&gt;预计燃气轮机、往复式发动机和燃料电池合计将供应美国28%、全球25%的数据中心电力需求&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;与此同时，报告指出，&lt;strong&gt;燃气轮机市场已全面告急——GE Vernova的积压订单加预留产能已达116GW，2030年产能全部售罄，2031年产能也已售出逾50%&lt;/strong&gt;，这一供应瓶颈正在将数据中心运营商推向燃料电池、往复式发动机乃至工业锅炉等替代方案。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更长远来看，高盛认为小型模块化核反应堆（SMR）是2030年后唯一可规模化的永久解决方案，但受制于建设周期，其大规模落地难以在2030年前实现。&lt;/p&gt;
-需求爆炸：数据中心电力需求五年翻近三倍
-&lt;p&gt;AI算力军备竞赛正在将全球电网推向极限。高盛美国科技团队及GS SUSTAIN团队预测，&lt;strong&gt;全球数据中心装机容量将从2025年的101GW增至2030年的217GW&lt;/strong&gt;，其中美国单独达到108GW。&lt;/p&gt;
-&lt;p&gt;以电力需求计，高盛预计2030年全球数据中心用电量较2025年增长170%，较此前117%的预测大幅上调，其中超过60%的增量来自美国。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这一趋势将推动高盛对美国总体电力需求的复合年增长率预测升至3.5%——这个数字在五年前的任何一场公用事业投资者日上都会被视为天方夜谭。&lt;/p&gt;
-电网告急：新增输电线路骤降，并网等待逼近五年
-&lt;p&gt;电网扩张的速度远远跟不上需求增长的步伐。高盛报告显示，&lt;strong&gt;美国新建高压输电线路的年均里程已从2010至2014年的1700英里骤降至2020至2023年的350英里，2023至2024年间更仅新增55至125英里&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，从提交并网申请到正式商业运营的中位等待时间已接近五年。高盛认为，发电设备制造商INNIO的数据更为严峻：&lt;strong&gt;电网接入时间已从历史上的约两年延长至今天的七年以上。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;正是这一现实，促使超大规模数据中心运营商开始签署长达15年的BTM电力合同。当等待并网意味着一座耗资数十亿美元的园区要到下一个十代才能开机，“临时”的自备电源便自然演变为永久方案。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;政治压力同样不可忽视。&lt;/strong&gt;报告援引数据显示，今年夏天全美42个州共爆发142场反数据中心抗议活动。每一GW的自备发电，就是一GW不会被摊入普通居民电费账单的负担，BTM模式的政治成本正在持续下降。&lt;/p&gt;
-燃料电池胜出：速度溢价压倒成本劣势
-&lt;p&gt;在高盛的综合评分体系中，燃料电池以76.6分位居榜首，超过航改型燃气轮机（68.2分）、往复式发动机（67.0分）和重型燃气轮机/联合循环机组（59.6分）——尽管其度电成本（LCOE）是所有选项中最高的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;成本对比一目了然&lt;/strong&gt;：针对500MW数据中心，高盛测算往复式发动机LCOE约为80美元/MWh，联合循环燃气轮机（CCGT）约81美元/MWh，开式循环燃气轮机（OCGT）约91美元/MWh，而燃料电池高达117美元/MWh——即便享受30%投资税收抵免（ITC），也仅能降至90美元/MWh。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;燃料电池的核心竞争力在于&amp;quot;时间&amp;quot;&lt;/strong&gt;。高盛评分体系中，&amp;quot;投产时间&amp;quot;权重高达20%，&amp;quot;可用率&amp;quot;权重15%，而LCOE和初始资本支出合计仅占25%。固体氧化物燃料电池（SOFC）制造商报价从下单到供电仅需6至12个月；往复式发动机需要1.5至2.5年；重型燃气轮机则需5至7年，远高于正常市场的2至3年。&lt;/p&gt;
-&lt;p&gt;Bloom Energy在二季度业绩电话会上的表述精准诠释了这一逻辑：客户现在以&amp;quot;每单位算力的总电力成本&amp;quot;来衡量投资回报，&lt;strong&gt;一座1GW数据中心提前一个月投入运营，潜在收益可达10至20亿美元。在这个量级面前，每MWh多付37美元的溢价几乎可以忽略不计。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;燃料电池还具备两项额外优势：其一，冗余配置需求最低，服务500MW IT负载仅需约9%的超额装机（约725MW），而CCGT需要高达47%的冗余（约979MW）；其二，燃料电池直接输出直流电，可无缝对接英伟达推进的800V高压直流机架架构，省去变压器和逆变器环节，将约10至12%的电力损耗压缩至约3%。&lt;/p&gt;
-供应链全面告急：从燃气轮机到燃料电池无一幸免
-&lt;p&gt;燃气轮机市场的供应紧张已达到历史极值。高盛数据显示，&lt;strong&gt;2025年全球燃气轮机订单量达100GW，较2024年的55GW大幅跃升；2026年势头更猛，仅上半年已签约67GW，其中第二季度单季即达38GW&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主要制造商的订单状况触目惊心：&lt;/strong&gt;GE Vernova积压订单加预留产能达116GW，预计年底前超过125GW，2030年产能全部售罄，2031年产能已售出逾50%；西门子能源累计承诺量达87GW，其中24GW与数据中心相关，即便计入所有已宣布的产能扩张，2030年仍存在约10%的供需缺口；三菱重工已在洽谈2030年代交付的项目。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;发动机制造商同样不堪重负：&lt;/strong&gt;Wärtsilä的2028年产能已售罄，正在洽谈2029至2030年槽位；INNIO积压订单加预留量超过15GW，为过去12个月交付量的逾4倍，并刚刚签下一座超大规模数据中心的1.1GW基础电力订单；卡特彼勒大型发动机积压量增长逾3.5倍；康明斯订单已排至2028年；劳斯莱斯表示数据中心业务已占其发电销售额的80%以上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;供应瓶颈的压力已蔓延至极端应对措施：&lt;/strong&gt;据报道，马斯克旗下SpaceX已着手在德克萨斯州自建涡轮叶片工厂以突破瓶颈；部分AI开发商甚至重启工业锅炉和蒸汽轮机，只为在2032年前让机器转起来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;燃料电池同样面临产能制约&lt;/strong&gt;。高盛测算，Bloom Energy新建的2GW产线即便满负荷运转，到2030年累计交付量也仅约7.7GW，远低于其预测的全球18GW需求。要填补这一缺口，需要Ceres Power的被许可方——包括斗山、台达、潍柴等——同步大规模扩产，而斗山目前的年产能仅为50MW。&lt;/p&gt;
-长期出路：小型模块化核反应堆是唯一永久解
-&lt;p&gt;高盛在报告中还埋下了一句关键判断：小型模块化反应堆（SMR）是可行的BTM选项，&amp;quot;从长远来看可靠且相对经济&amp;quot;，但&amp;quot;由于投资周期较长，数据中心的大多数投资不太可能在2030年前实现落地&amp;quot;。&lt;/p&gt;
-&lt;p&gt;这一时间线恰好与整个BTM叙事的内在逻辑吻合：&lt;strong&gt;燃气轮机、往复式发动机和燃料电池本质上都是过渡方案&lt;/strong&gt;，建立在5至7年的涡轮机排队、产能受限的燃料电池生产线以及天然气价格长期维持低位的假设之上。唯一能够提供永久、可规模化、不受燃料价格波动影响、零排放且真正实现现场供电的方案，是部署在园区内的模块化核反应堆。&lt;/p&gt;
-&lt;p&gt;高盛的时间线与SMR开发商的规划几乎天然衔接：燃气BTM和燃料电池承担2030年前的过渡负荷，模块化核能在2030年代逐步规模化，恰好赶上第一批现场燃气资产到期续约、天然气价格走势存在不确定性的时间窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新美联储通讯社”：特朗普的举措事与愿违，利率和通胀不降反升</title><link>https://wallstreetcn.com/articles/3782647</link><guid>0a70cc3bc00bbbd869c90471cafa6a0863ff9ad1a60169bfc755d9802358efce</guid><pubDate>Mon, 28 Sep 2026 09:29:57 GMT</pubDate><description>&lt;p&gt;特朗普政府试图通过政策组合改善增长前景，但现实却逐渐偏离了白宫的预期。&lt;/p&gt;
+&lt;p&gt;市场接下来将聚焦本周三公布的8月PCE通胀数据，以及周五发布的9月非农就业报告。两项数据将为美联储10月议息提供重要参考，也将成为黄金短期走势的重要催化因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “新美联储通讯社”：特朗普的举措事与愿违，利率和通胀不降反升</title><link>https://wallstreetcn.com/articles/3782647</link><guid>0a70cc3bc00bbbd869c90471cafa6a0863ff9ad1a60169bfc755d9802358efce</guid><pubDate>Mon, 28 Sep 2026 09:29:57 GMT</pubDate><description>&lt;p&gt;特朗普政府试图通过政策组合改善增长前景，但现实却逐渐偏离了白宫的预期。&lt;/p&gt;
 &lt;p&gt;有“新美联储通讯社”之称的知名财经记者Nick Timiraos近日在《华尔街日报》撰文称，&lt;strong&gt;特朗普政府原本希望通过控制赤字、扩大能源供给和推动经济增长改善融资环境，但关税、减税、财政支出、移民限制与能源冲击相互叠加，政策效果与白宫预期出现偏差，通胀和长期利率反而面临更大上行压力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;文章指出，10年期美债收益率已升至2007年以来高位，按揭贷款利率也从2月一度接近6%重新回到7%以上。对于一笔40万美元的新房贷款，这意味着家庭每年还款额增加约3000美元。报道认为，这一局面并非完全由中东冲突等外部冲击造成，美国自身的财政、贸易和劳动力政策同样在增加价格压力。&lt;/p&gt;
 &lt;p&gt;更值得关注的是，这轮高通胀和高利率并非单一因素所致：财政赤字没有明显收窄，关税提高进口成本，移民限制收缩劳动力供给，能源冲击推高运输和生产成本，AI投资热潮又增加资金需求。多重压力叠加之下，美国未来应对经济下行的政策空间也可能受到限制。&lt;/p&gt;
@@ -277,4 +244,19 @@ AI基建投资维持强劲需求
 充裕现金流支撑长期估值
 &lt;p&gt;超预期的财务数据为英伟达的巨额回购提供了坚实支撑。据标普全球旗下Visible Alpha的一致预期数据，在截至今年1月的最近一个财年中，英伟达创造了近1000亿美元的自由现金流。预计到2028财年，这一数字将增长两倍以上，达到3290亿美元。&lt;/p&gt;
 &lt;p&gt;在净利润方面，据Visible Alpha预测，英伟达本财年的净利润将翻倍至2450亿美元，并在截至2028年1月的下一个财年进一步升至3870亿美元。&lt;/p&gt;
-&lt;p&gt;在二级市场表现上，自OpenAI于2022年底推出ChatGPT以来，英伟达的股价累计涨幅已超过1200%。但在2026年，该股的惊人涨势有所放缓，年内迄今涨幅约为20%。在市场对AI繁荣持续性产生分歧的背景下，强劲的盈利预期与充裕的现金流，成为了英伟达稳定投资者信心的核心支撑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 当下养殖业环境与2023年的比较</title><link>http://xueqiu.com/1516479974/410667656</link><guid>f16976bcf116a3428512d836ee19558a8acca330c87dcb6c27707c9e84d2d81d</guid><pubDate>Mon, 28 Sep 2026 09:37:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;HindSight后视镜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;结合各种草根数据，7月份以来，南方部分地区爆发了一波力度不算小的非温疫情。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在二级市场表现上，自OpenAI于2022年底推出ChatGPT以来，英伟达的股价累计涨幅已超过1200%。但在2026年，该股的惊人涨势有所放缓，年内迄今涨幅约为20%。在市场对AI繁荣持续性产生分歧的背景下，强劲的盈利预期与充裕的现金流，成为了英伟达稳定投资者信心的核心支撑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小模型本地部署“抢走”云端算力需求，万亿美元数据中心资本开支面临考验</title><link>https://wallstreetcn.com/articles/3782651</link><guid>565c82611feb893ec8c55cc267c8f0eeae902776d56da23ce9ee72dcafa3ac22</guid><pubDate>Mon, 28 Sep 2026 09:39:21 GMT</pubDate><description>&lt;p&gt;AI应用持续扩张，但支撑这轮热潮的超大规模数据中心投资，正面临新的需求端挑战。&lt;/p&gt;
+&lt;p&gt;杰富瑞报告指出，&lt;strong&gt;随着小型语言模型性能提升、成本下降，企业AI部署可能从集中式云端转向本地化，由此对云端算力需求以及巨额数据中心资本开支形成压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一判断的一个重要依据，是近期对AI服务器实际使用情况的观察。2026年9月，Swerve Research Technologies通过追踪Anthropic服务器请求队列的等待时间构建“拥堵指数”，发现相关服务器利用率较2026年1月至2月的峰值下降26%。&lt;strong&gt;这一指标并不能直接对应公司收入，但如果利用率持续走低，可能意味着部分算力供给开始出现闲置。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，AI基础设施投资仍在快速扩张。市场目前预计，Meta、Alphabet、亚马逊和微软四家美国科技巨头2027年资本支出合计可能达到9900亿美元。报告认为，&lt;strong&gt;如果AI算力需求增速最终无法匹配如此庞大的投资规模，部分数据中心可能面临回报不足甚至成为“搁置资产”的风险。&lt;/strong&gt;&lt;/p&gt;
+服务器利用率下降，AI算力供给面临考验
+&lt;p&gt;Meta旗下个人AI产品Muse于9月8日上线后，推动Meta股价在数周内上涨21%，成为近期AI消费应用的亮点。但报告认为，单个应用的成功并不足以证明整个AI基础设施投资周期能够持续。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更值得关注的是，AI企业自身也释放出一些不同于市场乐观预期的信号。&lt;/strong&gt;Anthropic CEO、OpenAI CEO Sam Altman以及Elon Musk近期均曾公开讨论放缓AI发展的必要性；Anthropic原计划中的IPO则推迟至11月。&lt;/p&gt;
+&lt;p&gt;与此同时，Anthropic此前已与SpaceX签署价值450亿美元、为期三年的算力合同，并与亚马逊、谷歌云达成数十亿美元级别的算力合作。&lt;strong&gt;如果AI收入增速放缓，而此前签订的大规模算力合同仍需持续兑现，企业的成本压力可能进一步上升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据报道，Meta还在7月与Anthropic谈判，拟在两年内向其出租最高100亿美元的数据中心算力。报告认为，大型科技公司开始积极寻找外部客户消化算力，也反映出随着基础设施供给快速扩张，如何提高资产利用率正成为新的问题。&lt;/p&gt;
+小模型性能追赶，本地部署或分流云端需求
+&lt;p&gt;相比服务器利用率的短期变化，报告更加关注AI模型架构正在发生的变化。&lt;/p&gt;
+&lt;p&gt;斯坦福大学与Together AI联合发布的《Intelligence per Watt》研究显示，&lt;strong&gt;小型语言模型的性能正快速追赶大型语言模型，同时能耗和算力成本低50%至85%。如果这一趋势延续，企业部署AI所需的算力规模和成本结构都可能随之改变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去，企业更多依赖集中式云端大模型完成AI任务；随着小模型能力提升，部分场景可能转向本地部署。对于银行等对数据安全要求较高的行业，本地化部署本身已有较强需求；当小模型进一步降低部署成本后，这一模式的适用范围可能继续扩大。&lt;/p&gt;
+&lt;p&gt;这意味着，AI应用增长并不必然对应云端算力需求同比例增长。企业可能一边扩大AI应用，一边减少对超大模型API和集中式云端算力的依赖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这也是报告质疑近万亿美元资本开支的重要原因：如果未来更多AI应用由低成本、小规模、本地化模型承载，那么当前围绕超大规模数据中心形成的投资规模，可能与实际算力需求出现错配。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在这一情景下，真正需要重新评估的并非AI需求是否存在，而是AI需求究竟需要多少集中式算力，以及这些数据中心能否获得与其投资规模相匹配的回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 当下养殖业环境与2023年的比较</title><link>http://xueqiu.com/1516479974/410667656</link><guid>f16976bcf116a3428512d836ee19558a8acca330c87dcb6c27707c9e84d2d81d</guid><pubDate>Mon, 28 Sep 2026 09:37:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;HindSight后视镜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;结合各种草根数据，7月份以来，南方部分地区爆发了一波力度不算小的非温疫情。&lt;/p&gt;</description></item></channel></rss>
