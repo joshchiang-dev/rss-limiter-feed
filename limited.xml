@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 28 Sep 2026 01:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] "从ICU到KTV"！两级摇摆的"AI叙事"让投资者"心累"</title><link>https://wallstreetcn.com/articles/3782611</link><guid>2acddb29af5656962342bec050cf5d686252d8d5cae001719a6a97fd6ad183b3</guid><pubDate>Mon, 28 Sep 2026 00:03:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;AI股票市场在短短两周内经历了从恐慌性抛售到狂热追涨的极端轮回，数千亿美元资金随叙事切换而剧烈进出，令投资者疲于应对。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 28 Sep 2026 01:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] "从ICU到KTV"！两级摇摆的"AI叙事"让投资者"心累"</title><link>https://wallstreetcn.com/articles/3782611</link><guid>2acddb29af5656962342bec050cf5d686252d8d5cae001719a6a97fd6ad183b3</guid><pubDate>Mon, 28 Sep 2026 00:03:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;AI股票市场在短短两周内经历了从恐慌性抛售到狂热追涨的极端轮回，数千亿美元资金随叙事切换而剧烈进出，令投资者疲于应对。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;过去两周，AI相关股票上演了一出令人眩晕的&amp;quot;过山车&amp;quot;行情——先是因行业领袖呼吁放缓AI开发而遭遇重挫，纳斯达克100指数两日内蒸发逾6000亿美元市值；随后又因Meta个人助手的爆红引发市场狂欢，科技股强势反弹，纳斯达克100指数自9月15日低点至周末累计收复3万亿美元市值，并创下6月初以来首个历史新高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;据彭博9月27日报道，情绪的钟摆在&lt;strong&gt;“AI将毁灭人类”与“AI将帮你取消不想要的订阅”&lt;/strong&gt;这两个极端之间剧烈摇摆。&lt;strong&gt;Wayve Capital Management首席策略师Rhys Williams直言：“两个方向的波动幅度都令人震惊，从基本面角度根本难以解释。”&lt;/strong&gt;Laffer Tengler Investments首席执行官Nancy Tengler则总结道：“这是一个叙事驱动的市场，而叙事每隔一周就会切换一次。”&lt;/p&gt;
@@ -33,30 +33,31 @@
 &lt;p&gt;但分析人士认为，无论财报结果如何，市场情绪的剧烈摇摆恐怕都难以平息。Motley Fool Asset Management首席投资策略师兼投资组合经理Bill Mann（管理资产约27亿美元）直言：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“聚焦于‘AI毁灭论’很容易，聚焦于‘AI创造论’同样容易。&lt;strong&gt;这将是我们在市场中要长期面对的现实。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布</title><link>https://wallstreetcn.com/articles/3782618</link><guid>b7224f06f0508449ad40cd1634a42a0e5a4e7883c96d67d4082b5f6a5d89a3c9</guid><pubDate>Mon, 28 Sep 2026 00:33:42 GMT</pubDate><description>&lt;p&gt;在Meta个人AI智能体Muse获得摩根大通最高评级、风头一时无两之际，OpenAI正加速推出一款名为&amp;quot;o&amp;quot;的常驻AI助手，以正面迎击这场日益激烈的AI智能体竞赛。&lt;/p&gt;
-&lt;p&gt;据科技媒体wccftech日前报道，&lt;strong&gt;据悉，OpenAI已在ChatGPT Pro相关产品文档中加入&amp;quot;o&amp;quot;的品牌标识，正式发布迫在眉睫，预计将于本周二（9月29日）的Dev Day活动上亮相。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一动作被外界普遍解读为对Meta Muse近期强势表现的直接回应——摩根大通在其最新发布的Assistant Benchmark评测中，将Meta Muse列为当前最顶尖的AI智能体。&lt;/p&gt;
-&lt;p&gt;此次Dev Day还将带来更多重磅消息：&lt;strong&gt;OpenAI预计同步推出新订阅层级ChatGPT Pro Max，定价高达每月500美元&lt;/strong&gt;，主打超高速响应体验。与此同时，&amp;quot;o&amp;quot;还被传将与OpenAI一款外形酷似甜甜圈、配备活动部件的消费级AI硬件设备协同运作，进一步拓展其产品生态边界。&lt;/p&gt;
-&amp;quot;o&amp;quot;：常驻在线，剑指长任务场景
-&lt;p&gt;报道称，针对Muse的挑战，OpenAI的应对方案是推出一款定位为&lt;strong&gt;&amp;quot;常驻AI助手&amp;quot;的产品——&amp;quot;o&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前公开信息有限，但@synthwavedd在社交平台X上发帖称，据悉&lt;strong&gt;&amp;quot;o&amp;quot;将基于GPT-6 Astra的特定变体&amp;quot;Aeon&amp;quot;驱动&lt;/strong&gt;，该模型据称在处理长时间运行任务方面具有突出优势——这恰恰是一款高效个人智能体所必须具备的核心能力。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国工业企业利润前8月同比增长15.7%，电子行业电子行业利润同比增长1.1倍，贡献逾六成增量</title><link>https://wallstreetcn.com/articles/3782624</link><guid>2c0630d16a52d032a695d24453a6810069c77ee9bbce2facfb97a9cce97d3233</guid><pubDate>Mon, 28 Sep 2026 01:31:55 GMT</pubDate><description>&lt;p&gt;国家统计局数据显示，1—8月份，全国规模以上工业企业实现利润总额52719.8亿元，同比增长15.7%，今年以来累计增速持续维持两位数水平。电子行业成为最主要拉动力，贡献率高达62.0%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在竞争格局上，&amp;quot;o&amp;quot;的对手不止Muse一家。OpenAI此番入局，同时剑指Grok Bot以及Hermes Agent，三方角力之下，AI个人助手赛道的竞争烈度正在快速升级。&lt;/p&gt;
-Dev Day双线出击：新品牌+高端订阅
-&lt;p&gt;除&amp;quot;o&amp;quot;之外，OpenAI预计将在Dev Day上同步推出多项重磅更新，形成组合拳。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在订阅定价层面，OpenAI计划推出ChatGPT Pro Max，月费高达500美元&lt;/strong&gt;，主打超高速响应，据报道该性能将由Cerebras的晶圆级引擎（Wafer-Scale Engine）提供支撑，面向对响应速度和性能有极高要求的专业用户群体。&lt;/p&gt;
+&lt;p&gt;数据显示，8月单月利润增速回落至4.2%，对此，国家统计局工业司首席统计师于卫宁将其归因于去年同期较高基数。&lt;/p&gt;
+&lt;p&gt;与此同时，汽车制造业、黑色金属冶炼等行业利润大幅下滑，非金属矿物制品业利润更骤降46.7%，内部分化持续扩大，对依赖传统制造业敞口的投资者构成压力。&lt;/p&gt;
+电子行业主导盈利格局
+&lt;p&gt;以人工智能为核心的新技术应用扩张，正在系统性重塑工业利润的分配结构。&lt;/p&gt;
+&lt;p&gt;国家统计局工业司首席统计师于卫宁称，数据显示，1—8月份，计算机、通信和其他电子设备制造业利润同比增长1.1倍，&lt;strong&gt;对全部规模以上工业企业利润增长的贡献率达62.0%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从细分领域来看，新能源汽车、物联网及算力中心等新兴应用场景带动芯片需求持续扩张，光电子器件制造、半导体分立器件制造行业利润分别增长72.0%和51.8%。电子基础原材料领域同步受益，电子专用材料制造行业利润增长2.3倍，电子电路制造增长49.1%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;算力基础设施的加速铺建进一步向上游传导。&lt;/strong&gt;光纤制造、光缆制造行业利润分别增长5.3倍和1.0倍；计算机整机制造、计算机外围设备制造利润分别增长3.9倍和2.6倍。整体来看，高技术制造业1—8月利润同比增长54.7%，增速高于全部规模以上工业39.0个百分点。&lt;/p&gt;
+原材料行业受益于大宗商品涨价
+&lt;p&gt;国际原油及有色金属价格上行为原材料制造业提供了外部支撑。1—8月份，规模以上原材料制造业利润同比增长47.3%，拉动全部规模以上工业企业利润增长6.2个百分点。&lt;/p&gt;
+&lt;p&gt;具体来看，有色金属冶炼和压延加工业利润增长82.9%，化学原料和化学制品制造业增长51.0%，煤炭开采和洗选业增长51.6%。石油加工行业则实现扭亏为盈，利润总额达562.9亿元。采矿业整体利润增长35.1%，亦显著高于制造业整体水平。&lt;/p&gt;
+&lt;p&gt;汽车制造业1—8月利润同比下降16.0%，黑色金属冶炼和压延加工业下降62.4%，非金属矿物制品业下降46.7%，农副食品加工业下降17.4%。电力、热力、燃气及水生产和供应业利润整体下降12.0%，其中电力、热力生产和供应业下降15.1%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在硬件生态层面，&amp;quot;o&amp;quot;还将作为软件伴侣，与OpenAI一款即将推出的消费级AI设备深度整合。&lt;/strong&gt;该设备外形据传类似甜甜圈，并可能配备活动部件，显示出OpenAI在AI硬件领域的持续布局野心。&lt;/p&gt;
-&lt;p&gt;据报道，两条产品线同步推进，表明OpenAI试图在软件智能体与硬件终端两个维度同时构建竞争壁垒，以应对来自Meta等对手的多方位压力。&lt;/p&gt;
-摩根大通加冕Muse，OpenAI压力骤升
-&lt;p&gt;Meta Muse的崛起，是此次OpenAI紧急应战的直接导火索。&lt;/p&gt;
-&lt;p&gt;据摩根大通最新发布的Assistant Benchmark评测，&lt;strong&gt;Meta Muse在所有参评AI智能体中排名第一&lt;/strong&gt;，超越包括OpenAI产品在内的多个竞争对手。这一权威背书令Muse在近期持续吸引市场关注，也在一定程度上抢占了原本属于OpenAI Dev Day的预热声量。&lt;/p&gt;
+1—8月份规模以上工业企业实现营业收入同比增长6.5%
+&lt;p&gt;1—8月份，规模以上工业企业实现营业收入93.09万亿元，同比增长6.6%；发生营业成本79.19万亿元，增长6.1%；营业收入利润率为5.66%，同比提高0.44个百分点。&lt;/p&gt;
+&lt;p&gt;8月末，规模以上工业企业资产总计197.33万亿元，同比增长6.4%；负债合计115.44万亿元，增长7.0%；所有者权益合计81.89万亿元，增长5.7%；资产负债率为58.5%，同比上升0.3个百分点。&lt;/p&gt;
+&lt;p&gt;8月末，规模以上工业企业应收账款29.48万亿元，同比增长9.0%；产成品存货7.36万亿元，增长11.0%。&lt;/p&gt;
+&lt;p&gt;1—8月份，规模以上工业企业每百元营业收入中的成本为85.07元，同比减少0.41元；每百元营业收入中的费用为8.35元，同比减少0.14元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;8月末，规模以上工业企业每百元资产实现的营业收入为72.4元，同比增加0.4元；人均营业收入为192.2万元，同比增加12.5万元；产成品存货周转天数为21.3天，同比增加0.6天；应收账款平均回收期为72.2天，同比增加0.9天。&lt;/p&gt;
+&lt;p&gt;数据还显示，1—8月份，规模以上工业企业中，国有控股企业实现利润总额16759.9亿元，同比增长10.3%；股份制企业实现利润总额40714.6亿元，增长20.4%；外商及港澳台投资企业实现利润总额11794.7亿元，增长2.3%；私营企业实现利润总额13213.2亿元，增长10.4%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Muse是一款能够代替用户执行多步骤任务的个人AI智能体，其核心能力包括：自主打开云端浏览器、像人类一样浏览网页，以及在用户关闭应用后仍可在后台持续处理任务。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;为消除隐私顾虑，Muse运行于一台专属的隔离云端虚拟机（VM）之中，配备独立浏览器，用于安全存储用户数据与登录凭证。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选</title><link>https://wallstreetcn.com/articles/3782598</link><guid>dbf3bc5a85de31c10e561e26e2256f179d29a6836d136db4ed0cf1277ab32fb0</guid><pubDate>Sun, 27 Sep 2026 16:19:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月28日 - 10月04日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1—8月份，采矿业实现利润总额7661.5亿元，同比增长35.1%；制造业实现利润总额39695.3亿元，增长17.4%；电力、热力、燃气及水生产和供应业实现利润总额5363.0亿元，下降12.0%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选</title><link>https://wallstreetcn.com/articles/3782598</link><guid>dbf3bc5a85de31c10e561e26e2256f179d29a6836d136db4ed0cf1277ab32fb0</guid><pubDate>Sun, 27 Sep 2026 16:19:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 09月28日 - 10月04日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒本周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观数据方面聚焦美国非农、PCE与中国PMI。&lt;/strong&gt; “美联储最爱通胀指标”8月PCE与9月非农将先后公布，直接考验美联储10月加息路径。当前市场定价10月加息概率接近70%，长端美债收益率已升至2007年以来高位。若就业数据超预期，反而可能加剧紧缩担忧。国内方面，中国PMI数据出炉，市场关注经济成色。&lt;/p&gt;
@@ -224,7 +225,31 @@ Dev Day双线出击：新品牌+高端订阅
 &lt;p&gt;收益率曲线平坦化已开始向股票市场传导，银行板块首当其冲。由于银行通常以短期利率借入资金、以长期利率放贷，利差收窄将直接压缩其净息差，侵蚀盈利能力。&lt;/p&gt;
 &lt;p&gt;追踪大型银行股的KBW银行股指数上周跌入技术性回调区间，较近期高点累计下跌逾10%。&lt;/p&gt;
 &lt;p&gt;TCW集团全球利率联席主管Jamie Patton将潜在倒挂定性为政策失误的信号。“&lt;strong&gt;这意味着美联储加息过度，未来将不得不大幅降息。对我们而言，倒挂的收益率曲线并非宏观经济健康的信号&lt;/strong&gt;，”他说。&lt;/p&gt;
-&lt;p&gt;此轮曲线走平，折射出今年2月美伊战争爆发以来美国经济叙事的深刻转变——彼时市场还在押注一系列降息将压低短端收益率，如今却已转为为持续加息做准备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普称“非常认真考虑柴油出口禁令”，高盛分析禁令的“五大影响”</title><link>https://wallstreetcn.com/articles/3782615</link><guid>103880810488d5d7472c1a47e5e4ec5ea5f4a0a467069f9dc104366cf3921b10</guid><pubDate>Mon, 28 Sep 2026 00:22:22 GMT</pubDate><description>&lt;p&gt;美国柴油价格创历史新高之际，特朗普亲口确认正认真考虑出口禁令，高盛随即建模推演了禁令落地后的传导路径。&lt;/p&gt;
+&lt;p&gt;此轮曲线走平，折射出今年2月美伊战争爆发以来美国经济叙事的深刻转变——彼时市场还在押注一系列降息将压低短端收益率，如今却已转为为持续加息做准备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布</title><link>https://wallstreetcn.com/articles/3782618</link><guid>b7224f06f0508449ad40cd1634a42a0e5a4e7883c96d67d4082b5f6a5d89a3c9</guid><pubDate>Mon, 28 Sep 2026 00:33:42 GMT</pubDate><description>&lt;p&gt;在Meta个人AI智能体Muse获得摩根大通最高评级、风头一时无两之际，OpenAI正加速推出一款名为&amp;quot;o&amp;quot;的常驻AI助手，以正面迎击这场日益激烈的AI智能体竞赛。&lt;/p&gt;
+&lt;p&gt;据科技媒体wccftech日前报道，&lt;strong&gt;据悉，OpenAI已在ChatGPT Pro相关产品文档中加入&amp;quot;o&amp;quot;的品牌标识，正式发布迫在眉睫，预计将于本周二（9月29日）的Dev Day活动上亮相。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一动作被外界普遍解读为对Meta Muse近期强势表现的直接回应——摩根大通在其最新发布的Assistant Benchmark评测中，将Meta Muse列为当前最顶尖的AI智能体。&lt;/p&gt;
+&lt;p&gt;此次Dev Day还将带来更多重磅消息：&lt;strong&gt;OpenAI预计同步推出新订阅层级ChatGPT Pro Max，定价高达每月500美元&lt;/strong&gt;，主打超高速响应体验。与此同时，&amp;quot;o&amp;quot;还被传将与OpenAI一款外形酷似甜甜圈、配备活动部件的消费级AI硬件设备协同运作，进一步拓展其产品生态边界。&lt;/p&gt;
+&amp;quot;o&amp;quot;：常驻在线，剑指长任务场景
+&lt;p&gt;报道称，针对Muse的挑战，OpenAI的应对方案是推出一款定位为&lt;strong&gt;&amp;quot;常驻AI助手&amp;quot;的产品——&amp;quot;o&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前公开信息有限，但@synthwavedd在社交平台X上发帖称，据悉&lt;strong&gt;&amp;quot;o&amp;quot;将基于GPT-6 Astra的特定变体&amp;quot;Aeon&amp;quot;驱动&lt;/strong&gt;，该模型据称在处理长时间运行任务方面具有突出优势——这恰恰是一款高效个人智能体所必须具备的核心能力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在竞争格局上，&amp;quot;o&amp;quot;的对手不止Muse一家。OpenAI此番入局，同时剑指Grok Bot以及Hermes Agent，三方角力之下，AI个人助手赛道的竞争烈度正在快速升级。&lt;/p&gt;
+Dev Day双线出击：新品牌+高端订阅
+&lt;p&gt;除&amp;quot;o&amp;quot;之外，OpenAI预计将在Dev Day上同步推出多项重磅更新，形成组合拳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在订阅定价层面，OpenAI计划推出ChatGPT Pro Max，月费高达500美元&lt;/strong&gt;，主打超高速响应，据报道该性能将由Cerebras的晶圆级引擎（Wafer-Scale Engine）提供支撑，面向对响应速度和性能有极高要求的专业用户群体。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在硬件生态层面，&amp;quot;o&amp;quot;还将作为软件伴侣，与OpenAI一款即将推出的消费级AI设备深度整合。&lt;/strong&gt;该设备外形据传类似甜甜圈，并可能配备活动部件，显示出OpenAI在AI硬件领域的持续布局野心。&lt;/p&gt;
+&lt;p&gt;据报道，两条产品线同步推进，表明OpenAI试图在软件智能体与硬件终端两个维度同时构建竞争壁垒，以应对来自Meta等对手的多方位压力。&lt;/p&gt;
+摩根大通加冕Muse，OpenAI压力骤升
+&lt;p&gt;Meta Muse的崛起，是此次OpenAI紧急应战的直接导火索。&lt;/p&gt;
+&lt;p&gt;据摩根大通最新发布的Assistant Benchmark评测，&lt;strong&gt;Meta Muse在所有参评AI智能体中排名第一&lt;/strong&gt;，超越包括OpenAI产品在内的多个竞争对手。这一权威背书令Muse在近期持续吸引市场关注，也在一定程度上抢占了原本属于OpenAI Dev Day的预热声量。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Muse是一款能够代替用户执行多步骤任务的个人AI智能体，其核心能力包括：自主打开云端浏览器、像人类一样浏览网页，以及在用户关闭应用后仍可在后台持续处理任务。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;为消除隐私顾虑，Muse运行于一台专属的隔离云端虚拟机（VM）之中，配备独立浏览器，用于安全存储用户数据与登录凭证。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普称“非常认真考虑柴油出口禁令”，高盛分析禁令的“五大影响”</title><link>https://wallstreetcn.com/articles/3782615</link><guid>103880810488d5d7472c1a47e5e4ec5ea5f4a0a467069f9dc104366cf3921b10</guid><pubDate>Mon, 28 Sep 2026 00:22:22 GMT</pubDate><description>&lt;p&gt;美国柴油价格创历史新高之际，特朗普亲口确认正认真考虑出口禁令，高盛随即建模推演了禁令落地后的传导路径。&lt;/p&gt;
 &lt;p&gt;9月27日周日，美国总统特朗普在芝加哥附近出席总统杯高尔夫赛事期间，回应了外界持续发酵的柴油出口禁令传闻，称正“非常认真”考虑禁止美国柴油出口。他对记者说道：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;这有时会导致汽车汽油价格小幅上涨，所以我们正在非常认真地研究这件事——我们可能会这么做。&lt;/p&gt;
