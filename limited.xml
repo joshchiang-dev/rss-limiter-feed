@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 28 Sep 2026 21:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 28 Sep 2026 22:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
 &lt;p&gt;韩国交易所数据显示，本月1日至23日，KOSPI上市股票日均换手率降至0.50%，为今年以来最低。三星电子与SK海力士股价单日分别下挫逾5%，拖累指数于28日重新跌破7,000点关口，报收6,889.74点。&lt;/p&gt;
 &lt;p&gt;高利率与油价压力令场外资金迟迟未能回流，券商经纪账户待入市资金仅微幅高于100万亿韩元。市场人士表示，只有宏观压力缓解、三季度企业业绩指引符合预期，资金才有望重返市场。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -93,29 +93,7 @@ Mag-7与超大规模云厂商：估值压缩接近尾声
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达联手Anthropic发布AI Agent安全工具，称可阻止Hugging Face式攻击</title><link>https://wallstreetcn.com/articles/3782685</link><guid>a0242313622cacfa8af5329fa4b4385ceb7a611dc8dee2c6eadf188898f45f1c</guid><pubDate>Mon, 28 Sep 2026 21:04:45 GMT</pubDate><description>&lt;p&gt;英伟达正将AI Agent安全推向基础设施层。&lt;/p&gt;
-&lt;p&gt;周一，英伟达推出Open Agent Safety Platform，&lt;strong&gt;通过开源软件与专用硬件构建多层安全机制，限制AI Agent的权限和行为，Anthropic则与英伟达合作，将Claude Managed Agents接入相关安全体系。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次合作的核心是OpenShell和Claude Managed Agents。&lt;strong&gt;英伟达提供开源OpenShell运行时软件，为AI Agent设置默认受限的执行环境；Anthropic则提供Claude Managed Agents，并通过凭证保险库等机制管理Agent权限。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;双方希望在企业部署AI Agent时，进一步控制其能够访问的数据、工具、网络和系统资源。&lt;/p&gt;
-&lt;p&gt;英伟达还推出运行在BlueField-4 DPU上的Sentry安全层，可以独立于Agent运行环境持续监控其行为，并在发现越权操作时进行隔离。&lt;strong&gt;英伟达称，Sentry能够在毫秒级阻断可疑Agent活动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达称此次推出的安全软件可能阻止近期发生的一起Hugging Face相关事件。&lt;/strong&gt;英伟达方面表示，如果当时使用相关技术，根据公司目前掌握的信息，该平台可能阻止相关事件。&lt;/p&gt;
-英伟达为AI Agent加上“安全围栏”
-&lt;p&gt;Open Agent Safety Platform主要由OpenShell和Sentry两层组成。&lt;/p&gt;
-&lt;p&gt;其中，OpenShell是一套开源Agent运行时软件，通过沙箱和权限策略限制Agent的活动范围。英伟达表示，该系统可以控制Agent对文件、网络、进程、工具和凭证等资源的访问，并默认阻止未经授权的操作。&lt;/p&gt;
-&lt;p&gt;Sentry则将安全控制进一步延伸至硬件层。该系统运行在英伟达 BlueField-4 DPU上，与运行AI Agent的主机环境相对独立，可以持续检查Agent的请求和响应，并对数据、工具、API和服务进行访问控制。&lt;/p&gt;
-&lt;p&gt;英伟达表示，如果Agent试图突破既定的软件边界，Sentry可以对其进行隔离。相比单纯依赖模型自身遵守安全规则，这一架构增加了额外的运行时和硬件防护层。&lt;/p&gt;
-Anthropic将Claude接入
-&lt;p&gt;Anthropic此次参与的重点是Claude Managed Agents。&lt;/p&gt;
-&lt;p&gt;Claude Managed Agents能够将Agent运行循环放置在独立服务器上，并与执行具体任务的沙箱环境分开。在此基础上，该服务与OpenShell及BlueField进行整合，为企业提供更细致的Agent权限控制。&lt;/p&gt;
-&lt;p&gt;Notion、Rakuten和Asana等企业已经在生产环境中使用Claude Managed Agents。&lt;/p&gt;
-&lt;p&gt;这意味着，企业部署Claude等AI Agent时，可以在模型之外增加一套独立的安全控制机制。Agent可以继续自主执行任务，但其能够访问哪些资源、使用哪些工具，以及出现异常时是否继续运行，都可以通过额外的软件和硬件层进行限制。&lt;/p&gt;
-英伟达瞄准AI Agent安全需求
-&lt;p&gt;此次发布也发生在AI Agent安全问题受到更多关注之际。&lt;/p&gt;
-&lt;p&gt;英伟达创始人兼CEO黄仁勋表示，随着AI能力不断发展，AI安全能力也需要同步推进，并称AI安全需要“全栈工程”。&lt;/p&gt;
-&lt;p&gt;英伟达此次并没有把安全能力局限于某一个AI模型，而是将其延伸到Agent运行时、服务器以及网络和计算基础设施。对于企业而言，这意味着AI Agent的安全边界可以从模型本身进一步扩展至执行环境。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前，超过100家机构参与相关技术。除Anthropic外，英伟达还披露，SpaceXAI正在将相关平台用于Cursor coding agents和Grok模型，Salesforce和SAP也在推进OpenShell相关整合。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着AI Agent从聊天工具逐步转向能够调用工具、访问数据并自主执行任务的企业软件，围绕Agent权限、隔离和实时监控的基础设施需求也在扩大。&lt;/p&gt;
-&lt;p&gt;英伟达此次推出开放式安全平台，并与Anthropic等AI厂商展开合作，正试图将这类安全能力纳入AI基础设施体系。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求仍在狂飙！英伟达最新披露：供应承诺额暴增135%，Anthropic已签约超1800亿美元</title><link>https://wallstreetcn.com/articles/3782667</link><guid>2bad6f4d6b37ecd82c6f2485e3121ca3792cd11552dd60cde8f9818b12e8ab43</guid><pubDate>Mon, 28 Sep 2026 13:55:31 GMT</pubDate><description>&lt;p&gt;英伟达最新披露的数据显示，AI基础设施需求持续扩张，多项关键指标较上季度大幅跳升，为市场提供了迄今最新的需求能见度参考。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI需求仍在狂飙！英伟达最新披露：供应承诺额暴增135%，Anthropic已签约超1800亿美元</title><link>https://wallstreetcn.com/articles/3782667</link><guid>2bad6f4d6b37ecd82c6f2485e3121ca3792cd11552dd60cde8f9818b12e8ab43</guid><pubDate>Mon, 28 Sep 2026 13:55:31 GMT</pubDate><description>&lt;p&gt;英伟达最新披露的数据显示，AI基础设施需求持续扩张，多项关键指标较上季度大幅跳升，为市场提供了迄今最新的需求能见度参考。&lt;/p&gt;
 &lt;p&gt;英伟达披露，AI初创公司Anthropic迄今已签约2.6吉瓦的AI基础设施算力，交付期延伸至2028年，其跨多家云服务商（CSP）及新兴云平台（Neocloud）的合同总价值已超过1800亿美元。与此同时，英伟达整体供应承诺额从上季度的1190亿美元大幅攀升至2790亿美元，增幅超过130%，本次承诺额的增长主要与内存采购相关。&lt;/p&gt;
 &lt;p&gt;上述数据的披露延续了英伟达在财报周期中定期公布合同承诺规模的惯例。市场对此类数据的解读通常遵循固定逻辑：合同总额被视为需求持续性的佐证，而承诺构成则决定其实际分量。&lt;/p&gt;
 Anthropic签约规模凸显头部AI客户需求强度
@@ -129,21 +107,7 @@ Anthropic签约规模凸显头部AI客户需求强度
 投资组合持续扩张，需求叙事得到强化
 &lt;p&gt;英伟达当前投资组合涵盖13家上市公司及229家私营公司，客户生态的广度在一定程度上分散了对单一大客户集中度的担忧。&lt;/p&gt;
 &lt;p&gt;此类承诺披露已成为英伟达报告节奏中的常规内容，市场对其处理方式也形成了固定模式。值得关注的是，围绕AI客户融资的循环性问题——即芯片供应商与AI实验室之间大额合同的资金来源——在每次大规模合同披露时均会成为持续讨论的议题。&lt;/p&gt;
-&lt;p&gt;从单一数据点的角度来看，本次披露强化了现有的需求持续性叙事。市场的后续关注焦点将集中于：承诺额在指引窗口内转化为实际收入的节奏，以及相关披露是否能够进一步厘清合同对手方的质量与期限结构。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI从“降息理由”变“加息论据”：库克称2万亿美元资本开支仅花一小部分，电价水价已涨约5%</title><link>https://wallstreetcn.com/articles/3782683</link><guid>aca69d734308d52a5bd4d2dc658537ac2f237e4f537a05000b7a98fce9a93a66</guid><pubDate>Mon, 28 Sep 2026 21:10:02 GMT</pubDate><description>&lt;p&gt;美联储理事库克（Lisa Cook）周一给出了迄今美联储官员对AI通胀效应最具体的量化警告：人工智能带来的生产率提升，无法及时抵消短期通胀压力。AI在美联储政策框架中的角色正发生逆转——从市场一度寄望的“降息理由”，转向支撑紧缩的“加息论据”。&lt;/p&gt;
-&lt;p&gt;据库克在加州奥克兰的讲话，&lt;strong&gt;大规模数据中心投资已推高电力和水成本约5%；企业承诺的2万亿美元AI资本支出目前仅花费一小部分，后续资金落地将加剧价格压力。她同时指出，AI驱动的股市财富效应正在刺激消费，进一步抵消生产率提升带来的温和去通胀。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;“目前，我预计生产率的提升将在未来几年内带来温和的通胀放缓，然而，我并不认为这些积极效应会及时显现，以抵消今年晚些时候不断扩大的通胀压力。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;库克表示，美联储本月早些时候加息是为应对高企通胀所必需，未来政策路径将由经济数据引导。她同时表示，劳动力市场能够承受进一步加息，经济增速“过去一年保持显著韧性”。&lt;/p&gt;
-&lt;p&gt;在市场层面，联邦基金期货目前显示，10月再度加息的概率约为70%。&lt;a href="https://wallstreetcn.com/articles/3782502?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;美联储官员近期密集发声&lt;/a&gt;，普遍将持续的经济动能与强劲劳动力市场作为支持进一步紧缩的依据。&lt;/p&gt;
-5%的电价水价涨幅只是开始
-&lt;p&gt;库克指出，大规模数据中心投资正在加剧对电力、建筑劳动力等共享资源的竞争，这一竞争已反映为过去一年电力和水成本约5%的涨幅。&lt;/p&gt;
-&lt;p&gt;更关键的是，企业承诺的2万亿美元AI相关资本支出中，目前只花费了“一小部分”。随着后续资金逐步落地，对能源、土地、设备和劳动力的需求将进一步上升，价格压力可能从局部领域向更广泛的经济层面扩散。&lt;/p&gt;
-&lt;p&gt;这一判断与市场此前对AI的认知形成反差。过去两年，投资者普遍将AI视为提升效率、压低成本的供给侧利好。库克的讲话则揭示了一条被忽视的传导链条：在生产率红利兑现之前，AI的大规模部署首先制造的是需求侧冲击，资本开支本身就在推高通胀。&lt;/p&gt;
-财富效应成第二条通胀路径
-&lt;p&gt;库克点出AI通胀效应的第二条路径——股市财富效应。AI驱动的科技股上涨推高了家庭资产净值，进而刺激消费。在劳动力市场依然强劲的背景下，这种由财富驱动的需求增长，可能抵消生产率提升带来的温和去通胀。&lt;/p&gt;
-&lt;p&gt;库克承认AI“有望成为我们一生中最重大的技术变革”，但对生产率提升的速度和幅度表达了明确的不确定性。&lt;/p&gt;
-&lt;p&gt;她表示，“围绕这一机制如何以及何时发挥作用，任何估计都存在不确定性，值得进一步研究和讨论”；目前预计生产率提升将在未来几年提供“温和的去通胀”，但“我不认为这些效应能及时到来，以抵消今年晚些时候不断扩大的通胀压力”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债收益率飙升冲击新兴市场，债券ETF创六个月最大单周失血</title><link>https://wallstreetcn.com/articles/3782681</link><guid>9b6cd027e764db65e5a8339f02758db078dbfdb5a77a0b9112f78c2e96af7e80</guid><pubDate>Mon, 28 Sep 2026 20:17:19 GMT</pubDate><description>&lt;p&gt;美国国债收益率攀升至近二十年高位、油价震荡走高以及霍尔木兹海峡局势持续不明朗，令新兴市场债券本月跌幅即将创伊朗战争爆发以来最差表现，资金出逃态势短期内难以逆转。&lt;/p&gt;
+&lt;p&gt;从单一数据点的角度来看，本次披露强化了现有的需求持续性叙事。市场的后续关注焦点将集中于：承诺额在指引窗口内转化为实际收入的节奏，以及相关披露是否能够进一步厘清合同对手方的质量与期限结构。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债收益率飙升冲击新兴市场，债券ETF创六个月最大单周失血</title><link>https://wallstreetcn.com/articles/3782681</link><guid>9b6cd027e764db65e5a8339f02758db078dbfdb5a77a0b9112f78c2e96af7e80</guid><pubDate>Mon, 28 Sep 2026 20:17:19 GMT</pubDate><description>&lt;p&gt;美国国债收益率攀升至近二十年高位、油价震荡走高以及霍尔木兹海峡局势持续不明朗，令新兴市场债券本月跌幅即将创伊朗战争爆发以来最差表现，资金出逃态势短期内难以逆转。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周一，新兴市场股汇两市延续了近期的抛售态势。由于借贷成本的广泛跃升，MSCI新兴市场股票指数当日下跌1.1%，几乎所有发展中国家货币兑美元均出现走弱，市场风险偏好受到显著压制。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;债券市场的资金外流尤为剧烈。上周，资产规模达130亿美元的 BlackRock iShares摩根大通新兴市场美元债券ETF录得6.1亿美元的资金流出，创下自3月以来的最大单周流出量，资金撤离速度达到六个月来的最高水平。&lt;/p&gt;
 &lt;p&gt;由于霍尔木兹海峡重新开放的不确定性引发油价剧烈波动，市场情绪依然脆弱。尽管有报道称特朗普可能愿意向伊朗提供制裁豁免并释放冻结资金以换取其核计划的进展，促使原油价格从每桶近110美元回落至105美元左右，但在高利率与高油价的双重夹击下，新兴市场资产面临的广泛压力并未消退。&lt;/p&gt;
@@ -244,7 +208,43 @@ V3卫星首秀：商业化进程提速
 &lt;p&gt;在财政政策层面，Lagarde再度就各国政府应对能源价格上涨的方式提出批评。&lt;/p&gt;
 &lt;p&gt;她表示，&lt;strong&gt;财政援助措施应当是临时性的，且应精准指向最需要帮助的居民和企业，但现实情况并不尽如人意。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;quot;从欧盟委员会和我们自身的观察来看，这些措施未必是临时性的，也未必是精准定向的，&amp;quot;Lagarde说，&amp;quot;它们是&amp;#x27;一刀切&amp;#x27;式的举措，并未特别侧重于最脆弱、最易受冲击的群体。&amp;quot;&lt;/p&gt;
-&lt;p&gt;她的这番表态，延续了欧央行长期以来对财政政策纪律的关注，尤其是在债券市场大幅抛售已令部分财政脆弱的欧元区成员国承压的背景下。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Bill Ackman“炮轰”美联储：加息可能是个错误，AI热潮将让通胀更难控制</title><link>https://wallstreetcn.com/articles/3782656</link><guid>deff986c5c0cf91f1c848f9ef83a152caf8758d0bd2917b0ac814057aa63310d</guid><pubDate>Mon, 28 Sep 2026 10:29:14 GMT</pubDate><description>&lt;p&gt;AI资本开支持续扩张，正在削弱加息对投资需求的传统抑制作用，甚至可能通过推高融资和生产成本，反过来增加通胀压力。&lt;strong&gt;亿万富翁投资者Bill Ackman警告，美联储此次加息可能是一个错误。&lt;/strong&gt;美联储9月将基准利率上调25个基点至3.75%—4.00%。&lt;/p&gt;
+&lt;p&gt;她的这番表态，延续了欧央行长期以来对财政政策纪律的关注，尤其是在债券市场大幅抛售已令部分财政脆弱的欧元区成员国承压的背景下。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达联手Anthropic发布AI Agent安全工具，称可阻止Hugging Face式攻击</title><link>https://wallstreetcn.com/articles/3782685</link><guid>a0242313622cacfa8af5329fa4b4385ceb7a611dc8dee2c6eadf188898f45f1c</guid><pubDate>Mon, 28 Sep 2026 21:04:45 GMT</pubDate><description>&lt;p&gt;英伟达正将AI Agent安全推向基础设施层。&lt;/p&gt;
+&lt;p&gt;周一，英伟达推出Open Agent Safety Platform，&lt;strong&gt;通过开源软件与专用硬件构建多层安全机制，限制AI Agent的权限和行为，Anthropic则与英伟达合作，将Claude Managed Agents接入相关安全体系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次合作的核心是OpenShell和Claude Managed Agents。&lt;strong&gt;英伟达提供开源OpenShell运行时软件，为AI Agent设置默认受限的执行环境；Anthropic则提供Claude Managed Agents，并通过凭证保险库等机制管理Agent权限。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;双方希望在企业部署AI Agent时，进一步控制其能够访问的数据、工具、网络和系统资源。&lt;/p&gt;
+&lt;p&gt;英伟达还推出运行在BlueField-4 DPU上的Sentry安全层，可以独立于Agent运行环境持续监控其行为，并在发现越权操作时进行隔离。&lt;strong&gt;英伟达称，Sentry能够在毫秒级阻断可疑Agent活动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英伟达称此次推出的安全软件可能阻止近期发生的一起Hugging Face相关事件。&lt;/strong&gt;英伟达方面表示，如果当时使用相关技术，根据公司目前掌握的信息，该平台可能阻止相关事件。&lt;/p&gt;
+英伟达为AI Agent加上“安全围栏”
+&lt;p&gt;Open Agent Safety Platform主要由OpenShell和Sentry两层组成。&lt;/p&gt;
+&lt;p&gt;其中，OpenShell是一套开源Agent运行时软件，通过沙箱和权限策略限制Agent的活动范围。英伟达表示，该系统可以控制Agent对文件、网络、进程、工具和凭证等资源的访问，并默认阻止未经授权的操作。&lt;/p&gt;
+&lt;p&gt;Sentry则将安全控制进一步延伸至硬件层。该系统运行在英伟达 BlueField-4 DPU上，与运行AI Agent的主机环境相对独立，可以持续检查Agent的请求和响应，并对数据、工具、API和服务进行访问控制。&lt;/p&gt;
+&lt;p&gt;英伟达表示，如果Agent试图突破既定的软件边界，Sentry可以对其进行隔离。相比单纯依赖模型自身遵守安全规则，这一架构增加了额外的运行时和硬件防护层。&lt;/p&gt;
+Anthropic将Claude接入
+&lt;p&gt;Anthropic此次参与的重点是Claude Managed Agents。&lt;/p&gt;
+&lt;p&gt;Claude Managed Agents能够将Agent运行循环放置在独立服务器上，并与执行具体任务的沙箱环境分开。在此基础上，该服务与OpenShell及BlueField进行整合，为企业提供更细致的Agent权限控制。&lt;/p&gt;
+&lt;p&gt;Notion、Rakuten和Asana等企业已经在生产环境中使用Claude Managed Agents。&lt;/p&gt;
+&lt;p&gt;这意味着，企业部署Claude等AI Agent时，可以在模型之外增加一套独立的安全控制机制。Agent可以继续自主执行任务，但其能够访问哪些资源、使用哪些工具，以及出现异常时是否继续运行，都可以通过额外的软件和硬件层进行限制。&lt;/p&gt;
+英伟达瞄准AI Agent安全需求
+&lt;p&gt;此次发布也发生在AI Agent安全问题受到更多关注之际。&lt;/p&gt;
+&lt;p&gt;英伟达创始人兼CEO黄仁勋表示，随着AI能力不断发展，AI安全能力也需要同步推进，并称AI安全需要“全栈工程”。&lt;/p&gt;
+&lt;p&gt;英伟达此次并没有把安全能力局限于某一个AI模型，而是将其延伸到Agent运行时、服务器以及网络和计算基础设施。对于企业而言，这意味着AI Agent的安全边界可以从模型本身进一步扩展至执行环境。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前，超过100家机构参与相关技术。除Anthropic外，英伟达还披露，SpaceXAI正在将相关平台用于Cursor coding agents和Grok模型，Salesforce和SAP也在推进OpenShell相关整合。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着AI Agent从聊天工具逐步转向能够调用工具、访问数据并自主执行任务的企业软件，围绕Agent权限、隔离和实时监控的基础设施需求也在扩大。&lt;/p&gt;
+&lt;p&gt;英伟达此次推出开放式安全平台，并与Anthropic等AI厂商展开合作，正试图将这类安全能力纳入AI基础设施体系。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI从“降息理由”变“加息论据”：库克称2万亿美元资本开支仅花一小部分，电价水价已涨约5%</title><link>https://wallstreetcn.com/articles/3782683</link><guid>aca69d734308d52a5bd4d2dc658537ac2f237e4f537a05000b7a98fce9a93a66</guid><pubDate>Mon, 28 Sep 2026 21:10:02 GMT</pubDate><description>&lt;p&gt;美联储理事库克（Lisa Cook）周一给出了迄今美联储官员对AI通胀效应最具体的量化警告：人工智能带来的生产率提升，无法及时抵消短期通胀压力。AI在美联储政策框架中的角色正发生逆转——从市场一度寄望的“降息理由”，转向支撑紧缩的“加息论据”。&lt;/p&gt;
+&lt;p&gt;据库克在加州奥克兰的讲话，&lt;strong&gt;大规模数据中心投资已推高电力和水成本约5%；企业承诺的2万亿美元AI资本支出目前仅花费一小部分，后续资金落地将加剧价格压力。她同时指出，AI驱动的股市财富效应正在刺激消费，进一步抵消生产率提升带来的温和去通胀。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“目前，我预计生产率的提升将在未来几年内带来温和的通胀放缓，然而，我并不认为这些积极效应会及时显现，以抵消今年晚些时候不断扩大的通胀压力。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;库克表示，美联储本月早些时候加息是为应对高企通胀所必需，未来政策路径将由经济数据引导。她同时表示，劳动力市场能够承受进一步加息，经济增速“过去一年保持显著韧性”。&lt;/p&gt;
+&lt;p&gt;在市场层面，联邦基金期货目前显示，10月再度加息的概率约为70%。&lt;a href="https://wallstreetcn.com/articles/3782502?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;美联储官员近期密集发声&lt;/a&gt;，普遍将持续的经济动能与强劲劳动力市场作为支持进一步紧缩的依据。&lt;/p&gt;
+5%的电价水价涨幅只是开始
+&lt;p&gt;库克指出，大规模数据中心投资正在加剧对电力、建筑劳动力等共享资源的竞争，这一竞争已反映为过去一年电力和水成本约5%的涨幅。&lt;/p&gt;
+&lt;p&gt;更关键的是，企业承诺的2万亿美元AI相关资本支出中，目前只花费了“一小部分”。随着后续资金逐步落地，对能源、土地、设备和劳动力的需求将进一步上升，价格压力可能从局部领域向更广泛的经济层面扩散。&lt;/p&gt;
+&lt;p&gt;这一判断与市场此前对AI的认知形成反差。过去两年，投资者普遍将AI视为提升效率、压低成本的供给侧利好。库克的讲话则揭示了一条被忽视的传导链条：在生产率红利兑现之前，AI的大规模部署首先制造的是需求侧冲击，资本开支本身就在推高通胀。&lt;/p&gt;
+财富效应成第二条通胀路径
+&lt;p&gt;库克点出AI通胀效应的第二条路径——股市财富效应。AI驱动的科技股上涨推高了家庭资产净值，进而刺激消费。在劳动力市场依然强劲的背景下，这种由财富驱动的需求增长，可能抵消生产率提升带来的温和去通胀。&lt;/p&gt;
+&lt;p&gt;库克承认AI“有望成为我们一生中最重大的技术变革”，但对生产率提升的速度和幅度表达了明确的不确定性。&lt;/p&gt;
+&lt;p&gt;她表示，“围绕这一机制如何以及何时发挥作用，任何估计都存在不确定性，值得进一步研究和讨论”；目前预计生产率提升将在未来几年提供“温和的去通胀”，但“我不认为这些效应能及时到来，以抵消今年晚些时候不断扩大的通胀压力”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Bill Ackman“炮轰”美联储：加息可能是个错误，AI热潮将让通胀更难控制</title><link>https://wallstreetcn.com/articles/3782656</link><guid>deff986c5c0cf91f1c848f9ef83a152caf8758d0bd2917b0ac814057aa63310d</guid><pubDate>Mon, 28 Sep 2026 10:29:14 GMT</pubDate><description>&lt;p&gt;AI资本开支持续扩张，正在削弱加息对投资需求的传统抑制作用，甚至可能通过推高融资和生产成本，反过来增加通胀压力。&lt;strong&gt;亿万富翁投资者Bill Ackman警告，美联储此次加息可能是一个错误。&lt;/strong&gt;美联储9月将基准利率上调25个基点至3.75%—4.00%。&lt;/p&gt;
 &lt;p&gt;Ackman近日在X平台发文称，AI军备竞赛正推动科技巨头持续扩大资本开支。&lt;strong&gt;即使融资成本上升，企业仍可能继续建设数据中心、采购算力，使更高利率难以有效压制投资需求；与此同时，利息成本上升还可能通过供应链和定价机制传导至商品和服务价格。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一担忧并非Ackman一人的判断。Moody&amp;#x27;s Analytics首席经济学家Mark Zandi此前也表示，美联储此时加息可能是“一个错误”，并警告称，若要将通胀重新压回2%的目标，美联储要么遏制AI投资热潮，要么进一步压制经济其他部分。&lt;/p&gt;
 AI投资热潮，正在削弱加息的传统传导机制
