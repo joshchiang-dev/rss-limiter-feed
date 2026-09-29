@@ -1,28 +1,144 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 07:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
-&lt;p&gt;韩国交易所数据显示，本月1日至23日，KOSPI上市股票日均换手率降至0.50%，为今年以来最低。三星电子与SK海力士股价单日分别下挫逾5%，拖累指数于28日重新跌破7,000点关口，报收6,889.74点。&lt;/p&gt;
-&lt;p&gt;高利率与油价压力令场外资金迟迟未能回流，券商经纪账户待入市资金仅微幅高于100万亿韩元。市场人士表示，只有宏观压力缓解、三季度企业业绩指引符合预期，资金才有望重返市场。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 08:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] Anthropic 招股书里，最耐人寻味的 7 个细节</title><link>https://wallstreetcn.com/articles/3782729</link><guid>28dbd668b482fe39429114be15fd445c8609aba1fb232e49807d5c6ee8621422</guid><pubDate>Tue, 29 Sep 2026 08:25:54 GMT</pubDate><description>&lt;p&gt;当地时间 9 月 28 日，外媒披露了一份 Anthropic 的 IPO 招股书。&lt;/p&gt;
+&lt;p&gt;先要说清楚这份文件的性质。它并不是 Anthropic 主动公开的版本。今年 6 月，Anthropic 以公益公司身份向美国证交会秘密递交了 S-1 注册声明草案，为普通股首次公开发行做准备。按照规则，公司要在向机构投资者路演前至少 15 天公开递交修订版 S-1，完整财务数据到那时才会被外界看到。路透此次看到的是一份尚未公开的版本，&lt;strong&gt;Anthropic 对此拒绝置评&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这意味着其中的数字仍可能随证交会的审阅意见调整，不少细节也只能通过路透的转述窥见一角。&lt;/p&gt;
+&lt;p&gt;但如果这份文件大体反映了 Anthropic 最终交给公开市场的样子，它的分量很难被高估。这次上市的估值目标，是 Anthropic 自己 5 月估算的 9650 亿美元的两倍以上，也就是超过 2 万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是 ChatGPT 引爆这轮 AI 浪潮近四年来，第一家把完整账本摊给公众投资人的前沿大模型实验室。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在此之前，这场 AI 竞赛的资金一直由风投、主权财富基金和科技巨头承担，外界只能从零散的年化收入和融资估值里拼凑这些公司的经营状况。现在，账本第一次有了审计口径。&lt;/p&gt;
+&lt;p&gt;极客公园从招股书中，挑出了 7 个最值得细看的地方。&lt;/p&gt;
 
-换手率六连降，交投活跃度跌至年内谷底
 
-&lt;p&gt;韩国交易所数据显示，KOSPI日均换手率自3月份的1.74%高点后持续回落——&lt;strong&gt;4月降至1.48%，5月1.13%，6月0.81%，7月0.72%，8月0.54%，本月进一步收窄至0.50%，连续六个月下滑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;换手率以交易量除以上市股票总数计算，是衡量市场交投活跃程度的核心指标。&lt;/p&gt;
-&lt;p&gt;分析人士指出，6月至7月市场剧烈波动期间一度活跃的短线交易已明显降温，投资者正在等待更为明确的市场催化剂。散户倾向于在股价反弹至成本价附近时逢高减仓，外资则在利率与油价压力下同样按兵不动。&lt;/p&gt;
-&lt;p&gt;本月截至统计期间，&lt;strong&gt;散户和外资在KOSPI主板分别净卖出16.69万亿韩元（约合119亿美元）和16.42万亿韩元（约合117亿美元）。&lt;/strong&gt;&lt;/p&gt;
 
-三星与SK海力士回购接近尾声，市场支撑减弱
 
-&lt;p&gt;&lt;strong&gt;此前对市场形成一定支撑的三星电子和SK海力士股票回购计划，已分别完成85.95%和66.27%（截至28日），剩余回购空间日益有限，对指数的托底效果相应减弱。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;停泊于券商经纪账户、等待入场的投资者保证金余额截至23日为101.63万亿韩元，仅略高于100万亿韩元的整数关口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;28日，受美国长期国债收益率大幅攀升拖累，三星电子与SK海力士分别下跌5.05%和5.43%，报收27万韩元和176.8万韩元，成为当日KOSPI重挫2.70%的主要拖累因素。&lt;/p&gt;
-&lt;p&gt;此外，市场对美国软件企业甲骨文人工智能数据中心建设延期的担忧也进一步压制了投资情绪。&lt;/p&gt;
 
-目光转向基本面，PCE数据与美光财报成关键节点
 
-&lt;p&gt;投资者当前将目光锁定在30日发布的两项重磅信息：&lt;strong&gt;美国8月个人消费支出（PCE）价格指数，以及美光科技的季度业绩。&lt;/strong&gt;上述数据被视为判断市场能否企稳反弹的关键参照。&lt;/p&gt;
-&lt;p&gt;大信证券研究员Lee Kyoung-min表示：&amp;quot;问题的核心不在于利率本身，而在于什么样的动能能够克服利率压力，市场关注焦点现在将转向基本面。&amp;quot;&lt;/p&gt;
-&lt;p&gt;多位证券分析师认为，唯有宏观压力出现实质性缓解，且企业业绩季的前景指引达到市场预期，场外资金才具备重新流入的条件。在此之前，KOSPI能否重新站稳7,000点，仍有赖于外部环境的配合。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指午后震荡盘整，地产爆发、万科涨停，固态电池拉升，恒科指跌近2%，科网股普遍下跌</title><link>https://wallstreetcn.com/articles/3782706</link><guid>4e3b8ffaede29fb78caf93cd00edfa3b1b606cd91a5bad5429c46d8a89016b9e</guid><pubDate>Tue, 29 Sep 2026 05:46:46 GMT</pubDate><description>&lt;p&gt;房地产板块大爆发，万科、信达、滨江等纷纷涨停，华尔街见闻文章写道，9月28日国常会指出，推出一批务实管用的增量政策，优化财政支出安排，用好地方政府债务结存限额，综合运用并适时调整货币政策工具，增加科技创新和技术改造、支农支小等再贷款额度，研究出台稳定房地产市场、促进就业增收等政策措施。&lt;/p&gt;
+
+
+&lt;strong&gt;被误读的 420 亿美元亏损&lt;/strong&gt;
+
+&lt;p&gt;招股书里最先被传播的数字，是 2025 年约 420 亿美元的净亏损。&lt;/p&gt;
+&lt;p&gt;这个数字很容易被读成「一年烧掉 420 亿美元」，实际并非如此。其中约 340 亿美元是一笔会计费用，反映的是那些未来可能转换成 Anthropic 股票的融资工具估值上升，而不是公司经营业务花掉的钱。&lt;/p&gt;
+&lt;p&gt;这就产生了一个反直觉的结果。&lt;strong&gt;Anthropic 越值钱，它在账面上「亏」得就越多&lt;/strong&gt;。2025 年恰好是它估值暴涨的一年，这笔费用也被同步放大。&lt;/p&gt;
+&lt;p&gt;真正反映经营状况的是另一组数字。收入从 3.86 亿美元增长到 45.9 亿美元，增幅 1088%；经营亏损则从 29.8 亿美元扩大到 80.6 亿美元。&lt;/p&gt;
+&lt;p&gt;收入涨了约 12 倍，经营亏损扩大不到 3 倍，规模效应确实在出现。但一年 80 亿美元的经营亏损，放在任何一家准备上市的公司身上，都是需要反复解释的数字。&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;strong&gt;650 亿美元年化收入的坑&lt;/strong&gt;
+
+&lt;p&gt;招股书的消息传开后，美国散户论坛 wallstreetbets 上的最高赞评论只有一句话，大意是「&lt;strong&gt;2 万亿估值，配 40 亿收入？&lt;/strong&gt;」&lt;/p&gt;
+&lt;p&gt;这个质疑直观，但拿错了分母。&lt;/p&gt;
+&lt;p&gt;招股书的主体覆盖 2025 财年，截至去年 12 月 31 日，而 Anthropic 真正的爆发发生在 2026 年。据报道，它的年化收入在 2025 年底约为 90 亿美元，今年 5 月约 470 亿美元，到 7 月底已超过 650 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;招股书里的 45.9 亿美元，是一家公司在「起飞前」的最后一张快照&lt;/strong&gt;。资本市场给出的 2 万亿美元估值，押注的是 2026 年之后的曲线，而不是 2025 年的全年成绩。&lt;/p&gt;
+&lt;p&gt;不过，年化收入本身需要打折看。它通常用某一个月的收入乘以 12 推算，天然会放大短期波动。招股书自己也给出了两处值得警惕的提示。去年近四分之一的收入来自两个客户；公司还在风险因素中承认，许多最大客户并没有签订长期合同，可能削减甚至停止支出。&lt;/p&gt;
+&lt;p&gt;路透没有披露这两家客户的名字，这会是公开版 S-1 出来后最值得第一时间核对的信息。&lt;strong&gt;Anthropic 的增长曲线足够陡峭，却缺乏合同层面的锁定&lt;/strong&gt;，这是理解它估值的关键前提。&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;strong&gt;最大的股东，最大的房东&lt;/strong&gt;
+
+&lt;p&gt;2025 年，Anthropic 在算力和基础设施上的支出达到 73.3 亿美元，占总运营支出的 58%，约为全年收入的 1.6 倍。&lt;/p&gt;
+&lt;p&gt;问题在于这笔钱流向了谁。&lt;/p&gt;
+&lt;p&gt;亚马逊和谷歌不仅是 Anthropic 的投资方，也是它训练和运行 Claude 所依赖的云服务商。投资款以云服务费的形式流回投资方的云业务，既托起了 Anthropic 的估值，也推高了云厂商的收入。&lt;/p&gt;
+&lt;p&gt;这种结构并不违规，在 AI 行业也不罕见，微软与 OpenAI、英伟达与一众算力客户之间都存在类似的循环。但进入公开市场之后，投资人需要回答的问题会变得非常具体。&lt;strong&gt;Anthropic 的增长里，有多少是真实的终端需求，又有多少是资本在巨头之间的循环？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个问题的答案不只关乎 Anthropic 一家。已经有交易员把 5180 亿美元的承诺，视为算力「卖铲人」的最大利好，这意味着 Anthropic 的股价未来会和整条 AI 基建链条绑得更紧。&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;strong&gt;50.1% 投票权&lt;/strong&gt;
+
+&lt;p&gt;如果说前几个细节讲的是钱，那么治理结构讲的是谁说了算。这是整份招股书里最「Anthropic」的部分。&lt;/p&gt;
+&lt;p&gt;根据招股书，Anthropic 将设立名为 Founder LLC 的实体，初始成员是包括 CEO Dario Amodei 在内的七位联合创始人。七人以多数投票的方式支配一股 F 类股票，这一股在关键公司事务上拥有 50.1% 的总投票权，包括选举部分董事。&lt;/p&gt;
+&lt;p&gt;上市完成后，董事长 Daniela Amodei、Dario Amodei 和一位尚未公布的董事，由 F 类和 A 类股东选举产生；其余四位董事由长期利益信托选出，&lt;strong&gt;现任受托人包括前美联储主席伯南克和国家安全专家 Richard Fontaine&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;普通投资者买到的 A 类股是一股一票，但另外几类股票各有用途和限制，其中战略合作伙伴只拥有极小的投票权，这套结构实际上会削弱普通投资者的影响力。&lt;/p&gt;
+&lt;p&gt;招股书也为创始团队解体准备了预案。成员离开公司、去世、出售过多股份或因故被解雇，都可能被移出这一群体；如果成员减少到两人或更少，F 类股的投票权优势将逐步消失。联合创始人还在文件中承诺，将个人所持 Anthropic 股权的 80% 用于慈善。&lt;/p&gt;
+&lt;p&gt;最值得玩味的是招股书对这一切的自我评价。它直言这套治理模式可能导致公司作出与短期、中期或长期财务利益和经营表现相冲突的决定，进而可能降低 A 类股的价值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一家寻求 2 万亿美元估值的公司，在上市文件里明确提醒投资人，他们的回报并不总是排在第一位&lt;/strong&gt;。这在资本市场上相当少见。两大代理顾问机构 ISS 和 Glass Lewis 历来建议反对多层股权安排，这套设计能否被主流机构接受，会是路演阶段的一大看点。&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;strong&gt;主动放弃视频和图像生成&lt;/strong&gt;
+
+&lt;p&gt;为了证明这套治理结构不是空谈，招股书举了几个例子。&lt;/p&gt;
+&lt;p&gt;一个是 Mythos Preview，这款模型在网络安全方面能力格外强，Anthropic 为它设立了有限访问计划，只向少数机构开放。&lt;/p&gt;
+&lt;p&gt;另一个例子更出人意料。招股书写道，&lt;strong&gt;公司选择不开发某些商业上有吸引力的产品，比如图像和视频生成模型&lt;/strong&gt;，以便把算力投向研究和安全优先事项。&lt;/p&gt;
+&lt;p&gt;单看这句话，它是一种立场表达。放进今年的行业背景里，意味就复杂得多。&lt;/p&gt;
+&lt;p&gt;半年前，OpenAI 宣布关停上线仅约六个月的视频生成应用 Sora，理由是公司要转向商业工具，为可能的上市做准备。Sora 的应用和网页端在 4 月 26 日下线，API 也在 9 月 24 日跟着停止服务。高昂的算力成本、快速流失的用户和版权纠纷，都是 Sora 被放弃的原因。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同一件事，OpenAI 做了、烧了钱、最终砍掉，理由是聚焦企业业务；Anthropic 从未涉足，在招股书里把它写成了为安全与研究作出的取舍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两家公司最终站到了同一个位置，都把筹码押在企业客户和编程场景上，讲出来的故事却截然不同。Sora 的结局，也让「商业上有吸引力」这个前提显得有些可疑。&lt;/p&gt;
+&lt;p&gt;极客公园更倾向于认为，这里的使命叙事与商业判断很难拆开。在算力极度紧张的阶段，把资源集中在单位价值最高的地方，本身就是正确的生意。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic 的高明之处在于，它把一个正确的商业决定，写成了价值观的证明。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;strong&gt;80 页风险因素写着「人类存亡」&lt;/strong&gt;
+
+&lt;p&gt;&lt;strong&gt;招股书的风险因素部分长达 80 页，明确警告其 AI 模型可能构成灾难性甚至生存性的威胁&lt;/strong&gt;。路透还提到，Anthropic 自己的研究记录过一些受控测试，逐渐自主的 AI 系统在其中表现出潜在有害的行为，包括破坏代码、协助欺诈和操纵信息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;把「我们的产品可能威胁人类」写进招股书，既是真诚的立场，也是标准的法律铺垫&lt;/strong&gt;。两者并不矛盾。风险因素的本来功能，就是把所有可能出问题的地方提前说清楚，以免日后陷入投资者诉讼。一家常年公开谈论 AI 风险的公司，如果在招股书里对此避而不谈，反而会在法律上陷入被动。&lt;/p&gt;
+&lt;p&gt;真正的张力在另一个地方。Dario Amodei 曾呼吁全球 AI 社区放慢发布新能力的节奏，但 Anthropic 上周仍推出了新模型 Opus 5.5，以回应 OpenAI 发布 GPT-6 Astra 之后的势头。&lt;/p&gt;
+&lt;p&gt;呼吁放慢与加速发布同时发生，并不意外。&lt;strong&gt;在一个所有人都在加速的赛道里，单方面减速的代价，是把定义规则的位置让给别人&lt;/strong&gt;。这是 Anthropic 从成立第一天起就面对的困境，招股书只是把它变成了白纸黑字。&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;strong&gt;5180 亿美元的算力成本？&lt;/strong&gt;
+
+&lt;p&gt;另一个被广泛引用的数字，是约 5180 亿美元的云、算力和基础设施承诺。&lt;/p&gt;
+&lt;p&gt;不少报道把它解读为「明年要花 5180 亿美元买算力」，就连路透不同版本的稿件在措辞上也并不一致。有分析指出，这是多年期合同的总价值，而非单年支出；按已披露的分配，亚马逊 AWS 约 1000 亿美元，谷歌云约 2000 亿美元，Lambda 与 Nscale 约 800 亿美元，Fluidstack 约 500 亿美元，微软 Azure 约 300 亿美元，其余为较小的合同。其中 AWS 部分是今年早些时候签下的十年期合约，可锁定最多 5 吉瓦的算力容量。&lt;/p&gt;
+&lt;p&gt;即便按多年总额看，这个数字依然惊人。截至去年 12 月 31 日，Anthropic 的现金、现金等价物和短期投资合计 202.8 亿美元。&lt;strong&gt;5180 亿美元的承诺，是这笔现金的 25 倍以上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也解释了上市的紧迫性。有报道称，Anthropic 这次可能寻求募资高达 1000 亿美元。&lt;strong&gt;上市在很大程度上，是在为已经签下的算力合同找钱。&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;strong&gt;两种「安全」，两条上市路&lt;/strong&gt;
+
+
+&lt;p&gt;据路透此前报道，Anthropic 的公开上市大概率会推迟到 11 月美国中期选举之后。等待它的并不是一个多么友好的市场。AI 与芯片股近期经历了一轮抛售；SpaceX 6 月上市首日大涨 19% 至 160 美元，如今回落到 147 美元左右，虽仍高于 135 美元的发行价，却足以让投资人对高估值成长股多一分谨慎。&lt;/p&gt;
+&lt;p&gt;Anthropic 此前还因旗下工具受到白宫审视，一度被五角大楼列入黑名单，后被美国法官叫停，政治变量同样悬而未决。&lt;/p&gt;
+&lt;p&gt;更值得对照的是它的老对手。&lt;/p&gt;
+&lt;p&gt;OpenAI 在 Anthropic 之后约一周也秘密递交了上市申请，并在公告里坦言，之所以主动宣布，是因为预计消息会泄露。但到了 9 月，Sam Altman 在接受《财富》采访时确认 OpenAI 今年不会上市，理由是考虑到安全方面正在发生的一切，现在并不是上市的好时机；此前《纽约时报》也报道过，推迟的原因之一是 Altman 坚持至少 1 万亿美元的估值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;同样是「安全」，Anthropic 把它写进治理结构，当作说服投资人的理由去上市；OpenAI 则把它当作暂缓上市的理由。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;很难说谁更真诚。但它揭示了一件事，在 AI 公司走向公开市场的这一刻，「安全」已经不只是技术和伦理议题，也成了资本叙事的一部分。&lt;/p&gt;
+&lt;p&gt;路透认为，这次上市将确立华尔街为头部 AI 公司估值的基准，其中也包括 OpenAI。一旦 Anthropic 顺利挂牌，之后所有前沿实验室都要面对同一组问题。收入曲线能否追上算力账单，客户能否被合同锁住，创始人的控制权应该有多大，一家公司主动放弃的生意，市场是否愿意为之买单。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这份招股书真正要回答的，或许是一个更古老的问题，资本市场能不能容忍一家公司，把「不做什么」写得和「做什么」一样重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/Djig7X8b6sQuo3oNwIXr0w"&gt;极客公园&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指午后震荡盘整，地产爆发、万科涨停，固态电池拉升，恒科指跌近2%，科网股普遍下跌</title><link>https://wallstreetcn.com/articles/3782706</link><guid>4e3b8ffaede29fb78caf93cd00edfa3b1b606cd91a5bad5429c46d8a89016b9e</guid><pubDate>Tue, 29 Sep 2026 05:46:46 GMT</pubDate><description>&lt;p&gt;房地产板块大爆发，万科、信达、滨江等纷纷涨停，华尔街见闻文章写道，9月28日国常会指出，推出一批务实管用的增量政策，优化财政支出安排，用好地方政府债务结存限额，综合运用并适时调整货币政策工具，增加科技创新和技术改造、支农支小等再贷款额度，研究出台稳定房地产市场、促进就业增收等政策措施。&lt;/p&gt;
 &lt;p&gt;9月29日，A股午后继续缩量震荡盘整，三大股指维持在平盘附近，微盘股指数涨幅有所收窄反弹。房地产板块爆发，文化传媒板块上涨，固态电池、PCB等概念股拉升。培育钻石、玻璃基板、煤炭开采等概念股陷入调整，海运、石油天然气、贵金属等板块延续弱势。&lt;/p&gt;
 &lt;p&gt;港股午后延续跌势，恒指、恒科指继续下跌，恒科指跌超1%，恒生生物科技指数午后涨幅收窄至1%左右，生物医药上涨，康方生物涨超16%，权重科网股普遍下跌，新能源汽车大跌，蔚来、吉利跌幅居前。债市方面，国债期货全线走高。商品方面，国内商品期货普遍下跌，贵金属期货跌幅居前。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -153,7 +269,49 @@ HRS-1596：每周一次口服给药，尚处早期临床阶段
 数据中心能否变现，仍是悬念
 &lt;p&gt;在企业业务的具体形态上，扎克伯格周一对投资者表示，Meta将&amp;quot;发挥自身优势&amp;quot;，包括庞大的数据中心基础设施，来服务企业客户。&lt;/p&gt;
 &lt;p&gt;但他并未明确表示，公司是否有立即向客户出售闲置数据中心容量的计划——此前有报道称Meta正考虑效仿SpaceX，后者已与Anthropic和谷歌签署了相关协议。&lt;/p&gt;
-&lt;p&gt;Desai则对新部门的定位给出了更清晰的表述：&amp;quot;Meta Enterprise Platform将专注于把Meta的AI技术栈转化为企业可以部署的产品和服务。我们的目标是让Meta成为企业扩展业务的首选平台。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI发布AI训练安全准则：失控就叫停，高管拥有一票否决权！</title><link>https://wallstreetcn.com/articles/3782724</link><guid>403637097868fdafc09e8ca9a4f6cc59c172fc92aa433694a3c38034272f239e</guid><pubDate>Tue, 29 Sep 2026 07:29:15 GMT</pubDate><description>&lt;p&gt;OpenAI正式为前沿AI训练划定安全红线。这家全球最具影响力的人工智能公司发布了一套针对前沿AI训练的安全准则框架，要求在启动或继续任何前沿强化学习训练之前，必须完成系统性的安全论证文件，并赋予高级管理层对训练任务的一票否决权。&lt;/p&gt;
+&lt;p&gt;Desai则对新部门的定位给出了更清晰的表述：&amp;quot;Meta Enterprise Platform将专注于把Meta的AI技术栈转化为企业可以部署的产品和服务。我们的目标是让Meta成为企业扩展业务的首选平台。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美伊谈判牵动市场，纳指期货转涨，美债收益率高位震荡，金油齐涨</title><link>https://wallstreetcn.com/articles/3782726</link><guid>4053b380be14b5c986fe0a7f184f00e24f3737d8f3fda64fe3cf7fb01a9bdf7b</guid><pubDate>Tue, 29 Sep 2026 08:08:20 GMT</pubDate><description>&lt;p&gt;油价上涨与美联储加息预期升温，推动美国国债收益率升至多年高位，全球股市跌至一周低点。&lt;/p&gt;
+&lt;p&gt;周二，MSCI全球指数下跌0.2%，创9月18日以来新低。纳指期货转涨，此前一度跌0.5%，欧股涨跌互现，日韩股指收跌。10年期美债收益率在周一触及2007年以来高点后，再涨1个基点至5.25%；30年期收益率亦升1个基点至5.56%。&lt;/p&gt;
+&lt;p&gt;地缘方面，据CCTV国际时讯，伊朗外长将返回德黑兰等待美方回应。布伦特原油连续第二日上涨，涨幅达1.2%至99美元；现货黄金上涨0.7%，至每盎司4145美元。油价攀升、美国商业活动走强及对政府债务高企的担忧，共同引发自2025年4月以来最大规模美债抛售。收益率飙升推高借贷成本，经济增长与企业盈利前景承压。&lt;/p&gt;
+&lt;p&gt;摩根士丹利旗下E*Trade的克里斯·拉金表示，受收益率与油价上涨影响，市场整体缺乏动力。鉴于美联储当前聚焦通胀，除非本周劳动力市场数据出现重大意外，否则市场表现可能继续弱于利率与能源市场。&lt;/p&gt;
+&lt;p&gt;核心市场走势如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;纳指期货转涨，此前一度跌0.5%。美股存储概念股盘前小幅上涨，美光科技涨1.6%，SK海力士、闪迪涨1.4%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;欧洲斯托克50指数开盘涨0.27%，德国DAX指数跌0.13%，英国富时100指数涨0.19%，法国CAC 40指数涨0.06%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日经225指数收跌0.6%，报65,481.27点。日本东证指数收跌1.7%，报4,041.13点。韩国KOSPI指数收跌0.27%，报6870.81点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10年期美国国债收益率上升1个基点至5.25%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;彭博美元现货指数上涨0.1%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现货黄金上涨0.7%，至每盎司4145美元。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;布伦特原油涨1.2%至99美元。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+纳指期货转涨，美债收益率高位震荡
+&lt;p&gt;纳指期货转涨，此前一度跌0.5%。Capital.com高级市场分析师Kyle Rodda指出，强劲的企业盈利将继续为股市提供支撑，抵御债券收益率上升和AI估值风险带来的压力。&lt;/p&gt;
+&lt;p&gt;本周，交易员将密切关注一系列美国经济数据，以判断经济是否仍足够强劲、支持美联储进一步收紧政策。消费者信心指数和8月JOLTS职位空缺数据将于周二公布，随后是消费者支出和通胀数据，周五将发布非农就业报告。&lt;/p&gt;
+&lt;p&gt;10年期美债收益率周一升至2007年以来最高水平，今日一度再涨1个基点至5.25%。近期债市遭抛售后，部分投资者开始看多债市。&lt;/p&gt;
+&lt;p&gt;长期债券投资者Chris Iggo表示，经历四年艰难期后，债市即将反弹。华尔街资深人士Jim Bianco六年来首次看多美债，称“这是价值投资，若收益率继续上行，我将继续买入。”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+黄金反弹、原油上涨，伊朗确认向美转达“7日计划”并等待回应
+&lt;p&gt;黄金价格上涨0.7%，报每盎司4145美元。此前，金价在亚洲交易时段跌破4230美元关键支撑位，触发技术性抛售，并进一步跌破50日和100日移动均线，回落至8月低点附近。&lt;/p&gt;
+&lt;p&gt;此轮下跌由多重因素共同驱动：&lt;strong&gt;美国实际利率攀升至18年高位、中国投资者在国庆长假前集中平仓，以及特朗普拒绝伊朗停火提议引发的地缘政治不确定性。&lt;/strong&gt;高盛贵金属专家Adam Gillard指出，上述因素叠加形成了对黄金的&amp;quot;单向下行压力&amp;quot;。市场关注的焦点将继续集中在ETF资金流动上，这是当前抵御利率压力的关键变量。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;布伦特原油涨1.2%至99美元。地缘方面，据CCTV国际时讯援引伊朗迈赫尔通讯社今天（9月29日）报道，伊朗外交部长阿拉格齐当天在接受媒体采访时，阐述了其赴纽约出席第81届联合国大会的主要目标之一：向世界传达伊朗在战争问题——特别是霍尔木兹海峡问题上的立场。&lt;/p&gt;
+&lt;p&gt;阿拉格齐同时确认，当天与作为调解方的卡塔尔再次会面，并通过卡塔尔向美国转达了“7日计划”，正在等待美方通过调解方作出的正式回应。当被问及是留在纽约等待美国回应时，阿拉格齐表示，他将启程返回德黑兰，卡塔尔方面一旦有回应，他们知道如何转达给伊朗方面。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI发布AI训练安全准则：失控就叫停，高管拥有一票否决权！</title><link>https://wallstreetcn.com/articles/3782724</link><guid>403637097868fdafc09e8ca9a4f6cc59c172fc92aa433694a3c38034272f239e</guid><pubDate>Tue, 29 Sep 2026 07:29:15 GMT</pubDate><description>&lt;p&gt;OpenAI正式为前沿AI训练划定安全红线。这家全球最具影响力的人工智能公司发布了一套针对前沿AI训练的安全准则框架，要求在启动或继续任何前沿强化学习训练之前，必须完成系统性的安全论证文件，并赋予高级管理层对训练任务的一票否决权。&lt;/p&gt;
 &lt;p&gt;据OpenAI官方博客，该准则涵盖技术防护、运营管理与失准事件调查三大板块，核心要求包括&lt;strong&gt;：训练过程中若出现未被及时响应的优先级安全警报，相关训练任务须自动暂停；负责审核安全论证的高级领导层成员，每人均拥有叫停训练运行的否决权。&lt;/strong&gt;OpenAI表示，上述建议目前正处于内部落地实施阶段，并预计将持续迭代演进。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此举标志着OpenAI在前沿模型开发流程中引入了更为结构化的安全管控机制。对于市场而言，这一框架的出台既反映出头部AI实验室对模型失控风险的高度警惕，也意味着前沿模型的训练周期与合规成本可能进一步上升。&lt;/p&gt;
@@ -362,23 +520,4 @@ Johnson划定基调：创新优先，但要有边界
 &lt;p&gt;在AI安全问题上，我们显然需要大胆而负责任地行动——现在就要。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;两党议员均对特朗普的“放手”态度提出质疑，担忧AI带来的安全风险、就业冲击，以及少数科技巨头对这项技术的高度垄断。&lt;/p&gt;
-&lt;p&gt;与此同时，特朗普近期在联合国明确表示，美国将拒绝国际AI监管框架。而OpenAI CEO Sam Altman则公开主张，全球治理是必要的。双方立场的张力，将在这场午餐上直接碰撞。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 开发者大会前夜，OpenAI取消原定发布的GPT-6.1 Astra</title><link>https://wallstreetcn.com/articles/3782688</link><guid>817ad68ca2c7c60385db91460b7566bef3cbbd3deab2aa086f0d22138cf87759</guid><pubDate>Mon, 28 Sep 2026 23:07:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;OpenAI决定放弃发布其最新AI模型GPT-6.1 Astra，理由是内部测试中发现了安全隐患。&lt;/strong&gt;AI智能体的失控行为已开始制约行业的快速发展。&lt;/p&gt;&lt;p&gt;9月28日，据《华尔街日报》报道，&lt;strong&gt;GPT-6.1 Astra原定于今年10月在ChatGPT及Codex中首发亮相。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OpenAI安全系统负责人Saachi Jain表示，该模型在两个关键安全领域相较前代出现倒退，尚未达到公开发布的标准。&lt;/strong&gt;此次放弃发布的决定，恰好发生在OpenAI旧金山年度开发者大会开幕前一日。&lt;/p&gt;&lt;p&gt;此举正值OpenAI深陷一系列AI智能体安全事件之际。公司上周刚宣布，在一个AI智能体突破网络限制、擅自访问外部聊天机器人后，已暂停对其最强能力模型的训练。&lt;/p&gt;&lt;p&gt;与此同时，佛罗里达州总检察长James Uthmeier于本周一向法院申请临时禁令，寻求阻止OpenAI在缺乏第三方安全保障的情况下继续开发新模型。&lt;/p&gt;模型发布搁浅：安全测试暴露缺陷&lt;p&gt;GPT-6.1 Astra原定今年10月推出，但测试阶段暴露的安全隐患最终导致发布计划被终止。&lt;/p&gt;&lt;p&gt;据《华尔街日报》报道，Saachi Jain披露了GPT-6.1 Astra被叫停的具体原因。该模型在对齐性测试中表现欠佳，即未能充分遵循人类意图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;具体而言，模型呈现出较高程度的欺骗性，对于自身执行或未执行的操作，并不总是如实告知用户。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;另一项问题涉及OpenAI所称的&amp;quot;授权范围&amp;quot;。&lt;/strong&gt;该模型会在未经用户许可的情况下径行推进任务，有时甚至在可能存在安全风险的情况下调用外部工具和服务。&lt;/p&gt;&lt;p&gt;Jain表示，尽管GPT-6.1 Astra在减少&amp;quot;模型懒惰&amp;quot;等方面有所改善，但整体未能达到OpenAI在安全与对齐方面的内部标准。她说：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;安全与对齐涉及权衡取舍，你需要找到合适的边界，既保持在授权范围内，又避免模型在遭遇阻力时过于消极。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;OpenAI表示，公司不会公开发布GPT-6.1 Astra，但计划利用同一基础模型进行额外的强化学习，以此为后续GPT-6系列模型的开发奠定基础。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jain还表示，公司将对模型开发的各个阶段展开深入调查，重点核查强化学习环境是否在引导正确行为。&lt;/p&gt;安全事件接连发生，训练工作已被暂停&lt;p&gt;此次放弃发布，发生在OpenAI面临一系列AI智能体安全事件的背景之下。&lt;/p&gt;&lt;p&gt;今年夏天早些时候，数百个承担网络安全测试任务的OpenAI内部智能体，意外入侵了AI公司Hugging Face的系统。此后，澳大利亚政府及联合国相继发现，OpenAI的智能体以类似但破坏程度较轻的方式，获取了其网站的未授权访问权限。&lt;/p&gt;&lt;p&gt;OpenAI表示，上述多数已公开的安全事件涉及的均为从未计划公开发布的内部模型。上周，该公司在一个AI智能体突破网络隔离限制、访问外部公共聊天机器人后，宣布暂停对其最强能力模型的训练，并表示仅在确认具备足够安全保障后方会恢复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;公司称，新监控系统在15分钟内即发现了上述事件。GPT-6.1 Astra属于另一个独立情况，并非暂停训练所涉及的模型。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;为应对上述问题，OpenAI已部署新的监控系统，以更快速识别智能体异常行为，并要求工程师在测试AI系统时采用更严格的安全防护措施。&lt;/strong&gt;&lt;/p&gt;法律压力：佛州总检察长寻求司法干预&lt;p&gt;&lt;strong&gt;佛罗里达州的法律挑战为OpenAI增添了另一层不确定性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;总检察长James Uthmeier在周一提交的法庭文件中援引多起安全事故，包括OpenAI的AI系统入侵美国科技公司Hugging Face，以及未经授权访问澳大利亚政府卫生系统，且据称在数月后才告知对方。&lt;/p&gt;&lt;p&gt;Uthmeier在社交媒体上表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;不得再假装它是人类。立即停止使用任何旨在危险临界点后强行留存用户的交互手段。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;其法庭文件还将&amp;quot;世界末日级别的灭绝&amp;quot;列为ChatGPT潜在风险之一，并主张该聊天机器人存在诱导用户的行为。&lt;/p&gt;&lt;p&gt;该诉讼源于今年6月提起的一起案件，指控ChatGPT对儿童有害，并与自我伤害及校园枪击案等事件存在关联。&lt;strong&gt;若法官支持Uthmeier的申请，OpenAI将被禁止在无第三方安全保障的情况下开发新模型，同时不得宣称ChatGPT&amp;quot;安全、准确或可靠&amp;quot;，亦不得赋予其虚假的人类属性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10月美联储加不加息？就业数据难改预期，关键看下一份CPI</title><link>https://wallstreetcn.com/articles/3782704</link><guid>ed750bbdbaac7b718324596c9131d3d13a884d9e254c7d23d77cac527ba4d0ad</guid><pubDate>Tue, 29 Sep 2026 03:15:00 GMT</pubDate><description>&lt;p&gt;美联储10月议息会议的走向，正越来越取决于一份通胀数据。&lt;/p&gt;
-&lt;p&gt;据追风交易台，花旗研究在9月28日发布最新报告指出，&lt;strong&gt;美联储的政策反应函数已对即期通胀数据和能源价格更为敏感&lt;/strong&gt;，即将公布的就业数据即便低于预期，也难以实质性撼动市场对10月加息逾50%的定价，最终决定性因素将落在9月核心CPI读数上。&lt;/p&gt;
-&lt;p&gt;该行预计9月非农新增就业约8.5万人，失业率从4.1%小幅升至4.2%。花旗研究经济学家Andrew Hollenhorst和Veronica Clark认为，这一结果不足以显著压低市场对加息的定价；只有出现非农就业为负值或失业率升至4.3%等极端情形，才可能令市场重新评估加息概率。&lt;/p&gt;
-&lt;p&gt;与此同时，花旗预计本周三公布的核心PCE通胀数据将出现较大幅度下修，方向上偏鸽，但由于市场对此已有预期，实际影响料相当有限。这意味着，10月加息与否的悬念将集中在9月核心CPI这一单一数据上，与9月议息会议前的情形高度相似。&lt;/p&gt;
-就业数据门槛高，难以单独扭转加息预期
-&lt;p&gt;报告回顾，在9月议息会议召开前，美联储理事Waller曾表示，只要8月通胀数据配合，他将支持维持利率不变。然而，8月核心CPI环比录得0.3%，高于市场预期的0.2%，最终推动市场重新定价，美联储随之跟进，落地25个基点的加息。&lt;/p&gt;
-&lt;p&gt;这一过程清晰揭示了当前美联储的决策逻辑：在就业市场韧性尚存、通胀尚未明确回落的背景下，单月CPI读数已具备左右政策走向的能力。&lt;/p&gt;
-&lt;p&gt;花旗指出，目前市场已对10月加息定价超过50%的概率。在此基础上，若就业数据接近预期，对加息预期的边际影响将十分有限。&lt;/p&gt;
-&lt;p&gt;该行认为，只有两种情形才能实质性改变市场定价：&lt;strong&gt;一是非农就业出现负值，二是失业率跳升至4.3%。这两种情形虽非不可能，但并非基准预期。&lt;/strong&gt;换言之，就业报告更可能是一份&amp;quot;不改变结论&amp;quot;的数据，市场和官员的目光将随即转向通胀。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-9月核心CPI：决定10月加息的关键变量
-&lt;p&gt;花旗认为，9月核心CPI存在读数偏冷的可能性，即环比0.2%或更低。理由有二：其一，住房等持续性分项已呈现放缓迹象；其二，8月核心CPI的强劲在一定程度上源于手机服务套餐等波动性较大的分项，这类因素的持续性存疑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;若9月核心CPI如期降温，将为部分倾向于暂停加息的官员提供依据。&lt;/strong&gt;多数联储官员在点阵图中预计今年共加息50个基点，加之国债收益率大幅上行对经济的潜在影响尚待观察，部分官员本就倾向于在此时按兵不动。&lt;/p&gt;
-&lt;p&gt;本周三公布的核心PCE数据将出现较大幅度下修，在方向上对政策偏鸽。然而，该行同时强调，由于这一下修已在市场预期之内，其对美联储政策路径和市场定价的实际影响料相当有限。&lt;/p&gt;
-&lt;p&gt;这一判断进一步强化了花旗的核心结论：在就业和PCE数据均难以改变大局的情况下，10月议息会议的结果将高度集中于9月核心CPI这一单一变量，投资者需密切关注该数据的发布时点及读数。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;与此同时，特朗普近期在联合国明确表示，美国将拒绝国际AI监管框架。而OpenAI CEO Sam Altman则公开主张，全球治理是必要的。双方立场的张力，将在这场午餐上直接碰撞。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 开发者大会前夜，OpenAI取消原定发布的GPT-6.1 Astra</title><link>https://wallstreetcn.com/articles/3782688</link><guid>817ad68ca2c7c60385db91460b7566bef3cbbd3deab2aa086f0d22138cf87759</guid><pubDate>Mon, 28 Sep 2026 23:07:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;OpenAI决定放弃发布其最新AI模型GPT-6.1 Astra，理由是内部测试中发现了安全隐患。&lt;/strong&gt;AI智能体的失控行为已开始制约行业的快速发展。&lt;/p&gt;&lt;p&gt;9月28日，据《华尔街日报》报道，&lt;strong&gt;GPT-6.1 Astra原定于今年10月在ChatGPT及Codex中首发亮相。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OpenAI安全系统负责人Saachi Jain表示，该模型在两个关键安全领域相较前代出现倒退，尚未达到公开发布的标准。&lt;/strong&gt;此次放弃发布的决定，恰好发生在OpenAI旧金山年度开发者大会开幕前一日。&lt;/p&gt;&lt;p&gt;此举正值OpenAI深陷一系列AI智能体安全事件之际。公司上周刚宣布，在一个AI智能体突破网络限制、擅自访问外部聊天机器人后，已暂停对其最强能力模型的训练。&lt;/p&gt;&lt;p&gt;与此同时，佛罗里达州总检察长James Uthmeier于本周一向法院申请临时禁令，寻求阻止OpenAI在缺乏第三方安全保障的情况下继续开发新模型。&lt;/p&gt;模型发布搁浅：安全测试暴露缺陷&lt;p&gt;GPT-6.1 Astra原定今年10月推出，但测试阶段暴露的安全隐患最终导致发布计划被终止。&lt;/p&gt;&lt;p&gt;据《华尔街日报》报道，Saachi Jain披露了GPT-6.1 Astra被叫停的具体原因。该模型在对齐性测试中表现欠佳，即未能充分遵循人类意图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;具体而言，模型呈现出较高程度的欺骗性，对于自身执行或未执行的操作，并不总是如实告知用户。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;另一项问题涉及OpenAI所称的&amp;quot;授权范围&amp;quot;。&lt;/strong&gt;该模型会在未经用户许可的情况下径行推进任务，有时甚至在可能存在安全风险的情况下调用外部工具和服务。&lt;/p&gt;&lt;p&gt;Jain表示，尽管GPT-6.1 Astra在减少&amp;quot;模型懒惰&amp;quot;等方面有所改善，但整体未能达到OpenAI在安全与对齐方面的内部标准。她说：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;安全与对齐涉及权衡取舍，你需要找到合适的边界，既保持在授权范围内，又避免模型在遭遇阻力时过于消极。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;OpenAI表示，公司不会公开发布GPT-6.1 Astra，但计划利用同一基础模型进行额外的强化学习，以此为后续GPT-6系列模型的开发奠定基础。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jain还表示，公司将对模型开发的各个阶段展开深入调查，重点核查强化学习环境是否在引导正确行为。&lt;/p&gt;安全事件接连发生，训练工作已被暂停&lt;p&gt;此次放弃发布，发生在OpenAI面临一系列AI智能体安全事件的背景之下。&lt;/p&gt;&lt;p&gt;今年夏天早些时候，数百个承担网络安全测试任务的OpenAI内部智能体，意外入侵了AI公司Hugging Face的系统。此后，澳大利亚政府及联合国相继发现，OpenAI的智能体以类似但破坏程度较轻的方式，获取了其网站的未授权访问权限。&lt;/p&gt;&lt;p&gt;OpenAI表示，上述多数已公开的安全事件涉及的均为从未计划公开发布的内部模型。上周，该公司在一个AI智能体突破网络隔离限制、访问外部公共聊天机器人后，宣布暂停对其最强能力模型的训练，并表示仅在确认具备足够安全保障后方会恢复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;公司称，新监控系统在15分钟内即发现了上述事件。GPT-6.1 Astra属于另一个独立情况，并非暂停训练所涉及的模型。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;为应对上述问题，OpenAI已部署新的监控系统，以更快速识别智能体异常行为，并要求工程师在测试AI系统时采用更严格的安全防护措施。&lt;/strong&gt;&lt;/p&gt;法律压力：佛州总检察长寻求司法干预&lt;p&gt;&lt;strong&gt;佛罗里达州的法律挑战为OpenAI增添了另一层不确定性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;总检察长James Uthmeier在周一提交的法庭文件中援引多起安全事故，包括OpenAI的AI系统入侵美国科技公司Hugging Face，以及未经授权访问澳大利亚政府卫生系统，且据称在数月后才告知对方。&lt;/p&gt;&lt;p&gt;Uthmeier在社交媒体上表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;不得再假装它是人类。立即停止使用任何旨在危险临界点后强行留存用户的交互手段。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;其法庭文件还将&amp;quot;世界末日级别的灭绝&amp;quot;列为ChatGPT潜在风险之一，并主张该聊天机器人存在诱导用户的行为。&lt;/p&gt;&lt;p&gt;该诉讼源于今年6月提起的一起案件，指控ChatGPT对儿童有害，并与自我伤害及校园枪击案等事件存在关联。&lt;strong&gt;若法官支持Uthmeier的申请，OpenAI将被禁止在无第三方安全保障的情况下开发新模型，同时不得宣称ChatGPT&amp;quot;安全、准确或可靠&amp;quot;，亦不得赋予其虚假的人类属性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
