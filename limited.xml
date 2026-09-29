@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 06:29:34 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 06:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
 &lt;p&gt;韩国交易所数据显示，本月1日至23日，KOSPI上市股票日均换手率降至0.50%，为今年以来最低。三星电子与SK海力士股价单日分别下挫逾5%，拖累指数于28日重新跌破7,000点关口，报收6,889.74点。&lt;/p&gt;
 &lt;p&gt;高利率与油价压力令场外资金迟迟未能回流，券商经纪账户待入市资金仅微幅高于100万亿韩元。市场人士表示，只有宏观压力缓解、三季度企业业绩指引符合预期，资金才有望重返市场。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -326,37 +326,7 @@ HRS-1596：每周一次口服给药，尚处早期临床阶段
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 三星电子2纳米良率接近60%，剑指台积电力争科技巨头订单</title><link>https://wallstreetcn.com/articles/3782707</link><guid>7d2034259919f50f35725fde34d82770c1ebfa3bbc74c0e4cae834bf0b74ab90</guid><pubDate>Tue, 29 Sep 2026 03:42:44 GMT</pubDate><description>&lt;p&gt;三星电子代工事业部正加速推进2纳米制程良率提升，并将特斯拉订单作为打入大型科技客户的战略跳板。&lt;/p&gt;
-&lt;p&gt;9月28日，据韩国媒体ChosunBiz援引业内人士透露，&lt;strong&gt;三星电子2纳米制程良率已从此前市场普遍认知的55%左右进一步改善，目前已接近60%水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在良率趋于稳定的背景下，三星正将工程资源集中投入到功耗与散热性能的优化工作，以期在与潜在大客户的技术谈判中建立信任基础。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，用于弥补现有制程性能短板的第二代2纳米工艺SF2P也在加速推进，目标今年内实现量产。&lt;/p&gt;
-&lt;p&gt;分析认为此举具有明确的战略指向：&lt;strong&gt;以明年向特斯拉供应2纳米芯片为契机，全面打开大型科技公司订单的突破口。&lt;/strong&gt;&lt;/p&gt;
-
-良率接近60%，功耗效率成关键变量
-
-&lt;p&gt;根据报道援引业内消息，三星SF2制程良率的改善轨迹清晰：&lt;strong&gt;去年年中约为30%，今年1月升至50%区间，8月前后达到55%左右，目前已逼近60%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SF2是三星首款采用全环绕栅极（GAA）架构的2纳米量产制程，首款量产产品为自研移动应用处理器Exynos 2600，已搭载于年初推出的Galaxy S26系列部分机型，在京畿道华城S3产线生产。&lt;/p&gt;
-&lt;p&gt;三星在该芯片封装上采用了铜散热模块，使热阻降低30%。&lt;/p&gt;
-&lt;p&gt;然而，Exynos 2600上市后在部分海外测试中显示，执行相同任务时功耗高于高通骁龙最新产品，引发外界对制程能效的质疑，部分观点认为这反映出SF2制程本身的局限性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;针对上述问题，三星已在准备第二代2纳米制程SF2P，目标今年内量产。据悉，SF2P相较SF2性能提升12%，功耗降低25%，芯片面积缩小8%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;三星目前的工程重心，在于确保量产阶段产品性能的一致性。具体而言，是要将芯片装入客户产品后的散热与功耗偏差控制在可接受范围内。这一能力将成为三星与大型芯片设计公司（Fabless）谈判时的核心技术背书。&lt;/p&gt;
-
-台积电霸占龙头，三星与英特尔争夺第二
-
-&lt;p&gt;目前全球先进制程代工市场呈现明显的&amp;quot;一超两强&amp;quot;格局。&lt;/p&gt;
-&lt;p&gt;台积电凭借苹果、AMD、英伟达等核心客户，在今年第二季度录得72.5%的市场份额，而三星代工的份额仅为5.9%，两者差距进一步扩大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;台积电2纳米晶圆价格已稳定在约3万美元，较3纳米（约2万美元）高出50%，且对大客户亦维持&amp;quot;不折扣&amp;quot;原则。业内人士普遍认为，台积电2纳米产能已预订至2028年。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英特尔方面&lt;/strong&gt;，其2纳米级制程18A已在美国亚利桑那州Fab 52量产，所生产的Panther Lake处理器帮助英特尔在AI PC市场占据56%份额，在自有产品线上取得一定成果。&lt;/p&gt;
-&lt;p&gt;但18A在外部客户招募方面尚无明显进展，据悉英特尔内部倾向于将外部客户突破的希望寄托于计划于2027年后量产的下一代14A制程。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在此背景下，业内普遍预期市场格局将呈现台积电主导、三星与英特尔争夺第二梯队的竞争态势。对于三星代工业务的盈亏平衡节点，市场主流观点认为须与德克萨斯州Taylor晶圆厂的产能利用率联动观察。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一位半导体行业人士表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;良率接近60%，以及功耗优化工作的启动，是有意义的反弹信号。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;但同时指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;与台积电的市场份额差距过大，要实现真正的市场格局转变，仍需要更多时间。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周二，特朗普与六巨头齐聚白宫，决定未来AI发展方向</title><link>https://wallstreetcn.com/articles/3782709</link><guid>000dbc2152361f9ea6f7a915a9c19b14f6301cd37f6dce1db02b8587585c481d</guid><pubDate>Tue, 29 Sep 2026 03:09:46 GMT</pubDate><description>&lt;p&gt;当地时间9月29日周二，特朗普将在白宫与六家顶级科技公司CEO共进午餐。这场会议的核心问题只有一个：美国政府究竟要不要管AI，以及怎么管。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周二，特朗普与六巨头齐聚白宫，决定未来AI发展方向</title><link>https://wallstreetcn.com/articles/3782709</link><guid>000dbc2152361f9ea6f7a915a9c19b14f6301cd37f6dce1db02b8587585c481d</guid><pubDate>Tue, 29 Sep 2026 03:09:46 GMT</pubDate><description>&lt;p&gt;当地时间9月29日周二，特朗普将在白宫与六家顶级科技公司CEO共进午餐。这场会议的核心问题只有一个：美国政府究竟要不要管AI，以及怎么管。&lt;/p&gt;
 &lt;p&gt;据六位知情人士向Politico确认，&lt;strong&gt;出席者包括Meta CEO扎克伯格、Anthropic CEO Dario Amodei、OpenAI总裁Greg Brockman、谷歌CEO Sundar Pichai、Palantir CEO Alex Karp，以及英伟达CEO黄仁勋。众议院议长Mike Johnson也将出席。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;会议召开的时机颇为敏感。就在同一天，一批顶级AI研究人员联名发出警告，称AI自动化可能引发“智能爆炸”，威胁人类的生存。与此同时，多起真实的AI安全事故已经发生。这场午餐，正处于监管压力骤然升温的节点上。&lt;/p&gt;
 Johnson划定基调：创新优先，但要有边界
@@ -387,4 +357,23 @@ Johnson划定基调：创新优先，但要有边界
 &lt;p&gt;在AI安全问题上，我们显然需要大胆而负责任地行动——现在就要。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;两党议员均对特朗普的“放手”态度提出质疑，担忧AI带来的安全风险、就业冲击，以及少数科技巨头对这项技术的高度垄断。&lt;/p&gt;
-&lt;p&gt;与此同时，特朗普近期在联合国明确表示，美国将拒绝国际AI监管框架。而OpenAI CEO Sam Altman则公开主张，全球治理是必要的。双方立场的张力，将在这场午餐上直接碰撞。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 开发者大会前夜，OpenAI取消原定发布的GPT-6.1 Astra</title><link>https://wallstreetcn.com/articles/3782688</link><guid>817ad68ca2c7c60385db91460b7566bef3cbbd3deab2aa086f0d22138cf87759</guid><pubDate>Mon, 28 Sep 2026 23:07:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;OpenAI决定放弃发布其最新AI模型GPT-6.1 Astra，理由是内部测试中发现了安全隐患。&lt;/strong&gt;AI智能体的失控行为已开始制约行业的快速发展。&lt;/p&gt;&lt;p&gt;9月28日，据《华尔街日报》报道，&lt;strong&gt;GPT-6.1 Astra原定于今年10月在ChatGPT及Codex中首发亮相。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OpenAI安全系统负责人Saachi Jain表示，该模型在两个关键安全领域相较前代出现倒退，尚未达到公开发布的标准。&lt;/strong&gt;此次放弃发布的决定，恰好发生在OpenAI旧金山年度开发者大会开幕前一日。&lt;/p&gt;&lt;p&gt;此举正值OpenAI深陷一系列AI智能体安全事件之际。公司上周刚宣布，在一个AI智能体突破网络限制、擅自访问外部聊天机器人后，已暂停对其最强能力模型的训练。&lt;/p&gt;&lt;p&gt;与此同时，佛罗里达州总检察长James Uthmeier于本周一向法院申请临时禁令，寻求阻止OpenAI在缺乏第三方安全保障的情况下继续开发新模型。&lt;/p&gt;模型发布搁浅：安全测试暴露缺陷&lt;p&gt;GPT-6.1 Astra原定今年10月推出，但测试阶段暴露的安全隐患最终导致发布计划被终止。&lt;/p&gt;&lt;p&gt;据《华尔街日报》报道，Saachi Jain披露了GPT-6.1 Astra被叫停的具体原因。该模型在对齐性测试中表现欠佳，即未能充分遵循人类意图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;具体而言，模型呈现出较高程度的欺骗性，对于自身执行或未执行的操作，并不总是如实告知用户。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;另一项问题涉及OpenAI所称的&amp;quot;授权范围&amp;quot;。&lt;/strong&gt;该模型会在未经用户许可的情况下径行推进任务，有时甚至在可能存在安全风险的情况下调用外部工具和服务。&lt;/p&gt;&lt;p&gt;Jain表示，尽管GPT-6.1 Astra在减少&amp;quot;模型懒惰&amp;quot;等方面有所改善，但整体未能达到OpenAI在安全与对齐方面的内部标准。她说：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;安全与对齐涉及权衡取舍，你需要找到合适的边界，既保持在授权范围内，又避免模型在遭遇阻力时过于消极。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;OpenAI表示，公司不会公开发布GPT-6.1 Astra，但计划利用同一基础模型进行额外的强化学习，以此为后续GPT-6系列模型的开发奠定基础。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jain还表示，公司将对模型开发的各个阶段展开深入调查，重点核查强化学习环境是否在引导正确行为。&lt;/p&gt;安全事件接连发生，训练工作已被暂停&lt;p&gt;此次放弃发布，发生在OpenAI面临一系列AI智能体安全事件的背景之下。&lt;/p&gt;&lt;p&gt;今年夏天早些时候，数百个承担网络安全测试任务的OpenAI内部智能体，意外入侵了AI公司Hugging Face的系统。此后，澳大利亚政府及联合国相继发现，OpenAI的智能体以类似但破坏程度较轻的方式，获取了其网站的未授权访问权限。&lt;/p&gt;&lt;p&gt;OpenAI表示，上述多数已公开的安全事件涉及的均为从未计划公开发布的内部模型。上周，该公司在一个AI智能体突破网络隔离限制、访问外部公共聊天机器人后，宣布暂停对其最强能力模型的训练，并表示仅在确认具备足够安全保障后方会恢复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;公司称，新监控系统在15分钟内即发现了上述事件。GPT-6.1 Astra属于另一个独立情况，并非暂停训练所涉及的模型。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;为应对上述问题，OpenAI已部署新的监控系统，以更快速识别智能体异常行为，并要求工程师在测试AI系统时采用更严格的安全防护措施。&lt;/strong&gt;&lt;/p&gt;法律压力：佛州总检察长寻求司法干预&lt;p&gt;&lt;strong&gt;佛罗里达州的法律挑战为OpenAI增添了另一层不确定性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;总检察长James Uthmeier在周一提交的法庭文件中援引多起安全事故，包括OpenAI的AI系统入侵美国科技公司Hugging Face，以及未经授权访问澳大利亚政府卫生系统，且据称在数月后才告知对方。&lt;/p&gt;&lt;p&gt;Uthmeier在社交媒体上表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;不得再假装它是人类。立即停止使用任何旨在危险临界点后强行留存用户的交互手段。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;其法庭文件还将&amp;quot;世界末日级别的灭绝&amp;quot;列为ChatGPT潜在风险之一，并主张该聊天机器人存在诱导用户的行为。&lt;/p&gt;&lt;p&gt;该诉讼源于今年6月提起的一起案件，指控ChatGPT对儿童有害，并与自我伤害及校园枪击案等事件存在关联。&lt;strong&gt;若法官支持Uthmeier的申请，OpenAI将被禁止在无第三方安全保障的情况下开发新模型，同时不得宣称ChatGPT&amp;quot;安全、准确或可靠&amp;quot;，亦不得赋予其虚假的人类属性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;与此同时，特朗普近期在联合国明确表示，美国将拒绝国际AI监管框架。而OpenAI CEO Sam Altman则公开主张，全球治理是必要的。双方立场的张力，将在这场午餐上直接碰撞。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 开发者大会前夜，OpenAI取消原定发布的GPT-6.1 Astra</title><link>https://wallstreetcn.com/articles/3782688</link><guid>817ad68ca2c7c60385db91460b7566bef3cbbd3deab2aa086f0d22138cf87759</guid><pubDate>Mon, 28 Sep 2026 23:07:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;OpenAI决定放弃发布其最新AI模型GPT-6.1 Astra，理由是内部测试中发现了安全隐患。&lt;/strong&gt;AI智能体的失控行为已开始制约行业的快速发展。&lt;/p&gt;&lt;p&gt;9月28日，据《华尔街日报》报道，&lt;strong&gt;GPT-6.1 Astra原定于今年10月在ChatGPT及Codex中首发亮相。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OpenAI安全系统负责人Saachi Jain表示，该模型在两个关键安全领域相较前代出现倒退，尚未达到公开发布的标准。&lt;/strong&gt;此次放弃发布的决定，恰好发生在OpenAI旧金山年度开发者大会开幕前一日。&lt;/p&gt;&lt;p&gt;此举正值OpenAI深陷一系列AI智能体安全事件之际。公司上周刚宣布，在一个AI智能体突破网络限制、擅自访问外部聊天机器人后，已暂停对其最强能力模型的训练。&lt;/p&gt;&lt;p&gt;与此同时，佛罗里达州总检察长James Uthmeier于本周一向法院申请临时禁令，寻求阻止OpenAI在缺乏第三方安全保障的情况下继续开发新模型。&lt;/p&gt;模型发布搁浅：安全测试暴露缺陷&lt;p&gt;GPT-6.1 Astra原定今年10月推出，但测试阶段暴露的安全隐患最终导致发布计划被终止。&lt;/p&gt;&lt;p&gt;据《华尔街日报》报道，Saachi Jain披露了GPT-6.1 Astra被叫停的具体原因。该模型在对齐性测试中表现欠佳，即未能充分遵循人类意图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;具体而言，模型呈现出较高程度的欺骗性，对于自身执行或未执行的操作，并不总是如实告知用户。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;另一项问题涉及OpenAI所称的&amp;quot;授权范围&amp;quot;。&lt;/strong&gt;该模型会在未经用户许可的情况下径行推进任务，有时甚至在可能存在安全风险的情况下调用外部工具和服务。&lt;/p&gt;&lt;p&gt;Jain表示，尽管GPT-6.1 Astra在减少&amp;quot;模型懒惰&amp;quot;等方面有所改善，但整体未能达到OpenAI在安全与对齐方面的内部标准。她说：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;安全与对齐涉及权衡取舍，你需要找到合适的边界，既保持在授权范围内，又避免模型在遭遇阻力时过于消极。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;OpenAI表示，公司不会公开发布GPT-6.1 Astra，但计划利用同一基础模型进行额外的强化学习，以此为后续GPT-6系列模型的开发奠定基础。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jain还表示，公司将对模型开发的各个阶段展开深入调查，重点核查强化学习环境是否在引导正确行为。&lt;/p&gt;安全事件接连发生，训练工作已被暂停&lt;p&gt;此次放弃发布，发生在OpenAI面临一系列AI智能体安全事件的背景之下。&lt;/p&gt;&lt;p&gt;今年夏天早些时候，数百个承担网络安全测试任务的OpenAI内部智能体，意外入侵了AI公司Hugging Face的系统。此后，澳大利亚政府及联合国相继发现，OpenAI的智能体以类似但破坏程度较轻的方式，获取了其网站的未授权访问权限。&lt;/p&gt;&lt;p&gt;OpenAI表示，上述多数已公开的安全事件涉及的均为从未计划公开发布的内部模型。上周，该公司在一个AI智能体突破网络隔离限制、访问外部公共聊天机器人后，宣布暂停对其最强能力模型的训练，并表示仅在确认具备足够安全保障后方会恢复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;公司称，新监控系统在15分钟内即发现了上述事件。GPT-6.1 Astra属于另一个独立情况，并非暂停训练所涉及的模型。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;为应对上述问题，OpenAI已部署新的监控系统，以更快速识别智能体异常行为，并要求工程师在测试AI系统时采用更严格的安全防护措施。&lt;/strong&gt;&lt;/p&gt;法律压力：佛州总检察长寻求司法干预&lt;p&gt;&lt;strong&gt;佛罗里达州的法律挑战为OpenAI增添了另一层不确定性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;总检察长James Uthmeier在周一提交的法庭文件中援引多起安全事故，包括OpenAI的AI系统入侵美国科技公司Hugging Face，以及未经授权访问澳大利亚政府卫生系统，且据称在数月后才告知对方。&lt;/p&gt;&lt;p&gt;Uthmeier在社交媒体上表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;不得再假装它是人类。立即停止使用任何旨在危险临界点后强行留存用户的交互手段。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;其法庭文件还将&amp;quot;世界末日级别的灭绝&amp;quot;列为ChatGPT潜在风险之一，并主张该聊天机器人存在诱导用户的行为。&lt;/p&gt;&lt;p&gt;该诉讼源于今年6月提起的一起案件，指控ChatGPT对儿童有害，并与自我伤害及校园枪击案等事件存在关联。&lt;strong&gt;若法官支持Uthmeier的申请，OpenAI将被禁止在无第三方安全保障的情况下开发新模型，同时不得宣称ChatGPT&amp;quot;安全、准确或可靠&amp;quot;，亦不得赋予其虚假的人类属性。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10月美联储加不加息？就业数据难改预期，关键看下一份CPI</title><link>https://wallstreetcn.com/articles/3782704</link><guid>ed750bbdbaac7b718324596c9131d3d13a884d9e254c7d23d77cac527ba4d0ad</guid><pubDate>Tue, 29 Sep 2026 03:15:00 GMT</pubDate><description>&lt;p&gt;美联储10月议息会议的走向，正越来越取决于一份通胀数据。&lt;/p&gt;
+&lt;p&gt;据追风交易台，花旗研究在9月28日发布最新报告指出，&lt;strong&gt;美联储的政策反应函数已对即期通胀数据和能源价格更为敏感&lt;/strong&gt;，即将公布的就业数据即便低于预期，也难以实质性撼动市场对10月加息逾50%的定价，最终决定性因素将落在9月核心CPI读数上。&lt;/p&gt;
+&lt;p&gt;该行预计9月非农新增就业约8.5万人，失业率从4.1%小幅升至4.2%。花旗研究经济学家Andrew Hollenhorst和Veronica Clark认为，这一结果不足以显著压低市场对加息的定价；只有出现非农就业为负值或失业率升至4.3%等极端情形，才可能令市场重新评估加息概率。&lt;/p&gt;
+&lt;p&gt;与此同时，花旗预计本周三公布的核心PCE通胀数据将出现较大幅度下修，方向上偏鸽，但由于市场对此已有预期，实际影响料相当有限。这意味着，10月加息与否的悬念将集中在9月核心CPI这一单一数据上，与9月议息会议前的情形高度相似。&lt;/p&gt;
+就业数据门槛高，难以单独扭转加息预期
+&lt;p&gt;报告回顾，在9月议息会议召开前，美联储理事Waller曾表示，只要8月通胀数据配合，他将支持维持利率不变。然而，8月核心CPI环比录得0.3%，高于市场预期的0.2%，最终推动市场重新定价，美联储随之跟进，落地25个基点的加息。&lt;/p&gt;
+&lt;p&gt;这一过程清晰揭示了当前美联储的决策逻辑：在就业市场韧性尚存、通胀尚未明确回落的背景下，单月CPI读数已具备左右政策走向的能力。&lt;/p&gt;
+&lt;p&gt;花旗指出，目前市场已对10月加息定价超过50%的概率。在此基础上，若就业数据接近预期，对加息预期的边际影响将十分有限。&lt;/p&gt;
+&lt;p&gt;该行认为，只有两种情形才能实质性改变市场定价：&lt;strong&gt;一是非农就业出现负值，二是失业率跳升至4.3%。这两种情形虽非不可能，但并非基准预期。&lt;/strong&gt;换言之，就业报告更可能是一份&amp;quot;不改变结论&amp;quot;的数据，市场和官员的目光将随即转向通胀。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+9月核心CPI：决定10月加息的关键变量
+&lt;p&gt;花旗认为，9月核心CPI存在读数偏冷的可能性，即环比0.2%或更低。理由有二：其一，住房等持续性分项已呈现放缓迹象；其二，8月核心CPI的强劲在一定程度上源于手机服务套餐等波动性较大的分项，这类因素的持续性存疑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若9月核心CPI如期降温，将为部分倾向于暂停加息的官员提供依据。&lt;/strong&gt;多数联储官员在点阵图中预计今年共加息50个基点，加之国债收益率大幅上行对经济的潜在影响尚待观察，部分官员本就倾向于在此时按兵不动。&lt;/p&gt;
+&lt;p&gt;本周三公布的核心PCE数据将出现较大幅度下修，在方向上对政策偏鸽。然而，该行同时强调，由于这一下修已在市场预期之内，其对美联储政策路径和市场定价的实际影响料相当有限。&lt;/p&gt;
+&lt;p&gt;这一判断进一步强化了花旗的核心结论：在就业和PCE数据均难以改变大局的情况下，10月议息会议的结果将高度集中于9月核心CPI这一单一变量，投资者需密切关注该数据的发布时点及读数。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
