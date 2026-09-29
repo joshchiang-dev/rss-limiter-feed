@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 21:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 易方达优质企业公告：张坤卸任基金经理</title><link>https://wallstreetcn.com/articles/3782766</link><guid>a66f2167b85fcacdb7d297eacd21f9e53e59394a86b6eaa4edc45e3be73f7090</guid><pubDate>Tue, 29 Sep 2026 16:48:31 GMT</pubDate><description>&lt;p&gt;9月30日凌晨，易方达基金管理有限公司发布公告，宣布旗下易方达优质企业三年持有期混合型证券投资基金发生基金经理变更：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 21:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 易方达优质企业公告：张坤卸任基金经理</title><link>https://wallstreetcn.com/articles/3782766</link><guid>a66f2167b85fcacdb7d297eacd21f9e53e59394a86b6eaa4edc45e3be73f7090</guid><pubDate>Tue, 29 Sep 2026 16:48:31 GMT</pubDate><description>&lt;p&gt;9月30日凌晨，易方达基金管理有限公司发布公告，宣布旗下易方达优质企业三年持有期混合型证券投资基金发生基金经理变更：&lt;/p&gt;
 &lt;p&gt;张坤正式卸任该基金经理职务，后续该基金将由张琦单独管理。&lt;/p&gt;
 &lt;p&gt;此前，该基金于6月27日公告增聘张琦为共同管理的基金经理，本次调整后，张琦将单独掌管这只基金。&lt;/p&gt;
 张琦是谁？
@@ -40,20 +40,7 @@ Dots：全天候在线，权限由用户掌控
 &lt;p&gt;Dots进入的是一个竞争者云集的市场。目前，Meta、SpaceX以及Instinct等新兴初创公司均已布局AI智能体赛道。其中，Muse凭借在线购物辅助、自动将邮件中的重要日期添加至家庭日历等功能，已在消费端积累起相当的用户黏性。&lt;/p&gt;
 &lt;p&gt;OpenAI在用户规模上具备显著优势。该公司周二披露，ChatGPT每周活跃用户已超过12亿，较今年夏季的10亿进一步提升。这一体量与Meta类似，为新产品的大规模扩散提供了天然基础。&lt;/p&gt;
 &lt;p&gt;科技公司在AI个人助手领域的尝试已有多年，成效参差不齐。当前，业界普遍押注于更具直觉性的交互界面与第三方应用生态整合，以期实现真正意义上的突破。&lt;/p&gt;
-&lt;p&gt;OpenAI在经历了一段时间的竞争相对被动后，已逐步收窄产品重心，在代码辅助等垂直场景重获市场动能，Dots的发布则代表着其在通用AI助手领域的新一轮进攻。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Muse需求传导至CPU，CPU交货期拉长至25-30周</title><link>https://wallstreetcn.com/articles/3782739</link><guid>0d2d570e10b406eba0b38c09f14ab241385697da4f275cdcfed2360743eb812c</guid><pubDate>Tue, 29 Sep 2026 09:49:33 GMT</pubDate><description>&lt;p&gt;Meta的人工智能代理Muse正在把CPU从AI叙事的配角推向舞台中央——TrendForce最新报告显示，&lt;strong&gt;CPU交货周期已从通常的16-20周拉长至25-30周，并将这一变化直接归因于Muse等AI代理对CPU需求的拉动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这是市场首次在供应链层面拿到AI代理冲击CPU的直接证据。此前对Muse的讨论多停留在用户增长和概念推演，如今交货周期的显著拉长，意味着AI代理对硬件基础设施的挤压效应已从GPU扩散至CPU。&lt;/p&gt;
-&lt;p&gt;但需求规模仍存明显预期差。&lt;strong&gt;Altimeter合伙人Freda Duan测算的1250万核心更接近理论上限，Meta未必会严格为每位用户兑现一台专属虚拟机——利好预期与订单兑现之间还有验证距离。&lt;/strong&gt;&lt;/p&gt;
-交货周期拉长，瓶颈环节仍未拆解
-&lt;p&gt;TrendForce的报告给出明确增量：CPU交货周期从16-20周延长至25-30周，并将Muse等AI代理列为推升需求的核心因素。过去两年，AI基础设施的讨论几乎完全围绕GPU展开，如今AI代理对硬件的挤压首次传导至CPU。&lt;/p&gt;
-&lt;p&gt;不过，报告并未指明交货延长具体卡在哪个环节。CPU供应链涉及晶圆代工、封装和测试三大环节，不同环节的瓶颈对应着截然不同的供需格局与缓解周期。目前CPU制造商、服务器OEM及云厂商均未公开确认症结所在，这一信息缺口本身也是重要的市场变量。&lt;/p&gt;
-1250万核心：理论上限，而非实际订单
-&lt;p&gt;Altimeter合伙人Freda Duan的测算为市场提供了可讨论的量化锚点。她假设Muse日活达1亿、每用户平均使用2小时，据此需要约833万台虚拟机满足平均负载；高峰负载为平均值的2.5倍时，最大虚拟机数量达2080万台。再结合每台虚拟机所需物理核心——以DeepSeek为参照、但Meta运行效率不及DeepSeek——她得出在2500万台活跃虚拟机的假设下，Meta可能需约1250万个CPU核心。&lt;/p&gt;
-&lt;p&gt;Duan本人对这一数字持审慎态度。她指出，AI代理沙箱和虚拟机普遍存在资源超配，虚拟机保持运行状态时实际CPU利用率通常接近于零，因此Meta不需要严格为每位用户兑现承诺的硬件——1250万核心更接近理论上限而非实际采购需求。她还提醒，随着推理速度提升，每台虚拟机分配的物理核心会进一步减少，但技术效率提高往往伴随需求扩张，CPU总需求未必因此放缓。&lt;/p&gt;
-英特尔与AMD的意外变量
-&lt;p&gt;Meta承诺为每位Muse用户提供一台配备2个虚拟CPU、8GB内存和100GB固态硬盘的专属虚拟机，Muse上线十天内用户规模即达70万。&lt;/p&gt;
-&lt;p&gt;初步计算显示，随着Muse日活规模扩大，可能刺激对数百万额外CPU的需求。市场据此认为CPU制造商已迎来结构性利好，但这一预期尚未反映到具体的营收指引或订单数据中。&lt;/p&gt;
-&lt;p&gt;交货周期数据是第一个硬信号。后续需关注的是英特尔和AMD在下一季度财报中对数据中心CPU业务的表述，以及云厂商资本开支中CPU与GPU配比的变化。&lt;/p&gt;
-&lt;p&gt;交货周期拉长能否转化为财报端的营收兑现，是这轮CPU叙事的关键验证点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Altman：安全是首位，没有IPO时间表，暂缓发布GPT-6.1 Astra是出于高度谨慎</title><link>https://wallstreetcn.com/articles/3782763</link><guid>1ba26500dc937dab1c48c9123cdddbe357b768031e5e0d1c4724c237591d1e68</guid><pubDate>Tue, 29 Sep 2026 19:08:17 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官Sam Altman表示，公司目前没有具体的IPO计划，在厘清下一代人工智能的安全边界之前，上市并非优先事项。&lt;/p&gt;
+&lt;p&gt;OpenAI在经历了一段时间的竞争相对被动后，已逐步收窄产品重心，在代码辅助等垂直场景重获市场动能，Dots的发布则代表着其在通用AI助手领域的新一轮进攻。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Altman：安全是首位，没有IPO时间表，暂缓发布GPT-6.1 Astra是出于高度谨慎</title><link>https://wallstreetcn.com/articles/3782763</link><guid>1ba26500dc937dab1c48c9123cdddbe357b768031e5e0d1c4724c237591d1e68</guid><pubDate>Tue, 29 Sep 2026 19:08:17 GMT</pubDate><description>&lt;p&gt;OpenAI首席执行官Sam Altman表示，公司目前没有具体的IPO计划，在厘清下一代人工智能的安全边界之前，上市并非优先事项。&lt;/p&gt;
 &lt;p&gt;Altman周二在OpenAI开发者日接受采访时表示，&lt;strong&gt;IPO或许要等到公司完成&amp;quot;若干安全案例验证&amp;quot;、并对如何安全应对&amp;quot;下一级别AI&amp;quot;形成更清晰认知之后，才会真正提上日程。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Altman表示，在AI研发和安全相关的外部环境仍处于变动之中时，他并不想推进IPO。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -253,4 +240,18 @@ AI收入增长与巨额算力投入仍需平衡
 &lt;p&gt;此前英国《金融时报》报道，OpenAI预计2026年至2030年期间现金消耗将接近2780亿美元，公司需要持续投入巨额资金用于计算能力和基础设施建设。&lt;/p&gt;
 &lt;p&gt;这也意味着，对于OpenAI以及甲骨文等AI基础设施供应商而言，市场关注的不仅是AI应用收入增长速度，还包括收入增长能否持续覆盖不断扩大的算力、数据中心和能源成本。&lt;/p&gt;
 &lt;p&gt;近期甲骨文与AI数据中心项目相关的融资和建设也受到市场关注。路透此前报道称，甲骨文可能推迟甚至退出一个为OpenAI提供计算能力的数据中心项目，相关项目涉及约200亿美元融资。这一事件凸显了AI基础设施建设背后巨额资本开支和融资成本带来的压力。&lt;/p&gt;
-&lt;p&gt;在这一背景下，OpenAI年化经常性收入接近700亿美元的最新消息，为市场观察AI商业化进展提供了新的数据点。与此同时，AI模型公司的收入增速、算力投入以及基础设施建设之间能否形成可持续的商业闭环，仍将是市场关注的重点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在这一背景下，OpenAI年化经常性收入接近700亿美元的最新消息，为市场观察AI商业化进展提供了新的数据点。与此同时，AI模型公司的收入增速、算力投入以及基础设施建设之间能否形成可持续的商业闭环，仍将是市场关注的重点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta小企业版Muse来了！</title><link>https://wallstreetcn.com/articles/3782744</link><guid>d08a3eaace4701c687d78fdbda44b6e87b0542761cd85cedaa2b6dabeeebae94</guid><pubDate>Tue, 29 Sep 2026 10:54:53 GMT</pubDate><description>&lt;p&gt;Meta正将个人AI代理Muse从消费场景进一步拓展至小企业运营，试图通过接入企业日常使用的商业工具，将AI代理嵌入更多实际工作流程，并探索新的商业化空间。&lt;/p&gt;
+&lt;p&gt;周二，&lt;strong&gt;Meta宣布为Muse新增一系列技能和连接器，正式拓展至小企业场景，帮助企业主处理日常运营事务。&lt;/strong&gt;新版本可直接接入Instagram专业账户分析数据、Facebook主页和Meta广告账户，并支持与Canva等数十款第三方商业工具对接。本月早些时候，Meta已在美国和加拿大推出面向个人用户的AI代理产品Muse。&lt;/p&gt;
+&lt;p&gt;此次扩展也与Meta的广告业务存在直接联系。&lt;strong&gt;通过将AI代理接入小企业的日常运营和营销流程，Meta可以进一步深入中小企业用户的业务场景，同时为Muse未来的订阅变现提供更多空间。&lt;/strong&gt;&lt;/p&gt;
+功能定位：解决小企业主的时间瓶颈
+&lt;p&gt;Meta在产品设计上瞄准的是小企业主普遍面临的时间不足问题。&lt;/p&gt;
+&lt;p&gt;来自爱荷华州的食品杂货店店主Tom Mulholland表示，他每周工作约65小时，很多事情只能由自己完成。因此，他希望把更多时间留给切牛排、制作香肠等真正创造业务价值的工作，而Muse可以接手其中部分事务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muse for Small Business的核心在于理解企业自身的业务背景。&lt;/strong&gt;Meta介绍，在完成相关账户和工具连接后，Muse能够识别企业的销售品类、品牌调性以及客户常见问题，并据此执行任务，从而保持输出与企业品牌的一致性，而不仅仅是一个通用型AI助手。&lt;/p&gt;
+生态整合：接入现有工具链
+&lt;p&gt;Muse for Small Business并不要求用户改变现有工作方式，而是通过连接器直接接入企业已经在使用的工具。&lt;/p&gt;
+&lt;p&gt;Canva联合创始人兼首席产品官Cameron Adams表示，当Muse与Canva完成连接后，用户可以直接调用Canva的模板和工具，从启动副业到制作演示文稿，都可以在现有工作流中完成，并将早期想法转化为符合品牌调性、可编辑且可分享的内容。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;除官方支持的连接器外，Muse还支持自定义连接器，用户可以自行接入尚未纳入官方列表的第三方服务。&lt;/strong&gt;&lt;/p&gt;
+商业模式：免费为主，订阅为辅
+&lt;p&gt;在商业化方面，Meta延续了AI产品“免费覆盖基础需求、订阅满足进阶需求”的模式。&lt;/p&gt;
+&lt;p&gt;Meta表示，Muse免费版本可以满足大多数用户的核心需求，这与公司“将超级智能普及至尽可能多的人”的愿景一致。对于使用需求更高的用户，Meta则提供付费订阅计划，但目前尚未披露具体定价。&lt;/p&gt;
+&lt;p&gt;Meta同时表示，未来数月将继续增加连接器和技能，并推动Muse处理更多业务环节，实现更广泛的自动化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
