@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 07:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 29 Sep 2026 07:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 韩国KOSPI跌破7000，换手率创年内新低，散户、外资单月净卖超33万亿韩元</title><link>https://wallstreetcn.com/articles/3782672</link><guid>e951bb48dd0b9caf8f65ac42087c524323eeca0bd17fc5752500ada5eab1bc52</guid><pubDate>Mon, 28 Sep 2026 20:09:20 GMT</pubDate><description>&lt;p&gt;韩国股市交投持续降温，KOSPI换手率连续六个月下滑至年内最低水平，散户与外资同步净卖出逾16万亿韩元，市场等待美国PCE数据及美光财报提供方向指引。&lt;/p&gt;
 &lt;p&gt;韩国交易所数据显示，本月1日至23日，KOSPI上市股票日均换手率降至0.50%，为今年以来最低。三星电子与SK海力士股价单日分别下挫逾5%，拖累指数于28日重新跌破7,000点关口，报收6,889.74点。&lt;/p&gt;
 &lt;p&gt;高利率与油价压力令场外资金迟迟未能回流，券商经纪账户待入市资金仅微幅高于100万亿韩元。市场人士表示，只有宏观压力缓解、三季度企业业绩指引符合预期，资金才有望重返市场。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -153,7 +153,25 @@ HRS-1596：每周一次口服给药，尚处早期临床阶段
 数据中心能否变现，仍是悬念
 &lt;p&gt;在企业业务的具体形态上，扎克伯格周一对投资者表示，Meta将&amp;quot;发挥自身优势&amp;quot;，包括庞大的数据中心基础设施，来服务企业客户。&lt;/p&gt;
 &lt;p&gt;但他并未明确表示，公司是否有立即向客户出售闲置数据中心容量的计划——此前有报道称Meta正考虑效仿SpaceX，后者已与Anthropic和谷歌签署了相关协议。&lt;/p&gt;
-&lt;p&gt;Desai则对新部门的定位给出了更清晰的表述：&amp;quot;Meta Enterprise Platform将专注于把Meta的AI技术栈转化为企业可以部署的产品和服务。我们的目标是让Meta成为企业扩展业务的首选平台。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “用户日增速10%”！23岁天才辍学生造出Meta Muse最大劲敌，14人团队撑起671亿估值</title><link>https://wallstreetcn.com/articles/3782700</link><guid>11f441e0819c543b1f7eaf406a443ab18674781e2feade173ec7e41a1c6ae837</guid><pubDate>Tue, 29 Sep 2026 04:09:50 GMT</pubDate><description>&lt;p&gt;个人AI代理赛道正在跑出一匹速度惊人的黑马。&lt;/p&gt;
+&lt;p&gt;Desai则对新部门的定位给出了更清晰的表述：&amp;quot;Meta Enterprise Platform将专注于把Meta的AI技术栈转化为企业可以部署的产品和服务。我们的目标是让Meta成为企业扩展业务的首选平台。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI发布AI训练安全准则：失控就叫停，高管拥有一票否决权！</title><link>https://wallstreetcn.com/articles/3782724</link><guid>403637097868fdafc09e8ca9a4f6cc59c172fc92aa433694a3c38034272f239e</guid><pubDate>Tue, 29 Sep 2026 07:29:15 GMT</pubDate><description>&lt;p&gt;OpenAI正式为前沿AI训练划定安全红线。这家全球最具影响力的人工智能公司发布了一套针对前沿AI训练的安全准则框架，要求在启动或继续任何前沿强化学习训练之前，必须完成系统性的安全论证文件，并赋予高级管理层对训练任务的一票否决权。&lt;/p&gt;
+&lt;p&gt;据OpenAI官方博客，该准则涵盖技术防护、运营管理与失准事件调查三大板块，核心要求包括&lt;strong&gt;：训练过程中若出现未被及时响应的优先级安全警报，相关训练任务须自动暂停；负责审核安全论证的高级领导层成员，每人均拥有叫停训练运行的否决权。&lt;/strong&gt;OpenAI表示，上述建议目前正处于内部落地实施阶段，并预计将持续迭代演进。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此举标志着OpenAI在前沿模型开发流程中引入了更为结构化的安全管控机制。对于市场而言，这一框架的出台既反映出头部AI实验室对模型失控风险的高度警惕，也意味着前沿模型的训练周期与合规成本可能进一步上升。&lt;/p&gt;
+安全论证须覆盖三大技术层面
+&lt;p&gt;OpenAI在博客中指出，安全论证文件应覆盖技术栈的三个核心环节：&lt;strong&gt;对齐训练、沙箱隔离（containment）与实时监控。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在对齐训练层面，&lt;/strong&gt;OpenAI要求通过自动化数据集审查、人工数据集复核及评分器调优等手段，降低模型在训练过程中形成失准行为的风险。具体措施包括：使用智能体识别并修复存在缺陷的强化学习环境，防止模型通过&amp;quot;奖励黑客&amp;quot;手段获得高分；同时追踪模型是否存在&amp;quot;元博弈&amp;quot;行为——即模型识别出自身正处于测试状态并据此调整行为。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在沙箱隔离层面，&lt;/strong&gt;OpenAI强调须对模型运行的沙箱环境及承载该沙箱的研究基础设施进行多层安全加固，并通过持续红队测试发现并修补安全漏洞。此外，所有强化学习训练、评估及内部部署的智能体交互记录须以不可篡改的方式保存，以支持事后溯源调查。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在实时监控层面，&lt;/strong&gt;OpenAI要求建立高召回率的监控系统，确保能够捕捉已知类型的失准行为，并对优先级警报设定明确的响应时限——若警报在规定时间内未被确认，相关训练任务将被自动暂停。&lt;/p&gt;
+高管拥有一票否决权，问责机制延伸至绩效考核
+&lt;p&gt;在运营管理层面，OpenAI设计了一套多重内部制衡机制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安全论证文件完成后，须由另一团队成员撰写&amp;quot;异议报告&amp;quot;，主动寻找论证中的潜在漏洞，并对风险给出独立评估，训练团队须就此作出回应。&lt;/strong&gt;随后，安全论证须提交高级领导层审核，审核成员包括研究部门负责人或副总裁、安全负责人及首席科学家，每位成员均拥有独立的一票否决权。&lt;/p&gt;
+&lt;p&gt;OpenAI还将安全责任纳入绩效考核体系。负责训练任务的高级领导须对安全论证及任何事件响应承担直接责任，以此激励训练团队将安全与对齐置于优先位置。&lt;/p&gt;
+&lt;p&gt;此外，安全论证文件须向内部监督机构（如安全与安保委员会）开放，审计人员须获得足够的访问权限以核实论证内容的有效性。一旦发现可能使安全论证失效的新问题（如新的安全漏洞），须立即启动暂停所有相关训练任务的预案。&lt;/p&gt;
+失准事件调查须公开披露，结果向公众透明
+&lt;p&gt;针对严重AI失准事件的调查，OpenAI亦制定了相应规范。&lt;/p&gt;
+&lt;p&gt;OpenAI要求研究人员通过定向消融实验或重采样实验，对训练动态进行根因分析，以理解失准行为的形成机制。调查期间须定期向内部发布进展更新，员工可通过既定渠道申请获取原始交互记录及失准模型的采样数据。&lt;/p&gt;
+&lt;p&gt;在外部透明度方面，OpenAI明确要求，调查结论、事后复盘报告及运营改进措施须在调查结束后向公众公开披露，受影响的第三方须尽快获得通知。&lt;/p&gt;
+&lt;p&gt;OpenAI表示，上述准则反映了公司当前的最佳实践认知，并将在未来数周内持续演进。公司同时表示，将这些内容公开分享，旨在提升透明度，并邀请外部社区提供反馈。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “用户日增速10%”！23岁天才辍学生造出Meta Muse最大劲敌，14人团队撑起671亿估值</title><link>https://wallstreetcn.com/articles/3782700</link><guid>11f441e0819c543b1f7eaf406a443ab18674781e2feade173ec7e41a1c6ae837</guid><pubDate>Tue, 29 Sep 2026 04:09:50 GMT</pubDate><description>&lt;p&gt;个人AI代理赛道正在跑出一匹速度惊人的黑马。&lt;/p&gt;
 &lt;p&gt;9月28日，旧金山初创公司Instinct宣布完成10亿美元C轮融资，由红杉资本、Benchmark Capital和Coatue联合领投，估值达100亿美元（约合人民币671亿元）。&lt;/p&gt;
 &lt;p&gt;这是一次令硅谷震动的极速狂飙：就在今年8月，《华尔街日报》才报道Instinct正寻求以25亿美元估值完成B轮融资。&lt;strong&gt;仅仅一个月后，其估值就直接暴涨至原来的4倍。&lt;/strong&gt;自2025年成立至今，这家背后公司名为Spear Street Technology的创企，累计筹集资金已超13.5亿美元。更令人惊叹的是，撑起这具庞然大物的整个团队，目前仅有区区14名员工。&lt;/p&gt;
 &lt;p&gt;公司灵魂人物、创始人兼CEO诺亚·辛（Noah Shinn）今年仅23岁。他于2023年从美国东北大学辍学，此前主修化学与计算机科学，曾深入参与机器学习和大语言模型研究，并曾作为早期员工加入知名客服AI独角兽Sierra。&lt;/p&gt;
@@ -363,22 +381,4 @@ Johnson划定基调：创新优先，但要有边界
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债收益率飙升冲击新兴市场，债券ETF创六个月最大单周失血</title><link>https://wallstreetcn.com/articles/3782681</link><guid>9b6cd027e764db65e5a8339f02758db078dbfdb5a77a0b9112f78c2e96af7e80</guid><pubDate>Mon, 28 Sep 2026 20:17:19 GMT</pubDate><description>&lt;p&gt;美国国债收益率攀升至近二十年高位、油价震荡走高以及霍尔木兹海峡局势持续不明朗，令新兴市场债券本月跌幅即将创伊朗战争爆发以来最差表现，资金出逃态势短期内难以逆转。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周一，新兴市场股汇两市延续了近期的抛售态势。由于借贷成本的广泛跃升，MSCI新兴市场股票指数当日下跌1.1%，几乎所有发展中国家货币兑美元均出现走弱，市场风险偏好受到显著压制。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;债券市场的资金外流尤为剧烈。上周，资产规模达130亿美元的 BlackRock iShares摩根大通新兴市场美元债券ETF录得6.1亿美元的资金流出，创下自3月以来的最大单周流出量，资金撤离速度达到六个月来的最高水平。&lt;/p&gt;
-&lt;p&gt;由于霍尔木兹海峡重新开放的不确定性引发油价剧烈波动，市场情绪依然脆弱。尽管有报道称特朗普可能愿意向伊朗提供制裁豁免并释放冻结资金以换取其核计划的进展，促使原油价格从每桶近110美元回落至105美元左右，但在高利率与高油价的双重夹击下，新兴市场资产面临的广泛压力并未消退。&lt;/p&gt;
-收益率攀升加剧资金流出
-&lt;p&gt;美国国债市场的持续抛售是引发此次新兴市场动荡的核心驱动力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;受上周三公布的美国商业活动以五年多来最快速度扩张的数据提振，长期美债收益率逼近多年高点。其中，10年期美债收益率突破5.20%，创下近二十年来的新高，而30年期美债收益率也在上周四攀升至2004年以来的最高水平。&lt;/p&gt;
-&lt;p&gt;巴西投资公司 Avenue 的首席策略师兼合伙人 William Castro Alves 表示，&lt;strong&gt;不断上升的美国借贷成本正“推动各期限收益率全面走高”，而走高的油价和重新抬头的通胀担忧也对该资产类别构成了重压。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Baird Strategas 首席ETF策略师 Todd Sohn 补充称，&lt;strong&gt;随着高利率与高油价的组合出现，市场已实质性地进入避险模式，新兴市场债务在这种环境下并非良好的资产配置选择，预计资金外流仍将持续。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博数据显示，9月份彭博新兴市场硬通货综合指数（Bloomberg EM Hard Currency Aggregate Index）已下跌约2.1%。&lt;/p&gt;
-股市与汇市基本面承压
-&lt;p&gt;在股票市场方面，MSCI的发展中国家股票指标正走向近两周来的最差单日表现。&lt;/p&gt;
-&lt;p&gt;周一亚洲科技股是主要的拖累因素，三星电子与SK海力士跌幅居前。此外，MSCI拉丁美洲股票指标也下跌了约1%。不过，这两大指数今年迄今仍分别保持着22%和11.3%的涨幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Zurich Insurance 首席市场策略师 Guy Miller 指出，&lt;strong&gt;随着市场对美联储政策的预期变得更加鹰派，投资者对高风险资产的胃口已经减弱。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他表示，新兴市场正被两股力量拉扯：&lt;strong&gt;一方面&lt;/strong&gt;，科技板块依然强劲，为投资者提供了清晰的盈利预期和利润率；&lt;strong&gt;另一方面&lt;/strong&gt;，来自美国的利率走势具有破坏性，将在中期内对其他领域构成强大的逆风。&lt;/p&gt;
-&lt;p&gt;在货币市场中，哥伦比亚比索领跌，跌幅达1.5%。此前，该国新任总统 Abelardo de la Espriella 在周日晚间的全国讲话中宣布，已下令其经济团队开始与国际货币基金组织（IMF）展开谈判。&lt;/p&gt;
-&lt;p&gt;该国政府目前正面临一场被官员描述为该国历史上最严重的财政危机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
