@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 30 Sep 2026 20:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄</title><link>https://wallstreetcn.com/articles/3782819</link><guid>bb014554adaa2c0610df6c071765c2542152a56787728ce40ffd3bf9a696d5f7</guid><pubDate>Wed, 30 Sep 2026 13:37:57 GMT</pubDate><description>&lt;p&gt;美国8月PCE低于预期，通胀压力有所缓和，市场对美联储10月加息的预期降温；与此同时，GDP和就业数据仍显示美国经济保持一定韧性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 30 Sep 2026 20:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] 新思科技与OpenAI达成芯片设计AI合作，股价一度涨超7%</title><link>https://wallstreetcn.com/articles/3782849</link><guid>43c0a7d25f517ab22e39f6e9ec65e41aab5c0a897fac505b568afe8b395c0b7a</guid><pubDate>Wed, 30 Sep 2026 20:52:00 GMT</pubDate><description>&lt;p&gt;芯片设计软件制造商新思科技（Synopsys）与OpenAI达成了一项旨在革新半导体设计工作流的多年期战略合作，双方将联合开发专用于芯片设计的人工智能模型。&lt;/p&gt;
+&lt;p&gt;9月30日，Synopsys在投资者峰会上宣布与OpenAI的合作，双方将共同开发用于芯片业务的AI模型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该模型将被命名为 GPT-Synopsys，它将经过专门训练和调整，以承担芯片设计任务。这些任务从用类似代码的语言描述芯片电路开始，一直到确定如何在小块硅片上布局数十亿个晶体管。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据协议，&lt;strong&gt;OpenAI将向Synopsys支付工具授权订阅费用，双方在客户使用该产品时按芯片设计改进成效分享收入。&lt;/strong&gt;消息公布后，Synopsys股价盘中一度上涨逾7%，尾盘涨幅回落仍收涨4.78%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI联合创始人Greg Brockman表示，GPT-Synopsys将帮助工程师减少芯片设计周期中的数周乃至数月时间，并推动更多芯片进入市场。&lt;/p&gt;
+&lt;p&gt;Synopsys首席执行官Sassine Ghazi则强调，该合作协议在结构设计上不会蚕食现有业务，而将为公司带来增量价值。&lt;/p&gt;
+
+合作框架：订阅费加收入分成
+
+&lt;p&gt;根据Ghazi接受路透采访时透露的细节，OpenAI在合作初期将为学习使用Synopsys电子设计自动化（EDA）工具支付训练订阅费。&lt;/p&gt;
+&lt;p&gt;待GPT-Synopsys正式向客户推出后，双方将依据模型对芯片设计的实际提升效果按比例共享收入。&lt;/p&gt;
+&lt;p&gt;Ghazi表示，双方协议在结构上经过专门设计，以确保新产品不会与Synopsys现有业务形成竞争。&amp;quot;这将是我们业务的增量，因为我们正在为客户提供更多价值。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPT-Synopsys将运行于OpenAI自有基础设施之上，并与Synopsys旗下的Synopsys.ai及Autopilot智能体平台深度集成。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;双方表示，目前已有领先半导体客户参与早期技术合作。客户设计数据将受到企业级安全防护，不会用于模型训练，并在传输和存储过程中全程加密。&lt;/p&gt;
+
+技术定位：AI模型成为EDA工具的&amp;quot;专家用户&amp;quot;
+
+&lt;p&gt;GPT-Synopsys的核心设计理念，是将前沿AI模型从通用工具转化为芯片设计领域的专业专家。&lt;/p&gt;
+&lt;p&gt;按照双方的描述，现有的智能体AI技术已能将通用模型连接至EDA工具以运行设计流程，而此次合作迈出的关键一步，是让模型真正掌握像资深工程师一样操作EDA工具的能力——包括解读工具输出结果、在迭代中优化设计方案。&lt;/p&gt;
+&lt;p&gt;在具体应用层面，工程师将能够将功耗、性能和面积（PPA）优化、时序收敛及验证等设计目标委托给智能体执行，由模型自主运行工具、解读结果、实施修改并迭代至可供工程师审核的验证结果。&lt;/p&gt;
+&lt;p&gt;不过，Ghazi强调，GPT-Synopsys的输出结果仍需经过Synopsys传统计算验证工具的复核。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;模型需要这些护栏来核验物理规律，以最高保真度进行验证——也就是我们所说的签核或基准真值，是不可或缺的环节。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+业绩展望：2027财年增长目标超市场预期
+
+&lt;p&gt;Synopsys在此次投资者峰会上同步上调了业绩指引。公司目前预计2027财年营收增速将达到15%，而据LSEG数据显示，分析师此前的平均预期仅为11.19%。&lt;/p&gt;
+&lt;p&gt;Ghazi在发布会上表示，此次与OpenAI的合作将拓展Synopsys先进设计能力的覆盖范围，并扩大对日益复杂芯片设计的市场触达。&lt;/p&gt;
+&lt;p&gt;OpenAI方面，Greg Brockman则将这一合作定位为以前沿AI技术改进驱动AI本身的算力基础设施：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过帮助工程师制造更好的芯片，我们可以构建更好的AI，并将其带给更多人。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄</title><link>https://wallstreetcn.com/articles/3782819</link><guid>bb014554adaa2c0610df6c071765c2542152a56787728ce40ffd3bf9a696d5f7</guid><pubDate>Wed, 30 Sep 2026 13:37:57 GMT</pubDate><description>&lt;p&gt;美国8月PCE低于预期，通胀压力有所缓和，市场对美联储10月加息的预期降温；与此同时，GDP和就业数据仍显示美国经济保持一定韧性。&lt;/p&gt;
 &lt;p&gt;周三，美股三大股指开盘小幅上涨，道指涨0.2%，标普500指数涨0.3%，纳指涨0.4%。Moderna跌超7%，此前花旗将其评级从“中性”下调至“卖出”；新思科技涨1.6%，公司与亚马逊达成逾10亿美元芯片设计许可协议；波音涨超2%，此前赢得美国海军下一代战斗机合同；Robinhoo涨超5%，公司推出周末24小时美股交易服务。&lt;/p&gt;
 &lt;p&gt;美国二季度实际GDP年化季环比终值为2.2%，较初值上修0.7个百分点；就业方面，9月私营部门新增就业9万人，高于市场预期的7.5万人，较8月修正后的3.6万人明显回升，结束连续三个月的放缓。&lt;/p&gt;
 &lt;p&gt;22V Research首席市场策略师丹尼斯·德布舍尔表示，在近期“鹰派数据铺天盖地”的情况下，这一数据是“好消息”。然而，投资者应该“等待美联储内部数据出炉，然后再对美联储前景的长期变化做出反应”。&lt;/p&gt;
@@ -308,31 +341,4 @@ GDP大幅上修，消费仍具韧性
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储24亿美元总部翻修调查出炉：未发现违法违规行为，管理缺陷推高成本</title><link>https://wallstreetcn.com/articles/3782847</link><guid>3017229e0d5e051c47a95a91ed67bf34d22c5246fe61fe847708a4ca6b3f2510</guid><pubDate>Wed, 30 Sep 2026 18:12:50 GMT</pubDate><description>&lt;p&gt;美联储内部监察机构就其华盛顿总部翻新项目发布调查报告，认定该工程不存在联邦刑事违法行为，但同时指出多项管理缺陷是造成成本大幅超支的主因。这一价值24亿美元的翻新工程此前已成为美联储与特朗普政府关系持续紧张的导火索之一。&lt;/p&gt;
-&lt;p&gt;美联储监察长办公室（OIG）周三发布报告称，&lt;strong&gt;在整个评估过程中，未发现合理依据认定存在违反联邦刑事法律的行为，无需向美国司法部长作出转介，也未发现行政违规行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报告同时列出一系列管理缺陷，指出这些问题共同推动项目成本从2020年最初预算的13亿美元飙升至目前的24亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对此，美联储主席沃什在回应函中表示，&lt;strong&gt;美联储将落实报告所提建议，并引入总务管理局（GSA）接管该项目&lt;/strong&gt;，向美联储理事会及沃什本人汇报。沃什还表示，&lt;strong&gt;美联储将另聘独立审计机构，对迄今所有已拨付成本进行审查。&lt;/strong&gt;&lt;/p&gt;
-
-无犯罪证据，但管理缺陷明显
-
-&lt;p&gt;报告显示，监察长办公室在评估期间未发现需依据《监察长法》向美国司法部长作出转介的刑事违法迹象，亦未发现行政违规行为。但报告同时指出，美联储理事会在管理层面存在多处失当，并提出相应整改建议。&lt;/p&gt;
-&lt;p&gt;具体而言，在此前威廉·麦克切斯尼·马丁大楼翻新工程的监察长审查结束后，&lt;strong&gt;理事会未能落实当时提出的&amp;quot;设定明确成本上限&amp;quot;的建议，也未要求提交施工成本估算。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告还指出，直至今年7月——项目启动四年、招标工作已完成之后——美联储仍未确立有保证的最高价格上限。此外，&lt;strong&gt;部分工程因缺乏竞标而造成大幅成本上升，内部治理机制亦被认定不具备驾驭如此规模与复杂程度项目的能力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告还将设计变更、施工现场条件及通货膨胀列为成本攀升的其他因素，明确指出&amp;quot;通货膨胀显然是理事会所面临成本上升的重要因素之一&amp;quot;。&lt;/p&gt;
-&lt;p&gt;报告同时澄清，大理石饰面、水景装置或屋顶花园露台等设计元素并非成本激增的主要驱动因素。&lt;/p&gt;
-
-整改方案：GSA接管，独立审计介入
-
-&lt;p&gt;沃什在致监察长Michael Horowitz的回函中表示，报告所揭示的教训与相关建议&amp;quot;对理事会的后任者具有长久价值&amp;quot;。Horowitz于2025年6月由前主席鲍威尔任命。&lt;/p&gt;
-&lt;p&gt;根据整改安排，GSA将正式介入接管项目，向美联储理事会及沃什汇报；美联储还将聘请独立审计机构，对所有已拨付成本展开全面审查。&lt;/p&gt;
-&lt;p&gt;报告建议包括：在后续工程中采取措施确保实现最优性价比、建立项目成本与进度的成功衡量指标，以及设立专门监督机构，持续跟踪成本控制与进度执行情况。&lt;/p&gt;
-
-政治风波：从国会批评到司法调查
-
-&lt;p&gt;该翻新项目涉及美联储两栋历史建筑——建于1937年的马里纳·S·埃克尔斯大楼及毗邻的一栋建于1931年的联邦建筑。美联储方面表示，翻新旨在对老化建筑进行现代化改造，并通过整合运营降低长期运营成本。&lt;/p&gt;
-&lt;p&gt;然而，这一工程在2025年持续发酵为政治议题。&lt;strong&gt;特朗普与共和党国会议员指控美联储过度挥霍、翻新设计奢靡，批评声浪随之演变为一场针对前主席鲍威尔本人的刑事调查。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;鲍威尔在接受国会质询时明确否认各项奢靡指控，称&amp;quot;没有VIP餐厅，没有新大理石，没有特殊电梯，没有新水景，没有蜂巢，也没有屋顶花园&amp;quot;。&lt;/p&gt;
-&lt;p&gt;据媒体此前报道，今年1月，鲍威尔披露美联储已收到司法部大陪审团传票，面临刑事起诉威胁。&lt;strong&gt;鲍威尔在书面及视频声明中直指，此次调查是对美联储拒绝按特朗普意愿降息的政治报复，&amp;quot;应放在政府持续施压这一更宏观背景下加以审视&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;哥伦比亚特区联邦检察官Jeanine Pirro于今年4月在两党议员反对声中撤销调查，但同时表示将密切关注监察长报告结论，不排除重启调查的可能性。此次监察长调查系鲍威尔于2025年7月应外界批评之声主动启动。&lt;/p&gt;
-&lt;p&gt;值得关注的是，上述政治风波还对美联储领导层交接造成冲击——沃什的确认听证曾因共和党议员的阻挠而搁置，直至Pirro宣布撤销调查后方才推进。&lt;/p&gt;
-&lt;p&gt;而就在撤销调查消息公布数日后，鲍威尔宣布将打破惯例，在今年5月主席任期届满后以理事身份留任美联储，并表示&amp;quot;在调查以透明、终结的方式画上句号之前，我不会离开理事会&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
