@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 30 Sep 2026 22:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 通胀数据难挡收益率压力，美股指承压，标普录得6月以来最差月度表现，黄金倒V</title><link>https://wallstreetcn.com/articles/3782819</link><guid>bb014554adaa2c0610df6c071765c2542152a56787728ce40ffd3bf9a696d5f7</guid><pubDate>Wed, 30 Sep 2026 22:50:28 GMT</pubDate><description>&lt;p&gt;通胀降温信号短暂提振市场，却未能阻止美股在最后一小时逆转走低。标普500指数录得自6月以来最差月度表现，30年期美债收益率维持在2002年以来高位，油价徘徊于90美元上方。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 30 Sep 2026 23:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 通胀数据难挡美债压力，10年期收益率创2002年来新高，标普、道指三连跌，黄金倒V</title><link>https://wallstreetcn.com/articles/3782819</link><guid>bb014554adaa2c0610df6c071765c2542152a56787728ce40ffd3bf9a696d5f7</guid><pubDate>Wed, 30 Sep 2026 22:50:28 GMT</pubDate><description>&lt;p&gt;通胀降温信号短暂提振市场，却未能阻止美股在最后一小时逆转走低。标普500指数录得自6月以来最差月度表现，30年期美债收益率维持在2002年以来高位，油价徘徊于90美元上方。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;当日早盘，美国PCE通胀数据8月环比上涨0.2%，低于预期，前值亦向下修正，市场对10月加息预期随之降温。货币市场数据显示，美联储10月加息概率已降至40%以下。&lt;/p&gt;
 &lt;p&gt;然而，尾盘最后一小时突如其来的波动打断了这一乐观情绪。强劲的消费支出数据印证经济韧性，同时也为通胀反弹埋下隐患，叠加原油价格上扬和长端收益率持续走高，多空信号交织令投资者难以取舍。&lt;/p&gt;
@@ -116,37 +116,7 @@ HBM需求强劲，2027年大部分产能已签约
 &lt;p&gt;OpenAI方面，Greg Brockman则将这一合作定位为以前沿AI技术改进驱动AI本身的算力基础设施：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;通过帮助工程师制造更好的芯片，我们可以构建更好的AI，并将其带给更多人。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 睡着觉也能炒股？“美股散户大本营”Robinhood开放AI智能体，可24小时自动盯盘交易</title><link>https://wallstreetcn.com/articles/3782833</link><guid>21d0b564c4ec040f96bef3064d9439ec5d5415e5600791b1d67f0ca962fb0c61</guid><pubDate>Wed, 30 Sep 2026 11:26:06 GMT</pubDate><description>&lt;p&gt;Robinhood正将曾经专属于对冲基金和量化机构的自动化交易能力，直接送到近3000万普通投资者手中。&lt;/p&gt;
-&lt;p&gt;在9月29日于休斯顿举行的年度HOOD Summit上，&lt;strong&gt;Robinhood正式发布&amp;quot;Robinhood Agents&amp;quot;——一款深度嵌入其应用程序的AI智能体产品&lt;/strong&gt;。&lt;strong&gt;用户无需任何技术背景，即可通过自然语言指令让AI代为分析市场、制定策略并自动执行交易，即便用户处于睡眠状态也不例外。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;公司还宣布计划推出股票7×24小时交易、永续期货及盈利合约等一系列新产品，标志着这家以&amp;quot;金融民主化&amp;quot;为旗帜的券商迈出迄今最激进的一步。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此次发布对市场格局的潜在影响不容忽视。Robinhood是目前首家面向大规模非技术用户群体推出原生AI交易智能体的券商，其他金融科技公司和传统经纪商料将跟进。与此同时，AI智能体大规模介入散户交易，也引发了外界对市场波动性上升及监管空白的广泛关注。&lt;/p&gt;
-AI智能体走出&amp;quot;极客圈&amp;quot;，向全体用户开放
-&lt;p&gt;Robinhood Agents的核心逻辑，是将此前仅对技术用户开放的AI交易接口，转化为任何人都能上手的应用内体验。&lt;/p&gt;
-&lt;p&gt;据Robinhood官方介绍，&lt;strong&gt;用户只需为智能体命名、开设专属代理账户，并从OpenAI和Anthropic提供的多个模型中选择一个——包括GPT-6 Luna、GPT-6 Sol或Anthropic的Opus 4.8——即可开始使用&lt;/strong&gt;。整个配置过程无需编程或技术知识。&lt;/p&gt;
-&lt;p&gt;配置完成后，用户可以用普通英语向智能体下达指令，范围从简单的&amp;quot;买入200美元福特股票&amp;quot;，到复杂的轮动期权策略均可覆盖。即将推出的&amp;quot;Loops&amp;quot;功能将进一步扩展这一能力——用户可以设定一套策略作为持续性指令，让智能体按照既定条件反复执行，例如&amp;quot;每天早上检查市场，满足条件时自动交易&amp;quot;，或&amp;quot;在用户睡觉时运行隔夜策略寻找机会&amp;quot;。&lt;/p&gt;
-&lt;p&gt;在数据层面，Robinhood还推出了&amp;quot;Agent Apps&amp;quot;生态，接入了包括Unusual Whales、Nasdaq Investor Intelligence、SpotGamma、Token Terminal等11家第三方数据提供商，为智能体提供机构级数据支持，各应用均附带一个月免费试用期。&lt;/p&gt;
-用量数据显示早期需求旺盛，但大规模采用仍存变数
-&lt;p&gt;Robinhood今年5月曾向技术用户开放MCP（模型上下文协议）工具，允许其将第三方AI助手接入交易账户。&lt;strong&gt;据Robinhood披露，自该功能上线以来，已有超过15万名客户开设了代理交易账户，目前各类智能体每天在Robinhood平台上执行操作近3000万次。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次面向全部约2900万用户的全面开放，是对上述早期需求的正式回应。Robinhood产品管理副总裁Abhishek Fatehpuria表示：&amp;quot;无论你是AI专家还是刚刚入门，如果你不使用Robinhood，你就处于劣势。&amp;quot;&lt;/p&gt;
-&lt;p&gt;不过，普通投资者究竟有多大意愿将完全的交易控制权交给机器人，目前仍是未知数。为此，Robinhood设置了多重安全机制：智能体只能访问专属代理账户内的资金，无法触及用户主账户；系统默认开启&amp;quot;逐笔确认&amp;quot;模式，要求智能体在执行每笔交易前获得用户批准；用户还可自行设定单次交易限额。此外，Robinhood表示已与相关AI研究机构签署零数据留存协议，用户与智能体的对话内容将保持私密。&lt;/p&gt;
-&lt;p&gt;在定价方面，GPT-6 Luna将免费提供至今年年底，其他模型按标准Token费率收费。公司高管表示，大多数交易场景下的使用成本&amp;quot;微乎其微&amp;quot;，但若算力成本意外上涨或用户大量采用研究密集型策略，实际费用仍存在不确定性。&lt;/p&gt;
-配套推出7×24小时交易与永续期货，全面扩张产品边界
-&lt;p&gt;AI智能体并非此次HOOD Summit的唯一亮点。Robinhood同步宣布了一系列扩大交易时间和资产类别的计划，与智能体功能形成协同。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;全天候股票交易&lt;/strong&gt;：Robinhood计划将现有的&amp;quot;24/5&amp;quot;股票交易服务（周日晚8点至周五晚8点）升级为真正的7×24小时交易，覆盖周末时段，待监管审批通过后推出。该功能将依托机构级另类交易系统Bruce ATS提供流动性支持。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;永续期货&lt;/strong&gt;：Robinhood将向符合条件的美国用户推出永续期货产品，初期覆盖BTC、ETH、SOL、XRP、DOGE、ADA、LINK和HYPE共8个加密货币品种，BTC和ETH最高可提供10倍杠杆，其他品种最高3倍杠杆，年底前每笔交易仅收取1个基点手续费。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;盈利合约&lt;/strong&gt;：公司还将在预测市场板块推出与企业盈利挂钩的二元期权合约，允许用户就公司营收、每股收益等关键财务指标进行交易，预计覆盖20余个热门标的，通过Cboe提供，年底前免收合约费用。&lt;/p&gt;
-&lt;p&gt;此外，Robinhood还宣布将于10月起将Nvidia、Tesla、SPY和QQQ等热门标的的期权交易时间延长35%，并推出最高4倍日内保证金、OCO（一撤全撤）订单等工具，进一步强化对活跃交易者的吸引力。&lt;/p&gt;
-监管与市场风险：法律责任归属尚不明朗
-&lt;p&gt;AI智能体的大规模商业化落地，也带来了一系列尚待厘清的风险议题。&lt;/p&gt;
-&lt;p&gt;在法律责任层面，Robinhood的立场是：&lt;strong&gt;托管智能体不构成提供投资建议，智能体的建议或操作在性质上类似于用户&amp;quot;询问互联网或朋友&amp;quot;。然而，围绕代理交易的法律框架目前仍在演进之中，一旦出现损失，责任归属尚无定论。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在市场层面，大量AI智能体同时活跃于市场，可能带来难以预判的影响。一个值得关注的假设情景是：若多个智能体开始相互&amp;quot;协商&amp;quot;并集体涌入或撤出某一资产，可能引发更大的市场波动，极端情况下甚至可能触发恐慌性抛售，尤其是在涉及恶意行为者的情况下。&lt;/p&gt;
-&lt;p&gt;上周嘉信理财、LPL Financial和摩根大通等传统金融机构的股价已因AI代理软件可能自动将客户资金转移至收益更高账户的担忧而出现大幅下跌，显示出市场对AI冲击传统金融业务模式的高度敏感。&lt;/p&gt;
-Robinhood率先落子，跟进者已在路上
-&lt;p&gt;Robinhood此次是首家向大规模非技术用户群体推出原生AI交易智能体的券商，但这一先发优势能否持续，仍有待观察。&lt;/p&gt;
-&lt;p&gt;eToro、Public和Coinbase等金融科技及加密货币公司目前已允许用户通过MCP工具接入自有智能体，预计这些公司将很快在其平台内直接推出交易智能体。嘉信理财、富达等传统经纪商也被认为迟早会跟进。&lt;/p&gt;
-&lt;p&gt;Robinhood CEO Vlad Tenev在声明中表示：&amp;quot;所有权离不开市场，市场离不开交易者。我们正在让Robinhood成为全球活跃交易者的最佳平台，为他们提供曾经只有对冲基金、大型银行和量化机构才能使用的工具。&amp;quot;&lt;/p&gt;
-&lt;p&gt;从更宏观的视角来看，若AI智能体最终在市场上每天执行数十亿笔交易，普通投资者得以部署此前只有机构才能运行的复杂策略，这对市场表现和财富积累格局的深远影响，目前仍难以评估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌推出Gemini 4 Argon，重返AI前沿但访问权限受限</title><link>https://wallstreetcn.com/articles/3782853</link><guid>cfd0ae41c59580e5d8fa092e2a172259b6b9f517b7dcb2f10cfadaa291cd2d16</guid><pubDate>Wed, 30 Sep 2026 21:19:33 GMT</pubDate><description>&lt;p&gt;谷歌发布旗舰AI模型Gemini 4 Argon，在多项基准测试中超越OpenAI和Anthropic的顶级产品，标志着这家搜索巨头在历经数月落后后重新杀回竞争前沿。但这款备受期待的模型目前仅向特定网络安全合作伙伴开放，普通开发者和企业用户尚需等待。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌推出新旗舰模型Gemini 4 Argon，多项指标登顶基准测试榜单</title><link>https://wallstreetcn.com/articles/3782853</link><guid>cfd0ae41c59580e5d8fa092e2a172259b6b9f517b7dcb2f10cfadaa291cd2d16</guid><pubDate>Wed, 30 Sep 2026 23:20:23 GMT</pubDate><description>&lt;p&gt;谷歌发布旗舰AI模型Gemini 4 Argon，在多项基准测试中超越OpenAI和Anthropic的顶级产品，标志着这家搜索巨头在历经数月落后后重新杀回竞争前沿。但这款备受期待的模型目前仅向特定网络安全合作伙伴开放，普通开发者和企业用户尚需等待。&lt;/p&gt;
 &lt;p&gt;9月30日，谷歌正式推出最新AI旗舰模型Gemini 4 Argon，该模型在18项基准测试中的13项位居榜首或并列第一，尤以知识型工作和长上下文推理见长。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;鉴于近几周来人工智能安全问题在科技界引发了广泛讨论，谷歌表示，&lt;strong&gt;其新模型最初将仅供专注于网络安全防御的特定公司和组织使用。&lt;/strong&gt;待防御者有机会修补系统漏洞并修复模型发现的缺陷后，该模型才会更广泛地发布。&lt;/p&gt;
@@ -302,45 +272,71 @@ Robinhood率先落子，跟进者已在路上
 贸易拖累或加深，库存增长提供一定缓冲
 &lt;p&gt;贸易数据对GDP的影响还需要结合库存变化判断。8月零售库存增长0.3%，批发库存增长0.7%。&lt;strong&gt;企业增加库存意味着部分进口商品可能尚未转化为当期消费，因此库存积累有望在GDP核算中部分抵消净出口恶化带来的拖累。&lt;/strong&gt;不过，库存与贸易最终如何共同影响第三季度GDP，仍取决于后续完整数据。&lt;/p&gt;
 &lt;p&gt;在最新商品贸易数据公布前，亚特兰大联储GDPNow模型预计，净出口将使第三季度GDP增速减少1.37个百分点，而第二季度的拖累为1.14个百分点。如果8月贸易数据所反映的进口增长在后续核算中得到确认，净出口对三季度GDP的负面贡献可能进一步扩大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需要注意的是，周三公布的数据尚未包含服务贸易收支，也未经过通胀调整。&lt;/strong&gt;包含服务贸易以及经通胀调整后的商品贸易数据在内的完整8月贸易报告将于当地时间10月6日公布，届时才能更完整地评估贸易部门对第三季度GDP的实际影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街怎么看PCE？高盛推迟美联储加息预期时间</title><link>https://wallstreetcn.com/articles/3782850</link><guid>140019d775625c0e7bd982e510041616b882022cfc10ef72439e3fb64b4a6f7f</guid><pubDate>Wed, 30 Sep 2026 19:43:59 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782841"&gt;美国8月PCE通胀低于预期&lt;/a&gt;，正在改变华尔街对美联储下一次加息时点的判断。&lt;/p&gt;
-&lt;p&gt;高盛周三将美联储年内第二次加息的预期从10月推迟至12月，同时不排除美联储最终认为无需进一步加息。&lt;/p&gt;
-&lt;p&gt;“新美联储通讯社”Nick Timiraos指出，&lt;strong&gt;此前PPI和CPI数据表明通胀改善没有延续，PCE基本没有改变这一趋势，&lt;/strong&gt;市场价格指标在统计方法调整前后仍运行在约3%的水平，&lt;strong&gt;通胀并未继续朝2%的目标取得进展。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Capital Economics首席北美经济学家认为，核心价格压力略逊于此前担忧的程度，支持10月暂停加息；BMO高级经济学家认为，年化涨幅超过3%的PCE价格组成部分的比例从54%降至51%，仍远高于正常水平，无法说明通胀趋势已得到实质性改善。&lt;/p&gt;
-&lt;p&gt;市场定价方面。&lt;strong&gt;芝加哥商品交易所FedWatch Tool显示，市场目前预计10月份加息的概率约为39%，低于PCE数据公布前的约45%。12月份加息的概率则达到了90%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美债价格方面，2年期美债收益率在PCE公布从4.887%降至4.864%左右，显示投资者降低了对美联储短期加息的押注，但随后收益率继续回升至完全收复降幅。10年期收益率则持续走高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，美国经济数据仍显示出较强韧性。&lt;strong&gt;美国二季度GDP增速从此前的1.5%大幅上修至2.2%，8月消费者支出增长0.9%。&lt;/strong&gt;这意味着，PCE虽然降低了10月加息的紧迫性，但尚不足以彻底改变美联储面对的通胀与经济增长局面。&lt;/p&gt;
-高盛：10月加息可能性不大，第二次加息推迟至12月
-&lt;p&gt;基于周三公布的通胀指标以及纽约联储主席John Williams周二发表的讲话，高盛经济学家调整了对美联储政策的预测，预计第二次加息将发生在12月，而非此前预测的10月。&lt;/p&gt;
-&lt;p&gt;由Jan Hatzius领导的高盛经济学团队在报告中写道，周三公布的8月个人收入与支出数据显示，核心通胀指标涨幅低于预期；当月核心PCE物价指数环比上涨0.25%，同比上涨3.01%，“远低于预期”。&lt;/p&gt;
-&lt;p&gt;高盛预计，第四季度核心PCE物价指数将同比上涨3%，“远低于美联储公开市场委员会（FOMC）与会者3.4%的预测中位数”。报告写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“结合纽约联储主席John Williams昨天的表态，我们现在认为10月份加息的可能性不大；我们将预测中的第二次加息推迟至12月，并且我们认为FOMC最终判定无需进一步加息的可能性很大。”&lt;/p&gt;
-&lt;/blockquote&gt;
-Timiraos：PCE没有明显改变通胀趋势
-&lt;p&gt;Timiraos指出，本次PCE报告最核心的信息是，它并没有大幅改变市场此前已经掌握的通胀趋势。&lt;/p&gt;
-&lt;p&gt;他认为，6月和7月的通胀数据表现较好，但这一情况此前已经为市场所知；8月数据则显示，这种改善并没有延续，而在PPI和CPI数据公布之后，市场实际上已经能够看到这一点。&lt;/p&gt;
-&lt;p&gt;Timiraos还指出，当前市场价格指标在统计方法调整前后都运行在约3%的水平。虽然12个月通胀读数看起来没有那么不利，但自2025年4月以来，通胀并没有朝2%的目标取得进一步进展。&lt;/p&gt;
-其他华尔街分析师观点
-&lt;p&gt;Capital Economics首席北美经济学家Stephen Brown对PCE的判断相对偏鸽。Brown表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;“核心价格压力略逊于此前担忧的程度，这为我们认为美联储将在10月暂停加息的观点提供了一定支持。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;其还指出，BEA这次调整PCE统计方法后，核心通胀历史数据被下修，相关调整合计拉低了核心通胀约0.3个百分点；6月和7月的下修还使得过去三个月核心通胀的年化增速降至2%。&lt;/p&gt;
-&lt;p&gt;但BMO高级经济学家Sal Guatieri给出了更谨慎的判断，认为通胀潜在趋势没有出现有意义的改善。他表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“年化涨幅超过3%的PCE价格组成部分的比例有所缓解，从54%降至51%，&lt;strong&gt;这一比例仍远高于正常水平，几乎无法说明通胀的基础趋势已得到实质性改善。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Guatieri进一步表示，这将强化美联储认为仍需要进一步收紧政策、推动通胀回到目标水平的判断。&lt;/p&gt;
-&lt;p&gt;从市场定价看，芝加哥商品交易所FedWatch Tool显示，市场目前预计10月份加息的概率约为39%，低于PCE数据公布前的约45%。12月份加息的概率则达到了90%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需要注意的是，周三公布的数据尚未包含服务贸易收支，也未经过通胀调整。&lt;/strong&gt;包含服务贸易以及经通胀调整后的商品贸易数据在内的完整8月贸易报告将于当地时间10月6日公布，届时才能更完整地评估贸易部门对第三季度GDP的实际影响。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “美联储最爱通胀指标”低于预期，高盛不再预期10月加息</title><link>https://wallstreetcn.com/articles/3782850</link><guid>140019d775625c0e7bd982e510041616b882022cfc10ef72439e3fb64b4a6f7f</guid><pubDate>Wed, 30 Sep 2026 19:43:59 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782841"&gt;美国8月PCE通胀低于预期&lt;/a&gt;，正在改变华尔街对美联储下一次加息时点的判断。&lt;/p&gt;&lt;p&gt;高盛周三将美联储年内第二次加息的预期从10月推迟至12月，同时不排除美联储最终认为无需进一步加息。&lt;/p&gt;&lt;p&gt;“新美联储通讯社”Nick Timiraos指出，&lt;strong&gt;此前PPI和CPI数据表明通胀改善没有延续，PCE基本没有改变这一趋势，&lt;/strong&gt;市场价格指标在统计方法调整前后仍运行在约3%的水平，&lt;strong&gt;通胀并未继续朝2%的目标取得进展。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Capital Economics首席北美经济学家认为，核心价格压力略逊于此前担忧的程度，支持10月暂停加息；BMO高级经济学家认为，年化涨幅超过3%的PCE价格组成部分的比例从54%降至51%，仍远高于正常水平，无法说明通胀趋势已得到实质性改善。&lt;/p&gt;&lt;p&gt;市场定价方面。&lt;strong&gt;芝加哥商品交易所FedWatch Tool显示，市场目前预计10月份加息的概率约为39%，低于PCE数据公布前的约45%。12月份加息的概率则达到了90%。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;美债价格方面，2年期美债收益率在PCE公布从4.887%降至4.864%左右，显示投资者降低了对美联储短期加息的押注，但随后收益率继续回升至完全收复降幅。10年期收益率则持续走高。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;与此同时，美国经济数据仍显示出较强韧性。&lt;strong&gt;美国二季度GDP增速从此前的1.5%大幅上修至2.2%，8月消费者支出增长0.9%。&lt;/strong&gt;这意味着，PCE虽然降低了10月加息的紧迫性，但尚不足以彻底改变美联储面对的通胀与经济增长局面。&lt;/p&gt;高盛：10月加息可能性不大，第二次加息推迟至12月&lt;p&gt;基于周三公布的通胀指标以及纽约联储主席John Williams周二发表的讲话，高盛经济学家调整了对美联储政策的预测，预计第二次加息将发生在12月，而非此前预测的10月。&lt;/p&gt;&lt;p&gt;由Jan Hatzius领导的高盛经济学团队在报告中写道，周三公布的8月个人收入与支出数据显示，核心通胀指标涨幅低于预期；当月核心PCE物价指数环比上涨0.25%，同比上涨3.01%，“远低于预期”。&lt;/p&gt;&lt;p&gt;高盛预计，第四季度核心PCE物价指数将同比上涨3%，“远低于美联储公开市场委员会（FOMC）与会者3.4%的预测中位数”。报告写道：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“结合纽约联储主席John Williams昨天的表态，我们现在认为10月份加息的可能性不大；我们将预测中的第二次加息推迟至12月，并且我们认为FOMC最终判定无需进一步加息的可能性很大。”&lt;/p&gt;&lt;/blockquote&gt;Timiraos：PCE没有明显改变通胀趋势&lt;p&gt;Timiraos指出，本次PCE报告最核心的信息是，它并没有大幅改变市场此前已经掌握的通胀趋势。&lt;/p&gt;&lt;p&gt;他认为，6月和7月的通胀数据表现较好，但这一情况此前已经为市场所知；8月数据则显示，这种改善并没有延续，而在PPI和CPI数据公布之后，市场实际上已经能够看到这一点。&lt;/p&gt;&lt;p&gt;Timiraos还指出，当前市场价格指标在统计方法调整前后都运行在约3%的水平。虽然12个月通胀读数看起来没有那么不利，但自2025年4月以来，通胀并没有朝2%的目标取得进一步进展。&lt;/p&gt;其他华尔街分析师观点&lt;p&gt;Capital Economics首席北美经济学家Stephen Brown对PCE的判断相对偏鸽。Brown表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;“核心价格压力略逊于此前担忧的程度，这为我们认为美联储将在10月暂停加息的观点提供了一定支持。”&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;其还指出，BEA这次调整PCE统计方法后，核心通胀历史数据被下修，相关调整合计拉低了核心通胀约0.3个百分点；6月和7月的下修还使得过去三个月核心通胀的年化增速降至2%。&lt;/p&gt;&lt;p&gt;但BMO高级经济学家Sal Guatieri给出了更谨慎的判断，认为通胀潜在趋势没有出现有意义的改善。他表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“年化涨幅超过3%的PCE价格组成部分的比例有所缓解，从54%降至51%，&lt;strong&gt;这一比例仍远高于正常水平，几乎无法说明通胀的基础趋势已得到实质性改善。”&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Guatieri进一步表示，这将强化美联储认为仍需要进一步收紧政策、推动通胀回到目标水平的判断。&lt;/p&gt;&lt;p&gt;从市场定价看，芝加哥商品交易所FedWatch Tool显示，市场目前预计10月份加息的概率约为39%，低于PCE数据公布前的约45%。12月份加息的概率则达到了90%。&lt;/p&gt;GDP大幅上修，消费仍具韧性&lt;p&gt;周三同步发布的经济数据显示，&lt;strong&gt;美国二季度GDP增速被大幅上修至年化2.2%，远高于此前公布的1.5%。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;消费支出和投资两大核心分项均优于前值。&lt;strong&gt;衡量内生增长动能的关键指标——实际私人国内购买者最终销售额——同样被上调至4.6%。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;投资类别的上修凸显了人工智能基础设施建设对经济增长的拉动作用，而消费支出估值的提升则表明，在就业市场稳健和股市强劲的支撑下，居民财务状况总体良好。&lt;/p&gt;&lt;p&gt;8月消费者支出月环比增长0.9%，部分受油价上涨带动的加油站支出增加所驱动；收入增速则从上月的0.3%小幅回落至0.2%。整体PCE价格指数同比上涨3.4%，与前月持平，而月环比则加速至0.3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 医药板块分化加剧，创新药龙头迎来BD第二增长曲线</title><link>https://wallstreetcn.com/articles/3782839</link><guid>ff416e743f4de19eb25ab4bcc4fa435b46839efc85bbd72911375b84d6c8b89e</guid><pubDate>Wed, 30 Sep 2026 12:27:32 GMT</pubDate><description>&lt;p&gt;中国医药板块正经历一轮结构性重估。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在反腐持续与医保控费双重压力下，国内药企2026年上半年业绩明显分化，覆盖公司股价年初以来平均回调约19%，远超同期沪深300与恒生指数约2%的跌幅。&lt;/strong&gt;汇丰前海认为，这一回调并不代表基本面同向恶化，而是创新药占比高低正在将板块切割为两个截然不同的增长轨道。&lt;/p&gt;
+&lt;p&gt;据追风交易台，汇丰前海在最新研报中表示，&lt;strong&gt;创新药占比较高的龙头企业2027至2028年产品收入增速预计可达10%至15%，其中创新药收入增速超过20%；其余公司则仅能实现中高个位数增长，且需依赖GLP-1与ADC等新品在2027年后陆续上市来支撑&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;报告将海外授权资产的全球三期临床进展列为下一阶段估值的核心驱动，BD里程碑收入被视为2027至2028年的第二增长引擎。&lt;/strong&gt;&lt;/p&gt;
+国内业务承压，增速分层已成定局
+&lt;p&gt;2026年上半年，国内反腐措施与医保控费政策的叠加效应在药企之间制造了明显的业绩落差。&lt;/p&gt;
+&lt;p&gt;汇丰前海指出，经历多轮合规整改后，头部药企的营销活动已基本适应更严格的监管要求，&lt;strong&gt;国内市场有望在2026年下半年温和复苏，但回升节奏偏慢。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告据此将覆盖公司的中期增速预期切分为两档：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第一档为创新药占比高的龙头，以恒瑞与翰森为代表，2027至2028年产品收入增速预计达10%至15%，创新药收入增速超过20%，增长动力来自GLP-1、ADC及多个自身免疫管线药物的陆续上市。&lt;/p&gt;
+&lt;p&gt;第二档公司则预计仅能实现中高个位数增长，且增长时间节点更多依赖2027年之后的新品放量。&lt;/p&gt;
+&lt;p&gt;这一分层意味着，板块内部的估值逻辑已发生根本性转变——国内销售的边际改善不再是统一的定价锚，创新药收入占比才是区分弹性高低的核心变量。&lt;/p&gt;
+全球三期进展成为估值新支点
+&lt;p&gt;汇丰前海将海外授权资产的全球三期临床进展列为当前阶段最值得跟踪的核心指标，认为这将逐步取代国内销售数据，成为头部药企估值的主要驱动力。&lt;/p&gt;
+&lt;p&gt;具体而言，报&lt;strong&gt;告预计恒瑞将有5个资产、翰森将有3个资产进入全球三期试验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其中，恒瑞的TSLP/GSK283计划于2026年底至2027年启动6项三期试验，覆盖慢阻肺、哮喘与慢性鼻窦炎伴鼻息肉三个适应症；其肌球蛋白与GLP-1组合资产也将进入三期阶段，背后支撑来自较大的潜在市场空间与前期积极的临床数据。翰森的B7H3与B7H4 ADC则计划开展9项以上三期试验。&lt;/p&gt;
+&lt;p&gt;石药方面，报告预计其与阿斯利康的多个外授权分子将在近期进入临床阶段，从而触发里程碑付款；中国生物制药则有望启动更多BD交易与二期试验。汇丰前海预计，恒瑞与翰森的BD收入将在2027至2028年随里程碑节点的触发保持增长，而石药与中国生物制药则因高基数效应，BD收入增速可能有所回落。&lt;/p&gt;
+&lt;p&gt;汇丰前海预计，石药受益于外授权管线和里程碑收入预期，盈利预测上调幅度较大；中国生物制药盈利改善预期仍强；丽珠则因国内业务依赖度较高、创新药转型较慢而承压，复星医药和恒瑞整体变化不大。&lt;/p&gt;
+&lt;p&gt;汇丰前海将翰森列为首选，主要看好其国内销售增长、BD收入确认，以及多个项目进入全球三期带来的后续催化。&lt;/p&gt;
+验证窗口与主要风险
+&lt;p&gt;上述分层能否成立，还要看后续业绩能否跟上。&lt;/p&gt;
+&lt;p&gt;汇丰前海认为，2026年三季报披露期（10月下旬至11月）以及2027年1至2月的年报业绩预告，是观察这一分层是否延续的重要时间点。届时，重点看创新药收入占比是否继续提升，以及BD授权收入和里程碑收入能否兑现。&lt;/p&gt;
+&lt;p&gt;从具体项目来看，恒瑞TSLP/GSK283、翰森B7H3与B7H4 ADC的全球三期启动和入组进展，以及石药与阿斯利康合作项目推进至临床后，能否陆续触发里程碑付款，将直接影响BD收入的释放节奏。&lt;/p&gt;
+&lt;p&gt;但是，如果国内医保控费进一步加码，或者外授权项目的全球三期进展不及预期甚至失败，相关公司的创新药收入和BD收入都可能受到影响，市场目前给予创新药业务的估值溢价也可能随之收窄。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-GDP大幅上修，消费仍具韧性
 
-&lt;p&gt;周三同步发布的经济数据显示，&lt;strong&gt;美国二季度GDP增速被大幅上修至年化2.2%，远高于此前公布的1.5%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消费支出和投资两大核心分项均优于前值。&lt;strong&gt;衡量内生增长动能的关键指标——实际私人国内购买者最终销售额——同样被上调至4.6%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;投资类别的上修凸显了人工智能基础设施建设对经济增长的拉动作用，而消费支出估值的提升则表明，在就业市场稳健和股市强劲的支撑下，居民财务状况总体良好。&lt;/p&gt;
-&lt;p&gt;8月消费者支出月环比增长0.9%，部分受油价上涨带动的加油站支出增加所驱动；收入增速则从上月的0.3%小幅回落至0.2%。整体PCE价格指数同比上涨3.4%，与前月持平，而月环比则加速至0.3%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储6比1投票通过压力测试改革：资本要求波动性减半，唯一反对票警告韧性受损</title><link>https://wallstreetcn.com/articles/3782854</link><guid>821910b3d8d80ea613724eb3a18015b3a93bfaddcb0ee6b581f143455559731c</guid><pubDate>Wed, 30 Sep 2026 22:17:51 GMT</pubDate><description>&lt;p&gt;美联储以6比1的投票结果，正式通过对年度银行压力测试的重大改革，为华尔街大型银行的多年博弈画上句号。&lt;/p&gt;
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普称鲍威尔应该辞任美联储理事</title><link>https://wallstreetcn.com/articles/3782857</link><guid>8ba8a993fadfe9b814b355ba593168ffdbe379eff7131129625944e6d72477b4</guid><pubDate>Wed, 30 Sep 2026 23:18:09 GMT</pubDate><description>&lt;p&gt;美联储总部翻修工程超支风波持续发酵，特朗普政府再度向前主席鲍威尔施压。&lt;/p&gt;
+&lt;p&gt;9月30日，美国总统特朗普在社交媒体发文，&lt;strong&gt;要求鲍威尔立即辞去美联储理事职务，并威胁称若其拒绝辞职，美国政府将以腐败或失职为由对其提起诉讼。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此番表态源于美联储内部监察长发布的一份报告，&lt;strong&gt;该报告虽未发现任何刑事违规行为，但揭示了多项导致总部翻修项目严重超支的管理失误。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特朗普同日宣布，已指示司法部长Todd Blanche就监察长报告进行研究，并&amp;quot;就后续处置作出判断&amp;quot;。&lt;/strong&gt;这一表态将鲍威尔在美联储内部的未来处境再度推向聚光灯下。&lt;/p&gt;
+
+监察长报告：无刑事违规，但管理漏洞明显
+
+&lt;p&gt;美联储监察长办公室周三发布报告，对这座价值24亿美元的华盛顿总部翻修项目展开评估。&lt;/p&gt;
+&lt;p&gt;报告明确指出，&lt;strong&gt;&amp;quot;在评估过程中，我们未曾发现任何合理依据认定存在需要依据《监察长法》向司法部长报告的联邦刑事违规行为&amp;quot;，从而基本排除了刑事起诉的可能性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，报告同时列举了一系列管理层面的失误。&lt;/strong&gt;监察长发现，美联储董事会未能就此前项目的超支教训采取有效行动，未落实设定成本上限的建议，也未要求获取建设成本估算。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更引人关注的是，项目启动四年后、合同招标完成之后的今年7月，美联储仍未确立有保障的最高价格机制。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，部分工程缺乏竞争性报价导致成本大幅攀升，内部治理架构也被认为不足以应对这一规模与复杂程度的项目。设计变更、现场条件及通货膨胀亦被列为成本超支的重要因素。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该项目最初预算为2020年的13亿美元，如今实际成本已攀升至24亿美元。&lt;/strong&gt;&lt;/p&gt;
+
+美联储新主席接手烂摊子，承诺全面整改
+
+&lt;p&gt;&lt;strong&gt;现任美联储主席沃什在随报告附上的回应函中表示，美联储将落实监察长提出的所有建议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;沃什宣布，联邦总务署（GSA）将担任项目执行方，与美联储协作完成后续工程，并向理事会及沃什本人汇报。沃什在致监察长Michael Horowitz的信函中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这其中有重要的教训值得汲取，这些教训结合您的结论以及GSA的建议，将对我们的继任者产生持久价值。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Horowitz于2025年6月由鲍威尔任命担任此职。&lt;/p&gt;
+&lt;p&gt;沃什还表示，美联储将聘请独立审计机构，对迄今为止所有已确认成本进行全面审查。&lt;/p&gt;
+
+鲍威尔去留之争：法律约束与政治压力并存
+
+&lt;p&gt;鲍威尔于今年5月第二任主席任期届满后，打破惯例选择留任美联储理事，其&lt;strong&gt;理事任期将延续至2028年1月。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;特朗普在其担任主席期间多次批评其货币政策立场，并将总部翻修问题作为攻击其的抓手。鲍威尔此前已成功抵御特朗普的多次施压，包括解雇威胁。&lt;/p&gt;
+&lt;p&gt;从法律层面看，美联储理事由总统提名、参议院确认，《联邦储备法》明确规定，总统仅可在&amp;quot;有正当理由&amp;quot;的情况下罢免理事。&lt;/p&gt;
+&lt;p&gt;Potomac River Capital创始人、美联储研究学者Mark Spindel表示，尽管特朗普此次并未明确威胁罢免鲍威尔，但相关动态清晰表明白宫重塑美联储决策层的意图并未改变。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;特朗普对鲍威尔的不满毫无边界，掌控美联储的欲望同样如此。尽管如此，国会、法院等政治力量一直支持美联储的独立性，并将继续在特朗普的持续压力下坚守这一立场。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;哥伦比亚大学法学教授Kathryn Judge则注意到，监察长报告对鲍威尔在翻修项目监管中所扮演角色着墨甚少。她说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;考虑到美联储主席肩负众多其他职责，很难简单判定他应当在此类监管事务上投入多少精力。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储6比1投票通过压力测试改革：资本要求波动性减半，唯一反对票警告韧性受损</title><link>https://wallstreetcn.com/articles/3782854</link><guid>821910b3d8d80ea613724eb3a18015b3a93bfaddcb0ee6b581f143455559731c</guid><pubDate>Wed, 30 Sep 2026 22:17:51 GMT</pubDate><description>&lt;p&gt;美联储以6比1的投票结果，正式通过对年度银行压力测试的重大改革，为华尔街大型银行的多年博弈画上句号。&lt;/p&gt;
 &lt;p&gt;9月30日，美联储正式批准了两项最终规则，旨在提升压力测试的透明度与公众监督力度，并减少相关资本要求的波动性。这两项规则与2025年发布的征求意见稿基本保持一致。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;根据新规，美联储将公开征求对压力测试情景及重大模型变更的意见，并更新假设情景框架、测试日历及全球市场冲击组成部分。美联储表示，相关变化预计将使资本要求的年度波动性降低约50%，且不会对整体资本要求产生实质性影响。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;唯一投票反对的美联储理事Michael Barr警告称，此次改革将&amp;quot;显著削弱压力测试，进而削弱银行的抗风险能力&amp;quot;。前美联储官员、智库Better Markets银行政策总监Christopher Appel亦对改革的实际效果持怀疑态度。&lt;/p&gt;
@@ -370,32 +366,4 @@ GDP大幅上修，消费仍具韧性
 &lt;p&gt;&lt;strong&gt;美联储理事Michael Barr&lt;/strong&gt;认为，此次改革将实质性削弱压力测试的约束力，从而降低银行体系的整体韧性。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;前美联储官员Christopher Appel&lt;/strong&gt;则持更根本性的批评立场，认为&lt;strong&gt;美联储不应继续依赖&amp;quot;这一日益空洞的练习&amp;quot;来设定资本要求，而应将压力测试作为一种灵活的监管工具，用于发现脆弱性、挑战银行假设并推动纠正行动。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;今年早些时候，大型银行在年度压力测试中再度全部通过，随后立即向股东大规模返还资本，通过股息和股票回购发放的金额打破了2019年创下的历史纪录。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 医药板块分化加剧，创新药龙头迎来BD第二增长曲线</title><link>https://wallstreetcn.com/articles/3782839</link><guid>ff416e743f4de19eb25ab4bcc4fa435b46839efc85bbd72911375b84d6c8b89e</guid><pubDate>Wed, 30 Sep 2026 12:27:32 GMT</pubDate><description>&lt;p&gt;中国医药板块正经历一轮结构性重估。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在反腐持续与医保控费双重压力下，国内药企2026年上半年业绩明显分化，覆盖公司股价年初以来平均回调约19%，远超同期沪深300与恒生指数约2%的跌幅。&lt;/strong&gt;汇丰前海认为，这一回调并不代表基本面同向恶化，而是创新药占比高低正在将板块切割为两个截然不同的增长轨道。&lt;/p&gt;
-&lt;p&gt;据追风交易台，汇丰前海在最新研报中表示，&lt;strong&gt;创新药占比较高的龙头企业2027至2028年产品收入增速预计可达10%至15%，其中创新药收入增速超过20%；其余公司则仅能实现中高个位数增长，且需依赖GLP-1与ADC等新品在2027年后陆续上市来支撑&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;报告将海外授权资产的全球三期临床进展列为下一阶段估值的核心驱动，BD里程碑收入被视为2027至2028年的第二增长引擎。&lt;/strong&gt;&lt;/p&gt;
-国内业务承压，增速分层已成定局
-&lt;p&gt;2026年上半年，国内反腐措施与医保控费政策的叠加效应在药企之间制造了明显的业绩落差。&lt;/p&gt;
-&lt;p&gt;汇丰前海指出，经历多轮合规整改后，头部药企的营销活动已基本适应更严格的监管要求，&lt;strong&gt;国内市场有望在2026年下半年温和复苏，但回升节奏偏慢。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报告据此将覆盖公司的中期增速预期切分为两档：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;第一档为创新药占比高的龙头，以恒瑞与翰森为代表，2027至2028年产品收入增速预计达10%至15%，创新药收入增速超过20%，增长动力来自GLP-1、ADC及多个自身免疫管线药物的陆续上市。&lt;/p&gt;
-&lt;p&gt;第二档公司则预计仅能实现中高个位数增长，且增长时间节点更多依赖2027年之后的新品放量。&lt;/p&gt;
-&lt;p&gt;这一分层意味着，板块内部的估值逻辑已发生根本性转变——国内销售的边际改善不再是统一的定价锚，创新药收入占比才是区分弹性高低的核心变量。&lt;/p&gt;
-全球三期进展成为估值新支点
-&lt;p&gt;汇丰前海将海外授权资产的全球三期临床进展列为当前阶段最值得跟踪的核心指标，认为这将逐步取代国内销售数据，成为头部药企估值的主要驱动力。&lt;/p&gt;
-&lt;p&gt;具体而言，报&lt;strong&gt;告预计恒瑞将有5个资产、翰森将有3个资产进入全球三期试验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其中，恒瑞的TSLP/GSK283计划于2026年底至2027年启动6项三期试验，覆盖慢阻肺、哮喘与慢性鼻窦炎伴鼻息肉三个适应症；其肌球蛋白与GLP-1组合资产也将进入三期阶段，背后支撑来自较大的潜在市场空间与前期积极的临床数据。翰森的B7H3与B7H4 ADC则计划开展9项以上三期试验。&lt;/p&gt;
-&lt;p&gt;石药方面，报告预计其与阿斯利康的多个外授权分子将在近期进入临床阶段，从而触发里程碑付款；中国生物制药则有望启动更多BD交易与二期试验。汇丰前海预计，恒瑞与翰森的BD收入将在2027至2028年随里程碑节点的触发保持增长，而石药与中国生物制药则因高基数效应，BD收入增速可能有所回落。&lt;/p&gt;
-&lt;p&gt;汇丰前海预计，石药受益于外授权管线和里程碑收入预期，盈利预测上调幅度较大；中国生物制药盈利改善预期仍强；丽珠则因国内业务依赖度较高、创新药转型较慢而承压，复星医药和恒瑞整体变化不大。&lt;/p&gt;
-&lt;p&gt;汇丰前海将翰森列为首选，主要看好其国内销售增长、BD收入确认，以及多个项目进入全球三期带来的后续催化。&lt;/p&gt;
-验证窗口与主要风险
-&lt;p&gt;上述分层能否成立，还要看后续业绩能否跟上。&lt;/p&gt;
-&lt;p&gt;汇丰前海认为，2026年三季报披露期（10月下旬至11月）以及2027年1至2月的年报业绩预告，是观察这一分层是否延续的重要时间点。届时，重点看创新药收入占比是否继续提升，以及BD授权收入和里程碑收入能否兑现。&lt;/p&gt;
-&lt;p&gt;从具体项目来看，恒瑞TSLP/GSK283、翰森B7H3与B7H4 ADC的全球三期启动和入组进展，以及石药与阿斯利康合作项目推进至临床后，能否陆续触发里程碑付款，将直接影响BD收入的释放节奏。&lt;/p&gt;
-&lt;p&gt;但是，如果国内医保控费进一步加码，或者外授权项目的全球三期进展不及预期甚至失败，相关公司的创新药收入和BD收入都可能受到影响，市场目前给予创新药业务的估值溢价也可能随之收窄。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
