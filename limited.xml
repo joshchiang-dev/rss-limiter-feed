@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 01 Oct 2026 04:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点</title><link>https://wallstreetcn.com/articles/3782858</link><guid>04f6d88c83f635eed07a7d015578d58b83cbf1c95d99c2bd9628047e1f59ce2e</guid><pubDate>Thu, 01 Oct 2026 01:14:15 GMT</pubDate><description>&lt;p&gt;美光科技以一份打破多项纪录的季度财报为2026财年画上句号，并给出了远超市场预期的前景展望，令人工智能驱动的内存超级周期呈现出比外界预估更为持久的动能。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 01 Oct 2026 05:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点</title><link>https://wallstreetcn.com/articles/3782858</link><guid>04f6d88c83f635eed07a7d015578d58b83cbf1c95d99c2bd9628047e1f59ce2e</guid><pubDate>Thu, 01 Oct 2026 01:14:15 GMT</pubDate><description>&lt;p&gt;美光科技以一份打破多项纪录的季度财报为2026财年画上句号，并给出了远超市场预期的前景展望，令人工智能驱动的内存超级周期呈现出比外界预估更为持久的动能。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782852"&gt;华尔街见闻提及&lt;/a&gt;，美东时间9月30日美股盘后，美光科技公布截至9月3日的2026财年第四财季的业绩报告。数据显示，美光Q4单季营收达到创纪录的542亿美元，环比增长31%，同比狂飙379%；单季毛利率大幅攀升至87%。&lt;/p&gt;
 &lt;p&gt;放眼整个2026财年，美光总营收达到1332亿美元，是上一财年创纪录水平的3.5倍，其中数据中心收入更是翻了四倍。&lt;/p&gt;
@@ -441,57 +441,41 @@ Meta重金投入广告，强力拉动下载
 AI智能体赛道竞争升温，OpenAI紧随其后
 &lt;p&gt;Muse的走红折射出科技巨头在AI智能体领域的全面提速。就在Muse数据公布前一天，OpenAI也推出了自家AI智能体平台，同样配备可定制的卡通化虚拟形象，产品名为Dots。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;目前Dots主要面向企业市场，OpenAI首席财务官Sarah Friar表示，公司未来也将向消费者开放该平台。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;两大AI巨头在智能体赛道的相继落子，预示着这一市场的竞争将进一步白热化，而谁能率先在消费端建立规模优势，或将成为下一阶段AI商业化竞争的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei</title><link>https://wallstreetcn.com/articles/3782862</link><guid>c142399f25bf809cec694928e6113b5ceed3c17945e8f3d8d12af8b64b800ccc</guid><pubDate>Thu, 01 Oct 2026 02:26:23 GMT</pubDate><description>&lt;p&gt;9月30日，特朗普与约二十余位AI高管在白宫东厅共进午餐后，走出白宫，向记者宣布了一份自愿性“AI协议”。&lt;/p&gt;
-&lt;p&gt;签署方是六家公司：Anthropic、OpenAI、谷歌、Meta、xAI和英伟达。&lt;/p&gt;
-&lt;p&gt;特朗普称它“几乎像一部宪法”，是应对AI风险的“一种保护形式”。然而据英国《金融时报》报道，这份&lt;strong&gt;两页纸的文件在东厅仓促起草，其中甚至包含一处拼写错误&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;值得注意的是，表面上，这是一份关于AI安全的两页纸文件、缺乏法律效力；但从协议的具体要求、被否决的替代方案以及英伟达近期的产品动作来看，它传递出的更重要信号是：&lt;strong&gt;白宫和行业头部公司并未选择“放缓AI”的路径，而是试图把安全要求嵌入持续扩张的AI基础设施投入中。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI测试、审计与监控等“安全合规”要求将需要更多算力，并催生推理、光互联新需求，英伟达或成最大赢家。黄仁勋更联手扎克伯格否决强监管，并当面质问Anthropic掌门人Amodei为何要在公共场合过度宣扬AI风险言论。&lt;/p&gt;
-协议写了什么？
-&lt;p&gt;根据协议原文，六家签署方须履行三项核心义务：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，建立“多层控制与审计”机制。&lt;/strong&gt;具体要求是部署强健的内部控制系统，持续监控先进模型带来的网络安全和生物安全威胁，并确保模型不会以&amp;quot;非预期方式&amp;quot;入侵其他系统。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，与独立外部审计机构合作。&lt;/strong&gt;签署方须主动接受第三方评估，由外部机构核验内部控制措施是否真正有效。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，在董事会层面设立独立委员会&lt;/strong&gt;，专门负责对上述两项机制进行监督。&lt;/p&gt;
-&lt;p&gt;这三项义务指向一个共同结果：每一次模型发布，都必须经历一轮测试、监控和外部核验的完整流程。&lt;/p&gt;
-有多少是真正的新东西？
-&lt;p&gt;其实不多。&lt;/p&gt;
-&lt;p&gt;据报道，Anthropic、OpenAI和谷歌DeepMind此前已在发布前对先进模型进行能力评估，且除英伟达外，其余公司均在2024年首尔AI峰会后签署了类似承诺。媒体评价称，“协议可能迫使此前尚未开放独立评估访问权限的签署方——尤其是英伟达——跟进落实外部审计要求。换言之，协议对头部实验室意义有限，对其他公司则是新约束。”&lt;/p&gt;
-&lt;p&gt;LawAI美国法律与政策董事总经理Mackenzie Arnold的评价直接：&lt;strong&gt;“它在&amp;#x27;感觉层面&amp;#x27;最有意义。它没有授权任何机构……去真正制定有约束力的标准。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;协议也不具法律效力。特朗普本人将其称为“道德约束”——这本身就是一种承认。&lt;/p&gt;
-&lt;p&gt;批评者更不客气。科技监督项目（Tech Oversight Project）的Sacha Haworth说，这份协议让CEO们&lt;strong&gt;“自己给自己的作业打分，绕开了真正有意义的AI安全护栏”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，保守派律师Joel Thayer提出了另一个角度：“你不能发表公开声明说要做某件事，然后实质上不兑现。这对消费者本质上是一种欺骗。”他还注意到，联邦贸易委员会（FTC）主席Andrew Ferguson出席了当天的午宴。“这些面向公众的承诺……简直就是FTC执法的味道。”&lt;/p&gt;
-&lt;p&gt;美国FTC在协议发布次日即扩大了对AI公司的调查范围，将Anthropic、OpenAI等纳入审查。&lt;/p&gt;
-&lt;strong&gt;“安全”不等于“放缓”：这才是老黄真正赢得的东西&lt;/strong&gt;
-&lt;p&gt;市场对“安全监管”的本能反应是定价放缓——逻辑是：测试拖慢发布节奏，发布节奏放慢压缩算力需求。&lt;/p&gt;
-&lt;p&gt;InvestorPlace分析师Luke Lango认为这个逻辑是反的。&lt;strong&gt;白宫协议未要求企业放慢模型开发，而是将重点放在内部评估、外部审计和风险控制上。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这也使“AI安全”在产业链层面出现了另一种解读：安全机制可能意味着更多测试、监控和模型运行，而不一定意味着更少的计算资源投入。&lt;strong&gt;如果每次模型发布都必须触发一轮测试、监控和同行评审，那么“安全合规”本身就是一笔持续的算力支出，而不是对算力支出的压制。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;9月28日，英伟达联合逾100家合作伙伴推出Open Agent Safety Platform，将开源访问控制与运行在独立芯片上的监控层相结合——该监控层可在不嵌入AI系统内部的情况下对其进行监控。黄仁勋的表述简洁直接：AI的潜力只有在安全与能力同步解决的前提下才能实现。&lt;/p&gt;
-&lt;p&gt;英伟达已承诺向光互联企业Lumentum投入20亿美元，用于扩大产能并深化数据中心光学联合研发——这是把“安全叙事”直接转化为硬件合同的具体动作。&lt;/p&gt;
-&lt;p&gt;Lango进一步指出，需求结构正在发生方向性转变：从GPU密集的预训练，转向推理与测试阶段。后者更依赖数据传输效率和多任务协调，而非原始算力。他预计这一转变将在未来6至12个月内主导需求走向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lango认为，自我监管不会终结AI资本开支周期，它只是改变了钱流向哪里——从预训练GPU流向推理、测试和互联基础设施。&lt;/strong&gt;正如Amodei在会后所说，处理风险的具体机制“仍在讨论中”。&lt;/p&gt;
-&lt;p&gt;Lango关注的三个受益方向：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Marvell：专注数据中心网络互联。&lt;/p&gt;
-&lt;p&gt;Arm：今年3月推出首款自研量产芯片AGI CPU，搭载最多136个Neoverse V3核心，由台积电3纳米工艺制造，Arm称其每机架性能是x86平台的两倍以上。&lt;/p&gt;
-&lt;p&gt;Lumentum：专注数据中心光互联。随着GPU数量激增、芯片间通信密度上升，数据中心正加速将铜互联替换为光学方案。&lt;/p&gt;
-&lt;/blockquote&gt;
-幕后交锋：黄仁勋当面质问Amodei
-&lt;p&gt;镜头前，各家CEO站在特朗普身旁，呈现出一副团结一致的行业形象。&lt;/p&gt;
-&lt;p&gt;镜头后，是一场正面交锋。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》援引知情人士消息，午餐结束后，在罗斯福厅一个更小范围的会议中，包括英伟达CEO&lt;strong&gt;黄仁勋在内的多位高管，当面质问Anthropic CEO Dario Amodei：为什么要在公开场合对AI能力和风险发出如此极端的警告？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Amodei的回应是：对公众诚实地说明模型能力、不淡化风险，这很重要。&lt;/p&gt;
-&lt;p&gt;这场对话发生在高管们与白宫幕僚共同敲定协议原则的过程中。&lt;/p&gt;
-&lt;p&gt;Amodei此前多次公开批评白宫和竞争对手淡化安全问题，并警告AI模型可能发动网络攻击、造成大规模失业，这让他在华盛顿和硅谷都成了众矢之的。&lt;/p&gt;
-&lt;p&gt;当天午宴上，当Amodei再次提出安全顾虑时，扎克伯格的回应是：解决这些问题最好的方式，就是作为一个行业切实落实这些原则。&lt;/p&gt;
-扎克伯格和黄仁勋：这场局的真正推手
-&lt;p&gt;这次白宫午宴并非偶然。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》知情人士透露，&lt;strong&gt;事情的起点是上周的国宴——扎克伯格和众议院议长Mike Johnson在宴会上相邻而坐，谈起了AI政策。随后，扎克伯格和黄仁勋开始协调各家CEO，特朗普和Johnson则组织了这场午宴。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;扎克伯格是协议最终成形的关键人物。他频繁与特朗普及商务部长Howard Lutnick沟通，后者主管政府的一个关键AI测试部门。&lt;/p&gt;
-&lt;p&gt;他和黄仁勋共同主导了一件更重要的事：否决了此前的强监管方案。&lt;/p&gt;
-&lt;p&gt;今年夏天，Anthropic、OpenAI和谷歌曾联合推动一个类似FINRA（金融业监管局）的AI自律组织方案。但据此前报道，扎克伯格、黄仁勋和马斯克告诉特朗普，他们担心这会将过多权力集中在头部AI公司手中，该方案随即被放弃。&lt;/p&gt;
-&lt;p&gt;最终落地的，是这份更轻、更软的自愿协议。&lt;/p&gt;
-&lt;p&gt;值得注意的是，被否决的FINRA式方案其实也包含了与最终协议类似的内容——更强的内部评审和外部测试机制。两套方案在技术要求上高度重叠，真正的分歧在于：由谁来掌控这套机制。黄仁勋和扎克伯格选择的答案是：行业自己。&lt;/p&gt;
-Anthropic的处境：一边修复关系，一边准备IPO
-&lt;p&gt;Amodei当天对记者说：“如果行业和政府携手合作，我们可以安全地赢。”特朗普称赞他“很棒”。两人周日刚在白宫共进晚餐，这是两人的首次面对面会面。&lt;/p&gt;
-&lt;p&gt;但Anthropic的处境并不轻松。&lt;/p&gt;
-&lt;p&gt;据报道，该公司正在为IPO做准备，目标估值约2万亿美元。与此同时，它今年早些时候经历了两场与政府的正面冲突：两款模型因安全问题被迫下线长达两周半，以及因AI军事用途争议遭五角大楼列入黑名单。&lt;/p&gt;
-&lt;p&gt;此次协议的直接背景，是Anthropic的Mythos等模型发布后引发的一系列AI网络攻击事件。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;两大AI巨头在智能体赛道的相继落子，预示着这一市场的竞争将进一步白热化，而谁能率先在消费端建立规模优势，或将成为下一阶段AI商业化竞争的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI估值分歧加剧！Anthropic IPO：狂热的硅谷喊价2万亿美元，冷静的华尔街只认1.5万亿</title><link>https://wallstreetcn.com/articles/3782868</link><guid>3f0aa4073eecf42714e51dbfd2efaaf97ba36bbc23a675097c6535a3cb941441</guid><pubDate>Thu, 01 Oct 2026 05:01:19 GMT</pubDate><description>&lt;p&gt;AI公司IPO的估值分歧正在扩大。&lt;/p&gt;
+&lt;p&gt;据科技媒体The Information 9月30日报道，在风投和私募市场，部分投行在早期沟通中讨论给予Anthropic约2万亿美元估值。但在公开市场，两家大型投资机构认为，更合适的估值应接近1.5万亿美元。&lt;strong&gt;硅谷风险投资圈仍在追逐AI资产的上行空间，华尔街公开市场则更关注现金流、融资成本和下行情景。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic预计仍需数周才会启动正式IPO路演。报道称，这家AI公司原本被市场视为年内最受关注的上市项目之一，但股票市场的波动已开始影响投资者对大型科技IPO的定价态度。&lt;/p&gt;
+2万亿与1.5万亿之间，是两套定价逻辑
+&lt;p&gt;Lead Edge Capital公开市场投资组合经理Evan Skorpen对The Information表示，&lt;strong&gt;风险投资机构通常会思考：“这家公司在最乐观的情况下能值多少钱？”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他称，在这种思维下，“市场上有大量令人兴奋的数据点”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但公开市场投资者的考量不同。Skorpen说：“公开市场投资者不能只考虑什么情况会变好，因为我们每天都要持有股票。公开市场投资者会更多考虑什么可能出错。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他将这种分歧总结为：&lt;strong&gt;硅谷投资人坐在沙丘路上押注未来，华尔街投资人则每天盯着股价考虑风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据报道，Anthropic已承诺采购至少14.8吉瓦的算力容量。这些协议在未来十年内的成本可能超过5000亿美元。路透本周披露的Anthropic IPO招股书草案数据，也再次引发投资者对其财务承诺和风险敞口的关注。&lt;/p&gt;
+&lt;p&gt;AllianceBernstein中小盘成长股首席投资官Samantha Lau表示：“现在任何要上市的公司，都必须定价合理，但我还没有看到这一点。”&lt;/p&gt;
+&lt;p&gt;她说：“打开市场的唯一办法，就是保守一些。”&lt;/p&gt;
+AI的投入回报，成为公开市场的核心问题
+&lt;p&gt;Anthropic和OpenAI等头部AI公司，即使完成IPO，预计仍需要持续融资，以覆盖数据中心、芯片和算力支出。&lt;/p&gt;
+&lt;p&gt;Lau表示，她看好科技公司展示出的AI智能体软件能力，也认可这些能力可能带来数据中心和芯片投资的回报。但她同时指出，利率上升会推高企业借贷成本，投资机构也需要看到可兑现的回报。&lt;/p&gt;
+&lt;p&gt;“问题是，在走到最终理想状态之前，谁来为这件事买单？”她说。&lt;/p&gt;
+&lt;p&gt;Anthropic还面临竞争加剧的变量。&lt;/p&gt;
+&lt;p&gt;报道称，OpenAI最新模型在企业客户中获得进展，同时正就一轮约300亿美元的上市前融资进行初步洽谈。若交易推进，OpenAI和Anthropic可能将争夺部分相同的资金来源。&lt;/p&gt;
+中小型AI与数据中心IPO先感受到压力
+&lt;p&gt;对估值和融资的谨慎态度，已影响到一批原计划近期上市的公司。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;智能戒指公司Oura在周二突然推迟IPO，&lt;/strong&gt;原定次日确定最终发行价。知情人士称，投资者认为该公司的估值要价过高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软银旗下SB Energy也尚未启动IPO营销。&lt;/strong&gt;该公司正在俄亥俄州为OpenAI建设大型设施。知情人士表示，投行讨论的估值约为600亿美元，但部分IPO投资者目前难以接受这一价格，其中一些人还担忧其收入对OpenAI的依赖。&lt;/p&gt;
+&lt;p&gt;市场对数据中心公司的审视也在升温。&lt;/p&gt;
+&lt;p&gt;据报道，计划上市的伦敦“新云”公司Nscale，以及私募股权持有的数据中心开发商Switch，&lt;strong&gt;都面临投资者对高负债和后续融资需求的担忧&lt;/strong&gt;。CyrusOne和Silver Lake持有的Vantage Data Center等公司，也预计将在明年初寻求上市融资。&lt;/p&gt;
+&lt;p&gt;一名资深IPO投资者表示：“我们需要这样的情况提醒投行和私募股权发起人：我们不是价格接受者。”&lt;/p&gt;
+私募市场仍在高价交易
+&lt;p&gt;与公开市场的谨慎形成对比，风险投资市场对AI公司的投资热度并未明显降温。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI消费助手Instinct的开发公司本周宣布，成立仅一年便以100亿美元估值融资10亿美元。其投资方包括红杉资本、Benchmark和Coatue。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但私募市场内部也开始警惕估值过热。&lt;/p&gt;
+&lt;p&gt;红杉资本负责人之一Pat Grady上周在向有限合伙人发布的公开演示材料中表示，风险投资人普遍认为，AI公司的能力提升速度很快，已触及“通用人工智能”这一仍存在广泛争议的门槛。&lt;/p&gt;
+&lt;p&gt;不过，他同时指出：“估值完全疯狂。”&lt;/p&gt;
+&lt;p&gt;Grady称，一些初创企业在完成一轮融资后，很快便以显著更高的估值进行下一轮融资，“这是泡沫的一个典型标志”。&lt;/p&gt;
+SpaceX的上涨，仍可能给大型IPO提供支撑
+&lt;p&gt;大型IPO并非没有支撑因素。&lt;/p&gt;
+&lt;p&gt;SpaceX今年6月在史上最大IPO中融资近860亿美元。此后，其股价上涨约10%，对应估值约2万亿美元，表现跑赢大盘。&lt;/p&gt;
+&lt;p&gt;这一回报让参与认购的投资者获得收益，也为Founders Fund、Valor Equity Partners和红杉资本等早期投资者带来可继续投入AI领域的资金。&lt;/p&gt;
+&lt;p&gt;对于Anthropic而言，一些大型共同基金此前已在私募阶段以较低价格持有其股份，这可能使它们对IPO定价的容忍度更高。英伟达、Alphabet和亚马逊等科技公司及现有投资者，也可能继续提供资金支持。&lt;/p&gt;
+&lt;p&gt;Vista Equity Partners股票资本市场策略负责人Ashley MacNeill表示，私募市场的高估值“似乎没有完全传导到公开市场”。&lt;/p&gt;
+&lt;p&gt;她说：“历史上我们经历过这样的时刻，以后也还会有。只是现在尤其明显，因为市场上有这些超大型IPO。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
