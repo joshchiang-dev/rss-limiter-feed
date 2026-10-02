@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 22:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 23:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
 &lt;p&gt;美东时间10月2日周五，英伟达宣布推出64GB统一内存版本的桌面AI计算机DGX Spark，起售价4999美元，将于10月23日由宏碁、华硕、戴尔、技嘉、惠普和微星等OEM厂商推向市场。新机保留GB10 Grace Blackwell超级芯片、DGX OS、完整的英伟达AI软件栈以及ConnectX-7网络能力，但统一内存从现有的128GB降至64GB。&lt;/p&gt;
 &lt;p&gt;耐人寻味的是，这款“缩水版”DGX Spark的起售价，反而高于去年128GB版本3999美元的首发价；与此同时，英伟达还将128GB Founders Edition的价格进一步上调至6950美元。媒体指出，英伟达将此次涨价归因于内存供应受限和成本上升。&lt;/p&gt;
 &lt;p&gt;这意味着，在AI服务器需求持续挤压内存供应的背景下，&lt;strong&gt;“少给内存”已经成为降低本地AI设备价格门槛的一种办法，但并不意味着设备本身真的变便宜了。&lt;/strong&gt;&lt;/p&gt;
@@ -68,45 +68,7 @@
 &lt;p&gt;美光披露在中国台湾桃园、台中、铜锣、台南四大制造基地同步扩产HBM，董慧璐确认AI是这轮扩产的核心驱动力。公司未披露各基地的具体扩产规模与投产时间。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;中国台湾是美光HBM产能扩张的重要支点。&lt;/strong&gt;此前业内信息显示，美光计划在年底前将HBM月产能提升至约10万片晶圆，较去年接近翻倍，其中HBM封装业务主要在中国台湾铜锣厂推进。四大基地同步动作，显示美光正把台湾打造为HBM产能扩张的核心基地。&lt;/p&gt;
 &lt;p&gt;在HBM市场，美光长期位居第三。据市场研究机构Counterpoint Research数据，今年第二季度全球HBM市场份额中，SK海力士以50%居首，三星电子占32%，美光占18%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在彭博社10月2日首播的《Power On》播客节目中，资深苹果科技记者古尔曼（Mark Gurman）与彭博科技编辑Vlad Savov围绕苹果即将到来的秋季新品发布会进行了深度对话。节目不仅曝光了苹果在智能家居领域的庞大野心和首款触屏MacBook Pro的细节，还对最新发布的iPhone 18系列及新任CEO 特努斯（John Ternus）面临的战略挑战进行了犀利点评。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;（左：古尔曼；右：Vlad Savov）&lt;/p&gt;
-&lt;p&gt;古尔曼自2008年起持续报道苹果长达17年，其爆料历来被市场视为苹果产品前瞻的重要参考。此次播客首播信息密度极高，多个核心产品节点获得首次系统性披露。&lt;/p&gt;
-进军智能家居的“大杀器”：代号J490与全新Siri AI系统
-&lt;p&gt;在移动设备市场饱和后，市场极度关注苹果未来的增量空间。Gurman在节目中透露，&lt;strong&gt;苹果内部代号为“J490”的AI智能家居枢纽（Smart Home Hub）将是破局的关键。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“这是苹果下一个‘Big Thing’（大杀器），离发布只有几周时间了。”&lt;/strong&gt;Gurman强调。他指出，苹果过去在智能家居领域的尝试（如iPod Hi-Fi和早期的HomePod）是“半成品”，但J490将彻底改变这一现状。&lt;/p&gt;
-&lt;p&gt;这款设备被描述为“苹果宇宙中由苹果制造的亚马逊Echo Show”，配备约6英寸的方形触摸屏。其最大的卖点在于全新的操作系统。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;“如果Siri AI拥有一个操作系统，而不是仅仅作为手机上的一个应用或界面，它会是什么样？这就是答案。”Gurman引用原话表示，该系统融合了Watch OS和待机模式的特点，且“语音将成为主要的界面交互元素”。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;对于投资者关注的商业化落地，Gurman透露该产品已准备就绪：“世界各地的仓库里，这些全新的Siri AI智能家居枢纽已经从上到下堆满，随时准备发货。”&lt;/p&gt;
-&lt;p&gt;此外，苹果正在构建一个庞大的生态矩阵，包括搭载更大芯片的HomePod mini、新款Apple TV，以及代号为“J450”的新型无视频录制AI安防摄像头（仅通过AI提供文本描述以规避隐私争议）。&lt;/p&gt;
-&lt;p&gt;在定价和利润率方面，Gurman指出了市场的担忧：&lt;strong&gt;“理想情况下，这款产品的成本应该是200到300美元。但考虑到显示屏、相关技术以及扬声器底座，如果它的价格低于300美元，我会非常惊讶。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，全球内存短缺可能会进一步推高该设备的成本，使其成为实质上的“奢侈品消费”。&lt;/p&gt;
-触屏版MacBook Pro最快10月登场，首次引入OLED
-&lt;p&gt;除了智能家居，苹果的传统PC业务也将迎来重大变革。Gurman证实，&lt;strong&gt;苹果最快将于今年10月（或推迟至11月）推出首款支持触摸屏的MacBook Pro。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为了适配触摸屏，苹果在内部正使用macOS 27.2 Beta版进行测试，该系统在音量控制、按钮和控制中心图标上进行了重大的“触控友好化”重新设计。&lt;/p&gt;
-&lt;p&gt;他指出，苹果已对macOS系统界面进行大规模重新设计，代号&amp;quot;Golden Gate&amp;quot;，以更好地适配触控交互，涉及音量控制、按钮、控制中心及应用图标等多处改动，&amp;quot;和iPhone Duo的重新设计方向类似，就是为了让系统更触控友好&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;更重要的是硬件配置的跃升。&lt;/strong&gt;Gurman爆料称：&lt;strong&gt;“除了触摸屏，它将成为首款具备另外两项功能的Mac：一是灵动岛（Dynamic Island）……二是OLED。这是首次将OLED引入Mac。”&lt;/strong&gt;芯片方面会采用 M5 Pro 或者 M5 Max 芯片。&lt;/p&gt;
-&lt;p&gt;他透露，苹果目前正在内部使用macOS 27.2测试版对该机型进行测试，而这一版本近期已向开发者开放。&lt;/p&gt;
-iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
-&lt;p&gt;针对占据苹果营收大头的iPhone业务，节目对刚刚推出的iPhone 18 Pro系列给出了极为直言不讳的评价。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“这是一款彻头彻尾的经典‘S’代产品（过渡机型），”Gurman在亲测后坦言，“你得到的是一个在实际使用中感觉不到更快的处理器，一些99.9%的人都不知道怎么用的可变光圈相机功能……绝对没有任何理由升级（There&amp;#x27;s absolutely no reason to upgrade）。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由于硬件创新的边际效应递减，苹果正在大幅调整其市场营销策略。Gurman尖锐地指出：&lt;strong&gt;“他们知道从17 Pro升级到18 Pro其实毫无理由，那怎么办？你只能请网红（influencers）来。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他观察到，苹果越来越多地将资源倾斜给Instagram和TikTok上的KOL，而不是传统媒体记者。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;“他们正在制作视频，谈论这简直是自切片面包以来最伟大的发明……这不仅对苹果的销售有好处，对苹果的营销也有好处，但我认为这让消费者听到了苹果官方认可的不诚实意见，对消费者并没有好处。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这种营销模式的转变，实质上是苹果在产品力微创新阶段，为了维持高昂售价和销量而采取的防御性商业策略。&lt;/p&gt;
-新任CEO的挑战：寻找突破iPhone的“十万亿美元”杠杆
-&lt;p&gt;伴随产品线扩张的，是苹果高层的权力交接。对于新任CEO特努斯，市场高度关注他将如何带领苹果跨越目前的市值天花板。&lt;/p&gt;
-&lt;p&gt;当被问及如果采访特努斯会问什么问题时，Gurman直击核心：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“你认为是否需要一些新的、颠覆性的产品，将苹果带入超越iPhone的时代？……还是说在长达15到20年的CEO任期内，继续以手机为中心并围绕它构建外设？”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此外，Gurman认为苹果放弃造车是一个遗憾，因为自动驾驶汽车原本是苹果“从4万亿、5万亿美元市值跨越到10万亿美元市值的长期杠杆”。&lt;/p&gt;
-&lt;p&gt;在失去汽车这一巨大的想象空间后，特努斯能否通过Siri AI家居生态和折叠屏/触屏Mac等高附加值硬件，重新为华尔街描绘出具备足够说服力的增长蓝图，将是他任期内的最大考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要</title><link>https://wallstreetcn.com/articles/3782945</link><guid>cb45a80a1c173124e343b6fde5237169d6cef1909d69e0521fdcfe564a9aa6ce</guid><pubDate>Fri, 02 Oct 2026 18:04:36 GMT</pubDate><description>&lt;p&gt;美国9月非农就业报告明显降温，市场对美联储近期加息的预期进一步下滑。数据显示，就业增长远逊预期，失业率小幅上升，工资增速也继续放缓。报告公布后，美债收益率一度明显下行，美股走高，利率市场迅速削弱了对美联储本月加息的押注。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要</title><link>https://wallstreetcn.com/articles/3782945</link><guid>cb45a80a1c173124e343b6fde5237169d6cef1909d69e0521fdcfe564a9aa6ce</guid><pubDate>Fri, 02 Oct 2026 18:04:36 GMT</pubDate><description>&lt;p&gt;美国9月非农就业报告明显降温，市场对美联储近期加息的预期进一步下滑。数据显示，就业增长远逊预期，失业率小幅上升，工资增速也继续放缓。报告公布后，美债收益率一度明显下行，美股走高，利率市场迅速削弱了对美联储本月加息的押注。&lt;/p&gt;
 &lt;p&gt;美国劳工统计局（BLS）周五公布报告显示，美国9月非农就业人口仅增加2.9万，远低于市场预期的约9万；8月新增就业人数从16.2万下修至13.3万，7月则从增加2.1万人下修至减少1万人，7月和8月就业者合计下修6万人；9月失业率升至4.2%，未如市场预期持平8月的4.1%；9月平均时薪环比上涨0.1%、同比涨3.0%，均较8月放缓，市场预期持平8月涨幅0.3%和3.1%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;有“新美联储通讯社”之称的记者Nick Timiraos评论本次非农就业报告指出，美联储高官本周已主动释放信号，暗示10月加息可能并非他们的基本预测情景，他认为，本次报告并未改变联储的这一既定立场。报告最值得注意的是，工资和失业率都没有显示就业市场正在重新趋紧到足以明显增加价格压力的程度。&lt;/p&gt;
@@ -347,4 +309,21 @@ AI安全布局：应对监管与投资者关切
 市场格局：SK海力士主导地位面临挑战
 &lt;p&gt;三星的攻势，将直接冲击SK海力士在HBM市场的既有优势。&lt;/p&gt;
 &lt;p&gt;SK海力士凭借在HBM3E时代率先通过英伟达认证、持续扩大供货规模，确立了HBM市场的领导地位。然而，随着三星加速推进HBM4供应并以高规格产品发起价格竞争，两家韩国芯片巨头之间的市场争夺预计将在明年显著升温。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;HBM4时代的竞争，将不再仅仅是供应链资质的比拼，而是性能、良率与量产能力的综合较量。&lt;/strong&gt;三星能否将当前的技术优势转化为市场份额的实质性回升，将是明年HBM市场最值得关注的核心变量之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;HBM4时代的竞争，将不再仅仅是供应链资质的比拼，而是性能、良率与量产能力的综合较量。&lt;/strong&gt;三星能否将当前的技术优势转化为市场份额的实质性回升，将是明年HBM市场最值得关注的核心变量之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普据称将任命新“AI沙皇”：国家情报总监接棒硅谷大佬，AI政策重心转向安全管控</title><link>https://wallstreetcn.com/articles/3782949</link><guid>ada1e73c8720391e69da479c60d71e91fcd88e2b7920c95042ea8a3e804069b5</guid><pubDate>Fri, 02 Oct 2026 19:36:56 GMT</pubDate><description>&lt;p&gt;特朗普政府的AI治理架构正经历一次重要的人事转向。美东时间10月2日周五，多家媒体不约而同获悉，特朗普预计任命现任国家情报总监Jay Clayton担任白宫AI首席顾问，即外界所称的&amp;quot;AI沙皇&amp;quot;，接替今年3月离任的风险投资人David Sacks。&lt;/p&gt;
+&lt;p&gt;据这些媒体报道，特朗普最快于本周五宣布这一任命。Clayton目前统领美国18个情报机构，其情报安全背景与前任Sacks的硅谷创投履历形成鲜明对比，外界普遍将此次人事变动解读为白宫AI政策重心可能向安全管控倾斜的信号。白宫官员在回应媒体询问时表示，&amp;quot;任何人事任命将由总统直接宣布，此前的任何报道均属无端猜测。&amp;quot;&lt;/p&gt;
+&lt;p&gt;这一任命发生在AI安全争议持续升温的背景下。Quinnipiac大学本周发布的民调显示，72%的受访美国选民表示反对在其社区新建数据中心，较3月的65%进一步上升。与此同时，AI代理系统入侵外部系统的安全事件接连曝光，使AI风险议题在即将到来的中期选举中成为关键议题。&lt;/p&gt;
+Clayton的情报背景：安全管控优先级上升
+&lt;p&gt;Clayton的履历与其前任截然不同。在出任国家情报总监之前，他曾担任纽约南区联邦检察官，处理过多起高知名度案件，包括前委内瑞拉总统马杜罗被美国俘获后的相关诉讼。今年7月，他在前任Tulsi Gabbard于5月辞职后接任情报总监一职，并获得参议院确认。&lt;/p&gt;
+&lt;p&gt;在担任情报总监期间，Clayton已公开表达对AI安全威胁的高度重视。在其出任情报总监的确认听证会上，Clayton将AI描述为&amp;quot;不仅是机遇，更是威胁&amp;quot;，并表示&amp;quot;当某件事既是机遇又是威胁时，你最好把它牢牢掌握在手中&amp;quot;。&lt;/p&gt;
+&lt;p&gt;本周公布的CNBC采访中，Clayton将&amp;quot;超级智能&amp;quot;定性为&amp;quot;国家安全问题&amp;quot;，并表示这一判断得到了本周二在白宫出席会议的AI行业领袖的认同。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Clayton同时明确反对暂停AI开发，称&amp;quot;我不认为那个房间里的任何人&amp;quot;会认为在美国暂停发展是&amp;quot;一个好策略&amp;quot;。据Axios报道，特朗普本周在被问及“AI沙皇”人选时，当场指向Clayton并称其为&amp;quot;好人&amp;quot;，暗示这一任命已在特朗普的心中基本确定。&lt;/p&gt;
+与Sacks的政策分歧：监管立场存在微妙差异
+&lt;p&gt;Clayton的潜在任命将接替David Sacks留下的职位。Sacks于今年3月以特别政府雇员身份任期届满为由离职，但仍与特朗普保持联系，并于本周二出席了白宫与科技高管的午餐会议。&lt;/p&gt;
+&lt;p&gt;两人在AI监管立场上存在明显差异。Sacks一贯主张AI开发应尽量免于监管，以促进创新，并批评Anthropic首席执行官Dario Amodei呼吁加强监管和放缓开发的立场，认为此举实质上是为大型企业设置壁垒、阻碍小型竞争者。&lt;/p&gt;
+&lt;p&gt;相比之下，Clayton的情报安全背景使其对AI潜在风险的认知更为直接。不过，据彭博报道，Clayton的任命若最终落实，将表明特朗普政府无意改变其对AI的&amp;quot;放手&amp;quot;立场——这一技术始终是特朗普经济议程的核心支柱。&lt;/p&gt;
+&lt;p&gt;特朗普本人9月已将Anthropic CEO Amodei等人提出的安全担忧斥为&amp;quot;骗局&amp;quot;，坚持认为现有责任法律已提供足够保护。&lt;/p&gt;
+&lt;p&gt;对于AI企业和资本市场而言，这一人事变动的政策含义仍存在不确定性：Clayton的安全背景可能推动更严格的AI系统审查机制，但其明确反对暂停开发的立场，又在一定程度上缓解了市场对监管急剧收紧的担忧。&lt;/p&gt;
+白宫AI治理架构的演变
+&lt;p&gt;此次人事变动是特朗普政府近期密集布局AI治理的最新动作。上月，特朗普宣布计划设立&amp;quot;AI沙皇&amp;quot;职位并组建&amp;quot;AI部队&amp;quot;，但未披露具体实施细节。本周二，特朗普在白宫宴请了近二十位硅谷高管，包括英伟达首席执行官Jensen Huang、Anthropic首席执行官Dario Amodei、SpaceX AI的埃隆·马斯克、OpenAI总裁Greg Brockman、Meta的马克·扎克伯格以及谷歌母公司Alphabet首席执行官Sundar Pichai。&lt;/p&gt;
+&lt;p&gt;会后，特朗普拒绝了出台新AI法规的提议，坚持行业自律原则。与会各方就一项框架协议达成共识：企业将与外部审计机构合作开展模型安全评估，并强化内部系统管控。这一安排折射出特朗普政府的一贯逻辑——以行业自我约束替代政府立法监管。&lt;/p&gt;
+&lt;p&gt;然而，随着AI代理系统安全漏洞事件频发，以及Amodei于9月12日发表长达3800字的文章呼吁放缓AI开发并加强政府监管，公众对AI安全的忧虑已难以被政府单方面定性为&amp;quot;骗局&amp;quot;而轻易化解。两党国会议员均已表达警惕，并呼吁加强AI监管行动。在此背景下，Clayton能否在&amp;quot;促进发展&amp;quot;与&amp;quot;安全管控&amp;quot;之间找到平衡，将是其出任AI沙皇后面临的首要考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
