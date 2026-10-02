@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 18:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 19:29:07 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
 &lt;p&gt;美东时间10月2日周五，英伟达宣布推出64GB统一内存版本的桌面AI计算机DGX Spark，起售价4999美元，将于10月23日由宏碁、华硕、戴尔、技嘉、惠普和微星等OEM厂商推向市场。新机保留GB10 Grace Blackwell超级芯片、DGX OS、完整的英伟达AI软件栈以及ConnectX-7网络能力，但统一内存从现有的128GB降至64GB。&lt;/p&gt;
 &lt;p&gt;耐人寻味的是，这款“缩水版”DGX Spark的起售价，反而高于去年128GB版本3999美元的首发价；与此同时，英伟达还将128GB Founders Edition的价格进一步上调至6950美元。媒体指出，英伟达将此次涨价归因于内存供应受限和成本上升。&lt;/p&gt;
 &lt;p&gt;这意味着，在AI服务器需求持续挤压内存供应的背景下，&lt;strong&gt;“少给内存”已经成为降低本地AI设备价格门槛的一种办法，但并不意味着设备本身真的变便宜了。&lt;/strong&gt;&lt;/p&gt;
@@ -174,7 +174,20 @@
 收益率、债务与美联储独立性
 &lt;p&gt;面对国债收益率走高的市场压力，哈塞特将其解释为经济强劲所驱动，而非财政风险溢价上升的信号。他表示，&amp;quot;强劲的经济推动收益率上升&amp;quot;。&lt;/p&gt;
 &lt;p&gt;在财政纪律问题上，他措辞较为直接，称当前利息支出水平&amp;quot;高得令人无法接受&amp;quot;，并强调特朗普总统&amp;quot;认真对待削减赤字问题&amp;quot;，同时明确排除通过通胀稀释债务的路径。&lt;/p&gt;
-&lt;p&gt;在美联储问题上，哈塞特提及美联储主席沃什&amp;quot;展现出对供给与需求冲击的理解&amp;quot;，并称沃什将需要应对鲍威尔任期留下的局面，&amp;quot;这很不寻常&amp;quot;。他同时强调，&amp;quot;鲍威尔的事，白宫说了不算&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要</title><link>https://wallstreetcn.com/articles/3782945</link><guid>cb45a80a1c173124e343b6fde5237169d6cef1909d69e0521fdcfe564a9aa6ce</guid><pubDate>Fri, 02 Oct 2026 18:04:36 GMT</pubDate><description>&lt;p&gt;美国9月非农就业报告明显降温，市场对美联储近期加息的预期进一步下滑。数据显示，就业增长远逊预期，失业率小幅上升，工资增速也继续放缓。报告公布后，美债收益率一度明显下行，美股走高，利率市场迅速削弱了对美联储本月加息的押注。&lt;/p&gt;
+&lt;p&gt;在美联储问题上，哈塞特提及美联储主席沃什&amp;quot;展现出对供给与需求冲击的理解&amp;quot;，并称沃什将需要应对鲍威尔任期留下的局面，&amp;quot;这很不寻常&amp;quot;。他同时强调，&amp;quot;鲍威尔的事，白宫说了不算&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光首次明确2027-2028年供应更紧，四大基地同步扩产HBM</title><link>https://wallstreetcn.com/articles/3782935</link><guid>9cfade899459cecb1045fcf4be3e59d249cd253540d2012c3acb460a62330078</guid><pubDate>Fri, 02 Oct 2026 11:48:59 GMT</pubDate><description>&lt;p&gt;美光科技最新一季营收与利润双双超出市场预期，但比业绩本身更值得关注的是管理层对远期供需的判断：&lt;strong&gt;公司首次明确，2027至2028年的HBM产能供应将比2026年更加紧张&lt;/strong&gt;，并同步在中国台湾桃园、台中、铜锣、台南四大制造基地扩产HBM。&lt;/p&gt;
+&lt;p&gt;据中国台湾媒体《电子时报》10月2日报道，美光亚洲DRAM前端制造副总裁、美光台湾董事长董慧璐确认，AI正在推动强劲的内存需求，&lt;strong&gt;公司正同步推进四大基地的扩产。将供应紧张的判断明确延伸至2027至2028年，是本次财报给出的最大增量信息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一表态把HBM的供给约束从短期叙事升级为中期结构性判断，其直接含义是：&lt;strong&gt;即便全行业都在扩产，HBM的价格强势周期仍可能比此前预期的更长，存储厂商盈利中枢的支撑时间也随之拉长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析认为，美光在业绩超预期之际主动提示供应更紧，既是对自身扩产逻辑的背书，也意味着下游AI芯片厂商在2027至2028年仍将面对偏紧的议价环境。&lt;/p&gt;
+&lt;p&gt;与此同时，摩根士丹利发布最新研报指出，美光科技最新一季业绩基本符合此前预期，环比改善幅度虽有所放缓，但业务的强劲韧性依旧凸显。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更关键的是，公司将其定性供需指引延伸至2028年，并预计2027年和2028年内存供需关系将比今年更为紧张。&lt;/strong&gt;该行认为，这一信号短期内未必被投资者充分定价，但与其对AI需求强度将重塑内存行业的判断一致。摩根士丹利维持美光“增持”评级，目标价为1200美元。&lt;/p&gt;
+紧张预期首次拉长到2028年
+&lt;p&gt;美光2026财年第四财季营收与利润双双超出预期。相比业绩，公司对远期供需格局的表态更具定价含义——2027年和2028年的产能供应将比2026年更加紧张。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一判断与此前管理层口径一脉相承。&lt;/strong&gt;美光CEO Sanjay Mehrotra 曾表示，AI驱动的存储需求正使供需紧张延续至2027年之后，数据中心客户目前的采购意愿约为公司可承诺供应量的150%，即需求超出供给约50%。新建晶圆厂周期长、熟练工人与能源基础设施受限，使供给难以快速跟上需求。&lt;/p&gt;
+台湾四大基地同步扩产
+&lt;p&gt;美光披露在中国台湾桃园、台中、铜锣、台南四大制造基地同步扩产HBM，董慧璐确认AI是这轮扩产的核心驱动力。公司未披露各基地的具体扩产规模与投产时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中国台湾是美光HBM产能扩张的重要支点。&lt;/strong&gt;此前业内信息显示，美光计划在年底前将HBM月产能提升至约10万片晶圆，较去年接近翻倍，其中HBM封装业务主要在中国台湾铜锣厂推进。四大基地同步动作，显示美光正把台湾打造为HBM产能扩张的核心基地。&lt;/p&gt;
+&lt;p&gt;在HBM市场，美光长期位居第三。据市场研究机构Counterpoint Research数据，今年第二季度全球HBM市场份额中，SK海力士以50%居首，三星电子占32%，美光占18%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要</title><link>https://wallstreetcn.com/articles/3782945</link><guid>cb45a80a1c173124e343b6fde5237169d6cef1909d69e0521fdcfe564a9aa6ce</guid><pubDate>Fri, 02 Oct 2026 18:04:36 GMT</pubDate><description>&lt;p&gt;美国9月非农就业报告明显降温，市场对美联储近期加息的预期进一步下滑。数据显示，就业增长远逊预期，失业率小幅上升，工资增速也继续放缓。报告公布后，美债收益率一度明显下行，美股走高，利率市场迅速削弱了对美联储本月加息的押注。&lt;/p&gt;
 &lt;p&gt;美国劳工统计局（BLS）周五公布报告显示，美国9月非农就业人口仅增加2.9万，远低于市场预期的约9万；8月新增就业人数从16.2万下修至13.3万，7月则从增加2.1万人下修至减少1万人，7月和8月就业者合计下修6万人；9月失业率升至4.2%，未如市场预期持平8月的4.1%；9月平均时薪环比上涨0.1%、同比涨3.0%，均较8月放缓，市场预期持平8月涨幅0.3%和3.1%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;有“新美联储通讯社”之称的记者Nick Timiraos评论本次非农就业报告指出，美联储高官本周已主动释放信号，暗示10月加息可能并非他们的基本预测情景，他认为，本次报告并未改变联储的这一既定立场。报告最值得注意的是，工资和失业率都没有显示就业市场正在重新趋紧到足以明显增加价格压力的程度。&lt;/p&gt;
@@ -212,20 +225,7 @@
 &lt;p&gt;10月14日公布的9月CPI，将成为非农之后市场判断美联储下一步政策的重要数据。如果通胀继续表现出黏性，尤其是在能源价格上涨的背景下重新加速，那么偏弱的就业报告未必足以阻止美联储在年内继续加息；反之，如果通胀同步降温，那么就业市场的软化将进一步强化美联储等待的理由。&lt;/p&gt;
 &lt;p&gt;从目前市场定价来看，9月非农已经明显削弱了10月加息预期：交易员对10月加息的押注降至约20%，而部分华尔街机构甚至认为这份报告已经足以“杀死”10月加息的前景。&lt;/p&gt;
 &lt;p&gt;但正如Timiraos所强调的，&lt;strong&gt;就业报告并没有改变美联储的基本立场——通胀仍然是决定下一步政策的关键变量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，市场交易逻辑正在从“美联储会不会很快再次加息”，转向“9月CPI会不会重新点燃加息预期”。10月14日的通胀数据，或将成为决定这场政策预期博弈下一阶段走向的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光首次明确2027-2028年供应更紧，四大基地同步扩产HBM</title><link>https://wallstreetcn.com/articles/3782935</link><guid>9cfade899459cecb1045fcf4be3e59d249cd253540d2012c3acb460a62330078</guid><pubDate>Fri, 02 Oct 2026 11:48:59 GMT</pubDate><description>&lt;p&gt;美光科技最新一季营收与利润双双超出市场预期，但比业绩本身更值得关注的是管理层对远期供需的判断：&lt;strong&gt;公司首次明确，2027至2028年的HBM产能供应将比2026年更加紧张&lt;/strong&gt;，并同步在中国台湾桃园、台中、铜锣、台南四大制造基地扩产HBM。&lt;/p&gt;
-&lt;p&gt;据中国台湾媒体《电子时报》10月2日报道，美光亚洲DRAM前端制造副总裁、美光台湾董事长董慧璐确认，AI正在推动强劲的内存需求，&lt;strong&gt;公司正同步推进四大基地的扩产。将供应紧张的判断明确延伸至2027至2028年，是本次财报给出的最大增量信息。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一表态把HBM的供给约束从短期叙事升级为中期结构性判断，其直接含义是：&lt;strong&gt;即便全行业都在扩产，HBM的价格强势周期仍可能比此前预期的更长，存储厂商盈利中枢的支撑时间也随之拉长。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析认为，美光在业绩超预期之际主动提示供应更紧，既是对自身扩产逻辑的背书，也意味着下游AI芯片厂商在2027至2028年仍将面对偏紧的议价环境。&lt;/p&gt;
-&lt;p&gt;与此同时，摩根士丹利发布最新研报指出，美光科技最新一季业绩基本符合此前预期，环比改善幅度虽有所放缓，但业务的强劲韧性依旧凸显。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;更关键的是，公司将其定性供需指引延伸至2028年，并预计2027年和2028年内存供需关系将比今年更为紧张。&lt;/strong&gt;该行认为，这一信号短期内未必被投资者充分定价，但与其对AI需求强度将重塑内存行业的判断一致。摩根士丹利维持美光“增持”评级，目标价为1200美元。&lt;/p&gt;
-紧张预期首次拉长到2028年
-&lt;p&gt;美光2026财年第四财季营收与利润双双超出预期。相比业绩，公司对远期供需格局的表态更具定价含义——2027年和2028年的产能供应将比2026年更加紧张。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一判断与此前管理层口径一脉相承。&lt;/strong&gt;美光CEO Sanjay Mehrotra 曾表示，AI驱动的存储需求正使供需紧张延续至2027年之后，数据中心客户目前的采购意愿约为公司可承诺供应量的150%，即需求超出供给约50%。新建晶圆厂周期长、熟练工人与能源基础设施受限，使供给难以快速跟上需求。&lt;/p&gt;
-台湾四大基地同步扩产
-&lt;p&gt;美光披露在中国台湾桃园、台中、铜锣、台南四大制造基地同步扩产HBM，董慧璐确认AI是这轮扩产的核心驱动力。公司未披露各基地的具体扩产规模与投产时间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;中国台湾是美光HBM产能扩张的重要支点。&lt;/strong&gt;此前业内信息显示，美光计划在年底前将HBM月产能提升至约10万片晶圆，较去年接近翻倍，其中HBM封装业务主要在中国台湾铜锣厂推进。四大基地同步动作，显示美光正把台湾打造为HBM产能扩张的核心基地。&lt;/p&gt;
-&lt;p&gt;在HBM市场，美光长期位居第三。据市场研究机构Counterpoint Research数据，今年第二季度全球HBM市场份额中，SK海力士以50%居首，三星电子占32%，美光占18%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，市场交易逻辑正在从“美联储会不会很快再次加息”，转向“9月CPI会不会重新点燃加息预期”。10月14日的通胀数据，或将成为决定这场政策预期博弈下一阶段走向的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在彭博社10月2日首播的《Power On》播客节目中，资深苹果科技记者古尔曼（Mark Gurman）与彭博科技编辑Vlad Savov围绕苹果即将到来的秋季新品发布会进行了深度对话。节目不仅曝光了苹果在智能家居领域的庞大野心和首款触屏MacBook Pro的细节，还对最新发布的iPhone 18系列及新任CEO 特努斯（John Ternus）面临的战略挑战进行了犀利点评。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;（左：古尔曼；右：Vlad Savov）&lt;/p&gt;
@@ -355,26 +355,7 @@ iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
 跨国药企持续押注中国创新药管线
 &lt;p&gt;艾博生物与诺华的交易，是近期跨国药企密集布局中国创新药的缩影。&lt;/p&gt;
 &lt;p&gt;据彭博报道，就在本周，&lt;strong&gt;诺和诺德（Novo Nordisk）&lt;/strong&gt;以&lt;strong&gt;26亿美元&lt;/strong&gt;收购了江苏恒瑞医药旗下一款早期肥胖症口服药的权利；&lt;strong&gt;阿斯利康（AstraZeneca）&lt;/strong&gt;则向Summit Therapeutics投资&lt;strong&gt;20亿美元&lt;/strong&gt;，共同开发源自&lt;strong&gt;康方生物（Akeso）&lt;/strong&gt;的癌症药物；此前，&lt;strong&gt;葛兰素史克（GSK）&lt;/strong&gt;也与Chimagen Biosciences就一款血液癌症药物达成最高&lt;strong&gt;7.5亿美元&lt;/strong&gt;的授权协议。&lt;/p&gt;
-&lt;p&gt;上述交易密集落地，折射出全球大型制药公司对中国创新药管线的结构性需求——在自身研发管线面临压力的背景下，中国生物技术公司凭借差异化的技术平台和相对具有竞争力的授权条款，正成为跨国药企补充管线的重要来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：美伊冲突打乱OPEC+扩产节奏，产能审查推迟至11月中旬</title><link>https://wallstreetcn.com/articles/3782943</link><guid>e538569a1727e654378da73c2fea138d4889a71849dfc6ccaeda6734a40a8499</guid><pubDate>Fri, 02 Oct 2026 16:27:56 GMT</pubDate><description>&lt;p&gt;OPEC+的产能审查工作遭遇延误，&lt;strong&gt;原因是美以对伊朗的战争打乱了中东地区多个扩产项目的推进计划，令各成员国未来产量潜力的估算陷入不确定性。&lt;/strong&gt;这一延误将直接影响该联盟2027年石油产量配额的制定进程。&lt;/p&gt;
-&lt;p&gt;据路透援引两位知情人士透露，&lt;strong&gt;此次产能审查的完成期限已由原定的2026年9月底推迟至11月中旬。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，负责为除俄罗斯、伊朗和委内瑞拉以外的OPEC+成员国进行产能估算的美国石油咨询机构DeGolyer and MacNaughton，预计将于11月中旬方可向OPEC提交报告。&lt;strong&gt;上述时间节点仍在理论上允许OPEC+在11月下旬的全体会议上讨论相关结果。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次延误令OPEC+内部本已政治敏感的配额谈判愈加复杂。&lt;strong&gt;独立产能评估结果将直接左右各成员国获准的产量上限，部分成员国已就配额问题产生明显分歧&lt;/strong&gt;，联盟稳定性面临压力。&lt;/p&gt;
-&lt;p&gt;周五，&lt;a href="https://wallstreetcn.com/articles/3782940"&gt;G7决定释放1亿桶紧急油储，前20天先大规模投放柴油&lt;/a&gt;，美油一度跌超5%，后有所反弹，截至发稿跌3.33%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-战争扰乱扩产计划，产能数据缺口待补
-
-&lt;p&gt;中东冲突已导致原定提升部分OPEC+国家产能的项目出现延迟，使外界难以准确评估这些国家的实际产油能力。此外，并非所有成员国均已提交审查所需的数据。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OPEC+早在2025年底便已启动这一审查程序，要求对全体成员国进行产能盘点，作为制定2027年产量基准的依据。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该联盟在今年6月的全体会议上重申了完成最大可持续产能（MSC）评估的重要性，明确将其作为2027年产量基准的参考依据。&lt;/p&gt;
-&lt;p&gt;俄罗斯副总理Alexander Novak周五经俄罗斯国家通讯社塔斯社援引表示，OPEC+各国正持续评估最大产能水平，但未就延误问题作出进一步说明。&lt;/p&gt;
-
-产能评估结果直接牵动配额分配
-
-&lt;p&gt;此次审查的核心目的，在于为各成员国可持续产油能力提供独立的更新评估，这一数据是历次产量目标谈判的关键参考指标。若扩产计划因战争受阻，则相关国家的产能评估基础将随之动摇，进而影响其未来配额水平。&lt;/p&gt;
-&lt;p&gt;产能评估结果对成员国的利益影响直接而显著：&lt;strong&gt;被评定产能偏低的国家可能面临配额下调压力，而已成功扩大产能的生产国则会寻求争取更高的产量分配。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一逻辑已在近期联盟动态中得到印证。阿联酋此前长期以产能提升为由，要求OPEC+上调其产量配额，在诉求未获充分满足后于今年5月退出了该联盟。&lt;/p&gt;
-&lt;p&gt;据此前报道，伊拉克同样寻求更高配额，并已考虑退出OPEC。当前产能审查的延误与不确定性，使上述紧张态势进一步升温，OPEC+内部的凝聚力面临新的考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] G7决定释放1亿桶紧急油储，前20天先大规模投放柴油，美油一度跌超5%</title><link>https://wallstreetcn.com/articles/3782940</link><guid>a9df5fadf45ba1ab2a0c6bc10c5267fff4d39f1c2232d9cfa71e4d24d7866991</guid><pubDate>Fri, 02 Oct 2026 14:09:12 GMT</pubDate><description>&lt;p&gt;在国际能源市场供应紧张、柴油价格持续高企之际，七国集团（G7）终于祭出大规模战略储备释放措施。&lt;/p&gt;
+&lt;p&gt;上述交易密集落地，折射出全球大型制药公司对中国创新药管线的结构性需求——在自身研发管线面临压力的背景下，中国生物技术公司凭借差异化的技术平台和相对具有竞争力的授权条款，正成为跨国药企补充管线的重要来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] G7决定释放1亿桶紧急油储，前20天先大规模投放柴油，美油一度跌超5%</title><link>https://wallstreetcn.com/articles/3782940</link><guid>a9df5fadf45ba1ab2a0c6bc10c5267fff4d39f1c2232d9cfa71e4d24d7866991</guid><pubDate>Fri, 02 Oct 2026 14:09:12 GMT</pubDate><description>&lt;p&gt;在国际能源市场供应紧张、柴油价格持续高企之际，七国集团（G7）终于祭出大规模战略储备释放措施。&lt;/p&gt;
 &lt;p&gt;当地时间10月2日周五，法国总统府发布的G7领导人声明称，G7将通过国际能源署（IEA）协调释放1亿桶石油战略储备，行动将“立即”开始，并持续4个月；这期间，G7成员国及合作伙伴将在最初20天内率先大规模释放柴油储备。G7同时承诺，避免在成员国之间实施能源及能源产品出口限制，并呼吁其他产油国不要采取可能进一步加剧市场紧张的出口禁令。&lt;/p&gt;
 &lt;p&gt;以上G7决定公布后，周五美股早盘时段，国际原油期货跌幅明显扩大。周五美股早盘时段，美国WTI原油一度跌破88.10美元/桶，日内跌近5.2%；布伦特原油曾跌至98.50美元/桶下方，日内跌近3.8%。周五稍早，原油已经因为G7可能进一步释放战略储备的消息而承压下行。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -403,4 +384,43 @@ iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
 &lt;p&gt;而从G7正式声明看，储备释放确实将立即启动，但并非1亿桶在一天之内集中进入市场，而是计划在未来4个月内通过IEA协调实施，其中柴油供应将在最初20天明显前置。&lt;/p&gt;
 &lt;p&gt;这意味着，短期来看，市场首先交易的是&lt;strong&gt;供应预期的变化&lt;/strong&gt;，而实际库存何时、以多快速度转化为现货供应，将决定油价后续走势。&lt;/p&gt;
 &lt;p&gt;与此同时，G7声明仍将霍尔木兹海峡通航问题列为能源安全的重要风险，呼吁立即全面恢复该海峡的航行权利和相关原则，并表示将继续关注能源市场变化、必要时调整措施。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;1亿桶战略储备释放虽然显著增加了未来几个月的供应预期，但能否持续压低油价，仍取决于实际放储速度、柴油供应恢复程度，以及中东供应和霍尔木兹海峡通航状况。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;因此，&lt;strong&gt;1亿桶战略储备释放虽然显著增加了未来几个月的供应预期，但能否持续压低油价，仍取决于实际放储速度、柴油供应恢复程度，以及中东供应和霍尔木兹海峡通航状况。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”</title><link>https://wallstreetcn.com/articles/3782917</link><guid>647390864f3bd2f8f85b69d7beaafec13ffbce8ae18a6fa5edb838c3d86b1a19</guid><pubDate>Fri, 02 Oct 2026 10:11:16 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Meta旗下AI智能体应用Muse上线仅23天便迅速引爆消费级Agent市场，成为近期增长最为迅猛的AI应用之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场调研机构Sensor Tower数据显示，截至9月30日，Muse累计下载量已突破500万次。Muse于9月8日在美国和加拿大上线，仅用22天便达到这一规模；相比之下，ChatGPT、Grok和Claude分别用了56天、103天和492天才突破500万次下载。&lt;/p&gt;
+&lt;p&gt;Muse的高速增长引发市场对其&lt;strong&gt;成本、算力和商业化能力&lt;/strong&gt;的关注。摩根士丹利互联网行业首席分析师Brian Nowak团队近日发布深度研究，围绕Muse的&lt;strong&gt;货币化、服务成本、算力储备、企业市场、亚马逊合作及估值&lt;/strong&gt;六大问题展开分析。&lt;/p&gt;
+&lt;p&gt;其中，最核心的矛盾在于：&lt;strong&gt;Agent用户增长越快，算力成本越高；而Meta需要证明，未来的广告、交易、企业订阅和API业务能够覆盖这部分投入，并将庞大的用户规模转化为收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+一、货币化：短期先做大用户，长期瞄准30万亿美元消费市场
+&lt;p&gt;Muse目前并不急于赚钱。摩根士丹利预计，&lt;strong&gt;短期订阅收入贡献有限，交易抽成也会维持较低水平，Meta更重要的任务是扩大用户规模、提高使用频率，并培养用户通过Agent完成商业交易的习惯。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;真正大规模的货币化可能要等到&lt;strong&gt;2027至2028年&lt;/strong&gt;。长期来看，Meta可能围绕实时竞价建立Agent商业市场：企业根据预期投资回报率竞价，向Meta支付交易费用。&lt;/p&gt;
+&lt;p&gt;这一模式对应的潜在市场规模达到&lt;strong&gt;30万亿美元&lt;/strong&gt;，涵盖零售、旅行、出行、餐饮配送、广告、物流和可穿戴设备等消费场景。&lt;/p&gt;
+&lt;p&gt;在直接收费之前，Muse也可以先通过提升用户参与度和用户画像能力，反过来强化Meta广告业务的变现效率。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+二、成本：每用户每月最高130美元，高成本反而可能成为壁垒
+&lt;p&gt;Muse越火，Meta首先面对的就是成本问题。&lt;/p&gt;
+&lt;p&gt;摩根士丹利测算，&lt;strong&gt;Muse服务成本约为每用户每月3至130美元，主要取决于Token消耗量。&lt;/strong&gt;其中，GPU推理成本随Token用量增长，CPU沙箱成本则取决于用户激活频率和虚拟机运行时间。&lt;/p&gt;
+&lt;p&gt;以用户消耗25%周度Token配额为基准，每用户每月成本约37美元。由于该测算假设Meta按照AWS按需价格租用全部CPU沙箱容量，实际成本可能更低。&lt;/p&gt;
+&lt;p&gt;这也意味着，Agent并不是一个容易靠烧钱复制的生意。&lt;strong&gt;Meta拥有约2500亿美元、同比增长27%的核心广告业务作为资金支撑，全球平均每用户收入约70美元，能够承受前期高昂的AI基础设施投入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+三、算力：2026年CPU采购理论上足以支撑10亿DAU
+&lt;p&gt;如果Muse继续快速增长，Meta有没有足够算力？&lt;/p&gt;
+&lt;p&gt;摩根士丹利认为：&lt;strong&gt;Meta目前的CPU采购规模，理论上足以支撑10亿Muse日活用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;按照其估算，Meta在2026年采购的CPU容量合计约6.43亿vCPU，对应约3.21亿Muse实例容量。在每天3小时活跃、2倍峰值系数和1.2倍容量缓冲的假设下，支撑10亿DAU所需的同时活跃实例约3亿，现有算力基本可以覆盖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着，随着Muse用户规模扩大，Meta短期真正需要解决的可能不是“有没有算力”，而是如何把巨额算力投入转化为用户增长和商业收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告预计，Meta2027年资本开支约2250亿美元，对应约590亿美元折旧；第三方计算合同支出约260亿美元，高于2026年的170亿美元。&lt;/p&gt;
+四、企业市场：从消费Agent切入25万亿美元知识经济
+&lt;p&gt;Muse的商业想象力也不止于个人用户。&lt;/p&gt;
+&lt;p&gt;Meta正将Agent进一步推向企业市场，目标覆盖约25万亿美元的全球知识型工作经济，相关产品包括面向中小企业的Muse、WhatsApp和Messenger智能体工具、企业产品、Muse Coding以及未来的模型API“Watermelon”。&lt;/p&gt;
+&lt;p&gt;摩根士丹利认为，传统企业的Web 1.0架构并不适合Agent之间直接交互。未来，企业需要提供机器原生的接口，让Agent能够直接调用商品、服务和企业系统。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这为Meta提供了新的收费模式：向企业收订阅费，同时向开发者和企业提供API算力与模型服务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;敏感性测算显示，如果6000万用户每月支付15美元，到2028年可能使EPS提升约8.2%；如果将100MW专用算力用于API业务，也可能使2028年EPS增加约4%。&lt;/p&gt;
+五、亚马逊：Agent进入电商后，交易入口成为核心博弈
+&lt;p&gt;一旦Muse开始替用户购物，Meta就绕不开亚马逊。&lt;/p&gt;
+&lt;p&gt;亚马逊约占美国电商市场40%，掌握庞大的商品、商户和物流体系。&lt;strong&gt;双方潜在合作的核心问题，包括谁是商户记录方、谁控制购物体验、Prime权益和零售媒体价值如何分配，以及哪些数据能够回流Muse。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，Meta又依赖亚马逊的AWS云资源，包括CPU、GPU算力，以及通过Bedrock提供模型API的分发渠道。&lt;/p&gt;
+&lt;p&gt;因此，Meta与亚马逊的潜在合作并不只是一次普通的电商合作，而可能同时涉及交易入口、用户数据、云算力和模型分发。&lt;/p&gt;
+六、估值：21倍PE已经反映部分Muse预期，下一步看商业化
+&lt;p&gt;Muse发布以及Meta与各州检察长达成和解后，Meta的NTM共识EPS估值已从约14倍升至21倍。&lt;/p&gt;
+&lt;p&gt;摩根士丹利认为，&lt;strong&gt;当前估值已经反映了Meta以免费模式推出Muse所形成的部分先发优势。后续估值能否进一步提升，关键看三件事：&lt;/strong&gt;第一，Muse用户规模和使用率能否持续增长；第二，Agent能否真正形成规模化商业交易；第三，谷歌、SPCX等竞争对手的推进速度。&lt;/p&gt;
+&lt;p&gt;Meta在2025年2月一度达到28倍估值，因此，如果Muse能够持续扩大用户基础，并进一步证明商业化潜力，市场仍可能重新评估其估值水平。&lt;/p&gt;
+&lt;p&gt;从基本面看，摩根士丹利关注的上行驱动主要包括：AI推动核心用户参与度提升、商业消息和Agent业务增长，以及API平台逐步实现规模化变现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;归根结底，Muse当前最重要的价值还不是贡献多少收入，而是Meta能否利用庞大的用户基础、广告现金流和算力投入，把一个高成本的AI应用变成连接消费者、企业和商业交易的Agent平台。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
