@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 04:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] AI“砸饭碗”担忧暂缓！埃森哲845亿年订单创纪录、指引超预期，股价盘中暴涨超20%｜财报见闻</title><link>https://wallstreetcn.com/articles/3782893</link><guid>e124d553161042b8c29c1692fbeb51911739cdbd241b5652d16d9efbbdcbc645</guid><pubDate>Thu, 01 Oct 2026 21:35:20 GMT</pubDate><description>&lt;p&gt;在交出超预期的季度业绩、创纪录订单以及高于市场预期的全年营收指引后，全球咨询与IT服务巨头埃森哲股价暴涨。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 05:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] AI“砸饭碗”担忧暂缓！埃森哲845亿年订单创纪录、指引超预期，股价盘中暴涨超20%｜财报见闻</title><link>https://wallstreetcn.com/articles/3782893</link><guid>e124d553161042b8c29c1692fbeb51911739cdbd241b5652d16d9efbbdcbc645</guid><pubDate>Thu, 01 Oct 2026 21:35:20 GMT</pubDate><description>&lt;p&gt;在交出超预期的季度业绩、创纪录订单以及高于市场预期的全年营收指引后，全球咨询与IT服务巨头埃森哲股价暴涨。&lt;/p&gt;
 &lt;p&gt;美东时间10月1日周四，埃森哲（ACN）股价跳空高开近18%，盘中涨幅曾超过20%、达到24%，收涨近16%，创将近七个月来收盘新高。埃森哲大涨不仅带动IBM、Wipro、Infosys、Cognizant等IT咨询和服务业公司股价走高，也成为近期市场重新审视“AI是否会削弱传统咨询需求”的一个重要信号。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;埃森哲财报显示，截至8月31日的公司2026财年第四财季，营收同比增长6%至186.8亿美元，高于公司自身指引上限，较市场预期高逾3.5%。当季调整后每股收益（EPS）为3.29美元，较分析师预期高逾3.1%。&lt;/p&gt;
@@ -221,7 +221,33 @@ AI焦虑曾重压股价 而企业AI需求成为订单新推手
 &lt;p&gt;微软此前已经推出MAI-Transcribe-2、MAI-Voice-2、MAI-Thinking-1、MAI-Code-1.1-Flash以及MAI-Image系列模型，并将这些模型逐步接入Microsoft Foundry以及Copilot、Teams、GitHub、Dynamics 365等产品和服务。&lt;/p&gt;
 &lt;p&gt;其中，MAI-Transcribe-2目前已经覆盖会议记录、视频字幕、客服文档、无障碍服务以及语音智能体等场景；微软此次进一步加入实时流式版本，意味着其自研模型的竞争重点正从单项识别准确率，转向&lt;strong&gt;实时语音智能体完整链路&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;对于微软而言，这一方向的意义并不只在于增加几个模型。随着AI智能体从文字交互进一步走向电话客服、语音助手、实时翻译和多模态工作流，语音识别和语音生成的&lt;strong&gt;延迟、准确率与成本&lt;/strong&gt;都会直接影响用户体验和企业部署成本。&lt;/p&gt;
-&lt;p&gt;此次MAI-Transcribe-2-Streaming在Artificial Analysis测试中登顶，至少显示微软在语音AI这一细分赛道正在加速追赶并进入第一梯队。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 季报不及预期，收入未见起色！耐克大中华区被“并入”亚太，今年股价“史上最惨”接近腰斩｜财报见闻</title><link>https://wallstreetcn.com/articles/3782905</link><guid>9f20762228783ff200a635d5227b4f015cd7fce5ecd4fccf8ae729f2dc15e1fa</guid><pubDate>Fri, 02 Oct 2026 02:37:25 GMT</pubDate><description>&lt;p&gt;耐克的复苏之路比任何人预期的都要漫长。季报不及预期、全年营收指引大幅低于市场预测、新一轮裁员计划随之而来——这家全球最大运动品牌正面临多重压力的叠加冲击，而华尔街的耐心正在加速耗尽。&lt;/p&gt;
+&lt;p&gt;此次MAI-Transcribe-2-Streaming在Artificial Analysis测试中登顶，至少显示微软在语音AI这一细分赛道正在加速追赶并进入第一梯队。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 耐克挥刀组织架构，大中华区独立时代将成历史</title><link>https://wallstreetcn.com/articles/3782919</link><guid>c30a83bcade5ddf87ab4168b713e8e8fc69be9ee391ccaccbe59ea74e00a5763</guid><pubDate>Fri, 02 Oct 2026 05:10:29 GMT</pubDate><description>&lt;p&gt;从2028财年起，耐克的组织架构图上，将不再有单独的大中华区。&lt;/p&gt;
+&lt;p&gt;10月1日，耐克披露截至8月底的2027财年第一季度业绩。期内公司实现收入112.13亿美元，同比下降4%，剔除汇率影响下降5%；净利润7.12亿美元，同比下降2%，毛利率同比提升0.6个百分点至42.8%。&lt;/p&gt;
+&lt;p&gt;这一季度，耐克大中华区收入11.8亿美元，同比下降22%，剔除汇率影响下降26%；其中批发收入下降28%，Nike Direct下降13%。大中华区EBIT进一步下降34%至2.48亿美元。&lt;/p&gt;
+&lt;p&gt;相比之下，北美收入已经恢复2%的增长，亚太及拉丁美洲按固定汇率计算基本持平。&lt;/p&gt;
+&lt;p&gt;与这份财报同时公布的，是一项名为“Pace”的新计划。&lt;/p&gt;
+&lt;p&gt;耐克把Pace定义为一次“经营模式转型”，而非新的增长战略。CEO Elliott Hill表示，过去一年Sport Offense已经在跑步、足球等专业运动业务中验证效果，Pace要解决的是如何将这套模式扩大到整个公司。&lt;/p&gt;
+&lt;p&gt;第一层变化发生在成本和供应链。&lt;/p&gt;
+&lt;p&gt;耐克计划让供应链从相对固定的成本结构转向更灵活的模式，提高对需求变化的反应速度。公司预计，Pace到2031财年累计节省约25亿美元，同时产生约10亿美元税前实施费用，节省效果将在2029至2030财年集中释放。&lt;/p&gt;
+&lt;p&gt;第二层是全球能力重新布局。耐克将在印度班加罗尔建设新的能力中心，将部分可以规模化共享的企业职能和能力进一步集中。&lt;/p&gt;
+&lt;p&gt;第三层则直接触及组织架构。耐克将减少管理层级，并把更多资源推向国家、地区和城市，让当地团队承担更多经营责任。&lt;/p&gt;
+&lt;p&gt;从2028财年开始，耐克现有四大区域也将压缩为三个：北美和拉丁美洲合并为Americas；欧洲、中东和非洲保持不变；大中华区则与亚太合并为APGC，区域领导团队设在新加坡。&lt;/p&gt;
+&lt;p&gt;这意味着在组织架构层面，独立存在多年的“大中华区”迎来降级。&lt;/p&gt;
+&lt;p&gt;2017年Consumer Direct Offense启动时，耐克同样大幅压缩全球区域，但仍然保留了大中华区独立地位；随后Consumer Direct Acceleration进一步强化数字渠道、直营和全球统一化。&lt;/p&gt;
+&lt;p&gt;过去几年，这套体系的副作用逐渐显现：渠道向直营倾斜，批发伙伴关系被削弱，产品又越来越依赖少数全球Lifestyle大单品。&lt;/p&gt;
+&lt;p&gt;Hill上任后推动的Win Now和Sport Offense已经开始反转这一方向。耐克重新围绕跑步、篮球、足球等具体运动组织产品、营销和渠道，并恢复与批发商的关系。&lt;/p&gt;
+&lt;p&gt;最新季度，耐克Performance业务仍实现高个位数增长，跑步、足球等多个专业运动品类实现双位数增长，但规模尚不足以抵消Sportswear、Jordan和中国市场的下滑。&lt;/p&gt;
+&lt;p&gt;Pace某种意义上是在修正上一轮全球化和DTC改革留下的组织后遗症。而中国，恰恰是这些问题暴露得最完整的市场之一。&lt;/p&gt;
+&lt;p&gt;按照耐克的安排，大中华区在APGC框架下仍是一个独立的市场单元，围绕中国消费者和本地市场的经营方式不变。&lt;/p&gt;
+&lt;p&gt;在中国市场，耐克正在退出部分“不盈利且损害品牌”的线上分销渠道，未来数字业务更多集中在天猫、京东、抖音官方旗舰店以及Nike.com和Nike App，希望减少深度折扣，让产品重新回到更完整的品牌表达和全价销售。&lt;/p&gt;
+&lt;p&gt;线下渠道方面，Hill披露，大中华区合作伙伴的大多数实体门店过去七年没有进行更新。上海House of Innovation在重新强调运动、产品和消费体验后，已经连续十个月实现增长，这被耐克视作渠道修复的一个样本。&lt;/p&gt;
+&lt;p&gt;耐克同时在增加中国本土产品开发能力。公司本季度在大中华区新设首位本地产品创新副总裁，并将本地产品创新团队规模扩大一倍，希望让中国市场洞察更直接进入产品开发流程。&lt;/p&gt;
+&lt;p&gt;跑步已经成为目前少数验证这套打法的业务：中国跑步业务连续六个季度增长，最新季度继续实现双位数增长。&lt;/p&gt;
+&lt;p&gt;从渠道清理、门店改造再到本地产品开发，耐克中国眼下的主线已经不是单纯追求恢复规模，而是重新建立产品、价格和渠道之间的关系。&lt;/p&gt;
+&lt;p&gt;CFO Dave Denton在业绩会上表示，主动清理渠道会令本财年余下时间的大中华区收入表现较第一季度进一步承压。&lt;/p&gt;
+&lt;p&gt;耐克也预计，包括中国、Sportswear和Jordan Brand在内的主动调整，将继续影响2027财年，并部分延续至2028财年。&lt;/p&gt;
+&lt;p&gt;大中华区并入亚太，因而并不只是一次区域合并。耐克一边削掉独立的大区层级，一边要求中国团队离产品和消费者更近。&lt;/p&gt;
+&lt;p&gt;中国市场被降了一个组织层级，耐克却希望借此换回更快的经营速度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 季报不及预期，收入未见起色！耐克大中华区被“并入”亚太，今年股价“史上最惨”接近腰斩｜财报见闻</title><link>https://wallstreetcn.com/articles/3782905</link><guid>9f20762228783ff200a635d5227b4f015cd7fce5ecd4fccf8ae729f2dc15e1fa</guid><pubDate>Fri, 02 Oct 2026 02:37:25 GMT</pubDate><description>&lt;p&gt;耐克的复苏之路比任何人预期的都要漫长。季报不及预期、全年营收指引大幅低于市场预测、新一轮裁员计划随之而来——这家全球最大运动品牌正面临多重压力的叠加冲击，而华尔街的耐心正在加速耗尽。&lt;/p&gt;
 &lt;p&gt;当地时间周四（10月1日），耐克公布2027财年第一季度财报，当季营收同比下降4%至112亿美元，低于市场预期；净利润下降2%至7.12亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;更令投资者担忧的是前景：&lt;/strong&gt;耐克预计2027财年全年营收将同比下降&amp;quot;高个位数百分比&amp;quot;，远差于此前市场预期的约2%降幅，全年调整后每股收益指引为1.15至1.35美元，亦明显低于分析师预期的1.68美元。财报公布后，耐克盘后股价一度跌逾8%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -259,7 +285,7 @@ Jordan品牌供给过剩，复古鞋款策略亟待重塑
 &lt;p&gt;在管理层层面，新任首席财务官David Denton于今年8月从辉瑞（Pfizer）加盟耐克。美国银行分析师Hutchinson指出，Denton接手的是一个&amp;quot;几乎没有运营失误空间&amp;quot;的局面。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“随着新CFO上任，成本削减将成为核心议题，&amp;quot;Hutchinson写道，&amp;quot;我们认为需求创造方面没有削减空间，但预计今年运营管理费用将有所下降，成本结构将以全新视角接受审视。”&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国按揭贷款利率创4年来最大幅度周涨幅，加剧中选前美国人“可负担”压力</title><link>https://wallstreetcn.com/articles/3782914</link><guid>080e4cbec9e1539b6484e04a9b001eac100326682cf0cdadabfe1d192ac3fbb0</guid><pubDate>Fri, 02 Oct 2026 03:27:11 GMT</pubDate><description>&lt;p&gt;美国按揭贷款利率本周急剧攀升，创下四年来最大单周涨幅，债券市场抛售浪潮正以最直接的方式冲击普通美国家庭的购房梦，并在关键中期选举前夕将住房可负担性问题推至政治风口浪尖。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 大摩最新FCC纪要：指向的不是光模块，而是光芯片</title><link>http://xueqiu.com/6213467037/411187166</link><guid>44fb7b1d1aeaef53434f838ccf73eb05d6483674cbadeb8d61e1f775c84a38b6</guid><pubDate>Fri, 02 Oct 2026 04:50:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;已过万重山888&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;FCC 那道 65% 的门槛，卡的不是光模块，是那颗激光芯片&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方</title><link>http://xueqiu.com/1781588375/411169265</link><guid>54e52dd8848daa7b93f947142e6f4c4c9ff782e01c34f34a69e8ff7f65edc779</guid><pubDate>Fri, 02 Oct 2026 04:50:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;盖因斯iFortune&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/09926"&gt;$康方生物(09926)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国按揭贷款利率创4年来最大幅度周涨幅，加剧中选前美国人“可负担”压力</title><link>https://wallstreetcn.com/articles/3782914</link><guid>080e4cbec9e1539b6484e04a9b001eac100326682cf0cdadabfe1d192ac3fbb0</guid><pubDate>Fri, 02 Oct 2026 03:27:11 GMT</pubDate><description>&lt;p&gt;美国按揭贷款利率本周急剧攀升，创下四年来最大单周涨幅，债券市场抛售浪潮正以最直接的方式冲击普通美国家庭的购房梦，并在关键中期选举前夕将住房可负担性问题推至政治风口浪尖。&lt;/p&gt;
 &lt;p&gt;据房地美（Freddie Mac）周四（10月1日）公布的数据，&lt;strong&gt;截至10月1日，30年期固定按揭贷款平均利率升至7.28%，较前一周跳涨25个基点，为2022年10月以来最大单周涨幅，并将美国按揭利率推至2023年底以来的最高水平。&lt;/strong&gt;此轮利率飙升的背后，是美国国债市场遭遇四年来最惨烈的月度抛售——9月份美债录得四年来最差单月表现，10年期美债收益率随之触及逾20年高点。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;推动利率上行的核心逻辑在于：&lt;/strong&gt;市场预期美联储将在9月加息之后再度收紧货币政策，以应对因特朗普政府伊朗战争及人工智能相关支出激增而加剧的通胀压力。与此同时，政府债务规模扩张与企业为AI基础设施建设大举借贷，共同推高债券收益率，进而传导至按揭市场。&lt;strong&gt;抵押贷款银行家协会（Mortgage Bankers Association）数据显示，截至9月25日当周，按揭贷款申请量下滑6%，已连续第四周录得下降。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;住房市场的寒意正在蔓延至整体经济，并在中期选举前数周成为共和党执政的政治隐患。民调显示，美国民众对生活成本螺旋式上升的担忧与日俱增，而特朗普此前已将住房可负担性列为其执政核心议题之一。&lt;/p&gt;
@@ -290,47 +316,7 @@ Jordan品牌供给过剩，复古鞋款策略亟待重塑
 政治压力：住房可负担性成中期选举敏感议题
 &lt;p&gt;住房成本的急剧攀升，正在将经济压力转化为政治风险。&lt;strong&gt;特朗普曾将住房可负担性列为其执政的核心使命，并推出包括限制投资者收购独栋住宅在内的一系列措施。然而，按揭利率的持续上行令这一承诺面临严峻考验。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;随着中期选举临近，共和党正竭力维持对参众两院的控制权，而民调显示生活成本已成为选民最关切的议题之一。住房市场的持续低迷，不仅是经济问题，更是执政党难以回避的政治账单。&lt;/p&gt;
-&lt;p&gt;2026年原本被市场寄望为住房市场复苏的起点，但按照当前轨迹，这一预期正在落空。“我仍然看到市场在下行，而且即将进入假日淡季，”Don Wessel说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “表面平静”的美股：指数距离新高“一步之遥”，但几乎所有板块都遭重创</title><link>https://wallstreetcn.com/articles/3782909</link><guid>eb9e4f4782549aa50f3c0d9ca8681bb47cd65873555e250935b59abcbf04f3c1</guid><pubDate>Fri, 02 Oct 2026 01:52:37 GMT</pubDate><description>&lt;p&gt;美股正上演一场罕见的&amp;quot;双面市场&amp;quot;：标普500指数距历史高点不足2%，但水面之下，几乎所有对利率敏感的板块均已遭受重创。10年期美债收益率攀升至5.34%，创2002年以来新高，正在悄然瓦解那些未能搭上人工智能叙事的股票。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这种表面平静极具迷惑性。&lt;/strong&gt; 过去一个月，标普500成分股中位数股票下跌5%，指数本身却纹丝不动——唯一的支撑来自半导体板块过去一个月约6%的涨幅。与此同时，&lt;strong&gt;等权重标普500 ETF（RSP）与标普500指数的比率刚刚创下历史新低&lt;/strong&gt;，等权重标普500指数已连续第七周下跌，此前仅在2002年互联网泡沫破裂和2022年熊市中出现过两次。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更值得警惕的信号是：&lt;strong&gt;过去18个交易日中，有17天标普500成分股中创52周新低的数量多于创新高的数量，这一现象已连续12天出现。&lt;/strong&gt;据彭博数据，此前每次出现类似情形，美股均处于抛售后的低点附近并随后走高——而这一次，标普500指数却高悬于历史高位附近。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;iCapital全球投资策略师Dan Suzuki表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“市场大多数板块距离高点至少下跌了5%，部分板块跌幅甚至超过15%，这在很大程度上与利率上升及随之而来的金融条件收紧有关。”&lt;/p&gt;
-&lt;/blockquote&gt;
-科技巨头撑起&amp;quot;空心&amp;quot;指数，市场广度创历史极值
-&lt;p&gt;标普500指数的稳健外表，几乎完全依赖少数几只人工智能相关科技巨头的强势表现。等权重标普500指数——对每只成分股赋予相同权重——正面临连续第七周收跌的局面。据彭博数据，这在历史上仅出现过两次：2002年互联网泡沫破裂后，以及2022年的熊市。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Tallbacken Capital Advisors首席执行官Michael Purves在研报中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们不认为当前扭曲的市场广度是看空标普500的理由，而是将其视为强劲牛市的一种体现，部分原因在于重大技术颠覆正在发生。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他对标普500的年末目标价为8500点，较当前水平意味着约11%的涨幅。&lt;/p&gt;
-&lt;p&gt;然而，这一乐观判断建立在AI叙事持续兑现的前提之上。The Wealth Alliance总裁兼董事总经理Eric Diton表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“&lt;strong&gt;股市目前尚能承受较高收益率——前提是经济和盈利增长保持强劲。但对股市最大的风险，是AI建设进程出现问题。一旦盈利预期遭到大幅下调，将引发更广泛的股市痛苦。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-小盘股逼近回调区间，&amp;quot;僵尸企业&amp;quot;占比超三分之一
-&lt;p&gt;利率上升对小盘股的冲击尤为直接。罗素2000指数刚刚经历了自1999年以来相对标普500表现第二差的季度，跑输幅度接近10个百分点，并从8月14日的历史高点下跌8.5%，逼近技术性回调区间。&lt;/p&gt;
-&lt;p&gt;据彭博数据，罗素2000成分股中，&lt;strong&gt;所谓&amp;quot;僵尸股&amp;quot;——即难以或无法以经营利润覆盖债务利息的公司——占比超过三分之一&lt;/strong&gt;。这些企业在高利率环境下面临的偿债压力远超大型企业，一旦融资成本持续攀升，其生存空间将进一步压缩。&lt;/p&gt;
-&lt;p&gt;小盘股指数中金融和工业等周期性板块权重较高，而这些板块在当前环境下均承压，与标普500中科技股主导的结构形成鲜明对比。&lt;/p&gt;
-银行股跌入回调区间，AI竞争威胁加剧压力
-&lt;p&gt;尽管美国消费者支出依然旺盛、企业借贷活跃，银行股却未能受益。KBW纳斯达克银行指数——涵盖24家大型银行——从8月中旬高点下跌逾12%，陷入技术性回调，今年以来累计涨幅仅3.3%，远落后于标普500的12%涨幅。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Capital One Financial、富国银行和Huntington Bancshares是KBW指数今年表现最差的成员，年内分别下跌20%、14%和12%。&lt;/strong&gt;花旗集团周四盘中一度下跌4.6%，创7月以来最大单日跌幅。&lt;/p&gt;
-&lt;p&gt;除利率和信贷压力外，Meta的Muse AI Agent也被认为对金融股构成新的威胁——该产品可能终结消费者将资金长期存放于低息活期账户的&amp;quot;惯性行为&amp;quot;，从而侵蚀银行的低成本资金来源。&lt;/p&gt;
-公用事业逼近熊市，&amp;quot;避险港湾&amp;quot;属性遭利率侵蚀
-&lt;p&gt;公用事业板块是此轮利率冲击中受损最深的领域之一。标普500公用事业板块自2月高点以来已累计下跌约17%，逼近熊市区间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高收益率从根本上削弱了公用事业股的吸引力：&lt;/strong&gt;当短期美债收益率大幅超越公用事业股的股息率时，后者作为&amp;quot;稳定收益替代品&amp;quot;的逻辑便难以成立。第三季度，电力公司和电力公用事业子行业均下跌逾10%，是整个板块中跌幅最大的细分领域，仅Constellation Energy和AES两家公司录得正收益。&lt;/p&gt;
-&lt;p&gt;与此同时，利率急升也推高了可再生能源转型的融资成本，进一步压制了该板块的长期投资逻辑。&lt;/p&gt;
-高风险资产全面退潮，AI叙事成最后防线
-&lt;p&gt;&lt;strong&gt;市场最投机性的角落同样难逃压力。&lt;/strong&gt;据彭博数据，高盛追踪的一篮子亏损科技公司——包括Roku和Peloton Interactive等——第三季度下跌11%，创2014年有记录以来第二差的三季度表现。&lt;/p&gt;
-&lt;p&gt;高盛与彭博数据显示，资产负债表最为脆弱、债务负担最重的公司，三季度仅上涨1.9%，为2022年初美联储开启本轮加息周期以来最小的季度涨幅。&lt;/p&gt;
-&lt;p&gt;Wealth Consulting Group首席执行官Jimmy Lee表示，他正趁估值回落买入金融和工业股，并认为债券收益率的飙升不会失控。但他同时警告：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“&lt;strong&gt;标普500最大的风险，是AI交易意外瓦解。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;当前市场的脆弱性在于，支撑指数的核心逻辑高度集中——一旦AI盈利预期出现裂缝，被科技巨头光环所掩盖的大面积损伤，将以更猛烈的方式浮出水面。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”</title><link>https://wallstreetcn.com/articles/3782907</link><guid>c4f8f4fb068b09b12b23a30b4c55edb5a9006ebcb203529d0acb412a5a3058bc</guid><pubDate>Fri, 02 Oct 2026 01:20:22 GMT</pubDate><description>&lt;p&gt;全球债市抛售正在从美债向欧洲扩散，欧洲国债收益率急升、利差快速走阔，市场对新一轮债务风险的担忧明显升温。&lt;/p&gt;
+&lt;p&gt;2026年原本被市场寄望为住房市场复苏的起点，但按照当前轨迹，这一预期正在落空。“我仍然看到市场在下行，而且即将进入假日淡季，”Don Wessel说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”</title><link>https://wallstreetcn.com/articles/3782907</link><guid>c4f8f4fb068b09b12b23a30b4c55edb5a9006ebcb203529d0acb412a5a3058bc</guid><pubDate>Fri, 02 Oct 2026 01:20:22 GMT</pubDate><description>&lt;p&gt;全球债市抛售正在从美债向欧洲扩散，欧洲国债收益率急升、利差快速走阔，市场对新一轮债务风险的担忧明显升温。&lt;/p&gt;
 &lt;p&gt;周四欧洲债市遭遇剧烈抛售，&lt;strong&gt;法国10年期国债收益率一度升至4.96%，创2002年以来新高，法德利差扩大至1.4个百分点，意大利、希腊国债收益率也同步上行；英国30年期国债收益率则首次突破6%。&lt;/strong&gt;与此同时，美国10年期国债收益率盘中一度升至5.34%，创近24年来最高，随后回落至5.24%。&lt;/p&gt;
 &lt;p&gt;Columbia Threadneedle投资组合经理Ed Al-Hussainy警告称，&lt;strong&gt;市场“隐约散发出一场危机正在酝酿的气息”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;此轮抛售主要受到通胀与利率预期重新升温的推动。中东冲突推高能源价格，布伦特原油周四上涨4.4%至每桶102.31美元；与此同时，美国经济数据持续强劲，加剧市场对利率长期维持高位的担忧。欧洲债市自身的财政压力，以及对冲基金高杠杆头寸遭遇强制平仓，则进一步放大了波动。&lt;/p&gt;
@@ -379,32 +365,47 @@ Jordan品牌供给过剩，复古鞋款策略亟待重塑
 &lt;p&gt;尽管高盛提示投资者较高的预期以及毛利率方面的小幅下行压力可能会对股价产生部分抵消作用，但华尔街主要投行仍对美光维持积极评级。&lt;strong&gt;其中，瑞银给出了华尔街最高的1625美元目标价，并维持“买入”评级。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;瑞银预计，市场最终将给予该股更高的市盈率倍数，美光的毛利率底线预计不会低于65%至70%，由于存储在AI世界中至关重要，整个周期内更高水平的股本回报率将为股价提供坚实支撑。&lt;/p&gt;
 &lt;p&gt;花旗给予美光1300美元目标价。该机构强调，目前行业的主要制约因素是无尘室空间，美光对2027财年资本支出的规划主要用于建设将在2028年底及以后投产的无尘室，这显示了公司对长期需求趋势的信心。&lt;/p&gt;
-&lt;p&gt;此外，摩根士丹利给予“增持”评级及1200美元目标价，认为尽管公司的环比改善有所放缓，但其业务的强劲势头依然明显，且这一周期的持续性仍被部分市场资金所低估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债跌到位了吗？高盛交易台主管：长债“仍然完全无人问津”</title><link>https://wallstreetcn.com/articles/3782910</link><guid>261e616ac6966efaa9a93288492f55a0966f357053654e19ecce44adb6778412</guid><pubDate>Fri, 02 Oct 2026 01:52:37 GMT</pubDate><description>&lt;p&gt;美国国债市场正面临多重压力叠加。长期限国债收益率持续攀升，买盘迟迟未能形成，债券与股票之间的背离也愈发引人关注。&lt;/p&gt;
-&lt;p&gt;高盛交易台负责人Rich Privorotsky直言，长期限美债“仍然完全无人问津”。&lt;strong&gt;尽管最新PCE数据低于预期，略微降低了10月加息的可能性，但这对长期限国债收益率走势几乎没有实质影响——短期利率的加息预期已基本消化，当前真正的压力仍集中在收益率曲线的远端。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，长期限国债的波动率预期也已与短期利率市场的焦虑明显脱钩，Privorotsky总结称：“这种状态亟需平息。”&lt;/p&gt;
-&lt;p&gt;收益率快速上行也正在触发多个基于历史数据的预警信号。&lt;strong&gt;法国巴黎银行CIB的Florian Roger表示，已将5.5%视为美国10年期国债收益率对股市形成实质性压力的临界点，“我们已近在咫尺，届时股票估值将开始显得过高”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Simon White则提醒，投资者不应被表面上的低估值所迷惑——从美债自身的历史走势来看，收益率或许仍未见底。&lt;/p&gt;
+&lt;p&gt;此外，摩根士丹利给予“增持”评级及1200美元目标价，认为尽管公司的环比改善有所放缓，但其业务的强劲势头依然明显，且这一周期的持续性仍被部分市场资金所低估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “表面平静”的美股：指数距离新高“一步之遥”，但几乎所有板块都遭重创</title><link>https://wallstreetcn.com/articles/3782909</link><guid>eb9e4f4782549aa50f3c0d9ca8681bb47cd65873555e250935b59abcbf04f3c1</guid><pubDate>Fri, 02 Oct 2026 01:52:37 GMT</pubDate><description>&lt;p&gt;美股正上演一场罕见的&amp;quot;双面市场&amp;quot;：标普500指数距历史高点不足2%，但水面之下，几乎所有对利率敏感的板块均已遭受重创。10年期美债收益率攀升至5.34%，创2002年以来新高，正在悄然瓦解那些未能搭上人工智能叙事的股票。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这种表面平静极具迷惑性。&lt;/strong&gt; 过去一个月，标普500成分股中位数股票下跌5%，指数本身却纹丝不动——唯一的支撑来自半导体板块过去一个月约6%的涨幅。与此同时，&lt;strong&gt;等权重标普500 ETF（RSP）与标普500指数的比率刚刚创下历史新低&lt;/strong&gt;，等权重标普500指数已连续第七周下跌，此前仅在2002年互联网泡沫破裂和2022年熊市中出现过两次。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-长期限美债缺乏买盘，债市反弹尚未到来
-&lt;p&gt;10年期美债收益率已升至5.34%，但这一水平仍未触发明显买盘。&lt;strong&gt;尽管从多个维度看，美债估值已具备一定吸引力，市场观望情绪依然占据主导。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Simon White的分析显示，以10年期美债收益率与美国名义GDP及10年期德债收益率均值进行比较，剔除疫情和全球金融危机两个特殊时期后，两者历史走势高度吻合，而当前美债收益率已明显高于这一均值。&lt;/p&gt;
-&lt;p&gt;同时，10年期收益率较由全球央行加息节奏、收益率曲线、油价及政策利率共同构建的公允价值模型高出逾60个基点，但外资和国内买盘均未明显入场。&lt;/p&gt;
-&lt;p&gt;股债相对价值同样释放出类似信号。以过去12个月每股收益收益率与10年期美债收益率之差衡量的股票风险溢价，已降至20多年来的最低水平，意味着股票相对债券的吸引力处于历史低位。即便以远期盈利计算，该指标也接近2025年的历史低点。&lt;/p&gt;
-&lt;p&gt;White指出，&lt;strong&gt;剔除期限溢价后的调整收益率能够提供更公平的比较，美债在这一口径下仍具备一定吸引力，但优势已经收窄。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-历史均值回归显示，超卖仍未到位
-&lt;p&gt;尽管上述估值指标指向美债相对低估，White采用的另一种更简洁的分析框架——美债年度总回报的历史均值回归——却给出了更审慎的信号。&lt;/p&gt;
-&lt;p&gt;该框架显示，美债年度回报长期围绕均值波动，并在下行阶段往往出现向均值下方的超调。当前，美债年度回报已回落至趋势均值附近，但历史数据表明，这一位置并不一定意味着底部已经出现。&lt;strong&gt;根据逾50年的历史数据，在过去六个月回报持续下行并回落至均值附近的情况下，约四分之三的案例显示，三个月后回报仍会进一步走低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;实际收益率的走势也支持这一判断。本轮名义收益率上行主要由实际收益率驱动，通胀盈亏平衡利率相对温和。&lt;strong&gt;White构建的10年期实际收益率领先指标，综合超额流动性、全球央行加息力度及美联储政策利率等因素，显示实际收益率仍有进一步上行空间。&lt;/strong&gt;该指标对实际收益率的领先周期约为三至四个月。&lt;/p&gt;
-财政压力与流动性风险不容忽视
-&lt;p&gt;潜在买家在入场前还需面对美国严峻的财政状况。&lt;/p&gt;
-&lt;p&gt;在主要新兴市场和发达经济体中，美国财政赤字占GDP比重位居全球前列，仅次于巴西、波兰、匈牙利和哥伦比亚。&lt;strong&gt;若剔除利息支出，美国基础财政赤字同样高居全球首位，与英国并列，财政压力不容忽视。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着收益率持续攀升，市场风险还可能形成自我强化。收益率上行会推高波动率，进而影响保证金要求和国债风险敞口限额，而历史上波动率上升往往伴随着国债市场流动性恶化。&lt;/p&gt;
-&lt;p&gt;White还指出，&lt;strong&gt;当10年期收益率持续维持在5.25%至5.50%以上时，美债与股票的相关性历史上往往转为持续正相关，从而进一步削弱美债作为投资组合对冲工具的需求。&lt;/strong&gt;&lt;/p&gt;
-政府干预预期升温，但难成买入理由
-&lt;p&gt;多重压力之下，市场对政策干预的预期也在升温。据悉，美国财政部本周聘请Jefferies首席市场策略师David Zervos担任顾问，此举或并非巧合。&lt;strong&gt;Zervos在接受采访时表示，财政部正在重新掌握债务期限管理的主动权，并强调“需要密切关注这一进程如何推进”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，White提示，政府干预预期虽然会增加做空风险，但不足以构成充分的买入理由。&lt;strong&gt;市场一旦形成对政府“兜底”的预期，便可能陷入既难做空、又难以放心做多的两难境地，投资者仍需保持警惕。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当前美债市场的核心矛盾在于：估值已经有所改善，但技术面、财政面和流动性层面的多重制约仍未消除，收益率是否已经接近真正的低点，仍有待进一步确认。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌面临逾32亿美元广告技术垄断索赔，出版商获准推进陪审团审判</title><link>https://wallstreetcn.com/articles/3782901</link><guid>849aa4431308a3d893b1efd14fe89a897b233879eae39a47edcf1bcf8ebc5206</guid><pubDate>Fri, 02 Oct 2026 00:10:22 GMT</pubDate><description>&lt;p&gt;谷歌在广告技术垄断诉讼中面临新的重大法律压力。纽约联邦法院裁定，多家大型出版商可就谷歌垄断广告技术市场造成的损害寻求逾32亿美元赔偿。&lt;/p&gt;
+&lt;p&gt;更值得警惕的信号是：&lt;strong&gt;过去18个交易日中，有17天标普500成分股中创52周新低的数量多于创新高的数量，这一现象已连续12天出现。&lt;/strong&gt;据彭博数据，此前每次出现类似情形，美股均处于抛售后的低点附近并随后走高——而这一次，标普500指数却高悬于历史高位附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;iCapital全球投资策略师Dan Suzuki表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“市场大多数板块距离高点至少下跌了5%，部分板块跌幅甚至超过15%，这在很大程度上与利率上升及随之而来的金融条件收紧有关。”&lt;/p&gt;
+&lt;/blockquote&gt;
+科技巨头撑起&amp;quot;空心&amp;quot;指数，市场广度创历史极值
+&lt;p&gt;标普500指数的稳健外表，几乎完全依赖少数几只人工智能相关科技巨头的强势表现。等权重标普500指数——对每只成分股赋予相同权重——正面临连续第七周收跌的局面。据彭博数据，这在历史上仅出现过两次：2002年互联网泡沫破裂后，以及2022年的熊市。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Tallbacken Capital Advisors首席执行官Michael Purves在研报中写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我们不认为当前扭曲的市场广度是看空标普500的理由，而是将其视为强劲牛市的一种体现，部分原因在于重大技术颠覆正在发生。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他对标普500的年末目标价为8500点，较当前水平意味着约11%的涨幅。&lt;/p&gt;
+&lt;p&gt;然而，这一乐观判断建立在AI叙事持续兑现的前提之上。The Wealth Alliance总裁兼董事总经理Eric Diton表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;股市目前尚能承受较高收益率——前提是经济和盈利增长保持强劲。但对股市最大的风险，是AI建设进程出现问题。一旦盈利预期遭到大幅下调，将引发更广泛的股市痛苦。&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+小盘股逼近回调区间，&amp;quot;僵尸企业&amp;quot;占比超三分之一
+&lt;p&gt;利率上升对小盘股的冲击尤为直接。罗素2000指数刚刚经历了自1999年以来相对标普500表现第二差的季度，跑输幅度接近10个百分点，并从8月14日的历史高点下跌8.5%，逼近技术性回调区间。&lt;/p&gt;
+&lt;p&gt;据彭博数据，罗素2000成分股中，&lt;strong&gt;所谓&amp;quot;僵尸股&amp;quot;——即难以或无法以经营利润覆盖债务利息的公司——占比超过三分之一&lt;/strong&gt;。这些企业在高利率环境下面临的偿债压力远超大型企业，一旦融资成本持续攀升，其生存空间将进一步压缩。&lt;/p&gt;
+&lt;p&gt;小盘股指数中金融和工业等周期性板块权重较高，而这些板块在当前环境下均承压，与标普500中科技股主导的结构形成鲜明对比。&lt;/p&gt;
+银行股跌入回调区间，AI竞争威胁加剧压力
+&lt;p&gt;尽管美国消费者支出依然旺盛、企业借贷活跃，银行股却未能受益。KBW纳斯达克银行指数——涵盖24家大型银行——从8月中旬高点下跌逾12%，陷入技术性回调，今年以来累计涨幅仅3.3%，远落后于标普500的12%涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Capital One Financial、富国银行和Huntington Bancshares是KBW指数今年表现最差的成员，年内分别下跌20%、14%和12%。&lt;/strong&gt;花旗集团周四盘中一度下跌4.6%，创7月以来最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;除利率和信贷压力外，Meta的Muse AI Agent也被认为对金融股构成新的威胁——该产品可能终结消费者将资金长期存放于低息活期账户的&amp;quot;惯性行为&amp;quot;，从而侵蚀银行的低成本资金来源。&lt;/p&gt;
+公用事业逼近熊市，&amp;quot;避险港湾&amp;quot;属性遭利率侵蚀
+&lt;p&gt;公用事业板块是此轮利率冲击中受损最深的领域之一。标普500公用事业板块自2月高点以来已累计下跌约17%，逼近熊市区间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高收益率从根本上削弱了公用事业股的吸引力：&lt;/strong&gt;当短期美债收益率大幅超越公用事业股的股息率时，后者作为&amp;quot;稳定收益替代品&amp;quot;的逻辑便难以成立。第三季度，电力公司和电力公用事业子行业均下跌逾10%，是整个板块中跌幅最大的细分领域，仅Constellation Energy和AES两家公司录得正收益。&lt;/p&gt;
+&lt;p&gt;与此同时，利率急升也推高了可再生能源转型的融资成本，进一步压制了该板块的长期投资逻辑。&lt;/p&gt;
+高风险资产全面退潮，AI叙事成最后防线
+&lt;p&gt;&lt;strong&gt;市场最投机性的角落同样难逃压力。&lt;/strong&gt;据彭博数据，高盛追踪的一篮子亏损科技公司——包括Roku和Peloton Interactive等——第三季度下跌11%，创2014年有记录以来第二差的三季度表现。&lt;/p&gt;
+&lt;p&gt;高盛与彭博数据显示，资产负债表最为脆弱、债务负担最重的公司，三季度仅上涨1.9%，为2022年初美联储开启本轮加息周期以来最小的季度涨幅。&lt;/p&gt;
+&lt;p&gt;Wealth Consulting Group首席执行官Jimmy Lee表示，他正趁估值回落买入金融和工业股，并认为债券收益率的飙升不会失控。但他同时警告：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;标普500最大的风险，是AI交易意外瓦解。&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;当前市场的脆弱性在于，支撑指数的核心逻辑高度集中——一旦AI盈利预期出现裂缝，被科技巨头光环所掩盖的大面积损伤，将以更猛烈的方式浮出水面。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌面临逾32亿美元广告技术垄断索赔，出版商获准推进陪审团审判</title><link>https://wallstreetcn.com/articles/3782901</link><guid>849aa4431308a3d893b1efd14fe89a897b233879eae39a47edcf1bcf8ebc5206</guid><pubDate>Fri, 02 Oct 2026 00:10:22 GMT</pubDate><description>&lt;p&gt;谷歌在广告技术垄断诉讼中面临新的重大法律压力。纽约联邦法院裁定，多家大型出版商可就谷歌垄断广告技术市场造成的损害寻求逾32亿美元赔偿。&lt;/p&gt;
 &lt;p&gt;据彭博报道，曼哈顿联邦地区法官P. Kevin Castel于周三晚间发布裁决意见，&lt;strong&gt;允许针对谷歌AdX广告交易平台相关行为的陪审团审判程序向前推进。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其中，&lt;strong&gt;约5000家出版商组成的集体诉讼方可寻求约17亿美元赔偿；《今日美国》母公司USA Today Co.与英国Daily Mail General and Trust Plc则分别获准独立追索约9亿美元和6亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此案与美国司法部此前在弗吉尼亚州对谷歌提起的广告技术垄断诉讼高度相关。弗吉尼亚州联邦法院上月已裁定谷歌非法垄断两个广告技术市场，并要求其开放相关工具与竞争对手互通，但未下令拆分业务。&lt;/p&gt;
@@ -423,4 +424,4 @@ Jordan品牌供给过剩，复古鞋款策略亟待重塑
 
 &lt;p&gt;美国司法部及多个州于2023年对谷歌提起诉讼，指控其非法垄断用于购买、销售和投放网络展示广告的多个广告技术领域。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;弗吉尼亚州联邦法院的裁决已在事实认定层面确立谷歌存在垄断行为，纽约的平行诉讼则在此基础上进一步追究经济赔偿责任。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Castel法官尚未确定庭审日期。此案案号为In re: Google Digital Advertising Antitrust Litigation，21-md-3010，由纽约南区联邦地区法院管辖。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;目前，Castel法官尚未确定庭审日期。此案案号为In re: Google Digital Advertising Antitrust Litigation，21-md-3010，由纽约南区联邦地区法院管辖。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 一瓶酒，两种价格—— 茅台的溢价、终局与回报</title><link>http://xueqiu.com/1835829265/411134956</link><guid>c3fceb3fc8559ca4cb010fe0fd4007dbd909e87044ff8d71060b6a2efcc824fe</guid><pubDate>Fri, 02 Oct 2026 04:50:53 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;狸哥很懒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH600519"&gt;$贵州茅台(SH600519)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000858"&gt;$五粮液(SZ000858)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; 这是发布在substack的专栏NickFox，欢迎可以登陆的朋友订阅获得更新。价格有一些变化，后继发展不会在这里继续更新。&lt;a href="https://substack.com/@nickfox11"&gt;尼克福克斯&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
