@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 15:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 16:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
 &lt;p&gt;美东时间10月2日周五，英伟达宣布推出64GB统一内存版本的桌面AI计算机DGX Spark，起售价4999美元，将于10月23日由宏碁、华硕、戴尔、技嘉、惠普和微星等OEM厂商推向市场。新机保留GB10 Grace Blackwell超级芯片、DGX OS、完整的英伟达AI软件栈以及ConnectX-7网络能力，但统一内存从现有的128GB降至64GB。&lt;/p&gt;
 &lt;p&gt;耐人寻味的是，这款“缩水版”DGX Spark的起售价，反而高于去年128GB版本3999美元的首发价；与此同时，英伟达还将128GB Founders Edition的价格进一步上调至6950美元。媒体指出，英伟达将此次涨价归因于内存供应受限和成本上升。&lt;/p&gt;
 &lt;p&gt;这意味着，在AI服务器需求持续挤压内存供应的背景下，&lt;strong&gt;“少给内存”已经成为降低本地AI设备价格门槛的一种办法，但并不意味着设备本身真的变便宜了。&lt;/strong&gt;&lt;/p&gt;
@@ -35,27 +35,7 @@
 &lt;p&gt;从产品策略看，英伟达此次并不是简单地把DGX Spark做成一个“低配版”。&lt;/p&gt;
 &lt;p&gt;过去，DGX Spark的核心卖点之一是128GB统一内存，让开发者能够在桌面设备上运行大参数模型；如今随着模型压缩和量化技术进步，一部分模型已经不再需要如此大的内存容量。&lt;/p&gt;
 &lt;p&gt;因此，英伟达给出的方案变成了：&lt;strong&gt;64GB单机满足主流本地AI推理，内存需求进一步增加时，再通过多机集群扩展。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;64GB版本将于10月23日正式上市，起售价4999美元。与此同时，128GB版本涨价至6950美元，也让此次新品显得格外特殊——它既是英伟达降低本地AI硬件门槛的尝试，也是当前AI产业“算力需求旺盛、内存供应趋紧”矛盾的一面镜子。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 哈塞特：非农报告“符合预期”，霍尔木兹已开放，特朗普认真对待赤字问题</title><link>https://wallstreetcn.com/articles/3782941</link><guid>bd193c2236c881fe33d207b766785c23d25058bdf2bded0fb147079118163266</guid><pubDate>Fri, 02 Oct 2026 15:35:12 GMT</pubDate><description>&lt;p&gt;白宫国家经济委员会主任哈塞特周五就一系列经济议题密集表态，为最新非农就业报告辩护，并披露能源领域新动向，称海军已开放霍尔木兹海峡、原油正常通行，且下周将有更多能源方面的公告发布。&lt;/p&gt;
-&lt;p&gt;哈塞特表示，对这份就业报告&amp;quot;并不失望&amp;quot;，强调政府部门就业人数下降，而其他行业都在上升，&amp;quot;我们的政策正在发挥作用&amp;quot;。&lt;/p&gt;
-&lt;p&gt;他同时透露，白宫正就柴油供应问题与欧洲方面进行沟通，若欧洲释放战略储备，将产生&amp;quot;巨大影响&amp;quot;，并称希望&amp;quot;很快&amp;quot;能有相关消息。&lt;/p&gt;
-&lt;p&gt;在利率与债务问题上，哈塞特承认当前利息支出水平&amp;quot;高得令人无法接受&amp;quot;，但强调白宫尊重美联储独立性，特朗普总统&amp;quot;认真对待削减赤字问题&amp;quot;，并明确表示&amp;quot;不想通过通货膨胀来摆脱债务&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782938"&gt;美国劳工部周五公布数据显示&lt;/a&gt;，9月非农就业人数仅增加2.9万，远低于市场预期的9万，且低于所有预测区间下限。失业率从8月的4.1%小幅升至4.2%。&lt;/p&gt;
-
-就业数据&amp;quot;符合预期&amp;quot;
-
-&lt;p&gt;哈塞特为最新非农数据作出积极定性，称这份报告&amp;quot;符合预期&amp;quot;，并从结构上加以诠释：政府就业人数下降，其他行业都在上升，&amp;quot;我们的政策正在发挥作用&amp;quot;。&lt;/p&gt;
-&lt;p&gt;他还称，当前经济增速&amp;quot;仍然徘徊在4%左右&amp;quot;，整体基本面稳健。&lt;/p&gt;
-&lt;p&gt;他进一步指出，消费者信心数据强劲，预计将迎来&amp;quot;一个强劲的假日季&amp;quot;。住房数据走强，哈塞特将其归因于经济整体强劲，并表示白宫&amp;quot;希望抵押贷款利率下降&amp;quot;。&lt;/p&gt;
-
-霍尔木兹海峡开放，能源公告下周发布
-
-&lt;p&gt;哈塞特在能源议题上发表了较为具体的表态。他称美国海军已开放霍尔木兹海峡，原油正通过该海峡正常运输。&lt;/p&gt;
-&lt;p&gt;与此同时，他透露白宫正与欧洲方面就柴油问题保持沟通，欧洲若释放储备将产生&amp;quot;巨大影响&amp;quot;，并称希望很快能有消息落地。&lt;/p&gt;
-&lt;p&gt;他还预告下周将有更多能源领域公告发布，但未透露具体内容。&lt;/p&gt;
-收益率、债务与美联储独立性
-&lt;p&gt;面对国债收益率走高的市场压力，哈塞特将其解释为经济强劲所驱动，而非财政风险溢价上升的信号。他表示，&amp;quot;强劲的经济推动收益率上升&amp;quot;。&lt;/p&gt;
-&lt;p&gt;在财政纪律问题上，他措辞较为直接，称当前利息支出水平&amp;quot;高得令人无法接受&amp;quot;，并强调特朗普总统&amp;quot;认真对待削减赤字问题&amp;quot;，同时明确排除通过通胀稀释债务的路径。&lt;/p&gt;
-&lt;p&gt;在美联储问题上，哈塞特提及美联储主席沃什&amp;quot;展现出对供给与需求冲击的理解&amp;quot;，并称沃什将需要应对鲍威尔任期留下的局面，&amp;quot;这很不寻常&amp;quot;。他同时强调，&amp;quot;鲍威尔的事，白宫说了不算&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 核心通胀2.8%粘性未消、出口1209亿美元创纪录，韩国央行11月加息预期升温</title><link>https://wallstreetcn.com/articles/3782923</link><guid>5369af636d97f4368a3c0ba9b719ac9e4a7b83485a0181ce5cc685c0c1184c2f</guid><pubDate>Fri, 02 Oct 2026 06:35:18 GMT</pubDate><description>&lt;p&gt;韩国9月整体通胀如期回落，但剔除食品与能源后的核心通胀仍显粘性，叠加半导体驱动的出口单月创下历史新高，强化了市场对韩国央行11月恢复加息的预期。&lt;/p&gt;
+&lt;p&gt;64GB版本将于10月23日正式上市，起售价4999美元。与此同时，128GB版本涨价至6950美元，也让此次新品显得格外特殊——它既是英伟达降低本地AI硬件门槛的尝试，也是当前AI产业“算力需求旺盛、内存供应趋紧”矛盾的一面镜子。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 核心通胀2.8%粘性未消、出口1209亿美元创纪录，韩国央行11月加息预期升温</title><link>https://wallstreetcn.com/articles/3782923</link><guid>5369af636d97f4368a3c0ba9b719ac9e4a7b83485a0181ce5cc685c0c1184c2f</guid><pubDate>Fri, 02 Oct 2026 06:35:18 GMT</pubDate><description>&lt;p&gt;韩国9月整体通胀如期回落，但剔除食品与能源后的核心通胀仍显粘性，叠加半导体驱动的出口单月创下历史新高，强化了市场对韩国央行11月恢复加息的预期。&lt;/p&gt;
 &lt;p&gt;周五（10月2日），韩国数据与统计部公布的数据显示，&lt;strong&gt;9月消费者价格指数（CPI）同比上涨2.9%，较8月的3.1%回落&lt;/strong&gt;，符合经济学家2.9%的中值预期；核心通胀录得2.8%，较8月的3.4%明显下降，但仍运行在2%区间的中高位，表明潜在价格压力并未随能源成本回落而同步消退。&lt;/p&gt;
 &lt;p&gt;与此同时，同日公布的贸易数据显示，&lt;strong&gt;9月出口同比增长逾一倍至1209亿美元，创历史新高；其中半导体出口激增263%至603亿美元，同样刷新纪录&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;分析认为，这一组合为韩国央行提供了继续加息而不伤及增长的政策空间。多名经济学家据此预期，&lt;strong&gt;韩国央行将在10月会议暂停、评估连续两次加息的影响，随后在11月恢复加息。&lt;/strong&gt;&lt;/p&gt;
@@ -95,7 +75,27 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;消息面上，问界汽车10月1日公告，华为与赛力斯达成新五年合作，共同升级问界业务。随后，#华为赛力斯复合#相关话题一度冲上热搜第一。&lt;/p&gt;
 &lt;p&gt;根据公告，9月30日，鸿蒙智行问界业务升级战略合作签约仪式在深圳举行。华为常务董事、产品投资评审委员会主任、终端BG董事长余承东，赛力斯集团董事长（创始人）张兴海等出席签约仪式。&lt;/p&gt;
-&lt;p&gt;问界用户已经突破120万，正迈向品牌成长新阶段。华为与赛力斯表示，面向新五年，双方将持续锚定问界高端智能汽车品牌核心定位，联合组建问界业务专属团队，进一步升级问界业务，以专属专营更好地服务问界用户，持续推动问界新豪华品牌向上。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 9月新增就业料降至9万：今夜非农真正的“炸点”，或在8月数据是否大幅下修</title><link>https://wallstreetcn.com/articles/3782927</link><guid>576d4f5c2acb393344766254044ace610d6416e6c1487e2007bfc00b1f312c7d</guid><pubDate>Fri, 02 Oct 2026 09:54:15 GMT</pubDate><description>&lt;p&gt;美国9月非农就业报告将于周五（10月2日）公布，这是10月28日美联储议息会议前最后一份就业数据，市场对其影响力的定价却降至近期低点——而&lt;strong&gt;历史经验表明，市场最不在意的时候，往往是数据最能搅动市场的时候。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;问界用户已经突破120万，正迈向品牌成长新阶段。华为与赛力斯表示，面向新五年，双方将持续锚定问界高端智能汽车品牌核心定位，联合组建问界业务专属团队，进一步升级问界业务，以专属专营更好地服务问界用户，持续推动问界新豪华品牌向上。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 哈塞特：非农报告“符合预期”，霍尔木兹已开放，特朗普认真对待赤字问题</title><link>https://wallstreetcn.com/articles/3782941</link><guid>bd193c2236c881fe33d207b766785c23d25058bdf2bded0fb147079118163266</guid><pubDate>Fri, 02 Oct 2026 15:35:12 GMT</pubDate><description>&lt;p&gt;白宫国家经济委员会主任哈塞特周五就一系列经济议题密集表态，为最新非农就业报告辩护，并披露能源领域新动向，称海军已开放霍尔木兹海峡、原油正常通行，且下周将有更多能源方面的公告发布。&lt;/p&gt;
+&lt;p&gt;哈塞特表示，对这份就业报告&amp;quot;并不失望&amp;quot;，强调政府部门就业人数下降，而其他行业都在上升，&amp;quot;我们的政策正在发挥作用&amp;quot;。&lt;/p&gt;
+&lt;p&gt;他同时透露，白宫正就柴油供应问题与欧洲方面进行沟通，若欧洲释放战略储备，将产生&amp;quot;巨大影响&amp;quot;，并称希望&amp;quot;很快&amp;quot;能有相关消息。&lt;/p&gt;
+&lt;p&gt;在利率与债务问题上，哈塞特承认当前利息支出水平&amp;quot;高得令人无法接受&amp;quot;，但强调白宫尊重美联储独立性，特朗普总统&amp;quot;认真对待削减赤字问题&amp;quot;，并明确表示&amp;quot;不想通过通货膨胀来摆脱债务&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782938"&gt;美国劳工部周五公布数据显示&lt;/a&gt;，9月非农就业人数仅增加2.9万，远低于市场预期的9万，且低于所有预测区间下限。失业率从8月的4.1%小幅升至4.2%。&lt;/p&gt;
+
+就业数据&amp;quot;符合预期&amp;quot;
+
+&lt;p&gt;哈塞特为最新非农数据作出积极定性，称这份报告&amp;quot;符合预期&amp;quot;，并从结构上加以诠释：政府就业人数下降，其他行业都在上升，&amp;quot;我们的政策正在发挥作用&amp;quot;。&lt;/p&gt;
+&lt;p&gt;他还称，当前经济增速&amp;quot;仍然徘徊在4%左右&amp;quot;，整体基本面稳健。&lt;/p&gt;
+&lt;p&gt;他进一步指出，消费者信心数据强劲，预计将迎来&amp;quot;一个强劲的假日季&amp;quot;。住房数据走强，哈塞特将其归因于经济整体强劲，并表示白宫&amp;quot;希望抵押贷款利率下降&amp;quot;。&lt;/p&gt;
+
+霍尔木兹海峡开放，能源公告下周发布
+
+&lt;p&gt;哈塞特在能源议题上发表了较为具体的表态。他称美国海军已开放霍尔木兹海峡，原油正通过该海峡正常运输。&lt;/p&gt;
+&lt;p&gt;与此同时，他透露白宫正与欧洲方面就柴油问题保持沟通，欧洲若释放储备将产生&amp;quot;巨大影响&amp;quot;，并称希望很快能有消息落地。&lt;/p&gt;
+&lt;p&gt;他还预告下周将有更多能源领域公告发布，但未透露具体内容。&lt;/p&gt;
+收益率、债务与美联储独立性
+&lt;p&gt;面对国债收益率走高的市场压力，哈塞特将其解释为经济强劲所驱动，而非财政风险溢价上升的信号。他表示，&amp;quot;强劲的经济推动收益率上升&amp;quot;。&lt;/p&gt;
+&lt;p&gt;在财政纪律问题上，他措辞较为直接，称当前利息支出水平&amp;quot;高得令人无法接受&amp;quot;，并强调特朗普总统&amp;quot;认真对待削减赤字问题&amp;quot;，同时明确排除通过通胀稀释债务的路径。&lt;/p&gt;
+&lt;p&gt;在美联储问题上，哈塞特提及美联储主席沃什&amp;quot;展现出对供给与需求冲击的理解&amp;quot;，并称沃什将需要应对鲍威尔任期留下的局面，&amp;quot;这很不寻常&amp;quot;。他同时强调，&amp;quot;鲍威尔的事，白宫说了不算&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 9月新增就业料降至9万：今夜非农真正的“炸点”，或在8月数据是否大幅下修</title><link>https://wallstreetcn.com/articles/3782927</link><guid>576d4f5c2acb393344766254044ace610d6416e6c1487e2007bfc00b1f312c7d</guid><pubDate>Fri, 02 Oct 2026 09:54:15 GMT</pubDate><description>&lt;p&gt;美国9月非农就业报告将于周五（10月2日）公布，这是10月28日美联储议息会议前最后一份就业数据，市场对其影响力的定价却降至近期低点——而&lt;strong&gt;历史经验表明，市场最不在意的时候，往往是数据最能搅动市场的时候。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;华尔街中位数预期为新增就业9万人，较8月的16.2万大幅回落。&lt;strong&gt;市场高度关注8月数据是否会被大幅下修，&lt;/strong&gt;因异常的季节性调整此前显著夸大了整体就业表现，这使得9月的数据面临极大的基数效应不确定性。&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;美联储政策预期在过去一周已发生剧烈转向：&lt;/strong&gt;本周一市场对10月加息的定价约为70%，但在纽约联储主席威廉姆斯表态&amp;quot;不急于加息&amp;quot;、8月核心PCE温和落地后，至周四收盘，10月加息概率已跌至约25%，高盛将下次加息预期推迟至12月。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -205,40 +205,26 @@
 &lt;p&gt;美光披露在中国台湾桃园、台中、铜锣、台南四大制造基地同步扩产HBM，董慧璐确认AI是这轮扩产的核心驱动力。公司未披露各基地的具体扩产规模与投产时间。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;中国台湾是美光HBM产能扩张的重要支点。&lt;/strong&gt;此前业内信息显示，美光计划在年底前将HBM月产能提升至约10万片晶圆，较去年接近翻倍，其中HBM封装业务主要在中国台湾铜锣厂推进。四大基地同步动作，显示美光正把台湾打造为HBM产能扩张的核心基地。&lt;/p&gt;
 &lt;p&gt;在HBM市场，美光长期位居第三。据市场研究机构Counterpoint Research数据，今年第二季度全球HBM市场份额中，SK海力士以50%居首，三星电子占32%，美光占18%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨</title><link>https://wallstreetcn.com/articles/3782938</link><guid>9651fcdc106e5999182d0e89ca6cf9321f2d7a47dfaa9ece62efc6526de1a846</guid><pubDate>Fri, 02 Oct 2026 13:24:40 GMT</pubDate><description>&lt;p&gt;美国劳动力市场意外降温，令美债收益率下行、美股期货走高，并进一步削弱了市场对美联储10月加息的预期。&lt;/p&gt;
-&lt;p&gt;美国劳工部周五公布数据显示，&lt;strong&gt;9月非农就业人数仅增加2.9万，远低于市场预期的9万，且低于所有预测区间下限。失业率从8月的4.1%小幅升至4.2%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;受此数据影响，&lt;strong&gt;美国国债收益率全线下行，美股期货走强，利率市场对美联储10月加息的定价大幅回落。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;芝商所FedWatch工具显示，数据公布后交易员对美联储10月会议加息的概率预期从此前的22%降至17%，年内剩余两次会议的累计加息溢价降至约21个基点。&lt;/p&gt;
-&lt;p&gt;两年期美国国债收益率单日下行约10个基点，触及4.69%。标普500指数期货上涨0.8%，纳斯达克100指数期货涨幅达1.1%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：美伊冲突打乱OPEC+扩产节奏，产能审查推迟至11月中旬</title><link>https://wallstreetcn.com/articles/3782943</link><guid>e538569a1727e654378da73c2fea138d4889a71849dfc6ccaeda6734a40a8499</guid><pubDate>Fri, 02 Oct 2026 16:27:56 GMT</pubDate><description>&lt;p&gt;OPEC+的产能审查工作遭遇延误，&lt;strong&gt;原因是美以对伊朗的战争打乱了中东地区多个扩产项目的推进计划，令各成员国未来产量潜力的估算陷入不确定性。&lt;/strong&gt;这一延误将直接影响该联盟2027年石油产量配额的制定进程。&lt;/p&gt;
+&lt;p&gt;据路透援引两位知情人士透露，&lt;strong&gt;此次产能审查的完成期限已由原定的2026年9月底推迟至11月中旬。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，负责为除俄罗斯、伊朗和委内瑞拉以外的OPEC+成员国进行产能估算的美国石油咨询机构DeGolyer and MacNaughton，预计将于11月中旬方可向OPEC提交报告。&lt;strong&gt;上述时间节点仍在理论上允许OPEC+在11月下旬的全体会议上讨论相关结果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次延误令OPEC+内部本已政治敏感的配额谈判愈加复杂。&lt;strong&gt;独立产能评估结果将直接左右各成员国获准的产量上限，部分成员国已就配额问题产生明显分歧&lt;/strong&gt;，联盟稳定性面临压力。&lt;/p&gt;
+&lt;p&gt;周五，&lt;a href="https://wallstreetcn.com/articles/3782940"&gt;G7决定释放1亿桶紧急油储，前20天先大规模投放柴油&lt;/a&gt;，美油一度跌超5%，后有所反弹，截至发稿跌3.33%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
-日历效应或是主因，就业市场未见实质性恶化
+战争扰乱扩产计划，产能数据缺口待补
 
-&lt;p&gt;经济学家普遍认为，9月就业数据的异常疲软很可能主要源于季节性调整因素失真，而非劳动力市场的实质性转向。&lt;/p&gt;
-&lt;p&gt;据路透，&lt;strong&gt;今年劳动节假期落在月末，这一情形历史上往往导致非农就业数据偏低。与此同时，政府采用的季节性调整模型被认为既压低了9月的就业增量，也导致8月数据遭下调至13.3万——低于此前公布的16.2万。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;9月就业预测值的分布区间为3.5万至18万，离散度本身也反映出分析师对数据扰动的预判。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当前就业市场的基本面仍具韧性。首次申请失业救济人数持续徘徊在57年来的低点，企业利润稳健，国内需求表现强劲，尚无大规模裁员迹象。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中东冲突已导致原定提升部分OPEC+国家产能的项目出现延迟，使外界难以准确评估这些国家的实际产油能力。此外，并非所有成员国均已提交审查所需的数据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OPEC+早在2025年底便已启动这一审查程序，要求对全体成员国进行产能盘点，作为制定2027年产量基准的依据。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该联盟在今年6月的全体会议上重申了完成最大可持续产能（MSC）评估的重要性，明确将其作为2027年产量基准的参考依据。&lt;/p&gt;
+&lt;p&gt;俄罗斯副总理Alexander Novak周五经俄罗斯国家通讯社塔斯社援引表示，OPEC+各国正持续评估最大产能水平，但未就延误问题作出进一步说明。&lt;/p&gt;
 
-就业结构分化，部分行业仍在扩张
+产能评估结果直接牵动配额分配
 
-&lt;p&gt;从行业构成看，9月就业的疲软主要由政府部门、信息业、专业和商业服务业以及金融活动等领域的就业减少所拖累。&lt;/p&gt;
-&lt;p&gt;与此同时，医疗保健、建筑和制造业仍实现了就业净增长，显示部分实体经济领域的用工需求依然稳定。&lt;/p&gt;
-&lt;p&gt;据彭博，&lt;strong&gt;失业率上升至4.2%，部分原因在于劳动力队伍的自然扩张。经济学家估计，当前经济每月需新增5万至8万个就业岗位，才能跟上劳动年龄人口增长的步伐。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;退休潮持续以及特朗普政府对移民的严格管控压缩了劳动力供给，客观上对失业率上升形成了一定支撑。&lt;/p&gt;
-
-战争、能源价格与关税构成后续隐患
-
-&lt;p&gt;经济学家对未来数季度的前景仍持审慎态度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美国与以色列对伊朗的战争带来的能源价格上涨和供应链紧张，预计将在今年年底至2027年期间开始对就业市场形成实质性冲击。&lt;/strong&gt;柴油价格已创历史新高，潜在的传导压力正逐步向交通运输和农业以外的行业扩散。&lt;/p&gt;
-&lt;p&gt;此外，持续的关税摩擦亦令企业感到忧虑。供应管理协会（ISM）周四公布的调查显示，制造商对与加拿大贸易争端的担忧情绪持续升温，这可能进一步抑制企业的扩产和招聘意愿。&lt;/p&gt;
-
-通胀数据走软叠加就业降温，加息预期再度承压
-
-&lt;p&gt;就业数据公布前，美联储于上月将基准隔夜利率上调25个基点至3.75%至4.00%区间，为三年来首次加息，并释放了进一步收紧的信号。&lt;/p&gt;
-&lt;p&gt;然而，7月和8月通胀数据相继低于预期，已令10月再度加息的概率有所回落。&lt;/p&gt;
-&lt;p&gt;本周，&lt;a href="https://wallstreetcn.com/articles/3782895?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;包括美联储副主席杰斐逊和纽约联储主席威廉姆斯在内的多位美联储官员&lt;/a&gt;，已经开始淡化部分市场预期。他们表示，在采取下一步行动之前，官员们可以等待并观察经济数据。&lt;/p&gt;
-&lt;p&gt;与此同时，达拉斯联储主席洛丽·洛根表示，为遏制通胀，美联储仍有必要进一步加息，但美国国债收益率处于高位也可能有助于放缓经济。&lt;/p&gt;
-&lt;p&gt;芝商所FedWatch工具显示，就业报告发布前，市场对美联储10月27日至28日会议加息的定价约为22%，较一周前的约69%大幅下降。9月就业数据公布后，这一概率进一步降至17%左右，市场对年内完成一次加息的预期也已不再完全定价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次审查的核心目的，在于为各成员国可持续产油能力提供独立的更新评估，这一数据是历次产量目标谈判的关键参考指标。若扩产计划因战争受阻，则相关国家的产能评估基础将随之动摇，进而影响其未来配额水平。&lt;/p&gt;
+&lt;p&gt;产能评估结果对成员国的利益影响直接而显著：&lt;strong&gt;被评定产能偏低的国家可能面临配额下调压力，而已成功扩大产能的生产国则会寻求争取更高的产量分配。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一逻辑已在近期联盟动态中得到印证。阿联酋此前长期以产能提升为由，要求OPEC+上调其产量配额，在诉求未获充分满足后于今年5月退出了该联盟。&lt;/p&gt;
+&lt;p&gt;据此前报道，伊拉克同样寻求更高配额，并已考虑退出OPEC。当前产能审查的延误与不确定性，使上述紧张态势进一步升温，OPEC+内部的凝聚力面临新的考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在彭博社10月2日首播的《Power On》播客节目中，资深苹果科技记者古尔曼（Mark Gurman）与彭博科技编辑Vlad Savov围绕苹果即将到来的秋季新品发布会进行了深度对话。节目不仅曝光了苹果在智能家居领域的庞大野心和首款触屏MacBook Pro的细节，还对最新发布的iPhone 18系列及新任CEO 特努斯（John Ternus）面临的战略挑战进行了犀利点评。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;（左：古尔曼；右：Vlad Savov）&lt;/p&gt;
@@ -315,7 +301,40 @@ iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
 &lt;p&gt;彭博美元即期指数周五小幅下跌0.1%，但美元仍延续自去年1月以来最长的周度连涨势头。欧元结束四连跌，小幅回升0.1%至1.1256美元；英镑基本持平于1.3210美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;日元小幅走强0.3%。东京核心通胀数据上行，强化了日本银行继续推进加息的预期，为日元提供一定支撑，但升幅有限。&lt;/p&gt;
-&lt;p&gt;Natixis IM的Mabrouk Chetouane表示，投资者正将强劲数据视为利好信号和三季度盈利的积极前兆，&lt;strong&gt;&amp;quot;市场正在据此对经济增长和美联储加息路径进行定价。&amp;quot;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] G7决定释放1亿桶紧急油储，前20天先大规模投放柴油，美油一度跌超5%</title><link>https://wallstreetcn.com/articles/3782940</link><guid>a9df5fadf45ba1ab2a0c6bc10c5267fff4d39f1c2232d9cfa71e4d24d7866991</guid><pubDate>Fri, 02 Oct 2026 14:09:12 GMT</pubDate><description>&lt;p&gt;在国际能源市场供应紧张、柴油价格持续高企之际，七国集团（G7）终于祭出大规模战略储备释放措施。&lt;/p&gt;
+&lt;p&gt;Natixis IM的Mabrouk Chetouane表示，投资者正将强劲数据视为利好信号和三季度盈利的积极前兆，&lt;strong&gt;&amp;quot;市场正在据此对经济增长和美联储加息路径进行定价。&amp;quot;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨</title><link>https://wallstreetcn.com/articles/3782938</link><guid>9651fcdc106e5999182d0e89ca6cf9321f2d7a47dfaa9ece62efc6526de1a846</guid><pubDate>Fri, 02 Oct 2026 13:24:40 GMT</pubDate><description>&lt;p&gt;美国劳动力市场意外降温，令美债收益率下行、美股期货走高，并进一步削弱了市场对美联储10月加息的预期。&lt;/p&gt;
+&lt;p&gt;美国劳工部周五公布数据显示，&lt;strong&gt;9月非农就业人数仅增加2.9万，远低于市场预期的9万，且低于所有预测区间下限。失业率从8月的4.1%小幅升至4.2%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;受此数据影响，&lt;strong&gt;美国国债收益率全线下行，美股期货走强，利率市场对美联储10月加息的定价大幅回落。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;芝商所FedWatch工具显示，数据公布后交易员对美联储10月会议加息的概率预期从此前的22%降至17%，年内剩余两次会议的累计加息溢价降至约21个基点。&lt;/p&gt;
+&lt;p&gt;两年期美国国债收益率单日下行约10个基点，触及4.69%。标普500指数期货上涨0.8%，纳斯达克100指数期货涨幅达1.1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+日历效应或是主因，就业市场未见实质性恶化
+
+&lt;p&gt;经济学家普遍认为，9月就业数据的异常疲软很可能主要源于季节性调整因素失真，而非劳动力市场的实质性转向。&lt;/p&gt;
+&lt;p&gt;据路透，&lt;strong&gt;今年劳动节假期落在月末，这一情形历史上往往导致非农就业数据偏低。与此同时，政府采用的季节性调整模型被认为既压低了9月的就业增量，也导致8月数据遭下调至13.3万——低于此前公布的16.2万。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9月就业预测值的分布区间为3.5万至18万，离散度本身也反映出分析师对数据扰动的预判。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当前就业市场的基本面仍具韧性。首次申请失业救济人数持续徘徊在57年来的低点，企业利润稳健，国内需求表现强劲，尚无大规模裁员迹象。&lt;/strong&gt;&lt;/p&gt;
+
+就业结构分化，部分行业仍在扩张
+
+&lt;p&gt;从行业构成看，9月就业的疲软主要由政府部门、信息业、专业和商业服务业以及金融活动等领域的就业减少所拖累。&lt;/p&gt;
+&lt;p&gt;与此同时，医疗保健、建筑和制造业仍实现了就业净增长，显示部分实体经济领域的用工需求依然稳定。&lt;/p&gt;
+&lt;p&gt;据彭博，&lt;strong&gt;失业率上升至4.2%，部分原因在于劳动力队伍的自然扩张。经济学家估计，当前经济每月需新增5万至8万个就业岗位，才能跟上劳动年龄人口增长的步伐。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;退休潮持续以及特朗普政府对移民的严格管控压缩了劳动力供给，客观上对失业率上升形成了一定支撑。&lt;/p&gt;
+
+战争、能源价格与关税构成后续隐患
+
+&lt;p&gt;经济学家对未来数季度的前景仍持审慎态度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国与以色列对伊朗的战争带来的能源价格上涨和供应链紧张，预计将在今年年底至2027年期间开始对就业市场形成实质性冲击。&lt;/strong&gt;柴油价格已创历史新高，潜在的传导压力正逐步向交通运输和农业以外的行业扩散。&lt;/p&gt;
+&lt;p&gt;此外，持续的关税摩擦亦令企业感到忧虑。供应管理协会（ISM）周四公布的调查显示，制造商对与加拿大贸易争端的担忧情绪持续升温，这可能进一步抑制企业的扩产和招聘意愿。&lt;/p&gt;
+
+通胀数据走软叠加就业降温，加息预期再度承压
+
+&lt;p&gt;就业数据公布前，美联储于上月将基准隔夜利率上调25个基点至3.75%至4.00%区间，为三年来首次加息，并释放了进一步收紧的信号。&lt;/p&gt;
+&lt;p&gt;然而，7月和8月通胀数据相继低于预期，已令10月再度加息的概率有所回落。&lt;/p&gt;
+&lt;p&gt;本周，&lt;a href="https://wallstreetcn.com/articles/3782895?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"&gt;包括美联储副主席杰斐逊和纽约联储主席威廉姆斯在内的多位美联储官员&lt;/a&gt;，已经开始淡化部分市场预期。他们表示，在采取下一步行动之前，官员们可以等待并观察经济数据。&lt;/p&gt;
+&lt;p&gt;与此同时，达拉斯联储主席洛丽·洛根表示，为遏制通胀，美联储仍有必要进一步加息，但美国国债收益率处于高位也可能有助于放缓经济。&lt;/p&gt;
+&lt;p&gt;芝商所FedWatch工具显示，就业报告发布前，市场对美联储10月27日至28日会议加息的定价约为22%，较一周前的约69%大幅下降。9月就业数据公布后，这一概率进一步降至17%左右，市场对年内完成一次加息的预期也已不再完全定价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] G7决定释放1亿桶紧急油储，前20天先大规模投放柴油，美油一度跌超5%</title><link>https://wallstreetcn.com/articles/3782940</link><guid>a9df5fadf45ba1ab2a0c6bc10c5267fff4d39f1c2232d9cfa71e4d24d7866991</guid><pubDate>Fri, 02 Oct 2026 14:09:12 GMT</pubDate><description>&lt;p&gt;在国际能源市场供应紧张、柴油价格持续高企之际，七国集团（G7）终于祭出大规模战略储备释放措施。&lt;/p&gt;
 &lt;p&gt;当地时间10月2日周五，法国总统府发布的G7领导人声明称，G7将通过国际能源署（IEA）协调释放1亿桶石油战略储备，行动将“立即”开始，并持续4个月；这期间，G7成员国及合作伙伴将在最初20天内率先大规模释放柴油储备。G7同时承诺，避免在成员国之间实施能源及能源产品出口限制，并呼吁其他产油国不要采取可能进一步加剧市场紧张的出口禁令。&lt;/p&gt;
 &lt;p&gt;以上G7决定公布后，周五美股早盘时段，国际原油期货跌幅明显扩大。周五美股早盘时段，美国WTI原油一度跌破88.10美元/桶，日内跌近5.2%；布伦特原油曾跌至98.50美元/桶下方，日内跌近3.8%。周五稍早，原油已经因为G7可能进一步释放战略储备的消息而承压下行。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -370,19 +389,4 @@ iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
 &lt;p&gt;CFO Dave Denton在业绩会上表示，主动清理渠道会令本财年余下时间的大中华区收入表现较第一季度进一步承压。&lt;/p&gt;
 &lt;p&gt;耐克也预计，包括中国、Sportswear和Jordan Brand在内的主动调整，将继续影响2027财年，并部分延续至2028财年。&lt;/p&gt;
 &lt;p&gt;大中华区并入亚太，因而并不只是一次区域合并。耐克一边削掉独立的大区层级，一边要求中国团队离产品和消费者更近。&lt;/p&gt;
-&lt;p&gt;中国市场被降了一个组织层级，耐克却希望借此换回更快的经营速度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国医药BD再下一城！艾博生物与诺华达成78亿美元mRNA授权协议</title><link>https://wallstreetcn.com/articles/3782931</link><guid>e635680aba6c0a9afef8001c7a8d7732ea40e781a34876449e7d628033d2883d</guid><pubDate>Fri, 02 Oct 2026 10:03:40 GMT</pubDate><description>&lt;p&gt;中国mRNA生物技术公司艾博生物（Abogen Biosciences）与瑞士制药巨头诺华（Novartis）达成一项总价值高达&lt;strong&gt;78亿美元&lt;/strong&gt;的授权合作协议，为全球总交易额最高的一笔之一，亦成为近期跨国药企押注中国创新药管线的又一重磅案例。&lt;/p&gt;
-&lt;p&gt;根据协议，诺华将&lt;strong&gt;预付5.75亿美元&lt;/strong&gt;，获得艾博生物旗下实验性药物ABO2203的独家授权，并拥有对艾博生物RNA技术平台其他潜在项目的选择权。若后续开发顺利推进并获得监管批准，艾博生物最高可额外获得&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款，并有望获得未来产品销售的特许权使用费。&lt;/p&gt;
-&lt;p&gt;ABO2203是一款基于mRNA编码的&lt;strong&gt;T细胞衔接器（T-cell engager）&lt;/strong&gt;，通过让患者自身产生治疗性分子，靶向清除驱动自身免疫疾病的B细胞，旨在从根本上重置免疫系统。该药物的潜在适应症涵盖&lt;strong&gt;狼疮、类风湿性关节炎&lt;/strong&gt;等多种自身免疫疾病。&lt;/p&gt;
-&lt;p&gt;此次交易进一步印证了跨国药企对中国创新药管线的持续高度关注，也标志着中国mRNA技术平台的商业价值获得国际顶级药企的正式认可。&lt;/p&gt;
-交易结构：5.75亿美元首付款，里程碑总额达78亿美元
-&lt;p&gt;本次合作采用典型的&amp;quot;首付款+里程碑付款+特许权使用费&amp;quot;结构。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;诺华将支付5.75亿美元的预付款&lt;/strong&gt;，换取ABO2203的独家开发和商业化权利，同时获得对艾博生物RNA平台其他潜在项目的选择权授权。&lt;/p&gt;
-&lt;p&gt;若ABO2203顺利完成各阶段临床开发并通过监管审批，艾博生物可额外获得最高&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款（Milestones）。此外，艾博生物还有望就未来产品销售收取特许权使用费，进一步扩大潜在收益空间。&lt;/p&gt;
-核心资产：mRNA编码T细胞衔接器，靶向自身免疫疾病
-&lt;p&gt;ABO2203代表了mRNA技术在自身免疫疾病领域的前沿探索。&lt;/p&gt;
-&lt;p&gt;据彭博报道，该药物是一款&lt;strong&gt;mRNA编码的T细胞衔接器&lt;/strong&gt;，其作用机制在于引导患者自身免疫系统产生治疗性分子，进而靶向清除B细胞——这类白细胞是狼疮、类风湿性关节炎等自身免疫疾病的核心驱动因素。通过耗竭致病性B细胞，ABO2203旨在实现对免疫系统的根本性重置，而非仅仅抑制症状。&lt;/p&gt;
-&lt;p&gt;诺华此前已在自身免疫领域探索过多种免疫重置路径，包括细胞疗法，但据彭博报道，该公司近期在相关细胞疗法临床试验中因&lt;strong&gt;三名患者死亡&lt;/strong&gt;而暂停了试验进程。此次转向mRNA技术路线，或反映出诺华在自身免疫管线布局上的战略调整。&lt;/p&gt;
-跨国药企持续押注中国创新药管线
-&lt;p&gt;艾博生物与诺华的交易，是近期跨国药企密集布局中国创新药的缩影。&lt;/p&gt;
-&lt;p&gt;据彭博报道，就在本周，&lt;strong&gt;诺和诺德（Novo Nordisk）&lt;/strong&gt;以&lt;strong&gt;26亿美元&lt;/strong&gt;收购了江苏恒瑞医药旗下一款早期肥胖症口服药的权利；&lt;strong&gt;阿斯利康（AstraZeneca）&lt;/strong&gt;则向Summit Therapeutics投资&lt;strong&gt;20亿美元&lt;/strong&gt;，共同开发源自&lt;strong&gt;康方生物（Akeso）&lt;/strong&gt;的癌症药物；此前，&lt;strong&gt;葛兰素史克（GSK）&lt;/strong&gt;也与Chimagen Biosciences就一款血液癌症药物达成最高&lt;strong&gt;7.5亿美元&lt;/strong&gt;的授权协议。&lt;/p&gt;
-&lt;p&gt;上述交易密集落地，折射出全球大型制药公司对中国创新药管线的结构性需求——在自身研发管线面临压力的背景下，中国生物技术公司凭借差异化的技术平台和相对具有竞争力的授权条款，正成为跨国药企补充管线的重要来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 大摩最新FCC纪要：指向的不是光模块，而是光芯片</title><link>http://xueqiu.com/6213467037/411187166</link><guid>44fb7b1d1aeaef53434f838ccf73eb05d6483674cbadeb8d61e1f775c84a38b6</guid><pubDate>Fri, 02 Oct 2026 04:50:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;已过万重山888&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;FCC 那道 65% 的门槛，卡的不是光模块，是那颗激光芯片&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方</title><link>http://xueqiu.com/1781588375/411169265</link><guid>54e52dd8848daa7b93f947142e6f4c4c9ff782e01c34f34a69e8ff7f65edc779</guid><pubDate>Fri, 02 Oct 2026 04:50:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;盖因斯iFortune&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/09926"&gt;$康方生物(09926)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一瓶酒，两种价格—— 茅台的溢价、终局与回报</title><link>http://xueqiu.com/1835829265/411134956</link><guid>c3fceb3fc8559ca4cb010fe0fd4007dbd909e87044ff8d71060b6a2efcc824fe</guid><pubDate>Fri, 02 Oct 2026 04:50:53 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;狸哥很懒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH600519"&gt;$贵州茅台(SH600519)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000858"&gt;$五粮液(SZ000858)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; 这是发布在substack的专栏NickFox，欢迎可以登陆的朋友订阅获得更新。价格有一些变化，后继发展不会在这里继续更新。&lt;a href="https://substack.com/@nickfox11"&gt;尼克福克斯&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;中国市场被降了一个组织层级，耐克却希望借此换回更快的经营速度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
