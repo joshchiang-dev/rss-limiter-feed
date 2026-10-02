@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 10:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%</title><link>https://wallstreetcn.com/articles/3782911</link><guid>20493ed7c60882369719f6ba3031c28b24b846bd60a378153850ea250d9277b5</guid><pubDate>Fri, 02 Oct 2026 09:36:38 GMT</pubDate><description>&lt;p&gt;周五（10月2日），A股因国庆节假期休市。受到美国国债收益率持续攀升压制，恒生指数创下近六个月最大单日跌幅。金融股首当其冲，汇丰控股领跌，市场风险偏好明显收缩。赛力斯港股盘中涨幅一度扩大至15%，消息面华为与赛力斯达成新五年合作，共同升级问界业务。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 11:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%</title><link>https://wallstreetcn.com/articles/3782911</link><guid>20493ed7c60882369719f6ba3031c28b24b846bd60a378153850ea250d9277b5</guid><pubDate>Fri, 02 Oct 2026 09:36:38 GMT</pubDate><description>&lt;p&gt;周五（10月2日），A股因国庆节假期休市。受到美国国债收益率持续攀升压制，恒生指数创下近六个月最大单日跌幅。金融股首当其冲，汇丰控股领跌，市场风险偏好明显收缩。赛力斯港股盘中涨幅一度扩大至15%，消息面华为与赛力斯达成新五年合作，共同升级问界业务。&lt;/p&gt;
 &lt;p&gt;截至收盘，恒指收跌2.6%，失守24000点，盘中涨幅一度达到3%，为3月23日以来最大单日跌幅。汇丰控股股价急挫超5%，成为指数最大拖累。恒生科技指数跌2.26%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;盘面上，金融、医药等下挫，友邦保险、百济神州跌近6%领跌蓝筹。天数智芯跌近7%。汽车、科技股疲弱，理想汽车、哔哩哔哩、小米集团、网易、小鹏集团领跌。消费、光模块相对强势，ASMPT涨超8%。&lt;/p&gt;
@@ -179,22 +179,45 @@
 &lt;/blockquote&gt;
 &lt;p&gt;对股票而言，高盛Nelson Armbrust指出标普500距历史高点仅约2%，“利率任何程度的缓解都将成为股市上涨的触发器”。摩根大通Andrew Tyler则提示镜像风险：&lt;strong&gt;ADP数据强劲，非农可能上行意外，届时市场或重回&amp;quot;好消息是坏消息&amp;quot;逻辑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;值得注意的是，&lt;strong&gt;8月数据的修正幅度可能比9月标题数字本身更具市场影响力。&lt;/strong&gt;若8月数据被大幅下修，将印证季节性调整扭曲了真实就业趋势，从而重塑市场对整个就业周期的判断。&lt;/p&gt;
-&lt;p&gt;市场高度关注8月数据是否会被大幅下修，因异常的季节性调整此前显著夸大了整体就业表现，这使得9月的数据面临极大的基数效应不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国医药BD再下一城！艾博生物与诺华达成78亿美元mRNA授权协议</title><link>https://wallstreetcn.com/articles/3782931</link><guid>e635680aba6c0a9afef8001c7a8d7732ea40e781a34876449e7d628033d2883d</guid><pubDate>Fri, 02 Oct 2026 10:03:40 GMT</pubDate><description>&lt;p&gt;中国mRNA生物技术公司艾博生物（Abogen Biosciences）与瑞士制药巨头诺华（Novartis）达成一项总价值高达&lt;strong&gt;78亿美元&lt;/strong&gt;的授权合作协议，为全球总交易额最高的一笔之一，亦成为近期跨国药企押注中国创新药管线的又一重磅案例。&lt;/p&gt;
-&lt;p&gt;根据协议，诺华将&lt;strong&gt;预付5.75亿美元&lt;/strong&gt;，获得艾博生物旗下实验性药物ABO2203的独家授权，并拥有对艾博生物RNA技术平台其他潜在项目的选择权。若后续开发顺利推进并获得监管批准，艾博生物最高可额外获得&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款，并有望获得未来产品销售的特许权使用费。&lt;/p&gt;
-&lt;p&gt;ABO2203是一款基于mRNA编码的&lt;strong&gt;T细胞衔接器（T-cell engager）&lt;/strong&gt;，通过让患者自身产生治疗性分子，靶向清除驱动自身免疫疾病的B细胞，旨在从根本上重置免疫系统。该药物的潜在适应症涵盖&lt;strong&gt;狼疮、类风湿性关节炎&lt;/strong&gt;等多种自身免疫疾病。&lt;/p&gt;
-&lt;p&gt;此次交易进一步印证了跨国药企对中国创新药管线的持续高度关注，也标志着中国mRNA技术平台的商业价值获得国际顶级药企的正式认可。&lt;/p&gt;
-交易结构：5.75亿美元首付款，里程碑总额达78亿美元
-&lt;p&gt;本次合作采用典型的&amp;quot;首付款+里程碑付款+特许权使用费&amp;quot;结构。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;诺华将支付5.75亿美元的预付款&lt;/strong&gt;，换取ABO2203的独家开发和商业化权利，同时获得对艾博生物RNA平台其他潜在项目的选择权授权。&lt;/p&gt;
-&lt;p&gt;若ABO2203顺利完成各阶段临床开发并通过监管审批，艾博生物可额外获得最高&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款（Milestones）。此外，艾博生物还有望就未来产品销售收取特许权使用费，进一步扩大潜在收益空间。&lt;/p&gt;
-核心资产：mRNA编码T细胞衔接器，靶向自身免疫疾病
-&lt;p&gt;ABO2203代表了mRNA技术在自身免疫疾病领域的前沿探索。&lt;/p&gt;
-&lt;p&gt;据彭博报道，该药物是一款&lt;strong&gt;mRNA编码的T细胞衔接器&lt;/strong&gt;，其作用机制在于引导患者自身免疫系统产生治疗性分子，进而靶向清除B细胞——这类白细胞是狼疮、类风湿性关节炎等自身免疫疾病的核心驱动因素。通过耗竭致病性B细胞，ABO2203旨在实现对免疫系统的根本性重置，而非仅仅抑制症状。&lt;/p&gt;
-&lt;p&gt;诺华此前已在自身免疫领域探索过多种免疫重置路径，包括细胞疗法，但据彭博报道，该公司近期在相关细胞疗法临床试验中因&lt;strong&gt;三名患者死亡&lt;/strong&gt;而暂停了试验进程。此次转向mRNA技术路线，或反映出诺华在自身免疫管线布局上的战略调整。&lt;/p&gt;
-跨国药企持续押注中国创新药管线
-&lt;p&gt;艾博生物与诺华的交易，是近期跨国药企密集布局中国创新药的缩影。&lt;/p&gt;
-&lt;p&gt;据彭博报道，就在本周，&lt;strong&gt;诺和诺德（Novo Nordisk）&lt;/strong&gt;以&lt;strong&gt;26亿美元&lt;/strong&gt;收购了江苏恒瑞医药旗下一款早期肥胖症口服药的权利；&lt;strong&gt;阿斯利康（AstraZeneca）&lt;/strong&gt;则向Summit Therapeutics投资&lt;strong&gt;20亿美元&lt;/strong&gt;，共同开发源自&lt;strong&gt;康方生物（Akeso）&lt;/strong&gt;的癌症药物；此前，&lt;strong&gt;葛兰素史克（GSK）&lt;/strong&gt;也与Chimagen Biosciences就一款血液癌症药物达成最高&lt;strong&gt;7.5亿美元&lt;/strong&gt;的授权协议。&lt;/p&gt;
-&lt;p&gt;上述交易密集落地，折射出全球大型制药公司对中国创新药管线的结构性需求——在自身研发管线面临压力的背景下，中国生物技术公司凭借差异化的技术平台和相对具有竞争力的授权条款，正成为跨国药企补充管线的重要来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 季报不及预期，收入未见起色！耐克大中华区被“并入”亚太，今年股价“史上最惨”接近腰斩｜财报见闻</title><link>https://wallstreetcn.com/articles/3782905</link><guid>9f20762228783ff200a635d5227b4f015cd7fce5ecd4fccf8ae729f2dc15e1fa</guid><pubDate>Fri, 02 Oct 2026 02:37:25 GMT</pubDate><description>&lt;p&gt;耐克的复苏之路比任何人预期的都要漫长。季报不及预期、全年营收指引大幅低于市场预测、新一轮裁员计划随之而来——这家全球最大运动品牌正面临多重压力的叠加冲击，而华尔街的耐心正在加速耗尽。&lt;/p&gt;
+&lt;p&gt;市场高度关注8月数据是否会被大幅下修，因异常的季节性调整此前显著夸大了整体就业表现，这使得9月的数据面临极大的基数效应不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在彭博社10月2日首播的《Power On》播客节目中，资深苹果科技记者古尔曼（Mark Gurman）与彭博科技编辑Vlad Savov围绕苹果即将到来的秋季新品发布会进行了深度对话。节目不仅曝光了苹果在智能家居领域的庞大野心和首款触屏MacBook Pro的细节，还对最新发布的iPhone 18系列及新任CEO 特努斯（John Ternus）面临的战略挑战进行了犀利点评。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;（左：古尔曼；右：Vlad Savov）&lt;/p&gt;
+&lt;p&gt;古尔曼自2008年起持续报道苹果长达17年，其爆料历来被市场视为苹果产品前瞻的重要参考。此次播客首播信息密度极高，多个核心产品节点获得首次系统性披露。&lt;/p&gt;
+进军智能家居的“大杀器”：代号J490与全新Siri AI系统
+&lt;p&gt;在移动设备市场饱和后，市场极度关注苹果未来的增量空间。Gurman在节目中透露，&lt;strong&gt;苹果内部代号为“J490”的AI智能家居枢纽（Smart Home Hub）将是破局的关键。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“这是苹果下一个‘Big Thing’（大杀器），离发布只有几周时间了。”&lt;/strong&gt;Gurman强调。他指出，苹果过去在智能家居领域的尝试（如iPod Hi-Fi和早期的HomePod）是“半成品”，但J490将彻底改变这一现状。&lt;/p&gt;
+&lt;p&gt;这款设备被描述为“苹果宇宙中由苹果制造的亚马逊Echo Show”，配备约6英寸的方形触摸屏。其最大的卖点在于全新的操作系统。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“如果Siri AI拥有一个操作系统，而不是仅仅作为手机上的一个应用或界面，它会是什么样？这就是答案。”Gurman引用原话表示，该系统融合了Watch OS和待机模式的特点，且“语音将成为主要的界面交互元素”。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于投资者关注的商业化落地，Gurman透露该产品已准备就绪：“世界各地的仓库里，这些全新的Siri AI智能家居枢纽已经从上到下堆满，随时准备发货。”&lt;/p&gt;
+&lt;p&gt;此外，苹果正在构建一个庞大的生态矩阵，包括搭载更大芯片的HomePod mini、新款Apple TV，以及代号为“J450”的新型无视频录制AI安防摄像头（仅通过AI提供文本描述以规避隐私争议）。&lt;/p&gt;
+&lt;p&gt;在定价和利润率方面，Gurman指出了市场的担忧：&lt;strong&gt;“理想情况下，这款产品的成本应该是200到300美元。但考虑到显示屏、相关技术以及扬声器底座，如果它的价格低于300美元，我会非常惊讶。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，全球内存短缺可能会进一步推高该设备的成本，使其成为实质上的“奢侈品消费”。&lt;/p&gt;
+触屏版MacBook Pro最快10月登场，首次引入OLED
+&lt;p&gt;除了智能家居，苹果的传统PC业务也将迎来重大变革。Gurman证实，&lt;strong&gt;苹果最快将于今年10月（或推迟至11月）推出首款支持触摸屏的MacBook Pro。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了适配触摸屏，苹果在内部正使用macOS 27.2 Beta版进行测试，该系统在音量控制、按钮和控制中心图标上进行了重大的“触控友好化”重新设计。&lt;/p&gt;
+&lt;p&gt;他指出，苹果已对macOS系统界面进行大规模重新设计，代号&amp;quot;Golden Gate&amp;quot;，以更好地适配触控交互，涉及音量控制、按钮、控制中心及应用图标等多处改动，&amp;quot;和iPhone Duo的重新设计方向类似，就是为了让系统更触控友好&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更重要的是硬件配置的跃升。&lt;/strong&gt;Gurman爆料称：&lt;strong&gt;“除了触摸屏，它将成为首款具备另外两项功能的Mac：一是灵动岛（Dynamic Island）……二是OLED。这是首次将OLED引入Mac。”&lt;/strong&gt;芯片方面会采用 M5 Pro 或者 M5 Max 芯片。&lt;/p&gt;
+&lt;p&gt;他透露，苹果目前正在内部使用macOS 27.2测试版对该机型进行测试，而这一版本近期已向开发者开放。&lt;/p&gt;
+iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
+&lt;p&gt;针对占据苹果营收大头的iPhone业务，节目对刚刚推出的iPhone 18 Pro系列给出了极为直言不讳的评价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“这是一款彻头彻尾的经典‘S’代产品（过渡机型），”Gurman在亲测后坦言，“你得到的是一个在实际使用中感觉不到更快的处理器，一些99.9%的人都不知道怎么用的可变光圈相机功能……绝对没有任何理由升级（There&amp;#x27;s absolutely no reason to upgrade）。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;由于硬件创新的边际效应递减，苹果正在大幅调整其市场营销策略。Gurman尖锐地指出：&lt;strong&gt;“他们知道从17 Pro升级到18 Pro其实毫无理由，那怎么办？你只能请网红（influencers）来。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他观察到，苹果越来越多地将资源倾斜给Instagram和TikTok上的KOL，而不是传统媒体记者。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“他们正在制作视频，谈论这简直是自切片面包以来最伟大的发明……这不仅对苹果的销售有好处，对苹果的营销也有好处，但我认为这让消费者听到了苹果官方认可的不诚实意见，对消费者并没有好处。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这种营销模式的转变，实质上是苹果在产品力微创新阶段，为了维持高昂售价和销量而采取的防御性商业策略。&lt;/p&gt;
+新任CEO的挑战：寻找突破iPhone的“十万亿美元”杠杆
+&lt;p&gt;伴随产品线扩张的，是苹果高层的权力交接。对于新任CEO特努斯，市场高度关注他将如何带领苹果跨越目前的市值天花板。&lt;/p&gt;
+&lt;p&gt;当被问及如果采访特努斯会问什么问题时，Gurman直击核心：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“你认为是否需要一些新的、颠覆性的产品，将苹果带入超越iPhone的时代？……还是说在长达15到20年的CEO任期内，继续以手机为中心并围绕它构建外设？”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此外，Gurman认为苹果放弃造车是一个遗憾，因为自动驾驶汽车原本是苹果“从4万亿、5万亿美元市值跨越到10万亿美元市值的长期杠杆”。&lt;/p&gt;
+&lt;p&gt;在失去汽车这一巨大的想象空间后，特努斯能否通过Siri AI家居生态和折叠屏/触屏Mac等高附加值硬件，重新为华尔街描绘出具备足够说服力的增长蓝图，将是他任期内的最大考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 季报不及预期，收入未见起色！耐克大中华区被“并入”亚太，今年股价“史上最惨”接近腰斩｜财报见闻</title><link>https://wallstreetcn.com/articles/3782905</link><guid>9f20762228783ff200a635d5227b4f015cd7fce5ecd4fccf8ae729f2dc15e1fa</guid><pubDate>Fri, 02 Oct 2026 02:37:25 GMT</pubDate><description>&lt;p&gt;耐克的复苏之路比任何人预期的都要漫长。季报不及预期、全年营收指引大幅低于市场预测、新一轮裁员计划随之而来——这家全球最大运动品牌正面临多重压力的叠加冲击，而华尔街的耐心正在加速耗尽。&lt;/p&gt;
 &lt;p&gt;当地时间周四（10月1日），耐克公布2027财年第一季度财报，当季营收同比下降4%至112亿美元，低于市场预期；净利润下降2%至7.12亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;更令投资者担忧的是前景：&lt;/strong&gt;耐克预计2027财年全年营收将同比下降&amp;quot;高个位数百分比&amp;quot;，远差于此前市场预期的约2%降幅，全年调整后每股收益指引为1.15至1.35美元，亦明显低于分析师预期的1.68美元。财报公布后，耐克盘后股价一度跌逾8%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -367,48 +390,58 @@ Jordan品牌供给过剩，复古鞋款策略亟待重塑
 &lt;blockquote&gt;
 &lt;p&gt;“&lt;strong&gt;标普500最大的风险，是AI交易意外瓦解。&lt;/strong&gt;”&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;当前市场的脆弱性在于，支撑指数的核心逻辑高度集中——一旦AI盈利预期出现裂缝，被科技巨头光环所掩盖的大面积损伤，将以更猛烈的方式浮出水面。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌面临逾32亿美元广告技术垄断索赔，出版商获准推进陪审团审判</title><link>https://wallstreetcn.com/articles/3782901</link><guid>849aa4431308a3d893b1efd14fe89a897b233879eae39a47edcf1bcf8ebc5206</guid><pubDate>Fri, 02 Oct 2026 00:10:22 GMT</pubDate><description>&lt;p&gt;谷歌在广告技术垄断诉讼中面临新的重大法律压力。纽约联邦法院裁定，多家大型出版商可就谷歌垄断广告技术市场造成的损害寻求逾32亿美元赔偿。&lt;/p&gt;
-&lt;p&gt;据彭博报道，曼哈顿联邦地区法官P. Kevin Castel于周三晚间发布裁决意见，&lt;strong&gt;允许针对谷歌AdX广告交易平台相关行为的陪审团审判程序向前推进。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;约5000家出版商组成的集体诉讼方可寻求约17亿美元赔偿；《今日美国》母公司USA Today Co.与英国Daily Mail General and Trust Plc则分别获准独立追索约9亿美元和6亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此案与美国司法部此前在弗吉尼亚州对谷歌提起的广告技术垄断诉讼高度相关。弗吉尼亚州联邦法院上月已裁定谷歌非法垄断两个广告技术市场，并要求其开放相关工具与竞争对手互通，但未下令拆分业务。&lt;/p&gt;
-&lt;p&gt;纽约案件的陪审团审判一旦启动，将直接决定谷歌需承担的实际赔偿规模。&lt;/p&gt;
-&lt;p&gt;谷歌周四收跌1.7%。&lt;/p&gt;
+&lt;p&gt;当前市场的脆弱性在于，支撑指数的核心逻辑高度集中——一旦AI盈利预期出现裂缝，被科技巨头光环所掩盖的大面积损伤，将以更猛烈的方式浮出水面。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国医药BD再下一城！艾博生物与诺华达成78亿美元mRNA授权协议</title><link>https://wallstreetcn.com/articles/3782931</link><guid>e635680aba6c0a9afef8001c7a8d7732ea40e781a34876449e7d628033d2883d</guid><pubDate>Fri, 02 Oct 2026 10:03:40 GMT</pubDate><description>&lt;p&gt;中国mRNA生物技术公司艾博生物（Abogen Biosciences）与瑞士制药巨头诺华（Novartis）达成一项总价值高达&lt;strong&gt;78亿美元&lt;/strong&gt;的授权合作协议，为全球总交易额最高的一笔之一，亦成为近期跨国药企押注中国创新药管线的又一重磅案例。&lt;/p&gt;
+&lt;p&gt;根据协议，诺华将&lt;strong&gt;预付5.75亿美元&lt;/strong&gt;，获得艾博生物旗下实验性药物ABO2203的独家授权，并拥有对艾博生物RNA技术平台其他潜在项目的选择权。若后续开发顺利推进并获得监管批准，艾博生物最高可额外获得&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款，并有望获得未来产品销售的特许权使用费。&lt;/p&gt;
+&lt;p&gt;ABO2203是一款基于mRNA编码的&lt;strong&gt;T细胞衔接器（T-cell engager）&lt;/strong&gt;，通过让患者自身产生治疗性分子，靶向清除驱动自身免疫疾病的B细胞，旨在从根本上重置免疫系统。该药物的潜在适应症涵盖&lt;strong&gt;狼疮、类风湿性关节炎&lt;/strong&gt;等多种自身免疫疾病。&lt;/p&gt;
+&lt;p&gt;此次交易进一步印证了跨国药企对中国创新药管线的持续高度关注，也标志着中国mRNA技术平台的商业价值获得国际顶级药企的正式认可。&lt;/p&gt;
+交易结构：5.75亿美元首付款，里程碑总额达78亿美元
+&lt;p&gt;本次合作采用典型的&amp;quot;首付款+里程碑付款+特许权使用费&amp;quot;结构。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;诺华将支付5.75亿美元的预付款&lt;/strong&gt;，换取ABO2203的独家开发和商业化权利，同时获得对艾博生物RNA平台其他潜在项目的选择权授权。&lt;/p&gt;
+&lt;p&gt;若ABO2203顺利完成各阶段临床开发并通过监管审批，艾博生物可额外获得最高&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款（Milestones）。此外，艾博生物还有望就未来产品销售收取特许权使用费，进一步扩大潜在收益空间。&lt;/p&gt;
+核心资产：mRNA编码T细胞衔接器，靶向自身免疫疾病
+&lt;p&gt;ABO2203代表了mRNA技术在自身免疫疾病领域的前沿探索。&lt;/p&gt;
+&lt;p&gt;据彭博报道，该药物是一款&lt;strong&gt;mRNA编码的T细胞衔接器&lt;/strong&gt;，其作用机制在于引导患者自身免疫系统产生治疗性分子，进而靶向清除B细胞——这类白细胞是狼疮、类风湿性关节炎等自身免疫疾病的核心驱动因素。通过耗竭致病性B细胞，ABO2203旨在实现对免疫系统的根本性重置，而非仅仅抑制症状。&lt;/p&gt;
+&lt;p&gt;诺华此前已在自身免疫领域探索过多种免疫重置路径，包括细胞疗法，但据彭博报道，该公司近期在相关细胞疗法临床试验中因&lt;strong&gt;三名患者死亡&lt;/strong&gt;而暂停了试验进程。此次转向mRNA技术路线，或反映出诺华在自身免疫管线布局上的战略调整。&lt;/p&gt;
+跨国药企持续押注中国创新药管线
+&lt;p&gt;艾博生物与诺华的交易，是近期跨国药企密集布局中国创新药的缩影。&lt;/p&gt;
+&lt;p&gt;据彭博报道，就在本周，&lt;strong&gt;诺和诺德（Novo Nordisk）&lt;/strong&gt;以&lt;strong&gt;26亿美元&lt;/strong&gt;收购了江苏恒瑞医药旗下一款早期肥胖症口服药的权利；&lt;strong&gt;阿斯利康（AstraZeneca）&lt;/strong&gt;则向Summit Therapeutics投资&lt;strong&gt;20亿美元&lt;/strong&gt;，共同开发源自&lt;strong&gt;康方生物（Akeso）&lt;/strong&gt;的癌症药物；此前，&lt;strong&gt;葛兰素史克（GSK）&lt;/strong&gt;也与Chimagen Biosciences就一款血液癌症药物达成最高&lt;strong&gt;7.5亿美元&lt;/strong&gt;的授权协议。&lt;/p&gt;
+&lt;p&gt;上述交易密集落地，折射出全球大型制药公司对中国创新药管线的结构性需求——在自身研发管线面临压力的背景下，中国生物技术公司凭借差异化的技术平台和相对具有竞争力的授权条款，正成为跨国药企补充管线的重要来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”</title><link>https://wallstreetcn.com/articles/3782917</link><guid>647390864f3bd2f8f85b69d7beaafec13ffbce8ae18a6fa5edb838c3d86b1a19</guid><pubDate>Fri, 02 Oct 2026 10:11:16 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Meta旗下AI智能体应用Muse上线仅23天便迅速引爆消费级Agent市场，成为近期增长最为迅猛的AI应用之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场调研机构Sensor Tower数据显示，截至9月30日，Muse累计下载量已突破500万次。Muse于9月8日在美国和加拿大上线，仅用22天便达到这一规模；相比之下，ChatGPT、Grok和Claude分别用了56天、103天和492天才突破500万次下载。&lt;/p&gt;
+&lt;p&gt;Muse的高速增长引发市场对其&lt;strong&gt;成本、算力和商业化能力&lt;/strong&gt;的关注。摩根士丹利互联网行业首席分析师Brian Nowak团队近日发布深度研究，围绕Muse的&lt;strong&gt;货币化、服务成本、算力储备、企业市场、亚马逊合作及估值&lt;/strong&gt;六大问题展开分析。&lt;/p&gt;
+&lt;p&gt;其中，最核心的矛盾在于：&lt;strong&gt;Agent用户增长越快，算力成本越高；而Meta需要证明，未来的广告、交易、企业订阅和API业务能够覆盖这部分投入，并将庞大的用户规模转化为收入。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-
-法院裁决要点：三方索赔获批，谷歌部分主张遭驳回
-
-&lt;p&gt;Castel法官在裁决中&lt;strong&gt;拒绝了谷歌就赔偿金额计算提出的异议，允许三方原告分别推进各自的损害赔偿诉求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谷歌在一份声明中表示，&lt;strong&gt;法院此次裁定也驳回了部分出版商针对另一种广告购买工具提出的索赔，并称公司将“在法庭上为剩余诉讼请求进行抗辩”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;USA Today Co.首席法律顾问Polly Grunfeld Sack表示，此次裁决允许该公司追索10亿美元的全球赔偿（依据反垄断法三倍赔偿规则计算前），称其为&amp;quot;重大胜利&amp;quot;，并表示期待在审判中证明相关主张。&lt;/p&gt;
-&lt;p&gt;代理出版商方面的Boies Schiller Flexner LLP合伙人Philip Korologos同样表示，期待在审判中提出索赔。&lt;/p&gt;
-
-背景：司法部诉讼奠定基础，纽约案件追究经济赔偿责任
-
-&lt;p&gt;美国司法部及多个州于2023年对谷歌提起诉讼，指控其非法垄断用于购买、销售和投放网络展示广告的多个广告技术领域。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;弗吉尼亚州联邦法院的裁决已在事实认定层面确立谷歌存在垄断行为，纽约的平行诉讼则在此基础上进一步追究经济赔偿责任。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Castel法官尚未确定庭审日期。此案案号为In re: Google Digital Advertising Antitrust Litigation，21-md-3010，由纽约南区联邦地区法院管辖。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债跌到位了吗？高盛交易台主管：长债“仍然完全无人问津”</title><link>https://wallstreetcn.com/articles/3782910</link><guid>261e616ac6966efaa9a93288492f55a0966f357053654e19ecce44adb6778412</guid><pubDate>Fri, 02 Oct 2026 01:52:37 GMT</pubDate><description>&lt;p&gt;美国国债市场正面临多重压力叠加。长期限国债收益率持续攀升，买盘迟迟未能形成，债券与股票之间的背离也愈发引人关注。&lt;/p&gt;
-&lt;p&gt;高盛交易台负责人Rich Privorotsky直言，长期限美债“仍然完全无人问津”。&lt;strong&gt;尽管最新PCE数据低于预期，略微降低了10月加息的可能性，但这对长期限国债收益率走势几乎没有实质影响——短期利率的加息预期已基本消化，当前真正的压力仍集中在收益率曲线的远端。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，长期限国债的波动率预期也已与短期利率市场的焦虑明显脱钩，Privorotsky总结称：“这种状态亟需平息。”&lt;/p&gt;
-&lt;p&gt;收益率快速上行也正在触发多个基于历史数据的预警信号。&lt;strong&gt;法国巴黎银行CIB的Florian Roger表示，已将5.5%视为美国10年期国债收益率对股市形成实质性压力的临界点，“我们已近在咫尺，届时股票估值将开始显得过高”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Simon White则提醒，投资者不应被表面上的低估值所迷惑——从美债自身的历史走势来看，收益率或许仍未见底。&lt;/p&gt;
+一、货币化：短期先做大用户，长期瞄准30万亿美元消费市场
+&lt;p&gt;Muse目前并不急于赚钱。摩根士丹利预计，&lt;strong&gt;短期订阅收入贡献有限，交易抽成也会维持较低水平，Meta更重要的任务是扩大用户规模、提高使用频率，并培养用户通过Agent完成商业交易的习惯。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;真正大规模的货币化可能要等到&lt;strong&gt;2027至2028年&lt;/strong&gt;。长期来看，Meta可能围绕实时竞价建立Agent商业市场：企业根据预期投资回报率竞价，向Meta支付交易费用。&lt;/p&gt;
+&lt;p&gt;这一模式对应的潜在市场规模达到&lt;strong&gt;30万亿美元&lt;/strong&gt;，涵盖零售、旅行、出行、餐饮配送、广告、物流和可穿戴设备等消费场景。&lt;/p&gt;
+&lt;p&gt;在直接收费之前，Muse也可以先通过提升用户参与度和用户画像能力，反过来强化Meta广告业务的变现效率。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-长期限美债缺乏买盘，债市反弹尚未到来
-&lt;p&gt;10年期美债收益率已升至5.34%，但这一水平仍未触发明显买盘。&lt;strong&gt;尽管从多个维度看，美债估值已具备一定吸引力，市场观望情绪依然占据主导。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Simon White的分析显示，以10年期美债收益率与美国名义GDP及10年期德债收益率均值进行比较，剔除疫情和全球金融危机两个特殊时期后，两者历史走势高度吻合，而当前美债收益率已明显高于这一均值。&lt;/p&gt;
-&lt;p&gt;同时，10年期收益率较由全球央行加息节奏、收益率曲线、油价及政策利率共同构建的公允价值模型高出逾60个基点，但外资和国内买盘均未明显入场。&lt;/p&gt;
-&lt;p&gt;股债相对价值同样释放出类似信号。以过去12个月每股收益收益率与10年期美债收益率之差衡量的股票风险溢价，已降至20多年来的最低水平，意味着股票相对债券的吸引力处于历史低位。即便以远期盈利计算，该指标也接近2025年的历史低点。&lt;/p&gt;
-&lt;p&gt;White指出，&lt;strong&gt;剔除期限溢价后的调整收益率能够提供更公平的比较，美债在这一口径下仍具备一定吸引力，但优势已经收窄。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-历史均值回归显示，超卖仍未到位
-&lt;p&gt;尽管上述估值指标指向美债相对低估，White采用的另一种更简洁的分析框架——美债年度总回报的历史均值回归——却给出了更审慎的信号。&lt;/p&gt;
-&lt;p&gt;该框架显示，美债年度回报长期围绕均值波动，并在下行阶段往往出现向均值下方的超调。当前，美债年度回报已回落至趋势均值附近，但历史数据表明，这一位置并不一定意味着底部已经出现。&lt;strong&gt;根据逾50年的历史数据，在过去六个月回报持续下行并回落至均值附近的情况下，约四分之三的案例显示，三个月后回报仍会进一步走低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;实际收益率的走势也支持这一判断。本轮名义收益率上行主要由实际收益率驱动，通胀盈亏平衡利率相对温和。&lt;strong&gt;White构建的10年期实际收益率领先指标，综合超额流动性、全球央行加息力度及美联储政策利率等因素，显示实际收益率仍有进一步上行空间。&lt;/strong&gt;该指标对实际收益率的领先周期约为三至四个月。&lt;/p&gt;
-财政压力与流动性风险不容忽视
-&lt;p&gt;潜在买家在入场前还需面对美国严峻的财政状况。&lt;/p&gt;
-&lt;p&gt;在主要新兴市场和发达经济体中，美国财政赤字占GDP比重位居全球前列，仅次于巴西、波兰、匈牙利和哥伦比亚。&lt;strong&gt;若剔除利息支出，美国基础财政赤字同样高居全球首位，与英国并列，财政压力不容忽视。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着收益率持续攀升，市场风险还可能形成自我强化。收益率上行会推高波动率，进而影响保证金要求和国债风险敞口限额，而历史上波动率上升往往伴随着国债市场流动性恶化。&lt;/p&gt;
-&lt;p&gt;White还指出，&lt;strong&gt;当10年期收益率持续维持在5.25%至5.50%以上时，美债与股票的相关性历史上往往转为持续正相关，从而进一步削弱美债作为投资组合对冲工具的需求。&lt;/strong&gt;&lt;/p&gt;
-政府干预预期升温，但难成买入理由
-&lt;p&gt;多重压力之下，市场对政策干预的预期也在升温。据悉，美国财政部本周聘请Jefferies首席市场策略师David Zervos担任顾问，此举或并非巧合。&lt;strong&gt;Zervos在接受采访时表示，财政部正在重新掌握债务期限管理的主动权，并强调“需要密切关注这一进程如何推进”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，White提示，政府干预预期虽然会增加做空风险，但不足以构成充分的买入理由。&lt;strong&gt;市场一旦形成对政府“兜底”的预期，便可能陷入既难做空、又难以放心做多的两难境地，投资者仍需保持警惕。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当前美债市场的核心矛盾在于：估值已经有所改善，但技术面、财政面和流动性层面的多重制约仍未消除，收益率是否已经接近真正的低点，仍有待进一步确认。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 大摩最新FCC纪要：指向的不是光模块，而是光芯片</title><link>http://xueqiu.com/6213467037/411187166</link><guid>44fb7b1d1aeaef53434f838ccf73eb05d6483674cbadeb8d61e1f775c84a38b6</guid><pubDate>Fri, 02 Oct 2026 04:50:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;已过万重山888&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;FCC 那道 65% 的门槛，卡的不是光模块，是那颗激光芯片&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方</title><link>http://xueqiu.com/1781588375/411169265</link><guid>54e52dd8848daa7b93f947142e6f4c4c9ff782e01c34f34a69e8ff7f65edc779</guid><pubDate>Fri, 02 Oct 2026 04:50:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;盖因斯iFortune&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/09926"&gt;$康方生物(09926)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一瓶酒，两种价格—— 茅台的溢价、终局与回报</title><link>http://xueqiu.com/1835829265/411134956</link><guid>c3fceb3fc8559ca4cb010fe0fd4007dbd909e87044ff8d71060b6a2efcc824fe</guid><pubDate>Fri, 02 Oct 2026 04:50:53 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;狸哥很懒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH600519"&gt;$贵州茅台(SH600519)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000858"&gt;$五粮液(SZ000858)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; 这是发布在substack的专栏NickFox，欢迎可以登陆的朋友订阅获得更新。价格有一些变化，后继发展不会在这里继续更新。&lt;a href="https://substack.com/@nickfox11"&gt;尼克福克斯&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+二、成本：每用户每月最高130美元，高成本反而可能成为壁垒
+&lt;p&gt;Muse越火，Meta首先面对的就是成本问题。&lt;/p&gt;
+&lt;p&gt;摩根士丹利测算，&lt;strong&gt;Muse服务成本约为每用户每月3至130美元，主要取决于Token消耗量。&lt;/strong&gt;其中，GPU推理成本随Token用量增长，CPU沙箱成本则取决于用户激活频率和虚拟机运行时间。&lt;/p&gt;
+&lt;p&gt;以用户消耗25%周度Token配额为基准，每用户每月成本约37美元。由于该测算假设Meta按照AWS按需价格租用全部CPU沙箱容量，实际成本可能更低。&lt;/p&gt;
+&lt;p&gt;这也意味着，Agent并不是一个容易靠烧钱复制的生意。&lt;strong&gt;Meta拥有约2500亿美元、同比增长27%的核心广告业务作为资金支撑，全球平均每用户收入约70美元，能够承受前期高昂的AI基础设施投入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+三、算力：2026年CPU采购理论上足以支撑10亿DAU
+&lt;p&gt;如果Muse继续快速增长，Meta有没有足够算力？&lt;/p&gt;
+&lt;p&gt;摩根士丹利认为：&lt;strong&gt;Meta目前的CPU采购规模，理论上足以支撑10亿Muse日活用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;按照其估算，Meta在2026年采购的CPU容量合计约6.43亿vCPU，对应约3.21亿Muse实例容量。在每天3小时活跃、2倍峰值系数和1.2倍容量缓冲的假设下，支撑10亿DAU所需的同时活跃实例约3亿，现有算力基本可以覆盖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这意味着，随着Muse用户规模扩大，Meta短期真正需要解决的可能不是“有没有算力”，而是如何把巨额算力投入转化为用户增长和商业收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告预计，Meta2027年资本开支约2250亿美元，对应约590亿美元折旧；第三方计算合同支出约260亿美元，高于2026年的170亿美元。&lt;/p&gt;
+四、企业市场：从消费Agent切入25万亿美元知识经济
+&lt;p&gt;Muse的商业想象力也不止于个人用户。&lt;/p&gt;
+&lt;p&gt;Meta正将Agent进一步推向企业市场，目标覆盖约25万亿美元的全球知识型工作经济，相关产品包括面向中小企业的Muse、WhatsApp和Messenger智能体工具、企业产品、Muse Coding以及未来的模型API“Watermelon”。&lt;/p&gt;
+&lt;p&gt;摩根士丹利认为，传统企业的Web 1.0架构并不适合Agent之间直接交互。未来，企业需要提供机器原生的接口，让Agent能够直接调用商品、服务和企业系统。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这为Meta提供了新的收费模式：向企业收订阅费，同时向开发者和企业提供API算力与模型服务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;敏感性测算显示，如果6000万用户每月支付15美元，到2028年可能使EPS提升约8.2%；如果将100MW专用算力用于API业务，也可能使2028年EPS增加约4%。&lt;/p&gt;
+五、亚马逊：Agent进入电商后，交易入口成为核心博弈
+&lt;p&gt;一旦Muse开始替用户购物，Meta就绕不开亚马逊。&lt;/p&gt;
+&lt;p&gt;亚马逊约占美国电商市场40%，掌握庞大的商品、商户和物流体系。&lt;strong&gt;双方潜在合作的核心问题，包括谁是商户记录方、谁控制购物体验、Prime权益和零售媒体价值如何分配，以及哪些数据能够回流Muse。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，Meta又依赖亚马逊的AWS云资源，包括CPU、GPU算力，以及通过Bedrock提供模型API的分发渠道。&lt;/p&gt;
+&lt;p&gt;因此，Meta与亚马逊的潜在合作并不只是一次普通的电商合作，而可能同时涉及交易入口、用户数据、云算力和模型分发。&lt;/p&gt;
+六、估值：21倍PE已经反映部分Muse预期，下一步看商业化
+&lt;p&gt;Muse发布以及Meta与各州检察长达成和解后，Meta的NTM共识EPS估值已从约14倍升至21倍。&lt;/p&gt;
+&lt;p&gt;摩根士丹利认为，&lt;strong&gt;当前估值已经反映了Meta以免费模式推出Muse所形成的部分先发优势。后续估值能否进一步提升，关键看三件事：&lt;/strong&gt;第一，Muse用户规模和使用率能否持续增长；第二，Agent能否真正形成规模化商业交易；第三，谷歌、SPCX等竞争对手的推进速度。&lt;/p&gt;
+&lt;p&gt;Meta在2025年2月一度达到28倍估值，因此，如果Muse能够持续扩大用户基础，并进一步证明商业化潜力，市场仍可能重新评估其估值水平。&lt;/p&gt;
+&lt;p&gt;从基本面看，摩根士丹利关注的上行驱动主要包括：AI推动核心用户参与度提升、商业消息和Agent业务增长，以及API平台逐步实现规模化变现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;归根结底，Muse当前最重要的价值还不是贡献多少收入，而是Meta能否利用庞大的用户基础、广告现金流和算力投入，把一个高成本的AI应用变成连接消费者、企业和商业交易的Agent平台。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 大摩最新FCC纪要：指向的不是光模块，而是光芯片</title><link>http://xueqiu.com/6213467037/411187166</link><guid>44fb7b1d1aeaef53434f838ccf73eb05d6483674cbadeb8d61e1f775c84a38b6</guid><pubDate>Fri, 02 Oct 2026 04:50:43 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;已过万重山888&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;FCC 那道 65% 的门槛，卡的不是光模块，是那颗激光芯片&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方</title><link>http://xueqiu.com/1781588375/411169265</link><guid>54e52dd8848daa7b93f947142e6f4c4c9ff782e01c34f34a69e8ff7f65edc779</guid><pubDate>Fri, 02 Oct 2026 04:50:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;盖因斯iFortune&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/09926"&gt;$康方生物(09926)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 一瓶酒，两种价格—— 茅台的溢价、终局与回报</title><link>http://xueqiu.com/1835829265/411134956</link><guid>c3fceb3fc8559ca4cb010fe0fd4007dbd909e87044ff8d71060b6a2efcc824fe</guid><pubDate>Fri, 02 Oct 2026 04:50:53 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;狸哥很懒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH600519"&gt;$贵州茅台(SH600519)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000858"&gt;$五粮液(SZ000858)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ000568"&gt;$泸州老窖(SZ000568)$&lt;/a&gt; 这是发布在substack的专栏NickFox，欢迎可以登陆的朋友订阅获得更新。价格有一些变化，后继发展不会在这里继续更新。&lt;a href="https://substack.com/@nickfox11"&gt;尼克福克斯&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
