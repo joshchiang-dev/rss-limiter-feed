@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 19:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 20:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
 &lt;p&gt;美东时间10月2日周五，英伟达宣布推出64GB统一内存版本的桌面AI计算机DGX Spark，起售价4999美元，将于10月23日由宏碁、华硕、戴尔、技嘉、惠普和微星等OEM厂商推向市场。新机保留GB10 Grace Blackwell超级芯片、DGX OS、完整的英伟达AI软件栈以及ConnectX-7网络能力，但统一内存从现有的128GB降至64GB。&lt;/p&gt;
 &lt;p&gt;耐人寻味的是，这款“缩水版”DGX Spark的起售价，反而高于去年128GB版本3999美元的首发价；与此同时，英伟达还将128GB Founders Edition的价格进一步上调至6950美元。媒体指出，英伟达将此次涨价归因于内存供应受限和成本上升。&lt;/p&gt;
 &lt;p&gt;这意味着，在AI服务器需求持续挤压内存供应的背景下，&lt;strong&gt;“少给内存”已经成为降低本地AI设备价格门槛的一种办法，但并不意味着设备本身真的变便宜了。&lt;/strong&gt;&lt;/p&gt;
@@ -174,17 +174,7 @@
 收益率、债务与美联储独立性
 &lt;p&gt;面对国债收益率走高的市场压力，哈塞特将其解释为经济强劲所驱动，而非财政风险溢价上升的信号。他表示，&amp;quot;强劲的经济推动收益率上升&amp;quot;。&lt;/p&gt;
 &lt;p&gt;在财政纪律问题上，他措辞较为直接，称当前利息支出水平&amp;quot;高得令人无法接受&amp;quot;，并强调特朗普总统&amp;quot;认真对待削减赤字问题&amp;quot;，同时明确排除通过通胀稀释债务的路径。&lt;/p&gt;
-&lt;p&gt;在美联储问题上，哈塞特提及美联储主席沃什&amp;quot;展现出对供给与需求冲击的理解&amp;quot;，并称沃什将需要应对鲍威尔任期留下的局面，&amp;quot;这很不寻常&amp;quot;。他同时强调，&amp;quot;鲍威尔的事，白宫说了不算&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月工厂订单环比微增0.1%，AI基建支撑制造业，飞机订单下滑抵消部分增幅</title><link>https://wallstreetcn.com/articles/3782947</link><guid>f9bcd5af39885094ecb9fb0e2566bf3e96bd1e1e402172c0478315150b165da5</guid><pubDate>Fri, 02 Oct 2026 19:36:53 GMT</pubDate><description>&lt;p&gt;美国8月工厂商品新订单仅小幅增长，电气设备、家用电器及零部件需求强劲，但商用飞机订单下滑抵消了部分增幅。&lt;/p&gt;
-&lt;p&gt;美国商务部普查局周五公布，&lt;strong&gt;8月工厂订单环比增长0.1%，与市场预期一致，同比增长6.8%。7月环比增幅经下修后为0.8%，此前公布为增长0.9%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;8月工厂订单受到民用飞机及零部件订单下降4.3%的拖累。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机动车车身、零部件及挂车订单增长0.8%。机械订单大幅增长1.1%。计算机及电子产品订单环比持平，但同比增长14.7%。电气设备、家用电器及零部件订单大幅增长1.1%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国商务部普查局还公布，&lt;strong&gt;8月扣除飞机的非国防资本品订单环比增长1.6%，与上月公布的数据一致，出货量8月环比增长0.5%，低于此前预计的0.6%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一指标通常被视为衡量企业设备投资计划的重要指标，即核心资本品订单。&lt;/p&gt;
-AI基建与补库存支撑制造业，能源价格与关税成潜在风险
-&lt;p&gt;AI基建正在支撑制造业，同时企业为满足强劲的国内需求而补充库存，也对制造业形成支持。&lt;/p&gt;
-&lt;p&gt;不过，随着美以对伊朗战争扰乱供应链并推高能源价格，市场担忧，未来几个月与人工智能支出热潮无关的制造业领域可能面临更大压力。&lt;/p&gt;
-&lt;p&gt;柴油价格已升至历史高位，经济学家表示，美国经济可能很快感受到由此带来的影响。持续实施的进口关税也构成下行风险。&lt;/p&gt;
-&lt;p&gt;周四公布的一项美国供应管理协会（ISM）调查显示，随着与加拿大的贸易战持续，美国制造商对相关影响的担忧正在上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光首次明确2027-2028年供应更紧，四大基地同步扩产HBM</title><link>https://wallstreetcn.com/articles/3782935</link><guid>9cfade899459cecb1045fcf4be3e59d249cd253540d2012c3acb460a62330078</guid><pubDate>Fri, 02 Oct 2026 11:48:59 GMT</pubDate><description>&lt;p&gt;美光科技最新一季营收与利润双双超出市场预期，但比业绩本身更值得关注的是管理层对远期供需的判断：&lt;strong&gt;公司首次明确，2027至2028年的HBM产能供应将比2026年更加紧张&lt;/strong&gt;，并同步在中国台湾桃园、台中、铜锣、台南四大制造基地扩产HBM。&lt;/p&gt;
+&lt;p&gt;在美联储问题上，哈塞特提及美联储主席沃什&amp;quot;展现出对供给与需求冲击的理解&amp;quot;，并称沃什将需要应对鲍威尔任期留下的局面，&amp;quot;这很不寻常&amp;quot;。他同时强调，&amp;quot;鲍威尔的事，白宫说了不算&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美光首次明确2027-2028年供应更紧，四大基地同步扩产HBM</title><link>https://wallstreetcn.com/articles/3782935</link><guid>9cfade899459cecb1045fcf4be3e59d249cd253540d2012c3acb460a62330078</guid><pubDate>Fri, 02 Oct 2026 11:48:59 GMT</pubDate><description>&lt;p&gt;美光科技最新一季营收与利润双双超出市场预期，但比业绩本身更值得关注的是管理层对远期供需的判断：&lt;strong&gt;公司首次明确，2027至2028年的HBM产能供应将比2026年更加紧张&lt;/strong&gt;，并同步在中国台湾桃园、台中、铜锣、台南四大制造基地扩产HBM。&lt;/p&gt;
 &lt;p&gt;据中国台湾媒体《电子时报》10月2日报道，美光亚洲DRAM前端制造副总裁、美光台湾董事长董慧璐确认，AI正在推动强劲的内存需求，&lt;strong&gt;公司正同步推进四大基地的扩产。将供应紧张的判断明确延伸至2027至2028年，是本次财报给出的最大增量信息。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一表态把HBM的供给约束从短期叙事升级为中期结构性判断，其直接含义是：&lt;strong&gt;即便全行业都在扩产，HBM的价格强势周期仍可能比此前预期的更长，存储厂商盈利中枢的支撑时间也随之拉长。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;分析认为，美光在业绩超预期之际主动提示供应更紧，既是对自身扩产逻辑的背书，也意味着下游AI芯片厂商在2027至2028年仍将面对偏紧的议价环境。&lt;/p&gt;
@@ -235,24 +225,17 @@ AI基建与补库存支撑制造业，能源价格与关税成潜在风险
 &lt;p&gt;10月14日公布的9月CPI，将成为非农之后市场判断美联储下一步政策的重要数据。如果通胀继续表现出黏性，尤其是在能源价格上涨的背景下重新加速，那么偏弱的就业报告未必足以阻止美联储在年内继续加息；反之，如果通胀同步降温，那么就业市场的软化将进一步强化美联储等待的理由。&lt;/p&gt;
 &lt;p&gt;从目前市场定价来看，9月非农已经明显削弱了10月加息预期：交易员对10月加息的押注降至约20%，而部分华尔街机构甚至认为这份报告已经足以“杀死”10月加息的前景。&lt;/p&gt;
 &lt;p&gt;但正如Timiraos所强调的，&lt;strong&gt;就业报告并没有改变美联储的基本立场——通胀仍然是决定下一步政策的关键变量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，市场交易逻辑正在从“美联储会不会很快再次加息”，转向“9月CPI会不会重新点燃加息预期”。10月14日的通胀数据，或将成为决定这场政策预期博弈下一阶段走向的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普据称将任命新“AI沙皇”：国家情报总监接棒硅谷大佬，AI政策重心转向安全管控</title><link>https://wallstreetcn.com/articles/3782949</link><guid>ada1e73c8720391e69da479c60d71e91fcd88e2b7920c95042ea8a3e804069b5</guid><pubDate>Fri, 02 Oct 2026 19:36:56 GMT</pubDate><description>&lt;p&gt;特朗普政府的AI治理架构正经历一次重要的人事转向。美东时间10月2日周五，多家媒体不约而同获悉，特朗普预计任命现任国家情报总监Jay Clayton担任白宫AI首席顾问，即外界所称的&amp;quot;AI沙皇&amp;quot;，接替今年3月离任的风险投资人David Sacks。&lt;/p&gt;
-&lt;p&gt;据这些媒体报道，特朗普最快于本周五宣布这一任命。Clayton目前统领美国18个情报机构，其情报安全背景与前任Sacks的硅谷创投履历形成鲜明对比，外界普遍将此次人事变动解读为白宫AI政策重心可能向安全管控倾斜的信号。白宫官员在回应媒体询问时表示，&amp;quot;任何人事任命将由总统直接宣布，此前的任何报道均属无端猜测。&amp;quot;&lt;/p&gt;
-&lt;p&gt;这一任命发生在AI安全争议持续升温的背景下。Quinnipiac大学本周发布的民调显示，72%的受访美国选民表示反对在其社区新建数据中心，较3月的65%进一步上升。与此同时，AI代理系统入侵外部系统的安全事件接连曝光，使AI风险议题在即将到来的中期选举中成为关键议题。&lt;/p&gt;
-Clayton的情报背景：安全管控优先级上升
-&lt;p&gt;Clayton的履历与其前任截然不同。在出任国家情报总监之前，他曾担任纽约南区联邦检察官，处理过多起高知名度案件，包括前委内瑞拉总统马杜罗被美国俘获后的相关诉讼。今年7月，他在前任Tulsi Gabbard于5月辞职后接任情报总监一职，并获得参议院确认。&lt;/p&gt;
-&lt;p&gt;在担任情报总监期间，Clayton已公开表达对AI安全威胁的高度重视。在其出任情报总监的确认听证会上，Clayton将AI描述为&amp;quot;不仅是机遇，更是威胁&amp;quot;，并表示&amp;quot;当某件事既是机遇又是威胁时，你最好把它牢牢掌握在手中&amp;quot;。&lt;/p&gt;
-&lt;p&gt;本周公布的CNBC采访中，Clayton将&amp;quot;超级智能&amp;quot;定性为&amp;quot;国家安全问题&amp;quot;，并表示这一判断得到了本周二在白宫出席会议的AI行业领袖的认同。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Clayton同时明确反对暂停AI开发，称&amp;quot;我不认为那个房间里的任何人&amp;quot;会认为在美国暂停发展是&amp;quot;一个好策略&amp;quot;。据Axios报道，特朗普本周在被问及“AI沙皇”人选时，当场指向Clayton并称其为&amp;quot;好人&amp;quot;，暗示这一任命已在特朗普的心中基本确定。&lt;/p&gt;
-与Sacks的政策分歧：监管立场存在微妙差异
-&lt;p&gt;Clayton的潜在任命将接替David Sacks留下的职位。Sacks于今年3月以特别政府雇员身份任期届满为由离职，但仍与特朗普保持联系，并于本周二出席了白宫与科技高管的午餐会议。&lt;/p&gt;
-&lt;p&gt;两人在AI监管立场上存在明显差异。Sacks一贯主张AI开发应尽量免于监管，以促进创新，并批评Anthropic首席执行官Dario Amodei呼吁加强监管和放缓开发的立场，认为此举实质上是为大型企业设置壁垒、阻碍小型竞争者。&lt;/p&gt;
-&lt;p&gt;相比之下，Clayton的情报安全背景使其对AI潜在风险的认知更为直接。不过，据彭博报道，Clayton的任命若最终落实，将表明特朗普政府无意改变其对AI的&amp;quot;放手&amp;quot;立场——这一技术始终是特朗普经济议程的核心支柱。&lt;/p&gt;
-&lt;p&gt;特朗普本人9月已将Anthropic CEO Amodei等人提出的安全担忧斥为&amp;quot;骗局&amp;quot;，坚持认为现有责任法律已提供足够保护。&lt;/p&gt;
-&lt;p&gt;对于AI企业和资本市场而言，这一人事变动的政策含义仍存在不确定性：Clayton的安全背景可能推动更严格的AI系统审查机制，但其明确反对暂停开发的立场，又在一定程度上缓解了市场对监管急剧收紧的担忧。&lt;/p&gt;
-白宫AI治理架构的演变
-&lt;p&gt;此次人事变动是特朗普政府近期密集布局AI治理的最新动作。上月，特朗普宣布计划设立&amp;quot;AI沙皇&amp;quot;职位并组建&amp;quot;AI部队&amp;quot;，但未披露具体实施细节。本周二，特朗普在白宫宴请了近二十位硅谷高管，包括英伟达首席执行官Jensen Huang、Anthropic首席执行官Dario Amodei、SpaceX AI的埃隆·马斯克、OpenAI总裁Greg Brockman、Meta的马克·扎克伯格以及谷歌母公司Alphabet首席执行官Sundar Pichai。&lt;/p&gt;
-&lt;p&gt;会后，特朗普拒绝了出台新AI法规的提议，坚持行业自律原则。与会各方就一项框架协议达成共识：企业将与外部审计机构合作开展模型安全评估，并强化内部系统管控。这一安排折射出特朗普政府的一贯逻辑——以行业自我约束替代政府立法监管。&lt;/p&gt;
-&lt;p&gt;然而，随着AI代理系统安全漏洞事件频发，以及Amodei于9月12日发表长达3800字的文章呼吁放缓AI开发并加强政府监管，公众对AI安全的忧虑已难以被政府单方面定性为&amp;quot;骗局&amp;quot;而轻易化解。两党国会议员均已表达警惕，并呼吁加强AI监管行动。在此背景下，Clayton能否在&amp;quot;促进发展&amp;quot;与&amp;quot;安全管控&amp;quot;之间找到平衡，将是其出任AI沙皇后面临的首要考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，市场交易逻辑正在从“美联储会不会很快再次加息”，转向“9月CPI会不会重新点燃加息预期”。10月14日的通胀数据，或将成为决定这场政策预期博弈下一阶段走向的关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月工厂订单环比微增0.1%，AI基建支撑制造业，飞机订单下滑抵消部分增幅</title><link>https://wallstreetcn.com/articles/3782947</link><guid>f9bcd5af39885094ecb9fb0e2566bf3e96bd1e1e402172c0478315150b165da5</guid><pubDate>Fri, 02 Oct 2026 19:36:53 GMT</pubDate><description>&lt;p&gt;美国8月工厂商品新订单仅小幅增长，电气设备、家用电器及零部件需求强劲，但商用飞机订单下滑抵消了部分增幅。&lt;/p&gt;
+&lt;p&gt;美国商务部普查局周五公布，&lt;strong&gt;8月工厂订单环比增长0.1%，与市场预期一致，同比增长6.8%。7月环比增幅经下修后为0.8%，此前公布为增长0.9%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月工厂订单受到民用飞机及零部件订单下降4.3%的拖累。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;机动车车身、零部件及挂车订单增长0.8%。机械订单大幅增长1.1%。计算机及电子产品订单环比持平，但同比增长14.7%。电气设备、家用电器及零部件订单大幅增长1.1%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国商务部普查局还公布，&lt;strong&gt;8月扣除飞机的非国防资本品订单环比增长1.6%，与上月公布的数据一致，出货量8月环比增长0.5%，低于此前预计的0.6%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一指标通常被视为衡量企业设备投资计划的重要指标，即核心资本品订单。&lt;/p&gt;
+AI基建与补库存支撑制造业，能源价格与关税成潜在风险
+&lt;p&gt;AI基建正在支撑制造业，同时企业为满足强劲的国内需求而补充库存，也对制造业形成支持。&lt;/p&gt;
+&lt;p&gt;不过，随着美以对伊朗战争扰乱供应链并推高能源价格，市场担忧，未来几个月与人工智能支出热潮无关的制造业领域可能面临更大压力。&lt;/p&gt;
+&lt;p&gt;柴油价格已升至历史高位，经济学家表示，美国经济可能很快感受到由此带来的影响。持续实施的进口关税也构成下行风险。&lt;/p&gt;
+&lt;p&gt;周四公布的一项美国供应管理协会（ISM）调查显示，随着与加拿大的贸易战持续，美国制造商对相关影响的担忧正在上升。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “从17升级到18毫无意义！” 古尔曼揭秘苹果下个“大杀器”：首款Siri AI家居中枢与触屏MacBook Pro最快10月问世</title><link>https://wallstreetcn.com/articles/3782932</link><guid>117d8c21b1480c961950d7055136f42470082d1e789278615a2e11d74544c70a</guid><pubDate>Fri, 02 Oct 2026 11:12:01 GMT</pubDate><description>&lt;p&gt;古尔曼近日连爆数个重磅独家：&lt;strong&gt;触屏MacBook Pro最快10月亮相、苹果智能家居中枢&amp;quot;全球仓库已备货&amp;quot;、iPhone 18 Pro升级价值存疑，以及苹果正以网红营销取代传统媒体报道。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在彭博社10月2日首播的《Power On》播客节目中，资深苹果科技记者古尔曼（Mark Gurman）与彭博科技编辑Vlad Savov围绕苹果即将到来的秋季新品发布会进行了深度对话。节目不仅曝光了苹果在智能家居领域的庞大野心和首款触屏MacBook Pro的细节，还对最新发布的iPhone 18系列及新任CEO 特努斯（John Ternus）面临的战略挑战进行了犀利点评。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;（左：古尔曼；右：Vlad Savov）&lt;/p&gt;
@@ -367,7 +350,24 @@ iPhone 18系列被批“毫无升级意义”，苹果营销策略转向网红
 &lt;p&gt;经济学家对未来数季度的前景仍持审慎态度。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国与以色列对伊朗的战争带来的能源价格上涨和供应链紧张，预计将在今年年底至2027年期间开始对就业市场形成实质性冲击。&lt;/strong&gt;柴油价格已创历史新高，潜在的传导压力正逐步向交通运输和农业以外的行业扩散。&lt;/p&gt;
 &lt;p&gt;此外，持续的关税摩擦亦令企业感到忧虑。供应管理协会（ISM）周四公布的调查显示，制造商对与加拿大贸易争端的担忧情绪持续升温，这可能进一步抑制企业的扩产和招聘意愿。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国医药BD再下一城！艾博生物与诺华达成78亿美元mRNA授权协议</title><link>https://wallstreetcn.com/articles/3782931</link><guid>e635680aba6c0a9afef8001c7a8d7732ea40e781a34876449e7d628033d2883d</guid><pubDate>Fri, 02 Oct 2026 10:03:40 GMT</pubDate><description>&lt;p&gt;中国mRNA生物技术公司艾博生物（Abogen Biosciences）与瑞士制药巨头诺华（Novartis）达成一项总价值高达&lt;strong&gt;78亿美元&lt;/strong&gt;的授权合作协议，为全球总交易额最高的一笔之一，亦成为近期跨国药企押注中国创新药管线的又一重磅案例。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普据称将任命新“AI沙皇”：国家情报总监接棒硅谷大佬，AI政策重心转向安全管控</title><link>https://wallstreetcn.com/articles/3782949</link><guid>ada1e73c8720391e69da479c60d71e91fcd88e2b7920c95042ea8a3e804069b5</guid><pubDate>Fri, 02 Oct 2026 19:36:56 GMT</pubDate><description>&lt;p&gt;特朗普政府的AI治理架构正经历一次重要的人事转向。美东时间10月2日周五，多家媒体不约而同获悉，特朗普预计任命现任国家情报总监Jay Clayton担任白宫AI首席顾问，即外界所称的&amp;quot;AI沙皇&amp;quot;，接替今年3月离任的风险投资人David Sacks。&lt;/p&gt;
+&lt;p&gt;据这些媒体报道，特朗普最快于本周五宣布这一任命。Clayton目前统领美国18个情报机构，其情报安全背景与前任Sacks的硅谷创投履历形成鲜明对比，外界普遍将此次人事变动解读为白宫AI政策重心可能向安全管控倾斜的信号。白宫官员在回应媒体询问时表示，&amp;quot;任何人事任命将由总统直接宣布，此前的任何报道均属无端猜测。&amp;quot;&lt;/p&gt;
+&lt;p&gt;这一任命发生在AI安全争议持续升温的背景下。Quinnipiac大学本周发布的民调显示，72%的受访美国选民表示反对在其社区新建数据中心，较3月的65%进一步上升。与此同时，AI代理系统入侵外部系统的安全事件接连曝光，使AI风险议题在即将到来的中期选举中成为关键议题。&lt;/p&gt;
+Clayton的情报背景：安全管控优先级上升
+&lt;p&gt;Clayton的履历与其前任截然不同。在出任国家情报总监之前，他曾担任纽约南区联邦检察官，处理过多起高知名度案件，包括前委内瑞拉总统马杜罗被美国俘获后的相关诉讼。今年7月，他在前任Tulsi Gabbard于5月辞职后接任情报总监一职，并获得参议院确认。&lt;/p&gt;
+&lt;p&gt;在担任情报总监期间，Clayton已公开表达对AI安全威胁的高度重视。在其出任情报总监的确认听证会上，Clayton将AI描述为&amp;quot;不仅是机遇，更是威胁&amp;quot;，并表示&amp;quot;当某件事既是机遇又是威胁时，你最好把它牢牢掌握在手中&amp;quot;。&lt;/p&gt;
+&lt;p&gt;本周公布的CNBC采访中，Clayton将&amp;quot;超级智能&amp;quot;定性为&amp;quot;国家安全问题&amp;quot;，并表示这一判断得到了本周二在白宫出席会议的AI行业领袖的认同。&lt;/p&gt;
+&lt;p&gt;值得注意的是，Clayton同时明确反对暂停AI开发，称&amp;quot;我不认为那个房间里的任何人&amp;quot;会认为在美国暂停发展是&amp;quot;一个好策略&amp;quot;。据Axios报道，特朗普本周在被问及“AI沙皇”人选时，当场指向Clayton并称其为&amp;quot;好人&amp;quot;，暗示这一任命已在特朗普的心中基本确定。&lt;/p&gt;
+与Sacks的政策分歧：监管立场存在微妙差异
+&lt;p&gt;Clayton的潜在任命将接替David Sacks留下的职位。Sacks于今年3月以特别政府雇员身份任期届满为由离职，但仍与特朗普保持联系，并于本周二出席了白宫与科技高管的午餐会议。&lt;/p&gt;
+&lt;p&gt;两人在AI监管立场上存在明显差异。Sacks一贯主张AI开发应尽量免于监管，以促进创新，并批评Anthropic首席执行官Dario Amodei呼吁加强监管和放缓开发的立场，认为此举实质上是为大型企业设置壁垒、阻碍小型竞争者。&lt;/p&gt;
+&lt;p&gt;相比之下，Clayton的情报安全背景使其对AI潜在风险的认知更为直接。不过，据彭博报道，Clayton的任命若最终落实，将表明特朗普政府无意改变其对AI的&amp;quot;放手&amp;quot;立场——这一技术始终是特朗普经济议程的核心支柱。&lt;/p&gt;
+&lt;p&gt;特朗普本人9月已将Anthropic CEO Amodei等人提出的安全担忧斥为&amp;quot;骗局&amp;quot;，坚持认为现有责任法律已提供足够保护。&lt;/p&gt;
+&lt;p&gt;对于AI企业和资本市场而言，这一人事变动的政策含义仍存在不确定性：Clayton的安全背景可能推动更严格的AI系统审查机制，但其明确反对暂停开发的立场，又在一定程度上缓解了市场对监管急剧收紧的担忧。&lt;/p&gt;
+白宫AI治理架构的演变
+&lt;p&gt;此次人事变动是特朗普政府近期密集布局AI治理的最新动作。上月，特朗普宣布计划设立&amp;quot;AI沙皇&amp;quot;职位并组建&amp;quot;AI部队&amp;quot;，但未披露具体实施细节。本周二，特朗普在白宫宴请了近二十位硅谷高管，包括英伟达首席执行官Jensen Huang、Anthropic首席执行官Dario Amodei、SpaceX AI的埃隆·马斯克、OpenAI总裁Greg Brockman、Meta的马克·扎克伯格以及谷歌母公司Alphabet首席执行官Sundar Pichai。&lt;/p&gt;
+&lt;p&gt;会后，特朗普拒绝了出台新AI法规的提议，坚持行业自律原则。与会各方就一项框架协议达成共识：企业将与外部审计机构合作开展模型安全评估，并强化内部系统管控。这一安排折射出特朗普政府的一贯逻辑——以行业自我约束替代政府立法监管。&lt;/p&gt;
+&lt;p&gt;然而，随着AI代理系统安全漏洞事件频发，以及Amodei于9月12日发表长达3800字的文章呼吁放缓AI开发并加强政府监管，公众对AI安全的忧虑已难以被政府单方面定性为&amp;quot;骗局&amp;quot;而轻易化解。两党国会议员均已表达警惕，并呼吁加强AI监管行动。在此背景下，Clayton能否在&amp;quot;促进发展&amp;quot;与&amp;quot;安全管控&amp;quot;之间找到平衡，将是其出任AI沙皇后面临的首要考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国医药BD再下一城！艾博生物与诺华达成78亿美元mRNA授权协议</title><link>https://wallstreetcn.com/articles/3782931</link><guid>e635680aba6c0a9afef8001c7a8d7732ea40e781a34876449e7d628033d2883d</guid><pubDate>Fri, 02 Oct 2026 10:03:40 GMT</pubDate><description>&lt;p&gt;中国mRNA生物技术公司艾博生物（Abogen Biosciences）与瑞士制药巨头诺华（Novartis）达成一项总价值高达&lt;strong&gt;78亿美元&lt;/strong&gt;的授权合作协议，为全球总交易额最高的一笔之一，亦成为近期跨国药企押注中国创新药管线的又一重磅案例。&lt;/p&gt;
 &lt;p&gt;根据协议，诺华将&lt;strong&gt;预付5.75亿美元&lt;/strong&gt;，获得艾博生物旗下实验性药物ABO2203的独家授权，并拥有对艾博生物RNA技术平台其他潜在项目的选择权。若后续开发顺利推进并获得监管批准，艾博生物最高可额外获得&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款，并有望获得未来产品销售的特许权使用费。&lt;/p&gt;
 &lt;p&gt;ABO2203是一款基于mRNA编码的&lt;strong&gt;T细胞衔接器（T-cell engager）&lt;/strong&gt;，通过让患者自身产生治疗性分子，靶向清除驱动自身免疫疾病的B细胞，旨在从根本上重置免疫系统。该药物的潜在适应症涵盖&lt;strong&gt;狼疮、类风湿性关节炎&lt;/strong&gt;等多种自身免疫疾病。&lt;/p&gt;
 &lt;p&gt;此次交易进一步印证了跨国药企对中国创新药管线的持续高度关注，也标志着中国mRNA技术平台的商业价值获得国际顶级药企的正式认可。&lt;/p&gt;
