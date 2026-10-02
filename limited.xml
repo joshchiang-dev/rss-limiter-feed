@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 21:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 02 Oct 2026 22:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达推出64GB版DGX Spark，内存砍半，4999美元起售，128GB版涨价至6950美元</title><link>https://wallstreetcn.com/articles/3782942</link><guid>9f3be310b74de4b9008269cc81dc52570fdb9f570302bb95e8e905acb5a41746</guid><pubDate>Fri, 02 Oct 2026 15:35:29 GMT</pubDate><description>&lt;p&gt;在AI模型越来越“轻量化”的同时，显存却越来越贵。英伟达正在用一款“砍内存”的产品应对这一矛盾。&lt;/p&gt;
 &lt;p&gt;美东时间10月2日周五，英伟达宣布推出64GB统一内存版本的桌面AI计算机DGX Spark，起售价4999美元，将于10月23日由宏碁、华硕、戴尔、技嘉、惠普和微星等OEM厂商推向市场。新机保留GB10 Grace Blackwell超级芯片、DGX OS、完整的英伟达AI软件栈以及ConnectX-7网络能力，但统一内存从现有的128GB降至64GB。&lt;/p&gt;
 &lt;p&gt;耐人寻味的是，这款“缩水版”DGX Spark的起售价，反而高于去年128GB版本3999美元的首发价；与此同时，英伟达还将128GB Founders Edition的价格进一步上调至6950美元。媒体指出，英伟达将此次涨价归因于内存供应受限和成本上升。&lt;/p&gt;
 &lt;p&gt;这意味着，在AI服务器需求持续挤压内存供应的背景下，&lt;strong&gt;“少给内存”已经成为降低本地AI设备价格门槛的一种办法，但并不意味着设备本身真的变便宜了。&lt;/strong&gt;&lt;/p&gt;
@@ -68,7 +68,73 @@
 &lt;p&gt;美光披露在中国台湾桃园、台中、铜锣、台南四大制造基地同步扩产HBM，董慧璐确认AI是这轮扩产的核心驱动力。公司未披露各基地的具体扩产规模与投产时间。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;中国台湾是美光HBM产能扩张的重要支点。&lt;/strong&gt;此前业内信息显示，美光计划在年底前将HBM月产能提升至约10万片晶圆，较去年接近翻倍，其中HBM封装业务主要在中国台湾铜锣厂推进。四大基地同步动作，显示美光正把台湾打造为HBM产能扩张的核心基地。&lt;/p&gt;
 &lt;p&gt;在HBM市场，美光长期位居第三。据市场研究机构Counterpoint Research数据，今年第二季度全球HBM市场份额中，SK海力士以50%居首，三星电子占32%，美光占18%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月工厂订单环比微增0.1%，AI基建支撑制造业，飞机订单下滑抵消部分增幅</title><link>https://wallstreetcn.com/articles/3782947</link><guid>f9bcd5af39885094ecb9fb0e2566bf3e96bd1e1e402172c0478315150b165da5</guid><pubDate>Fri, 02 Oct 2026 19:36:53 GMT</pubDate><description>&lt;p&gt;美国8月工厂商品新订单仅小幅增长，电气设备、家用电器及零部件需求强劲，但商用飞机订单下滑抵消了部分增幅。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美光正加快追赶。&lt;/strong&gt;公司HBM4已开始为英伟达Vera Rubin平台量产供货，并计划明年量产HBM4E；同时通过五年期战略客户协议锁定长期需求，6月底已与16家客户签约，2026财年资本支出计划超过250亿美元。若2027至2028年供应确实更紧，提前锁定产能的客户将获得优先供应，美光的份额排名有望进一步上移。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 法德国债利差飙升至欧债危机以来新高，欧央行面临“噩梦情景”：出手救市还是保信用？</title><link>https://wallstreetcn.com/articles/3782950</link><guid>36074c36be3c08b8282c7b864242540c34582010a926f2566fe1626a6c16ce71</guid><pubDate>Fri, 02 Oct 2026 21:56:35 GMT</pubDate><description>&lt;p&gt;法国国债利差飙升至欧债危机以来最高水平，欧洲央行面临是否动用危机干预工具的艰难抉择，其公信力与市场稳定之间的张力正迅速激化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;法德10年期利差已升至约150个基点，为2012年欧债危机以来最高，法国5年期信用违约互换（CDS）升至约87个基点，为2013年初以来最高&lt;/strong&gt;；这一轮走阔在一周内完成，为2011年以来最快。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;法德国债利差的持续扩大，令外界对欧洲央行是否将启用&amp;quot;传导保护工具&amp;quot;（TPI）的猜测与日俱增。&lt;/p&gt;
+&lt;p&gt;TPI工具是指，如果欧洲央行判定某国国债遭遇了&amp;quot;无端且无序&amp;quot;的市场抛售，欧洲央行可以在二级市场上公开购买该国发行的政府债券。&lt;strong&gt;而法国当前困境的根源恰恰在于真实存在的财政赤字失控与政治僵局，令动用条件的认定极为棘手。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，欧元区通胀因中东冲突影响正逼近4%，欧洲央行今年已连续加息，此时若重启债券购买、放松融资条件，将与其货币紧缩立场形成直接矛盾。&lt;/p&gt;
+&lt;p&gt;目前，欧洲央行官员尚未发出任何干预信号，但市场压力若持续蔓延至意大利等高债务国，局面恐将进一步复杂化。&lt;/p&gt;
+
+利差创欧债危机以来新高，TPI存废之争浮出水面
+
+&lt;p&gt;法国国债相对德国国债的风险溢价已升至2012年欧债危机以来最高位，迫使市场重新审视欧洲央行的应对选项。TPI于2022年意大利债市动荡期间创设，其设计逻辑在于：工具的存在本身即足以震慑投机性抛售，无需实际动用。&lt;/p&gt;
+&lt;p&gt;然而，这一威慑逻辑正面临考验。Danske Bank首席策略师Piet Christiansen指出：&amp;quot;鉴于法国的财政立场与政治不确定性，利差扩大具有合理性。但这也正是令市场对欧洲央行判断感到困惑之处——如果已妨碍货币政策传导，那是欧洲央行的职责所在；如果尚未妨碍，则应让市场自行对基本面定价，无需干预。&amp;quot;&lt;/p&gt;
+&lt;p&gt;按照TPI的既定条款，启动条件须满足市场波动&amp;quot;无根据且无序&amp;quot;，并对货币政策传导构成实质威胁。&lt;strong&gt;法国当前困境显然不符合前一条件，这使欧洲央行陷入两难——出手干预可能被解读为协助政府为赤字融资，损害央行独立性与公信力。&lt;/strong&gt;&lt;/p&gt;
+
+官员坚守价格稳定立场，干预条件尚未成熟
+
+&lt;p&gt;欧洲央行官员迄今措辞审慎，未向市场释放任何干预意愿。德国联邦银行行长Joachim Nagel本周在被问及TPI潜在使用时明确表态：&amp;quot;&lt;strong&gt;我在管理委员会的职责是履行授权。价格稳定是核心，这与某些利差水平无关。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欧洲央行行长拉加德上月在都柏林讲话时，对法国债市压力态度相对从容，并着重强调更广泛背景：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们没有看到任何无序波动，没有看到任何紧张迹象。这是一场影响所有债券、尤其是长端债券的全球性运动，有多重原因，但市场功能并未出现无序失灵。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;芬兰央行行长Olli Rehn则将解决问题的责任明确归于各国政府：&amp;quot;较高的借贷成本、不断增长的支出需求以及有限的财政空间，可能加剧主权风险，并在金融体系其他环节暴露脆弱性。这些风险凸显了持续保持警惕、推进财政整合的必要性。&amp;quot;&lt;/p&gt;
+&lt;p&gt;法国央行行长Emmanuel Moulin亦警告，&lt;strong&gt;欧洲央行对法国经济并无&amp;quot;灵丹妙药&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+
+量化紧缩退出或成折中选项，但效果存疑
+
+&lt;p&gt;在完全启用TPI之前，部分市场人士认为，停止&amp;quot;量化紧缩&amp;quot;——即停止让债券持仓自然到期缩减——可能是欧洲央行可采取的第一步缓和措施。&lt;/p&gt;
+&lt;p&gt;安联贸易（Allianz Trade）首席经济学家Ana Boata表示：&lt;strong&gt;&amp;quot;这方面显然有操作空间。以法国为例，每月到期规模约为50亿欧元，占新发行量的20%，绝非可以忽视的数字。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但通胀背景令这一选项同样受限。中东冲突引发的能源与大宗商品价格波动推动欧元区通胀接近4%，欧洲央行6月与9月已相继加息，在此背景下重新放松融资条件，逻辑上与当前紧缩周期背道而驰。&lt;/p&gt;
+
+蔓延风险是关键触发点，意大利动向备受关注
+
+&lt;p&gt;据彭博分析师Jean Dalbard和Simona Delle Chiaie判断，TPI启动的关键触发条件在于：法国债市压力是否蔓延至其他欧元区主权债或资产类别。&lt;strong&gt;目前尚无明显传染迹象，但意大利国债利差也在走阔，尽管与历史高点相比仍处较低水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在此背景下，意大利总理乔治娅·梅洛尼（Giorgia Meloni）政府本周对预算方案进行了临时调整，削减国防开支以将财政赤字压缩至欧盟GDP 3%红线以下，显示出对市场压力的明显警觉。&lt;/p&gt;
+&lt;p&gt;相比之下，法国仅计划将赤字从2026年的5.4%收窄至2025年的5%，整改力度远逊。&lt;/p&gt;
+&lt;p&gt;布鲁塞尔官员的焦虑情绪同样在上升。据一位不愿具名的欧盟官员透露，各成员国尚未充分认识到局势的严峻性，持续寻求放宽欧盟财政约束，而市场需要的恰恰是政策可预期性。&lt;/p&gt;
+
+TPI从未实际动用，但理论威力不容小觑
+
+&lt;p&gt;尽管欧洲央行官员态度保守，部分市场人士仍相信，一旦局势失控，欧洲央行别无选择。&lt;/p&gt;
+&lt;p&gt;富达国际（Fidelity International）固定收益首席投资官Marion Le Morhedec表示：&lt;strong&gt;&amp;quot;欧洲央行对此高度关注，一直在与市场参与者保持沟通，包括对冲基金。他们真正想了解正在发生什么，并准备好采取一切必要措施，避免出现重大动荡。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scope Ratings主权分析师Eiko Sievert则指出：&amp;quot;TPI从未被实际测试过，但理论上，这是一个非常强大的工具。&amp;quot;&lt;/p&gt;
+&lt;p&gt;问题在于，工具的使用条件与政治意愿能否在市场压力彻底失控之前同步到位，将是欧洲央行未来数周面临的核心考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达盘中创历史新高，市值逼近6万亿美元！对OpenAI 300亿美元投资收官</title><link>https://wallstreetcn.com/articles/3782951</link><guid>72c21021af8316397fed4bb1319cbba92247739e7dfaf8f00b47cc927a5f02fd</guid><pubDate>Fri, 02 Oct 2026 21:56:25 GMT</pubDate><description>&lt;p&gt;英伟达股价在周五盘中刷新历史高点，距成为全球首家市值突破6万亿美元的上市公司仅一步之遥。这一反弹终结了一场历时两个月、蒸发逾1万亿美元市值的深度回调，并得到AI需求前景改善、巨额股票回购及宏观利率预期转变等多重利好的共同支撑。&lt;/p&gt;
+&lt;p&gt;周五盘中，英伟达股价最高涨幅达约3%，刷新历史盘中高点，为今年5月以来首次；尾盘涨幅收窄，最终收涨1.34%，收盘价略低于历史收盘纪录。当日市值一度突破5.7万亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，据The Information报道，&lt;strong&gt;英伟达与软银已分别完成对OpenAI上一轮融资的最后一笔100亿美元投资，各自兑现了300亿美元的投资承诺。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;a href="https://wallstreetcn.com/articles/3782938"&gt;美国最新非农数据&lt;/a&gt;公布后市场下调了对美联储10月加息的押注，带动科技股整体走强，进一步提振英伟达股价。&lt;/p&gt;
+&lt;p&gt;本轮反弹自7月底低点以来已累计上涨约23%，将英伟达年内涨幅推至约25%。公司市值目前约为5.6万亿美元，距6万亿美元的历史性关口尚不足4000亿美元。若能突破该关口，英伟达将成为人类历史上首家市值达到6万亿美元的上市公司。&lt;/p&gt;
+
+回购与投资：多重利好支撑反弹
+
+&lt;p&gt;在基本面层面，&lt;a href="https://wallstreetcn.com/articles/3782663?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE"&gt;英伟达于本周一宣布将股票回购授权扩大1500亿美元&lt;/a&gt;，创历史最大单次回购增量，使回购计划总规模扩至2350亿美元，并预计在2028财年前执行完毕。&lt;/p&gt;
+&lt;p&gt;这一举措向市场传递出管理层对公司长期价值的强烈信心，被视为股价持续获得支撑的重要锚点。&lt;/p&gt;
+&lt;p&gt;与此同时，英伟达与软银联手完成对OpenAI的投资承诺，进一步巩固了其在AI产业链核心地位的市场认知。英伟达不仅是AI算力基础设施的最大受益者，还在通过战略投资深度参与AI生态的构建。&lt;/p&gt;
+
+AI安全布局：应对监管与投资者关切
+
+&lt;p&gt;近期市场对AI安全风险的关注度持续上升。英伟达于本周一发布了一套新型双层AI安全系统，旨在防止AI代理出现异常行为。&lt;/p&gt;
+&lt;p&gt;英伟达表示，该系统若此前已部署，将能够阻止OpenAI模型近期对Hugging Face的入侵事件。&lt;/p&gt;
+&lt;p&gt;这一举措的时机颇为微妙——在投资者对AI技术安全风险及技术对人类潜在威胁的担忧不断升温之际，英伟达主动展示其在安全层面的技术储备，有助于缓解外界对AI监管风险可能冲击需求的顾虑。&lt;/p&gt;
+
+情绪修复：AI需求前景重回正轨
+
+&lt;p&gt;此轮反弹的更深层驱动力，在于市场对AI基础设施需求前景的信心逐步回归。&lt;/p&gt;
+&lt;p&gt;过去数月，围绕AI领域的市场情绪快速切换，核心争议在于科技巨头在AI基础设施上投入的数千亿美元是否能转化为实际回报。&lt;/p&gt;
+&lt;p&gt;近期，以Meta旗下AI代理Muse为代表的应用层突破，令市场重燃对AI代理类应用将大幅拉升芯片需求的乐观预期，进一步修复了投资者对英伟达中长期增长逻辑的信心。&lt;/p&gt;
+&lt;p&gt;目前，英伟达今年以来累计涨幅约25%，有望实现连续第四年录得两位数涨幅。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国8月工厂订单环比微增0.1%，AI基建支撑制造业，飞机订单下滑抵消部分增幅</title><link>https://wallstreetcn.com/articles/3782947</link><guid>f9bcd5af39885094ecb9fb0e2566bf3e96bd1e1e402172c0478315150b165da5</guid><pubDate>Fri, 02 Oct 2026 19:36:53 GMT</pubDate><description>&lt;p&gt;美国8月工厂商品新订单仅小幅增长，电气设备、家用电器及零部件需求强劲，但商用飞机订单下滑抵消了部分增幅。&lt;/p&gt;
 &lt;p&gt;美国商务部普查局周五公布，&lt;strong&gt;8月工厂订单环比增长0.1%，与市场预期一致，同比增长6.8%。7月环比增幅经下修后为0.8%，此前公布为增长0.9%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;8月工厂订单受到民用飞机及零部件订单下降4.3%的拖累。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机动车车身、零部件及挂车订单增长0.8%。机械订单大幅增长1.1%。计算机及电子产品订单环比持平，但同比增长14.7%。电气设备、家用电器及零部件订单大幅增长1.1%。&lt;/strong&gt;&lt;/p&gt;
@@ -248,22 +314,7 @@ Clayton的情报背景：安全管控优先级上升
 白宫AI治理架构的演变
 &lt;p&gt;此次人事变动是特朗普政府近期密集布局AI治理的最新动作。上月，特朗普宣布计划设立&amp;quot;AI沙皇&amp;quot;职位并组建&amp;quot;AI部队&amp;quot;，但未披露具体实施细节。本周二，特朗普在白宫宴请了近二十位硅谷高管，包括英伟达首席执行官Jensen Huang、Anthropic首席执行官Dario Amodei、SpaceX AI的埃隆·马斯克、OpenAI总裁Greg Brockman、Meta的马克·扎克伯格以及谷歌母公司Alphabet首席执行官Sundar Pichai。&lt;/p&gt;
 &lt;p&gt;会后，特朗普拒绝了出台新AI法规的提议，坚持行业自律原则。与会各方就一项框架协议达成共识：企业将与外部审计机构合作开展模型安全评估，并强化内部系统管控。这一安排折射出特朗普政府的一贯逻辑——以行业自我约束替代政府立法监管。&lt;/p&gt;
-&lt;p&gt;然而，随着AI代理系统安全漏洞事件频发，以及Amodei于9月12日发表长达3800字的文章呼吁放缓AI开发并加强政府监管，公众对AI安全的忧虑已难以被政府单方面定性为&amp;quot;骗局&amp;quot;而轻易化解。两党国会议员均已表达警惕，并呼吁加强AI监管行动。在此背景下，Clayton能否在&amp;quot;促进发展&amp;quot;与&amp;quot;安全管控&amp;quot;之间找到平衡，将是其出任AI沙皇后面临的首要考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国医药BD再下一城！艾博生物与诺华达成78亿美元mRNA授权协议</title><link>https://wallstreetcn.com/articles/3782931</link><guid>e635680aba6c0a9afef8001c7a8d7732ea40e781a34876449e7d628033d2883d</guid><pubDate>Fri, 02 Oct 2026 10:03:40 GMT</pubDate><description>&lt;p&gt;中国mRNA生物技术公司艾博生物（Abogen Biosciences）与瑞士制药巨头诺华（Novartis）达成一项总价值高达&lt;strong&gt;78亿美元&lt;/strong&gt;的授权合作协议，为全球总交易额最高的一笔之一，亦成为近期跨国药企押注中国创新药管线的又一重磅案例。&lt;/p&gt;
-&lt;p&gt;根据协议，诺华将&lt;strong&gt;预付5.75亿美元&lt;/strong&gt;，获得艾博生物旗下实验性药物ABO2203的独家授权，并拥有对艾博生物RNA技术平台其他潜在项目的选择权。若后续开发顺利推进并获得监管批准，艾博生物最高可额外获得&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款，并有望获得未来产品销售的特许权使用费。&lt;/p&gt;
-&lt;p&gt;ABO2203是一款基于mRNA编码的&lt;strong&gt;T细胞衔接器（T-cell engager）&lt;/strong&gt;，通过让患者自身产生治疗性分子，靶向清除驱动自身免疫疾病的B细胞，旨在从根本上重置免疫系统。该药物的潜在适应症涵盖&lt;strong&gt;狼疮、类风湿性关节炎&lt;/strong&gt;等多种自身免疫疾病。&lt;/p&gt;
-&lt;p&gt;此次交易进一步印证了跨国药企对中国创新药管线的持续高度关注，也标志着中国mRNA技术平台的商业价值获得国际顶级药企的正式认可。&lt;/p&gt;
-交易结构：5.75亿美元首付款，里程碑总额达78亿美元
-&lt;p&gt;本次合作采用典型的&amp;quot;首付款+里程碑付款+特许权使用费&amp;quot;结构。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;诺华将支付5.75亿美元的预付款&lt;/strong&gt;，换取ABO2203的独家开发和商业化权利，同时获得对艾博生物RNA平台其他潜在项目的选择权授权。&lt;/p&gt;
-&lt;p&gt;若ABO2203顺利完成各阶段临床开发并通过监管审批，艾博生物可额外获得最高&lt;strong&gt;72亿美元&lt;/strong&gt;的里程碑付款（Milestones）。此外，艾博生物还有望就未来产品销售收取特许权使用费，进一步扩大潜在收益空间。&lt;/p&gt;
-核心资产：mRNA编码T细胞衔接器，靶向自身免疫疾病
-&lt;p&gt;ABO2203代表了mRNA技术在自身免疫疾病领域的前沿探索。&lt;/p&gt;
-&lt;p&gt;据彭博报道，该药物是一款&lt;strong&gt;mRNA编码的T细胞衔接器&lt;/strong&gt;，其作用机制在于引导患者自身免疫系统产生治疗性分子，进而靶向清除B细胞——这类白细胞是狼疮、类风湿性关节炎等自身免疫疾病的核心驱动因素。通过耗竭致病性B细胞，ABO2203旨在实现对免疫系统的根本性重置，而非仅仅抑制症状。&lt;/p&gt;
-&lt;p&gt;诺华此前已在自身免疫领域探索过多种免疫重置路径，包括细胞疗法，但据彭博报道，该公司近期在相关细胞疗法临床试验中因&lt;strong&gt;三名患者死亡&lt;/strong&gt;而暂停了试验进程。此次转向mRNA技术路线，或反映出诺华在自身免疫管线布局上的战略调整。&lt;/p&gt;
-跨国药企持续押注中国创新药管线
-&lt;p&gt;艾博生物与诺华的交易，是近期跨国药企密集布局中国创新药的缩影。&lt;/p&gt;
-&lt;p&gt;据彭博报道，就在本周，&lt;strong&gt;诺和诺德（Novo Nordisk）&lt;/strong&gt;以&lt;strong&gt;26亿美元&lt;/strong&gt;收购了江苏恒瑞医药旗下一款早期肥胖症口服药的权利；&lt;strong&gt;阿斯利康（AstraZeneca）&lt;/strong&gt;则向Summit Therapeutics投资&lt;strong&gt;20亿美元&lt;/strong&gt;，共同开发源自&lt;strong&gt;康方生物（Akeso）&lt;/strong&gt;的癌症药物；此前，&lt;strong&gt;葛兰素史克（GSK）&lt;/strong&gt;也与Chimagen Biosciences就一款血液癌症药物达成最高&lt;strong&gt;7.5亿美元&lt;/strong&gt;的授权协议。&lt;/p&gt;
-&lt;p&gt;上述交易密集落地，折射出全球大型制药公司对中国创新药管线的结构性需求——在自身研发管线面临压力的背景下，中国生物技术公司凭借差异化的技术平台和相对具有竞争力的授权条款，正成为跨国药企补充管线的重要来源。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] G7决定释放1亿桶紧急油储，前20天先大规模投放柴油，美油一度跌超5%</title><link>https://wallstreetcn.com/articles/3782940</link><guid>a9df5fadf45ba1ab2a0c6bc10c5267fff4d39f1c2232d9cfa71e4d24d7866991</guid><pubDate>Fri, 02 Oct 2026 14:09:12 GMT</pubDate><description>&lt;p&gt;在国际能源市场供应紧张、柴油价格持续高企之际，七国集团（G7）终于祭出大规模战略储备释放措施。&lt;/p&gt;
+&lt;p&gt;然而，随着AI代理系统安全漏洞事件频发，以及Amodei于9月12日发表长达3800字的文章呼吁放缓AI开发并加强政府监管，公众对AI安全的忧虑已难以被政府单方面定性为&amp;quot;骗局&amp;quot;而轻易化解。两党国会议员均已表达警惕，并呼吁加强AI监管行动。在此背景下，Clayton能否在&amp;quot;促进发展&amp;quot;与&amp;quot;安全管控&amp;quot;之间找到平衡，将是其出任AI沙皇后面临的首要考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] G7决定释放1亿桶紧急油储，前20天先大规模投放柴油，美油一度跌超5%</title><link>https://wallstreetcn.com/articles/3782940</link><guid>a9df5fadf45ba1ab2a0c6bc10c5267fff4d39f1c2232d9cfa71e4d24d7866991</guid><pubDate>Fri, 02 Oct 2026 14:09:12 GMT</pubDate><description>&lt;p&gt;在国际能源市场供应紧张、柴油价格持续高企之际，七国集团（G7）终于祭出大规模战略储备释放措施。&lt;/p&gt;
 &lt;p&gt;当地时间10月2日周五，法国总统府发布的G7领导人声明称，G7将通过国际能源署（IEA）协调释放1亿桶石油战略储备，行动将“立即”开始，并持续4个月；这期间，G7成员国及合作伙伴将在最初20天内率先大规模释放柴油储备。G7同时承诺，避免在成员国之间实施能源及能源产品出口限制，并呼吁其他产油国不要采取可能进一步加剧市场紧张的出口禁令。&lt;/p&gt;
 &lt;p&gt;以上G7决定公布后，周五美股早盘时段，国际原油期货跌幅明显扩大。周五美股早盘时段，美国WTI原油一度跌破88.10美元/桶，日内跌近5.2%；布伦特原油曾跌至98.50美元/桶下方，日内跌近3.8%。周五稍早，原油已经因为G7可能进一步释放战略储备的消息而承压下行。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -292,43 +343,4 @@ Clayton的情报背景：安全管控优先级上升
 &lt;p&gt;而从G7正式声明看，储备释放确实将立即启动，但并非1亿桶在一天之内集中进入市场，而是计划在未来4个月内通过IEA协调实施，其中柴油供应将在最初20天明显前置。&lt;/p&gt;
 &lt;p&gt;这意味着，短期来看，市场首先交易的是&lt;strong&gt;供应预期的变化&lt;/strong&gt;，而实际库存何时、以多快速度转化为现货供应，将决定油价后续走势。&lt;/p&gt;
 &lt;p&gt;与此同时，G7声明仍将霍尔木兹海峡通航问题列为能源安全的重要风险，呼吁立即全面恢复该海峡的航行权利和相关原则，并表示将继续关注能源市场变化、必要时调整措施。&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;1亿桶战略储备释放虽然显著增加了未来几个月的供应预期，但能否持续压低油价，仍取决于实际放储速度、柴油供应恢复程度，以及中东供应和霍尔木兹海峡通航状况。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”</title><link>https://wallstreetcn.com/articles/3782917</link><guid>647390864f3bd2f8f85b69d7beaafec13ffbce8ae18a6fa5edb838c3d86b1a19</guid><pubDate>Fri, 02 Oct 2026 10:11:16 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Meta旗下AI智能体应用Muse上线仅23天便迅速引爆消费级Agent市场，成为近期增长最为迅猛的AI应用之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场调研机构Sensor Tower数据显示，截至9月30日，Muse累计下载量已突破500万次。Muse于9月8日在美国和加拿大上线，仅用22天便达到这一规模；相比之下，ChatGPT、Grok和Claude分别用了56天、103天和492天才突破500万次下载。&lt;/p&gt;
-&lt;p&gt;Muse的高速增长引发市场对其&lt;strong&gt;成本、算力和商业化能力&lt;/strong&gt;的关注。摩根士丹利互联网行业首席分析师Brian Nowak团队近日发布深度研究，围绕Muse的&lt;strong&gt;货币化、服务成本、算力储备、企业市场、亚马逊合作及估值&lt;/strong&gt;六大问题展开分析。&lt;/p&gt;
-&lt;p&gt;其中，最核心的矛盾在于：&lt;strong&gt;Agent用户增长越快，算力成本越高；而Meta需要证明，未来的广告、交易、企业订阅和API业务能够覆盖这部分投入，并将庞大的用户规模转化为收入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-一、货币化：短期先做大用户，长期瞄准30万亿美元消费市场
-&lt;p&gt;Muse目前并不急于赚钱。摩根士丹利预计，&lt;strong&gt;短期订阅收入贡献有限，交易抽成也会维持较低水平，Meta更重要的任务是扩大用户规模、提高使用频率，并培养用户通过Agent完成商业交易的习惯。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;真正大规模的货币化可能要等到&lt;strong&gt;2027至2028年&lt;/strong&gt;。长期来看，Meta可能围绕实时竞价建立Agent商业市场：企业根据预期投资回报率竞价，向Meta支付交易费用。&lt;/p&gt;
-&lt;p&gt;这一模式对应的潜在市场规模达到&lt;strong&gt;30万亿美元&lt;/strong&gt;，涵盖零售、旅行、出行、餐饮配送、广告、物流和可穿戴设备等消费场景。&lt;/p&gt;
-&lt;p&gt;在直接收费之前，Muse也可以先通过提升用户参与度和用户画像能力，反过来强化Meta广告业务的变现效率。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-二、成本：每用户每月最高130美元，高成本反而可能成为壁垒
-&lt;p&gt;Muse越火，Meta首先面对的就是成本问题。&lt;/p&gt;
-&lt;p&gt;摩根士丹利测算，&lt;strong&gt;Muse服务成本约为每用户每月3至130美元，主要取决于Token消耗量。&lt;/strong&gt;其中，GPU推理成本随Token用量增长，CPU沙箱成本则取决于用户激活频率和虚拟机运行时间。&lt;/p&gt;
-&lt;p&gt;以用户消耗25%周度Token配额为基准，每用户每月成本约37美元。由于该测算假设Meta按照AWS按需价格租用全部CPU沙箱容量，实际成本可能更低。&lt;/p&gt;
-&lt;p&gt;这也意味着，Agent并不是一个容易靠烧钱复制的生意。&lt;strong&gt;Meta拥有约2500亿美元、同比增长27%的核心广告业务作为资金支撑，全球平均每用户收入约70美元，能够承受前期高昂的AI基础设施投入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-三、算力：2026年CPU采购理论上足以支撑10亿DAU
-&lt;p&gt;如果Muse继续快速增长，Meta有没有足够算力？&lt;/p&gt;
-&lt;p&gt;摩根士丹利认为：&lt;strong&gt;Meta目前的CPU采购规模，理论上足以支撑10亿Muse日活用户。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;按照其估算，Meta在2026年采购的CPU容量合计约6.43亿vCPU，对应约3.21亿Muse实例容量。在每天3小时活跃、2倍峰值系数和1.2倍容量缓冲的假设下，支撑10亿DAU所需的同时活跃实例约3亿，现有算力基本可以覆盖。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这意味着，随着Muse用户规模扩大，Meta短期真正需要解决的可能不是“有没有算力”，而是如何把巨额算力投入转化为用户增长和商业收入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告预计，Meta2027年资本开支约2250亿美元，对应约590亿美元折旧；第三方计算合同支出约260亿美元，高于2026年的170亿美元。&lt;/p&gt;
-四、企业市场：从消费Agent切入25万亿美元知识经济
-&lt;p&gt;Muse的商业想象力也不止于个人用户。&lt;/p&gt;
-&lt;p&gt;Meta正将Agent进一步推向企业市场，目标覆盖约25万亿美元的全球知识型工作经济，相关产品包括面向中小企业的Muse、WhatsApp和Messenger智能体工具、企业产品、Muse Coding以及未来的模型API“Watermelon”。&lt;/p&gt;
-&lt;p&gt;摩根士丹利认为，传统企业的Web 1.0架构并不适合Agent之间直接交互。未来，企业需要提供机器原生的接口，让Agent能够直接调用商品、服务和企业系统。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这为Meta提供了新的收费模式：向企业收订阅费，同时向开发者和企业提供API算力与模型服务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;敏感性测算显示，如果6000万用户每月支付15美元，到2028年可能使EPS提升约8.2%；如果将100MW专用算力用于API业务，也可能使2028年EPS增加约4%。&lt;/p&gt;
-五、亚马逊：Agent进入电商后，交易入口成为核心博弈
-&lt;p&gt;一旦Muse开始替用户购物，Meta就绕不开亚马逊。&lt;/p&gt;
-&lt;p&gt;亚马逊约占美国电商市场40%，掌握庞大的商品、商户和物流体系。&lt;strong&gt;双方潜在合作的核心问题，包括谁是商户记录方、谁控制购物体验、Prime权益和零售媒体价值如何分配，以及哪些数据能够回流Muse。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Meta又依赖亚马逊的AWS云资源，包括CPU、GPU算力，以及通过Bedrock提供模型API的分发渠道。&lt;/p&gt;
-&lt;p&gt;因此，Meta与亚马逊的潜在合作并不只是一次普通的电商合作，而可能同时涉及交易入口、用户数据、云算力和模型分发。&lt;/p&gt;
-六、估值：21倍PE已经反映部分Muse预期，下一步看商业化
-&lt;p&gt;Muse发布以及Meta与各州检察长达成和解后，Meta的NTM共识EPS估值已从约14倍升至21倍。&lt;/p&gt;
-&lt;p&gt;摩根士丹利认为，&lt;strong&gt;当前估值已经反映了Meta以免费模式推出Muse所形成的部分先发优势。后续估值能否进一步提升，关键看三件事：&lt;/strong&gt;第一，Muse用户规模和使用率能否持续增长；第二，Agent能否真正形成规模化商业交易；第三，谷歌、SPCX等竞争对手的推进速度。&lt;/p&gt;
-&lt;p&gt;Meta在2025年2月一度达到28倍估值，因此，如果Muse能够持续扩大用户基础，并进一步证明商业化潜力，市场仍可能重新评估其估值水平。&lt;/p&gt;
-&lt;p&gt;从基本面看，摩根士丹利关注的上行驱动主要包括：AI推动核心用户参与度提升、商业消息和Agent业务增长，以及API平台逐步实现规模化变现。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;归根结底，Muse当前最重要的价值还不是贡献多少收入，而是Meta能否利用庞大的用户基础、广告现金流和算力投入，把一个高成本的AI应用变成连接消费者、企业和商业交易的Agent平台。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;因此，&lt;strong&gt;1亿桶战略储备释放虽然显著增加了未来几个月的供应预期，但能否持续压低油价，仍取决于实际放储速度、柴油供应恢复程度，以及中东供应和霍尔木兹海峡通航状况。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
