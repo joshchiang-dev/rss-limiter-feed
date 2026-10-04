@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 16:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] a16z对话：企业级软件都将被AI Agent重做一遍</title><link>https://wallstreetcn.com/articles/3782982</link><guid>0920362fa9326e9738274afb65e53d61241c92b7885b39a13cf3bd07d4109952</guid><pubDate>Sun, 04 Oct 2026 08:06:02 GMT</pubDate><description>&lt;p&gt;企业采购正在成为AI原生创业公司攻克传统软件巨头的关键战场。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 16:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] a16z对话：企业级软件都将被AI Agent重做一遍</title><link>https://wallstreetcn.com/articles/3782982</link><guid>0920362fa9326e9738274afb65e53d61241c92b7885b39a13cf3bd07d4109952</guid><pubDate>Sun, 04 Oct 2026 08:06:02 GMT</pubDate><description>&lt;p&gt;企业采购正在成为AI原生创业公司攻克传统软件巨头的关键战场。&lt;/p&gt;
 &lt;p&gt;10月2日知名风投a16z播客访谈节目中，主持人Elena Burger与a16z合伙人Seema Amble，以及企业AI采购智能体初创公司Lio的联合创始人兼CEO Vladimir Keil，就AI应用公司&lt;strong&gt;如何对抗传统软件巨头&lt;/strong&gt;、&lt;strong&gt;AI智能体在真实商业环境中的渗透路径&lt;/strong&gt;及&lt;strong&gt;财务回报&lt;/strong&gt;等市场核心关注点展开了深度对话。&lt;/p&gt;
 &lt;p&gt;（&lt;strong&gt;左&lt;/strong&gt;：a16z Fintech团队合伙人Seema Amble；&lt;strong&gt;中&lt;/strong&gt;：a16z Enterprise团队投资人Elena Burger；&lt;strong&gt;右&lt;/strong&gt;：AI采购多智能体Lio公司CEO Vladimir Keil。）&lt;/p&gt;
 &lt;p&gt;a16z合伙人Seema Amble表示，&lt;strong&gt;传统软件巨头受限于其系统记录的边界，叠加内部团队利益冲突，难以真正推进至更高阶的自主判断型AI代理，这恰恰是AI原生创业公司的核心机会所在。&lt;/strong&gt;&lt;/p&gt;
@@ -260,50 +260,7 @@
 &lt;p&gt;&amp;quot;高情绪&amp;quot;+&amp;quot;长期停滞&amp;quot;+&amp;quot;巨大商业影响&amp;quot;叠加在一起，就是万亿美元级别的市场机会。当然，这个公式不只适用于采购，其他满足这三个条件的领域同样如此。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Elena Burger&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Vlad，非常感谢你今天的分享，这次对话太有趣了！&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银：“AI交易”是当前美债市场“最后一道防线”</title><link>https://wallstreetcn.com/articles/3782975</link><guid>ffb0f22e216258103cf6ecf2ec721803f5134cea92ee592c2951f47232fe939c</guid><pubDate>Sun, 04 Oct 2026 04:41:20 GMT</pubDate><description>&lt;p&gt;美国银行警告，&lt;strong&gt;AI叙事正在充当宏观风险的&amp;quot;缓冲垫&amp;quot;，一旦这一叙事出现裂痕，所有被压制的宏观风险将同步放大，股市将面临真正的冲击。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美银股票衍生品团队在最新报告中指出，在注意力资源相对有限的市场环境下，宏观风险&amp;quot;难以与AI增长叙事争夺市场关注&amp;quot;。&lt;/p&gt;
-&lt;p&gt;AI带来的错失恐惧（FOMO）情绪推动投资者在每次下跌时积极抄底，形成所谓的&amp;quot;AI看跌期权&amp;quot;效应，有效压制了股市波动。&lt;/p&gt;
-&lt;p&gt;与此同时，Meta旗下AI智能助手Muse上周的强势亮相推动纳斯达克大涨逾3%，VIX指数仍处于相对温和水平，与债市的剧烈震荡形成鲜明反差。&lt;/p&gt;
-&lt;p&gt;（利率市场的波动明显大于美股）&lt;/p&gt;
-&lt;p&gt;美银认为，真正的尾部风险是若AI叙事出现&amp;quot;故障&amp;quot;，对增长前景的重新定价将使债市问题演变为全市场危机。在AI看跌期权失效后，所有其他风险都可能被&amp;quot;实质性放大&amp;quot;。&lt;/p&gt;
-债市压力持续升级，收益率创数十年新高
-&lt;p&gt;美国债市正承受自去年2月份以来最为集中的抛售压力。&lt;/p&gt;
-&lt;p&gt;上周二的5年期美债标售以5.033%的收益率定价，这是2007年以来首次出现&amp;quot;5字头&amp;quot;，认购倍数创2018年以来最低，当日债市录得去年所谓“对等关税”以来最差单日表现。&lt;/p&gt;
-&lt;p&gt;次日，美债收益率沿整条曲线升至数十年高位，此后持续攀升。衡量美债波动率的MOVE指数突破100，通常而言，这一水平与股市动荡相关联。&lt;/p&gt;
-&lt;p&gt;（美债利率波动与美股走势背离）&lt;/p&gt;
-&lt;p&gt;美银全球金融压力指标（GFSI）同样印证了债市的紧张态势，上周从-0.10升至-0.05。欧元区和美元利率隐含波动率的压力涨幅位居所有子指标之首，变动幅度分别处于历史第97和第95百分位。&lt;/p&gt;
-&lt;p&gt;利率波动率目前是3月以来压力最高的跨资产波动率指标，取代了此前自去年11月起几乎持续占据首位的大宗商品波动率。信用市场也开始出现共振迹象，欧元区3年/5年信用曲线、美元投资级CDS及欧元区高收益CDS的压力涨幅均位于各自历史前十分位。&lt;/p&gt;
-股债背离之谜：AI叙事提供&amp;quot;宏观对冲&amp;quot;
-&lt;p&gt;股市对上述信号几乎无动于衷。美银给出的解释是：&lt;strong&gt;在&amp;quot;注意力供给相对固定&amp;quot;的市场中，宏观风险正在与AI增长叙事争夺话语权，而后者目前占据绝对优势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上周的具体催化剂是Meta推出的AI智能体助手Muse，其在各大应用商店迅速走红，推动纳斯达克单周涨幅超过3%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美银还援引历史先例驳斥了&amp;quot;5%收益率必然终结牛市&amp;quot;的论断。&lt;/strong&gt;上世纪90年代互联网泡沫期间，长端利率累计上行200个基点，美联储加息100个基点，但股市泡沫仍在持续膨胀。&lt;/p&gt;
-&lt;p&gt;美银股票策略师在另一份题为《困于5%世界》的报告中同样表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;不认为5%的收益率是股市的必然丧钟。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;该行认为&lt;strong&gt;，若要从根本上改变当前格局，需要收益率大幅进一步上升，或利率波动率大幅飙升，而这&amp;quot;可能需要政策制定者放弃干预&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-AI&amp;quot;看跌期权&amp;quot;失效的真实风险
-&lt;p&gt;美银真正担忧的方向并非&amp;quot;债市压垮股市&amp;quot;，而是反向传导：&lt;strong&gt;AI叙事一旦受挫，对增长前景的重新定价将使债市危机演变为全市场性危机。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告原文指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;AI繁荣所带来的长期增长与生产率潜力，在某种程度上如同一个&amp;#x27;AI看跌期权&amp;#x27;，充当了当前各类宏观风险的缓冲器。因此，AI叙事一旦出现滑落，与之相关的增长预期下修，可能进一步加剧宏观压力，并对美股形成实质性冲击。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这一逻辑也契合了市场对美国财政可持续性的押注。特朗普和马斯克均曾公开表示，美国可以&amp;quot;通过经济增长走出40万亿美元债务困境&amp;quot;。AI生产率叙事正是这一希望的核心支撑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一旦这一支撑动摇，对财政可持续性的担忧将失去对冲，届时所有其他风险均可能被&amp;quot;实质性放大&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，美银同时指出，基本面目前仍具韧性，估值处于&amp;quot;去泡沫化&amp;quot;的状态，因此这一极端风险情景&amp;quot;在时间轴上仍较为靠后&amp;quot;。&lt;/p&gt;
-泡沫风险指标：热度集中但未蔓延
-&lt;p&gt;美银已开始每周发布泡沫风险指标（BRI）。&lt;/p&gt;
-&lt;p&gt;Muse引发的行情过后，美国科技板块和纳斯达克的BRI再度跳升——科技板块读数约为0.72，仅次于医疗健康（约0.76），接近0.8的危险阈值。&lt;/p&gt;
-&lt;p&gt;半导体板块录得所有热门主题中单周BRI最大涨幅；美银美国网络安全组合（0.91）和美国医疗健康动量组合（0.85）是仅有的两个已进入&amp;quot;明确泡沫区间&amp;quot;的主题。&lt;/p&gt;
-&lt;p&gt;（美股热门板块的单周BRI对比）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尽管如此，美银提示这与1999年的情形存在本质差异。&lt;/strong&gt;当前标普500指数中BRI高于0.8的个股仅有18只，而互联网泡沫顶峰时期为50至100只；这18只股票仅占指数权重的3.2%，而当时这一比例高达20%至40%。&lt;/p&gt;
-&lt;p&gt;（美银研究显示，相比1990年代末互联网泡沫时期50-100只标普500成分股泡沫化（BRI&amp;gt;0.8），当前泡沫仅集中在极少数龙头股）&lt;/p&gt;
-&lt;p&gt;BRI最高的股票分别是莫德纳（MRNA）、CrowdStrike（CRWD）、慧与科技（HPE）、瑞维蒂（RVTY），与2000年前后的标志性科技龙头相差甚远。泡沫风险目前仍属局部现象，但美银提示，这一状态&amp;quot;很少会长期维持&amp;quot;。&lt;/p&gt;
-策略建议顺势而为
-&lt;p&gt;在策略层面，美银建议投资者顺应这一悖论逻辑。&lt;strong&gt;该行衍生品团队继续看好挂钩&amp;quot;收益率较高但区间震荡&amp;quot;情景的纳斯达克100看涨期权，视其为捕捉今年&amp;quot;股债双升&amp;quot;趋势的低成本工具。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为对冲收益率进一步上行的风险，美银推荐做空长期美债ETF（TLT）的认沽价差组合&lt;/strong&gt;，利用该期权历史上较陡峭的认沽偏斜来部分抵消利率波动率跳升带来的额外成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在股票对冲方面，美银综合考量了各板块的利率敏感性与保护成本，认为材料（XLB）、小盘股（IWM）及非必需消费品（XLY）的认沽价差组合性价比最高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该行指出，小盘股&amp;quot;可能面临CTA进一步卖出的额外压力&amp;quot;。这一趋势随着收益率持续走高已延续数月，小盘股持续受到重创。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 纳入6280亿美元表外承诺后，Meta股票“贵了”35%？</title><link>https://wallstreetcn.com/articles/3782985</link><guid>7572b2062a41811b0d704a88571737b44ae7ffe9d113d9568adc7f5a33e83bd8</guid><pubDate>Sun, 04 Oct 2026 10:18:33 GMT</pubDate><description>&lt;p&gt;Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 纳入6280亿美元表外承诺后，Meta股票“贵了”35%？</title><link>https://wallstreetcn.com/articles/3782985</link><guid>7572b2062a41811b0d704a88571737b44ae7ffe9d113d9568adc7f5a33e83bd8</guid><pubDate>Sun, 04 Oct 2026 10:18:33 GMT</pubDate><description>&lt;p&gt;Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。&lt;/p&gt;
 &lt;p&gt;投行Needham分析师Laura Martin于10月2日发布研报指出，&lt;strong&gt;若将Meta的表外承诺计入企业价值（EV），其估值倍数将上调35%，股票对股东而言远比传统指标所呈现的更为昂贵&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;Martin随后在CNBC公开表态：&lt;strong&gt;&amp;quot;Meta表内债务和租赁合计约1000亿美元，表外负债高达6000亿美元。若不将这6000亿美元计入EV，你的估值就低了35%。&lt;/strong&gt;&amp;quot;这一判断直接冲击市场对Meta的定价逻辑。&lt;/p&gt;
 &lt;p&gt;更值得关注的是，&lt;strong&gt;当Needham的方法被一致性地应用于Alphabet时，结论出现戏剧性反转：谷歌的调整后EV/FY27E收入倍数达到9.0倍，高于Meta的8.3倍——这意味着在表外负债充分披露后，谷歌反而成为估值更贵的那家公司。&lt;/strong&gt;与此同时，Meta在7月单月新增约680亿美元数据中心租约，表外义务的扩张速度仍在加速，市场对这一隐性杠杆的定价是否充分，已成为超大规模科技股投资者无法回避的核心问题。&lt;/p&gt;
