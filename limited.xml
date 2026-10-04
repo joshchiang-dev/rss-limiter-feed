@@ -1,44 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 21:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 纳入6280亿美元表外承诺后，Meta股票“贵了”35%？</title><link>https://wallstreetcn.com/articles/3782985</link><guid>7572b2062a41811b0d704a88571737b44ae7ffe9d113d9568adc7f5a33e83bd8</guid><pubDate>Sun, 04 Oct 2026 10:18:33 GMT</pubDate><description>&lt;p&gt;Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。&lt;/p&gt;
-&lt;p&gt;投行Needham分析师Laura Martin于10月2日发布研报指出，&lt;strong&gt;若将Meta的表外承诺计入企业价值（EV），其估值倍数将上调35%，股票对股东而言远比传统指标所呈现的更为昂贵&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;Martin随后在CNBC公开表态：&lt;strong&gt;&amp;quot;Meta表内债务和租赁合计约1000亿美元，表外负债高达6000亿美元。若不将这6000亿美元计入EV，你的估值就低了35%。&lt;/strong&gt;&amp;quot;这一判断直接冲击市场对Meta的定价逻辑。&lt;/p&gt;
-&lt;p&gt;更值得关注的是，&lt;strong&gt;当Needham的方法被一致性地应用于Alphabet时，结论出现戏剧性反转：谷歌的调整后EV/FY27E收入倍数达到9.0倍，高于Meta的8.3倍——这意味着在表外负债充分披露后，谷歌反而成为估值更贵的那家公司。&lt;/strong&gt;与此同时，Meta在7月单月新增约680亿美元数据中心租约，表外义务的扩张速度仍在加速，市场对这一隐性杠杆的定价是否充分，已成为超大规模科技股投资者无法回避的核心问题。&lt;/p&gt;
-Meta表内外负债的5.6倍差距
-&lt;p&gt;Needham的分析框架从会计基本原则出发。该行认为，&amp;quot;股权价值是偿还债务及其他合同义务后归属于股东的剩余价值&amp;quot;，因此无论会计处理方式如何，不断攀升的义务和承诺都构成股价上行的阻力，理应纳入EV计算。&lt;/p&gt;
-&lt;p&gt;具体到Meta，截至2026年6月底，其表内债务和租赁合计约1120亿美元，而两项表外负债合计约6280亿美元，两者之比高达5.6倍——即Meta账面上每披露1美元杠杆，脚注里还藏着5.60美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这两项表外负债的构成，在Meta二季度10-Q报告脚注9中有明确披露：其一，尚未开始执行的经营性和融资性租赁义务约2790亿美元，涉及数据中心、托管设施及部分网络基础设施，租期从2026年延伸至2036年，最长达30年；其二，不可撤销的合同承诺约3493亿美元，主要涉及第三方云容量安排、服务器及网络基础设施投资、数据中心建设以及Reality Labs消费硬件产品，其中2026年和2027年分别到期约535亿美元和817亿美元。此外，Meta还有最高147亿美元的云容量或有采购义务。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;将上述表外负债纳入EV后，Meta的EV/FY27E收入倍数从6.15倍升至8.32倍，升幅35%。&lt;/p&gt;
-AI基础设施承诺的加速节奏
-&lt;p&gt;上述数字尚未反映最新动态。Meta在二季度10-Q中披露，2026年7月——即季度结束后——公司又新签了约680亿美元的数据中心租赁义务。&lt;/p&gt;
-&lt;p&gt;这一数字意味着，仅在一个月内，Meta新增的租赁承诺就相当于其6月底全部表内债务（约840亿美元）的约80%，同时令&amp;quot;尚未开始执行&amp;quot;的租赁义务桶在三季度尚未结束前便扩大逾10%。Needham据此判断，Meta表外义务在三季度呈现&amp;quot;快速增长&amp;quot;态势。&lt;/p&gt;
-&lt;p&gt;据高盛信贷策略师Amanda Lynam于8月发布的研究，截至二季度财报季，超大规模科技公司合计追踪到1.5万亿美元的租赁承诺，其中1.0万亿美元来自尚未开始执行的租约。由于美国GAAP租赁会计准则的特殊处理，这部分&amp;quot;未开始&amp;quot;的租赁承诺并不体现在财务报表中，但将在未来数年内形成实际支付义务。Lynam指出，这一处理方式&amp;quot;可能低估杠杆水平和未来流动性需求&amp;quot;，并预计&amp;quot;AI相关发行人将持续承受额外的利差风险溢价&amp;quot;。&lt;/p&gt;
-&lt;p&gt;摩根士丹利会计团队（Todd Castagno等人）在8月底将统计范围扩展至英伟达、博通及各类担保和兜底安排，得出超过3.1万亿美元的表外承诺总量。据ZeroHedge追踪，截至9月30日，超大规模科技公司表外负债已达3.8万亿美元，较6月底增加约7000亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-谷歌才是&amp;quot;更贵&amp;quot;的那家：Needham方法论的一致性修正
-&lt;p&gt;Needham原始研报存在一处值得关注的方法论缺陷：其表格对亚马逊和谷歌母公司Alphabet的&amp;quot;不可撤销合同承诺&amp;quot;均计为零，但两家公司的财报披露并非如此。&lt;/p&gt;
-&lt;p&gt;Alphabet二季度10-Q披露了7070亿美元的长期采购承诺——这与摩根士丹利所采用的数字一致；亚马逊则披露了1300亿美元的无条件采购义务。这些承诺与Needham为Meta计入的属于同一性质。&lt;/p&gt;
-&lt;p&gt;将Needham的方法一致性地应用于三家公司后，结论发生显著变化：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Alphabet&lt;/strong&gt;：EV上调幅度从Needham原报的3%扩大至21%，调整后EV/FY27E收入倍数升至9.0倍，&lt;strong&gt;高于&lt;/strong&gt;Meta的8.3倍；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;亚马逊&lt;/strong&gt;：EV上调幅度从9%扩大至14%；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Meta&lt;/strong&gt;：若进一步纳入7月680亿美元新增租约、Hyperion和El Paso数据中心项目的担保敞口（分别约460亿美元和130亿美元最大损失敞口）以及147亿美元或有云采购义务，实际调整幅度约达42%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;换言之，Meta的表外杠杆相对规模仍为三者中最高，Needham的核心判断成立；但&amp;quot;35%对3%&amp;quot;的原始对比严重低估了谷歌的表外负债规模。在充分调整后，谷歌在EV/收入倍数上反而成为估值更高的标的。&lt;/p&gt;
-市场是否已定价这一隐性杠杆？
-&lt;p&gt;支持者认为，采购承诺并非传统意义上的债务——它们是Meta预期能够转化为收入的服务器、云容量和芯片合同。信用评级机构通常将租赁负债视同债务处理，但对采购义务一般不作同等对待。此外，Meta披露的6280亿美元表外负债为未折现数字，若按现值计算，EV冲击将有所收窄。&lt;/p&gt;
-&lt;p&gt;然而，反驳同样有力。摩根士丹利明确警示：&amp;quot;这些合同在供应紧张时具有战略价值，但若供需提前恢复正常，企业可能不得不为过剩产能买单，或尝试重新谈判条款。&amp;quot;换言之，采购承诺&amp;quot;不是债务&amp;quot;的前提，是企业始终需要所承诺购买的东西。&lt;/p&gt;
-&lt;p&gt;自由现金流已经开始显现压力。据摩根士丹利，亚马逊和谷歌的自由现金流在二季度已转为负值，Meta预计下一季度也将步入负值区间。&lt;/p&gt;
-&lt;p&gt;在债券市场，高盛数据显示，超大规模科技公司今年债券发行规模已达2500亿美元，相比2024年的不足200亿美元大幅跃升；2027年预测发行量为4200亿美元，且该预测尚未包含特殊目的载体（SPV）发行的数据中心融资——而这正是摩根士丹利所指出的、当前表外结构的核心组成部分。&lt;/p&gt;
-&lt;p&gt;Needham对Meta维持&amp;quot;持有&amp;quot;评级，其担忧不仅限于会计层面。Laura Martin指出，Meta同时推进定制芯片、数据中心、企业AI、商业智能体、模型API、算力销售、智能眼镜等多条战线，&amp;quot;管理层注意力、工程人才和股东资本分散于过多方向&amp;quot;，在6280亿美元承诺的背景下，容错空间已大幅收窄。&lt;/p&gt;
-&lt;p&gt;Meta三季度10-Q预计于10月底发布。在7月680亿美元新增租约已成定局的情况下，那份脚注的走向，市场已然心知肚明。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价逼近100美元，OPEC+仍按兵不动：11月产量配额维持不变</title><link>https://wallstreetcn.com/articles/3782986</link><guid>aecc2c306e406e5655f08ad0c58d18c455b2ea403860b219b8bb83a3bfb371ce</guid><pubDate>Sun, 04 Oct 2026 11:25:16 GMT</pubDate><description>&lt;p&gt;石油市场供需紧张之际，OPEC+选择维持现状。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 22:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 油价逼近100美元，OPEC+仍按兵不动：11月产量配额维持不变</title><link>https://wallstreetcn.com/articles/3782986</link><guid>aecc2c306e406e5655f08ad0c58d18c455b2ea403860b219b8bb83a3bfb371ce</guid><pubDate>Sun, 04 Oct 2026 11:25:16 GMT</pubDate><description>&lt;p&gt;石油市场供需紧张之际，OPEC+选择维持现状。&lt;/p&gt;
 &lt;p&gt;在周日的视频会议上，OPEC+主要成员国就11月份维持石油产量配额不变达成原则性协议。与此同时，国际油价期货正逼近每桶100美元关口，柴油零售价格亦创下历史新高，七国集团（G7）已宣布释放紧急战略储备以应对市场压力。&lt;/p&gt;
 &lt;p&gt;此次按兵不动的背后，是中东持续冲突对OPEC+成员国产量造成的实质性冲击。伊朗战争已导致波斯湾地区大范围减产，沙特阿拉伯、伊拉克、科威特等主要成员国的实际产量仍显著低于冲突爆发前水平，使得该组织此前的任何配额调整在实际效果上均大打折扣。&lt;/p&gt;
 原则协议已成，11月配额维持不变
