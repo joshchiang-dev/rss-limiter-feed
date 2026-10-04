@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 16:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] a16z对话：企业级软件都将被AI Agent重做一遍</title><link>https://wallstreetcn.com/articles/3782982</link><guid>0920362fa9326e9738274afb65e53d61241c92b7885b39a13cf3bd07d4109952</guid><pubDate>Sun, 04 Oct 2026 08:06:02 GMT</pubDate><description>&lt;p&gt;企业采购正在成为AI原生创业公司攻克传统软件巨头的关键战场。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 17:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] a16z对话：企业级软件都将被AI Agent重做一遍</title><link>https://wallstreetcn.com/articles/3782982</link><guid>0920362fa9326e9738274afb65e53d61241c92b7885b39a13cf3bd07d4109952</guid><pubDate>Sun, 04 Oct 2026 08:06:02 GMT</pubDate><description>&lt;p&gt;企业采购正在成为AI原生创业公司攻克传统软件巨头的关键战场。&lt;/p&gt;
 &lt;p&gt;10月2日知名风投a16z播客访谈节目中，主持人Elena Burger与a16z合伙人Seema Amble，以及企业AI采购智能体初创公司Lio的联合创始人兼CEO Vladimir Keil，就AI应用公司&lt;strong&gt;如何对抗传统软件巨头&lt;/strong&gt;、&lt;strong&gt;AI智能体在真实商业环境中的渗透路径&lt;/strong&gt;及&lt;strong&gt;财务回报&lt;/strong&gt;等市场核心关注点展开了深度对话。&lt;/p&gt;
 &lt;p&gt;（&lt;strong&gt;左&lt;/strong&gt;：a16z Fintech团队合伙人Seema Amble；&lt;strong&gt;中&lt;/strong&gt;：a16z Enterprise团队投资人Elena Burger；&lt;strong&gt;右&lt;/strong&gt;：AI采购多智能体Lio公司CEO Vladimir Keil。）&lt;/p&gt;
 &lt;p&gt;a16z合伙人Seema Amble表示，&lt;strong&gt;传统软件巨头受限于其系统记录的边界，叠加内部团队利益冲突，难以真正推进至更高阶的自主判断型AI代理，这恰恰是AI原生创业公司的核心机会所在。&lt;/strong&gt;&lt;/p&gt;
@@ -350,28 +350,7 @@ Amodei：自信姿态难掩内在焦虑
 &lt;p&gt;对投资者而言，油价能否突破100美元这一心理关口，将在很大程度上取决于中东局势的走向，以及OPEC+成员国实际产量能否随冲突缓和而逐步恢复。&lt;/p&gt;
 下一关键节点：11月29日
 &lt;p&gt;部长级会议一过程较为复杂，其走向将在很大程度上取决于目前正在进行的成员国产能审计结果。&lt;/p&gt;
-&lt;p&gt;明年的整体产油政策将在11月29日举行的全体部长级会议上最终确定。在审计结果出炉、中东局势明朗化之前，OPEC+的政策立场预计仍将保持审慎观望。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta Muse爆红后遇留存瓶颈：打开率低于主流应用，长期变现面临考验</title><link>https://wallstreetcn.com/articles/3782976</link><guid>8acd0dff2d17e473065c6d81edfc7770ba71b1617d99ba689bf17c93772e933a</guid><pubDate>Sun, 04 Oct 2026 05:26:50 GMT</pubDate><description>&lt;p&gt;Meta Platforms旗下AI智能体Muse上线以来下载势头强劲，但用户留存与变现能力的双重瓶颈正引发市场关注。法国巴黎银行对其长期货币化路径持审慎态度，揭示出消费级AI应用从获客到留存这一普遍性转化难题。&lt;/p&gt;
-&lt;p&gt;据法国巴黎银行援引第三方数据，Muse自9月推出以来累计下载量已超过560万次，一度登顶苹果应用商店排行榜，上线初期在美国市场的下载表现甚至超过ChatGPT和Sora。然而，该行分析师Nick Jones指出，M&lt;strong&gt;use的应用打开率目前虽已趋于稳定，但仍低于谷歌、ChatGPT、Instagram、WhatsApp及Facebook等成熟应用，表明产品尚未融入用户日常使用习惯。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;法国巴黎银行维持对Meta的&amp;quot;跑赢大盘&amp;quot;评级，目标价885美元，但同时下调了对Muse长期变现能力的预期。Jones强调，Muse能否将初期热度转化为持续活跃度，以及如何构建可持续的商业模式，仍是投资者需要重点关注的核心问题。与此同时，OpenAI本周推出消费级AI智能体新产品Dots，消费级AI市场竞争格局正在加速演变。&lt;/p&gt;
-社交生态助推下载，但打开率揭示留存瓶颈
-&lt;p&gt;Muse上线初期的下载数据亮眼，在很大程度上得益于Meta庞大的社交平台生态。&lt;/p&gt;
-&lt;p&gt;Jones表示，与需要从零建立用户基础的独立AI应用相比，Meta可借助Instagram、WhatsApp和Facebook的现有用户覆盖，为Muse提供天然的推广渠道，同时显著压低用户获取成本。这一分发优势使Muse在美国市场上线初期的下载量超过了ChatGPT和Sora。&lt;/p&gt;
-&lt;p&gt;值得注意的是，OpenAI旗下视频生成应用Sora曾在推出后迅速走红，但此后已被整合进ChatGPT，不再作为独立应用运营——这一先例提示市场，初期下载热度与产品长期生命力之间存在明显落差。&lt;/p&gt;
-&lt;p&gt;对于Muse而言&lt;strong&gt;，下载量的快速积累并未同步转化为高频使用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jones指出，&lt;strong&gt;Muse打开率低于多款主流应用的现状，意味着产品目前仍处于培养用户使用习惯的早期阶段，距离成为消费者日常频繁依赖的工具仍有距离&lt;/strong&gt;。&lt;strong&gt;下一阶段的关键，将从推动下载量增长转向提升用户留存率、使用频率与长期参与度。&lt;/strong&gt;&lt;/p&gt;
-短期难撼垂直平台，功能完整性是核心差距
-&lt;p&gt;随着AI智能体逐步具备信息搜索、产品比较和执行交易等能力，外界开始讨论此类产品是否会对电商、旅游等垂直服务平台构成竞争威胁。法国巴黎银行对此持审慎立场。&lt;/p&gt;
-&lt;p&gt;Jones认为，考虑到Muse当前用户普及程度有限，且缺乏垂直平台所具备的直接商品或服务供给、完整交易体验以及客户服务能力，短期内难以对上述平台构成实质性冲击。专业电商或旅游平台通常不仅提供信息检索与推荐，还拥有商品库存、交易处理、订单管理及售后支持等完整体系——即便AI智能体能够帮助用户发现产品，也未必能够独立完成整个交易闭环。&lt;/p&gt;
-&lt;p&gt;Muse未来能否改变消费者的购物与服务使用习惯，仍取决于Meta能否持续完善相关功能，并扩大与外部商家的合作深度。&lt;/p&gt;
-变现路径模糊，广告或成长期突破口
-&lt;p&gt;商业化路径是法国巴黎银行对Muse前景保持审慎的另一核心原因。&lt;/p&gt;
-&lt;p&gt;Jones分析指出，Muse现阶段主要通过向合作伙伴收取少量交易费用实现部分变现，同时采用免费基础服务与付费订阅相结合的模式——基础版本免费开放，高需求用户可按月付费获取更高使用额度。&lt;/p&gt;
-&lt;p&gt;这一定价策略有助于Meta在产品发展初期扩大用户规模、提升参与度，而非过早追求收入最大化。但Jones强调，Muse的长期变现能力仍是投资者面临的重要不确定性。&lt;/p&gt;
-&lt;p&gt;法国巴黎银行认为，&lt;strong&gt;凭借Meta在数字广告领域积累的深厚经验，随着Muse用户参与度持续提升，广告未来可能成为具有吸引力的商业化方向，使收入来源从订阅费和交易佣金逐步向广告业务延伸。&lt;/strong&gt;然而，在用户使用习惯尚未完全建立的当下，上述商业模式能否形成可观收入，仍有待市场验证。&lt;/p&gt;
-OpenAI Dots入场，消费级AI竞争多维升级
-&lt;p&gt;消费级AI智能体市场的竞争格局正在加速演变。Jones特别关注OpenAI本周推出的新产品Dots，认为其未来能够获得多大程度的用户认可，将是观察这一市场竞争走向的重要指标。与此同时，市场也在关注Alphabet等科技企业是否会推出具有竞争力的同类产品。&lt;/p&gt;
-&lt;p&gt;法国巴黎银行判断，随着越来越多企业探索利用AI完成复杂任务，消费级AI智能体市场的竞争将逐渐从模型性能扩展至产品体验、用户留存、服务整合和商业化能力等多个维度。&lt;/p&gt;
-&lt;p&gt;对于Meta而言，Instagram、WhatsApp和Facebook构成了重要的用户分发优势，但能否将这一先天优势持续转化为Muse的使用需求增长，仍需要更多时间与数据加以检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一向力挺AI的孙正义突然警告：超级智能可能“极其危险”</title><link>https://wallstreetcn.com/articles/3782987</link><guid>6649b6c11c1e27c3be9c493d1a6256e6bb9ab1f838d804591f64f52fbb523bb7</guid><pubDate>Sun, 04 Oct 2026 11:32:45 GMT</pubDate><description>&lt;p&gt;软银集团创始人孙正义长期以来是人工智能最坚定的鼓吹者之一，但这位日本亿万富翁近日发出罕见警示——随着AI能力急速膨胀，超级智能一旦落入错误之手，可能变得&amp;quot;极其危险&amp;quot;。&lt;/p&gt;
+&lt;p&gt;明年的整体产油政策将在11月29日举行的全体部长级会议上最终确定。在审计结果出炉、中东局势明朗化之前，OPEC+的政策立场预计仍将保持审慎观望。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一向力挺AI的孙正义突然警告：超级智能可能“极其危险”</title><link>https://wallstreetcn.com/articles/3782987</link><guid>6649b6c11c1e27c3be9c493d1a6256e6bb9ab1f838d804591f64f52fbb523bb7</guid><pubDate>Sun, 04 Oct 2026 11:32:45 GMT</pubDate><description>&lt;p&gt;软银集团创始人孙正义长期以来是人工智能最坚定的鼓吹者之一，但这位日本亿万富翁近日发出罕见警示——随着AI能力急速膨胀，超级智能一旦落入错误之手，可能变得&amp;quot;极其危险&amp;quot;。&lt;/p&gt;
 &lt;p&gt;周日，孙正义在京都&amp;quot;社会中的科学与技术&amp;quot;论坛（STS Forum）场边活动上发表讲话时表示，&lt;strong&gt;AI能力的指数级跃升使各国建立互信、携手驾驭这一技术变得刻不容缓。&lt;/strong&gt;他警告称，&lt;strong&gt;人类已&amp;quot;没有任何余地&amp;quot;再让国与国之间相互对抗，因为强大AI模型所构成的威胁远比人类内部冲突更为严峻。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这番表态与孙正义一贯的乐观基调形成鲜明反差，折射出近几个月来AI模型接连出现令人不安的安全漏洞后，业界忧虑情绪的持续升温。对于投资者而言，这一信号意味着AI安全议题正从边缘讨论走向核心关切，相关监管与国际协调的压力或将进一步加大。&lt;/p&gt;
 罕见警示背后：安全漏洞触发忧虑
