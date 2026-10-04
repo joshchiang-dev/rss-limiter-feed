@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 20:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 纳入6280亿美元表外承诺后，Meta股票“贵了”35%？</title><link>https://wallstreetcn.com/articles/3782985</link><guid>7572b2062a41811b0d704a88571737b44ae7ffe9d113d9568adc7f5a33e83bd8</guid><pubDate>Sun, 04 Oct 2026 10:18:33 GMT</pubDate><description>&lt;p&gt;Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 04 Oct 2026 21:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 纳入6280亿美元表外承诺后，Meta股票“贵了”35%？</title><link>https://wallstreetcn.com/articles/3782985</link><guid>7572b2062a41811b0d704a88571737b44ae7ffe9d113d9568adc7f5a33e83bd8</guid><pubDate>Sun, 04 Oct 2026 10:18:33 GMT</pubDate><description>&lt;p&gt;Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。&lt;/p&gt;
 &lt;p&gt;投行Needham分析师Laura Martin于10月2日发布研报指出，&lt;strong&gt;若将Meta的表外承诺计入企业价值（EV），其估值倍数将上调35%，股票对股东而言远比传统指标所呈现的更为昂贵&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;Martin随后在CNBC公开表态：&lt;strong&gt;&amp;quot;Meta表内债务和租赁合计约1000亿美元，表外负债高达6000亿美元。若不将这6000亿美元计入EV，你的估值就低了35%。&lt;/strong&gt;&amp;quot;这一判断直接冲击市场对Meta的定价逻辑。&lt;/p&gt;
 &lt;p&gt;更值得关注的是，&lt;strong&gt;当Needham的方法被一致性地应用于Alphabet时，结论出现戏剧性反转：谷歌的调整后EV/FY27E收入倍数达到9.0倍，高于Meta的8.3倍——这意味着在表外负债充分披露后，谷歌反而成为估值更贵的那家公司。&lt;/strong&gt;与此同时，Meta在7月单月新增约680亿美元数据中心租约，表外义务的扩张速度仍在加速，市场对这一隐性杠杆的定价是否充分，已成为超大规模科技股投资者无法回避的核心问题。&lt;/p&gt;
@@ -38,26 +38,7 @@ AI基础设施承诺的加速节奏
 &lt;p&gt;自由现金流已经开始显现压力。据摩根士丹利，亚马逊和谷歌的自由现金流在二季度已转为负值，Meta预计下一季度也将步入负值区间。&lt;/p&gt;
 &lt;p&gt;在债券市场，高盛数据显示，超大规模科技公司今年债券发行规模已达2500亿美元，相比2024年的不足200亿美元大幅跃升；2027年预测发行量为4200亿美元，且该预测尚未包含特殊目的载体（SPV）发行的数据中心融资——而这正是摩根士丹利所指出的、当前表外结构的核心组成部分。&lt;/p&gt;
 &lt;p&gt;Needham对Meta维持&amp;quot;持有&amp;quot;评级，其担忧不仅限于会计层面。Laura Martin指出，Meta同时推进定制芯片、数据中心、企业AI、商业智能体、模型API、算力销售、智能眼镜等多条战线，&amp;quot;管理层注意力、工程人才和股东资本分散于过多方向&amp;quot;，在6280亿美元承诺的背景下，容错空间已大幅收窄。&lt;/p&gt;
-&lt;p&gt;Meta三季度10-Q预计于10月底发布。在7月680亿美元新增租约已成定局的情况下，那份脚注的走向，市场已然心知肚明。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住</title><link>https://wallstreetcn.com/articles/3782984</link><guid>8fba6582c5b56243e72a08d05ea00fc72f43d99780534611903526dc15cfe7e4</guid><pubDate>Sun, 04 Oct 2026 09:00:27 GMT</pubDate><description>&lt;p&gt;科技巨头再度齐聚白宫，一场AI峰会在政策议程之外，意外成为一堂关于权力与人际关系的公开课。&lt;/p&gt;
-&lt;p&gt;本周二，马克·扎克伯格、埃隆·马斯克、Anthropic首席执行官Dario Amodei、英伟达CEO Jensen Huang、谷歌CEO Sundar Pichai、OpenAI总裁Greg Brockman等AI领域头部人物齐聚白宫，就AI安全与数据中心建设展开会谈。峰会最终促成一份由各方签署的自愿性承诺协议，特朗普将其定性为具有&amp;quot;道德约束力&amp;quot;的协议。峰会结束后的媒体见面环节被广泛传播，网络上随即掀起一轮对各位亿万富翁肢体语言与相互关系的密集解读。&lt;/p&gt;
-&lt;p&gt;这场权力场域中的微妙互动，折射出AI行业与华盛顿政治之间日趋复杂的生态。与会者之间的关系横跨敌对、竞争、结盟与合作多个维度，且这些标签并不互斥。&lt;/p&gt;
-扎克伯格：最接近权力核心
-&lt;p&gt;行为科学家、肢体语言权威Abbie Maroño在接受The Information采访时指出，&lt;strong&gt;扎克伯格在此次峰会上展现出最为突出的权力感。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Maroño表示，&lt;strong&gt;扎克伯格在峰会期间大部分时间站在特朗普身旁，举止从容，毫无刻意表现的痕迹&lt;/strong&gt;。&amp;quot;他实际上散发出一种权力感。他站在一个巨大的权力来源旁边，却显得非常自在。&amp;quot;她特别注意到两人之间的一个细节：当扎克伯格向特朗普方向迈步时，特朗普随之后退并转身面向他。&amp;quot;这是一种无声的默契——表明马克确实拥有权力，而特朗普非常尊重有权力的人。&amp;quot;&lt;/p&gt;
-&lt;p&gt;Maroño进一步分析称，扎克伯格的表达方式不夸张，声音沉稳，目光自然流动，既不低垂也不游移，且他的每一句话都能获得特朗普的点头认同。&amp;quot;有一种感觉，他与特朗普完全处于同一频道。&amp;quot;&lt;/p&gt;
-Amodei：自信姿态难掩内在焦虑
-&lt;p&gt;Dario Amodei在此次峰会上获得了最多的发言时间，但Maroño的观察却揭示出一种截然不同的内在状态。&lt;/p&gt;
-&lt;p&gt;&amp;quot;他很活跃，大量使用手势，展现出许多我们通常认为与自信相关的行为。然而有趣的是，&lt;strong&gt;他整体的气场却在不断泄露不适感——他在努力表现自信的同时，又散发出焦虑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;Maroño指出，过度夸张的手势并非真正自信的表现，&amp;quot;自信是流畅的&amp;quot;，而Amodei的动作节奏过快，像是在脑海中不断提醒自己&amp;quot;用手势，用手势&amp;quot;。在短暂停顿时，他会将双手握在一起，这是一种典型的自我安抚行为。&lt;/p&gt;
-&lt;p&gt;峰会上还有一个细节引发关注。特朗普在介绍Amodei时说了一句&amp;quot;他说的都没问题&amp;quot;。Maroño对此给出了不同寻常的解读：&amp;quot;这是特朗普在提醒Amodei，他之所以能在这里发言，是因为特朗普允许他这样做。这是一种权力宣示——&amp;#x27;你跟我站在一起，你就没问题；但不要越界。&amp;#x27;&amp;quot;&lt;/p&gt;
-马斯克：刻意保持距离
-&lt;p&gt;与扎克伯格的积极靠近形成鲜明对比的，是马斯克在峰会上的疏离姿态。&lt;/p&gt;
-&lt;p&gt;Maroño观察到，&lt;strong&gt;马斯克大部分时间双臂交叉，站在人群边缘，肢体移动明显少于其他与会者，发言也相对稀少。&lt;/strong&gt;她认为，&lt;strong&gt;交叉双臂在此处并非防御性信号，而更多体现出一种&amp;quot;社交疏离与旁观者心态&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更值得关注的是，当特朗普发言时，马斯克并未像其他人那样将身体转向特朗普。&amp;quot;当权威人物发言时，人们通常会朝向他们，这是表达尊重的方式。我不认为他是在刻意不尊重，但他表现出的尊重程度明显低于其他人。&amp;quot;Maroño表示，这一细节清晰地映射出马斯克与特朗普之间关系的&amp;quot;波折本质&amp;quot;。&lt;/p&gt;
-自愿承诺：行业自律还是自我监管？
-&lt;p&gt;此次峰会的实质性成果，是一份由各大AI公司签署的自愿性承诺协议，内容涵盖AI安全与数据中心建设等议题。特朗普将其定性为&amp;quot;具有道德约束力&amp;quot;的协议。&lt;/p&gt;
-&lt;p&gt;然而，这份协议的约束力本身即存在争议。The Information的报道将其比作&amp;quot;让操场上的孩子们自我管理&amp;quot;——在缺乏外部强制机制的情况下，行业自律能走多远，仍是一个开放性问题。&lt;/p&gt;
-&lt;p&gt;峰会的另一层意义在于，它将AI行业与华盛顿政治之间的权力互动以罕见的公开方式呈现出来。与会者之间的关系错综复杂，敌对、竞争、结盟与合作并存，而这些关系将在很大程度上影响未来AI监管政策的走向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价逼近100美元，OPEC+仍按兵不动：11月产量配额维持不变</title><link>https://wallstreetcn.com/articles/3782986</link><guid>aecc2c306e406e5655f08ad0c58d18c455b2ea403860b219b8bb83a3bfb371ce</guid><pubDate>Sun, 04 Oct 2026 11:25:16 GMT</pubDate><description>&lt;p&gt;石油市场供需紧张之际，OPEC+选择维持现状。&lt;/p&gt;
+&lt;p&gt;Meta三季度10-Q预计于10月底发布。在7月680亿美元新增租约已成定局的情况下，那份脚注的走向，市场已然心知肚明。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价逼近100美元，OPEC+仍按兵不动：11月产量配额维持不变</title><link>https://wallstreetcn.com/articles/3782986</link><guid>aecc2c306e406e5655f08ad0c58d18c455b2ea403860b219b8bb83a3bfb371ce</guid><pubDate>Sun, 04 Oct 2026 11:25:16 GMT</pubDate><description>&lt;p&gt;石油市场供需紧张之际，OPEC+选择维持现状。&lt;/p&gt;
 &lt;p&gt;在周日的视频会议上，OPEC+主要成员国就11月份维持石油产量配额不变达成原则性协议。与此同时，国际油价期货正逼近每桶100美元关口，柴油零售价格亦创下历史新高，七国集团（G7）已宣布释放紧急战略储备以应对市场压力。&lt;/p&gt;
 &lt;p&gt;此次按兵不动的背后，是中东持续冲突对OPEC+成员国产量造成的实质性冲击。伊朗战争已导致波斯湾地区大范围减产，沙特阿拉伯、伊拉克、科威特等主要成员国的实际产量仍显著低于冲突爆发前水平，使得该组织此前的任何配额调整在实际效果上均大打折扣。&lt;/p&gt;
 原则协议已成，11月配额维持不变
