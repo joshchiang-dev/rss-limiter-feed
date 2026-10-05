@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 15:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 16:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Altman周五在X平台发文，直接回应外界对两家公司关系的猜测，称Cerebras是OpenAI的&amp;quot;密切合作伙伴&amp;quot;，双方&amp;quot;在速度前沿领域保持深度合作&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;受此提振，Cerebras股价周一一度涨超10%。&lt;/p&gt;
+&lt;p&gt;x此前一周，Cerebras股价累计重挫20%，触及登陆纳斯达克以来的最低水平。&lt;strong&gt;导火索是OpenAI为GPT-6.1 Sol的&amp;quot;Ultrafast&amp;quot;极速模式选用了英伟达GPU，而非Cerebras芯片，引发市场对其核心客户关系动摇的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+导火索：英伟达芯片取代Cerebras引发恐慌
+
+&lt;p&gt;Cerebras上周大跌的主要原因，是外界对OpenAI硬件选择的解读。据CNBC报道，OpenAI在推出GPT-6.1 Sol的&amp;quot;Ultrafast&amp;quot;极速模式时，选择了英伟达的图形处理器为该功能提供算力支持，而非采用Cerebras的专用芯片。&lt;/p&gt;
+&lt;p&gt;这一消息令投资者忧虑，认为OpenAI正逐步将核心推理工作负载转向英伟达，Cerebras的战略地位或被边缘化。&lt;/p&gt;
+&lt;p&gt;Cerebras专门研发和生产AI计算系统，其芯片以尺寸超大、处理AI工作负载速度更快著称，被视为传统GPU的竞争替代方案。&lt;/p&gt;
+&lt;p&gt;今年1月，Cerebras与OpenAI签署了一份价值100亿美元的协议，约定在截至2028年的合约期内向OpenAI提供750兆瓦的算力供应。&lt;/p&gt;
+
+分析师：2028年营收预测暂未调整，但毛利率走势是关键
+
+&lt;p&gt;尽管股价大幅波动，华尔街部分分析师态度趋于谨慎乐观。&lt;/p&gt;
+&lt;p&gt;花旗分析师上周五指出，他们对Cerebras 2028年前营收的预测并未因此发生变化。&amp;quot;我们认为，前沿AI实验室的最新模型最初会先在内部芯片上推出，再过渡到第三方或Cerebras云端运行，因此现在从中解读过多信息还为时过早。&amp;quot;&lt;/p&gt;
+&lt;p&gt;不过，花旗同时提示风险：在毛利率触底企稳之前，任何进一步的下滑都可能打压投资者信心——尤其考虑到Cerebras当前估值仍处于较高水平。&lt;/p&gt;
+
+背景：上市以来承压，OpenAI谋求巨额新融资
+
+&lt;p&gt;Cerebras于今年5月完成上市，以接近950亿美元的市值高调入场，进入一个由英伟达主导的AI芯片市场。&lt;/p&gt;
+&lt;p&gt;然而上市以来，公司股价持续承压——8月中旬业绩及业绩指引双双令市场失望，进一步加重了估值修复的难度。&lt;/p&gt;
+&lt;p&gt;与此同时，作为Cerebras最重要的客户，OpenAI自身也在加速推进融资计划。据报道，OpenAI正寻求新一轮融资，目标估值高达1.4万亿美元，并最早考虑于明年启动IPO进程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
 &lt;p&gt;在刚刚结束的OpenAI DevDay（开发者大会）上，OpenAI一口气发布了20多项新产品。大会落幕后的数小时，领导ChatGPT、Codex以及最新个人智能体平台“Dots”的核心高管Tibo Sottiaux接受了深度访谈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对市场对AI商业化落地节奏的关注，Tibo详细拆解了OpenAI的下一步棋。他明确指出，尽管市场对新平台“Dots”表现出极高的热情，但人们仍未对AI技术演进的“二阶效应”进行充分定价（Pricing in）。&lt;/p&gt;
@@ -297,7 +321,7 @@ Deisseroth的关键转化：从蛋白质到神经开关
 &lt;p&gt;&lt;strong&gt;“光遗传学”这一术语本身，直至2006年才首次出现于学术论文，但相关研究已迅速席卷全球实验室。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;卡罗琳医学院在公告中指出，光遗传学“从根本上改变了我们对大脑的理解”，每天都有新发现涌现，帮助人类解开大脑运作这一终极谜题。&lt;strong&gt;诺贝尔奖委员会将三位获奖者的贡献定性为“神经科学新纪元的奠基”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;颁奖典礼将按惯例于12月10日在斯德哥尔摩举行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，欧债风险升温，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 15:32:12 GMT</pubDate><description>&lt;p&gt;10月5日周一，全球金融市场盘中呈现明显分化。&lt;/p&gt;
+&lt;p&gt;颁奖典礼将按惯例于12月10日在斯德哥尔摩举行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，30年期美债收益率创24年新高，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 16:16:26 GMT</pubDate><description>&lt;p&gt;10月5日周一，全球金融市场盘中呈现明显分化。&lt;/p&gt;
 &lt;p&gt;美股方面，三大指数集体高开后走势不一，标普500和纳指高开高走，纳指连续第二个交易日创盘中历史新高；小幅高开的道指很快转跌。AI科技股继续成为市场主要支撑，英伟达、台积电美股等芯片股走强，Cerebras更因OpenAI CEO表态而一度大涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，欧洲市场虽然整体止跌，但法国股市、欧元以及欧洲主权债券市场仍受到财政和政治风险压制；美元则受避险需求支撑走强。原油盘中则经历明显震荡，布伦特原油一度因沙特关键输油管道停运的报道快速上涨逾1.2%，随后因消息被澄清而转跌。&lt;/p&gt;
@@ -335,7 +359,7 @@ AI产业链继续获得资金追捧
 &lt;p&gt;因此，当前油市的交易逻辑已经不只是简单的“供应减少或增加”，而是对&lt;strong&gt;中东基础设施安全、霍尔木兹运输、替代出口通道以及实际物流能力&lt;/strong&gt;高度敏感。周一沙特管道消息引发的剧烈价格波动，正体现了这种脆弱性。&lt;/p&gt;
 美债：收益率维持高位，股市与债市继续背离
 &lt;p&gt;美债市场则继续承受压力。&lt;/p&gt;
-&lt;p&gt;美国10年期国债收益率盘中仍在&lt;strong&gt;5.3%附近&lt;/strong&gt;，处于多年高位。路透社称，政府财政状况恶化、巨额发债以及能源成本偏高，均令债券市场承压。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国30年期国债收益率涨至5.69％，创2002年以来新高&lt;/strong&gt;。美国10年期国债收益率盘中仍在&lt;strong&gt;5.3%附近&lt;/strong&gt;，处于多年高位。路透社称，政府财政状况恶化、巨额发债以及能源成本偏高，均令债券市场承压。&lt;/p&gt;
 &lt;p&gt;与此同时，周一公布的美国9月ISM服务业数据显示，服务业扩张虽然放缓，但价格指数升至&lt;strong&gt;2022年7月以来最高水平&lt;/strong&gt;，进一步强化了市场对通胀压力的关注。&lt;/p&gt;
 &lt;p&gt;这使得当前市场呈现出一个颇为特殊的格局：&lt;strong&gt;股市尤其是AI科技股仍在创新高，但债券市场却持续交易财政、通胀和利率风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;彭博援引BMO Capital Markets观点称，美国服务业数据显示通胀压力正在增加，同时名义经济增长仍然强劲，这构成了近期债市偏空的重要背景。与此同时，部分机构认为，在AI热潮和盈利增长支撑下，美股对利率上升的敏感度仍然有限。&lt;/p&gt;
@@ -701,32 +725,4 @@ AI已深度嵌入AI研发流水线
 &lt;p&gt;交易最终引发买家不满，Robb因此收到了一条差评。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;当数百万用户同时将代理投入日常生活和工作场景，这类个体错误的累积效应不容低估。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;无论是财务损失、声誉受损还是账户安全，受影响的终究是终端用户，而非开发平台。DataDome的数据已经表明，互联网基础设施对于大规模代理活动的准备仍严重不足。&lt;/p&gt;
-&lt;p&gt;这些外观&amp;quot;可爱&amp;quot;的AI代理背后，是被训练为不惜一切完成目标的系统。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行撤退、债券折价，AI建设潮的钱不好借了</title><link>https://wallstreetcn.com/articles/3783018</link><guid>fc5b6c8d57e0c2f49df26943ebcf9e1318ac664f6fde941cab88622c1c5a7d74</guid><pubDate>Mon, 05 Oct 2026 12:18:52 GMT</pubDate><description>&lt;p&gt;AI数据中心融资市场正在经历一场显著的信用收紧。债券投资者要求更高折价和更优厚条款，部分主要银行开始对项目贷款更加挑剔，叠加宏观利率压力与AI行业自身风险，这场建设热潮的融资成本正在快速攀升。&lt;/p&gt;
-&lt;p&gt;据科技媒体The information报道，&lt;strong&gt;最新的标志性案例来自CleanSpark。&lt;/strong&gt;这家正在为Meta Platforms开发数据中心的比特币矿企，本月早些时候以98.5美分的价格发行了23亿美元债券——这是过去一年中折价幅度最大的交易之一。&lt;strong&gt;7.875%的票息已属高位，发行方还额外承诺分期偿还本金以降低再融资风险。&lt;/strong&gt;据摩根士丹利数据，自7月以来的四笔高收益数据中心债券交易，全部以某种形式的折价出售；而此前12个月的前十笔交易中，仅三笔包含折价。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;银行贷款市场同样出现收缩迹象。&lt;/strong&gt;据报道，知情人士透露，法国兴业银行、三井住友银行和三菱银行等机构已对数据中心项目贷款变得更加审慎。与此同时，甲骨文新墨西哥州项目近期发出不可抗力通知，令贷款方对合同条款和贷款契约的审查进一步趋严。这些动态共同指向同一个风险：AI基础设施建设的融资链条正在承压，部分项目的扩张计划面临实质性威胁。&lt;/p&gt;
-折价成常态，投资者胃口今非昔比
-&lt;p&gt;&lt;strong&gt;高收益债券市场今年已累计售出约550亿美元AI相关债券&lt;/strong&gt;，供给规模庞大，而投资者的风险偏好却在悄然转变。&lt;/p&gt;
-&lt;p&gt;Manulife Investment Management固定收益投资组合经理Connor Minnaar表示，折价是&amp;quot;当前市场的新动向&amp;quot;。他指出，&amp;quot;年初时投资者对交易结构的接受度要高得多&amp;quot;，而现在这种宽容已明显收窄。&lt;/p&gt;
-&lt;p&gt;CleanSpark案例的特殊性在于，其最终用户Meta Platforms是一家投资级公司，这类背书过去通常足以给投资者提供充分信心。但此次投资者仍要求额外补偿，反映出市场对建设周期风险和项目执行风险的担忧已超越对租户信用的依赖。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;8月中旬，另一笔交易同样印证了这一趋势。&lt;/strong&gt;由Coatue Management旗下风险投资机构和基础设施初创公司Fluidstack支持的开发商Zenith Arc LLC，以99.5美分的折价发行债券，为一座将租赁给交易巨头Jane Street的数据中心融资。债券上市交易后，收益率进一步走高，投资者要求的补偿甚至超过了同等评级的老债券。&lt;/p&gt;
-银行贷款市场：银团收窄，甲骨文事件敲响警钟
-&lt;p&gt;&lt;strong&gt;银行贷款市场的收紧同样不容忽视。&lt;/strong&gt; 据两位知情人士透露，法国兴业银行、三井住友银行和三菱银行均已对参与数据中心项目贷款变得更加审慎。这三家银行此前均深度参与了AI基础设施的标志性融资：法国兴业银行牵头了OpenAI与甲骨文&amp;quot;星际之门&amp;quot;项目首个站点71亿美元的债务融资；三菱与摩根大通联合牵头了甲骨文另外两个项目共380亿美元的融资；三井住友则参与牵头了甲骨文新墨西哥州项目180亿美元的融资。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;甲骨文新墨西哥州项目近期的波折成为贷款方的一次警示。&lt;/strong&gt;上周，甲骨文向该项目开发商（Blue Owl Capital旗下公司）发出不可抗力通知，原因是项目遭遇电力供应延误。甲骨文试图援引合同条款，以不可控事件为由豁免或推迟其合同义务。&lt;/p&gt;
-&lt;p&gt;据报道，知情人士透露，该笔贷款从贷款方角度看&amp;quot;结构完善&amp;quot;，即便项目未能获得电力供应，甲骨文也无法借此免除租约付款义务。但一位银行家表示，甲骨文的不可抗力主张可能促使部分银行寻求更严格的保护条款或重新评估贷款风险，进一步压缩潜在的贷款供给。&lt;/p&gt;
-建设热潮仍在，但融资窗口正在收窄
-&lt;p&gt;&lt;strong&gt;市场参与者强调，目前尚无重大交易被迫撤回&lt;/strong&gt;，没有任何活跃的银团化进程因定价疲软而中止。项目开发商仍在承受高收益债券市场更高的融资成本，以维持项目推进。&lt;/p&gt;
-&lt;p&gt;Connor Minnaar表示：&amp;quot;目前这仍是一个关于让步条款的故事。对很多公司来说，这是一场尽快让尽可能多的产能上线的竞赛，融资成本的高低还在其次。&amp;quot;&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;折价常态化、银行银团收窄、IPO窗口不稳定&lt;/strong&gt;，三重压力叠加，正在重塑AI数据中心融资市场的格局。对于那些评级较低、开发经验有限或建设周期较长的项目而言，融资难度已实质性上升，AI建设热潮能否维持此前的扩张节奏，将越来越取决于融资市场的承受能力。&lt;/p&gt;
-超大规模科技公司&amp;quot;挤出&amp;quot;效应加剧市场压力
-&lt;p&gt;&lt;strong&gt;AI融资市场的压力并非单一来源，而是多重因素叠加的结果。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;亚马逊、谷歌和微软等超大规模科技公司今年资本支出合计预计约7000亿美元，并预计未来数年维持这一水平。这些公司今年已发行近1600亿美元投资级债券，大规模供给涌入市场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;投资者持有超大规模科技公司债券所要求的额外收益率今年已上升约0.25个百分点&lt;/strong&gt;，而同期更广泛投资级市场的利差仅扩大0.04个百分点。尽管这些科技公司拥有庞大的经营现金流，但其债券的相对成本已在明显上升。&lt;/p&gt;
-&lt;p&gt;与此同时，部分大型科技公司将支出转移至其他融资主体，后者需在高收益债券市场自行筹资；为Anthropic和OpenAI等AI公司建设数据中心的开发商也在同一市场竞相融资，进一步加剧了供需失衡。&lt;/p&gt;
-宏观利率冲击与AI风险形成共振
-&lt;p&gt;&lt;strong&gt;国债收益率的上行为本已承压的市场再添变数。&lt;/strong&gt;美联储主席沃什上周表示，大规模科技债券发行对投资者形成&amp;quot;挤出效应&amp;quot;，是推动国债收益率上升的原因之一。&lt;/p&gt;
-&lt;p&gt;对数据中心开发商而言，国债收益率上升意味着风险项目必须提供更高的补偿才能吸引资金。&lt;/p&gt;
-&lt;p&gt;据报道，一位参与相关交易的银行家将这一转变描述为信用评级和项目质量上的&amp;quot;向上迁移&amp;quot;——过去愿意为建设周期长、开发商经验不足的项目承担风险以换取收益的投资者，如今可能转而选择在更安全的债券上获取相近回报。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;部分项目的融资成本已逼近盈亏临界点。&lt;/strong&gt;若项目所需回报率为12%，而借贷成本接近这一水平，利润空间将被压缩至项目在财务上难以为继的程度。&lt;/p&gt;
-IPO市场动荡，另一融资渠道同样承压
-&lt;p&gt;&lt;strong&gt;国债市场的波动也波及IPO市场，令AI公司的另一融资渠道前景不明。&lt;/strong&gt;据报道，Anthropic去年净亏损达420亿美元，其IPO草案文件显示计算和基础设施支出承诺超过5000亿美元，融资需求极为庞大。&lt;/p&gt;
-&lt;p&gt;正在为OpenAI和Anthropic开发数据中心容量的SB Energy和Nscale近期已公开IPO申请文件，但上市时间仍不明朗。Anthropic此前预计最早本月披露IPO申请，但截至目前尚未付诸行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这些外观&amp;quot;可爱&amp;quot;的AI代理背后，是被训练为不惜一切完成目标的系统。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
