@@ -1,5 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 21:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 22:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 22:25:42 GMT</pubDate><description>&lt;p&gt;尽管通胀粘性与地缘危机推升长端美债收益率至数十年高位，显著紧缩了市场金融条件，但对极少数巨头长期盈利的极度乐观，仍驱动纳斯达克100指数刷新历史新高、标普500逼近纪录高位。&lt;/p&gt;
+&lt;p&gt;“盈利预期”与“趋紧金融条件”的矛盾，导致市场结构极度分化，超过八成的罗素3000成分股已跌破50日均线，投资者正被迫将风险敞口避险式地压缩至极少数头部标的中。&lt;/p&gt;
+&lt;p&gt;（美股基准股指日内走势）&lt;/p&gt;
+&lt;p&gt;美股道指涨0.18%报51267.90点，标普500涨0.66%报7773.95点，纳指综合涨1.05%报27477.31点，创历史新高收盘。&lt;/p&gt;
+&lt;p&gt;美股十一大板块十涨一跌，材料板块涨1.22%领先、通信服务涨1.14%次之，房地产跌0.44%垫底。英伟达涨2.12%，Meta涨1.90%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;高盛对冲基金业务主管Tony Pasquariello将当前市场概括为&amp;quot;交易环境绝非简单，但主要趋势仍明确向上&amp;quot;，他预计标普500在12月31日将高于当前水平。&lt;/p&gt;
+&lt;p&gt;然而，高盛衍生品策略师Brian Garrett则警告称，&amp;quot;债市、大宗商品、情绪指标无一不在发出警报，唯独标普500在低波动中窄幅震荡&amp;quot;，这一格局历史上难以持续。&lt;/p&gt;
+
+科技主导美股指数，市场宽度持续恶化
+&lt;p&gt;周一美股三大指数收涨，纳指涨超1%，创收盘新高。尽管通胀粘性增强、地缘局势趋紧带来多重压力，但市场对长期盈利的乐观预期支撑了美股上涨行情。&lt;/p&gt;
+&lt;p&gt;大型科技股普涨，&lt;strong&gt;万得美国科技七巨头指数涨1.11%，连续两个交易日表现优于标普493指数&lt;/strong&gt;。SpaceX涨超7%，特斯拉、英伟达、博通涨逾2%。&lt;/p&gt;
+&lt;p&gt;（科技七巨头连续两个交易日表现优于标普493指数）&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783033"&gt;华尔街见闻提及&lt;/a&gt;，摩根士丹利发布看多报告，设定300美元目标价，指出公司价值被低估。多重催化剂驱动涨势，包括星舰回收预期、AI业务扩张及逾127亿美元国防合同。&lt;/p&gt;
+&lt;p&gt;SpaceX股价周一大涨近8%，马斯克净资产重破万亿美元，达约1.03万亿美元，重登富豪榜首。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;半导体股多数收跌&lt;/strong&gt;，超威半导体跌0.34%，阿斯麦跌0.40%，ARM跌1.49%，高通跌2.21%，英特尔跌2.63%。费城半导体指数全天涨幅不到0.3%。&lt;/p&gt;
+&lt;p&gt;不过台积电ADR涨2.75%报485.80美元，总市值一度站上2.5万亿美元并创下历史新高，博通涨2.08%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中概股多数收涨&lt;/strong&gt;，纳斯达克中国金龙指数涨1.61%，万得中概科技龙头指数涨3.17%。热门中概股方面，富途控股涨7.37%，万国数据涨6.24%，阿里巴巴涨4.68%，拼多多涨3.34%。&lt;/p&gt;
+&lt;p&gt;（涨幅位居前十的中概股指数成分股）&lt;/p&gt;
+&lt;p&gt;其他个股方面，&lt;strong&gt;PTC&lt;/strong&gt;成为标普500当天涨幅最大的成分股，收涨33.49%报192.26美元。&lt;/p&gt;
+&lt;p&gt;（PTC股价涨超30%）&lt;/p&gt;
+&lt;p&gt;施耐德电气10月5日宣布，已与美国工业软件公司PTC签署最终协议，以每股205美元全现金收购其全部股权，对应股权估值约226亿美元、企业价值约237亿美元。报价较PTC公告前最后收盘价溢价42.3%，较前30个交易日的成交量加权均价溢价46.1%。&lt;/p&gt;
+&lt;p&gt;当天还有另一宗并购。货运代理公司罗宾逊全球物流同意以58亿美元现金加股票收购卡车经纪商RXO，后者盘中一度涨21.8%，而买方股价收跌10.85%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体来看，周一美股内部严重分化。&lt;/strong&gt;这已是市场连续第15个交易日出现新低家数超过新高家数。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Fundstrat在近期报告中指出，罗素3000成分股中，仅约20%的个股位于50日均线之上，位于200日均线之上的比例已滑落至40%出头，为年内最低水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;分析认为从第二季度开始，股票每股收益中位数增长将显著放缓，并远低于标普500指数，除科技股外，其他行业的利润率也被下调。这解释了&lt;strong&gt;等权重指数表现不佳&lt;/strong&gt;以及市场广度指标为何如此疲软。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;高盛策略师Rich Privorotsky将其定性为&amp;quot;一段奇特的行情&amp;quot;，并指出基本面多空策略基金上周已大幅降低风险敞口，整体净持仓处于过去五年约第2百分位，部分投资者甚至在卖出科技股以平掉宏观空头。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人人都在担心什么，但现在交易员选择的应对方式是减少敞口。&lt;/p&gt;
+&lt;/blockquote&gt;
+长端美债收益率触及数十年高位，期限溢价持续攀升
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783025"&gt;据华尔街见闻&lt;/a&gt;，美国9月ISM服务业PMI录得54.9，低于前值与市场预期，在连续两个月上升后出现扩张放缓，但服务业价格指数从72.6升至74.0，创下四年新高，叠加制造业端同步抬升的通胀压力，意味着美国通胀粘性进一步增强，美联储维持高利率的时间大概率会超出市场此前的预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10年期美债收益率&lt;/strong&gt;当日最高触及5.34%，&lt;strong&gt;30年期&lt;/strong&gt;最高触及5.70%，分别创2002年以来新高，两者均上行至少7个基点，&lt;strong&gt;短端收益率&lt;/strong&gt;则在午后因油价下跌而有所回落，涨幅收窄至2至4个基点。&lt;/p&gt;
+&lt;p&gt;（美国主要期限国债收益率日内走势）&lt;/p&gt;
+&lt;p&gt;BMO资产管理固定收益主管Earl Davis表示，&lt;strong&gt;30年期美债收益率&lt;/strong&gt;突破6%&amp;quot;不可避免&amp;quot;，且很可能在本月内实现，当前债市波动率本身已形成推升收益率的自我强化循环。&lt;strong&gt;30年期美债收益率上一次达到6%是在2000年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;BMO资本市场策略师Vail Hartman在研报中写道，ISM服务业报告的整体基调&amp;quot;指向通胀压力加剧和名义增长强劲，强化了过去数周债市看空的核心逻辑&amp;quot;。&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Michael Ball分析认为，软化的劳动力和通胀数据已令市场对央行加息的预期有所降温，前端利率承压有所缓解；但长端收益率受期限溢价上升驱动，供给隐忧加剧与能源价格黏性是主要推手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场越来越倾向于认为，长端实际利率收紧意味着央行无需进一步行动。&lt;/strong&gt;本周将迎来国债拍卖检验，周二首先进行580亿美元3年期国债发行，随后10年期与30年期的拍卖将是评估市场需求的关键窗口。&lt;/p&gt;
+&lt;p&gt;（美联储年内加息概率小幅反弹）&lt;/p&gt;
+
+原油：沙特降价与地缘风险并存，价格剧烈波动
+
+&lt;p&gt;WTI原油周一收跌约2.1%至每桶89.20美元，但盘中走势极为混乱。&lt;/p&gt;
+&lt;p&gt;沙特下调对亚洲基准油价，美伊停战谈判取得进展的消息构成利空；与此同时，路透社早些时候援引知情人士称沙特东西管道遭袭后关闭，但随后知情人士又表示管道运营正常，价格因此大幅震荡。&lt;/p&gt;
+&lt;p&gt;（原油因日内乌龙消息宽幅震荡）&lt;/p&gt;
+&lt;p&gt;上行风险并未消散。渣打银行能源研究主管Emily Ashford表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;仅仅因为表面上的原油出口在恢复，风险溢价并未消失。胡塞武装与沙特之间的冲突有其自身的动态与升级风险，沙特基础设施和替代出口路线持续处于威胁之下。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;沙特阿美首席执行官Amin Nasser周一在伦敦能源智库论坛上警告，全球缓冲供应冲击的原油库存已变得&amp;quot;极度稀薄&amp;quot;，若霍尔木兹海峡不能重新畅通，市场风险将进一步恶化。Amin Nasser强调：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对原油的挤压已经严峻，但成品油价格涨幅更为剧烈。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;（美国和欧盟的柴油价格周一小幅上涨）&lt;/p&gt;
+&lt;p&gt;盛宝银行大宗商品策略主管Ole Sloth Hansen表示，紧急储备释放和沙特降价，正在压制油价。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但这并不改变霍尔木兹海峡运输虽已回升却仍脆弱、随时可能再遭中断的基本事实。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+巴西强势，欧元承压，美元与比特币双向波动
+
+&lt;p&gt;巴西资产周一全线飙涨，&lt;a href="https://wallstreetcn.com/articles/3782995"&gt;华尔街见闻提及&lt;/a&gt;，右翼参议员小博纳索罗以47.8%对44.2%领先现任总统卢拉，远超民调预期。双方将于10月25日决选。&lt;/p&gt;
+&lt;p&gt;投资者预期更为财政保守的政策组合，巴西雷亚尔大幅走强，股市与债市同步上扬。&lt;/p&gt;
+&lt;p&gt;（巴西股指大涨）&lt;/p&gt;
+&lt;p&gt;（巴西雷亚尔兑美元汇率大幅走强）&lt;/p&gt;
+&lt;p&gt;Robeco机构资产管理的投资组合经理Daniela Da Costa-Bulthuis表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;小博纳索罗被投资者视为更优选项，其财政整固计划将为巴西央行继续降息打开空间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;欧洲财政压力主要反映在汇市，法国主权债务隐忧持续，欧元跌至2025年5月以来最低，欧洲股市表现分化，法国股市小幅收跌，西班牙股市因巴西敞口而收涨。&lt;/p&gt;
+&lt;p&gt;（欧元兑美元跌至2025年5月以来最低）&lt;/p&gt;
+&lt;p&gt;美元指数在欧元走弱支撑下温和走强，但随后回落，收窄涨幅。&lt;/p&gt;
+&lt;p&gt;（美元指数走势）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黄金&lt;/strong&gt;受美元压制，跌至上周五的低点附近。&lt;/p&gt;
+&lt;p&gt;（黄金价格走势）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;则呈现大幅双向震荡，一度完全收复上周五的跌幅，随后又回吐约一半涨幅，收报85,705美元，小幅下跌0.1%。&lt;/p&gt;
+&lt;p&gt;（比特币价格走势）&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Altman周五在X平台发文，直接回应外界对两家公司关系的猜测，称Cerebras是OpenAI的&amp;quot;密切合作伙伴&amp;quot;，双方&amp;quot;在速度前沿领域保持深度合作&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;受此提振，Cerebras股价周一一度涨超10%。&lt;/p&gt;
@@ -23,161 +104,26 @@
 
 &lt;p&gt;Cerebras于今年5月完成上市，以接近950亿美元的市值高调入场，进入一个由英伟达主导的AI芯片市场。&lt;/p&gt;
 &lt;p&gt;然而上市以来，公司股价持续承压——8月中旬业绩及业绩指引双双令市场失望，进一步加重了估值修复的难度。&lt;/p&gt;
-&lt;p&gt;与此同时，作为Cerebras最重要的客户，OpenAI自身也在加速推进融资计划。据报道，OpenAI正寻求新一轮融资，目标估值高达1.4万亿美元，并最早考虑于明年启动IPO进程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖</title><link>https://wallstreetcn.com/articles/3783017</link><guid>14d1a6c64d5262d448d24c98d2b0e573c9e9db65085d9fa606ab6c62d0592d41</guid><pubDate>Mon, 05 Oct 2026 10:08:49 GMT</pubDate><description>&lt;p&gt;三位科学家凭借一项将藻类蛋白质转化为神经细胞“开关”的突破性技术，摘得2026年诺贝尔生理学或医学奖。&lt;/p&gt;
-&lt;p&gt;当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予美国科学家&lt;strong&gt;卡尔·戴塞洛斯（Karl Deisseroth）&lt;/strong&gt;和德国科学家&lt;strong&gt;彼得·黑格曼（Peter Hegemann）&lt;/strong&gt;、&lt;strong&gt;格奥尔格·纳格尔（Georg Nagel）&lt;/strong&gt;，以&lt;strong&gt;表彰他们在光门控离子通道和光遗传学方面的发现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，作为Cerebras最重要的客户，OpenAI自身也在加速推进融资计划。据报道，OpenAI正寻求新一轮融资，目标估值高达1.4万亿美元，并最早考虑于明年启动IPO进程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 42%溢价、五年才与资本成本打平，施耐德电气创纪录230亿买PTC，股价重挫</title><link>https://wallstreetcn.com/articles/3783036</link><guid>839adc87232c22bb015024dab93914884f8cc01c76cdb80b6d70dfdbb28db5a3</guid><pubDate>Mon, 05 Oct 2026 22:03:05 GMT</pubDate><description>&lt;p&gt;法国工业巨头施耐德电气（Schneider Electric SE）宣布以约226亿美元收购美国工业软件公司PTC Inc.，创下公司史上最大规模并购纪录，标志着欧洲工业企业在AI浪潮中加速押注的新阶段。&lt;/p&gt;
+&lt;p&gt;此次收购以全现金方式完成，收购价格较PTC最近收盘价溢价逾40%。施耐德电气首席执行官Olivier Blum表示，此次交易将打造&amp;quot;业内最完整的软件与AI强力组合&amp;quot;，PTC首席执行官Neil Barua则称，合并后公司将&amp;quot;获得大幅扩展的规模与资源，加速创新并拓展地理版图&amp;quot;。&lt;/p&gt;
+&lt;p&gt;消息公布后，巴黎上市的施耐德电气股价重挫，盘中跌超10%，收跌近10%，创2025年1月以来最大日跌幅，PTC美股当天则大幅收涨约33.5%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;三人将平分1200万瑞典克朗（约801.69万元人民币）的奖金。诺贝尔生理学或医学奖委员会主席Per Svenningsson表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;光遗传学提供了一种我们曾经只能梦想的大脑图谱绘制方式。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;正如人们所说的那样，这些科学家们的贡献，宣告了神经科学新纪元的到来。&lt;/strong&gt;光遗传学技术使科学家得以在活体大脑中对单个神经细胞的活动进行精准开关控制，从而揭示神经回路如何塑造记忆、情感与行为。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前，该方法已在全球各地实验室得到广泛应用，并在临床领域被尝试用于恢复视障患者的视力。&lt;/strong&gt;&lt;/p&gt;
-
-从藻类到大脑：一项发现的起源
-
-&lt;p&gt;这项研究的起点，源自Peter Hegemann对一个看似简单问题的好奇：&lt;strong&gt;单细胞藻类莱茵衣藻（Chlamydomonas）是如何感知光源并游向光线的？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Peter Hegemann带着这份好奇心开始研究。21世纪初，他与Georg Nagel共同发现了一种名为光敏感通道蛋白（channelrhodopsin）的藻类蛋白质，该蛋白分布于细胞表面。&lt;/p&gt;
-&lt;p&gt;当蓝光照射时，蛋白质内部的通道随即开放，带电离子涌入细胞，产生电信号。更为关键的是，两人发现，&lt;strong&gt;无论将这种蛋白质引入哪种细胞，该细胞都会对光产生敏感反应&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;2003年，Nagel、Hegemann与Ernst Bamberg教授领衔的团队进一步证实，&lt;strong&gt;在动物细胞中表达的光敏感通道蛋白-2（ChR2）确实可在光的作用下调控离子进出，并在论文中指出，该技术有望成为“一个强大的工具”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Hegemann目前任职于德国柏林洪堡大学，其获奖相关发现完成于德国马丁斯里德马克斯·普朗克生物化学研究所。&lt;/p&gt;
-&lt;p&gt;Nagel现为德国维尔茨堡大学分子植物生理学教授，相关发现完成于法兰克福马克斯·普朗克生物物理研究所。两人分别生于1954年和1953年。&lt;/p&gt;
-
-Deisseroth的关键转化：从蛋白质到神经开关
-
-&lt;p&gt;&lt;strong&gt;将这一基础发现推向实际应用的，是美国科学家Karl Deisseroth。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当读到上述论文后，时任斯坦福大学博士后的Karl Deisseroth与博士生Edward Boyden迅速与Nagel团队建立合作，着手将ChR2引入神经元。&lt;/p&gt;
-&lt;p&gt;Deisseroth解决了ChR2在神经细胞膜上稳定表达这一核心难题，Boyden则开发出可精准控制光线的光纤系统。&lt;/p&gt;
-&lt;p&gt;2004年8月4日凌晨1时，Boyden在显微镜下对表达ChR2的神经元施加蓝光刺激，第一个被测神经元随即在数毫秒内产生了稳定的动作电位。&lt;strong&gt;这一夜，现代光遗传学技术的雏形宣告诞生。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他于2005年发表了这一突破性成果。两年后，他进一步实现了在活体小鼠大脑中用光控制神经细胞的目标，标志着光遗传学技术正式进入实验应用阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Deisseroth生于1971年，先后于1998年和2000年在美国斯坦福大学获得博士和医学博士学位，目前担任霍华德·休斯医学研究所及斯坦福大学的D.H. Chen讲席教授，研究涵盖生物工程、精神病学与行为科学。&lt;/p&gt;
-
-临床前景与神经科学的新纪元
-
-&lt;p&gt;此后，光遗传学领域呈现出爆炸式发展态势。并且光遗传学的意义已超越基础研究范畴，正在向临床医学延伸：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;2005年12月，Nagel与Alexander Gottschalk教授的联合团队首次用光遗传学方法改变了线虫行为；&lt;/li&gt;
-&lt;li&gt;2006年，潘卓华教授课题组使视网膜病变小鼠重塑了对光的反应；&lt;/li&gt;
-&lt;li&gt;2007年，冯国平教授课题组报道了稳定表达ChR2-YFP的转基因小鼠体系。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;凭借这一技术，研究人员得以揭示与神经系统疾病及精神疾病相关的特定记忆、情感和行为背后的神经回路。在临床层面，研究人员正在尝试利用该方法为视力受损患者恢复视觉功能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“光遗传学”这一术语本身，直至2006年才首次出现于学术论文，但相关研究已迅速席卷全球实验室。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;卡罗琳医学院在公告中指出，光遗传学“从根本上改变了我们对大脑的理解”，每天都有新发现涌现，帮助人类解开大脑运作这一终极谜题。&lt;strong&gt;诺贝尔奖委员会将三位获奖者的贡献定性为“神经科学新纪元的奠基”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;颁奖典礼将按惯例于12月10日在斯德哥尔摩举行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 17:12:49 GMT</pubDate><description>&lt;p&gt;10月5日周一，全球金融市场盘中呈现明显分化。&lt;/p&gt;
-&lt;p&gt;美股方面，三大指数集体高开后走势不一，标普500和纳指高开高走，纳指连续第二个交易日创盘中历史新高；小幅高开的道指很快转跌。AI科技股继续成为市场主要支撑，英伟达、台积电美股等芯片股走强，Cerebras更因OpenAI CEO表态而一度大涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，欧洲市场虽然整体止跌，但法国股市、欧元以及欧洲主权债券市场仍受到财政和政治风险压制；美元则受避险需求支撑走强。原油盘中则经历明显震荡，布伦特原油一度因沙特关键输油管道停运的报道快速上涨逾1.2%，随后因消息被澄清而转跌。&lt;/p&gt;
-美股：标普纳指高开高走，纳指两日盘中新高
-&lt;p&gt;美股三大指数周一集体高开，但随后走势出现分化。&lt;/p&gt;
-&lt;p&gt;早盘&lt;strong&gt;标普500指数涨近0.5%，纳指涨逾0.7%、刷新上周五所创的盘中最高纪录；道指盘初转跌后一度跌逾310点、跌约0.6%&lt;/strong&gt;。评论认为，蓝筹科技股和成长股上涨是标普和纳指走强的主要动力，而美债收益率仍处于多年高位，限制了整体风险偏好的进一步升温，令道指承压。&lt;/p&gt;
-&lt;p&gt;纳指再创新高，延续了上周非农就业数据弱于预期后形成的行情。就业市场降温降低了市场对美联储10月加息的担忧，市场目前预计本月维持利率不变的概率约为80%。&lt;/p&gt;
-&lt;p&gt;不过，股市的强势主要集中在科技和成长板块，市场内部广度并不算强。路透社数据显示，盘中纳斯达克市场创52周新高的股票仅23只，而创52周新低的股票达到157只，显示指数创新高与个股表现之间存在明显分化。&lt;/p&gt;
-AI产业链继续获得资金追捧
-&lt;p&gt;AI产业链仍是美股盘面的重要亮点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cerebras（CBRS）早盘一度涨超10%&lt;/strong&gt;。OpenAI CEO Sam Altman 称Cerebras是OpenAI的“亲密合作伙伴”，并表示两家公司正就突破速度极限而进行深入合作。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;英伟达（NVDA）早盘涨超1%，继续逼近此前创下的历史高位。推动股价表现的一个重要因素，是其重要合作伙伴鸿海公布的业绩数据。&lt;/p&gt;
-&lt;p&gt;周一鸿海公布，第三季度营收达到&lt;strong&gt;3.03万亿新台币、同比增长47%&lt;/strong&gt;，高于市场预期，显示全球AI基础设施投资仍然强劲。作为英伟达的重要服务器组装合作伙伴，鸿海业绩继续受到AI服务器需求的推动。&lt;/p&gt;
-&lt;p&gt;台积电美股（TSM）早盘涨超2%，市场关注马斯克旗下Terafab与台积电的潜在合作讨论；受相关消息影响，英特尔（INTC）则跌超2%。&lt;/p&gt;
-&lt;p&gt;除AI芯片股外，软件板块同样走强。标普500软件与服务指数早盘涨超1%。因法国施耐德电气宣布对其226亿美元现金收购，美国软件公司PTC（PTC）早盘涨超30%。&lt;/p&gt;
-欧股：大盘止跌，但法股和欧债风险仍是焦点
-&lt;p&gt;欧洲股市周一盘中整体小幅反弹，但市场对欧洲财政状况的担忧并未消退。&lt;/p&gt;
-&lt;p&gt;泛欧Stoxx 600指数盘中上涨约0.2%，英国、意大利股市均有所上涨，西班牙股市也走强；但&lt;strong&gt;法国CAC40指数逆势下跌约0.9%&lt;/strong&gt;，盘中触及近六个月低位。&lt;/p&gt;
-&lt;p&gt;法国市场承压的核心仍是财政问题。法国政府提出的2027年预算计划面临较大不确定性，法国国债收益率维持高位，市场担忧政府削减财政赤字的能力。&lt;/p&gt;
-&lt;p&gt;与此同时，西班牙首相桑切斯周一宣布将于&lt;strong&gt;11月29日举行提前大选&lt;/strong&gt;，进一步增加欧洲政治不确定性。&lt;/p&gt;
-&lt;p&gt;欧洲债券市场的压力尤其值得关注。近期法国国债与德国国债之间的利差已经明显扩大，市场重新担心欧洲主权债务风险可能向更广泛的市场传导。&lt;/p&gt;
-&lt;p&gt;彭博指出，欧洲政治不确定性推动欧元跌至2025年5月以来最低水平，同时也令美国国债10年期收益率维持在2002年以来高位附近。&lt;/p&gt;
-汇市：欧元跌至17个月低位，美元避险需求升温
-&lt;p&gt;汇市方面，&lt;strong&gt;欧元成为周一主要承压资产之一&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;由于法国财政问题、西班牙提前大选以及欧洲主权债务风险同时受到关注，欧元盘中一度跌至约17个月低位。法国财政和政治不确定性正在成为压制欧元的主要因素。&lt;/p&gt;
-&lt;p&gt;与之对应的是美元走强。欧洲债务风险升温以及美债收益率高企，共同强化了美元的避险吸引力。&lt;/p&gt;
-&lt;p&gt;这也使得周一全球市场出现一个较为典型的组合：&lt;strong&gt;美股科技股继续走强，但资金同时向美元等避险资产集中，债券市场却并未同步获得明显避险买盘。&lt;/strong&gt;&lt;/p&gt;
-原油：布油盘中急涨逾1.2%后转跌，沙特管道消息反转引发剧烈波动
-&lt;p&gt;原油市场周一盘中出现明显的“过山车”行情。&lt;/p&gt;
-&lt;p&gt;布伦特原油一度因有关&lt;strong&gt;沙特东西输油管道遭袭并暂停输油&lt;/strong&gt;的报道快速上涨，盘中涨幅一度超过1.2%。&lt;/p&gt;
-&lt;p&gt;这条管道连接沙特东部油田和红海沿岸的延布港，是沙特绕开霍尔木兹海峡出口原油的重要通道，因此一旦出现新的供应中断消息，市场迅速计入中东供应风险溢价。&lt;/p&gt;
-&lt;p&gt;但随后彭博援引知情人士报道称，&lt;strong&gt;沙特东西输油管道实际上运行正常，原油仍在正常流动&lt;/strong&gt;，此前有关管道停运的报道受到质疑，油价随即回吐此前涨幅并转跌。相关报道称，在消息出现后，布伦特原油一度上涨约1.2%的涨幅迅速消失。&lt;/p&gt;
-&lt;p&gt;路透社同时指出，近期中东原油出口实际上正在恢复，9月经霍尔木兹海峡的原油出口甚至一度超过战前水平，但运输、保险以及炼化环节的瓶颈仍然存在。&lt;/p&gt;
-&lt;p&gt;因此，当前油市的交易逻辑已经不只是简单的“供应减少或增加”，而是对&lt;strong&gt;中东基础设施安全、霍尔木兹运输、替代出口通道以及实际物流能力&lt;/strong&gt;高度敏感。周一沙特管道消息引发的剧烈价格波动，正体现了这种脆弱性。&lt;/p&gt;
-美债：收益率维持高位，股市与债市继续背离
-&lt;p&gt;美债市场则继续承受压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美国抛售持续，10年期美债收益率涨至5.34%，30年期美债收益率涨至5.69％，双创2002年以来新高。&lt;/strong&gt;路透社称，政府财政状况恶化、巨额发债以及能源成本偏高，均令债券市场承压。&lt;/p&gt;
-&lt;p&gt;与此同时，周一公布的美国9月ISM服务业数据显示，服务业扩张虽然放缓，但价格指数升至&lt;strong&gt;2022年7月以来最高水平&lt;/strong&gt;，进一步强化了市场对通胀压力的关注。&lt;/p&gt;
-&lt;p&gt;这使得当前市场呈现出一个颇为特殊的格局：&lt;strong&gt;股市尤其是AI科技股仍在创新高，但债券市场却持续交易财政、通胀和利率风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;彭博援引BMO Capital Markets观点称，美国服务业数据显示通胀压力正在增加，同时名义经济增长仍然强劲，这构成了近期债市偏空的重要背景。与此同时，部分机构认为，在AI热潮和盈利增长支撑下，美股对利率上升的敏感度仍然有限。&lt;/p&gt;
-&lt;p&gt;因此，截至周一盘中，全球市场的核心矛盾仍未改变：&lt;strong&gt;AI驱动的美国科技股行情继续向前，但高企的美债收益率、欧洲财政风险以及中东能源供应的不确定性，正在不断增加市场波动。&lt;/strong&gt;&lt;/p&gt;
-
-
-
-
-
-以下为截至北京时间20:57更新内容：
-&lt;p&gt;法国财政困局与西班牙政局突变的双重冲击，风险偏好情绪承压，欧元兑美元跌至17个月低位。标普500指数期货则变动不大。纳斯达克100指数略低于上周创下的历史高点。&lt;/p&gt;
-&lt;p&gt;周一日经指数大涨2.4%，日本东证指数同步走强1.3%。港股三大指数则在低开后逐步收复失地，AI算力硬件产业链成为当日最鲜明的结构性主线，PCB及光通信板块领涨，地产等传统板块持续承压。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，巴西大选首轮结果出炉，右翼参议员意外领先现任总统卢拉，&lt;strong&gt;巴西资产跳升，巴西股指期货大涨8.3%，巴西雷亚尔大涨4.6%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美股盘前，具体资产表现如下：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;标普500指数期货&lt;/strong&gt;跌0.01%，报7776.5点，&lt;strong&gt;纳斯达克100指数期货&lt;/strong&gt;跌0.12%，报31023.75点，&lt;strong&gt;道指期货&lt;/strong&gt;涨0.04%，报51498点。&lt;/li&gt;
-&lt;li&gt;热门个股方面，&lt;strong&gt;工业软件公司PTC&lt;/strong&gt;盘前涨超34%，施耐德电气确认以226亿美元收购PTC。&lt;strong&gt;台积电&lt;/strong&gt;盘前上涨近2%，正探索与马斯克旗下Terafab晶圆厂的合作事宜。&lt;strong&gt;中概股蔚来&lt;/strong&gt;盘前上涨超1%，国庆自驾高峰带动其换电单日服务量创历史新高。&lt;/li&gt;
-&lt;li&gt;贵金属方面，&lt;strong&gt;现货黄金&lt;/strong&gt;现涨0.36%，报4157.62美元/盎司，&lt;strong&gt;现货白银&lt;/strong&gt;现涨2.08%，报61.71美元/盎司。&lt;/li&gt;
-&lt;li&gt;外汇方面，&lt;strong&gt;美元指数&lt;/strong&gt;涨0.29%，报102.23，&lt;strong&gt;欧元兑美元&lt;/strong&gt;跌0.41%，报1.1206，&lt;strong&gt;美元兑日元&lt;/strong&gt;涨0.21%，报158.19，&lt;strong&gt;英镑兑美元&lt;/strong&gt;跌0.10%，报1.3226，&lt;strong&gt;澳元兑美元&lt;/strong&gt;涨0.05%，报0.6960。&lt;/li&gt;
-&lt;li&gt;国际油价方面，&lt;strong&gt;布伦特原油期货&lt;/strong&gt;涨0.25%，报102.51美元/桶，&lt;strong&gt;美油期货&lt;/strong&gt;跌1.2%，报90.02美元/桶。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-欧洲风险上升，欧元跌至17个月低位
-
-&lt;p&gt;欧洲局势成为本周开市的核心变量。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783024"&gt;华尔街见闻提及&lt;/a&gt;，法国政策僵局持续发酵，高风险债券遭抛售；西班牙首相Pedro Sánchez因国内住房问题引发大规模社会抗议，宣布提前举行大选，市场担忧欧元区财政压力进一步蔓延。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;欧元兑美元&lt;/strong&gt;跌0.5%至1.1204，创2025年5月以来最低水平。&lt;strong&gt;美元指数&lt;/strong&gt;小幅走强0.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;XTB分析师Kathleen Brooks表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;欧洲正在失去投资者的青睐，债券市场的&amp;#x27;自警者&amp;#x27;正在密切注视欧元区的动向。现在的问题是，西班牙会是下一个吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;欧洲股市表现分化，斯托克600指数冲高回落，涨幅0.14%，但法国CAC 40成为欧洲最弱势指数，日内跌超1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;标普500期货跌近0.2%，纳斯达克100期货在上周五触及历史新高后，盘前小幅走低。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-加息压力缓解，亚太科技股普涨
-
-&lt;p&gt;亚太股市则获得另一条逻辑主线的支撑——美国9月新增就业人数低于预期，薪资增速放缓，货币市场随即将美联储10月加息概率压至25%以下。MSCI亚太指数上涨1.2%，跟涨上周五美股的涨势。&lt;/p&gt;
-&lt;p&gt;日本市场涨幅居前，日经225指数盘中最高涨超2.5%，一度重返70000点上方，科技股表现尤为突出。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;中国台湾加权指数一度上涨2.7%至49770.66点，台积电盘中大涨3%，刷新历史高位。韩国及中国大陆市场因假日休市，未参与此轮行情。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;AMP Ltd.首席经济学家兼投资策略主管Shane Oliver在研报中表示，9月就业数据&amp;quot;不冷不热&amp;quot;，&amp;quot;符合&amp;#x27;金发姑娘&amp;#x27;情境，进一步强化了市场对美联储本月不会急于再次加息的预期&amp;quot;。&lt;/p&gt;
-
-PCB板块领涨，AI算力链量价共振
-
-&lt;p&gt;港股方面，周一恒生指数收涨0.28%报24040.34点，恒生科技指数涨0.62%报4183.68点。建滔积层板单日涨幅近12%，景旺电子H股涨逾9%，智谱涨6.2%领涨恒生科技成分股；港股光通信板块中，京信通信暴涨逾25%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PCB板块当日成为最亮眼主线&lt;/strong&gt;：建滔积层板涨11.94%报55.3港元，成交额达32.09亿港元；建滔集团涨8.36%；景旺电子H股涨逾9%，广合科技H股涨逾6%，胜宏科技H股涨逾5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;涨价信号持续贯穿产业链上下游。上游方面，建滔积层板年内已累计发布7轮涨价通知，南亚塑胶自9月起再度上调20%产品价格；玻纤龙头中国巨石9月对电子布厚布、薄布分别提价15%与20%；江西宏瑞兴科技宣布覆铜板出厂价上调10%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;大模型企业智谱当日涨6.2%，收报665港元，领涨恒生科技成分股，成为AI软件层面的重要亮点&lt;/strong&gt;。高盛将智谱评级由&amp;quot;中性&amp;quot;上调至&amp;quot;买入&amp;quot;，目标价定为1560港元，认为其变现路径更为清晰，当前估值已具吸引力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;光通信及半导体板块同步走强。&lt;/strong&gt;京信通信涨逾25%，剑桥科技涨逾10%，澜起科技涨逾6%，中际旭创涨逾3%，中芯国际涨逾1%。联想集团涨4.7%，里昂重申其为首选中国科技股，AI业务高速增长且订单充沛，成交额达17.07亿港元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-沙特东西输油管道传再遭袭击，证实运营正常后油价回落
-
-&lt;p&gt;沙特阿拉伯核心跨境输油管道的安全状况在短短数分钟内经历了一轮&amp;quot;乌龙式&amp;quot;震荡，折射出当前中东地缘风险对全球油价的高度敏感性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据彭博消息人士透露，沙特东西输油管道目前运营正常，此前有关管道因再遭袭击而暂停运营的报道并未获证实。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消息公布后，&lt;strong&gt;布伦特原油&lt;/strong&gt;价格涨幅回落至0.36%，报102.62美元/桶，此前一度因停运传言而急升至103.08美元/桶，日内涨幅一度扩大至逾1.2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;沙特阿美CEO在同日公开表示，公司目前继续通过延布、锡迪克里尔和塞得港进行出口，并强调系统内备有充足库存以供应客户。他还警告称，若没有东西向输油管道，布伦特原油价格可能触及200美元/桶，凸显该管道对全球供应稳定的战略意义。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;黄金&lt;/strong&gt;小幅反弹0.46%至每盎司4158美元，此前黄金刚刚结束自6月以来最大单周跌幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;伦敦金属交易所铜期货&lt;/strong&gt;一度上涨0.9%，随后涨幅回落至0.6%，铜价在上周五创下3月以来最大单周跌幅。伦敦金属交易所（LME）锡价上涨0.2%，铝价持平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;由于美国关税威胁导致贸易商向美国倾销数十万吨金属，可能挤压其他地区的供应。与此同时，数据中心和可再生能源的消费需求提振了价格。分析认为中国仍处黄金周假期，这一定程度上抑制了金属市场的流动性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”</title><link>https://wallstreetcn.com/articles/3783019</link><guid>0e0c5d54b1a62216d0472fbcd8feb8a88effee6fc9c0ccc4e2d5b62629869f8e</guid><pubDate>Mon, 05 Oct 2026 11:51:12 GMT</pubDate><description>&lt;p&gt;AI正在重塑药物发现的底层逻辑，一场类似半导体行业&amp;quot;瓶颈交易&amp;quot;的机会正在制药供应链中悄然成形。&lt;/p&gt;
+&lt;p&gt;交易计划于2027年第三季度前完成，资金来源包括最高60亿欧元的股权发行及最高170亿欧元的新增债务，桥接融资由摩根士丹利和法国兴业银行提供。摩根士丹利担任施耐德电气的主要财务顾问，Evercore担任PTC的顾问。&lt;/p&gt;
+战略逻辑：填补工业软件版图缺口
+&lt;p&gt;施耐德电气此次收购的核心目标，是将PTC在工业产品计算机辅助设计领域的专业能力纳入旗下，从而构建覆盖工业产品设计与制造全生命周期的完整软件体系。&lt;/p&gt;
+&lt;p&gt;PTC总部位于波士顿，其工程软件服务涵盖汽车、航空航天及医疗技术等行业。&lt;/p&gt;
+&lt;p&gt;Jefferies分析师Lucas Ferhani在研究报告中指出，此次交易&amp;quot;从战略角度填补了施耐德软件组合中最后剩余的缺口之一&amp;quot;。&lt;/p&gt;
+&lt;p&gt;施耐德电气今年已在并购领域动作频频。今年7月，该公司以31亿美元收购工业数据与AI软件公司Cognite，此次收购PTC则将其AI工业软件布局推向新高度。同期，竞争对手ABB Ltd.也于7月以55亿美元收购英国工业部件公司Rotork Plc，西门子本月亦对核心业务进行重组，以更好整合数字与实体产品。欧洲工业企业围绕AI需求与数据中心基础设施的扩张竞赛正在提速。&lt;/p&gt;
+财务压力：高杠杆与漫长回报周期
+&lt;p&gt;尽管战略逻辑获得分析师认可，此次交易的财务代价依然沉重，市场反应亦折射出投资者的疑虑。&lt;/p&gt;
+&lt;p&gt;按每股205美元的收购价计算，较PTC最近收盘价溢价42%，距其历史高点仅低5%。若计入承接的净债务，交易总价升至约240亿美元。施耐德电气预计，该收购需要五年时间才能实现与资本成本相当的回报。据彭博汇编的预测数据，PTC预计至2031年的运营利润仅约15亿美元，而预期在三年后实现的成本节余仅能额外贡献2.8亿美元。&lt;/p&gt;
+&lt;p&gt;RBC分析师Mark Fielding领衔的团队认为，PTC是一项&amp;quot;高质量、高利润率&amp;quot;资产，但同时警告整合挑战不容忽视，并指出&amp;quot;显著的杠杆积累可能重燃市场对施耐德长期资本配置的担忧&amp;quot;。&lt;/p&gt;
+&lt;p&gt;融资时机同样令人关注。彭博评论指出，当前法国10年期国债收益率已接近5%，远高于六个月前逾3.5%的水平，欧元兑美元汇率亦有所走弱，这意味着此次融资成本明显高于更早时点。研究机构Oxcap Analytics的分析师还提示，PTC属于稀缺标的，不排除吸引竞争性买家的可能。&lt;/p&gt;
+欧洲AI竞局：工业赛道的差异化突围
+&lt;p&gt;在消费级AI领域，欧洲已明显落后于美国和中国，但施耐德电气、西门子、ABB等工业巨头仍在工业客户服务及数据中心组件供应领域保持竞争力。&lt;/p&gt;
+&lt;p&gt;施耐德电气市值约1580亿欧元，长期受益于数据中心建设热潮带来的能效需求，被瑞银（UBS Group AG）策略师列为欧洲&amp;quot;AI赋能者&amp;quot;之列，今年截至上周五股价累计涨幅接近30%。&lt;/p&gt;
+&lt;p&gt;工业软件企业相较于SAP SE、Salesforce Inc.等通用软件公司，受AI替代冲击相对有限。分析人士认为，这是因为工业软件的价值高度依赖对专有数据的访问权限，且其所针对的生产流程对错误容忍度极低，形成了较高的竞争壁垒。&lt;/p&gt;
+&lt;p&gt;Olivier Blum上任仅两年，便主导了这笔公司史上规模最大的交易。彭博评论认为，此举背后或存在一种潜在焦虑——若不尽快出手，竞争对手可能捷足先登，尤其是在美国当前相对宽松的反垄断环境可能不会持续太久的背景下。施耐德电气历史上曾多次通过并购实现成功扩张，包括在美国市场的多笔交易，这或许是支撑此次激进押注的最重要底气所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”</title><link>https://wallstreetcn.com/articles/3783019</link><guid>0e0c5d54b1a62216d0472fbcd8feb8a88effee6fc9c0ccc4e2d5b62629869f8e</guid><pubDate>Mon, 05 Oct 2026 11:51:12 GMT</pubDate><description>&lt;p&gt;AI正在重塑药物发现的底层逻辑，一场类似半导体行业&amp;quot;瓶颈交易&amp;quot;的机会正在制药供应链中悄然成形。&lt;/p&gt;
 &lt;p&gt;10月4日，顶级美元基金Altimeter Capital合伙人Freda Duan近日发文指出，AI制药赛道（AIDD）的&amp;quot;瓶颈交易&amp;quot;正在成形，其结构与此前半导体领域从GPU延伸至HBM、网络、电力的链式行情高度相似。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;前沿AI实验室的集体入场是最显著的信号。&lt;/strong&gt;Anthropic组建了专属生命科学研究团队并建立湿实验室，OpenAI 建立了专为生物学和药物发现设计的 GPT-Rosalind 模型族，字节跳动旗下独立运营的 Anew Labs 已拥有内部药物研发库，同构实验室（Isomorphic Labs）则明确表示将把 AI 设计的药物推进人体临床试验。&lt;/p&gt;
@@ -496,38 +442,29 @@ AI已深度嵌入AI研发流水线
 &lt;p&gt;&lt;strong&gt;部分项目的融资成本已逼近盈亏临界点。&lt;/strong&gt;若项目所需回报率为12%，而借贷成本接近这一水平，利润空间将被压缩至项目在财务上难以为继的程度。&lt;/p&gt;
 IPO市场动荡，另一融资渠道同样承压
 &lt;p&gt;&lt;strong&gt;国债市场的波动也波及IPO市场，令AI公司的另一融资渠道前景不明。&lt;/strong&gt;据报道，Anthropic去年净亏损达420亿美元，其IPO草案文件显示计算和基础设施支出承诺超过5000亿美元，融资需求极为庞大。&lt;/p&gt;
-&lt;p&gt;正在为OpenAI和Anthropic开发数据中心容量的SB Energy和Nscale近期已公开IPO申请文件，但上市时间仍不明朗。Anthropic此前预计最早本月披露IPO申请，但截至目前尚未付诸行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今年只有科技富豪在赚钱：AI热潮推动身家暴增8450亿美元，马斯克独占近四成</title><link>https://wallstreetcn.com/articles/3783029</link><guid>7f8f40a79be7cc774836d225dabcb3190d797f5e336ae664ce139f28b4f6b26d</guid><pubDate>Mon, 05 Oct 2026 19:22:40 GMT</pubDate><description>&lt;p&gt;人工智能热潮正在以前所未有的速度改写全球财富格局。&lt;/p&gt;
-&lt;p&gt;根据彭博亿万富翁指数，全球最富有的500人中，约100位科技行业亿万富翁今年前九个月合计财富增加8450亿美元，创下同期历史最高纪录。与此同时，非科技领域富豪同期财富合计缩水620亿美元。&lt;/p&gt;
-&lt;p&gt;这场财富盛宴高度向顶端集中。马斯克一人前九个月便新增财富3100亿美元，约占指数总增量的40%，并在旗下SpaceX与xAI合并上市后短暂成为全球首位身价突破万亿美元的富豪。&lt;/p&gt;
-&lt;p&gt;自9月10日起，全球最富有的十人均来自美国——这是彭博自2012年开始追踪相关数据以来首次出现这一局面。&lt;/p&gt;
-&lt;p&gt;进入第四季度，繁荣景象开始出现裂缝。全球500大富豪的合计财富在6月中旬触及13.4万亿美元峰值后已回落6%至12.6万亿美元，市场对部分头部AI概念股的疑虑持续上升。&lt;/p&gt;
+&lt;p&gt;正在为OpenAI和Anthropic开发数据中心容量的SB Energy和Nscale近期已公开IPO申请文件，但上市时间仍不明朗。Anthropic此前预计最早本月披露IPO申请，但截至目前尚未付诸行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta、微软设法减少员工对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一</title><link>https://wallstreetcn.com/articles/3783031</link><guid>2b3acfb9650013968af080cac72b81480fe31a54e789105f7610573489f33503</guid><pubDate>Mon, 05 Oct 2026 20:09:19 GMT</pubDate><description>&lt;p&gt;Meta和微软正努力减少员工对Claude的使用，Anthropic营收前景承压。&lt;/p&gt;
+&lt;p&gt;10月5日，据The Information报道，&lt;strong&gt;Meta和微软正大幅压缩对Anthropic旗下Claude AI的内部使用，转而推动员工采用各自自研工具。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一转变直接冲击Anthropic的核心营收结构，该公司在近期IPO招股书中披露，&lt;strong&gt;两大客户合计贡献约25%的收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软此前预计在Claude上的内部年支出至少达10亿美元，但这一预算已被削减逾三分之一。与此同时，Meta内部使用Claude Code的员工人数从今年早些时候的约6万人骤降至约3万人，降幅接近50%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述调整对Anthropic而言意义重大。尽管两家科技巨头均强调对外客户通过企业平台使用Claude的需求仍在增长，但内部用量的萎缩表明，大型科技公司正加速将AI能力收归内部。&lt;/p&gt;
 
-AI红利高度集中，美国科技富豪通吃
+微软：削减内部Claude预算，转向自研模型
 
-&lt;p&gt;科技富豪的财富积累规模已远超其他群体。科技行业亿万富翁合计净资产达4.6万亿美元，仅占指数成员约五分之一，却贡献了指数总财富的36%。美国富豪则占据今年指数净增财富的94%。&lt;/p&gt;
-&lt;p&gt;AI热潮的最直接受益者是大型科技公司的掌舵人。&lt;/p&gt;
-&lt;p&gt;戴尔创始人Michael Dell的财富今年增长81%至2540亿美元，受益于其数据中心销售业务的爆发式扩张。Meta股价9月单月上涨27%——近四年来最佳单月表现——推动马克·扎克伯格净资产增加230亿美元。&lt;/p&gt;
-&lt;p&gt;全球最富有的十人中有九人的财富来源于美国科技企业。这一格局在彭博追踪记录中尚属首次，折射出AI产业对美国科技巨头市值的深度重塑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软此举的核心逻辑是控制运营成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据报道援引知情人士透露，微软早在今年5月便开始降低对Claude Code的依赖，目标是压缩员工的token消耗并推广内部模型的使用。&lt;/p&gt;
+&lt;p&gt;微软此前曾预计内部使用Claude AI的支出将达到10亿美元，但在要求员工减少使用Claude以节省成本、并把更多时间用于微软自研AI工具后，这一预算已被削减超过三分之一。&lt;/p&gt;
+&lt;p&gt;值得注意的是，这一调整仅限于内部运营层面，通过微软企业平台向外部客户提供的Anthropic模型服务目前仍保持稳定增长。&lt;/p&gt;
 
-裂缝显现，部分AI押注遭遇反噬
+Meta：自研工具提速，替代效应显现
 
-&lt;p&gt;大型科技公司为支撑AI雄心而掀起的举债狂潮开始令部分投资者感到不安。&lt;/p&gt;
-&lt;p&gt;甲骨文公司的案例最为典型。拉里·埃里森曾于2025年9月单日财富暴增890亿美元，短暂登顶全球首富。然而一年后，其净资产已缩水1960亿美元。&lt;/p&gt;
-&lt;p&gt;彭博援引的数据显示，甲骨文信用违约掉期利差目前徘徊于历史高位附近，折射出市场对该公司为支撑AI基础设施建设而大规模举债的担忧情绪。&lt;/p&gt;
-&lt;p&gt;更广泛的市场降温同样令财富增速放缓。全球500大富豪合计财富自6月峰值以来下滑约8000亿美元，背景是市场整体降温叠加对头部AI概念股增长可持续性的质疑不断累积。&lt;/p&gt;
+&lt;p&gt;Meta内部Claude用量下滑，既有人员因素，也有战略意图。&lt;/p&gt;
+&lt;p&gt;今年春季，Meta对约78,000名员工中的约10%实施裁员，这在一定程度上压低了Claude的用量基数。但据报道，更根本的驱动力在于Meta自身AI生态系统的快速成熟。&lt;/p&gt;
+&lt;p&gt;Meta已相继推出两款内部编程助手工具：MetaCode专供内部使用，目前用户已超过3万人；Muse Code则于8月开始对外部客户测试，目前内部用户已逾6,000人。&lt;/p&gt;
+&lt;p&gt;Muse Code被视为Claude Code的直接竞品，基于Meta自研模型构建，属于其Muse Spark系列模型产品线的一部分。&lt;/p&gt;
+&lt;p&gt;尽管Claude Code用户数大幅缩水，Meta在最近28天内在Claude Code上的支出仍超过1.05亿美元。&lt;/p&gt;
 
-新贵涌现，AI财富效应向产业链蔓延
+Anthropic：客户集中风险引发关注
 
-&lt;p&gt;尽管财富顶端出现震荡，这场AI盛宴仍在为更广泛的创业者和供应链企业创造新的亿万富翁。&lt;/p&gt;
-&lt;p&gt;Anthropic七位联合创始人在该公司今年6月完成一轮估值达9650亿美元的融资后悉数跻身富豪榜。中国AI企业创始人同样受益其中，MiniMax联合创始人颜峻杰和DeepSeek创始人梁文锋均新晋入榜。&lt;/p&gt;
-&lt;p&gt;AI基础设施热潮也惠及供应链上游企业家。&lt;/p&gt;
-&lt;p&gt;服务器导轨及线缆管理系统制造商川湖科技创始人Lin Tsung-chi，在创业近四十年后今年以95亿美元身家首次登榜；广东迪泰技术董事长Wang Xin因AI带动电路板钻头需求激增而入榜。台积电创始人张忠谋与联发科董事长蔡明介亦在今年加入这一名单。&lt;/p&gt;
-&lt;p&gt;三星电子李氏家族的两位继承人Boo-jin与Seo-hyun受益于内存芯片需求升温，在股价上涨帮助家族偿还前主席李健熙2020年去世后留下逾80亿美元遗产税后，同样新晋入榜。&lt;/p&gt;
-&lt;p&gt;中美科技竞争格局也催生了一批新面孔：苏州通光集团邹志农家族以及苏州东山精密制造的袁富根亦出现在榜单之上。&lt;/p&gt;
-
-贫富分化加剧，财富税呼声升温
-
-&lt;p&gt;这场财富盛宴正在引发更深层的政策与社会讨论。加州选民将于11月就对该州亿万富翁征收财富税进行表决，华盛顿州、纽约州、伊利诺伊州和罗得岛州也在讨论针对高净值居民的新税项。&lt;/p&gt;
-&lt;p&gt;富豪群体年轻化和科技化的趋势，也在挑战外界对&amp;quot;财富大转移&amp;quot;的传统预设。&lt;/p&gt;
-&lt;p&gt;瑞银集团首席投资办公室经济学家James Mazeau表示，&amp;quot;我们经常谈论财富大转移——但对于最顶端的100或1000位富豪而言，其中许多人是年轻的科技创业者。我很想知道，这在多大程度上会推动财富进一步集中。&amp;quot;&lt;/p&gt;
-&lt;p&gt;随着AI投资周期进入深水区，举债规模与回报节奏之间的张力正在积聚。这场财富版图的重构究竟能走多远，或许取决于AI商业化能否兑现其当前的估值溢价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Anthropic在近期提交的IPO招股书中披露，有两名客户合计贡献了其约25%的收入，但未点名具体客户。市场普遍认为，Meta和微软极有可能正是这两大客户或其中之一。&lt;/p&gt;
+&lt;p&gt;两大核心客户同步缩减内部用量，叠加自研替代工具的快速崛起，使Anthropic在IPO关键窗口期面临客户集中度过高的结构性风险。&lt;/p&gt;
+&lt;p&gt;尽管企业端外部部署需求尚在增长，能否对冲内部用量萎缩带来的收入压力，仍是投资者重点关注的不确定因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
