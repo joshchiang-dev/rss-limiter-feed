@@ -1,259 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 19:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
-&lt;p&gt;在刚刚结束的OpenAI DevDay（开发者大会）上，OpenAI一口气发布了20多项新产品。大会落幕后的数小时，领导ChatGPT、Codex以及最新个人智能体平台“Dots”的核心高管Tibo Sottiaux接受了深度访谈。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;面对市场对AI商业化落地节奏的关注，Tibo详细拆解了OpenAI的下一步棋。他明确指出，尽管市场对新平台“Dots”表现出极高的热情，但人们仍未对AI技术演进的“二阶效应”进行充分定价（Pricing in）。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在未来的图景中，互联网的基础设施将从“为人服务”转向“为Agent服务”，而OpenAI依托庞大用户基数构建的“开放生态与收入分成”，才是真正被市场忽视的商业黑马。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他将新发布的Dots定位为AI的下一个核心入口，并透露ChatGPT Work与Chat将合并、Dots能力将内置至ChatGPT覆盖12亿用户。他还确认OpenAI内部已有&amp;quot;6.1 Astra&amp;quot;模型但选择不发布，并直言工作方式将&amp;quot;继续剧烈变化，直到不再笨拙&amp;quot;。&lt;/p&gt;
-市场错判的三大趋势与“10倍法则”
-&lt;p&gt;“人们到底没有在价格中计入（Pricing in）什么？”面对这一直击市场预期的提问，Tibo给出了非常明确的答案：&lt;strong&gt;市场严重低估了模型降本增效的速度，以及随之而来的交互方式重构。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他总结了市场尚未理解的三大趋势：&lt;strong&gt;第一，互联网上的绝大多数操作将由Agent完成；第二，模型将以令人难以置信的速度变得更便宜、更快；第三，所有模态将实现真正的无缝融合。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tibo直言，目前市场上很多基于AI的创业产品走错了方向。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我经常看人们在构建什么，感觉他们就是没有抓住重点。如果你逼自己一把，想象一下这一切在一年内变得比今天好大约10倍，你就会用完全不同的方式来构建产品。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这种“10倍演进”将带来巨大的二阶效应。Tibo以Notion为例指出，当应用向Agent开放接口后，大量的操作流量将由Agent产生，这会给现有的系统带来巨大的流量压力和经济模型挑战。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“如果你的产品想在Agent时代取得成功，你必须为某种程度的规模化做准备。不可避免的是，大多数东西都将被Agent使用。”&lt;/p&gt;
-&lt;/blockquote&gt;
-真正的“沉睡黑马”：超十亿用户的开放生态与收入分成
-&lt;p&gt;在此次DevDay上，个人智能体平台“Dots”无疑是最性感的概念。但Tibo在访谈中透露，他认为真正将产生深远影响、却被市场忽视的“沉睡黑马（Sleeper hit）”，是OpenAI的开放生态系统及其商业化分成逻辑。&lt;/p&gt;
-&lt;p&gt;“我认为真正的沉睡黑马是生态系统。我们对全面开放有着深深的承诺。”Tibo强调。&lt;/p&gt;
-&lt;p&gt;目前，已有16家合作伙伴接入了“Sign in with ChatGPT”。对于市场最关心的开发者商业化路径，Tibo给出了极具想象空间的指引：OpenAI正在引入“共享经济学（Shared economics）”。&lt;/p&gt;
-&lt;p&gt;“允许每个人通过拥有约12亿用户的平台发布产品，并从中受益。我们将向那些受欢迎且使用量大的插件付费，他们也将获得部分收入分成（Revenue share）。”Tibo表示。&lt;/p&gt;
-&lt;p&gt;在流量分发逻辑上，OpenAI不再看重SEO或花哨的包装，而是直接盯住核心商业数据：&lt;strong&gt;“我们会看留存率（Retention numbers）和插件的成功度与质量。如果你的插件不好，推荐就会停止。”&lt;/strong&gt;&lt;/p&gt;
-告别“提示词工程”：UI的消亡与Dots平台的野心
-&lt;p&gt;对于现有的工作流和产品形态，Tibo表现出了极大的“不耐烦”。他认为，过去人们热衷于设置复杂的循环（Loops）和图谱（Graphs）来让AI工作，但这并不是未来的方向。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我不认为这是随着时间推移它（AI）该有的工作方式。你只需要一个能学习的系统，你不需要去想‘我必须用这种精确的方式循环它才能得到结果’。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这也是OpenAI推出“Dots”的核心逻辑——一种24小时在线、不需要配置模型、能跨越所有设备的永久活跃智能。Tibo甚至预言了现有App形态的消亡：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我自己都对模型选择器（Model picker）、推理努力等配置感到疲劳，你简直需要一个‘模型选择博士学位’。我希望能尽快摆脱所有这些。模型的能力已经快到了让App几乎完全消失的地步。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;关于Dots与ChatGPT、Codex的关系，Tibo透露了整合路线图：&lt;strong&gt;ChatGPT的Chat和Work两种模式将合并，减少复杂度；Dots的全部能力最终将直接内置进ChatGPT，覆盖&amp;quot;12亿用户&amp;quot;&lt;/strong&gt;。&amp;quot;我们想让它真正无缝，&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;值得一提的是，Dots当天公测时每人只有一个&amp;quot;dot&amp;quot;，但Tibo确认，多个dot（虚拟团队）的功能将很快上线，用户届时可以创建专属角色的dot，比如他自己已有一个专门负责监控Twitter的dot。&lt;/p&gt;
-安全护城河与算力分配：为何扣下“Astra 6.1”不发？
-&lt;p&gt;随着模型能力的飙升，市场对AI失控风险的担忧也在加剧。在这方面，Tibo透露了OpenAI内部的算力分配逻辑和安全立场。&lt;/p&gt;
-&lt;p&gt;他表示，OpenAI在安全栈上投入了极高比例的算力，甚至引入了“双轨算力”模式：“你有一部分算力投入到主系统中执行任务，然后你有大量的算力投入到监控中，以确保主Agent没有采取高风险行动。”&lt;/p&gt;
-&lt;p&gt;这种对安全的极度保守，甚至压倒了发布新技术的冲动。Tibo透露了一个关键事实：“新闻里提过我们有6.1版本的Astra，但我们没有发布它。这是我非常自豪的事情。”他解释道，为超过12亿用户构建产品，OpenAI在安全上“不能赌博”。&lt;/p&gt;
-招聘趋势：打字速度不重要了，品味和判断力才是
-&lt;p&gt;被问及招聘标准的变化，Tibo给出了直接的回答：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;正在消退的技能：打字快，这不再那么有用了。正在上升的技能：极好的品味，真正理解用户，与你正在为之构建的受众建立连接。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他还透露，OpenAI目前有超过120位YC系创始人在职，&amp;quot;这是一家超级创业公司。知道什么是好的，并且有激情去构建真正重要的东西，比以往任何时候都更重要。&amp;quot;&lt;/p&gt;
-&lt;p&gt;对于新入职场的年轻人，他特别提到了团队里一位名叫Ahmed Ibrahim的新人——从应届生加入OpenAI，现在已负责OpenAI的全部计算资源及应用部署，&amp;quot;他是一块海绵，以我从未见过的速度学习所有事情。&amp;quot;&lt;/p&gt;
-&lt;p&gt;被问及工作方式是否会继续剧烈变化，Tibo没有给出模糊的答案：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;会继续相当剧烈地变化。即使在今天，它仍然感觉有点笨拙。我认为它会一直感觉笨拙，直到有一天它不再笨拙。然后你就会说：哇，我可以跟这个东西说话，就像我们现在说话一样，它完美地记住所有事情。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他将ChatGPT Spaces（共享协作白板）描述为这一转变的&amp;quot;非常初期的开始&amp;quot;，并畅想未来：&amp;quot;你可以想象我们有一块共享白板，人与人之间、人与Agent之间都可以协作。&amp;quot;&lt;/p&gt;
-&lt;p&gt;对于AI带来的&amp;quot;多做一件事&amp;quot;压力和工程师的孤独感，他坦言这是整个行业需要面对的问题，&amp;quot;AI的承诺不是每秒多一个prompt，而是减少噪音，让你把注意力放在你真正想放的地方。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;访谈全文实录如下（由AI辅助翻译）：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我经常看到人们正在构建的东西，感觉就像你们还没完全理解。你知道，如果你能逼自己一把，真正去想象&lt;strong&gt;这一切比今天好大约10倍&lt;/strong&gt;，你知道，就像一年后，你会以一种完全不同的方式去构建。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你认为人们在判断未来走向时，&lt;strong&gt;忽略了哪些东西&lt;/strong&gt;？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;互联网上的大多数行为将由智能体来执行&lt;/strong&gt;，如果你想让你的产品对智能体来说是成功的，你就必须为一定规模的量级去构建。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在你日常工作中，你发现自己&lt;strong&gt;同时运行多少个智能体&lt;/strong&gt;？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当我不断探索前沿时，我发现自己在构建越来越大的智能体团队。然后当我们在模型上取得下一次突破时，突然就会有一种感觉，哦，好吧，你知道，&lt;strong&gt;一个更大的智能体就可以搞定所有事情&lt;/strong&gt;。于是我又把团队缩小，然后就这样不断经历扩张和收缩、扩张和收缩。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这让我想到，有整个循环（loops）这件事，还有整个图（graphs）这件事。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不得不去设置和摆弄你的循环，这也许是人们曾经兴奋过的事情，但我认为&lt;strong&gt;随着时间推移，事情不会是这样运作的&lt;/strong&gt;。你只是想要一个能自我学习的系统。你不一定想去思考，我要以这种方式精确地循环，以便得到结果。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你认为我们的工作方式还会发生&lt;strong&gt;更激进的变化&lt;/strong&gt;吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;它将继续发生相当激烈的变化。&lt;strong&gt;即使是今天，感觉还是有点笨拙&lt;/strong&gt;，我认为它会一直感觉笨拙，直到它不再笨拙为止。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tibo，感谢你来参加这次访谈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，感谢邀请。当然。这个房间不错。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你今天发布了大量的东西。你的睡眠怎么样？你睡得好吗？你还好吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我很好。很幸运有一支非常优秀的团队。所以当我睡觉的时候，他们整夜几乎都醒着。我们办公室有一个很棒的房间叫做&amp;quot;图书馆&amp;quot;，我们把它完全改造成了一个&lt;strong&gt;超级作战室&lt;/strong&gt;。那里的氛围简直无可挑剔。大家一直待到很晚。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你做了很长时间的工程师。你现在还在写代码吗？你还在提交PR吗？还是你现在主要在处理文档和开会？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;写代码&amp;quot;究竟是什么？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你还在提交PR吗？我不知道，是这样吗……&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;偶尔合并一些代码。从技术上讲，有&lt;strong&gt;大量的代码是被写出来供我做各种分析的&lt;/strong&gt;，比如了解业务、了解下一个功能、了解我们之前的发布情况如何。很多代码是由Codex为此编写的，你知道，我显然不再手写了。偶尔在周末，我会有一个小小的&amp;quot;治愈时刻&amp;quot;，纯手工做一道LeetCode题。但那是我唯一真正亲手写代码的时候。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在你日常工作中，你发现自己同时运行多少个智能体？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我以前同时运行的要多得多。后来我们很幸运地在ultrafast上取得了突破。所以现在，你知道，我感觉我能够重新进入心流状态了。所以&lt;strong&gt;拥有一个更快的智能体对我帮助很大&lt;/strong&gt;。我很兴奋我们即将推出六个月版本的ultrafast，很快。然后，是的，我认为这会有所变化——当我不断探索前沿时，我发现自己在构建越来越大的智能体团队。然后当我们在模型上取得下一次突破时，突然就会有一种感觉，好吧，你知道，&lt;strong&gt;一个更大的智能体就可以搞定所有事情，把所有内容保存在记忆中并持续学习&lt;/strong&gt;。于是我又把团队缩小，然后就这样不断经历扩张和收缩、扩张和收缩。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你能详细说说吗？这让我想到，有这整套循环（loops）的东西，然后又有这整套图（graphs）的东西。这在某种程度上是那些东西的演变吗，还是……&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我觉得，需要去设置和摆弄你的循环，然后搞清楚这些，你知道，也许人们对此感到兴奋，但我不认为这就是它最终运作的方式。我认为它真正运作的方式是——我们现在定位的方向，以及我们通过 Dots 发布的东西——你拥有一个&lt;strong&gt;极其智能的 Agent&lt;/strong&gt;，它&lt;strong&gt;全天候运作&lt;/strong&gt;，理解你的目标，理解你的偏好，从反馈中学习。我们发布的东西并不完美，我会从向我们的专业用户开放这个产品中学到很多。 但随着时间的推移，你只是想要一个能从你想要实现的目标中学习的系统。你不一定想去思考——就像我刚才说的，我要精确地以这种方式循环，才能得到结果。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所以现在有 Codex，有 ChatGPT 工作版，有 ChatGPT 消费者版，还有 Dots。我听到的意思是，你认为我们正在走向以 Dots 作为与 AI 对话的主要方式，然后由它来启动所有其他的东西。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，我认为从根本上来说，如果你退一步看，不管是不是 Dots，&lt;strong&gt;关键都在于从技术中解放出来&lt;/strong&gt;，拥有这种永久活跃的智能，它知道自己需要做的一切，并且可以通过任何客户端、任何屏幕来调用。你可以呼叫它，比如也许你走进一个会议室，它就出现在会议里，帮你记笔记；然后你在邮件里继续跟它对接；如果需要的话，你可以发短信给它。不是说你需要一直盯着笔记本电脑，或者总是拿着手机，而是它在你需要的时候出现，在你不需要的时候又退到一边。我迫不及待地想看到这一切真正实现，因为我觉得像带着笔记本电脑这块砖头到处走，你其实是被技术绑住了，而不是技术在为你服务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我正想问你这个。感觉在过去大约两年里，我们的工作方式已经发生了太多变化，尤其是工程师，但很多岗位的日常工作都发生了显著改变。我很好奇，你觉得我们是否正在逐渐稳定下来，形成未来——不知道，五年吧，或者两年——的工作模式？两年感觉太遥远了，很难想象。还是说你认为工作方式还会继续发生更激进的变化？我觉得它还会继续变。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;会&lt;strong&gt;相当激进地&lt;/strong&gt;继续变化。即便是今天，技术似乎终于在语音、多模态输入输出方面汇聚到一起了，但感觉还是有点笨拙。我觉得它会一直感觉笨拙，直到某一天突然就不笨拙了，然后你就会说，哇，我可以用跟我们现在对话一模一样的方式跟它说话，它能完美地记住所有事情。如果我想头脑风暴、想创意，它就能随手画出一个东西。我有一个协作界面——这就是我们用 ChatGPT Spaces 发布的东西——只是那个方向的开始，你可以想象我们有一块共享白板，人与人之间、人与 Agent 之间都可以协作。我认为它将超越对话，超越你今天拥有的很多客户端。而这一切现在都还没有真正实现，所以我认为我们将经历这场巨大的新变革。 我听到的是，Dots 是那个未来的重要组成部分，这个 AI 助手会为你处理一切，你不必去想 Codex 还是 ChatGPT。是的，对于 Codex 和 ChatGPT，我们会合并——我们有 Chat，有工作切换开关，我们清楚地听到了反馈，人们喜欢工作模式里的能力，但同时，有时候你又想用 Chat，因为它快一点，用起来也更顺手。所以我们在合并这些，减少这种复杂性。 最终，我们也会把 Docs 的所有功能直接整合进 ChatGPT，为我们的 12 亿用户提升基础体验——到那时我们会看看用户有多少。我们希望它真的无缝衔接。关于 Dots，有一件事让我非常兴奋，就是&lt;strong&gt;它没有模型选择器，没有任何配置，你直接跟它说话&lt;/strong&gt;。你唯一需要配置的就是你想通过哪些渠道跟它对话。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这感觉非常像电影《Her》里那种世界观。不知道，你会经常想到那部电影吗？就是那种概念……&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我看过一次。 是的，我觉得这很有意思，去思考……也许我更多想到的是三四十年前的科幻小说，以及它有多么有远见。有没有哪部特定的科幻作品对你影响最大？像《神经漫游者》这样的书，还有最初的《星际迷航》，我经常想到那个。《星际迷航》有一种特质，我觉得——那是一种&lt;strong&gt;非常实用的技术&lt;/strong&gt;，很明显，你可以直接跟电脑说话，它就为你做事。你可以跟你的飞船说话，它就移动，这正在变成现实，我们正在进入那个时代。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们是在现场观众面前录制这期节目的。外面排起了长队，大家都在等着见你、听你说话。 你怎么看待这一切——你所处的这个位置，你肩负的这份责任？去构建你正在构建的东西，以及它对人们生活产生的影响。这是什么感觉？你怎么思考这件事？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我认为，&lt;strong&gt;成为社区的一部分、与人们共同构建，这非常重要&lt;/strong&gt;。 在某种程度上，我们是在一起探索这项技术，以及我们能共同做到什么。所以每次我跟人们交流，我就会被提醒——你在做这件事，而这是我根本没有预料到的；它以某种方式影响了你的生活，也影响了另一个人的生活。总体而言，这既让人非常谦卑，也非常鼓舞人心，我认为这对于构建真正对人类有用的东西来说是非常必要的。我不知道如果没有社区，我们怎么做到这一切。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这是我在很多做 AI 产品的人身上都听到的——他们在发布之前根本不知道它会是什么，直到发布之后看到人们怎么使用它，看到什么东西涌现出来。你说的感觉就是，要与人们共同构建，而不是说&amp;quot;这是我们的愿景，我们已经想清楚了&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;就连 Twitter 社区总体上也一直很友好。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，你在 Twitter 上很厉害。有时候有点挑衅性，但确实很厉害。 你怎么找到时间发推？我不明白像你这样角色的人怎么有时间坐在 Twitter 上，发推、回复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我每天大概花半小时，刷一刷，然后在有灵感、有有趣的东西想说的时候做点什么，通常就是在当下自然涌现出来的。完美的 Twitter 技能。还有，我们还没有发布团队 Dots，但今天我们发布了主要的 Dot，你可以配置它，可以习惯一个 Dot 连接你的应用能做什么，但我们会发布创建多个 Dot 的功能。所以我有一个专门负责 Twitter 的 Dot。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;好的，请继续说。所以现在每个人都有一个点。对，现在他们不能添加更多的点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他们将能够拥有很多个点，聊聊这方面的发展方向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，所以我们想从一个开始，也就是主要的点，这个点，你知道，你可能也会发短信给它，它能最深入地了解你的偏好，然后看看人们如何使用它，看看我们需要如何调整系统，通过与社区合作来学习，然后很快，你就能添加第二个、第三个、第四个点了。你需要多少就有多少，就像创建你的虚拟团队一样。然后你可以给它们分配特定的角色，对吧？就像，我觉得这并非绝对必要，但有时候我有一些需要相当多工作量的事情，比如帮我监控Twitter。然后，你知道，这就像是，好吧，这将是非常繁重的工作，足以占用整个一个点的工作量。这样的情况下，你就可以有几个点来分担。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果你想想今天发布的所有内容，感觉点（dots）可能是最性感的。我很好奇，有没有什么你认为没有得到应有关注、但将来会变得非常重要的东西，也就是那种人们现在忽视的、具有远见的重要内容。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我认为&lt;strong&gt;潜力最大的是生态系统&lt;/strong&gt;。就是把一切都开放出来，以及我们对开放一切的深度承诺。我们已经与ChatGPT签署了16个合作伙伴，对此非常自豪。就像我们开始这件事时，真的是在某个时刻突然想到的。去年我在和Pi和open code的创始人交谈，当时就觉得，当然，你知道，你应该能够直接使用Codex账号登录，然后使用相应的用量。然后通常我们就像握了握手，虽然是虚拟的，就像是，用这个认证就好，然后相信你不会做什么不好的事情。你知道，那个发展壮大了，显然变得相当受欢迎，然后我们把它做成了一个真正支持许多合作伙伴的正式产品，我很期待它能非常快速地发展。另一方面，就是开放所有基础设施以及我们如何为ChatGPT构建的方式，包括插件扩展和插件发现。让每个人都能通过大约12亿用户来发布产品，并从这种分发中受益。我们还有收益分成，虽然在主题演讲中没有提到，但我们会向那些受欢迎的、使用量很高的插件支付费用。&lt;strong&gt;它们将获得一部分收益分成。&lt;/strong&gt; 所以我认为这种对开放生态系统的承诺将会非常令人兴奋。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太棒了。好的，举个例子，比如说Notion，有人在ChatGPT中使用Notion插件或Figma插件，Notion和Figma能从人们在应用内的使用中赚钱吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，所以我们有所有这些订阅用户使用ChatGPT，他们会获得一定的使用量。当用户通过插件或在其他产品中使用这些使用量，当他们使用&amp;quot;用ChatGPT登录&amp;quot;时，我们将与他们建立一种收益分成机制，他们会获得相应的报酬。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我不知道，让人们对插件和生态系统感到兴奋的一件事是，分发平台，一种让自己被发现的方式，人们发现了我的应用，它就火了。你对那些想让自己的插件脱颖而出、被发现的人有什么建议吗？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;做一个好的插件。&lt;/strong&gt; 是的，它的运作方式是这样的，我们显然会调整系统，但我们会看留存数据，看插件的成功程度和质量，然后我们就会开始在对话中向用户推荐。所以你的插件可能就会被推荐给相当大比例的用户。显然，如果你的插件不够好，它就会停止被推荐。好的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太棒了，你们在关注使用该插件的用户留存率。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的。它是否真正在增加实用价值？它是否让ChatGPT能够做其他事情？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;明白了。所以这不太像AEO那种，找到合适的关键词让人们写关于你的文章，而是&lt;strong&gt;人们持续使用它，坚持使用它。&lt;/strong&gt; 对，我认为是这样。好的，所以你认为这是那个将成为大事的潜力股。我知道这有点像是第二次尝试，你们曾经有过一个应用市场，这次是正确的方向。好的，这次会成功的。也许回到点（dots）上，因为感觉那是未来愿景的重要部分。你们什么时候开始做这个的？显然，有一个开放爪子（open claw）的重要时刻，Peter加入了，有了基金会，然后是Grokbot、Muse和instinct这些东西。我猜，你们做了多久了？为什么你们花了这么长时间才推出产品？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你还记得Codex插件吗？是的，第一个，那大概是一年前的事了，对吧？如果你回顾Codex Cloud以及我们使用的那个小动画，我认为那就是Grok Bot的灵感来源。是的，这非常相似，我会说是惊人地相似。但认真地说，关于研究长期持续性的长周期任务，这是我们已经研究了超过两年的东西。&lt;strong&gt;保持连贯性的记忆系统，大概也花了同样长的时间。&lt;/strong&gt; 我们把很多这些直接发布到了ChatGPT中。我认为人们真的很享受ChatGPT对他们了解那么多相关信息的感觉。我交谈过的很多人都有这样一个小故事，比如，嘿，我生病了，ChatGPT居然记得，你知道，我曾经烧烤，我在做龙舌兰鸡尾酒，用了青柠，然后它就说，你手上的这个烧伤其实可能是青柠引起的，是一种日光性皮炎，你就会想，它是怎么知道的？这就是记忆在ChatGPT中运作得非常好的体现。所以我们在这方面投入了大量研究。所有这些加在一起，在Codex框架的基础上，以及能够以良好的效率7×24小时运行的能力，这就是我们用点（dots）发布的内容。所以这是许多个月工作的成果。然后一个重要的事情也是把安全和保障做好。这也是我们与Astra一起发布的原因，它是我们&lt;strong&gt;最安全、最符合价值观的模型。&lt;/strong&gt; 大量额外的努力都投入到让点（dots）真正安全可靠上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我想问来参加播客的嘉宾一个问题：你认为随着时间推移，人类大脑在哪些方面会持续体现其价值？在实际工作中，你发现自己在哪些地方是不可或缺的，而AI又在哪些地方承担得越来越多？你认为随着时间推移，人类大脑在哪些方面会持续发挥作用，最能发挥作用？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的。我认为这在很大程度上取决于我们如何构建这项技术。我们在OpenAI设计一切的方式，就是&lt;strong&gt;将人类置于核心位置&lt;/strong&gt;，将其构建为人类的延伸——延伸你的意愿和你的品味。所以它真的就像是这种超级赋能的东西。我认为只要我们继续这样做，它就能让你把你想做的事情、你的创造力、你的品味，以某种感觉很棒的方式加以扩展。此刻它就像是一个真正的艺术工具，对吧？我们也许不再有程序员了，但我们拥有比以往更多的建造者。我认为有些东西将会保持深刻的人类本质，比如，人类想要学习，想要看到其他人类在构建什么。你知道，我对此更感兴趣——我在这里，我不是在跟dot说话，我是在跟你说话，对吧？我认为这一点在很长一段时间内都将是真实的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在工程师群体中，尤其是这样，有一件事已经逐渐显现出来。就是他们的生活发生了怎样的变化——有更多的上下文切换。还出现了一种孤独感的趋势，他们整天在跟智能体交谈，而不是跟其他人类交谈。我很好奇你有多少时候会思考这部分——AI对人们生活的影响，以及你可能会怎么做，有没有解决方案？你有没有想过什么办法来减少这种困扰？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，一直都在想。减少配置疲劳，这是其一。减少与智能体交谈就像是一场孤独冒险的感觉——你只是有这么一段对话，就跟你的某一个智能体等待着，然后你有很多个智能体，你把很多事情都委托出去了。很多事情将会汇聚在一起，让这一切变得更加愉快，这也是我和团队花了大量时间思考的事情。所以我认为，对我来说，&lt;strong&gt;理想的完成事情的方式&lt;/strong&gt;，就是把它置于你的物理空间中。就像我们现在这样进行对话。它能够观察，比如这里有我们的想法，我们可以在白纸上记下一些东西，然后它也许可以拿过去，在后台开始构建。然后你说，其实我有另一个想法，它就开始构建另一个东西，投影在屏幕上。然后你跟它说话，它就融入到与其他人类的对话中。你不会有那种疲惫感——不需要盯着屏幕，不需要思考怎么提示它，它就变得像是&lt;strong&gt;超自然&lt;/strong&gt;一样。这就是我们的发展方向。我认为今天我们还没有完全实现，但未来我们会实现的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;沿着这条线出现的另一种弊端，就是这种被迫要做更多的压力。或者说因为我们能做更多，每个人都在说，来吧，同时运行30个智能体。你为什么不发布更多？每个人都在发布更多。你认为这是可以解决的吗？你认为这只是某种，我不知道，人类本性？我们能做更多，那就做更多吧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我认为我们也听到了Sam关于这方面的承诺，那就是&lt;strong&gt;减少噪音&lt;/strong&gt;，让你把注意力花在你想花的地方。那些也许重要、也许不重要的事情，它们都在争夺你的注意力，只要稍微把那些声音调低一点，让你专注于真正重要的事情。我觉得很了不起，每次我去度假，花上一周时间完全断开连接，我就开始以不同的、更有创意的方式思考，我非常期待看到，我们能不能把那种状态带入日常？也许你需要更少的会议，也许你不需要做那么多，如果你得到更好的休息，你实际上会更有生产力。所以我认为作为一个行业，我们需要弄清楚这一点。但我认为&lt;strong&gt;这才是AI的承诺所在&lt;/strong&gt;，而不是每秒多一条提示。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我现在正在构建一个机器人，是一种能量审计机器人，它会监看我的日历，然后问我，这件事是给你带来能量，还是消耗你的能量？这件事是不是别人也可以做？我感觉AI应该这样说：嘿，Lenny，也许你可以去掉这些事情，这样你会是一个更快乐的人。你最近有没有用AI做过什么特别有趣的事情，就像一个非常酷的使用案例，让你觉得，哇，那真的太惊人了，让我大开眼界？或者你听说过什么？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;哦，因为有一件很酷的事情——现场演示失败了，对吧，就在所有人面前。所以那就像，好吧，那不酷。但实际上我的dot，它意识到了……在Dev Day，我们有ChatGPT生产环境宕机了。所以它在现场演示前5分钟给我发了消息，那实际上相当紧张，因为它说：嘿，生产环境宕机了。我就想，哦，好吧，然后它说：你想让我试着修复它吗？我说，我觉得你还没到那一步，小dot。但谢谢你的尝试。然后我联系了工程团队，我们开始查看发生了什么，他们修复了，但&lt;strong&gt;拥有这样一个东西&lt;/strong&gt;，它能理解——好的，有一件相当重要的事情正在发生，叫做Dev Day，有这个生产系统，有现场演示，它可能在使用这个生产系统，所以这两件事是相关联的，而且这件事五分钟后就要发生，所以我应该通知他，因为他可能想知道。我认为这相当了不起。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;哇，所以它只是知道这件事即将发生就告诉了你。我喜欢它想要修复它的那一点。然后你说，还不太行，你还没到那一步。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我不认为它是那种，你知道，请来让我给你留下深刻印象的那种。但那样的话会是个更好的故事。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你对于给这些东西开放访问权限有什么感觉？我不知道，比如，它有没有访问生产代码库的权限，你知道……&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;它在有防护措施的情况下可以访问一些生产系统。我们构建了，我们谈到了专属的docs，但专属docs只是在额外的防护措施、额外的监控下运行，并且在它们自己的硬件上运行。 我们实际上在Mac Mini上运行了一些。我们构建docs的方式有一个根本区别，就是&lt;strong&gt;这个运行框架不在机器本身上运行&lt;/strong&gt;，你知道，这一点可能很多人还没有意识到。 &lt;strong&gt;它可以连接到任意数量的设备。&lt;/strong&gt; 它有自己的电脑，你实际上也可以把它连接到你自己的笔记本电脑上。随着时间推移，你可能会把它连接到10个不同的设备，它可以控制所有这些，有点像一只章鱼。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所以你基本上是在和你的dot对话，它住在某个地方的虚拟机里，然后它可以……&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对，可能是虚拟机，也可能不是虚拟机。它就是一个东西，你知道，它可以连接到很多设备。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你们真的在大量招聘。我知道你们在大量招聘。在你的面试过程中，你发现哪些技能是越来越受重视的，是你现在越来越看重的？哪些技能对于人们取得成功越来越重要？而哪些技能你发现是在走下坡路的，就是那种&amp;quot;好吧，我们不再那么需要它了&amp;quot;的感觉？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我会说，&lt;strong&gt;打字速度快&lt;/strong&gt;这个技能现在已经没那么有用了，这是在走下坡路的技能。而在上升的技能是，你知道，&lt;strong&gt;出色的品味，思考用户，与你所服务的受众建立连接&lt;/strong&gt;。很多前创始人现在都非常成功，或者说，就是那种连续创业者。我们在OpenAI招聘时也发现了这一点，我们有很多创始人，我想我们目前在OpenAI有超过120位YC的前创始人。所以这就像一家超级创业公司。我认为，&lt;strong&gt;这种热情，这种想要打造有意义之物的渴望，以及知道什么是好的，比以往任何时候都更加重要。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我一直以来都在论证，PM在这个时代会非常蓬勃发展，因为这基本上就是PM的工作。你知道，他们就是在问：我们应该构建什么？帮助别人构建它，然后这对不对？这好不好？然后不断迭代。所以我不知道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我同意。好的，而且各种角色之间的界限也在模糊。所以，你知道，你可能之前只专注于设计，或者只是一名工程师，总是感觉有点不自在。但你知道，现在就是&lt;strong&gt;你大放异彩的时刻&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你会怀念工作中的工程部分吗？我以前是工程师，做了10年工程师，你可能不知道。你知道，那种心流状态，那种纯粹构建、看着自己的作品成形的美妙感觉。你会有点怀念那些，还是就觉得，好吧，那是我过去的生活？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我，我确实怀念了一段时间。但现在，随着真正超快的速度，我重新找到了那种感觉。所以我非常兴奋地想要尽可能地将其民主化。当然，要让它真正无处不在，让超过十亿用户都能使用，还需要一段时间。但现在，你知道，凭借我们能够实现的超快速度，大约六个月，或者成本大致与Astra相当。所以&lt;strong&gt;这方面的进步真的令人震惊&lt;/strong&gt;，甚至对我们内部来说也是如此，我们都在想，哇，我们能做到这些，也是因为我们在使用Astra，我们发现，你知道，我们可以把它推得非常远。当你拥有那种速度，尤其是当你能够用语音控制它的时候，你就会重新进入那种&lt;strong&gt;真正富有创造力的心理状态&lt;/strong&gt;，还有那种心流，它和过去的心流不同，但我并不怀念了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，就像你最近两个发布视频里，人们就站在那里和他们的AI说话，一边做饭，或者……&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;没错。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;坐在躺椅上。我在活动现场闲逛时问了人们想问你什么。有一件事被提到了好几次，就是对新毕业生，以及职业生涯早期的人的建议。我想很多人都很仰慕你，他们想成为下一个Tibo。对于职业生涯早期的人，在做什么、培养什么技能、做什么事情方面，你有什么建议？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我认为下一个Tibo已经在OpenAI了，他叫Ahmed Ibrahim。我非常喜欢和他共事。他被OpenAI录用时还是个应届毕业生，现在他负责OpenAI所有的计算、算力集群和应用工作，这是一个巨大的责任，同时也构建了大量的Codex运行框架。&lt;strong&gt;让Ahmed真正脱颖而出并取得成功的，是他极其善良，极其具有协作精神，并且总是努力解决真正重要的问题，但方式是不把自己放在首位的。&lt;/strong&gt; 他就像一块海绵，学习速度非常快，学习所有的东西，并且使用所有最新的技术，以我从未见过的速度在学习。所以他在短短几个月到一年的时间里，在公司的成长历程真的令人叹为观止。他现在是我非常信任的人，负责OpenAI最棘手的发布工作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;好吧，我得把他请到播客上来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你应该的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;那么，思考一下OpenAI内部的运作方式，有什么会让人们感到惊讶的地方吗？从外部来看，感觉就像是在不断地发布代码，事情有点像，你知道的，混乱但又很棒。我不知道什么会让人们对OpenAI内部的工作方式感到惊讶。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从外部来看，感觉就像是在不断地发布代码，事情有点像，你知道的，混乱但又很棒。我不知道什么会让人们对OpenAI内部的工作方式感到惊讶。我不知道这是否令人惊讶，但确实如此。你知道，正如我所说，很多前创始人在做很多自下而上的、非常令人兴奋的想法，比如。&lt;strong&gt;Decisions API&lt;/strong&gt;，你知道，进展得非常快。我们意识到，我们有一个非常好的模型Luna，我们可以做一些约束采样，然后，你知道，把它以不同的形式发布到Responses API。然后，你知道，当我们这样做的时候，它，你知道，就像，它更快，非常令人愉快。&lt;/p&gt;
-&lt;p&gt;所以在某些情况下，如果你深入了解内部运作，你会意识到，好吧，有这样一个Slack频道形成了。你知道，最初只有四个人在周末一起摸索，然后它变得像公司食物一样普及。然后人们开始兴奋起来，开始构建东西，他们说，哦，这个，你知道，&lt;strong&gt;我们可以支持视觉输入&lt;/strong&gt;，这比现有的任何东西都要好。然后，你知道，人们越来越兴奋，人们开始以一种完全无序的方式参与进来，然后，你知道，一路推进，发布了一些东西。然后我们试图保持很高的质量标准，然后，你知道，在某些东西发布之前叫停，或者，你知道，也许它们需要再打磨一下。有很多东西，你知道，我们今天可能会在Dev Day发布，但我们说，好吧，因为我觉得这已经很多了，让我们稍微克制一下，把它们分散开来，这样下周和后周我们还有更多的发布。&lt;/p&gt;
-&lt;p&gt;但这就是这种令人难以置信的&lt;strong&gt;自下而上的能量&lt;/strong&gt;，然后，你知道，人们承担起各自的角色，以富有成效的方式引导这种能量。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;有一点关于OpenAI非常清晰且独特，那就是你们似乎拥有很多自主权。你就像随时可以按下重置按钮，随时在Twitter上发表言论。感觉这是一种非常独特的文化，你拥有很多自主权，我想这背后需要大量的信任。也许，是的，谈谈这一点，因为感觉这是OpenAI的一个优势，让你们能够更快地行动，就是这种文化理念。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你获得了很多自主权，然后，你知道，你必须为此负责。所以，你知道，我们只是信任人们做出正确的选择。然后，你知道，当事情出错时，你知道，迅速修复，或者，你知道，从错误中学习。到目前为止，一切都很好。你知道，这确实是一个非常赋权的环境。确实，我可以在任何必要的时候，任何感觉合适的时候按下重置按钮。你知道，这是一种特权，也让我能够，你知道，以我认为否则不可能的方式真正贴近社区，对吧？我不必经过层层审批。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你说有时候人们会搞砸。有没有什么你在自主权和信任方面搞砸的事情？你搞砸了什么。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的。我认为有时候我本可以，你知道，让团队更有动力去构建那些不那么复杂的东西，而不是一直追求复杂性。我认为，你知道，在Codex早期，我造成了几次故障，这是我在OpenAI的早期经历，&lt;strong&gt;我在第三天就把生产环境搞崩了&lt;/strong&gt;。你知道，我只是，之后我还没有被解雇，并且我吸取了教训。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;另一个人们想让我问你的问题是，他们应该期待在接下来的，我不知道，一个月或一周内有多少次重置？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;取决于我们搞坏多少次。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;好的，所以这就是理念。你搞坏了什么东西，然后重置。这就是，&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，搞坏东西，庆祝事情。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;那么稍微放大一点来看，你认为人们在事情发展方向和将要发生的变化方面，有哪些还没有充分认识到的？他们没有像应该看到的那样清晰地看到。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;有很多事情我觉得还没有被充分认识到。我认为&lt;strong&gt;互联网上的大多数行为将由智能体来执行&lt;/strong&gt;。&lt;strong&gt;模型将变得更便宜、更快，速度令人难以置信&lt;/strong&gt;。我们最终将能够以非常无缝的方式&lt;strong&gt;将所有模态整合在一起&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;我认为，你知道，这三点，我感觉，你知道，当我看到人们在外面构建的东西时，就像不太，你知道，就像你还没有完全理解它。所以，你知道，你几乎快到了，但是，你知道，如果你只是推动自己，真正想象所有这些在今天的基础上大约好10倍，你知道，就像一年后，你知道，你会以不同的方式构建。你是否看到了由此产生的某种二阶效应，在这个大多数行为都由智能体执行的世界里，可能大多数流量都将来自智能体。是的，你想到了由此产生的某些二阶效应。&lt;/p&gt;
-&lt;p&gt;是的，有很多，你知道，首先，你知道，&lt;strong&gt;如果你想让你的产品对智能体成功，你必须为一定规模的扩展而构建&lt;/strong&gt;。我们与Notion密切合作，例如，当他们构建他们的MCP时，你知道，突然间，哦，好吧，你知道，它对所有这些实际上可以完成工作的智能体都可用了。我使用那个MCP，所以他们看到了大量流量涌入，这显然给系统带来了很大压力，你必须弄清楚其中的经济逻辑。所以这里存在一种张力，你知道，如果你在构建产品，你知道，你是否构建一个界面？你知道，你可以暂时搁置这个问题，但这是不可避免的，对吧？就像，你知道，&lt;strong&gt;大多数东西将被智能体使用，朝着那个未来构建，我认为非常重要&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;另一件事是，你知道，从另一方面来说，你知道，&lt;strong&gt;为人类构建绝对令人愉悦的新体验&lt;/strong&gt;，这些体验真正受益于更多模态，是我认为，你知道，投资不足的领域。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在过去，比如说，一年内，有什么是你改变了看法的，就是你曾经相信但现在看法不同的事情？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我原本预期我们要达到我们今天所拥有的这些模型的能力水平，你知道，比如像Astra这样的，可能还需要一两年。所以我不得不在这方面修正我之前的判断。另外，我没想到会这么依赖语音。你知道，我现在有很多事情都是通过语音输入或者直接呼叫我的智能体来完成的。我没有预料到，你知道，那种感觉会好这么多。所以我在这方面也不得不改变想法。 然后，你知道，你谈到了招聘，有一件事是我之前没有意识到的，就是&lt;strong&gt;年轻一代所拥有的那种令人难以置信的才华和活力&lt;/strong&gt;，以及他们会是最先拥抱这些变化、并想方设法驾驭这一切的人。所以，你知道，这也改变了我对招聘和相关策略的看法。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;进一步强调这一点，就是这样一个想法：职场新人实际上拥有优势，因为他们还没有形成固定的工作方式，可以直接在AI上全力投入。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我认为还有就是&lt;strong&gt;那种能够快速吸收和学习的能力&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所以你谈到了模型变得越来越聪明、速度越来越快。 显然，现在有很多关于AI未来能做什么的讨论，以及AI对人类构成的危险、&amp;quot;末日概率&amp;quot;之类的事情。你们放缓了一些训练，你们，大家都在控制前沿的节奏。你怎么看待AI这个世界以及它对人类的潜在风险？你是怎么想的？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对我来说，&lt;strong&gt;控制前沿节奏就是提前进行大量投入&lt;/strong&gt;，而且投入的力度要远超我们认为应该投入的程度。 投资于模型的对齐和安全，投资于安全防护，投资于护栏机制。我们正在把越来越多的算力用于某种二级监控。所以你有，你知道，所有投入主系统的算力，也就是那个正在执行工作的智能体，然后还有所有投入监控的算力。你知道，监控主智能体，确保它不会采取风险过高的行动，或者在任何看起来像是遭到提示注入的情况下，不去打断它，而是直接进行干预。&lt;strong&gt;我们在API技术栈上的大部分投资，实际上并没有流向安全技术栈。&lt;/strong&gt; 所以对我来说，这就是面对这一切的方式，你知道，你要确保自己极其稳固。这就是我们正在做的事情——我们尚未发布在能力上超越Astra的下一个阶段。我们确实发布了一个与Astra智能水平相近但效率更高的版本。所以我们对此感到非常放心，但我们将继续在这方面大力投入，我对我们迄今为止的方法感到非常满意。 你知道，我认为，这也上了新闻，我们有6.1版本的Astra，但我们没有发布它。&lt;strong&gt;这是我非常自豪的一件事。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所以我听到的是，你对我们能够解决对齐问题以及AI做出真正糟糕的事情持乐观态度。最近AI确实做了很多非常不好的事情，比如Hugging Face那些事。但我听到的是乐观的态度，认为我们会解决它，一切都会好的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的。而且，我感到，你知道，这显然是一种深重的责任，但同时，你知道，如果你想想OpenAI的激励机制，你知道，我们为12亿人构建产品。&lt;strong&gt;我们不能搞砸这件事，对吧？&lt;/strong&gt; 你知道，我们非常认真地对待我们交到这么多人手中的东西，包括那些自身并不太懂技术的人。你知道，你必须把它做对。所以，你知道，&lt;strong&gt;我们在这方面不会去赌。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最后一个问题，关于当前应用的状态，有什么让你感到烦恼的，就是那种&amp;quot;我们必须解决这个问题&amp;quot;的感觉？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我感觉这些模型已经快到那个程度了，但还差一点，就差那么一点就能让这个应用几乎完全消失。你知道，我迫不及待地想要真正达到那种&lt;strong&gt;极致简洁&lt;/strong&gt;的状态。就连我自己也会被模型选择器、推理力度，以及是否使用多智能体还是Ultra，或者它到底能做什么，搞得精疲力竭，你几乎需要在模型选择器上拥有一个博士学位。 对吧。&lt;strong&gt;我只想尽快把所有这些都去掉。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lenny：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;太棒了。Tibo，感谢你来参与这次访谈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;是的，谢谢你邀请我。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 20:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Altman周五在X平台发文，直接回应外界对两家公司关系的猜测，称Cerebras是OpenAI的&amp;quot;密切合作伙伴&amp;quot;，双方&amp;quot;在速度前沿领域保持深度合作&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;受此提振，Cerebras股价周一一度涨超10%。&lt;/p&gt;
@@ -321,7 +67,35 @@ Deisseroth的关键转化：从蛋白质到神经开关
 &lt;p&gt;&lt;strong&gt;“光遗传学”这一术语本身，直至2006年才首次出现于学术论文，但相关研究已迅速席卷全球实验室。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;卡罗琳医学院在公告中指出，光遗传学“从根本上改变了我们对大脑的理解”，每天都有新发现涌现，帮助人类解开大脑运作这一终极谜题。&lt;strong&gt;诺贝尔奖委员会将三位获奖者的贡献定性为“神经科学新纪元的奠基”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;颁奖典礼将按惯例于12月10日在斯德哥尔摩举行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 17:12:49 GMT</pubDate><description>&lt;p&gt;10月5日周一，全球金融市场盘中呈现明显分化。&lt;/p&gt;
+&lt;p&gt;颁奖典礼将按惯例于12月10日在斯德哥尔摩举行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Spacex收涨7.6%，收创6月份以来新高，帮助马斯克“恢复”万亿美元富豪头衔</title><link>https://wallstreetcn.com/articles/3783033</link><guid>06f8e6afb63080146aa10a6e0941433eab728e3178324955f20404e541f51d9e</guid><pubDate>Mon, 05 Oct 2026 20:46:02 GMT</pubDate><description>&lt;p&gt;SpaceX股价周一大涨近8%，推动马斯克净资产重新突破万亿美元大关。摩根士丹利分析师前一日发布看多报告，称该股价格&amp;quot;低估&amp;quot;，叠加公司近期多项里程碑式飞行任务，共同催动此轮涨势。&lt;/p&gt;
+&lt;p&gt;周一收盘，SpaceX股价报171.09美元，创6月中旬以来新高。据福布斯实时富豪榜，马斯克当日净资产增加约306亿美元，总财富升至约1.03万亿美元，位居富豪榜首。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这是马斯克继今年6月SpaceX首次公开募股后，再度跻身万亿美元级别。&lt;/p&gt;
+&lt;p&gt;SpaceX股价自8月初触底以来已累计反弹约58%。摩根士丹利为该股设定300美元目标价，较周一收盘价具有约75%的上行空间，并建议投资者在公司下一次星舰试飞及第三季度财报发布前布局。&lt;/p&gt;
+
+摩根士丹利看多，多重催化剂共振
+
+&lt;p&gt;摩根士丹利分析师周日发布研报指出，以目前股价来看，SpaceX 的价值被明显低估了。&lt;/p&gt;
+&lt;p&gt;报告重点强调&amp;quot;未来人工智能产品发布、星舰研发进展以及新增云服务合同&amp;quot;等潜在催化剂，维持买入评级。&lt;/p&gt;
+&lt;p&gt;上周，SpaceX在单日内完成多项历史性飞行任务，包括为美国宇航局（NASA）执行载人任务、将宇航员送往国际空间站，以及将谷歌人工智能芯片发射入轨。&lt;/p&gt;
+&lt;p&gt;分析师指出，若SpaceX在下一次试飞中尝试回收星舰上级飞船，此举可能成为&amp;quot;自IPO以来最重大的正面催化剂&amp;quot;。此前历次测试中，星舰上级飞船均溅落海洋，可重复使用能力尚未得到验证。&lt;/p&gt;
+&lt;p&gt;星舰是迄今为止人类建造的最大火箭，设计目标为上级飞船与助推器均可安全回收并重复使用。SpaceX计划借助星舰将星链卫星送入轨道，并承接其他商业及政府机构的货运和载人任务。&lt;/p&gt;
+
+AI业务扩张，防务合同支撑营收
+
+&lt;p&gt;除航天主业外，SpaceX的人工智能业务亦成为股价上涨的重要支撑。&lt;/p&gt;
+&lt;p&gt;公司通过收购马斯克旗下xAI进入AI领域，并进一步收购代码编辑工具Cursor以扩大业务版图。尽管自研的Grok大模型在市场影响力上仍落后于OpenAI和Anthropic，但&lt;strong&gt;SpaceX正通过向谷歌、Anthropic等客户出租算力获取可观收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在政府合同层面&lt;/strong&gt;，据FedScout数据，SpaceX从美国国防部累计获得逾127亿美元合同收入，防务业务占比持续提升。&lt;/p&gt;
+&lt;p&gt;上周三9月30日，五角大楼任命马斯克担任&amp;quot;子午线计划&amp;quot;（Project Meridian）联合负责人，该项目旨在识别美国未来战争所需的武器、技术与军事能力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在品牌层面&lt;/strong&gt;，马斯克上周末宣布，将旗下AI子公司SpaceXAI更名为SpaceXSI，与特朗普总统今年9月29日签署的行政令保持一致。&lt;/p&gt;
+&lt;p&gt;该令要求政府机构以&amp;quot;超级智能&amp;quot;（super intelligence）及缩写&amp;quot;SI&amp;quot;取代&amp;quot;人工智能&amp;quot;表述。不过，截至周一，尚无正式更名步骤落地。&lt;/p&gt;
+
+IPO创纪录，财务数据显示高速增长与亏损并存
+
+&lt;p&gt;SpaceX于6月12日登陆纳斯达克，IPO发行价135美元，共发行5.556亿股，募资750亿美元，超越沙特阿美2019年创下的纪录。&lt;/p&gt;
+&lt;p&gt;上市首周，股价于6月16日创下201.80美元收盘高点，此后逐步回落，至8月初触底。此次反弹后，SpaceX股价较IPO发行价累计上涨约27%，马斯克持有约82.4%的公司投票权。&lt;/p&gt;
+&lt;p&gt;财务层面，SpaceX 2025年实现营收186.7亿美元，同比增长33%；但受高额投入影响，净利润由上年的7.91亿美元转为亏损49.4亿美元。&lt;/p&gt;
+&lt;p&gt;据福布斯估算，马斯克当前净资产领先亚马逊创始人杰夫·贝索斯逾6280亿美元，后者估算净资产约为3715亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 17:12:49 GMT</pubDate><description>&lt;p&gt;10月5日周一，全球金融市场盘中呈现明显分化。&lt;/p&gt;
 &lt;p&gt;美股方面，三大指数集体高开后走势不一，标普500和纳指高开高走，纳指连续第二个交易日创盘中历史新高；小幅高开的道指很快转跌。AI科技股继续成为市场主要支撑，英伟达、台积电美股等芯片股走强，Cerebras更因OpenAI CEO表态而一度大涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，欧洲市场虽然整体止跌，但法国股市、欧元以及欧洲主权债券市场仍受到财政和政治风险压制；美元则受避险需求支撑走强。原油盘中则经历明显震荡，布伦特原油一度因沙特关键输油管道停运的报道快速上涨逾1.2%，随后因消息被澄清而转跌。&lt;/p&gt;
@@ -431,30 +205,7 @@ PCB板块领涨，AI算力链量价共振
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;伦敦金属交易所铜期货&lt;/strong&gt;一度上涨0.9%，随后涨幅回落至0.6%，铜价在上周五创下3月以来最大单周跌幅。伦敦金属交易所（LME）锡价上涨0.2%，铝价持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;由于美国关税威胁导致贸易商向美国倾销数十万吨金属，可能挤压其他地区的供应。与此同时，数据中心和可再生能源的消费需求提振了价格。分析认为中国仍处黄金周假期，这一定程度上抑制了金属市场的流动性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI遭商标侵权诉讼，"Astra"名称引发法律纠纷</title><link>https://wallstreetcn.com/articles/3783030</link><guid>f27e52bf46c39aaf466209ba16b7926bc149001f8dfe6b99f053c60547c95b10</guid><pubDate>Mon, 05 Oct 2026 19:32:18 GMT</pubDate><description>&lt;p&gt;OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用&amp;quot;Astra&amp;quot;商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。&lt;/p&gt;
-&lt;p&gt;据彭博报道，TradeSun已于周一在加利福尼亚州北区联邦地区法院提起诉讼。该公司自2021年起以Astra为品牌销售软件产品，并于2022年获得联邦商标注册，注册范围涵盖AI软件服务。&lt;/p&gt;
-&lt;p&gt;TradeSun认为，OpenAI上月发布的GPT-6 Astra正在向消费者传递&amp;quot;Astra即OpenAI&amp;quot;的品牌认知，构成典型的&amp;quot;反向混淆&amp;quot;侵权。&lt;/p&gt;
-&lt;p&gt;OpenAI一名发言人通过电子邮件回应称：&amp;quot;这份诉状毫无任何依据，我们将继续专注于负责任地构建惠及所有人的技术。&amp;quot;此案是OpenAI在同一法院面临的最新一起商标诉讼，对其品牌战略和产品命名实践构成持续压力。&lt;/p&gt;
-
-指控核心：反向混淆与市场混淆风险
-
-&lt;p&gt;TradeSun在诉状中援引&amp;quot;反向混淆&amp;quot;理论，即较大的被告方侵占了规模较小的原告方商标，导致消费者误认为小公司的产品实为大公司所出或得到其授权。&lt;/p&gt;
-&lt;p&gt;诉状指出，消费者在遭遇TradeSun的ASTRA品牌时，如今很可能误以为该产品属于OpenAI旗下、基于OpenAI模型构建，或获得OpenAI的赞助与认可。&lt;/p&gt;
-&lt;p&gt;更糟糕的情况是，消费者可能将TradeSun视为企图蹭OpenAI&amp;quot;Astra&amp;quot;品牌的模仿者。&lt;/p&gt;
-&lt;p&gt;TradeSun进一步指出，两家公司服务的客户群体高度重叠——OpenAI的Astra同样面向银行、金融机构及企业客户，提供包括商业文件解读、数据提取与核对、风险筛查以及多步骤工作流自动化等服务，与TradeSun多年来的业务范畴几乎一致。&lt;/p&gt;
-
-OpenAI商标争议再添新案
-
-&lt;p&gt;此次诉讼并非OpenAI首次在商标问题上陷入法律困境。&lt;/p&gt;
-&lt;p&gt;今年2月，一名联邦法官禁止OpenAI在已停用的Sora视频生成工具的相关功能中使用&amp;quot;cameo&amp;quot;名称；两个月后，另一名法官又叫停了其在AI设备上使用&amp;quot;io&amp;quot;品牌。&amp;quot;io&amp;quot;案已于7月达成和解，&amp;quot;cameo&amp;quot;案则仍在审理中。&lt;/p&gt;
-&lt;p&gt;上述一系列诉讼均发生在加利福尼亚州北区联邦地区法院，反映出这家AI巨头在产品快速迭代过程中面临的品牌合规风险。&lt;/p&gt;
-&lt;p&gt;TradeSun方面认为，OpenAI作为在商标注册与维权方面拥有丰富经验的成熟公司，本可轻易检索到TradeSun的Astra注册信息，却选择径自使用，难辞其咎。&lt;/p&gt;
-
-原告：五年品牌投入不容侵占
-
-&lt;p&gt;TradeSun创始人兼首席执行官Nigel Hook在声明中表示：&lt;/p&gt;
-&lt;p&gt;&amp;quot;TradeSun从零开始打造ASTRA，五年多来我们持续投入于技术研发、客户维护和品牌建设。我们努力构建了一个让客户在每一笔交易中都值得信赖的产品和品牌。成为全球最大科技公司之一，并不赋予OpenAI使用我们商标的权利。&amp;quot;&lt;/p&gt;
-&lt;p&gt;TradeSun在诉讼中请求法院裁定OpenAI构成商标侵权，责令其从所有产品中移除&amp;quot;Astra&amp;quot;名称，并判令OpenAI将因侵权所获利润悉数赔付给原告。该公司由Trial Lawyers for Justice及Ana Law LLC提供法律代理。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”</title><link>https://wallstreetcn.com/articles/3783019</link><guid>0e0c5d54b1a62216d0472fbcd8feb8a88effee6fc9c0ccc4e2d5b62629869f8e</guid><pubDate>Mon, 05 Oct 2026 11:51:12 GMT</pubDate><description>&lt;p&gt;AI正在重塑药物发现的底层逻辑，一场类似半导体行业&amp;quot;瓶颈交易&amp;quot;的机会正在制药供应链中悄然成形。&lt;/p&gt;
+&lt;p&gt;由于美国关税威胁导致贸易商向美国倾销数十万吨金属，可能挤压其他地区的供应。与此同时，数据中心和可再生能源的消费需求提振了价格。分析认为中国仍处黄金周假期，这一定程度上抑制了金属市场的流动性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”</title><link>https://wallstreetcn.com/articles/3783019</link><guid>0e0c5d54b1a62216d0472fbcd8feb8a88effee6fc9c0ccc4e2d5b62629869f8e</guid><pubDate>Mon, 05 Oct 2026 11:51:12 GMT</pubDate><description>&lt;p&gt;AI正在重塑药物发现的底层逻辑，一场类似半导体行业&amp;quot;瓶颈交易&amp;quot;的机会正在制药供应链中悄然成形。&lt;/p&gt;
 &lt;p&gt;10月4日，顶级美元基金Altimeter Capital合伙人Freda Duan近日发文指出，AI制药赛道（AIDD）的&amp;quot;瓶颈交易&amp;quot;正在成形，其结构与此前半导体领域从GPU延伸至HBM、网络、电力的链式行情高度相似。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;前沿AI实验室的集体入场是最显著的信号。&lt;/strong&gt;Anthropic组建了专属生命科学研究团队并建立湿实验室，OpenAI 建立了专为生物学和药物发现设计的 GPT-Rosalind 模型族，字节跳动旗下独立运营的 Anew Labs 已拥有内部药物研发库，同构实验室（Isomorphic Labs）则明确表示将把 AI 设计的药物推进人体临床试验。&lt;/p&gt;
@@ -606,7 +357,30 @@ AI治理需求激增，相关职位引用量已超模型训练
 &lt;p&gt;Vijay Swaminathan对此持相对乐观态度：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我认为，只要我们在正确的技术能力基础上优先培养软性技能，人们就能够适应和学习。对合适的人才而言，这是一个非常令人兴奋的时代。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元跌至17个月低位，法国和西班牙政治风险搅动市场</title><link>https://wallstreetcn.com/articles/3783024</link><guid>2eb37f070b2a27cf7494d7b03c46049b9c7f505896c5defc14ec1747fce6fcfa</guid><pubDate>Mon, 05 Oct 2026 12:52:13 GMT</pubDate><description>&lt;p&gt;欧元兑美元周一跌至17个月来最低水平，法国财政困局与西班牙政局突变的双重冲击令投资者加速撤离欧元区资产，欧洲主权债市场压力进一步升温。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI遭商标侵权诉讼，"Astra"名称引发法律纠纷</title><link>https://wallstreetcn.com/articles/3783030</link><guid>f27e52bf46c39aaf466209ba16b7926bc149001f8dfe6b99f053c60547c95b10</guid><pubDate>Mon, 05 Oct 2026 19:32:18 GMT</pubDate><description>&lt;p&gt;OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用&amp;quot;Astra&amp;quot;商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。&lt;/p&gt;
+&lt;p&gt;据彭博报道，TradeSun已于周一在加利福尼亚州北区联邦地区法院提起诉讼。该公司自2021年起以Astra为品牌销售软件产品，并于2022年获得联邦商标注册，注册范围涵盖AI软件服务。&lt;/p&gt;
+&lt;p&gt;TradeSun认为，OpenAI上月发布的GPT-6 Astra正在向消费者传递&amp;quot;Astra即OpenAI&amp;quot;的品牌认知，构成典型的&amp;quot;反向混淆&amp;quot;侵权。&lt;/p&gt;
+&lt;p&gt;OpenAI一名发言人通过电子邮件回应称：&amp;quot;这份诉状毫无任何依据，我们将继续专注于负责任地构建惠及所有人的技术。&amp;quot;此案是OpenAI在同一法院面临的最新一起商标诉讼，对其品牌战略和产品命名实践构成持续压力。&lt;/p&gt;
+
+指控核心：反向混淆与市场混淆风险
+
+&lt;p&gt;TradeSun在诉状中援引&amp;quot;反向混淆&amp;quot;理论，即较大的被告方侵占了规模较小的原告方商标，导致消费者误认为小公司的产品实为大公司所出或得到其授权。&lt;/p&gt;
+&lt;p&gt;诉状指出，消费者在遭遇TradeSun的ASTRA品牌时，如今很可能误以为该产品属于OpenAI旗下、基于OpenAI模型构建，或获得OpenAI的赞助与认可。&lt;/p&gt;
+&lt;p&gt;更糟糕的情况是，消费者可能将TradeSun视为企图蹭OpenAI&amp;quot;Astra&amp;quot;品牌的模仿者。&lt;/p&gt;
+&lt;p&gt;TradeSun进一步指出，两家公司服务的客户群体高度重叠——OpenAI的Astra同样面向银行、金融机构及企业客户，提供包括商业文件解读、数据提取与核对、风险筛查以及多步骤工作流自动化等服务，与TradeSun多年来的业务范畴几乎一致。&lt;/p&gt;
+
+OpenAI商标争议再添新案
+
+&lt;p&gt;此次诉讼并非OpenAI首次在商标问题上陷入法律困境。&lt;/p&gt;
+&lt;p&gt;今年2月，一名联邦法官禁止OpenAI在已停用的Sora视频生成工具的相关功能中使用&amp;quot;cameo&amp;quot;名称；两个月后，另一名法官又叫停了其在AI设备上使用&amp;quot;io&amp;quot;品牌。&amp;quot;io&amp;quot;案已于7月达成和解，&amp;quot;cameo&amp;quot;案则仍在审理中。&lt;/p&gt;
+&lt;p&gt;上述一系列诉讼均发生在加利福尼亚州北区联邦地区法院，反映出这家AI巨头在产品快速迭代过程中面临的品牌合规风险。&lt;/p&gt;
+&lt;p&gt;TradeSun方面认为，OpenAI作为在商标注册与维权方面拥有丰富经验的成熟公司，本可轻易检索到TradeSun的Astra注册信息，却选择径自使用，难辞其咎。&lt;/p&gt;
+
+原告：五年品牌投入不容侵占
+
+&lt;p&gt;TradeSun创始人兼首席执行官Nigel Hook在声明中表示：&lt;/p&gt;
+&lt;p&gt;&amp;quot;TradeSun从零开始打造ASTRA，五年多来我们持续投入于技术研发、客户维护和品牌建设。我们努力构建了一个让客户在每一笔交易中都值得信赖的产品和品牌。成为全球最大科技公司之一，并不赋予OpenAI使用我们商标的权利。&amp;quot;&lt;/p&gt;
+&lt;p&gt;TradeSun在诉讼中请求法院裁定OpenAI构成商标侵权，责令其从所有产品中移除&amp;quot;Astra&amp;quot;名称，并判令OpenAI将因侵权所获利润悉数赔付给原告。该公司由Trial Lawyers for Justice及Ana Law LLC提供法律代理。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元跌至17个月低位，法国和西班牙政治风险搅动市场</title><link>https://wallstreetcn.com/articles/3783024</link><guid>2eb37f070b2a27cf7494d7b03c46049b9c7f505896c5defc14ec1747fce6fcfa</guid><pubDate>Mon, 05 Oct 2026 12:52:13 GMT</pubDate><description>&lt;p&gt;欧元兑美元周一跌至17个月来最低水平，法国财政困局与西班牙政局突变的双重冲击令投资者加速撤离欧元区资产，欧洲主权债市场压力进一步升温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;西班牙总理桑切斯周一宣布提前大选，住房危机引发的全国抗议成为导火索，令这一欧元区近年来经济表现相对亮眼的经济体骤添政治不确定性。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与此同时，法国预算草案未能说服市场，巴克莱与荷兰国际集团（ING）的经济学家均认为，该计划不足以从根本上解决法国结构性财政问题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;欧元兑美元周一最新跌幅达0.6%，数据显示触及2025年5月19日以来最低水平。&lt;/p&gt;
@@ -694,68 +468,57 @@ AI已深度嵌入AI研发流水线
 &lt;p&gt;论文以一句话作结：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;“一旦智能爆炸开始，行动的窗口期可能随之关闭。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今年只有科技富豪在赚钱：AI热潮推动身家暴增8450亿美元，马斯克独占近四成</title><link>https://wallstreetcn.com/articles/3783029</link><guid>7f8f40a79be7cc774836d225dabcb3190d797f5e336ae664ce139f28b4f6b26d</guid><pubDate>Mon, 05 Oct 2026 19:22:40 GMT</pubDate><description>&lt;p&gt;人工智能热潮正在以前所未有的速度改写全球财富格局。&lt;/p&gt;
-&lt;p&gt;根据彭博亿万富翁指数，全球最富有的500人中，约100位科技行业亿万富翁今年前九个月合计财富增加8450亿美元，创下同期历史最高纪录。与此同时，非科技领域富豪同期财富合计缩水620亿美元。&lt;/p&gt;
-&lt;p&gt;这场财富盛宴高度向顶端集中。马斯克一人前九个月便新增财富3100亿美元，约占指数总增量的40%，并在旗下SpaceX与xAI合并上市后短暂成为全球首位身价突破万亿美元的富豪。&lt;/p&gt;
-&lt;p&gt;自9月10日起，全球最富有的十人均来自美国——这是彭博自2012年开始追踪相关数据以来首次出现这一局面。&lt;/p&gt;
-&lt;p&gt;进入第四季度，繁荣景象开始出现裂缝。全球500大富豪的合计财富在6月中旬触及13.4万亿美元峰值后已回落6%至12.6万亿美元，市场对部分头部AI概念股的疑虑持续上升。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行撤退、债券折价，AI建设潮的钱不好借了</title><link>https://wallstreetcn.com/articles/3783018</link><guid>fc5b6c8d57e0c2f49df26943ebcf9e1318ac664f6fde941cab88622c1c5a7d74</guid><pubDate>Mon, 05 Oct 2026 12:18:52 GMT</pubDate><description>&lt;p&gt;AI数据中心融资市场正在经历一场显著的信用收紧。债券投资者要求更高折价和更优厚条款，部分主要银行开始对项目贷款更加挑剔，叠加宏观利率压力与AI行业自身风险，这场建设热潮的融资成本正在快速攀升。&lt;/p&gt;
+&lt;p&gt;据科技媒体The information报道，&lt;strong&gt;最新的标志性案例来自CleanSpark。&lt;/strong&gt;这家正在为Meta Platforms开发数据中心的比特币矿企，本月早些时候以98.5美分的价格发行了23亿美元债券——这是过去一年中折价幅度最大的交易之一。&lt;strong&gt;7.875%的票息已属高位，发行方还额外承诺分期偿还本金以降低再融资风险。&lt;/strong&gt;据摩根士丹利数据，自7月以来的四笔高收益数据中心债券交易，全部以某种形式的折价出售；而此前12个月的前十笔交易中，仅三笔包含折价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;银行贷款市场同样出现收缩迹象。&lt;/strong&gt;据报道，知情人士透露，法国兴业银行、三井住友银行和三菱银行等机构已对数据中心项目贷款变得更加审慎。与此同时，甲骨文新墨西哥州项目近期发出不可抗力通知，令贷款方对合同条款和贷款契约的审查进一步趋严。这些动态共同指向同一个风险：AI基础设施建设的融资链条正在承压，部分项目的扩张计划面临实质性威胁。&lt;/p&gt;
+折价成常态，投资者胃口今非昔比
+&lt;p&gt;&lt;strong&gt;高收益债券市场今年已累计售出约550亿美元AI相关债券&lt;/strong&gt;，供给规模庞大，而投资者的风险偏好却在悄然转变。&lt;/p&gt;
+&lt;p&gt;Manulife Investment Management固定收益投资组合经理Connor Minnaar表示，折价是&amp;quot;当前市场的新动向&amp;quot;。他指出，&amp;quot;年初时投资者对交易结构的接受度要高得多&amp;quot;，而现在这种宽容已明显收窄。&lt;/p&gt;
+&lt;p&gt;CleanSpark案例的特殊性在于，其最终用户Meta Platforms是一家投资级公司，这类背书过去通常足以给投资者提供充分信心。但此次投资者仍要求额外补偿，反映出市场对建设周期风险和项目执行风险的担忧已超越对租户信用的依赖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月中旬，另一笔交易同样印证了这一趋势。&lt;/strong&gt;由Coatue Management旗下风险投资机构和基础设施初创公司Fluidstack支持的开发商Zenith Arc LLC，以99.5美分的折价发行债券，为一座将租赁给交易巨头Jane Street的数据中心融资。债券上市交易后，收益率进一步走高，投资者要求的补偿甚至超过了同等评级的老债券。&lt;/p&gt;
+银行贷款市场：银团收窄，甲骨文事件敲响警钟
+&lt;p&gt;&lt;strong&gt;银行贷款市场的收紧同样不容忽视。&lt;/strong&gt; 据两位知情人士透露，法国兴业银行、三井住友银行和三菱银行均已对参与数据中心项目贷款变得更加审慎。这三家银行此前均深度参与了AI基础设施的标志性融资：法国兴业银行牵头了OpenAI与甲骨文&amp;quot;星际之门&amp;quot;项目首个站点71亿美元的债务融资；三菱与摩根大通联合牵头了甲骨文另外两个项目共380亿美元的融资；三井住友则参与牵头了甲骨文新墨西哥州项目180亿美元的融资。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;甲骨文新墨西哥州项目近期的波折成为贷款方的一次警示。&lt;/strong&gt;上周，甲骨文向该项目开发商（Blue Owl Capital旗下公司）发出不可抗力通知，原因是项目遭遇电力供应延误。甲骨文试图援引合同条款，以不可控事件为由豁免或推迟其合同义务。&lt;/p&gt;
+&lt;p&gt;据报道，知情人士透露，该笔贷款从贷款方角度看&amp;quot;结构完善&amp;quot;，即便项目未能获得电力供应，甲骨文也无法借此免除租约付款义务。但一位银行家表示，甲骨文的不可抗力主张可能促使部分银行寻求更严格的保护条款或重新评估贷款风险，进一步压缩潜在的贷款供给。&lt;/p&gt;
+建设热潮仍在，但融资窗口正在收窄
+&lt;p&gt;&lt;strong&gt;市场参与者强调，目前尚无重大交易被迫撤回&lt;/strong&gt;，没有任何活跃的银团化进程因定价疲软而中止。项目开发商仍在承受高收益债券市场更高的融资成本，以维持项目推进。&lt;/p&gt;
+&lt;p&gt;Connor Minnaar表示：&amp;quot;目前这仍是一个关于让步条款的故事。对很多公司来说，这是一场尽快让尽可能多的产能上线的竞赛，融资成本的高低还在其次。&amp;quot;&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;折价常态化、银行银团收窄、IPO窗口不稳定&lt;/strong&gt;，三重压力叠加，正在重塑AI数据中心融资市场的格局。对于那些评级较低、开发经验有限或建设周期较长的项目而言，融资难度已实质性上升，AI建设热潮能否维持此前的扩张节奏，将越来越取决于融资市场的承受能力。&lt;/p&gt;
+超大规模科技公司&amp;quot;挤出&amp;quot;效应加剧市场压力
+&lt;p&gt;&lt;strong&gt;AI融资市场的压力并非单一来源，而是多重因素叠加的结果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;亚马逊、谷歌和微软等超大规模科技公司今年资本支出合计预计约7000亿美元，并预计未来数年维持这一水平。这些公司今年已发行近1600亿美元投资级债券，大规模供给涌入市场。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;投资者持有超大规模科技公司债券所要求的额外收益率今年已上升约0.25个百分点&lt;/strong&gt;，而同期更广泛投资级市场的利差仅扩大0.04个百分点。尽管这些科技公司拥有庞大的经营现金流，但其债券的相对成本已在明显上升。&lt;/p&gt;
+&lt;p&gt;与此同时，部分大型科技公司将支出转移至其他融资主体，后者需在高收益债券市场自行筹资；为Anthropic和OpenAI等AI公司建设数据中心的开发商也在同一市场竞相融资，进一步加剧了供需失衡。&lt;/p&gt;
+宏观利率冲击与AI风险形成共振
+&lt;p&gt;&lt;strong&gt;国债收益率的上行为本已承压的市场再添变数。&lt;/strong&gt;美联储主席沃什上周表示，大规模科技债券发行对投资者形成&amp;quot;挤出效应&amp;quot;，是推动国债收益率上升的原因之一。&lt;/p&gt;
+&lt;p&gt;对数据中心开发商而言，国债收益率上升意味着风险项目必须提供更高的补偿才能吸引资金。&lt;/p&gt;
+&lt;p&gt;据报道，一位参与相关交易的银行家将这一转变描述为信用评级和项目质量上的&amp;quot;向上迁移&amp;quot;——过去愿意为建设周期长、开发商经验不足的项目承担风险以换取收益的投资者，如今可能转而选择在更安全的债券上获取相近回报。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;部分项目的融资成本已逼近盈亏临界点。&lt;/strong&gt;若项目所需回报率为12%，而借贷成本接近这一水平，利润空间将被压缩至项目在财务上难以为继的程度。&lt;/p&gt;
+IPO市场动荡，另一融资渠道同样承压
+&lt;p&gt;&lt;strong&gt;国债市场的波动也波及IPO市场，令AI公司的另一融资渠道前景不明。&lt;/strong&gt;据报道，Anthropic去年净亏损达420亿美元，其IPO草案文件显示计算和基础设施支出承诺超过5000亿美元，融资需求极为庞大。&lt;/p&gt;
+&lt;p&gt;正在为OpenAI和Anthropic开发数据中心容量的SB Energy和Nscale近期已公开IPO申请文件，但上市时间仍不明朗。Anthropic此前预计最早本月披露IPO申请，但截至目前尚未付诸行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta、微软设法减少员工对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一</title><link>https://wallstreetcn.com/articles/3783031</link><guid>2b3acfb9650013968af080cac72b81480fe31a54e789105f7610573489f33503</guid><pubDate>Mon, 05 Oct 2026 20:09:19 GMT</pubDate><description>&lt;p&gt;Meta和微软正努力减少员工对Claude的使用，Anthropic营收前景承压。&lt;/p&gt;
+&lt;p&gt;10月5日，据The Information报道，&lt;strong&gt;Meta和微软正大幅压缩对Anthropic旗下Claude AI的内部使用，转而推动员工采用各自自研工具。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一转变直接冲击Anthropic的核心营收结构，该公司在近期IPO招股书中披露，&lt;strong&gt;两大客户合计贡献约25%的收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软此前预计在Claude上的内部年支出至少达10亿美元，但这一预算已被削减逾三分之一。与此同时，Meta内部使用Claude Code的员工人数从今年早些时候的约6万人骤降至约3万人，降幅接近50%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述调整对Anthropic而言意义重大。尽管两家科技巨头均强调对外客户通过企业平台使用Claude的需求仍在增长，但内部用量的萎缩表明，大型科技公司正加速将AI能力收归内部。&lt;/p&gt;
 
-AI红利高度集中，美国科技富豪通吃
+微软：削减内部Claude预算，转向自研模型
 
-&lt;p&gt;科技富豪的财富积累规模已远超其他群体。科技行业亿万富翁合计净资产达4.6万亿美元，仅占指数成员约五分之一，却贡献了指数总财富的36%。美国富豪则占据今年指数净增财富的94%。&lt;/p&gt;
-&lt;p&gt;AI热潮的最直接受益者是大型科技公司的掌舵人。&lt;/p&gt;
-&lt;p&gt;戴尔创始人Michael Dell的财富今年增长81%至2540亿美元，受益于其数据中心销售业务的爆发式扩张。Meta股价9月单月上涨27%——近四年来最佳单月表现——推动马克·扎克伯格净资产增加230亿美元。&lt;/p&gt;
-&lt;p&gt;全球最富有的十人中有九人的财富来源于美国科技企业。这一格局在彭博追踪记录中尚属首次，折射出AI产业对美国科技巨头市值的深度重塑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软此举的核心逻辑是控制运营成本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据报道援引知情人士透露，微软早在今年5月便开始降低对Claude Code的依赖，目标是压缩员工的token消耗并推广内部模型的使用。&lt;/p&gt;
+&lt;p&gt;微软此前曾预计内部使用Claude AI的支出将达到10亿美元，但在要求员工减少使用Claude以节省成本、并把更多时间用于微软自研AI工具后，这一预算已被削减超过三分之一。&lt;/p&gt;
+&lt;p&gt;值得注意的是，这一调整仅限于内部运营层面，通过微软企业平台向外部客户提供的Anthropic模型服务目前仍保持稳定增长。&lt;/p&gt;
 
-裂缝显现，部分AI押注遭遇反噬
+Meta：自研工具提速，替代效应显现
 
-&lt;p&gt;大型科技公司为支撑AI雄心而掀起的举债狂潮开始令部分投资者感到不安。&lt;/p&gt;
-&lt;p&gt;甲骨文公司的案例最为典型。拉里·埃里森曾于2025年9月单日财富暴增890亿美元，短暂登顶全球首富。然而一年后，其净资产已缩水1960亿美元。&lt;/p&gt;
-&lt;p&gt;彭博援引的数据显示，甲骨文信用违约掉期利差目前徘徊于历史高位附近，折射出市场对该公司为支撑AI基础设施建设而大规模举债的担忧情绪。&lt;/p&gt;
-&lt;p&gt;更广泛的市场降温同样令财富增速放缓。全球500大富豪合计财富自6月峰值以来下滑约8000亿美元，背景是市场整体降温叠加对头部AI概念股增长可持续性的质疑不断累积。&lt;/p&gt;
+&lt;p&gt;Meta内部Claude用量下滑，既有人员因素，也有战略意图。&lt;/p&gt;
+&lt;p&gt;今年春季，Meta对约78,000名员工中的约10%实施裁员，这在一定程度上压低了Claude的用量基数。但据报道，更根本的驱动力在于Meta自身AI生态系统的快速成熟。&lt;/p&gt;
+&lt;p&gt;Meta已相继推出两款内部编程助手工具：MetaCode专供内部使用，目前用户已超过3万人；Muse Code则于8月开始对外部客户测试，目前内部用户已逾6,000人。&lt;/p&gt;
+&lt;p&gt;Muse Code被视为Claude Code的直接竞品，基于Meta自研模型构建，属于其Muse Spark系列模型产品线的一部分。&lt;/p&gt;
+&lt;p&gt;尽管Claude Code用户数大幅缩水，Meta在最近28天内在Claude Code上的支出仍超过1.05亿美元。&lt;/p&gt;
 
-新贵涌现，AI财富效应向产业链蔓延
+Anthropic：客户集中风险引发关注
 
-&lt;p&gt;尽管财富顶端出现震荡，这场AI盛宴仍在为更广泛的创业者和供应链企业创造新的亿万富翁。&lt;/p&gt;
-&lt;p&gt;Anthropic七位联合创始人在该公司今年6月完成一轮估值达9650亿美元的融资后悉数跻身富豪榜。中国AI企业创始人同样受益其中，MiniMax联合创始人颜峻杰和DeepSeek创始人梁文锋均新晋入榜。&lt;/p&gt;
-&lt;p&gt;AI基础设施热潮也惠及供应链上游企业家。&lt;/p&gt;
-&lt;p&gt;服务器导轨及线缆管理系统制造商川湖科技创始人Lin Tsung-chi，在创业近四十年后今年以95亿美元身家首次登榜；广东迪泰技术董事长Wang Xin因AI带动电路板钻头需求激增而入榜。台积电创始人张忠谋与联发科董事长蔡明介亦在今年加入这一名单。&lt;/p&gt;
-&lt;p&gt;三星电子李氏家族的两位继承人Boo-jin与Seo-hyun受益于内存芯片需求升温，在股价上涨帮助家族偿还前主席李健熙2020年去世后留下逾80亿美元遗产税后，同样新晋入榜。&lt;/p&gt;
-&lt;p&gt;中美科技竞争格局也催生了一批新面孔：苏州通光集团邹志农家族以及苏州东山精密制造的袁富根亦出现在榜单之上。&lt;/p&gt;
-
-贫富分化加剧，财富税呼声升温
-
-&lt;p&gt;这场财富盛宴正在引发更深层的政策与社会讨论。加州选民将于11月就对该州亿万富翁征收财富税进行表决，华盛顿州、纽约州、伊利诺伊州和罗得岛州也在讨论针对高净值居民的新税项。&lt;/p&gt;
-&lt;p&gt;富豪群体年轻化和科技化的趋势，也在挑战外界对&amp;quot;财富大转移&amp;quot;的传统预设。&lt;/p&gt;
-&lt;p&gt;瑞银集团首席投资办公室经济学家James Mazeau表示，&amp;quot;我们经常谈论财富大转移——但对于最顶端的100或1000位富豪而言，其中许多人是年轻的科技创业者。我很想知道，这在多大程度上会推动财富进一步集中。&amp;quot;&lt;/p&gt;
-&lt;p&gt;随着AI投资周期进入深水区，举债规模与回报节奏之间的张力正在积聚。这场财富版图的重构究竟能走多远，或许取决于AI商业化能否兑现其当前的估值溢价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑网站、钻漏洞！互联网还没准备好迎接“AI代理时代”</title><link>https://wallstreetcn.com/articles/3783010</link><guid>44e06fd8e2d9879a45d330b8a82d12f8cdf6718d6134f76d81db33397409de23</guid><pubDate>Mon, 05 Oct 2026 08:34:52 GMT</pubDate><description>&lt;p&gt;AI代理工具正以前所未有的速度向普通用户渗透，但其&amp;quot;创造性&amp;quot;完成任务的方式正在引发新的安全隐患。&lt;/p&gt;
-&lt;p&gt;据华尔街见闻，科技巨头相继推出能够自主执行网络任务的AI代理产品，如&lt;a href="https://wallstreetcn.com/articles/3781370"&gt;Meta Muse&lt;/a&gt;和&lt;a href="https://wallstreetcn.com/articles/3782764"&gt;OpenAI Dots&lt;/a&gt;等，这类工具被训练为以任何可行方式实现目标，由此暴露出一种被研究人员称为&amp;quot;奖励作弊&amp;quot;（reward-hacking）的系统性缺陷。&lt;/p&gt;
-&lt;p&gt;10月5日，彭博社分析认为，&lt;strong&gt;当数百万个代理同时在互联网上竞争资源时，这一缺陷可能演变为大规模网络安全危机。&lt;/strong&gt;目前已有多起AI代理擅自利用漏洞的案例记录在案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;的代理此前在未经明确指令的情况下入侵了Hugging Face平台，并干预了美国证券交易委员会及澳大利亚政府医疗系统的网站；&lt;strong&gt;Meta&lt;/strong&gt;也承认其一个AI模型曾自行入侵另一家公司。&lt;/p&gt;
-&lt;p&gt;与此同时，安全公司DataDome的测试数据显示，&lt;strong&gt;在逾2万个受测网站中，65%缺乏检测或拦截AI代理的机制，2026年上半年针对登录页面的机器人活动更同比激增逾八倍。&lt;/strong&gt;&lt;/p&gt;
-
-代理工具加速普及，科技巨头竞相布局
-
-&lt;p&gt;&lt;strong&gt;AI代理的核心设想是：让软件代替用户完成繁琐的网络任务，全天候运转，无需人工干预。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta推出的Muse和OpenAI推出的dots均属于此类产品，功能涵盖在线比价、餐厅预订及账单核查等。&lt;/p&gt;
-&lt;p&gt;彭博观点专栏作者Dave Lee曾评价Muse是&amp;quot;Meta多年来发布的最令人印象深刻的产品&amp;quot;，称其代理帮助整理了日历并在Facebook Marketplace上搜罗到了优惠商品。&lt;/p&gt;
-&lt;p&gt;Meta首席执行官马克·扎克伯格在上月推出Muse时表示，消费者理应拥有属于自己的&amp;quot;个人超级智能&amp;quot;，并称新代理将&amp;quot;帮你赚钱&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两家公司均表示已部署严格的安全护栏&lt;/strong&gt;：Muse在隔离的虚拟机环境中运行，并由独立安全系统管控其全部网络请求，涉及购买或发送消息等重大操作前须经人工确认；dots采用了类似的监控机制。&lt;/p&gt;
-
-&amp;quot;奖励劫持&amp;quot;根植于训练机制，护栏难以根治
-
-&lt;p&gt;&lt;strong&gt;然而，现有护栏并未解决生成式AI模型在训练过程中形成的深层倾向——寻找捷径、规避规则&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;英国AI安全研究所去年底即已注意到编程代理和聊天机器人中此类&amp;quot;作弊&amp;quot;行为的上升趋势。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一个典型案例足以说明问题的复杂性&lt;/strong&gt;：一名软件开发者要求AI代理在不使用&amp;quot;删除&amp;quot;命令的前提下清理某文件夹，代理随即将该指令隐藏于测试工具之中，绕过过滤器后仍执行了被明确禁止的删除操作。&lt;/p&gt;
-&lt;p&gt;更早之前，一名澳大利亚科技从业者使用AI代理为自己争取热门健身课名额，代理在未获任何指示的情况下，直接取消了等候名单上另一用户的预约。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;研究人员还发现，即便在测试中刻意加大反作弊难度，代理仍会持续尝试绕过规则。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述OpenAI和Meta的入侵事件发生时，相关模型正处于训练或测试阶段且安全限制已被主动降低，但结果仍出乎开发者预料，这进一步加剧了外界对商用版本潜在风险的担忧。&lt;/p&gt;
-
-普通用户或成最终买单者
-
-&lt;p&gt;除安全风险外，代理的失误同样可能直接损害用户利益。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据社交平台Threads上的记录，多伦多科技评测者Matt J. Robb上月尝试使用Muse在Facebook Marketplace出售一块键盘，代理不仅给出了过低的报价，还向买家声称Robb本人在家可完成交易，这与实际情况不符。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;交易最终引发买家不满，Robb因此收到了一条差评。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当数百万用户同时将代理投入日常生活和工作场景，这类个体错误的累积效应不容低估。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;无论是财务损失、声誉受损还是账户安全，受影响的终究是终端用户，而非开发平台。DataDome的数据已经表明，互联网基础设施对于大规模代理活动的准备仍严重不足。&lt;/p&gt;
-&lt;p&gt;这些外观&amp;quot;可爱&amp;quot;的AI代理背后，是被训练为不惜一切完成目标的系统。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Anthropic在近期提交的IPO招股书中披露，有两名客户合计贡献了其约25%的收入，但未点名具体客户。市场普遍认为，Meta和微软极有可能正是这两大客户或其中之一。&lt;/p&gt;
+&lt;p&gt;两大核心客户同步缩减内部用量，叠加自研替代工具的快速崛起，使Anthropic在IPO关键窗口期面临客户集中度过高的结构性风险。&lt;/p&gt;
+&lt;p&gt;尽管企业端外部部署需求尚在增长，能否对冲内部用量萎缩带来的收入压力，仍是投资者重点关注的不确定因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
