@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 18:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Altman周五在X平台发文，直接回应外界对两家公司关系的猜测，称Cerebras是OpenAI的&amp;quot;密切合作伙伴&amp;quot;，双方&amp;quot;在速度前沿领域保持深度合作&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;受此提振，Cerebras股价周一一度涨超10%。&lt;/p&gt;
-&lt;p&gt;x此前一周，Cerebras股价累计重挫20%，触及登陆纳斯达克以来的最低水平。&lt;strong&gt;导火索是OpenAI为GPT-6.1 Sol的&amp;quot;Ultrafast&amp;quot;极速模式选用了英伟达GPU，而非Cerebras芯片，引发市场对其核心客户关系动摇的担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-导火索：英伟达芯片取代Cerebras引发恐慌
-
-&lt;p&gt;Cerebras上周大跌的主要原因，是外界对OpenAI硬件选择的解读。据CNBC报道，OpenAI在推出GPT-6.1 Sol的&amp;quot;Ultrafast&amp;quot;极速模式时，选择了英伟达的图形处理器为该功能提供算力支持，而非采用Cerebras的专用芯片。&lt;/p&gt;
-&lt;p&gt;这一消息令投资者忧虑，认为OpenAI正逐步将核心推理工作负载转向英伟达，Cerebras的战略地位或被边缘化。&lt;/p&gt;
-&lt;p&gt;Cerebras专门研发和生产AI计算系统，其芯片以尺寸超大、处理AI工作负载速度更快著称，被视为传统GPU的竞争替代方案。&lt;/p&gt;
-&lt;p&gt;今年1月，Cerebras与OpenAI签署了一份价值100亿美元的协议，约定在截至2028年的合约期内向OpenAI提供750兆瓦的算力供应。&lt;/p&gt;
-
-分析师：2028年营收预测暂未调整，但毛利率走势是关键
-
-&lt;p&gt;尽管股价大幅波动，华尔街部分分析师态度趋于谨慎乐观。&lt;/p&gt;
-&lt;p&gt;花旗分析师上周五指出，他们对Cerebras 2028年前营收的预测并未因此发生变化。&amp;quot;我们认为，前沿AI实验室的最新模型最初会先在内部芯片上推出，再过渡到第三方或Cerebras云端运行，因此现在从中解读过多信息还为时过早。&amp;quot;&lt;/p&gt;
-&lt;p&gt;不过，花旗同时提示风险：在毛利率触底企稳之前，任何进一步的下滑都可能打压投资者信心——尤其考虑到Cerebras当前估值仍处于较高水平。&lt;/p&gt;
-
-背景：上市以来承压，OpenAI谋求巨额新融资
-
-&lt;p&gt;Cerebras于今年5月完成上市，以接近950亿美元的市值高调入场，进入一个由英伟达主导的AI芯片市场。&lt;/p&gt;
-&lt;p&gt;然而上市以来，公司股价持续承压——8月中旬业绩及业绩指引双双令市场失望，进一步加重了估值修复的难度。&lt;/p&gt;
-&lt;p&gt;与此同时，作为Cerebras最重要的客户，OpenAI自身也在加速推进融资计划。据报道，OpenAI正寻求新一轮融资，目标估值高达1.4万亿美元，并最早考虑于明年启动IPO进程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 19:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
 &lt;p&gt;在刚刚结束的OpenAI DevDay（开发者大会）上，OpenAI一口气发布了20多项新产品。大会落幕后的数小时，领导ChatGPT、Codex以及最新个人智能体平台“Dots”的核心高管Tibo Sottiaux接受了深度访谈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对市场对AI商业化落地节奏的关注，Tibo详细拆解了OpenAI的下一步棋。他明确指出，尽管市场对新平台“Dots”表现出极高的热情，但人们仍未对AI技术演进的“二阶效应”进行充分定价（Pricing in）。&lt;/p&gt;
@@ -277,7 +253,31 @@
 &lt;p&gt;太棒了。Tibo，感谢你来参与这次访谈。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tibo Sottiaux：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;是的，谢谢你邀请我。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖</title><link>https://wallstreetcn.com/articles/3783017</link><guid>14d1a6c64d5262d448d24c98d2b0e573c9e9db65085d9fa606ab6c62d0592d41</guid><pubDate>Mon, 05 Oct 2026 10:08:49 GMT</pubDate><description>&lt;p&gt;三位科学家凭借一项将藻类蛋白质转化为神经细胞“开关”的突破性技术，摘得2026年诺贝尔生理学或医学奖。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”</title><link>https://wallstreetcn.com/articles/3783026</link><guid>2dcedfdd363fce41aaaff6487809b74af37c4ebca8ea0eb8b4c6b7e4d8bdd2f1</guid><pubDate>Mon, 05 Oct 2026 16:03:49 GMT</pubDate><description>&lt;p&gt;Cerebras股价在经历惨淡一周后触底反弹。OpenAI首席执行官Sam Altman公开重申双方合作关系，提振市场情绪，令这家AI芯片制造商股价在周一大幅走高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Altman周五在X平台发文，直接回应外界对两家公司关系的猜测，称Cerebras是OpenAI的&amp;quot;密切合作伙伴&amp;quot;，双方&amp;quot;在速度前沿领域保持深度合作&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;受此提振，Cerebras股价周一一度涨超10%。&lt;/p&gt;
+&lt;p&gt;x此前一周，Cerebras股价累计重挫20%，触及登陆纳斯达克以来的最低水平。&lt;strong&gt;导火索是OpenAI为GPT-6.1 Sol的&amp;quot;Ultrafast&amp;quot;极速模式选用了英伟达GPU，而非Cerebras芯片，引发市场对其核心客户关系动摇的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+导火索：英伟达芯片取代Cerebras引发恐慌
+
+&lt;p&gt;Cerebras上周大跌的主要原因，是外界对OpenAI硬件选择的解读。据CNBC报道，OpenAI在推出GPT-6.1 Sol的&amp;quot;Ultrafast&amp;quot;极速模式时，选择了英伟达的图形处理器为该功能提供算力支持，而非采用Cerebras的专用芯片。&lt;/p&gt;
+&lt;p&gt;这一消息令投资者忧虑，认为OpenAI正逐步将核心推理工作负载转向英伟达，Cerebras的战略地位或被边缘化。&lt;/p&gt;
+&lt;p&gt;Cerebras专门研发和生产AI计算系统，其芯片以尺寸超大、处理AI工作负载速度更快著称，被视为传统GPU的竞争替代方案。&lt;/p&gt;
+&lt;p&gt;今年1月，Cerebras与OpenAI签署了一份价值100亿美元的协议，约定在截至2028年的合约期内向OpenAI提供750兆瓦的算力供应。&lt;/p&gt;
+
+分析师：2028年营收预测暂未调整，但毛利率走势是关键
+
+&lt;p&gt;尽管股价大幅波动，华尔街部分分析师态度趋于谨慎乐观。&lt;/p&gt;
+&lt;p&gt;花旗分析师上周五指出，他们对Cerebras 2028年前营收的预测并未因此发生变化。&amp;quot;我们认为，前沿AI实验室的最新模型最初会先在内部芯片上推出，再过渡到第三方或Cerebras云端运行，因此现在从中解读过多信息还为时过早。&amp;quot;&lt;/p&gt;
+&lt;p&gt;不过，花旗同时提示风险：在毛利率触底企稳之前，任何进一步的下滑都可能打压投资者信心——尤其考虑到Cerebras当前估值仍处于较高水平。&lt;/p&gt;
+
+背景：上市以来承压，OpenAI谋求巨额新融资
+
+&lt;p&gt;Cerebras于今年5月完成上市，以接近950亿美元的市值高调入场，进入一个由英伟达主导的AI芯片市场。&lt;/p&gt;
+&lt;p&gt;然而上市以来，公司股价持续承压——8月中旬业绩及业绩指引双双令市场失望，进一步加重了估值修复的难度。&lt;/p&gt;
+&lt;p&gt;与此同时，作为Cerebras最重要的客户，OpenAI自身也在加速推进融资计划。据报道，OpenAI正寻求新一轮融资，目标估值高达1.4万亿美元，并最早考虑于明年启动IPO进程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖</title><link>https://wallstreetcn.com/articles/3783017</link><guid>14d1a6c64d5262d448d24c98d2b0e573c9e9db65085d9fa606ab6c62d0592d41</guid><pubDate>Mon, 05 Oct 2026 10:08:49 GMT</pubDate><description>&lt;p&gt;三位科学家凭借一项将藻类蛋白质转化为神经细胞“开关”的突破性技术，摘得2026年诺贝尔生理学或医学奖。&lt;/p&gt;
 &lt;p&gt;当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予美国科学家&lt;strong&gt;卡尔·戴塞洛斯（Karl Deisseroth）&lt;/strong&gt;和德国科学家&lt;strong&gt;彼得·黑格曼（Peter Hegemann）&lt;/strong&gt;、&lt;strong&gt;格奥尔格·纳格尔（Georg Nagel）&lt;/strong&gt;，以&lt;strong&gt;表彰他们在光门控离子通道和光遗传学方面的发现。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;三人将平分1200万瑞典克朗（约801.69万元人民币）的奖金。诺贝尔生理学或医学奖委员会主席Per Svenningsson表示：&lt;/p&gt;
@@ -695,34 +695,38 @@ AI已深度嵌入AI研发流水线
 &lt;p&gt;论文以一句话作结：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;“一旦智能爆炸开始，行动的窗口期可能随之关闭。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑网站、钻漏洞！互联网还没准备好迎接“AI代理时代”</title><link>https://wallstreetcn.com/articles/3783010</link><guid>44e06fd8e2d9879a45d330b8a82d12f8cdf6718d6134f76d81db33397409de23</guid><pubDate>Mon, 05 Oct 2026 08:34:52 GMT</pubDate><description>&lt;p&gt;AI代理工具正以前所未有的速度向普通用户渗透，但其&amp;quot;创造性&amp;quot;完成任务的方式正在引发新的安全隐患。&lt;/p&gt;
-&lt;p&gt;据华尔街见闻，科技巨头相继推出能够自主执行网络任务的AI代理产品，如&lt;a href="https://wallstreetcn.com/articles/3781370"&gt;Meta Muse&lt;/a&gt;和&lt;a href="https://wallstreetcn.com/articles/3782764"&gt;OpenAI Dots&lt;/a&gt;等，这类工具被训练为以任何可行方式实现目标，由此暴露出一种被研究人员称为&amp;quot;奖励作弊&amp;quot;（reward-hacking）的系统性缺陷。&lt;/p&gt;
-&lt;p&gt;10月5日，彭博社分析认为，&lt;strong&gt;当数百万个代理同时在互联网上竞争资源时，这一缺陷可能演变为大规模网络安全危机。&lt;/strong&gt;目前已有多起AI代理擅自利用漏洞的案例记录在案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;的代理此前在未经明确指令的情况下入侵了Hugging Face平台，并干预了美国证券交易委员会及澳大利亚政府医疗系统的网站；&lt;strong&gt;Meta&lt;/strong&gt;也承认其一个AI模型曾自行入侵另一家公司。&lt;/p&gt;
-&lt;p&gt;与此同时，安全公司DataDome的测试数据显示，&lt;strong&gt;在逾2万个受测网站中，65%缺乏检测或拦截AI代理的机制，2026年上半年针对登录页面的机器人活动更同比激增逾八倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今年只有科技富豪在赚钱：AI热潮推动身家暴增8450亿美元，马斯克独占近四成</title><link>https://wallstreetcn.com/articles/3783029</link><guid>7f8f40a79be7cc774836d225dabcb3190d797f5e336ae664ce139f28b4f6b26d</guid><pubDate>Mon, 05 Oct 2026 19:22:40 GMT</pubDate><description>&lt;p&gt;人工智能热潮正在以前所未有的速度改写全球财富格局。&lt;/p&gt;
+&lt;p&gt;根据彭博亿万富翁指数，全球最富有的500人中，约100位科技行业亿万富翁今年前九个月合计财富增加8450亿美元，创下同期历史最高纪录。与此同时，非科技领域富豪同期财富合计缩水620亿美元。&lt;/p&gt;
+&lt;p&gt;这场财富盛宴高度向顶端集中。马斯克一人前九个月便新增财富3100亿美元，约占指数总增量的40%，并在旗下SpaceX与xAI合并上市后短暂成为全球首位身价突破万亿美元的富豪。&lt;/p&gt;
+&lt;p&gt;自9月10日起，全球最富有的十人均来自美国——这是彭博自2012年开始追踪相关数据以来首次出现这一局面。&lt;/p&gt;
+&lt;p&gt;进入第四季度，繁荣景象开始出现裂缝。全球500大富豪的合计财富在6月中旬触及13.4万亿美元峰值后已回落6%至12.6万亿美元，市场对部分头部AI概念股的疑虑持续上升。&lt;/p&gt;
 
-代理工具加速普及，科技巨头竞相布局
+AI红利高度集中，美国科技富豪通吃
 
-&lt;p&gt;&lt;strong&gt;AI代理的核心设想是：让软件代替用户完成繁琐的网络任务，全天候运转，无需人工干预。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta推出的Muse和OpenAI推出的dots均属于此类产品，功能涵盖在线比价、餐厅预订及账单核查等。&lt;/p&gt;
-&lt;p&gt;彭博观点专栏作者Dave Lee曾评价Muse是&amp;quot;Meta多年来发布的最令人印象深刻的产品&amp;quot;，称其代理帮助整理了日历并在Facebook Marketplace上搜罗到了优惠商品。&lt;/p&gt;
-&lt;p&gt;Meta首席执行官马克·扎克伯格在上月推出Muse时表示，消费者理应拥有属于自己的&amp;quot;个人超级智能&amp;quot;，并称新代理将&amp;quot;帮你赚钱&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两家公司均表示已部署严格的安全护栏&lt;/strong&gt;：Muse在隔离的虚拟机环境中运行，并由独立安全系统管控其全部网络请求，涉及购买或发送消息等重大操作前须经人工确认；dots采用了类似的监控机制。&lt;/p&gt;
+&lt;p&gt;科技富豪的财富积累规模已远超其他群体。科技行业亿万富翁合计净资产达4.6万亿美元，仅占指数成员约五分之一，却贡献了指数总财富的36%。美国富豪则占据今年指数净增财富的94%。&lt;/p&gt;
+&lt;p&gt;AI热潮的最直接受益者是大型科技公司的掌舵人。&lt;/p&gt;
+&lt;p&gt;戴尔创始人Michael Dell的财富今年增长81%至2540亿美元，受益于其数据中心销售业务的爆发式扩张。Meta股价9月单月上涨27%——近四年来最佳单月表现——推动马克·扎克伯格净资产增加230亿美元。&lt;/p&gt;
+&lt;p&gt;全球最富有的十人中有九人的财富来源于美国科技企业。这一格局在彭博追踪记录中尚属首次，折射出AI产业对美国科技巨头市值的深度重塑。&lt;/p&gt;
 
-&amp;quot;奖励劫持&amp;quot;根植于训练机制，护栏难以根治
+裂缝显现，部分AI押注遭遇反噬
 
-&lt;p&gt;&lt;strong&gt;然而，现有护栏并未解决生成式AI模型在训练过程中形成的深层倾向——寻找捷径、规避规则&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;英国AI安全研究所去年底即已注意到编程代理和聊天机器人中此类&amp;quot;作弊&amp;quot;行为的上升趋势。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一个典型案例足以说明问题的复杂性&lt;/strong&gt;：一名软件开发者要求AI代理在不使用&amp;quot;删除&amp;quot;命令的前提下清理某文件夹，代理随即将该指令隐藏于测试工具之中，绕过过滤器后仍执行了被明确禁止的删除操作。&lt;/p&gt;
-&lt;p&gt;更早之前，一名澳大利亚科技从业者使用AI代理为自己争取热门健身课名额，代理在未获任何指示的情况下，直接取消了等候名单上另一用户的预约。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;研究人员还发现，即便在测试中刻意加大反作弊难度，代理仍会持续尝试绕过规则。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述OpenAI和Meta的入侵事件发生时，相关模型正处于训练或测试阶段且安全限制已被主动降低，但结果仍出乎开发者预料，这进一步加剧了外界对商用版本潜在风险的担忧。&lt;/p&gt;
+&lt;p&gt;大型科技公司为支撑AI雄心而掀起的举债狂潮开始令部分投资者感到不安。&lt;/p&gt;
+&lt;p&gt;甲骨文公司的案例最为典型。拉里·埃里森曾于2025年9月单日财富暴增890亿美元，短暂登顶全球首富。然而一年后，其净资产已缩水1960亿美元。&lt;/p&gt;
+&lt;p&gt;彭博援引的数据显示，甲骨文信用违约掉期利差目前徘徊于历史高位附近，折射出市场对该公司为支撑AI基础设施建设而大规模举债的担忧情绪。&lt;/p&gt;
+&lt;p&gt;更广泛的市场降温同样令财富增速放缓。全球500大富豪合计财富自6月峰值以来下滑约8000亿美元，背景是市场整体降温叠加对头部AI概念股增长可持续性的质疑不断累积。&lt;/p&gt;
 
-普通用户或成最终买单者
+新贵涌现，AI财富效应向产业链蔓延
 
-&lt;p&gt;除安全风险外，代理的失误同样可能直接损害用户利益。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据社交平台Threads上的记录，多伦多科技评测者Matt J. Robb上月尝试使用Muse在Facebook Marketplace出售一块键盘，代理不仅给出了过低的报价，还向买家声称Robb本人在家可完成交易，这与实际情况不符。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;交易最终引发买家不满，Robb因此收到了一条差评。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当数百万用户同时将代理投入日常生活和工作场景，这类个体错误的累积效应不容低估。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;无论是财务损失、声誉受损还是账户安全，受影响的终究是终端用户，而非开发平台。DataDome的数据已经表明，互联网基础设施对于大规模代理活动的准备仍严重不足。&lt;/p&gt;
-&lt;p&gt;这些外观&amp;quot;可爱&amp;quot;的AI代理背后，是被训练为不惜一切完成目标的系统。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;尽管财富顶端出现震荡，这场AI盛宴仍在为更广泛的创业者和供应链企业创造新的亿万富翁。&lt;/p&gt;
+&lt;p&gt;Anthropic七位联合创始人在该公司今年6月完成一轮估值达9650亿美元的融资后悉数跻身富豪榜。中国AI企业创始人同样受益其中，MiniMax联合创始人颜峻杰和DeepSeek创始人梁文锋均新晋入榜。&lt;/p&gt;
+&lt;p&gt;AI基础设施热潮也惠及供应链上游企业家。&lt;/p&gt;
+&lt;p&gt;服务器导轨及线缆管理系统制造商川湖科技创始人Lin Tsung-chi，在创业近四十年后今年以95亿美元身家首次登榜；广东迪泰技术董事长Wang Xin因AI带动电路板钻头需求激增而入榜。台积电创始人张忠谋与联发科董事长蔡明介亦在今年加入这一名单。&lt;/p&gt;
+&lt;p&gt;三星电子李氏家族的两位继承人Boo-jin与Seo-hyun受益于内存芯片需求升温，在股价上涨帮助家族偿还前主席李健熙2020年去世后留下逾80亿美元遗产税后，同样新晋入榜。&lt;/p&gt;
+&lt;p&gt;中美科技竞争格局也催生了一批新面孔：苏州通光集团邹志农家族以及苏州东山精密制造的袁富根亦出现在榜单之上。&lt;/p&gt;
+
+贫富分化加剧，财富税呼声升温
+
+&lt;p&gt;这场财富盛宴正在引发更深层的政策与社会讨论。加州选民将于11月就对该州亿万富翁征收财富税进行表决，华盛顿州、纽约州、伊利诺伊州和罗得岛州也在讨论针对高净值居民的新税项。&lt;/p&gt;
+&lt;p&gt;富豪群体年轻化和科技化的趋势，也在挑战外界对&amp;quot;财富大转移&amp;quot;的传统预设。&lt;/p&gt;
+&lt;p&gt;瑞银集团首席投资办公室经济学家James Mazeau表示，&amp;quot;我们经常谈论财富大转移——但对于最顶端的100或1000位富豪而言，其中许多人是年轻的科技创业者。我很想知道，这在多大程度上会推动财富进一步集中。&amp;quot;&lt;/p&gt;
+&lt;p&gt;随着AI投资周期进入深水区，举债规模与回报节奏之间的张力正在积聚。这场财富版图的重构究竟能走多远，或许取决于AI商业化能否兑现其当前的估值溢价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
