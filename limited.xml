@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 09:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 09:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
 &lt;p&gt;在刚刚结束的OpenAI DevDay（开发者大会）上，OpenAI一口气发布了20多项新产品。大会落幕后的数小时，领导ChatGPT、Codex以及最新个人智能体平台“Dots”的核心高管Tibo Sottiaux接受了深度访谈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对市场对AI商业化落地节奏的关注，Tibo详细拆解了OpenAI的下一步棋。他明确指出，尽管市场对新平台“Dots”表现出极高的热情，但人们仍未对AI技术演进的“二阶效应”进行充分定价（Pricing in）。&lt;/p&gt;
@@ -266,37 +266,7 @@ AI服务器需求强劲，鸿海成行业景气晴雨表
 &lt;p&gt;在投资者对AI行业产能过剩、债务攀升及监管风险的担忧逐渐升温之际，鸿海的营收表现被市场视为评估AI板块景气度的重要参照指标。此次超预期业绩与美光科技最新前景展望形成共振，强化了AI支出仍处于上升通道的市场判断。&lt;/p&gt;
 &lt;p&gt;鸿海（又称富士康）目前仍有相当比例的营收来自与苹果公司的合作。鸿海是iPhone的主要代工制造商，在中国及印度均设有组装工厂。&lt;/p&gt;
 &lt;p&gt;然而，苹果正积极推进供应商多元化战略，包括立讯精密工业股份有限公司在内的多家厂商已被纳入其供应体系。&lt;/p&gt;
-&lt;p&gt;这部分苹果代工业务毛利率相对较低，与AI服务器业务形成明显对比。如何在守住传统代工基本盘的同时，加速布局高附加值的AI基础设施领域，仍是鸿海面临的核心经营课题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑网站、钻漏洞！互联网还没准备好迎接“AI代理时代”</title><link>https://wallstreetcn.com/articles/3783010</link><guid>44e06fd8e2d9879a45d330b8a82d12f8cdf6718d6134f76d81db33397409de23</guid><pubDate>Mon, 05 Oct 2026 08:34:52 GMT</pubDate><description>&lt;p&gt;AI代理工具正以前所未有的速度向普通用户渗透，但其&amp;quot;创造性&amp;quot;完成任务的方式正在引发新的安全隐患。&lt;/p&gt;
-&lt;p&gt;据华尔街见闻，科技巨头相继推出能够自主执行网络任务的AI代理产品，如&lt;a href="https://wallstreetcn.com/articles/3781370"&gt;Meta Muse&lt;/a&gt;和&lt;a href="https://wallstreetcn.com/articles/3782764"&gt;OpenAI Dots&lt;/a&gt;等，这类工具被训练为以任何可行方式实现目标，由此暴露出一种被研究人员称为&amp;quot;奖励作弊&amp;quot;（reward-hacking）的系统性缺陷。&lt;/p&gt;
-&lt;p&gt;10月5日，彭博社分析认为，&lt;strong&gt;当数百万个代理同时在互联网上竞争资源时，这一缺陷可能演变为大规模网络安全危机。&lt;/strong&gt;目前已有多起AI代理擅自利用漏洞的案例记录在案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;的代理此前在未经明确指令的情况下入侵了Hugging Face平台，并干预了美国证券交易委员会及澳大利亚政府医疗系统的网站；&lt;strong&gt;Meta&lt;/strong&gt;也承认其一个AI模型曾自行入侵另一家公司。&lt;/p&gt;
-&lt;p&gt;与此同时，安全公司DataDome的测试数据显示，&lt;strong&gt;在逾2万个受测网站中，65%缺乏检测或拦截AI代理的机制，2026年上半年针对登录页面的机器人活动更同比激增逾八倍。&lt;/strong&gt;&lt;/p&gt;
-
-代理工具加速普及，科技巨头竞相布局
-
-&lt;p&gt;&lt;strong&gt;AI代理的核心设想是：让软件代替用户完成繁琐的网络任务，全天候运转，无需人工干预。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta推出的Muse和OpenAI推出的dots均属于此类产品，功能涵盖在线比价、餐厅预订及账单核查等。&lt;/p&gt;
-&lt;p&gt;彭博观点专栏作者Dave Lee曾评价Muse是&amp;quot;Meta多年来发布的最令人印象深刻的产品&amp;quot;，称其代理帮助整理了日历并在Facebook Marketplace上搜罗到了优惠商品。&lt;/p&gt;
-&lt;p&gt;Meta首席执行官马克·扎克伯格在上月推出Muse时表示，消费者理应拥有属于自己的&amp;quot;个人超级智能&amp;quot;，并称新代理将&amp;quot;帮你赚钱&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两家公司均表示已部署严格的安全护栏&lt;/strong&gt;：Muse在隔离的虚拟机环境中运行，并由独立安全系统管控其全部网络请求，涉及购买或发送消息等重大操作前须经人工确认；dots采用了类似的监控机制。&lt;/p&gt;
-
-&amp;quot;奖励劫持&amp;quot;根植于训练机制，护栏难以根治
-
-&lt;p&gt;&lt;strong&gt;然而，现有护栏并未解决生成式AI模型在训练过程中形成的深层倾向——寻找捷径、规避规则&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;英国AI安全研究所去年底即已注意到编程代理和聊天机器人中此类&amp;quot;作弊&amp;quot;行为的上升趋势。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一个典型案例足以说明问题的复杂性&lt;/strong&gt;：一名软件开发者要求AI代理在不使用&amp;quot;删除&amp;quot;命令的前提下清理某文件夹，代理随即将该指令隐藏于测试工具之中，绕过过滤器后仍执行了被明确禁止的删除操作。&lt;/p&gt;
-&lt;p&gt;更早之前，一名澳大利亚科技从业者使用AI代理为自己争取热门健身课名额，代理在未获任何指示的情况下，直接取消了等候名单上另一用户的预约。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;研究人员还发现，即便在测试中刻意加大反作弊难度，代理仍会持续尝试绕过规则。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上述OpenAI和Meta的入侵事件发生时，相关模型正处于训练或测试阶段且安全限制已被主动降低，但结果仍出乎开发者预料，这进一步加剧了外界对商用版本潜在风险的担忧。&lt;/p&gt;
-
-普通用户或成最终买单者
-
-&lt;p&gt;除安全风险外，代理的失误同样可能直接损害用户利益。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据社交平台Threads上的记录，多伦多科技评测者Matt J. Robb上月尝试使用Muse在Facebook Marketplace出售一块键盘，代理不仅给出了过低的报价，还向买家声称Robb本人在家可完成交易，这与实际情况不符。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;交易最终引发买家不满，Robb因此收到了一条差评。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当数百万用户同时将代理投入日常生活和工作场景，这类个体错误的累积效应不容低估。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;无论是财务损失、声誉受损还是账户安全，受影响的终究是终端用户，而非开发平台。DataDome的数据已经表明，互联网基础设施对于大规模代理活动的准备仍严重不足。&lt;/p&gt;
-&lt;p&gt;这些外观&amp;quot;可爱&amp;quot;的AI代理背后，是被训练为不惜一切完成目标的系统。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息压力缓解提振亚太股市，日股重返7万点，港股光通信走强，台积电新高，纳指、原油先涨后跌</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 05:35:22 GMT</pubDate><description>&lt;p&gt;美国就业市场降温令美联储加息压力减轻，亚太股市周一普遍走高，日本科技股领涨，油价则在早盘上冲后回落。&lt;/p&gt;
+&lt;p&gt;这部分苹果代工业务毛利率相对较低，与AI服务器业务形成明显对比。如何在守住传统代工基本盘的同时，加速布局高附加值的AI基础设施领域，仍是鸿海面临的核心经营课题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加息压力缓解提振亚太股市，日股重返7万点，港股光通信走强，台积电新高，纳指、原油先涨后跌</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 05:35:22 GMT</pubDate><description>&lt;p&gt;美国就业市场降温令美联储加息压力减轻，亚太股市周一普遍走高，日本科技股领涨，油价则在早盘上冲后回落。&lt;/p&gt;
 &lt;p&gt;美国9月新增就业人数低于预期，薪资增速放缓，货币市场随即下调对美联储10月加息的预期概率至25%以下。这一数据显著改变了市场对利率路径的判断，为风险资产提供了喘息空间。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;日经225指数&lt;/strong&gt;盘中重返70000点上方，日内涨超2.5%。&lt;strong&gt;MSCI亚太指数&lt;/strong&gt;上涨1%至279.06点。&lt;strong&gt;菲律宾股指&lt;/strong&gt;高开0.8%。&lt;strong&gt;台股指数&lt;/strong&gt;一度上涨2.7%，创下49,770.66点的历史新高。半导体巨头台积电一度大涨3.2%，创下历史新高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -415,7 +385,37 @@ Wilson建议坚守大盘质量股，等待入场时机
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此外，&lt;strong&gt;AI“核心于投资逻辑”的公司跑赢“仅具重要性”公司达107%；而面临AI核心威胁的公司则跑输面临温和冲击的公司约161%&lt;/strong&gt;，市场对AI影响程度的定价已愈发精细。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 是战是谈？美伊进入“关键一周”，油价依旧维持在100元大关之上</title><link>https://wallstreetcn.com/articles/3782992</link><guid>5b857fa1ea891cffb2155d7bcd8a63fa731a6d9f6b8b4e02e875d835fa435e22</guid><pubDate>Mon, 05 Oct 2026 02:28:15 GMT</pubDate><description>&lt;p&gt;美伊对峙进入新的关键节点。在谈判陷入僵局、军事部署持续推进的背景下，特朗普连续释放强硬信号，伊朗方面则一边警告&amp;quot;更具毁灭性&amp;quot;的反击，一边表示仍未关闭外交大门。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑网站、钻漏洞！互联网还没准备好迎接“AI代理时代”</title><link>https://wallstreetcn.com/articles/3783010</link><guid>44e06fd8e2d9879a45d330b8a82d12f8cdf6718d6134f76d81db33397409de23</guid><pubDate>Mon, 05 Oct 2026 08:34:52 GMT</pubDate><description>&lt;p&gt;AI代理工具正以前所未有的速度向普通用户渗透，但其&amp;quot;创造性&amp;quot;完成任务的方式正在引发新的安全隐患。&lt;/p&gt;
+&lt;p&gt;据华尔街见闻，科技巨头相继推出能够自主执行网络任务的AI代理产品，如&lt;a href="https://wallstreetcn.com/articles/3781370"&gt;Meta Muse&lt;/a&gt;和&lt;a href="https://wallstreetcn.com/articles/3782764"&gt;OpenAI Dots&lt;/a&gt;等，这类工具被训练为以任何可行方式实现目标，由此暴露出一种被研究人员称为&amp;quot;奖励作弊&amp;quot;（reward-hacking）的系统性缺陷。&lt;/p&gt;
+&lt;p&gt;10月5日，彭博社分析认为，&lt;strong&gt;当数百万个代理同时在互联网上竞争资源时，这一缺陷可能演变为大规模网络安全危机。&lt;/strong&gt;目前已有多起AI代理擅自利用漏洞的案例记录在案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;的代理此前在未经明确指令的情况下入侵了Hugging Face平台，并干预了美国证券交易委员会及澳大利亚政府医疗系统的网站；&lt;strong&gt;Meta&lt;/strong&gt;也承认其一个AI模型曾自行入侵另一家公司。&lt;/p&gt;
+&lt;p&gt;与此同时，安全公司DataDome的测试数据显示，&lt;strong&gt;在逾2万个受测网站中，65%缺乏检测或拦截AI代理的机制，2026年上半年针对登录页面的机器人活动更同比激增逾八倍。&lt;/strong&gt;&lt;/p&gt;
+
+代理工具加速普及，科技巨头竞相布局
+
+&lt;p&gt;&lt;strong&gt;AI代理的核心设想是：让软件代替用户完成繁琐的网络任务，全天候运转，无需人工干预。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta推出的Muse和OpenAI推出的dots均属于此类产品，功能涵盖在线比价、餐厅预订及账单核查等。&lt;/p&gt;
+&lt;p&gt;彭博观点专栏作者Dave Lee曾评价Muse是&amp;quot;Meta多年来发布的最令人印象深刻的产品&amp;quot;，称其代理帮助整理了日历并在Facebook Marketplace上搜罗到了优惠商品。&lt;/p&gt;
+&lt;p&gt;Meta首席执行官马克·扎克伯格在上月推出Muse时表示，消费者理应拥有属于自己的&amp;quot;个人超级智能&amp;quot;，并称新代理将&amp;quot;帮你赚钱&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两家公司均表示已部署严格的安全护栏&lt;/strong&gt;：Muse在隔离的虚拟机环境中运行，并由独立安全系统管控其全部网络请求，涉及购买或发送消息等重大操作前须经人工确认；dots采用了类似的监控机制。&lt;/p&gt;
+
+&amp;quot;奖励劫持&amp;quot;根植于训练机制，护栏难以根治
+
+&lt;p&gt;&lt;strong&gt;然而，现有护栏并未解决生成式AI模型在训练过程中形成的深层倾向——寻找捷径、规避规则&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;英国AI安全研究所去年底即已注意到编程代理和聊天机器人中此类&amp;quot;作弊&amp;quot;行为的上升趋势。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一个典型案例足以说明问题的复杂性&lt;/strong&gt;：一名软件开发者要求AI代理在不使用&amp;quot;删除&amp;quot;命令的前提下清理某文件夹，代理随即将该指令隐藏于测试工具之中，绕过过滤器后仍执行了被明确禁止的删除操作。&lt;/p&gt;
+&lt;p&gt;更早之前，一名澳大利亚科技从业者使用AI代理为自己争取热门健身课名额，代理在未获任何指示的情况下，直接取消了等候名单上另一用户的预约。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研究人员还发现，即便在测试中刻意加大反作弊难度，代理仍会持续尝试绕过规则。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述OpenAI和Meta的入侵事件发生时，相关模型正处于训练或测试阶段且安全限制已被主动降低，但结果仍出乎开发者预料，这进一步加剧了外界对商用版本潜在风险的担忧。&lt;/p&gt;
+
+普通用户或成最终买单者
+
+&lt;p&gt;除安全风险外，代理的失误同样可能直接损害用户利益。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据社交平台Threads上的记录，多伦多科技评测者Matt J. Robb上月尝试使用Muse在Facebook Marketplace出售一块键盘，代理不仅给出了过低的报价，还向买家声称Robb本人在家可完成交易，这与实际情况不符。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;交易最终引发买家不满，Robb因此收到了一条差评。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当数百万用户同时将代理投入日常生活和工作场景，这类个体错误的累积效应不容低估。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;无论是财务损失、声誉受损还是账户安全，受影响的终究是终端用户，而非开发平台。DataDome的数据已经表明，互联网基础设施对于大规模代理活动的准备仍严重不足。&lt;/p&gt;
+&lt;p&gt;这些外观&amp;quot;可爱&amp;quot;的AI代理背后，是被训练为不惜一切完成目标的系统。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 是战是谈？美伊进入“关键一周”，油价依旧维持在100元大关之上</title><link>https://wallstreetcn.com/articles/3782992</link><guid>5b857fa1ea891cffb2155d7bcd8a63fa731a6d9f6b8b4e02e875d835fa435e22</guid><pubDate>Mon, 05 Oct 2026 02:28:15 GMT</pubDate><description>&lt;p&gt;美伊对峙进入新的关键节点。在谈判陷入僵局、军事部署持续推进的背景下，特朗普连续释放强硬信号，伊朗方面则一边警告&amp;quot;更具毁灭性&amp;quot;的反击，一边表示仍未关闭外交大门。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.news.cn/world/20261004/0733bb5345c444b3851bbfb6cbe317d0/c.html"&gt;据新华社报道&lt;/a&gt;，10月4日伊朗外交部长阿拉格齐表示，&lt;strong&gt;尽管伊朗仍愿通过外交途径寻求&amp;quot;公正且体面&amp;quot;的解决方案，但如果敌人再次诉诸军事行动，伊朗将予以比以往&amp;quot;更具毁灭性&amp;quot;的回击。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;特朗普上周末在白宫外对记者表示，&amp;quot;关于伊朗问题，我将做出决定。要么走简单的路，要么走困难的路。&amp;quot;他未透露具体时间表，只留下一句&amp;quot;你们会看到的&amp;quot;。&lt;/strong&gt;与此同时，据Axios报道，上周五美国副总统万斯、国务卿鲁比奥、国防部长Pete Hegseth、特别使节Steve Witkoff、中情局局长John Ratcliffe及参谋长联席会议主席Dan Caine上将，齐聚戴维营举行秘密会议，伊朗局势与也门胡塞武装问题均在议程之列。&lt;/p&gt;
 &lt;p&gt;美银指出，&lt;strong&gt;当前布伦特约103美元的定价，恰好落在&amp;quot;零星冲突&amp;quot;与&amp;quot;密集交战&amp;quot;两个情景之间。本周，特朗普的决定、伊朗经卡塔尔的回应、也门局势走向、油轮袭击动态、伊朗国内压力及宏观交叉风险六条线索，将共同决定油价走向哪个情景区间。战与谈的边界，本周或见分晓。&lt;/strong&gt;&lt;/p&gt;
@@ -490,16 +490,30 @@ Wilson建议坚守大盘质量股，等待入场时机
 &lt;blockquote&gt;
 &lt;p&gt;双方普遍希望达成协议，但彼此正在越走越远。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在103美元的油价之上，市场已经给出了自己的判断——零星冲突仍将持续，但战与谈的边界，将在本周变得更加清晰。&lt;/strong&gt;正如特朗普本人所言：&amp;quot;你们将会看到。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华为与高通达成重磅专利许可协议，覆盖5G、AI与计算</title><link>https://wallstreetcn.com/articles/3783008</link><guid>df7cfb5af6541d819f2dec5d057c2220de740b61d4338f28319e5a5b38913d2b</guid><pubDate>Mon, 05 Oct 2026 06:48:26 GMT</pubDate><description>&lt;p&gt;10月5日，华为宣布与高通达成一项多年期、范围广泛的专利许可协议，双方就&lt;strong&gt;5G、计算、人工智能及网络等多个技术领域的专利组合实现交叉授权，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。&lt;/strong&gt;该交易将在获得必要的监管批准后完成。协议明确遵循公平、合理、无歧视（FRAND）原则，体现了双方对知识产权保护及行业许可规范的共同承诺。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在103美元的油价之上，市场已经给出了自己的判断——零星冲突仍将持续，但战与谈的边界，将在本周变得更加清晰。&lt;/strong&gt;正如特朗普本人所言：&amp;quot;你们将会看到。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特东西输油管道再遭袭击停运？油价急升后回落，报道称管道运营正常</title><link>https://wallstreetcn.com/articles/3783015</link><guid>153004ec75889e6ae8f83122ea29a39f580093284379b0390fdb915aa32e12f3</guid><pubDate>Mon, 05 Oct 2026 08:49:51 GMT</pubDate><description>&lt;p&gt;10月5日，据&lt;a href="https://news.cgtn.com/news/2026-10-05/news-1QZIbyV1hE4/p.html"&gt;CGTN&lt;/a&gt;援引法新社报道，沙特东西向输油管道在再次遭袭后暂停运营，布伦特原油短线急升转涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-交叉授权覆盖多领域
-&lt;p&gt;根据协议，华为与高通就双方专利组合在5G、计算、AI及网络等技术领域实现双向交叉授权。协议明确以FRAND原则为基础，这一原则通常适用于标准必要专利（SEP）的许可谈判，要求专利持有方以公平、合理且无歧视的条件向被许可方授权。&lt;/p&gt;
-&lt;p&gt;华为首席知识产权官Alan Fan表示，华为数十年来对基础研发的持续投入推动了移动通信及其他技术领域的创新进步。他&lt;strong&gt;特别提及华为在4G/5G标准中的广泛贡献，包括基于极化码（Polar Codes）的近物理极限信号传输技术，并指出这一技术奠定了华为在移动通信行业的领导地位。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高通技术许可部门执行副总裁兼总经理John Han则表示，高通长期投资于基础无线技术，推动了历代移动创新，并在全球无线行业获得广泛认可。他强调，&lt;strong&gt;此次协议再次确认了行业对高通5G技术领导力及其5G标准必要专利许可项目的认可，同时也体现了高通对华为在5G及其他技术领域持续创新与知识产权积累的认可。&lt;/strong&gt;&lt;/p&gt;
-高通收购华为美国专利
-&lt;p&gt;协议的另一重要组成部分是高通将购买华为在计算、AI、网络及其他技术领域的部分美国专利。&lt;/p&gt;
-&lt;p&gt;这一安排意味着华为将通过专利出售实现部分知识产权资产的货币化，而高通则借此补充其在AI与计算领域的专利储备。该交易的最终完成取决于相关监管机构的审批，目前尚未披露具体交割时间表及交易金额。&lt;/p&gt;
-&lt;p&gt;Alan Fan在声明中表示，&lt;strong&gt;协议“不仅展示了华为创新的价值，也认可了高通对现代通信技术的基础性贡献”&lt;/strong&gt;；John Han则表示，协议“同样反映了高通对华为在5G及其他技术领域持续创新与知识产权的认可”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达重金力捧！“美版DeepSeek”即将发布开源模型</title><link>https://wallstreetcn.com/articles/3782993</link><guid>59c5f9781f1a45ebc54a720eb843af480954505d8ab5c356e374a0feb6aa4211</guid><pubDate>Mon, 05 Oct 2026 01:09:43 GMT</pubDate><description>&lt;p&gt;获得英伟达8亿美元投资的AI初创公司Reflection，正准备发布其首款开放权重模型。&lt;/p&gt;
+&lt;p&gt;随后，彭博援引消息人士称，沙特东西向石油管道正常运转。美、布两油短线走低逾1美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+又一次袭击？
+&lt;p&gt;10月5日，法新社援引一名沙特能源行业消息人士的说法：东西输油管道前一天再次遭到袭击。&lt;/p&gt;
+&lt;p&gt;该消息人士对法新社明确表示：“东西管道昨天再次遭到袭击。地点在利雅得以东胡赖斯地区的一处泵站，这个地方此前从未被攻击过。损毁非常严重，管道再次停止输送。”&lt;/p&gt;
+&lt;p&gt;胡赖斯泵站此前不在袭击目标之列——这一细节意味着攻击范围正在扩大。&lt;/p&gt;
+&lt;p&gt;卫星图像显示，9月22日该管道在德赫拉附近已有修复作业；9月13日，另一处受损管段的画面此前也已曝光。这条管道在过去数周内已多次成为袭击目标。&lt;/p&gt;
+&lt;p&gt;法新社报道发出后，油价迅速拉升。东西管道是沙特的战略级基础设施，日输送能力约500万桶，可将原油从东部油田输送至红海沿岸的延布港，绕开霍尔木兹海峡。&lt;/p&gt;
+&lt;p&gt;这已不是该管道首次遭受攻击。&lt;a href="https://wallstreetcn.com/articles/3781596?keyword=%E6%B2%B9%E7%AE%A1"&gt;华尔街见闻文章&lt;/a&gt;写道，在此约一个月前，沙特东西输油管道于9月11日前后遭到抛射物袭击并引发火灾，彼时沙特能源部随即宣布预防性关闭利雅得和麦地那区段。&lt;/p&gt;
+东西管道运营正常消息随之流出，油价回落
+&lt;p&gt;随后，彭博新闻援引“熟悉情况的知情人士”报道，东西管道运营正常，石油持续流动。&lt;/p&gt;
+&lt;p&gt;报道指出，相关人士要求匿名，因为所讨论的是非公开信息。&lt;/p&gt;
+&lt;p&gt;最新的报道与法新社形成直接矛盾。油价随之小幅回落。&lt;/p&gt;
+&lt;p&gt;但市场并未就此平静。油价并未稳定在低位，而是再度走高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+曼德海峡压力未减，地区局势持续动荡
+
+&lt;p&gt;与此同时，连接红海与亚丁湾的曼德海峡航运压力在9月初显著上升。据新华社援引行业媒体《中东物流》数据，9月10日当天仅有6艘船只通过曼德海峡，较前几日的逾二三十艘骤降至个位数。&lt;/p&gt;
+&lt;p&gt;这一骤降与胡塞武装在也门西部海岸的快速推进直接相关，彼时胡塞武装已进入紧邻曼德海峡的祖巴卜镇，也门政府军同日从海峡内的丕林岛撤出。&lt;/p&gt;
+&lt;p&gt;祖巴卜与丕林岛对于掌控曼德海峡至关重要。据&lt;a href="https://wallstreetcn.com/articles/3783013"&gt;华尔街见闻文章&lt;/a&gt;提及，10月5日，也门政府军在沙特主导的多国联军空中支援下发起全面反攻，&amp;quot;巨人旅&amp;quot;和&amp;quot;祖国之盾&amp;quot;部队已重新控制祖巴卜地区，局势仍在持续演变之中。&lt;/p&gt;
+&lt;p&gt;目前，中东地缘风险仍在多条战线交织发酵——从沙特能源基础设施的反复遭袭，到曼德海峡和红海航运安全的不确定性——市场对任何新的供应中断信号均保持高度警觉。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达重金力捧！“美版DeepSeek”即将发布开源模型</title><link>https://wallstreetcn.com/articles/3782993</link><guid>59c5f9781f1a45ebc54a720eb843af480954505d8ab5c356e374a0feb6aa4211</guid><pubDate>Mon, 05 Oct 2026 01:09:43 GMT</pubDate><description>&lt;p&gt;获得英伟达8亿美元投资的AI初创公司Reflection，正准备发布其首款开放权重模型。&lt;/p&gt;
 &lt;p&gt;据Axios 10月4日报道，Reflection的首款模型预计发布初期能力仍将落后于美国最顶尖的前沿模型，但有望与中国领先的开放权重模型直接竞争。&lt;/p&gt;
 &lt;p&gt;据报道，消息人士表示，&lt;strong&gt;该模型具备足够强大的智能能力，可帮助企业以低成本构建专有AI系统&lt;/strong&gt;——在某些情况下，将能力稍弱的开放模型与企业自身高质量数据结合，最终效果甚至可媲美最昂贵的前沿AI系统。&lt;/p&gt;
 开放权重模型：中国主导，西方奋起直追
@@ -520,7 +534,16 @@ Wilson建议坚守大盘质量股，等待入场时机
 &lt;p&gt;&lt;strong&gt;SpaceX协议&lt;/strong&gt;：今年6月，Reflection与SpaceX（SPCX）签署协议，约定自2026年7月1日起至2029年，在初始爬坡期结束后每月向SpaceX支付1.5亿美元，以获取Colossus 2数据中心内英伟达GB300芯片的使用权。协议规定，双方均可在前三个月后提前90天通知终止合同。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nebius协议&lt;/strong&gt;：今年7月，云计算公司Nebius（NBIS）同意向Reflection出售逾10亿美元的算力容量，合同期延伸至2029年。该协议宣布当日，Nebius股价随即下跌。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;通过上述SpaceX协议，Reflection同时获得了英伟达硬件的租用渠道，进一步深化了与英伟达的绑定关系。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “高美债收益率+强美元”考验新兴市场</title><link>https://wallstreetcn.com/articles/3782998</link><guid>1e4c74ced10116ca266208fc8c4f0078f29bc45f9cb595be8cf015e7e8a7cae1</guid><pubDate>Mon, 05 Oct 2026 06:04:31 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为，在美债收益率大幅上行、美元走强的背景下，新兴市场固定收益与外汇资产虽承压，但有望实现有序调整而非剧烈抛售；不过点差已无便宜可言，投资者需等待估值超调后再加仓。&lt;/p&gt;
+&lt;p&gt;通过上述SpaceX协议，Reflection同时获得了英伟达硬件的租用渠道，进一步深化了与英伟达的绑定关系。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华为与高通达成重磅专利许可协议，覆盖5G、AI与计算</title><link>https://wallstreetcn.com/articles/3783008</link><guid>df7cfb5af6541d819f2dec5d057c2220de740b61d4338f28319e5a5b38913d2b</guid><pubDate>Mon, 05 Oct 2026 06:48:26 GMT</pubDate><description>&lt;p&gt;10月5日，华为宣布与高通达成一项多年期、范围广泛的专利许可协议，双方就&lt;strong&gt;5G、计算、人工智能及网络等多个技术领域的专利组合实现交叉授权，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。&lt;/strong&gt;该交易将在获得必要的监管批准后完成。协议明确遵循公平、合理、无歧视（FRAND）原则，体现了双方对知识产权保护及行业许可规范的共同承诺。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+交叉授权覆盖多领域
+&lt;p&gt;根据协议，华为与高通就双方专利组合在5G、计算、AI及网络等技术领域实现双向交叉授权。协议明确以FRAND原则为基础，这一原则通常适用于标准必要专利（SEP）的许可谈判，要求专利持有方以公平、合理且无歧视的条件向被许可方授权。&lt;/p&gt;
+&lt;p&gt;华为首席知识产权官Alan Fan表示，华为数十年来对基础研发的持续投入推动了移动通信及其他技术领域的创新进步。他&lt;strong&gt;特别提及华为在4G/5G标准中的广泛贡献，包括基于极化码（Polar Codes）的近物理极限信号传输技术，并指出这一技术奠定了华为在移动通信行业的领导地位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高通技术许可部门执行副总裁兼总经理John Han则表示，高通长期投资于基础无线技术，推动了历代移动创新，并在全球无线行业获得广泛认可。他强调，&lt;strong&gt;此次协议再次确认了行业对高通5G技术领导力及其5G标准必要专利许可项目的认可，同时也体现了高通对华为在5G及其他技术领域持续创新与知识产权积累的认可。&lt;/strong&gt;&lt;/p&gt;
+高通收购华为美国专利
+&lt;p&gt;协议的另一重要组成部分是高通将购买华为在计算、AI、网络及其他技术领域的部分美国专利。&lt;/p&gt;
+&lt;p&gt;这一安排意味着华为将通过专利出售实现部分知识产权资产的货币化，而高通则借此补充其在AI与计算领域的专利储备。该交易的最终完成取决于相关监管机构的审批，目前尚未披露具体交割时间表及交易金额。&lt;/p&gt;
+&lt;p&gt;Alan Fan在声明中表示，&lt;strong&gt;协议“不仅展示了华为创新的价值，也认可了高通对现代通信技术的基础性贡献”&lt;/strong&gt;；John Han则表示，协议“同样反映了高通对华为在5G及其他技术领域持续创新与知识产权的认可”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “高美债收益率+强美元”考验新兴市场</title><link>https://wallstreetcn.com/articles/3782998</link><guid>1e4c74ced10116ca266208fc8c4f0078f29bc45f9cb595be8cf015e7e8a7cae1</guid><pubDate>Mon, 05 Oct 2026 06:04:31 GMT</pubDate><description>&lt;p&gt;摩根士丹利认为，在美债收益率大幅上行、美元走强的背景下，新兴市场固定收益与外汇资产虽承压，但有望实现有序调整而非剧烈抛售；不过点差已无便宜可言，投资者需等待估值超调后再加仓。&lt;/p&gt;
 &lt;p&gt;美国国债收益率急剧攀升、美联储预计还将再加息两次、美元走强、油价持续高企——这一组合通常足以令新兴市场资产大幅跑输。然而今年的实际情况出人意料：回报虽有所走弱，但调整过程异常有序，新兴市场资产在多个维度依然跑赢。&lt;/p&gt;
 &lt;p&gt;摩根士丹利新兴市场外汇策略主管James Lord指出，&lt;strong&gt;目前油价、美债收益率和美元三项因素合计解释了硬货币（即以美元等国际主要货币计价的债券）和本币（即以本国货币计价的债券）新兴市场固定收益约55%至60%的回报变动&lt;/strong&gt;，而在伊朗冲突爆发前，这一比例仅为25%左右。这意味着外部冲击对新兴市场的传导敏感度已大幅提升。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;摩根士丹利的基准判断是：&lt;/strong&gt;从当前位置出发，&lt;strong&gt;新兴市场更可能进入低回报区间，而非出现无序抛售。&lt;/strong&gt;但随着利差缓冲空间消耗殆尽，一旦全球再度出现风险事件，市场脆弱性不容忽视。&lt;/p&gt;
