@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 00:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年10月5日</title><link>https://wallstreetcn.com/articles/3782961</link><guid>6192bbe3b6a5f36571b22f51226fcff40134235488159ab07d7512fbef6a33f3</guid><pubDate>Sun, 04 Oct 2026 23:00:11 GMT</pubDate><description>华见早安之声
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 01:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达重金力捧！“美版DeepSeek”即将发布开源模型</title><link>https://wallstreetcn.com/articles/3782993</link><guid>59c5f9781f1a45ebc54a720eb843af480954505d8ab5c356e374a0feb6aa4211</guid><pubDate>Mon, 05 Oct 2026 01:09:43 GMT</pubDate><description>&lt;p&gt;获得英伟达8亿美元投资的AI初创公司Reflection，正准备发布其首款开放权重模型。&lt;/p&gt;
+&lt;p&gt;据Axios 10月4日报道，Reflection的首款模型预计发布初期能力仍将落后于美国最顶尖的前沿模型，但有望与中国领先的开放权重模型直接竞争。&lt;/p&gt;
+&lt;p&gt;据报道，消息人士表示，&lt;strong&gt;该模型具备足够强大的智能能力，可帮助企业以低成本构建专有AI系统&lt;/strong&gt;——在某些情况下，将能力稍弱的开放模型与企业自身高质量数据结合，最终效果甚至可媲美最昂贵的前沿AI系统。&lt;/p&gt;
+开放权重模型：中国主导，西方奋起直追
+&lt;p&gt;开放权重模型与ChatGPT、Claude等闭源模型的核心区别在于：&lt;strong&gt;开发者可在许可条款范围内自由下载、修改模型本身。&lt;/strong&gt;这一特性使其在个人开发者和中小企业中迅速普及。&lt;/p&gt;
+&lt;p&gt;然而，报道称，目前全球最强大的开放权重模型几乎清一色来自中国。在同时提供大量AI模型的平台上，开放模型的合计市场份额有时已占据多数使用量。不过，在支出规模更大的企业AI市场中，开放权重模型的占比目前仍然相对有限——&lt;strong&gt;多位AI公司高管和分析师指出，企业通常通过API和企业账户付费使用AI服务，开放模型在这一市场的渗透率尚低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reflection的入局，以及其他西方厂商本月预计陆续发布的开放权重模型，将为这一格局带来新的变量。据Axios报道，消息人士透露，Reflection模型发布后，本月还将有其他西方厂商跟进推出开放权重模型。&lt;/p&gt;
+&lt;p&gt;Reflection CEO Misha Laskin此前曾任职于谷歌。他在接受CNBC采访时坦承，让公司AI模型达到最先进水平仍需时间，并以&amp;quot;火箭&amp;quot;作比：&amp;quot;它们有点像火箭。要造一艘大型火箭，需要时间。&amp;quot;&lt;/p&gt;
+&lt;p&gt;在模型发布前夕，Reflection已与华盛顿及其他地区的相关人士展开沟通，向各方介绍即将发布的模型及&amp;quot;AI工厂&amp;quot;的运作逻辑。Reflection目前尚未公布模型的具体发布时间及性能数据。&lt;/p&gt;
+&lt;p&gt;分析认为，Reflection的入局，标志着AI行业竞争正在开辟一条新的战线。过去，市场的焦点集中于OpenAI、Anthropic和谷歌之间的前沿闭源模型之争；如今，另一个问题正变得日益重要：&lt;strong&gt;谁能打造最强大的开放权重模型？&lt;/strong&gt;&lt;/p&gt;
+“AI工厂”：Reflection的核心野心
+&lt;p&gt;&lt;strong&gt;Reflection的真正目标远不止于发布一款模型。&lt;/strong&gt;该公司的核心愿景是打造所谓的&amp;quot;AI工厂&amp;quot;（AI Factory）——让企业或政府机构将自身专有数据、Reflection的模型与自有算力相结合，构建高度定制化、成本更低的本地化AI系统。&lt;/p&gt;
+&lt;p&gt;对冲基金、交易公司等掌握高度保密数据的机构，已对这一模式表现出强烈兴趣。&lt;strong&gt;Reflection已开始将这一概念付诸实践：&lt;/strong&gt;今年3月，该公司与韩国新世界集团（Shinsegae Group）签署谅解备忘录，计划在韩国建设一座250兆瓦的AI工厂，运行Reflection模型并搭载英伟达芯片。&lt;/p&gt;
+&lt;p&gt;值得注意的是，&amp;quot;AI工厂&amp;quot;并非Reflection的独创概念——这恰恰是英伟达CEO黄仁勋多年来反复强调的核心愿景。黄仁勋曾多次描述这样一种未来：&lt;strong&gt;将AI计算硬件与开放模型结合，让企业在保留数据所有权和控制权的前提下，建立属于自己的AI系统。&lt;/strong&gt;据《华尔街日报》和The Information此前报道，黄仁勋长期以来力推开放AI生态，并对Reflection向顶级开放AI系统方向转型给予了强力支持。&lt;/p&gt;
+英伟达押注8亿美元，算力版图加速扩张
+&lt;p&gt;&lt;strong&gt;英伟达在Reflection的战略布局中扮演着关键角色。&lt;/strong&gt; 英伟达已向Reflection投资8亿美元，是其最重要的财务支持方之一。&lt;/p&gt;
+&lt;p&gt;为支撑模型训练和未来规模扩张，Reflection近期密集锁定算力资源：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX协议&lt;/strong&gt;：今年6月，Reflection与SpaceX（SPCX）签署协议，约定自2026年7月1日起至2029年，在初始爬坡期结束后每月向SpaceX支付1.5亿美元，以获取Colossus 2数据中心内英伟达GB300芯片的使用权。协议规定，双方均可在前三个月后提前90天通知终止合同。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nebius协议&lt;/strong&gt;：今年7月，云计算公司Nebius（NBIS）同意向Reflection出售逾10亿美元的算力容量，合同期延伸至2029年。该协议宣布当日，Nebius股价随即下跌。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;通过上述SpaceX协议，Reflection同时获得了英伟达硬件的租用渠道，进一步深化了与英伟达的绑定关系。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年10月5日</title><link>https://wallstreetcn.com/articles/3782961</link><guid>6192bbe3b6a5f36571b22f51226fcff40134235488159ab07d7512fbef6a33f3</guid><pubDate>Sun, 04 Oct 2026 23:00:11 GMT</pubDate><description>华见早安之声
 
 &lt;p&gt;&lt;/p&gt;
 要闻精选
