@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 12:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 13:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] “重置之神”Tibo：我们又进入了“新AI时代”，市场还未理解这三大趋势</title><link>https://wallstreetcn.com/articles/3783012</link><guid>c49a5e8e474c8ea178baa954755b8eef325183017c899edd8be9cc529e1462bf</guid><pubDate>Mon, 05 Oct 2026 08:57:53 GMT</pubDate><description>&lt;p&gt;在一口气发布20多项新产品后，OpenAI核心高管Tibo向市场抛出了一份关于“新AI时代”的未来指引：当模型能力在一年内再跃升10倍，整个互联网的流量入口、交互逻辑和商业分发都将被Agent（智能体）彻底重构。&lt;/p&gt;
 &lt;p&gt;在刚刚结束的OpenAI DevDay（开发者大会）上，OpenAI一口气发布了20多项新产品。大会落幕后的数小时，领导ChatGPT、Codex以及最新个人智能体平台“Dots”的核心高管Tibo Sottiaux接受了深度访谈。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对市场对AI商业化落地节奏的关注，Tibo详细拆解了OpenAI的下一步棋。他明确指出，尽管市场对新平台“Dots”表现出极高的热情，但人们仍未对AI技术演进的“二阶效应”进行充分定价（Pricing in）。&lt;/p&gt;
@@ -358,61 +358,7 @@ PCB板块领涨，AI算力链量价共振
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;伦敦金属交易所铜期货&lt;/strong&gt;一度上涨0.9%，随后涨幅回落至0.6%，铜价在上周五创下3月以来最大单周跌幅。伦敦金属交易所（LME）锡价上涨0.2%，铝价持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;由于美国关税威胁导致贸易商向美国倾销数十万吨金属，可能挤压其他地区的供应。与此同时，数据中心和可再生能源的消费需求提振了价格。分析认为中国仍处黄金周假期，这一定程度上抑制了金属市场的流动性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街AI招聘从“造模型”转向“部署落地”，新型工程师成最抢手人才</title><link>https://wallstreetcn.com/articles/3783016</link><guid>46d7d24b70fc63a739c117df17eba1dd37b9039fa12644680ab198fa98e574b8</guid><pubDate>Mon, 05 Oct 2026 12:24:12 GMT</pubDate><description>&lt;p&gt;人工智能正在华尔街掀起新一轮人才争夺战，而这场争夺的焦点已从模型构建者转向能够将AI直接嵌入业务的复合型工程师。&lt;/p&gt;
-&lt;p&gt;10月4日，据企业招聘数据公司Draup独家提供给CNBC的分析显示，&lt;strong&gt;今年摩根大通、花旗集团、Capital One等银行发布的AI相关职位同比激增49%，达到139,819个。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其中，“Agent编排工程师”（agent orchestration）相关职位引用量今年暴增1,721%，成为金融业当下最炙手可热的职业之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一趋势表明，华尔街正加速从聊天机器人阶段迈向由多个AI智能体协同处理大量业务的下一阶段，对银行的员工结构、管理层战略和股东回报预期均产生深远影响。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生成式AI相关岗位的薪酬也明显高于金融业其他技术职位，生成式AI经理的基本薪资中位数约为19万美元。&lt;/strong&gt;&lt;/p&gt;
-
-“Agent编排”成最热技能，需求爆发式增长
-
-&lt;p&gt;Draup通过抓取领英等平台公开招聘信息进行分析。数据显示，涉及“Agent编排工程师”的职位引用量今年跳升1,721%。&lt;/p&gt;
-&lt;p&gt;所谓Agent编排，是指设计多个AI智能体协同完成任务的能力。&lt;strong&gt;例如，一个智能体负责审查原始数据，另一个分析文件，第三个核查合规性，三者协同运作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Draup首席执行官Vijay Swaminathan在接受采访时表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这可以说是华尔街当前最热门的技能，这是巨大的机遇。银行需要既懂数据、又懂AI，还清楚如何落地应用的人。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这一需求背后，是银行机构推动AI真正落地业务线的迫切意图。为兑现AI在提升生产效率、自动化重复性工作方面的承诺，各大银行正加快布局由AI智能体承担更多劳动力的未来图景。&lt;/p&gt;
-
-新兴角色崛起：前沿部署工程师成关键岗位
-
-&lt;p&gt;本轮招聘浪潮已明显超越早期以模型构建为主的工程师和数据科学家范畴，向“前沿部署工程师”（forward-deployed engineers）延伸。这类人才的核心职责是将AI直接嵌入交易台、合规部门及后台运营等具体业务场景。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vijay Swaminathan指出，这类岗位要求兼具技术能力与特定业务领域的专业知识，从交易台到后台运营乃至人力资源均有涉及，且任务复杂度远超预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vijay Swaminathan强调：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;企业内部存在大量复杂性，有些显而易见，但很多是隐性的。即便是自动化一个简单流程，也需要花费大量时间。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他以员工休假申请的自动审批为例说明：仅这一场景便会衍生出大量边缘情况和特殊例外。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;智能体编排技能与前沿部署工程师的工作高度契合，因为后者需要判断哪些智能体是必要的、各自承担什么职能、采用何种技术，并确定何时需要人工介入监督。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与智能体构建相关的底层技术工具需求同样大幅增长。&lt;/strong&gt;据Draup数据：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;用于构建多步骤工作流框架的LangGraph引用量跳升679%；&lt;/li&gt;
-&lt;li&gt;帮助AI应用连接数据源的LlamaIndex引用量上涨291%；&lt;/li&gt;
-&lt;li&gt;用于向AI模型输入企业数据库信息的检索增强生成技术（RAG）引用量攀升259%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，软性技能的重要性也在上升。&lt;/strong&gt;Vijay Swaminathan表示，Draup的分析显示，业界对解决问题、创造力、提出深层问题的能力以及对流程的深度理解等软性能力的关注正在重新强化。&lt;/p&gt;
-
-AI治理需求激增，相关职位引用量已超模型训练
-
-&lt;p&gt;&lt;strong&gt;随着AI系统在金融机构中的部署加深，围绕风险管控与合规治理的岗位需求同步爆发，且增速不亚于技术开发类职位。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Draup数据显示，今年职位发布中涉及“负责任AI”（responsible AI）的引用量激增657%，AI治理和风险管理相关引用量分别跳升394%和359%。&lt;/p&gt;
-&lt;p&gt;治理类技能的职位引用总量目前已超过16,000条，几乎是模型训练、部署和运维相关约8,400条引用量的两倍。&lt;/p&gt;
-&lt;p&gt;Vijay Swaminathan表示，安全团队当前的重点之一是防止第三方工具或外部模型接入产生系统性安全漏洞。Vijay Swaminathan说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;确保我们在这些产品中使用的第三方工具不会在网络安全层面&amp;#x27;失控&amp;#x27;，是目前的重要关注点。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-薪酬高企但人才缺口持续，银行押注内部再培训
-
-&lt;p&gt;尽管薪酬颇具吸引力，生成式AI经理基本薪资中位数约为19万美元，高于金融业其他技术岗位，但填补这些专业化职位仍面临挑战。&lt;/p&gt;
-&lt;p&gt;Vijay Swaminathan表示，为弥合人才缺口，各大银行正大力推进内部再培训项目，对现有开发人员和业务专家进行系统性技能升级。&lt;/p&gt;
-&lt;p&gt;这一AI建设浪潮本身也将产生连锁效应。摩根大通首席执行官杰米·戴蒙曾多次提及AI接管更多工作后的“大规模人员再部署计划”。&lt;/p&gt;
-&lt;p&gt;Vijay Swaminathan对此持相对乐观态度：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我认为，只要我们在正确的技术能力基础上优先培养软性技能，人们就能够适应和学习。对合适的人才而言，这是一个非常令人兴奋的时代。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元跌至17个月低位，法国和西班牙政治风险搅动市场</title><link>https://wallstreetcn.com/articles/3783024</link><guid>2eb37f070b2a27cf7494d7b03c46049b9c7f505896c5defc14ec1747fce6fcfa</guid><pubDate>Mon, 05 Oct 2026 12:52:13 GMT</pubDate><description>&lt;p&gt;欧元兑美元周一跌至17个月来最低水平，法国财政困局与西班牙政局突变的双重冲击令投资者加速撤离欧元区资产，欧洲主权债市场压力进一步升温。&lt;/p&gt;
+&lt;p&gt;由于美国关税威胁导致贸易商向美国倾销数十万吨金属，可能挤压其他地区的供应。与此同时，数据中心和可再生能源的消费需求提振了价格。分析认为中国仍处黄金周假期，这一定程度上抑制了金属市场的流动性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元跌至17个月低位，法国和西班牙政治风险搅动市场</title><link>https://wallstreetcn.com/articles/3783024</link><guid>2eb37f070b2a27cf7494d7b03c46049b9c7f505896c5defc14ec1747fce6fcfa</guid><pubDate>Mon, 05 Oct 2026 12:52:13 GMT</pubDate><description>&lt;p&gt;欧元兑美元周一跌至17个月来最低水平，法国财政困局与西班牙政局突变的双重冲击令投资者加速撤离欧元区资产，欧洲主权债市场压力进一步升温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;西班牙总理桑切斯周一宣布提前大选，住房危机引发的全国抗议成为导火索，令这一欧元区近年来经济表现相对亮眼的经济体骤添政治不确定性。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与此同时，法国预算草案未能说服市场，巴克莱与荷兰国际集团（ING）的经济学家均认为，该计划不足以从根本上解决法国结构性财政问题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;欧元兑美元周一最新跌幅达0.6%，数据显示触及2025年5月19日以来最低水平。&lt;/p&gt;
@@ -520,35 +466,61 @@ AI为何反而推高湿实验室需求
 &lt;blockquote&gt;
 &lt;p&gt;生物学可能成为AI下一个递归自我改进的前沿——在计算机中设计，在实验室中测试，将实验反馈转化为半合成训练数据，改进模型，周而复始。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行撤退、债券折价，AI建设潮的钱不好借了</title><link>https://wallstreetcn.com/articles/3783018</link><guid>fc5b6c8d57e0c2f49df26943ebcf9e1318ac664f6fde941cab88622c1c5a7d74</guid><pubDate>Mon, 05 Oct 2026 12:18:52 GMT</pubDate><description>&lt;p&gt;AI数据中心融资市场正在经历一场显著的信用收紧。债券投资者要求更高折价和更优厚条款，部分主要银行开始对项目贷款更加挑剔，叠加宏观利率压力与AI行业自身风险，这场建设热潮的融资成本正在快速攀升。&lt;/p&gt;
-&lt;p&gt;据科技媒体The information报道，&lt;strong&gt;最新的标志性案例来自CleanSpark。&lt;/strong&gt;这家正在为Meta Platforms开发数据中心的比特币矿企，本月早些时候以98.5美分的价格发行了23亿美元债券——这是过去一年中折价幅度最大的交易之一。&lt;strong&gt;7.875%的票息已属高位，发行方还额外承诺分期偿还本金以降低再融资风险。&lt;/strong&gt;据摩根士丹利数据，自7月以来的四笔高收益数据中心债券交易，全部以某种形式的折价出售；而此前12个月的前十笔交易中，仅三笔包含折价。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;银行贷款市场同样出现收缩迹象。&lt;/strong&gt;据报道，知情人士透露，法国兴业银行、三井住友银行和三菱银行等机构已对数据中心项目贷款变得更加审慎。与此同时，甲骨文新墨西哥州项目近期发出不可抗力通知，令贷款方对合同条款和贷款契约的审查进一步趋严。这些动态共同指向同一个风险：AI基础设施建设的融资链条正在承压，部分项目的扩张计划面临实质性威胁。&lt;/p&gt;
-折价成常态，投资者胃口今非昔比
-&lt;p&gt;&lt;strong&gt;高收益债券市场今年已累计售出约550亿美元AI相关债券&lt;/strong&gt;，供给规模庞大，而投资者的风险偏好却在悄然转变。&lt;/p&gt;
-&lt;p&gt;Manulife Investment Management固定收益投资组合经理Connor Minnaar表示，折价是&amp;quot;当前市场的新动向&amp;quot;。他指出，&amp;quot;年初时投资者对交易结构的接受度要高得多&amp;quot;，而现在这种宽容已明显收窄。&lt;/p&gt;
-&lt;p&gt;CleanSpark案例的特殊性在于，其最终用户Meta Platforms是一家投资级公司，这类背书过去通常足以给投资者提供充分信心。但此次投资者仍要求额外补偿，反映出市场对建设周期风险和项目执行风险的担忧已超越对租户信用的依赖。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;8月中旬，另一笔交易同样印证了这一趋势。&lt;/strong&gt;由Coatue Management旗下风险投资机构和基础设施初创公司Fluidstack支持的开发商Zenith Arc LLC，以99.5美分的折价发行债券，为一座将租赁给交易巨头Jane Street的数据中心融资。债券上市交易后，收益率进一步走高，投资者要求的补偿甚至超过了同等评级的老债券。&lt;/p&gt;
-银行贷款市场：银团收窄，甲骨文事件敲响警钟
-&lt;p&gt;&lt;strong&gt;银行贷款市场的收紧同样不容忽视。&lt;/strong&gt; 据两位知情人士透露，法国兴业银行、三井住友银行和三菱银行均已对参与数据中心项目贷款变得更加审慎。这三家银行此前均深度参与了AI基础设施的标志性融资：法国兴业银行牵头了OpenAI与甲骨文&amp;quot;星际之门&amp;quot;项目首个站点71亿美元的债务融资；三菱与摩根大通联合牵头了甲骨文另外两个项目共380亿美元的融资；三井住友则参与牵头了甲骨文新墨西哥州项目180亿美元的融资。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;甲骨文新墨西哥州项目近期的波折成为贷款方的一次警示。&lt;/strong&gt;上周，甲骨文向该项目开发商（Blue Owl Capital旗下公司）发出不可抗力通知，原因是项目遭遇电力供应延误。甲骨文试图援引合同条款，以不可控事件为由豁免或推迟其合同义务。&lt;/p&gt;
-&lt;p&gt;据报道，知情人士透露，该笔贷款从贷款方角度看&amp;quot;结构完善&amp;quot;，即便项目未能获得电力供应，甲骨文也无法借此免除租约付款义务。但一位银行家表示，甲骨文的不可抗力主张可能促使部分银行寻求更严格的保护条款或重新评估贷款风险，进一步压缩潜在的贷款供给。&lt;/p&gt;
-建设热潮仍在，但融资窗口正在收窄
-&lt;p&gt;&lt;strong&gt;市场参与者强调，目前尚无重大交易被迫撤回&lt;/strong&gt;，没有任何活跃的银团化进程因定价疲软而中止。项目开发商仍在承受高收益债券市场更高的融资成本，以维持项目推进。&lt;/p&gt;
-&lt;p&gt;Connor Minnaar表示：&amp;quot;目前这仍是一个关于让步条款的故事。对很多公司来说，这是一场尽快让尽可能多的产能上线的竞赛，融资成本的高低还在其次。&amp;quot;&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;折价常态化、银行银团收窄、IPO窗口不稳定&lt;/strong&gt;，三重压力叠加，正在重塑AI数据中心融资市场的格局。对于那些评级较低、开发经验有限或建设周期较长的项目而言，融资难度已实质性上升，AI建设热潮能否维持此前的扩张节奏，将越来越取决于融资市场的承受能力。&lt;/p&gt;
-超大规模科技公司&amp;quot;挤出&amp;quot;效应加剧市场压力
-&lt;p&gt;&lt;strong&gt;AI融资市场的压力并非单一来源，而是多重因素叠加的结果。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;亚马逊、谷歌和微软等超大规模科技公司今年资本支出合计预计约7000亿美元，并预计未来数年维持这一水平。这些公司今年已发行近1600亿美元投资级债券，大规模供给涌入市场。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;投资者持有超大规模科技公司债券所要求的额外收益率今年已上升约0.25个百分点&lt;/strong&gt;，而同期更广泛投资级市场的利差仅扩大0.04个百分点。尽管这些科技公司拥有庞大的经营现金流，但其债券的相对成本已在明显上升。&lt;/p&gt;
-&lt;p&gt;与此同时，部分大型科技公司将支出转移至其他融资主体，后者需在高收益债券市场自行筹资；为Anthropic和OpenAI等AI公司建设数据中心的开发商也在同一市场竞相融资，进一步加剧了供需失衡。&lt;/p&gt;
-宏观利率冲击与AI风险形成共振
-&lt;p&gt;&lt;strong&gt;国债收益率的上行为本已承压的市场再添变数。&lt;/strong&gt;美联储主席沃什上周表示，大规模科技债券发行对投资者形成&amp;quot;挤出效应&amp;quot;，是推动国债收益率上升的原因之一。&lt;/p&gt;
-&lt;p&gt;对数据中心开发商而言，国债收益率上升意味着风险项目必须提供更高的补偿才能吸引资金。&lt;/p&gt;
-&lt;p&gt;据报道，一位参与相关交易的银行家将这一转变描述为信用评级和项目质量上的&amp;quot;向上迁移&amp;quot;——过去愿意为建设周期长、开发商经验不足的项目承担风险以换取收益的投资者，如今可能转而选择在更安全的债券上获取相近回报。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;部分项目的融资成本已逼近盈亏临界点。&lt;/strong&gt;若项目所需回报率为12%，而借贷成本接近这一水平，利润空间将被压缩至项目在财务上难以为继的程度。&lt;/p&gt;
-IPO市场动荡，另一融资渠道同样承压
-&lt;p&gt;&lt;strong&gt;国债市场的波动也波及IPO市场，令AI公司的另一融资渠道前景不明。&lt;/strong&gt;据报道，Anthropic去年净亏损达420亿美元，其IPO草案文件显示计算和基础设施支出承诺超过5000亿美元，融资需求极为庞大。&lt;/p&gt;
-&lt;p&gt;正在为OpenAI和Anthropic开发数据中心容量的SB Energy和Nscale近期已公开IPO申请文件，但上市时间仍不明朗。Anthropic此前预计最早本月披露IPO申请，但截至目前尚未付诸行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 鸿海9月营收同比增长38.4%，前三季度累计增幅近四成</title><link>https://wallstreetcn.com/articles/3783011</link><guid>b42237fbaa9ab15b1482f655940847e694c2cdfa7e7f02ec2e0a2c2d4356bf57</guid><pubDate>Mon, 05 Oct 2026 07:55:11 GMT</pubDate><description>&lt;p&gt;受益于人工智能服务器需求强劲，鸿海精密工业股份有限公司9月营收实现强劲增长，延续全年高速扩张态势。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街AI招聘从“造模型”转向“部署落地”，新型工程师成最抢手人才</title><link>https://wallstreetcn.com/articles/3783016</link><guid>46d7d24b70fc63a739c117df17eba1dd37b9039fa12644680ab198fa98e574b8</guid><pubDate>Mon, 05 Oct 2026 12:24:12 GMT</pubDate><description>&lt;p&gt;人工智能正在华尔街掀起新一轮人才争夺战，而这场争夺的焦点已从模型构建者转向能够将AI直接嵌入业务的复合型工程师。&lt;/p&gt;
+&lt;p&gt;10月4日，据企业招聘数据公司Draup独家提供给CNBC的分析显示，&lt;strong&gt;今年摩根大通、花旗集团、Capital One等银行发布的AI相关职位同比激增49%，达到139,819个。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其中，“Agent编排工程师”（agent orchestration）相关职位引用量今年暴增1,721%，成为金融业当下最炙手可热的职业之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一趋势表明，华尔街正加速从聊天机器人阶段迈向由多个AI智能体协同处理大量业务的下一阶段，对银行的员工结构、管理层战略和股东回报预期均产生深远影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生成式AI相关岗位的薪酬也明显高于金融业其他技术职位，生成式AI经理的基本薪资中位数约为19万美元。&lt;/strong&gt;&lt;/p&gt;
+
+“Agent编排”成最热技能，需求爆发式增长
+
+&lt;p&gt;Draup通过抓取领英等平台公开招聘信息进行分析。数据显示，涉及“Agent编排工程师”的职位引用量今年跳升1,721%。&lt;/p&gt;
+&lt;p&gt;所谓Agent编排，是指设计多个AI智能体协同完成任务的能力。&lt;strong&gt;例如，一个智能体负责审查原始数据，另一个分析文件，第三个核查合规性，三者协同运作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Draup首席执行官Vijay Swaminathan在接受采访时表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这可以说是华尔街当前最热门的技能，这是巨大的机遇。银行需要既懂数据、又懂AI，还清楚如何落地应用的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这一需求背后，是银行机构推动AI真正落地业务线的迫切意图。为兑现AI在提升生产效率、自动化重复性工作方面的承诺，各大银行正加快布局由AI智能体承担更多劳动力的未来图景。&lt;/p&gt;
+
+新兴角色崛起：前沿部署工程师成关键岗位
+
+&lt;p&gt;本轮招聘浪潮已明显超越早期以模型构建为主的工程师和数据科学家范畴，向“前沿部署工程师”（forward-deployed engineers）延伸。这类人才的核心职责是将AI直接嵌入交易台、合规部门及后台运营等具体业务场景。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vijay Swaminathan指出，这类岗位要求兼具技术能力与特定业务领域的专业知识，从交易台到后台运营乃至人力资源均有涉及，且任务复杂度远超预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vijay Swaminathan强调：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;企业内部存在大量复杂性，有些显而易见，但很多是隐性的。即便是自动化一个简单流程，也需要花费大量时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他以员工休假申请的自动审批为例说明：仅这一场景便会衍生出大量边缘情况和特殊例外。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;智能体编排技能与前沿部署工程师的工作高度契合，因为后者需要判断哪些智能体是必要的、各自承担什么职能、采用何种技术，并确定何时需要人工介入监督。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与智能体构建相关的底层技术工具需求同样大幅增长。&lt;/strong&gt;据Draup数据：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;用于构建多步骤工作流框架的LangGraph引用量跳升679%；&lt;/li&gt;
+&lt;li&gt;帮助AI应用连接数据源的LlamaIndex引用量上涨291%；&lt;/li&gt;
+&lt;li&gt;用于向AI模型输入企业数据库信息的检索增强生成技术（RAG）引用量攀升259%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，软性技能的重要性也在上升。&lt;/strong&gt;Vijay Swaminathan表示，Draup的分析显示，业界对解决问题、创造力、提出深层问题的能力以及对流程的深度理解等软性能力的关注正在重新强化。&lt;/p&gt;
+
+AI治理需求激增，相关职位引用量已超模型训练
+
+&lt;p&gt;&lt;strong&gt;随着AI系统在金融机构中的部署加深，围绕风险管控与合规治理的岗位需求同步爆发，且增速不亚于技术开发类职位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Draup数据显示，今年职位发布中涉及“负责任AI”（responsible AI）的引用量激增657%，AI治理和风险管理相关引用量分别跳升394%和359%。&lt;/p&gt;
+&lt;p&gt;治理类技能的职位引用总量目前已超过16,000条，几乎是模型训练、部署和运维相关约8,400条引用量的两倍。&lt;/p&gt;
+&lt;p&gt;Vijay Swaminathan表示，安全团队当前的重点之一是防止第三方工具或外部模型接入产生系统性安全漏洞。Vijay Swaminathan说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;确保我们在这些产品中使用的第三方工具不会在网络安全层面&amp;#x27;失控&amp;#x27;，是目前的重要关注点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+薪酬高企但人才缺口持续，银行押注内部再培训
+
+&lt;p&gt;尽管薪酬颇具吸引力，生成式AI经理基本薪资中位数约为19万美元，高于金融业其他技术岗位，但填补这些专业化职位仍面临挑战。&lt;/p&gt;
+&lt;p&gt;Vijay Swaminathan表示，为弥合人才缺口，各大银行正大力推进内部再培训项目，对现有开发人员和业务专家进行系统性技能升级。&lt;/p&gt;
+&lt;p&gt;这一AI建设浪潮本身也将产生连锁效应。摩根大通首席执行官杰米·戴蒙曾多次提及AI接管更多工作后的“大规模人员再部署计划”。&lt;/p&gt;
+&lt;p&gt;Vijay Swaminathan对此持相对乐观态度：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我认为，只要我们在正确的技术能力基础上优先培养软性技能，人们就能够适应和学习。对合适的人才而言，这是一个非常令人兴奋的时代。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 鸿海9月营收同比增长38.4%，前三季度累计增幅近四成</title><link>https://wallstreetcn.com/articles/3783011</link><guid>b42237fbaa9ab15b1482f655940847e694c2cdfa7e7f02ec2e0a2c2d4356bf57</guid><pubDate>Mon, 05 Oct 2026 07:55:11 GMT</pubDate><description>&lt;p&gt;受益于人工智能服务器需求强劲，鸿海精密工业股份有限公司9月营收实现强劲增长，延续全年高速扩张态势。&lt;/p&gt;
 &lt;p&gt;10月5日，鸿海公布财务数据显示，&lt;strong&gt;9月单月营收&lt;/strong&gt;1.16万亿元台币，同比增长38.4％。&lt;strong&gt;第三季度营收&lt;/strong&gt;约为新台币3.027万亿元、约955亿美元，&lt;strong&gt;同比增长47%，高于分析师平均预期的2.83万亿元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从累计数据来看，鸿海今年&lt;strong&gt;前九个月营收&lt;/strong&gt;达新台币7.67万亿元，年增幅达39.5%，增长势头较为稳健。公司同时表示，&lt;strong&gt;预计第四季度AI相关业务将延续增长态势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;鸿海强劲的营收数据与美光科技上周发布的乐观业绩预测相互印证，进一步佐证AI投资浪潮并未消退。鸿海股价年初至今累计上涨约10%。&lt;/p&gt;
@@ -667,7 +639,35 @@ AI已深度嵌入AI研发流水线
 &lt;p&gt;论文以一句话作结：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;“一旦智能爆炸开始，行动的窗口期可能随之关闭。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特对亚洲原油售价降至六年最低，11月售价较基准低5美元</title><link>https://wallstreetcn.com/articles/3783007</link><guid>c056ef821d3f5614ebd3a8a9df24d6bfa7b66bcfa21c10a0c87bd3b6998a93e9</guid><pubDate>Mon, 05 Oct 2026 07:59:08 GMT</pubDate><description>&lt;p&gt;全球最大原油出口国正积极争夺亚洲市场份额，沙特阿美将对亚洲买家的阿拉伯轻质原油官方售价下调至六年低点，此举出乎市场预料。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行撤退、债券折价，AI建设潮的钱不好借了</title><link>https://wallstreetcn.com/articles/3783018</link><guid>fc5b6c8d57e0c2f49df26943ebcf9e1318ac664f6fde941cab88622c1c5a7d74</guid><pubDate>Mon, 05 Oct 2026 12:18:52 GMT</pubDate><description>&lt;p&gt;AI数据中心融资市场正在经历一场显著的信用收紧。债券投资者要求更高折价和更优厚条款，部分主要银行开始对项目贷款更加挑剔，叠加宏观利率压力与AI行业自身风险，这场建设热潮的融资成本正在快速攀升。&lt;/p&gt;
+&lt;p&gt;据科技媒体The information报道，&lt;strong&gt;最新的标志性案例来自CleanSpark。&lt;/strong&gt;这家正在为Meta Platforms开发数据中心的比特币矿企，本月早些时候以98.5美分的价格发行了23亿美元债券——这是过去一年中折价幅度最大的交易之一。&lt;strong&gt;7.875%的票息已属高位，发行方还额外承诺分期偿还本金以降低再融资风险。&lt;/strong&gt;据摩根士丹利数据，自7月以来的四笔高收益数据中心债券交易，全部以某种形式的折价出售；而此前12个月的前十笔交易中，仅三笔包含折价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;银行贷款市场同样出现收缩迹象。&lt;/strong&gt;据报道，知情人士透露，法国兴业银行、三井住友银行和三菱银行等机构已对数据中心项目贷款变得更加审慎。与此同时，甲骨文新墨西哥州项目近期发出不可抗力通知，令贷款方对合同条款和贷款契约的审查进一步趋严。这些动态共同指向同一个风险：AI基础设施建设的融资链条正在承压，部分项目的扩张计划面临实质性威胁。&lt;/p&gt;
+折价成常态，投资者胃口今非昔比
+&lt;p&gt;&lt;strong&gt;高收益债券市场今年已累计售出约550亿美元AI相关债券&lt;/strong&gt;，供给规模庞大，而投资者的风险偏好却在悄然转变。&lt;/p&gt;
+&lt;p&gt;Manulife Investment Management固定收益投资组合经理Connor Minnaar表示，折价是&amp;quot;当前市场的新动向&amp;quot;。他指出，&amp;quot;年初时投资者对交易结构的接受度要高得多&amp;quot;，而现在这种宽容已明显收窄。&lt;/p&gt;
+&lt;p&gt;CleanSpark案例的特殊性在于，其最终用户Meta Platforms是一家投资级公司，这类背书过去通常足以给投资者提供充分信心。但此次投资者仍要求额外补偿，反映出市场对建设周期风险和项目执行风险的担忧已超越对租户信用的依赖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月中旬，另一笔交易同样印证了这一趋势。&lt;/strong&gt;由Coatue Management旗下风险投资机构和基础设施初创公司Fluidstack支持的开发商Zenith Arc LLC，以99.5美分的折价发行债券，为一座将租赁给交易巨头Jane Street的数据中心融资。债券上市交易后，收益率进一步走高，投资者要求的补偿甚至超过了同等评级的老债券。&lt;/p&gt;
+银行贷款市场：银团收窄，甲骨文事件敲响警钟
+&lt;p&gt;&lt;strong&gt;银行贷款市场的收紧同样不容忽视。&lt;/strong&gt; 据两位知情人士透露，法国兴业银行、三井住友银行和三菱银行均已对参与数据中心项目贷款变得更加审慎。这三家银行此前均深度参与了AI基础设施的标志性融资：法国兴业银行牵头了OpenAI与甲骨文&amp;quot;星际之门&amp;quot;项目首个站点71亿美元的债务融资；三菱与摩根大通联合牵头了甲骨文另外两个项目共380亿美元的融资；三井住友则参与牵头了甲骨文新墨西哥州项目180亿美元的融资。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;甲骨文新墨西哥州项目近期的波折成为贷款方的一次警示。&lt;/strong&gt;上周，甲骨文向该项目开发商（Blue Owl Capital旗下公司）发出不可抗力通知，原因是项目遭遇电力供应延误。甲骨文试图援引合同条款，以不可控事件为由豁免或推迟其合同义务。&lt;/p&gt;
+&lt;p&gt;据报道，知情人士透露，该笔贷款从贷款方角度看&amp;quot;结构完善&amp;quot;，即便项目未能获得电力供应，甲骨文也无法借此免除租约付款义务。但一位银行家表示，甲骨文的不可抗力主张可能促使部分银行寻求更严格的保护条款或重新评估贷款风险，进一步压缩潜在的贷款供给。&lt;/p&gt;
+建设热潮仍在，但融资窗口正在收窄
+&lt;p&gt;&lt;strong&gt;市场参与者强调，目前尚无重大交易被迫撤回&lt;/strong&gt;，没有任何活跃的银团化进程因定价疲软而中止。项目开发商仍在承受高收益债券市场更高的融资成本，以维持项目推进。&lt;/p&gt;
+&lt;p&gt;Connor Minnaar表示：&amp;quot;目前这仍是一个关于让步条款的故事。对很多公司来说，这是一场尽快让尽可能多的产能上线的竞赛，融资成本的高低还在其次。&amp;quot;&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;折价常态化、银行银团收窄、IPO窗口不稳定&lt;/strong&gt;，三重压力叠加，正在重塑AI数据中心融资市场的格局。对于那些评级较低、开发经验有限或建设周期较长的项目而言，融资难度已实质性上升，AI建设热潮能否维持此前的扩张节奏，将越来越取决于融资市场的承受能力。&lt;/p&gt;
+超大规模科技公司&amp;quot;挤出&amp;quot;效应加剧市场压力
+&lt;p&gt;&lt;strong&gt;AI融资市场的压力并非单一来源，而是多重因素叠加的结果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;亚马逊、谷歌和微软等超大规模科技公司今年资本支出合计预计约7000亿美元，并预计未来数年维持这一水平。这些公司今年已发行近1600亿美元投资级债券，大规模供给涌入市场。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;投资者持有超大规模科技公司债券所要求的额外收益率今年已上升约0.25个百分点&lt;/strong&gt;，而同期更广泛投资级市场的利差仅扩大0.04个百分点。尽管这些科技公司拥有庞大的经营现金流，但其债券的相对成本已在明显上升。&lt;/p&gt;
+&lt;p&gt;与此同时，部分大型科技公司将支出转移至其他融资主体，后者需在高收益债券市场自行筹资；为Anthropic和OpenAI等AI公司建设数据中心的开发商也在同一市场竞相融资，进一步加剧了供需失衡。&lt;/p&gt;
+宏观利率冲击与AI风险形成共振
+&lt;p&gt;&lt;strong&gt;国债收益率的上行为本已承压的市场再添变数。&lt;/strong&gt;美联储主席沃什上周表示，大规模科技债券发行对投资者形成&amp;quot;挤出效应&amp;quot;，是推动国债收益率上升的原因之一。&lt;/p&gt;
+&lt;p&gt;对数据中心开发商而言，国债收益率上升意味着风险项目必须提供更高的补偿才能吸引资金。&lt;/p&gt;
+&lt;p&gt;据报道，一位参与相关交易的银行家将这一转变描述为信用评级和项目质量上的&amp;quot;向上迁移&amp;quot;——过去愿意为建设周期长、开发商经验不足的项目承担风险以换取收益的投资者，如今可能转而选择在更安全的债券上获取相近回报。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;部分项目的融资成本已逼近盈亏临界点。&lt;/strong&gt;若项目所需回报率为12%，而借贷成本接近这一水平，利润空间将被压缩至项目在财务上难以为继的程度。&lt;/p&gt;
+IPO市场动荡，另一融资渠道同样承压
+&lt;p&gt;&lt;strong&gt;国债市场的波动也波及IPO市场，令AI公司的另一融资渠道前景不明。&lt;/strong&gt;据报道，Anthropic去年净亏损达420亿美元，其IPO草案文件显示计算和基础设施支出承诺超过5000亿美元，融资需求极为庞大。&lt;/p&gt;
+&lt;p&gt;正在为OpenAI和Anthropic开发数据中心容量的SB Energy和Nscale近期已公开IPO申请文件，但上市时间仍不明朗。Anthropic此前预计最早本月披露IPO申请，但截至目前尚未付诸行动。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特对亚洲原油售价降至六年最低，11月售价较基准低5美元</title><link>https://wallstreetcn.com/articles/3783007</link><guid>c056ef821d3f5614ebd3a8a9df24d6bfa7b66bcfa21c10a0c87bd3b6998a93e9</guid><pubDate>Mon, 05 Oct 2026 07:59:08 GMT</pubDate><description>&lt;p&gt;全球最大原油出口国正积极争夺亚洲市场份额，沙特阿美将对亚洲买家的阿拉伯轻质原油官方售价下调至六年低点，此举出乎市场预料。&lt;/p&gt;
 &lt;p&gt;近期沙特阿美宣布，&lt;strong&gt;11月份对亚洲买家的阿拉伯轻质原油定价较区域基准价折让5美元/桶，较10月份2美元/桶的折扣幅度大幅扩大&lt;/strong&gt;。这一价格调整远超市场预期，据彭博此前调查，&lt;strong&gt;市场原本预计沙特将上调亚洲售价约5美元/桶。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与对亚洲的大幅降价形成对比，沙特阿美同步将对欧洲买家的11月售价上调3美元/桶，对美国买家的定价则维持不变&lt;/strong&gt;。据摩根大通估算，中东原油出口量已恢复至战前水平的98%，波斯湾产油国加速向市场输送供应。&lt;/p&gt;
 
