@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 22:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 22:25:42 GMT</pubDate><description>&lt;p&gt;尽管通胀粘性与地缘危机推升长端美债收益率至数十年高位，显著紧缩了市场金融条件，但对极少数巨头长期盈利的极度乐观，仍驱动纳斯达克100指数刷新历史新高、标普500逼近纪录高位。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 22:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 22:24:01 GMT</pubDate><description>&lt;p&gt;尽管通胀粘性与地缘危机推升长端美债收益率至数十年高位，显著紧缩了市场金融条件，但对极少数巨头长期盈利的极度乐观，仍驱动纳斯达克100指数刷新历史新高、标普500逼近纪录高位。&lt;/p&gt;
 &lt;p&gt;“盈利预期”与“趋紧金融条件”的矛盾，导致市场结构极度分化，超过八成的罗素3000成分股已跌破50日均线，投资者正被迫将风险敞口避险式地压缩至极少数头部标的中。&lt;/p&gt;
 &lt;p&gt;（美股基准股指日内走势）&lt;/p&gt;
 &lt;p&gt;美股道指涨0.18%报51267.90点，标普500涨0.66%报7773.95点，纳指综合涨1.05%报27477.31点，创历史新高收盘。&lt;/p&gt;
@@ -34,7 +34,6 @@
 &lt;p&gt;人人都在担心什么，但现在交易员选择的应对方式是减少敞口。&lt;/p&gt;
 &lt;/blockquote&gt;
 长端美债收益率触及数十年高位，期限溢价持续攀升
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783025"&gt;据华尔街见闻&lt;/a&gt;，美国9月ISM服务业PMI录得54.9，低于前值与市场预期，在连续两个月上升后出现扩张放缓，但服务业价格指数从72.6升至74.0，创下四年新高，叠加制造业端同步抬升的通胀压力，意味着美国通胀粘性进一步增强，美联储维持高利率的时间大概率会超出市场此前的预期。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10年期美债收益率&lt;/strong&gt;当日最高触及5.34%，&lt;strong&gt;30年期&lt;/strong&gt;最高触及5.70%，分别创2002年以来新高，两者均上行至少7个基点，&lt;strong&gt;短端收益率&lt;/strong&gt;则在午后因油价下跌而有所回落，涨幅收窄至2至4个基点。&lt;/p&gt;
 &lt;p&gt;（美国主要期限国债收益率日内走势）&lt;/p&gt;
@@ -303,30 +302,7 @@ AI治理需求激增，相关职位引用量已超模型训练
 &lt;p&gt;Vijay Swaminathan对此持相对乐观态度：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我认为，只要我们在正确的技术能力基础上优先培养软性技能，人们就能够适应和学习。对合适的人才而言，这是一个非常令人兴奋的时代。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI遭商标侵权诉讼，"Astra"名称引发法律纠纷</title><link>https://wallstreetcn.com/articles/3783030</link><guid>f27e52bf46c39aaf466209ba16b7926bc149001f8dfe6b99f053c60547c95b10</guid><pubDate>Mon, 05 Oct 2026 19:32:18 GMT</pubDate><description>&lt;p&gt;OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用&amp;quot;Astra&amp;quot;商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。&lt;/p&gt;
-&lt;p&gt;据彭博报道，TradeSun已于周一在加利福尼亚州北区联邦地区法院提起诉讼。该公司自2021年起以Astra为品牌销售软件产品，并于2022年获得联邦商标注册，注册范围涵盖AI软件服务。&lt;/p&gt;
-&lt;p&gt;TradeSun认为，OpenAI上月发布的GPT-6 Astra正在向消费者传递&amp;quot;Astra即OpenAI&amp;quot;的品牌认知，构成典型的&amp;quot;反向混淆&amp;quot;侵权。&lt;/p&gt;
-&lt;p&gt;OpenAI一名发言人通过电子邮件回应称：&amp;quot;这份诉状毫无任何依据，我们将继续专注于负责任地构建惠及所有人的技术。&amp;quot;此案是OpenAI在同一法院面临的最新一起商标诉讼，对其品牌战略和产品命名实践构成持续压力。&lt;/p&gt;
-
-指控核心：反向混淆与市场混淆风险
-
-&lt;p&gt;TradeSun在诉状中援引&amp;quot;反向混淆&amp;quot;理论，即较大的被告方侵占了规模较小的原告方商标，导致消费者误认为小公司的产品实为大公司所出或得到其授权。&lt;/p&gt;
-&lt;p&gt;诉状指出，消费者在遭遇TradeSun的ASTRA品牌时，如今很可能误以为该产品属于OpenAI旗下、基于OpenAI模型构建，或获得OpenAI的赞助与认可。&lt;/p&gt;
-&lt;p&gt;更糟糕的情况是，消费者可能将TradeSun视为企图蹭OpenAI&amp;quot;Astra&amp;quot;品牌的模仿者。&lt;/p&gt;
-&lt;p&gt;TradeSun进一步指出，两家公司服务的客户群体高度重叠——OpenAI的Astra同样面向银行、金融机构及企业客户，提供包括商业文件解读、数据提取与核对、风险筛查以及多步骤工作流自动化等服务，与TradeSun多年来的业务范畴几乎一致。&lt;/p&gt;
-
-OpenAI商标争议再添新案
-
-&lt;p&gt;此次诉讼并非OpenAI首次在商标问题上陷入法律困境。&lt;/p&gt;
-&lt;p&gt;今年2月，一名联邦法官禁止OpenAI在已停用的Sora视频生成工具的相关功能中使用&amp;quot;cameo&amp;quot;名称；两个月后，另一名法官又叫停了其在AI设备上使用&amp;quot;io&amp;quot;品牌。&amp;quot;io&amp;quot;案已于7月达成和解，&amp;quot;cameo&amp;quot;案则仍在审理中。&lt;/p&gt;
-&lt;p&gt;上述一系列诉讼均发生在加利福尼亚州北区联邦地区法院，反映出这家AI巨头在产品快速迭代过程中面临的品牌合规风险。&lt;/p&gt;
-&lt;p&gt;TradeSun方面认为，OpenAI作为在商标注册与维权方面拥有丰富经验的成熟公司，本可轻易检索到TradeSun的Astra注册信息，却选择径自使用，难辞其咎。&lt;/p&gt;
-
-原告：五年品牌投入不容侵占
-
-&lt;p&gt;TradeSun创始人兼首席执行官Nigel Hook在声明中表示：&lt;/p&gt;
-&lt;p&gt;&amp;quot;TradeSun从零开始打造ASTRA，五年多来我们持续投入于技术研发、客户维护和品牌建设。我们努力构建了一个让客户在每一笔交易中都值得信赖的产品和品牌。成为全球最大科技公司之一，并不赋予OpenAI使用我们商标的权利。&amp;quot;&lt;/p&gt;
-&lt;p&gt;TradeSun在诉讼中请求法院裁定OpenAI构成商标侵权，责令其从所有产品中移除&amp;quot;Astra&amp;quot;名称，并判令OpenAI将因侵权所获利润悉数赔付给原告。该公司由Trial Lawyers for Justice及Ana Law LLC提供法律代理。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元跌至17个月低位，法国和西班牙政治风险搅动市场</title><link>https://wallstreetcn.com/articles/3783024</link><guid>2eb37f070b2a27cf7494d7b03c46049b9c7f505896c5defc14ec1747fce6fcfa</guid><pubDate>Mon, 05 Oct 2026 12:52:13 GMT</pubDate><description>&lt;p&gt;欧元兑美元周一跌至17个月来最低水平，法国财政困局与西班牙政局突变的双重冲击令投资者加速撤离欧元区资产，欧洲主权债市场压力进一步升温。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元跌至17个月低位，法国和西班牙政治风险搅动市场</title><link>https://wallstreetcn.com/articles/3783024</link><guid>2eb37f070b2a27cf7494d7b03c46049b9c7f505896c5defc14ec1747fce6fcfa</guid><pubDate>Mon, 05 Oct 2026 12:52:13 GMT</pubDate><description>&lt;p&gt;欧元兑美元周一跌至17个月来最低水平，法国财政困局与西班牙政局突变的双重冲击令投资者加速撤离欧元区资产，欧洲主权债市场压力进一步升温。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;西班牙总理桑切斯周一宣布提前大选，住房危机引发的全国抗议成为导火索，令这一欧元区近年来经济表现相对亮眼的经济体骤添政治不确定性。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;与此同时，法国预算草案未能说服市场，巴克莱与荷兰国际集团（ING）的经济学家均认为，该计划不足以从根本上解决法国结构性财政问题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;欧元兑美元周一最新跌幅达0.6%，数据显示触及2025年5月19日以来最低水平。&lt;/p&gt;
@@ -414,7 +390,30 @@ AI已深度嵌入AI研发流水线
 &lt;p&gt;论文以一句话作结：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;“一旦智能爆炸开始，行动的窗口期可能随之关闭。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行撤退、债券折价，AI建设潮的钱不好借了</title><link>https://wallstreetcn.com/articles/3783018</link><guid>fc5b6c8d57e0c2f49df26943ebcf9e1318ac664f6fde941cab88622c1c5a7d74</guid><pubDate>Mon, 05 Oct 2026 12:18:52 GMT</pubDate><description>&lt;p&gt;AI数据中心融资市场正在经历一场显著的信用收紧。债券投资者要求更高折价和更优厚条款，部分主要银行开始对项目贷款更加挑剔，叠加宏观利率压力与AI行业自身风险，这场建设热潮的融资成本正在快速攀升。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI遭商标侵权诉讼，"Astra"名称引发法律纠纷</title><link>https://wallstreetcn.com/articles/3783030</link><guid>f27e52bf46c39aaf466209ba16b7926bc149001f8dfe6b99f053c60547c95b10</guid><pubDate>Mon, 05 Oct 2026 19:32:18 GMT</pubDate><description>&lt;p&gt;OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用&amp;quot;Astra&amp;quot;商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。&lt;/p&gt;
+&lt;p&gt;据彭博报道，TradeSun已于周一在加利福尼亚州北区联邦地区法院提起诉讼。该公司自2021年起以Astra为品牌销售软件产品，并于2022年获得联邦商标注册，注册范围涵盖AI软件服务。&lt;/p&gt;
+&lt;p&gt;TradeSun认为，OpenAI上月发布的GPT-6 Astra正在向消费者传递&amp;quot;Astra即OpenAI&amp;quot;的品牌认知，构成典型的&amp;quot;反向混淆&amp;quot;侵权。&lt;/p&gt;
+&lt;p&gt;OpenAI一名发言人通过电子邮件回应称：&amp;quot;这份诉状毫无任何依据，我们将继续专注于负责任地构建惠及所有人的技术。&amp;quot;此案是OpenAI在同一法院面临的最新一起商标诉讼，对其品牌战略和产品命名实践构成持续压力。&lt;/p&gt;
+
+指控核心：反向混淆与市场混淆风险
+
+&lt;p&gt;TradeSun在诉状中援引&amp;quot;反向混淆&amp;quot;理论，即较大的被告方侵占了规模较小的原告方商标，导致消费者误认为小公司的产品实为大公司所出或得到其授权。&lt;/p&gt;
+&lt;p&gt;诉状指出，消费者在遭遇TradeSun的ASTRA品牌时，如今很可能误以为该产品属于OpenAI旗下、基于OpenAI模型构建，或获得OpenAI的赞助与认可。&lt;/p&gt;
+&lt;p&gt;更糟糕的情况是，消费者可能将TradeSun视为企图蹭OpenAI&amp;quot;Astra&amp;quot;品牌的模仿者。&lt;/p&gt;
+&lt;p&gt;TradeSun进一步指出，两家公司服务的客户群体高度重叠——OpenAI的Astra同样面向银行、金融机构及企业客户，提供包括商业文件解读、数据提取与核对、风险筛查以及多步骤工作流自动化等服务，与TradeSun多年来的业务范畴几乎一致。&lt;/p&gt;
+
+OpenAI商标争议再添新案
+
+&lt;p&gt;此次诉讼并非OpenAI首次在商标问题上陷入法律困境。&lt;/p&gt;
+&lt;p&gt;今年2月，一名联邦法官禁止OpenAI在已停用的Sora视频生成工具的相关功能中使用&amp;quot;cameo&amp;quot;名称；两个月后，另一名法官又叫停了其在AI设备上使用&amp;quot;io&amp;quot;品牌。&amp;quot;io&amp;quot;案已于7月达成和解，&amp;quot;cameo&amp;quot;案则仍在审理中。&lt;/p&gt;
+&lt;p&gt;上述一系列诉讼均发生在加利福尼亚州北区联邦地区法院，反映出这家AI巨头在产品快速迭代过程中面临的品牌合规风险。&lt;/p&gt;
+&lt;p&gt;TradeSun方面认为，OpenAI作为在商标注册与维权方面拥有丰富经验的成熟公司，本可轻易检索到TradeSun的Astra注册信息，却选择径自使用，难辞其咎。&lt;/p&gt;
+
+原告：五年品牌投入不容侵占
+
+&lt;p&gt;TradeSun创始人兼首席执行官Nigel Hook在声明中表示：&lt;/p&gt;
+&lt;p&gt;&amp;quot;TradeSun从零开始打造ASTRA，五年多来我们持续投入于技术研发、客户维护和品牌建设。我们努力构建了一个让客户在每一笔交易中都值得信赖的产品和品牌。成为全球最大科技公司之一，并不赋予OpenAI使用我们商标的权利。&amp;quot;&lt;/p&gt;
+&lt;p&gt;TradeSun在诉讼中请求法院裁定OpenAI构成商标侵权，责令其从所有产品中移除&amp;quot;Astra&amp;quot;名称，并判令OpenAI将因侵权所获利润悉数赔付给原告。该公司由Trial Lawyers for Justice及Ana Law LLC提供法律代理。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行撤退、债券折价，AI建设潮的钱不好借了</title><link>https://wallstreetcn.com/articles/3783018</link><guid>fc5b6c8d57e0c2f49df26943ebcf9e1318ac664f6fde941cab88622c1c5a7d74</guid><pubDate>Mon, 05 Oct 2026 12:18:52 GMT</pubDate><description>&lt;p&gt;AI数据中心融资市场正在经历一场显著的信用收紧。债券投资者要求更高折价和更优厚条款，部分主要银行开始对项目贷款更加挑剔，叠加宏观利率压力与AI行业自身风险，这场建设热潮的融资成本正在快速攀升。&lt;/p&gt;
 &lt;p&gt;据科技媒体The information报道，&lt;strong&gt;最新的标志性案例来自CleanSpark。&lt;/strong&gt;这家正在为Meta Platforms开发数据中心的比特币矿企，本月早些时候以98.5美分的价格发行了23亿美元债券——这是过去一年中折价幅度最大的交易之一。&lt;strong&gt;7.875%的票息已属高位，发行方还额外承诺分期偿还本金以降低再融资风险。&lt;/strong&gt;据摩根士丹利数据，自7月以来的四笔高收益数据中心债券交易，全部以某种形式的折价出售；而此前12个月的前十笔交易中，仅三笔包含折价。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;银行贷款市场同样出现收缩迹象。&lt;/strong&gt;据报道，知情人士透露，法国兴业银行、三井住友银行和三菱银行等机构已对数据中心项目贷款变得更加审慎。与此同时，甲骨文新墨西哥州项目近期发出不可抗力通知，令贷款方对合同条款和贷款契约的审查进一步趋严。这些动态共同指向同一个风险：AI基础设施建设的融资链条正在承压，部分项目的扩张计划面临实质性威胁。&lt;/p&gt;
 折价成常态，投资者胃口今非昔比
