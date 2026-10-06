@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 06 Oct 2026 04:29:07 GMT</lastBuildDate><item><title>[华尔街见闻] 台积电抢英特尔市场、磋商与马斯克Terafab合作，股价创历史新高</title><link>https://wallstreetcn.com/articles/3783037</link><guid>fb893de157acef45e5b608e81913dacc105e8a64cd37fa06247f20e610ccc222</guid><pubDate>Tue, 06 Oct 2026 00:16:43 GMT</pubDate><description>&lt;p&gt;台积电与马斯克旗下Terafab超级晶圆厂的潜在合作正成为半导体行业最受瞩目的交易。业内人士估计双方合作概率超过八成，市场已率先作出反应。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 06 Oct 2026 04:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 台积电抢英特尔市场、磋商与马斯克Terafab合作，股价创历史新高</title><link>https://wallstreetcn.com/articles/3783037</link><guid>fb893de157acef45e5b608e81913dacc105e8a64cd37fa06247f20e610ccc222</guid><pubDate>Tue, 06 Oct 2026 00:16:43 GMT</pubDate><description>&lt;p&gt;台积电与马斯克旗下Terafab超级晶圆厂的潜在合作正成为半导体行业最受瞩目的交易。业内人士估计双方合作概率超过八成，市场已率先作出反应。&lt;/p&gt;
 &lt;p&gt;周一，台积电美股（TSM）盘中触及487.44美元的历史高点，收盘涨约2.8%，报485.80美元、也收创历史新高，市值史上首次触及约2.5万亿美元，今年内累计涨幅超过60%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本次台积电股价走高的推手来自马斯克本人。他在社交媒体平台X上亲自证实，与台积电正就Terafab项目展开初步讨论，称&amp;quot;只是讨论，但或许会有结果&amp;quot;。台积电官方则维持一贯低调，未作任何公开回应。&lt;/p&gt;
@@ -126,24 +126,7 @@
 原油波动率成为新的&amp;quot;沉睡VIX&amp;quot;
 &lt;p&gt;高盛第二位交易员的核心判断是：原油波动率正在扮演沉睡VIX的角色，而MOVE指数却在爆炸式上升，这使得原油上行成为一个无人定价的尾部风险。&lt;/p&gt;
 &lt;p&gt;据美银数据，MOVE指数9月已升至100，为伊朗战争3月爆发以来最高水平，1个月×10年期隐含利率波动率在9月23日利率冲击后跳升至3月以来最高。&lt;/p&gt;
-&lt;p&gt;这对原油市场的含义至关重要：若宏观账户如高盛所言在结构上做空130美元油价尾部风险，且其痛苦触发器是利率而非油轮，那么一旦局势再度升级，将形成双重打击——油价本身的冲击，叠加其引发的债券抛售。而目前没有人在为这种保护付费。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力</title><link>https://wallstreetcn.com/articles/3783043</link><guid>7fad9f0f66041dcfbf89011a8cbc477899572034aa7061620375fbfb2b5bff29</guid><pubDate>Tue, 06 Oct 2026 01:45:29 GMT</pubDate><description>&lt;p&gt;30年期美债收益率逼近6%，可能触发国债期货&amp;quot;最便宜可交割券&amp;quot;（CTD）切换，迫使资产管理机构卖出期货，进一步加剧长端收益率上行。&lt;/p&gt;
-&lt;p&gt;周一，30年期美债收益率升至5.70%，为2002年以来最高。据彭博分析，若该收益率升至6%附近，长期国债期货的CTD可能由当前的2045年到期国债切换至2050年到期国债。&lt;/p&gt;
-&lt;p&gt;持仓数据显示，资产管理机构近几周已在削减长期和超长期国债期货净多头。&lt;/p&gt;
-交割规则如何放大抛压
-&lt;p&gt;美国国债期货是在交易所交易、约定以特定价格和日期买卖国债的合约，被投资者广泛用于对冲国债头寸，也是杠杆基金开展&amp;quot;基差交易&amp;quot;等热门策略的工具。合约允许空头从一篮子符合条件的国债中选择交割，交易员会选出交割成本最低的一只，即CTD，期货价格随之跟踪该券。&lt;/p&gt;
-&lt;p&gt;收益率快速上行会改变可交割篮子内各券的定价关系，CTD随之向期限更长的债券迁移。为维持组合久期目标稳定，期货多头需要卖出，空头需要买回；视两者的相互作用和发生时点，这一过程可能外溢至现券市场。&lt;/p&gt;
-&lt;p&gt;法国巴黎银行策略师Guneet Dhingra、Sebastian Mauleon和Vincent Zhou在报告中指出，资产管理机构为应对CTD切换而卖出国债期货，&amp;quot;可能加剧长端收益率的上行&amp;quot;。&lt;/p&gt;
-长期国债期货仍是压力点
-&lt;p&gt;市场焦点在长端，尤其是长期国债期货合约，其当前CTD为2045年2月到期、票息2.5%的国债。&lt;/p&gt;
-&lt;p&gt;巴克莱策略师Andres Mok和Amrut Nashikka周一发布报告称，投资者&amp;quot;可能需要降低期货敞口或重新调整对冲比率，使组合久期回到目标水平&amp;quot;，而&amp;quot;更高的利率和波动率加大了CTD结果的不确定性&amp;quot;。他们估算，资产管理机构的总再平衡需求在长期国债期货上约为每基点2500万美元，在超长期国债期货上约为每基点300万美元。&lt;/p&gt;
-超长期合约遭大举抛售
-&lt;p&gt;近几周，30年期收益率大幅升破5.6%，资产管理机构同步削减两类合约的净多头。高盛策略师George Cole和William Marshall认为，这很可能是在&amp;quot;主动管理与潜在国债期货CTD切换相关的久期延长风险&amp;quot;。&lt;/p&gt;
-&lt;p&gt;美国商品期货交易委员会（CFTC）数据显示，截至9月29日当周，30年期收益率由5.28%最高升至5.62%，资产管理机构将超长期国债期货净多头削减近10万手，相当于每基点1500万美元的风险，或110亿美元的当前30年期现券。同期长期国债期货持仓变化较为温和，说明该期限的CTD切换风险及相关被动抛售仍然存在。&lt;/p&gt;
-&lt;p&gt;三井住友银行（SMBC）利率策略师Monty Gandhi说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;超长期国债期货已切换至久期更高的CTD，但长期国债期货仍有久期延长的上行风险。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧洲财政压力正成为美债抛售的新导火索</title><link>https://wallstreetcn.com/articles/3783047</link><guid>a499650384c7b1e13432aadcb50f0783ab9e45b2d4ea69e75dbcb7aaec43c0af</guid><pubDate>Tue, 06 Oct 2026 02:06:06 GMT</pubDate><description>&lt;p&gt;法国债务危机与西班牙政治动荡叠加美国自身结构性赤字问题，正推动全球债券市场进入新一轮动荡周期。&lt;/p&gt;
+&lt;p&gt;这对原油市场的含义至关重要：若宏观账户如高盛所言在结构上做空130美元油价尾部风险，且其痛苦触发器是利率而非油轮，那么一旦局势再度升级，将形成双重打击——油价本身的冲击，叠加其引发的债券抛售。而目前没有人在为这种保护付费。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧洲财政压力正成为美债抛售的新导火索</title><link>https://wallstreetcn.com/articles/3783047</link><guid>a499650384c7b1e13432aadcb50f0783ab9e45b2d4ea69e75dbcb7aaec43c0af</guid><pubDate>Tue, 06 Oct 2026 02:06:06 GMT</pubDate><description>&lt;p&gt;法国债务危机与西班牙政治动荡叠加美国自身结构性赤字问题，正推动全球债券市场进入新一轮动荡周期。&lt;/p&gt;
 &lt;p&gt;美国10年期国债收益率周一盘中一度攀升至5.349%，创24年来新高，30年期收益率亦触及5.703%。与此同时，法国10年期国债收益率升至2002年以来最高水平，与德国国债的利差扩大至欧债危机以来最宽。欧元兑美元今年已累计下跌约5%，并连续四周走低。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;分析人士指出，欧洲财政恶化与政治不稳定，正在与美国中期选举前景叠加，有可能在短期内进一步放大债券市场波动。&lt;/strong&gt;华尔街目前尚不认为欧洲局势会演变为2009至2012年PIIGS债务危机的规模，但欧洲的不确定性已成为美债抛售的新变量。&lt;/p&gt;
 美债收益率多重压力叠加，创24年新高
@@ -193,7 +176,24 @@
 &lt;p&gt;与此同时，据新华社援引也门政府官员消息，胡塞武装已占领也门议会议长Sultan al-Barakani在瓦迪·巴拉卡尼的宅邸，并在其中建立阵地。据新华社报道，另有也门消息人士称，胡塞武装还进入了总统领导委员会主席阿里米家族位于马瓦西特地区的住所所在区域。上述政治象征意义极强的行动，被外界视为胡塞武装刻意制造的舆论压力。&lt;/p&gt;
 曼德海峡风险上升，红海能源通道承压
 &lt;p&gt;此轮冲突的核心地缘风险在于曼德海峡。该海峡是连接红海与印度洋、进而通往苏伊士运河的关键航运节点，全球大量石油出口与商品贸易经此通过。胡塞武装此前已多次展示通过导弹、无人机及无人艇威胁商业航运的能力，而此次对红海沿岸陆地的大规模推进，则意味着其对该战略水道的威胁从远程打击升级为潜在的实体控制。&lt;/p&gt;
-&lt;p&gt;沙特阿美炼油设施遭到打击的消息，叠加曼德海峡局势的持续紧张，令市场对中东能源供应稳定性的担忧明显升温。也门战事自2022年联合国斡旋停火以来相对冻结，此番骤然全面爆发，标志着地区局势进入新一轮高度不确定阶段，投资者对红海航运保险成本及原油供应风险溢价的重新定价或将持续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道</title><link>https://wallstreetcn.com/articles/3783050</link><guid>6a64f6a8dcfc70f967ba56501f26c4bb91c55679944236a123e78a62b0f6f364</guid><pubDate>Tue, 06 Oct 2026 03:17:57 GMT</pubDate><description>&lt;p&gt;银行开始涉足亚洲GPU融资，这一领域此前主要由风险偏好更高的私募信贷基金主导，AI竞赛下一阶段的资金池由此显著扩大。&lt;/p&gt;
+&lt;p&gt;沙特阿美炼油设施遭到打击的消息，叠加曼德海峡局势的持续紧张，令市场对中东能源供应稳定性的担忧明显升温。也门战事自2022年联合国斡旋停火以来相对冻结，此番骤然全面爆发，标志着地区局势进入新一轮高度不确定阶段，投资者对红海航运保险成本及原油供应风险溢价的重新定价或将持续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力</title><link>https://wallstreetcn.com/articles/3783043</link><guid>7fad9f0f66041dcfbf89011a8cbc477899572034aa7061620375fbfb2b5bff29</guid><pubDate>Tue, 06 Oct 2026 01:45:29 GMT</pubDate><description>&lt;p&gt;30年期美债收益率逼近6%，可能触发国债期货&amp;quot;最便宜可交割券&amp;quot;（CTD）切换，迫使资产管理机构卖出期货，进一步加剧长端收益率上行。&lt;/p&gt;
+&lt;p&gt;周一，30年期美债收益率升至5.70%，为2002年以来最高。据彭博分析，若该收益率升至6%附近，长期国债期货的CTD可能由当前的2045年到期国债切换至2050年到期国债。&lt;/p&gt;
+&lt;p&gt;持仓数据显示，资产管理机构近几周已在削减长期和超长期国债期货净多头。&lt;/p&gt;
+交割规则如何放大抛压
+&lt;p&gt;美国国债期货是在交易所交易、约定以特定价格和日期买卖国债的合约，被投资者广泛用于对冲国债头寸，也是杠杆基金开展&amp;quot;基差交易&amp;quot;等热门策略的工具。合约允许空头从一篮子符合条件的国债中选择交割，交易员会选出交割成本最低的一只，即CTD，期货价格随之跟踪该券。&lt;/p&gt;
+&lt;p&gt;收益率快速上行会改变可交割篮子内各券的定价关系，CTD随之向期限更长的债券迁移。为维持组合久期目标稳定，期货多头需要卖出，空头需要买回；视两者的相互作用和发生时点，这一过程可能外溢至现券市场。&lt;/p&gt;
+&lt;p&gt;法国巴黎银行策略师Guneet Dhingra、Sebastian Mauleon和Vincent Zhou在报告中指出，资产管理机构为应对CTD切换而卖出国债期货，&amp;quot;可能加剧长端收益率的上行&amp;quot;。&lt;/p&gt;
+长期国债期货仍是压力点
+&lt;p&gt;市场焦点在长端，尤其是长期国债期货合约，其当前CTD为2045年2月到期、票息2.5%的国债。&lt;/p&gt;
+&lt;p&gt;巴克莱策略师Andres Mok和Amrut Nashikka周一发布报告称，投资者&amp;quot;可能需要降低期货敞口或重新调整对冲比率，使组合久期回到目标水平&amp;quot;，而&amp;quot;更高的利率和波动率加大了CTD结果的不确定性&amp;quot;。他们估算，资产管理机构的总再平衡需求在长期国债期货上约为每基点2500万美元，在超长期国债期货上约为每基点300万美元。&lt;/p&gt;
+超长期合约遭大举抛售
+&lt;p&gt;近几周，30年期收益率大幅升破5.6%，资产管理机构同步削减两类合约的净多头。高盛策略师George Cole和William Marshall认为，这很可能是在&amp;quot;主动管理与潜在国债期货CTD切换相关的久期延长风险&amp;quot;。&lt;/p&gt;
+&lt;p&gt;美国商品期货交易委员会（CFTC）数据显示，截至9月29日当周，30年期收益率由5.28%最高升至5.62%，资产管理机构将超长期国债期货净多头削减近10万手，相当于每基点1500万美元的风险，或110亿美元的当前30年期现券。同期长期国债期货持仓变化较为温和，说明该期限的CTD切换风险及相关被动抛售仍然存在。&lt;/p&gt;
+&lt;p&gt;三井住友银行（SMBC）利率策略师Monty Gandhi说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;超长期国债期货已切换至久期更高的CTD，但长期国债期货仍有久期延长的上行风险。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道</title><link>https://wallstreetcn.com/articles/3783050</link><guid>6a64f6a8dcfc70f967ba56501f26c4bb91c55679944236a123e78a62b0f6f364</guid><pubDate>Tue, 06 Oct 2026 03:17:57 GMT</pubDate><description>&lt;p&gt;银行开始涉足亚洲GPU融资，这一领域此前主要由风险偏好更高的私募信贷基金主导，AI竞赛下一阶段的资金池由此显著扩大。&lt;/p&gt;
 &lt;p&gt;近几个月，国际大行在GMI Cloud、Zankore和PaleBlueDot AI三家AI基础设施提供商合计约38亿美元的GPU贷款中扮演了关键角色。据知情人士透露，花旗、摩根大通、巴克莱、德意志银行、桑坦德银行和日本三井住友银行目前都在评估与GPU挂钩的贷款。&lt;/p&gt;
 &lt;p&gt;这笔资金至关重要。普华永道估计，到2050年亚洲数据中心支出可能达到8.2万亿美元，绝大部分将投向GPU和服务器等硬件。&lt;/p&gt;
 国际大行打头阵，亚洲银行跟进
