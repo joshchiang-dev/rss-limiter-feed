@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 23:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 22:24:01 GMT</pubDate><description>&lt;p&gt;尽管通胀粘性与地缘危机推升长端美债收益率至数十年高位，显著紧缩了市场金融条件，但对极少数巨头长期盈利的极度乐观，仍驱动纳斯达克100指数刷新历史新高、标普500逼近纪录高位。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 05 Oct 2026 23:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”</title><link>https://wallstreetcn.com/articles/3782996</link><guid>805db4c04ae45ab20d49995fbaa7551710cb7fc564888adf3de93d88e6a30a70</guid><pubDate>Mon, 05 Oct 2026 22:24:01 GMT</pubDate><description>&lt;p&gt;尽管通胀粘性与地缘危机推升长端美债收益率至数十年高位，显著紧缩了市场金融条件，但对极少数巨头长期盈利的极度乐观，仍驱动纳斯达克100指数刷新历史新高、标普500逼近纪录高位。&lt;/p&gt;
 &lt;p&gt;“盈利预期”与“趋紧金融条件”的矛盾，导致市场结构极度分化，超过八成的罗素3000成分股已跌破50日均线，投资者正被迫将风险敞口避险式地压缩至极少数头部标的中。&lt;/p&gt;
 &lt;p&gt;（美股基准股指日内走势）&lt;/p&gt;
 &lt;p&gt;美股道指涨0.18%报51267.90点，标普500涨0.66%报7773.95点，纳指综合涨1.05%报27477.31点，创历史新高收盘。&lt;/p&gt;
@@ -122,77 +122,7 @@
 &lt;p&gt;在消费级AI领域，欧洲已明显落后于美国和中国，但施耐德电气、西门子、ABB等工业巨头仍在工业客户服务及数据中心组件供应领域保持竞争力。&lt;/p&gt;
 &lt;p&gt;施耐德电气市值约1580亿欧元，长期受益于数据中心建设热潮带来的能效需求，被瑞银（UBS Group AG）策略师列为欧洲&amp;quot;AI赋能者&amp;quot;之列，今年截至上周五股价累计涨幅接近30%。&lt;/p&gt;
 &lt;p&gt;工业软件企业相较于SAP SE、Salesforce Inc.等通用软件公司，受AI替代冲击相对有限。分析人士认为，这是因为工业软件的价值高度依赖对专有数据的访问权限，且其所针对的生产流程对错误容忍度极低，形成了较高的竞争壁垒。&lt;/p&gt;
-&lt;p&gt;Olivier Blum上任仅两年，便主导了这笔公司史上规模最大的交易。彭博评论认为，此举背后或存在一种潜在焦虑——若不尽快出手，竞争对手可能捷足先登，尤其是在美国当前相对宽松的反垄断环境可能不会持续太久的背景下。施耐德电气历史上曾多次通过并购实现成功扩张，包括在美国市场的多笔交易，这或许是支撑此次激进押注的最重要底气所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”</title><link>https://wallstreetcn.com/articles/3783019</link><guid>0e0c5d54b1a62216d0472fbcd8feb8a88effee6fc9c0ccc4e2d5b62629869f8e</guid><pubDate>Mon, 05 Oct 2026 11:51:12 GMT</pubDate><description>&lt;p&gt;AI正在重塑药物发现的底层逻辑，一场类似半导体行业&amp;quot;瓶颈交易&amp;quot;的机会正在制药供应链中悄然成形。&lt;/p&gt;
-&lt;p&gt;10月4日，顶级美元基金Altimeter Capital合伙人Freda Duan近日发文指出，AI制药赛道（AIDD）的&amp;quot;瓶颈交易&amp;quot;正在成形，其结构与此前半导体领域从GPU延伸至HBM、网络、电力的链式行情高度相似。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;前沿AI实验室的集体入场是最显著的信号。&lt;/strong&gt;Anthropic组建了专属生命科学研究团队并建立湿实验室，OpenAI 建立了专为生物学和药物发现设计的 GPT-Rosalind 模型族，字节跳动旗下独立运营的 Anew Labs 已拥有内部药物研发库，同构实验室（Isomorphic Labs）则明确表示将把 AI 设计的药物推进人体临床试验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，供应链端的信号同样清晰。&lt;/strong&gt;DNA 合成商拓斯达生物（Twist Bioscience，TWST）预计2026财年和2027财年的AI药物发现订单将连续实现三位数百分比增长。金斯瑞（GenScript）的 AI 药物发现业务在 2026 财年上半年同比翻倍，渠道调研显示其实际验证产能已达每日约8,000个设计，并有望在 2026 年底前提升至 16,000 个。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一逻辑与半导体行业的瓶颈传导路径高度相似。&lt;/strong&gt;GPU稀缺推动了对HBM内存、网络设备、电力与冷却系统的依次爆发。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在AI制药领域，瓶颈同样在沿产业链向下传递：AI模型产生设计→DNA合成→蛋白生产→实验验证→临床前测试，每个环节都可能成为下一个受益节点&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;（供应链数据显示，上游的发现和早期临床前研发环节已经开始感受到实验量增加带来的影响）&lt;/p&gt;
-
-前沿AI实验室加速布局，制药发现进入范式转换
-
-&lt;p&gt;Freda Duan在文章中将当前AI制药赛道格局描述为一次真正意义上的&amp;quot;体制变迁&amp;quot;（regime change）.&lt;/p&gt;
-&lt;p&gt;Anthropic已将生命科学研究提升至战略层级，其湿实验室完成的首个重大项目是利用Claude智能体识别了一种与CRISPR类DNA重复序列相关的、此前未被表征的酶系统。&lt;/p&gt;
-&lt;p&gt;OpenAI推出的GPT-Rosalind模型族覆盖药物化学、蛋白工程、基因组学及实验工作流程。&lt;/p&gt;
-&lt;p&gt;字节跳动的前AI药物发现部门现已独立运营，更名为Anew Labs，整合了基础模型、湿实验室验证与自有药物管线，字节跳动仍持有多数股权。&lt;/p&gt;
-&lt;p&gt;同构实验室（Isomorphic Labs）则明确宣布，其目标是将AI设计的药物推进人体临床试验阶段。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;值得注意的是，各家机构的商业化路径存在明显差异。&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Anthropic&lt;/strong&gt;目前的定位更接近研究与平台层，明确表示不打算成为传统商业临床阶段的生物技术公司；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;字节跳动的Anew Labs&lt;/strong&gt;已更接近于拥有自有药物管线的生物技术平台模式；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;同构实验室&lt;/strong&gt;则处于两者之间，明确承诺将自行推进药物进入临床。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;这意味着AI药物发现的商业化路径正在分叉：授权给大型药企、合作里程碑+专利费、或直接孵化独立公司。对于下游供应链而言，无论哪条路径，实验需求的增量都将真实发生。&lt;/strong&gt;&lt;/p&gt;
-
-AI为何反而推高湿实验室需求
-
-&lt;p&gt;AI提升了效率，为何反而推高了湿实验室的实验量？&lt;strong&gt;答案在于AI从根本上改变了假设生成的经济学。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，假设生成趋近于零成本，实验验证成为新瓶颈。&lt;/strong&gt; 传统药物发现中，专家筛选候选分子的成本极高，能够进入昂贵验证流程的只有最高置信度的候选项。&lt;/p&gt;
-&lt;p&gt;AI使得设计候选分子几乎不产生边际成本，&amp;quot;上场机会&amp;quot;大幅增加，瓶颈从设计端转移至生物验证端。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，失败的实验同样有价值，负样本成为训练数据。&lt;/strong&gt; Anthropic提供了一个典型案例：Claude设计了1,320个蛋白结合子，Adaptyv将这些数字序列转化为DNA、表达蛋白并测试结合性，最终只有354个成功结合。&lt;/p&gt;
-&lt;p&gt;但另外966个失败案例并未被浪费——什么不表达、什么不结合、什么亲和力差，这些都是有价值的负向标签，用于训练下一轮模型迭代。&lt;strong&gt;传统药物发现只问&amp;quot;候选X有效吗&amp;quot;，AI药物发现还额外追问&amp;quot;这个实验能教给模型什么&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，湿实验室正在从制造药物转型为制造训练数据。&lt;/strong&gt; TWST明确表示，其业务正在转向从AI设计序列中生成可直接输入模型的结构化实验结果数据。GenScript的序列到结合数据工作流可在4至7天内返回结果。&lt;/p&gt;
-&lt;p&gt;在部分工作流中，客户关心的可能已不是获得物理蛋白本身，而是将结构化实验结果反馈回模型。TWST和GenScript因此愈发接近&amp;quot;生物数据铸造厂&amp;quot;的角色。&lt;/p&gt;
-
-供应链数据印证需求爆发，产能进入快速扩张轨道
-
-&lt;p&gt;文章指出，除了理论逻辑之外，供应链层面已出现可追踪的量化信号。&lt;/p&gt;
-&lt;p&gt;TWST预计FY26的AI药物发现订单增速将达三位数百分比，且FY27的订单增长将延续同等幅度。GenScript的AI药物发现业务在2026财年上半年实现同比翻倍，其平台对外宣传的工业级验证产能为每日4,000个以上设计，配备完整的序列到数据工作流。&lt;/p&gt;
-&lt;p&gt;渠道调研显示实际进展更快。当前实际产能约为每日8,000个设计，并有望在2026年底前达到约16,000个。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从供应链路径来看，受益环节依次为：AI模型→序列设计→DNA合成（TWST等）→蛋白生产（GenScript等）→实验验证→测序（ILMN、TXG等）→自动化设备→临床前测试（CRO）。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在市场规模方面，若AI只是更高效的研发工具，相关支出池为每年3,000至4,000亿美元的全球制药研发总支出。&lt;strong&gt;若AI真正扩大了可行药物项目数量，机会将更大，因为它还将带动DNA合成、蛋白生产、实验验证和临床前工作的增量需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，从AI公司自身的支出角度也可做出近似估算。&lt;strong&gt;若Anthropic在2026年实现800亿美元年化收入，仅将其中1%投入AI药物发现，便已意味着约8亿美元的年度投资体量。&lt;/strong&gt;&lt;/p&gt;
-
-这一次与2020/21有何不同
-
-&lt;p&gt;Freda Duan提醒，对该主题有所了解的投资者会本能地联想到2020至2021年的AI药物发现热潮及随后的崩盘。&lt;/p&gt;
-&lt;p&gt;Exscientia的DSP-1181分子在不到一年内从发现推进至I期临床，但随后因未达到目标机制的I期评估标准而终止。&lt;strong&gt;彼时的失败有两个明确原因：宏观环境急剧收紧，叠加&amp;quot;更快的发现不等于更好的临床生物学&amp;quot;被残酷证实。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但Freda Duan认为，2026年的背景与2020/21年存在根本性差异，&lt;strong&gt;那一轮周期发生在GPT出现之前。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2020/21年的核心逻辑是&lt;/strong&gt;：用计算减少低价值的湿实验室筛选，&lt;strong&gt;AI是搜索效率工具，目标是减少物理实验量，以更少的合成和更少的测试更快锁定候选药物&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2026年的核心逻辑截然不同&lt;/strong&gt;：用AI大幅扩展假设空间，再用湿实验室生成真实验证数据。其内在循环为：AI→实验→数据→更好的AI→更多实验。&lt;strong&gt;AI创造的可用实验数量之多，使物理生物学本身成为瓶颈。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从已有数据来看，2024年一项研究显示，AI发现药物的I期成功率约为80%至90%，高于行业历史平均水平；II期成功率约为40%，与历史平均水平大致相当，但样本量仍有限。&lt;/p&gt;
-
-瓶颈将如何沿链传导，以及交易的风险所在
-
-&lt;p&gt;Freda Duan强调当前的&lt;strong&gt;DNA合成&lt;/strong&gt;和&lt;strong&gt;蛋白生产&lt;/strong&gt;是最直接的瓶颈节点。&lt;/p&gt;
-&lt;p&gt;随着更多候选药物被推入临床前阶段，&lt;strong&gt;动物实验或将成为下一个受限环节&lt;/strong&gt;。灵长类动物价格已接近此前高点，CRO产能持续偏紧，AI药物发现进一步压入临床前的候选项只会加剧这一压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析认为，这笔交易的潜在持续时间较长，直至2028年以后的I/II期临床结果出炉，都很难出现根本性的逻辑终结。&lt;/strong&gt;关键里程碑：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2026至2027年底&lt;/strong&gt;，Isomorphic首批AI设计药物进入人体临床试验，更多AI原生项目推进至IND-enabling阶段；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2028至2030年&lt;/strong&gt;，临床试验结果开始揭示AI设计药物是否真正优于传统药物。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;近期看，若实验预算停止增长、AI生成设计无法转化为有效湿实验室结果，或产能过快追上需求，上游&amp;quot;镐与铲&amp;quot;交易将受压。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;长期看，若AI药物在发现阶段和I期表现亮眼，却在II/III期以正常失败率落败，整个投资逻辑将面临根本挑战，这也是为何II期临床结果如此关键。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;洛杉矶加州大学教授Quanquan Gu对这一逻辑作出高度概括：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;生物学可能成为AI下一个递归自我改进的前沿——在计算机中设计，在实验室中测试，将实验反馈转化为半合成训练数据，改进模型，周而复始。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 价格指数创四年新高！美国9月ISM服务业扩张放缓，与制造业通胀压力齐升</title><link>https://wallstreetcn.com/articles/3783025</link><guid>7994e1aaad1d54f7c4b39c28f973443b3746b27774ad4d319a0398d63de648da</guid><pubDate>Mon, 05 Oct 2026 14:28:03 GMT</pubDate><description>&lt;p&gt;最新先行指标显示，过去一个月，美国服务业扩张步伐有所放缓，和制造业一样，服务业企业面临的成本压力也加剧。&lt;/p&gt;
+&lt;p&gt;Olivier Blum上任仅两年，便主导了这笔公司史上规模最大的交易。彭博评论认为，此举背后或存在一种潜在焦虑——若不尽快出手，竞争对手可能捷足先登，尤其是在美国当前相对宽松的反垄断环境可能不会持续太久的背景下。施耐德电气历史上曾多次通过并购实现成功扩张，包括在美国市场的多笔交易，这或许是支撑此次激进押注的最重要底气所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 价格指数创四年新高！美国9月ISM服务业扩张放缓，与制造业通胀压力齐升</title><link>https://wallstreetcn.com/articles/3783025</link><guid>7994e1aaad1d54f7c4b39c28f973443b3746b27774ad4d319a0398d63de648da</guid><pubDate>Mon, 05 Oct 2026 14:28:03 GMT</pubDate><description>&lt;p&gt;最新先行指标显示，过去一个月，美国服务业扩张步伐有所放缓，和制造业一样，服务业企业面临的成本压力也加剧。&lt;/p&gt;
 &lt;p&gt;当地时间10月5日周一，美国供应管理协会（ISM）公布的数据显示，美国9月ISM服务业PMI录得&lt;strong&gt;54.9&lt;/strong&gt;，低于8月的55.4，在连续两个月上升后回落，也低于市场预期的55.2。不过，该指数已连续27个月处于50荣枯线以上，显示服务企业活动仍保持扩张。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;更值得关注的是价格分项指数。9月ISM服务业价格指数从72.6升至&lt;strong&gt;74.0&lt;/strong&gt;，创2022年7月以来新高，且已连续112个月处于上涨区间。在需求仍有韧性的同时，企业投入成本重新明显上升，使得通胀压力成为本次数据的主要看点。&lt;/p&gt;
@@ -220,35 +150,7 @@ AI为何反而推高湿实验室需求
 &lt;p&gt;与此同时，制造业新订单和订单积压均有所改善，制造业PMI虽然从54.6小幅降至54.5，但已经连续9个月处于50以上的扩张区间。&lt;/p&gt;
 &lt;p&gt;也就是说，&lt;strong&gt;美国制造业和服务业在9月都出现了类似的特征：经济活动仍处于扩张状态，但投入成本明显上升。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这也是市场关注本次服务业ISM数据的关键所在。媒体指出，制造业和服务业两份调查中的价格指标同时走高，意味着未来通胀仍可能面临上行压力，并强化了市场对美联储后续利率政策的关注。&lt;/p&gt;
-&lt;p&gt;在服务业占美国经济比重超过三分之二的背景下，9月ISM并没有显示美国经济出现明显失速，反而呈现出“需求仍强、成本更高”的组合。对于市场而言，ISM服务业PMI回落本身并不意味着经济骤然降温，而价格指数升至四年高位，则可能成为后续通胀和利率预期重新定价的重要线索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Spacex收涨7.6%，收创6月份以来新高，帮助马斯克“恢复”万亿美元富豪头衔</title><link>https://wallstreetcn.com/articles/3783033</link><guid>06f8e6afb63080146aa10a6e0941433eab728e3178324955f20404e541f51d9e</guid><pubDate>Mon, 05 Oct 2026 20:46:02 GMT</pubDate><description>&lt;p&gt;SpaceX股价周一大涨近8%，推动马斯克净资产重新突破万亿美元大关。摩根士丹利分析师前一日发布看多报告，称该股价格&amp;quot;低估&amp;quot;，叠加公司近期多项里程碑式飞行任务，共同催动此轮涨势。&lt;/p&gt;
-&lt;p&gt;周一收盘，SpaceX股价报171.09美元，创6月中旬以来新高。据福布斯实时富豪榜，马斯克当日净资产增加约306亿美元，总财富升至约1.03万亿美元，位居富豪榜首。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这是马斯克继今年6月SpaceX首次公开募股后，再度跻身万亿美元级别。&lt;/p&gt;
-&lt;p&gt;SpaceX股价自8月初触底以来已累计反弹约58%。摩根士丹利为该股设定300美元目标价，较周一收盘价具有约75%的上行空间，并建议投资者在公司下一次星舰试飞及第三季度财报发布前布局。&lt;/p&gt;
-
-摩根士丹利看多，多重催化剂共振
-
-&lt;p&gt;摩根士丹利分析师周日发布研报指出，以目前股价来看，SpaceX 的价值被明显低估了。&lt;/p&gt;
-&lt;p&gt;报告重点强调&amp;quot;未来人工智能产品发布、星舰研发进展以及新增云服务合同&amp;quot;等潜在催化剂，维持买入评级。&lt;/p&gt;
-&lt;p&gt;上周，SpaceX在单日内完成多项历史性飞行任务，包括为美国宇航局（NASA）执行载人任务、将宇航员送往国际空间站，以及将谷歌人工智能芯片发射入轨。&lt;/p&gt;
-&lt;p&gt;分析师指出，若SpaceX在下一次试飞中尝试回收星舰上级飞船，此举可能成为&amp;quot;自IPO以来最重大的正面催化剂&amp;quot;。此前历次测试中，星舰上级飞船均溅落海洋，可重复使用能力尚未得到验证。&lt;/p&gt;
-&lt;p&gt;星舰是迄今为止人类建造的最大火箭，设计目标为上级飞船与助推器均可安全回收并重复使用。SpaceX计划借助星舰将星链卫星送入轨道，并承接其他商业及政府机构的货运和载人任务。&lt;/p&gt;
-
-AI业务扩张，防务合同支撑营收
-
-&lt;p&gt;除航天主业外，SpaceX的人工智能业务亦成为股价上涨的重要支撑。&lt;/p&gt;
-&lt;p&gt;公司通过收购马斯克旗下xAI进入AI领域，并进一步收购代码编辑工具Cursor以扩大业务版图。尽管自研的Grok大模型在市场影响力上仍落后于OpenAI和Anthropic，但&lt;strong&gt;SpaceX正通过向谷歌、Anthropic等客户出租算力获取可观收入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在政府合同层面&lt;/strong&gt;，据FedScout数据，SpaceX从美国国防部累计获得逾127亿美元合同收入，防务业务占比持续提升。&lt;/p&gt;
-&lt;p&gt;上周三9月30日，五角大楼任命马斯克担任&amp;quot;子午线计划&amp;quot;（Project Meridian）联合负责人，该项目旨在识别美国未来战争所需的武器、技术与军事能力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在品牌层面&lt;/strong&gt;，马斯克上周末宣布，将旗下AI子公司SpaceXAI更名为SpaceXSI，与特朗普总统今年9月29日签署的行政令保持一致。&lt;/p&gt;
-&lt;p&gt;该令要求政府机构以&amp;quot;超级智能&amp;quot;（super intelligence）及缩写&amp;quot;SI&amp;quot;取代&amp;quot;人工智能&amp;quot;表述。不过，截至周一，尚无正式更名步骤落地。&lt;/p&gt;
-
-IPO创纪录，财务数据显示高速增长与亏损并存
-
-&lt;p&gt;SpaceX于6月12日登陆纳斯达克，IPO发行价135美元，共发行5.556亿股，募资750亿美元，超越沙特阿美2019年创下的纪录。&lt;/p&gt;
-&lt;p&gt;上市首周，股价于6月16日创下201.80美元收盘高点，此后逐步回落，至8月初触底。此次反弹后，SpaceX股价较IPO发行价累计上涨约27%，马斯克持有约82.4%的公司投票权。&lt;/p&gt;
-&lt;p&gt;财务层面，SpaceX 2025年实现营收186.7亿美元，同比增长33%；但受高额投入影响，净利润由上年的7.91亿美元转为亏损49.4亿美元。&lt;/p&gt;
-&lt;p&gt;据福布斯估算，马斯克当前净资产领先亚马逊创始人杰夫·贝索斯逾6280亿美元，后者估算净资产约为3715亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街AI招聘从“造模型”转向“部署落地”，新型工程师成最抢手人才</title><link>https://wallstreetcn.com/articles/3783016</link><guid>46d7d24b70fc63a739c117df17eba1dd37b9039fa12644680ab198fa98e574b8</guid><pubDate>Mon, 05 Oct 2026 12:24:12 GMT</pubDate><description>&lt;p&gt;人工智能正在华尔街掀起新一轮人才争夺战，而这场争夺的焦点已从模型构建者转向能够将AI直接嵌入业务的复合型工程师。&lt;/p&gt;
+&lt;p&gt;在服务业占美国经济比重超过三分之二的背景下，9月ISM并没有显示美国经济出现明显失速，反而呈现出“需求仍强、成本更高”的组合。对于市场而言，ISM服务业PMI回落本身并不意味着经济骤然降温，而价格指数升至四年高位，则可能成为后续通胀和利率预期重新定价的重要线索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街AI招聘从“造模型”转向“部署落地”，新型工程师成最抢手人才</title><link>https://wallstreetcn.com/articles/3783016</link><guid>46d7d24b70fc63a739c117df17eba1dd37b9039fa12644680ab198fa98e574b8</guid><pubDate>Mon, 05 Oct 2026 12:24:12 GMT</pubDate><description>&lt;p&gt;人工智能正在华尔街掀起新一轮人才争夺战，而这场争夺的焦点已从模型构建者转向能够将AI直接嵌入业务的复合型工程师。&lt;/p&gt;
 &lt;p&gt;10月4日，据企业招聘数据公司Draup独家提供给CNBC的分析显示，&lt;strong&gt;今年摩根大通、花旗集团、Capital One等银行发布的AI相关职位同比激增49%，达到139,819个。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;其中，“Agent编排工程师”（agent orchestration）相关职位引用量今年暴增1,721%，成为金融业当下最炙手可热的职业之一。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一趋势表明，华尔街正加速从聊天机器人阶段迈向由多个AI智能体协同处理大量业务的下一阶段，对银行的员工结构、管理层战略和股东回报预期均产生深远影响。&lt;/p&gt;
@@ -340,7 +242,35 @@ AI治理需求激增，相关职位引用量已超模型训练
 &lt;p&gt;欧元区当前所面临的挑战，已超出单纯的宏观经济层面。&lt;/p&gt;
 &lt;p&gt;通胀、高利率与借贷成本上升，与美国所经历的压力大体相似；但欧元区独有的弱增长、债市割裂与政治动荡，令投资者的不安情绪明显加剧。&lt;/p&gt;
 &lt;p&gt;法国与西班牙同为欧元区的核心经济体，两国同时陷入政治与财政的双重困境，其溢出效应已直接传导至欧元汇率与欧洲债券市场。&lt;/p&gt;
-&lt;p&gt;市场目前等待的，是两国能否在近期内给出切实可信的政策信号，而就目前局势而言，这一前景并不明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI遭商标侵权诉讼，"Astra"名称引发法律纠纷</title><link>https://wallstreetcn.com/articles/3783030</link><guid>f27e52bf46c39aaf466209ba16b7926bc149001f8dfe6b99f053c60547c95b10</guid><pubDate>Mon, 05 Oct 2026 19:32:18 GMT</pubDate><description>&lt;p&gt;OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用&amp;quot;Astra&amp;quot;商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。&lt;/p&gt;
+&lt;p&gt;市场目前等待的，是两国能否在近期内给出切实可信的政策信号，而就目前局势而言，这一前景并不明朗。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Spacex收涨7.6%，收创6月份以来新高，帮助马斯克“恢复”万亿美元富豪头衔</title><link>https://wallstreetcn.com/articles/3783033</link><guid>06f8e6afb63080146aa10a6e0941433eab728e3178324955f20404e541f51d9e</guid><pubDate>Mon, 05 Oct 2026 20:46:02 GMT</pubDate><description>&lt;p&gt;SpaceX股价周一大涨近8%，推动马斯克净资产重新突破万亿美元大关。摩根士丹利分析师前一日发布看多报告，称该股价格&amp;quot;低估&amp;quot;，叠加公司近期多项里程碑式飞行任务，共同催动此轮涨势。&lt;/p&gt;
+&lt;p&gt;周一收盘，SpaceX股价报171.09美元，创6月中旬以来新高。据福布斯实时富豪榜，马斯克当日净资产增加约306亿美元，总财富升至约1.03万亿美元，位居富豪榜首。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这是马斯克继今年6月SpaceX首次公开募股后，再度跻身万亿美元级别。&lt;/p&gt;
+&lt;p&gt;SpaceX股价自8月初触底以来已累计反弹约58%。摩根士丹利为该股设定300美元目标价，较周一收盘价具有约75%的上行空间，并建议投资者在公司下一次星舰试飞及第三季度财报发布前布局。&lt;/p&gt;
+
+摩根士丹利看多，多重催化剂共振
+
+&lt;p&gt;摩根士丹利分析师周日发布研报指出，以目前股价来看，SpaceX 的价值被明显低估了。&lt;/p&gt;
+&lt;p&gt;报告重点强调&amp;quot;未来人工智能产品发布、星舰研发进展以及新增云服务合同&amp;quot;等潜在催化剂，维持买入评级。&lt;/p&gt;
+&lt;p&gt;上周，SpaceX在单日内完成多项历史性飞行任务，包括为美国宇航局（NASA）执行载人任务、将宇航员送往国际空间站，以及将谷歌人工智能芯片发射入轨。&lt;/p&gt;
+&lt;p&gt;分析师指出，若SpaceX在下一次试飞中尝试回收星舰上级飞船，此举可能成为&amp;quot;自IPO以来最重大的正面催化剂&amp;quot;。此前历次测试中，星舰上级飞船均溅落海洋，可重复使用能力尚未得到验证。&lt;/p&gt;
+&lt;p&gt;星舰是迄今为止人类建造的最大火箭，设计目标为上级飞船与助推器均可安全回收并重复使用。SpaceX计划借助星舰将星链卫星送入轨道，并承接其他商业及政府机构的货运和载人任务。&lt;/p&gt;
+
+AI业务扩张，防务合同支撑营收
+
+&lt;p&gt;除航天主业外，SpaceX的人工智能业务亦成为股价上涨的重要支撑。&lt;/p&gt;
+&lt;p&gt;公司通过收购马斯克旗下xAI进入AI领域，并进一步收购代码编辑工具Cursor以扩大业务版图。尽管自研的Grok大模型在市场影响力上仍落后于OpenAI和Anthropic，但&lt;strong&gt;SpaceX正通过向谷歌、Anthropic等客户出租算力获取可观收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在政府合同层面&lt;/strong&gt;，据FedScout数据，SpaceX从美国国防部累计获得逾127亿美元合同收入，防务业务占比持续提升。&lt;/p&gt;
+&lt;p&gt;上周三9月30日，五角大楼任命马斯克担任&amp;quot;子午线计划&amp;quot;（Project Meridian）联合负责人，该项目旨在识别美国未来战争所需的武器、技术与军事能力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在品牌层面&lt;/strong&gt;，马斯克上周末宣布，将旗下AI子公司SpaceXAI更名为SpaceXSI，与特朗普总统今年9月29日签署的行政令保持一致。&lt;/p&gt;
+&lt;p&gt;该令要求政府机构以&amp;quot;超级智能&amp;quot;（super intelligence）及缩写&amp;quot;SI&amp;quot;取代&amp;quot;人工智能&amp;quot;表述。不过，截至周一，尚无正式更名步骤落地。&lt;/p&gt;
+
+IPO创纪录，财务数据显示高速增长与亏损并存
+
+&lt;p&gt;SpaceX于6月12日登陆纳斯达克，IPO发行价135美元，共发行5.556亿股，募资750亿美元，超越沙特阿美2019年创下的纪录。&lt;/p&gt;
+&lt;p&gt;上市首周，股价于6月16日创下201.80美元收盘高点，此后逐步回落，至8月初触底。此次反弹后，SpaceX股价较IPO发行价累计上涨约27%，马斯克持有约82.4%的公司投票权。&lt;/p&gt;
+&lt;p&gt;财务层面，SpaceX 2025年实现营收186.7亿美元，同比增长33%；但受高额投入影响，净利润由上年的7.91亿美元转为亏损49.4亿美元。&lt;/p&gt;
+&lt;p&gt;据福布斯估算，马斯克当前净资产领先亚马逊创始人杰夫·贝索斯逾6280亿美元，后者估算净资产约为3715亿美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI遭商标侵权诉讼，"Astra"名称引发法律纠纷</title><link>https://wallstreetcn.com/articles/3783030</link><guid>f27e52bf46c39aaf466209ba16b7926bc149001f8dfe6b99f053c60547c95b10</guid><pubDate>Mon, 05 Oct 2026 19:32:18 GMT</pubDate><description>&lt;p&gt;OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用&amp;quot;Astra&amp;quot;商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。&lt;/p&gt;
 &lt;p&gt;据彭博报道，TradeSun已于周一在加利福尼亚州北区联邦地区法院提起诉讼。该公司自2021年起以Astra为品牌销售软件产品，并于2022年获得联邦商标注册，注册范围涵盖AI软件服务。&lt;/p&gt;
 &lt;p&gt;TradeSun认为，OpenAI上月发布的GPT-6 Astra正在向消费者传递&amp;quot;Astra即OpenAI&amp;quot;的品牌认知，构成典型的&amp;quot;反向混淆&amp;quot;侵权。&lt;/p&gt;
 &lt;p&gt;OpenAI一名发言人通过电子邮件回应称：&amp;quot;这份诉状毫无任何依据，我们将继续专注于负责任地构建惠及所有人的技术。&amp;quot;此案是OpenAI在同一法院面临的最新一起商标诉讼，对其品牌战略和产品命名实践构成持续压力。&lt;/p&gt;
@@ -450,4 +380,23 @@ Anthropic：客户集中风险引发关注
 
 &lt;p&gt;Anthropic在近期提交的IPO招股书中披露，有两名客户合计贡献了其约25%的收入，但未点名具体客户。市场普遍认为，Meta和微软极有可能正是这两大客户或其中之一。&lt;/p&gt;
 &lt;p&gt;两大核心客户同步缩减内部用量，叠加自研替代工具的快速崛起，使Anthropic在IPO关键窗口期面临客户集中度过高的结构性风险。&lt;/p&gt;
-&lt;p&gt;尽管企业端外部部署需求尚在增长，能否对冲内部用量萎缩带来的收入压力，仍是投资者重点关注的不确定因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;尽管企业端外部部署需求尚在增长，能否对冲内部用量萎缩带来的收入压力，仍是投资者重点关注的不确定因素。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 联合G7释储后特朗普中选前再出手压油价：据称拟放宽免税“红色柴油”使用限制</title><link>https://wallstreetcn.com/articles/3783028</link><guid>2b79cb372469f42fe49f281a05bd0f05b9fb6b1d1aa832d47ec2365d74be4620</guid><pubDate>Mon, 05 Oct 2026 16:16:14 GMT</pubDate><description>&lt;p&gt;美国柴油价格仍处高位之际，特朗普政府又准备推出新的降价措施，这被视为11月美国中期选举前降低柴油这一关键燃料成本的最新举措。&lt;/p&gt;
+&lt;p&gt;据彭博社美东时间10月5日周一报道，特朗普政府计划放宽对“红色柴油”（dyed red diesel）的使用限制，预计最快于周一当天公布相关方案。报道援引知情者消息称，具体细节尚未完全确定，但这一措施将允许免税的红色柴油获得更广泛的使用范围，包括可能扩大至公路车辆。&lt;/p&gt;
+&lt;p&gt;红色柴油主要用于农机等非道路设备，由于免征联邦公路燃油税，价格通常低于普通公路柴油。若政府放宽其使用限制，卡车司机等柴油用户有望通过使用这种免税燃料降低成本。&lt;/p&gt;
+柴油价格仍高企，特朗普加码寻求缓解燃油成本
+&lt;p&gt;美国柴油价格近期虽已从历史高位回落，但仍明显高于年初水平。美国汽车协会（AAA）数据显示，截至上周日，美国柴油平均零售价为每加仑6.32美元，低于上月创下的6.53美元历史高点，但仍较2月28日的3.76美元高出六成以上。&lt;/p&gt;
+&lt;p&gt;柴油价格飙升正在给农民、卡车司机等高频柴油用户带来压力，尤其是美国正处于秋季收获季节。柴油同时广泛用于公路运输、农业机械、航运以及部分农村地区的供热和供电，价格上涨也进一步向运输及消费品成本传导。&lt;/p&gt;
+&lt;p&gt;因此，在11月中期选举临近之际，降低柴油价格已经成为特朗普政府的重要政策目标。周一，特朗普还将前往内布拉斯加州参加活动，进一步凸显其对农业州选民的重视。&lt;/p&gt;
+&lt;p&gt;不过，与释放战略储备不同，放宽红色柴油限制主要是降低部分用户的税费负担，并不会直接增加市场上的柴油供应。分析人士此前就警告，这一措施对解决当前柴油市场的供应紧张作用有限。&lt;/p&gt;
+G7刚宣布释储，特朗普放弃柴油出口禁令
+&lt;p&gt;此次行动也是特朗普政府近期连续压低柴油成本措施的一部分。&lt;/p&gt;
+&lt;p&gt;上周五，G7及其合作伙伴宣布，通过IEA协调释放最多1亿桶紧急石油和柴油储备，行动立即启动，未来4个月实施，并将在最初20天内前置释放大量柴油。&lt;/p&gt;
+&lt;p&gt;这一决定此前受到特朗普政府持续施压。特朗普上周五表示，美国将&lt;strong&gt;不再实施柴油出口禁令&lt;/strong&gt;，称欧洲拥有大量柴油，美国也将增加供应。&lt;/p&gt;
+&lt;p&gt;此前，特朗普政府曾认真考虑限制美国柴油出口，一些农业州共和党议员也要求采取出口限制，以增加美国国内供应、压低燃油价格。但能源行业警告称，出口禁令虽然可能带来短期供应缓解，却可能导致美国炼油商削减产量，最终反而推高国内燃料成本。&lt;/p&gt;
+&lt;p&gt;G7宣布释储后，特朗普政府转而寻求其他方式压低国内柴油成本。放宽红色柴油限制，正是目前摆上台面的替代方案之一。&lt;/p&gt;
+“红色柴油”能否真正压低价格仍存疑
+&lt;p&gt;红色柴油与普通公路柴油在燃料本身上基本相同，区别主要在于加入红色染料，用于识别其免税的非道路用途。扩大使用范围后，部分原本需要缴纳公路燃油税的用户可以转而使用免税柴油。&lt;/p&gt;
+&lt;p&gt;但这项政策的核心作用是&lt;strong&gt;减轻税负，而不是增加柴油产量&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;路透援引分析人士称，扩大红色柴油使用范围并不能改变柴油市场的供应基本面，炼油商依然会按照市场价格销售柴油，因此最终能够传导给消费者的降价幅度仍取决于具体政策设计以及零售商如何传递税费优惠。&lt;/p&gt;
+&lt;p&gt;这也意味着，特朗普政府目前实际上采取了两条不同路径：一方面依靠G7和IEA释放战略储备，增加短期市场供应；另一方面放宽红色柴油限制，直接降低部分柴油用户的税费负担。&lt;/p&gt;
+&lt;p&gt;在中期选举前压低柴油价格的目标明确，但两项措施能否持续改变美国柴油市场的供需格局，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
