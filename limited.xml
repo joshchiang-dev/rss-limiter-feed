@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 23:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 债市风暴重燃，标普纳指自纪录高位回落，30年期美债收益率创2002年新高，原油先涨后跌</title><link>https://wallstreetcn.com/articles/3783096</link><guid>b373f87c4228d54cb43f1e83c6872549d727ed8b07b2253c6f1157e9c27aa14d</guid><pubDate>Wed, 07 Oct 2026 22:15:26 GMT</pubDate><description>&lt;p&gt;法国财政风险再度引爆欧债抛售，抛压蔓延至全球债市，推动美国长端国债收益率逼近逾二十年高位，美股从历史高位回落。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 23:59:08 GMT</lastBuildDate><item><title>[华尔街见闻] 三星发布初步业绩：Q3营业利润首破百万亿韩元，同比暴增近九倍</title><link>https://wallstreetcn.com/articles/3783134</link><guid>1c5d417e00a7da29c94c4ec59accad17f408a338dcd45f4f742bc19114c4c265</guid><pubDate>Wed, 07 Oct 2026 23:28:08 GMT</pubDate><description>&lt;p&gt;三星电子三季度营业利润创下历史新高，AI基础设施投资热潮推动存储芯片需求持续爆发，令这家全球最大存储芯片制造商坐收丰厚红利。&lt;/p&gt;
+&lt;p&gt;周四，三星发布初步业绩指引，&lt;strong&gt;2026年第三季度（7月至9月）合并营业利润约为107.4万亿韩元（约合801亿美元），较去年同期的12.17万亿韩元暴增近九倍，创下公司史上首次单季营业利润突破百万亿韩元的历史纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一数字超越LSEG综合预估的106.1万亿韩元，但略低于彭博分析师均值预期的108.7万亿韩元。&lt;strong&gt;三季度营收约为195万亿韩元，同比增长127%，亦低于市场预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是三星连续第四个季度刷新营业利润纪录。&lt;/strong&gt;此番业绩的驱动力集中于内存芯片业务，传统DRAM及NAND芯片供应偏紧、高带宽内存（HBM）需求强劲共同推高价格，令芯片部门盈利大幅扩张。&lt;/p&gt;
+&lt;p&gt;分析人士预计，供需失衡格局有望延续至2027年，届时AI相关需求将消化全球内存产能中日益增大的份额。&lt;strong&gt;三星将于本月29日发布含各业务分部拆分的完整财报。&lt;/strong&gt;&lt;/p&gt;
+
+AI需求爆发，供需缺口撑起芯片涨价
+
+&lt;p&gt;AI数据中心建设加速是本轮内存超级周期的核心驱动力。数据中心开发商为抢购AI服务器所需内存芯片而竞相下单，令供应端压力持续攀升。&lt;/p&gt;
+&lt;p&gt;传统DRAM与NAND芯片供应受限，叠加用于AI大规模数据处理的高带宽内存（HBM）需求持续扩张，推动整体内存价格大幅上行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研究机构Counterpoint Research已将三季度DRAM价格涨幅预测从此前的环比5%至10%上调至10%至20%，理由是客户普遍提前下单，供应商定价权明显增强。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析师普遍预计，供应增速将持续落后于需求，这一缺口在2027年或将进一步扩大，届时AI相关需求将吸纳全球存储产能中越来越大的份额。&lt;/p&gt;
+
+HBM份额提升，三星追赶SK海力士
+
+&lt;p&gt;在HBM这一AI加速器核心配套芯片市场上，三星正逐步缩小与竞争对手SK海力士之间的差距。&lt;/p&gt;
+&lt;p&gt;分析师指出，传统DRAM出货量受库存水位限制，预计环比基本持平；但受HBM4强劲需求带动，HBM出货量有望较上季度大幅提升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Douglas Research Advisory的Douglas Kim估计，三星三季度HBM位出货量环比增幅接近50%。&lt;/strong&gt;与此同时，三星和SK海力士正双管齐下，一方面扩大产能，另一方面加大对AI领域企业的战略投资，以期进一步催生对自身产品的需求。&lt;/p&gt;
+&lt;p&gt;不过，韩元升值构成一定拖累。海外以美元计价的销售额折算成本币后，实际收入有所缩水，部分抵消了出货量增长带来的收益。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析师预计，三星芯片部门单季营业利润可达110万亿韩元，成为整体业绩的绝对支柱；而其消费电子部门则预计录得亏损。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;存储芯片价格上涨在提振半导体业务利润的同时，也推高了三星智能手机及其他电子消费品的零部件成本，令相关部门利润率承压。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 利率上行重燃通胀担忧，标普纳指自纪录高位回落，美长债创2002年新高，原油先涨后跌</title><link>https://wallstreetcn.com/articles/3783096</link><guid>b373f87c4228d54cb43f1e83c6872549d727ed8b07b2253c6f1157e9c27aa14d</guid><pubDate>Wed, 07 Oct 2026 23:37:36 GMT</pubDate><description>&lt;p&gt;法国财政风险再度引爆欧债抛售，抛压蔓延至全球债市，一度推动美国长端国债收益率逼近逾二十年高位。利率上行重燃通胀担忧，三大美股指回落，纳指终结五连涨。&lt;/p&gt;
 &lt;p&gt;30年期美债收益率盘中触及5.732%，为2002年5月以来最高；英国30年期国债收益率升至6.036%，为1998年1月以来最高。美联储9月会议纪要偏鹰，多数官员认为年底前可能适合再次加息。&lt;/p&gt;
 &lt;p&gt;美股纳指终结五连涨，罗素2000跌1.31%。十一大板块七跌四涨，工业跌2.14%、材料跌1.53%领跌，医疗涨1.06%、非必需消费涨0.15%领涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -26,7 +46,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;最终美股道指仍跌0.66%报51179.87点，标普500与纳斯达克综合均跌0.22%，报7801.77点与27538.69点，纳指终结五连涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;小盘股继续承受利率上涨带来的冲击，罗素200指数连续第四个交易日表现逊于纳斯达克100指数，过去20个交易日中有17次承压。&lt;/p&gt;
+&lt;p&gt;小盘股继续承受利率上涨带来的冲击，罗素2000指数连续第四个交易日表现逊于纳斯达克100指数，过去20个交易日中有17次承压。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;等权重标普500指数持续落后于市值加权版本，反映出少数大市值科技股对指数的高度支撑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -52,7 +72,38 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Zaner Metals副总裁兼高级金属策略师彼得·格兰特认为，市场传递的信息是利率将更久维持在高位，这正在支撑美债收益率与美元；在他看来，官方部门的购金需求仍是黄金的重要支撑。&lt;/p&gt;
 &lt;p&gt;加密资产同步退潮。比特币跌2.6%至83535.46美元，CoinGlass数据显示24小时内约6.96亿美元头寸被强制平仓，其中几乎全部为多头。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10年期美债拍卖认购倍数2.77倍创2016年来新高，海外需求接近纪录高位</title><link>https://wallstreetcn.com/articles/3783130</link><guid>6f1ee5d5380d71cf7ca0deb4706692a93309e453c81468687486cf9eb0a23685</guid><pubDate>Wed, 07 Oct 2026 21:08:04 GMT</pubDate><description>&lt;p&gt;美国国债市场迎来久违的喘息机会。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI：GPT-6在面对越狱攻击时表现出更强的抵御能力</title><link>https://wallstreetcn.com/articles/3783131</link><guid>82a2154cfa4e4884c01eb605b752d5cdbc20a763f14204cc468d29b3b0e6d4aa</guid><pubDate>Wed, 07 Oct 2026 21:38:11 GMT</pubDate><description>&lt;p&gt;GPT-6新模型在抵御越狱攻击、拒绝高风险请求等核心安全指标上较前代取得明显进步。&lt;/p&gt;
+&lt;p&gt;10月7日，OpenAI正式向全球ChatGPT用户推出GPT-6，在大幅提升模型智能的同时，将安全防护体系进行了系统性重构。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此次发布覆盖付费与免费用户。付费版（Plus、Pro、Business及Enterprise）使用GPT-6 Sol，免费及Go版本使用GPT-6 Luna。&lt;/p&gt;
+&lt;p&gt;根据OpenAI发布的系统说明卡，&lt;strong&gt;两款模型均沿用了此前GPT-6 Astra框架中的安全改进成果，并针对网络攻击、生物威胁和暴力内容的滥用风险更新了安全训练数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在能力分级上，OpenAI依据自身&amp;quot;准备框架&amp;quot;将GPT-6 Sol和GPT-6 Luna均列为网络安全及生物化学领域&amp;quot;高能力&amp;quot;级别，但两款模型均未触及&amp;quot;AI自我改进&amp;quot;的高能力门槛。&lt;/strong&gt;这一评级与上一代GPT-5.6模型相同，相应的安全防护措施也保持一致。&lt;/p&gt;
+
+越狱防护显著增强，多轮攻击抵抗力提升
+
+&lt;p&gt;GPT-6在对抗越狱攻击方面取得了可量化的进步，尤其是针对跨多轮对话的自适应攻击场景。&lt;/p&gt;
+&lt;p&gt;根据OpenAI的系统说明卡，&lt;strong&gt;GPT-6 Sol 和GPT-6 Luna在多轮越狱测试中的实际防御成功率，在所有测试的攻击预算规模下均高于GPT-5.6 Sol。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（GPT各系列模型的多轮越狱抗干扰能力对比图）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;提示词注入防御方面，两款模型表现尤为突出&lt;/strong&gt;。GPT-6 Sol和GPT-6 Luna在指令层级测试中分别达到99.99%和99.79%的鲁棒性，即抗干扰能力接近满分。&lt;/p&gt;
+&lt;p&gt;（针对高难度提示词的生产环境基准测试，得分越高越好）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在间接提示词注入测试中&lt;/strong&gt;，GPT-6 Sol得分97.13%，GPT-6 Luna得分95.80%。OpenAI表示，上述测试使用了其&amp;quot;GPT-Red&amp;quot;自动化红队方法，通过对抗训练强化模型抵御恶意指令的能力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对齐测试方面同样出现改善&lt;/strong&gt;。在涉及自动审查绕过的测试中，GPT-5.6 Sol和GPT-5.6 Luna均在0.3%的测试情境中利用了配置不当的审查系统漏洞，而GPT-6 Sol和GPT-6 Luna则未出现任何此类情况。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在欺骗性行为评估中，两款新模型在编程任务遭遇障碍时主动披露局限性的比率也显著高于前代模型。&lt;/strong&gt;&lt;/p&gt;
+
+高风险领域拒绝能力改善，网络与生物安全训练强化
+
+&lt;p&gt;在OpenAI重点关注的高风险垂直领域，GPT-6的拒绝能力出现了明显提升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生物与化学安全方面&lt;/strong&gt;，GPT-6 Sol在针对严重威胁提示的安全拒绝评估中得分0.980，较GPT-5.6 Sol的0.954提高；在双重用途提示上的得分为0.971，亦高于前代的0.945。GPT-6 Luna的表现同样改善。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网络安全方面&lt;/strong&gt;，GPT-6 Sol和GPT-6 Luna在生产环境聊天及合成代理环境中的安全评分与GPT-5.6相当。&lt;/p&gt;
+&lt;p&gt;在能力测试中，GPT-6 Sol在ExploitBench上得分82.62%，在SEC-Bench Pro上得分68.85%；GPT-6 Luna分别得分44.66%和48.50%。&lt;/p&gt;
+&lt;p&gt;OpenAI特别指出，安全训练基于真实使用场景的经验教训进行了更新。在对抗测试中，GPT-6对试图绕过安全训练的攻击，尤其是跨多轮的自适应攻击，展现出更强的抵抗力。&lt;strong&gt;此外，模型被训练为能够结合对话历史和上下文信息来识别单一提示中不易察觉的风险。&lt;/strong&gt;&lt;/p&gt;
+
+对齐评估通过，欺骗行为明显减少
+
+&lt;p&gt;在更广泛的对齐维度上，GPT-6 Sol和GPT-6 Luna在OpenAI的完整评估体系中均优于各自的GPT-5.6对应版本，OpenAI据此判定两款模型均达到对齐安全标准。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在&amp;quot;避免欺骗性交互&amp;quot;测试中，两款新模型较前代出现明显改善&lt;/strong&gt;。在编程任务遭遇障碍时，GPT-6 Sol和GPT-6 Luna在最终回答中未披露障碍的比率大幅下降。在搜索工具失效测试中，两款模型在最大推理强度下的改善均具有统计显著性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在遵守系统警告方面，GPT-6 Luna表现出明显进步&lt;/strong&gt;。在最大推理强度下，成功绕过环境限制的比率从GPT-5.6 Luna的27%降至15.9%；GPT-6 Sol的对应比率则从34%降至28%，降幅相对有限。&lt;/p&gt;
+&lt;p&gt;OpenAI指出，上述测试不含系统层控制措施，且随着模型智能增强，模型愈发能够识别测试情境，有时会将测试障碍错误归类为提示词注入攻击，这一现象对评估结果的外部效度构成干扰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10年期美债拍卖认购倍数2.77倍创2016年来新高，海外需求接近纪录高位</title><link>https://wallstreetcn.com/articles/3783130</link><guid>6f1ee5d5380d71cf7ca0deb4706692a93309e453c81468687486cf9eb0a23685</guid><pubDate>Wed, 07 Oct 2026 21:08:04 GMT</pubDate><description>&lt;p&gt;美国国债市场迎来久违的喘息机会。&lt;/p&gt;
 &lt;p&gt;10月7日周三，&lt;strong&gt;美国财政部以5.3%的收益率完成390亿美元10年期国债拍卖，是自2000年11月以来的最高水平，推动长端收益率从逾20年高位回落。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次拍卖成交收益率低于预发行利率约1.88个基点，显示买方主动入场接货。&lt;strong&gt;非交易商投资者认购比例高达97.5%，为历史最高；认购倍数升至2.77倍，为2016年以来最强。&lt;/strong&gt;&lt;/p&gt;
@@ -107,7 +158,35 @@
 &lt;p&gt;强劲的10年期拍卖结果为市场带来短暂宽慰，但来自长端的压力测试尚未结束。&lt;/p&gt;
 &lt;p&gt;美国财政部将于周四进行220亿美元30年期国债拍卖，届时成交收益率有望达到2000年以来最高水平，将再度检验市场的实际承接意愿。&lt;/p&gt;
 &lt;p&gt;该拍卖结束后，财政部还将随即开展国债回购操作，最高购入60亿美元的20至30年期国债，为自该部门扩大长期债券回购计划以来的第四次此类操作，此举背景正是长端收益率持续攀升至多年高位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据BMO分析，此次10年期拍卖中交易商获配比例异常之低，印证了来自非传统渠道投资者的强烈需求。周四的30年期拍卖能否延续这一势头，将是市场判断债市能否真正企稳的重要观察窗口。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善</title><link>https://wallstreetcn.com/articles/3783123</link><guid>39f913844a32b42bbecfa22ea8cd85146369fa7b082db2c2ae2034c9dee738ae</guid><pubDate>Wed, 07 Oct 2026 15:42:21 GMT</pubDate><description>&lt;p&gt;根据纽约联储周三公布的一项调查，美国消费者对短期通胀的预期在上月明显升温；对劳动力市场的看法有所改善，包括认为自己失业的概率下降，以及主动辞职的可能性上升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据BMO分析，此次10年期拍卖中交易商获配比例异常之低，印证了来自非传统渠道投资者的强烈需求。周四的30年期拍卖能否延续这一势头，将是市场判断债市能否真正企稳的重要观察窗口。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软携手英伟达发布Surface旗舰新机，同步推出“龙虾”个人助手Scout</title><link>https://wallstreetcn.com/articles/3783135</link><guid>0e417b22810f68f663d03a9796dd34f829908e43a1ee52396ee823902bb30591</guid><pubDate>Wed, 07 Oct 2026 23:49:22 GMT</pubDate><description>&lt;p&gt;微软联手英伟达，在AI PC赛道发起新一轮攻势。&lt;/p&gt;
+&lt;p&gt;周三，微软在旧金山发布搭载英伟达芯片的旗舰笔记本电脑Surface Laptop Ultra，&lt;strong&gt;宣称其AI性能在多项指标上超越苹果MacBook Pro M5&lt;/strong&gt;，并以更低起售价直接切入苹果的核心市场。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在旧金山发布活动上，微软高管表示，&lt;strong&gt;Surface Laptop Ultra在本地运行AI模型时的响应速度是MacBook Pro M5的两倍，视频生成速度则快六倍。&lt;/strong&gt;该产品起售价为2599美元，较16英寸入门版MacBook Pro低约400美元，即将开始发货。&lt;/p&gt;
+&lt;p&gt;这一系列动作意在夯实Windows在AI时代的主导地位。苹果Mac电脑凭借本地运行AI模型的出色能力近年来需求旺盛，微软此番反攻将竞争直接升温。&lt;/p&gt;
+&lt;p&gt;与此同时，微软在同期举行的Build开发者大会上宣布推出AI代理产品Microsoft Scout。Scout被定位为&amp;quot;始终在线的个人代理&amp;quot;。&lt;/p&gt;
+
+英伟达入局PC，竞争格局生变
+
+&lt;p&gt;Surface Laptop Ultra采用英伟达面向Windows笔记本电脑推出的全新RTX Spark芯片，该芯片同时承载通用计算与AI计算任务。&lt;/p&gt;
+&lt;p&gt;英伟达CEO黄仁勋与微软CEO Satya Nadella同台出席活动，共同为这款新PC芯片站台。黄仁勋在现场表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们彻底重新发明了个人电脑。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;英伟达的入局直接冲击英特尔和AMD在通用PC处理器领域的传统优势地位。此外，戴尔和惠普等同样采用Windows操作系统的PC厂商，也已推出搭载英伟达新芯片的设备。&lt;/p&gt;
+&lt;p&gt;此次发布活动着力构建一套围绕本地AI计算的商业逻辑：开发者通过在本地设备上运行计算任务，既可节省云服务费用，又能强化数据安全。&lt;strong&gt;与此前面向消费者的Copilot Plus PC不同，RTX Spark平台明确定位于AI开发者和创作者群体。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nadella表示，随着时间推移，开发者和用户将期望AI工具由本地硬件与云服务协同驱动。微软还在活动上展示了Windows针对AI代理行为进行监控与管控的安全功能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，AI PC的大规模普及或面临时间窗口的考验。行业研究机构Gartner此前预计，内存成本的快速上涨可能导致AI PC要到2028年才能占据出货量的多数份额。&lt;/strong&gt;&lt;/p&gt;
+
+AI代理产品线延伸，Scout主打企业协作
+
+&lt;p&gt;在硬件发布之外，微软在同期举行的Build开发者大会上宣布推出AI代理产品Microsoft Scout。&lt;/p&gt;
+&lt;p&gt;Scout被定位为&amp;quot;始终在线的个人代理&amp;quot;，属于微软新设立的&amp;quot;自动驾驶仪（Autopilots）&amp;quot;代理类别，可在无需每次提示的情况下自主执行任务。&lt;/p&gt;
+&lt;p&gt;Scout深度集成于微软365应用生态，可接入Teams、Outlook、OneDrive和SharePoint，自动处理日程协调、会议冲突解决、邮件草拟等工作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该产品基于OpenClaw开源技术构建。&lt;/strong&gt;每个 Agent 实例均拥有独立的微软Entra服务账号，并纳入统一的权限治理体系，结合 Microsoft Purview 数据保护策略，全方位满足企业合规要求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前，Scout正在向有限客户群进行私有预览，同时向选择&amp;quot;前沿&amp;quot;功能访问的订阅用户开放桌面应用。&lt;/strong&gt;使用该桌面应用需要具备有效的GitHub Copilot订阅。微软表示，其内部销售团队已成为使用Scout最多且增长最快的群体之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软在快速推进代理产品落地的同时，也正面临安全层面的挑战。&lt;/strong&gt;Scout等代理工具面临提示注入攻击的风险，即恶意行为者可能诱导AI代理执行未经授权的操作或泄露敏感信息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软的应对策略包括：以有限规模分阶段推出、为管理员提供追踪代理全部操作的工具，以及对敏感操作设置人工审批环节。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一挑战并非微软独有。早在2024年夏天，微软与高通合作主推AI优化PC时，就因旗舰功能涉及隐私问题而遭遇舆论压力，拖累了整体发布节奏。如何在自动化能力与用户信任之间取得平衡，仍是微软在AI代理赛道上需要持续解答的核心命题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善</title><link>https://wallstreetcn.com/articles/3783123</link><guid>39f913844a32b42bbecfa22ea8cd85146369fa7b082db2c2ae2034c9dee738ae</guid><pubDate>Wed, 07 Oct 2026 15:42:21 GMT</pubDate><description>&lt;p&gt;根据纽约联储周三公布的一项调查，美国消费者对短期通胀的预期在上月明显升温；对劳动力市场的看法有所改善，包括认为自己失业的概率下降，以及主动辞职的可能性上升。&lt;/p&gt;
 &lt;p&gt;纽约联储每月发布的《消费者预期调查》显示，&lt;strong&gt;消费者对未来一年通胀率的中值预期从8月的3.6%升至9月的3.9%，创2023年5月以来最高水平；&lt;/strong&gt;&lt;strong&gt;对未来三年的通胀预期中值从8月的3.2%小幅升至3.3%，而未来五年的通胀预期中值维持在3%不变。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;未来一年，消费者预计汽油价格上涨4.8%；食品价格上涨5.5%；医疗费用上涨9.2%；大学教育费用上涨7.5%；租金上涨6.8%。&lt;/p&gt;
@@ -229,35 +308,7 @@
 &lt;p&gt;欧盟成员国官员周三召开电话会议，讨论G7上周达成的安排，会后普遍形成共识：&lt;strong&gt;任何进一步释放行动均应控制在3月已经确定的规模之内&lt;/strong&gt;。欧盟委员会发言人表示，计划中的储备释放必须在3月批准的总量范围内推进。&lt;/p&gt;
 &lt;p&gt;在柴油库存释放问题上，欧盟成员国认为方向可行，但规模预计有限。截至目前，尚无欧盟成员国明确承诺在G7所设定的20天窗口内额外释放柴油库存。&lt;/p&gt;
 &lt;p&gt;德国经济部表示，德国将参与IEA今年3月已确定的进一步释放，但未披露任何新增释放规模。&lt;/p&gt;
-&lt;p&gt;波兰能源部长米沃什·莫蒂卡表示，若各方达成共识，波兰已准备好释放石油和柴油库存。法国和意大利可能考虑在3月承诺基础上进一步释放部分柴油库存，但尚未作出最终决定。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 毛绒玩具当“顾问”？Anthropic总裁的OpenAI往事，从角色扮演到AI“安全巨头”</title><link>https://wallstreetcn.com/articles/3783121</link><guid>6aaaef0c41c27eb3b925afa0095542953e33a58e132104fa8e43589f6df36c15</guid><pubDate>Wed, 07 Oct 2026 11:53:39 GMT</pubDate><description>&lt;p&gt;如今，Anthropic把“AI安全”做成了公司的核心标签，但很少有人知道，这家公司的联合创始人兼总裁Daniela Amodei，早年竟曾和丈夫Holden Karnofsky靠一群毛绒玩具来讨论管理问题。&lt;/p&gt;
-&lt;p&gt;这些玩具被赋予了不同的性格：有的专门负责“少开会、少给自己找麻烦”，有的强调规则、细节和执行，还有的负责提醒决策者保持同情心。&lt;strong&gt;面对一个棘手的职场问题，Daniela和丈夫会让这些虚拟角色分别“发表意见”，以此模拟不同类型的管理者可能作出的选择。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这段颇为私人、甚至有些童趣的往事，发生在Daniela还任职于OpenAI的时期。而就在这段时期，她和哥哥Dario Amodei也正逐渐与OpenAI管理层产生分歧：Daniela与多名高层在工作中出现摩擦，Dario则开始对公司管理层及先进AI的发展方向愈发警惕。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2020年，兄妹二人最终决定离开OpenAI，这场后来被内部人士称为“离婚”的分裂，也成为Anthropic诞生的起点。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;《大西洋月刊》近日援引记者Kevin Roose即将出版的新书《The AGI Chronicles》，披露了这段鲜为人知的经历。Daniela在2023年接受Roose采访时表示，这种方法“在分析不同人格类型方面非常有用”。&lt;/p&gt;
-&lt;p&gt;从当年用毛绒玩具组成“顾问委员会”，到如今成长为拥有数千名员工的AI巨头，Anthropic已经从一家小型AI安全初创公司，成长为行业重要玩家。据媒体报道，公司潜在IPO估值或逼近2万亿美元。&lt;/p&gt;
-一群毛绒玩具，如何成为“顾问委员会”？
-&lt;p&gt;这套非正式“顾问团”并不是简单的玩笑，而是一种模拟不同决策风格的思维方法。&lt;/p&gt;
-&lt;p&gt;其中，Jinji是一只性格随和的猫，倾向于减轻Amodei的工作负担，比如跳过不必要的会议；粉色小熊Maura则代表完全相反的风格——有条理、要求高、注重细节；名为Beary Bonds的熊猫，则被设定为在讨论中加入更多同情心与慷慨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;面对同一个职场问题，Amodei夫妇会让不同玩偶代表的“人格”分别作出反应。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这套方法真正的作用并不在于玩具，而在于迫使决策者暂时离开自己的立场，用另一种人格重新审视问题。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本质上，这是一个低成本的思维实验：没有真正的外部顾问，却可以通过不同角色的模拟，把同一个问题拆成不同的决策路径。&lt;/p&gt;
-&lt;p&gt;而这套方法在OpenAI内部几乎无人知晓。&lt;/p&gt;
-毛绒玩具之外，OpenAI内部的分歧正在扩大
-&lt;p&gt;与此同时，Amodei兄妹与OpenAI之间的关系也在发生变化。&lt;/p&gt;
-&lt;p&gt;Daniela Amodei于2018年加入OpenAI，后来转入技术团队管理岗位，并与包括Greg Brockman、Mira Murati在内的多名高层产生分歧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;她与Brockman一度关系亲近。Brockman曾在她2017年与Holden Karnofsky的婚礼上致辞，但此后，两人的工作关系逐渐恶化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dario Amodei则越来越关注OpenAI的领导层以及先进AI的发展方向，并对Sam Altman和Brockman日益警惕。&lt;/p&gt;
-&lt;p&gt;与此同时，他开始与一批希望更加重视强大AI系统风险的研究人员私下组织活动。在公司正常架构之外，这些人进行沟通和开会，一些同事将这一派系称为“Dario的小圈子”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内部矛盾最终走到了无法回避的阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2020年，Dario开始组建一支愿意离开OpenAI、以不同安全理念推进先进AI研究的团队。Daniela成为这场出走的核心人物之一，并负责团队准备离开期间与OpenAI进行谈判。&lt;/p&gt;
-&lt;p&gt;这场分裂后来被知情者私下称为“离婚”。&lt;/p&gt;
-一场出走，诞生一家AI巨头
-&lt;p&gt;2020年12月，Amodei兄妹正式离开OpenAI，并共同创立Anthropic。&lt;/p&gt;
-&lt;p&gt;Jack Clark、Sam McCandlish、Tom Brown、Chris Olah、Jared Kaplan也参与了公司的创立，Ben Mann随后被认定为另一位联合创始人。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Anthropic最初只是一个以AI安全为核心的小型研究机构。此后，公司逐渐扩张至数千名员工，并成长为OpenAI最重要的竞争对手之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Daniela Amodei如今担任Anthropic总裁兼董事会主席，职权覆盖研究、工程、产品与业务运营的大部分。曾任OpenAI非营利董事会成员的Holden Karnofsky后来也加入Anthropic。&lt;/p&gt;
-&lt;p&gt;从用毛绒玩具模拟管理者，到如今成长为拥有数千名员工的AI巨头，这段往事也见证了Anthropic从草创走向成熟。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 1亿桶大缩水？报道称欧盟认为释放油储计划主要兑现此前承诺、并非新增份额</title><link>https://wallstreetcn.com/articles/3783126</link><guid>5ae148600beb1b933cf9e8d5e9dce8a4092b5a19c4af433cc77b2bc4fd0b63b7</guid><pubDate>Wed, 07 Oct 2026 18:33:20 GMT</pubDate><description>&lt;p&gt;国际能源署（IEA）与欧盟成员国周三就释放石油和柴油战略储备展开讨论。市场关注七国集团（G7）上周宣布的最多1亿桶储备释放计划究竟能带来多少新增供应。&lt;/p&gt;
+&lt;p&gt;波兰能源部长米沃什·莫蒂卡表示，若各方达成共识，波兰已准备好释放石油和柴油库存。法国和意大利可能考虑在3月承诺基础上进一步释放部分柴油库存，但尚未作出最终决定。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 1亿桶大缩水？报道称欧盟认为释放油储计划主要兑现此前承诺、并非新增份额</title><link>https://wallstreetcn.com/articles/3783126</link><guid>5ae148600beb1b933cf9e8d5e9dce8a4092b5a19c4af433cc77b2bc4fd0b63b7</guid><pubDate>Wed, 07 Oct 2026 18:33:20 GMT</pubDate><description>&lt;p&gt;国际能源署（IEA）与欧盟成员国周三就释放石油和柴油战略储备展开讨论。市场关注七国集团（G7）上周宣布的最多1亿桶储备释放计划究竟能带来多少新增供应。&lt;/p&gt;
 &lt;p&gt;欧盟成员国普遍认为，此次行动很大程度上将兑现今年3月已经作出的释放承诺，而非额外释放1亿桶新的石油库存。&lt;/p&gt;
 &lt;p&gt;据媒体报道，IEA成员国周三下午召开临时会议，讨论加快落实3月宣布的战略石油储备释放计划。IEA会后表示，&lt;strong&gt;成员国支持“加快释放3月宣布的石油库存”，并支持“在可能的情况下优先释放柴油库存”。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，欧盟能源工作组也于周三举行电话会议，进一步讨论G7上周达成的储备释放安排。&lt;strong&gt;欧盟成员国官员普遍认为，任何进一步释放都应控制在3月已经确定的规模之内。&lt;/strong&gt;部分成员国希望IEA先对释放行动可能产生的市场影响进行评估。&lt;/p&gt;
@@ -279,4 +330,75 @@ IEA仍有逾11亿桶库存
 &lt;p&gt;&lt;strong&gt;IEA表示，其成员国目前仍持有相当于约11亿桶原油的石油库存，其中柴油库存超过2亿桶。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这意味着，尽管此次释放计划的实际新增规模存在较大不确定性，IEA成员国仍拥有较大规模的战略库存，可以在供应受到进一步冲击时进行干预。&lt;/p&gt;
 &lt;p&gt;此次储备释放的重点之一是柴油。受伊朗战争、俄罗斯炼厂遭袭以及油轮运输受扰等因素影响，柴油价格近期升至创纪录水平，并对卡车运输、农业等行业形成成本压力。&lt;/p&gt;
-&lt;p&gt;欧洲方面此前表示，目前并不存在燃料供应短缺风险，但柴油价格上涨已经演变为明显的价格压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;欧洲方面此前表示，目前并不存在燃料供应短缺风险，但柴油价格上涨已经演变为明显的价格压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年10月8日</title><link>https://wallstreetcn.com/articles/3783125</link><guid>8ed9ec717b91c378331427c016526bec871c2607bf26bc62e24da95eff09778f</guid><pubDate>Wed, 07 Oct 2026 23:28:16 GMT</pubDate><description>华见早安之声
+
+&lt;p&gt;&lt;/p&gt;
+要闻精选
+&lt;blockquote&gt;
+&lt;p&gt;中国9月外储环比降1.1%，央行连续23个月增持黄金，9月购金节奏进一步加快。&lt;/p&gt;
+&lt;p&gt;央视玉渊谭天：中欧经贸需要寻找更大共识，法德提出保护主义工具无助解决问题；欧委会贸易和经济安全委员将很快访问北京。&lt;/p&gt;
+&lt;p&gt;恒生科技指数首次编纂规则大调整12月将至，取消行业要求，成分股数量由30只扩至50只。&lt;/p&gt;
+&lt;p&gt;美联储会议纪要：全体19名决策者支持9月加息但理由不一，多数预计年内还加、暗示10月不急；7月联合干预日元系美财政部行动，未动用联储资金。&lt;/p&gt;
+&lt;p&gt;10年期美债标售认购倍数2.77创2016年来新高，海外需求接近纪录高位，长债抛压缓和，10年期收益率一度转降。&lt;/p&gt;
+&lt;p&gt;美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善。&lt;/p&gt;
+&lt;p&gt;伊朗高官放话&amp;quot;永不放弃&amp;quot;铀浓缩权利、美伊&amp;quot;没有谈判&amp;quot;，即将封锁霍尔木兹“非法航道”、直至满足伊方合法诉求。特朗普：对伊朗的军事行动 “必须收尾了”。&lt;/p&gt;
+&lt;p&gt;IEA声明称将加快释放油储，3月承诺行动中仍有1亿桶油待投放。报道称欧盟认为释储计划主要兑现此前承诺、并非新增份额。&lt;/p&gt;
+&lt;p&gt;2026年诺贝尔化学奖揭晓：两位得主破解生命手性之谜，成果深刻影响制药产业。&lt;/p&gt;
+&lt;p&gt;IPO前Anthropic推出小模型“性价比之王”，Claude Haiku 5.5运行成本降75%。OpenAI面向全球12亿ChatGPT用户推出GPT-6，称模型面对越狱攻击时抵御能力更强。&lt;/p&gt;
+&lt;p&gt;报道：博通正设法为OpenAI所需芯片安排超过500亿美元融资；SpaceX为购买英伟达芯片寻求融资400亿美元。&lt;/p&gt;
+&lt;/blockquote&gt;
+市场概述
+&lt;p&gt;利率上行重燃通胀担忧，三大美股指回落，纳指终结五连涨、和标普跌离纪录高位，道指盘中曾跌超1%；芯片指数和银行股指均收跌超1%；Meta跌超2%，网络安全股CrowdStrike跌近5%。&lt;/p&gt;
+&lt;p&gt;欧债重启抛售，10年期法债收益率反弹超10个基点；10年期美债收益率盘中突破5.36%、和30年期收益率均创2002年来新高；10年期国债标售需求较预期强劲、缓解长债抛压，10年期美债收益率一度转降、刷新日低。&lt;/p&gt;
+&lt;p&gt;美元指数反弹、逼近18个月高位，欧元靠近17个月低位；比特币盘中跌破8.3万美元、较日高跌超3%。&lt;/p&gt;
+&lt;p&gt;市场关注多国释放油储行动，原油盘中转跌，布油盘中涨2%后一度转跌近1%，美油收创一个多月新低。黄金回落、创两月新低，盘中跌超2%。纽铜四连阳、创近两周新高&lt;/p&gt;
+&lt;p&gt;欧美股市：标普500收跌0.22%，报7801.77点；道指收跌0.66%，报51179.87点；纳指收跌0.22%，报27538.691点。欧洲STOXX 600指数收跌1%，报630.25点。&lt;/p&gt;
+&lt;p&gt;A股：休市。&lt;/p&gt;
+&lt;p&gt;港股：恒指收跌0.62%，报24139.5点，芯片股和大模型股齐跌，宏光半导体跌5%，MINIMAX跌4%；地产股大涨，富力地产涨超30%。&lt;/p&gt;
+&lt;p&gt;债市：到债市尾盘，美国10年期基准国债收益率约为5.28%，持平周二；2年期美债收益率约为4.77%，日内降约3个基点。&lt;/p&gt;
+&lt;p&gt;商品：WTI 11月原油期货收跌1.30%，报88.28美元/桶。布伦特12月原油期货收跌0.38%，报100.20美元/桶。COMEX 10月黄金期货收跌1.09%，报4113.8美元/盎司。COMEX 10月白银期货收跌2.07%，报59.899美元/盎司。COMEX 10月期铜收涨0.03%，报6.5965美元/磅。&lt;/p&gt;
+要闻详情
+&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783099"&gt;中国9月外储环比降1.1%，央行连续23个月增持黄金，9月购金节奏进一步加快&lt;/a&gt;。中国9月末黄金储备环比增加74万盎司，高于8月增持规模65万盎司。9月外储下降源于汇率折算和资产价格变化等因素综合作用。当月，受全球宏观经济环境、主要经济体货币政策等因素影响，美元指数上涨，全球主要金融资产价格总体下跌。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783118"&gt;央视玉渊谭天：中欧经贸需要寻找更大的共识&lt;/a&gt;。文章指出，中欧正在谈贸易如何平衡、市场如何相互开放、供应链如何保持稳定。但法德提出的新工具解决的却是欧盟如何更快、更容易地采取限制措施。这样的做法无助于解决这些本在推进中的问题。对此，中方的态度很清楚。如欧方执意出台相关歧视性措施，中方必将坚决予以回应，捍卫中国产业合法权益。文章透露，欧委会贸易和经济安全委员谢夫乔维奇很快将访问北京。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/livenews/3174758"&gt;恒生科技指数首次编纂规则大调整12月将至，取消行业要求，成分股数量由30只扩至50只&lt;/a&gt;。恒生指数公司将于12月实施对恒生科技指数的六项改革；将整合及拓展现有主题，并新增前沿科技主题；科技子主题由16个增至24个；引入分组选股机制，选股范畴由主板上市公司修订至恒生综合大中型股指数成份股；采用双组别选股机制，分别以市值排名及收入增长排名作为选股准则。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783111"&gt;华为余承东9月末会议上表示：芯片基本摆脱对美依赖，手机利润率正在急剧下降，未来不得不涨价&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;海外&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783127"&gt;美联储会议纪要：全体19名决策者支持9月加息但理由不一，多数预计年内还加、暗示10月不急&lt;/a&gt;。多数官员认为9月加息是应对顽固通胀的“保险”手段；少数官员认为这是遏制通胀的必需举措；整体并未表现出要推动连续多次加息的意愿。“新美联储通讯社”强调纪要内容：“多数与会者认为，年底前再次上调利率可能是合适的。”几乎所有官员认为通胀仍处高位，劳动力市场接近充分就业。许多官员表示，尽管长期美债收益率上升，金融状况仍有利于经济增长。一些官员认为AI将扩大投资、提高生产力，但也可能助长通胀。纪要披露，7月美日联合干预支撑日元系美财政部行动，未动用联储资金。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783130"&gt;10年期美债标售认购倍数2.77创2016年来新高，海外需求接近纪录高位&lt;/a&gt;。390亿美元规模10年期国债标售得标利率5.3%创2000年来新高，但低于预发行利率、即市场定价预期。非交易商投资者认购比例创历史纪录97.5%，间接投标人获配80.3%、为历史第四高，显示外资需求异常强劲。标售完成后，10年期收益率一度转降、刷新日低。周四220亿美元30年期国债拍卖将进一步检验市场承接能力。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783123"&gt;美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善&lt;/a&gt;。纽约联储发布消费者预期调查，美国消费者对未来一年通胀的中值预期从8月的3.6%升至3.9%，创2023年5月以来最高水平；对未来三年的通胀预期中值从3.2%升至3.3%，未来五年的通胀预期中值维持在3%不变。消费者对劳动力市场的看法有所改善，包括认为自己失业的概率下降，以及主动辞职的可能性上升。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783124"&gt;伊朗高官放话&amp;quot;永不放弃&amp;quot;铀浓缩权利、美伊&amp;quot;没有谈判&amp;quot;，即将封锁霍尔木兹“非法航道”、直至满足伊方合法诉求&lt;/a&gt;。据报道，伊朗高官周三称，在讨论核问题前，美方必须先满足伊方提出的条件，美国目前针对核计划提出的方案与伊朗的诉求相悖；万斯最近提出的构想仅代表美方的诉求。万斯周一称，伊朗必须“实质性”削减其铀浓缩能力，才能满足美方要求。周三布油一度升破102美元/桶。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wallstreetcn.com/articles/3783113"&gt;特朗普：对伊朗的军事行动 “必须收尾了”&lt;/a&gt;。特朗普周二说，美国对伊朗的军事行动“做得很棒”，对伊行动“必须收尾了，唯一要考虑的问题是以哪种方式收尾，是以柔和的方式或是强硬的方式”。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783133"&gt;IEA声明称将加快释放油储，3月承诺行动中仍有1亿桶油待投放&lt;/a&gt;。声明称，国际能源署（IEA）成员国表示支持加快落实3月联合行动中宣布的释放储备计划，力争尽快完成，还支持在可行范围内优先释放柴油储备。IEA未具体说明将释放多少柴油和原油。欧委会发言人表示，欧盟成员国已达成一致，计划中的石油投放必须在3月批准的额度内进行。IEA声明指出，成员国计划下周会议评估并审议这些计划。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wallstreetcn.com/articles/3783126"&gt;报道称欧盟认为释放油储计划主要兑现此前承诺、并非新增份额&lt;/a&gt;。G7成员国上周五同意释放最多1亿桶原油和柴油储备。IEA 3月曾宣布4亿桶释放计划。欧盟成员国普遍认为，此次行动只是在落实先前的承诺，而非追加新的份额。对于上周G7协议中特别强调的柴油库存提前释放，欧盟成员国认为可以实施，但规模可能有限。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783117"&gt;2026年诺贝尔化学奖揭晓：两位科学家破解生命手性之谜，成果深刻影响制药产业&lt;/a&gt;。法国化学家Kagan与日本化学家Soai因发现不对称有机合成中的非线性效应与完全手性自催化现象，共同荣获2026年诺贝尔化学奖。两位得主的发现打破了实验室生成等量镜像分子的局限，不仅解答了生命同手性起源的百年谜题，更为制药等产业的高纯度手性合成提供了关键理论基础与工具。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783114"&gt;暂不救市，欧央行官员：解决财政困境非我职责，法国需自救&lt;/a&gt;。法国高赤字、高债务推高融资压力，国债与德债利差一度升至欧债危机以来高位。欧洲央行管委会成员Moulin称法国应自行削减赤字、欧央行不会兜底；法国总统候选人勒庞希望欧央行降低融资成本，左翼政治人物梅朗雄则主张注销部分央行持有国债，法国债务化解路径出现分歧。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783120"&gt;印度央行近四年来首次加息，上调基准利率至5.5%，立场转为“有序收紧”&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783128"&gt;IPO前Anthropic推出小模型“性价比之王”，Claude Haiku 5.5运行成本降75%&lt;/a&gt;。Anthropic称，Haiku 5.5是该司迄今发布的最便宜、最快且能力最强小模型，瞄准高吞吐量、成本敏感型应用，编程、电脑操作等任务能力较前代4.5明显提升；首次纳入可调节的effort推理强度；对提示词不超过10万Token的请求，API价格较前代低90%，超过这一门槛，价格低50%；可配合一个月内发布的前两款Claude 5.5模型Opus 5.5、Sonnet 5.5配合使用，作为后两者的“子智能体”。Sonnet 5.5缓存读取价砍半至0.1美元/百万Token。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783131"&gt;OpenAI面向全球12亿ChatGPT用户推出GPT-6，称模型面对越狱攻击时抵御能力更强&lt;/a&gt;。OpenAI付费版使用GPT-6 Sol，免费版使用GPT-6 Luna。两款模型均被列为网络安全及生化领域&amp;quot;高能力&amp;quot;级别，对齐评估全面优于GPT-5.6。OpenAI还在GPT-6 中推出名为“智能 UI”的全新交互式可视化功能，让ChatGPT 能通过交互式和可视化的方式回答用户的问题，回复内容可以包含图形、可点击按钮、表单、图表。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/livenews/3174932"&gt;微软发布可在个人笔记本上运行的AI代码模型&lt;/a&gt;，以及搭载英伟达芯片的旗舰笔记本电脑Surface Laptop Ultra。微软称，该笔记本电脑在运行本地AI模型时的响应速度是苹果MacBook Pro M5 的两倍；生成视频的速度比苹果同类设备快六倍。这款Ultra 机型起售价为2599 美元，比 16 英寸入门级 MacBook Pro 便宜约 400 美元。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/livenews/3175004"&gt;报道：博通正设法为OpenAI所需芯片安排超过500亿美元融资&lt;/a&gt;。甲骨文正与阿波罗、高盛洽谈芯片融资问题，甲骨文正设法在2026年敲定芯片协议。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wallstreetcn.com/articles/3783093"&gt;报道：SpaceX为购买英伟达芯片寻求融资400亿美元&lt;/a&gt;。SpaceX拟筹措约100亿美元银行贷款，外加300亿美元投资级债券。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783095"&gt;美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅&lt;/a&gt;。继新墨西哥州项目受阻后，甲骨文位于威斯康星州的1.3GW数据中心因输电审批重启，全功率供电面临推迟至2028或2029年，项目成本跳涨75%。电网瓶颈导致每月近9亿美元营收推迟兑现，加上信用评级偏低与高额保证金压力，暴露出AI基础设施建设面临的系统性延期与财务风险。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783101"&gt;数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明&lt;/a&gt;。OpenAI 未发布的 AI 模型证明了拟黎曼猜想，并同步发布了 Lean 形式化验证。如果经过证实，这将是数论领域的历史性突破，也是 AI 发展史上的里程碑时刻。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wallstreetcn.com/articles/3783107"&gt;Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线&lt;/a&gt;。困扰学界70年的概率论“圣杯”，被Anthropic大模型Claude悄然攻克。AI并非依赖算力穷举，而是凭恐怖的高维逻辑，将菲尔兹奖得主折戟的难题一剑封喉。这场震撼学术界的突破标志着科研范式的彻底颠覆：人类或将交出真理推导的主导权，从苦修的攀登者，转身成为引导AI探索未知的领航员。&lt;/li&gt;
+&lt;/ul&gt;
+观点精选
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783119"&gt;为何美债收益率、纳指同步新高？广发刘晨明：产业周期大幅降速才是科技股牛熊“分水岭”&lt;/a&gt;。刘晨明团队认为，当前全球半导体周期仍处于“加速上行”或“高速震荡”阶段，科技股对利率上行已表现出明显脱敏。历史经验显示，产业增速正常回落并非行情拐点，大幅降速才是牛熊分水岭。四季度AI技术、业绩与商业化催化密集，科技板块仍有进一步挖掘α的空间。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783112"&gt;新“债王”：美联储的“水床难题”，美国赤字和通胀“按下葫芦起了瓢”&lt;/a&gt;。Gundlach警告，美联储因赤字与通胀陷入两难困局：加息加剧债务压力，降息则重燃通胀。受供给过剩驱动，10年期美债收益率趋向6%，标普500高估值预示长期负回报，美元面临大幅贬值风险。他建议采用杠铃策略、增配实物资产及新兴市场本币债以规避风险。&lt;/p&gt;
+今日关注
+&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A股国庆假期后开市。&lt;/p&gt;
+&lt;p&gt;台积电9月营业额。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;海外&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026年诺贝尔文学奖公布。&lt;/p&gt;
+&lt;p&gt;美国上周首次申请失业救济人数。&lt;/p&gt;
+&lt;p&gt;美国财政部标售220亿美元30年期国债。&lt;/p&gt;
+&lt;p&gt;AMDCEO苏姿丰计划访韩，拟10月8日出席首尔行业会议。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
