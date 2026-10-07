@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 05:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌AI基建主管谈：Agent重塑基建、光网络突破、终极物理瓶颈和未来10年的算力形态</title><link>https://wallstreetcn.com/articles/3783104</link><guid>68bd22cf3ce7e146a0385deccf49e82c529d3d734396afd239753d7e954d389e</guid><pubDate>Wed, 07 Oct 2026 03:55:05 GMT</pubDate><description>&lt;p&gt;人类历史上规模最大的资本开支建设正在展开。从衡量系统真实性能的&amp;quot;goodput&amp;quot;指标，到光路交换网络、轨道数据中心，再到十年后的算力形态，谷歌AI基础设施负责人Amin Vahdat在近期一次深度对谈中，系统梳理了这场建设背后的技术逻辑与战略取舍。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 06:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 谷歌AI基建主管谈：Agent重塑基建、光网络突破、终极物理瓶颈和未来10年的算力形态</title><link>https://wallstreetcn.com/articles/3783104</link><guid>68bd22cf3ce7e146a0385deccf49e82c529d3d734396afd239753d7e954d389e</guid><pubDate>Wed, 07 Oct 2026 03:55:05 GMT</pubDate><description>&lt;p&gt;人类历史上规模最大的资本开支建设正在展开。从衡量系统真实性能的&amp;quot;goodput&amp;quot;指标，到光路交换网络、轨道数据中心，再到十年后的算力形态，谷歌AI基础设施负责人Amin Vahdat在近期一次深度对谈中，系统梳理了这场建设背后的技术逻辑与战略取舍。&lt;/p&gt;
 &lt;p&gt;谷歌今年资本开支预计超过2000亿美元，大部分用于数据中心建设。Vahdat在接受Sequoia Capital合伙人Sonia Huang访谈时表示，长程智能体（long-horizon agent）的崛起正在从根本上改变数据中心的设计逻辑，不仅推高了对加速器的需求，也让CPU、网络与存储的需求同步&amp;quot;暴涨&amp;quot;。他同时透露，谷歌必须大约每六个月将服务侧token生成能力翻一倍，而这一增长的主要来源并非硬件本身，而是软件与模型优化的持续叠加。&lt;/p&gt;
 &lt;p&gt;对投资者而言，Vahdat的判断具有直接参考价值：电力是AI基础设施扩张的最根本瓶颈，而非芯片或制造产能；软件优化对容量提升的贡献&amp;quot;很可能不少于硬件&amp;quot;；TPU路线图上，推理与训练芯片已于今年首次分拆为独立产品线，折射出推理市场的快速膨胀。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -185,7 +185,21 @@ TPU 的赌注：从 2013 年的逆势判断，到首次拆分为 8i 与 8t
 &lt;p&gt;&lt;strong&gt;阿敏：&lt;/strong&gt;&lt;br&gt;我不会说 2036 年不可能把它直接发射到太空，然后由空间站机械臂接住，插进正确模块。也许 2036 年就会那样。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主持人：&lt;/strong&gt;&lt;br&gt;想想就开心。我非常享受这场对话。这是历史上最 intense、规模最大的资本开支建设，但我也认为这是一场技术革命，而且是一件美的事物。你对技术之美、约束条件以及如何平衡这一切有非常深刻的把握。Google 交给你很好。谢谢你抽时间分享你们正在做的事。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;阿敏：&lt;/strong&gt;&lt;br&gt;非常开心。非常感谢。这是一场很棒的对话。我们有机会亲历这一切，并且有机会定义它。谢谢你。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股三季报下周拉开帷幕：标普500每股收益预计增长27%，英伟达和美光两家公司将贡献1/3</title><link>https://wallstreetcn.com/articles/3783100</link><guid>c9f0534227e1aee9fc25cb1f56a80f341ddd95de9777b3bbe4d970878d259430</guid><pubDate>Wed, 07 Oct 2026 02:34:15 GMT</pubDate><description>&lt;p&gt;美股三季报季将于下周全面拉开帷幕。尽管标普500指数盈利增速可能创下2021年以来最高水平，但增长高度集中于少数科技和能源巨头，中小盘及多数行业的盈利动能却在减弱，指数与个股表现之间的分化进一步加剧。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 日本实际工资八连涨背后：补贴减税托底，破产潮与加息预期令央行两难</title><link>https://wallstreetcn.com/articles/3783105</link><guid>5f8b34bd7eb0bff9ea562e3456204887e7f5155bcfeca1e575b893954b9d3cf7</guid><pubDate>Wed, 07 Oct 2026 05:44:32 GMT</pubDate><description>&lt;p&gt;日本8月实际工资连续第八个月上涨，创下近十年最长连涨纪录，工资-物价良性循环似乎正在成形。但拆解数据背后的支撑因素——政府补贴压低的通胀读数与即将落地的食品减税——这轮复苏的成色远比表面复杂。&lt;/p&gt;
+&lt;p&gt;日本厚生劳动省周三公布，&lt;strong&gt;8月实际现金收入（剔除租金后的通胀调整值）同比增长1.5%，符合经济学家预期；基础工资增长3.8%，名义工资同样增长3.8%、连续第七个月保持在3%以上，为1992年以来最长纪录。&lt;/strong&gt;但这轮上涨有相当部分靠高市早苗政府的公用事业补贴与食品减税撑起，而非纯市场机制驱动。&lt;/p&gt;
+&lt;p&gt;与此同时，劳动力短缺导致的破产在2026财年上半年达240件、创历史新高；隔夜指数互换显示，市场定价日本央行年底前再加息的概率为76%。工资上涨、破产潮与加息预期三者并存，将央行推入两难。&lt;/p&gt;
+&lt;p&gt;政府计划自明年4月起将食品销售税从8%大幅下调至1%、为期两年。若落地，短期托底消费但进一步模糊通胀读数，可能干扰货币政策节奏；工资-物价良性循环是否真正确立，要等补贴与减税效应消退后才能见分晓。&lt;/p&gt;
+八连涨的成色：补贴与减税托底读数
+&lt;p&gt;高市早苗的公用事业补贴将8月整体CPI同比涨幅压制在1.9%，使日本在七国集团中录得最低通胀率。首相在周一的施政演说中强调，价格纾困措施帮助日本实现了G7中最快的实际工资增速。换言之，当前实际工资的“八连涨”有相当部分是财政转移支付对家庭购买力的直接注入，而非企业生产率驱动的内生增长。&lt;/p&gt;
+&lt;p&gt;剔除奖金、加班费和抽样偏差的更稳定口径显示，全职员工工资增速为2.8%。这一数字低于3.8%的基础工资涨幅，揭示出工资改善的结构性局限。&lt;/p&gt;
+食品减税：短期提振与长期财政代价
+&lt;p&gt;政府正在推进的食品销售税下调计划，将税率从8%降至1%、为期两年、自明年4月起实施，已成为当前临时国会辩论的焦点。该计划的最终形态将直接影响高市早苗的财政管理策略及其公众支持率的稳固程度。&lt;/p&gt;
+&lt;p&gt;从短期看，减税将直接降低家庭必需支出、进一步支撑实际购买力，并可能在生效初期压低CPI读数，使实际工资数据继续“好看”。但从财政角度，销售税是日本少数稳定的收入来源之一，将食品税率降至接近零的水平，意味着未来两年财政缺口将进一步扩大。在公共债务负担已居发达国家之首的背景下，这一举措的长期财政风险不容忽视。&lt;/p&gt;
+破产潮与76%加息预期：央行陷入两难
+&lt;p&gt;工资上涨的另一面，是中小企业承受前所未有的成本压力。Tokyo Shoko Research周一发布的报告显示，2026财年上半年因劳动力短缺导致的破产案件达240件、创历史新高，其中半数以上归因于人员成本上升，凸显小企业的财务压力。&lt;/p&gt;
+&lt;p&gt;与之形成反差的是，企业盈利整体强劲。财务省数据显示，截至6月的季度全行业经常利润创历史新高，受AI相关需求与日元走弱提振；日本央行最新短观调查显示，大型制造商信心处于八年多来最高水平。日本最大工会联合会通常最早在本月公布下一财年加薪目标，其成员在今年谈判中已连续第三年实现超5%的加薪。&lt;/p&gt;
+&lt;p&gt;工资持续上涨是日本央行加息的重要铺垫。上月央行在三个月内第二次上调基准利率，并强调通胀超出2%目标的风险、暗示需要进一步收紧。多数经济学家预计央行将在10月30日会议按兵不动，但隔夜指数互换显示，截至周三东京早盘，市场定价年底前再加息的概率为76%。&lt;/p&gt;
+&lt;p&gt;后续需关注最大工会联合会的加薪目标、10月30日央行决议，以及明年4月食品减税的落地效果。私人消费仍脆弱，家庭支出截至7月已连续八个月下滑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股三季报下周拉开帷幕：标普500每股收益预计增长27%，英伟达和美光两家公司将贡献1/3</title><link>https://wallstreetcn.com/articles/3783100</link><guid>c9f0534227e1aee9fc25cb1f56a80f341ddd95de9777b3bbe4d970878d259430</guid><pubDate>Wed, 07 Oct 2026 02:34:15 GMT</pubDate><description>&lt;p&gt;美股三季报季将于下周全面拉开帷幕。尽管标普500指数盈利增速可能创下2021年以来最高水平，但增长高度集中于少数科技和能源巨头，中小盘及多数行业的盈利动能却在减弱，指数与个股表现之间的分化进一步加剧。&lt;/p&gt;
 &lt;p&gt;据高盛最新预测，标普500指数三季度每股收益同比增速有望达到27%，为2021年以来最高。不过，这一增速高度依赖少数公司：存储芯片制造商美光和英伟达两家公司预计合计贡献指数盈利增长的约三分之一，而标普500成分股中位数公司的每股收益增速仅为9%，较二季度的14%进一步回落。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;盈利集中与市场广度收窄正在成为投行关注的核心风险。&lt;/strong&gt;高盛指出，市场广度已降至互联网泡沫以来最低水平——标普500指数距离历史高点仅差2%，但中位数股票较各自高点的平均跌幅已达17%。&lt;/p&gt;
 &lt;p&gt;摩根士丹利策略师Mike Wilson认为，指数接近历史高位与大量个股陷入熊市级回撤之间的背离“终将以某种方式收敛”，而债券市场波动率可能成为最终的“裁判”。&lt;/p&gt;
@@ -328,7 +342,17 @@ TPU 的赌注：从 2013 年的逆势判断，到首次拆分为 8i 与 8t
 &lt;p&gt;然而事实是，甲骨文信用违约互换（CDS）在次日飙升至创纪录的237个基点，而&amp;quot;无传导&amp;quot;的判断，也已随着威斯康星项目的曝光显得日益脆弱。&lt;/p&gt;
 &lt;p&gt;值得注意的是，甲骨文各项目的延期原因各异：新墨西哥州陷于管道和空气许可证问题，威斯康星州则是电网监管审批受阻。正如Aterio所指出的，当每个项目都有&amp;quot;各自独特的延期理由&amp;quot;时，&amp;quot;孤立性&amp;quot;的辩护逻辑便不再成立。&lt;/p&gt;
 &lt;p&gt;巴克莱认为相对安全的密歇根州Saline项目，据称已获得电力供应和许可证，&amp;quot;是甲骨文管线中去风险化程度最高的资产之一&amp;quot;，首期交付预计于年底前完成，距今不足三个月。正如原文所言，历史经验表明，下一个出问题的，往往是被认为最安全的那个。&lt;/p&gt;
-&lt;p&gt;如高盛的Johnstone所言，&amp;quot;对于贷款方和数据中心投资者而言，这是一个提醒——第三方开发的AI基础设施，并不总是看上去那般稳定可靠。&amp;quot;数百亿美元债务支撑的建设潮，其逻辑前提是资产按期上线。而现实是，它们并未按期上线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美EIA大幅上调油价预期，布油Q4调升15%，料AI数据中心推动美国今明年电力需求创纪录</title><link>https://wallstreetcn.com/articles/3783079</link><guid>7a4e6aa478d60b0c17deeb0c74ec7b4ae97a2b662f1cc000dc6b6c80c5eb29d9</guid><pubDate>Tue, 06 Oct 2026 21:20:44 GMT</pubDate><description>&lt;p&gt;全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。&lt;/p&gt;
+&lt;p&gt;如高盛的Johnstone所言，&amp;quot;对于贷款方和数据中心投资者而言，这是一个提醒——第三方开发的AI基础设施，并不总是看上去那般稳定可靠。&amp;quot;数百亿美元债务支撑的建设潮，其逻辑前提是资产按期上线。而现实是，它们并未按期上线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国严重不良贷款规模已升至2020年以来最高水平</title><link>https://wallstreetcn.com/articles/3783106</link><guid>2b5b90d3aa50d1b228e60c69238e97d1bf1194a29c4931bb00f81502e84ff589</guid><pubDate>Wed, 07 Oct 2026 05:53:52 GMT</pubDate><description>&lt;p&gt;美国杠杆贷款市场的信用压力持续升温，严重不良贷款规模扩大，科技行业尤其是软件领域承压最重，企业再融资压力与违约风险正在进一步积聚。&lt;/p&gt;
+&lt;p&gt;摩根大通策略师周二在报告中指出，&lt;strong&gt;交易价格低于面值60%的“严重折价”贷款规模已从一年前的400亿美元增至650亿美元，创2020年3月以来新高。&lt;/strong&gt;与此同时，交易价格低于或等于面值80%的困境贷款总额已升至1398亿美元，较12个月前增长近90%，仅比2020年5月创下的历史峰值低40亿美元。&lt;/p&gt;
+&lt;p&gt;从发行人数量来看，目前交易价格低于面值80%的杠杆贷款发行人约有141家，较一年前增加35家。其中，软件提供商CDK Global、QLIK Technologies和Quest Software是规模最大的不良贷款贡献方。&lt;/p&gt;
+科技行业承压最重，软件再融资压力加剧
+&lt;p&gt;科技行业是严重不良贷款最集中的领域，占比达39%，涉及规模544亿美元。&lt;strong&gt;软件公司尤其面临较大的再融资压力，未来有逾1000亿美元债务到期；与此同时，人工智能技术快速发展，也加剧了市场对传统软件服务模式受到冲击的担忧，进一步压低相关债务价格。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;信用压力已经反映在贷款回报上。CCC级贷款年初至今回报率为负1.97%，是垃圾级贷款各评级类别中唯一录得负回报的层级，其余评级类别均实现正回报。&lt;/p&gt;
+&lt;p&gt;摩根大通指出，全球债券收益率持续攀升以及美联储转向紧缩立场，推高了高杠杆企业的偿债和再融资成本；与此同时，大量债券和贷款集中到期，也进一步加大企业的资金压力。&lt;/p&gt;
+债务成本攀升，信用压力向高收益债市场扩散
+&lt;p&gt;高风险债务的压力正在进一步传导至高收益债券市场。CCC级债券息差已突破1000个基点，升至2023年地区银行危机以来最高水平；收益率升至15.58%，创2022年11月以来最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;摩根大通预计，2026年高收益债券违约率将从当前预测的2.25%升至2.75%，杠杆贷款违约率则将升至4.50%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，今年以来因违约而受到影响的高收益债券规模已超过贷款规模，这是2020年以来首次出现这一情况，表明信用风险正在从杠杆贷款市场向高收益债市场扩散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美EIA大幅上调油价预期，布油Q4调升15%，料AI数据中心推动美国今明年电力需求创纪录</title><link>https://wallstreetcn.com/articles/3783079</link><guid>7a4e6aa478d60b0c17deeb0c74ec7b4ae97a2b662f1cc000dc6b6c80c5eb29d9</guid><pubDate>Tue, 06 Oct 2026 21:20:44 GMT</pubDate><description>&lt;p&gt;全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。&lt;/p&gt;
 &lt;p&gt;10月6日周二，EIA发布短期能源报告，上调布伦特原油&lt;strong&gt;2026年均价至约98美元/桶&lt;/strong&gt;，较此前预测高出8%；&lt;strong&gt;四季度均价预期约为105美元/桶&lt;/strong&gt;，较EIA此前估计高出15%。&lt;/p&gt;
 &lt;p&gt;与此同时，EIA在同日发布的冬季燃料展望中，预计今冬&lt;strong&gt;取暖油价格将同比上涨30%，相关家庭实际支出涨幅约为21%&lt;/strong&gt;。这一涨势的核心推手是全球柴油供应持续趋紧，&lt;strong&gt;美国零售柴油&lt;/strong&gt;价格上月已创历史新高，&lt;strong&gt;EIA预计10月仍将维持在6美元/加仑以上。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;相比之下，约半数美国家庭所依赖的&lt;strong&gt;天然气取暖用户今冬平均支出预计将下降9%&lt;/strong&gt;，&lt;strong&gt;丙烷用户支出则预计小幅下降3%&lt;/strong&gt;，主要受益于天然气库存充裕及产量强劲增长。&lt;/p&gt;
@@ -500,54 +524,4 @@ AI叙事重燃，科技巨头重夺主导权
 &lt;p&gt;不过，周二也出现了些许广度改善的迹象——标普500指数11个板块中有10个连续第三个交易日收涨，这是自2023年12月以来首次出现此类情形。Lerner对投资者的整体心态概括道：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;此刻，所有道路都通向科技。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 长线VS短线（中证红利、红利低波100策略及长期收益一览）</title><link>http://xueqiu.com/7734995747/411379012</link><guid>857205701550caa6d4361248b4f5777666609b6f2ad07596b137576e5910a33a</guid><pubDate>Wed, 07 Oct 2026 05:25:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;稳我才&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;简单回忆一下国庆期间我们对红利的探讨：点击蓝色标题文字可翻看相应帖子内容&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营</title><link>https://wallstreetcn.com/articles/3783087</link><guid>3aab790db8a84c3fe23c59286ce2534850dd9903f79a96d263cb27f824bb5259</guid><pubDate>Tue, 06 Oct 2026 22:03:05 GMT</pubDate><description>&lt;p&gt;谷歌与美国最大核电运营商Constellation Energy达成迄今规模最大的科技能源合作协议，总计锁定3,590兆瓦电力供应，其中890兆瓦来自核电机组升级扩容。&lt;/p&gt;
-&lt;p&gt;10月6日，周二谷歌与美国最大核电运营商Constellation Energy宣布一项&lt;strong&gt;总规模高达3,590兆瓦的长期电力采购协议，其中包括一份20年期核电购电合同，将通过升级现有反应堆为PJM电网新增890兆瓦清洁基荷电力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Constellation将为此投入逾43亿美元&lt;/strong&gt;，对位于伊利诺伊州、宾夕法尼亚州和新泽西州的&lt;strong&gt;11座核反应堆进行升级改造&lt;/strong&gt;，以提升热效率和发电效率。&lt;strong&gt;首个完成升级的机组预计于2028年向电网供电。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消息公布后，Constellation股价收涨超12%，谷歌股价基本持平。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783049"&gt;华尔街见闻提及&lt;/a&gt;，谷歌本身已与多家核电企业签约。去年，谷歌同意向NextEra Energy购电，支持后者重启2020年起关停的爱荷华州Duane Arnold反应堆；上月，谷歌又出资升级Southern旗下两座核电站，锁定新增容量。&lt;/p&gt;
-&lt;p&gt;而谷歌与Constellation的这份协议直接呼应了PJM电网管理层提出的&amp;quot;自带电力&amp;quot;方案。&lt;strong&gt;该方案要求数据中心客户自行保障电力供应，否则在用电高峰期面临被远程切断的风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两家公司表示，此次合作为科技公司在不依赖政府强制性政策的前提下，自主增加电力供给提供了可复制的市场化样本。&lt;/strong&gt;&lt;/p&gt;
-
-协议架构：核电升级搭配长期供应保障
-
-&lt;p&gt;本次合作由两份独立协议构成。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其一为20年期购电协议&lt;/strong&gt;，涵盖通过核电机组升级新增的890兆瓦容量，该容量相当于数座小型模块化反应堆或一座大型传统核电机组的输出。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其二为15年期电力供应协议&lt;/strong&gt;，覆盖PJM电网内Constellation旗下额外的2,700兆瓦发电资产，为这些现有机组提供长期收入确定性，确保其持续向市场供应电力与容量。&lt;/p&gt;
-&lt;p&gt;在技术路径上，Constellation将通过更换现代化汽轮机、蒸汽发生器及数字控制系统来实现机组扩容。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一方式被称为&amp;quot;核电增容&amp;quot;（uprate），无需新建核电站的漫长建设周期和复杂的电网接入流程，是在现有核电基础设施上快速释放新增清洁电力的最直接手段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据两家公司表示，此举直接响应了美国联邦政府UPRISE计划的目标，该计划鼓励公私合作以最大化现有核电基础设施的清洁发电量。&lt;/p&gt;
-
-供需失衡：PJM电价飙升倒逼市场化解决方案
-
-&lt;p&gt;&lt;strong&gt;这笔交易的背景是美国东部最大电网PJM正面临日趋严峻的供需矛盾。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据路透报道，以数据中心扩张为主要驱动力的电力需求激增，已推动PJM容量电价自2024年以来上涨逾11倍，并导致该电网出现电力缺口。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;面对这一局面，PJM管理层提出要求数据中心客户&amp;quot;自带电力&amp;quot;，否则在用电高峰期面临被远程切断的风险。&lt;/strong&gt;谷歌与Constellation的这份协议，在外界看来正是对这一提案的直接回应。&lt;/p&gt;
-&lt;p&gt;两家公司明确将其定位为符合白宫&amp;quot;电费保护承诺&amp;quot;的市场化方案，由私人主体出资，在不增加居民用电成本的前提下为电网注入新增容量。&lt;/p&gt;
-&lt;p&gt;谷歌全球能源与电力负责人Amanda Peterson Corio表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们承诺以负责任的方式满足增长需求，通过主动投资清洁、可靠的电力，为国家电网带来新的供应容量。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Constellation董事长兼首席执行官Joe Dominguez则将这一安排称为&amp;quot;科技公司与能源行业携手负责任地发展数字经济、投资国家能源基础设施的合作范本&amp;quot;。&lt;/p&gt;
-
-AI赋能电网：Gemini深度嵌入能源运营
-
-&lt;p&gt;&lt;strong&gt;除电力采购外，两家公司还签署了一项为期五年的技术合作协议，Constellation将在核心运营流程中全面部署谷歌云及Gemini Enterprise的智能代理工作流。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;具体应用涵盖三个方向：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;一是加速新增容量落地&lt;/strong&gt;，包括智能选址、潮流建模及许可审批流程优化，以降低成本并缩短新增电力并网周期；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;二是发电资产优化&lt;/strong&gt;，通过设备健康监测、停机检修管理和情景优化来提升机组发电效率；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;三是关键基础设施安全防护&lt;/strong&gt;，利用谷歌云的国防级平台保障运营技术网络安全，其中多个网络与大型电力系统之间采用物理隔离（air-gapped）架构。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;两家公司将这一合作定位为&amp;quot;AI for Energy&amp;quot;蓝图，旨在建立可推广的行业标准，探索在美国其他地区开发清洁发电、储能及需求侧响应项目的可能性，近期重点仍将放在PJM电网范围之内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通CEO：Anthropic“Mythos”模型问世后，AI风险飙升10倍</title><link>https://wallstreetcn.com/articles/3783083</link><guid>e1bce0d85c633b508256c6b1a5b2283eed94e194954f34fef33412686db15407</guid><pubDate>Tue, 06 Oct 2026 19:18:11 GMT</pubDate><description>&lt;p&gt;摩根大通首席执行官Jamie Dimon表示，Anthropic PBC旗下的Mythos人工智能模型大幅推高了全球网络安全风险。&lt;/p&gt;
-&lt;p&gt;据彭博，Dimon周二表示：&lt;strong&gt;“在Mythos出现之后，AI带来的风险增加了10倍。”他指出，“AI创造了一些我们此前并不知道的漏洞，而在这些东西出现之前，我们一直都在担心网络安全问题。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年早些时候，在进行安全测试期间，Mythos曾访问互联网并采取未经授权的行动。这促使Anthropic重新评估这样一种风险：&lt;strong&gt;先进模型可能会以其开发者从未预料到的方式完成任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在一些情况下，AI模型甚至曾试图向在线软件中植入有害代码。近期接连发生的相关事件进一步加剧了外界的担忧，即AI服务提供商可能无法完全控制自己开发的模型。&lt;/p&gt;
-&lt;p&gt;OpenAI和Anthropic均已公开承认，在测试模型期间，它们曾无意中突破包括Hugging Face在内多家机构的系统。&lt;/p&gt;
-&lt;p&gt;“显然，风险的一面就是你从有关智能代理、Mythos以及所有这些可能制造麻烦的事情中看到的情况。这确实值得担忧，也确实是现实存在的问题。”Dimon表示，“我不会因为争论‘这究竟是不是生存性风险’而陷入歇斯底里。我们正在做的事情就是撸起袖子，着手解决问题。”&lt;/p&gt;
-&lt;p&gt;在这场内容广泛的采访中，&lt;strong&gt;Dimon还表示，数据中心应该建设在当地社区支持其建设的地区。其表示：“有很多州都愿意接纳这些项目，而且这些地方拥有充足的电力资源。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在英国，伦敦金融城的一些高管担心，政府可能利用本月的预算案，对英国本土银行的利润征收暴利税，同时将国际银行在英国的业务排除在外。&lt;/p&gt;
-&lt;p&gt;Dimon表示：“我不赞成缺乏原则的做法。”他认为，税收政策需要公平且保持一致。“说‘向我这边的朋友收费’很容易，我认为这是不对的。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 长线VS短线（中证红利、红利低波100策略及长期收益一览）</title><link>http://xueqiu.com/7734995747/411379012</link><guid>857205701550caa6d4361248b4f5777666609b6f2ad07596b137576e5910a33a</guid><pubDate>Wed, 07 Oct 2026 05:25:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;稳我才&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;简单回忆一下国庆期间我们对红利的探讨：点击蓝色标题文字可翻看相应帖子内容&lt;/p&gt;</description></item></channel></rss>
