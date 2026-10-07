@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 06:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 美股三季报下周拉开帷幕：标普500每股收益预计增长27%，英伟达和美光两家公司将贡献1/3</title><link>https://wallstreetcn.com/articles/3783100</link><guid>c9f0534227e1aee9fc25cb1f56a80f341ddd95de9777b3bbe4d970878d259430</guid><pubDate>Wed, 07 Oct 2026 02:34:15 GMT</pubDate><description>&lt;p&gt;美股三季报季将于下周全面拉开帷幕。尽管标普500指数盈利增速可能创下2021年以来最高水平，但增长高度集中于少数科技和能源巨头，中小盘及多数行业的盈利动能却在减弱，指数与个股表现之间的分化进一步加剧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 07:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 美股三季报下周拉开帷幕：标普500每股收益预计增长27%，英伟达和美光两家公司将贡献1/3</title><link>https://wallstreetcn.com/articles/3783100</link><guid>c9f0534227e1aee9fc25cb1f56a80f341ddd95de9777b3bbe4d970878d259430</guid><pubDate>Wed, 07 Oct 2026 02:34:15 GMT</pubDate><description>&lt;p&gt;美股三季报季将于下周全面拉开帷幕。尽管标普500指数盈利增速可能创下2021年以来最高水平，但增长高度集中于少数科技和能源巨头，中小盘及多数行业的盈利动能却在减弱，指数与个股表现之间的分化进一步加剧。&lt;/p&gt;
 &lt;p&gt;据高盛最新预测，标普500指数三季度每股收益同比增速有望达到27%，为2021年以来最高。不过，这一增速高度依赖少数公司：存储芯片制造商美光和英伟达两家公司预计合计贡献指数盈利增长的约三分之一，而标普500成分股中位数公司的每股收益增速仅为9%，较二季度的14%进一步回落。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;盈利集中与市场广度收窄正在成为投行关注的核心风险。&lt;/strong&gt;高盛指出，市场广度已降至互联网泡沫以来最低水平——标普500指数距离历史高点仅差2%，但中位数股票较各自高点的平均跌幅已达17%。&lt;/p&gt;
 &lt;p&gt;摩根士丹利策略师Mike Wilson认为，指数接近历史高位与大量个股陷入熊市级回撤之间的背离“终将以某种方式收敛”，而债券市场波动率可能成为最终的“裁判”。&lt;/p&gt;
@@ -342,7 +342,24 @@ TPU 的赌注：从 2013 年的逆势判断，到首次拆分为 8i 与 8t
 &lt;p&gt;然而事实是，甲骨文信用违约互换（CDS）在次日飙升至创纪录的237个基点，而&amp;quot;无传导&amp;quot;的判断，也已随着威斯康星项目的曝光显得日益脆弱。&lt;/p&gt;
 &lt;p&gt;值得注意的是，甲骨文各项目的延期原因各异：新墨西哥州陷于管道和空气许可证问题，威斯康星州则是电网监管审批受阻。正如Aterio所指出的，当每个项目都有&amp;quot;各自独特的延期理由&amp;quot;时，&amp;quot;孤立性&amp;quot;的辩护逻辑便不再成立。&lt;/p&gt;
 &lt;p&gt;巴克莱认为相对安全的密歇根州Saline项目，据称已获得电力供应和许可证，&amp;quot;是甲骨文管线中去风险化程度最高的资产之一&amp;quot;，首期交付预计于年底前完成，距今不足三个月。正如原文所言，历史经验表明，下一个出问题的，往往是被认为最安全的那个。&lt;/p&gt;
-&lt;p&gt;如高盛的Johnstone所言，&amp;quot;对于贷款方和数据中心投资者而言，这是一个提醒——第三方开发的AI基础设施，并不总是看上去那般稳定可靠。&amp;quot;数百亿美元债务支撑的建设潮，其逻辑前提是资产按期上线。而现实是，它们并未按期上线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国严重不良贷款规模已升至2020年以来最高水平</title><link>https://wallstreetcn.com/articles/3783106</link><guid>2b5b90d3aa50d1b228e60c69238e97d1bf1194a29c4931bb00f81502e84ff589</guid><pubDate>Wed, 07 Oct 2026 05:53:52 GMT</pubDate><description>&lt;p&gt;美国杠杆贷款市场的信用压力持续升温，严重不良贷款规模扩大，科技行业尤其是软件领域承压最重，企业再融资压力与违约风险正在进一步积聚。&lt;/p&gt;
+&lt;p&gt;如高盛的Johnstone所言，&amp;quot;对于贷款方和数据中心投资者而言，这是一个提醒——第三方开发的AI基础设施，并不总是看上去那般稳定可靠。&amp;quot;数百亿美元债务支撑的建设潮，其逻辑前提是资产按期上线。而现实是，它们并未按期上线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电</title><link>https://wallstreetcn.com/articles/3783110</link><guid>c9dc13765c1dd501dade31a3284aafd34776ec3864a1ae742c5978872c1cca2d</guid><pubDate>Wed, 07 Oct 2026 07:14:05 GMT</pubDate><description>&lt;p&gt;美国AI基础设施的瓶颈，正从“缺芯片”转向“缺电”，而电力不足首先威胁的可能不是英伟达，而是ASIC、存储、光模块和电源管理等供应链尾部。&lt;/p&gt;
+&lt;p&gt;摩根士丹利最新报告称，美国数据中心2026年至2028年预计面临约34%的净电力缺口，相当于32GW。报告认为，&lt;strong&gt;英伟达和博通的2027年业绩预测暂不受实质影响，但电力短缺可能导致芯片无法按计划部署，进而给下游组件带来订单推迟、取消和库存调整风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;核心区别在于，英伟达GPU单位电力产出更高，且头部芯片厂商对最终部署地点具有较高可见性；相比之下，ASIC对电力资源更敏感，而存储、光学和电源管理等产品更容易受到客户备货和项目延期的影响。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3783095"&gt;华尔街见闻此前文章&lt;/a&gt;，甲骨文威斯康星州1.3GW的“Project Lighthouse”正是这一风险的现实映射：输电审批重启后，项目全功率供电最早可能推迟至2028年10月，悲观情景甚至延至2029年春季。&lt;strong&gt;AI服务器即使已经装上机架，没有电，也无法转化为实际算力和收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+英伟达和博通：需求可见性更高，ASIC承压更大
+&lt;p&gt;摩根士丹利认为，英伟达和博通的管理层已经将土地、电力和机房（LPS）约束纳入指引，同时两家公司对芯片最终部署地点具有较高可见性，全球化布局也降低了对美国单一市场的依赖。&lt;/p&gt;
+&lt;p&gt;产品效率同样重要。英伟达GPU每吉瓦能够产生更多token，在电力有限的情况下更具部署优势。&lt;strong&gt;相比之下，ASIC单位电力产出较低，需要争夺更多LPS资源，因此更容易受到电力瓶颈影响。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达CEO黄仁勋和博通CEO Hock Tan近期均强调，电力资源已经成为AI基础设施部署中比芯片和存储更难协调的约束。&lt;/p&gt;
+存储、光模块和电源管理：订单风险向尾部集中
+&lt;p&gt;报告认为，存储、光学元件、电源管理和模拟芯片更容易受到项目延期的冲击。&lt;strong&gt;这些品类此前受益于AI基础设施扩张和供需偏紧，一旦终端项目推迟，客户可能先消化库存，再削减后续订单。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ASIC同样面临部署效率问题。电力紧张时，客户会更加重视单位电力对应的算力产出，低效率的ASIC项目因此更容易被推迟。&lt;/p&gt;
+&lt;p&gt;博通的指引变化也显示出市场预期正在收敛：公司3月预计FY27 AI营收将远超1000亿美元，9月最新指引为1150亿美元，绝对规模仍高，但进一步上修的空间已经受到限制。&lt;/p&gt;
+自备电和海外扩张：仍难填平电力缺口
+&lt;p&gt;报告预计，2026年至2028年表后燃气轮机和发动机新增容量基准情景约19GW，Bloom Energy燃料电池预计贡献约6GW，&lt;strong&gt;核电和加密矿场改造也可提供补充，但整体仍不足以消化缺口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;海外扩张同样只能缓解部分压力。摩根士丹利已将美国占全球算力的份额预测从60%下调至55%，但欧洲审批缓慢、中东地缘政治风险等因素限制了需求转移。&lt;/p&gt;
+&lt;p&gt;与此同时，美国还面临熟练技工短缺和地方阻力。CSIS估计，到2030年美国需要新增超过14万名熟练技工，现有劳动力每年仅能支撑约10至20GW天然气新增装机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对AI产业而言，芯片能否生产出来已经不是唯一约束，能否获得足够电力并真正投入运行，正在成为决定订单兑现速度和供应链盈利的下一道门槛。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国严重不良贷款规模已升至2020年以来最高水平</title><link>https://wallstreetcn.com/articles/3783106</link><guid>2b5b90d3aa50d1b228e60c69238e97d1bf1194a29c4931bb00f81502e84ff589</guid><pubDate>Wed, 07 Oct 2026 05:53:52 GMT</pubDate><description>&lt;p&gt;美国杠杆贷款市场的信用压力持续升温，严重不良贷款规模扩大，科技行业尤其是软件领域承压最重，企业再融资压力与违约风险正在进一步积聚。&lt;/p&gt;
 &lt;p&gt;摩根大通策略师周二在报告中指出，&lt;strong&gt;交易价格低于面值60%的“严重折价”贷款规模已从一年前的400亿美元增至650亿美元，创2020年3月以来新高。&lt;/strong&gt;与此同时，交易价格低于或等于面值80%的困境贷款总额已升至1398亿美元，较12个月前增长近90%，仅比2020年5月创下的历史峰值低40亿美元。&lt;/p&gt;
 &lt;p&gt;从发行人数量来看，目前交易价格低于面值80%的杠杆贷款发行人约有141家，较一年前增加35家。其中，软件提供商CDK Global、QLIK Technologies和Quest Software是规模最大的不良贷款贡献方。&lt;/p&gt;
 科技行业承压最重，软件再融资压力加剧
@@ -352,20 +369,7 @@ TPU 的赌注：从 2013 年的逆势判断，到首次拆分为 8i 与 8t
 债务成本攀升，信用压力向高收益债市场扩散
 &lt;p&gt;高风险债务的压力正在进一步传导至高收益债券市场。CCC级债券息差已突破1000个基点，升至2023年地区银行危机以来最高水平；收益率升至15.58%，创2022年11月以来最高水平。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;摩根大通预计，2026年高收益债券违约率将从当前预测的2.25%升至2.75%，杠杆贷款违约率则将升至4.50%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，今年以来因违约而受到影响的高收益债券规模已超过贷款规模，这是2020年以来首次出现这一情况，表明信用风险正在从杠杆贷款市场向高收益债市场扩散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 勒庞力推1400亿欧元减支与宪法公投，Citadel高管警告：法国已无犯错空间</title><link>https://wallstreetcn.com/articles/3783108</link><guid>6cd0ebd829e45b6dbfc9de1b516f63831376fccf9a0a12ddf034cabf214858d6</guid><pubDate>Wed, 07 Oct 2026 06:24:34 GMT</pubDate><description>&lt;p&gt;法国财政困境正逼近关键节点：在大选临近、政治不确定性升温之际，市场对该国财政政策的容错空间正在快速收窄。&lt;/p&gt;
-&lt;p&gt;10月7日周三，据路透社报道，城堡投资（Citadel）固定收益与宏观经济研究主管Angel Ubide表示，&lt;strong&gt;法国财政政策已经没有太多犯错空间。他认为，法国目前尚不构成欧洲系统性风险，但由于经济体量庞大，一旦法国出现系统性问题，最终可能演变为整个欧洲的问题。&lt;/strong&gt;与此同时，当前的市场压力也可能倒逼法国政界加快推进财政整顿。&lt;/p&gt;
-&lt;p&gt;周二，法国极右翼领导人勒庞提出更激进的财政方案，承诺若当选，将在五年任期内削减1400亿欧元开支，并计划通过全民公投将削减赤字目标写入宪法。&lt;strong&gt;不过，经济学家仍对这一计划的可执行性存疑。多家权威民调显示，勒庞在法国总统选举首轮投票意向中持续领先。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场已经率先反映出对法国财政的担忧：上周法国10年期国债收益率一度突破5%，创24年新高；欧元兑美元跌破1.12，触及17个月低点，并同时对英镑、瑞郎和日元走弱。欧洲央行官员和法国财政部长目前均排除了直接入市干预的必要性。&lt;/p&gt;
-市场警示：法国财政已无“犯错空间”
-&lt;p&gt;法国国债近期遭遇持续抛售，法德10年期国债利差不断扩大，投资者对法国公共财政可持续性的担忧进一步推高融资成本。&lt;/p&gt;
-&lt;p&gt;Ubide指出，&lt;strong&gt;当前债市压力本身就是向法国政界发出的明确信号：财政政策已经没有太多犯错空间。他认为，市场压力虽然会加剧短期波动，但也可能促使法国政治人物更加重视财政整顿。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于法国而言，真正的挑战不仅在于总统能否提出财政改革方案，更在于改革能否获得议会支持。&lt;strong&gt;Ubide强调，法国需要的不只是一个愿意推动财政整顿的总统，还需要议会选举产生能够支持削减开支的多数派。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果缺乏足够的议会支持，即使总统希望压缩财政支出，也很难将计划转化为实际政策。这意味着，随着大选临近，法国财政政策的可信度将越来越取决于未来政府能否建立稳定的政治支持基础。&lt;/p&gt;
-&lt;p&gt;目前，欧洲央行政策制定者仍认为没有必要直接干预法国债市。法国财政部长也排除了央行入市的必要性。在这种情况下，市场能否重新获得信心，最终仍取决于法国自身能否拿出可信的财政整顿方案。&lt;/p&gt;
-政治动荡：勒庞押注大规模减支
-&lt;p&gt;财政压力与法国国内政治环境的剧烈变化正好叠加。学生抗议、物价上涨以及居民购买力下降持续影响选民情绪，主流政党的支持率受到挤压，极右翼和极左翼力量进一步壮大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;法国极右翼领导人勒庞周二开始强化自身的财政政策立场，试图向选民和金融市场证明其具备控制赤字的意愿。&lt;/strong&gt;她承诺，如果当选总统，将在五年任期内实现1400亿欧元的财政节省，并计划通过全民公投，将削减财政赤字的目标写入宪法。&lt;/p&gt;
-&lt;p&gt;但经济学家对这一计划能否真正落地仍持怀疑态度。争议不仅在于1400亿欧元的减支规模是否现实，也在于勒庞此前提出的部分工人提前退休政策是否会继续执行。&lt;strong&gt;若福利承诺与大规模财政削减同时存在，实际的财政腾挪空间仍有待验证。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美EIA大幅上调油价预期，布油Q4调升15%，料AI数据中心推动美国今明年电力需求创纪录</title><link>https://wallstreetcn.com/articles/3783079</link><guid>7a4e6aa478d60b0c17deeb0c74ec7b4ae97a2b662f1cc000dc6b6c80c5eb29d9</guid><pubDate>Tue, 06 Oct 2026 21:20:44 GMT</pubDate><description>&lt;p&gt;全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。&lt;/p&gt;
+&lt;p&gt;值得注意的是，今年以来因违约而受到影响的高收益债券规模已超过贷款规模，这是2020年以来首次出现这一情况，表明信用风险正在从杠杆贷款市场向高收益债市场扩散。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美EIA大幅上调油价预期，布油Q4调升15%，料AI数据中心推动美国今明年电力需求创纪录</title><link>https://wallstreetcn.com/articles/3783079</link><guid>7a4e6aa478d60b0c17deeb0c74ec7b4ae97a2b662f1cc000dc6b6c80c5eb29d9</guid><pubDate>Tue, 06 Oct 2026 21:20:44 GMT</pubDate><description>&lt;p&gt;全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。&lt;/p&gt;
 &lt;p&gt;10月6日周二，EIA发布短期能源报告，上调布伦特原油&lt;strong&gt;2026年均价至约98美元/桶&lt;/strong&gt;，较此前预测高出8%；&lt;strong&gt;四季度均价预期约为105美元/桶&lt;/strong&gt;，较EIA此前估计高出15%。&lt;/p&gt;
 &lt;p&gt;与此同时，EIA在同日发布的冬季燃料展望中，预计今冬&lt;strong&gt;取暖油价格将同比上涨30%，相关家庭实际支出涨幅约为21%&lt;/strong&gt;。这一涨势的核心推手是全球柴油供应持续趋紧，&lt;strong&gt;美国零售柴油&lt;/strong&gt;价格上月已创历史新高，&lt;strong&gt;EIA预计10月仍将维持在6美元/加仑以上。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;相比之下，约半数美国家庭所依赖的&lt;strong&gt;天然气取暖用户今冬平均支出预计将下降9%&lt;/strong&gt;，&lt;strong&gt;丙烷用户支出则预计小幅下降3%&lt;/strong&gt;，主要受益于天然气库存充裕及产量强劲增长。&lt;/p&gt;
@@ -447,7 +451,20 @@ AI数据中心驱动，美国电力需求连续刷新历史峰值
 &lt;p&gt;在政治层面，勒庞将政府预算方案称为“既无效又不公平”，但在被问及国民联盟的谈判红线时，她的表态相对谨慎。&lt;strong&gt;“债券市场的压力已经如此之大，我们不能再设置任何限制，”&lt;/strong&gt;她在新闻发布会上表示。&lt;/p&gt;
 &lt;p&gt;左翼领导人Mélenchon则批评勒庞的财政方案向金融市场妥协，认为削减措施可能削弱经济并进一步恶化公共财政。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ING银行G10外汇策略主管表示，欧元兑美元及其他主要货币持续走弱，反映出市场因法国财政困境而要求更高的欧元风险溢价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国央行连续第23个月增持黄金，9月购金节奏进一步加快</title><link>https://wallstreetcn.com/articles/3783099</link><guid>72aa84f93b39ed1c3541d99a3f5962ea6a3969c7ca83cabd2137abcad1e35d60</guid><pubDate>Wed, 07 Oct 2026 02:28:42 GMT</pubDate><description>&lt;p&gt;随着国际金价持续震荡，中国央行购金节奏仍在加快。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 勒庞力推1400亿欧元减支与宪法公投，Citadel高管警告：法国已无犯错空间</title><link>https://wallstreetcn.com/articles/3783108</link><guid>6cd0ebd829e45b6dbfc9de1b516f63831376fccf9a0a12ddf034cabf214858d6</guid><pubDate>Wed, 07 Oct 2026 06:24:34 GMT</pubDate><description>&lt;p&gt;法国财政困境正逼近关键节点：在大选临近、政治不确定性升温之际，市场对该国财政政策的容错空间正在快速收窄。&lt;/p&gt;
+&lt;p&gt;10月7日周三，据路透社报道，城堡投资（Citadel）固定收益与宏观经济研究主管Angel Ubide表示，&lt;strong&gt;法国财政政策已经没有太多犯错空间。他认为，法国目前尚不构成欧洲系统性风险，但由于经济体量庞大，一旦法国出现系统性问题，最终可能演变为整个欧洲的问题。&lt;/strong&gt;与此同时，当前的市场压力也可能倒逼法国政界加快推进财政整顿。&lt;/p&gt;
+&lt;p&gt;周二，法国极右翼领导人勒庞提出更激进的财政方案，承诺若当选，将在五年任期内削减1400亿欧元开支，并计划通过全民公投将削减赤字目标写入宪法。&lt;strong&gt;不过，经济学家仍对这一计划的可执行性存疑。多家权威民调显示，勒庞在法国总统选举首轮投票意向中持续领先。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场已经率先反映出对法国财政的担忧：上周法国10年期国债收益率一度突破5%，创24年新高；欧元兑美元跌破1.12，触及17个月低点，并同时对英镑、瑞郎和日元走弱。欧洲央行官员和法国财政部长目前均排除了直接入市干预的必要性。&lt;/p&gt;
+市场警示：法国财政已无“犯错空间”
+&lt;p&gt;法国国债近期遭遇持续抛售，法德10年期国债利差不断扩大，投资者对法国公共财政可持续性的担忧进一步推高融资成本。&lt;/p&gt;
+&lt;p&gt;Ubide指出，&lt;strong&gt;当前债市压力本身就是向法国政界发出的明确信号：财政政策已经没有太多犯错空间。他认为，市场压力虽然会加剧短期波动，但也可能促使法国政治人物更加重视财政整顿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于法国而言，真正的挑战不仅在于总统能否提出财政改革方案，更在于改革能否获得议会支持。&lt;strong&gt;Ubide强调，法国需要的不只是一个愿意推动财政整顿的总统，还需要议会选举产生能够支持削减开支的多数派。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果缺乏足够的议会支持，即使总统希望压缩财政支出，也很难将计划转化为实际政策。这意味着，随着大选临近，法国财政政策的可信度将越来越取决于未来政府能否建立稳定的政治支持基础。&lt;/p&gt;
+&lt;p&gt;目前，欧洲央行政策制定者仍认为没有必要直接干预法国债市。法国财政部长也排除了央行入市的必要性。在这种情况下，市场能否重新获得信心，最终仍取决于法国自身能否拿出可信的财政整顿方案。&lt;/p&gt;
+政治动荡：勒庞押注大规模减支
+&lt;p&gt;财政压力与法国国内政治环境的剧烈变化正好叠加。学生抗议、物价上涨以及居民购买力下降持续影响选民情绪，主流政党的支持率受到挤压，极右翼和极左翼力量进一步壮大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;法国极右翼领导人勒庞周二开始强化自身的财政政策立场，试图向选民和金融市场证明其具备控制赤字的意愿。&lt;/strong&gt;她承诺，如果当选总统，将在五年任期内实现1400亿欧元的财政节省，并计划通过全民公投，将削减财政赤字的目标写入宪法。&lt;/p&gt;
+&lt;p&gt;但经济学家对这一计划能否真正落地仍持怀疑态度。争议不仅在于1400亿欧元的减支规模是否现实，也在于勒庞此前提出的部分工人提前退休政策是否会继续执行。&lt;strong&gt;若福利承诺与大规模财政削减同时存在，实际的财政腾挪空间仍有待验证。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国央行连续第23个月增持黄金，9月购金节奏进一步加快</title><link>https://wallstreetcn.com/articles/3783099</link><guid>72aa84f93b39ed1c3541d99a3f5962ea6a3969c7ca83cabd2137abcad1e35d60</guid><pubDate>Wed, 07 Oct 2026 02:28:42 GMT</pubDate><description>&lt;p&gt;随着国际金价持续震荡，中国央行购金节奏仍在加快。&lt;/p&gt;
 &lt;p&gt;10月7日，中国人民银行数据显示，&lt;strong&gt;中国9月末黄金储备报7747万盎司（约2409.59吨），环比增加74万盎司（约23.02吨），高于&lt;a href="https://wallstreetcn.com/articles/3781226?keyword=%E5%A4%AE%E8%A1%8C+%E9%BB%84%E9%87%91"&gt;8月单月增持的65万盎司&lt;/a&gt;。&lt;/strong&gt;&lt;strong&gt;8月末黄金储备报7673万盎司（约2386.57吨）。中国央行已连续第23个月增持黄金。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，国家外汇管理局统计数据显示，&lt;strong&gt;截至2026年9月末，我国外汇储备规模为34003亿美元，较8月末下降381亿美元，降幅为1.11%。&lt;/strong&gt;&lt;/p&gt;
@@ -466,44 +483,4 @@ AI数据中心驱动，美国电力需求连续刷新历史峰值
 &lt;p&gt;过去一个月，国际黄金价格走弱。 Wind数据显示，COMEX黄金期货9月累计跌幅达到6.52%。&lt;/p&gt;
 &lt;p&gt;近日，&lt;a href="https://wallstreetcn.com/articles/3783058?keyword=%E9%BB%84%E9%87%91"&gt;汇丰下调金价预测&lt;/a&gt;，理由是预期美国将进一步加息，以及油价上涨可能在短期内对黄金构成压力。不过，该行认为，支撑金价的长期因素依然存在。汇丰预计，2026年黄金均价为每盎司4490美元，低于此前预测的4560美元；并将2027年黄金均价预测由每盎司4925美元下调至4825美元。汇丰表示，市场对美国进一步加息和债券收益率上升的预期将继续压制金价，因为这会削弱非孳息资产黄金的吸引力。该行经济学家预计，美联储将在今年12月再次加息。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782915?keyword=%E9%BB%84%E9%87%91"&gt;德意志银行研究显示&lt;/a&gt;，CTA目前持有的净空头头寸为2021年10月以来最大规模。仅在过去一个月内，CTA已卖出其最大仓位规模的52%，这一月度流出量处于历史第3百分位，属于极端罕见的大规模抛售。&lt;strong&gt;尽管持仓悲观程度逼近&amp;quot;绝对投降&amp;quot;，但金价始终未创新低——央行持续托底是关键。&lt;/strong&gt;随着空头动能即将彻底枯竭的“绝对投降时刻”逼近，行情反转向上的信号已极度强烈，当前正是绝佳的抄底节点。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普500创出新高，但几乎只有AI交易在涨</title><link>https://wallstreetcn.com/articles/3783091</link><guid>d010dc4bf2b5d990817bd799c38b17d5fc1f485a39d792178fe61446cea76b35</guid><pubDate>Wed, 07 Oct 2026 00:53:17 GMT</pubDate><description>&lt;p&gt;标普500指数周二触及新高，但这场反弹的驱动力极为集中：少数押注人工智能的科技巨头几乎独力撑起整个市场，而医疗、银行、消费等其他板块正在下跌。市场广度的持续收窄，正在引发投资者对这轮涨势能否持续的疑虑。&lt;/p&gt;
-&lt;p&gt;周二，标普500指数收盘创历史新高，为自8月13日以来首次刷新纪录。纳斯达克综合指数同步创下连续第二个交易日收盘新高。&amp;quot;科技七雄&amp;quot;（Magnificent Seven）合计市值收盘逼近25万亿美元，据道琼斯市场数据，英伟达单家公司市值已超过5.76万亿美元。与此同时，10年期美国国债收益率小幅回落4个基点至5.270%，此前债券市场的大规模抛售已将国债收益率推至近二十年高位。&lt;/p&gt;
-&lt;p&gt;然而，指数新高的背后是一幅分裂的市场图景。据道琼斯市场数据，截至周二，&lt;strong&gt;标普500指数成分股中不足半数收于200日均线之上，这一比例自8月以来持续下滑。小盘股、蓝筹股乃至标普500等权重指数均落后于主要基准，罗素2000指数过去一个月的表现明显弱于标普500。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-AI叙事重燃，科技巨头重夺主导权
-
-&lt;p&gt;在年初数月横盘整理之后，&amp;quot;科技七雄&amp;quot;正在强势回归。英伟达过去一周上涨4.5%，再创历史新高；Meta自8月13日标普500前次高点以来已累计上涨24%。以Alphabet、亚马逊、微软和Meta为代表的AI&amp;quot;超大规模云厂商&amp;quot;（hyperscalers）股价回升至四个月高位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Alphabet母公司与Constellation Energy达成的大型能源协议——距亚马逊宣布类似交易仅一周之隔——进一步强化了AI基础设施资本支出持续扩张的市场叙事，提振了科技板块情绪。数据中心、光网络等AI生态链相关板块表现亮眼。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Horizon研究与量化策略负责人Mike Dickson表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;科技七雄已经历了约两个月的强劲上涨，目前实际上已追平标普500的整体涨幅，这在一定程度上是一轮补涨行情。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-高利率环境下，大市值科技股被视为&amp;quot;防御性资产&amp;quot;
-
-&lt;p&gt;科技巨头的强势，与当前宏观环境形成鲜明对比。美联储9月实施三年来首次加息，债券收益率持续走高，令小盘股、公用事业和房屋建筑商等对利率敏感的板块承压明显。&lt;/p&gt;
-&lt;p&gt;在这一背景下，&lt;strong&gt;现金充裕、负债相对较低的科技巨头反而被市场重新定价为&amp;quot;避风港&amp;quot;。&lt;/strong&gt;Truist Advisory Services首席投资顾问Keith Lerner表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;投资者环顾四周，在问哪些领域能够抵御这一切。科技股在某种程度上几乎被视为防御性资产。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Potomac Fund Management首席投资官Dan Russo则指出：&amp;quot;高利率和通胀正在侵蚀标普500中其他股票的价值，唯有大盘股端那些堡垒般的资产负债表在支撑整个市场。&amp;quot;尽管超大规模云厂商们正在大举融资数百亿美元以推进AI建设，Russo认为，与其他公司相比，这些企业仍更具备在高利率环境中保持增长的能力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-市场广度收窄，隐患不容忽视
-
-&lt;p&gt;分析师指出，当前市场&amp;quot;广度极窄&amp;quot;的格局本身构成风险。股市回报高度依赖少数股票，而这些股票可能因超支、自由现金流下滑、AI模型竞争乃至其他外部冲击而剧烈波动。&lt;/p&gt;
-&lt;p&gt;技术面上同样存在阻力信号。BTIG策略师Jonathan Krinsky指出，尽管指数突破新高通常不宜逆势做空，但广度、利率和信用市场的交叉信号显示，此次&amp;quot;突破&amp;quot;的持续性可能不及市场预期。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，超大规模云厂商股票虽大幅上涨，但其信用债市场并未同步跟进。上一次突破发生在8月4日，仅维持两天后标普500便横盘震荡长达两个月，直至周二再度创出新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Baird Private Wealth Management投资策略师Ross Mayfield亦坦言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;市场对这种狭窄性感到相当焦虑。理想状态下，当然希望看到更广泛的上涨参与度。但只要市场中体量最大、影响力最强的股票仍在发力，我认为最终还是一件好事。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不过，周二也出现了些许广度改善的迹象——标普500指数11个板块中有10个连续第三个交易日收涨，这是自2023年12月以来首次出现此类情形。Lerner对投资者的整体心态概括道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;此刻，所有道路都通向科技。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 长线VS短线（中证红利、红利低波100策略及长期收益一览）</title><link>http://xueqiu.com/7734995747/411379012</link><guid>857205701550caa6d4361248b4f5777666609b6f2ad07596b137576e5910a33a</guid><pubDate>Wed, 07 Oct 2026 05:25:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;稳我才&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;简单回忆一下国庆期间我们对红利的探讨：点击蓝色标题文字可翻看相应帖子内容&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 长线VS短线（中证红利、红利低波100策略及长期收益一览）</title><link>http://xueqiu.com/7734995747/411379012</link><guid>857205701550caa6d4361248b4f5777666609b6f2ad07596b137576e5910a33a</guid><pubDate>Wed, 07 Oct 2026 05:25:02 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;稳我才&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;简单回忆一下国庆期间我们对红利的探讨：点击蓝色标题文字可翻看相应帖子内容&lt;/p&gt;</description></item></channel></rss>
