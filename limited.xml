@@ -1,5 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 01:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V</title><link>https://wallstreetcn.com/articles/3783046</link><guid>f076a888568c36aa6555f91cfe02ea27218357357350f979401b53986ae32333</guid><pubDate>Tue, 06 Oct 2026 23:13:32 GMT</pubDate><description>&lt;p&gt;法国总统选举热门人选勒庞公布了一份&amp;quot;影子预算&amp;quot;，法国国债与德国国债的利差随之明显收窄，连续数周的全球长债抛售暂时停手。国际油价在同一时间从高位跳水，收益率与油价一起回落，为风险资产腾出空间。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 07 Oct 2026 01:59:07 GMT</lastBuildDate><item><title>[华尔街见闻] 美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅</title><link>https://wallstreetcn.com/articles/3783095</link><guid>0995b5d1068898d94b953d0c82151edfd967b5514a62243c3f57e9a1de574269</guid><pubDate>Wed, 07 Oct 2026 01:44:00 GMT</pubDate><description>&lt;p&gt;甲骨文旗下数据中心建设危机持续蔓延。继新墨西哥州Jupiter项目宣布不可抗力后，位于威斯康星州的1.3GW超大型数据中心&amp;quot;Project Lighthouse&amp;quot;再度告急——不是因为选址或资金，而是因为电接不上来。&lt;/p&gt;
+&lt;p&gt;根据数据中心研究机构Aterio发布的最新报告，&lt;strong&gt;Lighthouse项目的输电审批流程已被威斯康星州公共服务委员会（PSC）打回重来，法定审查时钟从零重启。&lt;/strong&gt;这意味着甲骨文此前承诺的&amp;quot;2027年下半年向客户交付&amp;quot;极有可能无法兑现，在基准情景下全功率供电将推迟至2028年10月，悲观情景下更要延至2029年春季。受此消息影响，甲骨文股价当日下跌1.8%，公司方面未作公开回应。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这是甲骨文五大核心数据中心园区中第二个被明确标记为延期风险的项目。就在两周前，巴克莱信贷策略师Andrew Keches还向客户表示新墨西哥州问题&amp;quot;对其他项目无传导影响&amp;quot;——而现实正在逐一证伪这一判断。&lt;/p&gt;
+
+审批重启：五百余份文件，归零重来
+
+&lt;p&gt;Lighthouse项目位于威斯康星州Port Washington，由Vantage Data Centers开发，甲骨文为租户，是OpenAI Stargate建设计划的组成部分，总电力需求达1.3GW，关键IT负载约902MW。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;项目的电力瓶颈在于：园区供电依赖美国输电公司（ATC）新建一条高压输电线路，而ATC必须获得PSC的批准才能动工。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原本程序已推进至关键节点。ATC的申请于2025年12月被认定为&amp;quot;完整申请&amp;quot;，但此后该公司陆续补充或重新提交了564份文件，新增线路方案和临时旁路线路。今年8月7日，PSC委员会一致撤销了原先的&amp;quot;完整性认定&amp;quot;——据报道，这在该委员会近几十年历史中属首次，甚至可能是有史以来第一次。&lt;/p&gt;
+&lt;p&gt;PSC主席Summer Strand表示，&amp;quot;申请变更的规模和数量……对各方及公众的参与造成了障碍。&amp;quot;委员Marcus Hawkins措辞更为直接：&amp;quot;我们有严格的时间表，但前提是申请必须完整。&amp;quot;&lt;/p&gt;
+&lt;p&gt;行政法法官随后认定ATC未能遵从关于列明变更事项的命令，PSC于9月10日在未对实质内容作出裁决的情况下关闭案件。ATC于9月18日重新提交申请，法定审查时钟从零开始重新计算。&lt;/p&gt;
+&lt;p&gt;ATC最初计划于2026年12月开始施工，2027年底完工，与甲骨文交付时间表吻合。该计划目前已正式落空。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+时间线：最快2028年，大概率2029年
+
+&lt;p&gt;根据威斯康星州法律，PSC须在30天内就申请完整性作出裁定（下一个截止日期为10月19日），随后有180天作出实质决定，且可再延期180天，此后还须提前6个月通知方可动工。&lt;/p&gt;
+&lt;p&gt;Aterio据此推算出三种情景：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;乐观情景（可能性较低）：2027年10月实现部分供电，2028年8月实现全功率1.3GW供电；&lt;/li&gt;
+&lt;li&gt;基准情景：2027年12月实现部分供电，2028年10月实现全功率供电，有效负载爬坡自2028年第一季度开始；&lt;/li&gt;
+&lt;li&gt;延期情景：2028年6月实现部分供电，2029年4月实现全功率供电。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aterio指出，从历史记录来看，PSC在其审查的所有同类大型输电案例中均启动了延期审查，345kV项目从认定完整到作出决定实际耗时355至358天，而非理论上的180天。换言之，延期情景才是有历史依据的基准。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Aterio数据中心研究主管Javier Reyes表示，&amp;quot;Port Washington的建设施工正在稳步推进，但供电到位取决于一个已经重启的监管程序。&amp;quot;目前园区已有两栋建筑完成封顶，但没有电网接入，里面的芯片将无处插电。&lt;/p&gt;
+
+账单：成本已跳涨75%，负债压力持续累积
+
+&lt;p&gt;除时间表外，项目成本也大幅膨胀。&lt;strong&gt;ATC重新提交的&amp;quot;Ozaukee县配电互联项目&amp;quot;估算成本已升至24.8亿至27.2亿美元，较原申请的13亿至17亿美元上涨约75%，可能成为威斯康星州史上造价最高的单一输电项目。&lt;/strong&gt;其中约11亿美元用于Decker电网稳定系统（E-STATCOM），甲骨文已承诺承担这部分费用。&lt;/p&gt;
+&lt;p&gt;Citizens Utility Board的Tom Content援引数据指出，威斯康星州目前最大用电客户的用电量不足100兆瓦，而该园区峰值用电量可能高达3500兆瓦。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;融资层面的压力同样不容忽视。据巴克莱数据，威斯康星园区的建设资金来自Vantage一笔380亿美元贷款包中的150亿美元，该贷款包据报道在银团销售中面临困难。此外，由于威斯康星州大用电客户关税要求申请方信用评级不低于A-，而甲骨文当前评级为BBB-，公司将面临保证金追缴压力——甲骨文自身披露，相关信用证担保要求每年可能超过1亿美元，总担保金额据报道逾70亿美元。而所有这些，指向的是一个全功率供电可能要到2029年才能实现的园区。&lt;/p&gt;
+&lt;p&gt;高盛TMT分析师Sean Johnstone在新墨西哥力不可抗力声明次日的研报中警告，&amp;quot;许可审批、电力方案重新设计、社区反对以及本地基础设施制约，正在威胁施工时间表和融资假设。&amp;quot;威斯康星州的情况，仅靠其中一条就已造成实质冲击。&lt;/p&gt;
+
+延期的代价：每月近千亿元营收推迟兑现
+
+&lt;p&gt;高盛股票研究估算，&lt;strong&gt;超大规模云服务商每GW算力每年需要约116亿美元AI营收，才能在2026至2027年AI算力支出上实现15%的投资回报率。&lt;/strong&gt;以Lighthouse约0.9GW的IT容量计算，每推迟一个月，即对应约8.5亿至9亿美元的营收递延。Bloom Energy在其第二季度财报电话会议上表示，对于一座1GW数据中心而言，提前一个月通电可带来约10亿至20亿美元的营收价值。&lt;/p&gt;
+&lt;p&gt;与此同时，资本开支压力并不因延期而缓解。甲骨文此前在Jupiter项目中签署的&amp;quot;无论如何必须履约&amp;quot;租约，意味着即便园区未能上线，公司仍须承担持有成本。巴克莱指出，硬件资本开支通常在资产上线前2至3个月已经支出，推迟的是收入，而非成本。甲骨文FY27资本开支指引高达最多950亿美元，远超FY26的557亿美元，进一步压缩了财务弹性空间。&lt;/p&gt;
+&lt;p&gt;这一困境并非甲骨文独有。据高盛最新《碳经济学》报告，美国新建高压输电线路规模已从2010至2014年间年均1700英里大幅萎缩至2020至2023年间的350英里，从并网申请到商业运营的中位时间已接近5年。发动机制造商INNIO向高盛表示，电网接入周期已从历史上的约2年延长至如今的7年以上。&lt;/p&gt;
+&lt;p&gt;Port Washington正是这一统计数据的现实缩影：1.3GW的用电需求，等待新建高压线路、最多五座新变电站，以及一位已经失去耐心的监管机构。这也是高盛预计到2030年美国数据中心28%的电力需求将由表后天然气和燃料电池供应的背景——而2025年这一比例&amp;quot;实际上为零&amp;quot;。&lt;/p&gt;
+
+危机传导：从&amp;quot;孤立事件&amp;quot;到系统性隐忧
+
+&lt;p&gt;巴克莱Andrew Keches在新墨西哥项目宣布不可抗力后的快报中断言：&amp;quot;新闻的标题很大，实际影响不大……对其他项目无传导，信用不应因此波动。&amp;quot;&lt;/p&gt;
+&lt;p&gt;然而事实是，甲骨文信用违约互换（CDS）在次日飙升至创纪录的237个基点，而&amp;quot;无传导&amp;quot;的判断，也已随着威斯康星项目的曝光显得日益脆弱。&lt;/p&gt;
+&lt;p&gt;值得注意的是，甲骨文各项目的延期原因各异：新墨西哥州陷于管道和空气许可证问题，威斯康星州则是电网监管审批受阻。正如Aterio所指出的，当每个项目都有&amp;quot;各自独特的延期理由&amp;quot;时，&amp;quot;孤立性&amp;quot;的辩护逻辑便不再成立。&lt;/p&gt;
+&lt;p&gt;巴克莱认为相对安全的密歇根州Saline项目，据称已获得电力供应和许可证，&amp;quot;是甲骨文管线中去风险化程度最高的资产之一&amp;quot;，首期交付预计于年底前完成，距今不足三个月。正如原文所言，历史经验表明，下一个出问题的，往往是被认为最安全的那个。&lt;/p&gt;
+&lt;p&gt;如高盛的Johnstone所言，&amp;quot;对于贷款方和数据中心投资者而言，这是一个提醒——第三方开发的AI基础设施，并不总是看上去那般稳定可靠。&amp;quot;数百亿美元债务支撑的建设潮，其逻辑前提是资产按期上线。而现实是，它们并未按期上线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V</title><link>https://wallstreetcn.com/articles/3783046</link><guid>f076a888568c36aa6555f91cfe02ea27218357357350f979401b53986ae32333</guid><pubDate>Tue, 06 Oct 2026 23:13:32 GMT</pubDate><description>&lt;p&gt;法国总统选举热门人选勒庞公布了一份&amp;quot;影子预算&amp;quot;，法国国债与德国国债的利差随之明显收窄，连续数周的全球长债抛售暂时停手。国际油价在同一时间从高位跳水，收益率与油价一起回落，为风险资产腾出空间。&lt;/p&gt;
 &lt;p&gt;标普500指数收盘上涨0.6%，创下8月以来首个历史高点，纳指同步创纪录，人工智能相关股票领涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;法国主要总统候选人提出的&amp;quot;影子预算&amp;quot;释放出财政纪律的积极信号，推动法德10年期国债利差收窄约30个基点，欧洲债市的动荡情绪暂时得到平息。&lt;/p&gt;
@@ -114,47 +165,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;今年前八个月累计商品与服务逆差较去年同期收窄约20%，货物贸易逆差同比亦减少约1100亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;牛津经济研究院美国经济学家Grace Zwemmer在报告中指出，&lt;strong&gt;贸易数据&amp;quot;有望对三季度经济增长形成显著拖累&amp;quot;，近期AI需求与企业补库存需求将支撑进口持续强劲，而美国石油出口对逆差的对冲效果将弱于二季度。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在政策层面，最高法院今年2月裁定特朗普援引《国际紧急经济权力法》征收全球性关税违法，此后行政当局转而寻求其他法律依据重建关税体系。7月，白宫已对80余个国家和地区启动新一轮关税，并计划对逾40个国家再度加征。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普500创出新高，但几乎只有AI交易在涨</title><link>https://wallstreetcn.com/articles/3783091</link><guid>d010dc4bf2b5d990817bd799c38b17d5fc1f485a39d792178fe61446cea76b35</guid><pubDate>Wed, 07 Oct 2026 00:53:17 GMT</pubDate><description>&lt;p&gt;标普500指数周二触及新高，但这场反弹的驱动力极为集中：少数押注人工智能的科技巨头几乎独力撑起整个市场，而医疗、银行、消费等其他板块正在下跌。市场广度的持续收窄，正在引发投资者对这轮涨势能否持续的疑虑。&lt;/p&gt;
-&lt;p&gt;周二，标普500指数收盘创历史新高，为自8月13日以来首次刷新纪录。纳斯达克综合指数同步创下连续第二个交易日收盘新高。&amp;quot;科技七雄&amp;quot;（Magnificent Seven）合计市值收盘逼近25万亿美元，据道琼斯市场数据，英伟达单家公司市值已超过5.76万亿美元。与此同时，10年期美国国债收益率小幅回落4个基点至5.270%，此前债券市场的大规模抛售已将国债收益率推至近二十年高位。&lt;/p&gt;
-&lt;p&gt;然而，指数新高的背后是一幅分裂的市场图景。据道琼斯市场数据，截至周二，&lt;strong&gt;标普500指数成分股中不足半数收于200日均线之上，这一比例自8月以来持续下滑。小盘股、蓝筹股乃至标普500等权重指数均落后于主要基准，罗素2000指数过去一个月的表现明显弱于标普500。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-AI叙事重燃，科技巨头重夺主导权
-
-&lt;p&gt;在年初数月横盘整理之后，&amp;quot;科技七雄&amp;quot;正在强势回归。英伟达过去一周上涨4.5%，再创历史新高；Meta自8月13日标普500前次高点以来已累计上涨24%。以Alphabet、亚马逊、微软和Meta为代表的AI&amp;quot;超大规模云厂商&amp;quot;（hyperscalers）股价回升至四个月高位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Alphabet母公司与Constellation Energy达成的大型能源协议——距亚马逊宣布类似交易仅一周之隔——进一步强化了AI基础设施资本支出持续扩张的市场叙事，提振了科技板块情绪。数据中心、光网络等AI生态链相关板块表现亮眼。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Horizon研究与量化策略负责人Mike Dickson表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;科技七雄已经历了约两个月的强劲上涨，目前实际上已追平标普500的整体涨幅，这在一定程度上是一轮补涨行情。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-高利率环境下，大市值科技股被视为&amp;quot;防御性资产&amp;quot;
-
-&lt;p&gt;科技巨头的强势，与当前宏观环境形成鲜明对比。美联储9月实施三年来首次加息，债券收益率持续走高，令小盘股、公用事业和房屋建筑商等对利率敏感的板块承压明显。&lt;/p&gt;
-&lt;p&gt;在这一背景下，&lt;strong&gt;现金充裕、负债相对较低的科技巨头反而被市场重新定价为&amp;quot;避风港&amp;quot;。&lt;/strong&gt;Truist Advisory Services首席投资顾问Keith Lerner表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;投资者环顾四周，在问哪些领域能够抵御这一切。科技股在某种程度上几乎被视为防御性资产。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Potomac Fund Management首席投资官Dan Russo则指出：&amp;quot;高利率和通胀正在侵蚀标普500中其他股票的价值，唯有大盘股端那些堡垒般的资产负债表在支撑整个市场。&amp;quot;尽管超大规模云厂商们正在大举融资数百亿美元以推进AI建设，Russo认为，与其他公司相比，这些企业仍更具备在高利率环境中保持增长的能力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-市场广度收窄，隐患不容忽视
-
-&lt;p&gt;分析师指出，当前市场&amp;quot;广度极窄&amp;quot;的格局本身构成风险。股市回报高度依赖少数股票，而这些股票可能因超支、自由现金流下滑、AI模型竞争乃至其他外部冲击而剧烈波动。&lt;/p&gt;
-&lt;p&gt;技术面上同样存在阻力信号。BTIG策略师Jonathan Krinsky指出，尽管指数突破新高通常不宜逆势做空，但广度、利率和信用市场的交叉信号显示，此次&amp;quot;突破&amp;quot;的持续性可能不及市场预期。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，超大规模云厂商股票虽大幅上涨，但其信用债市场并未同步跟进。上一次突破发生在8月4日，仅维持两天后标普500便横盘震荡长达两个月，直至周二再度创出新高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Baird Private Wealth Management投资策略师Ross Mayfield亦坦言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;市场对这种狭窄性感到相当焦虑。理想状态下，当然希望看到更广泛的上涨参与度。但只要市场中体量最大、影响力最强的股票仍在发力，我认为最终还是一件好事。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不过，周二也出现了些许广度改善的迹象——标普500指数11个板块中有10个连续第三个交易日收涨，这是自2023年12月以来首次出现此类情形。Lerner对投资者的整体心态概括道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;此刻，所有道路都通向科技。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美EIA大幅上调油价预期，布油Q4调升15%，料AI数据中心推动美国今明年电力需求创纪录</title><link>https://wallstreetcn.com/articles/3783079</link><guid>7a4e6aa478d60b0c17deeb0c74ec7b4ae97a2b662f1cc000dc6b6c80c5eb29d9</guid><pubDate>Tue, 06 Oct 2026 21:20:44 GMT</pubDate><description>&lt;p&gt;全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。&lt;/p&gt;
+&lt;p&gt;在政策层面，最高法院今年2月裁定特朗普援引《国际紧急经济权力法》征收全球性关税违法，此后行政当局转而寻求其他法律依据重建关税体系。7月，白宫已对80余个国家和地区启动新一轮关税，并计划对逾40个国家再度加征。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美EIA大幅上调油价预期，布油Q4调升15%，料AI数据中心推动美国今明年电力需求创纪录</title><link>https://wallstreetcn.com/articles/3783079</link><guid>7a4e6aa478d60b0c17deeb0c74ec7b4ae97a2b662f1cc000dc6b6c80c5eb29d9</guid><pubDate>Tue, 06 Oct 2026 21:20:44 GMT</pubDate><description>&lt;p&gt;全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。&lt;/p&gt;
 &lt;p&gt;10月6日周二，EIA发布短期能源报告，上调布伦特原油&lt;strong&gt;2026年均价至约98美元/桶&lt;/strong&gt;，较此前预测高出8%；&lt;strong&gt;四季度均价预期约为105美元/桶&lt;/strong&gt;，较EIA此前估计高出15%。&lt;/p&gt;
 &lt;p&gt;与此同时，EIA在同日发布的冬季燃料展望中，预计今冬&lt;strong&gt;取暖油价格将同比上涨30%，相关家庭实际支出涨幅约为21%&lt;/strong&gt;。这一涨势的核心推手是全球柴油供应持续趋紧，&lt;strong&gt;美国零售柴油&lt;/strong&gt;价格上月已创历史新高，&lt;strong&gt;EIA预计10月仍将维持在6美元/加仑以上。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;相比之下，约半数美国家庭所依赖的&lt;strong&gt;天然气取暖用户今冬平均支出预计将下降9%&lt;/strong&gt;，&lt;strong&gt;丙烷用户支出则预计小幅下降3%&lt;/strong&gt;，主要受益于天然气库存充裕及产量强劲增长。&lt;/p&gt;
@@ -209,7 +220,47 @@ AI数据中心驱动，美国电力需求连续刷新历史峰值
 &lt;p&gt;EmbeddingGemma 2与谷歌生成式模型Gemma 4共享文本分词器与音频编码器，二者可组合运行于同一推理流水线，并实现更低的综合内存占用。&lt;/p&gt;
 &lt;p&gt;这一设计为开发者提供了一条在设备本地构建完整RAG流水线的路径，全程无需连接云端服务器，数据不离开终端设备。&lt;/p&gt;
 &lt;p&gt;谷歌指出，本地生成嵌入有助于确保数据隐私、降低流水线延迟，并使跨模态搜索与检索功能在完全离线状态下运行。这一定位与当前部分企业和开发者对数据主权和隐私合规的关注相契合。&lt;/p&gt;
-&lt;p&gt;模型已开源，相关评测指标及模型信息可通过EmbeddingGemma 2 model card查阅。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 贝森特重弹“降债”老调，市场人士：愿景不是计划</title><link>https://wallstreetcn.com/articles/3783085</link><guid>f49ab2907d2ac70b89214c52fe349620d19b0e704fd91c886bd9d9d14eaafe03</guid><pubDate>Tue, 06 Oct 2026 18:49:39 GMT</pubDate><description>&lt;p&gt;美国财长贝森特日前再度为特朗普政府的财政路线背书，称经济增长与支出约束双管齐下可压低债务率。但市场策略师和独立经济学家普遍认为，这不过是又一轮口头干预，难以改变美国财政的基本走向。&lt;/p&gt;
+&lt;p&gt;模型已开源，相关评测指标及模型信息可通过EmbeddingGemma 2 model card查阅。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普500创出新高，但几乎只有AI交易在涨</title><link>https://wallstreetcn.com/articles/3783091</link><guid>d010dc4bf2b5d990817bd799c38b17d5fc1f485a39d792178fe61446cea76b35</guid><pubDate>Wed, 07 Oct 2026 00:53:17 GMT</pubDate><description>&lt;p&gt;标普500指数周二触及新高，但这场反弹的驱动力极为集中：少数押注人工智能的科技巨头几乎独力撑起整个市场，而医疗、银行、消费等其他板块正在下跌。市场广度的持续收窄，正在引发投资者对这轮涨势能否持续的疑虑。&lt;/p&gt;
+&lt;p&gt;周二，标普500指数收盘创历史新高，为自8月13日以来首次刷新纪录。纳斯达克综合指数同步创下连续第二个交易日收盘新高。&amp;quot;科技七雄&amp;quot;（Magnificent Seven）合计市值收盘逼近25万亿美元，据道琼斯市场数据，英伟达单家公司市值已超过5.76万亿美元。与此同时，10年期美国国债收益率小幅回落4个基点至5.270%，此前债券市场的大规模抛售已将国债收益率推至近二十年高位。&lt;/p&gt;
+&lt;p&gt;然而，指数新高的背后是一幅分裂的市场图景。据道琼斯市场数据，截至周二，&lt;strong&gt;标普500指数成分股中不足半数收于200日均线之上，这一比例自8月以来持续下滑。小盘股、蓝筹股乃至标普500等权重指数均落后于主要基准，罗素2000指数过去一个月的表现明显弱于标普500。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+AI叙事重燃，科技巨头重夺主导权
+
+&lt;p&gt;在年初数月横盘整理之后，&amp;quot;科技七雄&amp;quot;正在强势回归。英伟达过去一周上涨4.5%，再创历史新高；Meta自8月13日标普500前次高点以来已累计上涨24%。以Alphabet、亚马逊、微软和Meta为代表的AI&amp;quot;超大规模云厂商&amp;quot;（hyperscalers）股价回升至四个月高位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Alphabet母公司与Constellation Energy达成的大型能源协议——距亚马逊宣布类似交易仅一周之隔——进一步强化了AI基础设施资本支出持续扩张的市场叙事，提振了科技板块情绪。数据中心、光网络等AI生态链相关板块表现亮眼。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Horizon研究与量化策略负责人Mike Dickson表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;科技七雄已经历了约两个月的强劲上涨，目前实际上已追平标普500的整体涨幅，这在一定程度上是一轮补涨行情。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+高利率环境下，大市值科技股被视为&amp;quot;防御性资产&amp;quot;
+
+&lt;p&gt;科技巨头的强势，与当前宏观环境形成鲜明对比。美联储9月实施三年来首次加息，债券收益率持续走高，令小盘股、公用事业和房屋建筑商等对利率敏感的板块承压明显。&lt;/p&gt;
+&lt;p&gt;在这一背景下，&lt;strong&gt;现金充裕、负债相对较低的科技巨头反而被市场重新定价为&amp;quot;避风港&amp;quot;。&lt;/strong&gt;Truist Advisory Services首席投资顾问Keith Lerner表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;投资者环顾四周，在问哪些领域能够抵御这一切。科技股在某种程度上几乎被视为防御性资产。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Potomac Fund Management首席投资官Dan Russo则指出：&amp;quot;高利率和通胀正在侵蚀标普500中其他股票的价值，唯有大盘股端那些堡垒般的资产负债表在支撑整个市场。&amp;quot;尽管超大规模云厂商们正在大举融资数百亿美元以推进AI建设，Russo认为，与其他公司相比，这些企业仍更具备在高利率环境中保持增长的能力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+市场广度收窄，隐患不容忽视
+
+&lt;p&gt;分析师指出，当前市场&amp;quot;广度极窄&amp;quot;的格局本身构成风险。股市回报高度依赖少数股票，而这些股票可能因超支、自由现金流下滑、AI模型竞争乃至其他外部冲击而剧烈波动。&lt;/p&gt;
+&lt;p&gt;技术面上同样存在阻力信号。BTIG策略师Jonathan Krinsky指出，尽管指数突破新高通常不宜逆势做空，但广度、利率和信用市场的交叉信号显示，此次&amp;quot;突破&amp;quot;的持续性可能不及市场预期。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，超大规模云厂商股票虽大幅上涨，但其信用债市场并未同步跟进。上一次突破发生在8月4日，仅维持两天后标普500便横盘震荡长达两个月，直至周二再度创出新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Baird Private Wealth Management投资策略师Ross Mayfield亦坦言：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;市场对这种狭窄性感到相当焦虑。理想状态下，当然希望看到更广泛的上涨参与度。但只要市场中体量最大、影响力最强的股票仍在发力，我认为最终还是一件好事。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不过，周二也出现了些许广度改善的迹象——标普500指数11个板块中有10个连续第三个交易日收涨，这是自2023年12月以来首次出现此类情形。Lerner对投资者的整体心态概括道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;此刻，所有道路都通向科技。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 贝森特重弹“降债”老调，市场人士：愿景不是计划</title><link>https://wallstreetcn.com/articles/3783085</link><guid>f49ab2907d2ac70b89214c52fe349620d19b0e704fd91c886bd9d9d14eaafe03</guid><pubDate>Tue, 06 Oct 2026 18:49:39 GMT</pubDate><description>&lt;p&gt;美国财长贝森特日前再度为特朗普政府的财政路线背书，称经济增长与支出约束双管齐下可压低债务率。但市场策略师和独立经济学家普遍认为，这不过是又一轮口头干预，难以改变美国财政的基本走向。&lt;/p&gt;
 &lt;p&gt;贝森特于美东时间10月5日周一晚间表示，在继承拜登政府留下的“一大堆债务”后，特朗普政府正通过“约束支出并推动经济增长”加以应对，并称GDP持续增长超过3%将有助于扭转债务与GDP之比。他还指出，在一次性支付1800亿美元退税后，关税收入已恢复到更高水平。&lt;/p&gt;
 &lt;p&gt;贝森特表态当天，本周一美股午盘时段，基准10年期美国国债的收益率一度逼近5.35%，刷新上周四所创的2002年以来十四年最高纪录。Brown Brothers Harriman策略师Elias Haddad等人直言，贝森特此举不过是试图通过口头干预压低长端收益率。&lt;/p&gt;
 &lt;p&gt;而贝森特上周六在接受美媒采访时已一改此前的强硬姿态，承认“我无法控制债市”，并将近期收益率攀升归咎于伊朗战事推高全球油价，而非美国财政的结构性问题。这与他9月高调宣称自己是&amp;quot;庄家&amp;quot;、邀请债市投资者&amp;quot;下注对赌&amp;quot;的口吻形成明显落差。&lt;/p&gt;
@@ -346,25 +397,4 @@ AI赋能电网：Gemini深度嵌入能源运营
 &lt;li&gt;&lt;strong&gt;三是关键基础设施安全防护&lt;/strong&gt;，利用谷歌云的国防级平台保障运营技术网络安全，其中多个网络与大型电力系统之间采用物理隔离（air-gapped）架构。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;两家公司将这一合作定位为&amp;quot;AI for Energy&amp;quot;蓝图，旨在建立可推广的行业标准，探索在美国其他地区开发清洁发电、储能及需求侧响应项目的可能性，近期重点仍将放在PJM电网范围之内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 共和党斥AI危险论，民主党质疑“大厂”影响特朗普AI政策，要求披露监管框架修改过程</title><link>https://wallstreetcn.com/articles/3783082</link><guid>5072a494f7e0058b0db35ca3fd5506766fbf748e2e1253e5b43c307756ad7ea6</guid><pubDate>Tue, 06 Oct 2026 16:39:48 GMT</pubDate><description>&lt;p&gt;美东时间10月6日周二公开的信函显示，美国民主党参议员沃伦（Elizabeth Warren）和布卢门撒尔（Richard Blumenthal）本周一致信美国财长贝森特、商务部长卢特尼克等特朗普政府高官，要求说明科技巨头是否通过游说影响了政府的AI监管政策，并披露相关监管框架及测试机制的具体内容。&lt;/p&gt;
-&lt;p&gt;两名参议员在信中直指，特朗普政府正在“迎合大型科技公司CEO的利益”，而不是应对日益强大的AI系统带来的安全和国家安全风险。他们要求政府“停止将行业利润置于美国民众利益之上”。&lt;/p&gt;
-&lt;p&gt;共和党参议员莫雷诺（Bernie Moreno）则在本周一致信Anthropic CEO 阿莫代伊（Dario Amodei），警告不要对AI采取“危言耸听”的态度。莫雷诺认为，Anthropic一边准备上市、希望美国民众分享公司增长红利，一边又警告其技术可能最终导致人类灭绝，两者存在矛盾。他敦促阿莫代伊更多强调超级智能改善美国民众生活、增强国家安全以及应对AI威胁的潜力。&lt;/p&gt;
-从强制监管到自愿框架，民主党质疑“大厂游说”改变政策
-&lt;p&gt;信函重点追溯了特朗普政府今年5月至6月调整AI监管框架的过程。&lt;/p&gt;
-&lt;p&gt;沃伦和布卢门撒尔称，国家网络总监办公室（ONCD）今年5月起草的方案原本要求，对前沿AI模型实施&lt;strong&gt;强制性的60天政府评估&lt;/strong&gt;，随后还有75天的限定用户测试期；如果模型被认为存在不可接受风险，政府可以阻止其部署。&lt;/p&gt;
-&lt;p&gt;但两名参议员援引媒体报道指出，在谷歌、Anthropic和OpenAI等公司高管对草案表示反对后，政府将强制性框架改为自愿机制，而且覆盖范围缩小。随后，在Meta CEO扎克伯格和xAI CEO马斯克据称向特朗普表达担忧后，测试窗口又从90天进一步缩短至30天，并最终纳入6月签署的第14409号行政令。&lt;/p&gt;
-&lt;p&gt;参议员进一步指责，近期白宫推动的“超级智能协议”（White House Accord on Super Intelligence）同样是由科技行业主导的自律安排。信中援引报道称，扎克伯格在协议形成过程中发挥“核心作用”，而英伟达CEO黄仁勋则帮助争取其他公司支持。特朗普称该协议具有“道德约束力”，但沃伦和布卢门撒尔认为，这仍无法替代真正具有约束力的政府监管。&lt;/p&gt;
-要求公开企业与政府沟通记录
-&lt;p&gt;两名参议员要求政府在&lt;strong&gt;10月19日前&lt;/strong&gt;回答一系列问题，包括披露科技企业与政府官员围绕第14409号行政令举行的线下会谈、通信记录以及不同版本草案，并提供一份据称由ONCD向行业发出的&lt;strong&gt;31项问卷&lt;/strong&gt;及企业回复。&lt;/p&gt;
-&lt;p&gt;他们还追问，制定监管框架时是否咨询了独立评估机构、消费者组织、关键基础设施运营商及学术专家等非行业人士，并要求政府说明目前前沿AI模型的部署前测试究竟评估哪些能力和风险、采用什么基准，以及模型未通过测试后政府将采取何种措施。&lt;/p&gt;
-&lt;p&gt;这已经是两人在近期针对特朗普政府AI监管政策的连续施压。9月28日，他们曾要求财政部解释政府对先进AI模型采取的秘密、自愿测试机制，并质疑在OpenAI相关AI智能体网络攻击事件后，政府为何尚未公布针对相关公司的联邦调查。&lt;/p&gt;
-共和党参议员批评Anthropic“危言耸听”
-&lt;p&gt;值得注意的是，围绕AI安全的政治争论并非简单的党派对立。&lt;/p&gt;
-&lt;p&gt;据Axios报道，共和党参议员莫雷诺10月5日致信Anthropic CEO 阿莫代伊，批评其对AI风险采取“危言耸听”的态度，并警告不要发表制造恐慌的言论。&lt;/p&gt;
-&lt;p&gt;莫雷诺特别抓住Anthropic准备IPO这一节点，质疑公司一方面希望美国普通投资者分享其增长红利，另一方面却警告AI可能最终导致人类灭绝。他要求阿莫代伊更多强调超级智能在改善民生、强化美国国家安全以及应对AI攻击方面的潜力。莫雷诺还表示，&lt;strong&gt;应对前沿AI风险并不意味着暂停发展或放弃美国技术领先地位&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;由此看，华盛顿当前围绕AI政策的争论正出现一条越来越清晰的主线：民主党更担心&lt;strong&gt;科技巨头影响政策、监管不足及AI安全风险&lt;/strong&gt;，而特朗普阵营及部分共和党人则更强调&lt;strong&gt;避免“AI末日论”阻碍创新和美国竞争力&lt;/strong&gt;。而Anthropic及阿莫代伊，正逐渐成为这场政策分歧中的一个重要焦点。&lt;/p&gt;
-
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;两家公司将这一合作定位为&amp;quot;AI for Energy&amp;quot;蓝图，旨在建立可推广的行业标准，探索在美国其他地区开发清洁发电、储能及需求侧响应项目的可能性，近期重点仍将放在PJM电网范围之内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
