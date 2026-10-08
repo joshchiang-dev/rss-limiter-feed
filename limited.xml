@@ -1,5 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 08 Oct 2026 02:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 韩股“唯一的买家”提前离场了？</title><link>https://wallstreetcn.com/articles/3783138</link><guid>5abbf34368c0037e0ccd395a47793cc1fc4fe88c3e0707fa110f84cfc5b82efd</guid><pubDate>Thu, 08 Oct 2026 00:29:44 GMT</pubDate><description>&lt;p&gt;韩国股市正面临一场关键的流动性考验。支撑KOSPI指数在散户与外资持续抛售压力下勉强维稳的最后一道防线——三星电子与SK海力士合计约400亿美元的史上最大规模股票回购计划——已提前数周宣告终结，&lt;strong&gt;市场正在直面高盛此前警告的&amp;quot;流动性真空&amp;quot;。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;三星电子的回购计划已于本周结束，SK海力士的收尾也仅剩数个交易日。&lt;/strong&gt;在此之前的两个月里，这两家公司几乎是韩国股市唯一的净买家，单独承接了外资与散户合计逾250亿美元的抛售压力。随着企业回购支撑骤然撤出，KOSPI周三（10月7日）下跌2%，再度失守7000点关口，外资单日净卖出达19亿美元。&lt;/p&gt; &lt;p&gt;更为不利的是，&lt;a href="https://wallstreetcn.com/articles/3783134"&gt;三星电子三季度业绩同步出炉，营收与营业利润双双低于市场预期&lt;/a&gt;，而今天（10月8日）还将迎来半导体ETF再平衡、期权到期等多重事件叠加，市场波动风险骤然上升。&lt;strong&gt;谁来接盘，成为当前韩国股市最核心的问题。&lt;/strong&gt;&lt;/p&gt; 回购计划：两个月撑起一片天 &lt;p&gt;今年8月下旬，三星电子与SK海力士相继宣布合计55万亿韩元（约405亿美元）的股票回购计划，创下韩国史上最大规模股东回报项目纪录。&lt;/p&gt; &lt;blockquote&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 08 Oct 2026 02:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板盘中跌超1%，科创50跌2%，光芯片、创新药大跌，海运、覆铜板拉升，恒科指跌超1%，AI大模型双雄集体下挫</title><link>https://wallstreetcn.com/articles/3783152</link><guid>75a4c1e8a39d05732ad204641a029cc16e23edad0296552329acf34ec56ebea8</guid><pubDate>Thu, 08 Oct 2026 02:34:03 GMT</pubDate><description>&lt;p&gt;AI算力建设拉动高速PCB需求，覆铜板、电路板概念股继续上冲。光芯片概念股集体下挫，源杰科技、东山精密跌停，消息称，当前光芯片价格已经承压，1.6T配套光芯片存在降价压力。&lt;/p&gt;
+&lt;p&gt;10月8日，A股早盘集体低开，三大股指早盘一度冲高，创业板涨1%，随后涨幅持续回落，创业板跌超1%，覆铜板、海运、锂电池、固态电池等概念股拉升，科创50跌2%，光芯片、光模块（CPO）、创新药等纷纷承压，半导体、汽车等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股早盘低开，恒指、恒科指盘初一度回升之后再度集体下跌，恒科指跌超1%，权重科网股集体下跌，快手、百度、阿里、联想等纷纷走低，芯片半导体亦承压，华虹宏力、江波龙、澜起科技等跌幅居前。AI大模型双雄集体下挫，智谱跌5%，MINIMAX跌超7%。&lt;/p&gt;
+&lt;p&gt;债市方面，国债期货多数下跌。商品方面，国内商品期货普遍上涨，原油、燃油等大涨，核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.40%，深成指涨0.10%，创业板指跌0.14%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.17%，恒科指跌0.92%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约持平，10年期主力合约跌0.04%，5年期主力合约跌0.02%，2年期主力合合约持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至发稿，燃油暴涨15%，沥青、原油大涨超5%，碳酸锂、焦煤、集运指数等涨幅超过了2%，沪铜、橡胶、豆粕等涨超1%，沪锡、焦炭、氧化铝、锰硅、纸浆、多晶硅、菜籽等走高，烧碱、工业硅、沪铝、沪金、热轧卷板等下跌，螺纹钢、玻璃、不锈钢、沪镍、沪银、铁矿石跌超1%，铂金跌近3%，钯金大跌超6%&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;10:33&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指跌超1%，此前一度涨超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;存储板块冲高回落，长鑫科技、大普微均跌超4%，兆易创新、江波龙、佰维存储、德明利跟随下滑。行业最新数据显示，DRAM现货交易冷清、价格持平，市场对存储涨价持续性的担忧升温。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:09&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科创50日内跌超2％，成分股中，艾力斯跌20％，源杰科技跌20％，传音控股超13％，石头科技跌超9％。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:57&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指翻绿，此前一度涨超1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:56&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;东山精密、源杰科技双双跌停，光芯片指数下滑超4%。消息称，当前光芯片价格已经承压，1.6T配套光芯片存在降价压力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:39&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;覆铜板指数涨超5%，世名科技率先上板，生益科技、胜宏科技、铜冠铜箔、南亚新材集体发力。AI算力建设拉动高速PCB需求，高端覆铜板供需偏紧，行业持续量价齐升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早盘PCB概念再度活跃，世名科技、东材科技涨停，同宇新材、呈和科技涨超10%，方邦股份、南亚新材、圣泉集团等跟跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，建滔积层板本年度已发布多轮CCL涨价通知，南亚塑胶自9月起上调产品价格，涨价效应正向下游全面传导。国金证券研报表示，AI强劲需求带动PCB价量齐升，多家AI-PCB公司订单强劲、满产满销并大力扩产，而海外覆铜板厂商扩产缓慢，缺货涨价态势有望延续。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:37&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;房地产板块震荡拉升，深物业A、陆家嘴双双涨停，世联行、大名城、阳光股份、我爱我家跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，据报道，国庆假期期间，深圳的二手房市场活跃度明显提升。随着深圳非核心区域放开限购，越来越多的非深户开始将置业目光投向深圳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:34&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘创新药概念震荡下挫，艾力斯20cm跌停，百普赛斯跌超10%，亚虹医药、迈威生物、泰诺麦博、汇宇制药、热景生物等跟跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，艾力斯公告，伏美替尼III期临床试验未达到主要研究终点，受此消息影响，10月6日合作伙伴ArriVent美股单日暴跌47%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:33&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早盘航运板块震荡拉升，中远海能涨停，招商轮船、招商南油、海通发展涨超5%。消息面上，Clarksons数据显示，第三季度VLCC平均收益达到277,995美元/天，进入10月初后部分航线收益已经超过160万美元/天，市场整体收益水平一度超过60万美元/天。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:32&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;源杰科技跌近18%，科创方向明显承压，长光华芯、仕佳光子同步下挫。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早盘CPO概念震荡走弱，东山精密跌停，源杰科技、长光华芯跌超17%，仕佳光子跌超10%，联特科技、炬光科技、天孚通信、长芯博创跟跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.08%，创业板指涨0.17%。光模块、贵金属、房地产板块调整。疫苗、海运、石化板块走强。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.41%，恒生科技指数跌0.25%。长飞光纤光缆、智谱、剑桥科技、阿里巴巴调整。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:20&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;国内能化品期货集体上涨，燃油主力合约涨近14%，LPG涨停，甲醇涨超8%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩股“唯一的买家”提前离场了？</title><link>https://wallstreetcn.com/articles/3783138</link><guid>5abbf34368c0037e0ccd395a47793cc1fc4fe88c3e0707fa110f84cfc5b82efd</guid><pubDate>Thu, 08 Oct 2026 00:29:44 GMT</pubDate><description>&lt;p&gt;韩国股市正面临一场关键的流动性考验。支撑KOSPI指数在散户与外资持续抛售压力下勉强维稳的最后一道防线——三星电子与SK海力士合计约400亿美元的史上最大规模股票回购计划——已提前数周宣告终结，&lt;strong&gt;市场正在直面高盛此前警告的&amp;quot;流动性真空&amp;quot;。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;三星电子的回购计划已于本周结束，SK海力士的收尾也仅剩数个交易日。&lt;/strong&gt;在此之前的两个月里，这两家公司几乎是韩国股市唯一的净买家，单独承接了外资与散户合计逾250亿美元的抛售压力。随着企业回购支撑骤然撤出，KOSPI周三（10月7日）下跌2%，再度失守7000点关口，外资单日净卖出达19亿美元。&lt;/p&gt; &lt;p&gt;更为不利的是，&lt;a href="https://wallstreetcn.com/articles/3783134"&gt;三星电子三季度业绩同步出炉，营收与营业利润双双低于市场预期&lt;/a&gt;，而今天（10月8日）还将迎来半导体ETF再平衡、期权到期等多重事件叠加，市场波动风险骤然上升。&lt;strong&gt;谁来接盘，成为当前韩国股市最核心的问题。&lt;/strong&gt;&lt;/p&gt; 回购计划：两个月撑起一片天 &lt;p&gt;今年8月下旬，三星电子与SK海力士相继宣布合计55万亿韩元（约405亿美元）的股票回购计划，创下韩国史上最大规模股东回报项目纪录。&lt;/p&gt; &lt;blockquote&gt;
 &lt;p&gt;其中，SK海力士承诺在8月20日至11月19日期间回购40万亿韩元，三星电子则计划在8月24日至11月21日期间回购15万亿韩元。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;strong&gt;这一时间节点颇为微妙。&lt;/strong&gt;就在宣布回购数周前，韩国股市刚刚经历了7月的剧烈崩跌——SK海力士创下历史最大单日跌幅，韩国散户投资者在杠杆内存ETF上损失惨重，纷纷表示“再也不碰KOSPI”。&lt;/p&gt; &lt;p&gt;此后，两家公司几乎每个交易日都在刷新回购纪录。据高盛首尔交易台数据，在截至9月22日的四周内，企业回购共计吸收了约270亿美元的抛售，而同期散户净卖出约180亿美元，外资净卖出约100亿美元。&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;高盛的逐股数据显示，无论是三星还是SK海力士，“企业回购”一栏均呈垂直拉升态势，而外资与散户持续流出——两只股票的表现“主要由企业回购支撑”。&lt;/strong&gt;&lt;/p&gt; 提前&amp;quot;弹尽粮绝&amp;quot; &lt;p&gt;高盛首尔分析师Heather Oh在9月30日的报告中测算，两项回购计划均将大幅提前于11月截止日完成：&lt;/p&gt; &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -50,39 +108,103 @@ HBM份额提升，三星追赶SK海力士
 &lt;p&gt;&lt;strong&gt;Douglas Research Advisory的Douglas Kim估计，三星三季度HBM位出货量环比增幅接近50%。&lt;/strong&gt;与此同时，三星和SK海力士正双管齐下，一方面扩大产能，另一方面加大对AI领域企业的战略投资，以期进一步催生对自身产品的需求。&lt;/p&gt;
 &lt;p&gt;不过，韩元升值构成一定拖累。海外以美元计价的销售额折算成本币后，实际收入有所缩水，部分抵消了出货量增长带来的收益。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;分析师预计，三星芯片部门单季营业利润可达110万亿韩元，成为整体业绩的绝对支柱；而其消费电子部门则预计录得亏损。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;存储芯片价格上涨在提振半导体业务利润的同时，也推高了三星智能手机及其他电子消费品的零部件成本，令相关部门利润率承压。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急</title><link>https://wallstreetcn.com/articles/3783127</link><guid>fb9d3ad7bef0364dbdf4883709c8d485c7b8846f34a00ee1c8011bcf561a56dd</guid><pubDate>Thu, 08 Oct 2026 01:52:21 GMT</pubDate><description>&lt;p&gt;美联储9月会议纪要释放偏鹰信号，多数官员支持年内再次加息，但市场已将加息预期从10月推迟至12月。高盛在纪要发布后指出，&lt;strong&gt;12月加息概率更大，但FOMC最终判断无需进一步紧缩的可能性同样相当大&lt;/strong&gt;，这一表态为本轮紧缩周期的走向增添了更多不确定性。&lt;/p&gt;
-&lt;p&gt;根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要，19名美联储高级官员一致支持将联邦基金利率目标区间上调25个基点至3.75%至4.00%，这是美联储自2023年7月以来首次加息。纪要显示，&lt;strong&gt;&amp;quot;多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的&amp;quot;，但官员们同时强调将对每次会议保持&amp;quot;开放态度&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;随着9月就业数据弱于预期，以及纽约联储主席John Williams和美联储副主席Philip Jefferson相继释放&amp;quot;无需急于加息&amp;quot;信号，市场已大幅削减10月加息押注。据CME FedWatch工具，投资者目前对10月27日至28日会议加息25个基点的概率定价不足20%，较9月决议发布后数日的约70%大幅下降。两年期美债收益率过去一周下降超过12个基点，目前接近4.78%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;存储芯片价格上涨在提振半导体业务利润的同时，也推高了三星智能手机及其他电子消费品的零部件成本，令相关部门利润率承压。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债收益率飙升的影响：美股PE明显收缩，Mag 7压倒小盘股</title><link>https://wallstreetcn.com/articles/3783140</link><guid>9214108dc766364415c1b3a53288e71929953e7c1e45cf555b1734b75ae6561d</guid><pubDate>Thu, 08 Oct 2026 00:51:58 GMT</pubDate><description>&lt;p&gt;隔夜，美债10年期收益率本周触及24年新高，盘中一度突破5.36%，最终收于5.276%。这一背景下，美股市场出现了一幅分裂的图景：标普500指数仍在历史高位附近徘徊，但其内部估值压缩、板块分化与市场集中度的极端化正在同步演进。&lt;/p&gt;
+&lt;p&gt;标普500指数目前的远期市盈率约为19.3倍，而年初这一数字是22.2倍。估值压缩幅度不小，但指数本身并未大跌——原因在于盈利预期同步走强，部分抵消了估值收缩的影响。&lt;strong&gt;“利率上升已经对股市产生了巨大冲击。市盈率下降了三个档次。这种影响非常直接，但因为盈利表现太过亮眼而被掩盖了。”&lt;/strong&gt;Crossmark Global Investments首席投资官Bob Doll表示。&lt;/p&gt;
+&lt;p&gt;“这是金融学101的基本常识——利率越高，股票越不值钱。”Nationwide Investment Management首席市场策略师Mark Hackett说道。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-19名官员一致支持9月加息，但加息理由存在分歧
-&lt;p&gt;9月会议上，美联储官员在加息决定上形成一致，但纪要显示，他们对加息的具体理由存在明显分歧。&lt;/p&gt;
-&lt;p&gt;&amp;quot;许多与会者&amp;quot;将此次加息定性为风险管理举措，旨在为通胀持续高于2%目标提供保险，尤其是在需求强于预期或供应端再次受到冲击的情形下。另一部分官员则认为，更高的政策利率本身就是必要的，目的是防止能源价格等近期冲击向更广泛的商品和服务价格扩散。还有少数官员表示，加息符合其对中性利率水平上升的判断。&lt;/p&gt;
-&lt;p&gt;纪要还显示，&amp;quot;几位与会者&amp;quot;认为9月加息之前的政策利率&amp;quot;不具有限制性或仅具有轻微限制性&amp;quot;。这意味着，尽管所有官员都支持9月加息，但并不存在一个完全统一的判断，即美联储已进入需要持续大幅收紧货币政策的新阶段。&lt;/p&gt;
-多数官员预计年内再加息一次，10月并无明显紧迫性
-&lt;p&gt;对于下一步政策路径，纪要释放的信息偏向鹰派，但并未显示10月加息已成既定计划。&lt;/p&gt;
-&lt;p&gt;纪要称，&amp;quot;多数与会者认为，在今年年底前进一步提高联邦基金利率目标区间可能是合适的&amp;quot;，意味着在9月会议时，多数官员仍预计年内至少再加息一次。不过，官员们同时强调，未来政策决定将取决于不断获得的信息。&lt;/p&gt;
-&lt;p&gt;有&amp;quot;新美联储通讯社&amp;quot;之称的记者Nick Timiraos亦重点援引了这一表述。&lt;a href="https://wallstreetcn.com/articles/3782895"&gt;美联储副主席杰斐逊（Philip Jefferson）和纽约联储主席威廉姆斯（John Williams）&lt;/a&gt;近期的公开讲话迅速推动市场削减10月加息押注，投资者目前更倾向于认为美联储将在10月暂停行动，并在12月考虑年内第二次加息。&lt;strong&gt;10月14日公布的美国消费者价格指数（CPI）数据，可能成为影响这一预期的重要变量。&lt;/strong&gt;&lt;/p&gt;
-高盛：12月加息概率更大，但终止紧缩可能性同样不低
-&lt;p&gt;高盛在纪要发布后发布点评，对后续政策路径作出明确判断。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛预计美联储将在12月实施年内第二次加息&lt;/strong&gt;，这一判断综合考量了8月核心PCE数据（已纳入美国经济分析局的方法论调整）以及杰斐逊和威廉姆斯近期的公开讲话。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782895"&gt;华尔街见闻文章&lt;/a&gt;写道，美联储副主席杰斐逊表示，未来政策调整需要仔细审视数据趋势，作出判断可能需要更多时间。这与纽约联储主席威廉姆斯协调发声，叠加监管副主席鲍曼同步附和，三位永久票委集体释放鸽派信号，直接将10月加息概率从70%砸至25%，市场预期重心移向12月。&lt;/p&gt;
-&lt;p&gt;然而，高盛同时强调了另一种情景的可能性：&lt;strong&gt;FOMC最终判断无需进一步紧缩的可能性相当大。&lt;/strong&gt;高盛指出，尽管纪要显示&amp;quot;多数&amp;quot;参与者认为年底前再次加息&amp;quot;可能适当&amp;quot;，但委员会将以&amp;quot;开放态度&amp;quot;对待后续每一次会议，最终决策高度依赖于届时获得的经济数据。&lt;/p&gt;
-&lt;p&gt;报告称，这一判断意味着，12月会议前的通胀和就业数据将至关重要——数据走向不仅决定12月是否加息，也将在很大程度上左右本轮紧缩周期是否就此画上句号。&lt;/p&gt;
-通胀风险偏向上行，能源价格与AI投资成关键变量
-&lt;p&gt;尽管美联储认为通胀正在逐步降温，但官员们对通胀回落速度仍缺乏足够信心。&lt;/p&gt;
-&lt;p&gt;纪要显示，几乎所有与会者都认为通胀风险偏向上行，一些官员认为这种上行倾向近几个月有所增强。近期能源价格上涨、地缘政治风险以及关税等因素，都可能令通胀持续时间长于预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI投资热潮也成为此次会议讨论的重要通胀风险来源。&lt;/strong&gt; 一些官员认为，AI正在推动投资并提升生产率前景，但也可能通过需求增强、投入成本上升和融资需求增加推高通胀。&lt;/p&gt;
-&lt;p&gt;纪要称，AI建设正在推动企业投资，且其规模和速度&amp;quot;持续超出预期&amp;quot;。部分官员还指出，核心商品价格涨幅依然较高，AI建设带来的需求和成本压力可能抵消部分关税影响减弱所带来的通胀缓解。&lt;/p&gt;
-经济保持韧性，金融环境仍支持增长
-&lt;p&gt;&lt;strong&gt;经济增长的韧性是美联储9月决定加息的重要背景。&lt;/strong&gt;纪要显示，几位官员认为美国经济的潜在动能有所增强，消费支出保持韧性，企业投资受到AI基础设施建设的支持，整体经济仍以较为稳健的速度扩张。劳动力市场被认为接近充分就业水平。&lt;/p&gt;
-&lt;p&gt;金融环境同样没有对经济形成足够强的约束。尽管长期美债收益率近期明显上升，但许多官员认为，金融环境总体上仍支持经济增长，原因包括今年以来股价大幅上涨以及企业债信用利差保持较窄。&lt;/p&gt;
-&lt;p&gt;纪要显示，2年至10年期美债收益率在相关时期累计上升约35个基点，官员认为实际利率变化是长期美债收益率上升的主要原因之一。&lt;/p&gt;
-&lt;p&gt;市场参与者还将地缘政治局势、美国财政部回购计划的不确定性，以及为AI基础设施建设提供融资的大量私人债务发行，视为推高期限溢价和美债收益率的重要因素。&lt;/p&gt;
-7月联合干预日元系财政部行动，未动用美联储资金
-&lt;p&gt;美国7月底与日本联手干预汇市、支撑日元，是由美国财政部采取的行动，并未动用美联储自身资金。&lt;/p&gt;
-&lt;p&gt;纪要显示，&lt;strong&gt;纽约联储&amp;quot;完全以美国财政部财政代理人的身份&amp;quot;实施干预，使用的是财政部资金&lt;/strong&gt;，美联储系统公开市场账户（SOMA）投资组合并未参与此次行动。&lt;/p&gt;
-&lt;p&gt;会议纪要没有披露干预行动的确切时间或规模。美国财政部长贝森特上月表示，美国在此次行动中仅动用了&amp;quot;微不足道&amp;quot;的资金，并称此举符合美国利益。&lt;/p&gt;
-&lt;p&gt;7月底的行动是东京和华盛顿近30年来首次联手干预汇市以支撑日元。根据日本财务省数据，截至8月26日的一个月内，日本为干预汇市投入了创纪录的15.4万亿日元（约合975亿美元）。日本财务大臣片山皋月和贝森特均已释放信号称，如有必要，两国愿再次进行干预。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 利率上行重燃通胀担忧，标普纳指自纪录高位回落，美长债创2002年新高，原油先涨后跌</title><link>https://wallstreetcn.com/articles/3783096</link><guid>b373f87c4228d54cb43f1e83c6872549d727ed8b07b2253c6f1157e9c27aa14d</guid><pubDate>Wed, 07 Oct 2026 23:37:36 GMT</pubDate><description>&lt;p&gt;法国财政风险再度引爆欧债抛售，抛压蔓延至全球债市，一度推动美国长端国债收益率逼近逾二十年高位。利率上行重燃通胀担忧，三大美股指回落，纳指终结五连涨。&lt;/p&gt;
+小盘股首当其冲，Mag 7成避风港
+&lt;p&gt;与此同时，小盘股正在承受更直接的冲击。罗素2000指数较不到两个月前创下的历史收盘高点已下跌9%，周三收于2793.20点，距离正式进入技术性回调区间（较高点跌10%）仅一步之遥。&lt;/p&gt;
+&lt;p&gt;Truist Advisory Services首席投资官Keith Lerner指出：“近期小盘股下跌背后&amp;#x27;第一位、也是最重要的因素&amp;#x27;是长期美债收益率的上升。利率上升正在咬人——只是科技板块掩盖了这一点。”&lt;/p&gt;
+&lt;p&gt;小盘股的脆弱性有其结构性原因。Lerner解释道：“小盘股对利率更敏感，它们持有更多债务，而且浮动利率债务的比例也高于大盘股同行。”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Interactive Brokers首席策略师Steve Sosnick也表示：“2.2%的二季度GDP增速不一定能让所有船只都随潮水上涨。经济增长不均衡，加上利率大幅回升，这对小盘股来说是一个艰难的环境。”&lt;/p&gt;
+&lt;p&gt;值得注意的是，即便是科技类小盘股也未能幸免——景顺标普小盘信息技术ETF（PSCT）自6月30日高点以来已下跌10.4%。&lt;/p&gt;
+市场集中度极端化：四家公司撑起整个指数
+&lt;p&gt;大盘指数的韧性，很大程度上来自极少数公司的贡献。&lt;/p&gt;
+&lt;p&gt;据Citadel Securities研究数据，微软、英伟达、苹果、Meta四家公司在三季度合计为标普500贡献了约300点涨幅，超过该指数同期总涨幅的三倍；而其余496家公司合计拖累了150点。&lt;/p&gt;
+&lt;p&gt;Citadel的Scott Rubner在致客户报告中写道：“股市不是经济，而且越来越明显的是，标普500也不代表普通股票。”&lt;/p&gt;
+&lt;p&gt;这种集中度已接近多项指标的历史极值。道琼斯工业平均指数过去一个月下跌4.2%，而纳斯达克同期上涨近4%——两者的背离，正是这种分化的直观体现。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+债券与股票正在定价“不同的世界”
+&lt;p&gt;德意志银行宏观策略师Henry Allen在最新报告中提出了一个更深层的警告：债券市场与股票市场目前正在定价“根本不同的宏观体制”。&lt;/p&gt;
+&lt;p&gt;债券市场已开始反映更高的通胀风险、更大的财政风险，以及更紧缩的政策利率预期，全球多地收益率升至多年高位。但股票市场对此基本置之不理——标普500上周五收盘距历史高点不足1%。&lt;/p&gt;
+&lt;p&gt;Allen指出，这种背离“不太可能持续”。他写道：“我们正在定价新体制的症状（如收益率处于数十年高位、主权债券利差扩大），却没有定价其逻辑后果（如增长放缓和违约风险上升）——而这些后果在历史上都曾以风险资产走弱的形式显现。”&lt;/p&gt;
+&lt;p&gt;德意志银行列出了当前最值得关注的五大市场错位，核心结论是：若金融压力未能迅速消退（如2023年3月硅谷银行事件后那样快速平息），风险资产将面临持续上升的压力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+盈利季成关键考验
+&lt;p&gt;随着三季度财报季下周全面展开——摩根大通、花旗集团等华尔街重量级机构将率先披露业绩——市场对企业盈利的要求已被抬得更高。&lt;/p&gt;
+&lt;p&gt;Crossmark的Bob Doll预计，更高的利率将继续成为股市的阻力，尤其对周期性公司而言。他说：“如果你手头有一点现金，那也没关系，因为我认为股市不会像过去几个月之前那样直线上涨了。”&lt;/p&gt;
+&lt;p&gt;标普500自8月13日前收盘高点以来，25个行业板块中已有18个出现下跌，等权重版本的标普500指数下跌5%。银行和房地产等多个行业跌幅超过10%。&lt;/p&gt;
+&lt;p&gt;盈利能否继续“超级出色”，将决定这场估值与收益率的拉锯战最终走向何方。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 押注“美债收益率急跌”，长期美债和公用事业美股ETF看涨期权交易量大涨</title><link>https://wallstreetcn.com/articles/3783141</link><guid>e0149c9b5d747a6c8b9732cb92e0d339020a77eaead5500f342d7f3b8b05acf4</guid><pubDate>Thu, 08 Oct 2026 01:00:49 GMT</pubDate><description>&lt;p&gt;期权市场正在发出一个鲜明信号：&lt;strong&gt;部分投资者正大举押注美国长期利率将出现急剧回落。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据道琼斯市场数据，与长期美国国债及公用事业股票挂钩的热门ETF看涨期权交易量近期显著攀升，其中包括&lt;strong&gt;iShares 20年期以上美国国债ETF（TLT）&lt;/strong&gt;和&lt;strong&gt;道富公用事业精选行业SPDR ETF（XLU）&lt;/strong&gt;。这一动向表明，在10年期和30年期美债收益率升至数十年高位的背景下，已有交易者开始布局利率反转行情。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据MarketWatch 10月7日报道，Interactive Brokers首席策略师Steve Sosnick表示，&lt;strong&gt;看涨期权交易量的扩张“通常意味着市场对标的资产持看涨观点”，TLT期权活跃度上升“非常直接地”反映出交易者对长期利率下行的预期。&lt;/strong&gt;上述两类资产——长期国债与利率敏感型公用事业股——均在近期收益率飙升中承压，但&lt;strong&gt;历史上每逢美债收益率回落，二者往往率先受益并出现急速反弹。&lt;/strong&gt;&lt;/p&gt;
+收益率高企，长期美债ETF年内跌幅近9%
+&lt;p&gt;当前美债收益率已升至数十年罕见水平，对长期债券价格形成持续压制。据FactSet数据，&lt;strong&gt;10年期美债收益率周三收于5.276%，30年期收益率收于5.660%&lt;/strong&gt;，均处于近几十年高位；2年期美债收益率则小幅回落至4.762%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;收益率的持续上行令TLT承受重创。&lt;/strong&gt;FactSet数据显示，&lt;strong&gt;TLT今年以来总回报损失约8.4%&lt;/strong&gt;，9月单月跌幅更是创下自2024年12月以来最差月度表现，令其三季度累计亏损扩大至近9%。&lt;/p&gt;
+公用事业股双重逻辑：利率敏感性叠加AI电力需求
+&lt;p&gt;公用事业板块历来被视为典型的利率敏感型资产。Sosnick指出，公用事业股对投资者的吸引力传统上来自其稳定的股息派发，但当利率上升时，债券的相对吸引力增强，股息的竞争力随之下降，公用事业股因此承压。&lt;/p&gt;
+&lt;p&gt;FactSet数据显示，&lt;strong&gt;XLU过去三个月累计下跌约10%，今年以来总亏损达1.6%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;然而，Sosnick同时指出，人工智能浪潮正在改变公用事业板块的传统驱动逻辑。数据中心对电力的海量需求，使众多公用事业公司与AI基础设施建设深度绑定，&lt;strong&gt;“人们对公用事业前景极度看好，部分原因正是AI基础设施的大规模建设”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;他特别提及Constellation Energy——该公司本周因与谷歌母公司Alphabet签署核电供应协议而股价大涨，截至上周二，Constellation Energy在XLU中的权重达7.6%，为第二大持仓。&lt;/p&gt;
+期权信号：交易者押注利率反转行情
+&lt;p&gt;看涨期权赋予投资者在特定日期前以约定价格买入某一证券的权利，但不构成义务。当看涨期权交易量显著放大时，通常意味着市场参与者预期标的资产价格将上涨——对于TLT而言，即预期长期利率下行、债券价格回升。&lt;/p&gt;
+&lt;p&gt;Sosnick表示，TLT看涨期权活跃度上升的含义&amp;quot;非常直接&amp;quot;，就是&amp;quot;债券多头正在入场&amp;quot;。过去数年间，美债收益率的阶段性回落曾多次引发长期国债、公用事业股、房屋建筑商及小盘股的快速反弹，这一历史规律或正是当前期权交易者押注的核心逻辑所在。&lt;/p&gt;
+&lt;p&gt;值得注意的是，尽管美债收益率快速上行曾多次令股市承压，但科技股与AI主题的强劲热情仍推动标普500指数和纳斯达克综合指数在本周二双双创下历史收盘新高，周三则小幅回落。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;利率走势与AI叙事之间的张力，正成为当前市场最核心的博弈主线之一。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI正式发布GPT-6，抵御“越狱攻击”能力更强，但均未触及“RSI”门槛</title><link>https://wallstreetcn.com/articles/3783131</link><guid>82a2154cfa4e4884c01eb605b752d5cdbc20a763f14204cc468d29b3b0e6d4aa</guid><pubDate>Wed, 07 Oct 2026 21:38:11 GMT</pubDate><description>&lt;p&gt;GPT-6新模型在抵御越狱攻击、拒绝高风险请求等核心安全指标上较前代取得明显进步。&lt;/p&gt;
+&lt;p&gt;10月7日，OpenAI正式向全球ChatGPT用户推出GPT-6，在大幅提升模型智能的同时，将安全防护体系进行了系统性重构。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此次发布覆盖付费与免费用户。付费版（Plus、Pro、Business及Enterprise）使用GPT-6 Sol，免费及Go版本使用GPT-6 Luna。&lt;/p&gt;
+&lt;p&gt;根据OpenAI发布的系统说明卡，&lt;strong&gt;两款模型均沿用了此前GPT-6 Astra框架中的安全改进成果，并针对网络攻击、生物威胁和暴力内容的滥用风险更新了安全训练数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在能力分级上，OpenAI依据自身&amp;quot;准备框架&amp;quot;将GPT-6 Sol和GPT-6 Luna均列为网络安全及生物化学领域&amp;quot;高能力&amp;quot;级别，但两款模型均未触及&amp;quot;AI自我改进&amp;quot;的高能力门槛。&lt;/strong&gt;这一评级与上一代GPT-5.6模型相同，相应的安全防护措施也保持一致。&lt;/p&gt;
+
+越狱防护显著增强，多轮攻击抵抗力提升
+
+&lt;p&gt;GPT-6在对抗越狱攻击方面取得了可量化的进步，尤其是针对跨多轮对话的自适应攻击场景。&lt;/p&gt;
+&lt;p&gt;根据OpenAI的系统说明卡，&lt;strong&gt;GPT-6 Sol 和GPT-6 Luna在多轮越狱测试中的实际防御成功率，在所有测试的攻击预算规模下均高于GPT-5.6 Sol。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（GPT各系列模型的多轮越狱抗干扰能力对比图）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;提示词注入防御方面，两款模型表现尤为突出&lt;/strong&gt;。GPT-6 Sol和GPT-6 Luna在指令层级测试中分别达到99.99%和99.79%的鲁棒性，即抗干扰能力接近满分。&lt;/p&gt;
+&lt;p&gt;（针对高难度提示词的生产环境基准测试，得分越高越好）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在间接提示词注入测试中&lt;/strong&gt;，GPT-6 Sol得分97.13%，GPT-6 Luna得分95.80%。OpenAI表示，上述测试使用了其&amp;quot;GPT-Red&amp;quot;自动化红队方法，通过对抗训练强化模型抵御恶意指令的能力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对齐测试方面同样出现改善&lt;/strong&gt;。在涉及自动审查绕过的测试中，GPT-5.6 Sol和GPT-5.6 Luna均在0.3%的测试情境中利用了配置不当的审查系统漏洞，而GPT-6 Sol和GPT-6 Luna则未出现任何此类情况。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在欺骗性行为评估中，两款新模型在编程任务遭遇障碍时主动披露局限性的比率也显著高于前代模型。&lt;/strong&gt;&lt;/p&gt;
+
+高风险领域拒绝能力改善，网络与生物安全训练强化
+
+&lt;p&gt;在OpenAI重点关注的高风险垂直领域，GPT-6的拒绝能力出现了明显提升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;生物与化学安全方面&lt;/strong&gt;，GPT-6 Sol在针对严重威胁提示的安全拒绝评估中得分0.980，较GPT-5.6 Sol的0.954提高；在双重用途提示上的得分为0.971，亦高于前代的0.945。GPT-6 Luna的表现同样改善。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网络安全方面&lt;/strong&gt;，GPT-6 Sol和GPT-6 Luna在生产环境聊天及合成代理环境中的安全评分与GPT-5.6相当。&lt;/p&gt;
+&lt;p&gt;在能力测试中，GPT-6 Sol在ExploitBench上得分82.62%，在SEC-Bench Pro上得分68.85%；GPT-6 Luna分别得分44.66%和48.50%。&lt;/p&gt;
+&lt;p&gt;OpenAI特别指出，安全训练基于真实使用场景的经验教训进行了更新。在对抗测试中，GPT-6对试图绕过安全训练的攻击，尤其是跨多轮的自适应攻击，展现出更强的抵抗力。&lt;strong&gt;此外，模型被训练为能够结合对话历史和上下文信息来识别单一提示中不易察觉的风险。&lt;/strong&gt;&lt;/p&gt;
+
+对齐评估通过，欺骗行为明显减少
+
+&lt;p&gt;在更广泛的对齐维度上，GPT-6 Sol和GPT-6 Luna在OpenAI的完整评估体系中均优于各自的GPT-5.6对应版本，OpenAI据此判定两款模型均达到对齐安全标准。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在&amp;quot;避免欺骗性交互&amp;quot;测试中，两款新模型较前代出现明显改善&lt;/strong&gt;。在编程任务遭遇障碍时，GPT-6 Sol和GPT-6 Luna在最终回答中未披露障碍的比率大幅下降。在搜索工具失效测试中，两款模型在最大推理强度下的改善均具有统计显著性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在遵守系统警告方面，GPT-6 Luna表现出明显进步&lt;/strong&gt;。在最大推理强度下，成功绕过环境限制的比率从GPT-5.6 Luna的27%降至15.9%；GPT-6 Sol的对应比率则从34%降至28%，降幅相对有限。&lt;/p&gt;
+&lt;p&gt;OpenAI指出，上述测试不含系统层控制措施，且随着模型智能增强，模型愈发能够识别测试情境，有时会将测试障碍错误归类为提示词注入攻击，这一现象对评估结果的外部效度构成干扰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”</title><link>https://wallstreetcn.com/articles/3783136</link><guid>8ee7696f35bfdb5158bb03fc720cac99c737a2a72f5fc01744c9335d55964770</guid><pubDate>Thu, 08 Oct 2026 00:27:14 GMT</pubDate><description>&lt;p&gt;全球债券市场正经历数十年来最剧烈的动荡。美国10年期国债收益率一度攀升至5.36%的数十年高位，随后因一场强劲的拍卖结果而显著回落；与此同时，欧洲主权债务市场持续承压，法国、意大利和英国国债收益率均大幅走高，债券风暴的阴云远未消散。&lt;/p&gt;
+&lt;p&gt;周三，美国财政部以5.3%的高收益率顺利完成390亿美元10年期国债拍卖，为2000年11月以来的最高水平，需求之强劲令市场大感意外。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;拍卖结果公布后，10年期国债收益率从盘中高点5.36%迅速回落至5.27%附近，30年期国债收益率也从5.73%的高位退至5.66%。此次拍卖触及发行价1.7个基点，创下一年多来最大触及幅度，有效缓解了市场对又一场&amp;quot;灾难性拍卖&amp;quot;的担忧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;然而，大西洋彼岸的欧洲债市并未同步受益。法国10年期国债收益率一度升至4.93%，逼近本月触及的2002年以来高位；英国30年期国债收益率盘中最高触及6.04%，创28年新高。市场对欧洲财政可信度的质疑持续发酵，令欧元承压下行。&lt;/p&gt;
+强劲拍卖为美债提供喘息空间
+&lt;p&gt;本次10年期国债拍卖的成功，在相当程度上源于投资者对高收益率的主动追逐。5.3%的拍卖收益率为2000年11月以来最高水平，吸引了大量寻求锁定高回报的长期资金入场。&lt;/p&gt;
+&lt;p&gt;BMO Capital Markets的Vail Hartman指出，&lt;strong&gt;此次拍卖中一级交易商——即负责兜底未被投资者认购债券的大型银行——的参与比例降至2003年以来最低，这恰恰反映出市场真实需求的强劲。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Man Group首席全球宏观策略师Kristina Hooper表示，“此前市场对这次拍卖需求可能疲软存在很大担忧，强劲需求的出现自然产生了影响，这在某种程度上是一次解脱性反弹。”但她同时警告，对于这种“解脱能否持续”持怀疑态度。&lt;/p&gt;
+&lt;p&gt;Ninety One多资产收益主管John Stopford则认为，若抛售进一步延续，债券将开始呈现出&amp;quot;明显低估&amp;quot;的特征，并将30年期国债收益率接近6%的水平形容为&amp;quot;难得的买入机会&amp;quot;。&lt;/p&gt;
+美联储信号压制反弹空间
+&lt;p&gt;尽管拍卖结果提振了短期情绪，但美联储政策信号令利率长期维持高位的预期难以消退。&lt;/p&gt;
+&lt;p&gt;美联储9月议息会议纪要显示，“大多数与会者认为，在年底前再次上调联邦基金利率目标区间可能是适当的。”市场目前普遍押注，下一次25个基点的加息将在12月议息会议上落地。&lt;/p&gt;
+&lt;p&gt;这一背景意味着，即便本次拍卖暂时稳住了市场情绪，推动本轮债券抛售的根本驱动力——包括伊朗战争引发的能源价格飙升、美国经济增长预期上修，以及为支撑AI热潮而大规模发债——并未消除。&lt;/p&gt;
+欧债压力持续，法国成焦点
+&lt;p&gt;与美债的阶段性企稳形成鲜明对比，欧洲主权债务市场的动荡仍在加剧。&lt;/p&gt;
+&lt;p&gt;法国10年期国债收益率周三上涨逾0.1个百分点，一度触及4.93%，法德债券利差回升至140个基点。市场对这一欧元区第二大经济体财政前景的忧虑持续升温。&lt;strong&gt;花旗全球短期利率交易主管Akshay Singal直言：“法国可能是第一个，但不会是最后一个。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英国债市同样未能幸免。30年期英国国债收益率盘中最高升至6.04%，创1998年以来新高，随后小幅回落至6%下方。Singal补充道，&amp;quot;债券自卫者&amp;quot;的说法固然流行，但问题的本质在于&amp;quot;是否拥有可信的财政政策，而这在全球范围内目前都相当匮乏，这才是驱动债券市场的根本原因。&amp;quot;&lt;/p&gt;
+&lt;p&gt;在外汇市场，受法国风险拖累，欧元兑美元下跌0.6%，并在盘中触及2025年中以来兑英镑的最低水平。ING外汇策略师Francesco Pesole表示，“法国风险正在引发欧元新一轮走弱。”&lt;/p&gt;
+&lt;p&gt;当前全球债券市场的动荡折射出两条并行逻辑：一方面，历史性高收益率正在吸引部分长线资金逢高布局，为市场提供阶段性支撑；另一方面，财政可信度的缺失与货币政策的持续收紧，使得债券市场的系统性压力难以在短期内根本缓解。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 利率上行重燃通胀担忧，标普纳指自纪录高位回落，美长债创2002年新高，原油先涨后跌</title><link>https://wallstreetcn.com/articles/3783096</link><guid>b373f87c4228d54cb43f1e83c6872549d727ed8b07b2253c6f1157e9c27aa14d</guid><pubDate>Wed, 07 Oct 2026 23:37:36 GMT</pubDate><description>&lt;p&gt;法国财政风险再度引爆欧债抛售，抛压蔓延至全球债市，一度推动美国长端国债收益率逼近逾二十年高位。利率上行重燃通胀担忧，三大美股指回落，纳指终结五连涨。&lt;/p&gt;
 &lt;p&gt;30年期美债收益率盘中触及5.732%，为2002年5月以来最高；英国30年期国债收益率升至6.036%，为1998年1月以来最高。美联储9月会议纪要偏鹰，多数官员认为年底前可能适合再次加息。&lt;/p&gt;
 &lt;p&gt;美股纳指终结五连涨，罗素2000跌1.31%。十一大板块七跌四涨，工业跌2.14%、材料跌1.53%领跌，医疗涨1.06%、非必需消费涨0.15%领涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -135,162 +257,7 @@ HBM份额提升，三星追赶SK海力士
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Zaner Metals副总裁兼高级金属策略师彼得·格兰特认为，市场传递的信息是利率将更久维持在高位，这正在支撑美债收益率与美元；在他看来，官方部门的购金需求仍是黄金的重要支撑。&lt;/p&gt;
 &lt;p&gt;加密资产同步退潮。比特币跌2.6%至83535.46美元，CoinGlass数据显示24小时内约6.96亿美元头寸被强制平仓，其中几乎全部为多头。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美债收益率飙升的影响：美股PE明显收缩，Mag 7压倒小盘股</title><link>https://wallstreetcn.com/articles/3783140</link><guid>9214108dc766364415c1b3a53288e71929953e7c1e45cf555b1734b75ae6561d</guid><pubDate>Thu, 08 Oct 2026 00:51:58 GMT</pubDate><description>&lt;p&gt;隔夜，美债10年期收益率本周触及24年新高，盘中一度突破5.36%，最终收于5.276%。这一背景下，美股市场出现了一幅分裂的图景：标普500指数仍在历史高位附近徘徊，但其内部估值压缩、板块分化与市场集中度的极端化正在同步演进。&lt;/p&gt;
-&lt;p&gt;标普500指数目前的远期市盈率约为19.3倍，而年初这一数字是22.2倍。估值压缩幅度不小，但指数本身并未大跌——原因在于盈利预期同步走强，部分抵消了估值收缩的影响。&lt;strong&gt;“利率上升已经对股市产生了巨大冲击。市盈率下降了三个档次。这种影响非常直接，但因为盈利表现太过亮眼而被掩盖了。”&lt;/strong&gt;Crossmark Global Investments首席投资官Bob Doll表示。&lt;/p&gt;
-&lt;p&gt;“这是金融学101的基本常识——利率越高，股票越不值钱。”Nationwide Investment Management首席市场策略师Mark Hackett说道。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-小盘股首当其冲，Mag 7成避风港
-&lt;p&gt;与此同时，小盘股正在承受更直接的冲击。罗素2000指数较不到两个月前创下的历史收盘高点已下跌9%，周三收于2793.20点，距离正式进入技术性回调区间（较高点跌10%）仅一步之遥。&lt;/p&gt;
-&lt;p&gt;Truist Advisory Services首席投资官Keith Lerner指出：“近期小盘股下跌背后&amp;#x27;第一位、也是最重要的因素&amp;#x27;是长期美债收益率的上升。利率上升正在咬人——只是科技板块掩盖了这一点。”&lt;/p&gt;
-&lt;p&gt;小盘股的脆弱性有其结构性原因。Lerner解释道：“小盘股对利率更敏感，它们持有更多债务，而且浮动利率债务的比例也高于大盘股同行。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Interactive Brokers首席策略师Steve Sosnick也表示：“2.2%的二季度GDP增速不一定能让所有船只都随潮水上涨。经济增长不均衡，加上利率大幅回升，这对小盘股来说是一个艰难的环境。”&lt;/p&gt;
-&lt;p&gt;值得注意的是，即便是科技类小盘股也未能幸免——景顺标普小盘信息技术ETF（PSCT）自6月30日高点以来已下跌10.4%。&lt;/p&gt;
-市场集中度极端化：四家公司撑起整个指数
-&lt;p&gt;大盘指数的韧性，很大程度上来自极少数公司的贡献。&lt;/p&gt;
-&lt;p&gt;据Citadel Securities研究数据，微软、英伟达、苹果、Meta四家公司在三季度合计为标普500贡献了约300点涨幅，超过该指数同期总涨幅的三倍；而其余496家公司合计拖累了150点。&lt;/p&gt;
-&lt;p&gt;Citadel的Scott Rubner在致客户报告中写道：“股市不是经济，而且越来越明显的是，标普500也不代表普通股票。”&lt;/p&gt;
-&lt;p&gt;这种集中度已接近多项指标的历史极值。道琼斯工业平均指数过去一个月下跌4.2%，而纳斯达克同期上涨近4%——两者的背离，正是这种分化的直观体现。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-债券与股票正在定价“不同的世界”
-&lt;p&gt;德意志银行宏观策略师Henry Allen在最新报告中提出了一个更深层的警告：债券市场与股票市场目前正在定价“根本不同的宏观体制”。&lt;/p&gt;
-&lt;p&gt;债券市场已开始反映更高的通胀风险、更大的财政风险，以及更紧缩的政策利率预期，全球多地收益率升至多年高位。但股票市场对此基本置之不理——标普500上周五收盘距历史高点不足1%。&lt;/p&gt;
-&lt;p&gt;Allen指出，这种背离“不太可能持续”。他写道：“我们正在定价新体制的症状（如收益率处于数十年高位、主权债券利差扩大），却没有定价其逻辑后果（如增长放缓和违约风险上升）——而这些后果在历史上都曾以风险资产走弱的形式显现。”&lt;/p&gt;
-&lt;p&gt;德意志银行列出了当前最值得关注的五大市场错位，核心结论是：若金融压力未能迅速消退（如2023年3月硅谷银行事件后那样快速平息），风险资产将面临持续上升的压力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-盈利季成关键考验
-&lt;p&gt;随着三季度财报季下周全面展开——摩根大通、花旗集团等华尔街重量级机构将率先披露业绩——市场对企业盈利的要求已被抬得更高。&lt;/p&gt;
-&lt;p&gt;Crossmark的Bob Doll预计，更高的利率将继续成为股市的阻力，尤其对周期性公司而言。他说：“如果你手头有一点现金，那也没关系，因为我认为股市不会像过去几个月之前那样直线上涨了。”&lt;/p&gt;
-&lt;p&gt;标普500自8月13日前收盘高点以来，25个行业板块中已有18个出现下跌，等权重版本的标普500指数下跌5%。银行和房地产等多个行业跌幅超过10%。&lt;/p&gt;
-&lt;p&gt;盈利能否继续“超级出色”，将决定这场估值与收益率的拉锯战最终走向何方。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 押注“美债收益率急跌”，长期美债和公用事业美股ETF看涨期权交易量大涨</title><link>https://wallstreetcn.com/articles/3783141</link><guid>e0149c9b5d747a6c8b9732cb92e0d339020a77eaead5500f342d7f3b8b05acf4</guid><pubDate>Thu, 08 Oct 2026 01:00:49 GMT</pubDate><description>&lt;p&gt;期权市场正在发出一个鲜明信号：&lt;strong&gt;部分投资者正大举押注美国长期利率将出现急剧回落。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据道琼斯市场数据，与长期美国国债及公用事业股票挂钩的热门ETF看涨期权交易量近期显著攀升，其中包括&lt;strong&gt;iShares 20年期以上美国国债ETF（TLT）&lt;/strong&gt;和&lt;strong&gt;道富公用事业精选行业SPDR ETF（XLU）&lt;/strong&gt;。这一动向表明，在10年期和30年期美债收益率升至数十年高位的背景下，已有交易者开始布局利率反转行情。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据MarketWatch 10月7日报道，Interactive Brokers首席策略师Steve Sosnick表示，&lt;strong&gt;看涨期权交易量的扩张“通常意味着市场对标的资产持看涨观点”，TLT期权活跃度上升“非常直接地”反映出交易者对长期利率下行的预期。&lt;/strong&gt;上述两类资产——长期国债与利率敏感型公用事业股——均在近期收益率飙升中承压，但&lt;strong&gt;历史上每逢美债收益率回落，二者往往率先受益并出现急速反弹。&lt;/strong&gt;&lt;/p&gt;
-收益率高企，长期美债ETF年内跌幅近9%
-&lt;p&gt;当前美债收益率已升至数十年罕见水平，对长期债券价格形成持续压制。据FactSet数据，&lt;strong&gt;10年期美债收益率周三收于5.276%，30年期收益率收于5.660%&lt;/strong&gt;，均处于近几十年高位；2年期美债收益率则小幅回落至4.762%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;收益率的持续上行令TLT承受重创。&lt;/strong&gt;FactSet数据显示，&lt;strong&gt;TLT今年以来总回报损失约8.4%&lt;/strong&gt;，9月单月跌幅更是创下自2024年12月以来最差月度表现，令其三季度累计亏损扩大至近9%。&lt;/p&gt;
-公用事业股双重逻辑：利率敏感性叠加AI电力需求
-&lt;p&gt;公用事业板块历来被视为典型的利率敏感型资产。Sosnick指出，公用事业股对投资者的吸引力传统上来自其稳定的股息派发，但当利率上升时，债券的相对吸引力增强，股息的竞争力随之下降，公用事业股因此承压。&lt;/p&gt;
-&lt;p&gt;FactSet数据显示，&lt;strong&gt;XLU过去三个月累计下跌约10%，今年以来总亏损达1.6%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;然而，Sosnick同时指出，人工智能浪潮正在改变公用事业板块的传统驱动逻辑。数据中心对电力的海量需求，使众多公用事业公司与AI基础设施建设深度绑定，&lt;strong&gt;“人们对公用事业前景极度看好，部分原因正是AI基础设施的大规模建设”&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;他特别提及Constellation Energy——该公司本周因与谷歌母公司Alphabet签署核电供应协议而股价大涨，截至上周二，Constellation Energy在XLU中的权重达7.6%，为第二大持仓。&lt;/p&gt;
-期权信号：交易者押注利率反转行情
-&lt;p&gt;看涨期权赋予投资者在特定日期前以约定价格买入某一证券的权利，但不构成义务。当看涨期权交易量显著放大时，通常意味着市场参与者预期标的资产价格将上涨——对于TLT而言，即预期长期利率下行、债券价格回升。&lt;/p&gt;
-&lt;p&gt;Sosnick表示，TLT看涨期权活跃度上升的含义&amp;quot;非常直接&amp;quot;，就是&amp;quot;债券多头正在入场&amp;quot;。过去数年间，美债收益率的阶段性回落曾多次引发长期国债、公用事业股、房屋建筑商及小盘股的快速反弹，这一历史规律或正是当前期权交易者押注的核心逻辑所在。&lt;/p&gt;
-&lt;p&gt;值得注意的是，尽管美债收益率快速上行曾多次令股市承压，但科技股与AI主题的强劲热情仍推动标普500指数和纳斯达克综合指数在本周二双双创下历史收盘新高，周三则小幅回落。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;利率走势与AI叙事之间的张力，正成为当前市场最核心的博弈主线之一。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Muse商业化卡在哪？ 被三分之二网站“拒之门外”</title><link>https://wallstreetcn.com/articles/3783144</link><guid>4325406b570c69aab284e3f7236b827a8344dded0916338e8e0f1fa40aac4b4f</guid><pubDate>Thu, 08 Oct 2026 01:51:08 GMT</pubDate><description>&lt;p&gt;Meta的AI代理Muse正面临一道现实门槛：网站访问受阻正在成为其代理商务商业化的核心瓶颈，而非模型能力本身。&lt;/p&gt;
-&lt;p&gt;据追风交易台，杰富瑞在最新研究报告中表示，分析师团队对数百个美国主流电商、航空、在线旅行、酒店及预订网站进行实测后发现，&lt;strong&gt;约三分之一的网站直接屏蔽Muse访问，另有三分之一设置挑战或限制，仅剩约三分之一可顺畅使用。&lt;/strong&gt;这一访问摩擦问题若持续发展，可能推迟Meta代理商务变现时间表，同时进一步巩固谷歌的结构性优势。&lt;/p&gt;
-&lt;p&gt;与此同时，Meta广告业务基本面依然稳健。杰富瑞广告专家调研显示，受访广告主的Meta广告支出增速在2026年第三季度已超越谷歌，且这一趋势预计将延续至2026年第四季度及2027年第一季度。杰富瑞维持对Meta的买入评级，目标价875美元，较当前股价约有18%上行空间。&lt;/p&gt;
-访问壁垒取代模型能力，成为Muse最大掣肘
-&lt;p&gt;杰富瑞分析师Brent Thill团队在报告中指出，Muse的技术能力持续令人印象深刻，但代理商务的瓶颈正在从&amp;quot;模型够不够好&amp;quot;转向&amp;quot;能不能进得去&amp;quot;。&lt;/p&gt;
-&lt;p&gt;实测结果显示，网站对代理访问的限制几乎每天都在新增。在被测试的数百个网站中，约三分之一直接屏蔽Muse，另有三分之一通过验证挑战或其他方式限制自动化交互，只有约三分之一可被Muse顺畅导航操作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报告认为，许多网站选择默认屏蔽或挑战自动化交互，从长远来看是错误的决策，因为代理商务将拓宽分销渠道。&lt;/strong&gt;Meta的应对策略是与商家建立授权连接器（sanctioned connectors），已宣布与Walmart、Best Buy、Wayfair、Sephora及Dick&amp;#x27;s Sporting Goods达成合作，但多数整合仍处于早期部署阶段，尚未正式上线。&lt;/p&gt;
-&lt;p&gt;但访问摩擦可能延缓代理商务的整体采用节奏，并最终拉长Meta实现有意义抽佣变现的时间线。&lt;/p&gt;
-谷歌护城河因此受益，企业客服市场迎来新机遇
-&lt;p&gt;访问壁垒问题在客观上凸显了谷歌的结构性优势。&lt;/p&gt;
-&lt;p&gt;杰富瑞报告指出，绝大多数企业不愿屏蔽Googlebot，原因在于这将对其搜索流量造成实质性冲击。&lt;strong&gt;这一现实赋予谷歌在数据获取和网络访问上的显著优势，而随着AI代理时代到来，这条护城河的价值可能进一步提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谷歌的爬虫体系、分发网络及长期积累的网络访问权限，为其代理产品提供了原生的覆盖广度与上下文能力，竞争对手则可能不得不逐站谈判访问权限。&lt;/p&gt;
-&lt;p&gt;与此同时，代理商务带来的客服咨询量激增，也为企业客服软件供应商创造了新的市场机遇。杰富瑞在实测中发现，Muse最频繁交互的是企业自建客服系统，其次是CRM系统及Sierra。报告认为，无论是CRM、HUBS、NOW等上市公司，还是Sierra、Decagon等私有公司，均有望从这一趋势中受益。&lt;/p&gt;
-广告需求强劲，Muse热度反哺Meta广告生态
-&lt;p&gt;尽管代理商务变现面临时间表不确定性，Meta的广告业务基本面并未受到拖累，且Muse的热度本身正在转化为广告需求的增量驱动力。&lt;/p&gt;
-&lt;p&gt;杰富瑞2026年第三季度广告专家调研（样本量N=20）显示，40%的广告主预计Muse将在未来12个月内提升其客户在Meta平台的广告支出。受访广告专家同时指出，&lt;strong&gt;随着代理AI处理更多查询，广告优化目标将从点击转向结果导向，这一趋势对Meta的广告产品逻辑构成正向支撑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;杰富瑞维持Meta买入评级，目标价875美元，对应2027年预期每股收益约25倍市盈率。报告同时提示，用户参与度下滑、广告主流失及监管风险是主要下行风险。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI正式发布GPT-6，抵御“越狱攻击”能力更强，但均未触及“RSI”门槛</title><link>https://wallstreetcn.com/articles/3783131</link><guid>82a2154cfa4e4884c01eb605b752d5cdbc20a763f14204cc468d29b3b0e6d4aa</guid><pubDate>Wed, 07 Oct 2026 21:38:11 GMT</pubDate><description>&lt;p&gt;GPT-6新模型在抵御越狱攻击、拒绝高风险请求等核心安全指标上较前代取得明显进步。&lt;/p&gt;
-&lt;p&gt;10月7日，OpenAI正式向全球ChatGPT用户推出GPT-6，在大幅提升模型智能的同时，将安全防护体系进行了系统性重构。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此次发布覆盖付费与免费用户。付费版（Plus、Pro、Business及Enterprise）使用GPT-6 Sol，免费及Go版本使用GPT-6 Luna。&lt;/p&gt;
-&lt;p&gt;根据OpenAI发布的系统说明卡，&lt;strong&gt;两款模型均沿用了此前GPT-6 Astra框架中的安全改进成果，并针对网络攻击、生物威胁和暴力内容的滥用风险更新了安全训练数据。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在能力分级上，OpenAI依据自身&amp;quot;准备框架&amp;quot;将GPT-6 Sol和GPT-6 Luna均列为网络安全及生物化学领域&amp;quot;高能力&amp;quot;级别，但两款模型均未触及&amp;quot;AI自我改进&amp;quot;的高能力门槛。&lt;/strong&gt;这一评级与上一代GPT-5.6模型相同，相应的安全防护措施也保持一致。&lt;/p&gt;
-
-越狱防护显著增强，多轮攻击抵抗力提升
-
-&lt;p&gt;GPT-6在对抗越狱攻击方面取得了可量化的进步，尤其是针对跨多轮对话的自适应攻击场景。&lt;/p&gt;
-&lt;p&gt;根据OpenAI的系统说明卡，&lt;strong&gt;GPT-6 Sol 和GPT-6 Luna在多轮越狱测试中的实际防御成功率，在所有测试的攻击预算规模下均高于GPT-5.6 Sol。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;（GPT各系列模型的多轮越狱抗干扰能力对比图）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;提示词注入防御方面，两款模型表现尤为突出&lt;/strong&gt;。GPT-6 Sol和GPT-6 Luna在指令层级测试中分别达到99.99%和99.79%的鲁棒性，即抗干扰能力接近满分。&lt;/p&gt;
-&lt;p&gt;（针对高难度提示词的生产环境基准测试，得分越高越好）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在间接提示词注入测试中&lt;/strong&gt;，GPT-6 Sol得分97.13%，GPT-6 Luna得分95.80%。OpenAI表示，上述测试使用了其&amp;quot;GPT-Red&amp;quot;自动化红队方法，通过对抗训练强化模型抵御恶意指令的能力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对齐测试方面同样出现改善&lt;/strong&gt;。在涉及自动审查绕过的测试中，GPT-5.6 Sol和GPT-5.6 Luna均在0.3%的测试情境中利用了配置不当的审查系统漏洞，而GPT-6 Sol和GPT-6 Luna则未出现任何此类情况。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在欺骗性行为评估中，两款新模型在编程任务遭遇障碍时主动披露局限性的比率也显著高于前代模型。&lt;/strong&gt;&lt;/p&gt;
-
-高风险领域拒绝能力改善，网络与生物安全训练强化
-
-&lt;p&gt;在OpenAI重点关注的高风险垂直领域，GPT-6的拒绝能力出现了明显提升。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生物与化学安全方面&lt;/strong&gt;，GPT-6 Sol在针对严重威胁提示的安全拒绝评估中得分0.980，较GPT-5.6 Sol的0.954提高；在双重用途提示上的得分为0.971，亦高于前代的0.945。GPT-6 Luna的表现同样改善。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;网络安全方面&lt;/strong&gt;，GPT-6 Sol和GPT-6 Luna在生产环境聊天及合成代理环境中的安全评分与GPT-5.6相当。&lt;/p&gt;
-&lt;p&gt;在能力测试中，GPT-6 Sol在ExploitBench上得分82.62%，在SEC-Bench Pro上得分68.85%；GPT-6 Luna分别得分44.66%和48.50%。&lt;/p&gt;
-&lt;p&gt;OpenAI特别指出，安全训练基于真实使用场景的经验教训进行了更新。在对抗测试中，GPT-6对试图绕过安全训练的攻击，尤其是跨多轮的自适应攻击，展现出更强的抵抗力。&lt;strong&gt;此外，模型被训练为能够结合对话历史和上下文信息来识别单一提示中不易察觉的风险。&lt;/strong&gt;&lt;/p&gt;
-
-对齐评估通过，欺骗行为明显减少
-
-&lt;p&gt;在更广泛的对齐维度上，GPT-6 Sol和GPT-6 Luna在OpenAI的完整评估体系中均优于各自的GPT-5.6对应版本，OpenAI据此判定两款模型均达到对齐安全标准。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在&amp;quot;避免欺骗性交互&amp;quot;测试中，两款新模型较前代出现明显改善&lt;/strong&gt;。在编程任务遭遇障碍时，GPT-6 Sol和GPT-6 Luna在最终回答中未披露障碍的比率大幅下降。在搜索工具失效测试中，两款模型在最大推理强度下的改善均具有统计显著性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在遵守系统警告方面，GPT-6 Luna表现出明显进步&lt;/strong&gt;。在最大推理强度下，成功绕过环境限制的比率从GPT-5.6 Luna的27%降至15.9%；GPT-6 Sol的对应比率则从34%降至28%，降幅相对有限。&lt;/p&gt;
-&lt;p&gt;OpenAI指出，上述测试不含系统层控制措施，且随着模型智能增强，模型愈发能够识别测试情境，有时会将测试障碍错误归类为提示词注入攻击，这一现象对评估结果的外部效度构成干扰。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”</title><link>https://wallstreetcn.com/articles/3783136</link><guid>8ee7696f35bfdb5158bb03fc720cac99c737a2a72f5fc01744c9335d55964770</guid><pubDate>Thu, 08 Oct 2026 00:27:14 GMT</pubDate><description>&lt;p&gt;全球债券市场正经历数十年来最剧烈的动荡。美国10年期国债收益率一度攀升至5.36%的数十年高位，随后因一场强劲的拍卖结果而显著回落；与此同时，欧洲主权债务市场持续承压，法国、意大利和英国国债收益率均大幅走高，债券风暴的阴云远未消散。&lt;/p&gt;
-&lt;p&gt;周三，美国财政部以5.3%的高收益率顺利完成390亿美元10年期国债拍卖，为2000年11月以来的最高水平，需求之强劲令市场大感意外。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;拍卖结果公布后，10年期国债收益率从盘中高点5.36%迅速回落至5.27%附近，30年期国债收益率也从5.73%的高位退至5.66%。此次拍卖触及发行价1.7个基点，创下一年多来最大触及幅度，有效缓解了市场对又一场&amp;quot;灾难性拍卖&amp;quot;的担忧。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;然而，大西洋彼岸的欧洲债市并未同步受益。法国10年期国债收益率一度升至4.93%，逼近本月触及的2002年以来高位；英国30年期国债收益率盘中最高触及6.04%，创28年新高。市场对欧洲财政可信度的质疑持续发酵，令欧元承压下行。&lt;/p&gt;
-强劲拍卖为美债提供喘息空间
-&lt;p&gt;本次10年期国债拍卖的成功，在相当程度上源于投资者对高收益率的主动追逐。5.3%的拍卖收益率为2000年11月以来最高水平，吸引了大量寻求锁定高回报的长期资金入场。&lt;/p&gt;
-&lt;p&gt;BMO Capital Markets的Vail Hartman指出，&lt;strong&gt;此次拍卖中一级交易商——即负责兜底未被投资者认购债券的大型银行——的参与比例降至2003年以来最低，这恰恰反映出市场真实需求的强劲。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Man Group首席全球宏观策略师Kristina Hooper表示，“此前市场对这次拍卖需求可能疲软存在很大担忧，强劲需求的出现自然产生了影响，这在某种程度上是一次解脱性反弹。”但她同时警告，对于这种“解脱能否持续”持怀疑态度。&lt;/p&gt;
-&lt;p&gt;Ninety One多资产收益主管John Stopford则认为，若抛售进一步延续，债券将开始呈现出&amp;quot;明显低估&amp;quot;的特征，并将30年期国债收益率接近6%的水平形容为&amp;quot;难得的买入机会&amp;quot;。&lt;/p&gt;
-美联储信号压制反弹空间
-&lt;p&gt;尽管拍卖结果提振了短期情绪，但美联储政策信号令利率长期维持高位的预期难以消退。&lt;/p&gt;
-&lt;p&gt;美联储9月议息会议纪要显示，“大多数与会者认为，在年底前再次上调联邦基金利率目标区间可能是适当的。”市场目前普遍押注，下一次25个基点的加息将在12月议息会议上落地。&lt;/p&gt;
-&lt;p&gt;这一背景意味着，即便本次拍卖暂时稳住了市场情绪，推动本轮债券抛售的根本驱动力——包括伊朗战争引发的能源价格飙升、美国经济增长预期上修，以及为支撑AI热潮而大规模发债——并未消除。&lt;/p&gt;
-欧债压力持续，法国成焦点
-&lt;p&gt;与美债的阶段性企稳形成鲜明对比，欧洲主权债务市场的动荡仍在加剧。&lt;/p&gt;
-&lt;p&gt;法国10年期国债收益率周三上涨逾0.1个百分点，一度触及4.93%，法德债券利差回升至140个基点。市场对这一欧元区第二大经济体财政前景的忧虑持续升温。&lt;strong&gt;花旗全球短期利率交易主管Akshay Singal直言：“法国可能是第一个，但不会是最后一个。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英国债市同样未能幸免。30年期英国国债收益率盘中最高升至6.04%，创1998年以来新高，随后小幅回落至6%下方。Singal补充道，&amp;quot;债券自卫者&amp;quot;的说法固然流行，但问题的本质在于&amp;quot;是否拥有可信的财政政策，而这在全球范围内目前都相当匮乏，这才是驱动债券市场的根本原因。&amp;quot;&lt;/p&gt;
-&lt;p&gt;在外汇市场，受法国风险拖累，欧元兑美元下跌0.6%，并在盘中触及2025年中以来兑英镑的最低水平。ING外汇策略师Francesco Pesole表示，“法国风险正在引发欧元新一轮走弱。”&lt;/p&gt;
-&lt;p&gt;当前全球债券市场的动荡折射出两条并行逻辑：一方面，历史性高收益率正在吸引部分长线资金逢高布局，为市场提供阶段性支撑；另一方面，财政可信度的缺失与货币政策的持续收紧，使得债券市场的系统性压力难以在短期内根本缓解。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “AI央行”英伟达的“千亿资本局”</title><link>https://wallstreetcn.com/articles/3783145</link><guid>3edbc6d552bf768849cc908a672192440252f4e37818df444c9199e715ed3297</guid><pubDate>Thu, 08 Oct 2026 01:53:59 GMT</pubDate><description>&lt;p&gt;英伟达正以前所未有的速度和规模重塑AI产业版图。这家芯片巨头在过去数月内完成逾1400亿美元的交易，并持有近1000亿美元的股权投资组合，其战略意图已远超单纯的芯片销售——&lt;strong&gt;黄仁勋正试图用资本力量构建一个由数千个AI模型组成的生态系统，以分散对少数头部客户的依赖风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;10月7日，据科技媒体The Information报道，英伟达下一阶段的投资重心将集中于&lt;strong&gt;人形机器人、自动驾驶技术以及可在本地设备运行的AI模型&lt;/strong&gt;，多位与英伟达有合作的银行家、律师和投资人证实了这一方向。其中，英伟达已就向人形机器人公司Figure追加约&lt;strong&gt;10亿美元投资&lt;/strong&gt;展开讨论，Figure此轮融资前估值约为380亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这场投资攻势的背后，是黄仁勋对英伟达市场地位的持续焦虑。&lt;/strong&gt;英伟达披露，截至今年7月的六个月内，三家客户贡献了其总销售额的&lt;strong&gt;44%&lt;/strong&gt;。&lt;strong&gt;过度集中的客户结构，正是驱动这场千亿资本布局的核心动因。&lt;/strong&gt;与此同时，英伟达信用违约互换利差在8月一度走阔，部分投资者对其财务风险敞口表达了担忧。&lt;/p&gt;
-收购Hugging Face：速度与信任的双重博弈
-&lt;p&gt;&lt;strong&gt;英伟达对Hugging Face的收购，是这场交易狂潮中最具代表性的案例之一。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hugging Face是一家拥有十年历史的开源AI模型平台，长期以来吸引多方收购兴趣。今年夏初，OpenAI在入侵Hugging Face系统后，随即与其展开投资谈判，拟注资1亿美元；Salesforce等竞争方也表达了收购意向。&lt;/p&gt;
-&lt;p&gt;关键转折发生在Hugging Face联合创始人Clem Delangue主动联系黄仁勋之后。据报道，知情人士透露，黄仁勋迅速推进交易，并向Delangue承诺，英伟达是唯一能够保证Hugging Face开源模型社区持续运营的合作伙伴。最终，&lt;strong&gt;英伟达以129亿美元完成收购，相当于Hugging Face约1.5亿美元年化营收的逾80倍&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;Delangue在新闻发布会上表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“在Hugging Face的整个发展历程中，我们收到过很多投资和收购邀约，过去都拒绝了，但今年夏天，时机成熟了。”&lt;/p&gt;
-&lt;/blockquote&gt;
-生态逻辑：对抗客户集中风险，押注&amp;quot;千模时代&amp;quot;
-&lt;p&gt;&lt;strong&gt;英伟达的投资逻辑，根植于对自身商业模式脆弱性的清醒认知。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英伟达持有约990亿美元现金及有价证券，并拥有强劲的现金流。黄仁勋希望借助这一财务实力，推动AI生态走向多元化——让数千个模型服务于数千种应用场景，而非仅由少数巨头主导。&lt;/p&gt;
-&lt;p&gt;据报道，一位熟悉英伟达交易运作的AI基础设施投资人表示，“如果我身处黄仁勋的战略室，我会竭尽所能地让天平倾向于一个拥有数千个模型、服务于数千种用途的世界。”&lt;/p&gt;
-&lt;p&gt;在模型层面，英伟达已相继投资Anthropic、马斯克旗下xAI以及开源模型公司Reflection AI。此外，英伟达以&lt;strong&gt;60亿美元&lt;/strong&gt;完成对Poolside的软件授权及人才引进交易，部分原因在于推进其自研开源模型Nemotron的开发——Poolside员工今年已推出Laguna开放权重AI模型。&lt;/p&gt;
-&lt;p&gt;据The Information此前报道，英伟达还在就向前OpenAI首席技术官Mira Murati创立的AI实验室Thinking Machines Lab投资约&lt;strong&gt;25亿美元&lt;/strong&gt;进行谈判。&lt;/p&gt;
-本地AI与边缘计算：下一个战场
-&lt;p&gt;&lt;strong&gt;随着AI Agent的普及，本地运算需求激增，英伟达正积极布局数据中心之外的终端市场。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年以来，能够在本地设备上处理多步骤任务的AI Agent迅速扩散，带动用户对本地算力设备的需求上升。英伟达已推出DGX Spark系列电脑，专为本地运行AI Agent设计。&lt;/p&gt;
-&lt;p&gt;今年6月，AI搜索引擎公司Perplexity的工程师向英伟达演示了如何在两台DGX Spark上运行其AI Agent软件，演示结果令黄仁勋印象深刻，由此开启了双方整个夏天的密集谈判。&lt;/p&gt;
-&lt;p&gt;据报道，知情人士透露，Perplexity联合创始人兼CEO Aravind Srinivas曾向黄仁勋提议英伟达全面收购Perplexity，双方随后还讨论了一项价值&lt;strong&gt;至少200亿美元&lt;/strong&gt;的技术授权及人才引进方案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最终，双方于8月底宣布达成合作协议。&lt;/strong&gt;Perplexity发布了专为DGX Spark优化的新应用Portable Computer，英伟达则计划以约&lt;strong&gt;30亿美元&lt;/strong&gt;参与Perplexity的新一轮融资，该轮融资前估值约为350亿美元。&lt;/p&gt;
-数据中心豪赌：财务风险浮现
-&lt;p&gt;&lt;strong&gt;英伟达在大型数据中心项目上的信用背书规模，已引发部分投资者的风险担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据报道，在SoftBank旗下SB Energy于俄亥俄州联邦土地上开发的大型数据中心项目中，英伟达最初与SoftBank讨论提供高达&lt;strong&gt;2500亿美元&lt;/strong&gt;信用支持的方案，以支持OpenAI租用该数据中心运行和训练模型。黄仁勋在博客中表示，该数据中心园区可容纳约6000亿美元规模的英伟达算力。&lt;/p&gt;
-&lt;p&gt;然而，英伟达信用违约互换利差在8月走阔，黄仁勋本人也频繁向同事询问利差动态。最终，英伟达将第一阶段信用担保规模压缩至&lt;strong&gt;1050亿美元&lt;/strong&gt;，并将项目分阶段推进，为后续决策争取时间。与此同时，英伟达还承诺在SB Energy IPO前后投资&lt;strong&gt;30亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;此外，英伟达还参与了OpenAI近期融资轮，投资额达&lt;strong&gt;300亿美元&lt;/strong&gt;，最后100亿美元于10月1日完成交割。&lt;/p&gt;
-&lt;p&gt;为分散融资压力，黄仁勋在8月初召集包括黑石、Apollo Global Management和高盛在内的六家华尔街机构，共同为5000亿美元规模的硬件融资提供支持，英伟达表示可能为部分相关交易提供最高25%的兜底保障。&lt;/p&gt;
-&lt;p&gt;黄仁勋在9月高盛旧金山科技大会上对外界的风险质疑作出回应：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“人们开始意识到，凡是我投资的地方，都不是坏的投资标的，因为我是一个知情投资者。我们没有承担任何风险——我需要的是确定性的事情。”&lt;/p&gt;
-&lt;/blockquote&gt;
-交易机器的运转机制：黄仁勋亲力亲为
-&lt;p&gt;&lt;strong&gt;英伟达的交易体系由前HPE和甲骨文高管Vishal Bhagwati领导的企业发展团队负责统筹，但黄仁勋本人深度介入关键交易的谈判细节。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在Hugging Face等高价值收购中，黄仁勋亲自主导定价和谈判。他还定期与初创公司创始人、投资人及私募支持企业的高管会面，了解其产品使用情况及潜在合作机会——这一非正式信息收集方式，与微软CEO Satya Nadella等科技领袖的做法如出一辙。&lt;/p&gt;
-&lt;p&gt;值得注意的是，英伟达并非每次都能抢得先机。今年7月，英伟达曾有意参与AI模型市场平台OpenRouter的收购竞争，但因需要更多时间评估交易而错失机会，最终由Stripe以&lt;strong&gt;80亿美元&lt;/strong&gt;将其收入囊中。英伟达随即将注意力转向其他目标，并在此后两个月内完成逾1400亿美元的交易。&lt;/p&gt;
-&lt;p&gt;截至今年7月底，英伟达持有的股权投资市值接近&lt;strong&gt;1000亿美元&lt;/strong&gt;，另有250亿美元的未来投资承诺尚待落实。报道指出，多位知情人士表示，&lt;strong&gt;更多交易仍在酝酿之中&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10年期美债拍卖认购倍数2.77倍创2016年来新高，海外需求接近纪录高位</title><link>https://wallstreetcn.com/articles/3783130</link><guid>6f1ee5d5380d71cf7ca0deb4706692a93309e453c81468687486cf9eb0a23685</guid><pubDate>Wed, 07 Oct 2026 21:08:04 GMT</pubDate><description>&lt;p&gt;美国国债市场迎来久违的喘息机会。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10年期美债拍卖认购倍数2.77倍创2016年来新高，海外需求接近纪录高位</title><link>https://wallstreetcn.com/articles/3783130</link><guid>6f1ee5d5380d71cf7ca0deb4706692a93309e453c81468687486cf9eb0a23685</guid><pubDate>Wed, 07 Oct 2026 21:08:04 GMT</pubDate><description>&lt;p&gt;美国国债市场迎来久违的喘息机会。&lt;/p&gt;
 &lt;p&gt;10月7日周三，&lt;strong&gt;美国财政部以5.3%的收益率完成390亿美元10年期国债拍卖，是自2000年11月以来的最高水平，推动长端收益率从逾20年高位回落。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次拍卖成交收益率低于预发行利率约1.88个基点，显示买方主动入场接货。&lt;strong&gt;非交易商投资者认购比例高达97.5%，为历史最高；认购倍数升至2.77倍，为2016年以来最强。&lt;/strong&gt;&lt;/p&gt;
@@ -345,4 +312,54 @@ HBM份额提升，三星追赶SK海力士
 &lt;p&gt;强劲的10年期拍卖结果为市场带来短暂宽慰，但来自长端的压力测试尚未结束。&lt;/p&gt;
 &lt;p&gt;美国财政部将于周四进行220亿美元30年期国债拍卖，届时成交收益率有望达到2000年以来最高水平，将再度检验市场的实际承接意愿。&lt;/p&gt;
 &lt;p&gt;该拍卖结束后，财政部还将随即开展国债回购操作，最高购入60亿美元的20至30年期国债，为自该部门扩大长期债券回购计划以来的第四次此类操作，此举背景正是长端收益率持续攀升至多年高位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据BMO分析，此次10年期拍卖中交易商获配比例异常之低，印证了来自非传统渠道投资者的强烈需求。周四的30年期拍卖能否延续这一势头，将是市场判断债市能否真正企稳的重要观察窗口。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;据BMO分析，此次10年期拍卖中交易商获配比例异常之低，印证了来自非传统渠道投资者的强烈需求。周四的30年期拍卖能否延续这一势头，将是市场判断债市能否真正企稳的重要观察窗口。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急</title><link>https://wallstreetcn.com/articles/3783127</link><guid>fb9d3ad7bef0364dbdf4883709c8d485c7b8846f34a00ee1c8011bcf561a56dd</guid><pubDate>Thu, 08 Oct 2026 01:52:21 GMT</pubDate><description>&lt;p&gt;美联储9月会议纪要释放偏鹰信号，多数官员支持年内再次加息，但市场已将加息预期从10月推迟至12月。高盛在纪要发布后指出，&lt;strong&gt;12月加息概率更大，但FOMC最终判断无需进一步紧缩的可能性同样相当大&lt;/strong&gt;，这一表态为本轮紧缩周期的走向增添了更多不确定性。&lt;/p&gt;
+&lt;p&gt;根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要，19名美联储高级官员一致支持将联邦基金利率目标区间上调25个基点至3.75%至4.00%，这是美联储自2023年7月以来首次加息。纪要显示，&lt;strong&gt;&amp;quot;多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的&amp;quot;，但官员们同时强调将对每次会议保持&amp;quot;开放态度&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着9月就业数据弱于预期，以及纽约联储主席John Williams和美联储副主席Philip Jefferson相继释放&amp;quot;无需急于加息&amp;quot;信号，市场已大幅削减10月加息押注。据CME FedWatch工具，投资者目前对10月27日至28日会议加息25个基点的概率定价不足20%，较9月决议发布后数日的约70%大幅下降。两年期美债收益率过去一周下降超过12个基点，目前接近4.78%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+19名官员一致支持9月加息，但加息理由存在分歧
+&lt;p&gt;9月会议上，美联储官员在加息决定上形成一致，但纪要显示，他们对加息的具体理由存在明显分歧。&lt;/p&gt;
+&lt;p&gt;&amp;quot;许多与会者&amp;quot;将此次加息定性为风险管理举措，旨在为通胀持续高于2%目标提供保险，尤其是在需求强于预期或供应端再次受到冲击的情形下。另一部分官员则认为，更高的政策利率本身就是必要的，目的是防止能源价格等近期冲击向更广泛的商品和服务价格扩散。还有少数官员表示，加息符合其对中性利率水平上升的判断。&lt;/p&gt;
+&lt;p&gt;纪要还显示，&amp;quot;几位与会者&amp;quot;认为9月加息之前的政策利率&amp;quot;不具有限制性或仅具有轻微限制性&amp;quot;。这意味着，尽管所有官员都支持9月加息，但并不存在一个完全统一的判断，即美联储已进入需要持续大幅收紧货币政策的新阶段。&lt;/p&gt;
+多数官员预计年内再加息一次，10月并无明显紧迫性
+&lt;p&gt;对于下一步政策路径，纪要释放的信息偏向鹰派，但并未显示10月加息已成既定计划。&lt;/p&gt;
+&lt;p&gt;纪要称，&amp;quot;多数与会者认为，在今年年底前进一步提高联邦基金利率目标区间可能是合适的&amp;quot;，意味着在9月会议时，多数官员仍预计年内至少再加息一次。不过，官员们同时强调，未来政策决定将取决于不断获得的信息。&lt;/p&gt;
+&lt;p&gt;有&amp;quot;新美联储通讯社&amp;quot;之称的记者Nick Timiraos亦重点援引了这一表述。&lt;a href="https://wallstreetcn.com/articles/3782895"&gt;美联储副主席杰斐逊（Philip Jefferson）和纽约联储主席威廉姆斯（John Williams）&lt;/a&gt;近期的公开讲话迅速推动市场削减10月加息押注，投资者目前更倾向于认为美联储将在10月暂停行动，并在12月考虑年内第二次加息。&lt;strong&gt;10月14日公布的美国消费者价格指数（CPI）数据，可能成为影响这一预期的重要变量。&lt;/strong&gt;&lt;/p&gt;
+高盛：12月加息概率更大，但终止紧缩可能性同样不低
+&lt;p&gt;高盛在纪要发布后发布点评，对后续政策路径作出明确判断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛预计美联储将在12月实施年内第二次加息&lt;/strong&gt;，这一判断综合考量了8月核心PCE数据（已纳入美国经济分析局的方法论调整）以及杰斐逊和威廉姆斯近期的公开讲话。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3782895"&gt;华尔街见闻文章&lt;/a&gt;写道，美联储副主席杰斐逊表示，未来政策调整需要仔细审视数据趋势，作出判断可能需要更多时间。这与纽约联储主席威廉姆斯协调发声，叠加监管副主席鲍曼同步附和，三位永久票委集体释放鸽派信号，直接将10月加息概率从70%砸至25%，市场预期重心移向12月。&lt;/p&gt;
+&lt;p&gt;然而，高盛同时强调了另一种情景的可能性：&lt;strong&gt;FOMC最终判断无需进一步紧缩的可能性相当大。&lt;/strong&gt;高盛指出，尽管纪要显示&amp;quot;多数&amp;quot;参与者认为年底前再次加息&amp;quot;可能适当&amp;quot;，但委员会将以&amp;quot;开放态度&amp;quot;对待后续每一次会议，最终决策高度依赖于届时获得的经济数据。&lt;/p&gt;
+&lt;p&gt;报告称，这一判断意味着，12月会议前的通胀和就业数据将至关重要——数据走向不仅决定12月是否加息，也将在很大程度上左右本轮紧缩周期是否就此画上句号。&lt;/p&gt;
+通胀风险偏向上行，能源价格与AI投资成关键变量
+&lt;p&gt;尽管美联储认为通胀正在逐步降温，但官员们对通胀回落速度仍缺乏足够信心。&lt;/p&gt;
+&lt;p&gt;纪要显示，几乎所有与会者都认为通胀风险偏向上行，一些官员认为这种上行倾向近几个月有所增强。近期能源价格上涨、地缘政治风险以及关税等因素，都可能令通胀持续时间长于预期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI投资热潮也成为此次会议讨论的重要通胀风险来源。&lt;/strong&gt; 一些官员认为，AI正在推动投资并提升生产率前景，但也可能通过需求增强、投入成本上升和融资需求增加推高通胀。&lt;/p&gt;
+&lt;p&gt;纪要称，AI建设正在推动企业投资，且其规模和速度&amp;quot;持续超出预期&amp;quot;。部分官员还指出，核心商品价格涨幅依然较高，AI建设带来的需求和成本压力可能抵消部分关税影响减弱所带来的通胀缓解。&lt;/p&gt;
+经济保持韧性，金融环境仍支持增长
+&lt;p&gt;&lt;strong&gt;经济增长的韧性是美联储9月决定加息的重要背景。&lt;/strong&gt;纪要显示，几位官员认为美国经济的潜在动能有所增强，消费支出保持韧性，企业投资受到AI基础设施建设的支持，整体经济仍以较为稳健的速度扩张。劳动力市场被认为接近充分就业水平。&lt;/p&gt;
+&lt;p&gt;金融环境同样没有对经济形成足够强的约束。尽管长期美债收益率近期明显上升，但许多官员认为，金融环境总体上仍支持经济增长，原因包括今年以来股价大幅上涨以及企业债信用利差保持较窄。&lt;/p&gt;
+&lt;p&gt;纪要显示，2年至10年期美债收益率在相关时期累计上升约35个基点，官员认为实际利率变化是长期美债收益率上升的主要原因之一。&lt;/p&gt;
+&lt;p&gt;市场参与者还将地缘政治局势、美国财政部回购计划的不确定性，以及为AI基础设施建设提供融资的大量私人债务发行，视为推高期限溢价和美债收益率的重要因素。&lt;/p&gt;
+7月联合干预日元系财政部行动，未动用美联储资金
+&lt;p&gt;美国7月底与日本联手干预汇市、支撑日元，是由美国财政部采取的行动，并未动用美联储自身资金。&lt;/p&gt;
+&lt;p&gt;纪要显示，&lt;strong&gt;纽约联储&amp;quot;完全以美国财政部财政代理人的身份&amp;quot;实施干预，使用的是财政部资金&lt;/strong&gt;，美联储系统公开市场账户（SOMA）投资组合并未参与此次行动。&lt;/p&gt;
+&lt;p&gt;会议纪要没有披露干预行动的确切时间或规模。美国财政部长贝森特上月表示，美国在此次行动中仅动用了&amp;quot;微不足道&amp;quot;的资金，并称此举符合美国利益。&lt;/p&gt;
+&lt;p&gt;7月底的行动是东京和华盛顿近30年来首次联手干预汇市以支撑日元。根据日本财务省数据，截至8月26日的一个月内，日本为干预汇市投入了创纪录的15.4万亿日元（约合975亿美元）。日本财务大臣片山皋月和贝森特均已释放信号称，如有必要，两国愿再次进行干预。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国消费者一年期通胀预期升至3.9%，创三年多新高，劳动力市场信心改善</title><link>https://wallstreetcn.com/articles/3783123</link><guid>39f913844a32b42bbecfa22ea8cd85146369fa7b082db2c2ae2034c9dee738ae</guid><pubDate>Wed, 07 Oct 2026 15:42:21 GMT</pubDate><description>&lt;p&gt;根据纽约联储周三公布的一项调查，美国消费者对短期通胀的预期在上月明显升温；对劳动力市场的看法有所改善，包括认为自己失业的概率下降，以及主动辞职的可能性上升。&lt;/p&gt;
+&lt;p&gt;纽约联储每月发布的《消费者预期调查》显示，&lt;strong&gt;消费者对未来一年通胀率的中值预期从8月的3.6%升至9月的3.9%，创2023年5月以来最高水平；&lt;/strong&gt;&lt;strong&gt;对未来三年的通胀预期中值从8月的3.2%小幅升至3.3%，而未来五年的通胀预期中值维持在3%不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;未来一年，消费者预计汽油价格上涨4.8%；食品价格上涨5.5%；医疗费用上涨9.2%；大学教育费用上涨7.5%；租金上涨6.8%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这项数据发布之际，距离11月中期选举已不到一个月。纽约联储的最新调查进一步显示，美国消费者对经济的悲观情绪仍然持续，尽管美国经济仍在扩张。近几周公布的其他数据显示，9月消费者信心降至四个月低点，失业率小幅上升，但仍处于历史低位附近。&lt;/p&gt;
+&lt;p&gt;美联储官员9月将基准利率上调25个基点。部分政策制定者表示，这一决定为美联储评估经济状况争取了时间。美联储下一次议息会议将于10月27日至28日在华盛顿举行。&lt;/p&gt;
+就业市场预期改善
+&lt;p&gt;尽管通胀水平仍然较高，但美国家庭对就业市场的看法有所改善。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预计未来一年整体失业率将上升的受访者比例降至约44%。如果失去目前的工作，消费者认为自己能够在未来三个月内找到新工作的概率升至46%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;消费者对未来一年失去工作的预期也有所下降，其中40岁至60岁人群以及年家庭收入超过10万美元的人群改善最为明显。&lt;strong&gt;与此同时，消费者主动辞职的可能性也有所上升，尤其是在没有学士学位以及40岁以上的劳动者群体中。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美联储官员一段时间以来一直表示，美国劳动力市场正处于“低裁员、低招聘”的平衡状态。9月，美国失业率升至4.2%，企业新增就业人数减少，而失业者平均寻找工作时间已达到6个月。&lt;/p&gt;
+个人财务状况承压但消费意愿仍存
+&lt;p&gt;纽约联储的调查显示，&lt;strong&gt;消费者对自身财务状况的看法连续第二个月恶化&lt;/strong&gt;。约42%的家庭表示，与一年前相比，目前的财务状况“明显恶化”或“有所恶化”，而表示财务状况改善的比例约为18%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此外，预计未来一年自身财务状况恶化的家庭比例也有所上升，越来越多消费者认为，与一年前相比，目前获得信贷更加困难。&lt;/p&gt;
+&lt;p&gt;不过，也有迹象表明，消费者仍在设法维持支出。&lt;strong&gt;消费者预计未来一年的支出增速升至2023年5月以来最高水平，而且这一增长趋势覆盖不同年龄和教育程度的群体。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;消费者仍预计，未来一年的支出增速将高于收入增速。与此同时，消费者认为未来三个月无法按时偿还债务的概率小幅下降至12%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
