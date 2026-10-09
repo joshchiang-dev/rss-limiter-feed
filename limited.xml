@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 08 Oct 2026 23:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 为交付算力，甲骨文用卡车运天然气为数据中心供电</title><link>https://wallstreetcn.com/articles/3783225</link><guid>3b15de0c6eca1010edffee4b8e3df55d4a5073379b54129bb4f5bc6dc6f43357</guid><pubDate>Thu, 08 Oct 2026 23:15:08 GMT</pubDate><description>&lt;p&gt;为按时交付AI数据中心，甲骨文Oracle采取非常规供能手段应对管道延误，但高昂成本与扩容瓶颈仍是隐忧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 08 Oct 2026 23:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 为交付算力，甲骨文用卡车运天然气为数据中心供电</title><link>https://wallstreetcn.com/articles/3783225</link><guid>3b15de0c6eca1010edffee4b8e3df55d4a5073379b54129bb4f5bc6dc6f43357</guid><pubDate>Thu, 08 Oct 2026 23:15:08 GMT</pubDate><description>&lt;p&gt;为按时交付AI数据中心，甲骨文Oracle采取非常规供能手段应对管道延误，但高昂成本与扩容瓶颈仍是隐忧。&lt;/p&gt;
 &lt;p&gt;10月8日据彭博报道，甲骨文正以卡车运输压缩天然气的方式，维持旗下多个AI数据中心的建设与运营进度，以规避管道基础设施延误带来的时间损失。&lt;/p&gt;
 &lt;p&gt;这一非常规策略已在犹他州和德克萨斯州付诸实施，并正被考虑引入新墨西哥州的关键项目。甲骨文自由现金流目前为负，且预计在更多AI数据中心竣工投用前将持续承压。&lt;/p&gt;
 &lt;p&gt;甲骨文股价周四收跌5.5%，报135.69美元，创7月16日以来最大单日跌幅。&lt;/p&gt;
@@ -27,7 +27,50 @@
 &lt;p&gt;天然气须先从管道中提取、压缩装车，经过数小时运输后再减压注入发电机，整个流程对于持续运转的数据中心而言意味着全天不间断的卡车调度。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;规模瓶颈同样不容忽视。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据能源分析机构SemiAnalysis分析师Ellie Holbrook测算，&lt;strong&gt;若甲骨文以压缩天然气卡车为&amp;quot;Project Jupiter&amp;quot;提供100兆瓦的电力，仅相当于该项目2.45吉瓦总规划容量约4%，每辆大型货车仅能支撑约40分钟的电力供应，这意味着每天需要数十辆次卡车不间断配送。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;正因如此，压缩天然气卡车运输此前主要局限于采矿、石油钻探等远离电网接入点的偏远工业场景。但对于已向OpenAI等客户作出承诺、急需按时交付算力的甲骨文而言，这或许是当下现有条件下代价最小的过渡方案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 飓风逼近美国墨西哥湾，四分之一原油停产，助油价大涨</title><link>https://wallstreetcn.com/articles/3783216</link><guid>0a5aa7283bb73be4fa08585d3261822800222bb957990cd318d78b8f5b164dd5</guid><pubDate>Thu, 08 Oct 2026 20:39:59 GMT</pubDate><description>&lt;p&gt;大西洋本季首个飓风&amp;quot;Isaias&amp;quot;正向美国墨西哥湾沿岸逼近，已迫使该地区逾四分之一的海上石油产量停产，与此同时中东局势持续动荡，推动国际油价周四一度涨超5%。&lt;/p&gt;
+&lt;p&gt;正因如此，压缩天然气卡车运输此前主要局限于采矿、石油钻探等远离电网接入点的偏远工业场景。但对于已向OpenAI等客户作出承诺、急需按时交付算力的甲骨文而言，这或许是当下现有条件下代价最小的过渡方案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达支持的Firmus取消IPO，AI数据中心融资遇冷</title><link>https://wallstreetcn.com/articles/3783224</link><guid>36426e8b96d198653109c56edcc1c6b9bbe428c9c5e0a28b37b0b2c181670d09</guid><pubDate>Thu, 08 Oct 2026 22:37:47 GMT</pubDate><description>&lt;p&gt;澳大利亚数据中心运营商Firmus Grid在公开市场遭遇投资者冷遇后，宣布撤回赴澳交所上市计划，转而寻求私募融资。这是三周内第二宗数据中心巨型IPO折戟，市场对AI基础设施资产的公开市场定价正面临严峻考验。&lt;/p&gt;
+&lt;p&gt;Firmus原计划募资最高55亿美元，按每股11澳元定价，对应估值约437亿澳元（304亿美元）。据彭博报道，截至认购截止，询价簿未现明确定价或交易结构。Firmus一度将发行价下调至8澳元，较发行区间低约25%，并试图将底线守在8.25澳元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最终，该公司周五宣布撤回上市申请，以&amp;quot;近期市场波动及当前市况&amp;quot;为由，称&amp;quot;交易条款无法充分反映公司业务实力与长期增长前景&amp;quot;，并表示将转向私募市场寻求资金。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此番折戟直接冲击关联方。Firmus股东之一Maas Group的股价盘中一度暴跌30%，创历史最大单日跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+六个月估值六倍跳：从55亿到304亿美元
+
+&lt;p&gt;Firmus2019年以比特币挖矿起家，今年2月获得由黑石和Coatue牵头的100亿美元债务融资；4月份，Coatue领投一轮融资，彼时估值为55亿美元；8月，英伟达、Coatue、黑石和Jane Street参与的20亿美元融资将估值提升至105亿美元；不足两个月后，IPO要求公开市场投资者以8月融资价格三倍的估值入场。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此估值形成对比的是，据Breakingviews，&lt;strong&gt;Firmus目前在约1吉瓦管线中实际建成容量仅为42兆瓦，占比约4%。&lt;/strong&gt;该公司近期将业务重心从澳大利亚本土转向马来西亚与印度尼西亚，意在服务OpenAI、Meta等超大规模云计算客户。&lt;/p&gt;
+&lt;p&gt;据招股书草稿，该公司在FY27上半年净亏损7700万美元，且未提供2027年6月之后的任何业绩预测。&lt;/p&gt;
+&lt;p&gt;澳大利亚本土机构投资者反应冷淡：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Morningstar分析师Lochlan Halloway直指此IPO具备&amp;quot;繁荣期&amp;quot;特征，认为估值在短期内的&amp;quot;剧烈抬升&amp;quot;令人警惕。&lt;/li&gt;
+&lt;li&gt;Merlon的Kirit Hara表示其投资流程&amp;quot;不允许我们买入希望与梦想&amp;quot;。&lt;/li&gt;
+&lt;li&gt;Katana的Romano Sala Tenna坦言&amp;quot;我们在基本面算术上存在困难&amp;quot;。&lt;/li&gt;
+&lt;li&gt;Blackwattle的Joseph Koh则拒绝参与认购，理由是&amp;quot;未知因素太多&amp;quot;。&lt;/li&gt;
+&lt;/ul&gt;
+
+另辟蹊径的估值工具未能说服机构
+
+&lt;p&gt;当传统财务指标无法支撑定价时，Firmus的承销方转而采用一套名为&amp;quot;EV+1/EBIT+2&amp;quot;的新估值框架。据Breakingviews的Antony Currie解释，&lt;strong&gt;该指标以公司12个月后的净负债计算企业价值，除以两年后预期实现的息税前利润。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其逻辑出发点是：数据中心开发商通常以债务覆盖高达90%的建设成本，且可在约一年内开始产生收入，因此当期财务数字难以呈现全貌。&lt;/p&gt;
+&lt;p&gt;然而批评者指出，该指标极易被操控——资本支出假设可被虚高以抬升企业价值，而一旦许可证、设备、电力或水资源供给出现任何延误，&amp;quot;EV+1&amp;quot;就会变成&amp;quot;+2&amp;quot;或&amp;quot;+3&amp;quot;，EBIT的实现同样顺延。&lt;/p&gt;
+&lt;p&gt;据报道，本周甲骨文1.3吉瓦级&amp;quot;Lighthouse&amp;quot;园区项目已出现延期，Project Jupiter亦宣布不可抗力，表明&amp;quot;+1&amp;quot;不过是乐观情境。&lt;/p&gt;
+&lt;p&gt;与此同时，IPO结构本身也引发投资者疑虑。约一半IPO份额分配给&amp;quot;特定现有战略及财务投资者&amp;quot;，包括英伟达、Coatue、黑石和Jane Street；现有股东可从上市首日起出售最多20%的持股。&lt;/p&gt;
+&lt;p&gt;供给压力叠加定价争议，令潜在投资者更加观望。此外，&lt;strong&gt;IPO募集资金将主要用于购买英伟达的GPU，以支持Firmus在印度尼西亚巴淡岛的首个项目——英伟达投资Firmus，Firmus募资后将资金回流至英伟达购买芯片，这一循环架构在市场上引发额外质疑。&lt;/strong&gt;&lt;/p&gt;
+
+股权价值低于债务：从增长股到信用故事
+
+&lt;p&gt;最令市场警觉的是Firmus的资产负债结构。&lt;/p&gt;
+&lt;p&gt;据Morningstar估算，Firmus债务规模约300亿美元，约为其自身盈利预测的六倍。在澳元11元发行价下，股权市值约为304亿美元，债务与股权大致持平；而若守在澳元8.25元，股权价值约缩水至230亿美元，较其债务低约70亿美元；若跌至澳元8元，差距进一步扩大。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;换言之，在承销商竭力维护的价格水平上，Firmus股东权益的市场价值在上市首日交易前便已低于公司的债务总额。&lt;strong&gt;这意味着该股实质上已是&amp;quot;挂着股票代码的高杠杆信用工具&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;叠加本周美国十年期国债收益率攀升至5.36%的24年高位，高盛称，承载300亿美元数据中心债务的资本成本只会朝一个方向走。&lt;/p&gt;
+
+窗口收窄：数据中心IPO排队入市面临考验
+
+&lt;p&gt;Firmus是三周内第二宗折戟的数据中心巨型IPO。在此之前，软银旗下SB Energy的IPO路演于9月下旬暂停，原因是美国证监会追加问询，以及投资者对约600亿美元估值和高度依赖OpenAI单一客户的质疑。&lt;/p&gt;
+&lt;p&gt;后续排队上市的数据中心项目仍然很多：新加坡的DayOne——恰好也是Firmus在巴淡岛的合作伙伴——拟最早于11月在美国以200亿美元估值融资最多50亿美元；Switch已提交保密上市申请；Vantage和CyrusOne正在评估上市选项；英国的Nscale则刚完成33.6亿美元的上市前可转换债融资。&lt;/p&gt;
+&lt;p&gt;据Shenton Research的Ke Yan向路透表示，&lt;strong&gt;&amp;quot;分水岭在于需求是否已签约落地、电力是否已到位，还是仅停留于规划阶段&amp;quot;。&lt;/strong&gt;以42兆瓦的实际建成容量对应1吉瓦管线的Firmus，显然处于&amp;quot;规划阶段&amp;quot;一侧。&lt;/p&gt;
+&lt;p&gt;从宏观投资者行为来看，据高盛亚洲销售台报告，对冲基金因宏观不确定性已重新增配科技板块，Mag 7的净敞口占高盛主经纪商账户美股总敞口约22%，为2022年初以来最高。&lt;/p&gt;
+&lt;p&gt;高盛GS Research估计，今年全球AI投资将超过1万亿美元，美国和亚洲合计贡献逾80%的数据中心净增量。资金并不匮乏，但市场的取向已然清晰：投资者仍然押注AI，但倾向于通过资产负债表健全、有能力自主消化大规模资本开支的大型科技公司来实现敞口，而非通过高负债、低收入、以&amp;quot;规划管线&amp;quot;为主要卖点的项目型公司。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 飓风逼近美国墨西哥湾，四分之一原油停产，助油价大涨</title><link>https://wallstreetcn.com/articles/3783216</link><guid>0a5aa7283bb73be4fa08585d3261822800222bb957990cd318d78b8f5b164dd5</guid><pubDate>Thu, 08 Oct 2026 20:39:59 GMT</pubDate><description>&lt;p&gt;大西洋本季首个飓风&amp;quot;Isaias&amp;quot;正向美国墨西哥湾沿岸逼近，已迫使该地区逾四分之一的海上石油产量停产，与此同时中东局势持续动荡，推动国际油价周四一度涨超5%。&lt;/p&gt;
 &lt;p&gt;截至周三午间，美国海洋矿产管理局数据显示，&lt;strong&gt;墨西哥湾已有约51.2万桶/日的石油产量设施关停，占该地区总产量的25%，天然气产量设施关停比例亦达16%。壳牌、雪佛龙、英国石油等主要石油公司已相继撤离非必要人员，并对多处海上设施实施停产操作。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次飓风来袭时机尤为不利。美国炼油厂正以约95%的满负荷运转以弥补海外因战争导致的供应缺口，汽油和馏分油库存均处于数十年来的季节性低点，战略石油储备亦跌至1982年以来最低水平。&lt;/p&gt;
 &lt;p&gt;瑞穗证券能源期货总监Robert Yawger将此形容为&amp;quot;25年来最糟糕的时机&amp;quot;，警告若美国炼油产能被迫退出市场，后果&amp;quot;将是灾难性的&amp;quot;。&lt;/p&gt;
@@ -59,7 +102,7 @@
 &lt;p&gt;美国媒体报道称，胡塞武装对沙特阿拉伯的袭击、波斯湾附近油轮遭袭，以及市场对美国可能恢复打击伊朗目标的猜测，共同加剧了能源市场的波动。后特朗普在社交媒体上发文辟谣，称不会中选前攻击伊朗，国际油价涨幅部分回吐。&lt;/p&gt;
 &lt;p&gt;在美国墨西哥湾生产停产、炼油设施面临飓风威胁以及中东局势动荡，前景不明的情况下，原油市场的供应端压力持续加大。&lt;/p&gt;
 &lt;p&gt;不过，飓风最终对能源市场造成多大影响仍取决于其登陆路径和强度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;路径方面，目前预测显示，飓风可能在新奥尔良以东登陆，这一位置或有助于避开美国墨西哥湾沿岸部分核心能源设施。强度方面，分析人士指出，即使是一级飓风，炼油设施恢复正常运营也可能需要一周左右时间。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中东局势升级叠加OpenAI收入预警，标普、纳指两连跌，芯片指数跌超3%，光通信股重挫</title><link>https://wallstreetcn.com/articles/3783173</link><guid>ed166d5328e01f72c427b88569254235c17f2edcede3577bc270dd4e656154d4</guid><pubDate>Thu, 08 Oct 2026 22:19:55 GMT</pubDate><description>&lt;p&gt;中东地缘局势持续发酵、海湾地区石油运输受阻推动油价急涨，与此同时，有关OpenAI实际营收远低于此前预期的报道重燃市场对人工智能投资回报的质疑，科技股遭遇重挫。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;路径方面，目前预测显示，飓风可能在新奥尔良以东登陆，这一位置或有助于避开美国墨西哥湾沿岸部分核心能源设施。强度方面，分析人士指出，即使是一级飓风，炼油设施恢复正常运营也可能需要一周左右时间。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%</title><link>https://wallstreetcn.com/articles/3783173</link><guid>ed166d5328e01f72c427b88569254235c17f2edcede3577bc270dd4e656154d4</guid><pubDate>Thu, 08 Oct 2026 23:32:28 GMT</pubDate><description>&lt;p&gt;中东地缘局势持续发酵、海湾地区石油运输受阻推动油价急涨，与此同时，有关OpenAI实际营收远低于此前预期的报道重燃市场对人工智能投资回报的质疑，科技股遭遇重挫。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美股科技板块成为最大拖累。&lt;a href="https://wallstreetcn.com/articles/3783220"&gt;华尔街见闻提及&lt;/a&gt;，OpenAI基于当前业绩折算的年化营收约为500亿美元，而此前部分媒体报道的预期数字接近700亿美元。&lt;/p&gt;
 &lt;p&gt;这一落差打压了芯片股的投资情绪，&lt;strong&gt;纳斯达克100指数&lt;/strong&gt;单日下跌1.4%，为7月以来最差表现。&lt;strong&gt;道指&lt;/strong&gt;则微涨0.10%。标普500十一大板块六涨五跌，能源与必需消费品领涨，科技与非必需消费品垫底。&lt;strong&gt;甲骨文&lt;/strong&gt;跌5.58%，&lt;strong&gt;美光科技&lt;/strong&gt;跌4.79%。&lt;/p&gt;
@@ -293,19 +336,4 @@ Anthropic同样承压，AI大模型IPO叙事整体遇冷
 &lt;p&gt;此前有报道称，白宫已要求五角大楼拟定针对伊朗的打击方案，相关行动可能在中期选举前实施。&lt;/p&gt;
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达拟5年投入10亿美元，推动美国“超级智能”科研，布局量子计算、医疗和能源安全</title><link>https://wallstreetcn.com/articles/3783214</link><guid>e384f8e5b492c12bcd31f3b0b71bc38b50d7a8202f877a0d1774a142dfd3721d</guid><pubDate>Thu, 08 Oct 2026 15:10:13 GMT</pubDate><description>&lt;p&gt;英伟达宣布在未来五年内向美国科学研究领域投入价值10亿美元的资源，重点布局量子计算、医疗健康与能源安全等对美国战略地位至关重要的领域，进一步深化与美国政府的产学研合作。&lt;/p&gt;
-&lt;p&gt;此次承诺在华盛顿举办的&amp;quot;科学：新黄金时代&amp;quot;活动上正式对外公布，美国官员、产业领袖及科学界代表出席了这一活动。&lt;/p&gt;
-&lt;p&gt;美国科技政策办公室（OSTP）在会上宣布扩展&amp;quot;创世纪使命&amp;quot;（Genesis Mission），英伟达作为该计划的重要产业合作伙伴，随即宣布上述投资承诺。&lt;/p&gt;
-&lt;p&gt;英伟达创始人兼首席执行官黄仁勋表示，此次10亿美元投资将把先进超级智能能力交到美国科学家手中，旨在加速医学、能源与材料领域的突破，&amp;quot;这是美国将科学领导力转化为产业领导力、将创新转化为就业机会的路径&amp;quot;。&lt;/p&gt;
-
-投资覆盖高校、量子计算及政府云服务
-
-&lt;p&gt;根据英伟达的具体规划，这笔10亿美元承诺将在五年内通过三条路径落地：&lt;/p&gt;
-&lt;p&gt;支持美国高等教育科研机构获取算力与超级智能基础设施资源；加大对美国量子计算领域领导力的投资；以及支持服务于美国政府任务需求的云服务提供商。&lt;/p&gt;
-&lt;p&gt;英伟达同时宣布，将作为合作方参与多个&amp;quot;创世纪使命&amp;quot;二期项目，涵盖量子计算、核聚变、加速器设计及微电子学等方向。&lt;/p&gt;
-
-与美国国家实验室合作逾二十年
-
-&lt;p&gt;英伟达与美国国家实验室的合作关系已有超过二十年历史。&lt;/p&gt;
-&lt;p&gt;去年，该公司宣布与美国能源部（DOE）在&amp;quot;创世纪使命&amp;quot;框架下达成合作，核心项目之一是在阿贡国家实验室（Argonne National Laboratory）为能源部建造其规模最大的科学研究超级计算机。&lt;/p&gt;
-&lt;p&gt;除此之外，英伟达还为阿贡和洛斯阿拉莫斯国家实验室（Los Alamos National Laboratories）提供七套新系统的支持，进一步强化能源部推动技术领导力的核心使命。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
