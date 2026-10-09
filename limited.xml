@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 09 Oct 2026 21:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 09 Oct 2026 21:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
 &lt;p&gt;周五，微软推出新一代快速决策AI模型&lt;strong&gt;Microsoft-Decision-1，该模型专为结构化决策任务设计。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;微软称，Microsoft-Decision-1的P50已在内部多个场景完成测试，涵盖事故响应、质量控制和科学发现等领域。&lt;strong&gt;运行速度是OpenAI的GPT-6 Sol的35倍，Quyet-1.0-Large的4.5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -30,18 +30,33 @@
 &lt;p&gt;微软在设计中着重考量了模型的稳定性。&lt;/p&gt;
 &lt;p&gt;测试数据显示，在对同一请求进行八种形式的扰动处理后，Microsoft-Decision-1平均仅有1.3%的概率发生决策翻转，且在选项描述改写或选项顺序颠倒等场景下，翻转率为零。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在安全性方面，微软对该模型进行了涵盖11项基准、共5250条请求的测试，内容涉及有害内容识别、越狱攻击及提示词注入等，称模型在成功拒绝有害请求的同时保持了较高的正常使用效用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Microsoft-Decision-1已通过微软旗下AI开发平台Microsoft Foundry向开发者开放，OpenRouter的接入支持亦在计划之中。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减</title><link>https://wallstreetcn.com/articles/3783301</link><guid>13e9405d17628c2ecf60894174c3935bd2342f2df09510c1afe6c21c9098d5a0</guid><pubDate>Fri, 09 Oct 2026 20:57:06 GMT</pubDate><description>&lt;p&gt;沙特阿美将于11月恢复向欧洲炼油商提供全额原油供应，标志着此前管道遭袭导致的供应中断基本结束，市场紧张局面有望缓解。&lt;/p&gt;
-&lt;p&gt;10月9日，据彭博社援引知情人士透露，&lt;strong&gt;至少三家欧洲炼油商已获通知，将在11月收到来自沙特阿美的足额原油配额。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此前，沙特东西输油管道遭无人机袭击，沙特阿美曾告知欧洲客户10月将不提供任何原油配额，迫使买家紧急寻求替代货源。&lt;/p&gt;
-&lt;p&gt;供应恢复将直接缓解欧洲原油市场的供应压力。波兰最大沙特原油买家Orlen SA在断供期间发出逾十份招标，以采购替代桶。据彭博船舶追踪数据，沙特对欧洲原油出口通常每日平均达70万至80万桶。&lt;/p&gt;
+&lt;p&gt;目前，Microsoft-Decision-1已通过微软旗下AI开发平台Microsoft Foundry向开发者开放，OpenRouter的接入支持亦在计划之中。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 诺奖得主警告：法国债务危机或已“大到无法救”，欧元区面临“爆炸性”危机</title><link>https://wallstreetcn.com/articles/3783303</link><guid>c955545f37c415562896b713e957c2332dd0ba89e8f5ec6863c1f9a9da919b57</guid><pubDate>Fri, 09 Oct 2026 20:59:19 GMT</pubDate><description>&lt;p&gt;2008年诺贝尔经济学奖得主保罗·克鲁格曼发出警告，法国公共财政持续恶化，&lt;strong&gt;正走在&amp;quot;财政不可持续&amp;quot;的道路上，并可能已从&amp;quot;大到不能倒&amp;quot;跨越至&amp;quot;大到无法救援&amp;quot;的危险境地&lt;/strong&gt;，一旦危机引爆，将对欧元区整体稳定构成严峻威胁。&lt;/p&gt;
+&lt;p&gt;克鲁格曼在本周发布的Substack博客文章中写道，法国的债务问题不仅是本国议题，其欧元区成员身份可能引发&amp;quot;爆炸性债务危机&amp;quot;，并对欧洲一体化造成破坏性冲击。&lt;/p&gt;
+&lt;p&gt;前欧洲央行行长Jean-Claude Trichet随即在接受采访时&lt;strong&gt;呼吁法国政界各方&amp;quot;拿出实质行动，证明法国作为市场参与者是负责任的&amp;quot;，以恢复市场信心——这也是启动欧洲央行相关救助机制的前提条件。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法国政府债券近期持续承压，10年期法债与德债利差已攀升至2011至2012年欧债危机以来的最高水平。法债周五小幅回升，10年期收益率下行3个基点至4.86%。&lt;/p&gt;
 
-管道袭击引发供应中断，欧洲炼油商被迫寻找替代货源
+财政困境：高债务、大赤字与退休年龄之困
 
-&lt;p&gt;沙特东西输油管道上月遭伊拉克方向发射的无人机袭击，管道被迫中断运营。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;沙特阿美已于上周末前将东西管道产能恢复至逾80%。&lt;/strong&gt;周一曾有报道称管道沿线一处泵站遭遇新一轮打击并再度停运，导致油价一度跳涨逾1.2%，但随后报道援引知情人士证实管道运营正常，油价涨幅随之收窄。&lt;/p&gt;
-&lt;p&gt;这条管道是沙特关键的跨境输油动脉，日输送能力达700万桶，在伊朗战争期间承担着绕开霍尔木兹海峡风险航线、保障原油持续出口的重要功能。&lt;/p&gt;
-&lt;p&gt;截至上周，扣除西海岸炼油厂的内部供应后，沙特阿美可用于出口的原油日流量约为450万桶。&lt;/p&gt;
-&lt;p&gt;尽管东西管道已恢复正常运营，该地区整体供应风险并未完全消除。近几个月来，也门胡塞武装持续袭击红海航行油轮及沙特西海岸基础设施，给这一重要出口航线带来持续压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！</title><link>https://wallstreetcn.com/articles/3783285</link><guid>8573273ac08b19193da79678a9c9ba61ff642c4dce7784f5cef67282a17198b8</guid><pubDate>Fri, 09 Oct 2026 13:07:01 GMT</pubDate><description>&lt;p&gt;美国中期选举临近，全球资金加速撤离风险资产。美银证券最新《资金流向报告》显示，&lt;strong&gt;投资者正以新冠疫情暴发以来最快速度囤积现金，同时押注选举结果将成为年底前股市最重要的方向性催化剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;克鲁格曼指出，法国正陷入多重财政困境的叠加。&lt;/p&gt;
+&lt;p&gt;截至目前，&lt;strong&gt;法国债务规模达3.6万亿欧元（约合4万亿美元），占GDP的119%，为欧元诞生以来的最高水平。然而政府不仅未能有效控制债务，还持续以大规模预算赤字加剧债务负担，同时面临不断攀升的债务利息压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在克鲁格曼看来，法国问题的核心症结在于退休年龄政策。法国养老金领取年龄在西欧主要经济体中属于最低之列，而明年总统大选的领跑者Marine Le Pen更承诺允许部分工人在60岁退休。&lt;/p&gt;
+&lt;p&gt;克鲁格曼写道，法国实际上是在以牺牲其他群体利益为代价，向年长一代发放大规模补贴。与此同时，全国多地爆发学生抗议，导火索是教师短缺、教室拥挤和校舍年久失修。&amp;quot;大规模全国性学生示威的出现并不令人意外，&amp;quot;他写道。&lt;/p&gt;
+
+危机传导：信心恶化引发债务危机恶性循环
+
+&lt;p&gt;克鲁格曼详细阐述了法国可能触发欧元区主权债务危机的传导路径，并将其与2009至2012年危机相比较。&lt;/p&gt;
+&lt;p&gt;他描述了这一恶性循环的逻辑：&lt;strong&gt;投资者一旦停止购买欧元区国家国债，将引发该国政府可能无力偿还债务的担忧；违约恐慌随之导致更大规模资本外流，进而推升利率，令危机进一步深化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;克鲁格曼指出，2012年时任欧洲央行行长马里奥·德拉吉那句&amp;quot;不惜一切代价&amp;quot;之所以能够稳定市场，很大程度上是因为南欧各国配合实施了&amp;quot;大规模削减开支&amp;quot;的举措。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;而法国当前的问题在于，在其持续偏离财政责任的情况下，欧洲央行的救助将&amp;quot;极为昂贵&amp;quot;，且在政治上具有高度争议性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他援引信用违约掉期（CDS）市场数据称，市场对法国违约的隐含概率目前仅为1.2%，但他认为这一数字&amp;quot;偏低&amp;quot;，而CDS价格的骤然上升本身&amp;quot;令人深感忧虑&amp;quot;。&lt;/p&gt;
+
+各方表态：TPI工具高悬，启动需法国先迈步
+
+&lt;p&gt;面对外界担忧，欧洲央行及法国官员均已作出回应，但立场存在明显分歧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欧洲央行行长拉加德本周向欧元区财长表示，当局正密切关注金融市场动态，并具备应对无序波动的工具。法国财政部长Roland Lescure则表示，法国距离需要欧洲央行介入&amp;quot;还很遥远&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trichet在接受采访时未直接评论克鲁格曼的判断，但强调欧洲央行拥有包括欧洲稳定机制（ESM）及传导保护工具（TPI）在内的多项应对手段。&lt;/p&gt;
+&lt;p&gt;TPI于2022年确立，旨在应对欧元区出现市场分裂时维护稳定，迄今尚未启用。他明确指出，&lt;strong&gt;启动TPI的前提是法国政府主动寻求援助，而目前法国官方立场是不需要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trichet向法国政界各方喊话称：&amp;quot;我呼吁所有政治力量，无论立场如何，都必须认识到，现在是时候证明法国作为市场参与者是负责任的。&amp;quot;他强调，法国的首要任务是&amp;quot;说服自己走在正确轨道上&amp;quot;，这也是激活TPI的必要前提条件。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！</title><link>https://wallstreetcn.com/articles/3783285</link><guid>8573273ac08b19193da79678a9c9ba61ff642c4dce7784f5cef67282a17198b8</guid><pubDate>Fri, 09 Oct 2026 13:07:01 GMT</pubDate><description>&lt;p&gt;美国中期选举临近，全球资金加速撤离风险资产。美银证券最新《资金流向报告》显示，&lt;strong&gt;投资者正以新冠疫情暴发以来最快速度囤积现金，同时押注选举结果将成为年底前股市最重要的方向性催化剂。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;美银全球投资策略师Michael Hartnett在10月8日发布的报告中指出，&lt;strong&gt;11月3日美国中期选举是年底前触发全球股市±10%波动的最大潜在催化剂。&lt;/strong&gt;当前市场预测显示，&lt;strong&gt;民主党横扫两院的概率已升至64%，较9月的49%大幅跳升，若该情景成真，美股将面临超过10%的下行风险。&lt;/strong&gt;与此同时，美银牛熊指标从8.8降至8.1，继续维持&amp;quot;卖出&amp;quot;信号。&lt;/p&gt;
 &lt;p&gt;本周全球资金流向数据印证了市场的防御情绪：1664亿美元涌入货币市场基金，创2020年4月以来最大单周流入规模；美国国债获166亿美元净流入，为2025年4月以来最大；金融股遭遇2026年3月以来最大单周净流出30亿美元。&lt;/p&gt;
 现金为王：货币市场基金规模突破8万亿美元
@@ -155,7 +170,18 @@
 &lt;p&gt;货币与债券市场方面，彭博美元指数小幅走低，中东紧张局势缓和预期提振亚洲货币整体走强。&lt;/p&gt;
 &lt;p&gt;日本10年期国债收益率下行5.5个基点至3.025%，美国国债延续上一交易日涨势。长端收益率的回落为黄金等无息资产提供了支撑，也在一定程度上缓解了市场对高利率环境下大规模AI投资难以为继的担忧。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 增程市场缩水，小米拿下7万锁单</title><link>https://wallstreetcn.com/articles/3783276</link><guid>9a935dc3a95539e219f1454a3c559dff46bc790eee931636a82c5917af794e6f</guid><pubDate>Fri, 09 Oct 2026 09:47:56 GMT</pubDate><description>&lt;p&gt;在增程市场整体下滑的背景下，小米的新车拿到了首月超过7万台锁单。这场家用SUV争夺战，又迎来了一个有订单规模的新竞争者。&lt;/p&gt; &lt;p&gt;10月9日，小米集团股价收盘涨9.72%，报25.96港元。此前，小米汽车披露，澎程N70、N90系列在9月7日至10月7日的首销月，累计锁单超过7万台。&lt;/p&gt; &lt;p&gt;这批订单已经开始转成交付。澎程系列于9月12日开启交付，9月交付超过1万台，同期小米汽车整体交付超过4万台。继SU7、YU7纯电系列之后，增程产品开始成为小米扩大交付的又一个来源。&lt;/p&gt; &lt;p&gt;中国数实融合50人论坛副秘书长、数字经济智库首席研究员胡麒牧表示，随着四季度产能进一步爬坡，小米澎程系列有望持续释放增长动能，推动小米汽车交付规模再上新台阶，同时加速20万至30万元级家用SUV市场的新能源替代节奏。&lt;/p&gt; &lt;p&gt;乘联分会数据显示，今年1至8月，国内新能源乘用车累计零售667.4万辆，同比下降12.1%。其中，增程乘用车累计零售60.6万辆，同比下降19.3%。小米进入前，增程的终端销量已经承压，降幅还大于新能源市场整体。&lt;/p&gt; &lt;p&gt;8月，国内新能源乘用车零售同比下降10.1%，零跑汽车全品牌国内狭义乘用车零售却同比增长65.9%，达到8.5万辆。大盘下滑，仍有公司保持增长。在终端总量收缩的阶段，企业增长更需要争取市场份额。小米的大批锁单，则先给这场新业务扩张提供了需求基础。&lt;/p&gt; &lt;p&gt;车企争取增量的范围，还在随着产品路线扩大。小米在SU7、YU7纯电产品之外补入增程，零跑D19则同时提供纯电和增程，两家公司都能争取不同补能需求的客户。小米进入增程市场时已经有纯电业务和交付规模，原有增程品牌的竞争对手，多了一家跨动力路线经营的企业。&lt;/p&gt; &lt;p&gt;澎程切入的是20万至30万元家用SUV市场，零跑D19也落在二十多万元的价位。更多品牌进入同一价格带，原有产品要维持售价、守住销量，就会面对新车给出的参照。既有品牌若下调成交价争取订单，需要考虑价格让步后能留下多少毛利；维持原价，则要让用户继续愿意为原有产品买单。新进入者把选择交给用户，也把这组取舍留给了同行。&lt;/p&gt; &lt;p&gt;首销期订单让小米获得了短期放量的机会。四季度产能爬坡，有助于把这批需求更快转成交付，也可能抬高短期销量。随着首销期订单逐步兑现，更大的产能需要由持续进入的新需求支撑。小米随后争取的，是上市开局之后每个月的新增订单，获客节奏也要跟上交付节奏。&lt;/p&gt; &lt;p&gt;销量扩张还有经营上的代价。澎程上市前，小米二季度智能电动汽车及AI等创新业务分部毛利率为19.2%，低于去年同期的26.4%。公司将下降归因于SU7 Ultra交付占比降低、汽车核心零部件价格上涨及AI业务相关成本增加。&lt;/p&gt; &lt;p&gt;其中，SU7 Ultra交付占比的变化已经影响到分部毛利率，卖出怎样的车型，也在改变经营结果。澎程放量会增加家用SUV在产品组合中的比重，小米能扩大销售规模，新增交付的毛利贡献则取决于实际销售结构与成本。&lt;/p&gt; &lt;p&gt;小米拿下7万台锁单，给增程SUV市场又添了一个强势对手。市场在缩，新车却还在增加，二十多万元的大电池、大空间车型越来越多。小米、零跑等品牌挤进同一价格带，围绕家庭购车预算的新一轮争夺，已经打响。&lt;/p&gt; &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式</title><link>https://wallstreetcn.com/articles/3783296</link><guid>00eb96bafc02098db2abcbebbaa297b7669ede9baa98df04ba8c2d175708311c</guid><pubDate>Fri, 09 Oct 2026 16:01:46 GMT</pubDate><description>&lt;p&gt;华尔街大型银行三季度股票交易业务有望延续强势，但资本市场活动降温正加剧各行之间的业绩分化。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减</title><link>https://wallstreetcn.com/articles/3783301</link><guid>13e9405d17628c2ecf60894174c3935bd2342f2df09510c1afe6c21c9098d5a0</guid><pubDate>Fri, 09 Oct 2026 20:57:06 GMT</pubDate><description>&lt;p&gt;沙特阿美将于11月恢复向欧洲炼油商提供全额原油供应，标志着此前管道遭袭导致的供应中断基本结束，市场紧张局面有望缓解。&lt;/p&gt;
+&lt;p&gt;10月9日，据彭博社援引知情人士透露，&lt;strong&gt;至少三家欧洲炼油商已获通知，将在11月收到来自沙特阿美的足额原油配额。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此前，沙特东西输油管道遭无人机袭击，沙特阿美曾告知欧洲客户10月将不提供任何原油配额，迫使买家紧急寻求替代货源。&lt;/p&gt;
+&lt;p&gt;供应恢复将直接缓解欧洲原油市场的供应压力。波兰最大沙特原油买家Orlen SA在断供期间发出逾十份招标，以采购替代桶。据彭博船舶追踪数据，沙特对欧洲原油出口通常每日平均达70万至80万桶。&lt;/p&gt;
+
+管道袭击引发供应中断，欧洲炼油商被迫寻找替代货源
+
+&lt;p&gt;沙特东西输油管道上月遭伊拉克方向发射的无人机袭击，管道被迫中断运营。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;沙特阿美已于上周末前将东西管道产能恢复至逾80%。&lt;/strong&gt;周一曾有报道称管道沿线一处泵站遭遇新一轮打击并再度停运，导致油价一度跳涨逾1.2%，但随后报道援引知情人士证实管道运营正常，油价涨幅随之收窄。&lt;/p&gt;
+&lt;p&gt;这条管道是沙特关键的跨境输油动脉，日输送能力达700万桶，在伊朗战争期间承担着绕开霍尔木兹海峡风险航线、保障原油持续出口的重要功能。&lt;/p&gt;
+&lt;p&gt;截至上周，扣除西海岸炼油厂的内部供应后，沙特阿美可用于出口的原油日流量约为450万桶。&lt;/p&gt;
+&lt;p&gt;尽管东西管道已恢复正常运营，该地区整体供应风险并未完全消除。近几个月来，也门胡塞武装持续袭击红海航行油轮及沙特西海岸基础设施，给这一重要出口航线带来持续压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式</title><link>https://wallstreetcn.com/articles/3783296</link><guid>00eb96bafc02098db2abcbebbaa297b7669ede9baa98df04ba8c2d175708311c</guid><pubDate>Fri, 09 Oct 2026 16:01:46 GMT</pubDate><description>&lt;p&gt;华尔街大型银行三季度股票交易业务有望延续强势，但资本市场活动降温正加剧各行之间的业绩分化。&lt;/p&gt;
 &lt;p&gt;10月9日，&lt;strong&gt;据彭博汇编的分析师预期，五大美国银行三季度股票交易收入合计预计接近190亿美元。&lt;/strong&gt;其中，高盛预计以51亿美元居首，摩根士丹利、摩根大通和美国银行分别预计录得49亿美元、45亿美元和26亿美元。高盛将于下周二率先公布财报。&lt;/p&gt;
 &lt;p&gt;相比之下，固定收益交易业务面临压力，五大银行相关收入预计降至今年以来最低水平，并购市场也显露降温迹象。与此同时，市场担忧人工智能驱动的现金优化工具可能加速存款流出，进一步拖累银行股表现。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;富国银行分析师迈克·梅奥表示，上半年几乎所有银行都是赢家，但这一局面可能不再延续，本季度各行之间的业绩差距预计将进一步扩大。&lt;/strong&gt;&lt;/p&gt;
