@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 07:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 靠定增赚了数百亿的人，又把钱拍在了桌面上</title><link>https://wallstreetcn.com/articles/3783322</link><guid>3e2deb939cd937f5f1fc971a0281e5495f7dd2d33d85977815f224558ff24743</guid><pubDate>Sat, 10 Oct 2026 07:08:52 GMT</pubDate><description>&lt;p&gt;大腕出手，志在必得。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 08:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 靠定增赚了数百亿的人，又把钱拍在了桌面上</title><link>https://wallstreetcn.com/articles/3783322</link><guid>3e2deb939cd937f5f1fc971a0281e5495f7dd2d33d85977815f224558ff24743</guid><pubDate>Sat, 10 Oct 2026 07:08:52 GMT</pubDate><description>&lt;p&gt;大腕出手，志在必得。&lt;/p&gt;
 &lt;p&gt;10月8日晚，新材料龙头中材科技发布定增公告：以51.40元/股向15名对象定向增发8718.19万股，合计募资44.81亿元。&lt;/p&gt;
 &lt;p&gt;消息一出，最引人注目的名字，不是易方达，不是国寿养老，而是——葛卫东。&lt;/p&gt;
 &lt;p&gt;这位私募大佬，以全场最高报价强势入局，最终获配1361.87万股，斥资约7亿元，一举跻身公司第五大股东。&lt;/p&gt;
@@ -69,38 +69,7 @@
 &lt;p&gt;这一次，葛卫东把7亿元拍在了中材科技的桌面上。&lt;/p&gt;
 &lt;p&gt;还是成本优势不明显，还是短期浮盈微薄，但这次和他一起在定增名单里蹲的，是这个市场上一大批知名机构。&lt;/p&gt;
 &lt;p&gt;他们看中的什么，各自有何投资逻辑，外界并不知晓，他们成功与否外界也无法推测。&lt;/p&gt;
-&lt;p&gt;结果如何，时间会给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软推出高速决策AI模型，速度超GPT-6 Sol达35倍</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
-&lt;p&gt;周五，微软推出新一代快速决策AI模型&lt;strong&gt;Microsoft-Decision-1，该模型专为结构化决策任务设计。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软称，Microsoft-Decision-1的P50已在内部多个场景完成测试，涵盖事故响应、质量控制和科学发现等领域。&lt;strong&gt;运行速度比OpenAI的GPT-6 Sol快35倍，比Quyet-1.0-Large快4.5倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;首席执行官Satya Nadella在X平台发文表示，&lt;strong&gt;该模型&amp;quot;在结构化决策任务上表现出色，在延迟和质量方面均优于大语言模型及其他决策模型&amp;quot;，并已在微软内部用于事故响应、质量控制及科学研究等场景测试。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从定价来看，该模型输入端收费为每百万tokens 0.042美元，输出则免费，这一结构在成本层面对高频、重复性决策应用具有明显吸引力。&lt;/p&gt;
-
-专注决策，填补大语言模型能力空白
-
-&lt;p&gt;与传统大语言模型侧重文本生成和复杂推理不同，Microsoft-Decision-1的设计目标更为聚焦。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Microsoft-Decision-1模型从预设选项中选取最优解，并为各备选答案赋予概率评分，从而帮助下游应用判断是继续执行、重新尝试、升级处理，还是交由人工审核。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;(Microsoft-Decision-1 在准确率上排名第一，且是实测速度最快的模型)&lt;/p&gt;
-&lt;p&gt;微软表示，该模型覆盖近15万道问题的36项基准测试中均取得最高精度。其&lt;strong&gt;功能定位包括路由分发、内容分类、任务优先级排序、结果验证及工作流控制，可无缝嵌入现有应用程序、AI代理及工作流系统。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，上述性能数据来源于微软自身的基准测试，独立第三方验证目前尚未完成。&lt;/p&gt;
-
-内部测试显示速度与成本优势显著
-
-&lt;p&gt;微软强调，每个决策都会增加延迟，尤其当一个步骤依赖于另一个步骤时。例如，如果连续做出 20 个决策，每个决策都增加 100 毫秒，那么整个工作流程就会增加 2 秒。&lt;/p&gt;
-&lt;p&gt;Microsoft-Decision-1 P50 的延迟比 GPT-6 Sol 快约 35 倍。&lt;/p&gt;
-&lt;p&gt;（单次请求生成决策的时间，数值越低越好，取JevBench测试集的中位数）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Xbox Research团队&lt;/strong&gt;使用其对逾1万条游戏反馈进行分类，结果显示与GPT-6 Sol质量相当，但速度超出14倍以上，成本则降低约200倍。&lt;strong&gt;微软Copilot团队&lt;/strong&gt;亦发现该模型在AI响应评估任务上与GPT-5.6 Luna表现相近。&lt;/p&gt;
-&lt;p&gt;（Microsoft-Decision-1 分类相同的文本，成本仅为 GPT-6 Sol 的几十分之一）&lt;/p&gt;
-&lt;p&gt;在技术架构上，&lt;strong&gt;Microsoft-Decision-1基于Qwen3.5-9B构建&lt;/strong&gt;，经过以单次决策评分为核心的专项后训练。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微软还计划在未来将该模型迁移至其MAI系列模型及OpenAI模型等其他底座之上。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软在公告中强调，该模型旨在&amp;quot;以安全、可信的环境将决策智能融入现有应用&amp;quot;，将其定位为AI代理工作流编排的基础组件之一。&lt;/p&gt;
-
-鲁棒性与安全性获重点强调
-
-&lt;p&gt;微软在设计中着重考量了模型的稳定性。&lt;/p&gt;
-&lt;p&gt;测试数据显示，在对同一请求进行八种形式的扰动处理后，Microsoft-Decision-1平均仅有1.3%的概率发生决策翻转，且在选项描述改写或选项顺序颠倒等场景下，翻转率为零。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在安全性方面，微软对该模型进行了涵盖11项基准、共5250条请求的测试，内容涉及有害内容识别、越狱攻击及提示词注入等，称模型在成功拒绝有害请求的同时保持了较高的正常使用效用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Microsoft-Decision-1已通过微软旗下AI开发平台Microsoft Foundry向开发者开放，OpenRouter的接入支持亦在计划之中。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机</title><link>https://wallstreetcn.com/articles/3783306</link><guid>a5800ecdf0051125180c9cc85866610265352a9e9a4499eded1d5018f0a64d6f</guid><pubDate>Fri, 09 Oct 2026 22:19:24 GMT</pubDate><description>&lt;p&gt;甲骨文的数据中心建设困局正从工程问题演变为信用风险。摩根士丹利最新报告指出，&lt;strong&gt;工期延误并非带来资本开支喘息空间，而是将巨额债务偿还压力集中压缩至2028年，恰好与多个关键融资节点形成致命叠加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;结果如何，时间会给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机</title><link>https://wallstreetcn.com/articles/3783306</link><guid>a5800ecdf0051125180c9cc85866610265352a9e9a4499eded1d5018f0a64d6f</guid><pubDate>Fri, 09 Oct 2026 22:19:24 GMT</pubDate><description>&lt;p&gt;甲骨文的数据中心建设困局正从工程问题演变为信用风险。摩根士丹利最新报告指出，&lt;strong&gt;工期延误并非带来资本开支喘息空间，而是将巨额债务偿还压力集中压缩至2028年，恰好与多个关键融资节点形成致命叠加。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根士丹利信贷分析师Lindsay Tyler在报告中明确表示，延误&amp;quot;同样意味着变现延迟、概念验证延迟、&lt;strong&gt;营收延迟、现金流延迟&lt;/strong&gt;&amp;quot;。这一判断直指甲骨文的核心投资逻辑——其逾6000亿美元的未来合同收入（RPO）高度依赖AI数据中心如期交付。&lt;/p&gt;
 &lt;p&gt;截至周四收盘，&lt;strong&gt;甲骨文5年期信用违约掉期（CDS）报261个基点，创历史新高，隐含五年内违约概率超过20%，&lt;/strong&gt;而该公司仍持有投资级评级。&lt;/p&gt;
 &lt;p&gt;市场定价已抢先于报告发布作出反应。据彭博，高盛信贷部门上周披露，AI单名CDS成交量同比激增400%，甲骨文位居榜首。其2056年到期债券目前交易于约82美分，收益率超过8.3%；CDS较摩根士丹利一年前建议买入保护时的水平已翻逾一倍。&lt;/p&gt;
@@ -492,4 +461,15 @@ AI交易并非铁板一块，资金已在悄然撤离
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;奥本海默分析师Kristen Owen指出，玉米价格下跌对种子和农化产品销售商而言同样偏空，&amp;quot;因为农产品购买力下降以及行业复苏逻辑面临近期逆风&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次美国农业部意外上调预估，是继9月底季度库存报告超预期之后的又一次数据冲击，两次报告均与市场预判产生明显背离。&lt;/p&gt;
-&lt;p&gt;彭博报道指出，这种持续的预期差正在加剧期货市场的波动性，并在农民群体中引发对政府农业数据可靠性的日益质疑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;彭博报道指出，这种持续的预期差正在加剧期货市场的波动性，并在农民群体中引发对政府农业数据可靠性的日益质疑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减</title><link>https://wallstreetcn.com/articles/3783301</link><guid>13e9405d17628c2ecf60894174c3935bd2342f2df09510c1afe6c21c9098d5a0</guid><pubDate>Fri, 09 Oct 2026 20:57:06 GMT</pubDate><description>&lt;p&gt;沙特阿美将于11月恢复向欧洲炼油商提供全额原油供应，标志着此前管道遭袭导致的供应中断基本结束，市场紧张局面有望缓解。&lt;/p&gt;
+&lt;p&gt;10月9日，据彭博社援引知情人士透露，&lt;strong&gt;至少三家欧洲炼油商已获通知，将在11月收到来自沙特阿美的足额原油配额。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此前，沙特东西输油管道遭无人机袭击，沙特阿美曾告知欧洲客户10月将不提供任何原油配额，迫使买家紧急寻求替代货源。&lt;/p&gt;
+&lt;p&gt;供应恢复将直接缓解欧洲原油市场的供应压力。波兰最大沙特原油买家Orlen SA在断供期间发出逾十份招标，以采购替代桶。据彭博船舶追踪数据，沙特对欧洲原油出口通常每日平均达70万至80万桶。&lt;/p&gt;
+
+管道袭击引发供应中断，欧洲炼油商被迫寻找替代货源
+
+&lt;p&gt;沙特东西输油管道上月遭伊拉克方向发射的无人机袭击，管道被迫中断运营。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;沙特阿美已于上周末前将东西管道产能恢复至逾80%。&lt;/strong&gt;周一曾有报道称管道沿线一处泵站遭遇新一轮打击并再度停运，导致油价一度跳涨逾1.2%，但随后报道援引知情人士证实管道运营正常，油价涨幅随之收窄。&lt;/p&gt;
+&lt;p&gt;这条管道是沙特关键的跨境输油动脉，日输送能力达700万桶，在伊朗战争期间承担着绕开霍尔木兹海峡风险航线、保障原油持续出口的重要功能。&lt;/p&gt;
+&lt;p&gt;截至上周，扣除西海岸炼油厂的内部供应后，沙特阿美可用于出口的原油日流量约为450万桶。&lt;/p&gt;
+&lt;p&gt;尽管东西管道已恢复正常运营，该地区整体供应风险并未完全消除。近几个月来，也门胡塞武装持续袭击红海航行油轮及沙特西海岸基础设施，给这一重要出口航线带来持续压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
