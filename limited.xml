@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 00:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 01:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？</title><link>https://wallstreetcn.com/articles/3783308</link><guid>5a2798e272215285da4189d45100c71443bd050b9641285366b14ba1e9f5f889</guid><pubDate>Sat, 10 Oct 2026 01:10:09 GMT</pubDate><description>&lt;p&gt;英伟达一个措辞上的细微变化，正在重塑投资者对这家芯片巨头财务健康状况的理解。&lt;/p&gt;
+&lt;p&gt;今年9月28日，英伟达宣布将股票回购授权规模扩大1500亿美元至2350亿美元，并在公告中悄然嵌入一句关键表述——&lt;strong&gt;&amp;quot;我们将以净超出战略用途的自由现金流（excess free cash flow net of strategic uses）形式回馈股东&amp;quot;&lt;/strong&gt;。据《华尔街日报》报道，这句话实质上是在向投资者发出信号：&lt;strong&gt;英伟达对外的股权投资，同样会压缩可用于回购和分红的现金。&lt;/strong&gt;这一表述几乎未引发市场关注，但其背后的财务逻辑影响深远。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若将英伟达的战略股权投资及股权激励相关现金支出纳入计算，其今年上半财年的实际自由现金流将从官方口径的699亿美元骤降至约217亿美元——缩水近七成。&lt;/strong&gt;与此同时，英伟达在同期斥资约310亿美元用于超出维持股本不变所需的额外回购，并新增长期债务249亿美元至324亿美元，部分依赖举债来支撑回购力度。这一组合引发外界对其回购可持续性的质疑。&lt;/p&gt;
+“净战略用途”：一句话改变回购逻辑
+&lt;p&gt;英伟达此次措辞调整的核心，在于将战略股权投资纳入自由现金流的扣减范畴。&lt;/p&gt;
+&lt;p&gt;传统意义上，自由现金流通常以经营活动现金流减去资本支出（capex）计算，被视为企业在维持运营后可自由支配的现金代理指标。然而，英伟达的资本支出形态已不局限于厂房设备，还延伸至对AI生态系统内企业的股权投资。&lt;/p&gt;
+&lt;p&gt;英伟达披露，截至目前，公司持有13家上市公司及229家私营公司的股权，涵盖数据中心建设、AI模型开发、能源供应及硬件制造等领域，其中包括OpenAI和Anthropic等知名AI企业。&lt;strong&gt;英伟达将上述投资定性为“战略性”而非“可选择性”，认为这些投资有助于加速其计算平台及整体AI市场的发展。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，这些被投企业同时也是英伟达芯片的买家，形成一种循环动态——英伟达向其注资，被投企业再用这些资金购买英伟达产品。这一循环结构已引发市场对AI繁荣可持续性的担忧。&lt;/p&gt;
+数字背后：自由现金流被高估多少？
+&lt;p&gt;&lt;strong&gt;英伟达并未正式修改自由现金流的定义，官方仍沿用传统公式。但实际数字的差距触目惊心。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据《华尔街日报》分析，在截至今年7月26日的上半财年内：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;英伟达用于购买股权投资的现金流出为&lt;strong&gt;424亿美元&lt;/strong&gt;，出售所得为72亿美元，&lt;strong&gt;净流出达352亿美元&lt;/strong&gt;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若将上述净流出视同资本支出处理，英伟达自由现金流将从&lt;strong&gt;699亿美元减半至347亿美元&lt;/strong&gt;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;此外，员工股权激励相关的现金支出同样未被纳入传统自由现金流计算。同期，英伟达为员工股票归属支付的现金预扣税款达&lt;strong&gt;45亿美元&lt;/strong&gt;，另有约&lt;strong&gt;90亿美元&lt;/strong&gt;的回购用于对冲股权激励带来的股本稀释；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;扣除员工股权激励相关现金支出后，再叠加股权投资净流出，&lt;strong&gt;英伟达上半财年的调整后自由现金流约为217亿美元&lt;/strong&gt;，较官方口径缩水约69%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;与此同时，英伟达在同期新增长期债务249亿美元，这在一定程度上解释了公司如何在战略投资和股权激励吸收大量现金的情况下，仍维持了可观的额外回购规模。&lt;/p&gt;
+2350亿回购授权：华尔街预期能否兑现？
+&lt;p&gt;英伟达2350亿美元的回购授权规模庞大，兑现需要持续强劲的现金流支撑。&lt;/p&gt;
+&lt;p&gt;据Visible Alpha汇编的华尔街分析师预测数据，英伟达在2028财年（截至2028年1月）的自由现金流均值预期超过&lt;strong&gt;3300亿美元&lt;/strong&gt;，理论上足以覆盖全部回购授权及分红支出。&lt;/p&gt;
+&lt;p&gt;然而，英伟达自身已通过措辞调整暗示，&lt;strong&gt;未来仍需持续向被投企业注入大量资金。&lt;/strong&gt;若战略股权投资规模维持高位，调整后的实际可分配现金流将远低于传统口径下的预测数字，回购计划的实际执行空间也将相应收窄。&lt;/p&gt;
+信息披露：英伟达领先同行，但仍不够
+&lt;p&gt;在信息透明度方面，英伟达已率先做出改进。&lt;/p&gt;
+&lt;p&gt;英伟达上季度调整了现金流量表的列报方式，&lt;strong&gt;将债务类证券与股权类证券在投资活动项下完全分开披露&lt;/strong&gt;（其持有的债务证券均为美国国债或机构债券），使投资者得以自行进行上述调整。&lt;/p&gt;
+&lt;p&gt;相比之下，微软、亚马逊及谷歌母公司Alphabet均将债务投资与股权投资合并列报，令投资者难以进行同类拆分。《华尔街日报》认为，其他公司应效仿英伟达的做法。&lt;/p&gt;
+&lt;p&gt;但即便如此，英伟达的披露改进仍只是起点。&lt;strong&gt;自由现金流的真实面貌远比表面复杂，投资者需要现金流量表提供更高程度的透明度，才能准确评估这家AI时代最重要芯片公司的真实财务状况与回购能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
 &lt;p&gt;周五，微软推出新一代快速决策AI模型&lt;strong&gt;Microsoft-Decision-1，该模型专为结构化决策任务设计。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;微软称，Microsoft-Decision-1的P50已在内部多个场景完成测试，涵盖事故响应、质量控制和科学发现等领域。&lt;strong&gt;运行速度是OpenAI的GPT-6 Sol的35倍，Quyet-1.0-Large的4.5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -119,31 +153,7 @@ SpaceX频谱交易搅局，电信股重挫铁塔股大涨
 &lt;p&gt;本周早些时候金价曾跌至两个月低点，美元走强与收益率上行是主要压制。周五油价回落、逢低买盘进场，纽约时段尾盘现货黄金报每盎司4194.36美元，涨1.50%，全周累计涨约1.3%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纽约商品交易所12月交割的黄金期货结算价涨1.40%至4216.30美元。现货白银涨2.40%至60.77美元，铂金与钯金同日分别涨3.1%和2.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！</title><link>https://wallstreetcn.com/articles/3783285</link><guid>8573273ac08b19193da79678a9c9ba61ff642c4dce7784f5cef67282a17198b8</guid><pubDate>Fri, 09 Oct 2026 13:07:01 GMT</pubDate><description>&lt;p&gt;美国中期选举临近，全球资金加速撤离风险资产。美银证券最新《资金流向报告》显示，&lt;strong&gt;投资者正以新冠疫情暴发以来最快速度囤积现金，同时押注选举结果将成为年底前股市最重要的方向性催化剂。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美银全球投资策略师Michael Hartnett在10月8日发布的报告中指出，&lt;strong&gt;11月3日美国中期选举是年底前触发全球股市±10%波动的最大潜在催化剂。&lt;/strong&gt;当前市场预测显示，&lt;strong&gt;民主党横扫两院的概率已升至64%，较9月的49%大幅跳升，若该情景成真，美股将面临超过10%的下行风险。&lt;/strong&gt;与此同时，美银牛熊指标从8.8降至8.1，继续维持&amp;quot;卖出&amp;quot;信号。&lt;/p&gt;
-&lt;p&gt;本周全球资金流向数据印证了市场的防御情绪：1664亿美元涌入货币市场基金，创2020年4月以来最大单周流入规模；美国国债获166亿美元净流入，为2025年4月以来最大；金融股遭遇2026年3月以来最大单周净流出30亿美元。&lt;/p&gt;
-现金为王：货币市场基金规模突破8万亿美元
-&lt;p&gt;本周资金流向数据呈现明显的避险特征。据美银引用EPFR数据，货币市场基金单周吸金1664亿美元，&lt;strong&gt;为2020年4月以来最大流入，全球货币市场基金资产管理规模已从2023年的5万亿美元攀升至8万亿美元，&lt;/strong&gt;当前4.2%的短期国债收益率每年为持有人贡献约3300亿美元利息收入。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美银指出，&lt;strong&gt;&amp;quot;场外现金&amp;quot;能否回流风险资产，关键取决于货币政策转向。&lt;/strong&gt;历史数据显示，大规模现金撤离仅发生在重大量化宽松（2009年QE1、2020年QE4）或持续降息周期中。当前美联储10月加息概率为17%，12月加息概率高达81%，全球央行今年已累计加息54次，为2023年9月以来首次重返紧缩周期。美银的结论简洁明了：不降息，现金不动。&lt;/p&gt;
-&lt;p&gt;在美银私人客户端，4.6万亿美元资产管理规模中，股票配置占比66.2%，债券17.1%，现金9.4%——后者为历史最低水平。过去四周，私人客户持续买入银行贷款、工业股及市政债ETF，同时减持必需消费品、新兴市场债券及可选消费品。&lt;/p&gt;
-中期选举三种情景：从&amp;quot;股市崩跌&amp;quot;到&amp;quot;泡沫狂欢&amp;quot;
-&lt;p&gt;美银将本次中期选举定性为特朗普政府推进&amp;quot;AI战争&amp;quot;与资源垄断战略的关键政治节点。当前Polymarket预测显示，民主党横扫概率64%，国会分裂（共和党参议院+民主党众议院）概率28%，共和党横扫概率9%。特朗普整体支持率仅38%，经济支持率34%，通胀支持率27%，均接近本届任期低点。&lt;/p&gt;
-&lt;p&gt;美银梳理了三种选举情景及对应市场影响：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;民主党横扫（概率64%）&lt;/strong&gt;：美银认为这是最大风险情景。股市将下跌逾10%，美元及债券收益率同步下行，国际股市相对跑赢，但欧洲优于亚洲。民主党执政意味着税收与监管方向逆转，企业盈利承压，同时特朗普在AI对华竞争及资源垄断议题上的政治资本将大幅削弱。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;国会分裂（概率28%）&lt;/strong&gt;：美银视此为&amp;quot;网格锁=金发女孩&amp;quot;情景，股市有望上涨逾5%。美元走强，科技股受益于AI数据中心扩张预期延续，债券表现相对平淡。美银建议参照&amp;quot;美国总统周期&amp;quot;规律，第三年通常是股市表现最强的年份。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;共和党横扫（概率9%）&lt;/strong&gt;：美银认为这是最大惊喜情景，股市涨幅可能超过10%，AI主题进入&amp;quot;泡沫式&amp;quot;2027年，市场将全面转向&amp;quot;做多人工智能（纳斯达克100）、做空人工智能无关资产（标普500等权重）&amp;quot;。&lt;/p&gt;
-&lt;p&gt;民主党能否横扫的关键在于参议院地图。据彭博引用Polymarket数据，民主党须在北卡罗来纳（翻转概率97%）、阿拉斯加（74%）、德克萨斯（67%）、俄亥俄（63%）、缅因（58%）、爱荷华（44%）六个共和党席位中至少翻转四席，同时守住佐治亚（97%）、新罕布什尔（90%）、密歇根（72%）三个脆弱的民主党席位。&lt;/p&gt;
-拉美政治右转，巴西股市创历史新高
-&lt;p&gt;巴西前总统Bolsonaro在大选中胜出，进一步巩固了拉丁美洲的政治右转格局。美银数据显示，拉美地区右翼执政国家已从数年前的7个（覆盖6000万人口）扩大至11个（覆盖4.2亿人口）。&lt;/p&gt;
-&lt;p&gt;Bolsonaro胜选当日，&lt;strong&gt;巴西股市创历史新高，10年期国债收益率单日暴跌124个基点，创历史纪录。美银指出，拉美股市整体仍较历史高点低35%，而美国、日本、亚洲及欧洲股市均已接近或处于历史高位，拉美有望成为下一个&amp;quot;滚动式国际牛市&amp;quot;的主角&lt;/strong&gt;——继欧洲（2025年上半年）、日本及新兴亚洲（2025年下半年至2026年上半年）之后&lt;strong&gt;。美银将拉美股票视为押注美国&amp;quot;门罗主义&amp;quot;政策的最佳交易标的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;欧洲政治格局同样向右移动。意大利、德国已完成政治右转，法国勒庞在2027年4月总统大选民调中领先。美银特别指出，11月29日西班牙提前大选中中右翼政党领先，若胜选将是欧元区债券的一个被市场低估的积极信号。&lt;/p&gt;
-债券终结泡沫：韩国案例敲响警钟
-&lt;p&gt;美银援引韩国市场作为&amp;quot;债券终结泡沫&amp;quot;的最新案例。过去18个月，韩国国债收益率累计上行200个基点，韩国最大零售券商Mirae Asset Securities股价自2026年5月高点已下跌65%——此前该股曾实现&amp;quot;四倍涨幅&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美银认为，&lt;strong&gt;这一模式与历史上多次债券收益率上行刺破资产泡沫的规律高度吻合。&lt;/strong&gt;在当前全球央行重返加息周期的背景下，&lt;strong&gt;美银建议投资者关注&amp;quot;收益率见顶&amp;quot;交易机会，包括30年期美国国债（GT30）、小盘股、REITs及香港地产，同时维持对黄金、大宗商品及新兴市场的长期多头配置。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在科技板块，美银认为投资者已处于极度超配状态，建议不再加仓，并倾向于&amp;quot;MAGS跑赢SOX&amp;quot;（成长股跑赢半导体）的判断；中国科技股则被视为具有逆向投资价值的选项。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美10月消费者信心指数初值降至五个月低点，经济现况指标创历史新低</title><link>https://wallstreetcn.com/articles/3783295</link><guid>ca6140cc6243c64805e5ca245a3d796bf62d801dc9a9d4bbfc93231cdc472d4d</guid><pubDate>Fri, 09 Oct 2026 15:19:13 GMT</pubDate><description>&lt;p&gt;美国消费者信心在10月初再度走低，通胀持续施压令家庭经济状况感受降至有记录以来最差水平，为美国经济前景增添新的隐忧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美10月消费者信心指数初值降至五个月低点，经济现况指标创历史新低</title><link>https://wallstreetcn.com/articles/3783295</link><guid>ca6140cc6243c64805e5ca245a3d796bf62d801dc9a9d4bbfc93231cdc472d4d</guid><pubDate>Fri, 09 Oct 2026 15:19:13 GMT</pubDate><description>&lt;p&gt;美国消费者信心在10月初再度走低，通胀持续施压令家庭经济状况感受降至有记录以来最差水平，为美国经济前景增添新的隐忧。&lt;/p&gt;
 &lt;p&gt;密歇根大学周五发布的初步数据显示，&lt;strong&gt;10月消费者信心指数降至46.3，为5月以来最低，低于经济学家调查预期中值47.6。反映当前经济状况的分项指标从9月的50.9骤降至44.7，创有记录以来最低值。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;预期分项指标从9月的46.3微升至47.3，为7月以来首次回升，显示部分消费者对未来经济走势的判断并未全面恶化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -296,21 +306,19 @@ AI存款流失担忧压制银行股，分析师称抛售过度
 &lt;p&gt;据报道，Jio计划于10月19日开放基石投资者认购，10月21日至23日进行公开认购，预计10月28日挂牌交易。&lt;/p&gt;
 &lt;p&gt;Jio今年6月已向监管机构提交招股说明书草稿，计划最多发行2.7亿股新股，相当于发行后总股本的约2.93%。此次IPO共有19家银行参与承销，包括Kotak Mahindra Capital、摩根士丹利、美国银行、Axis Capital、法国巴黎银行及花旗集团等。&lt;/p&gt;
 &lt;p&gt;部分券商此前给出的估值也高于此次IPO定价。Motilal Oswal Financial Services今年6月估计，Jio估值约为1150亿至1180亿美元；Dolat Capital的估值约为1100亿美元。&lt;strong&gt;印度股市近期调整，也令市场对多宗IPO的定价预期承压。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;作为信实工业（Reliance Industries）旗下负责电信与数字服务业务的核心子公司，Jio此次IPO的认购情况将检验市场对超大型新股的承接能力，并为印度后续大型IPO的定价提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动</title><link>https://wallstreetcn.com/articles/3783305</link><guid>347efc35808f2f6f4cb0eb9828e3b72766c92dad03f125ca02917d6835d2d22f</guid><pubDate>Fri, 09 Oct 2026 22:26:33 GMT</pubDate><description>&lt;p&gt;美国总统特朗普就对伊朗采取军事行动的时间表发出新的矛盾信号。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周五美国白宫媒体记者会上，当特朗普被问及为何推迟到中选后、而不是立即对伊朗采取行动时，特朗普说“可能”立即行动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此前周四，特朗普刚刚明确表示，美国&amp;quot;不会在中期选举前攻击伊朗&amp;quot;，并称当前与伊朗的谈判&amp;quot;富有成效&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一表态的急转直下，令外界对白宫的政策走向愈发难以把握，也令投资者对中东局势的不确定性保持高度警惕。&lt;/p&gt;
-
-特朗普对伊立场出现前后矛盾
-
-&lt;p&gt;&lt;strong&gt;美国总统特朗普被问及为何不现在就行动、被问及在美国中期选举之前对伊朗采取行动的可能性，称：我们可能会（那样做）。&lt;/strong&gt;这与他此前在Truth Social上发布的声明形成明显落差。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特朗普周五还就胡塞武装袭击沙特机场一事表态，称此举&amp;quot;不是一件好事&amp;quot;，令其感到&amp;quot;不高兴&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783218"&gt;华尔街见闻提及&lt;/a&gt;，据新华社，美国总统特朗普8日在社交媒体发文称，美国同伊朗正在进行“富有成效”的磋商，美国不会在国会中期选举前对伊朗发动攻击。&lt;/p&gt;
-&lt;p&gt;特朗普在声明中同时强调，伊朗在经济和军事上均处于&amp;quot;极度糟糕的状态&amp;quot;，并以大写字母宣示&amp;quot;伊朗不会拥有核武器&amp;quot;。&lt;/p&gt;
-&lt;p&gt;特朗普发帖前，美东时间周三晚间，美国媒体报道称，特朗普正在考虑在中选前对伊朗发动新的打击。相关军事行动可能在美国中期选举前实施，或可能在10月末以色列议会选举前展开。&lt;/p&gt;
-美国对伊朗实施新一轮制裁
-&lt;p&gt;据央视新闻，当地时间10月8日，美国财政部网站发布的消息显示，美国对伊朗实施新一轮制裁，制裁对象包括17艘运输伊朗原油、石油产品及石化产品的船只。&lt;/p&gt;
-&lt;p&gt;美国财政部官员同时表示，美方估计，在美国对伊朗港口实施封锁的范围之外，目前仍有约2000万桶伊朗原油滞留在船只上。&lt;/p&gt;
-&lt;p&gt;有官员表示，由于美国的封锁和制裁，伊朗已经停止原油船只的装载和卸载工作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，霍尔木兹海峡的油流量已大幅下滑。&lt;/strong&gt;据英国《金融时报》报道，霍尔木兹海峡的油流量实际上已大幅下滑，初步数据显示本周二仅有400万桶原油通过，远低于9月下旬每日约1500万桶的周均水平。&lt;/p&gt;
-&lt;p&gt;美国能源信息署数据显示，在美国与以色列于今年2月28日联合发动军事行动之前，2025年第四季度霍尔木兹海峡日均油流量为2160万桶，约占全球石油消费量的五分之一。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;作为信实工业（Reliance Industries）旗下负责电信与数字服务业务的核心子公司，Jio此次IPO的认购情况将检验市场对超大型新股的承接能力，并为印度后续大型IPO的定价提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油</title><link>https://wallstreetcn.com/articles/3783298</link><guid>24d5797846d6e603fd239a4a9575f0701f31110aedf731e483899f1eba9db3d4</guid><pubDate>Fri, 09 Oct 2026 18:50:50 GMT</pubDate><description>&lt;p&gt;美国总统特朗普表示，俄罗斯领导人普京已同意向全球市场投放柴油供应。目前，特朗普政府正致力于遏制这一关键燃料的价格上涨。&lt;/p&gt;
+&lt;p&gt;特朗普周五在Truth Social上发文称：&lt;strong&gt;“我刚刚与俄罗斯总统普京达成了一项极其成功的讨论，双方同意，俄罗斯将立即向美国及全球市场供应超过30万吨柴油，11月期间再供应50万吨，紧接着再供应100万吨。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他补充道：&lt;strong&gt;“根据其柴油炼油厂的状况，俄罗斯将在较短时间内进一步交付300万吨柴油。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国财政部周五表示：“今天，在特朗普总统的指示下，外国资产控制办公室（OFAC）将立即颁发临时通用许可证，允许俄罗斯柴油供应进入全球市场。”&lt;/p&gt;
+&lt;p&gt;根据能源分析公司Vortexa的数据，特朗普声称投放的柴油量相当可观——300万吨相当于2250万桶；而首批释放的225万桶，约占俄罗斯2025年10月柴油出口总量的10%以上。&lt;/p&gt;
+&lt;p&gt;根据美国能源信息署（EIA）的数据，美国上一次从俄罗斯进口柴油是在2022年3月。该消息公布后，柴油期货跌至盘中低点，交易价格接近每加仑4.67美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+政治背景：中期选举临近，能源成本是核心议题。
+&lt;p&gt;特朗普周五声称，投放这些柴油将有助于降低美国农民、农场主和卡车司机的柴油成本——这是11月中期选举前的关键选民群体，而在本届选举中，包括能源在内的生活成本是核心议题。&lt;/p&gt;
+&lt;p&gt;民意调查显示，特朗普的支持率创下新低，选民对其处理经济问题和伊朗战争的方式普遍感到失望。&lt;/p&gt;
+&lt;p&gt;特朗普的这一宣布只是其政府为缓解燃料（尤其是柴油）成本所采取的最新举措。&lt;/p&gt;
+&lt;p&gt;在此之前，特朗普政府已通过释放战略储备和调整燃料税收政策等措施，试图缓解能源价格上涨带来的压力。上周五，&lt;a href="https://wallstreetcn.com/articles/3782940?keyword=%E6%9F%B4%E6%B2%B9"&gt;G7决定释放1亿桶紧急油储，前20天先大规模投放柴油。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本周一，特朗普又签署行政令，允许在2026年12月31日前暂时放宽对红色柴油公路使用的处罚限制，并在法律授权范围内推迟部分柴油消费税缴纳，以降低农民、卡车运输从业者等群体的燃料成本。&lt;/p&gt;
+&lt;p&gt;伊朗冲突目前已进入第八个月。特朗普本周早些时候表示，在中期选举之前他不会再次打击伊朗，并透露与德黑兰的谈判取得了实质成果。&lt;/p&gt;
+&lt;p&gt;尽管由于政府出口禁令导致柴油流向有所下降，但俄罗斯9月份的石油产品出货量仍升至三个月高点。在乌克兰对其炼油厂发动袭击后，莫斯科一直在限制柴油出口，以保障国内供应。&lt;/p&gt;
+&lt;p&gt;国际文传电讯社（Interfax）报道称，官员们正在考虑本月允许部分生产商恢复发货，以避免库存积压。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
