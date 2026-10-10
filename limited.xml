@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 03:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 微软推出高速决策AI模型，速度超GPT-6 Sol达35倍</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 03:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] 微软推出高速决策AI模型，速度超GPT-6 Sol达35倍</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
 &lt;p&gt;周五，微软推出新一代快速决策AI模型&lt;strong&gt;Microsoft-Decision-1，该模型专为结构化决策任务设计。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;微软称，Microsoft-Decision-1的P50已在内部多个场景完成测试，涵盖事故响应、质量控制和科学发现等领域。&lt;strong&gt;运行速度比OpenAI的GPT-6 Sol快35倍，比Quyet-1.0-Large快4.5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -30,33 +30,7 @@
 &lt;p&gt;微软在设计中着重考量了模型的稳定性。&lt;/p&gt;
 &lt;p&gt;测试数据显示，在对同一请求进行八种形式的扰动处理后，Microsoft-Decision-1平均仅有1.3%的概率发生决策翻转，且在选项描述改写或选项顺序颠倒等场景下，翻转率为零。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在安全性方面，微软对该模型进行了涵盖11项基准、共5250条请求的测试，内容涉及有害内容识别、越狱攻击及提示词注入等，称模型在成功拒绝有害请求的同时保持了较高的正常使用效用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Microsoft-Decision-1已通过微软旗下AI开发平台Microsoft Foundry向开发者开放，OpenRouter的接入支持亦在计划之中。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油轮运费创六十年新高：从美国到中国运一船油，比发射火箭还贵！</title><link>https://wallstreetcn.com/articles/3783314</link><guid>ba1d54278cb4dc0ae7b1bd2bd94cfab88cffe4efcb6937d3ad18bc19f710d65c</guid><pubDate>Sat, 10 Oct 2026 02:42:17 GMT</pubDate><description>&lt;p&gt;全球油轮市场正经历一场史无前例的运费风暴。伊朗冲突重塑中东原油贸易格局，叠加船队供给严重短缺，超大型油轮运费已飙升至六十年来最高水平——&lt;strong&gt;将一船原油从美国运往中国的费用高达8000万美元，超过一枚SpaceX猎鹰9号火箭的发射成本&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;据彭博10月9日报道，本周一笔从美国出发的油轮订单，&lt;strong&gt;运费折算后相当于每桶41美元的运输成本，而去年同一航线的均值仅为4.50美元。这一成本约占西德克萨斯中质原油期货价格的45%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;船舶经纪商Gibson指出，&lt;strong&gt;这趟航程的费用约为8000万美元，高于SpaceX猎鹰9号约7400万美元的标准发射报价；而同等金额在今年早些时候还足以直接买下一艘同类油轮。&lt;/strong&gt;船舶经纪商SSY表示，&lt;strong&gt;即便经通胀调整，当前运费已是1960年代超级油轮问世以来的最高水平，超越了1980年代两伊战争期间的&amp;quot;油轮战争&amp;quot;时期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;运费暴涨正向整个能源产业链传导。&lt;/strong&gt;欧洲炼油商Repsol第三季度炼油利润率为每桶36美元，但据RBC分析师估算，10月已收窄至约15美元，部分原因正是高企的油轮成本。全球最大独立石油交易商Vitol集团首席执行官Russell Hardy本周在一场会议上表示，“市场上的运力确实不够用，我们看到了近乎抛物线式的价格走势。”&lt;/p&gt;
-供给缺口：霍尔木兹海峡的连锁反应
-&lt;p&gt;&lt;strong&gt;此轮运费飙升的根源，是一场由伊朗战争引发的结构性运力短缺。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;伊朗战争爆发后，霍尔木兹海峡通行风险骤升，大量船东选择绕道，全球有效运力遭到大幅压缩。随着中东原油出口逐步恢复，据行业高管估计，目前霍尔木兹海峡的石油过境量已回升至战前水平的约80%，但贸易流程远比战前复杂。中东产油国越来越依赖在海上进行&amp;quot;船对船&amp;quot;转运，每次转运往往额外增加约一周的航行时间，进一步拉长了全球船队的周转周期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;贸易流的反复中断加剧了这一困境。&lt;/strong&gt;霍尔木兹通道一度陷入停滞，大量油轮在中东与其他地区之间空载游荡寻找货源；如今随着海湾运输恢复，船只又需重新调配部署，这一过程往往耗时数周。与此同时，伊朗对中国的原油出口实际中断，迫使中国买家转向其他来源，推高了主流市场的油轮需求。此外，伊朗对商船的袭击导致部分船只停航维修，另有一些船只为规避胡塞武装的威胁而绕行非洲，额外增加数千英里航程。&lt;/p&gt;
-&lt;p&gt;船舶经纪商MJLF &amp;amp; Associates商业情报主管Lauren Gallinari表示，“我们此前确实见过极端的运费市场，但这一轮行情的速度、幅度和广度都令人瞩目。”&lt;/p&gt;
-运费数字：每桶运输成本逼近原油价格的一半
-&lt;p&gt;&lt;strong&gt;运费的绝对值已达到令市场难以定价的程度。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博数据，租用一艘超大型原油船（VLCC）将美国原油运往亚洲的费用已升至7700万美元，而2025年全年均值仅为920万美元。Vitol的Hardy表示，运费波动已极为剧烈，交易商甚至难以在数美元的误差范围内估算运输成本。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Clarksons Securities分析师写道，“在几乎没有额外运力可用的情况下，运费越来越取决于租船方能够承受的上限。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此轮行情的波及范围远不止超大型油轮。&lt;/strong&gt;Suezmax油轮的日均收益已跳升至逾68万美元，约为本月初的五倍；运输丙烷等气体的船只运费接近历史纪录，较去年底已翻逾三倍。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783139"&gt;华尔街见闻文章写道&lt;/a&gt;，航运综合指数同样印证了这一行情的广度。据航运界网援引Clarksons数据，ClarkSea指数截至10月2日已连续四周创下历史新高，达到每天75658美元，单月涨幅达73%，年内均值同比上涨66%，较10年均值高出84%。值得注意的是，&lt;strong&gt;此轮行情并非仅由油轮驱动，LNG船、干散货船、集装箱船及汽车船等多个细分市场均同步处于&amp;quot;异常或强劲&amp;quot;水平。&lt;/strong&gt;&lt;/p&gt;
-下游传导：炼油利润承压，通胀风险上升
-&lt;p&gt;&lt;strong&gt;运费暴涨正从中游向下游加速传导，炼油商的利润空间正被快速侵蚀。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Shell本周在一份交易更新中表示，部分第三季度业绩将受到&amp;quot;当前宏观环境下长期航运租约可变成本上升&amp;quot;的影响，这与该公司今年早些时候的类似披露相呼应。&lt;/p&gt;
-&lt;p&gt;对冲基金Svelland Capital创始人Tor Svelland警告称，“市场正在节节攀升，但到了某个临界点，炼油厂很容易选择减产。当运输成本从货物价值的5%升至50%，贸易流动就会停止。”&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783139"&gt;华尔街见闻文章&lt;/a&gt;提及，在政治层面，特朗普政府在中期选举前面临压制通胀的迫切需求，柴油价格上涨正冲击工业和农业部门，美国石油行业已向政府施压，要求推动相关方扩大柴油出口以缓解全球短缺。Morrow亦表示，他认为中国将逐步增加成品油出口，并将其描述为全球炼油短缺问题的“关键枢纽”。&lt;/p&gt;
-&lt;p&gt;目前，市场的核心问题已从“运费还能涨多高”转变为：&lt;strong&gt;在运费持续攀升侵蚀炼油利润之前，全球原油贸易体系究竟还能承受多大的压力。&lt;/strong&gt;&lt;/p&gt;
-资产重估：二手船价格罕见超越新造船
-&lt;p&gt;&lt;strong&gt;运费暴涨正在重塑整个航运资产市场的估值逻辑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据Clarkson Research Services数据，二手油轮市场价格已攀升至每艘2.4亿美元的历史纪录，较去年底高出逾60%。&lt;a href="https://wallstreetcn.com/articles/3783139"&gt;华尔街见闻文章&lt;/a&gt;写道，据船舶经纪商Clarksons数据，一艘船龄15年的VLCC均价约为1.6亿美元，较三个月前上涨44%，已高于1.31亿美元的新造船价格——&lt;strong&gt;这种二手船价格超越新船的现象在行业内极为罕见&lt;/strong&gt;。与此同时，愿意驾船穿越霍尔木兹海峡的船长月薪已高达10万美元，中东航线超级油轮的日租金更一度触及130万美元的历史高位。&lt;/p&gt;
-&lt;p&gt;全球最大上市航运公司的市值已合计突破700亿美元，创下历史新高。伊拉克、阿联酋和科威特等中东产油国近期均已入市购买油轮，试图锁定运力、规避价格波动。西非和南美的货主则开始将原本由超大型油轮承运的货物拆分至两艘较小的Suezmax船上，以应对运力紧张。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机</title><link>https://wallstreetcn.com/articles/3783306</link><guid>a5800ecdf0051125180c9cc85866610265352a9e9a4499eded1d5018f0a64d6f</guid><pubDate>Fri, 09 Oct 2026 22:19:24 GMT</pubDate><description>&lt;p&gt;甲骨文的数据中心建设困局正从工程问题演变为信用风险。摩根士丹利最新报告指出，&lt;strong&gt;工期延误并非带来资本开支喘息空间，而是将巨额债务偿还压力集中压缩至2028年，恰好与多个关键融资节点形成致命叠加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，Microsoft-Decision-1已通过微软旗下AI开发平台Microsoft Foundry向开发者开放，OpenRouter的接入支持亦在计划之中。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机</title><link>https://wallstreetcn.com/articles/3783306</link><guid>a5800ecdf0051125180c9cc85866610265352a9e9a4499eded1d5018f0a64d6f</guid><pubDate>Fri, 09 Oct 2026 22:19:24 GMT</pubDate><description>&lt;p&gt;甲骨文的数据中心建设困局正从工程问题演变为信用风险。摩根士丹利最新报告指出，&lt;strong&gt;工期延误并非带来资本开支喘息空间，而是将巨额债务偿还压力集中压缩至2028年，恰好与多个关键融资节点形成致命叠加。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;摩根士丹利信贷分析师Lindsay Tyler在报告中明确表示，延误&amp;quot;同样意味着变现延迟、概念验证延迟、&lt;strong&gt;营收延迟、现金流延迟&lt;/strong&gt;&amp;quot;。这一判断直指甲骨文的核心投资逻辑——其逾6000亿美元的未来合同收入（RPO）高度依赖AI数据中心如期交付。&lt;/p&gt;
 &lt;p&gt;截至周四收盘，&lt;strong&gt;甲骨文5年期信用违约掉期（CDS）报261个基点，创历史新高，隐含五年内违约概率超过20%，&lt;/strong&gt;而该公司仍持有投资级评级。&lt;/p&gt;
 &lt;p&gt;市场定价已抢先于报告发布作出反应。据彭博，高盛信贷部门上周披露，AI单名CDS成交量同比激增400%，甲骨文位居榜首。其2056年到期债券目前交易于约82美分，收益率超过8.3%；CDS较摩根士丹利一年前建议买入保护时的水平已翻逾一倍。&lt;/p&gt;
@@ -126,7 +100,64 @@
 &lt;p&gt;在信息透明度方面，英伟达已率先做出改进。&lt;/p&gt;
 &lt;p&gt;英伟达上季度调整了现金流量表的列报方式，&lt;strong&gt;将债务类证券与股权类证券在投资活动项下完全分开披露&lt;/strong&gt;（其持有的债务证券均为美国国债或机构债券），使投资者得以自行进行上述调整。&lt;/p&gt;
 &lt;p&gt;相比之下，微软、亚马逊及谷歌母公司Alphabet均将债务投资与股权投资合并列报，令投资者难以进行同类拆分。《华尔街日报》认为，其他公司应效仿英伟达的做法。&lt;/p&gt;
-&lt;p&gt;但即便如此，英伟达的披露改进仍只是起点。&lt;strong&gt;自由现金流的真实面貌远比表面复杂，投资者需要现金流量表提供更高程度的透明度，才能准确评估这家AI时代最重要芯片公司的真实财务状况与回购能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 跟跌不跟涨！白银陷入困境</title><link>https://wallstreetcn.com/articles/3783312</link><guid>3340c9962d4868a20dbf1ad88600395c6d37f075bd3d26d021c26f45c43e8af8</guid><pubDate>Sat, 10 Oct 2026 02:09:28 GMT</pubDate><description>&lt;p&gt;白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。&lt;/p&gt;
+&lt;p&gt;但即便如此，英伟达的披露改进仍只是起点。&lt;strong&gt;自由现金流的真实面貌远比表面复杂，投资者需要现金流量表提供更高程度的透明度，才能准确评估这家AI时代最重要芯片公司的真实财务状况与回购能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油轮运费创六十年新高：从美国到中国运一船油，比发射火箭还贵！</title><link>https://wallstreetcn.com/articles/3783314</link><guid>ba1d54278cb4dc0ae7b1bd2bd94cfab88cffe4efcb6937d3ad18bc19f710d65c</guid><pubDate>Sat, 10 Oct 2026 02:42:17 GMT</pubDate><description>&lt;p&gt;全球油轮市场正经历一场史无前例的运费风暴。伊朗冲突重塑中东原油贸易格局，叠加船队供给严重短缺，超大型油轮运费已飙升至六十年来最高水平——&lt;strong&gt;将一船原油从美国运往中国的费用高达8000万美元，超过一枚SpaceX猎鹰9号火箭的发射成本&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;据彭博10月9日报道，本周一笔从美国出发的油轮订单，&lt;strong&gt;运费折算后相当于每桶41美元的运输成本，而去年同一航线的均值仅为4.50美元。这一成本约占西德克萨斯中质原油期货价格的45%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;船舶经纪商Gibson指出，&lt;strong&gt;这趟航程的费用约为8000万美元，高于SpaceX猎鹰9号约7400万美元的标准发射报价；而同等金额在今年早些时候还足以直接买下一艘同类油轮。&lt;/strong&gt;船舶经纪商SSY表示，&lt;strong&gt;即便经通胀调整，当前运费已是1960年代超级油轮问世以来的最高水平，超越了1980年代两伊战争期间的&amp;quot;油轮战争&amp;quot;时期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;运费暴涨正向整个能源产业链传导。&lt;/strong&gt;欧洲炼油商Repsol第三季度炼油利润率为每桶36美元，但据RBC分析师估算，10月已收窄至约15美元，部分原因正是高企的油轮成本。全球最大独立石油交易商Vitol集团首席执行官Russell Hardy本周在一场会议上表示，“市场上的运力确实不够用，我们看到了近乎抛物线式的价格走势。”&lt;/p&gt;
+供给缺口：霍尔木兹海峡的连锁反应
+&lt;p&gt;&lt;strong&gt;此轮运费飙升的根源，是一场由伊朗战争引发的结构性运力短缺。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;伊朗战争爆发后，霍尔木兹海峡通行风险骤升，大量船东选择绕道，全球有效运力遭到大幅压缩。随着中东原油出口逐步恢复，据行业高管估计，目前霍尔木兹海峡的石油过境量已回升至战前水平的约80%，但贸易流程远比战前复杂。中东产油国越来越依赖在海上进行&amp;quot;船对船&amp;quot;转运，每次转运往往额外增加约一周的航行时间，进一步拉长了全球船队的周转周期。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;贸易流的反复中断加剧了这一困境。&lt;/strong&gt;霍尔木兹通道一度陷入停滞，大量油轮在中东与其他地区之间空载游荡寻找货源；如今随着海湾运输恢复，船只又需重新调配部署，这一过程往往耗时数周。与此同时，伊朗对中国的原油出口实际中断，迫使中国买家转向其他来源，推高了主流市场的油轮需求。此外，伊朗对商船的袭击导致部分船只停航维修，另有一些船只为规避胡塞武装的威胁而绕行非洲，额外增加数千英里航程。&lt;/p&gt;
+&lt;p&gt;船舶经纪商MJLF &amp;amp; Associates商业情报主管Lauren Gallinari表示，“我们此前确实见过极端的运费市场，但这一轮行情的速度、幅度和广度都令人瞩目。”&lt;/p&gt;
+运费数字：每桶运输成本逼近原油价格的一半
+&lt;p&gt;&lt;strong&gt;运费的绝对值已达到令市场难以定价的程度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博数据，租用一艘超大型原油船（VLCC）将美国原油运往亚洲的费用已升至7700万美元，而2025年全年均值仅为920万美元。Vitol的Hardy表示，运费波动已极为剧烈，交易商甚至难以在数美元的误差范围内估算运输成本。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Clarksons Securities分析师写道，“在几乎没有额外运力可用的情况下，运费越来越取决于租船方能够承受的上限。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此轮行情的波及范围远不止超大型油轮。&lt;/strong&gt;Suezmax油轮的日均收益已跳升至逾68万美元，约为本月初的五倍；运输丙烷等气体的船只运费接近历史纪录，较去年底已翻逾三倍。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783139"&gt;华尔街见闻文章写道&lt;/a&gt;，航运综合指数同样印证了这一行情的广度。据航运界网援引Clarksons数据，ClarkSea指数截至10月2日已连续四周创下历史新高，达到每天75658美元，单月涨幅达73%，年内均值同比上涨66%，较10年均值高出84%。值得注意的是，&lt;strong&gt;此轮行情并非仅由油轮驱动，LNG船、干散货船、集装箱船及汽车船等多个细分市场均同步处于&amp;quot;异常或强劲&amp;quot;水平。&lt;/strong&gt;&lt;/p&gt;
+下游传导：炼油利润承压，通胀风险上升
+&lt;p&gt;&lt;strong&gt;运费暴涨正从中游向下游加速传导，炼油商的利润空间正被快速侵蚀。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shell本周在一份交易更新中表示，部分第三季度业绩将受到&amp;quot;当前宏观环境下长期航运租约可变成本上升&amp;quot;的影响，这与该公司今年早些时候的类似披露相呼应。&lt;/p&gt;
+&lt;p&gt;对冲基金Svelland Capital创始人Tor Svelland警告称，“市场正在节节攀升，但到了某个临界点，炼油厂很容易选择减产。当运输成本从货物价值的5%升至50%，贸易流动就会停止。”&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783139"&gt;华尔街见闻文章&lt;/a&gt;提及，在政治层面，特朗普政府在中期选举前面临压制通胀的迫切需求，柴油价格上涨正冲击工业和农业部门，美国石油行业已向政府施压，要求推动相关方扩大柴油出口以缓解全球短缺。Morrow亦表示，他认为中国将逐步增加成品油出口，并将其描述为全球炼油短缺问题的“关键枢纽”。&lt;/p&gt;
+&lt;p&gt;目前，市场的核心问题已从“运费还能涨多高”转变为：&lt;strong&gt;在运费持续攀升侵蚀炼油利润之前，全球原油贸易体系究竟还能承受多大的压力。&lt;/strong&gt;&lt;/p&gt;
+资产重估：二手船价格罕见超越新造船
+&lt;p&gt;&lt;strong&gt;运费暴涨正在重塑整个航运资产市场的估值逻辑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据Clarkson Research Services数据，二手油轮市场价格已攀升至每艘2.4亿美元的历史纪录，较去年底高出逾60%。&lt;a href="https://wallstreetcn.com/articles/3783139"&gt;华尔街见闻文章&lt;/a&gt;写道，据船舶经纪商Clarksons数据，一艘船龄15年的VLCC均价约为1.6亿美元，较三个月前上涨44%，已高于1.31亿美元的新造船价格——&lt;strong&gt;这种二手船价格超越新船的现象在行业内极为罕见&lt;/strong&gt;。与此同时，愿意驾船穿越霍尔木兹海峡的船长月薪已高达10万美元，中东航线超级油轮的日租金更一度触及130万美元的历史高位。&lt;/p&gt;
+&lt;p&gt;全球最大上市航运公司的市值已合计突破700亿美元，创下历史新高。伊拉克、阿联酋和科威特等中东产油国近期均已入市购买油轮，试图锁定运力、规避价格波动。西非和南美的货主则开始将原本由超大型油轮承运的货物拆分至两艘较小的Suezmax船上，以应对运力紧张。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 十年期美债收益率逼近5.4%，AI光环难掩标普500"虚胖"隐忧</title><link>https://wallstreetcn.com/articles/3783317</link><guid>be1dff48494cfb536516c86113a0231f3c4f97ed1a70b4881e031e6d9f08b1a0</guid><pubDate>Sat, 10 Oct 2026 03:54:42 GMT</pubDate><description>&lt;p&gt;美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。&lt;/p&gt;
+&lt;p&gt;标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础——&lt;strong&gt;仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8.5%，逼近技术性回调区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;利率冲击正在向更广泛的资产类别蔓延。&lt;/strong&gt;垃圾债券ETF跌至今年春季关税战引发抛售以来的最低水平附近，美国高收益企业债利差持续走阔，最弱资质借款人发行的债券收益率已高达约15%。纽约证券交易所集团总裁Lynn Martin将近期多宗高知名度IPO的推迟，&lt;strong&gt;直接归因于利率上升&lt;/strong&gt;。&lt;/p&gt;
+指数新高之下，市场广度创历史最差
+&lt;p&gt;&lt;strong&gt;标普500指数本周触及历史新高，但这一纪录的含金量正受到严峻质疑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博数据，在标普500创下历史新高之际，仅约30%的成分股交易于50日均线之上。50日均线是衡量近期市场广度的重要参考指标，该数值越低，意味着指数上涨越依赖少数权重股拉动，整体市场参与度越弱。&lt;/p&gt;
+&lt;p&gt;小盘股的处境更为严峻。利率敏感型的罗素2000指数中，&lt;strong&gt;仅27%的成分股交易于50日均线之上&lt;/strong&gt;，该指数已连续五周下跌，较高点累计跌幅约8.5%，正逼近通常定义为10%的技术性回调门槛。房地产股同样经历了持续的下跌。&lt;/p&gt;
+&lt;p&gt;Ocean Park Asset Management首席投资官James St. Aubin表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;市值加权的标普500指数正在掩盖水面之下大量正在发生的损伤。&lt;/strong&gt;债券市场在美联储尚未出手的情况下，已经实际上收紧了金融条件。风险在于，最初的能源冲击最终可能演变为盈利问题，而股票市场尚未充分消化这一可能性。”&lt;/p&gt;
+&lt;/blockquote&gt;
+利率冲击蔓延全球，借贷成本全面攀升
+&lt;p&gt;&lt;strong&gt;十年期美债收益率本周三一度逼近5.4%，为2002年以来最高水平，利率冲击已超出美国边界向全球扩散。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，布伦特原油价格持续徘徊于每桶100美元上方，加剧了市场对通胀长期高企的担忧。英国借贷成本升至19年高位，法国政府债务压力同步上升。&lt;/p&gt;
+&lt;p&gt;在信用市场，压力信号更为直接。最弱资质借款人发行的债券收益率已高达约15%，对于需要再融资的企业而言，这是一道极为沉重的门槛。美国高收益企业债利差近日持续走阔，垃圾债券ETF已跌至今年春季关税战引发市场抛售以来的最低水平附近。&lt;/p&gt;
+&lt;p&gt;St. Aubin将投资级以下信用利差称为&amp;quot;&lt;strong&gt;真正的恐慌晴雨表&lt;/strong&gt;&amp;quot;，并指出自9月中旬以来利差的持续走阔令人不安。他表示，其公司内部模型已对多项利率敏感型投资发出下行趋势预警，促使团队削减了包括高收益债在内的信用敏感资产敞口。&lt;/p&gt;
+极端情景测算：标普500明年或跌逾20%
+&lt;p&gt;&lt;strong&gt;法国兴业银行策略师对极端情景下的市场走向给出了量化评估，结论不容乐观。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法兴策略师Manish Kabra、Charles de Boissezon和Kawtar Mamouni在近期研报中指出，若十年期美债收益率升至6%、布伦特原油涨至每桶150美元，同时科技巨头现金流持续承压，&lt;strong&gt;标普500明年跌幅可能超过20%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;反之，若收益率回落至4%、油价回落至每桶80美元，并伴随大型科技公司基本面改善，则市场仍有进一步上涨空间。Kabra表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;5%的收益率会造成估值阻力，但6%的收益率将引发信用事件&lt;/strong&gt;，而这更可能发生在私营部门之外、杠杆率最高的资产负债表所在之处。当前所有问题都集中在主权国家的财政稳定性和债务可持续性上。”&lt;/p&gt;
+&lt;/blockquote&gt;
+AI交易并非铁板一块，资金已在悄然撤离
+&lt;p&gt;值得关注的是，&lt;strong&gt;本周四芯片股的大幅下跌表明，即便是AI主题交易也并非无懈可击。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;标普500和纳斯达克100指数本周整体上涨，但周四芯片股的集体下挫显示，市场对AI需求的信心出现动摇。大型指数能否继续抵御压力，在很大程度上取决于油价和债券市场的后续走向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;部分投资者已选择主动撤离。&lt;/strong&gt;管理规模2.7亿美元、今年业绩跑赢标普500的基金经理Jeff Muhlenkamp表示，他已大幅增持能源股，并几乎清空了全部AI相关持仓。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;我很乐意在派对还在进行时就离开，&lt;/strong&gt;&amp;quot;他在谈及AI热潮时说，&amp;quot;融资目前仍然可得。一旦这一条件耗尽，游戏就结束了。&amp;quot;&lt;/p&gt;
+&lt;p&gt;当前，利率冲击促使投资者重新调整投资组合，而非引发全面的风险资产抛售。投资者正在剥离对债券收益率波动和高融资成本敏感的头寸，从投机性信用到货币套利交易均在收缩。但随着利率压力持续积累，这场表面平静之下的结构性分化，正在考验市场的承压极限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 跟跌不跟涨！白银陷入困境</title><link>https://wallstreetcn.com/articles/3783312</link><guid>3340c9962d4868a20dbf1ad88600395c6d37f075bd3d26d021c26f45c43e8af8</guid><pubDate>Sat, 10 Oct 2026 02:09:28 GMT</pubDate><description>&lt;p&gt;白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周五亚市盘中，白银价格一度跌超2%至58.70美元/盎司，而黄金同期仅小幅下跌0.4%至4120美元。&lt;/strong&gt;高盛大宗商品交易台追踪Comex金属资金流向的分析师Robert Quinn在最新报告中以&amp;quot;Silver Futures: Stuck&amp;quot;（白银期货：陷入僵局）为题，直指白银当前困境的核心：&lt;strong&gt;支撑白银上涨的AI与太阳能需求逻辑正在兑现，但市场无动于衷，因为美元和实际利率的上行力量更为强大。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -356,17 +387,4 @@ AI存款流失担忧压制银行股，分析师称抛售过度
 &lt;p&gt;&lt;strong&gt;沙特阿美已于上周末前将东西管道产能恢复至逾80%。&lt;/strong&gt;周一曾有报道称管道沿线一处泵站遭遇新一轮打击并再度停运，导致油价一度跳涨逾1.2%，但随后报道援引知情人士证实管道运营正常，油价涨幅随之收窄。&lt;/p&gt;
 &lt;p&gt;这条管道是沙特关键的跨境输油动脉，日输送能力达700万桶，在伊朗战争期间承担着绕开霍尔木兹海峡风险航线、保障原油持续出口的重要功能。&lt;/p&gt;
 &lt;p&gt;截至上周，扣除西海岸炼油厂的内部供应后，沙特阿美可用于出口的原油日流量约为450万桶。&lt;/p&gt;
-&lt;p&gt;尽管东西管道已恢复正常运营，该地区整体供应风险并未完全消除。近几个月来，也门胡塞武装持续袭击红海航行油轮及沙特西海岸基础设施，给这一重要出口航线带来持续压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比</title><link>https://wallstreetcn.com/articles/3783290</link><guid>2505f07bd95f66fdda7bb22e0093e778892404f927a20dc47d3fdd197042c154</guid><pubDate>Fri, 09 Oct 2026 15:34:46 GMT</pubDate><description>&lt;p&gt;印度史上最大IPO募资纪录有望被刷新。&lt;/p&gt;
-
-
-
-
-
-&lt;p&gt;10月9日，据彭博援引知情人士，印度首富穆克什·安巴尼旗下电信与数字服务公司Jio Platforms已初步确定每股1065至1119卢比的发行价区间，计划于10月21日启动公开认购。知情人士称，公司目标估值最高可达10.3万亿卢比（约合1065亿美元）。&lt;/p&gt;
-&lt;p&gt;据彭博测算，&lt;strong&gt;按发行价区间上限计算，Jio此次IPO募资额约为3020亿卢比（约合31亿美元）。若顺利完成，将超过现代汽车印度公司2024年10月创下的2780亿卢比纪录，成为印度史上募资规模最大的IPO。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，这一估值低于市场早期预期。此前市场流传的估值区间为1300亿至1700亿美元，而此次IPO对应的最高市值约为1070亿美元。知情人士表示，发行价格、估值及时间安排仍可能调整。&lt;/p&gt;
-发行安排逐步明朗，估值低于早期预期
-&lt;p&gt;据报道，Jio计划于10月19日开放基石投资者认购，10月21日至23日进行公开认购，预计10月28日挂牌交易。&lt;/p&gt;
-&lt;p&gt;Jio今年6月已向监管机构提交招股说明书草稿，计划最多发行2.7亿股新股，相当于发行后总股本的约2.93%。此次IPO共有19家银行参与承销，包括Kotak Mahindra Capital、摩根士丹利、美国银行、Axis Capital、法国巴黎银行及花旗集团等。&lt;/p&gt;
-&lt;p&gt;部分券商此前给出的估值也高于此次IPO定价。Motilal Oswal Financial Services今年6月估计，Jio估值约为1150亿至1180亿美元；Dolat Capital的估值约为1100亿美元。&lt;strong&gt;印度股市近期调整，也令市场对多宗IPO的定价预期承压。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;作为信实工业（Reliance Industries）旗下负责电信与数字服务业务的核心子公司，Jio此次IPO的认购情况将检验市场对超大型新股的承接能力，并为印度后续大型IPO的定价提供参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;尽管东西管道已恢复正常运营，该地区整体供应风险并未完全消除。近几个月来，也门胡塞武装持续袭击红海航行油轮及沙特西海岸基础设施，给这一重要出口航线带来持续压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
