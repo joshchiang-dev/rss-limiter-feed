@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 19:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件</title><link>https://wallstreetcn.com/articles/3783341</link><guid>38457e1103ba5839380ba6ef745079caca37220c49e2b29064389c3fecb90c88</guid><pubDate>Sat, 10 Oct 2026 12:13:11 GMT</pubDate><description>&lt;p&gt;10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 20:29:11 GMT</lastBuildDate><item><title>[华尔街见闻] 四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件</title><link>https://wallstreetcn.com/articles/3783341</link><guid>38457e1103ba5839380ba6ef745079caca37220c49e2b29064389c3fecb90c88</guid><pubDate>Sat, 10 Oct 2026 12:13:11 GMT</pubDate><description>&lt;p&gt;10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。&lt;/p&gt;
 &lt;p&gt;征求意见稿明确提出，&lt;strong&gt;禁止配备全隐藏式车门把手&lt;/strong&gt;；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时，&lt;strong&gt;必须保留实体操纵件&lt;/strong&gt;；&lt;strong&gt;折叠显示屏、柔性显示屏被明确禁止&lt;/strong&gt;；行车时不得使用&amp;quot;零重力&amp;quot;座椅、旋转座椅或座椅放倒成床等功能。&lt;/p&gt;
 &lt;p&gt;在时间节点上，&lt;strong&gt;自2027年1月1日起&lt;/strong&gt;，涉及创新设计的新申报车型须提交额外技术参数及验证材料；&lt;strong&gt;已获批车型须在2027年7月1日前&lt;/strong&gt;完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。&lt;/p&gt;
 禁止全隐藏式门把手，关键功能须保留实体操纵件
@@ -26,24 +26,7 @@
 完善汽车产业链后端规范
 &lt;p&gt;在强化前端产品准入的同时，中国四部委发布的《汽车零部件再制造规范管理办法（公开征求意见稿）》进一步规范了报废汽车零部件的循环利用。&lt;/p&gt;
 &lt;p&gt;文件提出，&lt;strong&gt;支持回收拆解企业将报废汽车的“五大总成”（发动机、方向机、变速器、前后桥、车架）交售给通过再制造质量管理体系认证的再制造企业&lt;/strong&gt;。再制造企业收购的种类需与自身业务一致。&lt;/p&gt;
-&lt;p&gt;同时，文件明确设定了回收禁区，&lt;strong&gt;不得回收尾气后处理装置进行再制造&lt;/strong&gt;。对于不具备再制造条件的零部件，必须作为废料交售给冶炼或破碎企业，以确保环保标准与产品质量底线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特斯拉欧洲改称“TAD”，辅助驾驶的边界仍待审批厘清</title><link>https://wallstreetcn.com/articles/3783327</link><guid>e8019553e49bb39c0a66c1b5829e62761c87c69007e90c9a7f5edd585ab1ff8f</guid><pubDate>Sat, 10 Oct 2026 08:23:37 GMT</pubDate><description>&lt;p&gt;特斯拉坚守了十年的“FSD”，在欧洲还是更名了。&lt;/p&gt;
-&lt;p&gt;当地时间10月9日，特斯拉德国、比利时和丹麦官网已将原称“完全自动驾驶（监督版）”的功能改称“Tesla Assisted Driving”（TAD，特斯拉辅助驾驶）。&lt;/p&gt;
-&lt;p&gt;名称换了，车辆并未因此获得在欧盟全境使用该功能的许可。特斯拉官网仍注明，功能只能在取得监管批准的市场启用。&lt;/p&gt;
-&lt;p&gt;这次更名有明确的监管背景。德国联邦交通部10月6日发表声明称，交通部长比尔格9月曾与特斯拉会谈，特斯拉已提出将系统改名。&lt;/p&gt;
-&lt;p&gt;声明同时指出，“Full Self-Driving”容易使人误以为系统能够承担全部驾驶任务；实际上，系统可以辅助加速、制动和转向，驾驶员仍须始终保持注意，并对驾驶负责。比尔格表示将支持继续推进欧洲审批。&lt;/p&gt;
-&lt;p&gt;名称之争涉及驾驶员如何理解功能边界。一套能在城市道路完成转弯、变道等动作的系统，容易让使用者把“持续监督”理解为偶尔接管。&lt;/p&gt;
-&lt;p&gt;荷兰车辆管理局RDW在批准文件中专门说明：车辆并非自动驾驶，驾驶员必须参与驾驶，随时准备控制车辆。将“辅助”写进名称，有助于使产品表述与这一责任划分一致；它本身并不能证明系统已通过所有安全审查。&lt;/p&gt;
-&lt;p&gt;审批路径也解释了为何欧洲各国进度不同。&lt;/p&gt;
-&lt;p&gt;RDW于4月10日给予该系统临时批准，丹麦随后认可了荷兰的批准。按照丹麦交通主管部门的说明，其他成员国可以分别作出认可；要在欧盟全境通用，仍须完成欧盟层面的程序。特斯拉目前列出的已开放欧盟市场包括荷兰、丹麦、比利时等八国，德国不在其中。&lt;/p&gt;
-&lt;p&gt;此前特斯拉称，10月6日可能进行欧盟范围投票；该次技术委员会会议的议程草案仅列出“继续讨论荷兰提出的第39条核准请求”，没有列出表决，也未点名特斯拉。按现有会议安排，12月是下一次可能讨论表决的时间。&lt;/p&gt;
-&lt;p&gt;巴黎车展将提供另一处观察场景。车展官网称，10月12日开幕的展会将设置开放道路试乘项目；小鹏公告显示，参加这一项目的车企只有小鹏与特斯拉，小鹏称这将是其NGP首次在中国以外大规模面向公众试乘。&lt;/p&gt;
-&lt;p&gt;改名之外，德国与特斯拉还讨论了系统速度设置和驾驶责任。德国交通部称，双方就系统相对限速最多高出10%的方案达成理解，驾驶员仍对安全驾驶负责。&lt;/p&gt;
-&lt;p&gt;RDW则指出，欧洲和美国车辆使用的软件版本及功能不能一一对应。这意味着，判断系统能否在欧洲扩大使用，仍需着眼于当地版本及其适用规则。&lt;/p&gt;
-&lt;p&gt;中国市场也需要区分已推送的功能与后续开放的能力。2025年2月，特斯拉向中国车主推送了城市道路辅助驾驶更新；但截至目前，其中国官网的Model Y订购页虽提供“特斯拉辅助驾驶”选装包，仍注明该功能“稍后推出”。&lt;/p&gt;
-&lt;p&gt;对特斯拉而言，更多国家获批意味着辅助驾驶软件有机会覆盖更大的现有车主群体。尤其是在欧洲市场，面对来自中国品牌愈发激烈的攻势，特斯拉亟需FSD建立起自己的技术招牌。&lt;/p&gt;
-&lt;p&gt;对行业而言，这一过程也提供了一个观察窗口，功能持续通过软件更新演进时，车企仍需向用户讲清每个市场实际开放了什么、驾驶员必须做什么，并让监管机构审查相应版本。&lt;/p&gt;
-&lt;p&gt;TAD的名称已经调整，欧盟范围内的使用边界，还要等待审批结果来确定。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代</title><link>https://wallstreetcn.com/articles/3783326</link><guid>397560a7fbe1fa4ad0880db8335f98df0c97b6db459cf9f5e785fa51e55aa30d</guid><pubDate>Sat, 10 Oct 2026 08:35:34 GMT</pubDate><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;同时，文件明确设定了回收禁区，&lt;strong&gt;不得回收尾气后处理装置进行再制造&lt;/strong&gt;。对于不具备再制造条件的零部件，必须作为废料交售给冶炼或破碎企业，以确保环保标准与产品质量底线。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代</title><link>https://wallstreetcn.com/articles/3783326</link><guid>397560a7fbe1fa4ad0880db8335f98df0c97b6db459cf9f5e785fa51e55aa30d</guid><pubDate>Sat, 10 Oct 2026 08:35:34 GMT</pubDate><description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造、内存与能源的物理瓶颈正引发一场史无前例的硬件复兴。&lt;/p&gt;
 &lt;p&gt;10月9日，硅谷创投机构a16z 播出一期深度访谈节目。在对谈中，Playground Global普通合伙人、前英特尔CEO Pat Gelsinger与a16z的Raghu Raghuram、Guido Appenzeller展开了一场跨越芯片设计、存储创新、光互联、能源瓶颈乃至AI代理（Agent）基础设施的深度讨论。这位亲手设计了英特尔386和486处理器、见证了现代EDA行业诞生的芯片老兵，以其数十年的一线经验，为&lt;strong&gt;当前AI硬件浪潮提供了罕见的底层视角。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -494,58 +477,7 @@ AI代理时代的&amp;quot;新VMware&amp;quot;
 &lt;p&gt;太棒了，谢谢。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pat Gelsinger：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;谢谢。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴</title><link>https://wallstreetcn.com/articles/3783324</link><guid>7b4b8a2e5d90041dbc48d42a7360f3c36489fd35a9df562f97d62d3672150f14</guid><pubDate>Sat, 10 Oct 2026 08:27:27 GMT</pubDate><description>&lt;p&gt;2026年前三季度，A股市场在半导体国产替代与AI算力浪潮的双重驱动下走出结构性行情，由此，公募基金业绩榜单（前三季）也随之呈现鲜明的&amp;quot;科技+资源&amp;quot;双主线格局。&lt;/p&gt;
-&lt;p&gt;根据官方公布的净值和收益水平，今年前三季度的主动权益基金中，易方达旗下的&lt;strong&gt;杨宗昌&lt;/strong&gt;、汇安基金&lt;strong&gt;陈思余&lt;/strong&gt;、诺安基金&lt;strong&gt;左少逸&lt;/strong&gt;、财通基金&lt;strong&gt;金梓才&lt;/strong&gt;等发挥较为出色，领涨全市场；&lt;/p&gt;
-&lt;p&gt;被动指数端，半导体材料设备主题ETF霸榜；QDII阵营则上演原油与半导体的&amp;quot;双雄对决&amp;quot;。以下为七大分类基金前三季度业绩全景。&lt;/p&gt;
-&lt;strong&gt;主动权益&lt;/strong&gt;&lt;strong&gt;基金：新名字占据潮头&lt;/strong&gt;
-&lt;p&gt;主动型非货币基金前三季度冠军由杨宗昌管理的&lt;strong&gt;易方达供给改革&lt;/strong&gt;&lt;strong&gt;基金&lt;/strong&gt;超越年中的方正富邦吴昊和财通基金金梓才占得鳌头。&lt;/p&gt;
-&lt;p&gt;亚军也是杨宗昌管理的易&lt;strong&gt;方达产业机遇&lt;/strong&gt;A，业绩增幅达到111.62%，两只产品均由杨宗昌掌舵，凸显其前期重仓半导体产业链，后期又及时调整的精准节奏（根据净值推测）。&lt;/p&gt;
-&lt;p&gt;第三名由陈思余管理的&lt;strong&gt;汇安趋势动力&lt;/strong&gt;A获得，年内收益以96.66%位列第三，该基金一季度（Q1）即领跑同类（第12名），上半年（H1）升至第1，全程保持强势。&lt;/p&gt;
-&lt;p&gt;此外，左少逸管理的&lt;strong&gt;诺安创新驱动A&lt;/strong&gt;（94.83%）从Q1的613名一路飙升至前三季第4名，后程发力显著；&lt;strong&gt;东方人工智能主题A&lt;/strong&gt;（92.68%）、&lt;strong&gt;申万菱信智能驱动A&lt;/strong&gt;（89.38%）等AI主题基金同样表现亮眼。&lt;/p&gt;
-&lt;p&gt;上半年全面业绩领涨的金梓才，继续保持着多点开花的节奏：财通多策略福鑫（85.30%）、财通匠心优选一年持有A（82.79%）、财通景气甄选一年持有A（78.53%）、财通成长优选A（76.91%）四只产品齐入前20，形成&amp;quot;财通科技军团&amp;quot;。&lt;/p&gt;
-&lt;p&gt;附图：主动非货基金前三季排名靠前者&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;股票型基金&lt;/strong&gt;&lt;strong&gt;：医药批量复苏&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;
-&lt;p&gt;股票型基金（主动型）的排名则较为清晰，领跑者就是年内亚军汇安趋势动力A（陈思余管理，年内收益96.66%），不过它的H1收益率高达163.21%，为全市场主动股票型之最，此次虽然排名未动，收益率已然大幅回撤。&lt;/p&gt;
-&lt;p&gt;另外，&lt;strong&gt;卜忠林&lt;/strong&gt;&lt;strong&gt;管理的&lt;/strong&gt;&lt;strong&gt;申万菱信智能驱动&lt;/strong&gt;与&lt;strong&gt;刘力&lt;/strong&gt;&lt;strong&gt;管理的&lt;/strong&gt;&lt;strong&gt;华商改革创新A&lt;/strong&gt;分列二、三位。&lt;/p&gt;
-&lt;p&gt;此后还有王先伟的创金合信专精特新和金梓才的财通集成电路。&lt;/p&gt;
-&lt;p&gt;股票型基金榜单呈现鲜明的双寡头特征，半导体基金与医药基金“共治”天下：&lt;/p&gt;
-&lt;p&gt;半导体方向，除前三名外，&lt;strong&gt;国寿安保数字经济&lt;/strong&gt;（吴坚，62.12%）、&lt;strong&gt;景顺长城全球半导体&lt;/strong&gt;芯片产业（63.78%）、&lt;strong&gt;国富亚洲机会&lt;/strong&gt;A（61.70%）等都是业绩靠前的。&lt;/p&gt;
-&lt;p&gt;医药方向这边 ，&lt;strong&gt;招商前沿医疗保健A&lt;/strong&gt;（李佳存，61.78%）、&lt;strong&gt;招商医药健康产业&lt;/strong&gt;（61.08%）都进入了前20，而且两者的上半年收益率仅10%左右，凸显了其三季度的强势表现。&lt;/p&gt;
-&lt;p&gt;附图：股票型基金前三季排名靠前者&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;混合型基金：&lt;/strong&gt;&lt;strong&gt;科技风景这边读好&lt;/strong&gt;
-&lt;p&gt;主动型混合型基金冠军为易方达产业机遇A（杨宗昌，111.62%），与主动权益冠军同源。另外，东方人工智能主题A（严凯，92.68%）、国泰半导体制造精选A（彭凌志，85.41%）、&lt;strong&gt;银华集成电路&lt;/strong&gt;A（方建，83.88%）分列二至四位、&lt;/p&gt;
-&lt;p&gt;另外，王悦的&lt;strong&gt;民生加银聚优&lt;/strong&gt;（81.98%）、&lt;strong&gt;华商均衡成&lt;/strong&gt;长A（张明昕，74.87%）、&lt;strong&gt;华夏移动互联&lt;/strong&gt;美元现汇（78.95%）、&lt;strong&gt;建信新兴市场&lt;/strong&gt;优选A（74.93%）等基金表现突出&lt;/p&gt;
-&lt;p&gt;与股票基金不同，这边还是半导体主题的基金占据半壁江山。&lt;/p&gt;
-&lt;p&gt;另外，财通系金梓才再度成为最大赢家：财通匠心优选一年持有A（82.79%）、财通景气甄选一年持有A（78.53%）、财通品质甄选A（76.35%）三只产品齐入前十。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;指数型基金：半导体材料霸榜，中韩半导体跨境亮眼&lt;/strong&gt;
-&lt;p&gt;指数型基金前三季度榜单几乎被&lt;strong&gt;半导体材料设备主题ETF&lt;/strong&gt;垄断。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;鹏华科创板半导体材料设备主题ETF&lt;/strong&gt;（林嵩，82.43%）居首，&lt;strong&gt;华夏上证科创板半导体材料设备主题ETF&lt;/strong&gt;（杨斯琪，81.95%）与华泰柏瑞上证科创板半导体材料设备主题ETF（李沐阳，81.78%）紧随其后，三只产品H1收益率均超169%。&lt;/p&gt;
-&lt;p&gt;从排名变动看，鹏华ETF从Q1的574名飙升至半年末和三季末的第1名；华夏ETF从565名升至第2名，后程发力特征显著。&lt;/p&gt;
-&lt;p&gt;跨境指数基金方面，&lt;strong&gt;华泰柏瑞中证韩交所中韩半导体ETF&lt;/strong&gt;（75.25%）表现突出，反映韩国半导体产业链的景气外溢。&lt;/p&gt;
-&lt;p&gt;整体而言，半导体材料设备主题还是2026年前三季度被动投资的最强主线。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;债券型基金：华商系张永志包揽前三，可转债&amp;quot;先抑后扬&amp;quot;&lt;/strong&gt;
-&lt;p&gt;债券型基金冠军为&lt;strong&gt;华商瑞鑫定期开放&lt;/strong&gt;（张永志，26.64%），华商可转债A（26.30%）与&lt;strong&gt;华商稳定增利&lt;/strong&gt;A（18.82%）分列二、三位，华商系张永志一人包揽前三，堪称年内的“债基之王”。&lt;/p&gt;
-&lt;p&gt;值得关注的是&lt;strong&gt;华商可转债&lt;/strong&gt;A的“先抑后扬”：一季度收益为-4.48%（同类排名7654名），H1飙升至40.74%（第3名），前三季累计26.30%，展现出可转债品种在权益市场回暖下的高弹性。&lt;/p&gt;
-&lt;p&gt;此外，&lt;strong&gt;财通收益增强&lt;/strong&gt;A（15.98%）、&lt;strong&gt;易方达丰和&lt;/strong&gt;A（12.39%）、&lt;strong&gt;华商稳健双利&lt;/strong&gt;A（12.18%）等&amp;quot;固收+&amp;quot;产品表现稳健。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;QDII基金&lt;/strong&gt;&lt;strong&gt;：&lt;/strong&gt;&lt;strong&gt;&amp;quot;双雄对决&amp;quot;&lt;/strong&gt;&lt;strong&gt;局面&lt;/strong&gt;
-&lt;p&gt;QDII基金前三季度呈现原油与半导体两大阵营的对决。&lt;/p&gt;
-&lt;p&gt;原油阵营中，&lt;strong&gt;易方达原油&lt;/strong&gt;A美元现汇（殷春涛，86.47%）居首，&lt;strong&gt;南方原油&lt;/strong&gt;A（张其思，80.80%）、易方达原油A人民币（78.66%）、&lt;strong&gt;嘉实原油&lt;/strong&gt;（75.38%）紧随其后。&lt;/p&gt;
-&lt;p&gt;上述基金的Q1收益普遍超59%，到三季度末已经都上周涨到了75%以上，反映国际油价上半年的强势。&lt;/p&gt;
-&lt;p&gt;半导体/科技阵营中，&lt;strong&gt;华夏移动互联美元现汇&lt;/strong&gt;（78.95%）、&lt;strong&gt;华泰柏瑞中证韩交所中韩半导体ETF联接A&lt;/strong&gt;（77.50%）、&lt;strong&gt;建信新兴市场优选A&lt;/strong&gt;（74.93%）、&lt;strong&gt;国富全球科技互联美元现汇A&lt;/strong&gt;（68.80%）表现突出，H1收益率普遍超96%，反映全球半导体与科技互联的景气共振。&lt;/p&gt;
-&lt;p&gt;两大阵营&amp;quot;双雄并立&amp;quot;，成为QDII市场最鲜明的特征。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;FOF基金：易方达系垄断前十，养老目标产品亮眼&lt;/strong&gt;
-&lt;p&gt;FOF基金前三季度榜单几乎被一家公司垄断&lt;strong&gt;：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;易方达优势驱动一年持有A（张浩然，35.58%）居首，易方达优势领航六个月持有A（34.10%）、易方达优势价值一年持有A（33.97%）分列二、三位，易方达优势回报A（26.51%）、易方达优势风华六个月持有（23.04%）亦跻身前五。&lt;/p&gt;
-&lt;p&gt;值得注意的是，&lt;strong&gt;易方达养老目标日期2055五年持有Y&lt;/strong&gt;（19.77%）、&lt;strong&gt;易方达汇裕积极养老目标五年持有Y&lt;/strong&gt;（17.96%）等养老目标产品表现亮眼，反映FOF与养老投资领域的密切关系。&lt;/p&gt;
-&lt;p&gt;非易基金中，&lt;strong&gt;交银智选星光A&lt;/strong&gt;（17.51%）、&lt;strong&gt;汇添富聚焦价值成长三个月持有&lt;/strong&gt;（17.32%）表现相对突出。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;2026年前三季度，公募基金业绩呈现&amp;quot;&lt;strong&gt;科技+资源&lt;/strong&gt;&lt;strong&gt;+医药&lt;/strong&gt;&amp;quot;的新主线格局，这个变化会孕育未来怎样的草蛇灰线，值得后续密切跟踪。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品</title><link>https://wallstreetcn.com/articles/3783333</link><guid>892b1f185bc2e20aa919642df6e78ffeb77e3fe68aa601cf2784f1072ad3050b</guid><pubDate>Sat, 10 Oct 2026 10:01:57 GMT</pubDate><description>&lt;p&gt;8 月 14 日摊余成本法债基重新“开闸”后，中小公募机构的申报热情持续高涨。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品</title><link>https://wallstreetcn.com/articles/3783333</link><guid>892b1f185bc2e20aa919642df6e78ffeb77e3fe68aa601cf2784f1072ad3050b</guid><pubDate>Sat, 10 Oct 2026 10:01:57 GMT</pubDate><description>&lt;p&gt;8 月 14 日摊余成本法债基重新“开闸”后，中小公募机构的申报热情持续高涨。&lt;/p&gt;
 &lt;p&gt;因为 摊余成本法债基确实具备独特的市场热度。&lt;/p&gt;
 &lt;p&gt;同样是买债券，普通债基的净值随债券市价涨跌，市场一波动净值就上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。但产品必须封闭持有到期、中途不能卖出。&lt;/p&gt;
 &lt;p&gt;10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。&lt;/p&gt;
@@ -640,17 +572,4 @@ OpenAI营收数据重击AI叙事
 &lt;p&gt;McElligott的牛市情景建立在&amp;quot;AI资本支出涓滴效应&amp;quot;最终惠及其余493只股票的预期之上——Mag 7对标普500盈利增长的贡献已从15%降至7%，而其余493只股票的贡献则从7%加速至13%再至18%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;但这一逻辑链条的起点，正是AI需求的真实性，而这一前提刚刚遭遇了来自OpenAI自身投资者文件的首次重大冲击。&lt;/p&gt;
-&lt;p&gt;当前，市场相关性处于仅在全球金融危机前夕和Volmageddon出现过的极低水平，认沽偏斜处于第0.4百分位，几乎所有人都在以14倍夏普比率的代价做空左尾风险。McElligott的Swaption宽跨式期权，或许是当前市场上性价比最高的保险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10</title><link>https://wallstreetcn.com/articles/3783323</link><guid>666736449abceef3eecbb35bc000a25c9193b02be27ecebff165286a7d71b03c</guid><pubDate>Sat, 10 Oct 2026 07:39:15 GMT</pubDate><description>&lt;p&gt;花旗在最新报告中提出了一种不同于市场主流预期的判断：法国公共财政风险可能制约欧洲央行进一步收紧货币政策。&lt;strong&gt;如果财政压力持续加剧，欧央行可能在12月加息后暂停行动；若金融压力提前蔓延至欧元区其他国家，暂停加息的时间还可能更早&lt;/strong&gt;。欧元兑美元也可能因此跌破1.10。&lt;/p&gt;
-&lt;p&gt;花旗利率策略师指出，欧央行利率预期与法国、德国国债收益率之差之间的关系已经逆转，反映出市场对进一步收紧货币政策的态度正在发生变化。随着法国财政风险上升，投资者可能越来越担心，进一步加息会加剧金融条件收紧。&lt;/p&gt;
-&lt;p&gt;汇率市场可能率先反映这一变化。花旗外汇策略师认为，如果欧元跌破两年期利差所对应的公允价值，欧元兑美元可能下探1.10。花旗的两年期估值模型显示，若欧元区与美国的两年期利差收窄50至75个基点，即使欧元没有进一步偏离公允价值，汇率也可能降至1.1075至1.1000区间。&lt;/p&gt;
-&lt;p&gt;花旗将&lt;strong&gt;做多美联储利率、做空欧央行利率列为首选交易策略&lt;/strong&gt;，&lt;strong&gt;即押注欧央行利率预期相对美联储进一步下修&lt;/strong&gt;。尽管市场目前几乎已完全消化欧央行12月加息的预期，并计入2027年接近两次加息，但花旗认为，法国财政风险可能促使投资者重新评估欧央行的政策路径，为相关交易留下50至75个基点的调整空间。&lt;/p&gt;
-法国财政风险开始影响欧央行政策预期
-&lt;p&gt;花旗的核心判断是，法国财政风险可能通过金融条件影响欧央行的政策选择。随着法国国债风险溢价上升，欧元区整体融资环境可能趋紧。如果压力进一步波及其他高负债成员国，欧央行继续加息的代价也将随之上升。&lt;/p&gt;
-&lt;p&gt;这意味着，即便通胀压力仍然存在，欧央行也未必会按当前市场预期持续加息。财政风险引发的金融市场波动，可能成为影响其政策路径的重要变量。&lt;/p&gt;
-利差收窄或令欧元跌向1.10
-&lt;p&gt;花旗预计，欧央行相对美联储的利率预期仍有50至75个基点的下修空间。按照其两年期估值模型，如果欧元区与美国的两年期利差收窄50至75个基点，欧元兑美元可能降至1.1075至1.1000区间，即使没有额外的汇率超调。&lt;/p&gt;
-&lt;p&gt;这一判断的关键在于，市场目前仍在为欧央行继续加息定价。如果法国财政风险促使投资者下调对欧央行利率峰值的预期，而美联储的政策预期没有出现同等幅度的变化，欧美利差收窄就可能进一步压低欧元汇率。&lt;/p&gt;
-花旗押注欧央行利率预期相对走低
-&lt;p&gt;花旗首选的交易策略，是做多美联储利率、做空欧央行利率，押注两者之间的利率预期差进一步向有利于美联储的方向变化。&lt;/p&gt;
-&lt;p&gt;花旗认为，即使伊朗局势缓和，这一策略仍有吸引力。地缘局势缓和、大宗商品价格回落，可能支撑法国股市、国债和欧元，从而降低直接做空这些资产的吸引力。但法国财政风险对欧央行政策预期的影响，未必会随能源价格回落而消失。&lt;/p&gt;
-&lt;p&gt;接下来，法国财政风险如何演变，以及欧央行12月会议是否会释放放缓紧缩步伐的信号，将成为检验花旗这一判断的重要观察点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;当前，市场相关性处于仅在全球金融危机前夕和Volmageddon出现过的极低水平，认沽偏斜处于第0.4百分位，几乎所有人都在以14倍夏普比率的代价做空左尾风险。McElligott的Swaption宽跨式期权，或许是当前市场上性价比最高的保险。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
