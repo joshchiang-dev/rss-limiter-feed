@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 06:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] 微软推出高速决策AI模型，速度超GPT-6 Sol达35倍</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 10 Oct 2026 06:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 微软推出高速决策AI模型，速度超GPT-6 Sol达35倍</title><link>https://wallstreetcn.com/articles/3783300</link><guid>5c5de6278674a08fb1a305b87067cc98611e5eda0ebbacf2f920d2ac9e8a4686</guid><pubDate>Fri, 09 Oct 2026 20:08:11 GMT</pubDate><description>&lt;p&gt;微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。&lt;/p&gt;
 &lt;p&gt;周五，微软推出新一代快速决策AI模型&lt;strong&gt;Microsoft-Decision-1，该模型专为结构化决策任务设计。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;微软称，Microsoft-Decision-1的P50已在内部多个场景完成测试，涵盖事故响应、质量控制和科学发现等领域。&lt;strong&gt;运行速度比OpenAI的GPT-6 Sol快35倍，比Quyet-1.0-Large快4.5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -211,38 +211,7 @@
 &lt;p&gt;同期，公司IP授权费增长近48%至3.56亿元，推广及广告费用增长约46%至3.83亿元，均快于收入增速。&lt;/p&gt;
 &lt;p&gt;名创优品曾提出未来十年推动100个IP走向全球的目标。如今，YOYO验证了集中资源培育原创IP的商业潜力，小玉则展示了从社交平台发现新角色的可能。&lt;/p&gt;
 &lt;p&gt;但个别IP的成功，还不足以支撑持续扩张的渠道网络。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对名创系而言最棘手的问题始终是：大店可以按照计划扩张，爆款却无法按照计划制造。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 十年期美债收益率逼近5.4%，AI光环难掩标普500"虚胖"隐忧</title><link>https://wallstreetcn.com/articles/3783317</link><guid>be1dff48494cfb536516c86113a0231f3c4f97ed1a70b4881e031e6d9f08b1a0</guid><pubDate>Sat, 10 Oct 2026 03:54:42 GMT</pubDate><description>&lt;p&gt;美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。&lt;/p&gt;
-&lt;p&gt;标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础——&lt;strong&gt;仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8.5%，逼近技术性回调区间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;利率冲击正在向更广泛的资产类别蔓延。&lt;/strong&gt;垃圾债券ETF跌至今年春季关税战引发抛售以来的最低水平附近，美国高收益企业债利差持续走阔，最弱资质借款人发行的债券收益率已高达约15%。纽约证券交易所集团总裁Lynn Martin将近期多宗高知名度IPO的推迟，&lt;strong&gt;直接归因于利率上升&lt;/strong&gt;。&lt;/p&gt;
-指数新高之下，市场广度创历史最差
-&lt;p&gt;&lt;strong&gt;标普500指数本周触及历史新高，但这一纪录的含金量正受到严峻质疑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博数据，在标普500创下历史新高之际，仅约30%的成分股交易于50日均线之上。50日均线是衡量近期市场广度的重要参考指标，该数值越低，意味着指数上涨越依赖少数权重股拉动，整体市场参与度越弱。&lt;/p&gt;
-&lt;p&gt;小盘股的处境更为严峻。利率敏感型的罗素2000指数中，&lt;strong&gt;仅27%的成分股交易于50日均线之上&lt;/strong&gt;，该指数已连续五周下跌，较高点累计跌幅约8.5%，正逼近通常定义为10%的技术性回调门槛。房地产股同样经历了持续的下跌。&lt;/p&gt;
-&lt;p&gt;Ocean Park Asset Management首席投资官James St. Aubin表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“&lt;strong&gt;市值加权的标普500指数正在掩盖水面之下大量正在发生的损伤。&lt;/strong&gt;债券市场在美联储尚未出手的情况下，已经实际上收紧了金融条件。风险在于，最初的能源冲击最终可能演变为盈利问题，而股票市场尚未充分消化这一可能性。”&lt;/p&gt;
-&lt;/blockquote&gt;
-利率冲击蔓延全球，借贷成本全面攀升
-&lt;p&gt;&lt;strong&gt;十年期美债收益率本周三一度逼近5.4%，为2002年以来最高水平，利率冲击已超出美国边界向全球扩散。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，布伦特原油价格持续徘徊于每桶100美元上方，加剧了市场对通胀长期高企的担忧。英国借贷成本升至19年高位，法国政府债务压力同步上升。&lt;/p&gt;
-&lt;p&gt;在信用市场，压力信号更为直接。最弱资质借款人发行的债券收益率已高达约15%，对于需要再融资的企业而言，这是一道极为沉重的门槛。美国高收益企业债利差近日持续走阔，垃圾债券ETF已跌至今年春季关税战引发市场抛售以来的最低水平附近。&lt;/p&gt;
-&lt;p&gt;St. Aubin将投资级以下信用利差称为&amp;quot;&lt;strong&gt;真正的恐慌晴雨表&lt;/strong&gt;&amp;quot;，并指出自9月中旬以来利差的持续走阔令人不安。他表示，其公司内部模型已对多项利率敏感型投资发出下行趋势预警，促使团队削减了包括高收益债在内的信用敏感资产敞口。&lt;/p&gt;
-极端情景测算：标普500明年或跌逾20%
-&lt;p&gt;&lt;strong&gt;法国兴业银行策略师对极端情景下的市场走向给出了量化评估，结论不容乐观。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;法兴策略师Manish Kabra、Charles de Boissezon和Kawtar Mamouni在近期研报中指出，若十年期美债收益率升至6%、布伦特原油涨至每桶150美元，同时科技巨头现金流持续承压，&lt;strong&gt;标普500明年跌幅可能超过20%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;反之，若收益率回落至4%、油价回落至每桶80美元，并伴随大型科技公司基本面改善，则市场仍有进一步上涨空间。Kabra表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“&lt;strong&gt;5%的收益率会造成估值阻力，但6%的收益率将引发信用事件&lt;/strong&gt;，而这更可能发生在私营部门之外、杠杆率最高的资产负债表所在之处。当前所有问题都集中在主权国家的财政稳定性和债务可持续性上。”&lt;/p&gt;
-&lt;/blockquote&gt;
-AI交易并非铁板一块，资金已在悄然撤离
-&lt;p&gt;值得关注的是，&lt;strong&gt;本周四芯片股的大幅下跌表明，即便是AI主题交易也并非无懈可击。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;标普500和纳斯达克100指数本周整体上涨，但周四芯片股的集体下挫显示，市场对AI需求的信心出现动摇。大型指数能否继续抵御压力，在很大程度上取决于油价和债券市场的后续走向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;部分投资者已选择主动撤离。&lt;/strong&gt;管理规模2.7亿美元、今年业绩跑赢标普500的基金经理Jeff Muhlenkamp表示，他已大幅增持能源股，并几乎清空了全部AI相关持仓。&lt;/p&gt;
-&lt;p&gt;&amp;quot;&lt;strong&gt;我很乐意在派对还在进行时就离开，&lt;/strong&gt;&amp;quot;他在谈及AI热潮时说，&amp;quot;融资目前仍然可得。一旦这一条件耗尽，游戏就结束了。&amp;quot;&lt;/p&gt;
-&lt;p&gt;当前，利率冲击促使投资者重新调整投资组合，而非引发全面的风险资产抛售。投资者正在剥离对债券收益率波动和高融资成本敏感的头寸，从投机性信用到货币套利交易均在收缩。但随着利率压力持续积累，这场表面平静之下的结构性分化，正在考验市场的承压极限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”</title><link>https://wallstreetcn.com/articles/3783254</link><guid>df53dc1da29b8482e51534966a59807b1528b6a9b7a453ef3f0eebfc87750508</guid><pubDate>Fri, 09 Oct 2026 23:05:20 GMT</pubDate><description>&lt;p&gt;围绕人工智能支出的恐慌在24小时内完成反转。OpenAI营收口径之争出现新说法，前一天被这条消息砸下去的芯片与云服务商当天拿到逢低买盘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对名创系而言最棘手的问题始终是：大店可以按照计划扩张，爆款却无法按照计划制造。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”</title><link>https://wallstreetcn.com/articles/3783254</link><guid>df53dc1da29b8482e51534966a59807b1528b6a9b7a453ef3f0eebfc87750508</guid><pubDate>Fri, 09 Oct 2026 23:05:20 GMT</pubDate><description>&lt;p&gt;围绕人工智能支出的恐慌在24小时内完成反转。OpenAI营收口径之争出现新说法，前一天被这条消息砸下去的芯片与云服务商当天拿到逢低买盘。&lt;/p&gt;
 &lt;p&gt;与此同时，特朗普宣布俄罗斯将向全球市场释放柴油供应，盘中冲高的油价随之回落，长端美债收益率继续在24年高位附近徘徊。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;道琼斯工业平均指数涨0.83%收于51654.95点，标普500指数涨0.59%收于7811.54点，纳斯达克综合指数涨0.64%收于27366.17点，标普500与纳斯达克终结两连跌。标普500十一大板块九涨二跌，房地产板块涨1.88%领涨，通信服务板块跌0.40%垫底。&lt;/p&gt;
@@ -295,7 +264,38 @@ SpaceX频谱交易搅局，电信股重挫铁塔股大涨
 &lt;p&gt;本周早些时候金价曾跌至两个月低点，美元走强与收益率上行是主要压制。周五油价回落、逢低买盘进场，纽约时段尾盘现货黄金报每盎司4194.36美元，涨1.50%，全周累计涨约1.3%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;纽约商品交易所12月交割的黄金期货结算价涨1.40%至4216.30美元。现货白银涨2.40%至60.77美元，铂金与钯金同日分别涨3.1%和2.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 跟跌不跟涨！白银陷入困境</title><link>https://wallstreetcn.com/articles/3783312</link><guid>3340c9962d4868a20dbf1ad88600395c6d37f075bd3d26d021c26f45c43e8af8</guid><pubDate>Sat, 10 Oct 2026 02:09:28 GMT</pubDate><description>&lt;p&gt;白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 十年期美债收益率逼近5.4%，AI光环难掩标普500"虚胖"隐忧</title><link>https://wallstreetcn.com/articles/3783317</link><guid>be1dff48494cfb536516c86113a0231f3c4f97ed1a70b4881e031e6d9f08b1a0</guid><pubDate>Sat, 10 Oct 2026 03:54:42 GMT</pubDate><description>&lt;p&gt;美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。&lt;/p&gt;
+&lt;p&gt;标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础——&lt;strong&gt;仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8.5%，逼近技术性回调区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;利率冲击正在向更广泛的资产类别蔓延。&lt;/strong&gt;垃圾债券ETF跌至今年春季关税战引发抛售以来的最低水平附近，美国高收益企业债利差持续走阔，最弱资质借款人发行的债券收益率已高达约15%。纽约证券交易所集团总裁Lynn Martin将近期多宗高知名度IPO的推迟，&lt;strong&gt;直接归因于利率上升&lt;/strong&gt;。&lt;/p&gt;
+指数新高之下，市场广度创历史最差
+&lt;p&gt;&lt;strong&gt;标普500指数本周触及历史新高，但这一纪录的含金量正受到严峻质疑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博数据，在标普500创下历史新高之际，仅约30%的成分股交易于50日均线之上。50日均线是衡量近期市场广度的重要参考指标，该数值越低，意味着指数上涨越依赖少数权重股拉动，整体市场参与度越弱。&lt;/p&gt;
+&lt;p&gt;小盘股的处境更为严峻。利率敏感型的罗素2000指数中，&lt;strong&gt;仅27%的成分股交易于50日均线之上&lt;/strong&gt;，该指数已连续五周下跌，较高点累计跌幅约8.5%，正逼近通常定义为10%的技术性回调门槛。房地产股同样经历了持续的下跌。&lt;/p&gt;
+&lt;p&gt;Ocean Park Asset Management首席投资官James St. Aubin表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;市值加权的标普500指数正在掩盖水面之下大量正在发生的损伤。&lt;/strong&gt;债券市场在美联储尚未出手的情况下，已经实际上收紧了金融条件。风险在于，最初的能源冲击最终可能演变为盈利问题，而股票市场尚未充分消化这一可能性。”&lt;/p&gt;
+&lt;/blockquote&gt;
+利率冲击蔓延全球，借贷成本全面攀升
+&lt;p&gt;&lt;strong&gt;十年期美债收益率本周三一度逼近5.4%，为2002年以来最高水平，利率冲击已超出美国边界向全球扩散。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，布伦特原油价格持续徘徊于每桶100美元上方，加剧了市场对通胀长期高企的担忧。英国借贷成本升至19年高位，法国政府债务压力同步上升。&lt;/p&gt;
+&lt;p&gt;在信用市场，压力信号更为直接。最弱资质借款人发行的债券收益率已高达约15%，对于需要再融资的企业而言，这是一道极为沉重的门槛。美国高收益企业债利差近日持续走阔，垃圾债券ETF已跌至今年春季关税战引发市场抛售以来的最低水平附近。&lt;/p&gt;
+&lt;p&gt;St. Aubin将投资级以下信用利差称为&amp;quot;&lt;strong&gt;真正的恐慌晴雨表&lt;/strong&gt;&amp;quot;，并指出自9月中旬以来利差的持续走阔令人不安。他表示，其公司内部模型已对多项利率敏感型投资发出下行趋势预警，促使团队削减了包括高收益债在内的信用敏感资产敞口。&lt;/p&gt;
+极端情景测算：标普500明年或跌逾20%
+&lt;p&gt;&lt;strong&gt;法国兴业银行策略师对极端情景下的市场走向给出了量化评估，结论不容乐观。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;法兴策略师Manish Kabra、Charles de Boissezon和Kawtar Mamouni在近期研报中指出，若十年期美债收益率升至6%、布伦特原油涨至每桶150美元，同时科技巨头现金流持续承压，&lt;strong&gt;标普500明年跌幅可能超过20%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;反之，若收益率回落至4%、油价回落至每桶80美元，并伴随大型科技公司基本面改善，则市场仍有进一步上涨空间。Kabra表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;5%的收益率会造成估值阻力，但6%的收益率将引发信用事件&lt;/strong&gt;，而这更可能发生在私营部门之外、杠杆率最高的资产负债表所在之处。当前所有问题都集中在主权国家的财政稳定性和债务可持续性上。”&lt;/p&gt;
+&lt;/blockquote&gt;
+AI交易并非铁板一块，资金已在悄然撤离
+&lt;p&gt;值得关注的是，&lt;strong&gt;本周四芯片股的大幅下跌表明，即便是AI主题交易也并非无懈可击。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;标普500和纳斯达克100指数本周整体上涨，但周四芯片股的集体下挫显示，市场对AI需求的信心出现动摇。大型指数能否继续抵御压力，在很大程度上取决于油价和债券市场的后续走向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;部分投资者已选择主动撤离。&lt;/strong&gt;管理规模2.7亿美元、今年业绩跑赢标普500的基金经理Jeff Muhlenkamp表示，他已大幅增持能源股，并几乎清空了全部AI相关持仓。&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;我很乐意在派对还在进行时就离开，&lt;/strong&gt;&amp;quot;他在谈及AI热潮时说，&amp;quot;融资目前仍然可得。一旦这一条件耗尽，游戏就结束了。&amp;quot;&lt;/p&gt;
+&lt;p&gt;当前，利率冲击促使投资者重新调整投资组合，而非引发全面的风险资产抛售。投资者正在剥离对债券收益率波动和高融资成本敏感的头寸，从投机性信用到货币套利交易均在收缩。但随着利率压力持续积累，这场表面平静之下的结构性分化，正在考验市场的承压极限。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 跟跌不跟涨！白银陷入困境</title><link>https://wallstreetcn.com/articles/3783312</link><guid>3340c9962d4868a20dbf1ad88600395c6d37f075bd3d26d021c26f45c43e8af8</guid><pubDate>Sat, 10 Oct 2026 02:09:28 GMT</pubDate><description>&lt;p&gt;白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周五亚市盘中，白银价格一度跌超2%至58.70美元/盎司，而黄金同期仅小幅下跌0.4%至4120美元。&lt;/strong&gt;高盛大宗商品交易台追踪Comex金属资金流向的分析师Robert Quinn在最新报告中以&amp;quot;Silver Futures: Stuck&amp;quot;（白银期货：陷入僵局）为题，直指白银当前困境的核心：&lt;strong&gt;支撑白银上涨的AI与太阳能需求逻辑正在兑现，但市场无动于衷，因为美元和实际利率的上行力量更为强大。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
