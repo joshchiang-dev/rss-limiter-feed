@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 11 Oct 2026 02:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报</title><link>https://wallstreetcn.com/articles/3783242</link><guid>4acf69cd757aa7f42a051ca050e5b93544bd5a8ee3b34b32332267ca3fcf6112</guid><pubDate>Sun, 11 Oct 2026 01:35:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;10月12日 - 10月18日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 11 Oct 2026 03:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 全球原油和成品油库存已经告急！高盛模型测算“油价中的风险溢价逼近历史最高”</title><link>https://wallstreetcn.com/articles/3783356</link><guid>a8bf599269676593846c3b238227c879386a40281653f3ec5755a46a6dfe07b6</guid><pubDate>Sun, 11 Oct 2026 02:49:25 GMT</pubDate><description>&lt;p&gt;全球石油市场的缓冲垫正在消失。七个月的战时消耗之后，全球最大独立石油贸易商的掌门人宣告西方库存已无油可抽，高盛重建定价模型后发现，9月份油价中隐含的风险溢价高达每桶22美元，为有记录以来第二高水平。&lt;/p&gt;
+&lt;p&gt;Vitol首席执行官Russell Hardy本周在伦敦能源情报论坛上表示，&lt;strong&gt;&amp;quot;西方已经没有更多库存可以消耗&amp;quot;，并警告若霍尔木兹海峡航运中断，油价存在冲至每桶200美元的情景。&lt;/strong&gt;与此同时，高盛大宗商品团队在最新报告中承认，其沿用多年的布伦特原油定价模型今年已经&amp;quot;失灵&amp;quot;，原因在于此前模型仅追踪经合组织（OECD）商业库存，而本轮库存消耗的近60%发生在非OECD国家。&lt;/p&gt;
+&lt;p&gt;高盛在重建模型、&lt;strong&gt;纳入全球非OECD库存数据后发现，9月份油价中的风险溢价达到每桶22美元，仅次于今年4月创下的历史峰值，远超2022年俄乌冲突期间不超过每桶16美元的峰值水平。&lt;/strong&gt;这一数字意味着，&lt;strong&gt;市场正在为一个几乎没有任何缓冲的供应体系支付接近历史最高的&amp;quot;恐慌溢价&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+行业高管齐声示警：库存缓冲已近极限
+&lt;p&gt;本周，&lt;strong&gt;全球石油行业最具话语权的高管们在伦敦集体发出警告，措辞之严峻前所未有。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Russell Hardy表示，为维持冬季供需平衡，全球每天需要通过霍尔木兹海峡航线输出约1000万至1400万桶原油。目前，在美国海军为霍尔木兹穿梭油轮开辟航线后，每日约有1200万桶原油和200万桶成品油得以通过，市场勉强维持平衡——但前提是不再出现任何新的意外。&lt;/p&gt;
+&lt;p&gt;Hardy将本轮危机概括为三个阶段：&amp;quot;我们以原油危机开局，随后演变为成品油危机，现在中东原油供应有所恢复，但又演变成了航运危机。&amp;quot;据报道，油轮租船费率已呈&amp;quot;近乎抛物线式&amp;quot;上涨，北海货物上周成交价格达到每桶145美元，欧洲炼油利润率已转为负值。&lt;/p&gt;
+&lt;p&gt;壳牌首席执行官Wael Sawan表示，&amp;quot;这些减震器能够承受的冲击是有限度的……你不可能无限期地这样下去，而不出现进一步的断裂。&amp;quot;沙特阿美总裁Amin Nasser则警告，&amp;quot;紧急储备或许能撑过一个冬天，但无法解决长期供应问题。&amp;quot;&lt;/p&gt;
+660亿桶已消失：库存消耗的真实规模
+&lt;p&gt;能源分析师John Kemp在最新报告中直言，&lt;strong&gt;&amp;quot;全球原油和成品油库存已降至系统对进一步冲击几乎没有抵御能力的水平。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据美国能源信息署（EIA）10月短期能源展望数据，自今年3月以来，全球库存已累计消耗约6.6亿桶，其中近60%来自非OECD国家的储罐。这一数字与高盛自身追踪的可见库存数据相互印证——高盛数据显示，截至8月，自3月1日以来的累计消耗已达5.09亿桶。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美国战略石油储备（SPR）的情况同样严峻。据EIA最新数据，SPR本周再度减少78.4万桶，降至2.83亿桶，距1982年建库以来的历史最低点仅剩1300万桶。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在此背景下，多国上周宣布将额外释放1亿桶紧急储备，叠加此前已宣布的4亿桶。然而，据摩根大通首席石油策略师Natasha Kaneva解读，&amp;quot;此次公告中的1亿桶并不代表1亿桶新的干预……这意味着周五公告的很大一部分是此前IEA释放计划的延续，而非新注入的桶数。&amp;quot;换言之，所谓&amp;quot;新援军&amp;quot;不过是同一批援军被要求跑得更快。&lt;/p&gt;
+高盛模型&amp;quot;失灵&amp;quot;：被忽视的非OECD库存
+&lt;p&gt;高盛在报告中坦承，其依赖数十年的布伦特原油定价模型今年出现了根本性偏差。&lt;/p&gt;
+&lt;p&gt;在1998年以来的历史样本中，OECD商业库存能够解释布伦特原油1个月/36个月期限价差&amp;quot;超过60%的变动&amp;quot;。然而，今年这一关系彻底崩溃：&amp;quot;今年以来，期限价差上涨了每桶30美元，而OECD商业库存几乎没有变化。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;原因在于，本轮库存消耗主要发生在OECD视野之外。波斯湾出口（包括&amp;quot;暗流&amp;quot;桶）已恢复至2025年均值水平或以上，&lt;strong&gt;&amp;quot;但布伦特现货价格依然维持在三位数&amp;quot;，因为全球可见库存已接近2017年以来的历史最低水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛随后将模型扩展至纳入&amp;quot;OECD商业储存以外的全球陆上石油库存&amp;quot;。新模型对期限价差的拟合度明显改善，但仍留有较大缺口——这一缺口正是风险溢价的来源。&lt;/p&gt;
+&lt;p&gt;高盛同时指出，OECD桶与非OECD桶的边际定价权重并不相同：&amp;quot;OECD商业库存每下降1亿桶（降幅约3.5%），布伦特公允价值上升约每桶8美元；而其他可见全球陆上库存等量下降，仅推升约每桶2美元。&amp;quot;原因在于，布伦特和WTI基准合约的实物交割地均位于OECD，市场为其所能看见、所在之处的桶定价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+每桶22美元风险溢价：史上第二高
+&lt;p&gt;在纳入非OECD库存后，高盛模型所剩余的&amp;quot;无法解释部分&amp;quot;即为风险溢价。&lt;/p&gt;
+&lt;p&gt;高盛报告显示，&amp;quot;更新后的模型显示，&lt;strong&gt;9月份平均风险溢价为每桶22美元——为有记录以来第二高月度读数，仅次于2026年4月。若仅使用OECD商业库存，风险溢价估算将高达每桶29美元，&lt;/strong&gt;但这一方法无法捕捉OECD以外的实物市场紧张程度。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;作为参照，2022年俄乌冲突后的月度风险溢价峰值&amp;quot;未超过每桶16美元&amp;quot;。高盛指出，这凸显了&amp;quot;今年石油供应冲击的史无前例程度&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛将当前高风险溢价归因于三大驱动因素：其一，供应中断恐惧，溢价与布伦特看涨期权偏斜度及地缘政治风险指数高度相关（相关系数0.5）；其二，投机性多头仓位，&amp;quot;纸桶&amp;quot;今年持续推高价格（相关系数0.6）；其三，宏观组合对冲需求——石油供应冲击通过推升通胀和美债收益率，使原油成为股票和债券组合的对冲工具。本周10年期美债收益率已升至5.3%以上，布伦特与10年期美债的相关性接近25年来高位，而油价与股市的相关性则大幅下滑。&lt;/p&gt;
+多重冲击叠加，缓冲归零
+&lt;p&gt;过去一周，市场在毫无缓冲的情况下遭遇了几乎所有类型的供应冲击。&lt;/p&gt;
+&lt;p&gt;霍尔木兹方向，一艘油轮在卡塔尔附近海域遭到袭击；伊朗伊斯兰革命卫队（IRGC）袭击了一艘液化石油气油轮，并警告将对&amp;quot;在霍尔木兹海峡以外实施违规行为&amp;quot;的船只予以惩处；沙特媒体报道胡塞武装已在曼德海峡布雷；阿联酋则宣布在波斯湾救援了一艘起火油轮上的22名船员。&lt;/p&gt;
+&lt;p&gt;墨西哥湾方向，飓风Isaias导致美国墨西哥湾63%的石油产量被迫关停，登陆佛罗里达州，主要炼油厂险遭波及。&lt;/p&gt;
+&lt;p&gt;俄罗斯方向，特朗普宣布普京同意向全球市场释放部分柴油，但数小时后，乌克兰无人机据报击中了俄罗斯一处主要燃料出口枢纽。&lt;/p&gt;
+&lt;p&gt;华盛顿方向，特朗普表示中期选举前不会对伊朗动武，消息一度压低油价；但德黑兰随即继续袭击油轮，所谓&amp;quot;明确的外交解决&amp;quot;前景依然渺茫。&lt;/p&gt;
+&lt;p&gt;正如Jefferies所总结的：&amp;quot;现在任何一次小规模中断，都会产生超乎寻常的价格后果。&amp;quot;&lt;/p&gt;
+高盛基准预测与上行风险
+&lt;p&gt;高盛在报告中维持其基准情景，即风险溢价将&amp;quot;逐步回归历史均值零&amp;quot;，并指出中东供应在&amp;quot;持续适应性&amp;quot;下持续超预期。但报告同时明确警告，若地缘政治局势持续，溢价&amp;quot;可能在明确外交解决出现之前维持高位&amp;quot;，并指出&amp;quot;若地缘政治使风险溢价长期维持高位，我们的价格预测存在上行风险&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛上月已上调布伦特原油预测，若霍尔木兹中断延续至2027年，布伦特最高可能触及每桶120美元。而Vitol的Russell Hardy给出的极端情景更为直接：&lt;strong&gt;一旦霍尔木兹穿梭航运再度停摆，每桶200美元并非尾部风险，而是现实选项。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报</title><link>https://wallstreetcn.com/articles/3783242</link><guid>4acf69cd757aa7f42a051ca050e5b93544bd5a8ee3b34b32332267ca3fcf6112</guid><pubDate>Sun, 11 Oct 2026 01:35:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;10月12日 - 10月18日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首先关注IMF年会、沃什压轴讲话。&lt;/strong&gt;&lt;strong&gt;IMF与世界银行年会&lt;/strong&gt;横跨整周，全球增长、通胀、利率与政府债务是核心议题；IMF同期发布《世界经济展望》与《全球金融稳定报告》&lt;strong&gt;，G20财长与央行行长会议一并召开&lt;/strong&gt;。出席阵容包括英国、欧洲、加拿大、韩国等央行行长。&lt;strong&gt;美联储主席沃什&lt;/strong&gt;在会议尾声发表讲话。&lt;/p&gt;
