@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 11 Oct 2026 03:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 全球原油和成品油库存已经告急！高盛模型测算“油价中的风险溢价逼近历史最高”</title><link>https://wallstreetcn.com/articles/3783356</link><guid>a8bf599269676593846c3b238227c879386a40281653f3ec5755a46a6dfe07b6</guid><pubDate>Sun, 11 Oct 2026 02:49:25 GMT</pubDate><description>&lt;p&gt;全球石油市场的缓冲垫正在消失。七个月的战时消耗之后，全球最大独立石油贸易商的掌门人宣告西方库存已无油可抽，高盛重建定价模型后发现，9月份油价中隐含的风险溢价高达每桶22美元，为有记录以来第二高水平。&lt;/p&gt;
-&lt;p&gt;Vitol首席执行官Russell Hardy本周在伦敦能源情报论坛上表示，&lt;strong&gt;&amp;quot;西方已经没有更多库存可以消耗&amp;quot;，并警告若霍尔木兹海峡航运中断，油价存在冲至每桶200美元的情景。&lt;/strong&gt;与此同时，高盛大宗商品团队在最新报告中承认，其沿用多年的布伦特原油定价模型今年已经&amp;quot;失灵&amp;quot;，原因在于此前模型仅追踪经合组织（OECD）商业库存，而本轮库存消耗的近60%发生在非OECD国家。&lt;/p&gt;
-&lt;p&gt;高盛在重建模型、&lt;strong&gt;纳入全球非OECD库存数据后发现，9月份油价中的风险溢价达到每桶22美元，仅次于今年4月创下的历史峰值，远超2022年俄乌冲突期间不超过每桶16美元的峰值水平。&lt;/strong&gt;这一数字意味着，&lt;strong&gt;市场正在为一个几乎没有任何缓冲的供应体系支付接近历史最高的&amp;quot;恐慌溢价&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-行业高管齐声示警：库存缓冲已近极限
-&lt;p&gt;本周，&lt;strong&gt;全球石油行业最具话语权的高管们在伦敦集体发出警告，措辞之严峻前所未有。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Russell Hardy表示，为维持冬季供需平衡，全球每天需要通过霍尔木兹海峡航线输出约1000万至1400万桶原油。目前，在美国海军为霍尔木兹穿梭油轮开辟航线后，每日约有1200万桶原油和200万桶成品油得以通过，市场勉强维持平衡——但前提是不再出现任何新的意外。&lt;/p&gt;
-&lt;p&gt;Hardy将本轮危机概括为三个阶段：&amp;quot;我们以原油危机开局，随后演变为成品油危机，现在中东原油供应有所恢复，但又演变成了航运危机。&amp;quot;据报道，油轮租船费率已呈&amp;quot;近乎抛物线式&amp;quot;上涨，北海货物上周成交价格达到每桶145美元，欧洲炼油利润率已转为负值。&lt;/p&gt;
-&lt;p&gt;壳牌首席执行官Wael Sawan表示，&amp;quot;这些减震器能够承受的冲击是有限度的……你不可能无限期地这样下去，而不出现进一步的断裂。&amp;quot;沙特阿美总裁Amin Nasser则警告，&amp;quot;紧急储备或许能撑过一个冬天，但无法解决长期供应问题。&amp;quot;&lt;/p&gt;
-660亿桶已消失：库存消耗的真实规模
-&lt;p&gt;能源分析师John Kemp在最新报告中直言，&lt;strong&gt;&amp;quot;全球原油和成品油库存已降至系统对进一步冲击几乎没有抵御能力的水平。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;根据美国能源信息署（EIA）10月短期能源展望数据，自今年3月以来，全球库存已累计消耗约6.6亿桶，其中近60%来自非OECD国家的储罐。这一数字与高盛自身追踪的可见库存数据相互印证——高盛数据显示，截至8月，自3月1日以来的累计消耗已达5.09亿桶。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美国战略石油储备（SPR）的情况同样严峻。据EIA最新数据，SPR本周再度减少78.4万桶，降至2.83亿桶，距1982年建库以来的历史最低点仅剩1300万桶。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在此背景下，多国上周宣布将额外释放1亿桶紧急储备，叠加此前已宣布的4亿桶。然而，据摩根大通首席石油策略师Natasha Kaneva解读，&amp;quot;此次公告中的1亿桶并不代表1亿桶新的干预……这意味着周五公告的很大一部分是此前IEA释放计划的延续，而非新注入的桶数。&amp;quot;换言之，所谓&amp;quot;新援军&amp;quot;不过是同一批援军被要求跑得更快。&lt;/p&gt;
-高盛模型&amp;quot;失灵&amp;quot;：被忽视的非OECD库存
-&lt;p&gt;高盛在报告中坦承，其依赖数十年的布伦特原油定价模型今年出现了根本性偏差。&lt;/p&gt;
-&lt;p&gt;在1998年以来的历史样本中，OECD商业库存能够解释布伦特原油1个月/36个月期限价差&amp;quot;超过60%的变动&amp;quot;。然而，今年这一关系彻底崩溃：&amp;quot;今年以来，期限价差上涨了每桶30美元，而OECD商业库存几乎没有变化。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;原因在于，本轮库存消耗主要发生在OECD视野之外。波斯湾出口（包括&amp;quot;暗流&amp;quot;桶）已恢复至2025年均值水平或以上，&lt;strong&gt;&amp;quot;但布伦特现货价格依然维持在三位数&amp;quot;，因为全球可见库存已接近2017年以来的历史最低水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛随后将模型扩展至纳入&amp;quot;OECD商业储存以外的全球陆上石油库存&amp;quot;。新模型对期限价差的拟合度明显改善，但仍留有较大缺口——这一缺口正是风险溢价的来源。&lt;/p&gt;
-&lt;p&gt;高盛同时指出，OECD桶与非OECD桶的边际定价权重并不相同：&amp;quot;OECD商业库存每下降1亿桶（降幅约3.5%），布伦特公允价值上升约每桶8美元；而其他可见全球陆上库存等量下降，仅推升约每桶2美元。&amp;quot;原因在于，布伦特和WTI基准合约的实物交割地均位于OECD，市场为其所能看见、所在之处的桶定价。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-每桶22美元风险溢价：史上第二高
-&lt;p&gt;在纳入非OECD库存后，高盛模型所剩余的&amp;quot;无法解释部分&amp;quot;即为风险溢价。&lt;/p&gt;
-&lt;p&gt;高盛报告显示，&amp;quot;更新后的模型显示，&lt;strong&gt;9月份平均风险溢价为每桶22美元——为有记录以来第二高月度读数，仅次于2026年4月。若仅使用OECD商业库存，风险溢价估算将高达每桶29美元，&lt;/strong&gt;但这一方法无法捕捉OECD以外的实物市场紧张程度。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;作为参照，2022年俄乌冲突后的月度风险溢价峰值&amp;quot;未超过每桶16美元&amp;quot;。高盛指出，这凸显了&amp;quot;今年石油供应冲击的史无前例程度&amp;quot;。&lt;/p&gt;
-&lt;p&gt;高盛将当前高风险溢价归因于三大驱动因素：其一，供应中断恐惧，溢价与布伦特看涨期权偏斜度及地缘政治风险指数高度相关（相关系数0.5）；其二，投机性多头仓位，&amp;quot;纸桶&amp;quot;今年持续推高价格（相关系数0.6）；其三，宏观组合对冲需求——石油供应冲击通过推升通胀和美债收益率，使原油成为股票和债券组合的对冲工具。本周10年期美债收益率已升至5.3%以上，布伦特与10年期美债的相关性接近25年来高位，而油价与股市的相关性则大幅下滑。&lt;/p&gt;
-多重冲击叠加，缓冲归零
-&lt;p&gt;过去一周，市场在毫无缓冲的情况下遭遇了几乎所有类型的供应冲击。&lt;/p&gt;
-&lt;p&gt;霍尔木兹方向，一艘油轮在卡塔尔附近海域遭到袭击；伊朗伊斯兰革命卫队（IRGC）袭击了一艘液化石油气油轮，并警告将对&amp;quot;在霍尔木兹海峡以外实施违规行为&amp;quot;的船只予以惩处；沙特媒体报道胡塞武装已在曼德海峡布雷；阿联酋则宣布在波斯湾救援了一艘起火油轮上的22名船员。&lt;/p&gt;
-&lt;p&gt;墨西哥湾方向，飓风Isaias导致美国墨西哥湾63%的石油产量被迫关停，登陆佛罗里达州，主要炼油厂险遭波及。&lt;/p&gt;
-&lt;p&gt;俄罗斯方向，特朗普宣布普京同意向全球市场释放部分柴油，但数小时后，乌克兰无人机据报击中了俄罗斯一处主要燃料出口枢纽。&lt;/p&gt;
-&lt;p&gt;华盛顿方向，特朗普表示中期选举前不会对伊朗动武，消息一度压低油价；但德黑兰随即继续袭击油轮，所谓&amp;quot;明确的外交解决&amp;quot;前景依然渺茫。&lt;/p&gt;
-&lt;p&gt;正如Jefferies所总结的：&amp;quot;现在任何一次小规模中断，都会产生超乎寻常的价格后果。&amp;quot;&lt;/p&gt;
-高盛基准预测与上行风险
-&lt;p&gt;高盛在报告中维持其基准情景，即风险溢价将&amp;quot;逐步回归历史均值零&amp;quot;，并指出中东供应在&amp;quot;持续适应性&amp;quot;下持续超预期。但报告同时明确警告，若地缘政治局势持续，溢价&amp;quot;可能在明确外交解决出现之前维持高位&amp;quot;，并指出&amp;quot;若地缘政治使风险溢价长期维持高位，我们的价格预测存在上行风险&amp;quot;。&lt;/p&gt;
-&lt;p&gt;高盛上月已上调布伦特原油预测，若霍尔木兹中断延续至2027年，布伦特最高可能触及每桶120美元。而Vitol的Russell Hardy给出的极端情景更为直接：&lt;strong&gt;一旦霍尔木兹穿梭航运再度停摆，每桶200美元并非尾部风险，而是现实选项。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报</title><link>https://wallstreetcn.com/articles/3783242</link><guid>4acf69cd757aa7f42a051ca050e5b93544bd5a8ee3b34b32332267ca3fcf6112</guid><pubDate>Sun, 11 Oct 2026 01:35:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;10月12日 - 10月18日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 11 Oct 2026 04:29:26 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报</title><link>https://wallstreetcn.com/articles/3783242</link><guid>4acf69cd757aa7f42a051ca050e5b93544bd5a8ee3b34b32332267ca3fcf6112</guid><pubDate>Sun, 11 Oct 2026 01:35:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;10月12日 - 10月18日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首先关注IMF年会、沃什压轴讲话。&lt;/strong&gt;&lt;strong&gt;IMF与世界银行年会&lt;/strong&gt;横跨整周，全球增长、通胀、利率与政府债务是核心议题；IMF同期发布《世界经济展望》与《全球金融稳定报告》&lt;strong&gt;，G20财长与央行行长会议一并召开&lt;/strong&gt;。出席阵容包括英国、欧洲、加拿大、韩国等央行行长。&lt;strong&gt;美联储主席沃什&lt;/strong&gt;在会议尾声发表讲话。&lt;/p&gt;
@@ -218,7 +178,47 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;10月23日&lt;/strong&gt;　平安银行、亿纬锂能；西部数据　&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普要求乌克兰不能打俄炼油厂，“泽连斯基最好立刻停手，乌克兰该换个新总统”</title><link>https://wallstreetcn.com/articles/3783348</link><guid>ecda75ac2ca6b0140d778b4b239f3d55d9709d067ecd7a6f1b12025d3f7bbd5a</guid><pubDate>Sun, 11 Oct 2026 01:37:39 GMT</pubDate><description>&lt;p&gt;美俄达成柴油协议，特朗普公开向泽连斯基施压，乌克兰转而寻求欧洲支持。&lt;/p&gt;
+&lt;/ul&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球原油和成品油库存已经告急！高盛模型测算“油价中的风险溢价逼近历史最高”</title><link>https://wallstreetcn.com/articles/3783356</link><guid>a8bf599269676593846c3b238227c879386a40281653f3ec5755a46a6dfe07b6</guid><pubDate>Sun, 11 Oct 2026 02:49:25 GMT</pubDate><description>&lt;p&gt;全球石油市场的缓冲垫正在消失。七个月的战时消耗之后，全球最大独立石油贸易商的掌门人宣告西方库存已无油可抽，高盛重建定价模型后发现，9月份油价中隐含的风险溢价高达每桶22美元，为有记录以来第二高水平。&lt;/p&gt;
+&lt;p&gt;Vitol首席执行官Russell Hardy本周在伦敦能源情报论坛上表示，&lt;strong&gt;&amp;quot;西方已经没有更多库存可以消耗&amp;quot;，并警告若霍尔木兹海峡航运中断，油价存在冲至每桶200美元的情景。&lt;/strong&gt;与此同时，高盛大宗商品团队在最新报告中承认，其沿用多年的布伦特原油定价模型今年已经&amp;quot;失灵&amp;quot;，原因在于此前模型仅追踪经合组织（OECD）商业库存，而本轮库存消耗的近60%发生在非OECD国家。&lt;/p&gt;
+&lt;p&gt;高盛在重建模型、&lt;strong&gt;纳入全球非OECD库存数据后发现，9月份油价中的风险溢价达到每桶22美元，仅次于今年4月创下的历史峰值，远超2022年俄乌冲突期间不超过每桶16美元的峰值水平。&lt;/strong&gt;这一数字意味着，&lt;strong&gt;市场正在为一个几乎没有任何缓冲的供应体系支付接近历史最高的&amp;quot;恐慌溢价&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+行业高管齐声示警：库存缓冲已近极限
+&lt;p&gt;本周，&lt;strong&gt;全球石油行业最具话语权的高管们在伦敦集体发出警告，措辞之严峻前所未有。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Russell Hardy表示，为维持冬季供需平衡，全球每天需要通过霍尔木兹海峡航线输出约1000万至1400万桶原油。目前，在美国海军为霍尔木兹穿梭油轮开辟航线后，每日约有1200万桶原油和200万桶成品油得以通过，市场勉强维持平衡——但前提是不再出现任何新的意外。&lt;/p&gt;
+&lt;p&gt;Hardy将本轮危机概括为三个阶段：&amp;quot;我们以原油危机开局，随后演变为成品油危机，现在中东原油供应有所恢复，但又演变成了航运危机。&amp;quot;据报道，油轮租船费率已呈&amp;quot;近乎抛物线式&amp;quot;上涨，北海货物上周成交价格达到每桶145美元，欧洲炼油利润率已转为负值。&lt;/p&gt;
+&lt;p&gt;壳牌首席执行官Wael Sawan表示，&amp;quot;这些减震器能够承受的冲击是有限度的……你不可能无限期地这样下去，而不出现进一步的断裂。&amp;quot;沙特阿美总裁Amin Nasser则警告，&amp;quot;紧急储备或许能撑过一个冬天，但无法解决长期供应问题。&amp;quot;&lt;/p&gt;
+660亿桶已消失：库存消耗的真实规模
+&lt;p&gt;能源分析师John Kemp在最新报告中直言，&lt;strong&gt;&amp;quot;全球原油和成品油库存已降至系统对进一步冲击几乎没有抵御能力的水平。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据美国能源信息署（EIA）10月短期能源展望数据，自今年3月以来，全球库存已累计消耗约6.6亿桶，其中近60%来自非OECD国家的储罐。这一数字与高盛自身追踪的可见库存数据相互印证——高盛数据显示，截至8月，自3月1日以来的累计消耗已达5.09亿桶。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美国战略石油储备（SPR）的情况同样严峻。据EIA最新数据，SPR本周再度减少78.4万桶，降至2.83亿桶，距1982年建库以来的历史最低点仅剩1300万桶。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在此背景下，多国上周宣布将额外释放1亿桶紧急储备，叠加此前已宣布的4亿桶。然而，据摩根大通首席石油策略师Natasha Kaneva解读，&amp;quot;此次公告中的1亿桶并不代表1亿桶新的干预……这意味着周五公告的很大一部分是此前IEA释放计划的延续，而非新注入的桶数。&amp;quot;换言之，所谓&amp;quot;新援军&amp;quot;不过是同一批援军被要求跑得更快。&lt;/p&gt;
+高盛模型&amp;quot;失灵&amp;quot;：被忽视的非OECD库存
+&lt;p&gt;高盛在报告中坦承，其依赖数十年的布伦特原油定价模型今年出现了根本性偏差。&lt;/p&gt;
+&lt;p&gt;在1998年以来的历史样本中，OECD商业库存能够解释布伦特原油1个月/36个月期限价差&amp;quot;超过60%的变动&amp;quot;。然而，今年这一关系彻底崩溃：&amp;quot;今年以来，期限价差上涨了每桶30美元，而OECD商业库存几乎没有变化。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;原因在于，本轮库存消耗主要发生在OECD视野之外。波斯湾出口（包括&amp;quot;暗流&amp;quot;桶）已恢复至2025年均值水平或以上，&lt;strong&gt;&amp;quot;但布伦特现货价格依然维持在三位数&amp;quot;，因为全球可见库存已接近2017年以来的历史最低水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛随后将模型扩展至纳入&amp;quot;OECD商业储存以外的全球陆上石油库存&amp;quot;。新模型对期限价差的拟合度明显改善，但仍留有较大缺口——这一缺口正是风险溢价的来源。&lt;/p&gt;
+&lt;p&gt;高盛同时指出，OECD桶与非OECD桶的边际定价权重并不相同：&amp;quot;OECD商业库存每下降1亿桶（降幅约3.5%），布伦特公允价值上升约每桶8美元；而其他可见全球陆上库存等量下降，仅推升约每桶2美元。&amp;quot;原因在于，布伦特和WTI基准合约的实物交割地均位于OECD，市场为其所能看见、所在之处的桶定价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+每桶22美元风险溢价：史上第二高
+&lt;p&gt;在纳入非OECD库存后，高盛模型所剩余的&amp;quot;无法解释部分&amp;quot;即为风险溢价。&lt;/p&gt;
+&lt;p&gt;高盛报告显示，&amp;quot;更新后的模型显示，&lt;strong&gt;9月份平均风险溢价为每桶22美元——为有记录以来第二高月度读数，仅次于2026年4月。若仅使用OECD商业库存，风险溢价估算将高达每桶29美元，&lt;/strong&gt;但这一方法无法捕捉OECD以外的实物市场紧张程度。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;作为参照，2022年俄乌冲突后的月度风险溢价峰值&amp;quot;未超过每桶16美元&amp;quot;。高盛指出，这凸显了&amp;quot;今年石油供应冲击的史无前例程度&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛将当前高风险溢价归因于三大驱动因素：其一，供应中断恐惧，溢价与布伦特看涨期权偏斜度及地缘政治风险指数高度相关（相关系数0.5）；其二，投机性多头仓位，&amp;quot;纸桶&amp;quot;今年持续推高价格（相关系数0.6）；其三，宏观组合对冲需求——石油供应冲击通过推升通胀和美债收益率，使原油成为股票和债券组合的对冲工具。本周10年期美债收益率已升至5.3%以上，布伦特与10年期美债的相关性接近25年来高位，而油价与股市的相关性则大幅下滑。&lt;/p&gt;
+多重冲击叠加，缓冲归零
+&lt;p&gt;过去一周，市场在毫无缓冲的情况下遭遇了几乎所有类型的供应冲击。&lt;/p&gt;
+&lt;p&gt;霍尔木兹方向，一艘油轮在卡塔尔附近海域遭到袭击；伊朗伊斯兰革命卫队（IRGC）袭击了一艘液化石油气油轮，并警告将对&amp;quot;在霍尔木兹海峡以外实施违规行为&amp;quot;的船只予以惩处；沙特媒体报道胡塞武装已在曼德海峡布雷；阿联酋则宣布在波斯湾救援了一艘起火油轮上的22名船员。&lt;/p&gt;
+&lt;p&gt;墨西哥湾方向，飓风Isaias导致美国墨西哥湾63%的石油产量被迫关停，登陆佛罗里达州，主要炼油厂险遭波及。&lt;/p&gt;
+&lt;p&gt;俄罗斯方向，特朗普宣布普京同意向全球市场释放部分柴油，但数小时后，乌克兰无人机据报击中了俄罗斯一处主要燃料出口枢纽。&lt;/p&gt;
+&lt;p&gt;华盛顿方向，特朗普表示中期选举前不会对伊朗动武，消息一度压低油价；但德黑兰随即继续袭击油轮，所谓&amp;quot;明确的外交解决&amp;quot;前景依然渺茫。&lt;/p&gt;
+&lt;p&gt;正如Jefferies所总结的：&amp;quot;现在任何一次小规模中断，都会产生超乎寻常的价格后果。&amp;quot;&lt;/p&gt;
+高盛基准预测与上行风险
+&lt;p&gt;高盛在报告中维持其基准情景，即风险溢价将&amp;quot;逐步回归历史均值零&amp;quot;，并指出中东供应在&amp;quot;持续适应性&amp;quot;下持续超预期。但报告同时明确警告，若地缘政治局势持续，溢价&amp;quot;可能在明确外交解决出现之前维持高位&amp;quot;，并指出&amp;quot;若地缘政治使风险溢价长期维持高位，我们的价格预测存在上行风险&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛上月已上调布伦特原油预测，若霍尔木兹中断延续至2027年，布伦特最高可能触及每桶120美元。而Vitol的Russell Hardy给出的极端情景更为直接：&lt;strong&gt;一旦霍尔木兹穿梭航运再度停摆，每桶200美元并非尾部风险，而是现实选项。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普要求乌克兰不能打俄炼油厂，“泽连斯基最好立刻停手，乌克兰该换个新总统”</title><link>https://wallstreetcn.com/articles/3783348</link><guid>ecda75ac2ca6b0140d778b4b239f3d55d9709d067ecd7a6f1b12025d3f7bbd5a</guid><pubDate>Sun, 11 Oct 2026 01:37:39 GMT</pubDate><description>&lt;p&gt;美俄达成柴油协议，特朗普公开向泽连斯基施压，乌克兰转而寻求欧洲支持。&lt;/p&gt;
 &lt;p&gt;当地时间10月10日，特朗普公开表态，乌克兰不得攻击俄罗斯炼油厂，并直接点名泽连斯基：“最好立刻停手。”他更进一步建议乌克兰换掉现任总统，称“这样他们就能达成协议了”。&lt;/p&gt;
 &lt;p&gt;此前一天，美国财政部宣布放松对俄罗斯柴油贸易的制裁，特朗普随即宣布美俄就俄向美国及全球市场供应柴油达成一致。泽连斯基对此强烈反弹，称感到“被背叛”。乌克兰随即转向欧洲，泽连斯基10日与多国领导人通话，寻求协调应对。&lt;/p&gt;
 特朗普直接点名：换掉泽连斯基
@@ -235,7 +235,109 @@
 &lt;p&gt;面对来自华盛顿的压力，泽连斯基10日迅速展开外交行动。&lt;/p&gt;
 &lt;p&gt;据新华社报道，泽连斯基当天在社交媒体发布消息，确认已与多位欧洲领导人通话，包括芬兰总统斯图布、法国总统马克龙、挪威首相斯特勒以及英国首相伯纳姆。&lt;/p&gt;
 &lt;p&gt;通话内容涵盖三个方向：通报俄乌冲突近况；讨论美国放宽对俄石油产品制裁所带来的挑战；协调应对措施并筹备后续会晤。&lt;/p&gt;
-&lt;p&gt;泽连斯基呼吁欧洲各方加大对乌援助，并加强对俄罗斯的制裁力度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “只剩一笔交易”的美股牛市</title><link>https://wallstreetcn.com/articles/3783355</link><guid>4b3b62d5f2bd96039f43c911e44554297729a77de4a2994e9614e57c629557bc</guid><pubDate>Sun, 11 Oct 2026 02:40:04 GMT</pubDate><description>&lt;p&gt;美股正站在一个令人不安的高点：指数创历史新高，但支撑它的只有一个主题。&lt;/p&gt;
+&lt;p&gt;泽连斯基呼吁欧洲各方加大对乌援助，并加强对俄罗斯的制裁力度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国AI算力租赁有多贵？“现货价格”是长协的2倍，是云厂商回报门槛的4倍</title><link>https://wallstreetcn.com/articles/3783358</link><guid>eeec6f28cd8b3c9568c3f94d6fee81004c26b6021f3d92a4d3d0fc5a608dd496</guid><pubDate>Sun, 11 Oct 2026 03:30:36 GMT</pubDate><description>&lt;p&gt;美国AI算力租赁市场正在呈现明显的“短贵长便宜”特征。&lt;/p&gt;
+&lt;p&gt;10月10日，根据高盛互联网分析师Eric Sheridan在SpaceX季度预览报告中的图表，一吉瓦算力的年化收入，短期现货租赁约为400亿至500亿美元，长期合同约为200亿至300亿美元，而超大规模云厂商（hyperscaler）自建产能的盈亏平衡门槛仅约120亿美元。&lt;/p&gt;
+&lt;p&gt;但高盛分析，谷歌等超大规模云厂商以高昂溢价租用算力，根本原因是自建产能跟不上，一旦自建产能追上，现货溢价将消失。其预测，SpaceX一家的算力规模将从2026年二季度的1.4吉瓦，增长至2027年底约7吉瓦，2028年底约10.6吉瓦——四年内扩张逾7倍。&lt;strong&gt;整个行业的算力供给正在快速增加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+现货价格：每吉瓦500亿美元
+&lt;p&gt;高盛报告显示，SpaceX在过去一个季度宣布了两笔新的算力托管合同，并告知投资者这些合同“以历史讨论区间300亿至500亿美元/吉瓦的高端定价”。&lt;/p&gt;
+&lt;p&gt;SpaceX并非孤例。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nebius（NBIS）&lt;/strong&gt;在8月披露，第三季度短期算力合同定价约为400亿至500亿美元/吉瓦。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CoreWeave（CRWV）&lt;/strong&gt;披露近期短期合同定价约为400亿美元/吉瓦。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IREN&lt;/strong&gt;披露近期三年期合同定价超过200亿美元/吉瓦，在谈合同约为250亿美元/吉瓦。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nebius&lt;/strong&gt;长期合同定价同样在200亿至250亿美元/吉瓦区间。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;德意志银行分析师Edison Yu在其“Got compute?”报告中进一步拆解了SpaceX各笔合同的GPU小时定价，得出谷歌和Reflection AI的合同约为每兆瓦5000万至5100万美元，另外两家未披露客户约为每兆瓦6000万至6100万美元——&lt;strong&gt;折算下来高达每吉瓦610亿美元&lt;/strong&gt;，GB300芯片的小时租金接近14美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+“现货价格”是“长协价格”的2倍
+&lt;p&gt;短期现货价格约是长期合同价格的两倍。长期协议的定价下限目前维持在约200亿美元/GW。&lt;/p&gt;
+&lt;p&gt;这种期限结构倒挂，在大宗商品市场有一个专有名词：&lt;strong&gt;反向市场（backwardation）&lt;/strong&gt;。它通常意味着市场将当前短缺视为暂时现象。&lt;/p&gt;
+&lt;p&gt;换句话说，买家愿意为“不承诺”支付溢价，恰恰说明需求虽然真实，但连买家自己也不确定这种需求能否持续。&lt;/p&gt;
+&lt;p&gt;对超算云运营商而言，高盛测算超算云全包资本开支约为每吉瓦420亿美元。以400亿至500亿美元/年的现货收入计算，约一年即可收回全部建设成本；即便按200亿美元的长期合同底价，也只需两年。&lt;/p&gt;
+&lt;p&gt;但有一个关键细节不容忽视。高盛在报告中特别提示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这些托管合同大多数双方均可在90天内取消，因此我们假设收入按当前价格确认至合同到期（多数为2029年）的做法，存在过于乐观的风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;一份年化500亿美元的收入合同，法律上是一份季度租约。&lt;/strong&gt;&lt;/p&gt;
+高盛回报测算：云厂商每GW所需收入约116亿美元
+&lt;p&gt;高盛科技分析团队上月尝试测算超大规模云厂商资本开支所需的AI收入规模，结论是：六大美国超大规模云厂商（Alphabet、亚马逊、微软、Meta、Oracle、SpaceX）需要在2028至2030年累计实现约1.42万亿美元AI收入，&lt;strong&gt;折算约为每吉瓦每年116亿美元，才能在2026至2027年AI算力投入上实现15%的投入资本回报率（ROIC）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;即便将ROIC目标提高至30%，并采用最高资本开支假设，这一数字也不超过每吉瓦186亿美元。&lt;/p&gt;
+&lt;p&gt;而当前短期超算云租金是这一门槛的&lt;strong&gt;2至4倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这意味着什么？&lt;/p&gt;
+&lt;p&gt;谷歌以每吉瓦约450亿美元的价格租用SpaceX算力（德意志银行测算为500亿美元），而高盛的ROIC框架显示，谷歌自建数据中心只需每吉瓦约120亿美元的回报即可。&lt;/p&gt;
+&lt;p&gt;没有人会为一种商品支付4倍溢价，除非别无选择。分析指出，谷歌租用算力，是因为自建速度跟不上。&lt;strong&gt;一旦自建产能追上，租用溢价将消失，超算云收入也将随之大幅缩水。&lt;/strong&gt;&lt;/p&gt;
+连最乐观的Token经济学也撑不起现货价格
+&lt;p&gt;摩根大通分析师Gokul Hariharan给出了一个相对乐观的框架：前沿模型厂商的推理业务毛利率为60%至80%，每吉瓦算力可产生200亿至400亿美元年化Token收入（相比2025年的100亿美元）。&lt;/p&gt;
+&lt;p&gt;但做一个简单的数学验算：&lt;/p&gt;
+&lt;p&gt;如果算力成本占Token收入的20%至40%（即60%至80%毛利率），那么一家以每年450亿美元租用一吉瓦算力的实验室，需要从这一吉瓦上销售约&lt;strong&gt;1100亿至2250亿美元&lt;/strong&gt;的Token，才能覆盖成本并盈利。&lt;/p&gt;
+&lt;p&gt;这是摩根大通自身乐观预测区间的&lt;strong&gt;3至11倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;结论只有一个：&lt;strong&gt;没有人以每吉瓦450亿美元的价格租用现货算力来服务付费客户并盈利。他们租算力是为了训练下一个模型，资金来源是下一轮股权或债务融资——主要是债务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也正是Rothschild Redburn分析师Alexander Haissl上月对CoreWeave和Nebius发出卖出评级时的核心论点。他直接指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;训练需求能够持续，前提是外部资本保持充裕。&lt;/p&gt;
+&lt;/blockquote&gt;
+AI收入：同一笔钱被数了好几遍
+&lt;p&gt;超算云收入、超大规模云厂商收入与AI“行业”&lt;strong&gt;它们在很大程度上是同一笔钱，但被计算了多次。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;追踪一美元终端用户支出的流向：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;企业付费给Anthropic，Anthropic按总收入（含云合作伙伴分成）入账；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;云合作伙伴（AWS、谷歌）将其份额计入云收入；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若该合作伙伴算力不足，向SpaceX或CoreWeave租用一吉瓦，后者计入托管收入；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SpaceX和CoreWeave向英伟达付款，英伟达计入数据中心收入。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;将整个产业链的“AI收入”加总，得到的数字是终端用户实际支付金额的数倍。&lt;/p&gt;
+&lt;p&gt;而本周AI股票大跌，导火索就是英国《金融时报》报道OpenAI截至9月底的年化收入约为500亿美元，低于此前流传的约700亿美元月度经常性收入（MRR）数字。&lt;/p&gt;
+&lt;p&gt;高盛TMT专家Sean Johnstone解释了差距来源：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic更接近总收入口径（含云合作伙伴的全部客户支出，合作伙伴分成计为成本）。OpenAI更接近净收入口径（主要是自身份额）。当部分投资者试图将两者统一口径、对OpenAI数据进行总收入还原时，就产生了8月约400亿美元、随后约700亿美元的更高数字……这一事件凸显了市场对两家使用不同报告口径的私人公司收入轨迹的高度敏感性。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;据彭博报道，即便是500亿美元这一数字，也是“基于更短时间段的年化销售额预测”，本身就是一种向上拉伸的计算方式。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+现货价格无法支撑整体建设规模
+&lt;p&gt;最终，数学本身说明了问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以高盛1.42万亿美元收入需求除以每吉瓦每年116亿美元，可以推算出六大超大规模云厂商2026至2027年资本开支对应约41吉瓦AI算力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以不同价格为这41吉瓦定价：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;按高盛15% ROIC门槛（约116亿美元/吉瓦）&lt;/strong&gt;：每年约4700亿美元AI收入&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;按长期托管合同底价（200亿美元/吉瓦）&lt;/strong&gt;：每年约8100亿美元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;按当前短期超算云现货价（约450亿美元/吉瓦）&lt;/strong&gt;：每年约&lt;strong&gt;1.8万亿美元&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对比现实：头部三家AI实验室7月合计年化收入约1000亿美元；投资人Brad Gerstner认为年底需达到1800亿至2000亿美元才能“维持AI交易逻辑”；高盛投资组合策略团队表示市场“现在需要看到”约3000亿美元年化AI收入的证据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当前超算云现货价格，是稀缺算力的边际价格，而非整体建设规模能够实现的平均价格。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛TMT团队的总结：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;未来回报应越来越多地来自精选赢家……而非持有任何与AI资本开支相关的标的。&lt;/p&gt;
+&lt;/blockquote&gt;
+容量扩张将压缩稀缺溢价
+&lt;p&gt;高盛预测，SpaceX一家的算力规模将从2026年二季度的1.4吉瓦，增长至2027年底约7吉瓦，2028年底约10.6吉瓦——四年内扩张逾7倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整个行业的算力供给正在快速增加。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析指出，在航运和其他大宗商品市场，“没有什么比创纪录的价格更能治愈创纪录的价格”。期限曲线已经在告诉市场AI算力的走向：长期合同价格仅为现货价格的一半。&lt;/p&gt;
+&lt;p&gt;唯一的问题是：终端用户收入能否在信贷市场之前先行到位——还是说，那些以现货价格为永久状态定价的芯片抵押债务工具，会率先自行发现答案。&lt;/p&gt;
+&lt;p&gt;值得注意的是，高盛TMT团队已将Oracle和Broadcom的信用利差列为监测债务驱动AI资本开支风险的关键指标。Oracle五年期信用违约互换（CDS）周四收于261个基点，创历史新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “只剩一笔交易”的美股牛市</title><link>https://wallstreetcn.com/articles/3783355</link><guid>4b3b62d5f2bd96039f43c911e44554297729a77de4a2994e9614e57c629557bc</guid><pubDate>Sun, 11 Oct 2026 02:40:04 GMT</pubDate><description>&lt;p&gt;美股正站在一个令人不安的高点：指数创历史新高，但支撑它的只有一个主题。&lt;/p&gt;
 &lt;p&gt;高盛对冲基金覆盖业务负责人Tony Pasquariello在最新客户报告中坦承，&lt;strong&gt;当前美股涨势&amp;quot;基本上只是一笔大交易&amp;quot;——人工智能。&lt;/strong&gt;他维持看多美股的主基调，但措辞明显趋于谨慎，&lt;strong&gt;不再愿意断言未来5%的方向向上&lt;/strong&gt;。与此同时，高盛数据显示，&lt;strong&gt;标普500成分股中约有六分之一已较高点回撤逾50%，而指数本身距历史高点仅一步之遥&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;这一分裂格局正在引发市场对集中度风险的深层担忧。利率持续攀升、市场广度恶化、仓位向AI板块极度集中，多重压力信号同时亮起，而&lt;strong&gt;多头的防线只剩下英伟达与美光能否在即将到来的财报季兑现预期&lt;/strong&gt;。&lt;/p&gt;
 极度分化：一场只在特定角落成立的牛市
@@ -294,7 +396,75 @@ Reflection AI：美国版&amp;quot;开源模型&amp;quot;的战略棋子
 黄仁勋押注开源生态，补齐前沿模型短板
 &lt;p&gt;英伟达目前已拥有自家开放权重模型系列Nemotron，但在前沿规模的基础大模型领域仍存在明显空白。收购或深度绑定Reflection，将有助于英伟达直接填补这一缺口。&lt;/p&gt;
 &lt;p&gt;今年7月，英伟达首席执行官黄仁勋公开呼吁建立美国本土开放权重模型&amp;quot;生态系统&amp;quot;，称其对于&amp;quot;在全国范围内创造创新与繁荣机会&amp;quot;至关重要。特朗普政府的AI行动计划亦明确表态：&amp;quot;我们需要确保美国拥有基于美国价值观的领先开源模型。&amp;quot;&lt;/p&gt;
-&lt;p&gt;从更宏观的视角看，英伟达过去两年持续向AI产业链各环节大规模注资——从OpenAI等大型AI实验室，到Nebius等新兴云服务商，再到一系列小型AI公司&lt;strong&gt;。这一策略在为英伟达芯片持续制造需求的同时，也令其在整个AI经济体系中的核心地位愈发稳固。与Reflection的潜在交易，则标志着英伟达开始从&amp;quot;卖铲人&amp;quot;向&amp;quot;亲自下场&amp;quot;的模型生态构建者转型。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 铜价接近历史高点！瑞银继续唱多：“依旧最看涨”</title><link>https://wallstreetcn.com/articles/3783349</link><guid>25d01ebc303b08e94b38022af9a4d4f8651f32cdc4dc2a0efc62c142c40c5d13</guid><pubDate>Sun, 11 Oct 2026 01:48:44 GMT</pubDate><description>&lt;p&gt;伦敦铜期货周五收盘价接近历史高点，多家华尔街机构相继发出警告：全球铜供应持续萎缩，价格或将再度上行。&lt;/p&gt;
+&lt;p&gt;从更宏观的视角看，英伟达过去两年持续向AI产业链各环节大规模注资——从OpenAI等大型AI实验室，到Nebius等新兴云服务商，再到一系列小型AI公司&lt;strong&gt;。这一策略在为英伟达芯片持续制造需求的同时，也令其在整个AI经济体系中的核心地位愈发稳固。与Reflection的潜在交易，则标志着英伟达开始从&amp;quot;卖铲人&amp;quot;向&amp;quot;亲自下场&amp;quot;的模型生态构建者转型。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”</title><link>https://wallstreetcn.com/articles/3783359</link><guid>2574ecf94970cd730953bc3eef3056fe1817010dc00160357fe86c3a74e83f9f</guid><pubDate>Sun, 11 Oct 2026 03:46:15 GMT</pubDate><description>&lt;p&gt;自7月29日启动的这轮美股科技股反弹，在52个交易日内累计跑赢大盘18.1个百分点。但在德意志银行看来，这轮行情已经到顶。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，10月9日，该行多资产策略团队Parag Thatte等分析师发布报告，将美股科技及大盘成长股（MCG &amp;amp; Tech）评级从“超配”下调至“中性”。分析师写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;科技股的轮动已经走得很远，近期风险回报不再有吸引力。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+倒V型反转将临？
+&lt;p&gt;德银追踪了过去两年美股科技股的五轮轮动周期。&lt;/p&gt;
+&lt;p&gt;数据显示，此前四轮反弹的中位涨幅约为29.5个百分点（相对大盘），而本轮截至10月8日已累计跑赢18.1个百分点。&lt;/p&gt;
+&lt;p&gt;分析师指出，当前科技股相对表现已接近长期趋势通道上轨——这正是此前数次反转的起点。&lt;/p&gt;
+&lt;p&gt;具体来看，当前科技股相对大盘仍有约4个百分点的上行空间才能触及通道顶部，但一旦触顶回落，历史规律显示相对下行幅度可达16个百分点。报告写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;过去的轮动均呈现倒V型反转。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+仓位不对称：科技超配，其余板块普遍低配
+&lt;p&gt;仓位数据同样支持这一判断。&lt;/p&gt;
+&lt;p&gt;截至10月8日，科技及大盘成长股仓位处于第58百分位，虽较近期高点有所回落，但仍明显超配。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，其他板块的处境截然不同：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;金融股仓位跌至第17百分位，处于显著低配&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;工业周期股处于第38百分位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;材料股处于第20百分位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;消费必需品处于第19百分位&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分析师指出，主动型投资者整体仓位处于第32百分位，已属温和低配；系统性策略仓位虽处于第85百分位，但近期也有所回落。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+强劲业绩或难以提振股价，市场焦点已转移
+&lt;p&gt;分析师预计，美股科技股第三季度盈利增速约为55%，延续此前的强劲势头。&lt;/p&gt;
+&lt;p&gt;但这或许已不足以推动股价进一步上涨。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;市场的担忧现在集中在未来盈利能力上，这一问题短期内难以消除。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;相比之下，非科技板块的预期门槛极低——市场普遍认为这些板块几乎没有增长。但德银预测，非科技板块第三季度盈利增速约为21%（同比），与第二季度的23%相差无几，标普500中位数公司的盈利增速预计仍将维持在十几个百分点的较高水平。&lt;/p&gt;
+&lt;p&gt;“其他板块的门槛很低，市场普遍认为那里几乎没有增长——但实际上增长依然相当强劲。”分析师认为，这种预期差构成了轮动的基础。&lt;/p&gt;
+轮动方向：资金流向其他板块，市场广度有望改善
+&lt;p&gt;分析师认为，科技股的高集中度历来引发市场对广度不足的担忧，过去两个月亦不例外。&lt;/p&gt;
+&lt;p&gt;一旦资金从科技股轮动至其他板块及小盘股，这一担忧有望缓解。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从历史数据看，科技股轮出阶段，非科技板块的中位涨幅约为3个百分点，而科技股则平均下跌约14.8个百分点。&lt;/p&gt;
+&lt;p&gt;跨地区来看，报告指出，科技股敞口是决定各地区市场表现的关键变量。科技股占比仅9%的欧洲市场，相较于科技占比40%的美国市场，在轮动中更具优势。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+大跌风险：历史经验提示需警惕外部冲击
+&lt;p&gt;科技股轮出是否会伴随更大范围的市场下跌，是一个关键问题。分析师写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;近期历史表明答案是肯定的——但需要注意，这些轮动往往与重大外部冲击叠加，例如&amp;#x27;解放日&amp;#x27;关税冲击和伊朗战争爆发，这些事件将所有股票一并拖低。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;换言之，若无重大外部冲击，此次轮动更可能是结构性的板块再平衡，而非系统性的市场下跌。&lt;/p&gt;
+长期趋势不变：科技股长期跑赢逻辑依然成立
+&lt;p&gt;值得注意的是，德银此次下调评级仅针对短期战术层面。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;分析师表示，科技股长期跑赢大盘的趋势依然完好。过去十年，科技股年化跑赢标普500其余成分股约14个百分点，背后是持续更强劲的盈利增长支撑。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们认为这一动态不会改变。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; ~~~~~~~~~~~~~~~~~~~~~~~~&lt;/p&gt;
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 铜价接近历史高点！瑞银继续唱多：“依旧最看涨”</title><link>https://wallstreetcn.com/articles/3783349</link><guid>25d01ebc303b08e94b38022af9a4d4f8651f32cdc4dc2a0efc62c142c40c5d13</guid><pubDate>Sun, 11 Oct 2026 01:48:44 GMT</pubDate><description>&lt;p&gt;伦敦铜期货周五收盘价接近历史高点，多家华尔街机构相继发出警告：全球铜供应持续萎缩，价格或将再度上行。&lt;/p&gt;
 &lt;p&gt;瑞银美国股票顾问销售团队成员Théa Ziegler在周五的报告中写道：“铜依旧是我们最高确信度的大宗商品主题之一。”她指出，电气化与数据中心建设带来的需求增长预计将持续超越供给增速，铜价的结构性支撑并未动摇。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;电气化、数据中心建设以及持续的供给约束，将继续支撑铜的长期建设性前景。对投资者而言，核心结论是：未来数年供给增长预计将落后于需求增长，这将支撑铜价维持高位——尽管关税与贸易政策在短期内仍存在不确定性。&lt;/strong&gt;&lt;/p&gt;
