@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 13 Oct 2026 01:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌</title><link>https://wallstreetcn.com/articles/3783408</link><guid>3f14da270fd75b972d46b60fd67ee2fafe32bb8f81455dee6cb807b7be9c6b9e</guid><pubDate>Mon, 12 Oct 2026 22:10:13 GMT</pubDate><description>&lt;p&gt;市场正权衡企业财报季的乐观预期与中东局势升级的风险。周一美股涨跌不一，在极度清淡的成交量下小幅震荡，芯片股跌势主导市场走向，美债现货市场因假期休市，市场缺乏债市方向指引。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 13 Oct 2026 01:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌</title><link>https://wallstreetcn.com/articles/3783408</link><guid>3f14da270fd75b972d46b60fd67ee2fafe32bb8f81455dee6cb807b7be9c6b9e</guid><pubDate>Mon, 12 Oct 2026 22:10:13 GMT</pubDate><description>&lt;p&gt;市场正权衡企业财报季的乐观预期与中东局势升级的风险。周一美股涨跌不一，在极度清淡的成交量下小幅震荡，芯片股跌势主导市场走向，美债现货市场因假期休市，市场缺乏债市方向指引。&lt;/p&gt;
 &lt;p&gt;周一标普500指数收跌0.06%，纳指下滑0.44%，道指逆势上涨0.38%。能源板块以1.5%涨幅领跑标普500十一大板块。存储芯片股普跌，美光盘中跌破1000美元关口，闪迪收跌近6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美元走强至周期新高，黄金和比特币随之承压回落。克利夫兰联储主席Beth Hammack的鹰派表态令12月加息预期小幅升温，进一步打压对利率最为敏感的科技成长股。&lt;/p&gt;
@@ -166,7 +166,103 @@
 
 &lt;p&gt;英伟达与思科计划通过一个即将启动的社区主导多源项目，推动USFP成为开放行业规范。开放标准的确立，将降低更广泛厂商参与生态的门槛，并为数据中心运营商在采购与替换决策上提供更大灵活性。&lt;/p&gt;
 &lt;p&gt;对AI工厂建设者而言，USFP的价值主张体现在两个维度：其一，在不新增网络层级的前提下扩展计算规模，避免叠加交换层带来的延迟与成本上升；其二，通过提升每瓦特数据传输量，压缩网络互联在整体AI工厂功耗预算中的占比。&lt;/p&gt;
-&lt;p&gt;需要指出的是，目前英伟达与思科尚未披露具体的产品上市或量产时间表，USFP仍处于设计规划阶段。其最终市场影响，将取决于开放规范的推进节奏、合作伙伴生态的扩展速度，以及行业在可插拔、近封装与共封装等不同光互联路线之间的实际取舍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股现疫情以来未见之情景！高盛：机构“恐慌性涌向价值股”，科技股资金流“急剧逆转”</title><link>https://wallstreetcn.com/articles/3783486</link><guid>67f1dfedef71337ff7b212ecf0f9a136a6d4869b4b4bbf33ec0aba925b126b88</guid><pubDate>Tue, 13 Oct 2026 00:31:55 GMT</pubDate><description>&lt;p&gt;美股表面平静之下，暗流汹涌。标普500指数虽距历史高点不足1%，但市场内部的分化程度已触及互联网泡沫破裂以来最差水平，机构投资者正以新冠疫情冲击以来从未有过的速度，争相涌入&amp;quot;安全资产&amp;quot;。&lt;/p&gt;
+&lt;p&gt;需要指出的是，目前英伟达与思科尚未披露具体的产品上市或量产时间表，USFP仍处于设计规划阶段。其最终市场影响，将取决于开放规范的推进节奏、合作伙伴生态的扩展速度，以及行业在可插拔、近封装与共封装等不同光互联路线之间的实际取舍。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AH股齐跌：A股双创指数均跌3%，算力硬件下挫，恒科指跌2%，权重科网股集体走低</title><link>https://wallstreetcn.com/articles/3783494</link><guid>b49e190c84b8f8edfba6f9a54436b89ff1a833067d8a742ad2b83c16eb05cda5</guid><pubDate>Tue, 13 Oct 2026 01:51:14 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783485"&gt;华尔街见闻文章&lt;/a&gt;写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜&lt;a href="https://wallstreetcn.com/articles/3783408"&gt;美股存储芯片重挫&lt;/a&gt;，叠加周二亚太市场跟随下挫，韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士亦大跌，A股和港股的芯片、算力硬件股集体陷入调整。&lt;/p&gt;
+&lt;p&gt;10月13日，A股早盘集体低开，三大股指盘初下跌，创业板跌3%，失守2900点，在AI硬件、芯片半导体等普遍下挫之际，科创综指、科创50也大幅下挫，中芯国际、海光信息、中微公司均跌4%左右。白酒、煤炭、海运等板块逆势走强。&lt;/p&gt;
+&lt;p&gt;港股低开低走，恒指、恒科指全线走低，恒科指跌超2%，权重科网股、芯片股大幅杀跌，兆易创新、剑桥科技等纷纷下挫。AI大模型股同样承压。债市方面，国债期货多数反弹。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌1.36%，深成指跌2.49%，创业板指跌3.21%。科创综指跌超3%，完全抹去年内升幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.78%，恒科指跌2.24%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约涨0.08%，10年期主力合约涨0.04%，5年期主力合约涨0.01%，2年期主力合约持平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数下跌，截至发稿，燃油涨近4%，原油涨2%，集运指数涨超1%，菜籽、焦煤、锰硅、焦炭等少数品种走高，&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;09:49&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中际旭创H股创在港上市以来新低，10月份累跌近两成。港股光模块（CPO）指数继续深调，剑桥科技再跌近8%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:41&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;抄底资金逐渐入场，白酒、煤炭、农业、地产、油气、海运板块占优，广汇能源、中远海能、招商轮船均涨4%左右。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:35&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;煤炭板块震荡拉升，安泰集团逼近涨停，陕西黑猫、广汇能源、新集能源、晋控煤业跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早盘白酒板块逆势拉升，皇台酒业涨停，金种子酒、酒鬼酒、水井坊、舍得酒业跟涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.96%，创业板指跌2.18%。覆铜板、存储、光通信、玻纤、玻璃基板指数领跌，海运、银行、油气、农业股活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.41%，恒生科技指数跌0.96%。剑桥科技、三环集团、长飞光纤光缆、兆易创新、中际旭创、胜宏科技领跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易降温叠加存储芯片竞争压力，韩股跌超5%，连续第二日重挫，SK海力士跌近8%</title><link>https://wallstreetcn.com/articles/3783492</link><guid>797d9d5ce3b2d9a0275e417932513811750169d8079f810cc1243b41f38da4be</guid><pubDate>Tue, 13 Oct 2026 01:45:53 GMT</pubDate><description>&lt;p&gt;亚太股市周二大幅下挫，AI交易热情消退与存储芯片竞争压力双重夹击，韩国和日本科技股首当其冲，MSCI亚太指数创逾两个月新低。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;中国内存芯片厂商长鑫科技在新型内存架构方面取得进展；与此同时，美国国债收益率维持高位，令市场对AI资本支出前景愈发担忧。&lt;/p&gt;
+&lt;p&gt;由于市场情绪疲软，周二&lt;strong&gt;韩国综合指数&lt;/strong&gt;跌幅一度扩大至5.1%，触发交易所Sidecar熔断机制，暂停程序化卖盘五分钟；&lt;strong&gt;三星电子&lt;/strong&gt;与&lt;strong&gt;SK海力士&lt;/strong&gt;双双跌逾6%，走向五连跌。&lt;/p&gt;
+&lt;p&gt;日本方面，&lt;strong&gt;软银集团&lt;/strong&gt;跌超8%，&lt;strong&gt;东京电子&lt;/strong&gt;、&lt;strong&gt;爱德万测试&lt;/strong&gt;等AI产业链个股均下跌超5%。&lt;strong&gt;MSCI亚太指数&lt;/strong&gt;跌0.9%至270.78点，逼近8月中旬以来低点。&lt;/p&gt;
+&lt;p&gt;美国股指期货在亚洲早盘交易中走低。以科技股为主的&lt;strong&gt;纳斯达克100指数期货&lt;/strong&gt;下跌0.5%，此前该指数周一回落；美国芯片制造商指数下跌2.7%。&lt;/p&gt;
+
+存储竞争威胁加剧韩国芯片商压力
+
+&lt;p&gt;行业竞争格局的变化进一步打压了韩国芯片股的估值预期。&lt;/p&gt;
+&lt;p&gt;拖累主要来自内存芯片板块。长鑫存储总裁曹堪宇周末在行业活动上宣布，公司在下一代4F²存储单元架构上取得关键进展，计划2026年底前推出基于该架构的服务器内存产品。&lt;/p&gt;
+&lt;p&gt;这种设计用专有的垂直环绕栅极晶体管抑制漏电，能在单颗芯片上塞进更多存储单元，直接指向AI服务器所用的高毛利DRAM。&lt;/p&gt;
+&lt;p&gt;受此消息及隔夜美国芯片股下跌拖累。三星电子下挫6%，SK海力士则跌近8%，走向五连跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;韩国综合指数报6061.82点，跌幅5.1%；韩国小型股指数跌幅达2.49%。韩国交易所当地时间上午9:47启动Sidecar机制，此前KOSPI 200期货指数跌幅已持续逾一分钟超过5%，触发该机制并暂停程序化卖盘五分钟。&lt;/p&gt;
+&lt;p&gt;Eugene资管首席投资官Ha SeokKeun表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;韩国芯片制造商的估值和股价，似乎正在受到景气周期能否持续至2028年及以后的不确定性拖累。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在日本，日经225指数跌幅超过2%，东证指数则相对抗跌，小幅下滑0.2%。日本央行行长植田和男原计划于当地时间下午1:00出席国会，市场对货币政策方向保持关注。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软银集团&lt;/strong&gt;跳空低开，随后持续下挫，跌幅近9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;东京电子&lt;/strong&gt;、&lt;strong&gt;爱德万测试&lt;/strong&gt;等AI产业链个股下跌超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+利率与盈利季构成下一关键变量
+
+&lt;p&gt;市场目光正转向即将到来的宏观数据与财报季。野村资产管理首席策略师Hideyuki Ishiguro表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;部分投资者可能担忧，较高的债券收益率将影响AI相关融资，并导致资本支出放缓。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本周四，台积电季度财报将发布，被视为AI需求前景最重要的风向标之一。与此同时，美国消费者价格指数（CPI）数据将于本周公布，此前美国国债收益率已升至数十年高位。&lt;/p&gt;
+&lt;p&gt;Glenmede投资策略与研究主管Jason Pride表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本周CPI报告很可能是美联储10月会议前看到的最重要数据。在通胀没有明显超预期的情况下，美联储大概率会对下一次加息保持耐心。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;美国大型银行财报季亦于周二正式启动，高盛、摩根大通、花旗集团和富国银行均将发布业绩。&lt;/p&gt;
+&lt;p&gt;据彭博行业研究数据，分析师预计标普500成分股第三季度利润同比增长约25%。Ameriprise首席市场策略师Anthony Saglimbene表示，银行股（反映消费与企业健康度）、大型科技股（AI货币化进展）以及能源股（油价驱动盈利的持续性），将是本轮财报季解读的三条主要线索。&lt;/p&gt;
+其他资产表现
+&lt;p&gt;美元指数小幅下挫0.1%，回吐前一日部分涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;10年期美债收益率下行3.7个基点至5.209%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;大宗商品方面，WTI原油跌0.9%，布伦特原油跌0.9%至约105.80美元/桶。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;现货黄金延续隔夜跌势，周二亚太时段跌0.36%，报4157美元/盎司。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 收益率急升后，高盛花旗带头，华尔街开始看多美债</title><link>https://wallstreetcn.com/articles/3783484</link><guid>37b6477bc02cc1449e82c139fc774517f340bb069ae7c0de4dab548f164b17e6</guid><pubDate>Tue, 13 Oct 2026 00:00:49 GMT</pubDate><description>&lt;p&gt;美债遭遇数周抛售、收益率攀升至多年高位之后，华尔街策略师开始重新发现债券的配置价值。&lt;/p&gt;
+&lt;p&gt;高盛和花旗率先表态，分别从信用市场压力信号和通胀放缓逻辑出发，建议投资者增持美债久期敞口。这一转变发生在10年期美债收益率从多十年高位小幅回落之际，上周一场拍卖的强劲需求为市场提供了喘息空间。&lt;/p&gt;
+&lt;p&gt;不过，并非所有机构都选择跟进。美国银行和巴克莱持更为审慎的立场，警告市场可能低估了美联储本月加息的概率，并强调高收益率本身并不构成买入久期的充分理由。本周即将公布的美国通胀数据，将成为检验上述分歧的关键节点。&lt;/p&gt;
+高盛花旗领衔，看多逻辑各有侧重
+&lt;p&gt;高盛策略师团队由William Marshall领衔，在上周五的报告中写道：&amp;quot;以估值为基础的G10收益率稳定或下行论据，近期颇具挑战性，但长端远期利率相对大多数主要市场的公允水平仍然偏高，多重因素共同强化了当前水平下久期具有吸引力的判断。&amp;quot;&lt;/p&gt;
+&lt;p&gt;高盛指出，&lt;strong&gt;信用市场出现裂缝、投资者持仓结构改善，以及外国央行持有美债规模随美元走强而下降——后者暗示部分抛售源于外汇干预而非基本面恶化——均支持美债反弹的预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;花旗策略师Jason Williams团队则将看多重心集中于短端，倾向于2年至3年期美债。花旗认为，&lt;strong&gt;通胀放缓和薪资增速走弱令美联储不太可能将利率加至2023年的峰值水平，并预计10月议息会议维持利率不变。&lt;/strong&gt;花旗预测核心CPI环比涨幅为0.18%，并表示&amp;quot;即便核心CPI环比录得0.3%，也不足以支撑10月加息&amp;quot;。&lt;/p&gt;
+多家机构跟进，但分歧明显
+&lt;p&gt;摩根士丹利策略师Matthew Hornbach团队认为，除非预期未来十年名义GDP年复合增速达到5.7%、核心PCE持续高于2.5%，否则当前美债收益率已具备配置价值。其经济学家预测明年名义GDP增速为4.5%，&amp;quot;强烈暗示&amp;quot;10年期收益率应低于5.25%。不过，摩根士丹利建议投资者等待本月议息会议和中期选举结束后再入场。&lt;/p&gt;
+&lt;p&gt;三菱日联（MUFG）策略师George Goncalves团队表示，&lt;strong&gt;近期美债拍卖需求强劲，显示市场已给出&amp;quot;足够的让步以吸引价值投资者&amp;quot;，美债已进入&amp;quot;深度价值区间&amp;quot;，&lt;/strong&gt;并将中期选举视为债市潜在的重要催化剂。&lt;/p&gt;
+&lt;p&gt;富国银行策略师Erik Nelson团队同样指出，久期正出现&amp;quot;积极信号&amp;quot;：10年期收益率已从5.35%高点回落，月中拍卖消化顺畅，1年期10年期利率波动率也从高位有所回落。&lt;/p&gt;
+美银巴克莱持保留意见，警示加息风险
+&lt;p&gt;美国银行策略师Mark Cabana团队对市场定价提出质疑，认为掉期交易员低估了美联储本月加息的可能性——当前市场仅定价19%的加息概率，美银认为这一水平&amp;quot;过低&amp;quot;。该团队指出，在通胀数据公布前，美联储官员Williams和Jefferson的鸽派表态以及市场对&amp;quot;选举前加息门槛较高&amp;quot;的预期，共同压低了加息定价，&lt;strong&gt;但&amp;quot;若美国数据持续强劲，美联储将面临选择：加息或承受债市利率飙升&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;巴克莱策略师Anshul Pradhan和Demi Hu则指出，收益率上升已收紧金融条件，波动率的广泛上升表明&amp;quot;市场正在重新评估的不仅是近期政策路径，还有长期利率中枢的不确定性&amp;quot;。巴克莱维持1年远期2s10s SOFR曲线陡峭化建议，并强调&amp;quot;投资者正在获得久期补偿，但这种补偿本身既不能抵御收益率进一步上行，也不是机械式买入久期的信号&amp;quot;。&lt;/p&gt;
+通胀数据成近期关键变量
+&lt;p&gt;多家机构将本周美国通胀报告视为判断利率走向的核心参考&lt;strong&gt;。高盛、花旗、TD Securities等机构均预测核心CPI环比涨幅约为0.2%，较此前有所放缓。TD Securities策略师Gennadiy Goldberg团队预计&amp;quot;超级核心&amp;quot;分项将有所降温，商品和住房分项则小幅回升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，BMO策略师Ian Lyngen团队提示，美联储一级交易商调查构成&amp;quot;事件风险&amp;quot;，市场存在财政部长贝森特可能下调20年期和30年期国债拍卖规模的传言，花旗亦持相同预期，认为这将对长端美债形成相对支撑。&lt;/p&gt;
+&lt;p&gt;截至债市因假日休市前，10年期美债收益率报约5.24%，2年期收益率徘徊于4.8%附近。UBS策略师Phoebe White团队表示，尽管收益率看似高于公允价值，但鉴于经济活动强劲及地缘政治对能源价格的风险，对久期维持&amp;quot;战术中性&amp;quot;立场。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股现疫情以来未见之情景！高盛：机构“恐慌性涌向价值股”，科技股资金流“急剧逆转”</title><link>https://wallstreetcn.com/articles/3783486</link><guid>67f1dfedef71337ff7b212ecf0f9a136a6d4869b4b4bbf33ec0aba925b126b88</guid><pubDate>Tue, 13 Oct 2026 00:31:55 GMT</pubDate><description>&lt;p&gt;美股表面平静之下，暗流汹涌。标普500指数虽距历史高点不足1%，但市场内部的分化程度已触及互联网泡沫破裂以来最差水平，机构投资者正以新冠疫情冲击以来从未有过的速度，争相涌入&amp;quot;安全资产&amp;quot;。&lt;/p&gt;
 &lt;p&gt;据高盛资金流向策略师Lee Coppersmith最新报告，&lt;strong&gt;高盛质量因子（GS Quality Factor）过去8周累计涨幅超过16%，这一量级的走势自2020年新冠疫情冲击以来从未出现。&lt;/strong&gt;与此同时，科技股资金流向出现急剧逆转——此前连续数周蝉联净买入榜首的科技板块，上周骤然转变为净卖出幅度最大的板块，多空比率跌至五年来第17百分位。&lt;/p&gt;
 &lt;p&gt;高盛认为，尽管市场内部风险规避情绪显著升温，但极度集中的市场结构历史上并非看跌信号，未来1至3个月标普500指数仍有望继续走高。油价与利率走势，是当前最主要的下行风险。&lt;/p&gt;
 指数掩盖真相：市场内部分化达互联网泡沫以来最差
@@ -188,39 +284,7 @@
 &lt;p&gt;高盛认为，制约市场情绪进一步修复的核心变量，仍是油价与利率。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;10年期美债收益率突破5%后，高盛利率团队认为收益率的非对称性已偏向下行，利率波动率也开始回落。对于美股而言，并不需要国债大幅反弹，仅是利率企稳便足以提供支撑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，油价与地缘政治局势构成明显的干扰因素。高盛大宗商品团队预计布伦特原油将于12月回落至90美元/桶，并在2027年均价80美元，但同时强调近期风险明显偏向上行。当前油价中仍内嵌逾20美元/桶的风险溢价，供应中断风险依然存在，油价是当前最大的潜在威胁。&lt;/p&gt;
-&lt;p&gt;此外，高盛还注意到期权市场的一个信号：英伟达的下行隐含波动率已降至新冠疫情前从未出现的低位。作为全球市值最大的公司和AI交易的核心标的，高盛认为这为希望对冲AI交易平仓风险或质量因子拥挤风险的投资者，提供了一个&amp;quot;隐藏在眼前的机会&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球最大资管“转向”：看多短期美债，下调美股</title><link>https://wallstreetcn.com/articles/3783488</link><guid>db6693dd66cb3250cca1c999dee126fc6dd2b62f341e26e4ad7e422d9494daa5</guid><pubDate>Tue, 13 Oct 2026 00:31:19 GMT</pubDate><description>&lt;p&gt;全球最大资产管理公司贝莱德（BlackRock）宣布对美国国债和股票的核心配置立场作出重大调整，标志着其坚守近六年的低配美债策略正式终结。&lt;/p&gt;
-&lt;p&gt;据彭博报道，贝莱德投资研究院将短期美国国债上调至超配，将长期美债由低配上调至中性，理由是当前收益率水平已具吸引力，且市场对美联储加息的预期可能“过度”。与此同时，该机构将美国股票由长期持有的超配下调至中性，并将美国机构抵押贷款支持证券（MBS）同步下调至中性，以为上述转变提供资金来源。&lt;/p&gt;
-&lt;p&gt;此次调整发生在10年期美债收益率突破5.2%的背景下，较贝莱德2020年10月首次低配美债时的约0.9%大幅攀升。贝莱德策略师Jean Boivin、Wei Li及全球固定收益首席投资官Rick Rieder在研究报告中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“如今收益率已回归我们长期以来预判的高利率水平，希望锁定部分具有吸引力的收益。”&lt;/p&gt;
-&lt;/blockquote&gt;
-近六年低配立场终结，高收益率触发转向
-&lt;p&gt;贝莱德于2020年10月首次将美国国债列为低配，彼时10年期基准收益率仅约0.9%。此后，随着经济增长超预期、资本需求旺盛，以及油价上涨和中东局势紧张引发的通胀担忧重燃，10年期美债收益率持续攀升，目前已突破5.2%，创逾二十年新高。&lt;/p&gt;
-&lt;p&gt;贝莱德团队表示，在当前收益率水平下，即便未来12个月内收益率再上行75个基点，美债所产生的利息收入仍足以抵消价格损失，总回报不至于转负。这一测算为其超配短期美债提供了量化支撑。&lt;/p&gt;
-&lt;p&gt;此外，贝莱德认为市场当前对美联储加息的定价已走得过远。利率互换数据显示，交易员预计未来12个月内美联储将至少加息三次，每次25个基点。贝莱德认为，&lt;strong&gt;一旦这些押注被修正，短期美债将尤为受益。&lt;/strong&gt;&lt;/p&gt;
-下调美股为“管控近期风险”，AI长期逻辑不变
-&lt;p&gt;贝莱德将美国股票下调至中性，主要理由是“AI基础设施建设过程中潜在的波动性”。该团队明确强调，此次减持并非改变对美股的长期判断，而是着眼于短期风险管理。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“我们是在管控近期风险，而非改变核心判断，”&lt;/strong&gt;该团队在报告中写道。“我们对AI依然持建设性立场，并随时准备在能见度改善、出现具有吸引力的入场时机时重新加仓。”&lt;/p&gt;
-&lt;p&gt;贝莱德表示，其对人工智能投资浪潮的信念保持不变，仍看好AI相关公司及上市基础设施资产。不过，随着利率持续走高，企业能否创造高于资本成本的回报，正成为区分个股表现的关键变量。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;贝莱德此次转向，是大型资产管理机构在收益率大幅上行后集体重新审视固定收益配置的缩影。&lt;/strong&gt;PIMCO高级投资组合顾问Rupert Harrison上周表示，该公司整体债券组合的久期&amp;quot;处于很长时间以来最长的水平&amp;quot;。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 收益率急升后，高盛花旗带头，华尔街开始看多美债</title><link>https://wallstreetcn.com/articles/3783484</link><guid>37b6477bc02cc1449e82c139fc774517f340bb069ae7c0de4dab548f164b17e6</guid><pubDate>Tue, 13 Oct 2026 00:00:49 GMT</pubDate><description>&lt;p&gt;美债遭遇数周抛售、收益率攀升至多年高位之后，华尔街策略师开始重新发现债券的配置价值。&lt;/p&gt;
-&lt;p&gt;高盛和花旗率先表态，分别从信用市场压力信号和通胀放缓逻辑出发，建议投资者增持美债久期敞口。这一转变发生在10年期美债收益率从多十年高位小幅回落之际，上周一场拍卖的强劲需求为市场提供了喘息空间。&lt;/p&gt;
-&lt;p&gt;不过，并非所有机构都选择跟进。美国银行和巴克莱持更为审慎的立场，警告市场可能低估了美联储本月加息的概率，并强调高收益率本身并不构成买入久期的充分理由。本周即将公布的美国通胀数据，将成为检验上述分歧的关键节点。&lt;/p&gt;
-高盛花旗领衔，看多逻辑各有侧重
-&lt;p&gt;高盛策略师团队由William Marshall领衔，在上周五的报告中写道：&amp;quot;以估值为基础的G10收益率稳定或下行论据，近期颇具挑战性，但长端远期利率相对大多数主要市场的公允水平仍然偏高，多重因素共同强化了当前水平下久期具有吸引力的判断。&amp;quot;&lt;/p&gt;
-&lt;p&gt;高盛指出，&lt;strong&gt;信用市场出现裂缝、投资者持仓结构改善，以及外国央行持有美债规模随美元走强而下降——后者暗示部分抛售源于外汇干预而非基本面恶化——均支持美债反弹的预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;花旗策略师Jason Williams团队则将看多重心集中于短端，倾向于2年至3年期美债。花旗认为，&lt;strong&gt;通胀放缓和薪资增速走弱令美联储不太可能将利率加至2023年的峰值水平，并预计10月议息会议维持利率不变。&lt;/strong&gt;花旗预测核心CPI环比涨幅为0.18%，并表示&amp;quot;即便核心CPI环比录得0.3%，也不足以支撑10月加息&amp;quot;。&lt;/p&gt;
-多家机构跟进，但分歧明显
-&lt;p&gt;摩根士丹利策略师Matthew Hornbach团队认为，除非预期未来十年名义GDP年复合增速达到5.7%、核心PCE持续高于2.5%，否则当前美债收益率已具备配置价值。其经济学家预测明年名义GDP增速为4.5%，&amp;quot;强烈暗示&amp;quot;10年期收益率应低于5.25%。不过，摩根士丹利建议投资者等待本月议息会议和中期选举结束后再入场。&lt;/p&gt;
-&lt;p&gt;三菱日联（MUFG）策略师George Goncalves团队表示，&lt;strong&gt;近期美债拍卖需求强劲，显示市场已给出&amp;quot;足够的让步以吸引价值投资者&amp;quot;，美债已进入&amp;quot;深度价值区间&amp;quot;，&lt;/strong&gt;并将中期选举视为债市潜在的重要催化剂。&lt;/p&gt;
-&lt;p&gt;富国银行策略师Erik Nelson团队同样指出，久期正出现&amp;quot;积极信号&amp;quot;：10年期收益率已从5.35%高点回落，月中拍卖消化顺畅，1年期10年期利率波动率也从高位有所回落。&lt;/p&gt;
-美银巴克莱持保留意见，警示加息风险
-&lt;p&gt;美国银行策略师Mark Cabana团队对市场定价提出质疑，认为掉期交易员低估了美联储本月加息的可能性——当前市场仅定价19%的加息概率，美银认为这一水平&amp;quot;过低&amp;quot;。该团队指出，在通胀数据公布前，美联储官员Williams和Jefferson的鸽派表态以及市场对&amp;quot;选举前加息门槛较高&amp;quot;的预期，共同压低了加息定价，&lt;strong&gt;但&amp;quot;若美国数据持续强劲，美联储将面临选择：加息或承受债市利率飙升&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;巴克莱策略师Anshul Pradhan和Demi Hu则指出，收益率上升已收紧金融条件，波动率的广泛上升表明&amp;quot;市场正在重新评估的不仅是近期政策路径，还有长期利率中枢的不确定性&amp;quot;。巴克莱维持1年远期2s10s SOFR曲线陡峭化建议，并强调&amp;quot;投资者正在获得久期补偿，但这种补偿本身既不能抵御收益率进一步上行，也不是机械式买入久期的信号&amp;quot;。&lt;/p&gt;
-通胀数据成近期关键变量
-&lt;p&gt;多家机构将本周美国通胀报告视为判断利率走向的核心参考&lt;strong&gt;。高盛、花旗、TD Securities等机构均预测核心CPI环比涨幅约为0.2%，较此前有所放缓。TD Securities策略师Gennadiy Goldberg团队预计&amp;quot;超级核心&amp;quot;分项将有所降温，商品和住房分项则小幅回升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，BMO策略师Ian Lyngen团队提示，美联储一级交易商调查构成&amp;quot;事件风险&amp;quot;，市场存在财政部长贝森特可能下调20年期和30年期国债拍卖规模的传言，花旗亦持相同预期，认为这将对长端美债形成相对支撑。&lt;/p&gt;
-&lt;p&gt;截至债市因假日休市前，10年期美债收益率报约5.24%，2年期收益率徘徊于4.8%附近。UBS策略师Phoebe White团队表示，尽管收益率看似高于公允价值，但鉴于经济活动强劲及地缘政治对能源价格的风险，对久期维持&amp;quot;战术中性&amp;quot;立场。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 印度重启“货币保卫战”：央行接管石油巨头购汇，投机炒汇的空间被砍掉95%</title><link>https://wallstreetcn.com/articles/3783483</link><guid>9474793c26eb85db4144aaed4078d2531e5a395971676f0b8e2af87b60237f15</guid><pubDate>Tue, 13 Oct 2026 01:15:44 GMT</pubDate><description>&lt;p&gt;印度储备银行在周末推出一揽子卢比保卫措施，将国有石油公司每日高达2.5亿至4亿美元的购汇需求直接转移至央行资产负债表，同时重启4月危机期间启用的衍生品管制手段。&lt;/p&gt;
+&lt;p&gt;此外，高盛还注意到期权市场的一个信号：英伟达的下行隐含波动率已降至新冠疫情前从未出现的低位。作为全球市值最大的公司和AI交易的核心标的，高盛认为这为希望对冲AI交易平仓风险或质量因子拥挤风险的投资者，提供了一个&amp;quot;隐藏在眼前的机会&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 印度重启“货币保卫战”：央行接管石油巨头购汇，投机炒汇的空间被砍掉95%</title><link>https://wallstreetcn.com/articles/3783483</link><guid>9474793c26eb85db4144aaed4078d2531e5a395971676f0b8e2af87b60237f15</guid><pubDate>Tue, 13 Oct 2026 01:15:44 GMT</pubDate><description>&lt;p&gt;印度储备银行在周末推出一揽子卢比保卫措施，将国有石油公司每日高达2.5亿至4亿美元的购汇需求直接转移至央行资产负债表，同时重启4月危机期间启用的衍生品管制手段。&lt;/p&gt;
 &lt;p&gt;印度储备银行自2026年10月12日起开设专项窗口，直接通过指定银行向印度石油（IOC）、印度斯坦石油（HPCL）和巴拉特石油（BPCL）三家国有炼油商提供外汇，完全绕开即期市场。&lt;/p&gt;
 &lt;p&gt;据高盛新兴市场策略师Rishi Radia与Lu Sun在题为《印度：印度储备银行加强卢比防御》的报告中指出，&lt;strong&gt;上述措施短期内可能推动卢比升值1%至2%，但并未解决美元流入不足这一根本问题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛认为，这意味着此前每日在市场上打压卢比的最大购汇方已从现货市场消失。高盛估算，按当前约100美元/桶的油价计算，三家炼油商的年度美元需求约达1200亿美元。&lt;/p&gt;
@@ -297,20 +361,4 @@
 &lt;p&gt;但哈玛克同时强调，解释政策反应机制，不等于对未来利率走势作出承诺。&lt;/p&gt;
 &lt;p&gt;她表示，政策制定者应谨慎对待对利率路径的明确预测，因为经济条件会不断变化，未来的政策选择也必须随之调整。她特别指出：“反应机制不是前瞻指引。”如果市场将官员对决策逻辑的解释当作对未来行动的承诺，原本旨在提高透明度的沟通，就可能演变为市场对政策路径的错误预期。&lt;/p&gt;
 &lt;p&gt;这一立场也涉及美联储如何在透明度与政策灵活性之间取得平衡。哈玛克主张，官员应解释自己如何根据数据和经济条件作出判断，但不应让这种解释变成对未来利率的固定承诺。&lt;/p&gt;
-&lt;p&gt;总体而言，哈玛克周一的讲话传递出两层信息：一方面，她认为通胀压力已扩散至能源以外，关税和AI投资需求使通胀治理更为复杂，货币政策需要保持限制性；另一方面，她倾向于在必要时更及时地采取小幅调整，以降低未来被迫大幅纠偏的风险。不过，她并未在讲话中明确要求美联储10月加息，未来政策走向仍取决于通胀及其他经济数据的变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 抵押贷款利率重返7%，美国成屋待售签约量跌至近十二年低点</title><link>https://wallstreetcn.com/articles/3783475</link><guid>2402ee8ec24a61beed46f764d3b4545b7aefbe750ccfd42e7407114f06ccd5bb</guid><pubDate>Mon, 12 Oct 2026 20:33:02 GMT</pubDate><description>&lt;p&gt;美国楼市正承受新一轮利率冲击。&lt;/p&gt;
-&lt;p&gt;10月12日，据房产经纪商Redfin经季节性调整后的数据，&lt;strong&gt;9月份成屋待售签约量环比下跌4%，创逾三年来最大单月跌幅，触及2014年以来最低点&lt;/strong&gt;。与此同时，&lt;strong&gt;市场挂牌房源供应量升至2020年3月以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此轮冲击的核心驱动力来自抵押贷款利率的快速上行。据房地美数据，&lt;strong&gt;30年期固定抵押贷款平均利率于10月8日升至7.4%，较8月底的6.66%大幅跳升，达到近三年来的最高水平，也较一年前高出逾一个百分点。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;利率骤升对需求的打击蔓延至全美所有主要都市圈。&lt;strong&gt;Redfin追踪的50个主要都市区待签约销售量全数下降，为2023年9月以来首次，彼时抵押贷款利率同样处于高位。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Redfin首席经济学家Daryl Fairweather表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;房地产行业的情绪已发生了重大转变。利率这样上升，能负担得起买房的人就会减少，销售量必然下滑。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-卖家降价，交易撤单创纪录
-
-&lt;p&gt;需求萎缩直接传导至交易层面。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Redfin数据显示，9月份近五分之一的卖家下调了挂牌要价，买家的谈判地位明显增强，购房合同撤约率升至14.5%，为该机构有记录以来的最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在售房源的持续增加也进一步改变了供需格局。&lt;/strong&gt;9月份在售房屋供应量升至2020年3月以来最高，买家的可选余地扩大，但高企的融资成本令实际成交仍面临重重阻碍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此轮利率冲击的影响因地区而异，呈现出明显分化。美国东北部和中西部地区房源供应依然偏紧张，房价仍获一定支撑；而阳光地带部分市场则面临需求走弱、房价下行的双重压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;西海岸所受冲击最为显著，高房价令当地买家对借贷成本上升尤为敏感。&lt;/p&gt;
-&lt;p&gt;其中，西雅图成为主要都市圈中待签约销售跌幅最大的城市，同比下滑24.4%，科技行业招聘放缓进一步加剧了利率上行带来的压力。西雅图中位成交价格同比下跌4.4%，跌幅同样位居全美之首。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;总体而言，哈玛克周一的讲话传递出两层信息：一方面，她认为通胀压力已扩散至能源以外，关税和AI投资需求使通胀治理更为复杂，货币政策需要保持限制性；另一方面，她倾向于在必要时更及时地采取小幅调整，以降低未来被迫大幅纠偏的风险。不过，她并未在讲话中明确要求美联储10月加息，未来政策走向仍取决于通胀及其他经济数据的变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
