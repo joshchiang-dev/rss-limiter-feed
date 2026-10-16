@@ -1,5 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 16 Oct 2026 13:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 财报季来袭！Citadel证券：未来数周是美股基本面真正的压力测试</title><link>https://wallstreetcn.com/articles/3783758</link><guid>8b2e348f5fec10c3855d8f3e8a91e724ace3638ef4daf4f9d215852e9892805c</guid><pubDate>Fri, 16 Oct 2026 03:46:51 GMT</pubDate><description>&lt;p&gt;美股进入三季度财报季，市场焦点正从宏观头条、仓位调整和AI叙事，重新回到企业盈利本身。Citadel Securities首席股票/衍生品策略师Scott Rubner表示，他对四季度美股仍持建设性观点，但未来数周将成为基本面背景更有意义的压力测试。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 16 Oct 2026 13:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 美股开盘涨跌不一，纳指跌0.3%，存储芯片股普跌，特斯拉涨约1%，油价下跌</title><link>https://wallstreetcn.com/articles/3783778</link><guid>864ff2dda202bb4eaa0b4221cd2dc626ca5d3a4b00fc9575798dd7a14fd4e7d6</guid><pubDate>Fri, 16 Oct 2026 13:37:26 GMT</pubDate><description>&lt;p&gt;美股期货周五小幅走高，此前一周市场经历了科技股大跌、美债强劲反弹与通胀超预期的三重冲击。人工智能交易退潮、能源价格高企以及美联储政策路径不确定性，令投资者普遍维持谨慎姿态。&lt;/p&gt;
+&lt;p&gt;道指涨0.3%，标普500指数涨0.1%，纳斯达克100指数跌0.3%。存储芯片股普跌，SK海力士跌约4%，西部数据跌约3%，闪迪跌约3%，美光科技跌约3%，希捷科技跌约2%。Coreweave跌7.7%。特斯拉涨约1%，此前发布了期待已久的Roadster跑车。苹果涨约1%，苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空，下单发货已排到明年。&lt;/p&gt;
+&lt;p&gt;美联储主席Kevin Warsh在国际货币基金组织年会的讨论中未就近期货币政策发表具体表态，交易员随即将10月加息押注下调至约15%，部分抵消了本周通胀数据强劲后的加息预期升温。10年期美债收益率周五回升4个基点，但仍有望录得自2月以来最大单周跌幅；美元连续两日下跌；布伦特原油在每桶106美元附近震荡。&lt;/p&gt;
+&lt;p&gt;DBS Bank宏观策略师Wei Liang Chang指出，&amp;quot;市场对沃什重申AI将在中期提振生产率的判断感到宽慰，这有助于缓和通胀预期，并压低连续加息的担忧。&amp;quot;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;道指涨0.3%，标普500指数涨0.1%，纳斯达克100指数跌0.3%。&lt;/li&gt;
+&lt;li&gt;存储芯片股普跌，SK海力士跌约4%，西部数据跌约3%，闪迪跌约3%，美光科技跌约3%，希捷科技跌约2%。Coreweave跌7.7%。特斯拉涨约1%，此前发布了期待已久的Roadster跑车。苹果涨约1%，苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空，下单发货已排到明年。&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率上涨3个基点，至5.09%&lt;/li&gt;
+&lt;li&gt;日本10年期收益率上涨4.5个基点，至2.935%&lt;/li&gt;
+&lt;li&gt;澳大利亚10年期收益率上涨2个基点，至5.23%&lt;/li&gt;
+&lt;li&gt;美元指数下跌0.1%&lt;/li&gt;
+&lt;li&gt;黄金价格基本持平于每盎司4172美元。&lt;/li&gt;
+&lt;li&gt;布伦特原油下跌0.7%，报每桶105.20美元&lt;/li&gt;
+&lt;li&gt;WTI原油期货跌幅扩大至1%，报96.95美元/桶。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+
+AI交易退潮，科技股承压
+
+&lt;p&gt;本周市场的核心叙事是人工智能相关交易的明显降温。随着市场对AI基础设施建设成本的担忧持续升温，资金从科技板块流出，纳斯达克100指数自周一以来已累计下跌3%，芯片股尤为脆弱。&lt;/p&gt;
+&lt;p&gt;Lombard Odier Investment Managers宏观主管Florian Ielpo表示：&amp;quot;经济仍处于扩张之中，但居民家庭和高杠杆企业正承受压力。&amp;quot;他认为，这一背景支持对政府债券持建设性立场，同时对股票采取更具甄别性的配置方式。&lt;/p&gt;
+&lt;p&gt;针对人工智能板块，Ielpo指出关键问题在于：在当前融资成本水平下，AI投资能否产生具有吸引力的回报。这一疑虑正是本周科技股估值承压的核心逻辑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+美债重获避险地位，债券与股票负相关修复
+
+&lt;p&gt;本周市场的另一重要信号是美债避险属性的回归。据彭博策略师Skylar Montgomery Koning分析，在关键经济数据普遍超预期的背景下，收益率仍出现下行，这一现象颇为罕见。&lt;/p&gt;
+&lt;p&gt;其解读是：AI交易的体量已足够大，一旦市场对其出现实质性下行的担忧，足以压过通胀供给冲击带来的加息预期，从而重新激活债券的避险买盘。这意味着债券与股票的对冲关系在一定程度上得到修复。&lt;/p&gt;
+&lt;p&gt;对于债券市场后续走势，Lombard Odier的Ielpo认为，油价仍是核心变量，其对通胀和居民购买力的双重影响将持续左右央行政策路径。布伦特原油目前仍在每桶106美元附近高位运行。&lt;/p&gt;
+
+
+美联储措辞偏鹰，但市场解读趋于平静
+
+&lt;p&gt;本周美联储官员表态整体偏向鹰派，据彭博经济研究数据，美联储发言的鹰派程度已升至2023年以来最高水平。然而，周五市场的反应相对温和。&lt;/p&gt;
+&lt;p&gt;Santander Asset Management的Francisco Simón将主席Kevin Warsh的讲话基调定性为&amp;quot;强调纪律，而非紧迫&amp;quot;，认为其核心信息是持续聚焦通胀目标，而非表现出过激的政策反应倾向。&lt;/p&gt;
+&lt;p&gt;Simón同时指出，未来一周企业财报将成为市场最主要的催化剂。在当前估值水平下，投资者愈发关注管理层对业绩前景的指引，需要确认盈利展望能否继续支撑当前估值。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 财报季来袭！Citadel证券：未来数周是美股基本面真正的压力测试</title><link>https://wallstreetcn.com/articles/3783758</link><guid>8b2e348f5fec10c3855d8f3e8a91e724ace3638ef4daf4f9d215852e9892805c</guid><pubDate>Fri, 16 Oct 2026 03:46:51 GMT</pubDate><description>&lt;p&gt;美股进入三季度财报季，市场焦点正从宏观头条、仓位调整和AI叙事，重新回到企业盈利本身。Citadel Securities首席股票/衍生品策略师Scott Rubner表示，他对四季度美股仍持建设性观点，但未来数周将成为基本面背景更有意义的压力测试。&lt;/p&gt;
 
 
 
@@ -255,28 +293,7 @@ Meta财报：超大规模支出回报的首次大考
 &lt;p&gt;芯片公司是本轮AI资本支出热潮的最大受益者之一，但相关股票近期已明显降温。费城半导体指数本月累计下跌8%，尽管年内涨幅仍超过60%，远高于标普500指数同期约13%的涨幅。&lt;/p&gt;
 &lt;p&gt;投资者将于下周三关注Lam Research和Texas Instruments的财报，以获取半导体行业整体需求的更广泛信号。两家公司股价今年均已上涨约60%。&lt;/p&gt;
 &lt;p&gt;此外，特斯拉、奈飞、宝洁及GE Aerospace等高知名度公司的财报也将在下周陆续公布，共同构成这一轮财报季的重要观察窗口。&lt;/p&gt;
-&lt;p&gt;UBS全球财富管理分析师在周四的报告中指出，&amp;quot;又一个强劲的财报季应有助于股市承受温和走高的利率压力。&amp;quot;然而，在AI交易信心已出现裂痕的当下，Meta能否率先交出一份令市场信服的答卷，将在很大程度上决定这场万亿级AI豪赌的市场叙事能否延续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 报道：CoreWeave三位创始人在股价崩跌前套现33亿美元</title><link>https://wallstreetcn.com/articles/3783800</link><guid>45edee1dfbf6843e2cc8140bac49cb8013f52417dc60fdebd3ef0821698a2d85</guid><pubDate>Fri, 16 Oct 2026 12:58:54 GMT</pubDate><description>&lt;p&gt;CoreWeave三位联合创始人在公司股价崩跌前累计套现逾33亿美元，而当前该公司债券已跌入困境区间，信用违约互换利差飙至历史高位，市场对其偿债能力的担忧急剧升温。&lt;/p&gt;
-&lt;p&gt;据彭博对公司申报文件的统计，&lt;strong&gt;Michael Intrator、Brian Venturo和Brannin McBee三人自2025年3月IPO以来持续大规模减持，仅2026年一年合计套现即达24亿美元。&lt;/strong&gt;与此同时，CoreWeave股价较5月峰值已累计下跌逾50%，创始人账面财富蒸发约150亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;公司债务压力正加速显现。截至本周末，CoreWeave 2032年到期的9.625%无担保债券跌至面值约76美分，已触及市场通常定义的困境债务门槛；五年期信用违约互换利差升至创纪录的1117个基点，隐含五年内违约概率高达63%。&lt;/p&gt;
-
-创始人减持规模：IPO后分批出货，累计套现超33亿
-
-&lt;p&gt;据彭博报道，三位创始人的减持贯穿上市后整个周期，规模可观。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Venturo累计套现逾12亿美元，占其上市时原始持股的35%以上；McBee自IPO以来合计出售约10.6亿美元股份，相当于其未摊薄持股比例的40.4%；Intrator今年以来已出售逾9.07亿美元股份，三人累计套现超33亿。&lt;/strong&gt;2026年，他们的合计套现额即达24亿美元。&lt;/p&gt;
-&lt;p&gt;上述减持发生于公司股价高位期间。此后，CoreWeave股价较5月峰值跌幅超过50%，创始人所持剩余股权的账面价值随之大幅缩水约150亿美元。&lt;/p&gt;
-
-债券跌入困境区间，违约风险定价急剧升温
-
-&lt;p&gt;CoreWeave的信用市场信号已持续发出警示。&lt;/p&gt;
-&lt;p&gt;该公司2032年到期无担保债券本周跌至面值约76美分，这一价位通常被市场视为困境债务的典型特征。与此同时，CoreWeave五年期信用违约互换利差飙升至1117个基点，为历史新高，所隐含的五年违约概率达63%。&lt;/p&gt;
-&lt;p&gt;CoreWeave的商业模式是向客户租赁搭载英伟达芯片的数据中心算力。市场对其债务水平的质疑，正在向更广泛的超大规模云服务商及新兴云计算运营商蔓延，整个行业的融资成本前景由此受到拖累。&lt;/p&gt;
-
-连锁风险：CoreWeave或成多层债务链条的关键节点
-
-&lt;p&gt;CoreWeave的潜在风险并不止于自身资产负债表。&lt;/p&gt;
-&lt;p&gt;CoreWeave既是其自身无担保债券的借款方，同时也是多家垃圾评级数据中心债券发行主体的关键租户——后者债券的偿还在相当程度上依赖CoreWeave按期支付租金。若CoreWeave的资本成本当前已高达16%，则以其租约回款为支撑的相关债券发行主体，其隐含资本成本将更为高企。&lt;/p&gt;
-&lt;p&gt;Gartner此前预计，超过80%的新兴云计算服务商将面临出局。上述连锁传导路径意味着，CoreWeave一旦出现实质性信用事件，冲击将不仅限于公司本身，而可能波及整个以AI算力租赁为核心的融资生态链条。Deutsche Bank亦就此发表评论，但具体内容尚未完整披露。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 生存还是毁灭？德银：AI大潮下，企业“要么改变，要么死亡”，没有中间路线</title><link>https://wallstreetcn.com/articles/3783805</link><guid>d39ba9be6505f37631a79af206e56cd167fcbc2c062d8fa0009a9a630f1d0787</guid><pubDate>Fri, 16 Oct 2026 13:26:40 GMT</pubDate><description>&lt;p&gt;人工智能正在重塑每一个行业的竞争格局，而德意志银行警告，真正的风险并非AI交易整体退潮，而是AI将把每个行业的企业切割成截然对立的两类：采纳者与出局者。&lt;/p&gt;
+&lt;p&gt;UBS全球财富管理分析师在周四的报告中指出，&amp;quot;又一个强劲的财报季应有助于股市承受温和走高的利率压力。&amp;quot;然而，在AI交易信心已出现裂痕的当下，Meta能否率先交出一份令市场信服的答卷，将在很大程度上决定这场万亿级AI豪赌的市场叙事能否延续。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 生存还是毁灭？德银：AI大潮下，企业“要么改变，要么死亡”，没有中间路线</title><link>https://wallstreetcn.com/articles/3783805</link><guid>d39ba9be6505f37631a79af206e56cd167fcbc2c062d8fa0009a9a630f1d0787</guid><pubDate>Fri, 16 Oct 2026 13:26:40 GMT</pubDate><description>&lt;p&gt;人工智能正在重塑每一个行业的竞争格局，而德意志银行警告，真正的风险并非AI交易整体退潮，而是AI将把每个行业的企业切割成截然对立的两类：采纳者与出局者。&lt;/p&gt;
 &lt;p&gt;德意志银行研究院在一份题为《AI繁荣还是末日：超级智能将带来什么感受，何时到来》的20页报告中指出，随着AI能力持续跃升，企业将被迫分化为&amp;quot;双峰&amp;quot;格局——&lt;strong&gt;采纳者与出局者之间几乎不存在中间地带。&lt;/strong&gt;报告援引前谷歌CEO Eric Schmidt提出的&amp;quot;旧金山共识&amp;quot;——即硅谷主流观点认为，通过规模化定律与AI自我迭代，超级智能将于2030年前后到来——并据此推演出对投资组合的深远冲击。&lt;/p&gt;
 &lt;p&gt;这一判断的直接市场含义是：传统投资组合管理的三大基石——分散化、以历史波动率衡量风险、下跌时买入——在双峰世界中均可能失效。本周AI板块的剧烈震荡提供了一次现实演练：新云服务商与存储芯片制造商遭受重创，部分看似平静的股价在崩跌前夕波动率处于历史最低分位。&lt;/p&gt;
 
@@ -326,27 +343,19 @@ Meta财报：超大规模支出回报的首次大考
 &lt;li&gt;以及初级岗位招聘是否承压，并逐步向高级职位蔓延。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;德银并未预测超级智能的到来，其基准情景是AI在不发生体制性突破的前提下维持经济重要性。但其投资启示无论在哪种路径下都同样成立：在双峰世界中，&amp;quot;买入下跌&amp;quot;是一个分类判断，而非免费期权——投资者需要先回答的问题是，这家企业究竟是采纳者，还是出局者。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%</title><link>https://wallstreetcn.com/articles/3783799</link><guid>0f167f52d18f3ccb589971d6a3b1f99e27a8ceaa84f683151d54308794376d5b</guid><pubDate>Fri, 16 Oct 2026 12:37:23 GMT</pubDate><description>&lt;p&gt;美联储主席沃什在曼谷的一番表态，令市场对本月加息的预期大幅降温。&lt;/p&gt;
-&lt;p&gt;周五上午，沃什在国际货币基金组织年会的一场对话活动中，对货币政策前景几乎未作具体表态，仅重申美联储致力于实现价格稳定。这一&amp;quot;偏鸽&amp;quot;姿态令投资者迅速调整押注——&lt;strong&gt;市场对美联储10月27日至28日政策会议加息的概率预期，从沃什发言前的约27%骤降至15%以下。&lt;/strong&gt;美股期货随之扩大涨幅，标普500指数期货转跌为涨，上涨0.2%，美元则小幅走低。&lt;/p&gt;
-&lt;p&gt;沃什的表态强化了外界对美联储将在10月暂停加息的预判。高盛首席经济学家Jan Hatzius领衔的团队在研报中指出，结合近期联邦公开市场委员会（FOMC）其他官员的表态，沃什此次讲话进一步表明美联储将在10月按兵不动，该行预计下一次加息将在12月落地。&lt;/p&gt;
-
-刻意保持模糊，不为市场提供&amp;quot;鹰派抓手&amp;quot;
-
-&lt;p&gt;面对市场对加息路径的关切，沃什在曼谷的发言刻意保持克制。&amp;quot;我们已明确表示将实现价格稳定，并在约一个月前撤回了一定程度的宽松政策，&amp;quot;他说，&amp;quot;我不会预判会议结果，我不认为现在应该说出我在今年剩余会议上可能采取的行动。&amp;quot;&lt;/p&gt;
-&lt;p&gt;货币政策分析机构Monetary Policy Analytics经济学家Derek Tang在发给客户的报告中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;很明显，他不打算释放任何市场可以解读为鹰派的信号。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;沃什同时表示，自9月FOMC会议以来，&amp;quot;整体经济形势大体符合我们的预期&amp;quot;。近几周，多位美联储官员曾重申年内可能仍需进一步加息，但也强调在再次行动前有足够时间收集经济数据。&lt;/p&gt;
-
-9月已加息，多数官员预计年内还有一次
-
-&lt;p&gt;美联储于9月将基准利率上调25个基点，这是自2023年以来的首次加息，获得全部19位决策者一致支持。与此同时，多数官员在点阵图中预示年内还将有一次加息。&lt;/p&gt;
-&lt;p&gt;在此背景下，10月会议是否行动、加息是否留待12月，成为市场关注的核心问题。沃什曼谷发言前，加息概率已在27%附近徘徊，其表态加速了预期的进一步回落，令按兵不动的预判愈发成为主流。&lt;/p&gt;
-
-人工智能：短期推升需求，中期带来供给冲击
-
-&lt;p&gt;除货币政策外，沃什在曼谷还就人工智能发表了大篇幅看法，称其为他有生之年全球经济中最重要的创新，但同时对其短期影响保持审慎。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;它显然会先冲击经济的需求侧，之后才会影响供给侧，&amp;quot;沃什说，&amp;quot;作为央行官员，职责是维护价格稳定与充分就业，必须将这一变化视为一种冲击来认真对待。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;沃什认为，人工智能从中期来看是一种正向供给冲击，但当前正在推升总需求，而其对就业市场的影响尚存不确定性。他的部分同僚也表达了类似关切，甚至有官员质疑，当前支撑人工智能基础设施建设的投资浪潮是否可能导致经济过热。&lt;/p&gt;
-&lt;p&gt;沃什还宣布，专门研究人工智能对生产率和就业影响的工作组将于11月16日在旧金山湾区举行现场听证会。这是他召集的五个工作组之一，各工作组将于今年底或2027年初向FOMC提交政策建议。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;德银并未预测超级智能的到来，其基准情景是AI在不发生体制性突破的前提下维持经济重要性。但其投资启示无论在哪种路径下都同样成立：在双峰世界中，&amp;quot;买入下跌&amp;quot;是一个分类判断，而非免费期权——投资者需要先回答的问题是，这家企业究竟是采纳者，还是出局者。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI泡沫隐忧暂缓全球债券抛售潮，美债迎来今年以来最佳周表现</title><link>https://wallstreetcn.com/articles/3783796</link><guid>d90b0a8f41312ed21d16b41a0578f6380d00e333dab14351ecc238b0c43a691b</guid><pubDate>Fri, 16 Oct 2026 11:56:08 GMT</pubDate><description>&lt;p&gt;美国国债本周强势反弹，借助科技股抛售潮带来的避险需求，终结了持续数月的全球债券熊市。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10年期美债收益率本周下行14个基点至5.11%，创下今年2月以来最佳单周表现。&lt;/strong&gt;此前，受伊朗地区冲突及美国经济韧性驱动，该收益率一度突破5.3%，触及2002年以来最高水平。本周转折的核心催化剂，是市场对AI繁荣可持续性的担忧引发全球芯片股大跌，投资者随之涌入政府债券避险。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此轮反弹同步缓解了欧洲主要经济体的融资压力。英国10年期国债收益率从本月早些时候逾5.5%的高位回落至5.39%，意大利10年期国债收益率亦从近4.75%降至4.53%。&lt;/p&gt;
+避险情绪主导，科技股重挫触发债市逆转
+&lt;p&gt;本周债市的反转，直接源于科技板块的大幅调整。以科技股为主的纳斯达克100指数本周累计下跌约3%，创7月以来最差单周表现。数据中心相关债券价格下滑，令市场对AI投资热潮能否持续产生疑虑，部分投资者将AI相关借款方所面临的处境称为&amp;quot;达尔文时刻&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Aviva Investors全球股票主管Richard Saldanha表示，科技股的上涨&amp;quot;在一段时间内确实有悖于重力法则&amp;quot;，但更高借资成本的压力终究开始显现。&lt;/p&gt;
+&lt;p&gt;Jefferies分析师Mohit Kumar指出，&amp;quot;此轮行情由投资者对AI周期的担忧以及空头头寸平仓共同驱动。&amp;quot;这一机制意味着，此前押注债券继续下跌的投资者被迫回补，进一步放大了债市的反弹幅度。&lt;/p&gt;
+通胀数据冲击有限，美联储表态稳定预期
+&lt;p&gt;本周债市的回暖并非一帆风顺。&lt;/p&gt;
+&lt;p&gt;美国9月CPI数据显示通胀率升至3.7%，中东冲突推高燃油价格是主要推手。数据公布后，&lt;strong&gt;交易员一度大幅上调加息预期，周三市场一度定价未来一年将有四次25个基点的加息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，随着抛售情绪从债市蔓延至股市，避险买盘迅速逆转了债券的跌势。美联储主席Kevin Warsh周五在曼谷国际货币基金组织峰会上表示，高于预期的通胀数据并未改变其对美国经济的判断，进一步稳定了市场情绪。期货市场目前显示，未来12个月加息预期已回落至三次。&lt;/p&gt;
+&lt;p&gt;Royal London Asset Management多资产投资主管Trevor Greetham表示&lt;strong&gt;，&amp;quot;较高的收益率吸引了政府债券买家，叠加科技股的避险情绪，以及市场认为美联储可能在10月按兵不动的预期。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+高收益率吸引长线资金，大型机构持续布局
+&lt;p&gt;此轮债市反弹，也折射出高收益率对长线资金的持续吸引力。近几个月来，美债已吸引大量买盘涌入。资产管理巨头Pimco等头部机构明确表示，相较于高估值股票和收窄的信用利差，当前债券收益率&amp;quot;极具吸引力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;不过，借贷成本的整体上行仍对全球借款人构成持续压力，尤其是评级较低的企业。AI相关借款方所面临的融资环境收紧，正成为市场密切关注的新风险点。本周数据中心债券的下跌，已向市场发出了明确的预警信号。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
