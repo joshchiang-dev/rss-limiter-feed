@@ -1,24 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 17 Oct 2026 21:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] IMF警告日本可能需要更快加息，全球债市再添压力？</title><link>https://wallstreetcn.com/articles/3783840</link><guid>667de32f82cceed1c99a36881d1e7b6ebf9f2a9bb17829de0ca29ec609b30b72</guid><pubDate>Sat, 17 Oct 2026 09:44:22 GMT</pubDate><description>&lt;p&gt;国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。这一表态，在全球债市已然动荡之际，令市场对日本资金撤离海外资产的担忧进一步升温。&lt;/p&gt;
-&lt;p&gt;IMF亚太部门主任Krishna Srinivasan在本周于曼谷召开的IMF年会期间接受路透社采访时表示，&lt;strong&gt;日本央行&amp;quot;正在做正确的事&amp;quot;，并强调若通胀上升快于预期，&amp;quot;必须更快收紧，因为你不希望通胀预期脱锚。这取决于数据。&amp;quot;&lt;/strong&gt;日本央行行长植田和男亦在出席本次IMF年会时重申，央行将专注于将核心通胀锚定在2%目标附近，不会容忍任何超调，进一步强化了市场对年内再度加息的预期。&lt;/p&gt;
-&lt;p&gt;IMF的表态恰逢全球债市承压之际。法国10年期国债收益率一度逼近5%，创2002年以来新高，借贷成本已高于希腊和意大利；美国10年期国债收益率攀升至5.28%的数十年高位，即便通胀数据走软也未能遏制抛售势头。在部分市场分析人士看来，日本政策正常化及由此引发的日本资金回流，或是这两场动荡背后不可忽视的结构性力量。&lt;/p&gt;
-
-日本央行正常化提速预期升温
-
-&lt;p&gt;日本央行已于今年6月和9月相继加息，将政策利率推升至1.25%，为31年来最高。多数分析师预计年内还将有至少一次加息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Srinivasan指出，日元疲软进一步推高了原材料进口成本，加剧了国内通胀压力，这也正是促使日本央行持续收紧政策的重要背景之一。日本央行本月晚些时候将召开关键政策会议，市场普遍预计届时利率将维持不变，但可能释放鹰派信号，为12月加息铺路。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，中东冲突带来的通胀风险和人工智能需求旺盛，也在本次IMF年会上成为各国政策制定者讨论的重要议题。&lt;/p&gt;
-
-IMF：日元干预不违背浮动汇率承诺
-
-&lt;p&gt;在汇率问题上，IMF对日本当局的立场给予背书。Srinivasan表示，日本当局&amp;quot;完全致力于自由浮动汇率制度&amp;quot;，他与日方进行了多次讨论，对此&amp;quot;毫不怀疑&amp;quot;。&lt;/p&gt;
-&lt;p&gt;IMF在其亚洲经济报告的分析章节中指出，2025年年中以来日元的大幅波动，很大程度上与收益率差等基本面因素关联不大，而是与日元期货的投机性仓位同步移动。日本于今年7月31日与美国联合进行了一次罕见的协调干预，以阻止日元跌至近40年低点。Srinivasan表示，日本汇市深度充足，当局将汇率波动作为&amp;quot;第一道防线&amp;quot;，干预仅在特定情况下使用。&lt;/p&gt;
-&lt;p&gt;除货币政策外，日本的财政可持续性同样令市场存有疑虑。市场担心日本政府的大规模支出计划，叠加明年4月起为期两年的消费税下调，将进一步扩大本已庞大的债务规模。&lt;/p&gt;
-&lt;p&gt;Srinivasan承认市场对财政风险的担忧，但也指出，疫情以来日本的财政整合力度实际上已超过其他任何一个G7国家，部分原因在于税收收入的持续增长。他同时强调，日本需要明确新支出和减税计划的资金来源，并建立中期财政框架以稳定市场预期。&lt;/p&gt;
-
-日本资金撤离或加剧全球债市波动
-
-&lt;p&gt;全球债市的动荡，与日本政策正常化进程之间的关联正受到越来越多的关注。据彭博专栏作家Gearoid Reidy在分析文章中指出，世界或许并未为&amp;quot;有利率的日本&amp;quot;做好充分准备，而法国可能只是第一个受到冲击的市场。&lt;/p&gt;
-&lt;p&gt;数据显示，截至今年7月，日本投资者持有约23万亿日元（约合1450亿美元）法国国债，是日本在欧元区最大的超配仓位。然而随着日本10年期国债收益率上月升破3%，创30年新高，经汇率对冲后，法国10年期国债相对日本国债的收益率优势已收窄至约40个基点，吸引力大幅下滑。&lt;/p&gt;
-&lt;p&gt;收益率优势消退叠加法国财政状况恶化，日本资金已开始松动。数据显示，日本持有的法国国债规模较去年底减少2.5%。三井住友DS资产管理旗下由Shinji Kunibe负责的全球固收基金已出于财政担忧清仓法债。瑞穗的Masayuki Nakajima表示：&amp;quot;即便估值看起来更便宜，日本投资者重建仓位的动力也在下降。&amp;quot;&lt;/p&gt;
-&lt;p&gt;随着IMF为日本加快加息提供政策支撑，日本国内资产吸引力的持续回升，或将使这一趋势延续，并对依赖日本资金的海外债券市场形成持续的结构性压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 17 Oct 2026 22:29:08 GMT</lastBuildDate></channel></rss>
