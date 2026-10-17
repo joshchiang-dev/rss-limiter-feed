@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 17 Oct 2026 08:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅</title><link>https://wallstreetcn.com/articles/3783822</link><guid>3cc05e950991896100ff4deb9a9c2c110611b2d4c59c32aa56bed82db4e9b935</guid><pubDate>Fri, 16 Oct 2026 23:18:56 GMT</pubDate><description>&lt;p&gt;美国股市周五全线下跌，投资者对人工智能相关企业能否及时产生足够利润以偿付高企债务的忧虑持续发酵，科技板块首当其冲。纳斯达克综合指数本周累计下挫约4.5%，创下自6月26日当周以来最大单周跌幅。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 17 Oct 2026 09:29:09 GMT</lastBuildDate><item><title>[华尔街见闻] 信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅</title><link>https://wallstreetcn.com/articles/3783822</link><guid>3cc05e950991896100ff4deb9a9c2c110611b2d4c59c32aa56bed82db4e9b935</guid><pubDate>Fri, 16 Oct 2026 23:18:56 GMT</pubDate><description>&lt;p&gt;美国股市周五全线下跌，投资者对人工智能相关企业能否及时产生足够利润以偿付高企债务的忧虑持续发酵，科技板块首当其冲。纳斯达克综合指数本周累计下挫约4.5%，创下自6月26日当周以来最大单周跌幅。&lt;/p&gt;
 &lt;p&gt;市场对AI基础设施企业债务风险的担忧持续升温，CoreWeave部分债券收益率周四一度突破15%，周五仍然维持高位。CoreWeave股价周五再度重挫12%，较年内高点已累计下跌逾50%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，美联储主席沃什在曼谷国际货币基金组织活动上拒绝就10月利率会议前景提供任何指引，令市场缺乏政策方向支撑，长端美债收益率随油价上涨及通胀顾虑进一步走高，10年期国债收益率升至5.097%。&lt;/p&gt;
@@ -145,27 +145,7 @@ AI债务风险浮出水面，CoreWeave成引爆点
 &lt;p&gt;两位分析师进一步指出，若苹果能够成功说服现有iPhone Pro及Pro Max用户转向该折叠入门机型，将推动iPhone整体平均售价分别提升82%和67%。iPhone Duo售价为1999美元。&lt;/p&gt;
 &lt;p&gt;iPhone Duo是苹果新任首席执行官John Ternus上任以来最具分量的产品发布之一。iPhone Duo搭载7.6英寸内屏及经过精心设计的铰链结构，并配备针对折叠形态优化的iOS新体验。&lt;/p&gt;
 &lt;p&gt;John Ternus于今年9月接任CEO一职，上任以来已相继推出HomeView智能家居中枢等新品。&lt;/p&gt;
-&lt;p&gt;据彭博报道，苹果还将于本月晚些时候推出搭载触控屏幕的MacBook Pro及其他设备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI融资成本攀升：Anthropic拟向黑石提供超10%收益率</title><link>https://wallstreetcn.com/articles/3783838</link><guid>88259c6343e946ded93ad3c9f347d56cfdddb6a5c0db07ac22468fccdf63db05</guid><pubDate>Sat, 17 Oct 2026 08:14:47 GMT</pubDate><description>&lt;p&gt;Anthropic正以远高于市场基准的融资成本推进其史上最大规模芯片融资，折射出AI基础设施军备竞赛背后日益高企的资本代价。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》17日报道，&lt;strong&gt;Anthropic正向黑石集团（Blackstone）提供逾10%的收益率，以换取后者参与这笔代号&amp;quot;Project North Star&amp;quot;、总规模高达600亿美元的债务融资。&lt;/strong&gt;知情人士透露，黑石旗下基金将认购其中90亿美元，约占180亿美元次级贷款的一半，并获得10%的票息，加计新发折价及其他费用后实际总回报更高。&lt;/p&gt;
-&lt;p&gt;这笔融资规模预计将创下芯片融资历史纪录，并将成为衡量投资者对AI债务胃口的重要风向标。值得关注的是，仅仅四个月前，Anthropic以8.5%利率完成代号&amp;quot;Project Big Sky&amp;quot;的约44亿美元融资，借贷成本的快速攀升，凸显出投资者对AI企业密集融资需求的警惕情绪持续升温。&lt;/p&gt;
-
-600亿融资案：规模创纪录，成本同步飙升
-
-&lt;p&gt;&amp;quot;Project North Star&amp;quot;旨在为Anthropic采购约1.5吉瓦由谷歌开发的定制半导体——即张量处理单元（TPU）——提供资金。&lt;/p&gt;
-&lt;p&gt;整体债务结构分为两层：&lt;strong&gt;约420亿美元为优先级债务，由参与芯片研发的Broadcom提供担保；其余180亿美元为次级贷款，Blackstone认购其中90亿美元，剩余份额将于未来数月面向更广泛投资者出售，出售利率可能低于黑石所获条款。&lt;/strong&gt;预计当资金于2027年提款完毕后，这部分债务将进入机构144A债券市场流通。&lt;/p&gt;
-&lt;p&gt;Blackstone拒绝置评，Anthropic未立即回应置评请求。&lt;/p&gt;
-
-溢价逾300个基点，风险溢价需求凸显
-
-&lt;p&gt;根据ICE美银BB级美国高收益债券指数，信用状况与Anthropic相近的借款人在公开债券市场通常支付约7%的收益率。Anthropic此次向黑石提供的10%票息，较该基准高出逾300个基点，若计入折价及费用，实际收益差距更大。&lt;/p&gt;
-&lt;p&gt;这一溢价反映出两方面压力：其一，投资者对科技企业短期内集中释放的庞大融资需求愈发审慎，要求更高的风险补偿；其二，大型融资交易通常需向锚定投资者和早期承诺方提供额外溢价，以确保交易顺利落地。&lt;/p&gt;
-&lt;p&gt;借贷成本的快速上行，亦令Anthropic谋求投资级评级的路径更加复杂。评级机构KBRA于今年6月将Anthropic评定为投资级以下一档，本次次级债务预计将获得类似评级。&lt;/p&gt;
-
-IPO前的战略布局：高成本融资换长期降费空间
-
-&lt;p&gt;尽管融资成本高企，Anthropic仍选择主动承压，背后存在明确的战略逻辑。据媒体援引知情人士透露，Blackstone已向其投资伙伴表示，&lt;strong&gt;此次交易是在高收益水平下投资Anthropic关联债务的罕见机会——一旦Anthropic完成上市，预计将获得投资级评级，届时其融资成本将大幅下降。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一叙事本质上是一笔时间套利：Anthropic在上市前以较高利率换取必要的算力储备，并押注上市后信用评级提升将带来再融资空间，从而摊薄长期资本成本。对于黑石等早期投资者而言，则是在风险窗口期锁定高于市场水平的收益。&lt;/p&gt;
-&lt;p&gt;当前这笔融资既是Anthropic规模扩张的资金保障，也将是AI行业债务融资市场能否持续承接大体量交易的一次关键压力测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110</title><link>https://wallstreetcn.com/articles/3783778</link><guid>864ff2dda202bb4eaa0b4221cd2dc626ca5d3a4b00fc9575798dd7a14fd4e7d6</guid><pubDate>Fri, 16 Oct 2026 23:26:52 GMT</pubDate><description>&lt;p&gt;科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。&lt;/p&gt;
+&lt;p&gt;据彭博报道，苹果还将于本月晚些时候推出搭载触控屏幕的MacBook Pro及其他设备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110</title><link>https://wallstreetcn.com/articles/3783778</link><guid>864ff2dda202bb4eaa0b4221cd2dc626ca5d3a4b00fc9575798dd7a14fd4e7d6</guid><pubDate>Fri, 16 Oct 2026 23:26:52 GMT</pubDate><description>&lt;p&gt;科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;周五，纳斯达克100指数收跌2.5%，标普500指数跌1.1%。云计算服务商CoreWeave单日暴跌12%，其债券收益率本周一度突破15%，信用风险攀升至通常预示财务困境的水平。&lt;/p&gt;
 &lt;p&gt;本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为资金减仓的重点。媒体指出，CoreWeave股价持续下跌令市场更关注AI交易的融资问题，未来几周科技巨头的财报将检验高估值能否得到盈利支撑。&lt;/p&gt;
@@ -454,4 +434,24 @@ SpaceX冷气推进器：氮气驱动，最高推力近90千牛
 &lt;p&gt;座舱布局以驾驶者为核心。座椅底座固定，驾驶位置通过可移动踏板组调整，靠背倾角可调。中央屏幕始终朝向驾驶者，前风挡底部嵌有一组纤薄屏幕。方向盘采用异形设计，延续了座舱整体的航空器风格。车辆同时配备线控制动与线控转向。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Lars Moravy透露，目前已有四至五辆原型车投入开发，计划于明年年初制造更大规模的测试车队。整车目标重量略低于1700公斤，最终数据仍在确认中。基础版车型仍在开发阶段，现阶段产品序列以Performance版为起点。售价方面，特斯拉尚未公布任何版本的定价信息。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI融资成本攀升：Anthropic拟向黑石提供超10%收益率</title><link>https://wallstreetcn.com/articles/3783838</link><guid>88259c6343e946ded93ad3c9f347d56cfdddb6a5c0db07ac22468fccdf63db05</guid><pubDate>Sat, 17 Oct 2026 08:14:47 GMT</pubDate><description>&lt;p&gt;Anthropic正以远高于市场基准的融资成本推进其史上最大规模芯片融资，折射出AI基础设施军备竞赛背后日益高企的资本代价。&lt;/p&gt;
+&lt;p&gt;据英国《金融时报》17日报道，&lt;strong&gt;Anthropic正向黑石集团（Blackstone）提供逾10%的收益率，以换取后者参与这笔代号&amp;quot;Project North Star&amp;quot;、总规模高达600亿美元的债务融资。&lt;/strong&gt;知情人士透露，黑石旗下基金将认购其中90亿美元，约占180亿美元次级贷款的一半，并获得10%的票息，加计新发折价及其他费用后实际总回报更高。&lt;/p&gt;
+&lt;p&gt;这笔融资规模预计将创下芯片融资历史纪录，并将成为衡量投资者对AI债务胃口的重要风向标。值得关注的是，仅仅四个月前，Anthropic以8.5%利率完成代号&amp;quot;Project Big Sky&amp;quot;的约44亿美元融资，借贷成本的快速攀升，凸显出投资者对AI企业密集融资需求的警惕情绪持续升温。&lt;/p&gt;
+
+600亿融资案：规模创纪录，成本同步飙升
+
+&lt;p&gt;&amp;quot;Project North Star&amp;quot;旨在为Anthropic采购约1.5吉瓦由谷歌开发的定制半导体——即张量处理单元（TPU）——提供资金。&lt;/p&gt;
+&lt;p&gt;整体债务结构分为两层：&lt;strong&gt;约420亿美元为优先级债务，由参与芯片研发的Broadcom提供担保；其余180亿美元为次级贷款，Blackstone认购其中90亿美元，剩余份额将于未来数月面向更广泛投资者出售，出售利率可能低于黑石所获条款。&lt;/strong&gt;预计当资金于2027年提款完毕后，这部分债务将进入机构144A债券市场流通。&lt;/p&gt;
+&lt;p&gt;Blackstone拒绝置评，Anthropic未立即回应置评请求。&lt;/p&gt;
+
+溢价逾300个基点，风险溢价需求凸显
+
+&lt;p&gt;根据ICE美银BB级美国高收益债券指数，信用状况与Anthropic相近的借款人在公开债券市场通常支付约7%的收益率。Anthropic此次向黑石提供的10%票息，较该基准高出逾300个基点，若计入折价及费用，实际收益差距更大。&lt;/p&gt;
+&lt;p&gt;这一溢价反映出两方面压力：其一，投资者对科技企业短期内集中释放的庞大融资需求愈发审慎，要求更高的风险补偿；其二，大型融资交易通常需向锚定投资者和早期承诺方提供额外溢价，以确保交易顺利落地。&lt;/p&gt;
+&lt;p&gt;借贷成本的快速上行，亦令Anthropic谋求投资级评级的路径更加复杂。评级机构KBRA于今年6月将Anthropic评定为投资级以下一档，本次次级债务预计将获得类似评级。&lt;/p&gt;
+
+IPO前的战略布局：高成本融资换长期降费空间
+
+&lt;p&gt;尽管融资成本高企，Anthropic仍选择主动承压，背后存在明确的战略逻辑。据媒体援引知情人士透露，Blackstone已向其投资伙伴表示，&lt;strong&gt;此次交易是在高收益水平下投资Anthropic关联债务的罕见机会——一旦Anthropic完成上市，预计将获得投资级评级，届时其融资成本将大幅下降。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一叙事本质上是一笔时间套利：Anthropic在上市前以较高利率换取必要的算力储备，并押注上市后信用评级提升将带来再融资空间，从而摊薄长期资本成本。对于黑石等早期投资者而言，则是在风险窗口期锁定高于市场水平的收益。&lt;/p&gt;
+&lt;p&gt;当前这笔融资既是Anthropic规模扩张的资金保障，也将是AI行业债务融资市场能否持续承接大体量交易的一次关键压力测试。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
