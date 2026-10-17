@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 17 Oct 2026 06:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅</title><link>https://wallstreetcn.com/articles/3783822</link><guid>3cc05e950991896100ff4deb9a9c2c110611b2d4c59c32aa56bed82db4e9b935</guid><pubDate>Fri, 16 Oct 2026 23:18:56 GMT</pubDate><description>&lt;p&gt;美国股市周五全线下跌，投资者对人工智能相关企业能否及时产生足够利润以偿付高企债务的忧虑持续发酵，科技板块首当其冲。纳斯达克综合指数本周累计下挫约4.5%，创下自6月26日当周以来最大单周跌幅。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 17 Oct 2026 07:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅</title><link>https://wallstreetcn.com/articles/3783822</link><guid>3cc05e950991896100ff4deb9a9c2c110611b2d4c59c32aa56bed82db4e9b935</guid><pubDate>Fri, 16 Oct 2026 23:18:56 GMT</pubDate><description>&lt;p&gt;美国股市周五全线下跌，投资者对人工智能相关企业能否及时产生足够利润以偿付高企债务的忧虑持续发酵，科技板块首当其冲。纳斯达克综合指数本周累计下挫约4.5%，创下自6月26日当周以来最大单周跌幅。&lt;/p&gt;
 &lt;p&gt;市场对AI基础设施企业债务风险的担忧持续升温，CoreWeave部分债券收益率周四一度突破15%，周五仍然维持高位。CoreWeave股价周五再度重挫12%，较年内高点已累计下跌逾50%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，美联储主席沃什在曼谷国际货币基金组织活动上拒绝就10月利率会议前景提供任何指引，令市场缺乏政策方向支撑，长端美债收益率随油价上涨及通胀顾虑进一步走高，10年期国债收益率升至5.097%。&lt;/p&gt;
@@ -145,7 +145,33 @@ AI债务风险浮出水面，CoreWeave成引爆点
 &lt;p&gt;两位分析师进一步指出，若苹果能够成功说服现有iPhone Pro及Pro Max用户转向该折叠入门机型，将推动iPhone整体平均售价分别提升82%和67%。iPhone Duo售价为1999美元。&lt;/p&gt;
 &lt;p&gt;iPhone Duo是苹果新任首席执行官John Ternus上任以来最具分量的产品发布之一。iPhone Duo搭载7.6英寸内屏及经过精心设计的铰链结构，并配备针对折叠形态优化的iOS新体验。&lt;/p&gt;
 &lt;p&gt;John Ternus于今年9月接任CEO一职，上任以来已相继推出HomeView智能家居中枢等新品。&lt;/p&gt;
-&lt;p&gt;据彭博报道，苹果还将于本月晚些时候推出搭载触控屏幕的MacBook Pro及其他设备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110</title><link>https://wallstreetcn.com/articles/3783778</link><guid>864ff2dda202bb4eaa0b4221cd2dc626ca5d3a4b00fc9575798dd7a14fd4e7d6</guid><pubDate>Fri, 16 Oct 2026 23:26:52 GMT</pubDate><description>&lt;p&gt;科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。&lt;/p&gt;
+&lt;p&gt;据彭博报道，苹果还将于本月晚些时候推出搭载触控屏幕的MacBook Pro及其他设备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防</title><link>https://wallstreetcn.com/articles/3783836</link><guid>0402b5e94ada1abb06d40398ef43c343b4ff2b3c83b8206c21ea331c9d71c149</guid><pubDate>Sat, 17 Oct 2026 07:06:40 GMT</pubDate><description>&lt;p&gt;花旗、美国银行和摩根大通相继宣布限制AI智能代理访问客户账户，这场集体设防的背后，是银行业对数万亿美元低成本存款可能被AI&amp;quot;扫走&amp;quot;的深层焦虑。&lt;/p&gt;
+&lt;p&gt;花旗明确表示，&lt;strong&gt;不允许&amp;quot;第三方AI代理或助手登录客户账户，或直接在其数字银行平台上进行交易&amp;quot;，&lt;/strong&gt;称此举旨在保障客户账户与信息安全。美国银行首席执行官Brian Moynihan本周三在接受CNBC采访时表示，&lt;strong&gt;该行正在限制AI代理访问消费者存款账户，同时研究在AI发起支付指令时如何界定责任主体。&lt;/strong&gt;摩根大通首席执行官Jamie Dimon则在该行三季度业绩电话会议上表示，&lt;strong&gt;将限制AI代理访问客户账户，理由是&amp;quot;你不会希望出现流氓代理，而且这类代理可能数以千计&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，华尔街高管已就消费者使用AI代理进行金融交易的快速增长，与美联储监管人员展开沟通；监管层私下对银行封堵AI代理访问客户账户的举措持欢迎态度。&lt;/p&gt;
+
+存款流失威胁利润根基
+
+&lt;p&gt;此次银行业集体行动的直接导火索，是AI个人理财工具的加速涌现。据英国《金融时报》报道，&lt;strong&gt;Meta于9月推出Muse AI个人助手后，业界担忧情绪明显升温——市场普遍担心AI代理将自动替消费者将闲置资金从银行账户转移至收益更高的产品。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;阿波罗首席经济学家Torsten Slok在一份报告中将这一风险量化：AI助手可能自动将家庭闲置资金从全国平均仅0.1%的活期账户利率，转移至利率达3.3%至5%的账户。报告警告称，&amp;quot;如果每个家庭都使用AI代理优化现金余额收益，银行可能损失大量用于发放贷款的低成本存款，这将对整个金融体系构成威胁。&amp;quot;&lt;/p&gt;
+&lt;p&gt;摩根大通、美国银行和富国银行目前合计持有1.6万亿美元的无息存款，占其负债总额的16%。若被迫对这部分存款支付3%的利率，三家银行每年将额外承担约470亿美元的成本——相当于其年度税后净利润总和的近一半。&lt;/p&gt;
+
+各行表态与责任认定困境
+
+&lt;p&gt;在设防方式上，各行有所差异，但核心逻辑一致：在责任归属尚不明确之前，不允许AI代理自主操作账户资金。&lt;/p&gt;
+&lt;p&gt;Brian Moynihan明确表示，&amp;quot;我们强烈认为，账户转账授权应有人工参与。&amp;quot;他表示，美国银行正与AI代理服务商沟通，提示其注意消费者可能事后对资金去向产生异议的风险。一位知情人士证实，美国银行已限制AI代理的相关访问权限。&lt;/p&gt;
+&lt;p&gt;Jamie Dimon则着重强调风险管控逻辑：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;我们必须以正确的方式保护客户。我们正在构建相应工具。在此之前，我们不会允许任何外部代理进入公司系统，因为这对客户和摩根大通而言风险太大。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;花旗表示，客户仍可通过特定开放银行服务商授权对账户信息进行有限的只读访问。&lt;/p&gt;
+&lt;p&gt;据知情人士透露，针对AI代理在金融交易中的合规边界，美联储已与银行业高管展开私下沟通，但美联储拒绝就此置评。&lt;/p&gt;
+&lt;p&gt;监管层私下对银行限制AI代理访问账户的举措持支持态度，官员认为，消费者如何授权自主技术代其完成金融交易、以及出现问题后的责任认定，可能需要通过立法层面加以厘清。&lt;/p&gt;
+
+银行如何应对：让存款&amp;quot;更难流走&amp;quot;
+
+&lt;p&gt;面对AI带来的存款竞争压力，银行业已开始寻求应对之策。咨询公司Simon-Kucher高级合伙人Christoph Stegmeier表示，银行需要通过扩大客户忠诚度计划、优化贷款利率等方式，提升存款产品的黏性。&lt;/p&gt;
+&lt;p&gt;&amp;quot;你必须让你的存款产品更难被替代，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;这场由AI驱动的存款争夺战，才刚刚开始。银行在技术防线上能坚守多久，以及监管框架能否跟上AI代理的演进速度，将成为决定这场博弈走向的两大关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110</title><link>https://wallstreetcn.com/articles/3783778</link><guid>864ff2dda202bb4eaa0b4221cd2dc626ca5d3a4b00fc9575798dd7a14fd4e7d6</guid><pubDate>Fri, 16 Oct 2026 23:26:52 GMT</pubDate><description>&lt;p&gt;科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;周五，纳斯达克100指数收跌2.5%，标普500指数跌1.1%。云计算服务商CoreWeave单日暴跌12%，其债券收益率本周一度突破15%，信用风险攀升至通常预示财务困境的水平。&lt;/p&gt;
 &lt;p&gt;本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为资金减仓的重点。媒体指出，CoreWeave股价持续下跌令市场更关注AI交易的融资问题，未来几周科技巨头的财报将检验高估值能否得到盈利支撑。&lt;/p&gt;
@@ -437,23 +463,4 @@ SpaceX冷气推进器：氮气驱动，最高推力近90千牛
 &lt;/blockquote&gt;
 &lt;p&gt;她补充称，相关措施目前尚未实质性改变瑞银对印度的战略判断或整体配置，但对冲成本上升意味着瑞银将要求印度资产提供更高回报。&lt;/p&gt;
 &lt;p&gt;若流动性持续偏低、对冲成本居高不下，企业和投资者可能要求持有卢比资产的更高风险溢价，甚至降低增持意愿。这将使卢比在印度央行最终收手之时面临更大的下行风险。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 纽约联储调查：服务业提价创2022年来最快，商业活动指数跌至3月来最低</title><link>https://wallstreetcn.com/articles/3783818</link><guid>8bb1d5031691f0a7f3866b1b2e1e2cd316f2a3e986cef0bd470becbf46db1252</guid><pubDate>Fri, 16 Oct 2026 22:36:11 GMT</pubDate><description>&lt;p&gt;服务业价格压力正在重新成为美联储政策路径的核心变量。&lt;/p&gt;
-&lt;p&gt;纽约联储周五发布的最新商业领袖调查显示，10月服务业企业的销售价格涨幅升至2022年以来最快水平，投入成本涨势依然强劲，供应状况持续恶化。&lt;/p&gt;
-&lt;p&gt;与此同时，企业对商业前景的悲观情绪明显升温，整体商业活动指数较上月下滑12点至负20.7，创3月以来最弱读数。&lt;/p&gt;
-&lt;p&gt;上述调查结果与当前居高不下的通胀态势相互印证。受特朗普政府关税政策持续冲击以及中东地区冲突推高能源成本等因素影响，价格压力迟迟未能消退。美联储上月已以通胀为由加息，市场普遍预计年内还将再次行动。&lt;/p&gt;
-&lt;strong&gt;服务业价格压力攀升至近三年高位&lt;/strong&gt;
-&lt;p&gt;根据纽约联储最新商业领袖调查，10月服务业企业的销售价格增速加快至2022年以来的最高水平，投入价格涨幅亦保持强劲，供应可及性则持续恶化。&lt;/p&gt;
-&lt;p&gt;报告还指出，受访企业对当前营商环境的评价&amp;quot;远低于正常水平&amp;quot;，资本支出计划疲软，企业对未来前景趋于悲观。&lt;/p&gt;
-&lt;p&gt;这一结果与政府同期发布的数据形成共鸣——9月进口价格月率涨幅达1.1%，远超市场预期，再度印证通胀压力并未实质性缓解。&lt;/p&gt;
-&lt;p&gt;值得注意的是，此次调查所反映的悲观情绪与其他宏观数据之间存在明显分歧。当前美国整体经济活动仍保持强劲，失业率低位稳定，与科技行业相关的投资需求亦维持旺盛态势。&lt;/p&gt;
-&lt;p&gt;同在纽约联储体系内，周四发布的10月帝国州制造业调查（Empire State）则呈现截然不同的图景——整体商业状况指数升至近五年高位，尽管其中同样伴随着&amp;quot;偏高&amp;quot;的投入和销售价格及供应层面的挑战。&lt;/p&gt;
-&lt;strong&gt;联储官员密切关注服务业通胀&lt;/strong&gt;
-&lt;p&gt;在政策层面，美联储官员对服务业通胀持续高企表达了明确关切。&lt;/p&gt;
-&lt;p&gt;芝加哥联储主席Austan Goolsbee周三在接受采访时表示，当日发布的消费者通胀报告令人&amp;quot;感到沮丧&amp;quot;，并指出&amp;quot;如果拆分各分项来看，服务业通胀几乎没有改善迹象&amp;quot;。他强调，需要对这部分价格压力&amp;quot;保持密切关注，因为它并非真正来自供给冲击&amp;quot;。&lt;/p&gt;
-&lt;p&gt;美联储主席沃什周四晚间则对未来政策路径刻意保持模糊。他表示：&amp;quot;我不会预判会议结果……我不认为现在应该说我在今年剩余会议上可能会采取什么行动。&amp;quot;&lt;/p&gt;
-&lt;p&gt;尽管如此，鉴于通胀压力推动美联储上月已再度加息，市场对年内再次加息的预期仍较为强烈。&lt;/p&gt;
-&lt;strong&gt;供应压力加剧成新隐忧&lt;/strong&gt;
-&lt;p&gt;除价格外，供应层面的问题同样不容忽视。&lt;/p&gt;
-&lt;p&gt;纽约联储调查明确指出，服务业企业面临的供应可及性问题正在加剧，且预计这一状况在未来将进一步恶化。&lt;/p&gt;
-&lt;p&gt;关税政策对供应链的持续扰动，以及中东局势对能源成本的上行推力，共同构成当前通胀压力难以快速消退的重要背景。&lt;/p&gt;
-&lt;p&gt;对投资者而言，服务业通胀的顽固性意味着美联储政策转向的时间表存在进一步推迟的风险，利率敏感型资产或将持续承压。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
