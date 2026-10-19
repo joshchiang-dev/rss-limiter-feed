@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 18 Oct 2026 23:59:09 GMT</lastBuildDate><item><title>[华尔街见闻] 上线了！2027见闻历超值预售99元，活动火热进行中！</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Sun, 18 Oct 2026 23:32:23 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年10月19日</title><link>https://wallstreetcn.com/articles/3783833</link><guid>6f36ca9c13843a66e822408529d01f0016c851cf43dd43c0b0417918ca79bffe</guid><pubDate>Sun, 18 Oct 2026 23:00:19 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 19 Oct 2026 00:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 瑞银交易台：上周美股走势与“AI股神爆仓”那次非常像</title><link>https://wallstreetcn.com/articles/3783874</link><guid>e9e4399695150d054826f99bc0614d8fe095a17451bb6b2f93f9faf8d6295d76</guid><pubDate>Mon, 19 Oct 2026 00:06:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;美股上周经历的并非全面抛售，而是一场定向的仓位重置。&lt;/strong&gt;瑞银交易台交易员Torsten Sippel在最新周报中指出，上周市场走势与数月前由“Situational Awareness”（一家知名AI量化基金）引发的去杠杆行情高度相似——AI与动量板块持续承压，资金向防御性和低拥挤板块轮动，但整体风险敞口并未被系统性抛弃。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI与动量板块成为本轮调整的震中。&lt;/strong&gt;半导体、存储及AI基础设施遭遇持续抛压，几乎没有资金入场抄底，存储板块单周跌幅达16%，投机成长股下跌12%，动量多空组合下跌8%。与此同时，必需消费品上涨5%，价值多空组合上涨6%，市场风格从成长与拥挤动量向质量与价值的切换已相当明显。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对冲基金净敞口已降至五年历史的第30百分位，但总敞口仍高于第90百分位&lt;/strong&gt;，这一结构意味着若盈亏压力持续，市场仍面临进一步去杠杆的风险。Sippel在报告中明确表示，&lt;strong&gt;近期市场格局“脆弱而非彻底看空”，风险正在被重新分配，而非被放弃。&lt;/strong&gt;&lt;/p&gt;
+去杠杆而非去风险：本轮调整的本质
+&lt;p&gt;Sippel将上周的市场行为定性为&lt;strong&gt;“去杠杆（De-Grossing）而非去风险（De-Risking）”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;从资金流向来看，美国市场高频（High Touch）交易流量明显放量，长线只做多基金（Long Only）买卖比为36/64，对冲基金买卖/做空比为42/50/8。&lt;strong&gt;长仓持续被减持，但新增单股空头头寸相对有限&lt;/strong&gt;，这与全面风险出清的特征并不吻合。&lt;/p&gt;
+&lt;p&gt;这一模式与数月前由&lt;a href="https://wallstreetcn.com/articles/3778376"&gt;“AI股神”、前OpenAI研究员Leopold Aschenbrenner创立的对冲基金Situational Awareness去杠杆行情&lt;/a&gt;如出一辙——彼时同样是拥挤仓位被迫平仓，而非基本面驱动的系统性抛售。本轮行情中，软件、防御性板块及低拥挤敞口在周中承接了部分轮动资金，消费、住房、医疗及部分工业板块也出现资金流入，小盘股与等权重指数跑赢大盘。&lt;/p&gt;
+AI融资逻辑受质疑：CoreWeave成为关键风向标
+&lt;p&gt;&lt;strong&gt;CoreWeave已成为观察AI交易的重要标尺。&lt;/strong&gt;Sippel指出，随着该公司信用担忧持续扩大，市场围绕AI的讨论已从需求端转向更根本的问题：&lt;strong&gt;AI基础设施建设的经济性与融资结构，能否支撑下一阶段的资本开支扩张？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，ASML与台积电均发布了强劲的基本面数据，但这并未能平息上述担忧。这一分歧至关重要——它意味着即便硬件需求端数据依然亮眼，市场对AI资本开支的融资可持续性已产生独立的定价逻辑。&lt;/p&gt;
+&lt;p&gt;在此背景下，&lt;strong&gt;超大规模云厂商（Hyperscaler）的即将财报将面临更高的验证门槛&lt;/strong&gt;——投资者需要看到云收入、订单积压与现金生成能力，能够切实支撑AI资本开支的规模与融资需求。&lt;/p&gt;
+宏观因素放大而非引发去杠杆
+&lt;p&gt;Sippel强调，宏观因素在本轮调整中扮演的是&lt;strong&gt;放大器而非触发器&lt;/strong&gt;的角色。&lt;/p&gt;
+&lt;p&gt;通胀与利率冲击加速了系统性抛售，而中东局势升级则越来越多地向波动率市场传导。&lt;strong&gt;周五VIX出现跳升，1个月/3个月VIX期限结构出现六个月来首次倒挂&lt;/strong&gt;，显示对冲需求已从AI特定风险向更广泛市场风险蔓延。&lt;/p&gt;
+&lt;p&gt;周五下午的市场走弱尤为值得关注——科技板块的抛售呈现出明显的无差别特征，Sippel认为这更符合&lt;strong&gt;ETF赎回、期权到期及对冲展期&lt;/strong&gt;的行为模式，而非基于个股基本面的增量卖出。&lt;/p&gt;
+财报季尚未成为主导变量
+&lt;p&gt;目前财报季整体表现尚可，但对市场走势的影响有限。&lt;strong&gt;标普500已有10.4%的市值完成披露&lt;/strong&gt;，第三季度预期营收增长12.1%，每股收益增长26.5%，实际盈利超预期幅度为4.1%，75%的公司超出预期。&lt;/p&gt;
+&lt;p&gt;然而，银行业的亮眼业绩与AI相关的积极数据均未能有效消化现有的抛压，&lt;strong&gt;财报目前仍处于仓位逻辑的从属地位&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;未来5个交易日，将有80家公司披露业绩，合计占标普500市值的13.8%，包括Netflix、通用电气、Meta Platforms、特斯拉、宝洁及Western Digital。Sippel特别提及，&lt;strong&gt;Meta较常规时间提前一周披露财报&lt;/strong&gt;，并以问句暗示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“是否在抢在（增发）窗口关闭前先行一步？”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;综合来看，Sippel对近期市场的判断是&lt;strong&gt;&amp;quot;脆弱而非彻底看空&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;风险正在被重新分配而非被放弃，但在AI板块缺乏真正抄底资金、总敞口仍处高位、波动率曲线新近承压的背景下，&lt;strong&gt;进一步去杠杆的空间依然存在&lt;/strong&gt;。此外，近期波动率的上升也引发了对资本市场发行窗口持续性的新一轮质疑。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上线了！2027见闻历超值预售99元，活动火热进行中！</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Sun, 18 Oct 2026 23:32:23 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年10月19日</title><link>https://wallstreetcn.com/articles/3783833</link><guid>6f36ca9c13843a66e822408529d01f0016c851cf43dd43c0b0417918ca79bffe</guid><pubDate>Sun, 18 Oct 2026 23:00:19 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
 华见早安之声
 
 &lt;p&gt;&lt;/p&gt;
