@@ -1,9 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 20 Oct 2026 01:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 连续第17个月维持不变！10月LPR报价出炉：5年期以上3.5%，1年期3%</title><link>https://wallstreetcn.com/articles/3783979</link><guid>a66da167b00d8b4fe8b0c0a3fdf58fea9938d10fa0a42293c58a66c56f184d7e</guid><pubDate>Tue, 20 Oct 2026 01:00:55 GMT</pubDate><description>&lt;p&gt;中国10月贷款市场报价利率（LPR）10月20日出炉，1年期和5年期以上LPR均未调整。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 20 Oct 2026 01:59:11 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街集体为CoreWeave恐慌“灭火”：别拿一家公司否定整个AI周期！</title><link>https://wallstreetcn.com/articles/3783982</link><guid>3e8cc702295baf09661106dd275af51ead32039ddf9dd3d493850a79199affdb</guid><pubDate>Tue, 20 Oct 2026 01:43:17 GMT</pubDate><description>&lt;p&gt;CoreWeave无担保债券收益率飙升至约15%，CDS利差突破1000个基点，股价单周跌逾24%，引发市场对整个AI资本支出周期的系统性担忧。&lt;/p&gt;
+&lt;p&gt;然而，一只小债券正在被市场当作整个AI资本支出周期的晴雨表——华尔街的头部机构认为，这是一个代价高昂的类比错误。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，巴克莱指出，CoreWeave约15亿美元的无担保债券仅占其约350亿美元总债务的极小部分，用这一工具的价格信号否定整个AI周期，与2023年用40亿美元的KRE区域银行ETF预判美国经济衰退如出一辙。高盛认为市场用错了参照系——无担保债券市场并不代表CoreWeave真实的新增融资成本。摩根大通则表示当前风险可控。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+这一幕似曾相识：2023年的硅谷银行，2026年的CoreWeave
+&lt;p&gt;巴克莱全球宏观研究主管Ajay Rajadhyaksha在10月19日发布的报告中，直接将当前市场恐慌与2023年硅谷银行危机相比较。&lt;/p&gt;
+&lt;p&gt;2023年3月，硅谷银行被FDIC接管，随后Signature Bank、First Republic银行相继倒闭。市场随即形成叙事：&lt;strong&gt;区域银行是中小企业信贷的命脉，即便没有更多银行倒闭，幸存者也将收紧贷款，信贷枯竭将触发衰退。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;债券市场买账了。硅谷银行倒闭六周后，债市仍在定价2023年底降息75至100个基点。&lt;/p&gt;
+&lt;p&gt;结果呢？美联储2023年一次都没降息，反而继续加息。美国经济全年增速远超美联储自身3月预测的0.4%。衰退从未到来。标普地区性银行ETF KRE收复全部失地。&lt;/p&gt;
+&lt;p&gt;Rajadhyaksha写道：“&lt;strong&gt;错误不在于认识到硅谷银行已经倒闭。它确实倒了。错误在于从一个小型、波动剧烈、结构脆弱的工具，外推至整个美国经济。&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;当时那条“尾巴”是什么？一只资产管理规模&lt;strong&gt;约40亿美元的区域银行ETF&lt;/strong&gt;——KRE，等权重构成，其中许多成分股交投清淡。就是这只小ETF，带动了数万亿美元的利率、投资级信用和股票仓位重新定价。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这条逻辑是循环的。KRE下跌，情绪恶化，人们卖出KRE，KRE继续跌，债券市场定价更多降息，股市跟着下跌。尾巴摇动了整条狗。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Rajadhyaksha认为，同样的错误正在2026年10月实时上演。&lt;/p&gt;
+CoreWeave的“尾巴”：15亿美元无担保债券
+&lt;p&gt;Rajadhyaksha认为，这次摇动了整条狗的“尾巴”是CoreWeave约15亿美元的结构性次级无担保债券。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CoreWeave的债务结构分三层。最主要的是有担保的延迟提款定期贷款（DDTL）&lt;/strong&gt;，存放于独立的特殊目的载体（SPV）中，每个SPV背后绑定具体的GPU硬件、客户合同和数据中心租约。当Meta签署多年期“用不用都要付钱”的合同并转让给SPV，银行贷款的抵押品实际上是Meta的付款承诺。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其次是约90亿美元的可转换债券&lt;/strong&gt;，票息在1.75%至2.875%之间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后才是无担保票据&lt;/strong&gt;——在清算情形下，前面有数百亿美元的债权排在它前面。&lt;/p&gt;
+&lt;p&gt;Rajadhyaksha点明：“15%的收益率告诉你这张纸的一些信息。它不能告诉你这家公司即将停止运营。”&lt;/p&gt;
+&lt;p&gt;他打了个比方：&lt;strong&gt;“如果一个人有3500万美元的房贷，外加一张小额信用卡，信用卡利率高，说明的是信用卡的问题。它不能说明这座城市所有房贷借款人都有麻烦。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数字对比更直观：2023年3月，债市因一只40亿美元的ETF下跌而定价100个基点降息；2026年10月，市场因约15亿美元的结构性次级债券交投于80美分，就开始质疑一个万亿美元级别的资本支出周期。&lt;/p&gt;
+摩根大通：银行敞口有担保，风险可控
+&lt;p&gt;摩根大通欧洲银行研究团队（Kian Abouhossein领衔）在10月20日的报告中，从银行业视角拆解了CoreWeave的融资结构。&lt;/p&gt;
+&lt;p&gt;截至2026年上半年，CoreWeave总负债约520亿美元，其中总债务约350亿美元，经营租赁负债约163亿美元，股东权益约50亿美元，杠杆率约10倍。&lt;/p&gt;
+&lt;p&gt;该行指出，银行的主要敞口集中在有担保的SPV结构——已提款约150亿美元，未提款约90亿美元——以及母公司层面25亿美元的有担保循环信贷额度。银行对无担保债券（约210亿美元，含约110亿美元可转债）的直接持仓有限。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;参与银行方面，摩根大通梳理发现，美国大型投行参与度最高，欧洲银行（巴克莱、德意志银行、法国兴业、法国农业信贷）以及亚洲银行（三菱日联、瑞穗）也有参与。基于各行参与交易数量及传统10%至15%的银团持仓比例估算，摩根大通认为大多数银行的CoreWeave敞口低于5亿美元，大型美国投行及三菱日联可能在10亿至30亿美元区间，且主要为DDTL形式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;该行同时点出三项关键风险：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第一，SPV内的交易对手风险——并非所有SPV都有超大规模云厂商背书，而CoreWeave预计到2030年前自由现金流持续为负（摩根大通估算2026年负自由现金流约290亿美元，2028年约370亿美元），前期资本支出与合同收入之间存在明显的时间错配。&lt;/p&gt;
+&lt;p&gt;第二，项目执行风险——社会阻力、工期延误和电力供应挑战可能影响收入实现，甲骨文对Blue Owl的不可抗力条款已是先例。&lt;/p&gt;
+&lt;p&gt;第三，溢出风险——若AI相关高收益债市场收紧，可能波及整体投行收入，包括股权资本市场（ECM）。摩根大通数据显示，2026年科技ECM占全球ECM总量的30%，为10年以上最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+高盛：市场用错了参照系
+&lt;p&gt;高盛分析师Gabriela Borges和Maura Hager&lt;strong&gt;周一将CoreWeave评级从“中性”上调至“买入”，目标价106美元。彼时股价收于61.39美元，意味着约73%的上行空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该行认为，市场盯着无担保债券的收益率来判断CoreWeave的融资成本，这个参照系选错了。&lt;/p&gt;
+&lt;p&gt;该行指出，&lt;strong&gt;CoreWeave的主要融资工具是DDTL&lt;/strong&gt;——以特定客户合同、GPU基础设施及相关现金流为抵押的资产支持项目融资。贷款方承保的是具体合同的现金流质量，而非CoreWeave的整体信用状况。&lt;/p&gt;
+&lt;p&gt;基于此，该行估算CoreWeave当前加权平均债务成本约为800至900个基点（以二季度利息支出年化25.6亿美元除以约300亿美元总债务计算）。对于新增融资，高盛假设投资级客户对应的DDTL定价约为SOFR+300个基点，高收益客户约为SOFR+600个基点，混合成本区间750至1050个基点，保守基准取1000个基点——意味着新增融资成本较当前仅上升100至200个基点。&lt;/p&gt;
+&lt;p&gt;该行还援引市场数据：DDTL 5.0和5.5均以不低于原始发行折价的价格交易，表明资产支持融资市场对CoreWeave的信心尚未崩塌。&lt;/p&gt;
+&lt;p&gt;在收费能力上，高盛估算CoreWeave当前混合货币化水平约为每兆瓦年度经常性收入（ARR）1000万美元，但认为存在上行空间：短期合同（3至6个月）签约价已达每兆瓦4000万美元；CoreWeave今年7月提价25%，10月再度提价10%。高盛将每兆瓦1300万美元作为新签长期合同的&amp;quot;合理起点假设&amp;quot;，代入模型可得约15%的无杠杆内部收益率，高于约11.8%的加权平均资本成本。&lt;/p&gt;
+&lt;p&gt;不过，高盛的敏感性分析也揭示了这一逻辑的脆弱性：若以当前实际混合水平1000万美元/兆瓦计算，无杠杆内部收益率将跌至6.3%，在同等融资成本下利差变为负6个百分点。整个牛市逻辑的成立，依赖于CoreWeave每兆瓦收入在现有基础上提升约30%。&lt;/p&gt;
+&lt;p&gt;该行自身模型也显示，2026年和2027年自由现金流均为负282亿美元，2028年为负158亿美元，预计2030年才能转正。&lt;/p&gt;
+&lt;p&gt;值得注意的是，该行在报告披露附录中说明，其正担任CoreWeave一项待定承销业务的主承销商或联席承销商，持有CoreWeave 1%以上股份，过去12个月已从CoreWeave获得投资银行业务报酬。&lt;/p&gt;
+需求侧：供应链数据说话
+&lt;p&gt;巴克莱的Rajadhyaksha将视线拉向供应链最深处。&lt;/p&gt;
+&lt;p&gt;台积电（10月15日）报告营收超出自身指引上限10亿美元，连续第六个季度创利润纪录。高性能计算（AI代理指标）占营收68%，较上季度的66%进一步提升。2纳米节点已贡献晶圆营收的8%，公司上调四季度增长指引。&lt;/p&gt;
+&lt;p&gt;ASML（10月14日）同样录得创纪录销售额，营业利润翻倍以上。CEO Christophe Fouquet表示，2027年和2028年的计划供应量将无法完全满足客户需求，部分客户已开始尝试预订2029年和2030年的设备。&lt;/p&gt;
+&lt;p&gt;Rajadhyaksha写道：“制造芯片所需机器的制造商，已经售罄未来两年的产能。”&lt;/p&gt;
+&lt;p&gt;五大超大规模云厂商（微软、Meta、Alphabet、亚马逊、甲骨文）2026年AI基础设施合计支出约7250亿至8000亿美元，2027年估算超过1万亿美元。CoreWeave的2026年资本支出指引为350亿至390亿美元，约占上述总量的4%至5%。&lt;/p&gt;
+&lt;p&gt;Rajadhyaksha的结论是：“&lt;strong&gt;即便CoreWeave完全停止支出，我们损失的也只是整个AI资本支出的4%至5%。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他同时指出，超大规模云厂商的支出主要依靠自由现金流，而非无担保债券市场。&lt;strong&gt;“从一家新兴云厂商外推至全球最赚钱的公司之一，这个逻辑链条拉得太长了。”&lt;/strong&gt;&lt;/p&gt;
+没有美联储兜底，但有需求现实
+&lt;p&gt;巴克莱也承认，这次与2023年有一个关键差异：没有政策工具可以充当安全网。&lt;/p&gt;
+&lt;p&gt;2023年，美联储推出银行定期融资计划（BTFP），允许银行以面值质押水下债券换取流动性，成为打断恐慌循环的关键。AI基础设施融资没有等价的央行工具。&lt;/p&gt;
+&lt;p&gt;但Rajadhyaksha认为，AI资本支出周期有自己的“兜底逻辑”：Alphabet、微软、Meta和亚马逊对算力的需求，超过当前存量供给。只要这一点成立，融资就会跟着需求走。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;台积电68%的高性能计算营收占比、ASML售罄至2028年、CoreWeave1040亿美元的合同积压，不是政策工具，但它们是需求现实。烟雾散去后，需求现实才是真正重要的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Rajadhyaksha最后写道：“市场有一种倾向，总是在复杂系统中找到最小、最波动的工具，然后把它当作整体的晴雨表。2023年是KRE，2026年是CoreWeave的无担保债券。两次信号都是真实的。2023年的外推是错的，我们认为2026年的外推（如果在未来几周发生）同样是错的。”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 连续第17个月维持不变！10月LPR报价出炉：5年期以上3.5%，1年期3%</title><link>https://wallstreetcn.com/articles/3783979</link><guid>a66da167b00d8b4fe8b0c0a3fdf58fea9938d10fa0a42293c58a66c56f184d7e</guid><pubDate>Tue, 20 Oct 2026 01:00:55 GMT</pubDate><description>&lt;p&gt;中国10月贷款市场报价利率（LPR）10月20日出炉，1年期和5年期以上LPR均未调整。&lt;/p&gt;
 &lt;p&gt;中国人民银行授权全国银行间同业拆借中心公布显示，2026年10月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;作为主要政策利率的7天期逆回购利率自2025年5月下调后已经连续17个月保持不变，因此，LPR报价的定价基础本月未发生改变。LPR上一次调整是在2025年5月，1年期和5年期以上LPR均下调10个基点。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;业内分析人士指出，LPR维持不变的背后，是货币政策思路的阶段性调整。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一方面，&lt;strong&gt;银行息差承压，制约LPR下调空间。&lt;/strong&gt;过去一年，存款利率、政策利率已多次下调，商业银行净息差被压缩至历史低位。&lt;/p&gt;
+&lt;p&gt;若继续强行压低LPR，可能削弱银行盈利与资本补充能力，反而影响信贷投放的可持续性。因此，政策更倾向于保持利率基本稳定，转而通过降准和结构性工具维持流动性合理充裕。&lt;/p&gt;
+&lt;p&gt;另一方面，&lt;strong&gt;政策重心从“总量降息”转向“结构优化”与“换锚宽松”。&lt;/strong&gt;中金公司等机构认为，央行更可能通过政策利率“换锚”——例如引导隔夜利率等更短端的资金利率中枢保持在低位，来实现实质性宽松，而非直接下调7天逆回购利率或LPR。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783926"&gt;华尔街见闻文章&lt;/a&gt;写道，央行行长潘功胜10月19日在2026金融街论坛年会上表示，货币政策框架的转型是一个渐进、持续的过程，未来将不断地做好评估和完善。从近中期看，重点方向是更多发挥利率调控的作用，主要有以下几个方面：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;一是进一步优化短端利率调控机制。二是推动贷款利率定价基准改革，从比较单一地参考贷款市场报价利率定价向更加多元的定价基准转型。三是退出存贷款基准利率。&lt;/p&gt;
@@ -70,7 +143,38 @@
 短期反弹与长期逻辑并存
 &lt;p&gt;本周，多只主要国防股出现反弹，投资者预期下周将公布强劲的三季度业绩。此外，市场对人工智能基础设施过度投入的担忧促使资金从科技板块流出，部分再配置至航空航天与国防板块，也为相关股票提供了支撑。&lt;/p&gt;
 &lt;p&gt;从更长远的视角来看，&lt;strong&gt;分析师认为，无论美国预算进程走向如何，地缘政治动荡将持续为美制武器需求提供支撑。投资银行Cantor Fitzgerald指出，随着持续冲突不断消耗美国威慑力、提升全球更大规模冲突的概率，成熟国防企业的股票有望从中受益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，主要承包商当前面临的现实困境同样不容忽视：多年积压的生产订单尚未消化，美国及盟友补充和扩充弹药库存的迫切需求，并未有效转化为投资者的信心提振。在政治不确定性与产能瓶颈的双重制约下，军工板块的估值修复之路仍充满变数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI暴跌，苹果新高！5万亿市值超越英伟达，这合理吗？</title><link>https://wallstreetcn.com/articles/3783978</link><guid>cae8fab1daf323ce11b573d6501e7e8844050fd6ce8184dd365d53045cf9a0a2</guid><pubDate>Tue, 20 Oct 2026 01:16:59 GMT</pubDate><description>&lt;p&gt;当科技股在AI恐慌中哀鸿遍野，苹果却悄然登上历史之巅。&lt;/p&gt;
+&lt;p&gt;然而，主要承包商当前面临的现实困境同样不容忽视：多年积压的生产订单尚未消化，美国及盟友补充和扩充弹药库存的迫切需求，并未有效转化为投资者的信心提振。在政治不确定性与产能瓶颈的双重制约下，军工板块的估值修复之路仍充满变数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股双创指数盘初跌超1%之后翻红，AI硬件股反弹，北证50暴涨5%，宁德时代AH股同步下滑，恒指、恒科指齐跌1%</title><link>https://wallstreetcn.com/articles/3783987</link><guid>1f5251d840e8ca46953014aac4aef011ca5b3cb7e316517fc36d5d7683730247</guid><pubDate>Tue, 20 Oct 2026 01:56:38 GMT</pubDate><description>&lt;p&gt;10月20日，A股三大股指低开，早盘震荡走强，创业板翻红，此外一度跌超1%，科创50探底回升，此前亦一度跌超1%，AI硬件股反弹，覆铜板、电路板等概念股集体拉升。北证50暴涨5%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。白酒、煤炭、海运等板块调整。&lt;/p&gt;
+&lt;p&gt;港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，新能源汽车大幅下跌，蔚来跌4%，宁德时代H股跌至阶段新低，日内大跌超6%。芯片半导体低开之后回升。债市方面，国债期货集体上涨，商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.44%，深成指跌0.50%，创业板指跌0.69%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌1.11%，恒科指跌1.80%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线反弹，截至发稿，30年期主力合约涨0.29%，10年期主力合约涨0.14%，5年期主力合约涨0.07%，2年期主力合约涨0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普跌，截至发稿，原油、燃油、菜籽涨超1%，鸡蛋、沪镍、橡胶、不锈钢、沪锡、豆粕等少数品种走高，多晶硅、沪铝、烧碱、铁矿石、氧化铝、沥青、螺纹钢、纸浆、热轧卷板、玻璃、沪铜、焦炭、铂金等纷纷下跌，碳酸锂、锰硅、沪金、沪银、集运指数、钯金等跌超1%，工业硅、焦煤跌超2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;09:49&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;北证50日涨幅超5%，创业板指翻红，AI硬件侧复苏，覆铜板板块领涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;消息面上，证监会将锚定打造服务创新型中小企业主阵地，稳步推出北证50ETF、北交所新股市值配售、创新性评价标准、优化新三板分层管理等一系列举措，促进北交所新三板一体化高质量发展。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:47&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;宁德时代AH股同步下滑，均创阶段新低。港股新能源汽车指数跌超4%，蔚来、小鹏集团表现低迷。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:34&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业板指、科创50指数均跌超1%，沪指跌0.32%，创业板指跌0.66%，贵金属、煤炭、军工、航运等方向跌幅居前，沪深京三市下跌个股近3200只。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;北证50涨近3%，同惠电子、华密新材、纳科诺尔、并行科技、万通液压领涨。此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:25&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.33%，创业板指跌0.5%。传媒、电路板、冰雪旅游、光通信板块调整。农业、教育板块活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数低开0.81%，恒生科技指数跌1.28%。联想集团、三环集团、中远海能、中际旭创、剑桥科技领跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI暴跌，苹果新高！5万亿市值超越英伟达，这合理吗？</title><link>https://wallstreetcn.com/articles/3783978</link><guid>cae8fab1daf323ce11b573d6501e7e8844050fd6ce8184dd365d53045cf9a0a2</guid><pubDate>Tue, 20 Oct 2026 01:16:59 GMT</pubDate><description>&lt;p&gt;当科技股在AI恐慌中哀鸿遍野，苹果却悄然登上历史之巅。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;苹果股价在上周市场大跌中逆势走强，总市值首次突破5万亿美元，逼近英伟达全球最高市值宝座。与此同时，苹果与纳斯达克100指数的两个月滚动相关性首次转为负值——这在苹果历史上从未发生过。&lt;/strong&gt;这一罕见的走势背后，折射出市场对AI高资本开支路线的深层质疑，以及资金向&amp;quot;轻AI&amp;quot;防御性科技资产的大规模转移。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;苹果的强势表现并非孤立事件。据彭博报道，苹果将于10月28日在洛杉矶举办&amp;quot;Pro and tell&amp;quot;发布会，届时将推出首款触控屏MacBook。此前，公司已相继推出可折叠手机iPhone Duo及HomeView智能家居中枢，新品周期密集。&lt;/p&gt;
@@ -95,64 +199,71 @@ iPhone Duo预订火爆，但分析师存疑
 5万亿估值：合理溢价还是透支未来？
 &lt;p&gt;苹果市值突破5万亿美元，当前股价对应2027财年预期市盈率约为36倍，显著高于历史均值。&lt;/p&gt;
 &lt;p&gt;投资者面临的核心问题在于：苹果的盈利增速能否支撑这一估值水平。今年以来苹果股价已累计上涨约26%，部分投资者对涨势能否持续持怀疑态度。&lt;/p&gt;
-&lt;p&gt;多空双方的分歧，本质上是对苹果商业模式在AI时代定位的不同判断：看多方认为其&amp;quot;轻资产、重生态&amp;quot;的路线将在AI泡沫破裂后脱颖而出；看空方则担忧，在缺乏实质性AI收入催化剂的情况下，当前估值已难以为继。苹果股价能否守住5万亿市值，或将取决于10月28日发布会能否带来真正的惊喜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 奈飞“撞墙”，高管“清空”</title><link>https://wallstreetcn.com/articles/3783969</link><guid>b1e21db2f76ea5f5a2e2078918f81c782fba4e90d8bfe5092ff492321830c8db</guid><pubDate>Tue, 20 Oct 2026 00:32:12 GMT</pubDate><description>&lt;p&gt;奈飞（Netflix）正走到一个关键节点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;10月20日美股盘后，流媒体巨头奈飞将披露第三季度财报。&lt;/strong&gt;公司股价近一年已下跌逾40%，用户参与度持续承压。&lt;/p&gt;
+&lt;p&gt;多空双方的分歧，本质上是对苹果商业模式在AI时代定位的不同判断：看多方认为其&amp;quot;轻资产、重生态&amp;quot;的路线将在AI泡沫破裂后脱颖而出；看空方则担忧，在缺乏实质性AI收入催化剂的情况下，当前估值已难以为继。苹果股价能否守住5万亿市值，或将取决于10月28日发布会能否带来真正的惊喜。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 似曾相识？再度打爆“AI股神”后，AI交易迎来反弹</title><link>https://wallstreetcn.com/articles/3783975</link><guid>39b564f61944a0e6519ebb0ae22a33a9d53f1fe2be63e18d57adef3cee1ed0ec</guid><pubDate>Tue, 20 Oct 2026 01:45:57 GMT</pubDate><description>&lt;p&gt;AI板块在经历新一轮剧烈清洗后，于周一出现技术性反弹，但这场反弹究竟是趋势逆转还是短暂喘息，市场仍存在深刻分歧。&lt;/p&gt;
+&lt;p&gt;10月19日周一，美股费城半导体指数结束八连跌，单日盘中一度反攻逾3%，最终收涨1.6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;上周，裁撤约1000名员工，随即将内容总监Bela Bajaria和电影负责人Dan Lin相继扫地出门，以Disney和Fox资深高管Peter Rice接替Bajaria。两位核心创意高管的出局，令所有压力直接集中到联席CEO Ted Sarandos一人身上。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》援引知情人士透露，Sarandos数月来在内部抱怨美国用户在奈飞上花费的时间持续减少，平台缺乏新的爆款内容，距离《怪奇物语》或《鱿鱼游戏》级别的现象级作品已有时日。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一轮人事动荡的背后，是奈飞内容吸引力的实质性滑坡。与此同时，YouTube和TikTok的崛起正在分流大量受众注意力。&lt;/strong&gt;&lt;/p&gt;
-
-人事地震：两位创意高管相继离场
-
-&lt;p&gt;这是奈飞历史上罕见的高层密集出局。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》，裁员消息宣布当天下午2时，被裁员工即丧失工作邮件访问权限。数小时后，Sarandos告知Bajaria离职。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报道指出，此次内部重组方案代号&amp;quot;Project Meridian&amp;quot;，管理层最初讨论裁撤多达10%的职位，最终与各部门负责人协商后确定为约6%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;电影负责人Dan Lin的离职尤为戏剧性：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛当日将云计算公司CoreWeave评级从&amp;quot;中性&amp;quot;上调至&amp;quot;买入&amp;quot;，多位华尔街分析师亦相继发声力挺基本面，一度弥漫市场的&amp;quot;AI资本开支见顶&amp;quot;恐慌情绪有所消退。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本轮反弹的背景，与数月前Situational Awareness基金爆仓引发的那轮去杠杆如出一辙。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3783874"&gt;华尔街见闻提及&lt;/a&gt;，瑞银交易台交易员Torsten Sippel在上周报告中明确指出，上周市场走势与&amp;quot;AI股神&amp;quot;事件高度相似——均为拥挤仓位被迫平仓，而非基本面驱动的系统性抛售。&lt;/p&gt;
+&lt;p&gt;然而在反弹出现之际，分析人士提示，对冲基金总敞口仍处高位，去杠杆风险尚未完全出清，此次反弹究竟是真正的底部还是短暂喘息，市场仍存分歧。&lt;/p&gt;
+&amp;quot;AI股神&amp;quot;再度被打爆
+&lt;p&gt;这已是Aschenbrenner在不到半年内第二次在AI押注上折戟。&lt;/p&gt;
+&lt;p&gt;今年7月，Aschenbrenner创立的Situational Awareness基金因AI板块大幅回调，损失规模高达数百亿美元，创下对冲基金史上单只基金最大亏损额纪录，最终不得不大幅削减杠杆，并将旗下大部分公开市场头寸出售给Citadel。在致投资人的信中，Aschenbrenner表示将&amp;quot;另谋再战之日&amp;quot;，并承诺&amp;quot;汲取必要教训&amp;quot;。&lt;/p&gt;
+&lt;p&gt;然而仅仅数周后，他便卷土重来。&lt;a href="https://wallstreetcn.com/articles/3781600"&gt;华尔街见闻提及&lt;/a&gt;，9月Aschenbrenner已开始重建此前爆仓的核心头寸，标的涵盖AMD、英特尔、SK海力士、闪迪及CoreWeave等，只是将此前借助高盛等大型投行总收益互换的高杠杆模式，切换为弹性期权结构，以期将最大损失限定于已支付的权利金之内。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;结果同样令人唏嘘。自9月8日以来，他重仓的七只股票中有六只遭遇剧烈下跌&lt;/strong&gt;：CoreWeave跌37.4%、SK海力士跌25.8%、闪迪跌23.8%、DRAM跌22.9%、Bloom Energy跌18.1%、英特尔跌9.4%，仅AMD录得9.1%的涨幅，七只标的平均跌幅达18.3%。&lt;/p&gt;
+&lt;p&gt;The Market Ear将此次事件称为&amp;quot;&lt;strong&gt;Leopold Lows 2.0&lt;/strong&gt;&amp;quot;。&lt;strong&gt;DRAM价格已跌回上次爆仓时的低点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CoreWeave的RSI也回落至彼时水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;而他在9月初建仓的CoreWeave 11月到期行权价95美元看涨期权，已从最高18美元跌至仅剩约1美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+仓位出清与技术超卖：反弹条件正在聚合
+&lt;p&gt;从高盛数据来看，本轮抛售的结构性特征，恰恰为周一的反弹埋下了伏笔。&lt;/p&gt;
+&lt;p&gt;对冲基金已连续五个交易日净卖出全球AI股票，据高盛统计，2025年以来AI股票的累计净买入量已被完全抹平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;全球AI股票在此期间录得近一年来第二大净卖出规模。对冲基金对全球AI股票的净配置比例从6月峰值的31.7%降至26.1%，位于过去一年的第49百分位；多空比率从4.34降至3.27，仅处于过去一年的第7百分位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Market Ear分析指出，此次卖出以减持多头为主。上周全球净卖出流量达-2.1个标准差，多头卖出与空头卖出之比约为3比1，显示市场处于主动降低风险敞口的阶段。&lt;strong&gt;一旦强制卖盘逐步耗尽，技术面的支撑逻辑便开始凸显&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;费城半导体指数已触及交易区间下轨，同时逼近更长周期的趋势支撑线，超卖程度达到极值。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，期权市场的恐慌情绪也在本周集中释放，VXSMH（半导体波动率指数）大幅飙升。但分析认为，按照‘物极必反’的规律，市场极度恐慌的时候往往是底部。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，期权的被动平仓也在一定程度上放大了此前的下跌。做市商在看涨期权建仓时购入的Delta对冲头寸，随着期权价值缩水而被迫平仓，形成对标的股票的额外卖压，加剧了下行动能。&lt;/p&gt;
+华尔街分析师：基本面并未破坏
+&lt;p&gt;&lt;strong&gt;反弹之所以能在周一发生，离不开分析师层面的密集背书。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛将CoreWeave从&amp;quot;中性&amp;quot;上调至&amp;quot;买入&amp;quot;，分析师Gabriela Borges承认市场对该公司融资能力存在合理疑虑，但认为经历大跌后估值已具吸引力。&lt;/p&gt;
+&lt;p&gt;她在研报中指出，CoreWeave的混合债务成本即便上移100至200个基点，也不会突破这一区间，实际上为加权平均资本成本的上行设定了上限，使股权回报结构依然成立。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛将目标价由139美元下调至106美元，但较上周五收盘价仍隐含逾40%的上行空间；据彭博统计，当前分析师对CoreWeave的平均目标价为135.23美元，隐含涨幅约达120%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;明星科技分析师Dan Ives将此次抛售类比为AI基础设施领域的&amp;quot;SaaS 末日恐慌&amp;quot;时刻，援引CoreWeave二季度末约1040亿美元的积压订单，强调需求端的客户承诺并未动摇，并&lt;strong&gt;预计恐慌过后基本面驱动的上行趋势将延续。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Moor Insights &amp;amp; Strategy创始人Patrick Moorhead则直言：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;事发前一天，他还与Sarandos同台出席星光熠熠的Academy Museum Gala，聆听泰勒·斯威夫特现场演出；&lt;/li&gt;
-&lt;li&gt;周日晚间，他又出席奈飞园区内《La Bola Negra》的放映活动；&lt;/li&gt;
-&lt;li&gt;周一，公司宣布其离职，由Rice兼任过渡，直至新任电影主管到位。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;我认为这不过是又一轮恐慌罢了，人们正在寻找卖出的理由，而不是买入的理由。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;接替Bajaria的Peter Rice在行业内口碑颇佳。奈飞表示，Rice将于本周上任，统筹管理约200亿美元的全球内容预算，涵盖剧集、电影及体育赛事等现场直播内容。&lt;/p&gt;
-&lt;p&gt;分析认为两位重量级高管的出局，使Sarandos在创意条线上的&amp;quot;替罪羊&amp;quot;空间所剩无几，如果接下来的财报数据和业务指标仍不理想，舆论的矛头将直指这位联席CEO本人。&lt;/p&gt;
-
-用户增长触顶，参与度成核心隐患
-
-&lt;p&gt;奈飞的压力，不仅来自人事变动，更来自用户数据。&lt;/p&gt;
-&lt;p&gt;分析机构Antenna的追踪数据显示，截至今年9月底，奈飞在美国市场今年内每个月的净新增用户均为零。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;奈飞方面回应称，Antenna的数据&amp;quot;无法代表奈飞的业务实际表现&amp;quot;，但并未提供具体反驳数据——事实上，公司自2025年初起已不再披露用户新增数量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;用户流失率方面，奈飞仍为行业最低，9月份美国市场月流失率仅为2.1%，整体订阅基础依然牢固，全球付费用户突破3亿。然而，用户总量与用户参与时长之间的背离，正成为平台的深层矛盾。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;游戏业务是另一块短板。&lt;/strong&gt;奈飞近期内部备忘录显示，每月使用游戏功能的用户仅占全部订阅者的3.5%，该业务距2026年设定的用户覆盖及参与目标落后约10%。&lt;/p&gt;
-
-策略转向：从算法到内容全线调整
-
-&lt;p&gt;面对参与度滑坡，奈飞正从多个层面重构内容策略。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在算法层面，奈飞内部长期禁止人为干预推荐系统，这一做法被称为&amp;quot;thumb on the scale&amp;quot;（拇指压秤）。&lt;/strong&gt;但据报道援引知情人士透露，近几个月来，高管们为拉升特定节目收视和新内容形态的曝光率，已越来越频繁地介入推荐逻辑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，平台已减少对游戏和播客的主动推送，将资源重新聚焦至电视和电影核心业务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在发行模式上，奈飞正迈出重要一步，开始押注部分影片的大规模院线上映&lt;/strong&gt;。公司计划将《Charlie vs. the Chocolate Factory》和《Narnia: The Magician&amp;#x27;s Nephew》等影片采用至少45天院线窗口期，与传统院线片发行方式接轨。&lt;/p&gt;
-&lt;p&gt;《纳尼亚》预告片发布前一天，其配合齐柏林飞船《通往天堂的阶梯》制作的迷幻风格预告在YouTube迅速斩获近8000万次播放。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此外，据知情人士透露，奈飞内部也在讨论是否调整部分剧集的更新节奏——改变一次性全集上线的惯常做法，转为竞争对手普遍采用的按周更新模式&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;联席CEO Sarandos目前对此持抵制态度，公司内部数据显示用户更偏好一次性追完的观看体验。&lt;/p&gt;
-&lt;p&gt;在内容品类扩张方面，奈飞过去一年内与Spotify、Barstool Sports、iHeartMedia及Jay Shetty的&amp;quot;On Purpose&amp;quot;等签署播客协议，试图将用户从YouTube引流至自有平台；&lt;/p&gt;
-&lt;p&gt;体育版权方面，奈飞追加了NFL套餐，并获得国际版世界杯直播权及部分MLB赛事播映权。&lt;/p&gt;
-
-历史镜鉴：Sarandos曾多次带领Netflix走出危机
-
-&lt;p&gt;眼下的困境，并非Sarandos第一次面临生死考验。&lt;/p&gt;
-&lt;p&gt;2011年，Netflix试图将流媒体与DVD业务拆分为两家公司，DVD业务品牌更名为&amp;quot;Qwikster&amp;quot;，决策引发市场强烈反弹，时任CEO Reed Hastings在不到一个月内宣布撤回方案，股价随即回升。&lt;/p&gt;
-&lt;p&gt;更大的危机发生在2022年4月。Netflix当季出现有史以来首次用户净流失，规模约20万，下一个季度再流失近100万。华尔街恐慌情绪蔓延，股价大幅下挫。Sarandos随即推出两项关键举措：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;其一，大规模整治密码共享，强制大量免费搭车用户付费；&lt;/li&gt;
-&lt;li&gt;其二，迅速推出价格更低廉的含广告订阅套餐，为价格敏感用户提供留存选项。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此后，Netflix用户规模逐步增长至超过3亿，并以此为契机建立了广告变现业务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wedbush在上周发布的研报中指出，此次用户参与度的改善需要时间，人事动荡更将拉长这一周期，但广告业务收入预计将&amp;quot;于2026年翻倍至约30亿美元&amp;quot;，并维持90美元的12个月目标股价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;颁奖季同样是Sarandos需要争夺的战场。&lt;/strong&gt;Netflix至今未获奥斯卡最佳影片奖，《La Bola Negra》被业内视为目前最具竞争力的冲击机会。&lt;/p&gt;
-&lt;p&gt;这或许是一场象征意义远大于商业影响的胜利，但对于正在力图重振市场信心的Sarandos而言，此时任何一个积极信号都不嫌多。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌</title><link>https://wallstreetcn.com/articles/3783911</link><guid>81df7606c67c5d8e7a35ea83542d0aa9378b88808094468445a0c1c7f0825d10</guid><pubDate>Mon, 19 Oct 2026 23:28:10 GMT</pubDate><description>&lt;p&gt;科技股的强劲反弹为上周遭受重创的美股提供了喘息空间，但市场底部的信用裂缝正在持续扩大，并开始向权益市场渗透。&lt;/p&gt;
+&lt;p&gt;从资本开支总量层面，瑞银财富管理CIO将2026年全球AI资本开支预测上调至9000亿美元，同比增长84%；2027年进一步升至1.2万亿美元，同比增长33%，直接触发因素是AI服务器供应链近期成本全面上行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周一反攻最明显的，正是上周跌幅最重的标的。&lt;/strong&gt;周一闪迪收涨5.5%、SK海力士ADR收涨4.6%、美光收涨3%、英特尔收涨2.4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+反弹之上：去杠杆远未终止
+&lt;p&gt;然而，此次反弹并非没有隐忧，多位分析人士警示，市场结构依然脆弱。&lt;/p&gt;
+&lt;p&gt;瑞银的Sippel指出，尽管对冲基金净敞口已降至五年历史的第30百分位，&lt;strong&gt;但总敞口仍高于第90百分位，进一步去杠杆的空间依然存在&lt;/strong&gt;。他将近期市场定性为&amp;quot;脆弱而非彻底看空&amp;quot;，认为风险正在被重新分配。&lt;/p&gt;
+&lt;p&gt;CoreWeave的信用问题尚未完全消散。上周其债券价格跌至通常预示财务困境的水平，债券违约保护成本盘中一度攀升至历史最高。尽管高盛已上调评级，该股周一盘中一度涨7.4%，但最终仍收跌0.4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sippel提示，市场对AI基础设施融资结构可持续性的担忧，已形成独立于硬件需求之外的定价逻辑，ASML与台积电的强劲基本面均未能有效平息这一疑虑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国银行策略师Michael Hartnett提示，随着投资者寻求规避利率上升、美国中期选举及AI主题交易带来的波动，未来数周风险厌恶情绪可能主导市场。&lt;/p&gt;
+&lt;p&gt;未来一周，Meta、特斯拉等科技巨头将相继披露财报，AI资本开支的真实弹性将经受更直接的数据检验。对于此次反弹，市场的共识或许在于：&lt;strong&gt;仓位已然出清，但底部的确认，仍需等待基本面给出更明确的答案。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩媒：主要PC厂商已签署“存储长期协议”</title><link>https://wallstreetcn.com/articles/3783981</link><guid>f4f22c49d1466a8dc8045f6cde7d2c492ade7303387f1617a536e75ebfaaffb7</guid><pubDate>Tue, 20 Oct 2026 01:39:15 GMT</pubDate><description>&lt;p&gt;今年困扰PC行业的内存芯片供应短缺局面有望在明年得到缓解。联想、惠普、戴尔等主要PC厂商已与内存制造商完成长期供应协议（LTA）签署，以锁定稳定货源，同时将业务重心从消费端（B2C）转向企业端（B2B），寻求新的利润支撑点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据韩国《电子新闻》周二报道，上述PC厂商今年上半年因AI基础设施投资带动内存需求激增，DRAM及固态硬盘（SSD）实际到货量仅为需求量的70%至80%。&lt;/strong&gt;一名PC厂商高管表示，LTA的签署意味着明年的零部件采购&amp;quot;不会有大问题&amp;quot;。&lt;/p&gt;
+&lt;p&gt;与此同时，市场调研机构Omdia数据显示，今年第三季度全球PC出货量同比骤降21%，预计明年将再降7%。消费端需求持续低迷，但企业端AI PC需求保持韧性，正成为行业新的增长引擎。&lt;/p&gt;
+供应短缺今年重创PC厂商
+&lt;p&gt;今年，AI服务器及数据中心建设的加速推进引发内存芯片需求爆发式增长，PC厂商在与AI基础设施客户争夺有限供应的竞争中明显处于下风。据《电子新闻》报道，今年上半年，主要PC厂商的DRAM和SSD到货量仅能满足实际需求的七至八成，生产计划受到明显冲击。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为应对这一局面，联想、惠普、戴尔等主要厂商已相继与内存制造商完成LTA签署。长期协议通常锁定一定周期内的供货量与价格区间，有助于厂商规避现货市场的价格波动与供应不确定性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，消费端PC需求的萎缩在客观上也缓解了供应压力。出货量下滑意味着整体采购需求减少，供应链的调配压力随之降低。&lt;/p&gt;
+明年成本压力有所减轻，但仍存上行风险
+&lt;p&gt;尽管DRAM和SSD价格明年预计仍将继续上涨，但LTA的签署将在一定程度上对冲涨价压力。综合CPU和GPU价格涨幅，《电子新闻》援引业内预测称，明年PC零部件整体价格涨幅约在10%至20%区间，低于今年的压力水平。&lt;/p&gt;
+&lt;p&gt;零部件供应趋于稳定将提升生产连续性，价格涨幅收窄则有助于保护利润率。多重因素叠加，PC厂商明年的经营压力预计将较今年有所减轻。&lt;/p&gt;
+&lt;p&gt;不过，消费端需求疲软仍是主要风险。PC出厂价持续上涨叠加宏观经济放缓，消费者购买力受到压制，B2C市场复苏节奏料将迟缓。Omdia预计，明年全球PC出货量将再下滑7%。&lt;/p&gt;
+B2B与AI PC成为行业新支柱
+&lt;p&gt;面对消费端的持续低迷，主要PC厂商正加速将业务重心向企业端迁移。&lt;strong&gt;企业AI应用部署提速与员工设备更换周期叠加，为B2B PC市场提供了相对稳定的需求基础。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI PC——即无需连接云端、可在本地设备上独立运行AI计算的笔记本电脑或台式机——正成为行业增长的核心叙事。据Omdia数据，今年第二季度AI PC出货量已占美国市场整体出货量的48.3%，第三季度有望突破50%。售价超过1500美元的高端PC出货量逆势增长36.8%，显示企业及高端消费者对性能升级的需求依然旺盛。&lt;/p&gt;
+&lt;p&gt;一名PC厂商人士表示，尽管消费端市场疲软，B2B端AI PC需求仍将增长，&amp;quot;在零部件供应稳定的基础上扩大AI PC产品线、提升供货量，是明年的核心业务目标&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌</title><link>https://wallstreetcn.com/articles/3783911</link><guid>81df7606c67c5d8e7a35ea83542d0aa9378b88808094468445a0c1c7f0825d10</guid><pubDate>Mon, 19 Oct 2026 23:28:10 GMT</pubDate><description>&lt;p&gt;科技股的强劲反弹为上周遭受重创的美股提供了喘息空间，但市场底部的信用裂缝正在持续扩大，并开始向权益市场渗透。&lt;/p&gt;
 &lt;p&gt;纳斯达克100指数周一上涨1.2%，半导体股反弹提振AI相关板块，科技巨头充当主要护盘力量。然而，这场反弹成色有限，CoreWeave在高盛升级评级后一度大涨逾7%，随即回落至上周五低点；标普500指数仅收涨0.4%，道琼斯指数几近持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，中东地缘风险骤然升级，WTI原油重返每桶100美元上方，油价压力与250亿美元规模的投资级新债供给叠加，推动10年期美债收益率单日上行约5至7个基点至5.14%。&lt;/p&gt;
@@ -217,26 +328,7 @@ CoreWeave成为信用压力晴雨表
 &lt;p&gt;黄金现货小幅下跌0.6%，至每盎司约4140美元，回落幅度温和，未触发显著技术信号。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币在8万美元至8.3万美元区间内剧烈波动，最终收于约8.18万美元，小幅上涨1.2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球央行囤金潮持续！高盛强调：重要的不只是“买”，还有“转”</title><link>https://wallstreetcn.com/articles/3783977</link><guid>52d4f384274b80984e6607b05f3df5c7a7dfbbc310eb404d486a61bf609fd2a2</guid><pubDate>Tue, 20 Oct 2026 00:51:39 GMT</pubDate><description>&lt;p&gt;据高盛分析师Lina Thomas发布的最新月度预测报告，全球央行8月购金量估计达79吨，远高于2022年前17吨的历史月均水平，也高于7月的44吨。以三个月季节性调整后的口径计算，当前购金速度为每月85吨，折合年化约1000吨——而2022年俄罗斯外汇储备遭冻结之前，这一数字仅约200吨。&lt;/p&gt;
-&lt;p&gt;中国央行持续增持黄金储备，依然是8月最大的可识别买家。高盛在报告中写道：“新兴市场央行，尤其是中国，相对于其合理的长期配置目标，黄金持仓仍明显偏低。”&lt;/p&gt;
-&lt;strong&gt;更值得关注的信号：黄金存在哪里&lt;/strong&gt;
-&lt;p&gt;Lina Thomas指出，发达国家央行大多在2022年后置身于购金潮之外，部分原因是它们本已持有大量历史储备。但当前的讨论正在发生转变——&amp;quot;从是否持有黄金，转向黄金存放在哪里&amp;quot;，这背后指向的是对储备安全和跨国信任的更深层担忧。&lt;/p&gt;
-&lt;p&gt;数据印证了这一判断。8月，存放于纽约联储的外国央行黄金减少40吨，同期英格兰银行托管量增加46吨。7月，英格兰银行托管量已跳升63吨。9月初，荷兰央行披露，已以&amp;quot;危机准备&amp;quot;为由，将近90吨黄金从纽约和渥太华转移至伦敦。&lt;/p&gt;
-&lt;p&gt;自2025年初以来，纽约联储托管量累计下降约200吨，英格兰银行托管量则累计上升约500吨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;高盛还提示了一个对多头有利的技术细节：其基于伦敦的预测模型并不涵盖英格兰银行托管量的变化。当英格兰银行托管增量超过纽约联储托管降量时，实际官方购金规模可能比预测数字更大。8月，英格兰银行增加46吨，纽约联储减少40吨，差值虽然收窄，但方向一致。&lt;/p&gt;
-&lt;strong&gt;金价尚未跟上，高盛仍守5400美元目标&lt;/strong&gt;
-&lt;p&gt;上述购金潮发生之际，金价走势却相对沉寂。据高盛材料部门数据，现货金价当日约为4186美元/盎司，低于高盛上月下调年底公允价值时约4350美元的水平，也逐渐逼近该行在美联储鹰派情景下设定的4070美元“近期底部”。&lt;/p&gt;
-&lt;p&gt;美联储已启动加息，高盛经济学家预计10月将再度加息，利率上行正在压制ETF需求。&lt;/p&gt;
-&lt;p&gt;并非所有人都认同结构性支撑的逻辑。美银分析师Lawson Winder上周表示，高利率环境应会压制金价，他更倾向于铜和铀，并将Kinross下调至“跑输大市”。法兴银行也曾指出，在当前价格水平下已出现需求破坏迹象，2026年上半年全球黄金需求低于10年均值。&lt;/p&gt;
-&lt;p&gt;高盛的回应是：美联储是短期阻力，央行才是价格底部的锚。Lina Thomas此前写道：“持续的央行购金，即便在大幅鹰派的情景下，也应逐步抬高金价的底部支撑。”&lt;/p&gt;
-&lt;p&gt;高盛维持黄金2027年底目标价5400美元/盎司，并将央行购金假设上调至2026至2027年间月均60吨，认为官方购金贡献了其预期23%涨幅的绝大部分。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;托管数据才是真正的信号&lt;/strong&gt;
-&lt;p&gt;购金吨数是标题，托管数据才是真正的故事。&lt;/p&gt;
-&lt;p&gt;当荷兰等国央行开始以“危机准备”为由，将金条从曼哈顿转移至伦敦，这与其说是在表达对黄金的看法，不如说是在表达对托管方的信任判断。&lt;/p&gt;
-&lt;p&gt;79吨的月度购金量，是一个买入信号。40吨在单月内离开纽约联储，是一个信任信号。&lt;/p&gt;
-&lt;p&gt;高盛的结论简洁直接：&lt;strong&gt;“央行需求仍是黄金的结构性支撑，其背后的驱动因素——制裁风险、地缘政治、对G7储备货币的不信任——并未消退。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 法国骚乱冲击金融市场，10年期国债收益率单日飙升14个基点，银行与零售股大跌</title><link>https://wallstreetcn.com/articles/3783953</link><guid>41a93a3e7749724c7374a2ff47a0bd80dedb9a0013560d168fdbe2ad563b364f</guid><pubDate>Mon, 19 Oct 2026 22:48:58 GMT</pubDate><description>&lt;p&gt;法国市场周一遭遇全面抛售。&lt;a href="https://wallstreetcn.com/articles/3783920?keyword=%E6%B3%95%E5%9B%BD"&gt;大规模抗议浪潮&lt;/a&gt;叠加财政整顿前景黯淡，投资者对法国国债风险溢价的担忧急剧升温，债券、股票与欧元同步下挫。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 法国骚乱冲击金融市场，10年期国债收益率单日飙升14个基点，银行与零售股大跌</title><link>https://wallstreetcn.com/articles/3783953</link><guid>41a93a3e7749724c7374a2ff47a0bd80dedb9a0013560d168fdbe2ad563b364f</guid><pubDate>Mon, 19 Oct 2026 22:48:58 GMT</pubDate><description>&lt;p&gt;法国市场周一遭遇全面抛售。&lt;a href="https://wallstreetcn.com/articles/3783920?keyword=%E6%B3%95%E5%9B%BD"&gt;大规模抗议浪潮&lt;/a&gt;叠加财政整顿前景黯淡，投资者对法国国债风险溢价的担忧急剧升温，债券、股票与欧元同步下挫。&lt;/p&gt;
 &lt;p&gt;截至发稿，法国10年期国债收益率单日飙升14个基点至4.93%，创近一个月最大单日涨幅，与德国同期国债的利差扩大至147个基点，为两周高位。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;周一CAC 40指数收跌1.1%，领跌欧洲主要市场，法国两大银行法巴银行与兴业银行分别下跌2.5%与3.4%。欧元兑美元下跌0.25%。&lt;/p&gt;
@@ -292,50 +384,4 @@ CoreWeave成为信用压力晴雨表
 &lt;p&gt;美国银行策略师Michael Hartnett此前提示，随着投资者寻求规避利率上升、美国中期选举及AI主题交易带来的波动，未来数周风险厌恶情绪可能主导市场。&lt;/p&gt;
 &lt;p&gt;中金公司在《&amp;quot;棉花糖&amp;quot;时代的美国AI》报告中指出，&lt;strong&gt;美国短期流动性风险不容忽视，流动性存在超预期收紧的可能，一旦出现将波及全球市场，市场对AI企业资本开支可持续性的担忧也可能随之升温。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;华鑫证券则指出，对于美股短期谨慎，防御为主。过去一周AI交易明显降温。医疗保健、必选消费和公用事业可作为阶段性防御配置。&lt;/p&gt;
-&lt;p&gt;国联民生认为，美国通胀超预期推升美债收益率，叠加Anthropic2026年三季度收入增长放缓、CoreWeave等算力运营商信用利差走阔，市场对AI资本开支可持续性及投资回报率的担忧有所加剧，短期高杠杆、高估值标的或持续承压。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 惠誉点名美国主权评级下调风险，发达市场债务利息突破3.3万亿美元</title><link>https://wallstreetcn.com/articles/3783960</link><guid>a3011476f72be9b8bd6348b037a0bbc144fe5676b6016d54d85d595a492fc1d2</guid><pubDate>Mon, 19 Oct 2026 20:44:32 GMT</pubDate><description>&lt;p&gt;在2026财年美国联邦赤字扩大至1.99万亿美元、净利息支出达到创纪录的1.05万亿美元的背景下，惠誉评级明确点名美国主权评级面临下调风险。&lt;/p&gt; &lt;p&gt;美国财政部10月16日公布的数据显示，截至9月30日的2026财年，美国联邦政府财政赤字达到1.99万亿美元，同比扩大约12%，为2021年以来最大年度财政赤字，连续第四年维持在这一高位水平。&lt;/p&gt; &lt;p&gt;美国国债收益率上升使利息支出飙升，成为推动财政赤字扩大的关键因素。2026财年，美国联邦政府净利息支出同比增加814亿美元，达到创纪录的1.05万亿美元，成为政府三大支出项目之一。&lt;/p&gt; &lt;p&gt;惠誉预计，到年底发达市场政府债务总额将突破75万亿美元；&lt;strong&gt;据国际金融协会（IIF）数据，即便在本轮债券抛售潮之前，富裕国家政府每年支付的利息已超过3.3万亿美元，超过全球国防开支或人工智能投资总额。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;惠誉将美国、法国、英国列为债务稳定面临威胁、主权评级面临下调风险的国家，并明确：若高额财政赤字、利息支出占财政收入比重、政府债务占GDP比重三项指标持续恶化，且缺乏可信的中期财政调整方案，美国主权评级将面临下调压力。&lt;/strong&gt;&lt;/p&gt; 
-政府发债与科技巨头融资形成双重挤压  &lt;p&gt;&lt;strong&gt;惠誉评级首席经济师Brian Coulton将本轮债市收益率飙升归因于供需两端的共同作用。&lt;/strong&gt;他指出：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;能源冲击持续时间超出此前预期，改变了市场对货币政策的判断，也让各国央行更加警惕通胀的第二轮效应。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;值得关注的是，不仅中短期债券承压，30年期超长期国债收益率也在同步攀升，而中长期通胀预期基本保持稳定。Brian Coulton表示：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;这说明更广泛的供需因素同样在发挥作用。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;strong&gt;供给端压力首先来自各国政府持续扩大的财政赤字。&lt;/strong&gt;国际货币基金组织10月在最新《世界经济展望》中指出，全球发达经济体今年净借款规模将达GDP的5.2%，创2021年以来新高。&lt;/p&gt; &lt;p&gt;美国财政部数据显示，截至9月30日的2026财年，美国联邦政府财政赤字达1.99万亿美元，同比扩大约12%，为2021年以来最大年度赤字，连续第四年维持高位；净利息支出同比增加814亿美元，达创纪录的1.05万亿美元，成为政府三大支出项目之一。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;与此同时，科技巨头的大规模融资正与主权债券争夺市场资金。&lt;/strong&gt;Brian Coulton指出：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;在AI投资热潮下，大型科技云企业开始大举融资，以支持数据中心和IT基础设施建设，在债务市场与主权债券形成资金竞争。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;高盛曾预计，五大超大规模云服务商，谷歌、亚马逊、Meta、微软和甲骨文在2026年发债规模约为2500亿美元，2027年将进一步升至4000亿美元。Brian Coulton总结称：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;在投资需求上升、储蓄并未同步增长的背景下，这给美国以及全球实际利率带来上行压力。&lt;/p&gt; &lt;/blockquote&gt; 
-美法英承压最重，债务期限结构成关键变量  &lt;p&gt;惠誉评级西欧主权评级主管、高级董事Federico Barriga-Salazar认为，&lt;strong&gt;融资成本上升对所有发达市场均构成压力，尤其是债务高企且债券集中到期规模较大的国家，法国、美国和英国首当其冲。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;IMF总裁格奥尔基耶娃近日警告，发达经济体已成为债务问题上&amp;quot;最严重的违规者&amp;quot;。&lt;/strong&gt;随着偿债利息持续攀升，各国财政空间被进一步压缩，为民众提供生活成本支持的能力也将受到限制。&lt;/p&gt; &lt;p&gt;一国财政抵御冲击的能力，在很大程度上取决于存量债务的平均剩余期限。&lt;strong&gt;Federico Barriga-Salazar指出，英国政府债务平均剩余期限为13.4年，法国为8.2年，这意味着债券收益率飙升向整体财政利率负担的传导将是渐进的。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;然而，他同时警告，法国短期到期债务规模占GDP的15.9%，一旦市场融资条件恶化，将对法国财政产生短期流动性冲击。&lt;/p&gt; &lt;p&gt;针对外界对法国债市动荡可能重燃欧债危机的担忧，Federico Barriga-Salazar给出了相对审慎的评估。他强调，欧洲已在制度层面构筑多重防线，包括欧洲稳定机制（ESM）、银行业联盟以及欧洲央行的各类支持工具，其核心正是为了遏制风险溢出效应演化为系统性危机。&lt;/p&gt; 
-三大指标恶化或触发主权评级下调  &lt;p&gt;惠誉评级主权及超国家机构研究全球主管、董事总经理Ed Parker明确列出了触发主权评级下调的关键信号：&lt;strong&gt;高额财政赤字能否收窄、利息支出占财政收入的比率是否持续走高，以及政府债务占GDP的比率能否企稳。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;他警告：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;如果这几项指标持续恶化，而政府又拿不出可信的中期财政调整方案，就可能对主权评级形成下调压力。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;strong&gt;惠誉报告显示，全球十大发达经济体10年期国债收益率中位数，比未偿债务的平均利率高出161个基点，这使得降低甚至稳定债务水平变得愈发困难。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Ed Parker指出，政府债券普遍期限较长，债券收益率上行需要一段时间才会传导至存量债务的平均有效利率，这给政府留出了一定调整窗口。但他同时强调：&lt;/p&gt; &lt;blockquote&gt;
-&lt;p&gt;若债务/GDP比快速攀升，同时缺乏可信的财政方案、也不具备落实政策的政治执行力，就意味着公共债务可持续性风险上升。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;strong&gt;以法国为例，惠誉测算显示，若要让债务负担保持稳定，其基本财政赤字需从今年预期的2.9%降至GDP的0.4%；若实际融资成本上行至当前市场收益率水平，法国还需额外实施规模约相当于GDP的3.1%的财政调整。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Ed Parker表示，对美国和法国而言，&amp;quot;若公共财政进一步恶化，都将成为评级下调的敏感触发因素。&amp;quot;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 印尼股交所将驱逐高度集中持股公司，力阻MSCI降级</title><link>https://wallstreetcn.com/articles/3783962</link><guid>bfc19c7e12116c8b41272bf2a1b5f39240f9994c45c266c8b9fafb14bde4a211</guid><pubDate>Tue, 20 Oct 2026 00:05:54 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;印度尼西亚证券交易所宣布将大批股权高度集中的公司从旗舰指数中剔除，此举旨在避免被MSCI将其从新兴市场指数降级乃至逐出。&lt;/strong&gt;这一改革行动背后，是印尼股市正面临数十亿美元资金外流的严峻压力。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》报道，印尼证交所周一宣布上述决定，此前MSCI刚刚警告称，可能将印尼重新划定为&amp;quot;独立市场&amp;quot;——这一分类通常适用于阿根廷、黎巴嫩和津巴布韦等市场，意味着严重的市场可及性或流动性恶化。&lt;/p&gt;
-&lt;p&gt;印尼证交所首席执行官Jeffrey Hendrik表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们将把所有高股权集中度的股票从综合股价指数中移除，它们仍可正常交易，但其价格波动将不再影响雅加达综合指数（JCI）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;受上周五MSCI警告冲击，印尼雅加达综合指数周五暴跌11.6%，周一进一步下挫3.6%。被驱逐公司的合计市值权重约占JCI的18%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析人士警告，此次改革措施或不足以完全回应MSCI的关切，而印尼股市今年迄今已累计下跌逾40%，外资净流出规模接近50亿美元。&lt;/strong&gt;&lt;/p&gt;
-
-MSCI施压升级，降级威胁直指市场可及性
-
-&lt;p&gt;MSCI对印尼市场的担忧由来已久，但本次警告标志着局势的显著升级。&lt;/p&gt;
-&lt;p&gt;今年1月，MSCI曾警告可能将印尼从新兴市场降级至前沿市场，理由涵盖市场透明度不足、股权结构高度集中以及内幕交易问题。&lt;/p&gt;
-&lt;p&gt;此次进一步威胁将印尼列为&amp;quot;独立市场&amp;quot;，意味着可能完全将其排除在主要指数之外。&lt;/p&gt;
-&lt;p&gt;MSCI指数受全球新兴市场投资者广泛追踪，一旦遭降级至独立市场状态，可能引发数十亿美元规模的资金外流，对已承压的印尼资本市场形成更大冲击。&lt;/p&gt;
-
-交易所密集推出改革，分析师仍存疑虑
-
-&lt;p&gt;为应对MSCI的关切，雅加达交易所此前已推出一系列改革措施：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;将股票最低交易价格从50印尼盾（约合0.003美元）降至1印尼盾，以促进市场流动性；&lt;/li&gt;
-&lt;li&gt;并将最低自由流通股比例从约7.5%提升至15%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在上周五MSCI发出警告后，交易所再度宣布旨在提升透明度、改善市场数据质量的新举措，并于周一与MSCI官员举行虚拟会议后，正式宣布剔除高集中度持股公司的决定。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，分析师对上述措施能否真正化解MSCI关切持保留态度。智库Bright Institute高级经济学家Yanuar Rizky表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在我看来，将这些股票从综合指数中剔除，并不必然解决根本问题。交易所应聚焦于改革本身……使信息真正透明。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他指出，结构性透明度问题才是MSCI担忧的核心所在。&lt;/p&gt;
-
-涉事公司遭监管处罚，问题根源引关注
-
-&lt;p&gt;被交易所列为高度集中持股的公司，包括按市值计算位居指数前列的Dian Swastatika Sentosa和Barito Renewables Energy。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;印尼监管机构上周表示，已对上述两家公司首次公开发行期间&amp;quot;经证实违反资本市场法规&amp;quot;的交易商、承销商、证券公司及实际受益人处以罚款。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;交易所方面尚未披露本次剔除措施的具体生效时间。&lt;strong&gt;鉴于被驱逐公司占JCI整体权重接近五分之一，其最终从指数中的退出势必对市场基准构成明显扰动&lt;/strong&gt;，相关改革能否达到MSCI设定的市场准入标准，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;国联民生认为，美国通胀超预期推升美债收益率，叠加Anthropic2026年三季度收入增长放缓、CoreWeave等算力运营商信用利差走阔，市场对AI资本开支可持续性及投资回报率的担忧有所加剧，短期高杠杆、高估值标的或持续承压。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
