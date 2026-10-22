@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 22 Oct 2026 16:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易连遭暴击！盘中半导体指数跌超6%、Meta跌逾7%，光通信等产业链全线溃败</title><link>https://wallstreetcn.com/articles/3784246</link><guid>7bf6ea5a256b3f19138c72053d235095d4d8857a2981148bf62e68922f7aa025</guid><pubDate>Thu, 22 Oct 2026 16:28:28 GMT</pubDate><description>&lt;p&gt;10月22日周四，市场情绪从前一日强劲财报带来的乐观迅速转向对AI巨额资本开支能否兑现回报的审视，叠加中东局势推高油价、避险情绪升温，科技股承受多重压力。美股AI交易连遭暴击，芯片股、光通信、AI云计算及服务器产业链集体下跌，Meta也因加码AI投资引发的成本与融资担忧遭遇抛售。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 22 Oct 2026 16:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易连遭暴击！盘中半导体指数跌超6%、Meta跌逾7%，光通信等产业链全线溃败</title><link>https://wallstreetcn.com/articles/3784246</link><guid>7bf6ea5a256b3f19138c72053d235095d4d8857a2981148bf62e68922f7aa025</guid><pubDate>Thu, 22 Oct 2026 16:28:28 GMT</pubDate><description>&lt;p&gt;10月22日周四，市场情绪从前一日强劲财报带来的乐观迅速转向对AI巨额资本开支能否兑现回报的审视，叠加中东局势推高油价、避险情绪升温，科技股承受多重压力。美股AI交易连遭暴击，芯片股、光通信、AI云计算及服务器产业链集体下跌，Meta也因加码AI投资引发的成本与融资担忧遭遇抛售。&lt;/p&gt;
 &lt;p&gt;芯片股成为重灾区。周三反弹约2%的费城半导体指数（SOX）和半导体行业ETF SOXX周四早盘曾集体跌超6%。个股中，英伟达（NVDA）一度跌超4%，AMD（AMD）跌约8%，Lam Research（LRCX）跌超10%，科磊（KLAC）跌超9%；存储芯片、光通信和AI云计算板块普遍重挫跌。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Meta（META）盘中一度跌超7%，该司信用风险指标五年期信用违约互换（CDS）价格升至历史高位，凸显投资者对AI投资规模、未来融资需求及回报周期的担忧。&lt;/p&gt;
@@ -104,32 +104,7 @@ Lam Research供应受限，设备股增长预期遭重新审视
 锚定2030年累计涨薪15%，为长期增长提供指引
 &lt;p&gt;连合同步提出中期薪资目标，计划到2030年实现累计薪资增长15%。&lt;/p&gt;
 &lt;p&gt;这一目标以未来四年每年薪资增长3%为基础，并预计政府的产业投资政策可额外带来3%的增幅。&lt;strong&gt;通过将薪资谈判从年度安排延伸至中期规划，连合希望进一步巩固企业持续加薪的预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，名义工资上涨并不必然意味着居民购买力同步改善。只有当工资增幅持续超过物价涨幅，实际收入才能得到实质性提升，并进一步支撑消费增长。对日本央行而言，这一过程能否持续，将影响工资与物价的循环能否稳固，也关系到后续货币政策正常化的空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] PHP漏洞危机进入第二天：黑客攻击激增至百万次，多国政府服务仍处于中断状态</title><link>https://wallstreetcn.com/articles/3784237</link><guid>f475137cbc3613f16146caa8f931051315bb3bf5ec0be1ed4ede2bdcf4958e56</guid><pubDate>Thu, 22 Oct 2026 15:33:40 GMT</pubDate><description>&lt;p&gt;全球针对PHP关键漏洞的应急修复行动进入第二天，形势持续紧张。研究人员警告，在漏洞公开披露前后，黑客的攻击尝试已从数千次骤升至数百万次，部分系统被入侵的可能性不可排除。&lt;/p&gt;
-&lt;p&gt;周四，英国确认，超过30项政府服务仍处于下线状态，以待安全更新完成部署。电信运营商Orange也于周四宣布暂停部分网站和应用的访问。&lt;/p&gt;
-&lt;p&gt;此前一天，奥地利、荷兰、芬兰、法国等数十个国家和地区已陆续采取类似措施，日本多家银行和航空公司亦中断了部分在线服务。&lt;/p&gt;
-&lt;p&gt;网络安全公司Cloudflare首席执行官Matthew Prince透露，在漏洞公开披露前10小时，其系统已识别出数千次针对该漏洞的利用尝试；公告发布后两小时内，攻击次数飙升至数十万次，随后进一步增至数百万次。目前尚不清楚有多少次入侵尝试最终成功窃取数据或入侵系统。&lt;/p&gt;
-&lt;p&gt;Palo Alto Networks则表示，已识别逾2260万个包含该漏洞的&amp;quot;暴露实例&amp;quot;，规模&amp;quot;极为庞大&amp;quot;。&lt;/p&gt;
-&lt;p&gt;周四，&lt;a href="https://wallstreetcn.com/articles/3784211?keyword=%E9%98%B2%E8%8C%83PHP%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E"&gt;工业和信息化部网络安全威胁和漏洞信息共享平台发布紧急提示&lt;/a&gt;，PHP存在两个远程代码执行超危漏洞，攻击者无需任何身份验证即可直接入侵目标系统，建议相关单位和用户立即排查并升级至最新安全版本。&lt;/p&gt;
-
-漏洞公开前已遭定向攻击
-
-&lt;p&gt;据亚马逊研究人员披露，黑客在漏洞公开之前便已尝试加以利用。亚马逊威胁情报部门在其周三发布的报告中指出，一名身份不明的&amp;quot;威胁行为者&amp;quot;在漏洞细节公开前已以某种方式获取了相关信息，并对亚马逊用于追踪网络犯罪活动的传感器网络发起攻击，此后该公司还检测到多次其他利用尝试。&lt;/p&gt;
-&lt;p&gt;NCC Group网络情报与响应副总裁Matt Hull表示，漏洞被知晓与补丁完成部署之间的窗口期至关重要，需要受影响机构迅速行动。&amp;quot;存在一种切实可能性，即脆弱系统已遭入侵，包括被植入后门，&amp;quot;他说，&amp;quot;潜在影响不容小觑。&amp;quot;&lt;/p&gt;
-&lt;p&gt;目前，美国国家网络总监办公室正协调联邦调查局、网络安全和基础设施安全局、国家安全局等机构共同应对此次事件。&lt;/p&gt;
-
-影响范围覆盖全球70%互联网
-
-&lt;p&gt;PHP是互联网最广泛部署的技术之一，支撑着数百万个网站的运行，并驱动着全球高达70%的互联网基础设施。&lt;/p&gt;
-&lt;p&gt;WordPress、Drupal、Joomla和Magento等主流内容管理系统均以PHP为底层支撑。网络安全公司Huntress指出，PHP还广泛&amp;quot;隐身&amp;quot;于各类软件内部，即便相关软件并未对外声明使用了PHP。&lt;/p&gt;
-&lt;p&gt;任何此类基础性漏洞一旦被利用，均可能在互联网软件供应链中产生连锁效应，令在线服务面临数据窃取、恶意软件植入及系统泄露等风险。&lt;/p&gt;
-&lt;p&gt;将网站暂时下线，是在补丁部署期间阻断攻击者利用漏洞的常规防御手段。PHP开发团队已于周三发布软件更新，并敦促用户立即采用。&lt;/p&gt;
-
-AI工具助力漏洞发现与修复
-
-&lt;p&gt;此次漏洞由Alphabet旗下网络安全公司Wiz借助多款人工智能工具发现。&lt;/p&gt;
-&lt;p&gt;Wiz在报告中表示，其与OpenAI及网络安全公司Calif合作完成了这项研究工作，并估计该漏洞在未被察觉的情况下已存在逾十年。&lt;/p&gt;
-&lt;p&gt;&amp;quot;借助前沿AI模型和合适的工具，一名研究员在一周内完成了此前世界级团队数月才能完成的工作，&amp;quot;Wiz在报告中写道。&lt;/p&gt;
-&lt;p&gt;该公司表示，AI工具不仅帮助快速识别了漏洞，也加速了修复方案的形成，在此次应急响应中发挥了关键作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 爱马仕Q3营收增长4.3%不及预期，亚太消费降温拖累增长停滞 | 财报见闻</title><link>https://wallstreetcn.com/articles/3784203</link><guid>6e3b5c651e087cf60f41b41fe3b17478057bba3eeed0b6d4a7762452e5037b41</guid><pubDate>Thu, 22 Oct 2026 08:26:08 GMT</pubDate><description>&lt;p&gt;爱马仕公布的第三季度业绩低于市场预期，亚太地区（不含日本）销售额按固定汇率计算增速归零，折射出消费者支出收缩对这家顶级奢侈品集团的冲击。受此拖累，公司股价盘中一度下挫7%。&lt;/p&gt;
+&lt;p&gt;不过，名义工资上涨并不必然意味着居民购买力同步改善。只有当工资增幅持续超过物价涨幅，实际收入才能得到实质性提升，并进一步支撑消费增长。对日本央行而言，这一过程能否持续，将影响工资与物价的循环能否稳固，也关系到后续货币政策正常化的空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 爱马仕Q3营收增长4.3%不及预期，亚太消费降温拖累增长停滞 | 财报见闻</title><link>https://wallstreetcn.com/articles/3784203</link><guid>6e3b5c651e087cf60f41b41fe3b17478057bba3eeed0b6d4a7762452e5037b41</guid><pubDate>Thu, 22 Oct 2026 08:26:08 GMT</pubDate><description>&lt;p&gt;爱马仕公布的第三季度业绩低于市场预期，亚太地区（不含日本）销售额按固定汇率计算增速归零，折射出消费者支出收缩对这家顶级奢侈品集团的冲击。受此拖累，公司股价盘中一度下挫7%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;爱马仕第三季度营收为41.0亿欧元，按固定汇率计算增长4.3%，均低于分析师预期的41.3亿欧元及5.29%的增速。其中，贡献集团约42%总营收的亚太地区（不含日本）按固定汇率计算增速为零，明显落后于市场预期的1.55%增长。&lt;/strong&gt;首席财务官Eric du Halgouët表示，亚太地区（不含日本）宏观环境持续承压，正在削弱高净值客群的消费意愿。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;上述业绩令投资者失望。杰富瑞（Jefferies）分析师James Grzinic在研报中写道，这份结果&amp;quot;可能令市场度过极为痛苦的一天&amp;quot;。爱马仕股价今年以来已累计下跌约40%，若全年跌幅维持于此水平，将创下该公司1993年上市以来最差年度表现。&lt;/p&gt;
@@ -158,7 +133,32 @@ AI工具助力漏洞发现与修复
 展望：中期目标不变，不确定性仍存
 
 &lt;p&gt;爱马仕重申，尽管全球经济、地缘政治及汇率不确定性持续，集团中期仍坚持按固定汇率计算实现营收雄心勃勃增长的目标。汇率波动已对前三季度营收造成约3.1亿欧元的负面影响。&lt;/p&gt;
-&lt;p&gt;竞争对手路威酩轩（LVMH）上周公布的季度销售数据同样令市场失望。两大奢侈品巨头的接连表现，进一步加剧了市场对亚太高端消费复苏前景的担忧。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 红果砍掉金币了，免费短剧开始重新算账</title><link>https://wallstreetcn.com/articles/3784207</link><guid>4a74d014c69a70dd9a72391549747965dc2bb92c5bfb1c1cb2639e3c7a95eeb4</guid><pubDate>Thu, 22 Oct 2026 08:11:45 GMT</pubDate><description>&lt;p&gt;靠“免费+看剧赚钱”吸引用户的红果，准备停止给观众发金币。&lt;/p&gt;
+&lt;p&gt;竞争对手路威酩轩（LVMH）上周公布的季度销售数据同样令市场失望。两大奢侈品巨头的接连表现，进一步加剧了市场对亚太高端消费复苏前景的担忧。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] PHP漏洞危机进入第二天：黑客攻击激增至百万次，多国政府服务仍处于中断状态</title><link>https://wallstreetcn.com/articles/3784237</link><guid>f475137cbc3613f16146caa8f931051315bb3bf5ec0be1ed4ede2bdcf4958e56</guid><pubDate>Thu, 22 Oct 2026 15:33:40 GMT</pubDate><description>&lt;p&gt;全球针对PHP关键漏洞的应急修复行动进入第二天，形势持续紧张。研究人员警告，在漏洞公开披露前后，黑客的攻击尝试已从数千次骤升至数百万次，部分系统被入侵的可能性不可排除。&lt;/p&gt;
+&lt;p&gt;周四，英国确认，超过30项政府服务仍处于下线状态，以待安全更新完成部署。电信运营商Orange也于周四宣布暂停部分网站和应用的访问。&lt;/p&gt;
+&lt;p&gt;此前一天，奥地利、荷兰、芬兰、法国等数十个国家和地区已陆续采取类似措施，日本多家银行和航空公司亦中断了部分在线服务。&lt;/p&gt;
+&lt;p&gt;网络安全公司Cloudflare首席执行官Matthew Prince透露，在漏洞公开披露前10小时，其系统已识别出数千次针对该漏洞的利用尝试；公告发布后两小时内，攻击次数飙升至数十万次，随后进一步增至数百万次。目前尚不清楚有多少次入侵尝试最终成功窃取数据或入侵系统。&lt;/p&gt;
+&lt;p&gt;Palo Alto Networks则表示，已识别逾2260万个包含该漏洞的&amp;quot;暴露实例&amp;quot;，规模&amp;quot;极为庞大&amp;quot;。&lt;/p&gt;
+&lt;p&gt;周四，&lt;a href="https://wallstreetcn.com/articles/3784211?keyword=%E9%98%B2%E8%8C%83PHP%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E"&gt;工业和信息化部网络安全威胁和漏洞信息共享平台发布紧急提示&lt;/a&gt;，PHP存在两个远程代码执行超危漏洞，攻击者无需任何身份验证即可直接入侵目标系统，建议相关单位和用户立即排查并升级至最新安全版本。&lt;/p&gt;
+
+漏洞公开前已遭定向攻击
+
+&lt;p&gt;据亚马逊研究人员披露，黑客在漏洞公开之前便已尝试加以利用。亚马逊威胁情报部门在其周三发布的报告中指出，一名身份不明的&amp;quot;威胁行为者&amp;quot;在漏洞细节公开前已以某种方式获取了相关信息，并对亚马逊用于追踪网络犯罪活动的传感器网络发起攻击，此后该公司还检测到多次其他利用尝试。&lt;/p&gt;
+&lt;p&gt;NCC Group网络情报与响应副总裁Matt Hull表示，漏洞被知晓与补丁完成部署之间的窗口期至关重要，需要受影响机构迅速行动。&amp;quot;存在一种切实可能性，即脆弱系统已遭入侵，包括被植入后门，&amp;quot;他说，&amp;quot;潜在影响不容小觑。&amp;quot;&lt;/p&gt;
+&lt;p&gt;目前，美国国家网络总监办公室正协调联邦调查局、网络安全和基础设施安全局、国家安全局等机构共同应对此次事件。&lt;/p&gt;
+
+影响范围覆盖全球70%互联网
+
+&lt;p&gt;PHP是互联网最广泛部署的技术之一，支撑着数百万个网站的运行，并驱动着全球高达70%的互联网基础设施。&lt;/p&gt;
+&lt;p&gt;WordPress、Drupal、Joomla和Magento等主流内容管理系统均以PHP为底层支撑。网络安全公司Huntress指出，PHP还广泛&amp;quot;隐身&amp;quot;于各类软件内部，即便相关软件并未对外声明使用了PHP。&lt;/p&gt;
+&lt;p&gt;任何此类基础性漏洞一旦被利用，均可能在互联网软件供应链中产生连锁效应，令在线服务面临数据窃取、恶意软件植入及系统泄露等风险。&lt;/p&gt;
+&lt;p&gt;将网站暂时下线，是在补丁部署期间阻断攻击者利用漏洞的常规防御手段。PHP开发团队已于周三发布软件更新，并敦促用户立即采用。&lt;/p&gt;
+
+AI工具助力漏洞发现与修复
+
+&lt;p&gt;此次漏洞由Alphabet旗下网络安全公司Wiz借助多款人工智能工具发现。&lt;/p&gt;
+&lt;p&gt;Wiz在报告中表示，其与OpenAI及网络安全公司Calif合作完成了这项研究工作，并估计该漏洞在未被察觉的情况下已存在逾十年。&lt;/p&gt;
+&lt;p&gt;&amp;quot;借助前沿AI模型和合适的工具，一名研究员在一周内完成了此前世界级团队数月才能完成的工作，&amp;quot;Wiz在报告中写道。&lt;/p&gt;
+&lt;p&gt;该公司表示，AI工具不仅帮助快速识别了漏洞，也加速了修复方案的形成，在此次应急响应中发挥了关键作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 红果砍掉金币了，免费短剧开始重新算账</title><link>https://wallstreetcn.com/articles/3784207</link><guid>4a74d014c69a70dd9a72391549747965dc2bb92c5bfb1c1cb2639e3c7a95eeb4</guid><pubDate>Thu, 22 Oct 2026 08:11:45 GMT</pubDate><description>&lt;p&gt;靠“免费+看剧赚钱”吸引用户的红果，准备停止给观众发金币。&lt;/p&gt;
 &lt;p&gt;10月21日，红果短剧公告称，预计自11月1日起，新激活用户将不再获得金币功能及相关入口；12月31日前，面向所有用户下线该功能，停止发放金币。已经获得的金币和现金余额权益不受影响，兑换及提现截止时间将另行通知。&lt;/p&gt;
 &lt;p&gt;调整发生在用户规模持续扩大的时候。&lt;/p&gt;
 &lt;p&gt;第三方数据机构QuestMobile数据显示，2026年9月，红果免费短剧App日均活跃用户达到约2.03亿，首次突破两亿，超过同期爱奇艺、优酷、腾讯视频和芒果TV四款应用日均活跃用户数之和。&lt;/p&gt;
@@ -247,31 +247,7 @@ AI工具助力漏洞发现与修复
 市场分歧折射AI基建板块的结构性挑战
 
 &lt;p&gt;Elice一周内的股价过山车，折射出投资者对AI基建赛道持续性的深度分歧。散户的积极情绪与机构的审慎判断形成鲜明对比，而特斯拉和Meta等科技巨头释放的混杂财报信号，也在一定程度上加剧了市场的观望氛围。&lt;/p&gt;
-&lt;p&gt;在资金面日趋挑剔的背景下，新云服务商能否在高资本投入与盈利能力之间找到平衡，将是决定这一板块能否获得持续资金青睐的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 字节撑起近七成生意，数据中心DayOne 赴美上市遇冷？</title><link>https://wallstreetcn.com/articles/3784236</link><guid>d6fbd1754fcccdce2fe22cd59abe35bf71453e2da34fd1a6c9bd6d172e6b2ed1</guid><pubDate>Thu, 22 Oct 2026 13:48:41 GMT</pubDate><description>&lt;p&gt;全球数据中心企业的IPO之路，开始出现波折。&lt;/p&gt;
-&lt;p&gt;10月21日，市场消息称总部位于新加坡的数据中心运营商DayOne Data Centers（下称“DayOne”）正考虑调整赴美IPO计划，或将募资规模从最高50亿美元缩减至25亿至30亿美元，也不排除推迟上市的可能。&lt;/p&gt;
-&lt;p&gt;就在10月5日，DayOne才刚刚向美国SEC公开提交F-1招股书，计划登陆纳斯达克。此前，公司一度寻求约200亿美元的上市估值。&lt;/p&gt;
-&lt;p&gt;DayOne近年来依靠大型科技客户的需求快速扩张，吸引了Coatue、高瓴等知名投资机构入股。&lt;/p&gt;
-&lt;p&gt;DayOne主要为大型互联网和云计算企业开发、建设及运营超大规模数据中心，提供机房空间、电力供应和制冷等基础设施。&lt;/p&gt;
-&lt;p&gt;具体来说，DayOne通常根据客户需求获取土地和电力资源，建设数据中心，再通过长期服务合同收取费用，其大部分客户合同期限为10至15年。&lt;/p&gt;
-&lt;p&gt;随着大型科技企业加快海外业务部署，DayOne的业务规模迅速扩大。&lt;/p&gt;
-&lt;p&gt;2025年，DayOne收入达到4.84亿美元，同比增长171.9%。进入2026年，收入增长进一步提速，上半年创收5.12亿美元，同比增长238%，仅半年收入便超过2025年全年。&lt;/p&gt;
-&lt;p&gt;这主要得益于马来西亚柔佛、印度尼西亚巴淡岛及泰国等地的数据中心陆续交付。截至今年6月底，DayOne进入计费阶段的数据中心容量达到666MW，较去年同期的213MW增长超过两倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;大客户是这轮扩张的重要推动力。招股书披露，DayOne第一大客户是一家拥有全球领先短视频平台的科技公司，2025年及2026年上半年分别贡献69.4%、69.2%的收入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 据《The Information》报道，这家客户正是字节跳动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，在营收高速增长的同时，DayOne的盈利表现仍然承压。&lt;/p&gt;
-&lt;p&gt;招股书显示，2025年及2026年上半年，DayOne普通股股东应占净亏损分别达到3.69亿美元、0.82亿美元。&lt;/p&gt;
-&lt;p&gt;其中，2025年亏损扩大的一个重要原因是股份支付。公司全年确认股份支付费用3.42亿美元，其中3.39亿美元计入销售、一般及行政费用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相比账面亏损，DayOne持续扩张带来的资金压力，以及巨额投入能否在未来转化为稳定的现金流，或许才是资本市场关注的焦点。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2026年上半年，DayOne用于购买固定资产、土地使用权及支付建设相关预付款等资金达到31.1亿美元，约为同期营收的6倍，而经营活动净现金流仅为1401万美元。&lt;/p&gt;
-&lt;p&gt;截至今年6月底，DayOne总资产达到128.36亿美元，总负债64.97亿美元，资产负债率为50.62%。其中，有息借款达到44.26亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不仅如此，在这些负债之外，DayOne的资产负债表中还有一项规模庞大的夹层权益，达到63.64亿美元，主要来自此前A轮、B轮及C轮融资发行的可转换优先股。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这类优先股附带特殊的退出及清算优先权。根据招股书，如果截至2030年底仍未完成IPO，符合约定的多数股东可以要求公司启动正式的退出安排。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;虽然这不意味着股东可以直接要求DayOne偿还全部优先股投资，但如果上市长期无法完成，公司仍可能面临投资者退出安排带来的压力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次IPO原本有望为DayOne的下一轮扩张提供资金支持，如今潜在募资规模的缩水也让其后续融资安排面临新的考验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;事实上，DayOne并非孤例。10月9日，获得英伟达支持的澳大利亚数据中心企业Firmus搁置原计划募资约50亿美元的IPO。此前，其寻求的股权估值达到306亿美元，但有限的项目运营记录、较高的债务水平及庞大的未来建设计划引发投资者担忧。&lt;/p&gt;
-&lt;p&gt;随后，黑石旗下数据中心运营商AirTrunk也推迟了原计划在新加坡进行的REIT上市，该项目原本计划募集约15亿美元。&lt;/p&gt;
-&lt;p&gt;从Firmus到AirTrunk，再到DayOne，数据中心企业接连调整上市计划，显示出资本市场对高估值、重资产扩张及未来投资回报的审视正在趋于谨慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Thu, 22 Oct 2026 16:00:13 GMT</pubDate><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;在资金面日趋挑剔的背景下，新云服务商能否在高资本投入与盈利能力之间找到平衡，将是决定这一板块能否获得持续资金青睐的关键变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Thu, 22 Oct 2026 16:00:13 GMT</pubDate><description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌</title><link>https://wallstreetcn.com/articles/3784171</link><guid>ce86d7afaa96ca0f77d74a11535b0c30962db84d6f0084ce51cc67b64061705e</guid><pubDate>Thu, 22 Oct 2026 08:14:25 GMT</pubDate><description>&lt;p&gt;10月22日，A股三大指数集体下挫、全天弱势调整，创业板指低开低走，午后跌幅扩大，最终跌4.37%失守2600点，较今年6月的历史高点跌幅超40%。沪指、创业板指盘中均刷新2025年8月以来低点临近收盘，以沪深300ETF为代表的多只宽基ETF成交额激增。从全天成交额来看，4只宽基ETF成交额超过百亿元。&lt;/p&gt;
@@ -340,7 +316,31 @@ AI工具助力漏洞发现与修复
 &lt;p&gt;此外，韩国央行行长申铉松表示，相对于芯片制造商股价，最好更关注芯片价格。他预计，芯片价格没有下跌迹象，可能进一步上涨。&lt;/p&gt;
 &lt;p&gt;早盘一度大跌超4%的长鑫科技现“U”型反转，午后逐步拉升，一度持平，股价重新站上40元，收跌3.1%，，最新总市值为2.7万亿元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;长鑫科技近一个月来股价显著回调，今日盘中最低价一度触及39.1元/股，已较最高点跌去超30%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 防范PHP高危漏洞，工信部等紧急发布提示！</title><link>https://wallstreetcn.com/articles/3784211</link><guid>68192cf12c236d39336e9168063b87e5bf9264ab6c1433c8b8b60843e637b1d6</guid><pubDate>Thu, 22 Oct 2026 08:51:36 GMT</pubDate><description>&lt;p&gt;工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）发布紧急提示，PHP存在两个远程代码执行超危漏洞，攻击者无需任何身份验证即可直接入侵目标系统，建议相关单位和用户立即排查并升级至最新安全版本。&lt;/p&gt;
+&lt;p&gt;长鑫科技近一个月来股价显著回调，今日盘中最低价一度触及39.1元/股，已较最高点跌去超30%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 字节撑起近七成生意，数据中心DayOne 赴美上市遇冷？</title><link>https://wallstreetcn.com/articles/3784236</link><guid>d6fbd1754fcccdce2fe22cd59abe35bf71453e2da34fd1a6c9bd6d172e6b2ed1</guid><pubDate>Thu, 22 Oct 2026 13:48:41 GMT</pubDate><description>&lt;p&gt;全球数据中心企业的IPO之路，开始出现波折。&lt;/p&gt;
+&lt;p&gt;10月21日，市场消息称总部位于新加坡的数据中心运营商DayOne Data Centers（下称“DayOne”）正考虑调整赴美IPO计划，或将募资规模从最高50亿美元缩减至25亿至30亿美元，也不排除推迟上市的可能。&lt;/p&gt;
+&lt;p&gt;就在10月5日，DayOne才刚刚向美国SEC公开提交F-1招股书，计划登陆纳斯达克。此前，公司一度寻求约200亿美元的上市估值。&lt;/p&gt;
+&lt;p&gt;DayOne近年来依靠大型科技客户的需求快速扩张，吸引了Coatue、高瓴等知名投资机构入股。&lt;/p&gt;
+&lt;p&gt;DayOne主要为大型互联网和云计算企业开发、建设及运营超大规模数据中心，提供机房空间、电力供应和制冷等基础设施。&lt;/p&gt;
+&lt;p&gt;具体来说，DayOne通常根据客户需求获取土地和电力资源，建设数据中心，再通过长期服务合同收取费用，其大部分客户合同期限为10至15年。&lt;/p&gt;
+&lt;p&gt;随着大型科技企业加快海外业务部署，DayOne的业务规模迅速扩大。&lt;/p&gt;
+&lt;p&gt;2025年，DayOne收入达到4.84亿美元，同比增长171.9%。进入2026年，收入增长进一步提速，上半年创收5.12亿美元，同比增长238%，仅半年收入便超过2025年全年。&lt;/p&gt;
+&lt;p&gt;这主要得益于马来西亚柔佛、印度尼西亚巴淡岛及泰国等地的数据中心陆续交付。截至今年6月底，DayOne进入计费阶段的数据中心容量达到666MW，较去年同期的213MW增长超过两倍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大客户是这轮扩张的重要推动力。招股书披露，DayOne第一大客户是一家拥有全球领先短视频平台的科技公司，2025年及2026年上半年分别贡献69.4%、69.2%的收入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 据《The Information》报道，这家客户正是字节跳动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，在营收高速增长的同时，DayOne的盈利表现仍然承压。&lt;/p&gt;
+&lt;p&gt;招股书显示，2025年及2026年上半年，DayOne普通股股东应占净亏损分别达到3.69亿美元、0.82亿美元。&lt;/p&gt;
+&lt;p&gt;其中，2025年亏损扩大的一个重要原因是股份支付。公司全年确认股份支付费用3.42亿美元，其中3.39亿美元计入销售、一般及行政费用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相比账面亏损，DayOne持续扩张带来的资金压力，以及巨额投入能否在未来转化为稳定的现金流，或许才是资本市场关注的焦点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026年上半年，DayOne用于购买固定资产、土地使用权及支付建设相关预付款等资金达到31.1亿美元，约为同期营收的6倍，而经营活动净现金流仅为1401万美元。&lt;/p&gt;
+&lt;p&gt;截至今年6月底，DayOne总资产达到128.36亿美元，总负债64.97亿美元，资产负债率为50.62%。其中，有息借款达到44.26亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不仅如此，在这些负债之外，DayOne的资产负债表中还有一项规模庞大的夹层权益，达到63.64亿美元，主要来自此前A轮、B轮及C轮融资发行的可转换优先股。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这类优先股附带特殊的退出及清算优先权。根据招股书，如果截至2030年底仍未完成IPO，符合约定的多数股东可以要求公司启动正式的退出安排。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;虽然这不意味着股东可以直接要求DayOne偿还全部优先股投资，但如果上市长期无法完成，公司仍可能面临投资者退出安排带来的压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次IPO原本有望为DayOne的下一轮扩张提供资金支持，如今潜在募资规模的缩水也让其后续融资安排面临新的考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;事实上，DayOne并非孤例。10月9日，获得英伟达支持的澳大利亚数据中心企业Firmus搁置原计划募资约50亿美元的IPO。此前，其寻求的股权估值达到306亿美元，但有限的项目运营记录、较高的债务水平及庞大的未来建设计划引发投资者担忧。&lt;/p&gt;
+&lt;p&gt;随后，黑石旗下数据中心运营商AirTrunk也推迟了原计划在新加坡进行的REIT上市，该项目原本计划募集约15亿美元。&lt;/p&gt;
+&lt;p&gt;从Firmus到AirTrunk，再到DayOne，数据中心企业接连调整上市计划，显示出资本市场对高估值、重资产扩张及未来投资回报的审视正在趋于谨慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 防范PHP高危漏洞，工信部等紧急发布提示！</title><link>https://wallstreetcn.com/articles/3784211</link><guid>68192cf12c236d39336e9168063b87e5bf9264ab6c1433c8b8b60843e637b1d6</guid><pubDate>Thu, 22 Oct 2026 08:51:36 GMT</pubDate><description>&lt;p&gt;工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）发布紧急提示，PHP存在两个远程代码执行超危漏洞，攻击者无需任何身份验证即可直接入侵目标系统，建议相关单位和用户立即排查并升级至最新安全版本。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次漏洞波及范围极广，全球约七成网站底层依赖PHP运行，从政府服务到金融机构均面临直接安全威胁。网络安全公司Cloudflare披露，漏洞曝光后已检测到数百万次利用尝试；亚马逊则表示，黑客早在漏洞公开四天前便已着手尝试利用该缺陷。&lt;/p&gt;
 &lt;p&gt;在应对层面，芬兰、法国、荷兰等国率先将部分政府服务主动下线；日本多家航空、金融、消费品及游戏企业相继宣布服务中断；阿里云、腾讯云亦于事件曝光后发出紧急警告，要求客户尽快完成版本升级。&lt;/p&gt;
