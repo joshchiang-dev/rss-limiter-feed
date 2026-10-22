@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 22 Oct 2026 15:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%</title><link>https://wallstreetcn.com/articles/3784189</link><guid>13115696a3fec3105ef18ed0998385ff42fbbfad59b9410fe3c61f391abdade4</guid><pubDate>Thu, 22 Oct 2026 15:14:58 GMT</pubDate><description>&lt;p&gt;科技股财报喜忧参半，叠加中东局势升温，全球市场风险情绪降温。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 22 Oct 2026 15:59:20 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%</title><link>https://wallstreetcn.com/articles/3784189</link><guid>13115696a3fec3105ef18ed0998385ff42fbbfad59b9410fe3c61f391abdade4</guid><pubDate>Thu, 22 Oct 2026 15:14:58 GMT</pubDate><description>&lt;p&gt;科技股财报喜忧参半，叠加中东局势升温，全球市场风险情绪降温。&lt;/p&gt;
 &lt;p&gt;周四，美股盘初，道指跌0.5%，标普500指数跌0.9%，纳指跌1.5%。&lt;/p&gt;
 &lt;p&gt;美股半导体板块持续走低，费城半导体指数下跌5.67％，创7月29日以来新低。个股中，AMD跌7.21％，英特尔跌6.57％，应用材料跌6.57％，Arm跌6.75％，希捷科技跌7.81％。CoreWeave大跌8%，Lumentum跌9.24%，Coherent跌11.81%，三倍做多半导体ETF跌17.09%。&lt;/p&gt;
 &lt;p&gt;特斯拉跌约3%，公司三季度营收不及预期，并下调资本开支目标。Meta跌超6%，公司未来支出承诺飙至8250亿美元。&lt;/p&gt;
@@ -71,7 +71,32 @@
 锚定2030年累计涨薪15%，为长期增长提供指引
 &lt;p&gt;连合同步提出中期薪资目标，计划到2030年实现累计薪资增长15%。&lt;/p&gt;
 &lt;p&gt;这一目标以未来四年每年薪资增长3%为基础，并预计政府的产业投资政策可额外带来3%的增幅。&lt;strong&gt;通过将薪资谈判从年度安排延伸至中期规划，连合希望进一步巩固企业持续加薪的预期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，名义工资上涨并不必然意味着居民购买力同步改善。只有当工资增幅持续超过物价涨幅，实际收入才能得到实质性提升，并进一步支撑消费增长。对日本央行而言，这一过程能否持续，将影响工资与物价的循环能否稳固，也关系到后续货币政策正常化的空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 知名基金经理郑巍山“卸任”全部产品，投研高才流动“常态化”</title><link>https://wallstreetcn.com/articles/3784183</link><guid>aa38a8edbbd011c43f0c027cc26efb2022cc8a4db4a34c971ec55ab8ffaed909</guid><pubDate>Thu, 22 Oct 2026 04:20:28 GMT</pubDate><description>&lt;p&gt;公募圈又一位百亿级知名基金经理迎来职业生涯的新阶段。&lt;/p&gt;
+&lt;p&gt;不过，名义工资上涨并不必然意味着居民购买力同步改善。只有当工资增幅持续超过物价涨幅，实际收入才能得到实质性提升，并进一步支撑消费增长。对日本央行而言，这一过程能否持续，将影响工资与物价的循环能否稳固，也关系到后续货币政策正常化的空间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] PHP漏洞危机进入第二天：黑客攻击激增至百万次，多国政府服务仍处于中断状态</title><link>https://wallstreetcn.com/articles/3784237</link><guid>f475137cbc3613f16146caa8f931051315bb3bf5ec0be1ed4ede2bdcf4958e56</guid><pubDate>Thu, 22 Oct 2026 15:33:40 GMT</pubDate><description>&lt;p&gt;全球针对PHP关键漏洞的应急修复行动进入第二天，形势持续紧张。研究人员警告，在漏洞公开披露前后，黑客的攻击尝试已从数千次骤升至数百万次，部分系统被入侵的可能性不可排除。&lt;/p&gt;
+&lt;p&gt;周四，英国确认，超过30项政府服务仍处于下线状态，以待安全更新完成部署。电信运营商Orange也于周四宣布暂停部分网站和应用的访问。&lt;/p&gt;
+&lt;p&gt;此前一天，奥地利、荷兰、芬兰、法国等数十个国家和地区已陆续采取类似措施，日本多家银行和航空公司亦中断了部分在线服务。&lt;/p&gt;
+&lt;p&gt;网络安全公司Cloudflare首席执行官Matthew Prince透露，在漏洞公开披露前10小时，其系统已识别出数千次针对该漏洞的利用尝试；公告发布后两小时内，攻击次数飙升至数十万次，随后进一步增至数百万次。目前尚不清楚有多少次入侵尝试最终成功窃取数据或入侵系统。&lt;/p&gt;
+&lt;p&gt;Palo Alto Networks则表示，已识别逾2260万个包含该漏洞的&amp;quot;暴露实例&amp;quot;，规模&amp;quot;极为庞大&amp;quot;。&lt;/p&gt;
+&lt;p&gt;周四，&lt;a href="https://wallstreetcn.com/articles/3784211?keyword=%E9%98%B2%E8%8C%83PHP%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E"&gt;工业和信息化部网络安全威胁和漏洞信息共享平台发布紧急提示&lt;/a&gt;，PHP存在两个远程代码执行超危漏洞，攻击者无需任何身份验证即可直接入侵目标系统，建议相关单位和用户立即排查并升级至最新安全版本。&lt;/p&gt;
+
+漏洞公开前已遭定向攻击
+
+&lt;p&gt;据亚马逊研究人员披露，黑客在漏洞公开之前便已尝试加以利用。亚马逊威胁情报部门在其周三发布的报告中指出，一名身份不明的&amp;quot;威胁行为者&amp;quot;在漏洞细节公开前已以某种方式获取了相关信息，并对亚马逊用于追踪网络犯罪活动的传感器网络发起攻击，此后该公司还检测到多次其他利用尝试。&lt;/p&gt;
+&lt;p&gt;NCC Group网络情报与响应副总裁Matt Hull表示，漏洞被知晓与补丁完成部署之间的窗口期至关重要，需要受影响机构迅速行动。&amp;quot;存在一种切实可能性，即脆弱系统已遭入侵，包括被植入后门，&amp;quot;他说，&amp;quot;潜在影响不容小觑。&amp;quot;&lt;/p&gt;
+&lt;p&gt;目前，美国国家网络总监办公室正协调联邦调查局、网络安全和基础设施安全局、国家安全局等机构共同应对此次事件。&lt;/p&gt;
+
+影响范围覆盖全球70%互联网
+
+&lt;p&gt;PHP是互联网最广泛部署的技术之一，支撑着数百万个网站的运行，并驱动着全球高达70%的互联网基础设施。&lt;/p&gt;
+&lt;p&gt;WordPress、Drupal、Joomla和Magento等主流内容管理系统均以PHP为底层支撑。网络安全公司Huntress指出，PHP还广泛&amp;quot;隐身&amp;quot;于各类软件内部，即便相关软件并未对外声明使用了PHP。&lt;/p&gt;
+&lt;p&gt;任何此类基础性漏洞一旦被利用，均可能在互联网软件供应链中产生连锁效应，令在线服务面临数据窃取、恶意软件植入及系统泄露等风险。&lt;/p&gt;
+&lt;p&gt;将网站暂时下线，是在补丁部署期间阻断攻击者利用漏洞的常规防御手段。PHP开发团队已于周三发布软件更新，并敦促用户立即采用。&lt;/p&gt;
+
+AI工具助力漏洞发现与修复
+
+&lt;p&gt;此次漏洞由Alphabet旗下网络安全公司Wiz借助多款人工智能工具发现。&lt;/p&gt;
+&lt;p&gt;Wiz在报告中表示，其与OpenAI及网络安全公司Calif合作完成了这项研究工作，并估计该漏洞在未被察觉的情况下已存在逾十年。&lt;/p&gt;
+&lt;p&gt;&amp;quot;借助前沿AI模型和合适的工具，一名研究员在一周内完成了此前世界级团队数月才能完成的工作，&amp;quot;Wiz在报告中写道。&lt;/p&gt;
+&lt;p&gt;该公司表示，AI工具不仅帮助快速识别了漏洞，也加速了修复方案的形成，在此次应急响应中发挥了关键作用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 知名基金经理郑巍山“卸任”全部产品，投研高才流动“常态化”</title><link>https://wallstreetcn.com/articles/3784183</link><guid>aa38a8edbbd011c43f0c027cc26efb2022cc8a4db4a34c971ec55ab8ffaed909</guid><pubDate>Thu, 22 Oct 2026 04:20:28 GMT</pubDate><description>&lt;p&gt;公募圈又一位百亿级知名基金经理迎来职业生涯的新阶段。&lt;/p&gt;
 &lt;p&gt;10月22日，银河基金发布公告，宣布郑巍山因“个人原因”卸任银河创新成长、银河和美生活、银河智联主题的基金经理职务。银河基金对其任职期间的贡献表示诚挚感谢。&lt;/p&gt;
 &lt;p&gt;郑巍山是市场在过去八年里涌现出的知名基金经理，专长于科技和成长领域投资，此次卸任意味着，他将告别原有平台，展开新的一页。&lt;/p&gt;
 &lt;strong&gt;代表作任职回报超284%&lt;/strong&gt;
@@ -387,34 +412,4 @@
 &lt;p&gt;尽管此次漏洞引发广泛关注，部分专业人士提示，不同类型机构面临的实际风险存在显著差异。&lt;/p&gt;
 &lt;p&gt;莫纳什大学学者Rashina Hoda表示，大型银行和企业通常不依赖PHP处理敏感交易，因此受到的直接冲击相对有限。然而，大量高度依赖WordPress等建站平台的中小型企业，其网站底层正是PHP，这类企业将面临更为迫切的修复压力。&lt;/p&gt;
 &lt;p&gt;Hoda同时警告，此次漏洞曝光可能引发网络诈骗和网络钓鱼攻击的激增。攻击者往往借助重大安全事件制造恐慌，诱导用户点击虚假&amp;quot;补丁链接&amp;quot;或提交账户信息。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易裂缝扩大：1%客户撑起Anthropic和OpenAI 80%企业端收入，Token用量仍在涨，实际支出却停滞不前</title><link>https://wallstreetcn.com/articles/3784190</link><guid>eb9ded493153990ed5fa36ce998c008f9b25de9e5dbf2b8b655a909eb2e38448</guid><pubDate>Thu, 22 Oct 2026 07:04:44 GMT</pubDate><description>&lt;p&gt;AI大模型的商业化叙事正面临数据层面的挑战。&lt;strong&gt;企业卡巨头Ramp追踪逾7万家美国企业的支付数据后发现，Anthropic和OpenAI的企业端收入，有80%来自仅占客户总量1%的头部客户，且这一高度集中的需求正在触顶——Token使用量继续攀升，但实际美元支出增长已近乎停滞，付费用户渗透率也趋于平缓。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ramp首席经济学家Ara Kharazian在其10月AI指数报告中指出，8月和9月连续两个月Token支出&amp;quot;几乎零增长&amp;quot;，10月初虽勉强创出历史新高，却仅比8月峰值高出1.5%。&lt;strong&gt;支出停滞的核心驱动力是价格通缩：前沿模型价格持续下行，叠加模型效率提升，每百万Token的混合均价不断走低，量价背离格局日益明显。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一信号已引发主流机构警觉。高盛警告，Token需求增速必须跑赢价格降幅，才能支撑持续的算力投资；Apollo首席经济学家Torsten Slok援引Ramp数据指出，算力需求曲线&amp;quot;平坦且对价格高度敏感&amp;quot;，企业买家在价格微动时便会压缩用量或转向廉价开源替代品。与此同时，Citadel创始人Ken Griffin公开表示，市场&amp;quot;几乎可以肯定&amp;quot;正处于AI泡沫之中。&lt;/p&gt;
-
-需求高度集中，鲸鱼客户撑起营收
-
-&lt;p&gt;AI企业支出的集中程度在所有软件品类中首屈一指。Ramp数据显示，风险投资支持的初创公司人均AI月支出达76美元，是私募股权背景企业的逾10倍。&lt;/p&gt;
-&lt;p&gt;头部集中态势在Anthropic尤为突出。&lt;strong&gt;据YipitData，Anthropic前1%客户在8月贡献了46%的营收，较一年前的25%几近翻倍。&lt;/strong&gt;Anthropic的招股说明书则显示，仅两名未披露身份的客户便贡献了其2025年营收的近四分之一。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;资本流向揭示了这一生态的内部循环：Cursor母公司Anysphere去年11月完成23亿美元融资，估值293亿美元，由Accel、Coatue联合领投，Thrive Capital、Andreessen Horowitz、英伟达及谷歌参与其中；三个月后，Coatue与新加坡GIC联合领投Anthropic 300亿美元G轮融资，英伟达再度跟投。&lt;/p&gt;
-&lt;p&gt;Coatue的资金流入Cursor，Cursor将其转化为Claude Token消耗，Token消耗计入Anthropic营收，而Anthropic营收又支撑着Coatue所持Anthropic股权的估值溢价。&lt;/p&gt;
-
-价格战加剧，Anthropic实际Token价格腰斩
-
-&lt;p&gt;模型价格正在快速崩塌。Ornn Anthropic Token价格指数——衡量客户实际支付的每Token成本——已从9月中旬的逾1.70美元跌至0.83美元，创该基准6月推出以来的历史新低。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;即便如此，Anthropic仍贵于OpenAI。OpenAI对应指数目前为0.45美元。OpenAI的实际定价在7月底大幅崩落——彼时其将GPT-5.6 Luna和Terra模型价格最高下调80%，时间节点距中国大模型公司Moonshot发布Kimi K3开源权重仅三天，后者被认为是当月引发芯片股进入熊市的导火索。OpenAI此后已倾向将IPO推迟至2027年。&lt;/p&gt;
-
-&amp;quot;杰文斯悖论&amp;quot;未能兑现
-
-&lt;p&gt;&lt;strong&gt;价格下跌刺激需求爆发、最终推动总收入上升——这是AI多头惯常援引的&amp;quot;杰文斯悖论&amp;quot;逻辑。然而现有数据并不支持这一判断。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛在9月25日的报告中指出，基于Anera和OpenRouter数据，自去年12月以来Token总需求已增长约18倍，但对高毛利率前沿模型的需求增速仅为整体的一半。价格下行带来的利润压缩已传导至数据中心投资层。高盛测算，亚马逊、Alphabet、Meta、微软和甲骨文五家企业的已实现投资资本回报率（ROIC）已从40%降至25%，为其数据集自2016年以来的最低水平。&lt;/p&gt;
-&lt;p&gt;Torsten Slok对此直言不讳：&amp;quot;硅谷的前提假设是算力需求无限，但近期Token支出增速的放缓表明，这种需求或许只在算力近乎免费时才存在。&amp;quot;&lt;/p&gt;
-&lt;p&gt;他警告，&lt;strong&gt;决定数据中心建设模式能否成立的核心变量，既非物理容量，也非电力供给，而是&amp;quot;用户实际愿意为算力支付的价格&amp;quot;——而这一价格的支撑，有赖于企业能否将Token消耗转化为营收增长、利润改善或实质性成本节约，&lt;/strong&gt;&amp;quot;目前这些效益尚未在规模层面显现。未来或许会有，也或许不会。&amp;quot;&lt;/p&gt;
-
-付费渗透趋于饱和，增长需靠深度而非广度
-
-&lt;p&gt;除头部支出放缓外，付费用户基础的扩张同样陷入瓶颈。Ramp数据显示，9月企业网络中的AI付费采用率仅上升0.62个百分点，至55.9%。&lt;/p&gt;
-&lt;p&gt;Kharazian在报告中写道：&amp;quot;感觉我们已经处于S曲线的顶端，市场增长将不得不依赖更深度的使用，而非更多的付费用户。&amp;quot;&lt;/p&gt;
-&lt;p&gt;这与Ramp产品总监Adam Sommer在今年6月的表态形成鲜明对比——后者曾在纽约一场论坛上表示，&amp;quot;我们在Ramp平台上最大的AI支出企业，在过去几个月中每月支出翻倍&amp;quot;。三个月后，前1%的头部企业人均支出已低于7月峰值水平。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
