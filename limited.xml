@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 22 Oct 2026 02:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄</title><link>https://wallstreetcn.com/articles/3784155</link><guid>31c9b09c097789e93c3ee504e5c3456db30863eaf6a00c371510f22a8e8b5ee1</guid><pubDate>Thu, 22 Oct 2026 00:12:41 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 22 Oct 2026 03:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄</title><link>https://wallstreetcn.com/articles/3784155</link><guid>31c9b09c097789e93c3ee504e5c3456db30863eaf6a00c371510f22a8e8b5ee1</guid><pubDate>Thu, 22 Oct 2026 00:12:41 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;特斯拉将年度资本开支目标从逾250亿美元下调至200亿美元，同时马斯克为投资者描绘了一幅跨越多个业务线的长期增长图景，涵盖汽车产能、储能业务及人形机器人进展。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784153"&gt;华尔街见闻提及&lt;/a&gt;，美东时间21日周三，特斯拉公布，截至9月的2026年第三季度，营收280.5亿美元、&lt;strong&gt;同比基本零增长&lt;/strong&gt;，略低于分析师预期的281.3亿美元；但调整后每股收益（EPS）0.48美元，较分析师预期高约9%。&lt;/p&gt;
 &lt;p&gt;特斯拉将年度资本开支目标由此前的超过250亿美元下调至200亿美元，降幅约20%。公司同时坦承，电池供应有限正在拖累现有生产，并表示正在推进扩大供应规模的相关工作，以提升整体电池生产能力。&lt;/p&gt;
@@ -634,7 +634,48 @@ Muse超预期的电商转化与“被迫提前”的商业化路线
 
 &lt;p&gt;今年早些时候，市场对AI工具可能取代传统企业应用软件的担忧引发软件股大规模抛售，此轮被市场称为&amp;quot;SaaS末日&amp;quot;（SaaSpocalypse）的调整令SAP股价承压，SAP股价从7月23日的低点累计反弹逾60%。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;回购层面，SAP于2026年1月宣布规模最高达100亿欧元、有效期至2027年12月31日的股份回购计划。&lt;/strong&gt;截至2026年9月30日，公司已在该计划下以平均164.79欧元的价格累计回购25,205,983股，累计耗资约42亿欧元。&lt;/p&gt;
-&lt;p&gt;三季度SAP经营现金流为19.20亿欧元，同比增长28%；自由现金流为17.18亿欧元，同比增长36%。前三季度经营现金流为85.86亿欧元，同比增长9%；自由现金流为79.68亿欧元，同比增长11%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宝马加快“瘦身”，研发、行政和管理层都在调整</title><link>https://wallstreetcn.com/articles/3784144</link><guid>228f979e451e6570a0e8b22ad375445d2cddd117d8088b1c985f3c78d0fcce2a</guid><pubDate>Wed, 21 Oct 2026 17:45:20 GMT</pubDate><description>&lt;p&gt;宝马的人员调整正在推进，涉及的岗位包括研发、行政和管理层。&lt;/p&gt;
+&lt;p&gt;三季度SAP经营现金流为19.20亿欧元，同比增长28%；自由现金流为17.18亿欧元，同比增长36%。前三季度经营现金流为85.86亿欧元，同比增长9%；自由现金流为79.68亿欧元，同比增长11%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 正面回应长鑫4F2突破，美光CTO：3D DRAM“长期更可扩展和成本效益”</title><link>https://wallstreetcn.com/articles/3784170</link><guid>fc0e25146cba311b8a5b930912c80eb37331f8002d871f369088dc4914c6e640</guid><pubDate>Thu, 22 Oct 2026 02:56:37 GMT</pubDate><description>&lt;p&gt;近期，全球存储芯片市场迎来新一轮估值震荡与技术路线论战。资本市场上，费城半导体指数与存储板块出现较大幅度回撤；而在产业端，长鑫存储在4F² DRAM架构上的突破性进展，引发了行业广泛讨论。&lt;/p&gt;
+&lt;p&gt;10月21日，美光总裁兼首席技术与产品官Scott DeBoer主持了一场技术与产品网络研讨会，核心议题之一是回应此前长鑫披露4F²架构计划后在投资者中引发的担忧。&lt;/p&gt;
+&lt;p&gt;Scott DeBoer直言&lt;strong&gt;虽然内部曾对4F²进行长期评估和原型验证，但美光仍将坚持现有的6F²路线，并最终直接迈向3D DRAM。美光认为，从长期演进来看，3D DRAM在“扩展性与成本效益”上是更具确定性的选择。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他进一步解释称，决定DRAM位密度和成本扩展的关键因素是电容器间距。&lt;/strong&gt;&lt;strong&gt;4F²架构的垂直沟道晶体管（VCAT）在间距缩减之外没有可行的扩展路径。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;追风交易台消息，随后瑞银分析师Timothy Arcuri团队研究报告指出，&lt;strong&gt;若美光判断正确、行业最终倒向3D DRAM，沉积与蚀刻设备供应商有望从中受益。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;华尔街见闻此前提及，长鑫存储总裁曹堪宇于10月10日披露，公司计划年底推出基于4F²架构的新一代DDR5 RDIMM，相比主流6F²架构，芯片面积可缩减约30%，单片晶圆可切出更多芯片。&lt;/p&gt;
+
+
+美光的核心论点：4F²不是通往未来的路
+
+&lt;p&gt;长鑫4F²技术之所以引发行业高度关注，核心在于它直击了DRAM芯片最本质的商业痛点——&lt;strong&gt;单晶圆位元密度（Bit Density）与成本&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在传统DRAM设计中，行业主流多采用6F²架构。若能成功过渡到4F²，理论上可在相同制程节点下将单元面积缩小约30%以上，单片晶圆产出的有效Die（芯片颗粒）显著增加。&lt;/p&gt;
+&lt;p&gt;瑞银在跟踪美光技术沟通后指出，美光向市场传递了其对4F²量产瓶颈的判断：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，&lt;/strong&gt;&lt;strong&gt;瓶颈在于电容而非晶体管&lt;/strong&gt;。美光认为，DRAM微缩的终极瓶颈是电容间距，而非单纯的晶体管单元结构。如果电容间距无法同步压缩，单纯改变为4F²结构，并不能线性转化为持续的成本优势。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，VCAT的扩展天花板。&lt;/strong&gt;4F²通常需要引入垂直通道晶体管（VCAT）。美光指出，VCAT除了继续压缩间距外，缺乏可持续的后续演进路径，且对ALD（原子层沉积）和选择性外延等工艺提出了极高的制造复杂度，量产成本可能侵蚀面积缩小的收益。&lt;/p&gt;
+&lt;p&gt;据德意志银行分析师Melissa Weathers在其会后报告中总结，美光不仅明确表示不计划向4F²架构过渡，还强调公司已对4F²方案进行了数十年的内部评估并开发过原型，但最终结论是：&lt;strong&gt;在行业迈向3D DRAM之前，6F²仍是更具吸引力的路径。&lt;/strong&gt;&lt;/p&gt;
+各大厂商展截然不同的技术考量
+&lt;p&gt;&lt;strong&gt;瑞银的分析指出，美光的这一表态实际上是在平行推进两条技术路径，类似于其在1-beta节点上对EUV采用与否所作的两手准备。&lt;/strong&gt;公司认为3D DRAM最终将与其路线图交汇，并视其为&amp;quot;更具可扩展性和成本效益&amp;quot;的长期方案。&lt;/p&gt;
+&lt;p&gt;但美光的逻辑并不能代表整个产业的共识。&lt;/p&gt;
+&lt;p&gt;瑞银同期的研究显示，除了长鑫在此方向全力突破外，行业龙头三星亦被传出计划在未来的0a nm节点考虑引入4F²架构，以缓解电容高深宽比带来的工艺压力。&lt;/p&gt;
+&lt;p&gt;三星计划在2027年完成1d nm节点的6F²量产之后，于2028年底前推进0a nm节点的4F²导入。&lt;/p&gt;
+
+美光的技术叙事
+
+&lt;p&gt;在直接回应4F²质疑之外，美光此次研讨会亦着力强调自身的全面技术布局。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI内存图谱外延&lt;/strong&gt;：美光强调，AI对内存的需求不仅是单一层面的训练HBM，还包括推理、边缘AI、自动驾驶所需的LPDDR6、DDR6、SOCAMM以及1TB大容量RDIMM。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;先进封装与逻辑集成&lt;/strong&gt;：美光将混合键合（Hybrid Bonding）视为未来16-High及更高规格HBM的核心护城河，并积极推进与晶圆代工厂合作开发vHBM（垂直堆叠内存于计算核心之上）。美光试图证明，AI时代的存储竞争已经从“单比特成本控制”迁移到“内存、封装与逻辑架构的系统级协同”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAND价值重塑&lt;/strong&gt;：美光同时展示了超过400层的Gen11 NAND路线图，强调AI时代针对高IOPS与高带宽的高性能存储需求，力图构建DRAM与NAND协同的综合壁垒。&lt;/p&gt;
+
+
+
+长鑫4F²的真实冲击：市场反应或过度解读
+
+
+&lt;p&gt;对于长鑫4F²公告所引发的市场担忧，多家机构此前已作出较为审慎的评估。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;野村证券认为，4F²与3D DRAM在2028年之前的展望期内&amp;quot;都不会产生实质性影响&amp;quot;，长鑫的4F²量产预计要到2027至2028年才能实现。&lt;/strong&gt;中信证券也提示，4F²目前处于早期验证阶段，良率、产量及客户认证均有待观察，对中期存储产业格局的影响有限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;就长鑫自身的产业位置而言，其HBM业务尚处于起步阶段，短期内难以分享这一细分市场在AI算力驱动下的高溢价红利。&lt;/strong&gt;在通用DRAM涨价斜率已明显收窄的背景下，这一结构性特征使其相对缺乏对冲空间。&lt;/p&gt;
+&lt;p&gt;TrendForce的跟踪数据显示，通用DRAM合约价环比涨幅已从2026年一季度的93%至98%，逐季收窄至三季度的13%至18%，四季度预计进一步降至10%至15%。&lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宝马加快“瘦身”，研发、行政和管理层都在调整</title><link>https://wallstreetcn.com/articles/3784144</link><guid>228f979e451e6570a0e8b22ad375445d2cddd117d8088b1c985f3c78d0fcce2a</guid><pubDate>Wed, 21 Oct 2026 17:45:20 GMT</pubDate><description>&lt;p&gt;宝马的人员调整正在推进，涉及的岗位包括研发、行政和管理层。&lt;/p&gt;
 &lt;p&gt;据德国《商报》10月20日报道，宝马德国自愿离职计划开放报名不到两周，已有数千名员工表达离职意愿。公司表示，计划已达到目标，不再接受新申请。这是其全球减员安排的最新进展。此前，宝马提出一项计划，要在2027年底前在全球减少约8000个岗位，其中超过一半预计位于德国。&lt;/p&gt;
 &lt;p&gt;此次德国离职方案主要面向行政、研发等非生产岗位，生产线员工不在适用范围内。申请仍需宝马批准，预计到11月中旬，员工将获知能否签订解除劳动关系的协议，实际离职则会分批进行。&lt;/p&gt;
 &lt;p&gt;这轮调整的背景，是宝马销量与盈利同时面临压力。&lt;/p&gt;
@@ -745,7 +786,25 @@ AI智能体竞争进一步延伸
 &lt;p&gt;据路透社21日报道，三名美国官员透露，美国国务院正准备下令，要求海湾地区部分美国使馆人员及其家属离开驻在国。报道指出，这一安排与地区敌对行动可能再次升级有关，也涉及伊朗支持的也门胡塞武装近期对沙特阿拉伯发动的袭击。&lt;/p&gt;
 &lt;p&gt;卡塔尔媒体半岛电视台同日也援引消息人士称，美国国务院准备要求中东地区部分使馆人员撤离。不过，目前相关报道指向的是部分外交人员及家属的离境安排，不能据此认定美国已决定全面撤出中东外交人员。&lt;/p&gt;
 &lt;p&gt;从以军战机逼近伊朗边境、伊朗南部传出爆炸声，到美国进一步扩大制裁、评估驻外人员安全，周三的多条消息共同反映出地区风险正在累积。&lt;/p&gt;
-&lt;p&gt;眼下，最关键的变量仍是军事行动是否会从威慑和准备阶段转向新一轮大规模打击，以及美国与伊朗之间的间接谈判能否取得进展。在以色列持续释放打击信号、美国强化经济施压而伊朗坚持不放弃防御准备的情况下，任何一方的误判，都可能使局势进一步升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌3%，机器人逆势爆发、宇树拉升5%，AI硬件下跌、光模块再调整，恒科指跌4%，权重科网股集体走低</title><link>https://wallstreetcn.com/articles/3784171</link><guid>ce86d7afaa96ca0f77d74a11535b0c30962db84d6f0084ce51cc67b64061705e</guid><pubDate>Thu, 22 Oct 2026 02:24:14 GMT</pubDate><description>&lt;p&gt;10月22日，A股低开低走，三大股指盘初集体下跌，沪指跌近1%，创业板一度跌3%，AI硬件、AI应用等再度调整，覆铜板、光模块等概念股跌幅居前。海运、文化传媒、保险等板块走低。机器人强势拉升，宇树科技涨5%。稀土永磁、工业母机等概念股活跃。&lt;/p&gt;
+&lt;p&gt;眼下，最关键的变量仍是军事行动是否会从威慑和准备阶段转向新一轮大规模打击，以及美国与伊朗之间的间接谈判能否取得进展。在以色列持续释放打击信号、美国强化经济施压而伊朗坚持不放弃防御准备的情况下，任何一方的误判，都可能使局势进一步升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 刚为CoreWeave站台，又要向Firmus注资——英伟达化身“AI中央银行”</title><link>https://wallstreetcn.com/articles/3784173</link><guid>a235066db79960efd6990d3047f06f114d8c9ff3394e843e0ccf0619e9cba17b</guid><pubDate>Thu, 22 Oct 2026 03:09:48 GMT</pubDate><description>&lt;p&gt;英伟达正以越来越像央行的方式介入AI基础设施融资危机。&lt;/p&gt;
+&lt;p&gt;在口头为旗下重要持股公司CoreWeave背书未能稳住市场后，这家芯片巨头据报正计划向另一家陷入困境的澳大利亚AI云服务商Firmus Grid注入数亿美元资金。&lt;/p&gt;
+&lt;p&gt;据The Information周二报道，&lt;strong&gt;英伟达正与Firmus就数亿美元规模的投资进行谈判。Firmus本月初在估值300亿美元的IPO计划受挫后，正寻求私募融资至少20亿美元，英伟达此前已参与其最近三轮融资，是该公司的重要股东之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次潜在的追加投资，将是英伟达向外界传递信号的最新举措——在AI股票遭遇大规模抛售之际，它愿意以真金白银而非言辞来支撑整个生态系统。目前AI数据中心运营商的融资环境正在急剧恶化，公开市场投资者的信心持续受挫，英伟达的战略注资能否真正扭转颓势，仍是市场关注的核心问题。&lt;/p&gt;
+Firmus IPO折戟，英伟达出手接盘
+&lt;p&gt;Firmus的上市之路以失败告终，成为本轮AI股票抛售的导火索之一。&lt;/p&gt;
+&lt;p&gt;这家成立七年的澳大利亚公司原计划在澳大利亚证券交易所以300亿美元估值上市，拟募资50亿美元，但最终以&amp;quot;市场波动&amp;quot;为由撤回申请。&lt;strong&gt;据报道，投资者普遍认为其估值过高、过于投机，与Firmus目前的营收规模及规划中的数据中心产能严重不符。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Firmus的主要投资者包括Blackstone、Coatue Management和Jane Street。在融资结构上，该公司迄今已累计融资逾130亿美元，其中约100亿美元为债务融资。英伟达此前已在其信用支持项目框架下与Firmus深度绑定——今年6月，英伟达同意为Firmus采购至少17万块Rubin和Blackwell GPU服务器机架提供信用背书，以便其更容易获得债务融资，相关服务器机架估值约150亿美元，将部署于印度尼西亚巴淡岛由新加坡数据中心开发商DayOne建设的设施内。&lt;/p&gt;
+&lt;p&gt;IPO失败后，Firmus正寻求私募融资至少20亿美元。据The Information援引知情人士称，英伟达原本已准备在IPO中投入大量资本，此次私募融资中英伟达的投资规模仍可能发生变化，融资也存在告吹的可能性。&lt;/p&gt;
+英伟达的逻辑：每一美元投资都是在为自己买单
+&lt;p&gt;英伟达持续向新云服务商（neocloud）输血，背后有清晰的商业逻辑。&lt;/p&gt;
+&lt;p&gt;谷歌、微软、亚马逊等超大规模云厂商正加速自研芯片以降低对英伟达的依赖，而neocloud恰恰是英伟达GPU需求的重要支柱。&lt;strong&gt;英伟达向Firmus追加投资的逻辑直截了当：黄仁勋每多投入一美元，就能帮助客户多购买一块芯片。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据The Information分析，英伟达已为neocloud及其他大客户提供了逾1700亿美元的信用担保和资本支持。英伟达截至今年7月的非上市证券持仓——主要为私人公司股权——已达512亿美元，较六个月前翻逾一倍。&lt;/p&gt;
+&lt;p&gt;为维系这一生态，英伟达还在调整支持方式。据知情高管透露，英伟达最初向neocloud提供信用支持时，要求换取其未来云收入的分成，部分规模较大的neocloud对此条款并不接受。&lt;strong&gt;英伟达目前已转向提供期限更短的信用支持协议，换取更小比例的收入分成&lt;/strong&gt;。此外，英伟达内部还专门组建了一支团队，由黄仁勋的女婿Nico Caprez联合领导，协助neocloud寻找具备可用电力的数据中心选址。&lt;/p&gt;
+CoreWeave的警示：言辞难敌市场
+&lt;p&gt;Firmus的困境并非孤例，整个neocloud行业正面临融资成本飙升与投资者信心崩塌的双重压力，而英伟达的口头背书已被证明难以奏效。&lt;/p&gt;
+&lt;p&gt;上周，黄仁勋在斯德哥尔摩的一场活动上公开为CoreWeave辩护，称其&amp;quot;资本成本实际上正在下降&amp;quot;。然而市场并不买账——CoreWeave股价次日暴跌11.9%。CoreWeave的借贷成本走势与黄仁勋的表述截然相反：其以芯片和客户合同为抵押的项目融资利差，&lt;strong&gt;从今年3月的基准利率上浮225个基点，到8月已扩大至550个基点；无担保债券方面，其2032年到期债券收益率目前约为14%，而仅四个月前约为8.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;澳大利亚数据中心运营商Nextdc的遭遇则提供了另一个警示：该公司本周三因公众反对导致项目延期、下调盈利预期，股价单日暴跌41%。就在上月，Nextdc还以1.75%的低票息发行了11亿澳元可转债，而目前其股价已跌至转换价格的约三分之一，相关证券深度虚值。&lt;/p&gt;
+&lt;p&gt;面对持续的市场质疑，黄仁勋此前告诉投资者&amp;quot;这一切都会过去&amp;quot;，并建议投资者&amp;quot;趁低吸纳&amp;quot;。如今，英伟达正被要求用行动兑现这一承诺。对于一家被市场称为&amp;quot;AI中央银行&amp;quot;的公司而言，向Firmus注资或许只是其扮演&amp;quot;最后贷款人&amp;quot;角色的最新一步，但能否真正稳住市场信心，仍有待观察。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌3%，机器人逆势爆发、宇树拉升5%，AI硬件下跌、光模块再调整，恒科指跌4%，权重科网股集体走低</title><link>https://wallstreetcn.com/articles/3784171</link><guid>ce86d7afaa96ca0f77d74a11535b0c30962db84d6f0084ce51cc67b64061705e</guid><pubDate>Thu, 22 Oct 2026 02:24:14 GMT</pubDate><description>&lt;p&gt;10月22日，A股低开低走，三大股指盘初集体下跌，沪指跌近1%，创业板一度跌3%，AI硬件、AI应用等再度调整，覆铜板、光模块等概念股跌幅居前。海运、文化传媒、保险等板块走低。机器人强势拉升，宇树科技涨5%。稀土永磁、工业母机等概念股活跃。&lt;/p&gt;
 &lt;p&gt;港股同样低开低走，恒指、恒科指早盘大幅下挫，恒指跌2%，恒科指跌超4%，权重科网股、芯片半导体、AI大模型、新能源汽车等集体下跌，联想集团、阿里巴巴跌超4%，MINIMAX一度下跌6.2%，跌破IPO发行价。债市方面，国债期货多数下跌。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.93%，深成指跌1.81%，创业板指跌2.67%。&lt;/p&gt;
@@ -782,68 +841,4 @@ AI智能体竞争进一步延伸
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数低开0.58%，恒生科技指数跌1.15%。腾讯控股、阿里巴巴、联想集团、宁德时代调整。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达柏林GTC说了什么？这是高盛总结</title><link>https://wallstreetcn.com/articles/3784166</link><guid>1f29957d5a05e9a8b452a37086830b7217bbd82d1c3c8c6d917888d35abfb690</guid><pubDate>Thu, 22 Oct 2026 02:14:28 GMT</pubDate><description>&lt;p&gt;10月21日，英伟达首席执行官黄仁勋在GTC柏林大会发表主题演讲，高盛研究团队出席大会后发布报告。&lt;/p&gt;
-&lt;p&gt;该行在报告中指出，&lt;strong&gt;此次演讲对股价的即时影响预计有限，但英伟达传递的核心信息“强化了我们的判断——AI部署在可预见的未来仍在正轨上推进。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本次发布会核心信息包括：英伟达推出DSX POD模块化数据中心方案，可将部署周期从数月压缩至两周；供应链伙伴宣布基板产能扩2.5倍、CoWoS封装扩3倍；物理AI业务FY27上半年收入已达110亿美元，超过FY26全年；并发布OpenShell架构应对企业AI安全问题。&lt;/p&gt;
-&lt;p&gt;该行维持对英伟达的买入评级，12个月目标价300美元，较当前股价216.47美元有约38.6%的上行空间。同时强调，英伟达正通过缩小供需缺口、推动强劲资本回报（已授权约2350亿美元回购）等举措，为股价提供持续的正向催化剂。&lt;/p&gt;
-客户赚到钱了，AI部署没有踩刹车
-&lt;p&gt;该行指出，英伟达的客户——包括超大规模云厂商（hyperscalers）和新兴云服务商（neoclouds）——&amp;quot;正在从当前的数据中心部署中实现强劲的单位经济效益&amp;quot;。&lt;/p&gt;
-&lt;p&gt;换句话说，钱花出去了，也赚回来了。这是AI资本支出能否持续的核心逻辑。&lt;/p&gt;
-&lt;p&gt;高盛因此判断，AI部署&amp;quot;在可预见的未来仍在正轨上&amp;quot;。&lt;/p&gt;
-供应链大规模扩产，备战更大规模GPU出货
-&lt;p&gt;英伟达在本次大会上宣布与多家合作伙伴联合扩充供应链产能，涉及多个关键环节。具体来看：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Ibiden、SEMCO、Unimicron&lt;strong&gt;三家基板供应商产能将扩大2.5倍；&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Amkor的CoWoS-R&lt;strong&gt;封装产能将扩大3倍；&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;KYEC将提升美国本土产能；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SPIL则将&lt;strong&gt;大幅增加CPO（共封装光学）产能。&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;分析师认为，这一系列扩产动作背后有更深层的信号。报告写道，&lt;strong&gt;&amp;quot;这表明英伟达正在为一次远超此前预期的大规模CPU出货做准备。&amp;quot;&lt;/strong&gt;换言之，此次供应链布局的规模，已超出市场对英伟达下一代产品爬坡节奏的普遍预期。&lt;/p&gt;
-DSX POD：把数据中心部署时间从数月压缩到两周
-&lt;p&gt;英伟达与合作伙伴联合推出了DSX POD参考设计——一种集装箱化模块，可容纳多个机架的完整Vera Rubin系统，整体出厂、现场通电即可运行。&lt;/p&gt;
-&lt;p&gt;这一产品预计于2027年初上市。分析师指出，&lt;strong&gt;DSX POD的核心价值在于将数据中心的部署周期从&amp;quot;数月&amp;quot;大幅压缩至&amp;quot;两周&amp;quot;&lt;/strong&gt;，显著缩短从部署到首个Token产出的时间。&lt;/p&gt;
-&lt;p&gt;效率提升同样值得关注。英伟达披露，其DSX Factory Platform已帮助运营商（包括新兴云服务商）在2GW规模的部署中实现约30%的电力节省，以及每日节约5600万升水。&lt;/p&gt;
-AI智能体安全问题，英伟达给出硬件级答案
-&lt;p&gt;随着AI智能体在企业端加速渗透，安全问题日益凸显。英伟达在本次大会上发布了一系列软件新品，其中最受关注的是OpenShell参考架构。&lt;/p&gt;
-&lt;p&gt;分析师描述，该平台的核心逻辑是&amp;quot;将关键权限的授予置于智能体之外，通过硬件触发器强制执行策略，防止任何未经授权的使用&amp;quot;。这意味着即便AI智能体本身被攻破或滥用，硬件层面的限制仍可作为最后一道防线。&lt;/p&gt;
-&lt;p&gt;OpenShell整合了Vera Rubin、Vera CPU以及BlueField-4 DPU（含Sentry模块），形成从芯片到软件的完整安全闭环。高盛认为，这一布局有助于英伟达在企业级AI市场建立更深的护城河。&lt;/p&gt;
-物理AI收入爆发，FY27上半年已超去年全年三成
-&lt;p&gt;物理AI是英伟达本次大会的另一条主线。公司宣布了多项加速物理AI落地的举措，包括面向自动驾驶汽车和Robotaxi的Hyperion参考设计、面向人形机器人的AGILE ONE参考设计，以及基于AI的电信基础设施平台。&lt;/p&gt;
-&lt;p&gt;数字层面，英伟达披露FY27上半年物理AI收入达110亿美元，较FY26全年高出约30%。&lt;/p&gt;
-&lt;p&gt;分析师将这一数据视为英伟达收入结构多元化的有力佐证。在数据中心业务之外，物理AI正成为英伟达增长曲线上不可忽视的第二引擎。&lt;/p&gt;
-高盛维持买入，目标价300美元，上行空间近四成
-&lt;p&gt;高盛维持对英伟达的买入评级，12个月目标价300美元，基于30倍市盈率乘以10美元的归一化每股盈利估算得出。&lt;/p&gt;
-&lt;p&gt;从预测数据来看，高盛预计英伟达FY27E（截至2027年1月）收入将达4127亿美元，EPS为9.40美元；FY28E收入进一步增至7183亿美元，EPS达16.70美元。当前股价对应FY27E市盈率约23倍，FY28E约13倍。&lt;/p&gt;
-&lt;p&gt;分析师同时列出主要下行风险，包括：AI基础设施支出放缓、竞争加剧导致市场份额流失、竞争压力引发利润率收缩，以及供应链约束。&lt;/p&gt;
-&lt;p&gt;英伟达当前市值约5.3万亿美元，已授权约2350亿美元的股票回购计划。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美股杠杆加不动了？华尔街“已耗尽资产负债表”，只能劝对冲基金“加空仓”</title><link>https://wallstreetcn.com/articles/3784162</link><guid>1f8c50b295b5889fc8d7925213bc8dedba7debe50de3cc517349750000c65696</guid><pubDate>Thu, 22 Oct 2026 00:20:09 GMT</pubDate><description>&lt;p&gt;当内部风控触及上限，华尔街的答案不是踩刹车，而是移动球门柱。&lt;/p&gt;
-&lt;p&gt;据彭博最新报道，巴克莱银行今年早些时候在亚洲AI股票交易热潮中触及对冲基金客户融资上限后，&lt;strong&gt;通过内部拍卖机制，将宏观利率交易台的部分资本配额借调给大宗经纪业务，以维持对亚洲对冲基金客户的贷款扩张。&lt;/strong&gt;与此同时，包括高盛在内的多家银行交易员开始向对冲基金客户施压，鼓励其持有更多空头头寸——这一操作在账面上压缩了资产负债表占用，却并未真正降低市场整体杠杆水平。&lt;/p&gt;
-&lt;p&gt;高盛首席财务官Denis Coleman本月早些时候表示，股票融资需求持续超出行业可用容量，高盛因此得以&amp;quot;有选择性地部署资源&amp;quot;。高盛大宗经纪数据显示，截至10月18日当周，&lt;strong&gt;美国多空对冲基金净杠杆率下降3.2个百分点至43.7%，创五年新低——但这一下降几乎全部来自空头头寸的增加，而非多头的削减。&lt;/strong&gt;自7月31日以来，多头杠杆仅下降0.5个百分点至128.8%，空头杠杆则上升8.0个百分点至85.1%，处于五年来最高水平，整体总杠杆率约为214%，较此前不降反升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-巴克莱&amp;quot;移动球门柱&amp;quot;：内部拍卖绕过风控上限
-&lt;p&gt;据彭博报道，巴克莱银行高管今年早些时候希望扩大对亚洲对冲基金客户的融资规模，以把握亚洲AI股票急速上涨的机遇。然而，银行已触及内部融资上限。解决方案是：&lt;strong&gt;由宏观利率交易台通过内部拍卖机制，将部分资本配额让渡给大宗经纪业务——后者由Adeel Khan主管的全球市场部门负责运营。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;巴克莱官方表态称，该行&amp;quot;动态部署投资银行资产负债表，在把握客户机遇的同时保持对风险和回报的严格管控&amp;quot;。然而，据彭博援引的知情人士信息，这一&amp;quot;严格管控&amp;quot;实际上在触及上限之后才真正发挥作用，而应对方式是重新划定上限本身。&lt;/p&gt;
-&lt;p&gt;值得注意的是，英国银行已于今年7月AI交易出现裂痕之际开始审查这一市场领域，并于9月明确将目光锁定在伦敦大宗经纪商对亚洲股票的融资业务上。&lt;/p&gt;
-讽刺一幕：拒绝了&amp;quot;AI股神&amp;quot;，却仍将额度用到极限
-&lt;p&gt;这一事件中最具讽刺意味的细节在于：巴克莱此前曾以AI板块集中度风险为由，拒绝接受对冲基金Situational Awareness作为客户——而这一决定事后被证明是正确的。&lt;/p&gt;
-&lt;p&gt;Situational Awareness由Leopold Aschenbrenner创立，该基金通过总收益互换工具运行约4倍杠杆，主要通过高盛建立多AI基础设施、空软件股的头寸组合。今年7月AI板块回调时，追加保证金通知接踵而至，该基金被迫将全部公开持仓以约10%的折价抛售给Ken Griffin旗下的城堡投资，基金规模在数日内从约450亿美元骤降至约100亿美元。&lt;/p&gt;
-&lt;p&gt;然而，巴克莱虽然成功规避了这一年度最显眼的爆仓事件，却仍将对亚洲对冲基金的融资额度推至极限，甚至不得不从其他业务台借调资本。这说明，Situational Awareness的崩盘不过是整个市场通过少数几家交易商资产负债表共同押注同一AI主题这一系统性问题的最显眼症状，而非根源。&lt;/p&gt;
-行业普遍承压：高盛、瑞银相继承认融资趋于饱和
-&lt;p&gt;巴克莱并非孤例。据彭博报道，高盛CFO Denis Coleman本月早些时候表示，股票融资需求持续超出行业可用容量；他在7月曾表示，大宗经纪和固定收益融资领域存在&amp;quot;远超我们愿意承接规模的需求&amp;quot;。瑞银CFO Todd Tuckner则在7月表示，该行股票资产负债表在大宗经纪业务上的使用正趋于&amp;quot;更为节制&amp;quot;。&lt;/p&gt;
-&lt;p&gt;彭博策略师Simon White早在6月便已发出预警，指出期货融资利率因总收益互换需求激增而急剧攀升，交易商通过期货和总收益互换向市场提供的杠杆敞口已达创纪录水平，股票库存升至2230亿美元高位，&amp;quot;交易商资产负债表可能因监管约束而面临供给瓶颈&amp;quot;。巴克莱此后的操作，正是对这一&amp;quot;供给瓶颈&amp;quot;的直接印证。&lt;/p&gt;
-&amp;quot;加空仓&amp;quot;的把戏：总杠杆不降反升
-&lt;p&gt;当资产负债表空间告罄，华尔街给出的&amp;quot;解决方案&amp;quot;是：让客户加仓空头。据彭博报道，巴克莱及高盛等银行的交易员与对冲基金客户合作，通过鼓励后者持有更多空头头寸来降低大宗经纪账面上的资产负债表占用——空头所得资金可在内部用于为多头融资。&lt;/p&gt;
-&lt;p&gt;然而，高盛大宗经纪数据揭示了这一操作的实质。高盛的Lee Coppersmith在10月18日的周报中指出，自7月底以来，净杠杆的下降&amp;quot;几乎全部来自空头增加，而非多头减少&amp;quot;。多头杠杆仅微降0.5个百分点至128.8%，空头杠杆则大幅攀升8.0个百分点至85.1%，处于五年来第100百分位，整体总杠杆率约为214%，较Situational Awareness爆仓后不降反升。&lt;/p&gt;
-&lt;p&gt;瑞银交易台交易员Torsten Sippel在10月18日的周报中亦指出，&lt;strong&gt;上周市场走势&amp;quot;看起来像是仓位重置，而非全面股票清仓，与数月前Situational Awareness引发的去杠杆非常相似&amp;quot;，&lt;/strong&gt;并警告称，在对冲基金净敞口已降至五年来第30百分位、总杠杆仍处于第90百分位以上的背景下，&amp;quot;若盈亏压力持续，投资组合面临进一步去杠杆的脆弱性&amp;quot;。&lt;/p&gt;
-&lt;p&gt;Coppersmith亦坦言，若业绩压力持续，&amp;quot;通过抛售多头和回补空头进一步去杠杆的空间确实存在&amp;quot;。214%的总杠杆意味着，&lt;strong&gt;一旦多头和空头同时反向运动——正如7月AI基础设施股下跌、软件股反弹时所发生的那样——所谓的&amp;quot;对冲&amp;quot;将迅速失效。&lt;/strong&gt;&lt;/p&gt;
-丰厚回报驱动冒险：大宗经纪成营收引擎
-&lt;p&gt;为何要如此费力地突破限制？答案在于利润。据彭博预测，巴克莱股票业务预计将于本周四公布约8.65亿英镑（约12亿美元）的第三季度营收，这将是该行自2009年——即收购雷曼兄弟北美业务次年——以来最强劲的第三季度表现。&lt;/p&gt;
-&lt;p&gt;大宗经纪业务是今年华尔街股票营收的核心驱动力，而推动交易营收激增的市场波动，本身在很大程度上正是大宗经纪商所提供的杠杆所催生的。&lt;strong&gt;这形成了一个自我强化的闭环：银行向基金放贷，基金推高AI股价，AI波动带来交易营收，营收为大宗经纪业务提供更多资产负债表空间——直到这一循环反向运转。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，英国银行已在审查伦敦大宗经纪商的亚洲股票账簿，瑞银将上周的去杠杆走势定性为Situational Awareness爆仓的重演，而整体总杠杆仍接近历史高位。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
