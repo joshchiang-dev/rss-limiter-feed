@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 24 Oct 2026 22:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能</title><link>https://wallstreetcn.com/articles/3784397</link><guid>f04afb95ce676a0802cef53427848687cf4860c40bee10e99abb1fb21583ff82</guid><pubDate>Sat, 24 Oct 2026 11:03:44 GMT</pubDate><description>&lt;p&gt;据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。&lt;/p&gt;
-&lt;p&gt;受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。&lt;/p&gt;
-&lt;p&gt;英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。&lt;/p&gt;
-&lt;p&gt;AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿美元；英伟达亦宣布与多家核心供应链合作伙伴推进大规模扩产计划，外界推测其对台厂载板投资规模同样约10亿美元，且存在进一步追加的可能性。&lt;/p&gt;
-欣兴：资本支出居同业之冠，斥资百亿收购厂房
-&lt;p&gt;据上述报道，欣兴今年资本支出规模在载板厂中排名首位。公司董事会此前决议追加今年资本支出197亿元新台币，使全年资本支出总额升至537亿元，同步大手笔采购长交期设备，相关采购订单金额亦再追加176亿元。&lt;/p&gt;
-&lt;p&gt;在土地与厂房布局方面，欣兴于9月底公告以约100.8亿元新台币收购台湾普利司通湖口厂办，用于应对客户未来高阶载板产能扩充需求。公司公告指出，此次收购土地系基于中长期营运发展策略，旨在进行整体生产配置与产能规划。&lt;/p&gt;
-景硕：转型高阶载板，三年扩产预算逾四百亿
-&lt;p&gt;景硕近年持续从传统PCB生产淡出，集中资源转型高阶载板业务。董事会已拍板资本支出235亿元新台币，以满足未来三年ABF载板产能扩充所需设备投资，其中2026年计划支出80亿元，60亿元将专项用于ABF载板投资。&lt;/p&gt;
-&lt;p&gt;此外，景硕董事会还额外新增专案资本支出预算196亿元，进一步强化扩产力度，合计扩产预算总额超过四百亿元新台币。&lt;/p&gt;
-南电：兴建智慧工厂，单项投资近五百亿
-&lt;p&gt;南电董事会此前通过决议，将新增资本支出用于兴建专注大尺寸、高层数高阶载板的智慧工厂，预计投资金额达468亿元新台币，为三家厂商中单项投资额最高。&lt;/p&gt;
-AI基础设施军备竞赛向上游蔓延
-&lt;p&gt;三大科技巨头合计对台湾载板产业的投资估计达50亿美元（约合新台币1629亿元），折射出AI基础设施建设对上游关键材料与封装基板的深度依赖。载板作为连接芯片与电路板的核心中介元件，其供应瓶颈已直接影响整体AI供应链的产能释放节奏。&lt;/p&gt;
-&lt;p&gt;客户以大额预付款锁定产能的模式，一方面为台湾载板厂商的大规模资本支出提供需求能见度支撑，另一方面也显示科技巨头对供应链安全的优先级已提升至主动绑定资源的层面。今年台湾载板大厂宣布的累计投资额创下1612亿元新台币的历史新高，反映市场对AI相关载板需求的长期乐观预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！</title><link>https://wallstreetcn.com/articles/3784381</link><guid>6b1d160eec1cb5bd8b8d1b5e762bb06ff1f3475cafd20594feb88659ff1c554c</guid><pubDate>Sat, 24 Oct 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的&amp;quot;正面无论如何都赢&amp;quot;演变为当前的&amp;quot;两害相权&amp;quot;困境——&lt;strong&gt;加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 24 Oct 2026 23:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！</title><link>https://wallstreetcn.com/articles/3784381</link><guid>6b1d160eec1cb5bd8b8d1b5e762bb06ff1f3475cafd20594feb88659ff1c554c</guid><pubDate>Sat, 24 Oct 2026 11:38:17 GMT</pubDate><description>&lt;p&gt;AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的&amp;quot;正面无论如何都赢&amp;quot;演变为当前的&amp;quot;两害相权&amp;quot;困境——&lt;strong&gt;加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月&amp;quot;智能体热&amp;quot;行情中积累的多头仓位，市场经历了大规模的被迫平仓。&lt;/p&gt;
 &lt;p&gt;仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。&lt;/p&gt;
 &lt;p&gt;此次震荡不仅冲击了AI核心概念股，更通过拥挤仓位的连锁平仓，向美债、汇率及大宗商品市场蔓延，触发了跨资产范围的系统性去杠杆。&lt;/p&gt;
