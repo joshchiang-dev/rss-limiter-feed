@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 25 Oct 2026 13:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？</title><link>https://wallstreetcn.com/articles/3784410</link><guid>4bb80c3621cb7789a70c7fff02c62c436b335f72f6da0b1171fe68221bfe2a97</guid><pubDate>Sun, 25 Oct 2026 07:11:35 GMT</pubDate><description>&lt;p&gt;AI基础设施投资仍有增长空间，但融资成本上升、半导体供应链受限与自研芯片竞争加剧，正在共同考验这轮AI热潮的持续性。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 25 Oct 2026 13:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？</title><link>https://wallstreetcn.com/articles/3784410</link><guid>4bb80c3621cb7789a70c7fff02c62c436b335f72f6da0b1171fe68221bfe2a97</guid><pubDate>Sun, 25 Oct 2026 07:11:35 GMT</pubDate><description>&lt;p&gt;AI基础设施投资仍有增长空间，但融资成本上升、半导体供应链受限与自研芯片竞争加剧，正在共同考验这轮AI热潮的持续性。&lt;/p&gt;
 &lt;p&gt;在10月23日于美国举行的CASPA第35届年度大会上，SemiAnalysis创始人兼CEO Dylan Patel、Bernstein董事总经理兼高级分析师 Stacy Rasgon，以及Austin Lyons围绕半导体行业前景展开讨论，重点涉及AI基础设施投资、供应链瓶颈与芯片竞争格局。&lt;/p&gt;
 &lt;p&gt;Patel指出，&lt;strong&gt;当前AI算力需求依然旺盛，但基板、内存等关键环节的产能约束，正在限制基础设施扩张。&lt;/strong&gt;与此同时，融资成本大幅攀升，缺乏长期客户订单的新兴云服务商越来越难以获得资金，AI投资能否持续推进，不仅取决于需求，也取决于项目的融资能力与回报。&lt;/p&gt;
 &lt;p&gt;对于英伟达，Rasgon认为，其产品性能提升仍能支撑较高售价，但云厂商自研芯片正在改变竞争格局。&lt;strong&gt;随着Google TPU、亚马逊Trainium以及OpenAI等企业的自研芯片计划推进，英伟达即使继续增长，也可能面临市场份额和定价能力的双重压力。&lt;/strong&gt;&lt;/p&gt;
@@ -481,32 +481,7 @@ AI信用分化加剧，市场转向个券定价
 &lt;p&gt;自9月中旬以来，甲骨文、Meta、SpaceX及多家数据中心运营商的信用利差扩张幅度明显超过指数；微软、谷歌和亚马逊的短期限债券则相对抗压。&lt;strong&gt;市场开始根据发行人的融资需求、资产负债表和长期风险进行区分，而非将AI视为统一的信用主题。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;收益率曲线也反映出长端压力。巴克莱数据显示，过去一年，超大规模科技公司的平均2年期至5年期、5年至10年期及10年至30年期收益率曲线分别陡峭化137%、140%和68%。其中，Meta的10年至30年期曲线利差达到68个基点，在同类发行人中最为陡峭。&lt;/p&gt;
 &lt;p&gt;长端曲线走陡，反映投资者对长期债务要求的风险补偿上升。随着AI企业持续扩大资本开支，市场不仅要判断投资能否转化为收入，还要评估融资规模、现金流改善时间及新增债券对融资成本的影响。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;因此，AI交易能否止跌，关键在于巨额融资能否被市场消化、信用利差能否企稳，以及AI企业之间的风险分化是否继续扩大。在这些压力缓解之前，阶段性反弹仍可能受到融资成本上升的制约。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 石油产量创纪录，油罐几乎都空了--阿联酋“奇迹复苏”了吗？</title><link>https://wallstreetcn.com/articles/3784400</link><guid>7db2b18dc282416711fcc172aec57de43ca8427ec679ed4b0c59a5aa48489f5c</guid><pubDate>Sun, 25 Oct 2026 01:35:10 GMT</pubDate><description>阿联酋原油供应已迅速反弹至历史高位，但天然气、石化生产和燃料库存的修复明显滞后，能源系统仍面临供应链受损与储备不足的双重压力。
-
-&lt;p&gt;据国际能源署（IEA）数据，阿联酋9月石油供应量达到530万桶/日的历史峰值，富查伊拉港单日装载量升至262万桶，鲁韦斯炼油厂也于8月底恢复满负荷运营。然而，能源分析师Karl Miller在10月22日发布的评估报告中指出，&lt;strong&gt;天然气产出、石化原料供应和燃料库存仍远低于战前水平，原油出口的反弹并未带来能源系统的全面复原。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一方面，受损设施逐步修复，加上阿联酋5月退出欧佩克、不再受原有产量配额约束，推动原油供应回升；另一方面，天然气和石化产业链仍受原料短缺制约，富查伊拉燃料库存也大幅缩水。&lt;strong&gt;原油出运能力的恢复，并不等于能源系统抵御供应中断的能力同步恢复。&lt;/strong&gt;&lt;/p&gt;
-
-
-产量从谷底反弹，战争损伤仍未消除
-&lt;p&gt;今年早些时候，阿联酋能源系统遭遇一系列袭击，原油生产、天然气加工、炼化、石化及电力配套设施均受到波及。&lt;strong&gt;据美国能源信息署（EIA）数据，阿联酋原油及凝析油产量从年初约400万桶/日降至3月至5月均值240万桶/日，降幅达40%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;受损设施涉及能源产业多个关键环节：鲁韦斯炼化综合体于3月10日起火停产；沙阿酸性气体处理厂和哈布善天然气综合体先后遭袭；博禄石化工厂、阿联酋环球铝业冶炼厂及巴拉卡核电站的电力配套设施也受到影响。&lt;/p&gt;
-&lt;p&gt;承担绕过霍尔木兹海峡运输功能的富查伊拉港同样遭受冲击。据路透社统计，冲突爆发以来，该港至少遭袭19次。3月16日当周，港口装载量跌至44万桶/日；5月4日再度遭袭后，成品油出口几近停滞，此后约一个月内仅有一艘成品油轮离港。&lt;/p&gt;
-&lt;p&gt;随着部分设施修复、原油出运恢复，阿联酋供应数据迅速反弹。&lt;strong&gt;但原油产量回升并不代表能源产业链全面复原，天然气加工、石化生产和成品油出口仍受制于受损设施及供应链瓶颈。&lt;/strong&gt;&lt;/p&gt;
-天然气与石化产业仍受制于原料短缺
-&lt;p&gt;阿布扎比国家石油公司天然气业务子公司（ADNOC Gas）二季度财报显示，&lt;strong&gt;与上年同期相比，公司国内天然气产量下降32.5%，液化石油气、石脑油等出口液体产量下降54.5%，LNG权益产量下降63%；LNG销售量下降约71%。&lt;/strong&gt;同期，公司营收下降39%，息税折旧摊销前利润（EBITDA）下降47%，净利润下降52%，单季度营收减少约23亿美元。&lt;/p&gt;
-&lt;p&gt;值得注意的是，公司二季度资产可用率达到99.9%，但实际资产利用率却从80%降至54%。&lt;strong&gt;这意味着设备虽然能够运行，却缺乏足够原料维持满负荷生产。对能源产业而言，修复设施只是第一步，恢复原料供应和上下游协同才是全面复产的关键。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至8月10日，哈布善天然气供应恢复至约85%；Borouge工厂虽于6月底完成修复，却因原料不足，仅能以约60%的利用率运行。阿联酋环球铝业冶炼厂截至8月底也仅重启四分之一的电解槽，预计要到2027年初才能全面恢复。&lt;/p&gt;
-&lt;p&gt;这些情况表明，原油出口反弹尚未带动能源经济全面复苏。天然气加工、石化生产和铝冶炼依赖各自的设施与供应链，关键环节持续受阻，将限制整体产出恢复。&lt;/p&gt;
-库存缩水65%：高产量背后的缓冲垫正在变薄
-&lt;p&gt;10月19日，富查伊拉成品油库存降至725万桶，较战前约2070万桶减少65%。其中，汽油和石脑油库存下降87%，燃料油下降53%，柴油和航空煤油下降23%；&lt;strong&gt;10月期间，库存还曾在一周内下降18%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;富查伊拉是全球重要的船舶加注和油品贸易枢纽。&lt;strong&gt;库存大幅缩水，不仅影响当地燃料供应，也削弱了港口应对运输中断和突发需求的能力。&lt;/strong&gt;供应流量创下纪录，并不意味着库存存量同步恢复。 产量和出口反映当前供应能力，库存则决定供应突然中断时，系统还能维持多久。&lt;/p&gt;
-&lt;p&gt;Miller提出了一个极端情景：如果出口通道每天损失100万桶，而可用储罐容量仅有1000万桶，在没有其他缓冲措施的情况下，持续的出口中断可能在约十天内迫使油田关停。&lt;strong&gt;这是基于特定假设的压力测试，并非对实际停产时间的预测，但揭示了库存不足可能放大的连锁风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;绕过霍尔木兹海峡的运输能力也有上限。从哈布善通往富查伊拉的ADCOP管道，设计输油能力为150万桶/日，最高约180万桶/日，而ADNOC宣称的产能为485万桶/日。阿联酋规划建设的第二条管道预计2027年投运，在此之前，现有管道仍难以完全抵消霍尔木兹海峡严重中断的风险。&lt;/p&gt;
-原油出口恢复了，能源韧性恢复了吗？
-&lt;p&gt;阿联酋9月石油供应量创下历史新高，主要得益于受损设施逐步修复，以及退出欧佩克后不再受原有产量配额约束。但若部分供应增长伴随着库存消耗，产量回升也可能以缓冲空间进一步收窄为代价。&lt;/p&gt;
-&lt;p&gt;地区成品油和液化石油气出口仍远低于战前水平。9月，地区成品油出口量约为190万桶/日，战前约为470万桶/日；液化石油气出口量约为67万桶/日，战前约为150万桶/日。&lt;strong&gt;原油运输明显恢复，并未带动其他能源产品同步复原。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Miller指出，目前缺乏完整的公开数据库，无法精确核实阿联酋能源系统仍有多大比例处于受损状态。鲁韦斯炼厂和原油出口端的实质性恢复不应被忽视，但天然气产出、石化原料供应、燃料库存和绕行运输能力仍暴露出明显短板。&lt;/p&gt;
-&lt;p&gt;真正的考验不在于阿联酋能否创下产量纪录，而在于下一次冲击来临时，它还能维持多久。战前，富查伊拉拥有约2000万桶成品油库存，如今只剩约700万桶；天然气和石化产业链尚未完全恢复，现有旁路管道运力也有限。&lt;strong&gt;阿联酋恢复了原油供应的速度，却尚未恢复抵御下一次冲击的能力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Sun, 25 Oct 2026 09:02:29 GMT</pubDate><description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此，AI交易能否止跌，关键在于巨额融资能否被市场消化、信用利差能否企稳，以及AI企业之间的风险分化是否继续扩大。在这些压力缓解之前，阶段性反弹仍可能受到融资成本上升的制约。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Sun, 25 Oct 2026 09:02:29 GMT</pubDate><description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
