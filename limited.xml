@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 26 Oct 2026 00:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？</title><link>https://wallstreetcn.com/articles/3784282</link><guid>dcc18aee46ef082ced02dcf78e2d23edbcb90baa0fe2bc12d6be7e507e2ae937</guid><pubDate>Sun, 25 Oct 2026 16:00:06 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 10月26日 - 11月01日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 26 Oct 2026 01:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] 高盛下调韩股目标价25%，但认为“存储估值过于悲观”，韩股估值已成“全球最低”</title><link>https://wallstreetcn.com/articles/3784421</link><guid>7babaec7306b01cd548be263fe088f8dab8207b6ab879cbd98e7da3dcf95d2c6</guid><pubDate>Mon, 26 Oct 2026 00:47:00 GMT</pubDate><description>&lt;p&gt;高盛大幅下调韩国股市目标价，但同时警告市场对半导体行业的悲观定价已严重偏离基本面现实。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，高盛策略师团队在10月25日的研报中称，将韩国综合股价指数（KOSPI）12个月目标价由12000点下调至9000点，降幅达25%。这一调整发生在KOSPI自6月高点已累计下跌近40%的背景下。尽管如此，高盛仍维持对韩国股市的积极立场，指出&lt;strong&gt;修订后的目标价较当前水平仍隐含逾60%的上行空间&lt;/strong&gt;，并明确表示“市场正在定价一个过度悲观的基本面前景”。&lt;/p&gt;
+&lt;p&gt;AI交易退潮引发的科技股抛售，已将韩国从年内全球最热门主要市场之一，拖入估值最低的深渊。据彭博汇编数据，KOSPI 12个月远期市盈率已跌至约4倍&lt;strong&gt;（较历史均值低3个标准差）&lt;/strong&gt;，为2006年以来18个万亿美元级市场中从未出现过的极端低位，&lt;strong&gt;估值约为印度尼西亚雅加达综合指数（8倍市盈率）的一半&lt;/strong&gt;。与此同时，部分投资者认为，&lt;strong&gt;这场抛售已制造出难得的买入机会&lt;/strong&gt;。&lt;/p&gt;
+AI交易退潮重创韩股，高盛被迫大幅下修目标
+&lt;p&gt;报告称，高盛策略师团队下调韩国KOSPI指数目标位的理由是在基准指数自6月高点暴跌逾35%后，需要采用“更为保守的估值假设”。&lt;/p&gt;
+&lt;p&gt;值得注意的是，高盛今年曾多次上调该目标价，最近一次上调发生在6月，并在此后的全球AI股抛售浪潮中坚持维持12000点目标不变。此次下调标志着高盛对韩国市场判断的重大转向。&lt;strong&gt;高盛同步将亚太区MXAPJ指数目标价由1,120下调至1,040。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三星电子和SK海力士等芯片巨头使KOSPI成为AI交易的晴雨表。&lt;/strong&gt;投资者对AI基础设施大规模支出可持续性的疑虑持续升温，叠加融资成本上升、回报信号不足，抛售压力已从科技板块蔓延至整个韩国市场。&lt;/p&gt;
+&lt;p&gt;值得注意的是，&lt;strong&gt;此轮下跌发生在韩国企业利润创历史新高的背景下，进一步凸显市场定价与基本面之间的严重背离。&lt;/strong&gt;此外，&lt;strong&gt;散户投资者在杠杆ETF上的大规模去风险操作也放大了跌幅——相关杠杆ETF规模已从6月高峰时的530亿美元缩水至当前的160亿美元。&lt;/strong&gt;&lt;/p&gt;
+存储芯片估值隐含“65%盈利暴跌”，高盛认为定价过于极端
+&lt;p&gt;尽管大幅下调目标价，高盛策略师明确指出，当前市场对半导体板块的定价已严重脱离合理区间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛估算，当前半导体板块的估值水平隐含着该行业2027年盈利将下滑65%的预期&lt;/strong&gt;——这一情景被高盛认为“过于悲观”。报告指出，市场正在定价一个“过度负面的基本面前景”，而修订后的目标价仅是为了纳入更保守的市场定价假设，并非反映高盛对基本面的实质性看空。&lt;/p&gt;
+&lt;p&gt;高盛指出，&lt;strong&gt;三星电子和SK海力士目前均以约3倍远期市盈率交易，为历史最低水平。基于过去20年月度数据所揭示的市净率与净资产收益率之间高达72%的拟合优度（R²）关系，当前2.6倍的板块市净率所隐含的2027年ROE仅为23%，而市场共识预测的ROE高达45%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告同时指出，&lt;strong&gt;若市场重拾对前景的信心，当前估值水平下的潜在回报空间极为可观——市净率回归与账面价值增长的双重驱动，意味着该板块存在翻倍潜力。此外，两大主要存储芯片制造商均已承诺将至少50%的自由现金流通过股息和回购方式回馈股东，进一步支撑当前的风险回报判断。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在存储芯片板块之外，占指数权重约一半的其他股票目前以7.6倍远期市盈率交易，估值同样处于历史低位。&lt;strong&gt;高盛指出，非存储板块2026年每股盈利增速的共识预测已被上调至84%，2027年和2028年预计将分别进一步增长16%和11%；该板块当前14.2%的ROE与1.1x市净率之间的历史关系显示，当前估值较合理水平低估逾30%。&lt;/strong&gt;高盛表示，在当前水平上，韩国市场仍提供&amp;quot;具有吸引力的风险回报&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛继续看好电力、工业、公司治理改善相关股票，以及受益于国内再通胀和韩流文化的企业。&lt;/p&gt;
+估值跌至“全球最低”，韩股已比印尼便宜一半
+&lt;p&gt;据彭博汇编数据，KOSPI 12个月远期市盈率已跌至约4倍，这是自2006年以来，在所有年初市值超过1万亿美元的18个主要市场中从未出现过的极端低位。&lt;/p&gt;
+&lt;p&gt;相比之下，同样面临MSCI可能两级下调评级、市场可投资性存疑的印度尼西亚雅加达综合指数，其远期市盈率仍维持在8倍左右。&lt;strong&gt;韩国股市估值已不足印尼的一半。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一估值崩塌发生在韩国宏观基本面并不悲观的背景下。&lt;/strong&gt;韩国今年出口有望突破1万亿美元，芯片需求旺盛；韩国央行亦表示，今明两年经济增速应&amp;quot;显著高于&amp;quot;此前预测。然而，市场对存储芯片周期、AI资本支出前景及借贷成本上升的疑虑，令投资者情绪持续低迷。&lt;/p&gt;
+&lt;p&gt;报告称，&lt;strong&gt;近期波动率的急剧飙升（60日年化波动率一度突破80%，较过去5年10%-30%的正常区间大幅偏离，创下近4个标准差的极端读数）已导致股权风险溢价上升约2个百分点，相当于市净率下调约20%，可以解释KOSPI自6月高点40%跌幅中约一半的成因。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，盈利预测上调动能的放缓也对估值形成压制——尽管全年盈利预测持续上修，但近几个月上调速度明显趋缓，与股权风险溢价上升的时间节点高度吻合。&lt;strong&gt;展望未来，高盛预计年度盈利增速将从今年的逾300%放缓至2027年的38%和2028年的12%，这一趋势料将继续对估值扩张形成制约。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ACG Management董事总经理Hui Ling Loh表示，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“对迄今为止激进AI投资的担忧已进一步扩大，足以抵消稳健的盈利和业绩指引。投资者还在权衡借贷成本上升对AI相关股票的冲击，以及对避险资产需求的影响。”&lt;/p&gt;
+&lt;/blockquote&gt;
+部分投资者视抛售为买入机会，但分歧犹存
+&lt;p&gt;尽管市场情绪低迷，已有部分投资者开始将此轮抛售视为逢低布局的窗口。&lt;/p&gt;
+&lt;p&gt;KOSPI自6月高点已累计下跌约40%，但同期12个月远期盈利预测却上升了22%，股价与盈利预期的背离进一步凸显估值的极端低廉。指数年内仍累计上涨31%。&lt;/p&gt;
+&lt;p&gt;Julius Baer亚洲研究主管Mark Matthews表示，&lt;strong&gt;AI需求“仍大幅超过供给”，“因此当我们看到近期这样的大幅回调，尤其是半导体股票的隔夜暴跌，这是一个很好的买入机会。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过，市场对于情绪何时真正触底、估值能否成为可靠的反转信号，各方看法不一。此轮抛售也引发了更深层的讨论：&lt;strong&gt;在技术变革带来深度不确定性的时代，传统估值指标是否仍能提供可靠的投资指引。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛认为，&lt;strong&gt;外资年内净卖出规模已达1400亿美元，市场情绪仍处于明显压制状态，但这恰恰也意味着，一旦市场信心修复，反弹空间将极为可观。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？</title><link>https://wallstreetcn.com/articles/3784282</link><guid>dcc18aee46ef082ced02dcf78e2d23edbcb90baa0fe2bc12d6be7e507e2ae937</guid><pubDate>Sun, 25 Oct 2026 16:00:06 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 10月26日 - 11月01日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首要主线是“超级央行周”。&lt;/strong&gt;美联储10月29日凌晨公布决议，94%经济学家预计维持3.75%-4%不变，但沃什发布会的措辞将成关键——彭博提示市场紧盯12月加息线索，鹰派信号或直接推升美债收益率、压制风险资产。日本央行同周出牌，预计维持1.25%不变，但植田和男若释放鹰派信号，将触发日元反弹、冲击全球套息交易；欧央行亦料按兵不动，拉加德指引12月路径。&lt;/p&gt;
 &lt;p&gt;近日，美债近期剧烈波动、10年期收益率一度逼近5.3%后回落，法国政治僵局与能源高价交织，令利率路径与科技股估值成为全球资产定价的核心变量。&lt;/p&gt;
@@ -125,31 +161,7 @@
 &lt;li&gt;&lt;strong&gt;11月5日-10日&lt;/strong&gt;：第九届中国国际进口博览会（上海）——国家级对外开放平台，观察扩大进口与外资准入政策导向。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;11月5日（周四）&lt;/strong&gt;：法国工会呼吁全国性罢工——叠加法国政治僵局（540亿欧元紧缩案受阻、公共债务达GDP的113%），或扩大法德国债利差、利空欧元。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;11月5日&lt;/strong&gt;上海进博会+虹桥论坛开幕；11月2日世界互联网大会乌镇峰会开幕。&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛下调韩股目标价25%，但认为“存储估值过于悲观”，韩股估值已成“全球最低”</title><link>https://wallstreetcn.com/articles/3784421</link><guid>7babaec7306b01cd548be263fe088f8dab8207b6ab879cbd98e7da3dcf95d2c6</guid><pubDate>Sun, 25 Oct 2026 23:57:21 GMT</pubDate><description>&lt;p&gt;高盛大幅下调韩国股市目标价，但同时警告市场对半导体行业的悲观定价已严重偏离基本面现实。&lt;/p&gt;
-&lt;p&gt;据彭博10月25日报道，高盛策略师团队上周五（10月23日）将韩国综合股价指数（KOSPI）12个月目标价由12000点下调至9000点，降幅达25%。这一调整发生在KOSPI自6月高点已累计下跌逾35%的背景下。尽管如此，高盛仍维持对韩国股市的积极立场，指出&lt;strong&gt;修订后的目标价较当前水平仍隐含逾60%的上行空间&lt;/strong&gt;，并明确表示“市场正在定价一个过度悲观的基本面前景”。&lt;/p&gt;
-&lt;p&gt;AI交易退潮引发的科技股抛售，已将韩国从年内全球最热门主要市场之一，拖入估值最低的深渊。据彭博汇编数据，KOSPI 12个月远期市盈率已跌至约4倍，为2006年以来18个万亿美元级市场中从未出现过的极端低位，&lt;strong&gt;估值约为印度尼西亚雅加达综合指数（8倍市盈率）的一半&lt;/strong&gt;。与此同时，部分投资者认为，&lt;strong&gt;这场抛售已制造出难得的买入机会&lt;/strong&gt;。&lt;/p&gt;
-AI交易退潮重创韩股，高盛被迫大幅下修目标
-&lt;p&gt;报告称，高盛策略师团队下调韩国KOSPI指数目标位的理由是在基准指数自6月高点暴跌逾35%后，需要采用“更为保守的估值假设”。&lt;/p&gt;
-&lt;p&gt;值得注意的是，高盛今年曾多次上调该目标价，最近一次上调发生在6月，并在此后的全球AI股抛售浪潮中坚持维持12000点目标不变。此次下调标志着高盛对韩国市场判断的重大转向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三星电子和SK海力士等芯片巨头使KOSPI成为AI交易的晴雨表。&lt;/strong&gt;投资者对AI基础设施大规模支出可持续性的疑虑持续升温，叠加融资成本上升、回报信号不足，抛售压力已从科技板块蔓延至整个韩国市场。&lt;/p&gt;
-存储芯片估值隐含“65%盈利暴跌”，高盛认为定价过于极端
-&lt;p&gt;尽管大幅下调目标价，高盛策略师明确指出，当前市场对半导体板块的定价已严重脱离合理区间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛估算，当前半导体板块的估值水平隐含着该行业2027年盈利将下滑65%的预期&lt;/strong&gt;——这一情景被高盛认为“过于悲观”。报告指出，市场正在定价一个“过度负面的基本面前景”，而修订后的目标价仅是为了纳入更保守的市场定价假设，并非反映高盛对基本面的实质性看空。&lt;/p&gt;
-&lt;p&gt;在存储芯片板块之外，占指数权重约一半的其他股票目前以7.6倍远期市盈率交易，估值同样处于历史低位。高盛表示，在当前水平上，韩国市场仍提供&amp;quot;具有吸引力的风险回报&amp;quot;。&lt;/p&gt;
-&lt;p&gt;高盛继续看好电力、工业、公司治理改善相关股票，以及受益于国内再通胀和韩流文化的企业。&lt;/p&gt;
-估值跌至“全球最低”，韩股已比印尼便宜一半
-&lt;p&gt;据彭博汇编数据，KOSPI 12个月远期市盈率已跌至约4倍，这是自2006年以来，在所有年初市值超过1万亿美元的18个主要市场中从未出现过的极端低位。&lt;/p&gt;
-&lt;p&gt;相比之下，同样面临MSCI可能两级下调评级、市场可投资性存疑的印度尼西亚雅加达综合指数，其远期市盈率仍维持在8倍左右。&lt;strong&gt;韩国股市估值已不足印尼的一半。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一估值崩塌发生在韩国宏观基本面并不悲观的背景下。&lt;/strong&gt;韩国今年出口有望突破1万亿美元，芯片需求旺盛；韩国央行亦表示，今明两年经济增速应&amp;quot;显著高于&amp;quot;此前预测。然而，市场对存储芯片周期、AI资本支出前景及借贷成本上升的疑虑，令投资者情绪持续低迷。&lt;/p&gt;
-&lt;p&gt;ACG Management董事总经理Hui Ling Loh表示，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“对迄今为止激进AI投资的担忧已进一步扩大，足以抵消稳健的盈利和业绩指引。投资者还在权衡借贷成本上升对AI相关股票的冲击，以及对避险资产需求的影响。”&lt;/p&gt;
-&lt;/blockquote&gt;
-部分投资者视抛售为买入机会，但分歧犹存
-&lt;p&gt;尽管市场情绪低迷，已有部分投资者开始将此轮抛售视为逢低布局的窗口。&lt;/p&gt;
-&lt;p&gt;KOSPI自6月高点已累计下跌约40%，但同期12个月远期盈利预测却上升了22%，股价与盈利预期的背离进一步凸显估值的极端低廉。指数年内仍累计上涨31%。&lt;/p&gt;
-&lt;p&gt;Julius Baer亚洲研究主管Mark Matthews表示，&lt;strong&gt;AI需求“仍大幅超过供给”，“因此当我们看到近期这样的大幅回调，尤其是半导体股票的隔夜暴跌，这是一个很好的买入机会。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，市场对于情绪何时真正触底、估值能否成为可靠的反转信号，各方看法不一。此轮抛售也引发了更深层的讨论：&lt;strong&gt;在技术变革带来深度不确定性的时代，传统估值指标是否仍能提供可靠的投资指引。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国散户开始抄底！目标依旧是“三星和海力士杠杆ETF”</title><link>https://wallstreetcn.com/articles/3784427</link><guid>a2758adb0a14c56579eef923aef7459f62befdb0aa359a6c858601d5d6b0324b</guid><pubDate>Mon, 26 Oct 2026 00:31:54 GMT</pubDate><description>&lt;p&gt;韩国股市急跌之际，个人投资者再度涌入三星电子与SK海力士相关杠杆产品，押注半导体股反弹。与此同时，同类资金也在大规模买入美国市场的三倍杠杆半导体ETF。&lt;/p&gt;
+&lt;/ul&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩国散户开始抄底！目标依旧是“三星和海力士杠杆ETF”</title><link>https://wallstreetcn.com/articles/3784427</link><guid>a2758adb0a14c56579eef923aef7459f62befdb0aa359a6c858601d5d6b0324b</guid><pubDate>Mon, 26 Oct 2026 00:31:54 GMT</pubDate><description>&lt;p&gt;韩国股市急跌之际，个人投资者再度涌入三星电子与SK海力士相关杠杆产品，押注半导体股反弹。与此同时，同类资金也在大规模买入美国市场的三倍杠杆半导体ETF。&lt;/p&gt;
 &lt;p&gt;据韩国交易所与Koscom ETF Check数据，&lt;strong&gt;10月1日至23日，个人投资者净买入三星电子及SK海力士单一标的杠杆产品共14只，合计金额达3154亿韩元。其中&lt;/strong&gt;SK海力士相关7只产品净买入2263亿韩元，三星电子相关7只产品净买入891亿韩元。这是自7月底监管收紧、个人投资者转为净卖出以来，本月首次重新转为净买入。&lt;/p&gt;
 &lt;p&gt;在海外市场，韩国投资者同样动作积极。据韩国预托结算院数据，10月1日至22日，国内投资者净买入美股金额达48亿9000万美元（约6.36万亿韩元），其中追踪美国半导体指数单日收益率三倍的Direxion Daily Semiconductors Bull 3X Shares ETF（SOXL）净买入额高达35亿4764万美元（约4.70万亿韩元），占同期美股净买入总额的73.9%。&lt;/p&gt;
 监管收紧后的首次回归
@@ -158,9 +170,9 @@ AI交易退潮重创韩股，高盛被迫大幅下修目标
 KODEX系列产品成资金聚集地
 &lt;p&gt;在具体产品层面，&amp;quot;KODEX SK海力士单一标的杠杆&amp;quot;ETF净买入额达1529亿韩元，在韩国全部上市ETF中排名第11位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;除单一标的杠杆产品外，个人投资者还大量买入追踪大盘及半导体板块涨幅两倍的宽基杠杆产品——&amp;quot;KODEX杠杆&amp;quot;净买入额达1.0448万亿韩元，&amp;quot;KODEX半导体杠杆&amp;quot;净买入额为2564亿韩元，&lt;/strong&gt;显示出散户对半导体板块整体反弹的强烈预期。&lt;/p&gt;
-&lt;p&gt;值得注意的是，杠杆ETF按日追踪基础资产收益率的倍数，一旦走势与预期相反，亏损同样成倍放大。此外，在市场剧烈震荡、涨跌反复的环境下，即便基础资产价格最终回到原有水平，投资者也可能因&amp;quot;负复利效应&amp;quot;而遭受实际亏损，风险不可低估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 震惊市场！卢拉在巴西二轮选举中意外逆袭，创纪录赢得第四任期</title><link>https://wallstreetcn.com/articles/3784425</link><guid>b211a8b0f4ddf2ca51fd703f046643d7c8109afde90b6162745302a0d03fe759</guid><pubDate>Mon, 26 Oct 2026 00:34:27 GMT</pubDate><description>&lt;p&gt;巴西现任总统卢拉（Luiz Inácio Lula da Silva）在总统决选中完成逆转，以51%对49%的得票率击败对手博索纳罗（Flávio Bolsonaro），&lt;strong&gt;赢得其史无前例的第四个任期&lt;/strong&gt;。这一结果打破了自1989年巴西恢复民主以来从未有候选人在第一轮落后后于决选翻盘的历史纪录，也令外界对这位80岁老将政治生涯走向尽头的预判落空。&lt;/p&gt;
+&lt;p&gt;值得注意的是，杠杆ETF按日追踪基础资产收益率的倍数，一旦走势与预期相反，亏损同样成倍放大。此外，在市场剧烈震荡、涨跌反复的环境下，即便基础资产价格最终回到原有水平，投资者也可能因&amp;quot;负复利效应&amp;quot;而遭受实际亏损，风险不可低估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 震惊市场！巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期</title><link>https://wallstreetcn.com/articles/3784425</link><guid>b211a8b0f4ddf2ca51fd703f046643d7c8109afde90b6162745302a0d03fe759</guid><pubDate>Mon, 26 Oct 2026 01:07:43 GMT</pubDate><description>&lt;p&gt;巴西现任总统卢拉（Luiz Inácio Lula da Silva）在总统决选中完成逆转，以51%对49%的得票率击败对手博索纳罗（Flávio Bolsonaro），&lt;strong&gt;赢得其史无前例的第四个任期&lt;/strong&gt;。这一结果打破了自1989年巴西恢复民主以来从未有候选人在第一轮落后后于决选翻盘的历史纪录，也令外界对这位80岁老将政治生涯走向尽头的预判落空。&lt;/p&gt;
 &lt;p&gt;据巴西选举法院统计，上述结果基于截至周日晚8时48分已计票的73%选票。数据调查机构Datafolha随即预测卢拉胜选。选举日本身亦意外不断，期间出现选民压制指控，投票时间被临时延长。最终，卢拉东北部票仓的选民大规模集结，帮助他在最后阶段完成翻盘。&lt;/p&gt;
-&lt;p&gt;此前，右翼参议员、巴西前总统博纳索罗长子&lt;a href="https://wallstreetcn.com/articles/3782995"&gt;小博索纳罗在首轮投票中拔得头筹&lt;/a&gt;，历史上巴西自1989年恢复民主以来，尚无候选人在首轮落后后于决选实现逆转，胜选形势一度对卢拉极为不利。&lt;/p&gt;
+&lt;p&gt;此前，右翼参议员、巴西前总统博索纳罗长子&lt;a href="https://wallstreetcn.com/articles/3782995"&gt;小博索纳罗在首轮投票中拔得头筹&lt;/a&gt;，历史上巴西自1989年恢复民主以来，尚无候选人在首轮落后后于决选实现逆转，胜选形势一度对卢拉极为不利。&lt;/p&gt;
 &lt;p&gt;据彭博报道，对市场而言，卢拉的回归意味着延续既有政策框架，但高企的财政赤字、债务负担与利率水平仍是悬而未决的核心矛盾。他承诺推进财政整顿，却未给出具体路径，同时明确表态不会以牺牲社会议程来取悦金融市场，这一表态料将持续引发投资者对巴西财政可持续性的担忧。&lt;/p&gt;
 &lt;p&gt;在选举结果公布后，&lt;strong&gt;追踪巴西股市的ETF在日本市场暴跌13%。&lt;/strong&gt;此前市场普遍押注小博索纳罗更有意愿推进财政整顿，而卢拉的执政重心历来偏向通过刺激消费提振增长，而非应对巴西积重难返的财政困局。巴西政治分析人士、Dharma Political Risk and Strategy创始人兼CEO Creomar de Souza表示：&lt;/p&gt;
 &lt;blockquote&gt;
