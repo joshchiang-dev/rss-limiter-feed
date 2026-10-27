@@ -1,41 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 27 Oct 2026 08:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] 亚洲股市反弹走高，韩股收涨3.1%，SK海力士涨逾5%，油价续跌，金价再跌破4000</title><link>https://wallstreetcn.com/articles/3784535</link><guid>d57bbdf84f65a1bfd9bdca897ab982607145380ee7133f88e896f9ffb7176115</guid><pubDate>Tue, 27 Oct 2026 07:32:48 GMT</pubDate><description>&lt;p&gt;Anthropic的上市申请重燃市场对人工智能赛道的信心，亚洲科技股领涨，但美股期货走势分化显示涨势后劲存疑。本周美联储利率决议与科技巨头财报将成为AI交易能否持续复苏的关键考验。&lt;/p&gt;
-&lt;p&gt;Anthropic PBC提交IPO申请，成为推动全球股市周二延续涨势的核心催化剂。日经225指数收涨1.7%，报63268.37点。日本东证指数收涨0.6%，报3997.37点。韩国首尔综指收涨3.1%，报5638.35点。&lt;/p&gt;
-&lt;p&gt;然而，涨势后劲已现疲态。纳斯达克100指数期货小幅下跌0.1%，欧洲市场开盘亦偏弱。与此同时，全球基准油价布伦特原油下跌约1%，至每桶114.70美元左右，多国高级别官员赴德黑兰寻求重启外交斡旋、以遏制中东局势进一步升级。&lt;/p&gt;
-&lt;p&gt;在Anthropic之外，科技领域的大规模融资活动构成市场情绪的另一主要支撑。Meta Platforms寻求募资最高950亿美元，博通安排了一笔630亿美元的芯片采购融资交易，SpaceX签署了一份约400亿美元的设备融资租赁协议。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;日经225指数收涨1.7%，报63268.37点。日本东证指数收涨0.6%，报3997.37点。韩国首尔综指收涨3.1%，报5638.35点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率下降了2个基点，至4.97%&lt;/li&gt;
-&lt;li&gt;日本10年期收益率上涨1个基点，至2.790%&lt;/li&gt;
-&lt;li&gt;布伦特原油下跌约1%，至每桶114.70美元左右&lt;/li&gt;
-&lt;li&gt;现货黄金跌破4000美元/盎司，日内跌0.4%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-Anthropic上市申请重燃AI投资热情
-
-&lt;p&gt;Anthropic提交了市场期待已久的S-1招股文件，成为首家主要专注于开发前沿AI模型并谋求上市的公司。此次申请发生于AI板块经历估值过高与资本支出持续高企等担忧所引发的大幅回调之后，投资者正仔细研读文件，寻找AI需求是否依然强劲的信号。&lt;/p&gt;
-&lt;p&gt;野村资产管理首席策略师Hideyuki Ishiguro表示，&amp;quot;Anthropic的IPO申请预计将重新点燃市场对AI领域的兴趣。&amp;quot;他指出，鉴于当前半导体股估值已趋于合理，技术面信号亦有所改善，相关板块有望在短期内实现反弹。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;华尔街与机构资本的热情亦有据可查。贝莱德全球固定收益首席投资官Rick Rieder在接受彭博电视专访时表示，&amp;quot;这是我职业生涯中见过的最令人振奋的投资时期之一。我整个周末都在研究这些交易，并以相当大的规模参与了其中部分项目。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-融资狂潮背后，可持续性受到质疑
-
-&lt;p&gt;尽管AI赛道热度未减，资本快速涌入的速度也引发了审慎声音。债务与股权融资持续攀升，加之前沿AI实验室普遍存在大量现金消耗，部分分析人士对这种融资模式的可持续性表示担忧。&lt;/p&gt;
-&lt;p&gt;美国国债市场的表现则与科技股情绪形成对照。本月AI相关股票抛售、法国债务危机以及中东持续紧张局势的叠加效应，推动全球资金流向美国国债避险。基准10年期美债收益率10月以来已累计下行逾30个基点，有望终结持续七个月的升势，周二进一步下行2个基点至4.97%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;彭博美元强度指数则基本延续了过去两个交易日的涨势。&lt;/p&gt;
-
-美联储决议与科技财报构成双重考验
-
-&lt;p&gt;市场本周面临两大关键风险节点。美联储将于周三公布利率决议，市场普遍预期维持利率不变，此前美联储已于9月加息一次。目前市场定价显示，本次会议加息概率仅约10%，但年内再度加息的概率已超过70%。&lt;/p&gt;
-&lt;p&gt;CIBC股票与投资组合策略主管Christopher Harvey在研报中写道，&amp;quot;本周财报密集发布，通常来说宏观因素会退居次席，但美联储周三的议息会议可能带来一场相当棘手、复杂的发布会，这一局面不容忽视。&amp;quot;&lt;/p&gt;
-&lt;p&gt;科技巨头财报方面，Alphabet与微软将于周三发布业绩，亚马逊与英特尔紧随其后于周四公布结果。投资者重点关注这些AI领域最大买单方的资本支出计划，以及相关投资能否带来与之相称的回报。&lt;/p&gt;
-&lt;p&gt;Fibonacci Asset Management Global首席执行官Jung In Yun表示，&amp;quot;关键问题在于，本周业绩能否重建市场对AI需求持续性的信心。要使此轮复苏具备持久性，我们需要看到令人鼓舞的盈利指引，以及外资持续买入的迹象。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 200亿美元资金撤离TMT后，高盛交易台建议选择性抄底AI：盯紧四大方向</title><link>https://wallstreetcn.com/articles/3784548</link><guid>9ab914e8f656678c1f84c6593e8d26dcbc0a380d16ffbc3e9cacca0a2f306276</guid><pubDate>Tue, 27 Oct 2026 08:06:05 GMT</pubDate><description>&lt;p&gt;高盛FICC与股票交易台最新研判认为，过去两周科技股的剧烈调整本质上是一次对冲基金主导的去杠杆事件，而非AI需求转弱的信号——这一判断直接决定了当前是否值得入场，以及如何入场。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 27 Oct 2026 08:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 200亿美元资金撤离TMT后，高盛交易台建议选择性抄底AI：盯紧四大方向</title><link>https://wallstreetcn.com/articles/3784548</link><guid>9ab914e8f656678c1f84c6593e8d26dcbc0a380d16ffbc3e9cacca0a2f306276</guid><pubDate>Tue, 27 Oct 2026 08:06:05 GMT</pubDate><description>&lt;p&gt;高盛FICC与股票交易台最新研判认为，过去两周科技股的剧烈调整本质上是一次对冲基金主导的去杠杆事件，而非AI需求转弱的信号——这一判断直接决定了当前是否值得入场，以及如何入场。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，高盛FICC与股票交易台10月26日发布报告称，&lt;strong&gt;过去两周全市场TMT净卖出规模已累计达约200亿美元，逼近今年7月那轮AI抛售期两周内230亿美元的历史峰值&lt;/strong&gt;。与此同时，高盛风险偏好指标单日降幅居历史前列，回落至去年4月以来最低水平；纳斯达克100对标普500的隐含波动率价差扩至近五年高位98分位。高盛交易台判断，&lt;strong&gt;卖压集中在筹码层面而非基本面层面，拥挤头寸已大幅出清，当前是选择性重新布局AI的时机&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;高盛建议按顺序接回AI敞口：&lt;strong&gt;优先电力（Power），其次超大规模云（Hyperscalers），再次推理（Inference）与网络安全（Cyber）&lt;/strong&gt;。此外，报告明确列出“去杠杆而非需求转弱”这一判断成立与否的验证条件，验证窗口为2026年10月28日至11月6日，涵盖FOMC议息会议、微软、谷歌、亚马逊、英特尔财报周及甲骨文分析师日。&lt;/p&gt;
 仓位事件，而非需求事件
@@ -128,7 +92,43 @@ Anthropic上市申请重燃AI投资热情
 &lt;p&gt;&lt;strong&gt;财富效应共振：&lt;/strong&gt;今日发布的《2026胡润百富榜》中，宇树科技王兴兴以695亿元上榜，DeepSeek梁文锋以2800亿元位列第七，AI与机器人造富叙事进一步强化题材情绪。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;摩根大通称，若物理AI能力突破压缩到&amp;quot;数年尺度&amp;quot;，已部署机器人的数据、测试和开发者价值可能被重新定价；但能否落到收入端，仍取决于试点能否转化为持续企业订单。&lt;/p&gt;
-&lt;p&gt;国信证券表示，人形机器人产业将凭借高度智能化和灵活性，创造出更为多元的应用场景，极大拓宽市场覆盖范围，进一步释放商业价值与发展潜力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落</title><link>https://wallstreetcn.com/articles/3784464</link><guid>a6da952cca057aff5cee21936121513457d27a283a7962826f4549428c451ac2</guid><pubDate>Mon, 26 Oct 2026 21:37:49 GMT</pubDate><description>&lt;p&gt;Anthropic提交IPO申请，人工智能融资叙事在关键一周开局重燃，美股主要指数周一全线收涨，但成交偏淡、涨势结构分化。&lt;/p&gt;
+&lt;p&gt;国信证券表示，人形机器人产业将凭借高度智能化和灵活性，创造出更为多元的应用场景，极大拓宽市场覆盖范围，进一步释放商业价值与发展潜力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚洲股市反弹走高，韩股收涨3.1%，SK海力士涨逾5%，油价续跌，金价再跌破4000</title><link>https://wallstreetcn.com/articles/3784535</link><guid>d57bbdf84f65a1bfd9bdca897ab982607145380ee7133f88e896f9ffb7176115</guid><pubDate>Tue, 27 Oct 2026 07:32:48 GMT</pubDate><description>&lt;p&gt;Anthropic的上市申请重燃市场对人工智能赛道的信心，亚洲科技股领涨，但美股期货走势分化显示涨势后劲存疑。本周美联储利率决议与科技巨头财报将成为AI交易能否持续复苏的关键考验。&lt;/p&gt;
+&lt;p&gt;Anthropic PBC提交IPO申请，成为推动全球股市周二延续涨势的核心催化剂。日经225指数收涨1.7%，报63268.37点。日本东证指数收涨0.6%，报3997.37点。韩国首尔综指收涨3.1%，报5638.35点。&lt;/p&gt;
+&lt;p&gt;然而，涨势后劲已现疲态。纳斯达克100指数期货小幅下跌0.1%，欧洲市场开盘亦偏弱。与此同时，全球基准油价布伦特原油下跌约1%，至每桶114.70美元左右，多国高级别官员赴德黑兰寻求重启外交斡旋、以遏制中东局势进一步升级。&lt;/p&gt;
+&lt;p&gt;在Anthropic之外，科技领域的大规模融资活动构成市场情绪的另一主要支撑。Meta Platforms寻求募资最高950亿美元，博通安排了一笔630亿美元的芯片采购融资交易，SpaceX签署了一份约400亿美元的设备融资租赁协议。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;日经225指数收涨1.7%，报63268.37点。日本东证指数收涨0.6%，报3997.37点。韩国首尔综指收涨3.1%，报5638.35点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率下降了2个基点，至4.97%&lt;/li&gt;
+&lt;li&gt;日本10年期收益率上涨1个基点，至2.790%&lt;/li&gt;
+&lt;li&gt;布伦特原油下跌约1%，至每桶114.70美元左右&lt;/li&gt;
+&lt;li&gt;现货黄金跌破4000美元/盎司，日内跌0.4%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+Anthropic上市申请重燃AI投资热情
+
+&lt;p&gt;Anthropic提交了市场期待已久的S-1招股文件，成为首家主要专注于开发前沿AI模型并谋求上市的公司。此次申请发生于AI板块经历估值过高与资本支出持续高企等担忧所引发的大幅回调之后，投资者正仔细研读文件，寻找AI需求是否依然强劲的信号。&lt;/p&gt;
+&lt;p&gt;野村资产管理首席策略师Hideyuki Ishiguro表示，&amp;quot;Anthropic的IPO申请预计将重新点燃市场对AI领域的兴趣。&amp;quot;他指出，鉴于当前半导体股估值已趋于合理，技术面信号亦有所改善，相关板块有望在短期内实现反弹。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;华尔街与机构资本的热情亦有据可查。贝莱德全球固定收益首席投资官Rick Rieder在接受彭博电视专访时表示，&amp;quot;这是我职业生涯中见过的最令人振奋的投资时期之一。我整个周末都在研究这些交易，并以相当大的规模参与了其中部分项目。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+融资狂潮背后，可持续性受到质疑
+
+&lt;p&gt;尽管AI赛道热度未减，资本快速涌入的速度也引发了审慎声音。债务与股权融资持续攀升，加之前沿AI实验室普遍存在大量现金消耗，部分分析人士对这种融资模式的可持续性表示担忧。&lt;/p&gt;
+&lt;p&gt;美国国债市场的表现则与科技股情绪形成对照。本月AI相关股票抛售、法国债务危机以及中东持续紧张局势的叠加效应，推动全球资金流向美国国债避险。基准10年期美债收益率10月以来已累计下行逾30个基点，有望终结持续七个月的升势，周二进一步下行2个基点至4.97%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;彭博美元强度指数则基本延续了过去两个交易日的涨势。&lt;/p&gt;
+
+美联储决议与科技财报构成双重考验
+
+&lt;p&gt;市场本周面临两大关键风险节点。美联储将于周三公布利率决议，市场普遍预期维持利率不变，此前美联储已于9月加息一次。目前市场定价显示，本次会议加息概率仅约10%，但年内再度加息的概率已超过70%。&lt;/p&gt;
+&lt;p&gt;CIBC股票与投资组合策略主管Christopher Harvey在研报中写道，&amp;quot;本周财报密集发布，通常来说宏观因素会退居次席，但美联储周三的议息会议可能带来一场相当棘手、复杂的发布会，这一局面不容忽视。&amp;quot;&lt;/p&gt;
+&lt;p&gt;科技巨头财报方面，Alphabet与微软将于周三发布业绩，亚马逊与英特尔紧随其后于周四公布结果。投资者重点关注这些AI领域最大买单方的资本支出计划，以及相关投资能否带来与之相称的回报。&lt;/p&gt;
+&lt;p&gt;Fibonacci Asset Management Global首席执行官Jung In Yun表示，&amp;quot;关键问题在于，本周业绩能否重建市场对AI需求持续性的信心。要使此轮复苏具备持久性，我们需要看到令人鼓舞的盈利指引，以及外资持续买入的迹象。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落</title><link>https://wallstreetcn.com/articles/3784464</link><guid>a6da952cca057aff5cee21936121513457d27a283a7962826f4549428c451ac2</guid><pubDate>Mon, 26 Oct 2026 21:37:49 GMT</pubDate><description>&lt;p&gt;Anthropic提交IPO申请，人工智能融资叙事在关键一周开局重燃，美股主要指数周一全线收涨，但成交偏淡、涨势结构分化。&lt;/p&gt;
 &lt;p&gt;美联储决议前夕，美债市场维持平静。油价小幅回落，但中东风险溢价未退。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic PBC正式递交IPO申请，重燃投资者对AI基础设施叙事的信心，带动费城半导体指数单日上涨约3%，纳斯达克100指数涨1.1%，标普500指数收涨0.7%，终结连续两周回调。&lt;/p&gt;
