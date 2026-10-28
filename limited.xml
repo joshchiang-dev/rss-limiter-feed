@@ -1,217 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 28 Oct 2026 08:00:09 GMT</lastBuildDate><item><title>[华尔街见闻] 需求是供应的两倍！SK海力士电话会：DRAM和HBM产能售罄至2029年，明年资本开支将“大幅增加”</title><link>https://wallstreetcn.com/articles/3784653</link><guid>1f4618a9c213493c24a77ea3cb59315a00b079e0cfcd88086534cfdf9dcfe837</guid><pubDate>Wed, 28 Oct 2026 07:09:20 GMT</pubDate><description>&lt;p&gt;AI内存超级周期进入新阶段！SK海力士三季度营收历史性突破百万亿韩元，管理层在电话会议上宣告当前AI内存需求火爆导致“客户需求是供应量的两倍”，其核心HBM和DRAM产能更是通过长期协议“在2029年之前实际上已全部售罄”。&lt;/p&gt;
-&lt;p&gt;10月28日，SK海力士在2026年三季度业绩发布会上交出了一份历史级成绩单——&lt;a href="https://wallstreetcn.com/articles/3784619"&gt;单季营收首次突破100万亿韩元，营业利润率攀升至80%的历史峰值&lt;/a&gt;。更关键的是，管理层在电话会上明确表示：结合长期供应协议（LTA）锁定量和正在洽谈中的客户需求，“我们&lt;strong&gt;DRAM和HBM未来三年（截至2029年）的产能实际上已全部售罄&lt;/strong&gt;”，而“&lt;strong&gt;客户的采购需求量超出我们当前供应能力的两倍以上&lt;/strong&gt;”。&lt;/p&gt;
-&lt;p&gt;与此同时，比起后视镜里的惊艳业绩（营收104.62万亿韩元，营业利润83.33万亿韩元），市场与投资者更关注的是这场AI盛宴的可持续性。面对外界对AI变现能力及资本支出节奏的担忧，SK海力士管理层在电话会中抛出了极其强劲的前瞻指引：&lt;strong&gt;公司的商业模式正在从传统的“周期性波动”转向基于长期协议的“高可见度确定性增长”&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;正如公司CEO 在电话会结尾总结的那样：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;我们已经连续六个季度创下历史纪录，但我们认为更重要的是底层商业环境正在发生改变。我们通过技术领导力建立的客户信任，正在转化为长期协议，赋予我们更强的中长期需求可见度，以及更坚实的持续盈利基础。这意味着，一个有别于过去的新增长阶段，正在通过商业结构的具体变化得以显现。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;SK海力士全天高开高走，在财报公布之后更是进一步扩大涨幅，盘中一度涨超11%，收盘涨10.89%。韩国KOSPI指数收盘涨超6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-“需求是目前供应量的两倍”，未来三年产能已实质性售罄
-&lt;p&gt;本次电话会中最令市场振奋的增量信息，无疑是SK海力士长达数年的订单能见度。&lt;/p&gt;
-&lt;p&gt;管理层透露，目前，SK海力士已与包括全球主要云服务提供商（CSP）在内的&lt;strong&gt;14家核心客户&lt;/strong&gt;签署了长期供应协议（LTA），协议通常为五年期，并正在与部分客户探讨延长合同期限。LTA锁定的供应量已&lt;strong&gt;占2027年和2028年总产能的50%以上&lt;/strong&gt;，并计划在中长期维持这一比例。&lt;/p&gt;
-&lt;p&gt;LTA定价结构设有与客户协商一致的价格区间，并纳入定金等保障机制，以确保客户采购计划转化为实际订单和出货，同时支撑公司稳定盈利并捕捉市场价格改善机遇。&lt;/p&gt;
-&lt;p&gt;在回应高盛分析师Giuni Lee关于LTA意义的提问时，SK海力士管理层给出了迄今最清晰的供需判断：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;LTA已锁定的供应量，加上目前正与客户洽谈中的需求，意味着我们未来三年截至2029年的DRAM和HBM产能实际上已全部售罄（effectively sold out）。洽谈中的量基于客户具体采购计划，兑现概率极高。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在回应HBM需求可持续性时，管理层进一步给出量化表述：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;需求如此旺盛，客户的采购需求量超出我们当前供应能力的两倍以上（more than double that of what we can supply today），这也印证了客户对我们产品持续强烈的偏好。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-供给缺口看至2030年，2027年资本开支将“大幅增加”
-&lt;p&gt;SK海力士&lt;strong&gt;首席财务官Woo Hyun Kim&lt;/strong&gt;在展望中给出了多项具体预测数字：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 28 Oct 2026 08:29:25 GMT</lastBuildDate><item><title>[华尔街见闻] 强劲业绩点燃芯片热情，韩股收涨6%重回6000点，美股盘前SK海力士涨约8%，希捷科技跌约4%，油价止跌</title><link>https://wallstreetcn.com/articles/3784634</link><guid>8b953f72cb5b44d7b7e2e733b8f4baedbcb25fd2316377dcf10219c6c1e854a5</guid><pubDate>Wed, 28 Oct 2026 08:07:16 GMT</pubDate><description>&lt;p&gt;SK海力士三季度营业利润同比暴增七倍，触发亚洲科技股全面反弹，韩国综合股价指数单日大涨逾6%，创三个月来最大涨幅，AI交易信心随之显著回升。&lt;/p&gt;
+&lt;p&gt;美股盘前，SK海力士涨约8%，公司三季度营业利润同比暴增7倍，祭出百万亿韩元史诗级股东回报。希捷科技跌约4%，公司季度业绩指引逊色于分析师预期。恩智浦跌约8%，公司Q3营收增19%超预期，但Q4指引低于预期。SK海力士同日宣布规模约百万亿韩元的股东回报计划，进一步提振市场情绪。&lt;/p&gt;
+&lt;p&gt;此次反弹出现在芯片股经历数周调整之后，投资者重新押注AI主题交易具备持续性。纳斯达克100指数期货盘前上涨0.5%，Alphabet及微软将于本周陆续公布财报，有望进一步检验这轮反弹的根基。&lt;/p&gt;
+&lt;p&gt;市场在为AI热情定价的同时，还需应对美联储政策方向带来的压力。美联储预计将在本次会议上维持利率不变，但主席沃什届时可能面临压力，需就当前暂停加息的理由作出解释——上个月美联储曾一致投票决定加息以应对通胀压力。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;全球CSP资本开支2027年预计增长&lt;strong&gt;超过60%&lt;/strong&gt;，已锁定电力容量同比增长&lt;strong&gt;超过100%&lt;/strong&gt;；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;全球AI数据中心基础设施市场预计到2030年保持&lt;strong&gt;40%的年均增长率&lt;/strong&gt;；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2027年DRAM市场可实现需求增速约&lt;strong&gt;20%中段（mid 20%）&lt;/strong&gt;，NAND约&lt;strong&gt;10%高段（high 10%）&lt;/strong&gt;；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2027年公司绝对营收和利润预计均将达到&amp;quot;&lt;strong&gt;显著更高的水平&lt;/strong&gt;&amp;quot;；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2027年资本开支将较2026年显著增加&lt;/strong&gt;，用于先进制程设备投入、龙仁（Yongin）第一座晶圆厂投产以及国内外基础设施加速建设。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;美股盘前，希捷科技跌约4%，公司季度业绩指引逊色于分析师预期。恩智浦跌约8%，公司Q3营收增19%超预期，但Q4指引低于预期。SK海力士涨约8%，公司三季度营业利润同比暴增7倍，祭出百万亿韩元史诗级股东回报。&lt;/li&gt;
+&lt;li&gt;欧洲斯托克50指数开盘涨0.2%，德国DAX指数跌0.2%，英国富时100指数跌0.3%，法国CAC 40指数涨0.3%。&lt;/li&gt;
+&lt;li&gt;日经225指数收涨1.1%，报63954.19点。日本东证指数收跌0.1%，报3991.71点。韩国首尔综指收涨6.6%，报6012.44点。SK海力士涨近11%，三星电子涨约9%。&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率上涨3个基点，至5.02%&lt;/li&gt;
+&lt;li&gt;日本10年期收益率上涨3个基点，至2.825%&lt;/li&gt;
+&lt;li&gt;现货黄金下跌0.7%，报每盎司4,029.94美元&lt;/li&gt;
+&lt;li&gt;布伦特原油结束两日连跌，上涨1.8%至每桶约115.90美元。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;管理层同时强调供给端约束的结构性：&lt;strong&gt;&amp;quot;由于先进制程实施难度不断上升，以及新建产能所需的建设周期，供不应求的格局预计将持续至2030年。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为了应对这种长期结构性短缺，SK海力士对未来的产能扩张给出了明确指引：“&lt;strong&gt;随着我们投资于先进制程设备、龙仁第一座晶圆厂的产能爬坡，以及国内外基础设施投资的加速，我们预计2027年的资本支出将较2026年大幅增加。&lt;/strong&gt;”&lt;/p&gt;
-&lt;p&gt;对于供应过剩风险，管理层表态审慎：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;更多投资、更多晶圆厂，并不等于更多供应。随着HBM等高性能产品占比提升，制程日益复杂，生产所需资源增多，但靠更精细制程来提升位元产出已越来越受限。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-部分大客户将HBM从12层降到8层？“不会影响我们的生意”
-&lt;p&gt;针对市场热议的“部分大客户将HBM从12层降至8层”是否会影响公司业绩的担忧，SK海力士在电话会上给出了明确的硬核回击。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784566"&gt;华尔街见闻文章&lt;/a&gt;此前写道，此前媒体爆料称，为缓解供应链压力，英伟达悄然下调HBM4带宽指标，并将12层堆叠降级至8层混配。&lt;/p&gt;
-&lt;p&gt;对此，管理层指出，这种规格调整恰恰是“需求远超供应”的真实写照：“&lt;strong&gt;由于HBM供应依然受限，客户需要用有限的数量构建更多的AI加速器和系统。因此，我们将降低堆叠层数视为一种策略，即在相同总容量下获取更多的Cube（封装体）。&lt;/strong&gt;”&lt;/p&gt;
-&lt;p&gt;管理层进一步解释，层数降低并不必然导致HBM容量需求等比例下降：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;即便从12层HBM4降至8层HBM4E，每颗die容量的提升可以抵消相当大一部分影响。因此，即使考虑此类调整，我们对中长期HBM需求的展望也没有改变。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;更关键的是，层数的减少并不会削弱SK海力士的生意。管理层解释称：“提供相同比特容量但层数更低的产品，需要更多的Cube，这反过来增加了对基础裸片（base dies）和后道工序的需求。我们已经将此纳入生产和供应计划。”&lt;/p&gt;
-&lt;p&gt;管理层强调：&lt;strong&gt;“盈利能力并非单由层数决定，而是由每个产品的交易条款、产品组合、良率、后道生产效率和成本综合决定。”&lt;/strong&gt;明年HBM4占比和价格将提升，量产良率和成本竞争力将进一步改善，预计HBM营收和利润将同比大幅增长，“从盈利角度看，远高于过去周期的峰值水平”。&lt;/p&gt;
-四季度指引：HBM4超越HBM3E，DRAM出货环比增长约25%
-&lt;p&gt;SK海力士首席财务官Woo Hyun Kim披露，四季度公司将进一步加速扩产以主动应对市场需求：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;DRAM：&lt;/strong&gt;1c纳米制程扩产与M15X产线的HBM4增产将同步推进，四季度出货量预计环比增长&amp;quot;&lt;strong&gt;约25%（mid 20%）&lt;/strong&gt;&amp;quot;。传统DRAM方面，将快速提升服务器1c纳米产品占比，并扩大1c纳米DDR5和AI服务器LPDDR5 SOCAMM销售。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;HBM4：&lt;/strong&gt; &amp;quot;12层HBM4按照与主要客户商定的时间表顺利出货；M15X年底前达满产。&amp;quot; &lt;strong&gt;四季度HBM4预计在HBM总出货量和营收占比上均将超越HBM3E，成为旗舰产品。&lt;/strong&gt;公司已与主要客户敲定明年HBM供应量和价格，&amp;quot;如实反映了HBM4的产品价值提升，HBM与通用DRAM之间的盈利能力差距预计将显著收窄&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NAND：&lt;/strong&gt; 四季度位元出货预计环比增长&amp;quot;&lt;strong&gt;mid-single percent（约5%）&lt;/strong&gt;&amp;quot;；321层工艺占韩国本土产能比例将扩大至50%以上，扩大321层企业级SSD供应；同步拓展适用于KV Cache分层的高性能、高密度企业级SSD供应。&lt;/p&gt;
-&lt;p&gt;公司还透露，在下一代产品方面，HBM4E已于二季度完成样品出货，研发和客户认证正按照客户时间表推进；同时正与主要客户在定制化HBM（Custom HBM）项目上紧密合作。&lt;/p&gt;
-&lt;p&gt;另外，在向市场展示未来数年极高盈利确定性的同时，&lt;strong&gt;SK海力士抛出了一份规模空前的股东回报计划，以此对冲高额资本支出可能引发的自由现金流担忧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司宣布，2026财年计划合计向股东返还约100万亿韩元（包含逾30万亿韩元现金分红及逾60万亿韩元股份回购与注销）。其中，第三季度派息20,000韩元/股中，有一半（10,000韩元）是源自对日本铠侠（Kioxia）投资收益的“特别股息”。&lt;/p&gt;
-&lt;p&gt;管理层表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我们认为目前的股价被低估了，没有充分反映我们的盈利和现金流。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;SK海力士2026年Q3财报电话会议全文实录如下（由AI辅助翻译）：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;公司参会人员&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kwak Noh Jung，总裁兼首席执行官&lt;/p&gt;
-&lt;p&gt;Seong Hwan Park，投资者关系负责人&lt;/p&gt;
-&lt;p&gt;未具名发言人&lt;/p&gt;
-&lt;p&gt;Woo Hyun Kim，副总裁兼首席财务官及财务负责人&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其他参会人员&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dong-Hee Han，SK证券&lt;/p&gt;
-&lt;p&gt;Giuni Lee，高盛&lt;/p&gt;
-&lt;p&gt;Jay Kwon，摩根大通&lt;/p&gt;
-&lt;p&gt;Peter Lee，花旗集团&lt;/p&gt;
-&lt;p&gt;Simon Woo，美国银行&lt;/p&gt;
-&lt;p&gt;Sunwoo Kim，Meritz证券&lt;/p&gt;
-&lt;p&gt;Young-ho Ryu，NH投资证券&lt;/p&gt;
-&lt;p&gt;Youngjin Kim，未来资产证券&lt;/p&gt;
-&lt;p&gt;陈述内容&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早上好，感谢参加SK海力士财报发布电话会议。今天，我们将首先进行SK海力士的财报演示，随后进行问答环节。（主持人说明）请注意，演示部分将进行同声传译，问答环节将进行交替传译。现在，我们准备开始。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早上好、下午好、晚上好。我是SK海力士投资者关系负责人 Park Seong-Hwan。 欢迎参加SK海力士2026年第三季度财报发布电话会议。请允许我介绍今天与我一同出席的高管。出席本次会议的有：总裁兼首席执行官 Kwak Noh Jung；首席财务官 Kim Woo-Hyun；DRAM营销负责人 Park Jun-Deok；NAND营销负责人 Song Chang-Seok；以及HBM销售与营销负责人 Kim Ki-Tae。&lt;/p&gt;
-&lt;p&gt;请允许我发表免责声明：本次电话会议中所包含的第三季度业绩为合并数据，且为初步数据，外部审计师的审阅工作尚未完成，因此相关数据仍可能发生变动。此外，包括市场展望及公司计划在内的前瞻性陈述，可能会因宏观经济及市场环境的变化而有所调整。&lt;/p&gt;
-&lt;p&gt;接下来，我们正式开始SK海力士2026年第三季度财报发布电话会议。&lt;strong&gt;在财报演示开始之前，首席执行官 Kwak Noh Jung 将首先就Solidigm IPO及股东回报事宜发表讲话。随后，首席财务官 Kim Woo-Hyun 将就第三季度业绩、公司未来计划及市场展望进行演示。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kwak Noh Jung：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大家早上好。我是首席执行官 Kwak Noh Jung。在近期市场波动加剧的环境下，感谢各位股东对SK海力士始终如一的关注与信任，在此致以最诚挚的谢意。今天，我想直接向各位股东说明我们关于Solidigm IPO的决定——这一问题近期已引发市场的广泛关注——以及我们通过特别股息与股东共享战略投资回报的相关安排。&lt;/p&gt;
-&lt;p&gt;首先，Solidigm一直在探索融资方案，以支持扩大生产规模、满足需求增长等战略举措。在所考虑的各项方案中，通过IPO引入外部资本，原本有望减轻我们的投资负担，并提升我们对股东的回报能力。然而，在综合考量近期金融市场的波动以及半导体股票的调整行情后，Solidigm认为，&lt;strong&gt;目前推进IPO无法充分实现预期效益&lt;/strong&gt;，因此决定终止对Pre-IPO及IPO方案的评估工作。&lt;/p&gt;
-&lt;p&gt;Solidigm将继续深化自身竞争力，积极把握AI数据中心存储市场的增长机遇。为支持上述目标所进行的投资与融资安排，将以提升Solidigm与SK海力士双方企业价值及股东价值的方式稳步推进。&lt;strong&gt;我们始终坚守将战略投资大部分回报与股东共享的原则。&lt;/strong&gt; 通过将这些回报用于补充因未来持续投资而可能阶段性下降的股东回报能力，我们旨在切实保护股东利益，同时持续大胆投入，推动可持续增长。&lt;/p&gt;
-&lt;p&gt;秉承这一原则，我们计划&lt;strong&gt;将今年从铠侠（Kioxia）投资中实现的收益，以特别股息的形式回馈给股东&lt;/strong&gt;。我们将坚定履行这一承诺，确保股东能够直接分享我们战略投资成功所带来的成果。&lt;/p&gt;
-&lt;p&gt;接下来，首席财务官将向各位汇报本季度的业绩与展望，以及股东回报计划的具体细节。谢谢。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Woo Hyun Kim：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大家早上好，我是首席财务官Woo Hyun Kim。首先，请允许我介绍公司2026年第三季度的业绩情况。&lt;strong&gt;第三季度，由于AI存储器需求持续增长，供需关系依然紧张，存储器价格维持高位。DRAM和NAND均连续第二个季度录得较高涨价幅度，主要受HBM、服务器DRAM以及企业级SSD价格持续上涨的带动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，&lt;strong&gt;第三季度营收环比增长32%，同比增长328%，达到104.6万亿韩元。这是季度营收首次突破100万亿韩元，创历史新高。&lt;/strong&gt; 在DRAM方面，我们以AI服务器为中心扩大销售，按计划实现了约10%的环比比特出货量增长。特别是&lt;strong&gt;HBM4已于第三季度正式开始量产和出货&lt;/strong&gt;。此外，服务器DDR5的出货量较第二季度增长超过40%，推动了DRAM整体比特出货量的增长。&lt;/p&gt;
-&lt;p&gt;受传统DRAM价格持续强劲，以及售价高于上一代产品的HBM4销售占比扩大的影响，&lt;strong&gt;DRAM平均售价（ASP）上涨了约20%的高位，录得与上一季度相近的高增长率。&lt;/strong&gt; 在NAND方面，虽然我们调整销售策略，聚焦于321层TLC企业级SSD等高附加值产品，导致比特出货量较第二季度略有下降，但由于整体价格强劲以及SSD销售占比扩大，&lt;strong&gt;ASP上涨了约20%的中位水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管受韩元走强带来的不利汇率影响，但产品价格上涨以及高附加值产品销售扩大，&lt;strong&gt;使第三季度营业利润达到83.3万亿韩元，环比增长38%，同比增长632%。营业利润率环比提升3个百分点，达到80%，营业利润和营业利润率均创下季度历史新高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;第三季度，折旧及摊销费用合计4.3万亿韩元。&lt;strong&gt;EBITDA达到87.7万亿韩元，EBITDA利润率为84%。&lt;/strong&gt; 在主要非经营性项目方面，受汇率下跌影响产生外汇相关净损失11.6万亿韩元，以及投资资产估值损失22.9万亿韩元，非经营性费用合计32.6万亿韩元。因此，税前利润为50.7万亿韩元，净利润为39.8万亿韩元，净利润率为38%。&lt;/p&gt;
-&lt;p&gt;截至第三季度末，&lt;strong&gt;现金及现金等价物为114.5万亿韩元，较上季度末增加26.5万亿韩元。&lt;/strong&gt; 有息负债减少2.8万亿韩元至15.8万亿韩元。由此，&lt;strong&gt;净现金扩大至98.7万亿韩元，债务权益比较上季度末改善2个百分点至5%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;接下来，我将介绍市场展望。&lt;strong&gt;AI市场正在不断演进。&lt;/strong&gt; 随着AI在软件开发、客户响应、搜索等各领域推动生产力提升和新收入来源的产生，AI使用量的增加进一步促进了基础设施投资，形成良性循环。这一变化在全球主要云服务提供商（CSP）的投资规模和已获批电力容量中有所体现。根据市场调研机构的最新预测，&lt;strong&gt;2027年全球CSP资本支出预计将增长超过60%，已获批电力容量也预计同比增长超过100%。&lt;/strong&gt; 更值得关注的是，这一增长不会止步于明年。&lt;strong&gt;受AI服务商业化及应用领域扩展的驱动，全球AI数据中心基础设施市场预计将以每年约40%的高复合增长率持续增长至2030年。&lt;/strong&gt; 这一中长期增长趋势预计将持续下去。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特别是，随着AI规划复杂任务并借助多种工具长时间执行，AI的算力需求以及数据的生成、传输和存储量正在急剧增加。&lt;/strong&gt; 因此，整个存储器行业的需求增长幅度已大幅超出初始预期。AI基础设施投资正在从最初少数玩家抢先布局的阶段走向更广泛的企业和各国政府参与的阶段。因此，即便考虑到部分潜在的投资调整，我们预计AI基础设施投资的增长仍将保持强劲势头。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;短期内，企业级AI和个人AI预计将引领需求增长；中长期来看，自动驾驶和机器人等实体AI预计将进一步拓宽需求范围。&lt;/strong&gt; 虽然受存储器价格上涨带来的成本压力和供应短缺影响，PC和移动设备的出货量预计将有所下降，但AI基础设施需求的增长预计将足以弥补这一下滑，整体存储器市场将维持增长态势。&lt;/p&gt;
-&lt;p&gt;另一方面，&lt;strong&gt;存储器供应难以跟上如此高速的需求增长，因此我们预计近期内难以完全满足客户的量需求。&lt;/strong&gt; 鉴于先进制程实施的复杂性以及新建产能所需的建设周期，供应跟不上需求的局面预计将持续一段时间，&lt;strong&gt;这一供应瓶颈预计将延续至2030年。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管需求旺盛，但考虑到实际供应状况，&lt;strong&gt;2027年可实现的需求增长预计与今年相近，DRAM增长率约为20%的中位水平，NAND约为10%的高位水平。&lt;/strong&gt; 我们预计这一有利的市场环境将成为支撑公司明年业绩增长的坚实基础。基于扩大的产能和高附加值产品竞争力，我们计划在营收和利润的绝对值上均实现大幅提升。&lt;/p&gt;
-&lt;p&gt;接下来，我将介绍公司第四季度销售计划及未来运营方向。&lt;strong&gt;第四季度，我们计划进一步加快供应扩张，更加积极地响应市场需求。&lt;/strong&gt; 首先，在DRAM方面，1c纳米制程扩产带来的产量提升，以及通过M15X产能爬坡增加HBM4产量，将同步推进。因此，&lt;strong&gt;第四季度出货量预计将环比大幅增长约20%的中位水平。&lt;/strong&gt; 在传统DRAM方面，我们正在快速提升面向服务器应用的1c纳米产品占比。第四季度，我们计划通过扩大1c纳米DDR5和AI服务器LPDDR5 SOCAMM的销售，进一步强化以高附加值服务器产品为核心的产品组合。&lt;/p&gt;
-&lt;p&gt;我们12层高HBM4的出货正在按照与主要客户商定的时间表顺利推进。&lt;strong&gt;为积极响应客户需求的激增，我们正在加快M15X产能爬坡，计划于年底前达到满产。&lt;/strong&gt; 因此，&lt;strong&gt;第四季度HBM4预计将在HBM总出货量占比和营收占比上均超越HBM3E，成为我们的旗舰产品。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司已与主要客户完成明年的谈判，包括HBM的数量和价格。&lt;strong&gt;这些谈判充分体现了HBM4产品价值的提升。因此，我们预计HBM与传统DRAM之间的盈利差距将显著收窄。&lt;/strong&gt; 在NAND方面，第四季度我们计划将旗舰321层制程占国内产能的比例扩大至50%以上。通过这一举措，我们将扩大321层企业级SSD的供应，&lt;strong&gt;第四季度NAND比特出货量预计将环比增长中个位数百分比。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在供应扩张的基础上，我们计划进一步拓展NAND在AI基础设施市场中的角色和商业机会。我们将扩大适用于KV Cache分层的高性能、高密度企业级SSD的供应。&lt;strong&gt;中长期来看，通过HPF和系统优化技术，我们致力于将NAND演进为提升AI服务吞吐量和成本效率的核心解决方案。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为提升中长期需求的可见性并奠定稳定增长基础，我们正在持续扩大与客户的长期协议（LTA）。&lt;strong&gt;迄今为止，我们已与包括全球主要CSP在内的14家重要客户签署了LTA。&lt;/strong&gt; 虽然LTA通常以五年为基础，但我们正在主动与部分客户探讨延长现有合同期限。客户基于我们的产品路线图和供应能力寻求更长期合作的事实，表明LTA正在演变为强化客户关系和业务连续性的重要机制。&lt;/p&gt;
-&lt;p&gt;定价结构因客户和产品而异，但总体上设计为在与客户商定的价格区间内反映市场状况。此外，为确保客户的采购计划切实转化为实际订单和出货，我们加入了定金等保障条款。&lt;strong&gt;这一结构不仅有助于我们保持稳定盈利，也使我们能够通过反映市场价格和产品价值的改善来把握市场上行机会。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;LTA所锁定的数量目前已占我们2027年和2028年总产能的50%以上，为中长期利润稳定性和需求可见性奠定了基础。&lt;/strong&gt; 与此同时，为响应客户中长期需求及增长机会，我们正在持续推进扩大产能的投资。&lt;strong&gt;随着先进制程占比提升的设备投资、龙仁首座晶圆厂的产能爬坡，以及国内外基础设施投资的加速推进，预计2027年资本支出将较2026年大幅增加。&lt;/strong&gt; 投资规模和执行时机将综合考虑通过客户沟通所获得的中长期需求可见性、产品竞争力、盈利能力及投资效率后确定。&lt;/p&gt;
-&lt;p&gt;最后，请允许我说明股东回报计划。去年8月，我们宣布了包括40万亿韩元股份回购及注销在内的股东回报计划，并表示将在第三季度业绩说明会上提供额外股东回报的规模和方式的详细信息。今天，我将就该计划的执行情况进行更新，并介绍反映我们业绩改善和投资成果的额外股东回报方案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公司决定针对2026财年推进约100万亿韩元的股东回报。&lt;/strong&gt; 我们计划执行不低于30万亿韩元的现金分红，以及不低于60万亿韩元的股份回购与注销（含8月宣布的40万亿韩元）。其中，&lt;strong&gt;40万亿韩元的股份回购已于上周完成，即将予以注销。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;通过分红，我们将直接与股东分享业绩成果，并持续回购和注销股份，以确保每股价值能够适当反映公司内在价值。通过这些举措，我们将履行向股东返还超过50%自由现金流的承诺。&lt;strong&gt;今天，董事会决议进行14万亿韩元的现金分红和20万亿韩元的股份回购。&lt;/strong&gt; 其中，预计用于高管和员工薪酬的库存股约为10万亿韩元。扣除此部分，&lt;strong&gt;第三季度股东回报约为24万亿韩元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以下将逐项说明。首先，&lt;strong&gt;我们将扩大现金分红，以反映业绩改善和投资成果。&lt;/strong&gt; 我们将根据经营业绩确定分红水平，在发生重大投资收益的情况下，将通过特别股息的形式与股东额外分享这些成果。我们将把核心业务的经营成果以及投资资产的价值实现共同作为股东回报的来源。&lt;strong&gt;因此，第三季度每股分红定为20,000韩元，合计14万亿韩元。&lt;/strong&gt; 其中包括反映业绩改善的10,000韩元股息，以及分享Kioxia投资成果的10,000韩元特别股息。&lt;strong&gt;我们计划通过特别股息的形式将Kioxia投资收益的大部分返还给股东。&lt;/strong&gt; 其中一部分将作为本季度股息支付，剩余部分将在2026财年财务结果确定后纳入年终股息。&lt;/p&gt;
-&lt;p&gt;其次，&lt;strong&gt;我们将每季度持续回购股份。&lt;/strong&gt; 季度回购规模将由董事会综合考虑股价、市场状况和现金流后决议确定。&lt;strong&gt;本季度，我们计划合计回购20万亿韩元的股份。&lt;/strong&gt; 其中，10万亿韩元用于股东回报目的，将全部予以注销；如前所述，另外10万亿韩元用于高管和员工薪酬目的，不计入2026财年股东回报总额。&lt;/p&gt;
-&lt;p&gt;展望未来，&lt;strong&gt;基于强劲的存储器需求增长和公司的技术竞争力，我们将持续稳定地创造业绩，并与股东持续分享成果。&lt;/strong&gt; 谢谢。&lt;/p&gt;
-&lt;p&gt;以上就是我的陈述，现在开始接受提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问答环节&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员 （问答环节）：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;现在开始问答环节。（主持人提示）。第一个问题来自花旗集团的 Peter Lee，请提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Peter Lee&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;恭喜贵公司取得优异业绩。我的问题是关于 AI 投资方面的。我们看到 AI 投资持续增长，但似乎 AI 需求或 AI 基础设施建设所带来的变现效果迟迟未能实现。因此，市场上对于 AI 需求能否持续存在一些担忧。在此背景下，我的问题是，公司基于什么理由相信 AI 投资势头将会持续？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 未具名发言人&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;感谢您的提问。我们确实了解到目前市场上存在一些关于 AI 投资节奏的讨论，但我们认为这是一个正常过程的组成部分——客户正在更仔细地审视各个项目的可行性和盈利能力，并明确投资的时间节点和推进节奏。我们之所以认为 AI 投资势头将持续，主要有以下两个原因。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，我们看到客户的 AI 投资正在切实推动 AI 服务的更广泛应用，并产生实际的业务成果。&lt;/strong&gt; 在最新的业绩发布中，主要的超大规模云服务商客户报告其云收入同比增长 30% 至 80%，我们认为其中相当大一部分来自其 AI 业务的扩张。与此同时，我们也看到针对大规模企业 AI 解决方案的长期合同越来越多，云订单积压量同比增长了两倍至五倍。付费用户也在稳步增加，进一步印证了主要客户在多个领域 AI 相关销售和财务表现的持续增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;基于这一趋势，主要客户的 AI 销售额和现金流只会持续改善，这也将有助于缓解市场目前对投资负担的担忧。&lt;/strong&gt; 与此同时，客户正从多个角度努力缓解当前的制约因素，例如多站点部署、更易获取电力资源的中小型数据中心，以及升级现场发电和冷却技术，这些举措都将有助于减轻投资负担。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二个原因是，投资主体在结构上正变得更加多元化。&lt;/strong&gt; 早期的 AI 投资主要集中在少数大型科技公司，因此单一公司调整投资就可能直接导致整体需求出现波动。但如今，投资主体正在迅速扩大，也包括正在构建自身 AI 基础设施的非科技企业、主权 AI 投资，以及本地部署需求。&lt;strong&gt;这标志着一种结构性转变——部分投资者的投资调整将被其他投资者增加的需求所抵消。&lt;/strong&gt; 例如，即使某些项目的投资因利率压力而放缓，有政策支持的主权 AI 投资或更广泛的企业 AI 应用仍然可以填补这一缺口。随着参与主体更加多元、动机和资源各异的多层次结构逐步形成，单一公司的资金状况或投资调整对整体投资趋势的影响将越来越有限。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;综上所述，在实际业务成果的支撑以及投资主体日趋多元化的背景下，AI 投资和需求强度将保持足够强劲的态势。&lt;/strong&gt; 此外，在存储市场，我们预计目前需求超过供应的结构性供需失衡状态将在一段时间内持续。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;下一个问题由Meritz证券的Sunwoo Kim提出，请开始您的提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Sunwoo Kim：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谢谢。我也想祝贺公司取得了出色的业绩，并特别感谢CEO Kwak Noh-Jung对公司最新情况的介绍。我的问题是关于股东回报的。请问公司在&lt;strong&gt;股息分配和股份回购&lt;/strong&gt;之间的比例是如何确定的？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;非常感谢您的提问。对于我们来说，我们致力于在&lt;strong&gt;现金股息&lt;/strong&gt;和&lt;strong&gt;股份回购注销&lt;/strong&gt;之间寻求平衡，也就是在直接与股东分享业绩改善成果，以及通过减少流通股数量来提升每股价值这两种方式之间寻求平衡。&lt;/p&gt;
-&lt;p&gt;首先，我们将现金股息定在一个&lt;strong&gt;可持续的水平&lt;/strong&gt;。为此，我们综合考虑了业绩改善情况、历史股息收益率、全球同行股息收益率以及适当的现金持有水平。我们还计划在&lt;strong&gt;Kioxia投资回报&lt;/strong&gt;产生时，与股东分享这一有意义的回报。其中大部分将以&lt;strong&gt;特别股息&lt;/strong&gt;的形式派发，让股东能够切实感受到回报。尽管今年的账目尚未结清，我们认为提前与股东分享部分预期回报是有意义的。因此，&lt;strong&gt;部分特别股息将在第三季度提前派发&lt;/strong&gt;，其余部分将在投资回报最终确定后纳入年终股息。&lt;/p&gt;
-&lt;p&gt;在现金股息之后，&lt;strong&gt;总股东回报的剩余部分将用于股份回购&lt;/strong&gt;。我们认为，公司目前的股价被低估，未能充分反映我们的盈利能力和现金流水平。正因如此，我们认为&lt;strong&gt;股份回购与注销&lt;/strong&gt;是提升每股价值的有效方式。回购将在年度规模内每季度持续进行，董事会将综合考虑股价、估值、现金流等因素来确定每季度的回购规模。展望未来，我们将依托强劲的现金创造能力，&lt;strong&gt;切实落实股东回报政策&lt;/strong&gt;，并持续致力于提升股东价值。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;非常感谢。我们继续接受下一个问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;下一个问题将由来自高盛的Giuni Lee提出。请提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Giuni Lee&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;祝贺公司取得卓越业绩。我的问题是关于长期协议（LTA）的。此前有提到，目前通过LTA锁定的销量约占2027年和2028年总产能的50%。那么这对公司业绩以及长期增长潜力意味着什么？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 发言人&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;感谢提问。通过提高LTA覆盖率，我们的目标是改善长期需求能见度，从而实现稳定的营收和盈利增长。&lt;strong&gt;LTA已锁定的销量，加上目前正在与客户商讨的需求，意味着我们未来三年（至2029年）的DRAM和HBM销量实际上已全部售罄。&lt;/strong&gt; 目前商讨中的销量基于客户具体的采购计划，落地可能性极高。总体而言，我们认为公司中长期销售能见度已显著提升。&lt;/p&gt;
-&lt;p&gt;如前所述，&lt;strong&gt;LTA承诺的销量占2027年和2028年总产能的50%以上&lt;/strong&gt;，我们计划在中长期内维持这一比例。这一安排将帮助我们确保稳定的盈利空间。与此同时，我们可以利用非LTA产能灵活应对市场变化及下一代产品需求，持续增强未来竞争力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;谢谢。请下一个问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;下一个问题将由来自美国银行的Simon Woo提出。请提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Simon Woo&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;我的问题是关于可能出现产能过剩的情况，这是因为过去曾经历过一些艰难的周期。对于可能出现产能过剩的担忧，源于以下事实：由于目前市场需求持续强劲，海力士仍在持续新建晶圆厂，或对现有晶圆厂进行扩建和升级，包括龙仁的项目。那么，&lt;strong&gt;如果需求未能达到预期，公司的战略或管理层的应对方案是什么？&lt;/strong&gt; 同时，我也想祝贺公司取得优异业绩，以及发布了非常详尽的股东回报计划。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 发言人&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;感谢提问。确实，公司目前正在推进中长期投资，以满足强劲需求，并为技术迁移所需的设备和生产确保足够空间。&lt;strong&gt;但更多的投资或更多的晶圆厂，并不一定意味着更多的供应。&lt;/strong&gt; 随着HBM等高性能产品占比提升以及制程工艺日益复杂，生产所需资源不断增加，而通过更精细工艺来提升比特产出正变得越来越受限。因此，我们今天的投资不仅是为了扩大产能，也是为了建立技术迁移和高附加值产品线扩张所需的生产基础。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我们的投资将分阶段执行。&lt;/strong&gt; 基础设施将提前准备好，以应对中长期需求。但增加供应所需的关键资源，如设备导入和量产爬坡，将根据需求进行调整。例如，对于包括龙仁集群和M17在内的新晶圆厂，我们计划加快主体结构建设，但洁净室将分阶段开放。这一方式专门旨在确保未来运营的灵活性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在评估需求时，我们不仅关注客户的资本支出或需求预测，还会审查其财务状况和资金能力，以及关键供应链的准备情况&lt;/strong&gt;，然后再将其纳入我们的投资计划。公司自身的财务稳健性也是一个重要参数。在考虑中长期净现金目标和适当现金持有量以维持充足财务空间的同时，我们将根据需求能见度和投资回报来管理投资规模和节奏。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;总结而言，我们将按计划基于改善的需求能见度，准备中长期供应基础设施，但实际产能爬坡将严格与需求和盈利能力挂钩。&lt;/strong&gt; 如果实际情况与预期有所不同，我们将通过灵活调整投资支出、生产计划和资源分配，确保有效应对各类风险。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;谢谢。请下一个问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;下一个问题将由摩根大通的 Jay Kwon 提出，请开始提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Jay Kwon&lt;/strong&gt; 恭喜贵公司取得良好业绩，非常感谢您接受我的提问。刚才提到了 HBM4 的供应情况，我想进一步了解 HBM4 供应的具体细节，另外能否分享一下后续产品 HBM4E 以及定制化 HBM 的相关计划？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 未具名发言人&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;非常感谢您的提问。如前所述，&lt;strong&gt;得益于量产进展顺利，HBM4 预计将在第四季度在比特出货量和收入占比两个维度上均超越 HBM3E。&lt;/strong&gt; 良率也相当稳定。公司在晶圆厂和后端工序上均保持着行业最佳良率水平。尤其值得一提的是，我们所说的后端良率涵盖整个流程，而不仅仅是凸块、堆叠或 KGSD 测试等单独环节。在此基础上，&lt;strong&gt;HBM4 已经超出了既定的良率目标，因此目标已被上调。&lt;/strong&gt; HBM3E 也已超过了规划中的成熟良率。&lt;/p&gt;
-&lt;p&gt;目前，我们专注于最大化产能，以满足客户的强劲需求。我们在 HBM 业务上的表现将再次彰显我们无与伦比的竞争力。当然，我们也在稳步推进下一代产品的准备工作。&lt;strong&gt;例如，HBM4E 已于第二季度完成样品出货，开发与认证工作正按照客户时间节点有序推进。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;展望更长远的未来，除了稳定供应标准 HBM 之外，我们也看到定制化 HBM 的重要性日益凸显——它针对每位客户的系统和工作负载进行专项优化。因此，我们正与主要客户就相关项目展开紧密合作。作为核心客户的首选供应商，我们将凭借经过验证的产品竞争力和可靠的量产能力，持续推动 HBM 业务增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;谢谢。下一个问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;下一个问题将由 SK 证券的 Dong-Hee Han 提出，请开始提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Dong-Hee Han&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;感谢接受我的提问，我的问题同样关于 HBM，具体是关于降低 HBM 堆叠层数的可能性。请问公司如何看待缩短 HBM 堆叠层数这一可能性？这对 HBM 业务，包括出货量和盈利能力，可能会产生怎样的影响？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感谢您的提问。&lt;strong&gt;近期部分客户调整 HBM 规格的举动，恰恰说明需求确实远超供应。&lt;/strong&gt; 由于 HBM 供应持续紧张，客户需要用有限的数量来构建更多 AI 加速器和系统。因此，我们认为降低堆叠层数是一种策略，旨在以相同容量获取更多芯片颗粒（cube）。&lt;/p&gt;
-&lt;p&gt;话虽如此，&lt;strong&gt;堆叠层数降低并不一定意味着 HBM 容量等比例下降。&lt;/strong&gt; 即便从 12 层堆叠的 HBM4 切换到 8 层堆叠的 HBM4E，每颗裸片容量的提升也可以抵消相当大一部分影响。因此，即便考虑到上述调整，我们对 HBM 中长期需求的展望依然不变。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需求依然十分强劲，客户的采购量需求超过我们当前供应能力的两倍以上，&lt;/strong&gt; 这也充分体现了客户对我们产品持续强烈的偏好。供应端同样不会受到影响。以更少的堆叠层数供应相同比特量，需要更多的芯片颗粒，进而增加对基础裸片和后端加工的需求。我们已将这一因素纳入生产和供应计划，将按计划执行 HBM 出货与供应。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;至于盈利能力，它并不单纯由堆叠层数决定，&lt;/strong&gt; 而是由多重因素综合影响，包括各产品的交易条款、产品组合、良率、后端生产效率及成本等。&lt;strong&gt;明年，HBM4 的占比及其价格将提升，同时量产良率和成本竞争力将进一步改善，HBM 收入和利润有望实现显著的同比增长，盈利能力也将大幅提升。&lt;/strong&gt; 展望未来，盈利能力预计将持续维持在高位，远超以往周期的峰值水平。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;谢谢。下一个问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;下面的问题将由未来资产证券的Youngjin Kim提出。 请开始您的提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Youngjin Kim：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;首先恭喜公司取得创纪录的业绩。我的问题是关于4F-square的。我们看到其他公司也在研究新的存储单元结构和下一代DRAM技术，这引发了外界对长期技术竞争的高度关注。请问公司在4F-square的准备工作方面有何最新进展？公司在哪些领域重点发力，以强化技术竞争力？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感谢您的提问。4F-square是一种下一代DRAM技术，其存储单元面积小于6F-square，从而实现更高的存储密度。其适用性和战略方向取决于各公司的制程微缩能力、工艺环境和成本结构。就本公司而言，我们的开发计划是：通过工艺成熟化和稳定的技术平台，尽可能延续6F-square结构的使用，之后再向4F-square或3D DRAM平台过渡。&lt;/p&gt;
-&lt;p&gt;通过基于EUV的制程微缩和工艺创新，我们已具备进一步延伸现有6F-square平台的技术能力。因此，我们认为，&lt;strong&gt;目前对公司而言最高效的策略，是充分发挥这一量产可靠性和成本竞争力均已得到验证的平台优势，进一步提升产品竞争力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;要将新的存储单元结构应用于产品，不仅需要确保性能，还必须保障&lt;strong&gt;良率、可靠性和成本竞争力&lt;/strong&gt;。除此之外，产品设计和客户认证也必须全部完成。这正是技术开发时间节点与商业化时间节点相互独立的原因所在。&lt;/p&gt;
-&lt;p&gt;我们正在制定一套&lt;strong&gt;分步骤推进的技术路线图&lt;/strong&gt;，涵盖从现有DRAM的极限微缩，到4F-square，再到3D DRAM的完整路径。每项技术将在合适的时机应用于合适的产品——所谓&amp;quot;合适的时机&amp;quot;，是指在技术和经济层面均已成熟就绪之时。我们将持续发挥在工艺与设计能力、量产经验及客户协作方面的优势，通过综合性能、成本效益与可量产性，持续保持在下一代DRAM领域的技术竞争力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谢谢。我们将进行最后一个问题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最后一个问题将由NH投资证券的Young-ho Ryu提出。 请开始您的提问。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问 - Young-ho Ryu：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感谢给我提问的机会，我的问题关于NAND。我们注意到，近期KV缓存的规模正在快速增长，目前也有研究正在探索如何跨多个存储层级对其进行存储和复用。请问公司预计这一趋势将如何影响未来的NAND需求？公司又在为此做哪些准备？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感谢您关于NAND的提问。随着&lt;strong&gt;智能体AI（Agentic AI）和长上下文应用场景的普及，KV缓存的规模正在快速扩大&lt;/strong&gt;，受容量和成本限制，已难以全部存储于HBM或DRAM中。因此，&lt;strong&gt;分层存储架构&lt;/strong&gt;的重要性日益凸显——该架构根据数据访问频率，将数据分布存储于HBM、DRAM和SSD之间。这一趋势预计将为NAND创造新的需求，用于存储和复用AI推理所需的上下文信息。SSD已在部分AI系统中被用于承接KV缓存的卸载，我们相信其角色将进一步扩展为&lt;strong&gt;上下文存储层&lt;/strong&gt;，支持多台服务器和GPU共享大规模KV缓存。&lt;/p&gt;
-&lt;p&gt;为把握这一机遇，公司正在开发多项存储分层技术，包括&lt;strong&gt;面向KV的语义感知生命周期分层技术（SALT-KV）&lt;/strong&gt;和&lt;strong&gt;CMM-Hybrid&lt;/strong&gt;。SALT-KV是一种软件技术，通过评估每个KV缓存的复用价值与存储成本，优化数据在HBM、DRAM和SSD之间的分配。CMM-Hybrid是一种&lt;strong&gt;基于CXL的混合存储技术&lt;/strong&gt;，将完整的KV缓存存储于SSD，并通过预测哪些数据可能被调用，提前将其预加载至DRAM。&lt;/p&gt;
-&lt;p&gt;近期，我们通过基于真实AI工作负载的系统演示，正在针对实际推理环境定义eSSD的适用性和性能要求，以推动其被客户及平台合作伙伴的架构所采纳。从&lt;strong&gt;中长期来看&lt;/strong&gt;，我们计划利用&lt;strong&gt;HPS（高性能存储）&lt;/strong&gt;来填补HBM与SSD之间新兴存储层级的空白——HPS将高带宽与NAND的高容量、高成本效益相结合。通过&lt;strong&gt;抢先布局AI系统架构变革所带来的NAND新需求机遇&lt;/strong&gt;，我们将推动NAND业务的持续增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感谢各位的解答。由于时间关系，本次问答环节到此结束。接下来，我们将以CEO的闭幕致辞，为SK海力士2026年第三季度业绩发布电话会议画上句点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Kwak Noh Jung：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们已连续&lt;strong&gt;六个季度创下历史最佳业绩&lt;/strong&gt;，但我们认为更具深远意义的是，&lt;strong&gt;底层商业环境正在发生根本性变化&lt;/strong&gt;。我们凭借技术领先所建立的客户信任，正在转化为长期合作协议，这为我们带来了更清晰的中长期需求能见度，也为持续盈利奠定了更坚实的基础。这意味着，&lt;strong&gt;有别于过去的新增长阶段的潜力，正通过我们业务结构的具体变化而逐步显现。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们当前的任务，是将这些变化转化为&lt;strong&gt;持久的竞争优势&lt;/strong&gt;。我们将把包括HBM在内的存储器现有领先地位延伸至下一代产品，成为客户面向未来布局时&lt;strong&gt;首先寻求合作的伙伴&lt;/strong&gt;。我们将把市场机遇转化为实际成果，并进一步强化持续创造业绩的能力。随着业务规模的扩大和投资回报的实现，&lt;strong&gt;我们与股东共享的回报也应相应提升&lt;/strong&gt;。今日发布的股东回报计划正是这一原则的体现。我们将通过持续的业绩表现与股东共享成果，不断增强外界对公司未来增长的信心。非常感谢各位持续的关注与支持。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以上是本次闭幕致辞，业绩发布电话会议到此正式结束。 非常感谢大家的参与。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 希捷电话会：产能已锁至2028，坚守4%-6%资本开支红线，明年3月季度加码股票回购</title><link>https://wallstreetcn.com/articles/3784621</link><guid>8a2693fa231003d2b5d7a4a664364595c6515e24b25a07e0dbe47dea6647189d</guid><pubDate>Wed, 28 Oct 2026 02:57:02 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+
+AI情绪回暖，科技股全线受提振
+&lt;p&gt;美股盘前，希捷科技下跌约4%，原因是公司季度业绩指引逊于分析师预期。恩智浦跌幅更深，约达8%——尽管该公司第三季度营收同比增长19%并超出预期，但第四季度指引不及市场预期，令投资者感到失望。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;SK海力士的强劲业绩为近期承压的科技股注入了一剂强心针。JonesTrading Institutional Services LLC首席市场策略师Michael O&amp;#x27;Rourke在报告中写道，&amp;quot;一波AI相关消息在该板块承压三周后引发了一轮情绪修复式反弹&amp;quot;，这些消息&amp;quot;让投资者相信，大型AI企业有能力、且正在持续推进资本支出，即便规模较小的企业仍面临压力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;彭博市场策略师Mark Cranfield表示，押注AI驱动的反弹能够穿越美联储决议的投资者，将从SK海力士和三星电子引领亚洲市场走高中获得信心，&amp;quot;这令人回想起今年上半年，彼时对AI主题的热情似乎对油价上涨和债券收益率走高免疫&amp;quot;。&lt;/p&gt;
+&lt;p&gt;科技股本周的回升也受益于Anthropic提交S-1招股文件及多项融资计划等消息的共同催化。&lt;/p&gt;
+
+美联储决议在即，利率路径存在不确定性
+
+&lt;p&gt;市场在为AI热情定价的同时，还需应对美联储政策方向带来的压力。美联储预计将在本次会议上维持利率不变，但主席Kevin Warsh届时可能面临压力，需就当前暂停加息的理由作出解释——上个月美联储曾一致投票决定加息以应对通胀压力。&lt;/p&gt;
+&lt;p&gt;美联储上月发布的预测显示，官员支持年内再加息一次。投资者周二对本次会议加息的概率定价不足10%，但已将年内最后一次政策会议即12月会议视为可能的加息时间窗口。&lt;/p&gt;
+&lt;p&gt;基准10年期美国国债收益率上升2个基点至5.02%。Westpac Banking Corp固定收益研究主管Damien McColough表示，&amp;quot;FOMC的措辞将继续保持鹰派，在通胀问题上保持警惕，加上市场可能重新聚焦油价走势，应会带来偏空的驱动力。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+ 
+
+油价止跌，地缘政治风险升温
+
+&lt;p&gt;油价方面，布伦特原油结束两日连跌，上涨1.8%至每桶约115.90美元。据《华尔街日报》援引知情人士报道，美国已告知多个海湾国家，需为中期选举后可能发生的一场短暂而激烈的伊朗军事冲突做好准备。&lt;/p&gt;
+&lt;p&gt;在货币市场，彭博美元强势指数连续第四日上涨，新西兰元兑澳元下跌近2%，创2017年以来最大单日跌幅，此前新西兰央行意外宣布维持利率不变。黄金下跌0.7%至每盎司约4030美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 希捷电话会：产能已锁至2028，坚守4%-6%资本开支红线，明年3月季度加码股票回购</title><link>https://wallstreetcn.com/articles/3784621</link><guid>8a2693fa231003d2b5d7a4a664364595c6515e24b25a07e0dbe47dea6647189d</guid><pubDate>Wed, 28 Oct 2026 02:57:02 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;伴随AI浪潮对数据留存价值的重塑，希捷正以创纪录的利润率和最远延伸至2030年的长单，向市场证明其通过“技术跃迁而非盲目扩产”来穿越存储周期的逻辑。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784610"&gt;华尔街见闻提及&lt;/a&gt;，10月27日美股盘后，希捷科技公司公布截至2026年10月2日的2027财年第一季度财报，营收达42.3亿美元，同比增61%，盈利及下季指引均全面超预期。得益于成本控制，毛利率跃升破57%。同时，公司创造了近15亿美元的创纪录自由现金流，同比翻了三倍以上。&lt;/p&gt;
 &lt;p&gt;电话会上，希捷首席执行官Dave Mosley在会议开场时直言：&lt;/p&gt;
@@ -475,6 +298,256 @@
 &lt;p&gt;谢谢Gary，也再次感谢各位的参与。我们在步入2027财年之际势头强劲，我们相信大容量存储正迎来多年增长周期。我们正在执行的战略使希捷能够把握这一机遇——通过持续技术创新和严格运营纪律，以不懈的专注为我们的客户和股东创造盈利增长和价值。谢谢，我们下个季度再见。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;接线员：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;电话会议至此结束，感谢参加今日演示，您可以断开连接了。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩炸裂、股东回报空前，SK海力士将反杀空头？</title><link>https://wallstreetcn.com/articles/3784645</link><guid>c5edf33ca56c19d5b7b407105993db4bb7fd00889cf0dba37de6c2b837eb09f5</guid><pubDate>Wed, 28 Oct 2026 06:04:14 GMT</pubDate><description>&lt;p&gt;SK海力士交出史上最强季度业绩，同时抛出远超市场预期的股东回报计划，有望将此前偏空的股票情绪拉回正轨。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，据摩根大通28日发布的研究报告，SK海力士2026年第三季度营收达104.6万亿韩元，营业利润达83.3万亿韩元，均创历史同期新高，分别超出市场共识约7%和9%，超出摩根大通自身预测约11%和16%。同日，公司宣布规模高达100万亿韩元的股东回报计划，涵盖60万亿韩元回购与40万亿韩元股息，摩根大通指出，市场此前的普遍预期仅约40万亿韩元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;摩根大通分析师Jay Kwon在报告中表示，&lt;strong&gt;季度业绩超预期叠加新股东回报方案，预计将推动股票情绪由此前的偏空转为正面。&lt;/strong&gt;报告维持对SK海力士的增持（Overweight）评级，目标价270万韩元（基于2027年6月时间节点），较当前股价1,343,000韩元存在约一倍上行空间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+定价强劲，HBM4放量平稳推进
+
+&lt;p&gt;本季业绩超预期的核心驱动力来自定价端。&lt;strong&gt;SK海力士第三季度DRAM平均售价（ASP）环比上涨近30%，显著高于摩根大通此前预测的约20%；&lt;/strong&gt;NAND ASP环比上涨约25%，亦大幅高于摩根大通预测的12%。&lt;/p&gt;
+&lt;p&gt;摩根大通认为，DRAM ASP超预期表现意味着HBM4的量产爬坡进展顺利。公司预计，第四季度HBM4将在HBM出货量及营收占比上超越HBM3E，并计划在2026年底前将M15X产线提升至满产。公司同时透露，2027年HBM定价谈判已基本完成，HBM相对于传统DRAM的盈利溢价有望明显收窄。&lt;/p&gt;
+&lt;p&gt;在出货量方面，第三季度DRAM比特出货量环比增长约10%，符合摩根大通预期；NAND比特出货量则略有下滑，略逊于预期的环比增长3%。外汇因素构成一定拖累，季内汇兑损失达11.6万亿韩元。&lt;/p&gt;
+
+第四季度出货指引远超预期
+
+&lt;p&gt;公司对第四季度出货量的指引大幅高于市场预期。管理层预计，&lt;strong&gt;DRAM比特出货量环比增幅将达20%左右，远超摩根大通预测的4%；NAND比特出货量亦预计实现中个位数百分比的环比增长，高于摩根大通预测的3%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司将上述增长归因于1cnm制程产能扩张、M15X产线爬坡，以及基于321层堆叠架构的eSSD销售增加。321层NAND在国内产能中的占比预计于第四季度扩大至50%以上。&lt;/p&gt;
+&lt;p&gt;在技术路线上，公司计划提升1cnm制程服务器产品比重，并扩大1cnm DDR5及LPDDR5 SOCAMM的销售规模。&lt;/p&gt;
+
+百万亿回购规模远超共识，长协锁定未来两年需求
+
+&lt;p&gt;股东回报计划是本次公告另一重大亮点。SK海力士宣布2026年度股东回报计划总规模达100万亿韩元，其中包含60万亿韩元的股票回购及40万亿韩元的股息，依据摩根大通预测，这一规模对应2026年自由现金流的65%以上派发比率。&lt;/p&gt;
+&lt;p&gt;据摩根大通，&lt;strong&gt;市场此前对该计划的普遍预期约为40万亿韩元，实际公告规模约为共识的2.5倍。&lt;/strong&gt;公司同日宣布当日启动20万亿韩元的回购计划，其中10万亿韩元用于股东回报，另外10万亿韩元用于员工持股计划（PSU）购买。第三季度每股股息为20,000韩元，其中10,000韩元来自核心经营利润，另外10,000韩元来自铠侠（Kioxia）股权出售收益，公司计划在年底将大部分铠侠出售相关收益以特别股息形式分配。&lt;/p&gt;
+&lt;p&gt;需求端方面，公司已与包括全球主要云服务商（CSP）在内的14家核心客户签署长期协议（LTA），锁定2027年及2028年逾50%的总产能。公司重申，内存需求将持续超越供给至2030年。&lt;/p&gt;
+
+汇兑损失及PC与智能手机需求疲软构成隐忧
+
+&lt;p&gt;尽管经营层面全面超预期，但税前利润及净利润均低于预期，主要原因为外汇损失（11.6万亿韩元）以及与铠侠相关的投资估值损失（约22.9万亿韩元）。&lt;/p&gt;
+&lt;p&gt;此外，PC及智能手机终端需求呈现局部疲软迹象，部分终端产品出货出现调整，产品组合亦因内存价格上涨而有所变化。&lt;/p&gt;
+&lt;p&gt;资本支出方面，第三季度资本开支为12.7万亿韩元，年初至今累计31万亿韩元，摩根大通全年预测为47万亿韩元，目前进度符合预期。公司表示，资本开支主要集中于龙仁（Yong-in）产业集群基础设施建设及M15X产线关键设备采购，并预计2027年资本支出将较2026年显著增加。&lt;/p&gt;
+
+摩根大通：共识盈利预测上调空间明显
+
+&lt;p&gt;摩根大通认为，此次季度超预期业绩将推动市场共识盈利预测上移，未来12至24个月内存供需基本面的自下而上逻辑依然有利。分析师指出，2027年HBM定价，以及长协与非长协客户的结构比例和提价幅度，仍是影响共识每股盈利（EPS）上调幅度的关键变量。&lt;/p&gt;
+&lt;p&gt;报告对SK海力士的估值基于2026至2027年预测EPS均值的7倍市盈率，以反映更强劲、更持久的内存上行周期预判。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 需求是供应的两倍！SK海力士电话会：DRAM和HBM产能售罄至2029年，明年资本开支将“大幅增加”</title><link>https://wallstreetcn.com/articles/3784653</link><guid>1f4618a9c213493c24a77ea3cb59315a00b079e0cfcd88086534cfdf9dcfe837</guid><pubDate>Wed, 28 Oct 2026 07:09:20 GMT</pubDate><description>&lt;p&gt;AI内存超级周期进入新阶段！SK海力士三季度营收历史性突破百万亿韩元，管理层在电话会议上宣告当前AI内存需求火爆导致“客户需求是供应量的两倍”，其核心HBM和DRAM产能更是通过长期协议“在2029年之前实际上已全部售罄”。&lt;/p&gt;
+&lt;p&gt;10月28日，SK海力士在2026年三季度业绩发布会上交出了一份历史级成绩单——&lt;a href="https://wallstreetcn.com/articles/3784619"&gt;单季营收首次突破100万亿韩元，营业利润率攀升至80%的历史峰值&lt;/a&gt;。更关键的是，管理层在电话会上明确表示：结合长期供应协议（LTA）锁定量和正在洽谈中的客户需求，“我们&lt;strong&gt;DRAM和HBM未来三年（截至2029年）的产能实际上已全部售罄&lt;/strong&gt;”，而“&lt;strong&gt;客户的采购需求量超出我们当前供应能力的两倍以上&lt;/strong&gt;”。&lt;/p&gt;
+&lt;p&gt;与此同时，比起后视镜里的惊艳业绩（营收104.62万亿韩元，营业利润83.33万亿韩元），市场与投资者更关注的是这场AI盛宴的可持续性。面对外界对AI变现能力及资本支出节奏的担忧，SK海力士管理层在电话会中抛出了极其强劲的前瞻指引：&lt;strong&gt;公司的商业模式正在从传统的“周期性波动”转向基于长期协议的“高可见度确定性增长”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;正如公司CEO 在电话会结尾总结的那样：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;我们已经连续六个季度创下历史纪录，但我们认为更重要的是底层商业环境正在发生改变。我们通过技术领导力建立的客户信任，正在转化为长期协议，赋予我们更强的中长期需求可见度，以及更坚实的持续盈利基础。这意味着，一个有别于过去的新增长阶段，正在通过商业结构的具体变化得以显现。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;SK海力士全天高开高走，在财报公布之后更是进一步扩大涨幅，盘中一度涨超11%，收盘涨10.89%。韩国KOSPI指数收盘涨超6%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+“需求是目前供应量的两倍”，未来三年产能已实质性售罄
+&lt;p&gt;本次电话会中最令市场振奋的增量信息，无疑是SK海力士长达数年的订单能见度。&lt;/p&gt;
+&lt;p&gt;管理层透露，目前，SK海力士已与包括全球主要云服务提供商（CSP）在内的&lt;strong&gt;14家核心客户&lt;/strong&gt;签署了长期供应协议（LTA），协议通常为五年期，并正在与部分客户探讨延长合同期限。LTA锁定的供应量已&lt;strong&gt;占2027年和2028年总产能的50%以上&lt;/strong&gt;，并计划在中长期维持这一比例。&lt;/p&gt;
+&lt;p&gt;LTA定价结构设有与客户协商一致的价格区间，并纳入定金等保障机制，以确保客户采购计划转化为实际订单和出货，同时支撑公司稳定盈利并捕捉市场价格改善机遇。&lt;/p&gt;
+&lt;p&gt;在回应高盛分析师Giuni Lee关于LTA意义的提问时，SK海力士管理层给出了迄今最清晰的供需判断：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;LTA已锁定的供应量，加上目前正与客户洽谈中的需求，意味着我们未来三年截至2029年的DRAM和HBM产能实际上已全部售罄（effectively sold out）。洽谈中的量基于客户具体采购计划，兑现概率极高。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在回应HBM需求可持续性时，管理层进一步给出量化表述：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;需求如此旺盛，客户的采购需求量超出我们当前供应能力的两倍以上（more than double that of what we can supply today），这也印证了客户对我们产品持续强烈的偏好。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+供给缺口看至2030年，2027年资本开支将“大幅增加”
+&lt;p&gt;SK海力士&lt;strong&gt;首席财务官Woo Hyun Kim&lt;/strong&gt;在展望中给出了多项具体预测数字：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;全球CSP资本开支2027年预计增长&lt;strong&gt;超过60%&lt;/strong&gt;，已锁定电力容量同比增长&lt;strong&gt;超过100%&lt;/strong&gt;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全球AI数据中心基础设施市场预计到2030年保持&lt;strong&gt;40%的年均增长率&lt;/strong&gt;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2027年DRAM市场可实现需求增速约&lt;strong&gt;20%中段（mid 20%）&lt;/strong&gt;，NAND约&lt;strong&gt;10%高段（high 10%）&lt;/strong&gt;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2027年公司绝对营收和利润预计均将达到&amp;quot;&lt;strong&gt;显著更高的水平&lt;/strong&gt;&amp;quot;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2027年资本开支将较2026年显著增加&lt;/strong&gt;，用于先进制程设备投入、龙仁（Yongin）第一座晶圆厂投产以及国内外基础设施加速建设。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;管理层同时强调供给端约束的结构性：&lt;strong&gt;&amp;quot;由于先进制程实施难度不断上升，以及新建产能所需的建设周期，供不应求的格局预计将持续至2030年。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了应对这种长期结构性短缺，SK海力士对未来的产能扩张给出了明确指引：“&lt;strong&gt;随着我们投资于先进制程设备、龙仁第一座晶圆厂的产能爬坡，以及国内外基础设施投资的加速，我们预计2027年的资本支出将较2026年大幅增加。&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;对于供应过剩风险，管理层表态审慎：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;更多投资、更多晶圆厂，并不等于更多供应。随着HBM等高性能产品占比提升，制程日益复杂，生产所需资源增多，但靠更精细制程来提升位元产出已越来越受限。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+部分大客户将HBM从12层降到8层？“不会影响我们的生意”
+&lt;p&gt;针对市场热议的“部分大客户将HBM从12层降至8层”是否会影响公司业绩的担忧，SK海力士在电话会上给出了明确的硬核回击。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784566"&gt;华尔街见闻文章&lt;/a&gt;此前写道，此前媒体爆料称，为缓解供应链压力，英伟达悄然下调HBM4带宽指标，并将12层堆叠降级至8层混配。&lt;/p&gt;
+&lt;p&gt;对此，管理层指出，这种规格调整恰恰是“需求远超供应”的真实写照：“&lt;strong&gt;由于HBM供应依然受限，客户需要用有限的数量构建更多的AI加速器和系统。因此，我们将降低堆叠层数视为一种策略，即在相同总容量下获取更多的Cube（封装体）。&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;管理层进一步解释，层数降低并不必然导致HBM容量需求等比例下降：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;即便从12层HBM4降至8层HBM4E，每颗die容量的提升可以抵消相当大一部分影响。因此，即使考虑此类调整，我们对中长期HBM需求的展望也没有改变。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;更关键的是，层数的减少并不会削弱SK海力士的生意。管理层解释称：“提供相同比特容量但层数更低的产品，需要更多的Cube，这反过来增加了对基础裸片（base dies）和后道工序的需求。我们已经将此纳入生产和供应计划。”&lt;/p&gt;
+&lt;p&gt;管理层强调：&lt;strong&gt;“盈利能力并非单由层数决定，而是由每个产品的交易条款、产品组合、良率、后道生产效率和成本综合决定。”&lt;/strong&gt;明年HBM4占比和价格将提升，量产良率和成本竞争力将进一步改善，预计HBM营收和利润将同比大幅增长，“从盈利角度看，远高于过去周期的峰值水平”。&lt;/p&gt;
+四季度指引：HBM4超越HBM3E，DRAM出货环比增长约25%
+&lt;p&gt;SK海力士首席财务官Woo Hyun Kim披露，四季度公司将进一步加速扩产以主动应对市场需求：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DRAM：&lt;/strong&gt;1c纳米制程扩产与M15X产线的HBM4增产将同步推进，四季度出货量预计环比增长&amp;quot;&lt;strong&gt;约25%（mid 20%）&lt;/strong&gt;&amp;quot;。传统DRAM方面，将快速提升服务器1c纳米产品占比，并扩大1c纳米DDR5和AI服务器LPDDR5 SOCAMM销售。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HBM4：&lt;/strong&gt; &amp;quot;12层HBM4按照与主要客户商定的时间表顺利出货；M15X年底前达满产。&amp;quot; &lt;strong&gt;四季度HBM4预计在HBM总出货量和营收占比上均将超越HBM3E，成为旗舰产品。&lt;/strong&gt;公司已与主要客户敲定明年HBM供应量和价格，&amp;quot;如实反映了HBM4的产品价值提升，HBM与通用DRAM之间的盈利能力差距预计将显著收窄&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAND：&lt;/strong&gt; 四季度位元出货预计环比增长&amp;quot;&lt;strong&gt;mid-single percent（约5%）&lt;/strong&gt;&amp;quot;；321层工艺占韩国本土产能比例将扩大至50%以上，扩大321层企业级SSD供应；同步拓展适用于KV Cache分层的高性能、高密度企业级SSD供应。&lt;/p&gt;
+&lt;p&gt;公司还透露，在下一代产品方面，HBM4E已于二季度完成样品出货，研发和客户认证正按照客户时间表推进；同时正与主要客户在定制化HBM（Custom HBM）项目上紧密合作。&lt;/p&gt;
+&lt;p&gt;另外，在向市场展示未来数年极高盈利确定性的同时，&lt;strong&gt;SK海力士抛出了一份规模空前的股东回报计划，以此对冲高额资本支出可能引发的自由现金流担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司宣布，2026财年计划合计向股东返还约100万亿韩元（包含逾30万亿韩元现金分红及逾60万亿韩元股份回购与注销）。其中，第三季度派息20,000韩元/股中，有一半（10,000韩元）是源自对日本铠侠（Kioxia）投资收益的“特别股息”。&lt;/p&gt;
+&lt;p&gt;管理层表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我们认为目前的股价被低估了，没有充分反映我们的盈利和现金流。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;SK海力士2026年Q3财报电话会议全文实录如下（由AI辅助翻译）：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;公司参会人员&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kwak Noh Jung，总裁兼首席执行官&lt;/p&gt;
+&lt;p&gt;Seong Hwan Park，投资者关系负责人&lt;/p&gt;
+&lt;p&gt;未具名发言人&lt;/p&gt;
+&lt;p&gt;Woo Hyun Kim，副总裁兼首席财务官及财务负责人&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他参会人员&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dong-Hee Han，SK证券&lt;/p&gt;
+&lt;p&gt;Giuni Lee，高盛&lt;/p&gt;
+&lt;p&gt;Jay Kwon，摩根大通&lt;/p&gt;
+&lt;p&gt;Peter Lee，花旗集团&lt;/p&gt;
+&lt;p&gt;Simon Woo，美国银行&lt;/p&gt;
+&lt;p&gt;Sunwoo Kim，Meritz证券&lt;/p&gt;
+&lt;p&gt;Young-ho Ryu，NH投资证券&lt;/p&gt;
+&lt;p&gt;Youngjin Kim，未来资产证券&lt;/p&gt;
+&lt;p&gt;陈述内容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早上好，感谢参加SK海力士财报发布电话会议。今天，我们将首先进行SK海力士的财报演示，随后进行问答环节。（主持人说明）请注意，演示部分将进行同声传译，问答环节将进行交替传译。现在，我们准备开始。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早上好、下午好、晚上好。我是SK海力士投资者关系负责人 Park Seong-Hwan。 欢迎参加SK海力士2026年第三季度财报发布电话会议。请允许我介绍今天与我一同出席的高管。出席本次会议的有：总裁兼首席执行官 Kwak Noh Jung；首席财务官 Kim Woo-Hyun；DRAM营销负责人 Park Jun-Deok；NAND营销负责人 Song Chang-Seok；以及HBM销售与营销负责人 Kim Ki-Tae。&lt;/p&gt;
+&lt;p&gt;请允许我发表免责声明：本次电话会议中所包含的第三季度业绩为合并数据，且为初步数据，外部审计师的审阅工作尚未完成，因此相关数据仍可能发生变动。此外，包括市场展望及公司计划在内的前瞻性陈述，可能会因宏观经济及市场环境的变化而有所调整。&lt;/p&gt;
+&lt;p&gt;接下来，我们正式开始SK海力士2026年第三季度财报发布电话会议。&lt;strong&gt;在财报演示开始之前，首席执行官 Kwak Noh Jung 将首先就Solidigm IPO及股东回报事宜发表讲话。随后，首席财务官 Kim Woo-Hyun 将就第三季度业绩、公司未来计划及市场展望进行演示。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kwak Noh Jung：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大家早上好。我是首席执行官 Kwak Noh Jung。在近期市场波动加剧的环境下，感谢各位股东对SK海力士始终如一的关注与信任，在此致以最诚挚的谢意。今天，我想直接向各位股东说明我们关于Solidigm IPO的决定——这一问题近期已引发市场的广泛关注——以及我们通过特别股息与股东共享战略投资回报的相关安排。&lt;/p&gt;
+&lt;p&gt;首先，Solidigm一直在探索融资方案，以支持扩大生产规模、满足需求增长等战略举措。在所考虑的各项方案中，通过IPO引入外部资本，原本有望减轻我们的投资负担，并提升我们对股东的回报能力。然而，在综合考量近期金融市场的波动以及半导体股票的调整行情后，Solidigm认为，&lt;strong&gt;目前推进IPO无法充分实现预期效益&lt;/strong&gt;，因此决定终止对Pre-IPO及IPO方案的评估工作。&lt;/p&gt;
+&lt;p&gt;Solidigm将继续深化自身竞争力，积极把握AI数据中心存储市场的增长机遇。为支持上述目标所进行的投资与融资安排，将以提升Solidigm与SK海力士双方企业价值及股东价值的方式稳步推进。&lt;strong&gt;我们始终坚守将战略投资大部分回报与股东共享的原则。&lt;/strong&gt; 通过将这些回报用于补充因未来持续投资而可能阶段性下降的股东回报能力，我们旨在切实保护股东利益，同时持续大胆投入，推动可持续增长。&lt;/p&gt;
+&lt;p&gt;秉承这一原则，我们计划&lt;strong&gt;将今年从铠侠（Kioxia）投资中实现的收益，以特别股息的形式回馈给股东&lt;/strong&gt;。我们将坚定履行这一承诺，确保股东能够直接分享我们战略投资成功所带来的成果。&lt;/p&gt;
+&lt;p&gt;接下来，首席财务官将向各位汇报本季度的业绩与展望，以及股东回报计划的具体细节。谢谢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Woo Hyun Kim：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大家早上好，我是首席财务官Woo Hyun Kim。首先，请允许我介绍公司2026年第三季度的业绩情况。&lt;strong&gt;第三季度，由于AI存储器需求持续增长，供需关系依然紧张，存储器价格维持高位。DRAM和NAND均连续第二个季度录得较高涨价幅度，主要受HBM、服务器DRAM以及企业级SSD价格持续上涨的带动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;第三季度营收环比增长32%，同比增长328%，达到104.6万亿韩元。这是季度营收首次突破100万亿韩元，创历史新高。&lt;/strong&gt; 在DRAM方面，我们以AI服务器为中心扩大销售，按计划实现了约10%的环比比特出货量增长。特别是&lt;strong&gt;HBM4已于第三季度正式开始量产和出货&lt;/strong&gt;。此外，服务器DDR5的出货量较第二季度增长超过40%，推动了DRAM整体比特出货量的增长。&lt;/p&gt;
+&lt;p&gt;受传统DRAM价格持续强劲，以及售价高于上一代产品的HBM4销售占比扩大的影响，&lt;strong&gt;DRAM平均售价（ASP）上涨了约20%的高位，录得与上一季度相近的高增长率。&lt;/strong&gt; 在NAND方面，虽然我们调整销售策略，聚焦于321层TLC企业级SSD等高附加值产品，导致比特出货量较第二季度略有下降，但由于整体价格强劲以及SSD销售占比扩大，&lt;strong&gt;ASP上涨了约20%的中位水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管受韩元走强带来的不利汇率影响，但产品价格上涨以及高附加值产品销售扩大，&lt;strong&gt;使第三季度营业利润达到83.3万亿韩元，环比增长38%，同比增长632%。营业利润率环比提升3个百分点，达到80%，营业利润和营业利润率均创下季度历史新高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第三季度，折旧及摊销费用合计4.3万亿韩元。&lt;strong&gt;EBITDA达到87.7万亿韩元，EBITDA利润率为84%。&lt;/strong&gt; 在主要非经营性项目方面，受汇率下跌影响产生外汇相关净损失11.6万亿韩元，以及投资资产估值损失22.9万亿韩元，非经营性费用合计32.6万亿韩元。因此，税前利润为50.7万亿韩元，净利润为39.8万亿韩元，净利润率为38%。&lt;/p&gt;
+&lt;p&gt;截至第三季度末，&lt;strong&gt;现金及现金等价物为114.5万亿韩元，较上季度末增加26.5万亿韩元。&lt;/strong&gt; 有息负债减少2.8万亿韩元至15.8万亿韩元。由此，&lt;strong&gt;净现金扩大至98.7万亿韩元，债务权益比较上季度末改善2个百分点至5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;接下来，我将介绍市场展望。&lt;strong&gt;AI市场正在不断演进。&lt;/strong&gt; 随着AI在软件开发、客户响应、搜索等各领域推动生产力提升和新收入来源的产生，AI使用量的增加进一步促进了基础设施投资，形成良性循环。这一变化在全球主要云服务提供商（CSP）的投资规模和已获批电力容量中有所体现。根据市场调研机构的最新预测，&lt;strong&gt;2027年全球CSP资本支出预计将增长超过60%，已获批电力容量也预计同比增长超过100%。&lt;/strong&gt; 更值得关注的是，这一增长不会止步于明年。&lt;strong&gt;受AI服务商业化及应用领域扩展的驱动，全球AI数据中心基础设施市场预计将以每年约40%的高复合增长率持续增长至2030年。&lt;/strong&gt; 这一中长期增长趋势预计将持续下去。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别是，随着AI规划复杂任务并借助多种工具长时间执行，AI的算力需求以及数据的生成、传输和存储量正在急剧增加。&lt;/strong&gt; 因此，整个存储器行业的需求增长幅度已大幅超出初始预期。AI基础设施投资正在从最初少数玩家抢先布局的阶段走向更广泛的企业和各国政府参与的阶段。因此，即便考虑到部分潜在的投资调整，我们预计AI基础设施投资的增长仍将保持强劲势头。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;短期内，企业级AI和个人AI预计将引领需求增长；中长期来看，自动驾驶和机器人等实体AI预计将进一步拓宽需求范围。&lt;/strong&gt; 虽然受存储器价格上涨带来的成本压力和供应短缺影响，PC和移动设备的出货量预计将有所下降，但AI基础设施需求的增长预计将足以弥补这一下滑，整体存储器市场将维持增长态势。&lt;/p&gt;
+&lt;p&gt;另一方面，&lt;strong&gt;存储器供应难以跟上如此高速的需求增长，因此我们预计近期内难以完全满足客户的量需求。&lt;/strong&gt; 鉴于先进制程实施的复杂性以及新建产能所需的建设周期，供应跟不上需求的局面预计将持续一段时间，&lt;strong&gt;这一供应瓶颈预计将延续至2030年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管需求旺盛，但考虑到实际供应状况，&lt;strong&gt;2027年可实现的需求增长预计与今年相近，DRAM增长率约为20%的中位水平，NAND约为10%的高位水平。&lt;/strong&gt; 我们预计这一有利的市场环境将成为支撑公司明年业绩增长的坚实基础。基于扩大的产能和高附加值产品竞争力，我们计划在营收和利润的绝对值上均实现大幅提升。&lt;/p&gt;
+&lt;p&gt;接下来，我将介绍公司第四季度销售计划及未来运营方向。&lt;strong&gt;第四季度，我们计划进一步加快供应扩张，更加积极地响应市场需求。&lt;/strong&gt; 首先，在DRAM方面，1c纳米制程扩产带来的产量提升，以及通过M15X产能爬坡增加HBM4产量，将同步推进。因此，&lt;strong&gt;第四季度出货量预计将环比大幅增长约20%的中位水平。&lt;/strong&gt; 在传统DRAM方面，我们正在快速提升面向服务器应用的1c纳米产品占比。第四季度，我们计划通过扩大1c纳米DDR5和AI服务器LPDDR5 SOCAMM的销售，进一步强化以高附加值服务器产品为核心的产品组合。&lt;/p&gt;
+&lt;p&gt;我们12层高HBM4的出货正在按照与主要客户商定的时间表顺利推进。&lt;strong&gt;为积极响应客户需求的激增，我们正在加快M15X产能爬坡，计划于年底前达到满产。&lt;/strong&gt; 因此，&lt;strong&gt;第四季度HBM4预计将在HBM总出货量占比和营收占比上均超越HBM3E，成为我们的旗舰产品。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;公司已与主要客户完成明年的谈判，包括HBM的数量和价格。&lt;strong&gt;这些谈判充分体现了HBM4产品价值的提升。因此，我们预计HBM与传统DRAM之间的盈利差距将显著收窄。&lt;/strong&gt; 在NAND方面，第四季度我们计划将旗舰321层制程占国内产能的比例扩大至50%以上。通过这一举措，我们将扩大321层企业级SSD的供应，&lt;strong&gt;第四季度NAND比特出货量预计将环比增长中个位数百分比。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在供应扩张的基础上，我们计划进一步拓展NAND在AI基础设施市场中的角色和商业机会。我们将扩大适用于KV Cache分层的高性能、高密度企业级SSD的供应。&lt;strong&gt;中长期来看，通过HPF和系统优化技术，我们致力于将NAND演进为提升AI服务吞吐量和成本效率的核心解决方案。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为提升中长期需求的可见性并奠定稳定增长基础，我们正在持续扩大与客户的长期协议（LTA）。&lt;strong&gt;迄今为止，我们已与包括全球主要CSP在内的14家重要客户签署了LTA。&lt;/strong&gt; 虽然LTA通常以五年为基础，但我们正在主动与部分客户探讨延长现有合同期限。客户基于我们的产品路线图和供应能力寻求更长期合作的事实，表明LTA正在演变为强化客户关系和业务连续性的重要机制。&lt;/p&gt;
+&lt;p&gt;定价结构因客户和产品而异，但总体上设计为在与客户商定的价格区间内反映市场状况。此外，为确保客户的采购计划切实转化为实际订单和出货，我们加入了定金等保障条款。&lt;strong&gt;这一结构不仅有助于我们保持稳定盈利，也使我们能够通过反映市场价格和产品价值的改善来把握市场上行机会。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LTA所锁定的数量目前已占我们2027年和2028年总产能的50%以上，为中长期利润稳定性和需求可见性奠定了基础。&lt;/strong&gt; 与此同时，为响应客户中长期需求及增长机会，我们正在持续推进扩大产能的投资。&lt;strong&gt;随着先进制程占比提升的设备投资、龙仁首座晶圆厂的产能爬坡，以及国内外基础设施投资的加速推进，预计2027年资本支出将较2026年大幅增加。&lt;/strong&gt; 投资规模和执行时机将综合考虑通过客户沟通所获得的中长期需求可见性、产品竞争力、盈利能力及投资效率后确定。&lt;/p&gt;
+&lt;p&gt;最后，请允许我说明股东回报计划。去年8月，我们宣布了包括40万亿韩元股份回购及注销在内的股东回报计划，并表示将在第三季度业绩说明会上提供额外股东回报的规模和方式的详细信息。今天，我将就该计划的执行情况进行更新，并介绍反映我们业绩改善和投资成果的额外股东回报方案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公司决定针对2026财年推进约100万亿韩元的股东回报。&lt;/strong&gt; 我们计划执行不低于30万亿韩元的现金分红，以及不低于60万亿韩元的股份回购与注销（含8月宣布的40万亿韩元）。其中，&lt;strong&gt;40万亿韩元的股份回购已于上周完成，即将予以注销。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通过分红，我们将直接与股东分享业绩成果，并持续回购和注销股份，以确保每股价值能够适当反映公司内在价值。通过这些举措，我们将履行向股东返还超过50%自由现金流的承诺。&lt;strong&gt;今天，董事会决议进行14万亿韩元的现金分红和20万亿韩元的股份回购。&lt;/strong&gt; 其中，预计用于高管和员工薪酬的库存股约为10万亿韩元。扣除此部分，&lt;strong&gt;第三季度股东回报约为24万亿韩元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以下将逐项说明。首先，&lt;strong&gt;我们将扩大现金分红，以反映业绩改善和投资成果。&lt;/strong&gt; 我们将根据经营业绩确定分红水平，在发生重大投资收益的情况下，将通过特别股息的形式与股东额外分享这些成果。我们将把核心业务的经营成果以及投资资产的价值实现共同作为股东回报的来源。&lt;strong&gt;因此，第三季度每股分红定为20,000韩元，合计14万亿韩元。&lt;/strong&gt; 其中包括反映业绩改善的10,000韩元股息，以及分享Kioxia投资成果的10,000韩元特别股息。&lt;strong&gt;我们计划通过特别股息的形式将Kioxia投资收益的大部分返还给股东。&lt;/strong&gt; 其中一部分将作为本季度股息支付，剩余部分将在2026财年财务结果确定后纳入年终股息。&lt;/p&gt;
+&lt;p&gt;其次，&lt;strong&gt;我们将每季度持续回购股份。&lt;/strong&gt; 季度回购规模将由董事会综合考虑股价、市场状况和现金流后决议确定。&lt;strong&gt;本季度，我们计划合计回购20万亿韩元的股份。&lt;/strong&gt; 其中，10万亿韩元用于股东回报目的，将全部予以注销；如前所述，另外10万亿韩元用于高管和员工薪酬目的，不计入2026财年股东回报总额。&lt;/p&gt;
+&lt;p&gt;展望未来，&lt;strong&gt;基于强劲的存储器需求增长和公司的技术竞争力，我们将持续稳定地创造业绩，并与股东持续分享成果。&lt;/strong&gt; 谢谢。&lt;/p&gt;
+&lt;p&gt;以上就是我的陈述，现在开始接受提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问答环节&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员 （问答环节）：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在开始问答环节。（主持人提示）。第一个问题来自花旗集团的 Peter Lee，请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Peter Lee&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;恭喜贵公司取得优异业绩。我的问题是关于 AI 投资方面的。我们看到 AI 投资持续增长，但似乎 AI 需求或 AI 基础设施建设所带来的变现效果迟迟未能实现。因此，市场上对于 AI 需求能否持续存在一些担忧。在此背景下，我的问题是，公司基于什么理由相信 AI 投资势头将会持续？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 未具名发言人&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;感谢您的提问。我们确实了解到目前市场上存在一些关于 AI 投资节奏的讨论，但我们认为这是一个正常过程的组成部分——客户正在更仔细地审视各个项目的可行性和盈利能力，并明确投资的时间节点和推进节奏。我们之所以认为 AI 投资势头将持续，主要有以下两个原因。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，我们看到客户的 AI 投资正在切实推动 AI 服务的更广泛应用，并产生实际的业务成果。&lt;/strong&gt; 在最新的业绩发布中，主要的超大规模云服务商客户报告其云收入同比增长 30% 至 80%，我们认为其中相当大一部分来自其 AI 业务的扩张。与此同时，我们也看到针对大规模企业 AI 解决方案的长期合同越来越多，云订单积压量同比增长了两倍至五倍。付费用户也在稳步增加，进一步印证了主要客户在多个领域 AI 相关销售和财务表现的持续增长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;基于这一趋势，主要客户的 AI 销售额和现金流只会持续改善，这也将有助于缓解市场目前对投资负担的担忧。&lt;/strong&gt; 与此同时，客户正从多个角度努力缓解当前的制约因素，例如多站点部署、更易获取电力资源的中小型数据中心，以及升级现场发电和冷却技术，这些举措都将有助于减轻投资负担。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二个原因是，投资主体在结构上正变得更加多元化。&lt;/strong&gt; 早期的 AI 投资主要集中在少数大型科技公司，因此单一公司调整投资就可能直接导致整体需求出现波动。但如今，投资主体正在迅速扩大，也包括正在构建自身 AI 基础设施的非科技企业、主权 AI 投资，以及本地部署需求。&lt;strong&gt;这标志着一种结构性转变——部分投资者的投资调整将被其他投资者增加的需求所抵消。&lt;/strong&gt; 例如，即使某些项目的投资因利率压力而放缓，有政策支持的主权 AI 投资或更广泛的企业 AI 应用仍然可以填补这一缺口。随着参与主体更加多元、动机和资源各异的多层次结构逐步形成，单一公司的资金状况或投资调整对整体投资趋势的影响将越来越有限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;综上所述，在实际业务成果的支撑以及投资主体日趋多元化的背景下，AI 投资和需求强度将保持足够强劲的态势。&lt;/strong&gt; 此外，在存储市场，我们预计目前需求超过供应的结构性供需失衡状态将在一段时间内持续。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下一个问题由Meritz证券的Sunwoo Kim提出，请开始您的提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Sunwoo Kim：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谢谢。我也想祝贺公司取得了出色的业绩，并特别感谢CEO Kwak Noh-Jung对公司最新情况的介绍。我的问题是关于股东回报的。请问公司在&lt;strong&gt;股息分配和股份回购&lt;/strong&gt;之间的比例是如何确定的？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;非常感谢您的提问。对于我们来说，我们致力于在&lt;strong&gt;现金股息&lt;/strong&gt;和&lt;strong&gt;股份回购注销&lt;/strong&gt;之间寻求平衡，也就是在直接与股东分享业绩改善成果，以及通过减少流通股数量来提升每股价值这两种方式之间寻求平衡。&lt;/p&gt;
+&lt;p&gt;首先，我们将现金股息定在一个&lt;strong&gt;可持续的水平&lt;/strong&gt;。为此，我们综合考虑了业绩改善情况、历史股息收益率、全球同行股息收益率以及适当的现金持有水平。我们还计划在&lt;strong&gt;Kioxia投资回报&lt;/strong&gt;产生时，与股东分享这一有意义的回报。其中大部分将以&lt;strong&gt;特别股息&lt;/strong&gt;的形式派发，让股东能够切实感受到回报。尽管今年的账目尚未结清，我们认为提前与股东分享部分预期回报是有意义的。因此，&lt;strong&gt;部分特别股息将在第三季度提前派发&lt;/strong&gt;，其余部分将在投资回报最终确定后纳入年终股息。&lt;/p&gt;
+&lt;p&gt;在现金股息之后，&lt;strong&gt;总股东回报的剩余部分将用于股份回购&lt;/strong&gt;。我们认为，公司目前的股价被低估，未能充分反映我们的盈利能力和现金流水平。正因如此，我们认为&lt;strong&gt;股份回购与注销&lt;/strong&gt;是提升每股价值的有效方式。回购将在年度规模内每季度持续进行，董事会将综合考虑股价、估值、现金流等因素来确定每季度的回购规模。展望未来，我们将依托强劲的现金创造能力，&lt;strong&gt;切实落实股东回报政策&lt;/strong&gt;，并持续致力于提升股东价值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;非常感谢。我们继续接受下一个问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下一个问题将由来自高盛的Giuni Lee提出。请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Giuni Lee&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;祝贺公司取得卓越业绩。我的问题是关于长期协议（LTA）的。此前有提到，目前通过LTA锁定的销量约占2027年和2028年总产能的50%。那么这对公司业绩以及长期增长潜力意味着什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 发言人&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;感谢提问。通过提高LTA覆盖率，我们的目标是改善长期需求能见度，从而实现稳定的营收和盈利增长。&lt;strong&gt;LTA已锁定的销量，加上目前正在与客户商讨的需求，意味着我们未来三年（至2029年）的DRAM和HBM销量实际上已全部售罄。&lt;/strong&gt; 目前商讨中的销量基于客户具体的采购计划，落地可能性极高。总体而言，我们认为公司中长期销售能见度已显著提升。&lt;/p&gt;
+&lt;p&gt;如前所述，&lt;strong&gt;LTA承诺的销量占2027年和2028年总产能的50%以上&lt;/strong&gt;，我们计划在中长期内维持这一比例。这一安排将帮助我们确保稳定的盈利空间。与此同时，我们可以利用非LTA产能灵活应对市场变化及下一代产品需求，持续增强未来竞争力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;谢谢。请下一个问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下一个问题将由来自美国银行的Simon Woo提出。请提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Simon Woo&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;我的问题是关于可能出现产能过剩的情况，这是因为过去曾经历过一些艰难的周期。对于可能出现产能过剩的担忧，源于以下事实：由于目前市场需求持续强劲，海力士仍在持续新建晶圆厂，或对现有晶圆厂进行扩建和升级，包括龙仁的项目。那么，&lt;strong&gt;如果需求未能达到预期，公司的战略或管理层的应对方案是什么？&lt;/strong&gt; 同时，我也想祝贺公司取得优异业绩，以及发布了非常详尽的股东回报计划。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 发言人&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;感谢提问。确实，公司目前正在推进中长期投资，以满足强劲需求，并为技术迁移所需的设备和生产确保足够空间。&lt;strong&gt;但更多的投资或更多的晶圆厂，并不一定意味着更多的供应。&lt;/strong&gt; 随着HBM等高性能产品占比提升以及制程工艺日益复杂，生产所需资源不断增加，而通过更精细工艺来提升比特产出正变得越来越受限。因此，我们今天的投资不仅是为了扩大产能，也是为了建立技术迁移和高附加值产品线扩张所需的生产基础。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们的投资将分阶段执行。&lt;/strong&gt; 基础设施将提前准备好，以应对中长期需求。但增加供应所需的关键资源，如设备导入和量产爬坡，将根据需求进行调整。例如，对于包括龙仁集群和M17在内的新晶圆厂，我们计划加快主体结构建设，但洁净室将分阶段开放。这一方式专门旨在确保未来运营的灵活性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在评估需求时，我们不仅关注客户的资本支出或需求预测，还会审查其财务状况和资金能力，以及关键供应链的准备情况&lt;/strong&gt;，然后再将其纳入我们的投资计划。公司自身的财务稳健性也是一个重要参数。在考虑中长期净现金目标和适当现金持有量以维持充足财务空间的同时，我们将根据需求能见度和投资回报来管理投资规模和节奏。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总结而言，我们将按计划基于改善的需求能见度，准备中长期供应基础设施，但实际产能爬坡将严格与需求和盈利能力挂钩。&lt;/strong&gt; 如果实际情况与预期有所不同，我们将通过灵活调整投资支出、生产计划和资源分配，确保有效应对各类风险。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;谢谢。请下一个问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下一个问题将由摩根大通的 Jay Kwon 提出，请开始提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Jay Kwon&lt;/strong&gt; 恭喜贵公司取得良好业绩，非常感谢您接受我的提问。刚才提到了 HBM4 的供应情况，我想进一步了解 HBM4 供应的具体细节，另外能否分享一下后续产品 HBM4E 以及定制化 HBM 的相关计划？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 未具名发言人&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;非常感谢您的提问。如前所述，&lt;strong&gt;得益于量产进展顺利，HBM4 预计将在第四季度在比特出货量和收入占比两个维度上均超越 HBM3E。&lt;/strong&gt; 良率也相当稳定。公司在晶圆厂和后端工序上均保持着行业最佳良率水平。尤其值得一提的是，我们所说的后端良率涵盖整个流程，而不仅仅是凸块、堆叠或 KGSD 测试等单独环节。在此基础上，&lt;strong&gt;HBM4 已经超出了既定的良率目标，因此目标已被上调。&lt;/strong&gt; HBM3E 也已超过了规划中的成熟良率。&lt;/p&gt;
+&lt;p&gt;目前，我们专注于最大化产能，以满足客户的强劲需求。我们在 HBM 业务上的表现将再次彰显我们无与伦比的竞争力。当然，我们也在稳步推进下一代产品的准备工作。&lt;strong&gt;例如，HBM4E 已于第二季度完成样品出货，开发与认证工作正按照客户时间节点有序推进。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;展望更长远的未来，除了稳定供应标准 HBM 之外，我们也看到定制化 HBM 的重要性日益凸显——它针对每位客户的系统和工作负载进行专项优化。因此，我们正与主要客户就相关项目展开紧密合作。作为核心客户的首选供应商，我们将凭借经过验证的产品竞争力和可靠的量产能力，持续推动 HBM 业务增长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;谢谢。下一个问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下一个问题将由 SK 证券的 Dong-Hee Han 提出，请开始提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Dong-Hee Han&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;感谢接受我的提问，我的问题同样关于 HBM，具体是关于降低 HBM 堆叠层数的可能性。请问公司如何看待缩短 HBM 堆叠层数这一可能性？这对 HBM 业务，包括出货量和盈利能力，可能会产生怎样的影响？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感谢您的提问。&lt;strong&gt;近期部分客户调整 HBM 规格的举动，恰恰说明需求确实远超供应。&lt;/strong&gt; 由于 HBM 供应持续紧张，客户需要用有限的数量来构建更多 AI 加速器和系统。因此，我们认为降低堆叠层数是一种策略，旨在以相同容量获取更多芯片颗粒（cube）。&lt;/p&gt;
+&lt;p&gt;话虽如此，&lt;strong&gt;堆叠层数降低并不一定意味着 HBM 容量等比例下降。&lt;/strong&gt; 即便从 12 层堆叠的 HBM4 切换到 8 层堆叠的 HBM4E，每颗裸片容量的提升也可以抵消相当大一部分影响。因此，即便考虑到上述调整，我们对 HBM 中长期需求的展望依然不变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需求依然十分强劲，客户的采购量需求超过我们当前供应能力的两倍以上，&lt;/strong&gt; 这也充分体现了客户对我们产品持续强烈的偏好。供应端同样不会受到影响。以更少的堆叠层数供应相同比特量，需要更多的芯片颗粒，进而增加对基础裸片和后端加工的需求。我们已将这一因素纳入生产和供应计划，将按计划执行 HBM 出货与供应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;至于盈利能力，它并不单纯由堆叠层数决定，&lt;/strong&gt; 而是由多重因素综合影响，包括各产品的交易条款、产品组合、良率、后端生产效率及成本等。&lt;strong&gt;明年，HBM4 的占比及其价格将提升，同时量产良率和成本竞争力将进一步改善，HBM 收入和利润有望实现显著的同比增长，盈利能力也将大幅提升。&lt;/strong&gt; 展望未来，盈利能力预计将持续维持在高位，远超以往周期的峰值水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;谢谢。下一个问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下面的问题将由未来资产证券的Youngjin Kim提出。 请开始您的提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Youngjin Kim：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首先恭喜公司取得创纪录的业绩。我的问题是关于4F-square的。我们看到其他公司也在研究新的存储单元结构和下一代DRAM技术，这引发了外界对长期技术竞争的高度关注。请问公司在4F-square的准备工作方面有何最新进展？公司在哪些领域重点发力，以强化技术竞争力？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感谢您的提问。4F-square是一种下一代DRAM技术，其存储单元面积小于6F-square，从而实现更高的存储密度。其适用性和战略方向取决于各公司的制程微缩能力、工艺环境和成本结构。就本公司而言，我们的开发计划是：通过工艺成熟化和稳定的技术平台，尽可能延续6F-square结构的使用，之后再向4F-square或3D DRAM平台过渡。&lt;/p&gt;
+&lt;p&gt;通过基于EUV的制程微缩和工艺创新，我们已具备进一步延伸现有6F-square平台的技术能力。因此，我们认为，&lt;strong&gt;目前对公司而言最高效的策略，是充分发挥这一量产可靠性和成本竞争力均已得到验证的平台优势，进一步提升产品竞争力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;要将新的存储单元结构应用于产品，不仅需要确保性能，还必须保障&lt;strong&gt;良率、可靠性和成本竞争力&lt;/strong&gt;。除此之外，产品设计和客户认证也必须全部完成。这正是技术开发时间节点与商业化时间节点相互独立的原因所在。&lt;/p&gt;
+&lt;p&gt;我们正在制定一套&lt;strong&gt;分步骤推进的技术路线图&lt;/strong&gt;，涵盖从现有DRAM的极限微缩，到4F-square，再到3D DRAM的完整路径。每项技术将在合适的时机应用于合适的产品——所谓&amp;quot;合适的时机&amp;quot;，是指在技术和经济层面均已成熟就绪之时。我们将持续发挥在工艺与设计能力、量产经验及客户协作方面的优势，通过综合性能、成本效益与可量产性，持续保持在下一代DRAM领域的技术竞争力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;谢谢。我们将进行最后一个问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作员：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最后一个问题将由NH投资证券的Young-ho Ryu提出。 请开始您的提问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问 - Young-ho Ryu：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感谢给我提问的机会，我的问题关于NAND。我们注意到，近期KV缓存的规模正在快速增长，目前也有研究正在探索如何跨多个存储层级对其进行存储和复用。请问公司预计这一趋势将如何影响未来的NAND需求？公司又在为此做哪些准备？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - 未具名发言人：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感谢您关于NAND的提问。随着&lt;strong&gt;智能体AI（Agentic AI）和长上下文应用场景的普及，KV缓存的规模正在快速扩大&lt;/strong&gt;，受容量和成本限制，已难以全部存储于HBM或DRAM中。因此，&lt;strong&gt;分层存储架构&lt;/strong&gt;的重要性日益凸显——该架构根据数据访问频率，将数据分布存储于HBM、DRAM和SSD之间。这一趋势预计将为NAND创造新的需求，用于存储和复用AI推理所需的上下文信息。SSD已在部分AI系统中被用于承接KV缓存的卸载，我们相信其角色将进一步扩展为&lt;strong&gt;上下文存储层&lt;/strong&gt;，支持多台服务器和GPU共享大规模KV缓存。&lt;/p&gt;
+&lt;p&gt;为把握这一机遇，公司正在开发多项存储分层技术，包括&lt;strong&gt;面向KV的语义感知生命周期分层技术（SALT-KV）&lt;/strong&gt;和&lt;strong&gt;CMM-Hybrid&lt;/strong&gt;。SALT-KV是一种软件技术，通过评估每个KV缓存的复用价值与存储成本，优化数据在HBM、DRAM和SSD之间的分配。CMM-Hybrid是一种&lt;strong&gt;基于CXL的混合存储技术&lt;/strong&gt;，将完整的KV缓存存储于SSD，并通过预测哪些数据可能被调用，提前将其预加载至DRAM。&lt;/p&gt;
+&lt;p&gt;近期，我们通过基于真实AI工作负载的系统演示，正在针对实际推理环境定义eSSD的适用性和性能要求，以推动其被客户及平台合作伙伴的架构所采纳。从&lt;strong&gt;中长期来看&lt;/strong&gt;，我们计划利用&lt;strong&gt;HPS（高性能存储）&lt;/strong&gt;来填补HBM与SSD之间新兴存储层级的空白——HPS将高带宽与NAND的高容量、高成本效益相结合。通过&lt;strong&gt;抢先布局AI系统架构变革所带来的NAND新需求机遇&lt;/strong&gt;，我们将推动NAND业务的持续增长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;感谢各位的解答。由于时间关系，本次问答环节到此结束。接下来，我们将以CEO的闭幕致辞，为SK海力士2026年第三季度业绩发布电话会议画上句点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Kwak Noh Jung：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们已连续&lt;strong&gt;六个季度创下历史最佳业绩&lt;/strong&gt;，但我们认为更具深远意义的是，&lt;strong&gt;底层商业环境正在发生根本性变化&lt;/strong&gt;。我们凭借技术领先所建立的客户信任，正在转化为长期合作协议，这为我们带来了更清晰的中长期需求能见度，也为持续盈利奠定了更坚实的基础。这意味着，&lt;strong&gt;有别于过去的新增长阶段的潜力，正通过我们业务结构的具体变化而逐步显现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们当前的任务，是将这些变化转化为&lt;strong&gt;持久的竞争优势&lt;/strong&gt;。我们将把包括HBM在内的存储器现有领先地位延伸至下一代产品，成为客户面向未来布局时&lt;strong&gt;首先寻求合作的伙伴&lt;/strong&gt;。我们将把市场机遇转化为实际成果，并进一步强化持续创造业绩的能力。随着业务规模的扩大和投资回报的实现，&lt;strong&gt;我们与股东共享的回报也应相应提升&lt;/strong&gt;。今日发布的股东回报计划正是这一原则的体现。我们将通过持续的业绩表现与股东共享成果，不断增强外界对公司未来增长的信心。非常感谢各位持续的关注与支持。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;答 - Seong Hwan Park：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以上是本次闭幕致辞，业绩发布电话会议到此正式结束。 非常感谢大家的参与。&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今夜美联储决议：通胀越烧越热，加息却按下暂停键？沃什迎来公信力大考</title><link>https://wallstreetcn.com/articles/3784651</link><guid>536091b654aec5bbec37b6dab38091db2f402d63568b10f91855b3cbb769a0fb</guid><pubDate>Wed, 28 Oct 2026 07:01:41 GMT</pubDate><description>&lt;p&gt;通胀数据持续超预期，美联储却几乎注定要在本周按兵不动。这一矛盾局面，正将所有压力集中到今晚的新闻发布会上——沃什将如何向市场解释，在通胀明显偏离目标的情况下选择暂停加息，同时又不损伤美联储的政策公信力。&lt;/p&gt;
 &lt;p&gt;据路透最新调查，&lt;strong&gt;100位受访经济学家中有94位预计美联储将在今晚维持利率在3.75%-4.00%不变，&lt;/strong&gt;CME联邦基金期货隐含的本次加息概率仅约10%，高盛股票波动率部门估计的互换隐含概率更低至7%。&lt;/p&gt;
 &lt;p&gt;然而，通胀数据并不支持这一立场：9月核心CPI环比上涨0.3%，高于市场预期的0.2%，年率升至2.6%；核心CPI三个月年化增速更从2.0%骤升至3.4%。9月CPI数据公布后，10月加息概率曾短暂升至约50%——这一剧烈摆动本身，已折射出市场对美联储路径的深度不确定。&lt;/p&gt;
@@ -515,45 +588,7 @@
 &lt;p&gt;本次会议的决议结果几乎没有悬念，市场真正的焦点在于沃什的记者会表现。&lt;strong&gt;7月记者会上，沃什面对&amp;quot;为何不加息&amp;quot;的追问时，回答说数据对决策的影响&amp;quot;用两个词来说，&amp;#x27;不多&amp;#x27;&amp;quot;，随即引发长债大跌的第一波冲击。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;法国外贸银行（Natixis）预期这将是一次&amp;quot;简短的记者会，不设追问环节，也不会有深度解释&amp;quot;；高盛经济学家同样&amp;quot;不期待从记者会获得实质性新信息&amp;quot;。高盛美国利率策略主管Will Marshall指出，&lt;strong&gt;关键在于沃什分配给通胀话题与金融条件话题的时间比重：更多强调通胀将强化曲线平坦化，并推动前端利率继续走高；更多强调金融条件收紧则可能令曲线重新陡峭化。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Michael Feroli为沃什提供了一套可行的表述脚本：称&amp;quot;委员会偏向于加息，但希望有更多时间观察上月加息对经济的传导效果&amp;quot;。Feroli随即指出这其中的矛盾——这本质上是一种前瞻指引，而沃什明确拒绝提供前瞻指引。他的警告耐人寻味：一个在中期选举前不到一周、在热通胀数据背景下作出的维持利率不变的决定，若得不到充分解释，将不可避免地让市场产生政策受到非经济因素左右的联想。&lt;/p&gt;
-&lt;p&gt;在声明措辞上，高盛预计FOMC或将借鉴杰斐逊副主席的近期演讲，&lt;strong&gt;采用类似&amp;quot;任何进一步的利率调整，将取决于数据趋势、前景演变及风险平衡&amp;quot;的表述。若沃什认为这过于接近前瞻指引，另一个选项则是对政策路径完全保持沉默。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 业绩炸裂、股东回报空前，SK海力士将反杀空头？</title><link>https://wallstreetcn.com/articles/3784645</link><guid>c5edf33ca56c19d5b7b407105993db4bb7fd00889cf0dba37de6c2b837eb09f5</guid><pubDate>Wed, 28 Oct 2026 06:04:14 GMT</pubDate><description>&lt;p&gt;SK海力士交出史上最强季度业绩，同时抛出远超市场预期的股东回报计划，有望将此前偏空的股票情绪拉回正轨。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，据摩根大通28日发布的研究报告，SK海力士2026年第三季度营收达104.6万亿韩元，营业利润达83.3万亿韩元，均创历史同期新高，分别超出市场共识约7%和9%，超出摩根大通自身预测约11%和16%。同日，公司宣布规模高达100万亿韩元的股东回报计划，涵盖60万亿韩元回购与40万亿韩元股息，摩根大通指出，市场此前的普遍预期仅约40万亿韩元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Jay Kwon在报告中表示，&lt;strong&gt;季度业绩超预期叠加新股东回报方案，预计将推动股票情绪由此前的偏空转为正面。&lt;/strong&gt;报告维持对SK海力士的增持（Overweight）评级，目标价270万韩元（基于2027年6月时间节点），较当前股价1,343,000韩元存在约一倍上行空间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-定价强劲，HBM4放量平稳推进
-
-&lt;p&gt;本季业绩超预期的核心驱动力来自定价端。&lt;strong&gt;SK海力士第三季度DRAM平均售价（ASP）环比上涨近30%，显著高于摩根大通此前预测的约20%；&lt;/strong&gt;NAND ASP环比上涨约25%，亦大幅高于摩根大通预测的12%。&lt;/p&gt;
-&lt;p&gt;摩根大通认为，DRAM ASP超预期表现意味着HBM4的量产爬坡进展顺利。公司预计，第四季度HBM4将在HBM出货量及营收占比上超越HBM3E，并计划在2026年底前将M15X产线提升至满产。公司同时透露，2027年HBM定价谈判已基本完成，HBM相对于传统DRAM的盈利溢价有望明显收窄。&lt;/p&gt;
-&lt;p&gt;在出货量方面，第三季度DRAM比特出货量环比增长约10%，符合摩根大通预期；NAND比特出货量则略有下滑，略逊于预期的环比增长3%。外汇因素构成一定拖累，季内汇兑损失达11.6万亿韩元。&lt;/p&gt;
-
-第四季度出货指引远超预期
-
-&lt;p&gt;公司对第四季度出货量的指引大幅高于市场预期。管理层预计，&lt;strong&gt;DRAM比特出货量环比增幅将达20%左右，远超摩根大通预测的4%；NAND比特出货量亦预计实现中个位数百分比的环比增长，高于摩根大通预测的3%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;公司将上述增长归因于1cnm制程产能扩张、M15X产线爬坡，以及基于321层堆叠架构的eSSD销售增加。321层NAND在国内产能中的占比预计于第四季度扩大至50%以上。&lt;/p&gt;
-&lt;p&gt;在技术路线上，公司计划提升1cnm制程服务器产品比重，并扩大1cnm DDR5及LPDDR5 SOCAMM的销售规模。&lt;/p&gt;
-
-百万亿回购规模远超共识，长协锁定未来两年需求
-
-&lt;p&gt;股东回报计划是本次公告另一重大亮点。SK海力士宣布2026年度股东回报计划总规模达100万亿韩元，其中包含60万亿韩元的股票回购及40万亿韩元的股息，依据摩根大通预测，这一规模对应2026年自由现金流的65%以上派发比率。&lt;/p&gt;
-&lt;p&gt;据摩根大通，&lt;strong&gt;市场此前对该计划的普遍预期约为40万亿韩元，实际公告规模约为共识的2.5倍。&lt;/strong&gt;公司同日宣布当日启动20万亿韩元的回购计划，其中10万亿韩元用于股东回报，另外10万亿韩元用于员工持股计划（PSU）购买。第三季度每股股息为20,000韩元，其中10,000韩元来自核心经营利润，另外10,000韩元来自铠侠（Kioxia）股权出售收益，公司计划在年底将大部分铠侠出售相关收益以特别股息形式分配。&lt;/p&gt;
-&lt;p&gt;需求端方面，公司已与包括全球主要云服务商（CSP）在内的14家核心客户签署长期协议（LTA），锁定2027年及2028年逾50%的总产能。公司重申，内存需求将持续超越供给至2030年。&lt;/p&gt;
-
-汇兑损失及PC与智能手机需求疲软构成隐忧
-
-&lt;p&gt;尽管经营层面全面超预期，但税前利润及净利润均低于预期，主要原因为外汇损失（11.6万亿韩元）以及与铠侠相关的投资估值损失（约22.9万亿韩元）。&lt;/p&gt;
-&lt;p&gt;此外，PC及智能手机终端需求呈现局部疲软迹象，部分终端产品出货出现调整，产品组合亦因内存价格上涨而有所变化。&lt;/p&gt;
-&lt;p&gt;资本支出方面，第三季度资本开支为12.7万亿韩元，年初至今累计31万亿韩元，摩根大通全年预测为47万亿韩元，目前进度符合预期。公司表示，资本开支主要集中于龙仁（Yong-in）产业集群基础设施建设及M15X产线关键设备采购，并预计2027年资本支出将较2026年显著增加。&lt;/p&gt;
-
-摩根大通：共识盈利预测上调空间明显
-
-&lt;p&gt;摩根大通认为，此次季度超预期业绩将推动市场共识盈利预测上移，未来12至24个月内存供需基本面的自下而上逻辑依然有利。分析师指出，2027年HBM定价，以及长协与非长协客户的结构比例和提价幅度，仍是影响共识每股盈利（EPS）上调幅度的关键变量。&lt;/p&gt;
-&lt;p&gt;报告对SK海力士的估值基于2026至2027年预测EPS均值的7倍市盈率，以反映更强劲、更持久的内存上行周期预判。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 波音大跌！737产量目标推迟至明年，自由现金流指引大幅低于预期，商业航空承压｜财报见闻</title><link>https://wallstreetcn.com/articles/3784606</link><guid>b068c2e2b0419808872432802ddf47976ea391154605f49b21c2f9f0344082d2</guid><pubDate>Tue, 27 Oct 2026 22:16:21 GMT</pubDate><description>&lt;p&gt;波音公司公布季度业绩，因产能爬坡进度落后及自由现金流前景不及预期，拖累股价大幅下跌。&lt;/p&gt;
+&lt;p&gt;在声明措辞上，高盛预计FOMC或将借鉴杰斐逊副主席的近期演讲，&lt;strong&gt;采用类似&amp;quot;任何进一步的利率调整，将取决于数据趋势、前景演变及风险平衡&amp;quot;的表述。若沃什认为这过于接近前瞻指引，另一个选项则是对政策路径完全保持沉默。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 波音大跌！737产量目标推迟至明年，自由现金流指引大幅低于预期，商业航空承压｜财报见闻</title><link>https://wallstreetcn.com/articles/3784606</link><guid>b068c2e2b0419808872432802ddf47976ea391154605f49b21c2f9f0344082d2</guid><pubDate>Tue, 27 Oct 2026 22:16:21 GMT</pubDate><description>&lt;p&gt;波音公司公布季度业绩，因产能爬坡进度落后及自由现金流前景不及预期，拖累股价大幅下跌。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第三季度，波音净亏损1.16亿美元，较上年同期54亿美元的巨额亏损显著改善；总营收增长约4%至241.9亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;商业航空板块营收同比下滑约3%至107.2亿美元，&lt;strong&gt;运营亏损达6.97亿美元，运营利润率为负6.5%，拖累整体复苏表现。&lt;/strong&gt;波音将此归因于交付机型组合不理想以及供应链成本上升。季度业绩同时受到约7亿美元司法部和解款项的一次性冲击。&lt;/p&gt;
@@ -713,49 +748,7 @@ Q2指引更强：收入中值48亿美元，非GAAP EPS指向9美元以上
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这一指引显示，公司预计需求改善趋势仍将延续，且利润扩张速度可能继续快于收入增长。虽然公司没有给出下一季度毛利率指引，但EPS指引隐含的经营利润弹性依然较强。&lt;/p&gt;
-&lt;p&gt;需要注意的是，公司表示，非GAAP EPS指引排除了已知的税前股权激励费用影响，约合每股0.30美元。其他可能影响GAAP结果的项目，例如债务交易损益、战略投资损益、减值、税项调整等，目前无法合理预测。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 强劲业绩点燃芯片热情，SK海力士大涨8%，韩股暴涨6%，铠侠飙升10%领涨日经指数</title><link>https://wallstreetcn.com/articles/3784634</link><guid>8b953f72cb5b44d7b7e2e733b8f4baedbcb25fd2316377dcf10219c6c1e854a5</guid><pubDate>Wed, 28 Oct 2026 02:37:33 GMT</pubDate><description>&lt;p&gt;亚太股市周三延续隔夜美股涨势，AI交易热情重燃叠加SK海力士史上最强季报，推动区域市场整体走高，投资者同时静待美联储利率决议及科技巨头财报带来的方向性信号。&lt;/p&gt;
-&lt;p&gt;周三MSCI亚太指数上涨0.8%，韩国综合股价指数领涨，盘中涨幅扩大至6%，SK海力士强劲业绩带动三星电子等半导体股齐涨，令市场情绪迅速升温。日本日经225指数涨逾1%，澳大利亚标普/ASX 200指数上涨0.8%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;大宗商品方面，布伦特原油从此前连续两日的跌势中大幅反弹，上涨1.6%。黄金小幅回落0.35%，现货金报约每盎司4,045美元。&lt;/p&gt;
-&lt;p&gt;美国国债收益率变动不大，10年期美债收益率维持在5.00%附近。美元指数基本持平。与此同时，新西兰联储意外按兵不动，纽元应声下跌逾1%，纽元兑澳元创2017年以来最大单日跌幅。&lt;/p&gt;
-SK海力士破纪录财报提振半导体板块
-&lt;p&gt;周三韩国综合指数大涨6%，韩国交易所随即启动SIDECAR机制，暂停程序化买盘。KOSPI200指数涨幅一度逼近7%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784619"&gt;华尔街见闻提及&lt;/a&gt;，SK海力士周三公布第三季度业绩，营业利润同比暴增逾七倍至83.33万亿韩元，大幅超越市场预期的77.5万亿韩元，季度销售额首次突破100万亿韩元，达104.62万亿韩元，同比增长328%。&lt;/p&gt;
-&lt;p&gt;公司同步宣布2026年股东回报计划，总规模达100万亿韩元（约合750亿美元），其中现金股息不低于30万亿韩元，股份回购与注销不低于60万亿韩元。&lt;/p&gt;
-&lt;p&gt;消息推动SK海力士股价持续拉升，带动三星电子一同涨超8%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Counterpoint Research总监MS Hwang表示，SK海力士的业绩印证了AI硬件需求的持续强劲。&lt;/p&gt;
-&lt;p&gt;AI交易热情同样传导至日本股市，日本芯片与电子硬件全线暴涨，半导体产业链力撑日经225指数走强超1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;存储芯片与先进封装板块展现出最强爆发力，闪存巨头&lt;strong&gt;铠侠&lt;/strong&gt;单日飙升10.43%，半导体封装基板龙头&lt;strong&gt;揖斐电电子&lt;/strong&gt;大涨6.88%。片式多层陶瓷电容器双雄&lt;strong&gt;太阳诱电&lt;/strong&gt;与&lt;strong&gt;村田制作所&lt;/strong&gt;分别强势上扬7.84%和5.12%；车规芯片大厂&lt;strong&gt;瑞萨电子&lt;/strong&gt;大幅上涨6.29%，芯片设计商&lt;strong&gt;索喜科技&lt;/strong&gt;亦录得4.59%的涨幅。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;半导体设备与上游材料供应链同步走强，硅片大厂&lt;strong&gt;胜高&lt;/strong&gt;单日上扬5.46%，芯片切割设备垄断商&lt;strong&gt;迪斯科&lt;/strong&gt;大涨5.14%，日本第一大半导体设备巨头&lt;strong&gt;东京电子&lt;/strong&gt;上扬4.71%。此外，上游电子材料供应商&lt;strong&gt;三井金属&lt;/strong&gt;录得4.48%的大幅上涨。&lt;/p&gt;
-AI交易情绪回暖，机构看好修复空间
-&lt;p&gt;SK海力士财报公布之前，市场AI情绪已在本周开始回升。此前美国芯片股在过去三至四个月经历一轮明显调整，而本周一则出现反弹，美国费城半导体指数周二单日上涨3.6%，带动纳斯达克综合指数上涨1.2%。&lt;/p&gt;
-&lt;p&gt;摩根士丹利首席美国股票策略师Mike Wilson表示，科技股的近期反弹迹象显示调整已接近尾声。他表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;大部分修正已经结束，我们已经处于修正状态四五个月……市场我认为已经非常高效地消化了这一切。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;JonesTrading机构服务公司首席市场策略师Michael O&amp;#x27;Rourke亦在报告中指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一波AI新闻在三周压力后引发了一轮解脱式反弹，相关消息让投资者得到了慰藉——大型AI公司能够、并且正在继续推进支出，即便规模较小的企业面临压力。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;市场将于本周陆续迎来Alphabet、微软和亚马逊的季度财报，AI资本支出前景将接受直接检验。&lt;/p&gt;
-新西兰联储意外按兵不动，纽元承压
-&lt;p&gt;新西兰联储周三以4:3的投票结果决定维持官方现金利率不变，低于市场普遍预期的加息25个基点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;决定公布后，纽元兑美元跌逾1%，纽元兑澳元跌幅一度接近2%，创2017年以来最大单日跌幅，两年期新西兰国债收益率日内下行12个基点。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据会议纪要，四名委员（Anna Breman、Carl Hansen、Prasanna Gai、Rebecca Williams）投票维持不变，三名委员（Paul Conway、Hayley Gourley、Karen Silk）投票赞成加息。&lt;/p&gt;
-&lt;p&gt;声明显示，委员会一致认为未来可能仍有必要收紧货币政策，但具体节奏取决于经济前景；成品油价格持续高位及汇率贬值可能带来通胀更大的二阶效应风险。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;澳大利亚三季度CPI数据高于预期，推动澳元日内涨幅一度扩大至0.3%，报约0.7045美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;澳洲联储主席Bullock在讲话中表示，通胀可能在一段时间内保持高位，全球能源价格远高于8月基准预测水平，价格上行风险正在逐步成为现实。她表示央行&amp;quot;无法容忍高通胀持续&amp;quot;，货币政策委员会将讨论迄今的紧缩力度是否已经足够。&lt;/p&gt;
-&lt;p&gt;澳洲联储副主席Hauser补充称，三季度CPI数据强于8月展望，通胀数据&amp;quot;水平过高&amp;quot;，并预计澳大利亚不会出现经济衰退。&lt;/p&gt;
-&lt;p&gt;大宗商品方面，布伦特原油从此前连续两日的跌势中大幅反弹，上涨1.6%至约每桶111.17美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;黄金小幅回落0.35%，现货金报约每盎司4,045美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta 250亿美元股票发行获5倍超额认购，超半数分配给长期投资者及现有股东</title><link>https://wallstreetcn.com/articles/3784618</link><guid>b32773251de86e5b5f27b7e0d0b5f0da1c84541c526001929336a07873820528</guid><pubDate>Tue, 27 Oct 2026 23:14:11 GMT</pubDate><description>&lt;p&gt;Meta Platforms 创纪录规模的股权融资计划获得机构投资者积极响应，彰显资本市场对其人工智能战略的高度信心。&lt;/p&gt;
+&lt;p&gt;需要注意的是，公司表示，非GAAP EPS指引排除了已知的税前股权激励费用影响，约合每股0.30美元。其他可能影响GAAP结果的项目，例如债务交易损益、战略投资损益、减值、税项调整等，目前无法合理预测。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta 250亿美元股票发行获5倍超额认购，超半数分配给长期投资者及现有股东</title><link>https://wallstreetcn.com/articles/3784618</link><guid>b32773251de86e5b5f27b7e0d0b5f0da1c84541c526001929336a07873820528</guid><pubDate>Tue, 27 Oct 2026 23:14:11 GMT</pubDate><description>&lt;p&gt;Meta Platforms 创纪录规模的股权融资计划获得机构投资者积极响应，彰显资本市场对其人工智能战略的高度信心。&lt;/p&gt;
 &lt;p&gt;据彭博援引知情人士透露，&lt;strong&gt;Meta 扩大规模后的250亿美元普通股发行吸引了约五倍于供应量的认购需求，超过一半股份被分配给长期持有型投资者及现有股东。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次发行定价每股625美元，较发行公告前上周五收盘价折让2.7%，但折价发行仍对股价形成短期压力。周二Meta收跌1.64%，报620美元，&lt;strong&gt;已经跌破发行价。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
