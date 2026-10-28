@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 28 Oct 2026 07:29:38 GMT</lastBuildDate><item><title>[华尔街见闻] 需求是供应的两倍！SK海力士电话会：DRAM和HBM产能售罄至2029年，明年资本开支将“大幅增加”</title><link>https://wallstreetcn.com/articles/3784653</link><guid>1f4618a9c213493c24a77ea3cb59315a00b079e0cfcd88086534cfdf9dcfe837</guid><pubDate>Wed, 28 Oct 2026 07:09:41 GMT</pubDate><description>&lt;p&gt;AI内存超级周期进入新阶段！SK海力士三季度营收历史性突破百万亿韩元，管理层在电话会议上宣告当前AI内存需求火爆导致“客户需求是供应量的两倍”，其核心HBM和DRAM产能更是通过长期协议“在2029年之前实际上已全部售罄”。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 28 Oct 2026 08:00:09 GMT</lastBuildDate><item><title>[华尔街见闻] 需求是供应的两倍！SK海力士电话会：DRAM和HBM产能售罄至2029年，明年资本开支将“大幅增加”</title><link>https://wallstreetcn.com/articles/3784653</link><guid>1f4618a9c213493c24a77ea3cb59315a00b079e0cfcd88086534cfdf9dcfe837</guid><pubDate>Wed, 28 Oct 2026 07:09:20 GMT</pubDate><description>&lt;p&gt;AI内存超级周期进入新阶段！SK海力士三季度营收历史性突破百万亿韩元，管理层在电话会议上宣告当前AI内存需求火爆导致“客户需求是供应量的两倍”，其核心HBM和DRAM产能更是通过长期协议“在2029年之前实际上已全部售罄”。&lt;/p&gt;
 &lt;p&gt;10月28日，SK海力士在2026年三季度业绩发布会上交出了一份历史级成绩单——&lt;a href="https://wallstreetcn.com/articles/3784619"&gt;单季营收首次突破100万亿韩元，营业利润率攀升至80%的历史峰值&lt;/a&gt;。更关键的是，管理层在电话会上明确表示：结合长期供应协议（LTA）锁定量和正在洽谈中的客户需求，“我们&lt;strong&gt;DRAM和HBM未来三年（截至2029年）的产能实际上已全部售罄&lt;/strong&gt;”，而“&lt;strong&gt;客户的采购需求量超出我们当前供应能力的两倍以上&lt;/strong&gt;”。&lt;/p&gt;
 &lt;p&gt;与此同时，比起后视镜里的惊艳业绩（营收104.62万亿韩元，营业利润83.33万亿韩元），市场与投资者更关注的是这场AI盛宴的可持续性。面对外界对AI变现能力及资本支出节奏的担忧，SK海力士管理层在电话会中抛出了极其强劲的前瞻指引：&lt;strong&gt;公司的商业模式正在从传统的“周期性波动”转向基于长期协议的“高可见度确定性增长”&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;正如公司CEO 在电话会结尾总结的那样：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;我们已经连续六个季度创下历史纪录，但我们认为更重要的是底层商业环境正在发生改变。我们通过技术领导力建立的客户信任，正在转化为长期协议，赋予我们更强的中长期需求可见度，以及更坚实的持续盈利基础。这意味着，一个有别于过去的新增长阶段，正在通过商业结构的具体变化得以显现。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;SK海力士全天高开高走，在财报公布之后更是进一步扩大涨幅，盘中一度涨超11%，收盘涨10.89%。韩国KOSP指数收盘涨超6%。&lt;/p&gt;
+&lt;p&gt;SK海力士全天高开高走，在财报公布之后更是进一步扩大涨幅，盘中一度涨超11%，收盘涨10.89%。韩国KOSPI指数收盘涨超6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 “需求是目前供应量的两倍”，未来三年产能已实质性售罄
 &lt;p&gt;本次电话会中最令市场振奋的增量信息，无疑是SK海力士长达数年的订单能见度。&lt;/p&gt;
@@ -49,7 +49,7 @@
 &lt;/blockquote&gt;
 部分大客户将HBM从12层降到8层？“不会影响我们的生意”
 &lt;p&gt;针对市场热议的“部分大客户将HBM从12层降至8层”是否会影响公司业绩的担忧，SK海力士在电话会上给出了明确的硬核回击。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784566"&gt;华尔街见闻文章&lt;/a&gt;此前写道，媒体爆料称，为缓解供应链压力，英伟达悄然下调HBM4带宽指标，并将12层堆叠降级至8层混配。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784566"&gt;华尔街见闻文章&lt;/a&gt;此前写道，此前媒体爆料称，为缓解供应链压力，英伟达悄然下调HBM4带宽指标，并将12层堆叠降级至8层混配。&lt;/p&gt;
 &lt;p&gt;对此，管理层指出，这种规格调整恰恰是“需求远超供应”的真实写照：“&lt;strong&gt;由于HBM供应依然受限，客户需要用有限的数量构建更多的AI加速器和系统。因此，我们将降低堆叠层数视为一种策略，即在相同总容量下获取更多的Cube（封装体）。&lt;/strong&gt;”&lt;/p&gt;
 &lt;p&gt;管理层进一步解释，层数降低并不必然导致HBM容量需求等比例下降：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -772,35 +772,24 @@ AI交易情绪回暖，机构看好修复空间
 &lt;p&gt;Meta 表示，新募集资金将集中投向 AI 基础设施及个人超级智能领域。&lt;/p&gt;
 &lt;p&gt;在产品层面，公司已推出名为 Muse 的个人 AI 智能体，以及 AI 模型 Muse Wonder。Meta 管理层称，Muse Wonder 在编程等任务上的表现可与 OpenAI 旗下 ChatGPT 及 Anthropic 旗下 Claude 相媲美。&lt;/p&gt;
 &lt;p&gt;此次融资规模之巨，折射出全球科技巨头围绕 AI 模型、算力基础设施及智能助手展开的资本军备竞赛正进入新阶段。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，Meta 能否将这一轮巨额资本投入转化为持续的收入增长与盈利能力提升，将是衡量本次融资长期价值的关键所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元</title><link>https://wallstreetcn.com/articles/3784649</link><guid>a43cb5cd0448877844c33ca9aa4a3389109cf3e426312351bb344619ffad1ac4</guid><pubDate>Wed, 28 Oct 2026 06:34:57 GMT</pubDate><description>&lt;p&gt;Anthropic上市在即，众多风险投资机构将从中获益数十亿美元，但真正的最大赢家很可能另有其人——亚马逊。&lt;/p&gt;
-&lt;p&gt;据雅虎财经10月27日报道，凭借独特的可转债结构安排，亚马逊对Anthropic的持仓账面价值已高达979亿美元，远超任何一家风投机构，堪称这场AI独角兽上市盛宴中的头号受益者。&lt;/p&gt;
-&lt;p&gt;根据Anthropic提交的S-1招股文件，亚马逊持有本金余额62亿美元的可转债，这也是Anthropic目前的全部债务。然而，随着Anthropic估值在多轮融资中持续飙升，这批可转债所对应的股份价值大幅膨胀。&lt;strong&gt;截至2026年6月30日，亚马逊在自身财务文件中将上述可转债持仓估值为979亿美元。&lt;/strong&gt;受此影响，Anthropic在2026年上半年的损益表中，“可转债、衍生负债及SAFE公允价值变动”一项录得高达724亿美元的非现金费用。&lt;/p&gt;
-&lt;p&gt;与此同时，谷歌同样将从Anthropic上市中获得丰厚回报。多家风投机构虽然绝对收益可观，但在持股比例上均未达到5%的主要股东披露门槛，折射出Anthropic近万亿美元估值之下股权结构的高度稀释。&lt;/p&gt;
-风投机构收益丰厚，却无一跻身主要股东之列
-&lt;p&gt;Anthropic的S-1文件揭示了一个罕见现象：&lt;strong&gt;包括Menlo Ventures、Sequoia、Sound Ventures和Spark Capital在内的多家知名风投机构，均未达到5%的主要股东披露门槛。&lt;/strong&gt;这在科技公司IPO中极为罕见——通常情况下，领投风投机构会持有被投企业两位数百分比的股权。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原因在于Anthropic的体量。&lt;/strong&gt;以965亿美元的私募估值计算，1%的股权价值接近100亿美元。据彭博此前报道，Menlo Ventures持仓约140亿美元，但这仅相当于Anthropic约1.5%的股权。换言之，即便是账面收益最为丰厚的风投机构，在持股比例上也显得微不足道。&lt;/p&gt;
-亚马逊：可转债结构锁定超额收益
-&lt;p&gt;亚马逊早在2023年便承诺向Anthropic投资最高40亿美元，此后持续加码。与传统股权投资不同，&lt;strong&gt;亚马逊将大部分投资以可转债形式结构化——这类债务将在IPO或出售时转换为股权。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;S-1文件显示，这批可转债最多可转换为18.4亿股Anthropic股票。不过，转换上限将亚马逊持股比例限制在Anthropic&amp;quot;部分稀释&amp;quot;股本的12%以内，亚马逊可选择放弃该上限。超出上限无法转换的部分将继续以债务形式存续，并在后续季度陆续转换，同样受上述限制约束。&lt;/p&gt;
-&lt;p&gt;可转债之外，亚马逊还在今年第二季度额外投入100亿美元认购无投票权优先股，分别参与Anthropic最近两轮各50亿美元的融资。加上2023年至2025年间投入可转债的80亿美元，&lt;strong&gt;亚马逊对Anthropic的总投资额约达180亿美元。&lt;/strong&gt;&lt;/p&gt;
-云计算承诺叠加，亚马逊收益远不止于股权
-&lt;p&gt;股权收益之外，亚马逊还将持续从Anthropic的业务扩张中获取可观的商业回报。&lt;strong&gt;Anthropic已承诺在未来十年内，在AWS上累计支出至少1100亿美元。&lt;/strong&gt; 这意味着亚马逊不仅是Anthropic的最大股东之一，更是其最重要的云计算服务供应商。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;谷歌同样坐拥双重收益。&lt;/strong&gt;据《纽约时报》援引法庭文件报道，谷歌在去年初持有Anthropic约14%的股权，此后继续加码，今年4月再度投入100亿美元。PitchBook分析师Harrison Rolfes向TechCrunch表示，经过多轮大规模融资的稀释，他估计谷歌目前持股比例约为5.6%。与此同时，谷歌已获得Anthropic至2033年累计至少1140亿美元的云计算承诺。&lt;/p&gt;
-战略投资者主导，潜在利益冲突引发关注
-&lt;p&gt;Anthropic的S-1文件本身也对上述结构发出了风险提示。文件指出，部分云计算服务商同时在构建竞争性AI模型，其利益诉求未必始终与Anthropic一致。&lt;/p&gt;
-&lt;p&gt;这一格局清晰呈现出Anthropic上市的深层逻辑：&lt;strong&gt;真正主导这场IPO收益分配的，并非传统意义上的风险投资机构，而是亚马逊、谷歌这样的科技巨头——它们既是Anthropic的早期投资者，又是其最大的基础设施供应商，在财务回报与商业绑定上实现了双重锁定。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板大涨近4%，机器人集体爆发，长鑫科技午后拉升，白酒调整、五粮液跌超5%，恒科指涨1%</title><link>https://wallstreetcn.com/articles/3784632</link><guid>78f53cc2c0865d89827de9ce20e9ab98168216d388aacb7890c65ba975fb76b5</guid><pubDate>Wed, 28 Oct 2026 05:22:42 GMT</pubDate><description>&lt;p&gt;A股芯片半导体强势反弹，存储芯片、HBM、半导体设备等概念股集体拉升，沐曦股份、摩尔线程等大涨，长鑫科技市值重回3万亿，隔夜&lt;a href="https://wallstreetcn.com/articles/3784535"&gt;美股反弹&lt;/a&gt;，再加上&lt;a href="https://wallstreetcn.com/articles/3784619"&gt;SK海力士最新公布的财报强劲&lt;/a&gt;，三季度营业利润同比激增7倍，且预计存储芯片供应短缺持续至2030年，韩国股市大涨6%，SK海力士、三星电子纷纷拉升。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，Meta 能否将这一轮巨额资本投入转化为持续的收入增长与盈利能力提升，将是衡量本次融资长期价值的关键所在。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板放量大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，白酒、银行调整，恒科指涨1%</title><link>https://wallstreetcn.com/articles/3784632</link><guid>78f53cc2c0865d89827de9ce20e9ab98168216d388aacb7890c65ba975fb76b5</guid><pubDate>Wed, 28 Oct 2026 07:36:59 GMT</pubDate><description>&lt;p&gt;A股芯片半导体强势反弹，存储芯片、HBM、半导体设备等概念股集体拉升，沐曦股份、摩尔线程等大涨，长鑫科技市值重回3万亿，隔夜&lt;a href="https://wallstreetcn.com/articles/3784535"&gt;美股反弹&lt;/a&gt;，再加上&lt;a href="https://wallstreetcn.com/articles/3784619"&gt;SK海力士最新公布的财报强劲&lt;/a&gt;，三季度营业利润同比激增7倍，且预计存储芯片供应短缺持续至2030年，韩国股市大涨6%，SK海力士、三星电子纷纷拉升。&lt;/p&gt;
 &lt;p&gt;10月28日，A股午后延续升势，三大指数进一步扩大涨幅，创业板指涨近4%，科创综指涨4%，科创50涨超3%，半导体、算力硬件爆发，覆铜板、光电路交换机、光芯片、存储芯片、电路板、半导体设备等概念股普遍走强。以人形机器人为代表的物理AI产业链大涨，宇树科技股价自10月中旬以来7个交易日反弹超过65%。白酒、饮料制造等大消费陷入调整，五粮液跌5%，其第三季度净利润同比下降48%。&lt;/p&gt;
 &lt;p&gt;港股早盘亦走高，恒科指涨超1%，权重科网股多数上涨，芯片半导体、光模块等科技股反弹，兆易创新、华虹宏力、澜起科技等涨幅居前。新消费概念股泡泡玛特低开6%后早盘回升，午盘接近翻绿。债市方面，国债期货震荡下跌。商品方面，国内商品期货多少上涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指涨0.91%，深成指涨2.51%，创业板指涨3.89%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至收盘，沪指涨0.91%，深成指涨2.02%，创业板指涨3.40%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股涨多跌少，沪深京三市超4100股飘红，今日成交1.64万亿。沪深两市成交额1.63万亿，较上一个交易日放量近1700亿。板块方面，中际旭创、新易盛强力反弹，领跑AI硬件侧。人形机器人、汽车零部件、CRO、传媒、家电、军工板块走强，银行、煤炭等红利资产午后回暖。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.23%，恒科指涨1.59%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;债市：国债期货震荡下跌，截至发稿，30年期主力合约跌0.08%，10年期主力合约跌0.01%，5年期主力合约跌0.01%，2年期主力合约持平。&lt;/p&gt;
+&lt;p&gt;债市：国债期货午后全线反弹走高，截至收盘，30年期主力合约涨0.04%，10年期主力合约涨0.03%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至发稿，多数上涨，化工品涨幅居前，乙二醇涨3.64%；基本金属多数上涨，氧化铝涨2.55%；农副产品多数上涨，苹果涨2.30%；黑色系全部上涨，焦煤涨2.20%；非金属建材全部上涨，PVC涨2.14%；贵金属多数上涨，铂涨1.74%；能源品多数上涨，燃油涨1.30%；新能源材料多数上涨，多晶硅涨0.97%；油脂油料多数上涨，豆油涨0.75%；航运期货跌幅居前，集运指数(欧线)跌2.07%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数上涨，截至收盘，化工品涨幅居前，乙二醇涨5.62%；非金属建材全部上涨，PVC涨3.29%；黑色系全部上涨，焦煤涨2.70%；基本金属全部上涨，氧化铝涨2.43%；能源品全部上涨，低硫燃料油涨2.15%；农副产品全部上涨，鸡蛋涨2.08%；贵金属多数上涨，铂涨1.23%；新能源材料多数上涨，多晶硅涨0.70%；油脂油料多数上涨，豆油涨0.65%；航运期货跌幅居前，集运指数(欧线)跌1.91%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;13:26&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;存储板块继续发力，君正股份封住涨停，兆易创新、佰维存储升超8%。韩股SK海力士涨幅扩大至11%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;13:18&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;科创综指涨超4%，长鑫科技、中芯国际、沐曦股份、摩尔线程、联讯仪器集体拉升。根据规则，长鑫科技今日入列科创综指。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -869,4 +858,19 @@ AI交易情绪回暖，机构看好修复空间
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数高开0.19%，恒生科技指数涨0.78%。联想集团、药明康德、剑桥科技、君正股份走强。泡泡玛特跌超6%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta、谷歌押注的Jio上市大涨，创印度最大IPO</title><link>https://wallstreetcn.com/articles/3784654</link><guid>858f31ca66f443541d672e4dac1099546dc8e072d8ac5a3b0054495e3583dc8d</guid><pubDate>Wed, 28 Oct 2026 07:34:41 GMT</pubDate><description>&lt;p&gt;Jio Platforms上市首日股价飙升逾21%，成为印度史上最大IPO，全球顶级机构投资者的热烈追捧印证了市场对这家科技巨头的高度信心。&lt;/p&gt;
+&lt;p&gt;股价最新报1362卢比，较发行价1119卢比大幅溢价。这一表现超越了机构分析师的普遍预期——野村证券周三给予Jio Platforms买入评级，目标价1340卢比，较发行价隐含19.7%的上行空间，但实际股价已一举突破该目标位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此次IPO共募资3020亿卢比（约32亿美元），认购倍数超过22倍，包括贝莱德、Capital Group及新加坡政府投资公司（GIC）在内的全球顶级基金均参与了锚定投资者配售。这一里程碑式的上市，为印度资本市场的大型交易注入了强心剂。&lt;/p&gt;
+
+史上最大IPO，开市95分钟售罄
+
+&lt;p&gt;Jio Platforms此次共发售2.7亿股，发行价定为每股1119卢比，融资规模创下印度IPO历史纪录。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据孟买证券交易所（BSE）数据，公开认购阶段整体超额认购逾22倍，其中合格机构投资者（QIB）部分认购倍数高达70.55倍，零售投资者部分则认购2.72倍，机构需求远超散户。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jio Platforms董事总经理、印度亿万富翁穆克什·安巴尼（Mukesh Ambani）之子Akash Ambani在上市仪式前表示，IPO于10月21日开放认购后，仅95分钟便完成全额认购。含锚定投资者在内，此次发行合计吸引了780亿美元的总需求。&lt;/p&gt;
+
+母公司领衔，Meta与谷歌居前列
+
+&lt;p&gt;据LSEG数据，安巴尼旗舰企业信实工业（Reliance Industries）持有Jio Platforms逾66%的股权，为第一大股东。Meta Platforms旗下关联公司Jaadhu Holdings持股近10%，位居第二；谷歌国际（Google International）持股7.7%，列第三。&lt;/p&gt;
+&lt;p&gt;野村证券周三发布报告，首次覆盖Jio Platforms并给予买入评级，目标价1340卢比。野村在报告中指出，Jio的资本开支周期基本已接近尾声，预计公司自由现金流将出现显著改善。&lt;/p&gt;
+&lt;p&gt;然而上市首日股价表现已超出野村目标价，最新成交价报1357卢比，市场定价反映出投资者对Jio长期盈利能力的更为乐观的预期。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
