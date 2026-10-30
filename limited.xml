@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 30 Oct 2026 18:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔：PC先塌，代工仍“稍后再说”</title><link>https://wallstreetcn.com/articles/3784885</link><guid>fc10983b6d38842b701a2e982a1d68e5a3efada49116e43917cc482b77ec80be</guid><pubDate>Fri, 30 Oct 2026 15:23:29 GMT</pubDate><description>&lt;p&gt;10月30日，英特尔盘中大跌近三成，前一日公司刚给出十五年来最强的数据中心增长。市场跌的却不是当季成绩单，而是下一季PC、毛利率，以及仍写不进估值模型的外部代工。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 30 Oct 2026 19:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔：PC先塌，代工仍“稍后再说”</title><link>https://wallstreetcn.com/articles/3784885</link><guid>fc10983b6d38842b701a2e982a1d68e5a3efada49116e43917cc482b77ec80be</guid><pubDate>Fri, 30 Oct 2026 15:23:29 GMT</pubDate><description>&lt;p&gt;10月30日，英特尔盘中大跌近三成，前一日公司刚给出十五年来最强的数据中心增长。市场跌的却不是当季成绩单，而是下一季PC、毛利率，以及仍写不进估值模型的外部代工。&lt;/p&gt;
 &lt;p&gt;几个小时前的电话会上，美银没有先夸成绩单，而是直接追问外部代工：&lt;strong&gt;客户什么时候从评估走到正式流片——设计定稿、交给晶圆厂开做——外部收入什么时候能写进模型。&lt;/strong&gt;首席执行官陈立武（Lip-Bu Tan）说客户细节不披露；包装侧“接下来两个季度会有人准备宣布”，18A、14A 都说“稍后再说”，时间表没有，能建模的数字也没有。&lt;/p&gt;
 &lt;p&gt;英特尔本季财报并不差，出问题的是下一季：营收和每股收益指引大幅低于相对一致预期，PC 被内存按住。以色列工厂又出了事，南部基亚特加特的Fab 28，是公司早年 10纳米量产主力之一，至今仍扛着一批服务器用10纳米产品，本月初爆炸停产约两周。&lt;/p&gt;
 &lt;p&gt;有分析师再问明年资本开支多少、自由现金流何时转正？首席财务官戴夫·辛斯纳（Dave Zinsner）说数字还没锁死，明年是投资年，&lt;strong&gt;“大概不会有正的自由现金流”。&lt;/strong&gt;公司股价大跌近三成，跌的是PC走软、毛利率下移，以及“稍后再说”的外部代工。&lt;/p&gt;
@@ -322,47 +322,7 @@ H股成功登陆港交所，拓宽融资渠道
 &lt;p&gt;增持计划公布后，福建省投于&lt;strong&gt;2026年10月8日至10月21日&lt;/strong&gt;（即国庆节后首个交易日起）正式启动增持，累计以自有资金增持公司股份305万股，占公司总股本的0.0353%，&lt;strong&gt;增持金额合计约1718.99万元，均价约为5.64元/股。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;公告显示，&lt;strong&gt;本次增持计划尚未实施完毕&lt;/strong&gt;，福建省投将继续按照增持计划以自有资金安排执行后续增持。&lt;/p&gt;
 &lt;p&gt;值得注意的是，福建省投目前持有兴业证券&lt;strong&gt;6.345亿股&lt;/strong&gt;，持股比例为&lt;strong&gt;7.35%&lt;/strong&gt;，与其一致行动人福建省融资担保有限责任公司（持股1.37%）、福建省华兴集团有限责任公司（持股0.10%）合计持股比例达&lt;strong&gt;8.82%&lt;/strong&gt;。此次增持不会导致公司控股股东及实际控制人发生变化。&lt;/p&gt;
-&lt;p&gt;二级市场上，兴业证券自福建省投10月首次增持以来，整体股价下跌了约6.17%，走势和大盘走势整体表现接近（下图，来自choice）。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋</title><link>https://wallstreetcn.com/articles/3784841</link><guid>e7a69ea3f2f60cca28078871cbd6084b1b8f196f246b1d22f61fbc33ab62033c</guid><pubDate>Fri, 30 Oct 2026 07:07:39 GMT</pubDate><description>&lt;p&gt;当美联储暂停加息、科技巨头财报密集落地，华尔街正站在一个历史选择题面前：季节性多头规律能否再次奏效，还是2000年科技泡沫破裂的幽灵正在重现？&lt;/p&gt;
-&lt;p&gt;德意志银行和BTIG本周相继翻出历史账本，却得出截然相反的结论。德意志银行援引近百年市场数据，指向年底圣诞行情的惯性驱动力；BTIG首席技术策略师Jonathan Krinsky则以2000年费城半导体指数崩溃为模板，警告市场正逼近一个向下的转折点。&lt;/p&gt;
-&lt;p&gt;两套叙事框架的碰撞，正在让投资者面临今年最难判断的方向性抉择。Krinsky的核心论点并不在于财报数字本身，&lt;strong&gt;而在于&amp;quot;对市场反应的再反应&amp;quot;——他认为本轮反弹缺乏真正的筹码出清，期权市场的自满情绪尚未消散，这与历次真正底部形成前的面貌截然不同。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-圣诞行情的历史依据
-
-&lt;p&gt;德意志银行的Jim Reid在本周的每日图表中援引自1928年以来的S&amp;amp;P 500数据，指出标普500在典型年份最后一次探底通常发生在10月27日前后，此后&amp;quot;在平均年份中基本是单边向上直至年底&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Reid进一步引用同行Binky Chadha和Parag Thatte的研究：在过去23个中期选举年中，有21个年份的标普500在10月初低点后的三个月内录得上涨。逻辑在于：&lt;strong&gt;选举不确定性消退、权益资产已经历一轮回调，而政治僵局通常被市场视为利好。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Reid形容2026年走势是中期选举剧本的&amp;quot;温和版本&amp;quot;——&lt;strong&gt;标普500在5月29日创历史新高，年内涨幅约11%，但近五个月后仅比高点低不足1%。他的结论颇具节日气氛：&amp;quot;季节性规律不是命运，伊朗、人工智能和法国的担忧不会神奇消失。但如果历史可以借鉴，今天往往是圣诞行情开始升温的时刻。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，Reid自己也给出了明确的风险提示：&lt;strong&gt;平均值掩盖了巨大的分散性，1962年、1974年、2002年和2022年都是中期选举年，最终演变成熊市。其中2002年，恰好是2000年科技泡沫最终触底的一年。&lt;/strong&gt;&lt;/p&gt;
-
-Krinsky的2000年模板
-
-&lt;p&gt;Krinsky早在9月便开始追踪2000年费城半导体指数（SOX）的历史模拟。他指出，&lt;strong&gt;2000年SOX在3月14日触顶后，部分个股继续创出新高，但指数本身再未回头——与今年的走势高度吻合。在2000年的版本中，SOX从9月初约1200点跌至12月初约540点，跌幅超过55%，与圣诞行情毫无关系。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;该模板上周曾短暂偏离，但Krinsky认为本周已重新回归正轨。他预计SOXX（半导体ETF）将在未来数日内继续小幅反弹至550至570区间，随后在11月中期选举周前后急转直下。他坦言，&amp;quot;这可能是目前市场最非共识的观点，但正因如此我们更看重它。&amp;quot;&lt;/p&gt;
-&lt;p&gt;从技术层面看，SOXX已在其200日移动均线附近获得支撑，但Krinsky对这条均线能否守住信心不足。他认为SOXX最终将在200日均线附近约475美元附近承压，而彭博Candle Sessions的技术计数显示，该ETF上周已触发10计数低点，目前处于上行第3计数，预计在未来4至7个交易日内再度出现上行动能耗尽信号——时间窗口恰好落在中期选举周。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-出清事件尚未真正出清
-
-&lt;p&gt;Krinsky的核心分析框架是：&lt;strong&gt;真正的底部反弹需要此前发生充分的&amp;quot;出清&amp;quot;。他认为目前的市场远未达到这一条件。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从板块层面看，标普500十一个板块中，目前仅有通讯服务一个板块的相对强弱指数（RSI）低于49。对比今年3月31日，当时只有三个板块的RSI高于50——两者的超卖程度判若云泥。&lt;/p&gt;
-&lt;p&gt;期权市场同样未显示出恐慌迹象。当前20日股票期权看跌/看涨比率为0.59，总看跌/看涨比率为0.87，而今年3月市场真正低点前后，该比率分别约为0.67和接近1.0。Krinsky的结论是：&lt;strong&gt;通常在真正底部反弹前大量涌现的对冲头寸，这一次根本没有被买入。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对冲基金层面确实发生了某种程度的&amp;quot;清洗&amp;quot;。据Nomura的Charlie McElligott描述，10月人工智能&amp;quot;成长恐慌&amp;quot;和动量因子平仓期间，约100名多策略基金经理已离职出局，还有人在美联储议息当天购入了约16亿美元delta的Mag7看涨期权。但Krinsky认为，这恰恰说明问题——清洗尚在进行，新的押注已经进场。&lt;/p&gt;
-
-财报季的反应测试
-
-&lt;p&gt;本财报季迄今两份超大市值科技公司的财报，均未能起到&amp;quot;出清&amp;quot;效果，反而印证了Krinsky的担忧。&lt;/p&gt;
-&lt;p&gt;微软盘后大涨约6%，Azure云业务超预期，但订单和积压数据表现平平。谷歌则因营收和利润双双逊于预期，股价重挫约8%，跌至4月以来最低，谷歌自由现金流已连续第二个季度为负，并与Meta一同加入了市场&amp;quot;不愿为AI资本开支买单&amp;quot;的名单。&lt;/p&gt;
-&lt;p&gt;韩国存储芯片巨头SK Hynix的财报是本季少有的正面案例，带动相关板块情绪明显改善。&lt;strong&gt;Krinsky承认这在一定程度上是真正的短期出清事件——SK Hynix此前已经历约33%的回撤。他认为其股价有望反弹至180美元附近，但之后仍将再度承压。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此外，美联储此次会议也未能给出方向性指引。美联储按预期暂停加息，但Hammack和Lisa Cook均意外投票支持加息，会后美联储主席发表了鹰派基调的新闻发布会，股市却依然上涨。值得注意的是，美联储已将AI相关的内存需求纳入通胀评估框架——这意味着，当前驱动半导体反弹的存储热潮，已在一定程度上成为美联储货币政策收紧的潜在变量。&lt;/p&gt;
-
-两套历史，一个十一月
-
-&lt;p&gt;两套叙事的分歧，最终归结为一个方法论问题：98年平均数据的统计规律，是否能战胜一个单一但高度契合的历史模拟？&lt;/p&gt;
-&lt;p&gt;德意志银行的数据以样本量取胜，但正如Reid自己所警告的，平均值遮盖了极端情形。Krinsky的反驳逻辑则在于：平均年份的统计前提在2026年并不成立——标普500距历史新高不足1%，期权市场毫无恐慌，仅一个板块处于超卖区间，两份旗舰科技财报均遭抛售。当大多数人都在引用同一张圣诞行情图表的时候，出清效应已然被预期本身消耗殆尽。&lt;/p&gt;
-&lt;p&gt;在此框架下，当前市场最清晰的路径或许是：SOXX在未来数日内完成最后一段反弹，触及550至570区间，随后在中期选举周前后出现方向性逆转。但如果微软的涨势持续，谷歌的跌幅明日被承接，圣诞行情的剧本也并非没有翻盘的空间。答案，或许在本周五的收盘价中已见分晓。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅</title><link>https://wallstreetcn.com/articles/3784820</link><guid>2585f4e21f61c2d6601d9fe345b69de9d347e1554f06883b686d8ea646cd712e</guid><pubDate>Fri, 30 Oct 2026 08:16:30 GMT</pubDate><description>&lt;p&gt;A股和港股算力硬件、存储芯片等科技股承压，光模块龙头“易中天”大跌：此前受到谷歌财报重挫市场信心，隔夜美股遭遇抛售，叠加亚马逊和英特尔盘后双双大跌，以及韩国综合指数收盘跌3.53%，SK海力士跌超7%。同时新易盛和中际旭创最新财报公布显示，&lt;a href="https://wallstreetcn.com/articles/3784769"&gt;新易盛&lt;/a&gt;三季度净利润环比下降19%，存货大增141%；&lt;a href="https://wallstreetcn.com/articles/3784772"&gt;中际旭创&lt;/a&gt;Q3营收环比增24.62%，净利润环比增8.46%，控股股东减持32亿。&lt;/p&gt;
+&lt;p&gt;二级市场上，兴业证券自福建省投10月首次增持以来，整体股价下跌了约6.17%，走势和大盘走势整体表现接近（下图，来自choice）。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅</title><link>https://wallstreetcn.com/articles/3784820</link><guid>2585f4e21f61c2d6601d9fe345b69de9d347e1554f06883b686d8ea646cd712e</guid><pubDate>Fri, 30 Oct 2026 08:16:30 GMT</pubDate><description>&lt;p&gt;A股和港股算力硬件、存储芯片等科技股承压，光模块龙头“易中天”大跌：此前受到谷歌财报重挫市场信心，隔夜美股遭遇抛售，叠加亚马逊和英特尔盘后双双大跌，以及韩国综合指数收盘跌3.53%，SK海力士跌超7%。同时新易盛和中际旭创最新财报公布显示，&lt;a href="https://wallstreetcn.com/articles/3784769"&gt;新易盛&lt;/a&gt;三季度净利润环比下降19%，存货大增141%；&lt;a href="https://wallstreetcn.com/articles/3784772"&gt;中际旭创&lt;/a&gt;Q3营收环比增24.62%，净利润环比增8.46%，控股股东减持32亿。&lt;/p&gt;
 &lt;p&gt;10月30日，A股各大指数早盘低开回升，午盘跌幅显著收窄，午后三大指数一度拉升翻红，随后又再度回落，创业板和科创50指数跌幅显著，因算力硬件等科技股再度陷入调整，光模块、光通信、光芯片等概念股集体下挫，“易中天”齐跌，新易盛大跌14%，天孚通信跌超8%。白酒、饮料、白色家电等消费股反弹。创新药、CRO逆势拉升。银行、煤炭板块午后走俏，银行股批量新高。传媒股大面积跌停。&lt;/p&gt;
 &lt;p&gt;多只A500ETF较昨日全天放量成交，创业板ETF易方达、科创50ETF华夏成交额再度双双突破100亿元，A500ETF华泰柏瑞成交额68亿元，较昨日全天放量6%、A500ETF南方成交额64亿元，较昨日全天放量7%、A500ETF易方达成交额39亿元，较昨日全天放量30%、A500ETF华夏成交额18亿元，较昨日全天放量61%。&lt;/p&gt;
 &lt;p&gt;港股全天震荡上涨，恒指、恒科指集体走高，恒指涨超1%，恒科指冲高回落，盘中一度涨超1.5%，权重科网股多数反弹，小米、美团、阿里、携程、网易等纷纷走高。光模块等算力硬件下挫，中际旭创H股跌超4%，盘初一度跌超7%创上市以来新低。存储芯片、AI大模型股同样承压，智谱大跌9%。债市方面，国债期货全线下跌，30年期国债期货跌幅创今年3月以来最大。商品方面，国内商品期货涨跌参半。&lt;/p&gt;
