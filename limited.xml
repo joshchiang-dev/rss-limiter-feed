@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 31 Oct 2026 17:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高</title><link>https://wallstreetcn.com/articles/3784912</link><guid>cd0b10d568a7f1e964c6c2e54d87f2ed6dfdd9f36c08b75228f7317c7b8ac58a</guid><pubDate>Sat, 31 Oct 2026 06:57:15 GMT</pubDate><description>&lt;p&gt;周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 31 Oct 2026 17:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高</title><link>https://wallstreetcn.com/articles/3784912</link><guid>cd0b10d568a7f1e964c6c2e54d87f2ed6dfdd9f36c08b75228f7317c7b8ac58a</guid><pubDate>Sat, 31 Oct 2026 06:57:15 GMT</pubDate><description>&lt;p&gt;周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。&lt;/p&gt;
 &lt;p&gt;标普500指数当时下跌1.5%。英特尔录得有记录以来最大日内跌幅，AI主导的抛售让本周的科技股跌势进一步加深；高盛追踪美国上市AI概念股的GS Broad AI US Index下跌4.7%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;防御板块则受到追捧。必需消费是标普500表现最好的板块，上涨1.64%，板块指数在纽约午盘前一度创下纪录新高。&lt;/p&gt;
@@ -46,48 +46,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;空头们分析称，存储本质上是周期行业，过去一年却说服自己相信是结构性的。现货价3月见顶，合约价涨幅从70%降至25%左右，铠侠一边指引利润持平、一边投入5万亿日元扩产，又因最大的买家买不起芯片而削减出货。另据彭博，大型科技公司7500亿美元的AI支出正与核心业务增长放缓相撞。不少投资者认为，本应消化这些新增产能的超大规模云厂商，可能也会开始更强硬地议价。&lt;/p&gt;
 &lt;p&gt;多头则认为：季度涨幅25%左右依然是罕见的强势市场，数据中心需求具有结构性，铠侠管理层可能是有意保守。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2008再现！一文读懂华尔街最热门交易：AI CDS</title><link>https://wallstreetcn.com/articles/3784900</link><guid>fcf2f7a9071c361badb6ee0b6c8ed7a160f6240c10445abb7f0c63a7d4fed494</guid><pubDate>Sat, 31 Oct 2026 05:41:38 GMT</pubDate><description>&lt;p&gt;巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出&lt;strong&gt;随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显著的重新定价，其CDS交易量及利差均呈现急剧上升趋势。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;10月29日，巴克莱银行报告指出，包括谷歌、亚马逊、Meta、微软、甲骨文等超大规模云计算服务商，以及AMD、博通、英伟达等芯片制造商在内的&lt;strong&gt;10家核心AI企业，目前仅占CDX投资级指数成分的8%，但已占到该指数隐含信贷风险的16%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;巴克莱强调，过去六个月，这十家公司的信用风险均有所扩大，目前均处于其六个月波动区间的上限附近。&lt;/p&gt;
-&lt;p&gt;（AI 群体：当前5年期CDS的六个月区间对比）&lt;/p&gt;
-&lt;p&gt;这意味着持有该投资级指数的投资者已被动承担了大量AI领域的波动风险。此外，这些核心AI企业的CDS与现金债券的基差已转为正值，&lt;strong&gt;即购买违约保护的成本已超过持有这些企业债券所带来的额外收益&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;据彭博报道，&lt;strong&gt;这一反常现象主要由于大量未持有相关债券的机构（如进行对冲的股票基金和银行）正大举买入CDS，以对冲巨大的AI资本支出及相关贷款风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此番技术性异动在信贷对冲与基差扭曲的逻辑上，与2008年当年极其相似。&lt;/strong&gt;当年大量未持有次级房贷债券的机构（如对冲基金、投资银行），出于宏观看空或风险规避，通过买入CDS保护来下注违约风险。这种密集的“裸对冲”衍生品买盘将CDS利差极度推高，甚至超过了现货债券本身的信用利差，直接推升CDS-现金债券基差转正。&lt;/p&gt;
-&lt;p&gt;在巴克莱发布该报告之际，头部科技企业的融资需求正持续向市场施压。近期，微软启动了逾250亿美元的债券发行，亚马逊单季度新增超480亿美元长期债务，博通也计划于明年初筹集高达210亿美元资金。&lt;/p&gt;
-&lt;p&gt;这些巨额融资进一步推高了市场的对冲需求，导致相关企业CDS成本触及历史新高。&lt;/p&gt;
-芯片制造商信贷特征转变，利差大幅走阔
-&lt;p&gt;在这波信贷重新定价中，&lt;strong&gt;芯片制造商的CDS利差走阔最为显著&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;六个月前，博通、AMD和英伟达的CDS利差尚处于同类别的最低水平，在40个基点左右徘徊。&lt;/p&gt;
-&lt;p&gt;（AI群体5年期CDS，六个月前vs.现在，按六个月变化幅度排序）&lt;/p&gt;
-&lt;p&gt;然而，如今这三家公司的CDS利差已跃居前列，其中博通的5年期CDS在六个月内飙升258%，AMD上涨177%，英伟达上涨172%。相比之下，评级为AAA的微软仅上涨了20%。&lt;/p&gt;
-&lt;p&gt;巴克莱在报告中指出，随着芯片供应商开始向客户提供贷款以购买其芯片（即供应商融资），&lt;strong&gt;信贷市场已开始将这些公司视为拥有高度集中贷款账本的贷款机构&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;例如，在银行对Anthropic的630亿美元芯片交易产生疑虑后，博通出面提供了担保。&lt;strong&gt;基于此，巴克莱建议买入博通的5年期CDS保护，作为对冲更广泛AI融资压力的宏观策略。&lt;/strong&gt;&lt;/p&gt;
-基差转正与对冲需求驱动交易量激增
-&lt;p&gt;&lt;strong&gt;CDS与现金债券的基差转正，是当前AI信贷市场最显著的技术特征。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;过去一年，CDX投资级指数中非AI企业的基差基本保持负值，即CDS利差低于债券利差，但AI群体的基差已上升约50个基点并转为正值。在芯片制造商和甲骨文中，这一正基差尤为明显。&lt;/p&gt;
-&lt;p&gt;（AI 群体的CDS-现金债券基差现已转为正值，而非 AI 群体的基差仍为负值）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这种结构性变化伴随着交易量的爆炸性增长。&lt;/strong&gt;截至10月23日，超大规模云服务商的4周平均周交易量达到约60亿美元，同比猛增约740%；芯片制造商的周交易量达到30亿美元，同比激增1900%。&lt;/p&gt;
-&lt;p&gt;（超大规模云服务商与半导体企业的 CDS 交易量已显著增加）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未平仓合约（Open interest）数据同样印证了资金的持续流入。&lt;/strong&gt;超大规模云服务商的净未平仓合约名义价值已从一年前的约50亿美元翻倍至200亿美元，芯片制造商则从约19亿美元增至86亿美元。&lt;/p&gt;
-&lt;p&gt;（AI 群体的未平仓合约已从一年前的约70亿美元增至目前的280亿美元以上）&lt;/p&gt;
-&lt;p&gt;这10家AI企业目前占美洲企业单一名称CDS所有未平仓合约的近14%，远高于一年前的4%。&lt;/p&gt;
-曲线形态分化，交易策略凸显个股差异
-&lt;p&gt;通过对CDS曲线&lt;strong&gt;3年期与5年期利差对比&lt;/strong&gt;的分析，巴克莱指出了个别企业的定价异常。&lt;/p&gt;
-&lt;p&gt;例如，亚马逊与谷歌的5年期CDS水平相当（80-81基点），但亚马逊的3s5s曲线（3年与5年利差）仅为18基点，显得过于平坦。&lt;/p&gt;
-&lt;p&gt;（当前 3s5s CDS 曲线的绝对值，以及占 5 年期 CDS 的百分比）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;巴克莱认为这可能与亚马逊 6月份的一笔定期贷款造成的买盘压力有关，并建议买入亚马逊5年期保护或构建陡峭化交易组合&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;财报数据随后印证了对冲的必要性，亚马逊公布第三季度自由现金流消耗达335亿美元，资本支出高达773亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;作为市场上最具流动性的CDS标的，甲骨文的基差在样本中处于高位&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;（当前CDS-现金债券基差在一年区间内所处位置对比图）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;巴克莱建议卖出甲骨文的5年期基差，即卖出2032年到期债券同时卖出CDS保护，以博弈基差的收敛&lt;/strong&gt;。此前，甲骨文宣布将未来几年的额外融资上限设定为200亿美元。&lt;/p&gt;
-&lt;p&gt;此外，英特尔是样本中唯一基差仍为负值（-14基点）且曲线相对陡峭的企业，这主要由于其并未深度参与同行的供应商融资模式。但在疲软的业绩指引公布后，其股价创下了自1982年以来的最大单日跌幅。&lt;/p&gt;
-高收益市场缩影：CoreWeave违约保护成本高企
-&lt;p&gt;&lt;strong&gt;在投资级之外，CoreWeave作为CDX高收益指数中唯一直接相关的AI企业CDS，成为了观察数据中心和新型云服务商信贷风险的独特窗口。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，CoreWeave的5年期CDS已采用“预付点数”（points upfront）的定价方式，达到15.5点，这一通常用于受困债务的定价模式凸显了市场对其风险的高度警惕。&lt;/p&gt;
-&lt;p&gt;（CoreWeave 5年期CDS，以预付点数报价）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据显示，CoreWeave的CDS周交易量已从一年前的3200万美元升至3.02亿美元，未平仓合约增至8.5亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;（CoreWeave周交易量已从一年前的3200万美元升至 3.02 亿美元，未平仓合约增至8.5亿美元）&lt;/p&gt;
-&lt;p&gt;尽管有分析师维持对CoreWeave债券的“超配”评级，但其高达15.5点的违约保护前期成本表明，CDS市场正在对其业务模式的潜在违约风险进行更为严苛的定价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当前AI最紧迫的瓶颈：廉价资金正在枯竭！</title><link>https://wallstreetcn.com/articles/3784910</link><guid>c1e14f34063e39496d04c51121f9cf4655b1dcba15e4f42caa18162ec33bdef5</guid><pubDate>Sat, 31 Oct 2026 06:31:46 GMT</pubDate><description>&lt;p&gt;过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 当前AI最紧迫的瓶颈：廉价资金正在枯竭！</title><link>https://wallstreetcn.com/articles/3784910</link><guid>c1e14f34063e39496d04c51121f9cf4655b1dcba15e4f42caa18162ec33bdef5</guid><pubDate>Sat, 31 Oct 2026 06:31:46 GMT</pubDate><description>&lt;p&gt;过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。&lt;/p&gt;
 &lt;p&gt;本周，AI行业最受追捧的两家头部玩家在资本市场上相继碰壁：黑石告诉投资者，Anthropic上市后恐怕只能拿到垃圾级评级；OpenAI则把新一轮融资目标从300亿美元砍到约200亿美元。&lt;/p&gt;
 &lt;p&gt;两件事指向同一个变化：对美国AI行业来说，廉价资金越来越难拿了。&lt;/p&gt;
 &lt;p&gt;太平洋投资管理公司（Pimco）首席投资官Dan Ivascyn表示：&lt;/p&gt;
@@ -177,77 +136,7 @@
 &lt;p&gt;不过，他明确表示自己没有交易内幕，这只是个人推测。Nvidia此前的投资和采购合作，也不能证明它有意参与收购。&lt;/p&gt;
 &lt;p&gt;对Marvell来说，这笔交易的核心考验最终仍是如何平衡两件事：通过整合芯片与光学技术获得更高的整体价值，同时避免原有客户因为竞争关系而转向其他供应商。&lt;/p&gt;
 &lt;p&gt;Andrew Schmitt的判断是，光学组件已经成为AI基础设施中价值更高的环节，芯片公司收购光学企业的经济逻辑正在改变。Scott Wilkinson则提醒，在光通信这个容易出现“赢家通吃”的市场，产能和规模决定最终份额。&lt;/p&gt;
-&lt;p&gt;Marvell想打通从芯片到光学的产业链，能否同时守住客户、技术和市场份额，将决定这场整合究竟能创造多大价值。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 长鑫科技业绩交流会：LPDDR6瞄准汽车新场景，20亿回购获通过，强劲现金流支撑再投入</title><link>https://wallstreetcn.com/articles/3784905</link><guid>4c6997eb556c65d70d1ba380798a9148f458535af35920eef75f652f88d1a46c</guid><pubDate>Sat, 31 Oct 2026 05:45:00 GMT</pubDate><description>&lt;p&gt;长鑫科技2026年三季度交出一份强劲成绩单，同时以LPDDR6首发旗舰手机为标志，正式宣示跻身全球高端存储第一梯队。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784870"&gt;华尔街见闻提及&lt;/a&gt;，2026年第三季度，长鑫科技实现&lt;strong&gt;营业收入&lt;/strong&gt;1187亿元，环比增长19%；&lt;strong&gt;利润总额&lt;/strong&gt;990亿元，环比增长21%；&lt;strong&gt;净利润&lt;/strong&gt;890亿元，环比增长19%；&lt;strong&gt;毛利率&lt;/strong&gt;达89.53%，较二季度提升1.94个百分点，&lt;strong&gt;营业利润率&lt;/strong&gt;83.43%再创历史高位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;前三季度&lt;/strong&gt;累计营收2690亿元，同比增长739%，净利润1965亿元，多项核心指标刷新公司历史记录。&lt;/p&gt;
-&lt;p&gt;随后，总裁曹堪宇在&lt;strong&gt;上市后的首次&lt;/strong&gt;业绩交流会上表示，受AI应用快速发展带动，&lt;strong&gt;四季度服务器客户需求仍然强劲，DRAM供不应求态势预计持续，公司营收将继续增长。展望2027年，AI、智能终端和汽车智能化需求仍被视为主要增长来源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;董事会秘书袁媛则就回购、分红和员工激励回应投资者称，公司将在资本开支和技术升级投入仍较高的背景下，按监管规则和经营情况推进股东回报安排。&lt;/p&gt;
-三季度财务亮点：利润增速高于营收，“造血能力”大幅跃升
-&lt;p&gt;财务负责人黄丹阳在业绩交流会上介绍，三季度公司营业收入较二季度增加192亿元，利润总额环比增速21.2%高于营收增速，三费总额较二季度减少0.87亿元，净利润率稳定在75%左右。&lt;/p&gt;
-&lt;p&gt;黄丹阳表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;利润总额21%的环比增速高于营收19%的增速，且&lt;strong&gt;毛利率与营业利润双双攀升，充分说明公司在规模快速扩张的同时，产品附加值不断增强，整体运营效能持续优化。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;前三季度维度，公司实现营业收入2690亿元，同比增长739%，净利润1965亿元，归属于母公司股东净利润1320亿元，经营活动净现金流2548亿元，较上年同期增长1865%。黄丹阳表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这种造血能力，是我们应对市场波动、支撑长期战略的最大底气。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;三季度末资产负债率降至36.34%，比上年末下降17.9个百分点，比上季末下降5.8个百分点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;值得关注的是，三季度归母净利润环比增速仅3%，与净利润19%的增速形成落差。&lt;/strong&gt;黄丹阳解释称，控股子公司长鑫新桥及长鑫机电三季度营收和利润环比增速均超50%，是集团增长的主要驱动力：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;但集团公司对这两家子公司的持有权益比例都相对比较低，所以会在一定程度上影响到归母层面的数据增长幅度。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;她补充，公司已于2026年8月增资长鑫机电，以提高权益比例。&lt;/strong&gt;&lt;/p&gt;
-第五代平台量产，4F平方架构进入工程验证
-&lt;p&gt;曹堪宇将技术创新定位为&amp;quot;存储企业穿越周期最核心的底盘&amp;quot;，并在业绩交流会上详细阐述了三季度多项里程碑进展。&lt;/p&gt;
-&lt;p&gt;第五代工艺技术平台已实现正式量产，内存阵列有源区半间距推进至11.95nm，单片晶圆裸片产出较上一代平台提升超50%，存储电容深宽比达45:1。&lt;/p&gt;
-&lt;p&gt;曹堪宇表示，&lt;strong&gt;第五代平台&amp;quot;在产品能效、成本控制上均具备显著优势&amp;quot;，每片晶圆产出裸片较第四代提升至少50%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更具前瞻意义的是公司自研4F平方垂直沟道DRAM架构的突破。曹堪宇介绍，该架构采用&amp;quot;世界独特的VSG垂直环绕栅晶体管，将平面存储单元从水平转向垂直，突破传统工艺微缩的物理瓶颈&amp;quot;。&lt;/p&gt;
-&lt;p&gt;他透露，公司自成立后即启动相关预研，2019年开始申请相关专利并发表中国大陆首份相关论文，基于该架构的第六代工艺平台工程样片已完成验证&lt;strong&gt;，预计2026年底推出DDR5 RDIMM产品送样，优先落地服务器等高附加值场景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;针对市场关注的同业路径分歧&lt;/strong&gt;，曹堪宇表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;基于不同存储厂商自身的历史技术积累、现有产线配置、专利布局以及未来几年的资本开支结构，往往各公司会做出差异化的战略选择，这些都是值得理解和尊重的。&lt;/p&gt;
-&lt;/blockquote&gt;
-产品布局：LPDDR6首发旗舰，DDR5量产加速上量
-&lt;p&gt;曹堪宇在业绩交流会上表示，公司已累计完成DDR4、LPDDR4X、DDR5、LPDDR5、LPDDR5X、LPDDR6等产品的覆盖与迭代升级。&lt;/p&gt;
-&lt;p&gt;在核心产品LPDDR6方面，曹堪宇称其进入国内折叠旗舰机型首发供应链，他强调：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;实现国产DRAM在旗舰终端内存位置的首次商用，标志着我们在高端存储器赛道已经跻身全球第一梯队，工艺技术已达到国际先进水平。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;他同时表示，LPDDR6&amp;quot;目前也在汽车、服务器等场景的应用创新和拓展上开始发力&amp;quot;，利润贡献是&amp;quot;持续渐进的过程，随着产品在高端市场应用格局打开，盈利能力会逐步释放&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;收入结构方面&lt;/strong&gt;，黄丹阳披露，2026年上半年DDR系列与LPDDR系列收入占比分别为46.22%和52.02%，前三季度DDR系列占比持续上升，主要原因是DDR5产品自2024年底量产后销量持续增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;曹堪宇坦承，第五代工艺技术平台及4F平方等前瞻技术&amp;quot;不会在短期全部转化为当期利润，但直接奠定了公司未来3到5年在全球存储市场的可持续发展基础&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-需求展望：AI拉动结构性变革，企业级与车规供不应求
-&lt;p&gt;管理层对2026年四季度及2027年需求前景保持积极判断。从不同市场来看：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;企业级市场&lt;/strong&gt;：AI服务器需求持续旺盛，DDR5等高端产品呈现明显供不应求态势，2027年相关产能已被客户预订。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;消费级市场&lt;/strong&gt;：短期受宏观环境和成本因素影响承压，但随着LPDDR5X、LPDDR6等低功耗高带宽产品在端侧AI终端加速渗透，中长期增量空间明确，公司预计2027年在端侧AI和智能终端市场份额将实现提升。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;车规级市场&lt;/strong&gt;：随智能驾驶技术加速落地，车规存储需求强劲增长，预计2027年行业整体仍将处于供不应求状态。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;对于市场担忧的周期可持续性问题，曹堪宇表示，本轮AI驱动的存储需求是结构性变化：&lt;strong&gt;AI服务器对大容量高带宽DRAM的需求爆发，端侧AI手机和AI PC持续抬升单机内存配置，汽车智能化同步带动车载存储需求上行。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他引用市场研究机构Omdia数据称，全球DRAM市场规模有望从2025年的1505亿美元增长至2030年的7638亿美元，年复合增长率达38.39%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;长协订单方面，公司已与多家头部客户协商长期供货协议，锁定中长期确定性需求。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;产品定价方面，曹堪宇表示，公司与海外龙头的价格差异不大，企业级产品因可靠性和技术支持要求更高且需求旺盛，行业价格普遍高于消费级产品。&lt;/strong&gt;&lt;/p&gt;
-20亿元回购方案获董事会通过，超募资金投向研发与测试
-&lt;p&gt;股份回购方面，董事会秘书袁媛在业绩交流会上介绍，2026年10月16日，董事长朱一明向董事会提交股份回购提议，&amp;quot;核心出发点是管理层对公司长期内在价值的坚定信心，以及对未来发展前景的充分认可&amp;quot;。&lt;/p&gt;
-&lt;p&gt;回购资金规模为10亿至20亿元，约50%用于股权激励或员工持股计划，不低于50%用于注销并减少注册资本。&lt;strong&gt;该方案已经第二届董事会第八次会议审议通过，将在公司上市满6个月后根据市场情况择机实施。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;超募资金方面，黄丹阳介绍，公司拟使用130亿元投资新建技术研发项目，投资期30个月&lt;/strong&gt;，&amp;quot;最终经济利益通过技术赋能公司主营产品体现&amp;quot;。&lt;/p&gt;
-&lt;p&gt;另拟向全资子公司长鑫产品合肥提供50亿元，用于新建存储器晶圆后道测试基地二期项目，投资建设期37个月，黄丹阳表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这有利于完善IDM运营模式，实现从前道到后道的产业链整合。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;资本开支展望方面&lt;/strong&gt;，黄丹阳表示，2027年资本开支将&amp;quot;结合客户中长期需求、产品竞争力、盈利水平以及投资效率科学管理投资规模与推进节奏&amp;quot;，主要投向先进技术研发、制程升级及产能扩张。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;折旧方面&lt;/strong&gt;，&amp;quot;随着既定建设计划的逐步落地，折旧规模的变化趋势将和资本开支保持一致&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在股东回报问题上&lt;/strong&gt;，袁媛表示，公司目前&amp;quot;仍处于产能扩张和技术升级的关键投入期&amp;quot;，将依据政策及实际经营情况&amp;quot;适时启动分红方案的论证&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此外，董事长朱一明自愿将其持有的合肥集鑫41号企业管理合伙企业份额中的50%分配给员工用于激励，&lt;strong&gt;袁媛表示&amp;quot;该目标激励股份的实施过程不会新增发行公司股份，也不会稀释上市后新老股东的权益&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 奥特曼：PC上装内存太浪费，最好留给AI数据中心</title><link>https://wallstreetcn.com/articles/3784916</link><guid>ecd2e980379b519f45d93c4142a835313b8dc0000d1ae56b6551f1be5143d0b1</guid><pubDate>Sat, 31 Oct 2026 08:12:12 GMT</pubDate><description>&lt;p&gt;「从全球资源配置的角度来看，让每个人把紧缺的 DRAM 囤在自己电脑里大部分时间闲置，是『相当糟糕』（quite terrible）的安排，内存应该集中到云端数据中心去。」&lt;/p&gt;
+&lt;p&gt;Marvell想打通从芯片到光学的产业链，能否同时守住客户、技术和市场份额，将决定这场整合究竟能创造多大价值。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 奥特曼：PC上装内存太浪费，最好留给AI数据中心</title><link>https://wallstreetcn.com/articles/3784916</link><guid>ecd2e980379b519f45d93c4142a835313b8dc0000d1ae56b6551f1be5143d0b1</guid><pubDate>Sat, 31 Oct 2026 08:12:12 GMT</pubDate><description>&lt;p&gt;「从全球资源配置的角度来看，让每个人把紧缺的 DRAM 囤在自己电脑里大部分时间闲置，是『相当糟糕』（quite terrible）的安排，内存应该集中到云端数据中心去。」&lt;/p&gt;
 &lt;p&gt;话都说到这份上了。&lt;/p&gt;
 &lt;p&gt;本周四在接受 YouTube 频道 Cheeky Pint 的采访时，OpenAI CEO 山姆・奥特曼（Sam Altman）全程喝着啤酒，气氛轻松地聊了聊 AI 大模型的本地推理，以及由此延伸出的家用电脑内存不足的问题，不经意间爆典了。&lt;/p&gt;
 &lt;p&gt;我们知道，目前全球 AI 浪潮引发的内存涨价，已经让 PC 和手机的价格暴涨了一圈，个人消费者早已难以承受。与此同时，各家内存大厂的产能扩张还要等一阵子。就在前沿 AI 公司吃下内存大头的同时，他们却已经开始讨论起个人电脑中的内存是否得到充分利用。&lt;/p&gt;
