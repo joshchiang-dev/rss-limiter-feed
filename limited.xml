@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 31 Oct 2026 06:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 2008再现！一文读懂华尔街最热门交易：AI CDS</title><link>https://wallstreetcn.com/articles/3784900</link><guid>fcf2f7a9071c361badb6ee0b6c8ed7a160f6240c10445abb7f0c63a7d4fed494</guid><pubDate>Sat, 31 Oct 2026 05:41:38 GMT</pubDate><description>&lt;p&gt;巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出&lt;strong&gt;随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显著的重新定价，其CDS交易量及利差均呈现急剧上升趋势。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 31 Oct 2026 06:30:26 GMT</lastBuildDate><item><title>[华尔街见闻] 2008再现！一文读懂华尔街最热门交易：AI CDS</title><link>https://wallstreetcn.com/articles/3784900</link><guid>fcf2f7a9071c361badb6ee0b6c8ed7a160f6240c10445abb7f0c63a7d4fed494</guid><pubDate>Sat, 31 Oct 2026 05:41:38 GMT</pubDate><description>&lt;p&gt;巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出&lt;strong&gt;随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显著的重新定价，其CDS交易量及利差均呈现急剧上升趋势。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;10月29日，巴克莱银行报告指出，包括谷歌、亚马逊、Meta、微软、甲骨文等超大规模云计算服务商，以及AMD、博通、英伟达等芯片制造商在内的&lt;strong&gt;10家核心AI企业，目前仅占CDX投资级指数成分的8%，但已占到该指数隐含信贷风险的16%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;巴克莱强调，过去六个月，这十家公司的信用风险均有所扩大，目前均处于其六个月波动区间的上限附近。&lt;/p&gt;
 &lt;p&gt;（AI 群体：当前5年期CDS的六个月区间对比）&lt;/p&gt;
@@ -149,31 +149,7 @@ AI资本开支的融资问题主导定价，英特尔创逾四十年最大单日
 &lt;p&gt;另有180亿美元次级债务以Anthropic的租赁付款为支撑，贷款人因此更直接地承担Anthropic的信用风险。据《金融时报》此前报道，黑石旗下基金以超过10%的高收益率认购了其中90亿美元。&lt;/p&gt;
 &lt;p&gt;这部分次级债务获得Kroll Bond Rating Agency（KBRA）给予的BB+评级（仅比投资级低一个子级），展望为正面，较四个月前类似交易“大天空”（Big Sky）的稳定展望略有改善；晨星DBRS则给予BB评级。&lt;/p&gt;
 &lt;p&gt;Anthropic、黑石、KBRA、晨星DBRS和标普均拒绝置评，惠誉和穆迪未回复置评请求。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 未来支出承诺8830亿美元压力大，亚马逊再开高达800亿融资渠道助力AI扩张</title><link>https://wallstreetcn.com/articles/3784892</link><guid>f9b35bdcc80a8e7d20bfd2ff0bb35080a7d55ac4b659ccbca909076df46c4cc5</guid><pubDate>Fri, 30 Oct 2026 18:29:29 GMT</pubDate><description>&lt;p&gt;在AI基础设施投入持续膨胀、未来支出承诺升至8830亿美元之际，亚马逊披露最高800亿美元的供应商融资贷款工具，为持续大举投入AI提供新的资金弹性。&lt;/p&gt;
-&lt;p&gt;据亚马逊向美国证监会SEC提交的季度文件，公司可在2027年初至2028年第三季度期间自主决定是否动用这项融资安排，贷款将以部分相关采购资产作为抵押。亚马逊此前主要依靠经营现金流和债券发行支持数据中心建设及芯片采购，此次进一步拓展融资渠道，凸显AI基础设施扩张对资金筹措和现金流管理提出的更高要求。&lt;/p&gt;
-新增最高800亿美元贷款工具，硬件采购可抵押融资
-&lt;p&gt;据报道，亚马逊此次设立的融资安排允许公司围绕技术基础设施资产采购获得最高800亿美元的贷款额度。贷款机构将获得部分相关采购资产的抵押权，但亚马逊没有披露具体涉及哪些资产、贷款机构名单及融资利率。&lt;/p&gt;
-&lt;p&gt;亚马逊可在2027年第一季度至2028年第三季度期间动用这项贷款工具，借款期限为提款日起五年。实际动用的贷款将计入公司的长期债务。&lt;/p&gt;
-&lt;p&gt;这意味着，800亿美元是可供亚马逊使用的融资上限，并非公司已经借入的金额，也不代表亚马逊必然会用足全部额度。公司可以根据AI基础设施建设和硬件采购进度，决定是否以及何时动用资金。&lt;/p&gt;
-&lt;p&gt;AWS业务CEO Matt Garman周五接受媒体采访时表示：“当我们看到眼前存在如此巨大的机会时，我们正在寻找能够以负责任的方式为其提供资金的方法，从而尽可能大规模地满足客户需求。”&lt;/p&gt;
-&lt;p&gt;他还表示，随着公司积极扩大投资，亚马逊正与合作伙伴共同探索如何平衡相关现金流。&lt;/p&gt;
-&lt;p&gt;亚马逊此前主要依靠云计算、零售等业务产生的现金流，以及大规模债券发行，为数据中心建设和芯片采购提供资金。此次新增融资工具，则为公司在AI投入持续扩大的背景下提供了额外的资金调度空间。&lt;/p&gt;
-未来支出承诺三个月增长36%，现金流承压
-&lt;p&gt;亚马逊最新季度文件披露，截至2026年9月底，公司总支出承诺升至8830亿美元，较三个月前增长36%，为一年前同期水平的两倍多。&lt;/p&gt;
-&lt;p&gt;这项总额不仅包括债务及利息，还涵盖尚未开始的租赁、购买房地产和设备的义务以及其他支出项目。因此，8830亿美元不能简单等同于公司当前的有息债务，也不意味着全部金额都需要在短期内支付。但这一数字反映出，亚马逊未来需要履行的财务义务正在迅速扩大。&lt;/p&gt;
-&lt;p&gt;本周四盘后公布的第三季度财报进一步揭示了公司面临的资金压力。&lt;/p&gt;
-&lt;p&gt;亚马逊维持2026年约2200亿美元的全年资本开支指引不变，第三季度资本开支达到772.6亿美元，约为去年同期支出规模的1.2倍；截至9月底的过去12个月，自由现金流则由上年同期净流入148亿美元转为净流出424亿美元，主要受到AI相关基础设施投资增长的推动。&lt;/p&gt;
-&lt;p&gt;与此同时，亚马逊仍在持续扩大云计算业务。AWS第三季度收入同比增长39.3%至460亿美元，创近五年来最快增速，显示企业对云计算和AI服务的需求依然强劲。&lt;/p&gt;
-&lt;p&gt;但强劲的业务增长并未消除市场对巨额资本开支的疑虑。AI基础设施建设需要企业先行投入大量资金，而投资能否产生相应回报，仍取决于客户需求、算力利用率、定价能力及运营效率。&lt;/p&gt;
-&lt;p&gt;在这一背景下，新增800亿美元融资工具为亚马逊提供了更多资金安排选择，但也意味着投资者将继续关注公司如何平衡基础设施扩张、融资成本与长期现金流。&lt;/p&gt;
-从经营现金流到资产抵押融资，AI竞赛进入资金比拼
-&lt;p&gt;亚马逊此次拓展融资渠道，也反映出AI基础设施竞赛正在改变大型科技公司的资金管理方式。&lt;/p&gt;
-&lt;p&gt;此前，亚马逊主要依靠经营现金流和债券融资支持AI基础设施扩张。随着投资规模持续扩大，公司开始增加与硬件采购相关的融资安排，为未来资金需求提供更多选择。&lt;/p&gt;
-&lt;p&gt;部分科技巨头则采用其他融资结构，例如与投资机构共同投资数据中心，或由第三方购买芯片后再出租给使用方。这些安排有助于分担初期投资压力，但也可能增加企业长期支出安排的复杂性。&lt;/p&gt;
-&lt;p&gt;亚马逊此次设立的贷款工具与相关资产采购挂钩，既为公司提供额外的融资渠道，也使部分采购资产成为贷款抵押品。公司是否动用全部额度，以及相关融资的具体成本，仍有待后续披露。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，关键不只是亚马逊能否筹集足够资金继续建设数据中心，而是这些投资能否创造足以覆盖融资成本、运营费用和长期支出义务的回报。&lt;/p&gt;
-&lt;p&gt;AWS的高速增长为亚马逊继续投资提供了业务基础，但在自由现金流转负、总支出承诺持续攀升之际，市场也将更加关注公司的资金管理和资本回报效率。&lt;/p&gt;
-&lt;p&gt;随着AI竞赛不断升级，大型科技公司比拼的已不只是算力和基础设施规模，还包括筹措资金、管理现金流，以及将巨额投入转化为可持续收益的能力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望</title><link>https://wallstreetcn.com/articles/3784895</link><guid>f37e3424b52d8d7ada955b150a81d69699414de1d39024f7fc477f5ddb092aca</guid><pubDate>Sat, 31 Oct 2026 00:01:16 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮下，科技巨头接连通过股票发行募集巨额资金，但近期股价大幅回落，令参与认购的投资者纷纷陷入浮亏。Meta、Alphabet和英特尔股价周五继续下跌，三家公司近期增发的发行价格均已高于二级市场价格。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望</title><link>https://wallstreetcn.com/articles/3784895</link><guid>f37e3424b52d8d7ada955b150a81d69699414de1d39024f7fc477f5ddb092aca</guid><pubDate>Sat, 31 Oct 2026 00:01:16 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮下，科技巨头接连通过股票发行募集巨额资金，但近期股价大幅回落，令参与认购的投资者纷纷陷入浮亏。Meta、Alphabet和英特尔股价周五继续下跌，三家公司近期增发的发行价格均已高于二级市场价格。&lt;/p&gt;
 &lt;p&gt;这轮抛售始于Alphabet周三公布财报后，公司搜索及其他渠道广告收入不及市场预期。随后，英特尔披露数据中心组件供应链问题，第四季度业绩指引远逊预期，进一步打击市场情绪。两家公司的表现凸显出市场对科技巨头持续扩大AI投资、但商业化回报尚未充分兑现的担忧。&lt;/p&gt;
 &lt;p&gt;在大型科技公司密集融资、市场重新评估AI投资回报之际，股价下跌不仅让近期参与增发的投资者蒙受账面损失，也可能增加科技巨头未来继续通过股权融资筹集资金的难度。与此同时，AI初创公司Anthropic计划通过IPO募集巨额资金的前景也面临更多不确定性，其目标是达到或超过今年SpaceX创纪录上市时的募资规模。&lt;/p&gt;
 三大科技巨头增发认购者悉数浮亏
@@ -355,4 +331,36 @@ AI投资回报与融资压力引发市场担忧
 &lt;p&gt;这一限制主要源于AI模型对8GB运行内存（RAM）及7GB本地存储空间（ROM）的硬性要求，较早机型及iPhone 15标准版均无法通过软件升级获得该能力。&lt;/p&gt;
 &lt;p&gt;从发布到落地，苹果智能在中国的推进历时两年有余。&lt;/p&gt;
 &lt;p&gt;自2024年6月首度亮相海外，直到2025年2月蔡崇信确认阿里与苹果的合作，其本土化路径才渐趋明朗。尽管近期库克访华加速了测试版的推出，但这场合规拉锯战远未结束。&lt;/p&gt;
-&lt;p&gt;目前，iPad与Mac的审批进度依然悬而未决，而如何在其合规框架内将WWDC 2026发布的新一代Siri AI完整生态更快地带给中国用户，仍是苹果管理层需要长期应对的核心议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中海油2026年三季度财报数据粗略分析比较</title><link>http://xueqiu.com/6308001210/414863938</link><guid>1193ccd0bcb45fc469664f04cef6ee950f61974f5881733fca8e2107ed677f74</guid><pubDate>Sat, 31 Oct 2026 04:41:04 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;czy710&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年三季度中海油油气产量约1.95亿桶，基本和2025年同期的1.94亿桶持平，主要原因是深海1号停产拖了后腿。&lt;/p&gt;</description></item><item><title>[今日雪球] 产业、泡沫与投资</title><link>http://xueqiu.com/2058818075/414866680</link><guid>ef279adba47abd67e0698445f116975c98ca5860f8f5c72310996bf3ac62477f</guid><pubDate>Sat, 31 Oct 2026 04:40:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;止疼片&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;铁路 · 跨大西洋电缆 · 光纤 · 光伏 · 锂电池 · AI算力&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;目前，iPad与Mac的审批进度依然悬而未决，而如何在其合规框架内将WWDC 2026发布的新一代Siri AI完整生态更快地带给中国用户，仍是苹果管理层需要长期应对的核心议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 雪上加霜！科技股“认清现实”的一周</title><link>https://wallstreetcn.com/articles/3784902</link><guid>bba076898a3ec7e43f770664d7dbb6dfc9332c7115b2e105e379d49ce22f226e</guid><pubDate>Sat, 31 Oct 2026 01:51:49 GMT</pubDate><description>&lt;p&gt;谷歌、亚马逊、英特尔的财报接连让市场失望，本周AI交易的裂痕明显扩大。周五（10月30日）英特尔股价暴跌29%，创有史以来最大单日跌幅；纳斯达克综合指数下跌2.9%，是6月以来最差的一天，10月也将成为纳指一年多来表现最差的月份。&lt;/p&gt;
+&lt;p&gt;此前数月，AI交易的风险主要暴露在负债沉重的小公司身上，巨头凭借丰厚利润稳住了华尔街。本周，情况变了：谷歌搜索广告增长放缓，亚马逊自由现金流大幅转负，英特尔预计PC销售将长期低迷。据FactSet，“七巨头”第三季度盈利增速预计将低于标普500其余成分股。&lt;/p&gt;
+&lt;p&gt;市场追问的问题，已经从AI需求有多大，变成谁来为AI买单。高盛Delta One主管Rich Privorotsky写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“资本成本已经客观地重新定价，而且没有显而易见的解决办法。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+巨头财报接连失守
+&lt;p&gt;本周初，Anthropic提交的IPO文件显示营收飙升，一度提振市场情绪，但随后的巨头财报给市场泼了冷水。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alphabet&lt;/strong&gt;搜索广告增长放缓，部分原因是“AI模式”查询的冲击，公司还表示2027年资本开支将“显著”增加。周四股价下跌13%，创历史最差单日表现，市值蒸发约4890亿美元，伯克希尔·哈撒韦等大股东损失惨重。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;亚马逊&lt;/strong&gt;周四盘后公布的营收不及预期，单季自由现金流为-335亿美元，比预期差四倍多；资本开支激增至773亿美元，同期新增长期债务481亿美元。周五股价下跌7%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英特尔&lt;/strong&gt;预计第四季度营收150亿至160亿美元，低于市场预期的172.9亿美元，并表示今年不会实现正现金流。公司还预计PC销售将长期放缓，原因是AI热潮推高了存储芯片价格。英特尔周五收跌29%，盘中跌幅一度达29.7%，为彭博自1982年有数据以来的最大日内跌幅。两大股东美国政府和英伟达的账面持仓合计蒸发逾170亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软&lt;/strong&gt;Azure增长48%，但商业订单下降12%。财报发布约12小时后，这家唯一获AAA评级的科技公司启动250亿美元债券发行，为2017年以来首次。&lt;/p&gt;
+&lt;p&gt;周五抛售蔓延至整个科技板块：七巨头全线收跌，存储芯片、半导体和新兴云服务商（neocloud）股价重挫，Reddit下跌26%，比特币跌超5%。OnePoint BFG Wealth Partners首席投资官Peter Boockvar说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“裂缝之间未必有关联，但裂缝足够多时，路面最终会不会塌陷？”&lt;/p&gt;
+&lt;/blockquote&gt;
+从“需求买单”到“谁来买单”
+&lt;p&gt;巨头赚得足够多，市场此前一直容忍其大举投资。Tema ETFs投资策略主管Paisley Nardini说，此前“花钱代表对这轮建设的信心，会得到奖励”，而“突然之间，花钱被视为逆风”。&lt;/p&gt;
+&lt;p&gt;转折始于Meta。10月21日，Meta公布第四季度资本开支490亿至590亿美元，扣除股息后自由现金流为负，并在文件中警示最早从2026年秋季起需要“筹集数千亿美元”。10月26日，Meta启动最高975亿美元的股权融资，英伟达、AMD和博通表示有意认购最多50亿美元。同日Anthropic提交的S-1文件显示，其算力账单约为7800亿至8100亿美元。据彭博统计，四大科技巨头今年的资本开支将接近7500亿美元，“投资者已不再对回报照单全收”。&lt;/p&gt;
+&lt;p&gt;信用市场更早发出了信号。9月初至10月中旬，超大规模云厂商和AI相关公司没有发行一笔投资级债券，CoreWeave无担保债券利差突破1000个基点。本周超大规模云厂商CDS再创新高；由于得州冻结新项目，银行搁置了为Anthropic旗下150亿美元得州数据中心发行的垃圾债。高盛信用策略师指出，AI领域违约风险自1月以来已增至三倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Baird科技策略师Ted Mortonson说，巨额融资对华尔街银行是好事，但让基金经理们“吓得魂飞魄散”，“我的建议是先避开”。Truist Advisory Services首席投资官Keith Lerner则表示：“看空的逻辑是，盈利峰值比我们想象的更近。”&lt;/p&gt;
+指数之下的剧烈轮动
+&lt;p&gt;截至周四，标普500指数本月仍上涨约0.9%，距纪录高位仅几个百分点，但内部分化剧烈。纳指100本月下跌约3.3%，成分股市值蒸发逾1.2万亿美元。七巨头10月累计下跌超6%，新兴云服务商跌37%，高盛“最易受AI冲击”的股票篮子则上涨逾15%。&lt;/p&gt;
+&lt;p&gt;10月29日，谷歌暴跌拖累标普500下跌0.3%，尽管当天有406只成分股上涨。彭博1996年以来的数据显示，此前987个上涨家数不少于400只的交易日，指数无一例外收涨。瑞银交易员称，资金正从拥挤的AI和成长股流向价值股、小盘股、消费及利率敏感型周期股，并未撤离股市。&lt;/p&gt;
+&lt;p&gt;机构仓位同步收缩。高盛主经纪商数据显示，对冲基金抛售科技股的速度创十余年来最快两周纪录，美股净杠杆降至五年来最低水平。高盛高贝塔动量组合较6月峰值回撤43%，抹去全年涨幅。亚洲方面，三星电子和SK海力士本月跌幅均超16%。&lt;/p&gt;
+利率、伊朗与中期选举
+&lt;p&gt;美联储9月加息后，市场预期还将继续收紧；本月美联储暂停加息，但有两票鹰派反对。美联储主席Kevin Warsh本周表示：“利率直接或间接地影响几乎一切……市场参与者正在区分自己想做的投资。”&lt;/p&gt;
+&lt;p&gt;地缘风险也在升温。特朗普暗示，下周中期选举后美国可能对伊朗发起新的军事行动。布伦特原油近月期货周五收于每桶117.64美元，接近年内高点，盘中一度触及118美元。美债则走强，10年期收益率跌破4.9%，创六周新低，债市更多将油价飙升视为对经济增长的威胁。中期选举还将决定，美国各地对数据中心的反对声浪在多大程度上会转化为开发限制。&lt;/p&gt;
+&lt;p&gt;乐观者仍在。Founders 100 ETF基金经理Michael Monaghan认为，若中东局势企稳，市场将“大幅上涨”；即将到来的Anthropic IPO“是撑住整个AI交易的那块积木”。“我们看好，AI交易还没有结束。”&lt;/p&gt;
+&lt;p&gt;但Privorotsky提醒，风险在于融资约束最终会迫使巨头控制资本开支，“只是目前在支出意向上还看不到这一点”。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 中海油2026年三季度财报数据粗略分析比较</title><link>http://xueqiu.com/6308001210/414863938</link><guid>1193ccd0bcb45fc469664f04cef6ee950f61974f5881733fca8e2107ed677f74</guid><pubDate>Sat, 31 Oct 2026 04:41:04 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;czy710&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年三季度中海油油气产量约1.95亿桶，基本和2025年同期的1.94亿桶持平，主要原因是深海1号停产拖了后腿。&lt;/p&gt;</description></item><item><title>[今日雪球] 产业、泡沫与投资</title><link>http://xueqiu.com/2058818075/414866680</link><guid>ef279adba47abd67e0698445f116975c98ca5860f8f5c72310996bf3ac62477f</guid><pubDate>Sat, 31 Oct 2026 04:40:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;止疼片&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;铁路 · 跨大西洋电缆 · 光纤 · 光伏 · 锂电池 · AI算力&lt;/p&gt;</description></item></channel></rss>
