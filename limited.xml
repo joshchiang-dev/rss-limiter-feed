@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 01 Nov 2026 14:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] 存储是“科技避风港”？野村：估值只有2-3倍了</title><link>https://wallstreetcn.com/articles/3784948</link><guid>268def03cfc4a2b2dc1f1969df6f79841877467e85de66fd0dcd62328761d9fd</guid><pubDate>Sun, 01 Nov 2026 11:24:41 GMT</pubDate><description>&lt;p&gt;科技巨头AI军备竞赛持续升温，自由现金流加速恶化，而存储芯片制造商却在悄然积累现金。野村证券认为，当前市场对存储板块的定价存在根本性误判。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 01 Nov 2026 14:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] 存储是“科技避风港”？野村：估值只有2-3倍了</title><link>https://wallstreetcn.com/articles/3784948</link><guid>268def03cfc4a2b2dc1f1969df6f79841877467e85de66fd0dcd62328761d9fd</guid><pubDate>Sun, 01 Nov 2026 11:24:41 GMT</pubDate><description>&lt;p&gt;科技巨头AI军备竞赛持续升温，自由现金流加速恶化，而存储芯片制造商却在悄然积累现金。野村证券认为，当前市场对存储板块的定价存在根本性误判。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，五大科技公司三季度财报相继出炉，AI投资意愿不减反增，但各公司资金实力开始出现分化。Meta单季度自由现金流首次自IPO以来转负，录得-21亿美元；Alphabet连续两个季度为负，达-91亿美元；Amazon滚动12个月自由现金流缺口扩大至-424亿美元。与此同时，存储芯片厂商现金持续积累，据野村估算，&lt;strong&gt;以三星电子和SK海力士为代表的韩国存储&amp;quot;双雄&amp;quot;2027年预期市盈率仅约2-3倍，较科技巨头折价85-90%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;野村在10月30日发布的报告中指出，市场当前对存储板块的定价隐含着盈利见顶的假设，但该机构对此判断明确持异议。报告认为，&lt;strong&gt;存储供应短缺将延续至2028年，长期供应协议亦在增加，存储制造商的大规模股东回报周期才刚刚开始，在科技板块整体承压的背景下，存储是更值得关注的&amp;quot;避风港&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
@@ -261,34 +261,7 @@ AI就业冲击：从科技蔓延至主流行业
 &lt;p&gt;值得关注的是，高盛指出目前仅有约23%的美国企业将AI纳入部分常规工作流程，且这一数字&amp;quot;高估了当前实际发生的自动化程度&amp;quot;。&lt;/p&gt;
 &lt;p&gt;然而，就是在这一相对有限的采用率下，AI已在科技行业以外产生统计显著的就业损失，而失业工人再就业后又大概率再度暴露于AI替代风险之中。&lt;/p&gt;
 &lt;p&gt;如果AI采用率从现有水平翻倍乃至翻三倍，上述每一项效应都将进一步放大：追逐有限&amp;quot;AI难以替代&amp;quot;岗位的失业工人增多，失业时间进一步拉长，转入新岗位的工人面临二次替代。Briggs的结论是，这一冲击的主体部分很可能在下一轮衰退到来时集中释放，恰恰是经济最缺乏消化能力的时刻。&lt;/p&gt;
-&lt;p&gt;Briggs警告，美联储及其他央行&amp;quot;应密切关注任何新出现的下行增长或劳动力市场风险&amp;quot;，一旦近期通胀约束解除，&amp;quot;迅速转向宽松可能有助于确保自动化相关失业不会在经济最脆弱时加速爆发&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 已进入第二版！傅里叶帮Meta研发机器人原型，打造“Muse物理化身”</title><link>https://wallstreetcn.com/articles/3784932</link><guid>1f0054ffc7046a156bcb0c18e75849bee9a33de4e2996ebd7b4daf63722217f3</guid><pubDate>Sun, 01 Nov 2026 02:38:23 GMT</pubDate><description>&lt;p&gt;Meta正在将其AI战略向物理世界延伸。&lt;/p&gt;
-&lt;p&gt;据The Information 1日援引知情人士透露，&lt;strong&gt;Meta Platforms已与中国机器人公司傅里叶（Fourier）联合研发出一款人形机器人原型，内部代号为&amp;quot;Max&amp;quot;，并已启动第二代版本的开发工作。&lt;/strong&gt;这是Meta自成立机器人业务部门以来最具实质性的进展，标志着这家社交媒体巨头在消费级机器人领域的布局正在加速落地。&lt;/p&gt;
-&lt;p&gt;Meta首席技术官Andrew Bosworth在公司内部将人形机器人定位为旗下消费级AI智能体Muse的&amp;quot;物理化身&amp;quot;，使其具备在家庭场景中执行实际任务的能力。知情人士称，该项目的最终目标是推出一款面向消费者的成熟产品，但目前尚未设定上市时间表。&lt;/p&gt;
-&lt;p&gt;此前特朗普政府曾加强审查中国机器人行业。据&lt;a href="https://wallstreetcn.com/livenews/3141531"&gt;新华社&lt;/a&gt;，针对美国联邦通信委员会宣布对外国制造的先进机器人实施进口限制，包括中方占有主导地位的人形机器人，外交部发言人毛宁7月29日在例行记者会上说，中方一贯坚决反对美方泛化国家安全概念打压中国企业。保护主义提升不了美国的竞争力，只会损害美国企业和消费者的利益。中方将继续采取必要措施，坚定维护中国企业的正当合法权益。&lt;/p&gt;
-
-Max：三个月内从零到原型
-
-&lt;p&gt;Max由Meta与傅里叶在短短三个月内联合打造完成，身高约1.5米，重约48公斤（约106磅）。&lt;strong&gt;该机器人以英伟达Jetson Thor芯片为动力核心，并配备独立的运动控制软件平台。其胸部内置双扬声器，面部可模拟人类表情，五指机械手可抓取小瓶子和玩具等物品。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据媒体援引知情人士透露，Meta机器人产品副总裁Li-Chen Miller曾在傅里叶位于上海的工厂驻扎近两个月，与对方团队密切协作推进原型开发。今年8月底，Max在Meta内部机器人峰会上完成了首次实体演示。&lt;/p&gt;
-&lt;p&gt;在技术规格层面，Meta为Max设定了明确的家庭场景感知要求：能够识别5米外的人声，能够解读3米外的手势或挥手动作，具备维持眼神接触的能力，并能通过状态信号区分&amp;quot;聆听&amp;quot;&amp;quot;思考&amp;quot;&amp;quot;说话&amp;quot;和&amp;quot;不确定&amp;quot;等不同情境。&lt;/p&gt;
-&lt;p&gt;Max的硬件基础源自傅里叶机器人系列的前三代产品，双方在此基础上对身高比例、头部设计、显示屏、摄像头进行了重新定制，并新增了手部和脚部模块。&lt;/p&gt;
-
-Max 2已启动，功能全面升级
-
-&lt;p&gt;据报道，Meta与傅里叶已于今年9月开始研发第二代原型机Max 2。新版本将对躯干结构进行重新设计，改进手部机械结构以提升操控精度，新增投影仪以支持视觉内容呈现，并配备额外传感器以实现上下楼梯功能。&lt;/p&gt;
-&lt;p&gt;与此同时，Meta正在为潜在的规模化生产积累人才储备。据The Information获取的招聘信息显示，Meta正在上海招募供应商开发工程师，职责涵盖从原型阶段推进至量产阶段的全流程支持；并在深圳的Meta Robotics Studio同步招募产品设计工程师和技术项目经理，负责原型开发、规划及量产管理。&lt;/p&gt;
-&lt;p&gt;Meta发言人在声明中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;在国内尚无法便捷获取相关零部件的现实情况下，我们与整个行业面临同样的挑战。&lt;strong&gt;但与傅里叶的合作专注于内部研究和实验，我们目前没有出售这些机器人的计划。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;若Meta最终选择进入消费级人形机器人市场，将面临激烈的竞争格局。中国企业已在人形机器人的规模化生产上取得领先，埃隆·马斯克正大力押注特斯拉Optimus机器人，其第三代产品已投入生产。此外，Figure和1X Technologies等知名初创公司也在该领域深耕多年。&lt;/p&gt;
-&lt;p&gt;目前，消费级人形机器人的家庭场景应用仍处于早期阶段。Figure已开始在家庭环境中测试其机器人，1X Technologies则已开放其NEO机器人的预订服务。&lt;/p&gt;
-
-领导层更迭，Bosworth亲自主导
-
-&lt;p&gt;在组织层面，Meta机器人部门近期经历了一次领导层调整。据两位知情人士透露，前通用汽车自动驾驶子公司Cruise首席执行官Marc Whitten在加入Meta仅约18个月后，于今年8月底离职。Meta随后任命Ning Li担任Meta Robotics Studio临时负责人，向Bosworth汇报。&lt;/p&gt;
-&lt;p&gt;知情人士表示，Bosworth在接管Whitten原有职责后，已深度介入机器人业务，定期与团队召开会议，并亲自深入研究该部门在技术和运营层面面临的具体挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 2026 英特尔的十字路口 (二)</title><link>http://xueqiu.com/9236758887/414929807</link><guid>b7f861b339e5eb2db8b4220ce8426a6191f135cc34fbb7b434baf026945b0872</guid><pubDate>Sun, 01 Nov 2026 04:42:32 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;凝视三千弱水的深渊&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;今年三月写了同标题的文章，昨天Intel大跌，基本回到当时的价位了，哈哈哈哈，小英白忙了大半年。我仔细的看了一下财报，其实不差，华尔街那班人对现实世界的理解太极端了。不过小英的重建也的确痛苦，交流会大概也能看得出，还要一年，2027也不会有正现金流，而其它四家有EUV的玩家都是富得流油，TSMC，Samsung，SK Hynix，Micron，对比太强烈了。除了Intel，其它都是筷子玩家，哈哈哈哈。也只有Intel一家算是美国资产。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谁能阻止科技股下跌？野村：中选没有用，只有美联储！</title><link>https://wallstreetcn.com/articles/3784939</link><guid>d9b953f751e02f5d662a679313bc794379a699519b18fc1c6f4a14d5e5f4a007</guid><pubDate>Sun, 01 Nov 2026 06:52:17 GMT</pubDate><description>&lt;p&gt;全球科技股深陷调整泥潭，市场普遍寄望于美国中期选举后的政策明朗化带来反弹契机，但野村证券策略师Naka Matsuzawa泼了一盆冷水。他明确指出，&lt;strong&gt;中期选举结果对股市的影响远低于市场预期，当前唯一能够真正终结科技股跌势的催化剂，是美联储停止加息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Briggs警告，美联储及其他央行&amp;quot;应密切关注任何新出现的下行增长或劳动力市场风险&amp;quot;，一旦近期通胀约束解除，&amp;quot;迅速转向宽松可能有助于确保自动化相关失业不会在经济最脆弱时加速爆发&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 2026 英特尔的十字路口 (二)</title><link>http://xueqiu.com/9236758887/414929807</link><guid>b7f861b339e5eb2db8b4220ce8426a6191f135cc34fbb7b434baf026945b0872</guid><pubDate>Sun, 01 Nov 2026 04:42:32 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;凝视三千弱水的深渊&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;今年三月写了同标题的文章，昨天Intel大跌，基本回到当时的价位了，哈哈哈哈，小英白忙了大半年。我仔细的看了一下财报，其实不差，华尔街那班人对现实世界的理解太极端了。不过小英的重建也的确痛苦，交流会大概也能看得出，还要一年，2027也不会有正现金流，而其它四家有EUV的玩家都是富得流油，TSMC，Samsung，SK Hynix，Micron，对比太强烈了。除了Intel，其它都是筷子玩家，哈哈哈哈。也只有Intel一家算是美国资产。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谁能阻止科技股下跌？野村：中选没有用，只有美联储！</title><link>https://wallstreetcn.com/articles/3784939</link><guid>d9b953f751e02f5d662a679313bc794379a699519b18fc1c6f4a14d5e5f4a007</guid><pubDate>Sun, 01 Nov 2026 06:52:17 GMT</pubDate><description>&lt;p&gt;全球科技股深陷调整泥潭，市场普遍寄望于美国中期选举后的政策明朗化带来反弹契机，但野村证券策略师Naka Matsuzawa泼了一盆冷水。他明确指出，&lt;strong&gt;中期选举结果对股市的影响远低于市场预期，当前唯一能够真正终结科技股跌势的催化剂，是美联储停止加息。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Matsuzawa在10月30日的宏观策略周报中预判，11月2日中选当周，美股将偏软，债市将偏强，美元偏弱，日元偏强。他认为，&lt;strong&gt;科技股的疲弱根源并不在于选举不确定性，而在于AI投资前景承压与信贷担忧持续发酵这两条更深层的主线。在这一背景下，半导体股的短暂反弹既缺乏持续性，也缺乏广度，难以带动全球科技板块整体回升。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
