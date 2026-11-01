@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 01 Nov 2026 11:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：聚焦美国中选与中国重磅金融会议，非农、AMD和苹果财报齐至</title><link>https://wallstreetcn.com/articles/3784849</link><guid>39e774474fd44709eab29ef38314ccea0ad8c4efc51a18782d0d233f46da4778</guid><pubDate>Sun, 01 Nov 2026 09:18:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 01 Nov 2026 11:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] 存储是“科技避风港”？野村：估值只有2-3倍了</title><link>https://wallstreetcn.com/articles/3784948</link><guid>268def03cfc4a2b2dc1f1969df6f79841877467e85de66fd0dcd62328761d9fd</guid><pubDate>Sun, 01 Nov 2026 11:24:41 GMT</pubDate><description>&lt;p&gt;科技巨头AI军备竞赛持续升温，自由现金流加速恶化，而存储芯片制造商却在悄然积累现金。野村证券认为，当前市场对存储板块的定价存在根本性误判。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，五大科技公司三季度财报相继出炉，AI投资意愿不减反增，但各公司资金实力开始出现分化。Meta单季度自由现金流首次自IPO以来转负，录得-21亿美元；Alphabet连续两个季度为负，达-91亿美元；Amazon滚动12个月自由现金流缺口扩大至-424亿美元。与此同时，存储芯片厂商现金持续积累，据野村估算，&lt;strong&gt;以三星电子和SK海力士为代表的韩国存储&amp;quot;双雄&amp;quot;2027年预期市盈率仅约2-3倍，较科技巨头折价85-90%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;野村在10月30日发布的报告中指出，市场当前对存储板块的定价隐含着盈利见顶的假设，但该机构对此判断明确持异议。报告认为，&lt;strong&gt;存储供应短缺将延续至2028年，长期供应协议亦在增加，存储制造商的大规模股东回报周期才刚刚开始，在科技板块整体承压的背景下，存储是更值得关注的&amp;quot;避风港&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+
+AI投资意志坚定，但资金耐力开始分化
+
+&lt;p&gt;野村报告显示，企业级AI投资已演变为一种生存性需求，各公司正动用经营性现金流、债务与股权多渠道筹资。三季度中，仅Microsoft自由现金流保持正值，录得+186亿美元；Alphabet已于今年6月宣布800亿美元股权融资并暂停回购；Meta发行无投票权C类新股，同样叫停回购；Amazon年内长期债务规模升至约1075亿美元。资本市场的反应直接反映了投资者的偏好——现金流为正的Microsoft股价基本持平，而Meta、Alphabet、Amazon在财报发布后分别下跌7%、10-13%和5-7%。&lt;/p&gt;
+&lt;p&gt;在2027年资本支出层面，五家公司均未给出具体数字，但均明确表示将继续增加。野村援引SK海力士的数据称，2027年全球云服务商资本支出增幅有望达60%，对应四大超大规模云厂商合计支出约1.2万亿美元，远超市场一致预期的30-35%增幅。野村估算显示，若按60%增速情景测算，四家公司2027年合并自由现金流将转负至-1440亿美元，资金缺口须以债务和股权融资填补，资本将更加向融资能力强的企业集中。&lt;/p&gt;
+
+云业务盈利改善，但现有业务遭AI蚕食
+
+&lt;p&gt;三季度，Azure、Google Cloud和AWS三大云平台合计营收同比增长56%，达1099亿美元，在手订单积压高达1.82万亿美元。AWS和Google Cloud的运营利润率分别达38.7%和36.2%，盈利能力持续改善。野村测算，在每GW资本支出500亿美元、年收入190亿美元的基准假设下，云数据中心IRR约为6-15%；若按当前现货租赁价格（每GW每年400亿美元）测算，IRR可升至13-31%。&lt;/p&gt;
+&lt;p&gt;然而，AI对现有业务的蚕食效应已开始显现。Google搜索收入增速从二季度的17%放缓至三季度的12%，查询量增长创五年新高，但Google自身的AI模式正在摊薄每次查询的变现效率。野村指出，这表明AI投资已不仅是增长工具，更是保护现有业务的防御性手段——即便是投入最重的Google，也无法独善其身。&lt;/p&gt;
+
+三季度资本支出不及预期，折射供给瓶颈而非意愿退缩
+
+&lt;p&gt;Microsoft、Alphabet和Meta三季度资本支出均低于市场预期。Microsoft实际支出为452亿美元，低于公司自身指引的500亿美元以上，原因是第三方数据中心产能交付延迟，部分支出推迟至2027年上半年；此外，微软调整建筑物使用寿命的会计处理方式，将新增租约归入经营性租赁，导致报告资本支出数字下降，但实际支出计划不变。Alphabet和Meta均未解释差距原因，Amazon则明确将芯片（晶圆代工）供应不足列为瓶颈。野村认为，随着2027年供应短缺加剧，意图与执行之间的时滞将进一步扩大，成为新常态。&lt;/p&gt;
+
+Intel业绩承压，PC市场下行压力超出市场预期
+
+&lt;p&gt;Intel四季度营收指引为150-160亿美元，低于市场预期的约170亿美元，财报发布后盘后股价下跌21%。野村指出，PC市场下行是行业普遍问题：内存价格上涨与供应短缺导致三季度全球PC出货量同比下降约20%。Intel自身亦面临公司特有挑战，包括Intel 3制程及基板供应短缺、以色列工厂事故导致四季度及下一季度服务器出货量各减少约3亿美元，以及PC产能难以快速向服务器转移等结构性制约。与此同时，AMD在服务器和PC市场均在持续抢占份额，Arm阵营（包括NVIDIA Grace/Vera、AWS Graviton、Google Axion等）亦在侵蚀Intel的服务器CPU市场。&lt;/p&gt;
+
+现金流两极分化，存储估值被严重压低
+
+&lt;p&gt;野村报告的核心论点在于：科技巨头与存储制造商之间正在形成截然相反的现金流走势。科技巨头的自由现金流理论上将经历&amp;quot;J曲线&amp;quot;——前期重资产投入完成后，大量经营性现金流将随之而来。但目前来看，负自由现金流局面才刚刚开始，且未来一两年内缺口可能进一步扩大。&lt;/p&gt;
+&lt;p&gt;反观存储制造商，大规模股东回报的起点同样才刚刚到来。&lt;strong&gt;野村预计，未来数年内存储厂商的股东回报将成倍增长，在可观股东回报之后现金储备仍将大幅提升。当前市场却给予存储板块2-3倍的2027年预期市盈率，而四大科技巨头平均约为20.9倍（Microsoft 24.3倍、Amazon 21.7-23.3倍、Alphabet 18.5倍、Meta 18.1倍），折价幅度达85-90%。&lt;/strong&gt;野村认为，当前估值隐含着存储盈利已见顶的假设，但鉴于供应短缺将持续至2028年、长期供应协议持续增加，市场对存储盈利持续性的判断过于悲观，存储板块构成当前科技组合中难得的&amp;quot;避风港&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：聚焦美国中选与中国重磅金融会议，非农、AMD和苹果财报齐至</title><link>https://wallstreetcn.com/articles/3784849</link><guid>39e774474fd44709eab29ef38314ccea0ad8c4efc51a18782d0d233f46da4778</guid><pubDate>Sun, 01 Nov 2026 09:18:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本周五，英特尔暴跌29%创历史最大单日跌幅，纳指录得一年多来最差月份。亚马逊资本支出创纪录、谷歌自由现金流转负、英特尔毛利率指引骤，AI交易信心遭重创，科技股全线血洗。&lt;/p&gt;
