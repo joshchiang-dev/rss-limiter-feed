@@ -1,42 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 01 Nov 2026 23:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元</title><link>https://wallstreetcn.com/articles/3784949</link><guid>5914431894657334bfb7476ee75d61223d4b35e958e0d46faf0d322335f85e75</guid><pubDate>Sun, 01 Nov 2026 12:08:26 GMT</pubDate><description>&lt;p&gt;AI基础设施建设狂潮之下，一场规模空前的表外负债风暴正在硅谷悄然积聚。&lt;/p&gt;
-&lt;p&gt;据最新季报数据，以Alphabet、Meta、微软、亚马逊为核心的超大规模云计算企业及Nvidia、Broadcom、SpaceX，&lt;strong&gt;其披露的表外承诺总规模已达4.11万亿美元，较摩根士丹利8月末统计的3.12万亿美元增加近9920亿美元——约90天内新增承诺接近1万亿美元。&lt;/strong&gt;如果把摩根士丹利此前统计中纳入的、基于新闻报道而非正式财报披露的表外承诺也计算在内，&lt;strong&gt;总额将达到4.29万亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，上述公司账面上的实际债务和租赁负债合计约为1万亿美元，意味着每1美元的表内负债背后，对应着超过4美元未在资产负债表上显示的承诺。&lt;/p&gt;
-&lt;p&gt;这一数字仍未触顶。Nvidia将于11月下旬发布季报，Oracle和Broadcom则于12月披露，三家公司均尚未更新至最新季度数据。目前的4.1万亿美元，只是下限。高盛首席信贷策略师Amanda Lynam亦指出，投资者对上述表外敞口的关注度持续升温，并警示各大评级机构在处理方式上尚无统一口径——标普对表外租赁进行杠杆调整，而穆迪和惠誉则未做相应处理，评级方法论的潜在变动值得持续关注。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 02 Nov 2026 00:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 史上最大黑客案后，36亿美元资本外流，币安“挺住”了</title><link>https://wallstreetcn.com/articles/3784955</link><guid>b4b7c3bcb4ae6bea8b35bc3f40bd697464f1acb1abee4dd630c01a7fb3f9948c</guid><pubDate>Mon, 02 Nov 2026 00:11:02 GMT</pubDate><description>&lt;p&gt;史上规模最大的加密货币黑客攻击事件发生后，币安经受住了初步冲击。&lt;/p&gt;
+&lt;p&gt;据彭博11月1日报道，这家全球最大加密货币交易所周日恢复客户提款，随后公布净流出加密资产&lt;strong&gt;36亿美元&lt;/strong&gt;——相较于其整体业务规模，这一冲击尚在可控范围之内。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-
-单季新增577亿美元，增速毫无放缓迹象
-
-&lt;p&gt;为精确呈现第三季度的变化，可将已提交三季报的五家公司与其二季度数据进行对比。这五家公司的合并表外承诺从2.48万亿美元增至3.05万亿美元，&lt;strong&gt;单季增幅5770亿美元，增幅23%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;各公司具体情况如下：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Meta新增1950亿美元，增幅29%。&lt;/strong&gt;不可撤销的采购承诺从3490亿美元飙升至4550亿美元，主要涉及2027至2028年及以后的第三方云计算容量（交易对手未予披露）。尚未启用的已签署租约从2790亿美元增至3560亿美元，其中包括7月签署的680亿美元租约；其在路易斯安那州Hyperion数据中心及德克萨斯州埃尔帕索数据中心合资项目上的剩余价值担保合计达415亿美元。值得注意的是，拥有970亿美元经营现金流、信用评级为Aa3/AA-的Meta，在财报发布后信用违约掉期（CDS）触及历史高位，随即宣布最高950亿美元的股权融资计划，其中375亿美元已完成，另有约600亿美元的ATM项目待执行。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;亚马逊新增1310亿美元，增幅41%，&lt;/strong&gt;为超大规模云企业中百分比涨幅最大。无条件采购义务几乎翻倍，从1300亿美元增至2540亿美元，新增一项1596亿美元的&amp;quot;物业及设备&amp;quot;条目；尚未启用租约从1370亿美元增至1650亿美元。唯一抵消项是向OpenAI尚欠的213亿美元已于三季度入账，转移至资产负债表。受资本支出超预期冲击，亚马逊股价上周五大跌。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Alphabet新增1640亿美元，增幅18%。&lt;/strong&gt;采购承诺上升950亿美元，尚未启用租约从850亿增至1310亿美元，能源设备担保（期限延伸至2049年）从76亿美元翻倍至162亿美元，并新增一项66亿美元的TPU硬件回购担保。Alphabet在此前已向股权市场融资800亿美元、自由现金流持续告负的背景下，其表外承诺已突破1万亿美元大关，成为首家单一公司表外承诺超过1万亿美元的企业，达到10590亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微软新增350亿美元，增幅6%，&lt;/strong&gt;是其中表外承诺扩张相对&amp;quot;克制&amp;quot;的一家。三季度新签数据中心租约约530亿美元，其中170亿美元已启用并转入资产负债表，尚未启用租约从3290亿美元增至3650亿美元。需注意的是，微软的采购和建设承诺每年仅在10-K中披露一次，目前的2290亿美元数据仍停留在6月末，实际数字届时大概率将大幅上修。即便如此，&amp;quot;最干净&amp;quot;的超大规模云企业近期仍需发行250亿美元债券融资。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SpaceX新增510亿美元，增幅174%，&lt;/strong&gt;增速最为激进。其表外承诺从二季度末的290亿美元增至三季度末的400亿美元，再到10月26日通过8-K文件披露的400亿美元Apollo GPU主融资租赁协议（租赁期定于2027年上半年开始执行）后，总规模跃升至800亿美元。&lt;/p&gt;
-
-评级机构口径不一，市场开始自行定价
-
-&lt;p&gt;高盛的Amanda Lynam指出，若将五家主要超大规模云企业的表外租约与采购承诺合并统计，相关规模自2023年以来已增长八倍。然而，这一风险敞口在评级体系中并未获得统一对待：标普在计算杠杆时对表外租赁进行调整，而穆迪与惠誉则未做同等处理，评级方法论的潜在变化因此成为值得密切追踪的风险点。&lt;/p&gt;
-&lt;p&gt;这种会计处理上的不透明，已开始引发市场的直接反应。分析机构Needham指出，一旦将表外负债纳入计算，Meta的企业价值将提升35%。Meta在财报披露后CDS创下历史新高，随即宣布大规模股权融资。Lynam亦强调，部分企业已明确表示需要在市场趋于饱和之前提前锁定资本，这一表述被认为是Meta股权融资的直接注脚，且未必是最后一例。&lt;/p&gt;
-
-表外承诺扩张的三大构成
-
-&lt;p&gt;从结构上拆解这4.1万亿美元，可见三条主线：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一是尚未启用的已签署租约，总规模已达1.39万亿美元，&lt;/strong&gt;较8月时的1.12万亿美元进一步扩大。这些资产通常由特殊目的载体（SPV）出资建设的数据中心外壳构成，只有在正式通电启用后，才会转入公司资产负债表。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;二是采购承诺，规模为2.25万亿美元，&lt;/strong&gt;较8月末的1.73万亿美元大幅攀升。这一类别包含了Meta斥巨资锁定的第三方云计算容量、亚马逊新增的物业设备采购义务等。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三是担保与兜底承诺，已从1580亿美元跃升至2730亿美元，&lt;/strong&gt;包括Alphabet的能源设备担保及TPU硬件回购担保，以及Meta在两个数据中心合资项目上的剩余价值担保。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-表外债务扩张，市值同步蒸发
-
-&lt;p&gt;摩根士丹利曾于8月警告，这些承诺在算力供应受约束期间具有&amp;quot;战略价值&amp;quot;，但&amp;quot;若供需在预期之前趋于正常化，企业将不得不为过剩产能买单，或试图重新谈判合同条款&amp;quot;。&lt;/p&gt;
-&lt;p&gt;市场已开始给出答案。Alphabet股价本月经历创纪录的单日暴跌，亚马逊持续走低，纳斯达克100指数成份股本月合计市值蒸发逾1.2万亿美元。&lt;/p&gt;
-&lt;p&gt;换言之，一个季度内，大型科技公司新增约1万亿美元表外负债；一个月内，这些公司的市值缩水同样超过1万亿美元。表外承诺不因股价涨跌而消失，到期必须兑付。当前的核心悬念在于：AI商业化收入能否在下一轮承诺浪潮到来之前实现追赶——而下一个10-Q季报季，距今并不遥远。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 【2026.11.01-兴业银行半年报和三季报解读】</title><link>http://www.xueqiu.com/3802738237/414967891</link><guid>7054aea1dde18b7aef30483d4d950a697af2770afc2f9b197fd0099bec9d3715</guid><pubDate>Sun, 01 Nov 2026 14:27:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;xlmmmm&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH601166"&gt;$兴业银行(SH601166)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 风大的时候，站得稳比跑得快更有信息量：泸州老窖Q3的另一种读法</title><link>http://www.xueqiu.com/1456239271/414954240</link><guid>9dbcb7d0ca914c45071e6d522a8fa5df98938d6a73440eef6b76e466cfeabc56</guid><pubDate>Sun, 01 Nov 2026 14:27:49 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;疯投哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高盛10月中旬发布的白酒行业三季度前瞻研报认为，市场情绪正在筑底，但需求恢复与渠道去库存仍需时间。&lt;/p&gt;</description></item><item><title>[今日雪球] 2027年，究竟是生猪大年还是小年？</title><link>http://www.xueqiu.com/6270908212/414964012</link><guid>45f87bfb7e76a59c50facc704aed3750003fe360395e99a441ad4d86dfc94104</guid><pubDate>Sun, 01 Nov 2026 14:27:57 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;复利茶馆&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SZ002714"&gt;$牧原股份(SZ002714)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ300498"&gt;$温氏股份(SZ300498)$&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年11月2日</title><link>https://wallstreetcn.com/articles/3784909</link><guid>def1805e9ef4f50b186f320a437f43b9e3b74a9992abf6e686722eb3a8276630</guid><pubDate>Sun, 01 Nov 2026 23:02:47 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784815"&gt;华尔街见闻文章&lt;/a&gt;此前写到，上周四，币安遭遇价值63亿美元的黑客盗窃事件，随即冻结提款以展开调查并稳定局势，同时承诺对所有用户进行全额赔付。周日提款恢复后，资金外流在初期出现峰值后逐步趋缓。币安联合首席执行官Yi He在X平台表示，部分转账发生在币安内部钱包之间，并非全部来自客户提款。截至目前，币安已动用企业财库及应急保险基金，补足了约&lt;strong&gt;95%&lt;/strong&gt;的被盗加密资产。&lt;/p&gt;
+提款分阶段恢复，赔付进展顺利
+&lt;p&gt;据报道，币安采取分阶段方式重启提款流程。&lt;strong&gt;第一阶段覆盖15种代币&lt;/strong&gt;，包括以太坊（Ether）以及两大主流稳定币——Tether的USDT和Circle Internet Group的USDC；随后，包括以太坊主网、BNB智能链、XRP和Base在内的&lt;strong&gt;15条区块链网络&lt;/strong&gt;上的提款也相继开放。&lt;/p&gt;
+&lt;p&gt;在赔付方面，币安明确表态不会将损失转嫁给用户。“我们的承诺不变：币安将自行承担被盗资金的财务损失，”该公司表示。此次被盗代币涵盖比特币、以太坊等跨越&lt;strong&gt;10条区块链&lt;/strong&gt;的主流加密资产组合。&lt;/p&gt;
+规模优势构筑护城河，机构客户多数选择留守
+&lt;p&gt;报道称，尽管事件引发震动，币安的体量优势令多数机构客户难以轻易离场。据币安在X平台发布的数据，截至10月28日，其管理资产规模达&lt;strong&gt;1710亿美元&lt;/strong&gt;。相比之下，排名第二的交易所OKX管理资产约为&lt;strong&gt;290亿美元&lt;/strong&gt;，差距悬殊。&lt;/p&gt;
+&lt;p&gt;量化研究公司Kronos Research首席投资官Vincent Liu表示，“我们不会撤资。币安是流动性最强的平台。如果你想在加密市场交易或对冲，就必须在币安上操作。我预计会有提款发生，但随着流动性恢复，很多人也会回来。”&lt;/p&gt;
+&lt;p&gt;量化交易公司SQS Trading约四分之一的交易资本存放在币安，其创始人Eli Williams表示，计划将这一比例削减约三分之一，但此举不会导致其平仓或减少将币安作为对冲场所的使用频率。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“目前很难预测净影响，但我们会持续监测资金外流情况及其相对于其他主要交易场所的成交量变化。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;私募市场咨询公司Arctic Digital研究主管Justin d&amp;#x27;Anethan则表示完全不受此次黑客事件影响。“当事情看起来可疑时，快速行动是对的；但当灾难性事件发生时，反而应该按兵不动，”他说，“我没有、也不会离开币安。”&lt;/p&gt;
+安全漏洞引发行业警示，AI助攻黑客成新隐忧
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3784815"&gt;华尔街见闻文章&lt;/a&gt;写到，此次攻击的表面起因——&lt;strong&gt;一名员工的笔记本电脑遭到入侵&lt;/strong&gt;——动摇了外界对币安现有网络安全体系的信心，并在行业内引发广泛震荡。据报道，美国联邦调查局（FBI）和美国特勤局已介入调查，区块链分析公司也参与了溯源工作。&lt;/p&gt;
+&lt;p&gt;此次事件并非孤例。今年以来，加密行业及更广泛金融领域遭受的网络攻击明显增多，安全专家普遍担忧&lt;strong&gt;人工智能正在提升黑客的攻击效能&lt;/strong&gt;，尤其在侦察和社会工程学层面。&lt;/p&gt;
+&lt;p&gt;今年9月，Bitget遭黑客盗取数亿美元；此外，黑客还从由Coinkite设备保护的钱包中窃取逾&lt;strong&gt;1亿美元&lt;/strong&gt;比特币，Ledger设备遭篡改事件亦造成数百万美元损失。&lt;/p&gt;
+&lt;p&gt;预测市场平台Polymarket、韩国金融机构未来资产全球投资（Mirae Asset Global Investments）和大信证券（Daishin Securities），以及日本外汇交易平台GMO Internet Group均在近期遭受网络攻击。&lt;/p&gt;
+&lt;p&gt;相比之下，2025年发生在Bybit的此前最大规模黑客攻击，损失金额仅为此次事件的一个零头。&lt;/p&gt;
+&lt;p&gt;报道称，多位业内人士对币安此次危机处置给予积极评价，认为其反应速度、持续公开更新信息以安抚用户，以及动用自有利润进行赔付的做法，均值得肯定。&lt;/p&gt;
+&lt;p&gt;风险投资基金Dragonfly管理合伙人Haseeb Qureshi表示，“从某种程度上说，这展示了这个行业已经成熟到何种程度。我们看到了极为迅速的应对。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 【2026.11.01-兴业银行半年报和三季报解读】</title><link>http://www.xueqiu.com/3802738237/414967891</link><guid>7054aea1dde18b7aef30483d4d950a697af2770afc2f9b197fd0099bec9d3715</guid><pubDate>Sun, 01 Nov 2026 14:27:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;xlmmmm&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH601166"&gt;$兴业银行(SH601166)$&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[今日雪球] 风大的时候，站得稳比跑得快更有信息量：泸州老窖Q3的另一种读法</title><link>http://www.xueqiu.com/1456239271/414954240</link><guid>9dbcb7d0ca914c45071e6d522a8fa5df98938d6a73440eef6b76e466cfeabc56</guid><pubDate>Sun, 01 Nov 2026 14:27:49 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;疯投哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高盛10月中旬发布的白酒行业三季度前瞻研报认为，市场情绪正在筑底，但需求恢复与渠道去库存仍需时间。&lt;/p&gt;</description></item><item><title>[今日雪球] 2027年，究竟是生猪大年还是小年？</title><link>http://www.xueqiu.com/6270908212/414964012</link><guid>45f87bfb7e76a59c50facc704aed3750003fe360395e99a441ad4d86dfc94104</guid><pubDate>Sun, 01 Nov 2026 14:27:57 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;复利茶馆&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SZ002714"&gt;$牧原股份(SZ002714)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ300498"&gt;$温氏股份(SZ300498)$&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年11月2日</title><link>https://wallstreetcn.com/articles/3784909</link><guid>def1805e9ef4f50b186f320a437f43b9e3b74a9992abf6e686722eb3a8276630</guid><pubDate>Sun, 01 Nov 2026 23:02:47 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000409"&gt;&lt;/a&gt;&lt;/p&gt;
 华见早安之声
 
