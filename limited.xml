@@ -1,16 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 02 Nov 2026 17:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] 油价回落提振情绪，美股全线上涨，WTI原油日内下跌6%，金价徘徊3900美元关口</title><link>https://wallstreetcn.com/articles/3784983</link><guid>86ab8f9654bcb94563a509f29c0458bf718a7936c9e9accf800334eccc4b232c</guid><pubDate>Mon, 02 Nov 2026 15:04:22 GMT</pubDate><description>&lt;p&gt;美股期货周一小幅上涨，布伦特原油期货大跌6%为市场提供喘息空间，但分析师警告，上周五科技股的大规模抛售所引发的担忧尚未消散，AI交易能否真正企稳仍存变数。&lt;/p&gt;
-&lt;p&gt;美股盘初，标普500指数涨0.41%，道琼斯工业平均指数涨0.46%，纳斯达克综合指数涨0.64%，费城半导体指数涨0.28%。&lt;/p&gt;
-&lt;p&gt;谷歌母公司Alphabet涨1.1%，该公司赴欧债市场融资。甲骨文跌3.9%，该公司启动200亿美元股债融资、为AI开支“筹粮”。&lt;/p&gt;
-&lt;p&gt;美股光通信股开盘涨跌不一，Lumentum跌6.27％，迈威尔科技将按1150亿美元收购该公司，康宁涨0.81％，Coherent涨1.75％，应用光电涨2.06％，Ciena跌0.50％，博通涨0.18％，迈威尔科技跌2.97％。&lt;/p&gt;
-&lt;p&gt;与此同时，布伦特原油跌至每桶约106美元，据&lt;a href="https://baijiahao.baidu.com/s?id=1880755639148299535"&gt;央视新闻&lt;/a&gt;，当地时间11月2日，伊朗总统佩泽希齐扬表示，政府正努力通过对话解决问题，在这方面，&lt;strong&gt;伊朗最高领袖也赋予了政府一定的权力&lt;/strong&gt;。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 02 Nov 2026 18:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] 美股冲高回落，纳斯达克100转跌，中概指数涨超3%，布油大跌8%</title><link>https://wallstreetcn.com/articles/3784983</link><guid>86ab8f9654bcb94563a509f29c0458bf718a7936c9e9accf800334eccc4b232c</guid><pubDate>Mon, 02 Nov 2026 18:04:04 GMT</pubDate><description>&lt;p&gt;美股周一情绪有所缓和，布伦特原油期货大跌8%为市场提供喘息空间，但分析师警告，上周五科技股的大规模抛售所引发的担忧尚未消散，AI交易能否真正企稳仍存变数。&lt;/p&gt;
+&lt;p&gt;美股盘中，纳斯达克100指数转跌，回吐此前1.3％的涨幅。标普500指数涨幅收窄至0.2%，纳指涨幅收窄至0.1%，费城半导体指数跌1.3%。&lt;/p&gt;
+&lt;p&gt;美股光通信股开盘涨跌不一，Lumentum跌6.27％，迈威尔科技将按1150亿美元收购该公司，迈威尔科技跌幅扩大至10%。康宁涨0.81％，Coherent涨1.75％，应用光电涨2.06％，Ciena跌0.50％，博通涨0.18％。&lt;/p&gt;
+&lt;p&gt;Meta跌0.75%，或实施半年来首次重大债务发售，拟募集至少200亿美元。谷歌涨1.1%，赴欧债市场融资。甲骨文跌6.4%，启动200亿美元股债融资。&lt;/p&gt;
+中概指数涨超3%，小鹏、小米、联想、阿里至少涨约6%。纳斯达克金龙中国指数涨幅扩大至3.2%，中概股小鹏涨8%，小米ADR涨6.2%，联想ADR涨5.9%，阿里涨5.8%，拼多多涨5.1%，日月光半导体涨4.7%，腾讯ADR涨3.3%，比亚迪ADR涨3.2%，百度涨3.1%，京东、美团ADR、新东方至少涨超2.8%，网易涨1.9%。
+
+&lt;p&gt;ETF中，KWEB涨3.9%，CQQQ涨3.3%。富时A50夜期涨0.45%。&lt;/p&gt;
+
+&lt;p&gt;与此同时，布伦特原油期货大跌8%，据&lt;a href="https://baijiahao.baidu.com/s?id=1880755639148299535"&gt;央视新闻&lt;/a&gt;，当地时间11月2日，伊朗总统佩泽希齐扬表示，政府正努力通过对话解决问题，在这方面，&lt;strong&gt;伊朗最高领袖也赋予了政府一定的权力&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;长期美国国债走高，美元小幅下滑0.1%，黄金徘徊于每盎司3900美元附近。&lt;/p&gt;
 &lt;p&gt;Anthropic在美股开盘之前发布S-1/A文件，该公司提交修订版IPO招股书，披露第三季度财务数据。Anthropic三季度营收169.6亿美元，去年同期13.8亿美元；净亏损232.9亿美元（含219亿美元非现金计提），上年同期121.4亿美元。&lt;/p&gt;
 &lt;p&gt;荷兰国际集团首席投资策略师Simon Wiersma表示：&amp;quot;此次反弹幅度相对于上周五的抛售来说较为温和，我目前还不会将其解读为具有说服力的&amp;#x27;逢低买入&amp;#x27;信号。围绕AI投资、利率及地缘政治的不确定性依然充足，足以令投资者保持谨慎。&amp;quot;&lt;/p&gt;
 &lt;p&gt;本周市场还将面临美国中期选举及一系列就业数据的考验，多重因素叠加，投资者的观望情绪仍较浓厚。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;标普500指数涨0.41%，道琼斯工业平均指数涨0.46%，纳斯达克综合指数涨0.64%，费城半导体指数涨0.28%。&lt;/li&gt;
+&lt;li&gt;美股盘中，纳斯达克100指数转跌，回吐此前1.3％的涨幅。标普500指数涨幅收窄至0.2%，纳指涨幅收窄至0.1%，费城半导体指数跌1.3%。&lt;/li&gt;
+&lt;li&gt;中概指数涨超3%，小鹏、小米、联想、阿里至少涨约6%。KWEB涨3.9%，CQQQ涨3.3%，富时A50夜期涨0.45%。&lt;/li&gt;
 &lt;li&gt;Lumentum跌6.27％，谷歌涨1.1%，甲骨文跌3.9%，康宁涨0.81％，Coherent涨1.75％，应用光电涨2.06％，Ciena跌0.50％，博通涨0.18％，迈威尔科技跌2.97％。&lt;/li&gt;
 &lt;li&gt;欧元兑美元上涨0.5%至1.1214，为两周多来最大涨幅。&lt;/li&gt;
 &lt;li&gt;美国10年期国债收益率变化不大，为4.92%&lt;/li&gt;
@@ -23,10 +28,11 @@
 
 
 
-AI开支持续扩张，科技巨头遭遇信任危机
+美股冲高回落，纳斯达克100指数转跌
+&lt;p&gt;美股盘中，纳斯达克100指数转跌，回吐此前1.3％的涨幅。标普500指数涨幅收窄至0.2%，纳指涨幅收窄至0.1%，费城半导体指数跌1.3%。&lt;/p&gt;
 
-&lt;p&gt;上周五的大跌折射出投资者对科技企业耐心的消退——这些公司核心业务增长放缓，AI支出却持续攀升。最大手笔的科技巨头已在大举举债为基础设施建设融资。Alphabet周一启动今年第二次欧元债券发行，此前其在5月已筹得90亿欧元（约合100亿美元）。&lt;/p&gt;
 &lt;p&gt;苹果公司虽刚刚重夺全球市值最高企业的位置，但在财报发布前股价下跌1.3，市场对其能否延续强劲势头保持观望。甲骨文跌4%，启动六档投资级美元债券发行。Lumentum跌超6%。&lt;/p&gt;
+&lt;p&gt;上周五的大跌折射出投资者对科技企业耐心的消退——这些公司核心业务增长放缓，AI支出却持续攀升。最大手笔的科技巨头已在大举举债为基础设施建设融资。Alphabet周一启动今年第二次欧元债券发行，此前其在5月已筹得90亿欧元（约合100亿美元）。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
