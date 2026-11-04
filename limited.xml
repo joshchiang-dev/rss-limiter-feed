@@ -1,5 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 04 Nov 2026 20:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] 英特尔跌幅收窄，CEO斥资近千万美元增持股票</title><link>https://wallstreetcn.com/articles/3785204</link><guid>a1df97ce09e06494575197f4c754a1e26fdf96ab52b83b112b55cccdbaeec908</guid><pubDate>Wed, 04 Nov 2026 19:08:39 GMT</pubDate><description>&lt;p&gt;英特尔CEO陈立武（Lip-Bu Tan）在公司股价经历大幅回调后出手增持，向市场释放出一定的信心信号。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 04 Nov 2026 21:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 美国民主党中选大胜，一文看清美股各板块赢家输家</title><link>https://wallstreetcn.com/articles/3785208</link><guid>6f2f6367920a297afd1872e3c1d8468e5ed102f19813a7d0c882ed9845af5f28</guid><pubDate>Wed, 04 Nov 2026 21:19:50 GMT</pubDate><description>&lt;p&gt;民主党横扫国会两院，触发美股剧烈板块轮动。数据中心运营商、国防承包商及与特朗普相关资产遭到抛售，清洁能源、医疗保险等板块则大幅反弹，市场正在重新定价一个监管更趋严格、政策优先项发生位移的新格局。&lt;/p&gt;
+&lt;p&gt;此次民主党胜选范围超出市场预期，不仅突破共和党传统票仓，更赢得德克萨斯州和佐治亚州两大AI数据中心重镇。&lt;/p&gt;
+&lt;p&gt;德克萨斯州选出逾30年来首位民主党籍州长Gina Hinojosa，其竞选纲领明确主张对数据中心建设实施临时暂停令，令相关股票雪上加霜。与此同时，原本被市场视为在共和党国会畅行无阻的1.5万亿美元国防预算扩张预期亦随之落空。&lt;/p&gt;
+&lt;p&gt;此次板块轮动的核心逻辑在于：民主党掌控国会将使过去两年共和党主导下的监管宽松路径出现逆转，AI基础设施投资的政策红利面临重新评估，而清洁能源、医疗保障等此前受压板块则将获得更强的立法支撑。&lt;/p&gt;
+
+AI数据中心：监管压力冲击估值
+
+&lt;p&gt;数据中心运营商首当其冲。&lt;/p&gt;
+&lt;p&gt;Applied Digital和CoreWeave分别下跌8.8%和9.5%，Cipher Digital重挫21%。比特币矿机转型AI基础设施的企业同样遭到重创——Hut 8跌近23%，Galaxy Digital跌约14%，MARA Holdings跌约7%，Core Scientific和IREN跌幅均超10%。&lt;/p&gt;
+&lt;p&gt;数据中心建设热潮今年已引发公众强烈反弹。分析人士认为，民主党主导的国会虽难以通过立法实质性叫停建设，但将大幅提高举行听证及展开调查的概率，间接推升项目成本与不确定性。&lt;/p&gt;
+&lt;p&gt;Siebert Financial首席投资官Mark Malek表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;AI基础设施建设不会消失，只会变得更贵。税收优惠减少、电力和水资源成本责任增加，将压缩回报空间，令利润率对投资者而言愈发关键。&lt;strong&gt;最脆弱的AI企业，是那些高度依赖融资的公司，而非规模最大的资本支出方。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;据研究机构SemiAnalysis数据，德州在2028年前将贡献美国近30%的新增数据中心产能，占比远超其他各州。Clear Street颠覆性技术股权研究董事总经理Brian Dobson指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;德克萨斯州政治格局的转变可能带来额外的数据中心监管措施，这将有利于拥有良好企业公民记录的老牌机构。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为数据中心建设提供电力与设备支持的企业同样承压。GE Vernova下跌11.5%，在德州数据中心项目敞口最大的两家电力公司Constellation Energy和Vistra分别下跌9.2%和15.4%。&lt;/p&gt;
+
+超大规模云厂商：逆势走强
+
+&lt;p&gt;亚马逊和微软各涨约6%，双双录得自去年7月底以来最大单日涨幅，谷歌上涨4.6%。&lt;/p&gt;
+&lt;p&gt;市场逻辑在于：若数据中心新建步伐放缓，现有资产的稀缺价值将随之上升，同时有望抑制大型科技公司不断膨胀的AI资本支出。投资者此前持续因举债加码AI投资、回报前景不明确而惩罚这些股票。&lt;/p&gt;
+&lt;p&gt;B. Riley Wealth首席市场策略师Art Hogan表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;超大规模云厂商已拥有现成的数据中心，数据中心不再被大量新建，意味着这些资产更具价值。建设节奏放缓，资本支出的步伐也会随之趋缓，这对超大规模云厂商而言是确定性的正面影响。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;部分市场参与者认为此次抛售存在过激成分。&lt;/p&gt;
+&lt;p&gt;LO:TECH研究主管Adam McCarthy指出，特朗普政府一贯强力支持AI发展，因此针对数据中心概念股的大幅下跌看似反应过度，已建成并完成转型改造的矿机基础设施，在监管收紧的环境下反而更具价值。&lt;/p&gt;
+
+马斯克相关资产：政治风险溢价显现
+
+&lt;p&gt;SpaceX股价下跌3.5%至8月中旬以来低位，特斯拉下跌3.3%。&lt;/p&gt;
+&lt;p&gt;XTB研究总监Kathleen Brooks表示，此次选举结果令外界对SpaceX与特斯拉潜在合并计划产生质疑。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;国会虽无法阻止合并，但可通过加强审查的方式拖延进程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马斯克为共和党投入了数亿美元竞选资金，如今其政治对手重夺国会控制权，与马斯克相关的股票可能持续承压。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+特朗普概念加密资产全线下挫
+
+&lt;p&gt;据CoinGecko数据，特朗普联合创办的World Liberty Financial旗下WLFI代币过去24小时跌幅约7%，以其名字命名的Meme币跌幅约17%。&lt;/p&gt;
+&lt;p&gt;World Liberty Financial发言人David Wachsman则表示，该公司&amp;quot;自成立以来，始终遵守所有适用的美国法律法规&amp;quot;，并称&amp;quot;国会若无端针对一家致力于扩大美元普及的合规公司，令人担忧&amp;quot;。&lt;/p&gt;
+&lt;p&gt;加密资产研究通讯《Crypto is Macro Now》作者Noelle Acheson指出，此轮跌势&amp;quot;既反映了相关资产光环的消退，也折射出市场对潜在调查或司法追诉的预期&amp;quot;。&lt;/p&gt;
+&lt;p&gt;同时，特朗普媒体与科技集团股价一度重挫17%，创历史新低；追踪该股的杠杆ETF产品DJTU跌幅达32%。&lt;/p&gt;
+
+国防承包商：预算扩张预期受挫
+
+&lt;p&gt;国防板块普跌，诺思罗普·格鲁曼（Northrop Grumman）下跌3.7%，RTX、洛克希德·马丁（Lockheed Martin）和L3Harris跌幅均在3%至6%之间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此前市场预期特朗普提出的1.5万亿美元国防预算在共和党控制的国会将畅行无阻，但民主党接掌国会令这一路径生变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;eToro全球市场策略师Lale Akoner表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;艰难的债务上限谈判可能推迟支出增加，更依赖新政府合同的企业将比合同基础稳固的企业面临更大的风险。真正的风险在于，支出增速低于预期，从而引发价格修正。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+清洁能源：政策预期驱动反弹
+
+&lt;p&gt;清洁能源板块全线走高。&lt;/p&gt;
+&lt;p&gt;First Solar涨8.4%，居家太阳能安装商Sunrun涨6.9%，逆变器制造商Enphase Energy涨8.8%，清洁能源开发商NextEra Energy涨4.6%。欧洲市场同步反应，丹麦Vestas涨2.9%，Orsted涨4.6%，葡萄牙EDP Renewables涨2.8%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;投资者押注民主党掌控国会将为清洁能源提供更强有力的联邦政策支撑，同时增加对推翻排放法规相关努力的阻力。&lt;/strong&gt;民主党还可能借助《国会审查法》叫停放宽燃油车销售限制的相关法规。&lt;/p&gt;
+&lt;p&gt;Invesco EMEA全球市场策略师Paul Jackson表示，&amp;quot;油气价格上涨越多，推广清洁能源的经济动力就越强。&amp;quot;&lt;/p&gt;
+医疗上涨、私营监狱下跌：政策方向决定股价
+
+&lt;p&gt;医疗板块受益于政策预期转向。医院运营商HCA Healthcare和Universal Health Services分别上涨8.5%和6.8%，保险商Centene和Molina Healthcare分别上涨7.3%和6.3%。&lt;/p&gt;
+&lt;p&gt;摩根士丹利分析师在研报中指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;此次选举结果将为国会推进民主党医疗政策优先项提供更大空间，&lt;strong&gt;包括恢复《平价医疗法案》强化补贴，或逆转共和党医疗补助削减措施中的就业要求规定。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管我们仍认为在下次总统大选周期前出现实质性医疗政策变化的可能性较低，但选举结果可能改变政策叙事走向。&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;私营监狱运营商则走势相反。GEO Group和CoreCivic分别下跌3.8%和2.1%。&lt;strong&gt;两只股票自特朗普两年前赢得总统大选以来已大幅上涨，其强硬移民政策持续推升市场对拘留设施需求增长的预期，而民主党掌控国会令这一逻辑面临逆转。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英特尔跌幅收窄，CEO斥资近千万美元增持股票</title><link>https://wallstreetcn.com/articles/3785204</link><guid>a1df97ce09e06494575197f4c754a1e26fdf96ab52b83b112b55cccdbaeec908</guid><pubDate>Wed, 04 Nov 2026 19:08:39 GMT</pubDate><description>&lt;p&gt;英特尔CEO陈立武（Lip-Bu Tan）在公司股价经历大幅回调后出手增持，向市场释放出一定的信心信号。&lt;/p&gt;
 &lt;p&gt;根据提交给美国证券交易委员会（SEC）的Form 4文件，陈立武已于11月2日在公开市场买入15万股英特尔普通股，交易金额约971万美元。&lt;/p&gt;
 &lt;p&gt;此次增持的加权平均价格为每股64.7312美元，交易通过家族信托完成。申报文件显示，交易完成后，该家族信托持有的英特尔股票增至146.47万股，较交易前增加约11.4%。&lt;/p&gt;
 &lt;p&gt;消息公布后，英特尔股价短时反弹拉升，高点跌幅收窄至1.2%，随后小幅回落，截至发稿，周三盘中仍然下跌3.6%。&lt;/p&gt;
@@ -320,55 +391,78 @@
 在美业务扩张，韩企高度关注国会政治动向
 
 &lt;p&gt;韩国企业对国会权力格局变化如此敏感，根源在于其美国业务占比已大幅提升。企业数据提供商CEO Score对28家大型企业集团海外子公司的调查显示，截至今年6月底，美国子公司数量达1308家，较十年前的394家增长232.0%，占全部海外子公司的比重也从13.0%跃升至26.5%。&lt;/p&gt;
-&lt;p&gt;三星、SK、现代汽车、LG和汉华旗下美国子公司数量同期从240家增至888家。其中，汉华凭借太阳能和储能业务的大举扩张，增幅最为突出，从63家升至374家；SK次之，从40家升至243家；现代汽车则从55家增至112家。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宇树王兴兴：2027年大概率成机器人行业临界点，卡点在“最后几毫米”</title><link>https://wallstreetcn.com/articles/3785206</link><guid>d09e5e0803a41dacd6f0f947805d42f086ac3fd62c80b0557f39fe0159742843</guid><pubDate>Wed, 04 Nov 2026 20:28:34 GMT</pubDate><description>&lt;p&gt;具身智能距离真正爆发的距离，或许比外界预期的更近，但关键技术障碍仍未破除。&lt;/p&gt;
-&lt;p&gt;11月4日，宇树科技创始人、董事长兼CEO王兴兴在2026年世界互联网大会乌镇峰会互联网企业家论坛上表示，&lt;strong&gt;2027年很大概率将成为机器人行业或机器人模型发展的临界点，明年机器人能力有望迎来大幅提升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他判断，具身智能的&amp;quot;ChatGPT时刻&amp;quot;已近在咫尺——&lt;strong&gt;届时机器人能够在约80%的陌生场景中，通过语音或文字指令完成约80%的任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而，王兴兴同时指出，机器人与这一目标之间仍横亘着一道他称之为&lt;strong&gt;&amp;quot;最后几毫米&amp;quot;的技术门槛&lt;/strong&gt;：&lt;strong&gt;AI模型对物理接触和触觉的理解尚不充分，模型输入输出与真实世界之间的对齐存在偏差&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他预计，这一问题有望在未来一至三年内得到解决&lt;/strong&gt;。消息提振了宇树科技（688836.SH）股价，当日盘中一度涨超8%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-临界点判断：80%场景、80%任务
-
-&lt;p&gt;王兴兴对具身智能&amp;quot;GPT时刻&amp;quot;的定义具体而明确：机器人能够在约80%的陌生场景中，通过语音或文字指令完成约80%的任务。他认为，当前全球顶尖模型距离这一目标已经非常接近。&lt;/p&gt;
-&lt;p&gt;他指出，目前顶尖多模态模型已具备较强的空间理解和任务规划能力。&lt;strong&gt;机器人经过充分训练后，在固定工位执行单一任务的成功率可接近100%，对于抓取、搬运等操作，模型也已能取得较高成功率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，从固定工位的高成功率，到跨场景的通用能力，仍是两个截然不同的维度&lt;/strong&gt;。王兴兴明确表示，这种通用能力尚未实现，而制约其实现的核心障碍，正是他所说的&amp;quot;最后几毫米&amp;quot;问题。&lt;/p&gt;
-
-卡点所在：触觉与物理世界的对齐
-
-&lt;p&gt;在手机拆装、穿针引线等需要精细操作的场景中，当前机器人的表现仍不理想。&lt;/p&gt;
-&lt;p&gt;王兴兴将原因归结为：&lt;strong&gt;机器人对物理世界的接触与触觉信息缺乏足够准确的理解，AI模型的输入输出与真实世界的对齐&amp;quot;差了一点&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;AI模型对物理世界的接触这部分做得不是特别好，也就是AI模型的输入输出和真实世界的对齐还是差了一点。&amp;quot;王兴兴表示，这恰恰是完成复杂操作的关键所在。&lt;/p&gt;
-&lt;p&gt;他预计，这类问题有望在未来一至三年内得到解决。一旦突破，机器人模型在理论层面的主要问题将大幅减少，行业技术曲线料将随之陡峭上扬。&lt;/p&gt;
-
-自进化循环：人类角色收窄至&amp;quot;打分&amp;quot;
-
-&lt;p&gt;&lt;strong&gt;为突破上述瓶颈，宇树正在推进物理AI模型的自进化机制。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;王兴兴透露，几个月前，宇树已在内部启动相关探索：&lt;strong&gt;让AI模型自行编写代码，在仿真环境或真实环境中训练，再部署到机器人上测试，测试后由人或机器人打分，结果反馈给模型用于修改程序和继续训练&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;王兴兴表示，全球头部大模型公司在某种程度上已在内部建立起这一自进化循环——模型能够自主采集数据、训练和迭代，人类只需少量参与评价。但在机器人领域，即便是全球头部企业，目前也尚未真正建立起这样的闭环。&lt;/p&gt;
-&lt;p&gt;在他看来，在这套机制中，人类当前最大的价值只剩&lt;strong&gt;两项&lt;/strong&gt;：&lt;strong&gt;评价AI模型输出结果的好坏&lt;/strong&gt;，以及&lt;strong&gt;设置目标供AI实现&lt;/strong&gt;。王兴兴说：&lt;/p&gt;
+&lt;p&gt;三星、SK、现代汽车、LG和汉华旗下美国子公司数量同期从240家增至888家。其中，汉华凭借太阳能和储能业务的大举扩张，增幅最为突出，从63家升至374家；SK次之，从40家升至243家；现代汽车则从55家增至112家。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 随着民主党重掌国会，华尔街的清算迫在眉睫</title><link>https://wallstreetcn.com/articles/3785209</link><guid>2371bed2f27cb4a0b1980fb9d5a28bcfc4c9de2fb63fc063ac7957ddafadef10</guid><pubDate>Wed, 04 Nov 2026 21:19:39 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;明年1月，特朗普执政近两年来为华尔街量身打造的宽松监管环境面临逆转。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;11月4日据&lt;a href="https://ysxw.cctv.cn/article.html?toc_style_id=feeds_default&amp;amp;item_id=16699545018602791460"&gt;央视报道&lt;/a&gt;，多家美国媒体预测，美国民主党在3日举行的中期选举中力压共和党夺回参议院和众议院控制权，重新掌控美国国会。&lt;/p&gt;
+&lt;p&gt;据彭博报道，此次民主党大胜，使Elizabeth Warren和Maxine Waters等长期倡导金融强监管的议员有望执掌关键委员会。&lt;/p&gt;
+&lt;p&gt;Warren被视为&lt;strong&gt;参议院银行委员会&lt;/strong&gt;的有力竞争者，该委员会负责监督美国证券交易委员会（SEC）等核心金融监管机构。&lt;strong&gt;众议院金融服务委员会方面&lt;/strong&gt;，Waters与Sean Casten正竞争民主党首席议员席位。Casten曾表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;但是渐渐AI模型也会学会人类的这些评价指标和偏好，就可以自己进化成越来越强的模型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们最大的权力在于通过监督手段发现问题，以及运用拨款程序施压。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;王兴兴坦言，目前包括宇树在内，机器人行业对数据的利用率仍然偏低，大量已有数据尚未得到充分利用。他表示：&lt;/p&gt;
+&lt;p&gt;报道指出，尽管民主党难以直接阻止SEC主席Paul Atkins和CFTC主席Michael Selig推进其监管议程，但密集的国会听证与调查仍将对金融行业造成实质压力。公共事务公司Tiger Hill Partners管理合伙人James Maloney表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;对我们来说，要生产制造、部署千台或者万台机器人去测试采集数据，某种意义上是件成本很低、比较容易的事情。&lt;/p&gt;
+&lt;p&gt;金融监管机构将被频繁传唤出席作证。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;王兴兴认为问题的核心不在于采集数据，而在于如何充分利用这些数据训练AI模型。他指出，随着基础模型能力提升，模型自主进化和数据利用效率有望同步提高。&lt;/p&gt;
+&lt;p&gt;分析认为，从私募信贷、银行资本规则到加密货币和预测市场，民主党人已列出一份密集的监管议程，剑指金融业在特朗普时代所获得的诸多红利。&lt;/p&gt;
 
-三大布局：量产、模型、算力
+私募信贷：从野蛮生长到聚光灯下
 
-&lt;p&gt;技术判断之外，王兴兴也披露了宇树的战略部署方向。&lt;/p&gt;
-&lt;p&gt;他表示，&lt;strong&gt;宇树未来将重点攻克机器人大脑技术，并在全球范围内寻求合作&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;此前在10月22日举行的2026世界物理AI大会暨宇树合作伙伴生态大会上，王兴兴公布了宇树三大布局：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私募信贷市场在2008年金融危机后迅速膨胀，近期已因部分基金限制投资者赎回而引发外界关注&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;据彭博报道，沃伦已致函美国财政部及其他金融监管机构，要求对该市场开展更多压力测试，警告称：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;一是&lt;/strong&gt;提升机器人大规模量产能力，以适应千万级乃至亿级市场需求；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;二是&lt;/strong&gt;通过自主研发与外部合作并行，推进适配自身硬件的物理AI小模型落地；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;三是&lt;/strong&gt;布局超大规模算力集群，为技术持续迭代提供支撑。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;其规模扩张可能对金融体系稳定性和整体经济健康产生重大影响。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;王兴兴还在论坛上指出，未来世界最核心的资源将包括数据、算力、芯片产能、能源和矿产。随着机器人从固定工位走向更多开放场景，行业竞争也将进一步向模型能力、数据积累和算力基础设施延伸。&lt;/p&gt;
-&lt;p&gt;对于已走过十年、完成规模化制造布局的宇树而言，能否让模型充分释放数据价值，或将成为下一阶段竞争的核心变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta首次叩门欧元债市，530亿欧元认购需求创历史纪录</title><link>https://wallstreetcn.com/articles/3785192</link><guid>70def03f21be7a5da53aceb6cf8202429b44072a7ded70b5cd3df3e625b79eac</guid><pubDate>Wed, 04 Nov 2026 13:13:37 GMT</pubDate><description>&lt;p&gt;Meta Platforms首次进军欧元债券市场，吸引投资者创纪录的认购需求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国劳工部此前提出的一项允许私募信贷和加密货币更多进入退休储蓄计划的提案，同样遭到Waters的质疑&lt;/strong&gt;。该提案被普遍视为华尔街的重大利好，有望为黑石集团和阿波罗全球管理公司等机构打开更大市场。&lt;/p&gt;
+&lt;p&gt;美国民主党的监督行动是否会升级为实质性立法，目前尚不明朗，但私募信贷行业高管被传唤至国会听证的可能性已大幅上升。&lt;/p&gt;
+
+银行资本规则：松绑之路或遭阻击
+
+&lt;p&gt;在银行监管层面，民主党对特朗普政府拟放宽银行资本充足率要求的计划持强烈批评态度，认为&lt;strong&gt;相关提案可能&amp;quot;增加大型银行倒闭的可能性，并最终引发纳税人买单的救助行动&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;支持者则认为适度松绑有助于提振经济增长和增强竞争力，双方分歧明显。&lt;/p&gt;
+&lt;p&gt;据报道，&lt;strong&gt;沃伦还就美国银行承认违反联邦反洗钱法一事，呼吁司法部对该行及其高管展开刑事调查&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;美国银行上月已被美国监管机构罚款逾12.1亿美元，该行表示已与监管机构就金融犯罪合规问题展开配合。&lt;/p&gt;
+
+预测市场与CFTC：监管空白或将填补
+
+&lt;p&gt;预测市场行业近年来迅速崛起，颠覆了传统体育博彩格局，并与多个州爆发法律纠纷，相关案件可能最终诉诸美国最高法院。&lt;/p&gt;
+&lt;p&gt;特朗普支持CFTC作为预测市场的唯一监管机构，小唐纳德·特朗普（Donald Trump Jr.）亦担任Kalshi和Polymarket的顾问，与该行业存在直接利益关联。&lt;/p&gt;
+&lt;p&gt;据彭博报道，&lt;strong&gt;CFTC近期缺乏国会监督听证，民主党接手后预计将对该机构及其与行业的互动关系展开深入审查&lt;/strong&gt;。Polymarket在国会控制权确定前发表声明称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们欢迎与两党议员合作，共同规范并实现预测市场的全部潜力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Kalshi则拒绝置评。&lt;/p&gt;
+&lt;p&gt;据报道，众议院监督委员会现任主席、共和党众议员James Comer已就平台内幕交易指控展开调查，该调查在民主党接手后走向仍存不确定性。&lt;/p&gt;
+&lt;p&gt;部分行业专家提醒，尽管美国国会信函和听证会可能接连不断，但民主党实际制约监管机构施政议程的能力依然有限。&lt;/p&gt;
+
+加密货币：政治逆风与伦理争议
+
+&lt;p&gt;此次中期选举对加密货币行业而言是一个&amp;quot;艰难之夜&amp;quot;，据资本Alpha Partners华盛顿董事总经理Ian Katz表示，&lt;strong&gt;该行业在俄亥俄州参议员选举中投入重金狙击Sherrod Brown，但最终功亏一篑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Katz指出，该行业在华盛顿&amp;quot;行事风格过于强硬和&amp;#x27;兄弟帮&amp;#x27;气息&amp;quot;的形象也构成拖累。&lt;/p&gt;
+&lt;p&gt;在立法层面，业界对下届国会能否推进新的数字资产市场结构立法普遍持怀疑态度，此前所谓的《清晰法案》未能在参议院通过。&lt;/p&gt;
+&lt;p&gt;民主党的关注重点预计将转向特朗普及其家族加密资产的伦理争议——特朗普报告的14亿美元加密收益此前已成为该立法的重大障碍。Better Markets首席运营官兼政策主任Amanda Fischer表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;凭借此次大胜，民主党将有授权聚焦生活成本和反腐败议题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;此外，加密货币交易所币安遭遇的63亿美元黑客攻击事件，亦可能为国会就数字资产网络安全和消费者保护展开全面听证提供契机。&lt;/strong&gt;&lt;/p&gt;
+
+人工智能：两党罕见共识领域
+
+&lt;p&gt;人工智能行业的融资结构已引发审视，科技制造商与初创企业之间的循环交易安排令外界感到忧虑。&lt;/p&gt;
+&lt;p&gt;随着Anthropic等公司逼近上市，议员们已呼吁行业提高透明度，披露其潜在风险。沃伦亦就AI对保险行业带来的潜在风险发出预警，网络安全则是另一个必然焦点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在各方分歧尖锐的政治环境下，AI监管被视为下届国会少数可能形成两党共识的领域之一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国前财政部官员、监管情报集团（Regulatory Intelligence Group）创始人Peter Dugas表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;政府必须以某种方式解决这些问题，否则可能演变为潜在的金融危机。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+爱泼斯坦调查：双管齐下，不会收手
+
+&lt;p&gt;美国民主党接手后，众议院监督委员会预计将继续调查金融服务业与已定罪性犯罪者杰弗里·爱泼斯坦（Jeffrey Epstein）的关联。这也是少数具备两党共识的议题之一。&lt;/p&gt;
+&lt;p&gt;据报道，&lt;strong&gt;议员们已向多家华尔街机构发送大量信函，要求披露与爱泼斯坦及其相关人员的往来详情。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;民主党还提出立法，强制要求监管机构公开与爱泼斯坦及其同伙相关的金融记录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;民主党被预测赢得众议院后不久，众议员Robert Garcia随即发表声明，宣布将出任下届国会监督委员会主席，并重点提及爱泼斯坦档案相关工作。他以简短而有力的措辞向金融业发出警告：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;准备好律师。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta首次叩门欧元债市，530亿欧元认购需求创历史纪录</title><link>https://wallstreetcn.com/articles/3785192</link><guid>70def03f21be7a5da53aceb6cf8202429b44072a7ded70b5cd3df3e625b79eac</guid><pubDate>Wed, 04 Nov 2026 13:13:37 GMT</pubDate><description>&lt;p&gt;Meta Platforms首次进军欧元债券市场，吸引投资者创纪录的认购需求。&lt;/p&gt;
 &lt;p&gt;据彭博周三报道，知情人士透露，&lt;strong&gt;Meta首次发行欧元债券获得530亿欧元（约合597亿美元）的投资者认购需求，创下历史纪录。Meta此次计划通过六档欧元债券发行筹集至多90亿欧元，预计于周三晚些时候定价。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此次发行是Meta首次在美国本土市场之外发行债券。就在此前一天，Meta刚刚完成150亿美元的美元债发行。连续登陆美元和欧元债市，凸显出这家科技巨头正积极拓展融资渠道，为人工智能（AI）基础设施投资提供资金支持。&lt;/p&gt;
 &lt;strong&gt;六档债券覆盖近40年期限&lt;/strong&gt;
@@ -429,23 +523,4 @@ CPU业务再添一把火，2027年有望翻倍
 
 盈利能力提升，季度股息上调
 
-&lt;p&gt;尽管收入略逊预期，麦当劳盈利能力依然稳健。三季度净利润为24.86亿美元，同比增长9%；营业利润为35.95亿美元，同比增长7%。按不变汇率计算，调整后营业利润增速达8%。前三季度累计总收入为207.73亿美元，同比增长5%；累计净利润为68.31亿美元，同比增长7%。公司同步宣布将季度现金股息提高4%至每股1.93美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 泉果基金股权变更获批，员工团队接下逾16%股权</title><link>https://wallstreetcn.com/articles/3785198</link><guid>48119ed31b4dcd8e3ab13829a577d22a54cb36c760af6db9a319ba313cc7026c</guid><pubDate>Wed, 04 Nov 2026 14:31:17 GMT</pubDate><description>&lt;p&gt;11月3日晚间，监管机构官网披露了《关于核准泉果基金管理有限公司变更持股5%以上股东的批复》。&lt;/p&gt;
-&lt;p&gt;相关批复显示，监管核准了泉果基金创始人、总经理李云亮，上海泉至清企业管理中心（有限合伙）（以下简称泉至清)，上海泉至澈企业管理中心（有限合伙）（以下简称泉至澈）成为泉果基金持股5%以上股东。对李云亮、泉至清、泉至澈分别受让泉果基金600万元、427.01万元、624.99万元人民币出资（分别占注册资本比例6%、4.2701%、6.2499%)无异议。&lt;/p&gt;
-&lt;p&gt;据接近泉果的人士透露，上述股权来自于泉果基金创始人、原总经理王国斌。原由王国斌持有的35%股权，未来将变更至公司员工持有。相关安排体现了泉果团队和公司未来长期、深度绑定的坚定信心。&lt;/p&gt;
-&lt;strong&gt;三主体增持泉果股权&lt;/strong&gt;
-&lt;p&gt;泉果基金成立于2022年2月，注册资本1亿元。公开信息显示，泉果基金初始股权结构为：泉果基金董事长任莉、原总经理王国斌各持股35%，姜荷泽和李云亮分别持股7.04%和3%，4个员工持股平台各持股4.99%。&lt;/p&gt;
-&lt;p&gt;由于泉果基金一开始即采用“核心股东+员工持股平台”的架构，四家员工持股平台——泉至清、泉至澈、泉至澄、果至行在公司成立之初即已设立，旨在通过股权纽带，将股东、公司与核心员工的长期利益深度绑定，并构成面向长期可持续发展的制度性安排。&lt;/p&gt;
-&lt;p&gt;证监会上述批复显示，李云亮和泉至清、泉至澈两大员工持股平台分别受让6%、4.2701%、6.2499%的泉果基金股权。这意味着，此次股权变更完成后，李云亮和上述两大员工持股平台将持有泉果基金9%、9.2601%和11.2399%的股权。&lt;/p&gt;
-&lt;strong&gt;泉果首次员工持股计划推进中&lt;/strong&gt;
-&lt;p&gt;值得关注的是，泉果基金今年还将启动首次员工持股计划。从上述两大员工持股平台的股权变动来看，这一重要事项大概率已有了积极进展。&lt;/p&gt;
-&lt;p&gt;据知情人士透露，此次首批员工持股计划覆盖范围较为广泛，投研、市场、合规、风控、产品、运营、IT等前中后台岗位均有涉及。&lt;/p&gt;
-&lt;p&gt;“我们希望持续汇聚资产管理行业具有长期竞争力的优秀人才，通过员工持股平台等长效激励机制，提升核心团队的稳定性和自主创造性，让大家共同成长、共创价值。”泉果董事长任莉在公司成立之初就阐述过自己的人才观。&lt;/p&gt;
-&lt;p&gt;任莉认为，对泉果而言，个体的优秀很重要，但团队内部的专业互补、彼此协同、形成合力更重要。“多元、丰富、平衡的生态是最有生命力的。”&lt;/p&gt;
-&lt;p&gt;业内人士认为，泉果基金通过推行员工持股等机制安排保持核心团队稳定、促进公司长久健康发展，显然是一个具备长期战略思维的重要举措。股权激励的核心作用在于吸引并且留住优秀人才，泉果的做法显然有助于公司提升投研实力，强化内部治理，提升管理水平和整体竞争力。&lt;/p&gt;
-&lt;strong&gt;投研骨干走上管理岗位&lt;/strong&gt;
-&lt;p&gt;此时回看，泉果基金自年初以来，进行的一系列重要人事调整，显得筹谋长远、意味深长。&lt;/p&gt;
-&lt;p&gt;这些人事动作包括：李云亮由合规负责人、风控负责人转任总经理，全面负责泉果基金的日常经营管理；&lt;/p&gt;
-&lt;p&gt;副总经理姜荷泽兼任财务负责人。&lt;/p&gt;
-&lt;p&gt;知名基金经理、公募投资部总经理赵诣新任公司副总经理。&lt;/p&gt;
-&lt;p&gt;高管团队中，韦海菁、姚钟骁等升任副总经理；孙媛任合规负责人、风控负责人。&lt;/p&gt;
-&lt;p&gt;经过多年的持续打磨，如今的泉果基金人才梯队较为完备、核心投研人才稳定迭代，权益投资、固收投资、量化投资等都有布局，复合型专家型投研团队初步成型，这些投资人才各展所长、共同进化，既保证了公司投资能力和策略的多样性，也形成了公司长期运营和文化传承的“底座”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 泸州老窖2026年三季报深度解读：报表慢一点，战略稳一点，一个浓香龙头的答卷</title><link>http://www.xueqiu.com/7516820417/415431757</link><guid>43660d5bd3199cba48aefedce8ccb3c5f9245394809fcea4b517abbb66056e1d</guid><pubDate>Wed, 04 Nov 2026 09:43:05 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;评研阁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;泸州老窖三季报出来了，营收146.68亿，归母净利56.71亿，单第三季度净利13.32亿。看这份三季报，我脑子里蹦出来的不是K线，而是一张体检单。&lt;/p&gt;</description></item><item><title>[今日雪球] 黄金的体温计 ATR提前告诉你行情的质变</title><link>http://www.xueqiu.com/5751298322/415419913</link><guid>213e7f6b941fd3edf4fe8a340a06e3ea760ef58acd11aa0a350a25a070586b25</guid><pubDate>Wed, 04 Nov 2026 09:43:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;熊猫银币&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2011年8月，黄金还在涨。交易员盯着屏幕，均线多头排列，价格重心一天比一天高。但有一个数字突然跳了起来——不是价格，不是均线，是ATR。它从20多美元，一个月内蹿到50美元以上。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;尽管收入略逊预期，麦当劳盈利能力依然稳健。三季度净利润为24.86亿美元，同比增长9%；营业利润为35.95亿美元，同比增长7%。按不变汇率计算，调整后营业利润增速达8%。前三季度累计总收入为207.73亿美元，同比增长5%；累计净利润为68.31亿美元，同比增长7%。公司同步宣布将季度现金股息提高4%至每股1.93美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 泸州老窖2026年三季报深度解读：报表慢一点，战略稳一点，一个浓香龙头的答卷</title><link>http://www.xueqiu.com/7516820417/415431757</link><guid>43660d5bd3199cba48aefedce8ccb3c5f9245394809fcea4b517abbb66056e1d</guid><pubDate>Wed, 04 Nov 2026 09:43:05 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;评研阁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;泸州老窖三季报出来了，营收146.68亿，归母净利56.71亿，单第三季度净利13.32亿。看这份三季报，我脑子里蹦出来的不是K线，而是一张体检单。&lt;/p&gt;</description></item><item><title>[今日雪球] 黄金的体温计 ATR提前告诉你行情的质变</title><link>http://www.xueqiu.com/5751298322/415419913</link><guid>213e7f6b941fd3edf4fe8a340a06e3ea760ef58acd11aa0a350a25a070586b25</guid><pubDate>Wed, 04 Nov 2026 09:43:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;熊猫银币&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2011年8月，黄金还在涨。交易员盯着屏幕，均线多头排列，价格重心一天比一天高。但有一个数字突然跳了起来——不是价格，不是均线，是ATR。它从20多美元，一个月内蹿到50美元以上。&lt;/p&gt;</description></item></channel></rss>
