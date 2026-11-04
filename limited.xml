@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 04 Nov 2026 04:29:25 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力</title><link>https://wallstreetcn.com/articles/3785131</link><guid>38dd6fc8245b7dca0e19cea843db8b5ec102fe95df8e6d00dd83b2a6cea59413</guid><pubDate>Wed, 04 Nov 2026 04:26:02 GMT</pubDate><description>&lt;p&gt;11月3日，半导体研究机构SemiAnalysis创始人兼CEO Dylan Patel在Runtime 2026上发表演讲，主题是算力、资本，以及谁能真正把算力交付出去。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 04 Nov 2026 04:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力</title><link>https://wallstreetcn.com/articles/3785131</link><guid>38dd6fc8245b7dca0e19cea843db8b5ec102fe95df8e6d00dd83b2a6cea59413</guid><pubDate>Wed, 04 Nov 2026 04:26:02 GMT</pubDate><description>&lt;p&gt;11月3日，半导体研究机构SemiAnalysis创始人兼CEO Dylan Patel在Runtime 2026上发表演讲，主题是算力、资本，以及谁能真正把算力交付出去。&lt;/p&gt;
 &lt;p&gt;他表示，OpenAI和Anthropic正在大量预订算力，以2027年为例，两家拿走的新增算力占比在25%到40%之间。在需求挤压下，英伟达H100数据中心芯片的一年期合约价，已从去年10月低点的每小时1.70美元涨到2.80美元左右。对其他公司来说，买得起算力，不等于拿得到算力。&lt;/p&gt;
 &lt;p&gt;资金端同样吃紧：近两个月美债收益率大幅上升，10年期收益率10月初已升至5%以上，靠借钱建机房的新兴云厂商越来越难融到资。&lt;/p&gt;
 &lt;p&gt;这场演讲发生在Anthropic公开递交S-1的一周后，市场刚刚看到一家头部实验室背后的算力账。Patel说，英伟达已经出面为约6.5吉瓦的算力托底，但在2030年前的新增算力里，这只占很小一部分、“杯水车薪”。&lt;/p&gt;
@@ -610,7 +610,11 @@ AI基础设施需求持续驱动增长
 &lt;p&gt;Irregular Security采取的评估模式是深度嵌入前沿AI实验室内部，对模型进行测试。这种模式赋予该公司高度的内部访问权限，使其站在了有关AI技术负责任部署这一核心议题的前沿位置。&lt;/p&gt;
 &lt;p&gt;此番事件将外界目光引向了AI安全评估体系的规范性问题——当被委托评估AI系统安全性的第三方机构自身出现重大操作失误时，整个评估机制的可靠性同样面临拷问。&lt;/p&gt;
 &lt;p&gt;Irregular Security此前已完成一轮由红杉资本（Sequoia Capital）和Redpoint Ventures领投的8000万美元融资。&lt;/p&gt;
-&lt;p&gt;融资公告发布时，红杉资本在博文中称，Irregular嵌入前沿AI实验室进行测试的模式赋予了该公司&amp;quot;前所未有的访问权限&amp;quot;，使其&amp;quot;处于负责任部署这些技术相关讨论的核心位置&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党逼近横扫中选，美股期货跳水，美元下跌，美债上涨，日韩股市均跌4%</title><link>https://wallstreetcn.com/articles/3785134</link><guid>e69f988d2bc84b6702e4b99be72ee068407e1ce35696f5f66348166665b79b20</guid><pubDate>Wed, 04 Nov 2026 03:56:03 GMT</pubDate><description>&lt;p&gt;美国2026年中期选举初步计票结果显示民主党势头强劲，市场对&amp;quot;蓝色浪潮&amp;quot;横扫国会两院的押注急剧升温。全球市场迅速作出反应，美股期货大幅下挫，美元走低，美债价格上涨，亚洲股市普遍承压。&lt;/p&gt;
+&lt;p&gt;融资公告发布时，红杉资本在博文中称，Irregular嵌入前沿AI实验室进行测试的模式赋予了该公司&amp;quot;前所未有的访问权限&amp;quot;，使其&amp;quot;处于负责任部署这些技术相关讨论的核心位置&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货跳水、AI板块重挫，美元下跌，美债上涨，日韩股市均跌4%</title><link>https://wallstreetcn.com/articles/3785134</link><guid>e69f988d2bc84b6702e4b99be72ee068407e1ce35696f5f66348166665b79b20</guid><pubDate>Wed, 04 Nov 2026 04:49:24 GMT</pubDate><description>&lt;p&gt;民主党在美国中期选举的州长竞选中取得多项关键胜利，正寻求赢得全国多数州长席位，此举或将终结共和党长达十余年的地方优势。全球市场迅速作出反应，美股期货大幅下挫，美元走低，美债价格上涨，亚洲股市普遍承压。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://world.huanqiu.com/article/4Tt5AzF3ESs"&gt;据新华社&lt;/a&gt;援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。&lt;strong&gt;美国总统特朗普当天对《纽约时报》表示，“绝对愿意接受选举结果，准备与民主党合作，可能会达成某些东西”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;民主党在得克萨斯州、佐治亚州、俄亥俄州和艾奥瓦州等传统共和党重镇实现了历史性突破。其中，Gina Hinojosa 和 Keisha Lance Bottoms 的胜选不仅击败了现任官员或资金雄厚的对手，更刷新了美国多项州长选举纪录。&lt;/p&gt;
+&lt;p&gt;尽管媒体和市场的最初焦点集中于国会控制权的争夺，但上述传统“红州”的选情逆转具有更为深远的政治与政策影响。&lt;strong&gt;这一结果不仅可能重塑2028年美国总统大选的选举版图，也使得民主党在州一级构筑起应对现任总统特朗普政策议程的新防线。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;州级行政权力的更迭将对未来的选举机制产生直接作用。各州新任州长在任命选举监督官员、签署选民权利法案以及发起针对联邦政策的法律诉讼等方面拥有广泛职权，这将显著改变部分核心州的政策预期与地方法律环境。&lt;/p&gt;
 &lt;p&gt;随着早期选情结果陆续出炉，民主党拿下北卡罗来纳州参议院席位，预测平台Polymarket上民主党横扫国会两院的概率飙升至99%。标普500指数期货跌超1%，抹去此前0.5%的涨幅；纳斯达克100指数期货跌幅扩大超2%。美元指数日内跌幅超过0.5%，10年期美国国债收益率下行约7个基点至4.89%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;亚太股市承压，日韩股市均跌4%，韩国首尔综指日内跌幅达4%，盘初曾涨超3%，三星电子跌3%，SK海力士跌5%。日经225指数跌4.45%，至5月20日来新低。&lt;/p&gt;
@@ -645,37 +649,7 @@ AI基础设施需求持续驱动增长
 亚洲股市下挫，日韩领跌
 
 &lt;p&gt;亚洲股市在此背景下全面承压。MSCI亚太指数下跌2%至250.68点。。日经225指数期货跌超4%，日本东证指数跌1.7%，表现居亚太主要市场跌幅前列。韩国综合股价指数（Kospi）由盘中最高涨3.2%急转直下，跌幅扩大至4%，成为此轮选情冲击中波动最为剧烈的市场之一。&lt;/p&gt;
-&lt;p&gt;部分策略师提示，本次选举引发的市场波动在历史上往往持续时间有限。Edward Jones高级策略师Angelo Kourkafas表示，选举结果可能起到消除不确定性的&amp;quot;出清&amp;quot;作用，AI主题走向与地缘政治动态才是驱动市场走向年末的核心变量。他同时指出，若出现选举驱动的市场大幅波动，或将为长期投资者提供逢低布局的机会。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国10月RatingDog服务业PMI为50.8，就业连续第六个月扩张，积压订单一年来首次减少</title><link>https://wallstreetcn.com/articles/3785130</link><guid>25817c964bfe55709f3db74a18a960c36976a6556f4fb268d276c57fb206494d</guid><pubDate>Wed, 04 Nov 2026 01:45:25 GMT</pubDate><description>中国服务业扩张延续但放缓，价格压力与竞争挤压利润空间
-
-&lt;p&gt;中国服务业活动在四季度开局继续扩张，增速有所放缓，企业在需求稳健的同时面临成本上升等压力。&lt;/p&gt;
-&lt;p&gt;11月4日，RatingDog与标普全球联合编制的最新PMI调查数据显示，10月RatingDog中国通用服务业商务活动指数录得50.8，低于9月的51.6，为近三个月最低水平，但仍连续位于荣枯线上方。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;RatingDog创始人Yao Yu表示，新业务流入持续稳健增长，就业连续第六个月扩张，但运营约束拖累了整体增速，价格折扣与成本攀升共同压缩了企业盈利空间。&lt;/p&gt;
-&lt;p&gt;综合制造业与服务业的合成产出指数10月录得52.0，低于9月的52.4，为&lt;strong&gt;三个月新低&lt;/strong&gt;。制造业产出增速加快，但未能抵消服务业扩张放缓的影响。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-新业务稳健增长，出口需求连续六个月扩张
-
-&lt;p&gt;10月中国服务业新业务量延续增长态势，当前增长序列自2023年1月起已持续至今。Yao Yu指出，新业务增速与9月基本持平，增长动力来自企业业务拓展举措奏效及新客户获取。&lt;/p&gt;
-&lt;p&gt;海外新订单同步增长，实现连续第六个月扩张，延续了自2024年以来最长的连续增长纪录，反映出海外需求环境有所改善。不过，出口新业务增速较9月有所放缓，整体幅度仍属温和。&lt;/p&gt;
-&lt;p&gt;新业务流入总量虽稳健，但略低于9月水平，部分企业反映客户基础扩大及业务推广成效显著，是带动销售增长的主要原因。&lt;/p&gt;
-
-就业加速扩张，积压订单一年来首次减少
-
-&lt;p&gt;面对持续增长的业务量，中国服务业企业在四季度开局加快人员招募，全职与兼职用工双双增加，就业增速较9月进一步提升。这是服务业就业连续扩张的第六个月。&lt;/p&gt;
-&lt;p&gt;更值得关注的是，更高的劳动力储备叠加人工智能赋能的效率提升，帮助服务业企业在约一年后首次实现积压订单的小幅下降——上一次积压工作量减少发生在2025年10月。&lt;/p&gt;
-&lt;p&gt;尽管降幅有限，但这一改变被视为产能利用效率改善的积极信号。&lt;/p&gt;
-
-售价连续两月下跌，成本通胀五个月来最快
-
-&lt;p&gt;价格端呈现出明显的背离格局：服务企业平均销售价格连续第二个月下滑，主要源于激烈的市场竞争压力和以折扣促销维持销量的策略，不过折扣幅度较9月有所收窄。&lt;/p&gt;
-&lt;p&gt;与此同时，投入成本通胀在10月加速至五个月来最快水平，涨价因素涵盖劳动力成本、原材料及燃油价格上涨，部分企业还提及社保费用的增加。&lt;/p&gt;
-&lt;p&gt;售价下行与成本上行的背离持续压缩企业利润空间。综合指数层面同样显示，制造业与服务业均出现折扣定价行为，推动整体平均产出价格在10月下降。&lt;/p&gt;
-
-商业信心维持正面，但滑落至三个月低位
-
-&lt;p&gt;10月中国服务业企业对未来12个月业务活动的展望仍维持乐观，但信心指数滑落至三个月低位。企业提及的主要顾虑包括投入成本持续走高及市场竞争加剧。&lt;/p&gt;
-&lt;p&gt;Yao Yu表示，乐观情绪的支撑因素主要来自对市场条件改善的预期、企业自身扩张计划以及新项目储备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国中选，今天市场怎么看</title><link>https://wallstreetcn.com/articles/3785119</link><guid>3af8457cebca3ee00e366dd5291965cc6ec9a4ebc195e4dc01103c889e0c02c7</guid><pubDate>Wed, 04 Nov 2026 00:31:54 GMT</pubDate><description>&lt;p&gt;截至美东时间11月3日上午，预测市场Polymarket上，民主党夺回众议院的概率为&lt;strong&gt;96%&lt;/strong&gt;，夺回参议院的概率为&lt;strong&gt;74%&lt;/strong&gt;——后者是该市场开盘以来的最高值。民主党&amp;quot;全面横扫&amp;quot;合约的交易价格为&lt;strong&gt;77%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;部分策略师提示，本次选举引发的市场波动在历史上往往持续时间有限。Edward Jones高级策略师Angelo Kourkafas表示，选举结果可能起到消除不确定性的&amp;quot;出清&amp;quot;作用，AI主题走向与地缘政治动态才是驱动市场走向年末的核心变量。他同时指出，若出现选举驱动的市场大幅波动，或将为长期投资者提供逢低布局的机会。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国中选，今天市场怎么看</title><link>https://wallstreetcn.com/articles/3785119</link><guid>3af8457cebca3ee00e366dd5291965cc6ec9a4ebc195e4dc01103c889e0c02c7</guid><pubDate>Wed, 04 Nov 2026 00:31:54 GMT</pubDate><description>&lt;p&gt;截至美东时间11月3日上午，预测市场Polymarket上，民主党夺回众议院的概率为&lt;strong&gt;96%&lt;/strong&gt;，夺回参议院的概率为&lt;strong&gt;74%&lt;/strong&gt;——后者是该市场开盘以来的最高值。民主党&amp;quot;全面横扫&amp;quot;合约的交易价格为&lt;strong&gt;77%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;高盛在当天早间发出的&amp;quot;中期选举预览&amp;quot;报告中点明：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;民主党拿下众议院的预期已基本被市场定价，参议院才是选举相关惊喜的主要来源。鉴于近期去风险操作已使市场情绪、仓位和杠杆显著下降，更大的问题或许在于：选举结果能否成为一个出清事件，并推动股市更广泛的风险重建。&lt;/strong&gt;&lt;/p&gt;
@@ -755,4 +729,34 @@ AI基础设施需求持续驱动增长
 当下的核心问题
 &lt;p&gt;高盛的总结是：选举能否&amp;quot;成为出清事件并推动股市更广泛的风险重建&amp;quot;，取决于结果是否足够干净。&lt;/p&gt;
 &lt;p&gt;但当前局面并不简单：众议院虽已是定局，参议院的多数席位却要穿越四个民主党领先幅度不足3点的共和党现任州，两个需要数日乃至数周才能完成计票的州，以及一个附带联邦诉讼的州。&lt;/p&gt;
-&lt;p&gt;当下的第一个真正信号，来自美东时间晚7:30的俄亥俄州。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;当下的第一个真正信号，来自美东时间晚7:30的俄亥俄州。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国10月RatingDog服务业PMI为50.8，就业连续第六个月扩张，积压订单一年来首次减少</title><link>https://wallstreetcn.com/articles/3785130</link><guid>25817c964bfe55709f3db74a18a960c36976a6556f4fb268d276c57fb206494d</guid><pubDate>Wed, 04 Nov 2026 01:45:25 GMT</pubDate><description>中国服务业扩张延续但放缓，价格压力与竞争挤压利润空间
+
+&lt;p&gt;中国服务业活动在四季度开局继续扩张，增速有所放缓，企业在需求稳健的同时面临成本上升等压力。&lt;/p&gt;
+&lt;p&gt;11月4日，RatingDog与标普全球联合编制的最新PMI调查数据显示，10月RatingDog中国通用服务业商务活动指数录得50.8，低于9月的51.6，为近三个月最低水平，但仍连续位于荣枯线上方。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;RatingDog创始人Yao Yu表示，新业务流入持续稳健增长，就业连续第六个月扩张，但运营约束拖累了整体增速，价格折扣与成本攀升共同压缩了企业盈利空间。&lt;/p&gt;
+&lt;p&gt;综合制造业与服务业的合成产出指数10月录得52.0，低于9月的52.4，为&lt;strong&gt;三个月新低&lt;/strong&gt;。制造业产出增速加快，但未能抵消服务业扩张放缓的影响。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+新业务稳健增长，出口需求连续六个月扩张
+
+&lt;p&gt;10月中国服务业新业务量延续增长态势，当前增长序列自2023年1月起已持续至今。Yao Yu指出，新业务增速与9月基本持平，增长动力来自企业业务拓展举措奏效及新客户获取。&lt;/p&gt;
+&lt;p&gt;海外新订单同步增长，实现连续第六个月扩张，延续了自2024年以来最长的连续增长纪录，反映出海外需求环境有所改善。不过，出口新业务增速较9月有所放缓，整体幅度仍属温和。&lt;/p&gt;
+&lt;p&gt;新业务流入总量虽稳健，但略低于9月水平，部分企业反映客户基础扩大及业务推广成效显著，是带动销售增长的主要原因。&lt;/p&gt;
+
+就业加速扩张，积压订单一年来首次减少
+
+&lt;p&gt;面对持续增长的业务量，中国服务业企业在四季度开局加快人员招募，全职与兼职用工双双增加，就业增速较9月进一步提升。这是服务业就业连续扩张的第六个月。&lt;/p&gt;
+&lt;p&gt;更值得关注的是，更高的劳动力储备叠加人工智能赋能的效率提升，帮助服务业企业在约一年后首次实现积压订单的小幅下降——上一次积压工作量减少发生在2025年10月。&lt;/p&gt;
+&lt;p&gt;尽管降幅有限，但这一改变被视为产能利用效率改善的积极信号。&lt;/p&gt;
+
+售价连续两月下跌，成本通胀五个月来最快
+
+&lt;p&gt;价格端呈现出明显的背离格局：服务企业平均销售价格连续第二个月下滑，主要源于激烈的市场竞争压力和以折扣促销维持销量的策略，不过折扣幅度较9月有所收窄。&lt;/p&gt;
+&lt;p&gt;与此同时，投入成本通胀在10月加速至五个月来最快水平，涨价因素涵盖劳动力成本、原材料及燃油价格上涨，部分企业还提及社保费用的增加。&lt;/p&gt;
+&lt;p&gt;售价下行与成本上行的背离持续压缩企业利润空间。综合指数层面同样显示，制造业与服务业均出现折扣定价行为，推动整体平均产出价格在10月下降。&lt;/p&gt;
+
+商业信心维持正面，但滑落至三个月低位
+
+&lt;p&gt;10月中国服务业企业对未来12个月业务活动的展望仍维持乐观，但信心指数滑落至三个月低位。企业提及的主要顾虑包括投入成本持续走高及市场竞争加剧。&lt;/p&gt;
+&lt;p&gt;Yao Yu表示，乐观情绪的支撑因素主要来自对市场条件改善的预期、企业自身扩张计划以及新项目储备。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
