@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 04 Nov 2026 08:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力</title><link>https://wallstreetcn.com/articles/3785131</link><guid>38dd6fc8245b7dca0e19cea843db8b5ec102fe95df8e6d00dd83b2a6cea59413</guid><pubDate>Wed, 04 Nov 2026 04:26:02 GMT</pubDate><description>&lt;p&gt;11月3日，半导体研究机构SemiAnalysis创始人兼CEO Dylan Patel在Runtime 2026上发表演讲，主题是算力、资本，以及谁能真正把算力交付出去。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 04 Nov 2026 09:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力</title><link>https://wallstreetcn.com/articles/3785131</link><guid>38dd6fc8245b7dca0e19cea843db8b5ec102fe95df8e6d00dd83b2a6cea59413</guid><pubDate>Wed, 04 Nov 2026 04:26:02 GMT</pubDate><description>&lt;p&gt;11月3日，半导体研究机构SemiAnalysis创始人兼CEO Dylan Patel在Runtime 2026上发表演讲，主题是算力、资本，以及谁能真正把算力交付出去。&lt;/p&gt;
 &lt;p&gt;他表示，OpenAI和Anthropic正在大量预订算力，以2027年为例，两家拿走的新增算力占比在25%到40%之间。在需求挤压下，英伟达H100数据中心芯片的一年期合约价，已从去年10月低点的每小时1.70美元涨到2.80美元左右。对其他公司来说，买得起算力，不等于拿得到算力。&lt;/p&gt;
 &lt;p&gt;资金端同样吃紧：近两个月美债收益率大幅上升，10年期收益率10月初已升至5%以上，靠借钱建机房的新兴云厂商越来越难融到资。&lt;/p&gt;
 &lt;p&gt;这场演讲发生在Anthropic公开递交S-1的一周后，市场刚刚看到一家头部实验室背后的算力账。Patel说，英伟达已经出面为约6.5吉瓦的算力托底，但在2030年前的新增算力里，这只占很小一部分、“杯水车薪”。&lt;/p&gt;
@@ -474,7 +474,7 @@ Q3业绩创纪录，2027年总营收预期激增超80%
 &lt;p&gt;公司11月4日公布的财报显示，&lt;strong&gt;第三季度调整后销售额达792亿丹麦克朗，高于市场预期的735.5亿克朗；调整后息税前利润为317.2亿克朗，同样大幅超出预期的287.1亿克朗。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;受此提振，&lt;strong&gt;公司将全年调整后销售额及运营利润增长预期双双上调至按固定汇率计算的-2%至+2%区间，优于此前8月所定的-6%至持平区间。&lt;/strong&gt;公司CEO Mike Doustdar表示，三季度业绩好于预期，肥胖症业务组合表现尤为突出。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次业绩的核心亮点在于Wegovy口服版的放量。今年早些时候推出的这款减重药片三季度销售额达53.9亿克朗，远超分析师预期的46.4亿克朗。与此同时，可注射版Wegovy销售额为204亿克朗，明星糖尿病药物Ozempic销售额达297亿克朗，均超出市场预期。上述超预期表现有效缓解了市场对诺和诺德能否应对竞争压力的担忧。&lt;/p&gt;
+&lt;p&gt;诺和诺德美股盘前涨超5%。此次业绩的核心亮点在于Wegovy口服版的放量。今年早些时候推出的这款减重药片三季度销售额达53.9亿克朗，远超分析师预期的46.4亿克朗。与此同时，可注射版Wegovy销售额为204亿克朗，明星糖尿病药物Ozempic销售额达297亿克朗，均超出市场预期。上述超预期表现有效缓解了市场对诺和诺德能否应对竞争压力的担忧。&lt;/p&gt;
 
 三季度业绩全面跑赢预期
 
@@ -588,7 +588,28 @@ AI基础设施需求持续驱动增长
 &lt;p&gt;AI实验室、云服务商及金融机构对搭载英伟达芯片的服务器需求持续攀升，推动公司订单量保持高位。公司表示，当前的战略重点之一是在争取更多AI服务器合同、整合最新芯片的同时，积极控制成本以改善利润率。&lt;/p&gt;
 &lt;p&gt;超微电脑上月任命前Western Digital高管Mark Long担任首席财务官，结束了公司因财务及会计问题而长达近两年的CFO职位空缺。此次任命被外界视为公司在内部治理层面走向正常化的重要信号。&lt;/p&gt;
 &lt;p&gt;公司此前曾因财务报告问题遭到市场高度关注，此番新财务负责人就位，叠加业绩及展望的全面超预期，有助于稳定投资者信心。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党横扫国会，美债迎来“喘息”：减税扩张受阻，市场静待今晚再融资计划</title><link>https://wallstreetcn.com/articles/3785148</link><guid>540ec878566fb450671676c0fd9ba6d647672fc2dcc25b7f2bccda475dddd2ad</guid><pubDate>Wed, 04 Nov 2026 06:01:55 GMT</pubDate><description>&lt;p&gt;民主党在中期选举中拿下参众两院控制权，为近期承压的美国国债市场带来短暂喘息。国会陷入分治格局，特朗普政府大规模减税与扩张性财政支出计划的立法前景骤然收窄，债券投资者暂时得以从持续攀升的赤字担忧中松一口气。与此同时，美国财政部将于周三公布季度再融资声明，华尔街正密切关注这一可能是2024年初以来最大规模的国债发行政策调整。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI基础设施需求爆发，Arista营收增速刷新上市十年纪录，盘后大涨10%</title><link>https://wallstreetcn.com/articles/3785140</link><guid>4ad20ee791c20402029620a82a26130f2380a350c6189df4266bdf9091d4ee36</guid><pubDate>Wed, 04 Nov 2026 05:15:30 GMT</pubDate><description>&lt;p&gt;Arista Networks凭借AI数据中心基础设施需求的强劲爆发，交出了一份自2014年上市以来最亮眼的季度成绩单。&lt;/p&gt;
+&lt;p&gt;公司周二公布的财报显示，第三季度营收同比增长58.5%至36.6亿美元，调整后每股收益1.20美元，双双超越华尔街预期。&lt;strong&gt;四季度营收指引区间为39亿至40亿美元，远高于分析师此前预期的36亿美元&lt;/strong&gt;。消息公布后，Arista股价盘后涨约10%。&lt;/p&gt;
+&lt;p&gt;CEO Jayshree Ullal表示，第三季度业绩甚至超出了她自身的较高预期。&amp;quot;跨客户群体的强劲势头，彰显了我们在生成式AI与智能体AI时代日益增长的战略价值。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+增速创十年新高，业绩全面超预期
+
+&lt;p&gt;&lt;strong&gt;第三季度58.5%的营收同比增速，是Arista自2014年IPO以来录得的最快年度增长，标志着AI对网络基础设施需求已进入加速释放阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体来看，36.6亿美元的营收较分析师预期的33.3亿美元高出约10%；调整后每股收益1.20美元，亦高于预期的1.08美元。调整后每股收益较上年同期增长60%。&lt;/p&gt;
+&lt;p&gt;四季度业绩指引同样大幅超预期——营收指引中值约为39.5亿美元，远超市场此前预估的36亿美元；调整后每股收益指引区间为1.26至1.30美元。&lt;/p&gt;
+
+AI网络需求为核心驱动，微软与Meta位列最大客户
+
+&lt;p&gt;&lt;strong&gt;Arista的核心业务是面向互联网数据中心的计算机网络交换机，主要加速云计算数据中心内部的通信效率。&lt;/strong&gt;当前AI相关增长的主要来源，是连接云计算数据中心服务器集群的&amp;quot;后端&amp;quot;以太网网络产品。&lt;/p&gt;
+&lt;p&gt;公司最大客户为微软和Meta，新兴客户则包括甲骨文与谷歌母公司Alphabet。Arista此前已预测，2026年全年AI相关营收将不低于35亿美元，约占全年营收展望126亿美元的28%。&lt;/p&gt;
+&lt;p&gt;此外，Arista正与AMD、Arm、Broadcom及高通等芯片厂商，以及Meta和微软合作，共同开发AI网络设备。&lt;/p&gt;
+
+市场地位持续强化，企业市场份额稳步扩大
+
+&lt;p&gt;Arista近期被纳入标普100指数，进一步巩固了其在大型科技基础设施领域的市场地位。分析师指出，公司正在&amp;quot;企业&amp;quot;市场——包括大型公司、政府机构及教育机构——持续扩大份额。&lt;/p&gt;
+&lt;p&gt;在竞争格局方面，Arista的主要对手为思科（Cisco Systems）及慧与企业（HPE）旗下的Juniper部门。不过，华尔街对Arista的一项潜在担忧在于，Celestica等合同制造商可能正在蚕食其部分业务。&lt;/p&gt;
+&lt;p&gt;技术面而言，截至目前，Arista股价今年以来已累计上涨约25%，但此前已从10月8日创下的52周高点217.41美元有所回落，并跌破50日均线这一关键技术支撑位。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党横扫国会，美债迎来“喘息”：减税扩张受阻，市场静待今晚再融资计划</title><link>https://wallstreetcn.com/articles/3785148</link><guid>540ec878566fb450671676c0fd9ba6d647672fc2dcc25b7f2bccda475dddd2ad</guid><pubDate>Wed, 04 Nov 2026 06:01:55 GMT</pubDate><description>&lt;p&gt;民主党在中期选举中拿下参众两院控制权，为近期承压的美国国债市场带来短暂喘息。国会陷入分治格局，特朗普政府大规模减税与扩张性财政支出计划的立法前景骤然收窄，债券投资者暂时得以从持续攀升的赤字担忧中松一口气。与此同时，美国财政部将于周三公布季度再融资声明，华尔街正密切关注这一可能是2024年初以来最大规模的国债发行政策调整。&lt;/p&gt;
 &lt;p&gt;中期选举结果公布后，美债收益率全线下行。5年期国债收益率一度大跌9个基点至4.67%，10年期基准收益率下行2个基点至4.94%，美元指数同步走软约0.3%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Wellington Management投资组合经理Brij Khurana表示，&amp;quot;分治政府意味着财政支出将少于过去几年，历史上看，这对美债而言通常是利好。&amp;quot;Manulife Investment Management高级投资组合经理Nathan Thooft亦指出，更多政治僵局&amp;quot;可能意味着更少的财政冲击、潜在的更低收益率，以及美元少一个支撑因素&amp;quot;。&lt;/p&gt;
@@ -616,39 +637,18 @@ AI基础设施需求持续驱动增长
 多重数据叠加，债市近期波动加剧
 
 &lt;p&gt;周三的债市走势实际上是对此前跌势的修复。周二，受美国职位空缺数据强于预期提振，市场押注美联储加息路径更为持久，10年期美债收益率在当日大幅攀升。投资者本周还需消化周五将公布的非农就业数据，这将是判断美联储政策路径的又一关键参考。&lt;/p&gt;
-&lt;p&gt;综合来看，债市当前面临多重交织因素：民主党控制国会带来短期财政整固预期，但分治格局能否持续约束财政扩张仍待观察；再融资声明将为国债供给路径提供更清晰指引；而美联储政策走向与经济数据的持续博弈，仍是决定收益率中枢的核心变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI基础设施需求爆发，Arista营收增速刷新上市十年纪录，盘后大涨10%</title><link>https://wallstreetcn.com/articles/3785140</link><guid>4ad20ee791c20402029620a82a26130f2380a350c6189df4266bdf9091d4ee36</guid><pubDate>Wed, 04 Nov 2026 05:15:30 GMT</pubDate><description>&lt;p&gt;Arista Networks凭借AI数据中心基础设施需求的强劲爆发，交出了一份自2014年上市以来最亮眼的季度成绩单。&lt;/p&gt;
-&lt;p&gt;公司周二公布的财报显示，第三季度营收同比增长58.5%至36.6亿美元，调整后每股收益1.20美元，双双超越华尔街预期。&lt;strong&gt;四季度营收指引区间为39亿至40亿美元，远高于分析师此前预期的36亿美元&lt;/strong&gt;。消息公布后，Arista股价盘后涨约10%。&lt;/p&gt;
-&lt;p&gt;CEO Jayshree Ullal表示，第三季度业绩甚至超出了她自身的较高预期。&amp;quot;跨客户群体的强劲势头，彰显了我们在生成式AI与智能体AI时代日益增长的战略价值。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-增速创十年新高，业绩全面超预期
-
-&lt;p&gt;&lt;strong&gt;第三季度58.5%的营收同比增速，是Arista自2014年IPO以来录得的最快年度增长，标志着AI对网络基础设施需求已进入加速释放阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;具体来看，36.6亿美元的营收较分析师预期的33.3亿美元高出约10%；调整后每股收益1.20美元，亦高于预期的1.08美元。调整后每股收益较上年同期增长60%。&lt;/p&gt;
-&lt;p&gt;四季度业绩指引同样大幅超预期——营收指引中值约为39.5亿美元，远超市场此前预估的36亿美元；调整后每股收益指引区间为1.26至1.30美元。&lt;/p&gt;
-
-AI网络需求为核心驱动，微软与Meta位列最大客户
-
-&lt;p&gt;&lt;strong&gt;Arista的核心业务是面向互联网数据中心的计算机网络交换机，主要加速云计算数据中心内部的通信效率。&lt;/strong&gt;当前AI相关增长的主要来源，是连接云计算数据中心服务器集群的&amp;quot;后端&amp;quot;以太网网络产品。&lt;/p&gt;
-&lt;p&gt;公司最大客户为微软和Meta，新兴客户则包括甲骨文与谷歌母公司Alphabet。Arista此前已预测，2026年全年AI相关营收将不低于35亿美元，约占全年营收展望126亿美元的28%。&lt;/p&gt;
-&lt;p&gt;此外，Arista正与AMD、Arm、Broadcom及高通等芯片厂商，以及Meta和微软合作，共同开发AI网络设备。&lt;/p&gt;
-
-市场地位持续强化，企业市场份额稳步扩大
-
-&lt;p&gt;Arista近期被纳入标普100指数，进一步巩固了其在大型科技基础设施领域的市场地位。分析师指出，公司正在&amp;quot;企业&amp;quot;市场——包括大型公司、政府机构及教育机构——持续扩大份额。&lt;/p&gt;
-&lt;p&gt;在竞争格局方面，Arista的主要对手为思科（Cisco Systems）及慧与企业（HPE）旗下的Juniper部门。不过，华尔街对Arista的一项潜在担忧在于，Celestica等合同制造商可能正在蚕食其部分业务。&lt;/p&gt;
-&lt;p&gt;技术面而言，截至目前，Arista股价今年以来已累计上涨约25%，但此前已从10月8日创下的52周高点217.41美元有所回落，并跌破50日均线这一关键技术支撑位。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 24家券商确认中标，第三批SFISF落地千亿元</title><link>https://wallstreetcn.com/articles/3785157</link><guid>8ec6303899010757eb25818c39f885030693a1ce6f9dc87465b688aacf023d69</guid><pubDate>Wed, 04 Nov 2026 07:04:05 GMT</pubDate><description>&lt;p&gt;央行第三批证券、基金、保险公司互换便利（SFISF）操作结果陆续出炉，目前已有31家机构申报需求，意向申报额度超过1000亿元，远超前两批单轮规模。&lt;/p&gt;
+&lt;p&gt;综合来看，债市当前面临多重交织因素：民主党控制国会带来短期财政整固预期，但分治格局能否持续约束财政扩张仍待观察；再融资声明将为国债供给路径提供更清晰指引；而美联储政策走向与经济数据的持续博弈，仍是决定收益率中枢的核心变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 24家券商确认中标，第三批SFISF落地千亿元</title><link>https://wallstreetcn.com/articles/3785157</link><guid>8ec6303899010757eb25818c39f885030693a1ce6f9dc87465b688aacf023d69</guid><pubDate>Wed, 04 Nov 2026 07:04:05 GMT</pubDate><description>&lt;p&gt;央行第三批证券、基金、保险公司互换便利（SFISF）操作结果陆续出炉，目前已有31家机构申报需求，意向申报额度超过1000亿元，远超前两批单轮规模。&lt;/p&gt;
 &lt;p&gt;根据披露信息已有24家券商确认中标。其中，中信证券、国泰海通、东吴证券等券商官宣中标额度，招商证券、平安证券等多家披露中标信息，广发、国信证券确认连续三批参与投标。&lt;/p&gt;
-已披露中标额度合计超400亿元
-&lt;p&gt;11月3日，中信证券、国泰海通证券、东吴证券、国投证券、长城证券、华福证券、浙商证券、财通证券对外公布中标规模。&lt;/p&gt;
-&lt;p&gt;中信证券、国泰海通证券各中标100亿元，国投证券、东吴证券、长城证券、华福证券、浙商证券、财通证券分别中标60亿元、50亿元、20亿元、12亿元、40亿元、30亿元，合计超400亿元。&lt;/p&gt;
+已披露中标额度合计超570亿元
+&lt;p&gt;11月4日，中金公司、中信证券、国泰海通证券、东吴证券、国投证券、长城证券、华福证券、浙商证券、财通证券对外公布中标规模。&lt;/p&gt;
+&lt;p&gt;中金公司中标第三批互换便利共计163亿元，为券商中最大规模。中信证券、国泰海通证券各中标100亿元，国投证券、东吴证券、长城证券、华福证券、浙商证券、财通证券分别中标60亿元、50亿元、20亿元、12亿元、40亿元、30亿元，合计超570亿元。&lt;/p&gt;
+&lt;p&gt;据信息披露，中金公司已于11月4日完成了本次证券、基金、保险公司互换便利操作下的首批质押式回购交易，质押券为2026年第一期互换便利央行票据。&lt;/p&gt;
 &lt;p&gt;拿到百亿额度后，国泰海通证券表示将尽快全部投入使用，与同业机构一起形成合力，最大化发挥政策工具效果。&lt;/p&gt;
 &lt;p&gt;中信证券也表态将尽快用好政策工具，并在2027年资本市场策略会表示坚定看好国内资本市场中长期发展机遇。&lt;/p&gt;
 &lt;p&gt;东吴证券公开表示将计划进一步增持股票和股票ETF，与同业机构协同发力，共同壮大耐心资本。&lt;/p&gt;
 多家机构陆续确认中标
-&lt;p&gt;除了已经公布具体金额的机构，华泰证券、广发证券、招商证券、申万宏源、银河证券、国信证券、中金公司、中信建投、东方证券、国联民生、中泰证券、东方财富证券、国金证券、兴业证券、平安证券、红塔证券已确认中标，暂未披露具体规模。&lt;/p&gt;
-&lt;p&gt;自2024年10月互换便利工具首次推出，广发证券、国信证券连续三批全部中标，是全程跟进互换便利工具的核心机构。&lt;/p&gt;
-&lt;p&gt;另外，中金公司作为首家完成SFISF全流程交易的机构，本次继续参与操作；国联民生同样连续两批中标，资金侧重权益投资与做市业务。&lt;/p&gt;
+&lt;p&gt;除了已经公布具体金额的机构，华泰证券、广发证券、招商证券、申万宏源、银河证券、国信证券、中信建投、东方证券、国联民生、中泰证券、东方财富证券、国金证券、兴业证券、平安证券、红塔证券已确认中标，暂未披露具体规模。&lt;/p&gt;
+&lt;p&gt;自2024年10月互换便利工具首次推出，广发证券、国信证券连续三批全部中标，是全程跟进互换便利工具的核心机构；国联民生连续两批中标，资金侧重权益投资与做市业务。&lt;/p&gt;
 &lt;p&gt;市场机构分析认为，当前只是首批券商集中官宣阶段，31家参与投标的机构中，还有不少公募基金、中小券商尚未对外发布信息，后续或有更多中标公告持续出炉。&lt;/p&gt;
 互换便利工具持续完善
 &lt;p&gt;相比之前两批，此次互换便利业务安排有三方面重要变化。&lt;/p&gt;
