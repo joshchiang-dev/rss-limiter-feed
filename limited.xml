@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 05 Nov 2026 18:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板冲高回落涨0.87%，AI硬件股分化、“易中天”再度大跌，光伏掀起涨停潮，恒科指暴涨5%，科网股全线攀升</title><link>https://wallstreetcn.com/articles/3785230</link><guid>d7e4f2f3a78831194fdb21fb41fd481cf645e9aade5a489676010039c097aa0d</guid><pubDate>Thu, 05 Nov 2026 08:16:25 GMT</pubDate><description>&lt;p&gt;光伏全链涨停潮成为当日最强主线。驱动来自三重共振：三季度光伏装机同比增长约38%、逆变器行业掀起集体涨价潮、美国中期选举落地强化绿色补贴延续预期。AI硬件内部分裂，CPO与PCB下挫，“易中天”集体大跌，昔日股王联讯仪器盘中跌破800元。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 05 Nov 2026 19:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板冲高回落涨0.87%，AI硬件股分化、“易中天”再度大跌，光伏掀起涨停潮，恒科指暴涨5%，科网股全线攀升</title><link>https://wallstreetcn.com/articles/3785230</link><guid>d7e4f2f3a78831194fdb21fb41fd481cf645e9aade5a489676010039c097aa0d</guid><pubDate>Thu, 05 Nov 2026 08:16:25 GMT</pubDate><description>&lt;p&gt;光伏全链涨停潮成为当日最强主线。驱动来自三重共振：三季度光伏装机同比增长约38%、逆变器行业掀起集体涨价潮、美国中期选举落地强化绿色补贴延续预期。AI硬件内部分裂，CPO与PCB下挫，“易中天”集体大跌，昔日股王联讯仪器盘中跌破800元。&lt;/p&gt;
 &lt;p&gt;11月5日，A股全天冲高回落，午后沪指、创业板一度翻绿，尾盘小幅回升，创业板指此前一度涨超3%。AI硬件内部分化，电路板、光模块、存储芯片等概念股走低，“易中天”再度大跌，半导体设备、半导体材料等活跃。光伏设备、贵金属、锂电池等板块领涨；银行、煤炭、油气、航运港口等板块领跌。&lt;/p&gt;
 &lt;p&gt;港股全天高开高走，恒指、恒科指双双拉升，恒指涨3%，恒科指涨超5%，科网股爆发，小米、美团、阿里、网易大涨超7%。腾讯、京东、小米亦纷纷大涨。联想逆势下跌。光模块、存储芯片等科技股调整，天数智芯逆势拉升超7%。债市方面，国债期货多数上涨。商品方面，国内商品期货多数上涨，原油暴跌，隔夜国际油价重挫。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -92,75 +92,52 @@ AI硬件内部的&amp;quot;东西分裂&amp;quot;
 &lt;p&gt;中保协行业交流数据显示，2026年上半年，分红险原保险保费收入10126亿元，同比增长94.4%，在人身险新单保费中的占比超过60%。&lt;/p&gt;
 &lt;p&gt;与此同时，产品的演示利率和保证水平也在调整。自7月1日起，分红险演示利率上限由3.9%统一下调至3.5%；部分险企还试点预定利率为1.25%的分红产品，较主流1.75%的保底水平低50个基点。&lt;/p&gt;
 &lt;p&gt;从固定收益向“低保底+高浮动”转变，正在成为部分险企调整产品结构的方向。&lt;/p&gt;
-&lt;p&gt;按照季度发布节奏，下一期研究值将于明年初公布。届时，它与1.75%触发线之间的距离，仍将是观察后续产品定价变化的一项指标；而是否启动调整，还取决于偏离条件能否连续两个季度得到满足。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险</title><link>https://wallstreetcn.com/articles/3785259</link><guid>f0b6c9287460ac730522792765ca6ee5392b5d085354c1b1498b8a57f578414b</guid><pubDate>Thu, 05 Nov 2026 07:19:52 GMT</pubDate><description>&lt;p&gt;中国台湾松下多层材料（PIDMTW）新竹湖口厂11月4日凌晨发生重大爆炸火灾，这场事故给全球AI服务器高端铜箔基板（CCL）供应链带来实质性冲击。业界初步评估，受损产能约占全球高端CCL供给的4%，中国台湾其他CCL厂商有望在短期内承接转单。&lt;/p&gt;
-&lt;p&gt;据中国台湾《经济日报》报道，松下湖口厂是其旗舰MEGTRON系列超低损耗材料的核心生产基地，涵盖M6、M7、M8等高端产品线。工商时报援引供应链消息人士称，&lt;strong&gt;松下MEGTRON系列约占全球高端CCL市场20%份额，而湖口厂产能又约占该系列全球产能的两成，折算后约相当于全球高端供给的4%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;事故发生之际，英伟达及美系四大云端服务供应商正大举拉货，高端板材交期原已偏紧。松下湖口厂产线受损，将进一步加剧超低损耗材料的供应紧张局面，同时为台光电、台燿、联茂及腾辉等CCL厂商创造转单机遇——相关个股11月4日逆势收红。&lt;/p&gt;
+&lt;p&gt;按照季度发布节奏，下一期研究值将于明年初公布。届时，它与1.75%触发线之间的距离，仍将是观察后续产品定价变化的一项指标；而是否启动调整，还取决于偏离条件能否连续两个季度得到满足。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI发布GPT-6 Cyber：网络安全AI能力跃升，已协助发现数百个高危漏洞</title><link>https://wallstreetcn.com/articles/3785295</link><guid>84d5ac7c83384243034ac4ab45f01a8c46e53266bdc80996ffea3d6141b0fb90</guid><pubDate>Thu, 05 Nov 2026 19:25:08 GMT</pubDate><description>&lt;p&gt;OpenAI在网络安全领域迈出重大一步。该公司推出专用安全研究模型GPT-6 Cyber，&lt;strong&gt;在漏洞挖掘能力和任务边界遵守方面均实现显著提升&lt;/strong&gt;，标志着AI在攻防安全领域的应用进入新阶段。&lt;/p&gt;
+&lt;p&gt;在用于测试模型能否利用指定漏洞攻击远程目标的ExploitGym基准测试中，&lt;strong&gt;GPT-6 Cyber得分48.5%，较前代模型GPT-5.6 Cyber的32.1%提升约16个百分点&lt;/strong&gt;，相对提升幅度达51%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-
-爆炸波及逾万平方米，两名员工仍失联
-
-&lt;p&gt;据新竹县消防局，&lt;strong&gt;爆炸发生于11月4日凌晨，初步研判疑因锅炉操作不当，或甲醇、丁酮等有机溶剂外泄引发连环爆炸。事故属爆炸性燃烧，波及厂房一至三楼，燃烧面积达1万余平方米，约占厂区三分之一。&lt;/strong&gt;消防局长陈中振表示，确切起火原因与财务损失仍待深入调查。&lt;/p&gt;
-&lt;p&gt;当局调集80名职业消防员、60名义消及化学车、救灾机器人参与抢救，火势于当日中午前基本扑灭。截至发稿，共5名受伤员工已送医救治，另有2名台籍员工持续失联，搜救工作仍在进行中。&lt;/p&gt;
-&lt;p&gt;消防局表示，现场产生的废水已全数拦截于厂内废水池，未向外扩散。湖口乡长吴淑君透露，周边多户居民因爆炸冲击波造成玻璃破碎及电梯受损，公所正汇整受损资料，协助居民向业者求偿。&lt;/p&gt;
-&lt;p&gt;PIDMTW成立于1987年，注册资本新台币7.8亿元，员工约330人，主要生产多层印刷电路板材料、IC载板材料及高频高速材料，客户涵盖国内外知名PCB大厂。截至发稿，该公司尚未就产线受损程度、人员伤亡及复工时程等关键问题作出正式回应。&lt;/p&gt;
-
-高端CCL制程门槛高，复工周期或达数月以上
-
-&lt;p&gt;此次事故的深远影响，不仅在于即时的产能损失，更在于恢复生产所需的漫长周期。据经济日报援引法人分析，&lt;strong&gt;高端CCL制程对无尘室洁净度与设备精度要求极为严苛，遭遇重大火灾后，从建物修缮、设备重置到客户重新验证，复工往往需要数月乃至更长时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;工商时报补充，松下湖口厂目前主要量产M6级材料，更先进的M8材料或仍处于试产阶段，尚未启动产能爬坡。这意味着此次受损最直接冲击的是M6级产能，而更高端产品的量产原本就尚待推进。&lt;/p&gt;
-&lt;p&gt;对于终端品牌商和PCB厂而言，AI服务器主板与800G交换器的出货排程紧凑，料源稳定性至关重要。业界预计，为降低供应波动风险，客户后续将加速推进第二供应商认证，具备同级超低损耗材料技术的中国台湾厂商将在此过程中获得优先考量。&lt;/p&gt;
-
-CCL厂商技术储备就绪，转单承接能力受关注
-
-&lt;p&gt;潜在的转单效应使外界目光迅速聚焦于中国台湾其他CCL厂商的技术实力与产能储备。经济日报指出，&lt;strong&gt;台光电、台燿、联茂、腾辉等厂商此前已持续升级技术路线图，积极布局AI服务器与高性能计算市场。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;工商时报报道，台光电正开发M10级EM-898K4材料，台燿则已推出以石英玻纤布为基材的TU-963Q方案及无玻纤树脂涂覆铜箔（RCC）产品。&lt;/p&gt;
-&lt;p&gt;值得注意的是，松下此前已预判全球CCL供给将持续收紧，并着手扩充产能。据松下今年3月发布的公告，公司计划向松下工业设备材料（广州）有限公司投入约75亿日元，新增一条专门生产MEGTRON多层电路板材料的生产线，预计于2027年4月启动初步生产，并于该财年晚些时候进入量产阶段。湖口厂事故的发生，使这一广州扩产计划的战略意义愈发凸显，但新产能落地之前的供给缺口短期内仍难以弥补。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌8%，黄金站上4100</title><link>https://wallstreetcn.com/articles/3785235</link><guid>11a8204f8cdce749225c53ebc63a1b43cf6bc2ee48d59201308a8b94e70f4281</guid><pubDate>Thu, 05 Nov 2026 16:05:10 GMT</pubDate><description>&lt;p&gt;受美国中期选举结果推动的市场轮动行情延续至第二日。科技与半导体板块持续承压，而此前表现落后的欧洲、中国等市场及周期性板块明显走强，黄金突破4100美元关口。&lt;/p&gt;
-&lt;p&gt;美股跌幅持续扩大，标普500指数跌3%，创去年4月份以来最大盘中跌幅，道琼斯工业平均指数跌2.4%，纳斯达克综合指数跌5.1%；费城半导体指数跌超10%。市场担忧民主党在中期选举中的全面胜利将导致美国数据中心监管趋严，进而压制半导体需求。&lt;/p&gt;
-&lt;p&gt;美股AI硬件产业链遭遇集体抛售，芯片、存储、半导体设备及光通信板块普遍大幅下跌。&lt;/p&gt;
-&lt;p&gt;英伟达跌7.73%，创4月份以来盘中新低，博通跌8.12%，美光跌14.48%，英特尔跌7.86%，AMD跌15.25%，高通跌12.59%，台积电跌8.91%，阿斯麦跌7.80%，Lumentum跌12.21%。特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/p&gt;
-&lt;p&gt;苹果跌0.5%，该公司一年多来首次进军投资级债券市场。微软跌4%，该公司接连撤单Nscale（先砍30亿英国合同，再弃得州扩容订单）。&lt;/p&gt;
-&lt;p&gt;此次轮动的最大受益者集中在欧洲和亚洲。欧洲斯托克600指数突破此前收盘高点，进一步收窄今年相对于标普500指数的落差。中国和澳大利亚成为亚洲表现最强的市场。与此同时，受芯片需求前景拖累，韩国存储芯片巨头三星电子与SK海力士均重挫逾7%。&lt;/p&gt;
-&lt;p&gt;其他资产方面，英国国债在英格兰行宣布加息后由涨转跌；黄金延续选举后涨势，突破每盎司4100美元。美元走势趋稳，布伦特原油收复周三部分跌幅，交投于每桶97美元附近。&lt;/p&gt;
+&lt;p&gt;与此同时，该模型在任务范围合规性方面表现出近乎完美的可靠性——&lt;strong&gt;在未启用部署安全提示的情况下，99.93%的测试中模型未触及授权范围之外的系统；启用提示后，这一比例达到100%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在实际应用层面，GPT-6 Cyber已展现出直接的产业价值。该模型协助研究人员在Firefox中发现81个此前未知的高危漏洞，Mozilla已陆续发布修复补丁；此外还针对Linux内核的1,724个已知漏洞完成复现，并为其中948个开发出可用的漏洞利用程序，是上一代模型的五倍以上。Cisco、Calif、CodeRabbit等安全团队已将其用于漏洞研究与代码审查。&lt;/p&gt;
+&lt;p&gt;Firefox杰出工程师Brian Grinstead表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;美股跌幅持续扩大，标普500指数跌3%，创去年4月份以来最大盘中跌幅，道琼斯工业平均指数跌2.4%，纳斯达克综合指数跌5.1%；费城半导体指数跌超10%。&lt;/li&gt;
-&lt;li&gt;英伟达跌7.73%，创4月份以来盘中新低，博通跌8.12%，美光跌14.48%，英特尔跌7.86%，AMD跌15.25%，高通跌12.59%，台积电跌8.91%，阿斯麦跌7.80%，Lumentum跌12.21%。特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/li&gt;
-&lt;li&gt;纳斯达克金龙中国指数涨2.5%，报5871.98点。中概股阿里巴巴涨5%，金山云涨7.5%，世纪互联涨4.7%，网易涨4.5%，携程、B站、理想至多涨3.7%，新东方、拼多多至少涨2.5%，百度涨0.5%，日月光半导体跌11.4%。&lt;/li&gt;
-&lt;li&gt;美元现货指数下跌0.2%。&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率跌超3个基点，逼近4.85%。&lt;/li&gt;
-&lt;li&gt;现货黄金直线拉升，盘中突破4100美元/盎司关口，涨超0.9%；上一个交易日现货黄金收报4062.9美元/盎司，日内涨超3.3%。&lt;/li&gt;
-&lt;li&gt;现货白银同步走高，涨超0.6%，报52.5美元/盎司。&lt;/li&gt;
-&lt;li&gt;布伦特原油日内涨幅达2.5%，突破97美元/桶，报97.06美元/桶。&lt;/li&gt;
-&lt;li&gt;比特币日内跌幅达5.0%，报76245美元。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&amp;quot;GPT‑6 Cyber 是一款世界级的网络安全防御模型。Firefox 在进入 2026 年之际，已然跻身全球最坚固、代码审查最严苛的项目之列。&lt;/p&gt;
+&lt;p&gt;即便在历经多代前沿模型的进一步强化之后，GPT‑6 Cyber 依然挖掘出了此前未知的高危漏洞，识别出了架构层面的改进空间，并协助我们将修复补丁推送给了数百万用户。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+能力跃升：漏洞发现与利用双线突破
 
-民主党胜选重塑市场叙事，轮动逻辑渐趋清晰
-
-&lt;p&gt;市场正在快速消化华盛顿政治格局转变带来的投资含义。民主党胜选后，市场预期财政政策将趋于收敛，能源价格有望走低，这两项因素有利于压缩借贷成本、提振整体经济，并为对经济增长更为敏感的板块提供支撑。&lt;/p&gt;
-&lt;p&gt;Candriam多资产主管Nadege Dufosse表示：&amp;quot;轮动正在发生，部分科技板块暂时停步，而在AI资本支出放缓预期、美伊冲突解决概率上升以及能源价格下行的假设下，涨势正在向更广泛的市场扩散。&amp;quot;&lt;/p&gt;
-&lt;p&gt;彭博宏观策略师Skylar Montgomery Koning亦指出，当前风险资产的整体布局趋于正面。&amp;quot;AI支出放缓与油价下行对债市构成支撑，此前市场对美联储独立性的担忧已消散，叠加此前防御性仓位在重大事件落地后的松动，整体金融条件更为宽松，为增加风险敞口提供了空间。&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;我们正在目睹资金明确持续地从芯片股撤离，&amp;quot;KCM Trade首席市场分析师Tim Waterer表示。&amp;quot;民主党横扫带来了一种切实可能：若该党落实其选前承诺，AI数据中心建设将遭遇监管壁垒。这令半导体股票在整个亚太区持续承压。&amp;quot;&lt;/p&gt;
+&lt;p&gt;GPT-6 Cyber在多项核心网络安全任务上超越了通用旗舰模型GPT-6 Astra，包括在后者不拒绝请求的情况下亦如此。&lt;strong&gt;OpenAI据此将该模型在其&amp;quot;准备框架&amp;quot;下的网络安全能力评级由&amp;quot;高&amp;quot;上调至&amp;quot;关键&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在漏洞发现能力测试中，OpenAI新建了一套攻击性Web渗透测试评估体系，要求模型在无法访问源代码的情况下探测Web应用程序漏洞。&lt;strong&gt;GPT-6 Cyber在该评估中实现了40.3%的漏洞召回率，高于GPT-6 Astra的32.0%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;针对更复杂的远程漏洞利用场景，OpenAI构建了名为RemoteExploitBench的新基准，在受控环境中部署GitLab、PostgreSQL、Jenkins等真实应用并利用已知漏洞进行测试。&lt;/p&gt;
+&lt;p&gt;结果显示，启用Daybreak Blue的GPT-6 Astra拒绝了100%的任务，而GPT-6 Cyber完成了95%，唯一失败原因是某个漏洞利用程序无法在远程环境中运行。&lt;/p&gt;
 
-英国央行意外鹰派，债市承压
+对齐训练：任务边界约束成核心设计目标
 
-&lt;p&gt;英格兰行周四宣布加息，且支持加息的官员人数超出市场预期，令英国国债盘中由涨转跌，短端美国国债亦受到连带影响。&lt;/p&gt;
-&lt;p&gt;英行同时发出信号，不排除进一步加息的可能性。该行预测英国通胀明年将接近5%，远高于2%的政策目标。&lt;/p&gt;
-&lt;p&gt;英行行长Andrew Bailey将持续的能源价格压力列为核心风险，并将矛头指向尚未解决的美伊冲突。&amp;quot;每多过一个月冲突未能解决，通胀压力就会继续积累，&amp;quot;Bailey说。&lt;/p&gt;
+&lt;p&gt;网络安全AI代理的潜在风险之一，在于其可能超出授权范围、攻击无关系统或忽视研究人员设定的操作规则。OpenAI将对齐训练列为GPT-6 Cyber的核心设计优先项。&lt;/p&gt;
+&lt;p&gt;在名为ExploitGym Honeypot的测试中，模型在执行漏洞利用任务的同时，会接触到刻意设计为易于攻击的辅助服务。&lt;/p&gt;
+&lt;p&gt;模型须自行判断攻击这些服务超出任务授权范围，从而主动放弃。&lt;strong&gt;GPT-6 Cyber在无部署安全提示的情况下，越界率由GPT-5.6 Cyber的5.51%降至0.07%；加入提示后越界率归零。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从模型的思维链日志可以看出，GPT-6 Cyber在推理过程中已内化了边界意识，例如主动判断&amp;quot;无法假定额外API或攻击控制器不属于目标，仅应针对指定的二进制文件或服务器&amp;quot;，以及主动排除&amp;quot;超出范围的凭据&amp;quot;。&lt;/p&gt;
 
-分析人士分歧：轮动过后，AI叙事将何去何从
+实战验证：从开源软件到关键基础设施
 
-&lt;p&gt;在市场热议轮动行情之际，分析人士对行情持续性及AI资本支出走向存在明显分歧。&lt;/p&gt;
-&lt;p&gt;Bank J. Safra Sarasin的Wolf von Rotberg认为，一旦选举驱动的轮动行情平息，市场将重回宏观基本面主导的交易逻辑。&amp;quot;如果AI资本支出增长真的受到威胁，股市在年底前将面临较大压力，&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;Panmure Liberum的Joachim Klement则持相对乐观的短期看法，认为市场目前的仓位指向&amp;quot;一场延续至12月的经典圣诞涨势，投资者正试图在AI交易回调中逢低买入&amp;quot;。但他同时建议，&amp;quot;我们会利用年底的强势逢高减仓，因为我们认为AI交易的动力将在2027年消退。&amp;quot;&lt;/p&gt;
+&lt;p&gt;GPT-6 Cyber的能力已在多个高价值目标上得到实战验证。&lt;strong&gt;在Firefox漏洞研究活动中，该模型发现了81个被Mozilla评定为高危级别的新漏洞，并证实另有30个已知问题的实际严重程度高于此前评估；&lt;/strong&gt;相关报告连同修复补丁建议一并披露给Mozilla，后者已开始落地修复。&lt;/p&gt;
+&lt;p&gt;在Linux内核安全研究方面，GPT-6 Cyber复现了1,724个漏洞，并为948个开发出可工作的利用程序，远超GPT-5.6 Sol在同等条件下完成的166个。OpenAI已向内核维护者披露304个关键发现，并附上候选补丁。&lt;/p&gt;
+&lt;p&gt;此外，OpenAI的安全研究人员还借助GPT-6 Cyber及其他模型，对压缩库Brotli中一个关键漏洞的远程代码执行路径进行了验证。&lt;/p&gt;
+&lt;p&gt;在内部红队演练中，使用GPT-6 Cyber的代理程序实现了从微虚拟机逃逸并在宿主机上执行代码，相关发现被用于加固训练前沿模型的基础设施。&lt;/p&gt;
 
-非农数据与美联储官员发言成下一关键节点
+安全护栏：能力扩张与滥用防范并行推进
 
-&lt;p&gt;市场目光已转向本周五公布的美国非农就业报告，以寻找经济走势与货币政策路径的更多线索。货币市场目前定价美联储下月加息25个基点的概率约为80%，并预期2027年再加息一次。美联储官员Beth Hammack和Tom Barkin定于周四晚些时候发表讲话，市场将密切关注其措辞。&lt;/p&gt;
-&lt;p&gt;黄金方面，在周三录得8月以来最大单日涨幅后，金价周四进一步走高，突破每盎司4100美元。分析人士指出，收益率下行降低了持有黄金的机会成本，而美元走软则令其他货币买家的购买成本相对下降，共同推动金价上行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选靴子落地后，华尔街集体转向看多美股</title><link>https://wallstreetcn.com/articles/3785264</link><guid>a70000769bc81ca3502da21736683ad9266af0a13cb2b7033d2ad97da90b37ae</guid><pubDate>Thu, 05 Nov 2026 08:58:26 GMT</pubDate><description>&lt;p&gt;美国中期选举尘埃落定，华尔街大型交易机构正集体向客户发出买入信号。&lt;/p&gt;
+&lt;p&gt;随着模型能力增强，OpenAI也检测到更多针对GPT-6 Cyber的恶意利用尝试，包括恶意行为者试图蒸馏模型能力的行为。为此，&lt;strong&gt;OpenAI同步强化了多项访问控制与监控机制。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体措施包括：针对网络安全场景的专项合规监控，以判断模型行为是否符合用户授权；在关键PHP漏洞协调披露期间，部署针对性监控以拦截对在线服务器的漏洞利用尝试；通过私有安全处理机制（PSP）对相关交互进行自动审查；以及对Daybreak Red API访问实施IP白名单限制，防范凭证泄露。&lt;/p&gt;
+&lt;p&gt;在关键基础设施防护方面，OpenAI与工业控制系统网络安全提供商Dragos合作，在受控实验室环境中评估模型在OT/ICS场景下的能力边界与防护有效性。&lt;/p&gt;
+&lt;p&gt;OpenAI表示，已据此细化安全护栏，目标是在阻止有害协助的同时，不过度限制合法的授权测试。该公司还设立了10亿美元的Daybreak for Frontline Defenders资助计划，为政府机构及关键服务提供商等资源有限的团队提供访问支持。&lt;/p&gt;
+
+访问路径：分阶段向验证用户开放
+
+&lt;p&gt;&lt;strong&gt;GPT-6 Cyber目前通过API和Codex向经批准的Daybreak Red客户开放，OpenAI计划近期向全部Daybreak Red用户扩展访问权限。&lt;/strong&gt;与此同时，GPT-5.6 Cyber也将向全部Daybreak Red客户开放。&lt;/p&gt;
+&lt;p&gt;在更广泛的访问策略上，OpenAI正在向更多组织和独立安全研究人员扩展Daybreak Blue的测试版访问资格，并为经批准的关键基础设施防御团队设立了专属的Daybreak Red for Critical Infrastructure分组，允许其在保留模型合规保护的前提下开展授权测试。&lt;/p&gt;
+&lt;p&gt;新用户和组织可通过Daybreak项目申请访问资格。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选靴子落地后，华尔街集体转向看多美股</title><link>https://wallstreetcn.com/articles/3785264</link><guid>a70000769bc81ca3502da21736683ad9266af0a13cb2b7033d2ad97da90b37ae</guid><pubDate>Thu, 05 Nov 2026 08:58:26 GMT</pubDate><description>&lt;p&gt;美国中期选举尘埃落定，华尔街大型交易机构正集体向客户发出买入信号。&lt;/p&gt;
 &lt;p&gt;民主党赢得国会参众两院控制权，特朗普表示接受选举结果，不确定性的消散触发市场大幅反弹。标普500指数单日涨近2%，道琼斯指数涨逾3%，VIX恐慌指数创下2025年4月以来最大单日跌幅。科技和通信服务板块领涨，油价重挫逾8%，消费板块亦表现强劲。&lt;/p&gt;
 &lt;p&gt;在此背景下，摩根大通、野村、汇丰、Citadel Securities等机构相继发布看多报告，核心逻辑高度一致：&lt;strong&gt;选举前机构持仓已大幅压缩、空头接近五年高位，叠加季节性规律与企业回购窗口重开，为年底前的反弹创造了有利条件。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fidelity认为，中期选举结果带来的一个重要变化是，美国政府将进入分裂执政状态：民主党控制国会，共和党继续执掌白宫。这种政治格局可能限制政府政策的推进空间，降低部分政策不确定性，而市场通常更倾向于欢迎这种制衡。&lt;/p&gt;
@@ -300,38 +277,53 @@ Anthropic IPO成为科技股&amp;quot;全面翻多&amp;quot;关键节点
 &lt;p&gt;前三季度0.29%的营收增长，能够为风险消化提供的支持依然有限；&lt;/p&gt;
 &lt;p&gt;另一边，房地产和零售信贷风险仍需处置，不良贷款余额继续增加，减值支出也在上升。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;光大已经让收入重新回到增长区间，但要将这份增长留在利润表的最后一行，还需要业务收入更稳定，风险成本逐步减轻。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在此之前，收入回暖只是利润修复的开始。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 又熔断了！美国中选掀起市场风暴，韩国股市为何首当其冲？</title><link>https://wallstreetcn.com/articles/3785257</link><guid>7c8172dd4ceac64328b827b32a7d797f9a1d0e6c69dbe13901f7e17cce2040c1</guid><pubDate>Thu, 05 Nov 2026 07:11:03 GMT</pubDate><description>&lt;p&gt;美国中期选举民主党横扫两院，由此引发的AI数据中心监管收紧忧虑如同一块石头投入平静湖面，冲击波迅速传导至首尔股市。韩国两大基准指数同日触发卖出熔断机制，半导体龙头股遭遇重挫，这场&amp;quot;蓝色海啸&amp;quot;正考验着韩国经济最核心的出口引擎。&lt;/p&gt;
-&lt;p&gt;11月5日，韩国综合股价指数（KOSPI）开盘即跌1.82%，随后跌幅持续扩大，当日午前触发卖出侧车（Sell-Sidecar）机制，程序化卖盘被临时中止。截至当日下午2时25分，KOSPI较前一交易日下挫5.50%至5371.41点，科斯达克指数（KOSDAQ）同期下跌5.11%至678.4点，两大指数罕见地在同一交易日双双触发市场稳定机制。三星电子与SK海力士股价分别重挫7.8%和9.81%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在此之前，收入回暖只是利润修复的开始。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌8%，黄金站上4100</title><link>https://wallstreetcn.com/articles/3785235</link><guid>11a8204f8cdce749225c53ebc63a1b43cf6bc2ee48d59201308a8b94e70f4281</guid><pubDate>Thu, 05 Nov 2026 16:05:10 GMT</pubDate><description>&lt;p&gt;受美国中期选举结果推动的市场轮动行情延续至第二日。科技与半导体板块持续承压，而此前表现落后的欧洲、中国等市场及周期性板块明显走强，黄金突破4100美元关口。&lt;/p&gt;
+&lt;p&gt;美股跌幅持续扩大，标普500指数跌3%，创去年4月份以来最大盘中跌幅，道琼斯工业平均指数跌2.4%，纳斯达克综合指数跌5.1%；费城半导体指数跌超10%。市场担忧民主党在中期选举中的全面胜利将导致美国数据中心监管趋严，进而压制半导体需求。&lt;/p&gt;
+&lt;p&gt;美股AI硬件产业链遭遇集体抛售，芯片、存储、半导体设备及光通信板块普遍大幅下跌。&lt;/p&gt;
+&lt;p&gt;英伟达跌7.73%，创4月份以来盘中新低，博通跌8.12%，美光跌14.48%，英特尔跌7.86%，AMD跌15.25%，高通跌12.59%，台积电跌8.91%，阿斯麦跌7.80%，Lumentum跌12.21%。特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/p&gt;
+&lt;p&gt;苹果跌0.5%，该公司一年多来首次进军投资级债券市场。微软跌4%，该公司接连撤单Nscale（先砍30亿英国合同，再弃得州扩容订单）。&lt;/p&gt;
+&lt;p&gt;此次轮动的最大受益者集中在欧洲和亚洲。欧洲斯托克600指数突破此前收盘高点，进一步收窄今年相对于标普500指数的落差。中国和澳大利亚成为亚洲表现最强的市场。与此同时，受芯片需求前景拖累，韩国存储芯片巨头三星电子与SK海力士均重挫逾7%。&lt;/p&gt;
+&lt;p&gt;其他资产方面，英国国债在英格兰行宣布加息后由涨转跌；黄金延续选举后涨势，突破每盎司4100美元。美元走势趋稳，布伦特原油收复周三部分跌幅，交投于每桶97美元附近。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;美股跌幅持续扩大，标普500指数跌3%，创去年4月份以来最大盘中跌幅，道琼斯工业平均指数跌2.4%，纳斯达克综合指数跌5.1%；费城半导体指数跌超10%。&lt;/li&gt;
+&lt;li&gt;英伟达跌7.73%，创4月份以来盘中新低，博通跌8.12%，美光跌14.48%，英特尔跌7.86%，AMD跌15.25%，高通跌12.59%，台积电跌8.91%，阿斯麦跌7.80%，Lumentum跌12.21%。特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/li&gt;
+&lt;li&gt;纳斯达克金龙中国指数涨2.5%，报5871.98点。中概股阿里巴巴涨5%，金山云涨7.5%，世纪互联涨4.7%，网易涨4.5%，携程、B站、理想至多涨3.7%，新东方、拼多多至少涨2.5%，百度涨0.5%，日月光半导体跌11.4%。&lt;/li&gt;
+&lt;li&gt;美元现货指数下跌0.2%。&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率跌超3个基点，逼近4.85%。&lt;/li&gt;
+&lt;li&gt;现货黄金直线拉升，盘中突破4100美元/盎司关口，涨超0.9%；上一个交易日现货黄金收报4062.9美元/盎司，日内涨超3.3%。&lt;/li&gt;
+&lt;li&gt;现货白银同步走高，涨超0.6%，报52.5美元/盎司。&lt;/li&gt;
+&lt;li&gt;布伦特原油日内涨幅达2.5%，突破97美元/桶，报97.06美元/桶。&lt;/li&gt;
+&lt;li&gt;比特币日内跌幅达5.0%，报76245美元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+
+民主党胜选重塑市场叙事，轮动逻辑渐趋清晰
+
+&lt;p&gt;市场正在快速消化华盛顿政治格局转变带来的投资含义。民主党胜选后，市场预期财政政策将趋于收敛，能源价格有望走低，这两项因素有利于压缩借贷成本、提振整体经济，并为对经济增长更为敏感的板块提供支撑。&lt;/p&gt;
+&lt;p&gt;Candriam多资产主管Nadege Dufosse表示：&amp;quot;轮动正在发生，部分科技板块暂时停步，而在AI资本支出放缓预期、美伊冲突解决概率上升以及能源价格下行的假设下，涨势正在向更广泛的市场扩散。&amp;quot;&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Skylar Montgomery Koning亦指出，当前风险资产的整体布局趋于正面。&amp;quot;AI支出放缓与油价下行对债市构成支撑，此前市场对美联储独立性的担忧已消散，叠加此前防御性仓位在重大事件落地后的松动，整体金融条件更为宽松，为增加风险敞口提供了空间。&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;我们正在目睹资金明确持续地从芯片股撤离，&amp;quot;KCM Trade首席市场分析师Tim Waterer表示。&amp;quot;民主党横扫带来了一种切实可能：若该党落实其选前承诺，AI数据中心建设将遭遇监管壁垒。这令半导体股票在整个亚太区持续承压。&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此轮暴跌的直接导火索，是民主党赢得德克萨斯、俄亥俄、佐治亚等数据中心重镇州长选举后，市场对新建数据中心审批受阻的担忧骤然升温。由于三星电子与SK海力士合计占KOSPI市值逾半，半导体行业情绪的任何风吹草动都将对韩国基准指数产生放大效应。&lt;/p&gt;
 
-民主党横扫，数据中心监管忧虑骤升
+英国央行意外鹰派，债市承压
 
-&lt;p&gt;民主党在本次中期选举中实现历史性&amp;quot;蓝色横扫&amp;quot;，取得参众两院控制权，同时在多个数据中心高度密集的州赢得州长席位。&lt;/p&gt;
-&lt;p&gt;其中，&lt;strong&gt;德克萨斯州候任州长Gina Hinojosa在竞选期间承诺，当选后将立即暂停所有新数据中心的审批。据德克萨斯州地区报纸《德克萨斯论坛报》援引DataCenterWatch的分析，在36个州的74名州长候选人中，43%表态支持暂停或禁止新数据中心建设。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场反应还受到前一交易日美股走势的直接传导。尽管4日美股主要指数整体上涨——标普500涨1.58%、道琼斯指数大涨3.03%、纳斯达克涨1.44%——但内部结构严重分化。&lt;/p&gt;
-&lt;p&gt;苹果、微软、亚马逊等大型科技股单日涨幅均超5%，而英伟达、美光、闪迪、英特尔等半导体股则普遍下跌，跌幅介于3%至8%之间。AI算力租赁新兴公司CoreWeave和Nebius分别重挫9.9%和6.7%，费城半导体指数下跌3.1%，创近六个月新低。&lt;/p&gt;
+&lt;p&gt;英格兰行周四宣布加息，且支持加息的官员人数超出市场预期，令英国国债盘中由涨转跌，短端美国国债亦受到连带影响。&lt;/p&gt;
+&lt;p&gt;英行同时发出信号，不排除进一步加息的可能性。该行预测英国通胀明年将接近5%，远高于2%的政策目标。&lt;/p&gt;
+&lt;p&gt;英行行长Andrew Bailey将持续的能源价格压力列为核心风险，并将矛头指向尚未解决的美伊冲突。&amp;quot;每多过一个月冲突未能解决，通胀压力就会继续积累，&amp;quot;Bailey说。&lt;/p&gt;
 
-韩国半导体与电力设备股全线受压
+分析人士分歧：轮动过后，AI叙事将何去何从
 
-&lt;p&gt;韩国市场的跌幅集中在半导体及与AI基础设施密切相关的电力设备板块。三星电子跌5.39%；SK Square跌6.56%；三星电机跌幅高达10.31%。科斯达克市场的半导体设备企业同样遭遇重挫，周星工程（Jusung Engineering）跌10.23%，心泰克（Simmtech）跌13.90%，EO Technics跌11.72%。&lt;/p&gt;
-&lt;p&gt;变压器等电力设备企业同样未能幸免。&lt;strong&gt;市场担忧，数据中心建设延迟将直接压缩对变压器的需求。&lt;/strong&gt;孝星重工（Hyosung Heavy Industries）、HD现代电气（HD Hyundai Electric）、三日电气（Sanil Electric）跌幅分别达10.10%、7.53%和12.84%。&lt;/p&gt;
-&lt;p&gt;未来资产证券分析师Seo Sang-young表示，&lt;strong&gt;&amp;quot;民主党同样在德克萨斯和佐治亚等数据中心重要布局地区赢得选举，市场对电网接入、审批流程及电力成本监管收紧的担忧大幅上升。大量举债建设新数据中心的企业，一旦项目进度延误，将面临更高融资成本和更大盈利压力。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;未来资产证券高级研究员Kim Seok-hwan指出，&amp;quot;AI监管趋严可能扰乱大型科技公司的资本支出计划。这些公司需要建设数据中心，以兑现向OpenAI、Anthropic等客户承诺提供的算力，并最终将这些承诺转化为云收入。数据中心建设延迟，将推迟收入兑现窗口，进而促使超大规模云服务商重新评估后续投资节奏，对高带宽内存及其他先进芯片的需求预期也将随之承压。&amp;quot;&lt;/p&gt;
+&lt;p&gt;在市场热议轮动行情之际，分析人士对行情持续性及AI资本支出走向存在明显分歧。&lt;/p&gt;
+&lt;p&gt;Bank J. Safra Sarasin的Wolf von Rotberg认为，一旦选举驱动的轮动行情平息，市场将重回宏观基本面主导的交易逻辑。&amp;quot;如果AI资本支出增长真的受到威胁，股市在年底前将面临较大压力，&amp;quot;他说。&lt;/p&gt;
+&lt;p&gt;Panmure Liberum的Joachim Klement则持相对乐观的短期看法，认为市场目前的仓位指向&amp;quot;一场延续至12月的经典圣诞涨势，投资者正试图在AI交易回调中逢低买入&amp;quot;。但他同时建议，&amp;quot;我们会利用年底的强势逢高减仓，因为我们认为AI交易的动力将在2027年消退。&amp;quot;&lt;/p&gt;
 
-政策路径存在局限，部分分析师认为冲击或短暂
+非农数据与美联储官员发言成下一关键节点
 
-&lt;p&gt;韩国银行纽约代表处在一份报告中指出，此次选举结果不太可能推动特朗普政府整体政策方向发生重大转变，但&amp;quot;可能对AI监管及相关投资节奏产生有限影响&amp;quot;。&lt;/p&gt;
-&lt;p&gt;韩国天主教大学经济学教授Yang Jun-seok表示，即便民主党同时控制参众两院，也难以获得推翻总统否决权所需的三分之二多数席位，这从根本上限制了其实际政策推进空间，因此单凭选举结果难以期待对AI投资产生直接、实质性冲击。&lt;/p&gt;
-&lt;p&gt;但他同时指出，&lt;strong&gt;民主党若进一步明确收紧AI发展与投资的政策立场，叠加行业已面临的其他压力——包括公众对AI抢占就业岗位、推高能源账单、消耗大量水资源的担忧，以及大型科技公司因重度举债投资AI而承受的债务压力——可能演变为&amp;quot;有意义的额外压制因素&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NH投资证券研究员Jo Yeon-ju则持较为乐观的立场，她认为：&amp;quot;民主党同样深知AI主导权的战略重要性，不会贸然实施大规模延误，而是倾向于向当地居民提供补偿以推动数据中心建设落地。对大型科技公司的实质冲击，或许只是杯中风暴。&amp;quot;&lt;/p&gt;
-&lt;p&gt;iM证券研究员也指出，在AI数据中心审批监管忧虑压制半导体投资情绪的同时，原油价格下跌带来的成本节约预期正向航空、运输等板块扩散，值得持续关注。&lt;/p&gt;
-
-可再生能源板块逆势受益
-
-&lt;p&gt;在整体市场承压之际，部分板块被视为&amp;quot;蓝色海啸&amp;quot;的潜在受益者。民主党巩固多数席位后，&lt;strong&gt;市场对可再生能源支持政策重启的预期随之升温，太阳能、风能、核能及储能系统（ESS）相关股票被普遍列为受益方向。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DS投资证券研究员Ahn Joo-won表示，&amp;quot;随着民主党凭借压倒性选举优势在未来立法中掌握更强议价能力，太阳能、风能等可再生能源领域的诉求将得到充分体现，风能及燃料电池相关股票将从中获益。&amp;quot;&lt;/p&gt;
-&lt;p&gt;元大证券研究员Lee Jae-won则提醒，&amp;quot;民主党掌控国会及赢得关键州州长席位后，AI数据中心面临更严格监管的概率上升，德克萨斯等主要数据中心建设地区的审批限制及电网成本压力，可能拖延AI资本投资进程，进而压低内存半导体需求并拖累售价。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恒科五连阳、阿里腾讯暴涨！港股价值重估开始了？</title><link>https://wallstreetcn.com/articles/3785265</link><guid>3e953b57c5544fe87d1b92c524f93cca964aa87fc7ba884d2ae0ecb3beb6d4fd</guid><pubDate>Thu, 05 Nov 2026 10:07:49 GMT</pubDate><description>&lt;p&gt;港股终于迎来一轮强势反弹。&lt;/p&gt;
+&lt;p&gt;市场目光已转向本周五公布的美国非农就业报告，以寻找经济走势与货币政策路径的更多线索。货币市场目前定价美联储下月加息25个基点的概率约为80%，并预期2027年再加息一次。美联储官员Beth Hammack和Tom Barkin定于周四晚些时候发表讲话，市场将密切关注其措辞。&lt;/p&gt;
+&lt;p&gt;黄金方面，在周三录得8月以来最大单日涨幅后，金价周四进一步走高，突破每盎司4100美元。分析人士指出，收益率下行降低了持有黄金的机会成本，而美元走软则令其他货币买家的购买成本相对下降，共同推动金价上行。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恒科五连阳、阿里腾讯暴涨！港股价值重估开始了？</title><link>https://wallstreetcn.com/articles/3785265</link><guid>3e953b57c5544fe87d1b92c524f93cca964aa87fc7ba884d2ae0ecb3beb6d4fd</guid><pubDate>Thu, 05 Nov 2026 10:07:49 GMT</pubDate><description>&lt;p&gt;港股终于迎来一轮强势反弹。&lt;/p&gt;
 &lt;p&gt;11月5日，港股市场大幅走高，恒生科技指数盘中涨幅一度接近6%，阿里巴巴、腾讯等互联网龙头集体飙升，恒生指数盘中涨幅一度达到4%，收复24000点关口。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本轮这轮反弹背后，一个值得关注的变化是：市场正在重新审视中国互联网资产的投资价值。&lt;strong&gt;随着美国中期选举结果扰动全球市场，部分资金开始从AI硬件、半导体等高估值方向撤出，转向估值更低、与消费需求联系更紧密的中国互联网平台。&lt;/strong&gt;&lt;/p&gt;
@@ -366,4 +358,25 @@ Anthropic IPO成为科技股&amp;quot;全面翻多&amp;quot;关键节点
 &lt;p&gt;短期来看，市场首先需要观察南向资金能否持续回流，以及此次空头回补行情能否转化为真正的增量买盘。内地投资者能否持续、有规模地回归港股，将是检验反弹持续性的重要因素。&lt;/p&gt;
 &lt;p&gt;中期来看，决定港股能否真正反转的，仍然是企业盈利和内需的改善。对于科技股而言，市场的定价逻辑也正在发生变化：AI资本开支规模不再是唯一焦点，订单增长、盈利能力和自由现金流将成为更重要的考量。&lt;/p&gt;
 &lt;p&gt;华泰证券首席宏观经济学家易峘认为，&lt;strong&gt;宏观流动性对港股的压制高峰或许已经过去，但约束难以彻底解除，港股机会更多来自结构性盈利改善和全球资金再平衡。&lt;/strong&gt;短期市场有望迎来情绪修复型反弹，中期胜负手仍在内需改善进展。&lt;/p&gt;
-&lt;p&gt;换句话说，港股最悲观的阶段或许正在过去，但要从估值修复走向趋势反转，还需要更多基本面证据。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 苹果2026财年财报纵横分析(PPT)-20261105</title><link>http://www.xueqiu.com/1965756146/415627520</link><guid>03d7ce4b3090af5ce697233a9b7017ff9d31e69c086d477abdddb40f010dad2f</guid><pubDate>Thu, 05 Nov 2026 09:35:45 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;悦云轩&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/AAPL"&gt;$苹果(AAPL)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/GOOG"&gt;$谷歌C(GOOG)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/MSFT"&gt;$微软(MSFT)$&lt;/a&gt; &lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[今日雪球] 有点意思！Q3财报，低估区反而在改善？（11.05）</title><link>http://www.xueqiu.com/9391624441/415645532</link><guid>45c67d4e880aad565ce8162ecefae65542b8373cb445dec3848378a4af8cfeb5</guid><pubDate>Thu, 05 Nov 2026 09:35:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;这两天，市场出现明显的反弹，成交量再次攀升，泛科技、黄金、创新药等均有表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么华尔街开始重估AI大模型的资本回报</title><link>http://www.xueqiu.com/1025819408/415629277</link><guid>4792728331b6e2f9151323691947001d45fa9ccc2de2b3601de805ccb33772da</guid><pubDate>Thu, 05 Nov 2026 09:35:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;西峯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年入秋以来，全球科技资本市场出现了一道耐人寻味的裂痕。一方面，北美云巨头与头部AI大模型的账面营收仍在以罕见的斜率扩张；另一方面，作为算力景气度先行指标的费城半导体指数却步入持续阴跌，上游芯片龙头哪怕交出翻倍增长的财报，换来的往往也是机构资金的逢高派发。与此同时，一级市场的估值狂热正在遇冷：年化收入跑率（ARR）已触及500亿美元的OpenAI将上市计划推迟至2027年，而10月下旬刚刚递交S-1招股书、市场传闻目标估值高达1.5万亿至2万亿美元的Anthropic，则在机构路演中引发了一场关于算力负债与盈利质量的激烈辩论。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;换句话说，港股最悲观的阶段或许正在过去，但要从估值修复走向趋势反转，还需要更多基本面证据。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软接连撤单Nscale：先砍30亿英国合同，再弃德州扩容订单</title><link>https://wallstreetcn.com/articles/3785260</link><guid>4c34dc20dd4cd0200cdd3faf411b95653814b98772549e8043b61c084451849a</guid><pubDate>Thu, 05 Nov 2026 08:13:04 GMT</pubDate><description>&lt;p&gt;英国最具价值的AI初创公司Nscale在IPO冲刺阶段再遭重挫。&lt;strong&gt;继年初被微软取消英国30亿美元租约后，这家公司又失去了后者在德克萨斯州数据中心扩容选项上的承接意向，双重挫折令其高达350亿美元的上市计划面临新的考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据英国《金融时报》援引三名知情人士透露，微软已决定放弃将其在德州现有算力租赁合同规模翻倍以上的选项。这一决定意味着Nscale必须为该站点寻找新客户，否则将损失数十亿美元的潜在收入。微软和Nscale均拒绝就此置评。&lt;/p&gt;
+&lt;p&gt;此次放弃选项的消息，紧随微软今年早些时候取消与Nscale英国埃塞克斯数据中心30亿美元租约之后，进一步削弱了市场对这家英伟达支持、由前澳大利亚加密矿工Josh Payne执掌的公司的信心。尽管Nscale方面称，微软此次不行使德州扩容选项不会影响其总计1030亿美元的合同积压量，但投资者对AI基础设施领域高负债运营模式的担忧情绪正持续升温。&lt;/p&gt;
+&lt;p&gt;Nscale大股东Aker股价下跌7.5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+德州选项告吹：规模与归属存在分歧
+
+&lt;p&gt;根据Nscale于2025年10月披露的信息，公司宣布与微软达成协议，向其租赁位于德州Ward County Ionic Digital站点约240兆瓦的算力，微软同时&amp;quot;持有第二阶段700兆瓦的选项&amp;quot;。然而，Nscale本周向英国《金融时报》澄清，该选项实际规模更接近500兆瓦，且涉及的是Nscale自有站点的额外容量，而非Ionic站点。&lt;/p&gt;
+&lt;p&gt;据知情人士透露，微软最终决定不行使这一选项。这迫使Nscale重新为自有站点的剩余容量开拓客源。据一名知情人士透露，&lt;strong&gt;Nscale目前已与机器人公司Figure达成协议，租赁其Ward County自有数据中心的部分容量，并已与其他公司签署了未披露的协议。&lt;/strong&gt;另有一名接近该公司的人士表示，Nscale正与多家潜在客户就自有站点的剩余容量展开磋商。&lt;/p&gt;
+&lt;p&gt;就Ionic站点而言，情况则更为复杂。根据Ionic Digital提交给美国证券交易委员会（SEC）的文件，该站点剩余容量的电力供应尚未落实，Ionic保留将扩展能源容量提供给其他AI、企业或云基础设施公司的权利，微软在该站点仍享有优先谈判权。&lt;/p&gt;
+
+IPO前景承压：双重失单叠加工地延误
+
+&lt;p&gt;Nscale此次遭遇微软撤单，恰逢公司筹备今年IPO的关键时期。这家英国AI初创公司的董事会成员包括前Meta高管Sheryl Sandberg和英国前副首相Sir Nick Clegg，其估值目标高达350亿美元。&lt;/p&gt;
+&lt;p&gt;然而，公司近期的基本面并不乐观。&lt;strong&gt;Nscale在2026年上半年录得净亏损10亿美元，营收仅为1.41亿美元。&lt;/strong&gt;除德州选项落空外，其位于西弗吉尼亚州的旗舰站点——该站点是与Anthropic达成450亿美元算力合同的核心资产——同样遭遇施工延期和当地居民反对。与此同时，公司在葡萄牙和挪威的开发项目仍在推进中。&lt;/p&gt;
+&lt;p&gt;更广泛的行业背景同样构成压力。据英国《金融时报》报道，投资者对CoreWeave、Nebius等&amp;quot;新云&amp;quot;（neocloud）公司的高负债建设模式已愈发审慎。在美国中期选举中，AI数据中心建设引发的民众不满情绪已成为共和党现任候选人落选的原因之一，包括德州在内多个州的民主党候选人呼吁立即暂停数据中心开发。&lt;/p&gt;
+
+积压合同护盘：Anthropic谈判或成关键变量
+
+&lt;p&gt;尽管挑战重重，Nscale目前仍持有总计1030亿美元的合同积压量，微软德州决定不影响这一数字。公司亦正与Anthropic就扩展合作展开谈判，拟在其西弗吉尼亚州最大站点再租赁一座460兆瓦的第二数据中心。&lt;/p&gt;
+&lt;p&gt;对于Nscale而言，能否为德州站点迅速补充新客户，并推动Anthropic扩容谈判落地，将直接决定其未来的融资能力与IPO进程。neocloud商业模式高度依赖长期合同为数据中心建设提供借贷背书，失去微软这一战略锚定客户的部分承诺，意味着公司在资本市场的叙事逻辑将面临更严格的检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 苹果2026财年财报纵横分析(PPT)-20261105</title><link>http://www.xueqiu.com/1965756146/415627520</link><guid>03d7ce4b3090af5ce697233a9b7017ff9d31e69c086d477abdddb40f010dad2f</guid><pubDate>Thu, 05 Nov 2026 09:35:45 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;悦云轩&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/AAPL"&gt;$苹果(AAPL)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/GOOG"&gt;$谷歌C(GOOG)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/MSFT"&gt;$微软(MSFT)$&lt;/a&gt; &lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[今日雪球] 有点意思！Q3财报，低估区反而在改善？（11.05）</title><link>http://www.xueqiu.com/9391624441/415645532</link><guid>45c67d4e880aad565ce8162ecefae65542b8373cb445dec3848378a4af8cfeb5</guid><pubDate>Thu, 05 Nov 2026 09:35:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;这两天，市场出现明显的反弹，成交量再次攀升，泛科技、黄金、创新药等均有表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么华尔街开始重估AI大模型的资本回报</title><link>http://www.xueqiu.com/1025819408/415629277</link><guid>4792728331b6e2f9151323691947001d45fa9ccc2de2b3601de805ccb33772da</guid><pubDate>Thu, 05 Nov 2026 09:35:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;西峯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年入秋以来，全球科技资本市场出现了一道耐人寻味的裂痕。一方面，北美云巨头与头部AI大模型的账面营收仍在以罕见的斜率扩张；另一方面，作为算力景气度先行指标的费城半导体指数却步入持续阴跌，上游芯片龙头哪怕交出翻倍增长的财报，换来的往往也是机构资金的逢高派发。与此同时，一级市场的估值狂热正在遇冷：年化收入跑率（ARR）已触及500亿美元的OpenAI将上市计划推迟至2027年，而10月下旬刚刚递交S-1招股书、市场传闻目标估值高达1.5万亿至2万亿美元的Anthropic，则在机构路演中引发了一场关于算力负债与盈利质量的激烈辩论。&lt;/p&gt;</description></item></channel></rss>
