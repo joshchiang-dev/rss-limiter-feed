@@ -1,64 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 05 Nov 2026 15:29:35 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis谈“美国中选冲击数据中心”：2027“大局已定”，2028“充满变数”，得州是“最大变量”</title><link>https://wallstreetcn.com/articles/3785225</link><guid>50c2ea413b12eda755b02d0d791c4c3f389a17616c3703dd7b74770c1cf9cdfc</guid><pubDate>Thu, 05 Nov 2026 03:29:46 GMT</pubDate><description>&lt;p&gt;尽管2027年的美国数据中心建设已靠“时间差”基本锁盘，但中期选举的意外变局，正让2028年高达62.2GW的规划产能直接暴露在审批延期与规则重塑的巨大风险之中。&lt;/p&gt;
-&lt;p&gt;2026年11月3日，美国中期选举投票日当天，知名半导体与基础设施研究机构SemiAnalysis发布了最新一期《SemiAnalysis Weekly》。&lt;/p&gt;
-&lt;p&gt;该机构主管数据中心与能源基础设施研究的董事总经理Jeremie Eliahou Ontiveros，以及分析师Maya Barkin、Wayne Ma等，&lt;strong&gt;就美国大选结果对数据中心产能扩张的影响进行了深度讨论&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;节目中Maya给出了当时看起来最稳的判断：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;民调都显示Abbott会赢。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;她说的是共和党人 Greg Abbott，2015 年起任得州州长，此前做过州总检察长，这次在争取第四个任期。&lt;/p&gt;
-&lt;p&gt;出乎市场及该机构此前“基准情形”预料的是，民主党人 Gina Hinojosa 赢下得州州长，终结民主党在州长选举中 36 年的连败；民主党同时夺回参众两院，俄亥俄的 Amy Acton 击败 Vivek Ramaswamy，佐治亚的 Keisha Lance Bottoms 击败自筹两亿多美元的 Rick Jackson。&lt;/p&gt;
-&lt;p&gt;节目是在结果出来之前录的。三个人把美国数据中心的产能切成两段：&lt;strong&gt;2027年那段已经进入施工，选举改不了；2028年那段九成还在图纸上，正好落在这次投票的州里&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;三个数字支撑这条分界。2027年前20个州计划交付33.8GW，约四分之三已开工；2028年美国净增62.2GW，九成没动工；&lt;strong&gt;得州一个州占 2028 年新增量的近三成&lt;/strong&gt;。&lt;/p&gt;
-2027年产能“锁盘”：选票改变不了已经浇筑的地基
-&lt;p&gt;针对市场最关注的短期业绩指引与订单落地情况，SemiAnalysis给出了明确的定心丸：&lt;strong&gt;政策变化追不上施工进度，今明两年的资本支出与交付节奏基本无虞&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;在拆解产能模型时，分析师Maya明确指出，2027年的产能已经进入施工阶段，选举结果无法对其产生实质性阻碍。她表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;2027年排名前20的州，大约四分之三的产能已经开工。所以今天的选举结果拦不住它，这也是我们几周前给出的全球每年50多GW的判断还站得住的原因。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;背后的核心逻辑在于物理建设的“时间差”&lt;/strong&gt;。一个吉瓦级园区从开工到投运大约需要两年，选址、并网、空气许可、设备排产早已完成。正如Jeremie所言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;要影响2027年的建设，你需要找到2027年要交付的项目所缺少的东西。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;目前，绝大多数2027年交付的项目已拿到施工、雨水及空气污染许可，新州长上台只能改变周边规则，无法改变已下单的变压器&lt;/strong&gt;。&lt;/p&gt;
-2028年的62.2GW大考：九成产能“暴露在风险里”
-&lt;p&gt;与2027年的确定性截然相反，2028年成为了政策风险集中爆发的“堰塞湖”。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis模型显示，2028年美国计划净增约62.2GW的数据中心产能。但Maya警示道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;它大部分还没有开工，这一点和2027年相反。这些项目大多落在今年选州长的州，都在等许可、电力和施工排期。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;数据显示，在13个重点州合计的43.5GW规划产能中，约93%尚未动工，且这13个州中有10个在今年迎来了州长换届。&lt;/strong&gt;随着主张暂停审批或收紧规则的候选人胜选，原本30.3GW的产能直接进入风险区间。&lt;/p&gt;
-&lt;p&gt;对于这种风险的性质，Maya进行了精准界定：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;当然，这不意味着这些产能都会被推迟，只是说这些产能暴露在风险里，是那些州计划在2028年上线的产能。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;由于园区建设周期刚性，许可冻结每多一个月，2028年的交付窗口就少一个月。市场的风险是交付时间表被硬性往后挤压。&lt;/p&gt;
-得州成最大下行风险：“外壳建到一半，却没有电可用”
-&lt;p&gt;&lt;strong&gt;在所有面临审批风险的州中，占2028年美国新增产能近30%（约18GW）的得克萨斯州，成为了撼动全美数据中心增速指引的最大变量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此前，大批开发商利用得州较短的审批周期，融了数十亿甚至上百亿美元抢跑工期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但随着民主党人Gina Hinojosa意外当选州长，得州原本的暂停审批政策大概率会继续维持。&lt;/strong&gt;由于议会要等到2027年1月至5月的例会期间才能立法通过保护条款，这意味着项目必须硬生生停工8到12个月。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;面对如此漫长的等待，项目原本预留的所有缓冲时间被彻底耗尽。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jeremie将得州列为最大的下行风险，并直白地描绘了这种错配带来的冲击：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;拿不到最终批准，你就不能建电厂。数据中心可以建，也会继续建，但电厂不行。&lt;strong&gt;所以你可能看到一堆外壳建到一半或者基本建成，却没有电可用。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-跨越党派的政策重塑：告别税收优惠，开发者自担成本
-&lt;p&gt;&lt;strong&gt;抛开党派之争，让数据中心开发商承担更多基础设施成本，已成为美国地方政治的跨党派共识。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析师Wayne指出，在统计的20位州长提名人中，主张要求数据中心自付电网成本的有15位，主张取消税收优惠的12位。Wayne称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;不管你是共和党还是民主党，如果你是一个普通居民，数据中心就建在你旁边，都会让你不高兴。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;政策的收紧分为“暂停（本质上是禁令）”与“加条件”两种。Maya解释道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果上了新条件，开发者可以出钱升级电网，可以重新设计冷却……可能会慢一点、贵一点，但有通往批准的路。暂停不一样，对于那些还没拿齐许可的项目，工作根本无法推进。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这意味着，地方政府靠“倒贴”优惠来吸引投资的时代已经彻底结束。&lt;strong&gt;以俄亥俄州为例，为了吸引数据中心落户，当地给出的税收优惠在短短两年内就从 1.36 亿美元暴涨至 16 亿美元，三年翻了近 12 倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对此，Maya 总结道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;现在的算力需求太庞大了，供需关系已经彻底逆转。地方政府根本不需要再拿税收优惠低三下四地求着企业来建数据中心，这种‘政府倒贴’的招商让利政策估计很快就会烟消云散。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;未来，对于科技巨头而言，许可、电网、水资源将成为硬约束，外部环境的改变将直接重塑数据中心项目的投资回报率模型。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 营业利润增长，丰田复苏有几分成色？</title><link>https://wallstreetcn.com/articles/3785290</link><guid>f4e5abb9eec8b72961c1ca3474aa6dc18181479f5f3ad62a3e5ad578b63e496e</guid><pubDate>Thu, 05 Nov 2026 13:00:42 GMT</pubDate><description>&lt;p&gt;丰田的营业利润恢复增长，但这份回升很大部分来自汇率变化而非经营。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 05 Nov 2026 15:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 营业利润增长，丰田复苏有几分成色？</title><link>https://wallstreetcn.com/articles/3785290</link><guid>f4e5abb9eec8b72961c1ca3474aa6dc18181479f5f3ad62a3e5ad578b63e496e</guid><pubDate>Thu, 05 Nov 2026 13:00:42 GMT</pubDate><description>&lt;p&gt;丰田的营业利润恢复增长，但这份回升很大部分来自汇率变化而非经营。&lt;/p&gt;
 &lt;p&gt;11月5日，丰田公布2026财年（2026年4月-2027年3月）第二财季业绩。2026年7—9月，公司营业利润同比增长34.3%，至约1.13万亿日元（约合人民币476.8亿元）；归母净利润却下降18.5%，至7594亿日元（约合人民币321.1亿元）。公司同时将全年营业利润预期从3.4万亿日元（约合人民币1435亿元）上调至3.9万亿日元（约合人民币1646亿元）。&lt;/p&gt;
 &lt;p&gt;混动需求强劲和日元走软，是支撑业绩的两股力量，二者的作用并不相同。前者反映产品竞争力，后者则取决于外部市场变化。&lt;/p&gt;
 &lt;p&gt;丰田披露，本季汇率变动对营业利润的正面贡献达到3400亿日元（约合人民币143亿元），超过营业利润同比增加的2881亿日元（约合人民币122亿元）。按公司披露口径，剔除汇率及掉期等影响后，营业利润同比仅增加100亿日元（约合人民币4.2亿元）。也就是说，账面上的三成增长，并不对应同等幅度的经营能力提升。&lt;/p&gt;
@@ -173,25 +114,25 @@ CCL厂商技术储备就绪，转单承接能力受关注
 
 &lt;p&gt;潜在的转单效应使外界目光迅速聚焦于中国台湾其他CCL厂商的技术实力与产能储备。经济日报指出，&lt;strong&gt;台光电、台燿、联茂、腾辉等厂商此前已持续升级技术路线图，积极布局AI服务器与高性能计算市场。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;工商时报报道，台光电正开发M10级EM-898K4材料，台燿则已推出以石英玻纤布为基材的TU-963Q方案及无玻纤树脂涂覆铜箔（RCC）产品。&lt;/p&gt;
-&lt;p&gt;值得注意的是，松下此前已预判全球CCL供给将持续收紧，并着手扩充产能。据松下今年3月发布的公告，公司计划向松下工业设备材料（广州）有限公司投入约75亿日元，新增一条专门生产MEGTRON多层电路板材料的生产线，预计于2027年4月启动初步生产，并于该财年晚些时候进入量产阶段。湖口厂事故的发生，使这一广州扩产计划的战略意义愈发凸显，但新产能落地之前的供给缺口短期内仍难以弥补。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党大胜引发芯片股抛售狂潮，美股三大指数齐跌、纳指大跌3.3%，费半重挫7%，油价持续回落</title><link>https://wallstreetcn.com/articles/3785235</link><guid>11a8204f8cdce749225c53ebc63a1b43cf6bc2ee48d59201308a8b94e70f4281</guid><pubDate>Thu, 05 Nov 2026 15:08:26 GMT</pubDate><description>&lt;p&gt;受美国中期选举结果推动的市场轮动行情延续至第二日。科技与半导体板块持续承压，而此前表现落后的欧洲、中国等市场及周期性板块明显走强，黄金突破4100美元关口。&lt;/p&gt;
-&lt;p&gt;美股盘初，标普500指数跌1.8%，道琼斯工业平均指数跌0.9%，纳斯达克综合指数跌3.3%。费城半导体指数大跌7%，市场担忧民主党在中期选举中的全面胜利将导致美国数据中心监管趋严，进而压制半导体需求。&lt;/p&gt;
+&lt;p&gt;值得注意的是，松下此前已预判全球CCL供给将持续收紧，并着手扩充产能。据松下今年3月发布的公告，公司计划向松下工业设备材料（广州）有限公司投入约75亿日元，新增一条专门生产MEGTRON多层电路板材料的生产线，预计于2027年4月启动初步生产，并于该财年晚些时候进入量产阶段。湖口厂事故的发生，使这一广州扩产计划的战略意义愈发凸显，但新产能落地之前的供给缺口短期内仍难以弥补。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌7%，黄金站上4100</title><link>https://wallstreetcn.com/articles/3785235</link><guid>11a8204f8cdce749225c53ebc63a1b43cf6bc2ee48d59201308a8b94e70f4281</guid><pubDate>Thu, 05 Nov 2026 15:08:26 GMT</pubDate><description>&lt;p&gt;受美国中期选举结果推动的市场轮动行情延续至第二日。科技与半导体板块持续承压，而此前表现落后的欧洲、中国等市场及周期性板块明显走强，黄金突破4100美元关口。&lt;/p&gt;
+&lt;p&gt;美股跌幅持续扩大，标普500指数跌2.4%，道琼斯工业平均指数跌1.3%，纳斯达克综合指数跌3.9%。费城半导体指数大跌10%，市场担忧民主党在中期选举中的全面胜利将导致美国数据中心监管趋严，进而压制半导体需求。&lt;/p&gt;
 &lt;p&gt;美股AI硬件产业链遭遇集体抛售，芯片、存储、半导体设备及光通信板块普遍大幅下跌。&lt;/p&gt;
-&lt;p&gt;英伟达跌5.6%，创4月份以来盘中新低。闪迪大跌16%，AMD跌12.94%，台积电跌6.99%，博通跌5.35%，英特尔跌8.12%，高通跌9.00%，Arm跌10.65%。西部数据跌12.78%，希捷科技跌12.74%，美光科技跌10.78%，SK海力士跌9.41%。迈威尔科技跌10.03%，Lumentum跌12.21%。&lt;/p&gt;
+&lt;p&gt;英伟达大跌7%，创4月份以来盘中新低。闪迪大跌16%，AMD跌12.94%，台积电跌6.99%，博通跌5.35%，英特尔跌8.12%，高通跌9.00%，Arm跌10.65%。西部数据跌12.78%，希捷科技跌12.74%，美光科技跌10.78%，SK海力士跌9.41%。迈威尔科技跌10.03%，Lumentum跌12.21%。&lt;/p&gt;
 &lt;p&gt;特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/p&gt;
 &lt;p&gt;苹果涨1.4%，该公司一年多来首次进军投资级债券市场。微软跌0.4%，该公司接连撤单Nscale（先砍30亿英国合同，再弃得州扩容订单）。&lt;/p&gt;
 &lt;p&gt;此次轮动的最大受益者集中在欧洲和亚洲。欧洲斯托克600指数突破此前收盘高点，进一步收窄今年相对于标普500指数的落差。中国和澳大利亚成为亚洲表现最强的市场。与此同时，受芯片需求前景拖累，韩国存储芯片巨头三星电子与SK海力士均重挫逾7%。&lt;/p&gt;
 &lt;p&gt;其他资产方面，英国国债在英格兰行宣布加息后由涨转跌；黄金延续选举后涨势，突破每盎司4100美元。美元走势趋稳，布伦特原油收复周三部分跌幅，交投于每桶97美元附近。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;美股盘初，标普500指数跌1.8%，道琼斯工业平均指数跌0.9%，纳斯达克综合指数跌3.3%。费城半导体指数大跌7%，&lt;/li&gt;
-&lt;li&gt;英伟达跌5.6%，创4月份以来盘中新低。闪迪大跌16%，AMD跌12.94%，台积电跌6.99%，博通跌5.35%，英特尔跌8.12%，高通跌9.00%，Arm跌10.65%。闪迪跌13.77%，西部数据跌12.78%，希捷科技跌12.74%，美光科技跌10.78%，SK海力士跌9.41%。迈威尔科技跌10.03%，Lumentum跌12.21%。特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/li&gt;
+&lt;li&gt;美股跌幅持续扩大，标普500指数跌2.4%，道琼斯工业平均指数跌1.3%，纳斯达克综合指数跌3.9%，费城半导体指数大跌10%。&lt;/li&gt;
+&lt;li&gt;英伟达大跌7%，创4月份以来盘中新低。闪迪大跌16%，AMD跌12.94%，台积电跌6.99%，博通跌5.35%，英特尔跌8.12%，高通跌9.00%，Arm跌10.65%。闪迪跌13.77%，西部数据跌12.78%，希捷科技跌12.74%，美光科技跌10.78%，SK海力士跌9.41%。迈威尔科技跌10.03%，Lumentum跌12.21%。特斯拉股价跌幅扩大至10%，SpaceX跌7.5%。&lt;/li&gt;
 &lt;li&gt;纳斯达克金龙中国指数涨2.5%，报5871.98点。中概股阿里巴巴涨5%，金山云涨7.5%，世纪互联涨4.7%，网易涨4.5%，携程、B站、理想至多涨3.7%，新东方、拼多多至少涨2.5%，百度涨0.5%，日月光半导体跌11.4%。&lt;/li&gt;
 &lt;li&gt;美元现货指数下跌0.2%。&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率下行至多5个基点，触及9月10日以来低点4.84%。&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率跌超3个基点，逼近4.85%。&lt;/li&gt;
 &lt;li&gt;现货黄金直线拉升，盘中突破4100美元/盎司关口，涨超0.9%；上一个交易日现货黄金收报4062.9美元/盎司，日内涨超3.3%。&lt;/li&gt;
 &lt;li&gt;现货白银同步走高，涨超0.6%，报52.5美元/盎司。&lt;/li&gt;
 &lt;li&gt;布伦特原油日内涨幅达2.5%，突破97美元/桶，报97.06美元/桶。&lt;/li&gt;
-&lt;li&gt;比特币上涨0.4%，报80,498.06美元。&lt;/li&gt;
+&lt;li&gt;比特币日内跌幅达5.0%，报76245美元。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
@@ -404,4 +345,37 @@ Anthropic IPO成为科技股&amp;quot;全面翻多&amp;quot;关键节点
 &lt;p&gt;前三季度0.29%的营收增长，能够为风险消化提供的支持依然有限；&lt;/p&gt;
 &lt;p&gt;另一边，房地产和零售信贷风险仍需处置，不良贷款余额继续增加，减值支出也在上升。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;光大已经让收入重新回到增长区间，但要将这份增长留在利润表的最后一行，还需要业务收入更稳定，风险成本逐步减轻。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在此之前，收入回暖只是利润修复的开始。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 苹果2026财年财报纵横分析(PPT)-20261105</title><link>http://www.xueqiu.com/1965756146/415627520</link><guid>03d7ce4b3090af5ce697233a9b7017ff9d31e69c086d477abdddb40f010dad2f</guid><pubDate>Thu, 05 Nov 2026 09:35:45 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;悦云轩&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/AAPL"&gt;$苹果(AAPL)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/GOOG"&gt;$谷歌C(GOOG)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/MSFT"&gt;$微软(MSFT)$&lt;/a&gt; &lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[今日雪球] 有点意思！Q3财报，低估区反而在改善？（11.05）</title><link>http://www.xueqiu.com/9391624441/415645532</link><guid>45c67d4e880aad565ce8162ecefae65542b8373cb445dec3848378a4af8cfeb5</guid><pubDate>Thu, 05 Nov 2026 09:35:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;这两天，市场出现明显的反弹，成交量再次攀升，泛科技、黄金、创新药等均有表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么华尔街开始重估AI大模型的资本回报</title><link>http://www.xueqiu.com/1025819408/415629277</link><guid>4792728331b6e2f9151323691947001d45fa9ccc2de2b3601de805ccb33772da</guid><pubDate>Thu, 05 Nov 2026 09:35:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;西峯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年入秋以来，全球科技资本市场出现了一道耐人寻味的裂痕。一方面，北美云巨头与头部AI大模型的账面营收仍在以罕见的斜率扩张；另一方面，作为算力景气度先行指标的费城半导体指数却步入持续阴跌，上游芯片龙头哪怕交出翻倍增长的财报，换来的往往也是机构资金的逢高派发。与此同时，一级市场的估值狂热正在遇冷：年化收入跑率（ARR）已触及500亿美元的OpenAI将上市计划推迟至2027年，而10月下旬刚刚递交S-1招股书、市场传闻目标估值高达1.5万亿至2万亿美元的Anthropic，则在机构路演中引发了一场关于算力负债与盈利质量的激烈辩论。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;在此之前，收入回暖只是利润修复的开始。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄金牛市命系中东！花旗：局势缓和冲5000美元，僵局持续恐跌至3500</title><link>https://wallstreetcn.com/articles/3785250</link><guid>db0642c319dee23d141b70a8bdec2e756bf215adaf61b424556f7ea03844fe6e</guid><pubDate>Thu, 05 Nov 2026 06:10:19 GMT</pubDate><description>&lt;p&gt;黄金价格走势正处于关键分叉口。花旗最新报告指出，黄金前景高度取决于中东局势走向——若局势缓和，金价有望在未来三个月内升至4500美元/盎司，12个月目标价5000美元；若冲突持续，金价则面临回落至3500美元的风险。&lt;/p&gt;
+&lt;p&gt;花旗大宗商品全球主管Maximilian Layton及贵金属策略师Kenny Hu在报告中将基准情景概率定为60%，&lt;strong&gt;核心逻辑是：霍尔木兹海峡（SoH）重新开放叠加也门/沙特冲突降级，将带动油价回落、美联储从加息转向降息，从而重燃黄金投资需求。&lt;/strong&gt;在此情景下，花旗将黄金0至3个月目标价从此前的4800美元下调至4500美元，6至12个月目标价维持5000美元。&lt;/p&gt;
+&lt;p&gt;目前黄金市场呈现出两种截然相反的信号：实物需求走弱，但ETF持仓保持韧性、央行购金延续强劲。花旗分析师指出，&lt;strong&gt;纸面黄金（期货）空头头寸已大量出清，若中东局势出现积极进展，市场存在充足的&amp;quot;干火药&amp;quot;驱动金价反弹。&lt;/strong&gt;&lt;/p&gt;
+
+中东局势主导金价走向，三种情景概率各异
+
+&lt;p&gt;花旗将金价前景明确界定为&amp;quot;二元结构&amp;quot;，高度依赖中东地缘政治演变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在基准情景（60%概率）下，花旗预计霍尔木兹海峡最终将在2026年四季度恢复正常通行，布伦特原油随之回落至65至70美元/桶。油价下行将推动美联储从加息周期转向降息，实际利率走低有利于黄金投资需求回升，并带动新兴市场购金能力提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在牛市情景（10%概率）下&lt;/strong&gt;，若美伊迅速达成协议、油价大幅下滑，美联储快速转鸽，美元明显走弱，全球将形成涵盖纸黄金与实物黄金的强势动量行情，金价有望超越基准目标。&lt;/p&gt;
+&lt;p&gt;在熊市情景（30%概率）下，霍尔木兹海峡局势持续僵持，沙特/也门冲突继续扰动能源供应，通胀维持高位，美联储被迫维持加息，全球及新兴市场投资需求受压，金价下行目标为3500美元/盎司。&lt;/p&gt;
+&lt;p&gt;报告还特别提示，&lt;strong&gt;若中东局势大幅升级冲击能源基础设施，可能触发跨资产去杠杆，短期内拖累金价；但这一最坏情景最终将演变为对黄金有利的&amp;quot;滞胀交易&amp;quot;，推动资金流向黄金以寻求安全资产保护。&lt;/strong&gt;&lt;/p&gt;
+
+实物需求走弱，ETF与央行买盘支撑市场
+
+&lt;p&gt;根据花旗引用的世界黄金协会（WGC）三季度数据，&lt;strong&gt;全球黄金年化总支出已从2026年一季度约1.15万亿美元降至三季度约820亿美元，降幅显著。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;实物需求分化明显。金条和金币投资需求延续下滑，珠宝需求则在无衰退环境下维持韧性。与此同时，黄金ETF在8月Scott Bessent宣布相关政策后出现大规模净流入，重燃市场对货币贬值的对冲需求。从地区分布看，英国、美国和中国是拉动ETF流入的主要市场，过去12个月净流入量分别约为27%、17%和30%（以各自占比计）。&lt;/p&gt;
+&lt;p&gt;央行购金维持强劲。花旗报告显示，2026年三季度央行购金量在二季度大幅反弹后继续走强，以中国和波兰为主要买家。黄金目前占全球央行储备的比例约为33%，为近30年最高水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;中国市场方面，上海黄金交易所溢价在国庆黄金周前后一度走强，但近期明显回落，二季度达到历史高位后三季度出现回落。&lt;/p&gt;
+&lt;p&gt;印度方面，高进口关税持续压制进口需求。9月黄金进口量仅约0.41百万盎司，环比下降19%，同比下降84%。花旗估计四季度印度进口量约为340万盎司，仍远低于历史四季度均值680万盎司。&lt;/p&gt;
+
+结构性多头逻辑完整，但物理市场天花板制约涨幅
+
+&lt;p&gt;花旗报告列举了支撑黄金长期牛市的多重结构性因素：美国高债务引发的货币贬值担忧；去美元化与主权储备多元化趋势；以及AI带来的就业不确定性推动家庭对冲需求上升。&lt;/p&gt;
+&lt;p&gt;花旗还提及，若美联储主席Kevin Warsh及新委员会将2%的通胀目标调整为类似澳大利亚的2%至3%区间，这将成为2027年一季度黄金的强力催化剂。&lt;/p&gt;
+&lt;p&gt;然而，实物黄金市场的体量限制构成价格天花板。花旗测算，年度矿山供应量仅约为全球家庭财富的0.1%，意味着家庭资产配置中黄金占比提升0.1个百分点，就需要将年度矿山供应翻倍。全球家庭持有黄金的比例目前约为净财富的3.2%，&lt;strong&gt;已是近50年最高水平，历史性高配将制约新增需求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告同时警告，过去约3.5年间，黄金持有者已累计获得约12万亿美元的账面收益，&lt;strong&gt;若出现哪怕相对小规模的&amp;quot;再平衡&amp;quot;抛售，均足以对实物市场造成重大冲击——这一特征使黄金在资金流向逆转时面临类似比特币式的剧烈波动风险。&lt;/strong&gt;&lt;/p&gt;
+
+矿山供应短期无法响应高价，投资需求仍是核心驱动
+
+&lt;p&gt;尽管当前金价处于历史高位，矿山供应的响应仍十分有限。花旗数据显示，高成本金矿矿商利润率目前处于半个世纪以来的历史高位，但历史经验表明，矿山供应对价格上涨的实质性响应往往滞后3至10年。目前尚无迹象显示供应端即将放量。&lt;/p&gt;
+&lt;p&gt;这一格局意味着，金价涨跌的核心变量仍在于投资需求的波动。花旗指出，当前金价走势与美联储利率路径、美元强弱以及跨资产风险偏好的相关性远高于实物供需基本面，投资者对此应保持清醒认识。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 苹果2026财年财报纵横分析(PPT)-20261105</title><link>http://www.xueqiu.com/1965756146/415627520</link><guid>03d7ce4b3090af5ce697233a9b7017ff9d31e69c086d477abdddb40f010dad2f</guid><pubDate>Thu, 05 Nov 2026 09:35:45 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;悦云轩&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/AAPL"&gt;$苹果(AAPL)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/GOOG"&gt;$谷歌C(GOOG)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/MSFT"&gt;$微软(MSFT)$&lt;/a&gt; &lt;a href="https://xueqiu.com/n/今日话题"&gt;@今日话题&lt;/a&gt; &lt;/p&gt;</description></item><item><title>[今日雪球] 有点意思！Q3财报，低估区反而在改善？（11.05）</title><link>http://www.xueqiu.com/9391624441/415645532</link><guid>45c67d4e880aad565ce8162ecefae65542b8373cb445dec3848378a4af8cfeb5</guid><pubDate>Thu, 05 Nov 2026 09:35:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;这两天，市场出现明显的反弹，成交量再次攀升，泛科技、黄金、创新药等均有表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 为什么华尔街开始重估AI大模型的资本回报</title><link>http://www.xueqiu.com/1025819408/415629277</link><guid>4792728331b6e2f9151323691947001d45fa9ccc2de2b3601de805ccb33772da</guid><pubDate>Thu, 05 Nov 2026 09:35:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;西峯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026年入秋以来，全球科技资本市场出现了一道耐人寻味的裂痕。一方面，北美云巨头与头部AI大模型的账面营收仍在以罕见的斜率扩张；另一方面，作为算力景气度先行指标的费城半导体指数却步入持续阴跌，上游芯片龙头哪怕交出翻倍增长的财报，换来的往往也是机构资金的逢高派发。与此同时，一级市场的估值狂热正在遇冷：年化收入跑率（ARR）已触及500亿美元的OpenAI将上市计划推迟至2027年，而10月下旬刚刚递交S-1招股书、市场传闻目标估值高达1.5万亿至2万亿美元的Anthropic，则在机构路演中引发了一场关于算力负债与盈利质量的激烈辩论。&lt;/p&gt;</description></item></channel></rss>
