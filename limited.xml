@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 01:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] 首席风险官再离职！实力券商合并后的"人才洗牌"</title><link>https://wallstreetcn.com/articles/3785403</link><guid>3751e46e5ba32718b0c9a4713e6daed6efae46fb476715a4508c324ba6ac69c7</guid><pubDate>Fri, 06 Nov 2026 19:39:54 GMT</pubDate><description>&lt;p&gt;同一天，两份公告。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 02:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”</title><link>https://wallstreetcn.com/articles/3785423</link><guid>f63787c45e3630f718156a998a2b5c3308259f95b2b2ecf7a8d8047966a54cf0</guid><pubDate>Sat, 07 Nov 2026 02:04:48 GMT</pubDate><description>&lt;p&gt;积累已久的AI泡沫忧虑，在一场选举结果面前骤然引爆。&lt;/p&gt;
+&lt;p&gt;美国中期选举民主党大胜国会，本应是一个&amp;quot;风险出清&amp;quot;的信号——股市最初也如此反应。但不到24小时，华尔街完成了从庆祝到恐慌的戏剧性翻转。周四，纳斯达克100指数录得2020年3月以来最大单日跌幅，单日蒸发市值2.3万亿美元；自10月6日高点计算，美国股市累计市值损失已达5.7万亿美元。VIX恐慌指数从16.6点飙升至近28点，创下史上从最平静起点出发、升幅最为剧烈的波动事件之一。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;导火索是市场对民主党政策立场的重新定价——尤其是后者对AI数据中心大规模扩张的深度质疑。这一政治变量叠加早已高度拥挤的AI交易仓位，形成了散户、对冲基金、量化策略三路同时踩踏的罕见景象。这场抛售的破坏力之所以如此惊人，在于它几乎没有给任何人留下反应时间，从散户率先出逃，到对冲基金跟进，再到量化策略机械性平仓——在短短数小时内完成。&lt;/p&gt;
+
+选举夜：从庆祝到困惑
+
+&lt;p&gt;周二夜间，民主党的压倒性胜势超出预期。据华尔街日报报道，投资研究机构负责人Ben Emons坐在曼哈顿办公室，从晚上9点到午夜，电话铃声几乎没有停过。他一边接听客户来电，一边在桌边做俯卧撑提神。&amp;quot;人们被打了个措手不及，&amp;quot;他说，&amp;quot;这是一个真正的冲击事件。&amp;quot;&lt;/p&gt;
+&lt;p&gt;彼时，股指期货在初步计票时一度下滑，但随着民主党胜势清晰、特朗普公开表示接受选举结果，期货迅速翻红。Key Private Bank首席投资官George Mateyo在家中边看直播边与同事发短信，他的判断是：选举后出现激烈争议的风险已经消散，市场理应对此表示欢迎。&lt;/p&gt;
+&lt;p&gt;这一判断在周三上午得到了印证。建筑、零售等&amp;quot;实体经济&amp;quot;板块大涨，道指录得4月以来最佳单日表现。华尔街短暂地松了一口气——以为选举的不确定性已经一笔勾销。&lt;/p&gt;
+&lt;p&gt;然而，这场反弹很快被证明是一次假突破。&lt;/p&gt;
+散户率先出逃，恐慌情绪蔓延社交媒体
+&lt;p&gt;周四的抛售，最先由散户点燃。&lt;/p&gt;
+&lt;p&gt;开盘后的头半小时，纳斯达克指数急速下挫，个人投资者的净卖出规模创下历史性纪录。据分析机构Vanda Research数据，&lt;strong&gt;周四单日散户净卖出规模仅次于2020年3月新冠疫情冲击期间的两个交易日。摩根大通市场情报部门则指出，散户卖出量偏离正常水平逾三个标准差。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;我早上7点就开始工作了，&amp;quot;哥伦比亚大学工程系研究生、哥伦比亚期权与期货交易俱乐部成员Raphael Monges说，&amp;quot;我看到市场开盘，纳斯达克跌得飞快，然后是标普。纳斯达克太疯狂了，所有AI股都在砸盘。我的手机开始不停震动，所有人都在盯着股票，全是红色。&amp;quot;&lt;/p&gt;
+&lt;p&gt;旧金山投资者兼内容创作者Kevin Xu在周四上午10点半瞥了一眼行情，随即愣住了。纳斯达克已经跌了4%，他的退休账户一夜之间蒸发了六位数。&amp;quot;什么都做不了，&amp;quot;他说，&amp;quot;只能看着。&amp;quot;在他的社交媒体信息流里，其他散户投资者有的发表情包，有的用全大写字母发泄情绪，还有人贴出了心理健康热线的电话号码。&lt;/p&gt;
+&lt;p&gt;加州50岁的散户交易者Joel Rieger没有在这波动荡中调整仓位。&amp;quot;昨天的投资组合遭受了沉重打击，到处都是红色，&amp;quot;他说，&amp;quot;短期内会很痛。&amp;quot;&lt;/p&gt;
+对冲基金跟进，机构抛售无人接盘
+&lt;p&gt;散户的出逃只是序幕。随着市场方向确立，对冲基金和长线资产管理人相继加入抛售行列，而另一侧几乎没有买家出现。&lt;/p&gt;
+&lt;p&gt;据彭博社报道，&amp;quot;机构投资者已经退场，而散户和系统性策略正在激进抛售，&amp;quot;Vanda全球宏观策略师Viraj Patel在报告中写道，&amp;quot;这种资金流动态势，在真正的市场压力时期之外极为罕见。&amp;quot;&lt;/p&gt;
+&lt;p&gt;摩根大通全球股票高接触交易联席主管Ron Adler在现金交易台目睹了全程——&lt;strong&gt;当日交易量较平时激增50%。&amp;quot;我们看到的部分是投资组合的痛苦和无差别抛售，&lt;/strong&gt;&amp;quot;他在给客户的报告中写道，&amp;quot;今天资金流向的坦率程度在方向上是合理的，但规模之大令人咋舌。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据高盛Prime经纪台估算，基本面多空对冲基金周四单日亏损1.3%，属于两个标准差事件；科技主题基金跌幅超过4%，年初至今收益几乎归零。动量策略遭受了3.7个标准差的损失。摩根士丹利数据则显示，对冲基金总杠杆率自6月峰值以来的降幅，已是十余年来最大。&lt;/p&gt;
+量化平仓接力，系统性卖压自我强化
+&lt;p&gt;当市场跌势确立，一系列量化交易机制被触发，将抛售压力推向新的量级。&lt;/p&gt;
+&lt;p&gt;野村证券跨资产策略董事总经理Charlie McElligott估算，周四盘中期权交易商的负Gamma敞口约为每1%市场波动对应70亿美元——即股市每下跌1%，交易商就需额外卖出70亿美元股票以对冲风险。与此同时，&lt;strong&gt;波动率控制基金需要抛售约610亿美元股票，其中250亿美元来自周三尚未完成的平仓；杠杆ETF的收盘再平衡则将再贡献约470亿美元的卖盘。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;趋势跟踪量化基金（CTA）也在同步撤退。据Vanda估算，CTA在标普500和纳斯达克期货上合计卖出约130亿美元，持仓降至历史低位附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;巴克莱估计，波动率控制基金单日削减股票敞口达30个百分点，为2020年2月新冠疫情冲击以来最大单日降幅。&amp;quot;与客户的对话告诉我，他们在这个时点进一步降低风险的动力更强了，&amp;quot;McElligott写道，&amp;quot;反馈的主题是：保住年初至今剩余的一点点收益，活着进入明年的新资本和新风险周期。&amp;quot;&lt;/p&gt;
+&lt;p&gt;下午3点，纳斯达克跌幅已达4.5%，部分交易员还在期待最后一小时的反弹。结果抛售进一步加剧，标普500指数收于当日低点附近，录得去年4月以来最大单日跌幅。&lt;/p&gt;
+AI板块遭到清算，损伤集中而深重
+&lt;p&gt;这场抛售的破坏力高度集中于AI相关板块。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;存储芯片、光网络、数据中心及AI半导体等细分板块单日跌幅达12%至15%，属于五至六个标准差的极端波动。约十余个AI股票篮子均创下自2022年11月ChatGPT发布以来的最差单日表现。其中跌幅最重的存储和光通信篮子，已较6月高点腰斩，跌幅超过过去四年任何一次回调。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至周四收盘，纳斯达克100指数成分股中有57%较高点跌逾20%，这一比例甚至高于2022年3月该指数本身进入熊市时的水平。&lt;/p&gt;
+&lt;p&gt;这场崩盘之所以显得格外戏剧性，部分原因在于它几乎从平静中骤然爆发。VIX在周四开盘时仅为16.6点，低于一年均值；收盘时已接近28点。自1980年以来，标普500在前一日上涨1.5%后次日下跌2%以上的情形仅出现过48次，几乎全部发生在熊市或危机期间。&lt;/p&gt;
+政治冲击叠加旧忧，AI叙事面临重新定价
+&lt;p&gt;市场的剧烈反应，折射出投资者对AI投资逻辑的深层焦虑。&lt;/p&gt;
+&lt;p&gt;在选举之前，市场已对AI交易的可持续性存有疑虑：科技巨头资本开支持续膨胀、现金储备收缩、数据中心运营商资产负债表上债务堆积。民主党的胜选则叠加了一层新的政治风险——民主党对数据中心扩张的强烈抵制，尤其是在德克萨斯、俄亥俄、佐治亚等已成为数据中心建设关键战场的州，令AI基础设施建设的前景蒙上阴影。&lt;/p&gt;
+&lt;p&gt;美银分析师Michael Hartnett指出，&lt;strong&gt;在受访选民中，高达76%的人反对在自己社区附近新建数据中心，这正成为AI基础设施扩张的严峻障碍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Man Group高级投资组合经理Matt Rowe表示，选举结果提供了&amp;quot;可量化的证据，证明公众对数据中心建设存在真实的反感&amp;quot;，这&amp;quot;开始改变我对这些项目落地概率的判断&amp;quot;。&amp;quot;所有条件不变的情况下，这些项目将需要更长时间推进，成本也将更高。&amp;quot;&lt;/p&gt;
+&lt;p&gt;Causeway Capital Management投资组合经理Joe Gubler指出，&amp;quot;总会有输家，并非每个押注在资本支出上的人都能成为赢家。&amp;quot;&lt;/p&gt;
+&lt;p&gt;另一边，提前离场的投资者则避开了这场风暴。Jeff Muhlenkamp在暴跌前几乎清空了基金内全部AI持仓，其规模2.75亿美元的投资组合11月以来基本持平，全年跑赢标普500。&amp;quot;我们卖掉了昂贵而流行的，买入了便宜而被遗忘的，&amp;quot;他说，&amp;quot;当动量转向，我们受益。&amp;quot;&lt;/p&gt;
+市场寻找出路
+&lt;p&gt;在AI交易遭到清算的同时，投资者正在寻找新的避风港——但这条路并不平坦。&lt;/p&gt;
+&lt;p&gt;早在选举之前，资金已开始向公用事业、必需消费品等估值更低的防御性板块轮动。10月份，成长股跑输价值股达10个百分点，为2001年以来最大单月差距。然而周四的暴跌表明，这些新宠板块同样未能抵御科技股崩盘的冲击波。&lt;/p&gt;
+&lt;p&gt;部分投资者则提前布局，得以全身而退。基金经理Jeff Muhlenkamp在暴跌前已清仓几乎所有AI持仓，其2.75亿美元的投资组合11月基本持平，年初至今跑赢标普500。&amp;quot;我们卖掉了贵的、热门的，买入了便宜的、被遗忘的，&amp;quot;他说，&amp;quot;当动量转向，我们受益。&amp;quot;&lt;/p&gt;
+&lt;p&gt;周五，芯片股率先反弹，纳斯达克100指数一度回升逾2.6%，但各主要股指全周仍以下跌收场，标普500周跌幅为2.68%。Bright Trading的资深交易员Sinisa Sorgic，当天做空台积电美股，却因后者盘中反弹逾7.8%而&amp;quot;被烧伤&amp;quot;。他总结这一周的感受：&lt;strong&gt;&amp;quot;昨天是一场血战。现在市场太疯狂了，根本不敢全力冲进去抄底。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场分歧已然浮现。Key Private Bank的Mateyo认为，州级法规会延缓、但不会阻止数据中心的建设，公众对AI的疑虑或将随着实际使用的普及而逐步消退。Wellington Management的Casaletto则态度审慎，认为AI扩张速度放缓的趋势已经确立。&lt;/p&gt;
+&lt;p&gt;这场风暴究竟是AI牛市中期的一次剧烈震荡，还是更深层周期转换的开端，华尔街尚无定论。但一个现实已经清晰：当政治风向与拥挤仓位同时转向，市场所能提供的缓冲，远比想象中要薄得多。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 首席风险官再离职！实力券商合并后的"人才洗牌"</title><link>https://wallstreetcn.com/articles/3785403</link><guid>3751e46e5ba32718b0c9a4713e6daed6efae46fb476715a4508c324ba6ac69c7</guid><pubDate>Fri, 06 Nov 2026 19:39:54 GMT</pubDate><description>&lt;p&gt;同一天，两份公告。&lt;/p&gt;
 &lt;p&gt;11月4日晚，国联民生同时披露两则消息：全资子公司民生证券参与国联期货换股吸收合并民生期货，民生期货解散注销，&amp;quot;一总部+八家专业子公司&amp;quot;架构就此收官；&lt;/p&gt;
 &lt;p&gt;同日，公司首席风险官江志强因工作调整辞职，辞职后不再在公司及控股子公司担任任何职务。由此带来了又一轮高管变动的契机。&lt;/p&gt;
 &lt;strong&gt;谁是&lt;/strong&gt;&lt;strong&gt;江志强&lt;/strong&gt;&lt;strong&gt;？&lt;/strong&gt;
@@ -91,18 +139,7 @@
 &lt;p&gt;高管接连变动、骨干流失，这些人才&amp;quot;洗牌&amp;quot;带来的影响，目前在国联民生证券的报表上还看不出来。&lt;/p&gt;
 &lt;p&gt;最新三季报显示，公司前三季度营收与净利润实现双增，回购计划与控股股东增持方案相继推出，说明架构整合目前在报表上更多的体现为正效应。&lt;/p&gt;
 &lt;p&gt;当然，这也是一家国联民生这样实力和梯队齐整的券商必然会表现的一面。长期来说，结果怎样，还需要时间的答案。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股大跌次日，美国白宫突然取消顶级科技顾问会议</title><link>https://wallstreetcn.com/articles/3785414</link><guid>dda0096a9d750e144938ce002950c7503894e0eccea863508f52a12249073fb6</guid><pubDate>Fri, 06 Nov 2026 23:18:40 GMT</pubDate><description>&lt;p&gt;科技股大跌与政策不确定性叠加，美国白宫取消了一场原定于周五举行的高层科技顾问会议。&lt;/p&gt;
-&lt;p&gt;11月6日据路透社报道，美国能源部发言人证实，&lt;strong&gt;特朗普政府取消了原定于周五举行的白宫科技顾问委员会会议，英伟达CEO黄仁勋与Meta CEO扎克伯格均为该委员会成员&lt;/strong&gt;。白宫方面未就取消原因作出回应。&lt;/p&gt;
-&lt;p&gt;此次会议取消恰逢科技板块剧烈震荡。科技股周四大幅下跌，市场对民主党主导的新一届国会可能拖慢人工智能发展进程、以及AI巨额资本支出能否获得足够回报的担忧持续升温。&lt;/p&gt;
-&lt;p&gt;这一市场动荡已引发硅谷高管与华盛顿政策制定者对该行业的更广泛审视。&lt;/p&gt;
-
-委员会成员阵容与职能
-
-&lt;p&gt;此次取消的会议原本召集的是&amp;quot;总统科学与技术顾问委员会&amp;quot;（President&amp;#x27;s Council of Advisors on Science and Technology），这是一个为特朗普总统提供咨询的外部顾问机构。&lt;/p&gt;
-&lt;p&gt;根据最初的会议公告，该委员会原计划就特朗普新成立的AI工作组提供建议。这一工作组被命名为&amp;quot;超级智能工作组&amp;quot;，成员涵盖内阁官员、特朗普任命的官员及白宫工作人员。&amp;quot;超级智能&amp;quot;是特朗普本人对人工智能的惯用表述。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;能源部的会议页面一度短暂显示11月13日为新的会议日期，但该机构随后发送电子邮件予以撤回。目前，重新召开会议的具体时间尚不明确。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;委员会成员除黄仁勋与扎克伯格外，还包括AMD CEO苏姿丰、甲骨文首席技术官Larry Ellison，以及Andreessen Horowitz联合创始人Marc Andreessen。&lt;/p&gt;
-&lt;p&gt;委员会联席主席由风险投资人David Sacks与白宫科技顾问Michael Kratsios担任。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Oklo创逾一年最大涨幅！Q3业绩超预期，首座商业化核电站进入主体结构施工阶段｜财报见闻</title><link>https://wallstreetcn.com/articles/3785409</link><guid>9278d77d62dea83ba477ce8902e36abf3183f3c9c1a428679d5a3c17469b4592</guid><pubDate>Fri, 06 Nov 2026 21:22:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;核电初创公司Oklo三季度业绩好于市场预期，爱达荷州Aurora核电站建设也取得实质性进展，主体结构钢架已开始安装，反应堆区域开挖完成。公司同时获得美国能源部初步安全分析批准，并与制造商签署长期产能预留协议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Oklo创逾一年最大涨幅！Q3业绩超预期，首座商业化核电站进入主体结构施工阶段｜财报见闻</title><link>https://wallstreetcn.com/articles/3785409</link><guid>9278d77d62dea83ba477ce8902e36abf3183f3c9c1a428679d5a3c17469b4592</guid><pubDate>Fri, 06 Nov 2026 21:22:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;核电初创公司Oklo三季度业绩好于市场预期，爱达荷州Aurora核电站建设也取得实质性进展，主体结构钢架已开始安装，反应堆区域开挖完成。公司同时获得美国能源部初步安全分析批准，并与制造商签署长期产能预留协议。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Oklo周五大幅走高，盘中一度上涨25%，最终收涨23%，创2025年9月以来最大涨幅。公司最新公布的第三季度财报好于市场预期，同时，其位于美国爱达荷州的首座Aurora先进核电站建设取得重要进展，主体结构施工已经启动。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次上涨还受到核电板块整体反弹的推动。周五，核电概念股普遍走高，NuScale Power一度上涨约15%，Nano Nuclear Energy上涨约9%。此前受美国中期选举后市场抛售压力影响，核电及AI电力相关股票经历了一轮调整。&lt;/p&gt;
@@ -128,7 +165,55 @@ Aurora核电站进入主体结构施工阶段，DOE批准初步安全分析
 &lt;p&gt;尽管建设进展提振市场情绪，Oklo目前仍处于大规模资本投入和商业化落地阶段，尚未实现核电业务规模化运营。&lt;/p&gt;
 &lt;p&gt;财报显示，公司今年前三季度经营活动现金流出1.109亿美元，资本开支达到2.809亿美元。公司预计2026年全年经营活动现金流出为1.2亿至1.5亿美元，房地产、厂房及设备支出预计为4亿至5亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;31.3亿美元的现金及证券储备为其多条业务线并行推进提供了资金缓冲，但今年前三季度通过股票发行筹集的23亿美元也意味着融资扩张对现有股东的潜在摊薄影响不容忽视。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对Oklo而言，接下来的关键在于能否将目前的工程建设、燃料制造和监管审批进展，逐步转化为按期投运的核电资产及可持续商业收入。随着Aurora项目进入主体结构施工阶段，市场也将更加关注其后续设备安装、燃料组件制造和启动授权等关键节点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌</title><link>https://wallstreetcn.com/articles/3785404</link><guid>b67d35caaf0b411fdd0155b293b68f99a3fc6f2070a59cb79c063c548296133c</guid><pubDate>Sat, 07 Nov 2026 01:26:33 GMT</pubDate><description>&lt;p&gt;微软正在重新评估此前大举押注外部AI算力供应商的策略。继收紧对AI“新云”（Neocloud）服务商的合作审查后，微软又被曝正逐步终止向甲骨文租用AI云算力的安排。&lt;/p&gt;
+&lt;p&gt;对Oklo而言，接下来的关键在于能否将目前的工程建设、燃料制造和监管审批进展，逐步转化为按期投运的核电资产及可持续商业收入。随着Aurora项目进入主体结构施工阶段，市场也将更加关注其后续设备安装、燃料组件制造和启动授权等关键节点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股大跌次日，美国白宫突然取消顶级科技顾问会议</title><link>https://wallstreetcn.com/articles/3785414</link><guid>dda0096a9d750e144938ce002950c7503894e0eccea863508f52a12249073fb6</guid><pubDate>Fri, 06 Nov 2026 23:18:40 GMT</pubDate><description>&lt;p&gt;科技股大跌与政策不确定性叠加，美国白宫取消了一场原定于周五举行的高层科技顾问会议。&lt;/p&gt;
+&lt;p&gt;11月6日据路透社报道，美国能源部发言人证实，&lt;strong&gt;特朗普政府取消了原定于周五举行的白宫科技顾问委员会会议，英伟达CEO黄仁勋与Meta CEO扎克伯格均为该委员会成员&lt;/strong&gt;。白宫方面未就取消原因作出回应。&lt;/p&gt;
+&lt;p&gt;此次会议取消恰逢科技板块剧烈震荡。科技股周四大幅下跌，市场对民主党主导的新一届国会可能拖慢人工智能发展进程、以及AI巨额资本支出能否获得足够回报的担忧持续升温。&lt;/p&gt;
+&lt;p&gt;这一市场动荡已引发硅谷高管与华盛顿政策制定者对该行业的更广泛审视。&lt;/p&gt;
+
+委员会成员阵容与职能
+
+&lt;p&gt;此次取消的会议原本召集的是&amp;quot;总统科学与技术顾问委员会&amp;quot;（President&amp;#x27;s Council of Advisors on Science and Technology），这是一个为特朗普总统提供咨询的外部顾问机构。&lt;/p&gt;
+&lt;p&gt;根据最初的会议公告，该委员会原计划就特朗普新成立的AI工作组提供建议。这一工作组被命名为&amp;quot;超级智能工作组&amp;quot;，成员涵盖内阁官员、特朗普任命的官员及白宫工作人员。&amp;quot;超级智能&amp;quot;是特朗普本人对人工智能的惯用表述。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能源部的会议页面一度短暂显示11月13日为新的会议日期，但该机构随后发送电子邮件予以撤回。目前，重新召开会议的具体时间尚不明确。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;委员会成员除黄仁勋与扎克伯格外，还包括AMD CEO苏姿丰、甲骨文首席技术官Larry Ellison，以及Andreessen Horowitz联合创始人Marc Andreessen。&lt;/p&gt;
+&lt;p&gt;委员会联席主席由风险投资人David Sacks与白宫科技顾问Michael Kratsios担任。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党摧毁数据中心狂潮？高盛“逆势唱多”：上调预测！</title><link>https://wallstreetcn.com/articles/3785421</link><guid>ad194c20b16ce4c6e2263f930018e7c7f3437ea4b28e263ded0c6ccbd33e7ade</guid><pubDate>Sat, 07 Nov 2026 02:20:55 GMT</pubDate><description>&lt;p&gt;美国数据中心建设热潮遭遇政治逆风，但高盛认为，周期本身远未结束。&lt;/p&gt;
+&lt;p&gt;随着得克萨斯州候任州长Gina Hinojosa呼吁立即对数据中心实施暂停令，市场情绪急剧恶化。纳斯达克指数单周下跌6%，AI动能指数创下史上第五大跌幅，数据中心信用违约互换溢价亦创历史记录。&lt;/p&gt;
+&lt;p&gt;然而高盛逆势上调预测，将&lt;strong&gt;2026年美国数据中心建设支出预期从670亿美元提高至800亿美元，2027年从870亿美元提高至1000亿美元，并首次给出2028年1250亿美元的预测。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛在最新发布的两份研究报告中指出，美国数据中心项目储备规模远超市场担忧所暗示的脆弱程度——&lt;strong&gt;当前已有86GW项目在建，另有约9000亿美元的高可信度待建项目，建设支出增速在进入选举周期前已加速至同比90%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛工程与建筑行业分析师Adam Bubes和IT硬件分析师Michael Ng得出相同结论：&lt;strong&gt;近期政策层面的不确定性导致部分项目活动延期，但不会削减整体市场规模。&lt;/strong&gt;&lt;/p&gt;
+86GW已破土，项目规模远超当前支出水平
+&lt;p&gt;此轮建设周期的加速态势在选举前已十分明显。&lt;/p&gt;
+&lt;p&gt;据高盛引用的美国人口普查局数据，美国数据中心建设支出增速从2024年6月的同比55%，加速至9月的同比90%，第三季度新开工项目数量&amp;quot;明显增加&amp;quot;，折年率规模已接近1000亿美元。&lt;/p&gt;
+&lt;p&gt;Bubes基于Aterio项目追踪数据库（截至10月底数据），将在建项目分为三档：&lt;strong&gt;已破土在建项目&lt;/strong&gt;、&lt;strong&gt;高概率已宣布但尚未开工项目&lt;/strong&gt;，以及&lt;strong&gt;其余项目&lt;/strong&gt;，并按每GW约35亿美元的建设成本（不含服务器、机架、GPU及网络设备）逐档估值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在已破土的约86GW项目中&lt;/strong&gt;，对应建设支出约3000亿美元，约为2025年全年约500亿美元数据中心建设支出的6倍，且其中逾2000亿美元尚未完成投资。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛认为叠加高概率宣布项目后，项目总规模升至约9000亿美元；若将中低概率项目全部纳入，理论机会规模将扩至约1.9万亿美元。&lt;/strong&gt;&lt;/p&gt;
+容量端数据与建设端高度印证
+&lt;p&gt;从容量供给角度，Michael Ng同样得出相近结论。&lt;/p&gt;
+&lt;p&gt;美国目前拥有57GW的总活跃数据中心容量，另有9GW在建，预计到2026年底将达到65GW。进一步依据Aterio追踪的78GW在建项目，预计在2027至2030年间净增容量将使美国总容量倍增至143GW。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ng的核心判断是，仅凭&amp;quot;低风险&amp;quot;的在建容量，便已足以支撑高盛自身的预测&lt;/strong&gt;。按1.5的电源使用效率（PUE）折算为IT负载，在建项目在2027/2028/2029年分别对应净新增22/24/5 GW-IT，与高盛预测的20/24/23 GW-IT高度吻合。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;换言之，高盛2027年和2028年的容量预测已实际落地，2029年及以后才需依赖已宣布但尚未开工的项目来支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ng同时提示一项重要注意事项&lt;/strong&gt;：Aterio对&amp;quot;在建&amp;quot;的定义涵盖场地清理、平整和管线铺设等前期工地作业，而开发商往往在签署租户协议前便已启动上述工作。若遭遇建设暂停令，已动土但尚未获得电力服务协议或环境许可的项目仍可能受波及。&lt;/p&gt;
+得州暂停令：推迟而非终止
+&lt;p&gt;市场当前聚焦的核心政治风险来自得克萨斯州。&lt;/p&gt;
+&lt;p&gt;在对数据中心持审慎立场的五个州（得州、俄亥俄州、内华达州、佐治亚州、密歇根州）中，这五个州合计占在建及高概率项目容量的约42%，其中得州单独占2026至2030年累计净新增容量的26%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，高盛对暂停令的性质作出了重要区分。&lt;/strong&gt;Ng在报告中指出，&amp;quot;暂停令并非禁令或取消，&amp;quot;其影响在于导致投入使用时间延迟（部分情况下可能引发合同取消）、融资成本上升、税收优惠减少以及基础设施资本支出增加。&lt;/p&gt;
+&lt;p&gt;Bubes进一步提出一个被市场低估的观点：在任何人投票之前，2028年的建设时间表本就过于激进——当年理论上将有约55GW容量同时投入使用，&amp;quot;远超历史上容量上线的速度&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛原本便预期部分项目将发生自然滑期，得州新当选州长Gina Hinojosa的暂停令不过是给了这种滑期一个政治理由，而非额外增加了额外的减量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛经济学家同时预期各州暂停令将有条件且较为短暂&lt;/strong&gt;，联邦层面任何新立法仍需参议院两党支持并面临否决风险。&lt;/p&gt;
+&lt;p&gt;就得州而言，据富国银行分析师Jerry Revich的研判，得州立法机构常规会期从2027年1月12日延至5月31日，这段时间可能也是得州暂停期的大致时长，下一个关键节点是12月10日出炉的得州数据中心审计报告。&lt;/p&gt;
+超大规模云厂商支出未现退意
+&lt;p&gt;&lt;strong&gt;需求端同样未出现松动迹象。&lt;/strong&gt;高盛数据显示，超大规模云厂商资本支出预计在2026年达到约8000亿美元，FactSet共识预测2027年约为1.3万亿美元，三大主要公有云服务商合计收入积压订单已超过1.7万亿美元。&lt;/p&gt;
+&lt;p&gt;据Revich援引数据，H100算力租赁价格同比上涨26%，GB200租赁定价年初至今上涨50%，近一个月内进一步上涨12%，显示算力需求依然旺盛，市场仍在持续为计算资源支付溢价。&lt;/p&gt;
+&lt;p&gt;在股票层面，Ng点名IREN在其覆盖范围内得州敞口最高，其73%至87%的数据中心容量位于该州；Celestica（CLS）和Arista（ANET）可能通过服务器及数据中心交换机受到影响；Digital Realty（DLR）和Equinix（EQIX）凭借一、二线都会区资产布局，对开发密集型市场敞口极为有限。&lt;/p&gt;
+TAM或将存续，但高杠杆开发商面临实质风险
+&lt;p&gt;高盛的结论相对审慎，其原话是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们追踪的项目规模较为充裕，或能支撑持续增长，但目前尚不具备为未来路径作出完整背书的可见度。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这一表述精准概括了当前形势的双面性：&lt;strong&gt;在建86GW的规模之大、超大规模云厂商积压订单之厚，以及在市场普遍看空之际出现的极端悲观情绪，均指向建设周期仍具弹性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但Ng的风险提示不容忽视：&lt;strong&gt;延误意味着融资成本上升、税收优惠流失和资本支出增加，在某些情况下还会引发合同取消。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于坐拥1.7万亿美元积压订单的超大规模云厂商而言，时间风险或仅是四舍五入的误差；而对于一家以12.5%利率发行2028年到期债券的高杠杆开发商而言，这可能是生死线。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体市场规模或许能够熬过这段政策阵痛期，但部分高杠杆入场的借款方，恐怕撑不到云开月明的那一天。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌</title><link>https://wallstreetcn.com/articles/3785404</link><guid>b67d35caaf0b411fdd0155b293b68f99a3fc6f2070a59cb79c063c548296133c</guid><pubDate>Sat, 07 Nov 2026 01:26:33 GMT</pubDate><description>&lt;p&gt;微软正在重新评估此前大举押注外部AI算力供应商的策略。继收紧对AI“新云”（Neocloud）服务商的合作审查后，微软又被曝正逐步终止向甲骨文租用AI云算力的安排。&lt;/p&gt;
 &lt;p&gt;据彭博隔夜报道，微软近几个月已开始逐步关闭此前从甲骨文租用的部分计算资源，并决定不再续签相关合同。知情人士称，甲骨文提供的服务器搭载较旧一代英伟达芯片，已不符合微软的技术规格要求，对微软的价值有所下降。&lt;/p&gt;
 &lt;p&gt;消息传出后，甲骨文股价盘中一度跌超5%，早盘大涨的&amp;quot;新云&amp;quot;概念股纷纷回吐涨幅，其中CoreWeave出现短线闪跌，不过甲骨文及多家&amp;quot;新云&amp;quot;服务商最终均收涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -796,58 +881,4 @@ Coatue独善其身，多策略基金分化加剧
 
 &lt;p&gt;在同一场巴伦大会上，马斯克还就旗下另一家公司特斯拉发表了重要表态。&lt;/p&gt;
 &lt;p&gt;马斯克宣布，特斯拉Model Y已成为全球销量最高的车型，覆盖燃油车和电动车所有类别。他特别点出中国市场，称Model Y是中国最畅销的电动车，并直言&amp;quot;中国车企非常厉害&amp;quot;，对本土竞争对手的技术实力给予罕见的公开认可。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;马斯克表示，在全球最大汽车市场与国内品牌的激烈竞争中守住领先位置，本身就说明了Model Y的产品竞争力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI“新云”超跌反弹迅速降温！CoreWeave一度由涨转跌，IREN涨幅腰斩</title><link>https://wallstreetcn.com/articles/3785406</link><guid>11907a19d648e643590a64be657b2c352ac27b994487e317742ec81f25415524</guid><pubDate>Fri, 06 Nov 2026 19:52:12 GMT</pubDate><description>&lt;p&gt;经历前一交易日的猛烈抛售后，AI算力基础设施股票周五一度迎来强劲反弹，但盘中涨势明显降温。&lt;/p&gt;
-&lt;p&gt;CoreWeave由早盘一度上涨9.3%转为下跌，IREN涨幅从盘初的24.6%收窄至约12%，Nebius Group也从一度上涨13.7%回落至约2.4%。截至发稿，CoreWeave周五上涨4.4%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这轮反弹最初受到IREN最新财报提振。该公司AI Cloud业务收入大幅增长，季度营收超过市场预期，为近期遭到重挫的Neocloud板块提供了积极信号。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，财报同时暴露出数据中心项目交付延期、资本开支高企等问题，市场对行业扩张成本和盈利兑现能力的担忧并未消退。&lt;/p&gt;
-&lt;p&gt;周四，AI基础设施股票遭遇大幅抛售。美国中期选举结果引发市场对数据中心建设监管趋严的担忧，叠加&lt;a href="https://wallstreetcn.com/articles/3785307?keyword=%E5%BE%AE%E8%BD%AF"&gt;微软收紧对部分Neocloud供应商项目的审查&lt;/a&gt;，CoreWeave、Nebius和IREN分别下跌约10%、15%和17%。&lt;/p&gt;
-&lt;p&gt;周五的反弹虽然显示部分资金开始回补仓位，&lt;strong&gt;美股午盘微软继续被曝&lt;a href="https://wallstreetcn.com/articles/3785404?keyword=%E5%BE%AE%E8%BD%AF"&gt;逐步关闭此前从甲骨文租用的部分计算资源&lt;/a&gt;，并决定不再续签相关合同。&lt;/strong&gt;消息传出后，甲骨文股价迅速跳水，此前大幅反弹的Neocloud概念股也纷纷回吐涨幅。&lt;/p&gt;
-IREN财报超预期，成为板块反弹催化剂
-&lt;p&gt;IREN周四盘后公布的2027财年第一季度业绩为板块带来一定提振。&lt;/p&gt;
-&lt;p&gt;截至9月30日的季度，&lt;strong&gt;IREN实现营收2.28亿美元，高于分析师预期的2.21亿美元。其中，AI Cloud业务营收达到2亿美元，较上一季度的7100万美元大幅增长。&lt;/strong&gt;公司调整后EBITDA为6600万美元。&lt;/p&gt;
-&lt;p&gt;IREN还披露，其收入积压订单达到203亿美元，反映出AI算力需求仍为业务扩张提供支撑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;业绩公布后，投资者重新评估Neocloud企业的增长前景。IREN股价盘初一度上涨约24.6%，CoreWeave和Nebius也跟随反弹。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，强劲的收入增长并未完全消除市场对IREN执行能力的疑虑。&lt;/p&gt;
-&lt;p&gt;公司表示，由于微软要求调整网络设计，以及供应商交付时间安排发生变化，部分数据中心基础设施交付出现延期。IREN原计划在年底实现超过40亿美元的年化收入运行率目标，现在将时间推迟至2027年1月，甚至可能延后至2月底。&lt;/p&gt;
-&lt;p&gt;与此同时，IREN预计本财年剩余时间资本开支约150亿美元。截至9月底，公司资本承诺已达到189.5亿美元，较三个月前的138.1亿美元明显增加。&lt;/p&gt;
-&lt;p&gt;这意味着，AI Cloud业务的高速增长仍需要持续投入大量资金，而项目延期也可能推迟相关收入的兑现时间。&lt;/p&gt;
-微软连续两天释放收缩信号，不再续租甲骨文部分算力
-&lt;p&gt;周四，彭博报道称，微软正在加强对Nebius、IREN和Nscale部分数据中心项目的监督，并退出其认为风险较高的项目，同时在内部讨论是否继续签署新的Neocloud合作协议。&lt;/p&gt;
-&lt;p&gt;周五美股午盘，彭博援引知情人士再次报道称，微软近几个月已开始逐步关闭此前从甲骨文租用的部分计算资源，并决定不再续签相关合同。&lt;/p&gt;
-&lt;p&gt;报道指出，&lt;strong&gt;随着时间推移，微软租用的计算资源逐渐无法满足其不断变化的技术需求。甲骨文相关服务器搭载的是较早一代英伟达芯片，其对微软的使用价值因此下降。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消息公布后，甲骨文股价迅速由涨转跌，早盘一度上涨3.8%，随后抹平涨幅并刷新日内低点至109.21美元，盘中跌幅一度接近5.2%。&lt;strong&gt;甲骨文方面则强调，公司仍然看到市场对AI基础设施的旺盛需求，包括对较早一代GPU的需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一消息也迅速传导至AI算力租赁概念股。CoreWeave、IREN和Nebius均在早盘大幅反弹后出现明显回落。&lt;/p&gt;
-&lt;p&gt;相关报道进一步加剧了市场对第三方算力供应商商业模式的担忧。&lt;/p&gt;
-&lt;p&gt;对于CoreWeave、Nebius和IREN等企业而言，业务扩张高度依赖数据中心建设、GPU采购以及外部融资。它们需要在项目产生收入之前投入大量资金，因此，电力接入延误、设备交付推迟或客户调整需求，都可能影响收入确认和资金回收周期。&lt;/p&gt;
-&lt;p&gt;融资环境同样构成压力。尤其是CoreWeave，其高杠杆扩张模式已经受到信用市场关注。在AI基础设施投资回报周期仍存在不确定性的背景下，投资者对资本密集型企业的估值容忍度正在下降。&lt;/p&gt;
-民主党胜选引发政策担忧，市场重新审视AI基建投资回报
-&lt;p&gt;除了企业自身的经营问题，政策环境变化也是近期板块剧烈波动的重要背景。&lt;/p&gt;
-&lt;p&gt;美国民主党在中期选举中取得重大胜利后，市场开始担心数据中心建设可能面临更严格的监管审查。得克萨斯州等重要数据中心市场的政策走向尤其受到关注。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据路透援引UBS分析师估计，美国2028年预期新增数据中心容量中，约30%可能面临建设暂停风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在此背景下，&lt;strong&gt;周五早盘的反弹更多受到业绩超预期、科技股整体回升以及前一日大幅下跌后的仓位修复推动。而微软最新披露的算力租赁调整，再度将市场注意力拉回第三方算力供应商的客户需求、技术迭代和资本回报问题。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于CoreWeave、IREN和Nebius而言，AI算力需求增长仍然提供长期业务机会，但大型云服务商能否持续扩大外部采购，以及供应商能否按期交付符合技术要求的算力，正在成为影响行业估值的重要变量。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街预计美国债务上限将于2月触顶，"X日期"或在2027年底前到来</title><link>https://wallstreetcn.com/articles/3785417</link><guid>7e1e6c9d02fcdfa983b7670f550305c7f708e257e10ce4c9b7b084162e5fcdcc</guid><pubDate>Sat, 07 Nov 2026 00:42:46 GMT</pubDate><description>&lt;p&gt;美国债务上限问题再度逼近。华尔街主要金融机构预计，美国财政部最早将于今年2月触及41.1万亿美元的法定借债上限，届时将不得不动用非常规会计手段维持政府运转，而真正的资金耗尽时刻——即所谓&amp;quot;X日期&amp;quot;——预计落在2027年8月至11月之间。&lt;/p&gt;
-&lt;p&gt;11月6日，据彭博报道，美国银行、巴克莱和摩根士丹利的策略师均指出，美国财政部最新融资估算显示，&lt;strong&gt;今年1月至3月净借款规模约为8000亿美元，叠加当前较高的现金余额水平，将使触碰债务上限的时间大幅提前至2月中下旬。美国银行此前的预测为5月前后触顶。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前美国政府债务距41.1万亿美元上限尚不足8000亿美元。美国财政部上周公布的数据还显示，其目标是将3月末现金余额维持在1万亿美元，创下季末目标历史纪录。&lt;/p&gt;
-&lt;p&gt;这一高现金储备安排，意味着剩余借款空间将以更快速度消耗。在国会就是否上调或暂停债务上限达成协议之前，财政部可通过非常规措施争取约3000亿至3500亿美元的额外空间，以暂时规避违约风险。&lt;/p&gt;
-
-现金余额攀升加速上限触碰
-
-&lt;p&gt;美国财政部将季末现金余额目标定于1万亿美元的背后，折射出其融资策略的结构性变化。&lt;/p&gt;
-&lt;p&gt;策略师指出，美国财政部近期加大了对短期国库券的依赖，以满足政府支出和赤字融资需求。&lt;strong&gt;由于短期国库券到期频率高、现金流出规模大，官员倾向于持有更大的流动性缓冲，而这反过来又以更快的速度消耗剩余的法定借款空间，从而将触顶时间大幅前移。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在国会未就债务上限采取行动的基准假设下，各机构对&amp;quot;X日期&amp;quot;的具体时点判断如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;美国银行&lt;/strong&gt;预计&amp;quot;X日期&amp;quot;为2027年11月，但同时警告最早在2027年8月财政部便可能面临&amp;quot;令人不安的紧迫局面&amp;quot;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;巴克莱&lt;/strong&gt;基准预测为2027年8月下旬至9月初，并特别指出9月纳税季至关重要——若税收入账充裕，财政部现金跑道或可延伸至10月，使时间节点的不确定性&amp;quot;尤为突出&amp;quot;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;摩根士丹利&lt;/strong&gt;则预计财政部将在2027年第三季度末耗尽非常规手段，并将附息国债拍卖规模上调的节点推迟至当年11月；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SMBC Nikko Securities America&lt;/strong&gt;认为，由于4月和5月借款能力将有所回升，财政部可能推迟至6月才启用非常规措施，并于9月或10月耗尽现金。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-政治僵局风险不容忽视
-
-&lt;p&gt;债务上限谈判的政治背景同样值得关注。&lt;/p&gt;
-&lt;p&gt;民主党赢得国会多数席位，增加了其与特朗普就政府借债问题陷入长期对峙的可能性。&lt;/p&gt;
-&lt;p&gt;惠誉评级上月警告称，这一格局将加大双方&amp;quot;边缘博弈&amp;quot;的概率，除非即将卸任的共和党主导的国会能够在本届任期届满前完成上调或暂停债务上限的立法程序。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，债务上限谈判的走向将直接影响短期国库券的供给节奏、货币市场流动性以及美元资产的信用预期，其市场影响不容低估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;马斯克表示，在全球最大汽车市场与国内品牌的激烈竞争中守住领先位置，本身就说明了Model Y的产品竞争力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
