@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 21:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦</title><link>https://wallstreetcn.com/articles/3785451</link><guid>4134e8f81faaf2048c52fc40c224797663ef3bd21060137a64998f86fbc87513</guid><pubDate>Sat, 07 Nov 2026 12:18:53 GMT</pubDate><description>&lt;p&gt;马斯克又给AI产业描绘了一幅惊人的增长蓝图。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 22:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦</title><link>https://wallstreetcn.com/articles/3785451</link><guid>4134e8f81faaf2048c52fc40c224797663ef3bd21060137a64998f86fbc87513</guid><pubDate>Sat, 07 Nov 2026 12:18:53 GMT</pubDate><description>&lt;p&gt;马斯克又给AI产业描绘了一幅惊人的增长蓝图。&lt;/p&gt;
 &lt;p&gt;当地时间周五，第33届Baron Investment Conference（巴伦投资大会）举行虚拟炉边访谈，时长约七十分钟。主持人为Baron Capital创始人Ron Baron，埃隆·马斯克远程连线出席。&lt;/p&gt;
 &lt;p&gt;在访谈中，马斯克给出一系列重磅预测：&lt;strong&gt;SpaceX今年12月年化收入预计突破1000亿美元，明年12月年化经常性收入有望超5000亿美元；Terafab目标年产一太瓦芯片，相当于明年全球AI芯片产量的30倍；与英伟达联合设计的星链计算机预计2027年三季度开始入轨；智能体互联网流量已超人类流量，五年内或达人类流量1000倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -216,22 +216,7 @@
 
 
 &lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Apollo拟豪掷750亿美元采购AI芯片，规模远超任何一家Neocloud</title><link>https://wallstreetcn.com/articles/3785447</link><guid>187255dabb3c82fde6dbbf6f4975674bb8af7389b2e2b55ce715ebca1cabad07</guid><pubDate>Sat, 07 Nov 2026 10:07:24 GMT</pubDate><description>&lt;p&gt;私募巨头Apollo Global Management正以前所未有的规模押注AI芯片市场，其两笔待完成的芯片交易合计金额高达750亿美元，不仅远超最大neocloud CoreWeave自2023年以来累计270亿美元的芯片融资规模，更是排名第二的竞争对手的逾10倍。&lt;/p&gt;
-&lt;p&gt;据The Information最新报道，&lt;strong&gt;SpaceX宣布将租用价值400亿美元的英伟达Vera Rubin芯片，而Apollo将通过旗下子公司购入这批芯片后再租赁给SpaceX。&lt;/strong&gt;此前，Apollo已于今年6月宣布联合Broadcom与Blackstone，为其购买谷歌张量处理器（TPU）并租赁给Anthropic的交易安排了350亿美元融资。&lt;/p&gt;
-&lt;p&gt;一旦上述交易完成，在AI芯片持有规模上，&lt;strong&gt;Apollo将仅次于亚马逊、微软、谷歌等超大规模云服务商，成为全球芯片储备最雄厚的非超大规模玩家&lt;/strong&gt;，彻底改变AI基础设施的竞争格局。Apollo在这些交易中通过撮合交易及管理融资基金赚取费用。&lt;/p&gt;
-两笔巨型交易奠定芯片霸主地位
-&lt;p&gt;Apollo当前的芯片布局由两笔核心交易构成。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其一是今年6月宣布的350亿美元交易：&lt;/strong&gt;Apollo联合Broadcom与Blackstone，购买谷歌TPU并租赁给AI初创公司Anthropic。&lt;strong&gt;其二是上周随SpaceX公告浮出水面的400亿美元交易：&lt;/strong&gt;Apollo通过子公司购入英伟达Vera Rubin芯片，再租赁给马斯克旗下的SpaceX。&lt;/p&gt;
-&lt;p&gt;两笔交易合计750亿美元，使Apollo在芯片融资领域的体量远超任何一家neocloud。据The Information汇编的数据，CoreWeave自2023年以来通过芯片抵押融资累计筹资270亿美元，位居neocloud之首；其后依次为Valor（54亿美元）、Nscale（49亿美元）、IREN（39亿美元）、Lambda（15亿美元）、Crusoe（11亿美元）、Nebius（7.75亿美元）及Sharon AI（3.56亿美元）。&lt;/p&gt;
-&lt;p&gt;值得注意的是，上述统计仅涵盖以GPU和TPU为抵押的融资，不包括各家neocloud为运营融资而发行的可转换债券及信贷额度。此外，上周另有一笔由花旗集团、美国银行与Blackstone联合安排、规模达630亿美元的交易——用于为Anthropic采购Broadcom芯片提供融资——亦未纳入上述比较，原因是各方未披露这批芯片的实际持有方。&lt;/p&gt;
-芯片融资模式：SPV结构的规模化复制
-&lt;p&gt;Apollo所采用的芯片融资结构，脱胎于CoreWeave与Blackstone在2023年共同开创的特殊目的载体（SPV）模式。&lt;strong&gt;在这一安排下，neocloud与其金融合作方共同设立SPV，由SPV发行债务以购买芯片，芯片终端用户支付的租金则用于偿还债务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Apollo的操作逻辑与此一脉相承，但规模更为庞大。与许多neocloud不同的是，Apollo并未额外投入资本建设用于存放芯片的数据中心，其商业模式更为聚焦——通过购买芯片、出租给终端用户，赚取交易撮合费用及基金管理费。&lt;/p&gt;
-&lt;p&gt;超大规模云服务商则无需借助SPV结构，可直接通过自由现金流、股权发行或传统公司债完成芯片采购，这也是Apollo与超大规模云服务商之间的本质区别。&lt;/p&gt;
-保险资本驱动Apollo转型
-&lt;p&gt;Apollo的芯片豪赌，折射出这家老牌私募机构过去十年的深刻转型。Apollo由亿万富翁Leon Black联合创立，成立已逾36年，早年以杠杆收购闻名，其中包括2008年斥资近300亿美元收购赌场巨头哈拉斯娱乐。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;过去十年间，Apollo大规模吸纳来自保险公司的资本。保险资金偏好收益率高于投资级债券、但信用评级仍维持投资级的资产类别，而芯片融资交易恰好契合这一需求。&lt;/strong&gt;这一资本结构的转变，为Apollo在AI基础设施领域的大规模布局提供了充裕的弹药。&lt;/p&gt;
-&lt;p&gt;芯片融资对Apollo而言是一个全新的业务方向，但其背后的逻辑与传统私募信贷如出一辙：以资产为抵押，提供结构化融资，赚取稳定的利差收益。随着AI算力需求持续膨胀，Apollo正将这一逻辑推向新的量级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻</title><link>https://wallstreetcn.com/articles/3785460</link><guid>b70a367d787cb0bb214ffb50ab6daf2686394285acda0a7e3e647335e4c412b8</guid><pubDate>Sat, 07 Nov 2026 13:02:31 GMT</pubDate><description>&lt;p&gt;伯克希尔·哈撒韦三季度净利润大幅下滑，保险业务承压与投资收益减少成为主要拖累。不过，公司在本季度显著加大股票回购力度，单季回购规模创年内新高，现金储备也进一步攀升至3774亿美元。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻</title><link>https://wallstreetcn.com/articles/3785460</link><guid>b70a367d787cb0bb214ffb50ab6daf2686394285acda0a7e3e647335e4c412b8</guid><pubDate>Sat, 07 Nov 2026 13:02:31 GMT</pubDate><description>&lt;p&gt;伯克希尔·哈撒韦三季度净利润大幅下滑，保险业务承压与投资收益减少成为主要拖累。不过，公司在本季度显著加大股票回购力度，单季回购规模创年内新高，现金储备也进一步攀升至3774亿美元。&lt;/p&gt;
 &lt;p&gt;当地时间11月7日，伯克希尔公布第三季度业绩。公司营业利润为127.05亿美元，同比下降5.8%；&lt;strong&gt;净利润为221.12亿美元，同比下降28.2%。&lt;/strong&gt;其中，投资收益合计约94.07亿美元，较去年同期的173.11亿美元下降约45.7%，缩水近一半。&lt;/p&gt;
 &lt;p&gt;保险业务表现疲软。&lt;strong&gt;保险承保利润同比下降43%，&lt;/strong&gt;汽车保险子公司Geico的赔付损失和承保费用分别增长8.5%和17%。保险净投资收入也同比下降14%，至27亿美元，主要受到短期利率下降影响。&lt;/p&gt;
 &lt;p&gt;资本配置方面，&lt;strong&gt;伯克希尔三季度斥资约96亿美元回购自身股票，为今年以来单季度最高水平。&lt;/strong&gt;与此同时，截至9月底，公司现金储备升至3774亿美元，较上一季度继续增加。&lt;strong&gt;三季度伯克希尔还净卖出了约4.26亿美元的股票持仓。&lt;/strong&gt;&lt;/p&gt;
