@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 12:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] 马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦</title><link>https://wallstreetcn.com/articles/3785451</link><guid>4134e8f81faaf2048c52fc40c224797663ef3bd21060137a64998f86fbc87513</guid><pubDate>Sat, 07 Nov 2026 12:18:53 GMT</pubDate><description>&lt;p&gt;马斯克又给AI产业描绘了一幅惊人的增长蓝图。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 13:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] 马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦</title><link>https://wallstreetcn.com/articles/3785451</link><guid>4134e8f81faaf2048c52fc40c224797663ef3bd21060137a64998f86fbc87513</guid><pubDate>Sat, 07 Nov 2026 12:18:53 GMT</pubDate><description>&lt;p&gt;马斯克又给AI产业描绘了一幅惊人的增长蓝图。&lt;/p&gt;
 &lt;p&gt;当地时间周五，第33届Baron Investment Conference（巴伦投资大会）举行虚拟炉边访谈，时长约七十分钟。主持人为Baron Capital创始人Ron Baron，埃隆·马斯克远程连线出席。&lt;/p&gt;
 &lt;p&gt;在访谈中，马斯克给出一系列重磅预测：&lt;strong&gt;SpaceX今年12月年化收入预计突破1000亿美元，明年12月年化经常性收入有望超5000亿美元；Terafab目标年产一太瓦芯片，相当于明年全球AI芯片产量的30倍；与英伟达联合设计的星链计算机预计2027年三季度开始入轨；智能体互联网流量已超人类流量，五年内或达人类流量1000倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -216,22 +216,7 @@
 
 
 &lt;/blockquote&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Apollo拟豪掷750亿美元采购AI芯片，规模远超任何一家Neocloud</title><link>https://wallstreetcn.com/articles/3785447</link><guid>187255dabb3c82fde6dbbf6f4975674bb8af7389b2e2b55ce715ebca1cabad07</guid><pubDate>Sat, 07 Nov 2026 10:07:24 GMT</pubDate><description>&lt;p&gt;私募巨头Apollo Global Management正以前所未有的规模押注AI芯片市场，其两笔待完成的芯片交易合计金额高达750亿美元，不仅远超最大neocloud CoreWeave自2023年以来累计270亿美元的芯片融资规模，更是排名第二的竞争对手的逾10倍。&lt;/p&gt;
-&lt;p&gt;据The Information最新报道，&lt;strong&gt;SpaceX宣布将租用价值400亿美元的英伟达Vera Rubin芯片，而Apollo将通过旗下子公司购入这批芯片后再租赁给SpaceX。&lt;/strong&gt;此前，Apollo已于今年6月宣布联合Broadcom与Blackstone，为其购买谷歌张量处理器（TPU）并租赁给Anthropic的交易安排了350亿美元融资。&lt;/p&gt;
-&lt;p&gt;一旦上述交易完成，在AI芯片持有规模上，&lt;strong&gt;Apollo将仅次于亚马逊、微软、谷歌等超大规模云服务商，成为全球芯片储备最雄厚的非超大规模玩家&lt;/strong&gt;，彻底改变AI基础设施的竞争格局。Apollo在这些交易中通过撮合交易及管理融资基金赚取费用。&lt;/p&gt;
-两笔巨型交易奠定芯片霸主地位
-&lt;p&gt;Apollo当前的芯片布局由两笔核心交易构成。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其一是今年6月宣布的350亿美元交易：&lt;/strong&gt;Apollo联合Broadcom与Blackstone，购买谷歌TPU并租赁给AI初创公司Anthropic。&lt;strong&gt;其二是上周随SpaceX公告浮出水面的400亿美元交易：&lt;/strong&gt;Apollo通过子公司购入英伟达Vera Rubin芯片，再租赁给马斯克旗下的SpaceX。&lt;/p&gt;
-&lt;p&gt;两笔交易合计750亿美元，使Apollo在芯片融资领域的体量远超任何一家neocloud。据The Information汇编的数据，CoreWeave自2023年以来通过芯片抵押融资累计筹资270亿美元，位居neocloud之首；其后依次为Valor（54亿美元）、Nscale（49亿美元）、IREN（39亿美元）、Lambda（15亿美元）、Crusoe（11亿美元）、Nebius（7.75亿美元）及Sharon AI（3.56亿美元）。&lt;/p&gt;
-&lt;p&gt;值得注意的是，上述统计仅涵盖以GPU和TPU为抵押的融资，不包括各家neocloud为运营融资而发行的可转换债券及信贷额度。此外，上周另有一笔由花旗集团、美国银行与Blackstone联合安排、规模达630亿美元的交易——用于为Anthropic采购Broadcom芯片提供融资——亦未纳入上述比较，原因是各方未披露这批芯片的实际持有方。&lt;/p&gt;
-芯片融资模式：SPV结构的规模化复制
-&lt;p&gt;Apollo所采用的芯片融资结构，脱胎于CoreWeave与Blackstone在2023年共同开创的特殊目的载体（SPV）模式。&lt;strong&gt;在这一安排下，neocloud与其金融合作方共同设立SPV，由SPV发行债务以购买芯片，芯片终端用户支付的租金则用于偿还债务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Apollo的操作逻辑与此一脉相承，但规模更为庞大。与许多neocloud不同的是，Apollo并未额外投入资本建设用于存放芯片的数据中心，其商业模式更为聚焦——通过购买芯片、出租给终端用户，赚取交易撮合费用及基金管理费。&lt;/p&gt;
-&lt;p&gt;超大规模云服务商则无需借助SPV结构，可直接通过自由现金流、股权发行或传统公司债完成芯片采购，这也是Apollo与超大规模云服务商之间的本质区别。&lt;/p&gt;
-保险资本驱动Apollo转型
-&lt;p&gt;Apollo的芯片豪赌，折射出这家老牌私募机构过去十年的深刻转型。Apollo由亿万富翁Leon Black联合创立，成立已逾36年，早年以杠杆收购闻名，其中包括2008年斥资近300亿美元收购赌场巨头哈拉斯娱乐。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;过去十年间，Apollo大规模吸纳来自保险公司的资本。保险资金偏好收益率高于投资级债券、但信用评级仍维持投资级的资产类别，而芯片融资交易恰好契合这一需求。&lt;/strong&gt;这一资本结构的转变，为Apollo在AI基础设施领域的大规模布局提供了充裕的弹药。&lt;/p&gt;
-&lt;p&gt;芯片融资对Apollo而言是一个全新的业务方向，但其背后的逻辑与传统私募信贷如出一辙：以资产为抵押，提供结构化融资，赚取稳定的利差收益。随着AI算力需求持续膨胀，Apollo正将这一逻辑推向新的量级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”</title><link>https://wallstreetcn.com/articles/3785423</link><guid>f63787c45e3630f718156a998a2b5c3308259f95b2b2ecf7a8d8047966a54cf0</guid><pubDate>Sat, 07 Nov 2026 02:04:48 GMT</pubDate><description>&lt;p&gt;积累已久的AI泡沫忧虑，在一场选举结果面前骤然引爆。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”</title><link>https://wallstreetcn.com/articles/3785423</link><guid>f63787c45e3630f718156a998a2b5c3308259f95b2b2ecf7a8d8047966a54cf0</guid><pubDate>Sat, 07 Nov 2026 02:04:48 GMT</pubDate><description>&lt;p&gt;积累已久的AI泡沫忧虑，在一场选举结果面前骤然引爆。&lt;/p&gt;
 &lt;p&gt;美国中期选举民主党大胜国会，本应是一个&amp;quot;风险出清&amp;quot;的信号——股市最初也如此反应。但不到24小时，华尔街完成了从庆祝到恐慌的戏剧性翻转。周四，纳斯达克100指数录得2020年3月以来最大单日跌幅，单日蒸发市值2.3万亿美元；自10月6日高点计算，美国股市累计市值损失已达5.7万亿美元。VIX恐慌指数从16.6点飙升至近28点，创下史上从最平静起点出发、升幅最为剧烈的波动事件之一。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;导火索是市场对民主党政策立场的重新定价——尤其是后者对AI数据中心大规模扩张的深度质疑。这一政治变量叠加早已高度拥挤的AI交易仓位，形成了散户、对冲基金、量化策略三路同时踩踏的罕见景象。这场抛售的破坏力之所以如此惊人，在于它几乎没有给任何人留下反应时间，从散户率先出逃，到对冲基金跟进，再到量化策略机械性平仓——在短短数小时内完成。&lt;/p&gt;
@@ -279,7 +264,22 @@ AI板块遭到清算，损伤集中而深重
 &lt;p&gt;部分投资者则提前布局，得以全身而退。基金经理Jeff Muhlenkamp在暴跌前已清仓几乎所有AI持仓，其2.75亿美元的投资组合11月基本持平，年初至今跑赢标普500。&amp;quot;我们卖掉了贵的、热门的，买入了便宜的、被遗忘的，&amp;quot;他说，&amp;quot;当动量转向，我们受益。&amp;quot;&lt;/p&gt;
 &lt;p&gt;周五，芯片股率先反弹，纳斯达克100指数一度回升逾2.6%，但各主要股指全周仍以下跌收场，标普500周跌幅为2.68%。Bright Trading的资深交易员Sinisa Sorgic，当天做空台积电美股，却因后者盘中反弹逾7.8%而&amp;quot;被烧伤&amp;quot;。他总结这一周的感受：&lt;strong&gt;&amp;quot;昨天是一场血战。现在市场太疯狂了，根本不敢全力冲进去抄底。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;市场分歧已然浮现。Key Private Bank的Mateyo认为，州级法规会延缓、但不会阻止数据中心的建设，公众对AI的疑虑或将随着实际使用的普及而逐步消退。Wellington Management的Casaletto则态度审慎，认为AI扩张速度放缓的趋势已经确立。&lt;/p&gt;
-&lt;p&gt;这场风暴究竟是AI牛市中期的一次剧烈震荡，还是更深层周期转换的开端，华尔街尚无定论。但一个现实已经清晰：当政治风向与拥挤仓位同时转向，市场所能提供的缓冲，远比想象中要薄得多。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 刚押注AI就遭遇市场暴击！伯克希尔今晚发布财报，阿贝尔转型成色迎大考</title><link>https://wallstreetcn.com/articles/3785441</link><guid>e16cb197b08db4300fe7cb82b4119248f864c7e9abb665a9d69313a7f11dcbed</guid><pubDate>Sat, 07 Nov 2026 09:00:18 GMT</pubDate><description>&lt;p&gt;伯克希尔哈撒韦公司将于今晚发布第三季度财报，这是CEO Greg Abel执掌这家万亿美元级别企业以来最受瞩目的一次业绩披露。在他大举押注人工智能之后，相关投资随即遭遇市场逆风，外界对这位新掌门人的战略判断与资本配置能力的审视，正在达到前所未有的高度。&lt;/p&gt;
+&lt;p&gt;这场风暴究竟是AI牛市中期的一次剧烈震荡，还是更深层周期转换的开端，华尔街尚无定论。但一个现实已经清晰：当政治风向与拥挤仓位同时转向，市场所能提供的缓冲，远比想象中要薄得多。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Apollo拟豪掷750亿美元采购AI芯片，规模远超任何一家Neocloud</title><link>https://wallstreetcn.com/articles/3785447</link><guid>187255dabb3c82fde6dbbf6f4975674bb8af7389b2e2b55ce715ebca1cabad07</guid><pubDate>Sat, 07 Nov 2026 10:07:24 GMT</pubDate><description>&lt;p&gt;私募巨头Apollo Global Management正以前所未有的规模押注AI芯片市场，其两笔待完成的芯片交易合计金额高达750亿美元，不仅远超最大neocloud CoreWeave自2023年以来累计270亿美元的芯片融资规模，更是排名第二的竞争对手的逾10倍。&lt;/p&gt;
+&lt;p&gt;据The Information最新报道，&lt;strong&gt;SpaceX宣布将租用价值400亿美元的英伟达Vera Rubin芯片，而Apollo将通过旗下子公司购入这批芯片后再租赁给SpaceX。&lt;/strong&gt;此前，Apollo已于今年6月宣布联合Broadcom与Blackstone，为其购买谷歌张量处理器（TPU）并租赁给Anthropic的交易安排了350亿美元融资。&lt;/p&gt;
+&lt;p&gt;一旦上述交易完成，在AI芯片持有规模上，&lt;strong&gt;Apollo将仅次于亚马逊、微软、谷歌等超大规模云服务商，成为全球芯片储备最雄厚的非超大规模玩家&lt;/strong&gt;，彻底改变AI基础设施的竞争格局。Apollo在这些交易中通过撮合交易及管理融资基金赚取费用。&lt;/p&gt;
+两笔巨型交易奠定芯片霸主地位
+&lt;p&gt;Apollo当前的芯片布局由两笔核心交易构成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其一是今年6月宣布的350亿美元交易：&lt;/strong&gt;Apollo联合Broadcom与Blackstone，购买谷歌TPU并租赁给AI初创公司Anthropic。&lt;strong&gt;其二是上周随SpaceX公告浮出水面的400亿美元交易：&lt;/strong&gt;Apollo通过子公司购入英伟达Vera Rubin芯片，再租赁给马斯克旗下的SpaceX。&lt;/p&gt;
+&lt;p&gt;两笔交易合计750亿美元，使Apollo在芯片融资领域的体量远超任何一家neocloud。据The Information汇编的数据，CoreWeave自2023年以来通过芯片抵押融资累计筹资270亿美元，位居neocloud之首；其后依次为Valor（54亿美元）、Nscale（49亿美元）、IREN（39亿美元）、Lambda（15亿美元）、Crusoe（11亿美元）、Nebius（7.75亿美元）及Sharon AI（3.56亿美元）。&lt;/p&gt;
+&lt;p&gt;值得注意的是，上述统计仅涵盖以GPU和TPU为抵押的融资，不包括各家neocloud为运营融资而发行的可转换债券及信贷额度。此外，上周另有一笔由花旗集团、美国银行与Blackstone联合安排、规模达630亿美元的交易——用于为Anthropic采购Broadcom芯片提供融资——亦未纳入上述比较，原因是各方未披露这批芯片的实际持有方。&lt;/p&gt;
+芯片融资模式：SPV结构的规模化复制
+&lt;p&gt;Apollo所采用的芯片融资结构，脱胎于CoreWeave与Blackstone在2023年共同开创的特殊目的载体（SPV）模式。&lt;strong&gt;在这一安排下，neocloud与其金融合作方共同设立SPV，由SPV发行债务以购买芯片，芯片终端用户支付的租金则用于偿还债务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apollo的操作逻辑与此一脉相承，但规模更为庞大。与许多neocloud不同的是，Apollo并未额外投入资本建设用于存放芯片的数据中心，其商业模式更为聚焦——通过购买芯片、出租给终端用户，赚取交易撮合费用及基金管理费。&lt;/p&gt;
+&lt;p&gt;超大规模云服务商则无需借助SPV结构，可直接通过自由现金流、股权发行或传统公司债完成芯片采购，这也是Apollo与超大规模云服务商之间的本质区别。&lt;/p&gt;
+保险资本驱动Apollo转型
+&lt;p&gt;Apollo的芯片豪赌，折射出这家老牌私募机构过去十年的深刻转型。Apollo由亿万富翁Leon Black联合创立，成立已逾36年，早年以杠杆收购闻名，其中包括2008年斥资近300亿美元收购赌场巨头哈拉斯娱乐。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过去十年间，Apollo大规模吸纳来自保险公司的资本。保险资金偏好收益率高于投资级债券、但信用评级仍维持投资级的资产类别，而芯片融资交易恰好契合这一需求。&lt;/strong&gt;这一资本结构的转变，为Apollo在AI基础设施领域的大规模布局提供了充裕的弹药。&lt;/p&gt;
+&lt;p&gt;芯片融资对Apollo而言是一个全新的业务方向，但其背后的逻辑与传统私募信贷如出一辙：以资产为抵押，提供结构化融资，赚取稳定的利差收益。随着AI算力需求持续膨胀，Apollo正将这一逻辑推向新的量级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 刚押注AI就遭遇市场暴击！伯克希尔今晚发布财报，阿贝尔转型成色迎大考</title><link>https://wallstreetcn.com/articles/3785441</link><guid>e16cb197b08db4300fe7cb82b4119248f864c7e9abb665a9d69313a7f11dcbed</guid><pubDate>Sat, 07 Nov 2026 09:00:18 GMT</pubDate><description>&lt;p&gt;伯克希尔哈撒韦公司将于今晚发布第三季度财报，这是CEO Greg Abel执掌这家万亿美元级别企业以来最受瞩目的一次业绩披露。在他大举押注人工智能之后，相关投资随即遭遇市场逆风，外界对这位新掌门人的战略判断与资本配置能力的审视，正在达到前所未有的高度。&lt;/p&gt;
 &lt;p&gt;Abel上任以来最引人注目的动作，是向谷歌母公司Alphabet投入逾100亿美元、向意大利科技集团Bending Spoons投入9.3亿美元，由此完成伯克希尔历史上最大规模的AI主题押注。然而，Alphabet股价自6月以来已累计下跌逾24%，目前已跌破伯克希尔的建仓成本；Bending Spoons股价在伯克希尔加仓后短暂冲高，随后在过去三周持续回落。这一系列在AI领域投资的时机正受到市场质疑。&lt;/p&gt;
 &lt;p&gt;此外，市场对本次财报的关注焦点还集中在其他三个维度：每股收益的下滑幅度、回购力度能否延续，以及现金储备的消耗节奏。据FactSet数据，&lt;strong&gt;第三季度每股A类股运营收益预计同比下降约6%至8821美元；据Visible Alpha估计，季末现金储备料从二季度末的3655亿美元降至3580亿美元；回购方面，市场预期约为16.4亿美元，远低于二季度的45亿美元。&lt;/strong&gt;&lt;/p&gt;
 AI押注遭遇现实检验
@@ -299,7 +299,40 @@ AI押注遭遇现实检验
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Seifert表示，&amp;quot;如果近期股价的上涨已经抑制了他们回购的热情，我认为投资者可能会感到有些失望。&amp;quot;&lt;/p&gt;
 &lt;p&gt;Seeking Alpha分析师Louis Gerard则设定了更为明确的观察标准：若回购低于20亿美元且现金储备同步上升，或B类股在账面价值未有相应提升的情况下突破570美元，他将把评级从买入下调至持有。&lt;/p&gt;
-&lt;p&gt;在现金储备方面，二季度末伯克希尔持有约3655亿美元的现金、现金等价物及短期国债。三季度的主要消耗包括：7月以约68亿美元完成对住宅建筑商Taylor Morrison的收购，以及9月末建立约21.6亿美元的Lennar股权仓位。据Visible Alpha估计，季末现金储备料降至3580亿美元。如何进一步部署这笔庞大的现金，仍是众多投资者对Abel最迫切的期待。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 连续24个月增持！中国央行10月扩购83万盎司黄金，步伐明显加快</title><link>https://wallstreetcn.com/articles/3785426</link><guid>8620e8ab3e9f78eebb710659bbb072e2d0ab278a0faa42332c81eea753a2cd3d</guid><pubDate>Sat, 07 Nov 2026 02:53:52 GMT</pubDate><description>&lt;p&gt;中国官方储备资产规模在10月份出现小幅收缩，外汇储备连续两个月下滑，但黄金储备持续扩张，增持势头未见减退。&lt;/p&gt;
+&lt;p&gt;在现金储备方面，二季度末伯克希尔持有约3655亿美元的现金、现金等价物及短期国债。三季度的主要消耗包括：7月以约68亿美元完成对住宅建筑商Taylor Morrison的收购，以及9月末建立约21.6亿美元的Lennar股权仓位。据Visible Alpha估计，季末现金储备料降至3580亿美元。如何进一步部署这笔庞大的现金，仍是众多投资者对Abel最迫切的期待。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 苹果7年：简单强大生意模式的复利</title><link>http://www.xueqiu.com/3452146899/415669068</link><guid>bf54bd9176b97d33249b83e4821c1143fd24b41fee99fef2f4848a915ad21da7</guid><pubDate>Sat, 07 Nov 2026 13:27:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;吉吉Queen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2019-2026财年，苹果的净利润从553亿跃升至1322亿，+139%，站在2019年看，全球智能手机普及率已经相当高，苹果也是当之无愧的老大，这样一门已经成熟稳定的生意究竟是靠什么做到在接下来7年保持了利润年化13.2%的高速增长？&lt;/p&gt;</description></item><item><title>[华尔街见闻] 伯克希尔Q3运营利润小幅下滑，回购为年内最高，现金攀升至3774亿美元</title><link>https://wallstreetcn.com/articles/3785460</link><guid>b70a367d787cb0bb214ffb50ab6daf2686394285acda0a7e3e647335e4c412b8</guid><pubDate>Sat, 07 Nov 2026 13:02:31 GMT</pubDate><description>&lt;p&gt;伯克希尔·哈撒韦（Berkshire Hathaway）于周六公布了2026年三季度业绩。&lt;/p&gt;
+&lt;p&gt;公司运营利润录得127.05亿美元，同比下降5.8%，这一数字低于去年同期的134.85亿美元，保险承保利润和投资收入双双承压。&lt;/p&gt;
+&lt;p&gt;不过，从更长周期来看，公司经营韧性犹在。前九个月累计运营利润达370.34亿美元，较去年同期的342.86亿美元增长约8%，显示出核心业务整体仍在稳步扩张。铁路运输巨头BNSF、伯克希尔能源公司（BHE）以及制造与零售板块均实现了同比增长，构成对冲保险板块压力的重要支柱。&lt;/p&gt;
+&lt;p&gt;现金储备方面，伯克希尔持续&amp;quot;囤粮&amp;quot;。截至9月30日，公司现金及等价物规模升至3774亿美元，较上季度进一步攀升。这一数字既体现了巴菲特在当前市场估值水平下的审慎态度，也为未来可能出现的收购机会或市场波动保留了充足弹药。&lt;/p&gt;
+&lt;p&gt;与此同时，公司在三季度豪掷约96亿美元回购自家股票，创下年内单季新高，前九个月累计回购金额达144亿美元。这一动作传递出一个明确信号：在外部优质标的难觅的背景下，管理层认为伯克希尔本身就是当下最值得投资的资产。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+保险板块：承保利润大幅缩水，拖累整体表现
+
+&lt;p&gt;保险业务是此次财报中最为明显的&amp;quot;减分项&amp;quot;，也是股价承压的核心原因之一。&lt;/p&gt;
+&lt;p&gt;承保利润方面，三季度录得13.52亿美元，较去年同期的23.69亿美元下滑约43%，降幅相当显著。前九个月累计承保利润为48亿美元，同样低于去年同期的56.97亿美元。这一下滑或与特定自然灾害赔付增加、承保环境变化或竞争加剧等因素有关，公司并未在新闻稿中作出详细说明，投资者可进一步参阅10-Q报告。&lt;/p&gt;
+&lt;p&gt;保险投资收入方面，三季度为27.34亿美元，低于去年同期的31.81亿美元，前九个月也从94.41亿美元降至84.72亿美元。这一下降与美联储降息周期下固定收益资产再投资收益率回落密切相关。值得关注的是，截至三季度末，保险浮存金规模约为1785亿美元，较2025年底增加约21亿美元，仍在缓慢扩张，为投资收入提供长期支撑。&lt;/p&gt;
+
+BNSF与能源：两大实业引擎逆势增长
+
+&lt;p&gt;在保险业务疲软之际，BNSF铁路与伯克希尔能源的表现令人眼前一亮。&lt;/p&gt;
+&lt;p&gt;BNSF三季度运营利润达17.29亿美元，同比增长约19%，高于去年同期的14.49亿美元；前九个月累计利润46.64亿美元，同比增长约13%。货运量改善或成本管控优化是可能的驱动因素，整体表现超出市场预期。&lt;/p&gt;
+&lt;p&gt;伯克希尔能源（BHE）三季度贡献运营利润16.12亿美元，较去年同期的14.89亿美元增长约8%；前九个月累计为36.17亿美元，同比增长约10%。考虑到BHE此前曾受到山火相关法律诉讼的困扰，本季度盈利能力的持续修复具有积极意义。&lt;/p&gt;
+
+制造、服务与零售稳中有进
+
+&lt;p&gt;这一多元化业务板块延续了良好势头。三季度运营利润为40.42亿美元，较去年同期的36.16亿美元增长约12%；前九个月累计利润从102.77亿美元提升至117.11亿美元，增幅约14%。&lt;/p&gt;
+&lt;p&gt;该板块涵盖伯克希尔旗下众多工业制造、消费服务及零售子公司，整体表现折射出美国实体经济的相对韧性，是当前财报中最为亮眼的板块之一。&lt;/p&gt;
+
+现金找不到好去处，不如买回自己
+
+&lt;p&gt;三季度96亿美元的回购金额是年内季度之最，彰显出管理层对公司内在价值的高度信心。从股本变化亦可得到印证：A类等效股份从年初的约143.8万股降至三季度末的约141.9万股，每股价值持续提升。&lt;/p&gt;
+&lt;p&gt;值得注意的是，伯克希尔手握近3800亿美元现金，却持续选择回购而非大规模外部并购，这在某种程度上反映出当前市场上符合&amp;quot;巴菲特标准&amp;quot;的优质收购标的依然稀缺，高估值环境下出手并不容易。&lt;/p&gt;
+
+投资损益
+
+&lt;p&gt;三季度净利润为221.12亿美元，低于去年同期的307.96亿美元。这一差距主要来自投资收益的波动：三季度投资收益为94.07亿美元，低于去年同期的173.11亿美元。&lt;/p&gt;
+&lt;p&gt;伯克希尔在财报中再度提醒投资者，GAAP要求将股票持仓的未实现浮盈浮亏计入当期损益，这使得净利润数字在不同季度之间大幅波动，&amp;quot;通常毫无意义&amp;quot;。正因如此，管理层和分析师历来将运营利润视为衡量公司真实经营状况的核心指标。&lt;/p&gt;
+&lt;p&gt;更新中。。。。。。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 连续24个月增持！中国央行10月扩购83万盎司黄金，步伐明显加快</title><link>https://wallstreetcn.com/articles/3785426</link><guid>8620e8ab3e9f78eebb710659bbb072e2d0ab278a0faa42332c81eea753a2cd3d</guid><pubDate>Sat, 07 Nov 2026 02:53:52 GMT</pubDate><description>&lt;p&gt;中国官方储备资产规模在10月份出现小幅收缩，外汇储备连续两个月下滑，但黄金储备持续扩张，增持势头未见减退。&lt;/p&gt;
 &lt;p&gt;11月7日，中国央行数据显示，中国10月末黄金储备7830万盎司，较9月末的7747万盎司增加83万盎司，连续24个月扩大黄金储备。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;国家外汇管理局数据显示，10月外汇储备规模为34051.78亿美元，较9月的34002.51亿美元小幅回升约49亿美元，涨幅约0.14%。&lt;/p&gt;
@@ -406,39 +439,7 @@ AI押注遭遇现实检验
 &lt;p&gt;从周五盘面来看，反弹的结构性特征令人存疑。芯片板块领涨，但领涨的恰恰是本周跌幅最深的个股——AMD单日涨11%，英特尔涨7.71%，高通涨5.52%，这种&amp;quot;跌得多、涨得多&amp;quot;的镜像关系，更符合技术性超跌反弹的逻辑，而非市场情绪的根本转变。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;市场广度的表现则更为直观地揭示了反弹成色不足。标普500全天仅收涨0.3%，道指收跌0.5%，意味着指数涨幅几乎完全由少数权重芯片股贡献，多数成分股仍告收跌。大盘股结构性分化，本身就是市场信心尚未修复的典型信号。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;更关键的是，周五反弹面临的宏观背景并不友好。非农数据确认12月加息重回议程，2年期美债收益率升至4.54%，美元指数单日涨0.74%，创6月以来最大单日涨幅，这些均对权益资产构成压制。&lt;/p&gt;
-&lt;p&gt;此前分析人士已明确指出，在CTA基金已在系统性减仓、做多型基金&amp;quot;再度陷入观望&amp;quot;的仓位格局下，这样的组合——一份过热的非农报告叠加持续的AI忧虑——并不构成真正反弹的前提条件。从目前的仓位结构、利率走势和基本面背景综合来看，周五的反弹更接近&amp;quot;死猫跳&amp;quot;的技术特征，而非熊市中的真正转折点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌</title><link>https://wallstreetcn.com/articles/3785404</link><guid>b67d35caaf0b411fdd0155b293b68f99a3fc6f2070a59cb79c063c548296133c</guid><pubDate>Sat, 07 Nov 2026 01:26:33 GMT</pubDate><description>&lt;p&gt;微软正在重新评估此前大举押注外部AI算力供应商的策略。继收紧对AI“新云”（Neocloud）服务商的合作审查后，微软又被曝正逐步终止向甲骨文租用AI云算力的安排。&lt;/p&gt;
-&lt;p&gt;据美东时间11月6日周五的彭博报道，微软近几个月已开始逐步关闭此前从甲骨文租用的部分计算资源，并决定不再续签相关合同。知情人士称，甲骨文提供的服务器搭载较旧一代英伟达芯片，已不符合微软的技术规格要求，对微软的价值有所下降。&lt;/p&gt;
-&lt;p&gt;消息传出后，甲骨文股价周五盘中一度跌超5%，早盘大涨的&amp;quot;新云&amp;quot;概念股纷纷回吐涨幅，其中CoreWeave出现短线闪跌，不过甲骨文及多家&amp;quot;新云&amp;quot;服务商最终均收涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;就在前一日，本周四的报道显示，在已承诺投入逾800亿美元向其他云公司租用算力后，微软对“新云”供应商的高成本和交付延误感到不满，对此前的策略心生悔意，正在加强对部分数据中心项目的审查、退出其认为风险较高的项目，并内部讨论是否暂缓签署新的合作协议。连续两天的报道凸显微软正在重新审视外部算力采购策略。&lt;/p&gt;
-甲骨文股价跳水，公司强调AI设施需求仍强劲
-&lt;p&gt;据报道，微软与甲骨文之间的算力租赁安排源于2023年签订的一份用于支持Bing业务的计算协议，微软已决定不予续签。知情人士透露，随着时间推移，甲骨文所提供的搭载旧一代英伟达芯片的服务器，已逐渐无法满足微软的技术规格要求。&lt;/p&gt;
-&lt;p&gt;周五消息传出后，盘初一度涨3.8%的甲骨文（ORCL）股价迅速掉头下行、抹平涨幅转跌并刷新日低至109.21美元，日内跌幅接近5.2%，此后震荡转涨，收涨约0.8%。&lt;/p&gt;
-&lt;p&gt;其他AI算力租赁供应商也遭遇明显的涨幅回吐。美股早盘曾涨9.3%的CoreWeave（CRWV）短线转跌，跌幅一度超过1%，后很快转涨，但涨幅未超过2%；盘初曾大涨约24.6%的IREN（IREN）涨幅一度收窄至约12%；盘初一度涨13.7%的Nebius（NBIS）涨幅曾收窄至不足1.9%。&lt;/p&gt;
-&lt;p&gt;到收盘，CoreWeave涨超6%，Nebius和IREN分别涨约7.6%和20%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;虽然微软未置评上述报道，但市场分析人士对此次微软退出影响的协议规模持相对保守看法。&lt;/p&gt;
-&lt;p&gt;分析人士Zephyr在社交媒体上表示，&lt;strong&gt;此次涉及的合同规模可能在50MW至100MW的A100芯片之间，属于相对有限的交易，市场反应存在过度解读的成分&lt;/strong&gt;。他指出，微软完全可以将这部分需求内部转移至25MW至40MW的Hopper架构芯片，以满足自身算力需求。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;甲骨文方面则强调，AI基础设施需求依然强劲，包括对较早一代GPU的需求。甲骨文还表示&lt;strong&gt;，已有将四年前部署的GPU合同以溢价约20%的价格续签的案例，显示旧一代芯片仍具备一定市场价值&lt;/strong&gt;。不过，分析人士指出，旧一代GPU的续约价格与利用率数据，将是判断这一需求能否广泛持续的关键指标。&lt;/p&gt;
-交付延迟、成本高企，微软重新审查“新云”合作
-&lt;p&gt;微软对外部算力供应商的态度转变，并非始于此次甲骨文租赁协议调整。&lt;/p&gt;
-&lt;p&gt;周四彭博报道称，微软正在加强对Nebius、IREN和Nscale等AI“新云”服务商部分数据中心项目的监督。由于这些公司面临项目建设延迟、监管审批障碍和成本高企等问题，微软部分管理层对此前的大规模合作押注产生疑虑。&lt;/p&gt;
-&lt;p&gt;知情人士称，微软正在退出其认为风险较高的项目，并内部讨论是否继续签署新的“新云”合作协议。微软也越来越倾向于派遣员工进驻合作方的数据中心项目，检查设施建设进度，确保项目符合技术规格和监管要求。&lt;/p&gt;
-&lt;p&gt;其中，IREN在得州建设的数据中心项目就出现了光纤布线问题，此前还发生过发电机起火事故，并披露硬件交付延迟。微软与IREN近期重新协商了项目时间表，相关设施的完工时间可能因此推迟数周甚至数月。&lt;/p&gt;
-&lt;p&gt;微软首席财务官Amy Hood此前在财报电话会上也多次提及第三方算力交付延迟对公司资本开支计划的影响。微软越来越重视外部供应商能否按期交付算力，以及项目能否满足公司的实际需求。&lt;/p&gt;
-&lt;p&gt;Nscale则是微软收缩合作的另一个典型案例。&lt;/p&gt;
-&lt;p&gt;彭博周四报道称，微软决定不行使Nscale位于美国得州数据中心项目中的额外扩容选择权。双方此前已经达成约240兆瓦的算力租赁安排，微软原本还拥有进一步增加700兆瓦算力的选择权，但由于项目面临能源接入审批障碍，微软最终决定不推进扩容。&lt;/p&gt;
-&lt;p&gt;此前，微软已经退出Nscale在英国埃塞克斯郡洛顿（Loughton）建设的旗舰数据中心项目。该项目原本涉及约30亿美元的算力租赁安排，但由于电力接入延迟，预计相关电力供应可能要到2030年代才能实现。&lt;/p&gt;
-&lt;p&gt;接连失去微软的新增合作机会，令Nscale寻求350亿美元IPO估值的计划面临压力。不过，微软不行使得州扩容选择权，并不影响双方原有约240兆瓦的合同，也不影响Nscale此前披露的约1030亿美元订单积压。&lt;/p&gt;
-从争抢算力到审查订单，AI基础设施投资逻辑生变
-&lt;p&gt;Zephyr指出，上述一系列动作折射出微软算力策略的深层转变——从大规模向外部供应商租用算力，转向更多依赖自建和自有算力资产。他表示，微软取消Nscale协议、推迟IREN交付，均与这一战略调整方向一致。&lt;/p&gt;
-&lt;p&gt;这一转变对整个AI算力租赁市场的影响不容忽视。&lt;/p&gt;
-&lt;p&gt;过去两年，微软、谷歌和亚马逊等大型科技公司竞相建设AI数据中心，但由于自有基础设施建设速度难以完全跟上需求，Nebius、IREN、CoreWeave和Nscale等新兴数据中心运营商获得了大量长期算力租赁订单，成为AI基础设施扩张的重要受益者。&lt;/p&gt;
-&lt;p&gt;微软此前为满足Azure云服务和AI业务的算力需求，向包括CoreWeave、Nscale和Nebius在内的外部云计算企业承诺了超过800亿美元的算力租赁支出。但随着自身数据中心建设推进，以及外部供应商面临的建设延期、设备交付和融资成本问题逐渐显现，微软开始重新评估这些合作的经济性和执行风险。&lt;/p&gt;
-&lt;p&gt;值得注意的是，微软调整外部算力采购策略，并不意味着AI算力需求已经见顶。全球AI计算能力仍然供不应求，Anthropic和谷歌等其他大型客户仍在加快对新兴数据中心运营商的合作承诺。&lt;/p&gt;
-&lt;p&gt;目前，围绕旧一代GPU的供需状况，市场证据仍存在分歧：一方面，甲骨文等供应商声称需求强劲；另一方面，微软的退出行为则暗示特定GPU世代的供给已趋于宽松。这一矛盾将随着后续续约数据的披露而逐步厘清。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党摧毁数据中心狂潮？高盛“逆势唱多”：上调预测！</title><link>https://wallstreetcn.com/articles/3785421</link><guid>ad194c20b16ce4c6e2263f930018e7c7f3437ea4b28e263ded0c6ccbd33e7ade</guid><pubDate>Sat, 07 Nov 2026 02:20:55 GMT</pubDate><description>&lt;p&gt;美国数据中心建设热潮遭遇政治逆风，但高盛认为，周期本身远未结束。&lt;/p&gt;
+&lt;p&gt;此前分析人士已明确指出，在CTA基金已在系统性减仓、做多型基金&amp;quot;再度陷入观望&amp;quot;的仓位格局下，这样的组合——一份过热的非农报告叠加持续的AI忧虑——并不构成真正反弹的前提条件。从目前的仓位结构、利率走势和基本面背景综合来看，周五的反弹更接近&amp;quot;死猫跳&amp;quot;的技术特征，而非熊市中的真正转折点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 民主党摧毁数据中心狂潮？高盛“逆势唱多”：上调预测！</title><link>https://wallstreetcn.com/articles/3785421</link><guid>ad194c20b16ce4c6e2263f930018e7c7f3437ea4b28e263ded0c6ccbd33e7ade</guid><pubDate>Sat, 07 Nov 2026 02:20:55 GMT</pubDate><description>&lt;p&gt;美国数据中心建设热潮遭遇政治逆风，但高盛认为，周期本身远未结束。&lt;/p&gt;
 &lt;p&gt;随着得克萨斯州候任州长Gina Hinojosa呼吁立即对数据中心实施暂停令，市场情绪急剧恶化。纳斯达克指数单周下跌6%，AI动能指数创下史上第五大跌幅，数据中心信用违约互换溢价亦创历史记录。&lt;/p&gt;
 &lt;p&gt;然而高盛逆势上调预测，将&lt;strong&gt;2026年美国数据中心建设支出预期从670亿美元提高至800亿美元，2027年从870亿美元提高至1000亿美元，并首次给出2028年1250亿美元的预测。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛在最新发布的两份研究报告中指出，美国数据中心项目储备规模远超市场担忧所暗示的脆弱程度——&lt;strong&gt;当前已有86GW项目在建，另有约9000亿美元的高可信度待建项目，建设支出增速在进入选举周期前已加速至同比90%。&lt;/strong&gt;&lt;/p&gt;
@@ -542,4 +543,4 @@ AI叙事转向：从&amp;quot;建设&amp;quot;到&amp;quot;使用&amp;quot;
 历史规律指向中期机会，但短期仍需谨慎
 &lt;p&gt;尽管历史数据呈现出较为乐观的中期信号，高盛交易员仍提示投资者保持审慎。他们指出，随着市场继续寻底，仍有更多仓位需要消化。&lt;/p&gt;
 &lt;p&gt;&amp;quot;随着被迫抛售逐渐平息，市场的配置吸引力开始上升，&amp;quot;Coppersmith写道，&amp;quot;这不一定意味着要急于重返风险资产，但另一侧潜在的机会已越来越难以忽视。&amp;quot;&lt;/p&gt;
-&lt;p&gt;高盛的分析表明，极端波动与被迫抛售最终可能为愿意跨越短期动荡的投资者创造入场机会，但前提是市场需要完成当前的去杠杆过程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;高盛的分析表明，极端波动与被迫抛售最终可能为愿意跨越短期动荡的投资者创造入场机会，但前提是市场需要完成当前的去杠杆过程。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 三季报过后冷眼观察曾经的牛市旗手：九大券商H股估值全览</title><link>http://www.xueqiu.com/9363345092/415909145</link><guid>a88fe1bd8bc2ff3b03bb92f49f405b9c2c050bc5a6a268891f0e7256c6f8cdf7</guid><pubDate>Sat, 07 Nov 2026 13:23:33 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ericwarn丁宁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;三季报收官，券商股业绩普遍大涨，但股价却只是脉冲上涨了一天而已。但瑕不掩瑜，仍然有值得挖掘的看点！&lt;/p&gt;</description></item><item><title>[今日雪球] 药明康德2026年开放日盘点与总结</title><link>http://www.xueqiu.com/1191567009/415935141</link><guid>920f6f45cae0055729c9dd14a0d383058f87b8e2f5c546f3059494b77b3fa1c0</guid><pubDate>Sat, 07 Nov 2026 13:22:06 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大步遛弯&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH603259"&gt;$药明康德(SH603259)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ002821"&gt;$凯莱英(SZ002821)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SZ300759"&gt;$康龙化成(SZ300759)$&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
