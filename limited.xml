@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 17:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦</title><link>https://wallstreetcn.com/articles/3785451</link><guid>4134e8f81faaf2048c52fc40c224797663ef3bd21060137a64998f86fbc87513</guid><pubDate>Sat, 07 Nov 2026 12:18:53 GMT</pubDate><description>&lt;p&gt;马斯克又给AI产业描绘了一幅惊人的增长蓝图。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 07 Nov 2026 18:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] 马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦</title><link>https://wallstreetcn.com/articles/3785451</link><guid>4134e8f81faaf2048c52fc40c224797663ef3bd21060137a64998f86fbc87513</guid><pubDate>Sat, 07 Nov 2026 12:18:53 GMT</pubDate><description>&lt;p&gt;马斯克又给AI产业描绘了一幅惊人的增长蓝图。&lt;/p&gt;
 &lt;p&gt;当地时间周五，第33届Baron Investment Conference（巴伦投资大会）举行虚拟炉边访谈，时长约七十分钟。主持人为Baron Capital创始人Ron Baron，埃隆·马斯克远程连线出席。&lt;/p&gt;
 &lt;p&gt;在访谈中，马斯克给出一系列重磅预测：&lt;strong&gt;SpaceX今年12月年化收入预计突破1000亿美元，明年12月年化经常性收入有望超5000亿美元；Terafab目标年产一太瓦芯片，相当于明年全球AI芯片产量的30倍；与英伟达联合设计的星链计算机预计2027年三季度开始入轨；智能体互联网流量已超人类流量，五年内或达人类流量1000倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -435,29 +435,7 @@ AI建设四类担忧，市场抓错了重点
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选只不过是最后一根稻草？市场终于正视AI“循环融资”的雷</title><link>https://wallstreetcn.com/articles/3785435</link><guid>aa1f839d6b53cb03b79396162dc26427ae540c6156385725bca946409edd360f</guid><pubDate>Sat, 07 Nov 2026 06:05:05 GMT</pubDate><description>&lt;p&gt;AI繁荣叙事的裂缝正在扩大。中选次日，纳斯达克遭遇新冠疫情以来最大单日跌幅，科技基金年内涨幅悉数抹去，而这场震荡此前长期被市场刻意忽视的一个结构性隐患浮出水面——AI循环融资。&lt;/p&gt;
-&lt;p&gt;摩根大通现金交易全球联席主管Ron Adler在最新市场反思中直言，AI始终是当前市场的核心支点，而随着超大规模云计算企业（hyperscaler）开始转向资本市场为自身野心融资，交易员们顺势沿风险曲线走得更远，大举买入上游零部件和瓶颈资产。&lt;/p&gt;
-&lt;p&gt;然而，这条逻辑链条的脆弱性如今已无从回避。&lt;strong&gt;&amp;quot;循环收入获得了大量关注，但AI对市场和科技板块的循环冲击，在行情顺风的时候并未得到足够审视，&amp;quot;Adler表示，&amp;quot;现在，这一切已经改变。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一判断来得并不偶然。就在同一天，《华尔街日报》等媒体密集报道了AI循环融资的风险，市场情绪骤然转向。标普500指数创下&amp;quot;解放日&amp;quot;以来最大单日跌幅，对冲基金承压明显，市场成交量较前一交易日飙升逾50%。&lt;/p&gt;
-
-循环融资：被忽视的结构性隐患
-
-&lt;p&gt;Adler的分析揭示了过去数年AI交易的核心逻辑：超大规模云计算企业依靠自身强大的资产负债表推进资本开支，市场将此解读为行业基本面的持续强劲，由此催生了一条从核心算力向外延伸的投资链条——芯片、光通信、存储、新兴云计算商（neoclouds）等&amp;quot;铲子与镐头&amp;quot;类资产相继被买入，风险偏好持续抬升。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;然而，当这些企业的扩张逻辑从自有资金转向外部资本市场融资，循环性问题便浮出水面。所谓&amp;quot;循环融资&amp;quot;，指的是AI产业链中各方收入与融资需求相互依存、彼此强化的结构——一旦资本市场条件收紧或市场信心动摇，这一正向循环便可能急速逆转。Adler坦言，这一风险在市场上行阶段未能获得应有的审视。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;具体信号已相当明确：META以7.5%的利率进行融资，Marvell Technology（MRVL）在宣布与LITE交易后股价累计下挫约40%，对冲基金持仓承压。&amp;quot;交易已经摇摇欲坠，&amp;quot;Adler写道，&amp;quot;选举结果或许只是压倒骆驼的最后一根稻草。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-
-拥挤交易承压，抛售蔓延至上下游
-
-&lt;p&gt;Adler指出，仓位拥挤是当前市场的核心痛点。对冲基金多空价差策略在当日有所奏效，但在前一交易日的活动过后，多头敞口仍显偏重。他表示，午后进入尾盘，客户关于痛点水位、因子风险、相关性、仓位拆解与基金压力的问询数量持续攀升，市场活动与焦虑情绪高度匹配。&lt;/p&gt;
-&lt;p&gt;从板块层面看，冲击已清晰蔓延至整条AI产业链：光通信、存储芯片以及新兴云计算商均遭受显著抛压。Adler观察到，当日资金流向的方向性逻辑尚属合理，但抛售幅度之大，令市场参与者普遍感到意外。&lt;/p&gt;
-&lt;p&gt;值得关注的是，部分抛售并非源于基本面判断的改变，而是带有明显的强制性。&amp;quot;我们正在看到的，部分是投资组合层面的痛苦和无差别抛售，&amp;quot;他写道。与此同时，不少投资者此前已为年终行情的反弹预先布局，如今情绪转变，部分人选择挥手离场，以挫败感代替了继续持有的信念。&lt;/p&gt;
-
-经济衰退风险几何？摩根大通内部现分歧
-
-&lt;p&gt;在同一份报告框架下，摩根大通市场情报团队主管Andrew Tyler与Adler的评估明显分化。Tyler团队维持战术性看多立场，援引历史数据指出，当纳斯达克100指数处于历史高点6%以内区间、且单日跌幅超3.5%时，该指数次周平均反弹约3%，这一效应在下跌发生于周五时尤为显著。&lt;/p&gt;
-&lt;p&gt;Tyler同时回应了市场对AI资本开支下滑可能引发经济衰退的担忧，并给出否定判断。他援引多项指标：消费者家庭净资产处于历史高位，现金储备充裕，支票账户余额较新冠疫情前增长五倍；企业利润率处于历史高点或接近高点，大规模裁员尚不具备触发条件；而AI本身对就业市场的直接拉动相当有限——以风暴中心CoreWeave（CRWV）为例，其员工总数仅约550人。&lt;/p&gt;
-&lt;p&gt;Tyler的结论是，AI放缓对经济的最大冲击或许集中于资本开支下滑所带来的GDP增速压力，而非劳动力市场或消费支出的全面恶化，经济层面的系统性风险目前仍属可控。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 卡塔尔称美伊谈判取得重大进展！万斯深度介入，斡旋升至美国政府最高层级</title><link>https://wallstreetcn.com/articles/3785439</link><guid>6c934d8a744af24fad75e0fe9bcfb840599d9a4554ae133ca3b47a5661fe2c00</guid><pubDate>Sat, 07 Nov 2026 07:59:00 GMT</pubDate><description>&lt;p&gt;美伊间接谈判出现迄今最明确的积极信号。卡塔尔首相公开表态谈判已取得&amp;quot;重大成果&amp;quot;，美国媒体同步披露副总统万斯已亲自深度介入谈判进程，标志着这一轮美伊间接斡旋升至美国政府最高决策层级。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 卡塔尔称美伊谈判取得重大进展！万斯深度介入，斡旋升至美国政府最高层级</title><link>https://wallstreetcn.com/articles/3785439</link><guid>6c934d8a744af24fad75e0fe9bcfb840599d9a4554ae133ca3b47a5661fe2c00</guid><pubDate>Sat, 07 Nov 2026 07:59:00 GMT</pubDate><description>&lt;p&gt;美伊间接谈判出现迄今最明确的积极信号。卡塔尔首相公开表态谈判已取得&amp;quot;重大成果&amp;quot;，美国媒体同步披露副总统万斯已亲自深度介入谈判进程，标志着这一轮美伊间接斡旋升至美国政府最高决策层级。&lt;/p&gt;
 &lt;p&gt;据中国国际电视台欧洲分台最新报道，&lt;strong&gt;卡塔尔首相表示：&amp;quot;我们已经取得了很大成果，我相信我们能够达成解决方案。&amp;quot;他同时强调&amp;quot;我们无法等待一个完美的协议，我们希望达成一个好的协议&amp;quot;。这&lt;/strong&gt;是调停方迄今最为正面和明确的公开表态。&lt;/p&gt;
 &lt;p&gt;据环球网援引美国Axios新闻网报道，两名知情人士披露，万斯本人在过去两周参与了与伊朗的间接谈判，旨在促成新的停火协议并重启核谈判。分析人士认为，万斯的介入为谈判走向注入了新的不确定性，也赋予了此轮外交努力更高的政治权重，对市场对地区局势风险的定价具有直接影响。&lt;/p&gt;
 
