@@ -1,43 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 08 Nov 2026 21:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] 美股科技股重挫后，高盛称AI债务供给压力正在信用市场累积</title><link>https://wallstreetcn.com/articles/3785488</link><guid>11beb20632b14539949dc7528c370d2abe8d72d1b484459c51f4093b8f61a8ad</guid><pubDate>Sun, 08 Nov 2026 10:20:57 GMT</pubDate><description>&lt;p&gt;科技股本周遭遇抛售，高盛最新警告称，AI债务的激增，信用市场的压力正在悄然积聚。&lt;/p&gt;
-&lt;p&gt;在2026美国国会中选中，民主党在参众两院及多个州长选举中全面胜出，大量当选候选人承诺限制数据中心建设、加强行业监管，市场由此担忧人工智能基础设施投资将受到政策压制。周四（11月5日）标普500指数单日重挫4.4%，纳斯达克100指数暴跌6.4%，市值蒸发逾3万亿美元，创下新冠疫情以来科技股最惨烈的单日跌幅。&lt;/p&gt;
-&lt;p&gt;然而，股市的剧震或许只是序章——高盛信贷策略师Amanda Lynam在最新报告中警告，&lt;strong&gt;AI债务供给正以远超任何人预期的速度涌入市场，信用利差在未来数周内的风险“明确偏向进一步走阔”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告称，在科技股暴跌之后，&lt;strong&gt;信用市场的压力正在悄然积聚：&lt;/strong&gt;截至11月4日收盘，美元投资级信用利差已收窄至距3月高点仅4个基点，高收益债利差距3月高点仅11个基点——而这还是在周四股市暴跌之前的数据。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;就在选举结果出炉前的短短一周内，Alphabet、亚马逊、微软、Meta和甲骨文五大超大规模云计算商（Hyperscaler）合计完成了五笔债券发行，总规模高达670亿美元，将年内累计发债规模推至2960亿美元。&lt;/strong&gt;这一数字已超越高盛对2026年全年的预测上限——250亿美元。换言之，高盛的预测模型每48小时就被现实击穿一次。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-670亿美元一周，全年预测提前报废
-&lt;p&gt;高盛的预测失效速度令人咋舌。据Amanda Lynam周二发布的报告，截至10月29日以来，五大超大规模云计算商已完成三笔合计417亿美元的债券交易，年内累计发债规模达2710亿美元。&lt;strong&gt;仅仅两天后，又有两笔交易落地，总规模再增250亿美元——相当于高盛每48小时就被“打脸”一次。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;单笔交易的体量同样震撼市场。&lt;strong&gt;微软完成了自2017年以来首笔美元债券发行，规模逾250亿美元&lt;/strong&gt;，一举打破了高盛此前“微软至少在本季度不需要举债”的判断，该判断在不到一天内即告作废。甲骨文则在宣布融资计划仅五天后，于单个上午便耗尽了其原定四年的融资“上限”。&lt;/p&gt;
-&lt;p&gt;高盛对这一超预期现象给出了两点解释：&lt;strong&gt;其一，五大超大规模云计算商在2026年三季度整体出现自由现金流为负的情况，资本支出已超过经营性现金流入&lt;/strong&gt;；其二，部分发行属于对原定2027年融资计划的“提前锁定”。用高盛的话说，&lt;strong&gt;“借款人深知发行窗口未必会一直敞开”&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;年内发债规模已相当于超大规模云计算商2026年资本支出的36%，高于高盛最初假设的33%债务融资比例。&lt;/strong&gt;展望2027年，高盛预计超大规模云计算商直接发债规模将达4400亿美元，叠加投资级与高收益项目融资约3000亿美元，AI相关债务供给管道总规模将逼近7400亿美元——这还不包括任何新兴云计算商、芯片制造商或公用事业公司。&lt;/p&gt;
-利差承压，信用市场“饱和”警报拉响
-&lt;p&gt;高盛明确表示，&lt;strong&gt;在现在至12月初之间，信用利差风险“明确偏向进一步走阔”。&lt;/strong&gt;在美元市场，高盛预计利差将小幅超越3月高点（投资级93个基点，高收益335个基点）；在欧元市场，则将2025年4月水平视为近期下行情景的参照（投资级128个基点，高收益446个基点）。&lt;/p&gt;
-&lt;p&gt;高盛的年末目标隐含利差较当前水平略有收窄，但Lynam在报告中坦承，这主要反映的是12月供给枯竭时的季节性收紧规律，“而供给技术面今年尤为关键”。&lt;/p&gt;
-&lt;p&gt;从超额回报来看，今年美元投资级债券相对国债的超额回报仅为0.1%，高收益债为0.0%，欧元高收益债甚至为-1.0%。&lt;strong&gt;十个月的创纪录供给之后，信用投资者几乎颗粒无收。&lt;/strong&gt; 这或许也解释了为何高盛近期悄然放弃了对投资级债券相对高收益债的偏好，转而青睐BBB级相对A级和AA级的配置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;大额交易的定价压力同样不容忽视。&lt;/strong&gt;今年以来，美元投资级市场已出现27笔规模在100亿美元以上的交易，合计规模达5010亿美元，约为去年同类交易规模的2.5倍。&lt;strong&gt;其中14笔、占总金额约66%（约3300亿美元）与AI相关。AI相关交易的新发溢价（new issue concession）在11月迄今平均约为18个基点，远高于非AI交易的不足7个基点，也显著高于2025年初以来AI交易约8个基点的均值。&lt;/strong&gt;换言之，全球信用评级最高的借款人正在支付接近垃圾债水平的溢价来完成发行，而每一笔溢价都会将二级市场曲线进一步推宽。&lt;/p&gt;
-选举冲击：数据中心暂停令与私募信贷的最后防线
-&lt;p&gt;在政策层面，高盛经济学家认为，本次选举结果不太可能从联邦层面改变数据中心及AI监管框架——相关立法仍需两党参议院支持并须通过否决关。&lt;strong&gt;近期风险主要来自地方层面：民主党在州及地方选举中的胜利，可能在短期内引发数据中心建设暂停令，潜在影响约45%的美国规划数据中心产能，仅得克萨斯州一地便占其中25%。&lt;/strong&gt;高盛经济学家预计，这些暂停令将是短暂的，长期来看相关问题有望淡出。&lt;/p&gt;
-&lt;p&gt;然而信用市场并不打算等待结果揭晓。Lynam表示，高收益债一级市场近期可能处于“价格发现阶段”，市场将高度关注项目融资交易的结构设计，“近期价格走势已充分说明了购电方（offtaker）质量的重要性”。&lt;/p&gt;
-&lt;p&gt;当银团贷款市场出现拥堵时，&lt;strong&gt;高盛将私募资本视为备用出口。&lt;/strong&gt;私募市场目前管理规模达17万亿美元（不含二级市场及母基金），拥有4.6万亿美元的待投资金，自2025年初以来已完成逾2250亿美元的数据中心融资（不含GPU及芯片抵押交易）。&lt;strong&gt;但高盛也承认，私募信贷选择在自身违约率刚刚创下历史新高的年份成为AI融资的&amp;quot;最后贷款人&amp;quot;，时机颇为微妙。&lt;/strong&gt;&lt;/p&gt;
-货币化时钟与饱和时钟的赛跑
-&lt;p&gt;高盛的分析框架最终归结为两个变量的赛跑：&lt;strong&gt;AI货币化加速意味着更少的债务；货币化延迟与采购承诺增长则意味着更多的债务——“取决于市场条件”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;前者最快也是2028年的故事，后者则每48小时就在推进：&lt;/strong&gt;2960亿美元的超大规模云计算商债券已经落地，全球AI相关债务总量达6870亿美元，明年还有4400亿美元的超大规模云计算商直接发行加上3000亿美元的项目融资在等待，更有数万亿美元的表外承诺尚未进入债务统计。&lt;/p&gt;
-&lt;p&gt;高盛的基准情景是，12月惯常的供给淡季将为其年末利差目标提供喘息空间。但正如Lynam所言，在现在至12月初之间，风险天平已明确倒向利差走阔一侧。&lt;strong&gt;信用市场曾是AI交易中最后一个仍给予“疑点利益”的资产类别；随着超额回报归零、发行人公开竞相锁定融资窗口，这一“疑点利益”正在快速消耗殆尽。&lt;/strong&gt;&lt;/p&gt;
-表外负债：冰山之下的万亿隐忧
-&lt;p&gt;债券发行数据所呈现的，仅是冰山一角。Lynam在周二的报告中，首次对超大规模云计算商的表外义务进行了系统性量化：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1.7万亿美元的经营性和融资性租赁承诺&lt;/strong&gt;，其中逾75%涉及尚未开始执行的租约，依据租赁会计准则，这些义务目前尚未体现在任何一方的资产负债表上；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1.9万亿美元的其他无条件采购承诺&lt;/strong&gt;（涵盖第三方云容量、服务器、网络、电力合同及建设项目），其中6850亿美元将于2027年底前到期，且不含或有&amp;quot;兜底&amp;quot;义务。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;高盛承认，上述部分承诺已被纳入市场一致预期的资本支出中，但仍将其视为额外的现金使用——每一笔无法由经营性现金流覆盖的承诺，最终都将转化为债券、贷款或股权融资。高盛的表述是：“货币化延迟与采购承诺增长……是推动更多债务发行的关键风险。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;全球顶级评级机构已开始发出警示。&lt;/strong&gt;穆迪于9月22日指出，超大规模云计算商的整体财务承诺自2023年以来增长了八倍，达到2.8万亿美元。标普于10月15日警告称，AI融资生态系统的“容错空间正在收窄”，或有担保及新型表外融资工具可能进一步扩张并对评级构成压力。10月下旬，标普下调了博通和Meta的评级展望，均援引了表外义务因素。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛的结论是：“2028年前货币化的证据至关重要”，否则评级将面临下滑压力。&lt;/strong&gt;不过高盛也指出，AI相关企业普遍处于投资级评级的较高档位，即便遭遇多档下调，也不太可能被切断市场融资渠道，并将其类比为十年前制药行业评级的缓慢下移。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Meta在其SEC文件中明确表示，公司&amp;quot;认识到时机至关重要，需要在竞争对手耗尽各类融资渠道之前锁定资本&amp;quot;。&lt;strong&gt;当发行人自己都在公开抢跑债券市场的资产负债表，这一资产负债表本身便成为了稀缺资源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 无视涨跌都有正向现金流的才叫资产</title><link>http://www.xueqiu.com/7083498723/415975793</link><guid>ce51cf9d2b95967b70642ef037259c010a7d7888aa81a53926fc9515ea4611c2</guid><pubDate>Sun, 08 Nov 2026 14:48:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贵出贱取之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2005年，我第一次读《富爸爸穷爸爸》一书，感觉眼前豁然开朗，书里有一个让我印象深刻、直指本质的观点：&lt;b&gt;资产就是把钱放进你口袋的东西，负债则是把钱从你口袋拿走的东西。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic斥资34亿美元采购燃气发电设备，为数据中心供电</title><link>https://wallstreetcn.com/articles/3785493</link><guid>33d8304612b31b818ca0c595414482bf0376b28941c2f3128da97732ddbc2195</guid><pubDate>Sun, 08 Nov 2026 12:33:42 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic正以前所未有的力度直接介入能源基础设施领域。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 08 Nov 2026 22:29:19 GMT</lastBuildDate><item><title>[今日雪球] 无视涨跌都有正向现金流的才叫资产</title><link>http://www.xueqiu.com/7083498723/415975793</link><guid>ce51cf9d2b95967b70642ef037259c010a7d7888aa81a53926fc9515ea4611c2</guid><pubDate>Sun, 08 Nov 2026 14:48:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贵出贱取之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2005年，我第一次读《富爸爸穷爸爸》一书，感觉眼前豁然开朗，书里有一个让我印象深刻、直指本质的观点：&lt;b&gt;资产就是把钱放进你口袋的东西，负债则是把钱从你口袋拿走的东西。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic斥资34亿美元采购燃气发电设备，为数据中心供电</title><link>https://wallstreetcn.com/articles/3785493</link><guid>33d8304612b31b818ca0c595414482bf0376b28941c2f3128da97732ddbc2195</guid><pubDate>Sun, 08 Nov 2026 12:33:42 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic正以前所未有的力度直接介入能源基础设施领域。&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》11月8日报道，&lt;strong&gt;Anthropic于9月下旬斥资34亿美元，从得克萨斯州圣安东尼奥设备供应商OnePWR Solutions购得1.7吉瓦燃气重型发电机组的采购承诺&lt;/strong&gt;，成为迄今已知AI实验室单笔最大规模的发电设备采购交易。此次交易还涵盖安装发电机所需的工程与施工能力，但Anthropic并未收购OnePWR公司本身，OnePWR员工亦未随之转入Anthropic。&lt;/p&gt;
 直接采购：绕开中间商抢占稀缺资源
 &lt;p&gt;据报道，知情人士透露，OnePWR此前已向卡特彼勒（Caterpillar）下单订购发电机，但需要融资支持才能完成交易。&lt;strong&gt;Anthropic最初计划以客户身份向OnePWR采购，但最终选择直接接手其在卡特彼勒的设备订单。&lt;/strong&gt;&lt;/p&gt;
