@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 08 Nov 2026 23:29:19 GMT</lastBuildDate><item><title>[今日雪球] 无视涨跌都有正向现金流的才叫资产</title><link>http://www.xueqiu.com/7083498723/415975793</link><guid>ce51cf9d2b95967b70642ef037259c010a7d7888aa81a53926fc9515ea4611c2</guid><pubDate>Sun, 08 Nov 2026 14:48:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贵出贱取之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2005年，我第一次读《富爸爸穷爸爸》一书，感觉眼前豁然开朗，书里有一个让我印象深刻、直指本质的观点：&lt;b&gt;资产就是把钱放进你口袋的东西，负债则是把钱从你口袋拿走的东西。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic斥资34亿美元采购燃气发电设备，为数据中心供电</title><link>https://wallstreetcn.com/articles/3785493</link><guid>33d8304612b31b818ca0c595414482bf0376b28941c2f3128da97732ddbc2195</guid><pubDate>Sun, 08 Nov 2026 12:33:42 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic正以前所未有的力度直接介入能源基础设施领域。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 09 Nov 2026 00:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易“风向标”：Meta发债“一波三折”</title><link>https://wallstreetcn.com/articles/3785501</link><guid>62d9e326ad00b9f50fa1938f7013e0936e1a5f97faf29bc2a2460bc0629b3311</guid><pubDate>Mon, 09 Nov 2026 00:16:18 GMT</pubDate><description>&lt;p&gt;Meta Platforms在美国中选日当天完成了一笔规模庞大的债券发行，这一非常规操作折射出科技巨头为AI融资所面临的日益复杂的市场环境。&lt;/p&gt;
+&lt;p&gt;据彭博11月8日报道，&lt;strong&gt;Meta最终成功筹集了超过460亿美元的资金&lt;/strong&gt;，包括250亿美元美元债、90亿欧元欧洲债券、250亿美元普通股及125亿美元优先股，并计划通过市价发行计划额外筹集最多600亿美元。然而，这笔交易的完成并非一帆风顺——标普评级展望下调、微软大规模发债抢占市场、以及民主党在中期选举中横扫国会，均对交易时机和定价构成干扰。&lt;/p&gt;
+&lt;p&gt;民主党赢得众参两院多数席位后，市场对AI数据中心开发前景的担忧迅速升温。科技公司债券利差在选举周整体走阔，投资者开始重新评估AI资本支出能否如期转化为收益。&lt;/p&gt;
+选举日发债：非常规时机背后的权衡
+&lt;p&gt;报道称，Meta原计划在10月底至11月初完成本季度的债券发行，但多重因素接连打乱节奏。&lt;/p&gt;
+&lt;p&gt;由于财报前静默期，Meta此前已被迫长时间退出债券市场。10月下旬，微软完成了一笔250亿美元的大规模债券发行，大量吸收了投资者资金，令Meta的发行窗口进一步收窄。11月3日选举日当周，Alphabet在周一（11月2日）完成了60亿欧元的欧元债发行，甲骨文同日在美国市场借款100亿美元，市场供给压力持续累积。&lt;/p&gt;
+&lt;p&gt;在此背景下，&lt;strong&gt;Meta与花旗集团和摩根士丹利的银行家反复商议时机，最终决定在选举日当天启动美元债发行——尽管这一做法打破惯例。&lt;/strong&gt;选举日通常是市场的相对平静期，资金管理人往往专注于关注早期选举结果，不愿在价格可能大幅波动前承担过多风险，这反而为Meta提供了一个相对可用的窗口。&lt;/p&gt;
+密集路演：500名投资者、CFO亲自出马
+&lt;p&gt;为确保发行成功，Meta在发行前展开了高强度的投资者沟通。&lt;/p&gt;
+&lt;p&gt;据彭博报道，知情人士透露，周一起，Meta的银行家在两天内向美国和欧洲约&lt;strong&gt;500名机构投资者&lt;/strong&gt;进行了电话推介，这一数字在同类交易中属于较高水平。&lt;strong&gt;Meta首席财务官Susan Li亲自参与了部分投资者电话会议&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在沟通内容上，Meta向投资者明确表示，&lt;strong&gt;公司计划至少在明年第二季度之前不再回到无担保债券市场&lt;/strong&gt;。与此同时，Meta还就AI投资如何产生回报作出说明，并介绍了多元化融资来源的策略。&lt;/p&gt;
+&lt;p&gt;这一系列举措，与垃圾债市场中更为常见的精细化时机管理和主动沟通方式如出一辙，标志着超大规模科技公司在债券融资上的策略正在发生明显转变。&lt;/p&gt;
+定价代价：利差显著走阔
+&lt;p&gt;尽管发行最终完成，但Meta付出了不低的融资成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次美元债中期限最长的2056年到期债券，定价利差为高于美国国债220个基点，较Meta今年4月发行的同类债券利差扩大了约90个基点。&lt;/strong&gt;这一变化直观反映出市场对科技公司AI资本支出可持续性的疑虑正在加深。&lt;/p&gt;
+&lt;p&gt;Oracle的情况同样印证了这一趋势。Oracle在向投资者明确表示本次借款规模仅为100亿美元且&amp;quot;不会增加&amp;quot;（WNG，will not grow），并同步发行等额股票后，仍需支付较其现有债券高出约35个基点的收益率溢价。&lt;/p&gt;
+&lt;p&gt;TwentyFour Asset Management投资组合经理Jack Daley表示：&lt;/p&gt;
+&lt;p&gt;“投资者正在要求更高的溢价，以及更清晰的说明——巨额AI资本支出究竟如何转化为收入和自由现金流。超大规模科技公司已开始更主动地向市场指引交易时机，以及何时自由现金流将重回正值。”&lt;/p&gt;
+&lt;p&gt;值得注意的是，美元债发行完成后，Meta于上周三（11月4日）完成了其&lt;strong&gt;首笔欧元债券发行&lt;/strong&gt;，规模达90亿欧元，吸引订单高达&lt;strong&gt;530亿欧元&lt;/strong&gt;，创下欧洲企业债市场有史以来单笔交易的最高订单纪录。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这笔欧元债是Meta更大范围融资计划的组成部分。&lt;/strong&gt;除债券外，Meta上月还完成了250亿美元普通股发行和125亿美元优先股发行，均由摩根士丹利和高盛集团主导。此外，Meta还计划通过市价发行计划筹集最多600亿美元，该计划允许公司在公开市场上分批出售股票。&lt;/p&gt;
+民主党&amp;quot;蓝色浪潮&amp;quot;：AI监管风险骤升
+&lt;p&gt;Meta完成发行后，政治格局的变化迅速成为市场新的关注焦点。&lt;/p&gt;
+&lt;p&gt;民主党在本次中期选举中大获全胜，不仅赢得众参两院多数席位，还在俄亥俄、佐治亚、宾夕法尼亚、德克萨斯等州赢得州长职位。据分析，&lt;strong&gt;美国约半数AI数据中心新增项目面临更严格的地方审查和阻力&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;市场对此反应分歧。周三，科技公司债券价格普遍上涨，投资者预期政治压力将放缓数据中心建设和企业资本支出，从而减少借贷需求，为债券投资者提供一定缓解。但到周四，科技债利差再度走阔，市场担忧在更严格的监管环境下，AI投资回报周期将被拉长。截至周五收盘，科技公司债券平均利差较一周前整体走阔。&lt;/p&gt;
+科技债“盛宴”规模仍属历史级别
+&lt;p&gt;尽管融资难度上升，科技及AI相关企业的举债规模依然庞大。&lt;/p&gt;
+&lt;p&gt;据彭博汇编数据，今年以来，全球投资级市场企业及项目融资总额已超过&lt;strong&gt;4150亿美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;更多大型交易仍在推进中。据报道，高盛集团和Apollo Global Management正与投资者洽谈，计划开始出售SpaceX约&lt;strong&gt;400亿美元&lt;/strong&gt;芯片融资交易的部分份额，该交易由贷款和债券共同构成。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;市场也出现了明显的收缩信号。&lt;/strong&gt;Meta和甲骨文的最新美元债发行规模均低于此前已成惯例的250亿美元以上水平，企业正有意控制单笔发行规模。&lt;/p&gt;
+&lt;p&gt;相比之下，今年3月亚马逊在美国市场发行了370亿美元债券，并在欧元市场额外筹集了约170亿美元等值资金——彼时的市场环境与当前已不可同日而语。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 无视涨跌都有正向现金流的才叫资产</title><link>http://www.xueqiu.com/7083498723/415975793</link><guid>ce51cf9d2b95967b70642ef037259c010a7d7888aa81a53926fc9515ea4611c2</guid><pubDate>Sun, 08 Nov 2026 14:48:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贵出贱取之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2005年，我第一次读《富爸爸穷爸爸》一书，感觉眼前豁然开朗，书里有一个让我印象深刻、直指本质的观点：&lt;b&gt;资产就是把钱放进你口袋的东西，负债则是把钱从你口袋拿走的东西。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic斥资34亿美元采购燃气发电设备，为数据中心供电</title><link>https://wallstreetcn.com/articles/3785493</link><guid>33d8304612b31b818ca0c595414482bf0376b28941c2f3128da97732ddbc2195</guid><pubDate>Sun, 08 Nov 2026 12:33:42 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic正以前所未有的力度直接介入能源基础设施领域。&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》11月8日报道，&lt;strong&gt;Anthropic于9月下旬斥资34亿美元，从得克萨斯州圣安东尼奥设备供应商OnePWR Solutions购得1.7吉瓦燃气重型发电机组的采购承诺&lt;/strong&gt;，成为迄今已知AI实验室单笔最大规模的发电设备采购交易。此次交易还涵盖安装发电机所需的工程与施工能力，但Anthropic并未收购OnePWR公司本身，OnePWR员工亦未随之转入Anthropic。&lt;/p&gt;
 直接采购：绕开中间商抢占稀缺资源
 &lt;p&gt;据报道，知情人士透露，OnePWR此前已向卡特彼勒（Caterpillar）下单订购发电机，但需要融资支持才能完成交易。&lt;strong&gt;Anthropic最初计划以客户身份向OnePWR采购，但最终选择直接接手其在卡特彼勒的设备订单。&lt;/strong&gt;&lt;/p&gt;
@@ -16,35 +45,23 @@
 &lt;/blockquote&gt;
 &lt;p&gt;值得注意的是，&lt;strong&gt;Anthropic同时也是SpaceX的重要客户，向其租用计算资源的月度付款预计到年底将达到31亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic正筹备最早于本月启动IPO，此次上市有望成为史上规模最大的上市交易之一，旨在为其2045年前逾8950亿美元的计算基础设施支出提供资金支持。 Anthropic计划最快于11月9日当周启动IPO正式路演，AI交易暴跌后，该公司的IPO计划正面临严峻考验。潜在投资者对这家AI公司的估值预期大幅下调至1.5万亿美元以下。&lt;/p&gt;
-&lt;p&gt;然而，这一宏大计划面临障碍。&lt;strong&gt;黑石（Blackstone）已向投资者发出警告，Anthropic可能获得垃圾级信用评级，而非此前预期的投资级评级。&lt;/strong&gt;这一表态为Anthropic的上市之路增添了不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从AI政策规划来看，中国无疑是跑在最前面的。</title><link>http://www.xueqiu.com/2426670165/416022304</link><guid>056fc9030e9a94e8a1915556e39dba1101d27c218ecbf7b1dbdab9cc1b6fc5ba</guid><pubDate>Sun, 08 Nov 2026 14:48:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;赢在中国V&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周五晚间中国国常会：完善资本市场稳市机制，增强股市内在稳定性。对于稳定资本市场，定调越来越高。在全球市场暴跌基础上，港股和A股周五走出低开阳线已属不易。&lt;br&gt;AI进入新变局，海外数据中心建设逐步遭遇阻力，而在国内，算力一体化则是国策。两相比较下，中国的算力更有保障。&lt;br&gt;Anthropic招股受到冷遇，则是大模型的话术走到尽头。AI商业化，是靠真正商业化路径跑通，而不是贩卖焦虑。编程的优势已经逐步吞噬，Anthropic等大模型就讲网安的故事，这是典型搬起石头砸自己的脚，币安被盗事件，说明大模型沦为网攻的工具，这不是正常的商业化路径，注定会行不通。&lt;br&gt;通用大模型轰轰烈烈崛起，发展到如今，已经演变成鸡鸣狗盗之辈。稍微细想，就能明白硬件逻辑不堪一击、赢在中国是现实主义者，大模型吹得天花乱坠，至今Token消耗量最大依旧是视听生成，而Token用量又是AI的商业化一大标志，从中可以看出国家实施词元出海的大智慧。&lt;br&gt;从AI政策规划来看，中国无疑是跑在最前面的。在实行算力一体化之后，中国的政策重心已经向AI商业化终端倾斜，而美国等还在为建设数据中心吵得不可开交、赢在中国不得不承认，这就是制度优越性，中国的制度更容易办好大事。&lt;br&gt;在赢在中国看来，中国目前的困境类似上世纪八十年代的美国。当时美国大学生就业困难，但当硅谷崛起之后，过剩的大学生资源，则成为互联网的中军。同样道理，现在中国正处于AI商业化爆发初期，未来伴随着AI商业化加速落地，会有大批科技企业崛起，同样也会带动大量就业。&lt;br&gt;中国，依旧有各种各样的不足，但也不需要妄自菲薄。这几十年来，中国人从一无所有到有家有业，回过头来看，这就是伟大成就。只要是朝着正确的方向前行，就需要有足够的包容之心。对人是这样，对企业如此，对国家同样。很多时候，不在其位不谋其政，站的角度不一样，结论也会完全不同。&lt;br&gt;要做一个成功的投资者，在底部和顶部阶段，注定是一个孤独者。永远敬畏市场，但也不要夸大市场波动，最终市场的优胜劣汰会发挥作用。目前A股还是一个不成熟的市场，很多非市场化手段左右，要学会理解，那么才更容易融入市场。&lt;br&gt;以上言论只是和铁粉交流，不构成买卖建议，投资者需理性对待。如观点不同，可以退出关注，或者直接拉黑，谢谢配合！&lt;/p&gt;</description></item><item><title>[今日雪球] 油运供需格局全面评估</title><link>http://www.xueqiu.com/4531216350/416031208</link><guid>e649495ca57f82184a44e151b830c89fc1207465aa97169efa6cb0399abc86a0</guid><pubDate>Sun, 08 Nov 2026 14:48:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;莫问是谁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;万物皆周期，任何一个行业都有其兴衰周期规律，观察研究周期规律首要的是观察研究供需格局。供需格局决定行业兴衰，行业兴衰反应供需格局。供给越紧缺，行业必定越景气；供给越过剩，行业必定越萧条。反之，行业越景气，说明供给越紧缺；行业越萧条，说明供给越过剩。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克中选后要被“秋后算账”？德银：算力越紧张SpaceX越赚钱，政治风险被高估</title><link>https://wallstreetcn.com/articles/3785492</link><guid>0a5768701dc8a954fe2749882f9efbd9511fe26f7e2a9de9ec04529f9fb85290</guid><pubDate>Sun, 08 Nov 2026 12:00:09 GMT</pubDate><description>&lt;p&gt;德意志银行最新研报认为，尽管中期选举后外界对SpaceX的政治风险存在诸多担忧，但该公司整体处于相对稳固的位置——&lt;strong&gt;核心业务受国会干预的空间有限，潜在的AI算力监管收紧甚至可能反向推高公司收入&lt;/strong&gt;。不过，该行同时指出，得克萨斯州新任州长的政策立场、轨道数据中心的商业化进程，以及SpaceX与特斯拉潜在合并的监管走向，仍是需要持续跟踪的多个变量。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，德意志银行分析师Edison Yu在11月6日发布的报告中，对中期选举后SpaceX所面临的政治风险进行了系统梳理。报告指出，&lt;strong&gt;马斯克为共和党提供了大量财务支持，市场由此产生了对政治报复风险的担忧&lt;/strong&gt;，但这一担忧在很大程度上被高估。&lt;/p&gt;
-&lt;p&gt;报告同时提示，得克萨斯州候任州长对数据中心的强硬表态，是目前最值得关注的近期风险点。若得克萨斯州对AI数据中心实施更严格审查，SpaceX在该州的算力扩张节奏可能放缓、成本上升，但预计这一影响在2027年之前对公司整体估算的冲击有限。&lt;/p&gt;
-&lt;p&gt;报告维持对SpaceX的“买入”评级，目标价250美元，而该股11月5日收盘价为123.62美元。&lt;/p&gt;
-国会干预空间有限，核心合同难以被替代
-&lt;p&gt;报告指出，&lt;strong&gt;SpaceX的火箭发射及卫星通信合同均与联邦行政机构签订，包括NASA、太空军（Space Force）等&lt;/strong&gt;，国会对这些合同的直接干预渠道极为有限。&lt;/p&gt;
-&lt;p&gt;更关键的是，在许多业务领域，目前市场上并不存在可行的替代供应商。报告以&amp;quot;星盾&amp;quot;（Starshield）在乌克兰的应用为例指出，若国会试图削减相关预算，最终损害的可能是美国自身利益，而非SpaceX。&lt;/p&gt;
-&lt;p&gt;在AI算力领域，报告提及政府与SpaceX之间存在一项传闻中的算力合作协议，对方为美国国防部（DoW）。&lt;/p&gt;
-&lt;p&gt;此外，报告还指出，&lt;strong&gt;若SpaceX与特斯拉寻求合并，国会无权直接阻止，因为反垄断事务由联邦贸易委员会（FTC）和司法部（DOJ）负责&lt;/strong&gt;，但国会听证程序可能对合并进程造成一定拖延。&lt;/p&gt;
-得克萨斯州新州长的表态是最直接的近期变量
-&lt;p&gt;德意志银行将得克萨斯州候任州长的政策立场列为目前最具实质性影响的政治风险。该候任州长在接受CNN采访时明确表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“得克萨斯州一直是一个亲商业的州，但当我担任州长时，有所改变的是，这必须是一种让得克萨斯人受益的合作关系……数据中心进入了大多数农村社区，却没有任何规则和法律来保护德克萨斯人……我们需要在建立这些保护措施之前，停止在数据中心方面的行动……我不是讨厌数据中心，我讨厌的是它们利用德克萨斯的方式，这种情况在我担任州长时将会停止。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;德意志银行认为，这一表态更可能导致得克萨斯州对数据中心项目进行更严格的审查，而非全面禁止。报告预计，&lt;strong&gt;SpaceX 2027年的绝大多数算力将部署在得克萨斯州以外（规模为8至10吉瓦）&lt;/strong&gt;，因此短期内对公司估算影响不大。但2028年及以后的扩张计划存在不确定性，路易斯安那州等SpaceX正在积极布局的地区或成为替代选项。&lt;/p&gt;
-&lt;p&gt;在成本层面，德意志银行提示，若德克萨斯州的监管环境趋严，SpaceX在该州新增算力的建设成本可能超过每瓦35美元。&lt;/p&gt;
-算力供给收紧或反向利好SpaceX收入
-&lt;p&gt;与此同时，德意志银行在报告中提出了一个值得关注的反向逻辑：&lt;strong&gt;若得到克萨斯州政策导致美国整体算力扩张明显放缓，SpaceX反而可能从中受益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，SpaceX已展现出比竞争对手更快、更低成本的算力建设能力。其与客户签订的新云（neocloud）合同设有90天取消条款，这使公司能够在现货市场价格大幅上涨时灵活捕捉上行空间。&lt;/p&gt;
-&lt;p&gt;德意志银行认为，若行业整体算力供给受限，SpaceX有能力在未来数年内大幅提高定价，从而推动收入和EBITDA上升，同时资本支出下降。报告将这一情景描述为“奇特的动态”——公司基本面改善，但投资者可能因此给予其较低的“AI估值倍数”。&lt;/p&gt;
-&lt;p&gt;针对德克萨斯州的政策不确定性，马斯克近期公开表示：“太空中的数据中心现在看起来相当有吸引力。”这一表态令轨道数据中心（ODC）再度进入市场视野。&lt;/p&gt;
-&lt;p&gt;德意志银行指出，投资者目前对轨道数据中心的商业可行性普遍持怀疑态度。报告认为，&lt;strong&gt;星舰（Starship）的快速可复用性，以及太阳能电池板和散热器的大规模国内生产，将是解锁轨道数据中心经济性的关键&lt;/strong&gt;。德意志银行的基准预测为，到2029年底，轨道数据中心的部署规模可达500兆瓦。&lt;/p&gt;
-&lt;p&gt;在火箭发射业务层面，德意志银行指出，商业航天发射的许可证审批及公共安全监管属于联邦职责，主要由联邦航空管理局（FAA）负责，德克萨斯州州长无法直接干预。&lt;/p&gt;
-&lt;p&gt;但报告同时提示，&lt;strong&gt;州长可通过土地使用权、州级许可证、激励政策调整，以及未来可能的海滩关闭规则立法修改等手段，对星际基地（Starbase）的扩张制造摩擦&lt;/strong&gt;，增加扩建难度。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年11月9日</title><link>https://wallstreetcn.com/articles/3785497</link><guid>eba363ef3986ce6ea461897623dc19648efd5ae04b3a8c28bbc9c677f33046a9</guid><pubDate>Sun, 08 Nov 2026 23:00:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;然而，这一宏大计划面临障碍。&lt;strong&gt;黑石（Blackstone）已向投资者发出警告，Anthropic可能获得垃圾级信用评级，而非此前预期的投资级评级。&lt;/strong&gt;这一表态为Anthropic的上市之路增添了不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低</title><link>https://wallstreetcn.com/articles/3785498</link><guid>eabadb2824def78ecd510204e9e274b143834a8dde11d15040252700ef115e3d</guid><pubDate>Sun, 08 Nov 2026 23:53:04 GMT</pubDate><description>特朗普称“铁门”特遣行动正全面展开，几乎没有物资能进出伊朗
+&lt;p&gt;当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。&lt;/p&gt;
+&lt;p&gt;当地时间11月7日，美军中央司令部司令库珀下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。&lt;/p&gt;
+&lt;p&gt;据介绍，该特遣队由约20名文职及军事人员组成，驻扎在美国佛罗里达州坦帕市。这支新成立的特遣队将与美国其他政府机构展开协调合作，阻止先进武器系统、军民两用技术、受制裁物资及“非法资金”通过伊朗陆地边境和里海进行跨境流动。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://www.thepaper.cn/newsDetail_forward_34436228"&gt;澎湃新闻&lt;/a&gt;&lt;/p&gt;
+特朗普称若美伊谈判取得进展，再次发动打击可能性极低
+&lt;p&gt;当地时间11月8日，美国总统特朗普表示，只要围绕伊朗核计划及重新开放霍尔木兹海峡的谈判取得进展，美国再次对伊朗发动军事打击的可能性就“极低”。特朗普称，关键在于伊朗是否愿意签署一项“非常有力的协议”，并强调如果有必要，美国仍可能采取军事行动。&lt;/p&gt;
+&lt;p&gt;特朗普表示，美军已做好再次打击伊朗的准备，目前在相关地区部署了3艘航空母舰。他还称，美方已确定伊朗境内的发电厂、桥梁等基础设施目标，包括38座可在一小时内摧毁的桥梁，但他并不希望采取此类行动，因为重建这些设施可能需要10年。&lt;/p&gt;
+&lt;p&gt;2月28日美国和以色列联合发动对伊朗大规模军事行动以来，特朗普多次就结束伊朗战事的意愿发表前后矛盾的言论。目前美伊处于僵持状态，外交进展甚微。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://news.cctv.com/2026/11/09/ARTINmNxo9JLUn7AnmCkGezd261109.shtml"&gt;央视新闻&lt;/a&gt;&lt;/p&gt;
+沙特媒体：伊拉克代表团访问伊朗并转达美方信息
+&lt;p&gt;据沙特阿拉伯阿拉比亚电视台旗下哈达斯新闻频道8日报道，一个伊拉克代表团日前访问伊朗首都德黑兰，与伊朗官员举行会谈并转达美国方面的信息。&lt;/p&gt;
+&lt;p&gt;报道援引匿名消息人士的话说，伊拉克代表团此次访问持续约8小时。访问发生在美国特使汤姆·巴拉克访问伊拉克首都巴格达，以及美国总统特朗普与伊拉克总理扎伊迪通电话之后。&lt;/p&gt;
+&lt;p&gt;报道未透露伊拉克代表团成员及会见的伊朗官员身份，也未披露美方信息的具体内容。&lt;/p&gt;
+&lt;p&gt;阿拉比亚电视台7日援引消息人士的话报道说，美国已向伊拉克政府发出警告，称伊拉克境内武装派别如果在美伊冲突重新爆发时加入伊朗一方，其总部和据点将成为打击目标。&lt;/p&gt;
+&lt;p&gt;报道说，美方敦促伊拉克政府阻止境内武装派别对邻国发动袭击。美国特使巴拉克要求伊拉克政府坚持武器控制权由国家掌握的原则。&lt;/p&gt;
+&lt;p&gt;本文来源：&lt;a href="https://www.news.cn/world/20261109/a2c142b936e24e72904ad0d24a1880a2/c.html"&gt;新华社&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从AI政策规划来看，中国无疑是跑在最前面的。</title><link>http://www.xueqiu.com/2426670165/416022304</link><guid>056fc9030e9a94e8a1915556e39dba1101d27c218ecbf7b1dbdab9cc1b6fc5ba</guid><pubDate>Sun, 08 Nov 2026 14:48:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;赢在中国V&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周五晚间中国国常会：完善资本市场稳市机制，增强股市内在稳定性。对于稳定资本市场，定调越来越高。在全球市场暴跌基础上，港股和A股周五走出低开阳线已属不易。&lt;br&gt;AI进入新变局，海外数据中心建设逐步遭遇阻力，而在国内，算力一体化则是国策。两相比较下，中国的算力更有保障。&lt;br&gt;Anthropic招股受到冷遇，则是大模型的话术走到尽头。AI商业化，是靠真正商业化路径跑通，而不是贩卖焦虑。编程的优势已经逐步吞噬，Anthropic等大模型就讲网安的故事，这是典型搬起石头砸自己的脚，币安被盗事件，说明大模型沦为网攻的工具，这不是正常的商业化路径，注定会行不通。&lt;br&gt;通用大模型轰轰烈烈崛起，发展到如今，已经演变成鸡鸣狗盗之辈。稍微细想，就能明白硬件逻辑不堪一击、赢在中国是现实主义者，大模型吹得天花乱坠，至今Token消耗量最大依旧是视听生成，而Token用量又是AI的商业化一大标志，从中可以看出国家实施词元出海的大智慧。&lt;br&gt;从AI政策规划来看，中国无疑是跑在最前面的。在实行算力一体化之后，中国的政策重心已经向AI商业化终端倾斜，而美国等还在为建设数据中心吵得不可开交、赢在中国不得不承认，这就是制度优越性，中国的制度更容易办好大事。&lt;br&gt;在赢在中国看来，中国目前的困境类似上世纪八十年代的美国。当时美国大学生就业困难，但当硅谷崛起之后，过剩的大学生资源，则成为互联网的中军。同样道理，现在中国正处于AI商业化爆发初期，未来伴随着AI商业化加速落地，会有大批科技企业崛起，同样也会带动大量就业。&lt;br&gt;中国，依旧有各种各样的不足，但也不需要妄自菲薄。这几十年来，中国人从一无所有到有家有业，回过头来看，这就是伟大成就。只要是朝着正确的方向前行，就需要有足够的包容之心。对人是这样，对企业如此，对国家同样。很多时候，不在其位不谋其政，站的角度不一样，结论也会完全不同。&lt;br&gt;要做一个成功的投资者，在底部和顶部阶段，注定是一个孤独者。永远敬畏市场，但也不要夸大市场波动，最终市场的优胜劣汰会发挥作用。目前A股还是一个不成熟的市场，很多非市场化手段左右，要学会理解，那么才更容易融入市场。&lt;br&gt;以上言论只是和铁粉交流，不构成买卖建议，投资者需理性对待。如观点不同，可以退出关注，或者直接拉黑，谢谢配合！&lt;/p&gt;</description></item><item><title>[今日雪球] 油运供需格局全面评估</title><link>http://www.xueqiu.com/4531216350/416031208</link><guid>e649495ca57f82184a44e151b830c89fc1207465aa97169efa6cb0399abc86a0</guid><pubDate>Sun, 08 Nov 2026 14:48:42 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;莫问是谁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;万物皆周期，任何一个行业都有其兴衰周期规律，观察研究周期规律首要的是观察研究供需格局。供需格局决定行业兴衰，行业兴衰反应供需格局。供给越紧缺，行业必定越景气；供给越过剩，行业必定越萧条。反之，行业越景气，说明供给越紧缺；行业越萧条，说明供给越过剩。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年11月9日</title><link>https://wallstreetcn.com/articles/3785497</link><guid>eba363ef3986ce6ea461897623dc19648efd5ae04b3a8c28bbc9c677f33046a9</guid><pubDate>Sun, 08 Nov 2026 23:00:35 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000409"&gt;&lt;/a&gt;&lt;/p&gt;
 华见早安之声
 
