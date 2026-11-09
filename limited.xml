@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 09 Nov 2026 00:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易“风向标”：Meta发债“一波三折”</title><link>https://wallstreetcn.com/articles/3785501</link><guid>62d9e326ad00b9f50fa1938f7013e0936e1a5f97faf29bc2a2460bc0629b3311</guid><pubDate>Mon, 09 Nov 2026 00:16:18 GMT</pubDate><description>&lt;p&gt;Meta Platforms在美国中选日当天完成了一笔规模庞大的债券发行，这一非常规操作折射出科技巨头为AI融资所面临的日益复杂的市场环境。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 09 Nov 2026 01:29:25 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易“风向标”：Meta发债“一波三折”</title><link>https://wallstreetcn.com/articles/3785501</link><guid>62d9e326ad00b9f50fa1938f7013e0936e1a5f97faf29bc2a2460bc0629b3311</guid><pubDate>Mon, 09 Nov 2026 00:16:18 GMT</pubDate><description>&lt;p&gt;Meta Platforms在美国中选日当天完成了一笔规模庞大的债券发行，这一非常规操作折射出科技巨头为AI融资所面临的日益复杂的市场环境。&lt;/p&gt;
 &lt;p&gt;据彭博11月8日报道，&lt;strong&gt;Meta最终成功筹集了超过460亿美元的资金&lt;/strong&gt;，包括250亿美元美元债、90亿欧元欧洲债券、250亿美元普通股及125亿美元优先股，并计划通过市价发行计划额外筹集最多600亿美元。然而，这笔交易的完成并非一帆风顺——标普评级展望下调、微软大规模发债抢占市场、以及民主党在中期选举中横扫国会，均对交易时机和定价构成干扰。&lt;/p&gt;
 &lt;p&gt;民主党赢得众参两院多数席位后，市场对AI数据中心开发前景的担忧迅速升温。科技公司债券利差在选举周整体走阔，投资者开始重新评估AI资本支出能否如期转化为收益。&lt;/p&gt;
 选举日发债：非常规时机背后的权衡
@@ -28,24 +28,9 @@
 &lt;p&gt;据彭博汇编数据，今年以来，全球投资级市场企业及项目融资总额已超过&lt;strong&gt;4150亿美元&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;更多大型交易仍在推进中。据报道，高盛集团和Apollo Global Management正与投资者洽谈，计划开始出售SpaceX约&lt;strong&gt;400亿美元&lt;/strong&gt;芯片融资交易的部分份额，该交易由贷款和债券共同构成。&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;市场也出现了明显的收缩信号。&lt;/strong&gt;Meta和甲骨文的最新美元债发行规模均低于此前已成惯例的250亿美元以上水平，企业正有意控制单笔发行规模。&lt;/p&gt;
-&lt;p&gt;相比之下，今年3月亚马逊在美国市场发行了370亿美元债券，并在欧元市场额外筹集了约170亿美元等值资金——彼时的市场环境与当前已不可同日而语。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 无视涨跌都有正向现金流的才叫资产</title><link>http://www.xueqiu.com/7083498723/415975793</link><guid>ce51cf9d2b95967b70642ef037259c010a7d7888aa81a53926fc9515ea4611c2</guid><pubDate>Sun, 08 Nov 2026 14:48:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贵出贱取之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2005年，我第一次读《富爸爸穷爸爸》一书，感觉眼前豁然开朗，书里有一个让我印象深刻、直指本质的观点：&lt;b&gt;资产就是把钱放进你口袋的东西，负债则是把钱从你口袋拿走的东西。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic斥资34亿美元采购燃气发电设备，为数据中心供电</title><link>https://wallstreetcn.com/articles/3785493</link><guid>33d8304612b31b818ca0c595414482bf0376b28941c2f3128da97732ddbc2195</guid><pubDate>Sun, 08 Nov 2026 12:33:42 GMT</pubDate><description>&lt;p&gt;AI独角兽Anthropic正以前所未有的力度直接介入能源基础设施领域。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》11月8日报道，&lt;strong&gt;Anthropic于9月下旬斥资34亿美元，从得克萨斯州圣安东尼奥设备供应商OnePWR Solutions购得1.7吉瓦燃气重型发电机组的采购承诺&lt;/strong&gt;，成为迄今已知AI实验室单笔最大规模的发电设备采购交易。此次交易还涵盖安装发电机所需的工程与施工能力，但Anthropic并未收购OnePWR公司本身，OnePWR员工亦未随之转入Anthropic。&lt;/p&gt;
-直接采购：绕开中间商抢占稀缺资源
-&lt;p&gt;据报道，知情人士透露，OnePWR此前已向卡特彼勒（Caterpillar）下单订购发电机，但需要融资支持才能完成交易。&lt;strong&gt;Anthropic最初计划以客户身份向OnePWR采购，但最终选择直接接手其在卡特彼勒的设备订单。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一安排使Anthropic得以锁定数年前以较低价格下单、近期及未来两年内即可交付的发电机组，有效规避了当前燃气轮机和发电机需求激增、制造交货期延伸至数年之后的市场困境。&lt;/p&gt;
-&lt;p&gt;AI开发商通常依赖公用事业商和专业电力公司供电，但随着相关设备日趋稀缺，直接掌控生产资源已成为头部科技公司的共同选择。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;马斯克旗下SpaceX此前正是通过直接采购发电设备，快速建立起大规模数据中心；xAI今年早些时候斥资20亿美元购入移动式燃气轮机；谷歌母公司Alphabet则于2025年底收购了能源开发商Intersect。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-基础设施布局：近9000亿美元的计算承诺
-&lt;p&gt;此次采购是Anthropic加速掌控自身运营基础设施这一更宏观战略的组成部分。&lt;strong&gt;该公司本周披露，其通过2045年的计算承诺规模已接近9000亿美元&lt;/strong&gt;，此前一直高度依赖合作伙伴在电力、芯片、数据中心及土地方面提供支持，并为锁定产能支付了溢价。&lt;/p&gt;
-&lt;p&gt;直接购置发电机，将使Anthropic对这些设施所需电力拥有更强的掌控力。Stifel清洁能源与电力业务董事总经理Arash Nazhad表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“通过自有部分电力基础设施并具备内部能力，企业相信能够更好地抵御超出自身控制范围的供应中断风险。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;值得注意的是，&lt;strong&gt;Anthropic同时也是SpaceX的重要客户，向其租用计算资源的月度付款预计到年底将达到31亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic正筹备最早于本月启动IPO，此次上市有望成为史上规模最大的上市交易之一，旨在为其2045年前逾8950亿美元的计算基础设施支出提供资金支持。 Anthropic计划最快于11月9日当周启动IPO正式路演，AI交易暴跌后，该公司的IPO计划正面临严峻考验。潜在投资者对这家AI公司的估值预期大幅下调至1.5万亿美元以下。&lt;/p&gt;
-&lt;p&gt;然而，这一宏大计划面临障碍。&lt;strong&gt;黑石（Blackstone）已向投资者发出警告，Anthropic可能获得垃圾级信用评级，而非此前预期的投资级评级。&lt;/strong&gt;这一表态为Anthropic的上市之路增添了不确定性。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低</title><link>https://wallstreetcn.com/articles/3785498</link><guid>eabadb2824def78ecd510204e9e274b143834a8dde11d15040252700ef115e3d</guid><pubDate>Sun, 08 Nov 2026 23:53:04 GMT</pubDate><description>特朗普称“铁门”特遣行动正全面展开，几乎没有物资能进出伊朗
+&lt;p&gt;相比之下，今年3月亚马逊在美国市场发行了370亿美元债券，并在欧元市场额外筹集了约170亿美元等值资金——彼时的市场环境与当前已不可同日而语。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 无视涨跌都有正向现金流的才叫资产</title><link>http://www.xueqiu.com/7083498723/415975793</link><guid>ce51cf9d2b95967b70642ef037259c010a7d7888aa81a53926fc9515ea4611c2</guid><pubDate>Sun, 08 Nov 2026 14:48:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;贵出贱取之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2005年，我第一次读《富爸爸穷爸爸》一书，感觉眼前豁然开朗，书里有一个让我印象深刻、直指本质的观点：&lt;b&gt;资产就是把钱放进你口袋的东西，负债则是把钱从你口袋拿走的东西。&lt;/b&gt;&lt;/p&gt;</description></item><item><title>[华尔街见闻] 见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Mon, 09 Nov 2026 00:46:05 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低</title><link>https://wallstreetcn.com/articles/3785498</link><guid>eabadb2824def78ecd510204e9e274b143834a8dde11d15040252700ef115e3d</guid><pubDate>Sun, 08 Nov 2026 23:53:04 GMT</pubDate><description>特朗普称“铁门”特遣行动正全面展开，几乎没有物资能进出伊朗
 &lt;p&gt;当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。&lt;/p&gt;
 &lt;p&gt;当地时间11月7日，美军中央司令部司令库珀下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。&lt;/p&gt;
 &lt;p&gt;据介绍，该特遣队由约20名文职及军事人员组成，驻扎在美国佛罗里达州坦帕市。这支新成立的特遣队将与美国其他政府机构展开协调合作，阻止先进武器系统、军民两用技术、受制裁物资及“非法资金”通过伊朗陆地边境和里海进行跨境流动。&lt;/p&gt;
