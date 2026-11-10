@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 10 Nov 2026 03:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] AI风暴重头戏：股价接近腰斩，“AI云双雄”CoreWeave和Nebius财报要来了</title><link>https://wallstreetcn.com/articles/3785618</link><guid>a271807082ac4b43d8fac35f0036056c52e360e1cf81663a0e551c1a62b3d6d8</guid><pubDate>Tue, 10 Nov 2026 02:36:07 GMT</pubDate><description>&lt;p&gt;在AI基础设施投资热潮遭遇债务成本上升的双重压力下，两家新兴云计算公司CoreWeave和Nebius的股价在短短一个月内双双接近腰斩。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 10 Nov 2026 03:59:19 GMT</lastBuildDate><item><title>[华尔街见闻] 大摩“内存死神”Shawn Kim再发警告！真正的炸弹是“2028盈利悬崖”，全面下调内存股目标价</title><link>https://wallstreetcn.com/articles/3785625</link><guid>a51bd1ae0e816c433544a6b33ed5f504ea3e6422f6e98061356aec9e6e733ea6</guid><pubDate>Tue, 10 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;摩根士丹利分析师Shawn Kim再度向内存行业发出警告，这一次他瞄准的是行业“2028年的盈利悬崖”。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，在11月9日发布的最新研报中，Shawn Kim全面下调三星电子和SK海力士目标价，并将三星电子升为新首选股，取代SK海力士。他在报告中写道：&lt;strong&gt;“对内存的担忧，与其说是美国中期选举后数据中心建设延迟或AI需求的问题，不如说是&amp;#x27;2028盈利悬崖&amp;#x27;叙事的风险——市场对内存增长动能的可持续性持怀疑态度，因为供给正开始追上需求。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他认为，市场争论焦点已从近期基本面转向“2028盈利悬崖”——&lt;strong&gt;2027年底新产能陆续投产、数据中心建设延迟、HBM溢价收窄等多重压力叠加，内存超级周期的可持续性存疑。&lt;/strong&gt;Shawn Kim据此将SK海力士和三星的长期利润率假设向历史均值大幅压缩，直接拉低了两家公司的估值模型输出值。&lt;/p&gt;
+&lt;p&gt;这并非Shawn Kim第一次在内存行业高景气阶段发出警告。&lt;a href="https://wallstreetcn.com/articles/3777851"&gt;华尔街见闻提及&lt;/a&gt;，他曾于2021年8月发布《存储，凛冬将至》，精准踩中此后长达两年的半导体下行周期；2024年9月，其关于HBM供过于求可能性的报告，被视为当年三星和SK海力士股价急跌的导火索之一；今年&lt;a href="https://wallstreetcn.com/articles/3777849"&gt;7月21日他再度发布报告&lt;/a&gt;警告称，AI驱动的半导体存储行业狂欢正接近拐点，内存合同价格预计将于第四季度见顶，而后SK海力士与三星电子股价再出现了一次急跌。&lt;/p&gt;
+&lt;p&gt;这些事迹也令他在韩国市场赢得&lt;strong&gt;“韩国半导体死神”&lt;/strong&gt;的绰号。此次报告，是他在内存AI交易持续去泡沫化背景下的又一次警示。&lt;/p&gt;
+估值重置：目标价大幅下调，三星升为首选
+&lt;p&gt;Shawn Kim此次调整幅度显著。&lt;strong&gt;SK海力士目标价从260万韩元下调38%至160万韩元&lt;/strong&gt;，对应2027年预期市净率约1.8倍，较当前参考价113.2万韩元仍有约41%上行空间，维持增持评级。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三星电子普通股目标价从38.1万韩元下调19%至30.9万韩元&lt;/strong&gt;，优先股目标价从30.48万韩元下调至24.72万韩元，两者均维持增持，且三星电子普通股被升为新首选股。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;目标价下调的核心驱动，是&lt;strong&gt;Shawn Kim对两家公司长期可持续利润率假设的大幅下修。&lt;/strong&gt;Shawn Kim此前假设2035年前DRAM长期可持续利润率约为60%，此次将SK海力士2029-2035年DRAM运营利润率均值下调至约32%（接近2010-2025年历史均值31%），三星则下调至约39%。与此同时，HBM相对于普通DRAM的溢价，被假设从2029年的20个百分点逐步收窄至2033年归零。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报告同时上调了两家公司2026-2028年的近期盈利预测，主要受益于回购计划带来的股份数量减少。&lt;/strong&gt;SK海力士2026-2028年每股收益预测分别变动-1%、+22%、+29%；三星2026-2028年每股收益预测分别上调3%、16%、26%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+“2028盈利悬崖”：四大压力叠加
+&lt;p&gt;Shawn Kim在报告中明确指出，“2028盈利悬崖”是当前内存投资最核心的争论。他列出了四个令长期利润率假设承压的关键因素。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，供给响应快于预期。&lt;/strong&gt; 2027年底前后将有新产能陆续投产，近期更高的第四季度出货量指引和更快的制程迁移，意味着比此前预期更多的比特供给。中国供应商进入消费市场，也将对大宗内存定价形成额外压力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，2028年数据中心建设延迟。&lt;/strong&gt; 大摩全球主题研究团队将约5GW的美国数据中心项目从2028年推迟至2029年。据此，全球数据中心新增容量2028年同比增速从约21%下调至9%，2029年则反弹至20%。这可能削弱内存的供给紧张程度和定价能力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，BOM成本约束限制内容增长。&lt;/strong&gt; 内存已占AI服务器物料清单（BOM）成本约60%，这正迫使买家将高密度96GB/128GB配置降规格至64GB RDIMM。NAND现货价格在过去两周内下跌约20%，512Gb TLC晶圆价格跌至约15美元，较3月高点下跌27-29%，并低于7-8月低点，为合同市场带来额外定价风险。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四，HBM溢价正在收窄。&lt;/strong&gt; 大摩将SK海力士的HBM运营利润率预测从78-80%下调至约70%，三星从约80%下调至65-72%。随着竞争加剧和普通DRAM价格正常化，HBM持续维持高溢价的可能性下降。&lt;/p&gt;
+周期定位：估值已调整，但盈利切割尚未到来
+&lt;p&gt;尽管发出警告，Shawn Kim并未全面看空。他在报告中对当前市场位置做出了较为细致的判断。&lt;/p&gt;
+&lt;p&gt;报告指出，自6月高点以来，费城半导体指数（SOX）12个月远期市盈率已从26.3倍腰斩至13.4倍，是互联网泡沫破裂以来最大幅度的估值压缩之一，而同期市场一致预期每股收益反而上升了24%。目前约13倍的远期市盈率，已与过去历次下行周期的中位数低谷估值（13.4倍）基本持平，处于2022年10月美联储加息低谷以来的最低水平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;估值已经完成了它该做的事。现在的变量是盈利线。Kim回顾了2000年以来11次SOX下行周期，发现其中9次主要由估值压缩驱动，而非盈利下调。只有在2000-2002年和2007-2008年两次需求真正崩塌时，盈利才出现超过50%的深度下修。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第二波下跌需要2028年盈利预测像2000-2002年和2007-2008年那样腰斩——这不是我们的基准情景，但这正是为什么盈利削减阶段，而非估值，才是现在最需要关注的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Kim同时指出，AI供应链EPS修正广度自2026年7月峰值以来持续收窄——内存板块3个月均值从69%降至53%，AI计算从55%降至45%，网络从54%降至40%——但仍为正值，即盈利预测仍在上调，只是速度放缓。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+三星vs海力士：周期末段，质量为王
+&lt;p&gt;在个股选择上，Kim将三星电子升为首选，逻辑在于周期末段更偏好“最大、资本最充裕、规模最强的科技龙头”。&lt;/p&gt;
+&lt;p&gt;报告认为，三星的HBM市场份额有望在2027年实现反超——据TrendForce预测，三星2027年HBM出货量将增长约82%至210亿Gb（市占率约39%），超越SK海力士的200亿Gb（约37%）。与此同时，三星更多元化的业务结构（包括非内存业务的潜在复苏）提供了额外支撑。在当前参考价18.87万韩元下，大摩30.9万韩元的目标价隐含约64%的上行空间。&lt;/p&gt;
+&lt;p&gt;SK海力士则维持增持，Kim认为其HBM领导地位、强劲的2027年盈利以及长期协议（LTA）对2028年的保护，仍构成支撑。但报告明确表示，目标价下调“反映了2028年后超额盈利期缩短”。&lt;/p&gt;
+&lt;p&gt;报告对最坏情景也有所描述：若AI融资成本上升或AI变现进展不及预期，买家可能暂停采购，已承诺的产能将面临需求不足的风险。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI风暴重头戏：股价接近腰斩，“AI云双雄”CoreWeave和Nebius财报要来了</title><link>https://wallstreetcn.com/articles/3785618</link><guid>a271807082ac4b43d8fac35f0036056c52e360e1cf81663a0e551c1a62b3d6d8</guid><pubDate>Tue, 10 Nov 2026 02:36:07 GMT</pubDate><description>&lt;p&gt;在AI基础设施投资热潮遭遇债务成本上升的双重压力下，两家新兴云计算公司CoreWeave和Nebius的股价在短短一个月内双双接近腰斩。&lt;/p&gt;
 &lt;p&gt;本周，两家公司将相继在11月10日、11月12日发布三季度财报。这一时间节点颇为微妙——市场正在等待一个答案：这场抛售，究竟是过度反应，还是合理定价？&lt;/p&gt;
 &lt;p&gt;从基本面数据看，两家公司的营收增长轨迹依然强劲，分析师预期2027年CoreWeave营收将翻倍、Nebius营收将增长逾两倍。但问题的症结不在营收，而在于支撑这一增长所背负的巨额债务。&lt;/p&gt;
 为何股价在一个月内近乎腰斩
@@ -91,6 +133,7 @@ CTA量化策略：各种情景下均为卖家，最多或再抛450亿美元
 &lt;p&gt;据Armbrust引述的高盛半导体分析师观点称，相关股票已明显进入超卖区域，风险回报对部分个股具有吸引力，并点名看好英伟达、博通、应用材料及Lam Research。&lt;/p&gt;
 &lt;p&gt;然而，多重压力仍悬而未决。&lt;strong&gt;Saboureault总结道：“油价下跌、收益率下跌，波动率需要继续企稳，资金才能重新入场。”&lt;/strong&gt;在波动率企稳、周二CPI数据及英伟达11月17日财报落地之前，上周或许是对冲基金的“投降时刻”，但&lt;strong&gt;市场真正的底部，可能还需要等待CTA完成剩余的卖出程序。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”</title><link>https://wallstreetcn.com/articles/3785622</link><guid>19c09be567a182ab6491e335d2d345c37c2856a2ecb8ef1fb1be42c3751a5901</guid><pubDate>Tue, 10 Nov 2026 02:57:40 GMT</pubDate><description>&lt;p&gt;Anthropic最新旗舰模型Claude Fable 5.2在机器人控制领域交出了一份令业界侧目的成绩单——作为一款通用大模型，它在双臂仿真机器人基准测试中的得分较上一代翻了逾两倍，并在真机演示中完成了拧瓶盖、解魔方和画画等操作任务。&lt;/p&gt;
 &lt;p&gt;11月9日，Anthropic正式发布Claude Fable 5.2。在RoboDojo双臂仿真机器人基准测试中，&lt;strong&gt;Fable 5.2平均成功率达64.9%，上一代Fable 5.1仅为27.6%，一代更新提升了37.3个百分点，得分翻2.35倍。&lt;/strong&gt;同期对比中，&lt;strong&gt;Claude Opus 5.5得分39.4%，GPT-6 Astra得分29.8%，Fable 5.2均大幅领先。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic官方表示，该模型在机器人控制方面的表现“优于大多数专为机器人控制而设计的AI系统”。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这一进展对具身智能赛道的冲击不容忽视。&lt;strong&gt;过去业界普遍认为，机器人需要专门训练具身模型和世界模型，以解决空间理解、动作规划和长程控制等问题。而此次Fable 5.2以通用大模型身份实现这一幅度的跃升，直接引发市场对专用具身AI公司竞争格局的重新审视。&lt;/strong&gt;&lt;/p&gt;
@@ -340,43 +383,4 @@ AI热潮成政策不确定性新变量
 
 &lt;p&gt;尽管上述数据指向风险上升，分析师普遍认为标签变更对GLP-1药物整体处方量的冲击或较为有限。&lt;/p&gt;
 &lt;p&gt;Geoff Meacham指出，&lt;strong&gt;NAION属于罕见疾病，而GLP-1类药物在减重、降糖及多种代谢性疾病管理方面积累了大量获益证据，这一多维度的获益优势是维持市场信心的核心支撑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;监管机构的此次行动，意在确保医疗提供者和患者能够在充分知情的前提下权衡用药决策，而非直接限制该类药物的使用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国民主党考虑以政府停摆为筹码，逼迫特朗普结束伊朗战争</title><link>https://wallstreetcn.com/articles/3785597</link><guid>ca723b676a05c8b11c6904526b174e4c14e11f1b81efa29e462bd593d78f7593</guid><pubDate>Mon, 09 Nov 2026 19:02:06 GMT</pubDate><description>&lt;p&gt;美国国会民主党人正在评估是否借助12月11日政府资金到期节点，向特朗普政府施压，迫使其终止对伊朗的战争行动。这一抉择不仅关乎政府能否正常运转，更将左右伊朗战争的走向及其对能源价格的持续冲击。&lt;/p&gt;
-&lt;p&gt;众议院拨款委员会首席民主党人Rosa DeLauro措辞强硬：&lt;strong&gt;&amp;quot;民主党绝不会为特朗普这场推高美国家庭生活成本、让美国更不安全的选择性战争提供资金。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;参议院拨款委员会首席民主党人Patty Murray亦表示，&lt;strong&gt;民主党将动用一切可用手段终结这场战争。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;民主党参议院领袖查克·舒默表示，&lt;strong&gt;民主党将寻求通过&amp;quot;钱袋子权力&amp;quot;阻止战争，但未透露具体方案。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;若民主党选择正面对抗，将触发特朗普第二任期内第四次完全或部分政府停摆，导致政府非必要职能暂停运转。然而，历史先例显示，停摆鲜少能够实现发起方的政策目标。&lt;/p&gt;
-&lt;p&gt;布伦特原油期货周一下跌4.7%，延续上周跌势。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-两种路径：立即出手还是等待明年翻转国会
-
-&lt;p&gt;民主党眼下面临两条路径的抉择。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;其一，在现任共和党掌控的国会&amp;quot;跛鸭会期&amp;quot;内立即采取行动，借助资金悬崖向特朗普施压，尽快结束战争、缓解汽油和柴油等能源价格压力；&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;其二，按兵不动，等待明年中期选举大胜的成果落地——届时民主党将同时翻转众参两院多数席位，届时在立法层面将拥有更大主动权。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这一战略并非没有历史依据。民主党正在研究上世纪70年代国会通过拨款程序迫使越战结束时所使用的立法语言，试图复制这一路径。&lt;/p&gt;
-&lt;p&gt;进步派参议员Chris Van Hollen明确呼吁，民主党应在下一个支出法案中封锁战争资金，他援引历史称：&amp;quot;越战的终结，正是因为国会切断了军费。&amp;quot;&lt;/p&gt;
-
-停摆筹码的局限性：历史先例并不乐观
-
-&lt;p&gt;尽管进步派呼声高涨，民主党领袖层对于重蹈停摆覆辙明显存有顾虑。&lt;strong&gt;近年来的历史表明，停摆作为政策杠杆的效果相当有限。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;民主党2025年下半年持续43天的必要支出法案封锁，以争取延续《平价医疗法案》保费补贴为目标，最终政府资金恢复时这一目标并未实现。&lt;/p&gt;
-&lt;p&gt;2013年共和党发起的长达16天停摆试图削减《平价医疗法案》资金，同样以失败告终。&lt;/p&gt;
-&lt;p&gt;此外，停摆期间，被认定为必要岗位的政府雇员须无薪工作，非必要政府职能全面暂停，对普通民众的直接冲击可能反噬发起方的政治声望。&lt;/p&gt;
-
-多条战线：债务上限与国防预算成潜在筹码
-
-&lt;p&gt;即便放弃停摆路线，民主党仍握有其他若干手段。&lt;/p&gt;
-&lt;p&gt;在今年年底前，&lt;strong&gt;参议院若干必须通过的立法事项仍需至少部分民主党票数以绕过冗长辩论程序。&lt;/strong&gt;其中，一项必须通过的国防政策授权法案需要在12月内完成，而特朗普政府申请的用于资助伊朗行动的紧急补充拨款，目前在共和党掌控的参议院遭到搁置。&lt;/p&gt;
-&lt;p&gt;明年掌握多数后，民主党还可将债务上限谈判作为筹码——前提是共和党今年未能通过无法被冗长辩论阻拦的特殊预算程序提前上调上限。&lt;/p&gt;
-&lt;p&gt;目前已有讨论认为，共和党可能借助五角大楼预算法案将40万亿美元债务上限捆绑上调，以剥夺民主党未来的谈判筹码，但国会山迄今未见共和党领袖积极推动这一方案的迹象。&lt;/p&gt;
-&lt;p&gt;与此同时，五角大楼正寻求通过党派预算程序追加至少3500亿美元，若这一需求最终留待民主党掌控的国会明年处理，将为双方就整体可支配支出水平及伊朗战争问题展开谈判创造新的空间。&lt;/p&gt;
-
-跛鸭会期多线并行：能源许可、司法提名与弹劾风险
-
-&lt;p&gt;伊朗战争资金争议之外，本届跛鸭国会还需处理多项未竟事务。&lt;/p&gt;
-&lt;p&gt;本周参议院将就一项旨在简化能源项目许可审批的两党法案进行表决，该法案覆盖可再生能源与化石燃料项目，但众议院民主党领袖对其环境影响存有疑虑，可能在众院层面予以阻拦。&lt;/p&gt;
-&lt;p&gt;华盛顿同时高度警惕最高法院法官退休或内阁出缺的可能性，任何此类变动都将触发在共和党参议院于1月3日结束前赶完确认程序的紧迫压力。&lt;/p&gt;
-&lt;p&gt;此外，共和党众议员Thomas Massie提出弹劾国防部长Pete Hegseth的动议，一旦推进，将大量占用本已紧张的国会议事时间。&lt;/p&gt;
-&lt;p&gt;共和党参议院领袖则抓紧时间，力图在参议院多数权易手前批准尽可能多的特朗普司法提名人选。多条政治议程相互交织，令这一跛鸭会期的走向充满变数。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;监管机构的此次行动，意在确保医疗提供者和患者能够在充分知情的前提下权衡用药决策，而非直接限制该类药物的使用。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
