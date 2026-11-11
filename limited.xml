@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 16:59:21 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍</title><link>https://wallstreetcn.com/articles/3785723</link><guid>8f7176a2bbd53ad19dd3f6f2cf29b0a031e34238d6a9215233c146f3a1279ae8</guid><pubDate>Wed, 11 Nov 2026 08:39:20 GMT</pubDate><description>&lt;p&gt;英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 17:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍</title><link>https://wallstreetcn.com/articles/3785723</link><guid>8f7176a2bbd53ad19dd3f6f2cf29b0a031e34238d6a9215233c146f3a1279ae8</guid><pubDate>Wed, 11 Nov 2026 08:39:20 GMT</pubDate><description>&lt;p&gt;英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，据伯恩斯坦分析师Daniel Zhu在最新研报中测算，基于Coherent披露的每100 Tbps芯片对应1.5万美元内容价值这一数据，&lt;strong&gt;一个8机架Rubin Ultra计算集群（Pod）所产生的光学内容机会约达540万美元，较此前Vera Rubin NVL72架构下约100万美元的规模扩大逾5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;结合伯恩斯坦亚洲半导体团队（Mark Li）的出货量预测，这意味着Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028年将进一步扩大至361亿美元。&lt;strong&gt;若将整个英伟达生态系统纳入统计，2028年光学市场总规模或接近470亿美元，同比增长91%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;伯恩斯坦维持Lumentum、Coherent和Ciena的&amp;quot;跑赢大市&amp;quot;评级，以及Corning的&amp;quot;与大市同步&amp;quot;评级。其中，Lumentum目标价上调至700美元以反映Marvell最新股价，Coherent、Ciena及Corning目标价维持不变，分别为350美元、440美元和120美元。&lt;/p&gt;
@@ -323,45 +323,28 @@ CFO：项目没停，但要“全面重新评估”
 &lt;p&gt;即便如此，软银的AI投资步伐并未停下。&lt;/p&gt;
 &lt;p&gt;孙正义已累计向AI相关硬件和应用投入数百亿美元，包括对OpenAI近650亿美元的投资，以及以31亿美元收购数据中心运营商DigitalBridge集团。&lt;/p&gt;
 &lt;p&gt;与此同时，软银股价已较6月历史高点累计跌去逾50%，年初至今下跌约20%。&lt;/p&gt;
-&lt;p&gt;AI估值本身也在承压。据知情人士透露，Anthropic的估值已从此前宣传的2万亿美元降至约1.1万亿美元；OpenAI最新一轮融资约110亿美元，估值1.25万亿美元，低于最初寻求的1.4万亿美元目标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 恐惧是最大的空头！大摩高喊抄底半导体：缺地缺电都不是问题，已批项目都供不过来</title><link>https://wallstreetcn.com/articles/3785707</link><guid>6abe24093a61a737e02a5c00157adb46c0775a08f88670a261aa02ad0dc236d9</guid><pubDate>Wed, 11 Nov 2026 05:19:57 GMT</pubDate><description>&lt;p&gt;半导体板块近期遭遇抛售，但摩根士丹利认为，市场恐慌本身才是最大的风险来源，而非行业基本面。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，摩根士丹利分析师Joseph Moore在报告中明确表示，AI基础设施建设的业务能见度依然&amp;quot;异常强劲&amp;quot;，与半导体厂商客户的沟通显示，这一趋势具备持续性。尽管土地、电力和厂房（Land-Power-Shell，LPS）等制约因素引发市场担忧，但他指出，&lt;strong&gt;恰恰是这些瓶颈使得行业增长更加稳定和持久。&lt;/strong&gt;从覆盖范围来看，该行标普中位股较峰值已累计下跌53%，分析师认为当前抛售已过度。&lt;/p&gt;
-&lt;p&gt;摩根士丹利坦承，中期选举后的政策不确定性，以及资本市场情绪对支出意愿的潜在传导影响，构成阶段性压制因素，板块可能维持区间震荡走势。然而，该行强调，AI支出方意愿坚定，大量资本充裕的企业已锁定未来多年支出计划，即便是融资成本较高的新兴云服务商，也面临算力供不应求的困境。华尔街的恐慌情绪与硅谷的乐观预期之间，形成了该行&amp;quot;从未见过的&amp;quot;巨大背离。&lt;/p&gt;
-
-恐惧本身才是最大威胁，业务层面持续加速
-
-&lt;p&gt;摩根士丹利开门见山地指出：&amp;quot;我们最大的恐惧，是恐惧本身。&amp;quot;&lt;/p&gt;
-&lt;p&gt;报告强调，半导体下游客户的订单势头不仅没有减弱，反而在持续加速——每天都有大量新订单涌入已完全分配的积压产能中。该行与支出方的沟通显示，来自资金充裕企业的多年期支出意愿依然完好无损。&lt;strong&gt;即便是受高利率困扰的新兴云服务商，当前面临的核心难题也是无法在已获批的空间内获得足够的算力资源，而非支出动力不足。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该行同时指出，对于&amp;quot;一切都要等到2028年&amp;quot;的市场担忧，本质上与过去三年如出一辙。2023年底，当投资者对2024年逐渐适应后，股票承压的理由变成了&amp;quot;一切都是关于2025年&amp;quot;。这种对未来12至24个月的周期性焦虑，是半导体板块的常态，并不意味着基本面出现实质恶化。&lt;/p&gt;
+&lt;p&gt;AI估值本身也在承压。据知情人士透露，Anthropic的估值已从此前宣传的2万亿美元降至约1.1万亿美元；OpenAI最新一轮融资约110亿美元，估值1.25万亿美元，低于最初寻求的1.4万亿美元目标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成</title><link>https://wallstreetcn.com/articles/3785753</link><guid>da612e6ea74a1bd8b5522e7e8994830c5eaaeb791c541ade108c850a9ded3688</guid><pubDate>Wed, 11 Nov 2026 17:23:23 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯石油产量大幅反弹，带动波斯湾地区供应全面恢复，正在加速拖累全球油价。&lt;/p&gt;
+&lt;p&gt;据彭博获得的石油输出国组织（OPEC）秘书处月报显示，沙特10月日均原油产量升至1056万桶，较上月激增26%，创战争爆发以来最高水平。&lt;/p&gt;
+&lt;p&gt;与此同时，伊拉克产量也攀升至战时新高。大量原油涌入实货市场，在需求依然疲软的背景下压低了价差，市场出现供过于求的初步迹象。&lt;/p&gt;
+&lt;p&gt;此轮增产恰逢OPEC评估各成员国最大产能的关键节点，该评估结果将于11月29日的OPEC+在线会议上被用于商讨2027年产量目标。&lt;/p&gt;
+&lt;p&gt;沙特阿美首席执行官Amin Nasser上周在阿布扎比行业会议上表示，公司目标是&amp;quot;在第四季度最大化产量&amp;quot;，并指出库存补充将显著提振全球需求。&lt;/p&gt;
+&lt;p&gt;布伦特原油期货本月已累计下跌约21%，目前报每桶93美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从需求指标来看，摩根士丹利援引的数据显示，AI算力Token总量增长依然陡峭，Token总支出已回升至历史高位，主流GPU的租赁价格也维持在相对强势区间。&lt;/p&gt;
-
-LPS制约被市场高估，半导体供给才是真正瓶颈
-
-&lt;p&gt;市场对于土地、电力、厂房（LPS）制约的担忧，在中期选举后有所升温。摩根士丹利承认，俄亥俄州、德克萨斯州等地部署计划放缓确实构成局部干扰，但市场对此存在明显误读。&lt;/p&gt;
-&lt;p&gt;该行与买家的沟通表明，LPS并非2027年最大的挑战所在——核心原因在于，当前已获批的空间内根本没有足够的半导体来填满。换言之，即便LPS完全畅通，半导体供给本身仍将是制约因素。&lt;/p&gt;
-&lt;p&gt;与此同时，业界正在快速寻找美国境外或政策更友好州份的LPS替代方案，行业的应变能力被摩根士丹利视为关键变量。该行的供需模型显示，即使展望至2028年，半导体供给依然将是整体生态的制约瓶颈。摩根士丹利还强调，LPS制约的存在本身，实际上正是AI基础设施增长保持持续和稳定的深层原因。&lt;/p&gt;
-
-子板块偏好排序：算力居首，存储紧随，网络虽强但估值偏高
-
-&lt;p&gt;摩根士丹利对旗下覆盖的半导体子板块进行了优先级排序：&lt;/p&gt;
-&lt;p&gt;第一，GPU/XPU算力，以英伟达和博通为核心。两者当前估值约为2028年预期市盈率的9倍，兼具需求强劲与Fabless商业模式在需求下行时的利润缓冲优势。英伟达被确认为第一重仓股，其优势在于更广泛的客户基础赋予其灵活的算力部署能力，主权客户业务形成额外增量，而下一代Feynman架构有望将每GW营收从约400亿美元提升至逾500亿美元。&lt;/p&gt;
-&lt;p&gt;第二，存储，重点看好闪迪和美光科技。摩根士丹利认为，存储股估值压缩已创造出显著的上行空间，当前周期所累积的自由现金流正大量用于回购。以闪迪为例，按当前股价835美元及约占营收50%的回购规模测算，公司有望在2028年底前回购逾50%的流通股。该行同等看好闪迪和美光科技。&lt;/p&gt;
-&lt;p&gt;第三，半导体设备（SPE），2027年股东回报将成为核心主题。Lam Research（LRCX）新宣布的250亿美元回购授权加上此前剩余额度，合计约280亿美元，约占市值11%；美国应用材料公司和KLA（科磊）的剩余回购授权各约占市值5%。&lt;/p&gt;
-&lt;p&gt;第四，模拟芯片，看好恩智浦（NXPI）和亚德诺（ADI）。模拟周期持续走强，代工厂成熟制程产能利用率已接近90%，但该行认为模拟股估值弹性相对有限，整体吸引力不及算力和存储。&lt;/p&gt;
-&lt;p&gt;第五，网络，基本面强劲但估值较同类偏贵，拥挤度偏高。斯泰克（SITM）、阿斯泰拉（ALAB）、升特（SMTC）、美满电子（MRVL）均具备正向风险回报，但该行整体偏好其他板块。&lt;/p&gt;
-&lt;p&gt;第六，CPU，近期基本面优秀但短缺周期预计早于存储结束，同时供给端增长速度（AMD指引明年增长100%，英特尔单元量将大幅反弹）显著快于需求端，估值相对偏高。摩根士丹利更倾向AMD而非Intel，但整体将CPU列为末位。&lt;/p&gt;
-
-区间震荡框架下，当前位置更接近底部而非顶部
-
-&lt;p&gt;综合上述判断，摩根士丹利的核心结论是：&lt;strong&gt;半导体板块将呈现区间震荡走势，上行空间受制于资本市场情绪及LPS资源管理能力，下行空间则受到强劲近期业务和多重长期催化剂的支撑。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该行指出，若将资本市场乐观情绪作为投资信号，在情绪最高涨时买入、最低迷时卖出，显然不是创造超额收益的策略。在目前板块已从峰值普遍回调超50%的背景下，当前位置更接近区间低端，风险回报正在显著改善。&lt;/p&gt;
-&lt;p&gt;该行坦言，最大的尾部风险在于当前并非区间震荡，而是处于周期见顶的早期阶段，届时当前的估值将成为&amp;quot;价值陷阱&amp;quot;。但鉴于来自产业链的广泛输入均指向需求持续性，摩根士丹利维持区间震荡的基准判断，并建议投资者在板块接近区间低位时保持积极买入姿态。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回暖，费半涨5%，CoreWeave暴涨15%，英伟达涨3%，油价反弹</title><link>https://wallstreetcn.com/articles/3785732</link><guid>58663fe7f2af2afccf6d1730146bc5812f6ed27fa0f737d8ba71f6ae353dda9e</guid><pubDate>Wed, 11 Nov 2026 14:45:20 GMT</pubDate><description>&lt;p&gt;美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。&lt;/p&gt;
+&lt;strong&gt;沙特产量逼近战前峰值，霍尔木兹海峡运输突破是关键&lt;/strong&gt;
+&lt;p&gt;沙特10月日产量1056万桶，仅比战争爆发前的2月产量低数十万桶，略高于该国在OPEC框架内的配额上限。&lt;/p&gt;
+&lt;p&gt;产量回升的核心驱动力在于运输瓶颈的突破。沙特已在相当程度上掌握了通过霍尔木兹海峡进行秘密穿梭运输的技术，这一策略由阿联酋在战争早期率先摸索推行。&lt;/p&gt;
+&lt;p&gt;与此同时，沙特还得以启用一条通往红海沿岸的替代管道——尽管该管道此前曾遭受袭击。&lt;/p&gt;
+&lt;p&gt;伊拉克方面同样向OPEC报告，10月日产量升至约490万桶的战时新高，明显超出其商定的产量上限。&lt;/p&gt;
+&lt;strong&gt;实际产量与配额核查存在出入，OPEC立场仍不明朗&lt;/strong&gt;
+&lt;p&gt;值得注意的是，OPEC在评估成员国配额执行情况时，采用外部来源数据而非成员国自行申报数字，两组数据之间存在显著差异。&lt;/p&gt;
+&lt;p&gt;依据外部来源数据，伊拉克10月实际日产量约为449.1万桶，基本符合其规定限额；沙特的外部来源数据则为日均919.4万桶，仍明显低于其配额上限。这与沙特自报的1056万桶存在较大差距。&lt;/p&gt;
+&lt;p&gt;鉴于战争期间众多成员国被迫长期大幅低于配额生产，导致全球石油库存骤降，OPEC对于配额违规问题将采取何种立场目前尚不明确。&lt;/p&gt;
+&lt;p&gt;此番产量大增，也为OPEC+此前在冲突期间通过的一系列配额上调决定提供了事后注脚。彼时受出口中断拖累，这些上调几乎形同虚设，但当前正好赋予产油国打开阀门的额外空间。&lt;/p&gt;
+&lt;p&gt;OPEC+对各成员国最大产能的审核预计将在未来数日内完成，届时全联盟将于11月29日召开在线会议，以此为基础商议2027年的产量目标安排。&lt;/p&gt;
+&lt;strong&gt;市场份额竞争加剧，沙特与阿联酋竞相下调面向亚洲售价&lt;/strong&gt;
+&lt;p&gt;产量回升的背后，市场份额之争也在悄然升温。阿联酋今年5月在长期成员资格后选择退出OPEC，以摆脱产量上限约束，自主参与市场竞争。&lt;/p&gt;
+&lt;p&gt;近期，沙特与阿联酋均大幅下调了面向亚洲买家的12月船货官方售价，竞争态势趋于激烈。&lt;/p&gt;
+&lt;p&gt;此轮价格战信号，叠加供应端持续恢复，令市场对未来油价走势愈发审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回暖，费半涨5%，CoreWeave暴涨15%，英伟达涨3%，油价反弹</title><link>https://wallstreetcn.com/articles/3785732</link><guid>58663fe7f2af2afccf6d1730146bc5812f6ed27fa0f737d8ba71f6ae353dda9e</guid><pubDate>Wed, 11 Nov 2026 14:45:20 GMT</pubDate><description>&lt;p&gt;美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。&lt;/p&gt;
 &lt;p&gt;美股盘初，标普500指数涨0.87%，道琼斯工业平均指数跌0.07%，纳斯达克综合指数涨1.53%。费城半导体指数涨4.7%，收复11月5日暴跌以来的全部失地。&lt;/p&gt;
 &lt;p&gt;英伟达涨2.9%，CoreWeave涨14.6%，Nebius Group涨13.3%，闪迪、希捷科技、西部数据、SK海力士ADR、美光、英特尔、迈威尔科技等至多涨约8%。SpaceX涨0.5%。&lt;/p&gt;
 &lt;p&gt;欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板块领涨；亚洲股市综合指标上涨1.5%。日本和澳大利亚基准国债收益率随周二美债抛售走势同步上扬。&lt;/p&gt;
