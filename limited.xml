@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 04:29:24 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板半日涨1%，算力硬件集体反弹，光模块龙头“易中天”拉升，恒科指跌超1%，权重股科网股回落</title><link>https://wallstreetcn.com/articles/3785695</link><guid>8ee00ffb302d784d2b65f3407c59571393bd121db1fff89a70fc71ce6bbaa9e1</guid><pubDate>Wed, 11 Nov 2026 04:09:35 GMT</pubDate><description>&lt;p&gt;A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 04:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] 创业板半日涨1%，算力硬件集体反弹，光模块龙头“易中天”拉升，恒科指跌超1%，权重股科网股回落</title><link>https://wallstreetcn.com/articles/3785695</link><guid>8ee00ffb302d784d2b65f3407c59571393bd121db1fff89a70fc71ce6bbaa9e1</guid><pubDate>Wed, 11 Nov 2026 04:09:35 GMT</pubDate><description>&lt;p&gt;A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。&lt;/p&gt;
 &lt;p&gt;11月11日，A股早盘低开高走，三大股指盘初集体上涨，盘中震荡分化，沪指小幅下跌，创业板指涨近1%。AI硬件爆发，光模块、光芯片、光通信、光电路交换机、电路板、覆铜板等概念股普遍拉升，剑桥科技涨停，“易中天”涨幅居前。煤炭、海运等板块活跃，白酒、AI短剧、贵金属等陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低开低走，恒指、恒科指盘初齐跌，恒科指跌超1%，权重科网股多数下跌，腾讯、快手、网易等下跌。光模块、芯片半导体等科技股反弹，剑桥科技H股大涨超11%。AI大模型股双雄纷纷回落，盘中一度跌5%，阿里官宣新一代千问大模型Qwen4即将发布。债市方面，国债期货震荡下跌。商品方面，国内商品期货多数上涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -361,7 +361,55 @@
 &lt;p&gt;而对于那些面临低转换成本却享受着极高未来利润预期的标的，他提醒投资者：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我分析这些生意时反复回到一个很简单的问题：客户离开有多难？如果答案是不太难，你最好对自己付的价格很有把握。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻</title><link>https://wallstreetcn.com/articles/3785683</link><guid>c3d4028eb3b655d6371ff068ce5d2ab2c8b43cb81ea3cd6eb33b7ea3fce97c89</guid><pubDate>Wed, 11 Nov 2026 00:42:19 GMT</pubDate><description>&lt;p&gt;AI云计算提供商CoreWeave发布强劲季报，并上调全年收入指引，暂时缓解了市场对这家高负债企业增长放缓的担忧。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic的核心隐忧：收入随时可被撤回，算力成本却被锁死长达20年</title><link>https://wallstreetcn.com/articles/3785700</link><guid>c1c63287c097fb5f7deb93d5a218e65fbf910b4292978fd3b4009d6ed1b0e666</guid><pubDate>Wed, 11 Nov 2026 04:37:57 GMT</pubDate><description>&lt;p&gt;浙商证券最新研报指出，在Anthropic收入实现指数级扩张的亮眼数据之下，潜藏着一个结构性风险：&lt;strong&gt;公司的核心约束并非持续亏损本身，而是收入端与成本端之间高达数十年的期限缺口，客户可随时削减支出，而算力承诺已被锁死最长20年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;11月9日，浙商证券分析师冯翠婷发表研报，认为Anthropic收入呈用量驱动的指数级扩张。今年前三季度收入合计332.42亿美元，九个月同比增长约1,206%，经营利润率在二季度首次转正（8.4%）后又于三季度重回亏损（-3.3%）。&lt;/p&gt;
+&lt;p&gt;浙商证券认为，这一波动本身即是上述结构性缺口的具体体现：&lt;strong&gt;收入仍以即期用量为主、剩余履约义务(RPO)仅覆盖约5.1个月年化收入，而成本端的不可撤销承诺已锁定8,954亿美元、跨越最长至2045年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研报同时指出，Anthropic拟于11月中旬在纳斯达克挂牌，其S-1提供了首个经审计的前沿模型公司公开基准，&lt;strong&gt;定价落地将为智谱、MiniMax等国内模型公司带来估值修复机会&lt;/strong&gt;。&lt;/p&gt;
+
+收入三年扩张逾千倍，但合同化覆盖不足半年
+
+&lt;p&gt;Anthropic的收入曲线呈现罕见的加速扩张态势。&lt;/p&gt;
+&lt;p&gt;据浙商证券研报援引Anthropic S-1数据，公司收入由2023年的0.41亿美元增至2024年的3.86亿美元、2025年的45.85亿美元，对应同比增速分别为841%与1088%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;进入2026年后扩张进一步提速&lt;/strong&gt;：第二季度收入115.55亿美元，环比增长144.2%；第三季度169.56亿美元；前三季度合计332.42亿美元，九个月同比增长约1,206%，已超过2025年全年的7.2倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;收入结构以按量计费为主&lt;/strong&gt;。2026年上半年，按量计费收入130.64亿美元、占比80.2%，订阅收入32.22亿美元、占比19.8%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研报指出，二者并非替代关系，而是分层叠加。订阅用户用尽额度后可自然过渡至增量按量付费，订阅占比因此在历年窄幅波动而非单向下移。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;驱动收入增长的核心是用量。&lt;/strong&gt;研报指出，Opus 5.5使客户单任务成本较前代Opus 5下降约40%，Fable 5.1使典型工作负载成本下降约25%，价格下行与收入加速并存，说明用量扩张幅度已超过价格下行幅度。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，收入端的合同化程度依然有限&lt;/strong&gt;。截至2026年9月30日，Anthropic剩余履约义务（RPO）仅138亿美元，其中约75%将在未来12个月内确认，相当于约5.1个月年化收入覆盖。同期递延收入余额19.71亿美元，仅相当于约0.7个月年化收入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研报据此判断，收入仍以即期用量为主，客户可随时增减支出，合同刚性极为有限。&lt;/strong&gt;&lt;/p&gt;
+
+算力成本：照付不议，最长锁死20年
+
+&lt;p&gt;&lt;strong&gt;与收入端的高度灵活形成鲜明对比，成本端已被多年期不可撤销承诺锁定。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研报梳理Anthropic S-1/A披露的八份主要合同，名义规模合计约6,570亿美元；截至并含2026年9月30日之后新签的采购与租赁协议，承诺总规模约8,954亿美元，其中约4,475亿美元在2030年底前发生，其余主要集中在2031年至2045年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研报将上述承诺按刚性程度分为四档&lt;/strong&gt;。刚性最高、真正构成约束的是不可取消或仅对方重大违约方可取消的四份合同：博通1,612亿美元（融资租赁，含交叉违约条款）、谷歌1,145亿美元、亚马逊1,100亿美元、微软449亿美元，合计约4,306亿美元，占名义规模的66%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;会计处理方式进一步放大了这一约束的刚性&lt;/strong&gt;。研报指出，算力投入主要不进资产负债表，而是直接冲减当期利润。2026年前三季度，算力与基础设施费用188.08亿美元、占收入56.6%，而新增固定资产购置仅9.25亿美元、占收入不足3%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;换言之，每100美元收入对应约57美元当期算力费用，且这些费用&amp;quot;随承诺算力交付可用而增加，而非随当期需求变动&amp;quot;——费用节奏与客户实际使用量脱钩。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研报测算，若将算力承诺按合同期限摊平，满额年化算力支出约1,150亿至1,210亿美元，相当于2026年前三季度年化算力费用的4.6至4.8倍&lt;/strong&gt;。若维持前三季度56.6%的费用率，支撑该规模算力支出所需的年化收入约为2,085亿美元，是当前年化收入水平的约4.7倍。&lt;/p&gt;
+
+期限缺口：这才是真正的核心约束
+
+&lt;p&gt;研报明确提出&amp;quot;与前不同的认识&amp;quot;：&lt;strong&gt;Anthropic面临的主要约束并非亏损本身，而是收入可撤回（剩余履约义务覆盖约3个月）与成本不可撤回（合同期限最长20年）之间的期限缺口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一缺口在数字上高度不对称：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;收入端&lt;/strong&gt;，S-1显示越来越多企业客户签署含最低消费承诺的不可撤销合同，但合同化程度整体仍低——RPO覆盖月数无论以哪种口径衡量，均不超过5.1个月。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;成本端&lt;/strong&gt;，仅最刚性的四份合同（博通、谷歌、亚马逊、微软）合计已达4,306亿美元，且均为照付不议或补差机制，客户违约时保护极为有限。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研报还指出，采购模式正由&amp;quot;租算力&amp;quot;转向&amp;quot;租设备&amp;quot;，进一步加剧了支付端与确认端的时序错配&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此前以云服务商（CSP）采购为主、随算力可用量付款；当前更多采取直接租赁芯片、托管于第三方专用数据中心的方式，博通五年期设备租赁即属此类。设备租赁按融资租赁处理，起付时点为设备&amp;quot;ready for service&amp;quot;，若机房延迟，起付甚至可能早于算力实际可用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;融资侧虽设有配套额度，但均附严格条件&lt;/strong&gt;。S-1列示谷歌200亿美元、亚马逊150亿美元、博通420亿美元等票据融资额度，合计870亿美元，截至2026年6月末均零提取，且提款条件与特定收入目标或算力交付节点挂钩。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此研报认为，由于提取条件过于苛刻，该额度无法作为随时可调用的资金保障。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研报指出，Anthropic S-1的战略意义在于提供了首个经审计、口径完整的前沿模型公司公开基准。公司已公开S-1，拟于11月中旬在纳斯达克挂牌，定价落地将为智谱、MiniMax等国内模型公司提供首个可参照的海外对标，带来板块估值修复机会。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研报在智能指数维度同时指出，前沿模型之间的能力差距已压缩至季度级别&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;截至2026年11月上旬，Artificial Analysis智能指数前七个模型档位全部落在55至60分之间，首尾分差仅5分，单代际领先窗口已缩短至季度量级，单一模型或推理档位的领先不再构成定价权。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻</title><link>https://wallstreetcn.com/articles/3785683</link><guid>c3d4028eb3b655d6371ff068ce5d2ab2c8b43cb81ea3cd6eb33b7ea3fce97c89</guid><pubDate>Wed, 11 Nov 2026 00:42:19 GMT</pubDate><description>&lt;p&gt;AI云计算提供商CoreWeave发布强劲季报，并上调全年收入指引，暂时缓解了市场对这家高负债企业增长放缓的担忧。&lt;/p&gt;
 &lt;p&gt;第三季度，CoreWeave营收36.61亿美元，同比增长168%，超出分析师预期的35.6亿美元，也突破了公司自身指引上限36亿美元，环比增长42%。单季收入增量首次超过10亿美元。每股净亏损1.27美元，好于市场预期的1.46美元。公司将&lt;strong&gt;2026年全年收入指引上调至130亿至133亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;首席执行官Michael Intrator将这份季报定性为一个转折信号：&amp;quot;市场叙事改变了，人们开始审视AI的建设进程。而我们的业绩表明，这家公司正在以正确的方式运转，并赢得了客户的持续选择。&amp;quot;&lt;/p&gt;
@@ -732,37 +780,4 @@ IPO最高募资644亿美元，另有260亿美元私募配售
 &lt;p&gt;具体来看，本次420亿美元10年期国债拍卖的得标收益率为5.020%，较10月7日上一次拍卖的5.300%下降28个基点。不过，得标收益率下降并不意味着本次拍卖需求改善，投标倍数的变化反映出投资者认购意愿有所减弱。&lt;/p&gt;
 &lt;p&gt;投标倍数是衡量国债拍卖需求的重要指标，代表投资者提交的投标总额与发行规模之比。本次2.46的投标倍数低于过去10次同期限国债拍卖2.54的平均水平。&lt;/p&gt;
 &lt;p&gt;从投资者结构来看，间接投标者获配比例为61.2%，直接投标者获配比例为29.0%，一级交易商获配比例为9.8%。其中，间接投标者获配比例较上次的80.3%明显下降，一级交易商承接比例则从上次的2.5%升至9.8%。&lt;/p&gt;
-&lt;p&gt;这意味着，本次拍卖中，间接投标者的需求明显减弱，一级交易商需要承接更多发行规模。不过，直接投标者获配比例升至29%，也显示部分直接参与者的需求有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] MiniMax开源H3 Image：4K图像生成仅10秒，支持多达16张参考图，首周五折优惠</title><link>https://wallstreetcn.com/articles/3785667</link><guid>be09941e7759fb9bbd47f48b4dfdae2263b40cdeddca787ba5fadd783467e082</guid><pubDate>Tue, 10 Nov 2026 18:15:19 GMT</pubDate><description>&lt;p&gt;中国AI公司MiniMax再度加码图像生成赛道。&lt;/p&gt;
-&lt;p&gt;11月10日周二，MiniMax正式发布并开源新一代图像生成模型H3 Image，主打最高1600万像素（4096×4096）的4K图像生成，官方称最快约10秒即可完成，同时支持精准理解提示词、图像编辑以及最多16张参考图输入。&lt;/p&gt;
-&lt;p&gt;MiniMax将H3 Image的核心竞争力归纳为速度、画面质量和指令遵循三个方面：在速度上，模型能够在10至20秒内生成4K图像；在画质上，力求摆脱常见的AI生成感，呈现更丰富的细节和更强的真实感；在指令遵循上，官方称其达到开源图像模型中的最强水平，并支持多张参考图协同创作。&lt;/p&gt;
-&lt;p&gt;与仅开放API调用的闭源模型不同，MiniMax此次同步开放H3 Image模型权重，并将其接入自家API、MiniMax Code和海螺AI平台。发布首周，16MP及以上分辨率图像生成还可享受五折优惠。&lt;/p&gt;
-4K图像无需超分辨率，直接生成速度吊打主流模型
-&lt;p&gt;生成速度是H3 Image此次重点强调的竞争力之一。&lt;/p&gt;
-&lt;p&gt;目前市面上主流图像生成模型的输出分辨率大多集中在100万至400万像素，生成速度普遍以分钟计，即使较快的模型也需要约50秒。相比之下，H3 Image能够直接生成4096×4096的4K图像，生成时间缩短至10至20秒，官方宣传的最快速度约为10秒。&lt;/p&gt;
-&lt;p&gt;这意味着，H3 Image不仅将单次生成的像素规模提升至约1600万，也试图大幅压缩高分辨率图像的等待时间。对于需要反复调整构图、配色、光线和细节的设计师及内容创作者而言，生成速度提升能够降低每次试错的时间成本，让创意迭代更加高效。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从技术规格看，H3 Image并非简单地将普通分辨率图片放大至4K，而是能够直接生成约1600万像素的高分辨率图像，无需额外超分辨率处理。&lt;/p&gt;
-&lt;p&gt;MiniMax在Hugging Face公布的模型说明显示，H3 Image支持多种画面比例，除4096×4096的正方形图片外，还支持5472×3072的16:9横版图片，以及6272×2688的21:9宽屏图片。模型有效生成范围约为400万至2000万像素，官方建议在1600万像素左右获得较好的效果。&lt;/p&gt;
-&lt;p&gt;速度提升背后，模型采用了蒸馏优化，将采样步骤压缩至6步（Sampling Steps），无需传统的无分类器引导（CFG），以降低高分辨率图像生成的计算开销。&lt;/p&gt;
-摆脱常见“AI感”，画面细节和真实感成为另一卖点
-&lt;p&gt;除了生成速度，MiniMax将画面质量视为H3 Image的另一项核心优势。&lt;/p&gt;
-&lt;p&gt;MiniMax在官方模型说明中强调，H3 Image能够突破常见AI生成图像的视觉特征，提供更加丰富的画面细节和更强的真实感，使生成图像更接近真实世界的视觉质感。&lt;/p&gt;
-&lt;p&gt;这不仅关系到图像是否足够逼真，也直接影响模型的应用范围。对于广告、电商、产品设计、游戏美术和商业视觉制作等场景而言，图像模型除了需要生成符合创意要求的画面，还必须能够呈现细腻的材质、自然的光影和可信的场景细节。画面真实感和细节表现的提升，有望让AI生成图像从概念草图、创意素材进一步延伸至更专业的商业创作。&lt;/p&gt;
-&lt;p&gt;与传统高分辨率生成方案不同，H3 Image能够直接生成约1600万像素的图像，而不是先生成低分辨率图片、再通过超分辨率技术放大。MiniMax希望通过高分辨率原生生成与更短的推理流程兼顾画质和效率。&lt;/p&gt;
-指令遵循能力号称开源图像模型最强，最多支持16张参考图
-&lt;p&gt;在指令遵循方面，MiniMax将H3 Image定位为开源图像模型中指令遵循能力最强的模型，并将其与多参考图输入和图像编辑能力结合。&lt;/p&gt;
-&lt;p&gt;模型不仅支持根据文字提示直接生成图像，还能接收一张或多张参考图片，根据用户指令对已有图像进行修改。最多16张参考图的输入能力，有助于模型同时理解人物、物体、场景和视觉风格等不同参考信息，在复杂创作中更好地保持主体特征和画面一致性。&lt;/p&gt;
-&lt;p&gt;例如，在产品广告设计中，用户可以分别上传产品外观、品牌视觉和场景参考图片，再通过文字指令要求模型将不同元素整合到一张新图中；在游戏美术和角色设计中，也可以利用多张参考图控制人物外观、服饰、场景和整体风格。&lt;/p&gt;
-&lt;p&gt;这种将文生图、图像编辑和多图参考整合在同一模型中的设计，也意味着用户不必频繁切换不同的专业模型或工作流程，便可以完成从初始生成到后续修改的连续创作。&lt;/p&gt;
-33.1亿参数架构，模型权重同步开放
-&lt;p&gt;在模型架构方面，H3 Image基于MiniMax H3多模态模型开发，移除了原有架构中的音频分支，针对图像生成和编辑进行了优化。&lt;/p&gt;
-&lt;p&gt;根据Hugging Face公布的技术资料，H3 Image采用331亿参数的稠密扩散Transformer（DiT），共有50层，沿用MiniMax H3的Qwen3-VL文本编码器，并结合图像VAE处理参考图片和生成图像。&lt;/p&gt;
-&lt;p&gt;此次发布的另一项重要内容是开放模型权重。开发者可以通过Hugging Face获取模型，并使用SGLang、vLLM-Omni、Diffusers和ComfyUI等工具进行部署和开发。&lt;/p&gt;
-&lt;p&gt;不过，开放权重并不意味着普通消费级电脑就能轻松运行完整模型。官方披露的图像生成DiT权重文件约为68.65GB，完整部署还需要加载独立的文本编码器，对显存和计算资源有较高要求。&lt;/p&gt;
-API、MiniMax Code和海螺AI同步接入，首周高分辨率生成五折
-&lt;p&gt;在商业化方面，MiniMax采取开放权重与自有产品平台并行的策略。&lt;/p&gt;
-&lt;p&gt;H3 Image目前已通过MiniMax API、MiniMax Code和海螺AI提供服务，用户无需自行下载和部署模型，即可体验高分辨率图像生成和编辑功能。发布首周，16MP及以上分辨率的图像生成请求还可享受五折优惠。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从此次发布来看，MiniMax试图同时覆盖开发者和普通创作者：一方面，通过开放模型权重吸引开发者进行本地部署、二次开发和工作流集成；另一方面，通过API及海螺AI等产品推动模型商业化，扩大用户覆盖面。&lt;/p&gt;
-&lt;p&gt;不过，开放权重也不等于完全不受限制的开源。Hugging Face公布的社区许可证对适用地域、商业使用和模型衍生开发等设置了条件，部分地区及特定商业用途需要另行获得授权。&lt;/p&gt;
-&lt;p&gt;在AI图像生成竞争日趋激烈的背景下，H3 Image将高分辨率生成速度、画面真实感和复杂指令遵循能力作为主要突破口。能否将这三项技术优势转化为持续的创作者使用需求和API收入，以及开放权重能否带动更广泛的开发者生态，将成为MiniMax接下来值得关注的看点。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这意味着，本次拍卖中，间接投标者的需求明显减弱，一级交易商需要承接更多发行规模。不过，直接投标者获配比例升至29%，也显示部分直接参与者的需求有所增加。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
