@@ -1,48 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 11:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍</title><link>https://wallstreetcn.com/articles/3785723</link><guid>8f7176a2bbd53ad19dd3f6f2cf29b0a031e34238d6a9215233c146f3a1279ae8</guid><pubDate>Wed, 11 Nov 2026 08:39:20 GMT</pubDate><description>&lt;p&gt;英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，据伯恩斯坦分析师Daniel Zhu在最新研报中测算，基于Coherent披露的每100 Tbps芯片对应1.5万美元内容价值这一数据，&lt;strong&gt;一个8机架Rubin Ultra计算集群（Pod）所产生的光学内容机会约达540万美元，较此前Vera Rubin NVL72架构下约100万美元的规模扩大逾5倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;结合伯恩斯坦亚洲半导体团队（Mark Li）的出货量预测，这意味着Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028年将进一步扩大至361亿美元。&lt;strong&gt;若将整个英伟达生态系统纳入统计，2028年光学市场总规模或接近470亿美元，同比增长91%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;伯恩斯坦维持Lumentum、Coherent和Ciena的&amp;quot;跑赢大市&amp;quot;评级，以及Corning的&amp;quot;与大市同步&amp;quot;评级。其中，Lumentum目标价上调至700美元以反映Marvell最新股价，Coherent、Ciena及Corning目标价维持不变，分别为350美元、440美元和120美元。&lt;/p&gt;
-
-光学内容量级跃升：从100万到540万美元
-
-&lt;p&gt;伯恩斯坦报告的核心出发点，是对Rubin Ultra架构下单个计算Pod光学内容的重新测算。&lt;/p&gt;
-&lt;p&gt;根据英伟达在OCP峰会上披露的设计细节，Rubin Ultra将采用8机架规模化互联（Scale-up）Pod架构，每机架搭载72颗GPU，单个Pod合计576颗GPU。其规模化互联域采用两层网络架构：机架内NVLink 7 CPO交换机托盘作为叶交换机（Leaf），配备144个端口（每端口2条200G速率通道），机架间通过脊交换机（Spine）互联。&lt;/p&gt;
-&lt;p&gt;伯恩斯坦估算，整个Pod的规模化互联光学带宽中，CPO带宽为6912 Tbps，可插拔带宽同为6912 Tbps，规模化互联总光学带宽达13824 Tbps；叠加2074 Tbps的规模化扩展（Scale-out）带宽，单个Pod总光学带宽约为15898 Tbps，较此前架构提升约7.7倍。&lt;/p&gt;
-&lt;p&gt;在内容测算上，Coherent在其PhotonLink发布活动中披露，一颗具备100 Tbps I/O和200 Gbps光学通道的计算或交换芯片，内容机会约为1.5万美元，折合每通道30美元。伯恩斯坦以此为基础，结合亚洲渠道对可插拔模块约0.48美元/Gbps的报价，最终估算单个8机架Rubin Ultra Pod的光学内容约为540万美元，其中CPO内容约104万美元，规模化互联可插拔内容约332万美元，规模化扩展可插拔内容约100万美元。&lt;/p&gt;
-
-2027至2028年：市场规模测算
-
-&lt;p&gt;伯恩斯坦基于亚洲半导体团队的出货量预测进行市场规模推演。Mark Li团队预估Rubin Ultra（R300）GPU出货量2027年约为100万颗，2028年约为390万颗，对应约1800个和6800个576颗GPU规模的Pod。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;以每个Pod 540万美元内容计算，Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028年约为361亿美元。&lt;/strong&gt;若将所有Vera Rubin NVL72及更早期GPU按每576颗GPU约100万美元规模扩展光学内容计算，英伟达整个光学生态系统的市场规模将从2027年约245亿美元增长至2028年约468亿美元，同比增速约91%。&lt;/p&gt;
-&lt;p&gt;值得注意的是，伯恩斯坦认为有源电缆（AEC）技术难以在Rubin Ultra架构中替代光学方案。AEC虽可将铜缆延伸距离延至约7米，但在AI数据中心中，GPU排列间距普遍超过该阈值；即使采用方形排列，中心脊交换机机架需终结约5200根铜缆，面板容量亦将成为制约瓶颈。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-光纤用量测算：Corning机会不可忽视
-
-&lt;p&gt;Corning此前披露铜缆规模化互联加光纤规模化扩展架构下每颗GPU对应16根光纤，但伯恩斯坦自行测算认为，Vera Rubin架构下实际应为36根。&lt;/p&gt;
-&lt;p&gt;伯恩斯坦的推算逻辑如下：Vera Rubin每机架32.4 TB/s的双向规模化扩展带宽折合单向129.6 Tbps，对应648条200G通道，每条通道两端各需一根发送和接收光纤，经两跳网络（NIC至叶交换机，叶至脊）后，合计每机架2592根光纤，即每颗GPU 36根。Corning的16根计算仅对应第一跳，差异主要来源于跳数统计口径的不同。&lt;/p&gt;
-&lt;p&gt;在Rubin Ultra架构中，每颗GPU的NVLink带宽为双向3 TB/s，折合120条200G通道，对应240根光纤（单跳，因机架内第一跳仍使用铜缆），叠加Vera Rubin的36根，合计约276根，较当前增加约8倍。伯恩斯坦认为，Corning所给出的每颗GPU约1.5倍内容增量预测较为合理，甚至可能偏保守——若机架间规模化互联的光纤定价接近规模化扩展水平，实际增量将更大。若未来（可能要到Feynman一代）实现全光规模化互联，每颗GPU光纤数量或进一步增至约516根，较今日增加约14倍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-供应链瓶颈：InP衬底仍是关键约束
-
-&lt;p&gt;伯恩斯坦指出，当前光学供应链可见度有限，难以对供给侧建立充分信心。基于与产业链人士的交流，&lt;strong&gt;报告认为InP衬底是最核心的供应瓶颈。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在衬底供应端，住友（Sumitomo）和AXTI（美股上市，产能位于中国）是最主要的两家供应商，2025年各拥有约40%市场份额，其余份额由JX先进金属、云南锗业等中日小型企业持有。AXTI表示产能将在2026年底较2025年四季度翻倍，并于2027年再度翻倍；结合衬底产能扩张与终端客户交付之间9至12个月的时滞，行业供给有望在2027年和2028年分别实现翻倍增长。住友方面则公告计划到2028财年将2024财年产能扩大至3倍，对应约30%的复合年增长率。&lt;/p&gt;
-&lt;p&gt;综合上述假设，伯恩斯坦测算行业整体InP衬底产能2027年将增长约60%，2028年增长约67%（见图表7）。然而，考虑到需求端预计将实现约70%至90%的增长，报告认为供给将持续偏紧并延续至2028年，价格不具备大幅下行的基础，除非AI生态系统整体需求出现明显降温。&lt;/p&gt;
-
-CEO动向：Hurlston的卖出是信号还是惯例？
-
-&lt;p&gt;报告专门讨论了市场对Lumentum CEO Michael Hurlston减持的疑虑。部分投资者担忧Hurlston是在InP供应短缺或中国竞争等负面消息落地之前提前套现离场。&lt;/p&gt;
-&lt;p&gt;对此，伯恩斯坦提出了另一种解读：这或许只是Hurlston作为CEO惯常的价值创造路径。Hurlston此前的CEO履历显示，其执掌过的三家公司均最终被收购——Finisar于2019年被卖给II-VI（即今日的Coherent），Synaptics在其离职后正被onsemi收购，代理声明显示管理层在其任期内已开始推进潜在并购探索。伯恩斯坦据此推测，推动Lumentum寻找买家可能是Hurlston此番出任CEO时的核心使命之一。与其此前操盘的Finisar（约30亿美元）和Synaptics（约70亿美元）相比，Hurlston出任Lumentum CEO时公司市值约60亿美元，体量接近，而其潜在的控制权变更赔偿金额据代理声明估算高达2.83亿美元。&lt;/p&gt;
-
-投资评级与目标价
-
-&lt;p&gt;综合上述分析，伯恩斯坦维持对光学板块的整体积极立场。&lt;/p&gt;
-&lt;p&gt;在Lumentum方面，报告以Marvell要约的面值（4.5股Marvell股票）为估值基准，根据Marvell最新股价将目标价从635美元上调至700美元，隐含交割概率约为65%。假设交易破裂，报告估算Lumentum回落价约为470美元（对应2027财年每股收益23.7美元的20倍估值）。&lt;/p&gt;
-&lt;p&gt;在Coherent方面，伯恩斯坦认为投资者可以更有信心地为其业务轨迹定价，同时Marvell-Lumentum并购后Coherent有望获得份额，维持350美元目标价，主要上行催化剂集中于2027年底至2028年（包括季度收入达40亿美元、毛利率45%及规模化互联光学量产）。&lt;/p&gt;
-&lt;p&gt;在Ciena方面，报告认为其AI机会主要来自规模化横向扩展（Scale-across），实际上可受益于算力集群受限于电力和土地而分散部署的趋势，维持440美元目标价。&lt;/p&gt;
-&lt;p&gt;在Corning方面，伯恩斯坦预测其2028年收入约为280亿美元，低于公司增长框架指引及市场一致预期，认为光学通信的内容上行空间已基本反映在股价中，维持120美元目标价和&amp;quot;与大市同步&amp;quot;评级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利</title><link>https://wallstreetcn.com/articles/3785686</link><guid>2918b060afc8c41fd1be0d0a58b73f0d28ac1dc19747d86e00b46a05d177a223</guid><pubDate>Wed, 11 Nov 2026 00:35:33 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 11:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利</title><link>https://wallstreetcn.com/articles/3785686</link><guid>2918b060afc8c41fd1be0d0a58b73f0d28ac1dc19747d86e00b46a05d177a223</guid><pubDate>Wed, 11 Nov 2026 00:35:33 GMT</pubDate><description>&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;AI云计算基础设施提供商CoreWeave在最新财报电话会上传递出强烈的供需信号：公司算力资源在2027年前已基本售罄，2028年需求更是远超可用容量数倍，同时公司宣布大幅上调旗下服务价格，并表示将以客户预付款取代无担保债务作为主要融资手段。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785683"&gt;华尔街见闻提及&lt;/a&gt;，11月10日周二美股盘后，CoreWeave公布第三季度营收36.61亿美元，同比增长168%，超出分析师预期，并将2026年全年收入指引上调至130亿至133亿美元。&lt;/p&gt;
 &lt;p&gt;电话会上，CoreWeave首席执行官Michael Intrator表示，季度内完成了多项关键里程碑：&lt;strong&gt;运营利润率&lt;/strong&gt;从二季度的5%跃升至10%，提前一个季度达成年初既定目标；&lt;strong&gt;收入积压订单（backlog）&lt;/strong&gt;增至约1330亿美元，同比增长138%；&lt;strong&gt;活跃算力规模&lt;/strong&gt;扩张至逾1.7吉瓦，较2025年底翻倍。&lt;/p&gt;
@@ -232,14 +189,26 @@ CEO动向：Hurlston的卖出是信号还是惯例？
 &lt;p&gt;&lt;strong&gt;Michael Intrator，首席执行官&lt;/strong&gt;： 在结束之前，我要感谢我们的团队、客户和合作伙伴对CoreWeave的信任，以及对我们共同建设目标的承诺。没有你们，这些成就都无从实现。我为我们已取得的成就和即将到来的成果感到无比自豪，我们将继续构建AI的核心云平台。感谢大家今天的参与，我们珍视您的支持，并期待在未来几个季度向您汇报我们的进展。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主持人&lt;/strong&gt;： 今天的电话会议到此结束。感谢您的参与，您现在可以断开连接。&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回暖，美股盘前存储、光通信普涨，CoreWeave暴涨17%，英伟达涨4%，油价反弹</title><link>https://wallstreetcn.com/articles/3785732</link><guid>58663fe7f2af2afccf6d1730146bc5812f6ed27fa0f737d8ba71f6ae353dda9e</guid><pubDate>Wed, 11 Nov 2026 09:50:29 GMT</pubDate><description>&lt;p&gt;美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。&lt;/p&gt;
-&lt;p&gt;美股盘前，CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。英伟达美股盘前涨幅扩大至4%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。&lt;/p&gt;
+&lt;p&gt;美股盘前，CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。英伟达美股盘前涨幅扩大至4%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。&lt;/p&gt;
 &lt;p&gt;欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板块领涨；亚洲股市综合指标上涨1.5%。日本和澳大利亚基准国债收益率随周二美债抛售走势同步上扬。&lt;/p&gt;
+&lt;p&gt;“人工智能（AI）相关交易正在复苏，其驱动力在于切实的需求证据，而非市场情绪：CoreWeave第三季度业绩超出了预期，并上调了全年展望，”贝伦贝格银行（Berenberg）的乌尔里希·乌尔班（Ulrich Urbahn）表示。他指出，随着估值已大幅回落，投资者正重新入场建仓。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。&lt;/li&gt;
+&lt;li&gt;斯托克600指数上涨0.7%，科技与矿业板块领涨&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率变化不大，为4.99%&lt;/li&gt;
+&lt;li&gt;德国10年期收益率下降3个基点，至3.29%&lt;/li&gt;
+&lt;li&gt;欧元下跌0.2%，报1.1138美元&lt;/li&gt;
+&lt;li&gt;日元下跌0.2%，至159.11美元&lt;/li&gt;
+&lt;li&gt;布伦特原油上涨1.4%，至每桶92.76美元&lt;/li&gt;
+&lt;li&gt;现货黄金上涨0.5%，至每盎司4,054.90美元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 
 CoreWeave业绩超预期，AI硬需求逻辑获验证
 
 &lt;p&gt;CoreWeave本季度业绩的超预期表现，被市场视为AI基础设施需求切实落地的有力证据，而非单纯的情绪驱动。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Berenberg的Ulrich Urbahn表示，&amp;quot;AI交易的回暖是建立在切实的需求数据之上，而非情绪驱动：CoreWeave第三季度业绩超出预期，并上调了全年展望。&amp;quot;他指出，经历近期大幅调整后，相关股票估值已显著回落，投资者正借机重新建仓。&lt;/p&gt;
 &lt;p&gt;CoreWeave此前因高负债的商业模式承压，股价遭到市场压制，此次业绩发布成为修复投资者信心的重要催化剂。OpenAI季度营收首次达到100亿美元，则从另一维度印证了AI商业化变现的加速推进。&lt;/p&gt;
 &lt;p&gt;此外，据《金融时报》报道，Anthropic的承销银行正在评估上调其IPO估值，以回应市场投资者的强劲认购意愿。&lt;/p&gt;
@@ -258,7 +227,50 @@ CoreWeave业绩超预期，AI硬需求逻辑获验证
 欧洲股市普涨，CSG大跌拖累个股表现
 
 &lt;p&gt;欧洲各主要股指周三整体上扬。欧洲斯托克50指数开盘上涨1%，德国DAX指数涨0.9%，英国富时100指数涨0.8%，法国CAC 40指数涨0.7%，科技与矿业板块领衔上行。&lt;/p&gt;
-&lt;p&gt;个股层面，CSG下跌17%，成为市场中的显著逆势者，此前该公司下调了全年利润率预期，引发投资者大规模抛售。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落</title><link>https://wallstreetcn.com/articles/3785695</link><guid>8ee00ffb302d784d2b65f3407c59571393bd121db1fff89a70fc71ce6bbaa9e1</guid><pubDate>Wed, 11 Nov 2026 08:14:46 GMT</pubDate><description>&lt;p&gt;A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，中际旭创、新易盛均创年内最大单日升幅。有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。&lt;/p&gt;
+&lt;p&gt;个股层面，CSG下跌17%，成为市场中的显著逆势者，此前该公司下调了全年利润率预期，引发投资者大规模抛售。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍</title><link>https://wallstreetcn.com/articles/3785723</link><guid>8f7176a2bbd53ad19dd3f6f2cf29b0a031e34238d6a9215233c146f3a1279ae8</guid><pubDate>Wed, 11 Nov 2026 08:39:20 GMT</pubDate><description>&lt;p&gt;英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，据伯恩斯坦分析师Daniel Zhu在最新研报中测算，基于Coherent披露的每100 Tbps芯片对应1.5万美元内容价值这一数据，&lt;strong&gt;一个8机架Rubin Ultra计算集群（Pod）所产生的光学内容机会约达540万美元，较此前Vera Rubin NVL72架构下约100万美元的规模扩大逾5倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;结合伯恩斯坦亚洲半导体团队（Mark Li）的出货量预测，这意味着Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028年将进一步扩大至361亿美元。&lt;strong&gt;若将整个英伟达生态系统纳入统计，2028年光学市场总规模或接近470亿美元，同比增长91%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;伯恩斯坦维持Lumentum、Coherent和Ciena的&amp;quot;跑赢大市&amp;quot;评级，以及Corning的&amp;quot;与大市同步&amp;quot;评级。其中，Lumentum目标价上调至700美元以反映Marvell最新股价，Coherent、Ciena及Corning目标价维持不变，分别为350美元、440美元和120美元。&lt;/p&gt;
+
+光学内容量级跃升：从100万到540万美元
+
+&lt;p&gt;伯恩斯坦报告的核心出发点，是对Rubin Ultra架构下单个计算Pod光学内容的重新测算。&lt;/p&gt;
+&lt;p&gt;根据英伟达在OCP峰会上披露的设计细节，Rubin Ultra将采用8机架规模化互联（Scale-up）Pod架构，每机架搭载72颗GPU，单个Pod合计576颗GPU。其规模化互联域采用两层网络架构：机架内NVLink 7 CPO交换机托盘作为叶交换机（Leaf），配备144个端口（每端口2条200G速率通道），机架间通过脊交换机（Spine）互联。&lt;/p&gt;
+&lt;p&gt;伯恩斯坦估算，整个Pod的规模化互联光学带宽中，CPO带宽为6912 Tbps，可插拔带宽同为6912 Tbps，规模化互联总光学带宽达13824 Tbps；叠加2074 Tbps的规模化扩展（Scale-out）带宽，单个Pod总光学带宽约为15898 Tbps，较此前架构提升约7.7倍。&lt;/p&gt;
+&lt;p&gt;在内容测算上，Coherent在其PhotonLink发布活动中披露，一颗具备100 Tbps I/O和200 Gbps光学通道的计算或交换芯片，内容机会约为1.5万美元，折合每通道30美元。伯恩斯坦以此为基础，结合亚洲渠道对可插拔模块约0.48美元/Gbps的报价，最终估算单个8机架Rubin Ultra Pod的光学内容约为540万美元，其中CPO内容约104万美元，规模化互联可插拔内容约332万美元，规模化扩展可插拔内容约100万美元。&lt;/p&gt;
+
+2027至2028年：市场规模测算
+
+&lt;p&gt;伯恩斯坦基于亚洲半导体团队的出货量预测进行市场规模推演。Mark Li团队预估Rubin Ultra（R300）GPU出货量2027年约为100万颗，2028年约为390万颗，对应约1800个和6800个576颗GPU规模的Pod。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以每个Pod 540万美元内容计算，Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028年约为361亿美元。&lt;/strong&gt;若将所有Vera Rubin NVL72及更早期GPU按每576颗GPU约100万美元规模扩展光学内容计算，英伟达整个光学生态系统的市场规模将从2027年约245亿美元增长至2028年约468亿美元，同比增速约91%。&lt;/p&gt;
+&lt;p&gt;值得注意的是，伯恩斯坦认为有源电缆（AEC）技术难以在Rubin Ultra架构中替代光学方案。AEC虽可将铜缆延伸距离延至约7米，但在AI数据中心中，GPU排列间距普遍超过该阈值；即使采用方形排列，中心脊交换机机架需终结约5200根铜缆，面板容量亦将成为制约瓶颈。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+光纤用量测算：Corning机会不可忽视
+
+&lt;p&gt;Corning此前披露铜缆规模化互联加光纤规模化扩展架构下每颗GPU对应16根光纤，但伯恩斯坦自行测算认为，Vera Rubin架构下实际应为36根。&lt;/p&gt;
+&lt;p&gt;伯恩斯坦的推算逻辑如下：Vera Rubin每机架32.4 TB/s的双向规模化扩展带宽折合单向129.6 Tbps，对应648条200G通道，每条通道两端各需一根发送和接收光纤，经两跳网络（NIC至叶交换机，叶至脊）后，合计每机架2592根光纤，即每颗GPU 36根。Corning的16根计算仅对应第一跳，差异主要来源于跳数统计口径的不同。&lt;/p&gt;
+&lt;p&gt;在Rubin Ultra架构中，每颗GPU的NVLink带宽为双向3 TB/s，折合120条200G通道，对应240根光纤（单跳，因机架内第一跳仍使用铜缆），叠加Vera Rubin的36根，合计约276根，较当前增加约8倍。伯恩斯坦认为，Corning所给出的每颗GPU约1.5倍内容增量预测较为合理，甚至可能偏保守——若机架间规模化互联的光纤定价接近规模化扩展水平，实际增量将更大。若未来（可能要到Feynman一代）实现全光规模化互联，每颗GPU光纤数量或进一步增至约516根，较今日增加约14倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+供应链瓶颈：InP衬底仍是关键约束
+
+&lt;p&gt;伯恩斯坦指出，当前光学供应链可见度有限，难以对供给侧建立充分信心。基于与产业链人士的交流，&lt;strong&gt;报告认为InP衬底是最核心的供应瓶颈。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在衬底供应端，住友（Sumitomo）和AXTI（美股上市，产能位于中国）是最主要的两家供应商，2025年各拥有约40%市场份额，其余份额由JX先进金属、云南锗业等中日小型企业持有。AXTI表示产能将在2026年底较2025年四季度翻倍，并于2027年再度翻倍；结合衬底产能扩张与终端客户交付之间9至12个月的时滞，行业供给有望在2027年和2028年分别实现翻倍增长。住友方面则公告计划到2028财年将2024财年产能扩大至3倍，对应约30%的复合年增长率。&lt;/p&gt;
+&lt;p&gt;综合上述假设，伯恩斯坦测算行业整体InP衬底产能2027年将增长约60%，2028年增长约67%（见图表7）。然而，考虑到需求端预计将实现约70%至90%的增长，报告认为供给将持续偏紧并延续至2028年，价格不具备大幅下行的基础，除非AI生态系统整体需求出现明显降温。&lt;/p&gt;
+
+CEO动向：Hurlston的卖出是信号还是惯例？
+
+&lt;p&gt;报告专门讨论了市场对Lumentum CEO Michael Hurlston减持的疑虑。部分投资者担忧Hurlston是在InP供应短缺或中国竞争等负面消息落地之前提前套现离场。&lt;/p&gt;
+&lt;p&gt;对此，伯恩斯坦提出了另一种解读：这或许只是Hurlston作为CEO惯常的价值创造路径。Hurlston此前的CEO履历显示，其执掌过的三家公司均最终被收购——Finisar于2019年被卖给II-VI（即今日的Coherent），Synaptics在其离职后正被onsemi收购，代理声明显示管理层在其任期内已开始推进潜在并购探索。伯恩斯坦据此推测，推动Lumentum寻找买家可能是Hurlston此番出任CEO时的核心使命之一。与其此前操盘的Finisar（约30亿美元）和Synaptics（约70亿美元）相比，Hurlston出任Lumentum CEO时公司市值约60亿美元，体量接近，而其潜在的控制权变更赔偿金额据代理声明估算高达2.83亿美元。&lt;/p&gt;
+
+投资评级与目标价
+
+&lt;p&gt;综合上述分析，伯恩斯坦维持对光学板块的整体积极立场。&lt;/p&gt;
+&lt;p&gt;在Lumentum方面，报告以Marvell要约的面值（4.5股Marvell股票）为估值基准，根据Marvell最新股价将目标价从635美元上调至700美元，隐含交割概率约为65%。假设交易破裂，报告估算Lumentum回落价约为470美元（对应2027财年每股收益23.7美元的20倍估值）。&lt;/p&gt;
+&lt;p&gt;在Coherent方面，伯恩斯坦认为投资者可以更有信心地为其业务轨迹定价，同时Marvell-Lumentum并购后Coherent有望获得份额，维持350美元目标价，主要上行催化剂集中于2027年底至2028年（包括季度收入达40亿美元、毛利率45%及规模化互联光学量产）。&lt;/p&gt;
+&lt;p&gt;在Ciena方面，报告认为其AI机会主要来自规模化横向扩展（Scale-across），实际上可受益于算力集群受限于电力和土地而分散部署的趋势，维持440美元目标价。&lt;/p&gt;
+&lt;p&gt;在Corning方面，伯恩斯坦预测其2028年收入约为280亿美元，低于公司增长框架指引及市场一致预期，认为光学通信的内容上行空间已基本反映在股价中，维持120美元目标价和&amp;quot;与大市同步&amp;quot;评级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落</title><link>https://wallstreetcn.com/articles/3785695</link><guid>8ee00ffb302d784d2b65f3407c59571393bd121db1fff89a70fc71ce6bbaa9e1</guid><pubDate>Wed, 11 Nov 2026 08:14:46 GMT</pubDate><description>&lt;p&gt;A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，中际旭创、新易盛均创年内最大单日升幅。有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。&lt;/p&gt;
 &lt;p&gt;11月11日，A股午后震荡拉升，创业板涨超3%。AI硬件爆发，光模块、光芯片、光通信、光电路交换机、电路板、覆铜板等概念股普遍拉升，剑桥科技涨停，“易中天”均大涨超13%。煤炭、海运等板块活跃，白酒、AI短剧、贵金属等陷入调整。银行板块尾盘转跌。&lt;/p&gt;
 &lt;p&gt;港股全天低开低走，恒指、恒科指齐跌，恒科指跌超1%，权重科网股多数下跌，美团、腾讯、快手、网易等下跌。光模块、芯片半导体等科技股反弹，剑桥科技H股大涨超23%。AI大模型股双雄午后拉升，此前盘中一度跌5%，阿里官宣新一代千问大模型Qwen4即将发布。债市方面，国债期货午后跌幅扩大。商品方面，国内商品期货多数上涨。&lt;/p&gt;
 &lt;blockquote&gt;
