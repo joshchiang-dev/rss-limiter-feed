@@ -1,32 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 10:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] AI交易回暖，美股盘前存储、光通信普涨，CoreWeave暴涨17%，英伟达涨4%，油价反弹</title><link>https://wallstreetcn.com/articles/3785732</link><guid>58663fe7f2af2afccf6d1730146bc5812f6ed27fa0f737d8ba71f6ae353dda9e</guid><pubDate>Wed, 11 Nov 2026 09:50:29 GMT</pubDate><description>&lt;p&gt;美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。&lt;/p&gt;
-&lt;p&gt;美股盘前，CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。英伟达美股盘前涨幅扩大至4%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。&lt;/p&gt;
-&lt;p&gt;欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板块领涨；亚洲股市综合指标上涨1.5%。日本和澳大利亚基准国债收益率随周二美债抛售走势同步上扬。&lt;/p&gt;
-
-CoreWeave业绩超预期，AI硬需求逻辑获验证
-
-&lt;p&gt;CoreWeave本季度业绩的超预期表现，被市场视为AI基础设施需求切实落地的有力证据，而非单纯的情绪驱动。&lt;/p&gt;
-&lt;p&gt;Berenberg的Ulrich Urbahn表示，&amp;quot;AI交易的回暖是建立在切实的需求数据之上，而非情绪驱动：CoreWeave第三季度业绩超出预期，并上调了全年展望。&amp;quot;他指出，经历近期大幅调整后，相关股票估值已显著回落，投资者正借机重新建仓。&lt;/p&gt;
-&lt;p&gt;CoreWeave此前因高负债的商业模式承压，股价遭到市场压制，此次业绩发布成为修复投资者信心的重要催化剂。OpenAI季度营收首次达到100亿美元，则从另一维度印证了AI商业化变现的加速推进。&lt;/p&gt;
-&lt;p&gt;此外，据《金融时报》报道，Anthropic的承销银行正在评估上调其IPO估值，以回应市场投资者的强劲认购意愿。&lt;/p&gt;
-
-美国国债收益率周二大涨，加息预期重燃
-
-&lt;p&gt;美国国债收益率在周二大幅上行，原因是当日公布的消费者价格指数（CPI）高于预期，促使交易员上调对美联储进一步加息的预期。受退伍军人节假期影响，国债现券市场周三休市，市场未能延续前日的价格走势。&lt;/p&gt;
-&lt;p&gt;日本和澳大利亚基准国债收益率随周二美债抛售走势同步跳升，显示收益率上行压力已向其他主要债券市场蔓延。&lt;/p&gt;
-&lt;p&gt;在加息预期升温的背景下，来自摩根大通资产管理公司的David Kelly表示，美联储下次会议没有必要加息50个基点。&lt;/p&gt;
-
-油价止跌回升，布伦特原油重返92美元附近
-
-&lt;p&gt;国际油价在连续两日下跌后于周三企稳回升，布伦特原油价格重新攀升至每桶92美元附近。&lt;/p&gt;
-&lt;p&gt;此轮油价反弹的背景是市场对美伊战争走向的持续关注，交易员正密切评估冲突结束前景对供应端的影响。油价走势成为当前宏观市场的另一重要变量，与利率预期和科技板块情绪共同左右投资者的资产配置决策。&lt;/p&gt;
-
-欧洲股市普涨，CSG大跌拖累个股表现
-
-&lt;p&gt;欧洲各主要股指周三整体上扬。欧洲斯托克50指数开盘上涨1%，德国DAX指数涨0.9%，英国富时100指数涨0.8%，法国CAC 40指数涨0.7%，科技与矿业板块领衔上行。&lt;/p&gt;
-&lt;p&gt;个股层面，CSG下跌17%，成为市场中的显著逆势者，此前该公司下调了全年利润率预期，引发投资者大规模抛售。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍</title><link>https://wallstreetcn.com/articles/3785723</link><guid>8f7176a2bbd53ad19dd3f6f2cf29b0a031e34238d6a9215233c146f3a1279ae8</guid><pubDate>Wed, 11 Nov 2026 08:39:20 GMT</pubDate><description>&lt;p&gt;英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 11 Nov 2026 11:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍</title><link>https://wallstreetcn.com/articles/3785723</link><guid>8f7176a2bbd53ad19dd3f6f2cf29b0a031e34238d6a9215233c146f3a1279ae8</guid><pubDate>Wed, 11 Nov 2026 08:39:20 GMT</pubDate><description>&lt;p&gt;英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。&lt;/p&gt;
 &lt;p&gt;据追风交易台消息，据伯恩斯坦分析师Daniel Zhu在最新研报中测算，基于Coherent披露的每100 Tbps芯片对应1.5万美元内容价值这一数据，&lt;strong&gt;一个8机架Rubin Ultra计算集群（Pod）所产生的光学内容机会约达540万美元，较此前Vera Rubin NVL72架构下约100万美元的规模扩大逾5倍。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;结合伯恩斯坦亚洲半导体团队（Mark Li）的出货量预测，这意味着Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028年将进一步扩大至361亿美元。&lt;strong&gt;若将整个英伟达生态系统纳入统计，2028年光学市场总规模或接近470亿美元，同比增长91%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;伯恩斯坦维持Lumentum、Coherent和Ciena的&amp;quot;跑赢大市&amp;quot;评级，以及Corning的&amp;quot;与大市同步&amp;quot;评级。其中，Lumentum目标价上调至700美元以反映Marvell最新股价，Coherent、Ciena及Corning目标价维持不变，分别为350美元、440美元和120美元。&lt;/p&gt;
@@ -258,7 +231,34 @@ CEO动向：Hurlston的卖出是信号还是惯例？
 &lt;p&gt;&lt;strong&gt;主持人&lt;/strong&gt;： 问答环节到此结束。现在将发言权交回给Mike Intrator，进行闭幕致辞。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Michael Intrator，首席执行官&lt;/strong&gt;： 在结束之前，我要感谢我们的团队、客户和合作伙伴对CoreWeave的信任，以及对我们共同建设目标的承诺。没有你们，这些成就都无从实现。我为我们已取得的成就和即将到来的成果感到无比自豪，我们将继续构建AI的核心云平台。感谢大家今天的参与，我们珍视您的支持，并期待在未来几个季度向您汇报我们的进展。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;主持人&lt;/strong&gt;： 今天的电话会议到此结束。感谢您的参与，您现在可以断开连接。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落</title><link>https://wallstreetcn.com/articles/3785695</link><guid>8ee00ffb302d784d2b65f3407c59571393bd121db1fff89a70fc71ce6bbaa9e1</guid><pubDate>Wed, 11 Nov 2026 08:14:46 GMT</pubDate><description>&lt;p&gt;A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，中际旭创、新易盛均创年内最大单日升幅。有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易回暖，美股盘前存储、光通信普涨，CoreWeave暴涨17%，英伟达涨4%，油价反弹</title><link>https://wallstreetcn.com/articles/3785732</link><guid>58663fe7f2af2afccf6d1730146bc5812f6ed27fa0f737d8ba71f6ae353dda9e</guid><pubDate>Wed, 11 Nov 2026 09:50:29 GMT</pubDate><description>&lt;p&gt;美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。&lt;/p&gt;
+&lt;p&gt;美股盘前，CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。英伟达美股盘前涨幅扩大至4%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。&lt;/p&gt;
+&lt;p&gt;欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板块领涨；亚洲股市综合指标上涨1.5%。日本和澳大利亚基准国债收益率随周二美债抛售走势同步上扬。&lt;/p&gt;
+
+CoreWeave业绩超预期，AI硬需求逻辑获验证
+
+&lt;p&gt;CoreWeave本季度业绩的超预期表现，被市场视为AI基础设施需求切实落地的有力证据，而非单纯的情绪驱动。&lt;/p&gt;
+&lt;p&gt;Berenberg的Ulrich Urbahn表示，&amp;quot;AI交易的回暖是建立在切实的需求数据之上，而非情绪驱动：CoreWeave第三季度业绩超出预期，并上调了全年展望。&amp;quot;他指出，经历近期大幅调整后，相关股票估值已显著回落，投资者正借机重新建仓。&lt;/p&gt;
+&lt;p&gt;CoreWeave此前因高负债的商业模式承压，股价遭到市场压制，此次业绩发布成为修复投资者信心的重要催化剂。OpenAI季度营收首次达到100亿美元，则从另一维度印证了AI商业化变现的加速推进。&lt;/p&gt;
+&lt;p&gt;此外，据《金融时报》报道，Anthropic的承销银行正在评估上调其IPO估值，以回应市场投资者的强劲认购意愿。&lt;/p&gt;
+
+美国国债收益率周二大涨，加息预期重燃
+
+&lt;p&gt;美国国债收益率在周二大幅上行，原因是当日公布的消费者价格指数（CPI）高于预期，促使交易员上调对美联储进一步加息的预期。受退伍军人节假期影响，国债现券市场周三休市，市场未能延续前日的价格走势。&lt;/p&gt;
+&lt;p&gt;日本和澳大利亚基准国债收益率随周二美债抛售走势同步跳升，显示收益率上行压力已向其他主要债券市场蔓延。&lt;/p&gt;
+&lt;p&gt;在加息预期升温的背景下，来自摩根大通资产管理公司的David Kelly表示，美联储下次会议没有必要加息50个基点。&lt;/p&gt;
+
+油价止跌回升，布伦特原油重返92美元附近
+
+&lt;p&gt;国际油价在连续两日下跌后于周三企稳回升，布伦特原油价格重新攀升至每桶92美元附近。&lt;/p&gt;
+&lt;p&gt;此轮油价反弹的背景是市场对美伊战争走向的持续关注，交易员正密切评估冲突结束前景对供应端的影响。油价走势成为当前宏观市场的另一重要变量，与利率预期和科技板块情绪共同左右投资者的资产配置决策。&lt;/p&gt;
+
+欧洲股市普涨，CSG大跌拖累个股表现
+
+&lt;p&gt;欧洲各主要股指周三整体上扬。欧洲斯托克50指数开盘上涨1%，德国DAX指数涨0.9%，英国富时100指数涨0.8%，法国CAC 40指数涨0.7%，科技与矿业板块领衔上行。&lt;/p&gt;
+&lt;p&gt;个股层面，CSG下跌17%，成为市场中的显著逆势者，此前该公司下调了全年利润率预期，引发投资者大规模抛售。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落</title><link>https://wallstreetcn.com/articles/3785695</link><guid>8ee00ffb302d784d2b65f3407c59571393bd121db1fff89a70fc71ce6bbaa9e1</guid><pubDate>Wed, 11 Nov 2026 08:14:46 GMT</pubDate><description>&lt;p&gt;A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，中际旭创、新易盛均创年内最大单日升幅。有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。&lt;/p&gt;
 &lt;p&gt;11月11日，A股午后震荡拉升，创业板涨超3%。AI硬件爆发，光模块、光芯片、光通信、光电路交换机、电路板、覆铜板等概念股普遍拉升，剑桥科技涨停，“易中天”均大涨超13%。煤炭、海运等板块活跃，白酒、AI短剧、贵金属等陷入调整。银行板块尾盘转跌。&lt;/p&gt;
 &lt;p&gt;港股全天低开低走，恒指、恒科指齐跌，恒科指跌超1%，权重科网股多数下跌，美团、腾讯、快手、网易等下跌。光模块、芯片半导体等科技股反弹，剑桥科技H股大涨超23%。AI大模型股双雄午后拉升，此前盘中一度跌5%，阿里官宣新一代千问大模型Qwen4即将发布。债市方面，国债期货午后跌幅扩大。商品方面，国内商品期货多数上涨。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -304,7 +304,7 @@ PCB掀起涨停潮
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;华泰证券研报表示，2026年第三季度，19家白酒上市公司整体营业收入为699亿元，同比下降10.%；归母净利润为243亿元，同比下降13%。2026年三季度，白酒行业需求延续弱复苏，上市酒企收入降幅较二季度明显收窄，预计白酒上市公司业绩自2025年三季度以来的实质性出清行至下半场。&lt;/p&gt;
 &lt;p&gt;银行尾盘转跌，常熟银行、平安银行、光大银行跌幅均超过1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Sea三季度净利增长34%：电商增强，金融临考</title><link>https://wallstreetcn.com/articles/3785721</link><guid>c7ec22c9cbee5045fb1193c037f1a6174dbafabc9e31cc8b6fdbb4b9a97cd070</guid><pubDate>Wed, 11 Nov 2026 07:29:39 GMT</pubDate><description>&lt;p&gt;11月10日，Sea (&lt;a href="http://SE.US"&gt;SE.US&lt;/a&gt;) 公布截至2026年9月30日的第三季度未经审计财务业绩。GAAP收入86亿美元，同比增长43.4%；毛利润39亿美元，同比增长51.4%；净利润5.025亿美元，同比增长34.0%；调整后EBITDA 9.313亿美元，同比增长28.9%；基本每股收益0.81美元，上年同期为0.63美元。&lt;/p&gt;&lt;p&gt;三大业务中，电商平台Shopee收入61亿美元，同比增长41.3%；数字金融服务业务Monee收入16亿美元，同比增长63.9%，为增速最快板块；游戏业务Garena收入8.401亿美元，同比增长28.6%。&lt;/p&gt;&lt;p&gt;Shopee三季度GMV 397亿美元，同比增长23.3%；总订单量45亿单，同比增长25.5%，公司称收入增长主要得益于GMV增长和变现能力提升。&lt;/p&gt;&lt;p&gt;拆分看，核心市场收入（主要由交易手续费和广告收入构成）同比增长50.6%至46亿美元；物流类增值服务收入7.244亿美元，与上年同期的7.236亿美元基本持平；平台商品销售收入7.461亿美元，同比增长44.6%。&lt;/p&gt;&lt;p&gt;Shopee调整后EBITDA 2.692亿美元，同比增长44.7%；销售费用14.3亿美元，同比增长60.0%，快于收入增速。&lt;/p&gt;&lt;p&gt;Monee收入增长主要来自信贷业务放贷活动增加。截至9月30日，消费信贷和中小企业贷款本金余额126亿美元，同比增长60.0%，其中表内贷款112亿美元、表外贷款13亿美元；逾期90天以上不良贷款占比1.3%，上年同期为1.1%。&lt;/p&gt;&lt;p&gt;Monee调整后EBITDA 2.983亿美元，同比仅增15.5%。集团信用减值损失6.815亿美元，同比增长82.3%，其中6.787亿美元来自Monee，约占Monee当期收入的42%。&lt;/p&gt;&lt;p&gt;Garena三季度预订额8.9亿美元，同比增长5.9%；GAAP收入8.401亿美元，同比增长28.6%；调整后EBITDA 4.582亿美元，同比增长45.9%。&lt;/p&gt;&lt;p&gt;季度活跃用户6.717亿，上年同期6.708亿；季度付费用户6860万，同比增长4.1%；付费用户占比10.2%，上年同期9.8%；公告披露的用户平均预订额1.33美元，上年同期1.25美元。&lt;/p&gt;&lt;p&gt;管理层称Free Fire预订额实现强劲增长，是Garena本季表现的支柱。口径上，Garena收入按递延规则确认，收入增速明显快于预订额增速；公司称调整后EBITDA已剔除递延收入及其相关成本的净影响，该影响本季度为5200万美元，上年同期为1.519亿美元。&lt;/p&gt;&lt;p&gt;净利润增速低于收入增速，主要受费用与税负拖累。销售及营销费用18.9亿美元，同比增长64.0%，其中Monee该项费用3.346亿美元，同比增长111.8%；所得税支出2.804亿美元，同比增长74.0%。营业利润6.642亿美元，同比增长39.5%。&lt;/p&gt;&lt;p&gt;三季度另有净非经营性收益1.233亿美元，包括投资收益6520万美元、利息收益6220万美元。据公告数据计算，三季度毛利率约45.8%，较上年同期约43.4%提升2.4个百分点。&lt;/p&gt;&lt;p&gt;资本运作方面，根据10亿美元股份回购计划，截至公告日公司已回购1110万股，总额9.972亿美元；董事会11月9日批准新增10亿美元回购授权，无到期日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻</title><link>https://wallstreetcn.com/articles/3785683</link><guid>c3d4028eb3b655d6371ff068ce5d2ab2c8b43cb81ea3cd6eb33b7ea3fce97c89</guid><pubDate>Wed, 11 Nov 2026 00:42:19 GMT</pubDate><description>&lt;p&gt;AI云计算提供商CoreWeave发布强劲季报，并上调全年收入指引，暂时缓解了市场对这家高负债企业增长放缓的担忧。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻</title><link>https://wallstreetcn.com/articles/3785683</link><guid>c3d4028eb3b655d6371ff068ce5d2ab2c8b43cb81ea3cd6eb33b7ea3fce97c89</guid><pubDate>Wed, 11 Nov 2026 00:42:19 GMT</pubDate><description>&lt;p&gt;AI云计算提供商CoreWeave发布强劲季报，并上调全年收入指引，暂时缓解了市场对这家高负债企业增长放缓的担忧。&lt;/p&gt;
 &lt;p&gt;第三季度，CoreWeave营收36.61亿美元，同比增长168%，超出分析师预期的35.6亿美元，也突破了公司自身指引上限36亿美元，环比增长42%。单季收入增量首次超过10亿美元。每股净亏损1.27美元，好于市场预期的1.46美元。公司将&lt;strong&gt;2026年全年收入指引上调至130亿至133亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;首席执行官Michael Intrator将这份季报定性为一个转折信号：&amp;quot;市场叙事改变了，人们开始审视AI的建设进程。而我们的业绩表明，这家公司正在以正确的方式运转，并赢得了客户的持续选择。&amp;quot;&lt;/p&gt;
@@ -374,7 +374,7 @@ PCB掀起涨停潮
 &lt;p&gt;&lt;strong&gt;公司已将超过1.3吉瓦的签约产能布局于美国境外（印度、印度尼西亚和西班牙）。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在客户层面，微软曾是CoreWeave的最大客户，但该公司近期表示将削减资本开支，原因之一是部分AI云计算商出现项目延误，并已收紧对相关项目的监管。&lt;/p&gt;
 &lt;p&gt;此外，CoreWeave关键供应商兼股东英伟达的首席执行官黄仁勋正面临一项调查，黄仁勋此前公开表态，称CoreWeave的财务实力&amp;quot;每天都在改善&amp;quot;。&lt;/p&gt;
-&lt;p&gt;面对外界质疑，Intrator回应称：&amp;quot;市场叙事改变了，市场情绪波动了，人们开始审视AI的建设进程。而我们最新的业绩表明，这家公司正在以正确的方式、以应有的速度运转，并赢得了客户的持续选择。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI狂潮的“四种前景”与“五大风险”--“大空头”Steve Eisman“对AI的诚实思考”</title><link>https://wallstreetcn.com/articles/3785693</link><guid>a1146248a62e04cf540a5f5b1044f1e5e9d07ad0ee77d337f94fd223f0ab6fbb</guid><pubDate>Wed, 11 Nov 2026 04:06:40 GMT</pubDate><description>&lt;p&gt;当高达8500亿美元的AI资本开支高度系于极少数缺乏长期护城河的模型公司时，华尔街传奇空头警告，一旦现实不及预期，不仅市场将面临大规模回调，美国经济也极易被推入衰退。&lt;/p&gt;
+&lt;p&gt;面对外界质疑，Intrator回应称：&amp;quot;市场叙事改变了，市场情绪波动了，人们开始审视AI的建设进程。而我们最新的业绩表明，这家公司正在以正确的方式、以应有的速度运转，并赢得了客户的持续选择。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Sea三季度净利增长34%：电商增强，金融临考</title><link>https://wallstreetcn.com/articles/3785721</link><guid>c7ec22c9cbee5045fb1193c037f1a6174dbafabc9e31cc8b6fdbb4b9a97cd070</guid><pubDate>Wed, 11 Nov 2026 07:29:39 GMT</pubDate><description>&lt;p&gt;11月10日，Sea (&lt;a href="http://SE.US"&gt;SE.US&lt;/a&gt;) 公布截至2026年9月30日的第三季度未经审计财务业绩。GAAP收入86亿美元，同比增长43.4%；毛利润39亿美元，同比增长51.4%；净利润5.025亿美元，同比增长34.0%；调整后EBITDA 9.313亿美元，同比增长28.9%；基本每股收益0.81美元，上年同期为0.63美元。&lt;/p&gt;&lt;p&gt;三大业务中，电商平台Shopee收入61亿美元，同比增长41.3%；数字金融服务业务Monee收入16亿美元，同比增长63.9%，为增速最快板块；游戏业务Garena收入8.401亿美元，同比增长28.6%。&lt;/p&gt;&lt;p&gt;Shopee三季度GMV 397亿美元，同比增长23.3%；总订单量45亿单，同比增长25.5%，公司称收入增长主要得益于GMV增长和变现能力提升。&lt;/p&gt;&lt;p&gt;拆分看，核心市场收入（主要由交易手续费和广告收入构成）同比增长50.6%至46亿美元；物流类增值服务收入7.244亿美元，与上年同期的7.236亿美元基本持平；平台商品销售收入7.461亿美元，同比增长44.6%。&lt;/p&gt;&lt;p&gt;Shopee调整后EBITDA 2.692亿美元，同比增长44.7%；销售费用14.3亿美元，同比增长60.0%，快于收入增速。&lt;/p&gt;&lt;p&gt;Monee收入增长主要来自信贷业务放贷活动增加。截至9月30日，消费信贷和中小企业贷款本金余额126亿美元，同比增长60.0%，其中表内贷款112亿美元、表外贷款13亿美元；逾期90天以上不良贷款占比1.3%，上年同期为1.1%。&lt;/p&gt;&lt;p&gt;Monee调整后EBITDA 2.983亿美元，同比仅增15.5%。集团信用减值损失6.815亿美元，同比增长82.3%，其中6.787亿美元来自Monee，约占Monee当期收入的42%。&lt;/p&gt;&lt;p&gt;Garena三季度预订额8.9亿美元，同比增长5.9%；GAAP收入8.401亿美元，同比增长28.6%；调整后EBITDA 4.582亿美元，同比增长45.9%。&lt;/p&gt;&lt;p&gt;季度活跃用户6.717亿，上年同期6.708亿；季度付费用户6860万，同比增长4.1%；付费用户占比10.2%，上年同期9.8%；公告披露的用户平均预订额1.33美元，上年同期1.25美元。&lt;/p&gt;&lt;p&gt;管理层称Free Fire预订额实现强劲增长，是Garena本季表现的支柱。口径上，Garena收入按递延规则确认，收入增速明显快于预订额增速；公司称调整后EBITDA已剔除递延收入及其相关成本的净影响，该影响本季度为5200万美元，上年同期为1.519亿美元。&lt;/p&gt;&lt;p&gt;净利润增速低于收入增速，主要受费用与税负拖累。销售及营销费用18.9亿美元，同比增长64.0%，其中Monee该项费用3.346亿美元，同比增长111.8%；所得税支出2.804亿美元，同比增长74.0%。营业利润6.642亿美元，同比增长39.5%。&lt;/p&gt;&lt;p&gt;三季度另有净非经营性收益1.233亿美元，包括投资收益6520万美元、利息收益6220万美元。据公告数据计算，三季度毛利率约45.8%，较上年同期约43.4%提升2.4个百分点。&lt;/p&gt;&lt;p&gt;资本运作方面，根据10亿美元股份回购计划，截至公告日公司已回购1110万股，总额9.972亿美元；董事会11月9日批准新增10亿美元回购授权，无到期日。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI狂潮的“四种前景”与“五大风险”--“大空头”Steve Eisman“对AI的诚实思考”</title><link>https://wallstreetcn.com/articles/3785693</link><guid>a1146248a62e04cf540a5f5b1044f1e5e9d07ad0ee77d337f94fd223f0ab6fbb</guid><pubDate>Wed, 11 Nov 2026 04:06:40 GMT</pubDate><description>&lt;p&gt;当高达8500亿美元的AI资本开支高度系于极少数缺乏长期护城河的模型公司时，华尔街传奇空头警告，一旦现实不及预期，不仅市场将面临大规模回调，美国经济也极易被推入衰退。&lt;/p&gt;
 &lt;p&gt;11月9日，《大空头》原型之一、前Neuberger Berman基金经理Steve Eisman在播客《The Real Eisman Playbook》上线了一期40分钟的单人播客。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;面对当下占据绝对主导地位的AI投资狂潮，Steve Eisman并未质疑AI改变世界的潜力，但他将审视的目光投向了商业本质：&lt;strong&gt;巨大的资本支出由谁买单？增长是否可持续？以及最终谁能真正获利？&lt;/strong&gt;&lt;/p&gt;
@@ -649,48 +649,7 @@ PCB掀起涨停潮
 &lt;p&gt;&lt;strong&gt;因此研报认为，由于提取条件过于苛刻，该额度无法作为随时可调用的资金保障。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;研报指出，Anthropic S-1的战略意义在于提供了首个经审计、口径完整的前沿模型公司公开基准。公司已公开S-1，拟于11月中旬在纳斯达克挂牌，定价落地将为智谱、MiniMax等国内模型公司提供首个可参照的海外对标，带来板块估值修复机会。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;研报在智能指数维度同时指出，前沿模型之间的能力差距已压缩至季度级别&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;截至2026年11月上旬，Artificial Analysis智能指数前七个模型档位全部落在55至60分之间，首尾分差仅5分，单代际领先窗口已缩短至季度量级，单一模型或推理档位的领先不再构成定价权。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 37亿美元“数据中心发电设备预付款”不要了！“燃气轮机最积极买家”软银看到了什么？</title><link>https://wallstreetcn.com/articles/3785724</link><guid>7acc323f7816d42b1d80779ebd340732801217505461985c91ec9cedc0d6616f</guid><pubDate>Wed, 11 Nov 2026 08:08:26 GMT</pubDate><description>&lt;p&gt;软银集团2026财年第二季度（截至9月）净亏损1.12万亿日元（约71亿美元），为近两年来首次季度亏损。&lt;/p&gt;
-&lt;p&gt;市场此前预期的是1290亿日元的利润。结果和预期方向完全相反。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;亏损的直接导火索，是一笔37亿美元的资产减值——据彭博报道，这笔钱原本是为锁定AI数据中心发电设备而提前支付的预付款，如今大部分已无法追回。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;软银CFO Yoshimitsu Goto在业绩发布会上承认，&lt;strong&gt;公司此前“抢在长期规划敲定之前，就急于锁定所需设备”，如今正对整体采购策略进行“全面重新评估”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GLJ Research创始人在研报中说：&lt;strong&gt;“燃气轮机排队名单上最激进的买家，就这样把押金给核销了。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;消息传出后，软银股价周三早盘在东京市场暴跌逾10%。GE Vernova、Bloom Energy等电力设备供应商股价随之下挫，市场对AI基础设施投资热度能否持续的疑虑明显升温。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-钱是怎么没的？
-&lt;p&gt;软银通过旗下子公司Silver Bands 7（SB7）——由软银与愿景基金2共同持股——在过去一年半里，持续向设备制造商支付预付款，目的是锁定制造产能和发电设备。&lt;/p&gt;
-&lt;p&gt;问题在于：这些钱是在项目方案敲定之前就付出去的。截至今年9月底，累计预付金额已达1.5万亿日元（约95亿美元）。&lt;/p&gt;
-&lt;p&gt;随后，项目需求发生变化，SB7启动“设备采购策略修订”，而这笔37亿美元账单随之分两部分落地：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;4570亿日元（约28.5亿美元）&lt;/strong&gt;：&lt;strong&gt;为预订产能和设备所支付的预付款，因合同条款不可退还，直接损失；&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1400亿日元（约8.8亿美元）&lt;/strong&gt;：用于修改和终止合同的结算款，资金尚未全部付出，将从本季度起陆续支付。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ZeroHedge分析称：“软银为AI电力设备预付的每一美元中，有30美分已经蒸发，而结算支票还没全部寄出去。”&lt;/p&gt;
-&lt;p&gt;剩余约66亿美元的设备款项，已被划拨至俄亥俄州园区及其他项目继续使用。&lt;/p&gt;
-&lt;p&gt;作为安慰，SB7“可能”在未来十年内获得最高21亿美元的设备采购返利——但软银自己的审计师对此并不买账，未将其计入任何资产。Goto在财报中也仅表示，公司“可获得最高21亿美元的返利”，措辞留有余地。&lt;/p&gt;
-CFO：项目没停，但要“全面重新评估”
-&lt;p&gt;软银CFO后藤芳光在财报电话会议上表示，公司此前为了锁定AI数据中心所需设备，“有时甚至在长期规划尚未敲定之前就抢先下单”。&lt;/p&gt;
-&lt;p&gt;他同时强调，俄亥俄州数据中心项目并未叫停，目前正在进行“全面重新评估”，包括对采购方式的审查，但未透露具体细节。&lt;/p&gt;
-&lt;p&gt;对于美国中期选举结果（民主党候选人以反对数据中心为竞选纲领获胜）可能带来的影响，后藤芳光表示：需要密切关注其对AI情绪的冲击。&lt;/p&gt;
-“最积极买家”的退出，市场在担心什么？
-&lt;p&gt;GLJ Research创始人在研报中直接点名：&lt;strong&gt;“燃气轮机排队名单上最激进的买家，就这样把押金给核销了。软银是一个老练的买家，能接触到全球每一家贷款机构。如果连它都在不清楚自己需要什么的情况下就下单，我们怀疑它并非孤例。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这句话的言下之意是：如果软银都在重新评估，其他AI基础设施买家是否也在做同样的事？&lt;/p&gt;
-&lt;p&gt;不过，从设备供给端看，情况并没有那么悲观。GE Vernova截至第三季度末已有122吉瓦的燃气设备在合同中，并将年末目标上调至至少130吉瓦。分析师预计其每股收益将从今年的15.68美元增长至2028年的37.13美元。&lt;/p&gt;
-&lt;p&gt;GE Vernova方面也表示，订单押金和产能预留费均不予退还。这意味着，如果软银放弃部分产能槽位，GE Vernova将保留押金，并可将槽位重新出售。&lt;/p&gt;
-更深的隐忧：利息负担在攀升
-&lt;p&gt;37亿美元的减值是一次性损失，但软银面临的财务压力并不只是这一笔。&lt;/p&gt;
-&lt;p&gt;软银上半财年（截至9月）集团整体利息支出达6760亿日元，同比&lt;strong&gt;翻倍以上&lt;/strong&gt;。预计截至2028年3月的财年，年度利息支出将超过1万亿日元（约60亿美元），高级贷款还款合计1.4万亿日元（约90亿美元）。&lt;/p&gt;
-&lt;p&gt;新光资产管理策略师泽村一树表示：“可以将AI数据中心计划调整带来的损失视为暂时性的。更令人担忧的是财务成本的上升。如果投资收益和持仓价值无法从现在起稳步增长，利息负担可能压缩盈利，并加剧外界对软银财务健康状况的担忧。”&lt;/p&gt;
-&lt;p&gt;目前，软银的贷款价值比（LTV）为15.9%，低于其设定的25%警戒线。截至9月底流动性超过320亿美元，是此前的两倍以上。&lt;/p&gt;
-&lt;p&gt;但信用分析师Sharon Chen指出，扣除未来两年到期债券和最后一笔100亿美元OpenAI投资后，超额流动性约为100亿美元，软银大概率将在2027年进行新一轮融资。&lt;/p&gt;
-孙正义的AI押注：还在加码
-&lt;p&gt;即便如此，软银的AI投资步伐并未停下。&lt;/p&gt;
-&lt;p&gt;孙正义已累计向AI相关硬件和应用投入数百亿美元，包括对OpenAI近650亿美元的投资，以及以31亿美元收购数据中心运营商DigitalBridge集团。&lt;/p&gt;
-&lt;p&gt;与此同时，软银股价已较6月历史高点累计跌去逾50%，年初至今下跌约20%。&lt;/p&gt;
-&lt;p&gt;AI估值本身也在承压。据知情人士透露，Anthropic的估值已从此前宣传的2万亿美元降至约1.1万亿美元；OpenAI最新一轮融资约110亿美元，估值1.25万亿美元，低于最初寻求的1.4万亿美元目标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从夜盘到挂单，银行做细积存金生意</title><link>https://wallstreetcn.com/articles/3785712</link><guid>3c769c58da7d6905a86a0c0c0ef97ac05734fc265e928d7955ab209ad547f6cb</guid><pubDate>Wed, 11 Nov 2026 06:18:27 GMT</pubDate><description>&lt;p&gt;银行正在为积存金增加按价格执行交易的功能。&lt;/p&gt;
+&lt;p&gt;截至2026年11月上旬，Artificial Analysis智能指数前七个模型档位全部落在55至60分之间，首尾分差仅5分，单代际领先窗口已缩短至季度量级，单一模型或推理档位的领先不再构成定价权。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 从夜盘到挂单，银行做细积存金生意</title><link>https://wallstreetcn.com/articles/3785712</link><guid>3c769c58da7d6905a86a0c0c0ef97ac05734fc265e928d7955ab209ad547f6cb</guid><pubDate>Wed, 11 Nov 2026 06:18:27 GMT</pubDate><description>&lt;p&gt;银行正在为积存金增加按价格执行交易的功能。&lt;/p&gt;
 &lt;p&gt;11月9日，中信银行公告，拟于11月16日起新增积存金挂单功能，并将个人客户业务协议升级至2.0版，具体上线时间以APP为准。&lt;/p&gt;
 &lt;p&gt;此前，兴业银行已于6月8日为积存金活期产品增加挂单购买、赎回功能，南京银行也于10月26日推出个人积存金委托挂单。&lt;/p&gt;
 &lt;p&gt;客户预先设置价格、数量和有效期，银行系统在约定范围内监测报价、执行交易。&lt;/p&gt;
@@ -730,4 +689,37 @@ CFO：项目没停，但要“全面重新评估”
 &lt;p&gt;《黄金积存业务管理暂行办法》要求银行将其纳入资产负债表管理，建立实物黄金备付制度，满足客户提取实物黄金的需求。同时，银行需要根据业务需要和市场情况，选择黄金市场或委托具备相应资格的金融机构进行平盘。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;客户提交的一笔买卖委托，因而连接着银行的报价、黄金头寸和流动性管理。手续费与报价差形成的收入，需要覆盖交易执行、系统运营和相应的风险管理成本。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从延长夜盘到增加挂单，银行在争取承接更多黄金交易需求。工具是否好用，影响客户是否提交委托；成交之后能留下多少收益，则取决于收费与成本。&lt;/p&gt;
-&lt;p&gt;挂单功能陆续上线之后，实际交易和经营结果才是下一步的检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想387 产能不是开关</title><link>http://www.xueqiu.com/1438190065/416358691</link><guid>62229658d15d9bfcdae8f44a83b9adbb0ea681d0fdef49e294b62ebba89d0eb3</guid><pubDate>Wed, 11 Nov 2026 10:23:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;美国最新公布10月的CPI经季调后环比+0.4%，而市场此前预期为0.3%，前值为0.6%。剔除波动较大的食品和能源价格后，核心CPI环比上涨0.3%，与9月和8月的增幅相同，同样高于市场预期的0.2%，油价之外价格的上涨坚挺表明通胀正在持续扩散。数据发布后，CME Group观察工具显示，交易员已完全定价美联储在12月的议息会议上加息25个基点，同时加息50个基点的概率升至13.6%。&lt;/p&gt;</description></item><item><title>[今日雪球] 从CoreWeave财报谈谈新云债务与算力博弈</title><link>http://www.xueqiu.com/5332385101/416357406</link><guid>7b0e2214e0ea2204a117e4ade8d652ab5b8785be41bfed908b1a3d090a181bea</guid><pubDate>Wed, 11 Nov 2026 10:23:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股受CPI数据超预期压制回调。美10月CPI环比上涨0.4%、核心CPI环比上涨0.3%，均超市场预期，推动2年期美债收益率单日飙升近20个基点，10年期一度突破5.0%关口。受高利率与独立调查风波影响，英伟达再跌5.53%、两日累跌近10%；博通逆势收涨3.91%。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利指数的三大流派</title><link>http://www.xueqiu.com/8867390119/416409883</link><guid>ca191bb223b2c84940a7441070afcb86aa5903d5e3031d57186bd5da7e0a6af9</guid><pubDate>Wed, 11 Nov 2026 10:23:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;上善山水&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高股息    红利主力军，代表作：中证红利，上证红利，300/A500/800红利及红利低波，红利低波，标普大盘红利，标普红利机会，还有一些小众指数产品。以高股息为目标，没有其他因子，或者略微有其他因子辅助。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;挂单功能陆续上线之后，实际交易和经营结果才是下一步的检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿里造芯八年，长出一家百亿公司：平头哥六成GPU算力卖给外部</title><link>https://wallstreetcn.com/articles/3785710</link><guid>cb50aed3827fcc73ad90ade3e42ccceff087fd2c4f6f08333bc777c7804af9c6</guid><pubDate>Wed, 11 Nov 2026 06:30:24 GMT</pubDate><description>&lt;p&gt;阿里造芯八年，已经长出一家年化收入百亿量级的公司。它的自研GPU算力产能，逾六成服务外部客户。现在，这家公司要单独送去港交所。&lt;/p&gt;
+&lt;p&gt;11月10日，阿里巴巴集团控股有限公司在港交所发布公告，拟分拆全资子公司平头哥（上海）技术股份有限公司，在港交所主板独立上市。联交所已确认可进行该建议分拆。平头哥已于9月11日以保密形式递交A1申请表格，拟全球发售H股，包括香港公开发售和向机构及专业投资者配售。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，据杰富瑞（Jefferies）最新研究报告，平头哥年化营收已达百亿元人民币规模（依据2025年12月季度业绩电话会议数据），其自研GPU芯片超过六成算力已对外部客户提供服务，显示这家此前定位于内部供给的芯片子公司已具备相当的外部商业化能力。分拆上市一旦落地，将赋予平头哥独立融资渠道，并使投资者得以对其单独定价。&lt;/p&gt;
+&lt;p&gt;杰富瑞分析师 Thomas Chong 和 Zoey Zong 在报告中维持阿里巴巴买入评级，美股目标价192美元，港股目标价186港元，较当前价格分别隐含约82%和78%的上行空间。分析师认为，分拆平头哥有助于投资者更清晰地评估阿里巴巴核心业务的独立价值，同时让平头哥以自身基本面吸引专项资本。&lt;/p&gt;
+
+八年造芯，从内部孵化到外部变现
+
+&lt;p&gt;平头哥成立于2018年10月，至今已走过逾八年历程，专注于人工智能芯片的自主研发。其核心产品Zhenwu定位高性能AI芯片，兼容主流AI生态系统，已在汽车、金融、政务、医疗、能源、电商、媒体、制造、零售及农业等二十余个行业落地应用。&lt;/p&gt;
+&lt;p&gt;据杰富瑞报告援引的数据，&lt;strong&gt;截至2026年4月，平头哥累计芯片出货量已达56万片，服务超过400家客户。&lt;/strong&gt;在最新一届云栖大会（2026年9月）上，平头哥披露&amp;quot;曳影&amp;quot;服务客户数进一步增至650家以上，覆盖智能驾驶、金融、基础大模型、具身智能、运营商、政务、零售、家电、能源、物流等多个细分场景。&lt;/p&gt;
+&lt;p&gt;这一客户规模与行业覆盖深度，标志着平头哥已从阿里巴巴云计算的内部配套供应商，演变为具有独立市场地位的AI芯片厂商。&lt;/p&gt;
+
+外部算力占比超六成，商业化逻辑浮出水面
+
+&lt;p&gt;平头哥商业模式的核心变化体现在算力的流向上。杰富瑞报告指出，&lt;strong&gt;平头哥自研GPU芯片超过60%的算力现已面向外部客户提供服务，这一比例揭示了其业务重心的实质性转移。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;年化营收触及百亿元人民币量级，进一步佐证了外部商业化的规模效应。对于一家脱胎于科技集团内部研发体系的芯片公司而言，能够在短期内形成如此体量的外部收入，意味着其产品竞争力已超越单纯满足母公司需求的阶段。&lt;/p&gt;
+&lt;p&gt;这一特征也为分拆上市提供了基本面支撑：外部收入占比越高，平头哥作为独立上市实体的估值逻辑就越完整，其盈利能力与成长性的可预期度也随之提升。&lt;/p&gt;
+
+新品管线提速，V900与J900相继在路上
+
+&lt;p&gt;在产品路线图层面，平头哥的节奏正在加快。据杰富瑞报告，下一代AI训练与推理加速芯片V900预计将于2027年第一季度发布，定位更高端的J900则计划于2028年第三季度推出。&lt;/p&gt;
+&lt;p&gt;V900的技术规格显示其具备显著的性能跃升：相较前代性能提升3倍，配备216GB显存，芯片间互联带宽达1200GB/s，并支持FP8/FP4低精度计算，适配大模型训练与推理的主流需求。&lt;/p&gt;
+&lt;p&gt;新品管线的清晰排布，对于有意投资平头哥的机构而言具有重要意义——它不仅代表产品迭代的连续性，也为独立上市后的中期成长预期提供了坐标。&lt;/p&gt;
+
+分拆的战略逻辑：双重价值释放
+
+&lt;p&gt;阿里巴巴选择此时推进平头哥分拆，背后有多重战略考量。据杰富瑞分析，此次分拆的核心意义包括：&lt;strong&gt;其一，剥离平头哥后，投资者可以更准确地为阿里巴巴核心业务（电商、云计算等）单独定价，消除估值混淆；其二，平头哥将能够以自身基本面独立融资，不再受制于母公司整体资本分配逻辑；其三，独立上市有助于强化平头哥在客户、供应商及战略合作伙伴面前的品牌与信用背书。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从资本市场角度看，分拆为那些希望获得纯粹AI芯片敞口的投资者提供了直接的投资标的，这一需求在当前AI基础设施投资热潮中尤为迫切。&lt;/p&gt;
+&lt;p&gt;杰富瑞认为，此次分拆可有效释放平头哥的隐性价值，并对阿里巴巴整体估值形成正向重估驱动。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 随想387 产能不是开关</title><link>http://www.xueqiu.com/1438190065/416358691</link><guid>62229658d15d9bfcdae8f44a83b9adbb0ea681d0fdef49e294b62ebba89d0eb3</guid><pubDate>Wed, 11 Nov 2026 10:23:26 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;美国最新公布10月的CPI经季调后环比+0.4%，而市场此前预期为0.3%，前值为0.6%。剔除波动较大的食品和能源价格后，核心CPI环比上涨0.3%，与9月和8月的增幅相同，同样高于市场预期的0.2%，油价之外价格的上涨坚挺表明通胀正在持续扩散。数据发布后，CME Group观察工具显示，交易员已完全定价美联储在12月的议息会议上加息25个基点，同时加息50个基点的概率升至13.6%。&lt;/p&gt;</description></item><item><title>[今日雪球] 从CoreWeave财报谈谈新云债务与算力博弈</title><link>http://www.xueqiu.com/5332385101/416357406</link><guid>7b0e2214e0ea2204a117e4ade8d652ab5b8785be41bfed908b1a3d090a181bea</guid><pubDate>Wed, 11 Nov 2026 10:23:37 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股受CPI数据超预期压制回调。美10月CPI环比上涨0.4%、核心CPI环比上涨0.3%，均超市场预期，推动2年期美债收益率单日飙升近20个基点，10年期一度突破5.0%关口。受高利率与独立调查风波影响，英伟达再跌5.53%、两日累跌近10%；博通逆势收涨3.91%。&lt;/p&gt;</description></item><item><title>[今日雪球] 红利指数的三大流派</title><link>http://www.xueqiu.com/8867390119/416409883</link><guid>ca191bb223b2c84940a7441070afcb86aa5903d5e3031d57186bd5da7e0a6af9</guid><pubDate>Wed, 11 Nov 2026 10:23:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;上善山水&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;高股息    红利主力军，代表作：中证红利，上证红利，300/A500/800红利及红利低波，红利低波，标普大盘红利，标普红利机会，还有一些小众指数产品。以高股息为目标，没有其他因子，或者略微有其他因子辅助。&lt;/p&gt;</description></item></channel></rss>
