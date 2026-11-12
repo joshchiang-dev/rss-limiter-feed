@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 02:59:56 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了</title><link>https://wallstreetcn.com/articles/3785774</link><guid>acffc4907a19ed15ef983323b153e314dd307a59013e6458252a0e86e248b049</guid><pubDate>Thu, 12 Nov 2026 00:43:39 GMT</pubDate><description>&lt;p&gt;CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 03:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了</title><link>https://wallstreetcn.com/articles/3785774</link><guid>acffc4907a19ed15ef983323b153e314dd307a59013e6458252a0e86e248b049</guid><pubDate>Thu, 12 Nov 2026 00:43:39 GMT</pubDate><description>&lt;p&gt;CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。&lt;/p&gt;
 &lt;p&gt;在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。&lt;strong&gt;市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，打消了此前公司估值将大幅下调的担忧；此外，OpenAI单季营收强劲、首次达到100亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而对于即将在下周登陆资本市场的Anthropic而言，这份财报来得恰逢其时——&lt;strong&gt;CoreWeave是Anthropic的重要算力供应商，两家公司的命运在一定程度上相互绑定。&lt;/strong&gt;与此同时，英伟达下周的财报将是另一块试金石，投资者届时将寻找更多理由判断AI基础设施热潮能否持续。&lt;/p&gt;
 &lt;p&gt;不过，这轮反弹的基础仍不牢固：一方面，资金正从超大规模云厂商转向“卖铲人”和算力租赁商；另一方面，CoreWeave未来的融资缺口、债务成本及算力供给扩张，仍是决定这轮AI基建交易能否走远的核心变量。&lt;/p&gt;
@@ -225,39 +225,7 @@ AI数据中心的网络，正在等一场“颠覆”
 &lt;p&gt;&lt;strong&gt;从利率期货来看，市场目前预计美联储到明年年中还将累计加息三次。&lt;/strong&gt;SOFR期货周三继续下跌，进一步反映了加息预期的升温。与此同时，交易员正在撤销此前为避险资金流入美债而建立的部分对冲头寸，显示市场此前的避险交易正在逆转。&lt;/p&gt;
 &lt;p&gt;对于黄金而言，持续走高的利率预期构成额外压力。美债收益率上升意味着持有黄金这类无息资产的机会成本提高，而如果市场进一步押注美联储加息，美元也可能获得支撑，进而压制以美元计价的黄金。&lt;/p&gt;
 &lt;p&gt;MUFG全球市场研究主管Derek Halpenny表示，如果市场对美联储12月加息50个基点的预期进一步升温，美元将从中受益，并可能推动欧元兑美元进一步下行。&lt;/p&gt;
-&lt;p&gt;不过，未来利率路径仍存在变数。MUFG指出，在美联储12月会议之前，美国还将公布一份关键就业报告，近期油价下跌的趋势能否持续也尚不确定。这些因素都可能影响通胀判断及市场对美联储后续政策的定价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩警告：旧存储价格正在见顶，2028年供需或转向宽松</title><link>https://wallstreetcn.com/articles/3785751</link><guid>4b55d960c4b58d82abed98ad5ab0bf260f13a9dce7e74e23d28dc71df1c1d158</guid><pubDate>Wed, 11 Nov 2026 15:21:17 GMT</pubDate><description>&lt;p&gt;旧存储芯片市场的定价红利正逐步走向终结。摩根士丹利在最新报告中警告，云端资本支出不确定性上升、消费端需求持续疲软，以及供需关系料将于2028年前后趋于平衡，旧存储行业的盈利逻辑已从&amp;quot;向上弹性&amp;quot;转向&amp;quot;向下防御&amp;quot;。&lt;/p&gt;
-&lt;p&gt;据追风交易台，摩根士丹利发布报告指出，&lt;strong&gt;美国中期选举后，预计2028年美国数据中心约20%的新增容量将推迟至2029年落地，涉及约5吉瓦的建设规模，相当于全球2028年新增容量的10%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一延迟可能在2028年为科技供应链制造&amp;quot;断层&amp;quot;，压缩旧存储芯片的定价空间，并引发库存积压风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，摩根士丹利对SLC NAND、MLC NAND、NOR及DDR4四大产品的供需模型进行更新后发现，各细分市场均呈现趋于平衡的态势，尤其以2028年为甚。&lt;/p&gt;
-&lt;p&gt;报告对市场的直接影响已经显现：摩根士丹利下调了多只旧存储相关个股的评级，并大幅削减目标价，同时下调2027至2028年盈利预期。分析师将1.0倍市净率（P/B）作为估值下行锚，而非以盈利高峰作为支撑底部，标志着市场对该板块的定价逻辑出现系统性转变。&lt;/p&gt;
-&lt;strong&gt;定价优势成&amp;quot;双刃剑&amp;quot;，需求走弱暴露脆弱性&lt;/strong&gt;
-&lt;p&gt;摩根士丹利此前的建仓逻辑建立在旧存储芯片的差异化定价能力上——相较于主流存储，&lt;strong&gt;旧存储受固定价格长期协议约束较少，因此在短缺周期中能更快速地提价。然而，该行现在认为，这种灵活性正在演变为双向风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，云端支出可见度正在下滑，企业端增量需求的确定性随之减弱；与此同时，消费端需求大幅走软，终端客户承接进一步涨价的能力受到明显制约。&lt;/p&gt;
-&lt;p&gt;摩根士丹利的PC半导体研究显示，2026年一季度至三季度出现了集中采购的&amp;quot;拉货&amp;quot;现象，但四季度随即进入更深度的库存消化阶段，&lt;strong&gt;表明此前的订单规模高于实际消费需求，存在透支之嫌。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告特别说明，&lt;strong&gt;上述分析仅针对旧存储领域，包括DDR3/4、SLC/MLC NAND及NOR闪存，不涉及全球主流DDR5或TLC/QLC NAND市场。&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;供需模型更新：短缺窗口正在收窄&lt;/strong&gt;
-&lt;p&gt;摩根士丹利对SLC NAND、MLC NAND、NOR及DDR4的最新供需模型均指向同一趋势：供需缺口逐步收窄，2028年前后或实现基本平衡乃至出现过剩。&lt;/p&gt;
-&lt;p&gt;具体预测显示，&lt;strong&gt;2028年SLC NAND、MLC NAND和NOR的供需缺口分别约为-3%、-5%和-1%，而DDR4则可能出现约+1%的供给过剩。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析师指出，近期短缺局面未必会立即消散，但缺口收窄本身足以削弱增量定价能力，并早于盈利高点触发股价重估。&lt;/p&gt;
-&lt;p&gt;基于此，摩根士丹利下调了对多个产品线2027至2028年的ASP假设：NOR及DDR4的ASP预测在2028年四季度分别被削减约23%至26%；部分公司的SLC NAND ASP预测降幅则更为显著。&lt;/p&gt;
-&lt;p&gt;在出货量预测基本不变的情况下，收入和毛利率估算随之下移，2028年EPS预测普遍被下调10%至30%以上。&lt;/p&gt;
-&lt;strong&gt;数据中心资本支出延迟：2028年供应链&amp;quot;气穴&amp;quot;风险&lt;/strong&gt;
-&lt;p&gt;美国中期选举后出台的数据中心新立法是此轮预期转变的重要触发因素。&lt;/p&gt;
-&lt;p&gt;据摩根士丹利美国团队测算，&lt;strong&gt;德克萨斯州和俄亥俄州等地的立法变化导致约5吉瓦的数据中心建设从2028年推迟至2029年，这意味着美国2028年数据中心新增容量将同比下降约4%，2029年则将大幅反弹约38%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在全球层面，摩根士丹利现预计2028年全球数据中心新增容量同比增长约9%，2029年则升至约20%。&lt;/p&gt;
-&lt;p&gt;这一&amp;quot;前低后高&amp;quot;的节奏对旧存储行业构成阶段性压力——需求延迟叠加供给持续爬坡，&lt;strong&gt;2028年极可能形成阶段性供大于求的局面，届时库存周期风险将显著上升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，&lt;strong&gt;摩根士丹利维持对全球超大规模云厂商资本支出的总量预测不变，&lt;/strong&gt;预计2027年约1.6万亿美元、2028年约1.8万亿美元，但明确指出若建设进度进一步推迟，2028年的预测存在下行偏差风险。&lt;/p&gt;
-&lt;strong&gt;估值框架转向：以账面价值为下行锚&lt;/strong&gt;
-&lt;p&gt;面对盈利预期的系统性下修，摩根士丹利将估值方法论调整为以1.0倍市净率作为下行估值锚，取代此前以盈利高峰作为估值底部的框架。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析师认为，对于资本密集型IDM及晶圆代工企业而言，账面价值在周期性低谷中具有心理支撑意义——当盈利暂时承压时，投资者通常会更多地回归净资产基础进行估值。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在各细分公司层面，目标价调整幅度相当显著，但IDM类企业与无晶圆厂（Fabless）设计公司之间的处理方式有所区别。&lt;/p&gt;
-&lt;p&gt;报告明确指出，1.0倍P/B的框架主要适用于IDM/晶圆代工类企业，对Fabless公司并不适用同一估值方法论，因为后者缺乏资产负债表层面的估值地板支撑，在周期下行中面临更高的波动风险。&lt;/p&gt;
-&lt;p&gt;分析师将价格放缓、订单削减及库存消化列为主要下行催化剂；云端订单需求重新走强，或供给扩张进度延迟，则是当前情境下最主要的上行风险。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易热潮回归，CoreWeave单日暴涨24%，纳指100势将收复中选后失地</title><link>https://wallstreetcn.com/articles/3785758</link><guid>67dcd5894475f48d933ecd04f5e7c331d61776c47636d53d1e47cd2781a9ab58</guid><pubDate>Wed, 11 Nov 2026 21:40:43 GMT</pubDate><description>&lt;p&gt;随着人工智能交易热情重燃，美国科技股周三大幅反弹，纳斯达克100指数盘中一度抹平美国中期选举以来的全部跌幅，AI基础设施建设的长期可持续性顾虑有所缓和。&lt;/p&gt;
+&lt;p&gt;不过，未来利率路径仍存在变数。MUFG指出，在美联储12月会议之前，美国还将公布一份关键就业报告，近期油价下跌的趋势能否持续也尚不确定。这些因素都可能影响通胀判断及市场对美联储后续政策的定价。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易热潮回归，CoreWeave单日暴涨24%，纳指100势将收复中选后失地</title><link>https://wallstreetcn.com/articles/3785758</link><guid>67dcd5894475f48d933ecd04f5e7c331d61776c47636d53d1e47cd2781a9ab58</guid><pubDate>Wed, 11 Nov 2026 21:40:43 GMT</pubDate><description>&lt;p&gt;随着人工智能交易热情重燃，美国科技股周三大幅反弹，纳斯达克100指数盘中一度抹平美国中期选举以来的全部跌幅，AI基础设施建设的长期可持续性顾虑有所缓和。&lt;/p&gt;
 &lt;p&gt;11月11日周三，纳斯达克100指数涨2.28%，盘中升至11月4日以来最高水平。标普500指数上涨1.3%，道琼斯工业平均指数上涨0.5%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;CoreWeave业绩好于预期、Anthropic IPO需求旺盛，以及OpenAI亮眼的季度表现，共同点燃了投资者对AI交易的热情。&lt;/p&gt;
@@ -364,4 +332,23 @@ CoreWeave业绩提振AI基础设施信心
 &lt;strong&gt;市场份额竞争加剧，沙特与阿联酋竞相下调面向亚洲售价&lt;/strong&gt;
 &lt;p&gt;产量回升的背后，市场份额之争也在悄然升温。阿联酋今年5月在长期成员资格后选择退出OPEC，以摆脱产量上限约束，自主参与市场竞争。&lt;/p&gt;
 &lt;p&gt;近期，沙特与阿联酋均大幅下调了面向亚洲买家的12月船货官方售价，竞争态势趋于激烈。&lt;/p&gt;
-&lt;p&gt;此轮价格战信号，叠加供应端持续恢复，令市场对未来油价走势愈发审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;此轮价格战信号，叠加供应端持续恢复，令市场对未来油价走势愈发审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心建设降温也不必担心？美国进口热潮短期难退，真正冲击或到2029年</title><link>https://wallstreetcn.com/articles/3785757</link><guid>1a11c2261e12ff692b3c588c32bdae2b40a43e467c996a8835d56c5b30f5df7b</guid><pubDate>Wed, 11 Nov 2026 21:10:30 GMT</pubDate><description>&lt;p&gt;美国AI数据中心建设正面临政治阻力，但即使新项目开工放缓，也未必会迅速终结美国的进口热潮。&lt;/p&gt;
+&lt;p&gt;彭博经济研究指出，数据中心建设周期较长，服务器等核心硬件通常在项目后期才采购，2025年和2026年启动的项目仍将支撑未来两年的进口需求。真正明显的进口冲击，可能要到2029年才会显现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据中心商品成为美国进口增长引擎&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;特朗普第二任期以来，关税政策已将美国平均有效关税税率从2.3%推高至约11%。但数据中心建设热潮推动相关商品进口持续增长，抵消了其他商品进口的疲软。&lt;/p&gt;
+&lt;p&gt;彭博经济研究数据显示，2026年以来，其他商品进口持续低迷，但数据中心相关商品进口激增，使美国月度进口额仍高于2024年同期。其中，计算机硬件尤其是服务器，近几个月约占数据中心相关商品进口的70%，成为主要增长动力。&lt;/p&gt;
+&lt;p&gt;美国从台湾、墨西哥等地进口的计算机硬件显著增加。此外，相关进口还包括联网设备、铜线和钢制机架等。许多数据中心相关商品，尤其是计算机硬件，还获得了特朗普新关税的豁免。&lt;/p&gt;
+&lt;strong&gt;新项目放缓，短期进口冲击有限&lt;/strong&gt;
+&lt;p&gt;政治阻力可能首先影响数据中心建设的早期阶段。本月美国中期选举后的政策变化，以及部分州推出的新限制措施，可能令尚处于规划阶段或即将开工的项目放缓。&lt;/p&gt;
+&lt;p&gt;但美国数据中心建设规模仍处于高位。彭博新能源财经（BNEF）数据显示，美国2025年新增数据中心容量接近10吉瓦，而2022年不足3吉瓦。此前BNEF预计，到2028年美国每年新增容量可能超过15吉瓦。即使建设速度低于预期，仍将明显高于过去几年的水平。&lt;/p&gt;
+&lt;p&gt;此外，项目还可能从限制较严格的地区转移至政策相对宽松的地区，进一步减轻对美国整体建设规模和进口需求的冲击。&lt;/p&gt;
+&lt;strong&gt;服务器采购滞后，进口压力或延至2029年&lt;/strong&gt;
+&lt;p&gt;更重要的是，数据中心建设周期决定了进口需求不会随新项目放缓而立即降温。&lt;/p&gt;
+&lt;p&gt;BNEF统计显示，从确定投资到开工建设平均需要4.8年，从开工到投入运营还需要2.6年。服务器则通常要等到建筑结构和机架安装完成后才能进场，属于建设后期采购的设备。&lt;/p&gt;
+&lt;p&gt;据亚马逊介绍，数据中心支出可能在服务器安装前约两年就已启动。这意味着，2025年和2026年开工的项目，将成为2027年和2028年进口增长的重要支撑。即使新开工项目大幅减少，相关影响也可能要到2029年才会实质性体现。&lt;/p&gt;
+&lt;p&gt;部分在建项目甚至已经提前订购服务器，只是尚未交货。供应受限也促使客户更早锁定硬件订单，进一步延缓进口对新项目放缓的反应。&lt;/p&gt;
+&lt;strong&gt;AI泡沫破裂将带来更猛烈冲击&lt;/strong&gt;
+&lt;p&gt;彭博经济研究认为，短期内，美国数据中心进口需求的下行风险相对有限。若新项目减少，电气设备、冷却设备和建筑材料等建设早期所需商品可能率先受到影响，但这些商品在本轮进口热潮中的占比较小。&lt;/p&gt;
+&lt;p&gt;真正更大的压力，将在原本应当为受影响项目采购服务器的时间点显现。&lt;/p&gt;
+&lt;p&gt;不过，如果AI泡沫破裂，导致连在建项目也被搁置，进口需求受到的冲击就可能提前到来，且程度更加猛烈。&lt;/p&gt;
+&lt;p&gt;总体而言，美国数据中心建设面临的政治阻力，并不意味着进口热潮即将退去。对于中国台湾、韩国和墨西哥等依赖美国数据中心供应链需求的贸易伙伴而言，建设周期带来的需求惯性，至少为未来一两年的出口提供了缓冲。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
