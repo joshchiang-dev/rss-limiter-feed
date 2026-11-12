@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 01:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了</title><link>https://wallstreetcn.com/articles/3785774</link><guid>acffc4907a19ed15ef983323b153e314dd307a59013e6458252a0e86e248b049</guid><pubDate>Thu, 12 Nov 2026 00:43:39 GMT</pubDate><description>&lt;p&gt;CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 02:00:18 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了</title><link>https://wallstreetcn.com/articles/3785774</link><guid>acffc4907a19ed15ef983323b153e314dd307a59013e6458252a0e86e248b049</guid><pubDate>Thu, 12 Nov 2026 00:43:39 GMT</pubDate><description>&lt;p&gt;CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。&lt;/p&gt;
 &lt;p&gt;在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。&lt;strong&gt;市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，打消了此前公司估值将大幅下调的担忧；此外，OpenAI单季营收强劲、首次达到100亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而对于即将在下周登陆资本市场的Anthropic而言，这份财报来得恰逢其时——&lt;strong&gt;CoreWeave是Anthropic的重要算力供应商，两家公司的命运在一定程度上相互绑定。&lt;/strong&gt;与此同时，英伟达下周的财报将是另一块试金石，投资者届时将寻找更多理由判断AI基础设施热潮能否持续。&lt;/p&gt;
 &lt;p&gt;不过，这轮反弹的基础仍不牢固：一方面，资金正从超大规模云厂商转向“卖铲人”和算力租赁商；另一方面，CoreWeave未来的融资缺口、债务成本及算力供给扩张，仍是决定这轮AI基建交易能否走远的核心变量。&lt;/p&gt;
@@ -312,44 +312,4 @@ CoreWeave业绩提振AI基础设施信心
 &lt;p&gt;彭博经济研究认为，短期内，美国数据中心进口需求的下行风险相对有限。若新项目减少，电气设备、冷却设备和建筑材料等建设早期所需商品可能率先受到影响，但这些商品在本轮进口热潮中的占比较小。&lt;/p&gt;
 &lt;p&gt;真正更大的压力，将在原本应当为受影响项目采购服务器的时间点显现。&lt;/p&gt;
 &lt;p&gt;不过，如果AI泡沫破裂，导致连在建项目也被搁置，进口需求受到的冲击就可能提前到来，且程度更加猛烈。&lt;/p&gt;
-&lt;p&gt;总体而言，美国数据中心建设面临的政治阻力，并不意味着进口热潮即将退去。对于中国台湾、韩国和墨西哥等依赖美国数据中心供应链需求的贸易伙伴而言，建设周期带来的需求惯性，至少为未来一两年的出口提供了缓冲。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 反数据中心浪潮下，AI交易还能走多远？关键看GPU租赁价格</title><link>https://wallstreetcn.com/articles/3785745</link><guid>a65da624e582e76ed09e0f6d9b2f5f9f31f2408122074e650b9802c151ed4d73</guid><pubDate>Wed, 11 Nov 2026 13:34:39 GMT</pubDate><description>&lt;p&gt;数据中心的政治逆风正在重塑AI投资逻辑，但这场交易的生死，最终取决于一个鲜少被关注的价格信号——GPU租赁价格。&lt;/p&gt;
-&lt;p&gt;据彭博宏观策略师Simon White撰文指出，美国中期选举后，算力供给面临收紧风险，市场已率先作出反应。上周市场急剧下挫后虽有所企稳，但波动尚未平息。核心问题在于：&lt;strong&gt;若数据中心建设受阻，GPU租赁价格能否通过上涨，足以弥补资本开支萎缩带来的损失？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从市场已有的价格信号看，答案具有一定可行性。这一逻辑的成立，将驱动AI交易内部发生结构性轮动——从依赖持续扩张的AI实验室、新兴云服务商和数据中心建设链，转向坐拥大量存量算力的超大规模云厂商（hyperscalers）。&lt;/p&gt;
-
-选举冲击：算力供给收紧的政治根源
-
-&lt;p&gt;民主党在中期选举中取得压倒性胜利，计算资源可能面临趋紧。多个选区的选举实质上演变为针对AI的公投，民主党得票率涨幅最大的州，恰恰是数据中心布局最为密集的地区。&lt;/p&gt;
-&lt;p&gt;然而，竞选口号与执政现实之间历来存在落差。数据中心对经济举足轻重，民主党究竟会在多大力度上收紧相关项目审批，仍有待观察。&lt;/p&gt;
-&lt;p&gt;市场并未等待答案。上周的急跌之后，虽有所回稳，但鉴于全球第二大市值公司深陷间谍丑闻，加之波动率控制基金仍需降低风险敞口以应对更高波动，企稳能否持续仍是未知数。&lt;/p&gt;
-
-GPU租赁价格：判断AI交易成色的核心指标
-
-&lt;p&gt;彭博宏观策略师Simon White指出，&lt;strong&gt;待市场情绪沉淀后，投资者需密切追踪GPU租赁价格走势——这是判断算力供给是否相对需求收缩、进而衡量AI交易演变方向的关键指标。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，选举后GPU租赁价格的上行趋势尚无明显变化。但若数据中心新建项目遭到叫停或审批推迟，租赁价格有可能加速攀升。&lt;/p&gt;
-&lt;p&gt;这将从根本上改变AI交易的经济学逻辑：&lt;strong&gt;有利于已拥有大规模存量算力的超大规模云厂商，而不利于实质上处于算力&amp;quot;空头&amp;quot;状态的AI实验室和新兴云服务商，同样不利于数据中心的建设方、设备供应商和电力提供商——包括英伟达、Eaton和Vertiv。&lt;/strong&gt;自选举以来，超大规模云厂商股价已出现反弹，而新兴云服务商、电力供应商和半导体股票则普遍走低，这一分化印证了上述逻辑。&lt;/p&gt;
-
-供给冲击有多大？数据中心中断风险测算
-
-&lt;p&gt;数据中心建设受阻的潜在规模不可小觑。能源研究机构Modo Energy在中期选举后的评估报告中估算，已宣布的数据中心项目中，约40%可能受到暂停令冲击，涉及算力容量高达256吉瓦。&lt;/p&gt;
-&lt;p&gt;不过，该机构同时认为，到2035年，算力负荷增长仅会温和下滑——部分项目延期后仍将推进，另一些则会迁往政策更友好的地区，无论是美国其他州还是海外市场。Modo Energy的测算显示，到2035年，净减少的算力容量约为4吉瓦，而其估算的规划总量超过600吉瓦；德克萨斯州（ERCOT电网）的缺口预计基本可在其他地区得到弥补。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当然，预测本身存在误差，即便整体影响有限，也不排除短期出现局部算力瓶颈，从而推高GPU租赁价格。&lt;/p&gt;
-
-资本开支与租赁价格：能否形成对冲？
-
-&lt;p&gt;投资者面临的核心问题是：若数据中心管控导致资本开支收缩，算力价格的上涨能否充分弥补损失？&lt;/p&gt;
-&lt;p&gt;粗略测算表明，这一逻辑在数学上具有可行性。Epoch AI的数据显示，每吉瓦数据中心的总资本开支约为370亿美元，按两年建设周期折算，年均投入约185亿美元。而CoreWeave目前的算力租赁年化收入约为每吉瓦400亿美元。若GPU租赁价格上涨30%（英伟达H100芯片租赁价格过去一年已上涨逾50%），每年可额外带来约120亿美元收入。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据此，1.5吉瓦存量算力实现30%的价格上浮，即可覆盖1吉瓦新增算力的资本开支损失。&lt;/strong&gt;考虑到美国现有约30吉瓦的算力装机量，若其中10%至20%能够快速重新定价，经济学逻辑便会从&amp;quot;建设新算力&amp;quot;转向&amp;quot;变现存量算力&amp;quot;。&lt;/p&gt;
-&lt;p&gt;验证这一逻辑是否成立的反向信号明确：若资本开支与GPU租赁价格同步下滑，则论断有误。否则，AI交易最坏的结果或许只是内部的结构性轮动。即便Anthropic和OpenAI因算力不足而推迟IPO，市场也未必无法消化，因为部分经济利益已向超大规模云厂商集中。&lt;/p&gt;
-
-市场近期企稳：对冲基金去杠杆提供缓冲
-
-&lt;p&gt;从短期维度看，有两个理由支持市场在近期波动后趋于稳定。&lt;/p&gt;
-&lt;p&gt;据Goldman Sachs数据，作为上周抛售主力的对冲基金已完成相当程度的去杠杆：过去一周，整体头寸规模下降近9个百分点，经贝塔调整后的风险敞口下降近16个百分点。Morgan Stanley则指出，对冲基金净风险敞口已降至一年低位。高杠杆、高同质化的持仓结构，使对冲基金容易触发局部踩踏，但受约束较少、决策节奏更慢的零售和机构投资者尚未大规模跟进抛售——杠杆ETF资金流向显示，散户卖盘尚不明显；机构方面，在未经投资委员会审议前，全面退出的可能性亦较低，且机构对科技股的持仓比例依然较高。&lt;/p&gt;
-&lt;p&gt;其次，当前经济衰退信号并不明显。宏观数据显示，股市大幅深跌（跌幅超过20%）通常发生于经济衰退期间，而目前并无此类迹象。&lt;/p&gt;
-
-轮动而非终结：AI交易的演变路径
-
-&lt;p&gt;大规模取消数据中心项目将对经济造成重创，但这并非基准情形。正如上文分析，大量项目可迁往政策环境更为友好的地区。&lt;/p&gt;
-&lt;p&gt;更可能的结果是AI交易内部的结构性轮动：超大规模云厂商因存量算力的稀缺性溢价而受益，而AI实验室、新兴云服务商及数据中心建设链则承压。这种轮动会削弱AI交易的广度与活力，却也可能在更窄、更脆弱的形态下延续这场交易。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;总体而言，美国数据中心建设面临的政治阻力，并不意味着进口热潮即将退去。对于中国台湾、韩国和墨西哥等依赖美国数据中心供应链需求的贸易伙伴而言，建设周期带来的需求惯性，至少为未来一两年的出口提供了缓冲。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
