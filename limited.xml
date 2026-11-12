@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 05:01:22 GMT</lastBuildDate><item><title>[华尔街见闻] 586GW变199GW：美国三分之二的AI数据中心计划只是PPT？</title><link>https://wallstreetcn.com/articles/3785784</link><guid>16b02c486e4d7352c1d48020de3d6de32aab861b8bd40bedfbad3116bc845c85</guid><pubDate>Thu, 12 Nov 2026 03:35:19 GMT</pubDate><description>&lt;p&gt;华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 05:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 586GW变199GW：美国三分之二的AI数据中心计划只是PPT？</title><link>https://wallstreetcn.com/articles/3785784</link><guid>16b02c486e4d7352c1d48020de3d6de32aab861b8bd40bedfbad3116bc845c85</guid><pubDate>Thu, 12 Nov 2026 03:35:19 GMT</pubDate><description>&lt;p&gt;华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。&lt;/p&gt;
 &lt;p&gt;Bernstein分析师Madison Rezaei团队在10月11日更新了其数据中心可信度模型，为中期选举之后首次更新，对Aterio数据库中北美全部8858个项目进行筛查，结论触目惊心：&lt;strong&gt;在586GW的已宣布/在建/土地储备容量中，仅有199GW（34%）具备真实可信度，另外387GW——约三分之二——是&amp;quot;吹牛瓦特&amp;quot;（Bragawatts），&lt;/strong&gt;仅仅停留在PPT和新闻稿阶段。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;而可信度比例几乎没有变化&lt;/strong&gt;：首次测算33%，8月35%，10月34%，即便公告的数据中心项目规模从411GW膨胀至586GW，每新增一批公告，约三分之二仍被剔除。&lt;/p&gt;
@@ -509,25 +509,28 @@ AI数据中心的网络，正在等一场“颠覆”
 &lt;p&gt;但AI数据中心的流量特征，与上述假设完全相反。&amp;quot;你没有随机到达的流量。链路持续满载。GPU希望持续满载。流量模式比以往任何时候都更可预测——尤其是在训练场景中，预测性极强。&amp;quot;&lt;/p&gt;
 &lt;p&gt;这意味着，现有的主流数据中心交换机，带宽是够的，但架构是为另一种世界观设计的。Volpi认为，适合AI数据中心的网络架构，应该回归到更接近电路交换（circuit switching）或时分复用（TDM）的模式——确定性的、持续的、不需要大量缓冲区和查表逻辑的架构。&amp;quot;在一个相对静态的世界里，你不再需要那么多智能和缓冲区。直接打通，送出去。&amp;quot;&lt;/p&gt;
 &lt;p&gt;这对现有网络设备厂商是个坏消息——越简单的架构，越难收高价。&amp;quot;这是经典的创新者困境。不管你是哪家现有厂商，这都不是个好趋势，你不会想主动推动它。但如果有一个新进入者说，忘掉那套统计多路复用，世界变了，我要做一套新的东西——他可能真的能做出点有意思的东西来。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他认为Google的数据中心网络架构（包括其光学电路交换技术）已经是这个方向的先行者，&lt;/strong&gt;而Arista等传统厂商的困境在于，用户惯性和系统集成的复杂性会延缓这个转变。最终，这场架构革命可能必须由英伟达或Google这样的&amp;quot;整机架交付&amp;quot;玩家来推动——&amp;quot;因为网络已经成为架构的有机组成部分，这个创新在某种程度上几乎必须从GPU厂商那里发出来&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成</title><link>https://wallstreetcn.com/articles/3785753</link><guid>da612e6ea74a1bd8b5522e7e8994830c5eaaeb791c541ade108c850a9ded3688</guid><pubDate>Wed, 11 Nov 2026 17:23:23 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯石油产量大幅反弹，带动波斯湾地区供应全面恢复，正在加速拖累全球油价。&lt;/p&gt;
-&lt;p&gt;据彭博获得的石油输出国组织（OPEC）秘书处月报显示，沙特10月日均原油产量升至1056万桶，较上月激增26%，创战争爆发以来最高水平。&lt;/p&gt;
-&lt;p&gt;与此同时，伊拉克产量也攀升至战时新高。大量原油涌入实货市场，在需求依然疲软的背景下压低了价差，市场出现供过于求的初步迹象。&lt;/p&gt;
-&lt;p&gt;此轮增产恰逢OPEC评估各成员国最大产能的关键节点，该评估结果将于11月29日的OPEC+在线会议上被用于商讨2027年产量目标。&lt;/p&gt;
-&lt;p&gt;沙特阿美首席执行官Amin Nasser上周在阿布扎比行业会议上表示，公司目标是&amp;quot;在第四季度最大化产量&amp;quot;，并指出库存补充将显著提振全球需求。&lt;/p&gt;
-&lt;p&gt;布伦特原油期货本月已累计下跌约21%，目前报每桶93美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;沙特产量逼近战前峰值，霍尔木兹海峡运输突破是关键&lt;/strong&gt;
-&lt;p&gt;沙特10月日产量1056万桶，仅比战争爆发前的2月产量低数十万桶，略高于该国在OPEC框架内的配额上限。&lt;/p&gt;
-&lt;p&gt;产量回升的核心驱动力在于运输瓶颈的突破。沙特已在相当程度上掌握了通过霍尔木兹海峡进行秘密穿梭运输的技术，这一策略由阿联酋在战争早期率先摸索推行。&lt;/p&gt;
-&lt;p&gt;与此同时，沙特还得以启用一条通往红海沿岸的替代管道——尽管该管道此前曾遭受袭击。&lt;/p&gt;
-&lt;p&gt;伊拉克方面同样向OPEC报告，10月日产量升至约490万桶的战时新高，明显超出其商定的产量上限。&lt;/p&gt;
-&lt;strong&gt;实际产量与配额核查存在出入，OPEC立场仍不明朗&lt;/strong&gt;
-&lt;p&gt;值得注意的是，OPEC在评估成员国配额执行情况时，采用外部来源数据而非成员国自行申报数字，两组数据之间存在显著差异。&lt;/p&gt;
-&lt;p&gt;依据外部来源数据，伊拉克10月实际日产量约为449.1万桶，基本符合其规定限额；沙特的外部来源数据则为日均919.4万桶，仍明显低于其配额上限。这与沙特自报的1056万桶存在较大差距。&lt;/p&gt;
-&lt;p&gt;鉴于战争期间众多成员国被迫长期大幅低于配额生产，导致全球石油库存骤降，OPEC对于配额违规问题将采取何种立场目前尚不明确。&lt;/p&gt;
-&lt;p&gt;此番产量大增，也为OPEC+此前在冲突期间通过的一系列配额上调决定提供了事后注脚。彼时受出口中断拖累，这些上调几乎形同虚设，但当前正好赋予产油国打开阀门的额外空间。&lt;/p&gt;
-&lt;p&gt;OPEC+对各成员国最大产能的审核预计将在未来数日内完成，届时全联盟将于11月29日召开在线会议，以此为基础商议2027年的产量目标安排。&lt;/p&gt;
-&lt;strong&gt;市场份额竞争加剧，沙特与阿联酋竞相下调面向亚洲售价&lt;/strong&gt;
-&lt;p&gt;产量回升的背后，市场份额之争也在悄然升温。阿联酋今年5月在长期成员资格后选择退出OPEC，以摆脱产量上限约束，自主参与市场竞争。&lt;/p&gt;
-&lt;p&gt;近期，沙特与阿联酋均大幅下调了面向亚洲买家的12月船货官方售价，竞争态势趋于激烈。&lt;/p&gt;
-&lt;p&gt;此轮价格战信号，叠加供应端持续恢复，令市场对未来油价走势愈发审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;他认为Google的数据中心网络架构（包括其光学电路交换技术）已经是这个方向的先行者，&lt;/strong&gt;而Arista等传统厂商的困境在于，用户惯性和系统集成的复杂性会延缓这个转变。最终，这场架构革命可能必须由英伟达或Google这样的&amp;quot;整机架交付&amp;quot;玩家来推动——&amp;quot;因为网络已经成为架构的有机组成部分，这个创新在某种程度上几乎必须从GPU厂商那里发出来&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件</title><link>https://wallstreetcn.com/articles/3785776</link><guid>65a379f2413bee8193965422de35527402ab0fc9c62c6aeb1cc0a458559d2dbb</guid><pubDate>Thu, 12 Nov 2026 00:56:30 GMT</pubDate><description>&lt;p&gt;美伊之间的外交试探正在升温。&lt;/p&gt;
+&lt;p&gt;据媒体最新报道，美国副总统万斯正考虑与伊朗强硬派安全官员Mohsen Rezaei进行直接会谈，特朗普已向幕僚和外国对应方表示，支持万斯重启对伊谈判并授权其主导这一进程。&lt;/p&gt;
+&lt;p&gt;伊朗一方则表示，美国必须全面满足伊方七项条件，方可重开霍尔木兹海峡、重启谈判。据&lt;a href="https://world.huanqiu.com/article/4TzUsdHuMO1"&gt;央视新闻&lt;/a&gt;12日报道，伊朗议会议长卡利巴夫表示，伊朗已向美方给出了明确且直白的答复，阐述了伊朗的正当诉求。&lt;/p&gt;
+万斯浮出水面，主导对伊外交
+&lt;p&gt;据美国和中东官员以及知情人士向媒体透露，万斯近期在对伊外交中扮演的角色，已超过特使Steve Witkoff和Jared Kushner——后两人同时还在处理俄乌停战谈判事务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;万斯于10月向Rezaei发出一封信函，请求安排会面。Rezaei现任伊朗最高国家安全委员会秘书，属于伊朗政治体系中的强硬派人物。&lt;/strong&gt;目前会面日期尚未确定，双方正通过中间人和盟友就下一步安排进行沟通。&lt;/p&gt;
+&lt;p&gt;据透露，卡塔尔首都多哈被视为下一阶段谈判的可能举办地。万斯周一上午会见了卡塔尔首相，双方随后与特朗普及其他白宫官员举行了联合会谈，特朗普称此次会面&amp;quot;非常出色&amp;quot;。&lt;/p&gt;
+政治风险与内部分歧并存
+&lt;p&gt;将自己定位为对伊谈判主要代言人，对万斯而言存在明显的政治风险。据《华尔街日报》报道，部分美国官员指出，一旦伊朗拒绝作出实质性让步，万斯可能成为又一轮失败和谈的&amp;quot;代言人&amp;quot;；但若谈判成功，他也将成为终结这场不受欢迎战争的功臣。&lt;/p&gt;
+&lt;p&gt;白宫内部的分歧同样不容忽视。特朗普近几周私下批评了万斯6月参与谈判达成的谅解备忘录，认为该协议给了伊朗宝贵的喘息时间，使其得以在美国实施海上封锁前重整旗鼓、积累石油收入。不过，一名白宫官员否认特朗普对该备忘录有所反悔，称谈判人员系出于善意行事。&lt;/p&gt;
+&lt;p&gt;万斯本人则在白宫内部公开将共和党在中期选举中的惨败归咎于这场战争，与国务卿Rubio、国防部长Pete Hegseth等人形成明显分歧——后者坚持认为特朗普当初开战是为阻止伊朗获得核武器，别无选择。&lt;/p&gt;
+伊朗开出七项条件，强硬姿态不减
+&lt;p&gt;伊朗方面的要求使谈判重启面临重重障碍。据央视新闻报道，伊朗议长卡利巴夫11日表示，伊朗已向美方给出&amp;quot;明确且直白的答复&amp;quot;，阐述了伊朗的正当诉求，但迄今为止，美国尚未就伊朗提交的信息和提议给出任何官方或具体的答复。&lt;/p&gt;
+&lt;p&gt;卡利巴夫强调：&amp;quot;若要重新开放霍尔木兹海峡并重启谈判，美国必须全面落实伊朗提出的七项条件。&amp;quot;&lt;/p&gt;
+&lt;p&gt;据报道，伊朗官员要求美国解除海上封锁、释放冻结资产、放宽石油制裁，并将上述措施作为重启谈判的前提条件。伊朗官员私下表示，中期选举结果是&amp;quot;趁机提高筹码&amp;quot;的机会。&lt;/p&gt;
+&lt;p&gt;对此，Rubio周二在巴黎七国集团外长会议间隙明确表态：&amp;quot;伊朗的要求完全不现实。我们预计这一立场会有所改变，一旦改变，我们将做好外交准备。&amp;quot;&lt;/p&gt;
+强硬派内部博弈，谈判前景存疑
+&lt;p&gt;即便万斯与Rezaei的会面得以成行，谈判能否取得实质进展仍是未知数。&lt;/p&gt;
+&lt;p&gt;Rezaei本人近日在有关会面的传言升温后，明显加强了强硬表态。他将任何谈判斥为&amp;quot;想象中的会谈&amp;quot;，并坚称伊朗&amp;quot;不会从国内移走哪怕一粒浓缩铀&amp;quot;。据报道分析，此类表态或有助于他巩固自身地位——此前在伊斯兰堡谈判中展现出妥协姿态的伊朗议长卡利巴夫，随后即遭边缘化。&lt;/p&gt;
+&lt;p&gt;部分中东官员还担忧，伊朗伊斯兰革命卫队强硬派总司令Ahmed Vahidi的影响力可能超过立场相对温和的Rezaei，从而破坏任何与美方的谈判进程。多名中东调停人也对近期内达成协议持怀疑态度，理由是革命卫队官员传递的信息愈发强硬。&lt;/p&gt;
+封锁与谈判，华盛顿内部路线之争
+&lt;p&gt;在是否重启谈判的问题上，华盛顿内部存在明显的路线分歧。据报道，国务卿Rubio和新任白宫幕僚长Stephen Miller倾向于维持对伊压力，等待德黑兰主动妥协。&lt;/p&gt;
+&lt;p&gt;Rubio周二表示：&amp;quot;目前，我们的经济打压行动对伊朗政权造成的压力和破坏效果极佳，总统实际上没有必要开展大规模作战行动。&amp;quot;他同时补充，美军随时准备好在伊朗越过红线时予以回应。&lt;/p&gt;
+&lt;p&gt;调停方提出了一些建立信任的过渡措施：美国将航母后撤至足够远的距离以降低大规模打击风险，并适度放宽对伊朗港口的封锁；作为交换，伊朗将允许25艘油轮通过霍尔木兹海峡。但这一方案目前尚未获得任何一方的正式确认。&lt;/p&gt;
+&lt;p&gt;特朗普周一下午再度发出威胁，称美国正向该地区增派一艘航母，并表示已&amp;quot;全副武装、严阵以待&amp;quot;。他同时表示：&amp;quot;伊朗，我希望我们能与他们达成协议。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
