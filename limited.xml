@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 00:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave拟发行至少40亿美元投资级贷款，盘后下挫近6%</title><link>https://wallstreetcn.com/articles/3785770</link><guid>c09ab3a127060a1fd6ff7d9fc5cb36b67cc4156b5bce5db3fcce4c6ce01f1126</guid><pubDate>Wed, 11 Nov 2026 23:39:07 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;AI算力供应商CoreWeave正寻求通过投资级贷款再度大规模融资。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 00:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了</title><link>https://wallstreetcn.com/articles/3785774</link><guid>acffc4907a19ed15ef983323b153e314dd307a59013e6458252a0e86e248b049</guid><pubDate>Thu, 12 Nov 2026 00:43:39 GMT</pubDate><description>&lt;p&gt;CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。&lt;/p&gt;
+&lt;p&gt;在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。&lt;strong&gt;市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，打消了此前公司估值将大幅下调的担忧；此外，OpenAI单季营收强劲、首次达到100亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而对于即将在下周登陆资本市场的Anthropic而言，这份财报来得恰逢其时——&lt;strong&gt;CoreWeave是Anthropic的重要算力供应商，两家公司的命运在一定程度上相互绑定。&lt;/strong&gt;与此同时，英伟达下周的财报将是另一块试金石，投资者届时将寻找更多理由判断AI基础设施热潮能否持续。&lt;/p&gt;
+&lt;p&gt;不过，这轮反弹的基础仍不牢固：一方面，资金正从超大规模云厂商转向“卖铲人”和算力租赁商；另一方面，CoreWeave未来的融资缺口、债务成本及算力供给扩张，仍是决定这轮AI基建交易能否走远的核心变量。&lt;/p&gt;
+CoreWeave带动新云板块集体反弹
+&lt;p&gt;CoreWeave三季度营收36.6亿美元，超出分析师预期；每股亏损1.27美元，亏损幅度小于市场此前担忧的水平。更受关注的是全年指引：公司预计2026年全年营收在130亿至133亿美元之间，高于市场一致预期上限约3.4%。&lt;/p&gt;
+&lt;p&gt;CoreWeave CEO Michael Intrator在与分析师的电话会议上透露了一个值得关注的细节：&lt;strong&gt;今年新增客户中，超过一半来自AI领域以外。&lt;/strong&gt;这一数据在一定程度上回应了市场对AI算力需求过度集中、一旦AI投资热潮退却便将面临需求断崖的担忧。Intrator的表述暗示，对高性能算力的需求正在向更广泛的行业渗透，而不仅仅依赖AI实验室的采购。&lt;/p&gt;
+&lt;p&gt;在此之前，CoreWeave股价年内已累计下跌39%，是AI算力板块中跌幅最深的个股之一。德意志银行分析师Brad Zelnick在财报发布后表示，感谢公司提供了“令人宽慰的细节”，这句话颇能代表市场整体情绪。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;财报公布后，CoreWeave股价单日大涨约25%，成为带动新云板块反弹的核心标的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场数据显示，新云概念股当日整体上涨逾12%&lt;/strong&gt;，而高盛广义AI股票篮子上涨约5%，显著跑赢非AI股票。此前受AI资本开支回报疑虑拖累的算力产业链，迎来了一轮快速估值修复。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;纳指也收复了中期选举后的失地。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但从市场交易结构看，资金的选择也反映出投资者尚未完全消除疑虑。&lt;/strong&gt;算力租赁商、半导体企业等AI资本开支的“收款方”表现更强；微软、谷歌、亚马逊等承担巨额数据中心投资的超大规模云厂商则相对落后。换言之，市场眼下更愿意押注AI建设周期的直接受益者，而非继续为巨额资本开支买单的“付款方”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+CoreWeave与Anthropic：命运相连
+&lt;p&gt;而CoreWeave的财报对Anthropic而言具有直接意义。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic是CoreWeave的客户，使用CoreWeave及其他多家新云服务商的算力来支撑其Claude系列产品，同时也与谷歌等超大规模云厂商签有合同。&lt;/strong&gt;两家公司从未公开披露合同条款，但Intrator今年4月曾将与Anthropic的合作描述为“数十亿美元级别的合同”。&lt;/p&gt;
+&lt;p&gt;据彭博报道，Anthropic计划于下周完成上市。作为首家寻求公开上市的美国前沿AI实验室，Anthropic没有搜索引擎、社交媒体或云业务等传统业务作为“护城河”，其估值将完全取决于市场对AI前景的判断。CoreWeave的强劲表现，理论上有助于Anthropic在路演中获得更高的估值认可。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最新市场消息进一步抬高了这场IPO的关注度：据报道，Anthropic的承销商正评估1.5万亿美元或更高的IPO估值可能性。&lt;/strong&gt;若该估值预期得以维持，Anthropic将不只是检验前沿大模型公司商业化能力的样本，也将成为市场为AI长期增长故事愿意支付何种溢价的直接标尺。此前有消息称Anthropic估值可能大打折扣，或在1.5万亿美元以下。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，OpenAI单季营收首次达到100亿美元的消息，也为AI应用层需求提供了新的支撑。&lt;/strong&gt;对投资者而言，这意味着市场正在尝试寻找“模型收入增长—算力采购扩张—芯片及数据中心投资回报”之间能够相互验证的闭环；但这一闭环是否足以支撑高估值，仍有待更多公司财报和订单数据验证。&lt;/p&gt;
+&lt;p&gt;对Anthropic而言，CoreWeave财报释放的积极信号在于：其上游算力供应商仍能获得强劲订单、提高收入指引并维持融资能力。但这也凸显了双方的共同风险——大模型公司对外部算力的需求能否持续高增长，以及算力供应商能否在高资本开支和高负债模式下保持稳定交付，将共同影响这条产业链的估值基础。值得注意的是，Anthropic在算力供应上还依赖其他几家前景尚不明朗的新云服务商，其中包括Nscale——据报道该公司正在考虑推迟自身的IPO计划。&lt;/p&gt;
+AI下一个考验：英伟达财报
+&lt;p&gt;&lt;strong&gt;下周，英伟达将发布财报。如果投资者能够暂时搁置对CEO黄仁勋及其他相关问题的担忧，英伟达的业绩或将为市场提供更多乐观理由。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达财报的重要性，已不止于验证GPU需求是否旺盛。&lt;strong&gt;市场更希望从中确认三件事：&lt;/strong&gt;云厂商和新云服务商的采购强度是否持续、Blackwell等新产品的供给与交付能否匹配需求，以及客户资本开支的快速增长能否转化为更可持续的收入和利润。&lt;/p&gt;
+&lt;p&gt;本轮反弹中，半导体板块表现强劲，费城半导体指数录得数月来最大单日涨幅，并收复此前一周回调的大部分失地；英伟达股价也出现反弹。不过，交易员观察到，部分活跃资金和散户在英伟达财报前仍有卖出行为。这意味着市场对芯片龙头的预期依旧很高，财报若无法提供足够强的指引，AI交易的波动可能再度放大。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;彭博专栏作家Dave Lee分析，早在2025年3月CoreWeave上市之际，他便曾警告这家公司将成为“AI革命的第一只真正的风向标股票”，事实证明确实如此——CoreWeave的股价已成为市场波动的主要“出气筒”。&lt;/p&gt;
+反弹背后：融资缺口与供给扩张仍是硬约束
+&lt;p&gt;不过，这轮反弹的基础仍不牢固。CoreWeave未来的融资缺口、债务成本及算力供给扩张，仍是决定这轮AI基建交易能否走远的核心变量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CoreWeave的业绩缓解了“AI建设会否因融资受阻而戛然而止”的短期担忧，但并未彻底回答长期问题。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;多头逻辑是，&lt;/strong&gt;CoreWeave可以围绕客户合同设立融资主体，以高比例担保债务覆盖建设成本；在合同期内偿还债务后，公司仍保留GPU资产，并可将已还清融资的设备再次出租。若算力长期紧缺，这种模式有望令存量设备持续产生现金流。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;空头则聚焦三个风险。&lt;/strong&gt;首先是定价：管理层所提及的每兆瓦收入水平，与财务报表所反映的实际变现水平之间仍存在差距。其次是融资：市场观点认为，公司明年或面临约330亿美元的资金缺口，仍需依赖新增债务或客户预付款填补。最后是供给：到2028年前，市场预计将有约55吉瓦新增算力容量投放，若供给释放快于需求增长，老一代GPU的租金和残值都可能承压。&lt;/p&gt;
+&lt;p&gt;因此，CoreWeave本季证明的是，在算力依然紧张时，公司能够拿到订单并获得融资；但它尚无法证明，供给紧张会持续到足以覆盖巨额债务、并支撑旧GPU残值的阶段。接下来，市场将密切关注其投资级担保贷款的最终定价、客户预付款规模，以及公司资本开支和自由现金流拐点能否如预期出现。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+宏观环境并未放行，监管不确定性仍是隐患
+&lt;p&gt;在美国中期选举后，民主党控制国会，德克萨斯州候任州长Gina Hinojosa在竞选期间曾主张对数据中心建设实施暂停令。Intrator上周已致信Hinojosa，希望就已获批项目的“负责任完工”以及未来项目的“持久标准”寻求共识。&lt;/p&gt;
+&lt;p&gt;在财报电话会议上，Intrator试图稳定投资者情绪。他表示：“我们预计不会受到近期重大监管变化的影响。我们认为，这些变化是关于如何建设的表态，而非是否建设。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;除监管外，利率仍可能是AI基础设施估值的另一重约束。在本轮股市反弹期间，市场对未来加息的定价有所上升，10年期美债期货隐含收益率重新逼近5%。对于依赖债务融资建设数据中心的新云公司而言，融资成本上升会直接影响项目回报率和股权估值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更重要的是，股票、信用、利率和原油市场的波动率尚未完全回落。此前建立的避险仓位虽在本轮反弹中部分平仓，VIX一度回落至17附近，但跨资产波动仍处于相对偏高水平。这意味着，CoreWeave带来的“喘息之机”能否演变成趋势性修复，仍取决于后续财报、融资市场和宏观利率环境能否同时给出积极答案。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;总体而言，CoreWeave财报暂时修复了市场对AI算力需求和融资能力的信心，也为Anthropic IPO及英伟达财报营造了更有利的情绪窗口。但从“短期空头回补”走向“长期基本面重估”，仍需回答融资、供给、GPU残值和利率四道难题。&lt;strong&gt;下周的Anthropic与英伟达，将是这轮AI反弹能否延续的两场关键考试。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] CoreWeave拟发行至少40亿美元投资级贷款，盘后下挫近6%</title><link>https://wallstreetcn.com/articles/3785770</link><guid>c09ab3a127060a1fd6ff7d9fc5cb36b67cc4156b5bce5db3fcce4c6ce01f1126</guid><pubDate>Wed, 11 Nov 2026 23:39:07 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;AI算力供应商CoreWeave正寻求通过投资级贷款再度大规模融资。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;11月11日，据彭博社援引知情人士透露，&lt;strong&gt;摩根士丹利与三菱日联金融集团（MUFG）正主导该笔至少40亿美元的潜在融资，计划分阶段向投资者进行银团推介，最快可能于下周启动，但方案尚未最终确定。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;CoreWeave周二发布财报，将全年营收指引上调至130亿至133亿美元，高于此前预期区间，也超出华尔街平均预期的129亿美元。公司股价周三大幅上涨，债券价格亦随之走高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -106,43 +148,33 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币随科技股走强，反弹1.1%至74581美元，收复此前跌至三个月低点的失地。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;油价则因伊朗局势信号混杂小幅上涨，伊朗伊斯兰革命卫队宣称两艘油轮在霍尔木兹海峡触雷，WTI原油上涨0.4%至每桶86.41美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易热潮回归，CoreWeave单日暴涨24%，纳指100势将收复中选后失地</title><link>https://wallstreetcn.com/articles/3785758</link><guid>67dcd5894475f48d933ecd04f5e7c331d61776c47636d53d1e47cd2781a9ab58</guid><pubDate>Wed, 11 Nov 2026 21:40:43 GMT</pubDate><description>&lt;p&gt;随着人工智能交易热情重燃，美国科技股周三大幅反弹，纳斯达克100指数盘中一度抹平美国中期选举以来的全部跌幅，AI基础设施建设的长期可持续性顾虑有所缓和。&lt;/p&gt;
-&lt;p&gt;11月11日周三，纳斯达克100指数涨2.28%，盘中升至11月4日以来最高水平。标普500指数上涨1.3%，道琼斯工业平均指数上涨0.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;CoreWeave业绩好于预期、Anthropic IPO需求旺盛，以及OpenAI亮眼的季度表现，共同点燃了投资者对AI交易的热情。&lt;/p&gt;
-&lt;p&gt;此前，市场对民主党横扫国会将压制AI基础设施投入的担忧持续升温，纳斯达克100指数遭到重挫，英伟达和美光科技等个股首当其冲。周三的反弹意味着，布局AI基础设施的投资者有望在短期内修复这一损失。&lt;/p&gt;
-
-CoreWeave业绩提振AI基础设施信心
-
-&lt;p&gt;CoreWeave股价盘中一度飙升27%，创逾一年以来最佳单日表现。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这家云基础设施公司周二收盘后公布的营收好于预期，全年业绩展望亦强于华尔街预估，直接带动数据中心、存储与内存、芯片设备及服务器相关板块全线走强。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Janus Henderson高级股票分析师Shaon Baqui表示:&lt;/p&gt;
+&lt;p&gt;油价则因伊朗局势信号混杂小幅上涨，伊朗伊斯兰革命卫队宣称两艘油轮在霍尔木兹海峡触雷，WTI原油上涨0.4%至每桶86.41美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中选结束清算开始！民主党誓言揭露"特朗普执政贪腐"，白宫以调查反击</title><link>https://wallstreetcn.com/articles/3785775</link><guid>7970e21fee6c5bd48c4175a4564a400863226156562f16ab183eb31e5dd2a8b1</guid><pubDate>Thu, 12 Nov 2026 00:31:08 GMT</pubDate><description>&lt;p&gt;美国中期选举落幕，两党对抗随即进入新阶段。民主党赢得国会控制权后，迅速将矛头指向特朗普政府，誓言展开大规模腐败调查；白宫则率先出手，警告民主党议员其调查行为&amp;quot;可能涉嫌犯罪&amp;quot;，华盛顿政治对决骤然升温。&lt;/p&gt;
+&lt;p&gt;据&lt;a href="https://www.news.cn/world/20261112/89f81d6c8b264235a5e8438f7c4d5639/c.html"&gt;新华社&lt;/a&gt;报道，白宫法律顾问Will Scharf于11月9日致信众议院监督委员会主席、民主党人Robert Garcia，指责民主党人意图利用国会调查程序恐吓和骚扰政府官员，并警告称若相关调查旨在阻止行政官员履职或以滥权恐吓调查对象，可能构成&amp;quot;犯罪&amp;quot;。Garcia随即反击，称“看来特朗普有什么事情想要隐瞒”，并强调国会权力来自宪法，而非白宫的批准。&lt;/p&gt;
+&lt;p&gt;民主党在此次中期选举中取得重大胜利，计划在新一届国会就任后就特朗普在华盛顿的房地产项目、加密货币交易等问题展开调查。据媒体11月11日报道，预计出任众议院司法委员会主席的民主党人Jamie Raskin表示，其“首要优先任务”是恢复“法治与宪政政府”，并将矛头直指其所称特朗普政府中“如雪崩般涌现的腐败与欺诈”。&lt;strong&gt;Raskin同时警告党内同僚，不应将精力分散于再次弹劾特朗普，否则将成为共和党转移视线的“遮羞布”。&lt;/strong&gt;&lt;/p&gt;
+白宫先发制人，警告调查“可能越界犯罪”
+&lt;p&gt;据&lt;a href="https://www.news.cn/world/20261112/89f81d6c8b264235a5e8438f7c4d5639/c.html"&gt;新华社&lt;/a&gt;报道，Will Scharf在信中援引美国最高法院判例指出，国会调查必须服务于立法目的，不能代替行政和司法部门行使刑事起诉权。他写道，“强制程序是国会用于监督职能的权力，且仅限于监督职能”，并警告称“以剥夺公民宪法权利为目的发出非法传票，可能需要接受进一步调查”。&lt;/p&gt;
+&lt;p&gt;据媒体报道，该信件由Punchbowl News率先披露。值得注意的是，Garcia的发言人Sara Guerrero随后在X平台上表示，委员会实际上尚未收到这封信件。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;多名律师迅速批评Scharf的信件属于越权之举，指出国会议员依据宪法“言论或辩论条款”受到保护，其立法行为享有豁免权，且妨碍国会调查本身即构成犯罪。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Raskin表示，他已告知Garcia，可依据Scharf的信件及白宫高级官员的相关言论申请禁令。“威胁以刑事起诉来对付从事第一修正案活动的人，本身就是一种可被追究法律责任的行为，”Raskin说。他还指出，白宫方面“严重夸大了自身权力，正在为自己制造难堪”。&lt;/p&gt;
+民主党锁定调查目标：加密货币、特赦、利益冲突
+&lt;p&gt;Raskin向媒体披露了民主党调查的重点方向，涵盖多个领域。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在加密货币方面&lt;/strong&gt;，特朗普已披露其2025年收入逾20亿美元，其中超过10亿美元来自其子创立的加密货币公司。多个委员会已就特朗普的加密货币业务寻求相关信息，并计划追查其从总统职位中获利的案例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在总统特赦方面&lt;/strong&gt;，Raskin表示将调查获得总统特赦的特朗普盟友，以及与特朗普有关联、被豁免关税的企业，还包括Elon Musk主导的所谓“政府效率部”（DOGE）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在家族利益冲突方面&lt;/strong&gt;，Raskin暗示将调查1789 Capital——即特朗普之子Donald Trump Jr.的风险投资公司。他称该公司因Trump Jr.“对哪些公司将获得政府合同似乎具有先知般的洞察力”而获得丰厚回报。1789 Capital的律师Quinn Emanuel已致函Raskin，称其在兜售“错误叙事”，并表示该公司“无意成为政治博弈的人质”。&lt;/p&gt;
+&lt;p&gt;Raskin还将矛头指向特朗普女婿Jared Kushner，称其在领导一家由中东主权财富基金支持的私募股权公司的同时参与伊朗战争外交斡旋，构成“令人发指的利益冲突”。他质疑Kushner究竟是在100%维护其沙特、阿联酋和卡塔尔商业客户的利益，还是100%维护美国人民的利益。&lt;/p&gt;
+&lt;p&gt;对此，白宫发言人Olivia Wales表示，Kushner的个人商业活动与其外交工作&amp;quot;毫无关联&amp;quot;，其外交工作是“应总统要求以志愿者身份开展的”。Kushner本人则发表声明称，他“从未采取任何外交行动来使Affinity、本人或任何投资者获益”，并称其外交工作“完全服务于美国利益”。&lt;/p&gt;
+弹劾争议：Raskin警告勿入共和党“陷阱”
+&lt;p&gt;尽管民主党调查势头强劲，Raskin明确反对将第三次弹劾特朗普列为优先议程。据报道，他表示，弹劾将成为“遮盖所有腐败问题的幕布”，并直言共和党正是在“乞求”民主党走这条路，以便将其作为转移公众和立法机构注意力的“干扰项”。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;CoreWeave消除了市场对需求、定价和融资方面的诸多顾虑。你可以放慢AI资本支出的节奏，但无法真正放慢AI普及的节奏。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“我们面对的是特朗普政府中如雪崩般涌现的腐败与欺诈，所以当你问我优先事项或首场听证会是什么，我们无法回答，因为我们仍在努力厘清这场灾难。”&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;这份财报对于新兴云计算公司乃至整个AI交易而言均是积极信号。Zack投资管理公司的首席市场策略师Brian Mulberry在报告中指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;如果CoreWeave能够连续几个季度都拿出这样的执行表现，市场的担忧就会逐步消退。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-策略师：AI牛市尚未终结，调整接近尾声
-
-&lt;p&gt;尽管AI交易近期经历了明显波动，策略师普遍认为这并不意味着牛市的终结。&lt;/p&gt;
-&lt;p&gt;摩根士丹利首席美国股票策略师兼首席投资官Mike Wilson表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在我们看来，这轮调整已经完成了95%，我们相当有信心，AI基础设施建设将继续推进。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;与此同时，据知情人士透露，Anthropic的IPO认购需求已达可售股份的数倍，旺盛的一级市场需求也进一步支撑了二级市场情绪。&lt;/p&gt;
-&lt;p&gt;不过，Principa资管公司的首席全球策略师Seema Shah提醒投资者保持审慎：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;投资者不能再盲目涌入。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;她在彭博电视节目中表示，预计未来几个季度个股之间的分化将会加大，建议投资者更加重视公司基本面：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;关键在于对投资更加精挑细选，同时也要认识到，科技板块之外仍有值得关注的机会。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街大行集体上调加息预测，美债期货延续跌势，黄金跌超1%破4000</title><link>https://wallstreetcn.com/articles/3785756</link><guid>d3c654104ba9139d6740cc981038729c403d60f44e9ada0643aea20b84b77fb2</guid><pubDate>Wed, 11 Nov 2026 21:10:19 GMT</pubDate><description>&lt;p&gt;美国通胀数据持续超预期，美联储加息预期进一步升温，美债市场抛售压力仍在延续，黄金也受到利率预期变化的冲击。&lt;/p&gt;
+&lt;p&gt;民主党在中期选举前的民调显示，腐败问题与生活成本、美国对伊战争并列为选民最关切的议题。Garcia在选举夜仅发表了两个字的声明，要求政府官员&amp;quot;找好律师&amp;quot;。&lt;/p&gt;
+&lt;p&gt;白宫发言人Lauren Bis则表示，特朗普&amp;quot;愿意与任何人合作，继续为勤劳的美国人创造胜利&amp;quot;，并称若民主党选择&amp;quot;推进虚假调查和激进左翼政策，他们就是在选择与美国人民为敌&amp;quot;。&lt;/p&gt;
+白宫反向调查：司法部出手，大陪审团屡屡拒绝
+&lt;p&gt;与此同时，特朗普政府被指借助行政权力对总统的政治对手展开调查。司法部已对前FBI局长James Comey及纽约州总检察长Letitia James提起诉讼。&lt;/p&gt;
+&lt;p&gt;然而，据报道，&lt;strong&gt;政府的多项努力已遭大陪审团阻拦——大陪审团采取了高度罕见的举措，拒绝了多项拟议起诉，其中包括近期针对前白宫助手Cassidy Hutchinson的起诉案&lt;/strong&gt;。今年2月，大陪审团还拒绝了对六名民主党议员提起指控的尝试，此前这些议员曾发布视频，提醒军人有权拒绝执行非法命令。&lt;/p&gt;
+&lt;p&gt;Garcia在其委员会的调查中，已就Jared Kushner的商业活动、前美国驻希腊大使Kimberly Guilfoyle向特朗普盟友求助偿还信用卡债务的短信等问题发出调查函。&lt;/p&gt;
+&lt;p&gt;分析人士指出，随着新一届国会即将就任，华盛顿两党之间的调查与反调查博弈，预计将成为未来数月主导美国政治的核心议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街大行集体上调加息预测，美债期货延续跌势，黄金跌超1%破4000</title><link>https://wallstreetcn.com/articles/3785756</link><guid>d3c654104ba9139d6740cc981038729c403d60f44e9ada0643aea20b84b77fb2</guid><pubDate>Wed, 11 Nov 2026 21:10:19 GMT</pubDate><description>&lt;p&gt;美国通胀数据持续超预期，美联储加息预期进一步升温，美债市场抛售压力仍在延续，黄金也受到利率预期变化的冲击。&lt;/p&gt;
 &lt;p&gt;周三，由于美国退伍军人节假期，美债现货市场休市，但国债期货交易仍正常进行。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;受10月通胀数据超预期及美联储官员鹰派表态影响，美债期货继续下跌，对应收益率上行约2至4个基点&lt;/strong&gt;，显示美债现货市场周四恢复交易后，10年期美债收益率可能重新逼近周二触及的5.01%以上水平。&lt;/p&gt;
 &lt;p&gt;与此同时，现货黄金今日下跌1.1%，截至发稿报3987美元/盎司，反映出市场对利率维持高位乃至进一步加息的担忧正在升温。&lt;/p&gt;
@@ -197,7 +229,43 @@ CoreWeave业绩提振AI基础设施信心
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成</title><link>https://wallstreetcn.com/articles/3785753</link><guid>da612e6ea74a1bd8b5522e7e8994830c5eaaeb791c541ade108c850a9ded3688</guid><pubDate>Wed, 11 Nov 2026 17:23:23 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯石油产量大幅反弹，带动波斯湾地区供应全面恢复，正在加速拖累全球油价。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易热潮回归，CoreWeave单日暴涨24%，纳指100势将收复中选后失地</title><link>https://wallstreetcn.com/articles/3785758</link><guid>67dcd5894475f48d933ecd04f5e7c331d61776c47636d53d1e47cd2781a9ab58</guid><pubDate>Wed, 11 Nov 2026 21:40:43 GMT</pubDate><description>&lt;p&gt;随着人工智能交易热情重燃，美国科技股周三大幅反弹，纳斯达克100指数盘中一度抹平美国中期选举以来的全部跌幅，AI基础设施建设的长期可持续性顾虑有所缓和。&lt;/p&gt;
+&lt;p&gt;11月11日周三，纳斯达克100指数涨2.28%，盘中升至11月4日以来最高水平。标普500指数上涨1.3%，道琼斯工业平均指数上涨0.5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;CoreWeave业绩好于预期、Anthropic IPO需求旺盛，以及OpenAI亮眼的季度表现，共同点燃了投资者对AI交易的热情。&lt;/p&gt;
+&lt;p&gt;此前，市场对民主党横扫国会将压制AI基础设施投入的担忧持续升温，纳斯达克100指数遭到重挫，英伟达和美光科技等个股首当其冲。周三的反弹意味着，布局AI基础设施的投资者有望在短期内修复这一损失。&lt;/p&gt;
+
+CoreWeave业绩提振AI基础设施信心
+
+&lt;p&gt;CoreWeave股价盘中一度飙升27%，创逾一年以来最佳单日表现。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这家云基础设施公司周二收盘后公布的营收好于预期，全年业绩展望亦强于华尔街预估，直接带动数据中心、存储与内存、芯片设备及服务器相关板块全线走强。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Janus Henderson高级股票分析师Shaon Baqui表示:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CoreWeave消除了市场对需求、定价和融资方面的诸多顾虑。你可以放慢AI资本支出的节奏，但无法真正放慢AI普及的节奏。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这份财报对于新兴云计算公司乃至整个AI交易而言均是积极信号。Zack投资管理公司的首席市场策略师Brian Mulberry在报告中指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果CoreWeave能够连续几个季度都拿出这样的执行表现，市场的担忧就会逐步消退。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+策略师：AI牛市尚未终结，调整接近尾声
+
+&lt;p&gt;尽管AI交易近期经历了明显波动，策略师普遍认为这并不意味着牛市的终结。&lt;/p&gt;
+&lt;p&gt;摩根士丹利首席美国股票策略师兼首席投资官Mike Wilson表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在我们看来，这轮调整已经完成了95%，我们相当有信心，AI基础设施建设将继续推进。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;与此同时，据知情人士透露，Anthropic的IPO认购需求已达可售股份的数倍，旺盛的一级市场需求也进一步支撑了二级市场情绪。&lt;/p&gt;
+&lt;p&gt;不过，Principa资管公司的首席全球策略师Seema Shah提醒投资者保持审慎：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;投资者不能再盲目涌入。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;她在彭博电视节目中表示，预计未来几个季度个股之间的分化将会加大，建议投资者更加重视公司基本面：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关键在于对投资更加精挑细选，同时也要认识到，科技板块之外仍有值得关注的机会。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成</title><link>https://wallstreetcn.com/articles/3785753</link><guid>da612e6ea74a1bd8b5522e7e8994830c5eaaeb791c541ade108c850a9ded3688</guid><pubDate>Wed, 11 Nov 2026 17:23:23 GMT</pubDate><description>&lt;p&gt;沙特阿拉伯石油产量大幅反弹，带动波斯湾地区供应全面恢复，正在加速拖累全球油价。&lt;/p&gt;
 &lt;p&gt;据彭博获得的石油输出国组织（OPEC）秘书处月报显示，沙特10月日均原油产量升至1056万桶，较上月激增26%，创战争爆发以来最高水平。&lt;/p&gt;
 &lt;p&gt;与此同时，伊拉克产量也攀升至战时新高。大量原油涌入实货市场，在需求依然疲软的背景下压低了价差，市场出现供过于求的初步迹象。&lt;/p&gt;
 &lt;p&gt;此轮增产恰逢OPEC评估各成员国最大产能的关键节点，该评估结果将于11月29日的OPEC+在线会议上被用于商讨2027年产量目标。&lt;/p&gt;
@@ -218,25 +286,7 @@ CoreWeave业绩提振AI基础设施信心
 &lt;strong&gt;市场份额竞争加剧，沙特与阿联酋竞相下调面向亚洲售价&lt;/strong&gt;
 &lt;p&gt;产量回升的背后，市场份额之争也在悄然升温。阿联酋今年5月在长期成员资格后选择退出OPEC，以摆脱产量上限约束，自主参与市场竞争。&lt;/p&gt;
 &lt;p&gt;近期，沙特与阿联酋均大幅下调了面向亚洲买家的12月船货官方售价，竞争态势趋于激烈。&lt;/p&gt;
-&lt;p&gt;此轮价格战信号，叠加供应端持续恢复，令市场对未来油价走势愈发审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] IPO前夕，Anthropic再追加114亿美元算力采购订单</title><link>https://wallstreetcn.com/articles/3785744</link><guid>8c7fbef3c7250d1bf1bd764c6384fd3fc5ab5d3dc0c7a7774048f9a54326e68d</guid><pubDate>Wed, 11 Nov 2026 12:37:33 GMT</pubDate><description>&lt;p&gt;Anthropic在冲刺美国科技史上最大规模IPO的关键节点，再度大幅扩充云计算采购承诺。&lt;/p&gt;
-&lt;p&gt;根据Anthropic周二向美国证券交易委员会（SEC）提交的招股文件，&lt;strong&gt;该公司过去一个月内与微软和谷歌新增约114亿美元云服务采购承诺，使其在两家平台上的总支出承诺分别升至492亿美元和1216亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，Anthropic披露其与小型云服务商Lambda签订的349亿美元租赁协议存在被取消的风险，原因是Lambda未能在约定期限内完成数据中心建设。&lt;/p&gt;
-&lt;p&gt;上述披露距&lt;a href="https://wallstreetcn.com/articles/3785657"&gt;Anthropic计划定价日&lt;/a&gt;（11月18日，周三）仅剩7天。此次IPO拟通过公开发行与私募配售合计筹资最高904亿美元，若计入超额配售权，募资总额将逼近1000亿美元，有望刷新SpaceX此前创下的865亿美元纪录。然而，AI相关股票上周刚经历一轮急跌，市场对数据中心监管收紧及成本上升的忧虑尚未消散，此番算力采购规模的再度扩张，势必进一步加剧投资者对其盈利前景的审视。&lt;/p&gt;
-
-微软、谷歌承诺金额双双上调
-
-&lt;p&gt;根据周二文件，&lt;strong&gt;Anthropic已承诺在2033年前向微软Azure累计支出492亿美元，较上月S-1文件披露的449亿美元增加约43亿美元；向谷歌云的承诺支出则从1145亿美元升至1216亿美元，增幅约71亿美元。两项合计新增约114亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此前，Anthropic在上月末提交的S-1文件中已披露约6500亿美元的云计算总支出计划，其中包括向博通承诺1612亿美元、向SpaceX承诺1205亿美元、向亚马逊承诺1100亿美元，以及与其他云服务商签订的若干规模较小的协议。上述既有协议在周二文件中均维持不变。&lt;/p&gt;
-
-Lambda合同悬而未决，小型云服务商压力浮现
-
-&lt;p&gt;Anthropic同时披露，与Lambda签订的349亿美元服务器租赁协议面临被取消的可能。Anthropic表示，Lambda未能在双方约定的截止日期前完成相关数据中心的建设，这赋予了Anthropic依合同解除协议的权利。不过，该公司亦表示&amp;quot;目前无意&amp;quot;行使这一权利。&lt;/p&gt;
-&lt;p&gt;这一表态揭示出中小型云服务商在快速扩张产能方面普遍面临的挑战——在AI算力需求爆发式增长的背景下，部分供应商难以在约定时间内完成基础设施部署。&lt;/p&gt;
-
-短期合同成本拖累利润，算力需求仍待满足
-
-&lt;p&gt;Anthropic在文件中警告，为满足不断攀升的算力需求，公司可能需要签订更多短期计算合同。相较于长期协议，此类合同的成本&amp;quot;大幅偏高&amp;quot;，预计将在&amp;quot;近期&amp;quot;压缩公司的运营利润率。&lt;/p&gt;
-&lt;p&gt;财务数据印证了这一压力。Anthropic报告第三季度运营亏损5.67亿美元，而上一季度运营利润为9.74亿美元，公司将这一骤变主要归因于短期算力合同的高额成本。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心建设降温也不必担心？美国进口热潮短期难退，真正冲击或到2029年</title><link>https://wallstreetcn.com/articles/3785757</link><guid>1a11c2261e12ff692b3c588c32bdae2b40a43e467c996a8835d56c5b30f5df7b</guid><pubDate>Wed, 11 Nov 2026 21:10:30 GMT</pubDate><description>&lt;p&gt;美国AI数据中心建设正面临政治阻力，但即使新项目开工放缓，也未必会迅速终结美国的进口热潮。&lt;/p&gt;
+&lt;p&gt;此轮价格战信号，叠加供应端持续恢复，令市场对未来油价走势愈发审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI数据中心建设降温也不必担心？美国进口热潮短期难退，真正冲击或到2029年</title><link>https://wallstreetcn.com/articles/3785757</link><guid>1a11c2261e12ff692b3c588c32bdae2b40a43e467c996a8835d56c5b30f5df7b</guid><pubDate>Wed, 11 Nov 2026 21:10:30 GMT</pubDate><description>&lt;p&gt;美国AI数据中心建设正面临政治阻力，但即使新项目开工放缓，也未必会迅速终结美国的进口热潮。&lt;/p&gt;
 &lt;p&gt;彭博经济研究指出，数据中心建设周期较长，服务器等核心硬件通常在项目后期才采购，2025年和2026年启动的项目仍将支撑未来两年的进口需求。真正明显的进口冲击，可能要到2029年才会显现。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;数据中心商品成为美国进口增长引擎&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;特朗普第二任期以来，关税政策已将美国平均有效关税税率从2.3%推高至约11%。但数据中心建设热潮推动相关商品进口持续增长，抵消了其他商品进口的疲软。&lt;/p&gt;
@@ -295,4 +345,4 @@ GPU租赁价格：判断AI交易成色的核心指标
 轮动而非终结：AI交易的演变路径
 
 &lt;p&gt;大规模取消数据中心项目将对经济造成重创，但这并非基准情形。正如上文分析，大量项目可迁往政策环境更为友好的地区。&lt;/p&gt;
-&lt;p&gt;更可能的结果是AI交易内部的结构性轮动：超大规模云厂商因存量算力的稀缺性溢价而受益，而AI实验室、新兴云服务商及数据中心建设链则承压。这种轮动会削弱AI交易的广度与活力，却也可能在更窄、更脆弱的形态下延续这场交易。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO</title><link>https://wallstreetcn.com/articles/3785773</link><guid>5d8181b18da3b5236a1b510997602f5d1e5740fb42d2f1175808a104fe082899</guid><pubDate>Wed, 11 Nov 2026 23:59:17 GMT</pubDate><description>&lt;p&gt;英伟达正面临一场可能重塑这家全球最高市值人工智能芯片制造商领导架构的严峻危机。因首席执行官黄仁勋卷入多起婚外情丑闻，公司董事会目前正积极寻找潜在的继任者，以应对可能出现的权力真空。&lt;/p&gt;&lt;p&gt;据彭博和《华尔街日报》报道，&lt;strong&gt;英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。&lt;/strong&gt;此前，《纽约时报》最新披露了黄仁勋与一名直接下属存在不正当关系，这一消息进一步加剧了早前关于其与一名中国女性有染的严重指控。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;（以上图片由AI生成）&lt;/em&gt;&lt;/p&gt;&lt;p&gt;继任不确定性迅速引发了金融市场的剧烈反应。在周三的盘后交易中，英伟达股价一度重挫9%，不仅单日抹去巨额市值，还引发了广泛的抛售情绪，拖累Intel、Dell Technologies等其他人工智能概念股同步下挫。&lt;/p&gt;&lt;p&gt;随着英伟达即将在下周发布季度财报，这一连串突发事件迫使投资者必须直面史无前例的“关键人物风险”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;华尔街正密切评估，如果这位人工智能基础设施的核心架构师被迫离职，将对整个AI行业的资金链、客户信心与发展前景造成何种程度的直接冲击。&lt;/strong&gt;&lt;/p&gt;独立调查与董事会面临大考&lt;p&gt;据路透报道，英伟达董事会已于周日启动内部调查，以应对新闻报道中提及的国家安全隐患。&lt;/p&gt;&lt;p&gt;然而，该公司的治理结构正受到外界的严格审视。英伟达的11名董事中并未设立董事会主席，且多位独立董事（如Mark Stevens）自上世纪90年代起便开始任职，人员结构高度固化。&lt;/p&gt;&lt;p&gt;机构股东服务公司（ISS）美国研究主管Marc Goldstein指出，尽管华尔街通常会给予硅谷魅力型创始人一定的宽容度，但由于黄仁勋自身的判断力已受到质疑，董事会必须聘请独立的法律顾问以增强调查的公信力。&lt;/p&gt;&lt;p&gt;他建议董事会考虑让长期任职的董事回避调查，以防范股东未来发起法律挑战。前美国司法部官员Gil Soffer则强调，如果调查证实黄仁勋隐瞒了相关关系并存在不当行为，那么将其罢免是适当的决定。&lt;/p&gt;关键问题：黄仁勋是否主动披露&lt;p&gt;&lt;strong&gt;调查的核心焦点之一，在于黄仁勋是否曾就这段关系向公司进行披露。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;英伟达的行为准则将&amp;quot;个人关系&amp;quot;列为可能产生利益冲突的情形之一，并明确要求员工在面临潜在或实际利益冲突时，主动联系法务部门寻求指导。&lt;/p&gt;&lt;p&gt;前美国司法部官员、律师事务所Katten主席Gil Soffer通过电子邮件表示，若黄仁勋曾完整、如实地进行披露，将对其目前的处境有利，因为这意味着他并未隐瞒这段关系，董事会也有机会对此进行评估并设置相应的管控措施。&lt;/p&gt;&lt;p&gt;Soffer同时指出，在更多事实公开之前，尚无法判断这段关系是否实际造成了利益冲突、董事会迄今的处置是否得当，以及黄仁勋应受到何种程度的处分。他表示，若黄仁勋存在隐瞒关系并有不当行为的情形，&amp;quot;免职可能是适当的处置方式&amp;quot;。&lt;/p&gt;&lt;p&gt;根据英伟达最新代理声明，黄仁勋过去三年的薪酬总额达1.2亿美元，主要以股票奖励形式发放。公司章程允许董事会以多数票通过的方式，在&amp;quot;有因或无因&amp;quot;的情况下免除其职务。&lt;/p&gt;华尔街重估“关键人物风险”&lt;p&gt;市场分析师对英伟达可能面临的领导层动荡表达了普遍担忧。&lt;/p&gt;&lt;p&gt;Karobaar Capital首席投资官Haris Khurshid指出，这已不再是单一的个人丑闻，而是演变为严重的治理和关键人物风险，投资者正开始重新定价整个AI赛道的情绪。&lt;/p&gt;&lt;p&gt;Integrity Asset Management投资组合经理Joe Gilbert明确表示，这对英伟达及整个AI生态系统是“毫无疑问的负面影响”，因为新任者几乎不可能复制黄仁勋的战略眼光。&lt;/p&gt;&lt;p&gt;Jonestrading首席市场策略师Michael O’Rourke指出，英伟达此前预测今年销售额将增长70%，在激进的销售策略和供应商融资模式下，继任者可能需要花一整年时间来“灭火和清理烂摊子”。&lt;/p&gt;&lt;p&gt;Miller Tabak + Co首席市场策略师Matt Maley则警告，英伟达作为AI行业的重要融资方，其高层动荡可能会导致整个行业缩减支出。Zacks Investment Management的Brian Mulberry认为，即便黄仁勋卸任CEO，他仍有可能作为战略顾问或董事会成员保留一定的职能。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;更可能的结果是AI交易内部的结构性轮动：超大规模云厂商因存量算力的稀缺性溢价而受益，而AI实验室、新兴云服务商及数据中心建设链则承压。这种轮动会削弱AI交易的广度与活力，却也可能在更窄、更脆弱的形态下延续这场交易。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
