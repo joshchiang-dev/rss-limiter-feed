@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 18:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻</title><link>https://wallstreetcn.com/articles/3785826</link><guid>6df01566ca1394784a309ecec0f10ce1d0c255af3b2423a56a42ecaf65137b24</guid><pubDate>Thu, 12 Nov 2026 13:32:11 GMT</pubDate><description>&lt;p&gt;AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑，股价盘前一度跌逾14%。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 12 Nov 2026 18:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻</title><link>https://wallstreetcn.com/articles/3785826</link><guid>6df01566ca1394784a309ecec0f10ce1d0c255af3b2423a56a42ecaf65137b24</guid><pubDate>Thu, 12 Nov 2026 13:32:11 GMT</pubDate><description>&lt;p&gt;AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑，股价盘前一度跌逾14%。&lt;/p&gt;
 &lt;p&gt;Nebius三季度营收达9.81亿美元，较市场预期的9.19亿美元高出约6.7%；调整后EBITDA为4.66亿美元，亦大幅超出预期的3.57亿美元。&lt;strong&gt;然而，公司将年化经常性收入（ARR）目标从此前承诺的&amp;quot;2026年12月前达到70亿至90亿美元&amp;quot;下调至&amp;quot;2027年2月前达到70亿美元以上&amp;quot;，与此同时，公司还表示&amp;quot;ARR不再是衡量业务的正确指标&amp;quot;，&lt;/strong&gt;令外界对其战略方向的清晰度产生质疑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;值得注意的是，同日半导体领域亦出现普遍抛售情绪，CoreWeave盘前同样下跌约10%，部分市场参与者认为Nebius此次个股跌幅与更广泛的板块情绪共振，难以完全剥离。&lt;/p&gt;
@@ -199,27 +199,7 @@ AI交易本已承压，估值与监管双重审视
 测算基于上市日交易行为和永续合约成交
 &lt;p&gt;Vanda的2.5亿美元并非取自认购簿或承销数据，而是把两件事放在一起观察：一是历史上新股上市首日散户资金的流入规律，二是Hyperliquid上相关合约的交易热度。前者提供基准，后者提供这次IPO的“预热强度”。SpaceX的1.18亿美元纪录是这套框架下的对照物，对Anthropic的测算结果则是它的两倍。&lt;/p&gt;
 &lt;p&gt;需要区分的是，IPO前永续期货是在Hyperliquid、Coinbase等交易所交易的一类衍生品合约，交易者借此对非上市公司的估值下注。&lt;strong&gt;这类合约与标的股份没有直接挂钩，其定价只参考公司最新披露的上市前估值。&lt;/strong&gt;因此，合约层面的成交活跃度反映的是市场对估值的预期与分歧，并非对上市股份的直接认购，也不能直接换算成配售需求。&lt;/p&gt;
-&lt;p&gt;按Vanda的统计，2024年以来单日散户买入超过2.5亿美元的股票只有六只。把门槛设在这一水平，说明该机构的判断是“散户会以极少数个案才有的规模涌入”，而不只是“散户会来”。这一判断最终能否兑现，仍取决于上市首日的实际资金流向；测算本身仍属预估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国成屋销售跌至16年低点，高利率与通胀持续压制购房需求</title><link>https://wallstreetcn.com/articles/3785831</link><guid>93a12fff484d3d8abc916453b3c05d90b6ab6aeef8b59dc489c4ea9cef1fb0c6</guid><pubDate>Thu, 12 Nov 2026 15:40:03 GMT</pubDate><description>&lt;p&gt;美国成屋市场持续承压，10月销售量降至2010年以来最低水平，房贷利率高企与顽固通胀令潜在买家望而却步。&lt;/p&gt;
-&lt;p&gt;全国房地产经纪人协会（NAR）周四公布数据显示，&lt;strong&gt;10月成屋成交量环比下滑5.5%，折年率降至375万套。西部地区销售跌至1999年有记录以来最低，南部和中西部亦创逾十年新低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管市场需求大幅萎缩，但库存上升与价格松动迹象正逐步浮现，或为疲软的市场带来一丝转机。NAR首席经济学家Lawrence Yun表示，&lt;strong&gt;若房贷利率出现回落，当前受压抑的购房需求或将大规模释放。&lt;/strong&gt;&lt;/p&gt;
-
-高利率与通胀夹击，买家观望情绪浓厚
-
-&lt;p&gt;&lt;strong&gt;7%以上的房贷利率与持续高企的通胀是此轮成屋销售下滑的核心驱动因素。&lt;/strong&gt;对于大多数潜在买家而言，月供负担已显著超出其承受范围，购房决策被迫推迟。&lt;/p&gt;
-&lt;p&gt;NAR的住房可负担性指数——衡量普通家庭能否符合中位价格住宅贷款资格的指标——已降至2025年年中以来的最低水平，住房成本压力在此次中期选举中亦成为影响选情的重要议题。&lt;/p&gt;
-&lt;p&gt;Lawrence Yun在声明中指出：&amp;quot;在就业市场持续稳健增长的背景下，当前成屋销售表现仍如此疲软，一旦房贷利率下行，被压制的购房需求规模可能相当可观。&amp;quot;&lt;/p&gt;
-
-库存回升，价格涨幅收窄至近期低点
-
-&lt;p&gt;供给端出现边际改善。NAR数据显示，&lt;strong&gt;10月成屋在售库存同比增加4.6%至159万套，为2019年以来同期最高；以当前销售速度计算，相当于5.1个月的供应量，为2015年底以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;价格方面，10月成屋销售中位价为416,700美元，同比仅上涨0.4%，为今年2月以来最小年度涨幅，价格上行动能明显减弱。&lt;/p&gt;
-&lt;p&gt;据彭博报道，彭博行业研究分析师Drew Reading在11月9日的报告中指出，尽管新增挂牌数量有所减少，但市场现有库存仍持续增加，这进一步表明价格压力正在积聚。&lt;/p&gt;
-
-价格松动信号显现，降价挂牌比例创纪录
-
-&lt;p&gt;需求退潮已推动更多卖家主动调整定价策略。在线房产平台Redfin本周发布的独立数据显示，&lt;strong&gt;上月成交房屋中有36%经历过至少一次降价，为该平台有记录以来的最高比例。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，NAR数据还显示，10月成屋公寓销售同比下滑至1999年有记录以来的最低水平，市场疲态延伸至多个细分领域。&lt;/p&gt;
-&lt;p&gt;与此同时，周四另有数据显示，上周美国申请失业救济人数升至20万，但整体仍处于历史低位，就业市场尚未出现明显恶化迹象。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 国内首个！礼来口服GLP-1减重药，获国家药监局批准上市</title><link>https://wallstreetcn.com/articles/3785798</link><guid>d9e36612fc4a016c0305c5dab4a5f288860769f512bf62ef3e70e249dfbcbd7b</guid><pubDate>Thu, 12 Nov 2026 07:42:56 GMT</pubDate><description>&lt;p&gt;11月12日，礼来的口服GLP-1减重药奥氟格列隆钙片（商品名穆优达）获国家药监局批准上市，&lt;strong&gt;成为国内首个获批的口服GLP-1类减重药物。&lt;/strong&gt;市场规模达百亿元级的减重赛道由此从注射剂单线竞争，转入口服与注射双线并行。&lt;/p&gt;
+&lt;p&gt;按Vanda的统计，2024年以来单日散户买入超过2.5亿美元的股票只有六只。把门槛设在这一水平，说明该机构的判断是“散户会以极少数个案才有的规模涌入”，而不只是“散户会来”。这一判断最终能否兑现，仍取决于上市首日的实际资金流向；测算本身仍属预估。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 国内首个！礼来口服GLP-1减重药，获国家药监局批准上市</title><link>https://wallstreetcn.com/articles/3785798</link><guid>d9e36612fc4a016c0305c5dab4a5f288860769f512bf62ef3e70e249dfbcbd7b</guid><pubDate>Thu, 12 Nov 2026 07:42:56 GMT</pubDate><description>&lt;p&gt;11月12日，礼来的口服GLP-1减重药奥氟格列隆钙片（商品名穆优达）获国家药监局批准上市，&lt;strong&gt;成为国内首个获批的口服GLP-1类减重药物。&lt;/strong&gt;市场规模达百亿元级的减重赛道由此从注射剂单线竞争，转入口服与注射双线并行。&lt;/p&gt;
 &lt;p&gt;国家药监局官网显示，该药为1类创新药，由Eli Lilly Nederland B.V.申报，适用于在控制饮食和增加运动基础上，用于初始体重指数（BMI）≥30 kg/m²（肥胖），或≥27 kg/m²至&amp;lt;30 kg/m²（超重）并伴有至少一种体重相关合并症（例如高血压、血脂异常、高血糖、阻塞性睡眠呼吸暂停综合征、心血管疾病等）的成人长期体重管理。国家药监局表示，该药品上市为患者提供了新的治疗选择。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次获批标志着中国减重市场进入口服剂型时代。口服制剂相较注射剂型显著降低用药门槛，有望覆盖大量抵触皮下注射的潜在用户。穆优达的核心优势在于服药灵活性——全天任意时段均可随餐或空腹服用，无需预留服药间隔，这一特点明显区别于其他需要空腹服用的口服GLP-1药物。&lt;/p&gt;
@@ -331,7 +311,27 @@ AI交易本已承压，估值与监管双重审视
 &lt;p&gt;其中一项重要能力是模型路由，即根据任务难度、执行效果及Token成本，为不同任务分配合适的模型。而从更完整的Agent技术架构来看，模型路由只是其中一环。&lt;/p&gt;
 &lt;p&gt;近年来受到行业关注的Agent Harness，则进一步涉及任务规划、工具调用、上下文管理、执行状态维护及错误恢复等环节，决定Agent能否将模型能力转化为稳定的任务执行结果。&lt;/p&gt;
 &lt;p&gt;两者共同影响着办公Agent的商业化效率。&lt;/p&gt;
-&lt;p&gt;接下来各家是否会通过价格战的形式进一步吸引用户使用，正受到关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈Anthropic当下的估值与定价博弈</title><link>http://www.xueqiu.com/5332385101/416504716</link><guid>34eb6d634b03cb172d41f8ccfcf53e5696cf95edfc86e3a0f890f9b7dd73bf31</guid><pubDate>Thu, 12 Nov 2026 09:50:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股科技迎来强劲反弹，费半完全收复上周跌幅。前一日发布超预期财报的CoreWeave上涨24.71%，带动新云集体涨超12%；英伟达涨2.87%，但盘后受传闻扰动跌超8%；存储方面，闪迪、美光分别涨13.69%和11.89%。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大众搁置沃尔夫斯堡压铸项目，燃油高尔夫迁产再起争议</title><link>https://wallstreetcn.com/articles/3785811</link><guid>4a54c756acec99f48e17017add57a7050d942a465787bce01503818c6991ff37</guid><pubDate>Thu, 12 Nov 2026 10:10:45 GMT</pubDate><description>&lt;p&gt;大众在沃尔夫斯堡的工厂改造计划生变。&lt;/p&gt;
+&lt;p&gt;接下来各家是否会通过价格战的形式进一步吸引用户使用，正受到关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈Anthropic当下的估值与定价博弈</title><link>http://www.xueqiu.com/5332385101/416504716</link><guid>34eb6d634b03cb172d41f8ccfcf53e5696cf95edfc86e3a0f890f9b7dd73bf31</guid><pubDate>Thu, 12 Nov 2026 09:50:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股科技迎来强劲反弹，费半完全收复上周跌幅。前一日发布超预期财报的CoreWeave上涨24.71%，带动新云集体涨超12%；英伟达涨2.87%，但盘后受传闻扰动跌超8%；存储方面，闪迪、美光分别涨13.69%和11.89%。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国成屋销售跌至16年低点，高利率与通胀持续压制购房需求</title><link>https://wallstreetcn.com/articles/3785831</link><guid>93a12fff484d3d8abc916453b3c05d90b6ab6aeef8b59dc489c4ea9cef1fb0c6</guid><pubDate>Thu, 12 Nov 2026 15:40:03 GMT</pubDate><description>&lt;p&gt;美国成屋市场持续承压，10月销售量降至2010年以来最低水平，房贷利率高企与顽固通胀令潜在买家望而却步。&lt;/p&gt;
+&lt;p&gt;全国房地产经纪人协会（NAR）周四公布数据显示，&lt;strong&gt;10月成屋成交量环比下滑5.5%，折年率降至375万套。西部地区销售跌至1999年有记录以来最低，南部和中西部亦创逾十年新低。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管市场需求大幅萎缩，但库存上升与价格松动迹象正逐步浮现，或为疲软的市场带来一丝转机。NAR首席经济学家Lawrence Yun表示，&lt;strong&gt;若房贷利率出现回落，当前受压抑的购房需求或将大规模释放。&lt;/strong&gt;&lt;/p&gt;
+
+高利率与通胀夹击，买家观望情绪浓厚
+
+&lt;p&gt;&lt;strong&gt;7%以上的房贷利率与持续高企的通胀是此轮成屋销售下滑的核心驱动因素。&lt;/strong&gt;对于大多数潜在买家而言，月供负担已显著超出其承受范围，购房决策被迫推迟。&lt;/p&gt;
+&lt;p&gt;NAR的住房可负担性指数——衡量普通家庭能否符合中位价格住宅贷款资格的指标——已降至2025年年中以来的最低水平，住房成本压力在此次中期选举中亦成为影响选情的重要议题。&lt;/p&gt;
+&lt;p&gt;Lawrence Yun在声明中指出：&amp;quot;在就业市场持续稳健增长的背景下，当前成屋销售表现仍如此疲软，一旦房贷利率下行，被压制的购房需求规模可能相当可观。&amp;quot;&lt;/p&gt;
+
+库存回升，价格涨幅收窄至近期低点
+
+&lt;p&gt;供给端出现边际改善。NAR数据显示，&lt;strong&gt;10月成屋在售库存同比增加4.6%至159万套，为2019年以来同期最高；以当前销售速度计算，相当于5.1个月的供应量，为2015年底以来最高水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;价格方面，10月成屋销售中位价为416,700美元，同比仅上涨0.4%，为今年2月以来最小年度涨幅，价格上行动能明显减弱。&lt;/p&gt;
+&lt;p&gt;据彭博报道，彭博行业研究分析师Drew Reading在11月9日的报告中指出，尽管新增挂牌数量有所减少，但市场现有库存仍持续增加，这进一步表明价格压力正在积聚。&lt;/p&gt;
+
+价格松动信号显现，降价挂牌比例创纪录
+
+&lt;p&gt;需求退潮已推动更多卖家主动调整定价策略。在线房产平台Redfin本周发布的独立数据显示，&lt;strong&gt;上月成交房屋中有36%经历过至少一次降价，为该平台有记录以来的最高比例。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，NAR数据还显示，10月成屋公寓销售同比下滑至1999年有记录以来的最低水平，市场疲态延伸至多个细分领域。&lt;/p&gt;
+&lt;p&gt;与此同时，周四另有数据显示，上周美国申请失业救济人数升至20万，但整体仍处于历史低位，就业市场尚未出现明显恶化迹象。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大众搁置沃尔夫斯堡压铸项目，燃油高尔夫迁产再起争议</title><link>https://wallstreetcn.com/articles/3785811</link><guid>4a54c756acec99f48e17017add57a7050d942a465787bce01503818c6991ff37</guid><pubDate>Thu, 12 Nov 2026 10:10:45 GMT</pubDate><description>&lt;p&gt;大众在沃尔夫斯堡的工厂改造计划生变。&lt;/p&gt;
 &lt;p&gt;据大众职工委员会透露，沃尔夫斯堡主工厂的新压铸车间原定于11月中旬动工。&lt;/p&gt;
 &lt;p&gt;11月11日，大众向外确认，公司将不再按原计划实施“Gamechanger”制造方案。原拟建设的大型压铸中心随之搁置。大众发言人表示，集团正审查各项投资，下一代电动车平台SSP仍将继续开发。&lt;/p&gt;
 &lt;p&gt;大型压铸是这次工厂改造的重要组成部分。它把原本需要拼装的多个车身零件整合成较大的铸件，可以减少装配工序，但要先投入厂房、设备和模具。大众原本计划在沃尔夫斯堡引入这套工艺，为本十年末投产的SSP车型做准备。&lt;/p&gt;
