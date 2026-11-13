@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 04:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title><link>https://wallstreetcn.com/articles/3785854</link><guid>1ce5c73b944913e1f3a533bb6af3c9445d3851d780920822ba4c060035cd1f15</guid><pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate><description>&lt;p&gt;黄仁勋离开了他掌舵33年的英伟达。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 05:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title><link>https://wallstreetcn.com/articles/3785854</link><guid>1ce5c73b944913e1f3a533bb6af3c9445d3851d780920822ba4c060035cd1f15</guid><pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate><description>&lt;p&gt;黄仁勋离开了他掌舵33年的英伟达。&lt;/p&gt;
 &lt;p&gt;“英伟达从来都不是为了在他不在的情况下而建立的。”知名半导体研究机构Semianalysis在最新报告中写道。&lt;/p&gt;
 &lt;p&gt;Semianalysis将英伟达类比成下一个苹果。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -54,57 +54,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;没有Jensen作为发言人并为开源模型提供财务和工程支持，这些实验室可能不得不回到直接否认拥有任何英伟达GPU，并将英伟达软件仅限于内部使用。&lt;/p&gt;
 &lt;p&gt;中国的创新将不再能在英伟达生态系统和通用机器学习生态系统中共享，这从根本上是坏事。这对封闭的AI实验室是积极的，但对初创公司是坏事。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中芯国际联合CEO赵海军：全年销售收入预计超120亿美元，预计四季度收入环比增长4%至6%</title><link>https://wallstreetcn.com/articles/3785858</link><guid>35b12b034b3a671ea055301e7546cb91c33d73e57f4aa74c0eeba293a7a7f5bc</guid><pubDate>Fri, 13 Nov 2026 04:22:22 GMT</pubDate><description>&lt;p&gt;中芯国际联合CEO赵海军在三季度业绩会上披露，&lt;strong&gt;公司三季度整体销售收入达31.9亿美元，环比增长6.1%，再创历史新高；毛利率升至29.9%，环比增加4.6个百分点；平均晶圆单价环比提升1.8%；产能利用率达97.3%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;赵海军称，&lt;strong&gt;全年销售收入预计超过120亿美元，同比增长接近三成，&lt;/strong&gt;毛利率预计在26%左右&lt;strong&gt;。&lt;/strong&gt;四季度虽为行业传统淡季，&lt;strong&gt;公司预计收入仍将环比增长4%至6%，淡季不淡。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;展望未来，赵海军指出，&lt;strong&gt;人工智能需求有望拉长半导体上行周期，全产业链在地化持续推进，公司将依托战略绑定持续扩产，以高附加值产品组合构筑领先优势。&lt;/strong&gt;&lt;/p&gt;
-三季度业绩超出指引上限：AI配套芯片需求提速是核心驱动
-&lt;p&gt;三季度，中芯国际整体销售收入达&lt;strong&gt;31.9亿美元&lt;/strong&gt;，环比增长&lt;strong&gt;6.1%&lt;/strong&gt;，超出此前指引上限。&lt;/p&gt;
-&lt;p&gt;赵海军解释，业绩超预期的主要原因在于客户需求加速：&lt;strong&gt;比起三个月前，客户对BCD、专用存储、Controller等人工智能配套芯片的提拉需求增量速度比原先预期更快&lt;/strong&gt;，推动三季度收入突破指引上限。&lt;/p&gt;
-&lt;p&gt;从价格维度看，&lt;strong&gt;公司与客户协商的价格分批落地，产品组合持续优化，平均晶圆单价环比提升1.8%&lt;/strong&gt;。&lt;/p&gt;
-毛利率升至29.9%：高利用率摊薄成本，抵消折旧压力
-&lt;p&gt;三季度公司毛利率为&lt;strong&gt;29.9%&lt;/strong&gt;，环比增加&lt;strong&gt;4.6个百分点&lt;/strong&gt;，同样超出指引上限。&lt;/p&gt;
-&lt;p&gt;赵海军分析，毛利率改善的逻辑链条清晰：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;客户提拉要求紧迫&lt;/strong&gt;，为支持客户出货，公司相应减缓了工程和研发投片；&lt;/li&gt;
-&lt;li&gt;在月产能新增&lt;strong&gt;2万片折合8英寸标准逻辑晶圆&lt;/strong&gt;的基础上，&lt;strong&gt;产能利用率提升至97.3%&lt;/strong&gt;，环比增加3.6个百分点；&lt;/li&gt;
-&lt;li&gt;产出环比增加&lt;strong&gt;高个位数百分比&lt;/strong&gt;，&lt;strong&gt;显著摊薄了单位晶圆成本&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;上述改善有效抵消了折旧费用环比上升&lt;strong&gt;2.3%&lt;/strong&gt;对毛利率的负向影响，带动毛利率超出指引上限。&lt;/li&gt;
-&lt;/ul&gt;
-应用结构分化：智能手机消费电子疲弱，工业汽车等领域大幅增长
-&lt;p&gt;三季度晶圆收入按应用拆分，各细分市场表现明显分化：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;智能手机和消费电子需求仍较为疲弱&lt;/strong&gt;，环比分别下降&lt;strong&gt;8%和1%&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;电脑与平板、工业与汽车、互联与可穿戴&lt;/strong&gt;市场整体需求没有大的变化，但受益于&lt;strong&gt;产业链本土化切换&lt;/strong&gt;和&lt;strong&gt;公司的前瞻性平台部署&lt;/strong&gt;，相关收入分别实现&lt;strong&gt;26%、26%和18%的环比增长&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;赵海军举例说明，在工业与汽车领域，&lt;strong&gt;公司全面布局BCD低中高电压产品，提供多样化的特色器件与工艺，最高支持grade 0的车规标准&lt;/strong&gt;，产品覆盖BMS模拟前端与系统基础芯片、数字隔离、隔离驱动和采样前端以及智能功率开关，全力满足相关客户的增量需求，特别是高附加值产品的需求。&lt;/p&gt;
-&lt;p&gt;从地区分类看，三季度中国、美国销售收入占比分别为&lt;strong&gt;90.8%、7.8%&lt;/strong&gt;。从金额来看，&lt;strong&gt;中国销售收入环比增长7%&lt;/strong&gt;，赵海军表示，主要原因为&lt;strong&gt;中国客户需求增长速度高于公司整体需求增长速度&lt;/strong&gt;，公司相应调配产能，满足客户需求。&lt;/p&gt;
-&lt;p&gt;按晶圆尺寸划分，&lt;strong&gt;十二英寸和八英寸占比平稳，分别为79%和21%&lt;/strong&gt;；从金额来看，&lt;strong&gt;12英寸和8英寸晶圆收入环比分别增长9%和4%&lt;/strong&gt;，主要原因为客户需求饱满，且&lt;strong&gt;公司扩产以12英寸产线为主&lt;/strong&gt;。&lt;/p&gt;
-四季度指引：淡季不淡，收入预计环比增长4%至6%
-&lt;p&gt;赵海军表示，第四季度是行业传统淡季，但公司业绩&lt;strong&gt;淡季不淡&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;虽然手机、部分消费类订单有所走弱，但&lt;strong&gt;公司充分发挥多工艺平台的协调性调配能力，将释放出来的产能向专用存储、BCD等高需求、高附加值产品倾斜&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;四季度具体指引如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;出货量&lt;/strong&gt;预计保持稳健；&lt;/li&gt;
-&lt;li&gt;产品组合变化及价格随行就市推动&lt;strong&gt;平均销售单价上涨&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;收入预计环比增长4%至6%&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;由于折旧、原材料等成本压力持续增加，以及四季度&lt;strong&gt;公司增加工程和研发投片量&lt;/strong&gt;，使得产能利用率在扩产产能持续释放的基础上&lt;strong&gt;略有下降&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;毛利率指引与上季度持平，为26%至28%&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-全年展望：收入预超120亿美元，设备交付不确定性或扰动资本开支
-&lt;p&gt;赵海军披露全年整体预期：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;全年销售收入预计超过120亿美元&lt;/strong&gt;，较去年同期增长接近&lt;strong&gt;三成&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;在折旧总额较去年增长约三成的情况下，&lt;strong&gt;毛利率预计在26%左右，同比增加约5个百分点&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;同时，赵海军也提示了潜在风险：&lt;strong&gt;全球设备供应链整体紧张，交付周期拉长，部分设备交付时间仍存在不确定性，虽不会影响今年的扩产规划落地，但可能对全年的资本开支执行带来扰动&lt;/strong&gt;。&lt;/p&gt;
-中长期战略：AI拉长上行周期，在地化延续，以高附加值产品穿越周期
-&lt;p&gt;展望可预见的未来，赵海军指出行业确定性主要体现在两方面：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;一是人工智能需求有望拉长半导体上行周期，增长结构与周期形态随之变化；&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;二是全产业链在地化大发展仍在延续。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在此背景下，赵海军阐述了公司的战略路径：&lt;strong&gt;依托与客户的战略绑定，配合中国客户创新速度，将特色和客制化工艺优势做强&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;具体而言，公司将以&lt;strong&gt;客户需求为导向&lt;/strong&gt;推进产能扩充；以&lt;strong&gt;高附加值优质产品组合&lt;/strong&gt;构筑领先优势；努力稳定&lt;strong&gt;EBITDA（经营现金流能力）&lt;/strong&gt;；提升&lt;strong&gt;成本管控与运营效率&lt;/strong&gt;；增强&lt;strong&gt;穿越周期的经营韧性&lt;/strong&gt;，实现有质量、可持续的增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌</title><link>https://wallstreetcn.com/articles/3785829</link><guid>ad1ae7a0babda2727b83198b461fe03da51800b88b407fb643bbe6f6a7655a3d</guid><pubDate>Fri, 13 Nov 2026 00:05:31 GMT</pubDate><description>&lt;p&gt;英伟达创始人、首席执行官黄仁勋突然离任，全球AI产业迎来重大领导层变局。这家由黄仁勋一手打造、并成为全球AI算力基础设施核心供应商的科技巨头，正式进入后黄仁勋时代。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌</title><link>https://wallstreetcn.com/articles/3785829</link><guid>ad1ae7a0babda2727b83198b461fe03da51800b88b407fb643bbe6f6a7655a3d</guid><pubDate>Fri, 13 Nov 2026 00:05:31 GMT</pubDate><description>&lt;p&gt;英伟达创始人、首席执行官黄仁勋突然离任，全球AI产业迎来重大领导层变局。这家由黄仁勋一手打造、并成为全球AI算力基础设施核心供应商的科技巨头，正式进入后黄仁勋时代。&lt;/p&gt;
 &lt;p&gt;当地时间11月12日，&lt;strong&gt;英伟达宣布，黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司首席财务官Colette Kress接任临时CEO，董事会将同时考虑内部和外部候选人，启动正式继任者遴选程序。公司还任命长期董事、前Synopsys CEO Harvey Jones为首任董事长。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一人事变动发生在英伟达经历一系列个人关系争议及国家安全调查之后。黄仁勋的离任不仅令投资者重新评估英伟达对创始人的依赖程度，也将AI产业融资模式以及全球算力投资前景推向新的不确定性之中。&lt;/p&gt;
 &lt;p&gt;消息公布后，英伟达股价盘中一度暴跌14.3%，市值一度跌破4万亿美元，随后跌幅大幅收窄，最终收跌4.3%。&lt;/p&gt;
@@ -470,7 +420,78 @@ WSE-5芯片已回片，明年夏天量产
 &lt;p&gt;&lt;strong&gt;接线员&lt;/strong&gt;：非常感谢。今天的问答环节到此结束，现在移交给Sean做结束语。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sean Dorsey（投资者关系负责人）&lt;/strong&gt;：最后，提醒大家，我们将于下周11月17日出席在奥斯汀举办的TomorrowX峰会，以及12月9日出席在旧金山举办的巴克莱全球科技大会。感谢大家今天的参与。接线员，请关闭会议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;接线员&lt;/strong&gt;：感谢各位，本次会议到此结束，请大家断开连接。会议已结束。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价跌近17% | 财报见闻</title><link>https://wallstreetcn.com/articles/3785826</link><guid>6df01566ca1394784a309ecec0f10ce1d0c255af3b2423a56a42ecaf65137b24</guid><pubDate>Thu, 12 Nov 2026 22:59:31 GMT</pubDate><description>&lt;p&gt;AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中芯国际联合CEO赵海军：全年销售收入预计超120亿美元，预计四季度收入环比增长4%至6%</title><link>https://wallstreetcn.com/articles/3785858</link><guid>35b12b034b3a671ea055301e7546cb91c33d73e57f4aa74c0eeba293a7a7f5bc</guid><pubDate>Fri, 13 Nov 2026 04:22:22 GMT</pubDate><description>&lt;p&gt;中芯国际联合CEO赵海军在三季度业绩会上披露，&lt;strong&gt;公司三季度整体销售收入达31.9亿美元，环比增长6.1%，再创历史新高；毛利率升至29.9%，环比增加4.6个百分点；平均晶圆单价环比提升1.8%；产能利用率达97.3%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;赵海军称，&lt;strong&gt;全年销售收入预计超过120亿美元，同比增长接近三成，&lt;/strong&gt;毛利率预计在26%左右&lt;strong&gt;。&lt;/strong&gt;四季度虽为行业传统淡季，&lt;strong&gt;公司预计收入仍将环比增长4%至6%，淡季不淡。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;展望未来，赵海军指出，&lt;strong&gt;人工智能需求有望拉长半导体上行周期，全产业链在地化持续推进，公司将依托战略绑定持续扩产，以高附加值产品组合构筑领先优势。&lt;/strong&gt;&lt;/p&gt;
+三季度业绩超出指引上限：AI配套芯片需求提速是核心驱动
+&lt;p&gt;三季度，中芯国际整体销售收入达&lt;strong&gt;31.9亿美元&lt;/strong&gt;，环比增长&lt;strong&gt;6.1%&lt;/strong&gt;，超出此前指引上限。&lt;/p&gt;
+&lt;p&gt;赵海军解释，业绩超预期的主要原因在于客户需求加速：&lt;strong&gt;比起三个月前，客户对BCD、专用存储、Controller等人工智能配套芯片的提拉需求增量速度比原先预期更快&lt;/strong&gt;，推动三季度收入突破指引上限。&lt;/p&gt;
+&lt;p&gt;从价格维度看，&lt;strong&gt;公司与客户协商的价格分批落地，产品组合持续优化，平均晶圆单价环比提升1.8%&lt;/strong&gt;。&lt;/p&gt;
+毛利率升至29.9%：高利用率摊薄成本，抵消折旧压力
+&lt;p&gt;三季度公司毛利率为&lt;strong&gt;29.9%&lt;/strong&gt;，环比增加&lt;strong&gt;4.6个百分点&lt;/strong&gt;，同样超出指引上限。&lt;/p&gt;
+&lt;p&gt;赵海军分析，毛利率改善的逻辑链条清晰：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;客户提拉要求紧迫&lt;/strong&gt;，为支持客户出货，公司相应减缓了工程和研发投片；&lt;/li&gt;
+&lt;li&gt;在月产能新增&lt;strong&gt;2万片折合8英寸标准逻辑晶圆&lt;/strong&gt;的基础上，&lt;strong&gt;产能利用率提升至97.3%&lt;/strong&gt;，环比增加3.6个百分点；&lt;/li&gt;
+&lt;li&gt;产出环比增加&lt;strong&gt;高个位数百分比&lt;/strong&gt;，&lt;strong&gt;显著摊薄了单位晶圆成本&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;上述改善有效抵消了折旧费用环比上升&lt;strong&gt;2.3%&lt;/strong&gt;对毛利率的负向影响，带动毛利率超出指引上限。&lt;/li&gt;
+&lt;/ul&gt;
+应用结构分化：智能手机消费电子疲弱，工业汽车等领域大幅增长
+&lt;p&gt;三季度晶圆收入按应用拆分，各细分市场表现明显分化：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;智能手机和消费电子需求仍较为疲弱&lt;/strong&gt;，环比分别下降&lt;strong&gt;8%和1%&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电脑与平板、工业与汽车、互联与可穿戴&lt;/strong&gt;市场整体需求没有大的变化，但受益于&lt;strong&gt;产业链本土化切换&lt;/strong&gt;和&lt;strong&gt;公司的前瞻性平台部署&lt;/strong&gt;，相关收入分别实现&lt;strong&gt;26%、26%和18%的环比增长&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;赵海军举例说明，在工业与汽车领域，&lt;strong&gt;公司全面布局BCD低中高电压产品，提供多样化的特色器件与工艺，最高支持grade 0的车规标准&lt;/strong&gt;，产品覆盖BMS模拟前端与系统基础芯片、数字隔离、隔离驱动和采样前端以及智能功率开关，全力满足相关客户的增量需求，特别是高附加值产品的需求。&lt;/p&gt;
+&lt;p&gt;从地区分类看，三季度中国、美国销售收入占比分别为&lt;strong&gt;90.8%、7.8%&lt;/strong&gt;。从金额来看，&lt;strong&gt;中国销售收入环比增长7%&lt;/strong&gt;，赵海军表示，主要原因为&lt;strong&gt;中国客户需求增长速度高于公司整体需求增长速度&lt;/strong&gt;，公司相应调配产能，满足客户需求。&lt;/p&gt;
+&lt;p&gt;按晶圆尺寸划分，&lt;strong&gt;十二英寸和八英寸占比平稳，分别为79%和21%&lt;/strong&gt;；从金额来看，&lt;strong&gt;12英寸和8英寸晶圆收入环比分别增长9%和4%&lt;/strong&gt;，主要原因为客户需求饱满，且&lt;strong&gt;公司扩产以12英寸产线为主&lt;/strong&gt;。&lt;/p&gt;
+四季度指引：淡季不淡，收入预计环比增长4%至6%
+&lt;p&gt;赵海军表示，第四季度是行业传统淡季，但公司业绩&lt;strong&gt;淡季不淡&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;虽然手机、部分消费类订单有所走弱，但&lt;strong&gt;公司充分发挥多工艺平台的协调性调配能力，将释放出来的产能向专用存储、BCD等高需求、高附加值产品倾斜&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;四季度具体指引如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;出货量&lt;/strong&gt;预计保持稳健；&lt;/li&gt;
+&lt;li&gt;产品组合变化及价格随行就市推动&lt;strong&gt;平均销售单价上涨&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;收入预计环比增长4%至6%&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;由于折旧、原材料等成本压力持续增加，以及四季度&lt;strong&gt;公司增加工程和研发投片量&lt;/strong&gt;，使得产能利用率在扩产产能持续释放的基础上&lt;strong&gt;略有下降&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;毛利率指引与上季度持平，为26%至28%&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+全年展望：收入预超120亿美元，设备交付不确定性或扰动资本开支
+&lt;p&gt;赵海军披露全年整体预期：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;全年销售收入预计超过120亿美元&lt;/strong&gt;，较去年同期增长接近&lt;strong&gt;三成&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;在折旧总额较去年增长约三成的情况下，&lt;strong&gt;毛利率预计在26%左右，同比增加约5个百分点&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;同时，赵海军也提示了潜在风险：&lt;strong&gt;全球设备供应链整体紧张，交付周期拉长，部分设备交付时间仍存在不确定性，虽不会影响今年的扩产规划落地，但可能对全年的资本开支执行带来扰动&lt;/strong&gt;。&lt;/p&gt;
+中长期战略：AI拉长上行周期，在地化延续，以高附加值产品穿越周期
+&lt;p&gt;展望可预见的未来，赵海军指出行业确定性主要体现在两方面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一是人工智能需求有望拉长半导体上行周期，增长结构与周期形态随之变化；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二是全产业链在地化大发展仍在延续。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在此背景下，赵海军阐述了公司的战略路径：&lt;strong&gt;依托与客户的战略绑定，配合中国客户创新速度，将特色和客制化工艺优势做强&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;具体而言，公司将以&lt;strong&gt;客户需求为导向&lt;/strong&gt;推进产能扩充；以&lt;strong&gt;高附加值优质产品组合&lt;/strong&gt;构筑领先优势；努力稳定&lt;strong&gt;EBITDA（经营现金流能力）&lt;/strong&gt;；提升&lt;strong&gt;成本管控与运营效率&lt;/strong&gt;；增强&lt;strong&gt;穿越周期的经营韧性&lt;/strong&gt;，实现有质量、可持续的增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？</title><link>https://wallstreetcn.com/articles/3785861</link><guid>e84c124b79de038c21e075ccff3efd48c081828de4b33c91b14f650e66a02aa8</guid><pubDate>Fri, 13 Nov 2026 05:19:29 GMT</pubDate><description>&lt;p&gt;英伟达创始人兼首席执行官黄仁勋的离职来得突然而戏剧性，留下了一连串悬而未决的问题。&lt;strong&gt;从董事会周日公开表态对其信任，到周三夜间黄仁勋正式辞职，短短数日之内发生了什么，目前仍无定论。&lt;/strong&gt;这场震动科技与资本市场的人事变局，不仅牵出白宫是否从中施压的疑云，更令投资者对英伟达未来的业务走向充满不确定性。&lt;/p&gt;
+&lt;p&gt;据英伟达在一份证券文件中披露，黄仁勋于周三夜间辞职。&lt;strong&gt;值得关注的是，多篇报道周三晚间董事会会议的文章，均有华盛顿记者参与撰写——这些记者平日并不负责英伟达报道。&lt;/strong&gt;据科技媒体The Information 11月12日报道，外界由此猜测，白宫是否曾向媒体透露消息，以向黄仁勋施压，迫使其离职。这些问题的答案，据报道最终将会浮出水面，但目前仍无从证实。&lt;/p&gt;
+&lt;p&gt;消息公布后，英伟达股价周四从低点反弹，显示部分投资者认为此前两日的抛售已属过度。&lt;strong&gt;截至周四收盘，英伟达股价约为166美元，对应远期市盈率仅为13.7倍，而竞争对手AMD的远期市盈率高达38.9倍。&lt;/strong&gt;这一巨大估值差距，折射出市场对英伟达在失去黄仁勋后走向的深切疑虑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+黄仁勋的不可替代性：生态系统的&amp;quot;灵魂人物&amp;quot;
+&lt;p&gt;黄仁勋离职对英伟达业务的实质影响，可能需要一至两年时间才能显现。但围绕其继任者能否填补其位置的讨论，已在业界迅速展开。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SemiAnalysis总裁Doug McLaughlin在接受The Information旗下TITV采访时指出，黄仁勋对AI技术路线图的影响力具有独一无二的性质。&lt;/strong&gt;他表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“整个生态系统真的是围绕着Jensen凝聚起来的……他是一个特殊的人，他说服了所有人相信这条技术路线图会成真，并且通过施压、游说，当然也支付了相当可观的资金，真正推动了先进技术时间表的落地。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;McLaughlin还指出，黄仁勋凭借激进的供应链承诺，锁定了“供应链中相当重要的一部分”，确保英伟达在其他公司无芯片可用时仍能获得充足供应。&lt;strong&gt;这种高风险押注之所以成为可能，部分原因在于他是公司创始人——继任者可能会更为保守。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Information在对临时首席执行官Colette Kress的报道中亦指出，她在担任首席财务官期间，曾多次对黄仁勋力推的交易提出异议。&lt;/p&gt;
+短期业务稳健，长期变数犹存
+&lt;p&gt;&lt;strong&gt;就近期而言，英伟达的业务基本面预计不会立即受损。&lt;/strong&gt;据The Information报道，多位客户表示，英伟达芯片之所以持续供不应求，根本原因在于其产品在业内仍属最优。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;黄仁勋离职后，部分客户可能会更加大胆地测试替代方案&lt;/strong&gt;——此前，对得罪黄仁勋的顾虑，在一定程度上抑制了客户探索竞品的意愿。&lt;/p&gt;
+&lt;p&gt;在管理层过渡方面，据报道，董事会可能需要长达六个月时间才能确定黄仁勋的永久继任者，而若继任者来自外部，其正式上任还需额外时间。&lt;strong&gt;届时，AI行业本身可能已经历数轮演变，新管理层将面临一个与黄仁勋时代截然不同的竞争格局。&lt;/strong&gt;&lt;/p&gt;
+创始人回归先例：黄仁勋未来是否可能重返？
+&lt;p&gt;黄仁勋离职消息公布后数小时内，市场上便出现了对其回归的猜测。前Twitter首席执行官Dick Costolo在X平台发文称：“三四年后，英伟达会错过一两个季度的业绩，然后他们会把Jensen请回来重新掌舵。”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一猜测并非毫无依据。&lt;/strong&gt;创始人重新执掌公司的案例在科技行业并不罕见。最广为人知的是史蒂夫·乔布斯（Steve Jobs）于上世纪90年代末回归苹果。今年2月，Workday联合创始人Aneel Bhusri重新出任CEO；同日，HubSpot联合创始人Brian Halligan也在离任五年后重新接过CEO职位，接替此前由首席客户官晋升的Yamini Rangan。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HubSpot的案例颇具参照意义。&lt;/strong&gt;据The Information报道，Rangan在任期间并非表现不佳——她将公司营收从2021年的13亿美元提升至预计今年的37亿美元。然而，HubSpot股价过去五年累计下跌74%，投资者对AI冲击软件业务的担忧是主要压力来源。Halligan重新出山后，HubSpot股价周四上涨6.4%。&lt;/p&gt;
+&lt;p&gt;分析认为，&lt;strong&gt;对于英伟达而言，黄仁勋是否会以类似方式回归，目前仍是一个开放性问题。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价跌近17% | 财报见闻</title><link>https://wallstreetcn.com/articles/3785826</link><guid>6df01566ca1394784a309ecec0f10ce1d0c255af3b2423a56a42ecaf65137b24</guid><pubDate>Thu, 12 Nov 2026 22:59:31 GMT</pubDate><description>&lt;p&gt;AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑。&lt;/p&gt;
 &lt;p&gt;Nebius三季度营收达9.81亿美元，较市场预期的9.19亿美元高出约6.7%；调整后EBITDA为4.66亿美元，亦大幅超出预期的3.57亿美元。&lt;strong&gt;然而，公司将年化经常性收入（ARR）目标从此前承诺的&amp;quot;2026年12月前达到70亿至90亿美元&amp;quot;下调至&amp;quot;2027年2月前达到70亿美元以上&amp;quot;，与此同时，公司还表示&amp;quot;ARR不再是衡量业务的正确指标&amp;quot;，&lt;/strong&gt;令外界对其战略方向的清晰度产生质疑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;受财报表现不及预期拖累，公司股价在盘前交易时段即下挫逾14%。正式开盘后抛压持续释放，股价大幅低开约22%，截至收盘跌幅虽有所收窄，但全天仍重挫16.84%。&lt;/p&gt;
@@ -709,31 +730,7 @@ GAAP亏损扩大，增长质量仍待检验
 &lt;p&gt;第三季度，公司GAAP净亏损达到1.612亿美元，较去年同期的2220万美元明显扩大；GAAP营业亏损达到2.241亿美元。相比之下，公司核心营业利润率为-14.3%，仍未实现调整后营业盈利。&lt;/p&gt;
 &lt;p&gt;股权激励费用是两种财务口径出现明显差异的重要因素。第三季度，公司股权激励费用达到1.551亿美元，前三季度累计达到5.417亿美元。此外，客户认股权证摊销也对GAAP业绩产生影响。&lt;/p&gt;
 &lt;p&gt;从毛利率来看，第三季度GAAP毛利率为20%，核心毛利率为41%。公司预计第四季度核心毛利率将进一步升至47%至49%，但这一改善仍有待后续财报验证。&lt;/p&gt;
-&lt;p&gt;对Cerebras而言，AI推理需求增长、云服务客户拓展和算力基础设施扩张，正在推动公司营收快速增长。但在高额资本投入和股权激励费用的背景下，订单能否按期转化为收入，以及规模扩张能否带来持续的盈利改善，仍是投资者需要关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中金大并购进入人事阶段，东兴、信达原董事长加盟高管层</title><link>https://wallstreetcn.com/articles/3785856</link><guid>af5e43d3ef12336a088052bcdec26ab7129525d3349141af9796e555a862b7ba</guid><pubDate>Fri, 13 Nov 2026 02:13:06 GMT</pubDate><description>&lt;p&gt;中金公司吸收合并东兴证券、信达证券的过程进入深度整合阶段。&lt;/p&gt;
-&lt;p&gt;日前，东兴证券原董事长李娟、信达证券原董事长林志忠正式公告亮相，出任中金公司总裁助理、管理委员会成员，两位原公司“一把手”由此进入中金的高管序列。&lt;/p&gt;
-&lt;p&gt;此前的9月14日，东兴证券、信达证券走完自己在A股的最后一个交易日。10月19日两只股票终止上市，仅仅7天后，中金公司换股吸收合并两家公司完成交割。&lt;/p&gt;
-&lt;p&gt;显然，这场中央汇金旗下的券商战略整合，进入了人事安置与业务融合的关键环节。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-中金管委会新增两名核心成员
-&lt;p&gt;人事落定的第一步，是董事会程序上的确认。公告显示，11月11日公司完成书面投票，本次应参与表决董事8名，实际参与表决8名，聘任李娟、林志忠的两项议案均获全票通过。&lt;/p&gt;
-&lt;p&gt;根据中金公司章程，管理委员会是公司核心经营机构，成员由董事会聘任。本次任命前管委会共有10名成员，随着李娟、林志忠加入，管委会扩充至12人。&lt;/p&gt;
-&lt;p&gt;今年以来，中金管委会已经历多轮人事调整，既有老成员离任，也有新高管加盟。在此背景下，两位原被整合券商董事长的入局备受市场关注，不过公告暂未披露他们后续分管的业务方向。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-东兴证券一把手出任中金总裁助理
-&lt;p&gt;此次任命的两位高管中，李娟，1970年4月生，山西大学法学硕士，北大法学博士，高级经济师。&lt;/p&gt;
-&lt;p&gt;她早年在中国银行总行法律相关岗位任职，之后长期深耕中国东方资管体系，从法律条线起步，历任法律事务部总经理、天津办事处总经理、北京分公司总经理、邦信资产董事长等职务，法律与AMC业务经验扎实。&lt;/p&gt;
-&lt;p&gt;2022年10月起，李娟出任东兴证券董事长、法定代表人。期间因总经理岗位空缺，曾临时代行总经理职责，显然，她是过去四年东兴证券的“话事人”。&lt;/p&gt;
-&lt;p&gt;任职期间，东兴证券业绩走出修复上行曲线：2022年受市场环境拖累业绩承压，2023年之后归母净利润连续增长，2024年净利润同比增幅接近90%，2025年利润继续走高并落地中期分红。&lt;/p&gt;
-信达证券一把手同步“任命”
-&lt;p&gt;来自信达证券的林志忠，年龄比李娟大了7个月。他1969年9月，南开大学金融学博士，高级经济师，持有证券从业资格。&lt;/p&gt;
-&lt;p&gt;简历显示，林志忠早年任职于建设银行，之后长期扎根中国信达AMC体系，先后在总部及湖南、深圳、福建、上海多家分公司担任负责人，还出任过中国金谷国际信托董事长，在不良资产、股权经营、信托领域经验丰富。&lt;/p&gt;
-&lt;p&gt;2025年8月，他补选为信达证券非独立董事，同年9月当选董事长，同时担任战略规划委员会主任委员。彼时信达证券登陆A股还不到三年。林志忠在其履职后，公司延续增长势头，2026年一季度净利润同比翻倍。&lt;/p&gt;
-定位和岗位职责有待宣布
-&lt;p&gt;作为被并购券商的“掌门人”，李娟、林志忠加入中金公司的管委会，协助后续深度整合是常见的人事安排。&lt;/p&gt;
-&lt;p&gt;两人在位首先是协助稳定人员团队预期。两人分别掌舵东兴证券、信达证券多年，熟悉原机构的业务和人员队伍。进入存续公司管委会，有助于降低客户迁移、网点更名和人员安置过程中的摩擦成本。&lt;/p&gt;
-&lt;p&gt;其次也方便公司善用人才和已有公司的资源，包括协调对口股东的资源。李娟长期在中国东方法律与AMC条线任职，林志忠在中国信达总部及多地担任过负责人，两人既懂不良资产处置逻辑，也熟悉股东内部决策与客户关系，能把中金的投行、研究和产品能力与AMC的资产端对接起来。&lt;/p&gt;
-&lt;p&gt;对此，中金曾明确，将依托这一股东接口，发挥“投资—投行—投研”三投联动优势，重点布局资产投行和产业投行，切入头部券商尚未充分覆盖的特殊资产赛道。&lt;/p&gt;
-&lt;p&gt;当然，接口搭建完成不等于协同自动落地。网点、风控、考核、企业文化的磨合是长期工程，特殊资产投行的业务闭环能否跑通、订单转化效率如何，都需要时间验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 头部量化员工涉“为他人牟利”？监管公告“警示”</title><link>https://wallstreetcn.com/articles/3785864</link><guid>78f7c7f4ff8f8532c5c7af1cc66ef4122e7a7dc1cc3fdcd7eb192ea7922a1d4c</guid><pubDate>Fri, 13 Nov 2026 03:31:32 GMT</pubDate><description>&lt;p&gt;上海证监局一纸警示函，把私募量化员工们的合规话题推到了市场聚光灯下。&lt;/p&gt;
+&lt;p&gt;对Cerebras而言，AI推理需求增长、云服务客户拓展和算力基础设施扩张，正在推动公司营收快速增长。但在高额资本投入和股权激励费用的背景下，订单能否按期转化为收入，以及规模扩张能否带来持续的盈利改善，仍是投资者需要关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 头部量化员工涉“为他人牟利”？监管公告“警示”</title><link>https://wallstreetcn.com/articles/3785864</link><guid>78f7c7f4ff8f8532c5c7af1cc66ef4122e7a7dc1cc3fdcd7eb192ea7922a1d4c</guid><pubDate>Fri, 13 Nov 2026 03:31:32 GMT</pubDate><description>&lt;p&gt;上海证监局一纸警示函，把私募量化员工们的合规话题推到了市场聚光灯下。&lt;/p&gt;
 &lt;p&gt;该监管局日前发布的一项行政执法公告认定，私募基金从业人员何云，在从事私募基金业务过程中存在利用职务便利为投资者以外的人牟取利益的情形，违反了《私募投资基金监督管理条例》第三十条第二项、《私募投资基金监督管理暂行办法》第二十三条第三项相关规定。特地予以警示。&lt;/p&gt;
 &lt;p&gt;这背后的“详情”如何，值得追索。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
