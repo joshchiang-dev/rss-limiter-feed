@@ -1,5 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 00:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] 黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌</title><link>https://wallstreetcn.com/articles/3785829</link><guid>ad1ae7a0babda2727b83198b461fe03da51800b88b407fb643bbe6f6a7655a3d</guid><pubDate>Fri, 13 Nov 2026 00:05:31 GMT</pubDate><description>&lt;p&gt;英伟达创始人、首席执行官黄仁勋突然离任，全球AI产业迎来重大领导层变局。这家由黄仁勋一手打造、并成为全球AI算力基础设施核心供应商的科技巨头，正式进入后黄仁勋时代。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 01:29:22 GMT</lastBuildDate><item><title>[华尔街见闻] 一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title><link>https://wallstreetcn.com/articles/3785854</link><guid>1ce5c73b944913e1f3a533bb6af3c9445d3851d780920822ba4c060035cd1f15</guid><pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate><description>&lt;p&gt;黄仁勋离开了他掌舵33年的英伟达。&lt;/p&gt;
+&lt;p&gt;“英伟达从来都不是为了在他不在的情况下而建立的。”知名半导体研究机构Semianalysis在最新报告中写道。&lt;/p&gt;
+&lt;p&gt;Semianalysis将英伟达类比成下一个苹果。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在如此规模和体量下，只有另一个有远见的创始人公司在创始人离任后依然发展良好的案例，那就是史蒂夫·乔布斯领导下的苹果公司。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX和特斯拉在没有埃隆的情况下无法运转，英伟达在没有黄仁勋的情况下也无法运转。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Semianalysis认为，后续职业经理人主导下的英伟达最可能的走向是：大规模回购股票、收缩资产负债表、放弃激进的生态系统押注。&lt;strong&gt;“公司在技术上的发展速度将不如以往”——对股东而言短期可以接受，但对整个AI产业来说是一个负面信号。&lt;/strong&gt;“没有他，技术世界将大不相同。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更大的隐忧在于：黄仁勋亲自构建的供应链优势、客户信任体系与开源生态护城河，都难以被继任者复制，而2028年超70%总产能或将转向非英伟达。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前最被看好的英伟达内部接班人是Ian Buck（现任数据中心业务副总裁，CUDA的创建者）和Jonah Alben（GPU工程高级副总裁），但Semianalysis对两者均持保留态度：“两人都很出色，但可能无法像Jensen那样掌握供应链的精髓。”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+一个王国，只有一个国王
+&lt;p&gt;黄仁勋拥有约60名直属下属，几乎涵盖所有核心职能。他曾公开表示：“CEO应该拥有最多的直属下属，因为这些人需要的管理最少。”他不开一对一会议，也不在意头衔高低。&lt;/p&gt;
+&lt;p&gt;这种极度扁平化的架构，让英伟达以约42,000名员工支撑起全球顶级的市值，被黄仁勋自称为“世界上最小的大公司”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但代价是：几乎没有人被培养成能接班的人。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Semianalysis指出，英伟达官网上在黄仁勋名下被重点介绍的高管只有五名，其中两名还是法律和财务背景。一位高管今年早些时候告诉Semianalysis：&lt;strong&gt;“Ian（Buck）宁愿死也不愿接替Jensen的位置，也不想要那个工作。Jonah（Alben）更受尊敬，人们说他可以，但同样，没有人真的想要那个工作。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，Colette Kress被任命为临时CEO，但Semianalysis认为，“要让60多名副总裁形成统一的公司愿景，需要某种特定类型的人，否则公司的方向就有可能化为乌有。”&lt;/p&gt;
+创始人的赌注，职业经理人押不下去
+&lt;p&gt;英伟达的成功史，本质上是一部押注史。&lt;/p&gt;
+&lt;p&gt;CUDA亏损多年，华尔街分析师不断质疑。黄仁勋坚持了下来。一位前员工告诉Semianalysis：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;尽管在晶体管使用有限的情况下，很多人反对将晶体管用于可编程着色器、CUDA和张量核心，但黄仁勋却让整个公司都支持它们。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;现在，英伟达内部还有两个黄仁勋称之为“零十亿美元押注”的项目——Omniverse和自动驾驶。它们今天不赚钱，但他认为它们和CUDA一样重要。&lt;/p&gt;
+&lt;p&gt;Semianalysis的判断是：继任的职业经理人不会这样押注。他们对董事会和股东的责任方式根本不同。“长期的押注和信念将变得不太可能。”&lt;/p&gt;
+&lt;p&gt;对比对象已经摆出来了——后乔布斯时代的苹果。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创始人退位，职业经理人接任，公司变得更加保守并返还现金。股东们会高兴，但公司在技术上的发展速度将不如以往。&lt;/p&gt;
+&lt;/blockquote&gt;
+客户买的是黄仁勋，不只是GPU
+&lt;p&gt;黄仁勋的离开，对英伟达客户体系的冲击同样是结构性的。&lt;/p&gt;
+&lt;p&gt;黄仁勋是芯片分配的首席决策者，是所有大客户谈判的核心。Semianalysis写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;世界各地的新云服务商之所以筹集到资金，是因为黄仁勋支持他们，而不是因为他们比较了芯片并选择了英伟达。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;具体来看，英伟达的“背书计划”让没有投资级评级的运营商也能以投资级定价借款——英伟达在第一天就以全额利润出售GPU，然后为买家设定收入底线，担保买家的房东或自行签署租赁协议。&lt;/p&gt;
+&lt;p&gt;截至最新财季，英伟达披露的表外总担保已达5300亿美元，较上一季度的1840亿美元大幅攀升，其中包括360亿美元的“不取即付”最低保障，以及990亿美元的股权持仓。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果没有黄仁勋的承诺，这个（AI融资）生态系统可能会大幅收缩。&lt;/p&gt;
+&lt;/blockquote&gt;
+供应链护城河是“个人的”
+&lt;p&gt;英伟达对供应商的控制，同样高度依赖黄仁勋的个人信用。&lt;/p&gt;
+&lt;p&gt;Semianalysis在报告中披露了一个关键细节：英伟达与SK海力士之间存在隐性的优先定价协议。他们估计，SK海力士2027年HBM4的报价，英伟达约为每Gb 3.0至3.3美元，而AMD、博通、亚马逊、谷歌等其他一级客户则需支付每Gb 3.7至4.1美元——作为回报，英伟达给予SK集团优先GPU分配权。&lt;/p&gt;
+&lt;p&gt;英伟达的供应和产能承诺在单季度内从1190亿美元跳升至2790亿美元，主要用于锁定内存。&lt;/p&gt;
+&lt;p&gt;这些都是黄仁勋以CEO对CEO的方式亲自谈下来的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有他，这些公司将不再同等程度地优先考虑英伟达，而其他人将更容易获得产能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Semianalysis预测，&lt;strong&gt;到2028年，超过70%的总产能可能不再流向英伟达。&lt;/strong&gt;&lt;/p&gt;
+开源生态的裂口
+&lt;p&gt;黄仁勋还扮演着另一个外界较少关注的角色：英伟达与全球AI开源社区之间的纽带。&lt;/p&gt;
+&lt;p&gt;Semianalysis指出，这是一个“公开的秘密”——英伟达的开发者技术团队（DevTech）与多家前沿AI实验室密切合作，双方的工程交流催生了DeepGEMM、DeepEP、MiniMax MSA等一系列针对Blackwell GPU优化的内核库创新。这些成果随后扩散至全球开源社区，被SGLang、vLLM等广泛使用的推理引擎采用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有Jensen作为发言人并为开源模型提供财务和工程支持，这些实验室可能不得不回到直接否认拥有任何英伟达GPU，并将英伟达软件仅限于内部使用。&lt;/p&gt;
+&lt;p&gt;中国的创新将不再能在英伟达生态系统和通用机器学习生态系统中共享，这从根本上是坏事。这对封闭的AI实验室是积极的，但对初创公司是坏事。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌</title><link>https://wallstreetcn.com/articles/3785829</link><guid>ad1ae7a0babda2727b83198b461fe03da51800b88b407fb643bbe6f6a7655a3d</guid><pubDate>Fri, 13 Nov 2026 00:05:31 GMT</pubDate><description>&lt;p&gt;英伟达创始人、首席执行官黄仁勋突然离任，全球AI产业迎来重大领导层变局。这家由黄仁勋一手打造、并成为全球AI算力基础设施核心供应商的科技巨头，正式进入后黄仁勋时代。&lt;/p&gt;
 &lt;p&gt;当地时间11月12日，&lt;strong&gt;英伟达宣布，黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司首席财务官Colette Kress接任临时CEO，董事会将同时考虑内部和外部候选人，启动正式继任者遴选程序。公司还任命长期董事、前Synopsys CEO Harvey Jones为首任董事长。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一人事变动发生在英伟达经历一系列个人关系争议及国家安全调查之后。黄仁勋的离任不仅令投资者重新评估英伟达对创始人的依赖程度，也将AI产业融资模式以及全球算力投资前景推向新的不确定性之中。&lt;/p&gt;
 &lt;p&gt;消息公布后，英伟达股价盘中一度暴跌14.3%，市值一度跌破4万亿美元，随后跌幅大幅收窄，最终收跌4.3%。&lt;/p&gt;
@@ -241,24 +296,7 @@ AI基础设施收入预计达90亿美元，思科试图补上AI早期缺位
 &lt;p&gt;实际利率上行通常对黄金构成压制，&lt;strong&gt;现货黄金&lt;/strong&gt;重挫2.8%至3874.38美元/盎司。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;跌幅更深，下挫4%至71324美元，回落至8月以来最低水平。&lt;strong&gt;以太坊&lt;/strong&gt;亦跌2.8%至2011美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易</title><link>https://wallstreetcn.com/articles/3785849</link><guid>2942302adad55a79696862084f6b02e21f22ee9bf7f377ca3de80ed9b7b8ff6e</guid><pubDate>Fri, 13 Nov 2026 00:12:20 GMT</pubDate><description>&lt;p&gt;SpaceX与特斯拉的合并谈判正在加速推进，这笔交易一旦落地，将成为全球有史以来规模最大的并购案，彻底重塑全球交易市场的边界。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据彭博报道，&lt;/strong&gt;知情人士透露，&lt;strong&gt;双方最快可能在12月宣布这笔交易&lt;/strong&gt;，这一激进时间表折射出马斯克在企业运作上一贯的快节奏风格。与此同时，&lt;strong&gt;双方也讨论了公告推迟至2027年初的备选方案。&lt;/strong&gt;消息传出后，特斯拉股价当日盘中最高涨幅达1.9%，SpaceX股价同期上涨0.5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两家公司的董事会及顾问目前正就合并条款、合并后实体的治理架构等核心议题展开磋商。&lt;/strong&gt;然而，交易在正式落地前仍面临多重障碍，包括如何隔离特斯拉在中国的业务，以及SpaceX涉及美国政府和国防合同所引发的国家安全敏感性问题。&lt;/p&gt;
-谈判进展与时间节点
-&lt;p&gt;据彭博此前报道，SpaceX与特斯拉此前的目标是在明年上半年宣布交易，并力争在特朗普总统任期结束前完成合并。&lt;/p&gt;
-&lt;p&gt;马斯克于10月披露，两家公司的董事会已分别成立由独立董事组成的特别委员会，专门负责评估合并事宜。目前，双方正在讨论的核心议题之一，&lt;strong&gt;是SpaceX在交易中需向特斯拉投资者发行的股份数量。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，&lt;strong&gt;特斯拉定于12月3日召开年度股东大会&lt;/strong&gt;，这一时间节点与最快12月宣布交易的时间线高度重合。&lt;/p&gt;
-&lt;p&gt;两家公司此前已存在业务协同基础——双方正联合在德克萨斯州建设一座名为&amp;quot;Terafab&amp;quot;的半导体工厂，并持续推进联合运营的前期布局。&lt;/p&gt;
-监管与政治风险构成关键障碍
-&lt;p&gt;尽管谈判提速，交易面临的障碍不容忽视。据报道，知情人士指出，&lt;strong&gt;如何隔离特斯拉在中国的业务&lt;/strong&gt;，是双方必须解决的核心难题之一。&lt;/p&gt;
-&lt;p&gt;摩根大通分析师Rajat Gupta上月在研报中向客户指出，SpaceX涉及美国政府及国防合同的国家安全敏感性，与特斯拉在中国规模庞大且盈利丰厚的制造业务，构成&amp;quot;相互对立的关键动态&amp;quot;，将对交易获得监管及股东批准形成重大挑战。&lt;/p&gt;
-&lt;p&gt;与此同时，此次合并也将成为美国中期选举后政治生态的重要试金石。&lt;strong&gt;民主党在此次中期选举中重新掌控国会&lt;/strong&gt;，并已承诺对马斯克的商业及政治活动展开调查，这为交易的推进增添了额外的政治不确定性。&lt;/p&gt;
-交易规模史无前例，AI战略逻辑驱动合并
-&lt;p&gt;此次合并将在华尔街掀起轩然大波。合并后的实体将囊括电动汽车、储能电池、火箭及卫星业务，&lt;strong&gt;合并体量按当前市值估算超过3.4万亿美元&lt;/strong&gt;——SpaceX市值逾1.9万亿美元，特斯拉市值约1.5万亿美元。&lt;/p&gt;
-&lt;p&gt;将上述资产整合于同一屋檐下的核心逻辑，在于双方共同的战略雄心：&lt;strong&gt;跨越太空、无人驾驶汽车与人形机器人三大领域，全面布局人工智能&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;SpaceX正式名称为Space Exploration Technologies Corp.，总部位于得克萨斯州星际基地（Starbase）。该公司于今年6月在纽约完成具有里程碑意义的首次公开募股，此次上市也令马斯克成为全球首位身家突破万亿美元的富豪。近年来，SpaceX已从领先的火箭制造商和发射服务商，转型为向Anthropic PBC等企业提供AI基础设施的关键供应商，同时也是全球顶级的太空互联网服务提供商。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 不用Flash命名，谷歌发布Gemini 4 Hydrogen：幻觉减少5倍，速度翻倍</title><link>https://wallstreetcn.com/articles/3785836</link><guid>ca2b6b0ca717bef3c4af2436eaad4a26b93e92d3f9eb7fad4026f6c984c4ec11</guid><pubDate>Thu, 12 Nov 2026 21:23:32 GMT</pubDate><description>&lt;p&gt;谷歌以一款面向普通用户和开发者的高效能模型，全面扩大Gemini 4系列的覆盖半径。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 不用Flash命名，谷歌发布Gemini 4 Hydrogen：幻觉减少5倍，速度翻倍</title><link>https://wallstreetcn.com/articles/3785836</link><guid>ca2b6b0ca717bef3c4af2436eaad4a26b93e92d3f9eb7fad4026f6c984c4ec11</guid><pubDate>Thu, 12 Nov 2026 21:23:32 GMT</pubDate><description>&lt;p&gt;谷歌以一款面向普通用户和开发者的高效能模型，全面扩大Gemini 4系列的覆盖半径。&lt;/p&gt;
 &lt;p&gt;继本周推出旗舰模型Carbon之后，谷歌周四发布Gemini 4 Hydrogen，以&amp;quot;为所有人带来前沿智能&amp;quot;为核心定位。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;该模型主打速度与执行效率，放弃沿用的&amp;quot;Flash&amp;quot;品牌命名，以Hydrogen取而代之。&lt;/strong&gt;&lt;/p&gt;
@@ -337,7 +375,125 @@ GAAP亏损扩大，增长质量仍待检验
 &lt;p&gt;第三季度，公司GAAP净亏损达到1.612亿美元，较去年同期的2220万美元明显扩大；GAAP营业亏损达到2.241亿美元。相比之下，公司核心营业利润率为-14.3%，仍未实现调整后营业盈利。&lt;/p&gt;
 &lt;p&gt;股权激励费用是两种财务口径出现明显差异的重要因素。第三季度，公司股权激励费用达到1.551亿美元，前三季度累计达到5.417亿美元。此外，客户认股权证摊销也对GAAP业绩产生影响。&lt;/p&gt;
 &lt;p&gt;从毛利率来看，第三季度GAAP毛利率为20%，核心毛利率为41%。公司预计第四季度核心毛利率将进一步升至47%至49%，但这一改善仍有待后续财报验证。&lt;/p&gt;
-&lt;p&gt;对Cerebras而言，AI推理需求增长、云服务客户拓展和算力基础设施扩张，正在推动公司营收快速增长。但在高额资本投入和股权激励费用的背景下，订单能否按期转化为收入，以及规模扩张能否带来持续的盈利改善，仍是投资者需要关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 4连涨！短期美债收益率创2022年以来最快涨幅，市场押注美联储加息</title><link>https://wallstreetcn.com/articles/3785847</link><guid>c45f4a889ea40cea10de7d1646eb542e577f9e4b40fad48207fdf168f8b30c28</guid><pubDate>Fri, 13 Nov 2026 00:11:51 GMT</pubDate><description>&lt;p&gt;美国短期国债收益率在四个交易日内完成了自2022年加息周期以来最大幅度的跳升，市场正在重新定价美联储政策预期——押注利率将更高、更持久。&lt;/p&gt;
+&lt;p&gt;对Cerebras而言，AI推理需求增长、云服务客户拓展和算力基础设施扩张，正在推动公司营收快速增长。但在高额资本投入和股权激励费用的背景下，订单能否按期转化为收入，以及规模扩张能否带来持续的盈利改善，仍是投资者需要关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易</title><link>https://wallstreetcn.com/articles/3785849</link><guid>2942302adad55a79696862084f6b02e21f22ee9bf7f377ca3de80ed9b7b8ff6e</guid><pubDate>Fri, 13 Nov 2026 00:12:20 GMT</pubDate><description>&lt;p&gt;SpaceX与特斯拉的合并谈判正在加速推进，这笔交易一旦落地，将成为全球有史以来规模最大的并购案，彻底重塑全球交易市场的边界。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据彭博报道，&lt;/strong&gt;知情人士透露，&lt;strong&gt;双方最快可能在12月宣布这笔交易&lt;/strong&gt;，这一激进时间表折射出马斯克在企业运作上一贯的快节奏风格。与此同时，&lt;strong&gt;双方也讨论了公告推迟至2027年初的备选方案。&lt;/strong&gt;消息传出后，特斯拉股价当日盘中最高涨幅达1.9%，SpaceX股价同期上涨0.5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两家公司的董事会及顾问目前正就合并条款、合并后实体的治理架构等核心议题展开磋商。&lt;/strong&gt;然而，交易在正式落地前仍面临多重障碍，包括如何隔离特斯拉在中国的业务，以及SpaceX涉及美国政府和国防合同所引发的国家安全敏感性问题。&lt;/p&gt;
+谈判进展与时间节点
+&lt;p&gt;据彭博此前报道，SpaceX与特斯拉此前的目标是在明年上半年宣布交易，并力争在特朗普总统任期结束前完成合并。&lt;/p&gt;
+&lt;p&gt;马斯克于10月披露，两家公司的董事会已分别成立由独立董事组成的特别委员会，专门负责评估合并事宜。目前，双方正在讨论的核心议题之一，&lt;strong&gt;是SpaceX在交易中需向特斯拉投资者发行的股份数量。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得关注的是，&lt;strong&gt;特斯拉定于12月3日召开年度股东大会&lt;/strong&gt;，这一时间节点与最快12月宣布交易的时间线高度重合。&lt;/p&gt;
+&lt;p&gt;两家公司此前已存在业务协同基础——双方正联合在德克萨斯州建设一座名为&amp;quot;Terafab&amp;quot;的半导体工厂，并持续推进联合运营的前期布局。&lt;/p&gt;
+监管与政治风险构成关键障碍
+&lt;p&gt;尽管谈判提速，交易面临的障碍不容忽视。据报道，知情人士指出，&lt;strong&gt;如何隔离特斯拉在中国的业务&lt;/strong&gt;，是双方必须解决的核心难题之一。&lt;/p&gt;
+&lt;p&gt;摩根大通分析师Rajat Gupta上月在研报中向客户指出，SpaceX涉及美国政府及国防合同的国家安全敏感性，与特斯拉在中国规模庞大且盈利丰厚的制造业务，构成&amp;quot;相互对立的关键动态&amp;quot;，将对交易获得监管及股东批准形成重大挑战。&lt;/p&gt;
+&lt;p&gt;与此同时，此次合并也将成为美国中期选举后政治生态的重要试金石。&lt;strong&gt;民主党在此次中期选举中重新掌控国会&lt;/strong&gt;，并已承诺对马斯克的商业及政治活动展开调查，这为交易的推进增添了额外的政治不确定性。&lt;/p&gt;
+交易规模史无前例，AI战略逻辑驱动合并
+&lt;p&gt;此次合并将在华尔街掀起轩然大波。合并后的实体将囊括电动汽车、储能电池、火箭及卫星业务，&lt;strong&gt;合并体量按当前市值估算超过3.4万亿美元&lt;/strong&gt;——SpaceX市值逾1.9万亿美元，特斯拉市值约1.5万亿美元。&lt;/p&gt;
+&lt;p&gt;将上述资产整合于同一屋檐下的核心逻辑，在于双方共同的战略雄心：&lt;strong&gt;跨越太空、无人驾驶汽车与人形机器人三大领域，全面布局人工智能&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;SpaceX正式名称为Space Exploration Technologies Corp.，总部位于得克萨斯州星际基地（Starbase）。该公司于今年6月在纽约完成具有里程碑意义的首次公开募股，此次上市也令马斯克成为全球首位身家突破万亿美元的富豪。近年来，SpaceX已从领先的火箭制造商和发射服务商，转型为向Anthropic PBC等企业提供AI基础设施的关键供应商，同时也是全球顶级的太空互联网服务提供商。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋下台，14家华尔街投行火速解读：共识是“无人可替”，有人感叹“他哪来的时间？”</title><link>https://wallstreetcn.com/articles/3785851</link><guid>af4f396574cead62ec429b167e17c934cebfc544a4f9b05f3f50615714199425</guid><pubDate>Fri, 13 Nov 2026 01:15:03 GMT</pubDate><description>&lt;p&gt;英伟达已经宣布，公司联合创始人、执掌公司33年的唯一一任CEO黄仁勋即时辞职，同时卸任董事会职务。CFO Colette Kress兼任临时CEO，Synopsys资深人士Harvey Jones出任公司首位董事会主席，永久CEO人选将同时考虑内外部候选人。&lt;/p&gt;
+&lt;p&gt;消息在美东时间12日上午8点48分落地。到开盘前，英伟达股价已跌约10%至156美元附近，跌破52周低点164.27美元。单日市值蒸发约4200亿美元，过去一个月公司市值已累计缩水约三分之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当晚，华尔街14家投行的研报涌入分析师和基金经理的收件箱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下调英伟达评级的有3家：Bernstein、KeyBanc、William Blair。下调目标价的有6家：Bernstein、摩根大通、RBC、Cantor、高盛、花旗。&lt;strong&gt;但绝大多数维持买入评级——核心逻辑是“订单已排满至2028年，基本面短期无虞”。&lt;/strong&gt;13家投行平均目标价约260美元，较盘前价格有约50%上行空间。&lt;/p&gt;
+&lt;p&gt;针对谁能接班黄仁勋这一话题。Seaport的Jay Goldberg在研报里写道——“&lt;strong&gt;简而言之，没有人能穿上黄仁勋的皮夹克。（No One Can Fill Jensen&amp;#x27;s Leather Jacket）”&lt;/strong&gt;。60个直属下属，几乎零个接班人。Bernstein的Stacy Rasgon分析师则感叹“他哪来的时间？”。&lt;/p&gt;
+&lt;p&gt;真正的担忧是黄仁勋亲手构建的AI生态融资体系，将随他离开而骤然存疑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+高盛：离职有意义，但可控——像乔布斯之后的苹果
+&lt;p&gt;高盛选择等到新闻稿正式发出后才动笔。分析师James Schneider给出的定性是：&lt;strong&gt;黄仁勋离职是&amp;quot;有意义但可控的负面事件&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他维持买入评级，但将目标价从300美元下调至220美元。他的估值逻辑一目了然：EPS预测纹丝未动，仍为10.00美元；但估值倍数从30倍压缩至22倍，理由是管理层过渡期带来的能见度下降和执行风险上升。&lt;/p&gt;
+&lt;p&gt;用一句话概括卖方共识：E（盈利）不变，P/E（估值倍数）大幅下调。&lt;/p&gt;
+&lt;p&gt;Schneider将这次事件与苹果失去乔布斯做类比。2011年前后约18个月，苹果的远期市盈率从约17倍滑落至12倍，2013年一度触底9倍，直到市场确认iPhone机器没有因为乔布斯离开而停转，估值才逐步回升至约15倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Schneider认为，英伟达市场将经历同样的&amp;quot;寻找合理倍数&amp;quot;过程，直到领导层和业务势头重获清晰度。&lt;/p&gt;
+&lt;p&gt;但Schneider自己也承认，这个类比并不完美——&lt;strong&gt;苹果有提前选定的接班人，没有司法部调查，也没有国会传票威胁。&lt;/strong&gt;&lt;/p&gt;
+Bernstein长期多头转向：“他哪来的时间？”
+&lt;p&gt;Bernstein的Stacy Rasgon多年来是华尔街最受尊重的英伟达多头之一。这一次，他将评级下调至市场表现，目标价从400美元直接砍至200美元。&lt;strong&gt;研报标题只有一句话：“他哪来的时间？”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;新的指控让我们觉得，董事会已经不可能让他继续留在这个位置上了（我们见过其他CEO因为远比这轻的事情被解雇……）。如果董事会现在不采取行动，后续风险只会更大，因为更多指控似乎还会浮出水面。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他还用了一个比喻，这大概是本周英伟达持有者最难忘的一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果你在厨房里发现了两只蚂蚁，厨房里蚂蚁总数的最佳估计绝对不是两只……&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;言下之意：更多指控、更多调查、新领导人上任后还会发现什么——不确定性远未触底。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+“已售罄至2028年”——多头的核心论据
+&lt;p&gt;伯恩斯坦、KeyBanc、William Blair三家机构选择降级英伟达；伯恩斯坦、摩根大通、加拿大皇家银行（RBC）、Cantor、高盛、花旗六家下调目标价，降幅从60美元到200美元不等。&lt;/p&gt;
+&lt;p&gt;但13家投行给出的英伟达目标价均值仍有约260美元（中位数250美元）。Wedbush和法国巴黎银行（BNP Paribas）目标价均为345美元，是盘前价格的两倍有余。&lt;/p&gt;
+&lt;p&gt;多数机构仍坚守买入评级。唯一的卖出评级来自Seaport的Jay Goldberg，目标价180美元——讽刺的是，这个价格现在仍高于市场价。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;那么，为什么几乎所有人还是看多？&lt;/p&gt;
+&lt;p&gt;多头的逻辑归结为一点：黄仁勋走了，订单本留下来了。&lt;/p&gt;
+&lt;p&gt;Piper Sandler的David O&amp;#x27;Connor（增持，目标价300美元）说得最干脆：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;未来两代产品的平台和架构决策已经做完了，公司2027年的订单已经全部售罄，2028年也基本如此。现在和客户谈的，是2029年及之后的事。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wolfe的Chris Caso（跑赢大市，目标价275美元）更为直接：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果CEO被要求下台，我们认为至少到2028年，基本面和盈利完全不受影响——因为英伟达在这段时间内基本已经售罄。CEO过渡对订单甚至产品路线图都不会有任何影响，路线图已经清晰规划至2028年以后。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;RBC估计，目前需求超过供给约50%。摩根大通指出，Vera Rubin、Rubin Ultra和Feynman的量产爬坡路径已经明确。&lt;/p&gt;
+&lt;p&gt;换句话说，E没问题，唯一移动的是P/E。而且现在已经没剩多少倍数可以压缩了：周三收盘时，英伟达的2027年预期市盈率约为10倍，Piper称之为20年低点，William Blair称之为历史最低（按2028年共识盈利仅7倍）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+“没有人能穿上黄仁勋的皮夹克”：60个直属下属，零个接班人
+&lt;p&gt;如果未来两年是安全的，华尔街真正担心的是什么？&lt;/p&gt;
+&lt;p&gt;一大担忧是组织架构。Seaport的Goldberg用一句话定性了这件事：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;简单说，没有人能穿上黄仁勋的皮夹克。no one can fill Jensen&amp;#x27;s leather jacket&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他承认，有很多高管能够运营英伟达，但没有一个人在整个行业中具备同等分量。问题既是个人的，也是结构性的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这种孤岛式的结构，将导致任何内部候选人都在自己的专业领域深耕，却对其他大部分业务毫不知情。这不会是永久性障碍，但需要许多个季度来围绕新领导者重组公司。除此之外，这将是一家不同的公司——能干，但远不如现在这般充满活力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;富国银行给出了一个数字：约60位高管直接向黄仁勋汇报。分析师Quatrochi直接说，这种结构“不可持续，也无法复制”，可能对协调速度和产品上市时间产生冲击。&lt;/p&gt;
+&lt;p&gt;至于接班人名单，内部被提及最多的是Ian Buck——在英伟达工作22年、负责超大规模和高性能计算业务、被广泛认为是CUDA的缔造者，Piper称其&amp;quot;受到投资者好评&amp;quot;。William Blair加上了Jonathan Ross（Groq创始人、TPU架构师，去年12月才加入英伟达）。外部候选人方面，据媒体报道，苹果库克，AMD的苏姿丰、Arm的Rene Haas以及美光科技的Sanjay Mehrotra均被提及。&lt;/p&gt;
+&lt;p&gt;摩根大通将这个问题分成了短期和长期两个维度：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们认为，近期对股价而言最重要的问题是：英伟达董事会能否成功组建一支能维持公司强大执行力、继续推进现有路线图的临时管理团队。然而，超越未来2-3年之后，核心焦点将转向：管理团队是否具备前瞻性视野，能否识别加速计算领域的下一个拐点，并构建不只是芯片，还有生态系统和平台的完整体系。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;换句话说：一支临时团队可能还能把Rubin产品线送出去；但能否在所有人之前十年就预判到“下一个CUDA”，才是这家公司成为5万亿美元市值公司的真正原因。&lt;/p&gt;
+&lt;p&gt;Wedbush梳理了历史先例：Marvell（创始家族出局后最终在外部CEO带领下走向繁荣）、苹果（库克在既有接班计划下表现出色）、惠普和英特尔（两者都因高层出轨事件仓促失去CEO，没有现成接班人，随后都陷入了Bryson所称的&amp;quot;灾难性时期&amp;quot;）。&lt;/p&gt;
+&lt;p&gt;但Wedbush的结论是：没有一个案例完全符合当下情况：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在此案例中，不确定性可能进一步加剧，因为我们想不出任何一个历史先例能同时满足以下条件：一位对公司方向具有全面主导影响的创始人CEO、一家（及其CEO）对科技和科技政策如此举足轻重的公司，以及在过渡之际几乎没有明显接班计划这三个要素同时具备。&lt;/p&gt;
+&lt;/blockquote&gt;
+英伟达是AI的“央行”，而那家银行只有一个信贷官
+&lt;p&gt;华尔街还有另一重重磅担心是：钱怎么办？&lt;/p&gt;
+&lt;p&gt;英伟达不只是一家卖芯片的公司。多年来，黄仁勋将英伟达的自由现金流——每季度约500亿至600亿美元——持续注入整个AI生态：给OpenAI、Anthropic、xAI做股权投资，给CoreWeave等新兴云计算公司提供资产背书，向光纤器件供应商Lumentum、Coherent、Corning预付款并持股。&lt;/p&gt;
+&lt;p&gt;UBS的Tim Arcuri将其列为影响最大的三个方面之首：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;英伟达已经成为众多AI行业参与者的关键资金来源，包括新兴云服务商、大语言模型开发者、生态系统合作伙伴和供应商。我们一直认为黄仁勋是推动这一努力的核心力量。即便新领导人最终维持类似做法，也很可能出现一段&amp;#x27;暂停期&amp;#x27;……我们估计英伟达每季度产生约500亿至600亿美元自由现金流，其中很大一部分被回流进了整个系统。这可能轻易从系统中抽走500亿美元或更多——而这恰恰发生在利率上升、信贷市场部分领域流动性收紧的关键时刻。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;William Blair的结论更直接，这也是其下调评级的核心原因：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;现有合同会在CEO更迭后继续执行，但真正处于风险中的是下一轮交易——以及英伟达在2027年及之后捍卫市场份额的能力。没有了黄仁勋，或者他因调查和审查而严重受限，我们认为英伟达可能向博通和AMD等竞争对手敞开更大的缺口。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Seaport的Goldberg更进一步指出，黄仁勋两个月前宣布的一项5000亿美元融资平台计划，涉及六家私募股权基金，合同至今尚未最终签署。他认为，没有黄仁勋，这个计划很可能就此消散。&lt;/p&gt;
+&lt;p&gt;消息发出当天，CoreWeave盘前跌超11%——偏偏就在它向市场推介一笔逾40亿美元投资级贷款的同一天。&lt;/p&gt;
+政府调查没有随着辞职而消失
+&lt;p&gt;黄仁勋辞职，并不意味着监管压力解除。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wachtell律所Joon Kim主持的董事会独立调查仍在推进，司法部的Megaspeed调查仍在进行，众议院要求11月18日举行闭门简报，参议员Warren和Coons要求提交相关记录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两家投行对此做出了具体的财务量化：&lt;/p&gt;
+&lt;p&gt;高盛指出，英伟达FY26年报显示，对中国大陆、中国香港、中国台湾及美国以外地区的总销售敞口约为11%，并预计在新加坡等司法管辖区的业务将面临更多审查。&lt;/p&gt;
+&lt;p&gt;UBS认为，更严格的规则可能影响对新加坡、马来西亚等地的出货，估计约10%的收入面临风险。&lt;/p&gt;
+&lt;p&gt;RBC则指出，中国在上季度数据中心收入中占比约1%，已被排除在业绩指引之外。&lt;/p&gt;
+&lt;p&gt;Wolfe则持不同看法，认为出口担忧被夸大，因为AI芯片对华出货量本已微乎其微。&lt;/p&gt;
+英伟达的痛，竞争对手的机会
+&lt;p&gt;几乎所有机构都同意一件事：竞争对手受益。&lt;/p&gt;
+&lt;p&gt;法国巴黎银行、Seaport和William Blair均点名AMD和博通为最直接受益者，因为超大规模云厂商和AI实验室有了更多理由分散芯片来源。法国巴黎银行预计，到2030年，定制芯片可能占AI加速器出货量的近四分之三。&lt;/p&gt;
+&lt;p&gt;William Blair还点出了一个更深层的逻辑：CUDA的护城河，本质上建立在将代码移植到其他芯片的高昂成本上。而现在，AI编程助手正在让这种移植成本快速下降。Anthropic在其IPO路演材料中提到，过去让一个新加速器跑通需要6至12个月，而其Claude Mythos Preview模型在AMD MI355X上实现提示词处理，据报道只用了大约三天。&lt;/p&gt;
+&lt;p&gt;分析师Naji谨慎地指出，这一案例较为局限。但在创始人离职的同一周，这种消息流传开来，本身就耐人寻味。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+所有人都指向同一个底部
+&lt;p&gt;那么股价底部在哪？&lt;/p&gt;
+&lt;p&gt;华尔街的答案出奇一致——而根据经验，这种一致本身并不是好兆头。&lt;/p&gt;
+&lt;p&gt;Cantor认为，9倍2027年预期EPS对应约150美元是合理底部。Piper将150美元定为10倍周期底部估值的支撑。KeyBanc的熊市情景也是150美元。花旗同样如此，对应11倍估值。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;盘前156美元的股价，距离华尔街共识底部仅有4%的缓冲。唯一给出更低目标的是RBC，其下行情景为100美元，对应6倍2027年预期EPS，低于英伟达五年历史估值低点。&lt;/p&gt;
+&lt;p&gt;高盛拒绝给出底部数字，并用那张苹果走势图提醒市场：周期底部估值可以在低位维持数年。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 4连涨！短期美债收益率创2022年以来最快涨幅，市场押注美联储加息</title><link>https://wallstreetcn.com/articles/3785847</link><guid>c45f4a889ea40cea10de7d1646eb542e577f9e4b40fad48207fdf168f8b30c28</guid><pubDate>Fri, 13 Nov 2026 00:11:51 GMT</pubDate><description>&lt;p&gt;美国短期国债收益率在四个交易日内完成了自2022年加息周期以来最大幅度的跳升，市场正在重新定价美联储政策预期——押注利率将更高、更持久。&lt;/p&gt;
 &lt;p&gt;周四，对美联储政策最为敏感的2年期美债收益率升至4.862%，过去四个交易日（不计周三退伍军人节休市）累计上行38.8个基点，创下自2022年6月15日以来最大四交易日涨幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，10年期美债收益率也突破5.10%，刷新心理关键阈值，对美股构成压力。&lt;/p&gt;
@@ -374,24 +530,7 @@ GAAP亏损扩大，增长质量仍待检验
 &lt;p&gt;沃什于今年5月接任美联储主席一职，主张联储减少前瞻性沟通、更多地跟随市场信号行事，其风格与前任形成鲜明对比。他还计划明年减少一次联邦公开市场委员会议息会议。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这种更为低调、被动的沟通方式，已被市场解读为政策不确定性上升的信号，并在一定程度上放大了债市对于数据和官员言论的价格敏感性。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;回溯历史，2022年那轮加息周期中，高利率冲击虽未令美国经济陷入衰退，却直接导致硅谷银行倒闭，并引发了2023年那场短暂而剧烈的区域性银行业危机。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如今，随着收益率再度逼近历史高位，市场对利率冲击的潜在连锁效应，正重新提高警觉。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋出局，英伟达5000亿美元AI融资计划也悬了</title><link>https://wallstreetcn.com/articles/3785848</link><guid>fef2562209e29a4f63767ae8729f6d4fc5b499b6d27bc89970843d76798c9612</guid><pubDate>Fri, 13 Nov 2026 00:24:07 GMT</pubDate><description>&lt;p&gt;英伟达创始人兼首席执行官黄仁勋的突然离职，令这家芯片巨头一项雄心勃勃的AI融资计划陷入更深的不确定性。这项由黄仁勋亲自主导、联合华尔街六大资产管理巨头打造的5000亿美元AI计算基础设施融资平台，在黄仁勋出局之前便已问题重重，如今前景更加扑朔迷离。&lt;/p&gt;
-&lt;p&gt;据彭博社11月13日报道，知情人士透露，在过去数月内未能促成任何交易之后，英伟达近一个月来已面临来自部分客户和华尔街合作伙伴的压力，&lt;strong&gt;要求其提高融资兜底比例&lt;/strong&gt;。英伟达目前承诺提供的“剩余价值支持协议”上限为交易规模的25%，低于竞争对手博通（Broadcom）的水平，&lt;strong&gt;这一差距被认为是阻碍交易落地的关键因素之一&lt;/strong&gt;。据其中一位知情人士称，&lt;strong&gt;英伟达最早可能要到明年1月才能宣布任何交易。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;黄仁勋的离职使局面更加复杂。据&lt;a href="https://wallstreetcn.com/articles/3785829"&gt;华尔街见闻文章&lt;/a&gt;写道，英伟达周四宣布，首席财务官Colette Kress将出任临时首席执行官，黄仁勋则与公司彻底切割。&lt;strong&gt;在黄仁勋执掌英伟达的三十年间，他是推动这一融资平台的核心人物，其离去令整个项目能否延续充满疑问。&lt;/strong&gt;&lt;/p&gt;
-华尔街联盟：从高光时刻到交易停滞
-&lt;p&gt;这一融资平台的起点，是今年8月一幕颇具象征意义的场景。身着标志性皮夹克的黄仁勋，在电视镜头前与Apollo Global Management、贝莱德（BlackRock）、黑石（Blackstone）、Brookfield Asset Management、高盛（Goldman Sachs）和KKR的高管们并肩亮相，共同宣布建立一个旨在为AI计算交易提供集体融资的平台，目标规模高达5000亿美元。&lt;/p&gt;
-&lt;p&gt;然而，据彭博报道，在这一高调宣布的背后，高盛、黑石和Apollo此前已为相关债务交易运作数月，却未能取得成果。黄仁勋在公开场合对这一5000亿美元计划大加赞扬，部分原因在于为其客户群体提振信心——这些客户正是英伟达未来需求的核心支撑。这一提振来得恰逢其时：就在宣布前数周，专注AI领域的对冲基金Situational Awareness刚刚遭遇重大亏损，冲击波蔓延至科技股和芯片股。&lt;/p&gt;
-&lt;p&gt;如今，距离那次高光亮相已过去数月，&lt;strong&gt;平台尚未促成一笔交易落地。&lt;/strong&gt;&lt;/p&gt;
-兜底比例之争：英伟达与博通的差距
-&lt;p&gt;这一融资模式的核心机制在于“剩余价值支持协议”。通常情况下，企业会设立特殊目的载体来举债购买芯片，再将芯片租赁给客户使用。这类特殊目的实体的价值来源于租赁合同产生的现金流，以及芯片本身的残值。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;由于贷款方担忧持续烧钱的AI企业可能违约，芯片厂商提供的兜底支持对于吸引贷款方至关重要。&lt;/strong&gt;其运作逻辑是：一旦租赁付款中断，相关资产将被重新租出或出售以偿还剩余债务；若仍存在缺口，则由兜底方补足差额。这一机制不仅能吸引更多贷款方参与，还有助于获得更高信用评级，从而降低融资成本。&lt;/p&gt;
-&lt;p&gt;博通已通过其今年6月与Apollo和黑石共同建立的“AI XPV”平台率先落地此类交易。今年5月，博通为一笔350亿美元债务交易中的300亿美元提供了兜底，支持Anthropic租赁博通与谷歌旗下Alphabet联合生产的张量处理单元（TPU）芯片，获得兜底支持的部分取得了投资级评级和更低利率。&lt;strong&gt;据博通2026年10月26日提交的8-K文件，博通还将为另一笔630亿美元的交易提供72.5%（约430亿美元）的兜底支持，同样服务于Anthropic。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;相比之下，英伟达仅承诺提供25%的兜底比例。据报道，知情人士表示，这一差距令英伟达的交易安排更难推进，尤其是在市场上同时存在条款更为优厚的竞争性交易的情况下。&lt;/p&gt;
-&lt;p&gt;对英伟达而言，提高兜底比例并非没有代价。&lt;strong&gt;若英伟达坚持25%的上限，其芯片对AI和云计算客户而言将更难负担，对贷款方的吸引力也会下降；但若提高兜底比例，则意味着承担更多风险，同时也与其试图借助第三方资金推动AI基础设施扩张的初衷相悖。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报道称，这一平台的设计逻辑，正是希望通过引入外部资本来撬动AI算力投资的下一轮增长，而非由英伟达自身承担过多资产负债表风险。&lt;/p&gt;
-黄仁勋离去：平台失去核心推手
-&lt;p&gt;在黄仁勋执掌英伟达的三十年间，他是这家公司唯一的首席执行官。在他的主导下，英伟达被称为“AI的中央银行”，通过在整个AI生态系统中持股并提供兜底支持，为这一仍处于早期阶段的行业建立信心。&lt;/p&gt;
-&lt;p&gt;这一角色在8月的融资平台宣布中得到了最集中的体现。然而，随着黄仁勋因婚外情丑闻而被迫出局，这一平台的推进失去了最核心的驱动力。&lt;/p&gt;
-&lt;p&gt;Colette Kress接任临时首席执行官，但英伟达面临的问题已不仅仅是人事更迭。据报道，知情人士表示，黄仁勋的离职是否会令相关交易脱轨，乃至令整个项目陷入停滞，目前仍是未知数。&lt;strong&gt;可以确定的是，下一次提振市场信心的力量，将不得不来自黄仁勋以外的地方。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”</title><link>https://wallstreetcn.com/articles/3785850</link><guid>ecba5a7c99de6def4af07ae8200b987822aee2cbfc90ce7560fad67a5259bb15</guid><pubDate>Fri, 13 Nov 2026 00:40:56 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://www.news.cn/world/20261112/b3a88a80fe4d4a5dbf7aeab4dacbe205/c.html"&gt;新华社&lt;/a&gt;报道，美国总统特朗普12日在社交媒体上称，已要求副总统万斯把全部注意力集中在美国各地民主党执政城市和州“正在发生的大规模腐败与犯罪”上，并称美国不需要与伊朗达成协议。这一表态标志着特朗普对伊政策出现重大转向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如今，随着收益率再度逼近历史高位，市场对利率冲击的潜在连锁效应，正重新提高警觉。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”</title><link>https://wallstreetcn.com/articles/3785850</link><guid>ecba5a7c99de6def4af07ae8200b987822aee2cbfc90ce7560fad67a5259bb15</guid><pubDate>Fri, 13 Nov 2026 00:40:56 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://www.news.cn/world/20261112/b3a88a80fe4d4a5dbf7aeab4dacbe205/c.html"&gt;新华社&lt;/a&gt;报道，美国总统特朗普12日在社交媒体上称，已要求副总统万斯把全部注意力集中在美国各地民主党执政城市和州“正在发生的大规模腐败与犯罪”上，并称美国不需要与伊朗达成协议。这一表态标志着特朗普对伊政策出现重大转向。&lt;/p&gt;
 &lt;p&gt;当地时间11月12日，特朗普称，&lt;strong&gt;“&lt;/strong&gt;&lt;a href="https://www.news.cn/world/20261113/43e5ea523fb547f0a4dc20ffbb1c0b15/c.html"&gt;&lt;strong&gt;我们不需要与伊朗达成任何协议，那些日子早已过去&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;”&lt;/strong&gt;，同时叫停万斯正在推进的美伊谈判进程，放弃此前坚持的以核协议为目标的战争逻辑，转而接受一种“不战不谈”的僵局状态。这是特朗普在伊朗问题上又一次急剧转向——此前他曾多次威胁称若无法达成协议将发动新一轮打击。&lt;/p&gt;
 &lt;p&gt;上述转变发生在共和党于上周中期选举中遭遇重挫之后。分析人士指出，伊朗战事的高度不受欢迎是共和党失利的重要因素之一，这迫使特朗普在升级军事行动与维持现状之间寻找第三条路。油价在特朗普发表上述评论后持续走高，&lt;strong&gt;布伦特原油周四收涨3.3%，报每桶约96美元&lt;/strong&gt;，反映出市场对波斯湾地缘政治紧张局势将持续的预期。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -417,24 +556,4 @@ GAAP亏损扩大，增长质量仍待检验
 &lt;p&gt;根据英伟达的股权补偿政策，高管一旦终止连续服务，未归属的限制性股票单元（RSU）将予以没收。黄仁勋持有约34.6万个此类单元，并有望通过公司股权激励计划获得约31万股——前提是公司业绩达到特定目标。&lt;/p&gt;
 &lt;p&gt;与众多科技公司CEO不同，黄仁勋的财富几乎全部来源于英伟达普通股持仓，而非股票期权或其他形式的股权补偿。&lt;/p&gt;
 &lt;p&gt;彭博财富指数显示，他持有这家总部位于加利福尼亚州圣克拉拉的公司约3.5%的投票权益，占其总财富的近97%。由于英伟达仅设一类股份，黄仁勋并不持有任何特别投票权。&lt;/p&gt;
-&lt;p&gt;这位63岁的联合创始人在过去两个财年的现金薪酬均约为750万美元，相较于其净资产几乎可忽略不计。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国成屋销售跌至16年低点，高利率与通胀持续压制购房需求</title><link>https://wallstreetcn.com/articles/3785831</link><guid>93a12fff484d3d8abc916453b3c05d90b6ab6aeef8b59dc489c4ea9cef1fb0c6</guid><pubDate>Thu, 12 Nov 2026 15:40:03 GMT</pubDate><description>&lt;p&gt;美国成屋市场持续承压，10月销售量降至2010年以来最低水平，房贷利率高企与顽固通胀令潜在买家望而却步。&lt;/p&gt;
-&lt;p&gt;全国房地产经纪人协会（NAR）周四公布数据显示，&lt;strong&gt;10月成屋成交量环比下滑5.5%，折年率降至375万套。西部地区销售跌至1999年有记录以来最低，南部和中西部亦创逾十年新低。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;尽管市场需求大幅萎缩，但库存上升与价格松动迹象正逐步浮现，或为疲软的市场带来一丝转机。NAR首席经济学家Lawrence Yun表示，&lt;strong&gt;若房贷利率出现回落，当前受压抑的购房需求或将大规模释放。&lt;/strong&gt;&lt;/p&gt;
-
-高利率与通胀夹击，买家观望情绪浓厚
-
-&lt;p&gt;&lt;strong&gt;7%以上的房贷利率与持续高企的通胀是此轮成屋销售下滑的核心驱动因素。&lt;/strong&gt;对于大多数潜在买家而言，月供负担已显著超出其承受范围，购房决策被迫推迟。&lt;/p&gt;
-&lt;p&gt;NAR的住房可负担性指数——衡量普通家庭能否符合中位价格住宅贷款资格的指标——已降至2025年年中以来的最低水平，住房成本压力在此次中期选举中亦成为影响选情的重要议题。&lt;/p&gt;
-&lt;p&gt;Lawrence Yun在声明中指出：&amp;quot;在就业市场持续稳健增长的背景下，当前成屋销售表现仍如此疲软，一旦房贷利率下行，被压制的购房需求规模可能相当可观。&amp;quot;&lt;/p&gt;
-
-库存回升，价格涨幅收窄至近期低点
-
-&lt;p&gt;供给端出现边际改善。NAR数据显示，&lt;strong&gt;10月成屋在售库存同比增加4.6%至159万套，为2019年以来同期最高；以当前销售速度计算，相当于5.1个月的供应量，为2015年底以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;价格方面，10月成屋销售中位价为416,700美元，同比仅上涨0.4%，为今年2月以来最小年度涨幅，价格上行动能明显减弱。&lt;/p&gt;
-&lt;p&gt;据彭博报道，彭博行业研究分析师Drew Reading在11月9日的报告中指出，尽管新增挂牌数量有所减少，但市场现有库存仍持续增加，这进一步表明价格压力正在积聚。&lt;/p&gt;
-
-价格松动信号显现，降价挂牌比例创纪录
-
-&lt;p&gt;需求退潮已推动更多卖家主动调整定价策略。在线房产平台Redfin本周发布的独立数据显示，&lt;strong&gt;上月成交房屋中有36%经历过至少一次降价，为该平台有记录以来的最高比例。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，NAR数据还显示，10月成屋公寓销售同比下滑至1999年有记录以来的最低水平，市场疲态延伸至多个细分领域。&lt;/p&gt;
-&lt;p&gt;与此同时，周四另有数据显示，上周美国申请失业救济人数升至20万，但整体仍处于历史低位，就业市场尚未出现明显恶化迹象。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这位63岁的联合创始人在过去两个财年的现金薪酬均约为750万美元，相较于其净资产几乎可忽略不计。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
