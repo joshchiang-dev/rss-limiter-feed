@@ -1,60 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 12:59:20 GMT</lastBuildDate><item><title>[华尔街见闻] 一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title><link>https://wallstreetcn.com/articles/3785854</link><guid>1ce5c73b944913e1f3a533bb6af3c9445d3851d780920822ba4c060035cd1f15</guid><pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate><description>&lt;p&gt;黄仁勋离开了他掌舵33年的英伟达。&lt;/p&gt;
-&lt;p&gt;“英伟达从来都不是为了在他不在的情况下而建立的。”知名半导体研究机构Semianalysis在最新报告中写道。&lt;/p&gt;
-&lt;p&gt;Semianalysis将英伟达类比成下一个苹果。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在如此规模和体量下，只有另一个有远见的创始人公司在创始人离任后依然发展良好的案例，那就是史蒂夫·乔布斯领导下的苹果公司。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SpaceX和特斯拉在没有埃隆的情况下无法运转，英伟达在没有黄仁勋的情况下也无法运转。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Semianalysis认为，后续职业经理人主导下的英伟达最可能的走向是：大规模回购股票、收缩资产负债表、放弃激进的生态系统押注。&lt;strong&gt;“公司在技术上的发展速度将不如以往”——对股东而言短期可以接受，但对整个AI产业来说是一个负面信号。&lt;/strong&gt;“没有他，技术世界将大不相同。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;更大的隐忧在于：黄仁勋亲自构建的供应链优势、客户信任体系与开源生态护城河，都难以被继任者复制，而2028年超70%总产能或将转向非英伟达。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前最被看好的英伟达内部接班人是Ian Buck（现任数据中心业务副总裁，CUDA的创建者）和Jonah Alben（GPU工程高级副总裁），但Semianalysis对两者均持保留态度：“两人都很出色，但可能无法像Jensen那样掌握供应链的精髓。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-一个王国，只有一个国王
-&lt;p&gt;黄仁勋拥有约60名直属下属，几乎涵盖所有核心职能。他曾公开表示：“CEO应该拥有最多的直属下属，因为这些人需要的管理最少。”他不开一对一会议，也不在意头衔高低。&lt;/p&gt;
-&lt;p&gt;这种极度扁平化的架构，让英伟达以约42,000名员工支撑起全球顶级的市值，被黄仁勋自称为“世界上最小的大公司”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但代价是：几乎没有人被培养成能接班的人。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Semianalysis指出，英伟达官网上在黄仁勋名下被重点介绍的高管只有五名，其中两名还是法律和财务背景。一位高管今年早些时候告诉Semianalysis：&lt;strong&gt;“Ian（Buck）宁愿死也不愿接替Jensen的位置，也不想要那个工作。Jonah（Alben）更受尊敬，人们说他可以，但同样，没有人真的想要那个工作。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，Colette Kress被任命为临时CEO，但Semianalysis认为，“要让60多名副总裁形成统一的公司愿景，需要某种特定类型的人，否则公司的方向就有可能化为乌有。”&lt;/p&gt;
-创始人的赌注，职业经理人押不下去
-&lt;p&gt;英伟达的成功史，本质上是一部押注史。&lt;/p&gt;
-&lt;p&gt;CUDA亏损多年，华尔街分析师不断质疑。黄仁勋坚持了下来。一位前员工告诉Semianalysis：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;尽管在晶体管使用有限的情况下，很多人反对将晶体管用于可编程着色器、CUDA和张量核心，但黄仁勋却让整个公司都支持它们。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;现在，英伟达内部还有两个黄仁勋称之为“零十亿美元押注”的项目——Omniverse和自动驾驶。它们今天不赚钱，但他认为它们和CUDA一样重要。&lt;/p&gt;
-&lt;p&gt;Semianalysis的判断是：继任的职业经理人不会这样押注。他们对董事会和股东的责任方式根本不同。“长期的押注和信念将变得不太可能。”&lt;/p&gt;
-&lt;p&gt;对比对象已经摆出来了——后乔布斯时代的苹果。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;创始人退位，职业经理人接任，公司变得更加保守并返还现金。股东们会高兴，但公司在技术上的发展速度将不如以往。&lt;/p&gt;
-&lt;/blockquote&gt;
-客户买的是黄仁勋，不只是GPU
-&lt;p&gt;黄仁勋的离开，对英伟达客户体系的冲击同样是结构性的。&lt;/p&gt;
-&lt;p&gt;黄仁勋是芯片分配的首席决策者，是所有大客户谈判的核心。Semianalysis写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;世界各地的新云服务商之所以筹集到资金，是因为黄仁勋支持他们，而不是因为他们比较了芯片并选择了英伟达。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;具体来看，英伟达的“背书计划”让没有投资级评级的运营商也能以投资级定价借款——英伟达在第一天就以全额利润出售GPU，然后为买家设定收入底线，担保买家的房东或自行签署租赁协议。&lt;/p&gt;
-&lt;p&gt;截至最新财季，英伟达披露的表外总担保已达5300亿美元，较上一季度的1840亿美元大幅攀升，其中包括360亿美元的“不取即付”最低保障，以及990亿美元的股权持仓。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果没有黄仁勋的承诺，这个（AI融资）生态系统可能会大幅收缩。&lt;/p&gt;
-&lt;/blockquote&gt;
-供应链护城河是“个人的”
-&lt;p&gt;英伟达对供应商的控制，同样高度依赖黄仁勋的个人信用。&lt;/p&gt;
-&lt;p&gt;Semianalysis在报告中披露了一个关键细节：英伟达与SK海力士之间存在隐性的优先定价协议。他们估计，SK海力士2027年HBM4的报价，英伟达约为每Gb 3.0至3.3美元，而AMD、博通、亚马逊、谷歌等其他一级客户则需支付每Gb 3.7至4.1美元——作为回报，英伟达给予SK集团优先GPU分配权。&lt;/p&gt;
-&lt;p&gt;英伟达的供应和产能承诺在单季度内从1190亿美元跳升至2790亿美元，主要用于锁定内存。&lt;/p&gt;
-&lt;p&gt;这些都是黄仁勋以CEO对CEO的方式亲自谈下来的。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;没有他，这些公司将不再同等程度地优先考虑英伟达，而其他人将更容易获得产能。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Semianalysis预测，&lt;strong&gt;到2028年，超过70%的总产能可能不再流向英伟达。&lt;/strong&gt;&lt;/p&gt;
-开源生态的裂口
-&lt;p&gt;黄仁勋还扮演着另一个外界较少关注的角色：英伟达与全球AI开源社区之间的纽带。&lt;/p&gt;
-&lt;p&gt;Semianalysis指出，这是一个“公开的秘密”——英伟达的开发者技术团队（DevTech）与多家前沿AI实验室密切合作，双方的工程交流催生了DeepGEMM、DeepEP、MiniMax MSA等一系列针对Blackwell GPU优化的内核库创新。这些成果随后扩散至全球开源社区，被SGLang、vLLM等广泛使用的推理引擎采用。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;没有Jensen作为发言人并为开源模型提供财务和工程支持，这些实验室可能不得不回到直接否认拥有任何英伟达GPU，并将英伟达软件仅限于内部使用。&lt;/p&gt;
-&lt;p&gt;中国的创新将不再能在英伟达生态系统和通用机器学习生态系统中共享，这从根本上是坏事。这对封闭的AI实验室是积极的，但对初创公司是坏事。&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达跌出14年最低估值！“大多头”Tom Lee喊抄底，散户越跌越买，华尔街却出现分歧</title><link>https://wallstreetcn.com/articles/3785898</link><guid>2f5e810abf389ec4aeed514d675b398f61c936398032354d4d41d0ce2207cad1</guid><pubDate>Fri, 13 Nov 2026 11:19:34 GMT</pubDate><description>&lt;p&gt;英伟达股价遭遇重挫，远期市盈率已降至约12倍，创2012年以来最低水平。但估值跌至历史低位，并未换来华尔街的一致看多。随着创始人兼CEO黄仁勋离职，市场对这家AI芯片巨头的信心正出现明显分化。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 13:29:21 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达跌出14年最低估值！“大多头”Tom Lee喊抄底，散户越跌越买，华尔街却出现分歧</title><link>https://wallstreetcn.com/articles/3785898</link><guid>2f5e810abf389ec4aeed514d675b398f61c936398032354d4d41d0ce2207cad1</guid><pubDate>Fri, 13 Nov 2026 11:19:34 GMT</pubDate><description>&lt;p&gt;英伟达股价遭遇重挫，远期市盈率已降至约12倍，创2012年以来最低水平。但估值跌至历史低位，并未换来华尔街的一致看多。随着创始人兼CEO黄仁勋离职，市场对这家AI芯片巨头的信心正出现明显分化。&lt;/p&gt;
 &lt;p&gt;周四，英伟达股价早盘一度暴跌超过14%，随后在紧急公关和逢低买盘推动下逐步收复失地，最终收跌4.34%，报166.19美元。相比10月6日创下的阶段高点243.37美元，该股累计跌幅已超过30%。&lt;/p&gt;
 &lt;p&gt;股价暴跌之际，散户却在大举抄底。Vanda Research数据显示，&lt;strong&gt;周四开盘后首个半小时，散户净买入英伟达的资金达到1.11亿美元，创历史同期纪录。Fundstrat Global Advisors的Tom Lee、Freedom Capital Markets的Paul Meeks等知名多头也公开喊出买入，认为当前估值已经具备吸引力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;但另一边，华尔街部分机构正在撤退。&lt;strong&gt;Bernstein将英伟达评级从买入下调至市场表现，目标价从400美元砍至200美元；高盛虽然维持买入评级，却将目标价从300美元下调至220美元。&lt;/strong&gt;知名空头Michael Burry更警告，英伟达多头或许应该利用下一次财报窗口尽快离场。&lt;/p&gt;
@@ -489,7 +434,23 @@ WSE-5芯片已回片，明年夏天量产
 &lt;li&gt;&lt;strong&gt;二是全产业链在地化大发展仍在延续。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;在此背景下，赵海军阐述了公司的战略路径：&lt;strong&gt;依托与客户的战略绑定，配合中国客户创新速度，将特色和客制化工艺优势做强&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;具体而言，公司将以&lt;strong&gt;客户需求为导向&lt;/strong&gt;推进产能扩充；以&lt;strong&gt;高附加值优质产品组合&lt;/strong&gt;构筑领先优势；努力稳定&lt;strong&gt;EBITDA（经营现金流能力）&lt;/strong&gt;；提升&lt;strong&gt;成本管控与运营效率&lt;/strong&gt;；增强&lt;strong&gt;穿越周期的经营韧性&lt;/strong&gt;，实现有质量、可持续的增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？</title><link>https://wallstreetcn.com/articles/3785861</link><guid>e84c124b79de038c21e075ccff3efd48c081828de4b33c91b14f650e66a02aa8</guid><pubDate>Fri, 13 Nov 2026 05:19:29 GMT</pubDate><description>&lt;p&gt;英伟达创始人兼首席执行官黄仁勋的离职来得突然而戏剧性，留下了一连串悬而未决的问题。&lt;strong&gt;从董事会周日公开表态对其信任，到周三夜间黄仁勋正式辞职，短短数日之内发生了什么，目前仍无定论。&lt;/strong&gt;这场震动科技与资本市场的人事变局，不仅牵出白宫是否从中施压的疑云，更令投资者对英伟达未来的业务走向充满不确定性。&lt;/p&gt;
+&lt;p&gt;具体而言，公司将以&lt;strong&gt;客户需求为导向&lt;/strong&gt;推进产能扩充；以&lt;strong&gt;高附加值优质产品组合&lt;/strong&gt;构筑领先优势；努力稳定&lt;strong&gt;EBITDA（经营现金流能力）&lt;/strong&gt;；提升&lt;strong&gt;成本管控与运营效率&lt;/strong&gt;；增强&lt;strong&gt;穿越周期的经营韧性&lt;/strong&gt;，实现有质量、可持续的增长。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 国会山又现“股神”？民主党议员夫妇高位减持英伟达</title><link>https://wallstreetcn.com/articles/3785902</link><guid>03606c3c84b85038957b91cd78ae395d5cb4aaad472e9f3d6f29adef15fb7909</guid><pubDate>Fri, 13 Nov 2026 13:02:43 GMT</pubDate><description>&lt;p&gt;英伟达深陷CEO丑闻、股价大幅下挫之际，一位长期倡导禁止国会议员炒股的民主党众议员，却因其配偶恰好在股价高点附近完成减持而引发外界关注。&lt;/p&gt;
+&lt;p&gt;据追踪国会议员交易记录的平台Capitol Trades披露，&lt;strong&gt;加利福尼亚州民主党众议员Ro Khanna的配偶分别于9月4日和10月7日两度出售英伟达股票，每笔交易金额在1000至15000美元之间。英伟达股价于10月6日触及历史高点，而就在次日，其配偶完成了第二笔减持。&lt;/strong&gt;此后，受黄仁勋婚外情的消息冲击，英伟达股价本周大幅下跌。&lt;/p&gt;
+&lt;p&gt;这一交易时机的高度吻合，令Khanna陷入舆论漩涡——尤其是考虑到他本人正是国会山上推动立法禁止议员持有个股的代表性倡导者之一。&lt;/p&gt;
+减持时机高度吻合历史高点
+&lt;p&gt;根据Capitol Trades数据，Khanna配偶的两笔英伟达卖出交易分别发生在9月4日和10月7日，后者恰好是英伟达股价创下历史新高后的第二个交易日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这并非Khanna家庭首次在英伟达高位附近出现减持记录。&lt;/strong&gt;今年早些时候，Khanna本人曾于5月初和5月底各出售一批英伟达股票，每笔金额同样在1000至15000美元之间，而英伟达股价于5月14日触及当时的次高点。值得注意的是，Khanna随后在6月至9月间重新买入了英伟达股票。&lt;/p&gt;
+英伟达深陷CEO丑闻
+&lt;p&gt;上述交易之所以引发关注，背景是英伟达正面临一场罕见的公司危机。&lt;/p&gt;
+&lt;p&gt;黄仁勋于上周日公开承认婚外情，但未透露细节。英伟达随即启动内部调查，随后黄仁勋又被曝出存在第二段婚外情，风波进一步发酵，黄仁勋与周四宣布无条件辞职。&lt;/p&gt;
+&lt;p&gt;受此消息影响，周四，英伟达股价一度暴跌超过14%，随后在紧急公关和逢低买盘推动下逐步收复失地，最终收跌4.34%，报166.19美元。&lt;/p&gt;
+&lt;p&gt;相比10月6日创下的阶段高点243.37美元，该股累计跌幅已超过30%。&lt;/p&gt;
+&lt;p&gt;尽管股价承压，散户投资者对英伟达的情绪却未见明显悲观。&lt;/p&gt;
+&lt;p&gt;Vanda Research数据显示，周四开盘后首个半小时，散户净买入英伟达的资金达到1.11亿美元，创历史同期纪录。另外据Stocktwits平台数据，截至周四早间，英伟达的散户情绪指数已攀升至&amp;quot;极度看多&amp;quot;区间。&lt;/p&gt;
+&lt;p&gt;有交易者在平台上留言称：&lt;strong&gt;&amp;quot;英伟达没有停止成为它本来的样子，没有停止赚它该赚的钱，也没有失去它应有的声誉。这不过是一个极为成功的人失去理智的私人事件……尘埃落定之后，英伟达将回归本色：一家伟大的公司。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+倡导禁股者本身持股引发质疑
+&lt;p&gt;此次事件的另一层争议在于Khanna的双重身份。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他长期公开倡导立法禁止国会议员在任期间交易个股，被视为国会山推动相关改革的代表性声音。&lt;/strong&gt;目前，Khanna方面尚未就上述交易时机发表公开回应。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？</title><link>https://wallstreetcn.com/articles/3785861</link><guid>e84c124b79de038c21e075ccff3efd48c081828de4b33c91b14f650e66a02aa8</guid><pubDate>Fri, 13 Nov 2026 05:19:29 GMT</pubDate><description>&lt;p&gt;英伟达创始人兼首席执行官黄仁勋的离职来得突然而戏剧性，留下了一连串悬而未决的问题。&lt;strong&gt;从董事会周日公开表态对其信任，到周三夜间黄仁勋正式辞职，短短数日之内发生了什么，目前仍无定论。&lt;/strong&gt;这场震动科技与资本市场的人事变局，不仅牵出白宫是否从中施压的疑云，更令投资者对英伟达未来的业务走向充满不确定性。&lt;/p&gt;
 &lt;p&gt;据英伟达在一份证券文件中披露，黄仁勋于周三夜间辞职。&lt;strong&gt;值得关注的是，多篇报道周三晚间董事会会议的文章，均有华盛顿记者参与撰写——这些记者平日并不负责英伟达报道。&lt;/strong&gt;据科技媒体The Information 11月12日报道，外界由此猜测，白宫是否曾向媒体透露消息，以向黄仁勋施压，迫使其离职。这些问题的答案，据报道最终将会浮出水面，但目前仍无从证实。&lt;/p&gt;
 &lt;p&gt;消息公布后，英伟达股价周四从低点反弹，显示部分投资者认为此前两日的抛售已属过度。&lt;strong&gt;截至周四收盘，英伟达股价约为166美元，对应远期市盈率仅为13.7倍，而竞争对手AMD的远期市盈率高达38.9倍。&lt;/strong&gt;这一巨大估值差距，折射出市场对英伟达在失去黄仁勋后走向的深切疑虑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -579,34 +540,7 @@ WSE-5芯片已回片，明年夏天量产
 &lt;p&gt;Argent Capital Management投资组合经理Jed Ellerbroek表示：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;quot;一小时前我还对同事说，考虑到上一个收盘以来的新闻，今天感觉是几周来市场最平静的一天，这本身就很荒诞。我认为英伟达股价在过去几周已经承受了大量损伤。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高端酸奶Blueglass的连续交接：业务先转、资本再进、人最后换</title><link>https://wallstreetcn.com/articles/3785896</link><guid>72544fc7a4a53ef8d4e17be6e748e38f28702996a535d2a862824361e45e1e3f</guid><pubDate>Fri, 13 Nov 2026 10:23:50 GMT</pubDate><description>&lt;p&gt;曾被称作“酸奶界爱马仕”的Blueglass迎来换帅。&lt;/p&gt;&lt;p&gt;近日，北京悦活餐饮管理有限责任公司完成一次工商变更。法定代表人由谷勇变更为谷成轩，谷勇同时卸任董事长，接任的谷成轩此前担任公司董事。这家公司是现制酸奶品牌 Blueglass 的运营主体。&lt;/p&gt;&lt;p&gt;工商登记显示，公司注册资本 1510.02 万元。谷勇本人持股 52.98%，Joy Yogurt Limited 持股 15%，北京悦悦悦信息咨询合伙企业（有限合伙）持股 13.24%。&lt;/p&gt;&lt;p&gt;谷勇是这家公司的创始人。2012 年 5 月，他在北京创立“阿秋拉尕青藏酸奶”，即 Blueglass 的前身。2018 年，品牌更名为 Blueglass。&lt;/p&gt;&lt;p&gt;此次人事调整恰逢品牌持续收缩期。窄门餐眼数据显示，2025 年 11 月 Blueglass 全国在营门店 214 家，到 2026 年 10 月降至 148 家，一年净减 66 家，降幅约 31%。&lt;/p&gt;&lt;p&gt;10 月 30 日，南宁万象城店门口贴出停业通知。通知写明：门店因合约到期，于 10 月 31 日营业结束后关闭。上海前滩太古里、环贸 iapm、龙湖宝山天街、丁香国际等门店均已歇业。成都 IFS、来福士、成都悠方三个点位已撤柜。&lt;/p&gt;&lt;p&gt;华南首店深圳万象天地店也已关闭，目前广州仅剩 2 家门店，深圳仅剩 4 家。2026 年新开的深圳福田山姆店，开业不足半年即关门。&lt;/p&gt;&lt;p&gt;窄门餐眼数据还显示，这个品牌 78% 的门店位于一线及新一线城市，超过八成开在商场。这一轮收缩撤掉的，正是当年最贵的那些位置。&lt;/p&gt;&lt;p&gt;把时间拨回融资那一刻，两端相隔五年多。2021 年 7 月 16 日，超 2 亿元 B 轮融资完成，斯道资本、优山资本联合领投，愉悦资本、华创资本、凌波资本跟投。7 月 22 日，南方+已先行报道这笔交易。融资发生时，公司在全国的门店为 40 余家。随融资公布的扩张设想是：三年内，在全国一线城市开出 1000 多家新店。&lt;/p&gt;&lt;p&gt;扩张兑现过一段。2023 年，以益生菌与膳食纤维为概念的“畅”系列带动品牌出圈，当年新开 70 余家，成为开店高峰。2025 年底，千店目标没有抵达，此后曲线掉头向下。&lt;/p&gt;&lt;p&gt;门店掉头之前，价格先松动了。官方小程序上，主流单品标价 29.9 元至 49 元，这套标价至今没有下调。但从 2025 年 11 月起，外卖平台叠加补贴后，部分单品到手价明显低于标价。目前多款 49 元单品实际成交约 33 元，抖音团购 39 元可购。&lt;/p&gt;&lt;p&gt;99 元 5 杯的组合把单杯折至 20 元以下。另有 99 元/45 天的会员卡。据官方小程序，其权益含买一赠一与第二杯半价。&lt;/p&gt;&lt;p&gt;标价维持原位，成交价持续下探，这套高价体系对消费者的参考意义正在缩小。&lt;/p&gt;&lt;p&gt;频次同样没有回来。红餐产业研究院数据显示，高价现制酸奶的复购率从 2023 年的 35% 降至 2025 年的 22%。这组数字落到单店层面，问题更具体。主力价格带 40 元上下，公司为直营模式，租金、人工与闭店成本均由总部承担。&lt;/p&gt;&lt;p&gt;一旦客流与购买频次同步走低，直营体系没有任何缓冲垫，单店盈利的担子整个压回客单价。&lt;/p&gt;&lt;p&gt;价格的松动有迹可循，溢价的根基同样在被逐项拆解。上海市消保委测评显示，该品牌“牛油果椰”样品脂肪 5.31g/100g、蛋白质 2.5g/100g、总糖 4.5g/100g。脂肪超过蛋白质的两倍，与其强调的健康定位形成对照。&lt;/p&gt;&lt;p&gt;营销层面也有两笔账。2021 年，“美容养颜”“延缓衰老”“增强免疫力”等宣传语拿不出证明依据。北京市朝阳区市场监管局将其认定为虚假广告，处 6 万元罚款。2024 年 10 月，“男友力”系列广告因内容低俗、违背公序良俗被罚，金额升至 40 万元。&lt;/p&gt;&lt;p&gt;转型动作先于收缩出现，而且拿到了新的钱。2025 年 9 月，官方上线“AI 博士定制酸奶”。10 月底，公司宣称已完成从饮品品牌向“肠道健康科技品牌”的战略转型。&lt;/p&gt;&lt;p&gt;2026 年 3 月，公司完成 2000 万美元海外融资，资金投向 AI 精准营养与肠道健康业务。智能戒指 BG Alpha Ring 是这套战略的载体，开通 299 元、有效期 60 天的体验 SVIP，可获得一枚能监测睡眠、心率、血氧的戒指。软件服务权益同样只有 60 天，到期须续费。&lt;/p&gt;&lt;p&gt;资本在门店曲线下行途中进场。资金投向数据、订阅与硬件构成的健康服务架构，148 家酸奶店并不是这笔资金的直接去处，酸奶在这套架构里更接近一个入口。&lt;/p&gt;&lt;p&gt;按公司的设想，收入重心将转向订阅与服务。这个赌注能否成立，取决于戒指之外的服务有没有人持续付费，目前还没有公开数据披露。&lt;/p&gt;&lt;p&gt;回到当下，门店收缩、战略转向、新资本进入，三件事都发生在谷勇卸任之前。他交出法定代表人时，这家公司已经不再是 2021 年那家随融资公布千店设想的酸奶公司。收入结构里开始出现订阅与硬件，对外叙事已从一杯酸奶换成肠道健康。&lt;/p&gt;&lt;p&gt;谷勇保留 52.98% 的持股，仍是控股股东，接任的谷成轩此前以董事身份出现在工商登记中。这次变更登记的是人事，真正待解的错位在业务一端。公司下注的方向是 AI 健康管理，这套业务尚未证明自己的收入能力。&lt;/p&gt;&lt;p&gt;谷成轩接手时的资产，一半是 148 家正在收缩的门店，另一半是一枚按 60 天订阅的智能戒指。哪一边构成 Blueglass 的未来，他任内的第一份答卷会给出线索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 亚马逊秘密打造全球商品数据库，意在围堵AI购物代理、守住广告收入</title><link>https://wallstreetcn.com/articles/3785901</link><guid>f5fa4254ea81cce9628881f84d2ed7118d7d7b58de0dcb46560ab3eaa008b57d</guid><pubDate>Fri, 13 Nov 2026 11:59:26 GMT</pubDate><description>&lt;p&gt;亚马逊正计划将商品数据库扩展至全网，以争夺购物搜索入口，并抵御AI购物代理对其流量和广告业务的冲击。&lt;/p&gt;
-&lt;p&gt;11月13日，据路透社获得的一份内部文件显示，&lt;strong&gt;亚马逊正在推进一项代号为“World Product Graph”的计划，试图收录全球几乎所有在售商品的数据，无论这些商品是否在其平台上销售。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该计划旨在将亚马逊打造成真正意义上的“万货商店”，通过掌握最全面的商品信息，吸引用户无需离开平台即可完成从商品研究到购买的全部流程。&lt;/p&gt;
-&lt;p&gt;该文件以新闻稿形式撰写，将2027年10月1日设定为对外发布的目标日期。&lt;strong&gt;亚马逊对此回应称，该文件属于“草稿性、已过时的文件”，“不一定反映公司当前计划”，但同时表示，公司持续致力于提升商品目录的全面性与准确性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一计划的推出背景，是AI购物代理的快速兴起正对亚马逊的流量和广告业务构成潜在威胁。Meta旗下的Muse购物代理自9月上线以来，已在美国和加拿大积累逾1000万用户。亚马逊随即封锁了Muse对其零售网站的访问权限，并于去年对AI公司Perplexity提起诉讼，相关案件仍在审理中。&lt;/p&gt;
-数据野心：从自有平台延伸至全网商品
-&lt;p&gt;根据路透社审阅的内部文件，World Product Graph的核心思路，是通过掌握品牌如何在其官方网站组织商品信息，构建一套覆盖全球的商品知识图谱。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这涉及两条数据获取路径：一是邀请品牌和零售商主动、持续地向亚马逊提供商品数据；二是由亚马逊自主抓取其他零售商的网站。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;文件显示，可口可乐和拜耳已签约参与数据贡献，亚马逊还与宝洁举行了“CEO级别峰会”，以推进试点合作。报道尚未确认亚马逊计划如何抓取第三方网站，以及是否在所有情况下均需获得许可。&lt;/p&gt;
-&lt;p&gt;该项目隶属于亚马逊Selection &amp;amp; Catalog Systems部门，由该部门副总裁Robert Tekiela负责统筹推进。亚马逊正在内部调配人员推动项目落地，但报道表示无法确认2027年10月的时间节点是否切实可行。&lt;/p&gt;
-直指谷歌：争夺购物搜索入口
-&lt;p&gt;亚马逊推进这一计划的核心动因之一，是弥补其在购物研究阶段相对于谷歌的明显差距。&lt;/p&gt;
-&lt;p&gt;根据摩根士丹利2025年的研究报告，在网购前进行商品研究的消费者中，57%选择谷歌，而选择亚马逊的仅占16%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内部文件对此直言不讳：“如果顾客必须离开亚马逊，前往谷歌、品牌官网和评测网站研究商品关联信息，亚马逊就无法成为每一个购物场景的首选目的地。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，当消费者已经明确购买意向时，亚马逊具备明显优势：41%的搜索从亚马逊发起，高于谷歌的23%和沃尔玛的18%。&lt;/p&gt;
-&lt;p&gt;World Product Graph的目标，正是将这一优势从购买决策阶段向前延伸至商品研究阶段，让消费者在形成购买意向之前，就能在亚马逊完成信息搜集和商品比较，从而扩大其在购物决策链条中的影响力。&lt;/p&gt;
-修补Rufus短板：AI搜索准确性存疑
-&lt;p&gt;World Product Graph还被寄望于解决亚马逊自有AI搜索引擎Rufus（今年5月更名为“Alexa for Shopping”）的准确性问题。&lt;/p&gt;
-&lt;p&gt;内部文件坦承：“许多Rufus的回答在事实上存在错误或不完整，但用户缺乏专业知识来识别这些错误。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;文件还披露，Rufus每周处理约8300万次搜索，运行成本“高昂”。亚马逊认为，更丰富的商品数据将使其能够采用成本更低的模型，进而提升运营效率。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对此，亚马逊在声明中表示，文件中引用的使用数据“已严重过时”，其内部数据显示Alexa for Shopping在全球范围内的准确率约为97%。&lt;/p&gt;
-&lt;p&gt;亚马逊CEO Andy Jassy此前在第三季度财报电话会议上也曾淡化AI代理的影响，称“目前通过这种方式购物的用户仍属少数”，广告业务所受冲击有限。&lt;/p&gt;
-抵御AI代理：数据壁垒即护城河
-&lt;p&gt;尽管Jassy公开表态相对低调，但据报道援引知情人士，亚马逊高管层对AI购物代理可能将用户流量引向商品数据更完整的竞争对手网站，已保持高度警惕。&lt;/p&gt;
-&lt;p&gt;Meta的Muse代理被摩根大通在研究报告中称为“自ChatGPT以来最具潜力成为最广泛使用的消费级AI应用”。马斯克上月在X平台回应有关其旗下xAI的Grok代理遭亚马逊封锁一事时写道：“也许我们应该创建一个亚马逊的竞争对手。”&lt;/p&gt;
-&lt;p&gt;知情人士表示，&lt;strong&gt;亚马逊希望通过构建全球规模最大的商品数据库，确保代表消费者执行购物任务的AI代理，最终仍需要回到亚马逊寻找商品，而不是流向其他零售商网站。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一布局也关系到亚马逊广告业务的未来。通过掌握更全面的商品信息，亚马逊希望继续留在消费者的商品发现、比较和购买链条中，避免AI代理绕过其平台，削弱其对购物流量和广告收入的控制力。&lt;/p&gt;
-&lt;p&gt;员工将World Product Graph描述为将亚马逊打造成“无所不卖的一站式平台”的初步尝试，也是现有“Buy for Me”和“Shop Direct”服务的延伸。这两项服务已允许用户在亚马逊平台上购买其他网站销售的商品，由亚马逊充当中间商。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上汽大众想抢回10万元级市场话语权</title><link>https://wallstreetcn.com/articles/3785899</link><guid>d91de8a98b599585063a46366eb570fd96d113befb3e44e67b29c100ba7b0a3f</guid><pubDate>Fri, 13 Nov 2026 11:04:51 GMT</pubDate><description>&lt;p&gt;上汽大众把新一代纯电SUV推向了10万元级市场。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高端酸奶Blueglass的连续交接：业务先转、资本再进、人最后换</title><link>https://wallstreetcn.com/articles/3785896</link><guid>72544fc7a4a53ef8d4e17be6e748e38f28702996a535d2a862824361e45e1e3f</guid><pubDate>Fri, 13 Nov 2026 10:23:50 GMT</pubDate><description>&lt;p&gt;曾被称作“酸奶界爱马仕”的Blueglass迎来换帅。&lt;/p&gt;&lt;p&gt;近日，北京悦活餐饮管理有限责任公司完成一次工商变更。法定代表人由谷勇变更为谷成轩，谷勇同时卸任董事长，接任的谷成轩此前担任公司董事。这家公司是现制酸奶品牌 Blueglass 的运营主体。&lt;/p&gt;&lt;p&gt;工商登记显示，公司注册资本 1510.02 万元。谷勇本人持股 52.98%，Joy Yogurt Limited 持股 15%，北京悦悦悦信息咨询合伙企业（有限合伙）持股 13.24%。&lt;/p&gt;&lt;p&gt;谷勇是这家公司的创始人。2012 年 5 月，他在北京创立“阿秋拉尕青藏酸奶”，即 Blueglass 的前身。2018 年，品牌更名为 Blueglass。&lt;/p&gt;&lt;p&gt;此次人事调整恰逢品牌持续收缩期。窄门餐眼数据显示，2025 年 11 月 Blueglass 全国在营门店 214 家，到 2026 年 10 月降至 148 家，一年净减 66 家，降幅约 31%。&lt;/p&gt;&lt;p&gt;10 月 30 日，南宁万象城店门口贴出停业通知。通知写明：门店因合约到期，于 10 月 31 日营业结束后关闭。上海前滩太古里、环贸 iapm、龙湖宝山天街、丁香国际等门店均已歇业。成都 IFS、来福士、成都悠方三个点位已撤柜。&lt;/p&gt;&lt;p&gt;华南首店深圳万象天地店也已关闭，目前广州仅剩 2 家门店，深圳仅剩 4 家。2026 年新开的深圳福田山姆店，开业不足半年即关门。&lt;/p&gt;&lt;p&gt;窄门餐眼数据还显示，这个品牌 78% 的门店位于一线及新一线城市，超过八成开在商场。这一轮收缩撤掉的，正是当年最贵的那些位置。&lt;/p&gt;&lt;p&gt;把时间拨回融资那一刻，两端相隔五年多。2021 年 7 月 16 日，超 2 亿元 B 轮融资完成，斯道资本、优山资本联合领投，愉悦资本、华创资本、凌波资本跟投。7 月 22 日，南方+已先行报道这笔交易。融资发生时，公司在全国的门店为 40 余家。随融资公布的扩张设想是：三年内，在全国一线城市开出 1000 多家新店。&lt;/p&gt;&lt;p&gt;扩张兑现过一段。2023 年，以益生菌与膳食纤维为概念的“畅”系列带动品牌出圈，当年新开 70 余家，成为开店高峰。2025 年底，千店目标没有抵达，此后曲线掉头向下。&lt;/p&gt;&lt;p&gt;门店掉头之前，价格先松动了。官方小程序上，主流单品标价 29.9 元至 49 元，这套标价至今没有下调。但从 2025 年 11 月起，外卖平台叠加补贴后，部分单品到手价明显低于标价。目前多款 49 元单品实际成交约 33 元，抖音团购 39 元可购。&lt;/p&gt;&lt;p&gt;99 元 5 杯的组合把单杯折至 20 元以下。另有 99 元/45 天的会员卡。据官方小程序，其权益含买一赠一与第二杯半价。&lt;/p&gt;&lt;p&gt;标价维持原位，成交价持续下探，这套高价体系对消费者的参考意义正在缩小。&lt;/p&gt;&lt;p&gt;频次同样没有回来。红餐产业研究院数据显示，高价现制酸奶的复购率从 2023 年的 35% 降至 2025 年的 22%。这组数字落到单店层面，问题更具体。主力价格带 40 元上下，公司为直营模式，租金、人工与闭店成本均由总部承担。&lt;/p&gt;&lt;p&gt;一旦客流与购买频次同步走低，直营体系没有任何缓冲垫，单店盈利的担子整个压回客单价。&lt;/p&gt;&lt;p&gt;价格的松动有迹可循，溢价的根基同样在被逐项拆解。上海市消保委测评显示，该品牌“牛油果椰”样品脂肪 5.31g/100g、蛋白质 2.5g/100g、总糖 4.5g/100g。脂肪超过蛋白质的两倍，与其强调的健康定位形成对照。&lt;/p&gt;&lt;p&gt;营销层面也有两笔账。2021 年，“美容养颜”“延缓衰老”“增强免疫力”等宣传语拿不出证明依据。北京市朝阳区市场监管局将其认定为虚假广告，处 6 万元罚款。2024 年 10 月，“男友力”系列广告因内容低俗、违背公序良俗被罚，金额升至 40 万元。&lt;/p&gt;&lt;p&gt;转型动作先于收缩出现，而且拿到了新的钱。2025 年 9 月，官方上线“AI 博士定制酸奶”。10 月底，公司宣称已完成从饮品品牌向“肠道健康科技品牌”的战略转型。&lt;/p&gt;&lt;p&gt;2026 年 3 月，公司完成 2000 万美元海外融资，资金投向 AI 精准营养与肠道健康业务。智能戒指 BG Alpha Ring 是这套战略的载体，开通 299 元、有效期 60 天的体验 SVIP，可获得一枚能监测睡眠、心率、血氧的戒指。软件服务权益同样只有 60 天，到期须续费。&lt;/p&gt;&lt;p&gt;资本在门店曲线下行途中进场。资金投向数据、订阅与硬件构成的健康服务架构，148 家酸奶店并不是这笔资金的直接去处，酸奶在这套架构里更接近一个入口。&lt;/p&gt;&lt;p&gt;按公司的设想，收入重心将转向订阅与服务。这个赌注能否成立，取决于戒指之外的服务有没有人持续付费，目前还没有公开数据披露。&lt;/p&gt;&lt;p&gt;回到当下，门店收缩、战略转向、新资本进入，三件事都发生在谷勇卸任之前。他交出法定代表人时，这家公司已经不再是 2021 年那家随融资公布千店设想的酸奶公司。收入结构里开始出现订阅与硬件，对外叙事已从一杯酸奶换成肠道健康。&lt;/p&gt;&lt;p&gt;谷勇保留 52.98% 的持股，仍是控股股东，接任的谷成轩此前以董事身份出现在工商登记中。这次变更登记的是人事，真正待解的错位在业务一端。公司下注的方向是 AI 健康管理，这套业务尚未证明自己的收入能力。&lt;/p&gt;&lt;p&gt;谷成轩接手时的资产，一半是 148 家正在收缩的门店，另一半是一枚按 60 天订阅的智能戒指。哪一边构成 Blueglass 的未来，他任内的第一份答卷会给出线索。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上汽大众想抢回10万元级市场话语权</title><link>https://wallstreetcn.com/articles/3785899</link><guid>d91de8a98b599585063a46366eb570fd96d113befb3e44e67b29c100ba7b0a3f</guid><pubDate>Fri, 13 Nov 2026 11:04:51 GMT</pubDate><description>&lt;p&gt;上汽大众把新一代纯电SUV推向了10万元级市场。&lt;/p&gt;
 &lt;p&gt;11月12日晚，ID.ERA 5X在北京上市。新车推出四个版本，建议零售价为11.99万至15.99万元，限时权益价为9.99万至13.99万元。&lt;/p&gt;
 &lt;p&gt;它是大众在中国开发的CMP平台首款量产车型，也是上汽大众ID.ERA系列的首款纯电SUV。上汽大众汽车有限公司大众品牌营销事业执行副总监陈峰在发布会后的沟通中表示，希望5X做到月销过万。&lt;/p&gt;
 &lt;p&gt;5X上市前，上汽大众这几个月推出的新能源新车已经开始贡献销量。&lt;/p&gt;
@@ -648,4 +582,71 @@ WSE-5芯片已回片，明年夏天量产
 &lt;p&gt;现在，上汽大众已开始为2028年的车型做市场调研和产品论证。对于产品方向已经明确、手里也有原型车的项目，可以先在原型基础上调整，再通过模拟和工程验证推进。&lt;/p&gt;
 &lt;p&gt;傅强透露，2027年上汽大众还会推出更多纯电车型，并把明年上半年视为检验这批新品的窗口。届时，5S和8X的交付能说明插混和增程各自能贡献多少销量，5X则要看首轮订单消化之后能不能稳住。&lt;/p&gt;
 &lt;p&gt;几款车能否在各自的价位持续卖出去，将决定今年铺开的产品阵容能为上汽大众补上多大的销量缺口。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从Nebius与英伟达谈谈算力信用与产业格局</title><link>http://www.xueqiu.com/5332385101/416681607</link><guid>a2bd81d712955016a65b3b4629b84aec84ca28d70b26efbbb8e5c2a135a341cb</guid><pubDate>Fri, 13 Nov 2026 09:39:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股受英伟达换帅事件压制。英伟达因老黄辞去CEO及董事职务，盘中一度下挫超14%、市值跌破4万亿美元，最终收跌4.34%；AMD与博通逆势承接买盘，分别收涨5.86%与5.54%；刚公布三季报的Nebius重挫16.84%，并拖累CoreWeave回调6.86%。&lt;/p&gt;</description></item><item><title>[今日雪球] 跌多了就想买，涨多了就想卖 ——有问题吗？</title><link>http://www.xueqiu.com/2340719306/416669865</link><guid>4e088a701a787ba74226ce130dd5a3ebbc1023cb8f1a15c09390b3536f6c7949</guid><pubDate>Fri, 13 Nov 2026 09:39:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;流水白菜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH513330"&gt;$恒生互联网ETF华夏(SH513330)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601318"&gt;$中国平安(SH601318)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/00966"&gt;$中国太平(00966)$&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋辞职三大冲击：委员会治理恐致技术供应链迟钝，美开源AI成输家，算力数据迎严查</title><link>https://wallstreetcn.com/articles/3785860</link><guid>5f755cf07727e3a8700044b53f2df89b8eb6c690860e3d580da79c508ef73b98</guid><pubDate>Fri, 13 Nov 2026 04:23:56 GMT</pubDate><description>&lt;p&gt;随着黄仁勋辞任英伟达CEO，华尔街与硅谷也随之陷入对“后黄仁勋时代”的集体焦虑。&lt;/p&gt;
+&lt;p&gt;11月12日，知名半导体研究机构SemiAnalysis创始人Dylan Patel做客科技商业播客TBPN，与主持人John Coogan、Jordi Hays展开了一场长达半小时的深度复盘。&lt;/p&gt;
+&lt;p&gt;（&lt;strong&gt;左&lt;/strong&gt;：Jordi Hays；&lt;strong&gt;中&lt;/strong&gt;：Dylan Patel；&lt;strong&gt;右&lt;/strong&gt;：John Coogan）&lt;/p&gt;
+&lt;p&gt;就在访谈当天，英伟达联合创始人兼CEO黄仁勋正式辞职，由CFO Colette Kress出任临时CEO。受此消息及此前婚外情丑闻影响，英伟达当日股价重挫，市值一度跌破4万亿美元，预期市盈率创下十四年新低。&lt;/p&gt;
+&lt;p&gt;Dylan Patel绕开了花边新闻的喧嚣，直指这场“黑天鹅”事件背后最残酷的商业账本。&lt;strong&gt;英伟达赖以统治行业的“创始人模式”面临瓦解风险，美国开源大模型生态可能首当其冲成为最大输家，而全球AI竞争的战火正从单纯的芯片硬件，迅速蔓延至底层数据与AI自主设计芯片的全新战场。&lt;/strong&gt;&lt;/p&gt;
+
+告别“创始人模式”，技术与供应链或因“委员会治理”陷入迟钝
+
+&lt;p&gt;在外界眼中，英伟达的护城河是CUDA软件生态与领先的芯片制程；但在产业内部人士看来，英伟达真正的统治力源于黄仁勋极致的“创始人模式”（Founder Mode）——在技术路线分叉与供应链博弈的生死关头，拥有一个人拍板、瞬间调动全公司与供应商资源的绝对权威。&lt;/p&gt;
+&lt;p&gt;当前市场最大的担忧在于，一旦黄仁勋受困于美国国会传唤与调查，英伟达的日常决策与对外投资将不得不移交给高管委员会。Dylan Patel在对谈中直接点破了治理结构异化的代价：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;英伟达最大的担忧在于，现在变成了一个委员会在拍板，这会让决策变得极其缓慢。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他指出，英伟达常常面临A、B、C多种技术方案，“到了最后一秒，黄仁勋会全力推动其中一个。现在如果有A、B、C、D，谁来决定选A，并让所有原本做B和C的供应商转而全力支持A？”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他回忆起英伟达历史上两次力挽狂澜的决策&lt;/strong&gt;：在Volta架构流片（Tape-out）前仅剩三个月时，黄仁勋力排众议硬塞进了Tensor Core（张量核心）；在Blackwell架构出现波折时，也是他在最后关头拍板调整方案才保住了市场份额。&lt;/p&gt;
+&lt;p&gt;Dylan Patel强调：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;换作普通高管，肯定会说‘算了，放到下一代芯片里再加吧’。如果当年放到下一代，英伟达在AI领域早就落后了，根本不可能建立起今天的统治地位。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在竞争对手环伺的2026年，OpenAI、博通、谷歌、Anthropic、Meta和亚马逊均已组建起极具战斗力的自研芯片团队，市场容错率已降至冰点。委员会决策机制带来的哪怕几个月的迟疑，都足以让英伟达丢失阵地。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这种个人权威同样体现在供应链的极致压榨上&lt;/strong&gt;。英伟达之所以能拿走全球最稀缺的先进封装与存储产能，靠的是黄仁勋亲自下场游说供应商押注未曾验证的新技术。Patel强调：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;英伟达想要做激进的事情……锁定供应链，说服供应链去在技术和产能上做他们从未做过的事情。&lt;strong&gt;无论下一任CEO是谁，可能都不如黄仁勋那么有魅力，他们无法轻易让供应商说出‘当然，英伟达，你可以以低于市场价的价格拥有我60%或70%的产能’。这太难了。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dylan Patel坦言，即便英伟达内部有Jonah Alben这样掌控技术体系的实权派，或是Ian Buck这样擅长商务斡旋的悍将，也无人能同时兼顾技术洞察、供应链锁单与商业谈判。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于未来的CEO人选，Patel认为临时CEO Colette Kress“非常出色，但归根结底，她无法在技术上领导公司”。&lt;/strong&gt;他指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;纵观全球，&lt;strong&gt;同时具备这种供应链驾驭能力与硬核技术深度的，恐怕只有博通的二把手Charlie Kawwas和Apple硬件掌门人Johny Srouji&lt;/strong&gt;，但他们几乎不可能来接手。&lt;/p&gt;
+&lt;/blockquote&gt;
+ “AI中央银行”断供危机，美国开源生态成最大输家
+&lt;p&gt;过去两年，英伟达在硅谷扮演着“AI 中央银行”的角色——用高额芯片利润反哺整个生态，通过巨额投资和算力信贷，托举起大批推理云服务商与前沿大模型初创公司。与此同时，黄仁勋一直是放松芯片出口管制的游说主力，客观上维系了全球AI供应链的微妙平衡。&lt;/p&gt;
+&lt;p&gt;然而，随着此次风波导致英伟达在华盛顿的政治信用破产，这台“中央银行”的印钞机面临停摆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一方面&lt;/strong&gt;，英伟达对初创公司的数十亿美元投资协议被迫转入漫长的委员会审查，失去信用背书的二线推理云厂商（如Baseten、Fireworks）在融资与获取算力上将举步维艰；&lt;strong&gt;另一方面&lt;/strong&gt;，美国芯片出口管制的钟摆势必剧烈回摆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一旦顶尖开源大模型实验室的算力受限、放缓开源步伐，高度依赖开源模型底座的美国应用层创业公司，如法律AI公司Harvey、客服AI公司 Sierr 等将被迫转向昂贵的闭源模型，从而沦为毫无议价能力的“套壳公司”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dylan Patel给出了一针见血的判断：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我认为英伟达之外的最大输家，绝对是开源生态。美国的开源前沿阵地如果没有黄仁勋的资金与算力支撑根本无法存在，无论是Reflection还是Thinking Machines，背后都有英伟达的巨额押注。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dylan Patel指出，&lt;strong&gt;如今“像智谱和DeepSeek这样提前适配多种国产芯片的实验室，抗风险能力明显强于高度依赖英伟达的同行”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而在大洋彼岸，OpenAI超过90%的算力仍绑定在英伟达战车上，相比之下，Anthropic的英伟达算力占比已降至三分之一以下，且一直走闭源路线。Dylan Patel称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这是一个对Anthropic有利、对OpenAI不利的局面。开源变弱了，这对Anthropic来说太棒了。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+范式转移：当大模型开始自己设计芯片
+&lt;p&gt;就在传统芯片巨头深陷治理与地缘泥潭之际，AI 实验室自身的底层技术范式正在发生质变。&lt;/p&gt;
+&lt;p&gt;长期以来，大模型公司对自研芯片普遍持谨慎态度，原因在于芯片从立项到流片动辄耗时两三年，等芯片造出来，模型架构早已迭代数代，投入产出比极低。&lt;/p&gt;
+&lt;p&gt;但这一商业逻辑正在被AI自身打破。根据SemiAnalysis近期发布的全新前沿智能体基准测试GDPx的跑分结果，&lt;strong&gt;大模型在通用日常任务上的整体得分依然只有12%至16%左右，但在软件工程与芯片设计这两个垂直领域却出现了惊人的爆发式跃升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当AI具备了极强的芯片辅助设计能力后，自研芯片的研发周期与试错成本被大幅压缩，大模型厂商得以跳过传统的漫长研发路径，直接用模型迭代硬件。&lt;/strong&gt;Dylan Patel 分享了第一手的评测洞察：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在我们的GDPx基准测试中，Anthropic的模型在软件工程和芯片设计两个领域取得了巨大的飞跃，远远甩开了其他对手。这背后反映出强化学习环境（RL Environments）才是模型规模化扩展的下一个核心向量，&lt;strong&gt;只要你在特定领域拥有独一无二的专有数据和仿真环境，模型在该领域的能力就能实现暴涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这一技术突破直接改写了Anthropic的硬件战略。Dylan Patel 说道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;过去 Anthropic 认为自研芯片不符合 AGI 的演进节奏，等芯片做出来黄花菜都凉了，但现在他们大举招募了一批芯片人才，不仅在造自己的芯片，还在让模型变得极其擅长设计芯片。现在模型自己就能设计芯片了，他们在这条战线上的推进速度正在急剧加快。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+监管大棒将蔓延，云端算力转租与AI合成数据面临严查
+
+&lt;p&gt;当华盛顿的目光死死盯着每一颗流向海外的GPU实体卡时，AI产业链上的跨国博弈早已演化出更隐蔽的形态。即便无法直接获取最顶尖的海外闭源模型或算力，部分海外实验室依然可以通过采购第三方数据公司的合成数据与强化学习环境，实现变相的“模型蒸馏”。&lt;/p&gt;
+&lt;p&gt;随着商业审查的全面收紧，这种长期处于监管盲区的数据跨境交易，极有可能成为下一波政策打击的重点。Dylan Patel揭示了产业链水面之下的真实运作：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;很多数据公司正在向海外出售海量数据，这其实是一种极其隐蔽的蒸馏方式，像Mercor这类数据供应商，其生成数据的流水线本身就调用了前沿大模型的提取与过滤能力。把基于前沿模型生成的环境卖出去，本质上就是在把模型能力蒸馏出来。&lt;strong&gt;过去大家只盯着硬件，卖数据这件事还没受到任何审查，接下来它必然会进入监管视野。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于华盛顿可能采取的“一刀切”封锁，Dylan Patel表达了担忧。他指出，如果美方在芯片禁令上做得太绝，完全可能招致硬件供应链上的对等反制。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每一台英伟达服务器里都有海外产业链制造的组件，每一台谷歌GPU服务器里同样有海外供应链的身影。如果他们愿意，完全可以掐断这些环节。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在他看来，真正聪明的策略是堵住未经授权的中间商转租漏洞，同时允许谷歌等美国本土云巨头以高溢价向海外客户提供受控的云端算力租赁——“既能随时断供，又能抽走对方利润，这才是维持领先的商业逻辑。”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从Nebius与英伟达谈谈算力信用与产业格局</title><link>http://www.xueqiu.com/5332385101/416681607</link><guid>a2bd81d712955016a65b3b4629b84aec84ca28d70b26efbbb8e5c2a135a341cb</guid><pubDate>Fri, 13 Nov 2026 09:39:12 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股受英伟达换帅事件压制。英伟达因老黄辞去CEO及董事职务，盘中一度下挫超14%、市值跌破4万亿美元，最终收跌4.34%；AMD与博通逆势承接买盘，分别收涨5.86%与5.54%；刚公布三季报的Nebius重挫16.84%，并拖累CoreWeave回调6.86%。&lt;/p&gt;</description></item><item><title>[今日雪球] 跌多了就想买，涨多了就想卖 ——有问题吗？</title><link>http://www.xueqiu.com/2340719306/416669865</link><guid>4e088a701a787ba74226ce130dd5a3ebbc1023cb8f1a15c09390b3536f6c7949</guid><pubDate>Fri, 13 Nov 2026 09:39:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;流水白菜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/SH513330"&gt;$恒生互联网ETF华夏(SH513330)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/SH601318"&gt;$中国平安(SH601318)$&lt;/a&gt; &lt;a href="https://xueqiu.com/S/00966"&gt;$中国太平(00966)$&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
