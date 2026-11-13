@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 08:59:24 GMT</lastBuildDate><item><title>[华尔街见闻] 一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title><link>https://wallstreetcn.com/articles/3785854</link><guid>1ce5c73b944913e1f3a533bb6af3c9445d3851d780920822ba4c060035cd1f15</guid><pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate><description>&lt;p&gt;黄仁勋离开了他掌舵33年的英伟达。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 13 Nov 2026 09:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title><link>https://wallstreetcn.com/articles/3785854</link><guid>1ce5c73b944913e1f3a533bb6af3c9445d3851d780920822ba4c060035cd1f15</guid><pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate><description>&lt;p&gt;黄仁勋离开了他掌舵33年的英伟达。&lt;/p&gt;
 &lt;p&gt;“英伟达从来都不是为了在他不在的情况下而建立的。”知名半导体研究机构Semianalysis在最新报告中写道。&lt;/p&gt;
 &lt;p&gt;Semianalysis将英伟达类比成下一个苹果。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -685,86 +685,7 @@ AI基础设施收入预计达90亿美元，思科试图补上AI早期缺位
 &lt;p&gt;实际利率上行通常对黄金构成压制，&lt;strong&gt;现货黄金&lt;/strong&gt;重挫2.8%至3874.38美元/盎司。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;比特币&lt;/strong&gt;跌幅更深，下挫4%至71324美元，回落至8月以来最低水平。&lt;strong&gt;以太坊&lt;/strong&gt;亦跌2.8%至2011美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 不用Flash命名，谷歌发布Gemini 4 Hydrogen：幻觉减少5倍，速度翻倍</title><link>https://wallstreetcn.com/articles/3785836</link><guid>ca2b6b0ca717bef3c4af2436eaad4a26b93e92d3f9eb7fad4026f6c984c4ec11</guid><pubDate>Thu, 12 Nov 2026 21:23:32 GMT</pubDate><description>&lt;p&gt;谷歌以一款面向普通用户和开发者的高效能模型，全面扩大Gemini 4系列的覆盖半径。&lt;/p&gt;
-&lt;p&gt;继本周推出旗舰模型Carbon之后，谷歌周四发布Gemini 4 Hydrogen，以&amp;quot;为所有人带来前沿智能&amp;quot;为核心定位。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该模型主打速度与执行效率，放弃沿用的&amp;quot;Flash&amp;quot;品牌命名，以Hydrogen取而代之。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谷歌表示，Hydrogen已面向开发者、企业和消费者全球同步上线，覆盖Gemini API、AI Studio、Gemini应用、谷歌搜索及Google Antigravity等多个平台。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在基准测试方面&lt;/strong&gt;，Hydrogen在Artificial Analysis Intelligence Index上以默认高思考模式超越同系列的Argon模型（51分对50分），开启最高xhigh思考模式后可达54分。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与上一代Gemini 3.8 Flash相比&lt;/strong&gt;，Hydrogen在同等设置下完成任务速度提升2.5倍，Terminal-Bench 4.1得分从18.2%跃升至57%，幻觉生成率（fabricated claims）降低逾5倍。&lt;/p&gt;
-&lt;p&gt;对开发者而言，该模型定价为每百万输入token 1.5美元，每百万输出token 7.5美元，价格在全部100万token上下文窗口内统一计算。&lt;/p&gt;
-
-定位：效率执行层，补齐多模型协作拼图
-
-&lt;p&gt;&lt;strong&gt;谷歌对Gemini 4系列的分工定位已趋于清晰&lt;/strong&gt;：&lt;strong&gt;Carbon&lt;/strong&gt;和&lt;strong&gt;Argon&lt;/strong&gt;承担深度推理与复杂任务，&lt;strong&gt;Hydrogen&lt;/strong&gt;则扮演快速执行引擎的角色，适用于日常编码、智能体工作流及多步骤数据处理。&lt;/p&gt;
-&lt;p&gt;为将这一多模型协作模式系统化，谷歌同步在Google Antigravity中推出&amp;quot;Orchestrator&amp;quot;功能。该功能在同一会话中动态调度Carbon与Hydrogen，根据任务复杂度自动切换，无需用户手动干预。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;谷歌披露的内部测试数据显示，Orchestrator在Terminal-Bench 4.0上接近Carbon的任务成功率，同时平均减少24%的配额消耗，速度提升19%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在并行智能体工作流中，Carbon可担任协调者，Hydrogen则驱动工作与验证智能体，在相互隔离的工作空间中同步构建与测试代码变更——旨在帮助团队在控制token成本的同时加速复杂项目交付。&lt;/p&gt;
-
-消费端：搜索与Gemini应用获全面升级
-
-&lt;p&gt;&lt;strong&gt;在面向普通用户的产品层面，Hydrogen已成为谷歌搜索AI Mode的默认模型，同时用于AI Overviews中&amp;quot;最难问题&amp;quot;的处理。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谷歌表示，&lt;strong&gt;Hydrogen能够更好地理解用户的真实意图，即便查询语句存在多个子问题、难以辨认的拼写错误或高度具体的需求，搜索系统也能智能解析&lt;/strong&gt;。此外，搜索结果将更具视觉化呈现，并涵盖更广泛的相关链接。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在Gemini应用中，Hydrogen在模型选择器中被定位为&amp;quot;日常助手&amp;quot;，处于&amp;quot;快速回答&amp;quot;（3.5 Flash-Lite）与&amp;quot;深度研究&amp;quot;（3.1 Pro）之间。免费用户可在提示适配时，通过&amp;quot;[Auto]自动模型选择&amp;quot;机制使用Hydrogen。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;谷歌表示，该模型能更严格地遵循用户设定的语气、格式与规则，使邮件草稿、学习指南及文档在首次生成时即可直接使用。&lt;/p&gt;
-&lt;p&gt;在Google Antigravity中，Hydrogen新增&amp;quot;Extra&amp;quot;思考层级，付费的AI Pro和Ultra订阅用户可使用该功能，并可接入上述Orchestrator多模型协作能力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-性能：速度与准确性双重跃升
-
-&lt;p&gt;谷歌将Hydrogen定位为对3.8 Flash的&amp;quot;重大独立升级&amp;quot;，核心改进集中于速度、准确性和上下文处理能力三个维度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在速度方面&lt;/strong&gt;，合作伙伴早期测试数据显示，Hydrogen在复杂图计算、SQL及数据密集型企业工作流中运行速度提升2倍至2.8倍，同时token使用量减少12%至23%。&lt;/p&gt;
-&lt;p&gt;企业软件公司Box的VP Yashodha Bhavnani表示，Hydrogen在准确性显著提升的同时，运行速度约为3.8 Flash的两倍，token使用量减少12%。Yashodha Bhavnani称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在需要准确读取表格和执行复杂计算的数据密集型工作流中，改善最为明显。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在准确性方面&lt;/strong&gt;，Hydrogen支持原生100万token输入与&lt;strong&gt;最高100万token输出&lt;/strong&gt;，能够处理密集的PDF文件、电子表格、图表、音频和视频内容。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在多模态知识智能体（MKA）基准测试中&lt;/strong&gt;，Hydrogen以53.4%的得分超越其他模型；在面向端到端专业工作流的Agents&amp;#x27; Last Exam v1.1测试中，得分达71.6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在垂直领域&lt;/strong&gt;，Hydrogen在HLE-Diamond深度领域推理测试中以58.8%领先同级模型，在Vals Tax Agent Bench中以52.3%排名第一，在Vals Legal Research Bench中以55.8%并列第一。&lt;/p&gt;
-&lt;p&gt;生物技术公司LatchBio的团队表示，Hydrogen在其抗体开发基准测试的毒理学与安全部分通过率达67%，而非Gemini模型仅为37%。&lt;/p&gt;
-
-安全性：智能体对齐能力大幅强化
-
-&lt;p&gt;谷歌着重强调Hydrogen在智能体安全对齐方面的改进，这对于该模型主打的自主工作流执行场景尤为关键。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与3.8 Flash相比，Hydrogen将智能体任务中的&amp;quot;越权行为&amp;quot;（overreach）降低最高81%，&amp;quot;服务不足&amp;quot;（under-service）降低最高79%，在工具调用和代码评估中的错位行为与任务走捷径现象减少12倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;面对无法完成或被阻断的任务时，Hydrogen绕过权限边界的概率降低最高2倍，在谷歌内部智能体诚实性评估中达到96.7%的诚实率。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在推理透明度方面&lt;/strong&gt;，Hydrogen在逾20万次审计对话中保持99.9%的思维链可读性，且无任何欺骗性推理编辑记录。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在针对间接提示注入攻击的Gray Swan IPI基准测试中，Hydrogen的抗攻击能力提升逾2.3倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，谷歌表示，更新后的安全护栏在识别真实生物安全风险与合法医疗或科学问题方面精度显著提升，在HealthBench Pro上的误拒率低于0.4%。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Cerebras大涨！Q3营收超预期，云业务激增272%，上调全年指引｜财报见闻</title><link>https://wallstreetcn.com/articles/3785843</link><guid>b6a2f460dbeed03d3eccb4f3a5602a42f3b9335b73534ce50b2d57e4f8c20f53</guid><pubDate>Thu, 12 Nov 2026 21:20:30 GMT</pubDate><description>&lt;p&gt;AI推理需求持续升温，AI芯片公司Cerebras第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。公司不仅上调了2026年全年营收指引，还预计2027年营收将达到今年的三倍，显示其对AI推理算力需求的增长前景持乐观态度。&lt;/p&gt;
-&lt;p&gt;当地时间11月12日，&lt;strong&gt;Cerebras公布2026年第三季度财报。公司当季核心营收达到2.309亿美元，同比增长70%，高于分析师平均预期的2.147亿美元；其中，云及其他服务收入同比增长272%至1.449亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;受云业务增长和客户需求推动，&lt;strong&gt;Cerebras将2026年全年核心营收指引从此前的8.8亿至8.9亿美元上调至9.4亿至9.6亿美元。公司还预计，第四季度核心营收将达到3.1亿至3.3亿美元，核心毛利率升至47%至49%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;订单储备方面，截至9月30日，Cerebras剩余履约义务（RPO）达到261亿美元。公司同时披露，已经签约700兆瓦的数据中心容量，计划在2027年底前交付。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，强劲的营收增长尚未转化为GAAP口径下的盈利改善。第三季度公司净亏损扩大至1.612亿美元，上年同期为2220万美元。随着公司加快芯片制造和数据中心扩张，股权激励、客户认股权证摊销等项目也使GAAP与核心口径的经营表现出现明显差异。&lt;/p&gt;
-&lt;p&gt;财报公布后，Cerebras股价在盘后交易中上涨16%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-云业务收入激增，硬件销售并非唯一增长引擎
-&lt;p&gt;从收入结构来看，Cerebras正在扩大云端算力服务的业务规模。第三季度，公司GAAP口径云及其他服务收入达到1.419亿美元，同比增长265%；核心口径下，该项收入为1.449亿美元，同比增长272%，约占核心总营收的63%。&lt;/p&gt;
-&lt;p&gt;相比之下，硬件业务收入表现相对疲弱。第三季度GAAP硬件收入为6888万美元，低于去年同期的9679万美元。按照核心口径计算，硬件收入为8596万美元，也低于去年同期的9679万美元。&lt;/p&gt;
-&lt;p&gt;这一变化反映出Cerebras的收入结构正在向云服务倾斜。公司不再仅仅依赖出售AI芯片和计算系统，还通过自营云平台及第三方云服务商提供推理算力，以扩大客户获取算力的渠道。&lt;/p&gt;
-&lt;p&gt;不过，硬件收入下降并不意味着公司正在主动放弃硬件销售。&lt;strong&gt;CEO Andrew Feldman的表态称，硬件销售受到交付时间不均衡的影响，而非公司战略转向云业务。&lt;/strong&gt;&lt;/p&gt;
-OpenAI、微软和Oracle扩大合作，算力订单储备达261亿美元
-&lt;p&gt;大型客户合作正在成为Cerebras扩张的重要支撑。&lt;/p&gt;
-&lt;p&gt;Cerebras与OpenAI达成了一项多年期、价值约200亿美元的算力供应协议。公司正在扩大芯片供应规模，以满足相关协议及其他客户的算力需求。&lt;/p&gt;
-&lt;p&gt;微软已成为Cerebras的新客户，现有合作伙伴还包括Oracle和OpenAI。Oracle此前宣布，将Cerebras的高速AI推理能力整合进Oracle Cloud Infrastructure，相关服务预计于2027年上线。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;订单储备方面，截至9月30日，Cerebras剩余履约义务（RPO）达到261亿美元。公司同时披露，已经签约700兆瓦的数据中心容量，计划在2027年底前交付。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，Cerebras还宣布与一家全球前三大超大规模云服务商达成新的云业务合作，但尚未披露客户名称。公司表示，相关信息将在明年进一步公布。&lt;/p&gt;
-&lt;p&gt;这些合作意味着，Cerebras正在通过直接销售、云平台和第三方云服务商等多种渠道扩大商业覆盖范围。对于公司而言，能否按计划交付数据中心容量并将订单储备转化为实际收入，将成为未来增长的重要观察指标。&lt;/p&gt;
-上调全年指引，预计2027年营收增长至今年三倍
-&lt;p&gt;在第三季度业绩超预期后，Cerebras进一步上调了全年业绩展望。&lt;/p&gt;
-&lt;p&gt;公司目前预计，&lt;strong&gt;2026年核心营收将达到9.4亿至9.6亿美元，高于此前预计的8.8亿至8.9亿美元。第四季度核心营收预计为3.1亿至3.3亿美元，核心毛利率预计达到47%至49%，核心营业利润率预计在-1%至1%之间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对于2027年，CEO Andrew Feldman给出了更为积极的增长预期，预计公司营收将达到2026年的三倍。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为支撑这一目标，Cerebras正在加快制造和基础设施扩张。公司预计，到2026年底，制造产能将超过年初的10倍，并计划在2027年进一步增加工厂和生产能力。&lt;/p&gt;
-&lt;p&gt;在资金方面，公司披露，截至第三季度末，现金、现金等价物、受限现金及短期投资合计达到78亿美元，另有8.5亿美元债务融资能力。&lt;/p&gt;
-GAAP亏损扩大，增长质量仍待检验
-&lt;p&gt;尽管营收和订单储备表现强劲，Cerebras的盈利状况仍值得关注。&lt;/p&gt;
-&lt;p&gt;第三季度，公司GAAP净亏损达到1.612亿美元，较去年同期的2220万美元明显扩大；GAAP营业亏损达到2.241亿美元。相比之下，公司核心营业利润率为-14.3%，仍未实现调整后营业盈利。&lt;/p&gt;
-&lt;p&gt;股权激励费用是两种财务口径出现明显差异的重要因素。第三季度，公司股权激励费用达到1.551亿美元，前三季度累计达到5.417亿美元。此外，客户认股权证摊销也对GAAP业绩产生影响。&lt;/p&gt;
-&lt;p&gt;从毛利率来看，第三季度GAAP毛利率为20%，核心毛利率为41%。公司预计第四季度核心毛利率将进一步升至47%至49%，但这一改善仍有待后续财报验证。&lt;/p&gt;
-&lt;p&gt;对Cerebras而言，AI推理需求增长、云服务客户拓展和算力基础设施扩张，正在推动公司营收快速增长。但在高额资本投入和股权激励费用的背景下，订单能否按期转化为收入，以及规模扩张能否带来持续的盈利改善，仍是投资者需要关注的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？</title><link>https://wallstreetcn.com/articles/3785861</link><guid>e84c124b79de038c21e075ccff3efd48c081828de4b33c91b14f650e66a02aa8</guid><pubDate>Fri, 13 Nov 2026 05:19:29 GMT</pubDate><description>&lt;p&gt;英伟达创始人兼首席执行官黄仁勋的离职来得突然而戏剧性，留下了一连串悬而未决的问题。&lt;strong&gt;从董事会周日公开表态对其信任，到周三夜间黄仁勋正式辞职，短短数日之内发生了什么，目前仍无定论。&lt;/strong&gt;这场震动科技与资本市场的人事变局，不仅牵出白宫是否从中施压的疑云，更令投资者对英伟达未来的业务走向充满不确定性。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？</title><link>https://wallstreetcn.com/articles/3785861</link><guid>e84c124b79de038c21e075ccff3efd48c081828de4b33c91b14f650e66a02aa8</guid><pubDate>Fri, 13 Nov 2026 05:19:29 GMT</pubDate><description>&lt;p&gt;英伟达创始人兼首席执行官黄仁勋的离职来得突然而戏剧性，留下了一连串悬而未决的问题。&lt;strong&gt;从董事会周日公开表态对其信任，到周三夜间黄仁勋正式辞职，短短数日之内发生了什么，目前仍无定论。&lt;/strong&gt;这场震动科技与资本市场的人事变局，不仅牵出白宫是否从中施压的疑云，更令投资者对英伟达未来的业务走向充满不确定性。&lt;/p&gt;
 &lt;p&gt;据英伟达在一份证券文件中披露，黄仁勋于周三夜间辞职。&lt;strong&gt;值得关注的是，多篇报道周三晚间董事会会议的文章，均有华盛顿记者参与撰写——这些记者平日并不负责英伟达报道。&lt;/strong&gt;据科技媒体The Information 11月12日报道，外界由此猜测，白宫是否曾向媒体透露消息，以向黄仁勋施压，迫使其离职。这些问题的答案，据报道最终将会浮出水面，但目前仍无从证实。&lt;/p&gt;
 &lt;p&gt;消息公布后，英伟达股价周四从低点反弹，显示部分投资者认为此前两日的抛售已属过度。&lt;strong&gt;截至周四收盘，英伟达股价约为166美元，对应远期市盈率仅为13.7倍，而竞争对手AMD的远期市盈率高达38.9倍。&lt;/strong&gt;这一巨大估值差距，折射出市场对英伟达在失去黄仁勋后走向的深切疑虑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -802,4 +723,48 @@ GAAP亏损扩大，增长质量仍待检验
 交易规模史无前例，AI战略逻辑驱动合并
 &lt;p&gt;此次合并将在华尔街掀起轩然大波。合并后的实体将囊括电动汽车、储能电池、火箭及卫星业务，&lt;strong&gt;合并体量按当前市值估算超过3.4万亿美元&lt;/strong&gt;——SpaceX市值逾1.9万亿美元，特斯拉市值约1.5万亿美元。&lt;/p&gt;
 &lt;p&gt;将上述资产整合于同一屋檐下的核心逻辑，在于双方共同的战略雄心：&lt;strong&gt;跨越太空、无人驾驶汽车与人形机器人三大领域，全面布局人工智能&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;SpaceX正式名称为Space Exploration Technologies Corp.，总部位于得克萨斯州星际基地（Starbase）。该公司于今年6月在纽约完成具有里程碑意义的首次公开募股，此次上市也令马斯克成为全球首位身家突破万亿美元的富豪。近年来，SpaceX已从领先的火箭制造商和发射服务商，转型为向Anthropic PBC等企业提供AI基础设施的关键供应商，同时也是全球顶级的太空互联网服务提供商。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;SpaceX正式名称为Space Exploration Technologies Corp.，总部位于得克萨斯州星际基地（Starbase）。该公司于今年6月在纽约完成具有里程碑意义的首次公开募股，此次上市也令马斯克成为全球首位身家突破万亿美元的富豪。近年来，SpaceX已从领先的火箭制造商和发射服务商，转型为向Anthropic PBC等企业提供AI基础设施的关键供应商，同时也是全球顶级的太空互联网服务提供商。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中金大并购进入人事阶段，东兴、信达原董事长加盟高管层</title><link>https://wallstreetcn.com/articles/3785856</link><guid>af5e43d3ef12336a088052bcdec26ab7129525d3349141af9796e555a862b7ba</guid><pubDate>Fri, 13 Nov 2026 02:13:06 GMT</pubDate><description>&lt;p&gt;中金公司吸收合并东兴证券、信达证券的过程进入深度整合阶段。&lt;/p&gt;
+&lt;p&gt;日前，东兴证券原董事长李娟、信达证券原董事长林志忠正式公告亮相，出任中金公司总裁助理、管理委员会成员，两位原公司“一把手”由此进入中金的高管序列。&lt;/p&gt;
+&lt;p&gt;此前的9月14日，东兴证券、信达证券走完自己在A股的最后一个交易日。10月19日两只股票终止上市，仅仅7天后，中金公司换股吸收合并两家公司完成交割。&lt;/p&gt;
+&lt;p&gt;显然，这场中央汇金旗下的券商战略整合，进入了人事安置与业务融合的关键环节。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+中金管委会新增两名核心成员
+&lt;p&gt;人事落定的第一步，是董事会程序上的确认。公告显示，11月11日公司完成书面投票，本次应参与表决董事8名，实际参与表决8名，聘任李娟、林志忠的两项议案均获全票通过。&lt;/p&gt;
+&lt;p&gt;根据中金公司章程，管理委员会是公司核心经营机构，成员由董事会聘任。本次任命前管委会共有10名成员，随着李娟、林志忠加入，管委会扩充至12人。&lt;/p&gt;
+&lt;p&gt;今年以来，中金管委会已经历多轮人事调整，既有老成员离任，也有新高管加盟。在此背景下，两位原被整合券商董事长的入局备受市场关注，不过公告暂未披露他们后续分管的业务方向。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+东兴证券一把手出任中金总裁助理
+&lt;p&gt;此次任命的两位高管中，李娟，1970年4月生，山西大学法学硕士，北大法学博士，高级经济师。&lt;/p&gt;
+&lt;p&gt;她早年在中国银行总行法律相关岗位任职，之后长期深耕中国东方资管体系，从法律条线起步，历任法律事务部总经理、天津办事处总经理、北京分公司总经理、邦信资产董事长等职务，法律与AMC业务经验扎实。&lt;/p&gt;
+&lt;p&gt;2022年10月起，李娟出任东兴证券董事长、法定代表人。期间因总经理岗位空缺，曾临时代行总经理职责，显然，她是过去四年东兴证券的“话事人”。&lt;/p&gt;
+&lt;p&gt;任职期间，东兴证券业绩走出修复上行曲线：2022年受市场环境拖累业绩承压，2023年之后归母净利润连续增长，2024年净利润同比增幅接近90%，2025年利润继续走高并落地中期分红。&lt;/p&gt;
+信达证券一把手同步“任命”
+&lt;p&gt;来自信达证券的林志忠，年龄比李娟大了7个月。他1969年9月，南开大学金融学博士，高级经济师，持有证券从业资格。&lt;/p&gt;
+&lt;p&gt;简历显示，林志忠早年任职于建设银行，之后长期扎根中国信达AMC体系，先后在总部及湖南、深圳、福建、上海多家分公司担任负责人，还出任过中国金谷国际信托董事长，在不良资产、股权经营、信托领域经验丰富。&lt;/p&gt;
+&lt;p&gt;2025年8月，他补选为信达证券非独立董事，同年9月当选董事长，同时担任战略规划委员会主任委员。彼时信达证券登陆A股还不到三年。林志忠在其履职后，公司延续增长势头，2026年一季度净利润同比翻倍。&lt;/p&gt;
+定位和岗位职责有待宣布
+&lt;p&gt;作为被并购券商的“掌门人”，李娟、林志忠加入中金公司的管委会，协助后续深度整合是常见的人事安排。&lt;/p&gt;
+&lt;p&gt;两人在位首先是协助稳定人员团队预期。两人分别掌舵东兴证券、信达证券多年，熟悉原机构的业务和人员队伍。进入存续公司管委会，有助于降低客户迁移、网点更名和人员安置过程中的摩擦成本。&lt;/p&gt;
+&lt;p&gt;其次也方便公司善用人才和已有公司的资源，包括协调对口股东的资源。李娟长期在中国东方法律与AMC条线任职，林志忠在中国信达总部及多地担任过负责人，两人既懂不良资产处置逻辑，也熟悉股东内部决策与客户关系，能把中金的投行、研究和产品能力与AMC的资产端对接起来。&lt;/p&gt;
+&lt;p&gt;对此，中金曾明确，将依托这一股东接口，发挥“投资—投行—投研”三投联动优势，重点布局资产投行和产业投行，切入头部券商尚未充分覆盖的特殊资产赛道。&lt;/p&gt;
+&lt;p&gt;当然，接口搭建完成不等于协同自动落地。网点、风控、考核、企业文化的磨合是长期工程，特殊资产投行的业务闭环能否跑通、订单转化效率如何，都需要时间验证。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 头部量化员工涉“为他人牟利”？监管公告“警示”</title><link>https://wallstreetcn.com/articles/3785864</link><guid>78f7c7f4ff8f8532c5c7af1cc66ef4122e7a7dc1cc3fdcd7eb192ea7922a1d4c</guid><pubDate>Fri, 13 Nov 2026 03:31:32 GMT</pubDate><description>&lt;p&gt;上海证监局一纸警示函，把私募量化员工们的合规话题推到了市场聚光灯下。&lt;/p&gt;
+&lt;p&gt;该监管局日前发布的一项行政执法公告认定，私募基金从业人员何云，在从事私募基金业务过程中存在利用职务便利为投资者以外的人牟取利益的情形，违反了《私募投资基金监督管理条例》第三十条第二项、《私募投资基金监督管理暂行办法》第二十三条第三项相关规定。特地予以警示。&lt;/p&gt;
+&lt;p&gt;这背后的“详情”如何，值得追索。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+因何违规
+&lt;p&gt;按照上海证监局的公告，何云是在从事私募基金业务过程中，存在“利用职务便利为投资者以外的人牟取利益”的情形，违反了《私募投资基金监督管理条例》第三十条第二项和《私募投资基金监督管理暂行办法》第二十三条第三项的规定。&lt;/p&gt;
+&lt;p&gt;《私募投资基金监督管理条例》是国务院颁布的条例，专门规范私募行业。其第三十条主要是关于私募行业的从业人员的行为规范要求的。&lt;/p&gt;
+&lt;p&gt;具体来说，第二项要求私募基金管理人、私募基金托管人及其从业人员不得有：利用私募基金财产或者职务便利，为投资者以外的人牟取利益的行为。&lt;/p&gt;
+&lt;p&gt;《私募投资基金监督管理暂行办法》第二十三条第三项的规定也是类似要求。&lt;/p&gt;
+&lt;p&gt;业内观点认为，相关条款限制的是基金从业人员利用职务和基金资产为本人和其他人牟利行为。其常见场景包括“利益输送”（比如，用基金资产资高价接盘其他机构的股票、债券，帮对方变现离场），“发行返费”（比如，基金管理人在债券发行中让自己或关联方收到咨询费、服务费等返费，“自融与向关联方输送资金”，利用“职务便利变现”（比如把未公开持仓、交易计划透露给外部人）等。&lt;/p&gt;
+&lt;p&gt;但未知何云此次违规究竟涉及的是具体什么事项。&lt;/p&gt;
+何云是谁？
+&lt;p&gt;按照监管机构的信息，此次何云为私募行业的从业人士。同时，由上海证监局给出监管措施，显然亦大概率属上海局的监管对象关联的私募从业人士。&lt;/p&gt;
+&lt;p&gt;从工商信息可以了解到，目前上海地区的私募机构、金融机构、资管机构均未有名为何云的高管，相关基金备案信息中亦未查到名为何云的私募核心高管的信息。由此可得，何云大概率为私募行业的中层或一线员工。&lt;/p&gt;
+&lt;p&gt;不过，网络上的搜索可以发现，一家头部量化机构（KD投资）的渠道部执行总经理名为何云，过去几年，该人士亦多次在行业内路演或出席活动。但相关信息暂无法证实或证伪，此渠道人士和此次被“警示”的为同一人。&lt;/p&gt;
+&lt;p&gt;另外，该量化机构如今的协会备案人员中也已没有该何姓员工的备案信息，大概率该人士已经离职。&lt;/p&gt;
+行业合规能力尤可提升
+&lt;p&gt;何云的警示函并非2026年量化私募合规案例中的唯一一例。&lt;/p&gt;
+&lt;p&gt;此前，天算量化的员工用个人账户和公司基金账户在白银期权上互相交易，被上期所通报批评；知行通达刚跻身百亿阵营，因打新询价内控不到位被上交所警示；星阔投资则因代签基金补充协议、不公平对待同一基金的不同投资者，被青岛证监局出具警示函，公司及法定代表人同步被追责。&lt;/p&gt;
+&lt;p&gt;交易端、打新端、募集与存续服务环节，问题各不相同，但底色相似：管理和合规存在短板。&lt;/p&gt;
+&lt;p&gt;这或许也是发展中的挑战，截至2026年一季度末，国内百亿量化私募数量已增至61家，行业整体管理规模保守估算达到2万亿元量级，对于这个发展快速、功能重要且影响巨大的群体而言，走好高质量发展、守好合规底线极为关键。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
