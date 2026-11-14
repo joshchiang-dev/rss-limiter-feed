@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 14 Nov 2026 01:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] 美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11</title><link>https://wallstreetcn.com/articles/3785927</link><guid>dc17eda51e61c71141982e451b0eea951faa1396c29a6a7b0702c593c57d4c2a</guid><pubDate>Sat, 14 Nov 2026 01:05:38 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://www.thepaper.cn/newsDetail_forward_34474213"&gt;新华社&lt;/a&gt;报道，美国联邦航空管理局11月13日以“特殊情况和安全原因”为由，发布全国范围的航班暂停起飞指令。该事件造成逾万架次航班延误或取消，成为近年来美国航空史上影响最为深远的停飞事件之一。&lt;/p&gt;
-&lt;p&gt;此次停飞令于美东时间下午3时53分生效，起因为影响全美空中航路交通管制中心的通信系统故障。航班追踪网站FlightAware的数据显示，&lt;strong&gt;截至当日下午6时40分，全美已有逾3300架次航班被取消，另有逾10200架次出现延误；与此同时，各大航空公司已开始删减周末航班，周六已有逾300个航班遭到取消。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国国土安全部长马克韦恩·马林在白宫表示，此次事件为电信系统中断，&amp;quot;目前没有任何迹象表明这是一起针对我们的恶意攻击&amp;quot;，并强调&amp;quot;这不是又一次9·11事件&amp;quot;。&lt;/p&gt;
-&lt;p&gt;此次停飞令的连锁效应预计将持续蔓延。航空分析公司Cirium的数据显示，截至当日下午4时，仍有约1.1万架航班计划从美国各机场起飞。大量飞机和机组人员因此无法到位，可能引发整个周末的级联式排班混乱。&lt;/p&gt;
-通信系统故障触发全国停飞
-&lt;p&gt;美国交通部长肖恩·达菲在社交媒体上证实，此次故障波及所有空中航路交通管制中心，这些中心负责管理覆盖全美大范围的高空飞行。他表示，&amp;quot;FAA技术人员正在调查此事，一旦有最新进展将立即发布。&amp;quot;&lt;/p&gt;
-&lt;p&gt;FAA发布的官方公告措辞简洁有力：&amp;quot;所有离港航班应继续停飞，直至另行通知。&amp;quot;该机构同时表示，已在空中的航班可继续飞往目的地，入境国际航班将根据具体情况逐一处置。停飞令发布前，FAA已因设备问题率先暂停了飞往芝加哥奥黑尔机场和中途机场的航班，并报告纽瓦克、拉斯维加斯、泰特伯勒、奥兰多、休斯顿和凤凰城等多地航班出现延误。&lt;/p&gt;
-&lt;p&gt;据《华尔街日报》援引知情人士的话报道，&lt;strong&gt;此次故障似乎影响了由L3Harris Technologies公司运营的电信网络，该网络承担着空中交通管制员与飞行员通信的关键无线电频率传输工作。&lt;/strong&gt;目前尚不清楚此次故障是否同时影响了管制员用于保持飞机在空中安全间隔的雷达数据。L3Harris发言人未立即回应置评请求。CBS新闻记者Olivia Rinaldi援引未具名人士的话称，故障或源于该私有通信网络的一次系统更新，导致系统重启后崩溃，进而引发通信中断，但这一说法目前尚未获得官方证实。&lt;/p&gt;
-官员：排除恐袭迹象，但不排除网络攻击可能
-&lt;p&gt;面对外界高度关注，马林在白宫召开记者会，对事件性质作出明确表态。他表示，&amp;quot;目前没有任何迹象表明这是一起针对我们的恶意攻击，当前来看这是一次电信系统中断事件。&amp;quot;他同时强调，特朗普政府官员尚不清楚故障的具体原因，修复工作：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;需要相当长的时间&amp;quot;，&amp;quot;不可能在一个小时内就解决&amp;quot;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;当被追问此次事件是否可能涉及网络攻击时，马林表示官员们&amp;quot;尚未排除任何可能性&amp;quot;。他还特别说明，此次停飞与本周微软系统宕机事件无关。&amp;quot;公众没有理由为自己的亲人感到害怕或担忧，&amp;quot;他说，并再次强调，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;这不是另一起9·11事件&amp;quot;。&lt;/p&gt;
-&lt;/blockquote&gt;
-旅客滞留，航司发布改签豁免
-&lt;p&gt;停飞令迅速在各大机场引发混乱。社交媒体上，旅客纷纷反映，正在滑行的飞机被迫掉头返回登机口，乘客被要求下机，机组人员告知延误可能持续数小时；另有旅客表示被困在机场，登机口人满为患。在纽约拉瓜迪亚机场，取消航班的旅客不得不排长队等候取回托运行李。在新泽西州纽瓦克自由国际机场，安检通道几近空无一人，旅客纷纷低头刷手机寻找最新动态。&lt;/p&gt;
-&lt;p&gt;美联航表示正积极应对此次停飞，将协助旅客在问题解决后尽快抵达目的地。美国航空则表示，预计当日剩余时间内的航班运营将受到扰乱，并称&amp;quot;停飞令一旦解除，美国航空全体员工将全力以赴，以最快速度帮助旅客出发&amp;quot;。多家航空公司已发布改签豁免政策，允许旅客免费更改航班。&lt;/p&gt;
-近年第三次全国停飞令，系统老化问题积重难返
-&lt;p&gt;据《纽约时报》报道，&lt;strong&gt;此次停飞令是FAA近年来发布的第三次全国性航班禁令。此前的两次分别为：2001年9月11日纽约世贸中心遭受恐怖袭击后，以及2023年1月因FAA安全警报（NOTAM）系统故障——后者持续约两小时，造成逾千架次航班取消。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;事实上，美国空中交通管制系统近年来一直饱受通信问题困扰，导致无线电及雷达中断事故频发，波及FAA多处设施。今年早些时候，纽约地区机场曾因一名承包商在新泽西州意外切断光纤通信线路而被迫暂停航班；此外，达拉斯地区、中西部上游及纽约市区域也相继发生过程度不等的通信中断事故，系统基础设施的脆弱性问题再度引发外界关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万</title><link>https://wallstreetcn.com/articles/3785885</link><guid>0387d7b808e0b5b5993a97df6654254fb3d5b73d6ff279d2b72da43ee5e5ef9f</guid><pubDate>Fri, 13 Nov 2026 22:54:12 GMT</pubDate><description>&lt;p&gt;英伟达领导层动荡持续发酵，叠加通胀压力高企与美联储加息预期升温，美股指周五表现分化，标普、纳指收跌，道指则在消费股支撑下收涨。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 14 Nov 2026 02:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万</title><link>https://wallstreetcn.com/articles/3785885</link><guid>0387d7b808e0b5b5993a97df6654254fb3d5b73d6ff279d2b72da43ee5e5ef9f</guid><pubDate>Fri, 13 Nov 2026 22:54:12 GMT</pubDate><description>&lt;p&gt;英伟达领导层动荡持续发酵，叠加通胀压力高企与美联储加息预期升温，美股指周五表现分化，标普、纳指收跌，道指则在消费股支撑下收涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;美国10月生产者价格指数（PPI）同比上涨6.5%，创2022年11月以来最快年增速，尽管数据略低于市场预期，但仍强化了美联储12月继续加息的预期。BMO资本市场分析师Vail Hartman指出，PPI中纳入美联储首选通胀指标的分项数据在10月有所回落。LPL Financial首席经济学家Jeffrey Roach表示：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -124,7 +102,29 @@ AI资本开支链条承压，苹果与Meta支撑道指收涨
 &lt;p&gt;本周柴油批发价格波动剧烈，最终基本持平，总体上与原油价格走势一致。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本周，受气温下降和库存减少的影响，欧美两地区的天然气价格均上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达创18个月最差单周表现，黄仁勋离职引发市场重估</title><link>https://wallstreetcn.com/articles/3785919</link><guid>a9787461ae4e7846d2ab1a381c2307460ed57e719f9888f11c9f20c93d2a6298</guid><pubDate>Fri, 13 Nov 2026 23:44:21 GMT</pubDate><description>&lt;p&gt;英伟达股价本周遭遇逾18个月以来最惨烈的单周跌幅，市值蒸发超过6200亿美元。随着创始人黄仁勋因丑闻被董事会解职，华尔街分析师普遍转向观望，市场对这家全球最大芯片公司的前景信心受到严峻考验。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11</title><link>https://wallstreetcn.com/articles/3785927</link><guid>dc17eda51e61c71141982e451b0eea951faa1396c29a6a7b0702c593c57d4c2a</guid><pubDate>Sat, 14 Nov 2026 01:05:38 GMT</pubDate><description>&lt;p&gt;据&lt;a href="https://www.thepaper.cn/newsDetail_forward_34474213"&gt;新华社&lt;/a&gt;报道，美国联邦航空管理局11月13日以“特殊情况和安全原因”为由，发布全国范围的航班暂停起飞指令。该事件造成逾万架次航班延误或取消，成为近年来美国航空史上影响最为深远的停飞事件之一。&lt;/p&gt;
+&lt;p&gt;此次停飞令于美东时间下午3时53分生效，起因为影响全美空中航路交通管制中心的通信系统故障。航班追踪网站FlightAware的数据显示，&lt;strong&gt;截至当日下午6时40分，全美已有逾3300架次航班被取消，另有逾10200架次出现延误；与此同时，各大航空公司已开始删减周末航班，周六已有逾300个航班遭到取消。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国国土安全部长马克韦恩·马林在白宫表示，此次事件为电信系统中断，&amp;quot;目前没有任何迹象表明这是一起针对我们的恶意攻击&amp;quot;，并强调&amp;quot;这不是又一次9·11事件&amp;quot;。&lt;/p&gt;
+&lt;p&gt;此次停飞令的连锁效应预计将持续蔓延。航空分析公司Cirium的数据显示，截至当日下午4时，仍有约1.1万架航班计划从美国各机场起飞。大量飞机和机组人员因此无法到位，可能引发整个周末的级联式排班混乱。&lt;/p&gt;
+通信系统故障触发全国停飞
+&lt;p&gt;美国交通部长肖恩·达菲在社交媒体上证实，此次故障波及所有空中航路交通管制中心，这些中心负责管理覆盖全美大范围的高空飞行。他表示，&amp;quot;FAA技术人员正在调查此事，一旦有最新进展将立即发布。&amp;quot;&lt;/p&gt;
+&lt;p&gt;FAA发布的官方公告措辞简洁有力：&amp;quot;所有离港航班应继续停飞，直至另行通知。&amp;quot;该机构同时表示，已在空中的航班可继续飞往目的地，入境国际航班将根据具体情况逐一处置。停飞令发布前，FAA已因设备问题率先暂停了飞往芝加哥奥黑尔机场和中途机场的航班，并报告纽瓦克、拉斯维加斯、泰特伯勒、奥兰多、休斯顿和凤凰城等多地航班出现延误。&lt;/p&gt;
+&lt;p&gt;据《华尔街日报》援引知情人士的话报道，&lt;strong&gt;此次故障似乎影响了由L3Harris Technologies公司运营的电信网络，该网络承担着空中交通管制员与飞行员通信的关键无线电频率传输工作。&lt;/strong&gt;目前尚不清楚此次故障是否同时影响了管制员用于保持飞机在空中安全间隔的雷达数据。L3Harris发言人未立即回应置评请求。CBS新闻记者Olivia Rinaldi援引未具名人士的话称，故障或源于该私有通信网络的一次系统更新，导致系统重启后崩溃，进而引发通信中断，但这一说法目前尚未获得官方证实。&lt;/p&gt;
+官员：排除恐袭迹象，但不排除网络攻击可能
+&lt;p&gt;面对外界高度关注，马林在白宫召开记者会，对事件性质作出明确表态。他表示，&amp;quot;目前没有任何迹象表明这是一起针对我们的恶意攻击，当前来看这是一次电信系统中断事件。&amp;quot;他同时强调，特朗普政府官员尚不清楚故障的具体原因，修复工作：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;需要相当长的时间&amp;quot;，&amp;quot;不可能在一个小时内就解决&amp;quot;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;当被追问此次事件是否可能涉及网络攻击时，马林表示官员们&amp;quot;尚未排除任何可能性&amp;quot;。他还特别说明，此次停飞与本周微软系统宕机事件无关。&amp;quot;公众没有理由为自己的亲人感到害怕或担忧，&amp;quot;他说，并再次强调，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;这不是另一起9·11事件&amp;quot;。&lt;/p&gt;
+&lt;/blockquote&gt;
+旅客滞留，航司发布改签豁免
+&lt;p&gt;停飞令迅速在各大机场引发混乱。社交媒体上，旅客纷纷反映，正在滑行的飞机被迫掉头返回登机口，乘客被要求下机，机组人员告知延误可能持续数小时；另有旅客表示被困在机场，登机口人满为患。在纽约拉瓜迪亚机场，取消航班的旅客不得不排长队等候取回托运行李。在新泽西州纽瓦克自由国际机场，安检通道几近空无一人，旅客纷纷低头刷手机寻找最新动态。&lt;/p&gt;
+&lt;p&gt;美联航表示正积极应对此次停飞，将协助旅客在问题解决后尽快抵达目的地。美国航空则表示，预计当日剩余时间内的航班运营将受到扰乱，并称&amp;quot;停飞令一旦解除，美国航空全体员工将全力以赴，以最快速度帮助旅客出发&amp;quot;。多家航空公司已发布改签豁免政策，允许旅客免费更改航班。&lt;/p&gt;
+近年第三次全国停飞令，系统老化问题积重难返
+&lt;p&gt;据《纽约时报》报道，&lt;strong&gt;此次停飞令是FAA近年来发布的第三次全国性航班禁令。此前的两次分别为：2001年9月11日纽约世贸中心遭受恐怖袭击后，以及2023年1月因FAA安全警报（NOTAM）系统故障——后者持续约两小时，造成逾千架次航班取消。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;事实上，美国空中交通管制系统近年来一直饱受通信问题困扰，导致无线电及雷达中断事故频发，波及FAA多处设施。今年早些时候，纽约地区机场曾因一名承包商在新泽西州意外切断光纤通信线路而被迫暂停航班；此外，达拉斯地区、中西部上游及纽约市区域也相继发生过程度不等的通信中断事故，系统基础设施的脆弱性问题再度引发外界关注。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达创18个月最差单周表现，黄仁勋离职引发市场重估</title><link>https://wallstreetcn.com/articles/3785919</link><guid>a9787461ae4e7846d2ab1a381c2307460ed57e719f9888f11c9f20c93d2a6298</guid><pubDate>Fri, 13 Nov 2026 23:44:21 GMT</pubDate><description>&lt;p&gt;英伟达股价本周遭遇逾18个月以来最惨烈的单周跌幅，市值蒸发超过6200亿美元。随着创始人黄仁勋因丑闻被董事会解职，华尔街分析师普遍转向观望，市场对这家全球最大芯片公司的前景信心受到严峻考验。&lt;/p&gt;
 &lt;p&gt;11月13日周五，英伟达股价收跌2%、盘中一度下跌4.7%，将本周累计跌幅扩大至约14%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这是自2025年4月特朗普宣布大规模关税政策、引发全球股市震荡以来的最差单周表现。本周市值损失规模超过标普500指数中97%的成分股市值。&lt;/strong&gt;&lt;/p&gt;
@@ -148,7 +148,49 @@ AI资本开支链条承压，苹果与Meta支撑道指收涨
 &lt;p&gt;在此敏感节点，英伟达定于11月17日（周二）公布季度业绩。&lt;/p&gt;
 &lt;p&gt;这份财报将是黄仁勋离任后该公司发布的首份重要财务数据，市场对其营收指引及管理层的战略表述将格外关注。&lt;/p&gt;
 &lt;p&gt;目前，Colette Kress以临时CEO身份主导公司运营，外界对英伟达领导层过渡是否平稳、核心战略能否延续等问题仍存在较大不确定性。&lt;/p&gt;
-&lt;p&gt;分析师普遍认为，在更多细节浮出水面之前，该股短期内难以摆脱估值重估压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型</title><link>https://wallstreetcn.com/articles/3785914</link><guid>ab6a333b4ba8709f177c51dc3098efa0ebd47517f9dcdbcca567ecafe92976da</guid><pubDate>Sat, 14 Nov 2026 01:09:09 GMT</pubDate><description>&lt;p&gt;OpenAI解散独立机器人团队，押注通用模型直驱具身智能。&lt;/p&gt;
+&lt;p&gt;分析师普遍认为，在更多细节浮出水面之前，该股短期内难以摆脱估值重估压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传统的圣诞行情，今年的美股还有吗？</title><link>https://wallstreetcn.com/articles/3785929</link><guid>fefc1b7e2e6d9125d77395df986a8e53862a8b85acf5c068c6a0c788d659865e</guid><pubDate>Sat, 14 Nov 2026 02:49:13 GMT</pubDate><description>&lt;p&gt;美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛等华尔街主要机构相继发出年末反弹信号。但这场潜在的&amp;quot;圣诞行情&amp;quot;背后，潜伏着一个更难忽视的风险：通胀压力正以超越新冠疫情时期的速度积聚，账单将在明年一月如期呈上。&lt;/p&gt;
+&lt;p&gt;11月13日，高盛策略师Cosimo Codacci-Pisanelli在最新宏观报告中开门见山地问道：&amp;quot;圣诞节能提前到来吗？&amp;quot;他给出的答案是肯定的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;近期股市大幅回调、估值倍数下移、市场仓位大幅减轻，以及季节性因素的支撑，共同构成了年末风险资产向上轧空的条件。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，摩根士丹利与摩根大通也相继发出类似信号，&lt;strong&gt;前者的数据显示，AI板块正经历15年多来最大规模的集中平仓与降杠杆，后者则直接建议客户逢低买入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，这场年末反弹的叙事本身就存在一个内在悖论：&lt;strong&gt;当高盛、摩根士丹利和摩根大通几乎同时喊出同一个交易方向时，原本小众的“年末轧空”反而变成了一笔拥挤的共识交易。&lt;/strong&gt;而Codacci-Pisanelli自己也在报告末尾坦言，2026年的操盘逻辑，恰恰是“做空每一笔共识交易”。&lt;/p&gt;
+
+仓位极度出清，轧空条件成型
+
+&lt;p&gt;&lt;strong&gt;这波潜在反弹的核心论据，首先来自仓位层面的极端出清。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据高盛，此轮去杠杆烈度&amp;quot;是过去十年中最激进的阶段之一&amp;quot;，其美国优先经纪账簿上的净头寸与总头寸同步大幅收缩。在英伟达董事会寻找黄仁勋继任者消息冲击市场的那一天，纳斯达克单日跌幅达到约5个标准差。&lt;/p&gt;
+&lt;p&gt;摩根士丹利方面的数据与此互相印证。据彭博，摩根士丹利优先经纪业务发现，对冲基金持有AI板块的净头寸已于近期转为低配，这是自2023年以来的首次，且此轮对冲基金降杠杆的持续时间为逾15年之最。上周，摩根大通也告知客户，当前市场情绪&amp;quot;相当糟糕——而这理应是看多信号&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛认为，市场在单周内消化了多重利空——包括强于预期的CPI数据、美联储偏鹰表态、利率上行、油价走高以及英伟达负面新闻，而&lt;strong&gt;价格却相对稳定，这本身就说明&amp;quot;卖盘已经接近枯竭&amp;quot;。在没有剩余抛压的情况下，即便坏消息也难以进一步压低价格。&lt;/strong&gt;&lt;/p&gt;
+
+估值回归均值，EPS预期上修
+
+&lt;p&gt;&lt;strong&gt;估值修复是高盛构建反弹逻辑的第二条支柱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Codacci-Pisanelli指出，经过此轮估值倍数收缩，全球股市估值已回到&amp;quot;35年长期历史均值附近&amp;quot;。具体而言，MSCI全球指数12个月远期市盈率已降至15.6倍，市盈率增长比（PEG）降至1.1倍，均接近1997年以来的历史平均水平。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;盈利预期并未同步下修&lt;/strong&gt;。市场对2026年、2027年、尤其是2028年的共识EPS估算，近期以超出历史常规的速度持续上调，2028年的盈利预期曲线，据高盛形容&amp;quot;看起来更像一只meme股，而非一条盈利预测线&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在当前实际利率偏高的背景下，美股的绝对估值也不再显得过度拉伸&lt;/strong&gt;。高盛将标普500指数远期市盈率与10年期实际利率进行回归分析，当前实际利率约为2.25%，对应的合理估值约为18.9倍，而标普目前实际交易在约17.9倍——低于回归线约一个倍数单位。&lt;/p&gt;
+&lt;p&gt;高盛坦承，AI板块的两年前景&amp;quot;仍非常不确定&amp;quot;，并将需求端的关键验证时点定在四季度财报季。但在此之前的六周内，新增的恐慌催化剂有限——而这，恰好是轧空行情的典型温床。&lt;/p&gt;
+
+通胀管道压力，远超疫情高峰
+
+&lt;p&gt;&lt;strong&gt;圣诞行情的反面，是高盛报告中更令人不安的部分。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Codacci-Pisanelli写道，美国CPI在9月和10月连续超出预期，且超预期范围具有广泛性。全球制造业进口价格通胀，以六个月年化折算率计算，目前约为24%，已明显超过2021至2022年疫情通胀高峰期水平；全球生产者价格年化涨幅约为11%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;通胀的扩散范围也在延伸，已不局限于能源与AI硬件，而是向下游蔓延至化工品、塑料和纸制品等类别。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在美国、德国、法国、意大利和英国，进口价格类别中年化涨幅超过5%的比例已跳升至约25%至40%区间；美国生产者价格中该比例更超过40%，这一水平上次出现，正是2021至2022年通胀浪潮的前夕。&lt;/p&gt;
+&lt;p&gt;周五公布的PPI数据并未改变这一图景。尽管10月PPI环比增速略低于预期，报0.3%，同比6.5%，但通胀压力依然显著。此前周二公布的CPI，在70份预测中仅低于1份，可见超预期之广泛。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛认为，企业目前仍在以压缩利润率的方式吸收输入成本上涨，但这种缓冲能维持多久，是核心问题所在。&lt;/strong&gt;&lt;/p&gt;
+
+一月是真正的考验
+
+&lt;p&gt;&lt;strong&gt;上游价格压力通常需要6至12个月才能完全传导至消费端，这意味着账单将在明年一季度到期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛曾对“一月价格重置效应”做过详细的数据测算&lt;/strong&gt;：从历史数据看，一月是全年价格分项出现大幅重置最集中的月份，约有16个分项在一月发生超过2个标准差的价格跳升，而其他月份这一数字通常不超过2.5个。欧洲市场亦显示出同样的季节性规律，自疫情以来，一月的核心HICP数据往往是全年最大涨幅之一。&lt;/p&gt;
+&lt;p&gt;也正是在这一背景下，高盛经济学家在最新CPI数据公布后，已将美联储加息预测上调，新增了第三次加息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Codacci-Pisanelli还点出了一个隐蔽的反身性闭环&lt;/strong&gt;：此前各国央行之所以偏向鸽派，很大程度上是受制于股市下跌和信用收紧带来的压力。若股市企稳、金融环境随之转松，央行继续观望的理由也就不复存在了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;换句话说，年末轧空一旦成真，恰恰是在透支未来的上涨空间，狂欢过后难免迎来“宿醉”。&lt;/strong&gt;在利率交易方向上，高盛明确表态：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;做多前端通胀，是当前投资组合的良好补充。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;高盛自己也在报告中坦承，2026年“对宏观交易员而言是极为艰难的一年，各大类资产里几乎处处是坑”；而&lt;strong&gt;事后复盘，这一年最管用的操盘铁律其实只有一条——“做空每一笔共识交易”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;正如Codacci-Pisanelli在报告末尾所写：即便圣诞老人如约而至，能源冲击带来的中间品PPI涨幅已超出最终需求价格涨幅一倍，制造业进口价格涨速超越疫情高峰，各大企业正等待一月重新定价——这张账单，无论圣诞行情是否兑现，都将在明年一季度准时送达。&lt;/p&gt;
+&lt;p&gt;报告最后一行是：&amp;quot;祝你好运。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型</title><link>https://wallstreetcn.com/articles/3785914</link><guid>ab6a333b4ba8709f177c51dc3098efa0ebd47517f9dcdbcca567ecafe92976da</guid><pubDate>Sat, 14 Nov 2026 01:09:09 GMT</pubDate><description>&lt;p&gt;OpenAI解散独立机器人团队，押注通用模型直驱具身智能。&lt;/p&gt;
 &lt;p&gt;11月13日，据《财富》杂志报道，&lt;strong&gt;OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门&lt;/strong&gt;。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。&lt;/p&gt;
 &lt;p&gt;研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。&lt;strong&gt;在英伟达的一项测试中，由Astra驱动的智能体在模拟操作基准测试中达到74.8%的成功率，优于该榜单上最佳专用机器人模型报告的51.0%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;此次重组同样发生在OpenAI承压削减成本的背景之下&lt;/strong&gt;。据报道，该公司最近一个季度的运营亏损高达109亿美元，同时正寻求完成新一轮融资，并为2027年初可能的IPO做准备。&lt;/p&gt;
@@ -185,30 +227,7 @@ AI资本开支链条承压，苹果与Meta支撑道指收涨
 &lt;p&gt;此次重组亦是OpenAI更大范围成本管控举措的组成部分。&lt;/p&gt;
 &lt;p&gt;Altman去年已明确要求公司摒弃&amp;quot;旁支任务&amp;quot;，此后OpenAI已陆续削减若干项目，包括视频生成模型Sora，以将算力资源重新调配至更具商业潜力的核心业务。&lt;/p&gt;
 &lt;p&gt;据报道，OpenAI最近一个季度运营亏损达109亿美元。在筹备新融资轮次及谋划2027年初IPO的双重压力下，压缩亏损的迫切性持续上升。解散独立机器人团队、将相关人员并入主线研究，既契合公司聚焦核心的战略导向，也有助于减少重复建设、提升研发效率。&lt;/p&gt;
-&lt;p&gt;OpenAI表示，重新安置机器人研究人员至其他团队，是因为公司现在相信这是加速推进通用机器人研发的最佳方式。公司强调，机器人仍是OpenAI长期愿景的核心组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达</title><link>https://wallstreetcn.com/articles/3785924</link><guid>b79e4a75635b21e89d75c673fa8af2dd1749623cbec58d4a15303a0ddf788d47</guid><pubDate>Fri, 13 Nov 2026 23:07:17 GMT</pubDate><description>&lt;p&gt;索罗斯基金管理公司（Soros Fund Management）2026年第三季度大幅调整美股持仓：新建仓韩国存储芯片巨头SK海力士ADR，大幅增持英特尔和Meta，同时减持英伟达，并清仓KKR和ServiceNow。&lt;/p&gt;
-&lt;p&gt;从持仓变化看，该基金在继续布局AI产业链的同时，对芯片行业内部的配置进行了调整。英特尔和Meta获得大幅加仓，英伟达普通股持仓则有所下降，SK海力士的加入也使其投资组合进一步覆盖AI存储领域。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;根据SEC第三季度13F文件，截至2026年9月30日，索罗斯基金披露的持仓涉及247项投资，据统计，13F组合市值约为64.81亿美元。&lt;/p&gt;
-新进SK海力士ADR，布局AI存储产业链
-&lt;p&gt;第三季度，索罗斯基金新建仓韩国存储芯片制造商SK海力士（SK Hynix）的美国存托凭证（ADR），持有32.5万股，披露持仓市值约5985万美元。&lt;/p&gt;
-&lt;p&gt;SK海力士是全球主要存储芯片制造商之一，也是AI数据中心高带宽内存（HBM）供应链的重要参与者。随着AI服务器和加速计算需求增长，HBM已成为AI芯片产业链的重要环节。&lt;/p&gt;
-&lt;p&gt;此次新建仓SK海力士，意味着索罗斯基金的美股组合新增了AI存储领域的重要标的。&lt;/p&gt;
-英特尔持仓激增28倍，Meta增持近六倍
-&lt;p&gt;美国科技股方面，索罗斯基金第三季度大幅增持英特尔（INTC）和Meta（META）。&lt;/p&gt;
-&lt;p&gt;其中，英特尔持仓从第二季度末的10万股增至283万股，增加273万股，增幅高达2730%，相当于持仓规模扩大至原来的28.3倍。截至三季度末，英特尔持仓市值约3.40亿美元。&lt;/p&gt;
-&lt;p&gt;Meta方面，持股数量从第二季度末的21776股增至15.15万股，增加约12.97万股，增幅约596%，三季度末持仓市值约1.10亿美元。&lt;/p&gt;
-&lt;p&gt;两只股票均获得大幅加仓，显示索罗斯基金在第三季度明显增加了对美国大型科技公司的配置。&lt;/p&gt;
-减持英伟达，普通股与看跌期权分别披露
-&lt;p&gt;与英特尔获得大幅增持形成对比，索罗斯基金第三季度减持了英伟达（NVDA）普通股。&lt;/p&gt;
-&lt;p&gt;截至三季度末，该基金持有英伟达普通股约85.88万股，较第二季度末的106.46万股减少约20.58万股，降幅约19.3%。三季度末普通股持仓市值约1.96亿美元。&lt;/p&gt;
-&lt;p&gt;此外，13F文件还单独披露了英伟达看跌期权仓位，对应的持仓数量从第二季度末的40万股降至35万股，期权披露市值约7993万美元。&lt;/p&gt;
-&lt;p&gt;需要注意的是，普通股与看跌期权属于不同类型的持仓，不能合并计算为英伟达股票持股数量。期权披露数量也不等同于期权合约份数。&lt;/p&gt;
-清仓KKR、ServiceNow，退出部分金融和软件股
-&lt;p&gt;在其他个股方面，索罗斯基金第三季度退出了部分此前持有的股票。&lt;/p&gt;
-&lt;p&gt;其中，KKR（KKR）第二季度末持有88715股，第三季度末已不再出现在13F持仓表中；ServiceNow（NOW）第二季度末持有48570股，第三季度同样退出披露组合。&lt;/p&gt;
-&lt;p&gt;两项持仓第二季度末的披露市值分别约814万美元和482万美元。&lt;/p&gt;
-&lt;p&gt;整体来看，索罗斯基金第三季度的调仓呈现出较为鲜明的科技股配置变化：新进SK海力士ADR，大幅增持英特尔和Meta，同时降低英伟达普通股敞口，并退出KKR和ServiceNow。&lt;/p&gt;
-&lt;p&gt;不过，13F文件仅反映基金截至季度末的部分美国市场证券多头持仓，不披露完整的全球资产配置、空头头寸及现金，也无法揭示具体交易时间和投资决策原因。因此，这些变化反映的是其季度末披露组合的调整，并不意味着基金对相关公司的投资观点必然发生了相应变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛2027年宏观展望：全球经济略为提速但道路崎岖，下行风险不容忽视</title><link>https://wallstreetcn.com/articles/3785912</link><guid>2d1ce815c14f4353a43932026ebd8b7d6e34f9f95fc40ab819de4d0432cb7a2e</guid><pubDate>Fri, 13 Nov 2026 22:03:01 GMT</pubDate><description>&lt;p&gt;全球经济在经历2026年伊朗战争冲击后展现出超预期韧性，但高盛警告，2027年的增长路径将更为崎岖，风险天平明显向下倾斜。&lt;/p&gt;
+&lt;p&gt;OpenAI表示，重新安置机器人研究人员至其他团队，是因为公司现在相信这是加速推进通用机器人研发的最佳方式。公司强调，机器人仍是OpenAI长期愿景的核心组成部分。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛2027年宏观展望：全球经济略为提速但道路崎岖，下行风险不容忽视</title><link>https://wallstreetcn.com/articles/3785912</link><guid>2d1ce815c14f4353a43932026ebd8b7d6e34f9f95fc40ab819de4d0432cb7a2e</guid><pubDate>Fri, 13 Nov 2026 22:03:01 GMT</pubDate><description>&lt;p&gt;全球经济在经历2026年伊朗战争冲击后展现出超预期韧性，但高盛警告，2027年的增长路径将更为崎岖，风险天平明显向下倾斜。&lt;/p&gt;
 &lt;p&gt;高盛首席经济学家Jan Hatzius领衔撰写的2027年宏观展望报告预测，全球GDP增速将从2026年的2.7%小幅升至2.8%，略高于潜在增速。&lt;/p&gt;
 &lt;p&gt;报告的核心判断是：能源价格正常化与持续强劲的AI资本开支将构成主要支撑，但金融条件收紧与财政刺激退潮将形成对冲，整体增长格局&amp;quot;稳健但平淡&amp;quot;。与此同时，高盛明确指出三大下行风险——伊朗局势再度升级、债券市场动荡以及AI投资周期提前见顶——并认为市场面临的挑战将比宏观经济本身更为严峻。&lt;/p&gt;
 &lt;p&gt;在货币政策层面，高盛预计美联储将在12月和明年3月各加息一次，欧洲央行将在12月完成最后一次加息，随后两家央行均将于2027年底转向降息。高盛的利率预测整体较市场定价更为鸽派，这一判断对股票和债券均构成潜在利好。在资产配置上，高盛维持股票和债券正回报的基线预测，但强调随着市场周期趋于成熟，波动性上升的概率大于下降，建议投资者加强对冲与分散配置。&lt;/p&gt;
@@ -248,7 +267,30 @@ AI资本开支链条承压，苹果与Meta支撑道指收涨
 &lt;p&gt;对于信用市场，高盛预计2027年信用利差将进一步走阔，美国高收益债将跑输，弱资质借款人尾部风险可能引发更大范围的融资市场动荡。&lt;/p&gt;
 &lt;p&gt;对于债市，高盛认为实际收益率处于近30年高位，债券的对冲价值正在逐步恢复。随着2027年下半年增长风险上升、央行加息周期接近尾声，债券与股票的负相关性有望重新显现。高盛预测美国10年期国债收益率将于2027年底降至4.6%。&lt;/p&gt;
 &lt;p&gt;对汇市，高盛基线预测为美元温和走弱，人民币在贸易顺差支撑下继续升值。若市场对美国科技股&amp;quot;例外论&amp;quot;的质疑加速，美元可能出现更大幅度的下跌，日元则将因避险需求而显著升值。&lt;/p&gt;
-&lt;p&gt;在大宗商品方面，高盛建议将其作为投资组合对冲工具，欧洲天然气期货及TTF看涨期权可作为能源价格上行风险的非对称对冲手段。此外，高盛认为随着市场周期趋于成熟，股票指数波动率更可能上升而非下降，建议投资者考虑通过虚值看跌期权或以长期看涨期权替代股票持仓来寻求更深层次的保护。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] DeepSeek开放全家桶API：以后可以随心所欲构建APP了</title><link>https://wallstreetcn.com/articles/3785916</link><guid>93413aadbf426eb4b649a94f2a615f181316f4527cf192090a143340b3d815d0</guid><pubDate>Fri, 13 Nov 2026 21:53:56 GMT</pubDate><description>&lt;p&gt;在 DeepSeek App（含网页端）的对话服务中，联网搜索、文件输入、阅读链接、语音交互及安全等能力与模型推理相互配合，构成了用户熟悉的对话体验。而开发者如果想要在应用中实现类似功能，除接入原有 DeepSeek API 外，往往还需耗费大量精力去对接外部工具、处理调用衔接。 &lt;/p&gt;&lt;p&gt;今天，我们正式开放这套全家桶应用 API：在原有 API 中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。开发者可以在自己的应用中轻松实现复杂的对话功能，甚至 1:1 复刻出完整的 DeepSeek App。&lt;/p&gt;&lt;strong&gt;全面开放应用功能，支持独立调用&lt;/strong&gt;&lt;p&gt;本次更新将 DeepSeek App 的各项交互功能直接整合进原有 API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。目前，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持以下能力：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;联网搜索：在非思考模式下，打开 deepseek_web_search 工具后，模型可根据提问自动发起网页或图片搜索并附引用作答；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;深度思考搜索：在思考模式下，打开 deepseek_web_search 工具后，模型可在多步推理中自主联网搜索与阅读链接；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;文件输入：支持上传 PDF、Office、图片等格式的文件，完成纯文本提取或图文混排解析后，拼入对话上下文供模型作答；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;阅读链接：将 deepseek_read_url 工具打开后，模型可自动识别用户消息中的链接，抓取网页内容并结合上下文作答；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;模型安全：开启安全校验参数后，我们将提供基础风控，审核模型输入输出，命中风险时返回拒答标识。如您对外提供应用服务，请务必开启该参数，并承担内容安全审核、大模型登记、AI 标识等义务。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;此外，为方便开发者更灵活地接入自有工作流，上述底层能力及语音能力&lt;strong&gt;均支持作为独立接口单独调用&lt;/strong&gt;，包括：Search、Fetch、OCR、ASR、TTS。&lt;/p&gt;&lt;p&gt;使用上述接口，开发者即可实现与 DeepSeek App 基本一致的功能。为直观演示这一效果，我们基于新版 API 构建并开源了一份轻量的前端 Demo，支持直接导入 DeepSeek 历史对话。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Demo 体验入口：https://cdn.deepseek.com/chat-demo&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;示例代码入口：https://github.com/deepseek-ai/chat-demo&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;更详细的参数定义与调用说明，请参考 DeepSeek 官方 API 文档 [API 指南 - 构建 Chatbot]。&lt;/p&gt;&lt;strong&gt;API 定价说明&lt;/strong&gt;&lt;p&gt;用户调用 DeepSeek API 使用扩展能力时，除收取 Token 费用外，也将收取相关工具的调用费用。各项工具价格如下表所示：&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;写在后面的话&lt;/p&gt;&lt;p&gt;我们相信，人与模型的交互依然充满无限可能，而 DeepSeek 现有的对话产品只是较为基础的一种形态。&lt;/p&gt;&lt;p&gt;现在，官方产品背后的各项能力均已支持通过 DeepSeek API 随心调用、自由组合，我们期待开发者能够借此省去重复的基础工作，打造出更多样、更极致、更具想象力的产品。&lt;/p&gt;&lt;p&gt;欢迎使用 DeepSeek API，尽情创造。&lt;/p&gt;&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ"&gt;DeepSeek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生</title><link>https://wallstreetcn.com/articles/3785915</link><guid>9f0819f535fbc91b1c7fa9ee51914b6c3ce949bc21a49063d72346491c763fef</guid><pubDate>Fri, 13 Nov 2026 21:54:26 GMT</pubDate><description>&lt;p&gt;英伟达董事会在创始人黄仁勋因婚外情丑闻辞职后，启动了一场关乎这家4万亿美元市值AI芯片巨头命运的接班人搜寻。&lt;/p&gt;
+&lt;p&gt;在大宗商品方面，高盛建议将其作为投资组合对冲工具，欧洲天然气期货及TTF看涨期权可作为能源价格上行风险的非对称对冲手段。此外，高盛认为随着市场周期趋于成熟，股票指数波动率更可能上升而非下降，建议投资者考虑通过虚值看跌期权或以长期看涨期权替代股票持仓来寻求更深层次的保护。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] DeepSeek开放全家桶API：以后可以随心所欲构建APP了</title><link>https://wallstreetcn.com/articles/3785916</link><guid>93413aadbf426eb4b649a94f2a615f181316f4527cf192090a143340b3d815d0</guid><pubDate>Fri, 13 Nov 2026 21:53:56 GMT</pubDate><description>&lt;p&gt;在 DeepSeek App（含网页端）的对话服务中，联网搜索、文件输入、阅读链接、语音交互及安全等能力与模型推理相互配合，构成了用户熟悉的对话体验。而开发者如果想要在应用中实现类似功能，除接入原有 DeepSeek API 外，往往还需耗费大量精力去对接外部工具、处理调用衔接。 &lt;/p&gt;&lt;p&gt;今天，我们正式开放这套全家桶应用 API：在原有 API 中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。开发者可以在自己的应用中轻松实现复杂的对话功能，甚至 1:1 复刻出完整的 DeepSeek App。&lt;/p&gt;&lt;strong&gt;全面开放应用功能，支持独立调用&lt;/strong&gt;&lt;p&gt;本次更新将 DeepSeek App 的各项交互功能直接整合进原有 API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。目前，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持以下能力：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;联网搜索：在非思考模式下，打开 deepseek_web_search 工具后，模型可根据提问自动发起网页或图片搜索并附引用作答；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;深度思考搜索：在思考模式下，打开 deepseek_web_search 工具后，模型可在多步推理中自主联网搜索与阅读链接；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;文件输入：支持上传 PDF、Office、图片等格式的文件，完成纯文本提取或图文混排解析后，拼入对话上下文供模型作答；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;阅读链接：将 deepseek_read_url 工具打开后，模型可自动识别用户消息中的链接，抓取网页内容并结合上下文作答；&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;模型安全：开启安全校验参数后，我们将提供基础风控，审核模型输入输出，命中风险时返回拒答标识。如您对外提供应用服务，请务必开启该参数，并承担内容安全审核、大模型登记、AI 标识等义务。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;此外，为方便开发者更灵活地接入自有工作流，上述底层能力及语音能力&lt;strong&gt;均支持作为独立接口单独调用&lt;/strong&gt;，包括：Search、Fetch、OCR、ASR、TTS。&lt;/p&gt;&lt;p&gt;使用上述接口，开发者即可实现与 DeepSeek App 基本一致的功能。为直观演示这一效果，我们基于新版 API 构建并开源了一份轻量的前端 Demo，支持直接导入 DeepSeek 历史对话。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Demo 体验入口：https://cdn.deepseek.com/chat-demo&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;示例代码入口：https://github.com/deepseek-ai/chat-demo&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;更详细的参数定义与调用说明，请参考 DeepSeek 官方 API 文档 [API 指南 - 构建 Chatbot]。&lt;/p&gt;&lt;strong&gt;API 定价说明&lt;/strong&gt;&lt;p&gt;用户调用 DeepSeek API 使用扩展能力时，除收取 Token 费用外，也将收取相关工具的调用费用。各项工具价格如下表所示：&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;写在后面的话&lt;/p&gt;&lt;p&gt;我们相信，人与模型的交互依然充满无限可能，而 DeepSeek 现有的对话产品只是较为基础的一种形态。&lt;/p&gt;&lt;p&gt;现在，官方产品背后的各项能力均已支持通过 DeepSeek API 随心调用、自由组合，我们期待开发者能够借此省去重复的基础工作，打造出更多样、更极致、更具想象力的产品。&lt;/p&gt;&lt;p&gt;欢迎使用 DeepSeek API，尽情创造。&lt;/p&gt;&lt;p&gt;本文来源：&lt;a href="https://mp.weixin.qq.com/s/78KBHc4-4N5b2vfL9SkutQ"&gt;DeepSeek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达</title><link>https://wallstreetcn.com/articles/3785924</link><guid>b79e4a75635b21e89d75c673fa8af2dd1749623cbec58d4a15303a0ddf788d47</guid><pubDate>Fri, 13 Nov 2026 23:07:17 GMT</pubDate><description>&lt;p&gt;索罗斯基金管理公司（Soros Fund Management）2026年第三季度大幅调整美股持仓：新建仓韩国存储芯片巨头SK海力士ADR，大幅增持英特尔和Meta，同时减持英伟达，并清仓KKR和ServiceNow。&lt;/p&gt;
+&lt;p&gt;从持仓变化看，该基金在继续布局AI产业链的同时，对芯片行业内部的配置进行了调整。英特尔和Meta获得大幅加仓，英伟达普通股持仓则有所下降，SK海力士的加入也使其投资组合进一步覆盖AI存储领域。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;根据SEC第三季度13F文件，截至2026年9月30日，索罗斯基金披露的持仓涉及247项投资，据统计，13F组合市值约为64.81亿美元。&lt;/p&gt;
+新进SK海力士ADR，布局AI存储产业链
+&lt;p&gt;第三季度，索罗斯基金新建仓韩国存储芯片制造商SK海力士（SK Hynix）的美国存托凭证（ADR），持有32.5万股，披露持仓市值约5985万美元。&lt;/p&gt;
+&lt;p&gt;SK海力士是全球主要存储芯片制造商之一，也是AI数据中心高带宽内存（HBM）供应链的重要参与者。随着AI服务器和加速计算需求增长，HBM已成为AI芯片产业链的重要环节。&lt;/p&gt;
+&lt;p&gt;此次新建仓SK海力士，意味着索罗斯基金的美股组合新增了AI存储领域的重要标的。&lt;/p&gt;
+英特尔持仓激增28倍，Meta增持近六倍
+&lt;p&gt;美国科技股方面，索罗斯基金第三季度大幅增持英特尔（INTC）和Meta（META）。&lt;/p&gt;
+&lt;p&gt;其中，英特尔持仓从第二季度末的10万股增至283万股，增加273万股，增幅高达2730%，相当于持仓规模扩大至原来的28.3倍。截至三季度末，英特尔持仓市值约3.40亿美元。&lt;/p&gt;
+&lt;p&gt;Meta方面，持股数量从第二季度末的21776股增至15.15万股，增加约12.97万股，增幅约596%，三季度末持仓市值约1.10亿美元。&lt;/p&gt;
+&lt;p&gt;两只股票均获得大幅加仓，显示索罗斯基金在第三季度明显增加了对美国大型科技公司的配置。&lt;/p&gt;
+减持英伟达，普通股与看跌期权分别披露
+&lt;p&gt;与英特尔获得大幅增持形成对比，索罗斯基金第三季度减持了英伟达（NVDA）普通股。&lt;/p&gt;
+&lt;p&gt;截至三季度末，该基金持有英伟达普通股约85.88万股，较第二季度末的106.46万股减少约20.58万股，降幅约19.3%。三季度末普通股持仓市值约1.96亿美元。&lt;/p&gt;
+&lt;p&gt;此外，13F文件还单独披露了英伟达看跌期权仓位，对应的持仓数量从第二季度末的40万股降至35万股，期权披露市值约7993万美元。&lt;/p&gt;
+&lt;p&gt;需要注意的是，普通股与看跌期权属于不同类型的持仓，不能合并计算为英伟达股票持股数量。期权披露数量也不等同于期权合约份数。&lt;/p&gt;
+清仓KKR、ServiceNow，退出部分金融和软件股
+&lt;p&gt;在其他个股方面，索罗斯基金第三季度退出了部分此前持有的股票。&lt;/p&gt;
+&lt;p&gt;其中，KKR（KKR）第二季度末持有88715股，第三季度末已不再出现在13F持仓表中；ServiceNow（NOW）第二季度末持有48570股，第三季度同样退出披露组合。&lt;/p&gt;
+&lt;p&gt;两项持仓第二季度末的披露市值分别约814万美元和482万美元。&lt;/p&gt;
+&lt;p&gt;整体来看，索罗斯基金第三季度的调仓呈现出较为鲜明的科技股配置变化：新进SK海力士ADR，大幅增持英特尔和Meta，同时降低英伟达普通股敞口，并退出KKR和ServiceNow。&lt;/p&gt;
+&lt;p&gt;不过，13F文件仅反映基金截至季度末的部分美国市场证券多头持仓，不披露完整的全球资产配置、空头头寸及现金，也无法揭示具体交易时间和投资决策原因。因此，这些变化反映的是其季度末披露组合的调整，并不意味着基金对相关公司的投资观点必然发生了相应变化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生</title><link>https://wallstreetcn.com/articles/3785915</link><guid>9f0819f535fbc91b1c7fa9ee51914b6c3ce949bc21a49063d72346491c763fef</guid><pubDate>Fri, 13 Nov 2026 21:54:26 GMT</pubDate><description>&lt;p&gt;英伟达董事会在创始人黄仁勋因婚外情丑闻辞职后，启动了一场关乎这家4万亿美元市值AI芯片巨头命运的接班人搜寻。&lt;/p&gt;
 &lt;p&gt;11月13日，据英国《金融时报》报道，&lt;strong&gt;英伟达董事会已就继任事宜接触Arm Holdings首席执行官Rene Haas。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;（Arm首席执行官Rene Haas，图源：Arm官网）&lt;/p&gt;
 &lt;p&gt;这一消息提振了市场情绪，Arm美股盘中跌幅有所收窄，但仍下跌4.8%；英伟达股价同日下跌逾2%。&lt;/p&gt;
@@ -344,22 +386,4 @@ DXY突破关键技术位，多头信号全面点亮
 &lt;blockquote&gt;
 &lt;p&gt;非趋势追随型投资者的整体仓位尚未出现明显平仓迹象，价格下行或将再度吸引这类仍以长期货币贬值与去美元化为主题的投资者入场布局。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;从市场结构看，短期内能源价格驱动的通胀走向及美联储官员表态，将继续主导黄金的价格走势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 景林资产Q3瞄准巨头：新进英伟达、阿里，大幅增持台积电</title><link>https://wallstreetcn.com/articles/3785913</link><guid>87a7d543d1093bd782208da96ee33c5663c7397a5fc94ee331d27cc3549605f3</guid><pubDate>Fri, 13 Nov 2026 18:33:50 GMT</pubDate><description>&lt;p&gt;知名私募景林资产三季度大举调整美股持仓，新建仓英伟达和中概阿里巴巴，同时增持台积电、亚朵和华住，重仓股中谷歌母公司Alphabet和英特尔获增持，减持满帮集团，并清仓携程和奇富科技。&lt;/p&gt;
-&lt;p&gt;此次调仓显示，景林一方面重新布局AI芯片龙头，另一方面继续调整中概股配置。&lt;/p&gt;
-&lt;p&gt;以景林资产管理香港有限公司（Greenwoods Asset Management Hong Kong Ltd.）递交美国证监会的13F文件估算，截至2026年三季度末，该公司披露的21项投资总市值约29.5亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Q2清仓后又建仓英伟达，台积电持股增超十倍
-&lt;p&gt;科技股方面，景林三季度新建仓英伟达（NVDA），重新买入这家AI芯片巨头11.8万股，市值2700万美元。值得注意的是，景林此前在2026年第二季度已经清仓英伟达，此次重新建仓意味着其美股组合再次纳入这一AI产业链核心标的。&lt;/p&gt;
-&lt;p&gt;与此同时，景林新建仓阿里巴巴美股（BABA），持仓约4.73万股；新进Meta（META）30.4万股。&lt;/p&gt;
-&lt;p&gt;在AI芯片产业链上，景林还大幅增持纽交所上市的台积电美股（TSM），持股增加约89.22万股，较二季度增长十倍以上，成为三季度披露的大中华区标的中增持规模最大的股票之一。&lt;/p&gt;
-加码酒店股，亚朵、华住均获增持
-&lt;p&gt;消费服务板块方面，景林继续增持酒店运营商。&lt;/p&gt;
-&lt;p&gt;其中，亚朵（ATAT）获增持约66.91万股，华住集团（HTHT）获增持约31.78万股。&lt;/p&gt;
-&lt;p&gt;两家酒店企业同时获得加仓，显示景林继续配置中国酒店及出行消费相关资产。&lt;/p&gt;
-&lt;p&gt;不过，13F文件反映的是季度末持仓变化，无法据此判断基金具体的买入时间、交易价格或投资逻辑。&lt;/p&gt;
-清仓奇富科技、携程，减持满帮
-&lt;p&gt;减持方面，景林三季度对部分中概股进行了较大幅度调整。&lt;/p&gt;
-&lt;p&gt;其中，原名360金融的奇富科技（QFIN）被全部清仓，持股减少约303万股；携程（TCOM）也被清仓，退出约1.2万股。&lt;/p&gt;
-&lt;p&gt;此外，满帮集团（YMM）遭减持约40.55万股。&lt;/p&gt;
-&lt;p&gt;从整体调仓方向看，景林一边重新配置英伟达、阿里巴巴等大型科技公司，并加码台积电及酒店股，另一边退出奇富科技和携程，调整部分中概股敞口。&lt;/p&gt;
-&lt;p&gt;需要注意的是，13F仅披露符合申报要求的美国市场证券多头持仓，不涵盖基金的全部资产、现金及空头头寸，也无法完整反映其境内产品和其他市场的投资。因此，这份报告呈现的是景林海外投资组合的部分变化，而非其全部投资策略。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;从市场结构看，短期内能源价格驱动的通胀走向及美联储官员表态，将继续主导黄金的价格走势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
