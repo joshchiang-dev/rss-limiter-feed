@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 15 Nov 2026 15:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报</title><link>https://wallstreetcn.com/articles/3785932</link><guid>ecb32489164202b858fbfbfcbe210c4cb4c934a41088577222003fbfe70467b4</guid><pubDate>Sun, 15 Nov 2026 11:41:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 15 Nov 2026 16:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报</title><link>https://wallstreetcn.com/articles/3785932</link><guid>ecb32489164202b858fbfbfcbe210c4cb4c934a41088577222003fbfe70467b4</guid><pubDate>Sun, 15 Nov 2026 11:41:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首先，关注APEC领导人非正式会议。&lt;/strong&gt;峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。&lt;/p&gt;
@@ -111,7 +111,38 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;11月16日至11月19日，百度、京东、腾讯、阿里四家互联网巨头将连续四天密集披露最新一季财报。 本轮财报季的核心看点在于两大阵营的盈利分化，即外卖补贴退坡带来的利润修复与AI算力重投入对短期利润的挤压。 &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季</title><link>https://wallstreetcn.com/articles/3785968</link><guid>32f307c5360bce0208800f17cbb42dc7233736df9556e13fd1b0ab023d734d86</guid><pubDate>Sun, 15 Nov 2026 13:08:47 GMT</pubDate><description>&lt;p&gt;美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱</title><link>https://wallstreetcn.com/articles/3785963</link><guid>fab969ad66ee17e3a045970ce65bee475493e17671b160673cdad40047aa53e6</guid><pubDate>Sun, 15 Nov 2026 08:33:47 GMT</pubDate><description>&lt;p&gt;存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。&lt;/p&gt;
+&lt;p&gt;美银11月13日报告显示，&lt;strong&gt;NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑&lt;strong&gt;。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至2026年第四季度（环比增8%）和2027年第一季度（增5%）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美银称，本周与投资者交流后，存储股情绪较上周有所改善，DRAM权重较高的公司被认为下行空间有限。多数DRAM标的当前对应2026至2027年盈利仅3至5倍市盈率，明显低于AI半导体同业。&lt;/p&gt;
+
+NAND现货走弱的三重信号
+
+&lt;p&gt;美银将NAND的担忧归结为三点：&lt;strong&gt;现货价格自10月中下旬以来回调20%左右；PC与智能手机OEM乃至中国超大规模云厂商的订单走弱；以及2027年第一季度合约价谈判可能被推迟，市场没有出现抢单。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现货数据的分化相当直观。据DRAMeXchange，512Gb晶圆现货报14.3美元，周环比跌12%，季度环比跌32%，但同比仍涨121%；1Tb报24.9美元，周环比跌4%，季度环比跌19%，同比涨194%。相比之下，16Gb DDR5报60.2美元，周环比持平，同比涨150%。&lt;/p&gt;
+&lt;p&gt;原厂口径依旧强调企业级SSD需求强劲，可在一定程度上对冲IT NAND的疲软。&lt;strong&gt;但美银提醒，老旧产线占全球晶圆总产能的20%至30%，并不适合生产高端NAND与eSSD，仍需持续用于IT NAND，这构成价格的结构性压力。&lt;/strong&gt;大容量NAND（2Tb以上）与eSSD（30TB以上）的每比特价格出现小幅下调，但美银认为这更像是厂商为推广新一代QLC而做的主动促销——多数eSSD的NAND价格仍呈小幅上行趋势。&lt;/p&gt;
+
+分歧点：合约价还在高位，但谈判可能推迟
+
+&lt;p&gt;NAND合约价与现货价目前走势背离。&lt;/p&gt;
+&lt;p&gt;据TrendForce，1Tb TLC晶圆10月合约价环比基本持平，延续第二至第三季度的横盘格局；512Gb合约价约27美元，接近历史高位，约为2025年2月低点2.5美元的十倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美银的担忧在于时点：&lt;strong&gt;若下游迟迟不下急单，2027年第一季度的合约价谈判可能后移，厂商在新一轮谈价中的议价能力将被削弱。&lt;/strong&gt;这一判断直接对应其与市场的预期差——卖方普遍假设NAND售价仍将上涨10%左右，美银则给出低个位数下滑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;DRAM一侧则是另一幅图景。据TrendForce，16Gb DDR5合约价10月环比再涨5%，同比涨幅超过500%；服务器端DDR5与DDR4的64GB模组10月合约价环比涨约15%，模组价格已突破1000美元，分别达到1600美元和1500美元。美银据此维持DRAM在2026年第四季度环比涨8%、2027年第一季度涨5%的假设。&lt;/p&gt;
+
+三星：HBM乐观，但不激进
+
+&lt;p&gt;美银于11月12日举办了与三星电子的投资者交流会，得到的三个要点是：&lt;strong&gt;美国AI数据中心芯片需求强劲，尽管存在担忧但未见订单削减；HBM市场地位较一年前的弱势明显改善；DRAM业务的长协价（LTA）强劲上行，高售价与高毛利在长周期内可持续。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但管理层的表态并不激进，这也是投资者关注的焦点之一。&lt;/strong&gt;三星给出的HBM份额目标为30%至40%左右，而非50%以上；即便到2027年末，LPDDR5的盈利能力仍优于HBM，因此HBM产能扩张不太可能过于激进，以避免侵蚀传统DRAM的市场份额。技术路线上，HBM4e将与HBM4共用同一1c节点和4nm逻辑芯片。美银还提到，2027年合约涨价幅度不太可能达到TrendForce预期的水平，因为价格在2026年已经先行上涨。&lt;/p&gt;
+&lt;p&gt;值得注意的是，三星对IT用NAND的指引并不如eSSD乐观，这与美银的价格判断一致。&lt;/p&gt;
+
+情绪回暖，估值仍是主要支撑
+
+&lt;p&gt;存储股本周反弹，全年累计涨幅普遍在100%以上，SanDisk与Kioxia年初至今回报超过250%。美银称，本周交流的投资者普遍提到下行空间有限，理由是美国中期选举后AIDC芯片订单保持韧性、DRAM售价仍在上涨（与NAND形成对比），以及估值倍数偏低。&lt;/p&gt;
+&lt;p&gt;估值表显示，SK Hynix对应2026年市盈率3.6倍，Samsung为4.7倍，Micron为10.7倍，Nanya为5.1倍；NAND阵营中，Sandisk对应2027年市盈率4.3倍，Western Digital为13.2倍，SIMO为16.4倍，Phison为7.7倍。美银认为，相较于AI半导体同业，存储板块的定价仍显温和。&lt;/p&gt;
+&lt;p&gt;美银总结认为，&lt;strong&gt;DRAM的供需与价格趋势仍由AI数据中心与HBM挤占产能所支撑，而NAND的定价权正在向买方倾斜。两者的估值差与业绩弹性，将取决于2027年第一季度合约价谈判能否如期落地。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季</title><link>https://wallstreetcn.com/articles/3785968</link><guid>32f307c5360bce0208800f17cbb42dc7233736df9556e13fd1b0ab023d734d86</guid><pubDate>Sun, 15 Nov 2026 13:08:47 GMT</pubDate><description>&lt;p&gt;美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。&lt;/p&gt;
 &lt;p&gt;美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的&amp;quot;破坏之球&amp;quot;——&lt;strong&gt;美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;在此背景下，他将全球加息周期的终点推迟至明年4月美联储议息会议，并将看空风险资产的立场延续至明年春季美元见顶之后。&lt;/p&gt;
@@ -163,38 +194,7 @@
 &lt;p&gt;&lt;strong&gt;若指数突破8000点，驱动力在于持续的逢低买入资金流、等权重标普500回归历史高位所传递的&amp;quot;股优于债&amp;quot;信号，以及垃圾债、标普500指数、券商股与台积电均守住200日均线这一技术支撑。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;他还将11月18日深圳APEC峰会视为潜在催化剂，认为中美俄三国领导人的会面可能确认油价见顶。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;若指数跌破7000点，核心风险来自美元急涨引发的流动性短缺，以及央行在经济放缓之际继续加息的政策失误。最脆弱的资产包括高收益债券、美国与新兴市场股票、能源与医疗保健板块，以及超大市值消费股。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;若他的风险规避判断被证伪，未来八周最可能大幅上行的资产则包括黄金、投资级科技债、受益于强美元与低油价的日本和欧洲股市、中国科技股、中小市值股票、半导体、可选消费及住宅建筑商板块。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱</title><link>https://wallstreetcn.com/articles/3785963</link><guid>fab969ad66ee17e3a045970ce65bee475493e17671b160673cdad40047aa53e6</guid><pubDate>Sun, 15 Nov 2026 08:33:47 GMT</pubDate><description>&lt;p&gt;存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。&lt;/p&gt;
-&lt;p&gt;美银11月13日报告显示，&lt;strong&gt;NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑&lt;strong&gt;。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至2026年第四季度（环比增8%）和2027年第一季度（增5%）。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美银称，本周与投资者交流后，存储股情绪较上周有所改善，DRAM权重较高的公司被认为下行空间有限。多数DRAM标的当前对应2026至2027年盈利仅3至5倍市盈率，明显低于AI半导体同业。&lt;/p&gt;
-
-NAND现货走弱的三重信号
-
-&lt;p&gt;美银将NAND的担忧归结为三点：&lt;strong&gt;现货价格自10月中下旬以来回调20%左右；PC与智能手机OEM乃至中国超大规模云厂商的订单走弱；以及2027年第一季度合约价谈判可能被推迟，市场没有出现抢单。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;现货数据的分化相当直观。据DRAMeXchange，512Gb晶圆现货报14.3美元，周环比跌12%，季度环比跌32%，但同比仍涨121%；1Tb报24.9美元，周环比跌4%，季度环比跌19%，同比涨194%。相比之下，16Gb DDR5报60.2美元，周环比持平，同比涨150%。&lt;/p&gt;
-&lt;p&gt;原厂口径依旧强调企业级SSD需求强劲，可在一定程度上对冲IT NAND的疲软。&lt;strong&gt;但美银提醒，老旧产线占全球晶圆总产能的20%至30%，并不适合生产高端NAND与eSSD，仍需持续用于IT NAND，这构成价格的结构性压力。&lt;/strong&gt;大容量NAND（2Tb以上）与eSSD（30TB以上）的每比特价格出现小幅下调，但美银认为这更像是厂商为推广新一代QLC而做的主动促销——多数eSSD的NAND价格仍呈小幅上行趋势。&lt;/p&gt;
-
-分歧点：合约价还在高位，但谈判可能推迟
-
-&lt;p&gt;NAND合约价与现货价目前走势背离。&lt;/p&gt;
-&lt;p&gt;据TrendForce，1Tb TLC晶圆10月合约价环比基本持平，延续第二至第三季度的横盘格局；512Gb合约价约27美元，接近历史高位，约为2025年2月低点2.5美元的十倍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美银的担忧在于时点：&lt;strong&gt;若下游迟迟不下急单，2027年第一季度的合约价谈判可能后移，厂商在新一轮谈价中的议价能力将被削弱。&lt;/strong&gt;这一判断直接对应其与市场的预期差——卖方普遍假设NAND售价仍将上涨10%左右，美银则给出低个位数下滑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;DRAM一侧则是另一幅图景。据TrendForce，16Gb DDR5合约价10月环比再涨5%，同比涨幅超过500%；服务器端DDR5与DDR4的64GB模组10月合约价环比涨约15%，模组价格已突破1000美元，分别达到1600美元和1500美元。美银据此维持DRAM在2026年第四季度环比涨8%、2027年第一季度涨5%的假设。&lt;/p&gt;
-
-三星：HBM乐观，但不激进
-
-&lt;p&gt;美银于11月12日举办了与三星电子的投资者交流会，得到的三个要点是：&lt;strong&gt;美国AI数据中心芯片需求强劲，尽管存在担忧但未见订单削减；HBM市场地位较一年前的弱势明显改善；DRAM业务的长协价（LTA）强劲上行，高售价与高毛利在长周期内可持续。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但管理层的表态并不激进，这也是投资者关注的焦点之一。&lt;/strong&gt;三星给出的HBM份额目标为30%至40%左右，而非50%以上；即便到2027年末，LPDDR5的盈利能力仍优于HBM，因此HBM产能扩张不太可能过于激进，以避免侵蚀传统DRAM的市场份额。技术路线上，HBM4e将与HBM4共用同一1c节点和4nm逻辑芯片。美银还提到，2027年合约涨价幅度不太可能达到TrendForce预期的水平，因为价格在2026年已经先行上涨。&lt;/p&gt;
-&lt;p&gt;值得注意的是，三星对IT用NAND的指引并不如eSSD乐观，这与美银的价格判断一致。&lt;/p&gt;
-
-情绪回暖，估值仍是主要支撑
-
-&lt;p&gt;存储股本周反弹，全年累计涨幅普遍在100%以上，SanDisk与Kioxia年初至今回报超过250%。美银称，本周交流的投资者普遍提到下行空间有限，理由是美国中期选举后AIDC芯片订单保持韧性、DRAM售价仍在上涨（与NAND形成对比），以及估值倍数偏低。&lt;/p&gt;
-&lt;p&gt;估值表显示，SK Hynix对应2026年市盈率3.6倍，Samsung为4.7倍，Micron为10.7倍，Nanya为5.1倍；NAND阵营中，Sandisk对应2027年市盈率4.3倍，Western Digital为13.2倍，SIMO为16.4倍，Phison为7.7倍。美银认为，相较于AI半导体同业，存储板块的定价仍显温和。&lt;/p&gt;
-&lt;p&gt;美银总结认为，&lt;strong&gt;DRAM的供需与价格趋势仍由AI数据中心与HBM挤占产能所支撑，而NAND的定价权正在向买方倾斜。两者的估值差与业绩弹性，将取决于2027年第一季度合约价谈判能否如期落地。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”</title><link>https://wallstreetcn.com/articles/3785958</link><guid>78ebe58b5f7bde06323ec7c0bb47e12e6018cc6425df77a8892c8bf7a895bc79</guid><pubDate>Sun, 15 Nov 2026 07:23:13 GMT</pubDate><description>&lt;p&gt;美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若他的风险规避判断被证伪，未来八周最可能大幅上行的资产则包括黄金、投资级科技债、受益于强美元与低油价的日本和欧洲股市、中国科技股、中小市值股票、半导体、可选消费及住宅建筑商板块。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”</title><link>https://wallstreetcn.com/articles/3785958</link><guid>78ebe58b5f7bde06323ec7c0bb47e12e6018cc6425df77a8892c8bf7a895bc79</guid><pubDate>Sun, 15 Nov 2026 07:23:13 GMT</pubDate><description>&lt;p&gt;美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。&lt;/p&gt;
 &lt;p&gt;高盛外汇策略团队在《2027全球外汇展望》报告中指出，&lt;strong&gt;美元短期内仍有上行空间，但2027年将迎来实质性逆转。&lt;/strong&gt;在历经2025年的大规模抛售与多元化配置后，美元于2026年悄然收复失地——欧元兑美元回落至&amp;quot;解放日&amp;quot;以来低位，美元指数（DXY）触及2025年4月以来最高点，美元兑日元逼近160关口。&lt;strong&gt;高盛认为，支撑这轮涨势的核心驱动力正是AI相关投资预期的持续升温，而一旦这一预期见顶，美元也将面临同样的拐点。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;数据显示，外国投资者在截至今年8月的一年间净购入创纪录的1.47万亿美元美国股票及企业债券，几乎是全球金融危机前峰值的两倍。外资持有的美国股票中，约90%为账面浮盈而非实际增量买入，&lt;strong&gt;而对冲比率处于历史低位——换言之，仅对冲比率的结构性上移，就足以在无需大规模资本外流的情况下对美元形成实质性压制。高盛警告，AI资本开支预期一旦显现见顶迹象，投资者可能要求更大的价格折让——包括汇率层面的让步。&lt;/strong&gt;&lt;/p&gt;
