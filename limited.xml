@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 17:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重</title><link>https://wallstreetcn.com/articles/3786019</link><guid>9c5edbff172c1befc12a03891577e0cc200b98a4f42020d40ba4b8f4b7499f92</guid><pubDate>Mon, 16 Nov 2026 11:28:59 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮出现新的降温信号。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 17:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重</title><link>https://wallstreetcn.com/articles/3786019</link><guid>9c5edbff172c1befc12a03891577e0cc200b98a4f42020d40ba4b8f4b7499f92</guid><pubDate>Mon, 16 Nov 2026 11:28:59 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮出现新的降温信号。&lt;/p&gt;
 &lt;p&gt;半导体研究机构SemiAnalysis在11月13日发布的最新模型更新中，&lt;strong&gt;大幅下调了未来数年AI加速器出货、资本开支、HBM需求和电力需求预测。&lt;/strong&gt;其中，&lt;strong&gt;2028年至2030年的调整幅度尤为明显：2028年全球AI加速器资本开支预测被下调28%，2029年和2030年分别下调41%和40%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;按照最新模型，2030年全球AI加速器资本开支将从此前预测的1.531万亿美元降至9230亿美元，减少6080亿美元。与此同时，&lt;strong&gt;2026年至2030年加速器逻辑硅片出货面积累计预测下调17%，英伟达占据其中66%的削减幅度。&lt;/strong&gt;&lt;/p&gt;
@@ -66,7 +66,58 @@
 &lt;p&gt;收入增长后，运营费用占收入的比例有所下降，表明销量扩大开始帮助公司分摊费用。同比承压与环比修复同时存在，是这份财报呈现出的主要变化。&lt;/p&gt;
 &lt;p&gt;公司预计四季度营收同比增长40%至60%。要让收入增长进一步转化为减亏，小牛仍需改善国内产品组合，并控制费用增长。&lt;/p&gt;
 &lt;p&gt;海外业务可以增加收入来源，但短期内，国内每辆车能贡献多少毛利，依然是盈利修复的重要变量。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石旗下数据中心巨头融资缩水60%，AI融资寒气蔓延至投资级债券！</title><link>https://wallstreetcn.com/articles/3786023</link><guid>732c1db774e9a6a07f93332ae26d0d68765a38b0a6a9a5a6effdf2cdf6dfbf56</guid><pubDate>Mon, 16 Nov 2026 12:11:57 GMT</pubDate><description>&lt;p&gt;黑石集团旗下数据中心运营商QTS的一笔债券发行遭遇重挫，标志着AI基础设施融资热潮正在从市场底层向顶端蔓延。这不仅是一家公司的融资困境，更是整个AI数据中心债务市场饱和信号的集中显现。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达加码科学计算！发布Rubin HPC GPU，押注AI智能体重塑超算</title><link>https://wallstreetcn.com/articles/3786045</link><guid>805f4ef5b4fd6fbf1d87b559b5a49c1cf48ae27243cf1ce8de4cf664778e9613</guid><pubDate>Mon, 16 Nov 2026 17:43:43 GMT</pubDate><description>&lt;p&gt;英伟达正将AI基础设施的竞争进一步延伸至科学计算领域。&lt;/p&gt;
+&lt;p&gt;在11月16日于芝加哥举行的超级计算大会SC26上，英伟达发布专为科学计算、工程仿真和数据分析设计的新一代GPU Rubin HPC，并围绕CUDA-X软件库、光子计算和量子计算等领域公布一系列进展，试图将GPU加速计算、AI智能体与传统高性能计算（HPC）整合到统一平台。&lt;/p&gt;
+&lt;p&gt;此次发布释放出一个重要信号：随着AI智能体开始参与科研工作，能够自主提出假设、调用计算工具、运行仿真并根据结果调整方案，科学计算对算力的需求也正在发生变化。英伟达希望通过软硬件协同设计，让AI不只是辅助研究人员分析数据，还能直接参与从提出问题到验证结果的科学发现过程。&lt;/p&gt;
+&lt;p&gt;其中，Rubin HPC是此次发布的核心硬件产品。与主要面向AI训练和推理的GPU不同，这款产品针对科学与工程计算中大量数据读取、稀疏矩阵运算和复杂仿真任务进行了专门优化。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;英伟达在SC 26期间还披露了Vera CPU机架将于明年初上市的新品进展。&lt;/p&gt;
+&lt;p&gt;整体来看，SC26释放的信号是，英伟达希望争夺的不仅是AI训练和推理所需的GPU市场，还包括科学计算、工程仿真、量子计算以及相关基础设施的更广阔市场。 随着AI智能体逐渐从信息处理工具转向能够调用专业软件、执行复杂任务的研究助手，GPU算力、科学计算软件和高速互连网络之间的协同，将成为下一阶段高性能计算竞争的重要方向。&lt;/p&gt;
+&lt;strong&gt;Rubin HPC：单颗GPU超过5万CUDA核心，专为科学计算优化&lt;/strong&gt;
+&lt;p&gt;英伟达介绍，Rubin HPC是Vera Rubin平台新增的一款GPU，专门面向科学、工程和数据分析工作负载。其单颗GPU搭载超过5万个CUDA核心，创下英伟达GPU核心数量的新纪录，同时引入稀疏数据加速能力，并采用第七代NVLink互连技术，提高GPU之间的数据传输效率。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;英伟达指出，科学计算与传统AI训练任务存在明显差异。无论是气候建模、工程仿真、基因组分析还是金融风险计算，相关应用往往需要从海量数据中反复提取分散的信息，再执行计算并不断重复这一过程。因此，单纯增加GPU计算核心并不足以解决问题，还需要同步提高数据传输和处理能力，避免计算核心因等待数据而闲置。&lt;/p&gt;
+&lt;p&gt;Rubin HPC的设计重点正是让数据移动与计算能力保持平衡，通过加速稀疏矩阵运算、模板计算（Stencil Computation）、排序和归约等常见科学计算操作，提高整体计算效率。&lt;/p&gt;
+&lt;p&gt;英伟达尤其强调了AI智能体带来的需求变化。随着智能体能够帮助科学家和工程师探索更多候选材料、分子结构和工业设计方案，仿真计算将成为验证这些方案的重要环节。智能体提出假设后，可以调用仿真工具测试结果，再根据反馈调整下一步研究方向。GPU仿真速度越快，研究人员能够探索的方案就越多。&lt;/p&gt;
+&lt;p&gt;英伟达表示，Rubin HPC预计将于2028年上市。公司希望通过这款产品，将AI智能体、GPU加速仿真和科学数据处理整合起来，缩短从提出假设到验证发现的周期。&lt;/p&gt;
+&lt;strong&gt;CUDA-X扩展科学计算版图：黑洞分析从一个月缩短至8分钟&lt;/strong&gt;
+&lt;p&gt;如果说Rubin HPC提供的是硬件算力，那么英伟达此次重点展示的CUDA-X软件库，则是让AI智能体能够调用专业科学计算工具的关键。&lt;/p&gt;
+&lt;p&gt;英伟达在SC26公布了CUDA-X库的扩展进展，涉及cuPhoton、cuPotential和cuSpa等工具，覆盖天体物理、材料科学、药物研发和单细胞生物学等领域。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;其中，天文学领域的一项应用颇具代表性。&lt;/p&gt;
+&lt;p&gt;事件视界望远镜（EHT）通过连接全球各地的射电望远镜，形成相当于地球直径的虚拟望远镜，用于观测黑洞。但相关观测会产生PB级数据，传统处理流程可能需要数月时间。&lt;/p&gt;
+&lt;p&gt;英伟达推出的cuPhoton.xBeam模块能够利用GPU加速射电天文数据的关联处理，将原本需要一个多月的分析任务缩短至8分钟。该工具已经用于分析黑洞喷流J1924和3C279的观测数据，并推动梅西耶87星系中心黑洞的实时图像重建。&lt;/p&gt;
+&lt;p&gt;在核聚变研究方面，英伟达展示了cuPhoton.xLens的应用。研究人员可以在等离子体仿真运行过程中同步提取数据和分析结果，而不必等到实验或计算全部结束后再进行处理。结合运行在本地系统上的Nemotron智能体，研究人员还能对仿真结果进行交互式分析，并实时调整模拟方向，为聚变反应堆靶室和腔体设计提供参考。&lt;/p&gt;
+&lt;p&gt;药物研发方面，cuPotential基于西蒙斯基金会Flatiron研究所及D. E. Shaw Research的相关研究成果开发，能够将现有分子模拟软件的运行速度提高最高3倍，同时改善计算稳定性和准确性。该工具有助于生成用于生成式AI模型训练的合成数据，并帮助研究人员寻找此前未知的分子结合位点、计算分子之间的相互作用强度。&lt;/p&gt;
+&lt;p&gt;在材料科学领域，英伟达介绍了Daviator工具。这是一组面向广泛使用的Vienna Ab initio Simulation Package（VASP）的批量GPU计算内核，可将量子力学计算速度提高最高22倍，同时将成本降低最高75%。&lt;/p&gt;
+&lt;p&gt;在生物医学领域，新开源的cuSpa能够加速细胞多边形计算，为大规模空间图谱和患者、癌症模型构建提供支持。纪念斯隆凯特琳癌症中心的相关应用实现了相比CPU最高900倍的加速。&lt;/p&gt;
+&lt;p&gt;英伟达还介绍了rapids-singlecell框架，能够加速单细胞数据分析。Therna Biosciences利用该工具将数据处理速度提高200倍；Basecamp Research使用英伟达GPU加速的HMMER库进行生物序列注释，相关基准测试速度最高提高84倍。&lt;/p&gt;
+&lt;p&gt;这些案例显示，英伟达正试图将CUDA-X从传统的GPU计算加速工具，进一步发展为AI智能体能够直接调用的科学计算工具集。智能体不仅负责理解研究问题和规划步骤，还可以调用专门的算法库完成数据处理、模拟和分析。&lt;/p&gt;
+&lt;strong&gt;光子互连与量子计算：补齐超级计算基础设施&lt;/strong&gt;
+&lt;p&gt;除了GPU和科学计算软件，英伟达此次还将重点延伸至超级计算系统的网络互连，以及量子计算与传统超级计算的融合。&lt;/p&gt;
+&lt;p&gt;在网络基础设施方面，云计算服务商Lambda正在将英伟达光子共封装光学技术（Co-Packaged Optics，CPO）应用于生产环境，用于连接搭载GB300 NVL72系统、拥有超过1万颗GPU的AI工厂。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;英伟达表示，Lambda的测试显示，与传统可插拔光模块相比，采用光子交换机后，机架级网络延迟降低约4%，Pod级网络延迟最高降低约10%，同时保持相当的吞吐量。&lt;/p&gt;
+&lt;p&gt;英伟达称，光子技术通过将光引擎与交换芯片封装在一起，相比传统可插拔光模块，能实现最高5倍的能效提升和最高15倍的可靠性提升，激光器数量减少至传统方案的四分之一。&lt;/p&gt;
+&lt;p&gt;对于规模庞大的AI集群而言，网络故障可能导致数千颗GPU同时等待数据，降低整个系统的利用率。随着智能体推理和分布式计算需求增加，网络延迟、功耗和可靠性也将成为影响算力效率的重要因素。&lt;/p&gt;
+&lt;p&gt;量子计算方面，英伟达正在通过扩展Slurm工作负载管理系统，将量子处理器（QPU）纳入传统超级计算工作流。&lt;/p&gt;
+&lt;p&gt;英伟达透露，过去五年，超级计算中心部署量子处理器的数量增长接近7倍，目前全球近30家超级计算中心正在部署超过50台量子处理器。&lt;/p&gt;
+&lt;p&gt;由于许多超级计算中心已经使用Slurm管理CPU和GPU计算任务，英伟达希望通过扩展Slurm对量子处理器的支持，让研究人员能够在熟悉的工作流中统一调度经典计算资源和量子计算资源。&lt;/p&gt;
+&lt;p&gt;此次Slurm的更新基于此前与IBM、Pasqal及量子计算社区的合作，允许量子处理器制造商通过统一接口接入不同超级计算中心，减少每个量子处理器与不同超级计算系统之间重复开发适配软件的工作。&lt;/p&gt;
+&lt;p&gt;新版本还支持QRMI和QDMI等接口，并得到IBM、IQM、Quantinuum、Pasqal等企业采用。Slurm 26.11预计于11月晚些时候发布。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，英伟达还扩展了CUDA-Q量子计算平台。其中，新的TCBP-JOBS量子纠错解码算法，相比行业标准算法速度最高提高1.3万倍；费米国家加速器实验室利用CUDA-Q开展相关研究，将原本通常需要五个月的工作缩短至三周。&lt;/p&gt;
+&lt;p&gt;英伟达还展示了量子与经典计算结合的实际应用：QunaSys利用1024颗英伟达Hopper GPU模拟超过3亿次量子操作，并在四氢原子模型中达到化学精度；英伟达研究人员则利用德国JUPITER超级计算机模拟104个量子比特在真实噪声环境下的运行情况，用于测试未来容错量子计算架构。&lt;/p&gt;
+&lt;strong&gt;CUDA迎来20周年：开发者生态成为长期护城河&lt;/strong&gt;
+&lt;p&gt;此次SC26还有一项具有象征意义的节点：英伟达正在庆祝CUDA发布20周年。&lt;/p&gt;
+&lt;p&gt;2006年11月，英伟达正式推出CUDA，并在当年的超级计算大会SC06上向科学计算领域推广这一GPU编程平台。CUDA让研究人员能够通过相对熟悉的编程模型调用GPU进行通用并行计算，使GPU的应用范围从图形处理扩展至科学模拟、工程计算和数据分析。&lt;/p&gt;
+&lt;p&gt;20年来，CUDA逐渐成为英伟达加速计算生态的核心。英伟达表示，目前全球已有超过1100万名开发者使用CUDA，CUDA-X则拥有超过1000个库。&lt;/p&gt;
+&lt;p&gt;英伟达列举的代表性案例包括：伊利诺伊大学研究团队利用CUDA加速分子动力学模拟，帮助推进艾滋病病毒衣壳的原子结构研究；多伦多大学研究人员利用两颗英伟达GPU训练AlexNet，推动2012年深度学习领域的突破；而获得2024年诺贝尔化学奖的AlphaFold 2蛋白质结构预测软件，也使用CUDA进行GPU计算。&lt;/p&gt;
+&lt;p&gt;从CUDA最初服务于科学模拟和工程计算，到后来成为深度学习和生成式AI发展的重要基础，再到如今为AI智能体提供科学算法和专业计算工具，英伟达正在将这套持续了20年的软件生态进一步延伸至AI驱动的科研领域。&lt;/p&gt;
+&lt;strong&gt;Vera CPU机架明年初上市，戴尔、慧与、联想和超微电脑供货&lt;/strong&gt;
+&lt;p&gt;英伟达还宣布，面向高性能计算的Vera CPU机架级平台预计将于2027年初起由戴尔科技、慧与科技（HPE）、联想和超微电脑供应。&lt;/p&gt;
+&lt;p&gt;该平台将192颗Vera CPU整合在一个机架中，并通过英伟达Quantum-X800 InfiniBand网络互连，配备约300TB内存和1PB存储，采用液冷设计，峰值总内存带宽超过200TB/s。&lt;/p&gt;
+&lt;p&gt;英伟达称，该平台旨在加速气候建模、分子动力学模拟等数据密集型科学计算任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石旗下数据中心巨头融资缩水60%，AI融资寒气蔓延至投资级债券！</title><link>https://wallstreetcn.com/articles/3786023</link><guid>732c1db774e9a6a07f93332ae26d0d68765a38b0a6a9a5a6effdf2cdf6dfbf56</guid><pubDate>Mon, 16 Nov 2026 12:11:57 GMT</pubDate><description>&lt;p&gt;黑石集团旗下数据中心运营商QTS的一笔债券发行遭遇重挫，标志着AI基础设施融资热潮正在从市场底层向顶端蔓延。这不仅是一家公司的融资困境，更是整个AI数据中心债务市场饱和信号的集中显现。&lt;/p&gt;
 &lt;p&gt;据彭博报道，QTS原计划通过私募债务市场融资8亿美元，最终仅完成约3亿美元，缩水幅度约60%。其中包括一笔1亿美元、期限七年的私募票据，以及一笔2亿美元、仍待定价的五年期银行贷款。QTS是黑石2021年以100亿美元收购的大型数据中心运营商，在业内被视为投资级信用中的顶尖借款方。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次融资受挫的直接影响在于：原本用于置换现有五年期银行贷款的资金缺口无法填补，相关银行贷款将继续留在银行资产负债表上。更深远的影响是，这一事件向市场传递出明确信号——即便是黑石背书、投资级评级的数据中心资产，也已难以在私募市场按意愿价格完成融资，AI数据中心债务市场的资金窗口正在系统性收窄。&lt;/p&gt;
@@ -197,47 +248,7 @@ Hy4 flash：激活参数仅12B，成本压至竞品1/8、Hy4的1/20
 评测方法的变化
 &lt;p&gt;两家在这次发布中，都不约而同地强调了“贴近真实工作场景”的内部评测集，而非单纯依赖公开榜单。&lt;/p&gt;
 &lt;p&gt;腾讯构建了基于WorkBuddy典型任务的WorkIndex评测集，“聚焦日常工作的产物效果、单轮输出长度、端到端用时，而非远离日常工作的公开榜单分数”。&lt;/p&gt;
-&lt;p&gt;阿里构建的Work360框架则涵盖26个一级领域、182个二级子领域和721个三级细分领域，试图对工业与专业场景进行系统覆盖。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI抛售持续，英伟达财报前夕，费半大跌5%，黄金、原油双双走低</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 14:41:34 GMT</pubDate><description>&lt;p&gt;科技股抛售情绪从上周延续至新的一周，投资者在英伟达高风险财报和Anthropic预期上市之前普遍规避风险资产，全球股市承压。&lt;/p&gt;
-&lt;p&gt;美股盘初，标普500指数跌0.63%；道琼斯工业平均指数跌0.15%；纳斯达克综合指数跌1.13%；纳斯达克100跌1.6%，费城半导体指数跌4.7%。&lt;/p&gt;
-&lt;p&gt;个股方面，英伟达跌2.2%，Nebius跌8.3%，CoreWeave跌8.3%，Lumentum、闪迪、美光科技、SK海力士ADR、Cerebras、AMD、英特尔、阿斯麦ADR至多跌8.1%。中概股小鹏涨6.9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达当地时间周二的财报是全周焦点，这将是CEO黄仁勋遭解雇后新管理层首次公开发声，其公信力与业绩数据本身同等重要。&lt;/strong&gt;与此同时，AI独角兽Anthropic预计本周完成IPO，寻求通过股票发行及私募合计募资最高904亿美元。另有特朗普与中俄两国领导人的会谈也在本周议程之内，市场面临多重事件风险叠加。&lt;/p&gt;
-&lt;p&gt;Panmure Liberum的Joachim Klement表示，市场对英伟达的关注点将集中于亚洲市场收入敞口，以及新CEO对新兴云服务商等客户提供资金支持的立场。他同时指出，对于Anthropic而言，市场将重点关注IPO的超额认购倍数以及上市首日的股价表现。&lt;/p&gt;
-
-亚太科技股重挫，韩国市场领跌
-
-&lt;p&gt;亚洲市场首当其冲，科技重仓市场承受了最大压力。韩国KOSPI指数跌幅一度扩大至4%，SK海力士重挫8%，三星电子跌超5%。MSCI亚洲（除日本）指数整体跌幅超过2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此番抛售的直接导火索是英伟达的高层动荡。&lt;strong&gt;上周黄仁勋遭到董事会解雇，公司市值单周蒸发逾5000亿美元。&lt;/strong&gt;据英国《金融时报》报道，&lt;strong&gt;黄仁勋目前正与公司就可能回归事宜进行磋商。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AT Global Markets首席市场分析师Nick Twidale表示：&amp;quot;无论是科技行业的运营中断，还是英伟达接下来将发生什么，市场现在面临的问题似乎比答案更多。在局势明朗之前，市场可能持续承压。&amp;quot;值得关注的是，微软近期发生的大规模服务中断事故，进一步压制了科技板块的整体情绪。&lt;/p&gt;
-
-避险情绪扩散，黄金原油双双走低
-
-&lt;p&gt;风险规避情绪并未带动传统避险资产上涨。现货黄金跌逾30美元，回落至3840美元/盎司下方，日内跌幅约1.1%；现货白银下跌3%，报47.22美元/盎司。比特币延续周末跌势，触及7月以来最低点后企稳，报约64309美元，日内跌约1.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;布伦特原油延续此前两周跌势，报约95.54美元/桶。尽管中东地区再度出现紧张局势，但实物市场供应充裕的迹象压过了地缘风险溢价，限制了油价的反弹空间。&lt;/p&gt;
-&lt;p&gt;美元指数在上周升至2025年5月以来最强水平后，周一整体持稳。两年期美国国债收益率小幅上行一个基点，10年期国债收益率维持在5.13%附近。上周美债收益率累计大幅攀升，上周五公布的数据显示，美国10月批发通胀同比涨幅为2022年以来最快，通胀持续的证据进一步积累。&lt;/p&gt;
-&lt;p&gt;堪萨斯城联储主席Jeff Schmid表示，价格压力仍然过热，政策制定者还有更多工作要做，并点名能源成本、耐用品价格、AI基础设施建设及医疗成本为主要推手。&lt;/p&gt;
-
-华尔街大行逢低增配，看多立场不变
-
-&lt;p&gt;尽管短期波动加剧，多家华尔街机构维持对股市的乐观判断。&lt;/p&gt;
-&lt;p&gt;摩根士丹利已将全球股票仓位调升至&amp;quot;最高超配&amp;quot;，其策略师在最新报告中写道&lt;strong&gt;：&amp;quot;AI资本支出周期完好无损，这让我们有信心认为，强劲的宏观与盈利增长将延续至明年乃至2027年。随着风险资产估值已经变得更加便宜，我们选择拥抱风险。&amp;quot;&lt;/strong&gt;摩根士丹利同时预计美元将温和走强，并看好投资级企业债及黄金。&lt;/p&gt;
-&lt;p&gt;值得注意的是，摩根士丹利策略师指出，全球股票的结构性叙事正在从超大规模云服务商向更广泛的AI应用受益者扩散，2027年将越来越多地聚焦于AI采用者的回报兑现。&lt;/p&gt;
-&lt;p&gt;高盛则预计，明年MSCI亚洲（除日本）指数的美元回报率将达到19%，主要驱动力来自盈利增长，但同时警告AI领域的不确定性可能放大市场波动。&lt;/p&gt;
-&lt;p&gt;从更宏观的视角来看，全球股市上周整体仍录得涨幅——MSCI全球指数上涨2.5%，终结此前连续四周的下跌走势——但该指数周一再度下跌约0.4%，显示短期压力尚未消散，英伟达财报及Anthropic上市能否提振市场信心，仍是本周最关键的观察窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普支持黄仁勋重掌英伟达，英伟达一度转涨</title><link>https://wallstreetcn.com/articles/3786042</link><guid>4af526cbd2cec0d820d3921c05b97b698ce6dc16165af0525d11ea3e0f8188ae</guid><pubDate>Mon, 16 Nov 2026 16:45:45 GMT</pubDate><description>&lt;p&gt;英伟达股价周一震荡，特朗普公开表态支持黄仁勋重返CEO职位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特朗普周一在白宫向记者表示，&amp;quot;我不反对&amp;quot;黄仁勋复职，并称&amp;quot;很多人希望黄仁勋回来，这肯定不是个坏主意&amp;quot;。他同时为黄仁勋辩护称，美国国家安全&amp;quot;没有受到威胁&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在特朗普发表上述言论期间，英伟达股价一度短暂转涨，随后继续下跌，截至发稿，下跌2.3%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-特朗普与贝森特立场相左，硅谷游说力量集结力挺黄仁勋
-
-&lt;p&gt;特朗普此番表态与财政部长贝森特的立场存在明显分歧。贝森特此前呼吁英伟达进行&amp;quot;大幅重组&amp;quot;，并启动外部领导层搜寻程序。&lt;/p&gt;
-&lt;p&gt;特朗普还再度提及，&lt;strong&gt;他支持前苹果CEO蒂姆·库克出任英伟达新领导人——这一表态他在上周黄仁勋辞职后已首次提出，周一再次重申。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，支持黄仁勋复职的力量正在加速汇聚。据英国《金融时报》报道，&lt;strong&gt;黄仁勋已与亲信讨论重返职位的可能性，硅谷高管们也正在组建&amp;quot;战情室&amp;quot;，积极游说白宫为其背书。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;投资机构Altimeter Capital Management和Atreides Management联合致信英伟达董事会，信中以&amp;quot;黄仁勋长期领导所取得的卓越成就&amp;quot;及其离任带来的不确定性为由，敦促董事会以&amp;quot;缓慢、审慎、深思熟虑&amp;quot;的方式处理领导层问题，并明确将&amp;quot;黄仁勋潜在回归&amp;quot;列为应当考虑的选项。&lt;/p&gt;
-&lt;p&gt;SpaceX与特斯拉CEO埃隆·马斯克——黄仁勋的另一位盟友——亦公开表态支持其复出，并在X平台上签署了一份目前已逾18万人联署的网络请愿书。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 豆包开放多模型4天后，千问也改回来了</title><link>https://wallstreetcn.com/articles/3786007</link><guid>a47d645cdd6c800c0b895cb4857d99a002862242c0ac8f93caa2ca36f2538794</guid><pubDate>Mon, 16 Nov 2026 07:17:44 GMT</pubDate><description>&lt;p&gt;办公Agent的多模型阵营，终于等来了阿里。&lt;/p&gt;
+&lt;p&gt;阿里构建的Work360框架则涵盖26个一级领域、182个二级子领域和721个三级细分领域，试图对工业与专业场景进行系统覆盖。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 豆包开放多模型4天后，千问也改回来了</title><link>https://wallstreetcn.com/articles/3786007</link><guid>a47d645cdd6c800c0b895cb4857d99a002862242c0ac8f93caa2ca36f2538794</guid><pubDate>Mon, 16 Nov 2026 07:17:44 GMT</pubDate><description>&lt;p&gt;办公Agent的多模型阵营，终于等来了阿里。&lt;/p&gt;
 &lt;p&gt;11月16日，阿里旗下千问办公宣布新增10款大模型，包括最新发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多家厂商的第三方模型。&lt;/p&gt;
 &lt;p&gt;此次更新后，千问办公个人版和企业标准版用户均可自主选择模型，根据任务复杂度、响应速度和Token成本，决定使用哪款模型完成工作。&lt;/p&gt;
 &lt;p&gt;这距离字节跳动旗下豆包工作向个人用户全面开放第三方模型，仅过去四天。&lt;/p&gt;
@@ -350,4 +361,38 @@ Hy4 flash：激活参数仅12B，成本压至竞品1/8、Hy4的1/20
 家电：涨停潮，美的集团创历史新高
 &lt;p&gt;家电板块逆势领涨。厨房小家电涨4.36%、白色家电涨3.02%、冰洗涨3.36%、小家电涨2.23%、空调涨2.41%。小熊电器涨停，长虹美菱涨停，华帝股份涨停，北鼎股份20cm涨停，海信家电涨7.52%，美的集团涨2.35%创历史新高，九阳股份盘中封板后炸板、收涨7.10%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;催化来自出口数据的硬支撑。国金证券研报显示，2026年10月家电出口量同比增长14.1%，出口金额同比增长20.9%；西南证券认为，整个行业的基本面拐点逐步趋近。资金躲开AI硬件后，出口数据扎实的家电成为顺手的去处。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 行业指数防坑指南：6个行业案例，教你看穿利润幻觉（11.16）</title><link>http://www.xueqiu.com/9391624441/416963903</link><guid>33578e59dc57494192fa98d0e598ecfe70ea0098535418629706d2a227065092</guid><pubDate>Mon, 16 Nov 2026 09:50:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;行业指数的利润波动，是我们掉进估值陷阱的最主要原因之一，如何快速识别指数的利润稳定性，是行业投资、尤其左侧投资的基本功，否则后续超出预期的震荡时间，会击溃我们的信心。&lt;/p&gt;</description></item><item><title>[今日雪球] 人少的地方才有价格：独立投资的孤独成本</title><link>http://www.xueqiu.com/7271353740/417002917</link><guid>af7a30ca1ec2bc83ec490e6b9857fe024156c008037320bb7d6e8e1228040347</guid><pubDate>Mon, 16 Nov 2026 09:51:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这些年做投资，我慢慢发现一个不太舒服的变化：以前喜欢凑热闹，谁说什么都愿意听；现在越来越愿意一个人待着。这不是变得清高，而是吃过几次跟风的亏以后才明白：投资里很多决定，最终只能自己承担。孤独更像是一个人开始用自己的标准看资产时，自然出现的距离。&lt;/p&gt;</description></item><item><title>[今日雪球] 从英伟达谈谈算力信用与AI格局演变</title><link>http://www.xueqiu.com/5332385101/416943662</link><guid>a4c217e87203c248f6c7c8aa5f78b064333b0919ef0957f5c47360fdb91319be</guid><pubDate>Mon, 16 Nov 2026 09:51:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去一周，英伟达的人事变动引发全球AI板块的剧烈震动。英伟达全周累计下跌约13%，较10月初高点回撤超30%，盘中市值一度跌破4万亿美元；与此同时，AMD与博通逆势走强，而新云厂商则在资金恐慌中承压下挫。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;催化来自出口数据的硬支撑。国金证券研报显示，2026年10月家电出口量同比增长14.1%，出口金额同比增长20.9%；西南证券认为，整个行业的基本面拐点逐步趋近。资金躲开AI硬件后，出口数据扎实的家电成为顺手的去处。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] "无聊才是美"？BTIG：防御性板块的异常强势让人想起2000年泡沫破裂前夕</title><link>https://wallstreetcn.com/articles/3786032</link><guid>d077153d5956fd77c053613432098fdd5c795896a26064a6872ce1370fc8928a</guid><pubDate>Mon, 16 Nov 2026 13:23:31 GMT</pubDate><description>&lt;p&gt;牙膏、饼干、香烟和波本威士忌，正在跑赢人工智能交易。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过去30天，标普500消费必需品板块对科技板块的超额表现达到33个百分点，为约25年来最大单月差距。&lt;/strong&gt;BTIG首席技术策略师Jonathan Krinsky指出，上一次出现类似走势，是2000年4月至2001年10月——正是互联网泡沫破裂的序幕。与此同时，科技股ETF QQQ已跌破过去两年最密集的成交量区间，任何反弹都可能遭遇大量套牢盘的抛压。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Krinsky在其最新周报《无聊才是美》中明确表态，开始&amp;quot;看好&amp;quot;消费必需品板块。消费必需品ETF（XLP）已突破多月整理区间，无论是绝对走势还是相对标普500的比值均同步突破。他将这一&amp;quot;负面情绪叠加强劲价格走势&amp;quot;的组合定性为&amp;quot;强力做多信号&amp;quot;。与此同时，美元指数正突破两年区间高位，Krinsky将其称为&amp;quot;当前市场最看涨的图表之一&amp;quot;，而强势美元历来不利于风险资产。&lt;/p&gt;
+&lt;p&gt;这一轮防御性板块的异常强势，正在引发市场对AI交易持续性的深层质疑。&lt;strong&gt;若2000年的历史轨迹重演，科技股的调整或许才刚刚开始，而那些被市场嫌弃的&amp;quot;无聊股票&amp;quot;，可能正处于一轮持久轮动的早期阶段。&lt;/strong&gt;&lt;/p&gt;
+消费必需品跑赢科技股33%，25年来首见
+&lt;p&gt;数据的冲击力不容忽视。&lt;/p&gt;
+&lt;p&gt;据Krinsky统计，&lt;strong&gt;过去30天消费必需品板块对科技板块的超额收益达33个百分点，是近25年来最大的单月差距。&lt;/strong&gt;两周前，&lt;strong&gt;消费必需品板块刚刚录得自2000年10月以来最强单月表现&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;彼时，包括美银在内的市场共识认为，&lt;strong&gt;防御性板块已涨入类似1999年的泡沫区间，连&amp;quot;安全资产&amp;quot;也显得过热。&lt;/strong&gt;但Krinsky的判断出现了转变。他的核心逻辑是：&lt;strong&gt;一只被认为&amp;quot;昂贵&amp;quot;且缺乏增长的股票，如果持续上涨，市场本身就在传递信号。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;投资者往往想买便宜的、卖贵的……消费必需品的共识是&amp;#x27;贵&amp;#x27;且增长有限。这或许没错，但一个月前也是这么说的，而它们此后涨了10%。有时市场是错的，但有时它在讲述一个故事，值得倾听。&amp;quot;Krinsky在报告中写道。&lt;/p&gt;
+&lt;p&gt;XLP已突破多月整理区间，XLP/SPX比值同步突破。Krinsky将这一&amp;quot;负面情绪叠加强劲价格走势&amp;quot;的组合定性为&amp;quot;强力做多信号&amp;quot;，并指出该板块目前并未明显超买，上行空间仍在。&lt;/p&gt;
+2000年的镜像：科技崩溃，防御板块大涨
+&lt;p&gt;Krinsky此前已多次提示&amp;quot;互联网泡沫回声&amp;quot;，此次他再度搬出那段历史作为参照系。&lt;/p&gt;
+&lt;p&gt;纳斯达克于2000年3月10日见顶，但熊市并非立即席卷全市场。据BTIG数据，从2000年3月10日至2001年3月10日，消费必需品板块上涨50.3%，公用事业上涨44.0%，金融板块上涨36.4%；与此同时，科技板块暴跌56.9%，标普500指数&amp;quot;仅&amp;quot;下跌11.6%。换言之，指数跌幅温和，但普通投资者的持仓几乎腰斩。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;对比当下：自6月22日AI交易见顶附近至今，医疗保健板块上涨25.0%，能源上涨19.7%，消费必需品上涨12.6%，而科技板块下跌7.3%，标普500指数却上涨0.6%。板块分化的格局与2000年高度相似。&lt;/p&gt;
+&lt;p&gt;Krinsky也指出两者的差异：2000年时，许多板块在3月10日见顶前已下跌20%至30%，当前市场的极端程度不及彼时。但他强调，&amp;quot;防御性板块的领涨态势难以忽视&amp;quot;。将消费必需品对科技股的相对强弱比值图叠加，2000年与当下的走势几乎如出一辙。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更令AI多头不安的是：2000年那轮初期轮动之后，消费必需品在随后两年继续跑赢科技股近1000个基点。第一波轮动剧烈，后续则是漫长的消磨。&lt;/p&gt;
+科技股：套牢盘压顶，半导体或再跌17%至25%
+&lt;p&gt;科技股面临的技术面压力同样不容乐观。Krinsky的QQQ成交量分布图显示，当前价格已跌破过去两年最密集的成交量区间，意味着任何反弹都将面临大量套牢盘的抛压——上周四的反弹已印证了这一判断。&lt;/p&gt;
+&lt;p&gt;半导体板块的处境更为严峻。SOXX在供应区间下方遭到压制，Krinsky维持此前判断，认为该板块需要回撤至4月突破点，&amp;quot;较当前水平还有约17%至25%的下行空间&amp;quot;。&lt;/p&gt;
+&lt;p&gt;与此同时，苹果（AAPL）作为科技板块内的&amp;quot;避险替代品&amp;quot;，也出现了令人警惕的信号。该股年内累计上涨31%，但上周四、周五连续两日触及52周高点后均以逾1%的跌幅收盘，11月4日和5日也出现了同样的形态。&lt;/p&gt;
+&lt;p&gt;Krinsky回溯20年数据，找到仅9个类似案例——连续两日触及52周高点且每日收盘跌幅超1%。结果显示，此后20个交易日内，89%的情况下收益为负，平均跌幅12.57%，中位数跌幅8.97%。样本量虽小，但信号方向一致。&amp;quot;苹果一直是市场的避险港湾，但在股价年内涨31%且出现近期疲竭信号后，我们认为它在未来数周内相当容易出现下行回归。&amp;quot;&lt;/p&gt;
+美元突破两年区间，流动性收紧压制AI交易
+&lt;p&gt;将上述板块轮动串联起来的，是一个宏观变量：美元。&lt;/p&gt;
+&lt;p&gt;彭博美元指数正在突破两年区间高位。Krinsky将其称为&amp;quot;当前市场最看涨的图表之一，且可能不利于风险偏好环境&amp;quot;。英镑/美元、澳元/美元、加元/美元和纽元/美元均从多月高点回落，纽元已率先跌破支撑。&lt;/p&gt;
+&lt;p&gt;美银策略师Michael Hartnett本周也表达了类似担忧，称若美元&amp;quot;继续这样飙升，将变成一个破坏性力量&amp;quot;。据报道，高盛外汇团队预计美元在2027年转向前还有一波上涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;强势美元意味着全球流动性收紧，而流动性收紧历来对市场中最拥挤、杠杆最高的交易最为不利——当前这个位置，正是AI交易。&lt;/p&gt;
+&lt;p&gt;值得注意的是，消费必需品板块作为典型的债券替代品，在10年期美债收益率收于5.15%、市场定价美联储还将再加息三次的背景下，依然强势突破。Krinsky认为，这说明资金流入消费必需品的驱动力，更多来自于寻找AI交易解仓的避风港，股息收益率反而是次要考量。&lt;/p&gt;
+轮动还是陷阱？分歧仍在
+&lt;p&gt;并非所有人都认同这一判断。美银的Hartnett在最新《资金流向》报告中，将&amp;quot;大市值消费股&amp;quot;列为若美元和流动性压力加剧时最易受损的资产之一，同时将可选消费列为未来八周最可能超预期上涨的资产——与Krinsky正在密切关注的比值方向恰好相反。两者之中，必有一错。&lt;/p&gt;
+&lt;p&gt;Krinsky本人也保持审慎。他预计在市场整体下行时，板块间相关性将上升，消费必需品&amp;quot;不会对全面下跌完全免疫&amp;quot;。他对消费必需品对可选消费的等权重比值（RSPS/RSPD）也表示，&amp;quot;现在说这是新上升趋势还为时过早&amp;quot;，但若该比值突破0.58，&amp;quot;将具有重要意义&amp;quot;——上周五收盘于0.569，距突破点约2%。&lt;/p&gt;
+&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 行业指数防坑指南：6个行业案例，教你看穿利润幻觉（11.16）</title><link>http://www.xueqiu.com/9391624441/416963903</link><guid>33578e59dc57494192fa98d0e598ecfe70ea0098535418629706d2a227065092</guid><pubDate>Mon, 16 Nov 2026 09:50:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;行业指数的利润波动，是我们掉进估值陷阱的最主要原因之一，如何快速识别指数的利润稳定性，是行业投资、尤其左侧投资的基本功，否则后续超出预期的震荡时间，会击溃我们的信心。&lt;/p&gt;</description></item><item><title>[今日雪球] 人少的地方才有价格：独立投资的孤独成本</title><link>http://www.xueqiu.com/7271353740/417002917</link><guid>af7a30ca1ec2bc83ec490e6b9857fe024156c008037320bb7d6e8e1228040347</guid><pubDate>Mon, 16 Nov 2026 09:51:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这些年做投资，我慢慢发现一个不太舒服的变化：以前喜欢凑热闹，谁说什么都愿意听；现在越来越愿意一个人待着。这不是变得清高，而是吃过几次跟风的亏以后才明白：投资里很多决定，最终只能自己承担。孤独更像是一个人开始用自己的标准看资产时，自然出现的距离。&lt;/p&gt;</description></item><item><title>[今日雪球] 从英伟达谈谈算力信用与AI格局演变</title><link>http://www.xueqiu.com/5332385101/416943662</link><guid>a4c217e87203c248f6c7c8aa5f78b064333b0919ef0957f5c47360fdb91319be</guid><pubDate>Mon, 16 Nov 2026 09:51:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去一周，英伟达的人事变动引发全球AI板块的剧烈震动。英伟达全周累计下跌约13%，较10月初高点回撤超30%，盘中市值一度跌破4万亿美元；与此同时，AMD与博通逆势走强，而新云厂商则在资金恐慌中承压下挫。&lt;/p&gt;</description></item></channel></rss>
