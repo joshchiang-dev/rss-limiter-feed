@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 21:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重</title><link>https://wallstreetcn.com/articles/3786019</link><guid>9c5edbff172c1befc12a03891577e0cc200b98a4f42020d40ba4b8f4b7499f92</guid><pubDate>Mon, 16 Nov 2026 11:28:59 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮出现新的降温信号。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 21:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重</title><link>https://wallstreetcn.com/articles/3786019</link><guid>9c5edbff172c1befc12a03891577e0cc200b98a4f42020d40ba4b8f4b7499f92</guid><pubDate>Mon, 16 Nov 2026 11:28:59 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮出现新的降温信号。&lt;/p&gt;
 &lt;p&gt;半导体研究机构SemiAnalysis在11月13日发布的最新模型更新中，&lt;strong&gt;大幅下调了未来数年AI加速器出货、资本开支、HBM需求和电力需求预测。&lt;/strong&gt;其中，&lt;strong&gt;2028年至2030年的调整幅度尤为明显：2028年全球AI加速器资本开支预测被下调28%，2029年和2030年分别下调41%和40%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;按照最新模型，2030年全球AI加速器资本开支将从此前预测的1.531万亿美元降至9230亿美元，减少6080亿美元。与此同时，&lt;strong&gt;2026年至2030年加速器逻辑硅片出货面积累计预测下调17%，英伟达占据其中66%的削减幅度。&lt;/strong&gt;&lt;/p&gt;
@@ -66,7 +66,33 @@
 &lt;p&gt;收入增长后，运营费用占收入的比例有所下降，表明销量扩大开始帮助公司分摊费用。同比承压与环比修复同时存在，是这份财报呈现出的主要变化。&lt;/p&gt;
 &lt;p&gt;公司预计四季度营收同比增长40%至60%。要让收入增长进一步转化为减亏，小牛仍需改善国内产品组合，并控制费用增长。&lt;/p&gt;
 &lt;p&gt;海外业务可以增加收入来源，但短期内，国内每辆车能贡献多少毛利，依然是盈利修复的重要变量。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石旗下数据中心巨头融资缩水60%，AI融资寒气蔓延至投资级债券！</title><link>https://wallstreetcn.com/articles/3786023</link><guid>732c1db774e9a6a07f93332ae26d0d68765a38b0a6a9a5a6effdf2cdf6dfbf56</guid><pubDate>Mon, 16 Nov 2026 12:11:57 GMT</pubDate><description>&lt;p&gt;黑石集团旗下数据中心运营商QTS的一笔债券发行遭遇重挫，标志着AI基础设施融资热潮正在从市场底层向顶端蔓延。这不仅是一家公司的融资困境，更是整个AI数据中心债务市场饱和信号的集中显现。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在</title><link>https://wallstreetcn.com/articles/3786050</link><guid>82be09d6b13cdef7920ceeefe062d0fa0a5a2eb75cf883f7a83f256b4c5f1300</guid><pubDate>Mon, 16 Nov 2026 21:56:41 GMT</pubDate><description>&lt;p&gt;微软一个隐藏长达四个月的系统漏洞，&lt;a href="https://wallstreetcn.com/articles/3785878?keyword=%E5%BE%AE%E8%BD%AF"&gt;在上周引发了一场波及全球的服务中断事故&lt;/a&gt;，暴露出高度依赖单一科技供应商的潜在风险。&lt;/p&gt;
+&lt;p&gt;此次事故始于11月11日的一次例行流量调配操作，直至次日上午11时30分——即美国企业流量高峰期——微软才意识到问题的严重性。&lt;/p&gt;
+&lt;p&gt;此后，公司又耗费约15小时排查故障并着手部署修复方案，导致众多企业和政府客户工作陷入停滞。在事故最严重时段，Outlook后台超过80%的服务器处于无响应状态，Teams视频会议邀请消失，员工不得不转而依赖电话和纸笔维持工作。&lt;/p&gt;
+&lt;p&gt;微软负责职场软件业务的执行副总裁Charles Lamanna周一在X平台发文，就此次宕机事件正式道歉。截至发稿，微软周一盘中下跌1.2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+一次例行操作，引爆连锁崩溃
+
+&lt;p&gt;据微软向客户发布的初步报告，该漏洞早在今年7月便已潜伏于公司数据中心，却始终未被发现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;事故导火索是11月11日纽约时间晚8时许的一次自动流量切换操作：Teams视频会议与即时通讯服务的流量被自动转移至同时承载Outlook流量的另一组服务器。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，本周早些时候一个独立问题已造成部分服务器容量损失，双重压力之下触发了上述潜伏漏洞——服务器在流量骤增后出现内存耗尽。&lt;/p&gt;
+&lt;p&gt;问题随之迅速蔓延。&lt;strong&gt;微软的自动化容灾系统将流量和邮件转移至其判断为&amp;quot;健康&amp;quot;的其他服务器，却将同一漏洞带入这些系统，形成连锁失效。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从最初出现零散故障，到微软确认全面问题，历时约15小时；公司随后又花费约15小时才开始推送修复方案。&lt;/strong&gt;&lt;/p&gt;
+
+自动化系统&amp;quot;帮倒忙&amp;quot;，修复工作一波三折
+
+&lt;p&gt;此次宕机持续时间之长，远超同类事故的通常水平——同类事故往往仅持续数小时。&lt;/p&gt;
+&lt;p&gt;微软面向使用Microsoft 365产品的技术人员发布的详细时间线显示，公司原本旨在维持服务稳定运行的自动化机制，反而加速了此次连锁崩溃。&lt;/p&gt;
+&lt;p&gt;恢复上线的服务器因积压的待处理流量蜂拥而至，再度过载失效，使修复进程陷入循环。&lt;/p&gt;
+&lt;p&gt;此外，由于该漏洞已在系统中潜伏数月，通过回滚近期更新来稳定系统的常规手段也宣告无效，进一步拖延了恢复进程。&lt;/p&gt;
+
+实验室测试未能模拟真实环境
+
+&lt;p&gt;Charles Lamanna解释了漏洞得以长期潜伏、未被测试流程发现的原因。&lt;/p&gt;
+&lt;p&gt;微软在向外部大规模部署系统变更前，会先在实验室环境及小范围网络中进行测试，这是大型互联网服务公司的标准操作流程。&lt;/p&gt;
+&lt;p&gt;然而此次漏洞未能被拦截，原因在于实验室中模拟的流量模式和硬件配置，与服务器在真实环境中所遭遇的条件存在差异。&lt;/p&gt;
+&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石旗下数据中心巨头融资缩水60%，AI融资寒气蔓延至投资级债券！</title><link>https://wallstreetcn.com/articles/3786023</link><guid>732c1db774e9a6a07f93332ae26d0d68765a38b0a6a9a5a6effdf2cdf6dfbf56</guid><pubDate>Mon, 16 Nov 2026 12:11:57 GMT</pubDate><description>&lt;p&gt;黑石集团旗下数据中心运营商QTS的一笔债券发行遭遇重挫，标志着AI基础设施融资热潮正在从市场底层向顶端蔓延。这不仅是一家公司的融资困境，更是整个AI数据中心债务市场饱和信号的集中显现。&lt;/p&gt;
 &lt;p&gt;据彭博报道，QTS原计划通过私募债务市场融资8亿美元，最终仅完成约3亿美元，缩水幅度约60%。其中包括一笔1亿美元、期限七年的私募票据，以及一笔2亿美元、仍待定价的五年期银行贷款。QTS是黑石2021年以100亿美元收购的大型数据中心运营商，在业内被视为投资级信用中的顶尖借款方。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;此次融资受挫的直接影响在于：原本用于置换现有五年期银行贷款的资金缺口无法填补，相关银行贷款将继续留在银行资产负债表上。更深远的影响是，这一事件向市场传递出明确信号——即便是黑石背书、投资级评级的数据中心资产，也已难以在私募市场按意愿价格完成融资，AI数据中心债务市场的资金窗口正在系统性收窄。&lt;/p&gt;
@@ -92,7 +118,7 @@
 &lt;p&gt;据ZeroHedge梳理，过去数月间，AI数据中心的融资渠道已按照从底层到顶层的顺序依次收窄：IPO市场率先降温，高收益债券市场自9月底以来周度发行量归零，私募投资级市场如今也出现明显阻力。黑石旗下Blackstone Digital Infrastructure Trust（BXDC）自5月以20美元发行以来，已跌至16.69美元附近，跌幅约17%，且恰在锁定期届满后不久。黑石旗下AirTrunk单元亦将原定的15亿美元REIT IPO推迟至2027年。&lt;/p&gt;
 &lt;p&gt;高盛预计2027年AI项目融资需求将在4400亿美元超大规模云计算商直接债券之外，再增加约3000亿美元。但私募市场数据显示，今年数据中心私募融资规模约为1000亿美元，已低于去年的1300亿美元，私募信贷在其中的占比更是微乎其微。&lt;/p&gt;
 &lt;p&gt;摩根士丹利今年10月发布的AI融资报告将当前局面定性为&amp;quot;暂停而非撤退&amp;quot;，但从此后市场走势来看，这一判断正面临越来越大的压力。&lt;/p&gt;
-&lt;p&gt;对于市场而言，QTS的遭遇提出了一个更为尖锐的问题：如果黑石背书、投资级评级的顶级借款方只能以要价的37%完成融资，那些信用评级更低、项目可信度更弱的开发商，将如何在2027年和2028年完成高收益项目债券的再融资？&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：美联储正为三种AI影响制定预案，包括生产力繁荣、大规模失业与泡沫破裂</title><link>https://wallstreetcn.com/articles/3786043</link><guid>fa7f0e14a904d5fcb6abe73035a279d88e63ab3e5118bf97db152eb296bcd7a7</guid><pubDate>Mon, 16 Nov 2026 17:56:21 GMT</pubDate><description>&lt;p&gt;美联储正式将人工智能冲击纳入宏观政策框架。&lt;/p&gt;
+&lt;p&gt;对于市场而言，QTS的遭遇提出了一个更为尖锐的问题：如果黑石背书、投资级评级的顶级借款方只能以要价的37%完成融资，那些信用评级更低、项目可信度更弱的开发商，将如何在2027年和2028年完成高收益项目债券的再融资？&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：美联储正为三种AI影响制定预案，若泡沫破裂，或引发股市走弱并拖累经济与就业</title><link>https://wallstreetcn.com/articles/3786043</link><guid>fa7f0e14a904d5fcb6abe73035a279d88e63ab3e5118bf97db152eb296bcd7a7</guid><pubDate>Mon, 16 Nov 2026 17:56:21 GMT</pubDate><description>&lt;p&gt;美联储正式将人工智能冲击纳入宏观政策框架。&lt;/p&gt;
 &lt;p&gt;美联储主席沃什周一表示，&lt;strong&gt;美联储工作人员已开始就人工智能快速普及对美国经济的潜在影响制定应急预案，涵盖从生产力繁荣、大规模失业、技术泡沫破裂的三种截然不同路径。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;沃什在旧金山联储主办的公开会议上发表上述讲话，此次会议旨在正式启动他设立的人工智能专项工作组。他明确表示，这些情景并非经济预测，美联储的职责在于客观评估而非表态立场。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;沃什延续了其一贯风格，未就货币政策近期走向发表任何直接评论。&lt;/strong&gt;&lt;/p&gt;
@@ -198,18 +224,7 @@
 &lt;strong&gt;Vera CPU机架明年初上市，戴尔、慧与、联想和超微电脑供货&lt;/strong&gt;
 &lt;p&gt;英伟达还宣布，面向高性能计算的Vera CPU机架级平台预计将于2027年初起由戴尔科技、慧与科技（HPE）、联想和超微电脑供应。&lt;/p&gt;
 &lt;p&gt;该平台将192颗Vera CPU整合在一个机架中，并通过英伟达Quantum-X800 InfiniBand网络互连，配备约300TB内存和1PB存储，采用液冷设计，峰值总内存带宽超过200TB/s。&lt;/p&gt;
-&lt;p&gt;英伟达称，该平台旨在加速气候建模、分子动力学模拟等数据密集型科学计算任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 豆包工作上线21个场景工作台，降低技能与工具配置门槛</title><link>https://wallstreetcn.com/articles/3786017</link><guid>9d1d040efd69d25f7632222a68f182aaf312cdff381c44ea79894a81d71a3b16</guid><pubDate>Mon, 16 Nov 2026 09:30:19 GMT</pubDate><description>&lt;p&gt;AI办公功能不断增加，选择和配置工具也成了一道使用门槛。&lt;/p&gt;
-&lt;p&gt;11月16日，字节跳动旗下AI办公产品豆包工作上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，将常用技能和工具提前配置到对应空间。&lt;/p&gt;
-&lt;p&gt;目前，该功能已在豆包工作电脑版和豆包电脑版上线。&lt;/p&gt;
-&lt;p&gt;此前，豆包工作持续扩充功能。&lt;/p&gt;
-&lt;p&gt;11月4日，产品接入抖音生活服务经营、巨量本地推和TikTok for Business等插件，支持经营数据查询和广告复盘；11月12日，又扩大第三方模型的开放范围，让用户按任务选择模型、比较额度消耗。&lt;/p&gt;
-&lt;p&gt;功能丰富之后，使用路径也需要整理。面对一项具体工作，用户要判断需要哪些技能、连接什么数据，再把工具组合起来。&lt;/p&gt;
-&lt;p&gt;对不熟悉AI产品的人而言，找到功能并完成配置，本身就需要学习成本。工作台将其中一部分准备工作提前完成，让用户从熟悉的任务出发选择功能。&lt;/p&gt;
-&lt;p&gt;金融投研工作台就是一个例子。其首页提供公告解读、业绩分析、市场简报和公司研究等入口，并连接万得、同花顺、国泰海通等数据服务插件。用户授权相关金融数据终端账号后，可以调用专业数据。任务和工具放在同一空间，减少了用户逐项寻找、搭配的步骤。&lt;/p&gt;
-&lt;p&gt;教师工作台则将教案、课件制作及互动演示等技能，与学科网教学资源连接器一起配置。教师可以围绕课题和教材准备内容，也能查找教学资源、用题图寻找相似题。创意设计工作台集中呈现海报、社交媒体配图等任务，启动后自动创建画布，便于查看和整理不同物料。&lt;/p&gt;
-&lt;p&gt;从已公布的功能看，工作台主要调整了任务入口与工具的组织方式。金融、教育、设计等分类分别对应不同的技能和插件组合，用户可以根据工作内容选择相应入口，再完成具体任务所需的资料输入或账号授权。&lt;/p&gt;
-&lt;p&gt;预设工作台之外，用户也可以自行选择技能和插件，填写工作要求与偏好，创建自己的工作台。创建完成的工作台支持保存和分享，使同一套配置可以在后续任务中继续使用。阿&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门</title><link>https://wallstreetcn.com/articles/3786046</link><guid>eea95d26d067631d29eaee2acb57c30c46bb30b44c66f2d3f6ef9135be57e97b</guid><pubDate>Mon, 16 Nov 2026 21:03:33 GMT</pubDate><description>&lt;p&gt;加拿大央行行长Tiff Macklem确认将于2027年6月任期届满后卸任，不寻求连任。这一消息引发市场对央行未来政策走向及领导层更迭的广泛关注。&lt;/p&gt;
+&lt;p&gt;英伟达称，该平台旨在加速气候建模、分子动力学模拟等数据密集型科学计算任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门</title><link>https://wallstreetcn.com/articles/3786046</link><guid>eea95d26d067631d29eaee2acb57c30c46bb30b44c66f2d3f6ef9135be57e97b</guid><pubDate>Mon, 16 Nov 2026 21:03:33 GMT</pubDate><description>&lt;p&gt;加拿大央行行长Tiff Macklem确认将于2027年6月任期届满后卸任，不寻求连任。这一消息引发市场对央行未来政策走向及领导层更迭的广泛关注。&lt;/p&gt;
 
 &lt;p&gt;11月16日，加拿大央行发布声明表示，&lt;strong&gt;央行行长Tiff Macklem已告知董事会，他将在2027年6月2日七年任期届满后不再寻求连任。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;央行董事会已启动遴选下一任行长的程序，预计于2027年春季完成招募，新行长任期同样为七年，自2027年6月3日起生效。&lt;/strong&gt;Macklem表示：&lt;/p&gt;
@@ -232,38 +247,7 @@
 &lt;p&gt;据彭博报道，目前呼声较高的继任候选人包括：&lt;strong&gt;贝莱德（BlackRock）经济学家Jean Boivin、丰业银行（Bank of Nova Scotia）首席经济学家Jean-François Perrault，以及加拿大央行前高级副行长Carolyn Wilkins。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;根据央行公布的遴选程序，董事会独立董事已组建搜寻董事会，负责主导招募工作，并委托行政招聘机构Egon Zehnder协助推进。有意申请者可通过专属渠道与Egon Zehnder进行保密接触。&lt;/p&gt;
 &lt;p&gt;新行长最终任命须经加拿大财政部长及联邦内阁批准。&lt;/p&gt;
-&lt;p&gt;继任者将面临的核心挑战，在于如何在通胀压力尚未完全消退、外部冲击风险犹存的背景下，掌舵加拿大货币政策，其政策理念与应对框架将成为市场评估未来利率路径的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 18:49:15 GMT</pubDate><description>&lt;p&gt;科技股抛售情绪从上周延续至新的一周，投资者在英伟达高风险财报和Anthropic预期上市之前普遍规避风险资产，全球股市承压。&lt;/p&gt;
-&lt;p&gt;特朗普周一在白宫向记者表示，&lt;strong&gt;&amp;quot;我不反对&amp;quot;黄仁勋复职，并称&amp;quot;很多人希望黄仁勋回来，这肯定不是个坏主意&amp;quot;。&lt;/strong&gt;他同时为黄仁勋辩护称，美国国家安全&amp;quot;没有受到威胁&amp;quot;。&lt;/p&gt;
-&lt;p&gt;随后，CNBC援引知情人士透露，&lt;strong&gt;董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。&lt;/strong&gt;英伟达已聘请法律事务所Wachtell Lipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。&lt;/p&gt;
-&lt;p&gt;美股盘中，标普500跌2%；道指跌1.3%；纳指跌2.5%；纳斯达克100跌2.6%，费城半导体指数跌4.9%。&lt;/p&gt;
-&lt;p&gt;个股方面，英伟达跌4.9%，Nebius跌8.3%，CoreWeave跌8.3%，Lumentum、闪迪、美光科技、SK海力士ADR、Cerebras、AMD、英特尔、阿斯麦ADR至多跌8.1%。中概股小鹏涨6.9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI首席执行官Sam Altman表示，他相信AI行业能够挺过英伟达首席执行官黄仁勋上周离任所引发的不确定性。“营收和需求增长如此强劲，我认为这个行业不会有问题。”&lt;/strong&gt;他还说，“不过，我确实认为黄仁勋一直发挥着极其特殊且重要的作用，他是一位真正以卓越远见推动行业向前发展的人。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达当地时间周二的财报是全周焦点，这将是CEO黄仁勋遭解雇后新管理层首次公开发声，其公信力与业绩数据本身同等重要。&lt;/strong&gt;与此同时，AI独角兽Anthropic预计本周完成IPO，寻求通过股票发行及私募合计募资最高904亿美元。另有特朗普与中俄两国领导人的会谈也在本周议程之内，市场面临多重事件风险叠加。&lt;/p&gt;
-&lt;p&gt;Panmure Liberum的Joachim Klement表示，市场对英伟达的关注点将集中于亚洲市场收入敞口，以及新CEO对新兴云服务商等客户提供资金支持的立场。他同时指出，对于Anthropic而言，市场将重点关注IPO的超额认购倍数以及上市首日的股价表现。&lt;/p&gt;
-
-亚太科技股重挫，韩国市场领跌
-
-&lt;p&gt;亚洲市场首当其冲，科技重仓市场承受了最大压力。韩国KOSPI指数跌幅一度扩大至4%，SK海力士重挫8%，三星电子跌超5%。MSCI亚洲（除日本）指数整体跌幅超过2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此番抛售的直接导火索是英伟达的高层动荡。&lt;strong&gt;上周黄仁勋遭到董事会解雇，公司市值单周蒸发逾5000亿美元。&lt;/strong&gt;据英国《金融时报》报道，&lt;strong&gt;黄仁勋目前正与公司就可能回归事宜进行磋商。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AT Global Markets首席市场分析师Nick Twidale表示：&amp;quot;无论是科技行业的运营中断，还是英伟达接下来将发生什么，市场现在面临的问题似乎比答案更多。在局势明朗之前，市场可能持续承压。&amp;quot;值得关注的是，微软近期发生的大规模服务中断事故，进一步压制了科技板块的整体情绪。&lt;/p&gt;
-
-避险情绪扩散，黄金原油双双走低
-
-&lt;p&gt;风险规避情绪并未带动传统避险资产上涨。现货黄金跌逾30美元，回落至3840美元/盎司下方，日内跌幅约1.1%；现货白银下跌3%，报47.22美元/盎司。比特币延续周末跌势，触及7月以来最低点后企稳，报约64309美元，日内跌约1.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;布伦特原油延续此前两周跌势，报约95.54美元/桶。尽管中东地区再度出现紧张局势，但实物市场供应充裕的迹象压过了地缘风险溢价，限制了油价的反弹空间。&lt;/p&gt;
-&lt;p&gt;美元指数在上周升至2025年5月以来最强水平后，周一整体持稳。两年期美国国债收益率小幅上行一个基点，10年期国债收益率维持在5.13%附近。上周美债收益率累计大幅攀升，上周五公布的数据显示，美国10月批发通胀同比涨幅为2022年以来最快，通胀持续的证据进一步积累。&lt;/p&gt;
-&lt;p&gt;堪萨斯城联储主席Jeff Schmid表示，价格压力仍然过热，政策制定者还有更多工作要做，并点名能源成本、耐用品价格、AI基础设施建设及医疗成本为主要推手。&lt;/p&gt;
-
-华尔街大行逢低增配，看多立场不变
-
-&lt;p&gt;尽管短期波动加剧，多家华尔街机构维持对股市的乐观判断。&lt;/p&gt;
-&lt;p&gt;摩根士丹利已将全球股票仓位调升至&amp;quot;最高超配&amp;quot;，其策略师在最新报告中写道&lt;strong&gt;：&amp;quot;AI资本支出周期完好无损，这让我们有信心认为，强劲的宏观与盈利增长将延续至明年乃至2027年。随着风险资产估值已经变得更加便宜，我们选择拥抱风险。&amp;quot;&lt;/strong&gt;摩根士丹利同时预计美元将温和走强，并看好投资级企业债及黄金。&lt;/p&gt;
-&lt;p&gt;值得注意的是，摩根士丹利策略师指出，全球股票的结构性叙事正在从超大规模云服务商向更广泛的AI应用受益者扩散，2027年将越来越多地聚焦于AI采用者的回报兑现。&lt;/p&gt;
-&lt;p&gt;高盛则预计，明年MSCI亚洲（除日本）指数的美元回报率将达到19%，主要驱动力来自盈利增长，但同时警告AI领域的不确定性可能放大市场波动。&lt;/p&gt;
-&lt;p&gt;从更宏观的视角来看，全球股市上周整体仍录得涨幅——MSCI全球指数上涨2.5%，终结此前连续四周的下跌走势——但该指数周一再度下跌约0.4%，显示短期压力尚未消散，英伟达财报及Anthropic上市能否提振市场信心，仍是本周最关键的观察窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周三英伟达财报焦点：没有黄仁勋，谁还能讲好AI故事？</title><link>https://wallstreetcn.com/articles/3786021</link><guid>5da029cb390fe542493139c3f07280840e734bbd06ccea03249052c664abb37c</guid><pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate><description>&lt;p&gt;英伟达将于当地时间周二（北京时间周三凌晨）发布季度财报，但这一次，数字本身已退居次席。&lt;strong&gt;黄仁勋的突然离职，将这场原本例行的业绩发布会推向了华尔街数十年来最受瞩目的时刻——市场真正想知道的，是没有他的英伟达，还能否延续那个关于AI的宏大叙事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;继任者将面临的核心挑战，在于如何在通胀压力尚未完全消退、外部冲击风险犹存的背景下，掌舵加拿大货币政策，其政策理念与应对框架将成为市场评估未来利率路径的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周三英伟达财报焦点：没有黄仁勋，谁还能讲好AI故事？</title><link>https://wallstreetcn.com/articles/3786021</link><guid>5da029cb390fe542493139c3f07280840e734bbd06ccea03249052c664abb37c</guid><pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate><description>&lt;p&gt;英伟达将于当地时间周二（北京时间周三凌晨）发布季度财报，但这一次，数字本身已退居次席。&lt;strong&gt;黄仁勋的突然离职，将这场原本例行的业绩发布会推向了华尔街数十年来最受瞩目的时刻——市场真正想知道的，是没有他的英伟达，还能否延续那个关于AI的宏大叙事。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;市场预计&lt;strong&gt;，英伟达第三财季营收将达到1090亿美元，盈利将增长90%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;黄仁勋于11月12日辞去英伟达总裁、首席执行官及董事会成员职务，起因是公司董事会正就婚外情展开调查，此后又有两起与英伟达员工的婚外情报道相继曝光。公司随即任命首席财务官Colette Kress出任临时CEO，但永久继任者至今悬而未决。&lt;/p&gt;
 &lt;p&gt;消息发酵以来，英伟达股价已较10月29日累计下跌约22%，过去一个月跌幅约25%，估值跌至15年低点，以未来一年市盈率计仅约11倍。&lt;/p&gt;
@@ -326,7 +310,38 @@
 轮动还是陷阱？分歧仍在
 &lt;p&gt;并非所有人都认同这一判断。美银的Hartnett在最新《资金流向》报告中，将&amp;quot;大市值消费股&amp;quot;列为若美元和流动性压力加剧时最易受损的资产之一，同时将可选消费列为未来八周最可能超预期上涨的资产——与Krinsky正在密切关注的比值方向恰好相反。两者之中，必有一错。&lt;/p&gt;
 &lt;p&gt;Krinsky本人也保持审慎。他预计在市场整体下行时，板块间相关性将上升，消费必需品&amp;quot;不会对全面下跌完全免疫&amp;quot;。他对消费必需品对可选消费的等权重比值（RSPS/RSPD）也表示，&amp;quot;现在说这是新上升趋势还为时过早&amp;quot;，但若该比值突破0.58，&amp;quot;将具有重要意义&amp;quot;——上周五收盘于0.569，距突破点约2%。&lt;/p&gt;
-&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 在蚂蚁灵波赛场，15支战队忙着教机器人做家务</title><link>https://wallstreetcn.com/articles/3786038</link><guid>ec31ac123a52a8ab88fab3bdafc3486d4b5c56c71c5320d838235c4cdbb3cb3a</guid><pubDate>Mon, 16 Nov 2026 14:10:26 GMT</pubDate><description>&lt;p&gt;一只机械臂夹着小刷子，另一只夹着黄色簸箕。绿色桌面上散落着红黄纸团，旁边摆着收纳筐。两名选手站在设备旁，低头操作，其中一人俯下身，看着面前的机械臂。&lt;/p&gt;
+&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 18:49:15 GMT</pubDate><description>&lt;p&gt;科技股抛售情绪从上周延续至新的一周，投资者在英伟达高风险财报和Anthropic预期上市之前普遍规避风险资产，全球股市承压。&lt;/p&gt;
+&lt;p&gt;特朗普周一在白宫向记者表示，&lt;strong&gt;&amp;quot;我不反对&amp;quot;黄仁勋复职，并称&amp;quot;很多人希望黄仁勋回来，这肯定不是个坏主意&amp;quot;。&lt;/strong&gt;他同时为黄仁勋辩护称，美国国家安全&amp;quot;没有受到威胁&amp;quot;。&lt;/p&gt;
+&lt;p&gt;随后，CNBC援引知情人士透露，&lt;strong&gt;董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。&lt;/strong&gt;英伟达已聘请法律事务所Wachtell Lipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。&lt;/p&gt;
+&lt;p&gt;美股盘中，标普500跌2%；道指跌1.3%；纳指跌2.5%；纳斯达克100跌2.6%，费城半导体指数跌4.9%。&lt;/p&gt;
+&lt;p&gt;个股方面，英伟达跌4.9%，Nebius跌8.3%，CoreWeave跌8.3%，Lumentum、闪迪、美光科技、SK海力士ADR、Cerebras、AMD、英特尔、阿斯麦ADR至多跌8.1%。中概股小鹏涨6.9%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAI首席执行官Sam Altman表示，他相信AI行业能够挺过英伟达首席执行官黄仁勋上周离任所引发的不确定性。“营收和需求增长如此强劲，我认为这个行业不会有问题。”&lt;/strong&gt;他还说，“不过，我确实认为黄仁勋一直发挥着极其特殊且重要的作用，他是一位真正以卓越远见推动行业向前发展的人。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英伟达当地时间周二的财报是全周焦点，这将是CEO黄仁勋遭解雇后新管理层首次公开发声，其公信力与业绩数据本身同等重要。&lt;/strong&gt;与此同时，AI独角兽Anthropic预计本周完成IPO，寻求通过股票发行及私募合计募资最高904亿美元。另有特朗普与中俄两国领导人的会谈也在本周议程之内，市场面临多重事件风险叠加。&lt;/p&gt;
+&lt;p&gt;Panmure Liberum的Joachim Klement表示，市场对英伟达的关注点将集中于亚洲市场收入敞口，以及新CEO对新兴云服务商等客户提供资金支持的立场。他同时指出，对于Anthropic而言，市场将重点关注IPO的超额认购倍数以及上市首日的股价表现。&lt;/p&gt;
+
+亚太科技股重挫，韩国市场领跌
+
+&lt;p&gt;亚洲市场首当其冲，科技重仓市场承受了最大压力。韩国KOSPI指数跌幅一度扩大至4%，SK海力士重挫8%，三星电子跌超5%。MSCI亚洲（除日本）指数整体跌幅超过2%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;此番抛售的直接导火索是英伟达的高层动荡。&lt;strong&gt;上周黄仁勋遭到董事会解雇，公司市值单周蒸发逾5000亿美元。&lt;/strong&gt;据英国《金融时报》报道，&lt;strong&gt;黄仁勋目前正与公司就可能回归事宜进行磋商。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AT Global Markets首席市场分析师Nick Twidale表示：&amp;quot;无论是科技行业的运营中断，还是英伟达接下来将发生什么，市场现在面临的问题似乎比答案更多。在局势明朗之前，市场可能持续承压。&amp;quot;值得关注的是，微软近期发生的大规模服务中断事故，进一步压制了科技板块的整体情绪。&lt;/p&gt;
+
+避险情绪扩散，黄金原油双双走低
+
+&lt;p&gt;风险规避情绪并未带动传统避险资产上涨。现货黄金跌逾30美元，回落至3840美元/盎司下方，日内跌幅约1.1%；现货白银下跌3%，报47.22美元/盎司。比特币延续周末跌势，触及7月以来最低点后企稳，报约64309美元，日内跌约1.1%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;布伦特原油延续此前两周跌势，报约95.54美元/桶。尽管中东地区再度出现紧张局势，但实物市场供应充裕的迹象压过了地缘风险溢价，限制了油价的反弹空间。&lt;/p&gt;
+&lt;p&gt;美元指数在上周升至2025年5月以来最强水平后，周一整体持稳。两年期美国国债收益率小幅上行一个基点，10年期国债收益率维持在5.13%附近。上周美债收益率累计大幅攀升，上周五公布的数据显示，美国10月批发通胀同比涨幅为2022年以来最快，通胀持续的证据进一步积累。&lt;/p&gt;
+&lt;p&gt;堪萨斯城联储主席Jeff Schmid表示，价格压力仍然过热，政策制定者还有更多工作要做，并点名能源成本、耐用品价格、AI基础设施建设及医疗成本为主要推手。&lt;/p&gt;
+
+华尔街大行逢低增配，看多立场不变
+
+&lt;p&gt;尽管短期波动加剧，多家华尔街机构维持对股市的乐观判断。&lt;/p&gt;
+&lt;p&gt;摩根士丹利已将全球股票仓位调升至&amp;quot;最高超配&amp;quot;，其策略师在最新报告中写道&lt;strong&gt;：&amp;quot;AI资本支出周期完好无损，这让我们有信心认为，强劲的宏观与盈利增长将延续至明年乃至2027年。随着风险资产估值已经变得更加便宜，我们选择拥抱风险。&amp;quot;&lt;/strong&gt;摩根士丹利同时预计美元将温和走强，并看好投资级企业债及黄金。&lt;/p&gt;
+&lt;p&gt;值得注意的是，摩根士丹利策略师指出，全球股票的结构性叙事正在从超大规模云服务商向更广泛的AI应用受益者扩散，2027年将越来越多地聚焦于AI采用者的回报兑现。&lt;/p&gt;
+&lt;p&gt;高盛则预计，明年MSCI亚洲（除日本）指数的美元回报率将达到19%，主要驱动力来自盈利增长，但同时警告AI领域的不确定性可能放大市场波动。&lt;/p&gt;
+&lt;p&gt;从更宏观的视角来看，全球股市上周整体仍录得涨幅——MSCI全球指数上涨2.5%，终结此前连续四周的下跌走势——但该指数周一再度下跌约0.4%，显示短期压力尚未消散，英伟达财报及Anthropic上市能否提振市场信心，仍是本周最关键的观察窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 在蚂蚁灵波赛场，15支战队忙着教机器人做家务</title><link>https://wallstreetcn.com/articles/3786038</link><guid>ec31ac123a52a8ab88fab3bdafc3486d4b5c56c71c5320d838235c4cdbb3cb3a</guid><pubDate>Mon, 16 Nov 2026 14:10:26 GMT</pubDate><description>&lt;p&gt;一只机械臂夹着小刷子，另一只夹着黄色簸箕。绿色桌面上散落着红黄纸团，旁边摆着收纳筐。两名选手站在设备旁，低头操作，其中一人俯下身，看着面前的机械臂。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这是首届蚂蚁灵波具身大模型挑战赛留下的一张现场照片。比赛要求机器人把桌面垃圾扫进簸箕，再倒进筐里。选手的手边摆着笔记本电脑，身前是机械臂和线缆，桌上则是家里常见的小刷子和纸团。&lt;/p&gt;
 &lt;p&gt;11月14日上午9点，上海张江科学会堂，15支战队拿到了决赛题。除了双臂清扫桌面，还要完成两项单臂任务：抓取果蔬，把化妆品放入透明盒。选手从北京、上海、深圳、武汉等地赶来，还有人专程从温哥华回国参赛。&lt;/p&gt;
@@ -357,4 +372,4 @@
 &lt;p&gt;上海交通大学人工智能学院副教授李永露认为，比赛能留下经受实战检验的工程经验与方法。一次抓取为什么失败，补采哪些数据之后有所改善，这类经验也可以在团队之间交流。&lt;/p&gt;
 &lt;p&gt;蚂蚁灵波在当天发布的开发者生态计划，也将继续支持这样的实践：计划邀请20位最有价值专家，支持教学与学术创新，同时招募40位开发者专家，支持技术实践和专业成长。&lt;/p&gt;
 &lt;p&gt;这与灵波正在做的商业化测试有直接关系。它与国大药房合作，让不同品牌和构型的机器人协同完成接单、分拣和交付；在工业与物流领域，也在推进上下料和包裹分拣的合作。&lt;/p&gt;
-&lt;p&gt;比赛里的抓取、放置，到了这些场景里会反复发生。82.5分记录的是TARS最好一轮的表现，药房和仓库还要看机器人连续工作时，多久需要人来帮一次忙。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 行业指数防坑指南：6个行业案例，教你看穿利润幻觉（11.16）</title><link>http://www.xueqiu.com/9391624441/416963903</link><guid>33578e59dc57494192fa98d0e598ecfe70ea0098535418629706d2a227065092</guid><pubDate>Mon, 16 Nov 2026 09:50:58 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;行业指数的利润波动，是我们掉进估值陷阱的最主要原因之一，如何快速识别指数的利润稳定性，是行业投资、尤其左侧投资的基本功，否则后续超出预期的震荡时间，会击溃我们的信心。&lt;/p&gt;</description></item><item><title>[今日雪球] 人少的地方才有价格：独立投资的孤独成本</title><link>http://www.xueqiu.com/7271353740/417002917</link><guid>af7a30ca1ec2bc83ec490e6b9857fe024156c008037320bb7d6e8e1228040347</guid><pubDate>Mon, 16 Nov 2026 09:51:29 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;KAIZEN投资之道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这些年做投资，我慢慢发现一个不太舒服的变化：以前喜欢凑热闹，谁说什么都愿意听；现在越来越愿意一个人待着。这不是变得清高，而是吃过几次跟风的亏以后才明白：投资里很多决定，最终只能自己承担。孤独更像是一个人开始用自己的标准看资产时，自然出现的距离。&lt;/p&gt;</description></item><item><title>[今日雪球] 从英伟达谈谈算力信用与AI格局演变</title><link>http://www.xueqiu.com/5332385101/416943662</link><guid>a4c217e87203c248f6c7c8aa5f78b064333b0919ef0957f5c47360fdb91319be</guid><pubDate>Mon, 16 Nov 2026 09:51:21 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;过去一周，英伟达的人事变动引发全球AI板块的剧烈震动。英伟达全周累计下跌约13%，较10月初高点回撤超30%，盘中市值一度跌破4万亿美元；与此同时，AMD与博通逆势走强，而新云厂商则在资金恐慌中承压下挫。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;比赛里的抓取、放置，到了这些场景里会反复发生。82.5分记录的是TARS最好一轮的表现，药房和仓库还要看机器人连续工作时，多久需要人来帮一次忙。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
