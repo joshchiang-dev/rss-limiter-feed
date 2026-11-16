@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 03:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 本周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报</title><link>https://wallstreetcn.com/articles/3785932</link><guid>ecb32489164202b858fbfbfcbe210c4cb4c934a41088577222003fbfe70467b4</guid><pubDate>Sun, 15 Nov 2026 16:41:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 04:29:25 GMT</lastBuildDate><item><title>[华尔街见闻] 本周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报</title><link>https://wallstreetcn.com/articles/3785932</link><guid>ecb32489164202b858fbfbfcbe210c4cb4c934a41088577222003fbfe70467b4</guid><pubDate>Sun, 15 Nov 2026 16:41:52 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;见闻财经日历提醒本周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首先，关注APEC领导人非正式会议。&lt;/strong&gt;峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。&lt;/p&gt;
@@ -141,55 +141,38 @@ CUDA护城河瓦解？大摩：英伟达市场份额仍在80%以上
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%</title><link>https://wallstreetcn.com/articles/3785994</link><guid>8e50abe000300ba2eac6958338a1cba1e5fa14d639e0044ce25764935b241c04</guid><pubDate>Mon, 16 Nov 2026 03:21:57 GMT</pubDate><description>&lt;p&gt;11月16日，高盛最新发布的2027年中国市场策略展望报告&lt;strong&gt;将港股评级上调至超配，同时下调A股至中性&lt;/strong&gt;，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSCI中国指数12个月远期市盈率仅9.8倍，处于十年均值下方约1个标准差，&lt;strong&gt;&amp;quot;大量负面因素已经反映在股价中&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;报告认为，2027年的核心交易逻辑已发生结构性转变——从押注AI贝塔行情，转向寻求盈利增长、现金回报和分散配置。分析师表示，A股在此前AI行情中积累的高仓位集中度，将成为制约指数上行的主要阻力。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;盈利展望：港股加速，A股承压&lt;/strong&gt;
-&lt;p&gt;该行预测2027年MSCI中国指数盈利增速为15%，沪深300指数为12%，均低于卖方一致预期的18%，但高于高盛对中期（5年）和长期（10年）每股盈利趋势增速（分别为10%和8%）的预测。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分市场来看，港股盈利将呈现超趋势增长。&lt;/strong&gt;分析师指出，这主要受互联网板块及更广泛软科技（Soft Tech）板块驱动——互联网板块盈利增速预计从2026年的-3%加速至2027年的18%，软科技从14%加速至22%，主要催化剂包括外卖补贴亏损的逐步消退（自2025年三季度以来累计亏损已达1900亿元人民币）以及AI/云收入的稳健增长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A股则面临较大下修压力。&lt;/strong&gt;分析师团队指出，&lt;strong&gt;AI硬科技股盈利增速将从2026年的85%大幅放缓至2027年的46%&lt;/strong&gt;，而该板块目前占沪深300指数盈利权重的40%。高盛强调，A股市场卖方一致预期过于乐观是&amp;quot;A股市场的惯性特征&amp;quot;，实际盈利增速已连续7年低于预期。&lt;/p&gt;
-&lt;p&gt;在各板块具体预测中，该行对互联网、银行及&amp;quot;老消费&amp;quot;板块维持相对乐观，预计后两者将在净息差和投入成本温和改善的背景下延续稳健的盈利与现金流增长。与此同时，该行预测能源板块盈利将同比下滑，对汽车和科技硬件的预测亦较卖方一致预期偏保守。&lt;/p&gt;
-AH股估值：降至低点，修复空间可期
-&lt;p&gt;该行认为，当前估值水平已提供较为充足的安全边际。&lt;/p&gt;
-&lt;p&gt;分析师指出，MSCI中国指数和沪深300指数目前分别以9.8倍和11.9倍12个月远期市盈率交易，前者处于十年均值下方约1个标准差，接近2024年9月初的周期低点。&lt;strong&gt;历史经验显示，当MSCI中国以低于10倍的远期市盈率交易时，未来12个月产生正回报的概率超过85%，平均涨幅（以市值加权和中位数市盈率计算）分别约为14%和7%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从国际比较角度，MSCI中国指数目前相对发达市场和除韩国以外的新兴市场分别折价43%和21%，PEG比率（市盈率相对盈利增长比率）在全球范围内具有吸引力。&lt;/p&gt;
-&lt;p&gt;高盛的宏观市盈率模型显示，考虑流动性和市场集中度因素后，MSCI中国指数的均衡远期市盈率应在11.5倍左右，&lt;strong&gt;沪深300指数应在13.0倍左右，对应显著的估值修复空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;资金流向：港股获机构青睐，A股仓位集中存隐忧&lt;/strong&gt;
-&lt;p&gt;该行分析了各类投资者群体的配置动向，整体判断2027年中国股票的流动性背景将&amp;quot;大体上具有建设性&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对冲基金&lt;/strong&gt;方面，据高盛Prime经纪数据，对冲基金目前对中国股票维持高总仓位但净仓位偏低，风险限额偏紧，该行预计其2027年将扩大在离岸市场的AI及非AI配置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主动型长线基金&lt;/strong&gt;方面，离岸投资者对中国的配置已升至多年高位，但主要源于中国在基准指数中中性权重下降带来的被动超配，真正的主动加仓仍较有限。国内公募基金对AI硬科技仍保持重仓，该行预计其资金流向将向非AI板块倾斜。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;南向资金&lt;/strong&gt;方面，该行预测2027年南向资金流入将达1000亿美元，高于年初至今的530亿美元。国内保险公司预计将在强劲保费增长的支撑下小幅增加股票配置，但其股票仓位已达投资组合的15%至16%，上行空间有限。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;国家队&lt;/strong&gt;方面，该行估算国家队在2026年下半年已净买入约700亿美元A股（此前上半年为净卖出约3000亿美元）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;股票供给&lt;/strong&gt;方面，该行预计2027年IPO及配股融资规模将从2026年约2700亿美元的高位有所回落，而企业现金回报（包括股息和回购）预计将再创历史新高，达约4.1万亿元人民币（约合6300亿美元），足以抵消潜在的新增供给压力。&lt;/p&gt;
-&lt;strong&gt;市场策略：港股超配，A股聚焦阿尔法&lt;/strong&gt;
-&lt;p&gt;该行明确将港股上调至区域超配，同时将A股从超配下调至中性，&lt;strong&gt;并建议A股投资者&amp;quot;以阿尔法取代贝塔&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;报告指出，自高盛于2026年6月3日将H股调整至中性以来，MSCI中国指数已下跌12%，落后全球发达市场12个百分点。如今，H股评级重新上调至超配，时机选择上兼顾了估值修复潜力和港股指数相对于A股指数更高的软科技（AI应用层）暴露度。&lt;/p&gt;
-&lt;p&gt;相比之下，A股面临的制约更加明显。该行指出，&lt;strong&gt;A股的三重压力在于：卖方一致预期的盈利增速（18%）显著高于高盛预测（12%）；AI硬科技盈利增速将大幅放缓；国内机构在AI硬科技方向的仓位仍高度集中。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;该行的A/H市场轮动框架亦显示，未来3个月港股相对A股的表现将更具优势。&lt;/p&gt;
-&lt;p&gt;该行围绕中国成长股构建了三条核心主题投资方向：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其一，精选结构性AI成长标的&lt;/strong&gt;。当前AI代理股的大幅回调提供了较具吸引力的战略建仓机会，重点布局方向包括中国AI国内冠军企业（Domestic Champions）、AI出口领军企业（Export Leaders）及精选AI综合组合（Select AI Portfolio），后者自2024年初以来已累计上涨76%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其二，稳定股东回报增长&lt;/strong&gt;。该行认为这一策略在美国利率高企、中国利率受压的环境中尤为有效。该行近期将银行股上调至超配，并持续看好股东回报主题。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其三，周期/消费成长中的盈利反转及自由现金流潜力标的&lt;/strong&gt;。该行指出，部分去评级（De-rated）和周期性成长（Cyclical Growth）板块的估值已跌至历史低位，盈利预期被压缩至保守水平，&lt;strong&gt;互联网板块的盈利和自由现金流周期有望在未来几个季度触底回升。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指跌破3600点，创业板跌超2%，光模块龙头“易中天”再大跌，银行、家电逆势拉升，恒科指、恒指齐涨，新世界发展大跌35%</title><link>https://wallstreetcn.com/articles/3785986</link><guid>aebd32bc91b1003a9e25419ae03191427a7274afb775bf1aaa314066ca8dcb71</guid><pubDate>Mon, 16 Nov 2026 01:53:12 GMT</pubDate><description>&lt;p&gt;11月16日，A股早盘低开低走，三大股指盘初齐跌，沪指跌破3600点，跌幅达到1%，创业板低开超1%，盘初跌幅扩大至超2%，科创50、科创综指亦跌超2%，算力硬件集体下挫，光模块等概念股跌幅居前。物理AI、人形机器人等概念股同样下挫，基本金属、半导体板块陷入调整。银行、白色家电、煤炭、油气等板块逆势走强。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板跌超2%，光模块龙头“易中天”再大跌，银行逆势拉升，30年期国债跌0.5%，恒指涨1%，新世界发展大跌40%</title><link>https://wallstreetcn.com/articles/3785986</link><guid>aebd32bc91b1003a9e25419ae03191427a7274afb775bf1aaa314066ca8dcb71</guid><pubDate>Mon, 16 Nov 2026 03:56:33 GMT</pubDate><description>&lt;p&gt;11月16日，A股三大指数低开后一度探底，沪指盘中失守3600点，在银行、电力、家电等红利板块的逆势拉升下，沪指跌幅显著收窄，创业板跌超2%，盘中一度跌超3%，存储、算力集体陷入调整，科创50跌近3%，光模块龙头“易中天”、工业富联等集体下跌，物理AI、人形机器人等概念股同样下挫，航天军工、基本金属、半导体板块下跌。银行、白色家电、煤炭、油气等板块逆势走强。&lt;/p&gt;
 &lt;p&gt;港股早盘震荡上涨，恒指、恒科指盘初集体拉升，权重科网股多数反弹，光模块等算力硬件股下挫，中际旭创跌超5%。恒生生物科技指数早盘大跌，康方生物等跌幅居前，此前康方生物药物依沃西在美国的首次上市申请未获得批准。新世界发展跌35%，此前该公司以折价方式实施32亿美元供股计划。&lt;/p&gt;
 &lt;p&gt;债市方面，国债期货全线下跌，30年期国债期货早盘跌0.5%。商品方面，国内商品期货多数下跌，沪银等贵金属期货领跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌1.12%，深成指跌1.78%，创业板指跌2.71%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.39%，深成指跌1.31%，创业板指跌2.34%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指涨0.38%，恒科指涨0.31%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约跌0.33%，10年期主力合约跌0.08%，5年期主力合约跌0.03%，2年期主力合约跌0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线下跌，截至发稿，30年期主力合约跌0.54%，10年期主力合约跌0.13%，5年期主力合约跌0.04%，2年期主力合约持平。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普跌，截至发稿，集运指数、焦煤涨超1%，原油、焦炭、燃油、橡胶、烧碱、锰硅、豆粕、沥青等少数品种走高，工业硅、不锈钢、热轧卷板、螺纹钢、菜籽、鸡蛋、玻璃、沪金、氧化铝、沪铝等下跌，沪铜、纸浆、沪锡、钯金等跌幅超过1%，碳酸锂、铁矿石、沪镍、铂金跌超2%，沪银大跌超5%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货多数下跌，截至发稿，贵金属跌幅居前，白银跌5.83%；新能源材料多数下跌，碳酸锂跌3.93%；油脂油料多数下跌，豆一跌3.67%；农副产品多数下跌，红枣跌3.33%；黑色系涨跌参半，铁矿石跌2.24%；基本金属多数下跌，镍跌1.99%；化工品多数下跌，聚丙烯跌1.66%；能源品涨跌参半，LPG跌1.44%；非金属建材涨跌参半，玻璃跌0.55%；航运期货涨幅居前，INE集运指数(欧线)涨2.90%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;11:45&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;盘面上，个股跌多涨少，沪深京三市超3500股飘绿，上午半天成交9067亿。沪深两市半日成交额9006亿，较上个交易日缩量近800亿。板块方面，银行板块继续引领红利方阵前行，工行、建行、中行、美的集团、长江电力创新高。AI硬件侧抛压明显，“易中天”、工业富联领跌。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;具体来看，CPO概念跌3.71%，中际旭创跌7.70%，新易盛跌6.97%，天孚通信跌7.14%；算力芯片方面，寒武纪跌4.98%，海光信息跌4.74%，中芯国际跌3.55%，燧原科技跌超8%；存储与设计方面，普冉股份跌7.67%，东芯股份跌5.91%，兆易创新跌5.58%，佰维存储跌3.55%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;催化来自海外：美银报告指出，NAND现货价格自10月以来已下跌近20%，率先被下调预期，主因智能手机厂商与中国云服务商订单持续放缓，但维持DRAM价格四季度涨8%、明年一季度涨5%的预测。&lt;/p&gt;
+&lt;p&gt;韩国存储双雄同步大跌，SK海力士跌5.18%、三星电子跌3.45%，拖累KOSPI跌近3%。此外英特尔遭股东集体诉讼，指控其隐瞒PC销售放缓影响，此前单日股价暴跌28.6%蒸发约1400亿美元市值。&lt;/p&gt;
+&lt;p&gt;中信建投认为，资本市场会提前交易未来增长的担忧，产业发展则有自身节奏，外部不确定性逐步落地后，科技股定价将回到订单、需求和盈利预期，AI产业革命远未走完，长期成长空间依然值得看好。&lt;/p&gt;
+&lt;p&gt;银行板块逆势走强，工商银行、建设银行、南京银行、成都银行、杭州银行、江苏银行、青岛银行创历史新高。个股层面，浦发银行涨2.69%，宁波银行涨2.20%，农业银行涨1.90%，建设银行涨1.49%，工商银行涨1.47%，南京银行涨1.64%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;基本面支撑来自净息差改善：东方财富证券统计，2026年前三季度42家上市银行利息净收入累计同比增长8.3%，较2025年全年的0.0%及2025年上半年的-1.3%显著改善。&lt;/p&gt;
+&lt;p&gt;家电板块领涨，九阳股份涨停，小熊电器涨停，华帝股份涨停，长虹美菱涨停，北鼎股份20cm涨停，海信家电涨5.15%，美的集团涨1.15%创历史新高。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:17&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;智能电网板块异动，顺钠股份一笔涨停，许继电气、平高电气、中国西电、国电南自、国电南瑞齐升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:52&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;“易中天”、工业富联均下滑超6%，领跌AI硬件侧，长飞光纤、东山精密、胜宏科技、兆易创新纷纷走软。韩股方面，三星电子、SK海力士早盘双双跳水，后者下挫逾5%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -215,7 +198,26 @@ AH股估值：降至低点，修复空间可期
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数开盘涨0.3%报23708.60点，恒生科技指数涨0.4%，恒生中国企业指数涨0.35%。能源股、消费股表现亮眼，黄金股延续跌势。新世界发展股价大跌逾45%，此前该公司以折价方式实施32亿美元供股计划。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国1-10月房地产开发投资同比下降21.6%，新建商品房销售额同比下降14.3%</title><link>https://wallstreetcn.com/articles/3785989</link><guid>5c503925dd13b8868593c93b3a4c922e98094383127eaaca12254794526b1162</guid><pubDate>Mon, 16 Nov 2026 02:12:21 GMT</pubDate><description>&lt;p&gt;11月16日，中国国家统计局公布的最新数据显示，1—10月份，全国房地产开发投资57215亿元，&lt;strong&gt;同比下降21.6%&lt;/strong&gt;；其中，住宅投资44102亿元，下降21.4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 堪萨斯城联储施密德：通胀过高且方向错误，美联储仍有工作要做</title><link>https://wallstreetcn.com/articles/3785996</link><guid>d286a34b150a9c7f1334b8757ea38fb3a857509f8f5da1fa075dd5a6b56ae1c1</guid><pubDate>Mon, 16 Nov 2026 03:35:41 GMT</pubDate><description>&lt;p&gt;堪萨斯城联储主席施密德（Jeff Schmid）上周日（11月15日）表示，当前通胀水平令人不安，美联储仍有工作要做，但他并未明确呼吁进一步加息。这是继芝加哥联储古尔斯比、纽约联储威廉姆斯及美联储主席沃什（Kevin Warsh）相继发声后，又一位联储官员就通胀问题公开表态。&lt;/p&gt;
+&lt;p&gt;据彭博、路透和CNBC报道，施密德在夏威夷一场信贷联盟会议上发表书面讲话称，美联储偏爱的物价指标9月同比上涨&lt;strong&gt;3.6%&lt;/strong&gt;，&lt;strong&gt;“令人不安地高于2%的价格稳定目标，且正朝错误方向运行”&lt;/strong&gt;。他援引主席沃什此前表态指出，“美联储在通胀问题上仍有工作要做，而且不幸的是，自那以后我们的工作只会更难”。&lt;/p&gt;
+&lt;p&gt;施密德今年并非联邦公开市场委员会（FOMC）投票委员。他的表态与近期市场预期方向一致——在近期通胀数据持续超预期、多位联储官员相继发出鹰派信号后，利率期货市场目前已完全消化12月会议加息25个基点的预期，并存在小概率加息50个基点的可能。&lt;/p&gt;
+&lt;p&gt;另外，波士顿联储主席Susan Collins周六也在波士顿一场住房议题会议上表示，&lt;strong&gt;支持以稳健渐进的步伐推进加息&lt;/strong&gt;，认为这一路径更有利于管理经济不确定性，但她同时指出，过去三个月的物价数据及劳动力市场表现，令她认为未来一年政策利率路径可能高于此前预期。&lt;/p&gt;
+驳斥“通胀超出美联储掌控”论
+&lt;p&gt;施密德在讲话中着重反驳了近期市场上流行的两种叙事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一种叙事&lt;/strong&gt;认为，当前高通胀主要源于反复出现的供给冲击，与需求无关。施密德对此不认同，他表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“通胀始终是供需失衡的结果。正是在强劲需求的背景下，供给端的扰动才会推高价格。需求始终在通胀中扮演角色，美联储通过影响需求，始终拥有应对通胀的工具和责任。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;第二种叙事&lt;/strong&gt;则认为，当前需求端通胀的驱动力——例如人工智能基础设施建设热潮——对货币政策免疫，加息无法有效压制。施密德同样予以反驳，称自己不认同这一判断，并强调美联储无需等待某一特定类别价格（如AI相关技术商品）作出反应，才能实现通胀目标。&lt;/p&gt;
+&lt;p&gt;他总结道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“这两种叙事有一个共同核心，即通胀在某种程度上超出了美联储的掌控。我不认为这是事实。&lt;strong&gt;美联储确实拥有应对通胀的工具，也有责任实现价格稳定。&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+通胀压力多点并发，经济基本面尚稳
+&lt;p&gt;施密德指出，近期通胀压力来源多元，包括能源成本上升、耐用品价格走高（部分由关税驱动）、人工智能基础设施建设以及医疗成本攀升。他特别提示，不应轻易假设生产成本上升——无论是油价上涨还是关税冲击——对通胀的影响只是暂时性的。&lt;/p&gt;
+&lt;p&gt;与此同时，施密德对经济整体状况持相对乐观态度，认为经济增长保持“稳健步伐”，失业率处于低位。他表示，劳动力市场和薪资目前似乎并未对通胀形成明显推动。&lt;/p&gt;
+&lt;p&gt;在政策操作层面，美联储9月将基准利率上调25个基点至3.75%至4.00%区间，但在10月会议上选择按兵不动。市场目前普遍预期12月会议将再度加息，1月会议亦存在进一步加息预期。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 中国1-10月房地产开发投资同比下降21.6%，新建商品房销售额同比下降14.3%</title><link>https://wallstreetcn.com/articles/3785989</link><guid>5c503925dd13b8868593c93b3a4c922e98094383127eaaca12254794526b1162</guid><pubDate>Mon, 16 Nov 2026 02:12:21 GMT</pubDate><description>&lt;p&gt;11月16日，中国国家统计局公布的最新数据显示，1—10月份，全国房地产开发投资57215亿元，&lt;strong&gt;同比下降21.6%&lt;/strong&gt;；其中，住宅投资44102亿元，下降21.4%。&lt;/p&gt;
 &lt;p&gt;数据还显示，1—10月份，新建商品房销售面积61358万平方米，&lt;strong&gt;同比下降13.7%&lt;/strong&gt;；其中住宅销售面积下降14.2%。新建商品房销售额58550亿元，下降14.3%；其中住宅销售额下降14.1%。根据住房城乡建设部数据，1—10月份，&lt;strong&gt;二手房交易网签面积67971万平方米，同比增长11.4%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，中国国家统计局数据显示，1—10月份，房地产开发企业到位资金61530亿元，同比下降21.9%。&lt;/p&gt;
 前10月房地产开发投资同比下降21.6%
@@ -283,7 +285,43 @@ AH股估值：降至低点，修复空间可期
 &lt;p&gt;&lt;strong&gt;分地区看，&lt;/strong&gt;东部地区投资同比下降11.5%，中部地区投资下降12.9%，西部地区投资下降9.2%，东北地区投资下降25.9%。&lt;/p&gt;
 &lt;p&gt;分登记注册统计类别看，内资企业固定资产投资同比下降7.9%，港澳台投资企业固定资产投资下降8.4%，外商投资企业固定资产投资下降6.6%。&lt;/p&gt;
 &lt;p&gt;1—10月份，民间固定资产投资同比下降11.4%。从环比看，10月份固定资产投资（不含农户）下降2.93%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险</title><link>https://wallstreetcn.com/articles/3785968</link><guid>32f307c5360bce0208800f17cbb42dc7233736df9556e13fd1b0ab023d734d86</guid><pubDate>Mon, 16 Nov 2026 00:25:42 GMT</pubDate><description>&lt;p&gt;不断飙升的美元正在收紧全球流动性，并化身为金融市场的“破坏球”，压制全球风险资产及大宗商品，风险资产暂难入场。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%</title><link>https://wallstreetcn.com/articles/3785994</link><guid>8e50abe000300ba2eac6958338a1cba1e5fa14d639e0044ce25764935b241c04</guid><pubDate>Mon, 16 Nov 2026 03:21:57 GMT</pubDate><description>&lt;p&gt;11月16日，高盛最新发布的2027年中国市场策略展望报告&lt;strong&gt;将港股评级上调至超配，同时下调A股至中性&lt;/strong&gt;，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSCI中国指数12个月远期市盈率仅9.8倍，处于十年均值下方约1个标准差，&lt;strong&gt;&amp;quot;大量负面因素已经反映在股价中&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;报告认为，2027年的核心交易逻辑已发生结构性转变——从押注AI贝塔行情，转向寻求盈利增长、现金回报和分散配置。分析师表示，A股在此前AI行情中积累的高仓位集中度，将成为制约指数上行的主要阻力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;盈利展望：港股加速，A股承压&lt;/strong&gt;
+&lt;p&gt;该行预测2027年MSCI中国指数盈利增速为15%，沪深300指数为12%，均低于卖方一致预期的18%，但高于高盛对中期（5年）和长期（10年）每股盈利趋势增速（分别为10%和8%）的预测。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分市场来看，港股盈利将呈现超趋势增长。&lt;/strong&gt;分析师指出，这主要受互联网板块及更广泛软科技（Soft Tech）板块驱动——互联网板块盈利增速预计从2026年的-3%加速至2027年的18%，软科技从14%加速至22%，主要催化剂包括外卖补贴亏损的逐步消退（自2025年三季度以来累计亏损已达1900亿元人民币）以及AI/云收入的稳健增长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A股则面临较大下修压力。&lt;/strong&gt;分析师团队指出，&lt;strong&gt;AI硬科技股盈利增速将从2026年的85%大幅放缓至2027年的46%&lt;/strong&gt;，而该板块目前占沪深300指数盈利权重的40%。高盛强调，A股市场卖方一致预期过于乐观是&amp;quot;A股市场的惯性特征&amp;quot;，实际盈利增速已连续7年低于预期。&lt;/p&gt;
+&lt;p&gt;在各板块具体预测中，该行对互联网、银行及&amp;quot;老消费&amp;quot;板块维持相对乐观，预计后两者将在净息差和投入成本温和改善的背景下延续稳健的盈利与现金流增长。与此同时，该行预测能源板块盈利将同比下滑，对汽车和科技硬件的预测亦较卖方一致预期偏保守。&lt;/p&gt;
+AH股估值：降至低点，修复空间可期
+&lt;p&gt;该行认为，当前估值水平已提供较为充足的安全边际。&lt;/p&gt;
+&lt;p&gt;分析师指出，MSCI中国指数和沪深300指数目前分别以9.8倍和11.9倍12个月远期市盈率交易，前者处于十年均值下方约1个标准差，接近2024年9月初的周期低点。&lt;strong&gt;历史经验显示，当MSCI中国以低于10倍的远期市盈率交易时，未来12个月产生正回报的概率超过85%，平均涨幅（以市值加权和中位数市盈率计算）分别约为14%和7%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从国际比较角度，MSCI中国指数目前相对发达市场和除韩国以外的新兴市场分别折价43%和21%，PEG比率（市盈率相对盈利增长比率）在全球范围内具有吸引力。&lt;/p&gt;
+&lt;p&gt;高盛的宏观市盈率模型显示，考虑流动性和市场集中度因素后，MSCI中国指数的均衡远期市盈率应在11.5倍左右，&lt;strong&gt;沪深300指数应在13.0倍左右，对应显著的估值修复空间。&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;资金流向：港股获机构青睐，A股仓位集中存隐忧&lt;/strong&gt;
+&lt;p&gt;该行分析了各类投资者群体的配置动向，整体判断2027年中国股票的流动性背景将&amp;quot;大体上具有建设性&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对冲基金&lt;/strong&gt;方面，据高盛Prime经纪数据，对冲基金目前对中国股票维持高总仓位但净仓位偏低，风险限额偏紧，该行预计其2027年将扩大在离岸市场的AI及非AI配置。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主动型长线基金&lt;/strong&gt;方面，离岸投资者对中国的配置已升至多年高位，但主要源于中国在基准指数中中性权重下降带来的被动超配，真正的主动加仓仍较有限。国内公募基金对AI硬科技仍保持重仓，该行预计其资金流向将向非AI板块倾斜。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;南向资金&lt;/strong&gt;方面，该行预测2027年南向资金流入将达1000亿美元，高于年初至今的530亿美元。国内保险公司预计将在强劲保费增长的支撑下小幅增加股票配置，但其股票仓位已达投资组合的15%至16%，上行空间有限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国家队&lt;/strong&gt;方面，该行估算国家队在2026年下半年已净买入约700亿美元A股（此前上半年为净卖出约3000亿美元）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;股票供给&lt;/strong&gt;方面，该行预计2027年IPO及配股融资规模将从2026年约2700亿美元的高位有所回落，而企业现金回报（包括股息和回购）预计将再创历史新高，达约4.1万亿元人民币（约合6300亿美元），足以抵消潜在的新增供给压力。&lt;/p&gt;
+&lt;strong&gt;市场策略：港股超配，A股聚焦阿尔法&lt;/strong&gt;
+&lt;p&gt;该行明确将港股上调至区域超配，同时将A股从超配下调至中性，&lt;strong&gt;并建议A股投资者&amp;quot;以阿尔法取代贝塔&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告指出，自高盛于2026年6月3日将H股调整至中性以来，MSCI中国指数已下跌12%，落后全球发达市场12个百分点。如今，H股评级重新上调至超配，时机选择上兼顾了估值修复潜力和港股指数相对于A股指数更高的软科技（AI应用层）暴露度。&lt;/p&gt;
+&lt;p&gt;相比之下，A股面临的制约更加明显。该行指出，&lt;strong&gt;A股的三重压力在于：卖方一致预期的盈利增速（18%）显著高于高盛预测（12%）；AI硬科技盈利增速将大幅放缓；国内机构在AI硬科技方向的仓位仍高度集中。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;该行的A/H市场轮动框架亦显示，未来3个月港股相对A股的表现将更具优势。&lt;/p&gt;
+&lt;p&gt;该行围绕中国成长股构建了三条核心主题投资方向：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其一，精选结构性AI成长标的&lt;/strong&gt;。当前AI代理股的大幅回调提供了较具吸引力的战略建仓机会，重点布局方向包括中国AI国内冠军企业（Domestic Champions）、AI出口领军企业（Export Leaders）及精选AI综合组合（Select AI Portfolio），后者自2024年初以来已累计上涨76%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其二，稳定股东回报增长&lt;/strong&gt;。该行认为这一策略在美国利率高企、中国利率受压的环境中尤为有效。该行近期将银行股上调至超配，并持续看好股东回报主题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其三，周期/消费成长中的盈利反转及自由现金流潜力标的&lt;/strong&gt;。该行指出，部分去评级（De-rated）和周期性成长（Cyclical Growth）板块的估值已跌至历史低位，盈利预期被压缩至保守水平，&lt;strong&gt;互联网板块的盈利和自由现金流周期有望在未来几个季度触底回升。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险</title><link>https://wallstreetcn.com/articles/3785968</link><guid>32f307c5360bce0208800f17cbb42dc7233736df9556e13fd1b0ab023d734d86</guid><pubDate>Mon, 16 Nov 2026 00:25:42 GMT</pubDate><description>&lt;p&gt;不断飙升的美元正在收紧全球流动性，并化身为金融市场的“破坏球”，压制全球风险资产及大宗商品，风险资产暂难入场。&lt;/p&gt;
 &lt;p&gt;这是美国银行首席投资策略师Michael Hartnett在其最新一期《Flow Show》报告中的观点。&lt;strong&gt;他认为，当前市场面临三重矛盾——美联储紧缩周期远未结束、政府托市构筑空头壁垒、高净值消费者财富效应支撑经济。这意味着，目前风险资产既不值得追涨，又难以安然做空。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hartnett将自己年末看涨的&amp;quot;终点线&amp;quot;再度后移。原本预期中期选举后、感恩节前市场可能开启年终上涨行情，但就业数据大超预期、通胀连续三个月走热、美联储官员放风加息50个基点，彻底打乱了节奏。唯有等待油价、美债收益率与美元三项指标同步回落，才有加仓信号——&lt;strong&gt;而这一等，可能要等到明年春天。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周五，美元指数收于103.42，创年内新高。Hartnett将其定性为全球流动性的&amp;quot;破坏之球&amp;quot;——&lt;strong&gt;美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。&lt;/strong&gt;&lt;/p&gt;
@@ -369,39 +407,6 @@ AH股估值：降至低点，修复空间可期
 &lt;p&gt;据媒体报道，伊朗副外长Kazem Gharibabadi接受IRNA采访时披露，伊朗已针对美伊关系的三种可能走向制定应对方案，涵盖外交封锁、经济封锁及军事侵略。他强调，美国在过去一年半内至少三次表现出不诚信，&amp;quot;这表明美国在外交谈判桌上不可信赖&amp;quot;。&lt;/p&gt;
 &lt;p&gt;尽管如此，德黑兰并未完全关闭对话之门。据报道，伊朗议长Mohammad Bagher Ghalibaf表示，&lt;strong&gt;若华盛顿接受德黑兰提出的“合理条件”，战争可以结束&lt;/strong&gt;。特朗普此前亦表示，对伊朗发动进一步打击并非必要，但美国仍处于“随时待命”状态。&lt;/p&gt;
 &lt;p&gt;伊朗袭击巴林美军基地的消息令油价在两周跌势后短暂企稳，但整体涨幅受到供需基本面压制。&lt;/p&gt;
-&lt;p&gt;国际能源署上周表示，&lt;strong&gt;自冲突爆发以来，全球石油供应首次超过需求&lt;/strong&gt;，本季度预计每日过剩约200万桶。这一转变部分反映出霍尔木兹海峡能源流动的阶段性恢复。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027见闻历，财经人的桌面必备“神历”</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Mon, 16 Nov 2026 01:51:00 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;国际能源署上周表示，&lt;strong&gt;自冲突爆发以来，全球石油供应首次超过需求&lt;/strong&gt;，本季度预计每日过剩约200万桶。这一转变部分反映出霍尔木兹海峡能源流动的阶段性恢复。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027见闻历，财经人的桌面必备“神历”</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Mon, 16 Nov 2026 03:59:18 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”</title><link>https://wallstreetcn.com/articles/3785975</link><guid>0e311ccd2040173d1139b02f308d162703d278dace61251c2a45eaf3b550ee03</guid><pubDate>Mon, 16 Nov 2026 00:17:14 GMT</pubDate><description>&lt;p&gt;黄仁勋辞职数日后，围绕英伟达CEO职位的争夺已演变为一场公开博弈。一边是硅谷盟友为其回归积极奔走，另一边是美国财政部长贝森特高调施压，要求彻底换血。&lt;/p&gt;
-&lt;p&gt;11月15日，据英国《金融时报》报道，黄仁勋已与亲信讨论重返CEO职位的可能性，其盟友正在硅谷组建&amp;quot;战情室&amp;quot;，游说英伟达董事会将其复职，并计划争取白宫支持。与此同时，美国财政部长贝森特周日在福克斯新闻节目上明确表态，英伟达需要&amp;quot;大刀阔斧的领导层变革&amp;quot;，董事会应从外部物色继任者。&lt;/p&gt;
-&lt;p&gt;两股力量方向相反，英伟达董事会夹在中间，独立调查仍在进行，季度财报将于周二公布。而这场角力的走向，将直接影响这家市值4万亿美元芯片巨头的未来走向。&lt;/p&gt;
-盟友集结，“战情室”游说董事会
-&lt;p&gt;据报道援引多位知情人士，黄仁勋已与亲信讨论回归可能，且相关游说行动得到了他本人的支持。&lt;/p&gt;
-&lt;p&gt;一位黄仁勋的盟友透露：&amp;quot;科技界所有重要人物，前沿实验室之外的，都喜欢黄仁勋。&amp;quot;该人士表示，他们正在组建一个由硅谷高管构成的&amp;quot;战情室&amp;quot;，并将尝试争取白宫的支持。&lt;/p&gt;
-&lt;p&gt;公开层面，一封要求英伟达董事会&amp;quot;让黄仁勋回来&amp;quot;的联署信已迅速发酵。据Moneywise统计，截至上周六上午，该公开信已累计超过10万个签名，其中包括5248名自称现任英伟达员工及53233名自称股东的签署者。马斯克、Epic Games CEO Tim Sweeney、Y Combinator CEO Garry Tan、Replit CEO Amjad Masad等人均在列。&lt;/p&gt;
-&lt;p&gt;马斯克在签署请愿书后进一步阐述了商业逻辑：&amp;quot;英伟达许多供应链协议是与黄仁勋的握手协议，而非书面合同。没有黄仁勋，至少部分关键交易将会流失。&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Tim Sweeney在黄仁勋辞职当天（11月12日）即发文称，英伟达董事会此举是&amp;quot;苹果解雇乔布斯级别的愚蠢&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;英伟达两大股东Altimeter Capital创始人Brad Gerstner与Atreides Management负责人Gavin Baker也于上周五联名致信董事会，要求对领导层问题采取&amp;quot;缓慢、审慎、深思熟虑的流程&amp;quot;，并明确将&amp;quot;黄仁勋潜在回归&amp;quot;列为选项之一。据CNBC，截至今年6月30日，两家基金合计持有约21.3亿美元英伟达股票。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-贝森特施压：要外部人选，要10天答复
-&lt;p&gt;然而，来自华盛顿的声音截然不同。&lt;/p&gt;
-&lt;p&gt;财政部长贝森特周日在福克斯新闻《周日早间期货》节目上表示：&lt;strong&gt;&amp;quot;董事会在寻找新领导人时，需要从公司外部着手，他们需要一场大刀阔斧的变革。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;贝森特的关切不止于人事。他直接质疑英伟达是否明知故犯，违反高端芯片出口管。&lt;/strong&gt;&amp;quot;英伟达的企业文化是什么？他们是否在推动这些看似违规的销售，以拉高营收和利润？&amp;quot;他说，&lt;strong&gt;&amp;quot;我认为我们需要在10天内从董事会和外部律师那里得到答案。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;贝森特还点出了一个具体细节：英伟达在对外直接销售下滑、新加坡账单激增之后，停止在财务文件中单独披露新加坡营收。&lt;/strong&gt;他援引报道称，这些芯片中只有1%实际留在了新加坡。他将此与银行业监管类比：&amp;quot;如果一家银行出现类似的合规漏洞，联邦监管机构早就强制要求其高管离职了。&amp;quot;&lt;/p&gt;
-&lt;p&gt;贝森特还表示，调查的核心问题在于出口管制失效究竟发生在哪个层级——&amp;quot;是基层失误，是中层，还是高管层？谁知情？&amp;quot;他补充说，相关新加坡空壳公司&amp;quot;显而易见&amp;quot;，早已在调查之中。&lt;/p&gt;
-&lt;p&gt;在被问及新加坡公司Megaspeed如何将高端英伟达芯片运走时，贝森特将问题推给了商务部：&amp;quot;商务部内部的运作，我留给商务部去解释。&amp;quot;Megaspeed前任董事总经理Alice Huang与黄仁勋存在恋情，目前正受到审查。&lt;/p&gt;
-回归之路障碍重重
-&lt;p&gt;即便是支持黄仁勋回归的阵营，也承认这条路并不平坦。&lt;/p&gt;
-&lt;p&gt;&amp;quot;与下属发生婚外情是可以被解雇的行为，&amp;quot;一位参与复职努力的人士向媒体坦承。&lt;/p&gt;
-&lt;p&gt;黄仁勋与其他创始人CEO不同，他从未持有英伟达的控制性股权，因此无法凌驾于董事会决定之上。目前，英伟达由临时CEO Colette Kress主导运营，公司正努力在周二季度财报发布前稳定局面。&lt;/p&gt;
-&lt;p&gt;在回归之前，黄仁勋还面临国会的审查。&lt;strong&gt;美国众议院中委员会主席、众议员John Moolenaar周日表示，黄仁勋已同意接受众议院三个委员会的闭门问询。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在继任人选方面，Arm CEO Rene Haas已被英伟达董事会接触，作为潜在继任者。不过英伟达董事会表示，目前尚未启动&amp;quot;正式&amp;quot;程序。&lt;/p&gt;
-&lt;p&gt;知名投资人David Friedberg则提出了另一种视角：若调查证明黄仁勋未违反法律，即便存在行为准则违规或未向董事会履行披露义务，股东仍可选择忽略这些问题，让其回归CEO职位。&lt;/p&gt;
-合规疑云笼罩英伟达
-&lt;p&gt;此次风波的核心，已不仅仅是一场人事危机。&lt;/p&gt;
-&lt;p&gt;黄仁勋与Alice Huang的恋情，将英伟达向亚洲客户销售AI芯片的合规机制推上了风口浪尖。&lt;/p&gt;
-&lt;p&gt;不过，据报道，美国中央情报局官员&amp;quot;尚未确信&amp;quot;Alice Huang的具体情况。司法部长Todd Blanche也表示，司法部和FBI均未得出结论：&amp;quot;没有人这么说。&amp;quot;&lt;/p&gt;
-&lt;p&gt;贝森特在节目中还就参议院拟将特朗普限制高端芯片出口行政令法典化的立法表态，称&amp;quot;我们已经拥有所需的全部规则，只需要执行它们&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
