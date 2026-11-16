@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 21:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重</title><link>https://wallstreetcn.com/articles/3786019</link><guid>9c5edbff172c1befc12a03891577e0cc200b98a4f42020d40ba4b8f4b7499f92</guid><pubDate>Mon, 16 Nov 2026 11:28:59 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮出现新的降温信号。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 22:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重</title><link>https://wallstreetcn.com/articles/3786019</link><guid>9c5edbff172c1befc12a03891577e0cc200b98a4f42020d40ba4b8f4b7499f92</guid><pubDate>Mon, 16 Nov 2026 11:28:59 GMT</pubDate><description>&lt;p&gt;AI基础设施投资热潮出现新的降温信号。&lt;/p&gt;
 &lt;p&gt;半导体研究机构SemiAnalysis在11月13日发布的最新模型更新中，&lt;strong&gt;大幅下调了未来数年AI加速器出货、资本开支、HBM需求和电力需求预测。&lt;/strong&gt;其中，&lt;strong&gt;2028年至2030年的调整幅度尤为明显：2028年全球AI加速器资本开支预测被下调28%，2029年和2030年分别下调41%和40%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;按照最新模型，2030年全球AI加速器资本开支将从此前预测的1.531万亿美元降至9230亿美元，减少6080亿美元。与此同时，&lt;strong&gt;2026年至2030年加速器逻辑硅片出货面积累计预测下调17%，英伟达占据其中66%的削减幅度。&lt;/strong&gt;&lt;/p&gt;
@@ -224,30 +224,85 @@
 &lt;strong&gt;Vera CPU机架明年初上市，戴尔、慧与、联想和超微电脑供货&lt;/strong&gt;
 &lt;p&gt;英伟达还宣布，面向高性能计算的Vera CPU机架级平台预计将于2027年初起由戴尔科技、慧与科技（HPE）、联想和超微电脑供应。&lt;/p&gt;
 &lt;p&gt;该平台将192颗Vera CPU整合在一个机架中，并通过英伟达Quantum-X800 InfiniBand网络互连，配备约300TB内存和1PB存储，采用液冷设计，峰值总内存带宽超过200TB/s。&lt;/p&gt;
-&lt;p&gt;英伟达称，该平台旨在加速气候建模、分子动力学模拟等数据密集型科学计算任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门</title><link>https://wallstreetcn.com/articles/3786046</link><guid>eea95d26d067631d29eaee2acb57c30c46bb30b44c66f2d3f6ef9135be57e97b</guid><pubDate>Mon, 16 Nov 2026 21:03:33 GMT</pubDate><description>&lt;p&gt;加拿大央行行长Tiff Macklem确认将于2027年6月任期届满后卸任，不寻求连任。这一消息引发市场对央行未来政策走向及领导层更迭的广泛关注。&lt;/p&gt;
-
-&lt;p&gt;11月16日，加拿大央行发布声明表示，&lt;strong&gt;央行行长Tiff Macklem已告知董事会，他将在2027年6月2日七年任期届满后不再寻求连任。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;央行董事会已启动遴选下一任行长的程序，预计于2027年春季完成招募，新行长任期同样为七年，自2027年6月3日起生效。&lt;/strong&gt;Macklem表示：&lt;/p&gt;
+&lt;p&gt;英伟达称，该平台旨在加速气候建模、分子动力学模拟等数据密集型科学计算任务。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 22:17:36 GMT</pubDate><description>&lt;p&gt;Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标普500指数&lt;/strong&gt;收跌1.9%，&lt;strong&gt;纳指&lt;/strong&gt;数重挫2.5%，&lt;strong&gt;道指&lt;/strong&gt;下滑1.4%，全球股票基准MSCI世界指数亦跌1.6%。半导体板块首当其冲，&lt;strong&gt;芯片指数&lt;/strong&gt;单日下挫5.3%，AI与科技板块的广泛去风险操作令科技巨头也无从幸免。&lt;/p&gt;
+&lt;p&gt;与此同时，原油价格在地缘冲突消息中意外下行，&lt;strong&gt;布伦特原油&lt;/strong&gt;跌至约93美元/桶，&lt;strong&gt;WTI原油&lt;/strong&gt;跌约3.5%至85.50美元/桶，但股市与大宗商品的双双走软并未提振债券，&lt;strong&gt;美债收益率横盘&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美元指数&lt;/strong&gt;小幅走高，续创18个月新高，&lt;strong&gt;比特币&lt;/strong&gt;和&lt;strong&gt;黄金&lt;/strong&gt;则双双走低。彭博宏观策略师Frank Monkam指出，市场正在消化一个令人不安的现实：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;担任加拿大央行第十任行长是我职业生涯的最高荣誉，在任期间，加拿大在一个更加分裂、更易受冲击的世界中艰难前行，央行以果断行动、审慎判断和对使命的坚定承诺应对了这些挑战。&lt;/p&gt;
+&lt;p&gt;美联储看跌期权&amp;quot;似乎正在失效——即便股市承压，市场对2027年利率的预期反而有所上升，显示持续的通胀风险正在令货币政策宽松预期愈发遥远。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;在货币政策层面，央行上月将政策利率上调至2.5%，为三年多来首次加息。当前，决策者日益担忧中东局势持续推高油价，可能向更广泛商品和服务传导，进一步推升通胀压力。&lt;/p&gt;
-&lt;p&gt;在此背景下，继任行长的政策立场与应对能力将受到市场密切审视。&lt;/p&gt;
-
-任内经历史上最激进加息周期
-
-&lt;p&gt;Macklem于2020年接掌加拿大央行，彼时新冠疫情已重创全球经济。前任行长Stephen Poloz已将隔夜基准利率降至0.25%，而Macklem上任后的首要举措之一，便是明确承诺低利率将维持相当长一段时间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，这一条件性承诺最终被迫撤回。&lt;/strong&gt;大规模财政及货币刺激政策叠加新冠疫情造成的供应冲击，推动通胀在全球范围内急剧攀升。&lt;strong&gt;加拿大通胀率于2022年6月飙升至8.1%，创40年来最高水平。&lt;/strong&gt;&lt;/p&gt;
+AI交易全面退潮，纳指领跌美股三大指数
+&lt;p&gt;周一美股三大指数集体收低，标普500与纳斯达克综合指数均录得三连跌。&lt;/p&gt;
+&lt;p&gt;标普500报7,416.59点，跌1.92%；纳斯达克综合指数报24,509.76点，跌2.49%；道琼斯工业平均指数报51,608.17点，跌1.41%；纳斯达克100指数跌2.67%，为跌幅最大的主要股指。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;今日仅有必需消费品板块录得上涨，科技与能源板块均遭大幅抛售。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;芯片股是抛售的集中区域&lt;/strong&gt;。英伟达收跌4.1%，创2025年7月1日以来收盘新低。美光跌7.62%，Arm跌8.12%，AMD跌5.58%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;英伟达此前已连续六周下跌，创2012年10月以来最长周线跌势，市值较峰值缩水约三分之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛编制的广义AI股票篮子当日普跌，剔除AI相关股票之后的标普500同样收低&lt;/strong&gt;，显示卖压并不局限于芯片。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Nationwide首席市场策略师Mark Hackett表示，本周以防御基调开局，英伟达财报与Anthropic上市是对投资者兴趣的两次检验。&lt;strong&gt;他认为市场在关键事件前倾向于先降低风险敞口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI CEO Altman在旧金山Semafor举办的会议上表示，他相信AI行业能够承受此次动荡。Altman说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;收入和需求增长依然十分强劲，我认为整个行业不会有问题。但我必须说，黄仁勋在推动行业前进方面扮演了极为特殊和不可或缺的角色。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;除芯片制造商外，为AI提供算力租赁的新云公司跌幅居前&lt;/strong&gt;。&lt;strong&gt;超微电脑&lt;/strong&gt;收跌6.85%，&lt;strong&gt;博通&lt;/strong&gt;跌3.92%，&lt;strong&gt;谷歌&lt;/strong&gt;跌4.07%，&lt;strong&gt;亚马逊&lt;/strong&gt;跌3.34%。&lt;strong&gt;加息预期升温推高融资成本，依赖外部资金扩建数据中心的公司估值受压更明显。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为压制通胀，央行随即启动史上最激进加息周期之一，在约18个月内将政策利率累计上调475个基点至5%。这一系列加息对经济增长形成拖累，但最终有效遏制了通胀压力。&lt;/p&gt;
-&lt;p&gt;尽管部分高负债家庭承压明显，加拿大总体上避免了衰退。&lt;/p&gt;
+&lt;p&gt;信用市场随之恶化，投资级信用利差扩大，超大规模数据中心运营商信用违约互换（CDS）重回450基点上方。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美股七巨头当日整体跑输大盘，没有出现资金抱团避险的迹象。微软跌1.12%，苹果跌0.98%，Meta跌2.38%，特斯拉跌2.69%。大型科技股同步走弱，削弱了指数原本的抗跌力量。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;野村资产管理首席投资策略师Andy Goldberg表示，AI敞口已经渗透到经济中极不相关的角落，投资者很难弄清自己实际承担了多少风险。他提到，一家婚纱零售商也在筹备拆分AI婚礼策划业务上市。&lt;/p&gt;
+&lt;p&gt;瑞讯银行高级分析师Ipek Ozkardeskaya表示，&lt;strong&gt;买入Anthropic的投资者可能卖出手中科技股腾出资金，因此上市成功未必能带动全部AI股票上涨&lt;/strong&gt;。&lt;/p&gt;
 
-三位候选人进入市场视野
+Anthropic IPO成焦点，科技情绪或现分水岭
 
-&lt;p&gt;据彭博报道，目前呼声较高的继任候选人包括：&lt;strong&gt;贝莱德（BlackRock）经济学家Jean Boivin、丰业银行（Bank of Nova Scotia）首席经济学家Jean-François Perrault，以及加拿大央行前高级副行长Carolyn Wilkins。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;根据央行公布的遴选程序，董事会独立董事已组建搜寻董事会，负责主导招募工作，并委托行政招聘机构Egon Zehnder协助推进。有意申请者可通过专属渠道与Egon Zehnder进行保密接触。&lt;/p&gt;
-&lt;p&gt;新行长最终任命须经加拿大财政部长及联邦内阁批准。&lt;/p&gt;
-&lt;p&gt;继任者将面临的核心挑战，在于如何在通胀压力尚未完全消退、外部冲击风险犹存的背景下，掌舵加拿大货币政策，其政策理念与应对框架将成为市场评估未来利率路径的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周三英伟达财报焦点：没有黄仁勋，谁还能讲好AI故事？</title><link>https://wallstreetcn.com/articles/3786021</link><guid>5da029cb390fe542493139c3f07280840e734bbd06ccea03249052c664abb37c</guid><pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate><description>&lt;p&gt;英伟达将于当地时间周二（北京时间周三凌晨）发布季度财报，但这一次，数字本身已退居次席。&lt;strong&gt;黄仁勋的突然离职，将这场原本例行的业绩发布会推向了华尔街数十年来最受瞩目的时刻——市场真正想知道的，是没有他的英伟达，还能否延续那个关于AI的宏大叙事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic本周的市场首秀，将在AI行业最动荡的时期到来。据悉，银行家预计将于周三定价，周四正式开盘交易，此次IPO有望成为有史以来规模最大的首次公开募股。&lt;/p&gt;
+&lt;p&gt;E*Trade Morgan Stanley的Chris Larkin表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;市场近期充满噪音。股市上周勉强经受住了英伟达的波动，但本周的财报季和高知名度IPO意味着科技情绪将继续主导走势。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nationwide的Mark Hackett则将本周定性为更深层次的方向性考验：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对AI交易而言，更大的问题不在于英伟达或Anthropic能否兑现预期，而在于投资者究竟是在注入新资金，还是仅仅在赢家之间做轮换。本周催化剂的市场反应，将是多空角力最终走向的重要线索。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;分析人士指出，Anthropic的登场还承载着另一重意义：能否证明AI浪潮已从&amp;quot;铲子与镐头&amp;quot;的基础设施阶段，真正迈向更成熟的应用变现阶段，是摆在CEO Dario Amodei面前的核心命题。&lt;/p&gt;
+
+油价下挫，供需基本面压倒地缘溢价
+
+&lt;p&gt;原油市场周一走势出乎市场预料。尽管伊朗报告自周日起已对霍尔木兹海峡实施六起油轮袭击，并对驻巴林美军防空阵地发动无人机攻击，WTI原油价格仍下跌约3.5%，布伦特原油亦徘徊在93美元/桶附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;拖累油价的核心逻辑在于基本面供需格局的逆转。国际能源署（IEA）报告显示，全球石油供应自冲突爆发以来首次超过需求；高盛则发出警告，预测2027年前市场将出现约每日200万桶的显著过剩。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Capital Economics指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自霍尔木兹危机最严峻时期以来，能源供应背景已大幅改善，尽管航运受阻，海湾地区石油出口已基本恢复。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;市场适应性亦是油价下跌的次要因素。&lt;/strong&gt;高盛强调，贸易商和船运公司已绕开最危险的航线，实体市场在未出现实质性供应缺口的情况下消化了这些扰动。&lt;/p&gt;
+&lt;p&gt;随着美国第三支航母打击群进驻波斯湾，部分极端风险溢价正在消散。&lt;strong&gt;原油下行同步传导至成品油，美国零售柴油价格自9月以来首度跌回6美元以下&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+美债按兵不动，美联储&amp;quot;看跌期权&amp;quot;缺位引发隐忧
+
+&lt;p&gt;在股票与大宗商品双双承压的背景下，美债表现异常平静。10年期美债收益率周一基本持平于5.13%，30年期收益率几乎未变，仅5至10年段小幅下行2至3个基点。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786043"&gt;华尔街见闻提及&lt;/a&gt;，美联储主席沃什周一表示，美联储工作人员已开始就人工智能快速普及对美国经济的潜在影响制定应急预案，涵盖从生产力繁荣、大规模失业、技术泡沫破裂的三种截然不同路径。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786022"&gt;美联储理事Barr则警告称&lt;/a&gt;，自主AI代理可能加速银行挤兑风险。克利夫兰联储行长Hammack重申支持以更小幅度、更稳定的方式加息，以应对她认为正在扩散的通胀压力。&lt;/p&gt;
+&lt;p&gt;短端市场对12月加息50基点的押注小幅回落，但2027年加息预期反而有所上升，整体而言呈现出轻度偏鹰的信号。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;彭博宏观策略师Frank Monkam的分析更令市场警惕：历史上每逢股市调整，投资者都会将货币政策宽松作为安全网，但这一次，持续的通胀风险正在扭曲这一惯常逻辑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;股市在测试近期区间下轨之际，市场对2027年利率预期反而走高，意味着&amp;quot;逢跌买入&amp;quot;策略所依赖的政策托底已愈发难以依靠，这对零售投资者的冲击尤为深远。&lt;/strong&gt;&lt;/p&gt;
+美元创19个月高位、黄金探一年多低位
+&lt;p&gt;美元指数在纽约汇市尾市收于103.549，涨0.13%，创19个月新高，收复了去年4月关税冲击以来的全部跌幅。美国银行策略师Kamal Sharma团队表示，去美元化的讨论已经消退，AI投资热潮重新支撑美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;欧元兑美元跌至1.1003，为19个月低位；英镑兑美元报1.3186。丹斯克银行分析师August Hyldgaard表示，欧元走弱主要源于稳健的美国经济数据与美联储日益偏鹰的立场。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现货黄金&lt;/strong&gt;收报3,853.06美元/盎司，跌约0.88%，盘中触及3840.52美元的一年多低位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;经历了周末加密货币市场暴跌之后，&lt;strong&gt;比特币价格&lt;/strong&gt;周一横盘于6.5万美元附近。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;比特币已全数回吐8月“贬值交易”以来的所有涨幅。 此前8月下旬，美债规模突破40万亿美元且美国财政部扩大国债回购，市场押注政府债务货币化将稀释美元购买力、纷纷买入比特币等稀缺硬资产对冲法币贬值，但如今这波行情已被悉数抹平。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 周三英伟达财报焦点：没有黄仁勋，谁还能讲好AI故事？</title><link>https://wallstreetcn.com/articles/3786021</link><guid>5da029cb390fe542493139c3f07280840e734bbd06ccea03249052c664abb37c</guid><pubDate>Mon, 16 Nov 2026 11:56:00 GMT</pubDate><description>&lt;p&gt;英伟达将于当地时间周二（北京时间周三凌晨）发布季度财报，但这一次，数字本身已退居次席。&lt;strong&gt;黄仁勋的突然离职，将这场原本例行的业绩发布会推向了华尔街数十年来最受瞩目的时刻——市场真正想知道的，是没有他的英伟达，还能否延续那个关于AI的宏大叙事。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;市场预计&lt;strong&gt;，英伟达第三财季营收将达到1090亿美元，盈利将增长90%&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;黄仁勋于11月12日辞去英伟达总裁、首席执行官及董事会成员职务，起因是公司董事会正就婚外情展开调查，此后又有两起与英伟达员工的婚外情报道相继曝光。公司随即任命首席财务官Colette Kress出任临时CEO，但永久继任者至今悬而未决。&lt;/p&gt;
 &lt;p&gt;消息发酵以来，英伟达股价已较10月29日累计下跌约22%，过去一个月跌幅约25%，估值跌至15年低点，以未来一年市盈率计仅约11倍。&lt;/p&gt;
@@ -310,38 +365,30 @@
 轮动还是陷阱？分歧仍在
 &lt;p&gt;并非所有人都认同这一判断。美银的Hartnett在最新《资金流向》报告中，将&amp;quot;大市值消费股&amp;quot;列为若美元和流动性压力加剧时最易受损的资产之一，同时将可选消费列为未来八周最可能超预期上涨的资产——与Krinsky正在密切关注的比值方向恰好相反。两者之中，必有一错。&lt;/p&gt;
 &lt;p&gt;Krinsky本人也保持审慎。他预计在市场整体下行时，板块间相关性将上升，消费必需品&amp;quot;不会对全面下跌完全免疫&amp;quot;。他对消费必需品对可选消费的等权重比值（RSPS/RSPD）也表示，&amp;quot;现在说这是新上升趋势还为时过早&amp;quot;，但若该比值突破0.58，&amp;quot;将具有重要意义&amp;quot;——上周五收盘于0.569，距突破点约2%。&lt;/p&gt;
-&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 18:49:15 GMT</pubDate><description>&lt;p&gt;科技股抛售情绪从上周延续至新的一周，投资者在英伟达高风险财报和Anthropic预期上市之前普遍规避风险资产，全球股市承压。&lt;/p&gt;
-&lt;p&gt;特朗普周一在白宫向记者表示，&lt;strong&gt;&amp;quot;我不反对&amp;quot;黄仁勋复职，并称&amp;quot;很多人希望黄仁勋回来，这肯定不是个坏主意&amp;quot;。&lt;/strong&gt;他同时为黄仁勋辩护称，美国国家安全&amp;quot;没有受到威胁&amp;quot;。&lt;/p&gt;
-&lt;p&gt;随后，CNBC援引知情人士透露，&lt;strong&gt;董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。&lt;/strong&gt;英伟达已聘请法律事务所Wachtell Lipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。&lt;/p&gt;
-&lt;p&gt;美股盘中，标普500跌2%；道指跌1.3%；纳指跌2.5%；纳斯达克100跌2.6%，费城半导体指数跌4.9%。&lt;/p&gt;
-&lt;p&gt;个股方面，英伟达跌4.9%，Nebius跌8.3%，CoreWeave跌8.3%，Lumentum、闪迪、美光科技、SK海力士ADR、Cerebras、AMD、英特尔、阿斯麦ADR至多跌8.1%。中概股小鹏涨6.9%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenAI首席执行官Sam Altman表示，他相信AI行业能够挺过英伟达首席执行官黄仁勋上周离任所引发的不确定性。“营收和需求增长如此强劲，我认为这个行业不会有问题。”&lt;/strong&gt;他还说，“不过，我确实认为黄仁勋一直发挥着极其特殊且重要的作用，他是一位真正以卓越远见推动行业向前发展的人。”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英伟达当地时间周二的财报是全周焦点，这将是CEO黄仁勋遭解雇后新管理层首次公开发声，其公信力与业绩数据本身同等重要。&lt;/strong&gt;与此同时，AI独角兽Anthropic预计本周完成IPO，寻求通过股票发行及私募合计募资最高904亿美元。另有特朗普与中俄两国领导人的会谈也在本周议程之内，市场面临多重事件风险叠加。&lt;/p&gt;
-&lt;p&gt;Panmure Liberum的Joachim Klement表示，市场对英伟达的关注点将集中于亚洲市场收入敞口，以及新CEO对新兴云服务商等客户提供资金支持的立场。他同时指出，对于Anthropic而言，市场将重点关注IPO的超额认购倍数以及上市首日的股价表现。&lt;/p&gt;
+&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门</title><link>https://wallstreetcn.com/articles/3786046</link><guid>eea95d26d067631d29eaee2acb57c30c46bb30b44c66f2d3f6ef9135be57e97b</guid><pubDate>Mon, 16 Nov 2026 21:03:33 GMT</pubDate><description>&lt;p&gt;加拿大央行行长Tiff Macklem确认将于2027年6月任期届满后卸任，不寻求连任。这一消息引发市场对央行未来政策走向及领导层更迭的广泛关注。&lt;/p&gt;
 
-亚太科技股重挫，韩国市场领跌
+&lt;p&gt;11月16日，加拿大央行发布声明表示，&lt;strong&gt;央行行长Tiff Macklem已告知董事会，他将在2027年6月2日七年任期届满后不再寻求连任。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;央行董事会已启动遴选下一任行长的程序，预计于2027年春季完成招募，新行长任期同样为七年，自2027年6月3日起生效。&lt;/strong&gt;Macklem表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;担任加拿大央行第十任行长是我职业生涯的最高荣誉，在任期间，加拿大在一个更加分裂、更易受冲击的世界中艰难前行，央行以果断行动、审慎判断和对使命的坚定承诺应对了这些挑战。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在货币政策层面，央行上月将政策利率上调至2.5%，为三年多来首次加息。当前，决策者日益担忧中东局势持续推高油价，可能向更广泛商品和服务传导，进一步推升通胀压力。&lt;/p&gt;
+&lt;p&gt;在此背景下，继任行长的政策立场与应对能力将受到市场密切审视。&lt;/p&gt;
 
-&lt;p&gt;亚洲市场首当其冲，科技重仓市场承受了最大压力。韩国KOSPI指数跌幅一度扩大至4%，SK海力士重挫8%，三星电子跌超5%。MSCI亚洲（除日本）指数整体跌幅超过2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此番抛售的直接导火索是英伟达的高层动荡。&lt;strong&gt;上周黄仁勋遭到董事会解雇，公司市值单周蒸发逾5000亿美元。&lt;/strong&gt;据英国《金融时报》报道，&lt;strong&gt;黄仁勋目前正与公司就可能回归事宜进行磋商。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AT Global Markets首席市场分析师Nick Twidale表示：&amp;quot;无论是科技行业的运营中断，还是英伟达接下来将发生什么，市场现在面临的问题似乎比答案更多。在局势明朗之前，市场可能持续承压。&amp;quot;值得关注的是，微软近期发生的大规模服务中断事故，进一步压制了科技板块的整体情绪。&lt;/p&gt;
+任内经历史上最激进加息周期
 
-避险情绪扩散，黄金原油双双走低
+&lt;p&gt;Macklem于2020年接掌加拿大央行，彼时新冠疫情已重创全球经济。前任行长Stephen Poloz已将隔夜基准利率降至0.25%，而Macklem上任后的首要举措之一，便是明确承诺低利率将维持相当长一段时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然而，这一条件性承诺最终被迫撤回。&lt;/strong&gt;大规模财政及货币刺激政策叠加新冠疫情造成的供应冲击，推动通胀在全球范围内急剧攀升。&lt;strong&gt;加拿大通胀率于2022年6月飙升至8.1%，创40年来最高水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为压制通胀，央行随即启动史上最激进加息周期之一，在约18个月内将政策利率累计上调475个基点至5%。这一系列加息对经济增长形成拖累，但最终有效遏制了通胀压力。&lt;/p&gt;
+&lt;p&gt;尽管部分高负债家庭承压明显，加拿大总体上避免了衰退。&lt;/p&gt;
 
-&lt;p&gt;风险规避情绪并未带动传统避险资产上涨。现货黄金跌逾30美元，回落至3840美元/盎司下方，日内跌幅约1.1%；现货白银下跌3%，报47.22美元/盎司。比特币延续周末跌势，触及7月以来最低点后企稳，报约64309美元，日内跌约1.1%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;布伦特原油延续此前两周跌势，报约95.54美元/桶。尽管中东地区再度出现紧张局势，但实物市场供应充裕的迹象压过了地缘风险溢价，限制了油价的反弹空间。&lt;/p&gt;
-&lt;p&gt;美元指数在上周升至2025年5月以来最强水平后，周一整体持稳。两年期美国国债收益率小幅上行一个基点，10年期国债收益率维持在5.13%附近。上周美债收益率累计大幅攀升，上周五公布的数据显示，美国10月批发通胀同比涨幅为2022年以来最快，通胀持续的证据进一步积累。&lt;/p&gt;
-&lt;p&gt;堪萨斯城联储主席Jeff Schmid表示，价格压力仍然过热，政策制定者还有更多工作要做，并点名能源成本、耐用品价格、AI基础设施建设及医疗成本为主要推手。&lt;/p&gt;
+三位候选人进入市场视野
 
-华尔街大行逢低增配，看多立场不变
-
-&lt;p&gt;尽管短期波动加剧，多家华尔街机构维持对股市的乐观判断。&lt;/p&gt;
-&lt;p&gt;摩根士丹利已将全球股票仓位调升至&amp;quot;最高超配&amp;quot;，其策略师在最新报告中写道&lt;strong&gt;：&amp;quot;AI资本支出周期完好无损，这让我们有信心认为，强劲的宏观与盈利增长将延续至明年乃至2027年。随着风险资产估值已经变得更加便宜，我们选择拥抱风险。&amp;quot;&lt;/strong&gt;摩根士丹利同时预计美元将温和走强，并看好投资级企业债及黄金。&lt;/p&gt;
-&lt;p&gt;值得注意的是，摩根士丹利策略师指出，全球股票的结构性叙事正在从超大规模云服务商向更广泛的AI应用受益者扩散，2027年将越来越多地聚焦于AI采用者的回报兑现。&lt;/p&gt;
-&lt;p&gt;高盛则预计，明年MSCI亚洲（除日本）指数的美元回报率将达到19%，主要驱动力来自盈利增长，但同时警告AI领域的不确定性可能放大市场波动。&lt;/p&gt;
-&lt;p&gt;从更宏观的视角来看，全球股市上周整体仍录得涨幅——MSCI全球指数上涨2.5%，终结此前连续四周的下跌走势——但该指数周一再度下跌约0.4%，显示短期压力尚未消散，英伟达财报及Anthropic上市能否提振市场信心，仍是本周最关键的观察窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 在蚂蚁灵波赛场，15支战队忙着教机器人做家务</title><link>https://wallstreetcn.com/articles/3786038</link><guid>ec31ac123a52a8ab88fab3bdafc3486d4b5c56c71c5320d838235c4cdbb3cb3a</guid><pubDate>Mon, 16 Nov 2026 14:10:26 GMT</pubDate><description>&lt;p&gt;一只机械臂夹着小刷子，另一只夹着黄色簸箕。绿色桌面上散落着红黄纸团，旁边摆着收纳筐。两名选手站在设备旁，低头操作，其中一人俯下身，看着面前的机械臂。&lt;/p&gt;
+&lt;p&gt;据彭博报道，目前呼声较高的继任候选人包括：&lt;strong&gt;贝莱德（BlackRock）经济学家Jean Boivin、丰业银行（Bank of Nova Scotia）首席经济学家Jean-François Perrault，以及加拿大央行前高级副行长Carolyn Wilkins。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据央行公布的遴选程序，董事会独立董事已组建搜寻董事会，负责主导招募工作，并委托行政招聘机构Egon Zehnder协助推进。有意申请者可通过专属渠道与Egon Zehnder进行保密接触。&lt;/p&gt;
+&lt;p&gt;新行长最终任命须经加拿大财政部长及联邦内阁批准。&lt;/p&gt;
+&lt;p&gt;继任者将面临的核心挑战，在于如何在通胀压力尚未完全消退、外部冲击风险犹存的背景下，掌舵加拿大货币政策，其政策理念与应对框架将成为市场评估未来利率路径的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 在蚂蚁灵波赛场，15支战队忙着教机器人做家务</title><link>https://wallstreetcn.com/articles/3786038</link><guid>ec31ac123a52a8ab88fab3bdafc3486d4b5c56c71c5320d838235c4cdbb3cb3a</guid><pubDate>Mon, 16 Nov 2026 14:10:26 GMT</pubDate><description>&lt;p&gt;一只机械臂夹着小刷子，另一只夹着黄色簸箕。绿色桌面上散落着红黄纸团，旁边摆着收纳筐。两名选手站在设备旁，低头操作，其中一人俯下身，看着面前的机械臂。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这是首届蚂蚁灵波具身大模型挑战赛留下的一张现场照片。比赛要求机器人把桌面垃圾扫进簸箕，再倒进筐里。选手的手边摆着笔记本电脑，身前是机械臂和线缆，桌上则是家里常见的小刷子和纸团。&lt;/p&gt;
 &lt;p&gt;11月14日上午9点，上海张江科学会堂，15支战队拿到了决赛题。除了双臂清扫桌面，还要完成两项单臂任务：抓取果蔬，把化妆品放入透明盒。选手从北京、上海、深圳、武汉等地赶来，还有人专程从温哥华回国参赛。&lt;/p&gt;
