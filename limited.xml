@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 18:59:16 GMT</lastBuildDate><item><title>[华尔街见闻] MONA出海，接过小鹏月销六万辆的接力棒</title><link>https://wallstreetcn.com/articles/3786102</link><guid>e57e335a1468d231a6fdc9fada472f7518b41cf9ed426b35efb756eb9e0f65db</guid><pubDate>Tue, 17 Nov 2026 10:32:50 GMT</pubDate><description>&lt;p&gt;小鹏的销量和收入都在往上走，盈利还需要再追一步。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 19:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] MONA出海，接过小鹏月销六万辆的接力棒</title><link>https://wallstreetcn.com/articles/3786102</link><guid>e57e335a1468d231a6fdc9fada472f7518b41cf9ed426b35efb756eb9e0f65db</guid><pubDate>Tue, 17 Nov 2026 10:32:50 GMT</pubDate><description>&lt;p&gt;小鹏的销量和收入都在往上走，盈利还需要再追一步。&lt;/p&gt;
 &lt;p&gt;11月16日，小鹏集团公布第三季度营收242.8亿元，同比增长19.1%；净亏损8.7亿元，同比扩大，较二季度收窄35.1%。相较于市场此前的预估，公司收入更高、亏损更少，整体毛利率也略好于预期。11月17日，小鹏汽车截至午盘上涨超6%。&lt;/p&gt;
 &lt;p&gt;三季报中，小鹏汽车业务相关财务数据出现改善迹象。产品组合变化带动汽车毛利率环比回升，而技术研发服务收入的确认节奏又影响了整体利润表现。销量增长正在带来更多收入，但小鹏仍需消化研发、新车投放和渠道扩张的支出。&lt;/p&gt;
 &lt;p&gt;小鹏集团董事长、CEO何小鹏则把接下来的增长目标摆到了台前。在财报电话会上，他预计，今年海外销量将首次突破10万辆，明年实现翻倍以上增长，并强调海外业务的单车利润贡献明显高于国内。与此同时，小鹏给出了第四季度交付16.9万至17.4万辆的指引。&lt;/p&gt;
@@ -163,7 +163,51 @@ AI漫剧：一个&amp;quot;2.57%&amp;quot;戳破的题材泡沫
 &lt;p&gt;市场的另一项重要考验，则是英伟达当天盘后公布的季度业绩，以及临时CEO克雷斯首次以公司掌舵者身份面对华尔街。&lt;/p&gt;
 &lt;p&gt;在黄仁勋离职后，投资者不仅需要确认英伟达的AI芯片需求和业绩增长能否延续，还希望了解公司在失去这位长期领导者之后，能否维持原有的技术竞争力、客户关系和战略执行能力。&lt;/p&gt;
 &lt;p&gt;因此，黄仁勋周二的声明引发的短线反弹，更像是市场对领导层不确定性可能缓解的一次即时定价，而非投资者已经确认其复职。&lt;/p&gt;
-&lt;p&gt;对于英伟达而言，真正决定市场信心能否恢复的，仍将是董事会调查和CEO继任安排的进展，以及公司能否证明，即使黄仁勋不再掌舵，英伟达仍能维持AI芯片业务的增长势头。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录</title><link>https://wallstreetcn.com/articles/3786120</link><guid>6419fd1a59a28318223efde63ba19dfd8254b700224b9765cce821f957a91e18</guid><pubDate>Tue, 17 Nov 2026 14:28:55 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Anthropic正引导投资者预期其IPO定价将落在发行区间上限乃至更高水平&lt;/strong&gt;，这家人工智能公司有望超越SpaceX，创下史上最大规模IPO纪录。&lt;/p&gt;
+&lt;p&gt;对于英伟达而言，真正决定市场信心能否恢复的，仍将是董事会调查和CEO继任安排的进展，以及公司能否证明，即使黄仁勋不再掌舵，英伟达仍能维持AI芯片业务的增长势头。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证</title><link>https://wallstreetcn.com/articles/3786122</link><guid>5df9d00bf783c15ad2333b9a91f0da746dae437bcb51eeb09e0ff4d534825dde</guid><pubDate>Tue, 17 Nov 2026 18:58:42 GMT</pubDate><description>&lt;p&gt;英伟达前CEO黄仁勋在辞职近一周后首次公开发声，表示若董事会认为其回归符合股东及公司利益，他愿意重新出任首席执行官。这是这场围绕英伟达领导层更迭风波中迄今最具决定性意义的表态。&lt;/p&gt;
+&lt;p&gt;黄仁勋周二上午在声明中表示：&amp;quot;自我离任以来，英伟达的员工、投资者、商业伙伴及客户纷纷致电，呼吁我回归担任CEO。&lt;strong&gt;如果董事会认为我的回归符合股东、员工、公司及美国的最大利益，我将荣幸地回应这些呼声，重返CEO一职。&lt;/strong&gt;&amp;quot;&lt;/p&gt;
+&lt;p&gt;这一表态将过去一周的舆论浪潮推向新的高点。在此之前，包括埃隆·马斯克在内的多位科技界亿万富翁，以及特朗普总统本人，均公开表态支持黄仁勋复职。&lt;/p&gt;
+&lt;p&gt;不过，据彭博社周二美股午盘时段的报道，&lt;strong&gt;截至周二，英伟达董事会仍未考虑让黄仁勋重新出任CEO。同时英伟达聘请猎头公司Heidrick &amp;amp; Struggles来寻找下一任CEO。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同日早些时候，美国众议院外交事务委员会发表声明称，&lt;strong&gt;黄仁勋已同意于12月1日出席美国众议院多个委员会的笔录问询。&lt;/strong&gt;英伟达董事会宣布，已成立一个新委员会，专门负责监督公司国家安全政策及出口管制合规事务。&lt;/p&gt;
+&lt;p&gt;周二盘后英伟达将公布三季报，英伟达美股早盘延续下跌，后黄仁勋暗示愿意重返英伟达担任CEO，股价开始反弹，截至发稿下跌1.8%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+黄仁勋将于12月1日出席美国国会听证
+&lt;p&gt;&lt;strong&gt;美国众议院外交事务委员会周二发表声明称，英伟达前首席执行官黄仁勋已同意于12月1日出席美国众议院多个委员会的笔录问询。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在被曝出存在多起婚外情后，黄仁勋已于上周四辞去英伟达首席执行官一职。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英伟达法律总顾问Tim Teter亦已同意于12月2日单独出席作证，两场听证均预计以闭门形式进行。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达方面则在周一的声明中表示，&amp;quot;期待12月2日与各位委员会主席会面&amp;quot;，未就黄仁勋出席一事作出回应。&lt;/p&gt;
+&lt;p&gt;此次丑闻对英伟达在华盛顿的政策影响力造成实质性打击。过去，英伟达凭借强大的游说资源，多次在国会成功阻击更严格的出口管制提案。&lt;/p&gt;
+&lt;p&gt;自特朗普再度执政以来，黄仁勋多次到访白宫，获邀出席国宴。在英伟达的游说下，特朗普去年底放宽出口管制。&lt;/p&gt;
+&lt;p&gt;然而，民主党议员已誓言，待其在明年1月正式掌控众议院和参议院后，将加强对黄仁勋、英伟达及其他硅谷科技公司的国会审查力度，届时黄仁勋与特朗普的密切关系预计将成为重点审视方向之一。&lt;/p&gt;
+英伟达董事会新设委员会，监督国家安全政策、出口管制合规等事务
+&lt;p&gt;英伟达董事会成立了一个新的委员会，负责监督国家安全和出口管制事务。&lt;/p&gt;
+&lt;p&gt;英伟达周二表示，新设立的委员会将由董事、前高盛高管Suzanne Nora Johnson担任主席，另外两名董事Stephen Neal和John Dabiri也将加入该委员会。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是临时首席执行官Colette Kress上周获任命后推动的首批调整之一。&lt;/strong&gt;此前，黄仁勋辞去了英伟达首席执行官一职。&lt;/p&gt;
+&lt;p&gt;英伟达董事长Harvey Jones在声明中表示：“我们致力于与政府和行业合作伙伴开展建设性合作，帮助建立并推进一套稳健框架，运用一切可用手段维护国家安全，同时支持技术持续创新。”&lt;/p&gt;
+&lt;p&gt;声明称，该委员会将监督英伟达加强内部国家安全团队和全球贸易合规团队的工作，并与法律、国家安全及全球贸易合规领域的独立第三方专家合作。&lt;/p&gt;
+
+辞职风波回顾：婚外情丑闻
+
+&lt;p&gt;黄仁勋上周四宣布辞职，导火索是有关其婚外情的报道曝光。&lt;/p&gt;
+&lt;p&gt;在周二的声明中，黄仁勋再度就其婚外行为向家人和员工致歉，并承认在个人生活中犯下了&amp;quot;严重错误&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我没有达到英伟达对每位员工所期望的标准，&amp;quot;他写道，&amp;quot;我给董事会制造了问题，对此深感遗憾。我完全承担自己的错误。&amp;quot;&lt;/p&gt;
+&lt;p&gt;这已是黄仁勋的第二次公开道歉。11月8日，他曾向员工致歉并承认婚姻出轨，当时写道：&amp;quot;我知道道歉无法弥补我所做的一切，我希望我们的家庭能够愈合，并希望随着时间推移，我能重新赢得你们的信任。&amp;quot;&lt;/p&gt;
+
+各方声援：从员工到总统的呼吁浪潮
+
+&lt;p&gt;在外界呼声中，特朗普周一向记者表示支持黄仁勋复职，称&amp;quot;我当然不介意看到这种情况&amp;quot;，并认为黄仁勋&amp;quot;学到了深刻的教训&amp;quot;。&lt;/p&gt;
+&lt;p&gt;来自公司内部的声音同样引人关注。英伟达开发者技术总监Nader Khalil向董事会主席Harvey Jones撰写了一封公开信，称信在英伟达高管层中广泛流传。&lt;/p&gt;
+&lt;p&gt;Khalil写道，整个先进计算生态系统和AI市场都依赖于黄仁勋的&amp;quot;远见卓识的领导力&amp;quot;，并警告称：&amp;quot;英伟达终有一天能找到继任者，但我们不能仓促完成这一过渡。没有黄仁勋，英伟达将无法顺利驾驭接下来关键的数年。&amp;quot;&lt;/p&gt;
+&lt;p&gt;黄仁勋在声明中亦流露出强烈的个人情感色彩，以自身职业经历为例，称&amp;quot;只有在美国，才有可能诞生英伟达这样的公司&amp;quot;，并表示以身为美国人为荣。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黄仁勋声明全文&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;过去一周里，朋友、业界同仁以及素未谋面的人们所给予的关爱与支持令我感动不已。感谢每一位向我和我的家人释放善意的人，这对我而言意义非凡。&lt;/p&gt;
+&lt;p&gt;53年前我来到美国，成为美国公民是我一生中最珍贵的礼物，也是我最引以为豪的时刻之一。英伟达是我毕生的心血，能与同事们并肩将它打造成今天的模样，是我莫大的荣幸与骄傲。&lt;/p&gt;
+&lt;p&gt;唯有在美国，才可能孕育出像英伟达这样的企业。我深爱我们的国家，我也深爱英伟达。&lt;/p&gt;
+&lt;p&gt;我未能达到英伟达对每一位员工所期望的标准，在个人生活中犯下了严重错误。我给董事会带来了困扰，对此我深表遗憾。我完全承担自己所犯错误的责任，并致力于配合董事会的独立调查。&lt;/p&gt;
+&lt;p&gt;自卸任以来，我看到无数来自英伟达员工、投资者、商业伙伴和客户的呼声，希望我重返首席执行官（CEO）岗位。随着公司正在应对复杂的技术、市场、竞争及地缘政治动态，许多人仍在直接与我联系。英伟达是一家跨时代的企业。如果董事会认定我的回归符合股东、员工、公司以及美国的最大利益，我将荣幸地响应这些呼声，重任首席执行官。&lt;/p&gt;
+&lt;p&gt;再次感谢每一位向我送上美好祝愿的人。你们的支持让我深感谦卑与感激。&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录</title><link>https://wallstreetcn.com/articles/3786120</link><guid>6419fd1a59a28318223efde63ba19dfd8254b700224b9765cce821f957a91e18</guid><pubDate>Tue, 17 Nov 2026 14:28:55 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Anthropic正引导投资者预期其IPO定价将落在发行区间上限乃至更高水平&lt;/strong&gt;，这家人工智能公司有望超越SpaceX，创下史上最大规模IPO纪录。&lt;/p&gt;
 &lt;p&gt;据彭博援引知情人士透露，Anthropic已向潜在投资者传达上述指引，&lt;strong&gt;投行方面预计将于纽约时间周二下午4时（北京时间周三凌晨5点）停止接受认购订单。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;按发行区间上限78美元计算，Anthropic的完全摊薄估值约达1.4万亿美元。&lt;/strong&gt;知情人士表示，相关磋商仍在进行中，发行细节可能随时调整。&lt;/p&gt;
 &lt;p&gt;此次IPO认购反应热烈。据周日报道，&lt;strong&gt;Anthropic的认购订单已达可用股份的近七倍。&lt;/strong&gt;投行方面已告知潜在投资者，公司将优先保障现有股东的配售，部分有意买入的投资者所获配售量或低于预期。&lt;/p&gt;
@@ -243,66 +287,4 @@ AI漫剧：一个&amp;quot;2.57%&amp;quot;戳破的题材泡沫
 &lt;p&gt;理财规模持续走高，部分产品净值同步回撤，理财公司集中发声，恰好勾画出理财市场最新的图景。&lt;/p&gt;
 &lt;p&gt;一方面，市场对于低风险产品的需求在增加。另一方面，管理公司面对收益和规模的双重压力，仍需要花更多精力和时间去沟通投资者，并传达理财净值化的本质——即理财产品不存在稳赚不赔。即便是 R2 这类中低风险产品，一旦配置可转债、拉长债券久期，净值就会跟随债市波动，收益不再只涨不跌。&lt;/p&gt;
 &lt;p&gt;同时，对于投资者而言，分清账面浮亏与真实亏损，仍然是重要的。理财公司集中安抚，不等于承诺净值很快回本。&lt;/p&gt;
-&lt;p&gt;这也对投资者的资金组合安排提出新要求，后者显然需要更多时间过度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电</title><link>https://wallstreetcn.com/articles/3786088</link><guid>8b6ce0797630a55859d26d22e4db4466fd6498721e66d852c7d27f8b38c6af38</guid><pubDate>Tue, 17 Nov 2026 07:17:26 GMT</pubDate><description>&lt;p&gt;随着2026年三季度13F文件集中披露，全球顶级投资机构的持仓调整路径浮出水面——英伟达遭遇机构史上罕见的大分流，桥水转向AI硬件产业链，索罗斯完成&amp;quot;芯片内部换仓&amp;quot;，Druckenmiller大举清仓半导体并转向黄金与SpaceX，伯克希尔则继续远离科技追逐，坚守地产与航空。&lt;/p&gt;
-&lt;p&gt;这批截至9月30日的持仓报告，&lt;strong&gt;恰好卡在一个高度敏感的时间节点：&lt;/strong&gt;英伟达CEO黄仁勋于11月12日被董事会解除职务，股价随之剧烈波动。而这一切，均发生在三季度持仓数据所反映的时间窗口之后。据holdingsintel.com汇总的497家机构13F数据，&lt;strong&gt;英伟达成为本季度分歧最大的单一标的&lt;/strong&gt;——减持方阵容包括Sixth Street Partners清仓1.6亿股、文艺复兴科技减持99.7%，加仓方则有ARK增持85%、DekaBank增持648%，Tepper亦增持。&lt;/p&gt;
-&lt;p&gt;此外，13F报告显示，Ken Griffin旗下的城堡投资（Citadel Advisors）组合中对英伟达的权重小幅下降了约1.31%（持股变动约减少117万股），同期其持仓市值约为27亿美元，占组合比例约1.46%。&lt;/p&gt;
-&lt;p&gt;在英伟达之外，多条隐藏主线同步浮现：ARK、Druckenmiller、Tepper均在三季度新建或加仓SpaceX；&lt;strong&gt;“减算力、加存储/设备”成为隐性主线&lt;/strong&gt;，桥水买入应用材料、美光，索罗斯买入SK海力士，Druckenmiller转向希捷与西部数据；伯克希尔则以96亿美元回购自家股票，继续以现金和耐心对抗市场喧嚣。&lt;/p&gt;
-桥水：减科技巨头，加AI硬件产业链
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786053"&gt;华尔街见闻文章&lt;/a&gt;写道，桥水联合基金三季度披露的974项投资头寸总市值达230亿美元，本季度持仓重塑方向高度清晰：&lt;strong&gt;削减科技巨头与标普ETF，将资金转向AI芯片硬件、存储及能源板块&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;增持方面&lt;/strong&gt;，高通持仓从16.2万股增至87.8万股，增幅约440%，对应市值增加约1.32亿美元；AppLovin A类股增持53.6万股至68.3万股，市值增加约1.23亿美元；存储芯片方向同样获得显著增持，美光持仓增加12万股至23.7万股，市值增加约1.18亿美元；闪迪增持6.6万股至6.68万股，市值增加约1.15亿美元。此外，射频芯片公司Qorvo本季度增持逾103.7万股，持股总量达106.8万股。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;减持方面&lt;/strong&gt;，道富标普500 ETF持仓减少近191.7万股，市值减少约13.78亿美元；iShares Core S&amp;amp;P 500 ETF同步削减149.4万股，市值减少约10.93亿美元。个股层面，Alphabet A类股持仓减少86.2万股，市值减少约3.14亿美元；亚马逊持仓减少105.5万股，市值减少约2.41亿美元；微软减持幅度约69%。&lt;/p&gt;
-&lt;p&gt;尽管如此，&lt;strong&gt;英伟达仍以6.14亿美元市值位列桥水前五大重仓股第三位&lt;/strong&gt;，持股268.8万股，季内减持约117.8万股，降幅约30%，仍为组合中半导体标的中最重要的单一持仓。博通以4.62亿美元紧随其后，持仓几乎维持不变。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;工业板块是本季度持仓权重降幅最大的板块，桥水完全退出联合太平洋铁路（减少51.4万股，市值减少约1.40亿美元）和卡车制造商Paccar。能源方向，桥水新建西方石油仓位155万股，市值约8577万美元，并新买入电力公司Dominion Energy约151.6万股。&lt;/p&gt;
-索罗斯：减英伟达，大举买入英特尔与SK海力士
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786054"&gt;华尔街见闻文章&lt;/a&gt;提及，据彭博对季度监管文件的汇编数据，乔治·索罗斯的同名家族办公室在截至9月30日的季度内&lt;strong&gt;将英伟达持仓削减近五分之一&lt;/strong&gt;，这是该机构今年首次披露的减仓操作，此前其一直在增持该股。&lt;/p&gt;
-&lt;p&gt;具体而言，索罗斯基金管理公司上季度出售了约20.6万股英伟达股份，按当时股价计算市值最高达4740万美元，截至9月30日其剩余英伟达持仓价值接近2亿美元。与此同时，英伟达看跌期权也从40万股减至35万股。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;然而，这并非单纯的&amp;quot;减科技&amp;quot;操作，而是一次&lt;strong&gt;芯片内部的方向性切换&lt;/strong&gt;。索罗斯将英特尔持仓从10万股大幅增至283万股，增幅约28倍，市值约3.4亿美元，成为该基金最大单一股票持仓；同期新建仓SK海力士ADR 32.5万股；Meta增持近6倍。整体逻辑指向：减&amp;quot;贵的算力&amp;quot;，加&amp;quot;便宜的逻辑芯片和存储&amp;quot;。&lt;/p&gt;
-&lt;p&gt;宏观对冲方面，索罗斯将能源精选SPDR的看跌期权从200万股底层股份增至1090万股（名义价值约6.7亿美元），并新增约3.28亿美元的油气勘探ETF看跌期权，合计约10亿美元名义空头对冲。同时买入长期美债（TLT）看涨期权约2.37亿美元及公用事业（XLU）看涨期权约2.15亿美元。&lt;/p&gt;
-&lt;p&gt;据彭博亿万富翁指数，现年96岁的索罗斯身家为97亿美元，其基金由前瑞银集团高管Dawn Fitzpatrick主导。&lt;/p&gt;
-Druckenmiller：清芯片、买黄金，试水SpaceX
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786071"&gt;华尔街见闻文章&lt;/a&gt;写道，传奇投资者Stanley Druckenmiller在2026年三季度对旗下Duquesne家族办公室投资组合进行了大幅调仓，&lt;strong&gt;清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;清仓与大幅减仓方面，Druckenmiller完全退出AMD（72,900股）、闪迪（34,900股）和Alphabet A类股（336,300股）。台积电是削减幅度最大的标的，持仓从589,700股骤降至32,700股，&lt;strong&gt;降幅达94%&lt;/strong&gt;，市值仅剩约1,490万美元。STMicroelectronics持仓从310万股减至162万股，降幅约48%；CRH持仓降幅约71%。此外，联合航空（794,800股）、达美航空、DR Horton，以及标普500和罗素2000指数的看涨期权头寸均被悉数清出。整体来看，此次调仓共涉及退出约48个持仓。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;新建仓方面，Druckenmiller买入SpaceX 202,125股（约3050万美元）、Palantir 80,100股、AppLovin 109,460股。&lt;strong&gt;黄金矿业板块获得集中布局&lt;/strong&gt;：新建仓纽蒙特黄金公司Newmont 380,400股（市值约4,390万美元）、Barrick Mining 1,050,000股（市值约4,290万美元）以及Agnico Eagle，三只金矿股合计建仓约1.29亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;值得关注的是，Druckenmiller在清仓台积电、AMD、闪迪的同时，却大幅增持存储硬件方向——&lt;strong&gt;希捷科技持仓增至341,800股，市值约3.152亿美元，升为第二大重仓股&lt;/strong&gt;，并增持180%；同时新建仓TTM Technologies及西部数据。这并非逃离科技，而是从高估值算力芯片切向存储和更便宜的硬件。&lt;/p&gt;
-&lt;p&gt;从当前持仓结构来看，临床基因检测平台公司Natera为第一大重仓股，占整体约44.7亿美元投资组合的29.2%，集中度极高。据彭博亿万富翁指数，Druckenmiller净资产约为125亿美元。&lt;/p&gt;
-伯克希尔：远离科技喧嚣，押注地产、航空与&amp;quot;App翻新工厂&amp;quot;
-&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786052"&gt;华尔街见闻文章&lt;/a&gt;写道，在格雷格·阿贝尔（Greg Abel）接棒巴菲特掌舵的第三个完整季度，伯克希尔·哈撒韦操作依旧克制：新建仓1只、加仓4只、减仓6只，未清仓任何标的，换手率仅3.33%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;增持方向高度集中于住宅建筑和航空&lt;/strong&gt;。房屋建筑商Lennar A类股从1311.17万股增至2603.44万股，增幅达98.6%，持仓规模接近翻倍；B类股同步从29.81万股增至55.30万股，增幅约85.5%。达美航空连续第三个季度获加仓，持股从5732万股增至6445万股，增幅约12.4%，新增持仓价值约6.2亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;本季度最引人注目的新仓位是意大利科技公司Bending Spoons（BSP）&lt;/strong&gt;，截至9月30日持有约2069万股，披露市值约6.89亿美元。这家公司专门收购&amp;quot;有用户、但增长放缓&amp;quot;的过气软件并加以改造，旗下资产包括AOL、Vimeo、Evernote、Eventbrite、WeTransfer等知名互联网产品。伯克希尔在其7月IPO时投入约6亿美元，10月又追加3.3亿美元，两笔合计约9.3亿美元。&lt;/p&gt;
-&lt;p&gt;减持方面，Capital One持仓从300万股减至115万股，降幅约61.7%；VeriSign持仓从898.99万股降至592.21万股，降幅约34.1%；美国银行持仓减少约2753万股，降幅约5.7%，对应市值约15亿美元；Kroger降幅约10.3%。&lt;/p&gt;
-&lt;p&gt;从资本配置全貌来看，&lt;strong&gt;伯克希尔三季度回购自家股票约96亿美元，而买卖外部股票几乎打平（买入23.7亿美元、卖出27.9亿美元）&lt;/strong&gt;。截至9月30日，公司持有的现金、现金等价物及美国国债约3523亿美元。苹果（约759亿美元）、美国运通（约462亿美元）、可口可乐（约344亿美元）、Alphabet A类股（约271亿美元）、美国银行（约248亿美元）仍构成前五大重仓。&lt;/p&gt;
-AI“股神”、Situational Awareness基金：规模单季度缩水187亿美元
-&lt;p&gt;根据最新披露的13F文件，Leopold Aschenbrenner创立的Situational Awareness基金截至9月30日的申报持仓规模为15.8亿美元，而三个月前的6月30日这一数字为202.4亿美元——单季度缩水187亿美元，降幅高达92%。这份文件为此前已在市场广泛流传的爆仓事件提供了完整的书面记录。此次持仓骤降的直接诱因是7月下旬的强制平仓。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据报道，该基金的大部分公开市场持仓以约10%的折价批量出售给城堡投资（Citadel），这也在一定程度上解释了后者当月的亮眼表现。然而，清仓后不久，该基金便以几乎相同的交易逻辑重建头寸，并于9月再度遭遇重创。&lt;/p&gt;
-&lt;p&gt;文件显示，Situational Awareness原有26个持仓标的，其中21个在报告期内被完全清仓。&lt;strong&gt;已关闭的头寸涵盖价值56.7亿美元的Sandisk、55.7亿美元的美光科技（Micron）、19亿美元的Bloom Energy股票、12.7亿美元的台积电（TSMC）以及12.3亿美元的Nebius。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;据彭博此前报道，在爆仓事件发生逾一个月前，已有分析人士警告称，对AI相关标的使用大规模掉期杠杆可能引发类似Archegos的强制清算风险。7月下旬，风险最终兑现。&lt;/p&gt;
-&lt;p&gt;截至9月30日，当前申报持仓中约三分之二为认购期权，而非直接持股——这意味着在原有股票杠杆被强制清除后，该基金选择以期权形式重建相似敞口。&lt;/p&gt;
-&lt;p&gt;具体而言，&lt;strong&gt;Bloom Energy的持仓从14.58万股基础股份扩张至对应140万股的认购期权，名义价值达3.89亿美元；新增对Nebius的认购期权名义价值3.33亿美元，对Sandisk的认购期权名义价值1.83亿美元，以及对一只存储器ETF的认购期权名义价值1.4亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;唯一值得注意的直接股票持仓增量来自SharonAI——持股数量较前一期增加50%至807万股，市值约4.41亿美元。&lt;/p&gt;
-英伟达：机构史上罕见大分流
-&lt;p&gt;英伟达是本季度13F持仓报告里分歧最大的标的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;减持阵营&lt;/strong&gt;：Sixth Street Partners清仓1.6亿股；文艺复兴科技减持99.7%，从709万股降至2.3万股；桥水减持约30%；索罗斯减持近五分之一；Druckenmiller大幅削减台积电等芯片持仓；据彭博，参与减持的家族办公室至少达十余家，但均保留了部分英伟达仓位，截至季度末合计持有的英伟达股份市值仍超过10亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;加仓阵营&lt;/strong&gt;：ARK增持85%，英伟达升至组合3.4%；DekaBank增持648%；David Tepper旗下Appaloosa将英伟达增持31%至200万股，芯片持仓占组合比重从35%升至39%。&lt;/p&gt;
-&lt;p&gt;值得特别关注的是，英伟达自身的13F文件显示，其英特尔持仓从2.148亿股降至1.611亿股，按季末股价计算约出售了65亿美元的英特尔股票，超过其约一年前购入该笔股份所支付的约50亿美元。与此同时，英伟达将SpaceX升为最大持仓，市值约196.8亿美元，整体13F持仓规模下降24%至483亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在芯片分歧加剧的背景下，&lt;strong&gt;SpaceX成为本季度又一个分歧点&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;ARK将SpaceX增持51%至10.2亿美元，升为仅次于特斯拉的第二大持仓；Druckenmiller新建仓202,125股，约3050万美元；Tepper将SpaceX持仓扩大约17倍至5.57亿美元；英伟达将SpaceX列为最大持仓，市值约196.8亿美元。&lt;/p&gt;
-&lt;p&gt;与此同时，Michael Platt旗下BlueCrest则反向操作，将SpaceX持仓削减94%，从2.42亿美元降至约1300万美元，成为少数逆势减持者。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这一分歧折射出当前市场的深层逻辑：&lt;/strong&gt;当AI算力交易的高度集中性引发机构分歧，商业航天作为另一条长期增长叙事，正在吸引越来越多的顶级资金悄然布局。&lt;/p&gt;
-&lt;p&gt;本季度13F文件中，一条贯穿多家机构的隐性主线值得关注：&lt;strong&gt;多位大佬不约而同从英伟达代表的算力芯片，向存储和半导体设备切换&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;桥水买入美光、闪迪、高通、Qorvo；索罗斯新建仓SK海力士ADR；Druckenmiller清仓台积电、AMD、闪迪，却将希捷科技大幅加仓至第二大重仓，并新买入TTM Technologies；ARK增持AI云CoreWeave 58%。Lone Pine 清仓希捷，Tepper加仓美光。&lt;/p&gt;
-其他机构动向
-&lt;p&gt;&lt;strong&gt;Cathie Wood的ARK&lt;/strong&gt;：组合规模从154亿美元增至174亿美元。英伟达增持85%；AMD砍仓52%，从组合权重约4.6%压至2.4%；SpaceX增持51%至10.2亿美元；Meta翻倍；CoreWeave增58%；稳定币公司Circle增50%；特斯拉再增22%。特斯拉加SpaceX合计占组合12.75%。Roblox被砍79%接近出清。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bill Ackman的潘兴广场&lt;/strong&gt;：总市值从255亿增至308亿美元。新建仓洲际交易所（ICE）和眼科巨头爱尔康（ALC），各约10亿美元；微软砍34.51%、Meta减11.35%；奈飞增持17.82%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高瓴HHLR&lt;/strong&gt;：增持拼多多789%、阿里巴巴1,250%，两只合计占组合近四成。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;段永平H&amp;amp;H&lt;/strong&gt;：总市值约172亿美元，拼多多加仓296.88万股升为第三大重仓（12.69%），特斯拉增至8.42%；英伟达减持63%，占比从6.58%降至3.08%。段永平随后公开表态&amp;quot;不看空但暂时也不加码&amp;quot;，并表示&amp;quot;买英伟达的大部分理由还在，只是黄仁勋不在了&amp;quot;，计划买回被call走的股票。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高毅资产&lt;/strong&gt;：清仓英伟达、美光、闪迪，大幅加仓阿里巴巴、BOSS直聘。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 航运业的门槛高吗</title><link>http://www.xueqiu.com/4531216350/417236829</link><guid>0d34d34606abfaf858f9bfbf65f7aaa0376ad2aa5efb44f96b38850bca733292</guid><pubDate>Tue, 17 Nov 2026 09:57:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;莫问是谁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;前几天雪球上一位老师说，航运是一个典型的周期性行业，它没有绝对的门槛，只要有钱就可以去造船，这让我想起了几年前的一件往事。疫情期间，集装箱航运业迎来了一次史诗级的超级大周期，运价暴涨，一箱难求，跨境电商巨头阿里也组建了自己的集装箱船队，跨界杀入集装箱航运，但是这个行当似乎并不是想玩就能玩，仅仅一年多时间，阿里的集运梦即告破碎。&lt;/p&gt;</description></item><item><title>[今日雪球] 被高估的2个CEO</title><link>http://www.xueqiu.com/1170975436/417158551</link><guid>ffc9214de10b67d599e68e4e277037c9bcec688e1527ac3a2d074e22817e1439</guid><pubDate>Tue, 17 Nov 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;NT_CLANNAD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;我觉得一些人对陈立武的维护有点过头了，他对英特尔暴跌肯定有一定责任，当然暴跌主要责任在于散户自己把intel股票炒太高了。。。我还是觉得intel有今年的反转机会，靠的全是之前的CEO pat重返技术领导路线，而不是陈立武，他只是上台时机正好叠加了AI agent的爆发时期，无论这时候谁当CEO，intel都会涨。&lt;/p&gt;</description></item><item><title>[今日雪球] 从短线博弈到长期坚守：支撑我长期持股的六个底层逻辑</title><link>http://www.xueqiu.com/2386334596/417127165</link><guid>b5dbb4036a42ae03b17825a7307808e3464e88f5746da8440368d7a3e5686881</guid><pubDate>Tue, 17 Nov 2026 09:56:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;长期持股是寂寞的。我偶尔会拿出少量资金参与市场博弈，可结果大多不尽人意，常常偷鸡不成蚀把米。一次次试错之后，我更清晰看清自身短板，短线投机博弈并不适合自己，也由此更加坚定走长期投资的道路——既然意识到自己正在挖坑，就要及时停止，切忌越陷越深。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这也对投资者的资金组合安排提出新要求，后者显然需要更多时间过度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 航运业的门槛高吗</title><link>http://www.xueqiu.com/4531216350/417236829</link><guid>0d34d34606abfaf858f9bfbf65f7aaa0376ad2aa5efb44f96b38850bca733292</guid><pubDate>Tue, 17 Nov 2026 09:57:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;莫问是谁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;前几天雪球上一位老师说，航运是一个典型的周期性行业，它没有绝对的门槛，只要有钱就可以去造船，这让我想起了几年前的一件往事。疫情期间，集装箱航运业迎来了一次史诗级的超级大周期，运价暴涨，一箱难求，跨境电商巨头阿里也组建了自己的集装箱船队，跨界杀入集装箱航运，但是这个行当似乎并不是想玩就能玩，仅仅一年多时间，阿里的集运梦即告破碎。&lt;/p&gt;</description></item><item><title>[今日雪球] 被高估的2个CEO</title><link>http://www.xueqiu.com/1170975436/417158551</link><guid>ffc9214de10b67d599e68e4e277037c9bcec688e1527ac3a2d074e22817e1439</guid><pubDate>Tue, 17 Nov 2026 09:56:48 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;NT_CLANNAD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;我觉得一些人对陈立武的维护有点过头了，他对英特尔暴跌肯定有一定责任，当然暴跌主要责任在于散户自己把intel股票炒太高了。。。我还是觉得intel有今年的反转机会，靠的全是之前的CEO pat重返技术领导路线，而不是陈立武，他只是上台时机正好叠加了AI agent的爆发时期，无论这时候谁当CEO，intel都会涨。&lt;/p&gt;</description></item><item><title>[今日雪球] 从短线博弈到长期坚守：支撑我长期持股的六个底层逻辑</title><link>http://www.xueqiu.com/2386334596/417127165</link><guid>b5dbb4036a42ae03b17825a7307808e3464e88f5746da8440368d7a3e5686881</guid><pubDate>Tue, 17 Nov 2026 09:56:30 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;长期持股是寂寞的。我偶尔会拿出少量资金参与市场博弈，可结果大多不尽人意，常常偷鸡不成蚀把米。一次次试错之后，我更清晰看清自身短板，短线投机博弈并不适合自己，也由此更加坚定走长期投资的道路——既然意识到自己正在挖坑，就要及时停止，切忌越陷越深。&lt;/p&gt;</description></item></channel></rss>
