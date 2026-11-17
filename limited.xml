@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 03:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职</title><link>https://wallstreetcn.com/articles/3786076</link><guid>1043a01af8c3805e87f17a2234b5712abff20cda6d99037277d92a3bce63510c</guid><pubDate>Tue, 17 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 04:29:45 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职</title><link>https://wallstreetcn.com/articles/3786076</link><guid>1043a01af8c3805e87f17a2234b5712abff20cda6d99037277d92a3bce63510c</guid><pubDate>Tue, 17 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。&lt;/p&gt;
 &lt;p&gt;摩根大通策略师Michael Cembalest在最新研报《英伟达与AI的下一步》中指出，&lt;strong&gt;前沿AI实验室正将采购重心向AMD、谷歌、亚马逊等多家供应商分散，英伟达在2026年后计算协议中的份额仅占28%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，开源模型生态圈则面临华盛顿的监管铁拳。对投资者而言，这意味着英伟达此前支撑高估值的两大核心增长引擎，&lt;strong&gt;AI芯片定价权&lt;/strong&gt;与&lt;strong&gt;开源市场敞口&lt;/strong&gt;正在同步承压。&lt;/p&gt;
 &lt;p&gt;Cembalest的结论是，&lt;strong&gt;市场竞争格局的位移&amp;quot;在某种程度上与管理层变动同等重要，甚至有过之而无不及&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
@@ -53,13 +53,13 @@ CUDA护城河：三天被AI攻破
 &lt;p&gt;Cembalest并未唱衰崩盘。&lt;/p&gt;
 &lt;p&gt;英伟达在2023至2025年间赚取了AI芯片83%的营收，毛利率高达75%，芯片设计周期漫长，&lt;strong&gt;他认为对长期持有者而言，股价较历史高点下跌32%、PEG仅为0.2倍的英伟达仍具吸引力，是大型AI股中估值最低的标的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，0.2倍的PEG建立在市场一致预期增速得以实现的假设之上，而支撑这一增速的两条腿都在动摇：前沿实验室在加速购买竞争对手的芯片，开源买家则需要申请许可证才能继续采购。&lt;/p&gt;
-&lt;p&gt;正如Cembalest本人所总结的：竞争格局的转变，&amp;quot;在某种程度上与管理层变动对投资者而言同样值得警惕的风险。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒科指接近翻红，阿里跌4%、腾讯跌3%</title><link>https://wallstreetcn.com/articles/3786073</link><guid>0d1554adcfb0667d41d429dcaec39d9749b2064660b0a6c4283e7bfc8d229518</guid><pubDate>Tue, 17 Nov 2026 03:53:55 GMT</pubDate><description>&lt;p&gt;今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。&lt;/p&gt;
+&lt;p&gt;正如Cembalest本人所总结的：竞争格局的转变，&amp;quot;在某种程度上与管理层变动对投资者而言同样值得警惕的风险。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%</title><link>https://wallstreetcn.com/articles/3786073</link><guid>0d1554adcfb0667d41d429dcaec39d9749b2064660b0a6c4283e7bfc8d229518</guid><pubDate>Tue, 17 Nov 2026 04:03:52 GMT</pubDate><description>&lt;p&gt;今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。&lt;/p&gt;
 &lt;p&gt;11月17日，A股三大指数低开后盘中回升，临近午盘再度上涨，沪指微跌0.01%，收复3600点，深成指、创业板翻红转涨。科创50涨超3%，得益于半导体产业链的带动，光刻机、半导体设备、先进封装、半导体材料等概念股集体反弹，AI短剧、稀土、煤炭、油气等板块陷入调整。&lt;/p&gt;
-&lt;p&gt;港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，盘中亦震荡上涨，恒科指接近翻红，权重科网股普跌，百度大跌5%，腾讯、阿里、美团、快手均下跌。芯片股活跃，华虹宏力大涨6%，光模块、电路板、AI大模型股等再度下跌。债市方面，国债期货早盘全线反弹。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
+&lt;p&gt;港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，盘中一度震荡上涨，恒科指接近翻红，临近午盘再度回落，权重科网股普跌，百度大跌近7%，腾讯、阿里、美团、快手均下跌。芯片股活跃，华虹宏力大涨9%，光模块、电路板、AI大模型股等局部回升。债市方面，国债期货早盘全线反弹，30年期国债期货显著拉升。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.01%，深成指涨0.69%，创业板指涨0.72%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.61%，恒科指跌0.14%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.77%，恒科指跌0.46%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线上涨，截至发稿，30年期主力合约涨0.58%，10年期主力合约涨0.14%，5年期主力合约涨0.08%，2年期主力合约涨0.01%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -274,47 +274,7 @@ A股优于离岸：国家队托底，结构转型加速
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱</title><link>https://wallstreetcn.com/articles/3786075</link><guid>252eea1837e51430f62b8ecde61ad9f372677de70d0d5a474dc78e0224ceb811</guid><pubDate>Tue, 17 Nov 2026 03:07:51 GMT</pubDate><description>&lt;p&gt;高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：&lt;strong&gt;AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“&lt;strong&gt;AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击将大于对经济的冲击&lt;/strong&gt;。”数据印证了这一判断——AI仅贡献了美国GDP增长的21%，却贡献了标普500盈利增长的62%，以及峰值时期美国市值涨幅的92%。&lt;/p&gt;
-&lt;p&gt;在市场层面，高盛预计标普500指数未来12个月目标价为8700点，较当前约7619点有14%的上行空间，但&lt;strong&gt;美国企业盈利增速将从36%腰斩至11%&lt;/strong&gt;；信用利差将走阔，美元将走软，债券重新具备对冲价值，黄金目标价上调至4650美元，铜目标价上调至15600美元。&lt;/p&gt;
-&lt;p&gt;这五份研报分别为高盛经济学家团队的《宏观展望2027：稳健基准，下行风险》、跨资产团队的《全球市场展望2027：成长之痛》、Peter Oppenheimer的《在增长中寻找价值》、外汇团队的《把握转折时机》，以及大宗商品团队的《适应动荡水域》。&lt;/p&gt;
-AI增速触顶：经济可承受，市场难言轻松
-&lt;p&gt;高盛首席经济学家Jan Hatzius团队在《宏观展望2027：稳健基准，下行风险》报告中预测，全球名义AI投资规模将从2026年的1.1万亿美元增至2027年的1.8万亿美元，&lt;strong&gt;增量主要来自美国硬件支出超过5000亿美元的跃升&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;投资总量仍在增长，但关键在于增速的变化：&lt;strong&gt;AI投资占GDP比重的同比变化将于2027年上半年见顶，绝对规模峰值则预计出现在2028年。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785912"&gt;华尔街见闻文章&lt;/a&gt;写道，高盛认为，对宏观经济而言，这一转折点影响温和。高盛估计AI仅为2027年美国GDP增速贡献0.2个百分点（若修正芯片统计低估问题，则为0.6个百分点），全球经济增速预计维持在&amp;quot;平淡无奇&amp;quot;的2.8%，核心PCE通胀降至2.4%。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;市场所面临的是截然不同的处境&lt;/strong&gt;。AI相关股票已将大量尚未兑现的宏观生产率提升计入估值，一旦增速预期出现任何下修，其脆弱性将充分暴露。高盛指出，“增速见顶”这一“二阶导数”拐点，即便一阶导数（即绝对增速）仍为正值，往往也足以对市场构成实质冲击。&lt;/p&gt;
-盈利&amp;quot;大腰斩&amp;quot;：超大规模云厂商反成避风港
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785935"&gt;华尔街见闻文章&lt;/a&gt;提及，高盛股票策略师Peter Oppenheimer团队在《在增长中寻找价值》报告中指出，&lt;strong&gt;几乎所有市场的盈利增速都将至少减半&lt;/strong&gt;：美国从36%降至11%，欧洲从约18%降至7%，日本从24%降至9%，亚洲从接近80%降至不足30%。&lt;/p&gt;
-&lt;p&gt;面对这一前景，高盛给出的应对策略颇具反直觉色彩——&lt;strong&gt;超配超大规模云厂商（Hyperscalers）&lt;/strong&gt;。报告指出，这些公司目前市盈率已降至19.7倍，不仅低于此前20年区间，甚至低于消费必需品等防御性板块，&amp;quot;即便是AI繁荣的核心受益者，如今也比防御性板块更便宜&amp;quot;。&lt;/p&gt;
-&lt;p&gt;高盛同时承认，“最大的几家公司自由现金流已转为负值”，但认为整体资产负债表健康状况尚可。在亚洲市场，高盛团队认为韩国存储芯片板块已计入2027年盈利预期下调70%的悲观情景，“考虑到相关公司披露DRAM和HBM产品已售罄至2029年，这一定价似乎过于悲观”。&lt;/p&gt;
-信用市场：为AI繁荣买单
-&lt;p&gt;高盛多个团队在信用市场问题上形成共识。经济学家团队统计，2026年AI相关债务发行规模达6870亿美元，另有1150亿美元股权融资，并警告更高的借贷成本“可能在2027年对其他投资产生更明显的挤出效应”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛预测美国投资级信用利差将从88个基点走阔至105个基点，高收益利差从320个基点走阔至410个基点。&lt;/strong&gt; 报告明确表示，“很难看到美国信用利差大幅收窄的情景”，并预计AI相关发行人与其他发行人之间的分化将持续加剧，“大规模AI债务融资的阶段性消化不良将导致AI相关板块利差走阔”。&lt;/p&gt;
-&lt;p&gt;高盛还对比了互联网泡沫时期的历史经验。彼时信用利差从1998年至2000年持续走阔，而股市仍在上涨。但高盛认为，&amp;quot;在缺乏1997至1998年新兴市场危机带来的大规模资本流入和商品价格通缩的背景下，这种背离如今将更难以为继&amp;quot;——言下之意，股市此次恐怕难以再对信用市场的恶化视而不见。&lt;/p&gt;
-债券重获对冲价值，但市场走势与预测相悖
-&lt;p&gt;高盛认为，&lt;strong&gt;债券正在重新成为有效的对冲工具&lt;/strong&gt;。2026年大部分时间里，油价冲击导致股票与债券同向波动，债券对冲功能失效。随着AI取代石油成为市场的主要风险来源，股债相关性已重新转负。&lt;/p&gt;
-&lt;p&gt;高盛给出的美国10年期国债收益率目标为4.6%，理由包括：当前票息具有吸引力、估值偏低、市场持仓偏空，以及美联储政策路径。高盛预计美联储将在12月和次年3月再加息两次，随后于2027年12月降息，终端利率为3.25%至3.5%。报告明确指出，&amp;quot;美国面临的降息风险比多数其他经济体更为鸽派，因为美国对AI周期下行最为敏感&amp;quot;。&lt;/p&gt;
-&lt;p&gt;然而，&lt;strong&gt;债券市场走势与高盛预测存在明显背离&lt;/strong&gt;。高盛设定4.6%目标时，10年期美债收益率为4.99%，此后进一步升至5.15%以上。高盛经济学家同时指出，本季度财报季中存储器价格预测“再度上调”，意味着“AI溢出效应对核心通胀的近期上行压力仍存”。&lt;/p&gt;
-美元走弱，日元成AI风险对冲首选
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785958"&gt;华尔街见闻文章&lt;/a&gt;写道，高盛外汇策略团队在《2027全球外汇展望》报告中的核心判断是：&lt;strong&gt;美元已演变为一种AI交易标的&lt;/strong&gt;，无论市场环境好坏，美元走势均与AI相关股票表现挂钩。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“尽管美元仍是典型的避险货币，但其周期性属性日益增强。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;基于此，高盛预计2027年美元整体贬值约3%。欧元/美元路径为：先在三个月内回落至1.08，随后于2027年底回升至1.15。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;日元被高盛列为最优AI风险对冲工具。&lt;/strong&gt;高盛估计日元相对美元被低估约30%，预计美元/日元从160降至150，并认为“日元应是AI前景受到更深层挑战时最明确的受益货币”。这一判断与日本政府养老金投资基金（GPIF）正在进行资产配置审查、持续抛售美债的背景相互印证。&lt;/p&gt;
-大宗商品：战争溢价消退，对冲价值凸显
-&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786004"&gt;高盛大宗商品团队&lt;/a&gt;负责人Daan Struyven指出，布伦特原油中的风险溢价已从中期选举前一个交易日的每桶27美元，骤降至仅剩数美元，创下新冠疫情以来最大单周跌幅。&lt;/p&gt;
-&lt;p&gt;基准情景下，布伦特原油2027年均价为88美元，年底降至78美元，能源对全球增长的拖累将从0.4个百分点转为小幅正贡献。但上行情景下，布伦特可能于2027年初突破130美元，届时将为核心通胀带来0.9个百分点的额外压力。&lt;/p&gt;
-&lt;p&gt;高盛强调，&lt;strong&gt;在过去六十年中，每一个股票和债券同时录得实际亏损的12个月区间内，黄金或大宗商品均实现正收益&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;基于此，高盛给出的目标价为：&lt;strong&gt;黄金4650美元，铜15600美元&lt;/strong&gt;（均为2027年12月目标），并推荐持有欧洲汽油和TTF天然气看涨期权价差作为能源对冲工具。&lt;/p&gt;
-五份研报共指：基准乐观，尾部风险向下集中
-&lt;p&gt;如果将高盛五份研报并排审视，一个共同特征清晰浮现：&lt;strong&gt;每份报告列举的风险均指向同一方向——下行&lt;/strong&gt;。&lt;a href="https://wallstreetcn.com/articles/3785910"&gt;高盛跨资产团队&lt;/a&gt;总结称，“整体风险资产图景呈现出多年来最为双向的态势，需要更加多元化、更有效对冲的投资组合”。&lt;/p&gt;
-&lt;p&gt;基准情景（2.8%全球增长、11%盈利增速、通胀回落、美联储2027年底降息）本身并不悲观。但高盛自身的研报也揭示了潜在的脆弱性：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;美联储仍在加息周期中、AI建设热潮高度依赖债务融资、信用市场已在AI边缘出现裂痕，而美国经济在相当程度上与股市表现深度绑定。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;AI增速见顶的“宿醉效应”，或将早于高盛基准情景所预设的时间表到来。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传奇投资者Druckenmiller抛售芯片股，增持SpaceX</title><link>https://wallstreetcn.com/articles/3786071</link><guid>831bd3631f2024863dfe93d66c98ee083f04537af796f39951041acb84a6ba6b</guid><pubDate>Tue, 17 Nov 2026 02:17:00 GMT</pubDate><description>&lt;p&gt;传奇投资者Stanley Druckenmiller在2026年三季度对旗下投资组合进行了大幅调仓——清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传奇投资者Druckenmiller抛售芯片股，增持SpaceX</title><link>https://wallstreetcn.com/articles/3786071</link><guid>831bd3631f2024863dfe93d66c98ee083f04537af796f39951041acb84a6ba6b</guid><pubDate>Tue, 17 Nov 2026 02:17:00 GMT</pubDate><description>&lt;p&gt;传奇投资者Stanley Druckenmiller在2026年三季度对旗下投资组合进行了大幅调仓——清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块。&lt;/p&gt;
 &lt;p&gt;根据Druckenmiller旗下Duquesne家族办公室向美国证券交易委员会（SEC）提交的最新13F文件，&lt;strong&gt;Druckenmiller在三季度完全退出了AMD、闪迪和Alphabet的持仓。&lt;/strong&gt;这份文件于11月16日截止日前提交，是市场观察其最新持仓动向的重要窗口。&lt;/p&gt;
 &lt;p&gt;此次调仓发生在科技股普遍承压的背景下。AMD自10月6日创下收盘新高后已累计下跌22%，闪迪自6月底高点以来股价跌幅接近三分之二，Alphabet则自5月中旬峰值以来累计下跌约30%，仅三季度结束后便已再跌18%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -606,7 +566,47 @@ AI资本开支：不是暂停，只是推迟
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱</title><link>https://wallstreetcn.com/articles/3786075</link><guid>252eea1837e51430f62b8ecde61ad9f372677de70d0d5a474dc78e0224ceb811</guid><pubDate>Tue, 17 Nov 2026 03:07:51 GMT</pubDate><description>&lt;p&gt;高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：&lt;strong&gt;AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“&lt;strong&gt;AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击将大于对经济的冲击&lt;/strong&gt;。”数据印证了这一判断——AI仅贡献了美国GDP增长的21%，却贡献了标普500盈利增长的62%，以及峰值时期美国市值涨幅的92%。&lt;/p&gt;
+&lt;p&gt;在市场层面，高盛预计标普500指数未来12个月目标价为8700点，较当前约7619点有14%的上行空间，但&lt;strong&gt;美国企业盈利增速将从36%腰斩至11%&lt;/strong&gt;；信用利差将走阔，美元将走软，债券重新具备对冲价值，黄金目标价上调至4650美元，铜目标价上调至15600美元。&lt;/p&gt;
+&lt;p&gt;这五份研报分别为高盛经济学家团队的《宏观展望2027：稳健基准，下行风险》、跨资产团队的《全球市场展望2027：成长之痛》、Peter Oppenheimer的《在增长中寻找价值》、外汇团队的《把握转折时机》，以及大宗商品团队的《适应动荡水域》。&lt;/p&gt;
+AI增速触顶：经济可承受，市场难言轻松
+&lt;p&gt;高盛首席经济学家Jan Hatzius团队在《宏观展望2027：稳健基准，下行风险》报告中预测，全球名义AI投资规模将从2026年的1.1万亿美元增至2027年的1.8万亿美元，&lt;strong&gt;增量主要来自美国硬件支出超过5000亿美元的跃升&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;投资总量仍在增长，但关键在于增速的变化：&lt;strong&gt;AI投资占GDP比重的同比变化将于2027年上半年见顶，绝对规模峰值则预计出现在2028年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785912"&gt;华尔街见闻文章&lt;/a&gt;写道，高盛认为，对宏观经济而言，这一转折点影响温和。高盛估计AI仅为2027年美国GDP增速贡献0.2个百分点（若修正芯片统计低估问题，则为0.6个百分点），全球经济增速预计维持在&amp;quot;平淡无奇&amp;quot;的2.8%，核心PCE通胀降至2.4%。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;市场所面临的是截然不同的处境&lt;/strong&gt;。AI相关股票已将大量尚未兑现的宏观生产率提升计入估值，一旦增速预期出现任何下修，其脆弱性将充分暴露。高盛指出，“增速见顶”这一“二阶导数”拐点，即便一阶导数（即绝对增速）仍为正值，往往也足以对市场构成实质冲击。&lt;/p&gt;
+盈利&amp;quot;大腰斩&amp;quot;：超大规模云厂商反成避风港
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785935"&gt;华尔街见闻文章&lt;/a&gt;提及，高盛股票策略师Peter Oppenheimer团队在《在增长中寻找价值》报告中指出，&lt;strong&gt;几乎所有市场的盈利增速都将至少减半&lt;/strong&gt;：美国从36%降至11%，欧洲从约18%降至7%，日本从24%降至9%，亚洲从接近80%降至不足30%。&lt;/p&gt;
+&lt;p&gt;面对这一前景，高盛给出的应对策略颇具反直觉色彩——&lt;strong&gt;超配超大规模云厂商（Hyperscalers）&lt;/strong&gt;。报告指出，这些公司目前市盈率已降至19.7倍，不仅低于此前20年区间，甚至低于消费必需品等防御性板块，&amp;quot;即便是AI繁荣的核心受益者，如今也比防御性板块更便宜&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛同时承认，“最大的几家公司自由现金流已转为负值”，但认为整体资产负债表健康状况尚可。在亚洲市场，高盛团队认为韩国存储芯片板块已计入2027年盈利预期下调70%的悲观情景，“考虑到相关公司披露DRAM和HBM产品已售罄至2029年，这一定价似乎过于悲观”。&lt;/p&gt;
+信用市场：为AI繁荣买单
+&lt;p&gt;高盛多个团队在信用市场问题上形成共识。经济学家团队统计，2026年AI相关债务发行规模达6870亿美元，另有1150亿美元股权融资，并警告更高的借贷成本“可能在2027年对其他投资产生更明显的挤出效应”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛预测美国投资级信用利差将从88个基点走阔至105个基点，高收益利差从320个基点走阔至410个基点。&lt;/strong&gt; 报告明确表示，“很难看到美国信用利差大幅收窄的情景”，并预计AI相关发行人与其他发行人之间的分化将持续加剧，“大规模AI债务融资的阶段性消化不良将导致AI相关板块利差走阔”。&lt;/p&gt;
+&lt;p&gt;高盛还对比了互联网泡沫时期的历史经验。彼时信用利差从1998年至2000年持续走阔，而股市仍在上涨。但高盛认为，&amp;quot;在缺乏1997至1998年新兴市场危机带来的大规模资本流入和商品价格通缩的背景下，这种背离如今将更难以为继&amp;quot;——言下之意，股市此次恐怕难以再对信用市场的恶化视而不见。&lt;/p&gt;
+债券重获对冲价值，但市场走势与预测相悖
+&lt;p&gt;高盛认为，&lt;strong&gt;债券正在重新成为有效的对冲工具&lt;/strong&gt;。2026年大部分时间里，油价冲击导致股票与债券同向波动，债券对冲功能失效。随着AI取代石油成为市场的主要风险来源，股债相关性已重新转负。&lt;/p&gt;
+&lt;p&gt;高盛给出的美国10年期国债收益率目标为4.6%，理由包括：当前票息具有吸引力、估值偏低、市场持仓偏空，以及美联储政策路径。高盛预计美联储将在12月和次年3月再加息两次，随后于2027年12月降息，终端利率为3.25%至3.5%。报告明确指出，&amp;quot;美国面临的降息风险比多数其他经济体更为鸽派，因为美国对AI周期下行最为敏感&amp;quot;。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;债券市场走势与高盛预测存在明显背离&lt;/strong&gt;。高盛设定4.6%目标时，10年期美债收益率为4.99%，此后进一步升至5.15%以上。高盛经济学家同时指出，本季度财报季中存储器价格预测“再度上调”，意味着“AI溢出效应对核心通胀的近期上行压力仍存”。&lt;/p&gt;
+美元走弱，日元成AI风险对冲首选
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785958"&gt;华尔街见闻文章&lt;/a&gt;写道，高盛外汇策略团队在《2027全球外汇展望》报告中的核心判断是：&lt;strong&gt;美元已演变为一种AI交易标的&lt;/strong&gt;，无论市场环境好坏，美元走势均与AI相关股票表现挂钩。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“尽管美元仍是典型的避险货币，但其周期性属性日益增强。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;基于此，高盛预计2027年美元整体贬值约3%。欧元/美元路径为：先在三个月内回落至1.08，随后于2027年底回升至1.15。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日元被高盛列为最优AI风险对冲工具。&lt;/strong&gt;高盛估计日元相对美元被低估约30%，预计美元/日元从160降至150，并认为“日元应是AI前景受到更深层挑战时最明确的受益货币”。这一判断与日本政府养老金投资基金（GPIF）正在进行资产配置审查、持续抛售美债的背景相互印证。&lt;/p&gt;
+大宗商品：战争溢价消退，对冲价值凸显
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786004"&gt;高盛大宗商品团队&lt;/a&gt;负责人Daan Struyven指出，布伦特原油中的风险溢价已从中期选举前一个交易日的每桶27美元，骤降至仅剩数美元，创下新冠疫情以来最大单周跌幅。&lt;/p&gt;
+&lt;p&gt;基准情景下，布伦特原油2027年均价为88美元，年底降至78美元，能源对全球增长的拖累将从0.4个百分点转为小幅正贡献。但上行情景下，布伦特可能于2027年初突破130美元，届时将为核心通胀带来0.9个百分点的额外压力。&lt;/p&gt;
+&lt;p&gt;高盛强调，&lt;strong&gt;在过去六十年中，每一个股票和债券同时录得实际亏损的12个月区间内，黄金或大宗商品均实现正收益&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;基于此，高盛给出的目标价为：&lt;strong&gt;黄金4650美元，铜15600美元&lt;/strong&gt;（均为2027年12月目标），并推荐持有欧洲汽油和TTF天然气看涨期权价差作为能源对冲工具。&lt;/p&gt;
+五份研报共指：基准乐观，尾部风险向下集中
+&lt;p&gt;如果将高盛五份研报并排审视，一个共同特征清晰浮现：&lt;strong&gt;每份报告列举的风险均指向同一方向——下行&lt;/strong&gt;。&lt;a href="https://wallstreetcn.com/articles/3785910"&gt;高盛跨资产团队&lt;/a&gt;总结称，“整体风险资产图景呈现出多年来最为双向的态势，需要更加多元化、更有效对冲的投资组合”。&lt;/p&gt;
+&lt;p&gt;基准情景（2.8%全球增长、11%盈利增速、通胀回落、美联储2027年底降息）本身并不悲观。但高盛自身的研报也揭示了潜在的脆弱性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美联储仍在加息周期中、AI建设热潮高度依赖债务融资、信用市场已在AI边缘出现裂痕，而美国经济在相当程度上与股市表现深度绑定。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AI增速见顶的“宿醉效应”，或将早于高盛基准情景所预设的时间表到来。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
 &lt;p&gt;据彭博对桥水联合基金（Bridgewater Associates LP）13F文件的分析，截至9月30日，该基金披露的974项投资头寸总市值达230亿美元。&lt;/p&gt;
 &lt;p&gt;本季度持仓变动显示，桥水大幅增持高通、AppLovin及存储芯片股美光、闪迪，同时削减谷歌母公司Alphabet与亚马逊的持仓，并清仓联合太平洋铁路等工业股。&lt;/p&gt;
 &lt;p&gt;医疗健康板块的持仓权重录得最大幅度提升，工业板块则降幅最为显著。&lt;/p&gt;
