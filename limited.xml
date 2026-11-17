@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 02:29:28 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达暴跌，空头大赚240亿美元</title><link>https://wallstreetcn.com/articles/3786064</link><guid>630d6ddea4249448e51dab58d16645c06e1c31665f68b5de39b5c6f2bf95513c</guid><pubDate>Tue, 17 Nov 2026 00:35:58 GMT</pubDate><description>&lt;p&gt;英伟达股价持续下挫，做空者从中大获其利。自前首席执行官黄仁勋因丑闻被迫离职以来，这家芯片巨头的股价已从历史高点累计下跌35%，空头账面盈利高达240亿美元。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 03:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达暴跌，空头大赚240亿美元</title><link>https://wallstreetcn.com/articles/3786064</link><guid>630d6ddea4249448e51dab58d16645c06e1c31665f68b5de39b5c6f2bf95513c</guid><pubDate>Tue, 17 Nov 2026 00:35:58 GMT</pubDate><description>&lt;p&gt;英伟达股价持续下挫，做空者从中大获其利。自前首席执行官黄仁勋因丑闻被迫离职以来，这家芯片巨头的股价已从历史高点累计下跌35%，空头账面盈利高达240亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;据S3 Partners数据，英伟达股价周一再跌4.1%，延续上周以来的跌势——上周跌幅为自特朗普2025年4月宣布关税政策以来最大单周跌幅。&lt;strong&gt;黄仁勋因婚外情丑闻被迫卸任英伟达CEO&lt;/strong&gt;，这一事件引爆了市场对公司未来走向的深度担忧。&lt;/p&gt;
 &lt;p&gt;与此同时，空头持仓规模随卖压加剧而持续扩大。截至目前，&lt;strong&gt;英伟达空头仓位约占流通股的1.22%，名义价值约达460亿美元。&lt;/strong&gt;然而，也有部分逆向投资者开始逢低买入——据市场数据及研究机构Vanda数据，上周抛售期间，散户投资者净买入英伟达股票规模创下20亿美元的历史纪录。&lt;/p&gt;
@@ -123,7 +123,85 @@
 &lt;p&gt;Charles Lamanna解释了漏洞得以长期潜伏、未被测试流程发现的原因。&lt;/p&gt;
 &lt;p&gt;微软在向外部大规模部署系统变更前，会先在实验室环境及小范围网络中进行测试，这是大型互联网服务公司的标准操作流程。&lt;/p&gt;
 &lt;p&gt;然而此次漏洞未能被拦截，原因在于实验室中模拟的流量模式和硬件配置，与服务器在真实环境中所遭遇的条件存在差异。&lt;/p&gt;
-&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传奇投资者Druckenmiller抛售芯片股，增持SpaceX</title><link>https://wallstreetcn.com/articles/3786071</link><guid>831bd3631f2024863dfe93d66c98ee083f04537af796f39951041acb84a6ba6b</guid><pubDate>Tue, 17 Nov 2026 02:17:00 GMT</pubDate><description>&lt;p&gt;传奇投资者Stanley Druckenmiller在2026年三季度对旗下投资组合进行了大幅调仓——清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块。&lt;/p&gt;
+&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板盘中拉升涨近1%，科创50大涨3%，半导体爆发，AI短剧、稀土调整，恒科指接近翻红，阿里跌4%、腾讯跌3%</title><link>https://wallstreetcn.com/articles/3786073</link><guid>0d1554adcfb0667d41d429dcaec39d9749b2064660b0a6c4283e7bfc8d229518</guid><pubDate>Tue, 17 Nov 2026 03:14:12 GMT</pubDate><description>&lt;p&gt;11月17日，A股低开低走，三大股指盘初扩大跌幅，创业板跌近1%，盘中三大股指震荡拉升，创业板翻红并涨近1%，科创50大涨超3%，光刻机概念股反弹，国林科技20CM涨停，半导体产业链活跃，白色家电延续上涨。AI短剧、稀土、文化传媒等下挫，油气、煤炭等板块陷入调整。&lt;/p&gt;
+&lt;p&gt;港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，盘中亦震荡上涨，恒科指接近翻红，权重科网股普跌，百度大跌5%，腾讯、阿里、美团、快手均下跌。芯片股活跃，华虹宏力大涨6%，光模块、电路板、AI大模型股等再度下跌。债市方面，国债期货早盘全线反弹。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.20%，深成指涨0.55%，创业板指涨0.80%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌0.61%，恒科指跌0.14%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线上涨，截至发稿，30年期主力合约涨0.57%，10年期主力合约涨0.14%，5年期主力合约涨0.08%，2年期主力合约涨0.01%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普遍下跌，截至发稿，集运指数逆势涨2%，沪锡、工业硅、纸浆、鸡蛋、不锈钢等少数品种上涨，沪铜、沪铝、沪金、钯金、沪镍、碳酸锂、菜籽、铂金、多晶硅等品种下跌，氧化铝、锰硅、豆粕、烧碱、橡胶、螺纹钢、铁矿石、热轧卷板等品种跌超1%，玻璃、焦炭、沪银、沥青等跌幅超过2%，燃油、原油大跌超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;11:10&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科创50指数涨超3%，创业板指涨近1%，深成指涨0.6%，沪指接近翻红，半导体芯片、消费电子、小家电等方向领涨，沪深京三市上涨个股超3300只。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:07&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;半导体板块再度发力，华虹宏力、中芯国际继续担当主攻，科创50、创指同步走升。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:43&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;九阳股份、阳光照明双双涨停，继续引领“羊字辈”概念股炒作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:15&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;宇树科技跌超10%，领跌物理AI板块，上纬新材、索辰科技、凡拓数创、福莱新材、襄阳轴承、华阳智能大幅调整。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:54&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高位人气股今早持续低迷，大东方、百洋股份、永臻股份、闽发铝业走出3连跌停，东方环宇、金辰股份、日出东方、海洋王连续2日跌停。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:48&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文化传媒板块深度调整，横店影视、龙版传媒、慈文传媒、湖北广电、文投控股等跌停，金逸影视、幸福蓝海、欢瑞世纪等大幅走软。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:36&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;稀土指数早盘跌超5%，成分股普遍走低，中稀有色、中国稀土跌停，北方稀土、盛和资源、厦门钨业纷纷下滑。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早盘AI漫剧概念大幅低开，文投控股、浙文影业、大晟文化跌停，横店影视、湖北广电、龙版传媒、果麦文化等跌幅靠前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:27&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上证指数低开0.47%，创业板指跌0.86%。传媒、光模块、存储器、稀土板块调整。电信、航空、银行、白酒板块活跃。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;恒生指数开盘跌0.98%报23521.16点，恒生科技指数跌1.09%，恒生中国企业指数跌0.88%。百度集团绩后跌超3%。消费股、资源股跌幅居前。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱</title><link>https://wallstreetcn.com/articles/3786075</link><guid>252eea1837e51430f62b8ecde61ad9f372677de70d0d5a474dc78e0224ceb811</guid><pubDate>Tue, 17 Nov 2026 03:07:51 GMT</pubDate><description>&lt;p&gt;高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：&lt;strong&gt;AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“&lt;strong&gt;AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击将大于对经济的冲击&lt;/strong&gt;。”数据印证了这一判断——AI仅贡献了美国GDP增长的21%，却贡献了标普500盈利增长的62%，以及峰值时期美国市值涨幅的92%。&lt;/p&gt;
+&lt;p&gt;在市场层面，高盛预计标普500指数未来12个月目标价为8700点，较当前约7619点有14%的上行空间，但&lt;strong&gt;美国企业盈利增速将从36%腰斩至11%&lt;/strong&gt;；信用利差将走阔，美元将走软，债券重新具备对冲价值，黄金目标价上调至4650美元，铜目标价上调至15600美元。&lt;/p&gt;
+&lt;p&gt;这五份研报分别为高盛经济学家团队的《宏观展望2027：稳健基准，下行风险》、跨资产团队的《全球市场展望2027：成长之痛》、Peter Oppenheimer的《在增长中寻找价值》、外汇团队的《把握转折时机》，以及大宗商品团队的《适应动荡水域》。&lt;/p&gt;
+AI增速触顶：经济可承受，市场难言轻松
+&lt;p&gt;高盛首席经济学家Jan Hatzius团队在《宏观展望2027：稳健基准，下行风险》报告中预测，全球名义AI投资规模将从2026年的1.1万亿美元增至2027年的1.8万亿美元，&lt;strong&gt;增量主要来自美国硬件支出超过5000亿美元的跃升&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;投资总量仍在增长，但关键在于增速的变化：&lt;strong&gt;AI投资占GDP比重的同比变化将于2027年上半年见顶，绝对规模峰值则预计出现在2028年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785912"&gt;华尔街见闻文章&lt;/a&gt;写道，高盛认为，对宏观经济而言，这一转折点影响温和。高盛估计AI仅为2027年美国GDP增速贡献0.2个百分点（若修正芯片统计低估问题，则为0.6个百分点），全球经济增速预计维持在&amp;quot;平淡无奇&amp;quot;的2.8%，核心PCE通胀降至2.4%。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;市场所面临的是截然不同的处境&lt;/strong&gt;。AI相关股票已将大量尚未兑现的宏观生产率提升计入估值，一旦增速预期出现任何下修，其脆弱性将充分暴露。高盛指出，“增速见顶”这一“二阶导数”拐点，即便一阶导数（即绝对增速）仍为正值，往往也足以对市场构成实质冲击。&lt;/p&gt;
+盈利&amp;quot;大腰斩&amp;quot;：超大规模云厂商反成避风港
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785935"&gt;华尔街见闻文章&lt;/a&gt;提及，高盛股票策略师Peter Oppenheimer团队在《在增长中寻找价值》报告中指出，&lt;strong&gt;几乎所有市场的盈利增速都将至少减半&lt;/strong&gt;：美国从36%降至11%，欧洲从约18%降至7%，日本从24%降至9%，亚洲从接近80%降至不足30%。&lt;/p&gt;
+&lt;p&gt;面对这一前景，高盛给出的应对策略颇具反直觉色彩——&lt;strong&gt;超配超大规模云厂商（Hyperscalers）&lt;/strong&gt;。报告指出，这些公司目前市盈率已降至19.7倍，不仅低于此前20年区间，甚至低于消费必需品等防御性板块，&amp;quot;即便是AI繁荣的核心受益者，如今也比防御性板块更便宜&amp;quot;。&lt;/p&gt;
+&lt;p&gt;高盛同时承认，“最大的几家公司自由现金流已转为负值”，但认为整体资产负债表健康状况尚可。在亚洲市场，高盛团队认为韩国存储芯片板块已计入2027年盈利预期下调70%的悲观情景，“考虑到相关公司披露DRAM和HBM产品已售罄至2029年，这一定价似乎过于悲观”。&lt;/p&gt;
+信用市场：为AI繁荣买单
+&lt;p&gt;高盛多个团队在信用市场问题上形成共识。经济学家团队统计，2026年AI相关债务发行规模达6870亿美元，另有1150亿美元股权融资，并警告更高的借贷成本“可能在2027年对其他投资产生更明显的挤出效应”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛预测美国投资级信用利差将从88个基点走阔至105个基点，高收益利差从320个基点走阔至410个基点。&lt;/strong&gt; 报告明确表示，“很难看到美国信用利差大幅收窄的情景”，并预计AI相关发行人与其他发行人之间的分化将持续加剧，“大规模AI债务融资的阶段性消化不良将导致AI相关板块利差走阔”。&lt;/p&gt;
+&lt;p&gt;高盛还对比了互联网泡沫时期的历史经验。彼时信用利差从1998年至2000年持续走阔，而股市仍在上涨。但高盛认为，&amp;quot;在缺乏1997至1998年新兴市场危机带来的大规模资本流入和商品价格通缩的背景下，这种背离如今将更难以为继&amp;quot;——言下之意，股市此次恐怕难以再对信用市场的恶化视而不见。&lt;/p&gt;
+债券重获对冲价值，但市场走势与预测相悖
+&lt;p&gt;高盛认为，&lt;strong&gt;债券正在重新成为有效的对冲工具&lt;/strong&gt;。2026年大部分时间里，油价冲击导致股票与债券同向波动，债券对冲功能失效。随着AI取代石油成为市场的主要风险来源，股债相关性已重新转负。&lt;/p&gt;
+&lt;p&gt;高盛给出的美国10年期国债收益率目标为4.6%，理由包括：当前票息具有吸引力、估值偏低、市场持仓偏空，以及美联储政策路径。高盛预计美联储将在12月和次年3月再加息两次，随后于2027年12月降息，终端利率为3.25%至3.5%。报告明确指出，&amp;quot;美国面临的降息风险比多数其他经济体更为鸽派，因为美国对AI周期下行最为敏感&amp;quot;。&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;债券市场走势与高盛预测存在明显背离&lt;/strong&gt;。高盛设定4.6%目标时，10年期美债收益率为4.99%，此后进一步升至5.15%以上。高盛经济学家同时指出，本季度财报季中存储器价格预测“再度上调”，意味着“AI溢出效应对核心通胀的近期上行压力仍存”。&lt;/p&gt;
+美元走弱，日元成AI风险对冲首选
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3785958"&gt;华尔街见闻文章&lt;/a&gt;写道，高盛外汇策略团队在《2027全球外汇展望》报告中的核心判断是：&lt;strong&gt;美元已演变为一种AI交易标的&lt;/strong&gt;，无论市场环境好坏，美元走势均与AI相关股票表现挂钩。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“尽管美元仍是典型的避险货币，但其周期性属性日益增强。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;基于此，高盛预计2027年美元整体贬值约3%。欧元/美元路径为：先在三个月内回落至1.08，随后于2027年底回升至1.15。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日元被高盛列为最优AI风险对冲工具。&lt;/strong&gt;高盛估计日元相对美元被低估约30%，预计美元/日元从160降至150，并认为“日元应是AI前景受到更深层挑战时最明确的受益货币”。这一判断与日本政府养老金投资基金（GPIF）正在进行资产配置审查、持续抛售美债的背景相互印证。&lt;/p&gt;
+大宗商品：战争溢价消退，对冲价值凸显
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786004"&gt;高盛大宗商品团队&lt;/a&gt;负责人Daan Struyven指出，布伦特原油中的风险溢价已从中期选举前一个交易日的每桶27美元，骤降至仅剩数美元，创下新冠疫情以来最大单周跌幅。&lt;/p&gt;
+&lt;p&gt;基准情景下，布伦特原油2027年均价为88美元，年底降至78美元，能源对全球增长的拖累将从0.4个百分点转为小幅正贡献。但上行情景下，布伦特可能于2027年初突破130美元，届时将为核心通胀带来0.9个百分点的额外压力。&lt;/p&gt;
+&lt;p&gt;高盛强调，&lt;strong&gt;在过去六十年中，每一个股票和债券同时录得实际亏损的12个月区间内，黄金或大宗商品均实现正收益&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;基于此，高盛给出的目标价为：&lt;strong&gt;黄金4650美元，铜15600美元&lt;/strong&gt;（均为2027年12月目标），并推荐持有欧洲汽油和TTF天然气看涨期权价差作为能源对冲工具。&lt;/p&gt;
+五份研报共指：基准乐观，尾部风险向下集中
+&lt;p&gt;如果将高盛五份研报并排审视，一个共同特征清晰浮现：&lt;strong&gt;每份报告列举的风险均指向同一方向——下行&lt;/strong&gt;。&lt;a href="https://wallstreetcn.com/articles/3785910"&gt;高盛跨资产团队&lt;/a&gt;总结称，“整体风险资产图景呈现出多年来最为双向的态势，需要更加多元化、更有效对冲的投资组合”。&lt;/p&gt;
+&lt;p&gt;基准情景（2.8%全球增长、11%盈利增速、通胀回落、美联储2027年底降息）本身并不悲观。但高盛自身的研报也揭示了潜在的脆弱性：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;美联储仍在加息周期中、AI建设热潮高度依赖债务融资、信用市场已在AI边缘出现裂痕，而美国经济在相当程度上与股市表现深度绑定。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;AI增速见顶的“宿醉效应”，或将早于高盛基准情景所预设的时间表到来。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传奇投资者Druckenmiller抛售芯片股，增持SpaceX</title><link>https://wallstreetcn.com/articles/3786071</link><guid>831bd3631f2024863dfe93d66c98ee083f04537af796f39951041acb84a6ba6b</guid><pubDate>Tue, 17 Nov 2026 02:17:00 GMT</pubDate><description>&lt;p&gt;传奇投资者Stanley Druckenmiller在2026年三季度对旗下投资组合进行了大幅调仓——清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块。&lt;/p&gt;
 &lt;p&gt;根据Druckenmiller旗下Duquesne家族办公室向美国证券交易委员会（SEC）提交的最新13F文件，&lt;strong&gt;Druckenmiller在三季度完全退出了AMD、闪迪和Alphabet的持仓。&lt;/strong&gt;这份文件于11月16日截止日前提交，是市场观察其最新持仓动向的重要窗口。&lt;/p&gt;
 &lt;p&gt;此次调仓发生在科技股普遍承压的背景下。AMD自10月6日创下收盘新高后已累计下跌22%，闪迪自6月底高点以来股价跌幅接近三分之二，Alphabet则自5月中旬峰值以来累计下跌约30%，仅三季度结束后便已再跌18%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -152,152 +230,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Stanley Druckenmiller据彭博亿万富翁指数估计，净资产约为125亿美元。他曾长期担任对冲基金经理，此后关闭基金，专注于管理Duquesne家族办公室。&lt;/p&gt;
-&lt;p&gt;13F文件是持有超过1亿美元特定证券的机构投资管理人须向SEC定期披露的持仓报告，每季度提交一次，截止日为季度结束后45天内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] A股三大股指齐跌，创业板跌1%，半导体逆势活跃，文化传媒、稀土调整，恒科指跌近2%，阿里、腾讯等权重科网股普跌</title><link>https://wallstreetcn.com/articles/3786073</link><guid>0d1554adcfb0667d41d429dcaec39d9749b2064660b0a6c4283e7bfc8d229518</guid><pubDate>Tue, 17 Nov 2026 02:03:42 GMT</pubDate><description>&lt;p&gt;11月17日，A股低开低走，三大股指盘初扩大跌幅，创业板跌近1%，科创50、北正50逆势活跃，光刻机概念股反弹，国林科技20CM涨停，半导体产业链活跃，白色家电延续上涨。AI短剧、稀土、文化传媒等下挫，油气、煤炭等板块陷入调整。&lt;/p&gt;
-&lt;p&gt;港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，权重科网股普跌，百度大跌5%，腾讯、阿里、美团、快手均下跌。芯片股活跃，华虹宏力大涨6%，光模块、电路板、AI大模型股等再度下跌。债市方面，国债期货早盘全线反弹。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌0.65%，深成指跌0.56%，创业板指跌0.89%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;港股&lt;/strong&gt;：截至发稿，恒指跌1.44%，恒科指跌1.92%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;债市&lt;/strong&gt;：国债期货全线上涨，截至发稿，30年期主力合约涨0.25%，10年期主力合约涨0.08%，5年期主力合约涨0.05%，2年期主力合约涨0.02%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商品&lt;/strong&gt;：国内商品期货普遍下跌，截至发稿，集运指数逆势涨2%，沪锡、工业硅、纸浆、鸡蛋、不锈钢等少数品种上涨，沪铜、沪铝、沪金、钯金、沪镍、碳酸锂、菜籽、铂金、多晶硅等品种下跌，氧化铝、锰硅、豆粕、烧碱、橡胶、螺纹钢、铁矿石、热轧卷板等品种跌超1%，玻璃、焦炭、沪银、沥青等跌幅超过2%，燃油、原油大跌超5%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;09:54&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高位人气股今早持续低迷，大东方、百洋股份、永臻股份、闽发铝业走出3连跌停，东方环宇、金辰股份、日出东方、海洋王连续2日跌停。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:48&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;文化传媒板块深度调整，横店影视、龙版传媒、慈文传媒、湖北广电、文投控股等跌停，金逸影视、幸福蓝海、欢瑞世纪等大幅走软。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:36&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;稀土指数早盘跌超5%，成分股普遍走低，中稀有色、中国稀土跌停，北方稀土、盛和资源、厦门钨业纷纷下滑。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;早盘AI漫剧概念大幅低开，文投控股、浙文影业、大晟文化跌停，横店影视、湖北广电、龙版传媒、果麦文化等跌幅靠前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:27&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上证指数低开0.47%，创业板指跌0.86%。传媒、光模块、存储器、稀土板块调整。电信、航空、银行、白酒板块活跃。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;恒生指数开盘跌0.98%报23521.16点，恒生科技指数跌1.09%，恒生中国企业指数跌0.88%。百度集团绩后跌超3%。消费股、资源股跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩高喊“拥抱风险”！AI算力开支“只会迟到，不会缩水”，顶格超配全球股市</title><link>https://wallstreetcn.com/articles/3786068</link><guid>7e10aa951f0c1ee96b8922cce741417dfe03c6dae06fadd6537d6843e70b0446</guid><pubDate>Tue, 17 Nov 2026 01:42:21 GMT</pubDate><description>&lt;p&gt;过去12个月，除大宗商品外，几乎所有主要资产类别的估值都已回落。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，11月16日，摩根士丹利全球跨资产策略主管Serena Tang在最新的报告中表示，过去六个月风险资产估值已普遍下调，而宏观基本面依然具有韧性，这为承担更多风险提供了基础。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;主要风险催化剂已经过去，风险资产在过去六个月里已经便宜了不少，我们以广泛积极的风险姿态进入2027年。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在资产配置上，该行将全球股票超配幅度调至相对基准+15%的最高水平，同时下调高收益债、大宗商品和现金的配置。&lt;/strong&gt;能源冲击带来的通胀压力是最大变数——该行预计美联储将在2026年12月和2027年3月各加息一次，将联邦基金利率目标区间推升至4.25%-4.5%，这也使得债券市场面临短期压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;具体来看，美国、日本、欧洲股票均上调至超配，新兴市场股票为等配。资金来源是减仓大宗商品（布伦特原油、铜均下调至低配）和现金。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美股方面，首席美股策略师Michael Wilson将S&amp;amp;P 500目标价上调至8700点（对应2027年末），估值对应19倍远期市盈率&lt;/strong&gt;，EPS预测为2027年420美元（同比增长14%），2028年458美元（增长9%）。报告认为，以当前约18倍远期市盈率的水平，指数仍低于合理价值。&lt;/p&gt;
-&lt;p&gt;选股方向上，大摩强调“质量优先”——偏好强资产负债表、可持续利润率和稳定现金流的公司，即便是向周期性板块的轮动，也要在高质量资产内部进行。工业板块是其首选行业。&lt;/p&gt;
-AI资本开支：不是暂停，只是推迟
-&lt;p&gt;报告写道：“将美国约5GW的项目从2028年推迟至2029年，是延迟，不是暂停。”大摩预计，2027年超大规模云计算商的现金资本开支规模约为&lt;strong&gt;1.5万亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;融资层面同样有具体数字支撑：2027年相关融资渠道的发行规模预计接近&lt;strong&gt;9000亿美元&lt;/strong&gt;（相比此前约6500亿美元），其中包括约3850亿美元的超大规模云计算商无担保债券，以及约3500亿美元的芯片融资。评级较低的借款方则更多依赖有担保、短期限的融资结构。&lt;/p&gt;
-&lt;p&gt;分析师判断，信用市场在2027年将扮演更重要的角色，承担AI资本开支从投资到变现之间的资金缺口。&lt;/p&gt;
-全球经济：增长韧性，但通胀麻烦没消
-&lt;p&gt;该行首席全球经济学家Seth Carpenter预计，2027年全球经济增速维持在&lt;strong&gt;3.4%&lt;/strong&gt;，美国增速为&lt;strong&gt;2.5%&lt;/strong&gt;，支撑来自AI基础设施投资加速，以及高收入消费者的强劲消费。&lt;/p&gt;
-&lt;p&gt;但能源冲击带来的通胀压力是主要干扰项。报告指出，原油与成品油之间的价差较宽，加上食品和供应链压力，能源成本可能传导至核心通胀，迫使央行在增长脆弱时仍不得不收紧政策。&lt;/p&gt;
-&lt;p&gt;基准情景下，大摩预计美联储将在12月和明年3月各加息一次，将联邦基金利率区间推至&lt;strong&gt;4.25%-4.5%&lt;/strong&gt;，欧央行加息至3.0%，日本央行加息至1.75%；美联储和欧央行预计在2028年开始降息。&lt;/p&gt;
-&lt;p&gt;10年期美债收益率预计在2027年中达到&lt;strong&gt;5.05%&lt;/strong&gt;，年末收于&lt;strong&gt;5.00%&lt;/strong&gt;。&lt;/p&gt;
-信用市场：质量回归，高收益债降级
-&lt;p&gt;信用配置上，大摩将美国投资级债券上调至等配，高收益债下调至低配。&lt;/p&gt;
-&lt;p&gt;经过大量供给消化后，高质量信用的风险回报已有所改善。该行预计2027年美国投资级债券发行量将达&lt;strong&gt;2.4万亿美元&lt;/strong&gt;（同比增长12%），创历史新高，发行期限偏短端。&lt;/p&gt;
-&lt;p&gt;同时，该行关闭了对高质量超大规模云计算商的低配建议，对数据中心债券保持中性，并在高收益资产内部更偏好贷款而非高收益债券。&lt;/p&gt;
-尾部风险仍在，国债是对冲工具
-&lt;p&gt;该行在保持高风险敞口的同时，也保留了美国国债的中性配置，明确将其作为组合对冲工具。&lt;/p&gt;
-&lt;p&gt;分析师写道：“正是因为我们的股票敞口较高，我们才保留久期配置。不确定性和尾部风险仍然显著，积极的风险立场反而强化了组合保护的必要性。”&lt;/p&gt;
-&lt;p&gt;分析师同时提示，2027年的挑战与2026年不同——宏观冲击减少，但市场将更加关注AI资本开支能否在超大规模云计算商财报和更广泛的AI应用中体现出回报。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋离职震荡蔓延：“AI央行”紧缩，新云公司融资危险了</title><link>https://wallstreetcn.com/articles/3786063</link><guid>508532711642ea3af2189042dc2e79d3380b80bdc6500e8eadf1a6dd2b606cb9</guid><pubDate>Tue, 17 Nov 2026 02:15:04 GMT</pubDate><description>&lt;p&gt;英伟达董事长黄仁勋的离职，正在动摇整个新云行业赖以生存的信用根基。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11月16日周一科技股领跌美股，其中新云服务公司跌幅居前。CoreWeave&lt;/strong&gt;跌超6%，其无担保债券收益率此前一度逼近15%，触及困境债券区间。&lt;strong&gt;Nebius&lt;/strong&gt;同样重挫逾7%，上周四周五已经累跌25%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这一冲击发生在新云行业本就承压的节点。这类公司普遍背负沉重债务，项目推进遭遇延误，新上台的美国民主党国会更强调会限制数据中心建设。&lt;/p&gt;
-&lt;p&gt;更棘手的是，许多数据中心运营商已开始收紧对这类垃圾评级客户的容量出租。而英伟达此前正是通过租约担保和信用支持，帮助新云公司突破上述融资瓶颈。&lt;/p&gt;
-
-黄仁勋构建的&amp;quot;AI央行&amp;quot;体系
-
-&lt;p&gt;黄仁勋在任期间，将英伟达的财务资源系统性地注入新云生态，构建了一套错综复杂的资金支持网络：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;英伟达承诺向&lt;strong&gt;Nebius&lt;/strong&gt;出资20亿美元以推动其采用英伟达基础设施。&lt;/li&gt;
-&lt;li&gt;据彭博社援引知情人士透露，英伟达还同意作为Hut 8 Corp.数据中心的租约持有方，支持&lt;strong&gt;新云公司Lambda&lt;/strong&gt;使用该设施。&lt;/li&gt;
-&lt;li&gt;当&lt;strong&gt;OpenAI&lt;/strong&gt;在软银旗下SB Energy租赁俄亥俄州园区时，英伟达亦承诺提供最高1050亿美元的项目支持。&lt;/li&gt;
-&lt;li&gt;据&lt;strong&gt;Nscale&lt;/strong&gt;在监管文件中披露，英伟达正就一处供Anthropic使用的Nscale数据中心设施提供信用担保谈判，并坦承对英伟达融资的依赖程度超出此前披露。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;英伟达信用背书的作用不可小觑。&lt;/strong&gt;许多数据中心运营商要求信用资质较弱的新云公司寻得资金雄厚的担保方，方可签署租约；而华尔街银行在消化AI基础设施建设贷款压力之际，也依赖此类担保才愿意放款。&lt;/p&gt;
-&lt;p&gt;Needham高级分析师John Todaro表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;芯片制造商的支持比以前更加不可或缺，英伟达任何层面的动荡，都会引发外界对新云信贷支持的质疑，令整体环境更加不确定。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-CFO Kress接手一台正在减速的机器
-
-&lt;p&gt;此前&lt;a href="https://wallstreetcn.com/articles/3785942"&gt;华尔街见闻提及&lt;/a&gt;，据报道，今年8月，黄仁勋将核心财务高管召至办公室，直面一个日益失控的问题：英伟达正在就向根本负担不起其芯片的企业提供数十亿美元担保进行谈判。&lt;/p&gt;
-&lt;p&gt;部分交易由黄仁勋的女婿、今年1月晋升为副总裁的Nico Caprez主导，他曾向新兴云服务商和数据中心开发商承诺，英伟达可以在数周内安排信用支持，换取对方的收入分成，数十家公司随即蜂拥而至。&lt;/p&gt;
-&lt;p&gt;就在这次会议上，黄仁勋当着众人的面对Kress的汇报大加批评，打断她的陈述，称其为&amp;quot;鹿死于猎灯之下&amp;quot;（a deer in the headlights），评价她只是一位汇报型CFO，而非能够参与战略定义的高管——而公司董事会如今决定让她扮演的，恰恰是后一角色。&lt;/p&gt;
-&lt;p&gt;然而，从历史记录来看，Kress恰恰是整个扩张狂潮中少数持续追问&amp;quot;这些担保究竟值多少钱&amp;quot;的高管。据《华尔街日报》、路透和The Information报道：&lt;strong&gt;是她将OpenAI的初始承诺金额腰斩；是她在幕后试图约束Caprez的交易冲动；也是她提出了那些在狂热气氛中无人愿意回答的问题——如何筛选交易、如何为担保定价、如何计算回报。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年10月，英伟达已开始逐步收紧融资水龙头，每笔新交易均须经高管团队和董事会批准。但外部压力正从多个方向同时袭来——美国司法部正就客户芯片出货情况展开调查，众议院委员会主席要求进行闭门汇报，而公司的永久董事长一职尚悬空待填。&lt;/p&gt;
-&lt;p&gt;华尔街机构警告，英伟达若收紧每季度约500至600亿美元自由现金流的再循环输送，仅此一项便可能从AI生态系统中抽走逾500亿美元资金。&lt;/p&gt;
-
-&lt;p&gt;花旗集团在一份报告中指出，芯片制造商愿意为数据中心及芯片交易提供担保的比例已呈行业性下降趋势。花旗分析师写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;芯片制造商为AI生态系统背书的音乐可能正在放缓，鉴于芯片制造商此前对AI基础设施建设的广泛支持，市场的担忧情绪不难理解。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-新云公司承压，市场已现连锁反应
-
-&lt;p&gt;新云公司本身的处境也在持续恶化。据报道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;TeraWulf&lt;/strong&gt;只接受拥有投资级评级或获得蓝筹企业信用背书的租户，在CoreWeave无法满足该条件后，拒绝将其纳入考量；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Applied Digital&lt;/strong&gt;去年与CoreWeave签署了多笔大型租约，但目前正将对此类非投资级客户的敞口上限设定在总容量的30%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;市场已对此做出反应。彭博智库分析师Vasu Kasibhotla在研究报告中指出：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;CoreWeave和Nebius可能是最易受英伟达领导层更迭冲击的公司，一旦黄仁勋继任者削弱围绕其战略构建的隐性支持，两家公司将首当其冲。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;CoreWeave周一盘中一度再跌8.6%，Nebius跌幅一度达9.6%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Ultima Markets资深分析师Elon Gu表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;新云作为中间环节，连接着上游的芯片巨头与下游的数据中心、算力托管，其处境恶化直接映射到了数据中心运营商的信用风险上。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;周一投资级信用利差扩大，超大规模数据中心运营商信用违约互换（CDS）重回450基点上方。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达三季度美股持仓缩水逾151亿美元，减持英特尔、增持SpaceX</title><link>https://wallstreetcn.com/articles/3786057</link><guid>abafcbc3cb4f2ca80e5adb9d20ac1650b51527d07fa56d1b6f0527a69d95d46b</guid><pubDate>Mon, 16 Nov 2026 23:42:11 GMT</pubDate><description>&lt;p&gt;英伟达三季度美股持仓缩水逾两成，SpaceX超越英特尔升至第一重仓。&lt;/p&gt;
-&lt;p&gt;英伟达提交的最新监管文件显示，截至2026年9月30日，该公司持有的8只美股证券总市值为483.31亿美元，较二季度末的634.40亿美元环比下降23.82%，主要受减持英特尔及多只重仓股估值回落拖累。&lt;/p&gt;
-&lt;p&gt;（英伟达2026年第三季度13F持仓及环比变化明细）&lt;/p&gt;
-&lt;p&gt;最为显著的变动发生在前两大重仓股之间。&lt;strong&gt;英伟达在三季度减持了约四分之一的英特尔股份，同时小幅增持SpaceX股份，推动后者反超英特尔成为英伟达第一大美股持仓。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;整体来看，英伟达在三季度对4只持仓股进行了结构性调整，其中增持1只、减持3只，其余4只保持持股数量不变。&lt;/p&gt;
-&lt;p&gt;尽管总持仓市值大幅收缩，英伟达的外部股权配置依然高度集中。&lt;strong&gt;前两大重仓股合计市值达390.50亿美元，占整体投资组合的80.80%&lt;/strong&gt;，其余6只标的合计占比不足两成，所有持仓均由英伟达独立行使投资决策权与投票权。&lt;/p&gt;
-总持仓环比缩水逾两成，前两大重仓易主
-&lt;p&gt;对比2026年二季度末的634.40亿美元持仓规模，英伟达三季度美股持仓总市值环比减少151.09亿美元，降幅为23.82%，但持仓标的列表维持8只不变。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在头部重仓股调整方面，太空探索技术公司A类普通股跃升为第一大重仓股。&lt;/strong&gt;三季度末，英伟达持有该公司约1.30亿股，较二季度末增加约771万股，环比增幅为6.28%。&lt;/p&gt;
-&lt;p&gt;受股价波动影响，该笔持仓市值由二季度末的209.76亿美元微降至196.83亿美元，环比下降6.16%，但占总持仓比例由33.06%大幅提升至40.73%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;英特尔普通股则退居第二大重仓股&lt;/strong&gt;。英伟达在三季度减持了约5369万股英特尔股票，持股总量由二季度末的约2.15亿股降至约1.61亿股，环比减幅达250%。&lt;/p&gt;
-&lt;p&gt;叠加股价下跌影响，英伟达对英特尔的持仓市值由二季度末的约299.9亿美元降至193.67亿美元，环比缩水35.42%，持仓占比从47.27%降至40.07%。&lt;/p&gt;
-诺基亚与新思科技遭减持，四只标的持股未变
-&lt;p&gt;&lt;strong&gt;除英特尔外，英伟达在三季度还对另外两只科技与通信标的进行了减持操作，其中诺基亚减持幅度较大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截至三季度末，英伟达持有诺基亚ADR约7286万份，较二季度末的约1.66亿份大幅减少约 9,353万份，环比减幅达56.21%；对应持仓市值由22.10亿美元降至7.39亿美元，环比减少66.56%，占比由3.48%降至1.53%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;另一只遭减持的标的是新思科技。&lt;/strong&gt;三季度末，英伟达持有新思科技普通股约435万股，较二季度末的约482万股减少约47万股，环比减持9.70%；持仓市值由 21.51亿美元降至18.94亿美元，环比下降11.95%，占比由3.39%微升至3.92%。&lt;/p&gt;
-&lt;p&gt;与此同时，投资组合中的其余4只标的在三季度均未发生持股数量变动，仅因股价波动出现市值调整。具体来看：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CoreWeave&lt;/strong&gt; A类普通股持股维持在约4721万股，市值由二季度末的约47.0亿美元降至41.13亿美元，占比由7.41%升至8.51%；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;COHERENT&lt;/strong&gt;普通股持股维持约779万股，市值由30.72亿美元降至 22.42亿美元，占比 4.64%；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nebius集团&lt;/strong&gt;A类股持股维持约 119万股，市值由约3.29亿美元降至2.81亿美元，占比 0.58%；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Generate Biomedicines&lt;/strong&gt;普通股持股维持约83.3万股，市值由约1410万美元降至1252万美元，占比0.03%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在资产管理架构与治理权限方面，英伟达三季度13F报告与二季度保持一致。报告显示，英伟达在此次申报中未列示任何其他联合管理人。&lt;/p&gt;
-&lt;p&gt;对于全部8只持仓标的，英伟达均拥有完全独立的投资决策权，并对所有持仓股份行使100%的单独投票权，不存在共同投票或无投票权股份。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔掌舵伯克希尔再加码房产与航空股，美银、Capital One继续减持，新进“App翻新工厂”</title><link>https://wallstreetcn.com/articles/3786052</link><guid>3a40d57a3864bbb8c253d3049f2050efcf721ff13db818870478b136c6505beb</guid><pubDate>Mon, 16 Nov 2026 22:13:06 GMT</pubDate><description>&lt;p&gt;在格雷格·阿贝尔（Greg Abel）接棒“股神”巴菲特掌舵的第三个季度，伯克希尔·哈撒韦继续调整股票组合，房屋建筑商和航空公司成为增持重点，金融股则继续遭到削减，同时还将一家擅长收购和改造成熟App的意大利科技公司纳入投资组合。&lt;/p&gt;
+&lt;p&gt;13F文件是持有超过1亿美元特定证券的机构投资管理人须向SEC定期披露的持仓报告，每季度提交一次，截止日为季度结束后45天内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔掌舵伯克希尔再加码房产与航空股，美银、Capital One继续减持，新进“App翻新工厂”</title><link>https://wallstreetcn.com/articles/3786052</link><guid>3a40d57a3864bbb8c253d3049f2050efcf721ff13db818870478b136c6505beb</guid><pubDate>Mon, 16 Nov 2026 22:13:06 GMT</pubDate><description>&lt;p&gt;在格雷格·阿贝尔（Greg Abel）接棒“股神”巴菲特掌舵的第三个季度，伯克希尔·哈撒韦继续调整股票组合，房屋建筑商和航空公司成为增持重点，金融股则继续遭到削减，同时还将一家擅长收购和改造成熟App的意大利科技公司纳入投资组合。&lt;/p&gt;
 &lt;p&gt;美东时间11月16日周一，伯克希尔向美国证监会（SEC）提交的2026年第三季度13F文件显示，公司继续增持房屋建筑商Lennar（LEN）和达美航空（DAL），其中Lennar A类股持仓接近翻倍；另一方面，伯克希尔继续减持美国银行（BAC）、信用卡公司Capital One（COF）、零售商Kroger（KR）和医疗服务公司DaVita（DVA），并削减域名注册服务商VeriSign（VRSN）的持仓。&lt;/p&gt;
 &lt;p&gt;三季度，伯克希尔主要持仓最引人注目的新面孔是收购“过气软件”起家的意大利科技公司Bending Spoons（BSP），当季持有约2069万股，披露市值约6.89亿美元。在今年上半年持续大举加码之后，三季度伯克希尔未再加码谷歌母公司Alphabet，其仓位和苹果等其他二季度排在前十的重仓股一样稳居前十。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -526,7 +459,41 @@ GOOG
 &lt;p&gt;苹果持仓数量继续保持稳定，仍是伯克希尔最重要的股票投资。美国运通、可口可乐等传统核心资产也没有出现明显的持股数量变化。&lt;/p&gt;
 &lt;p&gt;整体而言，伯克希尔第三季度并未大幅改写其核心重仓股格局，真正值得关注的是组合内部的调整：Lennar持仓接近翻倍，达美航空连续第三个季度获得增持；美国银行和Capital One继续遭到削减；Alphabet在连续两个季度大举加仓后暂停增持，而Bending Spoons则成为一笔新的重要科技投资。&lt;/p&gt;
 &lt;p&gt;伯克希尔第三季度财报还显示，公司当季回购自身股票约96亿美元，前三季度累计回购约144亿美元。截至9月30日，公司持有的现金、现金等价物及美国国债约3523亿美元。相比之下，公司第三季度买入其他公司股票约23.7亿美元、卖出约27.9亿美元，股票投资仍呈现净卖出状态。&lt;/p&gt;
-&lt;p&gt;这也意味着，尽管阿贝尔领导下的伯克希尔持续调整股票组合，并通过Bending Spoons等投资探索新的资本配置方向，公司仍然保留了庞大的现金储备。住宅建筑、航空和数字应用并购平台成为本季度值得关注的新投资方向，但伯克希尔整体的资本配置仍然相当审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
+&lt;p&gt;这也意味着，尽管阿贝尔领导下的伯克希尔持续调整股票组合，并通过Bending Spoons等投资探索新的资本配置方向，公司仍然保留了庞大的现金储备。住宅建筑、航空和数字应用并购平台成为本季度值得关注的新投资方向，但伯克希尔整体的资本配置仍然相当审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩高喊“拥抱风险”！AI算力开支“只会迟到，不会缩水”，顶格超配全球股市</title><link>https://wallstreetcn.com/articles/3786068</link><guid>7e10aa951f0c1ee96b8922cce741417dfe03c6dae06fadd6537d6843e70b0446</guid><pubDate>Tue, 17 Nov 2026 01:42:21 GMT</pubDate><description>&lt;p&gt;过去12个月，除大宗商品外，几乎所有主要资产类别的估值都已回落。&lt;/p&gt;
+&lt;p&gt;据追风交易台消息，11月16日，摩根士丹利全球跨资产策略主管Serena Tang在最新的报告中表示，过去六个月风险资产估值已普遍下调，而宏观基本面依然具有韧性，这为承担更多风险提供了基础。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;主要风险催化剂已经过去，风险资产在过去六个月里已经便宜了不少，我们以广泛积极的风险姿态进入2027年。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在资产配置上，该行将全球股票超配幅度调至相对基准+15%的最高水平，同时下调高收益债、大宗商品和现金的配置。&lt;/strong&gt;能源冲击带来的通胀压力是最大变数——该行预计美联储将在2026年12月和2027年3月各加息一次，将联邦基金利率目标区间推升至4.25%-4.5%，这也使得债券市场面临短期压力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;具体来看，美国、日本、欧洲股票均上调至超配，新兴市场股票为等配。资金来源是减仓大宗商品（布伦特原油、铜均下调至低配）和现金。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美股方面，首席美股策略师Michael Wilson将S&amp;amp;P 500目标价上调至8700点（对应2027年末），估值对应19倍远期市盈率&lt;/strong&gt;，EPS预测为2027年420美元（同比增长14%），2028年458美元（增长9%）。报告认为，以当前约18倍远期市盈率的水平，指数仍低于合理价值。&lt;/p&gt;
+&lt;p&gt;选股方向上，大摩强调“质量优先”——偏好强资产负债表、可持续利润率和稳定现金流的公司，即便是向周期性板块的轮动，也要在高质量资产内部进行。工业板块是其首选行业。&lt;/p&gt;
+AI资本开支：不是暂停，只是推迟
+&lt;p&gt;报告写道：“将美国约5GW的项目从2028年推迟至2029年，是延迟，不是暂停。”大摩预计，2027年超大规模云计算商的现金资本开支规模约为&lt;strong&gt;1.5万亿美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;融资层面同样有具体数字支撑：2027年相关融资渠道的发行规模预计接近&lt;strong&gt;9000亿美元&lt;/strong&gt;（相比此前约6500亿美元），其中包括约3850亿美元的超大规模云计算商无担保债券，以及约3500亿美元的芯片融资。评级较低的借款方则更多依赖有担保、短期限的融资结构。&lt;/p&gt;
+&lt;p&gt;分析师判断，信用市场在2027年将扮演更重要的角色，承担AI资本开支从投资到变现之间的资金缺口。&lt;/p&gt;
+全球经济：增长韧性，但通胀麻烦没消
+&lt;p&gt;该行首席全球经济学家Seth Carpenter预计，2027年全球经济增速维持在&lt;strong&gt;3.4%&lt;/strong&gt;，美国增速为&lt;strong&gt;2.5%&lt;/strong&gt;，支撑来自AI基础设施投资加速，以及高收入消费者的强劲消费。&lt;/p&gt;
+&lt;p&gt;但能源冲击带来的通胀压力是主要干扰项。报告指出，原油与成品油之间的价差较宽，加上食品和供应链压力，能源成本可能传导至核心通胀，迫使央行在增长脆弱时仍不得不收紧政策。&lt;/p&gt;
+&lt;p&gt;基准情景下，大摩预计美联储将在12月和明年3月各加息一次，将联邦基金利率区间推至&lt;strong&gt;4.25%-4.5%&lt;/strong&gt;，欧央行加息至3.0%，日本央行加息至1.75%；美联储和欧央行预计在2028年开始降息。&lt;/p&gt;
+&lt;p&gt;10年期美债收益率预计在2027年中达到&lt;strong&gt;5.05%&lt;/strong&gt;，年末收于&lt;strong&gt;5.00%&lt;/strong&gt;。&lt;/p&gt;
+信用市场：质量回归，高收益债降级
+&lt;p&gt;信用配置上，大摩将美国投资级债券上调至等配，高收益债下调至低配。&lt;/p&gt;
+&lt;p&gt;经过大量供给消化后，高质量信用的风险回报已有所改善。该行预计2027年美国投资级债券发行量将达&lt;strong&gt;2.4万亿美元&lt;/strong&gt;（同比增长12%），创历史新高，发行期限偏短端。&lt;/p&gt;
+&lt;p&gt;同时，该行关闭了对高质量超大规模云计算商的低配建议，对数据中心债券保持中性，并在高收益资产内部更偏好贷款而非高收益债券。&lt;/p&gt;
+尾部风险仍在，国债是对冲工具
+&lt;p&gt;该行在保持高风险敞口的同时，也保留了美国国债的中性配置，明确将其作为组合对冲工具。&lt;/p&gt;
+&lt;p&gt;分析师写道：“正是因为我们的股票敞口较高，我们才保留久期配置。不确定性和尾部风险仍然显著，积极的风险立场反而强化了组合保护的必要性。”&lt;/p&gt;
+&lt;p&gt;分析师同时提示，2027年的挑战与2026年不同——宏观冲击减少，但市场将更加关注AI资本开支能否在超大规模云计算商财报和更广泛的AI应用中体现出回报。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
 &lt;p&gt;据彭博对桥水联合基金（Bridgewater Associates LP）13F文件的分析，截至9月30日，该基金披露的974项投资头寸总市值达230亿美元。&lt;/p&gt;
 &lt;p&gt;本季度持仓变动显示，桥水大幅增持高通、AppLovin及存储芯片股美光、闪迪，同时削减谷歌母公司Alphabet与亚马逊的持仓，并清仓联合太平洋铁路等工业股。&lt;/p&gt;
 &lt;p&gt;医疗健康板块的持仓权重录得最大幅度提升，工业板块则降幅最为显著。&lt;/p&gt;
@@ -557,7 +524,33 @@ GOOG
 &lt;p&gt;桥水完全退出联合太平洋铁路，该仓位减少51.4万股，市值减少约1.40亿美元，成为本季度最大的清仓操作。同期，卡车制造商Paccar亦遭清仓，持仓减少94.6万股，市值减少约1.14亿美元，该股季内价格下跌约8.6%。此外，云计算公司Nutanix和标普全球（S&amp;amp;P Global）亦被完全退出。&lt;/p&gt;
 &lt;p&gt;医疗健康板块本季度获得最大幅度的权重提升。新建仓位包括医疗器械巨头Medtronic Plc和爱尔兰药企Jazz Pharmaceuticals Plc，但具体金额未在数据中单独列示。&lt;/p&gt;
 &lt;p&gt;能源方向，&lt;strong&gt;桥水新建了西方石油仓位155万股，市值约8577万美元；同时新买入电力公司Dominion Energy约151.6万股，市值约9176万美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，科技细分领域的Synaptics、Fortinet及思科亦为本季度新进标的，市值分别约7835万美元、7541万美元及7120万美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 22:26:42 GMT</pubDate><description>&lt;p&gt;Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。&lt;/p&gt;
+&lt;p&gt;此外，科技细分领域的Synaptics、Fortinet及思科亦为本季度新进标的，市值分别约7835万美元、7541万美元及7120万美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达三季度美股持仓缩水逾151亿美元，减持英特尔、增持SpaceX</title><link>https://wallstreetcn.com/articles/3786057</link><guid>abafcbc3cb4f2ca80e5adb9d20ac1650b51527d07fa56d1b6f0527a69d95d46b</guid><pubDate>Mon, 16 Nov 2026 23:42:11 GMT</pubDate><description>&lt;p&gt;英伟达三季度美股持仓缩水逾两成，SpaceX超越英特尔升至第一重仓。&lt;/p&gt;
+&lt;p&gt;英伟达提交的最新监管文件显示，截至2026年9月30日，该公司持有的8只美股证券总市值为483.31亿美元，较二季度末的634.40亿美元环比下降23.82%，主要受减持英特尔及多只重仓股估值回落拖累。&lt;/p&gt;
+&lt;p&gt;（英伟达2026年第三季度13F持仓及环比变化明细）&lt;/p&gt;
+&lt;p&gt;最为显著的变动发生在前两大重仓股之间。&lt;strong&gt;英伟达在三季度减持了约四分之一的英特尔股份，同时小幅增持SpaceX股份，推动后者反超英特尔成为英伟达第一大美股持仓。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;整体来看，英伟达在三季度对4只持仓股进行了结构性调整，其中增持1只、减持3只，其余4只保持持股数量不变。&lt;/p&gt;
+&lt;p&gt;尽管总持仓市值大幅收缩，英伟达的外部股权配置依然高度集中。&lt;strong&gt;前两大重仓股合计市值达390.50亿美元，占整体投资组合的80.80%&lt;/strong&gt;，其余6只标的合计占比不足两成，所有持仓均由英伟达独立行使投资决策权与投票权。&lt;/p&gt;
+总持仓环比缩水逾两成，前两大重仓易主
+&lt;p&gt;对比2026年二季度末的634.40亿美元持仓规模，英伟达三季度美股持仓总市值环比减少151.09亿美元，降幅为23.82%，但持仓标的列表维持8只不变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在头部重仓股调整方面，太空探索技术公司A类普通股跃升为第一大重仓股。&lt;/strong&gt;三季度末，英伟达持有该公司约1.30亿股，较二季度末增加约771万股，环比增幅为6.28%。&lt;/p&gt;
+&lt;p&gt;受股价波动影响，该笔持仓市值由二季度末的209.76亿美元微降至196.83亿美元，环比下降6.16%，但占总持仓比例由33.06%大幅提升至40.73%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英特尔普通股则退居第二大重仓股&lt;/strong&gt;。英伟达在三季度减持了约5369万股英特尔股票，持股总量由二季度末的约2.15亿股降至约1.61亿股，环比减幅达250%。&lt;/p&gt;
+&lt;p&gt;叠加股价下跌影响，英伟达对英特尔的持仓市值由二季度末的约299.9亿美元降至193.67亿美元，环比缩水35.42%，持仓占比从47.27%降至40.07%。&lt;/p&gt;
+诺基亚与新思科技遭减持，四只标的持股未变
+&lt;p&gt;&lt;strong&gt;除英特尔外，英伟达在三季度还对另外两只科技与通信标的进行了减持操作，其中诺基亚减持幅度较大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至三季度末，英伟达持有诺基亚ADR约7286万份，较二季度末的约1.66亿份大幅减少约 9,353万份，环比减幅达56.21%；对应持仓市值由22.10亿美元降至7.39亿美元，环比减少66.56%，占比由3.48%降至1.53%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另一只遭减持的标的是新思科技。&lt;/strong&gt;三季度末，英伟达持有新思科技普通股约435万股，较二季度末的约482万股减少约47万股，环比减持9.70%；持仓市值由 21.51亿美元降至18.94亿美元，环比下降11.95%，占比由3.39%微升至3.92%。&lt;/p&gt;
+&lt;p&gt;与此同时，投资组合中的其余4只标的在三季度均未发生持股数量变动，仅因股价波动出现市值调整。具体来看：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CoreWeave&lt;/strong&gt; A类普通股持股维持在约4721万股，市值由二季度末的约47.0亿美元降至41.13亿美元，占比由7.41%升至8.51%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;COHERENT&lt;/strong&gt;普通股持股维持约779万股，市值由30.72亿美元降至 22.42亿美元，占比 4.64%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nebius集团&lt;/strong&gt;A类股持股维持约 119万股，市值由约3.29亿美元降至2.81亿美元，占比 0.58%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generate Biomedicines&lt;/strong&gt;普通股持股维持约83.3万股，市值由约1410万美元降至1252万美元，占比0.03%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在资产管理架构与治理权限方面，英伟达三季度13F报告与二季度保持一致。报告显示，英伟达在此次申报中未列示任何其他联合管理人。&lt;/p&gt;
+&lt;p&gt;对于全部8只持仓标的，英伟达均拥有完全独立的投资决策权，并对所有持仓股份行使100%的单独投票权，不存在共同投票或无投票权股份。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 22:26:42 GMT</pubDate><description>&lt;p&gt;Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;标普500指数&lt;/strong&gt;收跌1.9%，&lt;strong&gt;纳指&lt;/strong&gt;数重挫2.5%，&lt;strong&gt;道指&lt;/strong&gt;下滑1.4%，全球股票基准MSCI世界指数亦跌1.6%。半导体板块首当其冲，&lt;strong&gt;芯片指数&lt;/strong&gt;单日下挫5.3%，AI与科技板块的广泛去风险操作令科技巨头也无从幸免。&lt;/p&gt;
 &lt;p&gt;与此同时，原油价格在地缘冲突消息中意外下行，&lt;strong&gt;布伦特原油&lt;/strong&gt;跌至约93美元/桶，&lt;strong&gt;WTI原油&lt;/strong&gt;跌约3.5%至85.50美元/桶，但股市与大宗商品的双双走软并未提振债券，&lt;strong&gt;美债收益率横盘&lt;/strong&gt;。&lt;strong&gt;美元指数&lt;/strong&gt;小幅走高，续创18个月新高，&lt;strong&gt;比特币&lt;/strong&gt;和&lt;strong&gt;黄金&lt;/strong&gt;则双双走低。&lt;/p&gt;
