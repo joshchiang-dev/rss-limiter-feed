@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 06:59:19 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职</title><link>https://wallstreetcn.com/articles/3786076</link><guid>1043a01af8c3805e87f17a2234b5712abff20cda6d99037277d92a3bce63510c</guid><pubDate>Tue, 17 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 07:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职</title><link>https://wallstreetcn.com/articles/3786076</link><guid>1043a01af8c3805e87f17a2234b5712abff20cda6d99037277d92a3bce63510c</guid><pubDate>Tue, 17 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。&lt;/p&gt;
 &lt;p&gt;摩根大通策略师Michael Cembalest在最新研报《英伟达与AI的下一步》中指出，&lt;strong&gt;前沿AI实验室正将采购重心向AMD、谷歌、亚马逊等多家供应商分散，英伟达在2026年后计算协议中的份额仅占28%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，开源模型生态圈则面临华盛顿的监管铁拳。对投资者而言，这意味着英伟达此前支撑高估值的两大核心增长引擎，&lt;strong&gt;AI芯片定价权&lt;/strong&gt;与&lt;strong&gt;开源市场敞口&lt;/strong&gt;正在同步承压。&lt;/p&gt;
 &lt;p&gt;Cembalest的结论是，&lt;strong&gt;市场竞争格局的位移&amp;quot;在某种程度上与管理层变动同等重要，甚至有过之而无不及&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
@@ -162,7 +162,69 @@ CUDA护城河：三天被AI攻破
 &lt;p&gt;Charles Lamanna解释了漏洞得以长期潜伏、未被测试流程发现的原因。&lt;/p&gt;
 &lt;p&gt;微软在向外部大规模部署系统变更前，会先在实验室环境及小范围网络中进行测试，这是大型互联网服务公司的标准操作流程。&lt;/p&gt;
 &lt;p&gt;然而此次漏洞未能被拦截，原因在于实验室中模拟的流量模式和硬件配置，与服务器在真实环境中所遭遇的条件存在差异。&lt;/p&gt;
-&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行开始甩卖AI数据中心债务，ING和法兴挂牌出售8亿美元贷款</title><link>https://wallstreetcn.com/articles/3786090</link><guid>fa63e961de47123d9a531a56d34d5f272ad187fde548de3f8c1a93564ec4ba98</guid><pubDate>Tue, 17 Nov 2026 06:55:08 GMT</pubDate><description>&lt;p&gt;随着银行业对AI基础设施领域的集中风险敞口日益警惕，部分机构已开始主动出清相关贷款资产。&lt;strong&gt;ING银行和法国兴业银行近期合计挂牌出售最多8亿美元的数据中心债务&lt;/strong&gt;，涉及多个与甲骨文旗下项目相关的贷款，标志着银行业在AI热潮中积累的风险正加速向市场释放。&lt;/p&gt;
+&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电</title><link>https://wallstreetcn.com/articles/3786088</link><guid>8b6ce0797630a55859d26d22e4db4466fd6498721e66d852c7d27f8b38c6af38</guid><pubDate>Tue, 17 Nov 2026 07:17:26 GMT</pubDate><description>&lt;p&gt;随着2026年三季度13F文件集中披露，全球顶级投资机构的持仓调整路径浮出水面——英伟达遭遇机构史上罕见的大分流，桥水转向AI硬件产业链，索罗斯完成&amp;quot;芯片内部换仓&amp;quot;，Druckenmiller大举清仓半导体并转向黄金与SpaceX，伯克希尔则继续远离科技追逐，坚守地产与航空。&lt;/p&gt;
+&lt;p&gt;这批截至9月30日的持仓报告，&lt;strong&gt;恰好卡在一个高度敏感的时间节点：&lt;/strong&gt;英伟达CEO黄仁勋于11月12日被董事会解除职务，股价随之剧烈波动。而这一切，均发生在三季度持仓数据所反映的时间窗口之后。据holdingsintel.com汇总的497家机构13F数据，&lt;strong&gt;英伟达成为本季度分歧最大的单一标的&lt;/strong&gt;——减持方阵容包括Sixth Street Partners清仓1.6亿股、文艺复兴科技减持99.7%，加仓方则有ARK增持85%、DekaBank增持648%，Tepper亦增持。&lt;/p&gt;
+&lt;p&gt;此外，13F报告显示，Ken Griffin旗下的城堡投资（Citadel Advisors）组合中对英伟达的权重小幅下降了约1.31%（持股变动约减少117万股），同期其持仓市值约为27亿美元，占组合比例约1.46%。&lt;/p&gt;
+&lt;p&gt;在英伟达之外，多条隐藏主线同步浮现：ARK、Druckenmiller、Tepper均在三季度新建或加仓SpaceX；&lt;strong&gt;“减算力、加存储/设备”成为隐性主线&lt;/strong&gt;，桥水买入应用材料、美光，索罗斯买入SK海力士，Druckenmiller转向希捷与西部数据；伯克希尔则以96亿美元回购自家股票，继续以现金和耐心对抗市场喧嚣。&lt;/p&gt;
+桥水：减科技巨头，加AI硬件产业链
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786053"&gt;华尔街见闻文章&lt;/a&gt;写道，桥水联合基金三季度披露的974项投资头寸总市值达230亿美元，本季度持仓重塑方向高度清晰：&lt;strong&gt;削减科技巨头与标普ETF，将资金转向AI芯片硬件、存储及能源板块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;增持方面&lt;/strong&gt;，高通持仓从16.2万股增至87.8万股，增幅约440%，对应市值增加约1.32亿美元；AppLovin A类股增持53.6万股至68.3万股，市值增加约1.23亿美元；存储芯片方向同样获得显著增持，美光持仓增加12万股至23.7万股，市值增加约1.18亿美元；闪迪增持6.6万股至6.68万股，市值增加约1.15亿美元。此外，射频芯片公司Qorvo本季度增持逾103.7万股，持股总量达106.8万股。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;减持方面&lt;/strong&gt;，道富标普500 ETF持仓减少近191.7万股，市值减少约13.78亿美元；iShares Core S&amp;amp;P 500 ETF同步削减149.4万股，市值减少约10.93亿美元。个股层面，Alphabet A类股持仓减少86.2万股，市值减少约3.14亿美元；亚马逊持仓减少105.5万股，市值减少约2.41亿美元；微软减持幅度约69%。&lt;/p&gt;
+&lt;p&gt;尽管如此，&lt;strong&gt;英伟达仍以6.14亿美元市值位列桥水前五大重仓股第三位&lt;/strong&gt;，持股268.8万股，季内减持约117.8万股，降幅约30%，仍为组合中半导体标的中最重要的单一持仓。博通以4.62亿美元紧随其后，持仓几乎维持不变。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;工业板块是本季度持仓权重降幅最大的板块，桥水完全退出联合太平洋铁路（减少51.4万股，市值减少约1.40亿美元）和卡车制造商Paccar。能源方向，桥水新建西方石油仓位155万股，市值约8577万美元，并新买入电力公司Dominion Energy约151.6万股。&lt;/p&gt;
+索罗斯：减英伟达，大举买入英特尔与SK海力士
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786054"&gt;华尔街见闻文章&lt;/a&gt;提及，据彭博对季度监管文件的汇编数据，乔治·索罗斯的同名家族办公室在截至9月30日的季度内&lt;strong&gt;将英伟达持仓削减近五分之一&lt;/strong&gt;，这是该机构今年首次披露的减仓操作，此前其一直在增持该股。&lt;/p&gt;
+&lt;p&gt;具体而言，索罗斯基金管理公司上季度出售了约20.6万股英伟达股份，按当时股价计算市值最高达4740万美元，截至9月30日其剩余英伟达持仓价值接近2亿美元。与此同时，英伟达看跌期权也从40万股减至35万股。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;然而，这并非单纯的&amp;quot;减科技&amp;quot;操作，而是一次&lt;strong&gt;芯片内部的方向性切换&lt;/strong&gt;。索罗斯将英特尔持仓从10万股大幅增至283万股，增幅约28倍，市值约3.4亿美元，成为该基金最大单一股票持仓；同期新建仓SK海力士ADR 32.5万股；Meta增持近6倍。整体逻辑指向：减&amp;quot;贵的算力&amp;quot;，加&amp;quot;便宜的逻辑芯片和存储&amp;quot;。&lt;/p&gt;
+&lt;p&gt;宏观对冲方面，索罗斯将能源精选SPDR的看跌期权从200万股底层股份增至1090万股（名义价值约6.7亿美元），并新增约3.28亿美元的油气勘探ETF看跌期权，合计约10亿美元名义空头对冲。同时买入长期美债（TLT）看涨期权约2.37亿美元及公用事业（XLU）看涨期权约2.15亿美元。&lt;/p&gt;
+&lt;p&gt;据彭博亿万富翁指数，现年96岁的索罗斯身家为97亿美元，其基金由前瑞银集团高管Dawn Fitzpatrick主导。&lt;/p&gt;
+Druckenmiller：清芯片、买黄金，试水SpaceX
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786071"&gt;华尔街见闻文章&lt;/a&gt;写道，传奇投资者Stanley Druckenmiller在2026年三季度对旗下Duquesne家族办公室投资组合进行了大幅调仓，&lt;strong&gt;清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;清仓与大幅减仓方面，Druckenmiller完全退出AMD（72,900股）、闪迪（34,900股）和Alphabet A类股（336,300股）。台积电是削减幅度最大的标的，持仓从589,700股骤降至32,700股，&lt;strong&gt;降幅达94%&lt;/strong&gt;，市值仅剩约1,490万美元。STMicroelectronics持仓从310万股减至162万股，降幅约48%；CRH持仓降幅约71%。此外，联合航空（794,800股）、达美航空、DR Horton，以及标普500和罗素2000指数的看涨期权头寸均被悉数清出。整体来看，此次调仓共涉及退出约48个持仓。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;新建仓方面，Druckenmiller买入SpaceX 202,125股（约3050万美元）、Palantir 80,100股、AppLovin 109,460股。&lt;strong&gt;黄金矿业板块获得集中布局&lt;/strong&gt;：新建仓纽蒙特黄金公司Newmont 380,400股（市值约4,390万美元）、Barrick Mining 1,050,000股（市值约4,290万美元）以及Agnico Eagle，三只金矿股合计建仓约1.29亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得关注的是，Druckenmiller在清仓台积电、AMD、闪迪的同时，却大幅增持存储硬件方向——&lt;strong&gt;希捷科技持仓增至341,800股，市值约3.152亿美元，升为第二大重仓股&lt;/strong&gt;，并增持180%；同时新建仓TTM Technologies及西部数据。这并非逃离科技，而是从高估值算力芯片切向存储和更便宜的硬件。&lt;/p&gt;
+&lt;p&gt;从当前持仓结构来看，临床基因检测平台公司Natera为第一大重仓股，占整体约44.7亿美元投资组合的29.2%，集中度极高。据彭博亿万富翁指数，Druckenmiller净资产约为125亿美元。&lt;/p&gt;
+伯克希尔：远离科技喧嚣，押注地产、航空与&amp;quot;App翻新工厂&amp;quot;
+&lt;p&gt;据&lt;a href="https://wallstreetcn.com/articles/3786052"&gt;华尔街见闻文章&lt;/a&gt;写道，在格雷格·阿贝尔（Greg Abel）接棒巴菲特掌舵的第三个完整季度，伯克希尔·哈撒韦操作依旧克制：新建仓1只、加仓4只、减仓6只，未清仓任何标的，换手率仅3.33%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;增持方向高度集中于住宅建筑和航空&lt;/strong&gt;。房屋建筑商Lennar A类股从1311.17万股增至2603.44万股，增幅达98.6%，持仓规模接近翻倍；B类股同步从29.81万股增至55.30万股，增幅约85.5%。达美航空连续第三个季度获加仓，持股从5732万股增至6445万股，增幅约12.4%，新增持仓价值约6.2亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本季度最引人注目的新仓位是意大利科技公司Bending Spoons（BSP）&lt;/strong&gt;，截至9月30日持有约2069万股，披露市值约6.89亿美元。这家公司专门收购&amp;quot;有用户、但增长放缓&amp;quot;的过气软件并加以改造，旗下资产包括AOL、Vimeo、Evernote、Eventbrite、WeTransfer等知名互联网产品。伯克希尔在其7月IPO时投入约6亿美元，10月又追加3.3亿美元，两笔合计约9.3亿美元。&lt;/p&gt;
+&lt;p&gt;减持方面，Capital One持仓从300万股减至115万股，降幅约61.7%；VeriSign持仓从898.99万股降至592.21万股，降幅约34.1%；美国银行持仓减少约2753万股，降幅约5.7%，对应市值约15亿美元；Kroger降幅约10.3%。&lt;/p&gt;
+&lt;p&gt;从资本配置全貌来看，&lt;strong&gt;伯克希尔三季度回购自家股票约96亿美元，而买卖外部股票几乎打平（买入23.7亿美元、卖出27.9亿美元）&lt;/strong&gt;。截至9月30日，公司持有的现金、现金等价物及美国国债约3523亿美元。苹果（约759亿美元）、美国运通（约462亿美元）、可口可乐（约344亿美元）、Alphabet A类股（约271亿美元）、美国银行（约248亿美元）仍构成前五大重仓。&lt;/p&gt;
+AI“股神”、Situational Awareness基金：规模单季度缩水187亿美元
+&lt;p&gt;根据最新披露的13F文件，Leopold Aschenbrenner创立的Situational Awareness基金截至9月30日的申报持仓规模为15.8亿美元，而三个月前的6月30日这一数字为202.4亿美元——单季度缩水187亿美元，降幅高达92%。这份文件为此前已在市场广泛流传的爆仓事件提供了完整的书面记录。此次持仓骤降的直接诱因是7月下旬的强制平仓。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据报道，该基金的大部分公开市场持仓以约10%的折价批量出售给城堡投资（Citadel），这也在一定程度上解释了后者当月的亮眼表现。然而，清仓后不久，该基金便以几乎相同的交易逻辑重建头寸，并于9月再度遭遇重创。&lt;/p&gt;
+&lt;p&gt;文件显示，Situational Awareness原有26个持仓标的，其中21个在报告期内被完全清仓。&lt;strong&gt;已关闭的头寸涵盖价值56.7亿美元的Sandisk、55.7亿美元的美光科技（Micron）、19亿美元的Bloom Energy股票、12.7亿美元的台积电（TSMC）以及12.3亿美元的Nebius。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据彭博此前报道，在爆仓事件发生逾一个月前，已有分析人士警告称，对AI相关标的使用大规模掉期杠杆可能引发类似Archegos的强制清算风险。7月下旬，风险最终兑现。&lt;/p&gt;
+&lt;p&gt;截至9月30日，当前申报持仓中约三分之二为认购期权，而非直接持股——这意味着在原有股票杠杆被强制清除后，该基金选择以期权形式重建相似敞口。&lt;/p&gt;
+&lt;p&gt;具体而言，&lt;strong&gt;Bloom Energy的持仓从14.58万股基础股份扩张至对应140万股的认购期权，名义价值达3.89亿美元；新增对Nebius的认购期权名义价值3.33亿美元，对Sandisk的认购期权名义价值1.83亿美元，以及对一只存储器ETF的认购期权名义价值1.4亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;唯一值得注意的直接股票持仓增量来自SharonAI——持股数量较前一期增加50%至807万股，市值约4.41亿美元。&lt;/p&gt;
+英伟达：机构史上罕见大分流
+&lt;p&gt;英伟达是本季度13F持仓报告里分歧最大的标的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;减持阵营&lt;/strong&gt;：Sixth Street Partners清仓1.6亿股；文艺复兴科技减持99.7%，从709万股降至2.3万股；桥水减持约30%；索罗斯减持近五分之一；Druckenmiller大幅削减台积电等芯片持仓；据彭博，参与减持的家族办公室至少达十余家，但均保留了部分英伟达仓位，截至季度末合计持有的英伟达股份市值仍超过10亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加仓阵营&lt;/strong&gt;：ARK增持85%，英伟达升至组合3.4%；DekaBank增持648%；David Tepper旗下Appaloosa将英伟达增持31%至200万股，芯片持仓占组合比重从35%升至39%。&lt;/p&gt;
+&lt;p&gt;值得特别关注的是，英伟达自身的13F文件显示，其英特尔持仓从2.148亿股降至1.611亿股，按季末股价计算约出售了65亿美元的英特尔股票，超过其约一年前购入该笔股份所支付的约50亿美元。与此同时，英伟达将SpaceX升为最大持仓，市值约196.8亿美元，整体13F持仓规模下降24%至483亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在芯片分歧加剧的背景下，&lt;strong&gt;SpaceX成为本季度又一个分歧点&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;ARK将SpaceX增持51%至10.2亿美元，升为仅次于特斯拉的第二大持仓；Druckenmiller新建仓202,125股，约3050万美元；Tepper将SpaceX持仓扩大约17倍至5.57亿美元；英伟达将SpaceX列为最大持仓，市值约196.8亿美元。&lt;/p&gt;
+&lt;p&gt;与此同时，Michael Platt旗下BlueCrest则反向操作，将SpaceX持仓削减94%，从2.42亿美元降至约1300万美元，成为少数逆势减持者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一分歧折射出当前市场的深层逻辑：&lt;/strong&gt;当AI算力交易的高度集中性引发机构分歧，商业航天作为另一条长期增长叙事，正在吸引越来越多的顶级资金悄然布局。&lt;/p&gt;
+&lt;p&gt;本季度13F文件中，一条贯穿多家机构的隐性主线值得关注：&lt;strong&gt;多位大佬不约而同从英伟达代表的算力芯片，向存储和半导体设备切换&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;桥水买入美光、闪迪、高通、Qorvo；索罗斯新建仓SK海力士ADR；Druckenmiller清仓台积电、AMD、闪迪，却将希捷科技大幅加仓至第二大重仓，并新买入TTM Technologies；ARK增持AI云CoreWeave 58%。Lone Pine 清仓希捷，Tepper加仓美光。&lt;/p&gt;
+其他机构动向
+&lt;p&gt;&lt;strong&gt;Cathie Wood的ARK&lt;/strong&gt;：组合规模从154亿美元增至174亿美元。英伟达增持85%；AMD砍仓52%，从组合权重约4.6%压至2.4%；SpaceX增持51%至10.2亿美元；Meta翻倍；CoreWeave增58%；稳定币公司Circle增50%；特斯拉再增22%。特斯拉加SpaceX合计占组合12.75%。Roblox被砍79%接近出清。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bill Ackman的潘兴广场&lt;/strong&gt;：总市值从255亿增至308亿美元。新建仓洲际交易所（ICE）和眼科巨头爱尔康（ALC），各约10亿美元；微软砍34.51%、Meta减11.35%；奈飞增持17.82%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高瓴HHLR&lt;/strong&gt;：增持拼多多789%、阿里巴巴1,250%，两只合计占组合近四成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;段永平H&amp;amp;H&lt;/strong&gt;：总市值约172亿美元，拼多多加仓296.88万股升为第三大重仓（12.69%），特斯拉增至8.42%；英伟达减持63%，占比从6.58%降至3.08%。段永平随后公开表态&amp;quot;不看空但暂时也不加码&amp;quot;，并表示&amp;quot;买英伟达的大部分理由还在，只是黄仁勋不在了&amp;quot;，计划买回被call走的股票。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高毅资产&lt;/strong&gt;：清仓英伟达、美光、闪迪，大幅加仓阿里巴巴、BOSS直聘。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 银行开始甩卖AI数据中心债务，ING和法兴挂牌出售8亿美元贷款</title><link>https://wallstreetcn.com/articles/3786090</link><guid>fa63e961de47123d9a531a56d34d5f272ad187fde548de3f8c1a93564ec4ba98</guid><pubDate>Tue, 17 Nov 2026 06:55:08 GMT</pubDate><description>&lt;p&gt;随着银行业对AI基础设施领域的集中风险敞口日益警惕，部分机构已开始主动出清相关贷款资产。&lt;strong&gt;ING银行和法国兴业银行近期合计挂牌出售最多8亿美元的数据中心债务&lt;/strong&gt;，涉及多个与甲骨文旗下项目相关的贷款，标志着银行业在AI热潮中积累的风险正加速向市场释放。&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》11月17日报道，知情人士透露，上述贷款出售行动已持续数月，但&lt;strong&gt;美国中期选举后民主党大获全胜，市场对美国数据中心监管收紧的担忧加剧，促使银行加快在年底前清理资产负债表的步伐&lt;/strong&gt;。与此同时，英国央行和欧洲央行也相继启动对银行数据中心贷款敞口的审查，监管压力从两侧同步收紧。&lt;/p&gt;
 &lt;p&gt;从市场定价来看，部分贷款报价仍在面值90美分以上，显示信用质量整体尚可；但涉及电力供应受阻的新墨西哥州项目，预计成交价将跌至面值85美分左右，反映出个别项目的实质性风险。&lt;/p&gt;
 ING和法兴挂牌出售，涉及多个Oracle旗下项目
@@ -572,22 +634,4 @@ A股优于离岸：国家队托底，结构转型加速
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在资产管理架构与治理权限方面，英伟达三季度13F报告与二季度保持一致。报告显示，英伟达在此次申报中未列示任何其他联合管理人。&lt;/p&gt;
-&lt;p&gt;对于全部8只持仓标的，英伟达均拥有完全独立的投资决策权，并对所有持仓股份行使100%的单独投票权，不存在共同投票或无投票权股份。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工行廖林谈银行AI三考题：进入交易、审贷，持续投入</title><link>https://wallstreetcn.com/articles/3786082</link><guid>54677517842b56de6dbd80b72219d9cf2e1edf16a56dfece6010a4d02c8133b1</guid><pubDate>Tue, 17 Nov 2026 05:01:22 GMT</pubDate><description>&lt;p&gt;工商银行的AI应用已经进入金融市场交易、客户服务和信贷审查。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;11月17日，在深圳举行的2026年APEC工商领导人峰会上，工行董事长廖林谈到，AI正在改变银行服务客户、员工作业和业务决策的方式。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在客户服务端，银行开始通过对话提供服务。在行内，员工与智能体协同作业，业务决策也更多借助模型分析。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;廖林同时提出三个问题：技术能否提高生产力，能否改善风险管理，投入能否持续。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2015年，工行推出互联网金融品牌e-ICBC，2022年发布数字工行D-ICBC。&lt;/p&gt;
-&lt;p&gt;今年8月，工行介绍了数智工行AI-ICBC的“1+1+3”体系，以“工银智涌”大模型平台和“工银数库”数据空间为基础，建设面向企业客户、个人客户和员工的三类平台。&lt;/p&gt;
-&lt;p&gt;截至今年上半年，“工银智涌”已落地600余个应用场景。在金融市场业务中，工行的智能对话交易系统覆盖从客户准入、报价到成交和风险敞口管理的流程，智能询价交易比率超过96%。&lt;/p&gt;
-&lt;p&gt;在客户服务端，“工小智”已覆盖账户管理、财富管理等9个业务领域的50项线上功能，目前仍在小范围试点。面向个人客户经理的“工小财”可以查数据、做分析、拟方案，上半年累计提供服务超2200万次。&lt;/p&gt;
-&lt;p&gt;廖林也谈到工行在亚太地区支持AI产业的计划。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;廖林透露，工行已在APEC 21个经济体中的17个设有机构，将为AI产业提供长期资金，连接创新合作伙伴，并提供风险管理支持。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;场景铺开之后，投入能带来多少经营回报？&lt;/p&gt;
-&lt;p&gt;2025年，工行全行金融科技投入285.88亿元，AI数字员工承担的工作量为5.5万人年。今年上半年，招行也披露了类似指标，AI带来了1388万小时的等效人工工时。&lt;/p&gt;
-&lt;p&gt;等效工时衡量的是AI承担了多少工作。要算清财务回报，还要看腾出的工时带来了多少新增业务或实际成本节约，以及模型开发和运行花了多少钱。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;工行目前公开的成效主要体现在应用规模和业务流程提效。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在信贷业务中，提效还涉及谁来作判断。工行的审贷助手“工小审”可以分析客户信用风险、研判合规要求并起草报告，供审查人员使用。今年上半年，该工具辅助审查审批涉及的信贷金额超过万亿元。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;值得一提的是，10月中旬，工行行长刘珺也曾在外滩年会上提出，银行已经有成熟的客户信用评分体系，现在还要回答一个新问题：怎么判断AI模型本身是否可信？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;刘珺提出，可探讨把AI视作一种类人的准法律主体，将其运行记录纳入统一治理框架，以便追溯和核验。&lt;/p&gt;
-&lt;p&gt;对工行的业务分工，刘珺表示，高度依赖数据的流程可以给AI更多自主权，直接面向客户的重大决定仍由人把关。涉及较大风险敞口的定价业务，则需要人工从一开始就参与。&lt;/p&gt;
-&lt;p&gt;至于出了问题谁负责，刘珺举例说，如果工行部署AI、收益计入工行报表，相应责任也由工行承担。出现问题时，工行应向受损方赔偿，并向市场作出交代。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;对于全部8只持仓标的，英伟达均拥有完全独立的投资决策权，并对所有持仓股份行使100%的单独投票权，不存在共同投票或无投票权股份。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
