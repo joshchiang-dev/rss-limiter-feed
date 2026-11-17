@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 08:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 声网营收增长19%，但对话式AI尚未形成规模效应拖累毛利率</title><link>https://wallstreetcn.com/articles/3786095</link><guid>0dd279ab3bbb6465c7b298a9132c357140556a3ffcc57d2a111432d7a6b20b44</guid><pubDate>Tue, 17 Nov 2026 07:55:59 GMT</pubDate><description>&lt;p&gt;声网的AI业务开始贡献更多收入，盈利改善仍需等待规模效应。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 09:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] 声网营收增长19%，但对话式AI尚未形成规模效应拖累毛利率</title><link>https://wallstreetcn.com/articles/3786095</link><guid>0dd279ab3bbb6465c7b298a9132c357140556a3ffcc57d2a111432d7a6b20b44</guid><pubDate>Tue, 17 Nov 2026 07:55:59 GMT</pubDate><description>&lt;p&gt;声网的AI业务开始贡献更多收入，盈利改善仍需等待规模效应。&lt;/p&gt;
 &lt;p&gt;北京时间11月17日，声网（NASDAQ：API）发布2026年第三季度财报，营收4210万美元，同比增长19%；净利润约300万美元，同比增长10.4%。&lt;/p&gt;
 &lt;p&gt;同期，毛利率由上年同期的66%降至63.4%，经营亏损约150万美元，上年同期为160万美元。公司将毛利率下降归因于产品结构变化，其中对话式AI产品仍处于规模化前期。&lt;/p&gt;
 &lt;p&gt;这家实时音视频服务商正在将业务从人与人的通话，扩展至人与AI的互动。声网向开发者提供语音、视频和直播等能力，客户可以将其嵌入自己的应用，按实际使用量付费。客户产品中的互动越频繁、使用时间越长，就可能为声网带来更多收入。&lt;/p&gt;
@@ -163,62 +163,7 @@ CUDA护城河：三天被AI攻破
 &lt;p&gt;Charles Lamanna解释了漏洞得以长期潜伏、未被测试流程发现的原因。&lt;/p&gt;
 &lt;p&gt;微软在向外部大规模部署系统变更前，会先在实验室环境及小范围网络中进行测试，这是大型互联网服务公司的标准操作流程。&lt;/p&gt;
 &lt;p&gt;然而此次漏洞未能被拦截，原因在于实验室中模拟的流量模式和硬件配置，与服务器在真实环境中所遭遇的条件存在差异。&lt;/p&gt;
-&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球股市四连跌，英伟达绩前跌幅加深，韩股收跌2.6%，油价下跌</title><link>https://wallstreetcn.com/articles/3786084</link><guid>72911ae581c04c1e1eff9b473cb62fe2b12eeb98395e0a21104b564286732bf1</guid><pubDate>Tue, 17 Nov 2026 07:49:04 GMT</pubDate><description>&lt;p&gt;全球股市跌势蔓延至第四个交易日，英伟达财报前夕的避险情绪令亚太市场首当其冲。油价同步下挫，市场风险偏好持续受压。&lt;/p&gt;
-&lt;p&gt;标普500指数期货下跌0.2%，而纳斯达克100指数在连续三天下跌后涨幅不大。MSCI亚太股票指数盘中最大跌幅达1.5%，逼近4月初以来最低收盘位，韩国股市领跌。与此同时，英伟达股价周一下跌4.1%，本周将公布的季度财报及首席执行官黄仁勋去留问题，共同构成近期AI交易方向的两大关键变量。MSCI全球股票指数周二小幅下滑0.2%，连续第四日录得跌幅。&lt;/p&gt;
-&lt;p&gt;大宗商品市场方面，布伦特原油跌破每桶92美元，WTI原油下跌0.9%至每桶84.98美元，供应过剩迹象及美国副总统JD Vance释放的避免对伊战争长期化信号共同施压油价。现货黄金小幅上涨0.5%至每盎司3874.40美元。&lt;/p&gt;
-&lt;p&gt;Bloomberg彭博策略师Mark Cranfield指出，韩国综合指数、中国台湾加权指数和日经225指数仍面临新一轮抛售风险，交易员在流动性枯竭前倾向于主动降低风险敞口。随着Anthropic上市及感恩节假期临近，今年市场重新布局的窗口期或将早于往年关闭。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;标普500指数期货下跌0.2%，而纳斯达克100指数在连续三天下跌后涨幅不大。&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;日经225指数收盘下跌1.3%，报58,860.43点。日本东证指数收盘下跌1.6%，报3,840.02点。韩国首尔综指收盘下跌2.6%，报4,968.48点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;美元现货指数变化不大&lt;/li&gt;
-&lt;li&gt;美国10年期国债收益率变化不大，为5.13%&lt;/li&gt;
-&lt;li&gt;日本10年期收益率持平，为2.880%&lt;/li&gt;
-&lt;li&gt;布伦特原油跌破每桶92美元，WTI原油价格下跌0.9%，至每桶84.98美元&lt;/li&gt;
-&lt;li&gt;现货黄金上涨0.5%，至每盎司3,874.40美元&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-英伟达财报与Anthropic上市，AI交易面临双重考验
-
-&lt;p&gt;市场目光正聚焦于两大即将到来的事件。英伟达周二发布季度财报，将为市场提供芯片需求现状及黄仁勋离职影响的直接参照。Anthropic PBC则预计本周完成首次公开募股，承销银行方面预期周三定价、周四挂牌交易，届时有望创下史上最大规模IPO纪录。据彭博援引知情人士透露，Anthropic此次发行获得的认购需求约为可售股份的七倍。&lt;/p&gt;
-&lt;p&gt;英伟达股价周一跌4.1%，此前已经历2025年4月以来最差单周表现。围绕黄仁勋去留的不确定性同样牵动市场神经——美国财政部长Scott Bessent呼吁进行&amp;quot;大刀阔斧&amp;quot;的领导层更迭，特朗普总统亦表态支持黄仁勋复职，而黄仁勋的盟友也在积极推动其回归。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;UBS金融顾问兼董事总经理Xi Qiao表示，英伟达在出口限制趋严和管理层不确定性双重压力下，面临尤为严峻的财报前景，预计英伟达及更广泛的AI交易短期内将持续震荡，市场需消化AI生态投资放缓及潜在供应链扰动的影响。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-美联储加息预期高企，美债收益率维持高位
-
-&lt;p&gt;在AI担忧升温的同时，美联储政策路径亦令市场承压。美联储官员近期发出信号，12月大概率再度加息。克利夫兰联储主席Beth Hammack表示倾向于小幅、稳步加息，而联储理事Christopher Waller此前曾提出，若通胀压力恶化，不排除一次性加息50个基点的可能性。&lt;/p&gt;
-&lt;p&gt;基准10年期美债收益率周二维持在5.13%，华侨银行（OCBC）策略师Sim Moh Siong等人在报告中指出，避险情绪与AI忧虑并行升温，但鹰派联储的风险使美债收益率居高不下，难以快速回落。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;太平洋投资管理公司（PIMCO）则认为，随着数据中心建设放缓压缩相关债券供给，为AI建设融资的债券信用利差或将收窄，一定程度上缓解信用市场压力。&lt;/p&gt;
-&lt;p&gt;外汇市场，新西兰元跌至兑美元六年低位，部分原因在于新西兰与美国之间的利差持续扩大。彭博美元即期指数变动甚微，日元小幅升值0.1%至每美元159.26。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 巴菲特感恩节再捐股55亿美元，这次的信只写了250字</title><link>https://wallstreetcn.com/articles/3786089</link><guid>bb2ebdc22c48e287ea4a3d0c19d277b82210008df1075dc6bb5ad0ba0faab445</guid><pubDate>Tue, 17 Nov 2026 08:04:19 GMT</pubDate><description>&lt;p&gt;96岁的巴菲特以最简短的篇幅，完成了迄今最大规模的一次感恩节捐赠。&lt;/p&gt;
-&lt;p&gt;据周一发布的新闻稿，&lt;strong&gt;沃伦·巴菲特向其家族旗下四家基金会捐赠了价值约55亿美元的伯克希尔·哈撒韦股票，捐赠规模较去年同期大幅跃升。这&lt;/strong&gt;是他加速财富分配计划的最新一步——他已公开承诺，将在2034年前通过三名子女将逾1600亿美元的伯克希尔资产悉数用于公益事业。&lt;/p&gt;
-&lt;p&gt;与上述捐赠规模形成鲜明对比的，是这封感恩节信的篇幅：不足250字，仅为去年逾3500字信件的零头。巴菲特在信中解释，由于9月刚就卸任伯克希尔董事长一事向股东做过详细说明，本次将&amp;quot;长话短说&amp;quot;。信中核心思想只有一句话：&lt;strong&gt;善意不仅没有成本，还会以&amp;quot;比查理和我买过的任何东西都更好的速度&amp;quot;实现复利增长——这里的查理，指的是他已故的商业伙伴查理·芒格。&lt;/strong&gt;&lt;/p&gt;
-
-捐赠规模：从13.5亿到55亿
-
-&lt;p&gt;此次捐赠的股份总量为9,225,000股伯克希尔B类股。其中，以其已故妻子命名的Susan Thompson Buffett Foundation获配3,690,000股，其余三家子女基金会——The Sherwood Foundation、The Howard G. Buffett Foundation及NoVo Foundation——各获配1,845,000股。&lt;/p&gt;
-&lt;p&gt;相比之下，巴菲特去年向同四家基金会合计捐赠的股票价值约为13.5亿美元。今年的捐赠规模约为去年的四倍，体现了他&amp;quot;加速分配&amp;quot;的明确意图。&lt;/p&gt;
-&lt;p&gt;截至目前，巴菲特已累计捐出约62%的伯克希尔持股。若他选择留存这些股票，以当前市值估算，这部分股份约价值2600亿美元，届时其个人净资产将超过4200亿美元，成为仅次于埃隆·马斯克的全球第二大富豪。&lt;/p&gt;
-
-伯克希尔股价：年内涨逾19%，大幅跑赢标普500
-
-&lt;p&gt;&lt;strong&gt;今年以来，伯克希尔股价累计上涨逾19%，创下每股超过593美元的历史新高，市值接近1.3万亿美元，同期标普500指数涨幅约为10%，伯克希尔表现明显领先大盘。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;巴菲特已于去年底正式卸任伯克希尔CEO一职，由Greg Abel接掌公司领导权。今年9月，他又辞去董事长职务，就此结束长达六十余年的掌舵生涯，并在辞职信中详述了这一决定背后的考量。&lt;/p&gt;
-
-250字的信：善意也有复利
-
-&lt;p&gt;尽管捐赠金额创下新高，巴菲特这次留给外界的文字却出奇地少。他在信中写道，去年感恩节他提到&amp;quot;善意没有成本，却无价&amp;quot;，而今年他只想补充一点：&amp;quot;它会复利增长，而且速度比查理和我买过的任何东西都要快。&amp;quot;&lt;/p&gt;
-&lt;p&gt;他将这种&amp;quot;无法量化的无成本收益&amp;quot;归因于Benjamin Graham、Tom Murphy等师长与导师的影响，认为正是这些人的慷慨付出，使他与芒格不仅实现了巨大的物质成功，也得以将所受惠泽继续传递下去。&lt;/p&gt;
-&lt;p&gt;信的结尾，他以一贯简练的风格写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;这个感恩节，感谢你生命中那些无私的人。更好的做法是，成为别人生命中的恩人。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔掌舵伯克希尔再加码房产与航空股，美银、Capital One继续减持，新进“App翻新工厂”</title><link>https://wallstreetcn.com/articles/3786052</link><guid>3a40d57a3864bbb8c253d3049f2050efcf721ff13db818870478b136c6505beb</guid><pubDate>Mon, 16 Nov 2026 22:13:06 GMT</pubDate><description>&lt;p&gt;在格雷格·阿贝尔（Greg Abel）接棒“股神”巴菲特掌舵的第三个季度，伯克希尔·哈撒韦继续调整股票组合，房屋建筑商和航空公司成为增持重点，金融股则继续遭到削减，同时还将一家擅长收购和改造成熟App的意大利科技公司纳入投资组合。&lt;/p&gt;
+&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔掌舵伯克希尔再加码房产与航空股，美银、Capital One继续减持，新进“App翻新工厂”</title><link>https://wallstreetcn.com/articles/3786052</link><guid>3a40d57a3864bbb8c253d3049f2050efcf721ff13db818870478b136c6505beb</guid><pubDate>Mon, 16 Nov 2026 22:13:06 GMT</pubDate><description>&lt;p&gt;在格雷格·阿贝尔（Greg Abel）接棒“股神”巴菲特掌舵的第三个季度，伯克希尔·哈撒韦继续调整股票组合，房屋建筑商和航空公司成为增持重点，金融股则继续遭到削减，同时还将一家擅长收购和改造成熟App的意大利科技公司纳入投资组合。&lt;/p&gt;
 &lt;p&gt;美东时间11月16日周一，伯克希尔向美国证监会（SEC）提交的2026年第三季度13F文件显示，公司继续增持房屋建筑商Lennar（LEN）和达美航空（DAL），其中Lennar A类股持仓接近翻倍；另一方面，伯克希尔继续减持美国银行（BAC）、信用卡公司Capital One（COF）、零售商Kroger（KR）和医疗服务公司DaVita（DVA），并削减域名注册服务商VeriSign（VRSN）的持仓。&lt;/p&gt;
 &lt;p&gt;三季度，伯克希尔主要持仓最引人注目的新面孔是收购“过气软件”起家的意大利科技公司Bending Spoons（BSP），当季持有约2069万股，披露市值约6.89亿美元。在今年上半年持续大举加码之后，三季度伯克希尔未再加码谷歌母公司Alphabet，其仓位和苹果等其他二季度排在前十的重仓股一样稳居前十。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -538,7 +483,39 @@ AI“股神”、Situational Awareness基金：规模单季度缩水187亿美元
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;高瓴HHLR&lt;/strong&gt;：增持拼多多789%、阿里巴巴1,250%，两只合计占组合近四成。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;段永平H&amp;amp;H&lt;/strong&gt;：总市值约172亿美元，拼多多加仓296.88万股升为第三大重仓（12.69%），特斯拉增至8.42%；英伟达减持63%，占比从6.58%降至3.08%。段永平随后公开表态&amp;quot;不看空但暂时也不加码&amp;quot;，并表示&amp;quot;买英伟达的大部分理由还在，只是黄仁勋不在了&amp;quot;，计划买回被call走的股票。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高毅资产&lt;/strong&gt;：清仓英伟达、美光、闪迪，大幅加仓阿里巴巴、BOSS直聘。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高毅资产&lt;/strong&gt;：清仓英伟达、美光、闪迪，大幅加仓阿里巴巴、BOSS直聘。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 全球股市四连跌，英伟达绩前跌幅加深，韩股收跌2.6%，油价下跌</title><link>https://wallstreetcn.com/articles/3786084</link><guid>72911ae581c04c1e1eff9b473cb62fe2b12eeb98395e0a21104b564286732bf1</guid><pubDate>Tue, 17 Nov 2026 07:49:04 GMT</pubDate><description>&lt;p&gt;全球股市跌势蔓延至第四个交易日，英伟达财报前夕的避险情绪令亚太市场首当其冲。油价同步下挫，市场风险偏好持续受压。&lt;/p&gt;
+&lt;p&gt;标普500指数期货下跌0.2%，而纳斯达克100指数在连续三天下跌后涨幅不大。MSCI亚太股票指数盘中最大跌幅达1.5%，逼近4月初以来最低收盘位，韩国股市领跌。与此同时，英伟达股价周一下跌4.1%，本周将公布的季度财报及首席执行官黄仁勋去留问题，共同构成近期AI交易方向的两大关键变量。MSCI全球股票指数周二小幅下滑0.2%，连续第四日录得跌幅。&lt;/p&gt;
+&lt;p&gt;大宗商品市场方面，布伦特原油跌破每桶92美元，WTI原油下跌0.9%至每桶84.98美元，供应过剩迹象及美国副总统JD Vance释放的避免对伊战争长期化信号共同施压油价。现货黄金小幅上涨0.5%至每盎司3874.40美元。&lt;/p&gt;
+&lt;p&gt;Bloomberg彭博策略师Mark Cranfield指出，韩国综合指数、中国台湾加权指数和日经225指数仍面临新一轮抛售风险，交易员在流动性枯竭前倾向于主动降低风险敞口。随着Anthropic上市及感恩节假期临近，今年市场重新布局的窗口期或将早于往年关闭。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;标普500指数期货下跌0.2%，而纳斯达克100指数在连续三天下跌后涨幅不大。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日经225指数收盘下跌1.3%，报58,860.43点。日本东证指数收盘下跌1.6%，报3,840.02点。韩国首尔综指收盘下跌2.6%，报4,968.48点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;美元现货指数变化不大&lt;/li&gt;
+&lt;li&gt;美国10年期国债收益率变化不大，为5.13%&lt;/li&gt;
+&lt;li&gt;日本10年期收益率持平，为2.880%&lt;/li&gt;
+&lt;li&gt;布伦特原油跌破每桶92美元，WTI原油价格下跌0.9%，至每桶84.98美元&lt;/li&gt;
+&lt;li&gt;现货黄金上涨0.5%，至每盎司3,874.40美元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+英伟达财报与Anthropic上市，AI交易面临双重考验
+
+&lt;p&gt;市场目光正聚焦于两大即将到来的事件。英伟达周二发布季度财报，将为市场提供芯片需求现状及黄仁勋离职影响的直接参照。Anthropic PBC则预计本周完成首次公开募股，承销银行方面预期周三定价、周四挂牌交易，届时有望创下史上最大规模IPO纪录。据彭博援引知情人士透露，Anthropic此次发行获得的认购需求约为可售股份的七倍。&lt;/p&gt;
+&lt;p&gt;英伟达股价周一跌4.1%，此前已经历2025年4月以来最差单周表现。围绕黄仁勋去留的不确定性同样牵动市场神经——美国财政部长Scott Bessent呼吁进行&amp;quot;大刀阔斧&amp;quot;的领导层更迭，特朗普总统亦表态支持黄仁勋复职，而黄仁勋的盟友也在积极推动其回归。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;UBS金融顾问兼董事总经理Xi Qiao表示，英伟达在出口限制趋严和管理层不确定性双重压力下，面临尤为严峻的财报前景，预计英伟达及更广泛的AI交易短期内将持续震荡，市场需消化AI生态投资放缓及潜在供应链扰动的影响。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+美联储加息预期高企，美债收益率维持高位
+
+&lt;p&gt;在AI担忧升温的同时，美联储政策路径亦令市场承压。美联储官员近期发出信号，12月大概率再度加息。克利夫兰联储主席Beth Hammack表示倾向于小幅、稳步加息，而联储理事Christopher Waller此前曾提出，若通胀压力恶化，不排除一次性加息50个基点的可能性。&lt;/p&gt;
+&lt;p&gt;基准10年期美债收益率周二维持在5.13%，华侨银行（OCBC）策略师Sim Moh Siong等人在报告中指出，避险情绪与AI忧虑并行升温，但鹰派联储的风险使美债收益率居高不下，难以快速回落。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;太平洋投资管理公司（PIMCO）则认为，随着数据中心建设放缓压缩相关债券供给，为AI建设融资的债券信用利差或将收窄，一定程度上缓解信用市场压力。&lt;/p&gt;
+&lt;p&gt;外汇市场，新西兰元跌至兑美元六年低位，部分原因在于新西兰与美国之间的利差持续扩大。彭博美元即期指数变动甚微，日元小幅升值0.1%至每美元159.26。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
 &lt;p&gt;据彭博对桥水联合基金（Bridgewater Associates LP）13F文件的分析，截至9月30日，该基金披露的974项投资头寸总市值达230亿美元。&lt;/p&gt;
 &lt;p&gt;本季度持仓变动显示，桥水大幅增持高通、AppLovin及存储芯片股美光、闪迪，同时削减谷歌母公司Alphabet与亚马逊的持仓，并清仓联合太平洋铁路等工业股。&lt;/p&gt;
 &lt;p&gt;医疗健康板块的持仓权重录得最大幅度提升，工业板块则降幅最为显著。&lt;/p&gt;
@@ -610,4 +587,30 @@ A股优于离岸：国家队托底，结构转型加速
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达三季度美股持仓缩水逾151亿美元，减持英特尔、增持SpaceX</title><link>https://wallstreetcn.com/articles/3786057</link><guid>abafcbc3cb4f2ca80e5adb9d20ac1650b51527d07fa56d1b6f0527a69d95d46b</guid><pubDate>Mon, 16 Nov 2026 23:42:11 GMT</pubDate><description>&lt;p&gt;英伟达三季度美股持仓缩水逾两成，SpaceX超越英特尔升至第一重仓。&lt;/p&gt;
+&lt;p&gt;英伟达提交的最新监管文件显示，截至2026年9月30日，该公司持有的8只美股证券总市值为483.31亿美元，较二季度末的634.40亿美元环比下降23.82%，主要受减持英特尔及多只重仓股估值回落拖累。&lt;/p&gt;
+&lt;p&gt;（英伟达2026年第三季度13F持仓及环比变化明细）&lt;/p&gt;
+&lt;p&gt;最为显著的变动发生在前两大重仓股之间。&lt;strong&gt;英伟达在三季度减持了约四分之一的英特尔股份，同时小幅增持SpaceX股份，推动后者反超英特尔成为英伟达第一大美股持仓。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;整体来看，英伟达在三季度对4只持仓股进行了结构性调整，其中增持1只、减持3只，其余4只保持持股数量不变。&lt;/p&gt;
+&lt;p&gt;尽管总持仓市值大幅收缩，英伟达的外部股权配置依然高度集中。&lt;strong&gt;前两大重仓股合计市值达390.50亿美元，占整体投资组合的80.80%&lt;/strong&gt;，其余6只标的合计占比不足两成，所有持仓均由英伟达独立行使投资决策权与投票权。&lt;/p&gt;
+总持仓环比缩水逾两成，前两大重仓易主
+&lt;p&gt;对比2026年二季度末的634.40亿美元持仓规模，英伟达三季度美股持仓总市值环比减少151.09亿美元，降幅为23.82%，但持仓标的列表维持8只不变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在头部重仓股调整方面，太空探索技术公司A类普通股跃升为第一大重仓股。&lt;/strong&gt;三季度末，英伟达持有该公司约1.30亿股，较二季度末增加约771万股，环比增幅为6.28%。&lt;/p&gt;
+&lt;p&gt;受股价波动影响，该笔持仓市值由二季度末的209.76亿美元微降至196.83亿美元，环比下降6.16%，但占总持仓比例由33.06%大幅提升至40.73%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英特尔普通股则退居第二大重仓股&lt;/strong&gt;。英伟达在三季度减持了约5369万股英特尔股票，持股总量由二季度末的约2.15亿股降至约1.61亿股，环比减幅达250%。&lt;/p&gt;
+&lt;p&gt;叠加股价下跌影响，英伟达对英特尔的持仓市值由二季度末的约299.9亿美元降至193.67亿美元，环比缩水35.42%，持仓占比从47.27%降至40.07%。&lt;/p&gt;
+诺基亚与新思科技遭减持，四只标的持股未变
+&lt;p&gt;&lt;strong&gt;除英特尔外，英伟达在三季度还对另外两只科技与通信标的进行了减持操作，其中诺基亚减持幅度较大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;截至三季度末，英伟达持有诺基亚ADR约7286万份，较二季度末的约1.66亿份大幅减少约 9,353万份，环比减幅达56.21%；对应持仓市值由22.10亿美元降至7.39亿美元，环比减少66.56%，占比由3.48%降至1.53%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另一只遭减持的标的是新思科技。&lt;/strong&gt;三季度末，英伟达持有新思科技普通股约435万股，较二季度末的约482万股减少约47万股，环比减持9.70%；持仓市值由 21.51亿美元降至18.94亿美元，环比下降11.95%，占比由3.39%微升至3.92%。&lt;/p&gt;
+&lt;p&gt;与此同时，投资组合中的其余4只标的在三季度均未发生持股数量变动，仅因股价波动出现市值调整。具体来看：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CoreWeave&lt;/strong&gt; A类普通股持股维持在约4721万股，市值由二季度末的约47.0亿美元降至41.13亿美元，占比由7.41%升至8.51%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;COHERENT&lt;/strong&gt;普通股持股维持约779万股，市值由30.72亿美元降至 22.42亿美元，占比 4.64%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nebius集团&lt;/strong&gt;A类股持股维持约 119万股，市值由约3.29亿美元降至2.81亿美元，占比 0.58%；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generate Biomedicines&lt;/strong&gt;普通股持股维持约83.3万股，市值由约1410万美元降至1252万美元，占比0.03%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在资产管理架构与治理权限方面，英伟达三季度13F报告与二季度保持一致。报告显示，英伟达在此次申报中未列示任何其他联合管理人。&lt;/p&gt;
+&lt;p&gt;对于全部8只持仓标的，英伟达均拥有完全独立的投资决策权，并对所有持仓股份行使100%的单独投票权，不存在共同投票或无投票权股份。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
