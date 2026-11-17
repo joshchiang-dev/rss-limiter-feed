@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 16 Nov 2026 23:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 小牛电动销量增长15%，单车收入下降拖累盈利</title><link>https://wallstreetcn.com/articles/3786035</link><guid>4b8f5e5971c1d35546debb9d4e8b374fa8fd16f7ffe42266d045981798e837f8</guid><pubDate>Mon, 16 Nov 2026 14:08:52 GMT</pubDate><description>&lt;p&gt;小牛电动卖出了更多车，利润却同比承压。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 00:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] 小牛电动销量增长15%，单车收入下降拖累盈利</title><link>https://wallstreetcn.com/articles/3786035</link><guid>4b8f5e5971c1d35546debb9d4e8b374fa8fd16f7ffe42266d045981798e837f8</guid><pubDate>Mon, 16 Nov 2026 14:08:52 GMT</pubDate><description>&lt;p&gt;小牛电动卖出了更多车，利润却同比承压。&lt;/p&gt;
 
 &lt;p&gt;11月16日，小牛电动发布2026年三季度财报，整车销量53.75万辆，同比增长15.4%，营收17.14亿元，同比增长1.2%。公司当季净亏损3400万元，上年同期为盈利8170万元。销量增幅与收入增幅之间的落差，主要来自单车收入下降。&lt;/p&gt;
 &lt;p&gt;中国市场的变化尤其明显。三季度，小牛国内销量同比增长8.6%，但单车收入下降11.6%至2902元，国内整车销售收入因此下降4%。&lt;/p&gt;
@@ -17,33 +17,7 @@
 &lt;p&gt;收入增长后，运营费用占收入的比例有所下降，表明销量扩大开始帮助公司分摊费用。同比承压与环比修复同时存在，是这份财报呈现出的主要变化。&lt;/p&gt;
 &lt;p&gt;公司预计四季度营收同比增长40%至60%。要让收入增长进一步转化为减亏，小牛仍需改善国内产品组合，并控制费用增长。&lt;/p&gt;
 &lt;p&gt;海外业务可以增加收入来源，但短期内，国内每辆车能贡献多少毛利，依然是盈利修复的重要变量。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑石旗下数据中心巨头融资缩水60%，AI融资寒气蔓延至投资级债券！</title><link>https://wallstreetcn.com/articles/3786023</link><guid>732c1db774e9a6a07f93332ae26d0d68765a38b0a6a9a5a6effdf2cdf6dfbf56</guid><pubDate>Mon, 16 Nov 2026 12:11:57 GMT</pubDate><description>&lt;p&gt;黑石集团旗下数据中心运营商QTS的一笔债券发行遭遇重挫，标志着AI基础设施融资热潮正在从市场底层向顶端蔓延。这不仅是一家公司的融资困境，更是整个AI数据中心债务市场饱和信号的集中显现。&lt;/p&gt;
-&lt;p&gt;据彭博报道，QTS原计划通过私募债务市场融资8亿美元，最终仅完成约3亿美元，缩水幅度约60%。其中包括一笔1亿美元、期限七年的私募票据，以及一笔2亿美元、仍待定价的五年期银行贷款。QTS是黑石2021年以100亿美元收购的大型数据中心运营商，在业内被视为投资级信用中的顶尖借款方。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此次融资受挫的直接影响在于：原本用于置换现有五年期银行贷款的资金缺口无法填补，相关银行贷款将继续留在银行资产负债表上。更深远的影响是，这一事件向市场传递出明确信号——即便是黑石背书、投资级评级的数据中心资产，也已难以在私募市场按意愿价格完成融资，AI数据中心债务市场的资金窗口正在系统性收窄。&lt;/p&gt;
-黑石拒绝以更高收益率换取资金
-&lt;p&gt;此次交易于10月26日通过特殊目的载体QTS Thunder Managing Issuer LLC启动，由瑞穗、法国外贸银行、法兴银行和富国银行联合安排，票据期限为七至十五年，原计划数日内完成定价，但拖延了整整三周。&lt;/p&gt;
-&lt;p&gt;最终落地的1亿美元七年期私募票据定价为基准利率上浮245个基点。以当前十年期美债收益率5.15%为参照，这意味着一家投资级房东的融资成本已超过7%。相比之下，QTS今年4月发行的首笔绿色项目债券——穆迪评级Baa2、期限十年——初始定价区间仅约162.5个基点。据彭博数据，高盛本月初追踪的美元投资级指数利差约为89个基点，此次QTS的定价约为该水平的2.7倍。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据彭博援引知情人士称，黑石不愿在此次借款中提供显著更高的收益率，原因在于其跨多个市场和发行主体频繁融资，QTS交易若以更高价格成交，将为投资者评估其他黑石相关债务时提供更昂贵的参考基准。换言之，黑石选择宁可少借，也不愿让这笔交易为整个融资体系定下更高的成本锚点。&lt;/p&gt;
-私募市场趋于饱和，买家已无余力
-&lt;p&gt;此次融资受阻，并非单纯的价格问题。据彭博援引知情人士，部分投资者对定价不满，但另一部分投资者则是因为QTS已多次进入私募配售市场，持仓已达上限，无力继续增持。&lt;/p&gt;
-&lt;p&gt;从数据来看，QTS在过去约18个月内累计发行债务规模惊人：私募市场合计约24.5亿美元，加上今年4月和8月分别发行的46亿美元和39亿美元绿色项目债券，四笔交易合计约110亿美元。这一数字已超过黑石2021年收购QTS的全部价款，且尚未计入商业抵押贷款支持证券及银行信贷额度。&lt;/p&gt;
-&lt;p&gt;据彭博援引Private Placement Monitor数据，去年投资级私募市场全年发行规模略超2000亿美元。QTS此次寻求的8亿美元约占全年市场容量的0.4%，却仍未能完成募集，充分说明这一细分市场的吸纳能力已接近极限。&lt;/p&gt;
-&lt;p&gt;高盛信贷策略师Amanda Lynam此前在研报中指出，超大规模云计算商已提前两个月突破该行全年2500亿美元的发行预测，AI相关交易11月的新发溢价已超过18个基点，远高于全年均值3.4个基点。高盛在其旗舰报告中总结称，投资者日益规避风险，市场饱和已成为AI债务发行潮的首要制约因素。&lt;/p&gt;
-&lt;p&gt;巴克莱的研究同样印证了这一趋势：AI生态系统债券相对投资级指数的利差，已从一年前的收窄10个基点扩大至走阔约44个基点。&lt;/p&gt;
-14吉瓦管线背后的融资压力
-&lt;p&gt;QTS此次融资受挫，折射出其庞大建设计划与资本市场承接能力之间日益扩大的裂口。&lt;/p&gt;
-&lt;p&gt;根据Bernstein/Aterio项目数据库，QTS在美国共有257个项目记录，总规划容量约14.3吉瓦，Bernstein给予其满分5.0的可信度评级，在全美开发商中位列前五。&lt;/p&gt;
-&lt;p&gt;具体而言，QTS目前已有约3.0吉瓦处于运营状态，分布于里士满、亚特兰大、凤凰城、北弗吉尼亚等地；在建容量约4.2吉瓦，主要包括犹他州Eagle Mountain（1.05吉瓦）、爱荷华州Cedar Rapids（1.05吉瓦，数据库标注与Meta相关）、佐治亚州Fayetteville（0.7吉瓦，与微软及OpenAI相关）等；另有约7.1吉瓦已公告但尚未动工，分布于佐治亚州Blakely、德克萨斯州Caprock园区、阿拉巴马州Bessemer等地；此外还有约1.6吉瓦项目已被取消，包括QTS于7月放弃的Prince William Digital Gateway。&lt;/p&gt;
-&lt;p&gt;以每吉瓦建设成本保守估算，QTS在11.3吉瓦未完工及未开工的美国产能上，面临的资本支出需求极为庞大，且大部分依赖外部融资。而在已公告的在建项目中，数据库仅能为约1.6吉瓦匹配到具名租户，7.1吉瓦的规划产能则尚无任何租户信息披露。&lt;/p&gt;
-&lt;p&gt;此外，约四分之三的未建管线位于Bernstein目前施加政治风险折扣的州。德克萨斯州涉及2.3吉瓦，而该州候任州长已承诺对数据中心实施限制；佐治亚州涉及约1.8吉瓦，同样面临审批暂停风险。&lt;/p&gt;
-从垃圾债到投资级，资金窗口逐层关闭
-&lt;p&gt;QTS事件的深层意义，在于它揭示了AI数据中心融资市场收缩的系统性路径。&lt;/p&gt;
-&lt;p&gt;据ZeroHedge梳理，过去数月间，AI数据中心的融资渠道已按照从底层到顶层的顺序依次收窄：IPO市场率先降温，高收益债券市场自9月底以来周度发行量归零，私募投资级市场如今也出现明显阻力。黑石旗下Blackstone Digital Infrastructure Trust（BXDC）自5月以20美元发行以来，已跌至16.69美元附近，跌幅约17%，且恰在锁定期届满后不久。黑石旗下AirTrunk单元亦将原定的15亿美元REIT IPO推迟至2027年。&lt;/p&gt;
-&lt;p&gt;高盛预计2027年AI项目融资需求将在4400亿美元超大规模云计算商直接债券之外，再增加约3000亿美元。但私募市场数据显示，今年数据中心私募融资规模约为1000亿美元，已低于去年的1300亿美元，私募信贷在其中的占比更是微乎其微。&lt;/p&gt;
-&lt;p&gt;摩根士丹利今年10月发布的AI融资报告将当前局面定性为&amp;quot;暂停而非撤退&amp;quot;，但从此后市场走势来看，这一判断正面临越来越大的压力。&lt;/p&gt;
-&lt;p&gt;对于市场而言，QTS的遭遇提出了一个更为尖锐的问题：如果黑石背书、投资级评级的顶级借款方只能以要价的37%完成融资，那些信用评级更低、项目可信度更弱的开发商，将如何在2027年和2028年完成高收益项目债券的再融资？&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：美联储正为三种AI影响制定预案，若泡沫破裂，或引发股市走弱并拖累经济与就业</title><link>https://wallstreetcn.com/articles/3786043</link><guid>fa7f0e14a904d5fcb6abe73035a279d88e63ab3e5118bf97db152eb296bcd7a7</guid><pubDate>Mon, 16 Nov 2026 17:56:21 GMT</pubDate><description>&lt;p&gt;美联储正式将人工智能冲击纳入宏观政策框架。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：美联储正为三种AI影响制定预案，若泡沫破裂，或引发股市走弱并拖累经济与就业</title><link>https://wallstreetcn.com/articles/3786043</link><guid>fa7f0e14a904d5fcb6abe73035a279d88e63ab3e5118bf97db152eb296bcd7a7</guid><pubDate>Mon, 16 Nov 2026 17:56:21 GMT</pubDate><description>&lt;p&gt;美联储正式将人工智能冲击纳入宏观政策框架。&lt;/p&gt;
 &lt;p&gt;美联储主席沃什周一表示，&lt;strong&gt;美联储工作人员已开始就人工智能快速普及对美国经济的潜在影响制定应急预案，涵盖从生产力繁荣、大规模失业、技术泡沫破裂的三种截然不同路径。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;沃什在旧金山联储主办的公开会议上发表上述讲话，此次会议旨在正式启动他设立的人工智能专项工作组。他明确表示，这些情景并非经济预测，美联储的职责在于客观评估而非表态立场。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;沃什延续了其一贯风格，未就货币政策近期走向发表任何直接评论。&lt;/strong&gt;&lt;/p&gt;
@@ -430,7 +404,19 @@ GOOG
 &lt;p&gt;苹果持仓数量继续保持稳定，仍是伯克希尔最重要的股票投资。美国运通、可口可乐等传统核心资产也没有出现明显的持股数量变化。&lt;/p&gt;
 &lt;p&gt;整体而言，伯克希尔第三季度并未大幅改写其核心重仓股格局，真正值得关注的是组合内部的调整：Lennar持仓接近翻倍，达美航空连续第三个季度获得增持；美国银行和Capital One继续遭到削减；Alphabet在连续两个季度大举加仓后暂停增持，而Bending Spoons则成为一笔新的重要科技投资。&lt;/p&gt;
 &lt;p&gt;伯克希尔第三季度财报还显示，公司当季回购自身股票约96亿美元，前三季度累计回购约144亿美元。截至9月30日，公司持有的现金、现金等价物及美国国债约3523亿美元。相比之下，公司第三季度买入其他公司股票约23.7亿美元、卖出约27.9亿美元，股票投资仍呈现净卖出状态。&lt;/p&gt;
-&lt;p&gt;这也意味着，尽管阿贝尔领导下的伯克希尔持续调整股票组合，并通过Bending Spoons等投资探索新的资本配置方向，公司仍然保留了庞大的现金储备。住宅建筑、航空和数字应用并购平台成为本季度值得关注的新投资方向，但伯克希尔整体的资本配置仍然相当审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
+&lt;p&gt;这也意味着，尽管阿贝尔领导下的伯克希尔持续调整股票组合，并通过Bending Spoons等投资探索新的资本配置方向，公司仍然保留了庞大的现金储备。住宅建筑、航空和数字应用并购平台成为本季度值得关注的新投资方向，但伯克希尔整体的资本配置仍然相当审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 进军股票交易！市场预测巨头Kalshi收购了一家券商</title><link>https://wallstreetcn.com/articles/3786062</link><guid>8b96ab80e66e9248e7d6e0277dab6cf1375aa58ab45314c81e1967bda79ccf14</guid><pubDate>Tue, 17 Nov 2026 00:12:29 GMT</pubDate><description>&lt;p&gt;预测市场平台Kalshi正将业务版图延伸至华尔街最传统的领域。&lt;/p&gt;
+&lt;p&gt;据华尔街日报11月16日消息，&lt;strong&gt;知情人士透露，Kalshi已于今年7月收购了总部位于纽约的小型券商FB Securities，并计划在未来两个月内正式推出股票交易服务。&lt;/strong&gt;此举是该公司构建多资产金融交易所这一更宏观战略的组成部分。与此同时，Kalshi正与投资者洽谈新一轮融资，&lt;strong&gt;该轮融资对公司的估值将达650亿美元&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这一扩张动作发生在Kalshi持续面临监管压力的背景之下。预测市场平台目前仍与多个州陷入法律纠纷，争议焦点在于其事件合约是否构成受州法律监管的非法赌博行为。就在本周一，九位民主党参议员联名致函商品期货交易委员会（CFTC），要求其暂停对预测市场主张监管权的相关举措。&lt;/p&gt;
+收购FB Securities，股票交易两个月内上线
+&lt;p&gt;据报道，知情人士透露，Kalshi收购的FB Securities成立于2024年，根据证券业自律机构金融业监管局（Finra）的备案文件，该公司由首席执行官John Rosanelli领导。&lt;strong&gt;FB Securities的部分员工将留任并加入Kalshi团队。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kalshi计划通过此次收购，向用户提供股票、交易所交易基金（ETF）及类似产品的交易服务，将其平台从预测市场合约拓展为覆盖多类资产的综合性金融交易所。&lt;/p&gt;
+永续期货先行，多资产布局加速推进
+&lt;p&gt;股票交易并非Kalshi多元化扩张的起点。&lt;strong&gt;今年以来，Kalshi已积极布局永续期货业务&lt;/strong&gt;——这是一种源自加密货币市场的衍生品，在海外市场人气迅速攀升。永续期货无到期日、支持全天候交易，并允许使用杠杆以放大潜在收益与损失。&lt;/p&gt;
+&lt;p&gt;Kalshi今年已陆续推出与加密货币、贵金属及大宗商品挂钩的永续期货合约。&lt;strong&gt;本月早些时候，该公司进一步推出了与逾50只个股挂钩的永续期货，标的包括麦当劳、SpaceX和Meta。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，知情人士称，Kalshi还计划在未来数月内推出算力期货（compute futures），允许投资者和企业对AI算力租赁价格进行交易和对冲。&lt;/p&gt;
+监管压力持续，法律争议未息
+&lt;p&gt;尽管业务扩张步伐积极，Kalshi在监管层面仍面临重重阻力。预测市场平台与多个州之间的法律纠纷悬而未决，核心争议在于其&amp;quot;是/否&amp;quot;式事件合约是否属于受州法律约束的非法赌博。&lt;/p&gt;
+&lt;p&gt;据华尔街日报报道，&lt;strong&gt;2026年中期选举民主党横扫国会后，上述监管压力明显加剧。&lt;/strong&gt;本周一，九位民主党参议员联名致函CFTC，要求该机构叫停其对预测市场主张联邦监管权的相关努力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊</title><link>https://wallstreetcn.com/articles/3786053</link><guid>5d953f25b06ac20ec5c9f18c06dbeb4111518033fc1394c34b6c89b74644f521</guid><pubDate>Mon, 16 Nov 2026 22:40:22 GMT</pubDate><description>&lt;p&gt;桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。&lt;/p&gt;
 &lt;p&gt;据彭博对桥水联合基金（Bridgewater Associates LP）13F文件的分析，截至9月30日，该基金披露的974项投资头寸总市值达230亿美元。&lt;/p&gt;
 &lt;p&gt;本季度持仓变动显示，桥水大幅增持高通、AppLovin及存储芯片股美光、闪迪，同时削减谷歌母公司Alphabet与亚马逊的持仓，并清仓联合太平洋铁路等工业股。&lt;/p&gt;
 &lt;p&gt;医疗健康板块的持仓权重录得最大幅度提升，工业板块则降幅最为显著。&lt;/p&gt;
@@ -461,7 +447,25 @@ GOOG
 &lt;p&gt;桥水完全退出联合太平洋铁路，该仓位减少51.4万股，市值减少约1.40亿美元，成为本季度最大的清仓操作。同期，卡车制造商Paccar亦遭清仓，持仓减少94.6万股，市值减少约1.14亿美元，该股季内价格下跌约8.6%。此外，云计算公司Nutanix和标普全球（S&amp;amp;P Global）亦被完全退出。&lt;/p&gt;
 &lt;p&gt;医疗健康板块本季度获得最大幅度的权重提升。新建仓位包括医疗器械巨头Medtronic Plc和爱尔兰药企Jazz Pharmaceuticals Plc，但具体金额未在数据中单独列示。&lt;/p&gt;
 &lt;p&gt;能源方向，&lt;strong&gt;桥水新建了西方石油仓位155万股，市值约8577万美元；同时新买入电力公司Dominion Energy约151.6万股，市值约9176万美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，科技细分领域的Synaptics、Fortinet及思科亦为本季度新进标的，市值分别约7835万美元、7541万美元及7120万美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 22:26:42 GMT</pubDate><description>&lt;p&gt;Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。&lt;/p&gt;
+&lt;p&gt;此外，科技细分领域的Synaptics、Fortinet及思科亦为本季度新进标的，市值分别约7835万美元、7541万美元及7120万美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普支持黄仁勋回归，英伟达董事会称暂不考虑复职事项</title><link>https://wallstreetcn.com/articles/3786042</link><guid>4af526cbd2cec0d820d3921c05b97b698ce6dc16165af0525d11ea3e0f8188ae</guid><pubDate>Tue, 17 Nov 2026 00:16:31 GMT</pubDate><description>&lt;p&gt;英伟达股价周一震荡，特朗普公开表态支持黄仁勋重返CEO职位。&lt;/p&gt;
+&lt;p&gt;特朗普周一在白宫向记者表示，&lt;strong&gt;“我不反对”黄仁勋复职，认为黄仁勋“吸取了深刻教训”，并称“很多人希望黄仁勋回来，这肯定不是个坏主意”。&lt;/strong&gt;他同时为黄仁勋辩护称，美国国家安全“没有受到威胁”。&lt;/p&gt;
+&lt;p&gt;特朗普还透露，黄仁勋辞职后不久他曾与其通话。&lt;/p&gt;
+&lt;p&gt;然而，据知情人士向媒体透露，尽管部分投资者和员工持续发出呼声，&lt;strong&gt;英伟达董事会目前明确不考虑恢复黄仁勋的CEO职务。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随后，CNBC援引知情人士透露，&lt;strong&gt;董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。英伟达已聘请法律事务所Wachtell Lipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在特朗普发表上述言论期间，英伟达股价一度短暂转涨，随后继续下跌至-2%左右。CNBC相关报道发布后，英伟达股价持续下跌至4.5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;英伟达董事会于上周五表示，正在遴选猎头公司，启动CEO职位的正式搜寻程序。前首席财务官Colette Kress已于上周四被任命为临时CEO。 黄仁勋上周因婚外情丑闻辞去担任长达33年的CEO职务。&lt;/p&gt;
+&lt;p&gt;与此同时，美国商务部周一发布了一项规定，限制英伟达等美国公司向马来西亚、泰国、印度尼西亚、新加坡和巴西出货芯片。商务部长Howard Lutnick此前是黄仁勋的重要盟友，目前因其在阻止芯片出口限制方面的努力，已成为政府内部追责的矛头所指之一。&lt;/p&gt;
+特朗普与贝森特立场相左，硅谷游说力量集结力挺黄仁勋
+
+&lt;p&gt;特朗普此番表态与财政部长贝森特的立场存在明显分歧。贝森特此前呼吁英伟达进行“大幅重组”，并启动外部领导层搜寻程序。&lt;/p&gt;
+&lt;p&gt;特朗普还再度提及，&lt;strong&gt;他支持前苹果CEO蒂姆·库克出任英伟达新领导人——这一表态他在上周黄仁勋辞职后已首次提出，周一再次重申。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，支持黄仁勋复职的力量正在加速汇聚。据英国《金融时报》报道，&lt;strong&gt;黄仁勋已与亲信讨论重返职位的可能性，硅谷高管们也正在组建&amp;quot;战情室&amp;quot;，积极游说白宫为其背书。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;投资机构Altimeter Capital Management和Atreides Management联合致信英伟达董事会，信中以&amp;quot;黄仁勋长期领导所取得的卓越成就&amp;quot;及其离任带来的不确定性为由，敦促董事会以&amp;quot;缓慢、审慎、深思熟虑&amp;quot;的方式处理领导层问题，并明确将&amp;quot;黄仁勋潜在回归&amp;quot;列为应当考虑的选项。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;多名英伟达投资者敦促董事会暂缓任命永久CEO，待上周启动的调查结束后再作决定。&lt;/strong&gt;与此同时，一批知名人士联署公开信，呼吁黄仁勋复职。签署者包括Uber联合创始人Travis Kalanick、科技投资人Gavin Baker、Shopify CEO Tobias Lutke以及Epic Games CEO Tim Sweeney等。&lt;/p&gt;
+&lt;p&gt;SpaceX与特斯拉CEO埃隆·马斯克——黄仁勋的另一位盟友——亦公开表态支持其复出，并在X平台上签署了一份目前已逾18万人联署的网络请愿书。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此外，国会多个委员会已要求黄仁勋于下月初就其与Alice Huang的关系接受质询。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高</title><link>https://wallstreetcn.com/articles/3785999</link><guid>279acd3b1b4bd6bea28a11520a1b980132e4b3316bdb6fee39b971924f29cd04</guid><pubDate>Mon, 16 Nov 2026 22:26:42 GMT</pubDate><description>&lt;p&gt;Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;标普500指数&lt;/strong&gt;收跌1.9%，&lt;strong&gt;纳指&lt;/strong&gt;数重挫2.5%，&lt;strong&gt;道指&lt;/strong&gt;下滑1.4%，全球股票基准MSCI世界指数亦跌1.6%。半导体板块首当其冲，&lt;strong&gt;芯片指数&lt;/strong&gt;单日下挫5.3%，AI与科技板块的广泛去风险操作令科技巨头也无从幸免。&lt;/p&gt;
 &lt;p&gt;与此同时，原油价格在地缘冲突消息中意外下行，&lt;strong&gt;布伦特原油&lt;/strong&gt;跌至约93美元/桶，&lt;strong&gt;WTI原油&lt;/strong&gt;跌约3.5%至85.50美元/桶，但股市与大宗商品的双双走软并未提振债券，&lt;strong&gt;美债收益率横盘&lt;/strong&gt;。&lt;strong&gt;美元指数&lt;/strong&gt;小幅走高，续创18个月新高，&lt;strong&gt;比特币&lt;/strong&gt;和&lt;strong&gt;黄金&lt;/strong&gt;则双双走低。&lt;/p&gt;
@@ -570,27 +574,4 @@ Anthropic IPO成焦点，科技情绪或现分水岭
 轮动还是陷阱？分歧仍在
 &lt;p&gt;并非所有人都认同这一判断。美银的Hartnett在最新《资金流向》报告中，将&amp;quot;大市值消费股&amp;quot;列为若美元和流动性压力加剧时最易受损的资产之一，同时将可选消费列为未来八周最可能超预期上涨的资产——与Krinsky正在密切关注的比值方向恰好相反。两者之中，必有一错。&lt;/p&gt;
 &lt;p&gt;Krinsky本人也保持审慎。他预计在市场整体下行时，板块间相关性将上升，消费必需品&amp;quot;不会对全面下跌完全免疫&amp;quot;。他对消费必需品对可选消费的等权重比值（RSPS/RSPD）也表示，&amp;quot;现在说这是新上升趋势还为时过早&amp;quot;，但若该比值突破0.58，&amp;quot;将具有重要意义&amp;quot;——上周五收盘于0.569，距突破点约2%。&lt;/p&gt;
-&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门</title><link>https://wallstreetcn.com/articles/3786046</link><guid>eea95d26d067631d29eaee2acb57c30c46bb30b44c66f2d3f6ef9135be57e97b</guid><pubDate>Mon, 16 Nov 2026 21:03:33 GMT</pubDate><description>&lt;p&gt;加拿大央行行长Tiff Macklem确认将于2027年6月任期届满后卸任，不寻求连任。这一消息引发市场对央行未来政策走向及领导层更迭的广泛关注。&lt;/p&gt;
-
-&lt;p&gt;11月16日，加拿大央行发布声明表示，&lt;strong&gt;央行行长Tiff Macklem已告知董事会，他将在2027年6月2日七年任期届满后不再寻求连任。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;央行董事会已启动遴选下一任行长的程序，预计于2027年春季完成招募，新行长任期同样为七年，自2027年6月3日起生效。&lt;/strong&gt;Macklem表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;担任加拿大央行第十任行长是我职业生涯的最高荣誉，在任期间，加拿大在一个更加分裂、更易受冲击的世界中艰难前行，央行以果断行动、审慎判断和对使命的坚定承诺应对了这些挑战。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;在货币政策层面，央行上月将政策利率上调至2.5%，为三年多来首次加息。当前，决策者日益担忧中东局势持续推高油价，可能向更广泛商品和服务传导，进一步推升通胀压力。&lt;/p&gt;
-&lt;p&gt;在此背景下，继任行长的政策立场与应对能力将受到市场密切审视。&lt;/p&gt;
-
-任内经历史上最激进加息周期
-
-&lt;p&gt;Macklem于2020年接掌加拿大央行，彼时新冠疫情已重创全球经济。前任行长Stephen Poloz已将隔夜基准利率降至0.25%，而Macklem上任后的首要举措之一，便是明确承诺低利率将维持相当长一段时间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然而，这一条件性承诺最终被迫撤回。&lt;/strong&gt;大规模财政及货币刺激政策叠加新冠疫情造成的供应冲击，推动通胀在全球范围内急剧攀升。&lt;strong&gt;加拿大通胀率于2022年6月飙升至8.1%，创40年来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为压制通胀，央行随即启动史上最激进加息周期之一，在约18个月内将政策利率累计上调475个基点至5%。这一系列加息对经济增长形成拖累，但最终有效遏制了通胀压力。&lt;/p&gt;
-&lt;p&gt;尽管部分高负债家庭承压明显，加拿大总体上避免了衰退。&lt;/p&gt;
-
-三位候选人进入市场视野
-
-&lt;p&gt;据彭博报道，目前呼声较高的继任候选人包括：&lt;strong&gt;贝莱德（BlackRock）经济学家Jean Boivin、丰业银行（Bank of Nova Scotia）首席经济学家Jean-François Perrault，以及加拿大央行前高级副行长Carolyn Wilkins。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;根据央行公布的遴选程序，董事会独立董事已组建搜寻董事会，负责主导招募工作，并委托行政招聘机构Egon Zehnder协助推进。有意申请者可通过专属渠道与Egon Zehnder进行保密接触。&lt;/p&gt;
-&lt;p&gt;新行长最终任命须经加拿大财政部长及联邦内阁批准。&lt;/p&gt;
-&lt;p&gt;继任者将面临的核心挑战，在于如何在通胀压力尚未完全消退、外部冲击风险犹存的背景下，掌舵加拿大货币政策，其政策理念与应对框架将成为市场评估未来利率路径的重要参照。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这场争论的核心，是一个经典的市场问题：防御性板块的强势，究竟是一轮持久轮动的开端，还是一个即将被相关性归一的拥挤防御交易？若以2000年为参照，科技股的熊市或许远比多头预期的更为漫长；而即便消费必需品下跌5%，若半导体再跌20%，前者依然跑赢后者15至20个百分点。正如市场人士所言：&lt;strong&gt;当投资者看不懂科技泡沫时，他们会去买&amp;quot;肥皂泡&amp;quot;。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
