@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 04:29:45 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职</title><link>https://wallstreetcn.com/articles/3786076</link><guid>1043a01af8c3805e87f17a2234b5712abff20cda6d99037277d92a3bce63510c</guid><pubDate>Tue, 17 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 17 Nov 2026 05:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职</title><link>https://wallstreetcn.com/articles/3786076</link><guid>1043a01af8c3805e87f17a2234b5712abff20cda6d99037277d92a3bce63510c</guid><pubDate>Tue, 17 Nov 2026 03:46:23 GMT</pubDate><description>&lt;p&gt;英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。&lt;/p&gt;
 &lt;p&gt;摩根大通策略师Michael Cembalest在最新研报《英伟达与AI的下一步》中指出，&lt;strong&gt;前沿AI实验室正将采购重心向AMD、谷歌、亚马逊等多家供应商分散，英伟达在2026年后计算协议中的份额仅占28%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，开源模型生态圈则面临华盛顿的监管铁拳。对投资者而言，这意味着英伟达此前支撑高估值的两大核心增长引擎，&lt;strong&gt;AI芯片定价权&lt;/strong&gt;与&lt;strong&gt;开源市场敞口&lt;/strong&gt;正在同步承压。&lt;/p&gt;
 &lt;p&gt;Cembalest的结论是，&lt;strong&gt;市场竞争格局的位移&amp;quot;在某种程度上与管理层变动同等重要，甚至有过之而无不及&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
@@ -53,7 +53,29 @@ CUDA护城河：三天被AI攻破
 &lt;p&gt;Cembalest并未唱衰崩盘。&lt;/p&gt;
 &lt;p&gt;英伟达在2023至2025年间赚取了AI芯片83%的营收，毛利率高达75%，芯片设计周期漫长，&lt;strong&gt;他认为对长期持有者而言，股价较历史高点下跌32%、PEG仅为0.2倍的英伟达仍具吸引力，是大型AI股中估值最低的标的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;然而，0.2倍的PEG建立在市场一致预期增速得以实现的假设之上，而支撑这一增速的两条腿都在动摇：前沿实验室在加速购买竞争对手的芯片，开源买家则需要申请许可证才能继续采购。&lt;/p&gt;
-&lt;p&gt;正如Cembalest本人所总结的：竞争格局的转变，&amp;quot;在某种程度上与管理层变动对投资者而言同样值得警惕的风险。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%</title><link>https://wallstreetcn.com/articles/3786073</link><guid>0d1554adcfb0667d41d429dcaec39d9749b2064660b0a6c4283e7bfc8d229518</guid><pubDate>Tue, 17 Nov 2026 04:03:52 GMT</pubDate><description>&lt;p&gt;今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。&lt;/p&gt;
+&lt;p&gt;正如Cembalest本人所总结的：竞争格局的转变，&amp;quot;在某种程度上与管理层变动对投资者而言同样值得警惕的风险。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达暴跌，空头大赚240亿美元</title><link>https://wallstreetcn.com/articles/3786064</link><guid>630d6ddea4249448e51dab58d16645c06e1c31665f68b5de39b5c6f2bf95513c</guid><pubDate>Tue, 17 Nov 2026 00:35:58 GMT</pubDate><description>&lt;p&gt;英伟达股价持续下挫，做空者从中大获其利。自前首席执行官黄仁勋因丑闻被迫离职以来，这家芯片巨头的股价已从历史高点累计下跌35%，空头账面盈利高达240亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据S3 Partners数据，英伟达股价周一再跌4.1%，延续上周以来的跌势——上周跌幅为自特朗普2025年4月宣布关税政策以来最大单周跌幅。&lt;strong&gt;黄仁勋因婚外情丑闻被迫卸任英伟达CEO&lt;/strong&gt;，这一事件引爆了市场对公司未来走向的深度担忧。&lt;/p&gt;
+&lt;p&gt;与此同时，空头持仓规模随卖压加剧而持续扩大。截至目前，&lt;strong&gt;英伟达空头仓位约占流通股的1.22%，名义价值约达460亿美元。&lt;/strong&gt;然而，也有部分逆向投资者开始逢低买入——据市场数据及研究机构Vanda数据，上周抛售期间，散户投资者净买入英伟达股票规模创下20亿美元的历史纪录。&lt;/p&gt;
+丑闻引爆抛售，空头账面获利240亿美元
+&lt;p&gt;&lt;strong&gt;黄仁勋的离职是此轮股价暴跌的直接导火索。&lt;/strong&gt;S3 Partners数据显示，自英伟达股价于10月6日创下历史高点以来，股价累计跌幅已达35%，做空者由此录得约240亿美元的账面盈利。&lt;/p&gt;
+&lt;p&gt;Integrity Asset Management投资组合经理Joe Gilbert表示：“&lt;strong&gt;此前高度看好该股的持有者正试图锁定利润，股价仍有进一步下行空间。没有了黄仁勋，公司在战略愿景上出现了真空。&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;与此同时，黄仁勋离职事件并非孤立发生，而是叠加在科技行业整体承压的背景之下。&lt;/p&gt;
+&lt;p&gt;彭博报道指出，近几周市场对AI大规模资本支出能否持续存在疑虑，科技板块整体情绪趋于谨慎。美国中期选举结果进一步加剧了投资者的不安——多名承诺限制数据中心快速扩张的候选人在选举中胜出，令市场对AI基础设施投资前景的担忧升温。&lt;/p&gt;
+空头加仓，散户逆势抄底
+&lt;p&gt;随着11月初英伟达卖压加速，逆向交易者同步加大了做空力度。S3 Partners数据显示，英伟达空头仓位目前约占流通股的1.22%，名义价值约46亿美元。&lt;/p&gt;
+&lt;p&gt;与此同时，散户投资者却选择逆势入场。Vanda数据显示，&lt;strong&gt;上周抛售期间散户净买入英伟达股票达20亿美元，创历史单周最高纪录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Roundhill Financial首席执行官Dave Mazza表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“英伟达已从市场宠儿变成市场弃儿，正是这种预期重置让它在当前位置变得有吸引力。看空声音很响，但散户正在入场，除最坏情形外，股票在各种情景下的估值倍数都具有吸引力。&lt;strong&gt;这是一个买入恐慌的机会，而非追跌出逃的时机。&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+财报成下一关键催化剂，业绩隐忧不容忽视
+&lt;p&gt;市场目光已转向英伟达即将于美东时间周二收盘后发布的季度财报，这将是此轮动荡以来最重要的信息节点。&lt;/p&gt;
+&lt;p&gt;晨星投资服务股票策略师Brian Colello表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;我们预计公司将延续此前多个季度业绩超预期并上调指引的惯例。毕竟，这一切都发生在第三季度账目已经关闭之后。&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;但他同时警示：“如果英伟达在第三季度出现经营问题，并在财报中予以披露，那将对股价构成重大打击。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%</title><link>https://wallstreetcn.com/articles/3786073</link><guid>0d1554adcfb0667d41d429dcaec39d9749b2064660b0a6c4283e7bfc8d229518</guid><pubDate>Tue, 17 Nov 2026 04:03:52 GMT</pubDate><description>&lt;p&gt;今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。&lt;/p&gt;
 &lt;p&gt;11月17日，A股三大指数低开后盘中回升，临近午盘再度上涨，沪指微跌0.01%，收复3600点，深成指、创业板翻红转涨。科创50涨超3%，得益于半导体产业链的带动，光刻机、半导体设备、先进封装、半导体材料等概念股集体反弹，AI短剧、稀土、煤炭、油气等板块陷入调整。&lt;/p&gt;
 &lt;p&gt;港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，盘中一度震荡上涨，恒科指接近翻红，临近午盘再度回落，权重科网股普跌，百度大跌近7%，腾讯、阿里、美团、快手均下跌。芯片股活跃，华虹宏力大涨9%，光模块、电路板、AI大模型股等局部回升。债市方面，国债期货早盘全线反弹，30年期国债期货显著拉升。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -109,29 +131,7 @@ CUDA护城河：三天被AI攻破
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09:21&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;恒生指数开盘跌0.98%报23521.16点，恒生科技指数跌1.09%，恒生中国企业指数跌0.88%。百度集团绩后跌超3%。消费股、资源股跌幅居前。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英伟达暴跌，空头大赚240亿美元</title><link>https://wallstreetcn.com/articles/3786064</link><guid>630d6ddea4249448e51dab58d16645c06e1c31665f68b5de39b5c6f2bf95513c</guid><pubDate>Tue, 17 Nov 2026 00:35:58 GMT</pubDate><description>&lt;p&gt;英伟达股价持续下挫，做空者从中大获其利。自前首席执行官黄仁勋因丑闻被迫离职以来，这家芯片巨头的股价已从历史高点累计下跌35%，空头账面盈利高达240亿美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据S3 Partners数据，英伟达股价周一再跌4.1%，延续上周以来的跌势——上周跌幅为自特朗普2025年4月宣布关税政策以来最大单周跌幅。&lt;strong&gt;黄仁勋因婚外情丑闻被迫卸任英伟达CEO&lt;/strong&gt;，这一事件引爆了市场对公司未来走向的深度担忧。&lt;/p&gt;
-&lt;p&gt;与此同时，空头持仓规模随卖压加剧而持续扩大。截至目前，&lt;strong&gt;英伟达空头仓位约占流通股的1.22%，名义价值约达460亿美元。&lt;/strong&gt;然而，也有部分逆向投资者开始逢低买入——据市场数据及研究机构Vanda数据，上周抛售期间，散户投资者净买入英伟达股票规模创下20亿美元的历史纪录。&lt;/p&gt;
-丑闻引爆抛售，空头账面获利240亿美元
-&lt;p&gt;&lt;strong&gt;黄仁勋的离职是此轮股价暴跌的直接导火索。&lt;/strong&gt;S3 Partners数据显示，自英伟达股价于10月6日创下历史高点以来，股价累计跌幅已达35%，做空者由此录得约240亿美元的账面盈利。&lt;/p&gt;
-&lt;p&gt;Integrity Asset Management投资组合经理Joe Gilbert表示：“&lt;strong&gt;此前高度看好该股的持有者正试图锁定利润，股价仍有进一步下行空间。没有了黄仁勋，公司在战略愿景上出现了真空。&lt;/strong&gt;”&lt;/p&gt;
-&lt;p&gt;与此同时，黄仁勋离职事件并非孤立发生，而是叠加在科技行业整体承压的背景之下。&lt;/p&gt;
-&lt;p&gt;彭博报道指出，近几周市场对AI大规模资本支出能否持续存在疑虑，科技板块整体情绪趋于谨慎。美国中期选举结果进一步加剧了投资者的不安——多名承诺限制数据中心快速扩张的候选人在选举中胜出，令市场对AI基础设施投资前景的担忧升温。&lt;/p&gt;
-空头加仓，散户逆势抄底
-&lt;p&gt;随着11月初英伟达卖压加速，逆向交易者同步加大了做空力度。S3 Partners数据显示，英伟达空头仓位目前约占流通股的1.22%，名义价值约46亿美元。&lt;/p&gt;
-&lt;p&gt;与此同时，散户投资者却选择逆势入场。Vanda数据显示，&lt;strong&gt;上周抛售期间散户净买入英伟达股票达20亿美元，创历史单周最高纪录。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Roundhill Financial首席执行官Dave Mazza表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“英伟达已从市场宠儿变成市场弃儿，正是这种预期重置让它在当前位置变得有吸引力。看空声音很响，但散户正在入场，除最坏情形外，股票在各种情景下的估值倍数都具有吸引力。&lt;strong&gt;这是一个买入恐慌的机会，而非追跌出逃的时机。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-财报成下一关键催化剂，业绩隐忧不容忽视
-&lt;p&gt;市场目光已转向英伟达即将于美东时间周二收盘后发布的季度财报，这将是此轮动荡以来最重要的信息节点。&lt;/p&gt;
-&lt;p&gt;晨星投资服务股票策略师Brian Colello表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“&lt;strong&gt;我们预计公司将延续此前多个季度业绩超预期并上调指引的惯例。毕竟，这一切都发生在第三季度账目已经关闭之后。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;但他同时警示：“如果英伟达在第三季度出现经营问题，并在财报中予以披露，那将对股价构成重大打击。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：美联储正为三种AI影响制定预案，若泡沫破裂，或引发股市走弱并拖累经济与就业</title><link>https://wallstreetcn.com/articles/3786043</link><guid>fa7f0e14a904d5fcb6abe73035a279d88e63ab3e5118bf97db152eb296bcd7a7</guid><pubDate>Mon, 16 Nov 2026 17:56:21 GMT</pubDate><description>&lt;p&gt;美联储正式将人工智能冲击纳入宏观政策框架。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沃什：美联储正为三种AI影响制定预案，若泡沫破裂，或引发股市走弱并拖累经济与就业</title><link>https://wallstreetcn.com/articles/3786043</link><guid>fa7f0e14a904d5fcb6abe73035a279d88e63ab3e5118bf97db152eb296bcd7a7</guid><pubDate>Mon, 16 Nov 2026 17:56:21 GMT</pubDate><description>&lt;p&gt;美联储正式将人工智能冲击纳入宏观政策框架。&lt;/p&gt;
 &lt;p&gt;美联储主席沃什周一表示，&lt;strong&gt;美联储工作人员已开始就人工智能快速普及对美国经济的潜在影响制定应急预案，涵盖从生产力繁荣、大规模失业、技术泡沫破裂的三种截然不同路径。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;沃什在旧金山联储主办的公开会议上发表上述讲话，此次会议旨在正式启动他设立的人工智能专项工作组。他明确表示，这些情景并非经济预测，美联储的职责在于客观评估而非表态立场。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;沃什延续了其一贯风格，未就货币政策近期走向发表任何直接评论。&lt;/strong&gt;&lt;/p&gt;
@@ -233,7 +233,25 @@ CUDA护城河：三天被AI攻破
 &lt;p&gt;Charles Lamanna解释了漏洞得以长期潜伏、未被测试流程发现的原因。&lt;/p&gt;
 &lt;p&gt;微软在向外部大规模部署系统变更前，会先在实验室环境及小范围网络中进行测试，这是大型互联网服务公司的标准操作流程。&lt;/p&gt;
 &lt;p&gt;然而此次漏洞未能被拦截，原因在于实验室中模拟的流量模式和硬件配置，与服务器在真实环境中所遭遇的条件存在差异。&lt;/p&gt;
-&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战</title><link>https://wallstreetcn.com/articles/3786078</link><guid>b10abeabdbc8e5b025ba06f48578f5dab147dd1e8a3ec6bb416b2b1f5600c50b</guid><pubDate>Tue, 17 Nov 2026 03:56:07 GMT</pubDate><description>&lt;p&gt;摩根士丹利对2027年中国股市的判断，与高盛形成鲜明对照。&lt;/p&gt;
+&lt;p&gt;Lamanna指出，&lt;strong&gt;微软的测试通常侧重于配置较旧、性能较弱的系统，以评估更新是否会拖垮整体架构中的薄弱环节。而此次导致服务器宕机的漏洞，在处理能力更强的新型硬件上破坏力反而更大——恰恰是测试所忽视的场景。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 工行廖林谈银行AI三考题：进入交易、审贷，持续投入</title><link>https://wallstreetcn.com/articles/3786082</link><guid>54677517842b56de6dbd80b72219d9cf2e1edf16a56dfece6010a4d02c8133b1</guid><pubDate>Tue, 17 Nov 2026 05:01:22 GMT</pubDate><description>&lt;p&gt;工商银行的AI应用已经进入金融市场交易、客户服务和信贷审查。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11月17日，在深圳举行的2026年APEC工商领导人峰会上，工行董事长廖林谈到，AI正在改变银行服务客户、员工作业和业务决策的方式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在客户服务端，银行开始通过对话提供服务。在行内，员工与智能体协同作业，业务决策也更多借助模型分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;廖林同时提出三个问题：技术能否提高生产力，能否改善风险管理，投入能否持续。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2015年，工行推出互联网金融品牌e-ICBC，2022年发布数字工行D-ICBC。&lt;/p&gt;
+&lt;p&gt;今年8月，工行介绍了数智工行AI-ICBC的“1+1+3”体系，以“工银智涌”大模型平台和“工银数库”数据空间为基础，建设面向企业客户、个人客户和员工的三类平台。&lt;/p&gt;
+&lt;p&gt;截至今年上半年，“工银智涌”已落地600余个应用场景。在金融市场业务中，工行的智能对话交易系统覆盖从客户准入、报价到成交和风险敞口管理的流程，智能询价交易比率超过96%。&lt;/p&gt;
+&lt;p&gt;在客户服务端，“工小智”已覆盖账户管理、财富管理等9个业务领域的50项线上功能，目前仍在小范围试点。面向个人客户经理的“工小财”可以查数据、做分析、拟方案，上半年累计提供服务超2200万次。&lt;/p&gt;
+&lt;p&gt;廖林也谈到工行在亚太地区支持AI产业的计划。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;廖林透露，工行已在APEC 21个经济体中的17个设有机构，将为AI产业提供长期资金，连接创新合作伙伴，并提供风险管理支持。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;场景铺开之后，投入能带来多少经营回报？&lt;/p&gt;
+&lt;p&gt;2025年，工行全行金融科技投入285.88亿元，AI数字员工承担的工作量为5.5万人年。今年上半年，招行也披露了类似指标，AI带来了1388万小时的等效人工工时。&lt;/p&gt;
+&lt;p&gt;等效工时衡量的是AI承担了多少工作。要算清财务回报，还要看腾出的工时带来了多少新增业务或实际成本节约，以及模型开发和运行花了多少钱。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工行目前公开的成效主要体现在应用规模和业务流程提效。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在信贷业务中，提效还涉及谁来作判断。工行的审贷助手“工小审”可以分析客户信用风险、研判合规要求并起草报告，供审查人员使用。今年上半年，该工具辅助审查审批涉及的信贷金额超过万亿元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;值得一提的是，10月中旬，工行行长刘珺也曾在外滩年会上提出，银行已经有成熟的客户信用评分体系，现在还要回答一个新问题：怎么判断AI模型本身是否可信？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刘珺提出，可探讨把AI视作一种类人的准法律主体，将其运行记录纳入统一治理框架，以便追溯和核验。&lt;/p&gt;
+&lt;p&gt;对工行的业务分工，刘珺表示，高度依赖数据的流程可以给AI更多自主权，直接面向客户的重大决定仍由人把关。涉及较大风险敞口的定价业务，则需要人工从一开始就参与。&lt;/p&gt;
+&lt;p&gt;至于出了问题谁负责，刘珺举例说，如果工行部署AI、收益计入工行报表，相应责任也由工行承担。出现问题时，工行应向受损方赔偿，并向市场作出交代。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战</title><link>https://wallstreetcn.com/articles/3786078</link><guid>b10abeabdbc8e5b025ba06f48578f5dab147dd1e8a3ec6bb416b2b1f5600c50b</guid><pubDate>Tue, 17 Nov 2026 03:56:07 GMT</pubDate><description>&lt;p&gt;摩根士丹利对2027年中国股市的判断，与高盛形成鲜明对照。&lt;/p&gt;
 &lt;p&gt;11月15日，据追风交易台消息，摩根士丹利发布的2027年中国股票策略展望报告，该行维持MSCI中国等权重评级，同时明确偏好A股优于港股等离岸市场，理由是A股在新兴前沿产业的代表性更强，且有资金支撑。与此同时，&lt;a href="../../article/edit/3785994"&gt;高盛于11月16日发布的同期报告则将港股上调至超配、A股下调至中性&lt;/a&gt;，两家机构在A/H股相对配置上的判断方向截然相反。&lt;/p&gt;
 &lt;p&gt;该行策略师Laura Wang等设定2027年底基准目标：&lt;strong&gt;恒生指数26000点（较11月12日收盘价上行8%）、国企指数8700点（上行8%）、MSCI中国76点（上行11%）、沪深300指数4550点（上行13%）。&lt;/strong&gt;分析师认为，盈利温和改善、人民币小幅升值和估值趋于合理，为中国股市提供结构性支撑，但国内需求疲软、政策审慎以及中美科技摩擦加剧，制约了指数层面的上行空间。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -274,36 +292,7 @@ A股优于离岸：国家队托底，结构转型加速
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传奇投资者Druckenmiller抛售芯片股，增持SpaceX</title><link>https://wallstreetcn.com/articles/3786071</link><guid>831bd3631f2024863dfe93d66c98ee083f04537af796f39951041acb84a6ba6b</guid><pubDate>Tue, 17 Nov 2026 02:17:00 GMT</pubDate><description>&lt;p&gt;传奇投资者Stanley Druckenmiller在2026年三季度对旗下投资组合进行了大幅调仓——清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块。&lt;/p&gt;
-&lt;p&gt;根据Druckenmiller旗下Duquesne家族办公室向美国证券交易委员会（SEC）提交的最新13F文件，&lt;strong&gt;Druckenmiller在三季度完全退出了AMD、闪迪和Alphabet的持仓。&lt;/strong&gt;这份文件于11月16日截止日前提交，是市场观察其最新持仓动向的重要窗口。&lt;/p&gt;
-&lt;p&gt;此次调仓发生在科技股普遍承压的背景下。AMD自10月6日创下收盘新高后已累计下跌22%，闪迪自6月底高点以来股价跌幅接近三分之二，Alphabet则自5月中旬峰值以来累计下跌约30%，仅三季度结束后便已再跌18%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-清仓AMD、闪迪与谷歌，大幅削减台积电等持仓
-&lt;p&gt;Duquesne在二季度末持有AMD股票72,900股、闪迪股票34,900股，三季度均全部清仓。与此同时，此前持有的336,300股Alphabet A类股也被悉数卖出。&lt;/p&gt;
-&lt;p&gt;除上述三只股票外，据据13F数据，Druckenmiller在三季度的完整退出名单还包括：联合航空（794,800股）、达美航空、DR Horton，以及标普500指数和罗素2000指数的看涨期权头寸。&lt;/p&gt;
-&lt;p&gt;在减仓方面，台积电是削减幅度最大的标的——持仓从589,700股骤降至32,700股，降幅达94%，市值仅剩约1,490万美元。&lt;/p&gt;
-&lt;p&gt;STMicroelectronics持仓从310万股减至162万股，降幅约48%；CRH持仓从553,600股减至159,400股，降幅约71%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;整体来看，此次调仓共涉及退出约48个持仓。&lt;/p&gt;
-新建仓：SpaceX、Palantir领衔
-&lt;p&gt;在买入方向上，Druckenmiller新建仓SpaceX（202,125股）、Palantir（80,100股）以及AppLovin（109,460股）。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，&lt;strong&gt;他还大举布局黄金矿业板块，新建仓纽蒙特黄金公司Newmont&lt;/strong&gt;（380,400股，市值约4,390万美元）、Barrick Mining（1,050,000股，市值约4,290万美元）以及Agnico Eagle。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;另一笔引人注目的新仓位是寝具公司Somnigroup（993,600股，市值约6,170万美元），以及TTM Technologies和Humana。&lt;/p&gt;
-现有重仓股：Natera占比近三成
-&lt;p&gt;从当前持仓结构来看，临床基因检测平台公司Natera为第一大重仓股，占整体约44.7亿美元投资组合的29.2%，集中度极高。&lt;/p&gt;
-&lt;p&gt;其余前十大持仓依次为：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;希捷科技（持仓增至341,800股，市值约3.152亿美元）&lt;/li&gt;
-&lt;li&gt;亚马逊&lt;/li&gt;
-&lt;li&gt;Fox Corp. A类股（持仓增至305万股，市值约1.908亿美元）&lt;/li&gt;
-&lt;li&gt;YPF、Unity Software（持仓大幅增至396万股，市值约1.619亿美元）&lt;/li&gt;
-&lt;li&gt;Sea Limited、iShares巴西ETF、Insmed，以及亚马逊看涨期权。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Stanley Druckenmiller据彭博亿万富翁指数估计，净资产约为125亿美元。他曾长期担任对冲基金经理，此后关闭基金，专注于管理Duquesne家族办公室。&lt;/p&gt;
-&lt;p&gt;13F文件是持有超过1亿美元特定证券的机构投资管理人须向SEC定期披露的持仓报告，每季度提交一次，截止日为季度结束后45天内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔掌舵伯克希尔再加码房产与航空股，美银、Capital One继续减持，新进“App翻新工厂”</title><link>https://wallstreetcn.com/articles/3786052</link><guid>3a40d57a3864bbb8c253d3049f2050efcf721ff13db818870478b136c6505beb</guid><pubDate>Mon, 16 Nov 2026 22:13:06 GMT</pubDate><description>&lt;p&gt;在格雷格·阿贝尔（Greg Abel）接棒“股神”巴菲特掌舵的第三个季度，伯克希尔·哈撒韦继续调整股票组合，房屋建筑商和航空公司成为增持重点，金融股则继续遭到削减，同时还将一家擅长收购和改造成熟App的意大利科技公司纳入投资组合。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阿贝尔掌舵伯克希尔再加码房产与航空股，美银、Capital One继续减持，新进“App翻新工厂”</title><link>https://wallstreetcn.com/articles/3786052</link><guid>3a40d57a3864bbb8c253d3049f2050efcf721ff13db818870478b136c6505beb</guid><pubDate>Mon, 16 Nov 2026 22:13:06 GMT</pubDate><description>&lt;p&gt;在格雷格·阿贝尔（Greg Abel）接棒“股神”巴菲特掌舵的第三个季度，伯克希尔·哈撒韦继续调整股票组合，房屋建筑商和航空公司成为增持重点，金融股则继续遭到削减，同时还将一家擅长收购和改造成熟App的意大利科技公司纳入投资组合。&lt;/p&gt;
 &lt;p&gt;美东时间11月16日周一，伯克希尔向美国证监会（SEC）提交的2026年第三季度13F文件显示，公司继续增持房屋建筑商Lennar（LEN）和达美航空（DAL），其中Lennar A类股持仓接近翻倍；另一方面，伯克希尔继续减持美国银行（BAC）、信用卡公司Capital One（COF）、零售商Kroger（KR）和医疗服务公司DaVita（DVA），并削减域名注册服务商VeriSign（VRSN）的持仓。&lt;/p&gt;
 &lt;p&gt;三季度，伯克希尔主要持仓最引人注目的新面孔是收购“过气软件”起家的意大利科技公司Bending Spoons（BSP），当季持有约2069万股，披露市值约6.89亿美元。在今年上半年持续大举加码之后，三季度伯克希尔未再加码谷歌母公司Alphabet，其仓位和苹果等其他二季度排在前十的重仓股一样稳居前十。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -532,41 +521,36 @@ GOOG
 &lt;p&gt;苹果持仓数量继续保持稳定，仍是伯克希尔最重要的股票投资。美国运通、可口可乐等传统核心资产也没有出现明显的持股数量变化。&lt;/p&gt;
 &lt;p&gt;整体而言，伯克希尔第三季度并未大幅改写其核心重仓股格局，真正值得关注的是组合内部的调整：Lennar持仓接近翻倍，达美航空连续第三个季度获得增持；美国银行和Capital One继续遭到削减；Alphabet在连续两个季度大举加仓后暂停增持，而Bending Spoons则成为一笔新的重要科技投资。&lt;/p&gt;
 &lt;p&gt;伯克希尔第三季度财报还显示，公司当季回购自身股票约96亿美元，前三季度累计回购约144亿美元。截至9月30日，公司持有的现金、现金等价物及美国国债约3523亿美元。相比之下，公司第三季度买入其他公司股票约23.7亿美元、卖出约27.9亿美元，股票投资仍呈现净卖出状态。&lt;/p&gt;
-&lt;p&gt;这也意味着，尽管阿贝尔领导下的伯克希尔持续调整股票组合，并通过Bending Spoons等投资探索新的资本配置方向，公司仍然保留了庞大的现金储备。住宅建筑、航空和数字应用并购平台成为本季度值得关注的新投资方向，但伯克希尔整体的资本配置仍然相当审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大摩高喊“拥抱风险”！AI算力开支“只会迟到，不会缩水”，顶格超配全球股市</title><link>https://wallstreetcn.com/articles/3786068</link><guid>7e10aa951f0c1ee96b8922cce741417dfe03c6dae06fadd6537d6843e70b0446</guid><pubDate>Tue, 17 Nov 2026 01:42:21 GMT</pubDate><description>&lt;p&gt;过去12个月，除大宗商品外，几乎所有主要资产类别的估值都已回落。&lt;/p&gt;
-&lt;p&gt;据追风交易台消息，11月16日，摩根士丹利全球跨资产策略主管Serena Tang在最新的报告中表示，过去六个月风险资产估值已普遍下调，而宏观基本面依然具有韧性，这为承担更多风险提供了基础。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;主要风险催化剂已经过去，风险资产在过去六个月里已经便宜了不少，我们以广泛积极的风险姿态进入2027年。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在资产配置上，该行将全球股票超配幅度调至相对基准+15%的最高水平，同时下调高收益债、大宗商品和现金的配置。&lt;/strong&gt;能源冲击带来的通胀压力是最大变数——该行预计美联储将在2026年12月和2027年3月各加息一次，将联邦基金利率目标区间推升至4.25%-4.5%，这也使得债券市场面临短期压力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;具体来看，美国、日本、欧洲股票均上调至超配，新兴市场股票为等配。资金来源是减仓大宗商品（布伦特原油、铜均下调至低配）和现金。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也意味着，尽管阿贝尔领导下的伯克希尔持续调整股票组合，并通过Bending Spoons等投资探索新的资本配置方向，公司仍然保留了庞大的现金储备。住宅建筑、航空和数字应用并购平台成为本季度值得关注的新投资方向，但伯克希尔整体的资本配置仍然相当审慎。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 传奇投资者Druckenmiller抛售芯片股，增持SpaceX</title><link>https://wallstreetcn.com/articles/3786071</link><guid>831bd3631f2024863dfe93d66c98ee083f04537af796f39951041acb84a6ba6b</guid><pubDate>Tue, 17 Nov 2026 02:17:00 GMT</pubDate><description>&lt;p&gt;传奇投资者Stanley Druckenmiller在2026年三季度对旗下投资组合进行了大幅调仓——清仓多只半导体及科技巨头股票，同时新建仓SpaceX、Palantir等标的，并转向黄金矿业板块。&lt;/p&gt;
+&lt;p&gt;根据Druckenmiller旗下Duquesne家族办公室向美国证券交易委员会（SEC）提交的最新13F文件，&lt;strong&gt;Druckenmiller在三季度完全退出了AMD、闪迪和Alphabet的持仓。&lt;/strong&gt;这份文件于11月16日截止日前提交，是市场观察其最新持仓动向的重要窗口。&lt;/p&gt;
+&lt;p&gt;此次调仓发生在科技股普遍承压的背景下。AMD自10月6日创下收盘新高后已累计下跌22%，闪迪自6月底高点以来股价跌幅接近三分之二，Alphabet则自5月中旬峰值以来累计下跌约30%，仅三季度结束后便已再跌18%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;美股方面，首席美股策略师Michael Wilson将S&amp;amp;P 500目标价上调至8700点（对应2027年末），估值对应19倍远期市盈率&lt;/strong&gt;，EPS预测为2027年420美元（同比增长14%），2028年458美元（增长9%）。报告认为，以当前约18倍远期市盈率的水平，指数仍低于合理价值。&lt;/p&gt;
-&lt;p&gt;选股方向上，大摩强调“质量优先”——偏好强资产负债表、可持续利润率和稳定现金流的公司，即便是向周期性板块的轮动，也要在高质量资产内部进行。工业板块是其首选行业。&lt;/p&gt;
-AI资本开支：不是暂停，只是推迟
-&lt;p&gt;报告写道：“将美国约5GW的项目从2028年推迟至2029年，是延迟，不是暂停。”大摩预计，2027年超大规模云计算商的现金资本开支规模约为&lt;strong&gt;1.5万亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;融资层面同样有具体数字支撑：2027年相关融资渠道的发行规模预计接近&lt;strong&gt;9000亿美元&lt;/strong&gt;（相比此前约6500亿美元），其中包括约3850亿美元的超大规模云计算商无担保债券，以及约3500亿美元的芯片融资。评级较低的借款方则更多依赖有担保、短期限的融资结构。&lt;/p&gt;
-&lt;p&gt;分析师判断，信用市场在2027年将扮演更重要的角色，承担AI资本开支从投资到变现之间的资金缺口。&lt;/p&gt;
-全球经济：增长韧性，但通胀麻烦没消
-&lt;p&gt;该行首席全球经济学家Seth Carpenter预计，2027年全球经济增速维持在&lt;strong&gt;3.4%&lt;/strong&gt;，美国增速为&lt;strong&gt;2.5%&lt;/strong&gt;，支撑来自AI基础设施投资加速，以及高收入消费者的强劲消费。&lt;/p&gt;
-&lt;p&gt;但能源冲击带来的通胀压力是主要干扰项。报告指出，原油与成品油之间的价差较宽，加上食品和供应链压力，能源成本可能传导至核心通胀，迫使央行在增长脆弱时仍不得不收紧政策。&lt;/p&gt;
-&lt;p&gt;基准情景下，大摩预计美联储将在12月和明年3月各加息一次，将联邦基金利率区间推至&lt;strong&gt;4.25%-4.5%&lt;/strong&gt;，欧央行加息至3.0%，日本央行加息至1.75%；美联储和欧央行预计在2028年开始降息。&lt;/p&gt;
-&lt;p&gt;10年期美债收益率预计在2027年中达到&lt;strong&gt;5.05%&lt;/strong&gt;，年末收于&lt;strong&gt;5.00%&lt;/strong&gt;。&lt;/p&gt;
-信用市场：质量回归，高收益债降级
-&lt;p&gt;信用配置上，大摩将美国投资级债券上调至等配，高收益债下调至低配。&lt;/p&gt;
-&lt;p&gt;经过大量供给消化后，高质量信用的风险回报已有所改善。该行预计2027年美国投资级债券发行量将达&lt;strong&gt;2.4万亿美元&lt;/strong&gt;（同比增长12%），创历史新高，发行期限偏短端。&lt;/p&gt;
-&lt;p&gt;同时，该行关闭了对高质量超大规模云计算商的低配建议，对数据中心债券保持中性，并在高收益资产内部更偏好贷款而非高收益债券。&lt;/p&gt;
-尾部风险仍在，国债是对冲工具
-&lt;p&gt;该行在保持高风险敞口的同时，也保留了美国国债的中性配置，明确将其作为组合对冲工具。&lt;/p&gt;
-&lt;p&gt;分析师写道：“正是因为我们的股票敞口较高，我们才保留久期配置。不确定性和尾部风险仍然显著，积极的风险立场反而强化了组合保护的必要性。”&lt;/p&gt;
-&lt;p&gt;分析师同时提示，2027年的挑战与2026年不同——宏观冲击减少，但市场将更加关注AI资本开支能否在超大规模云计算商财报和更广泛的AI应用中体现出回报。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱</title><link>https://wallstreetcn.com/articles/3786075</link><guid>252eea1837e51430f62b8ecde61ad9f372677de70d0d5a474dc78e0224ceb811</guid><pubDate>Tue, 17 Nov 2026 03:07:51 GMT</pubDate><description>&lt;p&gt;高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：&lt;strong&gt;AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。&lt;/strong&gt;&lt;/p&gt;
+清仓AMD、闪迪与谷歌，大幅削减台积电等持仓
+&lt;p&gt;Duquesne在二季度末持有AMD股票72,900股、闪迪股票34,900股，三季度均全部清仓。与此同时，此前持有的336,300股Alphabet A类股也被悉数卖出。&lt;/p&gt;
+&lt;p&gt;除上述三只股票外，据据13F数据，Druckenmiller在三季度的完整退出名单还包括：联合航空（794,800股）、达美航空、DR Horton，以及标普500指数和罗素2000指数的看涨期权头寸。&lt;/p&gt;
+&lt;p&gt;在减仓方面，台积电是削减幅度最大的标的——持仓从589,700股骤降至32,700股，降幅达94%，市值仅剩约1,490万美元。&lt;/p&gt;
+&lt;p&gt;STMicroelectronics持仓从310万股减至162万股，降幅约48%；CRH持仓从553,600股减至159,400股，降幅约71%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;整体来看，此次调仓共涉及退出约48个持仓。&lt;/p&gt;
+新建仓：SpaceX、Palantir领衔
+&lt;p&gt;在买入方向上，Druckenmiller新建仓SpaceX（202,125股）、Palantir（80,100股）以及AppLovin（109,460股）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;他还大举布局黄金矿业板块，新建仓纽蒙特黄金公司Newmont&lt;/strong&gt;（380,400股，市值约4,390万美元）、Barrick Mining（1,050,000股，市值约4,290万美元）以及Agnico Eagle。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;另一笔引人注目的新仓位是寝具公司Somnigroup（993,600股，市值约6,170万美元），以及TTM Technologies和Humana。&lt;/p&gt;
+现有重仓股：Natera占比近三成
+&lt;p&gt;从当前持仓结构来看，临床基因检测平台公司Natera为第一大重仓股，占整体约44.7亿美元投资组合的29.2%，集中度极高。&lt;/p&gt;
+&lt;p&gt;其余前十大持仓依次为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;希捷科技（持仓增至341,800股，市值约3.152亿美元）&lt;/li&gt;
+&lt;li&gt;亚马逊&lt;/li&gt;
+&lt;li&gt;Fox Corp. A类股（持仓增至305万股，市值约1.908亿美元）&lt;/li&gt;
+&lt;li&gt;YPF、Unity Software（持仓大幅增至396万股，市值约1.619亿美元）&lt;/li&gt;
+&lt;li&gt;Sea Limited、iShares巴西ETF、Insmed，以及亚马逊看涨期权。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Stanley Druckenmiller据彭博亿万富翁指数估计，净资产约为125亿美元。他曾长期担任对冲基金经理，此后关闭基金，专注于管理Duquesne家族办公室。&lt;/p&gt;
+&lt;p&gt;13F文件是持有超过1亿美元特定证券的机构投资管理人须向SEC定期披露的持仓报告，每季度提交一次，截止日为季度结束后45天内。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱</title><link>https://wallstreetcn.com/articles/3786075</link><guid>252eea1837e51430f62b8ecde61ad9f372677de70d0d5a474dc78e0224ceb811</guid><pubDate>Tue, 17 Nov 2026 03:07:51 GMT</pubDate><description>&lt;p&gt;高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：&lt;strong&gt;AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“&lt;strong&gt;AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击将大于对经济的冲击&lt;/strong&gt;。”数据印证了这一判断——AI仅贡献了美国GDP增长的21%，却贡献了标普500盈利增长的62%，以及峰值时期美国市值涨幅的92%。&lt;/p&gt;
 &lt;p&gt;在市场层面，高盛预计标普500指数未来12个月目标价为8700点，较当前约7619点有14%的上行空间，但&lt;strong&gt;美国企业盈利增速将从36%腰斩至11%&lt;/strong&gt;；信用利差将走阔，美元将走软，债券重新具备对冲价值，黄金目标价上调至4650美元，铜目标价上调至15600美元。&lt;/p&gt;
 &lt;p&gt;这五份研报分别为高盛经济学家团队的《宏观展望2027：稳健基准，下行风险》、跨资产团队的《全球市场展望2027：成长之痛》、Peter Oppenheimer的《在增长中寻找价值》、外汇团队的《把握转折时机》，以及大宗商品团队的《适应动荡水域》。&lt;/p&gt;
