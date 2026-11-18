@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 18 Nov 2026 23:29:20 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低</title><link>https://wallstreetcn.com/articles/3786169</link><guid>41103be64373e39247ceb70ce2565f9869408500b014ea997d35e9c934fddd68</guid><pubDate>Wed, 18 Nov 2026 22:59:14 GMT</pubDate><description>&lt;p&gt;英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。能源、医疗板块跌幅居前，纳指靠亚马逊等少数权重收涨。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Wed, 18 Nov 2026 23:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低</title><link>https://wallstreetcn.com/articles/3786169</link><guid>41103be64373e39247ceb70ce2565f9869408500b014ea997d35e9c934fddd68</guid><pubDate>Wed, 18 Nov 2026 22:59:14 GMT</pubDate><description>&lt;p&gt;英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。能源、医疗板块跌幅居前，纳指靠亚马逊等少数权重收涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;道指&lt;/strong&gt;收跌1.1%，&lt;strong&gt;标普500指数&lt;/strong&gt;下跌0.2%、未能重新站上200日均线，&lt;strong&gt;纳指&lt;/strong&gt;逆势收涨0.4%。&lt;strong&gt;英伟达股价单日下跌约3%，抹去了财报公布后的盘中涨幅。&lt;/strong&gt;尽管公司季度业绩超出分析师预期，并上调了营收指引，但联合创始人黄仁勋离职引发的不确定性持续压制投资者情绪。&lt;/p&gt;
 &lt;p&gt;加息预期叠加AI基建需求疑虑，金银铜同步暴跌。&lt;strong&gt;黄金&lt;/strong&gt;跌破3800美元创14个月新低，&lt;strong&gt;伦铜&lt;/strong&gt;跌5.7%创七个月新低。&lt;strong&gt;美元指数&lt;/strong&gt;升至19个月高位，&lt;strong&gt;美债长端收益率&lt;/strong&gt;下行。&lt;/p&gt;
@@ -227,7 +227,33 @@ Gemini App向低内存安卓设备开放，Genie 4开始面向用户推出
 &lt;p&gt;应用端，商汤正通过统一的智能体管控系统，结合工程人员深入客户场景的交付方式，将AI嵌入企业业务流程。小浣熊、Seko和如影数字人等产品，分别覆盖办公、内容创作和数字人应用。&lt;/p&gt;
 &lt;p&gt;这些产品面对的是相似的商业问题：用户愿意尝试AI，并不意味着会持续付费。要形成稳定业务，产品需要在具体任务中节省时间、降低成本，或者帮助客户增加收入。进入工作流程的价值也在于此——使用频率和交付效果，比单次演示更接近客户续费的依据。&lt;/p&gt;
 &lt;p&gt;对于同时拥有模型、算力和应用业务的商汤，这几项能力存在相互带动的空间：应用带来调用需求，基础设施承接计算，客户实际使用又能帮助产品改进。但这种协同最终仍要体现为更低的服务成本和更多持续付费客户。&lt;/p&gt;
-&lt;p&gt;前三季度的收入和毛利表现，为商汤的商业化提供了积极信号。此次业务更新没有给出完整的净利润和现金流数据，因此尚不能据此判断整体盈利进度。接下来的关键，是生成式AI的增长能否继续转化为稳定订单，并让前期模型和算力投入获得持续回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价延续下跌：美国原油库存连续第二周增加，产量创历史新高，市场定价转向供需</title><link>https://wallstreetcn.com/articles/3786237</link><guid>7621c67be0a3af407af9a25ec7c6e5f14c12284876ed382689d6a321b5bb9470</guid><pubDate>Wed, 18 Nov 2026 23:14:46 GMT</pubDate><description>&lt;p&gt;美国原油库存连续两周攀升、产量刷新历史纪录，叠加全球需求前景持续走弱，国际油价承压下行，中东局势对油价的提振效应明显衰退。&lt;strong&gt;市场正在经历一场定价逻辑的深层切换——从&amp;quot;地缘风险溢价&amp;quot;转向&amp;quot;供需基本面&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前三季度的收入和毛利表现，为商汤的商业化提供了积极信号。此次业务更新没有给出完整的净利润和现金流数据，因此尚不能据此判断整体盈利进度。接下来的关键，是生成式AI的增长能否继续转化为稳定订单，并让前期模型和算力投入获得持续回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 史上最大IPO周四上市！Anthropic定价83美元，募资940亿美元、估值1.5万亿</title><link>https://wallstreetcn.com/articles/3786222</link><guid>449c26da0753878392ae9ef8a78e6a1a1e51fa4ead78df64fb21daff4875e6c2</guid><pubDate>Wed, 18 Nov 2026 23:37:22 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;Anthropic以每股83美元的价格完成IPO定价，超出此前70至78美元的发行区间，融资规模突破历史纪录，成为迄今全球最大首次公开募股。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周三据彭博援引知情人士透露，此次发行规模同步扩大。结合同步进行的260亿美元私募配售，本次整体融资总额预计超过940亿美元，超越SpaceX今年6月创下的862亿美元纪录。&lt;strong&gt;此次IPO认购倍数接近七倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;按完全摊薄基础计算，此次发行预计将使该公司的估值达到约1.5万亿美元。&lt;/strong&gt;该股票预计将于&lt;strong&gt;当地时间11月19日周四午间在纳斯达克上市，股票代码为“ANT”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当日稍早时候，据CNBC援引知情人士透露，&lt;strong&gt;Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic此番上市，标志着前沿AI实验室首次叩开公开资本市场大门，也令这家Claude聊天机器人的开发商在与竞争对手OpenAI的角力中率先占据资本市场制高点。OpenAI目前尚无在2027年前上市的计划。&lt;/p&gt;
+
+定价超区间，融资逾940亿美元
+
+&lt;p&gt;根据Anthropic此前的招股文件，公司计划发行8.014亿股，七位联合创始人另行出售2360万股，发行价区间为每股70至78美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最终定价83美元超出区间上限约6%。以此计算，IPO部分的融资规模至少达到680亿美元。叠加260亿美元私募配售，整体融资合计逾940亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;招股文件显示，英伟达将以IPO发行价认购100亿美元的Anthropic股份，作为私募配售的组成部分。&lt;/p&gt;
+&lt;p&gt;高盛和摩根士丹利担任本次IPO的主承销商，另有20家银行参与其中。Anthropic股票预计周四在纳斯达克全球精选市场挂牌交易，股票代码为ANT。&lt;/p&gt;
+
+营收暴增1200%，亏损主因会计调整
+
+&lt;p&gt;从财务数据来看，Anthropic的增长轨迹颇为亮眼。&lt;/p&gt;
+&lt;p&gt;招股书显示，截至9月30日的前九个月，公司营收达332.4亿美元，同比增长约1200%，增长主要由其AI编程工具Claude Code的强劲普及所驱动。&lt;/p&gt;
+&lt;p&gt;公司还披露，截至10月底，年化营收运行率已达约810亿美元，较上月增加100亿美元。&lt;/p&gt;
+&lt;p&gt;同期公司净亏损为1040亿美元，但公司指出，亏损的绝大部分来源于可转换票据公允价值变动及衍生品负债的会计处理，而非经营层面的实质性损耗。作为对比，2025年同期运营亏损为251亿美元。&lt;/p&gt;
+
+首家美股上市的前沿AI实验室
+
+&lt;p&gt;Anthropic此次上市具有里程碑意义——这是首家登陆美股的前沿AI实验室。前沿AI实验室是指致力于构建最顶尖模型、旨在处理复杂问题的一类机构，其应用场景涵盖软件开发、法律服务及科学研究等领域。&lt;/p&gt;
+&lt;p&gt;在上市时机的选择上，外部市场环境并不理想。截至本周三收盘，纳斯达克100指数过去一周累计下跌4.4%；英伟达在发布超预期财报后股价不跌反升的势头未能延续，周三常规交易时段再度下挫2.9%，连续第五个交易日收跌。&lt;/p&gt;
+&lt;p&gt;对此，Anthropic首席执行官Dario Amodei上周五在与摩根大通CEO Jamie Dimon的对话活动中表示：&lt;strong&gt;&amp;quot;我们并不特别在意何时上市，具体是哪个月、哪一天，或者市场处于何种状态。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他还透露，整个IPO过程中他所得到的最佳建议是：&lt;strong&gt;&amp;quot;永远不要让公司的估值超过其真实价值哪怕一美元。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此次上市将大幅提升Anthropic联合创始人（包括Dario Amodei）及众多员工的个人财富，同时也将为公司的风险投资支持者带来丰厚回报。Anthropic的机构股东包括Iconiq、Coatue Management以及在董事会拥有席位的Spark Capital。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 油价延续下跌：美国原油库存连续第二周增加，产量创历史新高，市场定价转向供需</title><link>https://wallstreetcn.com/articles/3786237</link><guid>7621c67be0a3af407af9a25ec7c6e5f14c12284876ed382689d6a321b5bb9470</guid><pubDate>Wed, 18 Nov 2026 23:14:46 GMT</pubDate><description>&lt;p&gt;美国原油库存连续两周攀升、产量刷新历史纪录，叠加全球需求前景持续走弱，国际油价承压下行，中东局势对油价的提振效应明显衰退。&lt;strong&gt;市场正在经历一场定价逻辑的深层切换——从&amp;quot;地缘风险溢价&amp;quot;转向&amp;quot;供需基本面&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;周三公布的美国能源信息署（EIA）官方数据显示，&lt;strong&gt;截至11月13日当周，美国原油库存增加338万桶，超出市场预期的270万桶，汽油库存更激增519万桶，创下今年1月以来最大单周增幅。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;与此同时，&lt;strong&gt;美国原油产量升至历史新高，WTI原油在数据公布后进一步扩大跌幅，此前凭借中东油轮遭袭消息提振的盘中涨幅遭到悉数抹去。周三WTI原油期货下跌3.33%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -535,45 +561,4 @@ AI重塑组织架构，还处于&lt;strong&gt;&amp;quot;非常早期的阶段&am
 &lt;p&gt;10月初，贷款利率升至近三年高位，月内虽有所回落，但仍较疫情前水平高出逾一个百分点，持续压缩购房者的承受能力。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;从地区分布来看，10月签约销售在美国各地区全线下滑。其中，西部降幅最为明显，达6.9%；全美最大成屋销售市场南部地区跌幅亦达6.3%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;同日发布的另一组数据显示，10月新建住宅开工量出现反弹，但增量主要来自多户型住宅，单户型住宅开工步伐依然接近年内最低水平。&lt;/p&gt;
-&lt;p&gt;这一结构分化表明，建筑商对独栋住宅市场前景仍持审慎态度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 微软与英特尔扩大Azure及芯片合作，自研芯片首度引入EMIB封装</title><link>https://wallstreetcn.com/articles/3786230</link><guid>7b08d346263ce33665db7f094369ea0fef5f910bc6d350404188a061084b5e87</guid><pubDate>Wed, 18 Nov 2026 21:12:58 GMT</pubDate><description>&lt;p&gt;11月18日，微软与英特尔宣布扩大合作，签署长期协议共同推进Azure云与AI基础设施建设，&lt;strong&gt;微软由此成为首家宣布采用英特尔代工厂EMIB先进封装技术用于自研芯片的企业。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次协议涵盖多个层面&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;英特尔确认向微软提供多年期Xeon处理器供货保障，包括下一代服务器CPU&amp;quot;Diamond Rapids&amp;quot;；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;微软将把EMIB技术应用于Azure自研硅片的封装生产，其中包括下一代Maia AI加速器和Cobalt CPU。&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;双方还将在CXL内存扩展、英特尔QuickAssist加速技术及机密计算领域展开深度协作。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;根据双方披露的技术数据，合作成果已初步显现。&lt;/strong&gt;Azure M系列v4虚拟机借助CXL内存与Xeon 6处理器的平坦内存模式实现最高2.3倍性能提升，云端SQL备份速度通过Intel QAT技术提升最高达2.5倍。&lt;/p&gt;
-&lt;p&gt;这些进展直接关系到微软在云计算与AI算力市场的竞争力，亦对英特尔代工业务的市场拓展具有重要意义。&lt;/p&gt;
-
-微软率先采用EMIB封装，英特尔代工获重要背书
-
-&lt;p&gt;微软此次采用的是英特尔代工厂的EMIB-T封装技术。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该技术在标准EMIB基础上引入硅通孔（TSV），支持跨多层堆叠芯片的垂直供电，可满足三维硅模块的封装需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软自研硅片产品线目前包括面向大规模推理工作负载的Maia 200 AI加速器，以及针对智能体工作负载优化的Cobalt 200 CPU。&lt;strong&gt;根据协议，上述产品的下一代版本均将交由英特尔代工厂以EMIB及其衍生技术进行封装生产。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英特尔代工业务执行副总裁、首席技术与运营官及英特尔代工总经理Naga Chandrasekaran表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;微软与英特尔对AI基础设施的走向有着清晰一致的判断，通过硅片、封装、计算内存与软件的协同优化，构建日趋复杂的系统。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他表示，EMIB的异构集成灵活性与AI时代所需的制造规模相结合，将为Azure用户带来新的性能与经济效益。&lt;/p&gt;
-&lt;p&gt;对英特尔而言，获得微软这一头部云厂商的代工订单，是其代工战略推进过程中的重要外部验证。&lt;/p&gt;
-
-多年期Xeon供货锁定，Diamond Rapids纳入Azure路线图
-
-&lt;p&gt;&lt;strong&gt;除先进封装外，协议同步确认了微软对英特尔Xeon处理器的长期采购承诺。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英特尔将为Azure提供多年期Xeon供货保障，&lt;strong&gt;其中明确包含代号&amp;quot;Diamond Rapids&amp;quot;的下一代Xeon 7服务器CPU。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;微软方面表示，双方合作将延伸至整个Azure路线图及基于英特尔的Azure硬件系统。这一表述意味着英特尔处理器将在微软数据中心基础设施中持续占据重要位置，而非仅限于特定产品线。&lt;/p&gt;
-&lt;p&gt;微软Azure系统与架构公司副总裁Saurabh Dighe表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们与英特尔的长期合作，将先进封装、定制计算、内存与安全能力整合在一起，以支持Azure计算及跨Azure的持续创新。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-CXL内存扩展与机密计算构成技术差异化支撑
-
-&lt;p&gt;在系统级优化层面，协议重点涵盖&lt;strong&gt;三项技术方向&lt;/strong&gt;：CXL内存扩展、Intel QAT硬件加速以及基于Intel TDX的机密计算。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在CXL方向&lt;/strong&gt;，Azure M系列v4虚拟机通过CXL内存与Xeon 6处理器平坦内存模式的结合，对高需求工作负载实现最高2.3倍的性能提升与内存灵活性改善。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在QAT方向&lt;/strong&gt;，微软在云端推出首批支持Intel QAT技术的虚拟机，使Azure上的SQL备份速度最高提升2.5倍，同时改善可靠性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在机密计算方向&lt;/strong&gt;，英特尔TDX技术支持虚拟机在主机间迁移时对内存及CPU寄存器状态进行加密，增强敏感工作负载的安全防护。&lt;/p&gt;
-&lt;p&gt;微软表示，上述投入旨在为客户提供更可预测、可扩展且具备韧性的基础设施，尤其针对云计算与AI工作负载的性能、效率、可扩展性与安全性需求进行定向优化。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这一结构分化表明，建筑商对独栋住宅市场前景仍持审慎态度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
