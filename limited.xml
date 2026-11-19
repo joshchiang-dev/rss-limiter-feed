@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 19 Nov 2026 00:59:18 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低</title><link>https://wallstreetcn.com/articles/3786169</link><guid>41103be64373e39247ceb70ce2565f9869408500b014ea997d35e9c934fddd68</guid><pubDate>Wed, 18 Nov 2026 22:59:14 GMT</pubDate><description>&lt;p&gt;英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。能源、医疗板块跌幅居前，纳指靠亚马逊等少数权重收涨。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 19 Nov 2026 01:29:26 GMT</lastBuildDate><item><title>[华尔街见闻] 英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低</title><link>https://wallstreetcn.com/articles/3786169</link><guid>41103be64373e39247ceb70ce2565f9869408500b014ea997d35e9c934fddd68</guid><pubDate>Wed, 18 Nov 2026 22:59:14 GMT</pubDate><description>&lt;p&gt;英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。能源、医疗板块跌幅居前，纳指靠亚马逊等少数权重收涨。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;道指&lt;/strong&gt;收跌1.1%，&lt;strong&gt;标普500指数&lt;/strong&gt;下跌0.2%、未能重新站上200日均线，&lt;strong&gt;纳指&lt;/strong&gt;逆势收涨0.4%。&lt;strong&gt;英伟达股价单日下跌约3%，抹去了财报公布后的盘中涨幅。&lt;/strong&gt;尽管公司季度业绩超出分析师预期，并上调了营收指引，但联合创始人黄仁勋离职引发的不确定性持续压制投资者情绪。&lt;/p&gt;
 &lt;p&gt;加息预期叠加AI基建需求疑虑，金银铜同步暴跌。&lt;strong&gt;黄金&lt;/strong&gt;跌破3800美元创14个月新低，&lt;strong&gt;伦铜&lt;/strong&gt;跌5.7%创七个月新低。&lt;strong&gt;美元指数&lt;/strong&gt;升至19个月高位，&lt;strong&gt;美债长端收益率&lt;/strong&gt;下行。&lt;/p&gt;
@@ -222,7 +222,46 @@ Gemini App向低内存安卓设备开放，Genie 4开始面向用户推出
 &lt;/blockquote&gt;
 &lt;p&gt;此外，公益基金（Public Benefit Fund）设有特殊稀释条款：&lt;strong&gt;每当股价较IPO价格上涨50%时，该基金可额外获得公司最多2%的股份，首个触发点为每股约124.5美元。这意味着，潜在稀释恰好在股价表现强劲时启动。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;H.C. Wainwright分析师Mike Colonnese认为，&lt;strong&gt;Anthropic的成功上市将成为&amp;quot;AI行业的重要估值基准&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Peter Thiel的合伙人Jack Selby则表达了另一面担忧，&lt;strong&gt;称若Anthropic IPO表现不佳，可能引发AI行业&amp;quot;大规模估值修正&amp;quot;，尤其是在锁定期到期之后。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GTA 6--“史上最火爆游戏”来了？</title><link>https://wallstreetcn.com/articles/3786243</link><guid>2210ba9e1d1ea5c857b69902e7cd510102afcd262d4dd8dbaac0e97710b9251b</guid><pubDate>Thu, 19 Nov 2026 00:38:15 GMT</pubDate><description>&lt;p&gt;《侠盗猎车手6》（GTA 6）将于&lt;strong&gt;11月19日&lt;/strong&gt;正式发布，&lt;strong&gt;预购销售额已突破16.5亿美元，有望成为史上最大规模娱乐产品发布事件，其母公司Take-Two Interactive股价随之大涨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Peter Thiel的合伙人Jack Selby则表达了另一面担忧，&lt;strong&gt;称若Anthropic IPO表现不佳，可能引发AI行业&amp;quot;大规模估值修正&amp;quot;，尤其是在锁定期到期之后。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌</title><link>https://wallstreetcn.com/articles/3786240</link><guid>67596a3f990a0cc3c1d096d9664a746c489a542f9b48150fba1fec2abe186f78</guid><pubDate>Thu, 19 Nov 2026 01:08:34 GMT</pubDate><description>&lt;p&gt;今年夏天，Leopold Aschenbrenner管理的对冲基金Situational Awareness在短短数天内从管理逾200亿美元资产跌落至需要Ken Griffin旗下Citadel出手救援。&lt;/p&gt;
+&lt;p&gt;如今，这位25岁的&amp;quot;AI股神&amp;quot;又一次开始筹划重启。&lt;/p&gt;
+&lt;p&gt;11月18日，据知情人士向英国《金融时报》透露，Aschenbrenner近几周与多家主经纪商及投资者讨论了新一轮计划，内容包括重新引入杠杆交易、向外部投资者募集新资金。这一重建计划在相关对话中被称为&amp;quot;Situational Awareness 2.0&amp;quot;。&lt;strong&gt;恰逢其持有约50亿美元股份的Anthropic本周启动IPO，为重建计划提供重要支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然叫&amp;quot;2.0计划&amp;quot;，但这实际上已是&amp;quot;AI股神&amp;quot;今年的第三场&amp;quot;复仇&amp;quot;——今年夏天第一次崩盘后的&amp;quot;复仇计划&amp;quot;同样以惨败告终，公开持仓从200亿美元缩水至不足16亿美元。&lt;/p&gt;
+&lt;strong&gt;第一次崩盘：杠杆泡沫的破裂&lt;/strong&gt;
+&lt;p&gt;今年6月中旬，市场上出现了一个不寻常的信号：总收益互换（TRS）的融资成本开始垂直攀升。这背后，正是Situational Awareness在大规模借入杠杆、追逐AI芯片行情。基金资产一度高达450亿美元，随后在不到一个月内暴跌至100亿美元。公开持仓被以折价批量甩卖给Citadel，所得款项用于偿还包括高盛和摩根大通在内的主经纪商。&lt;/p&gt;
+&lt;p&gt;事后复盘，整个芯片/存储器的狂热行情，不过是杠杆包装成叙事的泡沫——而交易的顶点，恰好就是TRS融资成本创历史新高的那一天。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这场交易的最大赢家，是站在对面的人。Citadel旗舰基金在7月因接盘Leopold的抛售而大涨6%，Griffin随后数周内几乎全部转手，坐收数十亿美元利润，几乎零风险。而高盛主经纪业务部门，据媒体9月报道，则从这只基金身上赚取了逾2亿美元费用——尽管它们最终也参与了逼仓。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;strong&gt;第二次崩盘：“复仇交易”同样折戟&lt;/strong&gt;
+&lt;p&gt;9月初，野村证券策略师Charlie McElligott注意到一个&amp;quot;神秘买家&amp;quot;，在7月爆仓的同一批标的上——AMD、Bloom Energy、CoreWeave、DRAM存储ETF、英特尔、SK海力士和Sandisk——砸下约3.15亿美元权利金，买入深度虚值的1月份弹性看涨期权。两天后，英国《金融时报》证实，正是Situational Awareness在重建上述仓位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;一周后，这个&amp;quot;神秘买家&amp;quot;又以近1亿美元权利金押注两周内到期的看涨期权——这笔赌注恰好押中了。10月2日到期时，美光、Sandisk、Marvell和英特尔均收于行权价之上，约9600万美元的权利金在两周内增值至约1.42亿美元，账面回报约47%。&lt;/p&gt;
+&lt;p&gt;根据三季度末的13F持仓报告，经历7月清仓后，基金公开持仓从202.4亿美元骤降至15.8亿美元，26只持仓中21只已关闭。剩余仓位中，高达66%为看涨期权：Bloom Energy看涨期权（名义规模扩大十倍至3.89亿美元）、Nebius新增看涨期权（3.33亿美元）、Sandisk看涨期权（1.83亿美元）、存储ETF看涨期权（1.4亿美元），以及4.41亿美元的SharonAI股票。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但进入10月和11月，AI行情再次全面回调。&lt;/strong&gt;对冲基金连续数日抛售AI敞口，高盛主经纪数据显示，对冲基金自2025年初以来累计买入AI股票的净头寸被悉数抹平；全球AI股票净配置比例从6月峰值的31.7%降至10月中旬的26.1%。11月5日，纳斯达克创下新冠疫情以来最大单日跌幅，市场数据显示，Leopold在6月持有的那批标的，正是散户抛售最集中的品种之一。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;结果是：自9月30日以来，他的公开持仓中每一只标的均下跌36%至58%。那他批1月份弹性的看涨期权，除AMD外，Sandisk需要从当前价格上涨近两倍才能回到行权价，CoreWeave和英特尔需要涨逾一倍，其余标的也需要在两个月内上涨50%至80%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+第三次重启的底气：Anthropic IPO
+&lt;p&gt;支撑这次&amp;quot;Situational Awareness 2.0&amp;quot;重建的，是一张即将兑现的&amp;quot;底牌&amp;quot;。&lt;/p&gt;
+&lt;p&gt;Situational Awareness持有Anthropic约50亿美元的股份——而Aschenbrenner的妻子正担任Anthropic首席执行官Dario Amodei的幕僚长。&lt;/p&gt;
+&lt;p&gt;本周，Anthropic正式启动IPO，目标估值高达1.4万亿美元。上市完成后，这笔持股的价值预计将大幅提升，为基金重建提供重要的资本支撑。&lt;/p&gt;
+&lt;p&gt;据参与相关讨论的人士透露，Aschenbrenner还计划在明年年初向外部投资者募集额外资金。不过，杠杆和募资计划尚未最终敲定，仍有变数。&lt;/p&gt;
+重建的代价：修复信任
+&lt;p&gt;重启之路并不平坦。&lt;/p&gt;
+&lt;p&gt;今年7月，Aschenbrenner曾向投资者公开致歉，宣布基金已停止向银行借款来放大押注。如今重新引入杠杆，意味着他必须说服投资者和华尔街银行，自己有能力在如此短的时间内重建风险管控体系。&lt;/p&gt;
+&lt;p&gt;一位近期与基金管理层交流过的投资者对此态度颇为保留：&amp;quot;他们所学到的，不过是风险管理还需要再精细调整一下。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另一位投资者则直言：&amp;quot;反复爆仓是很丢人的事。所以他真的很想避免再次陷入那种局面，但我确实认为他预期自己会以相当大的规模重新管理公开投资组合。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在主经纪商关系上，Aschenbrenner已与Jefferies展开谈判，讨论开设主经纪账户——而Jefferies今年早些时候曾以基金对冲不足为由拒绝了他。此外，基金此前已与专业经纪商Clear Street展开合作。&lt;/p&gt;
+&lt;p&gt;Situational Awareness和Jefferies均拒绝置评。&lt;/p&gt;
+组织重建：从8人到30人
+&lt;p&gt;在人员架构上，这家基金正在快速扩张。&lt;/p&gt;
+&lt;p&gt;今年6月的监管文件显示，基金当时仅有8名员工。据知情人士透露，目前员工数量已增至约30人，同时正在招聘首席风险官——这是大型对冲基金或高杠杆基金的核心职能之一，也是此前危机中暴露出的最明显短板之一。&lt;/p&gt;
+&lt;p&gt;目前，基金仍管理着一个小规模的公开投资组合，根据本周最新发布的监管文件，持仓包括SharonAI和数据中心开发商CleanSpark等少数几只股票。其余资产超过100亿美元，主要为私募投资。&lt;/p&gt;
+信徒仍在
+&lt;p&gt;尽管经历了这场危机，部分投资者对Aschenbrenner依然保持信心。&lt;/p&gt;
+&lt;p&gt;&amp;quot;所有曾经相信他的人，现在可能还是相信他，&amp;quot;一位投资者说。&lt;/p&gt;
+&lt;p&gt;Aschenbrenner因被视为AI革命的&amp;quot;神童&amp;quot;而声名大噪。这场重建能否成功，将取决于他能否在短时间内重新赢得市场的信任——而Anthropic的IPO，或许正是他手中最有力的筹码。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] GTA 6--“史上最火爆游戏”来了？</title><link>https://wallstreetcn.com/articles/3786243</link><guid>2210ba9e1d1ea5c857b69902e7cd510102afcd262d4dd8dbaac0e97710b9251b</guid><pubDate>Thu, 19 Nov 2026 00:38:15 GMT</pubDate><description>&lt;p&gt;《侠盗猎车手6》（GTA 6）将于&lt;strong&gt;11月19日&lt;/strong&gt;正式发布，&lt;strong&gt;预购销售额已突破16.5亿美元，有望成为史上最大规模娱乐产品发布事件，其母公司Take-Two Interactive股价随之大涨。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据市场情报机构Sensor Tower数据，GTA 6预购销售额已超过16.5亿美元，预购数量逾1700万份，创下游戏史上最高预购纪录。游戏在评分聚合平台Metacritic上获得99分，与1998年任天堂经典《塞尔达传说：时之笛》并列史上最高分。Baird分析师Colin Sebastian在研报中写道：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“GTA 4获得98分，GTA 5获得97分，显然，这13年的等待没有白费。”&lt;/p&gt;
@@ -254,33 +293,66 @@ Take-Two股价上涨，但主机涨价构成潜在阻力
 &lt;p&gt;“是时候打破‘游戏是浪费时间’这一刻板印象了。”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;GTA 6的发布背后，是GTA 5长达13年的商业长青所积累的庞大用户基础与品牌势能。&lt;/strong&gt;Take-Two在11月财报中披露，GTA 5迄今已售出约2.35亿份，并“比历史上任何娱乐产品都更快地实现了10亿美元零售销售额”。即便在GTA 6发布前夕，GTA 5 Online仍平均每天为Rockstar Games创造约130万美元收入，且该游戏每月持续位列全球最畅销游戏前20名。&lt;/p&gt;
-&lt;p&gt;McKay指出，GTA 6未来还可能推出线上版本及PC版本，进一步延长游戏生命周期，正如GTA 5成功维持了13年的市场相关性。全球游戏行业2025年为全球经济贡献逾2010亿美元，GTA系列被视为这一产业的“皇冠明珠”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “重大软件崩溃”密集发生，只是因为怕AI？</title><link>https://wallstreetcn.com/articles/3786241</link><guid>1173dd49d8d11848f82f40ffc755bb8c21996614485bf1a3aba0de27c0c2432c</guid><pubDate>Thu, 19 Nov 2026 00:14:09 GMT</pubDate><description>&lt;p&gt;过去一周，美国多个关键机构和企业相继发生系统中断，从微软、摩根大通到美国联邦航空管理局（FAA）乃至国家安全局（NSA），无一幸免。美国官员和网络安全专家正将矛头指向同一个根源：&lt;strong&gt;AI驱动的漏洞发现能力急剧提升，迫使各机构以前所未有的速度和规模密集打补丁，由此引发系统性崩溃风险&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》11月18日报道，参议院情报特别委员会副主席Mark Warner明确表示，目前没有任何迹象显示上述事件源于网络攻击、外国干预或协调行动，“真正发生的，是人工智能正在以多快的速度改变网络安全格局所带来的后果”。他警告称，&lt;strong&gt;AI工具正对企业和政府机构施加“巨大压力”&lt;/strong&gt;，迫使它们“往往同时、立即”修补漏洞，而这种压力已对“并非为如此快速变化而设计的系统造成了极大负担”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此轮崩溃波及范围之广令市场警觉。&lt;/strong&gt;微软365服务中断近24小时，影响逾70个国家的电子邮件系统；FAA因“遗留设备不稳定”一度暂停全美航班；摩根大通旗下Chase Bank软件故障导致多家银行客户无法访问网上服务；就连NSA也据报出现与内部机密通信网络相关的中断。路透社18日报道，美国国务卿Marco Rubio本周表示，企业的补丁工作有时正在“对系统运作方式造成短期干扰”。&lt;/p&gt;
-AI重塑漏洞发现速度，补丁数量激增十倍乃至二十倍
-&lt;p&gt;&lt;strong&gt;AI工具的普及从根本上改变了软件漏洞的发现节奏。&lt;/strong&gt; 据路透社报道，网络安全公司Qualys的数据显示，微软本月已修复逾1200个软件漏洞，较去年同期高出近20倍。&lt;/p&gt;
-&lt;p&gt;据路透社消息，自主攻击性安全公司A Security的联合创始人兼首席技术官Yuval Itzchakov表示：“AI让发现关键漏洞变得既快速又廉价，需要立即修补的漏洞数量也随之激增。”他进一步指出，&lt;strong&gt;紧急补丁往往在数小时内就被推入核心基础设施，通常未经完整测试周期，而这些补丁本身具有侵入性——它们会改变运行时环境、内核和网络组件，而其他一切都依赖于这些组件。这种变更的速度和规模本身就是故障的来源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;路透社援引网络安全公司VulnCheck漏洞协调披露总监Josh Bressers的数据称，2026年迄今已有10万个漏洞被公开披露，但其中仅有1363个被证实在现实中遭到利用。Bressers在领英帖子中写道：&lt;/p&gt;
+&lt;p&gt;McKay指出，GTA 6未来还可能推出线上版本及PC版本，进一步延长游戏生命周期，正如GTA 5成功维持了13年的市场相关性。全球游戏行业2025年为全球经济贡献逾2010亿美元，GTA系列被视为这一产业的“皇冠明珠”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 金属崩了！金银铜齐跌</title><link>https://wallstreetcn.com/articles/3786224</link><guid>18c240e55eceadb85a78c9edb5e5a9936bb605038e65fb2c604026dec2c0383f</guid><pubDate>Thu, 19 Nov 2026 01:00:01 GMT</pubDate><description>&lt;p&gt;11月18日周三，全球金属市场遭遇猛烈抛售，铜等工业金属与贵金属金银集体大跌。盘中纽约期铜和伦铜跌近6%、纽约期金跌超3%、期银跌超5%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这轮下跌既受到美联储加息预期升温的冲击，也反映出市场对AI基础设施投资前景和全球工业需求的担忧。此前支撑金属价格上涨的多头交易正在松动，美元走强、资金获利了结和技术性抛售则进一步放大跌势。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;市场传言此轮抛售还与Anthropic（ANT）IPO的资金腾挪密切相关——投资者正在抛售风险资产以为这一可能创历史纪录的IPO筹集资金。&lt;/strong&gt;&lt;/p&gt;
+伦铜收创七个月新低 AI交易降温成为关键导火索
+&lt;p&gt;工业金属方面，铜价周三遭遇猛烈抛售。&lt;/p&gt;
+&lt;p&gt;伦敦金属交易所（LME）三个月期铜收跌约5.7%，报12471美元/吨，创今年4月初以来收盘新低，领跌伦敦基本金属期货，当天伦锌收跌超5%，伦锡跌约5%，伦铝和伦镍跌近4%。纽约商品交易所（COMEX）11月期铜在美股午盘时段跌幅一度接近6%。&lt;/p&gt;
+&lt;p&gt;铜价此前受益于AI数据中心建设、电网扩容和能源转型带来的需求预期，今年以来一度持续走高。但近期AI科技股遭遇剧烈震荡，投资者开始重新评估数据中心建设的投资回报，以及相关基础设施投资能否兑现此前的需求预期。&lt;/p&gt;
+&lt;p&gt;彭博社指出，AI行业近期的动荡正在削弱铜的市场吸引力。铜广泛用于电线、电缆和电力基础设施，此前被视为AI数据中心建设热潮的重要受益品种，如今却面临AI投资前景不确定性带来的反向冲击。&lt;/p&gt;
+&lt;p&gt;值得关注的是，&lt;strong&gt;英伟达周三同样大幅承压，抹去了此前Colette Kress业绩电话会议带来的逾5%涨幅，最终收跌约2-3%。英伟达的下跌拖累整体股市情绪，并进一步加剧了市场对AI资本开支前景的担忧，连带压制铜等AI相关大宗商品的需求预期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更值得关注的是，亿万富翁投资人、Duquesne家族办公室创始人德鲁肯米勒（Stanley Druckenmiller）周二公开表示，他已经转为看空铜。他此前曾是铜价上涨交易的支持者之一，其立场转变进一步打击市场信心。&lt;/p&gt;
+&lt;p&gt;Mercuria能源集团金属与矿业研究主管Nicholas Snowdon周三在一场行业会议上表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“鉴于防御方资源有限，理解哪些漏洞需要优先处理至关重要。并非所有漏洞都同等重要。”&lt;/p&gt;
+&lt;p&gt;&amp;quot;如今的铜需求更接近衰退环境，而不是增长环境。许多宏观层面的观点对当前铜需求给出了非常乐观的判断，但现实情况明显没有那么好。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;花旗集团首席执行官Jane Fraser在华盛顿一场彭博活动上表示，当前全球同时推送的补丁数量是“以往所见的五到十倍”，并补充称，“最终这将使我们更具韧性”。花旗本周未报告系统中断。&lt;/p&gt;
-从NSA到银行，关键基础设施无一幸免
-&lt;p&gt;&lt;strong&gt;此轮中断的覆盖范围凸显了关键基础设施在高速补丁环境下的脆弱性。&lt;/strong&gt;据英国《金融时报》报道，NSA据报发生了与一个机密内部通信网络相关的中断。NSA方面将其定性为“定期例行维护期间的临时性降级”，并表示“虽然部分内部系统受到影响，但关键任务能力保持完全运行”。&lt;/p&gt;
-&lt;p&gt;据英国《金融时报》消息，前副国家安全顾问、NSA前主任、现任Andreessen Horowitz普通合伙人Anne Neuberger表示：&lt;/p&gt;
+&lt;p&gt;与此同时，全球最大铜消费国中国的工业数据疲软也令铜需求前景承压。&lt;/p&gt;
+&lt;p&gt;不过，铜市场的现货基本面并非全面转弱。中国进口铜溢价近期上涨21%，达到创纪录高位，反映中国市场仍在争夺现货供应。中国库存偏低、全球矿山供应受限，仍然构成铜价的重要支撑。&lt;/p&gt;
+&lt;p&gt;这也意味着，当前铜价下跌在一定程度上反映了金融市场多头仓位撤退和需求预期降温，而不完全是现货市场供应宽松所致。&lt;/p&gt;
+美联储加息预期升温，黄金跌至14个月低位
+&lt;p&gt;贵金属市场同样遭遇重创，黄金跌至一年多来的最低水平，白银跌幅甚至超过黄金。&lt;/p&gt;
+&lt;p&gt;本周三美股午盘时段，现货黄金一度跌至3730美元下方，&lt;strong&gt;彭博宏观策略师Simon White指出，现货黄金已跌破3750美元，回落至2025年9月以来最低水平。&lt;/strong&gt;COMEX 12月黄金期货的日内跌幅均超过3%，均创2025年9月以来盘中新低。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;白银表现更加疲弱。COMEX 12月白银期货盘中跌超5%，现货白银盘中跌超5%、&lt;strong&gt;一度触及44美元关口&lt;/strong&gt;，同样触及2025年9月以来低位。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这轮贵金属抛售的核心推手，是美国通胀压力与经济数据表现强化了美联储进一步加息的预期。&lt;/p&gt;
+&lt;p&gt;美联储理事沃勒（Christopher Waller）周三表示，美联储需要在应对通胀方面采取更加积极的行动，提出两种可能性：12月会议加息50个基点，或者向市场传递2027年将以更快速度加息的信号。沃勒同时强调，&lt;strong&gt;他担忧通胀正在&amp;quot;蔓延扩散&amp;quot;，若不发出1月加息信号，则应在12月直接加息50个基点。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，美联储理事巴尔（Barr）表示&lt;strong&gt;通胀仍然过高，许多家庭正承受压力，进一步加息可能是适当之举；&lt;/strong&gt;旧金山联储主席戴利（Daly）&lt;strong&gt;则表示通胀水平高企但走势仍存不确定性，支持继续以审慎方式推进政策。&lt;/strong&gt; 本周稍早，美联储&amp;quot;三把手&amp;quot;——纽约联储主席威廉姆斯（John Williams）和圣路易斯联储主席穆萨莱姆（Alberto Musalem）也暗示，为遏制通胀，美联储可能还需要进一步加息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与此同时，美联储10月27日至28日政策会议纪要（FOMC Minutes）同步释放鹰派信号，进一步强化了市场对加息路径的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场随之迅速调整利率预期。据芝商所（CME）的FedWatch工具，投资者预计美联储12月加息25个基点的概率已达到92%，加息50个基点的概率为8%。&lt;strong&gt;不过，Westpac Banking Corp.固定收益研究主管Damien McColough指出：“目前市场已经消化了相当多的加息风险。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;加息预期推动美元走强，本周三，美元指数连续第六个交易日创19个月来盘中新高，美国国债收益率也随之上行。对于不产生利息收益的黄金而言，利率上升意味着持有黄金的机会成本增加，资金配置吸引力因此下降。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Zaye Capital Markets首席投资官Naeem Aslam表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“随着各机构争相在攻击者之前一步确保系统安全，没有人能置身事外。在某些情况下，同时应用多个补丁将导致中断。我怀疑这正是此次发生的情况。”&lt;/p&gt;
+&lt;p&gt;&amp;quot;我们认为，此轮抛售反映出美元走强、美国国债收益率上升以及进一步收紧货币政策的预期所带来的压力。昨天公布的经济数据进一步强化了这一市场情绪。&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;据路透社报道，至少一家大型银行正在紧急应对近期大量补丁带来的压力，一名银行内部人士表示“需要完成大量工作”。另有知情人士透露，美国货币监理署（OCC）在中断事件发生后已向各银行发出问询，试图评估影响，并询问是否加强了与客户的沟通。&lt;/p&gt;
-&lt;p&gt;企业安全与韧性咨询公司Walden Advisory负责人John Cosgrove表示：&lt;/p&gt;
+&lt;p&gt;他还警告称，如果美联储会议纪要进一步强化通胀持续存在的担忧，并支持追加收紧政策，美元和美债收益率可能继续走高，黄金价格可能进一步跌破3800美元。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;彭博宏观策略师Simon White则对黄金的长期价值持不同看法。他指出，黄金并非流动性对冲工具，而是历史上最常被投资者用于覆盖其他资产亏损的&amp;quot;存钱罐&amp;quot;。当前黄金基于实际利率、美元、股票和铜等指标衡量已处于低估状态，但趋势跟随者的介入令其进一步下探。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他强调，&lt;strong&gt;黄金作为偿付能力对冲工具、以及对抗通胀与通缩双尾风险的功能并未改变，美元体系仍处于动荡之中，各国央行和中国仍在持续增持黄金。因此，对于非流动性需求者而言，当前黄金的低估是一个机会。&lt;/strong&gt;&lt;/p&gt;
+美元和利率之外，资金撤退正在放大金属跌势
+&lt;p&gt;铜、黄金和白银虽然各自面临不同的基本面压力，但此次同步大跌也显示，市场正在经历一轮更广泛的风险敞口收缩。&lt;/p&gt;
+&lt;p&gt;一方面，美元走强和美联储加息预期升温，削弱了金属作为投资资产的吸引力；另一方面，AI交易降温不仅冲击铜的长期需求预期，也加剧了市场对全球经济增长和资本开支前景的担忧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此外，市场普遍流传的一个说法是，此轮抛售在一定程度上与Anthropic IPO的“腾仓”效应有关。类似于此前SpaceX上市前的市场表现，投资者——尤其是快钱资金——正在抛售包括加密货币、贵金属和铜在内的风险资产，以为Anthropic这一可能创历史纪录的IPO筹集资金。链上数据平台Glassnode的数据也印证了这一资金流动趋势。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此前铜价、贵金属均积累了大量多头仓位，价格持续上涨也吸引了趋势跟随型资金入场。当价格跌破关键技术支撑位，量化交易和趋势策略可能进一步削减多头仓位，令抛售形成自我强化。&lt;/p&gt;
+&lt;p&gt;彭博社指出，铜价此前已经从高位回落超过10%，投资者持续削减此前建立的多头仓位。随着AI股票市场出现动荡，铜的AI需求交易也开始失去吸引力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高盛交易台数据显示，周三市场整体活跃度偏低，机构客户流量较前两周均值下降约20%。对冲基金整体偏向买入，但空头比例高达56%，显示风险偏好分化明显；长线基金则呈现净卖出态势，卖出力量集中于科技、材料和通信服务板块。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此外，美国精炼铜关税预期降温，也削弱了此前支撑铜价上涨的另一项重要因素。市场对特朗普政府是否继续推进精炼铜关税的预期发生变化，意味着此前围绕美国进口需求建立的部分看涨交易面临平仓压力。&lt;/p&gt;
+&lt;p&gt;因此，当前金属市场的调整不仅是对单一经济数据或某项政策的反应，也包含了前期多头交易集中退潮带来的放大效应。&lt;/p&gt;
+后市关注美联储利率前景与中国需求，金属牛市逻辑面临检验
+&lt;p&gt;短期来看，金属市场能否企稳，首先取决于美国货币政策预期是否进一步转向鹰派。&lt;/p&gt;
+&lt;p&gt;美联储10月27日至28日政策会议纪要将成为市场接下来关注的重点。&lt;strong&gt;纪要已于周三公布，整体基调偏鹰，官员对通胀持续性的担忧有所加深，并支持进一步收紧货币政策，美元和美债收益率随之走高，对黄金、白银和铜形成新一轮压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于黄金而言，3800美元是市场关注的重要价位。&lt;strong&gt;当前黄金已跌破该关口，若美元和利率继续走高，黄金可能面临进一步下探风险；&lt;/strong&gt; 反之，如果后续数据或官员表态没有市场担忧的那么鹰派，美元和收益率回落，黄金也可能获得短线喘息机会。&lt;/p&gt;
+&lt;p&gt;铜市场则需要同时观察中国现货需求和AI基础设施投资两个方向。&lt;/p&gt;
+&lt;p&gt;如果中国现货铜溢价维持高位、库存继续偏低，供应端紧张仍可能限制铜价进一步下跌的空间。但如果全球经济增长放缓、AI资本开支预期持续降温，同时美元和融资成本维持高位，铜价短期仍难摆脱压力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TD Securities利率策略师Molly Brooks指出：&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“银行和其他所有机构在AI方面一直以效率和降本为短期目标，这积累了技术赤字。单独来看这或许不成问题，但AI现在正在引入一种你根本跟不上的变更速度和规模。”&lt;/p&gt;
+&lt;p&gt;“在美联储官员本周密集发声、强调通胀过高并倾向于进一步收紧的背景下，油价下跌在一定程度上缓解了市场对通胀传导压力的担忧，这也是本周债券市场能够获得支撑的原因之一。”&lt;/p&gt;
 &lt;/blockquote&gt;
-网络犯罪分子可能趁乱而入，监管机构介入评估
-&lt;p&gt;&lt;strong&gt;专家警告，即便此轮中断并非网络攻击所致，混乱局面本身也为威胁行为者提供了可乘之机。&lt;/strong&gt;据英国《金融时报》报道，FBI网络部门前副助理局长Cynthia Kaiser表示，软件漏洞补丁竞赛“不可避免地制造摩擦和干扰”，并提醒机构和个人对任何“主动联系提供协助”的行为保持高度警惕。&lt;/p&gt;
-&lt;p&gt;“即便中断并非由网络攻击引起，这些运营分心的时刻也会为威胁行为者和机会主义者留下危险缺口，”Kaiser说。&lt;/p&gt;
-&lt;p&gt;在监管层面，路透社报道，美国国家情报总监Jay Clayton在众议院国土安全委员会的全球威胁听证会上表示，目前没有迹象显示各次技术中断之间存在关联，但他指出，计算机系统的速度和能力水平“正在大幅提升”，导致原本已经老旧的遗留系统和设备老化速度进一步加快。&lt;/p&gt;
-&lt;p&gt;财富管理公司Luttner Financial财富管理总监Ronald Gestiehr表示，技术已让银行业务“极为便利”，偶发性中断虽令人沮丧，但他认为不会对消费者信心产生重大影响，“最重要的是这些问题被识别、解决和告知客户的速度”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟</title><link>https://wallstreetcn.com/articles/3786214</link><guid>1c9bbf2f138ec693fdfa815200dae4d26bc31cf69ce79518483d602ea181ab5a</guid><pubDate>Wed, 18 Nov 2026 15:15:36 GMT</pubDate><description>&lt;p&gt;腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，WorkBuddy日活突破1000万、年化收入超5亿美元，管理层定调——&amp;quot;AI让现有业务用更少的人，多出来的人去建新业务。&amp;quot;&lt;/p&gt;
+&lt;p&gt;从更长周期看，AI数据中心、电网扩容、电气化和能源转型带来的铜需求并未消失，黄金的央行购金和资产多元化配置逻辑也并未完全改变。&lt;strong&gt;正如Simon White所言，美元体系的结构性动荡、地缘政治不确定性，以及各国央行持续增持黄金的趋势，均构成黄金中长期价值的底层支撑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但当前市场正在重新审视此前积累的乐观预期。在加息预期升温、美元走强与AI投资交易降温共同作用下，&lt;strong&gt;叠加Anthropic IPO引发的流动性腾挪效应&lt;/strong&gt;，金属市场此前的上涨逻辑正面临一轮严峻检验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟</title><link>https://wallstreetcn.com/articles/3786214</link><guid>1c9bbf2f138ec693fdfa815200dae4d26bc31cf69ce79518483d602ea181ab5a</guid><pubDate>Wed, 18 Nov 2026 15:15:36 GMT</pubDate><description>&lt;p&gt;腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，WorkBuddy日活突破1000万、年化收入超5亿美元，管理层定调——&amp;quot;AI让现有业务用更少的人，多出来的人去建新业务。&amp;quot;&lt;/p&gt;
 &lt;p&gt;周三晚间，腾讯2026年第三季度财报电话会召开，公司创始人兼CEO马化腾、总裁刘炽平、高级执行副总裁兼首席战略官詹姆斯·米歇尔（James Mitchell）以及CFO罗硕瀚参与本次电话会。&lt;/p&gt;
 &lt;p&gt;总体而言，管理层在本次电话会上定调：AI投入正在产生可见回报，但算力限制对下一代模型训练带来真实压力。&lt;/p&gt;
 &lt;p&gt;腾讯表示，WorkBuddy的日活跃用户（DAU）超过1000万，每天消耗100万亿token，&lt;strong&gt;最近七天的收入按年化折算超过5亿美元，是腾讯会议的两倍以上，三季度收入是二季度的5倍以上&lt;/strong&gt;，中国百强企业已有60%成为它的客户。&lt;/p&gt;
@@ -508,19 +580,7 @@ AI重塑组织架构，还处于&lt;strong&gt;&amp;quot;非常早期的阶段&am
 &lt;p&gt;这一调整也与传统卖场租赁业务承压有关。报告期内，集团租金收入12.86亿元，同比减少1.17亿元。公司希望通过扩大可出租面积、改变租户组合，对冲单位面积租金下降的影响。&lt;/p&gt;
 &lt;p&gt;在新业态方面，据公司方面披露，大润发Super的线上销售占比已达到31%，经营现金流转正；前置仓则尝试复用大卖场现有供应链，将单仓投入控制在约40万元。&lt;/p&gt;
 &lt;p&gt;不过，中型超市规模尚未较3月底扩大，前置仓也仍处于模式验证和复制阶段。&lt;/p&gt;
-&lt;p&gt;传统大卖场仍然承担集团主要经营规模，其客流和同店销售尚未恢复。如何将局部品类、门店和新业态的改善转化为整体业绩增长，仍是高鑫零售下一阶段需要回答的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国10月成屋签约销售跌至历史新低，高利率持续压制楼市需求</title><link>https://wallstreetcn.com/articles/3786220</link><guid>15b9ffb302d6566ed5ae37c9ff6df3f37ab8fcd70622e5d3e5fb530b7bccc15f</guid><pubDate>Wed, 18 Nov 2026 22:13:35 GMT</pubDate><description>&lt;p&gt;美国房地产市场持续承压。10月成屋签约销售指数创下2001年有记录以来最低水平，高抵押贷款利率对住房需求的抑制效应进一步显现。&lt;/p&gt;
-&lt;p&gt;据全美房地产经纪人协会（NAR）周三发布的数据，&lt;strong&gt;10月成屋签约销售指数环比下滑4.7%至63，较去年同期暴跌约17%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这一指标追踪合同签署情况，通常领先于成屋成交数据一至两个月，是观察楼市走向的重要前瞻性指标。&lt;/p&gt;
-&lt;p&gt;受此拖累，&lt;strong&gt;以合同成交为口径的成屋销售量已跌至2010年以来最低水平，市场短期内缺乏明显改善迹象。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NAR首席经济学家Lawrence Yun在声明中表示，&lt;strong&gt;&amp;quot;抵押贷款利率似乎已经见顶，10月或将成为本轮楼市周期中合同签署量的低点。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-
-高利率成最大拖累，各地区普遍承压
-
-&lt;p&gt;抵押贷款利率高企是本轮楼市疲软的核心症结。&lt;/p&gt;
-&lt;p&gt;10月初，贷款利率升至近三年高位，月内虽有所回落，但仍较疫情前水平高出逾一个百分点，持续压缩购房者的承受能力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从地区分布来看，10月签约销售在美国各地区全线下滑。其中，西部降幅最为明显，达6.9%；全美最大成屋销售市场南部地区跌幅亦达6.3%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;同日发布的另一组数据显示，10月新建住宅开工量出现反弹，但增量主要来自多户型住宅，单户型住宅开工步伐依然接近年内最低水平。&lt;/p&gt;
-&lt;p&gt;这一结构分化表明，建筑商对独栋住宅市场前景仍持审慎态度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英国10月CPI同比升至3.6%创近一年新高，服务通胀低于预期</title><link>https://wallstreetcn.com/articles/3786223</link><guid>fccc0a0bc5e95232849b13a0ada45a1571a2cfcf243007425f99f704bc51f439</guid><pubDate>Wed, 18 Nov 2026 17:06:40 GMT</pubDate><description>&lt;p&gt;英国10月通胀连续第四个月上升，达到近一年来最高水平，但服务业通胀低于预期，显示国内价格压力尚未明显扩大，市场对英国央行12月加息的押注随之降温。&lt;/p&gt;
+&lt;p&gt;传统大卖场仍然承担集团主要经营规模，其客流和同店销售尚未恢复。如何将局部品类、门店和新业态的改善转化为整体业绩增长，仍是高鑫零售下一阶段需要回答的问题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 英国10月CPI同比升至3.6%创近一年新高，服务通胀低于预期</title><link>https://wallstreetcn.com/articles/3786223</link><guid>fccc0a0bc5e95232849b13a0ada45a1571a2cfcf243007425f99f704bc51f439</guid><pubDate>Wed, 18 Nov 2026 17:06:40 GMT</pubDate><description>&lt;p&gt;英国10月通胀连续第四个月上升，达到近一年来最高水平，但服务业通胀低于预期，显示国内价格压力尚未明显扩大，市场对英国央行12月加息的押注随之降温。&lt;/p&gt;
 &lt;p&gt;英国国家统计局（ONS）周三公布的数据显示，&lt;strong&gt;10月消费者价格指数（CPI）同比上涨3.6%，高于9月的3.5%，为近一年来最高水平，与路透社调查的经济学家预期一致。油价上涨是推动整体通胀回升的主要因素。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不过，英国央行货币政策委员会（MPC）重点关注的服务业通胀维持在3.7%，低于市场预期的3.8%；食品通胀也从9月的1.3%降至0.9%。两项数据缓和了市场对国内通胀压力进一步扩散的担忧。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;互换市场数据显示，交易员预计英国央行12月加息25个基点的概率降至约80%，低于本周早些时候的约90%。&lt;/strong&gt;&lt;/p&gt;
