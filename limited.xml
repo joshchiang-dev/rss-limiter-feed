@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 20 Nov 2026 00:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 阿里电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正</title><link>https://wallstreetcn.com/articles/3786299</link><guid>dd8ab8ed092fc821d7b04d835de995cb8ee071306cc674814f4a570eb45f1b9a</guid><pubDate>Thu, 19 Nov 2026 13:24:51 GMT</pubDate><description>&lt;p&gt;全球AI算力供应格局的变化，正在重塑阿里巴巴的基础设施投资计划。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Fri, 20 Nov 2026 00:59:28 GMT</lastBuildDate><item><title>[华尔街见闻] 阿里电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正</title><link>https://wallstreetcn.com/articles/3786299</link><guid>dd8ab8ed092fc821d7b04d835de995cb8ee071306cc674814f4a570eb45f1b9a</guid><pubDate>Thu, 19 Nov 2026 13:24:51 GMT</pubDate><description>&lt;p&gt;全球AI算力供应格局的变化，正在重塑阿里巴巴的基础设施投资计划。&lt;/p&gt;
 &lt;p&gt;在第二财季财报电话会上，阿里管理层透露，受全球不同区域算力政策变化影响，&lt;strong&gt;公司长期20GW数据中心建设目标存在下调可能，整体资本开支计划也将相应降低&lt;/strong&gt;。与此同时，&lt;strong&gt;阿里将加快以平头哥为核心的国产算力供应链建设，预计2028年国产算力产品持续放量后，云业务收入增速有望重新恢复至50%以上。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;吴泳铭在电话会上表示，&lt;/strong&gt;2027年一季度，新一代平头哥的国产芯片完全可以支持超大规模模型的训练。“其实，我们已经开始在今年这一代平头哥芯片开始训练下一代模型。随着平头哥的国产芯片的产能持续扩量，从长远来看，对于阿里模型的发展，会是一种长期的支撑。因为未来不管是阿里，还是合作伙伴、客户，&lt;strong&gt;绝大部分模型都会完全依赖于国产芯片做训练，无论是预训练还是后训练。&lt;/strong&gt;”&lt;/p&gt;
 &lt;p&gt;更值得关注的是，阿里首次给出了本轮AI基础设施投资周期的现金流转正时间表。管理层预计，&lt;strong&gt;2027年和2028年上半年将是本轮算力投入的高峰期，随着国产算力供应链规模化扩张，阿里有望于2028年下半年实现现金流转正。&lt;/strong&gt;&lt;/p&gt;
@@ -167,7 +167,26 @@ Anthropic IPO成“抛售信号”
 &lt;p&gt;&lt;/p&gt;
 竞争压力与药品业务拖累并存
 &lt;p&gt;沃尔玛面临的竞争格局正在趋紧。Target正从持续低迷中复苏，Kroger在一位前沃尔玛高管带领下承诺削减价格，折扣零售商TJX也于同日公布了好于预期的销售数据。&lt;/p&gt;
-&lt;p&gt;与此同时，药品价格下降持续拖累沃尔玛药房业务表现，压制美国市场整体销售。公司管理层此前已表示，这一不利因素预计将延续至明年。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宝洁押注自动化降本：计划到2030年削减最多30%制造业员工，降本百亿美元</title><link>https://wallstreetcn.com/articles/3786320</link><guid>af634a123080cb7eea8532c373f5180535e123b26d2fde71ce88b1affb839c82</guid><pubDate>Thu, 19 Nov 2026 22:53:14 GMT</pubDate><description>&lt;p&gt;宝洁公司正推进其历史上规模最大的供应链重组之一。面对大宗商品成本高企与消费需求疲软的双重压力，&lt;strong&gt;这家日用消费品巨头计划在本十年末前将制造及物流员工规模削减20%至30%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，药品价格下降持续拖累沃尔玛药房业务表现，压制美国市场整体销售。公司管理层此前已表示，这一不利因素预计将延续至明年。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic“超级IPO”：过半机构投资者“一股未得”，散户“凶猛买卖”</title><link>https://wallstreetcn.com/articles/3786325</link><guid>934fb9a43878e7237996493d8389f10c3dcf383dc02c422fad3cbd4ed49c413f</guid><pubDate>Fri, 20 Nov 2026 00:15:17 GMT</pubDate><description>&lt;p&gt;Anthropic史上最大规模IPO在机构与散户之间制造了截然不同的两个世界：超过半数机构投资者颗粒无收，而散户则以创纪录的交易量同时扮演买家与卖家。&lt;/p&gt;
+&lt;p&gt;据彭博最新报道，&lt;strong&gt;约1200家机构投资者参与了此次认购，但超过半数未能获得任何配股&lt;/strong&gt;。Anthropic此次IPO连同七位联合创始人共募资1073亿美元，其中包括来自英伟达、谷歌及超微半导体（AMD）等投资者的260亿美元私募配售，从SpaceX手中夺得史上最大规模首次公开募股的桂冠。按发行价计算，Anthropic完全摊薄市值达1.5万亿美元。&lt;/p&gt;
+&lt;p&gt;与此同时，散户投资者的总交易额（含买入与卖出）预计将达到7亿至8亿美元，超越SpaceX上市首日的6.69亿美元，创下Vanda Research追溯至2012年以来所有IPO中散户交易额的历史最高纪录。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786269"&gt;华尔街见闻文章&lt;/a&gt;写道，上市首日，Anthropic股价一度较发行价飙升差34%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后持续回吐涨幅，刷新日低时回到至92.80美元下方、涨幅收窄至不足12%，到收盘，较发行价涨约17.1%，相当于回吐开盘时的半数涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+机构配股严重向美国本土倾斜，欧洲投资者几乎“颗粒无收”
+&lt;p&gt;据报道，知情人士透露，此次配股在地域分布上严重偏向美国本土投资者，&lt;strong&gt;大量来自美国以外的订单未获任何配售&lt;/strong&gt;，其中欧洲投资者受影响尤为突出。&lt;/p&gt;
+&lt;p&gt;La Financiere de l&amp;#x27;Echiquier科技基金经理Christophe Pouchoy表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“对于身处欧洲的投资者而言，参与美国IPO并获得配股本就相当困难，在这种极度抢手的交易中尤为如此。承销商面对巨大需求不得不做出取舍，绝大多数欧洲投资者最终未获任何配售。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;相比之下，据彭博此前报道，SpaceX IPO时约有三分之一的下单投资者未获配股，Anthropic此次未获配股的机构投资者比例明显更高。&lt;/p&gt;
+&lt;p&gt;此次IPO是首家以开发最先进AI模型为核心业务的公司登陆公开市场，Anthropic完全摊薄市值达1.5万亿美元，低于SpaceX上市时1.8万亿美元的估值。&lt;/p&gt;
+散户创纪录双向交易，净买入规模仍逊于SpaceX
+&lt;p&gt;散户投资者在Anthropic上市首日展现出异乎寻常的交投热情。据Vanda Research的Viraj Patel介绍，截至当日下午晚些时候，非专业投资者对Anthropic股票的&lt;strong&gt;净买入规模预计将在收盘前达到约5000万至6000万美元&lt;/strong&gt;，有望跻身史上最大单日净买入记录之列——但仍低于SpaceX上市首日的1.18亿美元以及Coinbase Global Inc. 2021年上市时的9200万美元。&lt;/p&gt;
+&lt;p&gt;然而，若以买卖双向合计的总交易额衡量，散户的参与程度则已全面超越此前所有记录。Patel表示，散户总交易额预计达到7亿至8亿美元，超过SpaceX的6.69亿美元，&lt;strong&gt;是其数据库中追溯至2012年以来所有IPO中散户交易额的最高纪录&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;Patel在早些时候的报告中指出，&lt;strong&gt;“散户正在大力交易这只股票”，并补充称投资者“双向参与，而非单边买入”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在散户经纪商层面，美国最大零售经纪商Robinhood Markets Inc.首席经纪官Steven Quirk在彭博ETFs in Depth大会间隙表示，散户投资者对Anthropic的配股需求“远超”实际所获份额。他表示，Robinhood获得了“不错的配额”，但上市首日的交易仍以机构投资者为主导。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尽管如此，Quirk表示，每一位希望持有Anthropic股票的Robinhood客户都至少获得了一股。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;另外，值得关注的是，据Patel介绍，散户投资者为筹集资金购入Anthropic股票，选择出售其他个股，&lt;strong&gt;抛售范围覆盖整个“AI板块&lt;/strong&gt;”，其中AMD跌幅居前——此前&lt;a href="https://wallstreetcn.com/articles/3786312"&gt;Hunterbrook Capital宣布做空该股&lt;/a&gt;，理由是其在中国存在潜在风险业务。与此同时，长期受散户追捧的英伟达买盘也“急剧萎缩”。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 宝洁押注自动化降本：计划到2030年削减最多30%制造业员工，降本百亿美元</title><link>https://wallstreetcn.com/articles/3786320</link><guid>af634a123080cb7eea8532c373f5180535e123b26d2fde71ce88b1affb839c82</guid><pubDate>Thu, 19 Nov 2026 22:53:14 GMT</pubDate><description>&lt;p&gt;宝洁公司正推进其历史上规模最大的供应链重组之一。面对大宗商品成本高企与消费需求疲软的双重压力，&lt;strong&gt;这家日用消费品巨头计划在本十年末前将制造及物流员工规模削减20%至30%。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;宝洁首席产品供应官Luc Reynaert周四在一场投资者说明会上宣布了上述计划，&lt;strong&gt;削减范围将涵盖合同工。该公司设定的目标是到2030年实现累计生产效率节约100亿美元。&lt;/strong&gt;宝洁上月已披露，大宗商品成本上升预计将在本财年带来14亿美元的额外支出。&lt;/p&gt;
 &lt;p&gt;此次裁员公告对市场而言是一个明确信号：宝洁将以自动化与精简人力作为应对利润承压的核心手段。该公司上一财年（截至去年6月）每股盈利仅增长1%，为2016年以来最低增速。&lt;/p&gt;
 &lt;p&gt;周四，宝洁收跌1.43%。&lt;/p&gt;
@@ -367,33 +386,76 @@ Anthropic创纪录IPO提振AI热情，资金争夺成为市场焦点
 &lt;p&gt;美联储政策信号近期明显偏鹰。美联储理事Waller重申加息50个基点的主张，会议纪要显示，“几乎所有”联邦公开市场委员会成员都倾向于进一步加息。然而，债券市场反而出现后端收益率下行，收益率曲线呈现牛市平坦化走势。&lt;/p&gt;
 &lt;p&gt;澳大利亚就业数据进一步强化经济减速信号。该国10月就业人数减少4.35万，远低于市场预期的增加2.5万，此前9月也减少3.93万。失业率升至4.9%，达到2021年以来最高水平。连续两个月就业人数下降，推动市场重新评估澳大利亚经济前景，降息预期升温，两年期国债收益率随之明显下跌。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Privorotsky认为，全球债券市场正在提前反映增长放缓风险。资本开支预期下调、大宗商品价格回落以及通胀压力减弱，正共同推动投资者重新评估利率路径。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他将当前环境与2018年末的周期减速相比较，认为两者都具有后期周期特征，但政策含义有所不同。当前利率走势表明，市场已经消化了相当一部分紧缩预期。不过，2018年末纳斯达克100指数曾从高点回撤约25%，美股经历圣诞节前后的剧烈抛售后，美联储才最终转向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国财政部发行“9天期票据”，上一次是在2008年7月</title><link>https://wallstreetcn.com/articles/3786324</link><guid>d6d3b14971d4c4197dc0b8d97d20cac90a3cc56ebcb2651f1aaf8cea2d621e75</guid><pubDate>Thu, 19 Nov 2026 23:58:46 GMT</pubDate><description>&lt;p&gt;美国财政部正以越来越短的时间窗口管理其现金需求，一个尘封近17年的融资工具悄然重出江湖，令市场对美联储储备充裕程度的判断再添疑虑。&lt;/p&gt;
-&lt;p&gt;11月19日，&lt;strong&gt;美国财政部以3.910%的利率售出150亿美元、期限仅9天的现金管理短期国库券（CMB），这是自2008年7月以来首次发行此类超短期工具，彼时IndyMac刚刚被接管，雷曼兄弟距离破产仅剩两个月。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此次“9天期票据”发行日期为11月24日，到期日为12月3日。拍卖需求尚算稳健，间接投标人获配比例达45.8%，高于10月同类标售时的18.3%，主要交易商获配比例则由77.6%降至52.0%。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自1980年有完整拍卖记录以来，同类工具总计仅发行过11次，而过去十年中有六年完全未有此类发行。&lt;/strong&gt;而就在四周前的10月22日，美国财政部已售出250亿美元的10天期短期国库券。&lt;/p&gt;
+&lt;p&gt;他将当前环境与2018年末的周期减速相比较，认为两者都具有后期周期特征，但政策含义有所不同。当前利率走势表明，市场已经消化了相当一部分紧缩预期。不过，2018年末纳斯达克100指数曾从高点回撤约25%，美股经历圣诞节前后的剧烈抛售后，美联储才最终转向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 罕见！CoreWeave联合创始人3000万美元买入自己债券</title><link>https://wallstreetcn.com/articles/3786328</link><guid>c8ed97ea9556cb466fc7ad569f0cbe4a599f4a28e7d42e9ec75dd05a95a8bef6</guid><pubDate>Fri, 20 Nov 2026 00:48:23 GMT</pubDate><description>&lt;p&gt;CoreWeave联合创始人以一笔罕见的债券自购行动，向市场传递信心信号。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CoreWeave联合创始人兼首席战略官Brian Venturo周三（11月18日）在LinkedIn发文披露，他已买入该公司面值3000万美元的无担保债券，并计划持有至2031年10月1日到期。&lt;/strong&gt;“我对CoreWeave的信心从未如此之强，”他写道。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;短期融资工具的高频重现，折射出美国政府现金管理压力的悄然升温。&lt;/strong&gt;&lt;/p&gt;
-
-美国财政部现金缓冲为何告急
-
-&lt;p&gt;据Zerohedge统计，超短的CMB已经变得很少见，过去十年中有六年一次也没有出现。&lt;/p&gt;
+&lt;p&gt;CoreWeave随后在社交平台X上转发了这一表态。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美国财政部在11月4日的再融资声明中已预告，可能在11月底发行一只超短期CMB，此次9天期工具正是用于跨越月末缺口——结算日定于感恩节前的周二，到期日则恰好落在12月1日大额资金流出之后。&lt;/p&gt;
-&lt;p&gt;据Reverse Engineering Finance的John Comiskey分析，&lt;strong&gt;10月那笔10天期CMB的用途，是在财政部一般账户（TGA）余额逼近财政部现金余额政策规定的最低值时，为账户提供短暂的流动性桥接。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;美国财政部目前正在为TGA补充储备，预计该账户余额将在11月底触及约1.025万亿美元的阶段性峰值。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问题的另一端在于美联储。&lt;/strong&gt;高盛利率团队此前预计，美联储将于本月重启储备管理购债操作，规模约100亿美元。然而，纽约联储安排了11月16日至12月11日期间零次储备购买，将始于8月中旬的暂停期继续延长。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两相叠加——美联储不注入储备，美国财政部又在加速填充TGA，月末的流动性缺口只能靠一张存续9天的票据来填补。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;消息公布后，CoreWeave股价周四盘中一度涨逾10.5%，但随后受科技板块整体走弱拖累转跌，最终收跌6%。该股自10月初以来已累计下跌近50%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，与高管买入股票须在两个工作日内向美国证券交易委员会（SEC）提交Form 4表格不同，&lt;strong&gt;普通非可转换债券并无此类强制披露要求，这意味着市场直至Venturo主动发帖才获悉这笔交易。&lt;/strong&gt;&lt;/p&gt;
+罕见操作：为何选择债券而非股票
+&lt;p&gt;&lt;strong&gt;高管以自购公司债券的方式表达信心，在市场上极为少见。&lt;/strong&gt;通常情况下，认为公司被低估的管理层更倾向于买入股票，以获取更大的上行空间。&lt;/p&gt;
+&lt;p&gt;据MarketWatch报道，历史上高管持有公司债务的高知名度案例，往往出现在更为极端的下行保护情境中。前西尔斯（Sears）CEO Eddie Lampert曾在该零售商2018年申请破产前，通过其对冲基金向其提供逾26亿美元贷款。&lt;/p&gt;
+&lt;p&gt;此外，部分社交媒体评论人士也指出，&lt;strong&gt;Venturo近期曾出售CoreWeave股票。根据SEC文件，他在截至9月30日的三个月内出售了逾8万股公司股份。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Venturo此举的背景，是CoreWeave近期在债务与股权市场双双承压。该公司商业模式目前高度依赖借贷资金推动数据中心上线，这使其对利率上升或AI算力需求放缓较为敏感。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Venturo买入的债券系列为CoreWeave的9.75%优先无担保票据，即不以公司资产作为抵押。&lt;/strong&gt;据LSEG数据，这批票据近期交易价格约为面值的81美分。&lt;/p&gt;
+&lt;p&gt;CoreWeave已在此前采取措施回应华尔街的顾虑。&lt;strong&gt;公司在近期第三季度财报电话会议上宣布，在当前收益率水平下，不打算继续在无担保债务市场融资。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为替代，公司表示将转而利用客户预付款及延迟提款定期贷款——后者是一种以特定客户合同为支撑的融资安排，允许公司分批借款。这一融资策略调整，被市场视为缓解债务担忧的积极信号。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Anthropic开盘大涨，一切看似完美！随后风云突变，美股跳水，发生了什么？</title><link>https://wallstreetcn.com/articles/3786326</link><guid>39ad0953553bf1f73ed662e2b5eae42d94839174fc3cd54d9c52179e06176a1a</guid><pubDate>Fri, 20 Nov 2026 00:32:19 GMT</pubDate><description>&lt;p&gt;11月19日，Anthropic以83美元定价上市，开盘即飙升至111.50美元，全场沸腾。但Anthropic开盘即是高点，股价随即一路回落，收盘97美元，涨幅收窄至17%。&lt;/p&gt;
+&lt;p&gt;与此同时，美股大盘也是冲高回落的走势——纳斯达克从开盘涨逾2%，到收盘跌2.25%，单日振幅超过4个百分点。标普500当日蒸发市值约1.3万亿美元，与Anthropic此次IPO募资规模高度吻合。&lt;/p&gt;
+&lt;p&gt;美股盘中，做空机构Hunterbrook发布报告做空AMD，拖累AI板块整体承压；逾千亿美元的IPO融资规模抽走市场流动性，叠加做市商处于极端负gamma状态及月度期权到期压力，成为市场剧烈波动的核心推手。Anthropic上市首日的剧情，本该是AI信仰的加固时刻，但却意外演变成一场压力测试。&lt;/p&gt;
+开盘：一切看起来很美好
+&lt;p&gt;11月19日周四美股开盘前，市场弥漫着久违的乐观气氛。&lt;/p&gt;
+&lt;p&gt;Anthropic以83美元的发行价挂牌，高于此前路演区间上限，对应估值约1.1万亿美元，创下IPO史上最高募资规模，消息提振隔夜美股期货全线走高。&lt;/p&gt;
+&lt;p&gt;美东时间早盘9时30分，纳斯达克综合指数随即冲高逾2%，标普500同步上涨，市场情绪一度高涨。彼时，市场普遍将这笔史上最大规模的科技IPO解读为AI交易依然健康的有力信号。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Direxion资本市场主管Jake Behan表示：“此前市场一直在讨论AI交易是否已经走过了头，&lt;strong&gt;所以先看到英伟达超预期，再看到交易员愿意追逐Anthropic高于发行价的价格，这是相当值得关注的信号。&lt;/strong&gt;”“这并不能终结所有估值争议，但它有力地表明，市场还没准备好放弃这笔交易。”&lt;/p&gt;
+&lt;p&gt;然而，好景不长。&lt;/p&gt;
+开盘即高点
+&lt;p&gt;就在开盘后不久，一条彭博等媒体报道的消息迅速在华尔街交易台蔓延：&lt;strong&gt;“Anthropic IPO据报几乎未向大多数机构买家配售。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这条消息让市场瞬间警觉。ZeroHedge分析指出，这背后有两种解读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;要么是承销商对需求极度自信，刻意压缩机构配额以确保上市后股价爆发；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要么，是机构根本不愿以83美元的价格接盘，最终只能将筹码塞给对价格更不敏感的散户。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;市场似乎倾向于后者。&lt;/p&gt;
+上午至午间：AMD暴跌，芯片板块遭殃
+&lt;p&gt;就在大盘摇摇欲坠之际，另一颗“炸弹”引爆。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;做空机构Hunterbrook发布报告，披露其已做空AMD&lt;/strong&gt;，并指控该公司持续向被美国列入黑名单的企业提供芯片固件更新服务，同时与此前引发英伟达监管争议的部分企业存在关联。&lt;/p&gt;
+&lt;p&gt;AMD随即回应：“这些说法歪曲了AMD的业务实践和合作关系。”&lt;/p&gt;
+&lt;p&gt;但声明并未能止住跌势。AMD单日跌幅超9%，拖累整个芯片及AI板块集体走低。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+正午时分，Anthropic开盘即遭抛售
+&lt;p&gt;&lt;strong&gt;美东时间正午12时，Anthropic正式开盘，开盘价111.50美元，较83美元发行价大涨逾34%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，就在开盘的瞬间，股价便遭到抛售——“利好兑现”的逻辑应声而至。与此同时，大盘也几乎在同一时刻跌至日内低点。&lt;/p&gt;
+&lt;p&gt;据《纽约时报》报道，这一走势与SpaceX今年6月上市时如出一辙，彼时同样出现了开盘冲高后快速回落的行情，投资者对此早有心理准备。&lt;/p&gt;
+&lt;p&gt;Anthropic最终以每股97美元收盘，涨幅收窄至17%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+下午：跌势加速，全线溃退
+&lt;p&gt;美东午后，跌势进一步蔓延。&lt;/p&gt;
+&lt;p&gt;纳指从开盘涨逾2%，一路反转至收跌2.25%，单日振幅超4个百分点。标普500收跌2%，11个板块全线飘绿，市值单日蒸发约1.3万亿美元——与Anthropic上市时约1.3万亿美元的估值规模几乎相当。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这场抛售，不只是科技股的问题。&lt;/strong&gt;标普500消费可选板块所有成分股在午后均告下跌，领跌的是Williams-Sonoma——该公司公布的第三季度业绩显示，销售额未达分析师预期。强劲的消费支出一直是今年美国经济韧性的重要支柱，投资者对消费放缓的信号格外敏感。&lt;/p&gt;
+&lt;p&gt;当日美股VIX恐慌指数升至近28，VVIX（波动率的波动率）突破125，标普500一个月隐含相关性同步攀升——分析称，这些指标均指向一个广泛的去风险环境，而非个股层面的孤立性抛售。&lt;/p&gt;
+&lt;p&gt;这也是标普500连续第六个交易日下跌，为2024年4月以来最长连跌纪录。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+幕后推手还有负Gamma与流动性抽离
+&lt;p&gt;这场暴跌，还有多条隐藏的线索。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，技术结构极度脆弱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;野村证券策略师Charlie McElligott此前已预警，在英伟达财报、Anthropic上市与期权到期“四重风险”叠加之下，做市商的“负Gamma”敞口已升至2019年以来最高水平。&lt;/p&gt;
+&lt;p&gt;当做市商处于负Gamma状态时，他们被迫顺势对冲——市场下跌时卖出，进一步放大跌幅。0DTE（零日到期）期权在下午的流量大量涌入，进一步压垮了较长期限的支撑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，IPO本身“抽干”了市场流动性。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这笔IPO合计募资813亿美元（含267亿美元的vendor placement，总计逾1000亿美元）。交易台消息称，市场参与者为筹集认购资金，抛售了黄金、铜、加密货币以及英伟达等AI代理资产。这一说法与盘面吻合：黄金跌破3800美元、铜价大跌约5%、加密货币全线回调。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，消费板块拖累更为明显。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;标普500所有非必需消费品股票在午后均告下跌。强劲的消费支出一直是今年美国经济韧性的核心支柱，这一信号令投资者对消费放缓的担忧升温。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四，年末获利了结压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，机构投资者也有自己的盘算。《纽约时报》指出，尽管近期市场波动加剧，投资者今年整体仍享有丰厚回报。感恩节前后，交易员倾向于锁定利润，因为年末市场流动性趋于收缩，届时以理想价格成交的难度会更大。&lt;/p&gt;
 
-债务上限逼近，2027风险已在酝酿
+乐观者还未放弃
 
-&lt;p&gt;眼下的压力或许仅是预演。截至11月13日，美国债务距41.1万亿美元上限尚有6851亿美元空间，但这一缺口正在快速收窄。&lt;strong&gt;高盛与摩根大通均预计债务上限约束将于明年2月生效。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;历史经验显示，&lt;strong&gt;债务上限触及后TGA将被动消耗，待上限问题解决后又须快速重建，这一过程在2019年和2023年均曾触发货币市场的剧烈波动&lt;/strong&gt;。高盛对此发出警告：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;储备规模目前处于需求曲线的临界点附近。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;分析认为，&lt;strong&gt;更长远的风险指向2027年。&lt;/strong&gt;届时若债务上限问题再度叠加TGA重建需求，类似的超短期融资工具或将更频繁出现，而&lt;strong&gt;美联储也可能被迫以更被动的方式重新启动短期国库券购买操作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当全球最大主权借款人开始以9天为单位规划现金流，&amp;quot;储备充裕&amp;quot;这一表述所承载的分量，或许远比市场此前预估的要重。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拼多多大涨！Q3营收1083亿元不及预期，经营利润同比增长25%｜财报见闻</title><link>https://wallstreetcn.com/articles/3786292</link><guid>65ef0a33587b0bbdf5d833f3ee346c19a27150f420edb1fe0723ace8c69bcc8b</guid><pubDate>Thu, 19 Nov 2026 22:05:47 GMT</pubDate><description>&lt;p&gt;拼多多第三季度营收基本持平且低于市场预期，但调整后每ADS收益超预期。尽管收入增长放缓，费用支出收缩仍推动公司经营利润实现两位数增长，但净利润基本持平。&lt;/p&gt;
+&lt;p&gt;高盛分析师Rich Privorotsky在当天早间发出预警，“今天感觉很重要”。他指出，机构对科技股的净仓位约为18%，远低于指数29%的权重，处于五年极值附近的低配状态——这意味着只要市场不大幅下跌，就可能触发补仓式轧空行情。&lt;/p&gt;
+&lt;p&gt;Direxion也表示，市场对Anthropic IPO整体上仍持积极态度，英伟达超预期财报与Anthropic的顺利上市，共同提供了“AI交易尚未终结”的信心背书。&lt;/p&gt;
+&lt;p&gt;至于接下来，市场目光转向11月20日的月度期权到期日——随着负Gamma仓位的集中到期，届时将是下一个关键观察窗口。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拼多多大涨！Q3营收1083亿元不及预期，经营利润同比增长25%｜财报见闻</title><link>https://wallstreetcn.com/articles/3786292</link><guid>65ef0a33587b0bbdf5d833f3ee346c19a27150f420edb1fe0723ace8c69bcc8b</guid><pubDate>Thu, 19 Nov 2026 22:05:47 GMT</pubDate><description>&lt;p&gt;拼多多第三季度营收基本持平且低于市场预期，但调整后每ADS收益超预期。尽管收入增长放缓，费用支出收缩仍推动公司经营利润实现两位数增长，但净利润基本持平。&lt;/p&gt;
 &lt;p&gt;11月19日，拼多多公布截至2026年9月30日的第三季度未经审计财务业绩。&lt;strong&gt;公司当季实现营收1083.41亿元人民币，同比增长约0.1%，低于市场预估的1152.1亿元；Non-GAAP摊薄每ADS收益为21.04元，高于市场预估的18.54元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;业务方面，公司两大收入板块表现分化。在线营销服务及其他收入同比增长12%，至598.19亿元；交易服务收入同比下降12%，至485.22亿元，后者下滑抵消了在线营销业务的部分增长。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;盈利方面，销售与营销费用同比下降16.6%，带动总运营费用下降12.3%，推动经营利润增长24.5%至311.64亿元。&lt;/strong&gt;不过，受利息及投资净收入减少、所得税费用增加等因素影响，公司归母净利润仅增长0.7%至295.41亿元，Non-GAAP净利润则同比下降约1.2%。&lt;/p&gt;
@@ -472,61 +534,28 @@ CEO敲钟承诺不屈服于商业和政治压力，强调AI安全及医学突破
 &lt;p&gt;Capital Economics市场经济学家Joe Maher也提醒，不应过度解读新股上市初期的价格跳涨。他指出，新股早期交易往往波动较大，Anthropic未来数月的股价表现才是观察投资者AI热情的重要试金石。&lt;/p&gt;
 &lt;p&gt;Maher认为，Anthropic等AI实验室是连接终端消费者和企业需求与底层AI供应链的重要渠道，其算力和数据中心支出直接关系到云计算巨头和半导体公司的前景。与此同时，Anthropic也正在从AI供应链的客户逐渐成为部分环节的竞争者，例如计划发展自有数据中心和芯片设计能力。&lt;/p&gt;
 &lt;p&gt;Yorkville Ives &amp;amp; Co.合伙人兼董事总经理Dan Ives则表示，尽管Anthropic完成了规模空前的IPO，市场仍对半导体行业和中国相关问题保持警惕，科技股正处于一段需要重新检验市场信心的时期。&lt;/p&gt;
-&lt;p&gt;对于Anthropic而言，创纪录IPO只是进入公开市场的第一步。随着公司开始接受季度财报、盈利能力和资本开支的持续检验，其股价能否维持高估值，最终仍取决于企业客户付费需求能否持续增长，以及庞大的算力投入能否转化为可持续的商业回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断</title><link>https://wallstreetcn.com/articles/3786322</link><guid>5ab69bf45a61602828affb4d73bdb0899c42fbdf5a7dc9b6d5e6c8b402b9aa5a</guid><pubDate>Thu, 19 Nov 2026 23:14:43 GMT</pubDate><description>&lt;p&gt;Visa、万事达和摩根大通相继证实，一家或多家第三方服务商遭黑客攻击，导致部分客户信息外泄。三家机构均强调，自身支付网络和核心系统未受波及，但这一事件仍加剧了市场对大型金融机构网络安全的担忧。&lt;/p&gt;
-&lt;p&gt;据摩根大通周四声明，黑客入侵了其一家外部合作方，获取了部分营销数据，可能涉及客户姓名和电子邮件地址，并重申该事件与本周早些时候的服务中断无关。&lt;/p&gt;
-&lt;p&gt;Visa表示，事件源于亚洲一家第三方公司，其自身系统未受影响，支付数据（如卡号）未被波及。&lt;/p&gt;
-&lt;p&gt;万事达则称泄露内容为&amp;quot;特定福利项目部分持卡人的有限非支付信息&amp;quot;，主要为电子邮件地址，网络运营未受任何冲击。&lt;/p&gt;
-&lt;p&gt;三家公司股价当日均有不同程度下跌。周四Visa股价收跌3.1%，万事达收跌2.6%，摩根大通收跌1.2%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;勒索软件团伙n0n曝光，或涉摩根大通高净值客户&lt;/strong&gt;
-&lt;p&gt;据网络安全媒体Cybernews报道，一个自称n0n的勒索软件团伙发布了约1.6万条电子邮件地址，所涉数据集疑与摩根大通仅限受邀客户的Reserve卡项目相关。部分记录还包含电话号码和账户ID。&lt;/p&gt;
-&lt;p&gt;Cybernews称，Reserve卡为面向高净值客户的Visa产品，通常要求由该行管理的资产不低于1000万美元。泄露数据集仅约502KB，目前尚不清楚这是攻击者窃取数据的样本还是全部内容。&lt;/p&gt;
-&lt;p&gt;摩根大通迄今未点名相关供应商，亦未证实n0n的参与、1.6万这一数字或与Reserve项目的具体关联。摩根大通发言人表示，&amp;quot;如有必要，我们将直接联系受影响客户并提供支持，包括免费的信用监控服务&amp;quot;。&lt;/p&gt;
-&lt;p&gt;据Breach News报道，n0n于11月16日将摩根大通列入其泄露站点，彼时恰为Chase客户遭遇服务中断同日，同批涉及59家机构、横跨11个国家，万事达和Visa亦在名单之列。该团伙据报给予被点名机构48小时谈判期，逾期即公开数据。&lt;/p&gt;
-&lt;strong&gt;攻击路径依赖弱口令，非核心系统未见异常&lt;/strong&gt;
-&lt;p&gt;网络安全机构SOCRadar自n0n于9月浮出水面后持续追踪该团伙，并在当月发现一台暴露在外的测试服务器，其中存有攻击脚本、加密勒索源代码，以及一个配置了154个模型条目的AI编程代理，涉及七家服务商，包括部分经过&amp;quot;去审查&amp;quot;处理或移除安全训练的模型。&lt;/p&gt;
-&lt;p&gt;截至10月22日，该团伙在AI服务上的支出已超过7216美元。&lt;/p&gt;
-&lt;p&gt;SOCRadar的记录显示，n0n的入侵手法并不依赖复杂漏洞，所有已记录攻击均通过弱口令或窃取凭据实现，包括针对305台FortiGate VPN设备的撞库攻击。&lt;/p&gt;
-&lt;p&gt;截至10月19日，n0n共列出93名受害者，勒索金额总计2.837亿美元，但SOCRadar追踪其55个支付地址后发现，截至10月16日，交易记录为零。&lt;/p&gt;
-&lt;strong&gt;近期数字安全事件频发，扰动或将持续&lt;/strong&gt;
-&lt;p&gt;摩根大通遭袭仅是近期企业网络多事之秋的缩影。&lt;/p&gt;
-&lt;p&gt;就在同一周，勒索软件团伙The Gentlemen声称入侵英伟达，英伟达表示正就一起疑似涉及第三方合作伙伴的事件展开调查，暂未发现自身系统受影响。&lt;/p&gt;
-&lt;p&gt;同周二，NSA、苹果和Equinor均遭遇服务中断，FBI同日警告国家背景黑客活动趋于活跃。&lt;/p&gt;
-&lt;p&gt;特朗普政府官员此前表示，自今年早些时候战争爆发以来，伊朗网络攻击已将美国关键基础设施和网络列为目标，但同时强调近期多起中断事件与此无关。&lt;/p&gt;
-&lt;p&gt;花旗集团首席执行官Jane Fraser此前警告，AI编程模型能力提升加速了各公司识别和修补网络安全漏洞的步伐，但所需修补工作量庞大，或将导致更多服务中断。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能</title><link>https://wallstreetcn.com/articles/3786318</link><guid>629942c7523f9687e889f33846b200030d3db65577486f276c7868ee487cfaa3</guid><pubDate>Thu, 19 Nov 2026 22:19:07 GMT</pubDate><description>&lt;p&gt;通胀持续超预期，美联储政策路径再度收紧。&lt;/p&gt;
-&lt;p&gt;芝加哥联储主席Austan Goolsbee周四表示，&lt;strong&gt;在美联储下月议息会议上，所有政策选项均在考量之中，并未排除单次加息幅度超出常规的可能性。&lt;/strong&gt;这是近期多位联储官员就加快加息节奏发出的最新表态，显示决策层内部对通胀形势的担忧正在升温。&lt;/p&gt;
-&lt;p&gt;在此之前，美联储理事Christopher Waller周三重申，联储或需在12月会议上考虑加息50个基点。根据同日公布的10月会议纪要，会议上除Waller外，另有一位未具名官员也支持讨论更大幅度加息的可能性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前市场预计12月会议加息25基点概率为96.4%，加息50基点概率为3.6%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于Anthropic而言，创纪录IPO只是进入公开市场的第一步。随着公司开始接受季度财报、盈利能力和资本开支的持续检验，其股价能否维持高估值，最终仍取决于企业客户付费需求能否持续增长，以及庞大的算力投入能否转化为可持续的商业回报。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Trendforce看跌2027年NAND闪存价格，因中国云厂砍单影响超过北美需求增长</title><link>https://wallstreetcn.com/articles/3786329</link><guid>4a5319efc6fa998d62b9f4694d3dc34470412f4569634a90a61db00607c0513e</guid><pubDate>Fri, 20 Nov 2026 00:40:17 GMT</pubDate><description>&lt;p&gt;全球NAND闪存市场正面临供需格局的系统性逆转。&lt;/p&gt;
+&lt;p&gt;11月19日，据集邦咨询（TrendForce）最新研究显示，受&lt;strong&gt;供给端产能快速扩张&lt;/strong&gt;、&lt;strong&gt;中国云服务商大幅削减企业级固态硬盘订单&lt;/strong&gt;以及&lt;strong&gt;消费电子需求持续疲软&lt;/strong&gt;等三重因素叠加影响，&lt;strong&gt;NAND闪存合约价格预计将于2027年第一季度开始下滑，并在此后逐季扩大跌幅&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在需求端，中国云服务商削减的企业级固态硬盘订单规模已超过美国云服务商的新增需求量，导致全球企业级存储需求净收缩。&lt;/p&gt;
+&lt;p&gt;与此同时，消费电子厂商为压缩物料成本而主动下调存储规格，进一步扩大需求缺口。&lt;strong&gt;集邦咨询预计2027年全球NAND闪存位供给量将同比增长25%至30%，供过于求格局将贯穿全年&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;价格走势方面，&lt;strong&gt;集邦咨询预测2027年第一季度整体NAND闪存合约价格环比下跌0%至5%，第二季度起所有产品类别全面进入价格下行周期。&lt;/strong&gt;这一前景已提前在现货市场有所反映，近期点价跌幅已逾20%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
-通胀连续超预期，官员忧虑持续累积
+资本开支增长与技术升级驱动供给大幅扩张
 
-&lt;p&gt;美联储最青睐的通胀指标显示，9月PCE同比涨幅为3.6%，已连续逾五年高于2%的政策目标。核心消费者价格指数（剔除食品和能源）则连续三个月高于预期。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Goolsbee表示，过去数月通胀读数持续偏高，且在原本预期应有所改善的领域几乎未见进展。&lt;/strong&gt;&amp;quot;我们已经连续数月看到接近令人不安的高通胀水平，而在那些我们预期会看到进展的领域，几乎没有任何进展。&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;美联储9月会议上选择加息，但在10月会议上按兵不动。此后，越来越多的官员公开表达对通胀加速回升的担忧，部分官员开始呼吁加快加息步伐。&lt;/p&gt;
+&lt;p&gt;集邦咨询预计，2027年全球NAND闪存行业资本开支将同比增长26.7%，至299亿美元。北美高性能存储需求持续旺盛，推动制造商加速扩产并升级制程技术。&lt;/p&gt;
+&lt;p&gt;在技术层面，QLC（四层单元）渗透率持续提升，以及向更高层数NAND技术的迁移，将进一步拉升位输出。&lt;/p&gt;
+&lt;p&gt;集邦咨询指出，&lt;strong&gt;尽管部分供应商可能因消费端需求疲软而小幅放缓扩产节奏，但整体而言，2027年全球NAND闪存位供给量同比增速预计仍将落在25%至30%区间，显著超出需求端的增长步伐。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;企业级固态硬盘仍是NAND闪存行业最主要的需求增长引擎，但&lt;strong&gt;区域格局正出现明显分化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在北美&lt;/strong&gt;，美国云服务商近期再度上调2027年需求预测，支撑因素包括AI智能体及通用服务器项目的在建进展。&lt;/p&gt;
+&lt;p&gt;然而&lt;strong&gt;中国公司方面&lt;/strong&gt;，云服务公司面临GPU供应短缺、库存水位偏高，以及Token定价竞争加剧等多重压力，已将2027年企业级固态硬盘订单削减，且削减量超过美国新增需求规模。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;消费端形势同样不容乐观。&lt;/strong&gt;集邦咨询预计，低成本存储库存将于2027年逐步消耗殆尽，推动终端设备价格承压上行，进而拖累出货量。&lt;/p&gt;
+&lt;p&gt;此外，&lt;strong&gt;品牌厂商为控制物料成本，将主动削减产品存储容量规格，导致每台设备平均存储容量显著下降，进一步扩大需求端的结构性缺口。&lt;/strong&gt;&lt;/p&gt;
 
-季节性因素加剧前景不确定性
+市场前景：关键变量仍存，政策走向是主要不确定因素
 
-&lt;p&gt;&lt;strong&gt;Goolsbee还提示了季节性因素对未来通胀走势的潜在影响。他指出，当前通胀升温恰逢历史上价格通常趋于回落的季节，而年初往往是价格压力更为强劲的时期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;quot;这使得一个问题变得更加关键——当我们进入明年，我们是否认为通胀率将再度跳升？&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;这一判断意味着，即便12月数据出现短暂回落，联储官员也可能对未来的通胀路径保持高度警惕，从而支持维持偏紧的政策立场。&lt;/p&gt;
-
-关税、能源与AI基建构成多重通胀来源
-
-&lt;p&gt;Goolsbee进一步分析了当前通胀压力的来源。&lt;strong&gt;他表示，关税带来的价格压力以及能源成本上涨，均比官员最初预判的更具持续性。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;此外，他还将人工智能基础设施建设列为另一个值得关注的通胀因素，认为这一领域的投资扩张&amp;quot;在我看来，像是普通需求过热的开端&amp;quot;。&lt;/p&gt;
-&lt;p&gt;值得注意的是，Goolsbee今年在联邦公开市场委员会（FOMC）没有投票权，将于明年获得投票资格。尽管如此，其表态仍被市场视为观察联储内部政策讨论走向的重要参考。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Meta拟推出AI设备Muse Charm，售价300美元，智能手表推迟至2027年</title><link>https://wallstreetcn.com/articles/3786316</link><guid>f0e2298e70e4e0c4a0097a500015581bf1c04f46224c0a3b847f8dbc020e6e91</guid><pubDate>Thu, 19 Nov 2026 22:12:22 GMT</pubDate><description>&lt;p&gt;Meta正加快布局AI可穿戴硬件，计划以价格和通信服务补贴吸引消费者购买其新款AI设备Muse Charm，同时推迟智能手表上市，以便集中资源推进这款产品。&lt;/p&gt;
-&lt;p&gt;据The Information周四援引知情人士报道，&lt;strong&gt;Meta计划将Muse Charm定价为300美元，并为用户提供最长12个月的Verizon免费5G网络服务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Muse Charm是一款配备屏幕的小巧设备，该设备内置5G连接功能，用户无需依赖Wi-Fi或随身携带手机，即可随时使用Meta旗下AI助手Muse。&lt;strong&gt;Meta还计划通过用户补贴降低购买门槛，以推动产品普及。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为优先推进Muse Charm，Meta已将智能手表的大规模上市时间推迟至2027年。&lt;/strong&gt;该智能手表原计划于2026年推出，预计具备健康追踪功能。&lt;/p&gt;
-&lt;p&gt;知情人士表示，Meta正在利用此前为智能手表开发的技术，加快Muse Charm的上市进程。Meta首席执行官扎克伯格此前在9月的Connect开发者大会上表示，&lt;strong&gt;Muse Charm计划于12月假期购物季期间上市。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Meta周四收跌3.27%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Meta目标2026年下半年销售1000万台可穿戴设备
-&lt;p&gt;此次产品调整是Meta扩大AI硬件布局的一部分。据The Information披露的一份内部备忘录，&lt;strong&gt;Meta设定的目标是2026年下半年销售1000万台可穿戴设备，并在年底前将可穿戴设备月活跃用户数量提升至近700万。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;需要注意的是，这一销量目标覆盖Meta整体可穿戴设备产品线，并非Muse Charm单一产品的销售目标。&lt;/p&gt;
-&lt;p&gt;Meta正试图将AI助手Muse与智能眼镜、AI挂件及其他硬件产品结合，让用户能够在日常生活中更便捷地使用AI服务。&lt;/p&gt;
-&lt;p&gt;其与眼镜制造商依视路陆逊梯卡合作推出的Ray-Ban Meta智能眼镜已取得一定市场进展，双方2025年售出超过700万副。&lt;/p&gt;
-&lt;p&gt;与此同时，Meta旗下Reality Labs长期面临巨额经营亏损，扩大AI硬件产品线、提高设备使用率也成为公司改善硬件业务表现的重要方向。&lt;/p&gt;
-&lt;p&gt;Meta发言人Tyler Yee在回应The Information有关定价等新信息的询问时表示，公司很高兴看到外界对其AI设备的关注，未来将分享更多信息。Meta尚未正式公布Muse Charm的最终售价及相关服务安排。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;集邦咨询强调，市场最终走势将取决于多项关键变量的演变方向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首先是&lt;/strong&gt;中国云服务公司的去库存节奏，以及海外GPU采购限制政策是否出现调整，这将直接影响中国云厂商的资本开支意愿与存储采购规模。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其次是&lt;/strong&gt;消费电子厂商是否在2028年延续低规格存储的策略，将对中长期需求结构产生深远影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此外，美国中期选举后的政策走向同样值得关注&lt;/strong&gt;，尤其是相关政策变化能否影响目前仍处于规划及审批阶段的2028年大型AI数据中心项目。&lt;/p&gt;
+&lt;p&gt;集邦咨询指出，项目审批节奏与资本开支进度，将直接左右2027年下半年的超前库存采购行为，进而影响年内需求曲线走势。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
