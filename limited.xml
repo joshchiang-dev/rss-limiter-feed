@@ -1,20 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 21 Nov 2026 00:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%</title><link>https://wallstreetcn.com/articles/3786414</link><guid>16ccaf252a84a50c908135173796041ea0edcce63b76c81071de64d9baf201c6</guid><pubDate>Fri, 20 Nov 2026 23:16:19 GMT</pubDate><description>&lt;p&gt;AI交易遭遇新一轮集中抛售。&lt;/p&gt;
-&lt;p&gt;创纪录的Anthropic IPO未能提振市场情绪，反而在上市第二天便跌至接近发行价；英伟达遭遇业绩、管理层变动和监管调查等多重压力，AMD等芯片股也持续重挫。市场担忧正在从AI股票估值过高，扩展至巨额资本开支能否兑现回报、融资模式是否可持续，以及高利率环境下投资者是否还愿意为远期增长支付溢价。&lt;/p&gt;
-&lt;p&gt;20日周五，三大美股指集体大跌：纳指收跌约5.3%，标普500收跌3.7%，道指跌逾1.9%；标普和道指均进入技术性调整区间，较各自纪录高位回落超10%。费城半导体指数周五重挫约10.7%，成为市场抛售的重灾区。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 21 Nov 2026 01:29:15 GMT</lastBuildDate><item><title>[华尔街见闻] 4万亿“灰飞烟灭”、疫情以来最惨烈的一周！美国科技股跌入熊市</title><link>https://wallstreetcn.com/articles/3786414</link><guid>16ccaf252a84a50c908135173796041ea0edcce63b76c81071de64d9baf201c6</guid><pubDate>Sat, 21 Nov 2026 01:16:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;美国科技股遭遇新冠疫情暴发以来最惨烈的一周，AI投资热潮降温引发的恐慌情绪席卷华尔街。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周五，&lt;strong&gt;纳斯达克100指数&lt;/strong&gt;单日重挫5.6%，当周累计下跌10.4%，创逾六年来最大单周跌幅，较10月6日盘中高点累计下跌已逾20%，正式步入熊市区间。&lt;strong&gt;本周科技股市值蒸发逾4万亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;到周五收盘，纳指抹平今年内累计涨幅转跌&lt;/p&gt;
-&lt;p&gt;全周，纳指累跌约10%、道指跌约8%，均创疫情初期2020年3月以来最大单周跌幅，标普累跌8.6%，创去年4月美国对等关税公布以来最大周跌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标普500指数&lt;/strong&gt;同期下跌3.7%，较10月高点回调超过10%，进入技术性调整区域。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;无论是业绩和指引超预期强劲的英伟达财报，还是Anthropic创纪录的IPO募资，本周都未能拯救美股&lt;/p&gt;
-&lt;p&gt;这轮下跌并非单一消息引发，几条压力线正在叠加：AI投资回报疑虑重新升温、英伟达等龙头遭遇公司层面的不确定性、美联储加息预期抬高估值压力，以及拥挤交易平仓引发的跨资产去杠杆。当市场不再愿意为AI增长故事持续支付高溢价，原本高度集中的资金便开始同时撤离相关股票。&lt;/p&gt;
+&lt;p&gt;与此同时，Anthropic上市首日大涨17%的喜悦昙花一现，次日即告回落，这家AI明星公司的IPO非但未能提振市场信心，反而成为本轮抛售加速的导火索之一。&lt;/p&gt;
+&lt;p&gt;市场恐慌情绪迅速蔓延至风险资产全线。华尔街&lt;strong&gt;&amp;quot;恐慌指数&amp;quot;VIX&lt;/strong&gt;一度飙升至40点，创2025年4月以来最高水平；&lt;strong&gt;比特币&lt;/strong&gt;跌破6万美元，创两年新低；&lt;strong&gt;黄金&lt;/strong&gt;现货价格下挫近3%至每金衡盎司约3522美元，触及逾一年低位；&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本周，黄金暴跌9%&lt;/p&gt;
+&lt;p&gt;投资者争相涌入避险资产，10年期美国国债收益率下行10个基点至4.94%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;10年期美国国债收益率下行至5%下方&lt;/p&gt;
+
+纳斯达克100创六年最差单周表现，正式步入熊市
+
+&lt;p&gt;据英国《金融时报》报道，纳斯达克100指数周五单日重挫5.6%，周跌幅扩大至10.4%，为逾六年来最差单周表现。该指数较10月6日盘中高点累计下跌20%，正式触及熊市技术门槛。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;标普500指数周五下跌3.7%，自10月峰值以来跌幅已超10%，进入调整区间，自4月份以来首次收于200日移动平均线以下。道琼斯工业平均指数本周跌幅达8%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;据华尔街日报报道，&lt;strong&gt;本周纳斯达克综合指数成分股合计蒸发市值逾4万亿美元，该指数今年以来的全部涨幅已告抹平&lt;/strong&gt;。&amp;quot;七大科技巨头&amp;quot;无一幸免，新兴云计算公司和芯片制造商普遍出现两位数跌幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这场抛售的根源在于市场对AI投资狂潮可持续性的深层质疑。&lt;/strong&gt;大型科技公司为建设芯片和数据中心而大举举债投入，但AI相关企业的营收增速正在放缓。&lt;/p&gt;
+&lt;p&gt;据彭博智库数据，AI企业在标普500中的销售增速预计将从第三季度的35%降至明年底的25%以下，而其现金流与资本支出之比已跌至三年前的约五分之一。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据摩根士丹利投资管理首席投资官Jim Caron判断，民主党在本月中期选举中的大胜&amp;quot;绝对&amp;quot;是加速这轮市场抛售的因素之一。&lt;/strong&gt;他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;与AI资本开支相关的所有支出——我们知道正是这些支出推动了增长——那么，这些支出是否会被新一届国会明年就任后启动的调查和政策所压制？市场正在努力搞清楚这一点。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在货币政策层面，美联储的加息预期持续压制市场情绪。&lt;/strong&gt;美联储9月已时隔三年重启加息，市场原本对12月再次加息25个基点的预期出现动摇，但美联储理事Christopher Waller此前曾放风一次性加息50个基点。&lt;/p&gt;
+&lt;p&gt;Nomura美洲股票联席主管Alex Witten指出：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;现在我们同时面临美联储准备加息以及大宗商品市场反映的衰退风险。&lt;/p&gt;
+&lt;/blockquote&gt;
 Anthropic IPO次日一度跌超10%，AI明星上市也没能救市
 &lt;p&gt;周四上市的Anthropic（ANT）当天收涨17.1%，一度较83美元的发行价上涨近四成，成为今年全球资本市场最受瞩目的IPO之一。但上市次日，股价便大幅回落：周五收跌8.5%，盘中一度跌至83.05美元，日内跌幅超过14%，距离IPO发行价仅差5美分，险些破发。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Anthropic股价的迅速回落，成为AI交易情绪转变的一个缩影。市场此前期待这家明星AI公司的上市能够重新点燃投资者对AI板块的热情，但IPO首日的上涨并未带来持续的板块买盘。相反，随着Anthropic次日转跌，英伟达、AMD及其他AI相关股票同步下挫。&lt;/p&gt;
 &lt;p&gt;媒体指出，Anthropic上市与英伟达最新季度业绩都未能打消市场对AI风险和巨额投资的担忧。Horizon Investment Services首席执行官Chuck Carlson表示：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“英伟达（本周）公布的业绩可能是企业盈利史上最出色的季度表现之一，他们把所有事情都做对了。我和许多投资者一样，原本在某种程度上期待Anthropic上市能够成为一次市场情绪的出清事件，但它并没有起到这样的作用。”&lt;/p&gt;
+&lt;p&gt;英伟达（本周）公布的业绩可能是企业盈利史上最出色的季度表现之一，他们把所有事情都做对了。我和许多投资者一样，原本在某种程度上期待Anthropic上市能够成为一次市场情绪的出清事件，但它并没有起到这样的作用。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这番话点出了市场的核心变化：投资者并非不相信AI技术前景，而是开始质疑当前估值是否已经充分计入未来增长。Anthropic上市首日的热度没能延续，意味着即使是最受追捧的AI公司，也未必能在当前市场环境中获得持续的估值溢价。&lt;/p&gt;
 &lt;p&gt;更深层的担忧在于AI商业化和资本开支之间的落差。大型科技公司过去一年投入巨额资金建设数据中心、采购芯片和扩充算力，但投资者越来越关注这些投入何时能够转化为足以覆盖成本的收入和利润。AI需求仍在增长，并不意味着所有相关企业都能获得与投资规模相匹配的回报。&lt;/p&gt;
@@ -22,12 +47,12 @@ Anthropic IPO次日一度跌超10%，AI明星上市也没能救市
 &lt;p&gt;英伟达（NVDA）周五收跌14%，本周累跌22.92%，创2008年10月以来最大单周跌幅。&lt;/p&gt;
 &lt;p&gt;自CEO黄仁勋11月12日上周四离任后，英伟达股价已连续七个交易日下跌，也未能扭转跌势七日累计跌幅达27.74%。即使本周二盘后英伟达公布的第三财季营收和第四财季指引均超预期强劲，该司高管还上调了下个财年的营收增长指引，也未能扭转股价跌势。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;截至周五收盘，英伟达市值较10月接近6万亿美元的峰值蒸发约2.65万亿美元，苹果（AAPL）、微软（MSFT）和谷歌母公司Alphabet（GOOGL）均已超过英伟达，后者退居美国上市公司市值第四位。&lt;/p&gt;
+&lt;p&gt;截至周五收盘，英伟达市值较10月接近6万亿美元的峰值蒸发约2.65万亿美元，&lt;strong&gt;苹果、微软和谷歌均已超过英伟达，后者退居美国上市公司市值第四位。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;英伟达面临的压力，已不仅仅是整个AI板块估值回调。黄仁勋离任后，公司由首席财务官（CFO ）克雷斯（Colette Kress）临时兼任CEO，管理层更迭本身就令投资者对公司未来战略和经营稳定性产生疑虑。与此同时，围绕黄仁勋个人婚外情及其关联人士的调查报道，也持续给公司带来声誉和监管层面的不确定性。&lt;/p&gt;
-&lt;p&gt;监管压力更在本周进一步升级。《华尔街日报》周二报道称，美国证券交易委员会（SEC）正在调查英伟达，但当时尚无法确定调查的具体重点。路透社周五进一步援引两名知情人士报道称，SEC执法部门正在仔细审查英伟达可能存在的会计问题。&lt;/p&gt;
-&lt;p&gt;路透社称，调查关注点之一是英伟达此前调整地理区域收入披露口径：公司改为按照客户总部所在地，而非账单地址统计收入，调整后新加坡不再单独出现在地区收入披露中。与此同时，市场也在关注英伟达参与的复杂AI融资安排——芯片厂商通过投资、担保等方式帮助客户获得资金，以购买芯片和建设数据中心。这类安排可能令投资者更难判断收入质量和公司实际承担的财务风险。&lt;/p&gt;
-&lt;p&gt;需要强调的是，SEC调查并不代表英伟达已经存在违规行为，路透社也表示目前尚无法确认调查何时启动、具体审查哪些会计事项。不过，监管调查在股价已经大幅下跌、管理层刚刚发生变动之际传出，无疑进一步打击了投资者信心。&lt;/p&gt;
+&lt;p&gt;英伟达面临的压力，已不仅仅是整个AI板块估值回调。黄仁勋离任后，公司由CFO克雷斯（Colette Kress）临时兼任CEO，管理层更迭本身就令投资者对公司未来战略和经营稳定性产生疑虑。与此同时，围绕黄仁勋个人婚外情及其关联人士的调查报道，也持续给公司带来声誉和监管层面的不确定性。&lt;/p&gt;
+&lt;p&gt;监管压力更在本周进一步升级。《华尔街日报》周二报道称，美国证券交易委员会（SEC）正在调查英伟达，但当时尚无法确定调查的具体重点。&lt;strong&gt;路透社周五进一步援引两名知情人士报道称，SEC执法部门正在仔细审查英伟达可能存在的会计问题。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;路透社称，调查关注点之一是英伟达此前调整地理区域收入披露口径&lt;/strong&gt;：公司改为按照客户总部所在地，而非账单地址统计收入，调整后新加坡不再单独出现在地区收入披露中。与此同时，市场也在关注英伟达参与的复杂AI融资安排——芯片厂商通过投资、担保等方式帮助客户获得资金，以购买芯片和建设数据中心。&lt;strong&gt;这类安排可能令投资者更难判断收入质量和公司实际承担的财务风险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需要强调的是，SEC调查并不代表英伟达已经存在违规行为，路透社也表示目前尚无法确认调查何时启动、具体审查哪些会计事项&lt;/strong&gt;。不过，监管调查在股价已经大幅下跌、管理层刚刚发生变动之际传出，无疑进一步打击了投资者信心。&lt;/p&gt;
 &lt;p&gt;路透社报道发布前，英伟达股价跌幅已超过6%，报道传出后，股价跌幅扩大至10%以上。&lt;/p&gt;
 沽空报告后AMD连续两日重挫，AI产业链遭全面抛售
 &lt;p&gt;半导体板块的抛售也在向其他公司扩散。AMD（AMD）周四在沽空机构Hunterbrook发布报告后收跌7.7%，周五进一步下跌逾13%，连续第二个交易日大幅下挫。费城半导体指数周五收跌约10.7%，反映市场抛售已从个别公司扩散至整个芯片板块。&lt;/p&gt;
@@ -192,7 +217,39 @@ Anthropic抽走流动性，AI交易全面崩塌，标普七连跌破200日线
 &lt;p&gt;政策收紧的影响已开始在统计数据中显现。&lt;/p&gt;
 &lt;p&gt;据移民政策研究所对联邦签证数据的分析，2025财年（含拜登政府最后三个完整月份），美国发放的临时非移民签证较上年减少约26万份。国际教育研究所数据显示，今秋美国高校新增外国留学生人数估计下降15%。可选实习项目（OPT）——为国际学生提供临时工作授权——在2026至2027学年初参与人数下降6%，为五年来首次下滑。&lt;/p&gt;
 &lt;p&gt;Compete America执行董事Scott Corley警告，规模效应一旦瓦解，后果难以逆转。&amp;quot;这有点像声誉：建立需要多年，毁掉却只需一瞬，&amp;quot;他说。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;移民律师、Vialto Law合伙人Angelo Paparelli将当前局面定性为&amp;quot;对就业移民体系的静悄悄拆解&amp;quot;。&lt;/strong&gt;多位律师和行业人士表示，即便部分政策变化面临法律挑战，美国&amp;quot;不再欢迎&amp;quot;的形象已在全球高技能人才群体中形成，且难以在短期内扭转。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成</title><link>https://wallstreetcn.com/articles/3786412</link><guid>b4b094e4f3a0fe887cd8eefdc34de3c28ba6c9731fbe9e0690a331dd36ddfcf1</guid><pubDate>Fri, 20 Nov 2026 22:34:16 GMT</pubDate><description>&lt;p&gt;美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;移民律师、Vialto Law合伙人Angelo Paparelli将当前局面定性为&amp;quot;对就业移民体系的静悄悄拆解&amp;quot;。&lt;/strong&gt;多位律师和行业人士表示，即便部分政策变化面临法律挑战，美国&amp;quot;不再欢迎&amp;quot;的形象已在全球高技能人才群体中形成，且难以在短期内扭转。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页</title><link>https://wallstreetcn.com/articles/3786421</link><guid>49ed9a2067b9cfde831aa785a47b2063fe0288add18ce0395914475a608f85e5</guid><pubDate>Sat, 21 Nov 2026 01:14:53 GMT</pubDate><description>&lt;p&gt;困扰数学界167年的黎曼猜想，或迎来首次重大突破，但AI生成的证明能否经受数学界检验，仍是最大悬念。&lt;/p&gt;
+&lt;p&gt;11月20日，&lt;strong&gt;Anthropic数学家Levent Alpöge发布声明，称自己与AI模型Claude合作，找到了黎曼猜想及广义黎曼猜想（GRH）的证明方法，并同步公布超过1700万行Lean形式化代码。&lt;/strong&gt;由于声明发布恰逢Anthropic上市次日，这项数学突破也引发了外界对发布时间及商业动机的讨论。&lt;/p&gt;
+&lt;p&gt;Alpöge将证明以Lean语言写成，分为14个压缩文件发布。与此同时，&lt;strong&gt;他与Claude生成的文字版证明超过25万页，但因篇幅过长、难以阅读而没有公开。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前，尚无数学家正式确认这一证明成立。外界仍需核实Lean代码最终证明的定理是否确实对应黎曼猜想本身，以及整个证明过程是否存在逻辑漏洞。&lt;/p&gt;
+&lt;p&gt;黎曼的经典肖像（1850年代）&lt;/p&gt;
+证明方法：Claude在&amp;quot;终点线&amp;quot;实现关键突破
+&lt;p&gt;Alpöge在声明中介绍了此次合作的核心过程：&lt;strong&gt;他为Claude指明了关键研究方向，而Claude随后提出了他认为极具突破性的关键步骤——一条长度约等于所界定素数和之平方根的&amp;quot;theta提升&amp;quot;链。&lt;/strong&gt;每次提升都对应经典函数域论证所依赖的&amp;quot;重数&amp;quot;，而这一重数在整数域上极难找到。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;在接近终点时，Claude远远超过了我。不，Claude简直是在终点附近飞翔、跳舞、闪耀，&amp;quot;Alpöge写道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他还附上了一份据称由Claude整理的研究时间线：工作始于10月6日的&amp;quot;Stepanov行列式&amp;quot;，到11月16日只剩下一条记录——&amp;quot;GRH&amp;quot;。&lt;/p&gt;
+&lt;p&gt;麻省理工学院数学家Andrew Sutherland在独立完成相关Lean代码编译后表示：&lt;strong&gt;&amp;quot;这确实是一个历史性时刻。世界已经改变了……在我看来，这是人类的胜利，是值得庆祝的一天。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+数学界反应：谨慎乐观，等待独立验证
+&lt;p&gt;多位顶尖数学家和AI研究人员对这一进展表达了关注，但对于证明是否真正成立，仍保持审慎态度。&lt;/p&gt;
+&lt;p&gt;2006年菲尔兹奖得主陶哲轩在个人博客发文称，&lt;strong&gt;初步分析显示，这份证明似乎综合运用了朗兰兹纲领和算术几何领域的现代研究成果，验证工作预计还需要一段时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数学家Elliot Glazer初步检查发现，Lean文件中形式化的数学命题确实是广义黎曼猜想，并估计Lean自身存在漏洞的概率&amp;quot;远低于1%&amp;quot;。罗格斯大学数学系主任Alex Kontorovich也表示，&lt;strong&gt;随着更多细节浮现，他对证明成功的可能性更有信心。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;普林斯顿大学一位数学与AI研究人员则强调，&lt;strong&gt;人类参与仍是利用大语言模型解决数学问题的最佳方式&lt;/strong&gt;。他还指出，在这项研究中，Alpöge应当获得与Claude同等程度的认可。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+25万页证明：AI突破与人类验证的矛盾
+&lt;p&gt;证明的庞大篇幅，成为数学界关注的另一焦点。&lt;/p&gt;
+&lt;p&gt;曼彻斯特大学数学家Thomas Bloom在X上表示，&lt;strong&gt;他不知道更令自己震惊的是AI声称证明了黎曼猜想，还是AI声称生成了一份逻辑连贯、转化为人类可读形式后超过25万页的证明。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Cohere多模态业务负责人、前Google DeepMind研究人员Pierre Richemond则认为，黎曼猜想可能已经得到解决，但仍有待Lean验证。&lt;strong&gt;这一进展带来了更多问题：AI生成的研究成果已经具备严肃的数学价值，却尚未经过人类数学界的充分验证。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+时机争议：IPO次日宣布，Alpöge主动回应
+&lt;p&gt;声明发布时间同样引发外界关注。Anthropic于11月19日上市，而Alpöge在次日公布这一重大数学进展，难免引发市场对其商业宣传动机的猜测。&lt;/p&gt;
+&lt;p&gt;Alpöge在声明中主动回应了这一争议，&lt;strong&gt;承认&amp;quot;精确的时机非常糟糕&amp;quot;&lt;/strong&gt;。他表示，关键工作于当地时间11月15日深夜至16日凌晨完成，随后他向Anthropic CEO Dario Amodei询问能否公开，&amp;quot;最终我们弄清楚了，确实存在需要遵守的限制&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他否认外界对发布时间的负面猜测，称这种&amp;quot;明显的愤世嫉俗的看法&amp;quot;是错误的，并表示自己&amp;quot;实在无法再等下去了&amp;quot;，愿意为此承担全部责任。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，Anthropic此前已在AI数学研究方面取得阶段性进展。今年8月，公司公布Claude对黎曼ζ函数零点分布的研究成果，将关键线上的零点比例下界从41.6%提升至67.2%。不过，当时Anthropic明确表示，并不预期Claude使用的技术能够最终证明黎曼猜想。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+奖金与认可：距离百万美元奖金仍有数年
+&lt;p&gt;即便证明最终成立，Alpöge距离克雷数学研究所设立的100万美元奖金仍有相当距离。&lt;/p&gt;
+&lt;p&gt;按照该机构规则，千禧年大奖难题的解答必须经过正式发表、至少两年的公开检验，并获得国际数学界普遍认可，才能申请奖金。&lt;/p&gt;
+&lt;p&gt;Alpöge本人则对证明最终被接受后的形态持乐观态度。&lt;strong&gt;他认为，这份证明很可能会被大幅简化，而且可能很快就能实现。他将这一进展描述为&amp;quot;科学领域某种更伟大事物的一个黎明&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;资本市场对这一消息也尚未形成明确判断。预测平台上的相关赔率仍反映出市场分歧。与此同时，OpenAI CEO萨姆·奥尔特曼2022年在X上半开玩笑追问&amp;quot;黎曼猜想什么时候能搞定&amp;quot;的旧帖也被网友翻出，有人在评论区调侃：&amp;quot;Anthropic抢在你前面做到了，兄弟。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成</title><link>https://wallstreetcn.com/articles/3786412</link><guid>b4b094e4f3a0fe887cd8eefdc34de3c28ba6c9731fbe9e0690a331dd36ddfcf1</guid><pubDate>Fri, 20 Nov 2026 22:34:16 GMT</pubDate><description>&lt;p&gt;美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。&lt;/p&gt;
 &lt;p&gt;11月20日周五，金银铜继续遭遇猛烈抛售：纽约期金和期银分别收跌近5%和逾7%，伦铜和纽铜收跌近3%，原油则在中东地缘政治风险升温、空头回补推动下震荡回升，美油和布油小幅收涨。全周来看，纽铜跌近10%、伦铜跌超9%；原油连续第三周累跌，以收盘价计，美油和布油最近三周的累计跌幅至少接近20%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这轮商品抛售背后，是几股力量同时发酵：美联储鹰派信号强化加息预期，美元走强、美债收益率维持高位，削弱了黄金等无息资产的吸引力；与此同时，AI概念股遭遇抛售，投资者开始削减拥挤交易、平仓此前押注AI基础设施需求增长的金属多头头寸，甚至被迫出售黄金弥补其他资产的损失。&lt;/p&gt;
@@ -473,20 +530,4 @@ IPO锁定期影响资金回流时点
 &lt;p&gt;手机可以依靠供应链管理和制造能力不断扩大规模，但AI生态不是一家企业关起门来就能建成的。用户想让AI订餐、叫车、发消息，背后连接的却是不同互联网平台经营多年的生意。&lt;/p&gt;
 &lt;p&gt;零部件可以采购，应用接口可以通过协议连接，但互联网平台的合作意愿和消费者的使用习惯，却不是华为一家能够决定的。&lt;/p&gt;
 &lt;p&gt;这也让星芒承担了与当年nova不同的任务。相比再造一款畅销手机，华为更需要验证的是AI能否真正改变用户使用手机的方式，以及鸿蒙能否借此连接起更多第三方服务。&lt;/p&gt;
-&lt;p&gt;十年前，nova借助移动互联网的红利，帮助华为打开了年轻消费市场；十年后，星芒则试图抓住AI改变终端交互的机会，为鸿蒙争夺更广泛的用户基础。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国11月密歇根大学消费者信心指数回升，通胀预期大幅下降</title><link>https://wallstreetcn.com/articles/3786402</link><guid>b8d1e765423949f6ed39e52fb2ad2868319b910cb86020b079eef136cbbb4108</guid><pubDate>Fri, 20 Nov 2026 16:30:38 GMT</pubDate><description>&lt;p&gt;美国消费者信心在11月出现反弹，主要受汽油价格下降、商业环境预期改善及通胀预期骤降等因素推动，表明选后政策预期的转变正在影响家庭情绪。&lt;/p&gt;
-&lt;p&gt;密歇根大学周五公布的数据显示，&lt;strong&gt;该校消费者信心指数11月终值升至51.5，高于10月的48。彭博调查经济学家的预测中值为51.6，实际数据与之基本吻合。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;调查结果显示，&lt;strong&gt;消费者对未来一年的通胀预期从10月的4.7%骤降至3.7%，创2月以来最低；未来5至10年的长期通胀预期亦有所回落。与此同时，反映个人当前财务状况的分项指数升至7月以来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;汽油价格下跌是本月消费者情绪改善的重要支撑之一。&lt;/strong&gt;据美国汽车协会（AAA）数据，全国每加仑汽油均价在11月初仍高于4美元，但在密歇根大学调查结束时已回落至约3.75美元。&lt;/p&gt;
-
-选举结果提振预期，独立选民情绪明显改善
-
-&lt;p&gt;密歇根大学本轮调查于10月20日至11月16日期间进行，涵盖了美国中期选举的投票结果公布阶段。&lt;/p&gt;
-&lt;p&gt;此次选举中，民主党在众议院、参议院均获胜，并在乔治亚州、爱荷华州、德克萨斯州、俄亥俄州及内华达州赢得州长职位。&lt;/p&gt;
-&lt;p&gt;调查负责人Joanne Hsu在声明中表示，消费者似乎已开始预判分裂政府格局下公共政策可能发生的变化，预期指数在独立选民中出现显著跳升。&lt;/p&gt;
-&lt;p&gt;她还指出，&lt;strong&gt;选举结束后消费者对汽油价格的预期大幅下滑，目前已&amp;quot;基本回落至伊朗问题发酵前的水平&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-
-高通胀与高利率仍是压制因素
-
-&lt;p&gt;尽管信心指数有所回升，美国家庭面临的整体经济压力并未根本缓解。经济学家估计，10月消费者价格指数同比涨幅仍约为4%；自9月中旬以来，30年期抵押贷款利率持续高于7%，借贷成本依然高企。&lt;/p&gt;
-&lt;p&gt;持续攀升的物价此前已将消费者信心压至历史极端水平——5月触及历史最低，10月录得有记录以来第二低位。&lt;/p&gt;
-&lt;p&gt;经济状况与生活成本是此次中期选举的核心议题，食品、汽油、医疗及住房价格高涨引发的选民不满情绪，也在一定程度上影响了选举结果走向。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;十年前，nova借助移动互联网的红利，帮助华为打开了年轻消费市场；十年后，星芒则试图抓住AI改变终端交互的机会，为鸿蒙争夺更广泛的用户基础。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
