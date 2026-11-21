@@ -1,41 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 21 Nov 2026 04:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”</title><link>https://wallstreetcn.com/articles/3786423</link><guid>9393c598c162290cab7716a46164742b282a5e0cecaa768189bdc39ac15980b6</guid><pubDate>Sat, 21 Nov 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。&lt;/p&gt;
-&lt;p&gt;本周，&lt;strong&gt;费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，单周跌幅超过9%，创近年来最大单周跌幅；纳斯达克100指数单周下跌逾10%，年内涨幅悉数回吐。VIX一度突破40，市场恐慌情绪急剧升温。&lt;/p&gt;
-&lt;p&gt;值得注意的是，英伟达财报表现亮眼、Anthropic创纪录IPO相继登场，却都未能提振市场信心。AI巨头融资态度转变、IPO抽走市场流动性，加上美联储鹰派立场不变，令市场开始重新审视这轮AI行情的支撑基础。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-芯片股遭遇2001年以来最惨单周抛售，英伟达跌掉一个亚马逊
-&lt;p&gt;本周，费城半导体指数下跌逾10%，芯片板块市值蒸发约2.3万亿美元，创2001年以来最惨烈的单周表现。&lt;/p&gt;
-&lt;p&gt;英伟达同样未能幸免。尽管公司最新季度业绩和业绩指引均超出市场预期，股价仍连续七周下跌，创2008年以来最长连跌纪录。&lt;strong&gt;周五股价进一步大跌，收于2025年5月以来最低水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从10月历史高点以来，英伟达股价累计下跌约47%，市值缩水约2.7万亿美元，相当于一个亚马逊。&lt;strong&gt;目前公司市值约3.03万亿美元，已低于Alphabet。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，英伟达基本面并未明显转弱：公司连续第17个季度超越卖方预期，第四季度营收指引达到1300亿美元，高于市场预期的1250亿美元，还将2028财年增长预期从70%上调至75%。&lt;strong&gt;市场担忧的焦点，正在转向AI生态系统的融资和增长模式。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-英伟达收缩“AI央行”角色，生态系统融资支持转向审慎
-&lt;p&gt;据MarketWatch报道，英伟达新任董事长Harvey Jones明确表示，黄仁勋不会回归公司，同时释放出收紧客户融资支持的信号：只有在项目具备土地、电力和建筑等实体条件后，公司才会提供担保支持。&lt;/p&gt;
-&lt;p&gt;高盛TMT团队将此解读为英伟达正在主动收缩“AI央行”角色。此前，英伟达不仅是芯片供应商，也通过融资担保等方式支持AI生态系统。&lt;strong&gt;如今态度转向审慎，可能冲击依赖英伟达担保或承购支持的纯新云计算公司。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Citadel Securities的Nohshad Shah指出，像黄仁勋这样的创始人能够推动公司承担职业经理人难以向董事会交代的高风险投资。&lt;strong&gt;高盛Rich Privorotsky则认为，英伟达此前被视为AI生态系统的“多头看跌期权”，如今这一角色已经逆转，甚至成为市场的“空头看跌期权”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-Anthropic创纪录IPO反成流动性黑洞，AI资产遭遇集中抛售
-&lt;p&gt;Anthropic原本被视为AI产业信心的又一次验证。这家Claude开发商以高于发行区间的价格定价，融资规模达1073亿美元（含向芯片和云供应商的260亿美元配售），完全稀释估值约1.5万亿美元。&lt;/p&gt;
-&lt;p&gt;但IPO未能提振市场，反而引发流动性冲击。Anthropic股价以111.50美元开盘，随后迅速遭到抛售。纳斯达克100指数从盘前上涨2%转为下跌2%，AI股票篮子也从上涨4%转为下跌2%，标普500指数当日市值蒸发约1.3万亿美元。&lt;/p&gt;
-&lt;p&gt;市场人士认为，&lt;strong&gt;投资者为参与IPO提前筹集资金，加剧了其他资产的抛售。&lt;/strong&gt;黄金、加密货币、铜和英伟达股票均在IPO前数日遭到卖出。彭博援引分析指出，比特币在发行前的异常下跌，与投资者筹集认购资金的行为相符。&lt;/p&gt;
-&lt;p&gt;至周五收盘，Anthropic股价跌至83.10美元附近，几乎回到83美元的发行价，较周四115.10美元的高点下跌逾25%。&lt;strong&gt;承销商已全额行使超额配售权，额外出售1.47亿股，意味着稳定股价的潜在工具进一步减少。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-美联储鹰派施压，市场脆弱结构放大跌势
-&lt;p&gt;美联储本周进一步强化紧缩信号。理事Waller重申支持加息50个基点的立场，指出约70%的核心服务项目涨幅仍超过3%，美联储可能需要收回去年全部三次预防性降息，甚至采取更多行动。&lt;strong&gt;他还表示，可能需要通过政策行动“震慑市场”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;10月会议纪要也显示，部分官员曾倾向于加息，许多与会者认为AI需求持续对供给形成压力并推高价格。&lt;strong&gt;彭博数据显示，美联储官员鹰鸽表态指标已升至2023年以来最鹰派水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场结构则进一步放大了抛售。据高盛Prime数据，基本面多空净杠杆本月再下降7.6个百分点，降至五年多来最低水平。做市商在周五期权到期前持有大量空头伽马头寸，使下跌更容易触发进一步对冲卖盘。&lt;/p&gt;
-&lt;p&gt;高盛数据显示，周三标普500期货盘口深度平均仅为420万美元，是过去四年来流动性最差的交易日之一。不过，资金并未全面撤离：截至11月18日当周，全球股票基金净流入592亿美元，科技基金净流入123亿美元，显示部分投资者仍在逢低买入。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-债市转向增长担忧，AI交易面临重新定价
-&lt;p&gt;与股市同步下跌的还有美债收益率。&lt;strong&gt;尽管美联储官员持续释放鹰派信号，10年期美债收益率仍连续五个交易日下行，从5.17%降至4.90%，结束了自2007年以来最长的持续高于5%的时期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛Rich Privorotsky认为，长端收益率可能已经开始反映政策失误的风险。收益率下行的同时，盈亏平衡通胀率也在收缩，这一组合表明市场关注点正从通胀转向经济增长和流动性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;换言之，市场担忧正在发生变化：投资者不再只关注通胀顽固和高利率，也开始担心紧缩政策可能过度，以及AI投资热潮能否持续支撑经济增长。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Baird董事总经理Ted Mortonson表示，2026年上半年的市场充斥着过度亢奋、投机和自满，而本月以来市场情绪已经转向恐惧与恐慌。&lt;/p&gt;
-&lt;p&gt;Privorotsky的判断则更为谨慎：在央行政策真正转向之前，市场反弹仍可能是卖出机会。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 4万亿“灰飞烟灭”、疫情以来最惨烈的一周！美国科技股跌入熊市</title><link>https://wallstreetcn.com/articles/3786414</link><guid>16ccaf252a84a50c908135173796041ea0edcce63b76c81071de64d9baf201c6</guid><pubDate>Sat, 21 Nov 2026 01:16:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;美国科技股遭遇新冠疫情暴发以来最惨烈的一周，AI投资热潮降温引发的恐慌情绪席卷华尔街。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 21 Nov 2026 05:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 4万亿“灰飞烟灭”、疫情以来最惨烈的一周！美国科技股跌入熊市</title><link>https://wallstreetcn.com/articles/3786414</link><guid>16ccaf252a84a50c908135173796041ea0edcce63b76c81071de64d9baf201c6</guid><pubDate>Sat, 21 Nov 2026 01:16:15 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;美国科技股遭遇新冠疫情暴发以来最惨烈的一周，AI投资热潮降温引发的恐慌情绪席卷华尔街。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;周五，&lt;strong&gt;纳斯达克100指数&lt;/strong&gt;单日重挫5.6%，当周累计下跌10.4%，创逾六年来最大单周跌幅，较10月6日盘中高点累计下跌已逾20%，正式步入熊市区间。&lt;strong&gt;本周科技股市值蒸发逾4万亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;到周五收盘，纳指抹平今年内累计涨幅转跌&lt;/p&gt;
@@ -108,7 +72,43 @@ AI资本开支回报遭质疑，拥挤交易平仓放大跌势
 &lt;p&gt;利率预期变化对AI股票尤其不利。AI企业的高估值很大程度上建立在未来多年收入和利润快速增长的预期之上；利率越高，远期现金流折现价值越低，投资者愿意为尚未兑现的增长支付的价格也就越低。同时，数据中心建设和算力扩张高度依赖融资，融资成本上升也会增加AI投资项目的资金压力。&lt;/p&gt;
 &lt;p&gt;周五，美股大跌伴随美债收益率明显回落，10年期美债收益率日内降约11个基点至4.94%附近，显示资金正在转向相对安全的资产。VIX恐慌指数大幅上升，市场避险情绪进一步升温。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;因此，周五的暴跌更像是几重压力同时作用的结果：AI资本开支回报遭到质疑，英伟达的管理层和监管不确定性加剧，AMD等芯片股接连遭遇个股冲击，而美联储加息预期又令高估值资产更加脆弱。短期内，投资者从追逐AI增长转向审视投入回报，市场情绪和仓位调整正在放大这一轮下跌。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半</title><link>https://wallstreetcn.com/articles/3786403</link><guid>ef6f88171fb6f9430f0a652a7e0bc3ae3eb3a388a2b47c72403c3a43ac89ca30</guid><pubDate>Fri, 20 Nov 2026 21:46:14 GMT</pubDate><description>&lt;p&gt;曾因精准押注美国房地产泡沫破裂而闻名的“大空头”Michael Burry开始部分兑现AI做空交易收益。&lt;/p&gt;
+&lt;p&gt;因此，周五的暴跌更像是几重压力同时作用的结果：AI资本开支回报遭到质疑，英伟达的管理层和监管不确定性加剧，AMD等芯片股接连遭遇个股冲击，而美联储加息预期又令高估值资产更加脆弱。短期内，投资者从追逐AI增长转向审视投入回报，市场情绪和仓位调整正在放大这一轮下跌。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”</title><link>https://wallstreetcn.com/articles/3786423</link><guid>9393c598c162290cab7716a46164742b282a5e0cecaa768189bdc39ac15980b6</guid><pubDate>Sat, 21 Nov 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。&lt;/p&gt;
+&lt;p&gt;本周，&lt;strong&gt;费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，单周跌幅超过9%，创近年来最大单周跌幅；纳斯达克100指数单周下跌逾10%，年内涨幅悉数回吐。VIX一度突破40，市场恐慌情绪急剧升温。&lt;/p&gt;
+&lt;p&gt;值得注意的是，英伟达财报表现亮眼、Anthropic创纪录IPO相继登场，却都未能提振市场信心。AI巨头融资态度转变、IPO抽走市场流动性，加上美联储鹰派立场不变，令市场开始重新审视这轮AI行情的支撑基础。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+芯片股遭遇2001年以来最惨单周抛售，英伟达跌掉一个亚马逊
+&lt;p&gt;本周，费城半导体指数下跌逾10%，芯片板块市值蒸发约2.3万亿美元，创2001年以来最惨烈的单周表现。&lt;/p&gt;
+&lt;p&gt;英伟达同样未能幸免。尽管公司最新季度业绩和业绩指引均超出市场预期，股价仍连续七周下跌，创2008年以来最长连跌纪录。&lt;strong&gt;周五股价进一步大跌，收于2025年5月以来最低水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从10月历史高点以来，英伟达股价累计下跌约47%，市值缩水约2.7万亿美元，相当于一个亚马逊。&lt;strong&gt;目前公司市值约3.03万亿美元，已低于Alphabet。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，英伟达基本面并未明显转弱：公司连续第17个季度超越卖方预期，第四季度营收指引达到1300亿美元，高于市场预期的1250亿美元，还将2028财年增长预期从70%上调至75%。&lt;strong&gt;市场担忧的焦点，正在转向AI生态系统的融资和增长模式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+英伟达收缩“AI央行”角色，生态系统融资支持转向审慎
+&lt;p&gt;据MarketWatch报道，英伟达新任董事长Harvey Jones明确表示，黄仁勋不会回归公司，同时释放出收紧客户融资支持的信号：只有在项目具备土地、电力和建筑等实体条件后，公司才会提供担保支持。&lt;/p&gt;
+&lt;p&gt;高盛TMT团队将此解读为英伟达正在主动收缩“AI央行”角色。此前，英伟达不仅是芯片供应商，也通过融资担保等方式支持AI生态系统。&lt;strong&gt;如今态度转向审慎，可能冲击依赖英伟达担保或承购支持的纯新云计算公司。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Citadel Securities的Nohshad Shah指出，像黄仁勋这样的创始人能够推动公司承担职业经理人难以向董事会交代的高风险投资。&lt;strong&gt;高盛Rich Privorotsky则认为，英伟达此前被视为AI生态系统的“多头看跌期权”，如今这一角色已经逆转，甚至成为市场的“空头看跌期权”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+Anthropic创纪录IPO反成流动性黑洞，AI资产遭遇集中抛售
+&lt;p&gt;Anthropic原本被视为AI产业信心的又一次验证。这家Claude开发商以高于发行区间的价格定价，融资规模达1073亿美元（含向芯片和云供应商的260亿美元配售），完全稀释估值约1.5万亿美元。&lt;/p&gt;
+&lt;p&gt;但IPO未能提振市场，反而引发流动性冲击。Anthropic股价以111.50美元开盘，随后迅速遭到抛售。纳斯达克100指数从盘前上涨2%转为下跌2%，AI股票篮子也从上涨4%转为下跌2%，标普500指数当日市值蒸发约1.3万亿美元。&lt;/p&gt;
+&lt;p&gt;市场人士认为，&lt;strong&gt;投资者为参与IPO提前筹集资金，加剧了其他资产的抛售。&lt;/strong&gt;黄金、加密货币、铜和英伟达股票均在IPO前数日遭到卖出。彭博援引分析指出，比特币在发行前的异常下跌，与投资者筹集认购资金的行为相符。&lt;/p&gt;
+&lt;p&gt;至周五收盘，Anthropic股价跌至83.10美元附近，几乎回到83美元的发行价，较周四115.10美元的高点下跌逾25%。&lt;strong&gt;承销商已全额行使超额配售权，额外出售1.47亿股，意味着稳定股价的潜在工具进一步减少。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+美联储鹰派施压，市场脆弱结构放大跌势
+&lt;p&gt;美联储本周进一步强化紧缩信号。理事Waller重申支持加息50个基点的立场，指出约70%的核心服务项目涨幅仍超过3%，美联储可能需要收回去年全部三次预防性降息，甚至采取更多行动。&lt;strong&gt;他还表示，可能需要通过政策行动“震慑市场”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;10月会议纪要也显示，部分官员曾倾向于加息，许多与会者认为AI需求持续对供给形成压力并推高价格。&lt;strong&gt;彭博数据显示，美联储官员鹰鸽表态指标已升至2023年以来最鹰派水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场结构则进一步放大了抛售。据高盛Prime数据，基本面多空净杠杆本月再下降7.6个百分点，降至五年多来最低水平。做市商在周五期权到期前持有大量空头伽马头寸，使下跌更容易触发进一步对冲卖盘。&lt;/p&gt;
+&lt;p&gt;高盛数据显示，周三标普500期货盘口深度平均仅为420万美元，是过去四年来流动性最差的交易日之一。不过，资金并未全面撤离：截至11月18日当周，全球股票基金净流入592亿美元，科技基金净流入123亿美元，显示部分投资者仍在逢低买入。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+债市转向增长担忧，AI交易面临重新定价
+&lt;p&gt;与股市同步下跌的还有美债收益率。&lt;strong&gt;尽管美联储官员持续释放鹰派信号，10年期美债收益率仍连续五个交易日下行，从5.17%降至4.90%，结束了自2007年以来最长的持续高于5%的时期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛Rich Privorotsky认为，长端收益率可能已经开始反映政策失误的风险。收益率下行的同时，盈亏平衡通胀率也在收缩，这一组合表明市场关注点正从通胀转向经济增长和流动性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;换言之，市场担忧正在发生变化：投资者不再只关注通胀顽固和高利率，也开始担心紧缩政策可能过度，以及AI投资热潮能否持续支撑经济增长。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Baird董事总经理Ted Mortonson表示，2026年上半年的市场充斥着过度亢奋、投机和自满，而本月以来市场情绪已经转向恐惧与恐慌。&lt;/p&gt;
+&lt;p&gt;Privorotsky的判断则更为谨慎：在央行政策真正转向之前，市场反弹仍可能是卖出机会。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半</title><link>https://wallstreetcn.com/articles/3786403</link><guid>ef6f88171fb6f9430f0a652a7e0bc3ae3eb3a388a2b47c72403c3a43ac89ca30</guid><pubDate>Fri, 20 Nov 2026 21:46:14 GMT</pubDate><description>&lt;p&gt;曾因精准押注美国房地产泡沫破裂而闻名的“大空头”Michael Burry开始部分兑现AI做空交易收益。&lt;/p&gt;
 &lt;p&gt;美东时间11月20日周五，Burry透露，他已经将VanEck半导体ETF看跌期权仓位削减一半，同时卖出了所持英伟达看跌期权的一半。&lt;/p&gt;
 &lt;p&gt;这一调整引发市场对其做空策略变化的关注。就在前一天，Burry还公开表示，他此前已经向投资者发出过有关英伟达、CoreWeave和Nebius等AI基础设施公司的警告。随着AI交易持续降温，他的部分看空判断正在获得股价表现的呼应。&lt;/p&gt;
 &lt;p&gt;此前数周，Burry持续警告AI产业链估值过高，上周四自称已加码押注纳斯达克100指数下跌。如今，在英伟达及AI基础设施类股票大幅回落后，他开始部分兑现看跌期权收益，但这并不意味着他已经放弃对AI板块的看空判断。&lt;/p&gt;
@@ -196,7 +196,33 @@ Anthropic抽走流动性，AI交易全面崩塌，标普七连跌破200日线
 &lt;p&gt;比特币日内跌超4%，跌至2024年9月以来的最低点，抹去了2024年8月以来的所有涨幅。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;瑞银分析师Justinus Steinhorst提醒客户留意AI担忧演变为跨资产增长恐慌，收益率和大宗商品已开始朝这个方向移动。&lt;/p&gt;
-&lt;p&gt;Privorotsky的解释是，强势美元、偏高的实际利率和有吸引力的信用债收益率都在与黄金竞争资金。贵金属、工业金属、谷物、汽油和柴油同时承压，这种广泛的通缩力量足以改变利率叙事。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”</title><link>https://wallstreetcn.com/articles/3786426</link><guid>e5c1652d1f73cd5bf3bc2910eaf00a1583e81ceb360132ba909a13c16dcee3ee</guid><pubDate>Sat, 21 Nov 2026 03:44:58 GMT</pubDate><description>&lt;p&gt;美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。&lt;/p&gt;
+&lt;p&gt;Privorotsky的解释是，强势美元、偏高的实际利率和有吸引力的信用债收益率都在与黄金竞争资金。贵金属、工业金属、谷物、汽油和柴油同时承压，这种广泛的通缩力量足以改变利率叙事。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”</title><link>https://wallstreetcn.com/articles/3786429</link><guid>dcc9aa3675d4e3d822c7681341cabf5c2058a523284c7ec0a68185977b9aec14</guid><pubDate>Sat, 21 Nov 2026 05:22:07 GMT</pubDate><description>&lt;p&gt;美股持续下跌，金融条件急剧收紧，市场正显现出与2018年末相似的危险信号：美联储在市场压力不断累积之际，仍面临继续加息的政策预期，投资者开始担忧货币政策是否会再次加剧市场动荡。&lt;/p&gt;
+&lt;p&gt;据高盛交易主管Rich Privorotsky周五报告，当前市场与2018年末存在惊人的相似之处。他将近期抛售定性为“全面清仓式变现”，而非普通的板块轮动，并警告市场可能正在从风险偏好下降转向更深层次的流动性收缩。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;彼时，美联储在2018年连续加息，标普500指数从9月高点至12月24日低点累计下跌19.8%，逼近技术性熊市。随着市场压力持续加剧，美联储最终在2019年1月释放暂停加息的信号，政策立场发生转变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如今，Privorotsky尤其关注黄金走势。股票与黄金同步遭到抛售，传统避险资产未能发挥保护作用。&lt;strong&gt;在他看来，黄金可能是判断当前流动性危机深度的最佳观察指标，其走势或将揭示市场压力是否正在进一步恶化。&lt;/strong&gt;&lt;/p&gt;
+2018年末的教训：持续加息最终迫使美联储转向
+&lt;p&gt;2018年，美联储全年四次加息。9月20日，标普500指数创下阶段高点，此后随着全球经济增长放缓、贸易摩擦加剧以及货币政策持续收紧，市场压力不断累积。&lt;/p&gt;
+&lt;p&gt;12月，美联储再次加息，将联邦基金利率目标区间提高至2.25%—2.50%。然而，市场对经济前景和货币政策的担忧持续升温，标普500从9月高点至12月24日低点累计下跌近20%。&lt;/p&gt;
+&lt;p&gt;市场抛售最终促使美联储调整政策立场。&lt;strong&gt;2019年1月30日，美联储表示未来调整利率时将保持耐心，释放出暂停加息的明确信号，随后市场迎来反弹。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Privorotsky认为，当前市场同样面临金融条件收紧与增长前景承压的双重压力，政策与市场之间的矛盾正在加深。&lt;/p&gt;
+金融条件骤然收紧，市场从轮动转向全面抛售
+&lt;p&gt;Privorotsky指出，当前市场最明显的变化，是抛售从局部板块扩散至整个市场。周四，标普500盘中一度上涨逾1%，最终却收跌2%，连续六个交易日下跌并再次跌破200日均线。当天全部11个板块悉数收跌，公用事业、必需消费品等传统防御板块也未能幸免。&lt;/p&gt;
+&lt;p&gt;与此同时，&lt;strong&gt;高盛美国金融条件指数（FCI）宏观篮子周四升至124.48，创过去一年最高水平。&lt;/strong&gt;自11月初以来，该指数在约两周内上升约8个点，显示金融条件正在迅速收紧。&lt;/p&gt;
+&lt;p&gt;当前美联储官员接连释放鹰派信号，理事Waller关于加息50个基点的表态，以及会议纪要中官员对继续加息的支持，进一步加剧了市场担忧。资本成本上升也令AI基础设施投资的回报预期承压。&lt;/p&gt;
+&lt;p&gt;Privorotsky认为，市场技术面已经遭到严重破坏，期权市场的负Gamma效应还在放大跌势。此前的板块轮动，正在演变为更广泛的股票清仓。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+黄金成为流动性危机的最佳观察指标
+&lt;p&gt;在所有资产中，Privorotsky尤其关注黄金。他认为，黄金是观察当前市场流动性状况最有价值的同步指标。&lt;/p&gt;
+&lt;p&gt;通常情况下，黄金被视为避险资产，但此次却与股票同步下跌。金价跌破3600美元，铜价也出现单日约5%的大幅下挫。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这种跨资产同步下跌释放出不同于普通市场调整的信号：投资者不再只是从股票转向黄金等避险资产，而是在出售不同类别的资产以获取现金。市场面临的可能是更广泛的流动性收缩。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ANZ指出，&lt;strong&gt;黄金投机性多头仍有约200吨的潜在减仓空间，意味着去杠杆压力可能尚未完全释放。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与此同时，长端国债收益率下行、通胀盈亏平衡利率收缩，股票与黄金却同步遭到抛售。Privorotsky认为，这一组合表明市场关注点正在从通胀转向增长与流动性问题，债券市场或许已经开始为政策失误定价。&lt;/p&gt;
+&lt;p&gt;因此，黄金能否止跌企稳，将是判断市场流动性压力是否缓解的重要观察窗口。&lt;/p&gt;
+市场何时迎来政策转向？
+&lt;p&gt;Privorotsky认为，当前悲观情绪和单边去杠杆的规模，暗示市场可能正在接近战术性低点。由于基金仓位已经明显低配，一旦出现反弹催化剂，市场反弹幅度可能相当剧烈。&lt;/p&gt;
+&lt;p&gt;但真正的转机仍取决于政策预期是否发生变化。他继续看好做多短期限国债，认为这一交易与股票市场所反映的风险信号存在明显错位。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;近期市场将关注PCE数据、非农就业报告和12月FOMC会议。Privorotsky认为，真正可能迫使美联储重新评估政策路径的是11月CPI数据，但这一数据距离当前仍有一段时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的是，高盛经济学家目前仍预计美联储将在12月加息25个基点，并于2027年3月再次加息，而债券市场定价与这一预测存在明显分歧。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”</title><link>https://wallstreetcn.com/articles/3786426</link><guid>e5c1652d1f73cd5bf3bc2910eaf00a1583e81ceb360132ba909a13c16dcee3ee</guid><pubDate>Sat, 21 Nov 2026 03:44:58 GMT</pubDate><description>&lt;p&gt;美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。&lt;/p&gt;
 &lt;p&gt;高盛衍生品策略师Brian Garrett在周五发布的报告中指出，当&lt;strong&gt;前市场走势、技术面和交易结构均与2018年有明显相似之处。他通过对比两轮行情的指数跌幅，评估主要股指可能面临的进一步调整空间。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Garrett回忆起2018年12月24日的市场崩跌。&lt;strong&gt;当时，一位客户问他：“为什么今天跌了这么多？”Garrett坦言：“完全不知道。”&lt;/strong&gt;即便是经验丰富的交易员，面对突如其来的剧烈抛售，也难以判断市场究竟为何失控。&lt;/p&gt;
 &lt;p&gt;不过，历史相似并不意味着行情必然重复。此次市场调整中，信用市场尚未出现明显恶化，美联储也没有释放政策转向信号。高盛认为，这些差异可能成为判断本轮调整是否接近尾声的关键。&lt;/p&gt;
@@ -430,36 +456,4 @@ SEC强化会计核查，英伟达承压加剧
 &lt;p&gt;此次调查也契合SEC当前的监管重心。&lt;/p&gt;
 &lt;p&gt;尽管特朗普政府领导下的SEC整体上收缩了执法力度，转而聚焦于传统证券欺诈领域，但该机构近期在执法部门内新设了金融报告与会计专项小组，专门负责开发会计与审计领域的案件，会计违规问题一直是其执法工作的核心议题之一。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需要指出的是，调查本身并不构成违规证据，大量调查最终不会引发执法行动。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;然而对于英伟达而言，其目前面临的法律压力已同时来自SEC与司法部两个方向，加之黄仁勋丑闻持续发酵，市场对这家AI芯片核心供应商的信心正受到多重考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页</title><link>https://wallstreetcn.com/articles/3786421</link><guid>49ed9a2067b9cfde831aa785a47b2063fe0288add18ce0395914475a608f85e5</guid><pubDate>Sat, 21 Nov 2026 01:14:53 GMT</pubDate><description>&lt;p&gt;困扰数学界167年的黎曼猜想，或迎来首次重大突破，但AI生成的证明能否经受数学界检验，仍是最大悬念。&lt;/p&gt;
-&lt;p&gt;11月20日，&lt;strong&gt;Anthropic数学家Levent Alpöge发布声明，称自己与AI模型Claude合作，找到了黎曼猜想及广义黎曼猜想（GRH）的证明方法，并同步公布超过1700万行Lean形式化代码。&lt;/strong&gt;由于声明发布恰逢Anthropic上市次日，这项数学突破也引发了外界对发布时间及商业动机的讨论。&lt;/p&gt;
-&lt;p&gt;Alpöge将证明以Lean语言写成，分为14个压缩文件发布。与此同时，&lt;strong&gt;他与Claude生成的文字版证明超过25万页，但因篇幅过长、难以阅读而没有公开。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前，尚无数学家正式确认这一证明成立。外界仍需核实Lean代码最终证明的定理是否确实对应黎曼猜想本身，以及整个证明过程是否存在逻辑漏洞。&lt;/p&gt;
-&lt;p&gt;黎曼的经典肖像（1850年代）&lt;/p&gt;
-证明方法：Claude在&amp;quot;终点线&amp;quot;实现关键突破
-&lt;p&gt;Alpöge在声明中介绍了此次合作的核心过程：&lt;strong&gt;他为Claude指明了关键研究方向，而Claude随后提出了他认为极具突破性的关键步骤——一条长度约等于所界定素数和之平方根的&amp;quot;theta提升&amp;quot;链。&lt;/strong&gt;每次提升都对应经典函数域论证所依赖的&amp;quot;重数&amp;quot;，而这一重数在整数域上极难找到。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;在接近终点时，Claude远远超过了我。不，Claude简直是在终点附近飞翔、跳舞、闪耀，&amp;quot;Alpöge写道。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;他还附上了一份据称由Claude整理的研究时间线：工作始于10月6日的&amp;quot;Stepanov行列式&amp;quot;，到11月16日只剩下一条记录——&amp;quot;GRH&amp;quot;。&lt;/p&gt;
-&lt;p&gt;麻省理工学院数学家Andrew Sutherland在独立完成相关Lean代码编译后表示：&lt;strong&gt;&amp;quot;这确实是一个历史性时刻。世界已经改变了……在我看来，这是人类的胜利，是值得庆祝的一天。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-数学界反应：谨慎乐观，等待独立验证
-&lt;p&gt;多位顶尖数学家和AI研究人员对这一进展表达了关注，但对于证明是否真正成立，仍保持审慎态度。&lt;/p&gt;
-&lt;p&gt;2006年菲尔兹奖得主陶哲轩在个人博客发文称，&lt;strong&gt;初步分析显示，这份证明似乎综合运用了朗兰兹纲领和算术几何领域的现代研究成果，验证工作预计还需要一段时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;数学家Elliot Glazer初步检查发现，Lean文件中形式化的数学命题确实是广义黎曼猜想，并估计Lean自身存在漏洞的概率&amp;quot;远低于1%&amp;quot;。罗格斯大学数学系主任Alex Kontorovich也表示，&lt;strong&gt;随着更多细节浮现，他对证明成功的可能性更有信心。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;普林斯顿大学一位数学与AI研究人员则强调，&lt;strong&gt;人类参与仍是利用大语言模型解决数学问题的最佳方式&lt;/strong&gt;。他还指出，在这项研究中，Alpöge应当获得与Claude同等程度的认可。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-25万页证明：AI突破与人类验证的矛盾
-&lt;p&gt;证明的庞大篇幅，成为数学界关注的另一焦点。&lt;/p&gt;
-&lt;p&gt;曼彻斯特大学数学家Thomas Bloom在X上表示，&lt;strong&gt;他不知道更令自己震惊的是AI声称证明了黎曼猜想，还是AI声称生成了一份逻辑连贯、转化为人类可读形式后超过25万页的证明。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Cohere多模态业务负责人、前Google DeepMind研究人员Pierre Richemond则认为，黎曼猜想可能已经得到解决，但仍有待Lean验证。&lt;strong&gt;这一进展带来了更多问题：AI生成的研究成果已经具备严肃的数学价值，却尚未经过人类数学界的充分验证。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-时机争议：IPO次日宣布，Alpöge主动回应
-&lt;p&gt;声明发布时间同样引发外界关注。Anthropic于11月19日上市，而Alpöge在次日公布这一重大数学进展，难免引发市场对其商业宣传动机的猜测。&lt;/p&gt;
-&lt;p&gt;Alpöge在声明中主动回应了这一争议，&lt;strong&gt;承认&amp;quot;精确的时机非常糟糕&amp;quot;&lt;/strong&gt;。他表示，关键工作于当地时间11月15日深夜至16日凌晨完成，随后他向Anthropic CEO Dario Amodei询问能否公开，&amp;quot;最终我们弄清楚了，确实存在需要遵守的限制&amp;quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;他否认外界对发布时间的负面猜测，称这种&amp;quot;明显的愤世嫉俗的看法&amp;quot;是错误的，并表示自己&amp;quot;实在无法再等下去了&amp;quot;，愿意为此承担全部责任。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，Anthropic此前已在AI数学研究方面取得阶段性进展。今年8月，公司公布Claude对黎曼ζ函数零点分布的研究成果，将关键线上的零点比例下界从41.6%提升至67.2%。不过，当时Anthropic明确表示，并不预期Claude使用的技术能够最终证明黎曼猜想。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-奖金与认可：距离百万美元奖金仍有数年
-&lt;p&gt;即便证明最终成立，Alpöge距离克雷数学研究所设立的100万美元奖金仍有相当距离。&lt;/p&gt;
-&lt;p&gt;按照该机构规则，千禧年大奖难题的解答必须经过正式发表、至少两年的公开检验，并获得国际数学界普遍认可，才能申请奖金。&lt;/p&gt;
-&lt;p&gt;Alpöge本人则对证明最终被接受后的形态持乐观态度。&lt;strong&gt;他认为，这份证明很可能会被大幅简化，而且可能很快就能实现。他将这一进展描述为&amp;quot;科学领域某种更伟大事物的一个黎明&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;资本市场对这一消息也尚未形成明确判断。预测平台上的相关赔率仍反映出市场分歧。与此同时，OpenAI CEO萨姆·奥尔特曼2022年在X上半开玩笑追问&amp;quot;黎曼猜想什么时候能搞定&amp;quot;的旧帖也被网友翻出，有人在评论区调侃：&amp;quot;Anthropic抢在你前面做到了，兄弟。&amp;quot;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;然而对于英伟达而言，其目前面临的法律压力已同时来自SEC与司法部两个方向，加之黄仁勋丑闻持续发酵，市场对这家AI芯片核心供应商的信心正受到多重考验。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
