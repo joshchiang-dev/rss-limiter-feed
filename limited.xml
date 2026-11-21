@@ -1,41 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 21 Nov 2026 13:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”</title><link>https://wallstreetcn.com/articles/3786423</link><guid>9393c598c162290cab7716a46164742b282a5e0cecaa768189bdc39ac15980b6</guid><pubDate>Sat, 21 Nov 2026 02:27:20 GMT</pubDate><description>&lt;p&gt;AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。&lt;/p&gt;
-&lt;p&gt;本周，&lt;strong&gt;费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，单周跌幅超过9%，创近年来最大单周跌幅；纳斯达克100指数单周下跌逾10%，年内涨幅悉数回吐。VIX一度突破40，市场恐慌情绪急剧升温。&lt;/p&gt;
-&lt;p&gt;值得注意的是，英伟达财报表现亮眼、Anthropic创纪录IPO相继登场，却都未能提振市场信心。AI巨头融资态度转变、IPO抽走市场流动性，加上美联储鹰派立场不变，令市场开始重新审视这轮AI行情的支撑基础。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-芯片股遭遇2001年以来最惨单周抛售，英伟达跌掉一个亚马逊
-&lt;p&gt;本周，费城半导体指数下跌逾10%，芯片板块市值蒸发约2.3万亿美元，创2001年以来最惨烈的单周表现。&lt;/p&gt;
-&lt;p&gt;英伟达同样未能幸免。尽管公司最新季度业绩和业绩指引均超出市场预期，股价仍连续七周下跌，创2008年以来最长连跌纪录。&lt;strong&gt;周五股价进一步大跌，收于2025年5月以来最低水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;从10月历史高点以来，英伟达股价累计下跌约47%，市值缩水约2.7万亿美元，相当于一个亚马逊。&lt;strong&gt;目前公司市值约3.03万亿美元，已低于Alphabet。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;值得注意的是，英伟达基本面并未明显转弱：公司连续第17个季度超越卖方预期，第四季度营收指引达到1300亿美元，高于市场预期的1250亿美元，还将2028财年增长预期从70%上调至75%。&lt;strong&gt;市场担忧的焦点，正在转向AI生态系统的融资和增长模式。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-英伟达收缩“AI央行”角色，生态系统融资支持转向审慎
-&lt;p&gt;据MarketWatch报道，英伟达新任董事长Harvey Jones明确表示，黄仁勋不会回归公司，同时释放出收紧客户融资支持的信号：只有在项目具备土地、电力和建筑等实体条件后，公司才会提供担保支持。&lt;/p&gt;
-&lt;p&gt;高盛TMT团队将此解读为英伟达正在主动收缩“AI央行”角色。此前，英伟达不仅是芯片供应商，也通过融资担保等方式支持AI生态系统。&lt;strong&gt;如今态度转向审慎，可能冲击依赖英伟达担保或承购支持的纯新云计算公司。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Citadel Securities的Nohshad Shah指出，像黄仁勋这样的创始人能够推动公司承担职业经理人难以向董事会交代的高风险投资。&lt;strong&gt;高盛Rich Privorotsky则认为，英伟达此前被视为AI生态系统的“多头看跌期权”，如今这一角色已经逆转，甚至成为市场的“空头看跌期权”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-Anthropic创纪录IPO反成流动性黑洞，AI资产遭遇集中抛售
-&lt;p&gt;Anthropic原本被视为AI产业信心的又一次验证。这家Claude开发商以高于发行区间的价格定价，融资规模达1073亿美元（含向芯片和云供应商的260亿美元配售），完全稀释估值约1.5万亿美元。&lt;/p&gt;
-&lt;p&gt;但IPO未能提振市场，反而引发流动性冲击。Anthropic股价以111.50美元开盘，随后迅速遭到抛售。纳斯达克100指数从盘前上涨2%转为下跌2%，AI股票篮子也从上涨4%转为下跌2%，标普500指数当日市值蒸发约1.3万亿美元。&lt;/p&gt;
-&lt;p&gt;市场人士认为，&lt;strong&gt;投资者为参与IPO提前筹集资金，加剧了其他资产的抛售。&lt;/strong&gt;黄金、加密货币、铜和英伟达股票均在IPO前数日遭到卖出。彭博援引分析指出，比特币在发行前的异常下跌，与投资者筹集认购资金的行为相符。&lt;/p&gt;
-&lt;p&gt;至周五收盘，Anthropic股价跌至83.10美元附近，几乎回到83美元的发行价，较周四115.10美元的高点下跌逾25%。&lt;strong&gt;承销商已全额行使超额配售权，额外出售1.47亿股，意味着稳定股价的潜在工具进一步减少。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-美联储鹰派施压，市场脆弱结构放大跌势
-&lt;p&gt;美联储本周进一步强化紧缩信号。理事Waller重申支持加息50个基点的立场，指出约70%的核心服务项目涨幅仍超过3%，美联储可能需要收回去年全部三次预防性降息，甚至采取更多行动。&lt;strong&gt;他还表示，可能需要通过政策行动“震慑市场”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;10月会议纪要也显示，部分官员曾倾向于加息，许多与会者认为AI需求持续对供给形成压力并推高价格。&lt;strong&gt;彭博数据显示，美联储官员鹰鸽表态指标已升至2023年以来最鹰派水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;市场结构则进一步放大了抛售。据高盛Prime数据，基本面多空净杠杆本月再下降7.6个百分点，降至五年多来最低水平。做市商在周五期权到期前持有大量空头伽马头寸，使下跌更容易触发进一步对冲卖盘。&lt;/p&gt;
-&lt;p&gt;高盛数据显示，周三标普500期货盘口深度平均仅为420万美元，是过去四年来流动性最差的交易日之一。不过，资金并未全面撤离：截至11月18日当周，全球股票基金净流入592亿美元，科技基金净流入123亿美元，显示部分投资者仍在逢低买入。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-债市转向增长担忧，AI交易面临重新定价
-&lt;p&gt;与股市同步下跌的还有美债收益率。&lt;strong&gt;尽管美联储官员持续释放鹰派信号，10年期美债收益率仍连续五个交易日下行，从5.17%降至4.90%，结束了自2007年以来最长的持续高于5%的时期。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛Rich Privorotsky认为，长端收益率可能已经开始反映政策失误的风险。收益率下行的同时，盈亏平衡通胀率也在收缩，这一组合表明市场关注点正从通胀转向经济增长和流动性。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;换言之，市场担忧正在发生变化：投资者不再只关注通胀顽固和高利率，也开始担心紧缩政策可能过度，以及AI投资热潮能否持续支撑经济增长。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Baird董事总经理Ted Mortonson表示，2026年上半年的市场充斥着过度亢奋、投机和自满，而本月以来市场情绪已经转向恐惧与恐慌。&lt;/p&gt;
-&lt;p&gt;Privorotsky的判断则更为谨慎：在央行政策真正转向之前，市场反弹仍可能是卖出机会。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 跌完会回来，但你未必还在——一次重大失误的完整复盘</title><link>http://www.xueqiu.com/2351470882/417943813</link><guid>a2a9ec899699285c6bd1ea7d078011b6a51c55ae07c099d1dd26752f7d995527</guid><pubDate>Sat, 21 Nov 2026 13:17:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;铁纪如山&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;先交代背景。这波我在创业板 2500 点附近左侧试错，中途一度把仓位打满，最后在 2200 点附近强制止损，前后亏了约 300 点。同一个指数从 4380 点一路回撤接近腰斩，我跟踪的海外链龙头普遍从高点跌掉七到八成，没有双顶，没有像样反弹，几乎是一路 A 杀下来。这篇是我自己的失误复盘，不构成任何投资建议，只把这笔学费买回来的教训想清楚、写下来。&lt;/p&gt;</description></item><item><title>[今日雪球] AI时代腾讯控股的至暗时刻：能否“剩者为王”？还要看优秀企业的“惯性”！</title><link>http://www.xueqiu.com/9363345092/417984680</link><guid>94ef5e017a6685a65a7726c6799801862d907a48ad26f52e8ddf553ab095b94a</guid><pubDate>Sat, 21 Nov 2026 13:18:25 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ericwarn丁宁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;为了学习巴菲特，我发明了市赚率。其公式为：市赚率=市盈率/净资产收益率（PR=PE/ROE/100）。巴菲特4折5折6折买股，我也4折5折6折买股。&lt;/p&gt;</description></item><item><title>[华尔街见闻] “文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元</title><link>https://wallstreetcn.com/articles/3786431</link><guid>25d12556dd499f5969a02af54bcfe85c6232daf76623ccc6b7d5f4211343165a</guid><pubDate>Sat, 21 Nov 2026 06:49:25 GMT</pubDate><description>&lt;p&gt;《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sat, 21 Nov 2026 14:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] “文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元</title><link>https://wallstreetcn.com/articles/3786431</link><guid>25d12556dd499f5969a02af54bcfe85c6232daf76623ccc6b7d5f4211343165a</guid><pubDate>Sat, 21 Nov 2026 06:49:25 GMT</pubDate><description>&lt;p&gt;《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。&lt;/p&gt;
 &lt;p&gt;11月21日，据彭博，Take-Two Interactive旗下&lt;strong&gt;Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元&lt;/strong&gt;，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家选择售价100美元的Ultimate Edition，而非80美元的标准版。&lt;/p&gt;
@@ -48,7 +12,7 @@ PC版与在线模式待推出，跨代际IP价值受关注
 &lt;p&gt;目前《GTA 6》尚未登陆PC平台。Take-Two表示，PC版本预计稍后推出，在线模式也在规划之中。这意味着PC端销售和线上业务的持续变现，仍有望成为后续收入来源。&lt;/p&gt;
 &lt;p&gt;美国银行全球研究部分析师Omar Dessouky指出，&lt;strong&gt;此次发行推动《GTA》从一款电子游戏升级为与James Bond（007）、星球大战和米老鼠比肩的“跨代际IP”。更成熟的叙事有望重新吸引多年未接触游戏主机的玩家，而顶级画面与开放世界玩法则有助于吸引年轻用户。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Wedbush Securities分析师Alicia Reese表示，《GTA 6》为Rockstar构建更多游戏提供了新平台，未来数年都将令Take-Two受益。&lt;/p&gt;
-&lt;p&gt;发行热度也已延伸至游戏之外。Take-Two在迈阿密展开大规模营销，当地举办庆祝活动，NBA迈阿密热火的比赛也融入了游戏元素。Rockstar与PlayStation还计划在当地举办演唱会。随着感恩节假期到来，这款游戏有望继续推动假日季游戏消费。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”</title><link>https://wallstreetcn.com/articles/3786426</link><guid>e5c1652d1f73cd5bf3bc2910eaf00a1583e81ceb360132ba909a13c16dcee3ee</guid><pubDate>Sat, 21 Nov 2026 03:44:58 GMT</pubDate><description>&lt;p&gt;美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。&lt;/p&gt;
+&lt;p&gt;发行热度也已延伸至游戏之外。Take-Two在迈阿密展开大规模营销，当地举办庆祝活动，NBA迈阿密热火的比赛也融入了游戏元素。Rockstar与PlayStation还计划在当地举办演唱会。随着感恩节假期到来，这款游戏有望继续推动假日季游戏消费。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 跌完会回来，但你未必还在——一次重大失误的完整复盘</title><link>http://www.xueqiu.com/2351470882/417943813</link><guid>a2a9ec899699285c6bd1ea7d078011b6a51c55ae07c099d1dd26752f7d995527</guid><pubDate>Sat, 21 Nov 2026 13:17:08 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;铁纪如山&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;先交代背景。这波我在创业板 2500 点附近左侧试错，中途一度把仓位打满，最后在 2200 点附近强制止损，前后亏了约 300 点。同一个指数从 4380 点一路回撤接近腰斩，我跟踪的海外链龙头普遍从高点跌掉七到八成，没有双顶，没有像样反弹，几乎是一路 A 杀下来。这篇是我自己的失误复盘，不构成任何投资建议，只把这笔学费买回来的教训想清楚、写下来。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”</title><link>https://wallstreetcn.com/articles/3786426</link><guid>e5c1652d1f73cd5bf3bc2910eaf00a1583e81ceb360132ba909a13c16dcee3ee</guid><pubDate>Sat, 21 Nov 2026 03:44:58 GMT</pubDate><description>&lt;p&gt;美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。&lt;/p&gt;
 &lt;p&gt;高盛衍生品策略师Brian Garrett在周五发布的报告中指出，当&lt;strong&gt;前市场走势、技术面和交易结构均与2018年有明显相似之处。他通过对比两轮行情的指数跌幅，评估主要股指可能面临的进一步调整空间。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Garrett回忆起2018年12月24日的市场崩跌。&lt;strong&gt;当时，一位客户问他：“为什么今天跌了这么多？”Garrett坦言：“完全不知道。”&lt;/strong&gt;即便是经验丰富的交易员，面对突如其来的剧烈抛售，也难以判断市场究竟为何失控。&lt;/p&gt;
 &lt;p&gt;不过，历史相似并不意味着行情必然重复。此次市场调整中，信用市场尚未出现明显恶化，美联储也没有释放政策转向信号。高盛认为，这些差异可能成为判断本轮调整是否接近尾声的关键。&lt;/p&gt;
@@ -148,20 +112,7 @@ PC版与在线模式待推出，跨代际IP价值受关注
 &lt;p&gt;保守党领袖Kemi Badenoch指责伯纳姆 没有吸取过去的教训，改革党领袖Nigel Farage则称他没有获得与布鲁塞尔推动更紧密关系的授权。&lt;strong&gt;YouGov调查显示，重返欧盟在选民优先事项中仅排第九，远低于经济、移民和医疗。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;经济环境也让重返欧盟面临新的权衡。多数经济学家认为脱欧损害了英国经济，但也指出英国并未借此推进去监管和提升竞争力。与此同时，据《华尔街日报》报道，&lt;strong&gt;英国近几个季度经济表现好于预期，部分得益于更快的AI应用。一些人士担心，欧盟更严格的AI监管可能限制这一增长动力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;民意支持与实际政策选择之间仍存在距离。民调研究机构Persuasion UK副主任Morgan Jones认为，如果英国明天就能按照2016年的条件重返欧盟，这一选项将获得压倒性支持，对工党争取不同群体选民也有吸引力。但她指出，预算分摊、加入欧元区的风险以及漫长的谈判过程，都可能让选民逐渐失去耐心。&lt;/p&gt;
-&lt;p&gt;伯纳姆 已表示，未来一年将与比利时及欧盟高层就长期关系选项展开非正式讨论，最终由英国选民决定——通过新一轮公投，或最迟在2029年大选中作出选择。无论哪种方式，英国与欧洲的这场政治博弈，都才刚刚重新开始。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”</title><link>https://wallstreetcn.com/articles/3786422</link><guid>84a66b99f179258f6279e8869b5f53ee4d1e88441a9b89e08f2b3aaa6091a0a2</guid><pubDate>Sat, 21 Nov 2026 01:35:48 GMT</pubDate><description>&lt;p&gt;美股新一轮剧烈抛售正在蔓延，高盛警告，市场可能陷入“抛售引发更多抛售”的恶性循环，未来一周仍有大规模卖盘等待释放。&lt;/p&gt;
-&lt;p&gt;11月21日，据彭博报道，高盛交易员周五发布研报称，&lt;strong&gt;该行“恐慌指数”已升至10分满分中的9分，系统性投资者的抛售压力全面扩散。根据高盛模型，即使市场保持平稳，趋势追踪基金未来一周仍可能抛售数百亿美元股票；若市场进一步下跌，卖盘规模还将显著扩大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本轮跌势已对科技股造成沉重打击。纳斯达克100指数周五单日重挫5.6%，创2020年3月以来最大单周跌幅；费城半导体指数大跌11%，英伟达自10月6日高点以来累计下挫近50%。与此同时，抛售开始波及散户偏好股票及加密货币相关资产，市场压力正从机构持仓向更广泛的风险资产扩散。&lt;/p&gt;
-&lt;p&gt;更令市场担忧的是，原本被寄予厚望的Anthropic IPO未能成为提振风险偏好的催化剂，而AI基础设施投资回报的疑虑仍在压制科技股估值。多重压力叠加之下，市场尚未出现明确的企稳信号。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-系统性卖盘仍有释放空间，未来一周或再抛售806亿美元
-&lt;p&gt;高盛估算，以商品交易顾问（CTA）为代表的趋势追踪策略过去一个月已抛售570亿美元股票，其美股净头寸已转为净空仓190亿美元。&lt;/p&gt;
-&lt;p&gt;但机构减仓可能远未结束。&lt;strong&gt;高盛模型预测，未来一周，若市场维持平盘，CTA仍可能卖出658亿美元股票；若市场继续下跌，潜在卖出规模将达到806亿美元；即便股市反弹，也可能触发286亿美元卖盘。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这类策略根据市场价格走势和波动率机械调整仓位，市场下跌会进一步触发减仓，形成“越跌越卖”的负反馈。高盛的测算意味着，趋势追踪基金仍可能成为短期市场的重要卖压来源，甚至在股市反弹时也未必停止抛售。&lt;/p&gt;
-IPO提振预期落空，AI回报疑虑加剧市场抛售
-&lt;p&gt;市场此前期待Anthropic IPO成为推动资金重返风险资产的转折点，但这一预期最终落空。高盛交易员指出，不少投资者原本希望这笔大型科技IPO能够提振市场情绪，推动年末资金重新流入风险资产，但其对整体市场的带动作用有限。&lt;strong&gt;高盛交易员将这一结果形容为“难以下咽的苦果”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，投资者对AI巨额资本开支能否兑现回报的质疑持续升温。市场开始重新审视AI芯片、算力及基础设施投入能否产生足够收益，以支撑科技股当前估值。英伟达周五单日下跌14%，自10月高点以来跌幅接近50%，成为本轮科技股调整的主要拖累因素。&lt;/p&gt;
-&lt;p&gt;抛售压力也已扩散至散户投资者。高盛追踪的散户偏好股票组合周五下跌8.9%。此外，&lt;strong&gt;高盛周期股相对防御股的比较篮子下跌3.2%，显示资金正在从周期性板块转向防御性资产。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从CTA持续减仓到散户投机性资产遭到抛售，市场去风险正在进一步扩散。若科技股持续承压并触发更多趋势策略减仓，美股可能面临新一轮抛售压力。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 每个领域都要学会穿透表象看本质</title><link>http://www.xueqiu.com/2386334596/417961036</link><guid>cb418ac50cbdae9439720e09dbea6490af9249ad13d7ec1807683a4fa01f9bd1</guid><pubDate>Sat, 21 Nov 2026 13:17:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;不管是学一门新技能、进入一个陌生行业，还是做股票投资，你都会发现一个现象：有些人似乎天生&amp;quot;开窍快&amp;quot;，别人还在摸索门道的时候，他已经跑通了整个闭环。这背后的差距，不是智商，不是资源，而是一个被很多人忽略的能力——透过表象迅速抓住本质的能力。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额</title><link>https://wallstreetcn.com/articles/3786438</link><guid>228e0f190970421843387334b5286a0063fbeee6e8b2ee73344cb659a202cbe5</guid><pubDate>Sat, 21 Nov 2026 11:47:38 GMT</pubDate><description>&lt;p&gt;谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。&lt;/p&gt;
+&lt;p&gt;伯纳姆 已表示，未来一年将与比利时及欧盟高层就长期关系选项展开非正式讨论，最终由英国选民决定——通过新一轮公投，或最迟在2029年大选中作出选择。无论哪种方式，英国与欧洲的这场政治博弈，都才刚刚重新开始。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] AI时代腾讯控股的至暗时刻：能否“剩者为王”？还要看优秀企业的“惯性”！</title><link>http://www.xueqiu.com/9363345092/417984680</link><guid>94ef5e017a6685a65a7726c6799801862d907a48ad26f52e8ddf553ab095b94a</guid><pubDate>Sat, 21 Nov 2026 13:18:25 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;ericwarn丁宁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;为了学习巴菲特，我发明了市赚率。其公式为：市赚率=市盈率/净资产收益率（PR=PE/ROE/100）。巴菲特4折5折6折买股，我也4折5折6折买股。&lt;/p&gt;</description></item><item><title>[今日雪球] 每个领域都要学会穿透表象看本质</title><link>http://www.xueqiu.com/2386334596/417961036</link><guid>cb418ac50cbdae9439720e09dbea6490af9249ad13d7ec1807683a4fa01f9bd1</guid><pubDate>Sat, 21 Nov 2026 13:17:00 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;大地任我行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;不管是学一门新技能、进入一个陌生行业，还是做股票投资，你都会发现一个现象：有些人似乎天生&amp;quot;开窍快&amp;quot;，别人还在摸索门道的时候，他已经跑通了整个闭环。这背后的差距，不是智商，不是资源，而是一个被很多人忽略的能力——透过表象迅速抓住本质的能力。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额</title><link>https://wallstreetcn.com/articles/3786438</link><guid>228e0f190970421843387334b5286a0063fbeee6e8b2ee73344cb659a202cbe5</guid><pubDate>Sat, 21 Nov 2026 11:47:38 GMT</pubDate><description>&lt;p&gt;谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。&lt;/p&gt;
 &lt;p&gt;据知名苹果及供应链分析师郭明錤最新行业调查，&lt;strong&gt;谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。&lt;/strong&gt;与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。&lt;/p&gt;
 &lt;p&gt;这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI基础设施供应链中的份额。&lt;/p&gt;
 前沿模型优先，算力分配逻辑生变
