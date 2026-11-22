@@ -1,5 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 22 Nov 2026 02:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报</title><link>https://wallstreetcn.com/articles/3786441</link><guid>1b5820df003e5f830649226251baa6bfd9f6873f59a60a3368abaf000b98ae79</guid><pubDate>Sun, 22 Nov 2026 01:13:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 22 Nov 2026 03:29:22 GMT</lastBuildDate><item><title>[华尔街见闻] Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的</title><link>https://wallstreetcn.com/articles/3786445</link><guid>26e58f3d44f451e9955214671135d0acb54158de4523190398259c7c73d912c1</guid><pubDate>Sun, 22 Nov 2026 03:11:28 GMT</pubDate><description>&lt;p&gt;11月21日，开源形式化验证社区Lean与Mathlib发布联合声明，确认Anthropic数学家Levent Alpöge对黎曼猜想的证明成立。两家机构联合背书称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“完全有信心Alpöge对黎曼猜想的证明是正确的”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;11月20日，即Anthropic上市次日，Alpöge宣布与AI模型Claude合作找到了黎曼猜想及广义黎曼猜想的证明方法，并公开逾1700万行Lean源码。因超过25万页的文字版证明难以阅读而未公开，加之宣布时点紧贴IPO，外界一度对其真伪与商业动机存疑，预测平台上的相关赔率也反映出市场分歧。&lt;/p&gt;
+&lt;p&gt;24小时后，Lean社区用四重形式化核验给出了计算机级别的回应。但机器验证与人类读懂证明是两码事——验证链上甚至出现了Claude编写的内核，部分收尾测试尚未结束，要想克雷数学研究所的100万美元大奖也还需要经过至少两年的公开检验。&lt;/p&gt;
+24小时核完1700万行代码：Lean如何验真，边界又在哪？
+&lt;p&gt;传统数学突破靠同行逐一审阅论文、判断每一步推理是否成立。但面对超过25万页、短期内无人能通读的证明草稿，形式化验证软件Lean成了数学界最快的“公证处”。&lt;/p&gt;
+&lt;p&gt;Lean由巴西计算机科学家Leonardo de Moura于2013年创立，最初在微软研究院开发，后在亚马逊云科技AWS延续推进，2021年推出重写版Lean 4，现由Lean FRO支持。在这种编程语言和证明助手中，数学家须把每个定义、前置结论和推理步骤写成计算机可读代码，由程序逐一校验逻辑是否严密。&lt;/p&gt;
+&lt;p&gt;其始于2017年的社区共享数学库Mathlib规模已超100万行，文档中甚至给黎曼猜想留了一句注脚，称构造其证明“值一百万美元”。Lean曾于2021年验证Peter Scholze的凝聚数学证明，2023年协助陶哲轩形式化多项式Freiman-Ruzsa猜想证明，也是Google DeepMind打造AlphaProof的底层工具，并被用于亚马逊Cedar策略语言及Rust代码验证。&lt;/p&gt;
+&lt;p&gt;但代码能跑通编译，并不等于黎曼猜想已被攻克。数学家Kit Yates在Substack专栏中指出，Lean校验虽远比让另一个AI评判严谨，专家仍须额外确认三点：代码证明的确实是黎曼猜想而非更弱命题、定义忠实还原了ζ函数等标准对象、推理中未夹带额外假设。Lean语言参考手册也警示，系统无法检查新公理是否自洽，更须警惕能“证明一切”的占位符&lt;code&gt;sorry&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;此次Lean社区敢于在一天内拍板，是因为Alpöge的代码库全部通过了伦敦帝国理工学院数学家Kevin Buzzard在11月12日提出的四项硬标准。&lt;/p&gt;
+&lt;p&gt;第一关是核对“题干”。该代码库仅直接依赖Mathlib，所证定理指向Mathlib内置的&lt;code&gt;RiemannHypothesis&lt;/code&gt;标准定义——在所有使ζ函数为零的复数中，除-2、-4、-6等平凡零点外，实部均为1/2。该定义早已经过Lean和数论专家反复核验。&lt;/p&gt;
+&lt;p&gt;第二关是独立复现。这份拆为14个压缩文件、涵盖175,187个模块的代码库对算力要求极高，单人完整验证约需100GB内存与70GB硬盘。麻省理工学院数学家Andrew Sutherland使用Lean与Mathlib v4.33.1独立完成无错编译，且Mathlib文件与官方缓存一致。联合声明显示，已有数十人复现编译，并生成完全一致的原始证明导出文件，体量达61.6GB。&lt;/p&gt;
+&lt;p&gt;第三关有关“暗箱操作”。社区另建仅导入Mathlib的隔离文件，动用&lt;code&gt;comparator&lt;/code&gt;与&lt;code&gt;con-leche --compare&lt;/code&gt;两套工具比对，双双确认Alpöge所证命题与Mathlib原定义完全吻合。在公理审查上，Sutherland对主文件&lt;code&gt;Main.lean&lt;/code&gt;中的五个定理运行&lt;code&gt;#print axioms&lt;/code&gt;指令，结果显示它们仅依赖Lean七条标准公理中的三条核心公理——&lt;code&gt;propext&lt;/code&gt;、&lt;code&gt;Classical.choice&lt;/code&gt;与&lt;code&gt;Quot.sound&lt;/code&gt;，不含任何&lt;code&gt;sorryAx&lt;/code&gt;，且全部源自核心库。“这里面有猫腻的概率近似为零，”Sutherland对《科学美国人》说。&lt;/p&gt;
+&lt;p&gt;最后一关针对验证软件本身。Lean官方内核历史上曾出现可靠性漏洞，发现后4小时即被修复，数学家Elliot Glazer也将Lean自身存在漏洞的概率估计在1%以下。为隔绝源码潜在恶意代码、规避单一内核缺陷，社区跳过源码，直接将61.6GB的惰性导出文件交由多语言独立内核交叉检验。&lt;/p&gt;
+&lt;p&gt;除Lean官方内核及全量放行175,187个模块的&lt;code&gt;leanchecker&lt;/code&gt;、&lt;code&gt;lean4lean&lt;/code&gt;外，Rust编写的第三方内核&lt;code&gt;nanoda&lt;/code&gt;耗时27分42秒接受完整导出；&lt;code&gt;con-leche&lt;/code&gt;仅用3分15秒审完146.8万条声明，无一拒绝；&lt;code&gt;con-ron&lt;/code&gt;同样过关。&lt;code&gt;con-leche&lt;/code&gt;与&lt;code&gt;con-ron&lt;/code&gt;本身还附带相对于集合论的形式化自洽证明，从数学逻辑上确保其无法接受错误证明。&lt;/p&gt;
+&lt;p&gt;验证通过的效力已体现在具体数学推论上。结合已有形式化成果，Sutherland页面确认已从该证明中推导出关于整数因数之和的Robin不等式与Lagarias不等式，同样只依赖三条标准公理。1984年，法国数学家Guy Robin证明，对任何大于5040的整数n，其所有因数之和小于 这一直观命题与黎曼猜想完全等价——其中γ为欧拉常数，e^γ约等于1.78。&lt;/p&gt;
+&lt;p&gt;不过，对照Lean联合声明与Sutherland的MIT验证页，这场验证仍有几处尚未彻底收口的技术边界。&lt;/p&gt;
+&lt;p&gt;Lean联合声明虽宣布&lt;code&gt;comparator&lt;/code&gt;和官方内核均已通过，但未公布具体工具版本与详细输出日志。截至11月21日12:55 UTC，Sutherland本人在Lean v4.36.0上的端到端&lt;code&gt;comparator&lt;/code&gt;运行已完成命题比对与公理检查，内核阶段仍在继续，Lean默认与严格内核也尚未出结果；他此前的构建与导出未在沙盒中完成，尚待与沙盒构建结果比对。至于Lean v4.36.0捆绑的旧版&lt;code&gt;con-leche&lt;/code&gt;和&lt;code&gt;con-ron&lt;/code&gt;因不支持证明中的一种类型返回退出码2，Sutherland页面注明这并不意味着证明被拒绝。&lt;/p&gt;
+&lt;p&gt;在证明范围上也存在口径差。Elliot Glazer于11月20日称形式化命题实为广义黎曼猜想，Sutherland页面则更为审慎：主定理是Mathlib定义的黎曼猜想，其余四个定理针对狄利克雷L函数，页面仅在此限定意义上提及“GRH”。Sutherland同时提醒，即便公理检查无误，最终结论仍以Mathlib定义忠于数学本意、验证内核自身可靠为前提。&lt;/p&gt;
+从证明到“判卷”
+&lt;p&gt;把视角拉向幕后，Claude的身影贯穿了从提出证明到参与“判卷”的多个环节。&lt;/p&gt;
+&lt;p&gt;按Alpöge附上的研究时间线，这项工作始于10月6日的“Stepanov行列式”，至当地时间11月15日深夜至16日凌晨告成，11月16日的记录上仅剩“GRH”三个字母。该时间线据称由Claude整理。Alpöge表示，自己负责指明方向，Claude随后提出突破性步骤——一条长度约等于所界定素数和平方根的“theta提升”链，每次提升对应经典函数域论证所依赖、在整数域上却极难找到的“重数”。“在接近终点时，Claude远远超过了我。不，Claude简直是在终点附近飞翔、跳舞、闪耀，”他在声明中写道。&lt;/p&gt;
+&lt;p&gt;到了核验阶段，Claude依然在场。Sutherland验证页开头署名显示，整套检查通过Claude Code运行；而3分15秒审完146.8万条声明的&lt;code&gt;con-leche&lt;/code&gt;，据Lean创始人Leonardo de Moura上月在博客中介绍，是首个用Lean写成并被证明自洽的内核——代码与自洽证明均由Claude完成，由Lean FRO的Joachim Breitner严格把关。因为有形式化自洽证明兜底，且最终结论与Rust内核&lt;code&gt;nanoda&lt;/code&gt;等多个第三方独立内核一致，验证信用并不取决于单一工具。&lt;/p&gt;
+&lt;p&gt;这种推进速度超出了Anthropic三个月前的自身预期。今年8月，公司曾公布未公开版Claude配合Lean的研究成果，将关键线上零点比例下界从41.6%推高至67.2%，并通过了&lt;code&gt;comparator&lt;/code&gt;检验。当时Anthropic明确表态，并不预期这些技术能最终证明黎曼猜想。&lt;/p&gt;
+&lt;p&gt;仅仅三个月后就实现跨越，却恰好撞上11月19日IPO后的敏感窗口。Alpöge在声明中主动承认“精确的时机非常糟糕”，透露完成后曾询问Anthropic首席执行官Dario Amodei能否公开，“最终我们弄清楚了，确实存在需要遵守的限制”。他否认外界对发布时机的负面猜测，称这种“明显的愤世嫉俗的看法”是错误的，并坦言自己“实在无法再等下去了”，愿承担全部责任。&lt;/p&gt;
+舆论狂欢与学界克制
+&lt;p&gt;北京时间11月21日23:12，Lean官方公告在社交平台X发布，迅速激起科技圈与主流学界的讨论。&lt;/p&gt;
+&lt;p&gt;AI圈情绪迅速沸腾：AI研究者姚顺雨早在20日晚便发帖惊呼“OMG, Riemann Hypothsis?!”；官方声明出炉后，AI资讯作者Rohan Paul概括称“167年后，黎曼猜想终于被AI完成了”，评论账号Dr Singularity则感叹“What a time to be alive”。网友还翻出OpenAI首席执行官Sam Altman于2022年在X上半开玩笑追问“黎曼猜想什么时候能搞定”的旧帖，调侃“Anthropic抢在你前面做到了”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;主流学者的措辞则明显更紧。11月21日早间，在Lean官方联合声明尚未发布前，哥伦比亚大学数学与物理教授Brian Greene发帖介绍AI“可能攻克了凌驾于所有难题之上的黎曼猜想”，但用词保留余地，并非其本人独立核验。罗格斯大学数学系主任Alex Kontorovich虽对证明成功愈发乐观，当日在X上的动作也仅是转发《Quanta Magazine》关于Alpöge声明的报道。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在功劳归属上，学界同样拒绝将此简化为“AI独力破题”。普林斯顿大学一位数学与AI研究人员强调，人类参与仍是利用大语言模型解决数学问题的最佳方式，Alpöge应当获得与Claude同等的认可。Sutherland在独立编译通过后，也称这是一场“人类的胜利”。&lt;/p&gt;
+&lt;p&gt;更棘手的现实在于，机器已经验证，人类却还读不懂。曼彻斯特大学数学家Thomas Bloom在X上直言，他分不清更令自己震惊的是AI声称证明了黎曼猜想，还是AI生成了一份转化为人类可读文本后超过25万页、且逻辑连贯的证明。&lt;/p&gt;
+&lt;p&gt;2006年菲尔兹奖得主陶哲轩在个人博客中给出初步判断：这份证明似乎综合运用了朗兰兹纲领和算术几何的现代研究成果，验证与消化仍需时间，“好在这一次，至少还有一位人类作者可以沟通”。&lt;/p&gt;
+&lt;p&gt;接下来，拆解与简化这份庞大证明将成为数学界的核心课题。Lean与Mathlib社区在声明末尾表示，期待数学界接下来的工作能够阐释该证明中的新思想。Alpöge本人也预计，这份体量惊人的证明“很可能会被大幅简化，而且可能很快就能实现”。&lt;/p&gt;
+&lt;p&gt;即便计算机已经给出了肯定答复，数学界的正式加冕仍须跨越漫长的制度门槛。按克雷数学研究所规则，千禧年大奖难题的100万美元奖金要求解答必须正式发表、经过至少两年的公开检验，并获得国际数学界普遍认可。&lt;/p&gt;
+&lt;p&gt;对Alpöge而言，他口中这个“科学领域某种更伟大事物的一个黎明”，距离真正尘埃落定还有数年时间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报</title><link>https://wallstreetcn.com/articles/3786441</link><guid>1b5820df003e5f830649226251baa6bfd9f6873f59a60a3368abaf000b98ae79</guid><pubDate>Sun, 22 Nov 2026 01:13:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本周美股遭遇年内最猛烈抛售，纳指重挫10.02%抹平年内涨幅，AI投资前景疑虑持续发酵。经历暴跌后，下周进入感恩节缩短交易周，见闻财经日历提醒下周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观层面聚焦美股企稳之问。&lt;/strong&gt;美国10月PCE即“美联储最爱的通胀指标”与三季度GDP修正值下周三同日出炉，机构预期核心PCE同比由3.1%升至3.2%以上，若超预期将加剧加息担忧、继续压制高估值科技股；下周五“黑五”购物高峰则检验高物价与美国股市财富缩水下的消费韧性，这或是AI板块之外行情的关键支撑。&lt;strong&gt;此外，感恩节周四美股全天休市、黑色星期五于美东13:00提前收市，全周有效交易日不足四天。&lt;/strong&gt;&lt;/p&gt;
