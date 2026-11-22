@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 22 Nov 2026 05:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的</title><link>https://wallstreetcn.com/articles/3786445</link><guid>26e58f3d44f451e9955214671135d0acb54158de4523190398259c7c73d912c1</guid><pubDate>Sun, 22 Nov 2026 03:11:28 GMT</pubDate><description>&lt;p&gt;11月21日，开源形式化验证社区Lean与Mathlib发布联合声明，确认Anthropic数学家Levent Alpöge对黎曼猜想的证明成立。两家机构联合背书称：&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 22 Nov 2026 06:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的</title><link>https://wallstreetcn.com/articles/3786445</link><guid>26e58f3d44f451e9955214671135d0acb54158de4523190398259c7c73d912c1</guid><pubDate>Sun, 22 Nov 2026 03:11:28 GMT</pubDate><description>&lt;p&gt;11月21日，开源形式化验证社区Lean与Mathlib发布联合声明，确认Anthropic数学家Levent Alpöge对黎曼猜想的证明成立。两家机构联合背书称：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“完全有信心Alpöge对黎曼猜想的证明是正确的”。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -155,7 +155,37 @@
 &lt;p&gt;宁夏由已有的宁夏黄河农村商业银行股份有限公司（以下简称黄河农商银行）直接吸收合并19家县市农商银行。吸收合并批复于6月29日作出、7月7日公布。8月31日，监管部门集中公布这19家机构的解散批复。清产核资后的资产、负债和业务由黄河农商银行承接，原有机构改建为分支机构。&lt;/p&gt;
 &lt;p&gt;回到云南，联合公告已明确两项安排。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;筹建工作小组获授权组织清产核资和资产评估，原股金按各涉改机构审议通过的决议处置。至于原股金具体怎么处置、新银行股东如何构成，现有公告还没有披露。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;存量不良资产如何清收处置、云南省联社原有的行业管理职能如何安排，也是筹建阶段待明确的问题。按照批复，筹建工作完成后，工作小组将向云南金融监管局提出开业申请。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阻止美联储加息的最快方式：美股“以死相逼”</title><link>https://wallstreetcn.com/articles/3786446</link><guid>6bae9d9d2a31f675b9e19304ca0120d847d5c6a3f69b6c87e74ee82e02fbc86a</guid><pubDate>Sun, 22 Nov 2026 03:38:21 GMT</pubDate><description>&lt;p&gt;美银首席投资策略师Michael Hartnett在本周最新的Flow Show指出，阻止美联储继续加息的最快方式，是让股市回吐2026年的全部涨幅。这一目标位对应标普500指数6,845点，而该指数上周五收于6,925点，距离触发仅剩80点、约1.2%的空间。在连续六周维持&amp;quot;避险&amp;quot;立场后，Hartnett的框架正从预测变为市场现实。&lt;/p&gt;
+&lt;p&gt;存量不良资产如何清收处置、云南省联社原有的行业管理职能如何安排，也是筹建阶段待明确的问题。按照批复，筹建工作完成后，工作小组将向云南金融监管局提出开业申请。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求</title><link>https://wallstreetcn.com/articles/3786451</link><guid>fa973c219b911135d732113a4bce4cbd42313c414629078e04692a551f799a66</guid><pubDate>Sun, 22 Nov 2026 06:04:47 GMT</pubDate><description>&lt;p&gt;高露洁棕榄（Colgate-Palmolive）与PyMC Labs联合发布的一项新研究显示，只要改变提问方式，让大语言模型“角色扮演”消费者，AI预测真实购买意愿的可靠度即可达到人类重测信度的90%。&lt;/p&gt;
+&lt;p&gt;这篇挂在预印本平台arXiv上的论文近期在海外科技与商业圈引发震动。全球企业每年在消费者调研上投入数十亿美元，有市场观点据此认为，传统调研的商业模式正面临冲击——企业不必耗时数周招募受访者，即可在极短时间内完成上千次定向访谈模拟与定价A/B测试。&lt;/p&gt;
+&lt;p&gt;喧嚣之外，论文作者与一线观察者却给出了更为审慎的判断。研究团队明确表示，合成消费者并非人类调研的全面替代品；社交平台X上的多位评论者也提醒，该方法生成的类人数据分布可能暗藏统计噪音，在大众日化之外的高风险决策中仍有待检验。&lt;/p&gt;
+破解AI“和稀泥”顽疾：告别直接打分
+&lt;p&gt;快消品投产前，企业通常会借助代表性消费者样本测试产品概念，最核心的指标是以5点李克特量表（1分为“绝对不买”，5分为“绝对会买”）衡量的购买意愿（PI）。这一延续数十年的流程成本高昂，且受访者常出现敷衍作答、顺从偏差和积极性偏差，导致需求信号充满噪音。&lt;/p&gt;
+&lt;p&gt;学界与业界早有引入AI充当“合成消费者”的尝试，但直接让模型打1至5分（直接李克特评分，DLR）往往收效甚微。论文测试OpenAI的GPT-4o与谷歌Gemini-2.0-flash后发现，直接打分时，模型习惯躲进居中的“安全分”3分，极少给出1分或5分，而真实人类答案大多集中在4分和5分。&lt;/p&gt;
+&lt;p&gt;结果，两款模型的响应分布相似度（KS相似度）分别低至0.26和0.39。若通过修改提示词强行把模型推向高分区，模型又会出现“过度校正”，导致产品概念的相对排名信号失真。&lt;/p&gt;
+&lt;p&gt;研究团队认为，问题不在于大语言模型本身，而在于直接索要数字的提问方式。为此，论文提出语义相似度评分（SSR）：先向模型输入特定人口统计学特征和产品概念图，让其自由写下购买想法；再用OpenAI的文本嵌入模型（&lt;code&gt;text-embedding-3-small&lt;/code&gt;）提取文本向量，计算其与5句预设锚定陈述的余弦相似度，并在6组参考陈述集上取均值，最终转化为5点量表的概率分布。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这套零样本（zero-shot）框架无需历史调研数据训练或微调，具备即插即用的低成本优势，其Python代码已在GitHub开源。&lt;/p&gt;
+9300份真实样本实测：跑赢传统算法，但离不开“人设”
+&lt;p&gt;研究团队调取了某领先个护企业在美国市场完成的57项真实概念调研作为基准。每项调研包含150至400名独立受访者，总样本量达9300人。&lt;/p&gt;
+&lt;p&gt;在完整画像与图文概念刺激下，SSR将GPT-4o和Gemini-2.0-flash在产品相对排名上的相关性达成率分别推升至90.2%和90.6%（以模拟2000次人类随机分组重测的相关性上限为参照）。两款模型的分布KS相似度同步跃升至0.88和0.80，大幅甩开直接打分法，也高于先写文本再交由AI“评分专家”转译的追问打分法（FLR，两款模型分别为0.72和0.59）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在泛化与降维测试中，SSR同样表现稳健。面对“产品概念与你的相关性如何”这一新问题，Gemini-2.0-flash的相关性达成率达82%，分布相似度达0.81；若将图文概念简化为纯文本，模型表现仅轻微下滑。&lt;/p&gt;
+&lt;p&gt;更关键的对照来自传统机器学习。研究人员随机抽取28项调研作为训练集、29项作为测试集，用5项人口特征和3项产品属性重复训练了300个梯度提升决策树模型（LightGBM）。即便掌握样本内数据，LightGBM的相关性达成率也仅为64.6%，分布相似度为0.80；同等划分下，零样本GPT-4o配合SSR分别拿到88.3%和0.88。&lt;/p&gt;
+&lt;p&gt;但实验同时划出一条红线：“人设”不可或缺。一旦从Gemini-2.0-flash的提示词中剔除所有人口统计学特征，合成样本虽能产出与真实数据一致的平均分（4.0±0.1）和高达0.91的分布相似度，但在最佳参考集下，产品排名的相关性达成率从92%断崖式跌至50%。缺少画像约束的AI只会一味给好评，失去筛选产品的核心功能。&lt;/p&gt;
+&lt;p&gt;细分维度上，合成消费者较好还原了真实消费规律。真实调研中购买意愿随年龄呈倒U型分布（中年高于年轻与老年），GPT-4o准确复现了这一走势；面对预算紧张的收入设定、不同品类与价格档位，AI的偏好排序也与人类高度贴合。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;附带的自由文本还带来了意外红利。真实受访者的开放式留言往往止步于“挺好的”，AI却能给出详尽且少有积极性偏差的批评，其预测均值跨度更广，反而为早期筛选提供了更具区分度的信号。面对不受欢迎的概念，Gemini-2.0-flash会直言：“听起来很贵，我不太买账那些‘微生物组’的说法，还是用我熟悉的产品吧。”&lt;/p&gt;
+颠覆行业还是“随机鹦鹉”？
+&lt;p&gt;论文作者在结论中勾勒了新的研发路径：企业无需为每个早期创意买单，而是先用合成消费者低成本海选，将昂贵的人类样本留给最具潜力的候选方案。这既能加速迭代，也让中小品牌有机会触及以往无力承担的消费者洞察。&lt;/p&gt;
+&lt;p&gt;不过，研究团队并未回避方法的硬伤。实验中采用的6组锚定陈述系针对这57项调研手动优化，跨调研的普适性仍待观察；AI虽能较好模拟年龄与收入差异，在性别、居住地区和族裔维度上却表现不稳。&lt;/p&gt;
+&lt;p&gt;更根本的制约来自训练语料。SSR在口腔与个护领域奏效，很大程度上源于网络论坛和消费者评论中沉淀了海量相关讨论；一旦进入语料稀缺的陌生品类，大模型仍会产生幻觉。真实世界里的预算硬约束、文化语境与营销曝光，同样难以被合成样本完整捕捉。&lt;/p&gt;
+&lt;p&gt;社交平台X上的争论折射出业界对这一趋势的分歧。用户James He 将语义相似度诱导称作“一个有趣的小技巧”，指出其制造类人分布的方式“本质上只是噪音，且丢失了项目间的所有协方差”，“用来决定牙膏方案或许足够，但未必适用于最关键的决策”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;用户James Sutton 则认为这正是“随机鹦鹉”的典型写照：大模型输出的只是“互联网平均值的均值”，角色扮演本质上是基于条件逻辑的简化世界构建，虽非真实思考，却依然管用。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;也有观察者看到了这项成功的潜力。用户MartianCats 评论称，商业广告无处不在地运用“选择架构”引导消费，如今大模型开始直接对人类行为建模，“尚不清楚行为经济学家如何看待大模型，但它们或许会像近期改变数学领域一样，颠覆经济学”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 阻止美联储加息的最快方式：美股“以死相逼”</title><link>https://wallstreetcn.com/articles/3786446</link><guid>6bae9d9d2a31f675b9e19304ca0120d847d5c6a3f69b6c87e74ee82e02fbc86a</guid><pubDate>Sun, 22 Nov 2026 03:38:21 GMT</pubDate><description>&lt;p&gt;美银首席投资策略师Michael Hartnett在本周最新的Flow Show指出，阻止美联储继续加息的最快方式，是让股市回吐2026年的全部涨幅。这一目标位对应标普500指数6,845点，而该指数上周五收于6,925点，距离触发仅剩80点、约1.2%的空间。在连续六周维持&amp;quot;避险&amp;quot;立场后，Hartnett的框架正从预测变为市场现实。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;上周美股录得&amp;quot;解放日&amp;quot;以来最差单周表现。&lt;strong&gt;标普500单周下跌8.4%，连续第七个交易日走低并跌破200日均线，进入技术性回调&lt;/strong&gt;；纳斯达克100较10月纪录高点回落19.8%，逼近熊市边缘；VIX一度突破39。据Hartnett统计，标普500年内涨幅已从一周前的10.9%收窄至1.2%。&lt;/p&gt;
 &lt;p&gt;市场已经开始替美联储&amp;quot;做工作&amp;quot;。上周五盘中，美联储理事Waller主张的50个基点&amp;quot;震撼式&amp;quot;加息被移出选项，1月加息概率降至60%以下，10年期美债收益率回落至5%以下。但美联储官员的表态并未松动：理事Cook称金融条件仍过于宽松，费城联储的Paulson对连续加息持开放态度，会议纪要显示几乎所有官员都认为需要进一步收紧。&lt;/p&gt;
