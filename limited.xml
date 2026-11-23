@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 02:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场</title><link>https://wallstreetcn.com/articles/3786473</link><guid>9e5ccac6cb598b816f509b74cfe0939cbddaaa6f6c0a8003a0265fbfb3dff784</guid><pubDate>Mon, 23 Nov 2026 00:31:01 GMT</pubDate><description>&lt;p&gt;科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示，&lt;strong&gt;对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 02:59:17 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场</title><link>https://wallstreetcn.com/articles/3786473</link><guid>9e5ccac6cb598b816f509b74cfe0939cbddaaa6f6c0a8003a0265fbfb3dff784</guid><pubDate>Mon, 23 Nov 2026 00:31:01 GMT</pubDate><description>&lt;p&gt;科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示，&lt;strong&gt;对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。&lt;/strong&gt;高盛主经纪业务数据显示，基本面多空策略净杠杆已降至42.3%，处于过去一年第1百分位；按贝塔调整后的净杠杆较10月初下降逾22个百分点至48.2%，创五年新低。摩根士丹利的数据显示，美国多空策略净杠杆一周下降5个百分点至41%，周五的抛售可能将其推至40%以下，逼近新冠疫情和“解放日”期间30%至35%的历史低位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;但高盛美国股票情绪指标仍处于历史第75百分位。自第四季度以来，美国股票共同基金和ETF净流入近1700亿美元，资产管理机构的股票期货多头仓位处于过去十年第82百分位。据彭博报道，摩根大通在周末报告中同样指出，真正的“慢钱”尚未卖出。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一分化直接决定反弹的性质。高盛策略师Lee Coppersmith在周日报告中写道，恐慌指数达到9以上的42次历史情形中，标普500未来三个月平均上涨4.4%，78%的情形录得正收益；但在美联储处于加息周期的五次情形中，三个月平均涨幅仅为0.4%。&lt;/p&gt;
@@ -82,52 +82,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;外汇方面，彭博美元现货指数基本持平，欧元报1.0974美元，日元下跌0.3%至159.01，离岸人民币报6.6738，澳元上涨0.2%至0.6642美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;加密货币小幅走高，比特币涨0.4%至61099.72美元，以太坊涨0.2%至1720.81美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Claude证明黎曼假设“大反转”：论证无效，只是空转？</title><link>https://wallstreetcn.com/articles/3786480</link><guid>5b7fe0c8d8e71d9fc49698c5aa8e19bdb277fd6e26d91c63396a6fff5dbeaf83</guid><pubDate>Mon, 23 Nov 2026 01:46:23 GMT</pubDate><description>&lt;p&gt;11月20日，Anthropic数学家Levent Alpöge在个人网站发布说明，宣布自己与Claude共同找到了黎曼假设的证明。&lt;/p&gt;
-&lt;p&gt;他没有交出人类可读的论文，而是直接放出一个Lean 4代码库：175,187个文件、约1700万行代码。黎曼假设1859年由Bernhard Riemann提出，&lt;strong&gt;是克雷数学研究所悬赏100万美元的千禧年问题之一，至今已悬置约167年。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;次日，&lt;strong&gt;Lean Focused Research Organization与Mathlib Initiative联合表示：“我们有充分信心认为，Alpöge关于黎曼假设的证明是正确的。”&lt;/strong&gt;据《卫报》报道，两家机构是在审阅其Lean代码后作出这一表态的。MIT数学家Andrew Sutherland也独立编译了该结果，他说：“这确实是一个历史性的时刻，世界已经改变。”&lt;/p&gt;
-&lt;p&gt;然而就在同一天，另一份文稿出现了。&lt;/p&gt;
-&lt;p&gt;数学家J. L. Nielsen（署名单位为堪萨斯州Center for Topological Physics）于11月20日发布论文&lt;strong&gt;《Alpöge所提黎曼假设证明的无效性》。她的判断非常直接：“发布内容不包含黎曼假设的证明。所提证明无效。”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-反转：几何条件是“永远为真”
-&lt;p&gt;Nielsen检查的是那份175,187个文件的Lean归档，逐条追踪顶层定理的证明项依赖。她认为&lt;strong&gt;Lean算对了，但算的东西是空的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;Lean是“证明助手”，它不判断一个数学想法高不高级，只检查一件事：从你写下的定义出发，能不能一步步推到结论。&lt;/p&gt;
-&lt;p&gt;Nielsen翻查源码后发现，&lt;strong&gt;证明路径中需要一类“几何对象”作为见证（witness，即用来支撑某个论断的具体例子）。&lt;/strong&gt;但代码里这个条件是这样写的：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;anyGeometry : GeoP := fun _ _ _ =&amp;gt; True&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;翻译成人话就是：&lt;strong&gt;不管输入什么，一律返回“成立”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一处是几何条件。&lt;/strong&gt;代码中有一个名为&lt;code&gt;anyGeometry&lt;/code&gt;的谓词，定义为&lt;code&gt;fun _ _ _ =&amp;gt; True&lt;/code&gt;——无论输入什么，它都返回“真”。按论文的说法，这个定义在24个文件中被使用了118次，其中包括最终证明链上的关键“见证”（witness，即论证中需要举出的具体对象）。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二处是几何对象本身。&lt;/strong&gt;代码用一个名为&lt;code&gt;geoDegenerate&lt;/code&gt;的“退化模型”充当几何见证：体积为0、范数为0、曲线退化成一个点、曲面类型为空集。所有正性条件（如nef、big）都被定义为&lt;code&gt;True&lt;/code&gt;。论文写道，这个模型“只携带一个旗流形的度数数字，背后没有任何簇”。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三处是高度函数。&lt;/strong&gt;证明需要某个几何对象具有一个“高度”（height，可粗略理解为衡量对象复杂程度的数值），并被夹在上下界之间。但代码里，这个高度先被设为0，随后被直接改写成一个显式公式&lt;code&gt;hExpl6&lt;/code&gt;，于是“高度=公式”这一步由&lt;code&gt;rfl&lt;/code&gt;（自反性，即“因为定义如此”）自动成立。论文的原话是：高度“不是从任何几何对象推导出来的，而是一个公式，被选中以让论证闭合”。&lt;/p&gt;
-&lt;p&gt;Nielsen认为，几何侧与解析侧被这三步强制成了同一个对象，本该“夹住”独立几何高度的不等式，实际是“一个量和它自己比较”。&lt;/p&gt;
-&lt;p&gt;Nielsen的结论是：&lt;strong&gt;这些条件属于“空真（vacuously true）”——她写道：“形式化所证明的只是同义反复——黎曼假设等于黎曼假设。”即形式上为真，但没有断言任何实质内容。&lt;/strong&gt;（The proposed proof is invalid: what has been checked is a term whose structural witnesses are vacuously true, not the argument those witnesses stand for.）。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;所提出的证明是无效的：所检验的是一个结构性证据空洞成立的术语，而不是这些证据所代表的论点。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-支持者：内核通过就是通过
-&lt;p&gt;另一边的声音同样响亮。&lt;/p&gt;
-&lt;p&gt;Lean与Mathlib社区的验证针对的是另一组问题：顶层定理是否匹配Mathlib中标准的&lt;code&gt;RiemannHypothesis&lt;/code&gt;定义、代码能否编译、多个独立检查器是否接受。这些检查全部通过，且代码中没有&lt;code&gt;axiom&lt;/code&gt;（额外公理）、没有&lt;code&gt;sorry&lt;/code&gt;（占位符）、没有&lt;code&gt;native_decide&lt;/code&gt;（绕过内核的判定）。&lt;/p&gt;
-&lt;p&gt;在他们看来，这已经足够：一个类型正确的封闭项，就是该陈述的证明。&lt;/p&gt;
-&lt;p&gt;Polymarket在11月22日发帖概括了这场争议：“新分析声称AI辅助的黎曼假设证明无效，尽管它已在Lean中成功验证。”这条帖子获得76.8万次浏览，评论区迅速分裂。&lt;/p&gt;
-&lt;p&gt;大量反驳指向Nielsen本人。&lt;strong&gt;有用户翻出她的PhilPapers记录，称她此前对OpenAI的Yang-Mills证明、Navier-Stokes证明都发过类似“无效”论文；&lt;/strong&gt;也有人指出“Center for Topological Physics”的出版物列表上只有她一人。一条高赞评论写道：“Lean说有效，一位数学家说无效，你赌谁？”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;也有技术性反驳。有用户称，尼尔森“犯了一个新手错误：以为恒真的前提可以平凡地推出黎曼假设”——言下之意，恒真前提只能让那一步无内容，不能自动让最终结论失效。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-争议的核心：定义算不算数学
-&lt;p&gt;这场争论真正卡住的地方，是形式验证的两个层次被混在了一起。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一层：在给定定义和公理下，代码是否导出了目标定理？Lean社区的回答是肯定的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二层：这些定义是否忠实对应了研究者想表达的数学内容？Nielsen的回答是否定的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;用大白话说：Lean能保证“从你写下的规则出发，推理没有一步走错”，但不能保证“你写下的规则就是你想说的那件事”。如果规则里埋了一句“几何条件永远成立”，那么依赖它的推理再严密，也没有真正触及几何。&lt;/p&gt;
-&lt;p&gt;有媒体的报道概括称：争议“并非单纯指控Lean编译器出错，而是针对证明中部分数学对象的定义提出异议”；同时强调，Nielsen的论文“仍属可接受公开检验与反驳的研究主张，而非数学界已取得共识的最终判决”。&lt;/p&gt;
-人类可读版本的缺席
-&lt;p&gt;还有一个细节让争论难以收场：没有论文。&lt;/p&gt;
-&lt;p&gt;传统数学证明，同行可以逐行阅读、质疑、重写。而这次，外界面对的是一座1700万行的代码库。Nielsen在论文中说明，她读了约70个文件，多数是全文，聚焦顶层文件与第1至7节点名的定义和引理——相对于175,187个文件，这是一个极小的采样。&lt;/p&gt;
-&lt;p&gt;这意味着双方其实都还没有完成“人类层面的消化”。MIT数学家Andrew Sutherland在验证通过当天就说：“要理解证明的数学细节，还有很多工作要做。我迫不及待想钻研进去。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报</title><link>https://wallstreetcn.com/articles/3786441</link><guid>1b5820df003e5f830649226251baa6bfd9f6873f59a60a3368abaf000b98ae79</guid><pubDate>Sun, 22 Nov 2026 16:13:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;加密货币小幅走高，比特币涨0.4%至61099.72美元，以太坊涨0.2%至1720.81美元。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 本周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报</title><link>https://wallstreetcn.com/articles/3786441</link><guid>1b5820df003e5f830649226251baa6bfd9f6873f59a60a3368abaf000b98ae79</guid><pubDate>Sun, 22 Nov 2026 16:13:17 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt; 11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;上周美股遭遇年内最猛烈抛售，纳指重挫10.02%抹平年内涨幅，AI投资前景疑虑持续发酵。经历暴跌后，本周进入感恩节缩短交易周，见闻财经日历提醒本周重点关注：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;宏观层面聚焦美股企稳之问。&lt;/strong&gt;美国10月PCE即“美联储最爱的通胀指标”与三季度GDP修正值本周三同日出炉，机构预期核心PCE同比由3.1%升至3.2%以上，若超预期将加剧加息担忧、继续压制高估值科技股；本周五“黑五”购物高峰则检验高物价与美国股市财富缩水下的消费韧性，这或是AI板块之外行情的关键支撑。&lt;strong&gt;此外，感恩节周四美股全天休市、黑色星期五于美东13:00提前收市，全周有效交易日不足四天。&lt;/strong&gt;&lt;/p&gt;
@@ -230,7 +185,52 @@
 &lt;/ul&gt;
 &lt;p&gt;本周中概股及港股科技板块将迎来密集财报披露期，美团、小米、哔哩哔哩、理想汽车、戴尔科技等头部企业将陆续放榜。市场将重点聚焦新能源汽车竞争格局下的汽车交付及毛利表现，以及美团与B站的盈利韧性，业绩成色将直接影响板块短期走势。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;小米与哔哩哔哩（B站）的2026年Q3电话会均定于11月24日晚间19:30、20:00举行，美团则在11月27日 19:00晚间举行。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指跌1%失守3500点，创业板低开高走早盘转涨，物理AI爆发、宇树大涨，恒科指跌近2%，权重科网股普跌</title><link>https://wallstreetcn.com/articles/3786484</link><guid>6f8361b96f702565ef47968ac505f8601b893ff1d07b57be71a11575fcc97e5a</guid><pubDate>Mon, 23 Nov 2026 02:00:00 GMT</pubDate><description>&lt;p&gt;11月23日，A股早盘震荡分化，沪指低开低走，盘初跌破3600点，创业板盘初一度快速上冲，科创50跌超1%，北证50涨近2%。AI硬件活跃，电路板、光模块、覆铜板等逆势拉升，物理AI再度反弹，上纬新材、宇树科技涨幅居前。油气、白酒、煤炭等陷入调整。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Claude证明黎曼假设“大反转”：论证无效，只是空转？</title><link>https://wallstreetcn.com/articles/3786480</link><guid>5b7fe0c8d8e71d9fc49698c5aa8e19bdb277fd6e26d91c63396a6fff5dbeaf83</guid><pubDate>Mon, 23 Nov 2026 01:46:23 GMT</pubDate><description>&lt;p&gt;11月20日，Anthropic数学家Levent Alpöge在个人网站发布说明，宣布自己与Claude共同找到了黎曼假设的证明。&lt;/p&gt;
+&lt;p&gt;他没有交出人类可读的论文，而是直接放出一个Lean 4代码库：175,187个文件、约1700万行代码。黎曼假设1859年由Bernhard Riemann提出，&lt;strong&gt;是克雷数学研究所悬赏100万美元的千禧年问题之一，至今已悬置约167年。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;次日，&lt;strong&gt;Lean Focused Research Organization与Mathlib Initiative联合表示：“我们有充分信心认为，Alpöge关于黎曼假设的证明是正确的。”&lt;/strong&gt;据《卫报》报道，两家机构是在审阅其Lean代码后作出这一表态的。MIT数学家Andrew Sutherland也独立编译了该结果，他说：“这确实是一个历史性的时刻，世界已经改变。”&lt;/p&gt;
+&lt;p&gt;然而就在同一天，另一份文稿出现了。&lt;/p&gt;
+&lt;p&gt;数学家J. L. Nielsen（署名单位为堪萨斯州Center for Topological Physics）于11月20日发布论文&lt;strong&gt;《Alpöge所提黎曼假设证明的无效性》。她的判断非常直接：“发布内容不包含黎曼假设的证明。所提证明无效。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+反转：几何条件是“永远为真”
+&lt;p&gt;Nielsen检查的是那份175,187个文件的Lean归档，逐条追踪顶层定理的证明项依赖。她认为&lt;strong&gt;Lean算对了，但算的东西是空的&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;Lean是“证明助手”，它不判断一个数学想法高不高级，只检查一件事：从你写下的定义出发，能不能一步步推到结论。&lt;/p&gt;
+&lt;p&gt;Nielsen翻查源码后发现，&lt;strong&gt;证明路径中需要一类“几何对象”作为见证（witness，即用来支撑某个论断的具体例子）。&lt;/strong&gt;但代码里这个条件是这样写的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;anyGeometry : GeoP := fun _ _ _ =&amp;gt; True&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;翻译成人话就是：&lt;strong&gt;不管输入什么，一律返回“成立”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一处是几何条件。&lt;/strong&gt;代码中有一个名为&lt;code&gt;anyGeometry&lt;/code&gt;的谓词，定义为&lt;code&gt;fun _ _ _ =&amp;gt; True&lt;/code&gt;——无论输入什么，它都返回“真”。按论文的说法，这个定义在24个文件中被使用了118次，其中包括最终证明链上的关键“见证”（witness，即论证中需要举出的具体对象）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二处是几何对象本身。&lt;/strong&gt;代码用一个名为&lt;code&gt;geoDegenerate&lt;/code&gt;的“退化模型”充当几何见证：体积为0、范数为0、曲线退化成一个点、曲面类型为空集。所有正性条件（如nef、big）都被定义为&lt;code&gt;True&lt;/code&gt;。论文写道，这个模型“只携带一个旗流形的度数数字，背后没有任何簇”。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三处是高度函数。&lt;/strong&gt;证明需要某个几何对象具有一个“高度”（height，可粗略理解为衡量对象复杂程度的数值），并被夹在上下界之间。但代码里，这个高度先被设为0，随后被直接改写成一个显式公式&lt;code&gt;hExpl6&lt;/code&gt;，于是“高度=公式”这一步由&lt;code&gt;rfl&lt;/code&gt;（自反性，即“因为定义如此”）自动成立。论文的原话是：高度“不是从任何几何对象推导出来的，而是一个公式，被选中以让论证闭合”。&lt;/p&gt;
+&lt;p&gt;Nielsen认为，几何侧与解析侧被这三步强制成了同一个对象，本该“夹住”独立几何高度的不等式，实际是“一个量和它自己比较”。&lt;/p&gt;
+&lt;p&gt;Nielsen的结论是：&lt;strong&gt;这些条件属于“空真（vacuously true）”——她写道：“形式化所证明的只是同义反复——黎曼假设等于黎曼假设。”即形式上为真，但没有断言任何实质内容。&lt;/strong&gt;（The proposed proof is invalid: what has been checked is a term whose structural witnesses are vacuously true, not the argument those witnesses stand for.）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所提出的证明是无效的：所检验的是一个结构性证据空洞成立的术语，而不是这些证据所代表的论点。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+支持者：内核通过就是通过
+&lt;p&gt;另一边的声音同样响亮。&lt;/p&gt;
+&lt;p&gt;Lean与Mathlib社区的验证针对的是另一组问题：顶层定理是否匹配Mathlib中标准的&lt;code&gt;RiemannHypothesis&lt;/code&gt;定义、代码能否编译、多个独立检查器是否接受。这些检查全部通过，且代码中没有&lt;code&gt;axiom&lt;/code&gt;（额外公理）、没有&lt;code&gt;sorry&lt;/code&gt;（占位符）、没有&lt;code&gt;native_decide&lt;/code&gt;（绕过内核的判定）。&lt;/p&gt;
+&lt;p&gt;在他们看来，这已经足够：一个类型正确的封闭项，就是该陈述的证明。&lt;/p&gt;
+&lt;p&gt;Polymarket在11月22日发帖概括了这场争议：“新分析声称AI辅助的黎曼假设证明无效，尽管它已在Lean中成功验证。”这条帖子获得76.8万次浏览，评论区迅速分裂。&lt;/p&gt;
+&lt;p&gt;大量反驳指向Nielsen本人。&lt;strong&gt;有用户翻出她的PhilPapers记录，称她此前对OpenAI的Yang-Mills证明、Navier-Stokes证明都发过类似“无效”论文；&lt;/strong&gt;也有人指出“Center for Topological Physics”的出版物列表上只有她一人。一条高赞评论写道：“Lean说有效，一位数学家说无效，你赌谁？”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;也有技术性反驳。有用户称，尼尔森“犯了一个新手错误：以为恒真的前提可以平凡地推出黎曼假设”——言下之意，恒真前提只能让那一步无内容，不能自动让最终结论失效。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+争议的核心：定义算不算数学
+&lt;p&gt;这场争论真正卡住的地方，是形式验证的两个层次被混在了一起。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一层：在给定定义和公理下，代码是否导出了目标定理？Lean社区的回答是肯定的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二层：这些定义是否忠实对应了研究者想表达的数学内容？Nielsen的回答是否定的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;用大白话说：Lean能保证“从你写下的规则出发，推理没有一步走错”，但不能保证“你写下的规则就是你想说的那件事”。如果规则里埋了一句“几何条件永远成立”，那么依赖它的推理再严密，也没有真正触及几何。&lt;/p&gt;
+&lt;p&gt;有媒体的报道概括称：争议“并非单纯指控Lean编译器出错，而是针对证明中部分数学对象的定义提出异议”；同时强调，Nielsen的论文“仍属可接受公开检验与反驳的研究主张，而非数学界已取得共识的最终判决”。&lt;/p&gt;
+人类可读版本的缺席
+&lt;p&gt;还有一个细节让争论难以收场：没有论文。&lt;/p&gt;
+&lt;p&gt;传统数学证明，同行可以逐行阅读、质疑、重写。而这次，外界面对的是一座1700万行的代码库。Nielsen在论文中说明，她读了约70个文件，多数是全文，聚焦顶层文件与第1至7节点名的定义和引理——相对于175,187个文件，这是一个极小的采样。&lt;/p&gt;
+&lt;p&gt;这意味着双方其实都还没有完成“人类层面的消化”。MIT数学家Andrew Sutherland在验证通过当天就说：“要理解证明的数学细节，还有很多工作要做。我迫不及待想钻研进去。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 沪指跌1%失守3500点，创业板低开高走早盘转涨，物理AI爆发、宇树大涨，恒科指跌近2%，权重科网股普跌</title><link>https://wallstreetcn.com/articles/3786484</link><guid>6f8361b96f702565ef47968ac505f8601b893ff1d07b57be71a11575fcc97e5a</guid><pubDate>Mon, 23 Nov 2026 02:00:00 GMT</pubDate><description>&lt;p&gt;11月23日，A股早盘震荡分化，沪指低开低走，盘初跌破3600点，创业板盘初一度快速上冲，科创50跌超1%，北证50涨近2%。AI硬件活跃，电路板、光模块、覆铜板等逆势拉升，物理AI再度反弹，上纬新材、宇树科技涨幅居前。油气、白酒、煤炭等陷入调整。&lt;/p&gt;
 &lt;p&gt;港股低空低走，恒指、恒科指双双跌超1%，恒科指跌近2%，权重科网股多数下挫，腾讯、阿里、美团等纷纷走低。AI硬件股局部反弹，中际旭创涨超4%，AI大模型股分化，智谱涨2%，MINIMAX跌1%。债市方面，国债期货普遍下跌。商品方面，国内商品期货多数下跌。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A股&lt;/strong&gt;：截至发稿，沪指跌1.16%，深成指跌0.30%，创业板指涨0.20%。&lt;/p&gt;
@@ -325,7 +325,32 @@ AI搜索的商业化阵痛
 &lt;p&gt;目前，谷歌在AI功能中投放广告仍处于实验阶段，对广告数量和可能引起用户反感的格式保持谨慎。此外，用户使用AI搜索的方式也与常规搜索不同，查询内容更宽泛、更长，且不易直接转化为购买行为。不过，谷歌发言人发布声明称，公司正有意设计AI搜索以突出网络内容，&lt;strong&gt;“我们现在每周通过搜索AI功能向网站发送数十亿次点击。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报道指出，尽管短期内面临变现压力，但广告商预计谷歌将逐步找到更好地匹配查询的广告展示方式，从而推动增长反弹。如果未来有更多用户涌入AI模式，这种流量优势最终也可能使苹果受益。&lt;/p&gt;
 &lt;p&gt;Morningstar高级股票分析师Ahmed Khan预测，&lt;strong&gt;谷歌将首先扩大AI模式的规模以吸引更多用户，随后再缓慢引入更多广告&lt;/strong&gt;。他预计，&lt;strong&gt;AI模式的变现能力将在2027年底或2028年初达到与传统搜索相同的水平&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;从更长远的角度来看，投资银行Citizens的股票研究分析师Andrew Boone认为，谷歌搜索将演变为一个整合了谷歌Gemini AI模型的代理界面。谷歌已在今年3月在部分Android手机中引入了Gemini支持的任务自动化功能，并在5月发布了Gemini Spark AI代理，上周又发布了名为Tasks的进一步更新。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”</title><link>https://wallstreetcn.com/articles/3786474</link><guid>856a56f2b808263ca2e564cb9b4e953989102e21cac6437bca7a9a4c19778a95</guid><pubDate>Mon, 23 Nov 2026 00:28:21 GMT</pubDate><description>&lt;p&gt;Anthropic上市首日股价上涨17%，创下史上最大规模IPO纪录，但&lt;strong&gt;承销商在交易仅一天后就行使了全部超额配售选择权（“绿鞋”），额外募资122亿美元。&lt;/strong&gt;随着上周五科技股遭遇抛售，Anthropic股价一度跌至距83美元发行价仅差5美分，最终收于88.91美元，跌幅8.5%。据部分投资者由此质疑，&lt;strong&gt;在市场规模已扩大、内部人持股可售、市况走弱的三重背景下，如此迅速地行使绿鞋是否过于仓促，并传递出公司“急于拿钱”的信号。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从更长远的角度来看，投资银行Citizens的股票研究分析师Andrew Boone认为，谷歌搜索将演变为一个整合了谷歌Gemini AI模型的代理界面。谷歌已在今年3月在部分Android手机中引入了Gemini支持的任务自动化功能，并在5月发布了Gemini Spark AI代理，上周又发布了名为Tasks的进一步更新。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 高盛谈美股“见底”三大条件：AI货币化、美联储转鸽与机构仓位下降</title><link>https://wallstreetcn.com/articles/3786485</link><guid>2d743d3ec68952d30e1e35385c2f68ec29fe7360286c268126e52fbcbb93e8d3</guid><pubDate>Mon, 23 Nov 2026 01:57:56 GMT</pubDate><description>&lt;p&gt;标普500指数自10月高点已累计下跌12%，高盛认为，在三个关键条件得到满足之前，市场尚难言触底。&lt;/p&gt;
+&lt;p&gt;此轮调整已超过标普500指数自1980年以来历年峰谷跌幅的中位数水平。追风交易台消息，高盛在最新发布的《美国每周市场启动》报告中指出，&lt;strong&gt;支持美股见底并启动反弹的三大催化剂分别为：AI投资货币化前景获得投资者信心背书、美联储政策释放鸽派信号，以及机构投资者仓位出现大幅下降。但目前来看，三个条件均尚未成熟。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;尽管对冲基金已开始去杠杆，但高盛的美股情绪指标显示，整体投资者仓位仍高于历史均值。与此同时，&lt;strong&gt;美国股票型共同基金和ETF在过去一个月净流入约1700亿美元，资产管理机构的股指期货多头仓位处于过去十年的第82百分位。这意味着仓位层面的&amp;quot;清洗&amp;quot;远未完成，市场下行风险仍不容忽视。&lt;/strong&gt;&lt;/p&gt;
+调整深度超历史中位数，估值修复尚不充分
+&lt;p&gt;标普500指数自10月6日创下历史高点后已下跌12%，纳斯达克100指数则从高点回落20%，年内累计跌幅收窄至1%。两大指数的跌幅均已超过各自自1980年以来历年峰谷跌幅的中位数。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;从估值角度看，标普500指数的远期市盈率年内已下降25%，目前降至16倍，接近30年历史均值。表面上，这一水平似乎具备一定吸引力——高盛数据显示，自1980年以来标普500指数经历22次10%以上的调整后，指数在随后3个月内平均上涨4%，其中73%的情形录得正收益。&lt;/p&gt;
+&lt;p&gt;然而，高盛警告称，&lt;strong&gt;基于趋势盈利计算的周期调整市盈率目前处于1990年以来的第83百分位，估值仍明显偏高。&lt;/strong&gt;AI投资热潮已将标普500指数的每股盈利推升至30年趋势线以上约25%，随着资本支出顺风效应在未来几年逐步消退，盈利存在向趋势均值回归的下行风险。&lt;/p&gt;
+&lt;p&gt;高盛给出了两种情景：&lt;strong&gt;若投资者对盈利前景失去信心，以30年平均市盈率17倍乘以趋势EPS 340美元，标普500指数的下行目标约为5800点；若市场信心恢复、市盈率回升至10年均值，指数则有望创出8100点的历史新高。&lt;/strong&gt;&lt;/p&gt;
+抛售从AI蔓延至周期股，增长预期遭下调
+&lt;p&gt;高盛指出，此轮调整最初集中于AI相关板块，但近一周已扩散为更广泛的增长预期下调。高盛AI篮子自10月6日以来已累计下跌32%，年内跌幅扩大至4%。此前在调整期间保持韧性的非AI标普500成分股，本周也开始走弱，较高点回落约6%。&lt;/p&gt;
+&lt;p&gt;周期股相对防御股的表现同样印证了这一趋势。过去一个月，周期股与防御股基本同步运行，但过去十天周期股已落后防御股约5个百分点，显示市场开始对经济增长前景进行重新定价。&lt;/p&gt;
+&lt;p&gt;对冲基金的去杠杆行为加剧了市场抛压。高盛主经纪商数据显示，近几周对冲基金大规模减仓，净杠杆率已降至2025年4月以来的最低水平。高盛对冲基金VIP篮子（GSTHHVIP）过去六个月跑输标普500指数达14个百分点，接近该篮子过去20年相对市场表现最差的记录。&lt;/p&gt;
+&lt;p&gt;高盛将当前市场环境与2018年底的调整进行了类比。两者的共同点在于美联储持续收紧货币政策。高盛金融条件指数显示，无论是否纳入股票因素，金融条件近期均已明显收紧。&lt;/p&gt;
+三大见底条件：AI货币化、美联储转向、仓位出清
+&lt;p&gt;高盛明确列出了判断市场见底的三个观察维度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，AI投资货币化前景获得确认。&lt;/strong&gt; 当前市场对AI资本支出能否转化为可持续盈利增长存在高度不确定性。一旦出现能够增强投资者对AI盈利路径信心的实质性消息，将构成重要的反弹催化剂。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，美联储政策出现鸽派转向。&lt;/strong&gt; 宏观背景的改善——尤其是美联储释放降息或暂停加息信号——将有效缓解当前偏紧的金融条件，为估值修复提供支撑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，投资者仓位出现大幅下降。&lt;/strong&gt; 历史上，市场底部往往伴随着机构仓位的显著出清。然而，高盛的美股情绪指标目前读数为0.7，仍高于均值水平。美国股票型共同基金和ETF四季度以来累计净流入近1700亿美元，资产管理机构的股指期货净多头仓位处于过去十年的第82百分位。这与2018年底、2020年3月等历史底部时期仓位大幅压缩的特征明显不符。&lt;/p&gt;
+&lt;p&gt;高盛建议投资者在当前环境下，通过配置防御性板块以及持有具备强劲回购能力的公司来分散组合风险。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”</title><link>https://wallstreetcn.com/articles/3786474</link><guid>856a56f2b808263ca2e564cb9b4e953989102e21cac6437bca7a9a4c19778a95</guid><pubDate>Mon, 23 Nov 2026 00:28:21 GMT</pubDate><description>&lt;p&gt;Anthropic上市首日股价上涨17%，创下史上最大规模IPO纪录，但&lt;strong&gt;承销商在交易仅一天后就行使了全部超额配售选择权（“绿鞋”），额外募资122亿美元。&lt;/strong&gt;随着上周五科技股遭遇抛售，Anthropic股价一度跌至距83美元发行价仅差5美分，最终收于88.91美元，跌幅8.5%。据部分投资者由此质疑，&lt;strong&gt;在市场规模已扩大、内部人持股可售、市况走弱的三重背景下，如此迅速地行使绿鞋是否过于仓促，并传递出公司“急于拿钱”的信号。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;据英国《金融时报》专栏作家、美国银行前全球股票资本市场主管Craig Coben于11月22日撰文称，Anthropic的IPO在首日交易中表现强劲，收盘价97.17美元，稳稳高于83美元的发行价。按常规逻辑，如此扎实的首秀意味着承销商无需保留护盘资金，&lt;strong&gt;行使绿鞋也在情理之中&lt;/strong&gt;。但周五科技股的全面下挫改变了市场情绪，该股盘中一度逼近发行价，距83美元仅差5美分。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;争议的核心在于时机。&lt;/strong&gt;绿鞋机制的本意是让承销商在大规模新增供给后稳定股价，而非额外募资。一旦行使选择权，承销商便无法再通过在市场买入股票平掉空头头寸来支撑股价。批评者认为，在股价尚未企稳、市况仍在恶化之际提前行权，使这层“保险”过早失效。&lt;/p&gt;
@@ -342,7 +367,7 @@ AI搜索的商业化阵痛
 &lt;p&gt;Craig Coben在文中指出，负责稳定股价的Morgan Stanley并无直接财务动机去行使绿鞋。与SpaceX的IPO一样，招股说明书明确，承销商不会就超额配售部分获得佣金，额外募得的122亿美元全部归Anthropic所有。&lt;/p&gt;
 &lt;p&gt;法律上，承销商对是否行使绿鞋拥有唯一裁量权。但按经验，牵头行几乎总会与公司协商并尽量配合其意愿，银行单方面行动难以想象。因此，&lt;strong&gt;Anthropic很可能批准甚至鼓励了提前行权。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;绿鞋的提前行使凸显了Anthropic此次IPO传递出的混合信号。&lt;/strong&gt;高于区间的定价传达了实力与信心，但扩大发行规模在部分投资者看来带有机会主义色彩；而在市况不明、内部人持股潜在供给庞大的情况下，仅一天后就行使绿鞋，进一步强化了这一印象——它显示出一种在资本市场窗口开放时尽可能多融资的意愿。&lt;/p&gt;
-&lt;p&gt;在募集所需资金与抓住市场提供的一切之间，界限十分微妙。鉴于Anthropic上市承载的分量，若这场看似对更多现金的追逐掩盖了原本堪称教科书式的执行，将是一种遗憾。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 大盘调整的尾声、风格切换的开启</title><link>http://www.xueqiu.com/9928479458/418046268</link><guid>7aae61cb3eb621139561e81225e29c834f24dac937241826ed3fa9017fc516b7</guid><pubDate>Sun, 22 Nov 2026 14:36:32 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;趋势解读&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;市场的防守板块，中证红利板块现在的估值也不低了，&lt;b&gt;中证红利指数&lt;/b&gt;（银行、电力、煤炭、电信）现在的PE是9.3倍，PE分位在近三年是99.3%：&lt;/p&gt;</description></item><item><title>[今日雪球] 在A股长期盈利的核心能力（3）</title><link>http://www.xueqiu.com/2740510444/418035213</link><guid>c75ea61df1664577118a7707f8ef1f473ae477b8e14e5a9f3cd347912f14cf17</guid><pubDate>Sun, 22 Nov 2026 14:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;股海行道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这两天通过反思和总结，有了一些心得体会，所以在这里临时插入一篇。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027见闻历，财经人的桌面必备“神历”</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Mon, 23 Nov 2026 00:35:19 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在募集所需资金与抓住市场提供的一切之间，界限十分微妙。鉴于Anthropic上市承载的分量，若这场看似对更多现金的追逐掩盖了原本堪称教科书式的执行，将是一种遗憾。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2027见闻历，财经人的桌面必备“神历”</title><link>https://wallstreetcn.com/articles/3782813</link><guid>06afadf1ec4cc80eba738e1667ed8355bea53f028238d323d1c32caaea3c9013</guid><pubDate>Mon, 23 Nov 2026 00:35:19 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;/a&gt;&lt;a href="https://wallstreetcn.com/shop/item/1000400"&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”</title><link>https://wallstreetcn.com/articles/3786470</link><guid>ee042b217e9ba7af9f3757f973a030db6863da72a6f8401399219df87dc443a0</guid><pubDate>Mon, 23 Nov 2026 00:07:09 GMT</pubDate><description>&lt;p&gt;马斯克警告，AI行业明年将面临严峻的现金短缺，数据中心并网延迟是主要推手。这一表态出现在全球科技股大幅回调、市场对AI泡沫争论升温之际。&lt;/p&gt;
@@ -357,4 +382,4 @@ AI搜索的商业化阵痛
 &lt;p&gt;上周美股的跌幅让“AI 泡沫”从讨论变成了交易行为。标普500和道指进入回调区间，意味着两大指数较近期高点均已下跌至少10%。部分市场人士据此推测，AI 泡沫已经破裂。&lt;/p&gt;
 钱从哪里来
 &lt;p&gt;马斯克的反问点出了行业的结构性矛盾：AI 公司需要在收入兑现之前持续投入，而投资回收周期取决于数据中心的建设进度。一旦进度落后，缺口就只能靠外部融资填补，规模以千亿美元计。&lt;/p&gt;
-&lt;p&gt;在当前的市场环境下，融资并不轻松。科技股回调压缩了股权融资的估值基础，监管层对卖空的限制也反映出市场情绪的紧张程度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 局势有变？贝森特“改口”：黄仁勋可能“不知情”</title><link>https://wallstreetcn.com/articles/3786468</link><guid>6fe9dbdd56d3bcb3c2957177fa6123e3c4241dd6f147414db4f5bd3a1daa57cd</guid><pubDate>Mon, 23 Nov 2026 00:02:16 GMT</pubDate><description>&lt;p&gt;美国财政部长贝森特暗示未排除黄仁勋回归英伟达的可能性。这一措辞较其此前呼吁英伟达“大换血”、从外部寻找领导人的强硬立场明显缓和，为这位创始人的回归留出了想象空间。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;11月22日，贝森特在接受CBS《Face the Nation》节目采访时暗示并未排除黄仁勋回归的可能性，但强调政府首先需要厘清责任归属。他说：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;我认为我们得看看责任最终落在哪里，看看公司底层那些违规的恶意行为者是谁。&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;他同时透露，&lt;strong&gt;美国财政部截至11月22日尚未收到英伟达关于是否设立空壳公司规避出口管制的答复，该答复的截止日期为11月25日。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;上述言论标志着贝森特口风的变化。就在上周，他还在福克斯新闻节目中呼吁对英伟达进行“大幅整顿”，并建议这家AI芯片巨头的下一任领导人应从“公司外部”产生。&lt;/p&gt;&lt;p&gt;预测市场已对此作出反应。在Polymarket平台上，黄仁勋重新出任英伟达CEO的概率已从11月21日的11%升至14%。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;表态转向：从“外部接班”到“他已在外部”&lt;p&gt;贝森特的立场变化是近期事件的关键转折。&lt;/p&gt;&lt;p&gt;上周他在Fox News节目中曾对英伟达提出严厉批评，呼吁公司进行“大幅改组”，并&lt;strong&gt;建议这家AI芯片巨头的下任领导人应来自“公司外部”。&lt;/strong&gt;这一表态当时被市场解读为财政部不支持黄仁勋回归。&lt;/p&gt;&lt;p&gt;但在11月22日的CBS采访中，当被追问英伟达是否应寻找外部人选领导公司时，贝森特回应称：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;我说过他们应该从外部找人，但他现在就在外部了。&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;贝森特同时强调，责任链条尚未厘清。&lt;/strong&gt;他表示，“我们要看责任停在哪一层”，并追问“是底层、中层，还是一直通到最高层”。&lt;strong&gt;他称对英伟达各委员会迅速推进调查有信心，相信会给出“稳健可靠”的答案。&lt;/strong&gt;&lt;/p&gt;董事会与白宫的分歧&lt;p&gt;特朗普公开支持黄仁勋回归，并呼吁董事会恢复这位三十多年前联合创始人的职务。&lt;/p&gt;&lt;p&gt;黄仁勋的支持者也敦促董事会重新考虑其离职决定。这与英伟达董事会的立场形成对照，英伟达董事会已明确表示无意让黄仁勋回归。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分析认为若董事会坚持不让黄仁勋回归，其在向政府提交的答复中可能更倾向于将责任归于前CEO；而若政府接受黄仁勋回归，则可能降低部分监管压力。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;贝森特的表态使这两种路径都保持开放，但围绕英伟达对华业务合规的指控仍未解决。&lt;/p&gt;&lt;p&gt;贝森特上周要求英伟达在11月25日前告知特朗普政府，是否设立空壳公司以规避出口管制。他在11月22日表示，美国财政部尚未收到这些答复。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 极速应对</title><link>http://www.xueqiu.com/7977283243/418026240</link><guid>5ac25a2827609ba3894ea06cf63a3020d9c9d89fec927fcf139c211001b9f457</guid><pubDate>Sun, 22 Nov 2026 14:36:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近市场发生了剧烈调整，利空接踵而至，整个市场感受到的应该都是压力山大，本质上是市场信心不足后已经开始向下发生踩踏。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;在当前的市场环境下，融资并不轻松。科技股回调压缩了股权融资的估值基础，监管层对卖空的限制也反映出市场情绪的紧张程度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
