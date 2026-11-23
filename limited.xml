@@ -1,19 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Sun, 22 Nov 2026 23:59:10 GMT</lastBuildDate><item><title>[今日雪球] 大盘调整的尾声、风格切换的开启</title><link>http://www.xueqiu.com/9928479458/418046268</link><guid>7aae61cb3eb621139561e81225e29c834f24dac937241826ed3fa9017fc516b7</guid><pubDate>Sun, 22 Nov 2026 14:36:32 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;趋势解读&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;市场的防守板块，中证红利板块现在的估值也不低了，&lt;b&gt;中证红利指数&lt;/b&gt;（银行、电力、煤炭、电信）现在的PE是9.3倍，PE分位在近三年是99.3%：&lt;/p&gt;</description></item><item><title>[今日雪球] 在A股长期盈利的核心能力（3）</title><link>http://www.xueqiu.com/2740510444/418035213</link><guid>c75ea61df1664577118a7707f8ef1f473ae477b8e14e5a9f3cd347912f14cf17</guid><pubDate>Sun, 22 Nov 2026 14:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;股海行道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这两天通过反思和总结，有了一些心得体会，所以在这里临时插入一篇。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 为马斯克融资买GPU，高盛“秀操作”</title><link>https://wallstreetcn.com/articles/3786456</link><guid>f21a84ec622715d5471fdc6e83ef08b14d451e84fd081facb6ac8b0e7cb4ab87</guid><pubDate>Sun, 22 Nov 2026 12:11:23 GMT</pubDate><description>&lt;p&gt;周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。&lt;/p&gt;
-&lt;p&gt;这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但SpaceX为此支付了高昂成本。&lt;/p&gt;
-&lt;p&gt;本周，市场对AI增长前景的担忧拖累全球市场，美股下跌8.6%。随着支撑全球经济的AI基建不断逼近融资市场极限，这笔高成本交易正被视作其他科技巨头日后采购芯片的潜在范本。&lt;/p&gt;
-&lt;strong&gt;万亿芯片融资的“两难”&lt;/strong&gt;
-&lt;p&gt;给AI芯片融资历来棘手。芯片价格昂贵，使用寿命却只有短短数年。许多采购方不愿发行常规公司债，担心整体债务膨胀、拖累信用评级。&lt;/p&gt;
-&lt;p&gt;借助ABS等复杂工具举债，虽能避免新增债务冲击信用评级，却会带来新问题：ABS市场可能不够大。据Diameter的Goodwin估算，未来市场需采购约1.5万亿美元芯片，其中大部分将依赖债务融资。放眼信贷市场，唯有存量约8.3万亿美元的美国投资级公司债市场具备相近的承接体量。&lt;/p&gt;
-&lt;p&gt;摩根大通分析师今年6月在报告中写道：“找到合适的芯片融资范式是一个价值十亿美元的问题”，“在某个阶段，需要创造力来匹配AI芯片领域庞大的资金需求，以及五年期久期上相对有限的资本供给”。&lt;/p&gt;
-&lt;strong&gt;跨界结构与“倒置”流程&lt;/strong&gt;
-&lt;p&gt;据知情人士透露，高盛今年夏天向SpaceX抛出了破题方案：由一家特殊目的载体（SPV）采购英伟达芯片并发行债券，再通过与这家火箭、卫星及AI公司签订的约五年期租约还本付息。这套架构本质上是ABS，但债券保留了常规公司债的部分特征，包括配有美国证券统一识别码（CUSIP），从而吸引到专注高等级公司债的投资者。&lt;/p&gt;
-&lt;p&gt;相比此前支持Anthropic算力扩张的350亿美元融资项目“Big Sky”，高盛还把资金流程“倒了过来”。Big Sky通过私募配售让投资者承诺出资，等设备到位后再分批提款，债券随后才转为可供更广泛机构交易的格式。这种分阶段做法增加了复杂度，初期也限制了交易，对习惯随时买卖的公司债买家并不友好。&lt;/p&gt;
-&lt;p&gt;高盛给SpaceX的方案要求投资者预先全额出资。芯片交付前，资金先存入专用账户，可配置美国短期国债等短期工具，以产生的收益对冲设备就位前的融资成本。待GPU陆续交付，账户再放款采购并出租给SpaceX。债券一经发行，合格机构投资者即可直接交易，不必等待分批提款。&lt;/p&gt;
-&lt;strong&gt;机构买单，但溢价高昂&lt;/strong&gt;
-&lt;p&gt;SpaceX这笔整体融资总规模约440亿美元，包含优先和次级部分。据知情人士透露，整体买方覆盖保险公司、结构化信贷买家、资产管理机构及养老基金。在周四定价的约320亿美元债券中，约60亿美元于本周完成了银团分销。&lt;/p&gt;
-&lt;p&gt;SpaceX披露，交易支持方包括贝莱德、KKR和高盛资产管理。知情人士称，太平洋投资管理公司（Pimco）认购了约40亿美元，Blue Owl也是基石投资者之一。&lt;/p&gt;
-&lt;p&gt;不过，为了吸引买盘，SpaceX付出了高额溢价。本周向公司债买家发售的证券，定价较SpaceX今年早些时候发行的同期限债券高出约100个基点；而这批旧债近期在二级市场的跌幅持续扩大，已令债券交易员感到震惊。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 极速应对</title><link>http://www.xueqiu.com/7977283243/418026240</link><guid>5ac25a2827609ba3894ea06cf63a3020d9c9d89fec927fcf139c211001b9f457</guid><pubDate>Sun, 22 Nov 2026 14:36:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近市场发生了剧烈调整，利空接踵而至，整个市场感受到的应该都是压力山大，本质上是市场信心不足后已经开始向下发生踩踏。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年11月23日</title><link>https://wallstreetcn.com/articles/3786450</link><guid>613c413f853223db3dab6638f176b2223c4077f995920e7c97a63288336b1b9f</guid><pubDate>Sun, 22 Nov 2026 23:00:28 GMT</pubDate><description>华见早安之声
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 00:29:19 GMT</lastBuildDate><item><title>[今日雪球] 大盘调整的尾声、风格切换的开启</title><link>http://www.xueqiu.com/9928479458/418046268</link><guid>7aae61cb3eb621139561e81225e29c834f24dac937241826ed3fa9017fc516b7</guid><pubDate>Sun, 22 Nov 2026 14:36:32 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;趋势解读&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;市场的防守板块，中证红利板块现在的估值也不低了，&lt;b&gt;中证红利指数&lt;/b&gt;（银行、电力、煤炭、电信）现在的PE是9.3倍，PE分位在近三年是99.3%：&lt;/p&gt;</description></item><item><title>[今日雪球] 在A股长期盈利的核心能力（3）</title><link>http://www.xueqiu.com/2740510444/418035213</link><guid>c75ea61df1664577118a7707f8ef1f473ae477b8e14e5a9f3cd347912f14cf17</guid><pubDate>Sun, 22 Nov 2026 14:36:27 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;股海行道&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这两天通过反思和总结，有了一些心得体会，所以在这里临时插入一篇。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”</title><link>https://wallstreetcn.com/articles/3786470</link><guid>ee042b217e9ba7af9f3757f973a030db6863da72a6f8401399219df87dc443a0</guid><pubDate>Mon, 23 Nov 2026 00:07:09 GMT</pubDate><description>&lt;p&gt;马斯克警告，AI行业明年将面临严峻的现金短缺，数据中心并网延迟是主要推手。这一表态出现在全球科技股大幅回调、市场对AI泡沫争论升温之际。&lt;/p&gt;
+&lt;p&gt;11月22日，马斯克在X上回复一条帖子时表示：“明年的现金短缺也会非常疯狂。”他补充说，数据中心投运延迟将迫使AI公司额外筹集“数千亿美元”资金，并反问：“这些钱从哪里来？”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;马斯克回复的原帖显示，半导体制造商的股票估值相对于其预期利润处于较低水平。这可能意味着，投资者并不看好为 AI 提供算力的芯片公司能持续实现利润高速增长，也暗示数据中心建设短期内可能面临明显阻力。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+算力卡在哪里
+&lt;p&gt;AI 公司的收入在增长，支出也在同步膨胀。Meta、微软等头部企业以及 Anthropic 均在报告收入增长，但同时投入巨额资金锁定算力。算力主要由数据中心提供，而这一环节近来问题不断：建设地社区的反对、中期选举中民主党的胜利，以及施工延期。&lt;/p&gt;
+&lt;p&gt;没有可靠的数据中心网络，AI 公司就难以扩大规模以满足投资者的期待。数据中心运营商则陷入尴尬境地——数十亿美元投资迟迟无法产生收入。&lt;/p&gt;
+&lt;p&gt;马斯克表示：“要让这么多算力通电、冷却并稳定运行，难度大得难以置信。”&lt;/p&gt;
+&lt;p&gt;上周美股的跌幅让“AI 泡沫”从讨论变成了交易行为。标普500和道指进入回调区间，意味着两大指数较近期高点均已下跌至少10%。部分市场人士据此推测，AI 泡沫已经破裂。&lt;/p&gt;
+钱从哪里来
+&lt;p&gt;马斯克的反问点出了行业的结构性矛盾：AI 公司需要在收入兑现之前持续投入，而投资回收周期取决于数据中心的建设进度。一旦进度落后，缺口就只能靠外部融资填补，规模以千亿美元计。&lt;/p&gt;
+&lt;p&gt;在当前的市场环境下，融资并不轻松。科技股回调压缩了股权融资的估值基础，监管层对卖空的限制也反映出市场情绪的紧张程度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 局势有变？贝森特“改口”：黄仁勋可能“不知情”</title><link>https://wallstreetcn.com/articles/3786468</link><guid>6fe9dbdd56d3bcb3c2957177fa6123e3c4241dd6f147414db4f5bd3a1daa57cd</guid><pubDate>Mon, 23 Nov 2026 00:02:16 GMT</pubDate><description>&lt;p&gt;美国财政部长贝森特暗示未排除黄仁勋回归英伟达的可能性。这一措辞较其此前呼吁英伟达“大换血”、从外部寻找领导人的强硬立场明显缓和，为这位创始人的回归留出了想象空间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;11月22日，贝森特在接受CBS《Face the Nation》节目采访时暗示并未排除黄仁勋回归的可能性，但强调政府首先需要厘清责任归属。他说：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我认为我们得看看责任最终落在哪里，看看公司底层那些违规的恶意行为者是谁。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他同时透露，&lt;strong&gt;美国财政部截至11月22日尚未收到英伟达关于是否设立空壳公司规避出口管制的答复，该答复的截止日期为11月25日。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上述言论标志着贝森特口风的变化。就在上周，他还在福克斯新闻节目中呼吁对英伟达进行“大幅整顿”，并建议这家AI芯片巨头的下一任领导人应从“公司外部”产生。&lt;/p&gt;
+&lt;p&gt;预测市场已对此作出反应。在Polymarket平台上，黄仁勋重新出任英伟达CEO的概率已从11月21日的11%升至14%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+表态转向：从“外部接班”到“他已在外部”
+
+&lt;p&gt;贝森特的立场变化是近期事件的关键转折。&lt;/p&gt;
+&lt;p&gt;上周他在Fox News节目中曾对英伟达提出严厉批评，呼吁公司进行“大幅改组”，并&lt;strong&gt;建议这家AI芯片巨头的下任领导人应来自“公司外部”。&lt;/strong&gt;这一表态当时被市场解读为财政部不支持黄仁勋回归。&lt;/p&gt;
+&lt;p&gt;但在11月22日的CBS采访中，当被追问英伟达是否应寻找外部人选领导公司时，贝森特回应称：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我说过他们应该从外部找人，但他现在就在外部了。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;贝森特同时强调，责任链条尚未厘清。&lt;/strong&gt;他表示，“我们要看责任停在哪一层”，并追问“是底层、中层，还是一直通到最高层”。&lt;strong&gt;他称对英伟达各委员会迅速推进调查有信心，相信会给出“稳健可靠”的答案。&lt;/strong&gt;&lt;/p&gt;
+
+董事会与白宫的分歧
+
+&lt;p&gt;特朗普公开支持黄仁勋回归，并呼吁董事会恢复这位三十多年前联合创始人的职务。&lt;/p&gt;
+&lt;p&gt;黄仁勋的支持者也敦促董事会重新考虑其离职决定。这与英伟达董事会的立场形成对照，英伟达董事会已明确表示无意让黄仁勋回归。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析认为若董事会坚持不让黄仁勋回归，其在向政府提交的答复中可能更倾向于将责任归于前CEO；而若政府接受黄仁勋回归，则可能降低部分监管压力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;贝森特的表态使这两种路径都保持开放，但围绕英伟达对华业务合规的指控仍未解决。&lt;/p&gt;
+&lt;p&gt;贝森特上周要求英伟达在11月25日前告知特朗普政府，是否设立空壳公司以规避出口管制。他在11月22日表示，美国财政部尚未收到这些答复。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 极速应对</title><link>http://www.xueqiu.com/7977283243/418026240</link><guid>5ac25a2827609ba3894ea06cf63a3020d9c9d89fec927fcf139c211001b9f457</guid><pubDate>Sun, 22 Nov 2026 14:36:44 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;淡淡的相思林&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;最近市场发生了剧烈调整，利空接踵而至，整个市场感受到的应该都是压力山大，本质上是市场信心不足后已经开始向下发生踩踏。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街见闻早餐FM-Radio | 2026年11月23日</title><link>https://wallstreetcn.com/articles/3786450</link><guid>613c413f853223db3dab6638f176b2223c4077f995920e7c97a63288336b1b9f</guid><pubDate>Sun, 22 Nov 2026 23:00:28 GMT</pubDate><description>华见早安之声
 
 &lt;p&gt;&lt;/p&gt;
 要闻精选
