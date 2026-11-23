@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 23:29:19 GMT</lastBuildDate><item><title>[华尔街见闻] 439亿美元！CrowdStrike收购Zscaler，创网络安全行业并购纪录</title><link>https://wallstreetcn.com/articles/3786525</link><guid>d6c519396932cfbd8c130cd06a3aedc5165179e7e0cce93e2bdb1b80eeafde04</guid><pubDate>Mon, 23 Nov 2026 11:54:07 GMT</pubDate><description>&lt;p&gt;网络安全行业正在经历一场规模空前的整合。CrowdStrike宣布以约439亿美元全股票交易收购网络安全公司Zscaler，刷新该行业并购纪录，同时公布的第三财季业绩也超出市场预期，两大利好叠加，进一步强化了市场对这家公司成为AI时代网络安全领域主导平台的预期。&lt;/p&gt;
-&lt;p&gt;根据双方周一发布的公告，Zscaler股东将以1.135股CrowdStrike普通股换取每股Zscaler普通股，折合每股Zscaler约260.41美元，较Zscaler 11月20日收盘价194.82美元溢价约34%。交易完成后，现有CrowdStrike股东将持有合并后公司约84.1%的股权，Zscaler股东持有约15.9%。&lt;/p&gt;
-&lt;p&gt;与此同时，CrowdStrike公布2027财年第三季度营收15.8亿美元，高于市场预期的15.3亿美元；第四季度营收指引为16.4亿美元，亦超出市场预期的16.2亿美元。&lt;/p&gt;
-&lt;p&gt;此次收购将使CrowdStrike从终端安全领域全面扩张至网络安全领域，可寻址市场规模预计扩大逾1850亿美元。合并后公司的年度经常性收入（ARR）预计逾100亿美元。CrowdStrike首席执行官George Kurtz表示：&lt;strong&gt;&amp;quot;安全过去是为了把对手挡在门外，如今则需要安全地迎入AI。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-
-战略逻辑：从终端防护到全网零信任
-
-&lt;p&gt;此次交易的核心逻辑在于弥补CrowdStrike在网络安全层面的缺口。CrowdStrike旗下Falcon平台是企业终端和云工作负载安全领域的领导者，而Zscaler则专注于保护用户、设备与应用之间的连接，其零信任交换平台（Zero Trust Exchange）被定位为传统VPN的云原生替代方案。&lt;/p&gt;
-&lt;p&gt;Citrix及Ivanti等公司的传统VPN产品曾多次遭到黑客攻击。Zscaler的零信任架构通过精细化的访问控制，能够有效遏制入侵者在系统内部的横向移动。&lt;/p&gt;
-&lt;p&gt;Zscaler目前为财富500强中50%的企业提供保护，在全球超过200个服务节点运营全球最大的分布式内联云安全平台，其Zero Trust Exchange每日处理逾7500亿笔交易。交易完成后，CrowdStrike将把Zscaler的零信任SASE、AI安全及数据保护能力整合进Falcon平台，在每一个终端和每一条网络连接上同时建立安全控制。&lt;/p&gt;
-&lt;p&gt;Zscaler创始人兼首席执行官Jay Chaudhry表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;在AI时代，零信任安全已不可或缺，而AI代理（AI agents）正迅速成为新的最薄弱环节。这一协议将加速我们向更广泛客户群普及零信任架构的能力。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-财务前景：协同效应逐步兑现
-
-&lt;p&gt;在财务层面，双方对此次合并的协同效应设定了明确目标。&lt;strong&gt;CrowdStrike预计，交易完成后30个月内，年化营收协同效应将逐步提升，最终达到约10亿美元的年化运营收入协同规模；&lt;/strong&gt;成本协同方面，预计在交易完成后18至24个月内实现约5亿美元的年化成本节约，主要来源于数据中心基础设施、供应商及运营层面的优化。&lt;/p&gt;
-&lt;p&gt;公司方面表示，该交易在不计入任何协同效应的情况下，预计将立即对每股自由现金流产生显著正贡献；在协同效应落地后，预计在交易完成后第一个财年内，对营收增长、非GAAP运营利润率及自由现金流利润率均产生正面效果。&lt;/p&gt;
-&lt;p&gt;Zscaler最新一个财季报告的ARR为39亿美元。两家公司合并后的ARR预计超过100亿美元，这将使CrowdStrike一跃成为ARR规模最大的网络安全公司之一。&lt;/p&gt;
-&lt;p&gt;此外，约8000家Zscaler客户目前尚非CrowdStrike客户，构成可观的交叉销售空间。两家公司此前已有超过2000个共同客户，以及16项产品集成，此次合并被定性为长期合作伙伴关系的自然演进。&lt;/p&gt;
-
-交易结构与监管路径
-
-&lt;p&gt;此次交易已获两家公司董事会一致批准。根据协议条款，Jay Chaudhry及其关联方持有Zscaler约34%的流通股，已签署投票支持协议。交易完成后，Jay Chaudhry将继续主导Zscaler业务，并加入CrowdStrike董事会。&lt;/p&gt;
-&lt;p&gt;交易预计于CrowdStrike 2028财年下半年完成，尚需获得Zscaler股东批准、监管机构批准及其他惯常交割条件。在交割前，两家公司将继续独立运营。&lt;/p&gt;
-&lt;p&gt;财务顾问方面，Qatalyst Partners担任CrowdStrike的首席财务顾问，摩根大通和美国银行亦为其提供咨询；BDT &amp;amp; MSD Partners担任Zscaler的首席财务顾问，花旗和高盛提供支持。&lt;/p&gt;
-
-行业整合加速，AI安全成核心叙事
-
-&lt;p&gt;此次收购是网络安全行业近期整合浪潮的缩影。Alphabet旗下谷歌此前已以320亿美元收购云安全公司Wiz，ServiceNow以77.5亿美元收购网络安全初创公司Armis，Palo Alto Networks则于今年2月完成对CyberArk约250亿美元的收购，并于上周宣布以全股票方式收购AI模型平台Applied Compute，估值45亿美元。&lt;/p&gt;
-&lt;p&gt;推动整合的核心驱动力之一是AI安全需求的快速扩张。&lt;strong&gt;随着企业加速部署自主运行的AI代理系统，如何保障这些系统的访问安全与行为可控，成为新一轮安全支出的焦点。市场研究机构Gartner预测，全球信息安全支出今年将增长近12%，达到2440亿美元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CrowdStrike市值目前约为2350亿美元。George Kurtz将合并后的公司定位为&amp;quot;网络安全领域的操作系统&amp;quot;，提供&amp;quot;部署AI、管控AI、让任何AI代理应用安全运行&amp;quot;的统一控制平面，并表示&amp;quot;有望成为全球有史以来最大的AI安全公司&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%</title><link>https://wallstreetcn.com/articles/3786472</link><guid>1db319ca884ac9dae66e14b168031e767aa9c609e641f28f1ba3a9e2c070ca40</guid><pubDate>Mon, 23 Nov 2026 22:28:18 GMT</pubDate><description>&lt;p&gt;英伟达董事会恢复黄仁勋CEO职务，点燃市场对人工智能赛道的重燃信心，推动美股周一录得自2025年4月以来最大单日涨幅。油价因对伊朗的外交表态重挫，10年期美债收益率回落，美元指数走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 23:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%</title><link>https://wallstreetcn.com/articles/3786472</link><guid>1db319ca884ac9dae66e14b168031e767aa9c609e641f28f1ba3a9e2c070ca40</guid><pubDate>Mon, 23 Nov 2026 22:28:18 GMT</pubDate><description>&lt;p&gt;英伟达董事会恢复黄仁勋CEO职务，点燃市场对人工智能赛道的重燃信心，推动美股周一录得自2025年4月以来最大单日涨幅。油价因对伊朗的外交表态重挫，10年期美债收益率回落，美元指数走高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;周一&lt;strong&gt;标普500指数&lt;/strong&gt;上涨4.7%，&lt;strong&gt;道琼斯工业平均指数&lt;/strong&gt;上涨3%。&lt;strong&gt;英伟达&lt;/strong&gt;股价暴涨31%，创2003年以来最大单日涨幅。&lt;strong&gt;纳斯达克100指数&lt;/strong&gt;单日飙升6.9%，单日市值增加逾2万亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -393,4 +361,13 @@ COP31气候谈判破裂，OPEC+即将召开产量政策会议
 &lt;p&gt;即便去杠杆可能接近尾声，市场也未必会就此企稳。&lt;strong&gt;当前大量短伽马（Short Gamma）头寸意味着，做市商在市场下跌时可能被迫卖出，上涨时则需要买入，从而放大市场的双向波动。在波动率已经处于极端水平的情况下，这种仓位结构可能令行情更加剧烈。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;2018年的历史走势，正是当前市场需要警惕的风险之一。当年纳斯达克经历快速下跌后，曾出现一轮强劲反弹，但反弹未能扭转市场趋势，随后指数再次下探并创出新低。高盛及市场观察人士目前正密切关注这一历史走势与当下行情的相似之处。&lt;/p&gt;
 &lt;p&gt;这意味着，极端超卖和仓位出清虽然为反弹创造了条件，却不足以证明市场已经触底。尤其是在美联储仍处于加息周期、风险偏好尚未恢复的背景下，即使纳斯达克短期反弹，也不排除随后再次回调。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;眼下市场真正需要验证的，不是超卖信号能否触发反弹，而是反弹能否获得基本面和资金面的持续支撑。如果抄底资金迟迟不入场，2018年急弹后再创新低的走势，仍可能重演。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;眼下市场真正需要验证的，不是超卖信号能否触发反弹，而是反弹能否获得基本面和资金面的持续支撑。如果抄底资金迟迟不入场，2018年急弹后再创新低的走势，仍可能重演。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国11月PMI降至四个月低点，供应链瓶颈与成本压力持续</title><link>https://wallstreetcn.com/articles/3786539</link><guid>32f5044a829337a2c70408c86499a415a1a6f9fbbd5d0071394361b7d4b01212</guid><pubDate>Mon, 23 Nov 2026 16:04:59 GMT</pubDate><description>&lt;p&gt;美国商业活动扩张势头在11月明显降温，高物价、运输延误与供应瓶颈共同拖累制造业与服务业表现，尽管整体仍处于扩张区间。&lt;/p&gt;
+&lt;p&gt;周一，标普全球数据显示，&lt;strong&gt;11月美国综合采购经理人指数（PMI）初值较上月下降1.3个百分点至54.6，为近四个月低位。制造业分项指数滑落至54.5，创三个月新低；服务业活动指数同样回落至四个月低位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;11月供应链压力明显恶化。&lt;strong&gt;据标普全球援引全球贸易扰动与运输延误因素，制造商供应商交货时间延长幅度为2022年以来最大。反映需求状况的新订单分项指数扩张步伐亦降至7月以来最慢水平，显示终端需求动能有所减弱。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从需求侧看，强劲的消费者支出、人工智能相关投资以及国防开支，为美国企业提供了有力支撑并推动今年盈利增长。展望后市，标普全球表示，11月中期选举结束后企业信心出现反弹，但政治不确定性犹存叠加通胀高企，仍对增长预期形成制约。&lt;/p&gt;
+价格指数上涨速度为8月以来最慢，就业指数连续第五个月维持扩张
+&lt;p&gt;&lt;strong&gt;在通胀层面，价格分项指数虽以8月以来最慢速度上涨，但企业面临的投入成本上升与薪资压力仍处高位，&lt;/strong&gt;这对正致力于压制通胀的美联储构成潜在挑战。&lt;/p&gt;
+&lt;p&gt;标普全球市场情报首席商业经济学家Chris Williamson表示，&amp;quot;生活成本高企及由此引发的购买力承压，是当前核心隐忧，调查中的价格指标所处水平意味着，未来数月通胀仍将大幅高于美联储2%的目标。&amp;quot;&lt;/p&gt;
+&lt;p&gt;尽管整体活动降温，就业市场表现仍具韧性。&lt;strong&gt;综合就业分项指数连续第五个月维持在扩张区间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chris Williamson指出，制造业与服务业活动依然&amp;quot;强劲亮眼&amp;quot;，两大部门均在持续增加用工，&amp;quot;就业人数增长态势表明，11月非农就业数据有望再度录得强劲表现&amp;quot;。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
