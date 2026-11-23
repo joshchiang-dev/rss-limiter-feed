@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 11:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场</title><link>https://wallstreetcn.com/articles/3786473</link><guid>9e5ccac6cb598b816f509b74cfe0939cbddaaa6f6c0a8003a0265fbfb3dff784</guid><pubDate>Mon, 23 Nov 2026 00:31:01 GMT</pubDate><description>&lt;p&gt;科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示，&lt;strong&gt;对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 11:59:10 GMT</lastBuildDate><item><title>[华尔街见闻] 439亿美元！CrowdStrike收购Zscaler，创网络安全行业并购纪录</title><link>https://wallstreetcn.com/articles/3786525</link><guid>d6c519396932cfbd8c130cd06a3aedc5165179e7e0cce93e2bdb1b80eeafde04</guid><pubDate>Mon, 23 Nov 2026 11:54:07 GMT</pubDate><description>&lt;p&gt;网络安全行业正在经历一场规模空前的整合。CrowdStrike宣布以约439亿美元全股票交易收购网络安全公司Zscaler，刷新该行业并购纪录，同时公布的第三财季业绩也超出市场预期，两大利好叠加，进一步强化了市场对这家公司成为AI时代网络安全领域主导平台的预期。&lt;/p&gt;
+&lt;p&gt;根据双方周一发布的公告，Zscaler股东将以1.135股CrowdStrike普通股换取每股Zscaler普通股，折合每股Zscaler约260.41美元，较Zscaler 11月20日收盘价194.82美元溢价约34%。交易完成后，现有CrowdStrike股东将持有合并后公司约84.1%的股权，Zscaler股东持有约15.9%。&lt;/p&gt;
+&lt;p&gt;与此同时，CrowdStrike公布2027财年第三季度营收15.8亿美元，高于市场预期的15.3亿美元；第四季度营收指引为16.4亿美元，亦超出市场预期的16.2亿美元。&lt;/p&gt;
+&lt;p&gt;此次收购将使CrowdStrike从终端安全领域全面扩张至网络安全领域，可寻址市场规模预计扩大逾1850亿美元。合并后公司的年度经常性收入（ARR）预计逾100亿美元。CrowdStrike首席执行官George Kurtz表示：&lt;strong&gt;&amp;quot;安全过去是为了把对手挡在门外，如今则需要安全地迎入AI。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+
+战略逻辑：从终端防护到全网零信任
+
+&lt;p&gt;此次交易的核心逻辑在于弥补CrowdStrike在网络安全层面的缺口。CrowdStrike旗下Falcon平台是企业终端和云工作负载安全领域的领导者，而Zscaler则专注于保护用户、设备与应用之间的连接，其零信任交换平台（Zero Trust Exchange）被定位为传统VPN的云原生替代方案。&lt;/p&gt;
+&lt;p&gt;Citrix及Ivanti等公司的传统VPN产品曾多次遭到黑客攻击。Zscaler的零信任架构通过精细化的访问控制，能够有效遏制入侵者在系统内部的横向移动。&lt;/p&gt;
+&lt;p&gt;Zscaler目前为财富500强中50%的企业提供保护，在全球超过200个服务节点运营全球最大的分布式内联云安全平台，其Zero Trust Exchange每日处理逾7500亿笔交易。交易完成后，CrowdStrike将把Zscaler的零信任SASE、AI安全及数据保护能力整合进Falcon平台，在每一个终端和每一条网络连接上同时建立安全控制。&lt;/p&gt;
+&lt;p&gt;Zscaler创始人兼首席执行官Jay Chaudhry表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;在AI时代，零信任安全已不可或缺，而AI代理（AI agents）正迅速成为新的最薄弱环节。这一协议将加速我们向更广泛客户群普及零信任架构的能力。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+财务前景：协同效应逐步兑现
+
+&lt;p&gt;在财务层面，双方对此次合并的协同效应设定了明确目标。&lt;strong&gt;CrowdStrike预计，交易完成后30个月内，年化营收协同效应将逐步提升，最终达到约10亿美元的年化运营收入协同规模；&lt;/strong&gt;成本协同方面，预计在交易完成后18至24个月内实现约5亿美元的年化成本节约，主要来源于数据中心基础设施、供应商及运营层面的优化。&lt;/p&gt;
+&lt;p&gt;公司方面表示，该交易在不计入任何协同效应的情况下，预计将立即对每股自由现金流产生显著正贡献；在协同效应落地后，预计在交易完成后第一个财年内，对营收增长、非GAAP运营利润率及自由现金流利润率均产生正面效果。&lt;/p&gt;
+&lt;p&gt;Zscaler最新一个财季报告的ARR为39亿美元。两家公司合并后的ARR预计超过100亿美元，这将使CrowdStrike一跃成为ARR规模最大的网络安全公司之一。&lt;/p&gt;
+&lt;p&gt;此外，约8000家Zscaler客户目前尚非CrowdStrike客户，构成可观的交叉销售空间。两家公司此前已有超过2000个共同客户，以及16项产品集成，此次合并被定性为长期合作伙伴关系的自然演进。&lt;/p&gt;
+
+交易结构与监管路径
+
+&lt;p&gt;此次交易已获两家公司董事会一致批准。根据协议条款，Jay Chaudhry及其关联方持有Zscaler约34%的流通股，已签署投票支持协议。交易完成后，Jay Chaudhry将继续主导Zscaler业务，并加入CrowdStrike董事会。&lt;/p&gt;
+&lt;p&gt;交易预计于CrowdStrike 2028财年下半年完成，尚需获得Zscaler股东批准、监管机构批准及其他惯常交割条件。在交割前，两家公司将继续独立运营。&lt;/p&gt;
+&lt;p&gt;财务顾问方面，Qatalyst Partners担任CrowdStrike的首席财务顾问，摩根大通和美国银行亦为其提供咨询；BDT &amp;amp; MSD Partners担任Zscaler的首席财务顾问，花旗和高盛提供支持。&lt;/p&gt;
+
+行业整合加速，AI安全成核心叙事
+
+&lt;p&gt;此次收购是网络安全行业近期整合浪潮的缩影。Alphabet旗下谷歌此前已以320亿美元收购云安全公司Wiz，ServiceNow以77.5亿美元收购网络安全初创公司Armis，Palo Alto Networks则于今年2月完成对CyberArk约250亿美元的收购，并于上周宣布以全股票方式收购AI模型平台Applied Compute，估值45亿美元。&lt;/p&gt;
+&lt;p&gt;推动整合的核心驱动力之一是AI安全需求的快速扩张。&lt;strong&gt;随着企业加速部署自主运行的AI代理系统，如何保障这些系统的访问安全与行为可控，成为新一轮安全支出的焦点。市场研究机构Gartner预测，全球信息安全支出今年将增长近12%，达到2440亿美元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CrowdStrike市值目前约为2350亿美元。George Kurtz将合并后的公司定位为&amp;quot;网络安全领域的操作系统&amp;quot;，提供&amp;quot;部署AI、管控AI、让任何AI代理应用安全运行&amp;quot;的统一控制平面，并表示&amp;quot;有望成为全球有史以来最大的AI安全公司&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场</title><link>https://wallstreetcn.com/articles/3786473</link><guid>9e5ccac6cb598b816f509b74cfe0939cbddaaa6f6c0a8003a0265fbfb3dff784</guid><pubDate>Mon, 23 Nov 2026 00:31:01 GMT</pubDate><description>&lt;p&gt;科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示，&lt;strong&gt;对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。&lt;/strong&gt;高盛主经纪业务数据显示，基本面多空策略净杠杆已降至42.3%，处于过去一年第1百分位；按贝塔调整后的净杠杆较10月初下降逾22个百分点至48.2%，创五年新低。摩根士丹利的数据显示，美国多空策略净杠杆一周下降5个百分点至41%，周五的抛售可能将其推至40%以下，逼近新冠疫情和“解放日”期间30%至35%的历史低位。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;但高盛美国股票情绪指标仍处于历史第75百分位。自第四季度以来，美国股票共同基金和ETF净流入近1700亿美元，资产管理机构的股票期货多头仓位处于过去十年第82百分位。据彭博报道，摩根大通在周末报告中同样指出，真正的“慢钱”尚未卖出。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这一分化直接决定反弹的性质。高盛策略师Lee Coppersmith在周日报告中写道，恐慌指数达到9以上的42次历史情形中，标普500未来三个月平均上涨4.4%，78%的情形录得正收益；但在美联储处于加息周期的五次情形中，三个月平均涨幅仅为0.4%。&lt;/p&gt;
@@ -320,18 +352,4 @@ IPO受阻，转向债务融资
 人类可读版本的缺席
 &lt;p&gt;还有一个细节让争论难以收场：没有论文。&lt;/p&gt;
 &lt;p&gt;传统数学证明，同行可以逐行阅读、质疑、重写。而这次，外界面对的是一座1700万行的代码库。Nielsen在论文中说明，她读了约70个文件，多数是全文，聚焦顶层文件与第1至7节点名的定义和引理——相对于175,187个文件，这是一个极小的采样。&lt;/p&gt;
-&lt;p&gt;这意味着双方其实都还没有完成“人类层面的消化”。MIT数学家Andrew Sutherland在验证通过当天就说：“要理解证明的数学细节，还有很多工作要做。我迫不及待想钻研进去。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 欧元区综合PMI初值连续五个月扩张，德国升至55创四年半新高，德法分化创六年之最</title><link>https://wallstreetcn.com/articles/3786521</link><guid>049aee7a2a67d5caf308f2e5bf640650c6460047ede104581a7d640072443333</guid><pubDate>Mon, 23 Nov 2026 10:52:36 GMT</pubDate><description>&lt;p&gt;11月欧元区经济活动整体保持温和扩张，但内部表现出现明显分化。德国制造业和服务业同步回暖，推动经济活动增速升至四年半来最高；法国经济活动则连续第二个月收缩。德国经济改善支撑了欧元区整体增长，但区域内其他经济体的复苏步伐有所放缓。&lt;/p&gt;
-&lt;p&gt;11月23日公布的数据显示，&lt;strong&gt;标普全球11月欧元区综合采购经理人指数（PMI）初值持平于51.7，连续第五个月处于50荣枯线上方。&lt;/strong&gt;其中，制造业PMI从10月的52.7升至52.9，服务业PMI则从51.4降至51.2，为五个月低点。欧元区新订单连续第五个月增加，但出口订单增速放缓，企业对未来一年的经营前景也更加谨慎。&lt;/p&gt;
-&lt;p&gt;从主要成员国来看，德国11月综合PMI初值从10月的53.4升至55.0，远超市场预期的53.2，为2022年3月以来最高水平。法国综合PMI则从46.6降至46.2，创六个月低点。其中，制造业PMI从49.5降至47.9，服务业PMI从46.2小幅回升至46.6，但两个行业仍处于收缩区间。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;德国与法国的经济表现分化进一步加剧，差距扩大至六年来最大。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-德国制造业领跑，服务业需求同步回暖
-&lt;p&gt;德国11月经济活动加速，制造业仍是主要推动力，服务业需求也出现明显改善。&lt;/p&gt;
-&lt;p&gt;标普全球市场情报经济学副总监Phil Smith表示，&lt;strong&gt;第四季度初的增长放缓只是短暂现象。制造业持续回升，出口订单增加提供了有力支撑；与此同时，以国内需求为主的服务业需求也重新改善，业务活动增幅达到一年多来最高水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;具体来看，德国制造业PMI从10月的54.2升至55.0，创56个月新高；服务业PMI从52.5升至54.0，为去年10月以来最高水平。制造业继续扩张，服务业活动也明显提速，表明德国经济增长正在向更多行业延伸。&lt;/p&gt;
-就业改善有限，欧元区复苏仍不均衡
-&lt;p&gt;经济活动提速尚未带动德国整体就业市场同步改善。11月制造业就业时隔约一年半首次恢复增长，结束了该调查历史上持续时间最长的制造业裁员周期。&lt;strong&gt;但服务业仍在削减岗位，导致德国整体就业人数连续第二个月小幅下降。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;成本方面，德国企业投入成本仍处于历史偏高水平，不过涨幅已回落至三个月低点，成本压力有所缓和。&lt;/p&gt;
-&lt;p&gt;德国经济此前多年增长乏力，近期基础设施和国防领域的大规模支出，以及出口订单改善，为经济活动提供了支撑。&lt;strong&gt;德国独立经济顾问委员会预计，该国今年经济产出将增长1.3%，高于此前上半年的预测。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，德国的改善尚未转化为欧元区范围内更广泛的增长。11月欧元区其他经济体的经济活动增速降至六个月来最低，企业对未来一年的商业信心连续第四个月下降，降至5月以来最低水平。&lt;strong&gt;与此同时，欧元区整体就业人数基本持平，制造业招聘增加抵消了服务业岗位减少的影响。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;因此，尽管德国经济活动明显提速，欧元区整体增长仍保持温和，法国经济收缩以及其他成员国增长放缓，说明区域内复苏基础仍不均衡。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 金价回撤超三成：“避险资产” 这四个字，坑了不少稳健的人</title><link>http://www.xueqiu.com/2356382715/418150250</link><guid>31000b81ae48e9b9bae100a21b14df5f8ce255071c5b3ae53c756458f30a82e0</guid><pubDate>Mon, 23 Nov 2026 10:11:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;来自WIND的 数据显示，截至 2026 年 11 月 20 日，COMEX 黄金自年内高点 5626.80 美元跌破 3600 美元，回撤超过三成。&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮AI调整的研究反思</title><link>http://www.xueqiu.com/5332385101/418076131</link><guid>7dea81b9181d17d1cf93fe5449a1e16e020d3467415770cb789d2f7cdbb2439a</guid><pubDate>Mon, 23 Nov 2026 10:11:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周五美股科技再度承压，标普下跌3.70%录得七连跌，较10月高点回撤超10%；纳指下挫5.28%，年内涨幅悉数回吐；纳指100单周跌幅达10.4%，费半单日下跌10.7%，全周市值蒸发约2.3万亿美元。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想395 不要毫无准备地走进“良夜”</title><link>http://www.xueqiu.com/1438190065/418078668</link><guid>9e9bc0890164449cc0527deb7fae14d532df28ebc99a1ca18427df38c7c15675</guid><pubDate>Mon, 23 Nov 2026 10:12:07 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;上周五晚纳斯达克跌了5个点，单周跌了10%，2020 年 3 月以来最差一周；VIX恐慌指数收到了35.89，费城半导体指数单日跌了10%，芯片、内存、光通信几乎无一幸免。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;这意味着双方其实都还没有完成“人类层面的消化”。MIT数学家Andrew Sutherland在验证通过当天就说：“要理解证明的数学细节，还有很多工作要做。我迫不及待想钻研进去。”&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 金价回撤超三成：“避险资产” 这四个字，坑了不少稳健的人</title><link>http://www.xueqiu.com/2356382715/418150250</link><guid>31000b81ae48e9b9bae100a21b14df5f8ce255071c5b3ae53c756458f30a82e0</guid><pubDate>Mon, 23 Nov 2026 10:11:56 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;懒人养基&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;来自WIND的 数据显示，截至 2026 年 11 月 20 日，COMEX 黄金自年内高点 5626.80 美元跌破 3600 美元，回撤超过三成。&lt;/p&gt;</description></item><item><title>[今日雪球] 对本轮AI调整的研究反思</title><link>http://www.xueqiu.com/5332385101/418076131</link><guid>7dea81b9181d17d1cf93fe5449a1e16e020d3467415770cb789d2f7cdbb2439a</guid><pubDate>Mon, 23 Nov 2026 10:11:50 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周五美股科技再度承压，标普下跌3.70%录得七连跌，较10月高点回撤超10%；纳指下挫5.28%，年内涨幅悉数回吐；纳指100单周跌幅达10.4%，费半单日下跌10.7%，全周市值蒸发约2.3万亿美元。&lt;/p&gt;</description></item><item><title>[今日雪球] 随想395 不要毫无准备地走进“良夜”</title><link>http://www.xueqiu.com/1438190065/418078668</link><guid>9e9bc0890164449cc0527deb7fae14d532df28ebc99a1ca18427df38c7c15675</guid><pubDate>Mon, 23 Nov 2026 10:12:07 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;三石而立orz&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;上周五晚纳斯达克跌了5个点，单周跌了10%，2020 年 3 月以来最差一周；VIX恐慌指数收到了35.89，费城半导体指数单日跌了10%，芯片、内存、光通信几乎无一幸免。&lt;/p&gt;</description></item></channel></rss>
