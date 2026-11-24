@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 24 Nov 2026 11:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 慧与营收增长50%，服务器与网络业务共同发力</title><link>https://wallstreetcn.com/articles/3786585</link><guid>34b23d945f8e5414c450e41e6be6e6eba5814156e26bc10a675eecdb7881af60</guid><pubDate>Tue, 24 Nov 2026 07:19:29 GMT</pubDate><description>&lt;p&gt;服务器需求增长，正在更明显地转化为慧与的收入和经营利润。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 24 Nov 2026 12:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] 慧与营收增长50%，服务器与网络业务共同发力</title><link>https://wallstreetcn.com/articles/3786585</link><guid>34b23d945f8e5414c450e41e6be6e6eba5814156e26bc10a675eecdb7881af60</guid><pubDate>Tue, 24 Nov 2026 07:19:29 GMT</pubDate><description>&lt;p&gt;服务器需求增长，正在更明显地转化为慧与的收入和经营利润。&lt;/p&gt;
 &lt;p&gt;北京时间11月24日，企业级IT基础设施供应商慧与发布2026财年第四季度业绩，报告期截至10月31日。&lt;/p&gt;
 &lt;p&gt;当季营收约145亿美元，同比增长50%；调整后每股摊薄收益1.43美元，高于公司此前给出的1.20至1.30美元指引。调整后经营利润率达到16.9%，同比提高4.7个百分点。&lt;/p&gt;
 &lt;p&gt;相比收入增长，这次业绩更值得注意的是云与AI业务的盈利变化。该分部当季收入约113亿美元，同比增长68.6%，经营利润率从上年同期的9.3%升至18.4%。其中，服务器收入约88亿美元，同比增长94.7%，存储收入也保持增长。&lt;/p&gt;
@@ -276,48 +276,15 @@ Evercore：这是&amp;quot;AI的第一次大救助&amp;quot;
 干预升级：从要求股权到指定CEO人选
 &lt;p&gt;英伟达事件并非孤例，而是特朗普政府介入私营企业的最新一例，且力度有所升级。&lt;/p&gt;
 &lt;p&gt;据报道，&lt;strong&gt;2025年夏，特朗普曾要求英特尔解雇CEO Lip-Bu Tan，随后又转而推动美国政府对英特尔持股10%。&lt;/strong&gt;更早之前，在特朗普与黄仁勋于海湖庄园共进晚餐后，政府决定不限制英伟达芯片的出口禁令。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;此次事件的性质有所不同：&lt;/strong&gt;特朗普此前的干预通常涉及关税收入、股权持有等有形利益，而这一次，他要求的是一家公司重新聘用其已明确表示不想要回的CEO。这被视为白宫对企业界施压力度的进一步升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 大涨之后何去何从？纳指100期货跌1.5%，英伟达盘前跌6%，Anthropic跌破发行价，金油齐跌</title><link>https://wallstreetcn.com/articles/3786560</link><guid>10f07046d3991e28c8b27e7dde71533cf3f64cd14e59077f1dc894ab1d8879e3</guid><pubDate>Tue, 24 Nov 2026 11:14:28 GMT</pubDate><description>&lt;p&gt;英伟达董事会恢复黄仁勋首席执行官职务，一度点燃全球科技股反弹行情，但提振效应未能持续，美股期货再度走低。&lt;/p&gt;
-
-
-&lt;p&gt;周二，美股盘前，纳指期货跌超0.8%，触及日内新低。英伟达走低，跌6%，此前黄仁勋回归，英伟达收涨超31%；明星科技股普跌，美光科技跌超4%，ARM跌超3%，Anthropic美股盘前跌幅扩大至5%，跌破83美元的IPO发行价。&lt;/p&gt;
-&lt;p&gt;韩国KOSPI指数收涨6.32%，三星电子、SK海力士均涨超6%；日本东证指数收盘上涨2.5%，报3,764.88点。日本股市在长假后复市，日经225指数涨幅一度扩大至5%。黄金跌超0.5%，现货黄金价格在每盎司3616美元左右。&lt;/p&gt;
-&lt;p&gt;Hedgeye风险管理公司全球技术董事总经理Felix Wang表示：“黄仁勋重返英伟达担任CEO，旨在重振市场和更广泛的人工智能生态系统的信心，他在人工智能领域的影响力无人能及。”&lt;/p&gt;
-&lt;p&gt;核心市场走势如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;美股盘前，纳指期货跌超0.7%，创盘中新低。&lt;/li&gt;
-&lt;li&gt;日经225指数收盘上涨3.9%，报58,644.63点。日本东证指数收盘上涨2.5%，报3,764.88点。韩国KOSPI指数收涨6.32%，三星电子、SK海力士均涨超6%。&lt;/li&gt;
-&lt;li&gt;10年期美国国债收益率下降1个基点至4.93%。&lt;/li&gt;
-&lt;li&gt;彭博美元即期指数变化不大。&lt;/li&gt;
-&lt;li&gt;现货黄金下跌0.5%，至每盎司3615美元。&lt;/li&gt;
-&lt;li&gt;WTI原油重返80美元上方，此前一度跌破80美元。&lt;/li&gt;
-&lt;li&gt;比特币下跌1.4%，至60397.74美元。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;strong&gt;黄仁勋回归行情昙花一现？纳指期货跌近1%&lt;/strong&gt;
-&lt;p&gt;美股盘前，纳指期货跌近1%，创盘中新低。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;英伟达董事会在经过一系列内部会议并听取政府&amp;quot;高层&amp;quot;意见后，宣布恢复黄仁勋的CEO职位。美国总统特朗普随即对这一决定表示赞许，称美国没有理由认为黄仁勋&amp;quot;构成任何国家安全风险&amp;quot;。&lt;/p&gt;
-&lt;p&gt;亚太地区的芯片相关企业普遍被视为AI基础设施建设的&amp;quot;镐与铲&amp;quot;，此次受益尤为明显。日本内阁官房长官木原稔亦公开表示，英伟达在日本AI芯片产业中扮演关键角色。&lt;/p&gt;
-&lt;p&gt;周二。韩国综合股价指数（KOSPI）涨幅超过7%，韩国交易所因此触发买盘SIDECAR（程序化交易临时停牌机制），这也是今年以来韩国两大股市（KOSPI与KOSDAQ）累计触发的第100次SIDECAR。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;三星电子与SK海力士一度大涨逾8%。&lt;/p&gt;
-&lt;p&gt;受隔夜美股半导体板块历史性暴涨的强劲催化，日本股市在长假后复市，日经225指数涨幅一度扩大至5%。总体来看，隔夜美股英伟达管理层回归并暴涨的消息重塑了全球人工智能产业链的估值锚点，资金大举回流日本半导体上游材料、核心设备及电子零部件赛道，推动日股科技硬件板块走出全线爆发的逼空行情。&lt;/p&gt;
-&lt;p&gt;尽管市场情绪明显回暖，机构投资者对更深层的结构性风险依然保持审慎。汇丰控股首席亚洲经济学家Frederic Neumann表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;投资者的心情更为乐观。然而，笼罩AI行业的阴云并未完全消散。黄仁勋重执英伟达帅印或许降低了公司近期前景的部分风险，但美国在数据中心建设及技术转让方面的更广泛监管不确定性依然存在。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Neumann同时指出，金融条件趋紧仍是这一行业面临的强劲阻力，而该行业对债务融资的依赖程度正与日俱增。&lt;/p&gt;
-&lt;p&gt;BMO财富管理公司首席市场策略师Carol Schleif在彭博电视节目中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;持仓做多是一段令人忐忑的时期，但另一方面，当出现今天这样的头条消息时，空仓观望同样令人坐立不安。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-债汇商品反应相对平淡
-
-&lt;p&gt;与股市的剧烈波动相比，其他资产表现较为温和。&lt;/p&gt;
-&lt;p&gt;黄金日内冲高回落，一度涨超1%，随后价格回落至隔夜尾盘附近，报3616美元/盎司。&lt;/p&gt;
-&lt;p&gt;WTI原油跌近1%，失守80美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈黄仁勋回归对AI的影响与意义</title><link>http://www.xueqiu.com/5332385101/418275260</link><guid>a7c5eb80c4f7f99cecf31440fda7f1352ef65546c40e910b3bd5d9b676853db4</guid><pubDate>Tue, 24 Nov 2026 09:42:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，英伟达董事会宣布恢复黄仁勋CEO及董事职务，推动英伟达单日上涨31.48%，市值重回近4万亿美元。受此消息刺激，美股迎来剧烈修复，纳指上涨6.51%，费半单日跳涨14%。&lt;/p&gt;</description></item><item><title>[今日雪球] 英矽智能BD出去的MEN2312数据解读，能否给你更多的持股信心？</title><link>http://www.xueqiu.com/8046984995/418310653</link><guid>5f5e993d55e9f1bebad20e314d115560c5380b576145f39a5e1a9d368fc25797</guid><pubDate>Tue, 24 Nov 2026 09:42:55 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;马场配货哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/03696"&gt;$英矽智能(03696)$&lt;/a&gt;美纳里尼在2026年圣安东尼奥乳腺癌研讨会（SABCS）公布的摘要中，披露了MEN2312的首批人体数据。这款由英矽智能发现、授权美纳里尼开发的口服KAT6抑制剂，在多线治疗后的晚期乳腺癌患者中，展现了抗肿瘤活性和积极的耐受性表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 用户还在爬坡，利润却在退坡，快手这份财报到底该怎么看？</title><link>http://www.xueqiu.com/6056806984/418138684</link><guid>14ba42cc4b7189c91613549231ac217b8fe3705cb29b03ac84b6ae9f1a2fda13</guid><pubDate>Tue, 24 Nov 2026 09:43:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;朱酒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11月19日快手发了三季报，收入315.92亿元，同比下降11.1%，经调整净利润从去年同期的49.86亿元降到7.90亿元，次日收在20.42港元。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;此次事件的性质有所不同：&lt;/strong&gt;特朗普此前的干预通常涉及关税收入、股权持有等有形利益，而这一次，他要求的是一家公司重新聘用其已明确表示不想要回的CEO。这被视为白宫对企业界施压力度的进一步升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 小米电话会：今年将在AI领域投入160亿，不能简单通过涨价转嫁内存成本，汽车交付Q4预计将迎“较大提升”</title><link>https://wallstreetcn.com/articles/3786602</link><guid>a2ae03557fc115a584cd011c71b88b08145ca4b9d9bd5a47b72436f5c1800abe</guid><pubDate>Tue, 24 Nov 2026 11:35:42 GMT</pubDate><description>&lt;p&gt;11月24日晚间，小米集团合伙人、集团总裁卢伟冰在财报电话会上表示，第三季度国内汽车市场整体承压，但小米汽车已完成纯电与增程双线布局。值得注意的是，&lt;strong&gt;增程新品上市后，反而带动了纯电车型销量增长，并未出现内部产品相互争夺客户的情况。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;卢伟冰表示，小米汽车将继续通过创新满足用户需求，并透露，小米汽车计划于2027年出海欧洲，德国可能成为首站。&lt;/p&gt;
+&lt;p&gt;手机业务方面，他表示，小米手机业务正逐步企稳，全球市场份额已连续三个季度提升。第三季度手机业务收入环比增长8.2%，全球智能手机平均售价（ASP）同比大增近40%，创历史新高。&lt;/p&gt;
+&lt;p&gt;卢伟冰指出，&lt;strong&gt;手机业务回暖主要得益于产品结构持续优化。小米主动减少低端机型出货量，同时保持渠道健康度，推动整体销售表现改善。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据人民财讯，小米集团CFO林世伟在财报电话会上表示，小米对AI的投入非常坚决，今年将在AI领域投入160亿元，目前正在沿着规划稳健落地，小米MiMo大模型的API调用量和AI相关收入都在持续增加。&lt;/p&gt;
+&lt;p&gt;林世伟介绍称，小米AI业务现在还处于大规模投入期，除了持续投入基座模型的研发，还在加快推动AI落地“人车家全生态”，例如小米18 Fold就搭载了MiMo端侧大模型，澎程OS 4的“超级小爱2.0”也深度集成了MiMo大模型。&lt;/p&gt;
+小米汽车Q4交付规模将进一步提升，对澎程非常有信心
+&lt;p&gt;卢伟冰透露，&lt;strong&gt;小米汽车10月交付量超过5万辆，创年内单月新高，预计第四季度交付规模还将有较大提升&lt;/strong&gt;。他同时表示，对小米澎程的市场表现非常有信心。&lt;/p&gt;
+&lt;p&gt;卢伟冰称，增程市场依然大有可为，小米澎程的上市也为这一赛道带来了新的惊喜。该车型上市首月锁单超过7万辆，目前稳态期销量保持平稳。&lt;/p&gt;
+&lt;p&gt;从用户结构来看，小米澎程进一步拓展了小米汽车的用户群体，吸引了更多不同圈层的消费者。截至目前，澎程用户中，35岁以上人群占比超过50%，高于SU7和YU7；家庭用户占比达87.8%，来自燃油车增换购的用户占比为50.3%。&lt;/p&gt;
+&lt;p&gt;使用场景方面，上市两个月来，澎程车主行驶里程中纯电行驶占比超过九成，显示出用户对纯电模式的较高使用意愿。小米汽车还表示，智能可变大空间设计受到用户欢迎，75%的用户使用过会客厅模式，80%的用户使用过四人头等舱模式。&lt;/p&gt;
+&lt;p&gt;更新中&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈黄仁勋回归对AI的影响与意义</title><link>http://www.xueqiu.com/5332385101/418275260</link><guid>a7c5eb80c4f7f99cecf31440fda7f1352ef65546c40e910b3bd5d9b676853db4</guid><pubDate>Tue, 24 Nov 2026 09:42:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，英伟达董事会宣布恢复黄仁勋CEO及董事职务，推动英伟达单日上涨31.48%，市值重回近4万亿美元。受此消息刺激，美股迎来剧烈修复，纳指上涨6.51%，费半单日跳涨14%。&lt;/p&gt;</description></item><item><title>[今日雪球] 英矽智能BD出去的MEN2312数据解读，能否给你更多的持股信心？</title><link>http://www.xueqiu.com/8046984995/418310653</link><guid>5f5e993d55e9f1bebad20e314d115560c5380b576145f39a5e1a9d368fc25797</guid><pubDate>Tue, 24 Nov 2026 09:42:55 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;马场配货哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/03696"&gt;$英矽智能(03696)$&lt;/a&gt;美纳里尼在2026年圣安东尼奥乳腺癌研讨会（SABCS）公布的摘要中，披露了MEN2312的首批人体数据。这款由英矽智能发现、授权美纳里尼开发的口服KAT6抑制剂，在多线治疗后的晚期乳腺癌患者中，展现了抗肿瘤活性和积极的耐受性表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 用户还在爬坡，利润却在退坡，快手这份财报到底该怎么看？</title><link>http://www.xueqiu.com/6056806984/418138684</link><guid>14ba42cc4b7189c91613549231ac217b8fe3705cb29b03ac84b6ae9f1a2fda13</guid><pubDate>Tue, 24 Nov 2026 09:43:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;朱酒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11月19日快手发了三季报，收入315.92亿元，同比下降11.1%，经调整净利润从去年同期的49.86亿元降到7.90亿元，次日收在20.42港元。&lt;/p&gt;</description></item></channel></rss>
