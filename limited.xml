@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Mon, 23 Nov 2026 23:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%</title><link>https://wallstreetcn.com/articles/3786472</link><guid>1db319ca884ac9dae66e14b168031e767aa9c609e641f28f1ba3a9e2c070ca40</guid><pubDate>Mon, 23 Nov 2026 22:28:18 GMT</pubDate><description>&lt;p&gt;英伟达董事会恢复黄仁勋CEO职务，点燃市场对人工智能赛道的重燃信心，推动美股周一录得自2025年4月以来最大单日涨幅。油价因对伊朗的外交表态重挫，10年期美债收益率回落，美元指数走高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 24 Nov 2026 00:59:14 GMT</lastBuildDate><item><title>[华尔街见闻] 黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%</title><link>https://wallstreetcn.com/articles/3786472</link><guid>1db319ca884ac9dae66e14b168031e767aa9c609e641f28f1ba3a9e2c070ca40</guid><pubDate>Mon, 23 Nov 2026 22:28:18 GMT</pubDate><description>&lt;p&gt;英伟达董事会恢复黄仁勋CEO职务，点燃市场对人工智能赛道的重燃信心，推动美股周一录得自2025年4月以来最大单日涨幅。油价因对伊朗的外交表态重挫，10年期美债收益率回落，美元指数走高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;周一&lt;strong&gt;标普500指数&lt;/strong&gt;上涨4.7%，&lt;strong&gt;道琼斯工业平均指数&lt;/strong&gt;上涨3%。&lt;strong&gt;英伟达&lt;/strong&gt;股价暴涨31%，创2003年以来最大单日涨幅。&lt;strong&gt;纳斯达克100指数&lt;/strong&gt;单日飙升6.9%，单日市值增加逾2万亿美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -230,27 +230,84 @@ Claude Ship：面向工程师的代码协作工具
 &lt;blockquote&gt;
 &lt;p&gt;投资者虽已重拾对公司领导层的信心，但&lt;strong&gt;要恢复对董事会治理程序的信任，还需要更长的时间。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;英伟达方面强调，相关调查仍将持续进行。&lt;strong&gt;公司已启动首席合规官招聘程序，Colette Kress将继续留任CFO一职。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长</title><link>https://wallstreetcn.com/articles/3786529</link><guid>05cf055a5f4f11b8c1ae73783b1da4374a803931b7e5cf7b7580c4344948806f</guid><pubDate>Mon, 23 Nov 2026 12:11:58 GMT</pubDate><description>&lt;p&gt;Arm首席执行官雷内·哈斯与公司签署新协议，&lt;strong&gt;承诺将领导公司至2033年，同时出任软银集团副董事长，&lt;/strong&gt;进一步强化了这家芯片设计公司与其控股股东之间的治理纽带。&lt;/p&gt;
-&lt;p&gt;ARM于2026年11月23日正式宣布上述任命。哈斯在软银集团的新职位将于12月1日生效。就在此前数日，&lt;strong&gt;彭博曾报道哈斯于11月18日遭英伟达董事会招募机构接触，市场对其去留的不确定性随即升温，此次官宣有效平息了外界猜测。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;我从未像现在这样对ARM的未来充满信心，&amp;quot;&lt;/strong&gt;哈斯在公告中表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;我深信我们的团队、我们的战略以及未来的机遇，我全力致力于在未来多年实现ARM的全部潜力。&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;此举对ARM股东意义重大。在哈斯领导下，ARM已完成纳斯达克上市，并将业务从单纯的IP授权延伸至自主芯片研发，恰逢AI浪潮推动算力需求急剧扩张之际，管理层的稳定性被视为关键变量。&lt;strong&gt;Arm盘前股价一度涨超11%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英伟达方面强调，相关调查仍将持续进行。&lt;strong&gt;公司已启动首席合规官招聘程序，Colette Kress将继续留任CFO一职。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋=2万亿美元！</title><link>https://wallstreetcn.com/articles/3786557</link><guid>e5f402be29f65ede4f9cada19da40f6d359e8e0fbb301ed0e4dde3c1cccaa949</guid><pubDate>Tue, 24 Nov 2026 00:06:12 GMT</pubDate><description>&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786536"&gt;黄仁勋重返英伟达CEO职位&lt;/a&gt;，&lt;strong&gt;单日引爆史上最大规模科技股反弹，纳斯达克综合指数单日飙升6.5%，市值增加逾2万亿美元。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-
-ARM与软银治理关系进一步收紧
-
-&lt;p&gt;此次任命意味着哈斯同时在两个层级担任要职。&lt;strong&gt;他在ARM继续担任首席执行官，同时出任控股股东软银集团副董事长，后者持有ARM约86.4%的股份。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这并非哈斯首次在软银体系内担任要职。他自2023年6月起担任软银集团董事；2026年4月，他又出任软银集团国际业务首席执行官，主要聚焦半导体与AI领域。&lt;/p&gt;
-&lt;p&gt;此番升任副董事长，将原本已相当紧密的双边关系以正式架构加以确认。从软银的角度而言，这一安排有助于统筹其在半导体和AI领域的战略部署；而对于ARM的少数股东而言，当两家公司利益出现分歧时，哈斯优先服务哪一方的问题将受到持续审视。&lt;/p&gt;
-
-业绩与转型：从IP授权到自主芯片
-
-&lt;p&gt;哈斯于2022年2月出任ARM首席执行官，2023年9月主导公司以每股51美元的发行价登陆纳斯达克。任期内，ARM的商业模式发生了结构性转变——从依赖IP授权收取版税，逐步扩展至销售自研芯片，包括专为AI数据中心设计的定制芯片。这一转型在财务数据上已有所体现。ARM 2026财年营收达49.2亿美元，较上一财年的40.1亿美元增长约23%。&lt;/p&gt;
-&lt;p&gt;然而，自研芯片战略亦带来潜在摩擦。ARM的传统客户——包括高通、联发科等芯片厂商——长期依赖ARM的架构授权。ARM跨入芯片制造领域，意味着其与这些授权客户的关系将趋于微妙。如何平衡合作与竞争，将是哈斯在未来数年面临的核心挑战之一。&lt;/p&gt;
-&lt;p&gt;若哈斯履行本次协议至期满，他将在ARM任职逾十年，成为公司史上任期最长的领导人之一。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，以下几项指标值得持续跟踪：营收能否延续49.2亿美元的增长势头；自研芯片收入在整体营收中的占比变化；以及AI数据中心芯片的市场表现与客户接受程度。此外，双重职务下的公司治理安排，以及少数股东权益的保护机制，亦将成为市场长期关注的议题。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 时隔多年重启公益联名，苹果拟推（RED）特别版 HomePod mini 2 与 AirPods Max 2</title><link>https://wallstreetcn.com/articles/3786551</link><guid>740ef4e9fcfd7ebeb14d73df7513f51a2d2236125f40f8a32a4d7fbb3e8b3e2d</guid><pubDate>Mon, 23 Nov 2026 21:47:39 GMT</pubDate><description>&lt;p&gt;苹果正准备重启与（RED）公益项目的合作，计划推出两款特别版配色硬件。此次发布不仅恰逢世界艾滋病日以及（RED）组织成立20周年，也将为苹果的年终假日季销售注入新的增长动力。&lt;/p&gt;
+&lt;p&gt;周一（11月23日），黄仁勋重新回归英伟达掌门人的消息在美东时间上午9时前不久正式宣布，距英伟达董事会告知投资者他不会回归仅过去六天。消息一出，英伟达股价单日暴涨31%，创下2003年5月以来最大单日涨幅，&lt;strong&gt;公司市值单日增加近1万亿美元，创下人类历史上任何一家公司单日市值增幅之最&lt;/strong&gt;。“科技七巨头”（Mag 7）合计单日市值增加1.6万亿美元，为2025年4月以来最大单日涨幅。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;这场反弹席卷了从小盘股、芯片股到比特币、黄金的几乎所有资产类别。纳斯达克100期货在开盘前数分钟跳涨7%，触发预设上限熔断机制。&lt;strong&gt;S&amp;amp;P 500指数单日上涨4.7%，道琼斯工业平均指数上涨约3%，涨约1448点。&lt;/strong&gt;多位投资者坦言，&lt;strong&gt;黄仁勋的回归完全出乎意料，市场对单一人物的依赖程度令人震惊。&lt;/strong&gt;&lt;/p&gt;
+一人之力，撬动万亿市值
+&lt;p&gt;据华尔街日报消息，Credent Wealth Management首席投资官Edison Byzyka在上周日晚间花了五个小时开视频会议，为上周科技股大跌后的各种市场情景做预案，包括AI股继续暴跌的&amp;quot;末日情景&amp;quot;。他唯独没有预料到的，是黄仁勋的回归。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我从椅子上摔了下来，&amp;quot;Byzyka说，&amp;quot;完全措手不及。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黄仁勋此前因丑闻遭到停职，离开英伟达CEO职位长达11天。&lt;/strong&gt;其间，英伟达股价持续下跌，拖累整个AI产业链相关股票。上周，科技股的大规模抛售将S&amp;amp;P 500推入调整区间，纳斯达克综合指数录得2020年3月以来最差单周表现。&lt;/p&gt;
+&lt;p&gt;周一，随着黄仁勋回归消息落地，市场情绪急速逆转。Byzyka直言：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“坦率地说，市场对一个人回归其职位的依赖程度，令人震惊。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;整个AI产业链相关股票随之全线大涨。&lt;/strong&gt;费城半导体指数单日跳涨14%，同样创下2025年4月以来最大单日涨幅。&lt;strong&gt;CoreWeave上涨22%，美光科技上涨19%，Marvell Technology上涨18%，Meta Platforms上涨逾6%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而，&lt;strong&gt;并非所有人都从这场反弹中获益。&lt;/strong&gt;部分押注英伟达股价下跌的投资者损失惨重——两只在英国上市、提供英伟达三倍做空杠杆敞口的ETF，在美股开盘后数秒内暴跌约92%，随即被暂停交易。&lt;/p&gt;
+&lt;p&gt;黄仁勋的回归获得了来自白宫的背书。特朗普周一在接受CNBC采访时表示，&lt;strong&gt;他曾与英伟达董事会沟通，推动黄仁勋重返CEO职位，并表示他不认为黄仁勋构成安全威胁。&lt;/strong&gt;特朗普随后在Truth Social上发文：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“祝贺英伟达做出了我认为绝对正确的决定！”&lt;/p&gt;
+&lt;/blockquote&gt;
+估值之争：恐慌性抛售还是合理定价？
+&lt;p&gt;在此次风波之前，英伟达的估值已持续压缩。据FactSet数据，其远期市盈率从去年夏天的约35倍，一路跌至上周五的8.2倍，&lt;strong&gt;低于S&amp;amp;P 500成分股平均市盈率的一半&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;GCG Advisory Partners高级合伙人Bill Gunderson在近期下跌过程中持续加仓英伟达，并告知客户其市盈率已低至“不合理”的水平。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“哪里还能找到一只每年盈利增长98%、却以8到9倍远期市盈率交易的股票？那是一个非成长型公司才会被惩罚的估值倍数，荒谬至极。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nationwide首席市场策略师Mark Hackett则对市场的情绪化波动提出警示。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“英伟达上周五并没有跌得那么不值钱，今天也没有突然值30%更多。这提醒我们，情绪化的市场极难预测，对每一次波动做出反应，可能比波动本身更危险。”&lt;/p&gt;
+&lt;/blockquote&gt;
+回归之后，AI赛道争议未止
+&lt;p&gt;尽管市场情绪大幅回暖，多位投资者仍对AI赛道的前景保持审慎。&lt;/p&gt;
+&lt;p&gt;Plancorp Wealth Management投资策略总监Callie Cox在得知黄仁勋回归消息后，立即中断了陪同儿子就医的行程，召集团队开会讨论。她对客户的判断是：&lt;strong&gt;“市场目前由情绪驱动，而非基本面，投资者应谨慎行事。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manulife Investment Management多资产解决方案首席投资官Nathan Thooft则指出，围绕AI的核心争议并未因黄仁勋回归而消散。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我向你保证，一周后、一个月后、两年后，我们仍将争论资本成本与AI投资规模之间的动态关系，以及这些投资能否转化为切实可见的成果。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sanctuary Wealth首席投资策略师Mary Ann Bartels则将目光投向更宏观的风险：&lt;strong&gt;部分投资者担忧美联储可能在明年继续加息。&lt;/strong&gt; “我从未见过哪个美联储会允许股票市场在派对散场后还继续狂欢，”她说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 因爆黑料被群嘲！《纽约时报》点评“黄仁勋回归”：震惊！为何特朗普如此重视他？</title><link>https://wallstreetcn.com/articles/3786559</link><guid>53f7f6f4730f3e1b9bb4d85e841f0aab0c6bd470368031e3e50160115cb8a223</guid><pubDate>Tue, 24 Nov 2026 00:52:12 GMT</pubDate><description>&lt;p&gt;11月23日，就在《纽约时报》还在头版跟进黄仁勋相关丑闻的同一天，另一条消息盖过了它——英伟达宣布，黄仁勋正式复职。同一天，头版换了两次。&lt;/p&gt;
+&lt;p&gt;该报资深记者Katrin Bennhold在当天的评论专栏里写道：&amp;quot;昨天早上，我们首页的头条还在披露那名与黄仁勋有染的女性与相关机构之间的联系细节。到了下午，那条标题不见了。取而代之的，是一条新标题：&amp;#x27;英伟达恢复黄仁勋CEO职务&amp;#x27;。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;黄仁勋回来了，特朗普在庆祝，市场在上涨——而我们对这场让他丢掉工作的丑闻，仍未完全摸清底细。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;如果你感到震惊、错愕、困惑，你不是一个人。&amp;quot;她在文章中写道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而这一幕的反差，让《纽约时报》自己也成了这个故事的一部分。一天之内，这家媒体从黄仁勋的“追杀者”变成了被嘲对象。&lt;/p&gt;
+&lt;p&gt;事实上，该报在&amp;quot;推翻&amp;quot;黄仁勋这件事上扮演着关键角色。10月29日，该报率先揭开了黄仁勋与一名女性的第一起婚外情事件，11月11日又披露他与英伟达下属高管存在婚外关系。第二篇报道发表于黄仁勋辞职前夕，成为事件升级的重要导火索。在此期间，该报又推出一篇题为《威胁、侮辱、和解：黄仁勋如何将羞辱变成一种常态》的调查报道，详细罗列其管理风格中的各类极端言行。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+然后黄仁勋回来了！特朗普：“我昨晚干得怎么样？”
+&lt;p&gt;据《纽约时报》报道，特朗普从中国返美后，眼看股市周五持续下跌，决定加快行动。他指派副总统万斯出面，利用其与硅谷的深厚关系，私下与黄仁勋沟通，并同时向英伟达董事会传递两项关键信息。&lt;/p&gt;
+&lt;p&gt;第一，特朗普政府认定黄仁勋的回归&amp;quot;不构成国家安全威胁&amp;quot;；第二，美国司法部长确认，&amp;quot;美国政府不掌握他从事任何违法行为的证据&amp;quot;。&lt;/p&gt;
+&lt;p&gt;知情人士向媒体透露，参与这些对话的政府官员极少，英伟达内部知情者同样寥寥无几。周日深夜，协议达成。周一早间，英伟达与特朗普相继发声，形成协调一致的公开表态。&lt;/p&gt;
+&lt;p&gt;万斯之所以被选中，是因为他与黄仁勋的支持者圈子关系密切，其中包括总统科技顾问委员会联席主席、投资人David O. Sacks。&lt;/p&gt;
+&lt;p&gt;11月23日，英伟达宣布黄仁勋重新出任CEO及董事。董事会主席Harvey Jones在声明中表示，&amp;quot;董事会相信黄仁勋是领导英伟达的合适人选，其复职符合股东、员工、合作伙伴和客户的最佳利益。&amp;quot;&lt;/p&gt;
+&lt;p&gt;消息公开后，特朗普第一时间致电《纽约时报》。&lt;/p&gt;
+&lt;p&gt;&amp;quot;我只是觉得他应该继续领导公司，我没想到会有这么大的反响，&amp;quot;特朗普说，&amp;quot;我从来没见过这种情况，股票涨了。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;当记者联系到他时，他先问的是：&amp;quot;我昨晚干得怎么样？&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;被问及股市是否影响了他的决定，特朗普在接受CNBC采访时回答：&amp;quot;可能是，但更大的影响是长远利益。&amp;quot;&lt;/p&gt;
+&lt;p&gt;英伟达股价当日收涨逾30%，市值增加约1万亿美元。标普500指数同日上涨约4.7%。据报道，特朗普本人持有价值数百万美元的英伟达投资。&lt;/p&gt;
+特朗普为什么这么在乎黄仁勋
+&lt;p&gt;《纽约时报》的分析文章指出，超过一年来，特朗普在私下谈话中始终将英伟达的健康状况与美国经济直接挂钩。他将黄仁勋视为&amp;quot;不可或缺&amp;quot;的人物。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;英伟达需要黄仁勋，美国需要英伟达，以确保不仅是公司，更是美国经济的成功与繁荣。&amp;quot;特朗普在社交媒体上写道。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;记者Julian E. Barnes分析，特朗普的优先要务是维持美国经济运转，而人工智能是支撑这一经济的关键支柱——正是AI的增长，帮助美国经济在关税、伊朗战争等政策冲击下保持了一定韧性。&lt;/p&gt;
+&lt;p&gt;据部分估算，2025年至2032年间，投资者和科技巨头可能向AI领域投入多达10.3万亿美元。&lt;/p&gt;
+《纽约时报》的黑料，和随之而来的嘲讽
+&lt;p&gt;就在黄仁勋复职前后，《纽约时报》还发表了一篇关于黄仁勋管理风格的深度报道，引述多名现任及前任员工（多数匿名，称担心遭到报复）的指控，称英伟达内部存在&amp;quot;邪教般&amp;quot;的氛围，黄仁勋通过恐惧管理员工。&lt;/p&gt;
+&lt;p&gt;报道援引的指控包括：黄仁勋曾对下属说，&amp;quot;唯一能让他们更卖力工作的方法，就是通过羞辱&amp;quot;；前人事总监Michael Winston指控，黄仁勋将公开羞辱称为一种&amp;quot;成人礼&amp;quot;，并称&amp;quot;这有很好的娱乐价值&amp;quot;。黄仁勋否认了Michael Winston的指控。&lt;/p&gt;
+&lt;p&gt;然而，就在该报继续追击的同一天，英伟达官方声明中写下了这样一句话：&amp;quot;董事会听取了美国政府高层的意见，基于该意见，董事会确信，恢复黄仁勋的职务不会带来国家安全风险。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这句话让《纽约时报》陷入了尴尬处境。&lt;/strong&gt;在该报当天晚间发布的相关帖文评论区，大量来自不同国家的网民留言嘲讽。其中一条写道：&amp;quot;恭喜黄仁勋战胜了假新闻媒体。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;还有网友称，&amp;quot;《纽约时报》成为了一个笑话。&amp;quot;&amp;quot;《纽约时报》你们会做更正报道吗？&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;马斯克在得知复职消息后，第一时间在X上发帖：&amp;quot;搞定了。&amp;quot;随后又在英伟达官方帖文下留言：&amp;quot;错误已被纠正。&amp;quot;此前他曾将黄仁勋被迫离职比作&amp;quot;把迈克尔·乔丹踢出球队&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+疑虑并未完全消散
+&lt;p&gt;尽管复职已成事实，批评声音并未停止。&lt;/p&gt;
+&lt;p&gt;《纽约时报》报道称，众议院情报委员会下任主席、众议员Jim Himes表示：&amp;quot;尽管英伟达董事会可能已经确信，恢复黄仁勋的职务&amp;#x27;不存在国家安全风险&amp;#x27;，但国会仍有问题需要答案。&amp;quot;&lt;/p&gt;
+&lt;p&gt;哥伦比亚商学院会计学教授Shivaram Rajgopal将英伟达描述为&amp;quot;几乎像一家受国家影响的企业&amp;quot;，并说：&amp;quot;外界的感知是，它大到不能倒，黄仁勋重要到不能被解雇。&amp;quot;&lt;/p&gt;
+&lt;p&gt;美联储最新金融稳定报告也将AI列为受访市场参与者眼中的最大威胁。10月议息会议上，19位官员中几乎每一位都提到了AI投资一旦令投资者失望可能带来的连锁风险。&lt;/p&gt;
+&lt;p&gt;报道还披露，此次复职事件再度暴露了特朗普内阁内部的分歧。&lt;/p&gt;
+&lt;p&gt;美国财政部长贝森特此前曾公开批评商务部对英伟达芯片出口的监管方式，立场强硬；而商务部长卢特尼克因与黄仁勋走得过近、未能有效约束英伟达在亚洲的芯片销售而饱受批评，但此次似乎与总统立场一致。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 时隔多年重启公益联名，苹果拟推（RED）特别版 HomePod mini 2 与 AirPods Max 2</title><link>https://wallstreetcn.com/articles/3786551</link><guid>740ef4e9fcfd7ebeb14d73df7513f51a2d2236125f40f8a32a4d7fbb3e8b3e2d</guid><pubDate>Mon, 23 Nov 2026 21:47:39 GMT</pubDate><description>&lt;p&gt;苹果正准备重启与（RED）公益项目的合作，计划推出两款特别版配色硬件。此次发布不仅恰逢世界艾滋病日以及（RED）组织成立20周年，也将为苹果的年终假日季销售注入新的增长动力。&lt;/p&gt;
 &lt;p&gt;11月23日，据彭博援引知情人士透露，&lt;strong&gt;苹果将发布红色版HomePod mini 2与新配色AirPods Max 2，发布时间预计在12月1日前后。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这将是苹果自2023年Apple Watch Series 9之后，时隔两年多再度推出Product(RED)硬件产品。&lt;/p&gt;
 &lt;p&gt;此次新品发布标志着苹果与Product(RED)合作关系的实质性回归。过去数年间，苹果逐步淡出该合作，相继停售旗下Product(RED)设备及配件。&lt;/p&gt;
@@ -339,29 +396,7 @@ COP31气候谈判破裂，OPEC+即将召开产量政策会议
 
 &lt;p&gt;在宏观经济层面，&lt;strong&gt;Williams持相对乐观态度。他预计今明两年经济增速均约为2.75%，增长动力来自韧性需求和强劲的生产率提升。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;通胀预期方面，他表示住房服务价格已出现降温，工资压力尚无明显迹象，通胀预期指标也与美联储2%目标相符——这些均构成积极信号。&lt;/p&gt;
-&lt;p&gt;但他同时维持2028年才能实现通胀目标的判断，意味着货币政策的收紧周期仍将延续相当一段时间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 2018年噩梦重演？走势高度相似，纳斯达克反弹之后或还有下一波回调</title><link>https://wallstreetcn.com/articles/3786527</link><guid>ef00f09e01422d56e49cbdb7dcfab9b4d74d4ef7100bfa26c9a1f44aba9c07c9</guid><pubDate>Mon, 23 Nov 2026 12:09:30 GMT</pubDate><description>&lt;p&gt;美股抛售潮已将市场推至极端超卖状态，但历史经验显示，急跌后的反弹未必意味着市场已经触底，纳斯达克可能仍面临新一轮回调。&lt;/p&gt;
-&lt;p&gt;标普500指数已跌入极度超卖区间，科技股波动率飙升至2020年以来最高水平，对冲基金也在以近十年来最快的速度削减仓位。&lt;strong&gt;市场恐慌程度与资金撤退规模，均已达到罕见水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛数据显示，其恐慌指标（Vol Panic Index）上周末收于9.8，满分为10。历史上，这一水平通常是强烈的逆向加仓信号。但当前美联储仍处于加息周期，情况有所不同：此前恐慌指数超过9且美联储同步加息时，标普500指数未来三个月平均仅上涨0.4%。&lt;/p&gt;
-&lt;p&gt;更值得警惕的是，当前市场走势与2018年纳斯达克的一轮调整高度相似。&lt;strong&gt;当年市场在急跌后曾出现快速反弹，但随后再度下探并创出新低。如今，随着科技股抛售加剧，类似的历史剧本再次引发市场关注。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;strong&gt;科技股恐慌升至极值，反弹条件逐步成熟&lt;/strong&gt;
-&lt;p&gt;当前标普500指数的超卖程度已处于极端水平，同时正在测试自2022年底低点以来形成的长期趋势线。&lt;/p&gt;
-&lt;p&gt;科技股的压力更加突出。纳斯达克波动率指数（VXN）已升至2020年4月以来最高水平，超过此前市场剧烈调整时期的峰值。半导体波动率指数（VXSMH）则创下历史新高，尽管该指数的数据仅始于2022年。&lt;strong&gt;上周五，费城半导体指数（SOX）单日暴跌及随之而来的波动率飙升，更被市场人士形容为“载入史册”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从估值来看，部分科技股也已出现明显回调。高盛的彼得·卡拉汉（Peter Callahan）指出，纳斯达克100指数远期市盈率已降至17倍，半导体板块更低至12至13倍，技术面超卖信号明确。&lt;/p&gt;
-&lt;p&gt;但估值回落尚未带来明显的抄底需求。卡拉汉指出，当前市场走势已经反映企业盈利下调预期，但实际基本面仍相对稳健，盈利预测依然在上修。&lt;strong&gt;市场价格与盈利趋势之间的背离，说明本轮抛售在一定程度上受到风险偏好下降和仓位调整驱动，而非企业盈利已经全面恶化。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;strong&gt;对冲基金大幅去杠杆，抛售压力接近释放尾声？&lt;/strong&gt;
-&lt;p&gt;投资者仓位的变化进一步凸显了本轮调整的剧烈程度。&lt;/p&gt;
-&lt;p&gt;高盛主经纪商业务数据显示，上周美股单只股票做空规模达到2022年6月以来最高单周水平，也是近十年来第三高；ETF空头头寸单周增加11%，创五年来最大单周增幅之一。上述数据仅统计至上周四，尚未计入周五的抛售。&lt;/p&gt;
-&lt;p&gt;对冲基金的净杠杆率也已降至极低水平。基本面多空策略（L/S）净杠杆率降至42.3%，处于过去一年分布区间的第1百分位；经贝塔调整后的净杠杆率自10月初以来累计下降逾22个百分点，至48.2%，创五年新低。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高盛认为，此轮去杠杆可能已经接近尾声，而非刚刚开始。不过，市场尚未完全摆脱潜在卖压：CFTC非商业交易者持仓仍接近高位，意味着部分拥挤头寸仍有进一步调整的空间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，CTA策略在纳斯达克100期货上的仓位已接近过去十年的区间底部。过去六周，系统性资金抛售科技股的速度更创下历史纪录。主动型对冲基金与量化资金同步减仓，也使科技股持续承受被动卖盘压力。&lt;/p&gt;
-&lt;strong&gt;短伽马放大双向波动，2018年走势值得警惕&lt;/strong&gt;
-&lt;p&gt;即便去杠杆可能接近尾声，市场也未必会就此企稳。&lt;strong&gt;当前大量短伽马（Short Gamma）头寸意味着，做市商在市场下跌时可能被迫卖出，上涨时则需要买入，从而放大市场的双向波动。在波动率已经处于极端水平的情况下，这种仓位结构可能令行情更加剧烈。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2018年的历史走势，正是当前市场需要警惕的风险之一。当年纳斯达克经历快速下跌后，曾出现一轮强劲反弹，但反弹未能扭转市场趋势，随后指数再次下探并创出新低。高盛及市场观察人士目前正密切关注这一历史走势与当下行情的相似之处。&lt;/p&gt;
-&lt;p&gt;这意味着，极端超卖和仓位出清虽然为反弹创造了条件，却不足以证明市场已经触底。尤其是在美联储仍处于加息周期、风险偏好尚未恢复的背景下，即使纳斯达克短期反弹，也不排除随后再次回调。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;眼下市场真正需要验证的，不是超卖信号能否触发反弹，而是反弹能否获得基本面和资金面的持续支撑。如果抄底资金迟迟不入场，2018年急弹后再创新低的走势，仍可能重演。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国11月PMI降至四个月低点，供应链瓶颈与成本压力持续</title><link>https://wallstreetcn.com/articles/3786539</link><guid>32f5044a829337a2c70408c86499a415a1a6f9fbbd5d0071394361b7d4b01212</guid><pubDate>Mon, 23 Nov 2026 16:04:59 GMT</pubDate><description>&lt;p&gt;美国商业活动扩张势头在11月明显降温，高物价、运输延误与供应瓶颈共同拖累制造业与服务业表现，尽管整体仍处于扩张区间。&lt;/p&gt;
+&lt;p&gt;但他同时维持2028年才能实现通胀目标的判断，意味着货币政策的收紧周期仍将延续相当一段时间。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国11月PMI降至四个月低点，供应链瓶颈与成本压力持续</title><link>https://wallstreetcn.com/articles/3786539</link><guid>32f5044a829337a2c70408c86499a415a1a6f9fbbd5d0071394361b7d4b01212</guid><pubDate>Mon, 23 Nov 2026 16:04:59 GMT</pubDate><description>&lt;p&gt;美国商业活动扩张势头在11月明显降温，高物价、运输延误与供应瓶颈共同拖累制造业与服务业表现，尽管整体仍处于扩张区间。&lt;/p&gt;
 &lt;p&gt;周一，标普全球数据显示，&lt;strong&gt;11月美国综合采购经理人指数（PMI）初值较上月下降1.3个百分点至54.6，为近四个月低位。制造业分项指数滑落至54.5，创三个月新低；服务业活动指数同样回落至四个月低位。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;11月供应链压力明显恶化。&lt;strong&gt;据标普全球援引全球贸易扰动与运输延误因素，制造商供应商交货时间延长幅度为2022年以来最大。反映需求状况的新订单分项指数扩张步伐亦降至7月以来最慢水平，显示终端需求动能有所减弱。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;从需求侧看，强劲的消费者支出、人工智能相关投资以及国防开支，为美国企业提供了有力支撑并推动今年盈利增长。展望后市，标普全球表示，11月中期选举结束后企业信心出现反弹，但政治不确定性犹存叠加通胀高企，仍对增长预期形成制约。&lt;/p&gt;
