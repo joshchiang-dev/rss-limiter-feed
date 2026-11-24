@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 24 Nov 2026 18:29:17 GMT</lastBuildDate><item><title>[华尔街见闻] 慧与营收增长50%，服务器与网络业务共同发力</title><link>https://wallstreetcn.com/articles/3786585</link><guid>34b23d945f8e5414c450e41e6be6e6eba5814156e26bc10a675eecdb7881af60</guid><pubDate>Tue, 24 Nov 2026 07:19:29 GMT</pubDate><description>&lt;p&gt;服务器需求增长，正在更明显地转化为慧与的收入和经营利润。&lt;/p&gt;
-&lt;p&gt;北京时间11月24日，企业级IT基础设施供应商慧与发布2026财年第四季度业绩，报告期截至10月31日。&lt;/p&gt;
-&lt;p&gt;当季营收约145亿美元，同比增长50%；调整后每股摊薄收益1.43美元，高于公司此前给出的1.20至1.30美元指引。调整后经营利润率达到16.9%，同比提高4.7个百分点。&lt;/p&gt;
-&lt;p&gt;相比收入增长，这次业绩更值得注意的是云与AI业务的盈利变化。该分部当季收入约113亿美元，同比增长68.6%，经营利润率从上年同期的9.3%升至18.4%。其中，服务器收入约88亿美元，同比增长94.7%，存储收入也保持增长。&lt;/p&gt;
-&lt;p&gt;需要区分的是，服务器收入包含不同类型产品，并非全部来自AI服务器；云与AI分部也包括存储和金融服务。因此，这些数据能够说明相关基础设施业务扩张，但不能直接写成AI服务器收入接近翻倍。&lt;/p&gt;
-&lt;p&gt;从商业模式看，设备厂商承接AI需求，考验的不只是订单获取能力。&lt;/p&gt;
-&lt;p&gt;高配置服务器往往涉及昂贵的芯片和复杂的系统集成，收入规模很大，最终能够留下多少利润，还取决于采购、定价、产品组合及交付效率。慧与云与AI分部利润率上升，至少表明本季度业务放量伴随着盈利能力改善。&lt;/p&gt;
-&lt;p&gt;网络业务则提供了另一块利润来源。该分部第四季度收入约31亿美元，同比增长12.3%，经营利润率为22.1%。虽然利润率低于上年同期的23.4%，但仍高于云与AI分部。总裁兼首席执行官Antonio Neri在公告中表示，公司在2026财年扩大了AI基础设施市场中的作用，并建立了新的网络业务格局。&lt;/p&gt;
-&lt;p&gt;服务器与网络业务的结合，有助于慧与争取更完整的数据中心项目。客户建设计算集群，还需要网络连接、存储和运维能力。能够提供更多环节的产品，意味着供应商有机会扩大单个客户的采购范围。不过，产品覆盖更广并不自动等于协同收益，仍需落实到交付成本和客户订单。&lt;/p&gt;
-&lt;p&gt;财报也显示出增长中的差异。集团按美国会计准则计算的毛利率为38%，同比提高，但环比下降2.1个百分点。&lt;/p&gt;
-&lt;p&gt;经营利润率继续改善，与毛利率环比回落同时发生，说明不能仅凭收入扩张就推断每个环节的盈利都在增强。&lt;/p&gt;
-&lt;p&gt;现金回收同样值得跟踪。第四季度经营现金流约23亿美元，略低于上年同期；自由现金流约19亿美元，同比基本持平。相较收入增长，这两项指标没有同步加速。&lt;/p&gt;
-&lt;p&gt;设备交付、库存和客户付款的时间差，都是后续判断增长质量时需要进一步观察的环节，而不能仅凭本季度数据确定原因。&lt;/p&gt;
-&lt;p&gt;管理层对新财年的预期仍较积极。慧与预计2027财年第一季度收入为140亿至146亿美元，调整后每股摊薄收益为1.30至1.40美元。这是公司给出的前瞻指引，并非已经实现的业绩。&lt;/p&gt;
-&lt;p&gt;慧与这份财报的变化，在于服务器放量已伴随分部利润率提升。接下来，能否延续这种表现，并让现金回收跟上业务规模，将比单一季度的收入增幅更能说明其在AI基础设施市场中的竞争力。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 华尔街解读“黄仁勋复辟”：卖方“兴奋雀跃”，买方“困惑不解”，这是“第一次AI大救助”</title><link>https://wallstreetcn.com/articles/3786579</link><guid>4a45c3b6e6c752fcb2e30958244a2c788ad67b4c58e5f76cfa9832ffd220b75a</guid><pubDate>Tue, 24 Nov 2026 08:03:59 GMT</pubDate><description>&lt;p&gt;英伟达董事会用11天时间验证了市场给出的答案：一个没有黄仁勋的英伟达，代价是标普500蒸发逾5万亿美元。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Tue, 24 Nov 2026 19:29:13 GMT</lastBuildDate><item><title>[华尔街见闻] 华尔街解读“黄仁勋复辟”：卖方“兴奋雀跃”，买方“困惑不解”，这是“第一次AI大救助”</title><link>https://wallstreetcn.com/articles/3786579</link><guid>4a45c3b6e6c752fcb2e30958244a2c788ad67b4c58e5f76cfa9832ffd220b75a</guid><pubDate>Tue, 24 Nov 2026 08:03:59 GMT</pubDate><description>&lt;p&gt;英伟达董事会用11天时间验证了市场给出的答案：一个没有黄仁勋的英伟达，代价是标普500蒸发逾5万亿美元。&lt;/p&gt;
 &lt;p&gt;周一，黄仁勋以全票通过的方式重返英伟达CEO职位，消息公布后英伟达股价单日暴涨31.5%，收于165.05美元，单日市值增加约9520亿美元，纳斯达克100指数飙升6.9%，标普500指数上涨4.7%，创2025年4月关税暂停以来最佳单日表现。这是有史以来单一公司单日创造市值最多的记录。特朗普在CNBC上公开表示，他本人直接介入了董事会决定，并要求副总统Vance游说董事。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;然而，这场历史性的反弹在市场专业人士中并未激起一致的欢呼。卖方分析师集体用流行文化标题庆祝&amp;quot;王者归来&amp;quot;，买方则在困惑与怀疑中观望。高盛交易台将当日活跃度打出10分中的5分，多数投资者的第一反应是&amp;quot;不知道该怎么看&amp;quot;。法律调查分毫未动，盈利预测一个数字都没改，市场买的是情绪与政治，而非基本面。&lt;/p&gt;
@@ -238,54 +223,7 @@ IoT与互联网服务：用户生态扩张，境外市场持续增长
 &lt;p&gt;由此，知乎的AI布局同时涉及经营和投资，前者探索内容、专家资源的新用途，后者通过基金参与大模型企业的发展。此次投资公告尚未涉及与DeepSeek的具体业务合作，其意义主要体现在资本布局层面。&lt;/p&gt;
 &lt;p&gt;业务企稳的同时，盈利仍有改善空间。第三季度，知乎毛利率为57.2%，低于上年同期的61.3%，公司解释主要与扩充和提升内容供给有关。总经营费用同比下降3.1%，净亏损为4860万元，调整后净亏损为3080万元，均较上年同期扩大。&lt;/p&gt;
 &lt;p&gt;对内容平台来说，控制费用与保持吸引力需要同时推进。会员回升、广告恢复增长，为知乎提供了相对稳定的经营基础；后续能否让内容投入带来持续订阅，并拓展IP和专业资源的收入，将决定这轮企稳能够走多远。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 云知声营收增五成，向模型调用生意拓展</title><link>https://wallstreetcn.com/articles/3786583</link><guid>e1eba78f1907f2440adcc30bf8353e4179128e49d63f820699d1b97b9f15c973</guid><pubDate>Tue, 24 Nov 2026 07:01:57 GMT</pubDate><description>&lt;p&gt;在医疗、交通等行业积累客户之后，云知声正在拓展按调用提供模型服务的生意。&lt;/p&gt;
-&lt;p&gt;11月23日，人工智能服务商云知声发布2026年第三季度自愿性公告。公司当季收入约3.44亿元，同比增长53.3%；毛利约1.44亿元，同比增长79.6%；毛利率升至41.8%，同比提高6.1个百分点。收入增长的同时，毛利率也有所改善。&lt;/p&gt;
-&lt;p&gt;这份成绩单背后，云知声正同时推进三类业务，大模型调用、企业智能化服务和端侧AI。其中，模型调用业务提供了一个不同于行业项目的新增长方向——客户通过接口使用模型能力，服务商根据使用情况获得收入。&lt;/p&gt;
-&lt;p&gt;据公司披露，截至公告发布日，主力通用模型U2-Flash周Token调用量达到万亿级别，单日调用量超过发布首日的30倍。这里反映的是公告时点的使用规模，并非第三季度平均调用量，也不能直接等同于付费收入。&lt;/p&gt;
-&lt;p&gt;云知声还在尝试把模型服务拓展至海外。第三季度，公司与中国移动等合作伙伴完成福建省首单合规“词元出海”业务，厦门“AI Magic词元出海生态基地”于9月投入运营。&lt;/p&gt;
-&lt;p&gt;对云知声而言，这类业务的吸引力在于交付方式。行业项目通常需要围绕客户的数据、系统和工作流程进行适配；标准化模型服务则有机会让同一套能力服务更多客户，减少每增加一笔业务都要重新开发的工作量。&lt;/p&gt;
-&lt;p&gt;但调用生意也有自己的成本。模型每处理一次任务，都要消耗计算资源。调用量增加，只有在付费规模、服务价格和推理成本之间形成合理关系，才能带来可持续的毛利。低价获取的使用量与客户愿意长期支付的需求，商业价值并不相同。&lt;/p&gt;
-&lt;p&gt;因此，第三季度毛利率提高是积极变化，但目前的披露尚不足以把这一改善全部归因于Token业务。调用业务收入占比、单位调用收入及成本，还需要更细的财务数据来说明。&lt;/p&gt;
-&lt;p&gt;与此同时，行业服务仍在推进。公司披露，第三季度签约多家头部三甲医院及区域AI公共平台项目，并在保险、交通等领域拓展合作。其中，与上海申通地铁集团的合作涉及MaaS智算平台建设。这说明云知声是在原有行业业务之外增加新的收入来源，而非已经完成向标准化平台的转型。&lt;/p&gt;
-&lt;p&gt;行业客户也可能成为模型业务的基础。医疗、保险等场景对专业知识、准确性和系统适配有较高要求，长期服务这些客户，有助于识别真正有付费价值的任务。&lt;/p&gt;
-&lt;p&gt;但行业经验要转化为规模优势，还取决于解决方案能否复用：同一种能力进入第二家、第三家客户时，交付成本是否能够下降。&lt;/p&gt;
-&lt;p&gt;此次经营更新给出了收入和毛利表现，尚不能据此判断公司的整体净利润及现金回收情况。对云知声下一阶段的观察，重点也不只是调用量能增长多快，而是这些使用需求能否形成稳定付费，并与已有行业客户相互带动。&lt;/p&gt;
-&lt;p&gt;三季度的增长提供了起点，持续收入的规模将决定这条新业务能走多远。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 黄仁勋复职，美国国会一片哗然：民主党誓言彻查特朗普和英伟达，共和党也不买账</title><link>https://wallstreetcn.com/articles/3786577</link><guid>9bbeb774a8f0feaec870b970df5a4b999846ca2e9623a9e5ba536829352f8674</guid><pubDate>Tue, 24 Nov 2026 06:29:52 GMT</pubDate><description>&lt;p&gt;英伟达董事会在特朗普直接施压下宣布黄仁勋复职，在华盛顿引爆罕见的两党联合抵制。国会参众两院议员纷纷誓言深化调查，要求黄仁勋公开宣誓作证，围绕这家芯片巨头的疑云正迅速演变为一场政治风暴。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&amp;amp;mid=2248616271&amp;amp;idx=1&amp;amp;sn=7064ff59511c43de309ac93afb70c7f4&amp;amp;chksm=cc5a38f286b2ce990e2a636740da0985ebb7947bd1acf8015ee5729fde914646eddb2201e2cb&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=11240SH7er6RmczlqyGfcvSY&amp;amp;sharer_shareinfo=466cfd6b7373305bfacf6ffe1500526a&amp;amp;sharer_shareinfo_first=466cfd6b7373305bfacf6ffe1500526a#rd"&gt;据参考消息、中新网报道&lt;/a&gt;，11月23日，黄仁勋复职后，&lt;strong&gt;参议院民主党领袖查克·舒默表示，民主党明年掌控国会后，将“动用全部权力”调查特朗普政府、黄仁勋及其他英伟达高管。&lt;/strong&gt;舒默称，政府急于让黄仁勋复职，“更凸显国会必须采取行动”。民主党参议员Elizabeth Warren——预计明年接任该委员会主席——则将黄仁勋复职定性为&amp;quot;鲁莽之举&amp;quot;，要求白宫说明政府官员在这一决定中扮演的具体角色。&lt;/p&gt;
-&lt;p&gt;与此同时，据美联社和《华盛顿邮报》报道，参议院银行委员会现任共和党主席Tim Scott已宣布，黄仁勋将于12月3日出席公开听证。&lt;/p&gt;
-&lt;p&gt;特朗普周一接受CNBC采访时主动揽责，称&amp;quot;我和英伟达谈过了，我说服他们了&amp;quot;，并表示自己在董事会决定敲定后当晚亲自致电黄仁勋，告诉他&amp;quot;好好工作&amp;quot;。英伟达在声明中承认，董事会复职决定是在&amp;quot;获得美国政府高层意见&amp;quot;后作出的，并称对黄仁勋复职充满信心。多名议员对这一表述提出强烈质疑。&lt;/p&gt;
-
-特朗普亲自出手，英伟达市值单日暴涨逾1万亿美元
-
-&lt;p&gt;黄仁勋于11月12日辞职，起因是其承认有婚外情，此后相关报道还指向至少另外两段婚外情。英伟达董事会周一宣布全票通过恢复其CEO职位，消息一出，公司市值单日增加逾1万亿美元。&lt;/p&gt;
-&lt;p&gt;据&lt;a href="https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&amp;amp;mid=2248616271&amp;amp;idx=1&amp;amp;sn=7064ff59511c43de309ac93afb70c7f4&amp;amp;chksm=cc5a38f286b2ce990e2a636740da0985ebb7947bd1acf8015ee5729fde914646eddb2201e2cb&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=11240SH7er6RmczlqyGfcvSY&amp;amp;sharer_shareinfo=466cfd6b7373305bfacf6ffe1500526a&amp;amp;sharer_shareinfo_first=466cfd6b7373305bfacf6ffe1500526a#rd"&gt;中国新闻社&lt;/a&gt;，当地时间11月23日，特朗普接受CNBC语音采访时称：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我和英伟达谈过了，就这么说吧，我说服他们了，我们已经做了非常详尽的调查，他没有任何过错。有人说留着他会是个隐患，恰恰相反，失去他才是损失，我目睹了这一切，我就觉得我必须出手，要是我没有介入，英伟达接下来很长一段时间恐怕都会处境惨淡。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;特朗普还称，在与英伟达董事会谈过后，“等事情敲定了”，便给黄仁勋打了电话：“詹森（黄仁勋），我只请你做一件事，好好工作。”&lt;/p&gt;
-&lt;p&gt;特朗普表示：别的事我没谈，因为他心里清楚，比我们还清楚。他知道什么该做，什么不该做。我只跟他说，好好工作，因为只要你好好干，就没人能赶得上你的成就。没有人，连能接近的都没有。&lt;/p&gt;
-&lt;p&gt;值得注意的是，据《华盛顿邮报》报道，英伟达于2025年10月向特朗普总统主导的白宫宴会厅项目捐款2500万美元，成为主要捐款方。特朗普的财务披露文件显示，截至今年8月，他本人持有数百万美元英伟达股票。&lt;/p&gt;
-
-两党议员齐声质疑，&amp;quot;不构成安全风险&amp;quot;遭强烈质疑
-
-&lt;p&gt;英伟达董事会援引政府意见为黄仁勋复职背书，这一说辞在国会两党均遭到批评。&lt;/p&gt;
-&lt;p&gt;共和党方面，德克萨斯州联邦参议员John Cornyn——因初选败给特朗普支持的候选人而即将离任——在社交媒体上发文质问：&amp;quot;不构成风险？依据是什么？&amp;quot;他追问FBI是否对黄仁勋进行了防御性简报。&lt;/p&gt;
-&lt;p&gt;犹他州参议员John Curtis问道：&amp;quot;我们政府中是谁出面斡旋？他们告诉董事会什么？董事会又凭什么得出结论？&amp;quot;参议院情报委员会共和党主席Tom Cotton表示，英伟达的争议&amp;quot;只是冰山一角&amp;quot;，&amp;quot;国会有很多事要调查&amp;quot;。&lt;/p&gt;
-&lt;p&gt;众议院情报委员会主席Rick Crawford及众议院外交事务委员会主席Brian Mast等联合发表声明称，英伟达董事会简短的内部调查和复职决定&amp;quot;无法抹去必须回答的问题&amp;quot;。&lt;/p&gt;
-
-民主党瞄准腐败叙事，矛头指向商务部长Lutnick
-
-&lt;p&gt;民主党议员将黄仁勋复职事件纳入更宏观的政治叙事，&lt;strong&gt;将其定性为特朗普政府以权谋私的又一例证，并预告明年掌控国会后将展开全面调查。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;多名民主党议员特别点名商务部长Howard Lutnick，指出其子名下投资公司持有英伟达大量股份。&lt;/p&gt;
-&lt;p&gt;亚利桑那州民主党参议员Ruben Gallego要求调查&amp;quot;复职公告发布前是否存在内幕交易&amp;quot;。马里兰州参议员Chris Van Hollen将事件定性为&amp;quot;受操纵的体制&amp;quot;，列举英伟达捐款、特朗普持股与黄仁勋复职三者之间的关联。&lt;/p&gt;
-&lt;p&gt;预计明年出任众议长的众议院少数党领袖Hakeem Jeffries将复职定性为&amp;quot;不可辩护、不负责任、不可理解&amp;quot;。&lt;/p&gt;
-
-多项调查并行推进，英伟达监管压力持续升级
-
-&lt;p&gt;黄仁勋复职并未化解围绕英伟达的法律与监管压力，反而使已有调查的范围进一步扩大。FBI正就黄仁勋婚外情的相关情况展开调查，美国证券交易委员会（SEC）同时对英伟达的会计问题展开调查。&lt;/p&gt;
-&lt;p&gt;英伟达总法律顾问Tim Teter也预计将于下月出席国会听证。&lt;strong&gt;黄仁勋本人则将在12月1日出席三个众议院委员会的闭门问询，并于12月3日出席参议院公开听证。&lt;/strong&gt;英伟达表示，已成立独立委员会专门调查有关黄仁勋婚外情的报道，黄仁勋将配合调查。&lt;/p&gt;
-&lt;p&gt;黄仁勋本人在声明中表示，他&amp;quot;深感荣幸&amp;quot;能够重返公司，&amp;quot;在新工业革命的起点上领导这家影响深远的科技公司&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] B站三季度广告收入增长20%，用户活跃度提升支撑商业化</title><link>https://wallstreetcn.com/articles/3786611</link><guid>e5859d4c961a30f5e72cb1446cd63c368754c51d1c5cb1e6e278819910add701</guid><pubDate>Tue, 24 Nov 2026 12:36:10 GMT</pubDate><description>&lt;p&gt;用户在B站停留的时间更长了，广告也继续成为公司收入增长的主要动力。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] B站三季度广告收入增长20%，用户活跃度提升支撑商业化</title><link>https://wallstreetcn.com/articles/3786611</link><guid>e5859d4c961a30f5e72cb1446cd63c368754c51d1c5cb1e6e278819910add701</guid><pubDate>Tue, 24 Nov 2026 12:36:10 GMT</pubDate><description>&lt;p&gt;用户在B站停留的时间更长了，广告也继续成为公司收入增长的主要动力。&lt;/p&gt;
 &lt;p&gt;11月24日，哔哩哔哩发布2026年第三季度未经审计财报。当季营收83.17亿元，同比增长8%；净利润5.04亿元，同比增长7%；经调整净利润8.28亿元，同比增长5%。毛利率由上年同期的36.7%升至37.3%，盈利能力继续改善。&lt;/p&gt;
 &lt;p&gt;广告是这份成绩单中最突出的业务。第三季度，广告收入30.87亿元，同比增长20%，规模已接近增值服务的31.48亿元。公司将广告增长主要归因于广告产品完善和投放效率提升。&lt;/p&gt;
 &lt;p&gt;按财报数据计算，广告贡献了约37%的季度收入。随着这项业务扩大，B站的商业化越来越依赖内容消费与广告需求之间的连接，用户来观看视频、了解产品和交流兴趣，广告主则希望在这些场景中找到潜在消费者。&lt;/p&gt;
@@ -299,4 +237,42 @@ IoT与互联网服务：用户生态扩张，境外市场持续增长
 &lt;p&gt;在保持盈利的同时，B站仍在投入技术。&lt;/p&gt;
 &lt;p&gt;董事长兼首席执行官陈睿在业绩公告中表示，公司正利用AI帮助创作者生产内容，并提高内容与用户的匹配效率。这一方向与现有业务联系紧密：创作工具影响内容供给，分发能力影响观看体验，两者也共同影响商业化空间。&lt;/p&gt;
 &lt;p&gt;三季度的变化，在于用户活跃与广告增长形成了相互支撑。B站下一阶段需要做的，是让更多使用时间转化为稳定的广告需求，同时继续拓展会员、游戏和IP业务。社区吸引力能否持续产生商业回报，将决定盈利改善的延续性。&lt;/p&gt;
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈黄仁勋回归对AI的影响与意义</title><link>http://www.xueqiu.com/5332385101/418275260</link><guid>a7c5eb80c4f7f99cecf31440fda7f1352ef65546c40e910b3bd5d9b676853db4</guid><pubDate>Tue, 24 Nov 2026 09:42:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，英伟达董事会宣布恢复黄仁勋CEO及董事职务，推动英伟达单日上涨31.48%，市值重回近4万亿美元。受此消息刺激，美股迎来剧烈修复，纳指上涨6.51%，费半单日跳涨14%。&lt;/p&gt;</description></item><item><title>[今日雪球] 英矽智能BD出去的MEN2312数据解读，能否给你更多的持股信心？</title><link>http://www.xueqiu.com/8046984995/418310653</link><guid>5f5e993d55e9f1bebad20e314d115560c5380b576145f39a5e1a9d368fc25797</guid><pubDate>Tue, 24 Nov 2026 09:42:55 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;马场配货哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/03696"&gt;$英矽智能(03696)$&lt;/a&gt;美纳里尼在2026年圣安东尼奥乳腺癌研讨会（SABCS）公布的摘要中，披露了MEN2312的首批人体数据。这款由英矽智能发现、授权美纳里尼开发的口服KAT6抑制剂，在多线治疗后的晚期乳腺癌患者中，展现了抗肿瘤活性和积极的耐受性表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 用户还在爬坡，利润却在退坡，快手这份财报到底该怎么看？</title><link>http://www.xueqiu.com/6056806984/418138684</link><guid>14ba42cc4b7189c91613549231ac217b8fe3705cb29b03ac84b6ae9f1a2fda13</guid><pubDate>Tue, 24 Nov 2026 09:43:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;朱酒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11月19日快手发了三季报，收入315.92亿元，同比下降11.1%，经调整净利润从去年同期的49.86亿元降到7.90亿元，次日收在20.42港元。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 特朗普希望美国企业界记住谁才是真正的掌权者</title><link>https://wallstreetcn.com/articles/3786587</link><guid>2c4123462850e805f040daedf840a28c5efa741f5163a224a51d63210d504f42</guid><pubDate>Tue, 24 Nov 2026 08:26:26 GMT</pubDate><description>&lt;p&gt;英伟达董事会周一宣布让黄仁勋重返CEO一职，而这一决定背后，站着的是美国总统特朗普。分析认为，这一事件再次清晰地揭示了当前美国政商关系的底层逻辑：&lt;strong&gt;白宫愿意直接介入私营企业的内部事务，而企业界也愿意配合。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据新华社报道，&lt;strong&gt;美国总统特朗普23日在社交媒体发文说，英伟达董事会让黄仁勋重新担任首席执行官一职是“正确且恰当的决定”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据Business Insider周二（11月24日）报道，&lt;strong&gt;特朗普周一接受CNBC采访时明确表示，他亲自致电英伟达董事会。&lt;/strong&gt;“我跟他们谈过了，就这么说吧，”特朗普说，“如果他们当时抵制，我认为会是一场灾难。”与此同时，英伟达董事会在宣布黄仁勋复职的声明中特别指出，董事会听取了&amp;quot;美国政府高层的意见&amp;quot;，并基于此判断认为黄仁勋的复职&amp;quot;不构成国家安全风险&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这一结果对市场传递出明确信号：&lt;strong&gt;在特朗普执政期间，美国企业界对白宫指令的服从意愿并未因政治环境变化而减弱。&lt;/strong&gt; 此前曾有观点认为，在中期选举呈现出反对特朗普政府的浪潮之后，企业界或许会对白宫的施压更具抵抗力——但英伟达事件给出了相反的答案。&lt;/p&gt;
+董事会的急转弯：从拒绝到服从
+&lt;p&gt;英伟达董事会此番立场转变之剧烈，令外界瞩目。&lt;strong&gt;就在不到一周前，该董事会还明确表示不会重新聘用黄仁勋。&lt;/strong&gt;而在特朗普介入后，董事会迅速改变立场，并在公告中主动点明政府施压这一背景，似乎有意让外界知晓，此次复职决定是在听取政府意见后作出的。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;黄仁勋最初离职的原因，与国家安全并无直接关联。英伟达上周的声明称，黄仁勋离职是因为其承认存在“与公司行为准则不符的个人行为”——据报道，这不仅涉及他的婚外情，还涉及与英伟达员工之间的不当关系。然而，&lt;strong&gt;本周英伟达的立场似乎已对上述行为既往不咎。&lt;/strong&gt;&lt;/p&gt;
+白宫内部分歧，最终由特朗普拍板
+&lt;p&gt;据报道，在黄仁勋去留问题上，特朗普政府内部此前存在明显分歧。&lt;strong&gt;财政部长Scott Bessent等倾向于让黄仁勋出局&lt;/strong&gt;，而白宫前AI顾问、目前仍具重要影响力的David Sacks则是黄仁勋的支持者。&lt;/p&gt;
+&lt;p&gt;这或许正是特朗普上周措辞模糊的原因——他当时仅表示“不介意”黄仁勋回归，并未明确施压。然而，局势在周日迅速明朗：&lt;strong&gt;贝森特当天接受CBS采访时表示，黄仁勋或许是领导英伟达的合适人选&lt;/strong&gt;；当晚，特朗普便公开呼吁英伟达重新聘用黄仁勋。内部争论至此尘埃落定。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+干预升级：从要求股权到指定CEO人选
+&lt;p&gt;英伟达事件并非孤例，而是特朗普政府介入私营企业的最新一例，且力度有所升级。&lt;/p&gt;
+&lt;p&gt;据报道，&lt;strong&gt;2025年夏，特朗普曾要求英特尔解雇CEO Lip-Bu Tan，随后又转而推动美国政府对英特尔持股10%。&lt;/strong&gt;更早之前，在特朗普与黄仁勋于海湖庄园共进晚餐后，政府决定不限制英伟达芯片的出口禁令。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次事件的性质有所不同：&lt;/strong&gt;特朗普此前的干预通常涉及关税收入、股权持有等有形利益，而这一次，他要求的是一家公司重新聘用其已明确表示不想要回的CEO。这被视为白宫对企业界施压力度的进一步升级。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 商汤开源8B多模态模型U1.6，图像自修正写入单次生成</title><link>https://wallstreetcn.com/articles/3786598</link><guid>6244fb4aead46d54c9a1ac88874e810aa8f9f9734ced28e1a9508b6563fb4386</guid><pubDate>Tue, 24 Nov 2026 10:10:28 GMT</pubDate><description>&lt;p&gt;11月24日，商汤科技（&lt;a href="http://00020.HK"&gt;00020.HK&lt;/a&gt;）发布并开源多模态模型SenseNova U1.6，参数规模8B，主打原生图像自修正。模型权重开放至GitHub、HuggingFace与ModelScope，官方同步接入ComfyUI。&lt;/p&gt;&lt;p&gt;自修正的运作方式是，模型先生成首稿，再对照原始提示检查画面，针对文字模糊、错字乱码、英文拼写错误、编号错乱提出修改意见，结合原提示与首稿输出修正版。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;商汤测评数据显示，开启自修正后，UltraTextBench密集信息图测试得分从单次生成的86.04升至92.28，相对提升约7%，内部用户评测中美学得分较上一版U1.5 Lite高约10%。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;GitHub README权重仓库列表显示，商汤此次开源了原始BF16分片、合并BF16、FP8与INT8量化版本、GGUF三档量化，另附4步与8步采样LoRA。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;API服务版本U1.6 Lite已接入商汤小浣熊、Seko、Kapi相机等产品，并上架SenseNova Token Plan，注册用户可限时免费体验。&lt;/p&gt;&lt;p&gt;部署方面，GitHub页面显示，基础推理单卡24GB显存、64GB系统内存即可运行，权重占用约35GB磁盘。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;商汤同时说明，U1.6与U1.5在相同工作负载、精度与内存模式下需求相近，量化版本提供的是不同部署选择，尚无实际部署成本下降的量化数据。&lt;/p&gt;&lt;p&gt;U1.6是商汤U系列的最新版本。该系列第一版U1于今年4月发布并开源，在单一模型内统一图像理解与生成，架构上去除视觉编码器与变分自编码器。&lt;/p&gt;&lt;p&gt;7月在世界人工智能大会上，商汤发布了U1 Pro，围绕复杂目标执行数十轮智能体生成循环，修正动作靠外置工作流完成。&lt;/p&gt;&lt;p&gt;8月发布的U1.5将分辨率提升至原生4K，单检查点支持图像理解、生成、编辑与图文交错输出。&lt;/p&gt;&lt;p&gt;此次U1.6更新的方向，与模型U1.5的能力短板有重合。&lt;/p&gt;&lt;p&gt;U1.5官方文档列出的已知局限包括密集小字出错、中英文混排错误、版面精确计数需人工检查。商汤称，U1.6将生成、检查、修正的闭环内化为模型单次生成内的能力，训练沿用U1.5的多专家、多奖励强化学习范式，新增面向不同题材的美学模型。&lt;/p&gt;&lt;p&gt;应用场景方面，目前自修正训练主要针对信息图场景。商汤称在部分非信息图场景能够体现泛化效果，开源权重下的实际使用效果还需要更广泛的验证。&lt;/p&gt;&lt;p&gt;定价方面，U1.6 Lite的API价格暂未披露，商汤未公布付费客户与调用量数据。&lt;/p&gt;&lt;p&gt;接下来可关注ComfyUI社区的第三方部署实测、自修正泛化效果的独立复现，以及U1 Pro正式版与API服务的上线进展。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情</title><link>https://wallstreetcn.com/articles/3786625</link><guid>e796665bc8f697848d884848c3a94f55a4cc9fdac2c59b8fd36c086940efdc0b</guid><pubDate>Tue, 24 Nov 2026 18:29:34 GMT</pubDate><description>&lt;p&gt;伦敦金属交易所（LME）出手整治铝市场持续已久的逼仓乱象，宣布收紧针对大仓位持有者的监管规则，相关措施于周三起生效。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此次干预的核心是将触发&amp;quot;Tom-next（明日/次日）借贷规则&amp;quot;的仓位门槛，由现有可用库存的50%下调至30%。新规还引入了时间维度的分级约束：持有大仓位超过五个工作日的交易商须以更低利率强制借出仓位；持仓超过十个工作日者，借出利率将进一步下调。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LME表示，此举旨在&amp;quot;减少重大持仓对市场可能产生的不当影响&amp;quot;。&lt;/p&gt;
+&lt;p&gt;消息公布后，铝市价差迅速回落——现货与12月合约之间的反向价差从每吨212美元骤降至100美元，跌幅逾半。&lt;/p&gt;
+
+逼仓背景：数十年最低库存叠加集中多头持仓
+
+&lt;p&gt;LME铝市场此番遭遇的逼仓，被认为是1980年代以来最严重的一次，由两股力量共同驱动：一方面，铝库存降至数十年来最低水平；另一方面，多名交易商在市场上累积了大量多头仓位。&lt;/p&gt;
+&lt;p&gt;在逼仓压力下，铝市出现了显著的反向市场结构（backwardation）——即近月合约价格高于远月合约。&lt;/p&gt;
+&lt;p&gt;这一结构对铝的实体用户尤为不利，因为这类市场参与者通常持有空头仓位作为库存对冲，反向价差的存在会直接推高其对冲成本。&lt;/p&gt;
+&lt;p&gt;LME在声明中特别提及市场对&amp;quot;2027年前将有大量新产能投产&amp;quot;的预期，并表示本次规则调整为临时性措施。&lt;/p&gt;
+
+新规细则：分级强制借出，限制仓位囤积
+
+&lt;p&gt;根据新规，持有相当于LME仓库网络中30%至80%可用铝库存的交易商，将被强制以&amp;quot;Tom-next&amp;quot;价差的方式每日借出其多头仓位，&lt;strong&gt;借出利率为前一日价格的0.5%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这一利率低于此前适用的1%反向价差上限——而该上限在过去数个交易日内已多次触及。&lt;/p&gt;
+&lt;p&gt;新规还引入了时间维度的分级约束：持有大仓位超过五个工作日的交易商须以更低利率强制借出仓位；持仓超过十个工作日者，借出利率将进一步下调。&lt;/p&gt;
+&lt;p&gt;这一机制旨在通过累进成本，遏制大型持仓的长期囤积行为。&lt;/p&gt;
+
+印尼新产能：铝价中期承压的结构性因素
+
+&lt;p&gt;在供应端，市场目前普遍预期铝价中期走势偏空，主要驱动力来自印度尼西亚正快速扩张的铝冶炼产能。&lt;/p&gt;
+&lt;p&gt;据彭博周二报道，&lt;strong&gt;LME即将批准印尼一座大型新冶炼厂的铝锭交割资质；与此同时，LME还单独宣布将加快审批新设施金属交割资质的时间流程。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LME表示，新规中对可用库存比例的界定，将把印尼等新来源的金属纳入计算，这意味着随着新产能逐步入市，触发强制借出机制的绝对仓位门槛将相应提高，有助于在供应回升后自然退出干预状态。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 谈谈黄仁勋回归对AI的影响与意义</title><link>http://www.xueqiu.com/5332385101/418275260</link><guid>a7c5eb80c4f7f99cecf31440fda7f1352ef65546c40e910b3bd5d9b676853db4</guid><pubDate>Tue, 24 Nov 2026 09:42:47 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚，英伟达董事会宣布恢复黄仁勋CEO及董事职务，推动英伟达单日上涨31.48%，市值重回近4万亿美元。受此消息刺激，美股迎来剧烈修复，纳指上涨6.51%，费半单日跳涨14%。&lt;/p&gt;</description></item><item><title>[今日雪球] 英矽智能BD出去的MEN2312数据解读，能否给你更多的持股信心？</title><link>http://www.xueqiu.com/8046984995/418310653</link><guid>5f5e993d55e9f1bebad20e314d115560c5380b576145f39a5e1a9d368fc25797</guid><pubDate>Tue, 24 Nov 2026 09:42:55 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;马场配货哥&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://xueqiu.com/S/03696"&gt;$英矽智能(03696)$&lt;/a&gt;美纳里尼在2026年圣安东尼奥乳腺癌研讨会（SABCS）公布的摘要中，披露了MEN2312的首批人体数据。这款由英矽智能发现、授权美纳里尼开发的口服KAT6抑制剂，在多线治疗后的晚期乳腺癌患者中，展现了抗肿瘤活性和积极的耐受性表现。&lt;/p&gt;</description></item><item><title>[今日雪球] 用户还在爬坡，利润却在退坡，快手这份财报到底该怎么看？</title><link>http://www.xueqiu.com/6056806984/418138684</link><guid>14ba42cc4b7189c91613549231ac217b8fe3705cb29b03ac84b6ae9f1a2fda13</guid><pubDate>Tue, 24 Nov 2026 09:43:18 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;朱酒&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11月19日快手发了三季报，收入315.92亿元，同比下降11.1%，经调整净利润从去年同期的49.86亿元降到7.90亿元，次日收在20.42港元。&lt;/p&gt;</description></item></channel></rss>
