@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 00:29:08 GMT</lastBuildDate><item><title>[华尔街见闻] AI抛售拖累美股盘中重挫，逢低买盘力撑道指转涨，避险需求推升美债，贵金属深V反转</title><link>https://wallstreetcn.com/articles/3786656</link><guid>0f8e6ad69413e683ab7ec392a674cdac6a5ff89b173ec9aeb2bd9bd793f960e5</guid><pubDate>Wed, 25 Nov 2026 22:57:21 GMT</pubDate><description>&lt;p&gt;美国股市在感恩节假期前夕剧烈震荡，AI相关股票抛售一度拖累纳指深跌、进入技术性熊市，但逢低买盘介入，使主要指数显著脱离日内低点。科技股仍是压力核心，道指则逆势收高。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 00:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
+&lt;p&gt;据SemiAnalysis向其机构客户发布的报告，SpaceX已将英伟达Blackwell GPU小集群的现货租赁报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅达20%至35%；同时，Anthropic将不再续租SpaceX一个约5万张H200的集群，该批算力已以约5美元/GPU/小时的价格重新对外报价，2027年初交付。科技媒体The Information以“&lt;strong&gt;AI股最大的担忧：芯片过剩&lt;/strong&gt;”为题报道了SemiAnalysis的核心观点。&lt;/p&gt;
+&lt;p&gt;在供给端出现松动的同时，&lt;strong&gt;企业端需求也显现疲态&lt;/strong&gt;。就在供给端出现松动的消息传出前数小时，支付公司Ramp联合首席执行官Eric Glyman表示，过去两个月AI的“杰文斯悖论”已经破裂——Token价格持续下跌，但使用量的增长已不足以弥补降价带来的收入损失。&lt;/p&gt;
+&lt;p&gt;市场反应迅速而剧烈。周二英伟达下跌近6%，回吐了周一31.5%涨幅的一部分；CoreWeave与Nebius各自大跌11%。周三英伟达再跌近4%。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但并非所有人都认同“崩盘”叙事。&lt;/strong&gt;NewStreet随后发文回应，明确表示“我们不认为这是价格崩盘”，认为SpaceX只是取消了小集群溢价，使报价与其向Anthropic、Google等大客户提供的大集群价格对齐，算力商业化是“回归常态，绝非崩塌”。&lt;strong&gt;多空双方的分歧，正集中在同一组数字上。&lt;/strong&gt;&lt;/p&gt;
+SpaceX的降价清单：从15美元到10美元
+&lt;p&gt;据SemiAnalysis报告，SpaceX将小规模Blackwell集群的现货报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅20%至35%。这一价格使其小集群报价与向Anthropic、Google等最大客户提供的大集群报价持平。此次降价距SemiAnalysis上一次AI云TCO更新仅数周，当时租赁价格仍在上涨。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更具信号意义的是第二项变化：&lt;strong&gt;Anthropic不再续租SpaceX约5万张H200的集群&lt;/strong&gt;，SpaceX正以约5美元/GPU/小时的价格重新对外提供该批算力，交付时间为2027年初。Ornn的二手云租赁成交指数显示，H200在周一的成交价为6.53美元/GPU/小时，SpaceX的报价较现货市场低约23%。按5万张GPU、每小时5美元满负荷测算，该集群年租金约22亿美元。&lt;/p&gt;
+&lt;p&gt;SemiAnalysis同时指出，美国商务部工业与安全局（BIS）上周关于远程访问美国芯片的新规，预计将进一步压低2027年的现货租赁价格。&lt;/p&gt;
+Anthropic为何“退租”：一份可随时退出的合同
+&lt;p&gt;这并非毫无预兆。据Anthropic的S-1文件，该公司承诺在2029年前向SpaceX子公司支付最高1205亿美元的英伟达GPU算力费用，全部容量交付后约合每月31亿美元。但文件细则显示，在2027年1月和3月到期的不可撤销期结束后，&lt;strong&gt;任何一方均可以90天通知期退出&lt;/strong&gt;，这使其成为Anthropic合同清单中最灵活、也最可能被重新定价的一份。两周后，分析师Jukan转述Anthropic与卖方分析师会议的内容称，公司不会将SpaceX算力协议延长至2027年中以后，双方均未确认。&lt;/p&gt;
+&lt;p&gt;据Tom&amp;#x27;s Hardware，SpaceX于5月租给Anthropic的孟菲斯Colossus 1集群由约15万张H100、5万张H200和2万张GB200混合构成，5万张的数字与H200部分几乎完全吻合（此为推断）。而Anthropic如今已是上市公司，股价低于IPO发行价，有充分理由停止为两代之前的Hopper算力付费。&lt;/p&gt;
+&lt;p&gt;另一侧，SpaceX今年正从“准前沿实验室”转型为AI行业最大的GPU房东之一。据科技媒体The Information，其AI部门本月在Grok Imagine团队裁员约60人，其模式偏好现货租赁而非长期承诺，明年主推的新平台为Vera Rubin。&lt;strong&gt;一个手握大量新增机房、旧设备租约又短的房东，正是最先降租的那类房东。&lt;/strong&gt;&lt;/p&gt;
+价格数据：成交指数已经转向
+&lt;p&gt;报价指数与成交指数的分化值得注意。Silicon Data的B200租赁指数在11月17日触及7.10美元后停滞，11月20日回到同一水平，此后连续四天维持在6.94美元。但Ornn追踪的是二手云实际成交价，转向已经可见：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;B200指数较11月8日高点下跌8.8%（从9.94美元降至9.07美元），H200指数较11月11日高点下跌16%（从7.75美元降至6.53美元），Blackwell Ultra B300较10月中旬高点下跌24%（从14.23美元降至10.87美元）。B300当前成交价恰好落在SpaceX对小集群Blackwell报价的10至12美元区间。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;更值得关注的是租金与Token价格的反向走势。自8月底以来，Ornn指数上B200租金上涨48%，而Anthropic的Token价格指数从每百万Token 1.46美元近乎腰斩至0.75美元。&lt;strong&gt;机器租用成本上涨约50%，而其产出的售价下跌约50%。&lt;/strong&gt;这只有在单GPU吞吐量提升更快、或杰文斯悖论带来足够用量增长时才成立。&lt;/p&gt;
+需求端：Ramp数据里的“杰文斯悖论破裂”
+&lt;p&gt;Ramp联合首席执行官Eric Glyman掌握着数万家美国企业实际支付给OpenAI和Anthropic的数据。他的表述直接：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“过去两个月，杰文斯悖论破裂了。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;数据支撑这一判断（截至10月）：Ramp上的Token支出7月增长42%，8月和9月合计仅增长1.5%，10月增长1.65%，而占全部企业AI支出80%的头部1%企业率先停滞。Ramp首席经济学家Ara Kharazian表示，“很多关于AI支出轨迹的假设正在开始瓦解”。Anthropic自己在文件中称，其降价使收入增长减少了约6亿美元——用量仍在上升，但不足以抵消降价。&lt;/p&gt;
+&lt;p&gt;Glyman对放缓原因的解释或许最令资本开支多头不安：&lt;strong&gt;企业购买AI所完成的许多工作并不需要更聪明的模型，因此“足够好”之后的更廉价智能并不能创造多少新增需求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不过最新一周数据有所回暖：截至11月15日当周，Token支出环比增长12%，用量增长27.2%，混合价格下降11.2%至每百万Token 0.45美元——这正是杰文斯悖论生效时的样子。8月Token价格暴跌40%后企业支出上升50%时，市场也曾短暂认为杰文斯悖论已经启动。然而，一周数据不足以构成趋势。&lt;/p&gt;
+反对意见：NewStreet称“回归常态，绝非崩塌”
+&lt;p&gt;针对SemiAnalysis报告引发的抛售，NewStreet发文《SpaceX的GPU租赁价格回归常态——我们的观点》，首先承认了降价事实，但给出截然不同的结论。&lt;/p&gt;
+&lt;p&gt;NewStreet认为，SpaceX只是取消了小集群溢价，使其报价与Anthropic、Google拿到的大集群报价对齐。按10至12美元/GPU/小时测算，满负荷下每吉瓦算力年收入可达500亿美元，对比约80亿美元的每吉瓦投入成本，&lt;strong&gt;回报依然可观&lt;/strong&gt;。同理，H200按5美元定价，满负荷下每吉瓦年收入约300亿美元，高于NewStreet为SpaceX测算的每吉瓦250亿美元收入基准，也显著高于其65亿美元的每吉瓦成本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NewStreet还列举了其他仍显示市场偏紧的价格信号：&lt;/strong&gt;Nebius于10月1日将B300按需租赁价格上调20%至9.5美元/GPU/小时；11月17日消息称，英伟达Hopper续约报价最高达到原先多年合同价格的两倍。&lt;/p&gt;
+&lt;p&gt;对于2027年，NewStreet预计SpaceX的XPU资本开支规模接近翻倍，新增算力陆续上线，叠加对东南亚限制带来的额外算力释放与回流美国市场，将推动价格进一步正常化，但在仍可保持不错回报的前提下，价格仍有调整空间。长期看，其预计SpaceX的AI云业务毛利率维持在40%至50%。结论是：&lt;strong&gt;本次信号只是存量算力续约带来的价格良性回归，目前没有证据表明供给会超过需求。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SemiAnalysis本身也未宣告见顶。&lt;/strong&gt;其维持GB300每IT兆瓦每年约5000万美元（即每吉瓦500亿美元，合12美元/GPU/小时）的假设，指出SpaceX新报价仍在该区间内，Vera Rubin定价将显著高于Blackwell，新Blackwell项目回报仍有吸引力，因此不预期降价会拖慢SpaceX 2027年的建设节奏。&lt;/p&gt;
+分歧的落点：谁在为15美元的租金加杠杆
+&lt;p&gt;多空双方在一点上实际并无分歧：&lt;strong&gt;新建项目在10至12美元仍算得过来，但已建成资产的租金开始下滑。&lt;/strong&gt; 对以该租金为抵押放贷的一方而言，这才是问题所在。&lt;/p&gt;
+&lt;p&gt;据高盛TMT专家Sean Johnstone，CoreWeave债券已跌至历史低点，HPE金融服务明确回避二手云及高风险融资，其融资部门虽支持更广泛的AI应用，但不向专业化、资本密集的AI云初创企业提供信贷。叠加此前贷款机构将预付款比例从80%下调至50%，中型二手云厂商面临抵押品贬值与融资收紧的双重挤压：上月每小时租金15美元的GPU，如今只值10至12美元，可支撑的债务相应减少。&lt;/p&gt;
+&lt;p&gt;多头亦有回应。戴尔周二晚间因AI服务器业绩超预期将全年每股收益指引上调16%，首席运营官Jeff Clarke对分析师表示，“我们认为2027日历年需求领先供给的程度将超过2026年”。CoreWeave的Michael Intrator仍坚持算力需求增速快于行业建设速度。但需注意，戴尔卖服务器、CoreWeave租服务器、SemiAnalysis卖TCO模型——&lt;strong&gt;卖铲子的人从未宣布过淘金热的结束。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高盛Delta-One负责人此前在“GS Basics”报告中写道，&lt;strong&gt;供给过剩而非电力或审批，仍是中期关键风险&lt;/strong&gt;；表面GPU现货租金受物理稀缺支撑，但优化与更小的专用模型正在快速压缩每Token推理成本，“看空理由不再是算力建不出来，而是效率突破可能跑赢需求增长”。&lt;/p&gt;
+&lt;p&gt;高盛TMT专家Johnstone则列出板块尚未解决的问题，包括“供给过剩与推理效率提升削弱算力需求的风险”，并称持续重估需要更好的利率、信贷与融资环境、数据中心容量的部署能力，以及第四季度——尤其是基础模型公司——证明AI收入增长足以支撑资本开支的证据。&lt;/p&gt;
+&lt;p&gt;信贷市场的反应印证了这一担忧。&lt;strong&gt;CoreWeave债券触及历史低点，HPE Financial Services也明确表示将避免为高风险的AI云初创公司提供融资。&lt;/strong&gt;对于那些以15美元时薪为抵押进行借款的新兴云服务商（Neoclouds）而言，抵押品价值跌至10至12美元将大幅削弱其债务支撑能力，私募信贷资金可能会重新评估该领域的风险。&lt;/p&gt;
+一个巧合的时间点
+&lt;p&gt;周三（11月25日），美国经济分析局将第三季度GDP增速大幅上修至4.3%，动力来自自疫情以来最大规模的AI资本开支驱动的投资潮。&lt;strong&gt;建设下一波产能的资金仍在流入，而上一波产能的租金已开始回落。&lt;/strong&gt;这是过度建设的教科书式序列：在稀缺价格顶点下单的产能，恰在稀缺消失时交付。&lt;/p&gt;
+&lt;p&gt;高盛的Tony Pasquariello在感恩节前的“市场/宏观”报告中提示，半导体过去一年的走势图“只适合心脏强健者”，并称“我的猜测是，回看时我们会把第二季度视为某种小型泡沫”。&lt;/p&gt;
+&lt;p&gt;乐观者会说，一个房东降价只是一个数据点，10美元的Blackwell仍是利润丰厚的Blackwell。但眼下的清单是：最大的GPU房东之一将批发价搬到了零售端，最大的AI实验室退回5万张GPU，成交租赁指数掉头向下，企业卡数据显示更便宜的Token不再换来成比例增长的需求。&lt;/p&gt;
+&lt;p&gt;ZeroHedge的判断是，这是过剩的开始而非噪音，为15美元租金加杠杆的二手云厂商及其背后的私募信贷基金将最先感受到。NewStreet的判断则是，这只是存量合约续约带来的良性价格回归，供给尚未超过需求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两方看的是同一组数字，分歧在于它是周期的起点，还是回归的中途。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI抛售拖累美股盘中重挫，逢低买盘力撑道指转涨，避险需求推升美债，贵金属深V反转</title><link>https://wallstreetcn.com/articles/3786656</link><guid>0f8e6ad69413e683ab7ec392a674cdac6a5ff89b173ec9aeb2bd9bd793f960e5</guid><pubDate>Wed, 25 Nov 2026 22:57:21 GMT</pubDate><description>&lt;p&gt;美国股市在感恩节假期前夕剧烈震荡，AI相关股票抛售一度拖累纳指深跌、进入技术性熊市，但逢低买盘介入，使主要指数显著脱离日内低点。科技股仍是压力核心，道指则逆势收高。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;周三标普500指数跌0.25%至7183.08点，纳斯达克综合指数跌0.65%至23579.44点，道琼斯工业平均指数涨0.31%至50173.90点。&lt;/p&gt;
 &lt;p&gt;板块层面，科技板块领跌，材料与房地产板块表现居前。节前交投清淡，成交量低于平均水平，美股周四休市、周五提前收盘。&lt;/p&gt;
@@ -94,7 +142,7 @@
 &lt;p&gt;英伟达目前评级为“AA”，表明其具备非常强的偿债能力，最高评级为“AAA”。&lt;/p&gt;
 &lt;p&gt;尽管评级机构相继调整立场，英伟达的信用基本面并未出现实质恶化。&lt;/p&gt;
 &lt;p&gt;此前穆迪维持其Aa1评级，这是仅次于最高级别的投资评级，并明确肯定公司财务状况依然“极为强劲”。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拯救纳指！“大空头”Burry转多：做空仓位几近清零，四分之一现金备战抄底</title><link>https://wallstreetcn.com/articles/3786713</link><guid>d3bbe754932b7905ffc4bd10072c9d46563d03a2b265c54cf3de4703f2e2cbef</guid><pubDate>Wed, 25 Nov 2026 23:01:34 GMT</pubDate><description>&lt;p&gt;因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 纳指“深V”惊险躲过大跌，但AI交易依旧在“寻底”</title><link>https://wallstreetcn.com/articles/3786723</link><guid>24b2a2e3e82139aec55927f9cb2d6dfe3de4e0808154bb6d5d99a599cf1cc3e3</guid><pubDate>Thu, 26 Nov 2026 00:31:18 GMT</pubDate><description>&lt;p&gt;周三美股上演惊心动魄的盘中大逆转，纳斯达克100指数在开盘仅15分钟暴跌近5%并一度触及熊市门槛后，午后逐步收复大部分失地，但市场对AI投资回报率及债务风险的深层质疑仍未消散。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;盘中极端波动凸显了华尔街对AI热潮可持续性的日益焦虑。尽管本周一英伟达宣布重新任命黄仁勋为CEO曾短暂提振市场情绪，但相关涨幅在随后两个交易日内大幅回吐，英伟达周三收跌3.9%。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;与此同时，信贷市场释放出更为严峻的预警信号。&lt;a href="https://wallstreetcn.com/articles/3786715"&gt;华尔街见闻提及&lt;/a&gt;，标普全球评级周三将英伟达的AA信用评级列入负面观察名单，而超大规模数据中心信用违约互换价格创下历史新高。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;多家机构指出，市场已聚焦于巨额资本开支何时能转化为实际盈利。随着美联储重新转向加息、地缘冲突与通胀压力交织，科技股的剧烈震荡短期内恐难平息。&lt;/p&gt;盘中深V反弹，历史数据暗示“非衰退熊市”跌势或近尾声&lt;p&gt;周三纽约证交所开盘伊始，抛单便如潮水般涌出。纳斯达克100指数在开盘后短短15分钟内重挫近5%，较历史峰值跌超20%、跌至熊市区间。道琼斯工业平均指数盘中一度下跌逾1000点。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;但午后美股展开了自2025年4月以来最大规模的盘中反弹，截至感恩节假期前收盘，纳斯达克100指数跌幅收窄至1%，道指则逆势收涨164点，涨幅0.3%。&lt;/p&gt;&lt;p&gt;午后行情的戏剧性反转得益于多重盘中因素的叠加：&lt;/p&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;据投行交易台反馈，美国联邦通信委员会（FCC）授权SpaceX部署用于构建太空数据中心星座的卫星，在地面数据中心建设频遭抵制的背景下为算力基建提供了新想象空间。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://wallstreetcn.com/articles/3786713"&gt;华尔街见闻提及&lt;/a&gt;，知名做空投资者Michael Burry也在社交媒体发文称已卖出剩余全部纳斯达克100指数看跌期权头寸。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;此外，在感恩节前夕市场流动性偏薄的环境下，触及熊市低点后的空头回补与日元套息交易重新点火，共同推动科技股上演逼空行情。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;p&gt;至此，纳斯达克100指数较10月6日的高点已回落约17%。据彭博统计，自2000年以来，纳斯达克100指数共经历六次完整的熊市，其中衰退期与非衰退期各占一半。&lt;/p&gt;&lt;p&gt;数据显示，非衰退期熊市的跌幅中位数为23%，平均耗时80个交易日；而衰退期熊市的跌幅中位数高达53.7%，耗时267个交易日。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;在非衰退期熊市中，当指数正式跌破20%熊市门槛时，92%的最终跌幅其实已经发生，且市场通常在随后的2个交易日内便会触及阶段性底部。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;历史复盘进一步表明，估值倍数压缩贡献了非衰退期熊市89%的跌幅。在触底后的17个交易日内（中位数），市场往往能收复一半失地，确认熊市后的12个月回报率中位数更是达到43.1%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;然而，底部区域的交易极度剧烈，自2000年以来，纳斯达克100指数85%的最佳单日涨幅和95%的最差单日跌幅均发生在熊市期间。&lt;/strong&gt;&lt;/p&gt;“AI央行”光环褪色，英伟达治理风波难消资本开支隐忧&lt;p&gt;在本轮回调中，半导体与AI基础设施板块首当其冲。&lt;/p&gt;&lt;p&gt;据《华尔街日报》报道，此前市场高度依赖芯片板块驱动盈利增长，第三季度标普500指数约三分之一的盈利增长仅由英伟达和美光科技两家公司贡献。但如今，投资者开始担忧科技巨头在AI领域的资本开支是否过度，以及其对英伟达、AMD、美光和Sandisk等芯片供应商的巨额采购承诺能否持续。&lt;/p&gt;&lt;p&gt;本周一，在特朗普的斡旋下，英伟达在罢免黄仁勋不到两周后宣布重新聘任其担任首席执行官。作为被称为“AI央行”的行业核心，黄仁勋的回归一度引发剧烈轧空行情并带动大盘飙升，但周三英伟达股价再度下挫3.9%，回吐了周一以来近一半的涨幅，甲骨文等AI概念股同样跌幅居前。&lt;/p&gt;&lt;p&gt;Cresset Capital执行董事总经理兼首席市场策略师Joseph Zidle表示：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;这比黄仁勋被免职一事的影响要深远得多。早在那之前，怀疑情绪就已经在市场中蔓延。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Running Oak Capital首席执行官Seth Cogswell更是直言，重新任命更像是一场未能奏效的“AI救助”，市场已经看穿了这一点。&lt;/p&gt;&lt;p&gt;Solstein Capital首席执行官Nadine Terman指出，市场正在重新审视核心逻辑：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;人们不再争论AI能否改变世界，而是在评估谁能赚钱、能赚多少，以及投入的巨额资本能否获得足够回报。极具讽刺意味的是，该行业完全可能在兑现技术承诺的同时，在财务上让投资者大失所望。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Gabelli Funds增长型投资组合董事总经理John Belton补充称，&lt;strong&gt;目前市场已开始提前定价超大规模云厂商的资本开支在明年见顶、并在2028年下滑的预期。&lt;/strong&gt;&lt;/p&gt;信贷市场拉响警报，高杠杆AI基建债务承压&lt;p&gt;相较于股市的剧烈拉锯，债券市场对AI交易的谨慎态度更为冷峻且持续。&lt;/p&gt;&lt;p&gt;据《华尔街日报》指出，周一股市反弹期间，投资级公司债相对于美国国债的收益率溢价几乎纹丝未动，依然停留在2025年5月以来的最高水平附近。与此同时，&lt;strong&gt;数据中心CDS创下历史新高。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;信用评级机构也对英伟达近期的管理层动荡做出了负面反应。标普全球评级周三将英伟达的AA信用评级列入负面观察名单，并直言此次高层风波“暴露了英伟达管理与治理框架中的脆弱性”。&lt;/p&gt;&lt;p&gt;高负债AI云计算服务商CoreWeave的债券表现，则成为信贷投资者焦虑情绪的最直观写照。该公司今年4月刚发行的2031年到期票据，周三交易价格跌至每1美元面值72美分附近，创下历史新低。&lt;/p&gt;&lt;p&gt;Joseph Zidle强调：&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;这是需要高度重视的信号。&lt;strong&gt;信贷投资者才是这轮AI交易真正的生命线，而他们现在正变得非常紧张。&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;在纽交所交易大厅工作了三十年的Meridian Equity Partners高级管理合伙人Jonathan Corpina表示，&lt;strong&gt;当前的市场氛围让他隐约想起了2008年金融危机时期——并非指抛售规模或对实体经济的冲击程度，而是那种“每天都在担心接下来会发生什么”的持续焦虑感。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Papamarkou Wellner Perkin总裁Thorne Perkin总结道，地缘冲突、顽固通胀与中期选举结果共同制造了一场“完美风暴”，&lt;strong&gt;过去三周密集涌现的不确定性，已超出短期内市场能够消化的极限。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拯救纳指！“大空头”Burry转多：做空仓位几近清零，四分之一现金备战抄底</title><link>https://wallstreetcn.com/articles/3786713</link><guid>d3bbe754932b7905ffc4bd10072c9d46563d03a2b265c54cf3de4703f2e2cbef</guid><pubDate>Wed, 25 Nov 2026 23:01:34 GMT</pubDate><description>&lt;p&gt;因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。&lt;/p&gt;
 &lt;p&gt;Burry周三早间在其Substack专栏&amp;quot;Cassandra Unchained&amp;quot;发文表示：&lt;strong&gt;&amp;quot;在全球范围内，我的投资组合比过去一段时间更加偏多，做空更少。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;他补充称，&lt;strong&gt;除Palantir和MetLife的看跌期权外，目前他&amp;quot;暂时几乎全部为多头&amp;quot;。&lt;/strong&gt;之所以说是&amp;quot;暂时&amp;quot;，是因为他仍在持续评估做空机会。&lt;/p&gt;
 &lt;p&gt;周三午间，美股收窄跌幅，成交量随之上升，显示投资者对解除部分看跌股票头寸的兴趣正在升温。纳斯达克100指数一度下跌逾4.7%，随后跌幅收窄至约一半；道琼斯工业平均指数则短暂转涨。&lt;/p&gt;
@@ -197,19 +245,7 @@ Starmind星座细节：轨道算力模块、光学星间链路与射频备份
 &lt;p&gt;耐用品订单是衡量美国制造业活动和企业资本支出意愿的重要指标之一。由于耐用品通常具有较长的使用寿命，其订单变化能够在一定程度上反映企业对未来经济活动和投资需求的判断。&lt;/p&gt;
 &lt;p&gt;10月整体订单增速低于预期，但剔除运输设备后的订单仍增长0.5%，机械设备订单更实现1.8%的增长，表明制造业需求内部表现并不一致。&lt;/p&gt;
 &lt;p&gt;整体数据走弱与部分企业设备投资需求保持韧性同时存在，尚不足以据此判断美国制造业需求出现全面收缩。&lt;/p&gt;
-&lt;p&gt;后续市场将继续关注企业资本品订单及出货量的变化，以判断企业投资需求能否延续，以及制造业活动是否会进一步降温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] OpenAI与马斯克年内第二次庭审交锋：聘请Cravath顶级律师迎战</title><link>https://wallstreetcn.com/articles/3786719</link><guid>8d17c0101069b10639250c37b6c2b16015595cb61a1a526db4efb0ea664f9977</guid><pubDate>Wed, 25 Nov 2026 21:45:16 GMT</pubDate><description>&lt;p&gt;OpenAI已指定Cravath, Swaine &amp;amp; Moore律所顶级合伙人Gary Bornstein担任首席辩护律师，应对马斯克旗下公司在得克萨斯州联邦法院提起的诉讼。该案将于明年3月在Fort Worth由陪审团审理，距马斯克在加州另一起诉讼中败诉尚不足一年。&lt;/p&gt;
-&lt;p&gt;据路透报道，&lt;strong&gt;Bornstein是Cravath诉讼部门联席负责人，将担任该案的首席庭审律师。马斯克一方则由Bartlit Beck律所的John Hughes担任首席庭审律师，该所曾代理哈佛大学招生平权案并最终打到美国最高法院。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这起案件由X Corp与SpaceX Super Intelligence于去年提起，指控苹果与OpenAI合谋垄断生成式AI聊天机器人市场。苹果已于9月与马斯克旗下公司达成和解，双方均未披露条款。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对投资者而言，这场庭审是马斯克与OpenAI持续多年的法律对抗的延续，也关系到生成式AI市场的竞争格局界定。案件由美国地区法官Mark Pittman审理。&lt;/p&gt;
-Cravath与Bartlit Beck领衔法庭交锋
-&lt;p&gt;OpenAI除Cravath外，还聘请了Wachtell, Lipton, Rosen &amp;amp; Katz，团队成员包括Stephen DiPrima和Kevin Schwartz。&lt;/p&gt;
-&lt;p&gt;Bornstein与Cravath的Lauren Moskowitz同时还在代理“Fortnite”开发商Epic Games对苹果应用商店业务的诉讼，Bornstein在该案中担任首席律师。&lt;/p&gt;
-&lt;p&gt;马斯克旗下公司除Bartlit Beck外，还由Axinn Veltrop和Stone Hilton的律师代理。&lt;/p&gt;
-&lt;p&gt;Hughes所在的Bartlit Beck曾在2018年代理一宗起诉哈佛大学招生做法的案件，该案促成了美国最高法院终止高校招生中考虑种族的裁决。&lt;/p&gt;
-年内第二场审判延续双方法律冲突
-&lt;p&gt;&lt;strong&gt;这是马斯克与OpenAI在不到一年内的第二次庭审交锋。今年5月，加州奥克兰联邦法院的陪审团裁定马斯克败诉，该案指控OpenAI背离了其创立时造福人类的初衷。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI由Sam Altman、马斯克等人在2015年创立，马斯克于2018年退出董事会，OpenAI次年开始设立营利性业务。&lt;/p&gt;
-&lt;p&gt;案件名称为X Corp and SpaceXAI v OpenAI，受理法院为美国得克萨斯州北区联邦地区法院，案号4:25-cv-00914-P。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “先卖了再说”！AI投资回报疑虑叠加通胀超预期，纳指100一度跌入熊市</title><link>https://wallstreetcn.com/articles/3786710</link><guid>be8f0ceb754b06ce8ec1e6719fe93a67657c8a591bb14b40784dbdc755745d4d</guid><pubDate>Wed, 25 Nov 2026 18:07:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;纳斯达克100指数连续第二日重挫，盘中一度较高点回落20%，触及熊市门槛。&lt;/strong&gt;对人工智能过度投资的担忧集中爆发，叠加通胀数据强化加息预期，科技股遭遇广泛抛售。&lt;/p&gt;
+&lt;p&gt;后续市场将继续关注企业资本品订单及出货量的变化，以判断企业投资需求能否延续，以及制造业活动是否会进一步降温。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “先卖了再说”！AI投资回报疑虑叠加通胀超预期，纳指100一度跌入熊市</title><link>https://wallstreetcn.com/articles/3786710</link><guid>be8f0ceb754b06ce8ec1e6719fe93a67657c8a591bb14b40784dbdc755745d4d</guid><pubDate>Wed, 25 Nov 2026 18:07:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;纳斯达克100指数连续第二日重挫，盘中一度较高点回落20%，触及熊市门槛。&lt;/strong&gt;对人工智能过度投资的担忧集中爆发，叠加通胀数据强化加息预期，科技股遭遇广泛抛售。&lt;/p&gt;
 &lt;p&gt;周三美股盘中，纳斯达克100下跌4.5%，标普500下跌2.9%。波动性率指数（VIX）升破33，追踪芯片股的交易所基金跌超过7%。纳斯达克100年内累计涨幅已转负。标普500正走向2008年金融危机以来表现最差的11月。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;“先卖出，后提问，”The Wealth Alliance总裁兼董事总经理Eric Diton表示：&lt;/p&gt;
@@ -262,26 +298,4 @@ Cravath与Bartlit Beck领衔法庭交锋
 &lt;p&gt;对食糖加征更高关税，与特朗普政府近期逐步扩大农产品关税豁免的趋势相悖，此前获豁免的包括可可、咖啡和橙汁等美国国内产量不足的品类。&lt;/p&gt;
 &lt;p&gt;美国食品杂货价格正在上涨，反映出能源成本上升正向食品供应链传导，以及异常强烈的厄尔尼诺现象的影响。&lt;/p&gt;
 &lt;p&gt;但特朗普也一直对巴西采取更强硬的关税措施。此前对巴西加征的关税中，曾提及巴西对美国乙醇征收关税，使美国生物燃料失去一个重要市场。Greer周三表示，最新举措为美国提供了“更大的筹码”，以推动巴西改变政策。&lt;/p&gt;
-&lt;p&gt;“我们真诚希望这一行动能促使巴西回到谈判桌前，就改善两国乙醇贸易进行善意讨论，”美国乙醇行业组织可再生燃料协会主席Geoff Cooper在声明中表示。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 韩股陷入“无差别抛售”：三星与SK海力士齐现死叉，高盛称估值已计入70%盈利暴跌</title><link>https://wallstreetcn.com/articles/3786692</link><guid>635e76b327e4b4055277f5549a5cd6a56a6dbe15b370f3dcc112cdca7ae724d7</guid><pubDate>Wed, 25 Nov 2026 12:39:52 GMT</pubDate><description>&lt;p&gt;韩国股市再度进入清算模式。KOSPI指数隔夜重挫，收于本轮AI行情调整启动以来的最低水平，三星电子与SK海力士双双跌破关键支撑并确认“死叉”，技术面全面恶化。与此同时，&lt;strong&gt;对冲基金正以十余年未见的速度撤离韩国市场，但高盛的估值框架显示，当前股价已隐含盈利预测被下调70%的极端情形。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛数据显示，亚洲基本面多空对冲基金的净杠杆率在一个月内骤降47.4个百分点至10%，为该行十余年数据中的最低读数。韩国市场的净配置比例已降至2.3%，处于过去一年的第11百分位，韩国与中国台湾继续主导亚洲范围内的抛售。&lt;/p&gt;
-&lt;p&gt;技术面上，&lt;strong&gt;KOSPI在4200点之前已无明显支撑，100日与200日均线形成的大级别看空交叉已经确立。&lt;/strong&gt;SK海力士连续两根大阴线，上周提示的死叉现已全面生效，首个有意义的支撑位正在逼近，但更关键的关口在80万韩元附近。三星电子跌破主要支撑，收于3月低点以来的最低位，下一道有效支撑远在下方，同样出现死叉。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;不过，&lt;strong&gt;高盛认为基本面风险回报正在变得“越来越有意思”。&lt;/strong&gt;按该行的情景分析，&lt;strong&gt;即便远期盈利预测被下调70%，在当前估值框架下仍对应温和的正回报。韩国半导体股目前市净率约为2028年账面价值的0.7倍，处于历史低位，高盛指出，类似估值水平历史上往往与半导体周期底部及可观的前瞻回报同时出现。&lt;/strong&gt;&lt;/p&gt;
-技术面全面失守
-&lt;p&gt;KOSPI隔夜再度大跌，收盘创下AI行情调整开始以来的新低，动量指标极度恶化，关键技术水平接连失守。指数在4200点区域之前缺乏有意义的支撑，100日与200日均线的看空交叉幅度显著。&lt;/p&gt;
-&lt;p&gt;周线RSI已跌至2022年10月以来的最低水平，指数正触及100周均线。三星电子与SK海力士的走势同样糟糕：前者跌破主要支撑并收于3月低点以来最低，后者连续两根大阴线后死叉全面生效。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-波动率异常平静
-&lt;p&gt;尽管KOSPI隔夜大跌，波动率却保持相对温和。市场可能正在进入一个投资者直接抛售多头、而非追逐对冲的阶段。&lt;/p&gt;
-&lt;p&gt;另一方面，&lt;strong&gt;KOSPI的“恐慌指数”已计入约3.75%的日均波动，对指数而言属于极高水平。&lt;/strong&gt;波动率关注的是波动的幅度而非方向，因此即便指数继续阴跌，波动率也可能保持平稳。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-对冲基金仓位遭“血洗”
-&lt;p&gt;对冲基金持续抛售韩国资产，净配置降至2.3%，处于过去一年第11百分位。韩国与中国台湾继续主导亚洲的卖盘。&lt;/p&gt;
-&lt;p&gt;值得注意的是，从五年回溯看，韩国敞口仍相对偏高。仓位重置的力度惨烈，但未必已经完成。亚洲基本面多空对冲基金净杠杆率一个月内下降47.4个百分点至10%，为高盛十余年数据中的最低值，该行称这一水平“超出极端范畴”。&lt;/p&gt;
-估值已计入灾难情景
-&lt;p&gt;韩国半导体股正以与“非常规盈利重置”相符的估值交易。高盛的情景分析显示，即便远期盈利预测被下调70%，在其估值框架下仍将对应温和的正回报，市场已在计入大量痛苦。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;韩国半导体股目前约为2028年账面价值的0.7倍，处于历史低位。&lt;/strong&gt;高盛指出，类似估值水平历史上往往与半导体周期底部和具吸引力的前瞻回报同时出现。便宜还可以更便宜，但这一机会正变得越来越值得关注。&lt;/p&gt;
-1300亿美元的回购托底
-&lt;p&gt;高盛预计，2027年韩国股票回购规模将超过1300亿美元。企业层面的买盘可能成为对抗外资抛售的越来越重要的力量，一旦清算潮消退，这将成为潜在的重大结构性顺风。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;技术面依然糟糕，但基本面的风险回报正变得愈发有吸引力。便宜本身不是催化剂，但部分价格错位已越来越难以忽视。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;“我们真诚希望这一行动能促使巴西回到谈判桌前，就改善两国乙醇贸易进行善意讨论，”美国乙醇行业组织可再生燃料协会主席Geoff Cooper在声明中表示。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
