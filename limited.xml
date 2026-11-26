@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 05:29:16 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 05:59:19 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
 &lt;p&gt;据SemiAnalysis向其机构客户发布的报告，SpaceX已将英伟达Blackwell GPU小集群的现货租赁报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅达20%至35%；同时，Anthropic将不再续租SpaceX一个约5万张H200的集群，该批算力已以约5美元/GPU/小时的价格重新对外报价，2027年初交付。科技媒体The Information以“&lt;strong&gt;AI股最大的担忧：芯片过剩&lt;/strong&gt;”为题报道了SemiAnalysis的核心观点。&lt;/p&gt;
 &lt;p&gt;在供给端出现松动的同时，&lt;strong&gt;企业端需求也显现疲态&lt;/strong&gt;。就在供给端出现松动的消息传出前数小时，支付公司Ramp联合首席执行官Eric Glyman表示，过去两个月AI的“杰文斯悖论”已经破裂——Token价格持续下跌，但使用量的增长已不足以弥补降价带来的收入损失。&lt;/p&gt;
 &lt;p&gt;市场反应迅速而剧烈。周二英伟达下跌近6%，回吐了周一31.5%涨幅的一部分；CoreWeave与Nebius各自大跌11%。周三英伟达再跌近4%。&lt;/p&gt;
@@ -104,21 +104,32 @@ Anthropic为何“退租”：一份可随时退出的合同
 &lt;p&gt;现货黄金走V收涨0.5%，盘中一度跌破3,500美元、随后反弹逾150美元。现货白银回到40.91美元，涨0.37%；铜涨0.47%至5.39美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币上涨0.7%，报60237.01美元，以太币上涨0.6%，报1688.59美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Neuralink：人脑植入临床试验获得美国食品药品管理局批准</title><link>https://wallstreetcn.com/articles/3786741</link><guid>467e843c3c1d68663bcbcc68b7bc28d4136de50f4e1d3d037e7ae6eb15b0a411</guid><pubDate>Thu, 26 Nov 2026 04:42:42 GMT</pubDate><description>&lt;p&gt;马斯克创立的脑机接口初创公司Neuralink已获得美国监管机构批准，将正式启动名为LINK的关键性临床试验，以评估其脑部植入设备在肌萎缩侧索硬化症（ALS）重度瘫痪患者中的安全性与有效性。此举标志着该公司从早期可行性探索迈向商业化上市审批的关键一步。&lt;/p&gt;
-&lt;p&gt;11月25日，Neuralink在其声明及社交平台X上宣布，已获得美国食品药品监督管理局（FDA）的批准，将在美国启动首个植入式脑机接口关键性临床试验LINK。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “华尔街先知”Yardeni：AI交易还活着但已经“瘸了”，别指望年底V型反弹</title><link>https://wallstreetcn.com/articles/3786743</link><guid>c293f99783981280c0e66a1478332c6937835e28cf4bce7f25eeaa377944a020</guid><pubDate>Thu, 26 Nov 2026 05:48:59 GMT</pubDate><description>&lt;p&gt;市场刚从上周五的恐慌性抛售中喘过一口气，“华尔街先知”、Yardeni Research总裁Ed Yardeni就泼了一盆冷水：AI交易没死，但已经“瘸了”，年底不会有V型反弹。&lt;/p&gt;
+&lt;p&gt;在11月25日接受CNBC-TV18采访时，Yardeni表示，他认为上周五的大跌已构成本轮调整的阶段性低点，但随后周一的全面反弹并不意味着趋势逆转。&lt;strong&gt;“我不会说就因为周一有了非凡的一天，我们就能V型复苏撑到年底。我认为接下来会继续非常非常震荡。”&lt;/strong&gt;与此同时，他呼吁美联储12月加息50个基点，而非市场普遍预期的25个基点，理由是通胀核心指标始终无法跌破3%。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;该公司表示，本次试验建立在超过30名早期受试者的研究基础之上，患有ALS的群体可能符合入组资格。&lt;/p&gt;
-&lt;p&gt;这项研究旨在收集更充分的临床安全性与有效性数据，为该脑机接口系统未来推向商业市场铺平道路。不过，&lt;strong&gt;此次获批仅针对临床试验本身，并不等同于批准植入物上市，该系统目前仍处于临床研究阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于资本市场而言，临床试验阶段的推进是验证脑机接口商业化路径的核心指标。Neuralink在脑机接口赛道的融资规模处于行业领先地位，据彭博亿万富翁指数显示，该公司去年完成了6.5亿美元融资，估值已达90亿美元。&lt;/p&gt;
-从早期验证迈向商业化审批
-&lt;p&gt;LINK试验的启动代表着Neuralink研发进程的阶段性跨越。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在此前的早期可行性试验中，该公司已累计为超过30名受试者植入设备，重点验证系统的基础安全性与基本功能，覆盖人群包括ALS及脊髓损伤导致的瘫痪患者。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;早在2025年，Neuralink便披露其首位ALS受试者Bradford Smith已能够仅凭大脑信号进行打字与交流。此次进入关键性试验阶段，意味着监管机构允许其在更严格的临床方案下进一步积累长期证据。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在技术路径上，Neuralink的系统通过手术将N1植入物置于患者颅骨内，并利用R1手术机器人将柔性电极丝精准植入大脑，以记录神经电活动&lt;/strong&gt;。随后，配套软件会解码与用户预期动作相关的神经信号，并将其转化为控制电脑或其他电子设备的指令。&lt;/p&gt;
-&lt;p&gt;Neuralink明确界定了该系统的功能边界，即旨在为严重肢体受限群体提供无需依赖传统物理外设的数字化交互方案。该技术并不能治愈ALS或瘫痪，也无法恢复受试者原有的肢体运动能力、躯体感觉或自然语言功能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关于LINK试验的具体执行细节，Neuralink在周三的公告中尚未披露拟招募的受试者总数、试验持续周期以及预计完成时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;针对外界关注的入组标准，该公司指出ALS患者可能符合参与条件，但单纯的ALS确诊并不能保证获得入组资格。潜在受试者必须满足研究方案设定的各项要求，并通过Neuralink的正式筛选流程。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前，该公司已引导有意向的参与者前往其临床试验官网查询最新招募动态，并着手推进受试者招募与临床方案落地。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普将英伟达列入“信用观察负面”名单，治理风险成评级焦点</title><link>https://wallstreetcn.com/articles/3786715</link><guid>f2f38e2f3870996ea57a4d9bd0be89ce99f51353fdae1c31b47c0abfb6f89094</guid><pubDate>Wed, 25 Nov 2026 20:56:28 GMT</pubDate><description>&lt;p&gt;11月25日周三，&lt;strong&gt;标普全球评级将英伟达的信用评级列入“信用观察负面”名单&lt;/strong&gt;，意味着这家当前评级为“AA”的芯片巨头可能在90天内遭遇下调。&lt;strong&gt;理由在于公司管理层与治理风险上升，这给投资者敲响了信用层面的警钟。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（Ed Yardeni接受采访截图）&lt;/p&gt;
+&lt;p&gt;这番表态发生在一个敏感节点：关税议题卷土重来，美国芯片出口管制收紧预期压制半导体板块，英伟达的融资模式也遭到质疑。多重压力叠加之下，韩国、日本股市周四当天均大幅下挫。&lt;/p&gt;
+AI交易：低点或已确认，但复苏之路颠簸
+&lt;p&gt;Yardeni对AI交易的判断分两层：短期低点大概率已现，但中期修复不会一帆风顺。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“AI交易我认为是活着的，而且活得还不错，但它在跛行。”&lt;/strong&gt;他说，市场需要时间等待两件事落地：一是大规模数据中心基础设施投入能否真正转化为企业盈利；二是出口管制收紧的实际影响究竟有多深。&lt;/p&gt;
+&lt;p&gt;对于上周五的市场表现，Yardeni用&amp;quot;事后来看&amp;quot;的口吻确认了低点判断。&lt;strong&gt;“即便在周五当天，那真的感觉像是一次恐慌性抛售，人们不分青红皂白地卖掉一切，然后周一又不分青红皂白地买回一切。”&lt;/strong&gt;他认为，市场需要的是时间沉淀，而不是追涨。&lt;/p&gt;
+黄仁勋需要“回归地球”，循环融资必须降速
+&lt;p&gt;Yardeni对英伟达及其CEO黄仁勋的融资模式提出了直接批评。他认为，这是英伟达的“第二轮”，而这一次黄仁勋必须踩刹车。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“他得某种程度上回归地球，认识到他做的很多事情是非常积极正面的，但这种循环融资真的必须放慢。”&lt;/strong&gt;Yardeni还点名提及此前黄仁勋在CNBC纽约纳斯达克现场谈及的那笔由华尔街大行筹集的5000亿美元资金计划，&lt;strong&gt;“那没有发生，大概率也不会发生。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他的结论是：&lt;strong&gt;“我们需要减速带，而我们正在得到减速带。AI之路上的减速带能避免事故，我认为这是积极的。”&lt;/strong&gt;在他看来，当前的市场波动与监管收紧，恰恰是AI产业走向可持续发展的必要代价。&lt;/p&gt;
+关税、美联储、AI——三重疲劳压制市场情绪
+&lt;p&gt;Yardeni将当前市场的困境归结为三种“疲劳”同时发酵：AI疲劳、关税疲劳、美联储疲劳。&lt;/p&gt;
+&lt;p&gt;关税方面，他承认消息面对市场造成了冲击，但也提醒不必过度解读。&lt;strong&gt;“我们去年学到的是，关税头条不一定等于最终政策决定，很多是谈判筹码。只是……让人厌倦了。我们都希望能达成协议然后翻篇。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美联储方面，Yardeni的立场比市场更鹰派。他认为12月应加息50个基点，而非共识的25个基点，核心依据是通胀数据始终不配合。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“当你看消费支出平减指数的同比变化——也就是美联储盯着的那个关键通胀指标——它就是一直顶着3这个数字。换句话说，它没有2字头，不是2.5%，更像是3%甚至更高。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他同时指出，大宗商品价格普遍走弱——铜、金、银、粮食均有所回落——或许在向市场传递通胀明年将趋于温和的信号，但这还不足以让美联储放松警惕。&lt;/p&gt;
+黄金失去避险光环，美债、印度成为资金“避风港”
+&lt;p&gt;在贵金属问题上，Yardeni坦承自己“失去了信心”。他原本预期黄金能在市场动荡中扮演避险角色，但现实并非如此。&lt;strong&gt;“你会以为在这么多动荡之下，黄金会是某种避风港，但完全没有按这个逻辑走。”&lt;/strong&gt;他&lt;/p&gt;
+&lt;p&gt;真正承接避险资金的，是美国国债，以及——在一段时间内——印度市场。&lt;/p&gt;
+&lt;p&gt;Yardeni认为，印度受益于一个结构性逻辑转变：投资者开始意识到AI并非市场唯一的主线，同时也开始担忧AI泡沫中仍有尚未释放的空气。&lt;strong&gt;“他们宁愿待在一段时间内表现不佳的市场领域，印度就是其中之一。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他将这一现象与美国国内价值股跑赢成长股的趋势相提并论，认为这是一种周期性的风格切换，&amp;quot;以前发生过，现在又在发生&amp;quot;。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普将英伟达列入“信用观察负面”名单，治理风险成评级焦点</title><link>https://wallstreetcn.com/articles/3786715</link><guid>f2f38e2f3870996ea57a4d9bd0be89ce99f51353fdae1c31b47c0abfb6f89094</guid><pubDate>Wed, 25 Nov 2026 20:56:28 GMT</pubDate><description>&lt;p&gt;11月25日周三，&lt;strong&gt;标普全球评级将英伟达的信用评级列入“信用观察负面”名单&lt;/strong&gt;，意味着这家当前评级为“AA”的芯片巨头可能在90天内遭遇下调。&lt;strong&gt;理由在于公司管理层与治理风险上升，这给投资者敲响了信用层面的警钟。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这是英伟达治理风波从董事会层面传导至信用市场的直接体现。本周，董事会先宣布将寻找黄仁勋的继任者，随后又恢复了他的CEO职务，而独立董事委员会对其本人的调查仍在进行中。&lt;/p&gt;
 &lt;p&gt;据路透社报道，&lt;strong&gt;标普明确表态，这一事件暴露了英伟达管理层与治理框架的脆弱性，尤其是董事会结构、构成与有效性方面的不足。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周三穆迪已经下调英伟达评级展望。&lt;a href="https://wallstreetcn.com/articles/3786235"&gt;华尔街见闻提及&lt;/a&gt;，11月18日，穆迪将英伟达评级展望由“正面”下调至“稳定”，维持Aa1高级无担保债务评级不变。&lt;/p&gt;
@@ -133,7 +144,21 @@ Anthropic为何“退租”：一份可随时退出的合同
 &lt;p&gt;英伟达目前评级为“AA”，表明其具备非常强的偿债能力，最高评级为“AAA”。&lt;/p&gt;
 &lt;p&gt;尽管评级机构相继调整立场，英伟达的信用基本面并未出现实质恶化。&lt;/p&gt;
 &lt;p&gt;此前穆迪维持其Aa1评级，这是仅次于最高级别的投资评级，并明确肯定公司财务状况依然“极为强劲”。&lt;/p&gt;
- &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板早盘冲高回落微涨0.1%，PCB、化工走强，恒指、恒科指集体拉升，AI大模型双雄均大涨超10%</title><link>https://wallstreetcn.com/articles/3786732</link><guid>87d62e68b7eb4482ee10dae826002466225424bafd45566f09075e155b6e38d5</guid><pubDate>Thu, 26 Nov 2026 04:04:06 GMT</pubDate><description>&lt;p&gt;隔夜美国PCE超预期推升12月加息预期、AI抛售后避险情绪升温，贵金属走出&amp;quot;V型&amp;quot;反弹，PCB则受紧缺警报与AI服务器放量双重提振。&lt;/p&gt;
+ &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Neuralink：人脑植入临床试验获得美国食品药品管理局批准</title><link>https://wallstreetcn.com/articles/3786741</link><guid>467e843c3c1d68663bcbcc68b7bc28d4136de50f4e1d3d037e7ae6eb15b0a411</guid><pubDate>Thu, 26 Nov 2026 04:42:42 GMT</pubDate><description>&lt;p&gt;马斯克创立的脑机接口初创公司Neuralink已获得美国监管机构批准，将正式启动名为LINK的关键性临床试验，以评估其脑部植入设备在肌萎缩侧索硬化症（ALS）重度瘫痪患者中的安全性与有效性。此举标志着该公司从早期可行性探索迈向商业化上市审批的关键一步。&lt;/p&gt;
+&lt;p&gt;11月25日，Neuralink在其声明及社交平台X上宣布，已获得美国食品药品监督管理局（FDA）的批准，将在美国启动首个植入式脑机接口关键性临床试验LINK。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;该公司表示，本次试验建立在超过30名早期受试者的研究基础之上，患有ALS的群体可能符合入组资格。&lt;/p&gt;
+&lt;p&gt;这项研究旨在收集更充分的临床安全性与有效性数据，为该脑机接口系统未来推向商业市场铺平道路。不过，&lt;strong&gt;此次获批仅针对临床试验本身，并不等同于批准植入物上市，该系统目前仍处于临床研究阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于资本市场而言，临床试验阶段的推进是验证脑机接口商业化路径的核心指标。Neuralink在脑机接口赛道的融资规模处于行业领先地位，据彭博亿万富翁指数显示，该公司去年完成了6.5亿美元融资，估值已达90亿美元。&lt;/p&gt;
+从早期验证迈向商业化审批
+&lt;p&gt;LINK试验的启动代表着Neuralink研发进程的阶段性跨越。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在此前的早期可行性试验中，该公司已累计为超过30名受试者植入设备，重点验证系统的基础安全性与基本功能，覆盖人群包括ALS及脊髓损伤导致的瘫痪患者。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早在2025年，Neuralink便披露其首位ALS受试者Bradford Smith已能够仅凭大脑信号进行打字与交流。此次进入关键性试验阶段，意味着监管机构允许其在更严格的临床方案下进一步积累长期证据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在技术路径上，Neuralink的系统通过手术将N1植入物置于患者颅骨内，并利用R1手术机器人将柔性电极丝精准植入大脑，以记录神经电活动&lt;/strong&gt;。随后，配套软件会解码与用户预期动作相关的神经信号，并将其转化为控制电脑或其他电子设备的指令。&lt;/p&gt;
+&lt;p&gt;Neuralink明确界定了该系统的功能边界，即旨在为严重肢体受限群体提供无需依赖传统物理外设的数字化交互方案。该技术并不能治愈ALS或瘫痪，也无法恢复受试者原有的肢体运动能力、躯体感觉或自然语言功能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于LINK试验的具体执行细节，Neuralink在周三的公告中尚未披露拟招募的受试者总数、试验持续周期以及预计完成时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;针对外界关注的入组标准，该公司指出ALS患者可能符合参与条件，但单纯的ALS确诊并不能保证获得入组资格。潜在受试者必须满足研究方案设定的各项要求，并通过Neuralink的正式筛选流程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前，该公司已引导有意向的参与者前往其临床试验官网查询最新招募动态，并着手推进受试者招募与临床方案落地。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 创业板早盘冲高回落微涨0.1%，PCB、化工走强，恒指、恒科指集体拉升，AI大模型双雄均大涨超10%</title><link>https://wallstreetcn.com/articles/3786732</link><guid>87d62e68b7eb4482ee10dae826002466225424bafd45566f09075e155b6e38d5</guid><pubDate>Thu, 26 Nov 2026 04:04:06 GMT</pubDate><description>&lt;p&gt;隔夜美国PCE超预期推升12月加息预期、AI抛售后避险情绪升温，贵金属走出&amp;quot;V型&amp;quot;反弹，PCB则受紧缺警报与AI服务器放量双重提振。&lt;/p&gt;
 &lt;p&gt;11月26日，A股早盘冲高回落，创业板指小幅上涨，盘中一度涨超2%。AI硬件侧局部活跃，电路板、覆铜板拉升，工业金属、盐湖提锂、铜产业等概念股上涨。油气、煤炭等板块上涨。疫苗、物理AI、机器人等概念股陷入调整。&lt;/p&gt;
 &lt;p&gt;港股高开高走，恒指、恒科指双双大涨，恒科指一度涨超3%，权重科网股反弹，芯片、光模块、光纤等科技股拉升。AI大模型股强势爆发，智谱、MINIMAX均大涨超10%。债市方面，国债期货集体下跌。商品方面，国内商品期货普遍上涨。核心市场走势：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -248,24 +273,7 @@ DRAM持续回暖，NAND加速探底
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI避风港！一片惨跌声中，印度股市11月涨逾12%领跑全球</title><link>https://wallstreetcn.com/articles/3786733</link><guid>47b92810ae9ea9365ec9130f567f11b3611ce11b83e367810170f41d6a50e298</guid><pubDate>Thu, 26 Nov 2026 02:45:29 GMT</pubDate><description>&lt;p&gt;当全球AI科技股遭遇抛售、亚太市场普遍下挫之际，印度股市却凭借低AI敞口的“意外优势”，成为本轮行情中最大的受益者。&lt;/p&gt;
-&lt;p&gt;11月25日，印度Sensex指数收报83938点，Nifty 50收报25819.25点，单日涨幅均超过1.8%。11月以来，两大基准指数累计涨幅已超过12%，在全球90多个主要市场中排名第一。与此同时，外国投资者本月已向印度股市净流入142.8亿美元，有望创下单月流入纪录。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;同日，亚太科技股集体重挫。韩国KOSPI指数单日收跌6.16%，三星电子跌9.87%，SK海力士跌11.05%；日经225指数收跌2.78%，软银集团跌近15%。印度与周边市场的走势分化，在这一天被放大至极致。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-低AI敞口，从“劣势”变“优势”
-&lt;p&gt;随着市场开始质疑高企的AI估值和巨额资本开支计划能否持续，全球资金加速从AI相关股票中撤出，转向与AI产业关联度较低的市场。印度因此成为这一轮资金轮动的主要目的地。&lt;/p&gt;
-&lt;p&gt;据路透社数据，11月外国投资者已向印度股市净流入142.8亿美元，大量资金集中流向印度市值最大的蓝筹公司，包括大型银行和综合企业集团。&lt;/p&gt;
-&lt;p&gt;分析师对此直言：“过去两年，印度市场表现落后，原因很简单，就是缺乏AI产业敞口。但在当前这个时点，这反而成为了一项优势。”&lt;/p&gt;
-&lt;p&gt;美国银行上周发布的亚洲基金经理调查报告也印证了这一趋势——受访基金经理普遍大幅削减了对东亚半导体板块及全球泛科技股的超配比例，而印度股票市场则自今年1月以来首次转为净超配，净超配比例升至5%。&lt;/p&gt;
-企业盈利超预期，基本面提供支撑
-&lt;p&gt;资金面之外，企业盈利的改善为这轮反弹提供了另一重支撑。&lt;/p&gt;
-&lt;p&gt;野村控股印度分部在一份报告中指出，其追踪的264家印度企业，截至9月的第三季度净利润同比增长31%，较市场一致预期高出14个百分点。即便剔除石油天然气企业和金属生产商，盈利仍同比增长23%，超出市场预期5个百分点。&lt;/p&gt;
-&lt;p&gt;与此同时，国际油价的回落也为印度市场提供了额外利好。由于印度大部分原油需求依赖进口，油价下跌有助于缓解进口成本、通胀及经常账户赤字压力，并对企业利润率和卢比汇率形成正面支撑。&lt;/p&gt;
-机构上调评级，看好分散化配置价值
-&lt;p&gt;机构层面，高盛策略团队已在亚太区域内将印度市场上调至“超配”评级，理由是印度对AI算力和半导体的敞口较低，在AI资本开支增速放缓、科技硬件板块承压的背景下，具备分散化的配置价值。&lt;/p&gt;
-&lt;p&gt;值得注意的是，这轮上涨也标志着印度股市此前连续数月跑输全球的局面出现逆转——彼时市场表现不佳，部分原因正是印度对AI相关投资机会的参与度相对有限。截至11月25日收盘，Sensex和Nifty 50两大指数已几乎抹平今年以来的全部跌幅。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 边养6个孩子边创业！Vercel创始人要做“面向Agent”的互联网</title><link>https://wallstreetcn.com/articles/3786736</link><guid>7c8aa2e628bdb970108589302a8980e9be4e3082fea68ba9a7adac80ab5a8876</guid><pubDate>Thu, 26 Nov 2026 03:59:18 GMT</pubDate><description>&lt;p&gt;Vercel创始人兼CEO Guillermo Rauch认为，互联网正在经历一次根本性的重构——从服务人类的界面，转向服务Agent的基础设施。这一判断，已经在他自己公司的数据里得到印证。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 边养6个孩子边创业！Vercel创始人要做“面向Agent”的互联网</title><link>https://wallstreetcn.com/articles/3786736</link><guid>7c8aa2e628bdb970108589302a8980e9be4e3082fea68ba9a7adac80ab5a8876</guid><pubDate>Thu, 26 Nov 2026 03:59:18 GMT</pubDate><description>&lt;p&gt;Vercel创始人兼CEO Guillermo Rauch认为，互联网正在经历一次根本性的重构——从服务人类的界面，转向服务Agent的基础设施。这一判断，已经在他自己公司的数据里得到印证。&lt;/p&gt;
 &lt;p&gt;在近期一档播客节目中，Rauch披露了一组数字：2026年初，Vercel平台上仅有3%的部署由AI Agent完成；不到10个月后，这一比例已超过60%。他预测，到2027年初，这个数字将达到90%。“我们用了10年时间，从零做到10亿次部署，”他说，“而现在，我们每四个月就新增12亿次部署，因为完成这些工作的不再是人类，而是Agent。”&lt;/p&gt;
 &lt;p&gt;Vercel目前年化营收约7亿美元，客户涵盖McDonald&amp;#x27;s、OpenAI、Supreme等大型企业，并为Meta、SpaceX等公司的应用提供基础设施支撑。Rauch在访谈中系统阐述了他对“Agent互联网”的判断，以及Vercel如何围绕这一趋势重新定位自身。&lt;/p&gt;
 &lt;p&gt;对于Vercel本人，他有6个孩子并且每天工作，创业热情饱满的他甚至觉得“996都是业余水平”。&lt;/p&gt;
@@ -299,36 +307,7 @@ DRAM持续回暖，NAND加速探底
 &lt;p&gt;关于“AI 会不会让人变笨”，他的回答是一个分层判断：会有人像当年被电视吸住一样，成为被动的消费者；也会有人抓住这项技术。“我喜欢扎克伯格讲个人超级智能的那套愿景——我们不是在把智能外包出去，而是在给自己的能力加一层增益。这可能是 Meta 真正的一次回归时刻。”&lt;/p&gt;
 &lt;p&gt;他更担心的风险落在治理与信息环境上。他提到一次与 AI 领袖和国家安全人士的会议，“一位政府的人把编程模型称为数字核武器”，这是从网络安全角度对风险的最高定性。他的应对思路是攻防对称：“最不该发生的事，是模型在网络安全上占据道德高地，说我不碰这些东西。开放权重模型今天很有价值，因为你可以调整护栏，甚至拿它攻击自己的环境，问我的缺口在哪里。”他也在 Vercel 的 AI 网关上启动项目，把模型指向企业自身环境做安全审计。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏</title><link>https://wallstreetcn.com/articles/3786735</link><guid>22d59578dfa0a2b4000ae2415426dc6f3c61c44d716c1988e82129c21f76c6b5</guid><pubDate>Thu, 26 Nov 2026 02:51:05 GMT</pubDate><description>&lt;p&gt;全球贸易政策的变化，正在推动SHEIN（希音）重新调整区域经营策略。&lt;/p&gt;
-&lt;p&gt;11月25日，SHEIN公布2026年第三季度业绩，实现净收入102.71亿美元，同比下降5.9%；经营利润7.43亿美元，同比增长17.4%。&lt;/p&gt;
-&lt;p&gt;期内净利润同比增长 654.5% 至 46.48 亿美元，其中 40.75 亿美元来自上市相关的优先股公允价值变动等非现金一次性收益；经调整净利润为7.9亿美元，同比增长26.8%、环比增长246.5%，高于高盛此前预测的6.74亿美元。&lt;/p&gt;
-&lt;p&gt;三季度是欧盟取消低价值商品关税豁免后的首个完整季度。SHEIN欧洲市场收入降幅进一步扩大，但美国市场需求已出现企稳迹象，拉美等新兴市场则继续贡献增量。&lt;/p&gt;
-&lt;p&gt;今年7月1日起，欧盟取消150欧元以下包裹的关税豁免，并对每类商品征收3欧元关税。&lt;/p&gt;
-&lt;p&gt;为覆盖新增成本，SHEIN自二季度起上调欧洲市场的商品售价，并根据投资回报率重新分配营销资源。&lt;/p&gt;
-&lt;p&gt;相关举措的影响在三季度进一步显现。期内SHEIN欧洲市场收入同比下降27.6%至29.77亿美元，占集团收入的比重从去年同期的37.7%降至29%。&lt;/p&gt;
-&lt;p&gt;美国市场则呈现出不同的经营趋势。&lt;/p&gt;
-&lt;p&gt;三季度SHEIN美国市场收入同比下降9.4%至23.69亿美元，但履约订单量实现中个位数增长，需求呈现逐月改善趋势。&lt;/p&gt;
-&lt;p&gt;收入与订单量的表现分化，主要源于美国第三方商城业务占比提升。在这一模式下，SHEIN主要确认平台服务收入，而非全部商品销售金额。&lt;/p&gt;
-&lt;p&gt;SHEIN董事会主席兼CEO许仰天在业绩会上表示，提价会在短期内影响消费者的购买量，但只要商品在价格、设计和质量的组合上保持竞争力，消费者仍会回归SHEIN。&lt;/p&gt;
-&lt;p&gt;许仰天预计，美国市场长期的常态化年增长率有望达到高个位数。&lt;/p&gt;
-&lt;p&gt;欧美之外的市场正在成为更重要的增长来源。&lt;/p&gt;
-&lt;p&gt;三季度，SHEIN其他地区收入同比增长17.7%至49.25亿美元，占集团收入的比重已达48%。其中部分拉美国家继续保持健康增长，中东市场的订单量也已恢复同比正增长。&lt;/p&gt;
-&lt;p&gt;收入承压之下，SHEIN的盈利表现有所改善。&lt;/p&gt;
-&lt;p&gt;三季度营销费用同比下降41.5%至10.54亿美元，占收入的比重从去年同期的16.5%降至10.3%；受部分关税退还、运费回落等因素影响，履约费用率也从二季度的50.4%降至45.7%。&lt;/p&gt;
-&lt;p&gt;剔除一次性因素后，SHEIN经调整净利润率仍环比提升一倍以上至4.7%。&lt;/p&gt;
-&lt;p&gt;不过，对于欧洲市场而言，短期经营压力尚未完全释放。&lt;/p&gt;
-&lt;p&gt;11月1日起，欧盟针对每类商品额外征收2欧元处理费。许仰天透露，新增成本也将反映在商品售价中，预计未来几个季度欧洲市场仍将承压。&lt;/p&gt;
-&lt;p&gt;为应对贸易政策变化，SHEIN正加快推进“小额快备”模式，通过小批量备货及本地配送改善履约效率。&lt;/p&gt;
-&lt;p&gt;三季度，该模式已覆盖欧洲客户40%以上的配送量，较二季度增长一倍以上，预计年底将达到约50%，并于2027年下半年覆盖当地大部分配送。&lt;/p&gt;
-&lt;p&gt;据许仰天介绍，相比跨境配送，通过“小额快备”履约的商品在配送时效、成本、转化率及单件盈利等方面均表现更优。随着规模扩大，履约成本还有进一步下降的空间。&lt;/p&gt;
-&lt;p&gt;许仰天预计，欧洲市场或于2027年下半年迎来逐步复苏，长期年收入增速有望超过10%。&lt;/p&gt;
-&lt;p&gt;除了履约模式的调整，SHEIN也希望触达更广泛的消费群体。&lt;/p&gt;
-&lt;p&gt;许仰天在业绩会上重申了三项战略优先事项：拓宽商品价格带、持续优化质量及合规水平，以及加强与消费者的沟通。&lt;/p&gt;
-&lt;p&gt;在全球生活成本提升的背景下，许仰天认为，消费者将更加重视商品在时尚度、品质与价格上的综合表现，这将为具备柔性供应链优势的SHEIN带来机会。&lt;/p&gt;
-&lt;p&gt;其中，品牌赋能业务是SHEIN拓宽价格带的重要抓手，目前已与20多个品牌展开合作。&lt;/p&gt;
-&lt;p&gt;许仰天强调，自营仍是SHEIN的核心业务，预计未来自营与第三方业务的GMV结构将趋于稳定。在第三方业务内部，品牌赋能业务的增速有望快于商城业务。&lt;/p&gt;
-&lt;p&gt;“这件事是多年的过程，急不来。”许仰天表示，寻找合适的品牌合作伙伴及双方磨合均需要时间，但长期来看，品牌赋能业务可能成为关键的利润驱动力。&lt;/p&gt;
-&lt;p&gt;“希音的增长不依赖于单一市场。”许仰天表示，随着业务布局进一步多元化，SHEIN希望通过更丰富的商品供给和更具竞争力的价值主张，满足全球消费者不断变化的需求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拯救纳指！“大空头”Burry转多：做空仓位几近清零，四分之一现金备战抄底</title><link>https://wallstreetcn.com/articles/3786713</link><guid>d3bbe754932b7905ffc4bd10072c9d46563d03a2b265c54cf3de4703f2e2cbef</guid><pubDate>Wed, 25 Nov 2026 23:01:34 GMT</pubDate><description>&lt;p&gt;因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拯救纳指！“大空头”Burry转多：做空仓位几近清零，四分之一现金备战抄底</title><link>https://wallstreetcn.com/articles/3786713</link><guid>d3bbe754932b7905ffc4bd10072c9d46563d03a2b265c54cf3de4703f2e2cbef</guid><pubDate>Wed, 25 Nov 2026 23:01:34 GMT</pubDate><description>&lt;p&gt;因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。&lt;/p&gt;
 &lt;p&gt;Burry周三早间在其Substack专栏&amp;quot;Cassandra Unchained&amp;quot;发文表示：&lt;strong&gt;&amp;quot;在全球范围内，我的投资组合比过去一段时间更加偏多，做空更少。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;他补充称，&lt;strong&gt;除Palantir和MetLife的看跌期权外，目前他&amp;quot;暂时几乎全部为多头&amp;quot;。&lt;/strong&gt;之所以说是&amp;quot;暂时&amp;quot;，是因为他仍在持续评估做空机会。&lt;/p&gt;
 &lt;p&gt;周三午间，美股收窄跌幅，成交量随之上升，显示投资者对解除部分看跌股票头寸的兴趣正在升温。纳斯达克100指数一度下跌逾4.7%，随后跌幅收窄至约一半；道琼斯工业平均指数则短暂转涨。&lt;/p&gt;
@@ -348,7 +327,24 @@ DRAM持续回暖，NAND加速探底
 &lt;p&gt;Burry的仓位调整发生在科技股遭遇显著回撤的背景下。纳斯达克100指数盘中触及熊市门槛，反映市场对AI驱动涨势可持续性的疑虑正在加深。&lt;/p&gt;
 &lt;p&gt;对投资者而言，Burry的动向提供了一个观察专业投资者如何在波动加剧时重新配置风险的视角：看跌期权成本高企削弱了对冲效率，而直接做空在不对称风险下并不划算，这促使部分资金转向被低估的个股与长期期权。&lt;/p&gt;
 &lt;p&gt;Burry明确表示，其当前偏多立场是&amp;quot;暂时的&amp;quot;，做空机会仍在评估之中。&lt;/p&gt;
-&lt;p&gt;他给出的再次做空英伟达的参考价位为每股200美元，且需等待市场乐观情绪回升的窗口。这一条件设置暗示，他并不认为当前下跌已经结束，而是在等待更好的做空入场时机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “先卖了再说”！AI投资回报疑虑叠加通胀超预期，纳指100一度跌入熊市</title><link>https://wallstreetcn.com/articles/3786710</link><guid>be8f0ceb754b06ce8ec1e6719fe93a67657c8a591bb14b40784dbdc755745d4d</guid><pubDate>Wed, 25 Nov 2026 18:07:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;纳斯达克100指数连续第二日重挫，盘中一度较高点回落20%，触及熊市门槛。&lt;/strong&gt;对人工智能过度投资的担忧集中爆发，叠加通胀数据强化加息预期，科技股遭遇广泛抛售。&lt;/p&gt;
+&lt;p&gt;他给出的再次做空英伟达的参考价位为每股200美元，且需等待市场乐观情绪回升的窗口。这一条件设置暗示，他并不认为当前下跌已经结束，而是在等待更好的做空入场时机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI避风港！一片惨跌声中，印度股市11月涨逾12%领跑全球</title><link>https://wallstreetcn.com/articles/3786733</link><guid>47b92810ae9ea9365ec9130f567f11b3611ce11b83e367810170f41d6a50e298</guid><pubDate>Thu, 26 Nov 2026 02:45:29 GMT</pubDate><description>&lt;p&gt;当全球AI科技股遭遇抛售、亚太市场普遍下挫之际，印度股市却凭借低AI敞口的“意外优势”，成为本轮行情中最大的受益者。&lt;/p&gt;
+&lt;p&gt;11月25日，印度Sensex指数收报83938点，Nifty 50收报25819.25点，单日涨幅均超过1.8%。11月以来，两大基准指数累计涨幅已超过12%，在全球90多个主要市场中排名第一。与此同时，外国投资者本月已向印度股市净流入142.8亿美元，有望创下单月流入纪录。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;同日，亚太科技股集体重挫。韩国KOSPI指数单日收跌6.16%，三星电子跌9.87%，SK海力士跌11.05%；日经225指数收跌2.78%，软银集团跌近15%。印度与周边市场的走势分化，在这一天被放大至极致。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+低AI敞口，从“劣势”变“优势”
+&lt;p&gt;随着市场开始质疑高企的AI估值和巨额资本开支计划能否持续，全球资金加速从AI相关股票中撤出，转向与AI产业关联度较低的市场。印度因此成为这一轮资金轮动的主要目的地。&lt;/p&gt;
+&lt;p&gt;据路透社数据，11月外国投资者已向印度股市净流入142.8亿美元，大量资金集中流向印度市值最大的蓝筹公司，包括大型银行和综合企业集团。&lt;/p&gt;
+&lt;p&gt;分析师对此直言：“过去两年，印度市场表现落后，原因很简单，就是缺乏AI产业敞口。但在当前这个时点，这反而成为了一项优势。”&lt;/p&gt;
+&lt;p&gt;美国银行上周发布的亚洲基金经理调查报告也印证了这一趋势——受访基金经理普遍大幅削减了对东亚半导体板块及全球泛科技股的超配比例，而印度股票市场则自今年1月以来首次转为净超配，净超配比例升至5%。&lt;/p&gt;
+企业盈利超预期，基本面提供支撑
+&lt;p&gt;资金面之外，企业盈利的改善为这轮反弹提供了另一重支撑。&lt;/p&gt;
+&lt;p&gt;野村控股印度分部在一份报告中指出，其追踪的264家印度企业，截至9月的第三季度净利润同比增长31%，较市场一致预期高出14个百分点。即便剔除石油天然气企业和金属生产商，盈利仍同比增长23%，超出市场预期5个百分点。&lt;/p&gt;
+&lt;p&gt;与此同时，国际油价的回落也为印度市场提供了额外利好。由于印度大部分原油需求依赖进口，油价下跌有助于缓解进口成本、通胀及经常账户赤字压力，并对企业利润率和卢比汇率形成正面支撑。&lt;/p&gt;
+机构上调评级，看好分散化配置价值
+&lt;p&gt;机构层面，高盛策略团队已在亚太区域内将印度市场上调至“超配”评级，理由是印度对AI算力和半导体的敞口较低，在AI资本开支增速放缓、科技硬件板块承压的背景下，具备分散化的配置价值。&lt;/p&gt;
+&lt;p&gt;值得注意的是，这轮上涨也标志着印度股市此前连续数月跑输全球的局面出现逆转——彼时市场表现不佳，部分原因正是印度对AI相关投资机会的参与度相对有限。截至11月25日收盘，Sensex和Nifty 50两大指数已几乎抹平今年以来的全部跌幅。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “先卖了再说”！AI投资回报疑虑叠加通胀超预期，纳指100一度跌入熊市</title><link>https://wallstreetcn.com/articles/3786710</link><guid>be8f0ceb754b06ce8ec1e6719fe93a67657c8a591bb14b40784dbdc755745d4d</guid><pubDate>Wed, 25 Nov 2026 18:07:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;纳斯达克100指数连续第二日重挫，盘中一度较高点回落20%，触及熊市门槛。&lt;/strong&gt;对人工智能过度投资的担忧集中爆发，叠加通胀数据强化加息预期，科技股遭遇广泛抛售。&lt;/p&gt;
 &lt;p&gt;周三美股盘中，纳斯达克100下跌4.5%，标普500下跌2.9%。波动性率指数（VIX）升破33，追踪芯片股的交易所基金跌超过7%。纳斯达克100年内累计涨幅已转负。标普500正走向2008年金融危机以来表现最差的11月。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;“先卖出，后提问，”The Wealth Alliance总裁兼董事总经理Eric Diton表示：&lt;/p&gt;
