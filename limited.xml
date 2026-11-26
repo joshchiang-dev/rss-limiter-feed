@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 02:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 03:29:14 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
 &lt;p&gt;据SemiAnalysis向其机构客户发布的报告，SpaceX已将英伟达Blackwell GPU小集群的现货租赁报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅达20%至35%；同时，Anthropic将不再续租SpaceX一个约5万张H200的集群，该批算力已以约5美元/GPU/小时的价格重新对外报价，2027年初交付。科技媒体The Information以“&lt;strong&gt;AI股最大的担忧：芯片过剩&lt;/strong&gt;”为题报道了SemiAnalysis的核心观点。&lt;/p&gt;
 &lt;p&gt;在供给端出现松动的同时，&lt;strong&gt;企业端需求也显现疲态&lt;/strong&gt;。就在供给端出现松动的消息传出前数小时，支付公司Ramp联合首席执行官Eric Glyman表示，过去两个月AI的“杰文斯悖论”已经破裂——Token价格持续下跌，但使用量的增长已不足以弥补降价带来的收入损失。&lt;/p&gt;
 &lt;p&gt;市场反应迅速而剧烈。周二英伟达下跌近6%，回吐了周一31.5%涨幅的一部分；CoreWeave与Nebius各自大跌11%。周三英伟达再跌近4%。&lt;/p&gt;
@@ -257,53 +257,7 @@ Anthropic为何“退租”：一份可随时退出的合同
 &lt;p&gt;前美林交易员、The Sevens Report通讯创始人Tom Essaye写道：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“&lt;strong&gt;有关美国新关税计划的报道给市场带来进一步压力，&lt;/strong&gt;在对工业产能过剩展开调查后，特朗普政府正准备对十多个主要贸易伙伴的进口商品征收新关税，贸易紧张局势重新点燃。”&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 历史首次！美国监管批准“SpaceX发射100万颗卫星部署太空数据中心”，要求“2040年前完成”</title><link>https://wallstreetcn.com/articles/3786724</link><guid>91255ebd02dff6400d5598421f4c4bb44dad53737f2ef4d53e7f6909a4c2e2d5</guid><pubDate>Thu, 26 Nov 2026 00:19:02 GMT</pubDate><description>&lt;p&gt;美国联邦通信委员会（FCC）正式为SpaceX的太空数据中心计划放行，批准其发射100万颗卫星，组建名为“Starmind”的AI算力星座。FCC称，这是美国历史上首次批准在太空部署数据中心星座。&lt;/p&gt;
-&lt;p&gt;11月25日周三，FCC主席Brendan Carr宣布了这一决定。他在声明中称，FCC“今天通过首次授予此类许可，为这一努力再添一把火”&lt;strong&gt;。&lt;/strong&gt;他并表示：“计算园区或数据中心，是维持美国在超级智能领域领导地位的关键。”他补充说：“把算力搬离地球，SpaceX以及众多正在自建轨道数据中心的竞争者，正在回应这个时代的需求。”&lt;/p&gt;
-&lt;p&gt;消息公布后，SpaceX股价上涨1.30%。该公司今年6月完成IPO，募资近860亿美元，为其从火箭主业向外扩张提供弹药。&lt;/p&gt;
-&lt;p&gt;这一批准同时是一场押注，SpaceX需要证明自己能够设计并交付目前尚不存在实际运行的系统。散热、发射成本、星舰（Starship）的成熟度，都是横在面前的现实障碍。&lt;/p&gt;
-一张许可证，一条时间表：要求“2040年前完成”
-&lt;p&gt;FCC的许可并非没有约束。根据FCC完整命令，SpaceX必须在以下节点前完成部署，任何一个中间节点未达标，许可即告失效（void）：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2033年11月25日前，发射并运营第一颗Starmind卫星；&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2035年11月25日前，完成100万颗中的10%入轨；&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2038年11月25日前，完成50%；&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2040年11月25日前，完成全部星座部署。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;FCC同时驳回了亚马逊Leo、Viasat和美国天文学会提出的拒绝申请（petitions to deny），豁免了SpaceX的履约保证金（surety bond），并将许可期限设为15年。&lt;/p&gt;
-&lt;p&gt;不过，批准只是部分放行：SpaceX在将任何Starmind卫星送入600公里以上轨道之前，必须先提交最终的碎片处置方案；其“卫星不经大气层再入即可处置”的请求被暂缓（deferred）。&lt;/p&gt;
-&lt;p&gt;SpaceX首席财务官Bret Johnsen上周表示，公司计划2027年将首批数据中心送入太空，并在2029年前持续扩大规模。&lt;/p&gt;
-&lt;p&gt;FCC同时批准SpaceX在卫星系统中使用无线电频率链路，用于备份和应急遥测、跟踪与指令，并允许其在光学星间链路之外补充射频通信。&lt;/p&gt;
-&lt;p&gt;FCC还表示，正在审查其他轨道数据中心申请，并将逐一作出决定。&lt;/p&gt;
-Starmind星座细节：轨道算力模块、光学星间链路与射频备份
-&lt;p&gt;根据申请与FCC命令披露的信息，Starmind星座由约100万颗“轨道算力模块”组成，本质是把AI数据中心拆成海量卫星单元送上轨道：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;供电：以近乎持续的太阳能为主要能源，规避地面数据中心的电网接入与电价问题；&lt;/li&gt;
-&lt;li&gt;通信：以光学星间链路（laser inter-satellite links）构建星间骨干网，FCC另批准其补充射频链路，用于备份和应急遥测、跟踪与指令；&lt;/li&gt;
-&lt;li&gt;轨道高度：星座部署涉及600公里以上轨道，该高度以上须先通过碎片方案审查；&lt;/li&gt;
-&lt;li&gt;与Starlink的关系：Starmind是独立的算力星座，与SpaceX现有的Starlink宽带星座并行运行。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-马斯克的算盘：太阳、成本与选票
-&lt;p&gt;把数据中心送上轨道，马斯克给出的理由很直接：能源和阻力。&lt;/p&gt;
-&lt;p&gt;“在太空建太阳能数据中心是显而易见的选择……AI最便宜的落脚点将是太空，这会在两年内成真，最晚三年。”马斯克今年1月在瑞士达沃斯世界经济论坛上表示。&lt;/p&gt;
-&lt;p&gt;中期选举后，反数据中心的政客在全国范围内当选，马斯克随即在社交媒体上写道：“现在太空数据中心看起来相当有吸引力。”&lt;/p&gt;
-&lt;p&gt;SpaceX在向FCC提交的申请中称，其卫星将凭借近乎持续的太阳能供电，“实现变革性的成本和能源效率”，同时减少对地球环境的影响。&lt;/p&gt;
-&lt;p&gt;地面数据中心的反对声确实在变大。数据中心耗电巨大，周边居民称自己承担了更高的电费，噪音和光污染也是地方反对的理由。&lt;/p&gt;
-反对者：亚马逊、Viasat与天文学家
-&lt;p&gt;批准并非没有争议。&lt;/p&gt;
-&lt;p&gt;亚马逊、卫星运营商Viasat和美国天文学会均提出反对&lt;strong&gt;。亚马逊称，SpaceX的计划在时间安排和卫星潜在设计上缺乏细节，并认为部署全部100万颗卫星需要数百年。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;天文学家则担忧，卫星数量持续增长会加剧太空光污染，损害从地球开展天文研究的能力。&lt;/p&gt;
-&lt;p&gt;Carr今年3月在接受路透采访时回击了亚马逊的批评：“我认为亚马逊应该先把自己家里的发射和卫星星座理顺，而不是去操心那些真正在以SpaceX这样的节奏和频率发射卫星的人。”&lt;/p&gt;
-&lt;p&gt;OpenAI首席执行官Sam Altman也曾称马斯克的太空数据中心计划“荒谬”。&lt;/p&gt;
-算力生意已经跑在前面
-&lt;p&gt;监管放行之前，SpaceX的数据中心业务已经成型。&lt;/p&gt;
-&lt;p&gt;这些数据中心目前归属SpaceX Super Intelligence集团，客户包括Anthropic和Google等超大规模云厂商，后者已承诺支付数十亿美元租用算力。&lt;/p&gt;
-&lt;p&gt;SpaceX目前在大孟菲斯地区运营数据中心和发电厂，并宣布将在得州Starbase发射场附近以及亚利桑那州Cochise县追加740亿美元投资于数据中心基础设施。&lt;/p&gt;
-&lt;p&gt;在太空之外，SpaceX也在加杠杆。公司10月表示，已从贷款方筹集400亿美元，用于租赁英伟达先进的Vera Rubin系统，部署于其地面数据中心。据英国《金融时报》报道，贷款方要求获得保证，作为债务抵押品的这些芯片将留在地球上。&lt;/p&gt;
-&lt;p&gt;太空端的成本账仍待验证。轨道数据中心需要解决AI芯片的散热调控，以及如此规模卫星的发射成本问题。SpaceX的星座部署依赖其新型星舰投入运营。&lt;/p&gt;
-&lt;p&gt;规模对比可以说明这家公司的位置：SpaceX目前在地球轨道上拥有超过1.1万颗星链（Starlink）互联网卫星，是最大的单一卫星运营商；竞争对手亚马逊Leo仅有400颗在轨互联网卫星。&lt;/p&gt;
-&lt;p&gt;值得一提的是，SpaceX此前曾为星链申请4.2万颗卫星的许可，而目前在轨数量刚过1.1万颗。目前尚不清楚SpaceX是否真的计划发射全部100万颗卫星。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一损俱损！如果AI泡沫破灭，对美国杀伤力超过“互联网泡沫”</title><link>https://wallstreetcn.com/articles/3786725</link><guid>89d5102c6b76b2adfeac42f071a60bb790d843099a23e2c736b934d1960151cf</guid><pubDate>Thu, 26 Nov 2026 01:53:57 GMT</pubDate><description>&lt;p&gt;美国经济已经对AI支出上瘾。一旦这场繁荣熄火，冲击可能比互联网泡沫破裂更深。&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 一损俱损！如果AI泡沫破灭，对美国杀伤力超过“互联网泡沫”</title><link>https://wallstreetcn.com/articles/3786725</link><guid>89d5102c6b76b2adfeac42f071a60bb790d843099a23e2c736b934d1960151cf</guid><pubDate>Thu, 26 Nov 2026 01:53:57 GMT</pubDate><description>&lt;p&gt;美国经济已经对AI支出上瘾。一旦这场繁荣熄火，冲击可能比互联网泡沫破裂更深。&lt;/p&gt;
 &lt;p&gt;据《华尔街日报》11月24日分析文章，过去两周股市剧烈震荡、英伟达董事会出现动荡，从硅谷到白宫都在追问同一个问题：如果AI繁荣破灭，美国经济会怎样？经济学家的共识是经济将遭受痛苦打击，但对冲击量级仍存激烈分歧。&lt;/p&gt;
 &lt;p&gt;最直接的传导渠道是财富效应。自2025年初以来，标普500指数上涨约20%，其中AI相关股票贡献了近一半涨幅。第三季度消费者支出增长3.8%，推动GDP增速达到3.4%。一旦股市掉头，这条链条会迅速反向运转。&lt;/p&gt;
 &lt;p&gt;更棘手的是债务。数据中心的融资正变得越来越难追踪，许多贷款游离于资产负债表之外，由私募股权基金等非银机构发放。哈佛大学经济学家、前美联储理事Jeremy Stein直言：“我们并不了解所有的相互关联。”&lt;/p&gt;
@@ -337,4 +291,29 @@ Cravath与Bartlit Beck领衔法庭交锋
 年内第二场审判延续双方法律冲突
 &lt;p&gt;&lt;strong&gt;这是马斯克与OpenAI在不到一年内的第二次庭审交锋。今年5月，加州奥克兰联邦法院的陪审团裁定马斯克败诉，该案指控OpenAI背离了其创立时造福人类的初衷。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenAI由Sam Altman、马斯克等人在2015年创立，马斯克于2018年退出董事会，OpenAI次年开始设立营利性业务。&lt;/p&gt;
-&lt;p&gt;案件名称为X Corp and SpaceXAI v OpenAI，受理法院为美国得克萨斯州北区联邦地区法院，案号4:25-cv-00914-P。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;案件名称为X Corp and SpaceXAI v OpenAI，受理法院为美国得克萨斯州北区联邦地区法院，案号4:25-cv-00914-P。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美国拟对配额外食糖大幅加征关税，直指巴西</title><link>https://wallstreetcn.com/articles/3786721</link><guid>df53f481fc633cbc1adf98a9b82f396f863b09efaaae711c90ede9894e0f7d60</guid><pubDate>Wed, 25 Nov 2026 23:05:51 GMT</pubDate><description>&lt;p&gt;特朗普政府提议对不受配额制度覆盖的食糖大幅加征关税，主要针对全球最大产糖国巴西，此举可能进一步推高本已高于国际市场的美国国内糖价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美国贸易代表办公室周三提出，对配额外原糖征收每公斤44美分关税，对配额外精制糖征收每公斤60美分关税。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这一提案的影响范围超出预期：除巴西外，还可能适用于所有国家，以防其他国家填补巴西留下的市场空缺。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;美国贸易大使Jamieson Greer在提案随附的新闻稿中表示，全面征税是为了“防止来自其他国家的食糖进口激增，巴西的市场缺口可能由这些国家填补”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;消息公布后，纽约原糖期货周三一度上涨4.6%，伦敦精制糖期货一度上涨3.8%。&lt;/strong&gt;受冲击最大的可能是美国国内糖价：现行贸易限制已使美国糖价相对国际市场存在溢价，而仅拟对原糖征收的关税，就已高于全球期货价格水平。&lt;/p&gt;
+
+美国国内糖价首当其冲
+
+&lt;p&gt;“影响更多会体现在美国国内市场，”长期跟踪食糖的分析师Mike McDougall表示，美国国内糖价“将上涨，直到足以覆盖关税成本，尤其是如果美国产量进一步下调的话”。&lt;/p&gt;
+&lt;p&gt;美国每年通过配额制度允许一定数量的食糖以较低成本进入本国，另有一项贸易协议允许墨西哥每年按不同数量对美出口食糖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二十多年来，超出这些额度的食糖一直需缴纳每公斤33到36美分的关税。新提案的税率较现行水平明显提高。&lt;/strong&gt;&lt;/p&gt;
+
+种植商与食品制造商立场对立
+
+&lt;p&gt;美国甘蔗和甜菜种植者一直推动提高关税，以阻止他们眼中享受不公平补贴的外国供应进入，近年来超出配额进入美国市场的食糖数量有所增加。&lt;/p&gt;
+&lt;p&gt;巴西通常是配额外食糖的最大供应国，但每当美国对巴西的关税上升，阿根廷等国也会增加对美出口。&lt;/p&gt;
+&lt;p&gt;食品制造商长期以来反对推高美国糖价的政策，并认为，作为最后手段进口的供应不应被额外收费。&lt;/p&gt;
+&lt;p&gt;据美国农业部数据，由于种植面积减少和虫害蔓延，2026-27年度美国食糖产量预计将降至七年低点，这将抬高美国的进口需求。&lt;/p&gt;
+
+对巴西的针对性施压
+
+&lt;p&gt;据一位了解情况的巴西官员称，这项新提案令人意外，其中还包括对巴西飞机加征更高关税。该官员表示，两国关于降低贸易壁垒的谈判已停滞数月。&lt;/p&gt;
+&lt;p&gt;对食糖加征更高关税，与特朗普政府近期逐步扩大农产品关税豁免的趋势相悖，此前获豁免的包括可可、咖啡和橙汁等美国国内产量不足的品类。&lt;/p&gt;
+&lt;p&gt;美国食品杂货价格正在上涨，反映出能源成本上升正向食品供应链传导，以及异常强烈的厄尔尼诺现象的影响。&lt;/p&gt;
+&lt;p&gt;但特朗普也一直对巴西采取更强硬的关税措施。此前对巴西加征的关税中，曾提及巴西对美国乙醇征收关税，使美国生物燃料失去一个重要市场。Greer周三表示，最新举措为美国提供了“更大的筹码”，以推动巴西改变政策。&lt;/p&gt;
+&lt;p&gt;“我们真诚希望这一行动能促使巴西回到谈判桌前，就改善两国乙醇贸易进行善意讨论，”美国乙醇行业组织可再生燃料协会主席Geoff Cooper在声明中表示。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
