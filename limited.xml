@@ -1,53 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 12:29:12 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
-&lt;p&gt;据SemiAnalysis向其机构客户发布的报告，SpaceX已将英伟达Blackwell GPU小集群的现货租赁报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅达20%至35%；同时，Anthropic将不再续租SpaceX一个约5万张H200的集群，该批算力已以约5美元/GPU/小时的价格重新对外报价，2027年初交付。科技媒体The Information以“&lt;strong&gt;AI股最大的担忧：芯片过剩&lt;/strong&gt;”为题报道了SemiAnalysis的核心观点。&lt;/p&gt;
-&lt;p&gt;在供给端出现松动的同时，&lt;strong&gt;企业端需求也显现疲态&lt;/strong&gt;。就在供给端出现松动的消息传出前数小时，支付公司Ramp联合首席执行官Eric Glyman表示，过去两个月AI的“杰文斯悖论”已经破裂——Token价格持续下跌，但使用量的增长已不足以弥补降价带来的收入损失。&lt;/p&gt;
-&lt;p&gt;市场反应迅速而剧烈。周二英伟达下跌近6%，回吐了周一31.5%涨幅的一部分；CoreWeave与Nebius各自大跌11%。周三英伟达再跌近4%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但并非所有人都认同“崩盘”叙事。&lt;/strong&gt;NewStreet随后发文回应，明确表示“我们不认为这是价格崩盘”，认为SpaceX只是取消了小集群溢价，使报价与其向Anthropic、Google等大客户提供的大集群价格对齐，算力商业化是“回归常态，绝非崩塌”。&lt;strong&gt;多空双方的分歧，正集中在同一组数字上。&lt;/strong&gt;&lt;/p&gt;
-SpaceX的降价清单：从15美元到10美元
-&lt;p&gt;据SemiAnalysis报告，SpaceX将小规模Blackwell集群的现货报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅20%至35%。这一价格使其小集群报价与向Anthropic、Google等最大客户提供的大集群报价持平。此次降价距SemiAnalysis上一次AI云TCO更新仅数周，当时租赁价格仍在上涨。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更具信号意义的是第二项变化：&lt;strong&gt;Anthropic不再续租SpaceX约5万张H200的集群&lt;/strong&gt;，SpaceX正以约5美元/GPU/小时的价格重新对外提供该批算力，交付时间为2027年初。Ornn的二手云租赁成交指数显示，H200在周一的成交价为6.53美元/GPU/小时，SpaceX的报价较现货市场低约23%。按5万张GPU、每小时5美元满负荷测算，该集群年租金约22亿美元。&lt;/p&gt;
-&lt;p&gt;SemiAnalysis同时指出，美国商务部工业与安全局（BIS）上周关于远程访问美国芯片的新规，预计将进一步压低2027年的现货租赁价格。&lt;/p&gt;
-Anthropic为何“退租”：一份可随时退出的合同
-&lt;p&gt;这并非毫无预兆。据Anthropic的S-1文件，该公司承诺在2029年前向SpaceX子公司支付最高1205亿美元的英伟达GPU算力费用，全部容量交付后约合每月31亿美元。但文件细则显示，在2027年1月和3月到期的不可撤销期结束后，&lt;strong&gt;任何一方均可以90天通知期退出&lt;/strong&gt;，这使其成为Anthropic合同清单中最灵活、也最可能被重新定价的一份。两周后，分析师Jukan转述Anthropic与卖方分析师会议的内容称，公司不会将SpaceX算力协议延长至2027年中以后，双方均未确认。&lt;/p&gt;
-&lt;p&gt;据Tom&amp;#x27;s Hardware，SpaceX于5月租给Anthropic的孟菲斯Colossus 1集群由约15万张H100、5万张H200和2万张GB200混合构成，5万张的数字与H200部分几乎完全吻合（此为推断）。而Anthropic如今已是上市公司，股价低于IPO发行价，有充分理由停止为两代之前的Hopper算力付费。&lt;/p&gt;
-&lt;p&gt;另一侧，SpaceX今年正从“准前沿实验室”转型为AI行业最大的GPU房东之一。据科技媒体The Information，其AI部门本月在Grok Imagine团队裁员约60人，其模式偏好现货租赁而非长期承诺，明年主推的新平台为Vera Rubin。&lt;strong&gt;一个手握大量新增机房、旧设备租约又短的房东，正是最先降租的那类房东。&lt;/strong&gt;&lt;/p&gt;
-价格数据：成交指数已经转向
-&lt;p&gt;报价指数与成交指数的分化值得注意。Silicon Data的B200租赁指数在11月17日触及7.10美元后停滞，11月20日回到同一水平，此后连续四天维持在6.94美元。但Ornn追踪的是二手云实际成交价，转向已经可见：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;B200指数较11月8日高点下跌8.8%（从9.94美元降至9.07美元），H200指数较11月11日高点下跌16%（从7.75美元降至6.53美元），Blackwell Ultra B300较10月中旬高点下跌24%（从14.23美元降至10.87美元）。B300当前成交价恰好落在SpaceX对小集群Blackwell报价的10至12美元区间。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;更值得关注的是租金与Token价格的反向走势。自8月底以来，Ornn指数上B200租金上涨48%，而Anthropic的Token价格指数从每百万Token 1.46美元近乎腰斩至0.75美元。&lt;strong&gt;机器租用成本上涨约50%，而其产出的售价下跌约50%。&lt;/strong&gt;这只有在单GPU吞吐量提升更快、或杰文斯悖论带来足够用量增长时才成立。&lt;/p&gt;
-需求端：Ramp数据里的“杰文斯悖论破裂”
-&lt;p&gt;Ramp联合首席执行官Eric Glyman掌握着数万家美国企业实际支付给OpenAI和Anthropic的数据。他的表述直接：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;“过去两个月，杰文斯悖论破裂了。”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;数据支撑这一判断（截至10月）：Ramp上的Token支出7月增长42%，8月和9月合计仅增长1.5%，10月增长1.65%，而占全部企业AI支出80%的头部1%企业率先停滞。Ramp首席经济学家Ara Kharazian表示，“很多关于AI支出轨迹的假设正在开始瓦解”。Anthropic自己在文件中称，其降价使收入增长减少了约6亿美元——用量仍在上升，但不足以抵消降价。&lt;/p&gt;
-&lt;p&gt;Glyman对放缓原因的解释或许最令资本开支多头不安：&lt;strong&gt;企业购买AI所完成的许多工作并不需要更聪明的模型，因此“足够好”之后的更廉价智能并不能创造多少新增需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过最新一周数据有所回暖：截至11月15日当周，Token支出环比增长12%，用量增长27.2%，混合价格下降11.2%至每百万Token 0.45美元——这正是杰文斯悖论生效时的样子。8月Token价格暴跌40%后企业支出上升50%时，市场也曾短暂认为杰文斯悖论已经启动。然而，一周数据不足以构成趋势。&lt;/p&gt;
-反对意见：NewStreet称“回归常态，绝非崩塌”
-&lt;p&gt;针对SemiAnalysis报告引发的抛售，NewStreet发文《SpaceX的GPU租赁价格回归常态——我们的观点》，首先承认了降价事实，但给出截然不同的结论。&lt;/p&gt;
-&lt;p&gt;NewStreet认为，SpaceX只是取消了小集群溢价，使其报价与Anthropic、Google拿到的大集群报价对齐。按10至12美元/GPU/小时测算，满负荷下每吉瓦算力年收入可达500亿美元，对比约80亿美元的每吉瓦投入成本，&lt;strong&gt;回报依然可观&lt;/strong&gt;。同理，H200按5美元定价，满负荷下每吉瓦年收入约300亿美元，高于NewStreet为SpaceX测算的每吉瓦250亿美元收入基准，也显著高于其65亿美元的每吉瓦成本。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NewStreet还列举了其他仍显示市场偏紧的价格信号：&lt;/strong&gt;Nebius于10月1日将B300按需租赁价格上调20%至9.5美元/GPU/小时；11月17日消息称，英伟达Hopper续约报价最高达到原先多年合同价格的两倍。&lt;/p&gt;
-&lt;p&gt;对于2027年，NewStreet预计SpaceX的XPU资本开支规模接近翻倍，新增算力陆续上线，叠加对东南亚限制带来的额外算力释放与回流美国市场，将推动价格进一步正常化，但在仍可保持不错回报的前提下，价格仍有调整空间。长期看，其预计SpaceX的AI云业务毛利率维持在40%至50%。结论是：&lt;strong&gt;本次信号只是存量算力续约带来的价格良性回归，目前没有证据表明供给会超过需求。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SemiAnalysis本身也未宣告见顶。&lt;/strong&gt;其维持GB300每IT兆瓦每年约5000万美元（即每吉瓦500亿美元，合12美元/GPU/小时）的假设，指出SpaceX新报价仍在该区间内，Vera Rubin定价将显著高于Blackwell，新Blackwell项目回报仍有吸引力，因此不预期降价会拖慢SpaceX 2027年的建设节奏。&lt;/p&gt;
-分歧的落点：谁在为15美元的租金加杠杆
-&lt;p&gt;多空双方在一点上实际并无分歧：&lt;strong&gt;新建项目在10至12美元仍算得过来，但已建成资产的租金开始下滑。&lt;/strong&gt; 对以该租金为抵押放贷的一方而言，这才是问题所在。&lt;/p&gt;
-&lt;p&gt;据高盛TMT专家Sean Johnstone，CoreWeave债券已跌至历史低点，HPE金融服务明确回避二手云及高风险融资，其融资部门虽支持更广泛的AI应用，但不向专业化、资本密集的AI云初创企业提供信贷。叠加此前贷款机构将预付款比例从80%下调至50%，中型二手云厂商面临抵押品贬值与融资收紧的双重挤压：上月每小时租金15美元的GPU，如今只值10至12美元，可支撑的债务相应减少。&lt;/p&gt;
-&lt;p&gt;多头亦有回应。戴尔周二晚间因AI服务器业绩超预期将全年每股收益指引上调16%，首席运营官Jeff Clarke对分析师表示，“我们认为2027日历年需求领先供给的程度将超过2026年”。CoreWeave的Michael Intrator仍坚持算力需求增速快于行业建设速度。但需注意，戴尔卖服务器、CoreWeave租服务器、SemiAnalysis卖TCO模型——&lt;strong&gt;卖铲子的人从未宣布过淘金热的结束。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;高盛Delta-One负责人此前在“GS Basics”报告中写道，&lt;strong&gt;供给过剩而非电力或审批，仍是中期关键风险&lt;/strong&gt;；表面GPU现货租金受物理稀缺支撑，但优化与更小的专用模型正在快速压缩每Token推理成本，“看空理由不再是算力建不出来，而是效率突破可能跑赢需求增长”。&lt;/p&gt;
-&lt;p&gt;高盛TMT专家Johnstone则列出板块尚未解决的问题，包括“供给过剩与推理效率提升削弱算力需求的风险”，并称持续重估需要更好的利率、信贷与融资环境、数据中心容量的部署能力，以及第四季度——尤其是基础模型公司——证明AI收入增长足以支撑资本开支的证据。&lt;/p&gt;
-&lt;p&gt;信贷市场的反应印证了这一担忧。&lt;strong&gt;CoreWeave债券触及历史低点，HPE Financial Services也明确表示将避免为高风险的AI云初创公司提供融资。&lt;/strong&gt;对于那些以15美元时薪为抵押进行借款的新兴云服务商（Neoclouds）而言，抵押品价值跌至10至12美元将大幅削弱其债务支撑能力，私募信贷资金可能会重新评估该领域的风险。&lt;/p&gt;
-一个巧合的时间点
-&lt;p&gt;周三（11月25日），美国经济分析局将第三季度GDP增速大幅上修至4.3%，动力来自自疫情以来最大规模的AI资本开支驱动的投资潮。&lt;strong&gt;建设下一波产能的资金仍在流入，而上一波产能的租金已开始回落。&lt;/strong&gt;这是过度建设的教科书式序列：在稀缺价格顶点下单的产能，恰在稀缺消失时交付。&lt;/p&gt;
-&lt;p&gt;高盛的Tony Pasquariello在感恩节前的“市场/宏观”报告中提示，半导体过去一年的走势图“只适合心脏强健者”，并称“我的猜测是，回看时我们会把第二季度视为某种小型泡沫”。&lt;/p&gt;
-&lt;p&gt;乐观者会说，一个房东降价只是一个数据点，10美元的Blackwell仍是利润丰厚的Blackwell。但眼下的清单是：最大的GPU房东之一将批发价搬到了零售端，最大的AI实验室退回5万张GPU，成交租赁指数掉头向下，企业卡数据显示更便宜的Token不再换来成比例增长的需求。&lt;/p&gt;
-&lt;p&gt;ZeroHedge的判断是，这是过剩的开始而非噪音，为15美元租金加杠杆的二手云厂商及其背后的私募信贷基金将最先感受到。NewStreet的判断则是，这只是存量合约续约带来的良性价格回归，供给尚未超过需求。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两方看的是同一组数字，分歧在于它是周期的起点，还是回归的中途。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局</title><link>https://wallstreetcn.com/articles/3786773</link><guid>9175e35cc79563c7ec638303de3c4fbc77c3d4cdc40e9a2c9708428c9b73700a</guid><pubDate>Thu, 26 Nov 2026 09:59:42 GMT</pubDate><description>&lt;p&gt;11月25日，视频生成模型公司三呆科技（&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;）发布新一代模型MAGI-2，1080P视频生成定价每秒0.5元，生成一段30秒视频需15元。&lt;/p&gt;&lt;p&gt;&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;披露，MAGI-2总参数量由上一代Preview的114B扩展至480B，激活参数量由约6B提升至28B，训练数据规模扩大约3倍。模型支持单次生成4至30秒视频，最多可参考20份图片、视频和音频素材，提示词长度上限2万字符。&lt;/p&gt;&lt;p&gt;截至11月26日，Artificial Analysis视频模型榜单中，MAGI-2模型在图生视频榜单中得分排名第一。同一榜单上还有Seedance、可灵、MiniMax H3等国产视频模型。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;目前MAGI-2完整模型权重尚未公开。&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;表示将尽快开放模型权重，模型API已开放申请，首批优先面向战略合作客户。&lt;/p&gt;&lt;p&gt;这次发布的产业看点在国产芯片的参与程度上。&lt;/p&gt;&lt;p&gt;摩尔线程进入该模型首发商业化服务。11月25日，摩尔线程（&lt;a href="http://688795.SH"&gt;688795.SH&lt;/a&gt;）披露，公司依托MTT S5000全功能GPU及自研MUSA软件栈，为MAGI-2首发上线及商业化视频生成服务提供算力支撑，双方后续将在推理性能优化、算力资源管理、规模化任务调度及服务部署等方面继续合作。&lt;/p&gt;&lt;p&gt;海光目前完成的是模型适配和推理验证。11月25日，海光信息（&lt;a href="http://688041.SH"&gt;688041.SH&lt;/a&gt;）披露，海光在MAGI-2发布前即参与协同，基于海光DCU深算三号当日跑通推理、次日打通量化，支持MagiMoE框架MagiCompiler和MagiAttention。&lt;/p&gt;&lt;p&gt;网宿科技（&lt;a href="http://300017.SZ"&gt;300017.SZ&lt;/a&gt;）&lt;a href="http://以投资方式参与Sand.ai"&gt;以投资方式参与Sand.ai&lt;/a&gt;的商业化进程。9月29日，&lt;a href="http://网宿科技披露拟出资3亿元参与Sand.ai"&gt;网宿科技披露拟出资3亿元参与Sand.ai&lt;/a&gt;的A+轮投资，并以可转债作为过渡性安排。&lt;/p&gt;&lt;p&gt;网宿科技在投资公告中提出，未来将探索音视频推理、低延时边缘推理等场景与自身业务的融合，具体合作项目和业务规模尚未披露。&lt;/p&gt;&lt;p&gt;11月17日，网宿科技与相关方签署重组框架协议。11月18日进展公告披露，&lt;a href="http://上海三呆科技将成为Sand.ai"&gt;上海三呆科技将成为Sand.ai&lt;/a&gt;重组后的境内控股主体。根据公告，在完全稀释及认股权证全部行使等假设条件下，网宿科技预计持有上海三呆科技4.7654%的股权，最终比例仍需待剩余A+轮股东完成交割后确定。&lt;/p&gt;&lt;p&gt;公告显示，网宿科技已签署相关投资协议，&lt;a href="http://向Sand.ai"&gt;向Sand.ai&lt;/a&gt;境内运营主体支付3亿元可转债，取得对应认股权证。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;从单一模型的商业化推理到持续的算力订单，中间还缺少公开的推理量和收入数据。具体而言，摩尔线程方面可关注S5000的实际部署规模和推理吞吐量，海光方面可观察适配进入生产部署的进度。网宿科技的3亿元投资兑现情况，可参照重组交割后的最终持股比例和业务协同落地进度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 砍掉宁德时代，理想砍出利润</title><link>https://wallstreetcn.com/articles/3786758</link><guid>ecc5f68b65303faa05339505b3624270c6661213dcd99d3ac6772652aed074d4</guid><pubDate>Thu, 26 Nov 2026 07:48:51 GMT</pubDate><description>&lt;p&gt;汽车行业的竞争正在从规模扩张转向成本与效率的较量，理想汽车则试图通过重构供应链，重新找回利润增长空间。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 12:59:15 GMT</lastBuildDate><item><title>[华尔街见闻] Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局</title><link>https://wallstreetcn.com/articles/3786773</link><guid>9175e35cc79563c7ec638303de3c4fbc77c3d4cdc40e9a2c9708428c9b73700a</guid><pubDate>Thu, 26 Nov 2026 09:59:42 GMT</pubDate><description>&lt;p&gt;11月25日，视频生成模型公司三呆科技（&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;）发布新一代模型MAGI-2，1080P视频生成定价每秒0.5元，生成一段30秒视频需15元。&lt;/p&gt;&lt;p&gt;&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;披露，MAGI-2总参数量由上一代Preview的114B扩展至480B，激活参数量由约6B提升至28B，训练数据规模扩大约3倍。模型支持单次生成4至30秒视频，最多可参考20份图片、视频和音频素材，提示词长度上限2万字符。&lt;/p&gt;&lt;p&gt;截至11月26日，Artificial Analysis视频模型榜单中，MAGI-2模型在图生视频榜单中得分排名第一。同一榜单上还有Seedance、可灵、MiniMax H3等国产视频模型。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;目前MAGI-2完整模型权重尚未公开。&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;表示将尽快开放模型权重，模型API已开放申请，首批优先面向战略合作客户。&lt;/p&gt;&lt;p&gt;这次发布的产业看点在国产芯片的参与程度上。&lt;/p&gt;&lt;p&gt;摩尔线程进入该模型首发商业化服务。11月25日，摩尔线程（&lt;a href="http://688795.SH"&gt;688795.SH&lt;/a&gt;）披露，公司依托MTT S5000全功能GPU及自研MUSA软件栈，为MAGI-2首发上线及商业化视频生成服务提供算力支撑，双方后续将在推理性能优化、算力资源管理、规模化任务调度及服务部署等方面继续合作。&lt;/p&gt;&lt;p&gt;海光目前完成的是模型适配和推理验证。11月25日，海光信息（&lt;a href="http://688041.SH"&gt;688041.SH&lt;/a&gt;）披露，海光在MAGI-2发布前即参与协同，基于海光DCU深算三号当日跑通推理、次日打通量化，支持MagiMoE框架MagiCompiler和MagiAttention。&lt;/p&gt;&lt;p&gt;网宿科技（&lt;a href="http://300017.SZ"&gt;300017.SZ&lt;/a&gt;）&lt;a href="http://以投资方式参与Sand.ai"&gt;以投资方式参与Sand.ai&lt;/a&gt;的商业化进程。9月29日，&lt;a href="http://网宿科技披露拟出资3亿元参与Sand.ai"&gt;网宿科技披露拟出资3亿元参与Sand.ai&lt;/a&gt;的A+轮投资，并以可转债作为过渡性安排。&lt;/p&gt;&lt;p&gt;网宿科技在投资公告中提出，未来将探索音视频推理、低延时边缘推理等场景与自身业务的融合，具体合作项目和业务规模尚未披露。&lt;/p&gt;&lt;p&gt;11月17日，网宿科技与相关方签署重组框架协议。11月18日进展公告披露，&lt;a href="http://上海三呆科技将成为Sand.ai"&gt;上海三呆科技将成为Sand.ai&lt;/a&gt;重组后的境内控股主体。根据公告，在完全稀释及认股权证全部行使等假设条件下，网宿科技预计持有上海三呆科技4.7654%的股权，最终比例仍需待剩余A+轮股东完成交割后确定。&lt;/p&gt;&lt;p&gt;公告显示，网宿科技已签署相关投资协议，&lt;a href="http://向Sand.ai"&gt;向Sand.ai&lt;/a&gt;境内运营主体支付3亿元可转债，取得对应认股权证。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;从单一模型的商业化推理到持续的算力订单，中间还缺少公开的推理量和收入数据。具体而言，摩尔线程方面可关注S5000的实际部署规模和推理吞吐量，海光方面可观察适配进入生产部署的进度。网宿科技的3亿元投资兑现情况，可参照重组交割后的最终持股比例和业务协同落地进度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 砍掉宁德时代，理想砍出利润</title><link>https://wallstreetcn.com/articles/3786758</link><guid>ecc5f68b65303faa05339505b3624270c6661213dcd99d3ac6772652aed074d4</guid><pubDate>Thu, 26 Nov 2026 07:48:51 GMT</pubDate><description>&lt;p&gt;汽车行业的竞争正在从规模扩张转向成本与效率的较量，理想汽车则试图通过重构供应链，重新找回利润增长空间。&lt;/p&gt;
 &lt;p&gt;11月26日，理想汽车港股收涨8%。此前一晚，公司公布2026年第三季度财报，车辆毛利率升至15.3%，环比大幅提升5.9个百分点，净亏损显著收窄，自由现金流也由负转正。此前持续承压的盈利能力，终于出现明显修复。&lt;/p&gt;
 &lt;p&gt;财报公布后，华尔街对理想的态度也出现分化中的转暖。&lt;strong&gt;花旗将利润率反弹的重要原因指向电池供应链调整；摩根大通结束此前的减持评级，将理想上调至中性；瑞银则维持买入评级，认为公司当前估值已经具备一定吸引力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其中，最值得关注的变化来自电池供应链。&lt;strong&gt;理想正在降低对宁德时代的依赖，提高欣旺达电池采购比例。&lt;/strong&gt;花旗估算，欣旺达电池在理想三季度采购中的占比已从二季度的5%升至45%，仅这一调整就为车辆毛利率贡献了约3.2个百分点。&lt;/p&gt;
@@ -181,7 +133,36 @@ AI交易：低点或已确认，但复苏之路颠簸
 &lt;p&gt;与过去内存行业典型的周期性供需波动不同，此轮短缺正呈现出更明显的结构性特征。AI数据中心对DRAM和HBM的需求持续攀升，而先进产能建设周期较长，短期内难以通过扩产迅速弥补供需缺口。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;SK海力士CFO Kim Woo-hyun在上月的业绩电话会议上表示，供应无法跟上需求的局面预计将持续相当长一段时间，这一供给约束可能延续至2030年。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;尽管三星、SK海力士和美光目前均处于高盈利状态，但新增产能释放仍需要时间。Counterpoint Research预计，全球DRAM产能从今年至2028年将增长50%，但新工厂投产并形成有效供应尚需等待。&lt;/p&gt;
-&lt;p&gt;这意味着，在未来几年内，内存芯片仍可能是AI产业链中最紧俏的资源之一。对于消费电子厂商、汽车制造商乃至国防设备供应商而言，如何锁定长期供应、消化不断上涨的采购成本，将成为持续性的经营挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银2027年七大交易：上半年做多美元、做空美债，下半年转战新兴市场.......</title><link>https://wallstreetcn.com/articles/3786780</link><guid>a046173367386e3ffa8fa58de1b4817a1dc9ba31b2fac8b6d292630ef6563d23</guid><pubDate>Thu, 26 Nov 2026 11:35:08 GMT</pubDate><description>&lt;p&gt;据追风交易台，美银全球研究部在11月25日发布的《Liquid Insight》报告中给出2027年七大交易构想，&lt;strong&gt;核心判断是“双速世界”：上半年美国例外论延续、AI投资韧性犹存、通胀黏性使美联储紧缩时间超出市场预期，美元与美债收益率面临上行风险；下半年随着美联储见顶、AI资本开支放缓、能源价格回落，交易主线转向收益率下行与新兴市场&lt;/strong&gt;。报告由Oliver Levingston等策略师撰写，覆盖G10外汇、G10利率与新兴市场三大板块。&lt;/p&gt;
+&lt;p&gt;这意味着，在未来几年内，内存芯片仍可能是AI产业链中最紧俏的资源之一。对于消费电子厂商、汽车制造商乃至国防设备供应商而言，如何锁定长期供应、消化不断上涨的采购成本，将成为持续性的经营挑战。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谁在抛售黄金？俄罗斯连续10个月减持，沙特、Tether也被盯上</title><link>https://wallstreetcn.com/articles/3786783</link><guid>1a3ba49173d5b69626f7472a4284e6ff5d9d456a8a761701e01f94ca4b14ff0f</guid><pubDate>Thu, 26 Nov 2026 12:01:04 GMT</pubDate><description>&lt;p&gt;黄金市场的抛售压力不仅来自投资者获利了结，部分官方持有者也在资金压力下持续减持。&lt;/p&gt;
+&lt;p&gt;据GoldFix统计，截至9月，土耳其、俄罗斯和阿塞拜疆国家石油基金合计净卖出约166吨黄金。&lt;strong&gt;其中，俄罗斯是唯一连续十个月每月都在卖出的持有者，1月至10月黄金持仓逐月下降，累计减少约72吨。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;土耳其央行一季度净卖出约70吨，主要集中在3月，同月还动用另外80吨黄金进行黄金换外汇掉期。阿塞拜疆国家石油基金一季度卖出21.9吨，原因是金价上涨导致黄金持仓超过组合上限，此后六个月持仓维持在178.1吨不变。&lt;/p&gt;
+&lt;p&gt;市场反复提及的Tether，则并没有出现大举抛售。其USDT储备对应的金库9月较6月减少3.4吨，但XAUT代币对应的金库同期增加3.7吨，两者合计持仓反而从168.2吨小幅升至168.5吨。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+俄罗斯持续卖金，土耳其集中减持，阿塞拜疆逢高再平衡
+
+俄罗斯央行的黄金出售主要发生在国内市场，背后是财政部动用国家财富基金为预算融资。1月至10月，俄罗斯黄金持仓连续十个月下降，累计减少约72吨。
+
+&lt;p&gt;与其他卖家相比，俄罗斯的减持更具持续性。土耳其主要面临汇率和能源进口带来的资金压力，阿塞拜疆则是在黄金持仓超过组合上限后进行再平衡。&lt;strong&gt;俄罗斯卖金则直接服务于财政融资需求，并非一次性的仓位调整。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;阿塞拜疆的减持更接近一次性组合再平衡。该国国家石油基金一季度卖出21.9吨黄金，主要因为金价上涨推高持仓占比，使其超过组合上限。此后六个月，黄金持仓一直维持在178.1吨。&lt;/p&gt;
+&lt;p&gt;土耳其一季度净卖出约70吨黄金，减持主要集中在3月。当时，能源进口账单上升和捍卫里拉汇率带来资金压力，央行还额外动用80吨黄金进行黄金换外汇掉期。&lt;/p&gt;
+&lt;p&gt;土耳其央行行长Fatih Karahan表示，掉期交易中的黄金将在到期后回归储备。到6月，未到期掉期规模已降至约60吨，二季度直接净卖出仅4吨。&lt;strong&gt;这表明，土耳其的黄金减持主要是3月的集中操作，并非持续性的大规模抛售。&lt;/strong&gt;&lt;/p&gt;
+
+
+沙特：美元需求引发市场猜测
+&lt;p&gt;沙特同样受到财政和美元流动性压力的关注。三季度石油收入同比下降23%，利雅得录得843亿里亚尔赤字，同时需要维持里亚尔与美元挂钩。另一方面，沙特阿美营收及其他销售相关收入从1115亿美元升至1405亿美元，自由现金流也有所增加。&lt;/p&gt;
+
+
+&lt;p&gt;10月，受胡塞武装袭击威胁影响，彭博报道称，沙特阿美正在谈判一笔100亿美元的循环信贷额度，以应对出货中断可能带来的资金需求。&lt;/p&gt;
+
+
+&lt;p&gt;&lt;strong&gt;市场也在关注沙特是否通过出售黄金或美债筹集美元。&lt;/strong&gt;美国数据显示，3月和4月归属于沙特投资者的美债净卖出达187亿美元，但其中包含私人账户，无法确定央行所占份额。沙特官方黄金储备截至8月为323.1吨，按每盎司3558美元计算，若通过出售黄金筹集100亿美元，需要卖出约87吨。目前，沙特央行和公共投资基金均未披露此类交易，尚无证据表明沙特正在大规模抛售黄金。&lt;/p&gt;
+&lt;p&gt;卡塔尔和阿联酋三季度也报告黄金持仓小幅下降。卡塔尔能源公司估计，修复受损设施、恢复占LNG出口产能17%的部分，需要三到五年。不过，卡塔尔8月至10月的黄金持仓完全相同，尚不能据此认定其持续抛售。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Tether：买盘降温比抛售更值得关注
+&lt;p&gt;Tether的黄金持仓变化并不支持大举抛售的说法。9月，其USDT储备对应的金库较6月减少3.4吨，但XAUT代币对应的金库同期增加3.7吨，两者合计持仓从168.2吨小幅升至168.5吨。&lt;/p&gt;
+&lt;p&gt;这两类金库分别对应USDT储备和客户持有的黄金代币，合并统计是为了衡量相关项目的实物黄金需求总量，不包括Tether自身的黄金投资。&lt;/p&gt;
+&lt;p&gt;不过，Tether的增持速度确实明显放缓。其申报文件显示，计入资产价值变动后，公司二季度亏损42.1亿美元。&lt;strong&gt;从一个季度买入14吨黄金，到近期几乎停止增持，Tether买盘降温意味着黄金失去了一个重要的边际需求来源。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 美银2027年七大交易：上半年做多美元、做空美债，下半年转战新兴市场.......</title><link>https://wallstreetcn.com/articles/3786780</link><guid>a046173367386e3ffa8fa58de1b4817a1dc9ba31b2fac8b6d292630ef6563d23</guid><pubDate>Thu, 26 Nov 2026 11:35:08 GMT</pubDate><description>&lt;p&gt;据追风交易台，美银全球研究部在11月25日发布的《Liquid Insight》报告中给出2027年七大交易构想，&lt;strong&gt;核心判断是“双速世界”：上半年美国例外论延续、AI投资韧性犹存、通胀黏性使美联储紧缩时间超出市场预期，美元与美债收益率面临上行风险；下半年随着美联储见顶、AI资本开支放缓、能源价格回落，交易主线转向收益率下行与新兴市场&lt;/strong&gt;。报告由Oliver Levingston等策略师撰写，覆盖G10外汇、G10利率与新兴市场三大板块。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;报告最鲜明的表态是“现在不是做空美元反弹的时候”&lt;/strong&gt;。美银认为，能源冲击触发了全球利率重定价&lt;strong&gt;，但更持久的故事是美国经济的相对韧性——活动数据稳健、AI相关投资强劲、通胀面扩大，将使美联储的紧缩周期长于市场预期。&lt;/strong&gt;上半年风险前置：&lt;strong&gt;一季度美联储加息、二季度法国大选，构成看多美元的两大支点。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在利率端，美银与市场的主流定价存在明显分歧。其建议做空美国2年期国债，入场4.65%，目标5.25%，止损4.4%；同时做多2年期1年期欧元OIS，入场3.15%，目标2.6%。&lt;/p&gt;
 &lt;p&gt;报告承认&lt;strong&gt;，股市回调是这一判断的逆风——自1990年9月以来12次标普500自高点回撤超10%的情形中，美国2年期收益率平均下行约18个基点，而本轮（自2026年10月6日股市见顶以来）美债涨得更少，曲线平坦化程度也更深，只有2022年1月至2月美联储上一轮加息前夕比当前更极端。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -215,78 +196,7 @@ AI交易：低点或已确认，但复苏之路颠簸
 
 
 
-&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从黄金与AI同跌谈谈避险分化与周期切换</title><link>http://www.xueqiu.com/5332385101/418675250</link><guid>93538eb10488db3373238e416b6e9ce4d2514742acfb25c6aa86b6857a48ce59</guid><pubDate>Thu, 26 Nov 2026 09:52:25 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股在节前清淡成交中走出震荡。受美10月核心PCE同比反弹至3.3%（创23年11月以来新高）及AI拖累，纳指100一度较10月高点回撤20%；随后逢低买盘介入收窄跌幅，最终纳指收跌0.65%，道指在防御及传统权重带动下逆势收涨0.31%。英伟达收跌3.91%、美光下跌4.53%，数据中心CDS篮子升至523.5个基点的历史高位。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 谁在抛售黄金？俄罗斯连续10个月减持，沙特、Tether也被盯上</title><link>https://wallstreetcn.com/articles/3786783</link><guid>1a3ba49173d5b69626f7472a4284e6ff5d9d456a8a761701e01f94ca4b14ff0f</guid><pubDate>Thu, 26 Nov 2026 12:01:04 GMT</pubDate><description>&lt;p&gt;黄金市场的抛售压力不仅来自投资者获利了结，部分官方持有者也在资金压力下持续减持。&lt;/p&gt;
-&lt;p&gt;据GoldFix统计，截至9月，土耳其、俄罗斯和阿塞拜疆国家石油基金合计净卖出约166吨黄金。&lt;strong&gt;其中，俄罗斯是唯一连续十个月每月都在卖出的持有者，1月至10月黄金持仓逐月下降，累计减少约72吨。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;土耳其央行一季度净卖出约70吨，主要集中在3月，同月还动用另外80吨黄金进行黄金换外汇掉期。阿塞拜疆国家石油基金一季度卖出21.9吨，原因是金价上涨导致黄金持仓超过组合上限，此后六个月持仓维持在178.1吨不变。&lt;/p&gt;
-&lt;p&gt;市场反复提及的Tether，则并没有出现大举抛售。其USDT储备对应的金库9月较6月减少3.4吨，但XAUT代币对应的金库同期增加3.7吨，两者合计持仓反而从168.2吨小幅升至168.5吨。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-俄罗斯持续卖金，土耳其集中减持，阿塞拜疆逢高再平衡
-
-俄罗斯央行的黄金出售主要发生在国内市场，背后是财政部动用国家财富基金为预算融资。1月至10月，俄罗斯黄金持仓连续十个月下降，累计减少约72吨。
-
-&lt;p&gt;与其他卖家相比，俄罗斯的减持更具持续性。土耳其主要面临汇率和能源进口带来的资金压力，阿塞拜疆则是在黄金持仓超过组合上限后进行再平衡。&lt;strong&gt;俄罗斯卖金则直接服务于财政融资需求，并非一次性的仓位调整。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;阿塞拜疆的减持更接近一次性组合再平衡。该国国家石油基金一季度卖出21.9吨黄金，主要因为金价上涨推高持仓占比，使其超过组合上限。此后六个月，黄金持仓一直维持在178.1吨。&lt;/p&gt;
-&lt;p&gt;土耳其一季度净卖出约70吨黄金，减持主要集中在3月。当时，能源进口账单上升和捍卫里拉汇率带来资金压力，央行还额外动用80吨黄金进行黄金换外汇掉期。&lt;/p&gt;
-&lt;p&gt;土耳其央行行长Fatih Karahan表示，掉期交易中的黄金将在到期后回归储备。到6月，未到期掉期规模已降至约60吨，二季度直接净卖出仅4吨。&lt;strong&gt;这表明，土耳其的黄金减持主要是3月的集中操作，并非持续性的大规模抛售。&lt;/strong&gt;&lt;/p&gt;
-
-
-沙特：美元需求引发市场猜测
-&lt;p&gt;沙特同样受到财政和美元流动性压力的关注。三季度石油收入同比下降23%，利雅得录得843亿里亚尔赤字，同时需要维持里亚尔与美元挂钩。另一方面，沙特阿美营收及其他销售相关收入从1115亿美元升至1405亿美元，自由现金流也有所增加。&lt;/p&gt;
-
-
-&lt;p&gt;10月，受胡塞武装袭击威胁影响，彭博报道称，沙特阿美正在谈判一笔100亿美元的循环信贷额度，以应对出货中断可能带来的资金需求。&lt;/p&gt;
-
-
-&lt;p&gt;&lt;strong&gt;市场也在关注沙特是否通过出售黄金或美债筹集美元。&lt;/strong&gt;美国数据显示，3月和4月归属于沙特投资者的美债净卖出达187亿美元，但其中包含私人账户，无法确定央行所占份额。沙特官方黄金储备截至8月为323.1吨，按每盎司3558美元计算，若通过出售黄金筹集100亿美元，需要卖出约87吨。目前，沙特央行和公共投资基金均未披露此类交易，尚无证据表明沙特正在大规模抛售黄金。&lt;/p&gt;
-&lt;p&gt;卡塔尔和阿联酋三季度也报告黄金持仓小幅下降。卡塔尔能源公司估计，修复受损设施、恢复占LNG出口产能17%的部分，需要三到五年。不过，卡塔尔8月至10月的黄金持仓完全相同，尚不能据此认定其持续抛售。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-Tether：买盘降温比抛售更值得关注
-&lt;p&gt;Tether的黄金持仓变化并不支持大举抛售的说法。9月，其USDT储备对应的金库较6月减少3.4吨，但XAUT代币对应的金库同期增加3.7吨，两者合计持仓从168.2吨小幅升至168.5吨。&lt;/p&gt;
-&lt;p&gt;这两类金库分别对应USDT储备和客户持有的黄金代币，合并统计是为了衡量相关项目的实物黄金需求总量，不包括Tether自身的黄金投资。&lt;/p&gt;
-&lt;p&gt;不过，Tether的增持速度确实明显放缓。其申报文件显示，计入资产价值变动后，公司二季度亏损42.1亿美元。&lt;strong&gt;从一个季度买入14吨黄金，到近期几乎停止增持，Tether买盘降温意味着黄金失去了一个重要的边际需求来源。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架</title><link>https://wallstreetcn.com/articles/3786771</link><guid>d6ce8be2c028641324909d76718ee7e7413d45b61be8c91fa100a4e1e2d0e76c</guid><pubDate>Thu, 26 Nov 2026 09:44:36 GMT</pubDate><description>AI正在从科研助手走向基础科学研究的深水区。一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。&lt;strong&gt;不少网友将其称为“AI发现大一统理论”，认为这可能为统一广义相对论与量子力学带来新的突破。&lt;/strong&gt;
-
-&lt;p&gt;11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Chandrasekaran在arXiv发布一篇83页的预印本论文，提出了一套在四维时空中实现引力背景独立、非微扰量子化的数学框架。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;论文致谢部分披露，研究中的若干计算与证明来自与OpenAI GPT-6 Astra长达数月的深度协作，累计消耗约4亿个token。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;论文声称，这套新框架不仅解决了传统量子引力计算中的发散问题，还证明有限区域的量子态数量有限，复现了黑洞熵公式，并在低能极限下还原经典爱因斯坦场方程。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果这些结果能够经受独立验证，将为量子引力研究提供一条新的数学路径，也展现出AI参与前沿基础科学研究的潜力。&lt;/strong&gt;不过，该论文目前尚未经过同行评审，相关结论仍有待物理学界检验。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-
-AI深度参与：数月协作，消耗4亿Token
-&lt;p&gt;相比理论本身，AI在这项研究中扮演的角色同样引人关注。&lt;/p&gt;
-&lt;p&gt;论文致谢部分明确提及，GPT-6 Astra参与了研究中的若干计算与证明工作。作者与模型进行了长达数月的深度协作，累计消耗约4亿个token。此外，论文还感谢OpenAI CEO Sam Altman及Sébastien Bubeck等人的支持。&lt;/p&gt;
-&lt;p&gt;这一合作模式与过去AI辅助科研的方式有所不同。&lt;strong&gt;此前，AI更多承担数学推导、代码编写和特定问题求解等任务，而此次合作围绕一套完整的量子引力研究框架展开，涉及持续数月的计算、理论推导与证明工作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;今年10月，&lt;strong&gt;一项由约30位物理学家参与的基准测试显示，GPT-6 Astra在50道未发表的研究级理论物理题目中答对49道，题目涵盖黑洞物理与全息理论等领域。&lt;/strong&gt;这些方向与此次论文高度相关，也为理解AI参与前沿理论物理研究的能力提供了参照。&lt;/p&gt;
-&lt;p&gt;不过，论文并未详细披露哪些核心计算和证明由GPT-6 Astra完成，因此目前还无法准确评估模型对最终理论成果的实际贡献。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-百年难题：为什么引力无法被顺利量子化？
-&lt;p&gt;广义相对论和量子力学是现代物理学的两大支柱，但两套理论描述世界的方式存在根本差异。&lt;/p&gt;
-&lt;p&gt;量子力学描述微观世界的量子规律，广义相对论则认为，引力本质上是时空几何的弯曲。&lt;strong&gt;当物理学家试图将引力纳入量子理论时，首先遇到的就是数学发散问题。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在传统微扰量子引力框架下，研究人员将引力子视为在平直时空中传播的粒子，通过逐阶计算量子修正来描述引力相互作用。然而，高能循环计算会产生无法通过有限数量参数消除的紫外无穷大发散，即所谓的“不可重整化”问题，导致理论难以建立稳定的预测体系。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;另一个难点是背景独立性。&lt;/strong&gt;广义相对论中的时空并非固定不变的舞台，而是能够受到物质和能量影响的动态结构。因此，真正的量子引力理论不能简单地预设固定时空背景。&lt;/p&gt;
-&lt;p&gt;过去几十年，弦理论、圈量子引力和AdS/CFT对应关系等方案都试图解决这一问题，但各自面临不同的理论局限，量子引力至今仍没有形成获得广泛认可的完整答案。&lt;/p&gt;
-核心方案：从光锥边界重建量子引力
-&lt;p&gt;与传统方法不同，Chandrasekaran选择从光锥结构入手。&lt;/p&gt;
-&lt;p&gt;光锥描述了时空中某一事件能够影响其他事件的因果范围。两个事件的前向与后向光锥相交，可以围出一个有限区域，称为「因果钻石」。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;论文的核心设想是：因果钻石内部的引力信息，可以通过其光锥边界上的信息完整描述。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;作者利用引力场方程在光锥边界上的特殊性质，提取出不依赖固定时空背景的约化相空间，再将经典泊松括号转化为量子算符的对易关系，利用高斯波函数构建非微扰的希尔伯特空间表示。&lt;/p&gt;
-&lt;p&gt;与传统方法需要逐阶展开引力相互作用不同，这一框架试图直接在有限牛顿引力常数下处理量子引力，从而绕开传统计算中的发散问题。&lt;/p&gt;
-&lt;p&gt;此外，作者将参考系锚定在光锥交汇处的几何结构上，并利用光沿光锥传播的距离作为内禀时钟。多个因果钻石还可以通过共享边界拼接，构建整个理论的路径积分。&lt;/p&gt;
-四项关键成果：从消除发散到复现黑洞熵
-&lt;p&gt;论文声称，这套新框架在四个方面取得了重要进展。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，传统计算中的无穷大发散得到解决。&lt;/strong&gt;作者计算了光锥上引力子对的产生与湮灭振幅。传统微扰论会得到对数发散，而新框架通过非微扰求和，得到了有限的闭合解析表达式，并声称所有中间态的物理求和均绝对收敛。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，有限时空区域的信息容量得到约束。&lt;/strong&gt;论文证明，有界因果钻石对应的希尔伯特空间维度有限，面积算符具有离散谱。这与全息原理相呼应，即一个空间区域所能容纳的信息量受到边界面积而非体积的限制。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，复现贝肯斯坦-霍金黑洞熵公式。&lt;/strong&gt;论文通过对黑洞边际俘获面上的量子态进行求和，得到了贝肯斯坦-霍金面积熵公式。作者还计算了大型史瓦西黑洞的一圈量子修正，复现了印度物理学家Ashoke Sen此前利用欧几里得路径积分方法得到的对数修正系数。两种不同数学方法得出相同结果，为新框架提供了一项一致性检验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第四，经典爱因斯坦场方程在低能极限下重新涌现。&lt;/strong&gt;论文声称，在宏观低能极限下，该框架能够在相干初态的一圈近似水平上还原经典半经典爱因斯坦场方程。这意味着，新理论试图解释量子引力如何过渡到宏观世界熟悉的经典时空。&lt;/p&gt;
-距离真正突破仍有多远？
-&lt;p&gt;尽管论文提出了颇具雄心的理论框架，但距离获得物理学界认可，仍有不少障碍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首先，论文目前只是一篇未经同行评审的预印本。&lt;/strong&gt;量子引力领域并不缺少数学上看似自洽、但最终难以通过严格检验的理论方案。据报道，Chandrasekaran在伯克利进行线下学术报告时，已经遭遇学者密集的质疑与反驳。&lt;/p&gt;
-&lt;p&gt;其次，这套框架目前仅覆盖纯真空引力，尚未纳入电子、夸克等物质场。&lt;strong&gt;如何将标准模型中的基本粒子及其相互作用整合进来，仍是一项重大挑战。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，实验验证依然极其困难。&lt;/strong&gt;量子引力效应通常只有在普朗克能标附近才会变得显著，远超现有粒子对撞机的实验能力。未来研究人员可能需要从极早期宇宙、宇宙微波背景辐射等观测数据中寻找间接证据。&lt;/p&gt;
-&lt;p&gt;此外，论文没有明确划分人类研究者与GPT-6 Astra各自的贡献。&lt;strong&gt;AI能够参与计算和证明，并不意味着其已经独立提出或验证了整套理论。理论框架的物理意义、数学严谨性以及能否与现实世界相符，仍需要人类科学家进行独立审查。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从统一广义相对论与量子力学，到解释黑洞熵和时空的信息容量，量子引力研究始终是基础物理学最艰难的前沿之一。这一次，AI深度参与了一项持续数月的理论研究，但这套框架究竟能否成为量子引力研究的新方向，仍有待同行评审和后续研究给出答案。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 对10个月前的答案，黄金到底还能不能买？</title><link>http://www.xueqiu.com/2884313460/418672082</link><guid>ad4f593ff44fe323ef88d9daedf7ec8fad7e9e17373b23918732d0361f7c2c6d</guid><pubDate>Thu, 26 Nov 2026 09:53:01 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11 月 25 日深夜，伦敦金跌破 3500 美元，最低 3454.16。&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上证50集合竞价急拉，银行股逆势走强，创业板冲高回落涨0.3%，PCB、CPO活跃，恒科指涨超1%，AI大模型股强势反弹</title><link>https://wallstreetcn.com/articles/3786732</link><guid>87d62e68b7eb4482ee10dae826002466225424bafd45566f09075e155b6e38d5</guid><pubDate>Thu, 26 Nov 2026 08:19:52 GMT</pubDate><description>&lt;p&gt;隔夜美国PCE超预期推升12月加息预期、AI抛售后避险情绪升温，贵金属走出&amp;quot;V型&amp;quot;反弹，PCB则受紧缺警报与AI服务器放量双重提振。&lt;/p&gt;
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 上证50集合竞价急拉，银行股逆势走强，创业板冲高回落涨0.3%，PCB、CPO活跃，恒科指涨超1%，AI大模型股强势反弹</title><link>https://wallstreetcn.com/articles/3786732</link><guid>87d62e68b7eb4482ee10dae826002466225424bafd45566f09075e155b6e38d5</guid><pubDate>Thu, 26 Nov 2026 08:19:52 GMT</pubDate><description>&lt;p&gt;隔夜美国PCE超预期推升12月加息预期、AI抛售后避险情绪升温，贵金属走出&amp;quot;V型&amp;quot;反弹，PCB则受紧缺警报与AI服务器放量双重提振。&lt;/p&gt;
 &lt;p&gt;11月26日，A股全天震荡整理，午后三大股指一度集体走低，沪指收盘微涨0.01%，得益于银行、中字头等权重股拉升支撑，集合竞价上证50急拉。创业板指午后曾跌超1%，尾盘艰难转涨，盘中一度涨超2%。AI硬件侧局部活跃，电路板、覆铜板拉升，贵金属、油气、煤炭等板块上涨。疫苗、物理AI、机器人等概念股陷入调整。&lt;/p&gt;
 &lt;p&gt;中国神华A股午后连创新高，市值跻身A股前十。中国石油、中国石化、中国海油等普遍强势。银行板块逆势走强，南京银行涨近3%，成都银行、交通银行、中信银行、江苏银行涨超1%，均创历史新高。&lt;/p&gt;
 &lt;p&gt;港股全天震荡上涨，午后涨幅一度有所收窄，收盘恒指、恒科指仍均涨超1%，恒科指一度涨超3%，权重科网股多数反弹，百度、携程、哔哩哔哩逆势下跌，芯片、光模块、光纤等科技股拉升，中际旭创涨超6%。AI大模型股强势爆发，智谱、MINIMAX涨幅超过7%，盘中均大涨超10%。债市方面，国债期货午后震荡反弹。商品方面，国内商品期货普遍上涨。&lt;/p&gt;
@@ -359,4 +269,90 @@ PCB全天活跃
 
 &lt;p&gt;据彭博报道，以2008年做空美国抵押贷款市场闻名的投资者Michael Burry，在平掉纳斯达克100指数看跌期权后，其多头股票仓位已超过空头。与此同时，美国芯片限制正令亚洲数十亿美元的AI数据中心融资受阻。&lt;/p&gt;
 &lt;p&gt;Fitch Solutions旗下BMI首席经济学家Cedric Chehab表示，股市波动加剧与全球信贷利差稳步走阔，正开始影响增长与利率预期。他指出，与两周前相比，市场目前预计到明年9月美联储将少加息约一次。&lt;/p&gt;
-&lt;p&gt;“一线小小的曙光在于，尽管信贷利差走阔和股市疲软指向金融条件收紧，但债券收益率回落以及过去一两天美元指数的相对稳定，有助于限制部分收紧效应，”Chehab说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 2026年，12类资产集体坐过山车，谁扛住了？（11.26）</title><link>http://www.xueqiu.com/9391624441/418689966</link><guid>c075e3b4177a1c1642dea9372db36ecdd5b7868a6ebebc504a8e1abe357ebe19</guid><pubDate>Thu, 26 Nov 2026 09:52:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;市场继续震荡下行，上证指数回落至3500点下方，深证成指跌至10000点附近，而创业板指则跌破2200点，整个市场估值回落至&lt;strong&gt;28.3℃&lt;/strong&gt;，再次进入&lt;strong&gt;正常偏低状态&lt;/strong&gt;。&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;“一线小小的曙光在于，尽管信贷利差走阔和股市疲软指向金融条件收紧，但债券收益率回落以及过去一两天美元指数的相对稳定，有助于限制部分收紧效应，”Chehab说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨</title><link>https://wallstreetcn.com/articles/3786738</link><guid>97e140994a322d7bfb0189ffef98923702c45e28e42f35d78b54b2238a1fdc1e</guid><pubDate>Thu, 26 Nov 2026 04:19:33 GMT</pubDate><description>&lt;p&gt;AI基础设施的最新数据呈现出一幅分化图景：用量与价格背道而驰，存储市场内部也出现明显裂痕。&lt;/p&gt;
+&lt;p&gt;追风交易台消息，11月23日摩根大通Joseph Cardoso团队发布最新《数据中心观察》月度追踪报告，&lt;strong&gt;11月大模型付费Token用量环比激增79%，但价格同步大幅下滑，导致整体支出环比增速骤然放缓至仅8%&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这一&amp;quot;量升价跌&amp;quot;的格局，主要由腾讯Hy4 Flash和DeepSeek V4.1 Flash 1017等低价开源模型的大规模渗透所驱动。&lt;/p&gt;
+&lt;p&gt;与此同时，英伟达GPU租赁价格全线上涨，B200涨幅最为突出；&lt;strong&gt;存储市场则出现分化，DRAM现货价格连续第二个月上涨，NAND价格却加速下跌，录得连续第三个月下滑&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;上述数据对AI硬件产业链的影响不容忽视：&lt;strong&gt;GPU算力供需仍偏紧，支撑租赁价格走强；但模型层面的价格战正压缩整体推理支出的增长空间，直接影响AI基础设施投资的回报逻辑。&lt;/strong&gt;&lt;/p&gt;
+用量暴涨，价格大跌，支出增速骤降
+&lt;p&gt;摩根大通依据OpenRouter平台数据追踪显示，11月付费Token用量大幅加速，环比增长79%（10月为+25%，9月为+71%），同比则高达54倍。&lt;/p&gt;
+&lt;p&gt;然而，用量的爆发并未转化为相应的支出增长。Token成交量加权平均价格（VWAP）环比暴跌39%，同比下降52%。&lt;/p&gt;
+&lt;p&gt;（成交量加权平均Token定价）&lt;/p&gt;
+&lt;p&gt;平均Token定价也环比下滑15%。&lt;/p&gt;
+&lt;p&gt;（平均Token定价）&lt;/p&gt;
+&lt;p&gt;综合来看，估算整体支出仅环比增长8%，远低于10月的40%，同比则扩大至26倍。&lt;/p&gt;
+&lt;p&gt;（每周Token支出快照）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;用量与价格的剧烈背离，直接指向开源模型的快速崛起。&lt;/strong&gt;11月按用量排名的前五大模型合计占总Token用量的65%，高于10月的47%以上及9月的53%以上。分别为：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;腾讯Hy4 Flash；&lt;/li&gt;
+&lt;li&gt;DeepSeek V4.1 Flash 1017；&lt;/li&gt;
+&lt;li&gt;DeepSeek V4.1 Flash；&lt;/li&gt;
+&lt;li&gt;腾讯Hy4；&lt;/li&gt;
+&lt;li&gt;GLM 5.3 Flash。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;（11月按用量排名的前五大模型）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;然而在支出侧，模型截然不同，分别为：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Claude Opus 5.5；&lt;/li&gt;
+&lt;li&gt;Claude Fable 5.2；&lt;/li&gt;
+&lt;li&gt;GPT-6.1 Sol；&lt;/li&gt;
+&lt;li&gt;Claude Sonnet 5.；&lt;/li&gt;
+&lt;li&gt;DeepSeek V4.1 Flash 1017。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;合计占总支出的51%。两份榜单中仅有DeepSeek V4.1 Flash 1017同时出现。从结构上看，本月价格下行的核心驱动有两项：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一是&lt;/strong&gt;腾讯Hy4 Flash的大规模使用，该模型以享有50%挂牌价折扣的价格，录得88.4万亿Token的用量，占总付费用量的29%，但仅贡献约500万美元估算支出，仅占总支出的2.5%，每百万Token的混合均价约为0.056美元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二是&lt;/strong&gt;DeepSeek V4.1 Flash 1017用量显著增加，达到67.8万亿Token，占总用量的22%，但支出占比仅为4.3%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从支出占比来看，闭源模型仍占据总支出的75%，但这一比例较10月的77%略有下滑。Claude Opus 5.5依然是最大单一支出来源，以8.1万亿Token贡献约5800万美元支出，占总支出的29%，但其支出环比下降5.5%，支出占比也从10月的33%进一步收窄。&lt;/p&gt;
+&lt;p&gt;（Token定价与交易量）&lt;/p&gt;
+GPU租赁价格全线上涨，B200溢价持续走阔
+&lt;p&gt;GPU算力市场延续供需偏紧格局。&lt;/p&gt;
+&lt;p&gt;研报援引彭博指数数据，11月非超大规模云厂商GPU租赁价格全线走高。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A100&lt;/strong&gt;价格从10月的环比下跌3.1%反弹，11月均价升至每GPU小时1.61美元，环比上涨4.4%。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;H100&lt;/strong&gt;均价升至3.03美元，环比上涨6.7%，升幅与10月的7.2%相近。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B200&lt;/strong&gt;涨势最为强劲，均价升至6.81美元，环比上涨10.9%，高于10月的7.2%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（GPU平均月租金）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;各芯片间的价格倍数也在同步扩大：&lt;strong&gt;B200与H100的价格比升至2.24倍（10月为2.16倍），H100与A100的价格比升至1.89倍（10月为1.85倍），两者均较上月走高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;分析认为，这意味着高端算力的稀缺溢价仍在持续强化，对英伟达GPU供应链相关标的构成正向支撑。&lt;/p&gt;
+&lt;p&gt;(非超大规模云服务商的GPU平均月租金比)&lt;/p&gt;
+DRAM持续回暖，NAND加速探底
+&lt;p&gt;存储市场内部的分化则在11月进一步加剧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DRAM方面&lt;/strong&gt;，DDR5 16Gb现货价格升至52.70美元，环比上涨1.7%（10月为+4.4%），同比增长84%，连续第二个月录得上涨，尽管涨幅有所收窄。&lt;/p&gt;
+&lt;p&gt;据TrendForce数据，DRAM合约价格在三季度环比增长16%，四季度预计将进一步扩张约13%。&lt;/p&gt;
+&lt;p&gt;（DRAM合约价格环比增长率）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NAND方面则走势相反。&lt;/strong&gt;NAND 1Tb现货价格跌至25.00美元，环比下跌15.0%，跌幅远超10月的2.6%，为连续第三个月下滑。尽管如此，NAND现货价格同比仍上涨93%，主要因去年同期基数较低。&lt;/p&gt;
+&lt;p&gt;（内存价格月环比与月同比图）&lt;/p&gt;
+&lt;p&gt;TrendForce数据显示，&lt;strong&gt;NAND合约价格三季度环比增长21%，四季度预计将继续增长约18%，但两类存储的合约价格增速均较上季度的50%以上大幅回落。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（NAND合约价格环比增长率）&lt;/p&gt;
+
+
+
+&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI避风港！一片惨跌声中，印度股市11月涨逾12%领跑全球</title><link>https://wallstreetcn.com/articles/3786733</link><guid>47b92810ae9ea9365ec9130f567f11b3611ce11b83e367810170f41d6a50e298</guid><pubDate>Thu, 26 Nov 2026 02:45:29 GMT</pubDate><description>&lt;p&gt;当全球AI科技股遭遇抛售、亚太市场普遍下挫之际，印度股市却凭借低AI敞口的“意外优势”，成为本轮行情中最大的受益者。&lt;/p&gt;
+&lt;p&gt;11月25日，印度Sensex指数收报83938点，Nifty 50收报25819.25点，单日涨幅均超过1.8%。11月以来，两大基准指数累计涨幅已超过12%，在全球90多个主要市场中排名第一。与此同时，外国投资者本月已向印度股市净流入142.8亿美元，有望创下单月流入纪录。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;同日，亚太科技股集体重挫。韩国KOSPI指数单日收跌6.16%，三星电子跌9.87%，SK海力士跌11.05%；日经225指数收跌2.78%，软银集团跌近15%。印度与周边市场的走势分化，在这一天被放大至极致。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+低AI敞口，从“劣势”变“优势”
+&lt;p&gt;随着市场开始质疑高企的AI估值和巨额资本开支计划能否持续，全球资金加速从AI相关股票中撤出，转向与AI产业关联度较低的市场。印度因此成为这一轮资金轮动的主要目的地。&lt;/p&gt;
+&lt;p&gt;据路透社数据，11月外国投资者已向印度股市净流入142.8亿美元，大量资金集中流向印度市值最大的蓝筹公司，包括大型银行和综合企业集团。&lt;/p&gt;
+&lt;p&gt;分析师对此直言：“过去两年，印度市场表现落后，原因很简单，就是缺乏AI产业敞口。但在当前这个时点，这反而成为了一项优势。”&lt;/p&gt;
+&lt;p&gt;美国银行上周发布的亚洲基金经理调查报告也印证了这一趋势——受访基金经理普遍大幅削减了对东亚半导体板块及全球泛科技股的超配比例，而印度股票市场则自今年1月以来首次转为净超配，净超配比例升至5%。&lt;/p&gt;
+企业盈利超预期，基本面提供支撑
+&lt;p&gt;资金面之外，企业盈利的改善为这轮反弹提供了另一重支撑。&lt;/p&gt;
+&lt;p&gt;野村控股印度分部在一份报告中指出，其追踪的264家印度企业，截至9月的第三季度净利润同比增长31%，较市场一致预期高出14个百分点。即便剔除石油天然气企业和金属生产商，盈利仍同比增长23%，超出市场预期5个百分点。&lt;/p&gt;
+&lt;p&gt;与此同时，国际油价的回落也为印度市场提供了额外利好。由于印度大部分原油需求依赖进口，油价下跌有助于缓解进口成本、通胀及经常账户赤字压力，并对企业利润率和卢比汇率形成正面支撑。&lt;/p&gt;
+机构上调评级，看好分散化配置价值
+&lt;p&gt;机构层面，高盛策略团队已在亚太区域内将印度市场上调至“超配”评级，理由是印度对AI算力和半导体的敞口较低，在AI资本开支增速放缓、科技硬件板块承压的背景下，具备分散化的配置价值。&lt;/p&gt;
+&lt;p&gt;值得注意的是，这轮上涨也标志着印度股市此前连续数月跑输全球的局面出现逆转——彼时市场表现不佳，部分原因正是印度对AI相关投资机会的参与度相对有限。截至11月25日收盘，Sensex和Nifty 50两大指数已几乎抹平今年以来的全部跌幅。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从黄金与AI同跌谈谈避险分化与周期切换</title><link>http://www.xueqiu.com/5332385101/418675250</link><guid>93538eb10488db3373238e416b6e9ce4d2514742acfb25c6aa86b6857a48ce59</guid><pubDate>Thu, 26 Nov 2026 09:52:25 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股在节前清淡成交中走出震荡。受美10月核心PCE同比反弹至3.3%（创23年11月以来新高）及AI拖累，纳指100一度较10月高点回撤20%；随后逢低买盘介入收窄跌幅，最终纳指收跌0.65%，道指在防御及传统权重带动下逆势收涨0.31%。英伟达收跌3.91%、美光下跌4.53%，数据中心CDS篮子升至523.5个基点的历史高位。&lt;/p&gt;</description></item><item><title>[今日雪球] 对10个月前的答案，黄金到底还能不能买？</title><link>http://www.xueqiu.com/2884313460/418672082</link><guid>ad4f593ff44fe323ef88d9daedf7ec8fad7e9e17373b23918732d0361f7c2c6d</guid><pubDate>Thu, 26 Nov 2026 09:53:01 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11 月 25 日深夜，伦敦金跌破 3500 美元，最低 3454.16。&lt;/p&gt;</description></item><item><title>[今日雪球] 2026年，12类资产集体坐过山车，谁扛住了？（11.26）</title><link>http://www.xueqiu.com/9391624441/418689966</link><guid>c075e3b4177a1c1642dea9372db36ecdd5b7868a6ebebc504a8e1abe357ebe19</guid><pubDate>Thu, 26 Nov 2026 09:52:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;市场继续震荡下行，上证指数回落至3500点下方，深证成指跌至10000点附近，而创业板指则跌破2200点，整个市场估值回落至&lt;strong&gt;28.3℃&lt;/strong&gt;，再次进入&lt;strong&gt;正常偏低状态&lt;/strong&gt;。&lt;/p&gt;</description></item></channel></rss>
