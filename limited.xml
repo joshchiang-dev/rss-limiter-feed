@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 15:59:13 GMT</lastBuildDate><item><title>[华尔街见闻] Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局</title><link>https://wallstreetcn.com/articles/3786773</link><guid>9175e35cc79563c7ec638303de3c4fbc77c3d4cdc40e9a2c9708428c9b73700a</guid><pubDate>Thu, 26 Nov 2026 09:59:42 GMT</pubDate><description>&lt;p&gt;11月25日，视频生成模型公司三呆科技（&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;）发布新一代模型MAGI-2，1080P视频生成定价每秒0.5元，生成一段30秒视频需15元。&lt;/p&gt;&lt;p&gt;&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;披露，MAGI-2总参数量由上一代Preview的114B扩展至480B，激活参数量由约6B提升至28B，训练数据规模扩大约3倍。模型支持单次生成4至30秒视频，最多可参考20份图片、视频和音频素材，提示词长度上限2万字符。&lt;/p&gt;&lt;p&gt;截至11月26日，Artificial Analysis视频模型榜单中，MAGI-2模型在图生视频榜单中得分排名第一。同一榜单上还有Seedance、可灵、MiniMax H3等国产视频模型。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;目前MAGI-2完整模型权重尚未公开。&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;表示将尽快开放模型权重，模型API已开放申请，首批优先面向战略合作客户。&lt;/p&gt;&lt;p&gt;这次发布的产业看点在国产芯片的参与程度上。&lt;/p&gt;&lt;p&gt;摩尔线程进入该模型首发商业化服务。11月25日，摩尔线程（&lt;a href="http://688795.SH"&gt;688795.SH&lt;/a&gt;）披露，公司依托MTT S5000全功能GPU及自研MUSA软件栈，为MAGI-2首发上线及商业化视频生成服务提供算力支撑，双方后续将在推理性能优化、算力资源管理、规模化任务调度及服务部署等方面继续合作。&lt;/p&gt;&lt;p&gt;海光目前完成的是模型适配和推理验证。11月25日，海光信息（&lt;a href="http://688041.SH"&gt;688041.SH&lt;/a&gt;）披露，海光在MAGI-2发布前即参与协同，基于海光DCU深算三号当日跑通推理、次日打通量化，支持MagiMoE框架MagiCompiler和MagiAttention。&lt;/p&gt;&lt;p&gt;网宿科技（&lt;a href="http://300017.SZ"&gt;300017.SZ&lt;/a&gt;）&lt;a href="http://以投资方式参与Sand.ai"&gt;以投资方式参与Sand.ai&lt;/a&gt;的商业化进程。9月29日，&lt;a href="http://网宿科技披露拟出资3亿元参与Sand.ai"&gt;网宿科技披露拟出资3亿元参与Sand.ai&lt;/a&gt;的A+轮投资，并以可转债作为过渡性安排。&lt;/p&gt;&lt;p&gt;网宿科技在投资公告中提出，未来将探索音视频推理、低延时边缘推理等场景与自身业务的融合，具体合作项目和业务规模尚未披露。&lt;/p&gt;&lt;p&gt;11月17日，网宿科技与相关方签署重组框架协议。11月18日进展公告披露，&lt;a href="http://上海三呆科技将成为Sand.ai"&gt;上海三呆科技将成为Sand.ai&lt;/a&gt;重组后的境内控股主体。根据公告，在完全稀释及认股权证全部行使等假设条件下，网宿科技预计持有上海三呆科技4.7654%的股权，最终比例仍需待剩余A+轮股东完成交割后确定。&lt;/p&gt;&lt;p&gt;公告显示，网宿科技已签署相关投资协议，&lt;a href="http://向Sand.ai"&gt;向Sand.ai&lt;/a&gt;境内运营主体支付3亿元可转债，取得对应认股权证。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;从单一模型的商业化推理到持续的算力订单，中间还缺少公开的推理量和收入数据。具体而言，摩尔线程方面可关注S5000的实际部署规模和推理吞吐量，海光方面可观察适配进入生产部署的进度。网宿科技的3亿元投资兑现情况，可参照重组交割后的最终持股比例和业务协同落地进度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 汽水逼近QQ音乐，腾讯把曲库搬进微信</title><link>https://wallstreetcn.com/articles/3786787</link><guid>659ba1804b5116643a3ad665c3cb42da07d61378f366048d00d8ce0fd6ce30d0</guid><pubDate>Thu, 26 Nov 2026 12:35:34 GMT</pubDate><description>&lt;p&gt;面对汽水音乐的快速增长，腾讯音乐正在进一步借力微信。&lt;/p&gt;&lt;p&gt;11月25日，部分微信用户发现，“听一听”的个人歌单中多出了一个名为“微信音乐”的入口，与QQ音乐、酷狗音乐并列，排在第一位。&lt;/p&gt;&lt;p&gt;曲库仍由QQ音乐提供，但微信音乐有了自己的推荐、评论和歌单共享功能。用户可以给一首歌录制语音留言，下次播放时优先响起，也可以通过共享歌单和微信好友一起听歌。&lt;/p&gt;&lt;p&gt;截至11月26日，微信与腾讯音乐均未对此发布官方公告，功能仍在灰度测试。&lt;/p&gt;&lt;p&gt;微信做音乐并非新鲜事。2023年，微信曾联合QQ音乐推出限时免费听歌活动；2024年，音乐音频业务被提至发现页一级入口，定名“听一听”；今年5月，又加入了AI写歌与翻唱功能。&lt;/p&gt;&lt;p&gt;如今，微信开始有了以自己命名的音乐产品。此时，腾讯音乐正在面对一个增长迅速的对手。&lt;/p&gt;&lt;strong&gt;汽水音乐的进攻&lt;/strong&gt;&lt;p&gt;QuestMobile数据显示，今年6月，汽水音乐月活达到1.67亿，同比增长68.7%，超过网易云音乐，跻身行业第三。&lt;/p&gt;&lt;p&gt;同期，酷狗音乐、QQ音乐的月活分别为1.94亿和1.89亿，同比下降10.7%和0.7%。&lt;/p&gt;&lt;p&gt;汽水音乐与QQ音乐的月活差距已经缩小至2200万。&lt;/p&gt;&lt;p&gt;汽水音乐的优势很大程度上来自抖音。用户刷短视频时听到一段喜欢的音乐，可以跳转汽水音乐收听完整版。抖音既是音乐的传播渠道，也是汽水音乐的获客渠道。&lt;/p&gt;&lt;p&gt;过去，用户往往是有了听歌的需求，才会打开音乐App。抖音则在用户刷视频的过程中不断创造这种需求，再由汽水音乐承接。&lt;/p&gt;&lt;p&gt;配合免费听歌和广告解锁机制，汽水音乐对价格敏感型用户也有较强的吸引力。&lt;/p&gt;&lt;p&gt;这种竞争尚未直接反映在腾讯音乐的会员收入上，却已经给流量和广告业务带来了压力。&lt;/p&gt;&lt;p&gt;今年三季度，腾讯音乐营收89.4亿元，同比增长5.6%，一年前同期的增速为20.6%；音乐相关会员服务收入49.9亿元，同比增长9.2%。&lt;/p&gt;&lt;p&gt;腾讯音乐CEO梁柱在三季度业绩会上提到，部分广告主正在削减预算，平台也面临流量竞争，预计广告业务增长仍将承压。&lt;/p&gt;&lt;p&gt;腾讯音乐今年已陆续推出酷狗免费版、独立App“免费音乐”，进一步覆盖免费听歌人群。与此同时，微信的资源也在被更多地调用。&lt;/p&gt;&lt;strong&gt;腾讯音乐借力微信&lt;/strong&gt;&lt;p&gt;今年二季度，腾讯音乐已与微信支付展开合作，通过日常支付场景为波点音乐、酷狗概念版等轻量应用引流。&lt;/p&gt;&lt;p&gt;在三季度业绩会上，腾讯音乐管理层提到，用户已经可以从微信视频号跳转至QQ音乐和酷狗音乐，未来视频号将成为腾讯音乐的重要推广和分发渠道。&lt;/p&gt;&lt;p&gt;微信音乐的出现，让用户无需离开微信，也能使用QQ音乐提供的曲库。&lt;/p&gt;&lt;p&gt;自2021年网络音乐独家版权受到监管限制以来，腾讯音乐仍在持续投入版权采购。如果同一套曲库能够覆盖更多产品和用户场景，其版权资源的利用效率也有望提高。&lt;/p&gt;&lt;p&gt;这也是腾讯音乐与汽水音乐竞争时，可以进一步挖掘的资源。&lt;/p&gt;&lt;p&gt;不过，微信和抖音的音乐分发逻辑存在很大差异。抖音可以借助算法和短视频批量制造热门歌曲，微信音乐目前的社交玩法则更多依赖好友之间的分享。&lt;/p&gt;&lt;p&gt;微信用户每天要打开很多次微信，但有多少人愿意留在微信里听歌，仍是个未知数。&lt;/p&gt;&lt;p&gt;从目前披露的产品信息来看，微信音乐尚未建立独立的会员订阅体系，其与QQ音乐的会员权益如何衔接、商业化收益如何归属，也有待进一步明确。&lt;/p&gt;&lt;p&gt;但对于腾讯音乐来说，汽水音乐的增长已经说明，音乐App之外的流量同样能够影响音乐行业的竞争格局。&lt;/p&gt;&lt;p&gt;字节已经通过抖音把汽水音乐做到了超过1.6亿月活，腾讯手中还有一个用户规模超过十亿、尚未充分开发音乐收听场景的微信。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 砍掉宁德时代，理想砍出利润</title><link>https://wallstreetcn.com/articles/3786758</link><guid>ecc5f68b65303faa05339505b3624270c6661213dcd99d3ac6772652aed074d4</guid><pubDate>Thu, 26 Nov 2026 07:48:51 GMT</pubDate><description>&lt;p&gt;汽车行业的竞争正在从规模扩张转向成本与效率的较量，理想汽车则试图通过重构供应链，重新找回利润增长空间。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 16:29:18 GMT</lastBuildDate><item><title>[华尔街见闻] Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局</title><link>https://wallstreetcn.com/articles/3786773</link><guid>9175e35cc79563c7ec638303de3c4fbc77c3d4cdc40e9a2c9708428c9b73700a</guid><pubDate>Thu, 26 Nov 2026 09:59:42 GMT</pubDate><description>&lt;p&gt;11月25日，视频生成模型公司三呆科技（&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;）发布新一代模型MAGI-2，1080P视频生成定价每秒0.5元，生成一段30秒视频需15元。&lt;/p&gt;&lt;p&gt;&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;披露，MAGI-2总参数量由上一代Preview的114B扩展至480B，激活参数量由约6B提升至28B，训练数据规模扩大约3倍。模型支持单次生成4至30秒视频，最多可参考20份图片、视频和音频素材，提示词长度上限2万字符。&lt;/p&gt;&lt;p&gt;截至11月26日，Artificial Analysis视频模型榜单中，MAGI-2模型在图生视频榜单中得分排名第一。同一榜单上还有Seedance、可灵、MiniMax H3等国产视频模型。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;目前MAGI-2完整模型权重尚未公开。&lt;a href="http://Sand.ai"&gt;Sand.ai&lt;/a&gt;表示将尽快开放模型权重，模型API已开放申请，首批优先面向战略合作客户。&lt;/p&gt;&lt;p&gt;这次发布的产业看点在国产芯片的参与程度上。&lt;/p&gt;&lt;p&gt;摩尔线程进入该模型首发商业化服务。11月25日，摩尔线程（&lt;a href="http://688795.SH"&gt;688795.SH&lt;/a&gt;）披露，公司依托MTT S5000全功能GPU及自研MUSA软件栈，为MAGI-2首发上线及商业化视频生成服务提供算力支撑，双方后续将在推理性能优化、算力资源管理、规模化任务调度及服务部署等方面继续合作。&lt;/p&gt;&lt;p&gt;海光目前完成的是模型适配和推理验证。11月25日，海光信息（&lt;a href="http://688041.SH"&gt;688041.SH&lt;/a&gt;）披露，海光在MAGI-2发布前即参与协同，基于海光DCU深算三号当日跑通推理、次日打通量化，支持MagiMoE框架MagiCompiler和MagiAttention。&lt;/p&gt;&lt;p&gt;网宿科技（&lt;a href="http://300017.SZ"&gt;300017.SZ&lt;/a&gt;）&lt;a href="http://以投资方式参与Sand.ai"&gt;以投资方式参与Sand.ai&lt;/a&gt;的商业化进程。9月29日，&lt;a href="http://网宿科技披露拟出资3亿元参与Sand.ai"&gt;网宿科技披露拟出资3亿元参与Sand.ai&lt;/a&gt;的A+轮投资，并以可转债作为过渡性安排。&lt;/p&gt;&lt;p&gt;网宿科技在投资公告中提出，未来将探索音视频推理、低延时边缘推理等场景与自身业务的融合，具体合作项目和业务规模尚未披露。&lt;/p&gt;&lt;p&gt;11月17日，网宿科技与相关方签署重组框架协议。11月18日进展公告披露，&lt;a href="http://上海三呆科技将成为Sand.ai"&gt;上海三呆科技将成为Sand.ai&lt;/a&gt;重组后的境内控股主体。根据公告，在完全稀释及认股权证全部行使等假设条件下，网宿科技预计持有上海三呆科技4.7654%的股权，最终比例仍需待剩余A+轮股东完成交割后确定。&lt;/p&gt;&lt;p&gt;公告显示，网宿科技已签署相关投资协议，&lt;a href="http://向Sand.ai"&gt;向Sand.ai&lt;/a&gt;境内运营主体支付3亿元可转债，取得对应认股权证。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;从单一模型的商业化推理到持续的算力订单，中间还缺少公开的推理量和收入数据。具体而言，摩尔线程方面可关注S5000的实际部署规模和推理吞吐量，海光方面可观察适配进入生产部署的进度。网宿科技的3亿元投资兑现情况，可参照重组交割后的最终持股比例和业务协同落地进度。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 汽水逼近QQ音乐，腾讯把曲库搬进微信</title><link>https://wallstreetcn.com/articles/3786787</link><guid>659ba1804b5116643a3ad665c3cb42da07d61378f366048d00d8ce0fd6ce30d0</guid><pubDate>Thu, 26 Nov 2026 12:35:34 GMT</pubDate><description>&lt;p&gt;面对汽水音乐的快速增长，腾讯音乐正在进一步借力微信。&lt;/p&gt;&lt;p&gt;11月25日，部分微信用户发现，“听一听”的个人歌单中多出了一个名为“微信音乐”的入口，与QQ音乐、酷狗音乐并列，排在第一位。&lt;/p&gt;&lt;p&gt;曲库仍由QQ音乐提供，但微信音乐有了自己的推荐、评论和歌单共享功能。用户可以给一首歌录制语音留言，下次播放时优先响起，也可以通过共享歌单和微信好友一起听歌。&lt;/p&gt;&lt;p&gt;截至11月26日，微信与腾讯音乐均未对此发布官方公告，功能仍在灰度测试。&lt;/p&gt;&lt;p&gt;微信做音乐并非新鲜事。2023年，微信曾联合QQ音乐推出限时免费听歌活动；2024年，音乐音频业务被提至发现页一级入口，定名“听一听”；今年5月，又加入了AI写歌与翻唱功能。&lt;/p&gt;&lt;p&gt;如今，微信开始有了以自己命名的音乐产品。此时，腾讯音乐正在面对一个增长迅速的对手。&lt;/p&gt;&lt;strong&gt;汽水音乐的进攻&lt;/strong&gt;&lt;p&gt;QuestMobile数据显示，今年6月，汽水音乐月活达到1.67亿，同比增长68.7%，超过网易云音乐，跻身行业第三。&lt;/p&gt;&lt;p&gt;同期，酷狗音乐、QQ音乐的月活分别为1.94亿和1.89亿，同比下降10.7%和0.7%。&lt;/p&gt;&lt;p&gt;汽水音乐与QQ音乐的月活差距已经缩小至2200万。&lt;/p&gt;&lt;p&gt;汽水音乐的优势很大程度上来自抖音。用户刷短视频时听到一段喜欢的音乐，可以跳转汽水音乐收听完整版。抖音既是音乐的传播渠道，也是汽水音乐的获客渠道。&lt;/p&gt;&lt;p&gt;过去，用户往往是有了听歌的需求，才会打开音乐App。抖音则在用户刷视频的过程中不断创造这种需求，再由汽水音乐承接。&lt;/p&gt;&lt;p&gt;配合免费听歌和广告解锁机制，汽水音乐对价格敏感型用户也有较强的吸引力。&lt;/p&gt;&lt;p&gt;这种竞争尚未直接反映在腾讯音乐的会员收入上，却已经给流量和广告业务带来了压力。&lt;/p&gt;&lt;p&gt;今年三季度，腾讯音乐营收89.4亿元，同比增长5.6%，一年前同期的增速为20.6%；音乐相关会员服务收入49.9亿元，同比增长9.2%。&lt;/p&gt;&lt;p&gt;腾讯音乐CEO梁柱在三季度业绩会上提到，部分广告主正在削减预算，平台也面临流量竞争，预计广告业务增长仍将承压。&lt;/p&gt;&lt;p&gt;腾讯音乐今年已陆续推出酷狗免费版、独立App“免费音乐”，进一步覆盖免费听歌人群。与此同时，微信的资源也在被更多地调用。&lt;/p&gt;&lt;strong&gt;腾讯音乐借力微信&lt;/strong&gt;&lt;p&gt;今年二季度，腾讯音乐已与微信支付展开合作，通过日常支付场景为波点音乐、酷狗概念版等轻量应用引流。&lt;/p&gt;&lt;p&gt;在三季度业绩会上，腾讯音乐管理层提到，用户已经可以从微信视频号跳转至QQ音乐和酷狗音乐，未来视频号将成为腾讯音乐的重要推广和分发渠道。&lt;/p&gt;&lt;p&gt;微信音乐的出现，让用户无需离开微信，也能使用QQ音乐提供的曲库。&lt;/p&gt;&lt;p&gt;自2021年网络音乐独家版权受到监管限制以来，腾讯音乐仍在持续投入版权采购。如果同一套曲库能够覆盖更多产品和用户场景，其版权资源的利用效率也有望提高。&lt;/p&gt;&lt;p&gt;这也是腾讯音乐与汽水音乐竞争时，可以进一步挖掘的资源。&lt;/p&gt;&lt;p&gt;不过，微信和抖音的音乐分发逻辑存在很大差异。抖音可以借助算法和短视频批量制造热门歌曲，微信音乐目前的社交玩法则更多依赖好友之间的分享。&lt;/p&gt;&lt;p&gt;微信用户每天要打开很多次微信，但有多少人愿意留在微信里听歌，仍是个未知数。&lt;/p&gt;&lt;p&gt;从目前披露的产品信息来看，微信音乐尚未建立独立的会员订阅体系，其与QQ音乐的会员权益如何衔接、商业化收益如何归属，也有待进一步明确。&lt;/p&gt;&lt;p&gt;但对于腾讯音乐来说，汽水音乐的增长已经说明，音乐App之外的流量同样能够影响音乐行业的竞争格局。&lt;/p&gt;&lt;p&gt;字节已经通过抖音把汽水音乐做到了超过1.6亿月活，腾讯手中还有一个用户规模超过十亿、尚未充分开发音乐收听场景的微信。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 砍掉宁德时代，理想砍出利润</title><link>https://wallstreetcn.com/articles/3786758</link><guid>ecc5f68b65303faa05339505b3624270c6661213dcd99d3ac6772652aed074d4</guid><pubDate>Thu, 26 Nov 2026 07:48:51 GMT</pubDate><description>&lt;p&gt;汽车行业的竞争正在从规模扩张转向成本与效率的较量，理想汽车则试图通过重构供应链，重新找回利润增长空间。&lt;/p&gt;
 &lt;p&gt;11月26日，理想汽车港股收涨8%。此前一晚，公司公布2026年第三季度财报，车辆毛利率升至15.3%，环比大幅提升5.9个百分点，净亏损显著收窄，自由现金流也由负转正。此前持续承压的盈利能力，终于出现明显修复。&lt;/p&gt;
 &lt;p&gt;财报公布后，华尔街对理想的态度也出现分化中的转暖。&lt;strong&gt;花旗将利润率反弹的重要原因指向电池供应链调整；摩根大通结束此前的减持评级，将理想上调至中性；瑞银则维持买入评级，认为公司当前估值已经具备一定吸引力。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其中，最值得关注的变化来自电池供应链。&lt;strong&gt;理想正在降低对宁德时代的依赖，提高欣旺达电池采购比例。&lt;/strong&gt;花旗估算，欣旺达电池在理想三季度采购中的占比已从二季度的5%升至45%，仅这一调整就为车辆毛利率贡献了约3.2个百分点。&lt;/p&gt;
@@ -233,73 +233,17 @@ PCB全天活跃
 
 &lt;p&gt;据彭博报道，以2008年做空美国抵押贷款市场闻名的投资者Michael Burry，在平掉纳斯达克100指数看跌期权后，其多头股票仓位已超过空头。与此同时，美国芯片限制正令亚洲数十亿美元的AI数据中心融资受阻。&lt;/p&gt;
 &lt;p&gt;Fitch Solutions旗下BMI首席经济学家Cedric Chehab表示，股市波动加剧与全球信贷利差稳步走阔，正开始影响增长与利率预期。他指出，与两周前相比，市场目前预计到明年9月美联储将少加息约一次。&lt;/p&gt;
-&lt;p&gt;“一线小小的曙光在于，尽管信贷利差走阔和股市疲软指向金融条件收紧，但债券收益率回落以及过去一两天美元指数的相对稳定，有助于限制部分收紧效应，”Chehab说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨</title><link>https://wallstreetcn.com/articles/3786738</link><guid>97e140994a322d7bfb0189ffef98923702c45e28e42f35d78b54b2238a1fdc1e</guid><pubDate>Thu, 26 Nov 2026 04:19:33 GMT</pubDate><description>&lt;p&gt;AI基础设施的最新数据呈现出一幅分化图景：用量与价格背道而驰，存储市场内部也出现明显裂痕。&lt;/p&gt;
-&lt;p&gt;追风交易台消息，11月23日摩根大通Joseph Cardoso团队发布最新《数据中心观察》月度追踪报告，&lt;strong&gt;11月大模型付费Token用量环比激增79%，但价格同步大幅下滑，导致整体支出环比增速骤然放缓至仅8%&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;这一&amp;quot;量升价跌&amp;quot;的格局，主要由腾讯Hy4 Flash和DeepSeek V4.1 Flash 1017等低价开源模型的大规模渗透所驱动。&lt;/p&gt;
-&lt;p&gt;与此同时，英伟达GPU租赁价格全线上涨，B200涨幅最为突出；&lt;strong&gt;存储市场则出现分化，DRAM现货价格连续第二个月上涨，NAND价格却加速下跌，录得连续第三个月下滑&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;上述数据对AI硬件产业链的影响不容忽视：&lt;strong&gt;GPU算力供需仍偏紧，支撑租赁价格走强；但模型层面的价格战正压缩整体推理支出的增长空间，直接影响AI基础设施投资的回报逻辑。&lt;/strong&gt;&lt;/p&gt;
-用量暴涨，价格大跌，支出增速骤降
-&lt;p&gt;摩根大通依据OpenRouter平台数据追踪显示，11月付费Token用量大幅加速，环比增长79%（10月为+25%，9月为+71%），同比则高达54倍。&lt;/p&gt;
-&lt;p&gt;然而，用量的爆发并未转化为相应的支出增长。Token成交量加权平均价格（VWAP）环比暴跌39%，同比下降52%。&lt;/p&gt;
-&lt;p&gt;（成交量加权平均Token定价）&lt;/p&gt;
-&lt;p&gt;平均Token定价也环比下滑15%。&lt;/p&gt;
-&lt;p&gt;（平均Token定价）&lt;/p&gt;
-&lt;p&gt;综合来看，估算整体支出仅环比增长8%，远低于10月的40%，同比则扩大至26倍。&lt;/p&gt;
-&lt;p&gt;（每周Token支出快照）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;用量与价格的剧烈背离，直接指向开源模型的快速崛起。&lt;/strong&gt;11月按用量排名的前五大模型合计占总Token用量的65%，高于10月的47%以上及9月的53%以上。分别为：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;腾讯Hy4 Flash；&lt;/li&gt;
-&lt;li&gt;DeepSeek V4.1 Flash 1017；&lt;/li&gt;
-&lt;li&gt;DeepSeek V4.1 Flash；&lt;/li&gt;
-&lt;li&gt;腾讯Hy4；&lt;/li&gt;
-&lt;li&gt;GLM 5.3 Flash。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;（11月按用量排名的前五大模型）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;然而在支出侧，模型截然不同，分别为：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;Claude Opus 5.5；&lt;/li&gt;
-&lt;li&gt;Claude Fable 5.2；&lt;/li&gt;
-&lt;li&gt;GPT-6.1 Sol；&lt;/li&gt;
-&lt;li&gt;Claude Sonnet 5.；&lt;/li&gt;
-&lt;li&gt;DeepSeek V4.1 Flash 1017。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;合计占总支出的51%。两份榜单中仅有DeepSeek V4.1 Flash 1017同时出现。从结构上看，本月价格下行的核心驱动有两项：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;一是&lt;/strong&gt;腾讯Hy4 Flash的大规模使用，该模型以享有50%挂牌价折扣的价格，录得88.4万亿Token的用量，占总付费用量的29%，但仅贡献约500万美元估算支出，仅占总支出的2.5%，每百万Token的混合均价约为0.056美元。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;二是&lt;/strong&gt;DeepSeek V4.1 Flash 1017用量显著增加，达到67.8万亿Token，占总用量的22%，但支出占比仅为4.3%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;从支出占比来看，闭源模型仍占据总支出的75%，但这一比例较10月的77%略有下滑。Claude Opus 5.5依然是最大单一支出来源，以8.1万亿Token贡献约5800万美元支出，占总支出的29%，但其支出环比下降5.5%，支出占比也从10月的33%进一步收窄。&lt;/p&gt;
-&lt;p&gt;（Token定价与交易量）&lt;/p&gt;
-GPU租赁价格全线上涨，B200溢价持续走阔
-&lt;p&gt;GPU算力市场延续供需偏紧格局。&lt;/p&gt;
-&lt;p&gt;研报援引彭博指数数据，11月非超大规模云厂商GPU租赁价格全线走高。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;A100&lt;/strong&gt;价格从10月的环比下跌3.1%反弹，11月均价升至每GPU小时1.61美元，环比上涨4.4%。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;H100&lt;/strong&gt;均价升至3.03美元，环比上涨6.7%，升幅与10月的7.2%相近。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;B200&lt;/strong&gt;涨势最为强劲，均价升至6.81美元，环比上涨10.9%，高于10月的7.2%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（GPU平均月租金）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;各芯片间的价格倍数也在同步扩大：&lt;strong&gt;B200与H100的价格比升至2.24倍（10月为2.16倍），H100与A100的价格比升至1.89倍（10月为1.85倍），两者均较上月走高。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;分析认为，这意味着高端算力的稀缺溢价仍在持续强化，对英伟达GPU供应链相关标的构成正向支撑。&lt;/p&gt;
-&lt;p&gt;(非超大规模云服务商的GPU平均月租金比)&lt;/p&gt;
-DRAM持续回暖，NAND加速探底
-&lt;p&gt;存储市场内部的分化则在11月进一步加剧。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;DRAM方面&lt;/strong&gt;，DDR5 16Gb现货价格升至52.70美元，环比上涨1.7%（10月为+4.4%），同比增长84%，连续第二个月录得上涨，尽管涨幅有所收窄。&lt;/p&gt;
-&lt;p&gt;据TrendForce数据，DRAM合约价格在三季度环比增长16%，四季度预计将进一步扩张约13%。&lt;/p&gt;
-&lt;p&gt;（DRAM合约价格环比增长率）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NAND方面则走势相反。&lt;/strong&gt;NAND 1Tb现货价格跌至25.00美元，环比下跌15.0%，跌幅远超10月的2.6%，为连续第三个月下滑。尽管如此，NAND现货价格同比仍上涨93%，主要因去年同期基数较低。&lt;/p&gt;
-&lt;p&gt;（内存价格月环比与月同比图）&lt;/p&gt;
-&lt;p&gt;TrendForce数据显示，&lt;strong&gt;NAND合约价格三季度环比增长21%，四季度预计将继续增长约18%，但两类存储的合约价格增速均较上季度的50%以上大幅回落。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;（NAND合约价格环比增长率）&lt;/p&gt;
-
-
-
+&lt;p&gt;“一线小小的曙光在于，尽管信贷利差走阔和股市疲软指向金融条件收紧，但债券收益率回落以及过去一两天美元指数的相对稳定，有助于限制部分收紧效应，”Chehab说。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 速腾聚创营收增四成，产品替换拨备拖累盈利</title><link>https://wallstreetcn.com/articles/3786764</link><guid>12a13773b2e37f71c98c92218453f24013b8f4d5ae7e88ad0b63c27c669a4cd5</guid><pubDate>Thu, 26 Nov 2026 07:58:26 GMT</pubDate><description>&lt;p&gt;速腾聚创的销量增长，仍未充分转化为盈利改善。&lt;/p&gt;
+&lt;p&gt;11月25日，激光雷达及机器人零部件供应商速腾聚创披露2026年前三季度业绩，营收16.92亿元，同比增长42.2%；激光雷达销量129.47万台，同比增长186.2%。同期净亏损3.28亿元，同比扩大31.9%，毛利率由25.2%降至14.6%。&lt;/p&gt;
+&lt;p&gt;产品替换成本是本期利润承压的重要原因。公司为一家整车厂客户车辆所用激光雷达产品替换累计计提约1.37亿元拨备，其中约1.19亿元计入第三季度，使单季毛利率降至3.7%。速腾聚创称，这笔拨备用于覆盖更换全新产品已经发生或将要发生的成本，未披露具体替换原因及完成情况。&lt;/p&gt;
+&lt;p&gt;拨备对利润的影响相当明显。按披露数据粗略测算，剔除这项因素后，前三季度毛利率约为22.7%，第三季度约为21.3%，均明显高于报表水平，但仍低于各自上年同期。这说明，产品替换解释了大部分毛利率降幅，经营本身也仍面临利润空间收窄的压力。&lt;/p&gt;
+&lt;p&gt;对于汽车零部件供应商，交付并不意味着一笔订单的成本已经全部确定。除了研发和制造，企业还需要承担合同约定的后续服务责任。销量扩大可以摊薄前期投入，但交付后的服务支出，也会影响订单的最终回报。这正是观察激光雷达企业规模效应时，需要考虑的另一部分成本。&lt;/p&gt;
+&lt;p&gt;车载业务的订单基础仍在扩大。截至9月底，速腾聚创已获得36家整车厂及一级供应商的197款车型定点，其中91款实现量产。更多车型进入交付阶段，为销量增长提供了支撑。&lt;/p&gt;
+&lt;p&gt;而车型何时上市、终端销量如何、不同配置采用什么产品，都会影响实际采购量。对供应商而言，争取定点只是第一步，随后还要在客户要求、产品售价和制造成本之间维持合理回报。&lt;/p&gt;
+&lt;p&gt;前三季度，激光雷达销量增速明显高于营收增速，也说明单看台数已不足以判断经营质量。不同用途和规格的产品价格存在差异，产品组合变化会影响收入表现。随着业务扩大，公司需要把芯片研发、制造效率和产能利用率的改善，落实到每一类产品的成本上。&lt;/p&gt;
+&lt;p&gt;机器人业务正在改变公司的收入结构。前三季度，机器人激光雷达销量达到42.78万台，同比增长423%。公司在此次业绩披露中表示，机器人业务贡献接近一半的产品收入，并已成为产品毛利润的主要来源。&lt;/p&gt;
+&lt;p&gt;这一变化的意义，超过了新增一个销售市场。车载产品主要跟随车型开发和量产周期，机器人产品则面向割草、清洁、配送及具身智能等不同应用。更广泛的客户来源，有机会降低对少数车型项目的依赖，但也要求企业控制不同场景带来的定制开发和服务成本。&lt;/p&gt;
+&lt;p&gt;空间相机是速腾聚创正在推进的新方向。公司披露，相关产品已进入部分AI企业供应链，并与大模型及人形机器人企业开展合作。客户验证和合作能够打开市场，能否形成持续批量采购，才决定新品对收入和利润的实际贡献。&lt;/p&gt;
+&lt;p&gt;基于当前订单需求与交付节奏，公司预计第四季度激光雷达销量将突破100万台。若这一预期兑现，规模将进一步扩大，盈利表现则需要结合产品结构、制造成本和后续替换支出观察。&lt;/p&gt;
+&lt;p&gt;速腾聚创已经取得了销量增长，下一步需要提高增长留下的利润。车载业务能否改善订单回报、机器人产品能否形成稳定采购，以及替换事项的实际支出如何落定，将共同影响公司的扭亏进程。&lt;/p&gt;
 &lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[今日雪球] 从黄金与AI同跌谈谈避险分化与周期切换</title><link>http://www.xueqiu.com/5332385101/418675250</link><guid>93538eb10488db3373238e416b6e9ce4d2514742acfb25c6aa86b6857a48ce59</guid><pubDate>Thu, 26 Nov 2026 09:52:25 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;陆家嘴幽灵&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;昨晚美股在节前清淡成交中走出震荡。受美10月核心PCE同比反弹至3.3%（创23年11月以来新高）及AI拖累，纳指100一度较10月高点回撤20%；随后逢低买盘介入收窄跌幅，最终纳指收跌0.65%，道指在防御及传统权重带动下逆势收涨0.31%。英伟达收跌3.91%、美光下跌4.53%，数据中心CDS篮子升至523.5个基点的历史高位。&lt;/p&gt;</description></item><item><title>[今日雪球] 对10个月前的答案，黄金到底还能不能买？</title><link>http://www.xueqiu.com/2884313460/418672082</link><guid>ad4f593ff44fe323ef88d9daedf7ec8fad7e9e17373b23918732d0361f7c2c6d</guid><pubDate>Thu, 26 Nov 2026 09:53:01 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;鴨先知&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;11 月 25 日深夜，伦敦金跌破 3500 美元，最低 3454.16。&lt;/p&gt;</description></item><item><title>[今日雪球] 2026年，12类资产集体坐过山车，谁扛住了？（11.26）</title><link>http://www.xueqiu.com/9391624441/418689966</link><guid>c075e3b4177a1c1642dea9372db36ecdd5b7868a6ebebc504a8e1abe357ebe19</guid><pubDate>Thu, 26 Nov 2026 09:52:38 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;六亿居士&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;市场继续震荡下行，上证指数回落至3500点下方，深证成指跌至10000点附近，而创业板指则跌破2200点，整个市场估值回落至&lt;strong&gt;28.3℃&lt;/strong&gt;，再次进入&lt;strong&gt;正常偏低状态&lt;/strong&gt;。&lt;/p&gt;</description></item></channel></rss>
