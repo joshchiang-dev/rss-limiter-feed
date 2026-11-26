@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 04:29:10 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
+<rss version="2.0"><channel><title>Josh Chiang RSS Limiter</title><link>https://joshchiang-dev.github.io/rss-limiter-feed/limited.xml</link><description>Rate-limited RSS feed for Feedly</description><lastBuildDate>Thu, 26 Nov 2026 04:59:12 GMT</lastBuildDate><item><title>[华尔街见闻] 算力“利空砸盘”：先有企业Token使用增速放缓传言，随后爆出SpaceX下调Blackwell GPU价格“多达1/3”</title><link>https://wallstreetcn.com/articles/3786726</link><guid>9becb29f5d2a772b715a35b52391c6d969b01b8fc60e21e57a3af9a1ff8a22b6</guid><pubDate>Thu, 26 Nov 2026 00:30:10 GMT</pubDate><description>&lt;p&gt;AI算力市场在24小时内接连遭遇需求&lt;strong&gt;增速放缓与供给增加&lt;/strong&gt;的双重冲击，GPU租赁价格的剧烈重估引发了投资者对基础设施可能出现供给过剩的担忧。&lt;/p&gt;
 &lt;p&gt;据SemiAnalysis向其机构客户发布的报告，SpaceX已将英伟达Blackwell GPU小集群的现货租赁报价从约15至15.5美元/GPU/小时下调至10至12美元/GPU/小时，降幅达20%至35%；同时，Anthropic将不再续租SpaceX一个约5万张H200的集群，该批算力已以约5美元/GPU/小时的价格重新对外报价，2027年初交付。科技媒体The Information以“&lt;strong&gt;AI股最大的担忧：芯片过剩&lt;/strong&gt;”为题报道了SemiAnalysis的核心观点。&lt;/p&gt;
 &lt;p&gt;在供给端出现松动的同时，&lt;strong&gt;企业端需求也显现疲态&lt;/strong&gt;。就在供给端出现松动的消息传出前数小时，支付公司Ramp联合首席执行官Eric Glyman表示，过去两个月AI的“杰文斯悖论”已经破裂——Token价格持续下跌，但使用量的增长已不足以弥补降价带来的收入损失。&lt;/p&gt;
 &lt;p&gt;市场反应迅速而剧烈。周二英伟达下跌近6%，回吐了周一31.5%涨幅的一部分；CoreWeave与Nebius各自大跌11%。周三英伟达再跌近4%。&lt;/p&gt;
@@ -104,7 +104,21 @@ Anthropic为何“退租”：一份可随时退出的合同
 &lt;p&gt;现货黄金走V收涨0.5%，盘中一度跌破3,500美元、随后反弹逾150美元。现货白银回到40.91美元，涨0.37%；铜涨0.47%至5.39美元。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;比特币上涨0.7%，报60237.01美元，以太币上涨0.6%，报1688.59美元。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普将英伟达列入“信用观察负面”名单，治理风险成评级焦点</title><link>https://wallstreetcn.com/articles/3786715</link><guid>f2f38e2f3870996ea57a4d9bd0be89ce99f51353fdae1c31b47c0abfb6f89094</guid><pubDate>Wed, 25 Nov 2026 20:56:28 GMT</pubDate><description>&lt;p&gt;11月25日周三，&lt;strong&gt;标普全球评级将英伟达的信用评级列入“信用观察负面”名单&lt;/strong&gt;，意味着这家当前评级为“AA”的芯片巨头可能在90天内遭遇下调。&lt;strong&gt;理由在于公司管理层与治理风险上升，这给投资者敲响了信用层面的警钟。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] Neuralink：人脑植入临床试验获得美国食品药品管理局批准</title><link>https://wallstreetcn.com/articles/3786741</link><guid>467e843c3c1d68663bcbcc68b7bc28d4136de50f4e1d3d037e7ae6eb15b0a411</guid><pubDate>Thu, 26 Nov 2026 04:42:42 GMT</pubDate><description>&lt;p&gt;马斯克创立的脑机接口初创公司Neuralink已获得美国监管机构批准，将正式启动名为LINK的关键性临床试验，以评估其脑部植入设备在肌萎缩侧索硬化症（ALS）重度瘫痪患者中的安全性与有效性。此举标志着该公司从早期可行性探索迈向商业化上市审批的关键一步。&lt;/p&gt;
+&lt;p&gt;11月25日，Neuralink在其声明及社交平台X上宣布，已获得美国食品药品监督管理局（FDA）的批准，将在美国启动首个植入式脑机接口关键性临床试验LINK。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;该公司表示，本次试验建立在超过30名早期受试者的研究基础之上，患有ALS的群体可能符合入组资格。&lt;/p&gt;
+&lt;p&gt;这项研究旨在收集更充分的临床安全性与有效性数据，为该脑机接口系统未来推向商业市场铺平道路。不过，&lt;strong&gt;此次获批仅针对临床试验本身，并不等同于批准植入物上市，该系统目前仍处于临床研究阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于资本市场而言，临床试验阶段的推进是验证脑机接口商业化路径的核心指标。Neuralink在脑机接口赛道的融资规模处于行业领先地位，据彭博亿万富翁指数显示，该公司去年完成了6.5亿美元融资，估值已达90亿美元。&lt;/p&gt;
+从早期验证迈向商业化审批
+&lt;p&gt;LINK试验的启动代表着Neuralink研发进程的阶段性跨越。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在此前的早期可行性试验中，该公司已累计为超过30名受试者植入设备，重点验证系统的基础安全性与基本功能，覆盖人群包括ALS及脊髓损伤导致的瘫痪患者。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;早在2025年，Neuralink便披露其首位ALS受试者Bradford Smith已能够仅凭大脑信号进行打字与交流。此次进入关键性试验阶段，意味着监管机构允许其在更严格的临床方案下进一步积累长期证据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在技术路径上，Neuralink的系统通过手术将N1植入物置于患者颅骨内，并利用R1手术机器人将柔性电极丝精准植入大脑，以记录神经电活动&lt;/strong&gt;。随后，配套软件会解码与用户预期动作相关的神经信号，并将其转化为控制电脑或其他电子设备的指令。&lt;/p&gt;
+&lt;p&gt;Neuralink明确界定了该系统的功能边界，即旨在为严重肢体受限群体提供无需依赖传统物理外设的数字化交互方案。该技术并不能治愈ALS或瘫痪，也无法恢复受试者原有的肢体运动能力、躯体感觉或自然语言功能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于LINK试验的具体执行细节，Neuralink在周三的公告中尚未披露拟招募的受试者总数、试验持续周期以及预计完成时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;针对外界关注的入组标准，该公司指出ALS患者可能符合参与条件，但单纯的ALS确诊并不能保证获得入组资格。潜在受试者必须满足研究方案设定的各项要求，并通过Neuralink的正式筛选流程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前，该公司已引导有意向的参与者前往其临床试验官网查询最新招募动态，并着手推进受试者招募与临床方案落地。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 标普将英伟达列入“信用观察负面”名单，治理风险成评级焦点</title><link>https://wallstreetcn.com/articles/3786715</link><guid>f2f38e2f3870996ea57a4d9bd0be89ce99f51353fdae1c31b47c0abfb6f89094</guid><pubDate>Wed, 25 Nov 2026 20:56:28 GMT</pubDate><description>&lt;p&gt;11月25日周三，&lt;strong&gt;标普全球评级将英伟达的信用评级列入“信用观察负面”名单&lt;/strong&gt;，意味着这家当前评级为“AA”的芯片巨头可能在90天内遭遇下调。&lt;strong&gt;理由在于公司管理层与治理风险上升，这给投资者敲响了信用层面的警钟。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这是英伟达治理风波从董事会层面传导至信用市场的直接体现。本周，董事会先宣布将寻找黄仁勋的继任者，随后又恢复了他的CEO职务，而独立董事委员会对其本人的调查仍在进行中。&lt;/p&gt;
 &lt;p&gt;据路透社报道，&lt;strong&gt;标普明确表态，这一事件暴露了英伟达管理层与治理框架的脆弱性，尤其是董事会结构、构成与有效性方面的不足。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;上周三穆迪已经下调英伟达评级展望。&lt;a href="https://wallstreetcn.com/articles/3786235"&gt;华尔街见闻提及&lt;/a&gt;，11月18日，穆迪将英伟达评级展望由“正面”下调至“稳定”，维持Aa1高级无担保债务评级不变。&lt;/p&gt;
@@ -283,51 +297,7 @@ DRAM持续回暖，NAND加速探底
 &lt;p&gt;据报道，在特朗普的第二个任期内，双方关系一度出现波折。上周，马斯克在《纽约时报》的DealBook峰会上公开表示，自己并不属于“让美国再次伟大”（MAGA）运动。他称两党“各有优缺点”，并表示后悔在中期选举中花费了近5亿美元。&lt;/p&gt;
 &lt;p&gt;尽管如此，特朗普近期仍对外释放了对马斯克的庇护信号。特朗普周一在接受采访谈及黄仁勋在英伟达的复职时表示：“&lt;strong&gt;我在第一任期内保护了埃隆……我爱埃隆，我认为他很棒。他有80%是超级天才，20%有其他问题，但我会告诉他。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;报道指出，特朗普的此番言论引发了外界的侧目与警觉。市场担忧，这暗示联邦政府可能会允许其认为更有价值的特定个人规避相关的规则与监管。&lt;/p&gt;
-&lt;p&gt;在这一背景下，SpaceX与马斯克的巨额股票捐赠，正被投资者视为衡量未来美国政府对特定科技巨头监管态度的关键指标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 纳指入熊，BTIG：抛售才过半程，AI熊市后全面熊市或正在路上</title><link>https://wallstreetcn.com/articles/3786729</link><guid>28e09387138b3af7541d73ab00bdbe94c6f070d296711cc58e90447848d87138</guid><pubDate>Thu, 26 Nov 2026 01:30:56 GMT</pubDate><description>&lt;p&gt;11月25日周三，纳斯达克100指数盘中跌幅一度触及20%关口，从10月6日的历史收盘高点计算，正式进入技术性熊市区间。&lt;/p&gt;
-&lt;p&gt;而在BTIG首席技术策略师Jonathan Krinsky看来，这场抛售远未结束——可能才走完一半。&lt;strong&gt;迄今为止，这是一场AI熊市，而非整个股票市场的熊市。但他认为这一局面即将改变。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-历史样本指向3月低点，还要继续跌16%？
-&lt;p&gt;上周五，纳指单日暴跌5.61%；本周一，随着英伟达CEO黄仁勋重返岗位的消息传出，纳指反弹逾7%。这种“单日跌5%、次日涨5%”的组合，自1985年以来仅出现过12次。&lt;/p&gt;
-&lt;p&gt;Krinsky在周一的报告中翻出了这12次的后续：&lt;strong&gt;11次中，纳指在三天后均收低，平均跌幅为-5.4%。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;周三早盘，纳指期货隐含跌幅恰好约为5.4%——与历史均值分毫不差。现货开盘后，纳指当日跌幅进一步扩大至逾4%。&lt;/p&gt;
-&lt;p&gt;Krinsky在其最新报告《Cold Turkey》（感恩节前夕发布）中写道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;三天回报的历史均值和中位数均为-5.4%，这与我们目前看到的走势完全吻合。但真正的问题是，接下来怎么走？&lt;strong&gt;不幸的是，该信号触发后30天内，纳指的平均和中位最大回撤为-16%，这意味着将重新测试3月低点——对应QQQ约550-570美元，标普500指数约6400-6500点。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;换算成当前点位：标普500的6450点较周三约7000点再跌约8%，较10月高点则下跌约18%；QQQ的560美元较本周二收盘价638美元（未计入周三跌幅）还需再跌约12%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-一半成分股仍然健康，这才是问题
-&lt;p&gt;截至周二收盘，标普500中有55.7%的成分股位于50日均线上方，同样比例位于200日均线上方。即便在上周五的恐慌低点，这两个读数也“稳稳高于40%，这与过去30年我们见过的任何一次持久底部都不相符”。Krinsky直言：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;鉴于标普500中仍有超过50%的成份股位于50日和200日均线之上，包括全球市值最大的公司（苹果）仍接近历史高位，市场在未来数周内还有充足的下跌空间，直到出现真正的全面抛售。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;过去30年，8%以上回调见底时，标普500站上50日均线的成分股比例中位数仅为11%，历史最高为44%，出现在2024年8月日元套息交易平仓期间。&lt;/p&gt;
-&lt;p&gt;从55%降到接近真实底部的水平，意味着指数中另外那一半——那些悄悄轮动到医疗保健和日用消费品里的股票——最终也要被拖下水。&lt;/p&gt;
-&lt;p&gt;Krinsky的结论是：&lt;strong&gt;迄今为止，这是一场AI熊市，而非整个股票市场的熊市。但他认为这一局面即将改变。&lt;/strong&gt;&lt;/p&gt;
-苹果是最后一个尚未下跌的权重股
-&lt;p&gt;在纳指100已进入熊市之际，全球市值最大的公司距历史高点仅差几个百分点。上周五收盘时，苹果较高点低3.68%，而QQQ已较低点回撤19.9%。&lt;/p&gt;
-&lt;p&gt;Krinsky回溯至QQQ 1999年成立以来的数据：上一次苹果收盘距52周高点不足5%、而QQQ距自身高点回撤19%以上，是2002年5月。27年里仅此一例。&lt;/p&gt;
-&lt;p&gt;2002年5月，苹果距52周高点3.56%，QQQ已下跌逾32%；到当年8月，苹果跌去约46%。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Krinsky主动为这个类比设了边界：“2002年的苹果当然是一家完全不同的公司，所以它从2002年5月到8月跌约50%这件事，并不适用于当下。但话说回来，它确实显示了这种分化已经极端到什么程度，而且归根结底它仍是一只科技股，因此我们认为它越来越容易向大盘‘补跌’。”&lt;/p&gt;
-&lt;p&gt;没有人预测一家市值5万亿美元、资产负债表稳健的公司会跌46%。但自2015年以来历次标普500见底时，苹果的中位回撤为23%，最小的一次也有11.8%。即便只对标最温和的那一次，也意味着从当前位置高个位数的跌幅。&lt;/p&gt;
-&lt;p&gt;苹果的特殊之处在于，它是大型科技股中唯一没有在GPU上投入数千亿美元、也不需要为此融资的公司——这正是追加保证金到来时，最后一件被卖出的资产。&lt;/p&gt;
-避险资金流向日用消费品
-&lt;p&gt;Krinsky的避险答案自必需消费板块创下2000年10月以来最佳单月表现后就没有变过，即便面对估值质疑。&lt;/p&gt;
-&lt;p&gt;“我们认为，必需消费仍是当前市场波动中最好的避风港。虽然部分消费股今年涨了不少、被认为‘昂贵’，但自2023年年中以来，等权重必需消费（RSPS）跑输等权重标普500（RSP）约40%。此前的市场底部，RSPS在见底后跑赢RSP 25%至30%。目前该比值已较近期低点回升约13%，跑赢空间可能还有。”&lt;/p&gt;
-&lt;p&gt;历史数据支持这一判断：2015至2016年的下跌中，RSPS跑赢RSP 27%；新冠疫情期间跑赢25.5%；2022年跑赢27%。本轮从十多年低点回升13%，大致走完一轮“正常”见底轮动的一半。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这不是Krinsky一个人的看法。高盛策略师指出，历史上大规模的周期股向防御股轮动通常持续约四个月，超额收益为10%至15%；摩根大通国际股票团队称，由医疗保健和必需消费引领的扩散“正是当前的主线”。周二就是教科书式的一天：费城半导体指数回吐7.9%，必需消费上涨1.3%，等权重标普500收高。&lt;/p&gt;
-美元走强，给科技股又添一重压力
-&lt;p&gt;最后一个信号来自外汇市场。Krinsky周一就指出，美元根本没有参与“黄仁勋反弹”。&lt;/p&gt;
-&lt;p&gt;彭博美元指数已突破一个持续18个月的底部形态。“彭博美元指数在突破18个月底部后继续走强，美元阻力最小的方向仍是向上。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;美元走强意味着金融条件收紧，而这一压力已经在起作用：高盛金融条件指数今年收紧约100个基点，其中近一半发生在上一周。再加上三年来最热的PCE数据、12月加息已被定价97%、以及对欧盟等十多个经济体新加征的关税，美元有充分理由继续上行，长久期科技股则有充分理由继续下跌。&lt;/p&gt;
-最后的买家：杠杆散户
-&lt;p&gt;值得注意的是，纳指在仅仅33个交易日内下跌20%，抹去了近&lt;strong&gt;8万亿美元&lt;/strong&gt;市值，但ETF在高点以来却持续净流入逾&lt;strong&gt;2000亿美元&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;高盛ETF交易台指出，这意味着加了杠杆的散户投资者，目前是市场上“最后的买家”。这与历史上真正的市场底部所呈现的&amp;quot;投降式抛售&amp;quot;截然不同。&lt;/p&gt;
-&lt;p&gt;Krinsky给出的路线图是：未来数周内，市场向3月低点（QQQ 550-570美元，标普500指数 6400-6500点）方向震荡下行；而真正的全面抛售，可能要等到苹果和那一半仍在高位的成份股最终“入场”之后，才会到来。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏</title><link>https://wallstreetcn.com/articles/3786735</link><guid>22d59578dfa0a2b4000ae2415426dc6f3c61c44d716c1988e82129c21f76c6b5</guid><pubDate>Thu, 26 Nov 2026 02:51:05 GMT</pubDate><description>&lt;p&gt;全球贸易政策的变化，正在推动SHEIN（希音）重新调整区域经营策略。&lt;/p&gt;
+&lt;p&gt;在这一背景下，SpaceX与马斯克的巨额股票捐赠，正被投资者视为衡量未来美国政府对特定科技巨头监管态度的关键指标。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏</title><link>https://wallstreetcn.com/articles/3786735</link><guid>22d59578dfa0a2b4000ae2415426dc6f3c61c44d716c1988e82129c21f76c6b5</guid><pubDate>Thu, 26 Nov 2026 02:51:05 GMT</pubDate><description>&lt;p&gt;全球贸易政策的变化，正在推动SHEIN（希音）重新调整区域经营策略。&lt;/p&gt;
 &lt;p&gt;11月25日，SHEIN公布2026年第三季度业绩，实现净收入102.71亿美元，同比下降5.9%；经营利润7.43亿美元，同比增长17.4%。&lt;/p&gt;
 &lt;p&gt;期内净利润同比增长 654.5% 至 46.48 亿美元，其中 40.75 亿美元来自上市相关的优先股公允价值变动等非现金一次性收益；经调整净利润为7.9亿美元，同比增长26.8%、环比增长246.5%，高于高盛此前预测的6.74亿美元。&lt;/p&gt;
 &lt;p&gt;三季度是欧盟取消低价值商品关税豁免后的首个完整季度。SHEIN欧洲市场收入降幅进一步扩大，但美国市场需求已出现企稳迹象，拉美等新兴市场则继续贡献增量。&lt;/p&gt;
@@ -356,90 +326,7 @@ DRAM持续回暖，NAND加速探底
 &lt;p&gt;其中，品牌赋能业务是SHEIN拓宽价格带的重要抓手，目前已与20多个品牌展开合作。&lt;/p&gt;
 &lt;p&gt;许仰天强调，自营仍是SHEIN的核心业务，预计未来自营与第三方业务的GMV结构将趋于稳定。在第三方业务内部，品牌赋能业务的增速有望快于商城业务。&lt;/p&gt;
 &lt;p&gt;“这件事是多年的过程，急不来。”许仰天表示，寻找合适的品牌合作伙伴及双方磨合均需要时间，但长期来看，品牌赋能业务可能成为关键的利润驱动力。&lt;/p&gt;
-&lt;p&gt;“希音的增长不依赖于单一市场。”许仰天表示，随着业务布局进一步多元化，SHEIN希望通过更丰富的商品供给和更具竞争力的价值主张，满足全球消费者不断变化的需求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] AI周期能持续多久？</title><link>https://wallstreetcn.com/articles/3786731</link><guid>e20fdfc156b3996341536e2e0a654b1ed831137e6215975e11aaab4a41c6889a</guid><pubDate>Thu, 26 Nov 2026 03:32:48 GMT</pubDate><description>&lt;p&gt;2026年11月，美国中期选举尘埃落定，美股AI板块的剧烈震荡与信贷市场的信用利差走阔，正在把华尔街拉入一场关于“AI投资周期持久性”的深度拷问。&lt;/p&gt;
-&lt;p&gt;11月25日，高盛最新一期播客中，主持人 Allison Nathan 邀请了身处算力基建与企业软件一线的Social Capital创始人Chamath Palihapitiya，以及高盛首席美国互联网研究分析师Eric Sheridan。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;两位嘉宾围绕新兴云厂商的商业漏洞、企业端迟迟未兑现的投入产出比（ROI），以及科技巨头的财务兜底能力，完整拆解了本轮AI周期的真实账本与潜在拐点。&lt;/p&gt;
-&lt;p&gt;高盛分析师Eric Sheridan认为&lt;strong&gt;超大规模云厂商回报率可轻松超过15%红线，但明确三大周期终结信号：终端需求萎缩、资本断流、电力短缺。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Social Capital创始人Chamath Palihapitiya警告，&lt;strong&gt;新兴云厂商本质是&amp;quot;反向银行&amp;quot;，以短期算力租赁收入偿还长期债务&lt;/strong&gt;，GPU利用率若无法突破75%将引发债务危机。&lt;/p&gt;
-&lt;p&gt;他还指出，当前AI计费模式停留在&amp;quot;按Token收费&amp;quot;的1999年阶段，企业ROI尚未兑现。&lt;/p&gt;
-算力基建的“时间差陷阱”：电力瓶颈与新兴云的反向银行危机
-&lt;p&gt;每一轮科技基建周期都会遭遇“建设前置”与“变现滞后”的久期错配，但在本轮AI浪潮中，这种错配被物理世界的供电瓶颈和激进的金融杠杆急剧放大。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;过去一年，市场对算力扩张的预期建立在芯片出货量的线性推演上，却严重低估了数据中心从拿地到通电的物理阻力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;与此同时，一批依托资产支持证券（ABS）大举举债购买GPU的新兴云厂商，正在复制航空业的高危商业模型&lt;/strong&gt;：背负长达六到八年的重资产折旧与融资债务，却在现货市场上按小时出售极易贬值的算力座位。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一旦英伟达按年度节奏推出新一代芯片，或者大模型推理效率大幅提升，这些缺乏底层硬资产壁垒的“算力二房东”将面临严峻的利用率考验。近期部分AI相关信贷产品的利差走阔和信用违约互换（CDS）飙升，正是敏锐的债券市场提前嗅到了这种结构性脆弱。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chamath Palihapitiya 过去一年将投资重心从芯片转向了底层的“土地、电力与机房外壳”，目前已在全美积累了6吉瓦的电力资产。他在访谈中用一线实操经历点破了基建交付的残酷现实：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;要把这些电力资产真正通电运转，其中的复杂程度简直令人麻木。&lt;/strong&gt;德克萨斯州的矿产权纠纷、因为地下有个化粪池而卡住的环境评估、尺寸不合的混凝土基座，再加上燃气轮机供应商的严重积压。把这些因素拼在一起，现实情况让我非常担忧。&lt;strong&gt;我看到的是市场对可用产能做出了海量承诺，但实际交付量却很低，而能产生实际投资回报的商业面积更是少之又少。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;谈及新兴云厂商的财务脆弱性，Chamath 给出了一个极具穿透力的金融类比：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;新兴云厂商本质上就是一家反向运转的银行。传统银行吸收的是储户随时可能提走的短期存款，发放的是十年、十一年期的按揭和商业贷款，也就是‘短借长贷’；&lt;strong&gt;新兴云厂商把这套逻辑彻底颠倒了过来，他们的收入高度依赖客户按小时计费的短期投机性需求，但背负的债务却是长期且固定的。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;他进一步警告称，就像航空公司上座率必须达到80%至85%才能盈亏平衡一样，新兴云厂商的GPU利用率必须跨越70%至75%的门槛才能在顶部25%的区间赚钱&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果你只是一堆租赁合同的集合体，本质上你就是一个中间商。&lt;strong&gt;未来18个月，如果大企业不能从实验阶段转向大规模真实消费，Token消耗量就无法爆发，利用率就会卡在75%到85%的灰色地带，久期错配的债务问题迟早会反噬。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-停留在“1999年”的商业模式：Agent越忙，企业越亏？
-&lt;p&gt;资本开支能否持续，最终取决于终端企业能否从AI中赚到真金白银。然而，当前AI产业的商业化正卡在一个尴尬的瓶颈上：技术使用量在飙升，企业财务报表上的利润却纹丝不动。&lt;/p&gt;
-&lt;p&gt;这种背离源于计费模式与组织惯性的双重掣肘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在计费层面&lt;/strong&gt;，主流大模型厂商依然停留在按“百万Token”售卖算力库存的阶段，企业买到的是计算量而非业务结果。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在组织层面&lt;/strong&gt;，企业中层员工普遍担忧AI会取代自己的岗位，导致新技术在大型组织内部的渗透远慢于实验室预期，即便局部岗位节省了工时，这些零散的时间也往往在冗长的业务流程中被白白耗散，未能转化为公司整体的全要素生产率。&lt;/p&gt;
-&lt;p&gt;Chamath创办的企业级AI公司8090专门用于观察AI如何转化为实际回报，他用自家公司的真实账本揭示了这一悖论：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果你把8090内部的智能体工作流画成图表，你会看到Token消耗量直线上升，Agent的循环调用次数高得离谱。我公司里干活的Agent数量大概比人类员工多出一个数量级，而且还在涨。&lt;strong&gt;但如果你问我，今天的投资回报率（ROI）比昨天高了1%吗？我的回答是大概没有。事实上，我的利润率反而下降了1%，因为更多的Agent在跑更多的任务，导致我的总支出增加了，哪怕单个Token的成本正在下降。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在他看来，2026年的AI行业像极了1999年的互联网泡沫前夜&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1999年，雅虎、AOL这些互联网巨头的核心商业模式是按千次展示（CPM）卖广告；到了2026年，AI巨头的核心商业模式是按百万Token收费，两者如出一辙。直到三四年后，谷歌彻底改变了游戏规则，从按展示收费转向按点击或按转化付费（CPA），这意味着客户从‘购买库存’转向了‘购买结果’。&lt;/p&gt;
-&lt;p&gt;我们今天依然坐在2026年买着以百万量计的Token。谁能率先在规模化层面转向‘按结果付费’，谁就能让像我这样的企业主拿到财务团队算得清的账单，比如说‘你这个月花了100万美元，但带来了150万美元的产出，回报率极佳，继续投入’。但今天，我还做不到这一点。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;他同时指出，&lt;strong&gt;翻遍当下美股上市公司的财报，每股收益（EPS）的增长大多来自股票回购，利润率的改善多源于通胀带来的定价权，真正敢公开归功于AI驱动的盈利增长公司“少之又少，几乎不存在”。&lt;/strong&gt;&lt;/p&gt;
-15%回报率红线与周期的三大刹车片
-&lt;p&gt;面对资本市场对“巨额烧钱”的质疑，高盛首席美国互联网研究分析师Eric Sheridan从历史计算周期的规律出发，给出了相对冷静的回应。&lt;/p&gt;
-&lt;p&gt;在华尔街看来，&lt;strong&gt;过去12到18个月AI板块经历的三次显著回调，本质上是投资者试图用“六个月的财报考核周期”，去丈量需要“五到八年才能兑现”的底层计算基建。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;虽然内存等硬件成本出现了超预期的通胀，企业端普及也存在员工抵触的摩擦，但超大规模云厂商手握的巨额积压订单正在提供可量化的回报可见度。&lt;/p&gt;
-&lt;p&gt;Eric Sheridan 明确指出，市场当前的焦虑完全可以理解，但并未脱离历史轨道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我分析过的每一个计算周期都会经历这个过程。随着周期向纵深推进、投资规模不断滚大，市场审查必然会变得越来越严厉。&lt;strong&gt;一旦资本投入的时间点与回报可见度之间出现久期错配，幻灭感就会蔓延到整个周期中，我们现在正处在这个阶段。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;云业务、移动计算、桌面计算通常都需要五到八年的周期，但大多数人总希望它们按六个月的节奏兑现。&lt;/strong&gt;投资者渴望像管理实时库存一样去调配前瞻性的算力资本，&lt;strong&gt;但这在现实中根本行不通——你必须先买地、建数据中心、塞满计算设备并点亮通电，然后才能把算力卖给别人。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;针对投资者最关心的投入资本回报率，Eric 披露了高盛内部的测算逻辑与最新财报季的验证信号：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;我们围绕行业最低15%的投入资本回报率做过测算，我们认为超大规模云厂商非常容易达到15%以上的回报。甚至不需要100%的积压订单转化为收入，也不需要在此基础上产生额外增长，就能实现这一回报水平。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Eric 补充表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在刚刚过去的财报季，微软和亚马逊都针对投入资本回报率给出了非常详尽的解答，两家公司的股价都在财报后实现了双位数上涨；Alphabet 明确表示其云业务回报率远高于加权平均资本成本；Meta 的营收增速更是保持在25%左右，而12个月前我曾预测他们本季度增速会降至12%，正是&lt;strong&gt;AI在核心广告业务中的应用为广告主创造了实打实的收入增量。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;那么，究竟什么力量会真正终结本轮AI投资周期？Eric讲道：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;大家总想让我从股价的角度回答这个问题，但周期放缓绝不会是一个由股价驱动的决定。&lt;strong&gt;超大规模云厂商承受股价阵痛的忍耐周期，远比我每天接触的绝大多数机构投资者要长。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Eric划出了三条决定AI投资周期生死的底线&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;真正可能阻断或推迟这一主题演进的只有三件事：&lt;strong&gt;终端需求&lt;/strong&gt;、&lt;strong&gt;资本获取能力&lt;/strong&gt;以及&lt;strong&gt;电力供应&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;只要电力跟不上、资本断了流、或者需求塌了方——这三块拼图只要缺了任何一块，我们就会陷入一种更永久性的停滞，而不仅仅是一次短暂的幻灭低谷。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-谁在为万亿豪赌兜底？
-&lt;p&gt;如果AI基建的回报兑现比预期更漫长，谁将最终承担资产负债表受损的代价？&lt;/p&gt;
-&lt;p&gt;两位嘉宾在风险定价上达成了高度一致：&lt;strong&gt;风险正沿着产业链条向外围扩散，拥有强大核心现金流的科技巨头依然稳坐钓鱼台，而高度依赖外部融资和单一算力租赁的边缘玩家正在被市场重新定价。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chamath 通过AI梳理了所有上市云厂商与新兴云厂商的监管文件，将它们的产能建设承诺与“照付不议（Take-or-pay）”债务进行了交叉比对。他发现，绝大多数新兴云厂商的特殊目的载体（SPV）背后，其实都站着提供投资级信用增级的科技巨头：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;所有路径最终都指向了为这场基建狂潮提供资金源头的投资级巨头，也就是超大规模云厂商。有意思的是，这些大块头已经从过去自由现金流极其充沛、忙着回购股票、几乎不发债的状态，变成了自由现金流大幅转负，开始发债甚至发行股票来为基建融资。他们押上了全部身家，坚信自己能为这场建设兜底。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Chamath认为科技巨头最终是对的，但问题只在于“什么时候”。Chamath说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;就像当年互联网泡沫一样，所有关于生产力和收入增长的预测最终都应验了，但大家全都在时间点上犯了错——市场从2002年一路出清到2007年，紧接着又碰上全球金融危机，整个行业直到2010、2011年才真正站稳脚跟。不过，超大规模云厂商不会有事，他们拥有极其扎实的核心业务和近乎完美的资产负债表。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Eric Sheridan则从二级市场估值的角度印证了这一风险分层：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;超大规模云厂商不会陷入极端负面的境地，他们在AI主题之外拥有能持续产生自由现金流的底层核心业务。真正的风险存在于资产负债表更外围的环节——那些高度依赖AI叙事来贡献绝大部分增量收入的公司。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Eric Sheridan补充道：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;如果你看看现在市场上谁的市盈率只有个位数或低双位数，那是因为绝大多数机构投资者根本不知道这些公司未来能否实现收入增长，还是会直接崩盘。市场其实已经嗅出味道了。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拯救纳指！“大空头”Burry转多：做空仓位几近清零，四分之一现金备战抄底</title><link>https://wallstreetcn.com/articles/3786713</link><guid>d3bbe754932b7905ffc4bd10072c9d46563d03a2b265c54cf3de4703f2e2cbef</guid><pubDate>Wed, 25 Nov 2026 23:01:34 GMT</pubDate><description>&lt;p&gt;因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。&lt;/p&gt;
+&lt;p&gt;“希音的增长不依赖于单一市场。”许仰天表示，随着业务布局进一步多元化，SHEIN希望通过更丰富的商品供给和更具竞争力的价值主张，满足全球消费者不断变化的需求。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] 拯救纳指！“大空头”Burry转多：做空仓位几近清零，四分之一现金备战抄底</title><link>https://wallstreetcn.com/articles/3786713</link><guid>d3bbe754932b7905ffc4bd10072c9d46563d03a2b265c54cf3de4703f2e2cbef</guid><pubDate>Wed, 25 Nov 2026 23:01:34 GMT</pubDate><description>&lt;p&gt;因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。&lt;/p&gt;
 &lt;p&gt;Burry周三早间在其Substack专栏&amp;quot;Cassandra Unchained&amp;quot;发文表示：&lt;strong&gt;&amp;quot;在全球范围内，我的投资组合比过去一段时间更加偏多，做空更少。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;他补充称，&lt;strong&gt;除Palantir和MetLife的看跌期权外，目前他&amp;quot;暂时几乎全部为多头&amp;quot;。&lt;/strong&gt;之所以说是&amp;quot;暂时&amp;quot;，是因为他仍在持续评估做空机会。&lt;/p&gt;
 &lt;p&gt;周三午间，美股收窄跌幅，成交量随之上升，显示投资者对解除部分看跌股票头寸的兴趣正在升温。纳斯达克100指数一度下跌逾4.7%，随后跌幅收窄至约一半；道琼斯工业平均指数则短暂转涨。&lt;/p&gt;
@@ -459,4 +346,32 @@ DRAM持续回暖，NAND加速探底
 &lt;p&gt;Burry的仓位调整发生在科技股遭遇显著回撤的背景下。纳斯达克100指数盘中触及熊市门槛，反映市场对AI驱动涨势可持续性的疑虑正在加深。&lt;/p&gt;
 &lt;p&gt;对投资者而言，Burry的动向提供了一个观察专业投资者如何在波动加剧时重新配置风险的视角：看跌期权成本高企削弱了对冲效率，而直接做空在不对称风险下并不划算，这促使部分资金转向被低估的个股与长期期权。&lt;/p&gt;
 &lt;p&gt;Burry明确表示，其当前偏多立场是&amp;quot;暂时的&amp;quot;，做空机会仍在评估之中。&lt;/p&gt;
-&lt;p&gt;他给出的再次做空英伟达的参考价位为每股200美元，且需等待市场乐观情绪回升的窗口。这一条件设置暗示，他并不认为当前下跌已经结束，而是在等待更好的做空入场时机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;他给出的再次做空英伟达的参考价位为每股200美元，且需等待市场乐观情绪回升的窗口。这一条件设置暗示，他并不认为当前下跌已经结束，而是在等待更好的做空入场时机。&lt;/p&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item><item><title>[华尔街见闻] “先卖了再说”！AI投资回报疑虑叠加通胀超预期，纳指100一度跌入熊市</title><link>https://wallstreetcn.com/articles/3786710</link><guid>be8f0ceb754b06ce8ec1e6719fe93a67657c8a591bb14b40784dbdc755745d4d</guid><pubDate>Wed, 25 Nov 2026 18:07:24 GMT</pubDate><description>&lt;p&gt;&lt;strong&gt;纳斯达克100指数连续第二日重挫，盘中一度较高点回落20%，触及熊市门槛。&lt;/strong&gt;对人工智能过度投资的担忧集中爆发，叠加通胀数据强化加息预期，科技股遭遇广泛抛售。&lt;/p&gt;
+&lt;p&gt;周三美股盘中，纳斯达克100下跌4.5%，标普500下跌2.9%。波动性率指数（VIX）升破33，追踪芯片股的交易所基金跌超过7%。纳斯达克100年内累计涨幅已转负。标普500正走向2008年金融危机以来表现最差的11月。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;“先卖出，后提问，”The Wealth Alliance总裁兼董事总经理Eric Diton表示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“这轮残酷抛售由英伟达的不稳定引发，再被美联储加息周期和对科技股盈利增长见顶的担忧放大。贷款机构感到紧张，它们在质疑AI股票未来的投资回报究竟如何。没有人知道答案。”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+英伟达领跌，“七巨头”集体走弱
+&lt;p&gt;周三，一篮子“七巨头”（Magnificent Seven）股票下跌近4%，其中英伟达以7.8%的跌幅领跌，特斯拉、微软、Meta和苹果全线走低。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本周一，黄仁勋重新执掌英伟达曾带动一轮短暂反弹，但市场热情迅速消退——投资者意识到，对AI风险、成本与盈利前景的疑虑，其分量远超任何一位“关键人物”的影响力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI产业链各环节同步承压。&lt;/strong&gt;英伟达关键代工厂台积电ADR下跌6.6%，SK海力士ADR下跌7.1%。Anthropic PBC在前一交易日首次跌破83美元的IPO发行价后，再度下跌5.6%；该股上周上市首日曾因AI热潮一度冲高至115美元。&lt;/p&gt;
+&lt;p&gt;Panmure Liberum策略师Joachim Klement表示：“市场仍深陷对AI繁荣可持续性的担忧之中。”&lt;/p&gt;
+流动性偏薄，放大了波动
+&lt;p&gt;&lt;strong&gt;美国迎来感恩节假期缩短交易周，市场流动性低于正常水平，这可能放大波动，也使投资者短期内不愿重建显著的股票敞口。&lt;/strong&gt;市场周四因感恩节休市，周五将于纽约时间下午1时提前收盘。&lt;/p&gt;
+&lt;p&gt;投资者对AI相关股票的胃口依然脆弱，融资能否支撑AI基础设施建设、高昂资本开支会否侵蚀大型企业盈利，这些疑虑挥之不去。&lt;/p&gt;
+&lt;p&gt;即便是所谓的“快钱”也跟不上叙事切换的速度：高盛集团交易台汇编的估算显示，&lt;strong&gt;商品交易顾问（CTA）预计将在未来五个交易日内抛售680亿美元的全球股票&lt;/strong&gt;，规模与截至上周五的五个交易日相当——那是疫情以来股市表现最差的一周。&lt;/p&gt;
+&lt;p&gt;这些系统性基金所跟踪的模型，至今尚未发出放缓卖出的信号。&lt;/p&gt;
+&lt;p&gt;抛售尚未波及市场所有角落。标普500指数11个板块中有三个周三收涨，必需消费品板块领涨；标普500等权重指数仅下跌约1%。&lt;/p&gt;
+通胀顽固，加息预期升温
+&lt;p&gt;周三公布的数据显示，美联储偏好的核心通胀指标——&lt;strong&gt;10月核心PCE物价指数同比上涨3.3%，为2023年11月以来最高水平；整体PCE物价指数同比上涨3.8%，为2023年5月以来最高，远高于央行2%的目标。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“美联储官员已多次表达解决顽固通胀问题的决心，这引发了对12月可能再次加息的担忧，”圣路易斯Argent Capital Management投资组合经理Jed Ellerbroek表示。&lt;/p&gt;
+&lt;p&gt;“但随着股市挣扎，交易员现在开始争论：这轮抛售是否已经在替美联储完成一部分工作，也许他们可以收手。”&lt;/p&gt;
+关税新计划再添压力
+&lt;p&gt;科技股之外，交易员还在评估美国计划对欧盟等其他十余个经济体商品加征新进口税的影响。&lt;/p&gt;
+&lt;p&gt;此举旨在重建总统特朗普被最高法院裁定违宪的全面全球关税议程，交易员担心这会抑制增长并推升通胀。&lt;/p&gt;
+&lt;p&gt;前美林交易员、The Sevens Report通讯创始人Tom Essaye写道：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;有关美国新关税计划的报道给市场带来进一步压力，&lt;/strong&gt;在对工业产能过剩展开调查后，特朗普政府正准备对十多个主要贸易伙伴的进口商品征收新关税，贸易紧张局势重新点燃。”&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;本文来自华尔街见闻，欢迎下载APP查看更多&lt;/p&gt;</description></item></channel></rss>
